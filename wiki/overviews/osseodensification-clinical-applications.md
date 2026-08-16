@@ -2,7 +2,7 @@
 title: "골밀도화 (Osseodensification, OD) 임상 적용 — Fontes Pereira 2023 spine + 4 시나리오 walk-through"
 authors: synthesis (llm-wiki)
 year: 2026
-date: 2026-06-28
+date: 2026-08-16
 type: overview
 category: [overviews]
 tags: [osseodensification, densahbur, primary-stability, ISQ, BIC, sub-antral, narrow-ridge, low-density-bone, immediate-implant]
@@ -146,7 +146,7 @@ Fontes Pereira 2023 SR을 spine으로 37편을 4개 임상 시나리오(상악�
 | **좁은 치조정 — BD / CE / ISQ** | **BE·BC·OD 실험군 ↑ (대조 대비)** | **BD 견고 / CE·ISQ 취약** | **[확인, 단 출판편향 고위험]** | López-Valverde 2025 SR+MA (10편/241명): BD SMD −0.71 (I²=0%, 견고) · CE −1.12 (I²≥75%, **민감도 분석 전엔 NS**) · ISQ −8.88 (I²=96%). **세 기법 합산 vs 대조이지 OD vs BE head-to-head가 아님** — §3-2 |
 | **과잉 압축 (harm ceiling)** | **densification → destruction 전환점이 존재** | **Low (전임상 1편)** | **[확인, 단 쥐·초록 전용]** | Coyac 2019: 고미스핏 → 골밀도화 → 미세골절 → 골세포 사멸 → 흡수 우세 → 조기 실패. **크기 미상** (초록에 미스핏 크기·토크·p값 없음) — 천장이 *있다*고만 말하고 *어디인지* 말하지 않음. 독립 임상 신호: Rizk 2024 RCT 과잉 밀도화 실패 3건 — §1 |
 
-Fontes Pereira 2023의 명시적 limitation: "evidence quality low–moderate, RCT 부족, follow-up 짧음" — 본 overview는 living document로 갱신 ([[feedback_wiki-living-document]]).
+Fontes Pereira 2023의 명시적 limitation: "evidence quality low–moderate, RCT 부족, follow-up 짧음" — 본 overview는 living document로 갱신.
 
 ---
 
@@ -283,7 +283,7 @@ graph LR
 
 ## 5. Spine SR의 한계 — living document 갱신 포인트
 
-[[feedback_wiki-living-document]] 원칙으로 명시:
+Living document 원칙으로 명시:
 
 - **Search cutoff 2023**: 2024–2026 추가 RCT·SR (예: [[konuklu-2026-five-osteotomy-protocols-isq-rct]], [[starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis]]) 반영 필요 — 본 overview는 이미 반영, Fontes Pereira 2023 페이지 자체는 그대로.
 - **저밀도골 ISQ 명제 하향 (2026-06-01 갱신)**: [[mohammadi-2025-osseodensification-conventional-low-density-bone-sr-ma]] SR+MA가 저밀도골 1차·2차 ISQ 모두 NS로 보고 — Fontes Pereira 2023의 "greatest benefit" 프레이밍과 충돌. Outcome matrix ISQ 행을 1차/2차로 분리하고 confidence를 하향. [[al-ahmari-2022-osseodensification-conventional-low-density-jaw]] split-mouth도 반례. **이득은 IT(기계적)에 확실, ISQ(RFA)는 인체 근거 혼재**로 재정식화.
