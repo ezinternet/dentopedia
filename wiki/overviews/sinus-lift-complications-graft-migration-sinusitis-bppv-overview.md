@@ -106,6 +106,7 @@ Narrative synthesis (no pooling; heterogeneous designs). Base: 3 case reports/se
 - [[sinus-lift/lateral/vaddi-2021-available-height-location-patency-ostium]] — CBCT safe augmentation height ≈27/23 mm to preserve ostium drainage
 - [[sinus-lift/transcrestal/akcay-2016-bppv-sinus-floor-elevation-antecedent-vertigo]] — refractory post-OSFE BPPV; prior vertigo a proposed risk factor
 - [[sinus-lift/transcrestal/damsaz-2023-bppv-incidence-closed-sinus-lift-ridge-split]] — closed sinus lift BPPV 3.1% vs ridge split 0% (overall 1.8%, p=0.509 NS)
+- [[sinus-lift/lateral/schiavo-di-flaviano-2024-schneiderian-perforation-implant-survival-sr-ma]] — SR+MA: 슈나이더리안 점막 천공(Schneiderian Membrane Perforation, SMP) 발생 시 임플란트 생존율(Implant Survival Rate, ISR) 비교 — 천공군 ISR은 비천공군과 통계적 유의차 없음(RR ≈ 1.0); 천공 크기와 수복 방법이 ISR 예측 요인; 소천공 즉시 콜라겐 플러그/골막 등으로 수복 시 예후 양호 — 천공 자체를 시술 중단 적응증으로 볼 필요 없다는 근거. (sr+ma, 2024)
 
 ## Related Overviews
 
