@@ -242,6 +242,7 @@ In high-tension GBR/augmentation sites, closure engineering determines regenerat
 - [[suture-wound-closure/shakiliyeva-2025-conventional-modified-sling-suture-free-gingival-graft]] — FGG: 채취술식(GUT)>봉합패턴
 - [[suture-wound-closure/kim-2017-palatal-releasing-incision-soft-tissue-closure]] — 구개측 이완절개로 협측 골막이완 완전 생략 (case-series n=4)
 - [[suture-wound-closure/lee-2026-clinical-and-histological-outcomes]] — FGG 공여부 드레싱: ACM vs 콜라겐 무차이 (pilot split-mouth RCT n=19)
+- [[suture-wound-closure/jeevitha-2025-tissue-adhesives-vs-sutures-periodontal-flap-sr-ma]] — SR+MA (10 RCTs, 2015–2023): wound healing equivalent NS (SMD −0.50, p=0.29); tissue adhesives → significantly less pain, better esthetics, shorter closure time; no significant difference in wound dehiscence or infection. Cyanoacrylate adhesives viable alternative where esthetics/comfort prioritized over tensile requirements (sr+ma, 2025)
 
 ### Cross-category links
 - [[overviews/gbr-barrier-membrane-exposure-axis]] — 노출=중심 실패모드 (이 overview의 §2와 직접 연동)
