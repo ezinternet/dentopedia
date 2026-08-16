@@ -255,3 +255,4 @@ Causal chain: Thin facial bone wall → 발치 후 bundle bone 흡수 → 협측
 - [[immediate-implant/esthetic-soft-tissue/martins-2024-facial-bone-wall-immediate-implant-esthetic]]
 - [[overviews/type-1a-immediate-placement-immediate-loading-decision]] — Type 1A 적응증 (자매 페이지)
 - [[overviews/cosyn-immediate-implant-4-bundle-decision]] — 4변수 술식 의사결정 (자매 페이지)
+- [[implants/soft-tissue/nart-2025-soft-tissue-augmentation-pstd-sr-ma]] — SR+MA (PSTD management 술식): CAF+CTG for established PSTD — professional esthetic score 7.7/10, patient satisfaction only 60.8/100 (significant perception gap); complete coverage does not guarantee patient satisfaction. Patient-reported outcome integrated at treatment planning stage.
