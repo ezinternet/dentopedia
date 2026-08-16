@@ -1,0 +1,16 @@
+ABSTRACT-ONLY — full text not retrieved (Int J Prosthodont, not in PMC)
+
+PMID: 33284909
+DOI: 10.11607/ijp.6644
+Title: Monitoring Overeruption Pattern of Young vs Adult Unopposed Molars in the Rat.
+Authors: Denes BJ, Lagou A, Kiliaridis S.
+Journal: Int J Prosthodont. 2020;33(6):663-670.
+
+ABSTRACT:
+Purpose: To investigate the overeruption of unopposed molars and the adaptation of alveolar bone height in young and adult rats.
+
+Materials and Methods: A total of 56 4-week-old (young) and 26-week-old (adult) male Wistar rats were followed up longitudinally. In each age group (n = 28), 16 rats were included in the experimental subgroup, in which all the maxillary right molars were extracted, and 12 rats were included in the control subgroup. All rats were scanned at regular intervals with in vivo microcomputed tomography for a 12-week period, and the eruption rate of the mandibular first molars and the surrounding bone were measured, with the reference point at the mandibular canal. The molar categories were unopposed right molars and overloaded left molars in the experimental group and control molars in the control group.
+
+Results: The young unopposed molars had the highest mean eruption rate (172 ± 67 μm/day). The overeruption was most marked during the first 3 weeks postextraction, thereafter gradually returning to a level comparable to controls (12.9 ± 6.8 μm/day). The overloaded adult molars did not erupt during the experimental period. Alveolar bone height also increased in young unopposed molars, but at a slower pace than overeruption, causing an increase in clinical crown height. The increase of clinical crown height was 4.5-fold higher in young unopposed molars compared to control molars.
+
+Conclusions: Unopposed young molars overerupt at a higher pace than adult molars during the first weeks postextraction. The alveolar bone grows in response to the tooth eruption but to a lesser extent, which leads to a constant increase in clinical crown height at the same rate in young and adult rats.
