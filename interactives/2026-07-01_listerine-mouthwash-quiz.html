@@ -12,6 +12,7 @@ source_wiki:
   - wiki/periodontics/oral-hygiene-instruction/james-2017-chlorhexidine-mouthrinse-adjunctive-gingival.md
   - wiki/oral-microbiology/plummer-2022-listerine-mouthwash-oropharyngeal-microbiota.md
   - wiki/oral-microbiology/min-2024-essential-oil-mouthrinses-plaque-microbiome.md
+  - wiki/oral-microbiology/pignatelli-2020-periodontal-disease-nitric-oxide-blood-pressure.md
 note: "hygienist-education 스킬 산출 퀴즈. 문항은 위키 근거로 LLM 저작(자동생성 아님) — scripts/build-quiz.py가 스펙(interactives/quiz-specs/listerine-mouthwash.json)에서 HTML 생성. source_wiki가 도구보다 최신이면 interactive-staleness가 STALE 신호."
 ---
 -->
@@ -65,10 +66,10 @@ note: "hygienist-education 스킬 산출 퀴즈. 문항은 위키 근거로 LLM 
 <body>
 <div class="wrap">
   <h1>🧴 리스테린(에센셜오일) 가글 효과 자가테스트</h1>
-  <div class="sub">치위생사 교육 · 6문항 · 답을 고르면 정답·해설·근거가 열립니다.</div>
+  <div class="sub">치위생사 교육 · 7문항 · 답을 고르면 정답·해설·근거가 열립니다.</div>
   <div class="bar"><i id="bar"></i></div>
   <div id="quiz"></div>
-  <div class="score" id="score">진행: <span id="done">0</span>/6 · 정답 <span class="big" id="pts">0</span></div>
+  <div class="score" id="score">진행: <span id="done">0</span>/7 · 정답 <span class="big" id="pts">0</span></div>
   <button class="reset" onclick="location.reload()">↻ 다시 풀기</button>
   <div class="foot">출처: <a href="/dentopedia/overviews/antiseptic-mouthrinse-chlorhexidine-essential-oil-overview" target="_blank">항균 가글(CHX·에센셜오일) 종합 overview</a> · 교육용 요약 — 개별 판단은 위키 원문·원장 확인</div>
 </div>
@@ -147,6 +148,18 @@ const QUESTIONS = [
     "ans": 1,
     "rat": "EO가 이상증식 치태를 건강 조성으로 전환하고 치은염 ≥37% 감소를 보였으나, J&J 후원 단일 RCT라 이해상충을 감안해 해석해야 한다.",
     "cite": "oral-microbiology/min-2024-essential-oil-mouthrinses-plaque-microbiome"
+  },
+  {
+    "q": "고혈압 환자에게 장기 CHX 가글보다 에센셜오일(EO) 가글이 권장되는 심혈관계 이유는?",
+    "opts": [
+      "CHX가 플루오린과 결합해 재광화를 방해",
+      "CHX가 구강 질산환원균을 죽여 혈압을 2–3.5 mmHg 올릴 수 있음",
+      "EO가 치주낭 깊이를 직접 줄임",
+      "CHX가 타액 분비를 억제해 구강건조 유발"
+    ],
+    "ans": 1,
+    "rat": "CHX 항균 작용이 구강 공생 질산환원균(Actinobacillus·Rothia·Neisseria)을 제거하면 타액 아질산염 생산↓→ 산화질소(NO) 혈관확장 신호↓→ 혈압 +2–3.5 mmHg 상승 가능. 고혈압 환자에서는 이 경로를 보존하는 EO가 CHX 대신 선호된다 — 착색 부작용 외 심혈관적 추가 이유.",
+    "cite": "oral-microbiology/pignatelli-2020-periodontal-disease-nitric-oxide-blood-pressure"
   }
 ];
 const SITE_BASE="/dentopedia";
