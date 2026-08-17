@@ -16,6 +16,7 @@ source_wiki:
   - wiki/implants/isq/sennerby-2008-implant-stability-resonance-frequency-analysis.md
   - wiki/implants/isq/bhandarkar-2023-rfa-mathematical-modeling-implant-stability.md
   - wiki/implants/isq/chatvaratthana-2017-cortical-bone-crestal-buccolingual-isq.md
+  - wiki/implants/isq/sennerby-2015-two-different-implant-designs-drilling.md
 relations:
   - type: extends
     target: implants-isq-stability-ladder
@@ -91,7 +92,7 @@ This is the distinction the whole page exists to make, and it is the one clinici
 
 They are orthogonal axes. Tightening a guitar string (stiffness↑) raises its **pitch**; plucking it harder raises its **loudness** and leaves pitch untouched. Osstell excites the SmartPeg with magnetic pulses and reads the frequency at which it rings — it listens to pitch, not volume. `f = (1/2π)√(k/m)` contains no amplitude term.
 
-And the relationship is not merely "independent" — Bhandarkar 2023 reports that at the resonance peak, higher stiffness yields **lower** micro-displacement. So:
+And the relationship is not merely "independent" — Bhandarkar 2023 reports that at the resonance peak, higher stiffness yields **lower** micro-displacement. [[implants/isq/sennerby-2015-two-different-implant-designs-drilling]] empirically confirms this direction from the bench side: applying a standardized 15 N lateral force to the same implants after RFA measurement shows that higher ISQ co-occurs with **lower lateral displacement (μm)** and lower flex constant (μm/N). Critically, this correlation collapsed between implant designs in high-density bone — bone quality dominated fixture geometry when stiffness was already high. So:
 
 | System | Vibration speed | Vibration amplitude |
 |---|---|---|
@@ -149,6 +150,7 @@ The `f = (1/2π)√(k/m)` framing and the beam/fulcrum language are **general vi
 - [[implants/isq/sennerby-2008-implant-stability-resonance-frequency-analysis]] — the RFA inventor's own synthesis: three ISQ determinants including EL; stability dip
 - [[implants/isq/bhandarkar-2023-rfa-mathematical-modeling-implant-stability]] — 2-DOF mass-spring-damper model, FEA-derived k and c, 5–15 kHz sweep + FFT: stiffness↑ → resonance↑ and micro-displacement↓
 - [[implants/isq/debruyne-2017-isq-laser-vibrometry-resonance-frequency]] — LDV-captured RF through the Osstell algorithm vs direct IDx: r=0.990; three stiffness entities; RF ~5.0–8.6 kHz; cross-generation ~9–10 ISQ bias
+- [[implants/isq/sennerby-2015-two-different-implant-designs-drilling]] — bench study (bovine bone, n=18 pairs) simultaneously measuring RFA + direct lateral displacement (15 N, μm) + flex constant (μm/N): empirical bridge confirming that higher ISQ co-occurs with lower fixture lateral displacement; correlation collapsed in high-density bone
 
 **기전이 설명하는 관찰 (mechanism-explained observations)**
 - [[implants/isq/chatvaratthana-2017-cortical-bone-crestal-buccolingual-isq]] — crestal cortical r=0.885; nothing at 6/9 mm; cancellous irrelevant at every depth
