@@ -2272,6 +2272,9 @@ tags: []
 - [[practice-management/nelson-2011-text-vs-voice-reminder-pediatric-dental-rct]] — Nelson 2011 · rct(n=318, 소아) · 음성 리마인더가 SMS보다 우수(no-show 8.2% vs 17.7%, 보정 OR 2.12) — 채널이 중요, "리마인더 보내라" 단순권고 한정 (초록기반)
 - [[practice-management/bailey-2021-patient-safety-culture-primary-dental-care]] — Bailey 2021 · narrative-review · 1차 치과진료(전체의 ~95%) 환자안전문화 구축: 인적요인·second victim·과잉규제 경계 (초록기반)
 - [[practice-management/yansane-2020-patient-safety-culture-dentistry-assessment]] — Yansane 2020 · cross-sectional(미국 4개 치대, n=656) · MOSPSC 측정 — 의료가 치과를 10개 중 9개 안전문화 차원에서 앞섬; 치과 강점은 조직학습(85%)·팀워크(79%) (초록기반)
+- [[practice-management/bailey-2025-patient-safety-dentistry-decade]] — Bailey 2025 · narrative-review · 치과 환자안전 10주년 업데이트: Safety I→II, HALT/IMSAFE, PSIRF 2023-24, NHS 일차의료 안전전략 2024(일차치과의료 명시), Project Sphere
+- [[practice-management/padmanabhan-2024-patient-safety-dentistry-narrative]] — Padmanabhan 2024 · narrative-review · 치과 특화 정의(이상반응·아차사고·안전문화·sentinel event) + 도입 지연 7원인 + 7요소 제도 안전문화 구축 프레임워크
+- [[practice-management/saeed-2024-leadership-patient-safety-dentistry]] — Saeed 2024 · cross-sectional(n=104, DMOSOPS+TLS) · 리더십↔환자안전문화 r=0.455(p<0.001), 치과병원 최초 정량화; 영감적 소통 r=0.504 최강 예측인자; 비전 차원 무상관
 - [[practice-management/ono-2022-cost-sharing-childhood-dental-utilization-japan]] — Ono 2022 · retrospective(DiD, 일본 청구자료 n=1,108) · 소아 치과보조금 중단(만10세)이 단기 이용·비용·중증치아상태에 유의 변화 없음 — 보편의료 맥락 cost-sharing (초록기반)
 - [[practice-management/listl-2019-what-is-health-economics-oral-health]] — Listl 2019 · narrative-review · 치과 보건경제학 입문: 수요·비대칭정보·시장실패(효율·형평)·경제성평가·공급자유발수요·인력기획 (초록기반)
 - [[practice-management/team-feedback-system-johari]] — 내부 SOP (synthesis, 2026-07-11 신설) · 조하리의 창 기반 팀 피드백 시스템 운영 매뉴얼: 상향 익명 → 실장 1:1 실명 → 파트 수평 3단계, 리더 자기개방 선행·루프 클로징 원칙, 위생사 ~20명 팀 대상. 도입 결정 [[note-meeting/2026-07-11_wiki-team-feedback-system]]
