@@ -1,0 +1,836 @@
+<!DOCTYPE html>
+<html lang="ko" data-theme="">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>IIP 케이스 복잡도 계산기</title>
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+/* ── Light tokens ────────────────────────────────────── */
+:root {
+  --bg:         #F0EEE9;
+  --surface:    #FFFFFF;
+  --surface-2:  #F6F5F1;
+  --ink:        #1C2130;
+  --ink-2:      #485060;
+  --ink-3:      #8898A8;
+  --border:     #D8D4CC;
+  --border-2:   #C8C4BC;
+  --accent:     #1B3A6B;
+  --accent-light:#E8EEF8;
+  --accent-mid: #4A70B0;
+
+  /* risk colours */
+  --low:    #0B5C33; --low-bg:    #E2F4EB; --low-bd:    #50B87A;
+  --mod:    #7A5200; --mod-bg:    #FEF4E0; --mod-bd:    #C89030;
+  --high:   #8A1C10; --high-bg:   #FCECEA; --high-bd:   #CC5050;
+
+  --radius: 10px;
+  --radius-sm: 6px;
+  --sh: 0 1px 4px rgba(20,24,40,.07), 0 0 0 1px rgba(20,24,40,.05);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg:         #12131A;
+    --surface:    #1A1E2B;
+    --surface-2:  #232840;
+    --ink:        #D8DCEA;
+    --ink-2:      #8898B8;
+    --ink-3:      #5060A0;
+    --border:     #2A3050;
+    --border-2:   #38405A;
+    --accent:     #6090D8;
+    --accent-light:#0D1C38;
+    --accent-mid: #6090D8;
+    --low:  #3CB878; --low-bg:  #0C2A18; --low-bd:  #3CB878;
+    --mod:  #D4A040; --mod-bg:  #261C08; --mod-bd:  #D4A040;
+    --high: #E06858; --high-bg: #2A1010; --high-bd: #E06858;
+  }
+}
+:root[data-theme="dark"] {
+  --bg:         #12131A;
+  --surface:    #1A1E2B;
+  --surface-2:  #232840;
+  --ink:        #D8DCEA;
+  --ink-2:      #8898B8;
+  --ink-3:      #5060A0;
+  --border:     #2A3050;
+  --border-2:   #38405A;
+  --accent:     #6090D8;
+  --accent-light:#0D1C38;
+  --accent-mid: #6090D8;
+  --low:  #3CB878; --low-bg:  #0C2A18; --low-bd:  #3CB878;
+  --mod:  #D4A040; --mod-bg:  #261C08; --mod-bd:  #D4A040;
+  --high: #E06858; --high-bg: #2A1010; --high-bd: #E06858;
+}
+
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo",
+               "Noto Sans KR", "Malgun Gothic", system-ui, sans-serif;
+  min-height: 100vh;
+  padding: 24px 16px 56px;
+  font-size: 15px;
+  line-height: 1.6;
+}
+
+.wrap { max-width: 680px; margin: 0 auto; }
+
+/* ── Header ─────────────────────────────────────────── */
+.hdr {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 26px;
+}
+.hdr-badge {
+  display: inline-block;
+  font-size: 10.5px;
+  font-weight: 700;
+  letter-spacing: .07em;
+  text-transform: uppercase;
+  color: var(--accent);
+  background: var(--accent-light);
+  border: 1px solid var(--accent-mid);
+  border-radius: 4px;
+  padding: 2px 8px;
+  margin-bottom: 7px;
+  opacity: .9;
+}
+h1 {
+  font-size: 20px;
+  font-weight: 800;
+  line-height: 1.25;
+  color: var(--ink);
+  text-wrap: balance;
+}
+.hdr-sub {
+  font-size: 13px;
+  color: var(--ink-3);
+  margin-top: 5px;
+}
+.theme-toggle {
+  flex-shrink: 0;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  padding: 6px 10px;
+  cursor: pointer;
+  font-size: 16px;
+  line-height: 1;
+  color: var(--ink-3);
+  transition: background .15s;
+}
+.theme-toggle:hover { background: var(--surface-2); }
+
+/* ── Axis section ────────────────────────────────────── */
+.sections {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 14px;
+  margin-bottom: 18px;
+}
+@media (max-width: 560px) {
+  .sections { grid-template-columns: 1fr; }
+}
+
+.axis-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--sh);
+  overflow: hidden;
+}
+.axis-head {
+  padding: 13px 16px 11px;
+  border-bottom: 1px solid var(--border);
+  background: var(--surface-2);
+}
+.axis-badge {
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: .07em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+  margin-bottom: 3px;
+}
+.axis-title {
+  font-size: 15px;
+  font-weight: 800;
+  color: var(--ink);
+}
+
+/* ── Parameter row ───────────────────────────────────── */
+.param {
+  padding: 11px 16px;
+  border-bottom: 1px solid var(--border);
+}
+.param:last-child { border-bottom: none; }
+.param-name {
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--ink);
+  margin-bottom: 3px;
+  line-height: 1.3;
+}
+.param-hint {
+  font-size: 11.5px;
+  color: var(--ink-3);
+  margin-bottom: 7px;
+  line-height: 1.35;
+}
+.radio-row {
+  display: flex;
+  gap: 6px;
+}
+.radio-btn {
+  flex: 1;
+  border: 1.5px solid var(--border);
+  border-radius: var(--radius-sm);
+  padding: 6px 4px;
+  text-align: center;
+  cursor: pointer;
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--ink-3);
+  background: var(--surface-2);
+  transition: all .12s;
+  -webkit-user-select: none; user-select: none;
+}
+.radio-btn:hover {
+  border-color: var(--accent-mid);
+  color: var(--ink);
+  background: var(--accent-light);
+}
+.radio-btn.sel-low  { background: var(--low-bg);  border-color: var(--low-bd);  color: var(--low);  font-weight: 800; }
+.radio-btn.sel-mod  { background: var(--mod-bg);  border-color: var(--mod-bd);  color: var(--mod);  font-weight: 800; }
+.radio-btn.sel-high { background: var(--high-bg); border-color: var(--high-bd); color: var(--high); font-weight: 800; }
+
+/* ── Score summary ───────────────────────────────────── */
+.score-summary {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--sh);
+  padding: 20px 22px;
+  margin-bottom: 14px;
+}
+.score-title {
+  font-size: 10.5px;
+  font-weight: 700;
+  letter-spacing: .07em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+  margin-bottom: 14px;
+}
+.score-bars {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+  margin-bottom: 18px;
+}
+@media (max-width: 440px) { .score-bars { grid-template-columns: 1fr; } }
+.score-bar-wrap {}
+.sb-label {
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--ink-2);
+  margin-bottom: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+.sb-level {
+  font-size: 12px;
+  font-weight: 800;
+  border-radius: 3px;
+  padding: 1px 7px;
+}
+.sb-level.l-low  { background: var(--low-bg);  color: var(--low); }
+.sb-level.l-mod  { background: var(--mod-bg);  color: var(--mod); }
+.sb-level.l-high { background: var(--high-bg); color: var(--high); }
+.sb-level.l-none { background: var(--surface-2); color: var(--ink-3); }
+.sb-track {
+  height: 7px;
+  background: var(--surface-2);
+  border-radius: 4px;
+  border: 1px solid var(--border);
+  overflow: hidden;
+}
+.sb-fill {
+  height: 100%;
+  border-radius: 4px;
+  transition: width .35s ease, background .25s;
+}
+.sb-fill.l-low  { background: var(--low); }
+.sb-fill.l-mod  { background: var(--mod); }
+.sb-fill.l-high { background: var(--high); }
+.sb-fill.l-none { background: var(--border); }
+
+/* ── Matrix ──────────────────────────────────────────── */
+.matrix-wrap { overflow-x: auto; margin-bottom: 6px; }
+.matrix-title {
+  font-size: 10.5px;
+  font-weight: 700;
+  letter-spacing: .07em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+  margin-bottom: 10px;
+}
+table.mat {
+  border-collapse: collapse;
+  width: 100%;
+  min-width: 320px;
+  font-size: 12.5px;
+}
+.mat th {
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  padding: 7px 10px;
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--ink-3);
+  text-align: center;
+  white-space: nowrap;
+}
+.mat td {
+  border: 1px solid var(--border);
+  padding: 8px 10px;
+  text-align: center;
+  font-size: 12px;
+  color: var(--ink-2);
+  line-height: 1.45;
+  transition: background .25s, color .25s, border .25s;
+  cursor: default;
+  position: relative;
+}
+.mat td .s-rate { font-weight: 800; display: block; font-size: 14px; }
+.mat td .c-rate { font-size: 11px; opacity: .8; }
+.mat td.c-active {
+  background: var(--accent-light);
+  border: 2px solid var(--accent);
+  color: var(--ink);
+  box-shadow: inset 0 0 0 1px var(--accent-mid);
+}
+.mat td.c-active .s-rate { color: var(--accent); }
+.mat td.c-low  { background: var(--low-bg); }
+.mat td.c-mod  { background: var(--mod-bg); }
+.mat td.c-high { background: var(--high-bg); }
+.mat .row-lbl {
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--ink-3);
+  background: var(--surface-2);
+  padding: 6px 10px;
+  white-space: nowrap;
+  text-align: right;
+}
+
+/* ── Outcomes ────────────────────────────────────────── */
+.outcomes {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--sh);
+  padding: 20px 22px;
+  margin-bottom: 14px;
+}
+.outcomes-title {
+  font-size: 10.5px;
+  font-weight: 700;
+  letter-spacing: .07em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+  margin-bottom: 14px;
+}
+.outcome-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+  margin-bottom: 14px;
+}
+@media (max-width: 440px) { .outcome-grid { grid-template-columns: 1fr; } }
+.oc-cell {
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  padding: 12px 14px;
+}
+.oc-label {
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--ink-3);
+  margin-bottom: 4px;
+  text-transform: uppercase;
+  letter-spacing: .04em;
+}
+.oc-value {
+  font-size: 22px;
+  font-weight: 800;
+  font-variant-numeric: tabular-nums;
+  line-height: 1.15;
+}
+.oc-note {
+  font-size: 11.5px;
+  color: var(--ink-3);
+  margin-top: 2px;
+  line-height: 1.4;
+}
+.oc-value.v-ok  { color: var(--low); }
+.oc-value.v-mod { color: var(--mod); }
+.oc-value.v-bad { color: var(--high); }
+
+.outcome-note {
+  font-size: 12.5px;
+  color: var(--ink-3);
+  line-height: 1.6;
+  border-top: 1px solid var(--border);
+  padding-top: 12px;
+}
+.outcome-note strong { color: var(--ink-2); }
+
+/* ── Reset ────────────────────────────────────────────── */
+.btn-reset {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  padding: 9px 18px;
+  font-size: 13.5px;
+  font-weight: 600;
+  color: var(--ink-2);
+  cursor: pointer;
+  transition: color .12s, border-color .12s;
+}
+.btn-reset:hover { color: var(--ink); border-color: var(--border-2); }
+
+/* ── Footer ──────────────────────────────────────────── */
+.footer {
+  text-align: center;
+  font-size: 12px;
+  color: var(--ink-3);
+  margin-top: 26px;
+  line-height: 1.7;
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <!-- Header -->
+  <div class="hdr">
+    <div>
+      <div class="hdr-badge">케이스 복잡도 계산기 · IIP / IIPP</div>
+      <h1>즉시식립 케이스<br>난이도 분류기</h1>
+      <div class="hdr-sub">Liu 2025 (Retrospective · N=53 · 15년) 외과적×보철적 2축 분류</div>
+    </div>
+    <button class="theme-toggle" id="themeBtn" title="테마 전환" aria-label="테마 전환">🌙</button>
+  </div>
+
+  <!-- Two-axis form -->
+  <div class="sections">
+
+    <!-- Surgical -->
+    <div class="axis-card" id="surgCard">
+      <div class="axis-head">
+        <div class="axis-badge">외과적 난이도 축</div>
+        <div class="axis-title">외과 파라미터 (4개)</div>
+      </div>
+
+      <div class="param">
+        <div class="param-name">① 골량 (Bone Volume)</div>
+        <div class="param-hint">CBCT 기준 3차원 골량 및 일차 안정성 예측</div>
+        <div class="radio-row">
+          <button class="radio-btn" data-axis="s" data-idx="0" data-val="1" onclick="pick(this)">저</button>
+          <button class="radio-btn" data-axis="s" data-idx="0" data-val="2" onclick="pick(this)">중</button>
+          <button class="radio-btn" data-axis="s" data-idx="0" data-val="3" onclick="pick(this)">고</button>
+        </div>
+      </div>
+
+      <div class="param">
+        <div class="param-name">② 소켓 해부형태</div>
+        <div class="param-hint">Elian 분류: Type I(저) / II(중) / III(고)</div>
+        <div class="radio-row">
+          <button class="radio-btn" data-axis="s" data-idx="1" data-val="1" onclick="pick(this)">Type I</button>
+          <button class="radio-btn" data-axis="s" data-idx="1" data-val="2" onclick="pick(this)">Type II</button>
+          <button class="radio-btn" data-axis="s" data-idx="1" data-val="3" onclick="pick(this)">Type III</button>
+        </div>
+      </div>
+
+      <div class="param">
+        <div class="param-name">③ 연조직 상태</div>
+        <div class="param-hint">조직형 두께, 각화치은, 염증 여부</div>
+        <div class="radio-row">
+          <button class="radio-btn" data-axis="s" data-idx="2" data-val="1" onclick="pick(this)">저</button>
+          <button class="radio-btn" data-axis="s" data-idx="2" data-val="2" onclick="pick(this)">중</button>
+          <button class="radio-btn" data-axis="s" data-idx="2" data-val="3" onclick="pick(this)">고</button>
+        </div>
+      </div>
+
+      <div class="param">
+        <div class="param-name">④ 해부학적 근접 위험</div>
+        <div class="param-hint">상악동·하치조신경 등 중요구조물과의 거리</div>
+        <div class="radio-row">
+          <button class="radio-btn" data-axis="s" data-idx="3" data-val="1" onclick="pick(this)">&gt;5 mm</button>
+          <button class="radio-btn" data-axis="s" data-idx="3" data-val="2" onclick="pick(this)">2–5 mm</button>
+          <button class="radio-btn" data-axis="s" data-idx="3" data-val="3" onclick="pick(this)">&lt;2 mm</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Restorative -->
+    <div class="axis-card" id="restCard">
+      <div class="axis-head">
+        <div class="axis-badge">보철적 난이도 축</div>
+        <div class="axis-title">보철 파라미터 (4개)</div>
+      </div>
+
+      <div class="param">
+        <div class="param-name">① 교합 부하</div>
+        <div class="param-hint">이갈이(브럭시즘), 교합 불균형 여부</div>
+        <div class="radio-row">
+          <button class="radio-btn" data-axis="r" data-idx="0" data-val="1" onclick="pick(this)">저</button>
+          <button class="radio-btn" data-axis="r" data-idx="0" data-val="2" onclick="pick(this)">중</button>
+          <button class="radio-btn" data-axis="r" data-idx="0" data-val="3" onclick="pick(this)">고</button>
+        </div>
+      </div>
+
+      <div class="param">
+        <div class="param-name">② 심미적 요구도</div>
+        <div class="param-hint">부위, 심선 노출, 환자 심미 기대 수준</div>
+        <div class="radio-row">
+          <button class="radio-btn" data-axis="r" data-idx="1" data-val="1" onclick="pick(this)">저</button>
+          <button class="radio-btn" data-axis="r" data-idx="1" data-val="2" onclick="pick(this)">중</button>
+          <button class="radio-btn" data-axis="r" data-idx="1" data-val="3" onclick="pick(this)">고</button>
+        </div>
+      </div>
+
+      <div class="param">
+        <div class="param-name">③ 환자 인자</div>
+        <div class="param-hint">구강위생, 협조도, 흡연, 전신질환</div>
+        <div class="radio-row">
+          <button class="radio-btn" data-axis="r" data-idx="2" data-val="1" onclick="pick(this)">저</button>
+          <button class="radio-btn" data-axis="r" data-idx="2" data-val="2" onclick="pick(this)">중</button>
+          <button class="radio-btn" data-axis="r" data-idx="2" data-val="3" onclick="pick(this)">고</button>
+        </div>
+      </div>
+
+      <div class="param">
+        <div class="param-name">④ 보철 복잡도</div>
+        <div class="param-hint">즉시 임시보철(IIPP), 전악 부하, 교합 재구성 여부</div>
+        <div class="radio-row">
+          <button class="radio-btn" data-axis="r" data-idx="3" data-val="1" onclick="pick(this)">저</button>
+          <button class="radio-btn" data-axis="r" data-idx="3" data-val="2" onclick="pick(this)">중</button>
+          <button class="radio-btn" data-axis="r" data-idx="3" data-val="3" onclick="pick(this)">고</button>
+        </div>
+      </div>
+    </div>
+
+  </div><!-- /sections -->
+
+  <!-- Score summary -->
+  <div class="score-summary">
+    <div class="score-title">실시간 난이도 분류 결과</div>
+    <div class="score-bars">
+      <div class="score-bar-wrap">
+        <div class="sb-label">
+          <span>외과적 난이도</span>
+          <span class="sb-level l-none" id="sLevel">—</span>
+        </div>
+        <div class="sb-track">
+          <div class="sb-fill l-none" id="sFill" style="width:0%"></div>
+        </div>
+      </div>
+      <div class="score-bar-wrap">
+        <div class="sb-label">
+          <span>보철적 난이도</span>
+          <span class="sb-level l-none" id="rLevel">—</span>
+        </div>
+        <div class="sb-track">
+          <div class="sb-fill l-none" id="rFill" style="width:0%"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Matrix -->
+    <div class="matrix-title">3×3 리스크 매트릭스 (Liu 2025)</div>
+    <div class="matrix-wrap">
+      <table class="mat" id="matTable">
+        <thead>
+          <tr>
+            <th>외과↓ / 보철→</th>
+            <th>보철: 저</th>
+            <th>보철: 중</th>
+            <th>보철: 고</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="row-lbl">외과: 저</td>
+            <td class="c-low"  data-sr="Low"  data-rr="Low">  <span class="s-rate">100%</span><span class="c-rate">합병증 0%</span></td>
+            <td class="c-low"  data-sr="Low"  data-rr="Mod">  <span class="s-rate">100%</span><span class="c-rate">합병증 ~5%</span></td>
+            <td class="c-mod"  data-sr="Low"  data-rr="High"> <span class="s-rate">100%</span><span class="c-rate">합병증 ~10%</span></td>
+          </tr>
+          <tr>
+            <td class="row-lbl">외과: 중</td>
+            <td class="c-low"  data-sr="Mod"  data-rr="Low">  <span class="s-rate">100%</span><span class="c-rate">합병증 ~5%</span></td>
+            <td class="c-mod"  data-sr="Mod"  data-rr="Mod">  <span class="s-rate">100%</span><span class="c-rate">합병증 11.8%</span></td>
+            <td class="c-mod"  data-sr="Mod"  data-rr="High"> <span class="s-rate">100%</span><span class="c-rate">합병증 ~15%</span></td>
+          </tr>
+          <tr>
+            <td class="row-lbl">외과: 고</td>
+            <td class="c-mod"  data-sr="High" data-rr="Low">  <span class="s-rate">100%</span><span class="c-rate">합병증 ~10%</span></td>
+            <td class="c-mod"  data-sr="High" data-rr="Mod">  <span class="s-rate">87.5%</span><span class="c-rate">합병증 ~20%</span></td>
+            <td class="c-high" data-sr="High" data-rr="High"> <span class="s-rate">80%</span>  <span class="c-rate">합병증 33.3%</span></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- Outcomes -->
+  <div class="outcomes" id="outcomesCard">
+    <div class="outcomes-title">예측 임상 결과 — Liu 2025 실측값</div>
+    <div class="outcome-grid">
+      <div class="oc-cell">
+        <div class="oc-label">예측 생존율</div>
+        <div class="oc-value v-ok" id="ocSurvival">—</div>
+        <div class="oc-note" id="ocSurvNote">파라미터를 선택하면 표시됩니다</div>
+      </div>
+      <div class="oc-cell">
+        <div class="oc-label">합병증 발생률</div>
+        <div class="oc-value v-ok" id="ocComplication">—</div>
+        <div class="oc-note" id="ocCompNote">연조직 퇴축·thread 노출·점막염 포함</div>
+      </div>
+      <div class="oc-cell">
+        <div class="oc-label">예측 변연골 소실 (MBL)</div>
+        <div class="oc-value v-ok" id="ocMbl">—</div>
+        <div class="oc-note">외과적 난이도 축 기준 · 최소 12개월</div>
+      </div>
+      <div class="oc-cell">
+        <div class="oc-label">환자 만족도 (0–10 VAS)</div>
+        <div class="oc-value v-ok" id="ocSat">—</div>
+        <div class="oc-note" id="ocSatNote">보철적 난이도 축 기준</div>
+      </div>
+    </div>
+    <div class="outcome-note" id="outcomeNote">
+      파라미터를 모두 선택하면 결과가 표시됩니다.
+    </div>
+    <br>
+    <button class="btn-reset" onclick="resetAll()">↺ 초기화</button>
+  </div>
+
+  <div class="footer">
+    근거: Liu 2025 (후향적 연구, N=53 임플란트, 15년간, U Penn / Kaohsiung Medical University)<br>
+    ※ ~표시는 Liu 2025 직접 보고값 없이 인접 군 데이터로 추산한 값입니다.<br>
+    임상 판단은 술자 재량이며 본 도구는 보조 참고용입니다.
+  </div>
+</div>
+
+<script>
+/* ── State ─────────────────────────────────────────────────── */
+const sVals = [null, null, null, null]; // surgical scores
+const rVals = [null, null, null, null]; // restorative scores
+
+/* ── Outcome lookup (Liu 2025) ─────────────────────────────── */
+// Keyed as 'SurgLevel-RestLevel'
+// Directly reported: LL, MM, HM, HH
+// Others interpolated from adjacent data
+const OUTCOMES = {
+  'Low-Low':   { survival:'100%', comp:'0%',   mbl:'0.43 ± 0.31 mm', sat:'9.3 ± 0.8',  cls:'v-ok',  mblCls:'v-ok',  satCls:'v-ok',
+                 note:'최저 복잡도군: Liu 2025 실측 — 8/8 생존, 합병증 0건. MBL·퇴축 모두 최소.' },
+  'Low-Mod':   { survival:'100%', comp:'~5%',  mbl:'0.43 ± 0.31 mm', sat:'8.8 ± 1.1',  cls:'v-ok',  mblCls:'v-ok',  satCls:'v-ok',
+                 note:'저외과×중보철: 5/5 생존 직접 보고. 합병증률은 인접 군 추산.' },
+  'Low-High':  { survival:'100%', comp:'~10%', mbl:'0.43 ± 0.31 mm', sat:'7.4 ± 1.8',  cls:'v-ok',  mblCls:'v-ok',  satCls:'v-mod',
+                 note:'저외과×고보철: 1/1 생존 직접 보고(n 소). 보철 복잡도에 의한 합병증 증가 추산.' },
+  'Mod-Low':   { survival:'100%', comp:'~5%',  mbl:'0.69 ± 0.52 mm', sat:'9.3 ± 0.8',  cls:'v-ok',  mblCls:'v-ok',  satCls:'v-ok',
+                 note:'중외과×저보철: 4/4 생존 직접 보고. MBL은 중외과군 실측값.' },
+  'Mod-Mod':   { survival:'100%', comp:'11.8%',mbl:'0.69 ± 0.52 mm', sat:'8.8 ± 1.1',  cls:'v-ok',  mblCls:'v-mod', satCls:'v-ok',
+                 note:'중간 복잡도군(Liu 2025 주 비교군): 17/17 생존, 합병증 2/17 (11.8%) — 직접 보고.' },
+  'Mod-High':  { survival:'100%', comp:'~15%', mbl:'0.69 ± 0.52 mm', sat:'7.4 ± 1.8',  cls:'v-ok',  mblCls:'v-mod', satCls:'v-mod',
+                 note:'중외과×고보철: 4/4 생존 직접 보고. 합병증률은 인접 군 추산.' },
+  'High-Low':  { survival:'100%', comp:'~10%', mbl:'1.12 ± 0.78 mm', sat:'9.3 ± 0.8',  cls:'v-ok',  mblCls:'v-mod', satCls:'v-ok',
+                 note:'고외과×저보철: 1/1 생존 직접 보고(n 소). MBL은 고외과군 실측값.' },
+  'High-Mod':  { survival:'87.5%',comp:'~20%', mbl:'1.12 ± 0.78 mm', sat:'8.8 ± 1.1',  cls:'v-mod', mblCls:'v-bad', satCls:'v-mod',
+                 note:'고외과×중보철: 7/8 생존 직접 보고 (87.5%). MBL은 고외과군 실측값. 충분한 사전 계획 필수.' },
+  'High-High': { survival:'80%',  comp:'33.3%',mbl:'1.12 ± 0.78 mm', sat:'7.4 ± 1.8',  cls:'v-bad', mblCls:'v-bad', satCls:'v-bad',
+                 note:'최고 복잡도군: 4/5 생존(80%), 합병증 3/9(33.3%) — 직접 보고. 고위험 치료 계획 및 환자 상담 필수.' },
+};
+
+function scoreToDiff(score) {
+  if (score === null) return null;
+  if (score <= 6) return 'Low';
+  if (score <= 9) return 'Mod';
+  return 'High';
+}
+
+function diffLabel(d) {
+  if (!d) return '—';
+  return { Low:'저 (Low)', Mod:'중 (Moderate)', High:'고 (High)' }[d];
+}
+
+function sumValid(arr) {
+  const vals = arr.filter(v => v !== null);
+  if (vals.length === 0) return null;
+  return vals.reduce((a,b) => a+b, 0);
+}
+
+/* ── UI pick ───────────────────────────────────────────────── */
+function pick(btn) {
+  const axis = btn.dataset.axis;
+  const idx  = parseInt(btn.dataset.idx);
+  const val  = parseInt(btn.dataset.val);
+  const cls  = val === 1 ? 'sel-low' : val === 2 ? 'sel-mod' : 'sel-high';
+
+  // deselect siblings
+  const siblings = btn.closest('.radio-row').querySelectorAll('.radio-btn');
+  siblings.forEach(b => { b.classList.remove('sel-low','sel-mod','sel-high'); });
+  btn.classList.add(cls);
+
+  if (axis === 's') sVals[idx] = val;
+  else              rVals[idx] = val;
+
+  update();
+}
+
+function update() {
+  const sScore = sumValid(sVals);
+  const rScore = sumValid(rVals);
+  const sPartial = sVals.filter(v=>v!==null).length;
+  const rPartial = rVals.filter(v=>v!==null).length;
+
+  // partial scores for bar display
+  const sDisplay = sScore || sVals.reduce((a,b)=>a+(b||0),0);
+  const rDisplay = rScore || rVals.reduce((a,b)=>a+(b||0),0);
+
+  const sDiff = sScore !== null && sPartial === 4 ? scoreToDiff(sScore) : null;
+  const rDiff = rScore !== null && rPartial === 4 ? scoreToDiff(rScore) : null;
+
+  // Score bars
+  const sLevelEl = document.getElementById('sLevel');
+  const rLevelEl = document.getElementById('rLevel');
+  const sFillEl  = document.getElementById('sFill');
+  const rFillEl  = document.getElementById('rFill');
+
+  const clsMap = { Low:'l-low', Mod:'l-mod', High:'l-high' };
+
+  ['l-low','l-mod','l-high','l-none'].forEach(c => {
+    sLevelEl.classList.remove(c);
+    rLevelEl.classList.remove(c);
+    sFillEl.classList.remove(c);
+    rFillEl.classList.remove(c);
+  });
+
+  if (sDiff) {
+    sLevelEl.textContent = diffLabel(sDiff);
+    sLevelEl.classList.add(clsMap[sDiff]);
+    sFillEl.classList.add(clsMap[sDiff]);
+  } else {
+    sLevelEl.textContent = sPartial > 0 ? `${sDisplay}/12점` : '—';
+    sLevelEl.classList.add('l-none');
+    sFillEl.classList.add('l-none');
+  }
+  sFillEl.style.width = Math.min(100, (sDisplay / 12) * 100) + '%';
+
+  if (rDiff) {
+    rLevelEl.textContent = diffLabel(rDiff);
+    rLevelEl.classList.add(clsMap[rDiff]);
+    rFillEl.classList.add(clsMap[rDiff]);
+  } else {
+    rLevelEl.textContent = rPartial > 0 ? `${rDisplay}/12점` : '—';
+    rLevelEl.classList.add('l-none');
+    rFillEl.classList.add('l-none');
+  }
+  rFillEl.style.width = Math.min(100, (rDisplay / 12) * 100) + '%';
+
+  // Matrix highlight
+  const cells = document.querySelectorAll('.mat td[data-sr]');
+  cells.forEach(c => {
+    c.classList.remove('c-active');
+    if (sDiff && rDiff && c.dataset.sr === sDiff && c.dataset.rr === (rDiff==='Mod'?'Mod':rDiff)) {
+      c.classList.add('c-active');
+    }
+  });
+  // More precise matching
+  cells.forEach(c => {
+    c.classList.remove('c-active');
+    const srMatch = sDiff && c.dataset.sr === sDiff;
+    const rrMap = { Low:'Low', Mod:'Mod', High:'High' };
+    const rrMatch = rDiff && c.dataset.rr === rrMap[rDiff];
+    if (srMatch && rrMatch) c.classList.add('c-active');
+  });
+
+  // Outcomes
+  if (sDiff && rDiff) {
+    const key = sDiff + '-' + rDiff;
+    const o = OUTCOMES[key];
+    const surEl = document.getElementById('ocSurvival');
+    const comEl = document.getElementById('ocComplication');
+    const mblEl = document.getElementById('ocMbl');
+    const satEl = document.getElementById('ocSat');
+
+    surEl.textContent = o.survival;
+    comEl.textContent = o.comp;
+    mblEl.textContent = o.mbl;
+    satEl.textContent = o.sat;
+
+    ['v-ok','v-mod','v-bad'].forEach(c => {
+      surEl.classList.remove(c);
+      comEl.classList.remove(c);
+      mblEl.classList.remove(c);
+      satEl.classList.remove(c);
+    });
+    surEl.classList.add(o.cls);
+    comEl.classList.add(o.cls);
+    mblEl.classList.add(o.mblCls);
+    satEl.classList.add(o.satCls);
+
+    document.getElementById('outcomeNote').innerHTML =
+      `<strong>📌 ${sDiff}외과 × ${rDiff}보철</strong>: ${o.note}`;
+
+    document.getElementById('ocSurvNote').textContent =
+      o.survival === '80%' ? '고위험 군: 신중한 증례 선택 필요' :
+      o.survival === '87.5%' ? '고위험 군: 충분한 사전 계획 필요' : 'Liu 2025 직접/간접 보고';
+  } else {
+    ['ocSurvival','ocComplication','ocMbl','ocSat'].forEach(id => {
+      const el = document.getElementById(id);
+      el.textContent = '—';
+      ['v-ok','v-mod','v-bad'].forEach(c => el.classList.remove(c));
+    });
+    const filled = sPartial + rPartial;
+    document.getElementById('outcomeNote').textContent =
+      filled === 0 ? '파라미터를 모두 선택하면 결과가 표시됩니다.' :
+      `${filled}/8 파라미터 선택됨 — 양쪽 축 모두 완성해야 결과가 계산됩니다.`;
+  }
+}
+
+/* ── Reset ─────────────────────────────────────────────────── */
+function resetAll() {
+  sVals.fill(null);
+  rVals.fill(null);
+  document.querySelectorAll('.radio-btn').forEach(b => {
+    b.classList.remove('sel-low','sel-mod','sel-high');
+  });
+  update();
+}
+
+/* ── Theme toggle ──────────────────────────────────────────── */
+const root = document.documentElement;
+let dark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+document.getElementById('themeBtn').addEventListener('click', () => {
+  dark = !dark;
+  root.setAttribute('data-theme', dark ? 'dark' : 'light');
+  document.getElementById('themeBtn').textContent = dark ? '☀️' : '🌙';
+});
+
+/* ── Init ──────────────────────────────────────────────────── */
+update();
+</script>
+</body>
+</html>
