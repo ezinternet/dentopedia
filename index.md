@@ -373,6 +373,7 @@ tags: []
 - [[bone-regeneration/lee-2026-animal-models-bone-regeneration-review]] — 서술적 고찰(J Periodontal Implant Sci 2026, SNU): 골재생 전임상 동물모델 총론 — 설치류(스크리닝)→토끼(중간)→개(인체유사)→미니돼지(최고유사); 종별 특성·한계·번역 가이드
 - [[bone-regeneration/ridge-preservation/kang-2025-implant-failure-predictors-ridge-preservation]] — 후향적(JPIS 2025, n=528 임플란트, 3.5년): ARP 후 임플란트 실패 예측인자 — PBE <1.1mm HR 2.50(P=0.004); 누적 성공률 89.0%; 원발골 맞물림 ≥1.1mm 확보 핵심
 - [[bone-regeneration/ridge-preservation/pezzella-2026-beta-tcp-alveolar-ridge-preservation-sr]] — sr(J Funct Biomater 2026, 5 RCT): β-TCP 단독 ARP 가변적(이종골보다 열세 가능); β-TCP 복합 = DBBM 동등; 근거 제한·이질적; 잠정적 권고
+- [[bone-regeneration/ridge-preservation/benekou-2025-histological-arp-vs-spontaneous-healing-sr-ma]] — sr+ma(Dent J 2025, 22 RCT, 816명): ARP 조직형태학적 신생골 전체 유의차 없음(MD −5.86%, NS); PRF/PRP +16.28%(p<0.0001); 이종골+막 −22.47%(p=0.004); 장기추적 ARP 유리; GRADE moderate
 - [[bone-regeneration/ridge-preservation/jung-2025-arp-peri-implantitis-isq-preclinical]] — 동물실험(Beagle 6마리, JPIS 2025): ARP 유무·감염치아 여부가 ISQ·골흡수에 유의 영향 없음; 신생골↔ISQ 상관 없음; ARP 초기 안정성 개선 효과 불확인
 - [[bone-regeneration/ridge-preservation/ucer-2023-extraction-socket-augmentation-platelet-rich-fibrin]] — 발치 후 치조제 보존 (Alveolar Ridge Preservation, ARP)에서 자가 혈소판풍부피브린 (Platelet-Rich Fibrin, PRF)을 골이식재와 병용하면 성장인자 방출과 혈관신생을 통해 연·경조직 치유를 가속한다고 정리한 서술적 종설.
 - [[bone-regeneration/ridge-preservation/cardaropoli-2003-bone-tissue-formation-extraction]] — 동물 조직학 (n=9 dogs, 9개 시점): 발치와 치유 — 혈병→PCT→신생골→광화 peak Day 30 (88%)→Day 180 BM 85%. ARP/GBR 문헌의 landmark.
