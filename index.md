@@ -1347,6 +1347,10 @@ tags: []
 - [[orthodontics/myofunctional/dipalma-2026-elastodontic-vertical-skeletal-neuromuscular-balance]] — Dipalma 2026 · retrospective · AMCOP OPEN 개방교합 증례군(n=9 ceph/6 sEMG): overbite 0.1→2.2mm·SN-GoGn −2.8°·IMP +40%, 대조군 없음 (DOI 10.3389/fdmed.2025.1741153)
 - [[orthodontics/myofunctional/cui-2024-elastodontic-appliance-mechanical-characterization-fea]] — Cui 2024 · in-vitro · 탄성교정장치는 PDMS+silica 점탄성 엘라스토머; 노화 시 peak stress↓·compression set↑(알칼리 타액서 최악), ~6개월까지 안정 (DOI 10.1186/s12903-024-05101-z)
 
+### 교정 발치 전략 · 대구치 이동 (Orthodontic Extraction / Molar Management)
+- [[orthodontics/livas-2011-extraction-maxillary-first-molars-molar-inclinations]] — Livas 2011 · retrospective-cohort · AJODO(발치군 37명 vs 대조군 54명, Class II Div1): 상악 제1대구치 발치+Begg 후 M2 경사 개선(PP기준 26.7°→6.9°); M3 직립 4배(FOP기준 19.9° vs 5.6°); 교정 발치 후 M2·M3 경사 유의 개선 (DOI 10.1016/S0889-5406(11)00533-6)
+- [[orthodontics/de-la-rosa-gay-2006-spontaneous-third-molar-eruption-second-molar-extraction]] — De-la-Rosa-Gay 2006 · retrospective-cohort · AJODO(48명·128개 제2대구치 발치): 제3대구치 자연맹출 성공률 상악 96.2%·하악 66.2%; Nolla stage>8이면 근심접촉 개방 위험; 상악은 대부분 성공·하악은 과도한 근심경사가 주된 실패원인 (DOI 10.1016/S0889-5406(05)01153-4)
+
 ### 교정 생물학·미니스크류 (OTM / TAD)
 - [[orthodontics/wise-2008-tooth-eruption-orthodontic-movement-mechanisms]] — Narrative review (J Dent Res 2008): tooth eruption vs OTM mechanisms — dental follicle essential for eruption; PDL for OTM; shared RANKL/OPG/CSF-1 pathway; eruption physiological, OTM pathological+physiological
 - [[orthodontics/jeon-2021-orthodontic-tooth-movement-mechanisms-animal]] — Narrative/critical review (JCM 2021): OTM transgenic animal models — compression RANKL→osteoclastogenesis; tension BMP/Runx2→osteogenesis; DKK1/sclerostin Wnt inhibition; FAK mechanosensor
@@ -2537,6 +2541,7 @@ tags: []
 - [[occlusion/fujita-2009-supraposition-unopposed-molars-young-adult-rats]] — Fujita 2009 · animal · Arch Oral Biol(rat micro-CT): 무대합 대구치 정출 young 262±135µm vs adult 125±108µm(P<0.01)·young서만 치조골 동반 — 연령효과 (DOI 10.1016/j.archoralbio.2008.07.010)
 - [[occlusion/fujita-2010-overeruption-periodontally-affected-unopposed-rats]] — Fujita 2010 · animal · J Periodontal Res(adult rat micro-CT): 실험적 치주염이 무대합 대구치 정출 증폭 — 치주상태가 정출 modifier (DOI 10.1111/j.1600-0765.2009.01230.x)
 - [[occlusion/hong-2023-characteristics-spatial-changes-molars-alveolar]] — Hong 2023 · cross-sectional · CBCT(하악 제1대구치 결손 평균 62.6개월 n=42 vs 대조군 n=42): 상악 대구치 정출 근심교두 1.37mm·원심교두 0.85mm; 하악 제2대구치 근심경사 57.47° vs 대조군 82.75°; 협측 CEJ 골결손 3.15mm가 근심이동 제한 주인자; 결손기간↑→정출·경사 악화(R=−0.726~−0.334) (DOI 10.3390/jcm12051932)
+- [[occlusion/smith-1996-extracting-upper-second-molars-lower-molar-position]] — Smith 1996 · case-control · Br J Orthod(실험군·대조군 매칭): 상악 제2대구치 교정적 발치 후 하악 제2대구치 원심부 정출 유의(P<0.001우측·P<0.05좌측); 상악 제1대구치 원심위치가 근심부 정출 완화(P<0.01); 상악 제3대구치 맹출은 하악 정출 미방지 (DOI 10.1179/bjo.23.2.109)
 - [[overviews/unopposed-tooth-overeruption-overview]] — **Overview** 2026-06-25 (11편): 대합치 없는 치아 정출 종합 — ~83% 정출(평균 0.43mm/9개월, 72%<1mm, 초기최대, 수직+경사+회전)하나 18%는 무이동; 정출은 PDL 매개라 **endo치 vs 생활치 차이 근거 없음**(기전적 추론); 고정 retention도 부분접촉 대비 무효 → 저위험치 모니터링·고위험(젊음·상악·완전무대합·치주염·발치직후) 보철
 - [[overviews/occlusal-trauma-periodontitis-overview]] — **Overview**: 교합외상·치주염 종합(4편) — 교합은 발병원인 아닌 수식인자, 스플린팅 생존이득 없음, 교합조정 선택적·제한이득, PDL 확장은 감별폭 넓음 (2026)
 - [[occlusion/fan-2018-occlusal-trauma-and-excessive-occlusal]] — Fan 2018 · narrative-review · 2017 WW 교합외상 case definition; primary occlusal trauma는 부착소실 유발 안 함, 치주염 인과는 논쟁적 (DOI 10.1002/JPER.16-0581)
