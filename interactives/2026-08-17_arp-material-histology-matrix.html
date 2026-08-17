@@ -1,0 +1,523 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ARP 재료별 조직형태학 비교</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    background: #f5f5f0;
+    color: #1a1a1a;
+    min-height: 100vh;
+    padding: 24px 16px 48px;
+  }
+
+  .container { max-width: 900px; margin: 0 auto; }
+
+  .header {
+    margin-bottom: 24px;
+  }
+  .header h1 {
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: #1a1a1a;
+    margin-bottom: 4px;
+  }
+  .header p {
+    font-size: 0.8rem;
+    color: #666;
+  }
+  .header .source-badge {
+    display: inline-block;
+    margin-top: 6px;
+    background: #e8f0e8;
+    color: #2d5a2d;
+    font-size: 0.72rem;
+    padding: 2px 8px;
+    border-radius: 10px;
+    font-weight: 600;
+  }
+
+  /* Filter bar */
+  .filter-bar {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 20px;
+  }
+  .filter-btn {
+    padding: 6px 14px;
+    border: 1.5px solid #ccc;
+    border-radius: 20px;
+    background: #fff;
+    color: #444;
+    font-size: 0.78rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.15s;
+    white-space: nowrap;
+  }
+  .filter-btn:hover { border-color: #4a7c59; color: #2d5a2d; }
+  .filter-btn.active {
+    background: #4a7c59;
+    border-color: #4a7c59;
+    color: #fff;
+  }
+  .filter-btn.all { }
+
+  /* Cards grid */
+  .cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 14px;
+    margin-bottom: 28px;
+  }
+
+  .card {
+    background: #fff;
+    border-radius: 12px;
+    padding: 18px;
+    border: 1.5px solid #e4e4e0;
+    transition: opacity 0.2s, transform 0.2s;
+  }
+  .card.hidden { display: none; }
+
+  .card-header {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    margin-bottom: 14px;
+  }
+  .material-icon {
+    width: 36px;
+    height: 36px;
+    border-radius: 8px;
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.1rem;
+  }
+  .card-title { font-size: 0.88rem; font-weight: 700; color: #1a1a1a; line-height: 1.3; }
+  .card-subtitle { font-size: 0.73rem; color: #888; margin-top: 2px; }
+
+  /* Outcome bar */
+  .outcome-label {
+    font-size: 0.71rem;
+    color: #666;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    margin-bottom: 4px;
+  }
+  .outcome-value {
+    font-size: 1.1rem;
+    font-weight: 800;
+    margin-bottom: 2px;
+  }
+  .outcome-meta { font-size: 0.72rem; color: #888; margin-bottom: 12px; }
+
+  .bar-track {
+    background: #f0f0ec;
+    border-radius: 4px;
+    height: 8px;
+    position: relative;
+    margin-bottom: 4px;
+    overflow: visible;
+  }
+  .bar-center {
+    position: absolute;
+    left: 50%;
+    top: 0;
+    width: 1.5px;
+    height: 100%;
+    background: #ccc;
+  }
+  .bar-fill {
+    position: absolute;
+    top: 0;
+    height: 100%;
+    border-radius: 4px;
+    transition: width 0.4s ease;
+  }
+  .bar-label-row {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.65rem;
+    color: #aaa;
+    margin-bottom: 12px;
+  }
+
+  .sig-badge {
+    display: inline-block;
+    padding: 2px 7px;
+    border-radius: 8px;
+    font-size: 0.7rem;
+    font-weight: 700;
+    margin-bottom: 12px;
+  }
+  .sig-badge.sig { background: #d4edda; color: #1e5631; }
+  .sig-badge.ns { background: #f8d7da; color: #721c24; }
+
+  .divider { border: none; border-top: 1px solid #f0f0ec; margin: 10px 0; }
+
+  .residual-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 8px;
+  }
+  .residual-label { font-size: 0.72rem; color: #666; flex-shrink: 0; }
+  .residual-bar-track {
+    flex: 1;
+    height: 6px;
+    background: #f0f0ec;
+    border-radius: 3px;
+    overflow: hidden;
+  }
+  .residual-bar-fill {
+    height: 100%;
+    border-radius: 3px;
+    background: #f0a04b;
+  }
+  .residual-value { font-size: 0.75rem; font-weight: 700; color: #b06000; flex-shrink: 0; width: 36px; text-align: right; }
+
+  /* Clinical rec box */
+  .rec-box {
+    border-radius: 8px;
+    padding: 10px 12px;
+    font-size: 0.76rem;
+    line-height: 1.5;
+    margin-top: 6px;
+  }
+  .rec-label { font-weight: 700; margin-bottom: 3px; font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.03em; }
+
+  /* Summary bar at bottom */
+  .summary {
+    background: #fff;
+    border: 1.5px solid #e4e4e0;
+    border-radius: 12px;
+    padding: 18px 20px;
+  }
+  .summary h3 { font-size: 0.85rem; font-weight: 700; margin-bottom: 12px; color: #1a1a1a; }
+  .summary-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 12px;
+  }
+  .summary-item { }
+  .summary-item .s-label { font-size: 0.7rem; color: #888; margin-bottom: 2px; }
+  .summary-item .s-val { font-size: 0.9rem; font-weight: 700; color: #1a1a1a; }
+  .summary-item .s-note { font-size: 0.68rem; color: #aaa; }
+
+  .footnote {
+    margin-top: 18px;
+    font-size: 0.7rem;
+    color: #aaa;
+    line-height: 1.6;
+  }
+</style>
+</head>
+<body>
+<div class="container">
+
+  <div class="header">
+    <h1>ARP 재료별 조직형태학 비교</h1>
+    <p>ARP vs 자연치유 — 신생골 형성·잔류 이식재·임상 권고 (Benekou 2025 SR+MA, 22 RCT, 816명)</p>
+    <span class="source-badge">📄 Benekou I et al. Dent J 2025;13(12):556 · DOI 10.3390/dj13120556</span>
+  </div>
+
+  <div class="filter-bar">
+    <button class="filter-btn all active" onclick="filterCards('all')">전체 보기</button>
+    <button class="filter-btn" onclick="filterCards('biologic')">생물학적 (PRF/PRP)</button>
+    <button class="filter-btn" onclick="filterCards('xenograft')">이종골</button>
+    <button class="filter-btn" onclick="filterCards('alloplast')">합성골</button>
+    <button class="filter-btn" onclick="filterCards('overall')">전체 풀</button>
+  </div>
+
+  <div class="cards" id="cards">
+
+    <!-- PRF/PRP -->
+    <div class="card" data-group="biologic">
+      <div class="card-header">
+        <div class="material-icon" style="background:#e8f5e9;">🩸</div>
+        <div>
+          <div class="card-title">PRF / PRP (자가 혈소판 농축물)</div>
+          <div class="card-subtitle">Platelet-Rich Fibrin · Concentrated Growth Factors</div>
+        </div>
+      </div>
+
+      <div class="outcome-label">신생골 형성 — ARP 대비 차이 (MD)</div>
+      <div class="outcome-value" style="color:#1e7e34;">+16.28%</div>
+      <div class="outcome-meta">95% CI 7.53–25.03% · I²=97%</div>
+
+      <div class="bar-track">
+        <div class="bar-center"></div>
+        <div class="bar-fill" style="left:50%; width:26%; background:#2d9e4e;"></div>
+      </div>
+      <div class="bar-label-row"><span>자연치유 우수 ←</span><span>→ ARP 우수</span></div>
+
+      <span class="sig-badge sig">p&lt;0.0001 유의</span>
+
+      <hr class="divider">
+
+      <div class="residual-row">
+        <span class="residual-label">잔류 이식재</span>
+        <div class="residual-bar-track"><div class="residual-bar-fill" style="width:4%; background:#b8e0b8;"></div></div>
+        <span class="residual-value" style="color:#2d7a2d;">~없음</span>
+      </div>
+
+      <div class="rec-box" style="background:#e8f5e9; color:#1e5631;">
+        <div class="rec-label">✅ 임상 권고</div>
+        신생골 형성을 최우선할 때 선택. 혈소판 농축물 성장인자(PDGF·TGF-β)가 조골세포 활성·혈관신생을 촉진. 잔류 이식재 없음 → 조직 회전율 빠름.
+      </div>
+    </div>
+
+    <!-- 이종골 + 콜라겐막 -->
+    <div class="card" data-group="xenograft">
+      <div class="card-header">
+        <div class="material-icon" style="background:#fff3e0;">🦴</div>
+        <div>
+          <div class="card-title">이종골 + 콜라겐막</div>
+          <div class="card-subtitle">Xenograft (DBBM 등) + Collagen Membrane</div>
+        </div>
+      </div>
+
+      <div class="outcome-label">신생골 형성 — ARP 대비 차이 (MD)</div>
+      <div class="outcome-value" style="color:#c0392b;">−22.47%</div>
+      <div class="outcome-meta">95% CI −33.59 to −11.34% · I²=57%</div>
+
+      <div class="bar-track">
+        <div class="bar-center"></div>
+        <div class="bar-fill" style="right:50%; width:33%; background:#e74c3c;"></div>
+      </div>
+      <div class="bar-label-row"><span>자연치유 우수 ←</span><span>→ ARP 우수</span></div>
+
+      <span class="sig-badge sig">p=0.004 유의</span>
+
+      <hr class="divider">
+
+      <div class="residual-row">
+        <span class="residual-label">잔류 이식재</span>
+        <div class="residual-bar-track"><div class="residual-bar-fill" style="width:70%; background:#f0a04b;"></div></div>
+        <span class="residual-value">~25%↑</span>
+      </div>
+
+      <div class="rec-box" style="background:#fdf3e3; color:#7d4e00;">
+        <div class="rec-label">⚠️ 임상 권고</div>
+        차원 안정성 우수하지만 신생골 비율은 자연치유보다 낮음. 느린 흡수(DBBM) → 잔류 이종골이 vital bone 비율 희석. 임플란트 식립 전 충분한 치유 기간(≥6개월) 고려.
+      </div>
+    </div>
+
+    <!-- 이종골 단독 (막 없음) -->
+    <div class="card" data-group="xenograft">
+      <div class="card-header">
+        <div class="material-icon" style="background:#fff8e1;">🦴</div>
+        <div>
+          <div class="card-title">이종골 단독 (막 없음)</div>
+          <div class="card-subtitle">Xenograft without Membrane · Open-healing 포함</div>
+        </div>
+      </div>
+
+      <div class="outcome-label">신생골 형성 — ARP 대비 차이 (MD)</div>
+      <div class="outcome-value" style="color:#888;">유의차 없음</div>
+      <div class="outcome-meta">메타회귀 β=+9.31% (p=0.177, NS)</div>
+
+      <div class="bar-track">
+        <div class="bar-center"></div>
+        <div class="bar-fill" style="left:50%; width:12%; background:#aaa;"></div>
+      </div>
+      <div class="bar-label-row"><span>자연치유 우수 ←</span><span>→ ARP 우수</span></div>
+
+      <span class="sig-badge ns">NS 비유의</span>
+
+      <hr class="divider">
+
+      <div class="residual-row">
+        <span class="residual-label">잔류 이식재</span>
+        <div class="residual-bar-track"><div class="residual-bar-fill" style="width:62%; background:#f0a04b;"></div></div>
+        <span class="residual-value">높음</span>
+      </div>
+
+      <div class="rec-box" style="background:#f5f5f0; color:#555;">
+        <div class="rec-label">ℹ️ 임상 권고</div>
+        막 없는 이종골은 신생골·잔류량 모두 중간값. 개방치유(Ionescu 2022: DBBM+막 노출)는 별도 프로토콜. SCLC/HA(Friedmann 2026)처럼 완전 개조되는 재료가 아니면 잔류량 유사.
+      </div>
+    </div>
+
+    <!-- 합성골 (Alloplast) -->
+    <div class="card" data-group="alloplast">
+      <div class="card-header">
+        <div class="material-icon" style="background:#e8eaf6;">⚗️</div>
+        <div>
+          <div class="card-title">합성골 (Alloplast)</div>
+          <div class="card-subtitle">β-TCP · HA · Biphasic · 기타 synthetic</div>
+        </div>
+      </div>
+
+      <div class="outcome-label">신생골 형성 — ARP 대비 차이 (MD)</div>
+      <div class="outcome-value" style="color:#888;">유의차 없음</div>
+      <div class="outcome-meta">메타회귀 트렌드; 막 결합 시 잔류량 최소 (β=−16.34%, p=0.066)</div>
+
+      <div class="bar-track">
+        <div class="bar-center"></div>
+        <div class="bar-fill" style="left:50%; width:8%; background:#9e9e9e;"></div>
+      </div>
+      <div class="bar-label-row"><span>자연치유 우수 ←</span><span>→ ARP 우수</span></div>
+
+      <span class="sig-badge ns">NS 비유의</span>
+
+      <hr class="divider">
+
+      <div class="residual-row">
+        <span class="residual-label">잔류 이식재 (막+)</span>
+        <div class="residual-bar-track"><div class="residual-bar-fill" style="width:18%; background:#90caf9;"></div></div>
+        <span class="residual-value" style="color:#1565c0;">최저</span>
+      </div>
+
+      <div class="rec-box" style="background:#e8eaf6; color:#283593;">
+        <div class="rec-label">ℹ️ 임상 권고</div>
+        막과 병용 시 잔류량 가장 낮음 → bone turnover 빠름. 신생골 형성은 자연치유와 동등. β-TCP 단독보다 복합 제형(β-TCP+HA) 권고 (Pezzella 2026 SR).
+      </div>
+    </div>
+
+    <!-- 동종골 + 막 (Reference) -->
+    <div class="card" data-group="overall">
+      <div class="card-header">
+        <div class="material-icon" style="background:#e0f7fa;">🏥</div>
+        <div>
+          <div class="card-title">동종골 + 막 (기준군)</div>
+          <div class="card-subtitle">Allograft + Membrane · Meta-regression Reference</div>
+        </div>
+      </div>
+
+      <div class="outcome-label">잔류 이식재 (기준)</div>
+      <div class="outcome-value" style="color:#006064;">22.54%</div>
+      <div class="outcome-meta">β=22.54% (95% CI 12.81–32.27%, p&lt;0.001) — 메타회귀 기준군</div>
+
+      <div class="bar-track">
+        <div class="bar-center"></div>
+        <div class="bar-fill" style="left:50%; width:4%; background:#aaa;"></div>
+      </div>
+      <div class="bar-label-row"><span>자연치유 우수 ←</span><span>→ ARP 우수</span></div>
+
+      <span class="sig-badge ns">신생골 전체군 NS</span>
+
+      <hr class="divider">
+
+      <div class="residual-row">
+        <span class="residual-label">잔류 이식재</span>
+        <div class="residual-bar-track"><div class="residual-bar-fill" style="width:45%; background:#f0a04b;"></div></div>
+        <span class="residual-value">22.5%</span>
+      </div>
+
+      <div class="rec-box" style="background:#e0f7fa; color:#004d40;">
+        <div class="rec-label">ℹ️ 임상 권고</div>
+        동종골+막은 신생골 측면에서 중간급. 가용성·면역원성이 이종골보다 낮고 처리 방식(FDBA·DFDBA)에 따라 흡수 속도 차이.
+      </div>
+    </div>
+
+    <!-- 전체 풀 (Overall) -->
+    <div class="card" data-group="overall">
+      <div class="card-header">
+        <div class="material-icon" style="background:#f3e5f5;">📊</div>
+        <div>
+          <div class="card-title">전체 풀 (Overall)</div>
+          <div class="card-subtitle">22 RCT · 816명 · 재료 구분 없음</div>
+        </div>
+      </div>
+
+      <div class="outcome-label">신생골 형성 — ARP 대비 차이 (MD)</div>
+      <div class="outcome-value" style="color:#888;">−5.86%</div>
+      <div class="outcome-meta">95% CI −13.84 to 2.11% · I²=98% · p=0.15</div>
+
+      <div class="bar-track">
+        <div class="bar-center"></div>
+        <div class="bar-fill" style="right:50%; width:7%; background:#ccc;"></div>
+      </div>
+      <div class="bar-label-row"><span>자연치유 우수 ←</span><span>→ ARP 우수</span></div>
+
+      <span class="sig-badge ns">NS 비유의</span>
+
+      <hr class="divider">
+
+      <div class="residual-row">
+        <span class="residual-label">잔류 이식재 (풀 평균)</span>
+        <div class="residual-bar-track"><div class="residual-bar-fill" style="width:41%; background:#f0a04b;"></div></div>
+        <span class="residual-value">20.5%</span>
+      </div>
+
+      <div class="rec-box" style="background:#f3e5f5; color:#4a148c;">
+        <div class="rec-label">⚠️ 주요 해석 주의</div>
+        재료 구분 없이 풀링하면 비유의 — 재료 선택이 결정 변수. 장기(>3개월) 민감도 분석에서는 ARP 유리 (MD −16.30%, p&lt;0.00001, I²=51%). GRADE moderate.
+      </div>
+    </div>
+
+  </div><!-- /cards -->
+
+  <!-- Summary -->
+  <div class="summary">
+    <h3>📌 메타분석 핵심 지표 요약</h3>
+    <div class="summary-grid">
+      <div class="summary-item">
+        <div class="s-label">포함 RCT</div>
+        <div class="s-val">22개</div>
+        <div class="s-note">816명 (ARP 505 / 대조 311)</div>
+      </div>
+      <div class="summary-item">
+        <div class="s-label">이질성 (전체)</div>
+        <div class="s-val">I²=98%</div>
+        <div class="s-note">랜덤효과 모델 적용</div>
+      </div>
+      <div class="summary-item">
+        <div class="s-label">발표 편향</div>
+        <div class="s-val">없음</div>
+        <div class="s-note">Egger's p=0.576</div>
+      </div>
+      <div class="summary-item">
+        <div class="s-label">근거 수준 (GRADE)</div>
+        <div class="s-val">Moderate</div>
+        <div class="s-note">비뚤림·비일관성으로 하향</div>
+      </div>
+      <div class="summary-item">
+        <div class="s-label">잔류 이식재 풀 평균</div>
+        <div class="s-val">20.49%</div>
+        <div class="s-note">95% CI 16.78–24.20%</div>
+      </div>
+      <div class="summary-item">
+        <div class="s-label">장기추적 (>3mo) 결론</div>
+        <div class="s-val">ARP 유리</div>
+        <div class="s-note">MD −16.30%, p&lt;0.00001, I²=51%</div>
+      </div>
+    </div>
+
+    <div class="footnote">
+      <strong>MD 해석:</strong> 음수(−) = 자연치유가 신생골 비율 높음, 양수(+) = ARP가 신생골 비율 높음. 바 그래프는 방향과 상대 크기만 표시 (CI 포함 아님).<br>
+      <strong>근거:</strong> Benekou I, Fragkioudakis I, Chatzopoulos GS, Vouros I. Dent J 2025;13(12):556. PROSPERO CRD42025101953. PubMed 41440314.<br>
+      <strong>보완 근거:</strong> Pezzella 2026 (β-TCP SR), Ionescu 2022 (open-healing 5yr), Friedmann 2026 (SCLC/HA).
+    </div>
+  </div>
+
+</div>
+
+<script>
+function filterCards(group) {
+  const cards = document.querySelectorAll('.card');
+  cards.forEach(card => {
+    if (group === 'all' || card.dataset.group === group) {
+      card.classList.remove('hidden');
+    } else {
+      card.classList.add('hidden');
+    }
+  });
+  document.querySelectorAll('.filter-btn').forEach(btn => {
+    btn.classList.remove('active');
+  });
+  event.target.classList.add('active');
+}
+</script>
+</body>
+</html>
