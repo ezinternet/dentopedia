@@ -259,15 +259,17 @@ def git_history_window() -> int | None:
 
 
 def analyze_history(diffs: list[tuple[datetime, str]]) -> tuple[datetime | None, int]:
-    """(마지막 thesis 편집일, 그 이후 추가된 source_paper 라인 수).
+    """(마지막 thesis 편집일, 그 이후 순증한 source_paper 수).
 
     커밋은 최신순. 최신부터 훑다가 첫 thesis 커밋을 만나면 거기서 멈춘다.
-    그 전까지 지나온 wikilink-only 커밋들의 추가 논문 라인이 churn."""
+    그 전까지 지나온 wikilink-only 커밋들의 논문 순증(added − removed)이 churn.
+    경로 rename은 added ≈ removed → 순증 0 → churn 불변.
+    """
     churn = 0
     for dt, diff, is_bulk in diffs:
         if is_bulk:
             continue        # 정비 커밋: thesis 판정에서도, churn 집계에서도 제외
-        added_body, added_papers, nontrivial = 0, 0, 0
+        added_body, added_papers, removed_papers, nontrivial = 0, 0, 0, 0
         in_hunk = False
         for raw in diff.splitlines():
             if raw.startswith("@@"):
@@ -283,13 +285,16 @@ def analyze_history(diffs: list[tuple[datetime, str]]) -> tuple[datetime | None,
                 elif SOURCE_PAPER_LINE_RE.match(body):
                     added_papers += 1
             elif raw.startswith("-"):
-                if not is_wikilink_only_change_line(raw[1:]):
+                body = raw[1:]
+                if not is_wikilink_only_change_line(body):
                     nontrivial += 1
+                elif SOURCE_PAPER_LINE_RE.match(body):
+                    removed_papers += 1
         if added_body == 0 and nontrivial == 0:
             continue
         if nontrivial > 0:
             return (dt, churn)          # 최초로 만난 thesis 커밋 = 마지막 thesis 편집
-        churn += added_papers
+        churn += max(0, added_papers - removed_papers)
     return (None, churn)                # thesis 커밋 없음 (파일 생성 커밋만 등)
 
 
