@@ -39,7 +39,7 @@ agenda: agenda/2026-05-27_drug-overview-split.md
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
-> - 치과 항생제 처방의 1차 원칙은 제한 (restrictive) — 21편 (SR-MA 8, 가이드라인/position 2, narrative 2, 처방 행태 4, RCT 2, umbrella 3) 종합 결론으로, 권고가 가장 빠르게 좁아지는 영역이다.
+> - 치과 항생제 처방의 1차 원칙은 제한 (restrictive) — 25편 (SR+MA 7, umbrella SR 4, SR 3, RCT 2, 지침·합의 2, narrative 2, 처방행태 3, retrospective 2) 종합 결론으로, 권고가 가장 빠르게 좁아지는 영역이다.
 > - 감염성 심내막염 (Infective Endocarditis, IE) 예방적 항생제는 4개 최고위험군 (인공판막·과거 IE·선천성 청색 심장병·심장이식 후 판막병변) 에만 적응 — Wilson 2021 AHA, Sperotto 2024 SR-MA (n=1.15M). Loper 2025 SR은 소아 선천성 심장질환 (Congenital Heart Disease, CHD) 집단에서 균혈증 (Bacteremia) 감소 효과 확인 (OR 0.24)이나 GRADE 근거 수준 매우 낮음 — 일상 구강위생 최적화가 누적 균혈증 감소에 더 기여. [확인]
 > - 단순 발치 (intact dentition) 에는 예방적 항생제가 dry socket·감염·통증 감소에 효과 없음 → 시행 안 함 (Lodi 2021 Cochrane). [확인]
 > - 치주치료 (Scaling and Root Planing, SRP) 보조 전신 항생제: Botelho 2025 우산형 고찰 (Umbrella Review, 44개 SR, 221개 메타분석) — CAL 0.3–0.4 mm 통계적 개선 있으나 전체 근거 등급 "약함", SR의 65.6%가 방법론적 질 "매우 낮음". 전신 항생제는 중증 치주염에만, 국소 전달 (Local Delivery, LD) 방식이 부위 특이 깊은 치주낭에 우선. [확인]
@@ -55,7 +55,7 @@ agenda: agenda/2026-05-27_drug-overview-split.md
 
 ## Three-line Summary
 
-Synthesis of 21 papers (8 SR+MA, 3 umbrella reviews, 2 guidelines/position, 2 RCTs, 4 prescribing-behavior surveys, 2 narrative) on dental antibiotic stewardship: the first principle is restrictive prescribing — infective endocarditis (IE) prophylaxis is limited to the 4 highest-risk cardiac groups (Wilson 2021 AHA; Sperotto 2024 SR+MA n=1.15M); simple extractions in intact dentition need no prophylaxis (Lodi 2021 Cochrane); single perioperative dosing suffices for most oral surgery; >24 h extension raises antimicrobial resistance without reducing infection (Mohammadpour 2025 scoping, 125 papers).
+Synthesis of 25 papers (7 SR+MA, 4 umbrella SR, 3 SR, 2 RCTs, 2 guidelines/consensus, 2 narrative, 3 prescribing-behavior surveys, 2 retrospective/pharmacoepi) on dental antibiotic stewardship: the first principle is restrictive prescribing — infective endocarditis (IE) prophylaxis is limited to the 4 highest-risk cardiac groups (Wilson 2021 AHA; Sperotto 2024 SR+MA n=1.15M); simple extractions in intact dentition need no prophylaxis (Lodi 2021 Cochrane); single perioperative dosing suffices for most oral surgery; >24 h extension raises antimicrobial resistance without reducing infection (Mohammadpour 2025 scoping, 125 papers).
 
 Among drug choices, amoxicillin is first-line (adverse-event rate 21.5/million, fatality 0.1/million) and clindamycin should be avoided (fatality 2.9/million, mostly C. difficile — Thornhill 2019 NHS 7-year data); local antibiotic delivery equals 7-day systemic course in periodontal outcomes while minimizing systemic AMR burden (Milinkovic 2025 RCT; Aimetti 2025 RCT NNT=2.73); prescribing-behavior surveys from Singapore, Iran, and Germany (2026) confirm widespread over-prescribing against guidelines — knowledge–performance gap.
 
@@ -63,7 +63,7 @@ Audit-and-feedback (A&F) interventions reduce inappropriate prescribing by 70% (
 
 ## 세줄요약
 
-치과 항생제 21편(SR+MA 8·umbrella 3·가이드라인/position 2·RCT 2·처방 행태 4·narrative 2) 통합: 1차 원칙은 제한(restrictive) — 감염성 심내막염(Infective Endocarditis, IE) 예방은 4개 최고위험 심장군만(Wilson 2021·Sperotto 2024 n=1.15M); 단순 발치 예방 처방 효과 없음(Lodi 2021 Cochrane); 구강외과 대부분 술기에 단일 술전 투약으로 충분, 24시간 초과 연장은 항균제 내성(Antimicrobial Resistance, AMR)만 증가(Mohammadpour 2025 125편).
+치과 항생제 25편(SR+MA 7·umbrella SR 4·SR 3·RCT 2·지침·합의 2·narrative 2·처방행태 3·retrospective 2) 통합: 1차 원칙은 제한(restrictive) — 감염성 심내막염(Infective Endocarditis, IE) 예방은 4개 최고위험 심장군만(Wilson 2021·Sperotto 2024 n=1.15M); 단순 발치 예방 처방 효과 없음(Lodi 2021 Cochrane); 구강외과 대부분 술기에 단일 술전 투약으로 충분, 24시간 초과 연장은 항균제 내성(Antimicrobial Resistance, AMR)만 증가(Mohammadpour 2025 125편).
 
 약물 선택: 아목시실린(Amoxicillin) 1차(부작용 21.5/백만·치명 0.1/백만), 클린다마이신(Clindamycin) 회피(치명 2.9/백만, 대부분 C. difficile; Thornhill 2019 NHS 7년); 치주 깊은 낭에는 국소 전달 항생제(Local Delivery, LD)가 7일 전신 코스와 동등하고 전신 AMR 최소화(Milinkovic 2025·Aimetti 2025 RCT NNT=2.73); 싱가포르·이란·독일 2026 처방 행태 조사 — 가이드라인 대비 과처방 광범위, 지식↔수행 괴리.
 
@@ -73,7 +73,7 @@ Audit-and-feedback (A&F) interventions reduce inappropriate prescribing by 70% (
 
 ## Summary
 
-치과 항생제 처방은 **과잉처방 문화 vs 항생제 내성(Antimicrobial Resistance, AMR) 위기** 사이에서 가장 빠르게 권고가 좁아지는 영역. 21편 paper(SR-MA·umbrella 8, position·guideline 2, narrative 2, 처방 행태 분석 4, RCT 2, 기타 3)를 종합한 결론:
+치과 항생제 처방은 **과잉처방 문화 vs 항생제 내성(Antimicrobial Resistance, AMR) 위기** 사이에서 가장 빠르게 권고가 좁아지는 영역. 25편 paper(SR+MA 7·umbrella SR 4·SR 3·RCT 2·지침·합의 2·narrative 2·처방행태 3·retrospective 2)를 종합한 결론:
 
 1. **IE prophylaxis는 4개 최고위험군만** (2021 AHA, 2024 SR-MA 1.15M cases 확인).
 2. **단순 발치에는 항생제 prophylaxis 효과 없음** (Cochrane 2021).
