@@ -11,6 +11,8 @@ pmcid: "PMC9719205"
 source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9719205/
 text_path: /Users/oracleneo/llm-wiki/papers/wang-2022-unopposed-molar-overeruption-implant-cbct.txt
 text_filename: wang-2022-unopposed-molar-overeruption-implant-cbct.txt
+pdf_path: /Users/oracleneo/llm-wiki/papers/wang-2022-unopposed-molar-overeruption-implant-cbct.pdf
+pdf_filename: wang-2022-unopposed-molar-overeruption-implant-cbct.pdf
 ---
 
 ## Why Ingested
