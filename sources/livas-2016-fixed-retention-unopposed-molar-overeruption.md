@@ -11,6 +11,8 @@ pmcid: "PMC4722044"
 source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC4722044/
 text_path: /Users/oracleneo/llm-wiki/papers/livas-2016-fixed-retention-unopposed-molar-overeruption.txt
 text_filename: livas-2016-fixed-retention-unopposed-molar-overeruption.txt
+pdf_path: /Users/oracleneo/llm-wiki/papers/livas-2016-fixed-retention-unopposed-molar-overeruption.pdf
+pdf_filename: livas-2016-fixed-retention-unopposed-molar-overeruption.pdf
 ---
 
 ## Why Ingested
