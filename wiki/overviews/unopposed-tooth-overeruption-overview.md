@@ -40,6 +40,9 @@ relations:
   - type: reinforces
     target: denes-2020-monitoring-overeruption-pattern-young-adult
     note: "Longitudinal rat micro-CT corroborating the age effect: young 172 µm/day, critical 3-week window post-extraction."
+  - type: extends
+    target: hong-2023-characteristics-spatial-changes-molars-alveolar
+    note: "CBCT morphometric study (~5 years, n=42): maxillary first molar extrusion 1.37mm mesial / 0.85mm distal; adjacent mandibular second molar mesial tipping 57.47°; buccal CEJ bone defect 3.15mm as primary molar-protraction constraint."
 ---
 
 ## 한국어 핵심요약
@@ -59,23 +62,24 @@ relations:
 > - 흔한 오판: "엔도한 치아라 더/덜 정출한다"(근거 없음·기전상 무관), "크라운 씌우면 정출 안 한다"(전체 치아가 이동), "대합치 없으면 무조건 빨리 보철"(저위험치는 과한 개입), "정출은 수직만"(경사·회전 동반).
 > - PDL 기전 직접 확인: 랫드에서 교합자극 제거 2주만에 치주인대(PDL) 두께·치조골 골밀도(BMD) 유의 감소 → 저출력 레이저(LLL)로 회복(Hayashi 2014). 이는 "정출은 PDL·치조골 주도" 명제를 동물 레벨에서 직접 뒷받침하고, 엔도 여부와 무관한 이유를 기전으로 설명함.
 > - **연령 효과 종단 확인 — Denes 2020**: 흰쥐 56마리 12주 종단 micro-CT — 어린 쥐(4주령) 무대합 대구치 정출률 (Eruption Rate) **172 ± 67 µm/일**, 발치 후 **첫 3주**가 피크이고 이후 대조군 수준(12.9 µm/일)으로 수렴; 성체 과부하 대구치는 정출 없음; 어린 무대합군 임상치관고 (Clinical Crown Height)는 대조군의 **4.5배**. Fujita 2009 연령 효과를 종단 설계로 독립 재확인 — 임상 함의: **발치 직후 3주가 가장 위험한 창**, 청소년·성장기 환자는 특히 신속한 공간관리 필요.
-> - 본 페이지는 [[occlusion/wang-2022-unopposed-molar-overeruption-implant-cbct]](정출이 일어난다)와 [[occlusion/livas-2016-fixed-retention-unopposed-molar-overeruption]](막으려는 개입은 효과 약함) 2편을 축으로, 임플란트 교합 종합([[overviews/implant-occlusion-loading-biomechanics-overview]])과 상보적인 "자연치 측" 렌즈다.
+> - **CBCT 장기 정량 + 인접 변화 — Hong 2023**: CBCT 단면 연구(하악 제1대구치 결손 평균 62.6개월, n=42 vs 대조군 n=42, 18–40세)에서 상악 제1대구치 정출 직접 계측 — 근심교두 **1.37 ± 0.83 mm**, 원심교두 **0.85 ± 0.70 mm** (근심>원심 P<0.01). 동시에: 하악 제2대구치 근심 경사 (Mesial Tipping) 57.47° vs 대조군 82.75°(P<0.001), 설측 경사 (Lingual Tipping) 71.75° vs 73.23°(P<0.05); 협측 치조골 결손 (Buccal Bone Defect) 법랑-백악질 경계부 (CEJ) 기준 3.15 ± 0.87 mm. 결손 기간이 길수록 경사(R=−0.726)·정출(R=−0.334) 유의하게 악화. 하악 제2대구치 근심이동 (Molar Protraction) 3D 시뮬레이션에서 가능 거리 < 필요 거리 전 레벨 — **협측 CEJ 골결손이 주된 제한 인자** → 치조골 이식 (Bone Augmentation) + 설측 치근 토크 (Lingual Root Torque) 필수. Wang 2022(0.43mm/9개월)와 직접 비교는 어렵지만(집단·기간·목적이 다름) 5년 데이터로서 장기 정출 누적을 실물로 보여줌.
+> - 본 페이지는 [[occlusion/wang-2022-unopposed-molar-overeruption-implant-cbct]](정출이 일어난다), [[occlusion/livas-2016-fixed-retention-unopposed-molar-overeruption]](막으려는 개입은 효과 약함), [[occlusion/hong-2023-characteristics-spatial-changes-molars-alveolar]](장기 정출 + 인접치·치조골 3D 변화) 3편을 축으로, 임플란트 교합 종합([[overviews/implant-occlusion-loading-biomechanics-overview]])과 상보적인 "자연치 측" 렌즈다.
 
 ## Three-line Summary
 
-Synthesis of 14 papers: unopposed posterior teeth over-erupt in ~83% of cases (mean 0.43 mm / max 0.75 mm over ~9 months, ~72% < 1 mm, fastest early, as a 3D vertical + buccal-tipping + rotation movement; ~18% never move); the process is PDL/alveolar-bone–driven and therefore independent of pulp vitality, with no evidence that endo-treated teeth erupt differently from vital teeth.
+Synthesis of 15 papers: unopposed posterior teeth over-erupt in ~83% of cases (mean 0.43 mm / max 0.75 mm over ~9 months short-term; mesial cusp 1.37 mm at ~5 years by CBCT [Hong 2023]; ~72% < 1 mm short-term; fastest early; 3D vertical + buccal-tipping + rotation; ~18% never move); the process is PDL/alveolar-bone–driven and independent of pulp vitality.
 
-Fixed retention is no better than partial occlusal contact at preventing over-eruption (both ~0.1 mm; Livas 2016), so monitoring is a defensible default for low-risk teeth; risk is amplified 4.9× for ≥2 mm eruption over 12 years by younger age, maxillary location, full absence of antagonist, periodontitis, and the early post-extraction window.
+Fixed retention is no better than partial occlusal contact (both ~0.1 mm; Livas 2016); adjacent mandibular second molar tips mesially to 57.47° (vs 82.75° controls) and buccal CEJ bone defect reaches 3.15 mm after ~5 years, making early restoration the strongest lever against the full deformity cascade (Hong 2023); risk of ≥2 mm eruption is 4.9× over 12 years in the high-risk profile.
 
-Clinical ladder: risk-stratify before reflexive restoration; include space management in 9–12-month implant treatment plans; endo status is not a deciding variable — the process is periodontally rather than pulpally driven.
+Clinical ladder: risk-stratify before reflexive restoration; include space management in implant treatment; endo status is not a deciding variable; plan molar protraction expecting bone augmentation + lingual root torque requirements.
 
 ## 세줄요약
 
-14편 종합: 대합치 없는 후방 치아의 ~83%가 정출(~9개월 평균 0.43 mm / 최대 0.75 mm, ~72%는 1 mm 미만, 초기 최대 속도, 수직+협측경사+회전의 3D 운동); ~18%는 전혀 안 움직임; 정출은 PDL·치조골 매개라 치수 생활력 무관 — 엔도치 vs 생활치 차이 근거 없음.
+15편 종합: 대합치 없는 후방 치아의 ~83%가 정출(단기 ~9개월 평균 0.43 mm / 최대 0.75 mm; CBCT 5년 기준 근심교두 1.37 mm [Hong 2023]; ~72%는 1 mm 미만; 초기 최대 속도; 수직+협측경사+회전 3D); ~18%는 전혀 안 움직임; 정출은 PDL·치조골 매개라 치수 생활력 무관.
 
-고정 retention도 부분접촉 대비 효과 없어(둘 다 ~0.1 mm; Livas 2016) 저위험치는 모니터링이 방어 가능한 기본값; 젊은 나이·상악·완전무대합·치주염·발치 직후가 12년 ≥2 mm 위험을 4.9배 높이는 고위험 프로파일.
+고정 retention도 부분접촉 대비 효과 없어(Livas 2016); 5년 후 인접 하악 제2대구치 근심 경사 (Mesial Tipping) 57.47°·협측 CEJ 골결손 3.15 mm로 2차 변형이 누적되며(Hong 2023), 조기 복원이 변형 cascade 예방의 최강 레버 — 고위험 프로파일(젊음·상악·완전무대합·치주염)에서 ≥2 mm 위험 4.9배.
 
-임상 ladder: 반사적 보철 전 위험 계층화; 임플란트 치료 기간(9–12개월) 공간 관리 포함; 엔도치 여부는 결정 변수 아님 — 치주 소견 기반으로 결정.
+임상 ladder: 반사적 보철 전 위험 계층화; 임플란트 치료 기간 공간 관리 포함; 엔도치 여부는 결정 변수 아님; 하악 제2대구치 근심이동 (Molar Protraction) 계획 시 치조골 이식 (Bone Augmentation) + 설측 치근 토크 (Lingual Root Torque) 전제.
 
 ## Synthesis
 
@@ -89,6 +93,7 @@ The clinical query "대합치 없을 때 엔도치 크라운 vs 생활치 크라
 - Magnitude is modest: [[occlusion/wang-2022-unopposed-molar-overeruption-implant-cbct]] measured a mean **0.43 mm (max 0.75 mm) over ~9 months** by CBCT; **72% moved < 1 mm**. A minority are fast eruptors (one molar moved 2.56 mm in 9 months).
 - It is a **3D movement** — vertical migration + ~1.7° buccal tipping + rotation — not pure extrusion, so 2D cusp-height measures underestimate it (Wang 2022; [[occlusion/christou-2007-three-dimensional-changes-unopposed-molars-adults]] documents the vertical+palatal 3D vector over a decade).
 - It is **fastest in the early period** after antagonist loss, then slows (short-term 0.43 mm/9 mo ≈ long-term 0.8–0.9 mm/12 y, [[occlusion/lindskog-stokland-2012-changes-molar-position-missing-opposed]]).
+- **5-year CBCT measurement** ([[occlusion/hong-2023-characteristics-spatial-changes-molars-alveolar]], n=42, mean 62.6 months): maxillary first molar mesial cusp **1.37 ± 0.83 mm**, distal cusp **0.85 ± 0.70 mm** — asymmetric extrusion (mesial > distal). Simultaneously, the adjacent mandibular second molar tips mesially to 57.47° (vs 82.75° controls, P<0.001) and the buccal alveolar bone at CEJ loses 3.15 mm. All changes worsen with duration (R = −0.334 to −0.726). Note: this cohort (18–40 y, 62.6 months, no active periodontitis) differs from Wang 2022 (9 months, perio patients) — populations are not directly comparable, but both demonstrate measurable extrusion at their respective timepoints.
 
 **Q2 — Does it differ for an endodontically treated (실활치) vs vital (생활치) tooth, or with a crown?** No evidence of a difference, and a clear mechanistic reason for none.
 
@@ -130,6 +135,7 @@ The practical implication: there is **no strong, low-cost mechanical fix** that 
 
 **Magnitude & natural history**
 - [[occlusion/wang-2022-unopposed-molar-overeruption-implant-cbct]] — Wang 2022, CBCT retrospective cohort (n=68 unopposed molars): 0.43 mm mean / 0.75 mm max overeruption + 1.7° buccal tipping over ~9 months; fastest early; 3D compound movement.
+- [[occlusion/hong-2023-characteristics-spatial-changes-molars-alveolar]] — Hong 2023, CBCT cross-sectional (n=42 missing mandibular first molar, mean 62.6 months; 42 controls; 18–40 y): maxillary first molar extrusion 1.37 mm (mesial cusp) and 0.85 mm (distal cusp) — only in missing group; mandibular second molar mesial tipping to 57.47° (vs 82.75°, P<0.001); buccal alveolar bone defect at CEJ 3.15 mm; all changes correlated with duration (R = −0.334 to −0.726); 3D protraction simulation: available mesialization distance < required at all levels, buccal CEJ bone as primary constraint.
 - [[occlusion/craddock-2004-incidence-overeruption-occlusal-interferences-unopposed]] — Craddock & Youngson 2004, clinical retrospective (n=120): **the foundational incidence figure** — ~84% of unopposed posterior teeth over-erupt (0–5.4 mm); occlusal interferences in ~52%; overeruption extent only weakly associated with interference.
 - [[occlusion/kiliaridis-2000-vertical-position-rotation-tipping-molars]] — Kiliaridis 2000, cross-sectional (n=53, 84 molars unopposed ≥10 y): **~18% show no overeruption at all**, ~49–58% slight (<2 mm), ~20–24% moderate-to-severe (≥2 mm) — directly refutes "every unopposed tooth over-erupts."
 - [[occlusion/christou-2007-three-dimensional-changes-unopposed-molars-adults]] — Christou & Kiliaridis 2007, prospective (n=12 adults, 22 maxillary molars, mean 10.6 y): vertical 0.8 mm + palatal 0.9 mm 3D displacement — slow and clinically minor in a healthy periodontium over a decade.
@@ -154,6 +160,5 @@ The practical implication: there is **no strong, low-cost mechanical fix** that 
 
 ## Evidence gaps / next ingests
 
-- **Now held** (14 pages): Craddock & Youngson 2004 (83% figure), Kiliaridis 2000 (18% non-eruptors), Christou 2007 (3D), Lindskog-Stokland 2012 (4.9× risk, bone support), Craddock 2006/2007 (Broadrick curve; partial contact), Faggion 2011 (GRADE review), Fujita 2009/2010 rat (age; periodontitis), Hayashi 2014 rat (PDL/BMD hypofunction model), Greenstein 2018 (second-molar replacement decision), **Denes 2020 rat (longitudinal micro-CT, 172 µm/day, 3-week critical window)**.
-- **No paper** directly comparing endo-treated vs vital tooth overeruption (the originating clinical question) — would be the single highest-value addition.
+- **Now held** (15 pages): Craddock & Youngson 2004 (83% figure), Kiliaridis 2000 (18% non-eruptors), Christou 2007 (3D), Lindskog-Stokland 2012 (4.9× risk, bone support), Craddock 2006/2007 (Broadrick curve; partial contact), Faggion 2011 (GRADE review), Fujita 2009/2010 rat (age; periodontitis), Hayashi 2014 rat (PDL/BMD hypofunction model), Greenstein 2018 (second-molar replacement decision), Denes 2020 rat (longitudinal micro-CT, 172 µm/day, 3-week critical window), **Hong 2023 CBCT (5-year extrusion 1.37mm, adjacent tipping, bone constraints for molar protraction)**.
 - **No paper** directly comparing endo-treated vs vital tooth overeruption (the originating clinical question) — would be the single highest-value addition.
