@@ -1,0 +1,686 @@
+<!DOCTYPE html>
+<html lang="ko" data-theme="">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SST vs IIP 케이스 선택기</title>
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+/* ── Light tokens (default) ─────────────────────────── */
+:root {
+  --bg:           #EEF4F0;
+  --surface:      #FFFFFF;
+  --surface-2:    #F3F8F5;
+  --ink:          #152820;
+  --ink-2:        #3D5A4C;
+  --ink-3:        #7A9A8B;
+  --border:       #C4D8CB;
+  --border-2:     #AECABC;
+  --accent:       #1B6848;
+  --accent-light: #E4F2EB;
+  --accent-mid:   #5BA882;
+
+  --ok:           #0D5C35;    --ok-bg:    #E3F5EC;   --ok-bd:    #5AB88A;
+  --warn:         #7A5200;    --warn-bg:  #FEF4E2;   --warn-bd:  #C89030;
+  --info:         #1A3D7A;    --info-bg:  #E8F0FA;   --info-bd:  #5A90D4;
+  --danger:       #8C1F10;    --danger-bg:#FCECEA;   --danger-bd:#D05A50;
+
+  --radius: 10px;
+  --radius-sm: 6px;
+  --sh:  0 1px 4px rgba(14,32,22,.07), 0 0 0 1px rgba(14,32,22,.05);
+  --sh2: 0 2px 12px rgba(27,104,72,.14), 0 0 0 2px var(--accent);
+}
+
+/* ── Dark tokens (media query, not overridden by data-theme="light") ── */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg:           #0E1A12;
+    --surface:      #162218;
+    --surface-2:    #1D2E20;
+    --ink:          #D5EDD9;
+    --ink-2:        #96BAAA;
+    --ink-3:        #578A70;
+    --border:       #2A4535;
+    --border-2:     #38584A;
+    --accent:       #3CB878;
+    --accent-light: #112A1E;
+    --accent-mid:   #3CB878;
+    --ok:    #3CB878; --ok-bg:    #0D2A1C; --ok-bd:    #3CB878;
+    --warn:  #D4A040; --warn-bg:  #261C08; --warn-bd:  #D4A040;
+    --info:  #6090D8; --info-bg:  #0D1C30; --info-bd:  #6090D8;
+    --danger:#E06858; --danger-bg:#2A1010; --danger-bd:#E06858;
+  }
+}
+:root[data-theme="dark"] {
+  --bg:           #0E1A12;
+  --surface:      #162218;
+  --surface-2:    #1D2E20;
+  --ink:          #D5EDD9;
+  --ink-2:        #96BAAA;
+  --ink-3:        #578A70;
+  --border:       #2A4535;
+  --border-2:     #38584A;
+  --accent:       #3CB878;
+  --accent-light: #112A1E;
+  --accent-mid:   #3CB878;
+  --ok:    #3CB878; --ok-bg:    #0D2A1C; --ok-bd:    #3CB878;
+  --warn:  #D4A040; --warn-bg:  #261C08; --warn-bd:  #D4A040;
+  --info:  #6090D8; --info-bg:  #0D1C30; --info-bd:  #6090D8;
+  --danger:#E06858; --danger-bg:#2A1010; --danger-bd:#E06858;
+}
+
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo",
+               "Noto Sans KR", "Malgun Gothic", system-ui, sans-serif;
+  min-height: 100vh;
+  padding: 24px 16px 56px;
+  font-size: 15px;
+  line-height: 1.6;
+}
+
+.wrap { max-width: 620px; margin: 0 auto; }
+
+/* ── Header ─────────────────────────────────────────── */
+.hdr {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 24px;
+}
+.hdr-badge {
+  display: inline-block;
+  font-size: 10.5px;
+  font-weight: 700;
+  letter-spacing: .07em;
+  text-transform: uppercase;
+  color: var(--accent);
+  background: var(--accent-light);
+  border: 1px solid var(--ok-bd);
+  border-radius: 4px;
+  padding: 2px 8px;
+  margin-bottom: 7px;
+}
+h1 {
+  font-size: 20px;
+  font-weight: 800;
+  line-height: 1.25;
+  color: var(--ink);
+  text-wrap: balance;
+}
+.hdr-sub {
+  font-size: 13px;
+  color: var(--ink-3);
+  margin-top: 5px;
+}
+.theme-toggle {
+  flex-shrink: 0;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  padding: 6px 10px;
+  cursor: pointer;
+  font-size: 16px;
+  color: var(--ink-3);
+  line-height: 1;
+  transition: background .15s;
+}
+.theme-toggle:hover { background: var(--surface-2); }
+
+/* ── Progress ────────────────────────────────────────── */
+.prog-wrap {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 22px;
+}
+.prog-bar {
+  flex: 1;
+  height: 4px;
+  background: var(--border);
+  border-radius: 2px;
+  overflow: hidden;
+}
+.prog-fill {
+  height: 100%;
+  background: linear-gradient(90deg, var(--accent), var(--accent-mid));
+  border-radius: 2px;
+  transition: width .4s ease;
+}
+.prog-label {
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--ink-3);
+  font-variant-numeric: tabular-nums;
+  min-width: 36px;
+  text-align: right;
+}
+
+/* ── Question card ───────────────────────────────────── */
+.q-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--sh);
+  padding: 26px 24px;
+  margin-bottom: 14px;
+}
+.q-step {
+  font-size: 10.5px;
+  font-weight: 700;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 10px;
+}
+.q-text {
+  font-size: 17px;
+  font-weight: 800;
+  line-height: 1.3;
+  color: var(--ink);
+  margin-bottom: 5px;
+  text-wrap: balance;
+}
+.q-sub {
+  font-size: 13px;
+  color: var(--ink-3);
+  margin-bottom: 20px;
+}
+.opts { display: flex; flex-direction: column; gap: 9px; }
+.opt {
+  background: var(--surface-2);
+  border: 1.5px solid var(--border);
+  border-radius: var(--radius-sm);
+  padding: 13px 16px;
+  cursor: pointer;
+  text-align: left;
+  width: 100%;
+  color: var(--ink);
+  transition: border-color .12s, background .12s, box-shadow .12s;
+  -webkit-user-select: none; user-select: none;
+}
+.opt:hover {
+  border-color: var(--accent);
+  background: var(--accent-light);
+  box-shadow: var(--sh2);
+}
+.opt:focus-visible { outline: none; box-shadow: var(--sh2); }
+.opt-label {
+  font-size: 14px;
+  font-weight: 700;
+  margin-bottom: 2px;
+}
+.opt-desc {
+  font-size: 13px;
+  color: var(--ink-2);
+  line-height: 1.45;
+}
+
+/* ── Back button ─────────────────────────────────────── */
+.btn-back {
+  background: none;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  padding: 8px 14px;
+  font-size: 13px;
+  color: var(--ink-2);
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  transition: color .12s, border-color .12s;
+}
+.btn-back:hover { color: var(--ink); border-color: var(--border-2); }
+
+/* ── Result ──────────────────────────────────────────── */
+.result-card {
+  border-radius: var(--radius);
+  box-shadow: var(--sh);
+  overflow: hidden;
+  margin-bottom: 14px;
+  border: 1px solid var(--border);
+}
+.result-hdr {
+  padding: 18px 22px;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+.result-icon { font-size: 28px; line-height: 1; }
+.result-eyebrow {
+  font-size: 10.5px;
+  font-weight: 700;
+  letter-spacing: .07em;
+  text-transform: uppercase;
+  margin-bottom: 3px;
+  opacity: .8;
+}
+.result-label {
+  font-size: 17px;
+  font-weight: 800;
+  line-height: 1.2;
+}
+.result-body {
+  background: var(--surface);
+  padding: 20px 22px;
+  border-top: 1px solid var(--border);
+}
+.result-headline {
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--ink);
+  margin-bottom: 8px;
+  line-height: 1.4;
+  text-wrap: balance;
+}
+.result-summary {
+  font-size: 14px;
+  color: var(--ink-2);
+  line-height: 1.65;
+  margin-bottom: 18px;
+}
+.evid-head {
+  font-size: 10.5px;
+  font-weight: 700;
+  letter-spacing: .07em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+  margin-bottom: 8px;
+}
+.evid-wrap { overflow-x: auto; margin-bottom: 16px; }
+table.evid {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+  min-width: 420px;
+}
+table.evid th {
+  text-align: left;
+  padding: 5px 12px 5px 0;
+  border-bottom: 1px solid var(--border);
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--ink-3);
+  white-space: nowrap;
+}
+table.evid td {
+  padding: 8px 12px 8px 0;
+  border-bottom: 1px solid var(--border);
+  vertical-align: top;
+  line-height: 1.5;
+  color: var(--ink-2);
+}
+table.evid td:first-child {
+  font-weight: 600;
+  color: var(--ink);
+  font-size: 12px;
+  white-space: nowrap;
+  padding-right: 16px;
+}
+.result-note {
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  padding: 10px 14px;
+  font-size: 13px;
+  color: var(--ink-2);
+  line-height: 1.55;
+  margin-bottom: 18px;
+}
+.btn-reset {
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  padding: 9px 18px;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--ink-2);
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  transition: color .12s, border-color .12s;
+}
+.btn-reset:hover { color: var(--ink); border-color: var(--border-2); }
+
+/* ── Result color variants ────────────────────────────── */
+.r-ok     .result-hdr { background: var(--ok-bg);     color: var(--ok);     border-bottom: 2px solid var(--ok-bd); }
+.r-warn   .result-hdr { background: var(--warn-bg);   color: var(--warn);   border-bottom: 2px solid var(--warn-bd); }
+.r-info   .result-hdr { background: var(--info-bg);   color: var(--info);   border-bottom: 2px solid var(--info-bd); }
+.r-danger .result-hdr { background: var(--danger-bg); color: var(--danger); border-bottom: 2px solid var(--danger-bd); }
+
+/* ── Footer ──────────────────────────────────────────── */
+.footer {
+  text-align: center;
+  font-size: 12px;
+  color: var(--ink-3);
+  margin-top: 28px;
+  line-height: 1.7;
+}
+
+.hidden { display: none !important; }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <!-- Header -->
+  <div class="hdr">
+    <div class="hdr-left">
+      <div class="hdr-badge">케이스 선택 도구 · SST</div>
+      <h1>소켓쉴드 vs 일반 즉시식립<br>케이스 선택기</h1>
+      <div class="hdr-sub">Durrani 2025 · Lu 2025 · Ji 2025 근거 기반</div>
+    </div>
+    <button class="theme-toggle" id="themeBtn" title="테마 전환" aria-label="테마 전환">🌙</button>
+  </div>
+
+  <!-- Progress -->
+  <div class="prog-wrap" id="progWrap">
+    <div class="prog-bar"><div class="prog-fill" id="progFill" style="width:0%"></div></div>
+    <div class="prog-label" id="progLabel">1 / 6</div>
+  </div>
+
+  <!-- Question area -->
+  <div id="qArea"></div>
+
+  <!-- Back button -->
+  <button class="btn-back hidden" id="backBtn" onclick="goBack()">← 이전</button>
+
+  <!-- Result area -->
+  <div id="resultArea" class="hidden"></div>
+
+  <div class="footer">
+    근거: Durrani 2025 (RCT·36개월), Lu 2025 (SR+MA·N=1307), Ji 2025 (NMA)<br>
+    임상 최종 판단은 술자 재량이며 본 도구는 보조 참고용입니다.
+  </div>
+</div>
+
+<script>
+/* ── Data ──────────────────────────────────────────────────── */
+const Qs = [
+  {
+    id: 'elian',
+    step: '단계 1 — 발치와 협측 골벽',
+    text: '협측 골벽 상태는? (Elian 분류)',
+    sub: 'CBCT 또는 발치 직후 시진 기준',
+    opts: [
+      { v: 'I',   label: 'Type I',   desc: '협측 골벽 + 연조직 모두 온전', score: 2 },
+      { v: 'II',  label: 'Type II',  desc: '연조직 온전, 협측 골벽 부분 소실', score: 1 },
+      { v: 'III', label: 'Type III', desc: '협측 골벽 + 연조직 모두 소실', block: 'conventional' },
+    ]
+  },
+  {
+    id: 'infection',
+    step: '단계 2 — 감염·병소 상태',
+    text: '발치 예정 치아의 감염 상태는?',
+    sub: '발치 직전 임상 소견 기준',
+    opts: [
+      { v: 'none',      label: '감염 없음',        desc: '만성 우식, 파절, 인접면우식 등 비감염 원인', score: 2 },
+      { v: 'periapical',label: '치근단 병소',       desc: '만성 치근단 육아종/낭종, 급성 증상 없음', score: 1 },
+      { v: 'acute',     label: '급성 감염·농양',    desc: '급성 치근단 농양, 봉소직염, 통증·종창 있음', block: 'defer' },
+    ]
+  },
+  {
+    id: 'thickness',
+    step: '단계 3 — 협측 골벽 두께',
+    text: '협측 골벽 두께는? (CBCT 계측)',
+    sub: '발치와 중간 1/3 기준; Type III 제외',
+    opts: [
+      { v: 'thick',  label: '≥ 1.5 mm',      desc: '쉴드 제작 후 충분한 골 지지 기대', score: 2 },
+      { v: 'mid',    label: '0.5 – 1.5 mm',  desc: '적용 가능, 쉴드 두께·위치 정밀 조절 필요', score: 1 },
+      { v: 'thin',   label: '< 0.5 mm',      desc: '쉴드 구조적 지지 어려움', block: 'conventional' },
+    ]
+  },
+  {
+    id: 'zone',
+    step: '단계 4 — 심미 필요도',
+    text: '시술 부위의 심미 노출 수준은?',
+    sub: 'SST의 심미적 이득이 임상적으로 유의미한 부위',
+    opts: [
+      { v: 'upper-ant', label: '상악 전치·소구치', desc: '심선 완전 노출 — SST 효과 가장 큼', score: 2 },
+      { v: 'lower-ant', label: '하악 전치·소구치', desc: '부분 노출 — SST 효과 유의미', score: 1.5 },
+      { v: 'posterior',  label: '구치부',           desc: '심미 노출 없음 — SST 추가 이득 제한적', score: 0.5 },
+    ]
+  },
+  {
+    id: 'exp',
+    step: '단계 5 — 술자 경험',
+    text: '소켓쉴드 술기 경험은?',
+    sub: 'SST는 기술 민감도 높은 술식',
+    opts: [
+      { v: 'expert',  label: '숙련 (20증례 이상)', desc: '체계적 수련 완료, 합병증 관리 경험 있음', score: 2 },
+      { v: 'limited', label: '제한적 (1–20증례)',  desc: '기본 술기 교육 받았으나 경험 적음', score: 1 },
+      { v: 'none',    label: '경험 없음',           desc: 'SST 수련 미완료', block: 'conventional_train' },
+    ]
+  },
+  {
+    id: 'patient',
+    step: '단계 6 — 환자 위험 인자',
+    text: '환자의 위험 인자 수준은?',
+    sub: '구강위생, 교합부하, 흡연, 전신질환 종합',
+    opts: [
+      { v: 'low',      label: '저위험',   desc: '양호한 구강위생, 비흡연, 이갈이 없음, 전신 이상 없음', score: 2 },
+      { v: 'moderate', label: '중등도',   desc: '1개 위험인자 존재 (경미한 흡연 또는 조절된 전신질환)', score: 1 },
+      { v: 'high',     label: '고위험',   desc: '복수 위험인자 (이갈이+흡연, 조절 안 된 전신질환 등)', score: 0.5 },
+    ]
+  },
+];
+
+const RESULTS = {
+  sst_strong: {
+    color: 'r-ok', icon: '✅',
+    eyebrow: '소켓쉴드 적극 권장',
+    label: '소켓쉴드 기법 (SST) 적용을 적극 권장합니다',
+    headline: '발치와 조건·술자 경험·환자 위험 모두 SST에 최적입니다',
+    summary: '이 케이스는 소켓쉴드 근거가 가장 강한 조건을 갖추었습니다. Durrani 2025 RCT와 Lu 2025 메타분석 모두 이와 같은 상황에서 SST의 유의미한 임상적 이점을 보고합니다.',
+    evid: [
+      ['Durrani 2025 · RCT · 36개월', 'MBL: SST 1.40±0.29 mm vs 일반 1.70±0.36 mm (p=0.040)'],
+      ['Durrani 2025',                 'PES: SST 10.50±0.90 vs 일반 9.36±0.98 (p=0.008); 양군 생존율 100%'],
+      ['Lu 2025 · MA · N=1,307',      '수평 협측골소실 MD −0.50 mm (CI −0.60,−0.41); PES MD +1.25; ISQ MD +5.83'],
+      ['Ji 2025 · NMA',               'PES·협측골두께: SST > 일반IIP > NIIP-GBR > NIIP-ARP'],
+    ],
+    note: '술 전 CBCT로 쉴드 두께·길이·각도 정밀 계획 권장. 디지털 가이드 활용 시 예측 가능성 향상 (Trejo 2024).'
+  },
+  sst_recommend: {
+    color: 'r-ok', icon: '✅',
+    eyebrow: 'SST 권장',
+    label: '소켓쉴드 기법 적용을 권장합니다',
+    headline: '대부분의 조건이 SST에 유리하며 1–2개 주의 항목 있음',
+    summary: '주요 적응증을 충족하지만 일부 인자에 대한 사전 계획이 필요합니다. 한계 항목에 대한 contingency plan 수립 및 충분한 설명 동의 후 진행하십시오.',
+    evid: [
+      ['Durrani 2025 · RCT · 36개월', 'MBL: SST 1.40 vs 일반 1.70 mm (p=0.040); PES: +1.14점 우위'],
+      ['Lu 2025 · MA · N=1,307',      '수평 협측골소실 MD −0.50 mm; 생존율 비: RR 1.00 (95% CI 0.97,1.04)'],
+      ['Gharpure 2022 · SR+MA',       'SST 이식재 필요성 감소, 협측골 안정성 우수 (다수 연구 종합)'],
+    ],
+    note: '한계 항목에 대한 대응 계획을 수립한 후 진행을 권장합니다. 필요 시 연조직 증대술 동시 고려.'
+  },
+  sst_conditional: {
+    color: 'r-warn', icon: '⚠️',
+    eyebrow: 'SST 조건부',
+    label: '소켓쉴드 — 신중한 케이스 선택 필요',
+    headline: '적용 가능하나 복수의 주의 인자가 존재합니다',
+    summary: 'SST를 고려할 수 있으나 여러 제한 인자가 병존합니다. 각 인자에 대한 구체적 대응 계획, 환자 충분한 설명 및 동의, 그리고 합병증 발생 시 대처 방안을 명확히 수립한 후 진행하십시오. 경험 있는 동료 의사의 자문을 권장합니다.',
+    evid: [
+      ['Lu 2025 · MA · N=1,307',   'SST vs IIP: MBL 차이 없음; 심미·협측골 보존 우위; 합병증 관리 프로토콜 필수'],
+      ['Gharpure 2022 · SR+MA',    'SST 합병증: 쉴드 이탈·감염·치근흡수 — 경험 술자에서 최소화'],
+      ['Blaschke 2020 · 비판적 고찰','SST 표준화 프로토콜 부재; 장기 RCT 데이터 제한적 — 환자 선택 핵심'],
+    ],
+    note: '경험 제한적인 경우 SST 숙련 술자 멘토링 또는 전문가 의뢰를 먼저 고려하십시오.'
+  },
+  conventional: {
+    color: 'r-info', icon: '🔵',
+    eyebrow: '일반 즉시식립 권장',
+    label: '소켓쉴드 없이 일반 즉시식립 (IIP) 권장',
+    headline: '현재 조건에서 SST 적용보다 일반 IIP가 더 안전합니다',
+    summary: '협측 골벽 두께 부족, Elian Type III, 또는 술자 경험 미비 등 구조적 한계로 SST 적용이 어렵습니다. 일반 즉시식립은 충분한 근거를 갖춘 안전한 선택지입니다.',
+    evid: [
+      ['Garcia-Sanchez 2022 · SR+MA', '일반 즉시식립 생존율 95–99%, 지연식립과 동등'],
+      ['Fan 2024 · SR+MA',            '즉시식립+GBR: 협측골 보존 대조군 대비 유의 개선'],
+      ['Durrani 2025 (대조군)',        '일반 IIP: 36개월 MBL 1.70 mm, PES 9.36, 생존율 100%'],
+    ],
+    note: '협측 갭 이식재 충전 및 임시보철로 치은 윤곽 유지를 권장합니다. Type III는 동시 GBR을 함께 계획하십시오.'
+  },
+  conventional_train: {
+    color: 'r-info', icon: '📚',
+    eyebrow: 'SST 교육 후 재평가',
+    label: 'SST 경험 미비 — 일반 IIP 또는 의뢰 권장',
+    headline: 'SST는 기술 민감도가 높아 경험 없이 적용하면 합병증 위험 높음',
+    summary: '소켓쉴드 기법은 쉴드 제작 각도, 두께, 위치 조절에 높은 숙련도를 요구합니다. 수련 없이 시행하면 쉴드 이탈, 치근 흡수, 감염 등 심각한 합병증이 발생할 수 있습니다. 현재 케이스는 일반 IIP로 진행하거나, SST 경험 있는 술자에게 의뢰하십시오.',
+    evid: [
+      ['Lu 2025 · MA',       'SST 합병증: 기술 민감도 높음 — 표준화 프로토콜 부재, 수련 필수'],
+      ['Trejo 2024 · 증례군', '디지털 가이드 + SST: 예측 가능성 향상, 고급 계획·장비 필요'],
+    ],
+    note: 'ITI 또는 학회 인정 SST 수련 과정(cadaver 또는 임상 멘토링) 이수 후 재적용을 권장합니다.'
+  },
+  defer: {
+    color: 'r-danger', icon: '⛔',
+    eyebrow: '즉시식립 보류',
+    label: '즉시식립 전 감염 치료 우선',
+    headline: '급성 감염 상태 → 발치 후 4–8주 조기식립 또는 지연식립',
+    summary: '급성 치근단 농양 또는 봉소직염 상태에서의 즉시식립은 임플란트 실패 위험이 유의하게 높습니다. 발치 후 감염을 완전히 치료한 뒤 조기식립 또는 지연식립을 권장합니다. 단, 만성 치근단 병소(급성 증상 없음)는 철저한 소파 후 즉시식립 가능합니다.',
+    evid: [
+      ['Chrcanovic 2015 · SR',           '감염 소켓 즉시식립: 생존율 감소, 합병증 증가 보고'],
+      ['Pranckeviciene 2024 · SR+MA',    '만성 치근단 병소(치료된): 즉시식립 생존율 동등 (99.6%) — 감염 급성기와 다름'],
+      ['Elaskary 2024',                  'VST: 급성 감염 소켓 IIP — 신중한 케이스 선택·철저한 소파 필수'],
+    ],
+    note: '만성 치근단 병소(급성 증상 없음)인 경우 감염 상태를 "치근단 병소"로 재분류하여 처음부터 다시 평가하십시오.'
+  },
+};
+
+/* ── State ─────────────────────────────────────────────────── */
+let stepIdx = 0;
+let answers = {};
+let scores  = {};
+let history = []; // idx history for back navigation
+
+/* ── Render ────────────────────────────────────────────────── */
+function render() {
+  updateProgress();
+  const q = Qs[stepIdx];
+  const qArea = document.getElementById('qArea');
+  const backBtn = document.getElementById('backBtn');
+
+  backBtn.classList.toggle('hidden', history.length === 0);
+
+  qArea.innerHTML = `
+    <div class="q-card">
+      <div class="q-step">${q.step}</div>
+      <div class="q-text">${q.text}</div>
+      <div class="q-sub">${q.sub}</div>
+      <div class="opts">
+        ${q.opts.map(o => `
+          <button class="opt" onclick="choose('${q.id}', '${o.v}', ${o.score || 0}, ${o.block ? '"'+o.block+'"' : 'null'})">
+            <div class="opt-label">${o.label}</div>
+            <div class="opt-desc">${o.desc}</div>
+          </button>
+        `).join('')}
+      </div>
+    </div>
+  `;
+}
+
+function updateProgress() {
+  const pct = (stepIdx / Qs.length) * 100;
+  document.getElementById('progFill').style.width = pct + '%';
+  document.getElementById('progLabel').textContent = (stepIdx + 1) + ' / ' + Qs.length;
+}
+
+function choose(qId, val, score, block) {
+  answers[qId] = val;
+  scores[qId]  = score;
+
+  if (block) {
+    showResult(block);
+    return;
+  }
+
+  history.push(stepIdx);
+  stepIdx++;
+
+  if (stepIdx >= Qs.length) {
+    const total = Object.values(scores).reduce((a,b) => a+b, 0);
+    let key;
+    if      (total >= 10) key = 'sst_strong';
+    else if (total >= 7)  key = 'sst_recommend';
+    else if (total >= 4.5)key = 'sst_conditional';
+    else                  key = 'conventional';
+    showResult(key);
+  } else {
+    render();
+  }
+}
+
+function showResult(key) {
+  const r = RESULTS[key];
+  document.getElementById('qArea').innerHTML = '';
+  document.getElementById('progWrap').classList.add('hidden');
+  document.getElementById('backBtn').classList.add('hidden');
+
+  const rows = r.evid.map(([src, val]) =>
+    `<tr><td>${src}</td><td>${val}</td></tr>`
+  ).join('');
+
+  document.getElementById('resultArea').innerHTML = `
+    <div class="result-card ${r.color}">
+      <div class="result-hdr">
+        <div class="result-icon">${r.icon}</div>
+        <div>
+          <div class="result-eyebrow">${r.eyebrow}</div>
+          <div class="result-label">${r.label}</div>
+        </div>
+      </div>
+      <div class="result-body">
+        <div class="result-headline">${r.headline}</div>
+        <div class="result-summary">${r.summary}</div>
+        <div class="evid-head">근거 요약</div>
+        <div class="evid-wrap">
+          <table class="evid">
+            <thead><tr><th>출처</th><th>핵심 수치</th></tr></thead>
+            <tbody>${rows}</tbody>
+          </table>
+        </div>
+        <div class="result-note">📌 ${r.note}</div>
+        <button class="btn-reset" onclick="reset()">↺ 처음부터 다시</button>
+      </div>
+    </div>
+  `;
+  document.getElementById('resultArea').classList.remove('hidden');
+}
+
+function goBack() {
+  if (history.length === 0) return;
+  stepIdx = history.pop();
+  const qId = Qs[stepIdx].id;
+  delete answers[qId];
+  delete scores[qId];
+  render();
+}
+
+function reset() {
+  stepIdx = 0;
+  answers = {};
+  scores  = {};
+  history = [];
+  document.getElementById('resultArea').innerHTML = '';
+  document.getElementById('resultArea').classList.add('hidden');
+  document.getElementById('progWrap').classList.remove('hidden');
+  render();
+}
+
+/* ── Theme toggle ──────────────────────────────────────────── */
+const root = document.documentElement;
+let dark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+document.getElementById('themeBtn').addEventListener('click', () => {
+  dark = !dark;
+  root.setAttribute('data-theme', dark ? 'dark' : 'light');
+  document.getElementById('themeBtn').textContent = dark ? '☀️' : '🌙';
+});
+
+/* ── Init ──────────────────────────────────────────────────── */
+render();
+</script>
+</body>
+</html>
