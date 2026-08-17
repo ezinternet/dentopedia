@@ -2693,6 +2693,8 @@ tags: []
 - [[interactives/2026-05-31_pdrn-chairside-manual]] — PDRN(폴리뉴클레오티드) chairside 매뉴얼 (2026-05-31 신설): A2A 수용체+salvage pathway 기전, 4개 적응증 카드(근거등급·말할수있는것/없는것·trade-off·대안·출처), dose/vehicle/timing 종합표(미명시=미검증 표기). 인쇄 가능 단일 HTML. agenda/2026-05-31_pdrn-chairside-manual.
 - [[interactives/2026-06-25_forced-eruption-antagonist-wire-decision]] — 정출(forced eruption) 치료기간 중 대합치 와이어 고정 판단 기준 (2026-06-25 신설): 치료치를 ~3개월 교합 저위치로 유지할 때 무대합이 된 대합치의 과맹출 위험을 6+1 항목 위험점수로 평가→모니터링/고정 권고. Craddock 2004(정출 83.9%)·Kiliaridis 2000(18% 비정출)·Wang 2022(9mo 0.43mm·초기가속)·Livas 2016(고정 retention ≈ 부분접촉, 억제효과 약함)·Lindskog-Stokland 2012(≥2mm 4.9배) 기반. 근거는 수동 과맹출 데이터→정출 술식 전이([claude해석]). agenda/2026-06-25_forced-eruption-antagonist-wire.
 - [[interactives/2026-07-08_clinical-claim-response-manual]] — 임상 클레임(A 통증·기능·F 심미·E 협박·과도요구) 대응 매뉴얼 (2026-07-08 신설, claim-coach 스킬 연계): 15개 상황(임플란트·근관·교합·발치·미백·틀니·라미네이트·잇몸라인·검치·심미 틀니 + 협박성 3건)별 3톤(공감우선/균형/전문성) 스크립트 — E는 스킬 가드대로 표준 3톤 대신 신중초안(채널별) 유지. 검색·유형필터·스크립트 복사 버튼. 근거: 민원 과학 21편(Reader 2014 taxonomy·Friele 2006/2015 기대진단·Alrahabi 2019 근관 malpractice·Park 2016·Kwon 2017·Grillo 2023 서면동의·Nabavizadeh 2023 BDD). agenda/2026-07-08_clinical-claim-response-manual.
+- [[interactives/2026-08-17_socket-shield-iip-selector]] — 소켓쉴드(SST) vs 일반 IIP 케이스 선택 위저드 (2026-08-17 신설): Elian 분류·감염·협측골두께·심미부위·술자경험·환자위험 6단계 분기 → SST 적극권장/권장/조건부/일반IIP/교육 후 재평가/즉시식립 보류 6결과 + 근거 표(Durrani 2025 RCT·Lu 2025 MA·Ji 2025 NMA). Forest-green 팔레트 단계별 위저드.
+- [[interactives/2026-08-17_iip-complexity-calculator]] — IIP/IIPP 케이스 복잡도 계산기 (2026-08-17 신설): Liu 2025 외과×보철 2축 분류 — 각 축 4파라미터(저1·중2·고3점) 입력 → 실시간 난이도 레벨 + 3×3 리스크 매트릭스 하이라이트 + 생존율·합병증률·MBL·만족도 예측. Navy 팔레트 라이브 계산 폼.
 
 ## 메타 — wiki 운영 (Meta)
 
