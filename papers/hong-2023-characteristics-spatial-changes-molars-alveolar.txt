@@ -1,0 +1,103 @@
+Characteristics of Spatial Changes in Molars and Alveolar Bone Resorption among Patients with Loss of Mandibular First Molars: A CBCT-Based Morphometric Study
+
+Authors: Huiyi Hong, Jing Zhou, Qi Fan, Ruijie Jiao, Qianyun Kuang, Hong Zhou, Chengge Hua, Zheng Yang, Wenli Lai, Hu Long
+Journal: Journal of Clinical Medicine 2023;12(5):1932
+DOI: 10.3390/jcm12051932
+PMID: 36902721
+PMCID: PMC10004128
+Published: 2023-03-01
+Institution: State Key Laboratory of Oral Diseases, National Clinical Research Center for Oral Diseases, Department of Orthodontics, West China Hospital of Stomatology, Sichuan University, Chengdu, China
+
+---
+
+1. Introduction
+
+Clinically, loss of the mandibular first molar due to severe caries or periodontal disease is highly prevalent in adults. According to Almugla et al., there was a high prevalence of mandibular first molar loss (23.1% with one missing mandibular first molar, 13.3% with two, and 2.8% with three) in the general population in Saudi Arabia. Similar results were observed in another study based on the population in Iran (17.05% with one missing mandibular molar, 10.4% with two, 7.2% with three, and 5% with four). Loss of mandibular first molars affects the masticatory function, aesthetics, structural balance, and psychological aspects of patients. In order to solve these problems, restorations are commonly needed. The edentulous space can be restored by dental implants or bridge restorations.
+
+With the presence of the second and third molars, an alternative treatment plan is orthodontic protraction of the molars. Natural teeth can be restored to the greatest extent. Third molars have similar crown sizes and root lengths compared to second molars. Therefore, second and third molars can substitute first and second molars to restore masticatory function.
+
+The success of molar protraction is one of the clinical challenges encountered by orthodontists. Compared to the maxillary complex, the mandible has thicker cortical bone, and the molar roots are much wider buccolingually. Moreover, the overeruption of maxillary molars, alveolar bone loss, tipping of the adjacent teeth, a long mesialization distance, and strong bone resistance are the main challenges of a successful mandibular molar protraction.
+
+Previous studies focused on the alveolar morphology changes in the missing molar region and the unopposed maxillary first molar. Craddock et al. found overeruption of maxillary first molars after the loss of opposing mandibular first molars. Other researchers observed dentoalveolar changes in unilateral extractions of mandibular first molars. In this study, we measured the mandibular posterior tooth tipping, bone loss, and maxillary molar overeruption and evaluated mesialization limitations using CBCT.
+
+The objective of this study was to investigate the bone morphology change after the loss of the mandibular first molar, offering clinical clues for the protraction of mandibular molars.
+
+2. Materials and Methods
+
+This retrospective study used cone beam computed tomography (CBCT) images to assess the bone morphology changes in missing molar regions, further exploring the limitations of second molar protraction. The protocol was approved by the Ethical Committee of West China Hospital of Stomatology, Sichuan University.
+
+For the missing molar group, patients between 18 and 40 years old were included if they presented with the maxillary first molar, mandibular first and second premolars, and mandibular second and third molars. The exclusion criteria were: (1) history of any orthodontic treatment or orthognathic surgery, (2) craniofacial deformities or evident facial and skeletal asymmetry, and (3) generalized periodontitis.
+
+CBCT images were analyzed and divided into two groups: the missing group (with first molar missing) and the control group (with first molar present). For the missing group, 36 patients (28.7 ± 6.4 years) with 42 missing mandibular first molars were included in the study, with 13 patients missing the mandibular right first molar, 17 missing the mandibular left first molar, and 6 missing both mandibular first molars. The mean duration of tooth loss in the missing group was 62.6 ± 13.3 months. For the control group, 36 patients (26.1 ± 5.8 years) with 42 mandibular first molars were included in the study.
+
+All cases of loss of mandibular first molars were screened by an experienced radiologist and then reviewed by an experienced orthodontist. The CBCT scans of patients were exported in DICOM format and measured bilaterally using In Vivo Dental Application Version 5.1.6. Student's t test and ANOVA were used to compare continuous variables. Pearson's correlation analysis was used to evaluate the time effect. All tests were two-sided and a-value < 0.05 was considered statistically significant. All statistical analyses were performed using SPSS Statistics Version 22.0.0.0.
+
+2.1. Determination of Coordinate Planes
+
+The mandibular posterior tooth plane was used as the reference plane to calibrate the CBCT scans for all measurements. The mandibular posterior tooth plane was determined as the plane passing through the line connecting the cusps of posterior teeth at two sides.
+
+2.2. Measurements
+
+2.2.1. Angulations of Bilateral Mandibular Posterior Teeth
+
+Mesiodistal Angulation: The mesiodistal angulation of the mandibular second molar was defined as the lower posterior angle between the long axis of the tooth and the posterior occlusal plane in the sagittal plane. A smaller angulation degree indicates that the tooth tipped more mesially.
+
+Buccolingual Angulation: The buccolingual angulation of the tooth was defined as the angle between the long axis of the tooth and the posterior plane in the coronal section. A smaller angulation degree indicates that the tooth tipped more lingually.
+
+2.2.2. Extrusion of Maxillary First Molars
+
+The extrusion of maxillary first molars was defined as the extrusion of the mesial cusp and distal cusp of the maxillary first molar. The amount of extrusion was measured from the posterior occlusal plane to the mesial and distal cusp.
+
+2.2.3. Alveolar Bone Loss in the Missing Tooth Region
+
+Vertical Alveolar Bone Loss: Defined as the vertical distance from the cemento-enamel junction (CEJ) to the alveolar bone crest of the adjacent teeth on the buccal, middle, and lingual sides respectively.
+
+Horizontal Alveolar Bone Loss: Defined as the differences between the original alveolar bone width and the actual alveolar bone width. The original bone width was established by drawing lines from the bone cortex of second molar to the bone cortex of the second premolar on both the buccal and lingual sides. A total of 18 measurements were recorded (buccal and lingual sides at CEJ, mid-root, and apex).
+
+2.2.4. Evaluation of the Capability of Second Molar Protraction
+
+The required mesialization distance and available mesialization distance of the second molar were measured based on 3D simulation. Bone defects were defined as the width differences between the second molar and alveolar bone in the edentulous region.
+
+3. Results
+
+3.1. Tipping of Mandibular Posterior Teeth
+
+In the mesio-distal dimension, posterior teeth in the missing group tended to tip toward the edentulous region compared with the control group. Mandibular second molars exhibited significant mesial tipping in the missing group compared to the control group (missing: 57.47 ± 10.34°, control: 82.75 ± 5.14°; P<0.001).
+
+In the bucco-lingual dimension, second molars had significantly more lingual tipping in the missing group when compared with those in the control group (missing: 71.75 ± 8.34°, control: 73.23 ± 7.60°; P<0.05).
+
+3.2. The Extrusion of Maxillary First Molars
+
+The overeruption of first molars was only found in the missing group (mesial cusp: 1.37 ± 0.83 mm, distal cusp: 0.85 ± 0.70 mm). A significant difference was observed between the mesial cusp and distal cusp (P<0.01).
+
+3.3. Alveolar Bone Loss in Missing Tooth Region
+
+The vertical alveolar bone height on the buccal, middle, and lingual sides decreased in the missing group. No significant differences were observed among these three sides (P=0.64). Mean losses: buccal 1.42 ± 0.70 mm, middle 1.31 ± 0.68 mm, lingual 1.46 ± 0.85 mm.
+
+The horizontal alveolar bone width decreased at the CEJ, mid-root, and apex levels (CEJ > mid-root > apex). Bone resorption on the buccal side was greater than that on the lingual side.
+
+3.4. Evaluation of the Capability of Second Molar Protraction
+
+Buccal bone defects were larger than those on the lingual side at all three vertical levels. Bone defects at the CEJ level were the largest while bone defects at the apex level were the smallest (buccal defect at CEJ level: 3.15 ± 0.87 mm; lingual defect at apex level: 0.01 ± 0.04 mm).
+
+The available distances of second molar mesialization were smaller than the required distance at all three vertical levels. Significant differences were observed between the available mesialization distance and the required mesialization distance at CEJ (P<0.001), middle (P<0.001), and apex levels (P<0.05).
+
+3.5. Evaluation of the Correlation of Parameters and the Duration of Tooth Loss
+
+The duration of tooth loss was correlated strongly with the mesio-distal angulation (R=−0.726; P<0.001). Additionally, the results of correlation analysis demonstrated that the duration of tooth loss was correlated with buccal-lingual angulation (R=−0.528; P<0.001) and the extrusion of the first molar (R=−0.334; P<0.05).
+
+4. Discussion
+
+Mandibular second molars exhibited mesial tipping in the missing group with an average mesio-distal inclination of 57.47 ± 10.34°. This indicates that the second molar tends to mesially tip towards the edentulous space. The tendency of lingual tipping of second molars was also observed. The duration of tooth loss was correlated with the mesio-distal angulation, buccal-lingual angulation, and the extrusion of the maxillary first molar. This indicates that greater mesial and lingual tipping of mandibular second molars may occur in patients with longer durations of mandibular first molar loss, justifying a timely treatment for the loss of mandibular first molars.
+
+Our study found that alveolar bone resorption was significantly greater on the buccal side than that on the lingual side. This is probably due to the greater cortical bone thickness on the lingual side compared to that on the buccal side.
+
+According to the extrusion of the maxillary first molar, the maxillary first molar over-erupted in the missing group. This was mainly caused by no opposing tooth for the maxillary first molar in the edentulous space of the mandible. Without occlusal contact, unopposed maxillary first molars over-erupted, which was consistent with previous findings. Christou et al. and Craddock et al. suggested that there was vertical displacement of unopposed molars. Therefore, intrusion of maxillary first molars is needed.
+
+5. Conclusions
+
+- Mesial and lingual tipping of mandibular second molars and extrusion of maxillary first molars may occur among patients with missing mandibular first molars.
+- Alveolar bone resorption is exhibited in both the vertical and horizontal dimensions following the loss of mandibular first molars.
+- Alveolar bone resorption is greater on the buccal side than on the lingual side.
+- The quantity of the buccal bone at the CEJ level is the limiting factor in determining the capability of second molar protraction, and alveolar bone augmentation may be indicated for molar protraction.
+- Molar uprighting and lingual root torque of mandibular second molars and intrusion of maxillary first molars are recommended for the protraction of mandibular second molars.
