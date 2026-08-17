@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ko" data-theme="">
+<html lang="ko">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -30,44 +30,6 @@
   --radius-sm: 6px;
   --sh:  0 1px 4px rgba(14,32,22,.07), 0 0 0 1px rgba(14,32,22,.05);
   --sh2: 0 2px 12px rgba(27,104,72,.14), 0 0 0 2px var(--accent);
-}
-
-/* ── Dark tokens (media query, not overridden by data-theme="light") ── */
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) {
-    --bg:           #0E1A12;
-    --surface:      #162218;
-    --surface-2:    #1D2E20;
-    --ink:          #D5EDD9;
-    --ink-2:        #96BAAA;
-    --ink-3:        #578A70;
-    --border:       #2A4535;
-    --border-2:     #38584A;
-    --accent:       #3CB878;
-    --accent-light: #112A1E;
-    --accent-mid:   #3CB878;
-    --ok:    #3CB878; --ok-bg:    #0D2A1C; --ok-bd:    #3CB878;
-    --warn:  #D4A040; --warn-bg:  #261C08; --warn-bd:  #D4A040;
-    --info:  #6090D8; --info-bg:  #0D1C30; --info-bd:  #6090D8;
-    --danger:#E06858; --danger-bg:#2A1010; --danger-bd:#E06858;
-  }
-}
-:root[data-theme="dark"] {
-  --bg:           #0E1A12;
-  --surface:      #162218;
-  --surface-2:    #1D2E20;
-  --ink:          #D5EDD9;
-  --ink-2:        #96BAAA;
-  --ink-3:        #578A70;
-  --border:       #2A4535;
-  --border-2:     #38584A;
-  --accent:       #3CB878;
-  --accent-light: #112A1E;
-  --accent-mid:   #3CB878;
-  --ok:    #3CB878; --ok-bg:    #0D2A1C; --ok-bd:    #3CB878;
-  --warn:  #D4A040; --warn-bg:  #261C08; --warn-bd:  #D4A040;
-  --info:  #6090D8; --info-bg:  #0D1C30; --info-bd:  #6090D8;
-  --danger:#E06858; --danger-bg:#2A1010; --danger-bd:#E06858;
 }
 
 body {
@@ -116,19 +78,6 @@ h1 {
   color: var(--ink-3);
   margin-top: 5px;
 }
-.theme-toggle {
-  flex-shrink: 0;
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: var(--radius-sm);
-  padding: 6px 10px;
-  cursor: pointer;
-  font-size: 16px;
-  color: var(--ink-3);
-  line-height: 1;
-  transition: background .15s;
-}
-.theme-toggle:hover { background: var(--surface-2); }
 
 /* ── Progress ────────────────────────────────────────── */
 .prog-wrap {
@@ -374,7 +323,6 @@ table.evid td:first-child {
       <h1>소켓쉴드 vs 일반 즉시식립<br>케이스 선택기</h1>
       <div class="hdr-sub">Durrani 2025 · Lu 2025 · Ji 2025 근거 기반</div>
     </div>
-    <button class="theme-toggle" id="themeBtn" title="테마 전환" aria-label="테마 전환">🌙</button>
   </div>
 
   <!-- Progress -->
@@ -669,15 +617,6 @@ function reset() {
   document.getElementById('progWrap').classList.remove('hidden');
   render();
 }
-
-/* ── Theme toggle ──────────────────────────────────────────── */
-const root = document.documentElement;
-let dark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-document.getElementById('themeBtn').addEventListener('click', () => {
-  dark = !dark;
-  root.setAttribute('data-theme', dark ? 'dark' : 'light');
-  document.getElementById('themeBtn').textContent = dark ? '☀️' : '🌙';
-});
 
 /* ── Init ──────────────────────────────────────────────────── */
 render();
