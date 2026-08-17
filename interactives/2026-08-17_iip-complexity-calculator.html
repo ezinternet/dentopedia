@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ko" data-theme="">
+<html lang="ko">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -29,41 +29,6 @@
   --radius: 10px;
   --radius-sm: 6px;
   --sh: 0 1px 4px rgba(20,24,40,.07), 0 0 0 1px rgba(20,24,40,.05);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) {
-    --bg:         #12131A;
-    --surface:    #1A1E2B;
-    --surface-2:  #232840;
-    --ink:        #D8DCEA;
-    --ink-2:      #8898B8;
-    --ink-3:      #5060A0;
-    --border:     #2A3050;
-    --border-2:   #38405A;
-    --accent:     #6090D8;
-    --accent-light:#0D1C38;
-    --accent-mid: #6090D8;
-    --low:  #3CB878; --low-bg:  #0C2A18; --low-bd:  #3CB878;
-    --mod:  #D4A040; --mod-bg:  #261C08; --mod-bd:  #D4A040;
-    --high: #E06858; --high-bg: #2A1010; --high-bd: #E06858;
-  }
-}
-:root[data-theme="dark"] {
-  --bg:         #12131A;
-  --surface:    #1A1E2B;
-  --surface-2:  #232840;
-  --ink:        #D8DCEA;
-  --ink-2:      #8898B8;
-  --ink-3:      #5060A0;
-  --border:     #2A3050;
-  --border-2:   #38405A;
-  --accent:     #6090D8;
-  --accent-light:#0D1C38;
-  --accent-mid: #6090D8;
-  --low:  #3CB878; --low-bg:  #0C2A18; --low-bd:  #3CB878;
-  --mod:  #D4A040; --mod-bg:  #261C08; --mod-bd:  #D4A040;
-  --high: #E06858; --high-bg: #2A1010; --high-bd: #E06858;
 }
 
 body {
@@ -113,19 +78,6 @@ h1 {
   color: var(--ink-3);
   margin-top: 5px;
 }
-.theme-toggle {
-  flex-shrink: 0;
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: var(--radius-sm);
-  padding: 6px 10px;
-  cursor: pointer;
-  font-size: 16px;
-  line-height: 1;
-  color: var(--ink-3);
-  transition: background .15s;
-}
-.theme-toggle:hover { background: var(--surface-2); }
 
 /* ── Axis section ────────────────────────────────────── */
 .sections {
@@ -430,7 +382,6 @@ table.mat {
       <h1>즉시식립 케이스<br>난이도 분류기</h1>
       <div class="hdr-sub">Liu 2025 (Retrospective · N=53 · 15년) 외과적×보철적 2축 분류</div>
     </div>
-    <button class="theme-toggle" id="themeBtn" title="테마 전환" aria-label="테마 전환">🌙</button>
   </div>
 
   <!-- Two-axis form -->
@@ -819,15 +770,6 @@ function resetAll() {
   });
   update();
 }
-
-/* ── Theme toggle ──────────────────────────────────────────── */
-const root = document.documentElement;
-let dark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-document.getElementById('themeBtn').addEventListener('click', () => {
-  dark = !dark;
-  root.setAttribute('data-theme', dark ? 'dark' : 'light');
-  document.getElementById('themeBtn').textContent = dark ? '☀️' : '🌙';
-});
 
 /* ── Init ──────────────────────────────────────────────────── */
 update();
