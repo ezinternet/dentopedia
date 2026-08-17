@@ -101,6 +101,8 @@ Adams 2022(BDJ, narrative review + 2 증례)는 수정주의적 균형추다. 5~
 - [[bone-regeneration/ridge-preservation/arroteia-2025-alveolar-ridge-preservation-posterior-rct]] — 후방부 RCT, 수평 소실 불가피 (축 3)
 - [[bone-regeneration/ridge-preservation/avila-ortiz-2019-alveolar-ridge-preservation-interventions]] — 9 modality SR+MA, 단일 우월 없음 (축 3)
 - [[bone-regeneration/ridge-preservation/adams-2022-clinical-evidence-alveolar-ridge-preservation]] — 통계적 보존 ≠ 환자 이득 (축 4)
+- [[bone-regeneration/ridge-preservation/benekou-2025-histological-arp-vs-spontaneous-healing-sr-ma]] — SR+MA 22 RCT 조직형태학: 전체 NS; PRF/PRP +16.28%; 이종골+막 −22.47% (재료 선택이 결정 변수)
+- [[bone-regeneration/ridge-preservation/friedmann-2026-arp-crosslinked-xenograft-open-healing-case-series]] — SCLC/HA 개방치유(막 없음): 72% 추가증대 불필요; 완전개조; 잔여 이종골 없음 (Benekou 20.49% 풀과 대조)
 
 ## Related overviews
 - (신설 후보) immediate-implant vs ARP 의사결정 분기
