@@ -3156,17 +3156,20 @@ tags: []
 - [[immediate-implant/esthetic-soft-tissue/fettouh-2024-soft-tissue-volume-midfacial-gingival-immediate-implant]] — Fettouh 2024 · rct (39부위): 즉시식립+CTG가 중안면 퇴축 최소(−0.74mm)·부피손실 5배 감소; 치유지대주 단독은 윤곽유지 실패(−1.54mm)
 - [[immediate-implant/esthetic-soft-tissue/de-angelis-2021-immediate-implant-provisionalization-soft-tissue-retrospective]] — De Angelis 2021 · retrospective (48례): SCTG·이종 콜라겐 기질(XCM) 동등, 무이식군이 협측 두께·변연 손실 큼 — XCM이 SCTG 대안
 - [[immediate-implant/esthetic-soft-tissue/donker-2025-immediate-implant-provisionalization-digital-workflow-prospective]] — Donker 2025 · prospective (30pt): 완전 디지털 워크플로우 즉시식립·즉시 임시수복, 생존 90%·PES+WES 15.4/20·만족도 9.2/10
+- [[immediate-implant/esthetic-soft-tissue/lambert-2025-soft-tissue-augmentation-immediate-implant-sr]] — Lambert 2025 · sr (16편·11 독립연구): 즉시식립 시 CTG가 중안면 퇴축 0.38mm 유의 감소, 전체 PES·PROMs에는 유의한 차이 없음 — 심미 결과의 주 결정인자는 즉시 해부형 임시보철
 
 #### immediate-implant — socket shield / partial extraction therapy
 - [[immediate-implant/socket-shield/neves-2023-socket-shield-stress-distribution-fea]] — Neves 2023 · in-vitro (FEA): 소켓쉴드·이종골이식 모두 대조군보다 주위골 응력 높음, 소켓쉴드가 응력집중 최대
 - [[immediate-implant/socket-shield/fang-2025-socket-shield-ai-bibliometric-analysis]] — Fang 2025 · narrative-review (157편 계량서지): 소켓쉴드 연구 2015년 이후 증가, 미국 출판 최다·독일 피인용 최고
 - [[immediate-implant/socket-shield/ahamed-2022-partial-extraction-therapy-implant-placement]] — Ahamed 2022 · narrative-review: 부분발치술(소켓쉴드·폰틱쉴드·치근매몰) 개념·술식 정리, 표준 쉴드 디자인 프로토콜 부재 지적
 - [[immediate-implant/socket-shield/verma-2022-socket-shielding-esthetic-region-review]] — Verma 2022 · narrative-review: 소켓쉴드는 심미부 협측골·윤곽 보존의 최소침습·골이식 선택적 옵션, 근거 제한적
+- [[immediate-implant/socket-shield/durrani-2025-socket-shield-conventional-maxillary-rct]] — Durrani 2025 · rct (n=24, 36개월): SST가 일반 IIP 대비 MBL 유의 감소(1.40 vs 1.70mm, p=0.040), PES 유의 우수(10.50 vs 9.36, p=0.008); 양군 100% 생존
 
 #### immediate-implant — placement timing / decision
 - [[immediate-implant/tonetti-2017-immediate-vs-delayed-implant-timing-rct]] — Tonetti 2017 · rct (124pt): 즉시식립이 지연 대비 골증대(72% vs 43.9%)·창상실패(26.1% vs 5.3%)·부적절 심미(42% vs 19%) 많아, 심미 중요 시 비권장
 - [[immediate-implant/bassir-2019-early-implant-placement-protocols-sr-ma]] — Bassir 2019 · sr+ma (12편): 조기식립은 즉시·지연과 실패율 동등하나, 신선와 즉시식립보다 변연골소실 적음(WMD −0.14mm)
 - [[immediate-implant/bineviciute-2024-attitudes-surgeons-immediate-implant-survey]] — Bineviciute 2024 · cross-sectional (186명 설문): 즉시식립 주 금기는 치근단병소 >5mm(91.7/96.9%), 소켓 형태 분류체계 사용 ~34–43% 불과
+- [[immediate-implant/liu-2025-iip-iipp-classification-surgical-restorative]] — Liu 2025 · retrospective (n=44, 53 임플란트, 15년): 외과적×보철적 난이도 2축 IIP/IIPP 분류체계 — 고난이도군 생존율 80%, 합병증률 33.3%; MBL·퇴축·PES 모두 난이도와 유의한 상관
 
 #### implants — loading protocol / full-arch / tilted
 - [[implants/loading-protocol/benic-2014-loading-protocols-single-implant-crowns-sr-ma]] — Benic 2014 · sr+ma (11 RCT): 단관 즉시 vs 통상 로딩 생존·MBL 5년까지 동등 — 토크 ≥20–45 Ncm 또는 ISQ ≥60–65·동시증대 불필요 조건
