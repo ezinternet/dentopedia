@@ -1,0 +1,62 @@
+---
+title: "Esthetic and patient-reported outcomes in immediate implants with adjunctive surgical procedures to increase soft tissue thickness/height: A systematic review"
+authors: "Lambert F, Montero E, Laleman I, Carrillo de Albornoz CA, Yousfi H, Sanz-Sánchez I"
+year: 2025
+doi: "10.1111/prd.70003"
+category: immediate-implant/esthetic-soft-tissue
+pdf_path:
+pdf_filename:
+source_collection: external
+---
+
+## Why Ingested
+기존 [[immediate-implant/esthetic-soft-tissue/de-angelis-2021-soft-tissue-augmentation-immediate-implant-sr-ma]] 이후 가장 종합적인 STA+IIP 근거 업데이트 — PROMs를 1차 결과로 포함한 최초 SR. 즉시식립 시 결합조직이식(Connective Tissue Graft, CTG) 효과를 임상가 평가와 환자 보고 결과 양 축으로 동시 평가.
+
+## One-line Summary
+SR of 16 publications (11 independent RCT/CCT): CTG during IIP significantly reduces mid-facial recession (WMD 0.38 mm) but confers no significant benefit on overall Pink Esthetic Score or patient-reported esthetic outcomes.
+
+## 한줄요약
+즉시식립 시 연조직이식(CTG/ADM)은 중안면 퇴축을 평균 0.38 mm 유의하게 줄이지만, 전체 심미점수(PES)와 환자 보고 결과에는 유의한 차이 없음 — 16편 SR.
+
+## 1. Document Information
+- **Journal**: Periodontology 2000, Volume 99, Issue 1, Pages 61–80
+- **Published**: August 2025
+- **Registration**: PROSPERO
+- **Funding**: Not specified
+- **Conflicts of interest**: Not reported
+
+## 2. Key Contributions
+- First SR to include PROMs as primary outcome alongside clinician-assessed esthetics for STA during IIP
+- CTG significantly reduces mid-facial soft tissue recession (WMD 0.38 mm, 95% CI 0.15–0.61; 4 RCTs, 149 implants, 12-month follow-up)
+- No significant difference between CTG/ADM and control for Pink Esthetic Score at any follow-up
+- Immediate provisioning with anatomical provisional crowns appears to be the key driver of positive esthetic outcomes, not STA per se
+- High overall esthetic satisfaction in both grafted and non-grafted groups when favorable site selection criteria are met
+
+## 3. Methodology and Architecture
+- **Design**: Systematic review (PRISMA); registered PROSPERO
+- **Search**: PubMed, Cochrane Library, Embase (until March 2024) + citation search
+- **Inclusion**: RCT or CCT, ≥12 months follow-up, single tooth IIP premolar-to-premolar, ≥10 implants per arm at 12 months; comparator = IIP without STA or IIP with different STA technique
+- **16 publications** representing **11 independent investigations** (some studies reported at multiple time points)
+- **Primary outcomes**: Clinician-assessed esthetics (PES, ICAI), mid-facial soft tissue recession; PROMs
+- **Secondary outcomes**: Post-operative morbidity, soft tissue stability, interproximal bone changes, keratinized tissue gain, ridge contour
+- **Meta-analyses**: Performed for mid-facial recession (n=4 RCTs), PES (multiple time points), and keratinized tissue
+
+## 4. Key Results and Benchmarks
+- **Mid-facial recession**: CTG reduces recession WMD = 0.38 mm (95% CI 0.15–0.61); n=4 RCTs, 149 implants, 12mo — statistically and clinically significant
+- **Pink Esthetic Score**: No significant difference between STA and non-STA groups at short or long-term follow-up
+- **PROMs**: No significant difference between grafted vs non-grafted for patient-reported esthetic satisfaction
+- **Keratinized tissue**: Modest increase with STA but not consistently reported
+- **Post-operative morbidity**: Grafting associated with more morbidity (expected donor site complications)
+- Risk of bias: Variable; most studies flapless immediate placement with immediate loading
+
+## 5. Limitations and Future Work
+- Limited number of studies per meta-analysis (4 RCTs for recession, fewer for other outcomes)
+- Heterogeneity in graft types (CTG, ADM), surgical techniques, and follow-up durations
+- Most studies employed flapless IIP with immediate provisioning — confounds the STA effect isolation
+- Individual PES items (texture, color, buccal convexity) rarely reported separately; composite score may mask CTG-specific effects on buccal profile
+- No long-term data (>36 months) on recession stability or bone changes
+
+## 6. Related Work
+- de Angelis 2021 (SR+MA): Previous most comprehensive STA+IIP review — this SR extends with PROMs focus
+- Aldhohrah 2022: STA in immediate vs delayed — different protocol scope
+- Azadi 2025: Bayesian NMA on soft tissue grafting — quantitative complement
