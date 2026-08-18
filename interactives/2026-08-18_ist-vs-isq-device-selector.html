@@ -1,0 +1,315 @@
+<!--
+---
+title: "IST vs ISQ 측정기기 선택기"
+type: interactive
+date: 2026-08-18
+status: done
+category: implant-stability
+source_wiki:
+  - wiki/implants/isq/kim-2026-ist-versus-isq-reliability-inter-examiner.md
+  - wiki/implants/isq/bavetta-2024-isq-osstell-osseo-device-comparison.md
+  - wiki/implants/isq/parmar-2024-dependability-osstell-isq-measuring.md
+notes: |
+  Kim & Kahm 2026 근거: IST(Anycheck) vs ISQ(Osstell) 모두 ICC>0.90, r>0.85.
+  SmartPeg 불필요·간편 프로토콜이 IST의 실용 장점.
+  두 기기 모두 골질(hard/normal/soft) 무관하게 동등 신뢰도.
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>IST vs ISQ 측정기기 선택기</title>
+<style>
+:root {
+  --bg: #F1F5F9;
+  --surface: #FFFFFF;
+  --surface-2: #F8FAFC;
+  --border: #E2E8F0;
+  --border-strong: #CBD5E1;
+  --text-1: #0F172A;
+  --text-2: #475569;
+  --text-3: #94A3B8;
+  --blue: #1D4ED8;
+  --blue-light: #EFF6FF;
+  --blue-mid: #3B82F6;
+  --green: #15803D;
+  --green-light: #F0FDF4;
+  --green-mid: #22C55E;
+  --amber: #B45309;
+  --amber-light: #FFFBEB;
+  --amber-mid: #F59E0B;
+  --radius: 14px;
+  --radius-sm: 9px;
+}
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  background: var(--bg);
+  color: var(--text-1);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+  font-size: 15px;
+  line-height: 1.55;
+  padding: 1.75rem 1.25rem 3rem;
+  -webkit-font-smoothing: antialiased;
+}
+.wrap { max-width: 640px; margin: 0 auto; display: flex; flex-direction: column; gap: 1rem; }
+
+/* Header */
+.hdr { padding: 0.25rem 0 0.5rem; }
+.eyebrow { font-size: 0.65rem; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: var(--blue-mid); margin-bottom: 0.35rem; }
+.hdr h1 { font-size: 1.3rem; font-weight: 800; letter-spacing: -0.025em; line-height: 1.2; }
+.hdr-sub { font-size: 0.72rem; color: var(--text-3); margin-top: 0.35rem; }
+
+/* Card */
+.card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 1.25rem 1.5rem; }
+.card-label { font-size: 0.62rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text-3); margin-bottom: 0.85rem; }
+
+/* Checklist items */
+.check-list { display: flex; flex-direction: column; gap: 0.55rem; }
+.check-item { display: flex; align-items: flex-start; gap: 0.75rem; padding: 0.7rem 0.9rem; border: 1.5px solid var(--border); border-radius: var(--radius-sm); cursor: pointer; transition: border-color 0.15s, background 0.15s; user-select: none; }
+.check-item:hover { border-color: var(--border-strong); background: var(--surface-2); }
+.check-item.on { border-color: var(--blue); background: var(--blue-light); }
+.check-box { width: 18px; height: 18px; min-width: 18px; border-radius: 5px; border: 1.5px solid var(--border-strong); background: var(--surface); display: flex; align-items: center; justify-content: center; margin-top: 1px; transition: all 0.15s; }
+.check-item.on .check-box { background: var(--blue); border-color: var(--blue); }
+.check-box svg { display: none; }
+.check-item.on .check-box svg { display: block; }
+.check-text { flex: 1; }
+.check-name { font-size: 0.88rem; font-weight: 600; color: var(--text-1); }
+.check-item.on .check-name { color: var(--blue); }
+.check-desc { font-size: 0.73rem; color: var(--text-2); margin-top: 0.1rem; }
+
+/* Score bar */
+.score-section { margin-top: 0.5rem; }
+.score-row { display: grid; grid-template-columns: 1fr 1fr; gap: 0.75rem; }
+.score-card { border: 1.5px solid var(--border); border-radius: var(--radius-sm); padding: 0.9rem 1rem; transition: border-color 0.35s, background 0.35s; }
+.score-card.winner { border-color: var(--green-mid); background: var(--green-light); }
+.score-device { font-size: 0.65rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text-3); margin-bottom: 0.15rem; }
+.score-card.winner .score-device { color: var(--green); }
+.score-name { font-size: 1rem; font-weight: 800; color: var(--text-1); }
+.score-card.winner .score-name { color: var(--green); }
+.score-pts { font-size: 1.85rem; font-weight: 900; font-variant-numeric: tabular-nums; color: var(--text-1); line-height: 1; margin: 0.3rem 0; }
+.score-card.winner .score-pts { color: var(--green); }
+.score-pts-label { font-size: 0.68rem; color: var(--text-3); }
+.score-bar-wrap { margin-top: 0.6rem; background: var(--border); border-radius: 3px; height: 5px; overflow: hidden; }
+.score-bar { height: 100%; border-radius: 3px; background: var(--text-3); transition: width 0.5s cubic-bezier(0.34,1.56,0.64,1), background 0.35s; }
+.score-card.winner .score-bar { background: var(--green-mid); }
+
+/* Verdict */
+.verdict { border-radius: var(--radius); padding: 1.1rem 1.25rem; background: var(--surface-2); border: 1.5px solid var(--border); transition: background 0.35s, border-color 0.35s; }
+.verdict.v-ist { background: var(--green-light); border-color: var(--green-mid); }
+.verdict.v-isq { background: var(--blue-light); border-color: var(--blue-mid); }
+.verdict.v-tie { background: var(--amber-light); border-color: var(--amber-mid); }
+.v-badge { display: inline-block; font-size: 0.62rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; padding: 0.2rem 0.6rem; border-radius: 99px; margin-bottom: 0.5rem; background: var(--border); color: var(--text-2); transition: background 0.35s, color 0.35s; }
+.verdict.v-ist .v-badge { background: var(--green-mid); color: #fff; }
+.verdict.v-isq .v-badge { background: var(--blue-mid); color: #fff; }
+.verdict.v-tie .v-badge { background: var(--amber-mid); color: #fff; }
+.v-title { font-size: 1.1rem; font-weight: 800; margin-bottom: 0.45rem; color: var(--text-1); }
+.v-reasons { list-style: none; display: flex; flex-direction: column; gap: 0.3rem; }
+.v-reasons li { font-size: 0.82rem; color: var(--text-2); padding-left: 1.1rem; position: relative; }
+.v-reasons li::before { content: '→'; position: absolute; left: 0; color: var(--text-3); font-size: 0.8rem; }
+
+/* Divider */
+.divider { border: none; border-top: 1px solid var(--border); }
+
+/* Evidence note */
+.evidence { font-size: 0.72rem; color: var(--text-3); border-left: 3px solid var(--border); padding: 0.5rem 0.75rem; background: var(--surface-2); border-radius: 0 var(--radius-sm) var(--radius-sm) 0; }
+.evidence strong { color: var(--text-2); }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <div class="hdr">
+    <div class="eyebrow">측정기기 선택기 · Kim &amp; Kahm 2026</div>
+    <h1>IST vs ISQ<br>어느 기기를 쓸까?</h1>
+    <div class="hdr-sub">Anycheck IST (Neobiotech) vs Osstell ISQ · 해당 항목 체크 → 추천 기기 자동 산출</div>
+  </div>
+
+  <!-- IST 선호 조건 -->
+  <div class="card">
+    <div class="card-label">IST 유리 조건 체크</div>
+    <div class="check-list" id="istList">
+      <div class="check-item" onclick="toggle(this,'ist')" data-key="no_smartpeg">
+        <div class="check-box"><svg width="10" height="8" viewBox="0 0 10 8" fill="none"><path d="M1 4L4 7L9 1" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+        <div class="check-text">
+          <div class="check-name">SmartPeg 재고 없음 / 비용 부담</div>
+          <div class="check-desc">IST는 SmartPeg 불필요 — 소모품 비용 절감, 재고 관리 불필요</div>
+        </div>
+      </div>
+      <div class="check-item" onclick="toggle(this,'ist')" data-key="routine">
+        <div class="check-box"><svg width="10" height="8" viewBox="0 0 10 8" fill="none"><path d="M1 4L4 7L9 1" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+        <div class="check-text">
+          <div class="check-name">빠른 일상 진료 측정</div>
+          <div class="check-desc">SmartPeg 장착·탈착 없이 간편 측정 — 진료 흐름 방해 최소</div>
+        </div>
+      </div>
+      <div class="check-item" onclick="toggle(this,'ist')" data-key="novice">
+        <div class="check-box"><svg width="10" height="8" viewBox="0 0 10 8" fill="none"><path d="M1 4L4 7L9 1" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+        <div class="check-text">
+          <div class="check-name">숙련도 낮은 검사자(치위생사 위임)</div>
+          <div class="check-desc">Kim 2026: 경험 수준 무관하게 ICC>0.90 — 위임 가능</div>
+        </div>
+      </div>
+      <div class="check-item" onclick="toggle(this,'ist')" data-key="soft_bone">
+        <div class="check-box"><svg width="10" height="8" viewBox="0 0 10 8" fill="none"><path d="M1 4L4 7L9 1" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+        <div class="check-text">
+          <div class="check-name">연조 골질(D3/D4)에서 반복 측정 필요</div>
+          <div class="check-desc">IST r>0.85 유지 — 골질 불문 신뢰도 보장</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ISQ 선호 조건 -->
+  <div class="card">
+    <div class="card-label">ISQ 유리 조건 체크</div>
+    <div class="check-list" id="isqList">
+      <div class="check-item" onclick="toggle(this,'isq')" data-key="research">
+        <div class="check-box"><svg width="10" height="8" viewBox="0 0 10 8" fill="none"><path d="M1 4L4 7L9 1" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+        <div class="check-text">
+          <div class="check-name">연구 / 학술 기록 / 케이스 문서화</div>
+          <div class="check-desc">ISQ는 수십 년간 표준 단위 — 타 기관·논문 비교 기준선</div>
+        </div>
+      </div>
+      <div class="check-item" onclick="toggle(this,'isq')" data-key="threshold">
+        <div class="check-box"><svg width="10" height="8" viewBox="0 0 10 8" fill="none"><path d="M1 4L4 7L9 1" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+        <div class="check-text">
+          <div class="check-name">ISQ 임계값 기반 로딩 결정 프로토콜</div>
+          <div class="check-desc">즉시/조기 로딩 프로토콜은 ISQ 수치 기준(≥65–70) 사용</div>
+        </div>
+      </div>
+      <div class="check-item" onclick="toggle(this,'isq')" data-key="longterm">
+        <div class="check-box"><svg width="10" height="8" viewBox="0 0 10 8" fill="none"><path d="M1 4L4 7L9 1" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+        <div class="check-text">
+          <div class="check-name">장기 안정성 추적 (ISQ 궤적 모니터링)</div>
+          <div class="check-desc">시계열 ISQ 변화(T0→T4→T12 등) 추적에 표준 단위 필요</div>
+        </div>
+      </div>
+      <div class="check-item" onclick="toggle(this,'isq')" data-key="brand">
+        <div class="check-box"><svg width="10" height="8" viewBox="0 0 10 8" fill="none"><path d="M1 4L4 7L9 1" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+        <div class="check-text">
+          <div class="check-name">Osstell 기기 보유 / SmartPeg 재고 있음</div>
+          <div class="check-desc">기존 투자 있으면 ISQ 유지가 합리적</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Score & Verdict -->
+  <div class="score-section">
+    <div class="score-row">
+      <div class="score-card" id="istCard">
+        <div class="score-device">선택 점수</div>
+        <div class="score-name">IST (Anycheck)</div>
+        <div class="score-pts" id="istScore">0</div>
+        <div class="score-pts-label">항목 선택</div>
+        <div class="score-bar-wrap"><div class="score-bar" id="istBar" style="width:0%"></div></div>
+      </div>
+      <div class="score-card" id="isqCard">
+        <div class="score-device">선택 점수</div>
+        <div class="score-name">ISQ (Osstell)</div>
+        <div class="score-pts" id="isqScore">0</div>
+        <div class="score-pts-label">항목 선택</div>
+        <div class="score-bar-wrap"><div class="score-bar" id="isqBar" style="width:0%"></div></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="verdict" id="verdict">
+    <div class="v-badge" id="vBadge">항목 선택 대기</div>
+    <div class="v-title" id="vTitle">조건을 체크하면 추천이 나타납니다</div>
+    <ul class="v-reasons" id="vReasons"></ul>
+  </div>
+
+  <hr class="divider">
+
+  <div class="evidence">
+    <strong>근거 (Kim &amp; Kahm 2026, Bioengineering 13:86)</strong><br>
+    통제 실험실 연구 · 치위생사 7명 × 3종 골질 모형. IST와 ISQ 모두 ICC&gt;0.90, 기기 간 상관 r&gt;0.85. 경험 수준 무관. 임상 신뢰도 동등 — 선택 기준은 <em>편의성·비용·프로토콜 호환성</em>.
+  </div>
+
+</div>
+
+<script>
+const istCounts = {no_smartpeg:0,routine:0,novice:0,soft_bone:0};
+const isqCounts = {research:0,threshold:0,longterm:0,brand:0};
+
+const IST_REASONS = {
+  no_smartpeg: 'SmartPeg 소모품 불필요 → 비용·재고 절감',
+  routine: '장착 절차 없어 진료 흐름 최소 방해',
+  novice: 'ICC>0.90 유지 — 경험 무관하게 신뢰 가능',
+  soft_bone: '연조 골질에서도 r>0.85 신뢰도 보장'
+};
+const ISQ_REASONS = {
+  research: 'ISQ = 수십 년 축적된 문헌 비교 기준 단위',
+  threshold: '즉시/조기 로딩 프로토콜 ISQ 수치 기준 직결',
+  longterm: '시계열 ISQ 궤적 추적에 단일 단위 필요',
+  brand: '기존 Osstell 보유 시 자원 재활용'
+};
+
+function toggle(el, side) {
+  el.classList.toggle('on');
+  const key = el.dataset.key;
+  if (side === 'ist') istCounts[key] = el.classList.contains('on') ? 1 : 0;
+  else isqCounts[key] = el.classList.contains('on') ? 1 : 0;
+  render();
+}
+
+function render() {
+  const ist = Object.values(istCounts).reduce((a,b)=>a+b,0);
+  const isq = Object.values(isqCounts).reduce((a,b)=>a+b,0);
+  const total = Math.max(ist + isq, 1);
+
+  document.getElementById('istScore').textContent = ist;
+  document.getElementById('isqScore').textContent = isq;
+  document.getElementById('istBar').style.width = (ist/Math.max(ist,isq,1)*100)+'%';
+  document.getElementById('isqBar').style.width = (isq/Math.max(ist,isq,1)*100)+'%';
+
+  const istCard = document.getElementById('istCard');
+  const isqCard = document.getElementById('isqCard');
+  const verdict = document.getElementById('verdict');
+  const badge = document.getElementById('vBadge');
+  const title = document.getElementById('vTitle');
+  const reasons = document.getElementById('vReasons');
+
+  istCard.classList.remove('winner');
+  isqCard.classList.remove('winner');
+  verdict.className = 'verdict';
+
+  let html = '';
+  if (ist + isq === 0) {
+    badge.textContent = '항목 선택 대기';
+    title.textContent = '조건을 체크하면 추천이 나타납니다';
+    reasons.innerHTML = '';
+    return;
+  }
+
+  if (ist > isq) {
+    istCard.classList.add('winner');
+    verdict.classList.add('v-ist');
+    badge.textContent = '추천 · IST (Anycheck)';
+    title.textContent = 'IST가 이 상황에 더 적합합니다';
+    Object.keys(istCounts).filter(k=>istCounts[k]).forEach(k=>{
+      html += `<li>${IST_REASONS[k]}</li>`;
+    });
+  } else if (isq > ist) {
+    isqCard.classList.add('winner');
+    verdict.classList.add('v-isq');
+    badge.textContent = '추천 · ISQ (Osstell)';
+    title.textContent = 'ISQ가 이 상황에 더 적합합니다';
+    Object.keys(isqCounts).filter(k=>isqCounts[k]).forEach(k=>{
+      html += `<li>${ISQ_REASONS[k]}</li>`;
+    });
+  } else {
+    verdict.classList.add('v-tie');
+    badge.textContent = '동점 · 상황별 선택';
+    title.textContent = '두 기기 신뢰도 동등 — 비용·보유 여부로 결정';
+    html += '<li>임상 신뢰도(ICC>0.90)는 두 기기 모두 동일</li>';
+    html += '<li>SmartPeg 재고·비용 없으면 IST, 연구/기록 우선이면 ISQ</li>';
+  }
+  reasons.innerHTML = html;
+}
+</script>
+</body>
+</html>
