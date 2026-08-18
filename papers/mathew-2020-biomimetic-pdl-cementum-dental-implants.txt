@@ -1,0 +1,398 @@
+Title: Biomimetic Properties of Engineered Periodontal Ligament/Cementum in Dental Implants
+DOI: 10.4103/ccd.ccd_196_20
+PMCID: PMC8035849
+PMID: 33850394
+---
+Introduction
+
+Osseointegrated dental implants are the treatment of choice for rehabilitation of missing teeth availing a paradigm shift from conventional removable or fixed prosthetic options to tooth-root like fixture secured in the jaw bone.[] However, the absence of periodontal ligament (PDL) attachment around the implant hinders its biological function efficiency.[] PDL in natural tooth forms a fibrous connective tissue between the natural tooth root and surrounding bone.[] The periodontal tissue, which includes PDL, cementum, and alveolar bone, has an essential physiological role in cushioning high occlusal loads, orthodontic tooth movement in conjunction with bone remodeling and ability to perceive noxious stimuli.[] The ligament acts as a viscoelastic ” shock absorber” by diminishing the magnitude of the occlusal force and dissipating stress applied to the surrounding bone. The excessive occlusal load applied to a rigidly fixed dental implant, which lacks PDL, thus directly imposes stress on the bone interface presenting implant mobility, a clinical sign of failure.[] Dental implants are also known to be susceptible to infection owing to the absence of potential cellular defense mechanism of PDL.[] To compensate for the negative effects of occlusal overload, concept of implant protected occlusion was introduced, which incorporates certain clinical guidelines to establish an occlusal scheme and thus improve implant longevity.[] But this type of individualized occlusion needs to be re-evaluated and adjusted frequently. A controversy also exists whether the ” nonmobile” implant has the potential to bear the load of the prosthesis when splinted to a ” mobile” natural teeth. The osseointegrated dental implant limits its application in the growing jaw bone and in patients with severe bone defects.[] All these reported drawbacks necessitate the need for advances in dental implant structure that can simultaneously satisfy physiological and functional requisites. As a critical solution, apposite cell sources in adult tissue and pertinent bioengineering advancements need to be pooled to regenerate an artificial periodontium around the implant. The holy grail is to develop a biomimetic implant that can satisfy the bio-functional requirements of a natural tooth.
+
+The emerging field of regenerative dentistry aims to develop novel fibrous tooth implant connections using dental follicle stem cells, bioengineered PDL, transplanted PDL cell sheets derived from PDL-derived stem cells (PDLSCs) and biodegradable scaffolds.[]
+
+This scoping review provides an insight into available techniques and biomaterials used in potential periodontal tissue regeneration with emphasis on the most recent outcomes and future avenues.
+
+Methodology
+
+Information sources and search criteria
+
+The initial search performed could not find any Mesh terms or standardized vocabularies catering to our stated aims. Therefore, a group of keywords were manually generated from the previous relevant articles and their citations. These were submitted to an expert panel, which conducted a focus group and selected the terms used in the literature search for this review. Based on this, an electronic search of the literature in English-language published from 1989 to 2018 was undertaken on January 2, 2019, in MEDLINE via Ovid interface. The search strategy used is mentioned in. A manual unstructured search was also conducted to identify additional citations.
+
+Table 1
+
+Search strategy
+
+Bio hybrid implant.mp
+
+Bio-Implant.Mp
+
+Bio engineered periodontal ligament.mp
+
+Periosteum-derived cells.mp
+
+Periodontal ligament-derived stem cells.mp
+
+Dental follicle stem cell.mp
+
+Periodontal ligament derived dental progenitor cells.mp
+
+Dental mesenchymal stem cells.mp
+
+Periodontal ligament attached implant.mp
+
+Tissue Engineering
+
+Periodontal Ligament/or periodontal ligament.mp
+
+cementum.mp. or Dental Cementum/
+
+Cell sheet-engineering.mp
+
+Fibrous connected tooth implant.mp
+
+Fibrous connected tooth implant.mp
+
+Immortalized human periodontal cells.mp
+
+Human cementifying fibroma cells.mp
+
+Biodegradable scaffolds.mp
+
+Periodontal tissue regeneration.mp
+
+Osseoperception.mp
+
+1 or 2 or 3 or 4 or 5 or 6 or 7 or 8 or 9 or 13 or 14 or 15 or 16 or 17 or 18 or 19 or 20
+
+10 and 11
+
+10 and 12
+
+21 or 22 or 23
+
+Study eligibility criteria
+
+Studies for this were included if they were published in English and satisfied all of the following criteria:
+
+Reported development of either artificial PDL or artificial cementum
+
+studies dealing with transplantation of the artificial PDL into the bone
+
+Used titanium dental implants or implant surfaces
+
+Described the microscopic structure of newly formed PDL or functional evaluation or response to noxious stimuli.
+
+We excludedstudies, hypothetical studies, commentaries, and systematic reviews after including relevant primary articles from the reviews. Studies which discussed periodontal defect regeneration and bone regeneration were excluded. Studies using extra oral craniofacial implants and bone implants were also excluded.
+
+Study selection
+
+Citations retrieved in the database searches were screened in duplicate by two blinded reviewers. In the initial stage, title and abstract screening were performed, followed by full-text screening in the next phase. Disagreements and conflicts during all the screening stages were resolved by a third adjudicator. Screening of eligible studies, verification of their potential relevance, and full-text reading were conducted independently by AM and ASB.
+
+Data extraction
+
+Data extraction was performed in duplicate by the two reviewers, and the third reviewer resolved the conflict. Extracted data included author, country, institution, study type, number, and type of implant used, intervention, i.e., artificial PDL or cementum incorporated, site and method of transplantation, study design, the animal used, duration, test or analysis, features of newly formed PDL, microscopic structure, functional evaluation, and response to noxious stimuli.
+
+Results
+
+The electronic and manual search performed in the initial stage yielded 1395 records, of which 46 were identified as duplicates and removed. After screening of titles and abstracts, 1305 articles were found irrelevant and rejected as the majority of them discussed periodontal tissue regeneration, including alveolar bone, and studies restricted to bone defect management. The remaining 44 articles were considered eligible for full-text reading out of which 12 articles satisfied the defined inclusion criteria, Details on excluded studies and reasons for exclusion are depicted in the PRISMA flowchart [].
+
+Figure 1
+
+Study Inclusion flowchart
+
+Description of included studies
+
+A detailed description of the included studies is summarized in. All the 12 included studies were animal studies, among which one study followed a human trial.[] Three studies used canine models,[] two studies primates,[] one swine model,[] and one study utilized the goat model.[] Five were rodent studies[] and one was a rabbit study.[] Commercially pure titanium implants were considered as the study population in all the included studies. Five studies used HA (hydroxyapatite) coated implants,[] with an additional platinum coating applied in one study.[] Sandblasted and acid-etched (SLA) implants were placed in one study. Plasma sprayed Ti implants were selected in two studies,[] one of which reported a hollow cylindrical design.[]
+
+Table 2
+
+Description of included studies
+
+Author and year
+
+Implant type
+
+Artificial PDL used
+
+Duration
+
+Structural feature
+
+Response to mechanical stress
+
+Response to noxious stimuli
+
+Daniel Buser 1990
+
+Plasma-sprayed ITI hollow-cylinder Ti implants
+
+PDL of retained roots and PDL cells of adjacent root for cementum
+
+12 months
+
+Deposition of “root” cementum with inserting collagen fibers on implant surface showing direct continuity with newly formed cementum on the adjacent roots.
+
+Soft-tissue space similar to PDL space with connective tissue fibers perpendicular to the implant surface and inserted in both implant cementum and opposing alveolar bone and blood vessels with a large lumen
+
+Caiazza, D 1990
+
+Ti implants with cylindrical body and lathed parallel grooves
+
+The Dacron@ filamentous tissue with PMMA
+
+3 months
+
+Filaments surrounded by granulation tissue composed of fibroblasts, neutrophils and varying amounts of dense collagen bundles
+
+Elastic Properties of the material remain almost unchanged when subjected to shear stress
+
+Neo-formed vessels
+
+Gradual mineralization of the matrix and free spaces completely filled by bone tissue
+
+Adriano Piattelli 1994
+
+Plasma sprayed Ti implants
+
+ePTFE membranes (Gore-Tex, W.L. Gore)
+
+3 months
+
+Implants surrounded by mineralized tissue separated from surrounding bone by a layer of Connective tissue
+
+Good primary Stability with initial direct bone contact areas similar to root cementum, with no osteonic lamellar arrangement and Small medullary cavity spaces characteristic of alveolar bone –“osteocementum”
+
+Kirsten Warrer, 1996
+
+Self-tapping screw-type titanium implants
+
+PDL tissue of retained roots
+
+3 months
+
+New cementum in areas which allowed invasion of PDL tissue from retained roots whereas a direct
+
+Bone implant contacting areas with no space for invasion, and on the implants without contact with retained roots
+
+Sharpey’s fibers in and outside the cementum, Oriented perpendicular to the surface
+
+Masaji Urabe 1999
+
+TA and HA-coated implants
+
+Periodontium derived cells of adjacent tooth
+
+3 months
+
+Obvious fibrous connective
+
+Tissue around implants located nearest to the periodontium of adjacent teeth, and in continuity with the PDL of adjacent teeth
+
+Direct BIC on remaining part of implant surfaces
+
+Mature calcified cementum-like tissue between the fibrous connective tissue and the surface of implant and on the exposed root surfaces
+
+HA-coated implants showed uniform PDL with regularly oriented collagen fibers inserted perpendicularly and distinct cementum-like tissue on the implant’s surface when compared to TA implants
+
+Byung-Ho Choi 2000
+
+Ti screw-type implant
+
+Periodontal ligament cells from the mid-root surface of tooth
+
+3 months
+
+Periodontal ligament–like tissue between the cementum-like tissue on the Implants and the alveolar bone
+
+Formation of cementum like tissue is in close relationship to collagen fibers inserting perpendicular to the implant surface
+
+Mona K. Marei 2009
+
+HA coated Ti dental implant threaded screw with hex-head
+
+3D hollow porous root-form scaffolds prepared from 50:50 PLG
+
+1 month
+
+Tissue surrounding implant fixture resembled
+
+Natural periodontal tissue
+
+Bone regenerated along implant maintaining width of space
+
+A heavy bundle of connective tissue fiber resembling Sharpey’s-like fibers extending to meet circular fibers running toward and parallel to the titanium surface
+
+Tightly adhered cementum-like tissue to the implant
+
+Signs of remodeling with the presence of osteoclasts away from the implant fixture
+
+New collagen fibers were highly cellular and vascular
+
+Philippe Gault 2010
+
+titanium pin coated with HAP placed in a hollow plastic Cylinder
+
+Human PDL cells from middle third of the extracted root, Then combined with canine-derived PDL cells with additional fibronectin coating
+
+18 days3 months in human jaw
+
+Ligaplants
+
+Ligaplant
+
+Firmly integrated without interlocking and without direct bone implant contact
+
+Ligaplant mobility scores were in the range of natural
+
+Bone formation was induced and movements of ligaplants inside the bone suggest intact tissue communication between bone and implant surface
+
+Tooth scores
+
+Elongated cells formed palisades resembling normal PDL, along a newly formed layer similar to cementum
+
+Collagen fiber bundles inserted and oriented
+
+Perpendicular to the surface
+
+Y. Lin 2011
+
+Sandblasted and Acid-Etched custom Ti implants
+
+Rat PDL-derived dental progenitor Cells with Matrigel, a three-dimensional bio matrix scaffold rich in essential ECM Components
+
+Matrigel-coated cell seeded
+
+Implants was osseointegrated, but exhibited thin layer of cementum-like
+
+Tissue at the implant-PDL tissue interface, and poorly vascularized
+
+PDL tissues, with collagen fibers oriented perpendicular to the cementum surface, closely resembling naturally
+
+Formed PDL and Sharpey’s fibers
+
+Masamitsu Oshima 2014
+
+HA coated implant
+
+ED18.5-DF
+
+1 month
+
+Bio hybrid implants
+
+The bio-hybrid implant moved in a similar manner to natural teeth in response to orthodontic force
+
+NF immunoreactive nerve fibers and C-Fos immunoreactive neurons, were detected
+
+PDL space and correct periodontal tissue structure consisting of cementum, PDL and alveolar bone
+
+PDL fiber structure comprised of transverse collagen fibres and longitudinal elastin fibers
+
+Csf-1 MRNA-positive cells (marker of osteoclastogenesis) and Ocn mRNA-positive osteoblast
+
+Correct cementum formation and invasion of Sharpey’s fiber into the cementum
+
+High concentrations of specific hard tissue elements, such as Ca and P detected in The region of cementum and alveolar bone, but not in the PDL region
+
+Observed on the compression and tension sides. Mediates bone remodeling in response to mechanical stress
+
+Kei Nakajima 2016
+
+HA coated Ti implants then Coated with platinum
+
+Rat PDL tissues
+
+40 days
+
+PDL space and correct periodontal tissue structure
+
+The bone attached implant moved in a similar manner to natural teeth in response to orthodontic force
+
+NF
+
+On bone attached implant
+
+Immunoreactive nerve fibers and C-Fos immunoreactive neurons, were detected
+
+PDL fiber structure of the consisted of transverse collagen fibers
+
+Csf-1 MRNA-positive cells and Ocn mRNA-positive osteoblast
+
+Observed on the compression and tension sides. Mediates bone remodeling in response to mechanical stress
+
+Dong-Joon Lee 2017
+
+Grit blasted and HA-coated Ti implants
+
+Cell sheets, derived from immortalized human cells
+
+56 days
+
+PDL-like connective tissue or plate-shaped calcified
+
+Expression of mineralization-related genes, including ALP, BSP, and CEMP-1 Expression of Col I and PLAP-1, known as a PDL specific marker
+
+ihPDLs and ihCEMs
+
+Tissue on the surface of the implant fixture aligned vertical and parallel to the fixture
+
+HUVECs
+
+Induction of alveolar bone remodeling
+
+Porcine derived ERM
+
+PDL markers, periostin and fibrillin 1 staining was positive around the PDL-like tissue
+
+Engaged blood vessels observed
+
+Oxytalan fibers detected
+
+PDL: Periodontal ligament; TA: Titanium alloy; HA: Hydroxyapatite; PMMA: Poly methyl methacrylate; ePTFE: Polytetra fluoroethylene; ED: Embryonic day; ECM: Extra cellular matrix; Csf-1: Colony-stimulating factor-1; Ocn: Osteocalcin; NF: Antineurofilament; ihPDL: Immortalized human periodontal ligament cells; ihCEM: Immortalized human cementoblasts; HUVEC-human umbilical vein endothelial cells; ERM: Porcine derived Epithelial cell rests of Malassez; ALP: Alkaline phosphatase; BSP: Bone sialoprotein; CEMP-1: Cementoblast marker cementum protein 1; Col I: Collagen Type I; PLAP-1: Periodontal-ligament: associated protein-1; HUVECs: Human umbilical vein endothelial cells; ihCEMs: Immortalized human cementoblasts; ihPDLs: Immortalized human periodontal ligament cells; PLG: Poly DL-lactideco-glycolide; HAP: Hydroxyl apatite; ED18.5-DF: ED18.5 tooth germ-derived dental follicle tissue
+
+Structural features of the periodontal tissue
+
+The preliminary studies utilized PDL derived from the retained root and adjacent tooth.[] Buser. analyzed cementum formation on plasma-sprayed dental implants transplanted in regions of the alveolar process with retained apical root portions for 12 months. The results revealed the formation of a hard tissue layer on implant surface, which depicts direct continuity with newly formed ” root” cementum taking its source from PDL cells of adjacent roots. A soft-tissue space with dimension and structure similar to PDL space with abundant connective tissue fibers perpendicular to implant surface confirmed the formation of a true PDL around titanium implants.[] A similar study by Urabe. with his co-workers compared the morphogenetic behavior of periodontium on titanium alloy (TA), and hydroxyapetite (HA) coated implants placed in the inter premolar spaces on mandible in contact with the roots of adjacent premolars and canines. An obvious fibrous connective tissue and mature calcified cementum-like tissue in continuity with the PDL of adjacent teeth were noted. The histomorphometric analysis highlighted uniformly aligned fibrous connective tissue on HA-coated implants; while they were nonuniform with no collagen fibers inserted on TA implants.[] Warrer. established that the progenitor cells for cementum formation derived from the retained root PDL initiated the formation of new cementum layer along the implant surface with Sharpey's fibers oriented perpendicular to the surface.[]
+
+Among the early studies, implantation of bone wedges sheathed by PMMA and Dacron@ filamentous tissue presented surrounding granulation tissue and few giant cells in varying amounts of dense collagen bundles. Neo formed vessels were also identified owing to migration and proliferation of endothelial cells.[] Piattelli. proposed the placement of expanded poly tetrafluoroethylene (ePTFE) membranes on the crestal bone around the implant with an artificial bone defect, which resulted in proper healing with initial direct bone contact and good primary stability without any inflammation. Histological features revealed formation of root cementum described as ” osteocementum” or ” dystrophic cementum,” similar to the tissue found in the cementum-producing lesions of the jawbones.[] In the early 20s, investigations using cultured PDL cells retrieved from the mid-root surface of extracted natural tooth showed a thin layer of cementum-like tissue on 37% of implant surfaces with collagen fibers in the PDL–like tissue oriented perpendicular to the implant surface.[] Further, 50:50 poly DL-lactideco-glycolide (PLG) scaffolds as intervention demonstrated highly cellular and vascular newly formed collagen fibers with deposition of cementum like layer tightly adhered to implant serration surface by means of a connective tissue fiber bundle resembling Sharpey's fibers.[] Gault. and co workers in 2010 described the development and clinical application of a tissue-engineered ligament ” ligaplants,” a combination of PDL cells with implant biomaterial. Here the human PDL cells isolated from an extracted tooth were cultured in a bioreactor to get cell sheets that were rolled onto porous hydroxyapatite (HAP) implant discs and transplanted to animal model as host for cell culture. The ligaplant combined with canine-derived PDL cells with additional fibronectin coating, was then implanted into the jaw of human cell donors. Even though the primary fitting was loose to spare the PDL cell cushion, the bio-engineered ligaplants assured firm integration with the induction of new bone and favorable micro-movements within the bone. Palisades of elongated cells equivalent to normal PDL and newly formed layers resembling cementum were identified. Collagen fiber bundles inserted of the human source as detected by anti-human collagen serum.[] A report by Lin. in 2011 using rat PDL derived autologous dental progenitor cells (DPCs) with Matrigel, a three-dimensional biomatrix scaffold rich in necessary extracellular matrix components which presented granulation tissue at the bone-implant interface at 8 weeks and osseointegration achieved at 18 weeks with poor vascularization and organized PDL like tissue formation.[] In the recent literature, a novel fibrous connected implant that used embryonic dental follicle stem cells was established as a proof-of-concept for a next-generation bio-hybrid dental implant by Oshima. []. Here the implant was enveloped with embryonic day (ED) 18.5 tooth germ-derived dental follicle tissue (ED18.5-DF) and transplanted into an adult mouse.[] Lack of proper cementum formation on the implant surface reflected as a critical issue of biohybrid implants to construct a functional tissue similar to the natural periodontal tissue. This was approached by incorporating bone tissue with an osseointegrated dental implant as a substitute for cementum. HA-coated implants were transplanted and allowed to osseointegrate. The bone attached implants were then retrieved and wrapped in cultured rat PDL tissue and re-transplanted.[] These studies recognized PDL fiber structure comprised of transverse collagen fibers and longitudinal elastin fibers along with accurate cementum formation on the implant surface. Electron probe microanalysis revealed high concentrations of specific hard tissue elements such as calcium and phosphorus in cementum and alveolar bone, but not in the PDL region, as in natural tooth.[] The most recent literature in this review reported the use of immortalized human cells for the regeneration of live periodontium. The four cell types used as single or multi-layered cell sheet technique were immortalized human PDL (ihPDLs) cells, immortalized human cementoblasts (ihCEMs), human umbilical vein endothelial cells (HUVECs) and porcine-derived epithelial cell rests of Malassez (ERM). The transplanted cell sheets formed PDL-like connective tissue aligned vertical and parallel to the implant surface. The presence of blood vessels and the existence of oxytalan fibers were confirmed. The PDL markers, periostin, and fibrillin 1 staining were positive around the PDL-like tissue with signs of alveolar bone remodeling.[]
+
+Figure 2
+
+Schematic representation of bio-hybrid dental implant model[]
+
+Functional efficiency of periodontal ligament
+
+Functional analysis of the PDL was validated in five studies.[] Two studies which demonstrated the development of bio-hybrid implant analyzed whether the application of mechanical force could bring about orthodontic movement in the experimental model. Colony-stimulating factor-1 (Csf-1) used as a marker of osteoclastogenesis and osteocalcin (Ocn) were observed on the compression and tension sides, respectively. The results displayed movement of bio-hybrid implant similar to natural teeth with successful bone remodeling through the appropriate orientation of osteoclasts and osteoblasts when exposed to mechanical stress.[] The functional quality analysis of ihCEMs presented expression of mineralization-related genes, whereas the ihPDLs expressed collagen type I and PDL specific marker.[] The results of the preliminary study, which utilized PMMA Dacron material, reported unaffected elastic properties when subjected to shear stress.[] Mechanical resistance around ligaplant inserted in human jaw evaluated through mobility tests presented scores similar to the natural tooth when compared to osseointegrated implants, which was zero.[]
+
+Ability to perceive noxious stimulation
+
+The response of the novel fibrous periodontal connection to noxious stimuli was evaluated in two studies included in the review with the engrafted bio-hybrid implant as the intervention. The detection of Antineurofilament (NF)-immunoreactive nerve fibers in the newly formed PDL of bio-hybrid implant was one of the proof of evidence. There was an increase in C-Fosimmunoreactive neurons at 2 h after orthodontic treatment, which are usually noticed in the noxious mechanical and chemical trigger of the intraoral receptive fields, and also in the natural tooth.[]
+
+Discussion
+
+The conventional concept of implant osseointegration lacks the support of PDL, which provides cushioning effect to heavy occlusal load. Since PDL tissue engineering is budding as a solution for periodontal treatment, its application in conjunction with a dental implant can be a promising approach to meet the existing shortcomings related to mechanical and sensory efficiency of osseointegrated implants. This review summarizes the current body of evidence in the development of a biomimetic implant by incorporating an artificial PDL.
+
+Our review identified a paradigm shift from the utilization of retained or adjacent natural tooth roots as PDL[] to exogenous scaffold materials like PLG expanded ePTFE membranes and Dacron tissue in the preliminary works.[] Then DPCs derived from PDL of the extracted tooth root surface of human or animal models were cultured and implanted in the next decade studies.[] Current researches show a striking trend towards bio-hybrid implants which used dental follicles separated on the particular embryonic day and the latest study using cell sheets from immortalized human cells.[]
+
+The structural analysis of the newly formed PDL derived from retained or adjacent roots, and rat/human extracted PDL cells propose that the collagen fibers aligned perpendicular to the implant might enhance cementum formation on the surface. Formation of connective tissue fiber bundle along with the presence of neo-formed blood vessels was confirmed in studies using bioengineered scaffolds and immortalized human cells. Few interventions proved to compensate for both mechanical stress and sensory efficiency of natural PDL along with structural similarities exhibiting stable elastic properties to stress and response to mobility tests as that of the natural tooth.[] But an absolute functional recovery and stimuli perception is deficient in the simulated PDL formed around titanium implants, which exhibits the need for an apposite adult cell source to regenerate a more favorable autologous PDL.
+
+The limitation of the current review can be stated as the possibility of missing relevant articles during the search due to a lack of standardized search terms. Another limitation isstudies excluded during the initial search, as some of them might have reported detailed information regarding the cellular morphology of newly formed PDL. These deficiencies might prevent the readers from absorbing an apparent depiction of the focused topic.
+
+The current researches still focus on laboratory experiments with animal models except for one human study with ligaplants, which has surpassed the basic mobility test.[] Considering the anatomic and morphological limitation of animals when compared to humans, specific long term clinical trials are critical in this field. Assessment of mechanical and sensory response of dental implants with artificial PDL implanted in human jaws to simulate the physiologic functions of natural tooth still remains the need of the hour. The ongoing and next-generation regenerative therapies for dental diseases, tooth regeneration, and periodontal regeneration have used stem cells derived from various human tissues.[] the identification and application of the same in PDL regeneration around dental implants with biofunctional characteristics will facilitate the development of clinically successful osseointegrated implants. Even though the decisive advantages of ligaplants were hopefully reviewed as a new dimension, factors like complex preparation process, caution about temperature, and duration of culturing, nonperiodontal cells obtained due to culturing failure and unpredictable host acceptance questions the feasibility of ligaplants.[] Some of the recent reviews updated the application of cell sheet engineering to form new cementum around dental implants by transplantation of PDL stem cells (PDLSCs) as an effective and safe approach.[] Thus, the schema for future research demands a combination of bioengineering techniques optimized with suitable adult stem cells as a potential candidate for the regenerative therapies allied with current dental implant design.
+
+The future clinical utility of artificial PDL implies periodontal tissue regeneration, thus avoiding bone grafting in periodontal bone defects and successful restoration of perception through proper nerve innervations. Therefore these hybrid live dental implants due to its rich vascularity and cellular defense mechanism can be utilized in clinical conditions demanding repair of periodontium and areas susceptible to infections where osseointegrated implants are not indicated owing to its different wound healing mechanism. Another potential clinical application of implants with PDL pertains to orthodontic tooth movement to optimal positions in growing patients as the bone turnover in conventional implants with direct bone contact is not an adaptive process.
+
+A tissue engineering approach is the foundation to this regenerative field that utilize pluripotent progenitor cells like PDL derived cells, mesenchymal stem cell isolation, biodegradable polymer structures, and recent advances being gene therapy using vectors or direct delivery technique.
+
+To summarize, there is certainly an emerging body of evidence authenticating the possibility of ligamentous attachment around dental implants satisfying the concept of functional and biological tooth replacement in infection susceptible clinical scenario and orthodontic movement perspective. A key concern has been the practical application concerning the feasibility and time consumption in the clinical setting.
+
+Conclusion
+
+Precise work to refine techniques using DPCs and human-derived cells integrated with bioengineered scaffolds need to be developed and experimented as clinical trials. The concept of artificial PDL has the potential to restore missing natural teeth using oral implants augmented with autologous cell-derived bioengineered tissues. This review proposes the future scope for an absolute prosthetic rehabilitation using functional osseointegrated implants with bio physiologic performance simulating the missing teeth.
+
+Financial support and sponsorship
+
+Nil.
+
+Conflicts of interest
+
+There are no conflicts of interest.
