@@ -1,0 +1,406 @@
+<!--
+---
+title: "RFA 2-DOF 시뮬레이터 — 강성·공진주파수·미세변위"
+type: interactive
+date: 2026-08-18
+status: done
+category: implant-stability
+source_wiki:
+  - wiki/implants/isq/bhandarkar-2023-rfa-mathematical-modeling-implant-stability.md
+  - wiki/overviews/rfa-isq-measurement-mechanism.md
+notes: |
+  Bhandarkar 2023 2자유도 질량-스프링-감쇠기 모델 기반. 골밀도/BIC → 강성 k →
+  공진주파수 f_r (kHz) → ISQ 추정값 변환. 주파수 응답 곡선(H(f)) Canvas 렌더링.
+  공진점에서 강성↑ → 주파수↑, 미세변위↓ 원리 시각화.
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>RFA 2-DOF 시뮬레이터</title>
+<style>
+:root {
+  --bg: #F0F4F8;
+  --surface: #FFFFFF;
+  --surface-2: #F7F9FC;
+  --border: #DDE3ED;
+  --text-1: #0D1B2A;
+  --text-2: #4A5568;
+  --text-3: #90A0B4;
+  --teal: #0D7377;
+  --teal-light: #E6F4F4;
+  --teal-mid: #14A0A4;
+  --curve: #0D7377;
+  --curve-fill: rgba(13,115,119,0.08);
+  --peak-line: #D44000;
+  --peak-light: #FFF0E8;
+  --good: #15803D;
+  --warn: #B45309;
+  --bad: #B91C1C;
+}
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+body { background: var(--bg); color: var(--text-1); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif; font-size: 15px; line-height: 1.5; padding: 1.75rem 1.25rem 2.5rem; -webkit-font-smoothing: antialiased; }
+.wrap { max-width: 700px; margin: 0 auto; display: flex; flex-direction: column; gap: 1rem; }
+
+.hd-eyebrow { font-size: 0.65rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: var(--teal-mid); margin-bottom: 0.35rem; }
+.hd-title { font-size: 1.25rem; font-weight: 800; letter-spacing: -0.025em; line-height: 1.2; color: var(--text-1); }
+.hd-sub { font-size: 0.72rem; color: var(--text-3); margin-top: 0.3rem; }
+
+.card { background: var(--surface); border: 1px solid var(--border); border-radius: 14px; padding: 1.25rem 1.5rem; }
+
+/* ── Equation banner ── */
+.eq-banner { background: var(--surface-2); border: 1px solid var(--border); border-radius: 10px; padding: 0.75rem 1.1rem; display: flex; align-items: center; gap: 1rem; flex-wrap: wrap; }
+.eq-text { font-size: 1rem; font-weight: 700; color: var(--text-1); letter-spacing: 0.01em; font-variant-numeric: tabular-nums; }
+.eq-text em { font-style: normal; color: var(--teal); }
+.eq-label { font-size: 0.65rem; color: var(--text-3); line-height: 1.4; }
+
+/* ── Sliders ── */
+.params { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+@media (max-width: 460px) { .params { grid-template-columns: 1fr; } }
+.param-block {}
+.param-label { font-size: 0.62rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text-3); margin-bottom: 0.4rem; }
+.param-val { font-size: 1.5rem; font-weight: 900; font-variant-numeric: tabular-nums; color: var(--teal); line-height: 1; margin-bottom: 0.5rem; }
+.param-val span { font-size: 0.75rem; font-weight: 400; color: var(--text-2); margin-left: 0.2rem; }
+input[type=range] { -webkit-appearance: none; width: 100%; height: 5px; border-radius: 3px; outline: none; cursor: pointer; background: linear-gradient(to right, var(--teal) 0%, var(--teal) var(--fill,50%), var(--border) var(--fill,50%), var(--border) 100%); }
+input[type=range]::-webkit-slider-thumb { -webkit-appearance: none; width: 20px; height: 20px; border-radius: 50%; background: var(--teal); border: 3px solid white; box-shadow: 0 2px 5px rgba(13,115,119,0.4); cursor: pointer; }
+.param-desc { font-size: 0.68rem; color: var(--text-3); margin-top: 0.4rem; line-height: 1.4; }
+
+/* ── Output metrics row ── */
+.metrics { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.75rem; }
+@media (max-width: 400px) { .metrics { grid-template-columns: 1fr 1fr; } }
+.metric { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 0.85rem 1rem; }
+.metric-label { font-size: 0.58rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text-3); margin-bottom: 0.2rem; }
+.metric-num { font-size: 1.6rem; font-weight: 900; font-variant-numeric: tabular-nums; line-height: 1; }
+.metric-unit { font-size: 0.72rem; color: var(--text-2); }
+
+/* ── Chart ── */
+.chart-card { background: var(--surface); border: 1px solid var(--border); border-radius: 14px; padding: 1.25rem; }
+.chart-title { font-size: 0.62rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text-3); margin-bottom: 0.85rem; }
+canvas { display: block; width: 100%; height: auto; border-radius: 6px; }
+
+/* ── Mass diagram ── */
+.diagram-row { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; align-items: start; }
+@media (max-width: 460px) { .diagram-row { grid-template-columns: 1fr; } }
+.diagram-card { background: var(--surface); border: 1px solid var(--border); border-radius: 14px; padding: 1.1rem; display: flex; flex-direction: column; align-items: center; gap: 0.6rem; }
+.diagram-label { font-size: 0.6rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text-3); align-self: flex-start; }
+
+/* ── Interpretation ── */
+.interp-card { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 0.9rem 1.1rem; }
+.interp-label { font-size: 0.6rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text-3); margin-bottom: 0.35rem; }
+.interp-body { font-size: 0.8rem; color: var(--text-2); line-height: 1.65; }
+
+/* ── Footer ── */
+.footer { font-size: 0.68rem; color: var(--text-3); line-height: 1.55; text-align: center; padding-top: 0.75rem; border-top: 1px solid var(--border); }
+.footer strong { color: var(--text-2); }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div>
+    <div class="hd-eyebrow">RFA 2-DOF 시뮬레이터</div>
+    <div class="hd-title">강성 → 공진주파수 → ISQ</div>
+    <div class="hd-sub">Bhandarkar et al. 2023 · e-Prime 6:100314 · 2자유도 질량-스프링-감쇠기 모델 기반</div>
+  </div>
+
+  <!-- Equation -->
+  <div class="eq-banner">
+    <div class="eq-text">f<sub>r</sub> = <em>1/(2π)</em> · √(<em>k</em>/m)</div>
+    <div class="eq-label">강성 k↑ → 공진주파수↑ → ISQ↑<br>공진점 미세변위 = F₀ / (2ζk) → 강성↑ → 변위↓</div>
+  </div>
+
+  <!-- Controls -->
+  <div class="card">
+    <div class="params">
+      <div class="param-block">
+        <div class="param-label">골-임플란트 강성 k</div>
+        <div class="param-val" id="kDisplay">2.0 <span>MN/m</span></div>
+        <input type="range" id="kSlider" min="10" max="30" value="20" step="1">
+        <div class="param-desc">D1(치밀 피질골) ≈ 3 MN/m<br>D4(저밀도 해면골) ≈ 1 MN/m</div>
+      </div>
+      <div class="param-block">
+        <div class="param-label">감쇠비 ζ (Damping ratio)</div>
+        <div class="param-val" id="zetaDisplay">0.05 <span></span></div>
+        <input type="range" id="zetaSlider" min="2" max="15" value="5" step="1">
+        <div class="param-desc">낮을수록 공진 피크 날카로움<br>생체조직 일반값 0.02–0.15</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Metrics -->
+  <div class="metrics">
+    <div class="metric">
+      <div class="metric-label">공진주파수</div>
+      <div class="metric-num" id="freqNum" style="color:var(--teal)">—</div>
+      <div class="metric-unit">kHz</div>
+    </div>
+    <div class="metric">
+      <div class="metric-label">ISQ 추정값</div>
+      <div class="metric-num" id="isqNum">—</div>
+      <div class="metric-unit">/ 100</div>
+    </div>
+    <div class="metric">
+      <div class="metric-label">공진점 변위</div>
+      <div class="metric-num" id="dispNum">—</div>
+      <div class="metric-unit">nm (상대)</div>
+    </div>
+  </div>
+
+  <!-- Frequency response chart -->
+  <div class="chart-card">
+    <div class="chart-title">주파수 응답 곡선 H(f) — 진폭 vs 주파수</div>
+    <canvas id="chart" width="640" height="240"></canvas>
+  </div>
+
+  <!-- Diagram + interpretation -->
+  <div class="diagram-row">
+    <div class="diagram-card">
+      <div class="diagram-label">2-DOF 모델 모식도</div>
+      <svg viewBox="0 0 160 230" width="160" height="230" style="overflow:visible">
+        <defs>
+          <linearGradient id="tiG2" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#607080"/><stop offset="50%" stop-color="#9AAABB"/><stop offset="100%" stop-color="#7A8A9A"/></linearGradient>
+          <marker id="arr2" markerWidth="5" markerHeight="5" refX="4" refY="2.5" orient="auto"><polygon points="0 0,5 2.5,0 5" fill="#D44000"/></marker>
+        </defs>
+        <!-- Ground (bone) -->
+        <rect x="20" y="190" width="120" height="12" rx="3" fill="#9A8070"/>
+        <line x1="20" y1="202" x2="140" y2="202" stroke="#7A6050" stroke-width="1"/>
+        <!-- Hatch lines for ground -->
+        <line x1="25" y1="202" x2="18" y2="212" stroke="#7A6050" stroke-width="1"/>
+        <line x1="35" y1="202" x2="28" y2="212" stroke="#7A6050" stroke-width="1"/>
+        <line x1="45" y1="202" x2="38" y2="212" stroke="#7A6050" stroke-width="1"/>
+        <line x1="55" y1="202" x2="48" y2="212" stroke="#7A6050" stroke-width="1"/>
+        <line x1="65" y1="202" x2="58" y2="212" stroke="#7A6050" stroke-width="1"/>
+        <line x1="75" y1="202" x2="68" y2="212" stroke="#7A6050" stroke-width="1"/>
+        <line x1="85" y1="202" x2="78" y2="212" stroke="#7A6050" stroke-width="1"/>
+        <line x1="95" y1="202" x2="88" y2="212" stroke="#7A6050" stroke-width="1"/>
+        <line x1="105" y1="202" x2="98" y2="212" stroke="#7A6050" stroke-width="1"/>
+        <line x1="115" y1="202" x2="108" y2="212" stroke="#7A6050" stroke-width="1"/>
+        <line x1="125" y1="202" x2="118" y2="212" stroke="#7A6050" stroke-width="1"/>
+        <line x1="135" y1="202" x2="128" y2="212" stroke="#7A6050" stroke-width="1"/>
+        <!-- Spring k_bone (left) -->
+        <text x="18" y="172" font-size="7.5" fill="#0D7377" font-weight="700" font-family="-apple-system,sans-serif">k</text>
+        <line x1="30" y1="190" x2="30" y2="170" stroke="#94A3B8" stroke-width="1.2"/>
+        <polyline points="30,170 30,165 26,163 34,159 26,155 34,151 26,147 34,143 30,141 30,135" stroke="#94A3B8" stroke-width="1.5" fill="none"/>
+        <line x1="30" y1="135" x2="30" y2="120" stroke="#94A3B8" stroke-width="1.2"/>
+        <!-- Damper c (right) -->
+        <text x="118" y="172" font-size="7.5" fill="#0D7377" font-weight="700" font-family="-apple-system,sans-serif">c</text>
+        <line x1="130" y1="190" x2="130" y2="165" stroke="#94A3B8" stroke-width="1.2"/>
+        <rect x="124" y="150" width="12" height="20" rx="1" fill="none" stroke="#94A3B8" stroke-width="1.5"/>
+        <line x1="130" y1="150" x2="130" y2="120" stroke="#94A3B8" stroke-width="1.2"/>
+        <!-- Mass m1 (implant body) -->
+        <rect x="45" y="105" width="70" height="28" rx="4" fill="url(#tiG2)"/>
+        <text x="80" y="123" text-anchor="middle" font-size="9" fill="white" font-weight="700" font-family="-apple-system,sans-serif">m₁ 임플란트</text>
+        <!-- Spring k1 between m1 and m2 -->
+        <line x1="80" y1="105" x2="80" y2="92" stroke="#94A3B8" stroke-width="1.2"/>
+        <polyline points="80,92 80,87 76,85 84,81 76,77 84,73 76,69 84,65 80,63 80,58" stroke="#94A3B8" stroke-width="1.5" fill="none"/>
+        <line x1="80" y1="58" x2="80" y2="45" stroke="#94A3B8" stroke-width="1.2"/>
+        <text x="87" y="77" font-size="7.5" fill="#0D7377" font-weight="700" font-family="-apple-system,sans-serif">k₁</text>
+        <!-- Mass m2 (SmartPeg/abutment) -->
+        <rect x="58" y="30" width="44" height="18" rx="3" fill="#334155"/>
+        <text x="80" y="43" text-anchor="middle" font-size="8" fill="white" font-weight="700" font-family="-apple-system,sans-serif">m₂ SmartPeg</text>
+        <!-- Force arrow -->
+        <line x1="140" y1="39" x2="104" y2="39" stroke="#D44000" stroke-width="2" marker-end="url(#arr2)"/>
+        <text x="142" y="43" font-size="8" fill="#D44000" font-weight="700" font-family="-apple-system,sans-serif">F(t)</text>
+        <!-- Labels -->
+        <text x="80" y="225" text-anchor="middle" font-size="8" fill="#8B7560" font-family="-apple-system,sans-serif">골 고정단 (fulcrum)</text>
+      </svg>
+    </div>
+    <div class="interp-card">
+      <div class="interp-label">임상 해석</div>
+      <div class="interp-body" id="interpBody">슬라이더를 조정하면 공진주파수와 ISQ 추정값이 갱신됩니다.</div>
+    </div>
+  </div>
+
+  <div class="footer">
+    <strong>이론 시뮬레이션</strong> — Bhandarkar 2023의 2-DOF 수학 모델(FEA 도출 k·c, 5–15 kHz MATLAB FFT)을 단순화한 개념 시각화입니다.
+    ISQ 추정값은 Debruyne 2017 측정 범위(~5.0–8.6 kHz = 대략 ISQ 40–85)를 선형 매핑한 근사값입니다.
+    임상 수치로 직접 사용하지 마세요.
+  </div>
+</div>
+
+<script>
+const kSlider   = document.getElementById('kSlider');
+const zetaSlider= document.getElementById('zetaSlider');
+const kDisplay  = document.getElementById('kDisplay');
+const zetaDisplay=document.getElementById('zetaDisplay');
+const freqNum   = document.getElementById('freqNum');
+const isqNum    = document.getElementById('isqNum');
+const dispNum   = document.getElementById('dispNum');
+const interpBody= document.getElementById('interpBody');
+const canvas    = document.getElementById('chart');
+const ctx       = canvas.getContext('2d');
+
+const MASS = 0.001; // kg — effective implant + SmartPeg mass
+const F0   = 0.01;  // N — electromagnetic excitation amplitude
+
+// ISQ mapping: 5000 Hz → ~40 ISQ, 8600 Hz → ~85 ISQ (Debruyne 2017 range)
+function freqToISQ(f) {
+  const isq = 40 + (f - 5000) / (8600 - 5000) * 45;
+  return Math.max(10, Math.min(99, Math.round(isq)));
+}
+
+// Frequency response magnitude H(r) for 1-DOF: 1/sqrt((1-r²)²+(2ζr)²)
+function H(f, fn, zeta) {
+  const r = f / fn;
+  return 1 / Math.sqrt(Math.pow(1 - r * r, 2) + Math.pow(2 * zeta * r, 2));
+}
+
+function isqColor(isq) {
+  if (isq >= 65) return '#15803D';
+  if (isq >= 50) return '#B45309';
+  return '#B91C1C';
+}
+
+function drawChart(fn, zeta) {
+  const W = canvas.width, H_px = canvas.height;
+  const padL = 44, padR = 14, padT = 16, padB = 36;
+  const plotW = W - padL - padR, plotH = H_px - padT - padB;
+
+  ctx.clearRect(0, 0, W, H_px);
+
+  // Background
+  ctx.fillStyle = '#FAFBFC';
+  ctx.fillRect(0, 0, W, H_px);
+
+  // Grid
+  const fMin = 2000, fMax = 15000;
+  const nGridX = 6, nGridY = 4;
+  ctx.strokeStyle = '#E8EDF4';
+  ctx.lineWidth = 1;
+  for (let i = 0; i <= nGridX; i++) {
+    const x = padL + (i / nGridX) * plotW;
+    ctx.beginPath(); ctx.moveTo(x, padT); ctx.lineTo(x, padT + plotH); ctx.stroke();
+  }
+  for (let i = 0; i <= nGridY; i++) {
+    const y = padT + (i / nGridY) * plotH;
+    ctx.beginPath(); ctx.moveTo(padL, y); ctx.lineTo(padL + plotW, y); ctx.stroke();
+  }
+
+  // Axes
+  ctx.strokeStyle = '#CBD5E1'; ctx.lineWidth = 1.5;
+  ctx.beginPath(); ctx.moveTo(padL, padT); ctx.lineTo(padL, padT + plotH); ctx.lineTo(padL + plotW, padT + plotH); ctx.stroke();
+
+  // Axis labels
+  ctx.fillStyle = '#94A3B8'; ctx.font = '9px -apple-system, sans-serif'; ctx.textAlign = 'center';
+  for (let i = 0; i <= nGridX; i++) {
+    const f = fMin + (i / nGridX) * (fMax - fMin);
+    const x = padL + (i / nGridX) * plotW;
+    ctx.fillText((f/1000).toFixed(0) + 'k', x, padT + plotH + 12);
+  }
+  ctx.save(); ctx.translate(10, padT + plotH / 2); ctx.rotate(-Math.PI/2);
+  ctx.fillText('진폭 (상대)', 0, 0); ctx.restore();
+  ctx.fillStyle = '#64748B'; ctx.font = '9.5px -apple-system, sans-serif';
+  ctx.fillText('주파수 (Hz)', padL + plotW / 2, padT + plotH + 26);
+
+  // Compute max H for normalization
+  let hMax = 0;
+  for (let f = fMin; f <= fMax; f += 10) {
+    hMax = Math.max(hMax, H(f, fn, zeta));
+  }
+
+  // Fill under curve
+  ctx.beginPath();
+  for (let f = fMin; f <= fMax; f += 20) {
+    const x = padL + (f - fMin) / (fMax - fMin) * plotW;
+    const h = H(f, fn, zeta) / hMax;
+    const y = padT + plotH * (1 - h * 0.92);
+    if (f === fMin) ctx.moveTo(x, padT + plotH);
+    ctx.lineTo(x, y);
+  }
+  ctx.lineTo(padL + plotW, padT + plotH);
+  ctx.closePath();
+  ctx.fillStyle = 'rgba(13,115,119,0.07)';
+  ctx.fill();
+
+  // Curve
+  ctx.beginPath();
+  ctx.strokeStyle = '#0D7377'; ctx.lineWidth = 2.2;
+  for (let f = fMin; f <= fMax; f += 15) {
+    const x = padL + (f - fMin) / (fMax - fMin) * plotW;
+    const h = H(f, fn, zeta) / hMax;
+    const y = padT + plotH * (1 - h * 0.92);
+    f === fMin ? ctx.moveTo(x, y) : ctx.lineTo(x, y);
+  }
+  ctx.stroke();
+
+  // Peak marker (resonance frequency)
+  const peakX = padL + (fn - fMin) / (fMax - fMin) * plotW;
+  const peakY = padT + plotH * (1 - 0.92);
+
+  // Vertical dashed line at resonance
+  ctx.setLineDash([4, 3]);
+  ctx.strokeStyle = '#D44000'; ctx.lineWidth = 1.5;
+  ctx.beginPath(); ctx.moveTo(peakX, padT); ctx.lineTo(peakX, padT + plotH); ctx.stroke();
+  ctx.setLineDash([]);
+
+  // Peak dot
+  ctx.beginPath(); ctx.arc(peakX, peakY, 5, 0, Math.PI * 2);
+  ctx.fillStyle = '#D44000'; ctx.fill();
+  ctx.strokeStyle = 'white'; ctx.lineWidth = 1.5;
+  ctx.beginPath(); ctx.arc(peakX, peakY, 5, 0, Math.PI * 2); ctx.stroke();
+
+  // Peak label
+  ctx.fillStyle = '#D44000'; ctx.font = 'bold 9.5px -apple-system, sans-serif'; ctx.textAlign = 'center';
+  const fnKHz = (fn / 1000).toFixed(2);
+  ctx.fillText('f_r = ' + fnKHz + ' kHz', peakX, peakY - 10);
+
+  // ISQ annotation
+  const isqVal = freqToISQ(fn);
+  ctx.fillStyle = isqColor(isqVal); ctx.font = 'bold 9px -apple-system, sans-serif';
+  ctx.fillText('ISQ ≈ ' + isqVal, peakX, peakY - 22);
+}
+
+function interpText(fn, isq, zeta, k) {
+  const fnKHz = (fn/1000).toFixed(2);
+  const kLabel = k >= 25 ? 'D1 치밀 피질골 수준' : k >= 18 ? 'D2/D3 중등도 골' : 'D4 저밀도 해면골 수준';
+  if (isq >= 70) return `강성 ${(k/10).toFixed(1)} MN/m (${kLabel}) → f_r ${fnKHz} kHz → ISQ ≈ ${isq}. 공진점 미세변위 최소. 즉시 부하 가능 구간.`;
+  if (isq >= 55) return `강성 ${(k/10).toFixed(1)} MN/m (${kLabel}) → f_r ${fnKHz} kHz → ISQ ≈ ${isq}. 치유 후 재측정 권장. 감쇠비↑이면 피크가 완만해져 공진 특정이 덜 정밀해진다.`;
+  return `강성 ${(k/10).toFixed(1)} MN/m (${kLabel}) → f_r ${fnKHz} kHz → ISQ ≈ ${isq}. 공진점 미세변위 큼 — 낮은 골밀도 또는 낮은 BIC가 ISQ를 낮추는 물리적 경로.`;
+}
+
+function update() {
+  const kRaw  = +kSlider.value;   // 10–30 → 1.0–3.0 MN/m
+  const kVal  = kRaw * 100000;    // N/m
+  const zeta  = +zetaSlider.value / 100;
+
+  const kMN   = (kRaw / 10).toFixed(1);
+  kDisplay.innerHTML = kMN + ' <span>MN/m</span>';
+  zetaDisplay.innerHTML = zeta.toFixed(2) + ' <span></span>';
+
+  // Update slider fill
+  kSlider.style.setProperty('--fill', ((kRaw-10)/20*100).toFixed(1)+'%');
+  zetaSlider.style.setProperty('--fill', ((+zetaSlider.value-2)/13*100).toFixed(1)+'%');
+
+  // Natural frequency
+  const omega_n = Math.sqrt(kVal / MASS); // rad/s
+  const fn = omega_n / (2 * Math.PI);     // Hz
+
+  // ISQ estimate
+  const isq = freqToISQ(fn);
+
+  // Resonance displacement: F0 / (2 * zeta * k), scaled to nm for display
+  const dispM = F0 / (2 * zeta * kVal);
+  const dispNm = Math.round(dispM * 1e9 * 10) / 10; // nm
+
+  // Display
+  freqNum.textContent = (fn / 1000).toFixed(2);
+  freqNum.style.color = isqColor(isq);
+  isqNum.textContent  = isq;
+  isqNum.style.color  = isqColor(isq);
+  dispNum.textContent = dispNm.toFixed(1);
+  dispNum.style.color = isq >= 65 ? 'var(--good)' : isq >= 50 ? 'var(--warn)' : 'var(--bad)';
+
+  // Interpretation
+  interpBody.textContent = interpText(fn, isq, zeta, kRaw);
+
+  // Chart
+  drawChart(fn, zeta);
+}
+
+kSlider.addEventListener('input', update);
+zetaSlider.addEventListener('input', update);
+update();
+</script>
+</body>
+</html>
