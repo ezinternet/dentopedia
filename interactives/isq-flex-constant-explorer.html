@@ -1,0 +1,233 @@
+<!--
+---
+title: "ISQ ↔ 측방 변위 탐색기 — Sennerby & Pagliani 2015"
+type: interactive
+date: 2026-08-18
+status: done
+category: implant-stability
+source_wiki:
+  - wiki/implants/isq/sennerby-2015-two-different-implant-designs-drilling.md
+  - wiki/implants/isq/bhandarkar-2023-rfa-mathematical-modeling-implant-stability.md
+  - wiki/overviews/rfa-isq-measurement-mechanism.md
+notes: |
+  소 골 블록 인비트로(n=18쌍): RFA + 15N 측방력 → 실제 변위(μm) + flex constant(μm/N)
+  동시 측정. ISQ↑ → 변위↓, D4 저밀도 골에서 디자인 차이 현저. 수치는 개념 추정값.
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ISQ ↔ 측방 변위 탐색기</title>
+<style>
+:root {
+  --bg: #F1F5F9;
+  --surface: #FFFFFF;
+  --surface-2: #F8FAFC;
+  --border: #E2E8F0;
+  --border-subtle: #F1F5F9;
+  --text-1: #0F172A;
+  --text-2: #475569;
+  --text-3: #94A3B8;
+  --blue: #1D4ED8;
+  --blue-light: #EFF6FF;
+  --blue-mid: #3B82F6;
+  --good: #15803D;
+  --good-bg: #F0FDF4;
+  --good-bar: #22C55E;
+  --warn: #B45309;
+  --warn-bg: #FFFBEB;
+  --warn-bar: #F59E0B;
+  --bad: #B91C1C;
+  --bad-bg: #FEF2F2;
+  --bad-bar: #EF4444;
+}
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  background: var(--bg);
+  color: var(--text-1);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+  font-size: 15px;
+  line-height: 1.5;
+  padding: 1.75rem 1.25rem 2.5rem;
+  -webkit-font-smoothing: antialiased;
+}
+.wrap { max-width: 680px; margin: 0 auto; display: flex; flex-direction: column; gap: 1rem; }
+.hd-eyebrow { font-size: 0.65rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: var(--blue-mid); margin-bottom: 0.35rem; }
+.hd-title { font-size: 1.25rem; font-weight: 800; letter-spacing: -0.025em; line-height: 1.2; color: var(--text-1); }
+.hd-sub { font-size: 0.72rem; color: var(--text-3); margin-top: 0.3rem; }
+.card { background: var(--surface); border: 1px solid var(--border); border-radius: 14px; padding: 1.25rem 1.5rem; }
+.isq-row { display: flex; align-items: flex-start; gap: 1.25rem; }
+.isq-big { flex-shrink: 0; text-align: center; width: 80px; }
+.isq-big-label { font-size: 0.6rem; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: var(--text-3); margin-bottom: 0.1rem; }
+.isq-big-num { font-size: 3.75rem; font-weight: 900; font-variant-numeric: tabular-nums; line-height: 1; color: var(--blue); transition: color 0.35s; }
+.slider-col { flex: 1; padding-top: 0.15rem; }
+.slider-bounds { display: flex; justify-content: space-between; font-size: 0.68rem; color: var(--text-3); font-variant-numeric: tabular-nums; margin-bottom: 0.5rem; }
+.slider-bounds span:nth-child(2) { color: var(--text-2); font-weight: 600; }
+input[type=range] { -webkit-appearance: none; width: 100%; height: 5px; border-radius: 3px; outline: none; cursor: pointer; background: linear-gradient(to right, var(--blue) 0%, var(--blue) var(--fill, 50%), var(--border) var(--fill, 50%), var(--border) 100%); }
+input[type=range]::-webkit-slider-thumb { -webkit-appearance: none; width: 22px; height: 22px; border-radius: 50%; background: var(--blue); border: 3px solid white; box-shadow: 0 2px 6px rgba(29,78,216,0.35); cursor: pointer; transition: transform 0.12s; }
+input[type=range]::-webkit-slider-thumb:active { transform: scale(1.18); }
+.stab-badge { display: inline-block; margin-top: 0.6rem; font-size: 0.72rem; font-weight: 700; padding: 0.2rem 0.65rem; border-radius: 99px; background: var(--blue-light); color: var(--blue); transition: background 0.35s, color 0.35s; }
+.dens-section { margin-top: 1.1rem; padding-top: 1.1rem; border-top: 1px solid var(--border-subtle); }
+.dens-label { font-size: 0.62rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text-3); margin-bottom: 0.6rem; }
+.dens-btns { display: flex; gap: 0.5rem; }
+.dens-btn { flex: 1; padding: 0.6rem 0.4rem 0.55rem; border: 1.5px solid var(--border); border-radius: 9px; background: var(--surface-2); cursor: pointer; text-align: center; font-family: inherit; transition: border-color 0.15s, background 0.15s; line-height: 1.25; }
+.dens-btn .dc { font-size: 0.82rem; font-weight: 700; color: var(--text-1); display: block; }
+.dens-btn .dd { font-size: 0.62rem; color: var(--text-3); display: block; margin-top: 0.15rem; }
+.dens-btn.on { border-color: var(--blue); background: var(--blue-light); }
+.dens-btn.on .dc { color: var(--blue); }
+.out-grid { display: grid; grid-template-columns: 200px 1fr; gap: 1rem; align-items: start; }
+@media (max-width: 480px) { .out-grid { grid-template-columns: 1fr; } }
+.schematic-card { background: var(--surface); border: 1px solid var(--border); border-radius: 14px; padding: 1.1rem; display: flex; flex-direction: column; align-items: center; gap: 0.6rem; }
+.sc-label { font-size: 0.6rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text-3); align-self: flex-start; }
+.vals { display: flex; flex-direction: column; gap: 0.75rem; }
+.vcard { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 0.9rem 1.1rem; }
+.vcard-label { font-size: 0.6rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text-3); margin-bottom: 0.25rem; }
+.vcard-num { font-size: 2rem; font-weight: 900; font-variant-numeric: tabular-nums; line-height: 1; transition: color 0.35s; }
+.vcard-unit { font-size: 0.78rem; color: var(--text-2); margin-left: 0.2rem; }
+.bar-wrap { margin-top: 0.5rem; height: 5px; border-radius: 3px; background: var(--border); overflow: hidden; }
+.bar-fill { height: 100%; border-radius: 3px; transition: width 0.45s cubic-bezier(.4,0,.2,1), background 0.35s; }
+.interp-card { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 0.9rem 1.1rem; }
+.interp-label { font-size: 0.6rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text-3); margin-bottom: 0.35rem; }
+.interp-body { font-size: 0.78rem; color: var(--text-2); line-height: 1.6; }
+.footer { font-size: 0.68rem; color: var(--text-3); line-height: 1.55; text-align: center; padding-top: 0.75rem; border-top: 1px solid var(--border); }
+.footer strong { color: var(--text-2); }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div>
+    <div class="hd-eyebrow">ISQ ↔ 측방 변위 탐색기</div>
+    <div class="hd-title">픽스쳐 모빌리티와 공명주파수</div>
+    <div class="hd-sub">Sennerby &amp; Pagliani 2015 · Int J Oral Maxillofac Implants 30:564 · 15 N 측방력 인비트로 벤치</div>
+  </div>
+  <div class="card">
+    <div class="isq-row">
+      <div class="isq-big">
+        <div class="isq-big-label">ISQ</div>
+        <div class="isq-big-num" id="isqNum">62</div>
+      </div>
+      <div class="slider-col">
+        <div class="slider-bounds"><span>40</span><span id="sliderMid">62</span><span>85</span></div>
+        <input type="range" id="slider" min="40" max="85" value="62">
+        <div style="margin-top:0.55rem"><span class="stab-badge" id="stabBadge">중등도 안정성</span></div>
+      </div>
+    </div>
+    <div class="dens-section">
+      <div class="dens-label">골밀도 조건</div>
+      <div class="dens-btns" id="densRow">
+        <button class="dens-btn" data-d="high"><span class="dc">D1</span><span class="dd">치밀 피질골</span></button>
+        <button class="dens-btn on" data-d="med"><span class="dc">D2 / D3</span><span class="dd">혼합 · 중등도</span></button>
+        <button class="dens-btn" data-d="low"><span class="dc">D4</span><span class="dd">저밀도 해면골</span></button>
+      </div>
+    </div>
+  </div>
+  <div class="out-grid">
+    <div class="schematic-card">
+      <div class="sc-label">측정 모식도</div>
+      <svg viewBox="0 0 180 250" width="180" height="250" style="overflow:visible">
+        <defs>
+          <marker id="arr" markerWidth="6" markerHeight="5" refX="5" refY="2.5" orient="auto"><polygon points="0 0,6 2.5,0 5" fill="#1D4ED8"/></marker>
+          <marker id="arr-r" markerWidth="6" markerHeight="5" refX="5" refY="2.5" orient="auto"><polygon points="0 0,6 2.5,0 5" id="arrRPoly" fill="#EF4444"/></marker>
+          <linearGradient id="boneGrad" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#9A8070"/><stop offset="18%" stop-color="#C8B49A"/><stop offset="100%" stop-color="#D4C4AC"/></linearGradient>
+          <linearGradient id="tiGrad" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#607080"/><stop offset="40%" stop-color="#9AAABB"/><stop offset="100%" stop-color="#7A8A9A"/></linearGradient>
+        </defs>
+        <rect x="25" y="105" width="130" height="125" rx="5" fill="url(#boneGrad)" opacity="0.9"/>
+        <rect x="25" y="105" width="130" height="20" rx="4" fill="#9A8070"/>
+        <rect x="25" y="121" width="130" height="4" fill="#C8B49A"/>
+        <circle cx="55" cy="145" r="2.5" fill="#C0AE96" opacity="0.5"/>
+        <circle cx="75" cy="158" r="2" fill="#C0AE96" opacity="0.4"/>
+        <circle cx="95" cy="140" r="3" fill="#C0AE96" opacity="0.45"/>
+        <circle cx="115" cy="155" r="2.5" fill="#C0AE96" opacity="0.5"/>
+        <circle cx="60" cy="175" r="2" fill="#C0AE96" opacity="0.4"/>
+        <circle cx="120" cy="178" r="3" fill="#C0AE96" opacity="0.4"/>
+        <circle cx="80" cy="192" r="2.5" fill="#C0AE96" opacity="0.35"/>
+        <circle cx="108" cy="200" r="2" fill="#C0AE96" opacity="0.4"/>
+        <text x="90" y="220" text-anchor="middle" font-size="8.5" fill="#8B7560" font-family="-apple-system,sans-serif">피질골 + 해면골</text>
+        <g id="implantGrp" style="transform-origin:90px 218px;transform:rotate(0deg);transition:transform 0.45s cubic-bezier(.4,0,.2,1)">
+          <rect x="82" y="108" width="16" height="112" rx="2" fill="url(#tiGrad)"/>
+          <line x1="82" y1="118" x2="98" y2="118" stroke="#607080" stroke-width="0.8" opacity="0.7"/>
+          <line x1="82" y1="127" x2="98" y2="127" stroke="#607080" stroke-width="0.8" opacity="0.7"/>
+          <line x1="82" y1="136" x2="98" y2="136" stroke="#607080" stroke-width="0.8" opacity="0.7"/>
+          <line x1="82" y1="145" x2="98" y2="145" stroke="#607080" stroke-width="0.8" opacity="0.7"/>
+          <line x1="82" y1="154" x2="98" y2="154" stroke="#607080" stroke-width="0.8" opacity="0.7"/>
+          <line x1="82" y1="163" x2="98" y2="163" stroke="#607080" stroke-width="0.8" opacity="0.7"/>
+          <line x1="82" y1="172" x2="98" y2="172" stroke="#607080" stroke-width="0.8" opacity="0.7"/>
+          <line x1="82" y1="181" x2="98" y2="181" stroke="#607080" stroke-width="0.8" opacity="0.7"/>
+          <line x1="82" y1="190" x2="98" y2="190" stroke="#607080" stroke-width="0.8" opacity="0.7"/>
+          <line x1="82" y1="199" x2="98" y2="199" stroke="#607080" stroke-width="0.8" opacity="0.7"/>
+          <polygon points="82,218 98,218 90,228" fill="#607080"/>
+          <rect x="85" y="68" width="10" height="42" rx="1.5" fill="#4A5568"/>
+          <rect x="80" y="60" width="20" height="10" rx="2.5" fill="#334155"/>
+        </g>
+        <line x1="20" y1="74" x2="78" y2="74" stroke="#1D4ED8" stroke-width="2" marker-end="url(#arr)"/>
+        <text x="8" y="70" font-size="8" font-weight="700" fill="#1D4ED8" font-family="-apple-system,sans-serif">15N</text>
+        <line x1="90" y1="58" x2="90" y2="75" stroke="#CBD5E1" stroke-width="1" stroke-dasharray="3,2"/>
+        <line id="dispLineEl" x1="90" y1="62" x2="90" y2="62" stroke="#EF4444" stroke-width="1.5" marker-end="url(#arr-r)"/>
+        <text id="dispLabelEl" x="92" y="57" font-size="8" font-weight="700" fill="#EF4444" font-family="-apple-system,sans-serif"></text>
+      </svg>
+    </div>
+    <div class="vals">
+      <div class="vcard">
+        <div class="vcard-label">측방 변위</div>
+        <div><span class="vcard-num" id="dispNum">—</span><span class="vcard-unit">μm</span></div>
+        <div class="bar-wrap"><div class="bar-fill" id="barFill"></div></div>
+      </div>
+      <div class="vcard">
+        <div class="vcard-label">Flex Constant</div>
+        <div><span class="vcard-num" id="flexNum" style="font-size:1.7rem">—</span><span class="vcard-unit">μm / N</span></div>
+      </div>
+      <div class="interp-card">
+        <div class="interp-label">해석</div>
+        <div class="interp-body" id="interpBody">ISQ 슬라이더를 조정하면 각 조건의 예상 변위가 계산됩니다.</div>
+      </div>
+    </div>
+  </div>
+  <div class="footer">
+    <strong>개념적 시뮬레이션</strong> — Sennerby &amp; Pagliani 2015의 연구 설계(소 골 블록·15 N·ISQ+변위 동시 측정)를 기반으로 하되,
+    원문 abstract에 개별 수치가 공개되지 않아 <strong>방향성(ISQ↑ → 변위↓, D4에서 차이 현저)</strong>을 반영한 추정값입니다.
+    임상 결정에 직접 사용하지 마세요.
+  </div>
+</div>
+<script>
+const slider=document.getElementById('slider'),isqNum=document.getElementById('isqNum'),sliderMid=document.getElementById('sliderMid'),stabBadge=document.getElementById('stabBadge'),dispNum=document.getElementById('dispNum'),flexNum=document.getElementById('flexNum'),barFill=document.getElementById('barFill'),interpBody=document.getElementById('interpBody'),implantGrp=document.getElementById('implantGrp'),dispLineEl=document.getElementById('dispLineEl'),dispLabelEl=document.getElementById('dispLabelEl'),densRow=document.getElementById('densRow'),arrRPoly=document.getElementById('arrRPoly');
+let density='med';
+const FORCE=15,BASE=38;
+const dFactor={high:0.32,med:0.62,low:1.0};
+const dNames={high:'D1 (치밀 피질골)',med:'D2/D3 (중등도)',low:'D4 (저밀도 해면골)'};
+function calcDisp(isq,d){return Math.round(BASE/(1+3.4*(isq-40)/45)*dFactor[d]*10)/10;}
+function tier(d){return d<7.5?'good':d<17?'warn':'bad';}
+const C={good:{text:'var(--good)',bg:'var(--good-bg)',bar:'var(--good-bar)',badge:'#D1FAE5',badgeText:'#065F46'},warn:{text:'var(--warn)',bg:'var(--warn-bg)',bar:'var(--warn-bar)',badge:'#FEF3C7',badgeText:'#92400E'},bad:{text:'var(--bad)',bg:'var(--bad-bg)',bar:'var(--bad-bar)',badge:'#FEE2E2',badgeText:'#991B1B'}};
+function stabText(i){return i>=70?'높은 안정성':i>=55?'중등도 안정성':'낮은 안정성 ⚠';}
+function interpText(isq,disp,d){
+  const dn=dNames[d];
+  if(isq>=70&&d==='high')return `${dn}에서 ISQ ${isq}: 최고 수준 1차 안정성. 변위 ${disp}μm — 테이퍼형·일반형 디자인 차이 소멸. 즉시 부하 구간.`;
+  if(isq>=70&&d==='low')return `${dn}에서도 ISQ ${isq}: 테이퍼+테이퍼 드릴 프로토콜이 저밀도 불리함 보완. 변위 ${disp}μm.`;
+  if(isq>=55&&d==='low')return `${dn}, ISQ ${isq}: 두 디자인 간 차이가 가장 큰 영역(Sennerby 2015). 변위 ${disp}μm — 임플란트 매크로디자인 선택이 중요.`;
+  if(isq<50)return `ISQ ${isq} (${dn}): 변위 ${disp}μm — 높은 모빌리티 위험. 즉시 부하 금기, 골조건 재평가 필요.`;
+  return `ISQ ${isq} (${dn}): 변위 ${disp}μm, flex constant ${(disp/FORCE).toFixed(2)} μm/N. 낮을수록 픽스쳐 강성 높음.`;
+}
+function update(){
+  const isq=+slider.value,disp=calcDisp(isq,density),flex=(disp/FORCE).toFixed(2),t=tier(disp),c=C[t],pct=((isq-40)/45*100).toFixed(1)+'%';
+  isqNum.textContent=isq; isqNum.style.color=c.text;
+  sliderMid.textContent=isq;
+  slider.style.setProperty('--fill',pct);
+  stabBadge.textContent=stabText(isq); stabBadge.style.background=c.badge; stabBadge.style.color=c.badgeText;
+  dispNum.textContent=disp.toFixed(1); dispNum.style.color=c.text;
+  flexNum.textContent=flex; flexNum.style.color=c.text;
+  barFill.style.width=Math.min(disp/(BASE*dFactor['low'])*100,100).toFixed(1)+'%'; barFill.style.background=c.bar;
+  interpBody.textContent=interpText(isq,disp,density);
+  implantGrp.style.transform=`rotate(${(disp/(BASE*1.05)*6.5).toFixed(2)}deg)`;
+  const px=Math.min(disp*0.65,28);
+  dispLineEl.setAttribute('x2',(90+px).toFixed(1)); dispLineEl.setAttribute('y2','64');
+  dispLineEl.setAttribute('stroke',c.text);
+  dispLabelEl.setAttribute('x',(93+px).toFixed(1)); dispLabelEl.textContent=disp.toFixed(1)+'μm'; dispLabelEl.setAttribute('fill',c.text);
+  arrRPoly.setAttribute('fill',c.text);
+}
+slider.addEventListener('input',update);
+densRow.addEventListener('click',e=>{const b=e.target.closest('.dens-btn');if(!b)return;densRow.querySelectorAll('.dens-btn').forEach(x=>x.classList.remove('on'));b.classList.add('on');density=b.dataset.d;update();});
+update();
+</script>
+</body>
+</html>
