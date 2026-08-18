@@ -4024,6 +4024,10 @@ tags: []
 
 ### implants/isq
 - [[implants/isq/gu-2025-inter-rater-reliability-implant-stability]] — Multi-method inter-rater reliability of ISQ measurements: ICC and agreement analysis (2025)
+- [[implants/isq/parmar-2024-dependability-osstell-isq-measuring]] — Cross-sectional (n=60 implants, 18 patients): Osstell ISQ ICC=0.96 for SmartPeg Type I & II; repeatability/reproducibility 0.96 in clinical setting (Parmar 2024)
+- [[implants/isq/nakashima-2021-laser-rfa-pedicle-screw-stability]] — In-vitro/cadaveric: laser RFA for pedicle screw fixation; RF–ISQ linear correlation R=0.981, RF–pull-out force R=0.931 in model bone (Nakashima 2021)
+- [[implants/isq/kim-2026-ist-versus-isq-reliability-inter-examiner]] — Controlled lab (7 hygienists, 3 bone models): Anycheck IST vs Osstell ISQ; ICC>0.90 and r>0.85 for both, experience-level independent (Kim & Kahm 2026)
+- [[implants/isq/rosasdiaz-2024-insertion-compression-primary-stability]] — In-vitro (n=120, type II-A bone): under-milling 0.2/0.5/0.8mm increases ITV (25→63 Ncm, p<0.001) but ISQ unchanged (67.6 vs 65.7, p=0.166) — ITV–ISQ dissociation (Rosas-Díaz 2024)
 
 ### implants/short-narrow
 - [[implants/short-narrow/lombardo-2022-short-ultrashort-implants-internal-sinus-lift]] — 5-year retrospective: short/ultra-short implants with simultaneous internal sinus lift in atrophic maxilla (2022)
