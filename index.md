@@ -1366,6 +1366,7 @@ tags: []
 - [[orthodontics/jahanbin-2025-reused-miniscrew-stability-sr-ma]] — SR+MA (19편): 재사용 미니스크류 체외 토크 유의차 없음; 임상 실패율 유의하게 높음 (RR 0.46); 멸균·술기·해부 영향.
 - [[orthodontics/jkda-2023-61-6-003]] — Retrospective (가천대 길병원 교정과, JKDA 2023, n=438, 570 cases): 한국 매복치 환자 분포·상악 매복 견치 견인 성공률·치료기간 인자
 - [[orthodontics/scribante-2017-dental-hygiene-orthodontics-effect]] — Scribante 2017 · in-vitro (소 치아 200개) · 초음파 스케일링(UI)이 설측 교정 브라켓 4종 결합강도(SBS)·ARI에 미치는 영향 — 베이스 면적 작은 브라켓(TTR·Idea·2D)은 SBS 유의감소(일부 6-8MPa 미만), 큰 브라켓(Victory·STB)은 무영향 (DOI 10.1155/2017/3714651)
+- [[orthodontics/zhao-2025-periodontal-ligament-stem-cells-tissue]] — PDLSCs의 기계적 힘(교정력)·염증 반응에 의한 치조골 리모델링 기전 종합 리뷰: 기계수용(TRPV4·Piezo1)·면역조절(T세포·대식세포·exosome) 경로 망라
 
 ## 재생근관치료 (Endodontics: Regenerative)
 - [[endodontics/regenerative/zhou-2022-regenerative-endodontic-immature-teeth-trauma]] — Narrative review (Front Dent Med 2022): REP in traumatized IPT — apexification vs REP goal distinction; partial pulpotomy/revascularization approaches; heterogeneous evidence from case reports
@@ -2571,6 +2572,7 @@ tags: []
 
 ### occlusion — 치아 마모 수복공간 확보 (added 2026-07-17)
 - [[overviews/tooth-wear-vdo-space-creation-overview]] — **NEW Overview (2026-07-17, 10편)**: 마모 치열의 수복공간 종합 — **첫 질문은 "고경을 얼마나 올릴까"가 아니라 "고경이 상실되긴 했는가"**(마모 ≠ 고경 상실). 공간은 네 축에서 얻는다: ①절단연(Dahl)·②전악(반부가형 VDO 거상)·③근단(치관연장술)·④교정적 압하 — **근거 경사가 직관을 뒤집는다**: 유일한 SR+MA를 가진 축이 **고경을 안 건드리는 ①번**(fan-2026: 후방교합 완전재확립 86.9%, 간접 AFR 0–0.7% vs 직접 0–8.7% P<.05, 단 추적 1.7–2.2 vs 1.3–7년 교란), ②는 후향 n=8·전향 n=20(ferrando 5년 90.1%이나 **교합면 비니어만 79.1%**·후방위치 HR 0.143 p=0.008 유일 유의인자·재료 무의미), ③은 **증례 1건**(alam-2024는 크라운변연 SCTA 침범 케이스지 마모 아님), ④는 **논문 0편**(Rule #4). 진단 도구(자유공극 2–4mm·발음공간 1–2mm)는 **총의치 맥락 외삽**임을 명시. TMJ 안전성 **상충**: 쥐에서 OVD거상 > 교합상실 연골손상(wang-2024) vs 임상 CBCT +2mm·1년 변화0(zhang-2024 n=12); **"Abduo ≤5mm"는 원논문 미보유 — 인용의 인용**. **결정적 경계: Cochrane이 TMD 목적 비가역적 교합처치에 강한 반대 권고**(singh-2024) → 마모수복 정당화는 심미·기능·구조보존이지 관절치료가 아님. 역설: 이갈이·거상은 실패와 무관(Milosevic n=164·8년), 위험인자는 **후방/교합면 위치**. 검증은 접촉 **개수 금지**(biren-2025: 개수 불변·위치 이동, 가상안궁 무효)
+- [[occlusion/nicolae-2025-cross-sectional-study-occlusal]] — OccluSense 디지털 교합분석으로 편위성 교합접촉치의 높은 교합부하(mean 208)와 치주 손상 연관성을 확인한 단면 연구
 
 ## 국소마취·진정 (Local Anesthesia / Sedation)
 - [[overviews/local-anesthesia-category-synthesis-overview]] — Category Synthesis (37편, 2026): 6개 테마 클러스터(하악마취·완충제·해부학적실패·컴퓨터전달·표면마취·합병증) 허브 — 핵심: IANB 단독 hot tooth 실패율 높음, 4% articaine 협측침윤(RR 1.06)·보충(RR 2.02)·이부프로펜 전투약(성공률 20→79%) 순차 대응
@@ -2677,6 +2679,7 @@ tags: []
 **포터블·핸드헬드 구내 X-ray**
 - [[radiology/geibel-2025-mobile-handheld-radiography-quality-nursing-home]] — Geibel 2025 (prospective, Gerodontology, PMC full text): 요양원 방문진료 핸드헬드(Nomad Pro 2) 구내촬영 127장 — 80% 결함없음, 86% 진단가능, 우연소견 61%(치근단 골용해 등) — 고정형 대비 화질 동등
 - [[radiology/ruiz-2025-handheld-fixed-xray-image-quality-comparison]] — Ruiz 2025 (in-vitro, Braz Dent J, PMC full text): 핸드헬드(Eagle) vs 고정형(Focus) 구내 X-ray 객관적 화질 비교 — 핸드헬드가 밝기↑·대비↓(p<0.0001, 센서 무관), 노이즈는 센서에 따라 상반, 균일도는 무차이
+- [[radiology/dewake-2023-mri-occlusal-trauma-pdl]] — T2 강조 IDEAL MRI 치주인대강 신호강도로 교합외상 정량 진단 (ρ = 0.529, n=20)
 
 ## Chairside 인터렉티브 (Interactive Tools)
 
