@@ -3667,6 +3667,7 @@ tags: []
 - [[implants/isq/ayub-2025-implant-macro-geometry-primary-stability-low-density]] — Ayub 2025 · in-vitro · 36-implant polyurethane test; Zimmer TSV highest IT/RT, Dentium Superline highest ISQ in bone types 3–4 (all p<0.001)
 - [[implants/khaohoen-2023-biomaterials-dental-implants-bone-density-narrative-review]] — Khaohoen 2023 · narrative-review · In low-density (D3–D4) bone, implant material (Ti gold standard), geometry, and surgical technique (osseodensification) jointly govern primary stability and success
 - [[implants/osteotomy-thermal/chen-2022-reverse-drilling-technique-alveolar-ridge-expansion]] — Chen 2022 · in-vitro · Reverse (counter-clockwise) Densah osseodensification drilling expands narrow (6.75 mm) ridges but seats implants shallower from bone stress/rebound
+- [[implants/osteotomy-thermal/einafshar-2024-importance-precision-cortical-bone-drilling]] — 피질골 천공 시 드릴 초기온도 5°C 냉각으로 MT −26.14%, 끝각·스핀들 속도 최적화로 열 괴사 위험 감소 (FEA+실험 통합, 2024)
 - [[implants/osseodensification/guner-2025-osseodensification-ridge-split-implant-stability]] — Guner 2025 · retrospective · OD vs conventional Esset kit in ridge-split (n=268, 65 pts): OD significantly higher ISQ in maxilla & mandibular posterior (all OD ≥65); bone gain equivalent
 - [[implants/osseodensification/mercier-2022-osseodensification-primary-stability-cadavers]] — Mercier 2022 · in-vitro · Cadaveric mandibles (21, 58 implants): OD significantly raised IT (34.9 vs 23.6 Ncm, p=0.036) & bone density (p=0.026); OD IT ≈ Rittipakorn OD IT (34.0)
 - [[implants/osseodensification/koutouzis-2025-osteotomy-preparation-short-implants-stability]] — Koutouzis 2025 · animal · Porcine tibia, 90 short 6mm implants: OD IT benefit only for wide (5.4mm) implants (50.0 vs 28.0 Ncm, p=0.005); narrow (4.2mm) no advantage; histomorphometry unchanged
@@ -3790,6 +3791,7 @@ tags: []
 ### New batch — 2026-07-10 ingest (지르코니아 어버트먼트 · PMC full-text)
 - [[implants/soft-tissue/barwacz-2024-cadcam-abutment-morphology-implant-outcomes]] — Barwacz 2024 · rct(n=54/60, 1년) · CAD/CAM 지르코니아 지대주 오목(concave) vs 선형발산(linear divergent) 형태 — 점막정점·연조직두께·KMW·MBL·PD·BOP 모두 군간 유의차 없음(임플란트 생존율 100%)
 - [[prosthetic-materials/abutment-screw/sterzenbach-2025-hybrid-abutment-crowns-zirconia-titanium-implants]] — Sterzenbach 2025 · rct(n=60, 3년) · 투피스 지르코니아 vs 티타늄 임플란트 스크류 하이브리드 어버트먼트 크라운 — 지르코니아군 누적생존 티타늄(100%)보다 10.7%↓로 비열등성 미입증(골유착 부전 원인), 보철 기술적 실패는 0건
+- [[prosthetic-materials/abutment-screw/arul-2026-comparative-evaluation-of-abutment-screw]] — 나사락커(메타크릴레이트 vs 이메타크릴레이트 vs 대조) 체외 비교: 메타크릴레이트 최고 해제 토크(정적 36.46, 동적 33.22 Ncm), 반복하중 시 전 군 감소(P<0.0005)
 - [[implants/soft-tissue/bressan-2024-iao-consensus-peri-implant-soft-tissues]] — Bressan 2024 · consensus(IAO, 4개 SR) · 골막상 각화점막은 주위염·심미·청소용이성에 유리(골흡수 방지엔 무관), 각화점막 증대는 FGG·두께 증대는 CTG 최선, 티타늄/지르코니아 지대주 연조직 건강 차이 없음(MBL 영향은 미해결)
 - [[implants/soft-tissue/jung-2021-flap-folding-suture-soft-tissue-implant]] — Jung 2021 · rct(n=15명/18임플란트, 3개월) · 파라마진 판막 + 플랩 폴딩 봉합술(FFS) vs 단순봉합술 — FFS군 3개월 연조직 부피 높은 경향(14.8 mm³ vs 8.7 mm³)이나 통계적 유의성 없음(P=0.262); 이식재 없이 연조직 부피 유지 가능성 시사하는 파일럿 RCT
 - [[implants/soft-tissue/wang-2024-mrarf-modified-roll-envelope-apf-implant]] — Wang 2024 · case-report(n=4) · MRARF(Modified Roll Envelope + APF) — 2차 수술 시 KM 폭·두께 동시 증강, 이식재 병용, 조화로운 심미 결과
@@ -4032,6 +4034,7 @@ tags: []
 - [[implants/isq/pagliani-2013-rfa-lateral-displacement]] — 소 골 블록 in vitro(n=30부위): RFA↑ ↔ 측방 변위↓ (P≤0.001), 양쪽 모두 CBCT 골밀도와 유의 상관 — ISQ는 미세이동성(micromobility)의 대리지표
 - [[implants/isq/brizuela-velasco-2015-insertion-torque-isq-micromobility]] — IT vs ISQ vs 임플란트 미세운동 체외 연구: ISQ-미세운동 역선형(r=0.91), IT-미세운동 역지수(R²=0.78), IT 임계값 ~34 N·cm 미만 급증, IT-ISQ 직접 유의 상관(R²=0.73)
 - [[implants/isq/alimoradi-2024-acoustic-modal-analysis]] — 마이크+FFT 음향모달해석(AMA)이 Osstell ISQ와 R²=0.93 선형 상관; 밀도 2배 시 NF 82% 상승(1219→2239 Hz) vs ISQ 47% — AMA가 더 민감 (PU 골유사체 인비트로)
+- [[implants/isq/ceddia-2025-finite-element-analysis-of-implant]] — FEA로 Cyroth 임플란트 경사(0°·15°·20°)별 ISQ 예측 검증: 실측치 대비 오차 ≤2.86%, 경사 증가 시 ISQ 소폭 상승(D2 60.96→61.10; D3 55.68→55.90)·피질골 응력 55.4→68.4 MPa
 
 ### implants/short-narrow
 - [[implants/short-narrow/lombardo-2022-short-ultrashort-implants-internal-sinus-lift]] — 5-year retrospective: short/ultra-short implants with simultaneous internal sinus lift in atrophic maxilla (2022)
@@ -4143,3 +4146,9 @@ tags: []
 
 ### oral-surgery/third-molar
 - [[oral-surgery/third-molar/canellas-2020-intrasocket-ao-third-molar-sr-nma]] — Canellas 2020 · sr+ma · 치조내 중재로 사랑니 발치 후 건성치조 예방 (RR = 0.39, p < 0.0001) (DOI 10.1016/j.jcms.2020.06.012)
+
+## Batch ingest (added 2026-08-18) — implants FEA / biomechanics
+
+### implants
+- [[implants/qiu-2024-comprehensive-biomechanical-evaluation-length-diameter]] — FEA SR 40편(2003–2023): 직경이 길이보다 응력 감소에 더 중요, 짧고 굵은 임플란트가 길고 가는 임플란트보다 낮은 피질골·치조정 응력 발생
+- [[implants/ceddia-2025-crestal-position-splinted-implant-fea]] — 3개 임플란트 연결 보철물의 수직 플랫폼 정렬(치조정·치조하)이 골-임플란트 계면 응력에 미치는 영향 FEA: 혼합 구성 B 경사 하중 시 피질골 응력 ~116 MPa(생리적 한계 근접), 전 치조하 구성 D에서 32 MPa로 최소 (Ceddia 2025)
