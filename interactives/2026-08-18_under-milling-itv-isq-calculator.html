@@ -1,0 +1,320 @@
+<!--
+---
+title: "Under-milling ITV·ISQ 예측기 — Rosas-Díaz 2024"
+type: interactive
+date: 2026-08-18
+status: done
+category: implant-stability
+source_wiki:
+  - wiki/implants/isq/rosasdiaz-2024-insertion-compression-primary-stability.md
+  - wiki/overviews/isq-loading-threshold.md
+notes: |
+  Rosas-Díaz 2024 (Biomedicines 12:2878) 근거.
+  Type II-A 폴리우레탄 블록 · n=120 임플란트.
+  Under-milling 0.2mm: ITV 25.1±8.3 Ncm / ISQ 67.6±5.4
+  Under-milling 0.5mm: ITV 추정 ~42 Ncm (선형보간) / ISQ 65.8±3.4
+  Under-milling 0.8mm: ITV 63.2±14.9 Ncm / ISQ 65.7±4.0
+  핵심: ISQ는 프로토콜 무관 p=0.166 — ITV·ISQ 해리 시각화.
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Under-milling ITV·ISQ 예측기</title>
+<style>
+:root {
+  --bg: #F1F5F9;
+  --surface: #FFFFFF;
+  --surface-2: #F8FAFC;
+  --border: #E2E8F0;
+  --text-1: #0F172A;
+  --text-2: #475569;
+  --text-3: #94A3B8;
+  --blue: #1D4ED8;
+  --blue-light: #EFF6FF;
+  --blue-mid: #3B82F6;
+  --orange: #C2410C;
+  --orange-light: #FFF7ED;
+  --orange-mid: #F97316;
+  --green: #15803D;
+  --green-light: #F0FDF4;
+  --green-mid: #22C55E;
+  --amber: #B45309;
+  --amber-light: #FFFBEB;
+  --amber-mid: #F59E0B;
+  --radius: 14px;
+  --radius-sm: 9px;
+}
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  background: var(--bg);
+  color: var(--text-1);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+  font-size: 15px;
+  line-height: 1.55;
+  padding: 1.75rem 1.25rem 3rem;
+  -webkit-font-smoothing: antialiased;
+}
+.wrap { max-width: 660px; margin: 0 auto; display: flex; flex-direction: column; gap: 1rem; }
+
+.hdr { padding: 0.25rem 0 0.5rem; }
+.eyebrow { font-size: 0.65rem; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: var(--blue-mid); margin-bottom: 0.35rem; }
+.hdr h1 { font-size: 1.3rem; font-weight: 800; letter-spacing: -0.025em; line-height: 1.2; }
+.hdr-sub { font-size: 0.72rem; color: var(--text-3); margin-top: 0.35rem; }
+
+.card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 1.25rem 1.5rem; }
+.card-label { font-size: 0.62rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text-3); margin-bottom: 0.9rem; }
+
+/* Protocol selector */
+.proto-row { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 0.6rem; }
+.proto-btn {
+  border: 1.5px solid var(--border);
+  border-radius: var(--radius-sm);
+  background: var(--surface-2);
+  cursor: pointer;
+  padding: 0.8rem 0.6rem 0.7rem;
+  text-align: center;
+  font-family: inherit;
+  transition: border-color 0.15s, background 0.15s;
+  line-height: 1.25;
+}
+.proto-btn:hover { border-color: #94A3B8; }
+.proto-btn.on { border-color: var(--orange-mid); background: var(--orange-light); }
+.proto-mm { font-size: 1.5rem; font-weight: 900; color: var(--text-2); display: block; transition: color 0.15s; }
+.proto-btn.on .proto-mm { color: var(--orange); }
+.proto-unit { font-size: 0.65rem; color: var(--text-3); display: block; }
+.proto-label { font-size: 0.68rem; font-weight: 600; color: var(--text-2); display: block; margin-top: 0.2rem; }
+.proto-btn.on .proto-label { color: var(--orange); }
+
+/* Output grid */
+.out-section { margin-top: 0.25rem; }
+.metric-row { display: grid; grid-template-columns: 1fr 1fr; gap: 0.75rem; }
+.metric-card { border: 1.5px solid var(--border); border-radius: var(--radius-sm); padding: 1rem 1.1rem; }
+.metric-tag { font-size: 0.6rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; margin-bottom: 0.2rem; }
+.metric-name { font-size: 0.82rem; font-weight: 700; color: var(--text-1); }
+.metric-val { font-size: 2.4rem; font-weight: 900; font-variant-numeric: tabular-nums; line-height: 1; margin: 0.4rem 0 0.1rem; transition: color 0.4s; }
+.metric-unit { font-size: 0.72rem; color: var(--text-3); }
+.metric-sd { font-size: 0.75rem; color: var(--text-2); margin-top: 0.1rem; font-variant-numeric: tabular-nums; }
+.metric-bar-wrap { margin-top: 0.7rem; background: var(--border); border-radius: 3px; height: 6px; overflow: hidden; }
+.metric-bar { height: 100%; border-radius: 3px; transition: width 0.55s cubic-bezier(0.34,1.56,0.64,1), background 0.4s; }
+
+/* ITV card */
+.itv-card .metric-tag { color: var(--orange); }
+.itv-card .metric-val { color: var(--orange); }
+.itv-card .metric-bar { background: var(--orange-mid); }
+/* ISQ card */
+.isq-card .metric-tag { color: var(--blue); }
+.isq-card .metric-val { color: var(--blue); }
+.isq-card .metric-bar { background: var(--blue-mid); }
+
+/* Dissociation box */
+.dissoc { border-radius: var(--radius); padding: 1rem 1.2rem; border: 1.5px solid var(--border); background: var(--surface-2); transition: background 0.35s, border-color 0.35s; }
+.dissoc.show-warn { background: var(--amber-light); border-color: var(--amber-mid); }
+.dissoc-badge { font-size: 0.62rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text-3); display: inline-block; padding: 0.15rem 0.55rem; border-radius: 99px; background: var(--border); margin-bottom: 0.5rem; transition: background 0.35s, color 0.35s; }
+.dissoc.show-warn .dissoc-badge { background: var(--amber-mid); color: #fff; }
+.dissoc-title { font-size: 0.95rem; font-weight: 800; color: var(--text-1); margin-bottom: 0.35rem; }
+.dissoc-body { font-size: 0.8rem; color: var(--text-2); }
+
+/* Visual chart */
+.chart-section { }
+.chart-title { font-size: 0.72rem; font-weight: 700; color: var(--text-2); margin-bottom: 0.75rem; }
+.chart-wrap { position: relative; height: 130px; display: flex; align-items: flex-end; gap: 0.5rem; padding: 0 0.25rem; }
+.chart-col { flex: 1; display: flex; flex-direction: column; align-items: center; gap: 0.3rem; position: relative; }
+.bar-pair { width: 100%; display: flex; gap: 4px; align-items: flex-end; height: 100px; }
+.bar-itv { flex: 1; border-radius: 5px 5px 0 0; background: var(--orange-mid); transition: height 0.55s cubic-bezier(0.34,1.56,0.64,1); opacity: 0.85; min-height: 4px; }
+.bar-isq { flex: 1; border-radius: 5px 5px 0 0; background: var(--blue-mid); transition: height 0.55s cubic-bezier(0.34,1.56,0.64,1); opacity: 0.75; min-height: 4px; }
+.bar-active .bar-itv { opacity: 1; box-shadow: 0 2px 8px rgba(249,115,22,0.4); }
+.bar-active .bar-isq { opacity: 1; box-shadow: 0 2px 8px rgba(59,130,246,0.3); }
+.chart-xlabel { font-size: 0.65rem; font-weight: 600; color: var(--text-3); }
+.chart-col.active .chart-xlabel { color: var(--orange); }
+.chart-legend { display: flex; gap: 1rem; margin-top: 0.5rem; }
+.legend-item { display: flex; align-items: center; gap: 0.35rem; font-size: 0.68rem; color: var(--text-2); }
+.legend-dot { width: 10px; height: 10px; border-radius: 2px; }
+
+/* Reference line */
+.ref-line { position: absolute; left: 0; right: 0; border-top: 1.5px dashed var(--border); pointer-events: none; }
+.ref-label { position: absolute; right: 0; font-size: 0.58rem; color: var(--text-3); transform: translateY(-50%); background: var(--surface); padding: 0 2px; }
+
+hr.divider { border: none; border-top: 1px solid var(--border); }
+
+.evidence { font-size: 0.72rem; color: var(--text-3); border-left: 3px solid var(--border); padding: 0.5rem 0.75rem; background: var(--surface-2); border-radius: 0 var(--radius-sm) var(--radius-sm) 0; }
+.evidence strong { color: var(--text-2); }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <div class="hdr">
+    <div class="eyebrow">ITV·ISQ 예측기 · Rosas-Díaz 2024</div>
+    <h1>Under-milling 프로토콜<br>ITV vs ISQ 해리 시각화</h1>
+    <div class="hdr-sub">Under-milling 정도 선택 → 예상 삽입 토크값(ITV, ISQ) 및 핵심 메시지 표시</div>
+  </div>
+
+  <!-- Protocol selector -->
+  <div class="card">
+    <div class="card-label">Under-milling 프로토콜 선택 (골질: Type II-A)</div>
+    <div class="proto-row">
+      <button class="proto-btn" onclick="selectProto('0.2')" id="btn02">
+        <span class="proto-mm">0.2</span>
+        <span class="proto-unit">mm</span>
+        <span class="proto-label">최소 압축</span>
+      </button>
+      <button class="proto-btn" onclick="selectProto('0.5')" id="btn05">
+        <span class="proto-mm">0.5</span>
+        <span class="proto-unit">mm</span>
+        <span class="proto-label">중간 압축</span>
+      </button>
+      <button class="proto-btn" onclick="selectProto('0.8')" id="btn08">
+        <span class="proto-mm">0.8</span>
+        <span class="proto-unit">mm</span>
+        <span class="proto-label">최대 압축</span>
+      </button>
+    </div>
+  </div>
+
+  <!-- Metric output -->
+  <div class="out-section">
+    <div class="metric-row">
+      <div class="metric-card itv-card">
+        <div class="metric-tag">삽입 토크값 (ITV)</div>
+        <div class="metric-name">삽입 저항</div>
+        <div class="metric-val" id="itvVal">—</div>
+        <div class="metric-unit">Ncm</div>
+        <div class="metric-sd" id="itvSd"></div>
+        <div class="metric-bar-wrap"><div class="metric-bar" id="itvBar" style="width:0%"></div></div>
+      </div>
+      <div class="metric-card isq-card">
+        <div class="metric-tag">임플란트 안정성 지수 (ISQ)</div>
+        <div class="metric-name">공진주파수 안정성</div>
+        <div class="metric-val" id="isqVal">—</div>
+        <div class="metric-unit">ISQ (0–100)</div>
+        <div class="metric-sd" id="isqSd"></div>
+        <div class="metric-bar-wrap"><div class="metric-bar" id="isqBar" style="width:0%"></div></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Dissociation message -->
+  <div class="dissoc" id="dissocBox">
+    <div class="dissoc-badge" id="dissocBadge">프로토콜 선택 대기</div>
+    <div class="dissoc-title" id="dissocTitle">프로토콜을 선택하면 임상 해석이 나타납니다</div>
+    <div class="dissoc-body" id="dissocBody"></div>
+  </div>
+
+  <!-- Bar chart -->
+  <div class="card chart-section">
+    <div class="card-label">3 프로토콜 비교 — ITV(주황) vs ISQ(파랑)</div>
+    <div class="chart-wrap" id="chartWrap">
+
+      <!-- col 0.2 -->
+      <div class="chart-col" id="col02">
+        <div class="bar-pair">
+          <!-- ITV max ~63, normalize to 100px -->
+          <div class="bar-itv" id="bItv02" style="height:40px"></div>
+          <div class="bar-isq" id="bIsq02" style="height:82px"></div>
+        </div>
+        <div class="chart-xlabel">0.2mm</div>
+      </div>
+
+      <!-- col 0.5 -->
+      <div class="chart-col" id="col05">
+        <div class="bar-pair">
+          <div class="bar-itv" id="bItv05" style="height:67px"></div>
+          <div class="bar-isq" id="bIsq05" style="height:80px"></div>
+        </div>
+        <div class="chart-xlabel">0.5mm</div>
+      </div>
+
+      <!-- col 0.8 -->
+      <div class="chart-col" id="col08">
+        <div class="bar-pair">
+          <div class="bar-itv" id="bItv08" style="height:100px"></div>
+          <div class="bar-isq" id="bIsq08" style="height:80px"></div>
+        </div>
+        <div class="chart-xlabel">0.8mm</div>
+      </div>
+
+    </div>
+    <div class="chart-legend">
+      <div class="legend-item"><div class="legend-dot" style="background:var(--orange-mid)"></div>ITV (Ncm 정규화)</div>
+      <div class="legend-item"><div class="legend-dot" style="background:var(--blue-mid)"></div>ISQ (변화 미미 — p=0.166)</div>
+    </div>
+  </div>
+
+  <hr class="divider">
+  <div class="evidence">
+    <strong>근거 (Rosas-Díaz et al. 2024, Biomedicines 12:2878)</strong><br>
+    In vitro · 폴리우레탄 Type II-A 골질 · n=120 임플란트(Ø 3.5–5.0 mm, L 8.5–15.0 mm). ITV: p&lt;0.001 (프로토콜 간 유의차). ISQ: p=0.166 (유의차 없음). MANOVA ηp²=0.639 — 압축 프로토콜이 ITV+ISQ 변동의 63.9% 설명. ※ 0.5mm ITV는 논문 추출값 없어 선형보간 추정치.
+  </div>
+
+</div>
+
+<script>
+const DATA = {
+  '0.2': { itv: 25.1, itvSd: '±8.3 Ncm', isq: 67.6, isqSd: '±5.4 ISQ', itvPct: 40 },
+  '0.5': { itv: 42,   itvSd: '~42 Ncm (추정)', isq: 65.8, isqSd: '±3.4 ISQ', itvPct: 67 },
+  '0.8': { itv: 63.2, itvSd: '±14.9 Ncm', isq: 65.7, isqSd: '±4.0 ISQ', itvPct: 100 },
+};
+
+const MSG = {
+  '0.2': {
+    cls: '',
+    badge: '최소 압축',
+    title: 'ITV 낮지만 ISQ는 충분 — 과압축이 불필요함',
+    body: '0.2mm under-milling에서도 ISQ 67.6은 로딩 임계값(≥65~70) 범위 내. ITV가 낮다고 즉시로딩을 포기할 필요 없음 — ISQ를 우선 기준으로 삼아야.'
+  },
+  '0.5': {
+    cls: '',
+    badge: '중간 압축 (추정치)',
+    title: 'ITV 중간 상승 — ISQ 변화 거의 없음',
+    body: '0.5mm 프로토콜에서 ITV는 약 2배 상승하지만 ISQ는 65.8로 거의 동일(p=0.166). 압축이 토크 수치를 올릴 뿐 RFA 측정 안정성을 비례 향상하지 않음.'
+  },
+  '0.8': {
+    cls: 'show-warn',
+    badge: '⚠ 최대 압축 주의',
+    title: 'ITV 2.5× 증가 — ISQ는 그대로 · 과압축 위험',
+    body: '0.8mm에서 ITV 63.2 Ncm이지만 ISQ 65.7로 0.2mm(67.6)과 사실상 동일(p=0.166). 높은 ITV가 ISQ 안정성을 보장하지 않으며, 과압축은 골괴사·초기 실패 위험을 높일 수 있음. 로딩 결정은 ISQ 기준으로.'
+  }
+};
+
+let current = null;
+
+function selectProto(proto) {
+  current = proto;
+  ['02','05','08'].forEach(id => {
+    document.getElementById('btn0'+id[1]).classList.remove('on');
+    document.getElementById('col0'+id[1]).classList.remove('active');
+  });
+  document.getElementById('btn0'+proto.replace('0.','').replace('.','')[1] || proto.replace('.','')[1]).classList.add('on');
+
+  const btnId = 'btn0' + proto.split('.')[1];
+  document.getElementById(btnId).classList.add('on');
+
+  const colId = 'col0' + proto.split('.')[1];
+  document.getElementById(colId).classList.add('active');
+
+  const d = DATA[proto];
+  const m = MSG[proto];
+
+  // Numbers
+  document.getElementById('itvVal').textContent = proto === '0.5' ? '~42' : d.itv;
+  document.getElementById('itvSd').textContent = d.itvSd;
+  document.getElementById('isqVal').textContent = d.isq;
+  document.getElementById('isqSd').textContent = d.isqSd;
+
+  // Bars
+  document.getElementById('itvBar').style.width = d.itvPct + '%';
+  document.getElementById('isqBar').style.width = (d.isq / 100 * 100) + '%';
+
+  // Dissociation message
+  const box = document.getElementById('dissocBox');
+  box.className = 'dissoc' + (m.cls ? ' ' + m.cls : '');
+  document.getElementById('dissocBadge').textContent = m.badge;
+  document.getElementById('dissocTitle').textContent = m.title;
+  document.getElementById('dissocBody').textContent = m.body;
+}
+</script>
+</body>
+</html>
