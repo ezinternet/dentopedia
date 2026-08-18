@@ -3921,6 +3921,7 @@ tags: []
 
 ### artificial-intelligence
 - [[artificial-intelligence/mathur-2026-artificial-intelligence-dental-implant]] — AI 임플란트 식별·계획·성공예측 우산리뷰(SR 10편/261건 중 선정): CNN 정확도 >90%, 골유착예측 5/10편만 보고, 딥러닝>전통ML [sr, abstract-only]
+- [[artificial-intelligence/cao-2026-deep-learning-rfa-isq]] — 딥러닝 2단계 프레임워크(잡음제거 CNN + 메타데이터 인식 예측망)로 RFA 신호 처리 및 ISQ 예측; MAE 1.85·R² 0.91·±3 ISQ 허용정확도 92% (n=100 임플란트, 개념증명)
 
 ### drug/mronj
 - [[drug/mronj/dahiya-2024-antiresorptive-drugs-osteonecrosis-dental-implants]] — Umbrella review(SR 10편, 2014-2024, PROSPERO): 실패 임플란트 524개 중 MRONJ 2-17%; IV 비스포스포네이트 ≥45-60개월 최고위험; AMSTAR2 high 0% [sr+ma]
@@ -4028,6 +4029,9 @@ tags: []
 - [[implants/isq/nakashima-2021-laser-rfa-pedicle-screw-stability]] — In-vitro/cadaveric: laser RFA for pedicle screw fixation; RF–ISQ linear correlation R=0.981, RF–pull-out force R=0.931 in model bone (Nakashima 2021)
 - [[implants/isq/kim-2026-ist-versus-isq-reliability-inter-examiner]] — Controlled lab (7 hygienists, 3 bone models): Anycheck IST vs Osstell ISQ; ICC>0.90 and r>0.85 for both, experience-level independent (Kim & Kahm 2026)
 - [[implants/isq/rosasdiaz-2024-insertion-compression-primary-stability]] — In-vitro (n=120, type II-A bone): under-milling 0.2/0.5/0.8mm increases ITV (25→63 Ncm, p<0.001) but ISQ unchanged (67.6 vs 65.7, p=0.166) — ITV–ISQ dissociation (Rosas-Díaz 2024)
+- [[implants/isq/pagliani-2013-rfa-lateral-displacement]] — 소 골 블록 in vitro(n=30부위): RFA↑ ↔ 측방 변위↓ (P≤0.001), 양쪽 모두 CBCT 골밀도와 유의 상관 — ISQ는 미세이동성(micromobility)의 대리지표
+- [[implants/isq/brizuela-velasco-2015-insertion-torque-isq-micromobility]] — IT vs ISQ vs 임플란트 미세운동 체외 연구: ISQ-미세운동 역선형(r=0.91), IT-미세운동 역지수(R²=0.78), IT 임계값 ~34 N·cm 미만 급증, IT-ISQ 직접 유의 상관(R²=0.73)
+- [[implants/isq/alimoradi-2024-acoustic-modal-analysis]] — 마이크+FFT 음향모달해석(AMA)이 Osstell ISQ와 R²=0.93 선형 상관; 밀도 2배 시 NF 82% 상승(1219→2239 Hz) vs ISQ 47% — AMA가 더 민감 (PU 골유사체 인비트로)
 
 ### implants/short-narrow
 - [[implants/short-narrow/lombardo-2022-short-ultrashort-implants-internal-sinus-lift]] — 5-year retrospective: short/ultra-short implants with simultaneous internal sinus lift in atrophic maxilla (2022)
