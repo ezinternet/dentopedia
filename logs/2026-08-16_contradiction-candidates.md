@@ -7,7 +7,7 @@
 **대상은 키워드에 가장 가까운 링크로 특정한다.** 같은 줄의 나머지 링크는 충돌 표현의 대상이라는 근거가 없어 Tier 2(`AMBIG→`)로 강등된다 — 버리지 않으니 진짜 대상이 강등됐다면 Tier 2에서 찾을 수 있다.
 
 - Tier 1 (대상 지목됨, actionable): **1**
-- Tier 2 (대상 불명/soft, review): **5**
+- Tier 2 (대상 불명/soft, review): **6**
 - (억제됨) 이미 typed 엣지·supersession 포인터가 있어 제외: **273** · 부정문 제외: **101** · 검토·불필요 대장: **461** · 동일 줄 비최근접으로 Tier 2 강등: **0**
 
 ## Tier 1 — 판단 후 엣지 달 후보 (page → 지목된 target)
@@ -29,6 +29,10 @@
 - `immediate-implant-evidence-survival-timing-infected-loading-overview` [overviews] (HIGH-no-target, '뒤집' · 뒤집음)
   - **근거 문장**: 즉시 vs 지연 생존 갈등은 해소: Mello 2017(관찰포함 30편 ~3%p 열세)은 **García-Sánchez 2022에 의해 완전 superseded**(2026-08) — RCT만 보면 생존 무차이이고 설계 편향이 원인. 동일한 트레이드오프(골·PES 우세, 실패율 비유의 증가)가 **하나의 210명 3군 RCT 내부**(Felice 2016/Esposito 2017)에서도 재현 — 즉시·즉시지연이 골·PES는 유의 우위이나 실패율은 비유의하게 더 높은 경향(4개월→1년 안정). 부위·직경이 방향을 뒤집기도 함 — Checchi 2017(구치·광경직경)은 지연군이 PES·변연골 모두 우위(전치부 Puisys 2022와 정반대).
   - ▸ 출발(`immediate-implant-evidence-survival-timing-infected-loading-overview`) 세줄: 즉시식립(Type 1)의 5개 결정축(생존·타이밍·감염소켓·부하/보철·환자체감)을 19편으로 종합한 허브: 생존율의 새 기준은 Gallucci 2026(PROSPERO 갱신 SR, 140편·10,456임플란트) — 9조합 가중생존율에서 Type 1A(즉시+즉시부하) 98.0%(검증됨) 대비 **Type 1B(즉시+조기부하) 91.6%(미검증)**로 손실률 약 4배 차이. 즉시 vs 지연 생존 갈등은 해소: Mello 2017(관찰포함 30편 ~3%p 열세)은 **García-Sánchez 2022
+
+- `mandibular-third-molar-management-overview` [overviews] (HIGH-far→canellas-2020-intrasocket-ao-third-molar-sr-nma, '상충' · 상충)
+  - **근거 문장**: - [[oral-surgery/third-molar/canellas-2020-intrasocket-ao-third-molar-sr-nma]] — SR+NMA (37 RCTs): 발치와 내 소독재와 치조골염(Alveolar Osteitis, AO) 예방 — 혈소판 풍부 피브린(Platelet-Rich Fibrin, PRF) OR 0.28, 0.2% CHX 젤 OR 0.52로 최상위; iodoform 거즈·SurgicelⓇ 劣; PRF+CHX 병용 효과 상충. 적응증: 고위험 발치(흡연·여성·고령·매복) 시 PRF 우선 고려. (sr+nma, 2020)
+  - ▸ 출발(`mandibular-third-molar-management-overview`) 세줄: 하악 사랑니 관리 4편 종합: 매복은 측정 가능한 병리 부담(치관주위염 82.4%, M2M 원심 우식 18.8%, 치주병변 14.8%; Ye 2021, n=432)을 만들고 매복 형태가 병리 종류를 예측하며, 전문가 합의(Sun 2026)가 3단계 적응증(확정적 병리·치료적·예방적)을 제시한다. 치관주위염의 1차 치료는 국소 세척·NSAIDs이며 항생제는 감염 확산·전신 증상 시에만 한정해야 하나 실제로 치과의사 약 75%가 처방(Schmidt 2021 SR); 발치 후 morbidity는 CGF
 
 - `nccl-etiology-diagnosis-management-overview` [overviews] (HIGH-no-target, 'contradict' · 반박·충돌)
   - **근거 문장**: Synthesis of 17 papers on noncarious cervical lesions (NCCL) — etiology, diagnosis, and monitor-vs-restore decision: NCCLs are multifactorial (stress/abfraction + friction/abrasion + biocorrosion/erosion as a case-specific combination), the "abfraction as sole cause" hypothesis is clinically unproven with SR evidence directly contradicting across three systematic reviews (Senna 2012 — association 
