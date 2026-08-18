@@ -3011,6 +3011,8 @@ tags: []
 - [[implants/kocak-oztug-2022-analysis-of-biomarkers-and]] — Kocak-Oztug 2022 · rct · Split-mouth RCT (94 implants/27 subjects, 12 mo): platform-switched MBL 0.51 vs 0.75 mm (p<0.001), lower RANKL/OPG·MCP-1
 - [[implants/tajti-2024-less-marginal-bone-loss]] — Tajti 2024 · sr+ma · 8-study SR+MA: long abutments (≥2 mm) lose ~0.26 mm less bone at 1 yr (MD 0.26, 95% CI −0.02–0.53), moderate GRADE
 - [[implants/munoz-2025-1mm-3mm-abutments-7year-rct]] — 7-year RCT: 3-mm abutments show less MBL than 1-mm at subcrestal implants (2025)
+- [[implants/bajaj-2023-ligaplants-pdl-tissue-engineering-implant]] — Bajaj 2023 · review: 리가플란트(PDL 세포+임플란트 생체재료) — 1편 인체 시험(Gault 2010) 이동성 자연치 동등; 충격흡수·고유감각·교정이동 장점; 임상 이전 요원
+- [[implants/mathew-2020-biomimetic-pdl-cementum-dental-implants]] — Mathew 2020 · scoping-review (MEDLINE 1989–2018, 12편): 임플란트 주위 인공 PDL/백악질 4세대 전략(잔존치근→스캐폴드→PDL세포→바이오하이브리드); 바이오하이브리드에서 교정이동·통증감지 입증; 인체 1편(Gault 2010) 확인
 
 ### Bone regeneration — ARP/socket preservation
 - [[bone-regeneration/ridge-preservation/pickert-2022-cbct-evaluation-dimensional-hard-tissue]] — Pickert 2022 · sr+ma · CBCT-only SR+MA (9 RCTs): xenograft loses less ridge than allograft (vertical midbuccal WMD −0.20 vs −0.90 mm)
@@ -3166,6 +3168,7 @@ tags: []
 - [[immediate-implant/socket-shield/ahamed-2022-partial-extraction-therapy-implant-placement]] — Ahamed 2022 · narrative-review: 부분발치술(소켓쉴드·폰틱쉴드·치근매몰) 개념·술식 정리, 표준 쉴드 디자인 프로토콜 부재 지적
 - [[immediate-implant/socket-shield/verma-2022-socket-shielding-esthetic-region-review]] — Verma 2022 · narrative-review: 소켓쉴드는 심미부 협측골·윤곽 보존의 최소침습·골이식 선택적 옵션, 근거 제한적
 - [[immediate-implant/socket-shield/durrani-2025-socket-shield-conventional-maxillary-rct]] — Durrani 2025 · rct (n=24, 36개월): SST가 일반 IIP 대비 MBL 유의 감소(1.40 vs 1.70mm, p=0.040), PES 유의 우수(10.50 vs 9.36, p=0.008); 양군 100% 생존
+- [[immediate-implant/socket-shield/ye-2026-socket-shield-fragment-contact-fea]] — Ye 2026 · in-vitro-fea: 소켓실드 직접 접촉 호각도(60°–180°) 5단계 FEA — 교합 시 피질골 응력 120°에서 최소(47.62 MPa), 180°에서 최대(64.51 MPa); PDL 응력은 전 각도에서 자연치 기준(2.472 MPa) 이하; 최적 호각도 120°–150°
 
 #### immediate-implant — placement timing / decision
 - [[immediate-implant/tonetti-2017-immediate-vs-delayed-implant-timing-rct]] — Tonetti 2017 · rct (124pt): 즉시식립이 지연 대비 골증대(72% vs 43.9%)·창상실패(26.1% vs 5.3%)·부적절 심미(42% vs 19%) 많아, 심미 중요 시 비권장
