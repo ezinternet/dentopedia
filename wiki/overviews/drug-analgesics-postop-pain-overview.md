@@ -43,6 +43,7 @@ source_papers:
   - drug/analgesics/markiewicz-2008-corticosteroids-reduce-postoperative-morbidity-after-third-molar-surgery
   - drug/analgesics/maurice-szamburski-2025-intravenous-nsaids-perioperative-pain-narrative-review
   - drug/analgesics/beaudart-2025-celecoxib-safety-musculoskeletal-sr-ma
+  - drug/analgesics/bailey-2013-ibuprofen-paracetamol-wisdom-teeth-cochrane
 evidence_level: synthesis
 source: synthesis
 agenda: agenda/2026-05-27_drug-overview-split.md
@@ -118,6 +119,8 @@ Single-dose NSAID adverse-event ranking is largely nocebo — plain placebo rank
 | Tramadol 37.5mg + APAP | placebo와 동등 |
 
 [확인] **Moore 2015 Cochrane overview** — 단일 dose 진통제 NNT 비교에서 동일 결론: **Ibuprofen 400mg + APAP 1000mg NNT ~1.5**.
+
+[확인] **Bailey 2013 Cochrane SR** (7 RCT, n=2,241, third molar pain) — Ibuprofen 400mg이 Paracetamol 1000mg보다 6h 시점에서 ≥50% 통증완화 비율 유의 우월(RR 1.47, 95% CI 1.28–1.69, high-quality evidence). 병용제(Nuromol, Paracetamol 1000+Ibuprofen 400)가 단독 약물보다 추가효과(RR 1.77, 95% CI 1.32–2.39, 2 trials only). 이 Cochrane 리뷰는 third molar pain model에서 ibuprofen>paracetamol 결론의 원출처 — Miroshnychenko 2023 Network MA와 Moore 2015 overview의 핵심 근거 중 하나.
 
 [확인] **Altuhafy 2026 SR** (9 RCT, 정성 종합, I²=62–89%로 meta 불가) — oxicam 계열 **tenoxicam 20mg 1일 1회**는 위약 우월, ibuprofen·diclofenac·flurbiprofen·meloxicam·methylprednisolone과 동등~우월, rofecoxib보다는 열등(단 rofecoxib는 GI 부작용 더 많음). 1일 1회 투여 편의성·긴 반감기·GI 내약성이 장점. 1차 ibuprofen 불내성·복약 순응도 문제 환자의 대체 NSAID 옵션(근거 moderate, 표본 작고 지역 편중).
 
@@ -346,6 +349,7 @@ p=0.002, 명확한 차이.
 - [[drug/analgesics/prada-2025-acetaminophen-prenatal-neurodevelopmental-disorders-sr]] — Systematic review (Navigation Guide methodology, 46 studies): of studies on prenatal acetaminophen exposure and neurodevelopmental disorders (ASD/ADHD … (sr, 2025)
 
 ### 1차 약물 효과 (Network MA·SR-MA)
+- [[drug/analgesics/bailey-2013-ibuprofen-paracetamol-wisdom-teeth-cochrane]] — Cochrane SR: ibuprofen 400mg > paracetamol 1000mg (RR 1.47, high-quality); combo 추가효과 (sr+ma, 2013)
 - [[drug/analgesics/miroshnychenko-2023-dental-extraction-pain-network-meta]] — 발치 통증 Network MA n=9,095
 - [[drug/analgesics/moore-2015-single-dose-oral-analgesics-cochrane-overview]] — Single-dose Cochrane overview
 - [[drug/analgesics/moore-2015-otc-oral-analgesics-cochrane-overview]] — OTC Cochrane overview
