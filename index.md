@@ -1551,6 +1551,9 @@ tags: []
 - [[drug/analgesics/miroshnychenko-2023-dental-extraction-pain-network-meta]] — Network MA(82 RCT, n=9,095): 발치 후 통증 — ibuprofen+APAP 최고 효과(중-고 확실성); 오피오이드 5mg·코데인·트라마돌 위약 수준 — 2022 ADA CPG 근거
 - [[drug/analgesics/feldman-2024-nonopioid-opioid-third-molar-rct]] — RCT(n=1,815, 다기관): 이부프로펜+APAP이 히드로코돈+APAP보다 1–2일 통증 유의 낮고 전체 기간 비열등; 오피오이드 어떤 시점도 우위 없음
 - [[drug/analgesics/gaballah-2025-ibuprofen-paracetamol-concurrent-alternate-rct]] — RCT(n=56): 이부프로펜+파라세타몰 교대투여(4h) vs 동시투여(8h) — 교대투여군 구제약 필요 15% vs 53%(p=0.002)
+- [[drug/analgesics/pozzi-2011-pain-management-dentists-ibuprofen]] — 서술적 리뷰: 이부프로펜(Ibuprofen) 치과 통증관리 종합 — COX-1/2 억제, FAAH→endocannabinoid 시너지, 술후·임플란트·치주·교정·미백 통증 적용, 안전성·약물상호작용
+- [[drug/analgesics/bailey-2013-ibuprofen-paracetamol-wisdom-teeth-cochrane]] — Cochrane SR+MA(7 RCT, n=2,241): 이부프로펜 400mg > 파라세타몰 1000mg(6h RR 1.47); 병용(Nuromol) 추가효과(RR 1.77, NNT≈5) — 사랑니 발치 후 진통 최고근거
+- [[drug/analgesics/bailey-2014-ibuprofen-paracetamol-wisdom-bdj-summary]] — BDJ 요약본: bailey-2013 Cochrane 리뷰의 조사보도용 요약 — superseded by [[drug/analgesics/bailey-2013-ibuprofen-paracetamol-wisdom-teeth-cochrane]]
 - [[drug/analgesics/larsen-2021-methylprednisolone-doses-split-mouth-rct]] — Larsen 2021 · rct · 이중맹검 split-mouth RCT(n=52): 메틸프레드니솔론(Methylprednisolone) 20/30/40mg 근주 모두 위약 대비 통증·개구제한·OHIP-14 유의차 없음; 나이·흡연·수술시간이 더 강한 예후인자 (Med Oral 2021;26:e156, DOI 10.4317/medoral.24094)
 - [[drug/analgesics/liborio-2025-methylprednisolone-third-molar-sr-ma]] — Libório 2025 · sr+ma · 메틸프레드니솔론 특이적 SR+MA(9 RCT, PROSPERO CRD42024512561): 개구제한 유의 감소(48h·7d, I²=0%, p<0.01/0.05) but 통증 NS; 덱사메타손(Dexamethasone)이 trismus 조절에 우월 (Med Oral 2025;30:e86, DOI 10.4317/medoral.26842)
 - [[drug/analgesics/singh-2023-dexamethasone-vs-methylprednisolone-third-molar-sr-ma]] — Singh 2023 · sr+ma · 덱사메타손 vs 메틸프레드니솔론 직접 비교(7 RCT, PROSPERO CRD42020161341): 통증·부종 동등, 덱사메타손이 술후 2일 개구제한 유의 우월(SMD −0.69mm, p<0.0001); 근거 중-저 (Sci World J 2023, DOI 10.1155/2023/7412026)
