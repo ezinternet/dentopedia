@@ -2,7 +2,7 @@
 title: "Socket Shield Technique (SST) — Evidence Synthesis & Decision Framework"
 authors: Synthesis (Damian Lee)
 year: 2026
-date: 2026-06-28
+date: 2026-08-19
 doi: N/A
 source: synthesis
 category: overviews
@@ -21,7 +21,7 @@ tags: [overview, socket-shield, sst, immediate-implant, esthetic-zone, buccal-bo
 > - 정량 anchor(Oliva 2023 SR, 강한 근거): 협측 골판 흡수(BBPR) 0.32 vs 1.05 mm(−70%), 변연골소실(MBL) 0.39 vs 1.00 mm(−61%), 핑크심미점수(PES) +1.31, 임플란트 생존 98.6%.
 > - RCT 확인(Atef 2021): 협측 골 변화 −0.28 vs 이종골 −0.94 mm, 점막 퇴축 0.18 vs 0.52 mm.
 > - 합병증 trade-off: 전체 3.81%(Oliva)~9.5%(Ogawa), 실드 특이(노출·파절·이동) 5–17%(Gharpure) — 술자 숙련도 의존; 합병증이 나도 임플란트 생존은 높음.
-> - 생역학(신규 FEA, Neves 2023): 잔존 실드가 주위골 응력을 최대로 집중 — 우호적 임상 수치 이면의 생역학적 주의이자 실드 합병증의 기계적 원인 가설(단 미검증, 정적 모델).
+> - 생역학 업데이트(FEA 2편): ①Neves 2023 — 실드가 주위골 응력 최고 집중원. ②Ye 2026 신규 — 호각도(Arc angle) 120°–150°가 최적: 교합 하중 시 피질골 응력이 120°에서 최소(47.62 MPa), **180°에서 급등**(64.51 MPa) — 실드가 클수록 무조건 좋지 않음(비선형).
 > - 1차 권고: 심미부 단일 즉시 임플란트에서 협측 골판 보존이 critical하고 다른 옵션(결합조직이식 CTG·이종골)으로 부족할 때, 숙련 술자에 한해 고려.
 > - SST가 합리적인 경우: 전상악·높은 심미 요구·얇거나 온전한 협측판·수직파절/감염/광범위 우식 없는 치근.
 > - 대안 선호 경우: 협측판 이미 소실/열개 → GBR; 수직파절/감염 치근; 초보 술자 또는 실드 노출 구제책 없음 → 통상 즉시식립 + CTG.
@@ -81,6 +81,7 @@ Covers all dedicated SST wiki pages under `wiki/immediate-implant/`. Buccal-plat
 | [[immediate-implant/socket-shield/ahamed-2022-partial-extraction-therapy-implant-placement]] | narrative-review | PET family | Situates SST within partial extraction therapy (socket/pontic shield, root submergence); no standardized shield-design protocol. |
 | [[immediate-implant/socket-shield/verma-2022-socket-shielding-esthetic-region-review]] | narrative-review | esthetic zone | Concise appraisal: minimally invasive, graft-optional buccal preservation; evidence base limited. |
 | [[immediate-implant/socket-shield/fang-2025-socket-shield-ai-bibliometric-analysis]] | narrative-review (bibliometric) | 157 articles, Scopus 2010–2024 | Research landscape: rising output post-2015; USA leads volume, Germany citations; Hürzeler 2010 anchors the field. |
+| [[immediate-implant/socket-shield/ye-2026-socket-shield-fragment-contact-fea]] | in-vitro (FEA) | 3D maxillary central incisor model; 5 arc angles (60°–180°) | Arc angle 120°–150° is biomechanically optimal: cortical bone stress minimized at 120° (47.62 MPa), peaks at 180° (64.51 MPa) despite lower PDL/fragment stress — non-linear, not monotone. |
 | Brazyte 2025 (*Stomatologija*, PMID 41628481) — **abstract-only, not yet ingested** | sr+ma | SST vs conventional IIP | Newer pooled estimate; cited for direction-of-effect only. Numbers pending full-text ingest. |
 | Gurbuz 2024 (*Int J Oral Maxillofac Surg*, PMID 39648089) — **abstract-only, not yet ingested** | rct | non-grafted socket | Tests shield alone (no simultaneous graft) for buccal-contour preservation. Confirms graft-optional rationale; numbers pending. |
 | Kotsakis 2022 (*Clin Implant Dent Relat Res*, PMID 36331494) — **abstract-only, not yet ingested** | sr+ma | buccal-root retention | Buccal-root-retention outcomes; reinforces buccal-preservation signal. Numbers pending. |
@@ -119,9 +120,22 @@ The headline trade-off. Reported complication rates diverge by review scope and 
 
 ## Biomechanics (in-vitro)
 
-A finite element analysis ([[immediate-implant/socket-shield/neves-2023-socket-shield-stress-distribution-fea]]) modeled a maxillary central incisor implant crown under combined oblique loads (100 N lingual + 25.5 N incisal) comparing three buccal-wall conditions: socket shield (2.0-mm dentin fragment), heterologous bone graft, and a fully bone-embedded control. Both SST and bone graft transmitted **higher peri-implant bone stress than the control**, and the **socket shield produced the highest stress concentration** in peri-implant tissues.
+Two FEA studies address complementary questions:
 
-[미검증] This is the mechanistic bridge to the complication profile: the shield that protects the buccal plate clinically also concentrates load at the peri-implant interface, a plausible driver of shield migration/resorption. [미검증] FEA is idealized (static loads, assumed material properties, no biological remodeling) and stress ≠ clinical failure — treat as hypothesis-generating, not as a contraindication.
+**Neves 2023** ([[immediate-implant/socket-shield/neves-2023-socket-shield-stress-distribution-fea]]): Compared three buccal-wall conditions (socket shield 2.0-mm vs bone graft vs healed bone) under combined oblique loads (100 N lingual + 25.5 N incisal) in a maxillary central incisor model. Both SST and bone graft transmitted **higher peri-implant bone stress than control**; the **socket shield produced the highest stress concentration** in peri-implant tissues.
+
+**Ye 2026** ([[immediate-implant/socket-shield/ye-2026-socket-shield-fragment-contact-fea]]): Addressed a question Neves did not answer — how does the *arc angle* of the shield affect stress distribution? Five geometries (60°–180°, 1.5-mm thick, 6-mm long) were modeled under both insertion torque (30 N·cm) and occlusal load (100 N):
+
+| Condition | Finding |
+|---|---|
+| Fragment/PDL stress under torque | Decreases monotonically 60°→180° (linear) |
+| PDL stress under occlusal load | Remains below natural-tooth reference (2.472 MPa) at all arc angles |
+| Cortical bone stress under occlusal load | **Non-linear**: minimum at 120° (47.62 MPa), markedly higher at 180° (64.51 MPa) |
+| Fragment displacement under torque | 52.7% higher at 60° vs 180° |
+
+**Clinical implication**: an arc angle of **120°–150°** provides the best biomechanical balance — reducing fragment/PDL stress during insertion while avoiding the cortical bone stress escalation that occurs when the shield wraps circumferentially (180°). Larger is not automatically better.
+
+[미검증] Both FEA studies use idealized static loads, linear-elastic material assumptions, and no biological remodeling — stress ≠ clinical failure; treat as hypothesis-generating. [확인] The non-linear cortical stress finding (Ye 2026) is the key clinical takeaway: targeting 120°–150° arc coverage in SST with direct fragment contact.
 
 ## Decision Framework
 
