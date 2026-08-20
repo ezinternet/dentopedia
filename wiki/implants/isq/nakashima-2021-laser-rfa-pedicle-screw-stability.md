@@ -6,7 +6,7 @@ date: 2021-01-01
 doi: "10.1002/jor.24983"
 source: nakashima-2021-laser-rfa-pedicle-screw-stability.md
 category: implants/isq
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/nakashima-2021-laser-rfa-pedicle-screw-stability.pdf
 pdf_filename: nakashima-2021-laser-rfa-pedicle-screw-stability.pdf
 source_collection: external
@@ -23,6 +23,22 @@ Cadaveric and model bone study developing a non-contact laser RFA system for ped
 
 ## 한줄요약
 척추 나사못 고정 평가용 레이저 비접촉 공진주파수 분석(RFA) 시스템 개발; 모형골에서 RF–ISQ 선형 상관 R=0.981, RF–pull-out force 대수 상관 R=0.931.
+
+## Three-line Summary
+
+In-vitro and cadaveric study developing a laser-based non-contact RFA system for pedicle screw fixation assessment in spinal surgery, comparing resonance frequency (RF) against Osstell ISQ, insertion torque, and pull-out force in polyurethane model bone and human cadaveric vertebral specimens.
+
+RF correlated linearly with ISQ (R=0.981, p<0.001) and logarithmically with pull-out force (R=0.931) in model bone; cadaveric correlations were weaker (peak-torque R=0.811, pull-out force R=0.644) but statistically significant.
+
+The RF–ISQ linear relationship established for dental implants generalizes to non-dental screw fixation hardware; laser RFA is a viable non-contact alternative to Osstell-type magnetic transducers when direct SmartPeg attachment is impractical.
+
+## 세줄요약
+
+폴리우레탄 모형골 및 인체 사체 척추를 이용해 레이저 비접촉 공진주파수 분석(Resonance Frequency Analysis, RFA) 시스템을 척추 나사못(pedicle screw) 고정 평가에 적용; Osstell 임플란트 안정성 지수(ISQ)·삽입 토크·pull-out force와 비교.
+
+모형골에서 공진주파수(RF)와 ISQ 선형 상관 R=0.981(p<0.001), RF–pull-out force 대수 상관 R=0.931; 사체에서 상관 약화(R=0.644–0.811)하나 유의.
+
+치과 임플란트에서 확립된 RF–ISQ 선형 관계가 비치과 고정 하드웨어에도 일반화됨 확인; 레이저 RFA는 SmartPeg 직접 접촉이 어려운 상황에서의 비접촉 대안으로 타당성 있음.
 
 ## Summary
 Nakashima et al. (2021) developed a laser-based RFA system for intraoperative pedicle screw fixation (PSF) assessment in spinal surgery, where no real-time quantitative method previously existed. Using both polyurethane model bone and human cadaveric vertebrae, they compared laser RFA (resonance frequency) against conventional methods: pull-out force (POF), peak insertion torque, and Osstell ISQ (magnetic dental RFA). In model bone, RF showed logarithmic correlation with both POF and torque (R=0.931) and nearly perfect linear correlation with ISQ (R=0.981). Cadaveric correlations were weaker but statistically significant. The study validates that the RF–ISQ linear relationship established in dental implants holds for non-dental fixation hardware, and that laser RFA can serve as a non-contact alternative to Osstell-type systems.
