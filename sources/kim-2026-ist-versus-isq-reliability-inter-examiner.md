@@ -18,6 +18,22 @@ Controlled laboratory study comparing Anycheck IST and Osstell ISQ across hard/n
 ## 한줄요약
 통제 실험실 연구: Anycheck IST vs Osstell ISQ를 경도·보통·연조 3종 골질 모형에서 비교, 두 기기 모두 ICC>0.90·상호 상관 r>0.85, 검사자 경험 수준 무관하게 일치.
 
+## Three-line Summary
+
+Controlled laboratory study (7 dental hygienists with varying experience levels, 3 standardized bone quality models: hard/normal/soft) comparing inter-examiner reliability and cross-device agreement between Anycheck IST (percussion/energy-dissipation principle) and Osstell ISQ (RFA-based), using ICC and Pearson r as primary outcomes.
+
+Both devices achieved ICC>0.90 across all three bone quality types; IST–ISQ cross-device correlation r>0.85 regardless of bone density; examiner experience level did not significantly affect measurement consistency for either device.
+
+IST is a clinically equivalent alternative to Osstell ISQ for routine implant stability assessment — without SmartPeg attachment or abutment manipulation — and performs reliably in the hands of dental hygienists regardless of experience level.
+
+## 세줄요약
+
+통제 실험실 연구(치위생사 7명, 경도·보통·연조 3종 골질 표준 모형): Anycheck IST(임플란트 안정성 검사, 타격/감쇠 원리)와 Osstell ISQ(공명주파수분석 원리)의 검사자간 신뢰도(급내상관계수) 및 기기간 상관 비교.
+
+두 기기 모두 전 골질 유형에서 급내상관계수(Intraclass Correlation Coefficient, ICC)>0.90; IST–ISQ 상관 r>0.85; 검사자 경험 수준이 측정 일치도에 유의한 영향 없음.
+
+IST는 SmartPeg 없이도 Osstell ISQ와 동등한 임상 신뢰도 달성 — 아부트먼트 조작 불필요, 경험 무관하게 치위생사 사용 가능.
+
 ## 1. Document Information
 - Journal: Bioengineering 2026, 13, 86
 - DOI: 10.3390/bioengineering13010086
