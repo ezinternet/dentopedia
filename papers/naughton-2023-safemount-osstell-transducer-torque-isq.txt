@@ -1,0 +1,126 @@
+An in vitro study evaluating the efficacy of a novel mount with torque control designed to tighten Osstell® transducers
+
+David Naughton, Erica Donnelly-Swift, Ioannis Polyzois
+
+Department of Restorative Dentistry and Periodontology, Dublin Dental University Hospital, Trinity College, Dublin, Ireland
+Department of Public Health and Primary Care, Institute of Population Health, Trinity College Dublin, Dublin, Ireland
+
+Clin Exp Dent Res. 2023 Apr 7;9(3):411–417. doi: 10.1002/cre2.734
+PMCID: PMC10280597 PMID: 37026549
+
+Abstract
+
+Objectives: To evaluate the efficacy of a novel mount with torque control for tightening of Osstell® transducers and to determine the reliability of recorded ISQ measurements from implants placed in various bone densities.
+
+Material and Methods: Fifty‐six implants, comprising seven different implant types, were placed in eight polyurethane blocks representing D1, D2, D3, and D4 bone densities. Resonance frequency analysis (RFA) transducers were attached to each implant in four different ways: (a) hand tightening, (b) hand tightening with a SmartPeg Mount™, (c) hand tightening using the novel mount with torque control (SafeMount) and (d) tightening to 6 Ncm with a calibrated torque device. ISQ measurements were taken and a second operator repeated the measurements. Intraclass correlation coefficient (ICC) was calculated to assess the reliability of the measurements and linear mixed effects regression was employed to determine the effect explanatory variables had on ISQ values.
+
+Results: There was a statistically significant difference in ISQ values obtained by hand tightening transducers compared to the calibrated torque device p < .001, 95%(−2.89, −1.21) but not between any other tightening methods. There was excellent agreement between the two RFA devices (ICC 0.986) and between buccal and mesial measurements (ICC 0.977). For all transducer tightening methods there was excellent inter‐operator agreement in D1 and D2 (ICC > 0.8) but very poor agreement in D4 (ICC < 0.24). Bone density accounted for 36% of the variation in ISQ values, the implant for 11% and the operator for 6%.
+
+Conclusions: SafeMount, did not significantly improve the reliability of the RFA measurements when compared to the standard mount, but calibrated torque devices seem to have benefits when compared to tightening the transducers by hand. Results also indicate that the ISQ values should be interpreted with caution when measuring implant stability in poor quality bone regardless of the implant geometry.
+
+1. Introduction
+
+Assessment of implant stability in an accurate and noninvasive manner helps guide the loading protocol and provides information regarding the likely prognosis of a dental implant. Implants with poor primary stability, have higher failure rates as there is a significant association between primary and secondary stability (Meredith, 1998; Monje et al., 2019). Additionally, while implants with high stability can be provisionalised immediately, those with poorer stability may require a more conventional two‐stage approach resulting in longer treatment times for patients.
+
+Measuring stability at various time points can be done using resonance frequency analysis (RFA). First described in 1996, Osstell® have manufactured several generations of devices to assess implant stability by RFA. A transducer, termed a SmartPeg, is attached to an implant and a specialized probe is placed near the SmartPeg, emitting a sinusoidal wave to gently bring the SmartPeg and implant to vibration. The measurement of this vibration is then expressed as an implant stability quotient (ISQ), a nonlinear scale of 1–100. Higher implant stability corresponds to a higher ISQ value and several factors can affect these readings. Bone density and the macro‐ and micro‐geometries of the implant have all been shown to have an effect (Comuzzi et al., 2021; Gehrke et al., 2015; Marquezan et al., 2012; Merheb et al., 2018; Novellino et al., 2017). The influence of SmartPeg tightening has only been scantly assessed to date.
+
+An intimate fit of a SmartPeg would theoretically give the most accurate ISQ value of an implant by fully allowing for measurement of the vibration of the implant itself. A SmartPeg not sufficiently tightened would move somewhat independent of the implant and an overtightened SmartPeg may damage the connection with the implant, also resulting in inaccurate readings. Osstell® recommends a SmartPeg to be "finger tight."
+
+A study by Geckili et al. recommended SmartPegs to be tightened to 5–8 Ncm (Geckili et al., 2015) but a similar study by Kästel et al. reported that there is no need for standardization of tightening forces as all their investigated values, (2–11 Ncm) resulted in accurate ISQ readings (Kästel et al., 2019). Salatti et al. in agreement with Geckili et al. reported that there was a need for standardization of tightening forces, but recommended tightening the Smart Pegs™ to 10–17 Ncm of torque (Salatti et al., 2019).
+
+At present, there is disagreement as to the optimal torque value that should be applied to SmartPegs and they are either tightened by hand or by using a plastic mount supplied by Osstell®. In a bid to introduce a degree of torque control, Osstell® developed a novel plastic mount termed "SafeMount." Once a certain amount of torque is applied with this mount, a tactile and audible click is emitted. Osstell® reports this to be happening at 4–4.5 Ncm.
+
+The aim of the current study was to evaluate the effect that different transducer tightening protocols might have on the accuracy of ISQ values of implants placed in artificial bone blocks. An effort was also made to determine the reliability of recorded ISQ measurements from implants with varying macro and microgeometries placed in various bone densities.
+
+2. Materials and Methods
+
+2.1. Implant insertion
+
+Seven types of implants were used in this study:
+1. Standard 4.1 × 10 mm SLA (Institute Straumann AG®)
+2. Standard Plus 4.1 × 10 mm SLA (Institute Straumann AG®)
+3. Tapered Effect 4.1 × 10 mm SLA implant (Institute Straumann AG®)
+4. Standard 4.8 × 10 mm SLA (Institute Straumann AG®)
+5. BNST 4.0 × 10 mm internal hexagonal connection implant (Zimmer Biomet®)
+6. BOET 4.0 × 10 mm external hexagonal connection (Zimmer Biomet)
+7. Ankylos™ C/X 3.5 × 11 mm (Dentsply® Sirona)
+
+Eight resin polyurethane bone blocks (BoneModels™) were used in this study. Each block was of uniform density and represented either D1, D2, D3, or D4 bone densities. Two blocks of each density were used. One of each implant type was inserted into each block with uniform spacing. In total, 7 implants were placed per block resulting in 56 implants. All implants were placed according to the implant manufactures' protocols. Implant osteotomies in D1 bone blocks were completed with a bone tap. Implant osteotomies in D4 bone blocks were undersized to achieve stability.
+
+2.2. Bench top set up and measurements
+
+Osstell® SmartPeg transducers were paired to implants as per Osstell's recommendation for each implant and all measurements were taken in a buccal and mesial direction.
+
+Transducers were attached to each implant in four different ways:
+- Group 1: Hand tightened by using gauze (handtighten).
+- Group 2: Hand tightened with the standard plastic mount supplied with SmartPegs (plastic mount).
+- Group 3: Hand tightened with the novel (SafeMount).
+- Group 4 (control): 6 Ncm of standardized force with a calibrated torque wrench (Tohnichi®). The National Metrology Laboratory calibrated the device (6 Ncm).
+
+Bone blocks were secured to a bench top with a vice. A SmartPeg™ was attached to each implant in a randomized order by means of an online randomizer in each of the four ways. Two Osstell® devices were used throughout to record ISQ values (Osstell IDx and Osstell ISQ). All initial measurements were repeated by the second Osstell® device. All measurements were taken with the probe tip approximately 2 mm and 90° to the SmartPeg in a buccal and mesial direction. ISQ values were recorded onto an Excel spreadsheet. A second operator then repeated the above described bench top set up and measurements.
+
+2.3. Statistical analysis
+
+Descriptive statistics were used to express mean ISQ values by torquing method. Medians of ISQ values by implant type were compared using a Kruskal–Wallis test. Dunn's multiple comparisons post hoc test was used when p < .05. An average measures intraclass correlation coefficient (ICC) was also calculated. Linear mixed effects regression was employed to determine the effect that explanatory variables had on ISQ readings.
+
+3. Results
+
+Overall, 1792 ISQ measurements were performed. The mean ISQ values and the spread of ISQ values were similar for each of the four tightening groups when all bone densities were included.
+
+Table 1: Mean ISQ values by SmartPeg tightening group
+- Hand tightening with gauze: 64.17 ± 12.99
+- Plastic SmartPeg mount: 65.89 ± 13.57
+- SafeMount: 66.04 ± 14.33
+- Calibrated torque wrench (6 Ncm): 66.22 ± 14.12
+
+As expected, a large difference in ISQ values could be seen based on bone density when all four tightening groups were included.
+
+The difference in ISQ values obtained from the various implants was not statistically significant when all bone densities were included in the analysis (p = .361) but did reach significance when measurements from D4 bone were omitted (p < .001). The most significant differences were observed between implants 2 versus 3, 2 versus 6 (p < .001) and 5 versus 6 (p < .001).
+
+ICC was excellent between operators (0.995), devices (0.986) and direction of Osstell® probe (buccal and mesial) (0.977). ICC values between operators for each SmartPeg tightening method in each type of bone density showed excellent agreement in D1 and D2 bone, good agreement in D3, but very poor agreement in D4 bone.
+
+Table 2: ICC values between operator 1 and 2 for each type of bone density by SmartPeg torquing method
+Bone density | Hand torque with gauze | Plastic torque wrench | SafeMount | 6 Ncm of torque
+D1 | 0.830 | 0.811 | 0.977 | 0.944
+D2 | 0.934 | 0.972 | 0.972 | 0.983
+D3 | 0.791 | 0.767 | 0.762 | 0.803
+D4 | 0.112 | 0.192 | 0.238 | 0.039
+
+Mixed linear effects regression analysis showed a statistically significant difference between ISQ values in the hand tightening group (p < .001) and the values in the control group. No statistically significant differences were detected between the ISQ values from the other two groups and the control. Additionally, the differences between the ISQ values measured in D3 (p = .006) and D4 (p < .001) bone were statistically significant to the ones measured in D1.
+
+Table 3: Influence of SmartPeg tightening method and bone density on mean ISQ values
+Characteristics | Coef | 95% CI | p Value
+Torqueing method
+6 Ncm torque | Ref | |
+Hand tightening with gauze | –2.05 | (–2.89, –1.21) | <.001
+Plastic torque wrench | –0.33 | (–1.17, 0.51) | .444
+SmartMount | –0.19 | (–1.03, 0.66) | .668
+Bone density
+1 | Ref | |
+2 | –0.27 | (–3.88, 3.35) | .889
+3 | –5.90 | (–9.52, –2.28) | .006
+4 | –31.50 | (–35.11, –27.89) | <.001
+
+Table 4: Percentage variance due to random effects
+Random effects | Variance | % of total
+Bone block:density:implant | 3.00 | 10.36
+Density:implant | 10.52 | 36.34
+Implant | 3.25 | 11.23
+Operator | 1.76 | 6.08
+Residual variance | 10.42 | 35.99
+
+4. Discussion
+
+Both operators involved in the study showed excellent agreement between their measurements, while using two different Osstell® devices. Measurements were similar in D1 and D2 bone, displayed a slight drop in D3 bone and had a significant fall in D4 bone.
+
+When testing for reliability of measurements depending on SmartPeg tightening method, the highest agreement with the control group was obtained using the SafeMount (ICC 0.994) and the lowest, was obtained using the hand torquing method (ICC 0.978). Linear mixed effects regression analysis demonstrated a statistically significant difference between ISQ values obtained from hand tightening SmartPegs compared to the control. No statistically significant difference was seen between the standard SmartPeg mount or the novel SafeMount and the control.
+
+There are only a handful of studies assessing the influence of the tightening torque of SmartPegs on ISQ. One study concluded that all their investigated torque values of 2–11 Ncm were appropriate (Kästel et al., 2019). Whereas, the other two study groups recommended specific values of 5–8 Ncm (Geckili et al., 2015) and 10–17 Ncm (Salatti et al., 2019). They reported that too low a torque value reduced the ISQ value. Osstell® recommends SmartPegs to be tightened to 4–5 Ncm which they report to be "finger tight." This present study used 6 Ncm as the control value.
+
+The implant within each bone density accounted for the largest amount of variance in measurements at approximately 36%. The implant itself accounted for 11% and the operator for 6%. This shows bone density to have the largest influence on the ISQ measurements.
+
+Although the ICC was slightly higher for the SafeMount group compared to the standard SmartPeg mount group, this difference was not significant. The greatest advantage of the SafeMount is possibly for standardization of the use of Osstell® SmartPegs for research purposes and for long term monitoring of changes in ISQ. There may also be a role for their use with users who are inexperienced with Osstell® SmartPegs, to ensure they have applied a sufficient amount of force when tightening the SmartPeg.
+
+5. Conclusions
+
+In conclusion, the plastic SmartPeg mount currently supplied by Osstell® and the novel SafeMount, both performed similarly to the control. In general, transducer tightening methods seem to have an impact on the reliability of ISQ values. Results also indicate that the ISQ values should be interpreted with caution when measuring implant stability in poor quality bone regardless of the implant geometry.
