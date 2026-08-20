@@ -18,6 +18,22 @@ In vitro study (n=120 implants, polyurethane type II-A bone blocks) showing that
 ## 한줄요약
 In-vitro 연구(n=120): under-milling 0.2/0.5/0.8mm별 ITV는 유의하게 달라지나(25→63 Ncm, p<0.001) ISQ는 무의한 차이(67.6/65.8/65.7, p=0.166) — ITV와 ISQ의 해리(dissociation) 실증.
 
+## Three-line Summary
+
+In-vitro study (n=120 implants, polyurethane type II-A bone blocks, 4 diameters × 5 lengths) testing three under-milling compression protocols (0.2, 0.5, 0.8 mm undersized osteotomy) on primary stability measured by both ITV and ISQ immediately post-placement, analyzed with MANOVA.
+
+Under-milling degree dramatically increased ITV (25.1→63.2 Ncm, p<0.001) but did not significantly alter ISQ (67.6 vs 65.7, p=0.166); compression protocol explained 63.9% of combined ITV+ISQ variance (ηp²=0.639), implant diameter 27.0%, and length 12.1%, with no significant interaction effects.
+
+In type II-A bone, high insertion torque from aggressive under-milling does not predict equivalently high ISQ; loading decisions should rely on direct ISQ measurement rather than inferring resonance-frequency stability from torque values.
+
+## 세줄요약
+
+In-vitro 연구(n=120, 폴리우레탄 II-A형 골질, 직경 4종 × 길이 5종): 부족삭제(under-milling) 0.2/0.5/0.8mm 3수준에서 즉시 측정한 삽입 토크값(ITV)과 임플란트 안정성 지수(ISQ)를 다변량분산분석(MANOVA)으로 비교.
+
+under-milling이 ITV를 크게 증가(25.1→63.2 Ncm, p<0.001)시키지만 ISQ에는 유의한 영향 없음(67.6 vs 65.7, p=0.166); 압축 프로토콜이 ITV+ISQ 합산 분산의 63.9%(ηp²=0.639), 직경 27.0%, 길이 12.1% 설명, 상호작용 무유의.
+
+II-A형 골질에서 공격적 under-milling의 높은 ITV가 ISQ 상승을 예측하지 못함 — 즉시 부하 시 안정성 판단은 토크값 대신 ISQ 실측에 의존해야 함.
+
 ## 1. Document Information
 - Journal: Biomedicines 2024, 12, 2878
 - DOI: 10.3390/biomedicines12122878
