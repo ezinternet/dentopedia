@@ -66,7 +66,7 @@ DOMAINS = [
     # ── 근관치료: 메가카드(14)를 술식 단계 3장으로 분할 ──
     ("근관 · 해부 · 성형 · 근관장", [
         "c-shaped", "mb2", "canal-shaping", "access-cavity", "eal-working",
-        "endodontics-comprehensive"]),
+        "endodontics-comprehensive", "rct-protocol"]),
     ("근관 · 세정 · 소독 · 실러", [
         "irrigation", "cold-plasma", "ceraseal", "bioceramic-sealer", "endotoxin"]),
     ("근관 · 진단 · 생활치수 · 재생 · 내원", [
