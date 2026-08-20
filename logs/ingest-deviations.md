@@ -322,3 +322,4 @@ Logged by subagents at deviation time. `deviation-audit.py` flags types with ≥
 | 2026-08-10 | milleret-2011-alkali-titanium-blood-clot-platelet-complement | abstract-only | PubMed abstract only — no PMC full text for PMID 21604243 (European Cells & Materials, open-access on own site but not PMC-indexed); found via surveillance for the mechanistic cause of Becker 2019's 24h cytokine reversal |
 | 2026-08-18 | dewake-2023-mri-occlusal-trauma-pdl | other | No deviations; standard ingest |
 | 2026-08-18 | zhao-2025-periodontal-ligament-stem-cells-tissue | other | Stem: first 5 title words include preposition 'in'; skipped 'in' and used 'tissue' as 5th content word per naming convention spirit |
+| 2026-08-20 | naughton-2023-safemount-osstell-transducer-torque-isq | source-data-issue | Upgraded from pubmed-text to external: PDF (CRE2-9-411.pdf) added to papers/ after initial PMC-text ingest |
