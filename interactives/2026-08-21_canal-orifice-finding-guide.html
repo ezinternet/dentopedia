@@ -1,0 +1,579 @@
+<!--
+---
+title: "근관 오리파이스 탐색 가이드"
+type: interactive
+date: 2026-08-21
+status: done
+category: endodontics
+source_wiki:
+  - wiki/endodontics/anatomy/mohammadi-2016-methods-decrease-missed-root-canals.md
+  - wiki/endodontics/anatomy/dioguardi-2024-access-cavity-designs-canal-orifice-scoping.md
+  - wiki/endodontics/anatomy/sujith-2014-microscope-ultrasonic-mb2-detection-vivo.md
+  - wiki/endodontics/anatomy/floratos-2017-intraoperative-cbct-calcified-canals.md
+  - wiki/endodontics/anatomy/al-rammahi-2023-mandibular-first-molar-microct-anatomy-sr.md
+  - wiki/endodontics/anatomy/kapetanaki-2021-access-cavity-designs-endodontic-review.md
+  - wiki/overviews/endodontic-access-cavity-decision-tree.md
+notes: |
+  Mohammadi 2016 (narrative review): 5 strategies to reduce missed canals.
+  Dioguardi 2024 (scoping review): ConsAC vs TradAC — orifice localization.
+  Sujith 2014 (in vivo, n=60): MB2 detection 20%→55%→70% stepwise.
+  Floratos 2017 (case report, n=3): intraoperative CBCT for calcified canals.
+  Al-Rammahi 2023 (SR+MA, 30 studies): mandibular molar anatomy reference.
+  Kapetanaki 2021 (review): TEC vs MIA evidence.
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>근관 오리파이스 탐색 가이드</title>
+<style>
+:root {
+  --bg: #F1F5F9;
+  --surface: #FFFFFF;
+  --surface-2: #F8FAFC;
+  --border: #E2E8F0;
+  --border-strong: #CBD5E1;
+  --text-1: #0F172A;
+  --text-2: #475569;
+  --text-3: #94A3B8;
+  --blue: #1D4ED8;
+  --blue-light: #EFF6FF;
+  --blue-mid: #3B82F6;
+  --green: #15803D;
+  --green-light: #F0FDF4;
+  --green-mid: #22C55E;
+  --amber: #B45309;
+  --amber-light: #FFFBEB;
+  --amber-mid: #F59E0B;
+  --red: #B91C1C;
+  --red-light: #FEF2F2;
+  --purple: #7C3AED;
+  --purple-light: #F5F3FF;
+  --radius: 14px;
+  --radius-sm: 9px;
+}
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  background: var(--bg);
+  color: var(--text-1);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+  font-size: 15px;
+  line-height: 1.55;
+  padding: 1.75rem 1.25rem 3rem;
+  -webkit-font-smoothing: antialiased;
+}
+.wrap { max-width: 680px; margin: 0 auto; display: flex; flex-direction: column; gap: 1rem; }
+
+/* Header */
+.hdr { padding: 0.25rem 0 0.5rem; }
+.eyebrow { font-size: 0.65rem; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: var(--blue-mid); margin-bottom: 0.35rem; }
+.hdr h1 { font-size: 1.3rem; font-weight: 800; letter-spacing: -0.025em; line-height: 1.2; }
+.hdr-sub { font-size: 0.72rem; color: var(--text-3); margin-top: 0.35rem; }
+
+/* Card */
+.card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 1.25rem 1.5rem; }
+.card-label { font-size: 0.62rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text-3); margin-bottom: 0.85rem; }
+
+/* Radio items */
+.radio-list { display: flex; flex-direction: column; gap: 0.5rem; }
+.radio-item {
+  display: flex; align-items: flex-start; gap: 0.75rem;
+  padding: 0.7rem 0.9rem; border: 1.5px solid var(--border); border-radius: var(--radius-sm);
+  cursor: pointer; transition: border-color 0.15s, background 0.15s; user-select: none;
+}
+.radio-item:hover { border-color: var(--border-strong); background: var(--surface-2); }
+.radio-item.on { border-color: var(--blue); background: var(--blue-light); }
+.radio-dot {
+  width: 18px; height: 18px; min-width: 18px; border-radius: 50%;
+  border: 1.5px solid var(--border-strong); background: var(--surface);
+  display: flex; align-items: center; justify-content: center; margin-top: 1px;
+  transition: all 0.15s;
+}
+.radio-item.on .radio-dot { background: var(--blue); border-color: var(--blue); }
+.radio-dot::after { content: ''; width: 6px; height: 6px; border-radius: 50%; background: white; display: none; }
+.radio-item.on .radio-dot::after { display: block; }
+.radio-text { flex: 1; }
+.radio-name { font-size: 0.88rem; font-weight: 600; color: var(--text-1); }
+.radio-item.on .radio-name { color: var(--blue); }
+.radio-desc { font-size: 0.73rem; color: var(--text-2); margin-top: 0.1rem; }
+
+/* Buttons */
+.btn-row { display: flex; gap: 0.5rem; margin-top: 0.5rem; }
+.btn {
+  flex: 1; padding: 0.7rem 1rem; border: none; border-radius: var(--radius-sm);
+  font-size: 0.85rem; font-weight: 600; cursor: pointer; transition: all 0.15s;
+  text-align: center;
+}
+.btn-primary { background: var(--blue); color: white; }
+.btn-primary:hover { background: #1e40af; }
+.btn-secondary { background: var(--surface-2); color: var(--text-2); border: 1px solid var(--border); }
+.btn-secondary:hover { background: var(--border); }
+.btn:disabled { opacity: 0.4; cursor: not-allowed; }
+
+/* Result card */
+.result { display: none; }
+.result.show { display: block; }
+.result-header {
+  display: flex; align-items: center; gap: 0.6rem;
+  padding: 0.85rem 1rem; border-radius: var(--radius-sm); margin-bottom: 0.75rem;
+}
+.result-header.green { background: var(--green-light); color: var(--green); }
+.result-header.amber { background: var(--amber-light); color: var(--amber); }
+.result-header.red { background: var(--red-light); color: var(--red); }
+.result-header.purple { background: var(--purple-light); color: var(--purple); }
+.result-icon { font-size: 1.2rem; }
+.result-title { font-size: 0.9rem; font-weight: 700; }
+
+.step-list { display: flex; flex-direction: column; gap: 0.5rem; }
+.step {
+  display: flex; gap: 0.7rem; padding: 0.75rem 0.9rem;
+  background: var(--surface-2); border-radius: var(--radius-sm); border: 1px solid var(--border);
+}
+.step-num {
+  width: 26px; height: 26px; min-width: 26px; border-radius: 50%;
+  background: var(--blue); color: white; font-size: 0.75rem; font-weight: 700;
+  display: flex; align-items: center; justify-content: center; margin-top: 1px;
+}
+.step-num.amber { background: var(--amber); }
+.step-num.red { background: var(--red); }
+.step-num.green { background: var(--green); }
+.step-content { flex: 1; }
+.step-title { font-size: 0.85rem; font-weight: 600; }
+.step-desc { font-size: 0.73rem; color: var(--text-2); margin-top: 0.15rem; }
+
+/* Stat bar */
+.stat-bar { display: flex; align-items: center; gap: 0.5rem; margin-top: 0.5rem; }
+.stat-label { font-size: 0.72rem; color: var(--text-3); min-width: 80px; }
+.stat-track { flex: 1; height: 6px; background: var(--border); border-radius: 3px; overflow: hidden; }
+.stat-fill { height: 100%; border-radius: 3px; transition: width 0.4s ease; }
+.stat-fill.blue { background: var(--blue-mid); }
+.stat-fill.green { background: var(--green-mid); }
+.stat-fill.amber { background: var(--amber-mid); }
+.stat-val { font-size: 0.72rem; font-weight: 600; min-width: 32px; text-align: right; }
+
+/* Info box */
+.info-box {
+  padding: 0.7rem 0.9rem; border-radius: var(--radius-sm);
+  font-size: 0.78rem; color: var(--text-2); margin-top: 0.5rem;
+  border-left: 3px solid var(--blue-mid); background: var(--blue-light);
+}
+.info-box.amber { border-left-color: var(--amber-mid); background: var(--amber-light); }
+.info-box.red { border-left-color: var(--red); background: var(--red-light); }
+
+/* Reference */
+.ref-list { display: flex; flex-direction: column; gap: 0.3rem; margin-top: 0.75rem; }
+.ref-item { font-size: 0.7rem; color: var(--text-3); }
+.ref-item a { color: var(--blue-mid); text-decoration: none; }
+
+/* Tooth icon */
+.tooth-icon {
+  display: inline-flex; align-items: center; justify-content: center;
+  width: 32px; height: 32px; border-radius: 8px; font-size: 1.3rem;
+  margin-right: 0.3rem;
+}
+
+/* Anatomical diagram */
+.anatomy-box {
+  background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius-sm);
+  padding: 1rem; text-align: center; margin: 0.5rem 0;
+}
+.anatomy-svg { max-width: 100%; height: auto; }
+.anatomy-label { font-size: 0.72rem; color: var(--text-3); margin-top: 0.5rem; }
+
+/* Hidden */
+.hidden { display: none !important; }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <!-- Header -->
+  <div class="hdr">
+    <div class="eyebrow">ENDODONTICS · CHAIRSIDE TOOL</div>
+    <h1>🔍 근관 오리파이스 탐색 가이드</h1>
+    <div class="hdr-sub">치아 유형·해부 복잡도에 따른 단계적 근관구 탐색 프로토콜 · 근거: Mohammadi 2016, Dioguardi 2024, Sujith 2014, Floratos 2017</div>
+  </div>
+
+  <!-- Step 1: Tooth type -->
+  <div class="card" id="step1">
+    <div class="card-label">STEP 1 — 치아 유형 선택</div>
+    <div class="radio-list" id="toothType">
+      <div class="radio-item" data-val="max-molar-1" onclick="selectTooth(this)">
+        <div class="radio-dot"></div>
+        <div class="radio-text">
+          <div class="radio-name">🦷 상악 제1대구치</div>
+          <div class="radio-desc">MB2 유병률 높음 (55–93%) · 3–4근관 · 구개근관 단일</div>
+        </div>
+      </div>
+      <div class="radio-item" data-val="max-molar-2" onclick="selectTooth(this)">
+        <div class="radio-dot"></div>
+        <div class="radio-text">
+          <div class="radio-name">🦷 상악 제2대구치</div>
+          <div class="radio-desc">MB2 유병률 중간 (25–60%) · 유합근 변이 가능</div>
+        </div>
+      </div>
+      <div class="radio-item" data-val="mand-molar-1" onclick="selectTooth(this)">
+        <div class="radio-dot"></div>
+        <div class="radio-text">
+          <div class="radio-name">🦷 하악 제1대구치</div>
+          <div class="radio-desc">중간근심관(MMC) 최대 46% · 근심근 isthmus 10–100% · RE 변이</div>
+        </div>
+      </div>
+      <div class="radio-item" data-val="mand-molar-2" onclick="selectTooth(this)">
+        <div class="radio-dot"></div>
+        <div class="radio-text">
+          <div class="radio-name">🦷 하악 제2대구치</div>
+          <div class="radio-desc">C-shape 유병률 높음 (동아시아 30%+) · Melton C1–C3</div>
+        </div>
+      </div>
+      <div class="radio-item" data-val="premolar" onclick="selectTooth(this)">
+        <div class="radio-dot"></div>
+        <div class="radio-text">
+          <div class="radio-name">🦷 소구치 (상악/하악)</div>
+          <div class="radio-desc">단근관 우세 · 상악 제1소구치 C-shape ~10% · 비대칭 2근관</div>
+        </div>
+      </div>
+      <div class="radio-item" data-val="anterior" onclick="selectTooth(this)">
+        <div class="radio-dot"></div>
+        <div class="radio-text">
+          <div class="radio-name">🦷 전치</div>
+          <div class="radio-desc">단근관·단근근 · 가장 단순 · 소구치형 2근관 �묾</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Step 2: Complexity -->
+  <div class="card hidden" id="step2">
+    <div class="card-label">STEP 2 — 임상 상황 평가</div>
+    <div class="radio-list" id="complexity">
+      <div class="radio-item" data-val="simple" onclick="selectComplexity(this)">
+        <div class="radio-dot"></div>
+        <div class="radio-text">
+          <div class="radio-name">✅ 단순 — 정상 해부 의심</div>
+          <div class="radio-desc">술전 방사선에서 뚜렷한 근관 경로 · 비석회화 · 특이 해부 없음</div>
+        </div>
+      </div>
+      <div class="radio-item" data-val="mb2-suspected" onclick="selectComplexity(this)">
+        <div class="radio-dot"></div>
+        <div class="radio-text">
+          <div class="radio-name">⚠️ 추가 근관 의심 (MB2 / MMC)</div>
+          <div class="radio-desc">상악 대구치 MB2, 하악 대구치 중간근심관 — 탐색 필요</div>
+        </div>
+      </div>
+      <div class="radio-item" data-val="cshape" onclick="selectComplexity(this)">
+        <div class="radio-dot"></div>
+        <div class="radio-text">
+          <div class="radio-name">⚠️ C-shape 근관 의심</div>
+          <div class="radio-desc">하악 제2대구치·소구치 · 술전 PA에서 뿌리 융합 소견</div>
+        </div>
+      </div>
+      <div class="radio-item" data-val="calcified" onclick="selectComplexity(this)">
+        <div class="radio-dot"></div>
+        <div class="radio-text">
+          <div class="radio-name">🔴 석회화 / 폐쇄 (PCO)</div>
+          <div class="radio-desc">근관강 석회화 · 근관구 불가시 · 치수강 폐쇄 의심</div>
+        </div>
+      </div>
+      <div class="radio-item" data-val="retreatment" onclick="selectComplexity(this)">
+        <div class="radio-dot"></div>
+        <div class="radio-text">
+          <div class="radio-name">🔴 재근관치료</div>
+          <div class="radio-desc">기존 충전물 제거 후 근관구 재탐색 · 유실 근관 의심</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Result -->
+  <div class="result" id="result"></div>
+
+</div>
+
+<script>
+// State
+let tooth = null;
+let complexity = null;
+
+function selectTooth(el) {
+  document.querySelectorAll('#toothType .radio-item').forEach(e => e.classList.remove('on'));
+  el.classList.add('on');
+  tooth = el.dataset.val;
+  // Show step 2
+  document.getElementById('step2').classList.remove('hidden');
+  // Reset complexity
+  complexity = null;
+  document.querySelectorAll('#complexity .radio-item').forEach(e => e.classList.remove('on'));
+  document.getElementById('result').classList.remove('show');
+}
+
+function selectComplexity(el) {
+  document.querySelectorAll('#complexity .radio-item').forEach(e => e.classList.remove('on'));
+  el.classList.add('on');
+  complexity = el.dataset.val;
+  renderResult();
+}
+
+function renderResult() {
+  if (!tooth || !complexity) return;
+  const r = document.getElementById('result');
+  r.innerHTML = buildResult(tooth, complexity);
+  r.classList.add('show');
+  r.scrollIntoView({ behavior: 'smooth', block: 'start' });
+}
+
+function buildResult(t, c) {
+  // Access cavity recommendation
+  const access = getAccess(t, c);
+  // Detection protocol
+  const steps = getSteps(t, c);
+  // Statistics
+  const stats = getStats(t, c);
+  // References
+  const refs = getRefs(t, c);
+
+  return `
+    <div class="card">
+      <div class="card-label"> résultat — 권고 프로토콜</div>
+      ${access}
+      ${stats}
+      <div class="step-list" style="margin-top:0.75rem">
+        ${steps.map((s, i) => `
+          <div class="step">
+            <div class="step-num ${s.color || ''}">${i + 1}</div>
+            <div class="step-content">
+              <div class="step-title">${s.title}</div>
+              <div class="step-desc">${s.desc}</div>
+              ${s.note ? `<div class="info-box ${s.noteColor || ''}">${s.note}</div>` : ''}
+            </div>
+          </div>
+        `).join('')}
+      </div>
+      ${refs}
+    </div>
+  `;
+}
+
+function getAccess(t, c) {
+  const labels = {
+    'max-molar-1': '상악 제1대구치', 'max-molar-2': '상악 제2대구치',
+    'mand-molar-1': '하악 제1대구치', 'mand-molar-2': '하악 제2대구치',
+    'premolar': '소구치', 'anterior': '전치'
+  };
+  const toothLabel = labels[t] || t;
+
+  // Access cavity recommendation
+  let accessType, accessColor, accessNote;
+  if (c === 'simple') {
+    accessType = 'TEC (전통 직선 접근)';
+    accessColor = 'green';
+    accessNote = '정상 해부에서 TEC가 확립된 표준 — 치수강 지붕 완전 제거 + 경부 상아질 돌출 제거 → 직선 진입 (Dioguardi 2024, Kapetanaki 2021)';
+  } else if (c === 'mb2-suspected') {
+    accessType = 'TEC + 확대(拓宽) — MB2 탐색 범위';
+    accessColor = 'amber';
+    accessNote = 'MB2 탐색을 위해 기존 TEC 범위에서 구개방향으로 확장 — 초음파 트로프로 3mm 홈형성 (Sujith 2014)';
+  } else if (c === 'cshape') {
+    accessType = 'TEC + C-shape 수정';
+    accessColor = 'amber';
+    accessNote = 'Melton 분류에 따라 오리파이스 형태 확인 — C1(연속 C)는 단일 탐색, C2(세미콜론)는 분리 근관 탐색, C3(분리)는 각각 별도 탐색 (Fernandes 2014)';
+  } else if (c === 'calcified') {
+    accessType = 'TEC + 유도 근관치료 (정적 또는 동적)';
+    accessColor = 'red';
+    accessNote = '석회화 근관에서는 DOM+초음파만으로 탐색 실패 시 → CBCT 유도 정적/동적 항법 또는 술중 CBCT (Floratos 2017, Ribeiro 2022)';
+  } else {
+    accessType = 'TEC + 기존 충전물 제거 후 재탐색';
+    accessColor = 'amber';
+    accessNote = '기존 충전물 완전 제거 → 근관구 재탐색 → 유실 근관 의심 시 CBCT (Mohammadi 2016)';
+  }
+
+  return `
+    <div class="result-header ${accessColor}">
+      <div class="result-icon">${c === 'simple' ? '✅' : c === 'calcified' ? '🔴' : '⚠️'}</div>
+      <div class="result-title">${toothLabel} — ${accessType}</div>
+    </div>
+    <div class="info-box ${accessColor}">${accessNote}</div>
+  `;
+}
+
+function getStats(t, c) {
+  let bars = [];
+
+  if (t === 'max-molar-1' && c === 'mb2-suspected') {
+    bars = [
+      { label: '육안 탐지', pct: 20, color: 'amber', val: '20%' },
+      { label: '+ DOM', pct: 55, color: 'blue', val: '55%' },
+      { label: '+ 초음파 트로프', pct: 70, color: 'green', val: '70%' },
+      { label: '+ CBCT gold std', pct: 86, color: 'green', val: '86%' },
+    ];
+  } else if (t === 'mand-molar-1' && c === 'mb2-suspected') {
+    bars = [
+      { label: 'MMC 유병률', pct: 46, color: 'amber', val: '~46%' },
+      { label: '근심근 isthmus', pct: 55, color: 'blue', val: '10–100%' },
+      { label: 'Type IV (MB+ML)', pct: 59, color: 'green', val: '58.7%' },
+    ];
+  } else if (c === 'calcified') {
+    bars = [
+      { label: 'CBCT 탐지 성공', pct: 67, color: 'green', val: '2/3증례' },
+      { label: '천공 없음', pct: 100, color: 'green', val: '100%' },
+    ];
+  } else if (c === 'cshape') {
+    bars = [
+      { label: 'C1 (연속 C)', pct: 45, color: 'blue', val: '~40–54%' },
+      { label: 'C2 (세미콜론)', pct: 56, color: 'amber', val: '~56%' },
+      { label: 'along-root 변화', pct: 63, color: 'red', val: '63%' },
+    ];
+  }
+
+  if (bars.length === 0) return '';
+
+  return `
+    <div style="margin-top:0.75rem">
+      <div style="font-size:0.72rem;font-weight:600;color:var(--text-3);margin-bottom:0.4rem">근거 데이터</div>
+      ${bars.map(b => `
+        <div class="stat-bar">
+          <div class="stat-label">${b.label}</div>
+          <div class="stat-track"><div class="stat-fill ${b.color}" style="width:${b.pct}%"></div></div>
+          <div class="stat-val">${b.val}</div>
+        </div>
+      `).join('')}
+    </div>
+  `;
+}
+
+function getSteps(t, c) {
+  const common = [
+    { title: '술전 방사선 확인', desc: '표준 방사선 + 측방(angled) 방사선으로 추가 근관·근 형태 파악', color: '' },
+    { title: '접근와동 형성 (TEC)', desc: '치수강 지붕 완전 제거, 경부 상아질 돌출 제거, 직선 진입 확보', color: '' },
+    { title: '육안 + 탐침으로 근관구 탐색', desc: 'Endodontic explorer (#DG16)로 근관구 위치 확인', color: '' },
+  ];
+
+  if (c === 'simple') {
+    return [
+      ...common,
+      { title: '근관구 확인 후 파일 삽입', desc: 'DG16 탐침으로 근관구 입구 확인 → #8/#10 파일로 근관 입구 탐색', color: 'green' },
+    ];
+  }
+
+  if (c === 'mb2-suspected') {
+    const isMaxMolar = t === 'max-molar-1' || t === 'max-molar-2';
+    return [
+      ...common,
+      {
+        title: isMaxMolar ? 'DOM + 초음파 트로프 (MB2 탐색)' : 'DOM + 초음파 탐색 (MMC 탐색)',
+        desc: isMaxMolar
+          ? 'MB1에서 구개근관 방향으로 DOM 하 3mm 초음파 홈형성 → 상아질 다리(dentin bridge) 제거 → MB2 노출 (Sujith 2014: 탐지율 20%→70%)'
+          : '근심근 MB-ML 발육구(developmental groove)에서 DOM 하 초음파 탐색 → MMC 입구 탐색 (Al-Rammahi 2023: 유병률 ~46%)',
+        color: 'amber',
+        note: isMaxMolar
+          ? 'CBCT gold standard 사용 시 민감도 86%, 특이도 100% (Camacho-Aparicio 2022)'
+          : 'MMC 입구는 CEJ 레벨에 위치하는 경우가 많으나, 일부는 깊은 홈형성 필요 (Al-Rammahi 2023)',
+      },
+      {
+        title: '탐지 실패 시 → CBCT',
+        desc: '초음파 탐색 후에도 근관구 미확인 시 CBCT 촬영으로 3D 위치 확인',
+        color: 'red',
+        note: 'CBCT 없이 유실 근관 방치 = 근관치료 실패의 주요 원인 (Mohammadi 2016)',
+      },
+    ];
+  }
+
+  if (c === 'cshape') {
+    return [
+      ...common,
+      {
+        title: 'C-shape 분류 확인 (Melton)',
+        desc: 'DOM으로 오리파이스 형태 관찰 — C1(연속 C형), C2(세미콜론), C3(분리된 근관)',
+        color: 'amber',
+      },
+      {
+        title: '소형 파일로 탐색 (#8/#10/#15)',
+        desc: '각 라임(limb)을 개별적으로 탐색 — isthmus 및 fin은 기구 접근 불가 (Fernandes 2014)',
+        color: '',
+      },
+      {
+        title: '초음파 + 화학세척 강화',
+        desc: 'NaOCl 5.25% + 17% EDTA + 초음파/소닉 활성화 → isthmus·fin 세정 (Biswas 2023, Wei 2025)',
+        color: 'amber',
+        note: 'C-shape의 얇은 벽(min 0.26mm) → 스트립 천공 위험 — 형성 시 주의 (Fernandes 2014)',
+      },
+    ];
+  }
+
+  if (c === 'calcified') {
+    return [
+      ...common,
+      {
+        title: 'DOM + 초음파 석회화 탐색',
+        desc: '미세 초음파 팁으로 석회화 상아질 층을 벗겨가며 근관구 탐색',
+        color: 'amber',
+      },
+      {
+        title: '탐색 실패 시 → CBCT 유도',
+        desc: 'GP point를 추정 근관구 위치에 삽입 → 술중 CBCT → GP-근관구 3D 거리 계산 → 초음파 방향 재조정 (Floratos 2017)',
+        color: 'red',
+        note: '3증례 모두 천공 없이 성공. 다만 심한 폐쇄(Case 3)에서는 2개 중 1개만 탐색 가능 — 방사선 피폭과 천공 위험 비교 형량 필요',
+      },
+      {
+        title: '정적(SN) 또는 동적(DN) 유도 근관치료',
+        desc: 'CBCT 기반 3D 프린팅 템플릿(SN) 또는 실시간 추적(DN)으로 정밀 유도 — PCO·비가시 근관구에 적합 (Ribeiro 2022)',
+        color: 'red',
+        note: 'SN: 예측 가능 해부·중간 비용 / DN: 술중 경로 수정 가능·고비용·학습곡선 가파름',
+      },
+    ];
+  }
+
+  if (c === 'retreatment') {
+    return [
+      ...common,
+      {
+        title: '기존 충전물 완전 제거',
+        desc: 'NiTi 파일 + 용매로 기존 충전물(GP, 시너) 제거 → 근관구 재노출',
+        color: 'amber',
+      },
+      {
+        title: '유실 근관 탐색',
+        desc: '술전 CBCT 또는 술중 CBCT로 유실 근관 위치 확인 → 초음파로 해당 위치 탐색',
+        color: 'red',
+        note: '유실 근관 1개 = 근관주위 병소 오즈비율 3.66배 증가 (Wei 2025 인용)',
+      },
+    ];
+  }
+
+  return common;
+}
+
+function getRefs(t, c) {
+  const base = [
+    { text: 'Mohammadi 2016 — 놓친 근관 예방 5전략 (서술 리뷰)', link: 'wiki/endodontics/anatomy/mohammadi-2016-methods-decrease-missed-root-canals' },
+    { text: 'Dioguardi 2024 — 접근와동 vs 근관구 탐지 (스코핑 리뷰)', link: 'wiki/endodontics/anatomy/dioguardi-2024-access-cavity-designs-canal-orifice-scoping' },
+  ];
+
+  if (t === 'max-molar-1' || t === 'max-molar-2') {
+    base.push({ text: 'Sujith 2014 — MB2 탐지 육안→DOM→초음파 단계적 상승', link: 'wiki/endodontics/anatomy/sujith-2014-microscope-ultrasonic-mb2-detection-vivo' });
+    base.push({ text: 'Camacho-Aparicio 2022 — DOM+초음파 MB2 (CBCT gold standard)', link: 'wiki/endodontics/anatomy/camacho-aparicio-2022-dom-ultrasonic-mb2-maxillary-molar' });
+  }
+  if (t === 'mand-molar-1') {
+    base.push({ text: 'Al-Rammahi 2023 — 하악 제1대구치 micro-CT 해부 (SR+MA)', link: 'wiki/endodontics/anatomy/al-rammahi-2023-mandibular-first-molar-microct-anatomy-sr' });
+  }
+  if (c === 'cshape') {
+    base.push({ text: 'Fernandes 2014 — C-shape 근관 리뷰', link: 'wiki/endodontics/anatomy/fernandes-2014-cshaped-root-canal-configuration-review' });
+    base.push({ text: 'Biswas 2023 — See-through C 증례', link: 'wiki/endodontics/anatomy/biswas-2023-see-through-c-case-series' });
+  }
+  if (c === 'calcified') {
+    base.push({ text: 'Floratos 2017 — 술중 CBCT 유도 근관 탐색', link: 'wiki/endodontics/anatomy/floratos-2017-intraoperative-cbct-calcified-canals' });
+  }
+  base.push({ text: 'Kapetanaki 2021 — TEC vs MIA 문헌 리뷰', link: 'wiki/endodontics/anatomy/kapetanaki-2021-access-cavity-designs-endodontic-review' });
+  base.push({ text: 'ENDO 접근와동 결정트리 오버뷰', link: 'wiki/overviews/endodontic-access-cavity-decision-tree' });
+
+  return `
+    <div class="ref-list">
+      <div style="font-size:0.65rem;font-weight:700;color:var(--text-3);margin-bottom:0.2rem">근거 출처</div>
+      ${base.map(r => `<div class="ref-item">· ${r.text}</div>`).join('')}
+    </div>
+  `;
+}
+</script>
+</body>
+</html>
