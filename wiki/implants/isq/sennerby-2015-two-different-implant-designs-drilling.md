@@ -6,10 +6,8 @@ date: 2015-01-01
 doi: "10.11607/jomi.3903"
 source: sennerby-2015-two-different-implant-designs-drilling.md
 category: implants/isq
-confidence: in-vitro
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+evidence_level: in-vitro
+source_collection: pubmed-abstract
 tags: [RFA, ISQ, lateral-displacement, flex-constant, primary-stability, implant-design, bone-density, tapered-implant]
 relations:
   - type: extends
@@ -25,6 +23,22 @@ In-vitro bench study (n=18 pairs, bovine bone) simultaneously measuring RFA and 
 ## 한줄요약
 
 소 골 블록 인비트로 연구: 테이퍼형 임플란트+테이퍼 드릴이 삽입토크·ISQ·측방 변위(μm) 전 지표에서 우세 — 골밀도(Hounsfield Unit, HU) 낮을수록 차이 현저, 고밀도 골에서는 디자인 차이 소멸.
+
+## Three-line Summary
+
+In-vitro bench study (n=18 pairs, bovine bone, CT-verified bone density) comparing a tapered implant with tapered drills vs a subtle-taper implant with straight drills, simultaneously measuring insertion torque, RFA/ISQ, and direct lateral displacement (15 N force, μm) with a derived flex constant (μm/N).
+
+Tapered implants with tapered drills showed significantly higher primary stability across all three metrics; the advantage was most pronounced in low-density bone and collapsed in high-density bone where bone quality dominated implant geometry.
+
+Tapered implant designs offer a mechanical advantage specifically in low-density bone (posterior maxilla analog); in dense bone, macro-geometry contributes little beyond what bone quality already provides — ISQ and direct displacement confirm the same density-dependent pattern.
+
+## 세줄요약
+
+소 골 블록 in-vitro 연구(n=18쌍, CT-확인 골밀도): 테이퍼형 임플란트+테이퍼 드릴 vs 미약 테이퍼+직선 드릴을 삽입 토크·공명주파수분석(Resonance Frequency Analysis, RFA)·직접 측방 변위(15N, μm)·플렉스 상수(flex constant, μm/N) 4지표로 비교.
+
+테이퍼형 설계가 전 지표에서 유의하게 높은 1차 안정성; 저밀도 골에서 차이 현저, 고밀도 골에서는 골질이 임플란트 형태를 압도해 디자인 차이 소멸.
+
+저밀도 골(후방 상악 유사체)에서만 테이퍼형 임플란트의 기계적 이점이 실재; 임플란트 안정성 지수(ISQ)와 실측 변위(μm)가 동일 패턴 확인 — 골질 맥락 없이 ISQ 단독 해석은 불충분함을 시사.
 
 ## Summary
 
