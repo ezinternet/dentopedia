@@ -2801,6 +2801,8 @@ tags: []
 - [[endodontics/shaping/siqueira-2018-unprepared-root-canal-surface-areas]] — Siqueira 2018 · narrative-review · Instruments leave ~10–50% of round/small canals and up to 80% of oval/flattened canals unprepared (worse apically), sheltering biofilm that drives post-treatment AP; rationale for supplementary disinfection (DOI 10.1590/1807-3107bor-2018.vol32.0065)
 - [[endodontics/shaping/lee-2026-residual-pericervical-apical-dentine-vertical]] — Lee 2026 · retrospective (case-control, 44 vs 92) · 근관치료 대구치 수직치근파절(VRF) — 치경부 아닌 치근단부 잔존 상아질 과소실이 최강 위험인자; 통합모델 AUC 0.940 (DOI 10.1002/cre2.70293)
 - [[endodontics/shaping/rathke-2024-ex-vivo-minimally-invasive-endodontic]] — Rathke 2024 · in-vitro · Ex vivo 상악중절치(n=18/군) — 최소침습 근관성형(#40/.04)이 관행확대(#80) 대비 VRF·균열 유의하게 줄이지 못함; +MIE/시멘트실러 오히려 무처치보다 저항성↓ (DOI 10.1038/s41598-024-63396-y)
+- [[endodontics/shaping/ishizaki-2026-clinical-significance-anatomical-considerations-apical-patency]] — 근단 개통성(Apical Patency) 종합 리뷰: 술후 통증 완화 가능(메타분석), CBCT로 MB2 확인 필수, "해부학적 개통성" vs "시술적 개통성" 구분 제시
+- [[endodontics/shaping/kuzhanchinathan-2024-influence-apical-patency-endodontic-treatment]] — 근관개無しが 장기 추적에서 치유율 약 2배 증가 (5편, 4370 root, 체계적 문헌고찰)
 
 ### endodontics/visit-protocol (NEW subcategory, added 2026-06-13)
 
