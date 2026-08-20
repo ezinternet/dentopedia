@@ -1,4 +1,9 @@
 {
   "cssTheme": "Obsidian Nord",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "baseFontSize": 20,
+  "baseFontSizeAction": true,
+  "interfaceFontFamily": "Apple SD Gothic Neo",
+  "textFontFamily": "Apple SD Gothic Neo",
+  "monospaceFontFamily": "Apple SD Gothic Neo"
 }
