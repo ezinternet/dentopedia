@@ -31,6 +31,14 @@ source_papers:
   - drug/antibiotics/esposito-2013-antibiotics-dental-implant-placement-cochrane
   - drug/antibiotics/kwon-2023-microbial-isolates-antibiotic-sensitivity-odontogenic
   - drug/antibiotics/liu-2024-antibiotic-prophylaxis-surgical-nonsurgical-safety-umbrella-review
+  - drug/antibiotics/lockhart-2019-antibiotic-pulpal-periapical-pain-swelling
+  - drug/antibiotics/tampi-2019-antibiotics-pulpitis-apical-abscess-sr
+  - drug/antibiotics/segura-egea-2017-antibiotics-in-endodontics-a-review
+  - drug/antibiotics/law-2026-antibiotics-after-non-surgical-root
+  - drug/antibiotics/momand-2024-antibiotic-prophylaxis-early-implant-failure
+  - drug/antibiotics/low-2026-dental-antibiotic-prescribing-practices-singapore
+  - drug/antibiotics/nazari-2026-general-dentists-antibiotic-prescription-endodontic-shiraz
+  - drug/antibiotics/goel-2020-antibiotic-prescriptions-in-pediatric-dentistry
 evidence_level: synthesis
 source: synthesis
 agenda: agenda/2026-05-27_drug-overview-split.md
@@ -52,6 +60,11 @@ agenda: agenda/2026-05-27_drug-overview-split.md
 > - 우리 클리닉 즉시 적용 5룰: ① 단순 발치 예방 처방 폐지 ② 임플란트는 술전 단일 2g만 ③ AP에 광범위 항생제 금지 (근관치료 1차) ④ Clindamycin 1차 회피 ⑤ 치주 깊은 낭에는 국소 전달 항생제 우선 (전신 대신).
 > - **국제 처방 실태 조사 (prescribing-practice surveys) 코러버레이션 (2026 신규 3편)**: 실제 임상에서 가이드라인 대비 과처방이 광범위하다는 근거. 싱가포르 (Low 2026, 치과의사 280명) — 예방적 항생제 (antibiotic prophylaxis) 를 사랑니 발치 후 71.2%·임플란트 식립 전 73.5%가 과처방, 치주·구강외과 적정 처방률 최저 (30.4%·34.0%). 이란/시라즈 (Nazari 2026, 일반의·전공의 103명) — 국소 급성 근단농양에 51.5%·면역저하 환자에 69.9%가 부적절 처방, 지식↔수행 괴리.
 > - 독일 (Kinzel 2026, 치과의사 537명) — 예방 처방은 전반적으로 절제됐으나 불일치: 심내막염 위험군·면역억제군만 양성 trend, 당뇨·관절치환군은 음성 consensus. 네 조사 모두 1차약 아목시실린 (Amoxicillin, AMX), 페니실린 알레르기 시 클린다마이신 (Clindamycin) 선택 — 약물 선택은 가이드라인 준수하나 적응증 판단에서 과처방. 세 조사 공통: 추가 교육 요구 88%대, 가이드라인 배포만으로는 불충분 → 감사+피드백 (Audit and Feedback, A&F)·모바일 앱·임상 의사결정 지원 (Clinical Decision Support, CDS) 필요.
+> - **ADA 가이드라인 증거 기반 (Lockhart 2019 + Tampi 2019)**: 치수염·치근단통증에 항생제 금지(강한 권고); Tampi 2019 SR+MA — 3개 RCT만 포함, 모든 결과에서 VAS 0-3 기준 MD 0.09-0.39로 임상적 의미 없음; 항생제 내성 연간 23,000명 사망(CDC). [확인]
+> - **근관치료 후 항생제 처방 (Law 2026, 미국 PBRN)**: 153명 치과의사·1,723명 환자 — 19%가 근관치료 후 항생제 복용(가이드라인 대비 과잉); 소수 인종·저학력 환자에게 더 많이 처방(형평성 격차); AP(OR=1.56)·TTP(OR=1.40)가 처방 증가 인자. [확인]
+> - **근관치료 항생제 종합 (Segura-Egea 2017, 유럽 Working Group)**: 60여 년문 종합 — SIP·치수괴사·국소 농양에는 항생제 무효, 배농이 1차; 유럽 치과의사 40-86%가 금기 처방; Amoxicillin 1차, Clindamycin 대체. [확인]
+> - **임플란트 예방 불필요 (Momand 2024 SR+MA)**: 위약대조 이중맹검 RCT 7편만 포함 — RR 0.66(0.30-1.47), NNT 143; 즉시 발치 후 임플란트 제외 시 방향 역전(RR 1.10) → 건강 환자 비복잡 임플란트에 예방 불필요. [확인]
+> - **소아 항생제 처방 (Goel 2020)**: 소아 치과 항생제 처방 종합 — 적응증·용량·안전성 고려 필요. [확인]
 
 ## Three-line Summary
 
@@ -386,6 +399,14 @@ GRADE 확실성: 항생제의 감염 예방 효과는 **낮음**, 임플란트 �
 - [[drug/antibiotics/sutej-2024-antibiotic-prescribing-trends-dentistry-croatia]] — 크로아티아 10년 추세
 - [[drug/antibiotics/bazsefidpay-2023-antibiotic-restrictive-use-adherence-recommendation]] — Karolinska restrictive 평가
 - [[drug/mronj/vidovic-juras-2024-antibiotic-prophylaxis-dental-procedures]] — 적응증 narrowing narrative
+- [[drug/antibiotics/lockhart-2019-antibiotic-pulpal-periapical-pain-swelling]] — ADA 2019 CPG (Tampi와 쌍)
+- [[drug/antibiotics/tampi-2019-antibiotics-pulpitis-apical-abscess-sr]] — ADA CPG 증거 기반 SR+MA
+- [[drug/antibiotics/segura-egea-2017-antibiotics-in-endodontics-a-review]] — 근관치료 항생제 유럽 종합
+- [[drug/antibiotics/law-2026-antibiotics-after-non-surgical-root]] — 미국 PBRN 근관치료 후 처방
+- [[drug/antibiotics/momand-2024-antibiotic-prophylaxis-early-implant-failure]] — 임플란트 예방 불필요 SR+MA
+- [[drug/antibiotics/low-2026-dental-antibiotic-prescribing-practices-singapore]] — 싱가포르 처방 실태
+- [[drug/antibiotics/nazari-2026-general-dentists-antibiotic-prescription-endodontic-shiraz]] — 이란 처방 실태
+- [[drug/antibiotics/goel-2020-antibiotic-prescriptions-in-pediatric-dentistry]] — 소아 처방 종합
 
 ### 인접 overview
 - [[drug-antibiotic-odontogenic-pain-overview]] — **자매 오버뷰**: 치수·근단 통증 및 치성감염 항생제 (SIP/AP/AAA/치관주위염/근관치료 후/소아/임플란트 NNT=143)
