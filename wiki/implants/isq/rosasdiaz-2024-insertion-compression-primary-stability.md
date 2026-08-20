@@ -6,7 +6,7 @@ date: 2024-12-18
 doi: "10.3390/biomedicines12122878"
 source: rosasdiaz-2024-insertion-compression-primary-stability.md
 category: implants/isq
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/rosasdiaz-2024-insertion-compression-primary-stability.pdf
 pdf_filename: rosasdiaz-2024-insertion-compression-primary-stability.pdf
 source_collection: external
@@ -23,6 +23,22 @@ In vitro study (n=120 implants, polyurethane type II-A bone) demonstrating that 
 
 ## 한줄요약
 In-vitro 연구(n=120, 폴리우레탄 II-A형 골질): under-milling 0.2→0.8mm 시 삽입 토크값(ITV, ISQ)은 25→63 Ncm으로 유의 증가하나 ISQ는 67.6/65.8/65.7로 무유의(p=0.166) — ITV·ISQ 해리(dissociation) 실증.
+
+## Three-line Summary
+
+In-vitro study (n=120 implants, polyurethane type II-A bone blocks, 4 diameters × 5 lengths) testing three under-milling compression protocols (0.2, 0.5, 0.8 mm) on primary stability measured by both insertion torque value (ITV) and ISQ immediately post-placement, analyzed with MANOVA.
+
+Under-milling degree dramatically increased ITV (25.1→63.2 Ncm, p<0.001) but did not significantly alter ISQ (67.6 vs 65.7, p=0.166); compression protocol explained 63.9% of combined ITV+ISQ variance (ηp²=0.639), implant diameter 27.0%, and length 12.1%, with no interaction effects.
+
+In type II-A bone, high ITV from aggressive under-milling does not predict equivalently high ISQ; clinicians using compression protocols for immediate loading should rely on ISQ measurements rather than inferring resonance-frequency stability from torque values alone.
+
+## 세줄요약
+
+In-vitro 연구(n=120, 폴리우레탄 II-A형 골질, 직경 4종 × 길이 5종): 부족삭제(under-milling) 0.2/0.5/0.8mm 3수준에서 즉시 측정한 삽입 토크값(ITV)과 임플란트 안정성 지수(ISQ)를 다변량분산분석(MANOVA)으로 비교.
+
+under-milling 정도가 ITV를 크게 증가(25.1→63.2 Ncm, p<0.001)시키지만 ISQ에는 유의한 영향 없음(67.6 vs 65.7, p=0.166); 압축 프로토콜이 ITV+ISQ 합산 분산의 63.9%(ηp²=0.639), 직경 27.0%, 길이 12.1% 설명, 상호작용 효과 없음.
+
+II-A형 골질에서 공격적 under-milling의 높은 ITV가 동등한 ISQ 상승을 예측하지 못함 — 즉시 부하 시 안정성 판단은 토크값 대신 ISQ 실측에 의존해야 함.
 
 ## Summary
 Rosas-Díaz et al. (2024) investigated how different under-milling compression protocols (0.2, 0.5, 0.8mm undersized osteotomy) influence primary stability in type II-A bone quality (polyurethane model, 120 implants across 4 diameters and 5 lengths). ITV rose dramatically with greater compression (25.1 Ncm at 0.2mm vs 63.2 Ncm at 0.8mm; p<0.001), but ISQ was not significantly different across protocols (67.6 vs 65.7; p=0.166). Multivariate analysis (MANOVA) showed compression protocol explains 63.9% of combined ITV+ISQ variability, with implant diameter accounting for 27.0% and length for 12.1%. No significant interactions were found. This dissociation between ITV and ISQ challenges the clinical assumption that higher insertion torque reflects proportionally higher resonance-frequency-defined stability in medium-density bone.
