@@ -18,6 +18,22 @@ Cross-sectional study (n=60 implants, 18 patients) confirming excellent ICC=0.96
 ## 한줄요약
 단면 연구(n=60 임플란트, 18명): SmartPeg I·II 모두 ICC=0.96, Osstell 임플란트 안정성 지수(ISQ) 측정의 우수한 반복성·재현성 확인.
 
+## Three-line Summary
+
+Cross-sectional clinical reliability study (n=60 implants, 18 patients) assessing repeatability and reproducibility of the Osstell ISQ system using SmartPeg Types I and II, with 3 consecutive measurements per SmartPeg per implant (6 total), and ICC as the primary statistical outcome.
+
+ICC = 0.96 for both SmartPeg Type I and II; mean ISQ stable at ~71 across sequential measurements; <3 ISQ variability found in 46.3% (Type I) and 58.6% (Type II) of cases.
+
+A single Osstell ISQ reading is highly repeatable in a real clinical setting; both SmartPeg types are equivalent in reliability and interchangeable for routine loading-decision workflows.
+
+## 세줄요약
+
+임상 단면 신뢰도 연구(n=60 임플란트, 18명): SmartPeg I·II형 각 3회 연속 측정(총 6회/임플란트)으로 Osstell 임플란트 안정성 지수(ISQ) 반복성·재현성 평가, 급내상관계수(ICC) 산출.
+
+SmartPeg I·II 모두 ICC=0.96; 평균 ISQ ~71로 안정; 46–59% 증례에서 측정간 차이 3 ISQ 미만.
+
+임상 환경에서 Osstell ISQ 단회 측정은 매우 반복성이 높으며 SmartPeg 유형이 신뢰도에 영향 없음 — 부하 결정 시 SmartPeg I·II 구분 없이 사용 가능.
+
 ## 1. Document Information
 - Journal: Bioinformation, Volume 20(8): 921–925 (2024)
 - Published: August 31, 2024
