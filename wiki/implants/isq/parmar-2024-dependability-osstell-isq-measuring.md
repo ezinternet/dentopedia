@@ -6,7 +6,7 @@ date: 2024-08-31
 doi: "10.6026/973206300200921"
 source: parmar-2024-dependability-osstell-isq-measuring.md
 category: implants/isq
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/parmar-2024-dependability-osstell-isq-measuring.pdf
 pdf_filename: parmar-2024-dependability-osstell-isq-measuring.pdf
 source_collection: external
@@ -23,6 +23,22 @@ Cross-sectional study (n=60 implants, 18 patients) demonstrating ICC=0.96 for Os
 
 ## 한줄요약
 단면 연구(n=60, 18명): SmartPeg I·II 모두 ICC=0.96 — Osstell 임플란트 안정성 지수(ISQ) 임상 반복성·재현성 우수 확인.
+
+## Three-line Summary
+
+Cross-sectional clinical reliability study (n=60 implants, 18 patients) assessing repeatability and reproducibility of the Osstell ISQ system using SmartPeg Types I and II, with 3 consecutive measurements per SmartPeg per implant (6 total), and ICC calculated for both SmartPeg types.
+
+ICC = 0.96 for both SmartPeg Type I and II; mean ISQ stable at ~71 across sequential measurements; <3 ISQ variability found in 46.3% (Type I) and 58.6% (Type II) of cases.
+
+A single Osstell ISQ reading is highly repeatable in a real clinical setting; both SmartPeg types are equivalent in reliability and interchangeable for routine implant loading-decision workflows.
+
+## 세줄요약
+
+임상 단면 신뢰도 연구(n=60 임플란트, 18명): SmartPeg I·II형 각 3회 연속 측정(총 6회/임플란트)으로 Osstell 임플란트 안정성 지수(ISQ) 반복성·재현성 평가.
+
+SmartPeg I·II 모두 급내상관계수(Intraclass Correlation Coefficient, ICC)=0.96; 평균 ISQ ~71로 안정; 46–59% 증례에서 측정간 차이 3 ISQ 미만.
+
+임상 환경에서 Osstell ISQ 단회 측정은 매우 반복성이 높으며 SmartPeg 유형 선택이 측정 신뢰도에 영향 없음 — 부하 결정 시 SmartPeg I·II 구분 없이 사용 가능.
 
 ## Summary
 Parmar et al. (2024) assessed the repeatability and reproducibility of the Osstell ISQ system using two SmartPeg types (I and II) across 60 implants in 18 patients. Each implant received 3 sequential measurements per SmartPeg (6 total). Mean ISQ values were ~71 for both SmartPeg types with minimal between-measurement drift. Intraclass correlation coefficients reached 0.96 for both SmartPeg types, meeting the threshold for excellent reliability. The authors conclude that the Osstell ISQ system demonstrates near-excellent repeatability and reproducibility for clinical use.
