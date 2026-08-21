@@ -9,9 +9,11 @@ pmc: "PMC12731776"
 source: benekou-2025-histological-arp-vs-spontaneous-healing-sr-ma.md
 category: bone-regeneration/ridge-preservation
 confidence: sr+ma
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+source_collection: pubmed-text
+full_text: true
+source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12731776/
+text_path: /Users/oracleneo/llm-wiki/papers/benekou-2025-histological-arp-vs-spontaneous-healing-sr-ma.txt
+text_filename: benekou-2025-histological-arp-vs-spontaneous-healing-sr-ma.txt
 tags: [arp, socket-preservation, histomorphometry, new-bone-formation, prf, xenograft, spontaneous-healing, sr-ma]
 relations:
   - type: extends
