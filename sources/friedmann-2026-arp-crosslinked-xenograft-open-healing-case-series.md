@@ -6,10 +6,14 @@ doi: "10.3290/j.qi.b7003245"
 pmid: "42100841"
 pmc: ""
 category: bone-regeneration/ridge-preservation
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+source_collection: pubmed-text
+full_text: false
+source_url: https://pubmed.ncbi.nlm.nih.gov/42100841/
+text_path: /Users/oracleneo/llm-wiki/papers/friedmann-2026-arp-crosslinked-xenograft-open-healing-case-series.txt
+text_filename: friedmann-2026-arp-crosslinked-xenograft-open-healing-case-series.txt
 ---
+
+abstract-only — PubMed structured abstract only; full text not retrieved (no PMC copy, no PDF). Artifact: papers/friedmann-2026-arp-crosslinked-xenograft-open-healing-case-series.txt
 
 ## Why Ingested
 Open-healing ARP is a key topic flagged in the decay audit (open-healing-arp decay axis 0.50). The wiki has [[bone-regeneration/ridge-preservation/ionescu-2022-open-healing-flapless-ridge-preservation]] for open-healing with DBBM+collagen membrane; Friedmann 2026 adds a distinct scaffold (sugar-crosslinked collagen/HA sponge — SCLC/HA) without primary closure, showing complete xenograft remodeling on late reentry biopsy. This fills the "SCLC/HA open-healing" gap identified by the decay sweep.
