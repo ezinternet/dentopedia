@@ -1815,6 +1815,7 @@ tags: []
 ## 근거 평가·통계방법론 (Evidence Appraisal / Biostatistics Methodology)
 - [[evidence-appraisal/singh-2026-is-your-research-statistically-significant]] — Singh 2026 · narrative-review(editorial) · 통계적 유의 ≠ 임상적 유의; 표본·검정력 부족이 실제 효과 은폐; effect size·CI·임상관련성으로 해석 (DOI 10.4103/JCDE.JCDE_504_26)
 - [[evidence-appraisal/kiriakou-2014-evidence-based-dentistry-skills-interpret]] — Progress Orthod 2014, narrative review: 치과의사용 EBD 5단계 + RCT/SR critical appraisal 입문 (DOI 10.1186/s40510-014-0058-5)
+- [[evidence-appraisal/asl-aminabadi-2025-implication-gap-why-evidence]] — EBD 지침이 임상에 안 먹히는 'implication gap'을 임상의 문제가 아닌 경제·복잡성·환자변이·인지과부하의 시스템 실패로 재프레임한 사설 (J Dent Res Dent Clin Dent Prospects 2025) [narrative-review]
 - [[evidence-appraisal/shin-wj-2015-systematic-review-meta-analysis-introduction]] — Hanyang Med Rev 2015, 한국어: SR/MA full pipeline — 검색·선정·질평가·effect size·I²·고정/랜덤·funnel/Egger (DOI 10.7599/hmr.2015.35.1.9)
 - [[evidence-appraisal/shin-ih-2009-meta-analysis-critical-interpretation]] — 2009 대한간학회 추계학술대회 강의(한국어): MA 개념·전제·heterogeneity·publication bias 입문
 - [[evidence-appraisal/nam-2012-statistical-methods-medical-studies]] — JKMA 2012, 한국어 (연세의대 예방의학·의학통계): 검정 선택 flowchart — t-test/ANOVA/비모수/카이제곱/log-rank/회귀 (DOI 10.5124/jkma.2012.55.6.573)
@@ -2288,6 +2289,7 @@ tags: []
 - [[practice-management/ono-2022-cost-sharing-childhood-dental-utilization-japan]] — Ono 2022 · retrospective(DiD, 일본 청구자료 n=1,108) · 소아 치과보조금 중단(만10세)이 단기 이용·비용·중증치아상태에 유의 변화 없음 — 보편의료 맥락 cost-sharing (초록기반)
 - [[practice-management/listl-2019-what-is-health-economics-oral-health]] — Listl 2019 · narrative-review · 치과 보건경제학 입문: 수요·비대칭정보·시장실패(효율·형평)·경제성평가·공급자유발수요·인력기획 (초록기반)
 - [[practice-management/team-feedback-system-johari]] — 내부 SOP (synthesis, 2026-07-11 신설) · 조하리의 창 기반 팀 피드백 시스템 운영 매뉴얼: 상향 익명 → 실장 1:1 실명 → 파트 수평 3단계, 리더 자기개방 선행·루프 클로징 원칙, 위생사 ~20명 팀 대상. 도입 결정 [[note-meeting/2026-07-11_wiki-team-feedback-system]]
+- [[practice-management/george-2025-gaps-dentistry-between-education]] — 신규 치대졸업생 10명 전원(10/10)이 졸업 직후 독자 진료 준비 부족을 호소한 질적 인터뷰 연구: 이론-실천 간극의 6개 주제(교육과정 통합·프리셉터·직접 감독·환자 안전 등) 도출, 내용타당도 지수(Content Validity Index, CVI) 0.90 (J Orofacial Sciences 2025) [cross-sectional]
 
 ### resin (added 2026-05-24, batch c)
 
@@ -3354,6 +3356,7 @@ tags: []
 #### behavioral-dentistry/patient-reported-outcomes — sinus lift PROM
 - [[behavioral-dentistry/patient-reported-outcomes/menini-2025-proms-sinus-lift-procedures-sr-ma]] — Menini 2025 · sr+ma (12 RCT+1): graftless·transcrestal이 grafted·lateral보다 술후 통증·불편감 적음 (abstract 기반·preprint, 수치 미검증)
 - [[behavioral-dentistry/patient-reported-outcomes/tonetti-2025-aesthetics-patient-reported-outcomes-consensus]] — Tonetti 2025 ERC, aesthetics & PROs in periodontology/implant dentistry consensus
+- [[behavioral-dentistry/patient-reported-outcomes/wu-2024-preanesthetic-oral-examination-servqual]] — 마취전 구강검진(Preanesthetic Oral Examination, PAOE)군(n=286)이 대조군(n=130)보다 신뢰성·응답성·공감 지각이 낮았으나 만족도는 양군 모두 높아(7점 만점 6.17 vs 6.39) — SERVQUAL 모델 적용, 학제간 치과손상 예방 프로그램의 서비스품질 비용은 제한적 (BMC Oral Health 2024) [cross-sectional]
 
 ### Overview (added 2026-06-10)
 - [[overviews/short-implant-vs-sinus-augmentation-decision]] — 위축 상악 구치부 short implant vs 상악동거상 의사결정 종합(SR/MA 6 + PROM 1): 생존 동등·short MBL 우위·이환 낮음 → RBH·C/I비·환자경험이 결정축, ≥5yr 근거는 thin·low-certainty
@@ -4160,6 +4163,8 @@ tags: []
 
 ### caries
 - [[caries/gupta-2020-fluoride-antibacterial-caries-sr-ma]] — Gupta 2020 · sr+ma · 불소-항균제 병용이 불소 단독보다 우식 예방 우수 (SMD = -0.12, p = 0.004) (DOI 10.1007/s40368-020-00561-7)
+- [[caries/kakudate-2020-evidence-practice-gap-pbrn]] — 일본 JDPBRN 치과의사 206명의 최소개입치의학(Minimal Intervention Dentistry, MID) 근거 일치도 평균·중앙값 60% — 심부 우식·우식위험도평가(Caries Risk Assessment, CRA)에서 최저(33–54%); 영어 논문 빈용 시 일치도 2.45배 상승(OR 2.45, 95% CI 1.08–5.59) [cross-sectional]
+- [[caries/kakudate-2024-evidence-practice-gap-japan-brazil]] — 일본 136명 vs 브라질 110명 치과의사 MID 근거-실천 격차 국제 비교: 전체 일치율 브라질 56% vs 일본 38%(p=0.007), 격차 핵심은 CRA 시행률(91% vs 68%, p<0.001); 일본은 영어 학술지 활용 OR 2.44 상승('언어 갭'), 브라질은 인터넷 정보 의존 OR 0.39 하락 [cross-sectional]
 
 ### oral-surgery/third-molar
 - [[oral-surgery/third-molar/canellas-2020-intrasocket-ao-third-molar-sr-nma]] — Canellas 2020 · sr+ma · 치조내 중재로 사랑니 발치 후 건성치조 예방 (RR = 0.39, p < 0.0001) (DOI 10.1016/j.jcms.2020.06.012)
