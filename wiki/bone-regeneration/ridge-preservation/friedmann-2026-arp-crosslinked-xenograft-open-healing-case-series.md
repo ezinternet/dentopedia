@@ -8,9 +8,11 @@ pmid: "42100841"
 source: friedmann-2026-arp-crosslinked-xenograft-open-healing-case-series.md
 category: bone-regeneration/ridge-preservation
 confidence: case-report
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+source_collection: pubmed-text
+full_text: false
+source_url: https://pubmed.ncbi.nlm.nih.gov/42100841/
+text_path: /Users/oracleneo/llm-wiki/papers/friedmann-2026-arp-crosslinked-xenograft-open-healing-case-series.txt
+text_filename: friedmann-2026-arp-crosslinked-xenograft-open-healing-case-series.txt
 tags: [arp, open-healing, sclc-ha, socket-preservation, xenograft, implant-survival, crosslinked-collagen]
 relations:
   - type: extends
@@ -18,6 +20,8 @@ relations:
   - type: refines
     target: benekou-2025-histological-arp-vs-spontaneous-healing-sr-ma
 ---
+
+abstract-only — PubMed structured abstract only; full text not retrieved (no PMC copy, no PDF). Artifact: papers/friedmann-2026-arp-crosslinked-xenograft-open-healing-case-series.txt
 
 ## 한줄요약
 증례시리즈(49명, 62부위): SCLC/HA 스펀지 개방치유(봉합만, 잔여 협측골 ≥50% 적응증) — 전 부위 합병증 없이 치유; 72% 추가증대 불필요; 1년 임플란트 생존율 98.2%; 6개월 초과 재진입 시 이종골 완전 개조.
