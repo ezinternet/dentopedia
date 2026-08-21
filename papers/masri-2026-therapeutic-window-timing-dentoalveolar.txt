@@ -1,0 +1,425 @@
+pmc JBMR Plus JBMR Plus 3514 jbmrplus 101707013 jbmrplus JBMR Plus 2473-4039 Oxford University Press PMC13050504 PMC13050504.1 13050504 13050504 41943819 10.1093/jbmrpl/ziag038 ziag038 1 Research Article AcademicSubjects/MED00010 AcademicSubjects/MED00160 AcademicSubjects/MED00250 The therapeutic window: timing dentoalveolar surgery to minimize MRONJ risk in denosumab-treated osteoporotic patients Masri Daya 
+ Department of Oral and Maxillofacial Surgery, Rabin Medical Center—Beilinson Hospital , Petach Tikva 49414 , Israel 
+ Department of Oral and Maxillofacial Surgery, The Maurice and Gabriela Goldschleger School of Dental Medicine, Tel Aviv University , Tel Aviv 69978 , Israel Conceptualization Formal analysis Investigation Methodology Supervision Writing - original draft Writing - review & editing Rosenfeld Eli 
+ Department of Oral and Maxillofacial Surgery, Rabin Medical Center—Beilinson Hospital , Petach Tikva 49414 , Israel 
+ Department of Oral and Maxillofacial Surgery, The Maurice and Gabriela Goldschleger School of Dental Medicine, Tel Aviv University , Tel Aviv 69978 , Israel Investigation Validation Writing - review & editing Adut Shaked 
+ Department of Oral and Maxillofacial Surgery, Rabin Medical Center—Beilinson Hospital , Petach Tikva 49414 , Israel 
+ Department of Oral and Maxillofacial Surgery, The Maurice and Gabriela Goldschleger School of Dental Medicine, Tel Aviv University , Tel Aviv 69978 , Israel Data curation Formal analysis Validation Writing - review & editing Chaushu Gavriel 
+ Department of Oral and Maxillofacial Surgery, Rabin Medical Center—Beilinson Hospital , Petach Tikva 49414 , Israel 
+ Department of Oral and Maxillofacial Surgery, The Maurice and Gabriela Goldschleger School of Dental Medicine, Tel Aviv University , Tel Aviv 69978 , Israel Conceptualization Investigation Methodology Validation Writing - review & editing Tsvetov Gloria 
+ Department of Endocrinology, Diabetes and Metabolism, Rabin Medical Center—Beilinson Hospital , Petach Tikva 49414 , Israel Conceptualization Formal analysis Investigation Writing - review & editing Avishai Gal 
+ Department of Oral and Maxillofacial Surgery, Rabin Medical Center—Beilinson Hospital , Petach Tikva 49414 , Israel 
+ Department of Oral and Maxillofacial Surgery, The Maurice and Gabriela Goldschleger School of Dental Medicine, Tel Aviv University , Tel Aviv 69978 , Israel Formal analysis Validation Writing - review & editing Ghanaiem Omar 
+ Department of Oral and Maxillofacial Surgery, Rabin Medical Center—Beilinson Hospital , Petach Tikva 49414 , Israel Investigation Validation Writing - review & editing Jonas Ehud 
+ Department of Oral and Maxillofacial Surgery, Rabin Medical Center—Beilinson Hospital , Petach Tikva 49414 , Israel Formal analysis Investigation Validation Writing - review & editing Zlotogorski-Hurvitz Ayelet 
+ Oral Medicine Unit, Department of Otolaryngology Head and Neck Surgery and Maxillofacial Surgery, Tel-Aviv Sourasky Medical Center , Tel Aviv 69978 , Israel 
+ Department of Oral Pathology, Oral Medicine and Maxillofacial Imaging, The Maurice and Gabriela Goldschleger School of Dental Medicine, Tel Aviv University , Tel Aviv 69978 , Israel Investigation Validation Writing - review & editing https://orcid.org/0009-0000-1893-4045 Muchnik Daniel 
+ Department of Oral and Maxillofacial Surgery, Rabin Medical Center—Beilinson Hospital , Petach Tikva 49414 , Israel Data curation Formal analysis Investigation Methodology Project administration Validation Writing - original draft Writing - review & editing Corresponding author: Daniel Muchnik, Department of Oral and Maxillofacial Surgery, Rabin Medical Center—Beilinson Hospital, 39 Jabotinsky st., Petach Tikva 49414, Israel ( Dannymu@gmail.com ). 5 2026 12 3 2026 10 5 510985 ziag038 30 12 2025 23 2 2026 02 3 2026 05 4 2026 12 03 2026 06 04 2026 26 04 2026 © The Author(s) 2026. Published by Oxford University Press on behalf of the American Society for Bone and Mineral Research. 2026 https://creativecommons.org/licenses/by/4.0/ This is an Open Access article distributed under the terms of the Creative Commons Attribution License ( https://creativecommons.org/licenses/by/4.0/ ), which permits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited. 
+
+ p  = .0089). In addition, prolonged previous antiresorptive drug intake was identified as a significant independent risk factor at the patient level. No specific type of dentoalveolar procedure showed a statistically significant association with MRONJ development. These findings confirm that surgical timing is a critical determinant of MRONJ risk in Dmab-treated osteoporotic patients. Avoiding dentoalveolar interventions during the early post-injection period, particularly within the first 3 mo, may substantially reduce risk. A delay of at least 4 mo after the last Dmab administration appears to be a clinically important preventative strategy, balancing MRONJ avoidance with the need to minimize fracture risk resulting from prolonged discontinuation of therapy. Additional prospective studies are warranted to refine surgical timing recommendations and guide individualized patient care. 
+
+ Graphical Abstract 
+ denosumab osteoporosis dentoalveolar intervention MRONJ osteonecrosis of the jaw rebound effect timing pmc-status-qastatus 0 pmc-status-live yes pmc-status-embargo no pmc-status-released yes pmc-prop-open-access yes pmc-prop-olf no pmc-prop-manuscript no pmc-prop-legally-suppressed no pmc-prop-has-pdf yes pmc-prop-has-supplement yes pmc-prop-pdf-only no pmc-prop-suppress-copyright no pmc-prop-is-real-version no pmc-prop-is-scanned-article no pmc-prop-preprint no pmc-prop-in-epmc yes pmc-license-ref CC BY 
+
+ 1 , 2 It is characterized by diminished bone strength and an elevated susceptibility to fractures. 1 , 3 Both bisphosphonates (BPs) and denosumab (Dmab), a human receptor activator of nuclear factor kappa-B ligand (RANKL) monoclonal antibody, are commonly employed antiresorptive drugs (ARD) to manage osteoporosis and mitigate fracture risk. 4 , 5 However, the use of these agents has been associated with medication-related osteonecrosis of the jaw (MRONJ), a rare but debilitating condition defined as exposed bone, or bone that can be probed through an intraoral or extraoral fistula, in the maxillofacial region that has persisted for more than 8 wk in patients with a history of treatment with antiresorptive or anti-angiogenic drugs, and where there has been no history of radiation therapy to the jaw or no obvious metastatic disease to the jaws. 6–8 
+ 9–12 Invasive dental procedures, particularly tooth extractions, ill-fitting dentures, and existing inflammatory dental diseases (eg, periodontal disease) have been frequently implicated as precipitating events in MRONJ development. 6 , 13–15 
+ 6 , 16 Emerging evidence indicates a potentially lower long-term risk of MRONJ with Dmab in osteoporotic patients, particularly after 2 yr of use. 17 Campisi et al. have proposed a “pragmatic window of opportunity” to reduce MRONJ risk in patients treated with Dmab. 18 They suggested that dental surgery, such as tooth extractions, may be safely performed within a specific timeframe (between 5 and 7 mo) following Dmab administration, when bone turnover starts to recover. However, this approach presents a clinical dilemma. Postponing the next Dmab injection to align with this window could increase the risk of fractures due to the “rebound effect”—a rapid decrease in bone density that occurs as the drug’s effectiveness diminishes. 7 , 19 , 20 This may lead to an increased occurrence of multiple vertebral fractures according to the available evidence. 20 , 21 Careful patient selection, interdisciplinary communication, strategic timing of Dmab injections, and meticulous postoperative care are crucial components of this proposed approach. 
+
+ Figure 1 ). Figure 1 
+ For image description, please refer to the figure legend and surrounding text. 
+
+ (1) 
+ (2) 
+
+ (1) 
+ (2) 
+ (3) 
+
+ 6 
+
+ p -value <.1 in the univariable analysis and no evidence of multicollinearity, a multivariable analysis was performed to assess potential interactions. Generalized estimating equations was used for multivariable analysis at the intervention level, while logistic regression was employed at the patient level. A p -value <.05 was considered statistically significant for all analyses. 
+
+ Table 1 ), with an average age of 71.35 ± 8.26 yr, and predominantly females (91.47%). The mean number of Dmab injections was 6.33 ± 5.05, and the average duration of ARD intake was 9.16 ± 5.46 yr. Key comorbidities observed included HT (44.57%), hyperlipidemia (35.66%), and DM (20.54%). Overall, MRONJ was observed in 5.43% (14/258) of the total patient cohort. 
+ Table 1 
+
+ Characteristic 
+
+ Subgroup 
+
+ N 
+
+ % 
+
+ M 
+
+ SD 
+
+ Total 
+ 258 
+ Gender 
+ Male 22 8.53 Female 236 91.47 
+ Tobacco smoking 
+ Yes 8 3.10 
+ Autoimmune disease 
+ Yes 21 8.14 
+ Hypertension 
+ Yes 115 44.57 
+ Hypothyroidism 
+ Yes 59 22.87 
+ Diabetes mellitus 
+ Yes 53 20.54 
+ Asthma or COPD 
+ Yes 29 11.24 
+ Ischemic heart disease 
+ Yes 33 12.79 
+ Hyperlipidemia 
+ Yes 92 35.66 
+ Intervention 
+ Yes 91 35.27 
+ MRONJ 
+ Yes 14 5.43 
+ Age (yr) 
+ 71.35 8.26 
+ Number of injections 
+ 6.33 5.05 
+ Duration of ARD intake (yr) 
+ 9.16 5.46 
+
+ Table 2 ) demonstrated that the duration of ARD intake was significantly associated with MRONJ development ( p  = .005). Multivariable logistic regression analysis at the patient level ( Table 3 ) confirmed this finding, with the duration of ARD intake remaining a significant independent risk factor (OR 1.25, 95% CI: 1.10-1.41, p  < .001). Although age showed a trend toward an association with MRONJ (OR 1.09, 95% CI: 0.99-1.20, p  = .067), it did not reach statistical significance in this model. Notably, the number of Dmab injections was not a significant independent predictor of MRONJ development at either the patient or intervention level. Ninety-one patients underwent 185 dentoalveolar interventions ( Table 4 ). At the intervention level, univariate logistic regression analysis identified several significant associations with MRONJ development ( Table 5 ). Implant presence at MRONJ site, was associated with an increased risk (OR 2.45, 95% CI: 1.02-5.86, p  = .044). Both the duration of ARD intake (OR 1.19, 95% CI: 1.05-1.36, p  = .0077) and age (OR 1.07, 95% CI: 1.00-1.14, p  = .0525) also showed significant or borderline significant associations. Importantly, dentoalveolar intervention delay exhibited a strong protective association with MRONJ (OR 0.26, 95% CI: 0.12-0.57, p  = .0008), suggesting that a longer delay between the last Dmab dose and intervention was associated with a reduced risk of MRONJ. 
+ Table 2 
+
+ Variable 
+
+ Subgroup 
+
+ MRONJ ( n  = 14) 
+
+ % 
+
+ No-MRONJ ( n  = 244) 
+
+ % 
+
+ p -value 
+
+ Gender 
+ Male 1 7.14 21 8.61 1 Female 13 92.86 223 91.39 
+ Tobacco smoking 
+ Yes 1 7.14 7 2.87 .9168 No 13 92.86 237 97.13 
+ Autoimmune disease 
+ Yes 1 7.14 20 8.20 1 No 13 92.86 224 91.80 
+ Hypertension 
+ Yes 6 42.86 109 44.67 1 No 8 57.14 135 55.33 
+ Hypothyroidism 
+ Yes 6 42.86 53 21.72 .13 No 8 57.14 191 78.28 
+ Diabetes mellitus 
+ Yes 2 14.29 51 20.90 .7981 No 12 85.71 193 79.10 
+ Asthma or COPD 
+ Yes 2 14.29 27 11.07 1 No 12 85.71 217 88.93 
+ Ischemic heart disease 
+ Yes 1 7.14 32 13.11 .81 No 13 92.86 212 86.89 
+ Hyperlipidemia 
+ Yes 6 42.86 86 35.25 .77 No 8 57.14 158 64.75 
+ Intervention 
+ Yes 14 100.00 77 31.56 0 No 0 0.00 167 68.44 
+ Age (yr) 
+ 76.36 ± 7.56 71.06 ± 8.22 .01 
+ Number of injections 
+ 8.07 ± 7.24 6.22 ± 4.88 .55 
+ Duration of ARD intake (yr) 
+ 14.58 ± 7.01 8.88 ± 5.24 .005 
+ Table 3 
+
+ Variable 
+
+ OR 
+
+ 95% CI 
+
+ p -value 
+
+ Age (yr) 
+ 1.09 0.99-1.20 .067 
+ Duration of ARD intake (yr) 
+ 1.25 1.10-1.41 <.001 
+ Table 4 
+ n  = 185). 
+ Variable 
+
+ Subgroup 
+
+ N 
+
+ % 
+
+ M 
+
+ SD 
+
+ Gender 
+ Male 19 10.27 Female 166 89.73 
+ Tobacco smoking 
+ Yes 15 8.11 
+ Autoimmune disease 
+ Yes 13 7.03 
+ Hypertension 
+ Yes 79 42.70 
+ Hypothyroidism 
+ Yes 35 18.92 
+ Diabetes mellitus 
+ Yes 59 31.89 6.83 0.97 
+ Asthma or COPD 
+ Yes 11 5.95 
+ Ischemic heart disease 
+ Yes 32 17.30 
+ Hyperlipidemia 
+ Yes 75 40.54 
+ Bone graft 
+ 10 5.41 
+ Implants exposed 
+ 0 157 84.86 0.23 0.64 1 20 10.81 2 4 2.16 3 2 1.08 4 2 1.08 
+ Implants placed 
+ 0 151 81.62 0.59 1.44 1 10 5.41 2 13 7.03 3 4 2.16 4 1 0.54 9 4 2.16 11 2 1.08 
+ Extractions per treatment 
+ 0 52 28.11 1.54 1.89 1 70 37.84 2 31 16.76 3 12 6.49 4 11 5.95 6-11 (each) 2-2 ~1.08 
+ Location of treatment 
+ Mandible 90 48.65 Maxilla 95 51.35 
+ MRONJ 
+ Yes 14 7.57 No 171 92.43 
+ Age (yr) 
+ 72.09 8.34 
+ Number of injections 
+ 6.13 4.36 
+ Duration of ARD intake (yr) 
+ 8.18 5.13 
+ Dentoalveolar intervention delay a (mo) 
+ 5.37 1.49 
+  MRONJ group 
+
+  Non-MRONJ group 
+ 2.03 5.74 0.75 0.95 a 
+
+ Table 5 
+ n  = 185). 
+ Variable 
+
+ Subgroup 
+
+ OR 
+
+ 95% CI 
+
+ p -value 
+
+ MRONJ ratio 
+
+ Gender 
+ Female 1.70 (0.20-14.70) .6308 7.83% 
+ Tobacco smoking 
+ Yes 2.09 (0.35-12.60) .4219 13.33% 
+ Autoimmune disease 
+ Yes 0.94 (0.10-8.69) .9579 7.69% 
+ Hypertension 
+ Yes 0.75 (0.23-2.39) .6242 6.60% 
+ Hypothyroidism 
+ Yes 3.20 (0.96-10.70) .0592 17.14% 
+ Diabetes mellitus 
+ Yes 0.36 (0.07-1.76) .2059 3.39% 
+ Asthma or COPD 
+ Yes 2.51 (0.46-13.83) .2893 18.18% 
+ Ischemic heart disease 
+ Yes 0.35 (0.04-2.94) .3321 3.13% 
+ Hyperlipidemia 
+ Yes 1.63 (0.51-5.27) .4107 9.33% 
+ Bone graft 
+ N/A N/A N/A No MRONJ cases 
+ Implant exposure 
+ N/A N/A N/A No MRONJ cases 
+ No. of implants placed 
+ 0.80 (0.60-1.05) .1122 – 
+ Previous presence of implant (yes/no) 
+ Yes 2.45 (1.02-5.86) .044 13.51% 
+ Extractions per treatment 
+ 0.95 (0.80-1.12) .533 – 
+ Extractions (yes vs no) 
+ Yes 3.36 (0.79-14.20) .100 9.41% 
+ Location of treatment 
+ Maxilla 1.77 (0.67-4.70) .250 9.47% 
+ Age (yr) 
+ – 1.07 (1.00-1.14) .0525 – 
+ Number of injections 
+ – 1.10 (0.95-1.27) .1912 – 
+ Duration of ARD intake (yr) 
+ – 1.19 (1.05-1.36) .0077 – 
+ Dentoalveolar intervention delay (mo) 
+ – 0.26 (0.12-0.57) .0008 – 
+ Table 6 ), and after assessing for multicollinearity, 2 key factors remained independently and significantly associated with MRONJ development were duration of ARD intake (OR 1.33, 95% CI: 1.07-1.65, p  = .0101) and dentoalveolar intervention delay (OR 0.35, 95% CI: 0.16-0.77, p  = .0089). 
+ Table 6 
+
+ Variable 
+
+ OR 
+
+ 95% CI 
+
+ p -value 
+
+ Hypothyroidism 
+ 2.17 (0.19-24.29) .5286 
+ Previous presence of implants 
+ 6.30 (0.81-49.15) .0790 
+ Age (yr) 
+ 1.13 (0.91-1.40) .2827 
+ Duration of ARD intake (yr) 
+ 1.33 (1.07-1.65) .0101 
+ Dentoalveolar intervention delay (mo) 
+ 0.35 (0.16-0.77) .0089 
+ Extractions (yes vs no) 
+ 2.71 (0.03-238.40) .6620 
+ p  > .05). 
+
+ 6 , 7 , 16 
+ Table 6 ) specifically highlighted dentoalveolar intervention delay as a critical independent protective factor (OR = 0.35). The OR of 0.35 for indicates a strong protective effect: The odds of developing MRONJ were reduced by 65%, suggesting a temporal relationship where perioperative timing critically influences risk for MRONJ occurrence. This finding corroborates the hypothesis that MRONJ risk peaks during periods of suppressed bone turnover immediately following antiresorptive therapy. This is further underscored by our finding that the number of Dmab injections was not a significant independent predictor of MRONJ occurrence at either the patient or intervention level, emphasizing the crucial role of timing over cumulative exposure of Dmab. The role of cumulative dosage in determining MRONJ risk, while well-established for patients on nitrogen-containing BPs (N-BPs), may not hold true for those receiving Dmab. This is because Dmab’s mechanism of action differs fundamentally from BPs; it does not integrate into the bone matrix by binding to hydroxyapatite. This lack of permanent incorporation allows bone turnover to recover rapidly after the drug is cleared from the system, suggesting that the timing of administration is a more critical factor than the cumulative dose. 22 While studies such as Park et al. have shown that cumulative BP dose over 1 yr increases MRONJ risk, the same study found no significant difference in risk between patients with 1-4 yr of cumulative BP use vs those with over cumulative 4 yr of use. It is important to note that these findings were based solely on BPs and may not apply to Dmab due to its different mechanism of action. 23 Another study by Park et al. specifically investigated the timing of dentoalveolar intervention in patients administered i.v. BPs, and found that pausing treatment for over 90 d substantially lowered the risk of MRONJ, with the lowest risk seen after a pause of more than 1 yr. However, this study did not include Dmab due to a lack of available data, and the authors suggested that further research on Dmab specifically was essential. 24 Campisi et al. proposed in her study a “pragmatic window”—around 5-7 mo after Dmab injection—during which bone remodeling begins to recover, potentially lowering the risk of MRONJ. The European Calcified Tissue Society (ECTS) also suggesting a surgical window at 5-6 mo post-injection when bone turnover effects are most depleted. 18 , 25 However, a significant clinical dilemma arises with these approaches. From an osteoporosis management perspective, this “pragmatic window” is problematic because it necessitates postponing the next Dmab injection, a delay that places the patient at a heightened risk for a rebound-related fracture. This vulnerability is further extended by the need to wait for adequate mucosal healing following the dentoalveolar surgery, intensifying the period of increased fracture susceptibility. The decline of Dmab, follows a biphasic pattern: an initial phase characterized by a linear decrease in serum concentrations from the peak, followed by a more rapid terminal phase with an average serum half-life of approximately 25-30 d. 10 The reversibility of its pharmacodynamic effects, as indicated by serum bone turnover markers, is observed at the end of the dosing interval. Notably, serum C-terminal telopeptide of type I collagen (CTX) levels decrease by over 80% within 5 d post-dosing and then begin to gradually rise from around 4 mo. 26 However, the reversible impact of Dmab on BMD supports the concern of an increased fracture risk, known as the “rebound phenomenon,” following discontinuation of the medication in osteoporosis patients. Recent observational studies estimated a vertebral fractures risk 3- to 5-fold higher in patients off-treatment compared to those who continued treatment with Dmab. 27 , 28 The risk of vertebral and multiple vertebral fractures after Dmab discontinuation increases with longer treatment durations, which is consistent with evidence of greater bone loss and a stronger “rebound” in bone turnover following extended use or a higher number of doses. 29 This effect generally occurs between 8 and 16 mo after the final Dmab injection and should be carefully considered when planning dentoalveolar surgical procedures. 19 , 22 Our multivariable model found no significant association between the specific type of dentoalveolar procedure (eg, tooth extraction, implant placement, bone grafting, or implant exposure) and MRONJ risk. This observation reinforces the central finding that the perioperative timing of Dmab administration is the primary determinant of MRONJ risk, irrespective of the specific dentoalveolar procedure. This finding contrasts with BPs, for which a considerable body of evidence suggests that cumulative dose is a key risk factor. 23 Interestingly, our data indicated a higher risk associated with dental implants (OR 2.45). It is critical to clarify that this risk was primarily associated with the development of MRONJ at the sites of existing, previously integrated dental implants rather than being limited to the surgical placement phase. This finding aligns with the systematic review by Nisi et al., which identifies dental implants as a distinct risk factor for MRONJ, often arising from chronic peri-implantitis an average of 46.5 mo after placement. 30 Furthermore, the recent systematic review and consensus statement by Ali et al., reported that while 38% of implant-related MRONJ cases occur during the initial surgical phase, the majority (62%) develop after the implants have been loaded and are functional. 31 This distinction is vital when interpreting this systematic review finding that antiresorptive therapy shows no statistically significant association with “implant failure” (loss of osseointegration). Our data suggests that while implants can successfully integrate and remain functional, they concurrently serve as a local focus for bone necrosis due to chronic inflammatory triggers. A key factor in this susceptibility may be the unique anatomical and physiological profile of peri-implant tissues. Unlike natural teeth, which are buffered by a periodontal ligament (PDL) that provides a robust vascular supply and an organized immune response, dental implants lack a PDL. 32 This structural difference results in a more direct interface between the oral environment and the bone, potentially making the peri-implant site more vulnerable to chronic inflammatory triggers. 33 This emerging entity, termed peri-implant MRONJ (PI-MRONJ), represents a rising clinical challenge that warrants further research to elucidate its specific pathophysiology, necessitating both meticulous surgical timing for new placements and rigorous, lifelong monitoring of existing fixtures. 
+ Supplementary Material S1 ). 6 , 7 , 34 This unexpected finding may relate to the distinct vascular anatomy of the maxilla, which is richer in vasculature, and the proposed mechanism involving Dmab, which does not penetrate or bind directly to the bone mineral as BPs. 35 , 36 Instead, it originates from and is transported through the vasculature, which is more abundant in the maxilla. Another possible explanation for our findings is the role of the inflammatory process in MRONJ. The primary goal of inflammation is to repair damaged tissue and restore cellular homeostasis. 37 During this process, leukocytes release pro-inflammatory cytokines, such as VEGF, IL-1α, IL-1β, and TNF-α, which, along with chemokines, target endothelial cells. 38 This interaction can induce vasodilation and increase vascular permeability. 39 Given the maxilla’s more abundant vasculature, this inflammatory response may be amplified, acting as a co-factor in MRONJ development, as suggested by previous studies. 10 Further research is needed to fully elucidate this hypothesis. 
+ Supplementary Material S1 ), potentially reflecting the mitigated severity due to the pharmacokinetics of Dmab. Since it does not bind directly to bone mineral and serum levels decline within approximately 4 mo after the Cmax (the maximum concentration of the drug in the blood plasma), the extent of osteonecrosis may be limited, leading to better prognosis. 40–42 This is further supported by studies that have distinguished histopathological and radiologic features, as well as clinical outcomes, between DRONJ and BP-related osteonecrosis of the jaw (BRONJ). DRONJ has been shown to have significantly fewer osteocytes per unit area, 43 whereas persistent bone resorption lacunas on the necrotic bone surface were observed exclusively in BRONJ cases. 44 Radiologically, DRONJ may present differently from BRONJ, often showing fewer sequestra and less cortical lysis. 45 Additionally, it has been proposed that DRONJ may heal more rapidly, potentially due to its shorter duration of treatment effect and reversible inhibition of RANKL, which could influence its overall healing dynamics. 46–48 It is essential to distinguish between the risk profiles of oncology and osteoporosis cohorts. In oncology patients receiving high-dose (120 mg), monthly Dmab, advanced mandibular involvement is frequently reported due to the profound and continuous suppression of bone turnover, due to higher cumulative dose administered. 25 In contrast, our cohort received a much lower (60 mg) dose with a 6-mo dosing interval. Despite the mandible’s limited vascularity, we hypothesize that the significantly higher cumulative doses administered in oncology protocols successfully penetrate the mandibular bone, which is inherently more prone to MRONJ, thereby inducing profound and sustained turnover suppression. 
+ 49 All 14 patients who developed MRONJ had prior prolonged BP exposure (100%). This finding is crucial and a significant confounding factor, strongly suggesting that the risk profile observed in our study is not solely due to Dmab, but rather a reflection of the cumulative risk associated with sequential antiresorptive therapy. The long-term retention of BPs in the bone matrix, combined with the potent, though reversible, suppression of turnover by Dmab, likely creates a highly susceptible state for MRONJ development following surgery. Our analysis identified MRONJ in 5.43% of the total cohort, a frequency that is notably higher than often cited. However, this finding is consistent with recent “real-world” data reported by Everts-Graber et al., who observed a significantly higher incidence of MRONJ in patients transitioning from BPs to Dmab compared to those receiving Dmab alone. 16 While Everts-Graber et al. noted an increased risk in patients with a mean previous BP duration of 6.7 yr, our cohort exhibited an even more extensive history of pretreatment, with an average of over 9 yr of BP therapy prior to Dmab administration. This underscores a synergistic risk profile: The long-term skeletal retention of BPs combined with the bone turnover suppression of Dmab creates a highly susceptible state for necrosis following dentoalveolar surgery. Furthermore, our status as a tertiary medical center likely contributes to this higher percentage, as our facility frequently manages complex cases and patients with significant comorbidities who are referred after developing complications from dental treatments performed elsewhere. The prolonged suppression of bone remodeling predisposes to necrosis following surgical procedures involving bone, underscoring the importance of comprehensive medication history and rigorous risk assessment prior to surgical intervention. We did not evaluate the influence of the specific chemical subclass of BP, as the vast majority of our pretreated patients received oral BPs. The specific pharmacokinetic influence of different BP molecules on subsequent Dmab treatment remains a subject for future dedicated study. 
+ 7 In our study, and consistent with the pharmacological data presented, no cases of MRONJ occurred when interventions were carried out at least 4 mo after the most recent Dmab injection. Based on our clinical experience, mucosal healing can take 6-8 wk, especially after more complex procedures. Therefore, we advise against elective bone-related surgeries within the first four months following Dmab treatment (see Figure 2 ). Our findings, based on clinical extrapolation, suggest that the optimal timing for surgery is between 4 and 5 mo post-injection. While the ECTS guidelines 25 recommend a window of 5-6 mo, we propose that a 4-mo threshold offers a superior clinical balance. Performing surgery at the 5-to-6-mo mark, as suggested by the ECTS, inevitably pushes the subsequent Dmab dose to month 8 or 9 due to the necessary 6-8 wk healing period. This delay significantly extends the patient’s exposure to the “rebound effect.” Further prospective studies are essential to validate these observations and refine clinical guidelines for optimal timing of surgical procedures in osteoporotic patients on Dmab therapy. Figure 2 
+ For image description, please refer to the figure legend and surrounding text. 
+
+ Supplementary_material_MRONJ_cases_related_characteristics_ziag038 
+
+ 1. 
+
+ Wright   NC , Looker   AC , Saag   KG , et al.   The recent prevalence of osteoporosis and low bone mass in the United States based on bone mineral density at the femoral neck or lumbar spine . J Bone Miner Res . 2014 ; 29 ( 11 ): 2520 - 2526 . 10.1002/JBMR.2269 24771492 
+ PMC4757905 2. 
+
+ Salari   N , Ghasemi   H , Mohammadi   L , et al.   The global prevalence of osteoporosis in the world: a comprehensive systematic review and meta-analysis . J Orthop Surg Res . 2021 ; 16 ( 1 ):609. 10.1186/S13018-021-02772-0 3. 
+
+ Camacho   PM , Petak   SM , Binkley   N , et al.   American Association of Clinical Endocrinologists/American College of Endocrinology Clinical Practice Guidelines for the diagnosis and treatment of postmenopausal osteoporosis-2020 update . Endocr Pract . 2020 ; 26 ( s1 ): 1 - 46 . 10.4158/GL-2020-0524SUPPL 4. 
+
+ Seeman   E , Martin   TJ . Antiresorptive and anabolic agents in the prevention and reversal of bone fragility . Nat Rev Rheumatol . 2019 ; 15 ( 4 ): 225 - 236 . 10.1038/S41584-019-0172-3 30755735 
+ 5. 
+
+ Yusuf   AA , Cummings   SR , Watts   NB , et al.   Real-world effectiveness of osteoporosis therapies for fracture reduction in post-menopausal women . Arch Osteoporos . 2018 ; 13 ( 1 ):33. 10.1007/S11657-018-0439-3 6. 
+
+ Ruggiero   SL , Dodson   TB , Aghaloo   T , Carlson   ER , Ward   BB , Kademani   D . American Association of Oral and Maxillofacial Surgeons’ position paper on Medication-Related Osteonecrosis of the Jaws-2022 update . J Oral Maxillofac Surg . 2022 ; 80 ( 5 ): 920 - 943 . 10.1016/J.JOMS.2022.02.008 35300956 
+ 7. 
+
+ Bedogni   A , Mauceri   R , Fusco   V , et al.   Italian position paper (SIPMO-SICMF) on medication-related osteonecrosis of the jaw (MRONJ) . Oral Dis . 2024 ; 30 ( 6 ): 3679 - 3709 . 10.1111/ODI.14887 38317291 
+ 8. 
+
+ Khan   AA , Morrison   A , Kendler   DL , et al.   Case-based review of osteonecrosis of the jaw (ONJ) and application of the International Recommendations for Management From the International Task Force on ONJ . J Clin Densitom . 2017 ; 20 ( 1 ): 8 - 24 . 10.1016/J.JOCD.2016.09.005 27956123 
+ 9. 
+
+ Khan   AA , Morrison   A , Hanley   DA , et al.   Diagnosis and management of osteonecrosis of the jaw: a systematic review and international consensus . J Bone Miner Res . 2015 ; 30 ( 1 ): 3 - 23 . 10.1002/JBMR.2405 25414052 
+ 10. 
+
+ He   L , Sun   X , Liu   Z , Qiu   Y , Niu   Y . Pathogenesis and multidisciplinary management of medication-related osteonecrosis of the jaw. Int . J Oral Sci . 2020 ; 12 ( 1 ):30. 10.1038/S41368-020-00093-2 11. 
+
+ Aghaloo   T , Hazboun   R , Tetradis   S . Pathophysiology of osteonecrosis of the jaws . Oral Maxillofac Surg Clin North Am . 2015 ; 27 ( 4 ): 489 - 496 . 10.1016/J.COMS.2015.06.001 26412796 
+ PMC4908822 12. 
+
+ Chang   J , Hakam   AE , McCauley   LK . Current understanding of the pathophysiology of osteonecrosis of the jaw . Curr Osteoporos Rep . 2018 ; 16 ( 5 ): 584 - 595 . 10.1007/S11914-018-0474-4 30155844 
+ 13. 
+
+ Tsao   C , Darby   I , Ebeling   PR , et al.   Oral health risk factors for bisphosphonate-associated jaw osteonecrosis . J Oral Maxillofac Surg . 2013 ; 71 ( 8 ): 1360 - 1366 . 10.1016/J.JOMS.2013.02.016 23582590 
+ 14. 
+
+ McGowan   K , McGowan   T , Ivanovski   S . Risk factors for medication-related osteonecrosis of the jaws: a systematic review . Oral Dis . 2018 ; 24 ( 4 ): 527 - 536 . 10.1111/ODI.12708 28656643 
+ 15. 
+
+ Thumbigere-Math   V , Michalowicz   BS , Hodges   JS , et al.   Periodontal disease as a risk factor for bisphosphonate-related osteonecrosis of the jaw . J Periodontol . 2014 ; 85 ( 2 ): 226 - 233 . 10.1902/JOP.2013.130017 23786404 
+ PMC3972496 16. 
+
+ Everts-Graber   J , Lehmann   D , Burkard   JP , et al.   Risk of osteonecrosis of the jaw under denosumab compared to bisphosphonates in patients with osteoporosis . J Bone Miner Res . 2022 ; 37 ( 2 ): 340 - 348 . 10.1002/JBMR.4472 34787342 
+ 17. 
+
+ Liu   FC , Luk   KC , Chen   YC . Risk comparison of osteonecrosis of the jaw in osteoporotic patients treated with bisphosphonates vs. denosumab: a multi-institutional retrospective cohort study in Taiwan . Osteoporos Int . 2023 ; 34 ( 10 ): 1729 . 10.1007/S00198-023-06818-3 37326685 
+ PMC10511380 18. 
+
+ Campisi   G , Mauceri   R , Bertoldo   F , Fusco   V , Bedogni   A . A pragmatic window of opportunity to minimise the risk of MRONJ development in individuals with osteoporosis on denosumab therapy: a hypothesis . Head Face Med . 2021 ; 17 ( 1 ):25. 10.1186/s13005-021-00280-4 19. 
+
+ Anastasilakis   AD , Polyzos   SA , Makras   P , Aubry-Rozier   B , Kaouri   S , Lamy   O . Clinical features of 24 patients with rebound-associated vertebral fractures after denosumab discontinuation: systematic review and additional cases . J Bone Miner Res . 2017 ; 32 ( 6 ): 1291 - 1296 . 10.1002/JBMR.3110 28240371 
+ 20. 
+
+ Niimi   R , Kono   T , Nishihara   A , Hasegawa   M , Kono   T , Sudo   A . Rebound-associated vertebral fractures after discontinuation of denosumab for the treatment of maxillitis . Osteoporos Int . 2018 ; 29 ( 3 ): 769 - 772 . 10.1007/S00198-017-4334-3 29230512 
+ 21. 
+
+ Lamy   O , Gonzalez-Rodriguez   E , Stoll   D , Hans   D , Aubry-Rozier   B . Severe rebound-associated vertebral fractures after denosumab discontinuation: 9 clinical cases report . J Clin Endocrinol Metab . 2017 ; 102 ( 2 ): 354 - 358 . 10.1210/JC.2016-3170 27732330 
+ 22. 
+
+ McClung   MR , Wagman   RB , Miller   PD , Wang   A , Lewiecki   EM . Observations following discontinuation of long-term denosumab therapy . Osteoporos Int . 2017 ; 28 ( 5 ): 1723 - 1732 . 10.1007/S00198-017-3919-1 28144701 
+ PMC5391373 23. 
+
+ Park   JH , Kwoen   MJ , Lee   JR , et al.   Gradual, but not sudden, dose-dependent increase of ONJ risk with bisphosphonate exposure: a Nationwide cohort study in women with osteoporosis . Front Endocrinol (Lausanne) . 2021 ; 12 :774820. 10.3389/FENDO.2021.774820 24. 
+
+ Park   JH , Kong   SH , Lee   J , et al.   Time since last intravenous bisphosphonate and risk of osteonecrosis of the jaw in osteoporotic patients . Nat Commun . 2025 ; 16 ( 1 ): 1 - 10 . 10.1038/S41467-025-59718-x 39746907 
+ PMC11697207 25. 
+
+ Anastasilakis   AD , Pepe   J , Napoli   N , et al.   Osteonecrosis of the jaw and antiresorptive agents in benign and malignant diseases: a critical review organized by the ECTS . J Clin Endocrinol Metab . 2021 ; 107 ( 5 ): 1441 . 10.1210/clinem/dgab888 26. 
+
+ McClung   MR , Lewiecki   EM , Cohen   SB , et al.   Denosumab in postmenopausal women with low bone mineral density . N Engl J Med . 2006 ; 354 ( 8 ): 821 - 831 . 10.1056/NEJMOA044459 16495394 
+ 27. 
+
+ Tripto-Shkolnik   L , Fund   N , Rouach   V , Chodick   G , Shalev   V , Goldshtein   I . Fracture incidence after denosumab discontinuation: real-world data from a large healthcare provider . Bone . 2020 ; 130 :115150. 10.1016/j.bone.2019.115150 28. 
+
+ Fu   SH , Wang   CY , Hung   CC , et al.   Increased fracture risk after discontinuation of anti-osteoporosis medications among hip fracture patients: a population-based cohort study . J Intern Med . 2021 ; 290 ( 6 ): 1194 - 1205 . 10.1111/JOIM.13354 34237171 
+ 29. 
+
+ Anastasilakis   AD , Makras   P , Yavropoulou   MP , Tabacco   G , Naciu   AM , Palermo   A . Denosumab discontinuation and the rebound phenomenon: a narrative review . J Clin Med . 2021 ; 10 ( 1 ): 1 - 28 . 10.3390/JCM10010152 30. 
+
+ Nisi   M , Gennai   S , Graziani   F , Barone   A , Izzetti   R . Clinical and radiologic treatment outcomes of implant presence triggered-MRONJ: systematic review of literature . Oral Dis . 2024 ; 30 ( 8 ):5255-5267. 10.1111/ODI.15066 31. 
+
+ Ali   DS , Khan   AA , Morrison   A , et al.   Antiresorptive therapy to reduce fracture risk and effects on dental implant outcomes in patients with osteoporosis: a systematic review and osteonecrosis of the jaw taskforce consensus statement . Endocr Pract . 2025 ; 31 ( 5 ): 686 - 698 . 10.1016/j.eprac.2025.02.016 40335186 
+ 32. 
+
+ de Jong   T , Bakker   AD , Everts   V , Smit   TH . The intricate anatomy of the periodontal ligament and its development: lessons for periodontal regeneration . J Periodontal Res . 2017 ; 52 ( 6 ): 965 - 974 . 10.1111/jre.12477 28635007 
+ 33. 
+
+ Dhir   S , Mahesh   L , Kurtzman   GM , Vandana   KL . Peri-implant and periodontal tissues: a review of differences and similarities . Compend Contin Educ Dent . 2013 ; 34 ( 7 ):e69-75. 34. 
+
+ Yoneda   T , Hagino   H , Sugimoto   T , et al.   Antiresorptive agent-related osteonecrosis of the jaw: position paper 2017 of the Japanese Allied Committee on Osteonecrosis of the Jaw . J Bone Miner Metab . 2017 ; 35 ( 1 ): 6 - 19 . 10.1007/S00774-016-0810-7 28035494 
+ 35. 
+
+ Baron   R , Ferrari   S , Russell   RGG . Denosumab and bisphosphonates: different mechanisms of action and effects . Bone . 2011 ; 48 ( 4 ): 677 - 692 . 10.1016/J.BONE.2010.11.020 21145999 
+ 36. 
+
+ Wick   A , Bankosegger   P , Otto   S , et al.   Risk factors associated with onset of medication-related osteonecrosis of the jaw in patients treated with denosumab . Clin Oral Investig . 2022 ; 26 ( 3 ): 2839 - 2852 . 10.1007/S00784-021-04261-4/TABLES/5 37. 
+
+ Chen   L , Deng   H , Cui   H , et al.   Inflammatory responses and inflammation-associated diseases in organs . Oncotarget . 2018 ; 9 ( 6 ): 7204 - 7218 . 10.18632/ONCOTARGET.23208 29467962 
+ PMC5805548 38. 
+
+ Afonina   IS , Zhong   Z , Karin   M , Beyaert   R . Limiting inflammation - the negative regulation of NF-B and the NLRP3 inflammasome . Nat Immunol . 2017 ; 18 ( 8 ): 861 - 869 . 10.1038/NI.3772 28722711 
+ 39. 
+
+ Abdulkhaleq   LA , Assi   MA , Abdullah   R , Zamri-Saad   M , Taufiq-Yap   YH , Hezmee   MNM . The crucial roles of inflammatory mediators in inflammation: a review . Vet World . 2018 ; 11 ( 5 ): 627 - 635 . 10.14202/VETWORLD.2018.627-635 29915501 
+ PMC5993766 40. 
+
+ Prolia | European Medicines Agency (EMA) 
+ . Accessed May 30, 2025. https://www.ema.europa.eu/en/medicines/human/EPAR/prolia . 41. 
+
+ Chen   Q , Hu   C , Liu   Y , et al.   Pharmacokinetics, pharmacodynamics, safety, and tolerability of single-dose denosumab in healthy Chinese volunteers: a randomized, single-blind, placebo-controlled study . PLoS One . 2018 ; 13 ( 6 ):e019798. 10.1371/JOURNAL.PONE.0197984 42. 
+
+ Sutjandra   L , Rodriguez   RD , Doshi   S , et al.   Population pharmacokinetic meta-analysis of denosumab in healthy subjects and postmenopausal women with osteopenia or osteoporosis . Clin Pharmacokinet . 2011 ; 50 ( 12 ): 793 - 807 . 10.2165/11594240-000000000-00000 22087866 
+ 43. 
+
+ Yuan   A , Munz   A , Reinert   S , Hoefert   S . Histologic analysis of medication-related osteonecrosis of the jaw compared with antiresorptive-exposed bone and other infectious, inflammatory, and necrotic jaw diseases . Oral Surg Oral Med Oral Pathol Oral Radiol . 2020 ; 129 ( 2 ): 133 - 140 . 10.1016/J.OOOO.2019.08.018 31606424 
+ 44. 
+
+ Aoki   K , Matsunaga   S , Ito   S , et al.   Persistent bone resorption lacunae on necrotic bone distinguish bisphosphonate-related osteonecrosis of jaw from denosumab-related osteonecrosis . J Bone Miner Metab . 2021 ; 39 ( 5 ): 737 - 747 . 10.1007/S00774-021-01223-4 33830351 
+ 45. 
+
+ Pichardo   SEC , Broek   FWT , Fiocco   M , Appelman-Dijkstra   NM , van Merkesteyn   JPR . A comparison of the cone beam computed tomography findings in medication-related osteonecrosis of the jaws related to denosumab versus bisphosphonates: an observational pilot study . Oral Surg Oral Med Oral Pathol Oral Radiol . 2020 ; 129 ( 4 ): 411 - 417 . 10.1016/j.oooo.2019.09.010 32001241 
+ 46. 
+
+ De Molon   RS , Shimamoto   H , Bezouglaia   O , et al.   OPG-Fc but not zoledronic acid discontinuation reverses osteonecrosis of the jaws (ONJ) in mice . J Bone Miner Res . 2015 ; 30 ( 9 ): 1627 - 1640 . 10.1002/JBMR.2490 25727550 
+ PMC4995600 47. 
+
+ Ikesue   H , Mouri   M , Tomita   H , et al.   Associated characteristics and treatment outcomes of medication-related osteonecrosis of the jaw in patients receiving denosumab or zoledronic acid for bone metastases . Support Care Cancer . 2021 ; 29 ( 8 ): 4763 - 4772 . 10.1007/S00520-021-06018-X 33527228 
+ PMC8236436 48. 
+
+ Saad   F , Brown   JE , Van Poznak   C , et al.   Incidence, risk factors, and outcomes of osteonecrosis of the jaw: integrated analysis from three blinded active-controlled phase III trials in cancer patients with bone metastases . Ann Oncol . 2012 ; 23 ( 5 ): 1341 - 1347 . 10.1093/annonc/mdr435 21986094 
+ 49. 
+
+ Srivastava   A , Nogueras Gonzalez   GM , Geng   Y , et al.   Prevalence of medication related osteonecrosis of the jaw in patients treated with sequential antiresorptive drugs: systematic review and meta-analysis . Support Care Cancer . 2021 ; 29 ( 5 ): 2305 - 2317 . 10.1007/S00520-020-05882-3 33190182 
+ PMC12010772
