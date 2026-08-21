@@ -1,0 +1,1008 @@
+pmc Oral Dis Oral Dis 379 blackwellopen 9508565 ODI Oral Diseases 1354-523X 1601-0825 pmc-is-collection-domain yes pmc-collection-title Wiley Open Access Collection PMC13248576 PMC13248576.1 13248576 13248576 41507697 10.1111/odi.70181 ODI70181 ODI-12-24--15184.R3 1 Review Article Review Article 
+ MRONJ Risk Related to Dental Implants in Osteoporosis Treated With Denosumab: A Systematic Review Pereira Santos Rebheca Maria 
+ 1 
+ Ottaviani Giulia 
+ 1 
+
+ 2 
+ Di Lenarda Roberto 
+ 1 
+
+ 2 
+ Biasotto Matteo 
+ 1 
+
+ 3 
+ Rupel Katia https://orcid.org/0000-0002-6150-9439 
+ 1 
+
+ 2 
+ krupel@units.it 
+
+ 1 
+
+ Department of Medicine 
+ Surgery and Health Sciences, University of Trieste 
+ Trieste 
+ Italy 
+
+ 2 
+
+ Azienda Sanitaria Universitaria Giuliano Isontina (ASUGI) 
+ Trieste 
+ Italy 
+
+ 3 
+
+ Azienda Sanitaria Friuli Occidentale (ASFO) 
+ Pordenone 
+ Italy 
+
+ * 
+ Correspondence: 
+
+Katia Rupel ( krupel@units.it ) 
+ 08 1 2026 4 2026 32 4 515250 10.1111/odi.v32.4 910 925 02 12 2025 11 12 2024 23 12 2025 09 06 2026 10 06 2026 10 06 2026 © 2026 The Author(s). Oral Diseases published by John Wiley & Sons Ltd. https://creativecommons.org/licenses/by/4.0/ This is an open access article under the terms of the http://creativecommons.org/licenses/by/4.0/ License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited. 
+
+ antiresorptive therapy denosumab dental implants MRONJ osteoporosis pmc-status-qastatus 0 pmc-status-live yes pmc-status-embargo no pmc-status-released yes pmc-prop-open-access yes pmc-prop-olf no pmc-prop-manuscript no pmc-prop-legally-suppressed no pmc-prop-has-pdf yes pmc-prop-has-supplement yes pmc-prop-pdf-only no pmc-prop-suppress-copyright no pmc-prop-is-real-version no pmc-prop-is-scanned-article no pmc-prop-preprint no pmc-prop-in-epmc yes pmc-license-ref CC BY source-schema-version-number 2.0 cover-date April 2026 details-of-publishers-convertor Converter:WILEY_ML3GV2_TO_JATSPMC version:6.8.0 mode:remove_FC converted:09.06.2026 
+ 1 
+
+ 2017 ). With the increase in life expectancy of the population, especially in developed countries, the need for rehabilitative treatments increases sharply in the older age group of the population, which, even with a drop in edentulism rates compared to previous years, still concentrates a greater number of tooth losses (Muller et al.  2007 ; Sendyk et al.  2017 ; Slade et al.  2014 ). Most of these aging patients have a variety of comorbidities, which can interfere with the surgery and the outcome of the treatment. Among others, osteoporosis, cancer and rheumatic diseases often lead patients to the chronic and prolonged use of specific medications that may have a marked impact on the results of implant therapies, both immediately and in the long term (Carlos et al.  2024 ; He et al.  2019 ; Ouanounou et al.  2016 ). 
+ 2013 ; Kerschan‐Schindl  2016 ; NIH Consensus Development Panel on Osteoporosis Prevention, Diagnosis, and Therapy  2001 ). The medications of choice in the treatment of many skeletal disorders are those that have an antiresorptive action. Bisphosphonates (BPs) and Denosumab (DEN) are currently the most used in therapies that aim to inhibit the loss of bone mass, acting directly on osteoclasts or preventing their formation and function (Cortet et al.  2024 ; Diab and Watts  2024 ; Elahmer et al.  2024 ). 
+ 2024 ; Ruggiero et al.  2022 ; Stavropoulos et al.  2018 ). 
+ 2024 ; Sulaiman et al.  2023 ), leading to the formulation of clear clinical indications and guidelines. In contrast, there is still a lack of consensus regarding the impact of DEN in the planning and maintenance of implant rehabilitations, both with regard to the risk of MRONJ and implant failure. In fact, DEN is a monoclonal antibody used both in metabolic and in neoplastic bone metabolism disorders that inhibits receptor activator of NF‐κB ligand (RANKL) (Lacey et al.  2012 ). It has a half‐life of approximately 1 month and when discontinued, the effects of therapy are markedly reduced, as unlike BPs, it is not deposited in the bone. Its therapeutic schedule in the treatment of osteoporosis allows oral surgical interventions to be performed with relatively low risk of developing MRONJ without discontinuation of the therapy (Bedogni et al.  2024 ; Ruggiero et al.  2022 ), but its impact on implant therapy remains underexplored. Therefore, the aim of this systematic review of current literature is to assess the impact of dental implants in osteoporotic patients undergoing treatment with DEN on MRONJ development, considering both implant surgery‐triggered osteonecrosis (ISTO) and implant presence‐triggered osteonecrosis (IPTO). 
+ 2 
+
+ 2.1 
+
+ 2021 ) and registered on PROSPERO (International Prospective Register of Systematic Reviews), under the code CRD42017067170. 
+ 2.2 
+
+ 2.3 
+
+ 2.4 
+
+ 2.5 
+
+ 2.6 
+
+ 2016 ), the Newcastle‐Ottawa Scale (NOS) was applied to retrospective cohort studies (Wells et al.  2013 ), and the JBI Critical Appraisal Checklist was employed for case series and case control (Munn et al.  2020 ) studies. Each study received a score on the basis of the selection of participants, comparability between groups (where applicable), follow‐up, and outcome assessment. All evaluations were performed by two independent researchers (RS and KR) and then merged to identify possible disagreements that were discussed with a third party (MB) and carefully reviewed to ensure reliability and accuracy. The results of all quality assessments were synthesized into a summary table. 
+ 3 
+
+ 3.1 
+
+ 1 . FIGURE 1 
+
+ 3.2 
+
+ 2019 ), two retrospective studies (Cheng et al.  2022 ; Voss et al.  2018 ), one case control (Seki et al. 2025 ) and six case series (Bagan et al.  2016 ; Escobedo et al.  2020 ; Massaad and Magremanne  2022 ; Otto et al.  2023 ; Smith et al.  2022 ; Tempesta et al.  2022 ), as shown in the PRISMA flowchart (Figure  1 ). The studies displayed significant heterogeneity, employing different methodologies, which precluded the possibility of conducting a meta‐analysis. As a result, a narrative synthesis with descriptive analysis was performed, without quantitative evidence for the effects of the interventions. Table  1 reports main characteristics of the studies, that included a total of 8220 patients, the majority of whom were female, with a mean age of 71.45 years (SD ±6.30 years) and a mean follow‐up of 91.3 months. Table  2 includes the summary of the quality and risk of bias assessment analysis, showing that most of the included studies were categorized as having high and moderate methodological quality, with low or moderate risk of bias with only one study with a Low quality and high risk of Bias. A single study (Bagan et al.  2016 ) was classified as low quality on the basis of the JBI Critical Appraisal Checklist; however, it was decided to keep it in the review because of its clinical relevance and the still little available literature that relevantly addresses the relationship of MRONJ osteoporotic patients undergoing dental implants treated with DEN—a population for which evidence still remains limited. For this reason, all 10 studies were included in data extraction and the final synthesis. See details regarding the JBI Critical Appraisal Checklist in Tables  S1 and S2 . 
+ TABLE 1 
+ Author Study type Number of patients Female Male Age Follow‐up Mean age (years) Standard deviation (SD) Range Time (months) Lost patients Seki et al. ( 2025 ) Case control 61 52 9 
+
+ NR 
+
+ NR Otto et al. ( 2023 ) Case series 16 9 1 70.8 ±7.48 years 
+
+ * 
+
+ ** 
+
+ 12 6 Massaad and Magremanne ( 2022 ) Case series 6 4 2 65.6 NR 50–83 NR 0 Smith et al. ( 2022 ) Case series 13 11 2 72 NR 59–87 NR NR Cheng et al. ( 2022 ) Retrospective study 3486 3486 0 66.4 ±9.10 45–90 * 
+ 250 NR Tempesta et al. ( 2022 ) Case series 19 19 0 64.9 ±8.3 NR 20 0 Escobedo et al. ( 2020 ) Case series 7 4 3 68 NR NR 24 0 Watts et al. ( 2019 ) Randomized controlled trials 4550 4550 0 
+
+ 60–90 (Total) 84 NR Voss et al. ( 2018 ) Retrospective study 52 46 6 
+
+ 96 10 Bagan et al. ( 2016 ) Case series 10 10 0 73.7 ±11.6 NR NR 3 
+ Note: Group 1: CROSSOVER group; Group 2: LONGTERM group—mean age in 2 different periods (FREEDOM and EXTENSION). 
+ * 
+ ** 
+
+ TABLE 2 
+ Study Study type Quality assessment tool Key quality findings Overall rating Watts et al. ( 2019 ) RCT RoB 1 Moderate risk of bias Moderate quality 
+
+ 2022 ) 
+ Cohort NOS 8/9 stars Good quality Voss et al. ( 2018 ) Cohort NOS 7/9 stars Good quality Seki et al. ( 2025 ) Case control JBI Checklist Moderate risk of bias Moderate quality Otto et al. ( 2023 ) Case series JBI Checklist Moderate risk of bias Moderate quality Massaad and Magremanne ( 2022 ) Case series JBI Checklist Low risk of bias Moderate quality Smith et al. ( 2022 ) Case series JBI Checklist Low risk of bias High quality Tempesta et al. ( 2022 ) Case series JBI Checklist Low risk of bias Moderate quality Escobedo et al. ( 2020 ) Case series JBI Checklist Low risk of bias Moderate quality Bagan et al. ( 2016 ) Case series JBI Checklist High risk of bias Low quality 
+
+ 3.3 
+
+ 2022 ; Voss et al.  2018 ; Massaad and Magremanne  2022 ; Cheng et al.  2022 ), but their specific impact on implant survival or the risk of MRONJ in patients treated with DEN was not assessed. Further details on patient's systemic conditions are summarized in Table  S3 . The use of systemic medications, including corticosteroids and anticoagulants, was reported in three studies, but no direct association with MRONJ was explored (Cheng et al.  2022 ; Massaad and Magremanne  2022 ; Tempesta et al.  2022 ). Smoking was reported in four studies (Seki et al. 2025 ; Otto et al.  2023 ; Tempesta et al.  2022 ; Voss et al.  2018 ); however, because of limited data and the lack of a clear correlation, it is not possible to draw conclusions about its influence on implant outcomes in osteoporotic patients undergoing DEN treatment. 
+ 3.4 
+
+ 3 , with studies reporting a total of 1823 implants. The timing of implant placement, which is important in evaluating the potential role of the implant as a trigger for MRONJ, is essential to discriminate between implant presence‐triggered osteonecrosis (IPTO), likely caused by the presence of pre‐existing peri‐implant inflammation in osseointegrated implants, and implant surgery‐triggered osteonecrosis (ISTO), where MRONJ development is directly related to the surgical intervention. Seven studies report the time at which implants were placed, four of which indicate implants placed prior to starting the therapy with DEN (Escobedo et al.  2020 ; Massaad and Magremanne  2022 ; Tempesta et al.  2022 ), whereas three other studies analyze implants positioned after the initiation (Cheng et al.  2022 ; Otto et al.  2023 ; Smith et al.  2022 ). Other studies do not report such details (Bagan et al.  2016 ; Voss et al.  2018 ; Watts et al.  2019 ). 
+ TABLE 3 
+ Study Total N° PTS Implants Total N° Denosumab * 
+ IPTO N° PTS (N° IMPL affected/total) ISTO N° PTS (N° IMPL affected/total) FAIL N° PTS (N° IMPL) Antibiotic prophylaxis *** 
+ Peri‐implantits N° PTS N° impl. Total N° PTS (N° IMPL) Denosumab * N° PTS (N° IMPL) Seki et al. ( 2025 ) 61 192 3 22 
+
+ — (13) NR 
+
+ NR Otto et al. ( 2023 ) 16 39 3 NR — 
+
+ 0 + 
+ Yes 
+
+ NR Massaad and Magremanne ( 2022 ) 6 43 3 15 
+
+ — 
+
+ ++ 
+
+ NR NR NR Smith et al. ( 2022 ) 13 6 2 6 
+
+ NR 1 ** (1) 1 ** (1) Cheng et al. ( 2022 ) 694 1.472 6 29 NR NR 
+
+ Yes 
+
+ NR Tempesta et al. ( 2022 ) 19 37 5 8 
+
+ 0 
+
+ NR 
+
+ Escobedo et al. ( 2020 ) 7 33 2 4 
+
+ NR 
+
+ No NR NR Watts et al. ( 2019 ) 4550 NR 212 2 0 NR 0 NR NR NR Voss et al. ( 2018 ) 52 NR 2 NR NR NR NR NR NR NR Bagan et al. ( 2016 ) 10 1 10 1 NR NR NR NR NR NR 
+ Note: The column ‘Total N°’ refers to the total number of implants evaluated in each study. Affected = implants with MRONJ. Total = total implants those IPTO patients had. 
+ * 
+ ** 
+ *** 
+
+ + 
+
+ ++ 
+
+ six studies , with five occurring in patients undergoing DEN therapy, and a failure rate in these patients ranging from 6% (Cheng et al.  2022 ) to 100% (Tempesta et al. 2022 ), including intermediate values of 42.4% (Escobedo et al.  2020 ) and less than 5% (Smith et al.  2022 ). One study (Otto et al.  2023 ) reported no implant failures. The study by Seki et al. reported an implant failure rate of 11.2% for the group treated with antiresorptive therapy (including denosumab) and 2.9% for the control group, assuming PI‐MRONJ cases were already counted among failures (Seki et al. 2025 ). The use of antibiotic prophylaxis in patients undergoing implant placement is rarely discussed, with only two studies mentioning its use prior to the procedure, and only Otto et al. providing detailed information on the type and administration of the antibiotics (Otto et al.  2023 ). Briefly, prophylactic systemic antibiotics (amoxicillin/clavulanic acid 875 mg/125 mg or, in case of allergy, clindamycin, 600 mg) were administered 1 day preoperatively and continued for 5–7 days postoperatively. An antiseptic mouthwash of 0.2% chlorhexidine was used immediately before surgery and for 2 weeks after the surgery. 
+ 2022 ). In the study by Smith et al., peri‐implantitis was initially diagnosed but was later reclassified as MRONJ (Smith et al.  2022 ). Massaad et al. reported in their case series 14 implant explantations, which were classified as failures, but none of them belonged to patients using DEN (Massaad and Magremanne  2022 ). Seki et al. reported peri‐implantitis in patients who initiated antiresorptive therapy after implant placement, with an overall prevalence of 18.2% (35/192 implants) and 13.1% (8/61 patients). However, outcomes were not specified by specific antiresorptives; therefore, the number of denosumab users (or implants) with peri‐implantitis is not reported (Seki et al. 2025 ). 
+ 3.5 
+
+ 4 , where it is noted that 4 out of the 10 studies present the transition group. Escobedo et al. exclusively reported patients who had previously been treated with BPs before starting DEN (Escobedo et al.  2020 ). In contrast, two studies presented both groups; however, in the DEN monotherapy group, the patients did not undergo implant therapy (Bagan et al.  2016 ; Smith et al.  2022 ). The study by Voss et al., which evaluates transition therapy, included two groups, with only three patients in the monotherapy group. In both groups, the exact number of implants performed was not reported (Voss et al.  2018 ). Seki et al. compared two groups: a treatment group that initiated antiresorptive therapy (BPs or DEN only after implant placement), and a control group without antiresorptive agents. In both groups, implants had been placed before any antiresorptive use. There was no separate analysis by drug class and no distinct “transition” subgroup. However, within the treatment group, a single case is described with sequential exposure—minodronate followed by DEN—with three implants (Seki et al. 2025 ). 
+ TABLE 4 
+ Author ART osteoporotic Transition BPS‐denosumab Denosumab monotheraphy N° PTS N° IMPL. BPS Denosumab N° PTS N° IMPL Time (months) Number of doses VIA Time (months) Time (months) Dose* Seki et al. ( 2025 ) 1 3 Oral 24 24 4* 2 19 84–192 14–32* Otto et al. ( 2023 ) 0 NR NR NR NR NR NR NR NR NR Massaad and Magremanne ( 2022 ) 0 0 — — — — 1 5 36 6* Smith et al. ( 2022 ) 4 2 Oral 48–72 > 48 NR 8 0 > 48 NR Cheng et al. ( 2022 ) NR NR NR NR NR NR 6 NR NR NR Tempesta et al. ( 2022 ) 0 0 0 — — — 5 8 27 4.5* Escobedo et al. ( 2020 ) 2 4 Oral 24–60 18–24 3–4* 0 — — — Watts et al. ( 2019 ) NR NR NR NR NR NR 4550 NR 84 NR Voss et al. ( 2018 ) 11 NR 
+
+ NR 
+
+ 3 NR 12–24 2–4 Bagan et al. ( 2016 ) 9 1 Oral 44.7 ± 25.11 NR 3.4 ± 2.2. 1 0 18 3 
+ Note: * Doses were calculated based on the reported duration of denosumab (Prolia) exposure, as they were not directly reported by the studies. 
+
+ 2020 ; Massaad and Magremanne  2022 ; Tempesta et al.  2022 ) did not explicitly report the number of doses administered. However, they did specify the duration of therapy with DEN. Since this medication is typically administered every 6 months, it is possible to estimate the number of doses on the basis of the treatment period provided. 
+ 3.6 
+
+ 5 reports data on the incidence of MRONJ associated with dental implants in patients who received DEN treatment. Otto et al. did not report any cases of MRONJ (Otto et al.  2023 ), whereas others, like Cheng et al. and Tempesta et al., documented a significant number of cases, with 22 and 19 patients diagnosed with MRONJ, respectively (Cheng et al.  2022 ; Tempesta et al.  2022 ). Regarding the transition between antiresorptive therapies, some patients treated with DEN had previously undergone BP therapy for different time spans, a fact reported in about half of the studies. For example, Smith et al. highlighted patients who had been exposed to BPs for 48 to 72 months before transitioning to DEN, which they used for 18 to 84 months (Smith et al.  2022 ). 
+ TABLE 5 
+ Study MRONJ OP DEN Total MRONJ N° PTS Implant trigger N° PTS (N°IMPL) Stage MRONJ Transition BPS SITE (N° IMPL) DOSE DEN Exposure ART (months) Treatment Resolution Follow‐up BPS DEN Time (months) Seki et al. ( 2025 ) 3 
+
+ II Yes 
+
+ 4 ** 
+ 24 24 NR NR NR Otto et al. ( 2023 ) 0 0 — NR — — — — — — 12 Massaad and Magremanne ( 2022 ) 1 
+
+ III NR MAND (1) 6 ** 
+ — 36 Conservative Stable NR Smith et al. ( 2022 ) 13 
+
+ NR Yes MAX (6) 3 48–72 12–84 2 Conservative + 1 Surgical 
+
+ NR Cheng et al. ( 2022 ) 22 
+
+ NR NR NR NR NR NR Surgical All healed 250 Tempesta et al. ( 2022 ) 19 * 
+
+ * 
+
+ NR No MAND (5) 4.5 ** 
+ ±27 ±27 Surgical (all implants removed) All healed 20 Escobedo et al. ( 2020 ) 2 
+
+ III Yes 
+
+ 3–4 ** 
+ 24–60 18–24 Surgical (sequestromy) 
+
+ 24 Watts et al. ( 2019 ) 13 
+
+ II No MAX (1) NR — 60 Surgical Cured 84 Voss et al. ( 2018 ) 52 
+
+ Yes 
+
+ 2–9 36–60 15–54 Surgical Cured 96 Bagan et al. ( 2016 ) 10 
+
+ I Yes MAND (1) 2 9 12 Conservative Not cured NR 
+ * 
+ ** 
+
+ 2020 ; Smith et al.  2022 ; Voss et al.  2018 ). Instead, Seki et al. required at least 1 year of maintenance after superstructure placement, and cases were defined as patients who initiated antiresorptive therapy (BPs or DEN) after implant placement, with no minimum time interval specified (Seki et al. 2025 ). Four studies provided exposure time without directly indicating dose, this was calculated as previously done, on the basis of the 6‐month interval between subcutaneous injections of DEN. Considering patients transitioning from BPs to DEN, the duration of exposure to both drugs before MRONJ development varied significantly among the studies. In Smith et al., patients were exposed to DEN for 18 to 84 months, and BPs for 48 to 72 months prior to MRONJ onset (Smith et al.  2022 ). Escobedo et al. reported that DEN exposure lasted between 18 and 24 months, whereas BP exposure ranged from 24 to 60 months (Escobedo et al.  2020 ). In the study by Voss et al., the exposure to DEN was between 15 and 54 months, whereas BP exposure spanned 36 to 60 months (Voss et al.  2018 ). For other studies, exposure data were not reported (Cheng et al.  2022 ; Otto et al.  2023 ). 
+ 2020 ), whereas Watts et al. and Voss et al. reported MRONJ stages II and III, indicating varying degrees of severity across the studies. Notably, the only patient classified as stage III was osteoporotic, treated with DEN (Voss et al.  2018 ; Watts et al.  2019 ). In Seki et al., only one case of MRONJ had a reported stage from a single patient who transitioned from a BP to DEN and was described as peri‐implant MRONJ stage 2; the other cases of MRONJ were reported without staging (Seki et al. 2025 ). The location of MRONJ lesions (in the maxilla or mandible) was detailed in some studies, with an overall similar distribution between the two areas. However, some studies highlighted a predominance of lesions in one region, such as Smith et al., where six lesions were reported in the mandible (Smith et al.  2022 ), and Tempesta et al., where five cases were found in the maxilla (Tempesta et al.  2022 ). In the study by Massaad et al., 17 of the 43 implants triggered the development of MRONJ (Massaad and Magremanne  2022 ). 
+ 2022 ; Tempesta et al.  2022 ). Smith et al. reported that one of the cases with complications occurred in a patient who developed breast cancer during treatment (Smith et al.  2022 ). In contrast, Escobedo et al. described mixed results, where one surgically treated case showed favorable outcomes, but the other remained complicated (Escobedo et al.  2020 ). Conservative treatments generally resulted in less favorable outcomes. The follow‐up periods varied greatly across the studies, ranging from 12 months to 250 months. Cheng et al. documented the longest follow‐up period, with 250 months of patient observation (Cheng et al.  2022 ). 
+ 3.7 
+
+ 6 reports summarized data, providing a comparison of the number of patients across the different conditions investigated and undergoing implant therapy, compared with the general population and the total number of patients with MRONJ. Across all studies, a total of 5428 patients were examined, of whom 5043 were diagnosed with osteoporosis. A total of 1817 dental implants were analyzed across the studies, with Cheng et al. contributing the majority (1472 implants) (Cheng et al.  2022 ), whereas Bagan et al. reported only a single implant case (Bagan et al.  2016 ). Of the total patient population, 366 were undergoing treatment with DEN, with marked differences across the included studies. 
+ TABLE 6 
+ Study Patients Implants (N°) MRONJ cases in OP patients on DEN with implants N° total patients N° OP N° DEN N° total MRONJ Total DEN N° patients N° implants Seki et al. ( 2025 ) 61 61 3 3 192 22 1 1 * 
+ Otto et al. ( 2023 ) 16 11 3 0 33 NR 0 0 Massaad and Magremanne ( 2022 ) 6 4 1 6 43 15 1 1 Smith et al. ( 2022 ) 13 11 2 13 6 6 2 6 Cheng et al. ( 2022 ) 694 323 114 22 1472 417 3 1 Tempesta et al. ( 2022 ) 19 19 5 19 37 37 5 8 * 
+ Escobedo et al. ( 2020 ) 7 2 2 2 33 4 2 4 Watts et al. ( 2019 ) 4550 4550 212 13 NR NR 1 2 Voss et al. ( 2018 ) 52 52 14 52 NR NR 2 NR Bagan et al. ( 2016 ) 10 10 10 10 1 1 1 1 TOTAL 5428 5.043 366 140 1.817 502 18 24 
+ Note: Gray rows indicate higher‐quality study designs (e.g., cohort studies, RCT). MRONJ cases in OP patients on DEN with implants: number of MRONJ cases reported specifically in osteoporotic patients under denosumab therapy, with dental implants identified as a potential triggering factor. 
+ * 
+
+ 2016 ; Cheng et al.  2022 ; Escobedo et al.  2020 ; Massaad and Magremanne  2022 ; Smith et al.  2022 ; Tempesta et al.  2022 ; Voss et al.  2018 ), whereas in one, there were no cases of MRONJ triggered by dental implants (Otto et al.  2023 ), and in the last, the data were not reported (Watts et al.  2019 ). 
+ 2020 ; Massaad and Magremanne  2022 ) directly refer to the IPTO/ISTO classification. Our study revealed more data in the IPTO groups compared to the ISTO groups, as shown in Table  3 . Although such data must be interpreted with caution because of the significant heterogeneity among studies, a careful evaluation of the articles allows for meaningful analyses. Seki et al. ( 2025 ) and Massaad and Magremanne 2022 highlight that all cases belonged to the IPTO group, which is considered a potentially higher‐risk group for MRONJ according to the literature (Massaad and Magremanne  2022 ) and Escobedo et al. ( 2020 ) confirms the association between PI‐MRONJ cases and previously osseointegrated implants (Escobedo et al.  2020 ). Important to note that the analysis of MRONJ across studies (Bagan et al.  2016 ; Cheng et al.  2022 ; Escobedo et al.  2020 ; Massaad and Magremanne  2022 ; Smith et al.  2022 ; Tempesta et al.  2022 ; Voss et al.  2018 ), highlights that the observed PI‐MRONJ cases are consistent with an implant‐presence–triggered (IPTO) pattern. Conversely, studies involving ISTO (Otto et al.  2023 ) implants did not assess MRONJ, preventing risk estimation. 
+ 2018 ) is the only one that describes a higher rate of MRONJ recurrence in this type of therapy in osteoporotic patients for DEN. 
+
+ 4 
+
+ 2016 ) classified as low quality. Nonetheless, we chose to maintain it because of the lack of high‐level evidence in this population, and it was interpreted cautiously, considering its small sample size. Despite these limitations, some consistent trends can be observed that deserve further discussion. 
+ 2015 ). In light of this, the study by Watts et al. has been a key reference regarding the incidence of MRONJ in osteoporotic patients, reporting an overall incidence rate of 5.2 per 10,000 patients per year (Watts et al.  2019 ). In a more recent study, the incidence of MRONJ following DEN administration was 4.1%, with no statistically significant factors influencing the incidence among patients receiving DEN treatment (Jung et al.  2022 ). Furthermore, according to studies, the risk of MRONJ increases with the duration of exposure to DEN, with rates of 0.04% at 3 years, 0.06% at 5 years, and 0.44% at 10 years of treatment (Nicolatou‐Galitis et al.  2019 ). In our study, among the 366 patients who underwent implant procedures, 18 developed MRONJ, involving 24 implants in total. However, it is important to interpret these figures with caution because of the variability and limitations in the reviewed studies. 
+ 2024 ; Ruggiero et al.  2022 ; Schimmel et al.  2017 ; Stavropoulos et al.  2018 ). In this review, four studies reported comorbidities, the most common being diabetes, hypertension, and rheumatoid arthritis. In particular, one study observed an association between diabetes and reduced implant survival rates (Cheng et al.  2022 ). It is important to note that diabetes impacts the ratio of receptor activator of nuclear factor kappa‐B ligand (RANKL) to osteoprotegerin (OPG), and during hyperglycemia, this imbalance can promote increased bone resorption; additionally, these patients are more susceptible to both systemic and localized infections, which can negatively affect osseointegration (Aghaloo et al.  2019 ). However, the exact role of these comorbidities in contributing to the development of MRONJ has not yet been clearly elucidated. 
+ 2015 ; SIGG et al.  2018 ), even with low doses or during short treatment periods of less than 30 days (Hsu et al.  2024 ). It is known that corticosteroids can be a risk factor for the development of aseptic osteonecrosis by increasing bone resorption and suppressing the ossification process, in addition to raising the risk of infections (Shibahara  2019 ). In our study, only Cheng et al. ( 2022 ) and Massaad and Magremanne ( 2022 ) reported corticosteroid use; however, Cheng et al. ( 2022 ) provided no further details, and although use differed significantly between the analyzed subgroups, no association with implant failure was found (Cheng et al.  2022 ). Furthermore, the use of anticoagulants and antihypertensives can complicate the surgical management of dental implants and invasive oral procedures (Aghaloo et al.  2019 ). Therefore, it is crucial to consider polypharmacy and comorbidities when planning dental treatments for these patients, emphasizing the importance of a multidisciplinary approach to mitigate MRONJ risks and ensure long‐term therapeutic success (Ruggiero et al.  2022 ). 
+ 2024 ; Ruggiero et al.  2022 ). In this review, the relationship between smoking and MRONJ was reported in a limited manner, with few studies directly mentioning the impact of smoking. Although specific data on smoking were scarce in the analyzed studies, the medical literature suggests that smoking can lead to complications in oral surgeries and can impair both bone and soft tissue healing, contributing to implant failure and peri‐implantitis, potentially increasing the risk of developing MRONJ (Bedogni et al.  2024 ; Landi et al.  2024 ; Ruggiero et al.  2022 ). Evaluating risk factors for dental implants, Chen et al. ( 2013 ) concluded that individuals who smoke are more likely to experience dental implant failure (Chen et al.  2013 ). On the other hand, Kim et al. ( 2020 ) reported that smoking was not a significant factor in their study (Kim et al.  2020 ). Aljohani et al. ( 2017 ), when evaluating the relationship between smoking and MRONJ, found that only 5.5% of the patients were smokers, which did not stand out as a relevant risk factor (Aljohani et al.  2017 ). Therefore, despite the limited discussion of smoking in the articles reviewed, smoking is considered an additional risk factor for patients undergoing antiresorptive therapy and dental implant procedures. 
+ 2024 ; Ruggiero et al.  2022 ; Yarom et al.  2019 ). Hoefert et al.  2017 , in a study on jaw osteonecrosis associated with DEN, reported an average of 14 doses before the onset of MRONJ, although only one osteoporotic patient was included (Hoefert et al.  2017 ). In our review, a few studies provided clear data. Providing such information in a more detailed and consistent manner is important, particularly for assessing cumulative doses and determining whether there is a minimum number of doses or duration of exposure before MRONJ develops. Treatment duration and cumulative dose of DEN may influence outcomes; in Voss et al. ( 2018 ), the median DEN exposure was 59 months and was discussed as potentially associated with a higher risk of MRONJ, whereas Smith et al. ( 2022 ) documented DEN exposure of approximately 12 to 84 months in their implant‐associated cases; however, Seki et al. ( 2025 ), reported 84 to 192 months of exposure in 20 patients with only three cases of MRONJ/PI‐MRONJ, and the single denosumab case had a shorter exposure than the other two DEN‐treated patients in the cohort, indicating that longer exposure does not necessarily imply a higher risk. Given these contrasting findings, it is important to continue close monitoring of patients undergoing long‐term treatment who receive dental implants, especially considering the potential implications of MRONJ on quality of life and overall oral health. 
+ 2018 ), that can continue to influence bone remodeling long after discontinuation (Baron et al.  2011 ). When combined with DEN's potent inhibition of osteoclast activity, this may increase bone mineral density and further reduce bone turnover (Kendler et al.  2022 ). Smith et al. and Escobedo et al. ( 2020 ) reported that patients who received BPs for prolonged periods (48–72 months) prior to initiating DEN had a higher incidence of MRONJ (Escobedo et al.  2020 ; Smith et al.  2022 ). The study by Seki et al. ( 2025 ), although it did not include a transition subgroup and had only three patients on DEN therapy in the antiresorptive group, of the three cases of MRONJ identified, the only one that occurred under DEN therapy was the patient who transitioned from BPs to DEN (Seki et al. 2025 ). In contrast, patients who received DEN monotherapy for shorter periods had a lower incidence of MRONJ. The study by Voss et al.  2018 , which addresses this issue, found that patients transitioning from BPs to DEN had higher recurrence rates after surgical treatment compared to those receiving BPs or DEN monotherapy (Voss et al.  2018 ). Consistently, previous studies have noted a higher prevalence of MRONJ in patients transitioning from BPs to DEN compared to those receiving either BPs or DEN alone, particularly in higher‐risk cancer patients, highlighting a trend toward earlier development of MRONJ in the transition therapy group (Loyson et al.  2018 ; Srivastava et al.  2021 ). 
+ 2016 ; Khan et al.  2015 ; Ruggiero et al.  2022 ). However, the variability in the number of implants and patient follow‐up times makes it difficult to draw firm conclusions on the true risk, especially considering that most studies did not differentiate between implants placed before, during, or after DEN administration. 
+ 2019 ). Holzinger et al. reported a higher risk of developing MRONJ in patients who underwent implant placement after starting antiresorptive therapy (Holzinger et al.  2014 ). Meanwhile, Escobedo et al., in their literature review, found a higher incidence of MRONJ in patients with osseointegrated implants for at least 1 year (Escobedo et al.  2020 ). However, it is important to note that these studies primarily focus on BP therapy. Massaad and Magremanne investigated a group of IPTO patients and highlighted the occurrence of MRONJ linked to IPTO despite the limitations of their study (Massaad and Magremanne  2022 ). This suggests that DEN therapy may act as a direct trigger for osteonecrosis. In our review, the association between IPTO and a higher risk of MRONJ is difficult to establish because of the heterogeneity of the studies. Seki et al. ( 2025 ) did not use the IPTO/ISTO terminology; however, they required at least 1 year of maintenance after superstructure placement and defined cases as patients who initiated antiresorptive therapy (BPs or DEN) after implant placement. The observed PI‐MRONJ events arose around functioning implants during maintenance, which is consistent with an IPTO pattern (Seki et al. 2025 ). 
+ 2019 ). 
+ 2020 ; Granate‐Marques et al.  2019 ; Giovannacci et al. 2016 ). The possibility of procedures such as grafts being an additional risk factor is suggested, but still little reported in the literature, with little evidence (Kim et al. 2020 ; Granate‐Marques et al.  2019 ). Pre‐existing marginal bone loss and radiographic signs of osteosclerosis have been discussed as potential predisposing factors (Kim et al.  2020 ). Although radiographic findings are not a consensus and should be associated with a clinical picture, guidelines recommend, in addition to traditional and panoramic radiographs, the use of cone beam computed tomography or multidetector computed tomography to detect alterations such as sclerosis, osteolysis, and osteolytic changes early and assist in surgical planning (Bedogni et al.  2024 ; Khan et al. 2015 ). These characteristics, sometimes observed in implant areas before the onset of symptoms, may reflect a prodromal stage of MRONJ (Giovannacci et al. 2016 ; Granate‐Marques et al.  2019 ). In our review, some studies reported a higher frequency of MRONJ in implants located in the posterior mandibular and maxillary regions (Seki et al. 2025 ; Massaad and Magremanne 2022 ; Tempesta et al. 2022 ), suggesting that these areas may be more susceptible to biomechanical overload and reduced vascularization. Only one study (Otto et al.  2023 ) provided specific information on bone volume prior to implant placement. Furthermore, radiographic evidence of osteosclerotic changes prior to implant insertion was observed in some cases (Voss et al.  2018 ; Massaad and Magremanne 2022 ), raising the question of whether such findings could represent predisposing factors. However, these aspects have been reported inconsistently and superficially, and no study has addressed them systematically—highlighting a significant gap in the current literature and a possible direction for future research. Although none of the studies included in our systematic review addressed these aspects systematically, their sporadic mention in some case series emphasizes the need for future investigations to evaluate anatomical location, pre‐existing radiological features, and bone quality prior to implant placement as potential risk indicators for MRONJ. 
+ 2018 , considered that the implant presence (IPTO) was the trigger for MRONJ in about 30% of the patients, whereas in about 16% of the cases, the lesion was related to implant installation or explantation (Stavropoulos et al.  2018 ). Although implant placement in osteoporotic patients on DEN therapy is not inherently contraindicated, the review suggests that implant failure may increase the risk of MRONJ. Specifically, implants that fail because of peri‐implantitis or infection could act as local triggers for the onset of osteonecrosis; this highlights the importance of close monitoring of implant sites, particularly in patients with pre‐existing risk factors, such as prolonged BP use prior to transitioning to DEN (Bedogni et al.  2024 ; Escobedo et al.  2020 ). In addition, several studies suggest peri‐implant inflammation and infection may act as triggers for osteonecrosis, particularly in patients receiving antiresorptive therapies (Bedogni et al.  2024 ; Holzinger et al.  2014 ; Kuroshima et al.  2022 ; Li and Leung  2024 ; Otto et al.  2023 ; Pichardo et al.  2020 ; Ruggiero et al.  2022 ). Few studies described with major details peri‐implantitis triggered MRONJ and reported a form of peri‐implantitis where, after removal, the implants remained integrated into the underlying bone (Pogrel and Ruggiero  2018 ), considered an early form of MRONJ characterized by bone necrosis, extensive osteolysis and block‐type bone sequestration where the implant remains integrated with the bone (Tempesta et al.  2022 ). However, the limited number of studies evaluating peri‐implantitis in this context highlights the need for more focused research on the relationship between peri‐implant disease and MRONJ development in DEN patients. 
+ 2024 ; Khan et al.  2015 ; Ruggiero et al.  2022 ). In our review, the studies seem to suggest confirmation of this trend, which should be analyzed with great caution because of the heterogeneous nature of the included studies and considering that MRONJ appears as a relatively rare complication in this subgroup of patients. The data further indicate that the incidence of MRONJ in patients on DEN therapy, particularly following implant procedures, is low but significant enough to warrant caution. The variation in data regarding exposure times, ranging from 12 to 192 months, suggests that there is a risk of MRONJ even with relatively short exposure periods. The trigger for MRONJ appears to be dental implants in a number of cases, emphasizing the need for careful dental management and monitoring in patients receiving DEN (Smith et al.  2022 ; Tempesta et al.  2022 ; Voss et al.  2018 ). 
+ 2024 ; Ruggiero et al.  2022 ). Our review also supports the evidence that surgical management of MRONJ, particularly in advanced stages, yields better outcomes compared to conservative treatments. Studies such as those by Cheng et al. and Tempesta et al. demonstrated that surgical debridement or partial maxillectomy, followed by bone contouring and soft‐tissue closure, provided favorable outcomes in most patients (Cheng et al.  2022 ; Tempesta et al.  2022 ). 
+
+ 5 
+
+ Rebheca Maria Pereira Santos: conceptualization, investigation, writing – original draft. Giulia Ottaviani: conceptualization, writing – review and editing, methodology. Roberto Di Lenarda: supervision, writing – review and editing, validation. Matteo Biasotto: conceptualization, supervision, data curation, writing – review and editing. Katia Rupel: conceptualization, supervision, investigation, writing – original draft, methodology, formal analysis. 
+
+ Table S1: Joanna Briggs Institute (JBI) Critical Appraisal Checklist for assessment of risk of bias in case series papers. 
+ Table S2: Joanna Briggs Institute (JBI) Critical Appraisal Checklist for assessment of risk of bias in case series papers. 
+ Table S3: Systemic conditions and comorbidities. Pts (patients), NR (not reported), impl (dental implants), BPs + DEN (patients with previous bisphosphonate treatment), DEN (patients only in denosumab treatment), DBT (diabetes), ATF (atrial fibrillation), HTN (hypertension), HTD (hypothyroidism), GER (gastroesophageal reflux), GCT (glucocorticoids), RMA (rheumatoid arthritis), BTB (beta‐blockers), STA (steroid‐application) ATC (anticoagulant), CKD (chronic kidney disease), SPA (Ankylosing spondylitis). 
+
+ Adler , R. A. 
+ , 
+ G. 
+ El‐Hajj Fuleihan 
+ , 
+ D. C. 
+ Bauer 
+ , et al. 2016 . “ Managing Osteoporosis in Patients on Long‐Term Bisphosphonate Treatment: Report of a Task Force of the American Society for Bone and Mineral Research .” Journal of Bone and Mineral Research 
+ 31 , no. 1 : 16 – 35 . 10.1002/jbmr.2708 . 26350171 
+ PMC4906542 
+
+ Aghaloo , T. 
+ , 
+ J. 
+ Pi‐Anfruns 
+ , 
+ A. 
+ Moshaverinia 
+ , 
+ D. 
+ Sim 
+ , 
+ T. 
+ Grogan 
+ , and 
+ D. 
+ Hadaya 
+ . 2019 . “ The Effects of Systemic Diseases and Medications on Implant Osseointegration: A Systematic Review .” International Journal of Oral & Maxillofacial Implants 
+ 34 : s35 – s49 . 10.11607/jomi.19suppl.g3 . 31116832 
+
+ Aljohani , S. 
+ , 
+ R. 
+ Fliefel 
+ , 
+ J. 
+ Ihbe 
+ , 
+ J. 
+ Kuhnisch 
+ , 
+ M. 
+ Ehrenfeld 
+ , and 
+ S. 
+ Otto 
+ . 2017 . “ What Is the Effect of Anti‐Resorptive Drugs (ARDs) on the Development of Medication‐Related Osteonecrosis of the Jaw (MRONJ) in Osteoporosis Patients: A Systematic Review .” Journal of Cranio‐Maxillo‐Facial Surgery 
+ 45 , no. 9 : 1493 – 1502 . 10.1016/j.jcms.2017.05.028 . 28687467 
+
+ Bagan , J. 
+ , 
+ A. 
+ Peydro 
+ , 
+ J. 
+ Calvo 
+ , 
+ M. 
+ Leopoldo 
+ , 
+ Y. 
+ Jimenez 
+ , and 
+ L. 
+ Bagan 
+ . 2016 . “ Medication‐Related Osteonecrosis of the Jaw Associated With Bisphosphonates and Denosumab in Osteoporosis .” Oral Diseases 
+ 22 , no. 4 : 324 – 329 . 10.1111/odi.12447 . 26818808 
+
+ Baron , R. 
+ , 
+ S. 
+ Ferrari 
+ , and 
+ R. G. 
+ Russell 
+ . 2011 . “ Denosumab and Bisphosphonates: Different Mechanisms of Action and Effects .” Bone 
+ 48 , no. 4 : 677 – 692 . 10.1016/j.bone.2010.11.020 . 21145999 
+
+ Bedogni , A. 
+ , 
+ R. 
+ Mauceri 
+ , 
+ V. 
+ Fusco 
+ , et al. 2024 . “ Italian Position Paper (SIPMO‐SICMF) on Medication‐Related Osteonecrosis of the Jaw (MRONJ) .” Oral Diseases 
+ 30 , no. 6 : 3679 – 3709 . 10.1111/odi.14887 . 38317291 
+
+ Briot , K. 
+ , and 
+ C. 
+ Roux 
+ . 2015 . “ Glucocorticoid‐Induced Osteoporosis .” RMD Open 
+ 1 , no. 1 : e000014 . 10.1136/rmdopen-2014-000014 . 26509049 
+ PMC4613168 
+
+ Buser , D. 
+ , 
+ L. 
+ Sennerby 
+ , and 
+ H. 
+ De Bruyn 
+ . 2017 . “ Modern Implant Dentistry Based on Osseointegration: 50 Years of Progress, Current Trends and Open Questions .” Periodontology 2000 
+ 73 , no. 1 : 7 – 21 . 10.1111/prd.12185 . 28000280 
+
+ Carlos , A. 
+ , 
+ H. 
+ Ziada 
+ , and 
+ N. H. 
+ Abubakr 
+ . 2024 . “ Correlation Between Marginal Bone Loss Around Dental Implants and Various Systemic Diseases: A Cross‐Sectional Study .” International Journal of Implant Dentistry 
+ 10 , no. 1 : 46 . 10.1186/s40729-024-00566-7 . 39446189 
+ PMC11502616 
+
+ Chen , H. 
+ , 
+ N. 
+ Liu 
+ , 
+ X. 
+ Xu 
+ , 
+ X. 
+ Qu 
+ , and 
+ E. 
+ Lu 
+ . 2013 . “ Smoking, Radiotherapy, Diabetes and Osteoporosis as Risk Factors for Dental Implant Failure: A Meta‐Analysis .” PLoS One 
+ 8 , no. 8 : e71955 . 10.1371/journal.pone.0071955 . 23940794 
+ PMC3733795 
+
+ Cheng , Y. C. 
+ , 
+ R. 
+ Ewers 
+ , 
+ K. 
+ Morgan 
+ , et al. 2022 . “ Antiresorptive Therapy and Dental Implant Survival: An up to 20‐Year Retrospective Cohort Study in Women .” Clinical Oral Investigations 
+ 26 , no. 11 : 6569 – 6582 . 10.1007/s00784-022-04609-4 . 36001145 
+
+ Cortet , B. 
+ , 
+ N. 
+ Guanabens 
+ , 
+ M. L. 
+ Brandi 
+ , and 
+ H. 
+ Siggelkow 
+ . 2024 . “ Similarities and Differences Between European Guidelines for the Management of Postmenopausal Osteoporosis .” Archives of Osteoporosis 
+ 19 , no. 1 : 84 . 10.1007/s11657-024-01441-z . 39235671 
+ PMC11377466 
+
+ Diab , D. L. 
+ , and 
+ N. B. 
+ Watts 
+ . 2024 . “ The Use of Denosumab in Osteoporosis—An Update on Efficacy and Drug Safety .” Expert Opinion on Drug Safety 
+ 23 , no. 9 : 1069 – 1077 . 10.1080/14740338.2024.2386365 . 39262109 
+
+ Elahmer , N. R. 
+ , 
+ S. K. 
+ Wong 
+ , 
+ N. 
+ Mohamed 
+ , 
+ E. 
+ Alias 
+ , 
+ K. Y. 
+ Chin 
+ , and 
+ N. 
+ Muhammad 
+ . 2024 . “ Mechanistic Insights and Therapeutic Strategies in Osteoporosis: A Comprehensive Review .” Biomedicine 
+ 12 , no. 8 : 1635 . 10.3390/biomedicines12081635 . PMC11351389 39200100 
+
+ Escobedo , M. F. 
+ , 
+ J. L. 
+ Cobo 
+ , 
+ S. 
+ Junquera 
+ , 
+ J. 
+ Milla 
+ , 
+ S. 
+ Olay 
+ , and 
+ L. M. 
+ Junquera 
+ . 2020 . “ Medication‐Related Osteonecrosis of the Jaw. Implant Presence‐Triggered Osteonecrosis: Case Series and Literature Review .” Journal of Stomatology Oral and Maxillofacial Surgery 
+ 121 , no. 1 : 40 – 48 . 10.1016/j.jormas.2019.04.012 . 31035023 
+
+ Giovannacci , I. 
+ , 
+ M. 
+ Meleti 
+ , 
+ M. 
+ Manfredi 
+ , et al. 2016 . “ Medication‑Related Osteonecrosis of the Jaw Around Dental Implants: Implant Surgery‑Triggered or Implant Presencetriggered Osteonecrosis? ” Journal of Craniofacial Surgery 
+ 27 , no. 3 : 697 – 701 . 27092912 
+ 10.1097/SCS.0000000000002564 
+
+ Giovannacci , I. 
+ , 
+ P. 
+ Vescovi 
+ , 
+ C. 
+ Magnoni 
+ , et al. 2019 . “ Auto‐Fluorescence and Histopathologic Evaluation of Medication‐Related Osteonecrosis of the Jaws: Perspectives for Treatment .” Journal of Craniofacial Surgery 
+ 30 , no. 4 : 1039 – 1043 . 10.1097/SCS.0000000000004705 . 29944562 
+
+ Granate‐Marques , A. 
+ , 
+ C. 
+ Polis‐Yanes 
+ , 
+ M. 
+ Seminario‐Amez 
+ , 
+ E. 
+ Jane‐Salas 
+ , and 
+ J. 
+ Lopez‐Lopez 
+ . 2019 . “ Medication‐Related Osteonecrosis of the Jaw Associated With Implant and Regenerative Treatments: Systematic Review .” Medicina Oral, Patología Oral y Cirugía Bucal 
+ 24 , no. 2 : e195 – e203 . 10.4317/medoral.22691 . 30818312 
+ PMC6441601 
+
+ He , Y. 
+ , 
+ W. 
+ Bao 
+ , 
+ X. D. 
+ Wu 
+ , 
+ W. 
+ Huang 
+ , 
+ H. 
+ Chen 
+ , and 
+ Z. 
+ Li 
+ . 2019 . “ Effects of Systemic or Local Administration of Zoledronate on Implant Osseointegration: A Preclinical Meta‐Analysis .” BioMed Research International 
+ 2019 : 9541485 . 10.1155/2019/9541485 . 31663000 
+ PMC6778941 
+
+ Hoefert , S. 
+ , 
+ A. 
+ Yuan 
+ , 
+ A. 
+ Munz 
+ , 
+ M. 
+ Grimm 
+ , 
+ A. 
+ Elayouti 
+ , and 
+ S. 
+ Reinert 
+ . 2017 . “ Clinical Course and Therapeutic Outcomes of Operatively and Non‐Operatively Managed Patients With Denosumab‐Related Osteonecrosis of the Jaw (DRONJ) .” Journal of Cranio‐Maxillo‐Facial Surgery 
+ 45 , no. 4 : 570 – 578 . 10.1016/j.jcms.2017.01.013 . 28238559 
+
+ Holzinger , D. 
+ , 
+ R. 
+ Seemann 
+ , 
+ N. 
+ Matoni 
+ , 
+ R. 
+ Ewers 
+ , 
+ W. 
+ Millesi 
+ , and 
+ A. 
+ Wutzl 
+ . 2014 . “ Effect of Dental Implants on Bisphosphonate‐Related Osteonecrosis of the Jaws .” Journal of Oral and Maxillofacial Surgery 
+ 72 , no. 10 : 1937 – 1938 . 10.1016/j.joms.2014.04.037 . 25234534 
+
+ Hsu , C. H. 
+ , 
+ C. L. 
+ Hsu 
+ , 
+ A. 
+ Langley 
+ , 
+ C. 
+ Wojcik 
+ , 
+ E. 
+ Iraganje 
+ , and 
+ B. 
+ Grygiel‐Górniak 
+ . 2024 . “ Glucocorticoid‐Induced Osteoporosis—From Molecular Mechanism to Clinical Practice .” Drugs & Therapy Perspectives 
+ 40 , no. 8 : 315 – 329 . 10.1007/s40267-024-01079-4 . 
+
+ Jung , S. 
+ , 
+ J. 
+ Kim 
+ , 
+ J. H. 
+ Park 
+ , 
+ K. Y. 
+ Kim 
+ , 
+ H. J. 
+ Kim 
+ , and 
+ W. 
+ Park 
+ . 2022 . “ A 5‐Year Retrospective Cohort Study of Denosumab Induced Medication Related Osteonecrosis of the Jaw in Osteoporosis Patients .” Scientific Reports 
+ 12 , no. 1 : 8641 . 10.1038/s41598-022-11615-9 . 35606457 
+ PMC9126865 
+
+ Kanis , J. A. 
+ , 
+ J. D. 
+ Adachi 
+ , 
+ C. 
+ Cooper 
+ , et al. 2013 . “ Standardising the Descriptive Epidemiology of Osteoporosis: Recommendations From the Epidemiology and Quality of Life Working Group of IOF .” Osteoporosis International 
+ 24 , no. 11 : 2763 – 2764 . 10.1007/s00198-013-2413-7 . 23884436 
+ PMC5096926 
+
+ Kendler , D. L. 
+ , 
+ F. 
+ Cosman 
+ , 
+ R. K. 
+ Stad 
+ , and 
+ S. 
+ Ferrari 
+ . 2022 . “ Denosumab in the Treatment of Osteoporosis: 10 Years Later: A Narrative Review .” Advances in Therapy 
+ 39 , no. 1 : 58 – 74 . 10.1007/s12325-021-01936-y . 34762286 
+ PMC8799550 
+
+ Kerschan‐Schindl , K. 
+
+ 2016 . “ Prevention and Rehabilitation of Osteoporosis .” Wiener Medizinische Wochenschrift (1946) 
+ 166 , no. 1–2 : 22 – 27 . 10.1007/s10354-015-0417-y . 26769298 
+
+ Khan , A. A. 
+ , 
+ A. 
+ Morrison 
+ , 
+ D. A. 
+ Hanley 
+ , et al. 2015 . “ Diagnosis and Management of Osteonecrosis of the Jaw: A Systematic Review and International Consensus .” Journal of Bone and Mineral Research 
+ 30 , no. 1 : 3 – 23 . 10.1002/jbmr.2405 . 25414052 
+
+ Kim , J. Y. 
+ , 
+ H. 
+ Choi 
+ , 
+ J. H. 
+ Park 
+ , 
+ H. D. 
+ Jung 
+ , and 
+ Y. S. 
+ Jung 
+ . 2020 . “ Effects of Anti‐Resorptive Drugs on Implant Survival and Peri‐Implantitis in Patients With Existing Osseointegrated Dental Implants: A Retrospective Cohort Study .” Osteoporosis International 
+ 31 , no. 9 : 1749 – 1758 . 10.1007/s00198-019-05257-3 . 32367226 
+
+ Kuroshima , S. 
+ , 
+ F. A. 
+ Al‐Omari 
+ , 
+ M. 
+ Sasaki 
+ , and 
+ T. 
+ Sawase 
+ . 2022 . “ Medication‐Related Osteonecrosis of the Jaw: A Literature Review and Update .” Genesis 
+ 60 , no. 8–9 : e23500 . 10.1002/dvg.23500 . 36106755 
+
+ Lacey , D. L. 
+ , 
+ W. J. 
+ Boyle 
+ , 
+ W. S. 
+ Simonet 
+ , et al. 2012 . “ Bench to Bedside: Elucidation of the OPG‐RANK‐RANKL Pathway and the Development of Denosumab .” Nature Reviews Drug Discovery 
+ 11 , no. 5 : 401 – 419 . 10.1038/nrd3705 . 22543469 
+
+ Landi , L. 
+ , 
+ G. 
+ Oteri 
+ , 
+ L. 
+ Barbato 
+ , et al. 2024 . “ Anti‐Resorptive Therapy and MRONJ. A Survey of the Italian Society of Periodontology and Implantology .” Oral Diseases 
+ 30 , no. 7 : 4528 – 4537 . 10.1111/odi.14907 . 38424699 
+
+ Li , J. T. W. 
+ , and 
+ Y. Y. 
+ Leung 
+ . 2024 . “ Effect of Antiresorptive Drugs on Osseointegrated Dental Implants: A Systematic Review .” Journal of Clinical Medicine 
+ 13 , no. 7 : 2091 . 10.3390/jcm13072091 . 38610856 
+ PMC11012270 
+
+ Loyson , T. 
+ , 
+ T. 
+ Van Cann 
+ , 
+ P. 
+ Schoffski 
+ , et al. 2018 . “ Incidence of Osteonecrosis of the Jaw in Patients With Bone Metastases Treated Sequentially With Bisphosphonates and Denosumab .” Acta Clinica Belgica 
+ 73 , no. 2 : 100 – 109 . 10.1080/17843286.2017.1348001 . 28693379 
+
+ Massaad , J. 
+ , and 
+ M. 
+ Magremanne 
+ . 2022 . “ Is Medication Related Osteonecrosis of the Jaw Around Implants a Rare Entity? A Case Series With a Focus on Etiopathophysiology .” Journal of Stomatology Oral and Maxillofacial Surgery 
+ 123 , no. 6 : e743 – e748 . 10.1016/j.jormas.2021.12.002 . 34922047 
+
+ Muller , F. 
+ , 
+ M. 
+ Naharro 
+ , and 
+ G. E. 
+ Carlsson 
+ . 2007 . “ What Are the Prevalence and Incidence of Tooth Loss in the Adult and Elderly Population in Europe? ” Clinical Oral Implants Research 
+ 18 , no. Suppl 3 : 2 – 14 . 10.1111/j.1600-0501.2007.01459.x . 17594365 
+
+ Munn , Z. 
+ , 
+ T. H. 
+ Barker 
+ , 
+ S. 
+ Moola 
+ , et al. 2020 . “ Methodological Quality of Case Series Studies: An Introduction to the JBI Critical Appraisal Tool .” JBI Evidence Synthesis 
+ 18 , no. 10 : 2127 – 2133 . 10.11124/JBISRIR-D-19-00099 . 33038125 
+
+ Nicolatou‐Galitis , O. 
+ , 
+ M. 
+ Schiodt 
+ , 
+ R. A. 
+ Mendes 
+ , et al. 2019 . “ Medication‐Related Osteonecrosis of the Jaw: Definition and Best Practice for Prevention, Diagnosis, and Treatment .” Oral Surgery, Oral Medicine, Oral Pathology and Oral Radiology 
+ 127 , no. 2 : 117 – 135 . 10.1016/j.oooo.2018.09.008 . 30393090 
+
+ NIH Consensus Development Panel on Osteoporosis Prevention, Diagnosis, and Therapy 
+. 2001 . “ Osteoporosis Prevention, Diagnosis, and Therapy .” JAMA 
+ 285 , no. 6 : 785 – 795 . 10.1001/jama.285.6.785 . 11176917 
+
+ Otto , S. 
+ , 
+ E. M. 
+ Schnoedt 
+ , 
+ M. 
+ Troeltzsch 
+ , et al. 2023 . “ Clinical and Radiographic Outcomes of Dental Implants in Patients Treated With Antiresorptive Drugs: A Consecutive Case Series .” Journal of Oral Implantology 
+ 49 , no. 1 : 39 – 45 . 10.1563/aaid-joi-D-21-00035 . 35446931 
+
+ Ouanounou , A. 
+ , 
+ S. 
+ Hassanpour 
+ , and 
+ M. 
+ Glogauer 
+ . 2016 . “ The Influence of Systemic Medications on Osseointegration of Dental Implants .” Journal of the Canadian Dental Association 
+ 82 : g7 . https://www.ncbi.nlm.nih.gov/pubmed/27548672 . 27548672 
+
+ Page , M. J. 
+ , 
+ D. 
+ Moher 
+ , 
+ P. M. 
+ Bossuyt 
+ , et al. 2021 . “ PRISMA 2020 Explanation and Elaboration: Updated Guidance and Exemplars for Reporting Systematic Reviews .” BMJ 
+ 372 : n160 . 10.1136/bmj.n160 . 33781993 
+ PMC8005925 
+
+ Pichardo , S. E. C. 
+ , 
+ J. G. 
+ van der Hee 
+ , 
+ M. 
+ Fiocco 
+ , 
+ N. M. 
+ Appelman‐Dijkstra 
+ , and 
+ J. P. R. 
+ van Merkesteyn 
+ . 2020 . “ Dental Implants as Risk Factors for Patients With Medication‐Related Osteonecrosis of the Jaws (MRONJ) .” British Journal of Oral & Maxillofacial Surgery 
+ 58 , no. 7 : 771 – 776 . 10.1016/j.bjoms.2020.03.022 . 32631756 
+
+ Pishan , B. 
+ , 
+ O. 
+ Andrukhov 
+ , and 
+ X. 
+ Rausch‐Fan 
+ . 2024 . “ Dental Implant Failure in Post‐Menopausal Women on Oral Bisphosphonates: A Systematic Review and Meta‐Analysis .” Journal of Oral Implantology 
+ 50 , no. 3 : 288 – 295 . 10.1563/aaid-joi-D-23-00069 . 38660740 
+
+ Pogrel , M. A. 
+ , and 
+ S. L. 
+ Ruggiero 
+ . 2018 . “ Previously Successful Dental Implants Can Fail When Patients Commence Anti‐Resorptive Therapy—A Case Series .” International Journal of Oral and Maxillofacial Surgery 
+ 47 , no. 2 : 220 – 222 . 10.1016/j.ijom.2017.07.012 . 28803735 
+
+ Ruggiero , S. L. 
+ , 
+ T. B. 
+ Dodson 
+ , 
+ T. 
+ Aghaloo 
+ , 
+ E. R. 
+ Carlson 
+ , 
+ B. B. 
+ Ward 
+ , and 
+ D. 
+ Kademani 
+ . 2022 . “ American Association of Oral and Maxillofacial Surgeons' Position Paper on Medication‐Related Osteonecrosis of the Jaws‐2022 Update .” Journal of Oral and Maxillofacial Surgery 
+ 80 , no. 5 : 920 – 943 . 10.1016/j.joms.2022.02.008 . 35300956 
+
+ Schimmel , M. 
+ , 
+ F. 
+ Muller 
+ , 
+ V. 
+ Suter 
+ , and 
+ D. 
+ Buser 
+ . 2017 . “ Implants for Elderly Patients .” Periodontology 2000 
+ 73 , no. 1 : 228 – 240 . 10.1111/prd.12166 . 28000268 
+
+ Seki , K. 
+ , 
+ R. 
+ Koyama 
+ , 
+ K. 
+ Takayama 
+ , 
+ A. 
+ Kobayashi 
+ , 
+ A. 
+ Kamimoto 
+ , and 
+ Y. 
+ Hagiwara 
+ . 2025 . “ An Evaluation of the Peri‐implant Tissue in Patients Starting Antiresorptive Agent Treatment after Implant Placement: A Nested Case–Control Study .” Medicina 
+ 61 , no. 8 : 1348 . 10.3390/medicina61081348 . 40870393 
+ PMC12387432 
+
+ Sendyk , D. I. 
+ , 
+ E. S. 
+ Rovai 
+ , 
+ C. M. 
+ Pannuti 
+ , 
+ M. C. 
+ Deboni 
+ , 
+ W. R. 
+ Sendyk 
+ , and 
+ A. 
+ Wennerberg 
+ . 2017 . “ Dental Implant Loss in Older Versus Younger Patients: A Systematic Review and Meta‐Analysis of Prospective Studies .” Journal of Oral Rehabilitation 
+ 44 , no. 3 : 229 – 236 . 10.1111/joor.12465 . 27917518 
+
+ Shibahara , T. 
+
+ 2019 . “ Antiresorptive Agent‐Related Osteonecrosis of the Jaw (ARONJ): A Twist of Fate in the Bone .” Tohoku Journal of Experimental Medicine 
+ 247 , no. 2 : 75 – 86 . 10.1620/tjem.247.75 . 30713280 
+
+ SIGG 
+, SIMI 
+, SIR 
+, et al. 2018 . “Linee Guida Sulla Gestione Dell'Osteoporosi e Delle Fratture da Fragilità.” 
+ https://www.sigg.it/wp‐content/uploads/2018/05/Linee‐Guida‐definitive‐OSTEOPOROSI‐1.pdf . 
+
+ Slade , G. D. 
+ , 
+ A. A. 
+ Akinkugbe 
+ , and 
+ A. E. 
+ Sanders 
+ . 2014 . “ Projections of U.S. Edentulism Prevalence Following 5 Decades of Decline .” Journal of Dental Research 
+ 93 , no. 10 : 959 – 965 . 10.1177/0022034514546165 . 25146182 
+ PMC4212322 
+
+ Smith , S. 
+ , 
+ B. 
+ Finn 
+ , and 
+ A. N. 
+ Goss 
+ . 2022 . “ Medication‐Related Osteonecrosis of the Jaws: A Single Centre, Far North Queensland Case Series .” Australian Dental Journal 
+ 67 , no. 2 : 168 – 171 . 10.1111/adj.12905 . 35199861 
+ PMC9544475 
+
+ Srivastava , A. 
+ , 
+ G. M. 
+ Nogueras Gonzalez 
+ , 
+ Y. 
+ Geng 
+ , et al. 2021 . “ Prevalence of Medication Related Osteonecrosis of the Jaw in Patients Treated With Sequential Antiresorptive Drugs: Systematic Review and Meta‐Analysis .” Supportive Care in Cancer 
+ 29 , no. 5 : 2305 – 2317 . 10.1007/s00520-020-05882-3 . 33190182 
+ PMC12010772 
+
+ Stavropoulos , A. 
+ , 
+ K. 
+ Bertl 
+ , 
+ P. 
+ Pietschmann 
+ , 
+ N. 
+ Pandis 
+ , 
+ M. 
+ Schiodt 
+ , and 
+ B. 
+ Klinge 
+ . 2018 . “ The Effect of Antiresorptive Drugs on Implant Therapy: Systematic Review and Meta‐Analysis .” Clinical Oral Implants Research 
+ 29 , no. Suppl 18 : 54 – 92 . 10.1111/clr.13282 . 30306695 
+
+ Sterne , J. A. 
+ , 
+ M. A. 
+ Hernan 
+ , 
+ B. C. 
+ Reeves 
+ , et al. 2016 . “ ROBINS‐I: A Tool for Assessing Risk of Bias in Non‐Randomised Studies of Interventions .” BMJ (Clinical Research Ed.) 
+ 355 : i4919 . 10.1136/bmj.i4919 . PMC5062054 27733354 
+
+ Sulaiman , N. 
+ , 
+ F. 
+ Fadhul 
+ , and 
+ B. R. 
+ Chrcanovic 
+ . 2023 . “ Bisphosphonates and Dental Implants: A Systematic Review and Meta‐Analysis .” Materials (Basel) 
+ 16 , no. 18 : 6078 . 10.3390/ma16186078 . 37763356 
+ PMC10532755 
+
+ Tempesta , A. 
+ , 
+ S. 
+ Capodiferro 
+ , 
+ R. 
+ Mauceri 
+ , et al. 2022 . “ Peri‐Implantitis‐Like Medication‐Related Osteonecrosis of the Jaw: Clinical Considerations and Histological Evaluation With Confocal Laser Scanning Microscope .” Oral Diseases 
+ 28 , no. 6 : 1603 – 1609 . 10.1111/odi.13873 . 33844402 
+ PMC9541517 
+
+ Voss , P. J. 
+ , 
+ D. 
+ Steybe 
+ , 
+ P. 
+ Poxleitner 
+ , et al. 2018 . “ Osteonecrosis of the Jaw in Patients Transitioning From Bisphosphonates to Denosumab Treatment for Osteoporosis .” Odontology 
+ 106 , no. 4 : 469 – 480 . 10.1007/s10266-018-0362-5 . 29713913 
+
+ Watts , N. B. 
+ , 
+ J. T. 
+ Grbic 
+ , 
+ N. 
+ Binkley 
+ , et al. 2019 . “ Invasive Oral Procedures and Events in Postmenopausal Women With Osteoporosis Treated With Denosumab for up to 10 Years .” Journal of Clinical Endocrinology and Metabolism 
+ 104 , no. 6 : 2443 – 2452 . 10.1210/jc.2018-01965 . 30759221 
+
+ Wells , G. A. 
+ , 
+ B. 
+ Shea 
+ , 
+ D. 
+ O'Connell 
+ , et al. 2013 . “The Newcastle‐Ottawa Scale (NOS) for Assessing the Quality of Nonrandomised Studies in Meta‐Analyses.” 
+ http://www.ohri.ca/programs/clinical_epidemiology/oxford.asp . 
+
+ Yarom , N. 
+ , 
+ C. L. 
+ Shapiro 
+ , 
+ D. E. 
+ Peterson 
+ , et al. 2019 . “ Medication‐Related Osteonecrosis of the Jaw: MASCC/ISOO/ASCO Clinical Practice Guideline .” Journal of Clinical Oncology 
+ 37 , no. 25 : 2270 – 2290 . 10.1200/JCO.19.01186 . 31329513
