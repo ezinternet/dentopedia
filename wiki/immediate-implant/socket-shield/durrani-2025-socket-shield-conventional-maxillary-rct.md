@@ -7,9 +7,13 @@ doi: "10.4103/jisp.jisp_13_24"
 source: durrani-2025-socket-shield-conventional-maxillary-rct.md
 category: immediate-implant/socket-shield
 confidence: rct
-pdf_path:
-pdf_filename:
-source_collection: external
+source_collection: pubmed-text
+full_text: true
+pmid: "40018717"
+pmcid: "PMC11864334"
+source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11864334/
+text_path: /Users/oracleneo/llm-wiki/papers/durrani-2025-socket-shield-conventional-maxillary-rct.txt
+text_filename: durrani-2025-socket-shield-conventional-maxillary-rct.txt
 tags: [socket-shield, conventional-implant, marginal-bone-loss, pink-esthetic-score, RCT, maxillary-esthetic-zone, 36-month]
 relations:
   - type: reinforces
