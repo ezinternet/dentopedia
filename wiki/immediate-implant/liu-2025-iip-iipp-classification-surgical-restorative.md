@@ -7,9 +7,13 @@ doi: "10.1016/j.jds.2025.05.007"
 source: liu-2025-iip-iipp-classification-surgical-restorative.md
 category: immediate-implant
 confidence: retrospective
-pdf_path:
-pdf_filename:
-source_collection: external
+source_collection: pubmed-text
+full_text: true
+pmid: "40654454"
+pmcid: "PMC12254871"
+source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12254871/
+text_path: /Users/oracleneo/llm-wiki/papers/liu-2025-iip-iipp-classification-surgical-restorative.txt
+text_filename: liu-2025-iip-iipp-classification-surgical-restorative.txt
 tags: [IIP-classification, IIPP, surgical-difficulty, restorative-difficulty, case-selection, risk-stratification, complication-rate]
 ---
 
