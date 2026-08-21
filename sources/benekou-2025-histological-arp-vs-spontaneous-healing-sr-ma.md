@@ -6,9 +6,11 @@ doi: "10.3390/dj13120556"
 pmid: "41440314"
 pmc: "PMC12731776"
 category: bone-regeneration/ridge-preservation
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+source_collection: pubmed-text
+full_text: true
+source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12731776/
+text_path: /Users/oracleneo/llm-wiki/papers/benekou-2025-histological-arp-vs-spontaneous-healing-sr-ma.txt
+text_filename: benekou-2025-histological-arp-vs-spontaneous-healing-sr-ma.txt
 ---
 
 ## Why Ingested
