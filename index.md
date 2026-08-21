@@ -3940,6 +3940,10 @@ tags: []
 
 ### drug/mronj
 - [[drug/mronj/dahiya-2024-antiresorptive-drugs-osteonecrosis-dental-implants]] — Umbrella review(SR 10편, 2014-2024, PROSPERO): 실패 임플란트 524개 중 MRONJ 2-17%; IV 비스포스포네이트 ≥45-60개월 최고위험; AMSTAR2 high 0% [sr+ma]
+- [[drug/mronj/iwata-2024-what-is-the-appropriate-antibiotic]] — 고용량 데노수맙(Denosumab) 암 환자 발치 다기관 후향 연구(일본 10개 기관, n=68·173치): MRONJ 발생 18.4%(32/173치), 항생제 용량·투여기간과 무관(p=0.164–1.000), 아목시실린(Amoxicillin, AMPC) 술전 단일 투여로 충분 [retrospective]
+- [[drug/mronj/wick-2022-risk-factors-associated-with]] — 데노수맙(Denosumab) MRONJ 위험인자 후향 3군 코호트(n=128): 호르몬요법(오즈비(Odds Ratio, OR) 6.33)·항암치료(OR 2.97)·고혈압(OR 2.96)·유방암(OR 2.83)·의치(OR 2.74)·치주질환(OR 2.46)·치근단염(OR 2.04)·고용량 120 mg(p<0.01)이 위험 인자, BP→데노수맙 전환은 무관(p=0.86), 약물 휴약 시 위험 ~75% 감소(OR 0.24) [retrospective]
+- [[drug/mronj/pereira-santos-2026-mronj-risk-related-to-dental]] — 데노수맙(Denosumab) 치료 골다공증 환자 임플란트 관련 MRONJ 체계적 문헌고찰(Systematic Review, SR; 10편·8,220명, 메타분석 불가): 데노수맙+임플란트군 366명 중 18명 MRONJ 발생(24개 임플란트), 수술 유발(Implant Surgery-Triggered Osteonecrosis, ISTO)보다 임플란트 존재 유발(IPTO) 패턴 우세, BP→데노수맙 전환군에서 발생·재발 모두 증가 [sr]
+- [[drug/mronj/masri-2026-therapeutic-window-timing-dentoalveolar]] — 데노수맙(Denosumab) 골다공증 발치 타이밍 후향 코호트(n=258·수술 185건): MRONJ 5.43%(14/258), 마지막 주사 후 지연이 독립 보호인자(OR 0.35, p=.0089), 주사 후 4개월 이내 전기적 골 수술 회피 권고(최적 4–5개월, ECTS 5–6개월과 균형), ≥4개월 경과 시 MRONJ 0건 [retrospective]
 
 ### complete-denture
 - [[complete-denture/sharka-2019-ohrqol-dentures-implant-overdentures]] — Umbrella SR(JBI, 8편: SR 6/SR+MA 1/MA 1, SIGN 1+~1-): 임플란트유지 오버덴처(IROD)가 통상총의치(CCD) 대비 OHRQoL·만족도 우위 [sr, abstract-only]
