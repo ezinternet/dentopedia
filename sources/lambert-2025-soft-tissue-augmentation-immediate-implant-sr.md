@@ -4,9 +4,13 @@ authors: "Lambert F, Montero E, Laleman I, Carrillo de Albornoz CA, Yousfi H, Sa
 year: 2025
 doi: "10.1111/prd.70003"
 category: immediate-implant/esthetic-soft-tissue
-pdf_path:
-pdf_filename:
-source_collection: external
+source_collection: pubmed-text
+full_text: true
+pmid: "40793935"
+pmcid: "PMC13428086"
+source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC13428086/
+text_path: /Users/oracleneo/llm-wiki/papers/lambert-2025-soft-tissue-augmentation-immediate-implant-sr.txt
+text_filename: lambert-2025-soft-tissue-augmentation-immediate-implant-sr.txt
 ---
 
 ## Why Ingested
