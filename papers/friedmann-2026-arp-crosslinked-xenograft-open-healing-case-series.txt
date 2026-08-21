@@ -1,0 +1,65 @@
+[PUBMED ABSTRACT ONLY — no PMC copy, no PDF. Retrieved via E-utilities efetch on 2026-08-22.]
+Source: https://pubmed.ncbi.nlm.nih.gov/42100841/
+DOI: 10.3290/j.qi.b7003245
+---
+1. Quintessence Int. 2026 Jun 22;57(6):498-511. doi: 10.3290/j.qi.b7003245.
+
+ARP with a crosslinked xenograft in an open healing mode: clinical and 
+microscopic characteristics of a case series.
+
+Friedmann A, Tendeng G, Bilhan H, Diehl D, Goetz W.
+
+OBJECTIVE: This case series aims to report clinical, radiographic, and 
+microscopic outcomes of replacing extracted teeth with a crosslinked 
+collagen/hydroxyapatite-enhanced porcine sponge for alveolar ridge preservation. 
+Reporting includes the 12-month survival rate of implants placed after the 
+alveolar ridge preservation period was completed.
+METHOD AND MATERIALS: Following gentle tooth extraction and degranulation of the 
+socket, tactile examination revealed the morphologic configuration of remaining 
+bone. Sockets presenting with ≥ 50% of residual buccal bone were included, and 
+received - regardless of the present soft tissue contour - treatment with 
+sugar-crosslinked collagen/hydroxyapatite-enhanced (SCLC/HA) sponge. The sponge 
+was inserted into the socket, positioning it at the same height as the 
+soft-tissue margins of the orifice. No soft tissue closure was intended, and a 
+cross-suture stabilized the graft for the initial 7 days of healing. After 
+alveolar ridge preservation was considered complete, a reentry surgery followed 
+for implant placement in sites initially planned for implant treatment. Eleven 
+patients agreed to donate 12 tissue samples obtained at implant placement to 
+assess tissue assembly and to understand the remodeling process of the graft. 
+Implants were placed if the site appeared suitable, and different loading 
+protocols were initiated. Samples were processed in decalcified mode. 
+Microscopic analysis used hematoxylin-eosin and Azan stain, von Willebrand 
+factor (vWF) expression, alveolar ridge preservation, RUNX2, ED-1, periostin, 
+osteopontin and osteocalcin; activity was evaluated by means of 
+immunohistochemistry, while TRAP (tartrate-resistant acid phosphatase)-positive 
+cells were histochemically labeled. One year after implant loading the survival 
+of the implants placed after alveolar ridge preservation was calculated.
+RESULTS: A total of 49 patients with 62 treated sites were included. From 62 
+sites, 54 were planned to receive an implant following a period of alveolar 
+ridge preservation healing. This period varied among patients from 3.5 months to 
+over 12 months, and the outcome was separated into early- and late-reentry 
+groups. Clinically, all sites healed without complications, consistently showing 
+a new layer of soft tissue cover at the former orifice 3 to 4 weeks after tooth 
+extraction. Microscopic analysis supported this time-based separation, as the 
+specimens showed varying amounts of residual graft material per group. The soft 
+tissue showed well-keratinized epithelium microscopically, with a layer of newly 
+arranged lamina propria beneath the rete pegs. The duration of the alveolar 
+ridge preservation healing period was identified as a factor in whether the 
+xenograft underwent incomplete or complete remodeling. Of the 54 
+implant-receiving sites, 39 showed sufficient orofacial width and vertical 
+dimension for implant placement without additional intervention. Additionally, 
+12 sites required either vertical extension of subantral bone or concomitant 
+lateral guided bone regeneration at implant placement. In three sites, another 
+staged augmentation was required. The 1-year survival rate after implant loading 
+was 98.2%, as one of the 54 inserted implants experienced early loss due to 
+disintegration under immediate temporalization conditions.
+CONCLUSIONS: Despite the limitations of a case series, it can be concluded that 
+the alveolar ridge preservation procedure using the SCLC/HA sponge results in 
+predictable secondary healing and well-maintained ridge dimensions suitable for 
+implant placement and function. Soft tissue healing was consistent across all 
+cases and sites, with only a few requiring additional staged augmentation. 
+Microscopic analysis revealed complete remodeling of the xenograft in sites with 
+healing period lasting > 6 months.
+
+DOI: 10.3290/j.qi.b7003245
+PMID: 42100841 [Indexed for MEDLINE]
