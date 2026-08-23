@@ -25,6 +25,10 @@ source_collection: external
 
 염증환경에서 PDLSCs는 T세포·대식세포·호중구를 면역조절하고(PGE2·exosome·miR-155-5p 경로), 반대로 LPS·TNF-α는 PDLSCs 골형성능을 저해한다.
 
+## Why Ingested
+
+교정력이라는 기계적 자극이 치조골 리모델링으로 변환되는 세포·분자 경로(압박측 RANKL 파골세포생성 vs 장력측 BMP 조골분화)를 PDLSC 관점에서 통합하는 리뷰로, [[wiki/orthodontics/li-2021-periodontium-orthodontic-tooth-movement-biomechanics]]의 치주조직 생체역학 프레임에 줄기세포·면역조절 축을 확장한다.
+
 ## 1. Document Information
 - **Journal**: Stem Cell Research & Therapy (2025) 16:653
 - **DOI**: 10.1186/s13287-025-04777-6
