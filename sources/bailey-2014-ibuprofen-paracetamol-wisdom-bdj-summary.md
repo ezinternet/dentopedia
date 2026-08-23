@@ -11,6 +11,10 @@ study_type: summary-article-review
 related_doi: "10.1002/14651858.CD004624.pub2"
 ---
 
+## Why Ingested
+
+Cochrane CD004624의 BDJ Verifiable CPD 요약판으로, 원 리뷰 [[wiki/drug/analgesics/bailey-2013-ibuprofen-paracetamol-wisdom-teeth-cochrane]]와 동일 근거(이중맹검 RCT 7편/n=2241)를 일반 치과 임상가용으로 증류한 페이지 — 이부프로펜 400 mg 1차 우선(NNT 4)과 병용제(Nuromol, NNT 3) 메시지를 진통제 선반([[wiki/drug/analgesics/moore-2015-single-dose-oral-analgesics-cochrane-overview]])에서 함께 참조하기 위해 넣었다.
+
 ## Summary
 
 This article is a narrative summary of the Cochrane systematic review CD004624 (Bailey et al. 2013), published in the British Dental Journal as a Verifiable CPD Paper. It presents the same evidence base — 7 double-blind RCTs involving 2241 participants — comparing single-dose oral analgesics for pain relief after surgical removal of impacted mandibular third molars. The BDJ summary distills the Cochrane findings for a general dental audience, highlighting ibuprofen 400 mg as superior to paracetamol 1000 mg and the combination product (ibuprofen 200 mg + paracetamol 400 mg, Nuromol) as providing the greatest pain relief. Evidence quality was rated as high across the primary comparisons.
