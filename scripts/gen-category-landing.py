@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+from __future__ import annotations  # PEP 604 unions must run on Python 3.9
 """Generate category landing pages for all MISS wiki category folders.
 
 Creates wiki/{category}/{basename}.md for every folder that doesn't already
