@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+from __future__ import annotations  # PEP 604 unions must run on Python 3.9
 """
 LLM Wiki — Ingest Rationale Lint
 
