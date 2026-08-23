@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+from __future__ import annotations  # PEP 604 unions (str | None) must run on Python 3.9
 """
 LLM Wiki — Typed Relations Audit (signal, non-blocking)
 
