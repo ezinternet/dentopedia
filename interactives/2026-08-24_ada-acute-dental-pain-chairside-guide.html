@@ -1,0 +1,502 @@
+---
+title: "ADA 급성 치통 약리관리 체어사이드 결정 도구"
+type: interactive
+date: 2026-08-24
+status: done
+source_wiki:
+  - wiki/drug/analgesics/carrasco-labra-2024-pharmacologic-management-acute-dental-pain-guideline.md
+  - wiki/drug/analgesics/ada-2024-chairside-guide-adult-extraction.md
+  - wiki/drug/analgesics/ada-2024-chairside-guide-adult-pulpitis.md
+agenda: agenda/2026-08-24_ada-acute-dental-pain-guideline-interactive.md
+---
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ADA 급성 치통 약리관리 체어사이드 결정 도구</title>
+<style>
+:root {
+  --bg: #F2F3EF;
+  --surface: #FFFFFF;
+  --text: #1A2030;
+  --muted: #5A6472;
+  --line: #DDE0D8;
+  --accent: #1E6B52;
+  --accent-soft: #E4F0EA;
+  --warn-bg: #FDF3E4;
+  --warn-border: #C77E1E;
+  --danger-bg: #FBEAEA;
+  --danger-border: #B03A3A;
+  --info-bg: #E8F0FA;
+  --info-border: #2F5FA5;
+  --grade-high: #1E6B52;
+  --grade-mod: #3C7A46;
+  --grade-low: #B07E1E;
+  --grade-vlow: #A8433A;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans KR", sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.65;
+  font-size: 15px;
+  padding-bottom: 60px;
+}
+.wrap { max-width: 1060px; margin: 0 auto; padding: 18px; }
+header.hero {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  padding: 20px 22px;
+  margin-bottom: 16px;
+}
+header.hero h1 { font-size: 21px; margin-bottom: 6px; }
+header.hero .sub { color: var(--muted); font-size: 13px; }
+.pillrow { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; }
+.pill {
+  font-size: 12px; background: var(--accent-soft); color: var(--accent);
+  border-radius: 999px; padding: 2px 10px; font-weight: 600;
+}
+.tabs { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 14px; }
+.tabs button {
+  border: 1px solid var(--line); background: var(--surface); color: var(--muted);
+  padding: 8px 14px; border-radius: 10px; cursor: pointer; font-size: 14px; font-weight: 600;
+}
+.tabs button.on { background: var(--accent); border-color: var(--accent); color: #fff; }
+.card {
+  background: var(--surface); border: 1px solid var(--line); border-radius: 14px;
+  padding: 18px 20px; margin-bottom: 14px;
+}
+.card h2 { font-size: 17px; margin-bottom: 10px; }
+.card h3 { font-size: 15px; margin: 14px 0 6px; }
+.hidden { display: none !important; }
+.seg { display: inline-flex; border: 1px solid var(--line); border-radius: 10px; overflow: hidden; }
+.seg button { border: none; background: var(--surface); padding: 8px 16px; cursor: pointer; font-size: 14px; font-weight: 600; color: var(--muted); }
+.seg button.on { background: var(--accent); color: #fff; }
+.toggle { display: flex; align-items: center; gap: 8px; margin: 12px 0; font-weight: 600; }
+.switch { position: relative; width: 44px; height: 24px; background: #CBD2CC; border-radius: 999px; cursor: pointer; transition: background .15s; flex-shrink: 0; }
+.switch::after { content: ""; position: absolute; top: 3px; left: 3px; width: 18px; height: 18px; background: #fff; border-radius: 50%; transition: left .15s; }
+.switch.on { background: var(--danger-border); }
+.switch.on::after { left: 23px; }
+.opt { display: flex; gap: 8px; flex-wrap: wrap; margin: 10px 0; }
+.opt button { border: 1px solid var(--line); background: var(--bg); border-radius: 10px; padding: 8px 14px; cursor: pointer; font-size: 14px; font-weight: 600; color: var(--text); }
+.opt button.on { background: var(--accent-soft); border-color: var(--accent); color: var(--accent); }
+.stepbox { border: 1px solid var(--line); border-left: 4px solid var(--accent); border-radius: 10px; padding: 12px 14px; margin: 10px 0; background: var(--surface); }
+.stepbox.second { border-left-color: var(--warn-border); background: var(--warn-bg); }
+.stepbox.contra { border-left-color: var(--danger-border); background: var(--danger-bg); }
+.stepbox.optional { border-left-color: var(--info-border); background: var(--info-bg); }
+.tag {
+  display: inline-block; font-size: 11px; font-weight: 700; border-radius: 6px;
+  padding: 1px 7px; margin-right: 6px; vertical-align: middle;
+}
+.t-cond { background: #EEE7F8; color: #5B3E96; }
+.t-strong { background: var(--accent-soft); color: var(--accent); }
+.c-high { background: #DFF0E6; color: var(--grade-high); }
+.c-mod { background: #E4EFD9; color: var(--grade-mod); }
+.c-low { background: #FBF0DA; color: var(--grade-low); }
+.c-vlow { background: #F9E4E1; color: var(--grade-vlow); }
+table { width: 100%; border-collapse: collapse; margin: 10px 0; font-size: 13.5px; }
+th { background: var(--bg); text-align: left; }
+th, td { border: 1px solid var(--line); padding: 7px 10px; vertical-align: top; }
+.warn { background: var(--warn-bg); border: 1px solid var(--warn-border); border-radius: 10px; padding: 12px 14px; margin: 10px 0; }
+.danger { background: var(--danger-bg); border: 1px solid var(--danger-border); border-radius: 10px; padding: 12px 14px; margin: 10px 0; }
+.info { background: var(--info-bg); border: 1px solid var(--info-border); border-radius: 10px; padding: 12px 14px; margin: 10px 0; }
+ul, ol { padding-left: 22px; margin: 6px 0; }
+li { margin: 3px 0; }
+.small { font-size: 12.5px; color: var(--muted); }
+.flowgate { display: flex; align-items: center; gap: 12px; margin: 12px 0; flex-wrap: wrap; }
+.checklist label { display: block; padding: 7px 10px; border: 1px solid var(--line); border-radius: 9px; margin: 6px 0; cursor: pointer; background: var(--surface); }
+.checklist label:hover { background: var(--bg); }
+.checklist input { margin-right: 9px; accent-color: var(--accent); }
+details { border: 1px solid var(--line); border-radius: 10px; padding: 10px 14px; margin: 8px 0; background: var(--surface); }
+summary { cursor: pointer; font-weight: 700; }
+footer { text-align: center; color: var(--muted); font-size: 12px; margin-top: 26px; }
+a { color: var(--info-border); }
+.badge-src { font-size: 11px; color: var(--muted); }
+.ladder-arrow { text-align:center; color: var(--muted); font-size: 18px; margin: 2px 0; }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header class="hero">
+  <h1>ADA 급성 치통 약리관리 체어사이드 결정 도구</h1>
+  <div class="sub">Evidence-based clinical practice guideline for the pharmacologic management of acute dental pain in adolescents, adults, and older adults</div>
+  <div class="sub">American Dental Association Science and Research Institute · University of Pittsburgh · University of Pennsylvania — <i>JADA</i> 2024;155(2):102-117 · DOI 10.1016/j.adaj.2023.10.009</div>
+  <div class="pillrow">
+    <span class="pill">발치 후 통증</span><span class="pill">치통 잠정관리</span>
+    <span class="pill">비오피오이드 1차</span><span class="pill">GRADE 조건부 권고 중심</span>
+    <span class="pill">FDA 지원 U01FD007151</span>
+  </div>
+  <div class="small" style="margin-top:8px">적용 연령 구간 — 청소년(adolescents) 12–&lt;17세 · 성인(adults) 17–&lt;65세 · 고령자(older adults) ≥65세. 이 도구는 위키 인제스트 문서의 요약이며 임상 판단을 대체하지 않는다.</div>
+</header>
+
+<div class="tabs">
+  <button data-tab="tabA" class="on">시나리오 A · 발치 후 통증</button>
+  <button data-tab="tabB">시나리오 B · 치통 잠정관리</button>
+  <button data-tab="tabDose">용량·약제·FDA 참조</button>
+  <button data-tab="tabCheck">이행 체크리스트</button>
+  <button data-tab="tabGrade">근거·GRADE 해설</button>
+</div>
+
+<!-- ============ TAB A ============ -->
+<div id="tabA" class="tabc">
+  <div class="card">
+    <h2>시나리오 A — 발치 후 통증 (Postoperative pain after tooth extraction)</h2>
+    <p class="small" style="margin-bottom:10px">권고 출처: Chairside Guide — Adult Extraction (ADA 2024) = 본문 Box 1. 강도(strength)·확실성(certainty)은 원문 라벨 그대로.</p>
+
+    <h3>① 발치 유형</h3>
+    <div class="seg" id="segExtraction">
+      <button data-v="simple" class="on">단순 발치 (simple)</button>
+      <button data-v="surgical">외과 발치 (surgical)</button>
+    </div>
+
+    <h3>② NSAIDs 금기인가? <span class="small">(FDA 금기 원칙: 위해가 치료 이득을 명백히 능가하는 알려진 위험만 금기 근거)</span></h3>
+    <div class="toggle"><div class="switch" id="swContra"></div><span id="contraLabel">아니오 — NSAIDs 사용 가능</span></div>
+
+    <!-- NSAID OK -->
+    <div id="aLadder">
+      <div class="stepbox">
+        <span class="tag t-cond">조건부 권고</span><span class="tag c-low">Low certainty</span>
+        <b>FIRST LINE — 비오피오이드로 시작</b> (오피오이드 대신)
+        <ul>
+          <li><b>Option 1:</b> NSAID 단독 — 예: ibuprofen 400 mg 또는 naproxen sodium 440 mg</li>
+          <li><b>Option 2:</b> NSAID + acetaminophen 병용 — 예: ibuprofen 400 / naproxen sodium 440 + acetaminophen 500 mg</li>
+        </ul>
+      </div>
+      <div id="aOptChoice">
+        <h3>③ 1차 요법 선택</h3>
+        <div class="opt" id="optFirstLine">
+          <button data-v="o1" class="on">Option 1 — NSAID 단독</button>
+          <button data-v="o2">Option 2 — NSAID+APAP 병용</button>
+        </div>
+      </div>
+      <div id="aSecond"></div>
+      <div id="aSimpleNoOpioid" class="hidden">
+        <div class="danger"><b>단순 발치:</b> 비오피오이드 <u>만</u> 사용 — 패널은 오피오이드 사용에 대해 <b>반대(recommends against)</b> 권고 (조건부, Low certainty). 통증 조절이 불충분해도 오피오이드 사다리로 가지 않는다 — 재평가·처방 조정으로 대응.</div>
+      </div>
+    </div>
+
+    <!-- NSAID contraindicated -->
+    <div id="aContra" class="hidden">
+      <div class="stepbox contra">
+        <b>NSAIDs 금기 시 (권고 1.4 / 2.2)</b>
+        <ul>
+          <li id="contraSurgicalOnly"><b>acetaminophen 단독 최대치료용량 (예: 1,000 mg)</b> <b>OR</b> acetaminophen 325 mg + APAP·오피오이드 병합정 325 mg (예: hydrocodone 5–7.5 mg 또는 oxycodone 5 mg 함유) — 최소유효용량·최소 정수·최단기간(3일 초과 드묾) (조건부, Low certainty)</li>
+          <li id="contraSimpleOnly"><b>acetaminophen 단독 최대치료용량 (예: 1,000 mg)</b> (조건부, Low certainty) — 단순 발치에서 오피오이드 병합 옵션은 제시되지 않는다 (권고 2는 오피오이드 반대).</li>
+        </ul>
+      </div>
+    </div>
+
+    <div id="aSurgicalExtras">
+      <h3>④ 외과 발치 추가 권고</h3>
+      <div class="stepbox">
+        <span class="tag t-cond">조건부 권고</span><span class="tag c-vlow">Very low certainty</span>
+        <b>권고 1.5 — 코르티코스테로이드 추가 반대:</b> 표준 진통요법에 경구·점막하(submucosal)·근육내(IM) 코르티코스테로이드를 <b>추가하지 말 것(suggests against)</b>.
+        <div class="small">범위 밖: trismus·안면부종·감염 등 염증성 합병증 관리 역할, 정맥투여(IV) — 본 지침 범위 아님.</div>
+      </div>
+      <div class="stepbox optional">
+        <span class="tag t-cond">조건부 권고</span><span class="tag c-low">Low certainty</span>
+        <b>권고 3 — 퇴원 전 보조 국소마취(long-acting LA):</b> 0.5% bupivacaine + epinephrine 1:200,000 (block 또는 infiltration) <b>OR</b> 4% articaine + epinephrine 1:100,000/1:200,000 (infiltration) — 기존 2% lidocaine + epi 1:100,000 또는 3% mepivacaine <b>대신</b>.
+        <div class="small">목표: 내원 중 즉시 진통 + 내원 후 진통 연장. 진통제 투여를 <b>대체하지 않음</b>. 방문 시작부터 LA를 술후 전략으로 쓰면 총 국소마취 용량을 신중히 감시할 것.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card">
+    <h3>오피오이드 처방 시 공통 안전가드 (권고 1.2/1.3/1.4 적용 분)</h3>
+    <ul>
+      <li><b>최소 유효 용량 · 최소 정수(fewest tablets) · 최단 기간</b> — 3일 초과는 드물게(rarely exceeds 3 days)</li>
+      <li>루틴한 연기처방(delayed, just-in-case breakthrough prescription) <b>금지</b></li>
+      <li>대상 제외: gabapentinoid 복용자, CNS 활성 약물(벤조디아제핀·항우울제·항경련제·마약성) 복용자, 다른 질환으로 이미 오피오이드 복용 중인 환자</li>
+      <li>처방 시 <b>informed consent</b>: 신체 의존, 오남용 위험, 호흡억제, 운전/기계조작 영향 — 특히 청소년·젊은 성인은 단 1회 처방으로도 이후 misuse·SUD 위험 증가</li>
+      <li>청소년에게는 <b>극도 주의(extreme CAUTION)</b>, 보호자 동의(con caregiver consent) 권고</li>
+      <li>APAP·오피오이드 병합정에는 두 약이 모두 들어 있음 — 누적 acetaminophen ≤ 4,000 mg/일 경고 필수</li>
+    </ul>
+  </div>
+</div>
+
+<!-- ============ TAB B ============ -->
+<div id="tabB" class="tabc hidden">
+  <div class="card">
+    <h2>시나리오 B — 치통 잠정관리 (Temporary management of toothache)</h2>
+    <p class="small">출처: Chairside Guide — Adult Pulpitis (ADA 2024) = 본문 Box 2. <b>적용 한정:</b> 확정치료(definitive dental treatment)를 즉시 받을 수 <u>없는</u> 상황에서만. Toothache 정의 = 증상성 치수염(가역성 또는 증상성 비가역성, 증상성 근첨 치주염 동반 여부 무관) 또는 치수괴사+증상성 근첨 치주염 또는 급성 근첨 농양.</p>
+
+    <h3>① 게이트 — 확정치료가 즉시 가능한가?</h3>
+    <div class="seg" id="segDefinitive">
+      <button data-v="yes">예 — 가능</button>
+      <button data-v="no" class="on">아니오 — 불가</button>
+    </div>
+    <div id="bYes" class="hidden">
+      <div class="stepbox"><b>확정치료 시행:</b> pulpectomy, 비외과적 근관치료(NSRCT), 절개배농(incision for drainage), 발치 중 해당 치료를 시행하거나 즉시 의뢰(referral). 잠정 약물요법은 확정치료를 미루는 핑계가 되어서는 안 된다.</div>
+    </div>
+    <div id="bNo">
+      <div class="info"><b>잠정관리(bridge) 모드:</b> 첫 내원(또는 응급 접촉)에서 통증을 조절하고 확정치료 내원 전까지의 기간을 버틴다. 환자에게 안내: 통증이 시간이 지나도 줄지 않으면 연락할 것 · <b>2–3일 내</b> 확정치료 의뢰가 불가능하면 연락할 것.
+      <div class="small">각주: 본문(Box 2) 각주는 "2 through 3 days", 같은 논문 Remarks 문단은 "1 through 2 days"로 표기 — ADA 문서 내부 불일치. 체어사이드 지와 각주에 맞춰 2–3일을 기본 표기함.</div></div>
+    </div>
+
+    <div id="bTempFlow">
+      <h3>② 내원 중 즉시 진통 — 단시간 작용 국소마취 (권고 1)</h3>
+      <div class="stepbox optional">
+        <span class="tag t-cond">조건부 권고</span><span class="tag c-vlow">Very low certainty</span>
+        2% lidocaine + epinephrine 1:100,000 <b>또는</b> 4% articaine + epinephrine 1:100,000 — 내원 중 즉각 통증완화 목적. (직접 근거 부재 — 발치통 RCT 간접근거로 성립)
+      </div>
+
+      <h3>③ 단기 보조 — 도포마취 benzocaine (권고 4, 선택)</h3>
+      <div class="stepbox optional">
+        <span class="tag t-cond">조건부 권고</span><span class="tag c-low">Low certainty</span>
+        10% 또는 20% topical benzocaine — 무사용(위약 vehicle)에 비해 사용. <b>도포 부위:</b> 병소 치아 및 주변 연조직(gingiva)에 직접.
+        <div class="small">근거: 10% (RCT 2편)·20% (RCT 3편) 모두 20–30분 연속 2회 이상 시점에서 실질적 통증감소 반응자 비율 증가. 20% vs 10% 차등 이득은 사실상 없음(negligible, moderate certainty).</div>
+      </div>
+
+      <h3>④ 내원 후(post-visit) 진통 사다리 (권고 2 계열)</h3>
+      <div class="toggle"><div class="switch" id="swContraB"></div><span id="contraLabelB">NSAIDs 금기 아님</span></div>
+      <div id="bLadder">
+        <div class="stepbox">
+          <span class="tag t-cond">조건부 권고</span><span class="tag c-low">Low certainty</span>
+          <b>비오피오이드 1차 (오피오이드 대신)</b>
+          <ul>
+            <li><b>Option 1:</b> NSAID 단독 — ibuprofen 400 mg 또는 naproxen sodium 440 mg</li>
+            <li><b>Option 2:</b> NSAID + acetaminophen 500 mg 병용</li>
+          </ul>
+        </div>
+        <div class="opt" id="optFirstLineB">
+          <button data-v="o1" class="on">Option 1 선택</button>
+          <button data-v="o2">Option 2 선택</button>
+        </div>
+        <div id="bSecond"></div>
+      </div>
+      <div id="bContra" class="hidden">
+        <div class="stepbox contra">
+          <b>NSAIDs 금기 시 (권고 2.4):</b> acetaminophen 단독 최대치료용량(예: 1,000 mg) <b>OR</b> acetaminophen 325 mg + APAP·오피오이드 병합정 325 mg (hydrocodone 5–7.5 mg 또는 oxycodone 5 mg) — 최소유효용량·최소 정수·최단기간(3일 초과 드묾) (조건부, Low).
+        </div>
+      </div>
+
+      <h3>⑤ 연장 잠정관리 — 장시간 작용 국소마취 (권고 3, 선택)</h3>
+      <div class="stepbox optional">
+        <span class="tag t-cond">조건부 권고</span><span class="tag c-vlow">Very low certainty</span>
+        0.5% bupivacaine + epinephrine 1:200,000 (block 또는 infiltration) <b>OR</b> 4% articaine + epinephrine 1:100,000/1:200,000 (infiltration) — 퇴원 직전 시행, 내원 후 진통 연장 목적. 진통제 대체 아님.
+      </div>
+
+      <div class="warn"><b>핵심 문장 (본문 Discussion):</b> 이 약리 전략들은 확정치료 의뢰가 잡힐 때까지 치통을 일시 완화하는 <b>다리(bridge)</b>일 뿐이며, 치과 치료를 즉시 제공하지 않거나 미루는 이유가 되어서는 안 된다.</div>
+    </div>
+  </div>
+</div>
+
+<!-- ============ TAB DOSE ============ -->
+<div id="tabDose" class="tabc hidden">
+  <div class="card">
+    <h2>용량 참조 — 최소 유효 용량 원칙</h2>
+    <div class="warn"><b>최대 일일 용량 (두 시나리오 공통):</b> ibuprofen 2,400 mg/일 · naproxen sodium 1,100 mg/일 · acetaminophen 4,000 mg/일. 부작용 최소화를 위해 통증 조절에 충분한 최소 유효 용량으로 처방.</div>
+    <table>
+      <tr><th>약제</th><th>권고문 예시 용량</th><th>역할</th><th>비고</th></tr>
+      <tr><td>Ibuprofen (NSAID)</td><td>400 mg/회</td><td>1차 — 단독 또는 APAP 병용</td><td>최대 2,400 mg/일</td></tr>
+      <tr><td>Naproxen sodium (NSAID)</td><td>440 mg/회</td><td>1차 — 단독 또는 APAP 병용</td><td>최대 1,100 mg/일</td></tr>
+      <tr><td>Acetaminophen (APAP)</td><td>500 mg (병용) · 1,000 mg (단독 최대치료용량) · 325 mg (오피오이드 병행 시 추가정)</td><td>1차 병용 / NSAID 금기 시 단독</td><td>누적 ≤4,000 mg/일 — 병합정 포함해 합산 경고</td></tr>
+      <tr><td>Hydrocodone + APAP 병합정</td><td>APAP 325 mg + hydrocodone 5–7.5 mg</td><td>2선 — ADD/REPLACE 경로</td><td>최소 용량·정수·기간(≤3일 원칙)</td></tr>
+      <tr><td>Oxycodone + APAP 병합정</td><td>APAP 325 mg + oxycodone 5 mg</td><td>2선 — ADD/REPLACE 경로</td><td>동일 안전가드</td></tr>
+    </table>
+    <h3>국소마취 참조</h3>
+    <table>
+      <tr><th>구분</th><th>약제·농도</th><th>투여</th><th>근거 등급</th></tr>
+      <tr><td>단시간 (내원 중, 치통)</td><td>2% lidocaine + epi 1:100,000 · 4% articaine + epi 1:100,000</td><td>즉시 진통</td><td><span class="tag c-vlow">Very low</span></td></tr>
+      <tr><td>장시간 (퇴원 직전 보조)</td><td>0.5% bupivacaine + epi 1:200,000 (block/infiltration) · 4% articaine + epi 1:100,000/1:200,000 (infiltration)</td><td>진통 연장 — lidocaine 2%+epi 1:100,000·mepivacaine 3% <b>대신</b></td><td><span class="tag c-low">Low</span> (발치) / <span class="tag c-vlow">Very low</span> (치통 연장)</td></tr>
+      <tr><td>도포 (치통 단기)</td><td>Benzocaine 10% 또는 20%</td><td>치아·주변 치은에 직접 도포</td><td><span class="tag c-low">Low</span> · 20% 우월성 없음(<span class="tag c-mod">Moderate</span>)</td></tr>
+    </table>
+    <h3>FDA Drug Safety Communications (본문 일반 비고)</h3>
+    <ul>
+      <li><b>2020 (opioids·naloxone):</b> 오피오이드 처방 환자 전원에게 naloxone 접근성을 논의하고, 과다복용 위험 증가 환자에게는 처방 검토.</li>
+      <li><b>2018 (tramadol):</b> 편도·아데노이드 제거술 후 통증에 만 18세 미만 사용 금기(라벨 신설).</li>
+      <li><b>2018 (codeine·tramadol, 12–18세):</b> 비만·폐쇄성수면무호흡증·중증 폐질환 소아청소년에서 중증 호흡곤란 위험 — 사용 권고 철회 방향 경고.</li>
+      <li><b>2018 (수유):</b> codeine·tramadol 복용 모친의 모유수유 비권고 강화 경고(영아 진정·호흡곤란·사망 보고).</li>
+      <li>국소마취 총용량: 시술/내원 시작부터 LA를 술후 전략으로 쓰는 경우 특히 신중히 감시.</li>
+    </ul>
+  </div>
+</div>
+
+<!-- ============ TAB CHECK ============ -->
+<div id="tabCheck" class="tabc hidden">
+  <div class="card">
+    <h2>Good Practice Statements 이행 체크리스트 (양 시나리오 공통)</h2>
+    <div class="checklist" id="gpsList">
+      <label><input type="checkbox"> 환자에게 "어느 정도 통증은 예상되며, 진통제가 통증을 견딜 만하게 만들어 준다"고 상담했다 — 처방 전 과거 경험·선호·가치 논의 포함</label>
+      <label><input type="checkbox"> 내과력·사회력(불법·기호 약물 포함)·현재 약물·건강보조식품을 확인해 과다복용·약물상호작용을 차단했다</label>
+      <label><input type="checkbox"> 최소 유효 용량 원칙으로 처방했고 루틴한 연기처방(just-in-case) 오피오이드를 넣지 않았다</label>
+      <label><input type="checkbox"> 오피오이드 처방 시 보관(storage)·폐기(disposal) 교육을 했다</label>
+      <label><input type="checkbox"> PDMP(처방약 모니터링 프로그램)를 확인해 타 통제약물(오피오이드·벤조디아제핀 등) 병용 처방을 점검했다</label>
+      <label><input type="checkbox"> 만성 오피오이드 복용 환자에게는 비오피오이드를 우선(1차 진통) 했다</label>
+      <label><input type="checkbox"> 물질사용장애(SUD) 환자에게 오피오이드 처방 시 특별한 주의를 기울였고 다른 의료제공자와 소통했다</label>
+    </div>
+    <h3>시나리오 B 한정</h3>
+    <div class="checklist">
+      <label><input type="checkbox"> 확정치료(pulpectomy/NSRCT/절개배농/발치)가 불가능한 상황인지 확인했다</label>
+      <label><input type="checkbox"> 통증 호전 없을 시 연락·<b>2–3일 내</b> 의뢰 불가 시 연락을 안내했다</label>
+      <label><input type="checkbox"> 잠정관리가 확정치료를 대체·지연시키지 않는다고 상담했다</label>
+    </div>
+    <h3>스탭(위생사) 빠른 확인</h3>
+    <div class="checklist">
+      <label><input type="checkbox"> 발치 유형(단순/외과) 차트 기재 — 사다리가 달라짐</label>
+      <label><input type="checkbox"> NSAID 금기 여부·현재 CNS 활성 약물 목록 확인</label>
+      <label><input type="checkbox"> 청소년(12–&lt;17세) 오피오이드 동반 시 보호자 동의 서류</label>
+      <label><input type="checkbox"> APAP 총량 합산(단독+감기약+병합정) 환자 교육</label>
+    </div>
+    <p class="small" id="checkSummary"></p>
+  </div>
+</div>
+
+<!-- ============ TAB GRADE ============ -->
+<div id="tabGrade" class="tabc hidden">
+  <div class="card">
+    <h2>권고 전체 목록 — 강도·확실성 일람</h2>
+    <h3>Box 1 — 발치 후 통증</h3>
+    <table>
+      <tr><th>#</th><th>권고 요지</th><th>강도</th><th>Certainty</th></tr>
+      <tr><td>1</td><td>외과 발치: 비오피오이드를 오피오이드 대신 1차로</td><td><span class="tag t-cond">Conditional</span></td><td><span class="tag c-low">Low</span></td></tr>
+      <tr><td>1.1</td><td>NSAID 단독 또는 NSAID+APAP로 시작</td><td><span class="tag t-cond">Conditional</span></td><td><span class="tag c-low">Low</span></td></tr>
+      <tr><td>1.2</td><td>NSAID 단독 불충분 → APAP 325+APAP·오피오이드 병합정 ADD</td><td><span class="tag t-cond">Conditional</span></td><td><span class="tag c-low">Low</span></td></tr>
+      <tr><td>1.3</td><td>NSAID+APAP 불충분 → NSAID+APAP 325+병합정로 REPLACE</td><td><span class="tag t-cond">Conditional</span></td><td><span class="tag c-low">Low</span></td></tr>
+      <tr><td>1.4</td><td>NSAID 금기 → APAP 단독 최대용량 또는 ±오피오이드 병합</td><td><span class="tag t-cond">Conditional</span></td><td><span class="tag c-low">Low</span></td></tr>
+      <tr><td>1.5</td><td>경구/점막하/IM 코르티코스테로이드 추가 <b>반대</b></td><td><span class="tag t-cond">Conditional</span></td><td><span class="tag c-vlow">Very low</span></td></tr>
+      <tr><td>2</td><td>단순 발치: 비오피오이드만, 오피오이드 <b>반대</b></td><td><span class="tag t-cond">Conditional</span></td><td><span class="tag c-low">Low</span></td></tr>
+      <tr><td>2.1</td><td>NSAID 단독 또는 +APAP 시작</td><td><span class="tag t-cond">Conditional</span></td><td><span class="tag c-low">Low</span></td></tr>
+      <tr><td>2.2</td><td>NSAID 금기 → APAP 단독 최대용량</td><td><span class="tag t-cond">Conditional</span></td><td><span class="tag c-low">Low</span></td></tr>
+      <tr><td>3</td><td>퇴원 전 bupivacaine/articaine 보조 (lidocaine/mepivacaine 대신)</td><td><span class="tag t-cond">Conditional</span></td><td><span class="tag c-low">Low</span></td></tr>
+    </table>
+    <h3>Box 2 — 치통 잠정관리</h3>
+    <table>
+      <tr><th>#</th><th>권고 요지</th><th>강도</th><th>Certainty</th></tr>
+      <tr><td>1</td><td>단시간 작용 LA로 내원 중 즉시 진통</td><td><span class="tag t-cond">Conditional</span></td><td><span class="tag c-vlow">Very low</span></td></tr>
+      <tr><td>2</td><td>내원 후 비오피오이드 1차 (오피오이드 대신)</td><td><span class="tag t-cond">Conditional</span></td><td><span class="tag c-low">Low</span></td></tr>
+      <tr><td>2.1–2.4</td><td>NSAID±APAP 시작 → 불충분 시 ADD/REPLACE → 금기 시 APAP 경로</td><td><span class="tag t-cond">Conditional</span></td><td><span class="tag c-low">Low</span></td></tr>
+      <tr><td>3</td><td>연장 잠정관리: bupivacaine/articaine 보조</td><td><span class="tag t-cond">Conditional</span></td><td><span class="tag c-vlow">Very low</span></td></tr>
+      <tr><td>4</td><td>단기: benzocaine 10/20% 도포 (무사용 대비)</td><td><span class="tag t-cond">Conditional</span></td><td><span class="tag c-low">Low</span></td></tr>
+    </table>
+
+    <h3>GRADE — 권고 강도의 의미</h3>
+    <table>
+      <tr><th>대상</th><th>Strong</th><th>Conditional</th></tr>
+      <tr><td>환자</td><td>대부분이 권고안을 원함(소수만 아니라고 함)</td><td>다수는 원하나 많은 이가 그렇지 않음</td></tr>
+      <tr><td>임상의</td><td>거의 모든 환자에게 시행</td><td>환자별 선택이 다름을 인정하고 가치·선호에 맞는 공유의사결정</td></tr>
+      <tr><td>정책입안자</td><td>대부분 상황에 정책 적용 가능</td><td>큰 논쟁·이해관계자 참여 필요</td></tr>
+    </table>
+    <h3>GRADE — 증거 확실성</h3>
+    <table>
+      <tr><th>등급</th><th>의미</th></tr>
+      <tr><td><span class="tag c-high">High</span></td><td>실제 효과가 추정치에 매우 가까움을 확신</td></tr>
+      <tr><td><span class="tag c-mod">Moderate</span></td><td>실제 효과가 추정치에 가까울 가능성 높음</td></tr>
+      <tr><td><span class="tag c-low">Low</span></td><td>효과 추정에 대한 확신 제한적</td></tr>
+      <tr><td><span class="tag c-vlow">Very low</span></td><td>효과 추정에 대한 확신 거의 없음</td></tr>
+    </table>
+
+    <h3>방법론·근거판</h3>
+    <ul>
+      <li>패널: ADA Science and Research Institute · University of Pittsburgh · University of Pennsylvania — 4개 체계적 문헌고찰(SR) 수행 후 GRADE + Evidence-to-Decision로 권고 성립.</li>
+      <li>보유 근거 페이지: [[drug/analgesics/miroshnychenko-2023-dental-extraction-pain-network-meta]] (발치통 NMA, 82 RCT/n=9,095 — ibuprofen+APAP 최고 효과, 오피오이드는 위약 수준) · [[drug/analgesics/miroshnychenko-2023-injectable-topical-anesthetics-acute-pain-sr]] (bupivacaine·benzocaine SR 2편).</li>
+      <li>치통(잠정관리) 권고는 치통 직접 RCT 부재로 발치통 RCT <b>간접근거</b>로 작성됨 — Very/Low certainty의 주된 원인.</li>
+      <li>Gap: 패널 4대 SR 중 코르티코스테로이드 SR은 위키 미보유 — 권고 1.5의 직접근거 페이지 없음 (본 위키 보유 canellas-2022·almeida-2019 등은 부종·개구제한 중심으로 개입 결과축이 다름).</li>
+      <li>환자 가치: 대부분은 통증 강도와 무관하게 오피오이드 중대 해악 회피를 높이 평가; 일부 소집단은 중증통증에서 오피오이드 위험 수용 의사.</li>
+      <li>공유의사결정: 오피오이드가 언급되는 제한적 상황에서는 shared decision making + informed consent 필수.</li>
+    </ul>
+  </div>
+</div>
+
+<footer>
+  요약 출처: Carrasco-Labra A, et al. JADA 2024;155(2):102-117 및 ADA Chairside Guides (©2024 ADA/U.Pitt/U.Penn, CC BY-NC-ND 4.0) — 위키 인제스트판.<br>
+  본 도구는 임상 의사결정 참조용이며 처방 제한·보험 커버리지 거부 도구가 아니다. 최종 판단은 담당 의료진의 몫이다.
+</footer>
+</div>
+
+<script>
+(function(){
+  // tabs
+  document.querySelectorAll(".tabs button").forEach(function(b){
+    b.addEventListener("click", function(){
+      document.querySelectorAll(".tabs button").forEach(function(x){x.classList.remove("on");});
+      document.querySelectorAll(".tabc").forEach(function(x){x.classList.add("hidden");});
+      b.classList.add("on");
+      document.getElementById(b.dataset.tab).classList.remove("hidden");
+    });
+  });
+  function segInit(id, cb){
+    var el = document.getElementById(id);
+    el.querySelectorAll("button").forEach(function(b){
+      b.addEventListener("click", function(){
+        el.querySelectorAll("button").forEach(function(x){x.classList.remove("on");});
+        b.classList.add("on"); cb(b.dataset.v);
+      });
+    });
+  }
+  function switchInit(id, labelId, offText, onText, cb){
+    var sw = document.getElementById(id), on = false;
+    sw.addEventListener("click", function(){
+      on = !on; sw.classList.toggle("on", on);
+      document.getElementById(labelId).textContent = on ? onText : offText;
+      cb(on);
+    });
+  }
+  function optInit(id, cb){
+    var el = document.getElementById(id);
+    el.querySelectorAll("button").forEach(function(b){
+      b.addEventListener("click", function(){
+        el.querySelectorAll("button").forEach(function(x){x.classList.remove("on");});
+        b.classList.add("on"); cb(b.dataset.v);
+      });
+    });
+  }
+
+  var ADD_TXT = '<div class="ladder-arrow">▼ 통증 조절 불충분 시 (드묾)</div><div class="stepbox second"><span class="tag t-cond">조건부 권고</span><span class="tag c-low">Low certainty</span><b>ADD — 기존 NSAID 처방에 추가:</b> acetaminophen 325 mg 1정 <b>+ APAP·오피오이드 병합정</b> 1정 (APAP 325 mg + hydrocodone 5–7.5 mg 또는 oxycodone 5 mg). 최소 유효 용량·최소 정수·최단 기간(3일 초과 드묾). 루틴한 just-in-case 연기처방 금지.</div>';
+  var REPL_TXT = '<div class="ladder-arrow">▼ 통증 조절 불충분 시 (드묾)</div><div class="stepbox second"><span class="tag t-cond">조건부 권고</span><span class="tag c-low">Low certainty</span><b>REPLACE — 초기 처방을 교체:</b> NSAID(ibuprofen 400 또는 naproxen sodium 440) + acetaminophen 325 mg <b>+ APAP·오피오이드 병합정</b>(hydrocodone 5–7.5 mg 또는 oxycodone 5 mg). 최소 유효 용량·최소 정수·최단 기간(3일 초과 드묾). 루틴한 just-in-case 연기처방 금지.</div>';
+
+  // ---- Scenario A ----
+  var exType = "simple", contra = false, firstLine = "o1";
+  function renderA(){
+    var ladder = document.getElementById("aLadder");
+    var contraBox = document.getElementById("aContra");
+    var extras = document.getElementById("aSurgicalExtras");
+    var simpleNote = document.getElementById("aSimpleNoOpioid");
+    if (contra){
+      ladder.classList.add("hidden"); contraBox.classList.remove("hidden");
+      document.getElementById("contraSurgicalOnly").style.display = exType==="surgical" ? "" : "none";
+      document.getElementById("contraSimpleOnly").style.display = exType==="simple" ? "" : "none";
+    } else {
+      ladder.classList.remove("hidden"); contraBox.classList.add("hidden");
+      document.getElementById("aSecond").innerHTML =
+        exType==="surgical" ? (firstLine==="o1" ? ADD_TXT : REPL_TXT) : "";
+    }
+    extras.style.display = exType==="surgical" ? "" : "none";
+    simpleNote.classList.toggle("hidden", !(exType==="simple" && !contra));
+  }
+  segInit("segExtraction", function(v){ exType=v; renderA(); });
+  switchInit("swContra","contraLabel","아니오 — NSAIDs 사용 가능","예 — NSAIDs 금기",function(v){ contra=v; renderA(); });
+  optInit("optFirstLine", function(v){ firstLine=v; renderA(); });
+  renderA();
+
+  // ---- Scenario B ----
+  segInit("segDefinitive", function(v){
+    document.getElementById("bYes").classList.toggle("hidden", v!=="yes");
+    document.getElementById("bNo").classList.toggle("hidden", v!=="no");
+    document.getElementById("bTempFlow").style.display = v==="no" ? "" : "none";
+  });
+  switchInit("swContraB","contraLabelB","NSAIDs 금기 아님","NSAIDs 금기",function(on){
+    document.getElementById("bLadder").classList.toggle("hidden", on);
+    document.getElementById("bContra").classList.toggle("hidden", !on);
+  });
+  optInit("optFirstLineB", function(v){
+    document.getElementById("bSecond").innerHTML = v==="o1" ? ADD_TXT : REPL_TXT;
+  });
+  document.getElementById("bSecond").innerHTML = ADD_TXT;
+
+  // checklist counter
+  var boxes = document.querySelectorAll("#tabCheck input[type=checkbox]");
+  function count(){
+    var n = 0; boxes.forEach(function(b){ if(b.checked) n++; });
+    document.getElementById("checkSummary").textContent = "체크 " + n + " / " + boxes.length + " 항목";
+  }
+  boxes.forEach(function(b){ b.addEventListener("change", count); }); count();
+})();
+</script>
+</body>
+</html>
