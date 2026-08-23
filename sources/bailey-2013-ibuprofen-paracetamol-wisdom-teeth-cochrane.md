@@ -21,7 +21,7 @@ Cochrane intervention review of 7 RCTs (2241 participants) comparing ibuprofen, 
 
 ## Why Ingested
 
-This is the definitive Cochrane review on ibuprofen vs paracetamol for post-third-molar pain — the most-cited reference for analgesic selection after wisdom tooth surgery. It provides the NNT values and RR comparisons that anchor every subsequent RCT in this niche. Essential for the analgesics subcategory and for any clinical consult on post-extraction pain management.
+This is the definitive Cochrane review on ibuprofen vs paracetamol for post-third-molar pain — the most-cited reference for analgesic selection after wisdom tooth surgery. It provides the NNT values and RR comparisons that anchor every subsequent RCT in this niche. Essential for the analgesics subcategory and for any clinical consult on post-extraction pain management. Its trial-level estimates feed the umbrella aggregation in [[wiki/drug/analgesics/moore-2015-single-dose-oral-analgesics-cochrane-overview]] and pair with the BDJ CPD distillation [[wiki/drug/analgesics/bailey-2014-ibuprofen-paracetamol-wisdom-bdj-summary]] of the same evidence base.
 
 ## Summary
 
