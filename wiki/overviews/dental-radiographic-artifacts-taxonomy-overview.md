@@ -34,7 +34,7 @@ source: synthesis
 
 ## Three-line Summary
 
-Synthesis of 8 papers organizing dental radiographic artifacts into 4 mechanistic classes: (1) geometry/positioning — only 32.8% of 2,629 panoramics are error-free; 77.2% carry ≥1 error; ~15% are diagnostically unacceptable, above the ≤10% benchmark (Lingam 2023); cone cut is the most frequent intraoral PSP operator error (39.5% of operator errors, Elkhateeb 2022); (2) ghost/double images — contralateral, superior, magnified, blurred projections from radiopaque objects between the X-ray source and rotation center; real, ghost, and pseudo-ghost images can coexist on one film (Kim 2024); pediatric-skewed prevalence (~2.2% of panoramic errors, P=0.001 in 5–12 year olds, Lingam 2023).
+Synthesis of 9 papers organizing dental radiographic artifacts into 4 mechanistic classes: (1) geometry/positioning — only 32.8% of 2,629 panoramics are error-free; 77.2% carry ≥1 error; ~15% are diagnostically unacceptable, above the ≤10% benchmark (Lingam 2023); cone cut is the most frequent intraoral PSP operator error (39.5% of operator errors, Elkhateeb 2022); (2) ghost/double images — contralateral, superior, magnified, blurred projections from radiopaque objects between the X-ray source and rotation center; real, ghost, and pseudo-ghost images can coexist on one film (Kim 2024); pediatric-skewed prevalence (~2.2% of panoramic errors, P=0.001 in 5–12 year olds, Lingam 2023).
 
 (3) Receptor/scanning artifacts — 7.1% of 50,000 PSP intraoral images required retake due to artifacts; 80.8% of artifact retakes were periapical (PA); technique errors 70.4% (cone cut 39.5%), plate errors (bite marks 40.3%), and scanning errors (delayed scanning 39.9%) are the main categories (Elkhateeb 2022); PSP has more bending/scratching/scanning artifacts than film (Farman 2010); (4) optical/interpretive artifacts — Mach band, cervical burnout, and triangular-shaped radiolucency (TSR) mimic caries; ~26% of maxillary molar non-carious approximal surfaces show TSR and ~13% are optical false-positives (Dioguardi 2025 SR+MA); primary teeth show TSR in ~51% vs ~27% in permanent — pediatric bitewing is highest false-positive risk.
 
@@ -42,7 +42,7 @@ Clinical bottom line: classes 1–3 demand retake (dose problem); class 4 demand
 
 ## 세줄요약
 
-8편 종합: 치과 방사선 artifact를 4계열로 분류 — (1) 기하/자세: 파노라마 2,629장 중 오류 없음 32.8%뿐, 77.2%에서 오류 ≥1개, ~15%가 진단 불가(Lingam 2023); 구내 PSP 술자오류 1위는 cone cut(39.5%, Elkhateeb 2022); (2) 유령상: 방사선원과 회전중심 사이 불투과체가 반대측·상방·확대·흐릿하게 투영; 실상·유령상·유사유령상 공존 가능(Kim 2024); 소아(5~12세) 집중(Lingam 2023).
+9편 종합: 치과 방사선 artifact를 4계열로 분류 — (1) 기하/자세: 파노라마 2,629장 중 오류 없음 32.8%뿐, 77.2%에서 오류 ≥1개, ~15%가 진단 불가(Lingam 2023); 구내 PSP 술자오류 1위는 cone cut(39.5%, Elkhateeb 2022); (2) 유령상: 방사선원과 회전중심 사이 불투과체가 반대측·상방·확대·흐릿하게 투영; 실상·유령상·유사유령상 공존 가능(Kim 2024); 소아(5~12세) 집중(Lingam 2023).
 
 (3) 수용체/스캐닝: PSP 5만 장 중 7.1%가 재촬영 필요, 그중 80.8%가 PA; 술자오류 70.4%·판 오류(교흔 40.3%)·스캐닝 오류(지연 39.9%)(Elkhateeb 2022); PSP는 필름보다 굽힘·스캐닝 artifact 많음(Farman 2010); (4) 해석적 광학: 마하밴드·치경부소각·삼각형투과상(TSR)이 우식 위조; 상악 대구치 비우식 TSR ~26%·위양성 ~13%(Dioguardi 2025 SR+MA); 유치 TSR ~51% vs 영구치 ~27%.
 
