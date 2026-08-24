@@ -3,7 +3,7 @@ title: "Ibuprofen and/or Paracetamol for Pain Relief After Lower Wisdom Teeth Re
 authors: ["Edmund Bailey", "Helen Worthington", "Paul Coulthard"]
 year: 2014
 doi: "10.1038/sj.bdj.2014.330"
-source: sources/bailey-2014-ibuprofen-paracetamol-wisdom-bdj-summary.md
+source: bailey-2014-ibuprofen-paracetamol-wisdom-bdj-summary.md
 category: drug/analgesics
 evidence_level: narrative-review
 superseded_by: [[drug/analgesics/bailey-2013-ibuprofen-paracetamol-wisdom-teeth-cochrane]]
