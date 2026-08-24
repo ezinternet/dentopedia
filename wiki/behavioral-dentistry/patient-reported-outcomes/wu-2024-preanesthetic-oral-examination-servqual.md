@@ -4,7 +4,7 @@ authors: "Ju-Hui Wu, Kun-Tsung Lee, Kuang-I Cheng, Je-Kang Du, Chen-Yi Lee"
 year: 2024
 date: 2024-01-03
 doi: 10.1186/s12903-024-03853-2
-source: sources/wu-2024-preanesthetic-oral-examination-servqual.md
+source: wu-2024-preanesthetic-oral-examination-servqual.md
 category: [behavioral-dentistry/patient-reported-outcomes]
 evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/wu-2024-preanesthetic-oral-examination-servqual.pdf
