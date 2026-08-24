@@ -4,7 +4,7 @@ authors: ["Nicolae, Ximena Anca", "Preoteasa, Elena", "Murariu Magureanu, Catali
 year: 2025
 date: 2025-07-16
 doi: "10.3390/bioengineering12070766"
-source: "Bioengineering 2025;12(7):766"
+source: nicolae-2025-cross-sectional-study-occlusal.md
 category: occlusion
 evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/nicolae-2025-cross-sectional-study-occlusal.pdf
