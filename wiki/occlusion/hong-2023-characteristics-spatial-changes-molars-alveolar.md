@@ -4,7 +4,7 @@ authors: Huiyi Hong, Jing Zhou, Qi Fan, Ruijie Jiao, Qianyun Kuang, Hong Zhou, C
 year: 2023
 doi: 10.3390/jcm12051932
 date: 2023-03-01
-source: sources/hong-2023-characteristics-spatial-changes-molars-alveolar.md
+source: hong-2023-characteristics-spatial-changes-molars-alveolar.md
 category: occlusion
 evidence_level: cross-sectional
 source_collection: pubmed-text
