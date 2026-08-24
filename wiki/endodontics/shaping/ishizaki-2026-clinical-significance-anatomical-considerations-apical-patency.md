@@ -75,7 +75,7 @@ While failure to achieve patency does not always dictate a negative outcome, the
 
 ## Related Papers
 
-- [[wiki/endodontics/shaping/aflaki-2020-glide-path-pathfile-scout-trace-cbct]] — glide path preparation and canal transportation via CBCT
+- [[wiki/endodontics/shaping/aflaki-2020-glide-path-pathfile-scoutrace-cbct]] — glide path preparation and canal transportation via CBCT
 - [[wiki/endodontics/shaping/aminsobhani-2022-glide-path-pathfinder-s-canal]] — canal transportation after glide path with different rotary systems
 - [[wiki/endodontics/shaping/pui-yii-2021-glide-path-apical-bacteria-extrusion]] — apical extrusion of bacteria during glide path preparation
 - [[wiki/endodontics/shaping/singh-2026-rotary-reciprocating-kinematics-postoperative-pain-retreatment-sr]] — SR on instrumentation kinematics and postop pain in retreatment
