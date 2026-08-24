@@ -5,7 +5,7 @@ year: 2024
 doi: 10.1136/bmjoq-2023-002502
 pmid: 38719522
 pmcid: PMC11086509
-source: sources/padmanabhan-2024-patient-safety-dentistry-narrative.md
+source: padmanabhan-2024-patient-safety-dentistry-narrative.md
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/padmanabhan-2024-patient-safety-dentistry-narrative.txt
 text_filename: padmanabhan-2024-patient-safety-dentistry-narrative.txt
