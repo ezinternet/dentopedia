@@ -200,33 +200,29 @@ Oral hygiene education is most effective when repeated, personalized, and supple
 ## Related Papers
 
 ### 칫솔 기술
-- [[periodontics/oral-hygiene-instruction/luo-2026-electric-toothbrush-techniques-plaque-gingivitis-nma]] — 전동칫솔 NMA
+- [[periodontics/oral-hygiene-instruction/luo-2026-electric-toothbrush-technologies-plaque-gingivitis-nma]] — 전동칫솔 NMA
 - [[periodontics/oral-hygiene-instruction/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] — 수동 기법 SR
 - [[periodontics/oral-hygiene-instruction/zini-2026-electric-vs-manual-toothbrush-children-plaque-rct]] — 소아 비교
 - [[periodontics/oral-hygiene-instruction/liu-2026-powered-manual-toothbrushes-orthodontic-sr-ma]] — 교정 환자
 - [[periodontics/oral-hygiene-instruction/nam-2005-new-worn-toothbrush-plaque-removal]] — 낡은 칫솔 효과
 - [[periodontics/oral-hygiene-instruction/axe-2023-impact-manual-toothbrush-design]] — 칫솔 디자인
 - [[periodontics/oral-hygiene-instruction/lee-2024-single-tuft-plaque-removal-sr]] — 단일 솔 SR
-- [[periodontics/oral-hygiene-instruction/ajlan-2026-toothbrush-head-size-plaque-removal]] — 칫솔 헤드 크기
 
 ### 치약·화학적 활성 성분
 - [[periodontics/oral-hygiene-instruction/valkenburg-2019-plaque-control-dentifrices-evidence]] — 치약 메타리뷰
 - [[periodontics/oral-hygiene-instruction/suvan-2025-complex-world-toothpaste-diversity-meeting]] — 치약 다양성
 - [[periodontics/oral-hygiene-instruction/hu-2025-enzyme-protein-toothpaste-gingival-condition]] — 효소·단백질 치약
-- [[periodontics/oral-hygiene-instruction/alami-2024-squid-fluoride-toothpaste-microbiome-rct]] — 불소 치약 미생물
 
 ### 구강세정제
 - [[periodontics/oral-hygiene-instruction/windhorst-2025-cpc-chx-plaque-gingivitis-sr-ma]] — CPC vs CHX SR+MA
 - [[periodontics/oral-hygiene-instruction/james-2017-chlorhexidine-mouthrinse-adjunctive-gingival]] — CHX Cochrane SR
 - [[periodontics/oral-hygiene-instruction/figuero-2019-adjunctive-antiplaque-chemical-agents-gingivitis]] — 항치태 화학제
-- [[periodontics/oral-hygiene-instruction/basudan-2023-chlorhexidine-salvana-mouthwash-periodontal]] — CHX 구강세정제
+- [[periodontics/oral-hygiene-instruction/basudan-2023-chlorhexidine-salvadora-mouthwash-periodontal]] — CHX 구강세정제
 
 ### 구강보건교육
 - [[periodontics/oral-hygiene-instruction/choi-2017-dental-plaque-control-oral-hygiene-education-korea-sr]] — 한국 OHI SR
 - [[periodontics/oral-hygiene-instruction/choi-2013-dental-plaque-control-ohi-domestic-literature-sr]] — 한국 OHI SR (이전)
 - [[periodontics/oral-hygiene-instruction/jo-2008-management-of-dental-biofilm-through]] — 바이오필름 관리
-- [[periodontics/oral-hygiene-instruction/bokeh-2026-teledentistry-oral-hygiene-education-rct]] — 원격의료 OHI
-- [[periodontics/oral-hygiene-instruction/rao-2026-haptic-vr-toothbrushing-training-plaque-rct]] — VR 훈련
 
 ### 치태 측정·모니터링
 - [[periodontics/oral-hygiene-instruction/giese-kraft-2022-digital-imaging-plaque-monitoring]] — 디지털 치태 모니터링
