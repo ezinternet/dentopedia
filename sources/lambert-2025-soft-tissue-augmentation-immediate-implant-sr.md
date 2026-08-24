@@ -22,6 +22,22 @@ SR of 16 publications (11 independent RCT/CCT): CTG during IIP significantly red
 ## 한줄요약
 즉시식립 시 연조직이식(CTG/ADM)은 중안면 퇴축을 평균 0.38 mm 유의하게 줄이지만, 전체 심미점수(PES)와 환자 보고 결과에는 유의한 차이 없음 — 16편 SR.
 
+## Three-line Summary
+
+PRISMA-registered systematic review of 16 publications (11 independent RCT/CCT investigations) comparing soft tissue augmentation (STA) — primarily connective tissue graft (CTG) and acellular dermal matrix (ADM) — during immediate implant placement (IIP) versus IIP without STA; search through March 2024, ≥12-month follow-up required.
+
+Meta-analysis of 4 RCTs (149 implants, 12 months) demonstrated that CTG significantly reduced mid-facial recession (WMD 0.38 mm, 95% CI 0.15–0.61); however, no significant difference was found for overall Pink Esthetic Score (PES) or patient-reported esthetic outcomes in any included study.
+
+CTG during IIP is justified for recession prevention (0.38 mm gain) but does not improve composite PES or patient satisfaction; immediate anatomical provisionalization — not CTG — appears to be the principal driver of esthetic success, and CTG's buccal-profile benefit may be obscured by composite PES scoring.
+
+## 세줄요약
+
+체계적 고찰 (Systematic Review, SR) — 즉시식립 (Immediate Implant Placement, IIP) 시 결합조직이식 (Connective Tissue Graft, CTG)/무세포 진피 기질 (Acellular Dermal Matrix, ADM) 시행 vs 미시행/다른 술식 비교 16편(독립연구 11개, RCT/CCT); 2024년 3월까지 검색, 추적 ≥12개월 기준.
+
+4개 RCT 메타분석(149 임플란트, 12개월): CTG가 중안면 연조직 퇴축을 유의하게 감소(WMD 0.38 mm, 95% CI 0.15–0.61); 전체 핑크심미지수 (Pink Esthetic Score, PES)와 환자 보고 심미 결과는 어느 연구에서도 유의한 차이 없음.
+
+즉시식립 시 CTG는 퇴축 예방(0.38 mm 이득)에는 정당화되나 복합 PES나 환자 만족도를 개선하지 않음; 심미 결과의 주된 결정 요인은 CTG가 아닌 해부학적 즉시 임시보철; CTG의 협측 볼륨 이점은 복합 PES 점수로는 포착되지 않을 수 있음.
+
 ## 1. Document Information
 - **Journal**: Periodontology 2000, Volume 99, Issue 1, Pages 61–80
 - **Published**: August 2025
