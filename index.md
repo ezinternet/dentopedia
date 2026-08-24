@@ -2853,6 +2853,7 @@ tags: []
 - [[radiology/gijbels-2005-dosimetry-digital-panoramic-occupational-exposure]] — Gijbels 2005 (in-vitro phantom, DMFR): 5종 디지털 파노라마 1 m 거리 산란선량 ≤0.60 μGy/촬영; 연간 500회 시 술자 갑상선 5–15 μSv, 생식선 5–40 μSv — 직업한도의 0.3%
 - [[radiology/kim-2016-occupational-radiation-procedures-doses-korean-dentists]] — Kim 2016 (cross-sectional, Community Dent Oral Epidemiol): 한국 치과의사 658명 NDR 연계 — 연평균 0.18 mSv(남)/0.13 mSv(여), 파노라마 최빈 시술, 직업한도의 <1%
 - [[radiology/kabier-2025-xray-radiation-exposure-open-dental-clinics-tld]] — Kabier 2025 (prospective TLD, Appl Radiat Isot): 개방형 치과클리닉 납복 위 TLD — 치의 5.623 mSv/y, 조무사 5.279 mSv/y; 차폐실 있는 한국의 30배, ICRP 20 mSv 이내
+- [[radiology/benavides-2024-optimizing-radiation-safety-dentistry]] — Benavides 2024 (ADA guideline, JADA 155:280): 95편 SR·가이드라인·규정 종합 — 직사각형 콜리메이션 40% 이상 선량 감소·CBCT = 기존 촬영의 10–15배·FMS adult digital rect 34.9 μSv; 6개 최우선 권고(ALARA·디지털센서·직사각형 콜리메이션·CBCT 선용 제한·최소 FOV·CBCT QA 2년 주기)
 
 <!-- BATCH INGEST 2026-05-30: orphan PDF 정리 — OD/sinus 4 + PDRN 1 (11편 중 철회 3·중복 2 제외) -->
 
