@@ -4,7 +4,7 @@ authors: [Christos Livas, Demetrios J. Halazonetis, Johan Willem Booij, Christos
 year: 2011
 date: 2011-09-01
 doi: 10.1016/S0889-5406(11)00533-6
-source: sources/livas-2011-extraction-maxillary-first-molars-molar-inclinations.md
+source: livas-2011-extraction-maxillary-first-molars-molar-inclinations.md
 category: orthodontics
 evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/livas-2011-extraction-maxillary-first-molars-molar-inclinations.pdf
