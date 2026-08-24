@@ -13,6 +13,9 @@ date: 2014-01-01
 tags: [ibuprofen, paracetamol, acetaminophen, analgesic, third-molar, wisdom-teeth, Cochrane, summary, BDJ, postoperative-pain]
 ---
 
+> [!warning] Superseded → [[drug/analgesics/bailey-2013-ibuprofen-paracetamol-wisdom-teeth-cochrane]]
+> bailey-2014는 BDJ CPD 요약 논문으로, 동일 저자의 1차 코크란 리뷰(CD004624, bailey-2013)를 실무자용으로 재서술한 것. 수치·데이터는 모두 bailey-2013 유래. 코크란 리뷰가 직접 인용 가능한 경우 bailey-2013을 사용할 것. (set 2026-08-24)
+
 ## Three-line Summary
 
 1. This BDJ Verifiable CPD Paper summarizes the Cochrane systematic review (CD004624) comparing single-dose oral analgesics for pain after surgical removal of impacted mandibular third molars.
