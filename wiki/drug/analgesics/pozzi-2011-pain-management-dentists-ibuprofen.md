@@ -3,7 +3,7 @@ title: "Pain Management for Dentists: The Role of Ibuprofen"
 authors: ["Alessandro Pozzi", "Luca Gallelli"]
 year: 2011
 doi: unknown
-source: sources/pozzi-2011-pain-management-dentists-ibuprofen.md
+source: pozzi-2011-pain-management-dentists-ibuprofen.md
 category: drug/analgesics
 evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/pozzi-2011-pain-management-dentists-ibuprofen.pdf
