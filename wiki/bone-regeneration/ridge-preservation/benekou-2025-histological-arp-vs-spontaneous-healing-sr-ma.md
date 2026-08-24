@@ -8,7 +8,7 @@ pmid: "41440314"
 pmc: "PMC12731776"
 source: benekou-2025-histological-arp-vs-spontaneous-healing-sr-ma.md
 category: bone-regeneration/ridge-preservation
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-text
 full_text: true
 source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12731776/
@@ -23,6 +23,22 @@ relations:
   - type: contradicts
     target: adams-2022-clinical-evidence-alveolar-ridge-preservation
 ---
+
+## Three-line Summary
+
+Systematic review and meta-analysis of 22 RCTs (n=816; 505 ARP / 311 spontaneous healing) evaluating biopsy-confirmed histomorphometric outcomes — new bone formation (%), connective tissue (%), and residual graft content (%) — after alveolar ridge preservation versus spontaneous healing; PRISMA 2020, random-effects model, GRADE moderate certainty.
+
+Overall, ARP did not significantly increase new bone formation versus spontaneous healing (MD −5.86%, 95% CI −13.84 to 2.11%, p=0.15, I²=98%); however, PRF/PRP subgroup significantly favored ARP (+16.28%, p<0.0001), xenograft+collagen membrane significantly disfavored ARP (−22.47%, p=0.004), and sensitivity analysis restricted to >3-month biopsies reversed the overall finding in favor of ARP (MD −16.30%, p<0.00001, I²=51%).
+
+Material selection — not ARP per se — determines histological benefit: PRF/PRP improves bone formation, slow-resorbing xenografts leave residual graft burden (pooled 20.49%) and do not improve net bone formation; protocols using xenograft+membrane should account for this trade-off, and longer post-extraction intervals (>3 months) before implant placement may improve bone quality.
+
+## 세줄요약
+
+체계적 고찰 및 메타분석 (Systematic Review + Meta-Analysis, SR+MA) — 22개 무작위대조시험 (Randomized Controlled Trial, RCT) (816명; 치조제 보존술 (Alveolar Ridge Preservation, ARP) 505 / 자연치유 311) — 발치 후 생검으로 확인한 조직형태학적 결과(신생골 형성률·결합조직률·잔존이식재율) 비교; PRISMA 2020, 변량효과 모형, GRADE 중간 확실도.
+
+전체 분석에서 ARP vs 자연치유 신생골 형성 차이는 통계적으로 유의하지 않음(MD −5.86%, p=0.15); 혈소판 농축물 (Platelet-Rich Fibrin, PRF)/PRP 아군은 ARP 유리(+16.28%, p<0.0001), 이종골+교원 차폐막 아군은 ARP 불리(−22.47%, p=0.004), >3개월 추적 민감도 분석에서는 ARP 유의하게 유리(MD −16.30%, p<0.00001).
+
+재료 선택이 조직학적 이득을 결정하는 핵심 변수: PRF/PRP는 신생골 형성을 증가시키나, 서서히 흡수되는 이종골은 효과가 없고 잔존이식재(pooled 20.49%)를 남김; 이종골+차폐막 프로토콜은 이 trade-off를 고려해야 하며, 발치 후 >3개월 대기는 골 질 개선에 유리할 수 있음.
 
 ## 한줄요약
 22개 RCT(816명) 조직형태학적 메타분석: ARP vs 자연치유 신생골 전체 유의차 없음(MD −5.86%, p=0.15); PRF/PRP +16.28%(p<0.0001); 이종골+막은 −22.47%(p=0.004); 장기추적 민감도분석 ARP 유리(p<0.00001). GRADE moderate.
