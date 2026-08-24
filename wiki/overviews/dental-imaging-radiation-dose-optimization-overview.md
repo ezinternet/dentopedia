@@ -58,7 +58,7 @@ source: synthesis
 
 ## Three-line Summary
 
-Synthesis of 27 dental-radiology papers: patient dose follows a fixed modality hierarchy (intraoral ~1.3 ≪ panoramic ~18 ≪ CBCT ~121 µSv; 87-device range 3–500 µSv, Fontenele 2025) onto which four operator-controllable levers act — FOV/collimation (largest single lever: rectangular collimation reduces full-mouth series dose ~91%, Ludlow 2008 phantom reference standard), kVp/mAs (high-kVp ultra-low-dose cuts CBCT dose ~6× while maintaining acceptable image quality, Charuakkra 2023), voxel size (smaller voxel at lower mAs maintains quality; upsizing voxel to reduce dose is counterproductive, Oenning 2019), and panoramic beam height (the single strongest panoramic dose determinant, Lee 2019 MC).
+Synthesis of 29 dental-radiology papers: patient dose follows a fixed modality hierarchy (intraoral ~1.3 ≪ panoramic ~18 ≪ CBCT ~121 µSv; 87-device range 3–500 µSv, Fontenele 2025) onto which four operator-controllable levers act — FOV/collimation (largest single lever: rectangular collimation reduces full-mouth series dose ~91%, Ludlow 2008 phantom reference standard), kVp/mAs (high-kVp ultra-low-dose cuts CBCT dose ~6× while maintaining acceptable image quality, Charuakkra 2023), voxel size (smaller voxel at lower mAs maintains quality; upsizing voxel to reduce dose is counterproductive, Oenning 2019), and panoramic beam height (the single strongest panoramic dose determinant, Lee 2019 MC).
 
 Occupational safety: in structurally shielded rooms, operator effective dose is negligible (Kim 2016 Korean national registry: mean 0.18 mSv/year, <1% of 20 mSv/year occupational limit; Gijbels 2005; Rottke 2018 handheld safe with backscatter shield); absence of structural shielding raises operator dose ~30× (Kabier 2025 Iraq TLD: 5.6 mSv/year — within limit but not trivial); two paradigm shifts: contact shielding (gonad/thyroid) is now recommended against (Benavides 2023 AAOMR/JADA consensus; thyroid doses 0.30–1.46 µSv, Schindler 2025), and 0.55 T low-field MRI is a non-ionizing alternative for selected pediatric indications (Willershausen 2025 prospective n=16).
 
@@ -66,7 +66,7 @@ Clinical bottom line: ALARA is a two-step decision — first choose the lowest-s
 
 ## 세줄요약
 
-27편 종합: 환자 선량은 고정된 modality 위계(구내 ~1.3 ≪ 파노라마 ~18 ≪ CBCT ~121 µSv; 87기종 범위 3~500 µSv, Fontenele 2025) + 네 조절 레버 — FOV/collimation(최대 레버: 직사각조준 FMS 선량 ~91% 저감, Ludlow 2008 기준 표), kVp/mAs(고관전압 저선량 CBCT ~6배↓, Charuakkra 2023), 복셀 크기(작은 복셀+저mAs가 화질 유지; 복셀 키워 선량 줄이기는 역효과, Oenning 2019), 파노라마 빔높이(파노라마 선량 최대 결정인자, Lee 2019 MC).
+29편 종합: 환자 선량은 고정된 modality 위계(구내 ~1.3 ≪ 파노라마 ~18 ≪ CBCT ~121 µSv; 87기종 범위 3~500 µSv, Fontenele 2025) + 네 조절 레버 — FOV/collimation(최대 레버: 직사각조준 FMS 선량 ~91% 저감, Ludlow 2008 기준 표), kVp/mAs(고관전압 저선량 CBCT ~6배↓, Charuakkra 2023), 복셀 크기(작은 복셀+저mAs가 화질 유지; 복셀 키워 선량 줄이기는 역효과, Oenning 2019), 파노라마 빔높이(파노라마 선량 최대 결정인자, Lee 2019 MC).
 
 직업 안전: 차폐 촬영실에서 술자 선량 무시 가능(Kim 2016: 평균 0.18 mSv/년, 한도의 <1%); 구조적 차폐 없으면 ~30배↑(Kabier 2025 이라크 TLD: 5.6 mSv/년); 두 패러다임 전환 — 접촉 차폐(생식선·갑상선) 중단 권고(Benavides 2023; 갑상선 등가선량 0.30~1.46 µSv, Schindler 2025), 0.55 T 저자장 MRI가 소아 선택 적응증의 비전리 대안(Willershausen 2025 전향적 n=16).
 
@@ -76,7 +76,7 @@ Clinical bottom line: ALARA is a two-step decision — first choose the lowest-s
 
 ## Summary
 
-이 overview는 `wiki/radiology/`의 27편을 횡단 합성한다. 근거 분포: **consensus 2편**(benavides 2023, berkhout 2015 EADMFR) · **narrative/리뷰 5편**(fontenele 2025, jacobs 2018, kaasalainen 2021, lee&badal 2021, kang 2024, lee 2024) · **SR 1편**(khafaji 2023) · **SR+MA 1편**(baena 2022) · **phantom/in-vitro·MC 9편**(oenning 2019, hidalgo-rivas 2015, charuakkra 2023, ozaki 2021, lee 2019 OSLD, benchimol 2018, lee 2019 panoramic, ludlow 2008, johnson 2020, gijbels 2005, rottke 2018) · **prospective 2편**(willershausen 2025, kabier 2025 TLD) · **retrospective 2편**(hedesiu 2018, stervik 2024) · **cross-sectional 1편**(kim 2016). 이 카테고리에는 선량 최적화 자체에 대한 SR+MA가 아직 없다 — 최강 결론도 "일관된 다수 phantom/MC + 합의 권고" 수준이다. [미검증 — 등급 분포는 리포지토리 계측]
+이 overview는 `wiki/radiology/`의 29편을 횡단 합성한다. 근거 분포: **consensus/guidelines 4편**(benavides 2023, berkhout 2015 EADMFR, horner 2004 EU RP136, benavides 2024 ADA) · **narrative/리뷰 5편**(fontenele 2025, jacobs 2018, kaasalainen 2021, lee&badal 2021, kang 2024, lee 2024) · **SR 1편**(khafaji 2023) · **SR+MA 1편**(baena 2022) · **phantom/in-vitro·MC 9편**(oenning 2019, hidalgo-rivas 2015, charuakkra 2023, ozaki 2021, lee 2019 OSLD, benchimol 2018, lee 2019 panoramic, ludlow 2008, johnson 2020, gijbels 2005, rottke 2018) · **prospective 2편**(willershausen 2025, kabier 2025 TLD) · **retrospective 2편**(hedesiu 2018, stervik 2024) · **cross-sectional 1편**(kim 2016). 이 카테고리에는 선량 최적화 자체에 대한 SR+MA가 아직 없다 — 최강 결론도 "일관된 다수 phantom/MC + 합의 권고" 수준이다. [미검증 — 등급 분포는 리포지토리 계측]
 
 핵심 thesis: **선량은 modality 선택(상류)에서 대부분 결정되고, 그다음 술자가 조절 가능한 4개 레버로 미세조정된다. 따라서 ALARA/ALADAIP의 실행은 "더 낮은 modality를 고를 수 있는가 → 못 고르면 레버를 조인다" 2단 의사결정이다.**
 
