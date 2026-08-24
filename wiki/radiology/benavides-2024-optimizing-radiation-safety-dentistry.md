@@ -3,7 +3,7 @@ title: "Optimizing radiation safety in dentistry: Clinical recommendations and r
 authors: Benavides E, Krecioch JR, Connolly RT, Allareddy T, Buchanan A, Spelic D, O'Brien KK, Keels MA, Mascarenhas AK, Duong ML, Aerne-Bowe MJ, Ziegler KM, Lipman RD
 year: 2024
 doi: 10.1016/j.adaj.2023.12.002
-source: JADA 155(4):280-293
+source: benavides-2024-optimizing-radiation-safety-dentistry.md
 category: radiology
 evidence_level: consensus
 date: 2024-04-01
