@@ -15,6 +15,22 @@ related_doi: "10.1002/14651858.CD004624.pub2"
 
 Cochrane CD004624의 BDJ Verifiable CPD 요약판으로, 원 리뷰 [[wiki/drug/analgesics/bailey-2013-ibuprofen-paracetamol-wisdom-teeth-cochrane]]와 동일 근거(이중맹검 RCT 7편/n=2241)를 일반 치과 임상가용으로 증류한 페이지 — 이부프로펜 400 mg 1차 우선(NNT 4)과 병용제(Nuromol, NNT 3) 메시지를 진통제 선반([[wiki/drug/analgesics/moore-2015-single-dose-oral-analgesics-cochrane-overview]])에서 함께 참조하기 위해 넣었다.
 
+## Three-line Summary
+
+BDJ Verifiable CPD narrative summary of the Cochrane systematic review CD004624 (Bailey et al. 2013), drawing on the same evidence base of 7 double-blind RCTs (n=2,241 participants) comparing single-dose oral analgesics for pain relief after surgical removal of impacted mandibular third molars; published in British Dental Journal 2014, Volume 216, No. 8.
+
+Ibuprofen 400 mg was significantly superior to paracetamol 1000 mg (47% more patients achieved ≥50% pain relief; RR 1.47, 95% CI 1.28–1.69; NNT=4); the combination product (ibuprofen 200 mg + paracetamol 400 mg; Nuromol) was the most effective single dose (RR 1.77 vs paracetamol 1000 mg; NNT=3); aspirin 600–900 mg and codeine 60 mg + paracetamol showed no significant advantage over paracetamol alone.
+
+This BDJ summary adds no original data; it serves as a practitioner-facing distillation of the Cochrane review, reinforcing ibuprofen 400 mg as first-line and the combination tablet as highest-efficacy option for post-extraction third molar pain management in a dental clinical context.
+
+## 세줄요약
+
+코크란 체계적 고찰 CD004624 (Bailey 2013)의 영국치과학회지 (British Dental Journal, BDJ) Verifiable CPD 요약판 — 동일 근거 기반 (이중맹검 무작위대조시험 (Randomized Controlled Trial, RCT) 7편, n=2,241명; 하악 제3대구치 외과적 발치 후 단일용량 경구진통제 비교).
+
+이부프로펜 (Ibuprofen) 400 mg이 파라세타몰 (Paracetamol, 아세트아미노펜) 1000 mg 대비 유의하게 우수(≥50% 통증완화 47% 더 많음; 치료필요수 (Number Needed to Treat, NNT)=4); 병용제 (이부프로펜 200 mg + 파라세타몰 400 mg; Nuromol)는 최고 효능(NNT=3); 아스피린 600–900 mg 및 코데인 60 mg + 파라세타몰은 파라세타몰 단독 대비 유의한 이점 없음.
+
+이 BDJ 요약판은 독자적 신규 데이터 없음; 코크란 리뷰의 임상가 접근용 증류본으로, 발치 후 제3대구치 통증 관리에서 이부프로펜 400 mg 1차 선택·병용제 최고 효능 메시지를 치과 임상 맥락에서 재확인.
+
 ## Summary
 
 This article is a narrative summary of the Cochrane systematic review CD004624 (Bailey et al. 2013), published in the British Dental Journal as a Verifiable CPD Paper. It presents the same evidence base — 7 double-blind RCTs involving 2241 participants — comparing single-dose oral analgesics for pain relief after surgical removal of impacted mandibular third molars. The BDJ summary distills the Cochrane findings for a general dental audience, highlighting ibuprofen 400 mg as superior to paracetamol 1000 mg and the combination product (ibuprofen 200 mg + paracetamol 400 mg, Nuromol) as providing the greatest pain relief. Evidence quality was rated as high across the primary comparisons.
