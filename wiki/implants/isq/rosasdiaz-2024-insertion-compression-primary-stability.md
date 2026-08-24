@@ -73,4 +73,4 @@ In-vitro study. n=120 dental implants. Polyurethane blocks equivalent to Lekholm
 - [[implants/isq/barikani-2013-implant-length-diameter-primary-stability]] — extends: diameter/length effects on ISQ confirmed; compression adds new dissociation dimension
 - [[implants/isq/de-elio-2023-insertion-torque-resonance-frequency-tapered-parallel-implants]] — reinforces: ITV–ISQ relationship varies by protocol; tapered vs parallel parallels compression effects
 - [[overviews/isq-loading-threshold]] — reinforces: ISQ not elevated by high ITV in type II-A bone — loading decisions should rely on ISQ, not assume ITV predicts ISQ
-- [[implants/versah-protocols]] — reinforces: under-milling compression strategy for primary stability; ISQ plateau effect limits ISQ gain beyond optimal compression
+- [[overviews/versah-protocol-selection-map]] — reinforces: under-milling compression strategy for primary stability; ISQ plateau effect limits ISQ gain beyond optimal compression
