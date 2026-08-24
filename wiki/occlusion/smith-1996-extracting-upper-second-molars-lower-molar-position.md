@@ -4,7 +4,7 @@ authors: [R. Smith]
 year: 1996
 date: 1996-01-01
 doi: 10.1179/bjo.23.2.109
-source: sources/smith-1996-extracting-upper-second-molars-lower-molar-position.md
+source: smith-1996-extracting-upper-second-molars-lower-molar-position.md
 category: occlusion
 evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/smith-1996-extracting-upper-second-molars-lower-molar-position.pdf
