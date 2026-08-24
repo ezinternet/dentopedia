@@ -5,7 +5,7 @@ year: 2025
 doi: 10.1038/s41415-025-8384-1
 pmid: 40410484
 pmcid: PMC12101969
-source: sources/bailey-2025-patient-safety-dentistry-decade.md
+source: bailey-2025-patient-safety-dentistry-decade.md
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/bailey-2025-patient-safety-dentistry-decade.txt
 text_filename: bailey-2025-patient-safety-dentistry-decade.txt
