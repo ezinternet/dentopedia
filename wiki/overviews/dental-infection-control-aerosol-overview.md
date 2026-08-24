@@ -2,7 +2,7 @@
 title: "치과 감염관리 — 멸균·수관·에어로졸 종합 (Dental Infection Control: Sterilization / Waterlines / Aerosols)"
 authors: Synthesis (Damian Lee)
 year: 2026
-date: 2026-07-08
+date: 2026-08-24
 doi: N/A
 source: N/A
 category: overviews
@@ -11,6 +11,26 @@ pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
 tags: [infection-control, sterilization, disinfection, dental-unit-waterlines, duwl, bioaerosol, aerosol-generating-procedures, electrolyzed-water, overview]
+source_wiki:
+  - infection-control/patino-marin-2025-sterilization-disinfection-dental-practices
+  - infection-control/dioguardi-2020-management-instrument-sterilization-workflow-endodontics
+  - infection-control/sajjanshetty-2014-decontamination-methods-dental-burs-comparative
+  - infection-control/whitworth-2004-comparison-decontamination-methods-dental-burs
+  - infection-control/puttaiah-2014-reusable-digital-sterilization-indicator-prototype
+  - infection-control/go-2026-sterilization-methods-3d-printed-implant-surgical-guides
+  - infection-control/cardenas-2022-electrolyzed-water-dental-setting-sr
+  - infection-control/samaranayake-2024-dental-unit-waterlines-disinfection
+  - infection-control/ji-2018-three-key-factors-influencing-bacterial
+  - infection-control/dang-2022-assessment-microbiota-diversity-dental-unit
+  - infection-control/dudding-2022-clinical-observational-analysis-aerosol-emissions
+  - dental-handpiece/allison-2024-bioaerosols-airborne-transmission-dental-clinic
+  - dental-handpiece/ghoneim-2024-aerosol-generating-procedures-control-mitigation
+  - infection-control/marui-2019-preprocedural-mouthrinse-aerosol-sr-ma
+  - infection-control/kumbargere-nagraj-2020-interventions-reduce-contaminated-aerosols-dental-procedures-preventing-infectious-diseases-sr-ma
+  - infection-control/ebrahimi-2023-mouthwash-sars-cov2-viral-load-sr-ma
+  - infection-control/elzein-2021-chlorhexidine-povidone-iodine-mouthwash-salivary-sars-cov-2-rct
+  - infection-control/graves-2024-cetylpyridinium-chloride-salivary-viral-load
+  - infection-control/zhao-2020-oral-hygiene-care-critically-ill-vap-sr-ma
 ---
 
 ## 한국어 핵심요약
