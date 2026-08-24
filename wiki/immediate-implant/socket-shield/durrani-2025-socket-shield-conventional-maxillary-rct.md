@@ -6,7 +6,7 @@ date: 2025-01-06
 doi: "10.4103/jisp.jisp_13_24"
 source: durrani-2025-socket-shield-conventional-maxillary-rct.md
 category: immediate-implant/socket-shield
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 full_text: true
 pmid: "40018717"
@@ -21,6 +21,22 @@ relations:
   - type: reinforces
     target: lu-2025-socket-shield-conventional-aesthetic-meta
 ---
+
+## Three-line Summary
+
+Parallel-arm randomized controlled trial (n=24; 12 socket-shield technique [SST] / 12 conventional immediate implant placement [IIP]) in Type I intact maxillary extraction sockets, with assessments at 8, 12, and 36 months; outcomes: marginal bone loss (MBL) on radiograph and Pink Esthetic Score (PES).
+
+SST consistently outperformed conventional IIP at all time points: MBL at 36 months was 1.40 vs 1.70 mm (p=0.040), PES was 10.50 vs 9.36 (p=0.008); both groups achieved 100% implant survival over 36 months.
+
+The SST advantage did not diminish over 3 years; both MBL difference (0.30 mm) and PES difference (~1.1 points) are clinically relevant, extending the longest reported SST vs conventional IIP comparison to 36 months in Type I intact sockets.
+
+## 세줄요약
+
+평행군 무작위대조시험 (Randomized Controlled Trial, RCT) (n=24; 소켓 쉴드 기법 (Socket Shield Technique, SST) 12 / 일반 즉시식립 (Immediate Implant Placement, IIP) 12) — Type I 온전 상악 발치와; 8·12·36개월 변연골 소실 (Marginal Bone Loss, MBL) 및 핑크심미지수 (Pink Esthetic Score, PES) 평가.
+
+SST가 전 추적 시점에서 유의하게 우수: 36개월 MBL 1.40 vs 1.70 mm (p=0.040), PES 10.50 vs 9.36 (p=0.008); 양군 100% 생존.
+
+SST 우위는 3년간 감소하지 않았으며, MBL 차이(0.30 mm)와 PES 차이(~1.1점) 모두 임상적으로 유의미; Type I 온전 발치와에서 현재까지 가장 긴 추적(36개월)의 SST vs 일반 IIP 비교.
 
 ## One-line Summary
 RCT (n=24, 36-month, maxillary esthetic zone, Type I sockets): socket-shield technique yielded significantly less marginal bone loss (1.40 vs 1.70 mm, p=0.040) and superior Pink Esthetic Score (10.50 vs 9.36, p=0.008) vs conventional IIP at 36 months; 100% survival in both groups.
