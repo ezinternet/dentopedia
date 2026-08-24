@@ -2,7 +2,7 @@
 title: "Non-Surgical Periodontal Therapy Overview"
 authors: synthesis (llm-wiki)
 year: 2026
-date: 2026-08-18
+date: 2026-08-24
 category: [overviews]
 tags: [periodontics, SRP, non-surgical, scaling-root-planing, GBT, air-polishing, gingivitis, cardiovascular, antibiotics, overview]
 source_papers:
@@ -35,6 +35,8 @@ source_papers:
   - periodontics/non-surgical-instrumentation/ou-2021-characterization-mitigation-aerosols-spatters
   - periodontics/non-surgical-instrumentation/laleman-2022-instrumentation-during-second-stage
   - periodontics/non-surgical-instrumentation/vadvadgi-2024-comparing-effectiveness-traditional-periodontal
+  - periodontics/oral-hygiene-instruction/windhorst-2025-cpc-chx-plaque-gingivitis-sr-ma
+  - periodontics/oral-hygiene-instruction/van-swaaij-2019-chx-ads-discoloration-sr-ma
 evidence_level: synthesis
 source: synthesis
 ---
@@ -50,10 +52,11 @@ source: synthesis
 > - **치은염 치료**: OHI(구강위생교육)가 1차; PMPR(전문가 치태제거)은 OHI 보조로 제공 (Farina 2026 EFP SR+MA); 전반적 치은염(BOP≥33%)에 효과 뚜렷. [확인]
 > - **도구 선택**: 에어폴리싱+초음파가 러버컵 폴리싱과 동등하면서 더 빠름 (Farina 2026); 다이오드 레이저 부가 이득 없음. [확인]
 > - **형태학적 영향**: 기구가 법랑질·상아질에 미치는 영향은 제한적 (Dvorska 2026 SR, Lodigkeit 2026); 인체공학적 설계가 근육 피로 감소 (Lin 2023, Wink 2024). [확인]
+> - **CHX 대안·착색 완화**: 칫솔질 병행 상황에서 CPC는 CHX와 동등(Windhorst 2025 SR+MA, 14 RCT), 착색 유의 적음; CHX+ADS는 효능 비손상으로 착색 유의 감소(Van Swaaij 2019 SR+MA) — "착색 없으면 효과 없다" 통념 반박; 착색 우려 환자엔 CPC(칫솔질) 또는 CHX+ADS(비칫솔질) 선택. [확인]
 
 ## Three-line Summary
 
-Synthesis of 29 papers on non-surgical periodontal therapy: SRP is strongly recommended as first-line treatment for chronic periodontitis (Smiley 2015 ADA guideline), reducing PPD 1-2 mm and gaining 0.5-1 mm CAL; adjunctive systemic antibiotics are not recommended routinely due to very low certainty evidence and marginal clinical gains (Khattri 2020 Cochrane, 45 RCTs).
+Synthesis of 31 papers on non-surgical periodontal therapy: SRP is strongly recommended as first-line treatment for chronic periodontitis (Smiley 2015 ADA guideline), reducing PPD 1-2 mm and gaining 0.5-1 mm CAL; adjunctive systemic antibiotics are not recommended routinely due to very low certainty evidence and marginal clinical gains (Khattri 2020 Cochrane, 45 RCTs).
 
 NSPT has selective systemic anti-inflammatory benefits — reducing CRP, IL-6, and systolic blood pressure but not lipid profiles (Meng 2024 SR+MA, 21 RCTs) — supporting the perio-systemic link; Guided Biofilm Therapy (GBT) offers patient-centered advantages (comfort, efficiency) but does not consistently outperform conventional SRD on clinical outcomes (Yein 2026 SR, 5 RCTs, GRADE very low).
 
@@ -61,7 +64,7 @@ For gingivitis, OHI is first-line with PMPR as adjunct (Farina 2026 EFP SR+MA); 
 
 ## 세줄요약
 
-치주 비수술 치료 29편 종합: SRP는 만성 치주염 1차 치료로 강력 권고(Smiley 2015 ADA), PPD 1-2mm 감소·CAL 0.5-1mm 획득; 전신 항생제 보조는 매우 낮은 확실성·임상 이득 미미로 routine 금지(Cochrane 2020, 45 RCT).
+치주 비수술 치료 31편 종합: SRP는 만성 치주염 1차 치료로 강력 권고(Smiley 2015 ADA), PPD 1-2mm 감소·CAL 0.5-1mm 획득; 전신 항생제 보조는 매우 낮은 확실성·임상 이득 미미로 routine 금지(Cochrane 2020, 45 RCT).
 
 NSPT는 구강 밖 선택적 항염증 효과가 있음 — CRP·IL-6·수축기혈압 감소하나 지질 프로필은 변화 없음(Meng 2024 SR+MA, 21 RCT); GBT는 환자 편의성 우수하나 임상 결과는 전통 SRD와 동등(Yein 2026 SR, 근거 매우 낮음).
 
@@ -162,7 +165,33 @@ NSPT는 구강 밖 선택적 항염증 효과가 있음 — CRP·IL-6·수축기
 
 ---
 
-## 7. 근거 수준 요약
+## 7. CHX 대안·착색 완화 — CPC 동등·항착색제 효능 보존
+
+### CPC vs CHX — 칫솔질 병행 맥락 (Windhorst 2025)
+
+[확인] Windhorst 2025 SR+MA (14 RCT, 18 비교):
+
+| 사용 맥락 | 치태지수 | 치은지수 | 착색 | 확실성 |
+|---|---|---|---|---|
+| **칫솔질 병행** | WMD 0.04 (p=0.11, NS) | WMD 0.02 (p=0.20, NS) | CPC < CHX | 중간 |
+| **비칫솔질(수술 후)** | WMD 0.55 (p=0.003) CHX 우월 | — | CPC < CHX | 중간 |
+
+**결론**: 일반 칫솔질 상황에서는 세틸피리디늄 클로라이드 (Cetylpyridinium Chloride, CPC) 가 클로르헥시딘 (Chlorhexidine, CHX) 의 장기 대안으로 유효; 착색이 유의하게 적어 순응도 우위. 수술 후 비칫솔질 창상 보호 상황에서는 CHX가 여전히 1차 선택.
+
+### CHX + 항착색제 시스템 (Van Swaaij 2019)
+
+[확인] Van Swaaij 2019 SR+MA (13 RCT, 16 비교; 비칫솔질 CHX ± 항착색제 (Anti-Discoloration System, ADS)):
+
+- **착색**: ADS 병용 시 유의 감소 (SMD −3.19, 95% CI −5.14 ~ −1.24, p=0.0005)
+- **치태 효능**: 보존 (DiffM 0.10, NS)
+- **치은지수 효능**: 보존 (DiffM 0.04, NS)
+- 근거 질: 중간
+
+**결론**: CHX+ADS는 수술 후 창상 보호 기간에 효능을 유지하면서 착색을 유의하게 줄임 — "착색이 없으면 효과도 없다"는 통념 반박. 착색 우려로 CHX 순응도가 낮을 환자에게 CHX+ADS 복합 제제 우선 권고.
+
+---
+
+## 8. 근거 수준 요약
 
 | 주장 | 수준 | 출처 |
 |---|---|---|
@@ -175,6 +204,8 @@ NSPT는 구강 밖 선택적 항염증 효과가 있음 — CRP·IL-6·수축기
 | OHI 1차, PMPR 보조 | 낮음 (SR+MA) | Farina 2026 |
 | 에어폴리싱 = 러버컵 (더 빠름) | 매우 낮음 (SR+MA) | Farina 2026 |
 | 다이오드 레이저 효과 없음 | 매우 낮음 (SR+MA) | Farina 2026 |
+| CPC는 칫솔질 상황에서 CHX 대안 (착색↓) | 중간 (SR+MA) | Windhorst 2025 |
+| CHX+ADS 착색 감소, 치태·치은 효능 보존 | 중간 (SR+MA) | Van Swaaij 2019 |
 
 ---
 
@@ -212,6 +243,8 @@ NSPT는 구강 밖 선택적 항염증 효과가 있음 — CRP·IL-6·수축기
 - [[periodontics/non-surgical-instrumentation/barahim-2024-ozone-gel-srp-diabetic-periodontitis-rct]] — 오존 겔
 - [[periodontics/non-surgical-instrumentation/annisa-2023-chx-gel-chip-srp-sr-ma]] — CHX 겔·칩
 - [[periodontics/non-surgical-instrumentation/deepthi-2020-ozone-therapy-periodontics-meta-analysis]] — 오존 치료
+- [[periodontics/oral-hygiene-instruction/windhorst-2025-cpc-chx-plaque-gingivitis-sr-ma]] — CPC vs CHX SR+MA (칫솔질 동등, 비칫솔질 CHX 우월)
+- [[periodontics/oral-hygiene-instruction/van-swaaij-2019-chx-ads-discoloration-sr-ma]] — CHX+ADS SR+MA (착색↓, 치태·치은 효능 보존)
 
 ### 기타
 - [[periodontics/non-surgical-instrumentation/lamont-2018-routine-scale-and-polish-periodontal-health]] — 루틴 스케일링
