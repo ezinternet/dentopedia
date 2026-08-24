@@ -24,6 +24,7 @@ notes: |
   verified 2026-07-14: drug-systemic-disease-dental-management-overview §10 신규(2026-07-14, Khalilurrahman 2026 SR-MA — RAAS 억제제·스타틴의 치주 상태 영향)는 주제가 "치주 위험 모니터링"으로, 본 툴의 5축(항응고·MRONJ·항생제·진통제·LA/DDI) 절차적 투약 결정과는 무관 — 축 5(CVD 체크박스)의 epinephrine-β차단제 DDI 로직도 별개 사안(급성 심혈관 안전 vs 만성 치주 상태)이라 변경 대상 아님. 임계값·권고 무변화 재확인.
   updated 2026-07-20: 항응고 오버뷰 2026-07-19 통합(13편) 반영 — ①Higashi 2025 DOAC trough 타이밍(Rivaroxaban 14h, Dabigatran·Apixaban 8h) ②Kaya 2025 출혈 위험 실측(Grade 3 8.1%, 국소 지혈 필수 근거) ③Lopez Silva 2025 Heparin(중단 불필요, 거즈만으로 지혈, 투여 직후 간격 확보) ④TXA 제형 사다리(분말·젤라틴+TXA 추가). Anticoagulant select에 Heparin 옵션 신설. 항생제 2026-07-15 추가 4편(bwire/esposito/kwon/liu)은 임계값 무변화 재확인.
   updated 2026-08-07: (1) 항응고 오버뷰 §2-5 임플란트 특이적 근거(2026-08-02 추가) 반영 — Madrid 2009 SR(19편, OAT/INR 2–4 유지 시 임플란트 비금기·INR은 출혈 예측인자 아님)·Chahine 2019 SR(10편 n=1,331, 8개 시술 카테고리, VKA·NOAC 유지가 헤파린 브리징보다 안전)·Lee 2024 코호트(연세대 n=537, 유지군 AF OR=6.051·VKI OR=3.679, 발치+골이식·다수임플란트·상악 수술이 시술 위험인자, 전 출혈 국소지혈로 해결) — 축1 임플란트 분기에 반영, ref 갱신. (2) 진통제 오버뷰 코르티코스테로이드 근거층(2026-07-29 추가) 반영 — Markiewicz 2008 SR-MA(12 RCT, 부종·개구제한 유의/통증 비유의)·Almeida 2019 SR-MA(17편, 동일 패턴)·Dan 2010 SR-MA(구강악안면 전반, 감염위험 증가 없음)·Bakri 2024 RCT(n=15, 3일 프레드니솔론 테이퍼 > 단회 25mg 부종·개구량, 통증 무차이) — 축4 매복 third molar 분기에 대안 프로토콜로 반영, ref 갱신. (3) 전신질환 오버뷰 임신 섹션(ACOG 2013, 2026-07-30 추가) 반영 — 방사선·LA·대부분 약물 포함 치과치료 전 임신기 안전 승인, 치주치료 조산 감소 효과 없음, 미치료 구강질환이 치료보다 위험 — 축5 임신 분기에 반영, ref 갱신. drug-mronj·drug-antibiotic-stewardship 두 소스는 이 기간 wikilink 경로 정리(fix(wikilinks))만 있었고 임상 수치 무변화 재확인.
+  updated 2026-08-25: ADA 2024 CPG (Carrasco-Labra, JADA 155:102-117) 반영 — 단순 발치 후 오피오이드 사용 반대·코르티코스테로이드 진통 보조 반대 공식 권고. 축4 ref에 ADA 2024 추가, simple_ext 분기 신설.
   updated 2026-08-11: 진통제 오버뷰 2026-08-09 추가분 중 Beaudart 2025 celecoxib umbrella
   review(GI 궤양 RR 0.22 moderate, CV·신장 비열등 low certainty) → 축4 진통제 avoidNSAID
   사유 문구에 GI 병력 대안(비-임플란트 한정)으로 반영. 동시 추가된 Maurice-Szamburski 2025
@@ -341,7 +342,7 @@ function calculate(e){
 
   // ===== 축 4 — 진통제 =====
   {
-    let lvl='green', rec='', why='', ref='Miroshnychenko 2023 Network MA (n=9095) · Feldman 2024 RCT (n=1815) · Gaballah 2025 RCT · Gomes 2025 · Tamgadge 2025 RCT · Kelidari 2026 NMA · Ping 2026 SR-MA · Markiewicz 2008 SR-MA · Almeida 2019 SR-MA · Dan 2010 SR-MA · Bakri 2024 RCT';
+    let lvl='green', rec='', why='', ref='ADA 2024 CPG (JADA 155:102-117, Carrasco-Labra) · Miroshnychenko 2023 Network MA (n=9095) · Feldman 2024 RCT (n=1815) · Gaballah 2025 RCT · Gomes 2025 · Tamgadge 2025 RCT · Kelidari 2026 NMA · Ping 2026 SR-MA · Markiewicz 2008 SR-MA · Almeida 2019 SR-MA · Dan 2010 SR-MA · Bakri 2024 RCT';
     let firstLine = 'Ibuprofen 400mg / Acetaminophen 1000mg alternate q4h × 48h';
     let avoidNSAID = false, reasonAvoid = [];
 
@@ -373,10 +374,12 @@ function calculate(e){
     } else if (proc === 'endo' || proc === 'endo_acute') {
       rec='Ibuprofen 600mg / Acetaminophen 1000mg alternate × 2–3일 (6–8h 급성엔 Diclofenac+APAP 또는 Ketorolac, 24h 지속엔 Naproxen·Novafen)' + (proc === 'endo_acute' ? ' + Diclofenac potassium 50mg 고려' : '');
       why='Smith 2017 SR-MA: 술전 통증 동반 endo에 Ibuprofen 600mg 유효. 단회 진통은 시간대 의존 — Diclofenac+APAP·Ketorolac이 6–8h 최강(Ping 2026: Ketorolac SMD −0.82, rescue RR 0.50)이나 12–24h 소실, Naproxen·Novafen이 24h 지속 (Kelidari 2026 NMA). ' + (proc === 'endo_acute' ? 'Vatankhah 2023: 비가역 치수염에 Diclofenac K 우월.' : '');
+    } else if (proc === 'simple_ext') {
+      rec='Ibuprofen 400mg 또는 Naproxen Na 440mg (단독 또는 +APAP 500mg)'; why='ADA 2024 CPG (Carrasco-Labra, JADA 155:102-117): 단순 발치 후 오피오이드 사용 반대 권고(Conditional, Low certainty). 코르티코스테로이드 진통 보조 추가도 반대(Conditional, Very Low certainty). 비오피오이드 1차 — NSAID가 치과 통증의 염증 기전을 직접 차단. Miroshnychenko 2023 NMA: IBU+APAP 병용 최저 NNT.';
     } else if (painExp === 'low') {
-      rec=firstLine; why='Miroshnychenko 2023: NNT ~1.5. Opioid 처방 금지.';
+      rec=firstLine; why='ADA 2024 CPG 근거: 비오피오이드 1차. Miroshnychenko 2023: NNT ~1.5. Opioid 처방 금지.';
     } else {
-      rec=firstLine; why='Miroshnychenko 2023 Network MA (82 RCT, n=9,095): Ibuprofen+APAP 병용이 최저 NNT. Opioid·Tramadol은 placebo 동등.';
+      rec=firstLine; why='Miroshnychenko 2023 Network MA (82 RCT, n=9,095): Ibuprofen+APAP 병용이 최저 NNT. Opioid·Tramadol은 placebo 동등. ADA 2024 CPG 비오피오이드 1차 원칙.';
     }
     blocks.push(axis(lvl, '축 4 — 진통제', rec, why, ref));
   }
