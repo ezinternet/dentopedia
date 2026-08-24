@@ -3,7 +3,7 @@ title: "European guidelines on radiation protection in dental radiology: The saf
 authors: Horner K, Rushton V, Walker A, Tsiklakis K, Hirschmann PN, van der Stelt PF, Glenny AM, Velders XL, Pavitt S
 year: 2004
 doi: N/A
-source: European Commission Radiation Protection 136, ISBN 92-894-5958-1
+source: horner-2004-european-guidelines-radiation-protection-dental-radiology.md
 category: radiology
 evidence_level: consensus
 date: 2004-01-01
