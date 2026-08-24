@@ -5,7 +5,7 @@ year: 2024
 doi: 10.1136/bmjoq-2023-002376
 pmid: 38719526
 pmcid: PMC11086432
-source: sources/saeed-2024-leadership-patient-safety-dentistry.md
+source: saeed-2024-leadership-patient-safety-dentistry.md
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/saeed-2024-leadership-patient-safety-dentistry.txt
 text_filename: saeed-2024-leadership-patient-safety-dentistry.txt
