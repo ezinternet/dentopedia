@@ -4,7 +4,7 @@ authors: [Cristina De-la-Rosa-Gay, Eduard Valmaseda-Castellón, Cosme Gay-Escoda
 year: 2006
 date: 2006-03-01
 doi: 10.1016/S0889-5406(05)01153-4
-source: sources/de-la-rosa-gay-2006-spontaneous-third-molar-eruption-second-molar-extraction.md
+source: de-la-rosa-gay-2006-spontaneous-third-molar-eruption-second-molar-extraction.md
 category: orthodontics
 evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/de-la-rosa-gay-2006-spontaneous-third-molar-eruption-second-molar-extraction.pdf
