@@ -267,6 +267,5 @@ OD는 식립 시 및 지대주 연결 시 임플란트 안정성 지수(Implant 
 - [[sinus-lift/transcrestal/sulyhan-2024-transcrestal-osseodensification-graft-radiographic-pilot]] — OD 골이식
 
 ### 인접 overview
-- [[sinus-lift-synthesis]] — 상악동거상술 전체 종합
-- [[non-surgical-periodontal-therapy-overview]] — 비수술 치주치료
-- [[implant-success-survival-prognosis-overview]] — 임플란트 성공·생존
+- [[overviews/sinus-lift-technique-selection]] — 상악동거상술 전체 종합
+- [[overviews/non-surgical-periodontal-therapy-overview]] — 비수술 치주치료
