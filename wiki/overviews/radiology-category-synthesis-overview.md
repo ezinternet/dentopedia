@@ -53,10 +53,10 @@ The radiology category has five existing topic-level synthesis pages. Read them 
 
 | Topic | Overview page | Papers covered |
 |---|---|---|
-| Dose optimization & occupational safety | [[overviews/dental-imaging-radiation-dose-optimization-overview]] | 27 papers |
+| Dose optimization & occupational safety | [[overviews/dental-imaging-radiation-dose-optimization-overview]] | 29 papers |
 | CBCT diagnostic performance & indication | [[overviews/cbct-diagnostic-performance-overview]] | 25 papers |
-| Radiographic artifacts (technical + interpretive) | [[overviews/dental-radiographic-artifacts-taxonomy-overview]] | 8 papers |
-| Effective dose — background equivalents | [[overviews/dental-imaging-effective-dose-background-equivalent-overview]] | 8 papers |
+| Radiographic artifacts (technical + interpretive) | [[overviews/dental-radiographic-artifacts-taxonomy-overview]] | 9 papers |
+| Effective dose — background equivalents | [[overviews/dental-imaging-effective-dose-background-equivalent-overview]] | 14 papers |
 | Handheld / mobile X-ray systems | [[overviews/handheld-mobile-xray-diagnostic-quality-overview]] | 4 papers |
 
 ---
