@@ -3,7 +3,7 @@ title: "Ibuprofen and/or Paracetamol for Pain Relief After Surgical Removal of L
 authors: ["Edmund Bailey", "Helen V Worthington", "Arjen van Wijk", "Julian M Yates", "Paul Coulthard", "Zahid Afzal"]
 year: 2013
 doi: "10.1002/14651858.CD004624.pub2"
-source: sources/bailey-2013-ibuprofen-paracetamol-wisdom-teeth-cochrane.md
+source: bailey-2013-ibuprofen-paracetamol-wisdom-teeth-cochrane.md
 category: drug/analgesics
 evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/bailey-2013-ibuprofen-paracetamol-wisdom-teeth-cochrane.pdf
