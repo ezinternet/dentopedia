@@ -2,10 +2,14 @@
 title: "Postoperative Analgesics·Pain Management Overview"
 authors: synthesis (llm-wiki)
 year: 2026
-date: 2026-05-27
+date: 2026-08-24
 category: [overviews]
-tags: [analgesics, NSAIDs, ibuprofen, acetaminophen, paracetamol, opioid, postoperative-pain, third-molar, endodontic-pain, preemptive-analgesia, overview, celecoxib, COX-2, IV-NSAIDs]
+tags: [analgesics, NSAIDs, ibuprofen, acetaminophen, paracetamol, opioid, postoperative-pain, third-molar, endodontic-pain, preemptive-analgesia, overview, celecoxib, COX-2, IV-NSAIDs, ADA, guideline, chairside, temporary-management, opioid-sparing, acute-dental-pain]
 source_papers:
+  - drug/analgesics/carrasco-labra-2024-pharmacologic-management-acute-dental-pain-guideline
+  - drug/analgesics/ada-2024-chairside-guide-adult-extraction
+  - drug/analgesics/ada-2024-chairside-guide-adult-pulpitis
+  - drug/analgesics/miroshnychenko-2023-analgesics-acute-dental-pain
   - drug/miroshnychenko-2023-dental-extraction-pain-network-meta
   - drug/feldman-2024-nonopioid-opioid-third-molar-rct
   - drug/watson-2022-acetaminophen-codeine-ibuprofen-third-molar-sr-ma
@@ -38,7 +42,7 @@ source_papers:
   - drug/analgesics/ibikunle-2016-prednisolone-qol-third-molar-rct
   - drug/analgesics/buyukkurt-2006-prednisolone-diclofenac-third-molar-rct
   - drug/analgesics/bakri-2024-prednisolone-prescribing-styles-third-molar
-  - drug/analgesics/dan-2010-corticosteroid-administration-oral-orthognathic-surgery
+  - drug/analgesics/dan-2010-corticosteroid-administration-oral-orthegnathic-surgery
   - drug/analgesics/almeida-2019-efficacy-corticosteroids-versus-placebo-impacted
   - drug/analgesics/markiewicz-2008-corticosteroids-reduce-postoperative-morbidity-after-third-molar-surgery
   - drug/analgesics/maurice-szamburski-2025-intravenous-nsaids-perioperative-pain-narrative-review
@@ -50,12 +54,16 @@ agenda: agenda/2026-05-27_drug-overview-split.md
 relations:
   - type: extends
     target: tamgadge-2025-preoperative-dexamethasone-third-molar-pain-swelling-trismus
+  - type: applies-to
+    target: carrasco-labra-2024-pharmacologic-management-acute-dental-pain-guideline
 ---
 
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
-> - 치과 술후 통증 약물(24편: Network MA 5·SR-MA 4·SR 1·Cochrane overview 2·RCT 6·narrative 6) 종합. 지난 10년간 선택지가 명확하게 좁아짐.
+> - 치과 급성 통증 약물(41편: Network MA 5·SR-MA 6·SR 2·Cochrane overview 2·RCT 7·narrative 7·CPG 3) 종합. **2024년 최초 ADA 공식 진료지침(Carrasco-Labra 2024, JADA)** 발표로 비오피오이드 우선 정책이 공식화됨.
+> - **ADA 2024 CPG 핵심 구분 — 발치 유형이 오피오이드 허용 범위를 가른다**: 단순 발치(simple extraction) = 비오피오이드 단독, 오피오이드 사용 **반대 권고**; 외과 발치(surgical extraction) = 비오피오이드 1선, 불충분 시에만 오피오이드 병합 2선(최소용량·거의 3일 이내). 코르티코스테로이드를 표준 진통요법에 추가하는 것도 **반대 권고**(Very Low certainty). ⚠️ 단, 이 반대 권고는 진통(analgesic) 목적에 한정 — 부종·개구제한(trismus) 등 항염·항부종 목적의 스테로이드는 ADA CPG 범위 밖(out of scope)이므로 Tamgadge 2025 기반 preop dexamethasone 권장(§4)과 충돌하지 않음.
+> - **치통 잠정관리(temporary toothache management)** — 확정 치료(근관치료·발치)가 즉시 불가한 경우: 내원 중 단시간 작용 국소마취제 → 선택적 벤조카인 10–20% → 귀가 후 NSAID±APAP 1선 → 불충분 시에만 APAP+오피오이드 병합 2선(2–3일 내 의뢰까지의 bridge). 오피오이드는 informed consent + PDMP 확인 필수, just-in-case 처방 금지, 12–17세는 극도 주의(tramadol/codeine 일부 연령 금기).
 > - 1차 선택: **Ibuprofen 400mg + Acetaminophen(APAP) 1000mg 병용** — Miroshnychenko 2023 Network MA(82 RCT, n=9,095)와 Moore 2015 Cochrane overview에서 가장 낮은 치료필요수(Number Needed to Treat, NNT ~1.5).
 > - Opioid는 비-opioid 대비 우월하지 않음 — Feldman 2024 RCT(n=1,815)에서 Hydrocodone+APAP가 Ibuprofen+APAP보다 전 시점 열등. Oxycodone·Codeine·Tramadol은 Network MA에서 위약 동등. ADA opioid-sparing 가이드라인 지지.
 > - 투약 패턴은 **교대(alternate) > 동시(concurrent)** — Gaballah 2025 RCT(n=56)에서 alternate군 rescue 필요율 15% vs concurrent 53%(p=0.002). 각 약물 단일 dose 간격 8h 유지하며 4h마다 진통 들어가는 구조.
@@ -75,7 +83,7 @@ relations:
 
 ## Three-line Summary
 
-Synthesis of 28 papers (5 network MA, 6 SR+MA, 1 SR, 2 Cochrane overviews, 7 RCTs, 7 narrative/review) on postoperative dental pain management: combined ibuprofen 400 mg + acetaminophen 1000 mg is first-line with the lowest NNT ≈1.5 (Miroshnychenko 2023 network MA, 82 RCTs n=9,095; Moore 2015 Cochrane overview); opioids are not superior (hydrocodone+APAP inferior to ibuprofen+APAP at every timepoint in n=1,815 RCT; tramadol equals placebo) — ADA opioid-sparing principle; alternate dosing reduces rescue need to 15% vs 53% for concurrent (Gaballah 2025 RCT, p=0.002).
+Synthesis of 41 papers (5 network MA, 6 SR+MA, 2 SR, 2 Cochrane overviews, 7 RCTs, 7 narrative/review, 3 ADA CPG documents) on acute dental pain management, anchored by the 2024 ADA clinical practice guideline (Carrasco-Labra 2024, JADA 155:102-117) — the first systematically developed ADA guideline: nonopioid first-line (NSAID alone or + acetaminophen 500 mg) for all scenarios; opioids recommended AGAINST after simple extraction; optional opioid-combination second line reserved for rare inadequate control after surgical extraction (lowest dose, fewest tablets, rarely >3 days); corticosteroids recommended AGAINST as analgesic adjuncts (Conditional, Very Low) — but this applies to pain-control intent, not anti-inflammatory/anti-edema use (trismus, swelling), which is out of scope.
 
 Preemptive NSAIDs do not help for impacted third molars (Costa 2015 meta, p=0.22) but benefit implant/periodontal surgery (Gousias 2025 SR+MA); a single preoperative dexamethasone 4 mg IM clearly improves third-molar pain/swelling/trismus (Tamgadge 2025 split-mouth RCT, day-7 VAS 0.4 vs 1.6, p<0.001); endodontic analgesia is time-dependent — diclofenac+APAP or ketorolac dominate at 6–8 h (MD −6.28; SMD −0.82, rescue RR 0.50) but fade by 24 h, where naproxen/Novafen sustain (Kelidari 2026 NMA; Ping 2026 SR+MA).
 
@@ -83,9 +91,9 @@ Single-dose NSAID adverse-event ranking is largely nocebo — plain placebo rank
 
 ## 세줄요약
 
-치과 술후 통증 24편(Network MA 5·SR+MA 4·SR 1·Cochrane overview 2·RCT 6·narrative 6) 통합: 1차 선택은 Ibuprofen 400mg + Acetaminophen 1000mg 병용, NNT ≈1.5(Miroshnychenko 2023 NMA 82 RCT n=9,095); Opioid는 비-opioid 대비 우월하지 않음(Feldman 2024 RCT n=1,815, 전 시점 열등·tramadol=위약); 교대 투약이 구제 투약 필요 15% vs 동시 53%(Gaballah 2025 p=0.002).
+치과 급성 통증 41편(Network MA 5·SR+MA 6·SR 2·Cochrane overview 2·RCT 7·narrative 7·ADA CPG 3) 통합: **2024 ADA 공식 CPG**(Carrasco-Labra 2024)가 최초 체계적 지침 — 전 시나리오 비오피오이드 1선(NSAID±APAP); 단순 발치는 오피오이드 반대 권고, 외과 발치는 불충분 시에만 오피오이드 2선; 코르티코스테로이드 진통 보조는 반대 권고(Very Low, 단 부종·개구제한 목적은 범위 밖); ibuprofen 400mg + APAP 1000mg 병용이 NNT ≈1.5 최강(Miroshnychenko 2023 NMA 82 RCT n=9,095).
 
-술전 NSAID는 제3대구치엔 약함(Costa 2015 p=0.22), 임플란트·치주엔 유효(Gousias 2025 SR+MA); 술전 Dexamethasone 4mg IM은 제3대구치 통증·개구·부종 모두 개선(Tamgadge 2025 split-mouth, day-7 VAS 0.4 vs 1.6 p<0.001); 근관치료는 시간대 의존 — Diclofenac+APAP·Ketorolac이 6–8h 최강(SMD −0.82, rescue RR 0.50), Naproxen·Novafen이 24h 지속.
+술전 NSAID는 제3대구치엔 약함(Costa 2015 p=0.22), 임플란트·치주엔 유효(Gousias 2025 SR+MA); 술전 Dexamethasone 4mg IM은 제3대구치 통증·개구·부종 모두 개선(Tamgadge 2025 split-mouth, day-7 VAS 0.4 vs 1.6 p<0.001, 항염 목적이므로 ADA CPG 범위 밖); 근관치료는 시간대 의존 — Diclofenac+APAP·Ketorolac이 6–8h 최강(SMD −0.82, rescue RR 0.50), Naproxen·Novafen이 24h 지속.
 
 단회 NSAID AE 순위는 주로 nocebo(Magesty 2026 NMA n=5,306, 위약이 2위) → NSAID 1차 유지; 신부전(AKI OR 1.98, Gomes 2025)·임플란트 환자(선택적 COX-2 골유착 저해)에선 회피.
 
@@ -93,15 +101,16 @@ Single-dose NSAID adverse-event ranking is largely nocebo — plain placebo rank
 
 ## Summary
 
-치과 술후 통증 약물 선택은 지난 10년간 명확하게 좁아짐. 24편 paper(Network MA 5, SR-MA 4, SR 1, Cochrane overview 2, RCT 6, narrative 6)를 종합:
+치과 급성 통증 약물 선택은 2024 ADA 공식 CPG 발표로 정책 틀이 명확해짐. 41편(Network MA 5, SR-MA 6, SR 2, Cochrane overview 2, RCT 7, narrative 7, CPG 3) 종합:
 
-1. **1차 선택: Ibuprofen 400mg + Acetaminophen 1000mg** — Miroshnychenko 2023 Network MA(82 RCT, n=9,095) 결론.
-2. **Opioid는 비-opioid 대비 우월하지 않음** — Feldman 2024 RCT(n=1,815), Watson 2022 SR-MA. ADA opioid-sparing 가이드라인 지지.
-3. **Acetaminophen·Ibuprofen 교대 (alternate) 투약이 동시 (concurrent)보다 우월** — Gaballah 2025 RCT.
-4. **Preemptive NSAID 효과는 시술 유형 의존** — third molar에는 약하지만 (Costa 2015), 치주·임플란트엔 유효 (Gousias 2025). 반면 **술전 corticosteroid(dexamethasone 4mg)는 third molar에 명확히 유효** (Tamgadge 2025).
-5. **근관치료 진통은 시간대 의존** — 6–8h엔 Diclofenac+APAP·Ketorolac, 24h엔 Naproxen·Novafen (Kelidari 2026, Ping 2026).
-6. **단회 NSAID의 AE 순위는 대부분 nocebo** — 효능 우위가 압도하므로 1차 유지 (Magesty 2026).
-7. **NSAID 처방 시 신기능·심혈관·골유착 고려**.
+1. **1차 선택: Ibuprofen 400mg + Acetaminophen 1000mg** — Miroshnychenko 2023 Network MA(82 RCT, n=9,095); ADA 2024 CPG 공식 채택.
+2. **발치 유형이 오피오이드 허용 범위를 가름 (ADA 2024 CPG)** — 단순 발치는 오피오이드 반대 권고; 외과 발치만 불충분 시 2선 옵션(≤3일). 코르티코스테로이드 진통 보조 추가도 반대 권고.
+3. **Opioid는 비-opioid 대비 우월하지 않음** — Feldman 2024 RCT(n=1,815), Watson 2022 SR-MA.
+4. **Acetaminophen·Ibuprofen 교대(alternate) 투약이 동시(concurrent)보다 우월** — Gaballah 2025 RCT.
+5. **Preemptive NSAID 효과는 시술 유형 의존** — third molar엔 약함(Costa 2015), 치주·임플란트엔 유효(Gousias 2025). 반면 **술전 corticosteroid(dexamethasone 4mg)는 third molar에 명확히 유효**(Tamgadge 2025) — 이는 항염·항부종 목적으로 ADA CPG 반대 권고 범위 밖.
+6. **근관치료 진통은 시간대 의존** — 6–8h엔 Diclofenac+APAP·Ketorolac, 24h엔 Naproxen·Novafen(Kelidari 2026, Ping 2026).
+7. **단회 NSAID의 AE 순위는 대부분 nocebo** — 효능 우위가 압도하므로 1차 유지(Magesty 2026).
+8. **NSAID 처방 시 신기능·심혈관·골유착 고려**.
 
 ---
 
@@ -149,6 +158,39 @@ p=0.002, 명확한 차이.
 
 ---
 
+## 2-bis. ADA 2024 공식 CPG — 정책 틀과 처방 알고리즘
+
+[확인] **Carrasco-Labra 2024 CPG** (JADA 2024;155(2):102-117) — 최초 체계적 ADA 진료지침. FDA 의회 위임 연구비, 4개 위탁 SR+MA, GRADE 방법론. 두 시나리오:
+
+**Scenario A — 발치(단순·외과) 후 통증:**
+
+| 발치 유형 | 1선 | 2선 | 오피오이드 |
+|---|---|---|---|
+| **단순 발치** | NSAID 단독 또는 + APAP 500 mg | — | **반대 권고** *(Conditional, Low)* |
+| **외과 발치** | NSAID 단독 또는 + APAP 500 mg | NSAID 불충분 시에만: APAP 325 + APAP-opioid 병합*(최소용량·≤3일)* | 불충분 시 허용(rare instances) |
+
+- 코르티코스테로이드를 표준 진통요법에 **추가하지 말 것** *(Conditional, Very Low)* — ⚠️ 항염·항부종(trismus, 안면부종, 감염) 목적과 정맥투여(IV)는 이 권고의 **범위 밖(out of scope)** → Tamgadge 2025 §4와 모순 없음
+- 퇴실 직전 장시간 국소마취제(0.5% bupivacaine 또는 4% articaine) 선택 보조 *(Conditional, Low)*
+
+**Scenario B — 확정 치료 즉시 불가 시 치통 잠정관리:**
+
+임시 다리(bridge until pulpectomy/RCT/발치/의뢰, 2–3일): 내원 중 단시간 작용 국소마취제 → 선택적 벤조카인 10–20% 도포 → 귀가 후 NSAID±APAP 1선 → 불충분 시에만 APAP + 오피오이드 병합 2선.
+
+**공통 안전 원칙 (Good Practice Statements):**
+- 최소유효용량, just-in-case 오피오이드 처방 금지
+- PDMP(처방 모니터링 프로그램) 확인
+- APAP 총 일일 용량 ≤4,000 mg (병합정의 APAP 누적 포함)
+- 오피오이드 처방 시 informed consent 필수
+- **12–<17세 극도 주의** — 단 1회 처방 후에도 opioid misuse·SUD 위험 증가; tramadol·codeine 일부 청소년 금기(FDA)
+- gabapentinoids·CNS-active 약물·이미 오피오이드 복용 중 환자에게는 오피오이드 병합 제공 금지
+
+[미검증] **ADA 2024 vs 기존 §4 코르티코스테로이드 비교 — 범위(scope)가 다름**:
+- ADA CPG Rec 1.5: 진통(analgesic) 목적으로 코르티코스테로이드 **추가 반대** → 근거 Tamgadge 2025의 "술후 VAS 통증 개선" 데이터가 이 반대 권고에 포함될 수 있음
+- §4 Tamgadge 2025 권장 근거: 통증+**부종+개구제한** 복합 항염증 효과 — ADA CPG 자체가 "trismus·facial swelling·infection용 스테로이드는 out of scope"로 명시
+- 실무 결론: **진통만 목적이면 ADA 반대 권고 따름; 제3대구치 수술 후 부종·개구제한 우려가 있으면 Dexamethasone 4mg IM 술전 1회는 항염 목적으로 여전히 합리적 선택**
+
+---
+
 ## 3. Opioid는 회피
 
 [확인] **Feldman 2024 RCT** (Multisite, n=1,815, third molar 발치):
@@ -160,12 +202,15 @@ p=0.002, 명확한 차이.
 
 전 timepoint에서 opioid가 비-opioid를 능가한 적 없음. 비-opioid 만족도 더 높음.
 
-[확인] **Watson 2022 SR-MA** — Acetaminophen 600 + Codeine 60 vs Ibuprofen 400 비교, Ibuprofen 단독이 동등 또는 우수. **ADA 2022 opioid-sparing 가이드라인 지지**.
+[확인] **Watson 2022 SR-MA** — Acetaminophen 600 + Codeine 60 vs Ibuprofen 400 비교, Ibuprofen 단독이 동등 또는 우수.
+
+[확인] **ADA 2024 공식 CPG** — 단순 발치는 오피오이드 **반대 권고**; 외과 발치는 비오피오이드 1선, 불충분 시에만 APAP + 오피오이드 병합 2선(최소용량·최소 정수·거의 3일 이내). Just-in-case 선제 처방 금지. 이 CPG가 **ADA opioid-sparing 정책의 1차 출처** — 이전에 인용하던 "ADA 2022 가이드라인"이 이 2024년 공식 지침으로 대체됨.
 
 → Opioid 처방은:
-- 비-opioid 실패 후 rescue medication에 한정
-- 단기 (≤3일)
-- 환자 history 확인 (substance use disorder, 동시 benzodiazepine·SSRI 등)
+- 비-opioid 실패 후 rescue medication에 한정 (외과 발치에서만)
+- 단기 (≤3일, 거의 예외 없이)
+- 환자 history 확인 (substance use disorder, 동시 benzodiazepine·SSRI·gabapentinoid 등)
+- 단순 발치 후는 처방 자체가 ADA 반대 권고 대상
 
 [미검증] 한국 치과는 미국 대비 opioid 처방 비율 낮음 (Tramadol 정도). 그래도 ADA opioid-sparing 원칙은 동일 적용. Tramadol도 Network MA에서 placebo 동등 — 처방 정당화 어려움.
 
@@ -278,12 +323,13 @@ p=0.002, 명확한 차이.
 
 | 처치 | 술전 | 술후 | 비고 |
 |---|---|---|---|
-| **단순 발치** | — (또는 환자 통증 prevalence 시 술전 Ibuprofen 400) | Ibuprofen 400 / APAP 1000 alternate q4h × 48h | Opioid X |
-| **매복 third molar** | **NSAID-preemptive 약함**(Costa 2015) — 권고 안 함; 대신 **술전 Dexamethasone 4mg IM 1회**(Tamgadge 2025) 권장 | 동상 + day 3까지 연장 | Opioid X; preop은 NSAID가 아닌 corticosteroid |
+| **단순 발치** | — | Ibuprofen 400 / APAP 1000 alternate q4h × 48h | Opioid X (**ADA 2024 반대 권고**) |
+| **매복 third molar(외과 발치)** | **NSAID-preemptive 약함**(Costa 2015) — 권고 안 함; 대신 **술전 Dexamethasone 4mg IM 1회**(Tamgadge 2025, 항염 목적) 권장 | Ibuprofen 400 / APAP 1000 alternate × day 3; 불충분 시에만 APAP + opioid 2선(≤3일, ADA 2024) | Preop은 NSAID가 아닌 항염 목적 corticosteroid |
 | **임플란트** | Ibuprofen 400 술전 30–60min (Gousias 2025) | Ibuprofen 400 / APAP 1000 alternate × 48h | COX-2 selective 회피 |
 | **치주 수술** | Ibuprofen 400 술전 30–60min | 동상; 복합/성형 수술(GBR·연조직)은 SAID(dexamethasone) 고려 | NSAID 초기·SAID 48h 우위 (Abusamak 2025) |
+| **치통 잠정관리** (확정 Tx 즉시 불가) | 내원 중 단시간 국소마취제 + 선택적 benzocaine 10–20% | NSAID ± APAP 1선 → 불충분 시 APAP + opioid 2선 (2–3일 내 의뢰 bridge, ADA 2024 Scenario B) | just-in-case 처방 금지; 12–17세 극도 주의 |
 | **근관치료 (술전 통증)** | Ibuprofen 600 (Smith 2017) | Ibuprofen 600 / APAP 1000 alternate × 2–3일; **6–8h 급성엔 Diclofenac+APAP·Ketorolac, 24h 지속엔 Naproxen·Novafen** (Kelidari·Ping 2026) | Diclofenac K 대안; Ketorolac IN(Sprix) 비침습 옵션 |
-| **응급 비가역 치수염** | Diclofenac K 50mg (Vatankhah 2023) | + corticosteroid 보조 가능 | |
+| **응급 비가역 치수염** | Diclofenac K 50mg (Vatankhah 2023) | + corticosteroid 보조 가능 | ADA Scenario B 프레임 적용 |
 
 ---
 
@@ -315,6 +361,9 @@ p=0.002, 명확한 차이.
 
 | 주장 | 수준 | 출처 |
 |---|---|---|
+| 단순 발치 후 오피오이드 반대 권고 | ADA CPG (Conditional, Low) | Carrasco-Labra 2024, ADA Chairside Guide-Extraction |
+| 코르티코스테로이드 진통 보조 반대 권고 (항염 목적은 범위 밖) | ADA CPG (Conditional, Very Low) | Carrasco-Labra 2024 |
+| 치통 잠정관리 알고리즘 (2–3일 bridge) | ADA CPG (Conditional, Low) | Carrasco-Labra 2024, ADA Chairside Guide-Pulpitis |
 | Ibuprofen + APAP 병용이 최저 NNT | 강함 (Network MA n=9,095, Cochrane overview) | Miroshnychenko 2023, Moore 2015 |
 | Opioid 비-opioid 대비 우월하지 않음 | 강함 (RCT n=1,815, SR-MA) | Feldman 2024, Watson 2022 |
 | Alternate > Concurrent 투약 | 중간 (RCT n=56) | Gaballah 2025 |
@@ -336,6 +385,12 @@ p=0.002, 명확한 차이.
 ---
 
 ## Related Papers
+
+### ADA 2024 공식 CPG 패키지 (신규 추가 2026-08)
+
+- [[drug/analgesics/carrasco-labra-2024-pharmacologic-management-acute-dental-pain-guideline]] — 최초 체계적 ADA 급성 치통 CPG (JADA 2024;155:102-117): 비오피오이드 1선, 단순발치 opioid 반대, 코르티코스테로이드 진통 보조 반대, GRADE Conditional/Low-Very Low. 이 overview의 모든 처방 원칙의 공식 정책 출처 (CPG, 2024)
+- [[drug/analgesics/ada-2024-chairside-guide-adult-extraction]] — 발치 시나리오 체어사이드 가이드: 단순 vs 외과 발치 2열 알고리즘, bupivacaine/articaine 술후 국소마취, 오피오이드 escalation 경로. 부모 CPG의 즉시 사용 버전 (CPG/chairside, 2024)
+- [[drug/analgesics/ada-2024-chairside-guide-adult-pulpitis]] — 치통 잠정관리 체어사이드 가이드: 확정 치료 즉시 불가 시 2–3일 bridge 알고리즘, benzocaine 10–20% 적응, Scenario B 전체 경로. 부모 CPG의 즉시 사용 버전 (CPG/chairside, 2024)
 
 ### 신규 추가 (2026-06)
 
