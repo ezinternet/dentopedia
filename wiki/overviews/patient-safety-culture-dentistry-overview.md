@@ -5,6 +5,7 @@ category: overviews
 date: 2026-08-17
 evidence_level: synthesis
 source_collection: synthesis
+date: 2026-08-24
 source_papers:
   - wiki/practice-management/bailey-2021-patient-safety-culture-primary-dental-care.md
   - wiki/practice-management/yansane-2020-patient-safety-culture-dentistry-assessment.md
@@ -13,7 +14,8 @@ source_papers:
   - wiki/practice-management/bailey-2025-patient-safety-dentistry-decade.md
   - wiki/practice-management/saeed-2024-leadership-patient-safety-dentistry.md
   - wiki/practice-management/padmanabhan-2024-patient-safety-dentistry-narrative.md
-tags: [patient-safety, safety-culture, teamwork, human-factors, leadership, practice-management, overview]
+  - wiki/practice-management/george-2025-gaps-dentistry-between-education.md
+tags: [patient-safety, safety-culture, teamwork, human-factors, leadership, practice-management, dental-education, theory-practice-gap, overview]
 ---
 
 > [!summary] 한국어 핵심요약
@@ -29,23 +31,24 @@ tags: [patient-safety, safety-culture, teamwork, human-factors, leadership, prac
 > - **Safety I→Safety II (Bailey 2025)**: 10년 업데이트 — 실패 소급 분석(Safety I)→회복탄력성·성공 이유 탐구(Safety II); HALT·IMSAFE 인적요인 약어; CRM 계층구조 speak-up; PSIRF 2023-24; NHS 일차의료 환자안전 전략 2024(일차치과의료 명시); Project Sphere.
 > - **치과 특화 정의 (Padmanabhan 2024)**: 치과 이상반응·아차사고·안전문화·sentinel event 치과 고유 용어 확립; 도입 지연 7원인; 7요소 제도 프레임워크(전략적 우선순위·진료 통합·연간 교육·안전 계획·사고관리·비처벌 문화·성과지표).
 > - **중요한 단서**: 팀워크 기둥(Schmutz·Manser)은 수술실·중환자실·응급실 등 **일반 의료 근거를 치과에 유추 적용**한 것 — 치과 고유 추정치가 아니라 방향성 앵커로 봐야 한다. **치과 특화 첫 추정치는 Saeed 2024의 리더십↔안전 r=0.455.**
-> - **임상·운영 takeaway**: ① DMOSOPS로 우리 치과의 안전문화를 측정하고, ② 팀워크·리더십(영감적 소통·지지적 리더십 우선)에 투자하며, ③ 인적요인(Human Factors) 관점으로 워크플로를 설계하고, ④ 제2의 피해자(second victim)를 지지하며, ⑤ 과잉규제(over-regulation)는 개방적 보고·학습을 억제하므로 경계한다.
+> - **교육→준비도→안전 연결 고리 (George 2025, 최초 질적 기술)**: 인도 신규 치대졸업생 (Bachelor of Dental Surgery, BDS) 10/10명이 독립 진료 준비 부족을 호소. 6개 주제 중 **환자 안전**이 직접 포함 — 교육 미비가 합병증·응급상황 발생 시 환자 위험으로 이어지는 사례 기술. 국가 간 미비율: 호주 85–93% 멘토십 요구, 사우디 40% 미준비, 인도 65% 자신감 낮음. **교육→환자안전 연결 고리는 시스템 설계 문제다** — 개인 역량 탓이 아니라 교육과정·프리셉터 제도·직접 감독 구조의 문제. [확인]
+> - **임상·운영 takeaway**: ① DMOSOPS로 우리 치과의 안전문화를 측정하고, ② 팀워크·리더십(영감적 소통·지지적 리더십 우선)에 투자하며, ③ 인적요인(Human Factors) 관점으로 워크플로를 설계하고, ④ 제2의 피해자(second victim)를 지지하며, ⑤ 신규 졸업생이 합류할 때 프리셉터 (preceptor) 배정·직접 감독을 제도화하며, ⑥ 과잉규제(over-regulation)는 개방적 보고·학습을 억제하므로 경계한다.
 
 ## Three-line Summary
 
-Synthesis of 7 papers (3 dental-specific, 2 general-healthcare cross-applied, 1 dental-hospital cross-sectional, 1 dental 10-year update): dentistry lags medicine on 9/10 MOSPSC safety-culture dimensions, with ~95% of dental care in primary care where safety evidence was not generated; Bailey 2025 adds Safety I→II, PSIRF, and NHS 2024 primary dental care strategy as milestones (Yansane 2020, Bailey 2021, Bailey 2025).
+Synthesis of 8 papers (3 dental-specific narrative reviews, 2 general-healthcare cross-applied, 1 dental-hospital cross-sectional, 1 dental 10-year update, 1 dental-education qualitative): dentistry lags medicine on 9/10 MOSPSC safety-culture dimensions, with ~95% of dental care in primary care where safety evidence was not generated; Bailey 2025 adds Safety I→II, PSIRF, and NHS 2024 primary dental care strategy as milestones (Yansane 2020, Bailey 2021, Bailey 2025).
 
 Leadership→safety culture is now quantified in a dental hospital at r=0.455 (Saeed 2024, n=104, DMOSOPS+TLS) — inspirational communication drives most association; teamwork (82.91%) and organizational learning (78.41%) remain dental strengths while blame culture persists; teamwork→performance in general healthcare: r=0.28/OR≈2.8 (Schmutz 2019).
 
-Practical toolkit: measure with DMOSOPS, invest in leadership (inspirational communication + supportive style) and team training, apply Safety II and human factors (HALT/IMSAFE/CRM), support second victims, use Padmanabhan's 7-component institutional framework, and restrain over-regulation.
+Practical toolkit: measure with DMOSOPS, invest in leadership (inspirational communication + supportive style) and team training, apply Safety II and human factors (HALT/IMSAFE/CRM), support second victims, use Padmanabhan's 7-component institutional framework, mandate preceptorship and direct supervision for new graduates (George 2025), and restrain over-regulation.
 
 ## 세줄요약
 
-7편 종합(치과 특화 3·일반 의료 차용 2·치과병원 단면 1·10년 업데이트 1): 치과는 환자안전문화 10개 영역 중 9개에서 의료에 뒤처지며 진료 ~95%가 근거 미생산 일차의료에서 이뤄짐; Bailey 2025는 Safety I→II·PSIRF·NHS 2024 일차치과의료 전략을 추가(Yansane 2020, Bailey 2021, 2025).
+8편 종합(치과 특화 서술적 리뷰 3·일반 의료 차용 2·치과병원 단면 1·10년 업데이트 1·치과교육 질적 1): 치과는 환자안전문화 10개 영역 중 9개에서 의료에 뒤처지며 진료 ~95%가 근거 미생산 일차의료에서 이뤄짐; Bailey 2025는 Safety I→II·PSIRF·NHS 2024 일차치과의료 전략을 추가(Yansane 2020, Bailey 2021, 2025).
 
 리더십↔안전 최초 치과 정량화 r=0.455(Saeed 2024, n=104): 영감적 소통(r=0.504) 최강 예측인자, 팀워크(82.91%)·조직학습(78.41%) 여전히 강점, 블레임 문화 잔존; 일반 의료 팀워크→성과 r=0.28(Schmutz 2019) — 차용 근거.
 
-임상 takeaway: DMOSOPS로 측정 → 리더십(영감적 소통·지지적 리더십)·팀워크 투자 → Safety II·인적요인(HALT/IMSAFE/CRM) 적용 → Padmanabhan 7요소 프레임워크 구현 → 제2의 피해자 지지 → 과잉규제 경계.
+임상 takeaway: DMOSOPS로 측정 → 리더십(영감적 소통·지지적 리더십)·팀워크 투자 → Safety II·인적요인(HALT/IMSAFE/CRM) 적용 → Padmanabhan 7요소 프레임워크 구현 → 제2의 피해자 지지 → 신규 졸업생 프리셉터십·직접 감독 제도화(George 2025) → 과잉규제 경계.
 
 ## Thesis
 
@@ -71,7 +74,9 @@ Underpinning both is **where the work happens**. Bailey (2021) notes that **~95%
 | Schmutz 2019 — How effective is teamwork really? | SR + meta-analysis (PRISMA, REML), acute care | 31 studies / 1390 teams | Teamwork ↔ clinical performance **r=0.28 (95% CI 0.20–0.35), OR≈2.8**; all 6 moderators non-significant (effect holds in routine care, not just crises) | sr+ma — **general healthcare, cross-applied** |
 | Manser 2009 — Teamwork and patient safety in dynamic domains | Narrative review (OR/ICU/ED/trauma) | — | Teamwork is a determinant of safety via 3 streams: critical incidents, provider perceptions↔well-being, observed communication/coordination/leadership | narrative-review — **general healthcare, cross-applied** |
 
-The two dental-specific papers (Yansane, Bailey) supply the *state of dental safety culture* and the *how-to*. The two general-healthcare papers (Schmutz, Manser) supply the *quantitative and conceptual rationale for the teamwork pillar*, extrapolated to dentistry by analogy — the dental evidence base does not yet contain its own equivalents.
+| George 2025 — Gaps in Dentistry between Education and Professional Practice | Qualitative exploratory (semi-structured interviews, CMC Vellore, India) | n=10 new BDS graduates | 10/10 felt unprepared for independent practice; 6 themes including **patient safety** — educational gap → safety risk when complications arise; cross-national under-preparedness: Australia 85–93%, Saudi Arabia 40%, India 65%; fixes are systemic (competency-based curriculum, preceptorship, direct supervision) | qualitative — **dental-specific, first description** |
+
+The two dental-specific papers (Yansane, Bailey) supply the *state of dental safety culture* and the *how-to*. The two general-healthcare papers (Schmutz, Manser) supply the *quantitative and conceptual rationale for the teamwork pillar*, extrapolated to dentistry by analogy. George 2025 adds the **education→preparedness→patient safety** causal thread, positioning training-system design as a safety infrastructure issue — the dental evidence base does not yet contain equivalent controlled studies on this pathway.
 
 ## Clinical Decision Points
 
@@ -85,7 +90,9 @@ How a dental practice actually builds and measures a safety culture:
 
 4. **Support the second victim.** The clinician or team member involved in an adverse event is themselves harmed (distress, guilt, eroded confidence). A supportive, non-punitive response is part of the safety culture, not separate from it — and punitive responses suppress the open reporting the whole system depends on (Bailey 2021). This intersects directly with staff well-being, which Manser ties to the capacity to deliver safe care.
 
-5. **Avoid over-regulation.** Excessive prescriptive regulation can be counterproductive, suppressing the open reporting and learning a genuine safety culture requires (Bailey 2021). Aim for a learning culture, not a compliance-checklist culture.
+5. **Build the education→safety bridge for new graduates.** George 2025 establishes that 10/10 new dental graduates felt unprepared for independent practice after their BDS, with the gap explicitly linked to patient safety risk. This is a *system* failure, not an individual one: exam-driven theory-heavy curricula, absent preceptors, and quota-based procedural exposure create graduates who are credentialed but not safe-to-practice-alone. Practical measures: assign a preceptor to every new hire, maintain direct supervision for their first cases across all procedure types, use formative (not just summative) assessment with self-evaluation checklists, and build structured feedback loops. This applies as much to the dental practice level (structured onboarding) as to the dental school.
+
+6. **Avoid over-regulation.** Excessive prescriptive regulation can be counterproductive, suppressing the open reporting and learning a genuine safety culture requires (Bailey 2021). Aim for a learning culture, not a compliance-checklist culture.
 
 ## Gaps & Future Research
 
@@ -93,6 +100,7 @@ How a dental practice actually builds and measures a safety culture:
 - **The teamwork pillar is extrapolated, not dental-specific.** The r=0.28 / OR 2.8 effect and the three-stream determinant model come from acute-care medicine (Schmutz, Manser), and Schmutz explicitly cautions his results may not generalize to long-term or low-acuity care. There is **no dental-specific quantification** of the teamwork→performance or teamwork→safety relationship. A dental teamwork–outcome study is the obvious missing piece.
 - **Outcome-level evidence is thin even in the borrowed base.** In Schmutz, the teamwork↔hard-patient-outcome correlation (r=0.13, k=4) is weaker and rests on only 4 studies; most evidence is process-level (r=0.30).
 - **No validated dental team-performance instrument.** Manser's stated future challenge — validated team-performance assessment tools and integrative models — remains open, and is doubly open for dentistry, which has not yet developed its own.
+- **The education→safety link is qualitative and single-site.** George 2025 is n=10 from one institution in India; while cross-national under-preparedness figures corroborate the finding, the safety-consequence claims rest on participant self-report rather than measured adverse events.
 
 ## Related Papers
 
@@ -103,4 +111,5 @@ How a dental practice actually builds and measures a safety culture:
 - [[practice-management/padmanabhan-2024-patient-safety-dentistry-narrative]] — dental-specific definitions + 7-barrier analysis + 7-component institutional framework for building safety culture.
 - [[practice-management/schmutz-2019-teamwork-performance-healthcare-sr-ma]] — general-healthcare SR+MA quantifying the teamwork pillar (r=0.28, OR≈2.8); **cross-applied to dentistry by analogy**.
 - [[practice-management/manser-2009-teamwork-patient-safety-dynamic-healthcare]] — general-healthcare narrative review establishing teamwork→safety via 3 streams; **cross-applied to dentistry by analogy**.
+- [[practice-management/george-2025-gaps-dentistry-between-education]] — qualitative description of the theory–practice gap in dentistry; 10/10 graduates unprepared; education gaps → patient safety risk; preceptorship + direct supervision as systemic fix.
 - [[overviews/dentist-burnout-mental-health-overview]] — companion practice-management overview; the second-victim and teamwork→well-being threads here connect to staff well-being, which Manser ties to the capacity to deliver safe care.
