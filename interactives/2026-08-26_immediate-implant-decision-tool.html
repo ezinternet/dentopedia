@@ -1,0 +1,367 @@
+<!--
+---
+title: "즉시식립 5축 결정 도구 — timing·site·술식·연조직·부하"
+type: interactive
+date: 2026-08-26
+status: done
+category: immediate-implant
+source_wiki:
+  - wiki/overviews/immediate-implant-decision-ladder.md
+  - wiki/immediate-implant/anatomic-assessment/najm-2024-immediate-implant-premolar-perforation-cbct.md
+  - wiki/immediate-implant/aung-2024-tapered-sla-immediate-implant-survival.md
+  - wiki/immediate-implant/gap-grafting/meijer-2024-immediate-implant-bony-defect-10year-rct.md
+  - wiki/immediate-implant/gap-grafting/sanz-2017-bone-graft-gap-immediate-implant-rct.md
+  - wiki/immediate-implant/esthetic-soft-tissue/staas-2026-fiipp-palatal-position-cbct-3year.md
+  - wiki/immediate-implant/molar-septum/mustakim-2023-immediate-implant-maxillary-molar-guidelines.md
+  - wiki/immediate-implant/infected-socket/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma.md
+  - wiki/immediate-implant/loading-protocol/esposito-2015-immediate-loading-vs-delayed-anterior-rct.md
+  - wiki/immediate-implant/loading-protocol/botros-2025-early-conventional-loading-immediate-molar.md
+  - wiki/immediate-implant/socket-shield/ogawa-2022-socket-shield-technique-systematic-review.md
+agenda: agenda/2026-08-26_immediate-implant-decision-tool.md
+---
+-->
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>즉시식립 5축 결정 도구</title>
+<style>
+:root{
+  --bg:#F2F3EF;--surface:#FFFFFF;--text:#1A2030;--muted:#5A6472;--line:#DDE0D8;
+  --accent:#1E6B52;--accent-soft:#E4F0EA;--warn-bg:#FDF3E4;--warn-line:#C77E1E;
+  --stop-bg:#FBEAEA;--stop-line:#B03A3A;--info-bg:#E8F0FA;--info-line:#2F5FA5;
+  --myth-bg:#F3EEFA;--myth-line:#6A4CA6;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans KR",sans-serif;
+  background:var(--bg);color:var(--text);line-height:1.65;font-size:15px;padding-bottom:60px}
+.wrap{max-width:1060px;margin:0 auto;padding:18px}
+header.hero{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:20px 22px;margin-bottom:16px}
+header.hero h1{font-size:21px;margin-bottom:6px}
+header.hero .sub{color:var(--muted);font-size:13px}
+.pillrow{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px}
+.pill{font-size:12px;background:var(--accent-soft);color:var(--accent);border-radius:999px;padding:2px 10px;font-weight:600}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:18px 20px;margin-bottom:14px}
+.card h2{font-size:17px;margin-bottom:6px}
+.card h3{font-size:15px;margin:14px 0 6px}
+.axis{border-left:5px solid var(--accent);padding-left:14px}
+.lede{color:var(--muted);font-size:13.5px;margin-bottom:10px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:12px}
+.field label{display:block;font-weight:700;font-size:13.5px;margin-bottom:5px}
+.opt{display:flex;gap:6px;flex-wrap:wrap}
+.opt button{border:1px solid var(--line);background:var(--bg);border-radius:9px;padding:7px 11px;
+  cursor:pointer;font-size:13px;font-weight:600;color:var(--text);font-family:inherit}
+.opt button.on{background:var(--accent-soft);border-color:var(--accent);color:var(--accent)}
+input[type=number]{width:130px;border:1px solid var(--line);border-radius:9px;padding:8px 10px;
+  font-size:15px;background:var(--surface);color:var(--text);font-family:inherit}
+.res{border-radius:11px;padding:13px 15px;margin:9px 0;border:2px solid}
+.r-go{background:var(--accent-soft);border-color:var(--accent)}
+.r-mid{background:var(--warn-bg);border-color:var(--warn-line)}
+.r-stop{background:var(--stop-bg);border-color:var(--stop-line)}
+.r-info{background:var(--info-bg);border-color:var(--info-line)}
+.res b.hd{display:block;font-size:16px;margin-bottom:4px}
+.warn{background:var(--warn-bg);border:1px solid var(--warn-line);border-radius:11px;padding:11px 13px;margin:9px 0}
+.stop{background:var(--stop-bg);border:1px solid var(--stop-line);border-radius:11px;padding:11px 13px;margin:9px 0}
+.info{background:var(--info-bg);border:1px solid var(--info-line);border-radius:11px;padding:11px 13px;margin:9px 0}
+.myth{background:var(--myth-bg);border:1px solid var(--myth-line);border-radius:11px;padding:12px 14px;margin:9px 0}
+.myth .x{color:var(--stop-line);font-weight:800}
+table{width:100%;border-collapse:collapse;margin:9px 0;font-size:13.5px}
+th{background:var(--bg);text-align:left}
+th,td{border:1px solid var(--line);padding:7px 10px;vertical-align:top}
+ul,ol{padding-left:22px;margin:6px 0}li{margin:4px 0}
+.small{font-size:12.5px;color:var(--muted)}
+.cite{font-size:11.5px;color:var(--muted)}
+.tools{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:11px;margin-top:8px}
+.tool{border:1px solid var(--line);border-left:5px solid var(--info-line);border-radius:11px;padding:12px 14px;
+  background:var(--surface);text-decoration:none;color:inherit;display:block}
+.tool:hover{background:var(--bg)}
+.tool b{display:block;font-size:14px;margin-bottom:3px}
+.tool span{font-size:12.5px;color:var(--muted)}
+.tool.hot{border-left-color:var(--accent);background:var(--accent-soft)}
+details{border:1px solid var(--line);border-radius:11px;padding:10px 14px;margin:8px 0;background:var(--surface)}
+summary{cursor:pointer;font-weight:700}
+footer{text-align:center;color:var(--muted);font-size:12px;margin-top:24px}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header class="hero">
+  <h1>즉시식립 5축 결정 도구</h1>
+  <div class="sub">timing → site → 술식 → 연조직 → 부하. <code>wiki/overviews/immediate-implant-decision-ladder</code>의 체어사이드 실행판.</div>
+  <div class="pillrow">
+    <span class="pill">축1 timing</span><span class="pill">축2 site</span><span class="pill">축3 술식</span>
+    <span class="pill">축4 연조직</span><span class="pill">축5 부하</span><span class="pill">오판 패턴 5</span>
+  </div>
+  <div class="small" style="margin-top:8px">위키 인제스트 문서의 요약이며 임상 판단을 대체하지 않는다. 수치에 출처 병기.</div>
+</header>
+
+<div class="card">
+  <h2>케이스 입력</h2>
+  <div class="grid">
+    <div class="field"><label>부위</label><div class="opt" id="oSite">
+      <button data-v="mxA" class="on">상악 전치</button><button data-v="mxP">상악 소구치</button><button data-v="mxM">상악 대구치</button>
+      <button data-v="mnA">하악 전치</button><button data-v="mnP">하악 소구치</button><button data-v="mnM">하악 대구치</button></div></div>
+    <div class="field"><label>협측 골판 (CBCT)</label><div class="opt" id="oPlate">
+      <button data-v="thick" class="on">온전 ≥1mm</button><button data-v="thin">온전 &lt;1mm</button>
+      <button data-v="d2">결손 ≤2mm</button><button data-v="d25">결손 2–5mm</button><button data-v="d5">결손 ≥5mm</button></div></div>
+    <div class="field"><label>Socket 벽</label><div class="opt" id="oWall">
+      <button data-v="4" class="on">4벽 온전</button><button data-v="n">일부 결손</button></div></div>
+    <div class="field"><label>치근단 병소</label><div class="opt" id="oPa">
+      <button data-v="no" class="on">없음</button><button data-v="yes">있음</button></div></div>
+    <div class="field"><label>상악동 병변</label><div class="opt" id="oSinus">
+      <button data-v="no" class="on">없음</button><button data-v="yes">있음 (부비동염·기왕수술)</button></div></div>
+    <div class="field"><label>삽입토크 (Ncm)</label><input type="number" id="it" min="0" max="120" placeholder="예: 40"></div>
+    <div class="field"><label>술자 숙련</label><div class="opt" id="oSkill">
+      <button data-v="std" class="on">표준</button><button data-v="exp">숙련 (정밀 GBR 가능)</button></div></div>
+    <div class="field"><label>심미 요구</label><div class="opt" id="oEsth">
+      <button data-v="hi" class="on">높음</button><button data-v="lo">낮음</button></div></div>
+    <div class="field"><label>환자 협조</label><div class="opt" id="oCoop">
+      <button data-v="good" class="on">양호</button><button data-v="poor">우려</button></div></div>
+  </div>
+</div>
+
+<div class="card"><div class="axis"><h2>축 1 — 식립 시기 (Type 1 / 2 / 3 / 4)</h2>
+  <div id="a1"></div>
+  <details><summary>ITI 4-Type 분류</summary>
+    <table><tr><th>Type</th><th>시기</th><th>조건</th></tr>
+      <tr><td>1</td><td>발치 당일</td><td>협측 plate 온전, 4벽 socket, 1차 안정성 확보 가능</td></tr>
+      <tr><td>2</td><td>4–8주</td><td>연조직 폐쇄 완료 + 협측 결손 일부 회복</td></tr>
+      <tr><td>3</td><td>12–16주</td><td>부분 골 충전 (특히 협측), CBCT 확인</td></tr>
+      <tr><td>4</td><td>≥6개월</td><td>완전 골치유 또는 치조제 보존술(ARP) 후</td></tr></table>
+  </details>
+</div></div>
+
+<div class="card"><div class="axis"><h2>축 2 — 부위 선택 (협측 plate·결손 허용 범위)</h2>
+  <div id="a2"></div>
+</div></div>
+
+<div class="card"><div class="axis"><h2>축 3 — 술식 (판막·위치·jumping gap·GBR)</h2>
+  <div id="a3"></div>
+  <div class="info"><b>핵심 3 원칙</b> — ① 협측 plate 보존 우선(판막 최소·구개측 위치) ② jumping gap ≥2mm면 골이식 ③ 협측 &lt;1mm 또는 결손이면 GBR+막</div>
+</div></div>
+
+<div class="card"><div class="axis"><h2>축 4 — 연조직 증대 (CTG·즉시임시·소켓쉴드)</h2>
+  <div id="a4"></div>
+</div></div>
+
+<div class="card"><div class="axis"><h2>축 5 — 부하 프로토콜</h2>
+  <div id="a5"></div>
+  <details><summary>부하 사다리 기준</summary>
+    <table><tr><th>부하</th><th>조건</th><th>근거</th></tr>
+      <tr><td>즉시 (≤72h)</td><td>IT ≥35 Ncm + 단일치 + <b>교합 비기능</b> + 환자 협조</td><td class="cite">Esposito 2015 RCT · Hamilton 2023 ITI SR+MA (5y 생존 97.1%)</td></tr>
+      <tr><td>조기 (1–8주)</td><td>IT 25–35 Ncm + 4–6주 ISQ ≥70 확인</td><td class="cite">Botros 2025 RCT (구치부 6주 vs 3개월, 양군 100%)</td></tr>
+      <tr><td>통상 (≥3개월)</td><td>IT &lt;25 Ncm 또는 GBR 동반·큰 협측 결손·협조 우려</td><td class="cite">ladder 축5</td></tr></table>
+  </details>
+</div></div>
+
+<div class="card">
+  <h2>오판 패턴 5 — 이 도구가 가장 크게 바꾸는 부분</h2>
+  <p class="lede">5개 중 4개가 <b>"금기로 알려졌으나 사실은 조건부 가능"</b>이다. 즉 흔한 오류는 무모함이 아니라 <b>케이스를 놓치는 쪽</b>이다.</p>
+  <div class="myth"><span class="x">✗</span> <b>"협측 plate 얇으면 Type 1 절대 금기"</b><br>
+    Qian 2023 전향 + Meijer 2024 10년 RCT가 위험관리형 Type 1 가능성을 보였다. 단 <b>술자 숙련 · 정밀 GBR · 환자 협조</b> 셋을 모두 충족할 때. <span class="cite">[확인]</span></div>
+  <div class="myth"><span class="x">✗</span> <b>"치근단 병소 있으면 무조건 ARP"</b><br>
+    Pranckeviciene 2024 SR+MA — 적극 debridement(소파·NaOCl 세척) + 술전 amoxicillin 2g + 1차 봉합 시 <b>비감염 socket과 동등</b>한 결과. <span class="cite">[확인]</span></div>
+  <div class="myth"><span class="x">✗</span> <b>"판막을 들면 협측골 흡수가 더 크다"</b><br>
+    Pitman 2023 SR+MA — flap vs flapless 차이는 술자·결손 정도에 의존한다. <b>결손 ≥2mm에서는 오히려 판막이 유리</b>하다. <span class="cite">[확인]</span></div>
+  <div class="myth"><span class="x">✗</span> <b>"즉시부하는 위험하다"</b><br>
+    Esposito 2015 · Hamilton 2023 — 적절한 환자 선택 시 동등한 결과. <b>결정인자는 1차 안정성이지 timing 자체가 아니다.</b> <span class="cite">[확인]</span></div>
+  <div class="myth"><span class="x">△</span> <b>"즉시 임시보철이 핑크 심미에 더 좋다"</b> — 과장된 쪽<br>
+    Pitman 2022는 <b>생존율 동등, 연조직 안정성 우위</b> 정도로 본다. 모든 환자에 강제할 적응증이 아니며 1차 안정성·환자 협조가 선결 조건이다. <span class="cite">[확인]</span></div>
+</div>
+
+<div class="card">
+  <h2>한국 임상 환경</h2>
+  <div class="warn"><b>아래 비용·제도 정보는 원문에서 <code>[미검증]</code>으로 표기된 항목이다.</b> 확신도 등급을 그대로 옮긴다 — 도구로 옮기면서 태그를 떼면 미검증 정보가 검증된 것처럼 승격된다.</div>
+  <ul>
+    <li>Bio-Oss + Cytoplast dPTFE가 본 진료실 기본 GBR 셋업. 1.0g + 1매 약 35–40만원 환자 부담 <span class="cite">[미검증]</span></li>
+    <li>맞춤형 치유지대주(CHA) — 국내 chairside 즉시 가공 가능(IOS + chairside milling). 비용 분기 <span class="cite">[미검증]</span></li>
+    <li>즉시 임시보철 크라운 — 보험 미적용, 환자 부담 약 30–50만원 <span class="cite">[미검증]</span></li>
+    <li>소켓쉴드(SST) — 국내 학회 공식 인정 절차 없음. <b>합병증 동의서 필수</b> <span class="cite">[미검증]</span></li>
+    <li>Type 1 단일치 IIP — 환자 동의 시 보험 적용. 다중 IIP·CTG·GBR add-on은 환자 부담 <span class="cite">[미검증]</span></li>
+  </ul>
+</div>
+
+<div class="card">
+  <h2>더 깊이 — 전문 도구</h2>
+  <div class="tools" id="tools">
+    <a class="tool" data-k="cx" href="2026-08-17_iip-complexity-calculator.html"><b>IIP 케이스 복잡도 계산기</b><span>Liu 2025 분류 기반 난이도 점수화</span></a>
+    <a class="tool" data-k="sst" href="2026-08-17_socket-shield-iip-selector.html"><b>SST vs IIP 케이스 선택기</b><span>소켓쉴드 적응·합병증 비교</span></a>
+  </div>
+</div>
+
+<footer>
+  근거: <code>wiki/overviews/immediate-implant-decision-ladder</code> 및 그 spine 논문.
+  timing Hamilton 2023·Chen 2014·Qian 2024 · site Meijer 2024·Aung 2024·Najm 2024·Pranckeviciene 2024 ·
+  술식 Staas 2026·Sanz 2017·Pitman 2023·Mustakim 2023 · 연조직 Seyssens 2021·Pitman 2022·Ogawa 2022 ·
+  부하 Esposito 2015·Botros 2025.<br>임상 판단을 대체하지 않는다.
+</footer>
+</div>
+
+<script>
+(function(){
+  var S={site:"mxA",plate:"thick",wall:"4",pa:"no",sinus:"no",skill:"std",esth:"hi",coop:"good"};
+  function optInit(id,k){var el=document.getElementById(id);
+    el.querySelectorAll("button").forEach(function(b){b.addEventListener("click",function(){
+      el.querySelectorAll("button").forEach(function(x){x.classList.remove("on");});
+      b.classList.add("on");S[k]=b.dataset.v;render();});});}
+  ["oSite:site","oPlate:plate","oWall:wall","oPa:pa","oSinus:sinus","oSkill:skill","oEsth:esth","oCoop:coop"]
+    .forEach(function(p){var a=p.split(":");optInit(a[0],a[1]);});
+  document.getElementById("it").addEventListener("input",render);
+
+  var SITE={mxA:{n:"상악 전치",arch:"mx",reg:"ant",surv:"85.4%"},
+            mxP:{n:"상악 소구치",arch:"mx",reg:"pre",surv:"100%"},
+            mxM:{n:"상악 대구치",arch:"mx",reg:"mol",surv:"95.8%"},
+            mnA:{n:"하악 전치",arch:"mn",reg:"ant",surv:"100%"},
+            mnP:{n:"하악 소구치",arch:"mn",reg:"pre",surv:"100%"},
+            mnM:{n:"하악 대구치",arch:"mn",reg:"mol",surv:"100%"}};
+
+  function box(cls,hd,body){return '<div class="res '+cls+'"><b class="hd">'+hd+'</b>'+body+'</div>';}
+
+  function render(){
+    var it=parseFloat(document.getElementById("it").value); if(!isFinite(it)) it=null;
+    var P=S.plate, si=SITE[S.site], exp=(S.skill==="exp"), coop=(S.coop==="good");
+    var H=[];
+
+    // ── 축1 timing ──
+    var type, t1h, t1c, t1b;
+    if(P==="thick"||P==="thin"){
+      type=1; t1c="r-go"; t1h="Type 1 — 발치 당일 식립";
+      t1b="협측 plate가 온전하다"+(P==="thin"?"(&lt;1mm이지만 <b>온전하면 금기가 아니다</b> — 아래 오판 패턴 1)":"")+
+          ". "+(S.wall==="4"?"4벽 socket":"<b>벽 일부 결손 — 1차 안정성 확보 여부를 먼저 확인</b>")+
+          ", 1차 안정성 ≥35 Ncm 확보 가능하고 환자 협조가 "+(coop?"양호":"<b>우려된다면 Type 2를 검토</b>")+".";
+      if(!coop){t1c="r-mid";t1h="Type 1 조건부 — 환자 협조 확인 필요";}
+    } else if(P==="d2"){
+      type=1; t1c="r-mid"; t1h="Type 1 + GBR, 또는 Type 2";
+      t1b="협측 결손 ≤2mm. Type 1 + GBR + dPTFE 막으로 진행하거나, 연조직 회복을 우선해 <b>Type 2(4–8주)</b>를 택한다.";
+    } else if(P==="d25"){
+      if(exp&&coop){type=1;t1c="r-mid";t1h="Type 1 + GBR (숙련 조건 충족)";
+        t1b="협측 결손 2–5mm. 술자 숙련 + 환자 협조가 확인돼 Type 1 + 정밀 GBR이 선택지다. 부담되면 <b>Type 3(12–16주)</b>.";}
+      else {type=3;t1c="r-mid";t1h="Type 3 — 12–16주 후 식립";
+        t1b="협측 결손 2–5mm인데 "+(!exp?"술자 숙련":"환자 협조")+" 조건이 미충족. 부분 골충전을 기다렸다가 CBCT로 확인 후 식립한다.";}
+    } else {
+      if(exp&&coop){type=1;t1c="r-mid";t1h="Type 1 + GBR + 지연 임시보철 (Meijer 2024 프로토콜)";
+        t1b="협측 결손 ≥5mm. Meijer 2024 <b>10년 RCT</b>는 IIP+GBR+지연 임시보철이 ARP 후 지연식립과 <b>10년 동등</b>함을 보였다. 다만 <b>정밀 GBR과 10년 환자 협조</b>가 진입 장벽이다 — 무비판적 적용은 피한다. <span class='cite'>Nassani 2025 EBD commentary</span>";}
+      else {type=4;t1c="r-stop";t1h="Type 4 — ARP 후 지연식립 (≥6개월)";
+        t1b="협측 결손 ≥5mm + "+(!exp?"술자 숙련":"환자 협조")+" 미충족. 치조제 보존술(ARP) 후 지연식립이 안전한 선택이다.";}
+    }
+    // 상악동 병변은 축2 경고만으로 끝내면 안 된다 — 축1이 "발치 당일"이라고
+    // 말하는 동안 축2가 "지연 우선"이라 하면 도구가 자기모순이다.
+    // Aung 2024의 실패 3건이 전부 상악동 병변 연관이었으므로 timing을 뒤집는다.
+    var sinusBlock = (si.arch==="mx" && S.sinus==="yes");
+    if(sinusBlock && type===1){
+      type = 4; t1c="r-stop"; t1h="즉시식립 보류 — 상악동 병변 우선 처리";
+      t1b="협측 조건만 보면 Type 1이 가능한 케이스지만, <b>상악동 병변이 그 판단을 덮는다.</b> "+
+          "Aung 2024에서 즉시식립 실패 3건이 <b>전부</b> 상악동 병변(부비동염·기낭화·기왕 sinus 수술) 연관이었다. "+
+          "상악동 상태를 먼저 정리하고, 필요하면 <b>거상/골이식 동반 지연식립</b>으로 간다. <span class='cite'>[확인]</span>";
+    }
+    H=[box(t1c,t1h,t1b)];
+    if(S.pa==="yes") H.push('<div class="warn"><b>치근단 병소 — 즉시식립의 금기가 아니다.</b> 적극 debridement(소파 + NaOCl 세척) + 술전 amoxicillin 2g + 1차 봉합을 동반하면 비감염 socket과 동등한 결과가 보고된다. <span class="cite">Pranckeviciene 2024 SR+MA [확인] · 장기 데이터는 아직 부족</span></div>');
+    document.getElementById("a1").innerHTML=H.join("");
+
+    // ── 축2 site ──
+    var g=[["thick","Ideal","r-go","협측 ≥1mm 온전 + 4벽 + 근단측 잔존골 ≥5mm — 즉시식립 최적"],
+           ["thin","Acceptable","r-go","협측 &lt;1mm이나 온전 — Type 1 + jumping gap 골이식 + 가능하면 CTG"],
+           ["d2","Marginal","r-mid","결손 ≤2mm — Type 1 + GBR + dPTFE 막, 또는 Type 2"],
+           ["d25","Challenging","r-mid","결손 2–5mm — 술자 숙련 시 Type 1+GBR, 아니면 Type 3–4"],
+           ["d5","Expert only","r-stop","결손 ≥5mm + 심미부 — Meijer 프로토콜. 숙련 + 협조 필수"]];
+    var row=g.filter(function(x){return x[0]===P;})[0];
+    var A2=[box(row[2],"부위 등급: "+row[1],row[3])];
+    A2.push('<div class="info"><b>'+si.n+' — 5년 생존 '+si.surv+'</b>'+
+      (S.site==="mxA"?' <b>(전 부위 중 최저)</b>':'')+
+      '. Aung 2024 단일술자 후향(49개, 평균 7.4년): 하악 전 부위·상하악 소구치 100%, 상악 대구치 95.8%, 상악 전치 85.4%. '+
+      '<span class="cite">즉시식립은 하악·소구치에서 가장 예측 가능하고 상악 전치·대구치는 케이스 선택이 엄격해야 한다.</span></div>');
+    if(si.arch==="mx"&&S.sinus==="yes")
+      A2.push('<div class="stop"><b>상악동 병변 — 즉시식립보다 지연식립 우선.</b> Aung 2024의 실패 3건이 <b>전부</b> 상악동 병변(부비동염·기낭화·기왕 sinus 수술) 연관이었다. 상악동 거상/골이식 동반 지연식립을 먼저 검토한다. <span class="cite">[확인]</span></div>');
+    if(S.site==="mxP")
+      A2.push('<div class="stop"><b>상악 소구치 — 천공 위험이 전치부와 차원이 다르다.</b> Najm 2024(CBCT 가상식립 716개): 보철주도 축 <b>84.1%</b>, 최적화한 골주도 축조차 <b>40.5%</b>에서 순측/비강/상악동 천공(전치부 기존 보고 ~5.6%). 회피에 평균 <b>18.3° 순측경사</b>가 필요하다.<br>→ <b>술전 CBCT 필수</b>이고, 보철주도 이상축은 거의 달성 불가하다고 전제해 <b>골주도 + 각형(ASC/custom angled) 보철</b>로 계획한다. <span class="cite">[확인]</span></div>');
+    if(si.reg==="ant")
+      A2.push('<div class="info"><b>전치부 — 식립 전 SRP class 분류.</b> 치근 시상위치(Sagittal Root Position) 분포는 한국인 포함 다인종 코호트에서 <b>Class I(협측 근접)이 다수</b>로 일관된다(Kan 2011 원분류, Kong 2020 한국인). <b>Class I이라도 협측 천공 위험이 높으면 구개측 궤도로 식립</b>한다. <span class="cite">[확인]</span></div>');
+    document.getElementById("a2").innerHTML=A2.join("");
+
+    // ── 축3 술식 ──
+    var A3=[];
+    if(type===1){
+      var flap = (P==="d2"||P==="d25"||P==="d5");
+      A3.push(box(flap?"r-mid":"r-go", flap?"판막 거상 + GBR":"무피판 + 구개측 위치",
+        (flap? "결손이 2mm 이상이므로 <b>판막을 든다</b> — Pitman 2023 SR+MA에서 결손 ≥2mm는 판막이 유리하다. GBR + dPTFE 막 + 1차 봉합 또는 open healing."
+             : "무피판으로 협측 plate를 보존하고, <b>협측에서 ≥2mm 구개측</b>에 위치시킨다 — Staas 2026 3년 CBCT에서 협측 crest 보존 효과. ")+
+        "<br><b>Jumping gap ≥2mm면 이종골 충전</b> — Sanz 2017 RCT: 협측 흡수 −0.46 vs −0.84mm. Seyssens 2022 SR+MA(15 RCT, n=577)도 경조직 보존 유의."+
+        (P==="thin"?"<br>협측 &lt;1mm이므로 <b>얇은 contour GBR 층</b>을 추가한다.":"")));
+      if(si.reg==="mol"){
+        A3.push('<div class="info"><b>구치부 — 치근간 중격(inter-radicular septum)에 정착</b>시켜 1차 안정성을 얻는다. 중격 골량이 부족하면 골밀도화(Osseodensification)로 중격을 확장·치밀화한다.</div>');
+        if(S.site==="mxM")
+          A3.push('<div class="info"><b>상악 대구치 — ABH × septum 3×3 매트릭스</b> <span class="cite">(Mustakim 2023, 148개 후향, 생존 93.1%)</span><br>'+
+            '<b>수직축 ABH</b>(치조정→상악동저): A(&gt;8mm, 거상 불필요) / B(6–8mm, 긴 임플란트 위해 socket lift) / C(&lt;6mm, 거상 필수)<br>'+
+            '<b>측방축 septum</b>: I(임플란트 지지, 골이식 불필요) / II(약함, 골이식 필요) / III(부재 — <b>wide/ultra-wide로 socket 벽 engage</b>)<br>'+
+            '기술 앵커: 무피판 무외상 발치 + diamond bur 치근분리 + sub-crestal 식립 + 6개월 re-entry.</div>');
+      }
+      if(it!==null&&it<25)
+        A3.push('<div class="warn"><b>낮은 1차 안정성('+it+' Ncm)은 절대 금기가 아니다.</b> Jang 2025 후향(IT&lt;10 Ncm·초기 ISQ&lt;55, 6개는 회전): 1-step 축경 드릴 + 거의 전례 골이식 + 치유기간 연장(6–14주)으로 ISQ 42.2→68.7, 평균 65개월 <b>생존 100%</b>. <b>ISQ 절대 초기값보다 상승 궤적이 임상 신호</b>다. 단 부하는 ISQ가 ~70에 도달할 때까지 보류. <span class="cite">[확인+미검증]</span></div>');
+      A3.push('<div class="warn"><b>축경 드릴링(undersized drilling)은 기대만큼 듣지 않는다.</b> Sierra-Rebolledo 2021 RCT(상악 전치 즉시 tapered 30개): IT는 약간 올랐으나(41.4 vs 38.4, p=0.654) <b>RFA/ISQ는 오히려 통상 드릴링군이 전 시점 우위</b>. 높은 IT가 골 압박·발열을 유발해 torque가 올라도 RFA 안정성은 깎일 수 있다 — <b>IT와 ISQ는 호환 가능한 surrogate가 아니다.</b> <span class="cite">[확인]</span></div>');
+    } else {
+      A3.push(box("r-info","Type "+type+" — 이 축은 식립 시점에 다시 판단",
+        "지금은 발치 당일 식립이 아니므로 술식 결정은 실제 식립 시점의 CBCT 소견으로 다시 세운다. 그때 협측 상태가 바뀌어 있으면 축1부터 다시 통과시킨다."));
+    }
+    document.getElementById("a3").innerHTML=A3.join("");
+
+    // ── 축4 연조직 ──
+    var A4=[], provOK = (type===1 && it!==null && it>=35 && coop && P!=="d25" && P!=="d5");
+    if(type===1 && S.esth==="hi"){
+      A4.push(box("r-go","심미부 1차 선택 — CTG + 즉시 임시보철",
+        "결합조직이식(CTG, 구개 또는 결절 채취)이 표준이다 — Seyssens 2021 SR+MA(8편 n=409): 협측 midfacial 치은퇴축 유의 감소. Azadi 2025 Bayesian NMA(21 RCT)에서도 <b>CTG만이</b> 연조직 두께를 유의하게 늘렸다(SUCRA 우위)."));
+    } else if(type===1){
+      A4.push(box("r-info","심미 요구가 낮은 부위","CTG는 필수가 아니다. jumping gap 골이식과 emergence profile 조형에 집중한다."));
+    }
+    if(type===1){
+      A4.push(provOK
+        ? '<div class="info"><b>즉시 임시보철 가능</b> — IT '+it+' Ncm ≥35, 협측 plate 조건 충족, 환자 협조 양호. 소프트푸드 6주 안내. <span class="cite">Pitman 2022: 생존 동등·연조직 안정성 우위</span></div>'
+        : '<div class="warn"><b>즉시 임시보철 조건 미충족</b>'+
+          (it===null?' (삽입토크 미입력)':(it<35?' (IT '+it+' Ncm &lt; 35)':''))+
+          (!coop?' (환자 협조 우려)':'')+((P==="d25"||P==="d5")?' (큰 협측 결손)':'')+
+          ' → <b>맞춤형 치유지대주(CHA)</b> 또는 <b>socket sealing abutment(SSA)</b>로 emergence profile을 조형한다.</div>');
+      if(si.reg!=="ant"){
+        A4.push('<div class="info"><b>소켓쉴드(SST)는 이 부위의 술식이 아니다.</b> SST 근거는 <b>심미부(전치)</b> 협측 plate 보존에서 나왔다. '+si.n+'에서는 해당하지 않는다.</div>');
+      } else A4.push(exp
+        ? '<div class="warn"><b>소켓쉴드(SST) — 숙련자 한정 선택지.</b> 합병증 9.5%, 합병증 없는 생존 90.5%, 근거수준 낮음(Ogawa 2022, 20편 288명). Gharpure 2022는 협측골 MD −0.5mm 우위·합병증 5–17%. <b>합병증 사전 동의 필수</b>이며 국내 학회 공식 인정 절차는 없다. <span class="cite">[확인]</span></div>'
+        : '<div class="stop"><b>소켓쉴드(SST)는 이 케이스에서 권하지 않는다</b> — 숙련자 한정 술식이다. 합병증 9.5%(Ogawa 2022). 협측 보존이 critical하고 다른 선택지가 어려운 경우에만, 숙련 조건에서 고려한다.</div>');
+    }
+    document.getElementById("a4").innerHTML=A4.join("");
+
+    // ── 축5 부하 ──
+    var A5=[];
+    if(type!==1){
+      A5.push(box("r-info","Type "+type+" — 부하는 식립 후 판단","지연식립이므로 부하 결정은 실제 식립 시 1차 안정성으로 다시 세운다."));
+    } else if(it===null){
+      A5.push(box("r-mid","삽입토크를 입력하세요","부하 결정의 1차 변수는 timing이 아니라 <b>1차 안정성</b>이다."));
+    } else if(it>=35){
+      A5.push(box("r-go","즉시부하 (≤72시간) 가능",
+        "IT "+it+" Ncm ≥35. 단일치 + <b>교합 접촉 제거(비기능)</b> + 환자 협조가 전제다."+
+        (S.site==="mxA"?" 상악 전치 단일치는 즉시 임시보철이 표준(Type 1A IIPP) — Hamilton 2023 ITI SR+MA 5년 생존 97.1%.":"")+
+        (si.reg==="mol"?" 구치부는 <b>조기부하(6주)</b>도 동등한 선택지다 — Botros 2025 RCT 양군 100%.":"")+
+        (!coop?" <b>다만 환자 협조가 우려되므로 조기부하로 낮추는 것을 검토한다.</b>":"")));
+    } else if(it>=25){
+      A5.push(box("r-mid","조기부하 (1–8주)",
+        "IT "+it+" Ncm은 25–35 구간. <b>4–6주에 ISQ ≥70</b>을 확인하고 부하한다."+
+        (si.reg==="mol"?" 구치부 6주 조기부하는 Botros 2025 RCT에서 3개월 통상부하와 동등(양군 100%, ISQ 차이 NS).":"")));
+    } else {
+      A5.push(box("r-stop","통상부하 (≥3개월)",
+        "IT "+it+" Ncm &lt; 25. 통상부하로 가고, ISQ 궤적이 ~70에 도달할 때까지 부하를 보류한다."));
+    }
+    A5.push('<div class="myth"><span class="x">✗</span> <b>"즉시부하는 위험하다"</b> — 결정인자는 <b>1차 안정성</b>이지 timing 자체가 아니다. Esposito 2015 실용주의 다기관 RCT: 전치부 즉시부하 vs 4개월 치유 → 1년 실패율·심미 동등(≥35 Ncm 전제). <span class="cite">[확인]</span></div>');
+    document.getElementById("a5").innerHTML=A5.join("");
+
+    // ── 도구 강조 ──
+    var hot=[];
+    if(P==="d25"||P==="d5"||S.site==="mxP"||si.reg==="mol") hot.push("cx");
+    if(exp&&S.esth==="hi"&&si.reg==="ant"&&(P==="thin"||P==="thick")) hot.push("sst");
+    document.querySelectorAll("#tools .tool").forEach(function(t){
+      t.classList.toggle("hot",hot.indexOf(t.dataset.k)>=0);});
+  }
+  render();
+})();
+</script>
+</body>
+</html>
