@@ -156,6 +156,9 @@ AUDITS = [
     ("retraction-audit.py",              [],   False),
     ("deviation-audit.py",               [],   False),
     ("overview-volatility-audit.py",     [],   False),
+    # 로컬 감사가 전부 초록불인데 공개 배포만 죽어 있던 2026-08-25 사고 이후 추가.
+    # gh 없거나 미인증/오프라인이면 조용히 SKIP — 신호이지 gate가 아니다.
+    ("deploy-health.py",                 [],   False),
 ]
 
 
