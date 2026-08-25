@@ -1,0 +1,32 @@
+SOURCE: PubMed structured abstract (abstract-only; full text not retrieved — no PMC record)
+PMID: 26077930 | DOI: 10.1111/clr.12630
+Clin Oral Implants Res. 2015;26 Suppl 11:57-63.  (EAO consensus conference)
+
+EAO consensus conference: economic evaluation of implant-supported prostheses.
+Beikler T, Flemmig TF.
+
+OBJECTIVES: There are various alternatives for the management of oral conditions that may lead to or
+already have led to partial or full edentulism. Economic evaluations measure the efficiency of
+alternative healthcare interventions and provide useful information for decision-making and the
+allocation of scarce resources.
+MATERIAL AND METHODS: Current English literature dealing with "cost-effectiveness" of dental implant
+therapy versus different alternative treatment modalities (complete and fixed partial dentures, root
+canal treatment, periodontal treatment) included in this narrative review. Due to high heterogeneity
+within the literature, a meta-analysis could NOT be conducted.
+RESULTS:
+- Central incisors with irreversible pulpitis and coronal lesions: root canal treatment was the most
+  cost-effective INITIAL treatment option.
+- When initial root canal treatment failed: orthograde retreatment was most cost-effective.
+- When root canal retreatment failed: extraction and replacement with single implant-supported crowns
+  were MORE cost-effective compared to fixed or removable partial dentures.
+- Periodontitis in molars with Class I furcation invasion: non-surgical periodontal therapy was more
+  effective and cost less than implant-supported single crowns.
+- Replacement of single missing teeth: two evaluations indicated implant-supported single crowns
+  provided better outcomes (greater quality-adjusted tooth years or survival rates) at LOWER costs
+  compared to fixed partial prostheses. Another economic evaluation found implant-supported crowns
+  cost MORE but provided greater survival rates compared to fixed partial dentures.
+- Restoration of edentulous mandibles: two evaluations indicated overdentures retained by two or four
+  implants improved oral health-related quality of life outcomes, but cost more than complete dentures.
+CONCLUSIONS: To better assess the efficiency of implant-supported prostheses in various clinical
+conditions, more economic evaluations are needed that follow well-established methodologies in health
+economics.
