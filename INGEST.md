@@ -90,9 +90,11 @@ Before copying anything, run two checks. Skipping these is how the wiki accumula
 
    **exit 1이면 STOP** — 신규 페이지를 만들지 말고 출력된 기존 stem을 갱신한다. 팬아웃 서브에이전트는 `skip:<reason>`을 반환한다. exit 0이면 진행.
 
-   무엇을 보는가: (a) DOI 정규화 후 정확일치 (`https://doi.org/` prefix·대소문자·후행 구두점 차이 흡수, `unknown`·`n/a` 같은 placeholder는 무효 처리), (b) **제목 정규화 후 정확일치**, (c) **제목 토큰 Jaccard ≥ 0.75 근사일치**. 정규화 함수는 `doi-duplicate-check.py`에서 **import해서 쓴다** — 복제하지 않는다(두 벌은 반드시 drift한다).
+   **Tier 1(exit 1, STOP)** — (a) `--pdf`를 준 경우 `papers/` 안에 **바이트 동일** PDF가 있는지 (크기로 먼저 거르고 일치분만 md5 — 3.5GB 전수 해싱 안 함). 루트 재스테이징은 대개 바이트 동일이라 제목·DOI 추출이 실패해도 이 경로가 잡는다. (b) DOI 정규화 후 정확일치 (`https://doi.org/` prefix·대소문자·후행 구두점 차이 흡수, `unknown`·`n/a` 같은 placeholder는 무효 처리), (c) **제목 정규화 후 정확일치**, (d) **제목 토큰 Jaccard ≥ 0.75**. **Tier 2(exit 0, 검토)** — 제목 **포함계수 ≥ 0.90**(부제 절단 추정). Tier 2를 STOP으로 쓰면 안 된다: 제목 앞부분이 통째로 공통인 형제 문서군(ADA 지침 본문 vs 그 Chairside Guide 2종)이 서로를 100%로 문다 — 2026-08-25 회귀 실측. 논쟁 레이더의 Tier1/Tier2와 같은 구조다. 정규화 함수는 `doi-duplicate-check.py`에서 **import해서 쓴다** — 복제하지 않는다(두 벌은 반드시 drift한다).
 
    **왜 grep이 샜나 (2026-08-25).** Step 0은 DOI grep이 전부였고 no-DOI 경로는 "title + first-author grep"이라는 **문장으로만** 있었다. 실제 grep은 표기 차이(대소문자·문장부호·괄호 병기·하이픈)에 그대로 깨진다. 결과가 `logs/ingest-deviations.md`에 duplicate-skip 22건 + duplicate-distinct 3건으로 쌓였고, 로그의 근본원인 문구가 그대로다 — *"DOI conflict/cross-stem duplicate: ... (doi was null, missed by Step0 grep)"*. `doi-duplicate-check.py`에는 제목 정규화 fallback이 **이미 있었지만 사후 일간 감사에만 있고 인제스트 시점에는 없었다.** 같은 로직을 앞단으로 당긴 것이 이 스크립트다.
+
+   **포함계수가 필요한 이유(첫 실사용에서 발견, 2026-08-25).** RP136 방사선방호 지침 PDF는 1면에서 뽑은 제목이 `european guidelines on radiation protection in dental radiology`(6토큰)인데 저장 제목엔 부제 `the safe use of radiographs in dental practice`가 붙어 10토큰이었다 → Jaccard 6/10 = 0.60으로 **놓쳤다**. 포함계수는 6/6 = 1.00. 다만 그 건의 확정 판별은 결국 Tier 1의 바이트 대조가 했다.
 
    오탐 걱정은 실측으로 눌렀다: 제목이 극히 비슷한 형제 3편(`ada-2024-chairside-guide-adult-extraction` / `-pulpitis` / `carrasco-labra-2024-...-guideline`)을 교차 입력했을 때 각각 **자기 하나씩만** 맞았다(2026-08-25). 임계값 0.75는 부제 유무·전치사 차이는 흡수하고 다른 논문은 거른다.
 
