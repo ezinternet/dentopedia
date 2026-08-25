@@ -8,7 +8,7 @@ A personal knowledge base of dental research papers, following [Karpathy's LLM W
 |---|---|
 | `INGEST.md` | 논문을 위키에 추가 (`인제스트`, `Add this paper`, PDF 경로). Step 0–5, 필드 정의(`evidence_level:`/`superseded_by:`/`relations:`), 페이지 템플릿·세줄요약 규칙, 파일명 규칙, qmd 임베딩 드레인 |
 | `OPERATIONS.md` | `agenda/`·`slides/`·`interactives/`·`peer-review/`·`note-meeting/`에 뭔가를 만들 때. 라우팅·파일명·frontmatter cross-link·agenda 워크플로·interactive 도구 freshness |
-| `AUDITS.md` | 감사 추가/변경, `logs/` 해석. 20개 감사 표·compounding 지표 |
+| `AUDITS.md` | 감사 추가/변경, `logs/` 해석. 21개 감사 표·compounding 지표 |
 | `wiki/_meta/categories.md` | 카테고리 선택. 60여 개 목록·서브카테고리 분기 (**여기 이 파일은 목록을 의도적으로 복제하지 않는다** — 두 벌은 반드시 drift한다) |
 | `SOP.md` | 사람이 읽는 운영 절차 |
 
@@ -97,7 +97,7 @@ Collections: `wiki/`, `sources/`, `agenda/`, `note-meeting/` (markdown only; `pa
 ## Daily Audit → see `AUDITS.md`
 
 ```bash
-python3 scripts/daily-audit.py     # 20 audits → logs/
+python3 scripts/daily-audit.py     # 21 audits → logs/
 ```
 
 3 classic + 1 rationale은 error(block), 나머지 16은 **signal — 절대 block하지 않는다.** 감사는 거울이다: ingest 압력은 gate가 아니라 가시성으로 self-correct한다 (gate는 임상 워크플로에서 번아웃·회피를 유발). 개별 감사 설명·compounding 지표는 `AUDITS.md`.
