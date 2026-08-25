@@ -11,6 +11,8 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/almeida-2019-efficacy-corticosteroids
 pdf_filename: almeida-2019-efficacy-corticosteroids-versus-placebo-impacted.pdf
 source_collection: external
 full_text: false
+superseded_by: miroshnychenko-2023-corticosteroids-third-molar-acute-pain-sr-ma
+superseded_scope: partial
 tags: [corticosteroid, dexamethasone, placebo, third-molar, postoperative-pain, trismus, oedema, meta-analysis, systematic-review]
 relations:
   - type: reinforces
@@ -19,6 +21,9 @@ relations:
     target: satpathi-2024-corticosteroids-dentistry-review
 synthesized_in: overviews/drug-analgesics-postop-pain-overview
 ---
+
+> [!note] Partially superseded (pain axis) → [[miroshnychenko-2023-corticosteroids-third-molar-acute-pain-sr-ma]]
+> A larger, GRADE-assessed, full-text SR+MA on the same corticosteroid-vs-placebo question (40 RCTs vs this page's 17; n=1,555 at 24 h vs 730 overall) found the analgesic benefit to be **trivial** — 8.79 points lower at 6 h and 8.89 at 24 h on a 0–100 VAS, both under the pre-specified 10-point minimal important difference — where this page reports a significant MD of −17.38. Miroshnychenko 2023 was commissioned to inform the ADA 2024 CPG, which now suggests **against** corticosteroids as an analgesic add-on (Rec 1.5). Supersession is **partial, axis-limited, and does not settle the clinical question**: this page's oedema and trismus findings and its preoperative-timing result stand (Miroshnychenko excluded inflammatory-complication outcomes by design), and on the pain axis itself the larger NMA [[canellas-2022-corticosteroids-third-molar-nma]] (61 RCTs, n=3,561) reports dexamethasone 8 mg submucosal cutting pain 30.95 VAS units on day 1 — the disagreement tracks measurement window (6–24 h vs days 1–2) and binary-vs-agent-resolved pooling. What is superseded is *this synthesis* — same binary corticosteroid-vs-placebo question, 17 abstract-only studies against 40 RCTs with GRADE. Prefer Miroshnychenko 2023 over this page; read both against Canellas 2022 before deciding. (set 2026-08-25)
 
 abstract-only — publisher landing/abstract page, full text not retrieved
 
