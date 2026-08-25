@@ -1,0 +1,25 @@
+SOURCE: PubMed structured abstract (abstract-only; full text not retrieved — no PMC record)
+PMID: 36280004 | DOI: 10.1016/j.jdent.2022.104351
+J Dent. 2022;127:104351.  PROSPERO CRD42022328606
+
+Oral health-related quality of life (OHRQoL) after rehabilitation with removable partial dentures
+(RPDs): A systematic review and meta-analysis.
+Choong EKM, Shu X, Leung KCM, Lo ECM.
+
+OBJECTIVES: Summarise evidence on change in OHRQoL before and after rehabilitation with RPDs amongst
+partially edentulous adults.
+DATA/SOURCES: MEDLINE, EMBASE and CENTRAL up to March 29, 2022. Studies assessing OHRQoL amongst
+patients aged >=18 years, before and after rehabilitation with RPDs of any type and design.
+Quality evaluated using Cochrane risk of bias tools. Random-effects meta-analysis.
+STUDY SELECTION: Thirteen studies eligible; eight included in meta-analysis. Moderate to serious
+risk of bias.
+RESULTS:
+- OHIP-14 at 3 months: 222 participants, MD -12.0 (95% CI -16.1 to -7.9), p<0.001. VERY LOW certainty.
+- OHIP-14 at 6 months: 101 participants, MD -10.5 (95% CI -16.4 to -4.6), p<0.001. VERY LOW certainty.
+- OHIP-14 at 12 months: 62 participants, MD -12.7 (95% CI -26.1 to 0.6), p=0.06 — NOT statistically
+  significant.
+- OHIP-49 at 12 months: 87 participants, MD -34.8 (95% CI -41.9 to -27.7), p<0.001. LOW certainty.
+CONCLUSIONS: Based on limited evidence, RPD rehabilitation appears to improve OHRQoL in the short term
+up to 6 months, with a very low level of certainty. The long-term effect after 12 months is
+inconclusive. There is currently insufficient evidence on the effect of RPD treatment on OHRQoL.
+Highlights the need for more and better quality studies.
