@@ -1,0 +1,321 @@
+<!--
+---
+title: "치주 Stage·Grade 판정 + 치료강도 결정 도구"
+type: interactive
+date: 2026-08-26
+status: done
+category: periodontics
+source_wiki:
+  - wiki/overviews/periodontics-treatment-ladder.md
+  - wiki/periodontics/papapanou-2018-periodontitis-classification-consensus-2017.md
+  - wiki/periodontics/kwon-2021-current-concepts-management-periodontitis.md
+  - wiki/periodontics/sanz-2020-treatment-stage-i-iii-periodontitis-efp.md
+  - wiki/periodontics/herrera-2022-treatment-stage-iv-periodontitis-efp.md
+  - wiki/periodontics/non-surgical-instrumentation/smiley-2015-nonsurgical-periodontitis-srp-guideline.md
+agenda: agenda/2026-08-26_periodontics-staging-treatment-tool.md
+---
+-->
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>치주 Stage·Grade 판정 + 치료강도 결정 도구</title>
+<style>
+:root{--bg:#F2F3EF;--surface:#FFFFFF;--text:#1A2030;--muted:#5A6472;--line:#DDE0D8;
+ --accent:#1E6B52;--accent-soft:#E4F0EA;--warn-bg:#FDF3E4;--warn-line:#C77E1E;
+ --stop-bg:#FBEAEA;--stop-line:#B03A3A;--info-bg:#E8F0FA;--info-line:#2F5FA5;
+ --gap-bg:#F1F0F5;--gap-line:#7A7A8C}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans KR",sans-serif;
+ background:var(--bg);color:var(--text);line-height:1.65;font-size:15px;padding-bottom:60px}
+.wrap{max-width:1060px;margin:0 auto;padding:18px}
+header.hero{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:20px 22px;margin-bottom:16px}
+header.hero h1{font-size:21px;margin-bottom:6px}
+header.hero .sub{color:var(--muted);font-size:13px}
+.pillrow{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px}
+.pill{font-size:12px;background:var(--accent-soft);color:var(--accent);border-radius:999px;padding:2px 10px;font-weight:600}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:18px 20px;margin-bottom:14px}
+.card h2{font-size:17px;margin-bottom:6px}.card h3{font-size:15px;margin:14px 0 6px}
+.axis{border-left:5px solid var(--accent);padding-left:14px}
+.lede{color:var(--muted);font-size:13.5px;margin-bottom:10px}
+.hidden{display:none !important}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(235px,1fr));gap:12px}
+.field label{display:block;font-weight:700;font-size:13.5px;margin-bottom:5px}
+.opt{display:flex;gap:6px;flex-wrap:wrap}
+.opt button{border:1px solid var(--line);background:var(--bg);border-radius:9px;padding:7px 11px;
+ cursor:pointer;font-size:13px;font-weight:600;color:var(--text);font-family:inherit}
+.opt button.on{background:var(--accent-soft);border-color:var(--accent);color:var(--accent)}
+input[type=number]{width:120px;border:1px solid var(--line);border-radius:9px;padding:8px 10px;
+ font-size:15px;background:var(--surface);color:var(--text);font-family:inherit}
+.chk label{display:inline-block;border:1px solid var(--line);border-radius:9px;padding:6px 11px;margin:3px 4px 3px 0;
+ cursor:pointer;background:var(--bg);font-size:13px;font-weight:600}
+.chk input{margin-right:6px;accent-color:var(--accent)}
+.sg{display:flex;gap:12px;flex-wrap:wrap;margin:10px 0}
+.sgbox{flex:1 1 180px;border:2px solid var(--accent);border-radius:12px;padding:13px 15px;background:var(--accent-soft)}
+.sgbox .k{font-size:12px;color:var(--muted)}
+.sgbox .v{font-size:26px;font-weight:800;line-height:1.2;color:var(--accent)}
+.sgbox .n{font-size:12px;color:var(--muted);margin-top:3px}
+.res{border-radius:11px;padding:13px 15px;margin:9px 0;border:2px solid}
+.r-go{background:var(--accent-soft);border-color:var(--accent)}
+.r-mid{background:var(--warn-bg);border-color:var(--warn-line)}
+.r-stop{background:var(--stop-bg);border-color:var(--stop-line)}
+.r-info{background:var(--info-bg);border-color:var(--info-line)}
+.res b.hd{display:block;font-size:16px;margin-bottom:4px}
+.gap{background:var(--gap-bg);border:1px dashed var(--gap-line);border-radius:11px;padding:12px 14px;margin:10px 0;font-size:13.5px}
+.gap b{color:var(--gap-line)}
+.warn{background:var(--warn-bg);border:1px solid var(--warn-line);border-radius:11px;padding:11px 13px;margin:9px 0}
+.info{background:var(--info-bg);border:1px solid var(--info-line);border-radius:11px;padding:11px 13px;margin:9px 0}
+.stop{background:var(--stop-bg);border:1px solid var(--stop-line);border-radius:11px;padding:11px 13px;margin:9px 0}
+table{width:100%;border-collapse:collapse;margin:9px 0;font-size:13.5px}
+th{background:var(--bg);text-align:left}th,td{border:1px solid var(--line);padding:7px 10px;vertical-align:top}
+ul,ol{padding-left:22px;margin:6px 0}li{margin:4px 0}
+.small{font-size:12.5px;color:var(--muted)}.cite{font-size:11.5px;color:var(--muted)}
+.tools{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:11px;margin-top:8px}
+.tool{border:1px solid var(--line);border-left:5px solid var(--info-line);border-radius:11px;padding:12px 14px;
+ background:var(--surface);text-decoration:none;color:inherit;display:block}
+.tool:hover{background:var(--bg)}
+.tool b{display:block;font-size:14px;margin-bottom:3px}.tool span{font-size:12.5px;color:var(--muted)}
+.tool.hot{border-left-color:var(--accent);background:var(--accent-soft)}
+details{border:1px solid var(--line);border-radius:11px;padding:10px 14px;margin:8px 0;background:var(--surface)}
+summary{cursor:pointer;font-weight:700}
+footer{text-align:center;color:var(--muted);font-size:12px;margin-top:24px}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header class="hero">
+  <h1>치주 Stage·Grade 판정 + 치료강도 결정</h1>
+  <div class="sub">2017 분류 → 치료 강도 → 단계별 사다리 → SPT 주기. <code>wiki/overviews/periodontics-treatment-ladder</code>의 체어사이드 입구.</div>
+  <div class="pillrow"><span class="pill">Stage·Grade</span><span class="pill">비외과</span><span class="pill">외과·재생</span>
+    <span class="pill">SPT 주기</span><span class="pill">Thread A·B·C</span></div>
+</header>
+
+<div class="card">
+  <h2>입력</h2>
+  <div class="grid">
+    <div class="field"><label>최대 임상부착소실 CAL (mm)</label><input type="number" id="cal" min="0" max="20" step="0.5" placeholder="예: 5"></div>
+    <div class="field"><label>치주염 기인 발치로 <b>저작기능 장애</b></label><div class="opt" id="oMast">
+      <button data-v="no" class="on">없음</button><button data-v="yes">있음</button></div></div>
+    <div class="field"><label>흡연</label><div class="opt" id="oSmoke">
+      <button data-v="none" class="on">비흡연</button><button data-v="lt10">&lt;10개비/일</button><button data-v="ge10">≥10개비/일</button></div></div>
+    <div class="field"><label>HbA1c</label><div class="opt" id="oHba">
+      <button data-v="none" class="on">비당뇨</button><button data-v="lt7">&lt;7.0%</button><button data-v="ge7">≥7.0%</button></div></div>
+    <div class="field" style="grid-column:1/-1"><label>복잡성 인자 (해당 전부)</label><div class="chk">
+      <label><input type="checkbox" class="cx" data-v="fur">치근이개부 II–III급</label>
+      <label><input type="checkbox" class="cx" data-v="mob">동요도</label>
+      <label><input type="checkbox" class="cx" data-v="vert">수직 골소실</label>
+      <label><input type="checkbox" class="cx" data-v="ridge">치조제 결손</label></div></div>
+    <div class="field"><label>재평가 후 잔존 PPD ≥6mm</label><div class="opt" id="oResid">
+      <button data-v="na" class="on">아직 재평가 전</button><button data-v="no">없음</button><button data-v="yes">있음</button></div></div>
+    <div class="field"><label>추가 시나리오</label><div class="opt" id="oThread">
+      <button data-v="none" class="on">해당 없음</button><button data-v="sys">전신질환 동반</button>
+      <button data-v="acute">급성 병소</button><button data-v="ep">치수치주 의심</button>
+      <button data-v="muco">치주성형 검토</button><button data-v="imp">임플란트 계획</button></div></div>
+  </div>
+</div>
+
+<div class="card"><div class="axis"><h2>① Stage · Grade 제안</h2>
+  <div class="sg">
+    <div class="sgbox"><div class="k">Stage (제안)</div><div class="v" id="vStage">–</div><div class="n" id="nStage">CAL 입력 필요</div></div>
+    <div class="sgbox"><div class="k">Grade (제안)</div><div class="v" id="vGrade">–</div><div class="n" id="nGrade">기본 B</div></div>
+  </div>
+  <div class="gap"><b>⚠ 이 도구는 Stage를 확정하지 않는다 — 제안만 한다.</b><br>
+    위키가 보유한 판정축은 <b>CAL 기준</b>(I: 1–2mm · II: 3–4mm · III/IV: ≥5mm + 복잡성)과
+    <b>Grade 상향 인자</b>(흡연 ≥10개비/일 · HbA1c ≥7.0%)뿐이다 <span class="cite">Kwon 2021 · Papapanou 2018</span>.<br>
+    아래 세 축은 <b>위키 미보유</b>라 이 도구가 계산하지 않는다 — <b>술자가 직접 판정</b>한다:
+    <b>① 방사선 골소실 %</b> · <b>② 치주염 기인 치아상실 개수</b> · <b>③ Grade A/B/C 진행속도의 수치 정의</b>.
+    최종 Stage/Grade는 이 세 축을 합쳐 확정하고, 그 결과가 아래 제안과 다르면 <b>술자 판정을 따른다</b>.</div>
+  <div id="sgNote"></div>
+</div></div>
+
+<div class="card"><div class="axis"><h2>② 치료 강도 · SPT 주기</h2><div id="intensity"></div></div></div>
+<div class="card"><div class="axis"><h2>③ 비외과 치료 (SRP ± 보조)</h2><div id="nonsurg"></div></div></div>
+<div class="card"><div class="axis"><h2>④ 외과 · 재생</h2><div id="surg"></div></div></div>
+<div class="card hidden" id="cardThread"><div class="axis"><h2>⑤ 시나리오</h2><div id="thread"></div></div></div>
+
+<div class="card">
+  <h2>초치조상부 조직부착(STA) — 수복 계획 시</h2>
+  <div class="stop"><b>"생물학적 폭경 = 2mm" 일률 적용은 금지다.</b> STA는 고정된 ~2mm가 아니라 <b>치아 위치·치주표현형에 따라 크게 달라진다</b> — 하악·전치·박형 표현형일수록 더 크게 예상한다.</div>
+  <ol>
+    <li>수복 변연이 STA를 침범할 것으로 예상 → <b>부위별 실제 STA를 추정</b>한 뒤 침범 여부를 재평가</li>
+    <li>침범 확인 + 인접치 골 보존 원함 + 치주 건강 정상 → <b>교정적 정출</b>(fiberotomy 병행) 우선. 인접치 무침습·crown-to-root 개선·심미 우위, 대신 기간 연장</li>
+    <li>다수치·인접치 골형태 조정 필요, 또는 정출 금기(활동성 치주염·유착·수직치근파절·짧은 치근) → <b>절제형 크라운연장</b>(APF ± 골삭제)</li>
+    <li>임플란트 식립부 수직 골결손 → 같은 정출 기법이나 목표는 반대 — <b>fiberotomy 생략</b>, PDL 장력으로 치조골 상방 이동 유도</li>
+    <li><b>활동성 치주염 동반 → 정출 절대 금기</b> (치은퇴축 + 부착소실만 유발). 먼저 치주 안정화 후 재평가</li>
+  </ol>
+</div>
+
+<div class="card">
+  <h2>더 깊이 — 전문 도구</h2>
+  <p class="lede">치주는 이미 전용 도구가 여럿이다. 이 도구는 <b>입구</b>이고, 각 축은 아래로 넘긴다.</p>
+  <div class="tools" id="tools">
+    <a class="tool" data-k="muco" href="2026-06-14_apf-fgg-ctg-mucogingival-selection.html"><b>APF·FGG·CTG 치주성형 선택기</b><span>축6 — 각화치은·치근피개 술식 선택</span></a>
+    <a class="tool" data-k="gbt" href="2026-06-21_professional-biofilm-management-decision-tool.html"><b>전문가 바이오필름 관리 결정 도구</b><span>SRP vs GBT·에어폴리싱, 분말·치질 보존</span></a>
+    <a class="tool" data-k="ct" href="2026-07-03_cemental-tear-decision-tools.html"><b>시멘트질 열개 결정 도구</b><span>축6c — 진단·제거·예후</span></a>
+    <a class="tool" data-k="gcf" href="2026-07-03_gcf-biomarker-matrix.html"><b>치은열구액 바이오마커 매트릭스</b><span>활성/휴지기 판별 보조</span></a>
+  </div>
+  <div class="info" style="margin-top:10px"><b>임플란트 주위염(축7)</b>은 이 도구에서 다루지 않는다 — 오버뷰가 <code>implants-clinical-decision-ladder</code> 축4에서 단일하게 다루도록 위임했다.</div>
+</div>
+
+<footer>
+  근거: <code>wiki/overviews/periodontics-treatment-ladder</code> 및 그 spine 논문.
+  분류 Papapanou 2018·Kwon 2021 · 비외과 Sanz 2020 EFP S3·Smiley 2015 · Stage IV Herrera 2022 ·
+  SPT Roccuzzo 2022·Cho 2018 · 전신 Simpson 2022·Dolcezza 2024.<br>임상 판단을 대체하지 않는다.
+</footer>
+</div>
+
+<script>
+(function(){
+  var S={mast:"no",smoke:"none",hba:"none",resid:"na",thread:"none"};
+  function optInit(id,k){var el=document.getElementById(id);
+    el.querySelectorAll("button").forEach(function(b){b.addEventListener("click",function(){
+      el.querySelectorAll("button").forEach(function(x){x.classList.remove("on");});
+      b.classList.add("on");S[k]=b.dataset.v;render();});});}
+  ["oMast:mast","oSmoke:smoke","oHba:hba","oResid:resid","oThread:thread"].forEach(function(p){
+    var a=p.split(":");optInit(a[0],a[1]);});
+  document.getElementById("cal").addEventListener("input",render);
+  document.querySelectorAll(".cx").forEach(function(c){c.addEventListener("change",render);});
+  function box(c,h,b){return '<div class="res '+c+'"><b class="hd">'+h+'</b>'+b+'</div>';}
+
+  function render(){
+    var cal=parseFloat(document.getElementById("cal").value); if(!isFinite(cal)) cal=null;
+    var cx=[].slice.call(document.querySelectorAll(".cx:checked")).map(function(c){return c.dataset.v;});
+    var cxN={fur:"치근이개부 II–III급",mob:"동요도",vert:"수직 골소실",ridge:"치조제 결손"};
+
+    // ── Stage 제안 ──
+    var stage=null, sn="";
+    if(S.mast==="yes"){ stage=4; sn="치주염 기인 발치로 저작기능 장애 → Stage IV"; }
+    else if(cal===null){ sn="CAL 입력 필요"; }
+    else if(cal<1){ stage=null; sn="CAL &lt;1mm — 치주염 기준 미만(치은염 범주 검토)"; }
+    else if(cal<=2){ stage=1; sn="CAL 1–2mm"; }
+    else if(cal<=4){ stage=2; sn="CAL 3–4mm"; }
+    else { stage=3; sn="CAL ≥5mm"+(cx.length?" + 복잡성 "+cx.length+"개":""); }
+    document.getElementById("vStage").textContent = stage? ["","I","II","III","IV"][stage] : "–";
+    document.getElementById("nStage").innerHTML = sn;
+
+    // ── Grade 제안 ──
+    var up=[], grade="B";
+    if(S.smoke==="ge10") up.push("흡연 ≥10개비/일");
+    if(S.hba==="ge7") up.push("HbA1c ≥7.0%");
+    if(up.length) grade="C";
+    document.getElementById("vGrade").textContent=grade;
+    document.getElementById("nGrade").innerHTML = up.length? "상향: "+up.join(" · ") : "상향 인자 없음 — 기본 B";
+
+    var N=[];
+    if(grade==="C") N.push('<div class="warn"><b>Grade C — 흡연·당뇨 조절이 치주치료보다 먼저다.</b> '+up.join(" · ")+
+      '가 확인된다. 모든 stage에서 <b>SPT 주기를 단축</b>하고, 위험인자 조절을 치료계획 1순위에 둔다.</div>');
+    if(S.smoke==="lt10") N.push('<div class="info">흡연 &lt;10개비/일 — 위키가 보유한 상향 인자 기준(≥10개비/일)에는 미달하나, 금연 상담은 모든 흡연자에게 적용한다.</div>');
+    if(cx.length) N.push('<div class="info"><b>복잡성 인자</b> — '+cx.map(function(k){return cxN[k];}).join(" · ")+
+      '. 복잡성은 Stage III/IV를 가르는 축이며, 외과·보철 복잡성을 올린다. <span class="cite">Papapanou 2018</span></div>');
+    document.getElementById("sgNote").innerHTML=N.join("");
+
+    // ── 치료 강도 ──
+    var I=[];
+    if(!stage){ I.push(box("r-mid","입력을 완성하세요","CAL 또는 저작기능 장애 여부가 있어야 강도를 제안할 수 있다.")); }
+    else if(stage<=2 && grade!=="C"){
+      I.push(box("r-go","비외과 치료 + SPT 6개월",
+        "Stage "+["","I","II"][stage]+" + Grade "+grade+" — 비외과 치료로 충분하고 유지주기는 6개월이 기준이다."));
+    } else if(stage===4){
+      I.push(box("r-stop","다학제 (치주 + 보철 + 교정) + 집중 SPT",
+        "Stage IV는 저작기능 회복이 목표이므로 치주 단독으로 끝나지 않는다. 주기는 아래 SPT 줄을 따른다. <span class='cite'>Herrera 2022 EFP S3</span>"));
+    } else {
+      I.push(box("r-mid","비외과 → 재평가 → 외과·재생 → SPT 3개월",
+        "Stage "+["","I","II","III"][stage]+" + Grade "+grade+" — 단계적으로 간다. 외과는 <b>재평가 후 잔존 pocket에만</b>."+
+        (grade==="C"?" Grade C이므로 SPT를 더 단축(2–3개월)한다.":"")));
+    }
+    // SPT cadence
+    if(stage){
+      var spt, why;
+      if(stage===1 && grade==="A"){spt="6개월";why="Stage I + Grade A + 비흡연 + 위생 양호";}
+      else if(stage<=2 && grade!=="C"){spt="6개월";why="Stage I–II + Grade A–B";}
+      else if(stage===3 && grade==="B"){spt="3–4개월";why="Stage II–III + Grade B + 금연";}
+      else if(stage===4 && grade!=="C"){spt="3개월 (집중)";why="Stage IV — 집중 SPT";}
+      else {spt="2–3개월";why="Stage III–IV 또는 Grade C 또는 흡연 미중단·당뇨 조절 불량"+(stage===4?" (Stage IV 기본 3개월에서 Grade C로 단축)":"");}
+      if(S.thread==="imp"){spt="3개월 (종신)";why="임플란트 + 치주염력 — Roccuzzo 2022";}
+      I.push('<div class="info"><b>SPT 주기: '+spt+'</b> — '+why+'<br>'+
+        '<span class="small">자가관리 기술이 아직 안 잡혔다면(치료 초기·최근 위생교육) <b>1개월 주기</b>로 단축해 재교육하고, 기술이 안정되면 표준 주기로 전환한다 <span class="cite">Cho 2018</span>. 순응도 불량(잦은 no-show)이면 recall 시스템 강화·책임 동의·교육 재실시.</span></div>');
+    }
+    document.getElementById("intensity").innerHTML=I.join("");
+
+    // ── 비외과 ──
+    var NS=[];
+    if(stage){
+      if(stage<=2) NS.push(box("r-go","Full-mouth SRP 1–2회 + 치면세균막 관리 교육",
+        "4–6주 재평가 후 SPT로 전환한다."));
+      else NS.push(box("r-mid","Full-mouth SRP (one-stage 또는 사분악) + CHX 0.12% 2주",
+        "4–6주 재평가 → 잔존 pocket이 있으면 외과로 넘긴다."));
+      NS.push('<div class="info"><b>SRP 기대 효과크기</b> — PPD 1–2mm, CAL 0.5–1mm 개선. <span class="cite">Smiley 2015 ADA 가이드라인</span></div>');
+      if(stage>=3 && grade==="C")
+        NS.push('<div class="warn"><b>전신 항생제 — 여기서만 고려한다.</b> Amoxicillin 500mg TID + Metronidazole 400mg TID 7일 보조를 <b>Stage III + Grade C</b>에서 고려한다. 2020 EFP S3는 항생제 관리(antimicrobial stewardship) 원칙에 따라 전신 항생제를 <b>stage III grade C/D로 제한</b>했다 — Smiley 2015의 광범위 doxycycline 권고는 이 점에서 낡았다. <span class="cite">[확인]</span></div>');
+      else if(stage>=3)
+        NS.push('<div class="info">전신 항생제는 이 케이스의 1차 선택이 아니다 — 2020 EFP S3가 <b>stage III grade C/D</b>로 제한했다.</div>');
+      NS.push('<div class="stop"><b>오판 패턴 — "심한 치주염은 바로 외과로"</b> ✗ Sanz 2020 EFP S3의 단계적 프로토콜은 <b>비외과가 먼저</b>다. 외과는 재평가 후 잔존 pocket에만 적용한다. <span class="cite">[확인]</span></div>');
+    } else NS.push(box("r-mid","입력 대기",""));
+    document.getElementById("nonsurg").innerHTML=NS.join("");
+
+    // ── 외과·재생 ──
+    var SG=[];
+    if(!stage||stage<=2){
+      SG.push(box("r-info","현재 단계에서는 외과 적응이 아니다","비외과 + SPT로 관리한다. 재평가에서 잔존 pocket이 나오면 그때 판단한다."));
+    } else if(S.resid==="na"){
+      SG.push(box("r-mid","재평가(4–6주) 후 판단","비외과 후 재평가에서 <b>잔존 PPD ≥6mm</b> 여부가 외과 진입 게이트다."));
+    } else if(S.resid==="no"){
+      SG.push(box("r-go","외과 불필요 — SPT로 전환","재평가에서 잔존 pocket이 없다. 유지 단계로 넘어간다."));
+    } else {
+      SG.push(box("r-mid","잔존 PPD ≥6mm — 결손 형태로 술식이 갈린다",
+        "<b>3벽 골내낭</b> → GTR(차폐막) + 이식재(DBBM/EMD) <b>병용</b> — 단독보다 NMA에서 우위.<br>"+
+        "<b>수평 결손(1벽)</b> → 재생 불가. 치은판막술(OFD) + 보철적 보상."));
+      if(cx.indexOf("fur")>=0)
+        SG.push('<div class="warn"><b>치근이개부 II–III급</b> — 재생 시도(특히 하악 II급) 또는 치근절제·치아분할, 아니면 발치 후 임플란트. I급은 SRP + 보존으로 SPT 3개월.</div>');
+      SG.push('<div class="info">장기 GTR(120개월): <b>흡수성 차폐막 CAL 이득 3.5mm > 비흡수성 1.5mm</b>.</div>');
+    }
+    if(S.thread==="imp")
+      SG.push('<div class="stop"><b>치주염력 환자의 임플란트 — 게이트가 있다.</b> 완전한 치주 안정화(<b>PPD ≤4mm, BoP &lt;10%</b>)를 달성한 뒤 식립하고, 이후 <b>3개월 SPT를 종신</b>으로 간다. 임플란트 주위염 위험이 <b>4.8배</b>다. <span class="cite">[확인]</span></div>');
+    document.getElementById("surg").innerHTML=SG.join("");
+
+    // ── Thread ──
+    var T=[], show=(S.thread!=="none"&&S.thread!=="imp");
+    if(S.thread==="sys"){
+      T.push(box("r-info","Thread A — 전신질환 동반 치주염",
+        "<b>1단계는 감별이다.</b> 치주 병소가 <b>전신질환의 발현</b>인지(혈액·면역·유전 증후군 — 치은비대·괴사·급성 발현 패턴이 다르다) 아니면 <b>독립 치주염 + 전신질환 동반</b>인지 먼저 가른다. <span class='cite'>Jepsen 2018 WW WG3</span>"));
+      T.push('<div class="info"><b>2형 당뇨</b> — SRP로 HbA1c <b>0.4–0.6% 감소</b>가 기대된다 <span class="cite">Simpson 2022 Cochrane</span>. 오존 겔 보조는 방사선학적 골결손에 within-group 이점 가능하나 소규모(n=12)로 결정적이지 않다.</div>');
+      T.push('<div class="info"><b>류마티스 관절염</b> — 양방향이다. 비외과 치주치료가 <b>DAS28 −0.56점</b>(95% CI −0.82~−0.31), <b>CAL −0.41mm</b> 유의 개선, 대조군은 악화 <span class="cite">Dolcezza 2024 SR+MA, RCT 6편</span>. 류마티스내과 치료와 병행해 치주 스크리닝·SRP를 다학제로 시행한다.</div>');
+      T.push('<div class="info"><b>심혈관 위험</b> — SRP 후 CRP·IL-6·수축기혈압이 유의 감소한다(지질·이완기혈압은 NS) <span class="cite">Meng 2024 SR+MA, 21 RCT</span>. 치주치료의 추가 인센티브로 쓸 수 있다.</div>');
+    } else if(S.thread==="acute"){
+      T.push(box("r-stop","Thread — 급성 치주 병소",
+        "<b>치주농양</b> → 배농(절개 또는 포켓 통로) + debridement + 세척. <b>항생제는 전신 발열·봉와직염 확산 시에만.</b><br>"+
+        "<b>괴사성 치주질환</b> → 면역상태 평가(HIV·영양 스크리닝) 우선 + 즉각 debridement + CHX 0.12% + 전신 항생제(<b>메트로니다졸</b> 우선). <span class='cite'>Herrera 2018</span>"));
+    } else if(S.thread==="ep"){
+      T.push(box("r-mid","Thread B — 치수치주복합병변 vs 치주농양 감별",
+        "① 생활력 검사(EPT/한랭) + 방사선 소견 + <b>치주낭 연속성</b> 확인<br>"+
+        "② <b>치수 괴사 + 치주낭 연속</b> → 치수치주복합병변 → 파절/천공 여부로 분기<br>"+
+        "③ <b>치수 생활 + 치주낭만</b> → 치주농양 → 배농 + debridement 1차"));
+      T.push('<div class="info"><b>Herrera 2018 분류 분기</b> — 파절·천공 없음 + 치주염 없음 → <b>근관치료 단독</b>으로 해결 가능. 파절·천공 없음 + 치주염 동반 → 근관 + 치주 순차 또는 동시. <b>파절 또는 관통 천공</b> → 치아 보존 가능성 평가 후 다학제 결정.</div>');
+      T.push('<div class="info"><b>외과 시 원칙</b> <span class="cite">Sharma 2014</span> — 근관치료 완성(또는 근첨 역충전) → 결손부 GTR + 이식재 → 유두보존 피판 + 봉합. <b>상피 하강 차단 · 이식재 매몰 · 무장력 1차 폐쇄</b>가 재생 성공의 make-or-break 요인.</div>');
+    } else if(S.thread==="muco"){
+      T.push(box("r-info","Thread C — 치주성형 적응 결정",
+        "<b>각화치은 충분</b> + 치주낭·치관 문제 → <b>APF</b><br>"+
+        "<b>각화치은 부족</b>(진행성 퇴축·임플란트 주위) → <b>FGG</b>(심미 무관) 또는 <b>CTG</b>(심미 부위)<br>"+
+        "<b>노출 치근 + 심미</b> → <b>CTG + CAF/터널</b><br>"+
+        "공여부 부담 최소화 → d-PTFE 의도노출 막 또는 무세포 진피기질(ADM)"));
+      T.push('<div class="info">술식 선택의 세부는 전용 도구가 있다 — 아래 <b>APF·FGG·CTG 치주성형 선택기</b>로 넘어간다.</div>');
+    }
+    document.getElementById("cardThread").classList.toggle("hidden",!show);
+    document.getElementById("thread").innerHTML=T.join("");
+
+    // ── 도구 강조 ──
+    var hot=[];
+    if(S.thread==="muco") hot.push("muco");
+    if(stage&&stage<=2) hot.push("gbt");
+    if(stage&&stage>=3&&S.resid==="yes") hot.push("gcf");
+    document.querySelectorAll("#tools .tool").forEach(function(t){
+      t.classList.toggle("hot",hot.indexOf(t.dataset.k)>=0);});
+  }
+  render();
+})();
+</script>
+</body>
+</html>
