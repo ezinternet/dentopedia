@@ -30,6 +30,11 @@ logs/*
 # PDFs — stored locally only (too large for GitHub)
 papers/*.pdf
 papers/**/*.pdf
+# 루트 스테이징 PDF — 인제스트 입력물이지 지식이 아니다.
+# 2026-08-25: 루트에 16개가 쌓여 있었고 그중 10개가 이미 인제스트된 논문의 재다운로드였다.
+# ingest-deviations의 duplicate-skip 22건 상당수가 이 루트 재스테이징이 원인
+# ("Root-level staging PDF ... byte-identical restage of already-ingested").
+/*.pdf
 .ingest-queue
 .ingest-watcher.log
 .claude/scripts/weekly-digest.log
