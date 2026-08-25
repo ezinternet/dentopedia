@@ -18,7 +18,7 @@ When multiple papers are pending, fan them out to **one subagent per paper** for
 ```
 PHASE 1 — fan out (parallel):  one subagent per pending stem
   Each subagent, for its ONE paper, runs Steps 0–3 below:
-    • Step 0  dedup + retraction gate (DOI grep) — if duplicate, STOP and report "skip:<reason>"
+    • Step 0  dedup + retraction gate (scripts/dedup-check.py — DOI + 제목 정규화) — if duplicate, STOP and report "skip:<reason>"
     • rename PDF papers/{raw}.pdf → papers/{canonical-stem}.pdf
     • Step 2–3  write sources/{stem}.md + wiki/{category}/{stem}.md
   Subagent does NOT touch index.md, does NOT git-commit/push, does NOT run qmd.
@@ -80,13 +80,25 @@ The agent will do all steps automatically.
 
 Before copying anything, run two checks. Skipping these is how the wiki accumulates duplicate and discredited pages.
 
-1. **DOI / cross-stem duplicate check.** Extract the paper's DOI, then grep `sources/` for it. `orphan-check.py` only enforces stem-level 1:1 — it does NOT catch the same paper ingested under a different stem (e.g. `gaspar-2022-...` vs `gaspar-2025-...`, `materials-14-...` vs `inchingolo-...-sr-ma`). If the DOI already exists, do NOT create a second page — update the existing one instead. `scripts/doi-duplicate-check.py` (daily-audit signal) reports same-DOI/different-stem groups after the fact.
+1. **DOI / cross-stem duplicate check.** `scripts/dedup-check.py`를 돌린다. 맨 grep 대신 이걸 쓰는 이유는 아래 *왜 grep이 샜나*.
 
    ```bash
-   grep -rl "10.xxxx/the-doi" sources/    # 결과 있으면 중복 → 기존 페이지 갱신, 신규 ingest 금지
+   python3 scripts/dedup-check.py --pdf /path/to/paper.pdf     # DOI·제목 자동 추출
+   python3 scripts/dedup-check.py --doi 10.xxxx/yyy            # DOI를 이미 알 때
+   python3 scripts/dedup-check.py --title "논문 제목 전체"       # DOI 없는 논문
    ```
 
-   **No-DOI fallback.** Some papers print no DOI (older regional journals — e.g. *J Dent Tehran* 2013 — or PubMed records with no `doi` identifier). When there is no DOI, set the frontmatter `doi:` to `null` (or `n/a (Journal Year;Vol(Iss):pp; PMID xxxxx)` per the `vetromilla-2021`/`merli-2018` precedent) and run the Step-0 dedup by **title + first-author grep** over `sources/` instead of DOI grep. Log with `python3 scripts/log-deviation.py <stem> no-doi "..."`.
+   **exit 1이면 STOP** — 신규 페이지를 만들지 말고 출력된 기존 stem을 갱신한다. 팬아웃 서브에이전트는 `skip:<reason>`을 반환한다. exit 0이면 진행.
+
+   무엇을 보는가: (a) DOI 정규화 후 정확일치 (`https://doi.org/` prefix·대소문자·후행 구두점 차이 흡수, `unknown`·`n/a` 같은 placeholder는 무효 처리), (b) **제목 정규화 후 정확일치**, (c) **제목 토큰 Jaccard ≥ 0.75 근사일치**. 정규화 함수는 `doi-duplicate-check.py`에서 **import해서 쓴다** — 복제하지 않는다(두 벌은 반드시 drift한다).
+
+   **왜 grep이 샜나 (2026-08-25).** Step 0은 DOI grep이 전부였고 no-DOI 경로는 "title + first-author grep"이라는 **문장으로만** 있었다. 실제 grep은 표기 차이(대소문자·문장부호·괄호 병기·하이픈)에 그대로 깨진다. 결과가 `logs/ingest-deviations.md`에 duplicate-skip 22건 + duplicate-distinct 3건으로 쌓였고, 로그의 근본원인 문구가 그대로다 — *"DOI conflict/cross-stem duplicate: ... (doi was null, missed by Step0 grep)"*. `doi-duplicate-check.py`에는 제목 정규화 fallback이 **이미 있었지만 사후 일간 감사에만 있고 인제스트 시점에는 없었다.** 같은 로직을 앞단으로 당긴 것이 이 스크립트다.
+
+   오탐 걱정은 실측으로 눌렀다: 제목이 극히 비슷한 형제 3편(`ada-2024-chairside-guide-adult-extraction` / `-pulpitis` / `carrasco-labra-2024-...-guideline`)을 교차 입력했을 때 각각 **자기 하나씩만** 맞았다(2026-08-25). 임계값 0.75는 부제 유무·전치사 차이는 흡수하고 다른 논문은 거른다.
+
+   **No-DOI 논문.** DOI가 없으면 frontmatter `doi:`를 `null`(또는 `n/a (Journal Year;Vol(Iss):pp; PMID xxxxx)` — `vetromilla-2021`/`merli-2018` 선례)로 두고, dedup은 위 `--title` 경로가 자동으로 담당한다. `python3 scripts/log-deviation.py <stem> no-doi "..."` 기록은 그대로.
+
+   > 사후 감사인 `scripts/doi-duplicate-check.py`(일간 signal)는 그대로 남는다 — 이 게이트를 우회해 들어온 것, 그리고 게이트 도입 이전에 쌓인 것을 계속 본다.
 
 2. **Retraction check.** Verify via PubMed MCP (`get_article_metadata` → `article_types` contains `"Retracted Publication"`). This is sanctioned under Rule #1 — Rule #1 bans `WebSearch`/`WebFetch`, not PubMed MCP.
 
@@ -142,7 +154,7 @@ text_filename: {stem}.txt
 ```
 
 - `full_text: false`(초록만): Summary·Results를 초록 수준으로만 채우고 본문에 `abstract-only — full text not retrieved` 명시. `evidence_level`은 study type 그대로.
-- dedup(Step 0)은 DOI/PMCID grep 그대로. 1:1 매칭·linter는 `.txt`를 PDF와 동등한 아티팩트로 인식한다 (`scripts/lint.py`, `wiki/_lint/lint.py`에 `pubmed-text` 분기 반영, 2026-06-17).
+- dedup(Step 0)은 `dedup-check.py` 그대로 (PDF가 없으니 `--doi` 또는 `--title`로 호출; PMCID grep 병행). 1:1 매칭·linter는 `.txt`를 PDF와 동등한 아티팩트로 인식한다 (`scripts/lint.py`, `wiki/_lint/lint.py`에 `pubmed-text` 분기 반영, 2026-06-17).
 
 ### Step 1-D — DeepSeek v2 dump 분기 (전처리본이 루트에 드롭된 경우)
 
