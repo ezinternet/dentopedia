@@ -1,7 +1,20 @@
 #!/usr/bin/env python3
 """
 LLM Wiki — Frontmatter Lint
-Checks every wiki/*.md file (excluding overviews/) for required frontmatter fields.
+
+두 가지 범위를 돈다:
+
+1. **빌드 안전성 (wiki/ 전체 — 예외 없음)** — frontmatter 키 중복 + YAML 파싱.
+   Quartz 배포는 `cp -r wiki/.`로 `wiki/` **전부**를 content로 넣으므로,
+   overviews·_meta·_lint 어디에 있든 YAML이 깨지면 빌드 전체가 죽는다.
+2. **논문 필드 (SKIP_DIRS 제외)** — 필수 frontmatter 필드·근거등급·아티팩트 경로.
+   overviews 등은 논문이 아니라 이 검사에서 면제된다.
+
+이 분리가 필요한 이유 (2026-08-25 사고):
+`wiki/overviews/patient-safety-culture-dentistry-overview.md`에 `date:`가 두 번
+들어가 GitHub Pages 배포가 하루 넘게 실패했다. 키 중복 검사는 그때도 이미 있었지만
+**overviews가 SKIP_DIRS에 있어 아예 스캔되지 않았다.** 검사가 있어도 안 도는 곳에
+있으면 없는 것과 같다 — 로컬 감사 21개 전부 초록불인 채 공개 배포만 조용히 깨졌다.
 
 Usage:
     python3 scripts/lint.py            # full run
@@ -90,6 +103,43 @@ def duplicate_top_level_keys(fm_text: str) -> list[str]:
     return sorted(k for k, c in counts.items() if c > 1)
 
 
+def lint_build_safety(path: str) -> list[str]:
+    """Quartz 빌드를 죽이는 frontmatter 결함만 검사 — wiki/ 전 파일 대상.
+
+    두 가지를 본다:
+      · 최상위 키 중복 — Quartz의 js-yaml은 "duplicated mapping key"에서 빌드
+        전체를 exit 1로 죽이는데, PyYAML의 safe_load는 마지막 값만 조용히 채택해
+        아래 파싱 검사로는 절대 안 잡힌다. 그래서 문자열 파싱으로 따로 본다.
+      · YAML 파싱 실패 — 따옴표 없는 값의 ":" 등.
+
+    논문 필드 검사와 달리 **예외 디렉터리가 없다**. 배포가 wiki/ 전체를 빌드하므로
+    검사 범위도 같아야 한다.
+    """
+    errors = []
+    try:
+        with open(path, encoding="utf-8") as f:
+            content = f.read()
+    except OSError as e:
+        return [f"UNREADABLE: {path}: {e}"]
+
+    m = re.match(r"^---\n(.*?)\n---", content, re.DOTALL)
+    if not m:
+        return []  # frontmatter 부재는 논문 필드 검사의 소관
+    fm_text = m.group(1)
+
+    dup_keys = duplicate_top_level_keys(fm_text)
+    if dup_keys:
+        errors.append(f"DUPLICATE frontmatter key {dup_keys}: {path}")
+
+    if yaml is not None and fm_text:
+        try:
+            yaml.safe_load(fm_text)
+        except yaml.YAMLError as e:
+            errors.append(f"YAML PARSE FAIL: {path}: {str(e).splitlines()[0]}")
+
+    return errors
+
+
 def lint_file(path: str) -> list[str]:
     errors = []
     with open(path, encoding="utf-8") as f:
@@ -99,26 +149,8 @@ def lint_file(path: str) -> list[str]:
     if fields is None:
         return [f"NO FRONTMATTER: {path}"]
 
-    # Raw frontmatter text (shared by the duplicate-key + YAML parse checks)
-    m = re.match(r"^---\n(.*?)\n---", content, re.DOTALL)
-    fm_text = m.group(1) if m else ""
-
-    # Duplicate top-level key check — Quartz's js-yaml fails the whole build on a
-    # "duplicated mapping key" (exit 1 → deploy blocked), but PyYAML's safe_load
-    # silently keeps the last value, so the YAML check below misses it. Catch it
-    # explicitly so ingest never ships a build-breaking page.
-    dup_keys = duplicate_top_level_keys(fm_text)
-    if dup_keys:
-        errors.append(f"DUPLICATE frontmatter key {dup_keys}: {path}")
-
-    # YAML parse check — catches issues that break Quartz build
-    # (e.g., unquoted values with embedded ":" or other YAML specials)
-    if yaml is not None and fm_text:
-        try:
-            yaml.safe_load(fm_text)
-        except yaml.YAMLError as e:
-            first_line = str(e).splitlines()[0]
-            errors.append(f"YAML PARSE FAIL: {path}: {first_line}")
+    # 빌드 안전성(키 중복·YAML 파싱)은 여기서 하지 않는다 — lint_build_safety()가
+    # wiki/ 전체를 따로 돈다. 여기서 중복 실행하면 같은 오류가 두 번 보고된다.
 
     # 논문 유형 판정 (evidence_level 우선, legacy confidence fallback)
     conf = (fields.get("evidence_level") or fields.get("confidence", "")).strip('"').strip("'")
@@ -178,6 +210,17 @@ def main():
     all_errors = []
     ok_count = 0
 
+    # ── 패스 1: 빌드 안전성 — wiki/ 전체, 예외 없음 ──
+    build_errors = []
+    build_checked = 0
+    for root, _dirs, files in os.walk(WIKI_DIR):
+        for fn in sorted(files):
+            if not fn.endswith(".md"):
+                continue
+            build_checked += 1
+            build_errors.extend(lint_build_safety(os.path.join(root, fn)))
+
+    # ── 패스 2: 논문 필드 — SKIP_DIRS/SKIP_FILES 적용 ──
     for root, dirs, files in os.walk(WIKI_DIR):
         dirs[:] = [d for d in dirs if d not in SKIP_DIRS]
         for fn in sorted(files):
@@ -196,11 +239,19 @@ def main():
     total = ok_count + len(all_errors)
     status = "✅" if not all_errors else "❌"
     print(f"{status}  OK: {ok_count}   ERRORS: {len(all_errors)}   TOTAL: {total}")
+    bstatus = "✅" if not build_errors else "❌"
+    print(f"{bstatus}  build-safety (키 중복·YAML): {build_checked} files   ERRORS: {len(build_errors)}")
 
+    if build_errors:
+        print()
+        print("  ⚠ 아래는 Quartz 빌드를 죽여 GitHub Pages 배포를 막는다:")
+        for e in build_errors:
+            print(f"  {e}")
     if all_errors:
         print()
         for e in all_errors:
             print(f"  {e}")
+    if all_errors or build_errors:
         sys.exit(1)
 
 
