@@ -2,10 +2,9 @@
 title: "Overview: Patient Safety Culture in Dentistry"
 type: synthesis
 category: overviews
-date: 2026-08-17
+date: 2026-08-24
 evidence_level: synthesis
 source_collection: synthesis
-date: 2026-08-24
 source_papers:
   - wiki/practice-management/bailey-2021-patient-safety-culture-primary-dental-care.md
   - wiki/practice-management/yansane-2020-patient-safety-culture-dentistry-assessment.md
