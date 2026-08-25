@@ -1,12 +1,17 @@
 ---
 title: "ADA 급성 치통 약리관리 체어사이드 결정 도구"
 type: interactive
-date: 2026-08-24
+date: 2026-08-25
 status: done
 source_wiki:
   - wiki/drug/analgesics/carrasco-labra-2024-pharmacologic-management-acute-dental-pain-guideline.md
   - wiki/drug/analgesics/ada-2024-chairside-guide-adult-extraction.md
   - wiki/drug/analgesics/ada-2024-chairside-guide-adult-pulpitis.md
+  - wiki/drug/analgesics/miroshnychenko-2023-corticosteroids-third-molar-acute-pain-sr-ma.md
+  - wiki/drug/analgesics/canellas-2022-corticosteroids-third-molar-nma.md
+  - wiki/drug/analgesics/almeida-2019-efficacy-corticosteroids-versus-placebo-impacted.md
+  - wiki/drug/analgesics/markiewicz-2008-corticosteroids-reduce-postoperative-morbidity-after-third-molar-surgery.md
+  - wiki/drug/analgesics/tamgadge-2025-preoperative-dexamethasone-third-molar-pain-swelling-trismus.md
 agenda: agenda/2026-08-24_ada-acute-dental-pain-guideline-interactive.md
 ---
 
@@ -117,6 +122,29 @@ footer { text-align: center; color: var(--muted); font-size: 12px; margin-top: 2
 a { color: var(--info-border); }
 .badge-src { font-size: 11px; color: var(--muted); }
 .ladder-arrow { text-align:center; color: var(--muted); font-size: 18px; margin: 2px 0; }
+/* ── 코르티코스테로이드 탭 ── */
+.midwrap { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 16px; margin: 12px 0; }
+.midscale { position: relative; height: 116px; margin: 18px 0 6px; }
+.midaxis { position: absolute; left: 0; right: 0; bottom: 26px; height: 2px; background: var(--line); }
+.midtick { position: absolute; bottom: 12px; transform: translateX(-50%); font-size: 11px; color: var(--muted); }
+.midtick::before { content:""; position:absolute; left:50%; bottom:14px; width:1px; height:8px; background: var(--line); }
+.midbar { position: absolute; bottom: 28px; height: 22px; border-radius: 5px; display:flex; align-items:center; justify-content:flex-end; padding-right:7px; font-size:11.5px; font-weight:700; color:#fff; white-space:nowrap; transition: background .15s; }
+.midbar.b6  { bottom: 76px; }
+.midbar.b24 { bottom: 48px; }
+.midbar.below { background: var(--grade-vlow); }
+.midbar.above { background: var(--grade-high); }
+.midline { position: absolute; bottom: 26px; top: 4px; width: 2px; background: var(--warn-border); }
+.midline span { position: absolute; top: -2px; left: 6px; font-size: 11.5px; font-weight: 700; color: var(--warn-border); white-space: nowrap; }
+.midverdict { font-weight: 700; padding: 10px 12px; border-radius: 9px; margin-top: 10px; }
+.midverdict.trivial { background: var(--danger-bg); border: 1px solid var(--danger-border); }
+.midverdict.important { background: var(--accent-soft); border: 1px solid var(--accent); }
+input[type=range] { width: 100%; accent-color: var(--warn-border); }
+.vs { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 12px 0; }
+.vs > div { border: 1px solid var(--line); border-radius: 11px; padding: 12px 14px; background: var(--surface); }
+.vs .camp-a { border-top: 4px solid var(--grade-high); }
+.vs .camp-b { border-top: 4px solid var(--grade-vlow); }
+.vs h4 { font-size: 14px; margin-bottom: 6px; }
+@media (max-width: 720px) { .vs { grid-template-columns: 1fr; } }
 </style>
 </head>
 <body>
@@ -137,6 +165,7 @@ a { color: var(--info-border); }
 <div class="tabs">
   <button data-tab="tabA" class="on">시나리오 A · 발치 후 통증</button>
   <button data-tab="tabB">시나리오 B · 치통 잠정관리</button>
+  <button data-tab="tabCS">코르티코스테로이드 · 근거와 논쟁</button>
   <button data-tab="tabDose">용량·약제·FDA 참조</button>
   <button data-tab="tabCheck">이행 체크리스트</button>
   <button data-tab="tabGrade">근거·GRADE 해설</button>
@@ -197,6 +226,10 @@ a { color: var(--info-border); }
         <span class="tag t-cond">조건부 권고</span><span class="tag c-vlow">Very low certainty</span>
         <b>권고 1.5 — 코르티코스테로이드 추가 반대:</b> 표준 진통요법에 경구·점막하(submucosal)·근육내(IM) 코르티코스테로이드를 <b>추가하지 말 것(suggests against)</b>.
         <div class="small">범위 밖: trismus·안면부종·감염 등 염증성 합병증 관리 역할, 정맥투여(IV) — 본 지침 범위 아님.</div>
+        <div class="small" style="margin-top:8px">
+          근거는 Miroshnychenko 2023 SR+MA (RCT 40편) — 통증이 <b>안 줄어서가 아니라</b> 줄어든 폭이 문턱에 못 미쳐서다.
+          그리고 더 큰 NMA는 반대 결론을 낸다. <a href="#" data-goto="tabCS"><b>→ 근거와 논쟁 탭에서 확인</b></a>
+        </div>
       </div>
       <div class="stepbox optional">
         <span class="tag t-cond">조건부 권고</span><span class="tag c-low">Low certainty</span>
@@ -283,6 +316,139 @@ a { color: var(--info-border); }
 
       <div class="warn"><b>핵심 문장 (본문 Discussion):</b> 이 약리 전략들은 확정치료 의뢰가 잡힐 때까지 치통을 일시 완화하는 <b>다리(bridge)</b>일 뿐이며, 치과 치료를 즉시 제공하지 않거나 미루는 이유가 되어서는 안 된다.</div>
     </div>
+  </div>
+</div>
+
+<!-- ============ TAB CS ============ -->
+<div id="tabCS" class="tabc hidden">
+
+  <div class="card">
+    <h2>코르티코스테로이드 — 권고 1.5의 근거, 그리고 아직 안 끝난 논쟁</h2>
+    <p class="small">근거: <b>Miroshnychenko 2023</b> SR+MA (RCT 40편, <i>JADA</i> 154(8):727-741) — ADA 패널이 위촉한 4대 SR 중 코르티코스테로이드 담당. 대립 근거: <b>Canellas 2022</b> NMA (RCT 61편, n=3,561).</p>
+
+    <div class="danger">
+      <b>먼저 오해부터 걷어낸다.</b> 권고 1.5는 <u>"코르티코스테로이드가 통증에 효과 없다"가 아니다.</u>
+      통증은 <b>통계적으로 유의하게</b> 줄었다 — 6시간 8.79점, 24시간 8.89점 (VAS 0–100). 두 신뢰구간 모두 0을 포함하지 않는다.
+      문제는 그 크기가 저자들이 <b>분석 전에 정해둔 최소중요차이(문턱)</b> 10점에 못 미쳤다는 것이다. 그래서 판정이 <b>"미미함(trivial)"</b>이지 "없음(null)"이 아니다.
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>① 문턱이 판정을 만든다 — 직접 움직여 볼 것</h2>
+    <p class="small">GRADE의 <b>최소맥락화 접근(minimally contextualized approach)</b>은 관측 효과를 미리 정한 문턱과 견준다. Miroshnychenko는 문턱을 <b>척도 범위의 10%</b>(VAS 0–100이므로 10점)로 잡았다. 아래 슬라이더로 문턱을 바꿔 보면 <b>같은 데이터가 정반대 결론</b>을 내는 게 보인다.</p>
+
+    <div class="midwrap">
+      <div class="midscale" id="midscale">
+        <div class="midbar b6 below" id="bar6" style="width:8.79%">8.79점 · 6시간</div>
+        <div class="midbar b24 below" id="bar24" style="width:8.89%">8.89점 · 24시간</div>
+        <div class="midline" id="midline" style="left:10%"><span id="midlabel">문턱 10점</span></div>
+        <div class="midaxis"></div>
+        <div class="midtick" style="left:0%">0</div>
+        <div class="midtick" style="left:10%">10</div>
+        <div class="midtick" style="left:20%">20</div>
+        <div class="midtick" style="left:30%">30</div>
+        <div class="midtick" style="left:50%">50</div>
+        <div class="midtick" style="left:100%">100</div>
+      </div>
+      <label class="small" for="midrange"><b>최소중요차이(문턱) 설정</b> — VAS 100점 만점 기준</label>
+      <input type="range" id="midrange" min="1" max="35" step="0.5" value="10">
+      <div class="midverdict trivial" id="midverdict"></div>
+      <p class="small" style="margin-top:8px">막대는 위약 대비 <b>통증 감소폭</b>(클수록 좋음). 문턱보다 짧으면 <b>미미함</b>, 넘으면 <b>임상적으로 중요함</b>으로 분류된다. 문턱을 8점 아래로 내리면 같은 40편 메타분석이 "중요한 효과"가 된다 — 이것이 권고 1.5가 <b>조건부(conditional)</b>이고 확실성이 <b>매우 낮음(very low)</b>인 이유의 절반이다.</p>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>② 더 큰 메타분석은 반대로 말한다</h2>
+    <p class="small">이 도구의 이전 판은 "위키 보유 코르티코스테로이드 논문들은 부종·개구제한 중심이라 결과축이 다르다"고 적었다. <b>틀린 서술이라 정정한다</b> — Canellas 2022 NMA는 통증(VAS)도 보고하며, 그 수치가 매우 크다.</p>
+
+    <div class="vs">
+      <div class="camp-b">
+        <h4>Miroshnychenko 2023 — 미미함</h4>
+        <div class="small">SR+MA · RCT 40편 · GRADE</div>
+        <ul>
+          <li>6시간 <b>−8.79</b> VAS (95% CI 14.8~2.77 감소) · 낮은 확실성</li>
+          <li>24시간 <b>−8.89</b> VAS (95% CI 10.71~7.06 감소) · 매우 낮은 확실성</li>
+          <li>감염 위험차 0% · 건성발치와 위험차 0%</li>
+          <li><b>총진통량·전반효능평가·기분변화: 40편 중 측정 0편</b></li>
+        </ul>
+      </div>
+      <div class="camp-a">
+        <h4>Canellas 2022 — 유의한 감소</h4>
+        <div class="small">네트워크 메타분석 · RCT 61편 · n=3,561</div>
+        <ul>
+          <li>덱사메타손 8mg 점막하: 1일차 <b>−30.95</b> VAS, 2일차 <b>−15.25</b> VAS</li>
+          <li>부종도 최대 감소 (−3.58 vs 위약)</li>
+          <li>5종 약제를 용량·경로별로 <b>분해</b>해 순위화</li>
+          <li>중대 부작용 없음</li>
+        </ul>
+      </div>
+    </div>
+
+    <h3>발산의 원인 3가지 — 어느 것이 내 케이스에 해당하나</h3>
+    <div class="stepbox">
+      <b>① 측정 시점이 다르다.</b> Miroshnychenko는 <b>6시간·24시간</b>, Canellas는 <b>1–2일차</b>, Tamgadge 2025 RCT는 <b>2일·7일차</b>를 쟀다.
+      코르티코스테로이드의 항염 작용은 첫 24시간 이후에 정점에 가까워지므로, 두 합성이 같은 곡선의 <b>다른 구간</b>을 보고 있을 수 있다.
+      <div class="small">→ 발치 당일 밤 통증이 관심사면 Miroshnychenko 쪽이 더 직접적이다. 2–3일차 통증이 관심사면 그 구간의 직접근거는 Miroshnychenko에 없다.</div>
+    </div>
+    <div class="stepbox second">
+      <b>② 풀링 입도가 다르다.</b> Miroshnychenko는 모든 약제·용량·경로를 <b>하나의 이분법</b>(코르티코스테로이드 vs 위약)으로 합쳤고, Canellas는 5종을 용량·경로까지 분해했다.
+      Canellas에서 효과는 <b>덱사메타손 8mg 점막하</b> 한 조합에 몰려 있다. 이분법 풀링은 특정 조합에 몰린 효과를 평균으로 희석해 0쪽으로 끌어당긴다.
+      <div class="small">→ "덱사 4mg IM을 줄까?"와 "덱사 8mg 점막하를 줄까?"는 이 두 논문 앞에서 같은 질문이 아니다.</div>
+    </div>
+    <div class="stepbox contra">
+      <b>③ 문턱을 쓰느냐 유의성만 보느냐.</b> Miroshnychenko의 "미미함" 판정은 사전 규정한 10점 문턱에 의존한다. Canellas는 문턱 없이 통계적 유의성을 보고한다.
+      위 ① 슬라이더가 보여주듯 <b>문턱을 어디에 두느냐가 결론을 뒤집는다</b>.
+      <div class="small">→ 어느 쪽도 "틀린" 게 아니라 <b>다른 질문에 답하고 있다</b>. "통계적으로 줄어드나?"(Canellas)와 "환자가 체감할 만큼 줄어드나?"(Miroshnychenko).</div>
+    </div>
+
+    <div class="warn">
+      <b>세 가지 중 어느 것도 현재 근거로 해소되지 않는다.</b> 코르티코스테로이드 진통 문제는 <b>미결(contested)</b>로 읽는 것이 맞고,
+      ADA 권고가 <b>조건부·매우 낮은 확실성</b>인 것이 바로 그 상태의 표현이다. 강한 권고가 아니다.
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>③ 그래서 체어사이드에서 뭘 하나</h2>
+    <table>
+      <tr><th style="width:30%">임상 질문</th><th>근거 상태와 실행</th></tr>
+      <tr>
+        <td><b>진통 목적</b>으로 표준 요법에 스테로이드를 <b>추가</b>할까?</td>
+        <td><span class="tag t-cond">Conditional</span><span class="tag c-vlow">Very low</span>
+          ADA는 <b>반대</b>(권고 1.5). 근거는 6–24시간 구간에서 문턱 미달. 다만 조건부이며, 1–2일차 구간과 덱사 8mg 점막하 조합에는 반대 방향 근거가 있다.
+          <b>진통만을 이유로 한 일상적 추가는 권고되지 않는다.</b></td>
+      </tr>
+      <tr>
+        <td><b>부종·개구제한(trismus)</b> 감소 목적이면?</td>
+        <td><span class="tag t-strong">근거 있음</span>
+          <b>다른 질문이고, 답도 다르다.</b> Miroshnychenko는 염증성 합병증만 보고한 연구를 <b>설계상 제외</b>했으므로 이 축에 대해 아무 말도 하지 않는다.
+          Canellas 2022 NMA에서 <b>덱사메타손 8mg 점막하</b>가 부종 감소 1위(−3.58 vs 위약), Almeida 2019는 개구제한 개선(+6.10mm)과 <b>술전 투여 우위</b>를 보고. 이 적응증은 권고 1.5의 사정거리 밖이다.</td>
+      </tr>
+      <tr>
+        <td>안전성은?</td>
+        <td>단회·단기 투여에서 감염 위험차 <b>0%</b>(RCT 21편, n=1,630), 건성발치와 위험차 <b>0%</b>(RCT 8편, n=410). Canellas도 5종 전체에서 중대 부작용 없음.
+          <b>해악 때문에 반대하는 것이 아니다</b> — 이익이 문턱에 못 미쳐서다.</td>
+      </tr>
+      <tr>
+        <td>정맥투여(IV)는?</td>
+        <td><b>두 근거 모두 범위 밖.</b> Miroshnychenko는 IV 투여 연구를 제외했고 ADA 지침도 IV를 다루지 않는다.</td>
+      </tr>
+    </table>
+
+    <div class="info">
+      <b>가장 크게 비어 있는 곳.</b> 40편 RCT 중 <b>총진통량(total pain relief)·전반효능평가(global efficacy rating)·기분변화를 측정한 연구가 한 편도 없다.</b>
+      즉 "스테로이드를 얹으면 환자가 더 낫다고 느끼는가"는 <b>부정된 것이 아니라 물어본 적이 없는</b> 질문이다. 권고 1.5의 확실성이 매우 낮은 나머지 절반이 여기에 있다.
+    </div>
+
+    <details>
+      <summary>근거 페이지 (위키)</summary>
+      <ul>
+        <li>[[drug/analgesics/miroshnychenko-2023-corticosteroids-third-molar-acute-pain-sr-ma]] — 권고 1.5 직접근거 SR+MA (RCT 40편, GRADE)</li>
+        <li>[[drug/analgesics/canellas-2022-corticosteroids-third-molar-nma]] — NMA 61편, 덱사 8mg 점막하 최상위</li>
+        <li>[[drug/analgesics/almeida-2019-efficacy-corticosteroids-versus-placebo-impacted]] — SR+MA 17편 (통증 축은 Miroshnychenko 2023으로 부분 대체)</li>
+        <li>[[drug/analgesics/markiewicz-2008-corticosteroids-reduce-postoperative-morbidity-after-third-molar-surgery]] — SR+MA 12편, 통증 유의차 없음 (Miroshnychenko와 같은 방향)</li>
+        <li>[[drug/analgesics/tamgadge-2025-preoperative-dexamethasone-third-molar-pain-swelling-trismus]] — 분할구 RCT n=60, 2·7일차 유의한 통증 감소</li>
+      </ul>
+    </details>
   </div>
 </div>
 
@@ -396,7 +562,7 @@ a { color: var(--info-border); }
       <li>패널: ADA Science and Research Institute · University of Pittsburgh · University of Pennsylvania — 4개 체계적 문헌고찰(SR) 수행 후 GRADE + Evidence-to-Decision로 권고 성립.</li>
       <li>보유 근거 페이지: [[drug/analgesics/miroshnychenko-2023-dental-extraction-pain-network-meta]] (발치통 NMA, 82 RCT/n=9,095 — ibuprofen+APAP 최고 효과, 오피오이드는 위약 수준) · [[drug/analgesics/miroshnychenko-2023-injectable-topical-anesthetics-acute-pain-sr]] (bupivacaine·benzocaine SR 2편).</li>
       <li>치통(잠정관리) 권고는 치통 직접 RCT 부재로 발치통 RCT <b>간접근거</b>로 작성됨 — Very/Low certainty의 주된 원인.</li>
-      <li>Gap: 패널 4대 SR 중 코르티코스테로이드 SR은 위키 미보유 — 권고 1.5의 직접근거 페이지 없음 (본 위키 보유 canellas-2022·almeida-2019 등은 부종·개구제한 중심으로 개입 결과축이 다름).</li>
+      <li>보유 근거 페이지(추가, 2026-08-25 인제스트): [[drug/analgesics/miroshnychenko-2023-corticosteroids-third-molar-acute-pain-sr-ma]] — 권고 1.5의 직접근거 SR (RCT 40편, GRADE). <b>이전 판의 "코르티코스테로이드 SR 미보유" Gap은 해소됨.</b> 같은 판에 있던 "canellas-2022·almeida-2019는 결과축이 다름"이라는 서술도 <b>정정한다</b> — canellas-2022는 통증(VAS)도 보고하며 덱사메타손 8mg 점막하에서 1일차 −30.95 VAS로 <b>정면 상충</b>한다. 상세는 「코르티코스테로이드 · 근거와 논쟁」 탭.</li>
       <li>환자 가치: 대부분은 통증 강도와 무관하게 오피오이드 중대 해악 회피를 높이 평가; 일부 소집단은 중증통증에서 오피오이드 위험 수용 의사.</li>
       <li>공유의사결정: 오피오이드가 언급되는 제한적 상황에서는 shared decision making + informed consent 필수.</li>
     </ul>
@@ -496,6 +662,59 @@ a { color: var(--info-border); }
     document.getElementById("checkSummary").textContent = "체크 " + n + " / " + boxes.length + " 항목";
   }
   boxes.forEach(function(b){ b.addEventListener("change", count); }); count();
+
+  // ── 최소중요차이(문턱) 시각화 ──
+  // VAS 0-100을 가로 100%에 대응. 막대 = 위약 대비 통증 감소폭, 세로선 = 문턱.
+  var E6 = 8.79, E24 = 8.89;
+  var rng = document.getElementById("midrange");
+  if (rng) {
+    var bar6 = document.getElementById("bar6"),
+        bar24 = document.getElementById("bar24"),
+        line = document.getElementById("midline"),
+        label = document.getElementById("midlabel"),
+        verdict = document.getElementById("midverdict");
+
+    function fmt(x){ return (Math.round(x*10)/10).toString(); }
+
+    function draw(){
+      var mid = parseFloat(rng.value);
+      line.style.left = mid + "%";
+      label.textContent = "문턱 " + fmt(mid) + "점";
+      // 문턱선이 오른쪽 끝에 가까우면 라벨을 왼쪽으로 뒤집는다
+      if (mid > 72) { label.style.left = "auto"; label.style.right = "6px"; }
+      else { label.style.right = "auto"; label.style.left = "6px"; }
+
+      var a6 = E6 >= mid, a24 = E24 >= mid;
+      bar6.className  = "midbar b6 "  + (a6  ? "above" : "below");
+      bar24.className = "midbar b24 " + (a24 ? "above" : "below");
+
+      if (!a6 && !a24) {
+        verdict.className = "midverdict trivial";
+        verdict.innerHTML = "판정: <b>미미함(trivial)</b> — 6시간·24시간 모두 문턱 미달. "
+          + "이것이 Miroshnychenko 2023이 문턱 10점에서 내린 실제 판정이고, ADA 권고 1.5의 근거다.";
+      } else if (a6 && a24) {
+        verdict.className = "midverdict important";
+        verdict.innerHTML = "판정: <b>임상적으로 중요함</b> — 두 시점 모두 문턱 이상. "
+          + "같은 40편 데이터인데 결론이 뒤집혔다. 바뀐 것은 데이터가 아니라 <b>문턱 하나</b>다.";
+      } else {
+        verdict.className = "midverdict important";
+        verdict.innerHTML = "판정: <b>시점에 따라 갈림</b> — " + (a6 ? "6시간" : "24시간") + "만 문턱 이상. "
+          + "두 추정치가 0.1점 차이라 이 구간은 좁다 (8.79 vs 8.89).";
+      }
+    }
+    rng.addEventListener("input", draw);
+    draw();
+  }
+
+  // ── 본문 안에서 탭으로 이동하는 링크 ──
+  document.querySelectorAll("[data-goto]").forEach(function(a){
+    a.addEventListener("click", function(e){
+      e.preventDefault();
+      var t = a.getAttribute("data-goto");
+      var btn = document.querySelector('.tabs button[data-tab="' + t + '"]');
+      if (btn) { btn.click(); window.scrollTo({top: 0, behavior: "smooth"}); }
+    });
+  });
 })();
 </script>
 </body>
