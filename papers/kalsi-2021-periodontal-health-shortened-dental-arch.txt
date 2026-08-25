@@ -1,0 +1,25 @@
+SOURCE: PubMed structured abstract (abstract-only; full text not retrieved — no PMC record)
+PMID: 34561665 | DOI: 10.1038/s41432-021-0193-z
+Evid Based Dent. 2021;22(3):112-113.  [Evidence-Based Dentistry commentary on an RCT]
+
+Periodontal health in the shortened dental arch.
+Kalsi HK, Edwards DC.
+
+DESIGN: Multi-centre randomised controlled clinical trial with two prosthetic intervention arms,
+conducted in 14 dental schools and universities in Germany from October 2000.
+CASE SELECTION: Adults aged >=35 years with bilateral missing molars, both canines and at least one
+premolar present on each side in one jaw. Randomly allocated to restoration of posterior teeth using a
+removable partial denture (RPD), or a fixed prosthesis adhering to shortened dental arch (SDA)
+principles (no replacement posterior to the second molar). Central randomisation, permuted blocks
+stratified by age. Data collected at baseline (after pre-prosthetic treatment); follow-up at six
+months, annually for five years, eight years and ten years.
+DATA ANALYSIS: 215 participants randomised — RPD group n=109, SDA group n=106. Intention-to-treat (ITT)
+and modified per-protocol analysis performed on RPD n=79 and SDA n=71. Per-protocol analysis on RPD
+n=25 and SDA n=22. Significance two-sided p=0.05; CI 95%.
+RESULTS: For ten-year vertical clinical attachment loss (CAL), ITT analysis showed differences between
+RPD and SDA groups were statistically significant (p<=0.05) in both the study jaw (0.79 mm) and in all
+teeth (0.69 mm), IN FAVOUR OF THE SDA GROUP. The SDA group also performed more favourably in both
+bleeding on probing and plaque index parameters (statistically significant, positive regression
+coefficients).
+CONCLUSIONS: There is evidence of reduced impact on the periodontium from an SDA approach compared to
+an RPD approach, ALTHOUGH THE DIFFERENCE IS UNLIKELY TO BE CLINICALLY SIGNIFICANT.
