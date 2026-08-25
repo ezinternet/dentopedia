@@ -17,6 +17,7 @@ permissions:
   contents: read
   pages: write
   id-token: write
+  issues: write   # notify-failure 잡이 배포 실패 이슈를 열기 위해 필요
 
 concurrency:
   group: "pages"
@@ -170,3 +171,78 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+  # ──────────────────────────────────────────────────────────────────────
+  # 배포 실패 알림 — 실패가 조용히 지나가지 않게 한다.
+  #
+  # 2026-08-25에 overview 하나의 date: 키 중복으로 배포가 하루 넘게 실패했는데
+  # 아무도 몰랐다. 로컬 감사도 CI도 초록불이었고, 사람이 우연히 사이트를
+  # 확인하러 들어가서야 발견했다. 실패를 감지하는 경로가 아예 없었던 것이다.
+  #
+  # 여기서는 외부 서비스·비밀키 없이 GITHUB_TOKEN만으로 리포에 이슈를 남긴다.
+  # 이슈는 사라지지 않으므로 며칠 뒤 세션에서도 보이고, scripts/deploy-health.py가
+  # 데일리 감사에서 같은 상태를 로컬로도 표면화한다(두 겹).
+  # ──────────────────────────────────────────────────────────────────────
+  notify-failure:
+    needs: [build, deploy]
+    if: failure()
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Open or update deploy-failure issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+          RUN_ID: ${{ github.run_id }}
+          SHA: ${{ github.sha }}
+        run: |
+          set -euo pipefail
+          RUN_URL="https://github.com/$REPO/actions/runs/$RUN_ID"
+
+          # 실패 로그 꼬리를 담아 두면 이슈만 보고도 원인 추정이 가능하다.
+          LOG=$(gh run view "$RUN_ID" --log-failed 2>/dev/null | tail -40 || echo "(로그를 가져오지 못했습니다)")
+
+          BODY=$(cat <<EOF
+          **GitHub Pages 배포가 실패했습니다.** 사이트는 마지막 성공 배포 상태로 남아 있습니다.
+
+          | | |
+          |---|---|
+          | 실행 | $RUN_URL |
+          | 커밋 | \`$SHA\` |
+
+          <details><summary>실패 로그 (마지막 40줄)</summary>
+
+          \`\`\`
+          $LOG
+          \`\`\`
+
+          </details>
+
+          ---
+
+          **가장 흔한 원인** — \`wiki/\` 어딘가의 frontmatter YAML 파손. 특히 **키 중복**은
+          PyYAML이 조용히 통과시키고 Quartz의 js-yaml만 빌드를 죽인다. 로컬에서:
+
+          \`\`\`bash
+          python3 scripts/lint.py
+          \`\`\`
+
+          두 번째 줄(\`build-safety\`)이 \`wiki/\` 전체를 훑는다. 고친 뒤 푸시하면
+          배포가 다시 돌고, 이 이슈는 닫아도 된다.
+          EOF
+          )
+
+          EXISTING=$(gh issue list --repo "$REPO" --label deploy-failure --state open \
+                       --json number --jq '.[0].number' 2>/dev/null || echo "")
+
+          if [ -n "$EXISTING" ]; then
+            echo "기존 이슈 #$EXISTING 에 코멘트 추가"
+            gh issue comment "$EXISTING" --repo "$REPO" --body "$BODY"
+          else
+            echo "신규 이슈 생성"
+            gh label create deploy-failure --repo "$REPO" --color B60205 \
+              --description "GitHub Pages 배포 실패" 2>/dev/null || true
+            gh issue create --repo "$REPO" \
+              --title "🚨 GitHub Pages 배포 실패" \
+              --label deploy-failure \
+              --body "$BODY"
+          fi
