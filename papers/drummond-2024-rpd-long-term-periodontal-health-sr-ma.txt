@@ -1,0 +1,26 @@
+SOURCE: PubMed structured abstract (abstract-only; full text not retrieved — no PMC record)
+PMID: 39043477 | DOI: 10.1016/j.prosdent.2024.06.020
+J Prosthet Dent. 2024;134(5):1664-1685.
+
+Long-term assessment of the periodontal health of removable partial denture wearers:
+A systematic review and meta-analysis.
+Drummond LB, Bezerra AP, Feldmann A, Gonçalves TMSV.
+
+STATEMENT OF PROBLEM: The long-term effects of wearing removable partial dentures (RPDs) remain unclear.
+PURPOSE: "Is the long-term use of RPDs deleterious to the remaining teeth?"
+MATERIAL AND METHODS: PRISMA-guided. Six databases + non-peer-reviewed literature searched April 2024,
+no language or follow-up restriction. Only clinical studies evaluating RPD long-term use included.
+Risk of bias and certainty assessed (RoB 2.0; ROBINS-I; GRADE). Meta-analyses for survival rate and
+periodontal health (alpha=.05).
+RESULTS: 5577 records identified; 46 studies included, covering 4359 prostheses and 4072 participants
+(mean age 60 +/- 5.2 years). Low to moderate risk of bias.
+- 5-year survival cast-clasp RPD 95.1% (ER=0.951; 95% CI 0.900-0.977; P<.001)
+- 5-year survival telescopic-crown-retained RPD 91.7% (ER=0.917; 95% CI 0.870-0.948; P<.001)
+- No difference between them (P=.71)
+- Abutment teeth higher risk of extraction after 5 years: OR=1.99 (95% CI 1.32-3.01; P=.001)
+- Nonvital teeth higher risk of extraction: HR=2.961 (95% CI 2.023-4.335; P<.001)
+- Tooth mobility unchanged (P=.98)
+- Probing depth unchanged (P=.50)
+- Gingival index increased: MD=0.477 (95% CI 0.12-0.83; P=.008)
+CONCLUSIONS: High survival rate for both cast-clasp and telescopic-crown-retained RPDs, with few
+periodontal changes to the remaining teeth.
