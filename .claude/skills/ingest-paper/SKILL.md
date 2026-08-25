@@ -68,7 +68,7 @@ python3 -c "import json; q=json.load(open('.ingest-queue')); print('\n'.join(q.g
 Dispatch **all papers at once** — one `Agent` call per paper, in a **single message** so they run concurrently. Each subagent is told to run **Steps 1–6 for its ONE paper only**:
 
 - Step 2 (extract + stem), Step 3 (copy PDF), Step 3.5 (dedup + related/supersession lookup — if it returns a same-DOI cross-stem duplicate, the subagent **STOPs and returns `skip:<reason>`**), Step 4 (category), Step 5 (`sources/{stem}.md`), Step 6 (`wiki/{category}/{stem}.md`).
-- The subagent does **NOT** touch `index.md`, does **NOT** git-commit/push, does **NOT** run qmd. Those are Phase 2, parent-only.
+- The subagent does **NOT** touch `index.md`, does **NOT** git-commit/push, and does **NOT** run qmd **index maintenance** (`qmd update` / `qmd embed`). Those are Phase 2, parent-only. **읽기 검색은 다르다** — Step 3.5(b)의 `qmd search`/`vsearch`는 서브에이전트가 **반드시** 돌려야 하고, MCP 도구가 아니라 **Bash CLI**로 돈다. (이 구분이 흐려서 `qmd-unavailable` 편차 7건이 났다.)
 - The subagent does **NOT** use `isolation: worktree` — it must write into the main working tree the parent then commits.
 - The subagent **logs deviations** immediately when it handles a non-standard case (empty PMC text, DOI conflict, category boundary, skipped step): `python3 scripts/log-deviation.py <stem> <type> "<desc>"` (non-blocking, <1s).
 - The subagent **RETURNS** a compact record: `{stem, category, evidence_level, index_line, status: ok|skip:<reason>}`.
@@ -184,23 +184,30 @@ Verify the copy succeeded.
 
 The MD5 check in Step 2 only catches a byte-identical file. It does **not** catch the same paper under a different stem, and it does **not** surface the existing pages this paper might **overturn**. Those are the two things a Sonnet ingest silently misses — because nothing put them in front of it. This step fixes that by turning the lookup into **data, not judgment**: run it on every ingest, whatever the model.
 
-**(a) Same-DOI cross-stem duplicate** — grep the DOI extracted in Step 2 across `sources/`:
+**(a) Same-paper cross-stem duplicate** — run the Step-0 gate script (raw `grep` is what leaked; see INGEST.md Step 0 *왜 grep이 샜나*):
 
 ```bash
-# Replace <DOI> with the DOI from Step 2 (skip if DOI is unknown).
-grep -rl "<DOI>" sources/ 2>/dev/null
+cd /Users/oracleneo/llm-wiki
+python3 scripts/dedup-check.py --pdf "<the PDF path from Step 3>"
+# DOI를 이미 알면: --doi 10.xxxx/yyy   ·   DOI 없는 논문이면: --title "제목 전체"
 ```
 
-- **Match found** → this paper is already in the wiki under another stem. **Do NOT create a second page.** Stop, tell the user the matching stem, and *update the existing page* instead. Delete the just-copied PDF (it's an orphan).
-- No match → continue.
+- **exit 1 (중복 의심)** → this paper is already in the wiki under another stem. **Do NOT create a second page.** Return `skip:<matched-stem>`, and delete the just-copied PDF (it's an orphan). The parent updates the existing page instead.
+- **exit 0** → continue.
+
+The script checks three things, not one: normalized DOI, normalized title, and title-token Jaccard ≥ 0.75. **DOI가 `null`인 논문이 바로 이 게이트가 있는 이유다** — `logs/ingest-deviations.md`의 duplicate-skip 22건 상당수가 *"doi was null, missed by Step0 grep"*이었다.
 
 **(b) Related / superseded pages** — semantic lookup of what we already hold on this topic:
 
 ```bash
 export PATH="/opt/homebrew/bin:$PATH"   # brew node — qmd ABI
 cd /Users/oracleneo/llm-wiki
-qmd query "<paper topic in 5-8 words>" -c wiki 2>/dev/null | head -8
+qmd search "<author / device / distinctive term>" -c wiki 2>/dev/null | head -8
 ```
+
+> **서브에이전트는 Bash CLI를 쓴다 — MCP 도구를 먼저 찾지 마라.** `logs/ingest-deviations.md`의 `qmd-unavailable` 7건이 전부 여기서 났고, 원인이 셋으로 갈린다: *"qmd MCP tool not available in this subagent's tool list"*, *"not reachable via ToolSearch in this subagent session"*, *"remote/cloud session — qmd binary not installed"*. 앞의 둘은 팬아웃 서브에이전트의 도구 목록에 qmd MCP 서버가 안 실린 경우고, **위 Bash 경로는 그 셋 중 앞의 둘에 아예 영향을 받지 않는다** — 셸만 있으면 된다. MCP 도구는 부모 세션에서 이미 붙어 있을 때만 쓰고, 서브에이전트에서는 CLI가 기본이다.
+>
+> 세 번째 원인(바이너리 부재, remote/cloud)은 셸로도 못 고친다. `command -v qmd`가 비면 즉시 `grep -ri "<key term>" wiki/`로 내려가고 `python3 scripts/log-deviation.py <stem> qmd-unavailable "..."`를 남긴다 — **조용히 건너뛰지 말 것.** 이 lookup이 빠지면 supersession·contradiction escalation이 통째로 죽는다.
 
 Read the top hits and ask, explicitly, two questions:
 
@@ -208,7 +215,7 @@ Read the top hits and ask, explicitly, two questions:
 2. **Supersession check** → does this new paper **overturn the clinical bottom line** of any hit we hold (higher evidence weight, or newer + same weight)? If plausibly yes, this is a **supersession judgment** → escalate to **Opus**, and on confirmation mark the *older* page's `superseded_by` + banner (CLAUDE.md § living-document supersession; memory [[supersession-judgment-at-ingest]]).
 3. **Contradiction check** → does this paper's conclusion **conflict with** a hit we hold *without* fully superseding it (both remain valid evidence, they just disagree — e.g. big-data HR gap vs SR+MA "no difference", pro-ARP MA vs ARP-overtreatment critique)? If yes, add a typed edge on the **newer/citing** page's `relations:` block: `type: contradicts` (head-on conflict) or `type: refines` (narrows/qualifies the other's conclusion). This is what feeds the **논쟁 레이더** (`interactives/contradiction-radar.html`) — an omitted edge = a real controversy invisible on the radar. Do NOT force it: only add when conclusions genuinely oppose; a mere different-angle paper is `reinforces`/`extends`, not `contradicts`.
 
-If qmd is down, fall back to a BM25 search (`qmd search "<author/device/term>"`) or `qmd vsearch "<concept>"` or `grep -ri "<key term>" wiki/`. (Note: `qmd query`'s LLM rerank can hang in non-interactive/subagent runs — prefer `search`/`vsearch` there; memory [[qmd-query-hangs-headless]].) The point is that *some* mechanical lookup always runs — the escalation triggers must never depend on the model spontaneously remembering a related page exists.
+**검색 종류 선택.** 위 예시가 `qmd search`(BM25)인 것은 의도적이다 — `qmd query`의 LLM 재랭크는 비대화형·서브에이전트 실행에서 행이 걸린다(공유 llama 인스턴스 dispose 경합; 메모리 [[qmd-query-hangs-headless]]). 개념 검색이 필요하면 `qmd vsearch "<concept>"`, 그마저 안 되면 `grep -ri "<key term>" wiki/`. 요점은 *어떤* 기계적 lookup이든 **항상 하나는 돈다**는 것 — escalation 트리거가 "모델이 관련 페이지의 존재를 스스로 기억해내는 것"에 의존해서는 안 된다.
 
 ---
 
