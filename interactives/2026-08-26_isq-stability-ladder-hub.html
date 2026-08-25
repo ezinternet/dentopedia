@@ -1,0 +1,379 @@
+<!--
+---
+title: "ISQ 안정성 사다리 허브 — 측정·보정·부하결정"
+type: interactive
+date: 2026-08-26
+status: done
+category: implants/isq
+source_wiki:
+  - wiki/overviews/implants-isq-stability-ladder.md
+  - wiki/overviews/isq-loading-threshold.md
+  - wiki/implants/isq/chatvaratthana-2017-cortical-bone-crestal-buccolingual-isq.md
+  - wiki/implants/isq/huang-2017-multivariate-regression-isq-prediction.md
+  - wiki/implants/isq/kim-2013-implant-stability-retrospective-rfa-isq.md
+  - wiki/implants/isq/balshi-2005-rfa-immediately-loaded-maxillary-mandibular.md
+  - wiki/implants/isq/tisci-2026-isq-it-mbl-survival-sr-ma.md
+  - wiki/implants/isq/kastel-2019-smartpeg-torque-isq-rfa.md
+  - wiki/implants/isq/lee-2024-primary-implant-stability-isq-devices-invitro.md
+  - wiki/implants/isq/won-2008-smartpeg-sterilization-rfa-implant-stability.md
+agenda: agenda/2026-08-26_isq-stability-ladder-chairside-hub.md
+---
+-->
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ISQ 안정성 사다리 허브 — 측정·보정·부하결정</title>
+<style>
+:root{
+  --bg:#F2F3EF; --surface:#FFFFFF; --text:#1A2030; --muted:#5A6472;
+  --line:#DDE0D8; --accent:#1E6B52; --accent-soft:#E4F0EA;
+  --warn-bg:#FDF3E4; --warn-line:#C77E1E;
+  --stop-bg:#FBEAEA; --stop-line:#B03A3A;
+  --info-bg:#E8F0FA; --info-line:#2F5FA5;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans KR",sans-serif;
+  background:var(--bg);color:var(--text);line-height:1.65;font-size:15px;padding-bottom:60px}
+.wrap{max-width:1060px;margin:0 auto;padding:18px}
+header.hero{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:20px 22px;margin-bottom:16px}
+header.hero h1{font-size:21px;margin-bottom:6px}
+header.hero .sub{color:var(--muted);font-size:13px}
+.pillrow{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px}
+.pill{font-size:12px;background:var(--accent-soft);color:var(--accent);border-radius:999px;padding:2px 10px;font-weight:600}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:18px 20px;margin-bottom:14px}
+.card h2{font-size:17px;margin-bottom:8px}
+.card h3{font-size:15px;margin:14px 0 6px}
+.lede{color:var(--muted);font-size:13.5px;margin-bottom:10px}
+.hidden{display:none !important}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:12px}
+.field label{display:block;font-weight:700;font-size:13.5px;margin-bottom:5px}
+.opt{display:flex;gap:6px;flex-wrap:wrap}
+.opt button{border:1px solid var(--line);background:var(--bg);border-radius:9px;padding:7px 12px;
+  cursor:pointer;font-size:13.5px;font-weight:600;color:var(--text);font-family:inherit}
+.opt button.on{background:var(--accent-soft);border-color:var(--accent);color:var(--accent)}
+.nums{display:flex;gap:8px;flex-wrap:wrap}
+.nums div{flex:1 1 90px}
+.nums span{display:block;font-size:12px;color:var(--muted);margin-bottom:3px}
+input[type=number]{width:100%;border:1px solid var(--line);border-radius:9px;padding:8px 10px;
+  font-size:15px;background:var(--surface);color:var(--text);font-family:inherit}
+.verdict{border-radius:12px;padding:15px 17px;margin:12px 0;border:2px solid}
+.verdict h3{margin:0 0 6px;font-size:16px}
+.v-go{background:var(--accent-soft);border-color:var(--accent)}
+.v-mid{background:var(--warn-bg);border-color:var(--warn-line)}
+.v-stop{background:var(--stop-bg);border-color:var(--stop-line)}
+.calcrow{display:flex;gap:10px;flex-wrap:wrap;margin:10px 0}
+.calcbox{flex:1 1 150px;border:1px solid var(--line);border-radius:11px;padding:11px 13px;background:var(--bg)}
+.calcbox .k{font-size:12px;color:var(--muted)}
+.calcbox .v{font-size:22px;font-weight:800;line-height:1.25}
+.calcbox .n{font-size:11.5px;color:var(--muted);margin-top:3px}
+.warn{background:var(--warn-bg);border:1px solid var(--warn-line);border-radius:11px;padding:12px 14px;margin:10px 0}
+.stop{background:var(--stop-bg);border:1px solid var(--stop-line);border-radius:11px;padding:12px 14px;margin:10px 0}
+.info{background:var(--info-bg);border:1px solid var(--info-line);border-radius:11px;padding:12px 14px;margin:10px 0}
+table{width:100%;border-collapse:collapse;margin:10px 0;font-size:13.5px}
+th{background:var(--bg);text-align:left}
+th,td{border:1px solid var(--line);padding:7px 10px;vertical-align:top}
+ul{padding-left:22px;margin:6px 0}li{margin:4px 0}
+.small{font-size:12.5px;color:var(--muted)}
+.cite{font-size:11.5px;color:var(--muted)}
+.tools{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:11px;margin-top:10px}
+.tool{border:1px solid var(--line);border-left:5px solid var(--info-line);border-radius:11px;
+  padding:12px 14px;background:var(--surface);text-decoration:none;color:inherit;display:block}
+.tool:hover{background:var(--bg)}
+.tool b{display:block;font-size:14px;margin-bottom:3px}
+.tool span{font-size:12.5px;color:var(--muted)}
+.tool.hot{border-left-color:var(--accent);background:var(--accent-soft)}
+details{border:1px solid var(--line);border-radius:11px;padding:10px 14px;margin:8px 0;background:var(--surface)}
+summary{cursor:pointer;font-weight:700}
+footer{text-align:center;color:var(--muted);font-size:12px;margin-top:24px}
+svg{max-width:100%;height:auto}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header class="hero">
+  <h1>ISQ 안정성 사다리 허브</h1>
+  <div class="sub">측정 → 보정 → 부하결정. <code>wiki/overviews/implants-isq-stability-ladder</code>(31편 spine, 3축)의 체어사이드 실행판.</div>
+  <div class="pillrow">
+    <span class="pill">축1 측정도구</span><span class="pill">축2 임계값</span><span class="pill">축3 영향변수</span>
+    <span class="pill">전문도구 5종 라우팅</span>
+  </div>
+  <div class="small" style="margin-top:8px">이 도구는 위키 인제스트 문서의 요약이며 임상 판단을 대체하지 않는다. 모든 수치에 출처를 병기했다.</div>
+</header>
+
+<!-- ① 케이스 -->
+<div class="card">
+  <h2>① 케이스</h2>
+  <div class="grid">
+    <div class="field"><label>악궁</label><div class="opt" id="oArch">
+      <button data-v="mn" class="on">하악</button><button data-v="mx">상악</button></div></div>
+    <div class="field"><label>부위</label><div class="opt" id="oSite">
+      <button data-v="ant" class="on">전치부</button><button data-v="post">구치부</button></div></div>
+    <div class="field"><label>골질 (Lekholm–Zarb)</label><div class="opt" id="oBone">
+      <button data-v="1">I</button><button data-v="2" class="on">II</button><button data-v="3">III</button><button data-v="4">IV</button></div></div>
+    <div class="field"><label>동반 술식</label><div class="opt" id="oAug">
+      <button data-v="none" class="on">없음</button><button data-v="aug">상악동거상 / GBR</button></div></div>
+    <div class="field"><label>식립 부위 상태</label><div class="opt" id="oSocket">
+      <button data-v="healed" class="on">치유골</button><button data-v="fresh">신선 발치와</button></div></div>
+  </div>
+</div>
+
+<!-- ② 측정 -->
+<div class="card">
+  <h2>② 측정값</h2>
+  <p class="lede">ISQ는 <b>근·원·협·설 4방향</b>을 모두 넣는다. 한 방향만 평균과 10 이상 벌어지면 재측정 신호다.
+     SmartPeg 조임 토크는 <b>≥10 Ncm</b>로 표준화해야 값이 신뢰된다 <span class="cite">(Kastel 2019, in-vitro)</span>.</p>
+  <div class="nums">
+    <div><span>근심</span><input type="number" id="i1" min="1" max="100" placeholder="–"></div>
+    <div><span>원심</span><input type="number" id="i2" min="1" max="100" placeholder="–"></div>
+    <div><span>협측</span><input type="number" id="i3" min="1" max="100" placeholder="–"></div>
+    <div><span>설측</span><input type="number" id="i4" min="1" max="100" placeholder="–"></div>
+    <div><span>삽입토크 (Ncm)</span><input type="number" id="it" min="0" max="120" placeholder="–"></div>
+  </div>
+</div>
+
+<!-- ③ 판정 -->
+<div class="card">
+  <h2>③ 판정</h2>
+  <div class="calcrow">
+    <div class="calcbox"><div class="k">보정 임계값</div><div class="v" id="cThr">70</div><div class="n" id="cThrN">기준 70</div></div>
+    <div class="calcbox"><div class="k">ISQ 평균</div><div class="v" id="cMean">–</div><div class="n" id="cMeanN">4방향</div></div>
+    <div class="calcbox"><div class="k">최대 편차</div><div class="v" id="cDev">–</div><div class="n">평균 대비</div></div>
+    <div class="calcbox"><div class="k">삽입토크</div><div class="v" id="cIt">–</div><div class="n">Ncm</div></div>
+  </div>
+  <div id="alerts"></div>
+  <div id="verdict" class="verdict v-mid"><h3>측정값을 입력하세요</h3><div>ISQ 4방향과 삽입토크를 넣으면 부하 결정이 계산됩니다.</div></div>
+
+  <details>
+    <summary>보정 규칙 — 왜 임계값이 70이 아닐 수 있나</summary>
+    <table>
+      <tr><th>조건</th><th>보정</th><th>근거</th></tr>
+      <tr><td>기준 (식립 시)</td><td>ISQ 70</td><td>Andersson 2019 + Bavetta 2024 — 조기·즉시부하 임계</td></tr>
+      <tr><td>4–6주 치유 후 재측정</td><td>ISQ 65</td><td>동일</td></tr>
+      <tr><td>상악동거상 / GBR 동시식립</td><td><b>+3</b></td><td>증대골 안전여유</td></tr>
+      <tr><td>Type IV 골</td><td><b>+2</b></td><td>저밀도골 보정</td></tr>
+    </table>
+    <p class="small">역사적 하한으로 Nedir 2004의 식립시 ISQ ≥49(지연부하) / ≥54(즉시부하)가 있으나, 현행 사다리는 70/65이며 <b>두 기준을 섞으면 판정이 관대해진다</b> — 이 도구는 70/65만 쓴다.</p>
+  </details>
+</div>
+
+<!-- ④ dip -->
+<div class="card hidden" id="cardDip">
+  <h2>④ 즉시부하를 택했다면 — 30일 안정성 딥</h2>
+  <p class="lede">즉시부하 후 ISQ는 <b>내려갔다가 돌아온다</b>. 30일경 최저점을 정상 경과로 알고 있지 않으면, 그 시점의 하락을 실패로 오독해 프로토콜을 바꾸게 된다.</p>
+  <svg viewBox="0 0 620 230" role="img" aria-label="Balshi 2005 즉시부하 ISQ 궤적">
+    <line x1="55" y1="185" x2="595" y2="185" stroke="#DDE0D8" stroke-width="2"/>
+    <line x1="55" y1="20" x2="55" y2="185" stroke="#DDE0D8" stroke-width="2"/>
+    <text x="20" y="40" font-size="11" fill="#5A6472">72</text>
+    <text x="20" y="190" font-size="11" fill="#5A6472">64</text>
+    <line x1="55" y1="35" x2="595" y2="35" stroke="#E4F0EA" stroke-width="1"/>
+    <polyline points="90,42 250,146 420,105 570,90" fill="none" stroke="#1E6B52" stroke-width="3"/>
+    <circle cx="90" cy="42" r="5" fill="#1E6B52"/><circle cx="250" cy="146" r="6" fill="#B03A3A"/>
+    <circle cx="420" cy="105" r="5" fill="#1E6B52"/><circle cx="570" cy="90" r="5" fill="#1E6B52"/>
+    <text x="90" y="30" font-size="12" fill="#1A2030" text-anchor="middle" font-weight="700">70.35</text>
+    <text x="250" y="168" font-size="12" fill="#B03A3A" text-anchor="middle" font-weight="700">66.38</text>
+    <text x="420" y="93" font-size="12" fill="#1A2030" text-anchor="middle" font-weight="700">68.01</text>
+    <text x="570" y="78" font-size="12" fill="#1A2030" text-anchor="middle" font-weight="700">68.82</text>
+    <text x="90" y="205" font-size="11.5" fill="#5A6472" text-anchor="middle">식립 직후</text>
+    <text x="250" y="205" font-size="11.5" fill="#B03A3A" text-anchor="middle" font-weight="700">30일 — 최저점</text>
+    <text x="420" y="205" font-size="11.5" fill="#5A6472" text-anchor="middle">60일</text>
+    <text x="570" y="205" font-size="11.5" fill="#5A6472" text-anchor="middle">90일</text>
+  </svg>
+  <div class="stop"><b>60일 이전에는 프로토콜을 바꾸지 않는다.</b> 딥은 90일까지 자연 회복한다. <span class="cite">Balshi 2005, 전향 n=344 Brånemark, 생존율 98.5%</span></div>
+  <div class="warn" id="dipRisk"></div>
+</div>
+
+<!-- ⑤ 축3 -->
+<div class="card">
+  <h2>⑤ 식립 전에 ISQ를 예상할 수 있나 — 축3 영향변수</h2>
+  <p class="lede">검증된 점추정 공식은 없다. 대신 <b>어느 인자가 얼마나 움직이는지</b>가 측정돼 있고, 그 크기를 알면 식립 전 CBCT만으로 기대 범위를 잡을 수 있다.</p>
+  <table>
+    <tr><th>인자</th><th>측정된 효과</th><th>출처</th></tr>
+    <tr><td><b>치조정 피질골 두께</b> (3 mm 이내)</td><td><b>r = 0.885</b> — 지배적 결정인자. 6·9 mm 깊이와 해면골은 무관(NS)</td><td class="cite">Chatvaratthana 2017, 전향 n=19</td></tr>
+    <tr><td>임플란트 직경</td><td>2차 안정성 ISQ <b>+3.4 ~ +4.2 / mm</b> (다변량 β). 시스템 독립</td><td class="cite">Huang 2017, 후향 n=557</td></tr>
+    <tr><td>직경 ø5 vs ø4</td><td>약 <b>+5 ISQ</b></td><td class="cite">Kim 2013, 후향</td></tr>
+    <tr><td>악궁 (하악 vs 상악)</td><td>약 <b>+5 ISQ</b> (p&lt;0.05)</td><td class="cite">Kim 2013, 후향</td></tr>
+    <tr><td>골이식 동반</td><td>1차 안정성 β <b>−4 ~ −5</b></td><td class="cite">Huang 2017</td></tr>
+    <tr><td>임플란트 길이 (10–13 mm)</td><td><b>유의한 영향 없음</b></td><td class="cite">Kim 2013 · Stoilov 2023</td></tr>
+    <tr><td>Macro-design</td><td>Tapered &gt; Cylindrical, <b>특히 저밀도골</b></td><td class="cite">Nandini 2022</td></tr>
+    <tr><td>표면 화학 (SLActive vs SLA)</td><td>macro-design이 같으면 <b>ISQ 궤적에 독립적 영향 없음</b> (식립 73.0 vs 72.3, 8주 75.5 vs 75.9, 모두 NS)</td><td class="cite">Vilchez 2025, split-mouth RCT n=68</td></tr>
+  </table>
+  <div class="info" id="axis3">케이스를 고르면 해당 인자의 기대 방향이 여기에 요약됩니다.</div>
+  <p class="small"><b>읽는 법</b>: 길이를 늘려 안정성을 벌려는 시도는 근거가 약하고, <b>피질골 고정·직경·tapered 디자인</b>이 실제로 움직이는 축이다. 저밀도골이면 tapered 우선 + 골밀도화(Osseodensification) 보조를 검토한다.</p>
+</div>
+
+<!-- ⑥ 측정 프로토콜 -->
+<div class="card">
+  <h2>⑥ 측정 프로토콜 — 축1</h2>
+  <ol>
+    <li><b>기기</b> — Osstell(ISQ 1–100)을 1차로. Periotest는 상관성은 좋으나 음수 출력(−8~+50)이라 직관성이 떨어진다. <span class="cite">Al-Jetaily 2010 · Zix 2008</span></li>
+    <li><b>SmartPeg 토크 ≥10 Ncm</b>로 표준화. 수동 조임은 값을 낮춘다. <span class="cite">Kastel 2019</span></li>
+    <li><b>4방향(근·원·협·설) 측정.</b> 한 방향만 평균과 ≥10 차이면 재측정.</li>
+    <li><b>SmartPeg 재사용은 안전.</b> 400회 반복 측정 + 오토클레이브(132°C/15분) 포함 6종 소독 후에도 ISQ 유의 변화 없음. 자성 소실은 <b>150°C 초과</b>에서만. 제조사의 1회 사용 권고는 보수적이다. <span class="cite">Won 2008, in-vitro</span></li>
+    <li><b>Anycheck(IST/DCA)</b>는 Osstell과 동등한 경향을 보이며 <b>측정자 독립적</b>이다(표준 토크 고정). 비전문가 측정이나 연속 추적에 대안. 단 longitudinal 비교는 <b>동일 관찰자·동일 기기</b>로. <span class="cite">Lee 2024, in-vitro n=60</span></li>
+  </ol>
+</div>
+
+<!-- ⑦ 라우팅 -->
+<div class="card">
+  <h2>⑦ 더 깊이 — 전문 도구</h2>
+  <p class="lede">이 허브는 사다리 전체를 훑는 입구다. 각 조각을 파고들 도구는 따로 있고, 지금 케이스에 맞는 것을 <b>강조</b>해 둔다.</p>
+  <div class="tools" id="tools">
+    <a class="tool" data-k="sim" href="2026-06-02_isq-rfa-loading-simulator-v1.html"><b>ISQ·RFA 통합 시뮬레이터</b><span>측정 → 치유 궤적 → 부하결정 시뮬레이션</span></a>
+    <a class="tool" data-k="dev" href="2026-08-18_ist-vs-isq-device-selector.html"><b>IST vs ISQ 기기 선택기</b><span>Osstell(RFA) vs Anycheck(DCA) — 측정자 독립성·신뢰도</span></a>
+    <a class="tool" data-k="mill" href="2026-08-18_under-milling-itv-isq-calculator.html"><b>Under-milling ITV·ISQ 예측기</b><span>저밀도골에서 언더밀링으로 1차 안정성 끌어올리기</span></a>
+    <a class="tool" data-k="flex" href="isq-flex-constant-explorer.html"><b>ISQ ↔ 측방변위 탐색기</b><span>ISQ 수치가 실제 미세동요로 얼마인지</span></a>
+    <a class="tool" data-k="dof" href="rfa-2dof-frequency-simulator.html"><b>RFA 2-DOF 시뮬레이터</b><span>강성·공진주파수·미세변위의 물리</span></a>
+  </div>
+</div>
+
+<footer>
+  근거: <code>wiki/overviews/implants-isq-stability-ladder</code> (31편 spine) 및 그 구성 논문.
+  임계값 Andersson 2019·Bavetta 2024 · 궤적 Balshi 2005 · 상관 Tisci 2026 · 측정 Kastel 2019·Won 2008·Lee 2024 · 변수 Chatvaratthana 2017·Huang 2017·Kim 2013.<br>
+  임상 판단을 대체하지 않는다.
+</footer>
+</div>
+
+<script>
+(function(){
+  var S={arch:"mn",site:"ant",bone:"2",aug:"none",socket:"healed"};
+
+  function optInit(id,key){
+    var el=document.getElementById(id);
+    el.querySelectorAll("button").forEach(function(b){
+      b.addEventListener("click",function(){
+        el.querySelectorAll("button").forEach(function(x){x.classList.remove("on");});
+        b.classList.add("on"); S[key]=b.dataset.v; render();
+      });
+    });
+  }
+  optInit("oArch","arch"); optInit("oSite","site"); optInit("oBone","bone");
+  optInit("oAug","aug");  optInit("oSocket","socket");
+  ["i1","i2","i3","i4","it"].forEach(function(id){
+    document.getElementById(id).addEventListener("input",render);
+  });
+
+  function num(id){ var v=parseFloat(document.getElementById(id).value); return isFinite(v)?v:null; }
+
+  function render(){
+    // ── 보정 임계값 (ladder 축2) ──
+    var thr=70, notes=["기준 70"];
+    if(S.aug==="aug"){ thr+=3; notes.push("증대 +3"); }
+    if(S.bone==="4"){ thr+=2; notes.push("Type IV +2"); }
+    document.getElementById("cThr").textContent=thr;
+    document.getElementById("cThrN").textContent=notes.join(" · ");
+
+    var vals=[num("i1"),num("i2"),num("i3"),num("i4")].filter(function(v){return v!==null;});
+    var it=num("it");
+    document.getElementById("cIt").textContent = it===null?"–":it;
+
+    var mean=null, dev=null, devIdx=-1;
+    if(vals.length){
+      mean=vals.reduce(function(a,b){return a+b;},0)/vals.length;
+      var all=[num("i1"),num("i2"),num("i3"),num("i4")];
+      all.forEach(function(v,i){ if(v!==null){ var d=Math.abs(v-mean); if(dev===null||d>dev){dev=d;devIdx=i;} } });
+    }
+    document.getElementById("cMean").textContent = mean===null?"–":mean.toFixed(1);
+    document.getElementById("cMeanN").textContent = vals.length? vals.length+"방향 입력" : "4방향";
+    document.getElementById("cDev").textContent = dev===null?"–":dev.toFixed(1);
+
+    // ── 경고 ──
+    var A=[], names=["근심","원심","협측","설측"];
+    if(vals.length && vals.length<4)
+      A.push(['warn','<b>4방향을 다 넣어야 편차 검사가 유효하다.</b> 현재 '+vals.length+'방향만 입력됨 — 근·원·협·설 전부 측정한다.']);
+    if(dev!==null && dev>=10 && vals.length===4)
+      A.push(['stop','<b>재측정 신호</b> — '+names[devIdx]+' 방향이 평균과 '+dev.toFixed(1)+' 차이(≥10). 한 방향만 크게 벗어나면 SmartPeg 체결·측정각도 문제일 수 있다. 토크 ≥10 Ncm 확인 후 다시 잰다. <span class="cite">Kastel 2019</span>']);
+    if(S.socket==="fresh")
+      A.push(['warn','<b>신선 발치와 — ISQ가 인위적으로 낮게 나온다</b> (약 57 vs 치유골 72). 여기서는 <b>삽입토크(≥35 Ncm)를 1차 기준</b>으로 쓰고 ISQ는 보조로 읽는다.']);
+    if(mean!==null && it!==null){
+      if(mean>=thr && it<35)
+        A.push(['warn','<b>ISQ와 토크가 갈린다</b> — ISQ는 임계 이상인데 토크가 35 Ncm 미만. 둘의 상관은 <b>r=0.44 (I²&gt;90%)</b>로 약해서 이런 불일치는 드물지 않고, <b>갈리는 것 자체가 정보</b>다. 즉시부하는 두 조건을 모두 만족할 때만. <span class="cite">Tisci 2026 SR+MA</span>']);
+      else if(mean<60 && it>=45)
+        A.push(['info','토크는 높은데 ISQ가 낮다 — 피질골 고정은 좋으나 전체 계면 강성이 낮을 수 있다. 4방향 편차와 골질을 다시 본다.']);
+    }
+    document.getElementById("alerts").innerHTML = A.map(function(a){
+      return '<div class="'+a[0]+'">'+a[1]+'</div>';}).join("");
+
+    // ── 부하 결정 ──
+    var V=document.getElementById("verdict"), dip=false;
+    // 4방향 중 한 곳이 평균과 10 이상 벌어지면 그 평균으로 부하를 결정하지 않는다.
+    // 재측정 경고만 띄우고 판정을 계속 내면, 도구가 못 믿을 값으로 즉시부하를
+    // 승인해 버린다 — 실제로 시험에서 그 상태가 나와 여기서 막는다.
+    var unreliable = (vals.length===4 && dev!==null && dev>=10);
+    if(unreliable && mean!==null && it!==null){
+      V.className="verdict v-stop";
+      V.innerHTML="<h3>판정 보류 — 먼저 재측정</h3><div>"+names[devIdx]+" 방향이 평균과 "
+        +dev.toFixed(1)+" 차이(≥10)라 이 평균("+mean.toFixed(1)+")으로는 부하를 결정하지 않는다."
+        +" SmartPeg 체결 토크(≥10 Ncm)와 측정 각도를 확인하고 4방향을 다시 잰 뒤 판정한다."
+        +"<br><span class='small'>참고로 현재 보정 임계값은 "+thr+"이다.</span></div>";
+      document.getElementById("cardDip").classList.add("hidden");
+      renderAxis3(); renderTools(false, dev, mean);
+      return;
+    }
+    if(mean===null||it===null){
+      V.className="verdict v-mid";
+      V.innerHTML="<h3>측정값을 입력하세요</h3><div>ISQ 4방향과 삽입토크를 넣으면 부하 결정이 계산됩니다.</div>";
+    } else if(S.socket==="fresh"){
+      if(it>=35){ V.className="verdict v-mid"; dip=true;
+        V.innerHTML="<h3>즉시부하 검토 가능 — 단, 토크 기준으로</h3><div>신선 발치와라 ISQ("+mean.toFixed(1)+")는 낮게 나오는 것이 정상이다. 삽입토크 "+it+" Ncm ≥ 35로 1차 기준을 만족한다. 전치부 단일치라면 즉시 임시보철을 검토하되, 30일 딥을 전제로 계획한다.</div>";
+      } else { V.className="verdict v-stop";
+        V.innerHTML="<h3>통상 부하</h3><div>신선 발치와 + 토크 "+it+" Ncm &lt; 35. ISQ는 이 상황에서 판단 근거로 약하다. 통상 부하로 가고 치유 후 재평가한다.</div>"; }
+    } else if(mean>=thr && it>=35){
+      V.className="verdict v-go"; dip=true;
+      var extra = S.site==="ant" ? "전치부 단일치 즉시 임시보철의 근거 조건을 충족한다."
+                                 : "구치부다 — 사다리의 즉시 임시보철 근거는 <b>전치부 단일치</b>에서 나왔다. 구치부 적용은 외삽이므로 보수적으로 판단한다.";
+      V.innerHTML="<h3>즉시부하 조건 충족</h3><div>ISQ 평균 "+mean.toFixed(1)+" ≥ 보정임계 "+thr+", 삽입토크 "+it+" Ncm ≥ 35. "+extra+"</div>";
+    } else if(mean>=60){
+      V.className="verdict v-mid";
+      V.innerHTML="<h3>통상 부하 — 또는 4–6주 후 재측정</h3><div>ISQ 평균 "+mean.toFixed(1)+"은 60–"+(thr-1)+" 구간"+(it<35?" (토크도 "+it+" Ncm &lt; 35)":"")+". 통상 부하(3–4개월)로 가거나, <b>4–6주 뒤 재측정해 ISQ ≥65</b>면 조기부하를 검토한다.</div>";
+    } else {
+      V.className="verdict v-stop";
+      V.innerHTML="<h3>통상 부하 + 추가 치유</h3><div>ISQ 평균 "+mean.toFixed(1)+" &lt; 60. 통상 부하로 가고 치유 기간을 충분히 준다. 저밀도골이면 tapered 디자인·골밀도화 보조를 다음 케이스에서 검토한다.</div>";
+    }
+
+    // ── 딥 카드 ──
+    document.getElementById("cardDip").classList.toggle("hidden", !dip);
+    if(dip){
+      var risky=[];
+      if(S.site==="post") risky.push("구치부");
+      if(S.bone==="3"||S.bone==="4") risky.push("연질골(Type "+(S.bone==="3"?"III":"IV")+")");
+      document.getElementById("dipRisk").innerHTML = risky.length
+        ? "<b>이 케이스는 딥이 더 깊고 회복이 느릴 수 있다</b> — "+risky.join(" · ")+". Balshi 2005는 연조직·구치부·여성에서 딥이 더 크고 회복이 느렸다고 보고한다. 추적 간격을 좁힌다."
+        : "일반적 회복 경과가 예상되는 조건이다. 그래도 30일 최저점은 정상 경과로 읽는다.";
+    }
+
+    renderAxis3();
+    renderTools(dip, dev, mean);
+  }
+
+  function renderAxis3(){
+    // ── 축3 요약 ──
+    var a3=[];
+    a3.push(S.arch==="mn" ? "하악 — 상악 대비 약 <b>+5 ISQ</b> 기대 (Kim 2013)"
+                          : "상악 — 하악 대비 약 <b>−5 ISQ</b> 기대 (Kim 2013)");
+    if(S.bone==="4") a3.push("Type IV — 저밀도골. <b>tapered 디자인 우선</b>, 골밀도화 보조 검토 (Nandini 2022)");
+    else if(S.bone==="3") a3.push("Type III — tapered 디자인의 이점이 나타나는 구간 (Nandini 2022)");
+    else a3.push("Type "+(S.bone==="1"?"I":"II")+" — 피질골 고정이 유리한 조건");
+    if(S.aug==="aug") a3.push("증대 동반 — 1차 안정성 β <b>−4 ~ −5</b> (Huang 2017). 임계값 +3 보정이 이걸 반영한다");
+    a3.push("직경을 1 mm 키우면 2차 안정성 <b>+3.4~+4.2 ISQ</b>. 길이를 늘리는 것은 <b>유의한 효과가 없다</b> (Kim 2013·Stoilov 2023)");
+    document.getElementById("axis3").innerHTML = "<ul><li>"+a3.join("</li><li>")+"</li></ul>";
+  }
+
+  function renderTools(dip, dev, mean){
+    var hot=[];
+    if(S.bone==="3"||S.bone==="4") hot.push("mill");
+    if(dev!==null&&dev>=10) hot.push("dev");
+    if(dip) hot.push("sim");
+    if(mean!==null&&mean<60) hot.push("flex");
+    document.querySelectorAll("#tools .tool").forEach(function(t){
+      t.classList.toggle("hot", hot.indexOf(t.dataset.k)>=0);
+    });
+  }
+  render();
+})();
+</script>
+</body>
+</html>
