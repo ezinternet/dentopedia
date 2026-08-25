@@ -52,6 +52,21 @@ _stem_nfc = _ddc._stem_nfc
 DOI_RE = re.compile(r"\b10\.\d{4,9}/[-._;()/:A-Za-z0-9]+")
 # 근사 매칭 임계값. 0.75면 부제 유무·전치사 차이는 잡고 다른 논문은 거른다.
 FUZZY_THRESHOLD = 0.75
+# 포함계수(overlap coefficient) — |A∩B| / min(|A|,|B|).
+# Jaccard만으로는 **부제 절단**을 놓친다: PDF 1면에서 뽑은 제목이 저장 제목의
+# 앞부분만인 경우, 긴 쪽의 잉여 토큰이 합집합을 부풀려 점수가 무너진다.
+# 실측(2026-08-25, 이 스크립트의 첫 실사용에서 발견):
+#   추출 "european guidelines on radiation protection in dental radiology"        (6토큰)
+#   저장 "... the safe use of radiographs in dental practice" 포함               (10토큰)
+#   → Jaccard 6/10 = 0.60 (미달, 놓침) / 포함계수 6/6 = 1.00 (검출)
+# 짧은 제목이 긴 제목에 우연히 삼켜지는 오탐을 막기 위해 작은 쪽 ≥5토큰을 요구한다.
+# 단, 포함계수는 **Tier 1(STOP)로 쓰면 안 된다** — 2026-08-25 회귀에서
+# ada-2024-chairside-guide-* 2편과 carrasco-labra-2024-...-guideline이
+# 서로를 포함 100%로 물었다(제목 앞부분이 통째로 공통인 형제 문서군).
+# 그래서 포함계수는 Tier 2(검토 신호, exit 0)로 내리고,
+# 부제 절단의 확정 판별은 PDF 바이트 대조가 맡는다.
+CONTAINMENT_THRESHOLD = 0.90
+CONTAINMENT_MIN_TOKENS = 5
 STOPWORDS = {"a", "an", "the", "of", "in", "on", "for", "and", "or", "to", "with", "vs", "versus"}
 
 
@@ -63,6 +78,46 @@ def _jaccard(a: set[str], b: set[str]) -> float:
     if not a or not b:
         return 0.0
     return len(a & b) / len(a | b)
+
+
+def _containment(a: set[str], b: set[str]) -> float:
+    """작은 쪽 기준 포함률. 부제 절단·접두 일치를 잡는다."""
+    if not a or not b:
+        return 0.0
+    return len(a & b) / min(len(a), len(b))
+
+
+def same_pdf_in_papers(path: str) -> list[tuple[str, str]]:
+    """papers/에 크기 동일 → md5 동일한 PDF가 있는지. 재스테이징의 확정 판별.
+
+    3.5GB 전체를 해싱하지 않는다 — os.stat 크기로 먼저 거르고 일치분만 md5.
+    루트 재스테이징(duplicate-skip의 최대 원인)은 대개 바이트 동일이라
+    제목·DOI 추출이 실패해도 이 경로가 잡는다.
+    """
+    import hashlib
+    papers = REPO / "papers"
+    if not papers.is_dir():
+        return []
+    try:
+        size = os.path.getsize(path)
+    except OSError:
+        return []
+    cands = [f for f in os.listdir(papers)
+             if f.endswith(".pdf") and os.path.getsize(papers / f) == size]
+    if not cands:
+        return []
+    try:
+        h = hashlib.md5(open(path, "rb").read()).hexdigest()
+    except OSError:
+        return []
+    out = []
+    for f in cands:
+        try:
+            if hashlib.md5(open(papers / f, "rb").read()).hexdigest() == h:
+                out.append((_stem_nfc(f), "papers/ PDF와 바이트 동일"))
+        except OSError:
+            continue
+    return out
 
 
 def from_pdf(path: str) -> tuple[str, str]:
@@ -130,7 +185,11 @@ def main() -> int:
     rows = load_sources()
     print(f"sources/ {len(rows)}편 대조")
 
-    hits: list[tuple[str, str]] = []
+    hits: list[tuple[str, str]] = []      # Tier 1 — 확정, exit 1
+    review: list[tuple[str, str]] = []    # Tier 2 — 근사, exit 0 (사람/LLM 판단)
+
+    if args.pdf:
+        hits.extend(same_pdf_in_papers(args.pdf))
 
     if ndoi:
         for stem, sdoi, _ in rows:
@@ -145,23 +204,40 @@ def main() -> int:
             if stitle == ntitle:
                 hits.append((stem, "제목 정규화 완전일치"))
                 continue
-            j = _jaccard(qt, _tokens(stitle))
+            st = _tokens(stitle)
+            j = _jaccard(qt, st)
             if j >= FUZZY_THRESHOLD:
                 hits.append((stem, f"제목 근사일치 {j:.0%}"))
+                continue
+            c = _containment(qt, st)
+            if c >= CONTAINMENT_THRESHOLD and min(len(qt), len(st)) >= CONTAINMENT_MIN_TOKENS:
+                review.append((stem, f"제목 포함 {c:.0%} — 부제 절단이거나 형제 문서"))
 
     # stem 중복 제거 (DOI·제목 양쪽에 걸린 경우 사유를 합친다)
     merged: dict[str, list[str]] = {}
     for stem, why in hits:
         merged.setdefault(stem, []).append(why)
 
+    rmerged: dict[str, list[str]] = {}
+    for stem, why in review:
+        if stem not in merged:
+            rmerged.setdefault(stem, []).append(why)
+
+    if rmerged:
+        print("\n⚠ Tier 2 — 근사 후보 (STOP 아님, 읽고 판단하라)")
+        for stem, whys in sorted(rmerged.items()):
+            print(f"   • {stem}  ({', '.join(sorted(set(whys)))})")
+        print("   제목 앞부분이 통째로 겹치는 형제 문서군일 수 있다 "
+              "(예: ADA 지침 본문 vs 그 Chairside Guide 2종).")
+
     if not merged:
-        print("\n✅ 중복 없음 — 신규 인제스트 진행 가능")
+        print("\n✅ Tier 1 중복 없음 — 신규 인제스트 진행 가능")
         if not ndoi:
             print("   (DOI가 없으므로 제목 근사매칭만 수행됨. "
                   "frontmatter doi: null 로 두고 log-deviation.py <stem> no-doi 기록할 것)")
         return 0
 
-    print("\n🛑 중복 의심 — 신규 페이지 생성 금지, 기존 페이지를 갱신하라")
+    print("\n🛑 Tier 1 중복 확정 — 신규 페이지 생성 금지, 기존 페이지를 갱신하라")
     for stem, whys in sorted(merged.items()):
         print(f"   • {stem}")
         print(f"     사유: {', '.join(sorted(set(whys)))}")
