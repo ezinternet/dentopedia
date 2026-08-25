@@ -16,7 +16,7 @@ python3 scripts/daily-audit.py
 
 | Audit | Type | Purpose |
 |---|---|---|
-| `lint.py` | error | wiki frontmatter required fields |
+| `lint.py` | error | **두 범위를 돈다.** ①**빌드 안전성 — `wiki/` 전체, 예외 없음**: frontmatter 최상위 키 중복 + YAML 파싱. ②**논문 필드 — `SKIP_DIRS` 제외**: 필수 필드·근거등급 vocab·아티팩트 경로 쌍. 이 분리는 2026-08-25 사고의 산물이다 — `wiki/overviews/patient-safety-culture-dentistry-overview.md`에 `date:`가 두 번 들어가 GitHub Pages 배포가 하루 넘게 실패했는데, **키 중복 검사는 그때도 이미 있었고 `overviews`가 `SKIP_DIRS`에 있어 스캔되지 않았을 뿐이다.** 검사가 있어도 안 도는 곳에 있으면 없는 것과 같다: 로컬 감사 21개·CI Wiki Lint 전부 초록불인 채 공개 배포만 조용히 깨졌다. 범위를 배포와 일치시킨 근거는 워크플로가 `cp -r wiki/.`로 **`wiki/` 전부**를 Quartz content로 넣는다는 것 — 검사 범위 ≠ 빌드 범위이면 같은 사고가 반복된다. 실측 구멍 304개 파일(overviews 277·evidence-appraisal 15·_lint 9·_meta 1·wiki/index.md·category-map). 키 중복을 **문자열 파싱으로** 따로 보는 이유: PyYAML `safe_load`는 중복 키에서 마지막 값을 조용히 채택해 절대 안 잡고, Quartz의 js-yaml만 `duplicated mapping key`로 빌드를 exit 1로 죽인다 — 즉 로컬 YAML 검사로는 원리상 검출 불가능하다 |
 | `operations-lint.py` | error | OPS files (agenda/slides/interactives) cross-link chain |
 | `orphan-check.py` | error | PDFs ↔ sources 1:1 matching |
 | `synthesis-backlog.py` | signal | sources/ not referenced by any overview, stale ≥30d |
