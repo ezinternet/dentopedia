@@ -1127,6 +1127,15 @@ tags: []
 - [[complete-denture/li-2022-digital-edentulous-maxillomandibular-relationship-jaw-tracking]] — Li 2022 · prospective (초록전용, n=10) · 자체제작 턱운동추적으로 무치악 악간관계를 디지털 결정 — 하악안정위 (Mandibular Rest Position, MRP) 2mm 상방 평면으로 수직, 궤적 최고밀도점으로 수평 결정. 전방기준점은 차이 없으나 **전체 악궁 3D 편차 유의(95% CI 0.76–1.35mm, p<0.001)** = 회전성 오차 시사; 저자 자평 "정확도 개선 필요" — 검증된 술식 아님. 대조군이 관행제작 의치라 ground truth 아님 (DOI 10.1111/jopr.13529)
 - [[complete-denture/li-2021-optical-jaw-tracking-edentulous-jaw-relations-in-vitro]] — Li 2021 · in-vitro (초록전용) · 광학 턱추적의 무치악 편심위(전방·측방·소개구) 기록 정확도, 교합기상 3D 편차 112–133 μm(<200 μm). **같은 팀 임상판(li-2022)은 0.76–1.35mm로 약 6–10배 열화** — 벤치 정확도가 구강으로 얼마나 이월되는지 보여주는 정량적 사례. 중심위 자체가 아닌 궤적 포착의 검증임에 유의 (DOI 10.11607/ijp.7126)
 
+## 국소의치 — 선택 결정 (Removable Partial Denture: Selection Decision — added 2026-08-26)
+
+> 신설 카테고리. "발치 후 무엇으로 수복하나"의 세 번째 가지 — 임플란트·고정성 보철과 나란히 놓이는 가철성 국소의치의 **선택 결정 축**(언제 RPD인가). 설계·제작·임플란트 보조 RPD(IARPD)는 범위 밖(후속 별건).
+
+- [[removable-partial-denture/drummond-2024-rpd-long-term-periodontal-health-sr-ma]] — SR+MA(46편·보철 4,359개·4,072명, 평균 60세): RPD 5년 생존 주조클라스프 95.1% vs 이중관 91.7%(NS); **지대치 발치 위험 OR 1.99·실활 지대치 HR 2.96**; 동요도·탐침깊이 불변, 치은지수만 +0.477 → 장기 비용은 의치가 아니라 지대치에 몰린다
+- [[removable-partial-denture/walter-2021-shortened-dental-arch-15year-rct]] — **15년 다기관 RCT**(독일 14개 치대, PRDP 81 vs 단축치열 SDA 71): 무사건 성공률 50% 하회 시점 14.2년 vs 14.3년, **어느 분석에서도 군간 유의차 없음** → 대구치를 채우느냐 마느냐가 보철 성공률을 못 바꾼다; 결정축이 비용·침습도·유지관리로 이동
+- [[removable-partial-denture/gotfredsen-2021-removable-partial-prosthesis-periodontitis-sr]] — SR(EFP 워크숍, 1966–2020): 치주염 환자에서 RPD vs 무처치·SDA·고정성 보철. **"RPD 자체가 치주파괴·치아상실을 일으킨다는 강한 근거 없음"**; 일관된 소견은 치태 축적 증가 → 금기가 아니라 유지치료 조건부. OHRQoL 개선은 SDA·FDP보다 작음
+- [[removable-partial-denture/beikler-2015-eao-economic-evaluation-implant-prostheses]] — EAO 합의(비용효과): 살릴 수 있는 치아는 보존이 경제적으로 우세(근관치료 → 정방향 재치료; 1급 근분지부 대구치는 비수술 치주치료가 **더 효과적이고 더 저렴**); 근관 재치료 실패 후엔 임플란트 단관 > 고정성·가철성 국소의치. 한국 수가엔 직접 적용 불가([미검증]), 이전되는 것은 순서뿐
+
 ## 비니어·라미네이트 (Veneers — added 2026-06-15)
 - [[overviews/veneers-category-synthesis-overview]] — Category Synthesis (28편, 2026): 3개 클러스터(재료/생존/프로토콜·최소삭제·교합비니어) 허브 — 통합원칙: 에나멜 구속(enamel confinement) — 상아질 마진 노출 시 실패위험 ~10×, 재료·삭제 깊이 무관(El-Mowafy 2018; Klein 2025·Reis 2025 확인)
 - [[veneers/sharma-2026-resin-cement-shade-ceramic-veneers-sr]] — Sharma 2026 · sr · in-vitro SR(10편): 레진시멘트 색조·투명도가 세라믹 비니어 최종색 좌우 — 불투명/고채도 시멘트 ΔE>3.3(임상 허용 초과), 박형·고투명 비니어서 최악; try-in paste 비신뢰 (DOI 10.3389/fdmed.2026.1789416)
