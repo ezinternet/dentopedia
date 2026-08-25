@@ -1135,6 +1135,9 @@ tags: []
 - [[removable-partial-denture/walter-2021-shortened-dental-arch-15year-rct]] — **15년 다기관 RCT**(독일 14개 치대, PRDP 81 vs 단축치열 SDA 71): 무사건 성공률 50% 하회 시점 14.2년 vs 14.3년, **어느 분석에서도 군간 유의차 없음** → 대구치를 채우느냐 마느냐가 보철 성공률을 못 바꾼다; 결정축이 비용·침습도·유지관리로 이동
 - [[removable-partial-denture/gotfredsen-2021-removable-partial-prosthesis-periodontitis-sr]] — SR(EFP 워크숍, 1966–2020): 치주염 환자에서 RPD vs 무처치·SDA·고정성 보철. **"RPD 자체가 치주파괴·치아상실을 일으킨다는 강한 근거 없음"**; 일관된 소견은 치태 축적 증가 → 금기가 아니라 유지치료 조건부. OHRQoL 개선은 SDA·FDP보다 작음
 - [[removable-partial-denture/beikler-2015-eao-economic-evaluation-implant-prostheses]] — EAO 합의(비용효과): 살릴 수 있는 치아는 보존이 경제적으로 우세(근관치료 → 정방향 재치료; 1급 근분지부 대구치는 비수술 치주치료가 **더 효과적이고 더 저렴**); 근관 재치료 실패 후엔 임플란트 단관 > 고정성·가철성 국소의치. 한국 수가엔 직접 적용 불가([미검증]), 이전되는 것은 순서뿐
+- [[removable-partial-denture/choong-2022-ohrqol-after-rpd-rehabilitation-sr-ma]] — SR+MA(적격 13편·병합 8편, PROSPERO 등록): RPD 후 OHIP-14가 3개월 −12.0·6개월 −10.5로 개선(둘 다 **확실성 very low**)이나 **12개월엔 유의성 소실**(n=62, MD −12.7, 95% CI −26.1~0.6, p=0.06); OHIP-49는 12개월 유의. 표본이 222→101→62로 붕괴해 12개월 null은 **검정력 부족**이지 효과 소멸 아님
+- [[removable-partial-denture/campbell-2017-rpd-clinical-need-for-innovation]] — narrative review: **5년 내 약 40%가 RPD 사용 중단**(사회인구·통증·심미). 보철 *생존*과 *사용*은 다른 종점 — Drummond의 5년 생존 95.1%를 성공률로 환자에게 말할 수 없다. 40%는 서술적 인용값이라 크기 신호로만 쓸 것(1차 출처 미추적·한국 이전성 미검증)
+- [[removable-partial-denture/kalsi-2021-periodontal-health-shortened-dental-arch]] — EBD 논평(Walter와 **같은 독일 RCT의 10년 치주 축**): ITT 기준 CAL 소실이 SDA 우위(연구악 0.79mm·전체 0.69mm, p≤0.05), BOP·치태지수도 SDA 우위. 단 논평자 스스로 **"임상적으로 유의할 가능성은 낮다"**; per-protocol이 25/22로 붕괴(무작위 배정의 1/4 미만)
 
 ## 비니어·라미네이트 (Veneers — added 2026-06-15)
 - [[overviews/veneers-category-synthesis-overview]] — Category Synthesis (28편, 2026): 3개 클러스터(재료/생존/프로토콜·최소삭제·교합비니어) 허브 — 통합원칙: 에나멜 구속(enamel confinement) — 상아질 마진 노출 시 실패위험 ~10×, 재료·삭제 깊이 무관(El-Mowafy 2018; Klein 2025·Reis 2025 확인)
