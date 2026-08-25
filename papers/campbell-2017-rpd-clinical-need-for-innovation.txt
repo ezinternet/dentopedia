@@ -1,0 +1,24 @@
+SOURCE: PubMed structured abstract (abstract-only; full text not retrieved — no PMC record)
+PMID: 28343666 | DOI: 10.1016/j.prosdent.2017.01.008
+J Prosthet Dent. 2017;118(3):273-280.
+
+Removable partial dentures: The clinical need for innovation.
+Campbell SD, Cooper L, Craddock H, Hyde TP, Nattress B, Pavitt SH, Seymour DW.
+
+STATEMENT OF PROBLEM: The number of partially dentate adults is increasing and many patients will
+require replacement of missing teeth. Although current treatment options also include fixed partial
+dentures and implants, removable partial dentures (RPDs) can have advantages and are widely used in
+clinical practice. However, a significant need exists to advance materials and fabrication
+technologies because of the unwanted health consequences associated with current RPDs.
+PURPOSE: Assess the current state of and future need for prosthetics such as RPDs for patients with
+partial edentulism, highlight areas of weakness, and outline possible solutions to issues that affect
+patient satisfaction and the use of RPDs.
+MATERIAL AND METHODS: Data on treatment for partial edentulism reviewed and summarised, focused on
+currently available and future RPD designs, materials, means of production, and impact on oral health.
+Data on patient satisfaction and compliance with RPD treatment also reviewed.
+RESULTS: Design, materials, ease of repair, patient education, and follow-up for RPD treatment all had
+a significant impact on treatment success. **Almost 40% of patients no longer use their RPD within 5
+years** because of factors such as sociodemographics, pain, and esthetics. Research on RPD-based
+treatment for partial edentulism for both disease-oriented and patient-centered outcomes is lacking.
+CONCLUSIONS: Future trials should evaluate new RPD materials and design technologies and include both
+long-term follow-up and health-related and patient-reported outcomes.
