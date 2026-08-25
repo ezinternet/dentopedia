@@ -1,0 +1,28 @@
+SOURCE: PubMed structured abstract (abstract-only; full text not retrieved — no PMC record)
+PMID: 33713361 | DOI: 10.1111/joor.13167
+J Oral Rehabil. 2021;48(6):738-744.
+
+Rehabilitation of shortened dental arches: A fifteen-year randomised trial.
+Walter MH, Marre B, Dreyhaupt J, Heydecke G, Rauch A, Mundt T, Hannak W, Kohal RJ, Kern M,
+Nothdurft F, Hartmann S, Boning K, Boldt J, Stark H, Edelhoff D, Wostmann B, Wolfart S, Jahn F, Luthardt RG.
+(German multicentre randomised trial; 14 dental schools/universities.)
+
+BACKGROUND: Few long-term studies on treatments in the shortened dental arch (SDA) are available.
+OBJECTIVE: Analyse long-term success of two different treatment concepts.
+METHODS: Patients over 35 years of age with missing molars in one jaw and at least the canine and one
+premolar present on both sides were eligible.
+- Partial removable dental prosthesis (PRDP) group (N=81): molars and missing second premolars replaced
+  by a precision-attachment retained prosthesis.
+- SDA group (N=71): dental arch ended with the second premolar, which had to be present or replaced by
+  a cantilever fixed dental prosthesis.
+Follow-up examinations over 15 years.
+RESULTS: A comprehensive outcome variable comprised four failure categories; Kaplan-Meier survival
+(success) analyses conducted.
+- Half of patients exhibited continuous preservation of per-protocol prosthetic status, totally
+  unaffected by complications, for more than 10 years.
+- Event-free success rates for moderate-or-worse failure implied loss of per-protocol prosthetic status;
+  respective survival fell below 50% at 14.2 years (PRDP) and 14.3 years (SDA).
+- In NONE of the analyses was a significant group difference found.
+CONCLUSION: In patients with an SDA condition, changes in prosthetic status have to be expected. The
+affected proportion increases almost linearly from shortly after treatment and comprises the majority
+after 15 years. The influence of the examined treatments on success appears to be low.
