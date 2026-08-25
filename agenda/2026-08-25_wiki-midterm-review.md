@@ -113,7 +113,7 @@ inbound 28  oral-medicine-decision-ladder
 
 ## 7. 미해결 잔여
 
-- DOI 중복 `gupta-2019` 2 stem — 2026-08-14부터 미해결
+- ~~DOI 중복 `gupta-2019` 2 stem~~ — **오기. 이미 병합돼 있었다** (`ff3e21b merge(doi-duplicate)`). 2026-08-14 로그를 근거로 "미해결"이라 적었으나 그 후 처리된 건이었고, 재실행하니 `doi-duplicate-check`는 3049편 중 중복 0을 보고한다. 메모 [[rerun-audits-before-acting]]가 경고한 그대로 — **감사 로그는 스냅샷이다**
 - relations off-vocab 17건 — `extended-by` 4 · `related` 4 · `complements` 4 · `synthesizes` 3
 - contradiction Tier 1 2건 (`naughton-2023`→`kastel-2019`, `pignatelli-2020`→`elzein-2021`)
 - category-overflow 후보 3개 — implants/isq 10편 · drug/analgesics 5편 · drug/mronj 5편
@@ -132,11 +132,24 @@ inbound 28  oral-medicine-decision-ladder
 - [ ] **허브 overview 상위 5편 → 산출물 전환** (최우선). `implants-isq-stability-ladder` 1편부터. agenda 선행 필수 (OPERATIONS.md §1 hard rule)
 - [ ] 같은 5편에 recall 스펙 3문항씩 동반 (retention 축)
 - [ ] 결손 도메인 3개 최소 종합 확보 — 크라운·브릿지 / RPD / 소아치과, 각 15~20편
-- [ ] CLAUDE.md 자기서술 교정 — 2곳의 "20 audits" → **21** (`daily-audit.py` 실측 21개, AUDITS.md도 21)
+- [x] CLAUDE.md 자기서술 교정 — 2곳의 "20 audits" → **21** (2026-08-25 완료, `d286a6d`)
 - [ ] link-integrity 네비 허브 오탐 119건 처리 방침 결정
-- [ ] `gupta-2019` DOI 중복 병합
 - [ ] relations off-vocab 17건 정규 vocab으로 교정
 - [ ] drug 카테고리 decay 21편(중앙 10.1년) 우선 triage
+
+## 데비에이션 후속 (2026-08-25 실행 완료)
+
+- [x] **루트 스테이징 PDF 정리** — 16개 중 10개가 이미 인제스트된 논문의 재다운로드로 확인돼 삭제
+      (md5 완전동일 7 + 동일 DOI·papers 사본이 더 완전 3). `.gitignore`에 `/*.pdf` 추가로 재발 차단 (`9140903`).
+      보존 5개: 신규 1편(`PIIS0002817723003355.pdf` — JADA 2023 코르티코스테로이드),
+      업그레이드 자산 1편(`s12903-024-04611-0.pdf` — momand-2024는 pubmed-text라 papers/ PDF 없음),
+      전문 검토 1편(`PIIS000281772200681X.pdf` — papers/ 사본이 465KB 22p로 더 작아 페이월 랜딩 의심), 환자 유인물 2편
+- [x] **deviation-audit 억제 3겹** — 후보 16종 → 5종(실제 공정결함 3종) (`41fa81e`, 문서 `e8a3b1c`)
+- [x] **Step 0 중복검출 보강** — `scripts/dedup-check.py` 신설. DOI 정규화 + 제목 정규화 + 토큰 Jaccard ≥0.75.
+      정규화 함수는 `doi-duplicate-check.py`에서 import (복제 금지). 제목이 극히 비슷한 형제 3편 교차 오탐 0건 실측
+- [x] **서브에이전트 qmd 경로 명시** — Step 3.5(b)를 MCP 도구가 아닌 **Bash CLI** 우선으로.
+      `qmd-unavailable` 7건의 원인 3종 중 2종(도구목록 부재·ToolSearch 미도달)이 셸 경로에선 애초에 발생하지 않는다.
+      PHASE 1의 "does NOT run qmd"가 **읽기 검색까지 금지하는 것으로 오독**될 수 있어 index maintenance로 한정 명시
 
 # Done Criteria
 
