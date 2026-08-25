@@ -1,0 +1,25 @@
+SOURCE: PubMed structured abstract (abstract-only; full text not retrieved — no PMC record)
+PMID: 34761421 | DOI: 10.1111/jcpe.13519
+J Clin Periodontol. 2021;49 Suppl 24:167-181.  (EFP workshop supplement)
+
+Efficacy and risks of removable partial prosthesis in periodontitis patients: A systematic review.
+Gotfredsen K, Rimborg S, Stavropoulos A.
+
+AIM: Focused question — "In partially edentulous patients with periodontitis, are removable dental
+prostheses (RDPs) more efficacious than no prosthetic treatment, treatment to a shortened dental arch
+(SDA), or tooth-supported fixed dental prostheses (FDPs)?"
+MATERIALS AND METHODS: Systematic electronic literature search 1966-2020. Two authors independently
+assessed eligibility per PRISMA. Risk assessment with RoB 2.0 and the Newcastle-Ottawa Scale.
+RESULTS:
+- Two retrospective studies indicated RDPs increased the risk of tooth loss compared to FDPs in
+  patients with a history of periodontitis.
+- Prospective studies found RDPs could be maintained without any significant periodontal destruction
+  on a long-term basis.
+- Owing to heterogeneity of the data, no meta-analysis could be performed.
+- Several studies indicated RDP increased plaque accumulation.
+- RDPs had only a limited effect on masticatory efficiency and nutritional status.
+- RDPs may improve oral-health-related quality of life (OHRQoL), but to a lesser extent compared with
+  that of patients treated to an SDA.
+CONCLUSIONS: There is no strong evidence that RDPs per se will cause periodontal destruction including
+tooth loss. RDPs do not inevitably improve masticatory efficiency but improve OHRQoL, although less
+than for patients treated with FDPs including resin-bonded FDPs.
