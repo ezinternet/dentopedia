@@ -1,0 +1,42 @@
+SOURCE: PubMed structured abstract (abstract-only; full text not retrieved — no PMC record)
+PMID: 35697550 | DOI: 10.1016/j.prosdent.2021.07.014
+J Prosthet Dent. 2024;131(2):220-226.  ISRCTN49105064; Nagasaki University Hospital ethics #15022313
+
+Oral health-related quality of life of conventional removable partial dentures, unilateral nonmetal
+clasp dentures, and shortened dental arch with 2- or 3-tooth unilateral distal extension tooth loss in
+the mandible: A randomized, crossover, clinical trial.
+Nakai N, Kurogi T, Murata H.
+
+STATEMENT OF PROBLEM: Conventional RPDs with metal clasps are still common for distal-extension tooth
+loss; unilateral nonmetal clasp dentures (thermoplastic denture base resin) are increasingly used; the
+shortened dental arch (SDA) concept remains controversial. These options remain controversial,
+particularly with loss of a few distal teeth unilaterally.
+PURPOSE: Investigate OHRQoL of participants requesting a new dental prosthesis at a private practice.
+METHODS: 3-period randomized crossover, within-subject controlled clinical trial. 24 participants
+(mean age 59.0 y; 7 men 62.6 [45-85] y; 17 women 57.5 [24-75] y). All fully dentate in the maxilla,
+unilateral distal-extension loss of 2 or 3 teeth in the mandible. Allocated to 1 of 6 sequence groups,
+used a prosthesis or nothing for 2-week periods. At end of each intervention participants answered the
+Oral Health Impact Profile questionnaire. Mixed-effects model (alpha=.05).
+RESULTS:
+- Total OHIP scores were HIGHER for unilateral nonmetal clasp dentures (P=.002) and for SDA (P=.049)
+  than for conventional RPDs, with medium and small effects respectively.
+- Unilateral nonmetal clasp dentures had a similar effect compared with SDA (P>.05).
+- Nonmetal clasp dentures (P=.011) and SDA (P=.005) demonstrated medium effects in the ORAL FUNCTION
+  dimension compared with conventional RPDs.
+- Nonmetal clasp dentures exhibited large and medium effects in the OROFACIAL APPEARANCE dimension
+  compared with conventional RPDs (P=.001) and SDA (P=.006).
+- OROFACIAL PAIN dimension: SDA showed effects similar to conventional RPDs and nonmetal clasp
+  dentures (P>.05).
+- PSYCHOSOCIAL IMPACT dimension: no significant differences (P>.05), but the nonmetal clasp denture
+  score was lower than the conventional RPD score with a small effect.
+- Men had significantly lower total OHIP scores for SDA than women (P=.033).
+CONCLUSIONS: Unilateral nonmetal clasp dentures and shortened dental arch were BETTER than conventional
+removable partial dentures for the oral health-related quality of life of individuals with unilateral
+distal-extension tooth loss in the mandible, and SEX had a significant effect on removable prosthetic
+planning.
+
+*** SCORING-DIRECTION NOTE (added at ingest): the abstract reports higher total OHIP scores for the
+NMCD and SDA arms while concluding those arms were BETTER. In the standard OHIP scoring convention a
+LOWER score denotes better OHRQoL, so the direction reported here is inverted relative to that
+convention. The instrument variant/scoring used is not recoverable from the abstract. The CONCLUSION
+statement (NMCD and SDA better than conventional RPD) is the interpretation carried forward. ***
