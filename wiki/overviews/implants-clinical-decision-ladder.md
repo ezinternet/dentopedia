@@ -505,3 +505,18 @@ ISQ 기반 loading 결정은 [[overviews/isq-loading-threshold]] · [[overviews/
 - 축 5 peri-implantitis = [확인] epidemiology·prevention, [확인] treatment (개별화·신지견 진행 중).
 
 본 페이지의 본문 갱신 의도·진단은 [[agenda/2026-05-27_drug-overview-split]] 후속 작업으로, B안(implants ladder thesis 갱신)에 따라 cov% 16→ target 70%+로 끌어올림.
+
+## Clinical Quiz
+<!-- quiz_spec -->
+
+**Q1.** 상악 구치부 잔존 치조골 고도(Residual Bone Height, RBH) 5mm인 환자가 상악동 거상술을 꺼립니다. 이 오버뷰에서 단기 임플란트(short implant)로 대체하는 근거와 한계를 설명하세요. *(근거: 핵심 명제 4 — Sivolella 2025 · Barausse 2024)*
+
+> **모범답안**: 이 오버뷰는 **단기 임플란트(≤6mm)가 5–8년 RCT에서 골증대+긴 임플란트 대비 비열등~우세하며 합병증 68% 적음**을 명시한다(Yu 2021 SR+MA 21 RCT; Sivolella 2025 5y RCT; Barausse 2024 8y RCT). RBH 5mm에서 ≤6mm 임플란트 식립이 가능하므로 골증대 회피 옵션을 우선 제시하는 것이 이 오버뷰의 권고 방향이다. 한계: Type IV 골(상악 구치부에 흔함) 실패 RR 1.5–1.9배이므로, 위험 계층화 후 초기 안정성(초기 토크·ISQ)을 추가 점검한다.
+
+**Q2.** 흡연자(15 갑년)이고 구강 위생이 불량한 환자에게 임플란트를 계획합니다. 이 오버뷰의 위험 계층화(risk stratification)에서 해당 환자의 티어와 프로토콜을 설명하세요. *(근거: 축 1 — 위험 티어 Low/Moderate/High)*
+
+> **모범답안**: **High risk tier** — 흡연(조기 실패 OR 2.59, dose-dependent; Fan 2024 SR+MA)+불량 위생 병합. 이 오버뷰는 High risk 환자에서 **수술 연기 권고**를 명시한다: 금연 지도(금연 후 실패율 부분 회복) + 구강 위생 개선 + 필요 시 치주 치료 선행. Moderate risk(흡연 단독 또는 치주염력 단독 등)는 강화 SPT + 적응 case 술전 amoxicillin 2g으로 진행. Low risk(비흡연·HbA1c<7·BBT≥1mm·Type I–III)는 표준 프로토콜.
+
+**Q3.** 임플란트 식립 시 드릴 열손상(drill thermal injury)을 예방하는 임계값과 임상 조치를 이 오버뷰에 근거해 설명하세요. *(근거: 신규 축 7 — Sorgato 2025 · Saxena 2024)*
+
+> **모범답안**: 임계값은 **47°C/1분** — 이 이상 지속 노출 시 골세포 사멸과 열괴사로 골유착 실패 위험이 급증한다. 이 오버뷰는 "표준 드릴 시퀀스 + 충분한 관주(irrigation)를 준수하지 않으면 임계값을 초과할 수 있다"고 명시하며, 특히 **누적 드릴 사용·가이드 슬리브**가 열 분산을 방해한다고 경고한다. 골밀도화(Osseodensification, OD)는 저속 드릴링 + 관주 보존 방식이라 결과적으로 thermal-friendly하다. 임상 조치: 드릴 교체 주기 준수, 간헐적 피스톤 운동, 생리식염수 관주, guided sleeve 없이 충분한 냉각 확보.
