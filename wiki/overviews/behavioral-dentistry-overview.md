@@ -109,6 +109,7 @@ The clinical implication is a staged approach: screen for past negative dental e
 | [[behavioral-dentistry/patient-reported-outcomes/dogramaci-2023-patient-related-outcomes-ohrqol-endodontics]] | narrative-review | PCO/PRO·PROM/PREM 정의; endo OHRQoL 개선(도구 미검증) |
 | [[behavioral-dentistry/patient-reported-outcomes/arunyanak-2024-patient-related-outcomes-experience-periodontics]] | narrative-review | perio·implant·peri-implantitis PRO/PRE; 기대 미정렬이 장기성공 저해 |
 | [[behavioral-dentistry/patient-reported-outcomes/ebnahmady-2015-patient-satisfaction-surveys-dental-school]] | narrative-review (초록기반, 730→9편) | 환자만족 5차원: quality·interaction·access·environment·cost |
+| [[behavioral-dentistry/patient-reported-outcomes/wu-2024-preanesthetic-oral-examination-servqual]] | cross-sectional SERVQUAL (n=416) | 마취전 구강검사(PAOE) 안전 프로그램이 신뢰성·응답성·공감 차원 소폭 저하(유의); 절대 만족도는 양군 높음; 개선 레버 = 대기시간+환자교육 |
 
 ### 축 4 — Dental Anxiety (장벽)
 
