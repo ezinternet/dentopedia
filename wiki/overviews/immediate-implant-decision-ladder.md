@@ -228,6 +228,18 @@ CBCT로 치근 시상 위치(Sagittal Root Position, SRP) 분류, 구개측 ≥2
 
 **오판 패턴**: "Immediate loading은 위험" — Esposito 2015·Hamilton 2023이 적절한 환자 선택 시 동등 outcome 입증. 1차 안정성이 결정인자, timing 자체가 아님. [확인]
 
+### 축 6 — 2축 난이도 분류 (케이스 선택·리퍼럴 기준)
+
+Liu 2025 ([[immediate-implant/liu-2025-iip-iipp-classification-surgical-restorative]]) 는 기존 ITI 타이밍 분류(Type 1–4)를 **수술 난이도 × 보철 난이도** 2축으로 보완한다. 외과 축 4항목(CBCT 골용적·소켓 해부 Elian 분류·연조직 상태·해부학적 위험) × 보철 축 4항목(교합 부하·심미 요구도·환자 요인·보철 복잡도) 각 Low/Moderate/High → 9개 복합 위험군 (후향 n=44, 53 임플란트, 12년):
+
+| 복합 난이도 | 생존율 | 합병증 | MBL 12mo |
+|---|---|---|---|
+| Low × Low | 100% | 0% | 0.43 mm |
+| Moderate × Moderate | 100% | 11.8% | 0.69 mm |
+| High × High | **80%** | **33.3%** | 1.12 mm |
+
+**임상 적용**: Low×Low → 일반 술자 적합; High×High (교갈증·높은 심미 요구·복잡한 보철+해부학적 위험) → 전원 고려 및 강화된 동의 설명. 이 분류는 리퍼럴 기준 수립과 시술 전 risk stratification의 실용적 틀을 제공한다. 한계: 단일 후향 연구(n=53), 외부 검증 미수행.
+
 ## Phase 2 확장 후보 (Stub)
 
 - [ ] `wiki/overviews/socket-shield-technique-protocol.md` — SST 적응증·금기·합병증 management 깊이 (현재 다수 RCT 진행 중).
