@@ -169,3 +169,18 @@ The dominant finding across the evidence is that **no single device is universal
 Min 2024 (12-week parallel RCT, n=288 gingivitis subjects, 5 arms; first-ever quantitative absolute-abundance shotgun metagenomics via spiked-DNA CMU) directly tested the additive microbial effect of flossing vs essential-oil mouthrinse on top of brushing. Key findings: brushing+flossing produced **no significant difference** vs brushing alone in supragingival plaque diversity, richness, or total bacteria (all NS) — a genomics-level confirmation that isolated flossing has minimal additional microbial impact. By contrast, all essential-oil mouthrinse arms significantly reduced these metrics; the alcohol-containing formulation reduced gingivitis-associated species by 91–94%. The only regimen with significant **subgingival** synergy was flossing+rinsing combined, which additionally reduced P. gingivalis and F. nucleatum. This adds microbiome-level evidence to the clinical inter-proximal plaque data already synthesized in this overview.
 
 - [[interdental-cleaning/min-2024-brushing-flossing-mouthrinsing-plaque-microbiota]] — RCT n=288: flossing alone NS vs brushing on microbiota; essential-oil rinse reduces gingivitis-associated species 91–94%; flossing+rinse = only subgingival synergy.
+
+## Clinical Quiz
+<!-- quiz_spec -->
+
+**Q1.** 치간공간이 넓은 중장년 환자에게 치간 청소도구를 권장합니다. 이 오버뷰에 근거해 치간칫솔(IDB)을 1순위로 권장하는 정량 근거, 그리고 치실(DF)을 한정 적용하는 이유를 설명하세요. *(근거: Carrouel 2026 + Kotsakis 2018 NMA + Jung 2025)*
+
+> **모범답안**: IDB 1순위 근거: ① Carrouel 2026 RCT(임신 치은염 n=323): 보정교차비 OR 3.14로 출혈 소실의 최강 독립 예측인자, BOP 56%→12%(−79.6%) ② Kotsakis 2018 베이지안 NMA(RCT 22편, 도구 10종): IDB가 최선일 확률 64.7%, 치은지수·치태지수 감소 1위. 치실 한정 이유: Jung 2025(n=37 전향)에서 치실 술식(Flossing Performance Score) 교육으로 향상시켜도 치태 제거는 개선되지 않고 술식과 무관(p=.112) — "기술만 가르치면 된다"는 통념 반박. 치실은 IDB가 들어가지 않는 **좁은/정상 접촉**에만 한정 적용.
+
+**Q2.** 환자가 치실과 워터픽 중 어느 것이 더 효과적인지 묻습니다. 이 오버뷰에 근거해 워터픽(워터플로서)의 강점·한계와 레지오넬라 주의를 포함해 설명하세요. *(근거: Badahdah 2025 + Slekovec 2026)*
+
+> **모범답안**: 워터픽은 **플라크보다 출혈·치은염에 더 효과적**: Badahdah 2025 SR+MA(18 RCT n≈1005) 출혈지수 약간 개선(중등도 근거)·치은지수 개선, **플라크 우위 없음**. 한계: 교정 단독(Tyler 2023)·임플란트 주위(Bishti 2025)에서 칫솔질 대비 추가 이득 없음. 치실 대비 우월 여부는 집단별로 엇갈려 확정적이지 않다(교정군 동등 AlMoharib 2024). **안전 주의**: 저수조를 비멸균 수돗물로 사용 시 레지오넬라(Legionella) 생물막 형성 → 가압 분사 = 흡입 위험. 면역저하 환자·병원 환경에서는 저수조 정기 세척·소독이 필수(Slekovec 2026 증례: 골수종 환자 병원내 레지오넬라병 — 워터픽 저수조와 동일 균주 ST42 확인).
+
+**Q3.** 나무 이쑤시개를 치간 청소에 매일 사용하는 환자를 발견했습니다. 이 오버뷰에 근거해 어떻게 상담합니까? 순응도 원칙도 포함해 설명하세요. *(근거: El Haddad 2026 + Yilmaz 2025 순응도 원칙)*
+
+> **모범답안**: **나무 이쑤시개는 치간 청소에 권장하지 않는다.** El Haddad 2026(횡단연구 n=69): 습관적·수직 사용이 치간유두 소실·블랙트라이앵글을 유발. 이 오버뷰는 "나무 이쑤시개는 harm이지 권장 도구가 아님"으로 분류. 대체 상담: 현재 열린 치간공간에는 치간칫솔(IDB)로, 순응도 우선 원칙에 따라(Yilmaz 2025 RCT: 고무/실리콘 치간 픽이 치실보다 12.61 vs 4.96주 더 오래 사용) **환자가 실제로 매일 쓸 수 있는 도구**가 최선임을 설명하고, IDB 크기를 치간공간에 맞게 선택해 교육한다.
