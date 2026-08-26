@@ -1,0 +1,357 @@
+<!--
+---
+title: "이갈이·저작근 과부하 결정 도구"
+type: interactive
+date: 2026-08-26
+status: done
+category: tmj
+source_wiki:
+  - wiki/overviews/bruxism-muscle-overload-axis.md
+agenda: N/A
+---
+-->
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>이갈이·저작근 과부하 결정 도구</title>
+<style>
+:root {
+  --bg: #fff; --surface: #f8f9fa; --border: #dee2e6; --text: #212529; --muted: #6c757d;
+  --accent: #2563eb; --accent-light: #eff6ff;
+  --red: #dc2626; --red-light: #fef2f2;
+  --amber: #d97706; --amber-light: #fffbeb;
+  --green: #16a34a; --green-light: #f0fdf4;
+  --purple: #7c3aed; --purple-light: #f5f3ff;
+  --teal: #0d9488; --teal-light: #f0fdfa;
+  --orange: #ea580c; --orange-light: #fff7ed;
+  --radius: 8px;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { background: var(--bg); color: var(--text); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; line-height: 1.5; padding: 16px; max-width: 920px; margin: 0 auto; }
+h1 { font-size: 18px; font-weight: 700; margin-bottom: 2px; }
+.subtitle { color: var(--muted); font-size: 12px; margin-bottom: 16px; }
+
+.input-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 12px; }
+@media(max-width:560px){ .input-grid { grid-template-columns: 1fr; } }
+.field label { display: block; font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing:.04em; color: var(--muted); margin-bottom: 4px; }
+select { width: 100%; border: 1px solid var(--border); border-radius: var(--radius); padding: 7px 10px; font-size: 13px; background: var(--bg); color: var(--text); outline: none; }
+select:focus { border-color: var(--accent); }
+
+/* Signs */
+.signs-wrap { display: flex; flex-wrap: wrap; gap: 6px; }
+.sign-btn { padding: 4px 11px; border: 1px solid var(--border); border-radius: 20px; font-size: 12px; cursor: pointer; user-select: none; background: var(--bg); color: var(--text); transition: all .15s; }
+.sign-btn.on { border-color: var(--amber); background: var(--amber-light); color: var(--amber); font-weight: 700; }
+
+.divider { border: none; border-top: 1px solid var(--border); margin: 12px 0; }
+
+/* Causal chain SVG-like diagram (pure CSS) */
+.chain { display: flex; align-items: stretch; gap: 0; margin-bottom: 14px; overflow-x: auto; }
+.chain-box {
+  min-width: 110px; flex: 1; border: 2px solid var(--border); border-radius: var(--radius); padding: 10px 8px;
+  text-align: center; background: var(--surface); position: relative; transition: all .2s;
+  font-size: 12px; font-weight: 600;
+}
+.chain-box.active-upstream { border-color: var(--orange); background: var(--orange-light); color: var(--orange); }
+.chain-box.active-tmj { border-color: var(--red); background: var(--red-light); color: var(--red); }
+.chain-box.active-tooth { border-color: var(--amber); background: var(--amber-light); color: var(--amber); }
+.chain-box.active-implant { border-color: var(--purple); background: var(--purple-light); color: var(--purple); }
+.chain-box .box-label { font-size: 10px; font-weight: 600; color: inherit; opacity: .75; margin-bottom: 3px; }
+.chain-box .box-main { font-size: 12px; font-weight: 700; line-height: 1.3; }
+.chain-box .box-sub { font-size: 10px; color: inherit; opacity: .8; margin-top: 3px; line-height: 1.3; }
+
+.chain-arrow { display: flex; align-items: center; padding: 0 4px; color: var(--muted); font-size: 18px; flex-shrink: 0; }
+
+/* Intervention cards (3 positions) */
+.interv-grid { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 10px; margin-bottom: 14px; }
+@media(max-width:620px){ .interv-grid { grid-template-columns: 1fr; } }
+.interv-card { border-radius: var(--radius); border: 1px solid var(--border); padding: 12px; background: var(--surface); }
+.interv-pos { font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing:.05em; color: var(--muted); margin-bottom: 5px; }
+.interv-name { font-size: 14px; font-weight: 700; margin-bottom: 5px; }
+.interv-sub { font-size: 11px; color: var(--text); line-height: 1.5; }
+.interv-warn { margin-top: 6px; padding: 6px 8px; border-radius: 6px; font-size: 11px; font-weight: 600; }
+.interv-card.pos-downstream { border-color: #86efac; background: var(--green-light); }
+.interv-card.pos-downstream .interv-name { color: var(--green); }
+.interv-card.pos-mid { border-color: #fcd34d; background: var(--amber-light); }
+.interv-card.pos-mid .interv-name { color: var(--amber); }
+.interv-card.pos-mid .interv-warn { background: var(--red-light); color: var(--red); }
+.interv-card.pos-upstream { border-color: #c4b5fd; background: var(--purple-light); }
+.interv-card.pos-upstream .interv-name { color: var(--purple); }
+.interv-card.pos-upstream .interv-warn { background: var(--red-light); color: var(--red); }
+
+/* Screening box */
+.screen-box { border-radius: var(--radius); border: 1px solid #fcd34d; background: var(--amber-light); padding: 12px; margin-bottom: 14px; }
+.screen-title { font-size: 12px; font-weight: 700; color: var(--amber); margin-bottom: 6px; }
+.screen-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 4px; font-size: 12px; }
+.screen-item { display: flex; align-items: center; gap: 5px; }
+.screen-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--amber); flex-shrink: 0; }
+.screen-item.active .screen-dot { background: var(--red); }
+.screen-item.active { color: var(--red); font-weight: 700; }
+
+/* Evidence */
+.ev-row { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 14px; }
+.ev-b { padding: 6px 12px; border-radius: var(--radius); border: 1px solid var(--border); font-size: 11px; background: var(--surface); line-height: 1.3; }
+.ev-b strong { display: block; font-size: 13px; font-weight: 700; }
+.ev-b span { color: var(--muted); }
+.ev-b.green { background: var(--green-light); border-color: #86efac; }
+.ev-b.green strong { color: var(--green); }
+.ev-b.red { background: var(--red-light); border-color: #fca5a5; }
+.ev-b.red strong { color: var(--red); }
+.ev-b.purple { background: var(--purple-light); border-color: #c4b5fd; }
+.ev-b.purple strong { color: var(--purple); }
+.ev-b.amber { background: var(--amber-light); border-color: #fcd34d; }
+.ev-b.amber strong { color: var(--amber); }
+
+/* Router */
+.router { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 12px; }
+.router-title { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing:.05em; color: var(--muted); margin-bottom: 8px; }
+.router-links { display: flex; flex-wrap: wrap; gap: 6px; }
+.rl { padding: 5px 12px; border-radius: 20px; font-size: 12px; text-decoration: none; border: 1px solid var(--border); background: var(--bg); color: var(--accent); cursor: pointer; transition: all .15s; }
+.rl:hover { background: var(--accent); color: white; border-color: var(--accent); }
+.rl.hot { background: var(--accent-light); border-color: var(--accent); font-weight: 600; }
+
+section { margin-bottom: 14px; }
+.stitle { font-size: 13px; font-weight: 700; margin-bottom: 8px; border-left: 3px solid var(--accent); padding-left: 8px; }
+</style>
+</head>
+<body>
+
+<h1>이갈이·저작근 과부하 결정 도구</h1>
+<p class="subtitle">인과 사슬(상류 → 하류) 시각화 + 중재 작용 지점 매칭 | 근거: Song 2021 · Deng 2023 · de-la-torre-canales 2024 · Singh 2024 Cochrane</p>
+
+<!-- INPUTS -->
+<section>
+  <div class="input-grid">
+    <div class="field">
+      <label>임플란트 보유</label>
+      <select id="hasImplant">
+        <option value="no">없음</option>
+        <option value="healing">식립 후 골유착 기간 중</option>
+        <option value="loaded">골유착 완료·기능 중</option>
+      </select>
+    </div>
+    <div class="field">
+      <label>주된 하류 증상</label>
+      <select id="downstream">
+        <option value="none">아직 명확한 하류 증상 없음</option>
+        <option value="tmj">TMJ·근육통·두통 (하류 ①)</option>
+        <option value="tooth">치아·보철 마모·파절 (하류 ②)</option>
+        <option value="implant">임플란트 합병증·MBL (하류 ③)</option>
+      </select>
+    </div>
+  </div>
+
+  <div class="field" style="margin-bottom:0;">
+    <label style="margin-bottom:6px;">브럭시즘 스크리닝 소견 (복수 선택)</label>
+    <div class="signs-wrap" id="signsWrap">
+      <span class="sign-btn" data-s="masseter">교근 비대</span>
+      <span class="sign-btn" data-s="linea">Linea Alba</span>
+      <span class="sign-btn" data-s="wear">교모 면 (Wear Facets)</span>
+      <span class="sign-btn" data-s="fracture">반복 보철 파절력</span>
+      <span class="sign-btn" data-s="cracked">균열 치아 (Cracked Tooth)</span>
+      <span class="sign-btn" data-s="sleep">수면 중 소리 보고</span>
+    </div>
+  </div>
+</section>
+
+<hr class="divider">
+
+<!-- CAUSAL CHAIN DIAGRAM -->
+<section>
+  <div class="stitle">인과 사슬 — 상류 → 하류 분기</div>
+  <div class="chain">
+    <div class="chain-box" id="box-upstream">
+      <div class="box-label">상류</div>
+      <div class="box-main">이갈이 / 저작근 과활성</div>
+      <div class="box-sub">Bruxism · Clenching</div>
+    </div>
+    <div class="chain-arrow">→</div>
+    <div class="chain-box" id="box-force">
+      <div class="box-label">매개</div>
+      <div class="box-main">과도한 교합력</div>
+      <div class="box-sub">PDL 완충 용량 초과 시</div>
+    </div>
+    <div class="chain-arrow">→</div>
+    <div class="chain-box" id="box-tmj">
+      <div class="box-label">하류 ①</div>
+      <div class="box-main">TMJ · 근육</div>
+      <div class="box-sub">통증·내장애·두통</div>
+    </div>
+    <div class="chain-arrow" style="font-size:11px;color:var(--muted);">or</div>
+    <div class="chain-box" id="box-tooth">
+      <div class="box-label">하류 ②</div>
+      <div class="box-main">치아 · 보철</div>
+      <div class="box-sub">마모·균열·파절</div>
+    </div>
+    <div class="chain-arrow" style="font-size:11px;color:var(--muted);">or</div>
+    <div class="chain-box" id="box-implant">
+      <div class="box-label">하류 ③</div>
+      <div class="box-main">임플란트</div>
+      <div class="box-sub">Late failure·MBL·파절</div>
+    </div>
+  </div>
+</section>
+
+<!-- INTERVENTIONS -->
+<section>
+  <div class="stitle">중재 — 사슬의 작용 지점</div>
+  <div class="interv-grid">
+
+    <div class="interv-card pos-downstream" id="card-splint">
+      <div class="interv-pos">하류 완충 지점 (1차)</div>
+      <div class="interv-name">교합 스플린트 (Splint)</div>
+      <div class="interv-sub" id="splint-sub">힘을 분산·완충. 구조물을 보호하되 근육 힘 자체를 줄이진 않음.
+        <br><br><strong>근거</strong>: 운동요법 ≥ 스플린트 동등 (Zhang 2021). 임플란트 이갈이 → 스플린트 1차 필수 (Song 2021, Stilwell 2024).
+      </div>
+    </div>
+
+    <div class="interv-card pos-mid" id="card-adjust">
+      <div class="interv-pos">접촉 재형성 (비가역 — 주의)</div>
+      <div class="interv-name">교합조정 (Occlusal Adjustment)</div>
+      <div class="interv-sub">접촉점을 변경해 과부하 분산. 비가역적.
+        <br><br><strong>근거</strong>: TMD 1차 치료로 미지지 (Singh 2024 Cochrane, very low~low). 이갈이 자체를 줄이지 않음.
+      </div>
+      <div class="interv-warn">⚠ 비가역 치료 — 보존 실패 후 최후 선택. 1차 단독 사용 금기.</div>
+    </div>
+
+    <div class="interv-card pos-upstream" id="card-btx">
+      <div class="interv-pos">상류 — 근육 힘 자체 차단</div>
+      <div class="interv-name">보툴리눔 독소 A형 (BoNT-A)</div>
+      <div class="interv-sub" id="btx-sub">저작근 힘 생성을 상류에서 차단. 가장 근본적 접근.
+        <br><br><strong>근거</strong>: 위약보다 우위, 표준치료와 동등 (de-la-torre-canales 2024 umbrella). 단 SR 13/14가 AMSTAR-2 critically low (Coelho 2025).
+      </div>
+      <div class="interv-warn" id="btx-warn"></div>
+    </div>
+  </div>
+</section>
+
+<!-- SCREENING BOX -->
+<section>
+  <div class="stitle">식립 전 브럭시즘 스크리닝 (Song 2021 권고)</div>
+  <div class="screen-box">
+    <div class="screen-title">스크리닝 소견 — 식립 전 확인</div>
+    <div class="screen-grid" id="screenGrid">
+      <div class="screen-item" id="sc-masseter"><div class="screen-dot"></div>교근 비대</div>
+      <div class="screen-item" id="sc-linea"><div class="screen-dot"></div>Linea Alba (협점막 백선)</div>
+      <div class="screen-item" id="sc-wear"><div class="screen-dot"></div>교모 면 (Wear Facets)</div>
+      <div class="screen-item" id="sc-fracture"><div class="screen-dot"></div>반복 보철 파절력</div>
+      <div class="screen-item" id="sc-cracked"><div class="screen-dot"></div>균열 치아</div>
+      <div class="screen-item"><div class="screen-dot"></div>EMG / 수면다원검사(PSG) (확진)</div>
+    </div>
+    <p style="font-size:11px;color:var(--amber);margin-top:8px;">빨간 항목 = 현재 선택된 양성 소견</p>
+  </div>
+</section>
+
+<!-- EVIDENCE -->
+<section>
+  <div class="stitle">핵심 근거</div>
+  <div class="ev-row">
+    <div class="ev-b amber">
+      <strong>TMD 유병률 ~31%</strong>
+      <span>이갈이 → TMD 하류<br>Valesan 2021 SR+MA</span>
+    </div>
+    <div class="ev-b green">
+      <strong>운동 ≥ 스플린트</strong>
+      <span>Zhang 2021 SR+MA<br>운동요법이 스플린트와 동등 또는 우위</span>
+    </div>
+    <div class="ev-b red">
+      <strong>교합조정 미지지</strong>
+      <span>Singh 2024 Cochrane<br>TMD 1차: very low~low, 비지지</span>
+    </div>
+    <div class="ev-b purple">
+      <strong>BoNT-A = 표준치료 동등</strong>
+      <span>de-la-torre-canales 2024 umbrella<br>위약 우위, 표준치료 대비 비우월</span>
+    </div>
+    <div class="ev-b red">
+      <strong>BoNT-A → 골유착 손상</strong>
+      <span>Deng 2023 동물: BV/TV↓ · BIC↓<br>양날의 검 — 사람 데이터 미확인</span>
+    </div>
+    <div class="ev-b amber">
+      <strong>임플란트 파절률 ~0.5%</strong>
+      <span>Song 2021 · Stilwell 2024<br>Late failure; PDL 없어 충격흡수 결여</span>
+    </div>
+  </div>
+</section>
+
+<!-- ROUTER -->
+<div class="router">
+  <div class="router-title">연결 도구</div>
+  <div class="router-links">
+    <a class="rl" href="2026-08-26_tmd-treatment-ladder-tool.html">TMD 치료 Ladder</a>
+    <a class="rl" href="2026-08-26_immediate-implant-decision-tool.html">즉시 임플란트 결정</a>
+    <a class="rl" href="2026-06-22_early-implant-failure-toolkit.html">임플란트 조기 실패 분석</a>
+    <a class="rl" href="2026-08-26_periodontics-staging-treatment-tool.html">치주 병기·SPT</a>
+  </div>
+</div>
+
+<script>
+const Signs = new Set();
+
+document.querySelectorAll('.sign-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    const s = btn.dataset.s;
+    if (Signs.has(s)) { Signs.delete(s); btn.classList.remove('on'); }
+    else { Signs.add(s); btn.classList.add('on'); }
+    update();
+  });
+});
+document.querySelectorAll('select').forEach(el => el.addEventListener('change', update));
+
+function update() {
+  const hasImplant = document.getElementById('hasImplant').value;
+  const downstream = document.getElementById('downstream').value;
+  const signs = Signs;
+  const signCount = signs.size;
+
+  // ── Causal chain highlight ──
+  document.getElementById('box-upstream').className = 'chain-box' + (signCount > 0 ? ' active-upstream' : '');
+  document.getElementById('box-force').className = 'chain-box' + (signCount > 0 ? ' active-upstream' : '');
+  document.getElementById('box-tmj').className = 'chain-box' + (downstream === 'tmj' ? ' active-tmj' : '');
+  document.getElementById('box-tooth').className = 'chain-box' + (downstream === 'tooth' ? ' active-tooth' : '');
+  document.getElementById('box-implant').className = 'chain-box' + ((downstream === 'implant' || hasImplant !== 'no') ? ' active-implant' : '');
+
+  // ── Splint sub ──
+  const splintSub = document.getElementById('splint-sub');
+  if (hasImplant !== 'no') {
+    splintSub.innerHTML = `힘을 분산·완충. <strong style="color:var(--green);">임플란트 이갈이 환자의 1차 필수 보호</strong>. PDL이 없어 충격흡수·고유감각 결여 → 스플린트가 유일한 완충재.<br><br><strong>근거</strong>: Song 2021 (임플란트 파절률 ~0.5%, 스플린트 권고) · Stilwell 2024 (PDL 없어 임플란트 과부하 취약).`;
+  } else {
+    splintSub.innerHTML = `힘을 분산·완충. 구조물을 보호하되 근육 힘 자체를 줄이진 않음.<br><br><strong>근거</strong>: 운동요법 ≥ 스플린트 동등 (Zhang 2021). 수면이갈이에서 스플린트·biofeedback 우위 (Minakuchi 2022 SR).`;
+  }
+
+  // ── BoNT-A warning ──
+  const btxWarn = document.getElementById('btx-warn');
+  const btxSub = document.getElementById('btx-sub');
+  if (hasImplant === 'healing') {
+    btxWarn.textContent = '⛔ 골유착 기간 중 BoNT-A 금기 (조건부) — Deng 2023 동물: 마비 → BV/TV↓ · 골-임플란트 접촉률(BIC)↓. 골유착 완료 후로 연기.';
+    btxWarn.style.display = 'block';
+  } else if (hasImplant === 'loaded') {
+    btxWarn.textContent = '⚠ 임플란트 기능 중 BoNT-A: 순응도 실패·중증 이갈이에 한정. 골유착 완료 확인 후 시행. 동물 데이터 우려 (Deng 2023); 사람 장기 데이터 미확인.';
+    btxWarn.style.display = 'block';
+  } else {
+    btxWarn.textContent = '고려 시: 보존 실패·중증 이갈이에서만 escalation. SR 품질 낮음 (Coelho 2025: 13/14 AMSTAR-2 critically low).';
+    btxWarn.style.display = 'block';
+  }
+
+  // ── Screening highlight ──
+  ['masseter','linea','wear','fracture','cracked'].forEach(s => {
+    const el = document.getElementById('sc-' + s);
+    if (el) {
+      if (Signs.has(s)) el.classList.add('active');
+      else el.classList.remove('active');
+    }
+  });
+
+  // ── Implant downstream note ──
+  const implantBox = document.getElementById('box-implant');
+  if (hasImplant !== 'no') {
+    implantBox.querySelector('.box-sub').textContent = 'Late failure·MBL·파절 (No PDL)';
+    implantBox.classList.add('active-implant');
+  }
+}
+
+update();
+</script>
+</body>
+</html>
