@@ -338,3 +338,22 @@ Logged by subagents at deviation time. `deviation-audit.py` flags types with ≥
 | 2026-08-24 | ada-2024-chairside-guide-adult-pulpitis | category-judgment | pulpitis/toothache topic but routed to drug/analgesics by method-principle (pharmacologic pain management) keeping ADA guideline package co-located |
 | 2026-08-24 | carrasco-labra-2024-pharmacologic-management-acute-dental-pain-guideline | relation-judgment | applies-to over reinforces toward panel-commissioned SRs (circular-reinforces rule) |
 | 2026-08-24 | ada-2024-chairside-guide-adult-extraction | no-doi | ADA chairside guide, no DOI printed; dedup done by title grep |
+| 2026-08-25 | ada-2024-respite-patient-guide-tooth-removed | no-doi | ADA/RESPITE patient-education infographic — no DOI printed (non-journal artifact); Step-0 dedup ran via dedup-check.py --title |
+| 2026-08-25 | ada-2024-respite-patient-guide-toothache | no-doi | ADA/RESPITE patient-education infographic — no DOI printed (non-journal artifact); Step-0 dedup ran via dedup-check.py --title |
+| 2026-08-26 | drummond-2024-rpd-long-term-periodontal-health-sr-ma | abstract-only | no PMC record; built from PubMed structured abstract (full_text: false) |
+| 2026-08-26 | walter-2021-shortened-dental-arch-15year-rct | abstract-only | no PMC record; built from PubMed structured abstract (full_text: false) |
+| 2026-08-26 | gotfredsen-2021-removable-partial-prosthesis-periodontitis-sr | abstract-only | no PMC record; built from PubMed structured abstract (full_text: false) |
+| 2026-08-26 | beikler-2015-eao-economic-evaluation-implant-prostheses | abstract-only | no PMC record; built from PubMed structured abstract (full_text: false) |
+| 2026-08-26 | removable-partial-denture | category-judgment | 신규 카테고리 신설 — qmd 라우팅 원칙 1 결과가 전부 총의치·오버덴쳐(무치악)라 complete-denture에 넣지 않고 별도 folder로 판단 |
+| 2026-08-26 | campbell-2017-rpd-clinical-need-for-innovation | relation-judgment | 초안에 contradicts로 달았다가 refines로 교정 — 40% 사용중단과 95.1% 보철생존은 서로 다른 종점을 재므로 충돌이 아니라 해석의 한정이다 (메모리 contradiction-radar 교훈: 인상을 엣지 타입으로 옮기지 말 것) |
+| 2026-08-26 | choong-2022-ohrqol-after-rpd-rehabilitation-sr-ma | abstract-only | no PMC record; built from PubMed structured abstract (full_text: false) |
+| 2026-08-26 | campbell-2017-rpd-clinical-need-for-innovation | abstract-only | no PMC record; built from PubMed structured abstract (full_text: false) |
+| 2026-08-26 | kalsi-2021-periodontal-health-shortened-dental-arch | abstract-only | no PMC record; built from PubMed structured abstract (full_text: false) |
+| 2026-08-26 | duong-2022-ohrqol-implant-supported-prostheses | partial-pmc-text | PMC 전문 80k자 수신했으나 결론 불릿 목록이 추출에서 소실('indicates that:' 다음 바로 CLINICAL CASES) — 요약 주장은 PubMed 초록으로 보완 |
+| 2026-08-26 | nassani-2013-fesrpd-shortened-dental-arch-reappraisal | partial-pmc-text | PMC 전문 수신했으나 요약 표 2개(FESRPD 문제점·결과 영향인자)가 헤더만 오고 셀 내용 소실; 참고문헌 번호도 stripped |
+| 2026-08-26 | removable-partial-denture | source-data-issue | 카테고리 허브 표에 [[stem\\|alias]]로 파이프를 이스케이프해 link-integrity가 12건 깨진 링크로 집계 — 메모리 overview-evidence-map-bare-wikilinks의 함정 재현, \\| → \| 로 교정 |
+| 2026-08-26 | nakai-2022-ohrqol-nonmetal-clasp-sda-crossover-rct | abstract-only | no PMC record; built from PubMed structured abstract (full_text: false) |
+| 2026-08-26 | bashir-2022-rpd-mortality-partially-edentulous | abstract-only | no PMC record; built from PubMed structured abstract (full_text: false) |
+| 2026-08-26 | mckenna-2020-functionally-orientated-tooth-replacement-older | abstract-only | no PMC record; built from PubMed structured abstract (full_text: false) |
+| 2026-08-26 | nakai-2022-ohrqol-nonmetal-clasp-sda-crossover-rct | other | 초록이 OHIP 점수 방향을 통상 관례(낮을수록 좋음)와 반대로 보고 — 저자 결론(NMCD·SDA가 통상 RPD보다 우수)을 채택하고 원점수 방향은 채택하지 않음, 페이지에 명시 |
+| 2026-08-26 | duong-2022-ohrqol-implant-supported-prostheses | relation-judgment | Kurosaki 6년 RPD 생존 33.3% vs Drummond 5년 95.1% — 같은 양(RPD 생존)에 대한 정면 충돌이라 contradicts 엣지 부여(종점 정의 차이로 추정되나 어느 쪽도 원문에 정의 없음) |
