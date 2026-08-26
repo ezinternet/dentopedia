@@ -369,3 +369,18 @@ Screw vs cement retention choice: clinically neutral on MBL — decide on retrie
 - [[implants/peri-implantitis/monje-2025-surgical-implant-factors-peri-implant-diseases]] — AO/AAP SR (34 studies): implant 3D malposition strongest surgical risk (OR up to 48.2), RM-to-crest <1.5 mm OR 2.29 (reinforces Basak); implant brand/surface/design no consistent superiority
 - [[implants/peri-implantitis/sbricoli-2026-peri-implant-disease-prevalence-type2-diabetes]] — cross-sectional (n=70): T2DM vs non-DM showed no significant peri-implant disease difference; underpowered, confounded by high periodontitis-history baseline
 - [[implants/peri-implantitis/su-2026-peri-implantitis-bone-defects-regenerative-strategies]] — narrative review: mechanisms, CBCT diagnosis, and regenerative strategies (xenogenic GBR, Mg membranes, 3D-printed Ti mesh) for peri-implantitis bone defects
+
+## Clinical Quiz
+<!-- quiz_spec -->
+
+**Q1.** 임플란트주위염 외과 치료에서 어떤 표면 제염 프로토콜(기계적·화학적·레이저 등)을 선택해야 합니까? 이 오버뷰의 입장을 설명하세요. *(근거: Baima 2022 SR+MA + EFP S3 가이드라인)*
+
+> **모범답안**: 이 오버뷰는 "**단일 표면 제염 프로토콜의 우월성은 입증되지 않음**"이라는 입장을 명시한다(Baima 2022 SR+MA, 16 RCT). EFP S3 가이드라인도 "특정 방법 권고 불가"다. 기계적·화학적·물리적(레이저·광역학) 프로토콜 중 임플란트주위염 해소율 차이가 없으며, 비외과 보조요법 네트워크 메타분석(Bai 2024, 33 RCT)에서도 단일 우세 요법이 없었다. 실제로는 **접근성을 최대화하는 외과 디자인 + 임상의가 익숙한 제염 방법** 조합이 현실적 최선이며, 재건 형태(GBR 또는 절제형)가 제염 방법 선택보다 더 중요한 결정 변수다.
+
+**Q2.** 포위형(3벽·4벽) 골내 결손에서 GBR 재건 수술이 개방소파술(Open-Flap Debridement, OFD) 대비 임상·방사선학적으로 어느 지표에서 우위이고, 어느 지표에서 동등합니까? *(근거: Hakkers 2026 단일맹검 RCT)*
+
+> **모범답안**: Hakkers 2026 RCT(n=52, 1년, 3·4벽 결손)에서: **GBR 우위** — 방사선학적 MBL 개선(β=−1.65mm, p<0.001) + 협측 연조직 퇴축 감소(β=−1.68mm, p<0.001). **동등** — 임상 질환 해소율은 **양군 모두 약 44%** (탐침깊이 PPD, 탐침시출혈 BoP, 화농 SoP, 복합 해소율 모두 차이 없음). 이 역설 — "방사선 개선이 있어도 임상 염증은 해소되지 않는다" — 는 임플란트주위염 병소가 생물막·이식재 너머 M1 대식세포 편향, Treg 기능부전, 티타늄 abiotic 위험신호(Kotsakis 2025) 등 면역병리에 의해서도 유지되기 때문이다. GBR은 형태 회복에 유익하나 질환 해소의 충분조건은 아니다.
+
+**Q3.** 임플란트를 계획하면서 임플란트주위염 예방을 위한 보철 설계를 최적화하려 합니다. 이 오버뷰에 근거해 MBL을 유의하게 줄이는 보철 설계 레버 4가지를 제시하세요. *(근거: Lin 2025 AO/AAP SR+MA 93편)*
+
+> **모범답안**: Lin 2025 AO/AAP SR+MA(93편, 모두 p<0.0001): ① **플랫폼 스위칭(platform switching)** ② **원추형 내부 연결(conical internal connection, Morse taper)** ③ **어버트먼트 높이 ≥2mm** ④ **one-abutment-one-time(불필요한 어버트먼트 교체 회피)**. 추가 Monje 2025(AO/AAP SR 34편): **임플란트 3D 식립 위치 오류(malposition)가 OR 최대 48.2의 최강 수술 위험인자** → 위 4개 보철 레버와 함께 정확한 3D 위치가 임플란트주위염 예방의 핵심. 반면 나사 vs 시멘트 유지(p=0.51)·치관-임플란트 비(p=0.32)는 MBL과 무관이므로 유지 방식은 재제거 용이성·교합으로 결정한다.
