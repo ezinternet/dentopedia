@@ -1,0 +1,538 @@
+<!--
+---
+title: "PSTD 예방·관리 도구 — 식립 전 위험 분류 + 술식 프로토콜"
+type: interactive
+date: 2026-08-26
+status: done
+category: implants
+source_wiki:
+  - wiki/overviews/peri-implant-soft-tissue-dehiscence-prevention.md
+agenda: agenda/2026-08-26_pstd-prevention-management-tool.md
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PSTD 예방·관리 도구</title>
+<style>
+:root {
+  --bg: #f8f9fa;
+  --surface: #ffffff;
+  --border: #dee2e6;
+  --text: #212529;
+  --muted: #6c757d;
+  --low: #2e7d32;
+  --low-bg: #e8f5e9;
+  --low-border: #a5d6a7;
+  --mod: #f57c00;
+  --mod-bg: #fff3e0;
+  --mod-border: #ffcc80;
+  --high: #c62828;
+  --high-bg: #ffebee;
+  --high-border: #ef9a9a;
+  --teal: #00695c;
+  --teal-bg: #e0f2f1;
+  --blue: #1565c0;
+  --blue-bg: #e3f2fd;
+  --badge-bg: #37474f;
+  --badge-text: #ffffff;
+  --accent: #4a148c;
+  --tag-bg: #ede7f6;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  font-family: -apple-system, 'Helvetica Neue', sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  font-size: 14px;
+  line-height: 1.5;
+  padding: 16px;
+}
+h1 { font-size: 17px; font-weight: 700; margin-bottom: 2px; color: var(--accent); }
+.subtitle { font-size: 12px; color: var(--muted); margin-bottom: 16px; }
+.grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+@media (max-width: 640px) { .grid { grid-template-columns: 1fr; } }
+
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 14px;
+}
+.card-title {
+  font-size: 12px; font-weight: 700; text-transform: uppercase;
+  letter-spacing: 0.05em; color: var(--muted); margin-bottom: 10px;
+}
+
+/* Form */
+.field { margin-bottom: 12px; }
+.field label { display: block; font-size: 12px; font-weight: 600; margin-bottom: 4px; color: var(--text); }
+.field select {
+  width: 100%; padding: 6px 8px;
+  border: 1px solid var(--border); border-radius: 6px;
+  background: var(--surface); color: var(--text); font-size: 13px;
+}
+
+.checks { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 4px; }
+.check-btn {
+  padding: 4px 10px; border-radius: 20px;
+  border: 1px solid var(--border); background: var(--bg);
+  font-size: 12px; cursor: pointer; transition: all 0.15s;
+  color: var(--text);
+}
+.check-btn.active { background: var(--accent); color: #fff; border-color: var(--accent); }
+
+/* Risk card */
+.risk-card {
+  border-radius: 8px; padding: 14px; margin-bottom: 14px;
+  border: 2px solid var(--border); background: var(--surface);
+}
+.risk-card.low { border-color: var(--low-border); background: var(--low-bg); }
+.risk-card.mod { border-color: var(--mod-border); background: var(--mod-bg); }
+.risk-card.high { border-color: var(--high-border); background: var(--high-bg); }
+.risk-label {
+  font-size: 20px; font-weight: 800; margin-bottom: 4px;
+}
+.low .risk-label { color: var(--low); }
+.mod .risk-label { color: var(--mod); }
+.high .risk-label { color: var(--high); }
+.risk-sub { font-size: 12px; color: var(--muted); }
+
+/* Protocol steps */
+.proto-section { margin-bottom: 14px; }
+.proto-title {
+  font-size: 12px; font-weight: 700; text-transform: uppercase;
+  color: var(--muted); letter-spacing: 0.05em; margin-bottom: 6px;
+}
+.proto-item {
+  display: flex; gap: 8px; align-items: flex-start;
+  padding: 7px 10px; border-radius: 6px; margin-bottom: 4px;
+  background: var(--bg); border-left: 3px solid var(--border);
+}
+.proto-item.low { border-left-color: var(--low); }
+.proto-item.mod { border-left-color: var(--mod); }
+.proto-item.high { border-left-color: var(--high); }
+.proto-item .picon { font-size: 14px; flex-shrink: 0; }
+.proto-item .ptext { font-size: 12px; line-height: 1.5; }
+.proto-item .ptitle { font-weight: 700; display: block; margin-bottom: 1px; }
+
+/* VST panel */
+.vst-panel {
+  background: var(--blue-bg); border: 1px solid #90caf9;
+  border-radius: 8px; padding: 12px; margin-bottom: 14px;
+}
+.vst-title { font-weight: 700; font-size: 12px; color: var(--blue); margin-bottom: 8px; }
+.vst-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+.vst-col { background: #fff; border-radius: 6px; padding: 8px 10px; border: 1px solid #90caf9; }
+.vst-col h4 { font-size: 11px; font-weight: 700; color: var(--blue); margin-bottom: 4px; }
+.vst-col p { font-size: 11px; color: var(--text); line-height: 1.4; }
+
+/* Existing PSTD ladder */
+.ladder-step {
+  border-radius: 6px; padding: 10px 12px; margin-bottom: 6px;
+  border-left: 4px solid var(--border);
+}
+.ladder-step.obs { border-left-color: var(--low); background: var(--low-bg); }
+.ladder-step.ctg { border-left-color: var(--mod); background: var(--mod-bg); }
+.ladder-step.gbr { border-left-color: var(--high); background: var(--high-bg); }
+.ladder-step.active { box-shadow: 0 0 0 2px currentColor; }
+.ladder-step h4 { font-size: 12px; font-weight: 700; margin-bottom: 3px; }
+.ladder-step .l-size { font-size: 11px; color: var(--muted); margin-bottom: 4px; }
+.ladder-step p { font-size: 12px; line-height: 1.4; }
+.obs h4 { color: var(--low); }
+.ctg h4 { color: var(--mod); }
+.gbr h4 { color: var(--high); }
+
+/* Badges */
+.badges { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; }
+.badge {
+  background: var(--badge-bg); color: var(--badge-text);
+  padding: 4px 9px; border-radius: 12px; font-size: 11px;
+  font-weight: 600; line-height: 1.3;
+}
+.badge.teal { background: var(--teal); }
+.badge.blue { background: var(--blue); }
+.badge.orange { background: #e65100; }
+.badge.green { background: var(--low); }
+.badge.purple { background: var(--accent); }
+
+/* Warning */
+.warn-box {
+  background: #fff8e1; border: 1px solid #ffe082; border-radius: 7px;
+  padding: 10px 12px; margin-bottom: 10px;
+}
+.warn-box .w-title { font-weight: 700; font-size: 12px; color: #e65100; margin-bottom: 4px; }
+.warn-box p { font-size: 12px; line-height: 1.4; color: var(--text); }
+
+/* Smoke */
+.smoke-alert {
+  background: #fce4ec; border: 1px solid #f48fb1; border-radius: 7px;
+  padding: 10px 12px; margin-bottom: 10px; display: none;
+}
+.smoke-alert p { font-size: 12px; line-height: 1.4; }
+
+/* Router */
+.router { display: flex; flex-direction: column; gap: 6px; }
+.router a {
+  display: block; padding: 7px 11px; border-radius: 6px;
+  background: var(--tag-bg); color: var(--accent);
+  font-size: 12px; font-weight: 600; text-decoration: none;
+  border: 1px solid #ce93d8;
+}
+
+/* Hidden */
+.hidden { display: none !important; }
+.full-width { grid-column: 1 / -1; }
+</style>
+</head>
+<body>
+
+<h1>PSTD 예방·관리 도구</h1>
+<p class="subtitle">임플란트 주위 연조직 열개(Peri-implant Soft Tissue Dehiscence, PSTD) — 식립 전 위험 분류 · 예방 프로토콜 · 기존 PSTD 관리</p>
+
+<div class="grid">
+
+  <!-- Left: Inputs -->
+  <div>
+    <div class="card">
+      <div class="card-title">A. 식립 전 평가</div>
+
+      <div class="field">
+        <label>생체형 (Biotype)</label>
+        <select id="biotype">
+          <option value="thick">두꺼운 biotype (>1 mm)</option>
+          <option value="thin">얇은 biotype (≤1 mm)</option>
+        </select>
+      </div>
+
+      <div class="field">
+        <label>각화점막 폭 (Keratinized Tissue Width, KTW)</label>
+        <select id="ktw">
+          <option value="ok">≥2 mm (적절)</option>
+          <option value="low">&lt;2 mm (불충분)</option>
+        </select>
+      </div>
+
+      <div class="field">
+        <label>협측 골판 두께 (Facial Bone Wall, CBCT)</label>
+        <select id="bone">
+          <option value="ok">≥1 mm (양호)</option>
+          <option value="thin">&lt;1 mm (얇음)</option>
+          <option value="unknown">모름 / CBCT 미측정</option>
+        </select>
+      </div>
+
+      <div class="field">
+        <label>식립 시기</label>
+        <select id="timing">
+          <option value="delayed">지연 식립 (발치 후 ≥3개월)</option>
+          <option value="immediate">즉시 식립 (Type I·II·III)</option>
+        </select>
+      </div>
+
+      <div id="socket-field" class="field hidden">
+        <label>Socket type (즉시식립 시)</label>
+        <select id="socketType">
+          <option value="1">Type I — 연조직·협측 골판 intact</option>
+          <option value="2">Type II — 연조직 intact, 협측 골판 부분 결손</option>
+          <option value="3">Type III — 연조직·협측 골판 결손</option>
+        </select>
+      </div>
+
+      <div class="field">
+        <label>흡연 상태</label>
+        <select id="smoking">
+          <option value="never">비흡연 / 금연 ≥6개월</option>
+          <option value="recent">금연 &lt;6개월</option>
+          <option value="current">현재 흡연</option>
+        </select>
+      </div>
+
+      <div class="field">
+        <label>전신 위험인자 (복수 선택)</label>
+        <div class="checks">
+          <button class="check-btn" data-sys="dm" onclick="toggleSys(this)">당뇨 (Diabetes Mellitus, DM)</button>
+          <button class="check-btn" data-sys="perio" onclick="toggleSys(this)">치주염 이력</button>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="card" style="margin-top:12px">
+      <div class="card-title">B. 기존 PSTD (해당 시)</div>
+
+      <div class="field">
+        <label>PSTD 크기 (midfacial level shift)</label>
+        <select id="pstdSize">
+          <option value="none">없음</option>
+          <option value="s1">≤1 mm</option>
+          <option value="s2">1–3 mm</option>
+          <option value="s3">≥3 mm</option>
+        </select>
+      </div>
+
+      <div id="bone-loss-field" class="field hidden">
+        <label>협측 골 결손 동반</label>
+        <select id="boneLoss">
+          <option value="no">아니오</option>
+          <option value="yes">예</option>
+        </select>
+      </div>
+    </div>
+  </div>
+
+  <!-- Right: Outputs -->
+  <div>
+
+    <!-- Risk card -->
+    <div id="riskCard" class="risk-card">
+      <div class="risk-label" id="riskLabel">—</div>
+      <div class="risk-sub" id="riskSub"></div>
+    </div>
+
+    <!-- Smoke alert -->
+    <div class="smoke-alert" id="smokeAlert">
+      <p>⛔ <strong>현재 흡연 — 식립 ≥6개월 전 금연 강력 권고</strong><br>
+      Caggiano 2022 SR: 금연 효과는 시간 의존; ≥6mo 금연이 peri-implant 결과 개선. 금연 거부 시 수술 보류 또는 강화 SPT 계획.
+      </p>
+    </div>
+
+    <!-- Protocol -->
+    <div id="protoSection" class="proto-section"></div>
+
+    <!-- VST panel (Type II socket + 즉시식립) -->
+    <div id="vstPanel" class="vst-panel hidden">
+      <div class="vst-title">Type II Socket 접근법 선택 — VST vs Open-flap GBR (Ebrahim 2026 RCT)</div>
+      <div class="vst-grid">
+        <div class="vst-col">
+          <h4>전정부 소켓 요법 (Vestibular Socket Therapy, VST) ★</h4>
+          <p>유두 절개 없음; PES 12.78 (vs 11.56, p=0.03); 근심유두 p=0.01, 원심유두 p=0.004 우수.<br>
+          → 심미 전치부 Type II에서 1차 선택.<br>
+          <em style="font-size:10px">소표본(n=20), 6mo 단기</em></p>
+        </div>
+        <div class="vst-col">
+          <h4>Open-flap GBR</h4>
+          <p>골 결손 큰 경우·fenestration·space maintenance 중요 시 대안.<br>
+          협측 골 두께·높이 VST와 동등(p>0.05).<br>
+          유두 복원은 VST 대비 열세.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Existing PSTD ladder -->
+    <div id="ladderSection" class="hidden">
+      <div class="card-title" style="margin-bottom:8px">기존 PSTD 관리 (Tavelli 2025 · Herrera 2023 · Nart 2025)</div>
+
+      <div id="ladderObs" class="ladder-step obs">
+        <h4>관찰 + 위생 강화</h4>
+        <div class="l-size">PSTD ≤1 mm</div>
+        <p>적극 치료 불필요. SPT 강화(연 2회), KTW 재평가, 플라크 관리 지도. 진행 모니터링.</p>
+      </div>
+
+      <div id="ladderCtg" class="ladder-step ctg">
+        <h4>결합조직이식 (Connective Tissue Graft, CTG) 보강</h4>
+        <div class="l-size">PSTD 1–3 mm</div>
+        <p>단일 또는 multi-island CTG (SCTG·VISTA 접근 포함).<br>
+        Professional esthetic score 7.7/10; <strong>환자 만족도 60.8/100 — 괴리 주의</strong> (Nart 2025 SR+MA): 치료계획 시 환자 기대 사전 조정 필수.</p>
+      </div>
+
+      <div id="ladderGbr" class="ladder-step gbr">
+        <h4>보철 제거 → GBR → 재수복</h4>
+        <div class="l-size">PSTD ≥3 mm + 협측 골 결손</div>
+        <p>보철 제거 → GBR(d-PTFE 또는 티타늄 메시+이식재) → 6개월 healing → 보철 재제작.<br>
+        협측 골 결손 없으면 free gingival overlay 보존 옵션.</p>
+      </div>
+    </div>
+
+    <!-- Stats badges -->
+    <div style="margin-top:12px">
+      <div class="card-title" style="margin-bottom:8px">핵심 근거 수치</div>
+      <div class="badges">
+        <div class="badge orange">PSTD 46.2% (Tavelli 2025 · 221편 · disease-free)</div>
+        <div class="badge">MREC 23.1%</div>
+        <div class="badge teal">CTG+IIP → midfacial 보존 0.4–0.7 mm (Seyssens 2021)</div>
+        <div class="badge blue">VST PES 12.78 vs GBR 11.56 p=0.03 (Ebrahim 2026)</div>
+        <div class="badge purple">KT 증대 3–4 mm (FGG/CTG, Thoma 2018 SR+MA)</div>
+        <div class="badge green">금연 ≥6mo → peri-implant 결과 개선 (Caggiano 2022)</div>
+      </div>
+    </div>
+
+    <!-- Router -->
+    <div style="margin-top:12px">
+      <div class="card-title" style="margin-bottom:6px">연관 도구</div>
+      <div class="router">
+        <a href="2026-08-26_km-augmentation-decision-tool.html">각화점막 증대 (KM Augmentation) 술식 선택 →</a>
+        <a href="2026-08-26_immediate-implant-decision-tool.html">즉시식립 (Immediate Implant) 결정 →</a>
+        <a href="2026-08-26_sinus-lift-repair-graft-tool.html">상악동 거상 — 천공 수리·이식재 →</a>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<script>
+const sysFlags = new Set();
+
+function toggleSys(btn) {
+  const k = btn.dataset.sys;
+  if (sysFlags.has(k)) { sysFlags.delete(k); btn.classList.remove('active'); }
+  else { sysFlags.add(k); btn.classList.add('active'); }
+  update();
+}
+
+document.querySelectorAll('select').forEach(s => s.addEventListener('change', update));
+
+function update() {
+  const biotype = document.getElementById('biotype').value;
+  const ktw = document.getElementById('ktw').value;
+  const bone = document.getElementById('bone').value;
+  const timing = document.getElementById('timing').value;
+  const socketType = document.getElementById('socketType').value;
+  const smoking = document.getElementById('smoking').value;
+  const pstdSize = document.getElementById('pstdSize').value;
+  const boneLoss = document.getElementById('boneLoss').value;
+
+  // Show/hide socket type field
+  document.getElementById('socket-field').classList.toggle('hidden', timing !== 'immediate');
+  // Show/hide bone loss field
+  document.getElementById('bone-loss-field').classList.toggle('hidden', pstdSize !== 's3');
+
+  // Smoke alert
+  document.getElementById('smokeAlert').style.display = smoking === 'current' ? 'block' : 'none';
+
+  // Risk score
+  let score = 0;
+  if (biotype === 'thin') score++;
+  if (ktw === 'low') score++;
+  if (bone === 'thin') score++;
+  if (timing === 'immediate') score++;
+  if (smoking === 'current') score++;
+  if (smoking === 'recent') score += 0.5;
+  if (sysFlags.has('dm')) score += 0.5;
+  if (sysFlags.has('perio')) score += 0.5;
+
+  let tier, tierLabel, tierSub, tierClass;
+  if (score <= 1) {
+    tier = 'low'; tierLabel = '저위험 (LOW)';
+    tierSub = '대부분 표준 술식으로 관리 가능. CTG는 optional.';
+    tierClass = 'low';
+  } else if (score <= 3) {
+    tier = 'mod'; tierLabel = '중위험 (MOD)';
+    tierSub = '보호 술식 강화 필요. CTG 또는 collagen matrix + 소켓 이식 mandatory.';
+    tierClass = 'mod';
+  } else {
+    tier = 'high'; tierLabel = '고위험 (HIGH)';
+    tierSub = '식립 전 KT 증대(FGG) 우선. CTG + SG + GBR 복합 술식.';
+    tierClass = 'high';
+  }
+
+  // Risk card
+  const rc = document.getElementById('riskCard');
+  rc.className = `risk-card ${tierClass}`;
+  document.getElementById('riskLabel').textContent = tierLabel;
+  document.getElementById('riskSub').textContent = tierSub;
+
+  // Protocol
+  const proto = document.getElementById('protoSection');
+  const items = buildProtocol(tier, timing, socketType, ktw, biotype, bone, smoking);
+  proto.innerHTML = `
+    <div class="proto-title">예방 프로토콜</div>
+    ${items.join('')}
+  `;
+
+  // VST panel
+  const showVst = timing === 'immediate' && socketType === '2';
+  document.getElementById('vstPanel').classList.toggle('hidden', !showVst);
+
+  // Existing PSTD
+  const hasExisting = pstdSize !== 'none';
+  const ladderSection = document.getElementById('ladderSection');
+  ladderSection.classList.toggle('hidden', !hasExisting);
+
+  if (hasExisting) {
+    document.getElementById('ladderObs').classList.toggle('hidden', pstdSize !== 's1');
+    document.getElementById('ladderCtg').classList.toggle('hidden', pstdSize !== 's2');
+    document.getElementById('ladderGbr').classList.toggle('hidden', pstdSize !== 's3');
+  }
+}
+
+function protoItem(cls, icon, title, body) {
+  return `<div class="proto-item ${cls}">
+    <span class="picon">${icon}</span>
+    <div class="ptext"><span class="ptitle">${title}</span>${body}</div>
+  </div>`;
+}
+
+function buildProtocol(tier, timing, socketType, ktw, biotype, bone, smoking) {
+  const items = [];
+
+  // 식립 전
+  if (tier === 'low') {
+    items.push(protoItem('low', '📋', '식립 전',
+      'KTW 측정·확인. 비흡연 확인. 치주 관리 완료 후 식립.'));
+  } else if (tier === 'mod') {
+    let pre = 'KTW 재평가.';
+    if (ktw === 'low') pre += ' KTW <2mm → FGG 고려 (4–8주 healing 후 식립).';
+    if (smoking === 'current') pre += ' <strong>금연 ≥6개월 권고</strong>.';
+    pre += ' 치주 안정 확인.';
+    items.push(protoItem('mod', '📋', '식립 전', pre));
+  } else {
+    let pre = '<strong>식립 전 FGG 강력 권고</strong> — KT 증대 4–8주 후 식립.';
+    if (smoking === 'current') pre += ' <strong>금연 ≥6개월 필수</strong> (Caggiano 2022).';
+    if (sysFlags.has('dm')) pre += ' HbA1c 7.0% 미만 조절 후 식립.';
+    items.push(protoItem('high', '📋', '식립 전', pre));
+  }
+
+  // 식립 시
+  if (tier === 'low') {
+    let intra = '표준 식립. ';
+    if (timing === 'immediate') intra += 'IIP+CTG optional (thin biotype 아닌 경우 collagen matrix 대체 가능). SG(jump space ≥2mm).';
+    else intra += 'CTG 선택적. 협측 위치 회피.';
+    items.push(protoItem('low', '🦷', '식립 시', intra));
+  } else if (tier === 'mod') {
+    let intra = '';
+    if (timing === 'immediate') {
+      if (biotype === 'thin') intra = 'IIP+CTG (thin biotype — gold standard). SG mandatory. Palatal-biased position.';
+      else intra = 'IIP + CTG 또는 이종 collagen matrix (thick biotype — 대체 가능). SG mandatory.';
+    } else {
+      intra = 'CTG 또는 collagen matrix 동반. SG mandatory. Palatal position 확보.';
+    }
+    items.push(protoItem('mod', '🦷', '식립 시', intra));
+  } else {
+    let intra = '';
+    if (timing === 'immediate') {
+      intra = 'CTG + SG mandatory. GBR 동반(협측 골 결손 시). Palatal-biased position 필수.';
+    } else {
+      intra = 'CTG + GBR 복합 술식. 협측 골 결손이라면 GBR 우선 후 임플란트 식립 고려.';
+    }
+    items.push(protoItem('high', '🦷', '식립 시', intra));
+  }
+
+  // VST (Type II)
+  if (timing === 'immediate' && socketType === '2') {
+    items.push(protoItem('mod', '🔬', 'Type II Socket',
+      'VST 접근(유두 절개 없음) 우선 고려 — PES·유두 보존 우위(Ebrahim 2026). 큰 gap·fenestration은 open-flap GBR.'));
+  }
+
+  // 유지
+  if (tier === 'low') {
+    items.push(protoItem('low', '🔄', '유지관리',
+      '연 1회 SPT: PSTD 측정·KTW 재평가·BoP·PD·MBL. 진행 시 upgrade.'));
+  } else if (tier === 'mod') {
+    items.push(protoItem('mod', '🔄', '유지관리',
+      '연 1–2회 SPT. PSTD 측정 필수. KTW 재평가. 1mm 이상 변화 시 CTG 계획.'));
+  } else {
+    items.push(protoItem('high', '🔄', '유지관리',
+      '최초 1년 3개월마다 SPT. PSTD·KTW 집중 모니터링. 변화 시 즉각 개입.'));
+  }
+
+  return items;
+}
+
+// Init
+update();
+</script>
+</body>
+</html>
