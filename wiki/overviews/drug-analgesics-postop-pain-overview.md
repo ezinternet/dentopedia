@@ -391,6 +391,8 @@ p=0.002, 명확한 차이.
 - [[drug/analgesics/carrasco-labra-2024-pharmacologic-management-acute-dental-pain-guideline]] — 최초 체계적 ADA 급성 치통 CPG (JADA 2024;155:102-117): 비오피오이드 1선, 단순발치 opioid 반대, 코르티코스테로이드 진통 보조 반대, GRADE Conditional/Low-Very Low. 이 overview의 모든 처방 원칙의 공식 정책 출처 (CPG, 2024)
 - [[drug/analgesics/ada-2024-chairside-guide-adult-extraction]] — 발치 시나리오 체어사이드 가이드: 단순 vs 외과 발치 2열 알고리즘, bupivacaine/articaine 술후 국소마취, 오피오이드 escalation 경로. 부모 CPG의 즉시 사용 버전 (CPG/chairside, 2024)
 - [[drug/analgesics/ada-2024-chairside-guide-adult-pulpitis]] — 치통 잠정관리 체어사이드 가이드: 확정 치료 즉시 불가 시 2–3일 bridge 알고리즘, benzocaine 10–20% 적응, Scenario B 전체 경로. 부모 CPG의 즉시 사용 버전 (CPG/chairside, 2024)
+- [[drug/analgesics/ada-2024-respite-patient-guide-tooth-removed]] — ADA RESPITE 환자 핸드아웃 (발치 후): 연령별 3구간(12–17세·17–65세·65+) 약물 ladder 환자용 1쪽 요약, 외과 발치 시 장시간 국소마취제 선택지 포함 (patient-education, 2024)
+- [[drug/analgesics/ada-2024-respite-patient-guide-toothache]] — ADA RESPITE 환자 핸드아웃 (치통): 동일 3구간 ladder, 임시완화용 benzocaine 10–20% 도포 설명 포함 (patient-education, 2024)
 
 ### 신규 추가 (2026-06)
 
@@ -405,6 +407,8 @@ p=0.002, 명확한 차이.
 
 ### 1차 약물 효과 (Network MA·SR-MA)
 - [[drug/analgesics/bailey-2013-ibuprofen-paracetamol-wisdom-teeth-cochrane]] — Cochrane SR: ibuprofen 400mg > paracetamol 1000mg (RR 1.47, high-quality); combo 추가효과 (sr+ma, 2013)
+- [[drug/analgesics/bailey-2014-ibuprofen-paracetamol-wisdom-bdj-summary]] — BDJ Verifiable CPD 요약본 (Cochrane CD004624): ibuprofen>paracetamol (NNT=4), 병용 Nuromol NNT=3 — Bailey 2013 SR의 임상가용 distillation; Bailey 2013에 의해 superseded (bdj/summary, 2014)
+- [[drug/analgesics/miroshnychenko-2023-analgesics-acute-dental-pain]] — **소아(≤12세)** 발치 후 경구 진통제 SR+MA (6 RCT): ibuprofen=acetaminophen 단독, 병용(ibup 5mg/kg + APAP 15mg/kg)이 APAP 단독 대비 유의 우월(MD −0.75, 중등도 확실성); APAP+codeine 이득 미미; ADA 소아 CPG의 근거 SR (sr+ma/pediatric, 2023)
 - [[drug/analgesics/miroshnychenko-2023-dental-extraction-pain-network-meta]] — 발치 통증 Network MA n=9,095
 - [[drug/analgesics/moore-2015-single-dose-oral-analgesics-cochrane-overview]] — Single-dose Cochrane overview
 - [[drug/analgesics/moore-2015-otc-oral-analgesics-cochrane-overview]] — OTC Cochrane overview
@@ -432,6 +436,8 @@ p=0.002, 명확한 차이.
 ### NSAID 안전성·기전
 - [[drug/analgesics/kotowska-rodziewicz-2023-nsaids-role-dentistry-review]] — NSAID 종합 narrative
 - [[drug/analgesics/rainsford-2009-ibuprofen-pharmacology-efficacy-safety-review]] — Ibuprofen 약리·안전성 review
+- [[drug/analgesics/pozzi-2011-pain-management-dentists-ibuprofen]] — 치과 진료용 ibuprofen 약리·용량·안전성·약물 상호작용 narrative 리뷰: 발치·임플란트·치주·교정·미백 적응증별 사용 요약 (narrative, 2011)
+- [[drug/analgesics/becker-2010-pain-management-part-1]] — 2010 narrative CE review: NSAIDs가 통상 용량 opioid보다 급성 치과 통증에 우월; 진통 ceiling dose(ibuprofen 400mg, APAP 1000mg); equianalgesic opioid 용량 도표; Step 1 ibuprofen→Step 2 opioid 교육 프레임워크 — guideline 이전 근거 정리로 역사적 참고 (narrative/CE, 2010)
 - [[drug/analgesics/etikala-2019-nsaids-periodontal-implant-therapy-review]] — COX-2 골유착 우려
 - [[drug/analgesics/gomes-2025-nsaids-kidney-toxicity-icu-retrospective]] — NSAID AKI OR 1.98
 - [[drug/analgesics/zingel-2025-nsaids-cardiovascular-risk-inflammatory-arthritis]] — RA·AS 환자 NSAID CV 안전
