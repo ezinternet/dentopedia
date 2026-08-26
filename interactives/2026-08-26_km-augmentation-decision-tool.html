@@ -1,0 +1,502 @@
+<!--
+---
+title: "KM 증대 결정 도구 — 각화점막 위험 판정·술식 선택"
+type: interactive
+date: 2026-08-26
+status: done
+category: implants
+source_wiki:
+  - wiki/overviews/keratinized-mucosa-peri-implant-health-overview.md
+agenda: agenda/2026-08-26_km-augmentation-decision-tool.md
+---
+-->
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>KM 증대 결정 도구</title>
+<style>
+:root {
+  --bg: #ffffff;
+  --surface: #f8f9fa;
+  --border: #dee2e6;
+  --text: #212529;
+  --muted: #6c757d;
+  --accent: #2563eb;
+  --accent-light: #eff6ff;
+  --red: #dc2626;
+  --red-light: #fef2f2;
+  --amber: #d97706;
+  --amber-light: #fffbeb;
+  --green: #16a34a;
+  --green-light: #f0fdf4;
+  --purple: #7c3aed;
+  --purple-light: #f5f3ff;
+  --teal: #0d9488;
+  --teal-light: #f0fdfa;
+  --radius: 8px;
+  --shadow: 0 1px 3px rgba(0,0,0,.08);
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { background: var(--bg); color: var(--text); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; line-height: 1.5; padding: 16px; max-width: 900px; margin: 0 auto; }
+h1 { font-size: 18px; font-weight: 700; margin-bottom: 2px; color: var(--text); }
+.subtitle { color: var(--muted); font-size: 12px; margin-bottom: 16px; }
+
+/* Inputs */
+.input-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 14px; }
+@media (max-width: 600px) { .input-grid { grid-template-columns: 1fr; } }
+.field { display: flex; flex-direction: column; gap: 4px; }
+.field label { font-size: 12px; font-weight: 600; color: var(--muted); text-transform: uppercase; letter-spacing: .03em; }
+select, input[type="number"] {
+  border: 1px solid var(--border); border-radius: var(--radius); padding: 7px 10px;
+  font-size: 13px; background: var(--bg); color: var(--text);
+  width: 100%; outline: none; transition: border-color .15s;
+}
+select:focus, input[type="number"]:focus { border-color: var(--accent); }
+
+/* Signs checkboxes */
+.sign-row { display: flex; flex-wrap: wrap; gap: 6px; }
+.sign-btn {
+  padding: 4px 10px; border: 1px solid var(--border); border-radius: 20px;
+  background: var(--bg); color: var(--text); font-size: 12px; cursor: pointer;
+  transition: all .15s; user-select: none;
+}
+.sign-btn.active { background: var(--red-light); border-color: var(--red); color: var(--red); font-weight: 600; }
+
+.divider { border: none; border-top: 1px solid var(--border); margin: 14px 0; }
+
+/* Axes */
+.axes { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 10px; margin-bottom: 14px; }
+@media (max-width: 640px) { .axes { grid-template-columns: 1fr; } }
+
+.axis-card {
+  border-radius: var(--radius); padding: 12px; border: 1px solid var(--border);
+  background: var(--surface); min-height: 80px;
+}
+.axis-label { font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); margin-bottom: 6px; }
+.axis-value { font-size: 13px; font-weight: 600; line-height: 1.4; }
+.axis-sub { font-size: 11px; color: var(--muted); margin-top: 4px; line-height: 1.4; }
+
+.level-red { background: var(--red-light); border-color: #fca5a5; }
+.level-red .axis-value { color: var(--red); }
+.level-amber { background: var(--amber-light); border-color: #fcd34d; }
+.level-amber .axis-value { color: var(--amber); }
+.level-green { background: var(--green-light); border-color: #86efac; }
+.level-green .axis-value { color: var(--green); }
+.level-accent { background: var(--accent-light); border-color: #93c5fd; }
+.level-accent .axis-value { color: var(--accent); }
+.level-purple { background: var(--purple-light); border-color: #c4b5fd; }
+.level-purple .axis-value { color: var(--purple); }
+.level-teal { background: var(--teal-light); border-color: #99f6e4; }
+.level-teal .axis-value { color: var(--teal); }
+
+/* Material table */
+.mat-table { width: 100%; border-collapse: collapse; margin-bottom: 14px; font-size: 12px; overflow-x: auto; display: block; }
+.mat-table th { background: var(--surface); padding: 7px 10px; text-align: left; font-weight: 600; border-bottom: 2px solid var(--border); white-space: nowrap; }
+.mat-table td { padding: 6px 10px; border-bottom: 1px solid var(--border); vertical-align: top; }
+.mat-table tr:last-child td { border-bottom: none; }
+.mat-table .highlight { background: var(--accent-light); font-weight: 600; }
+.badge { display: inline-block; padding: 2px 7px; border-radius: 10px; font-size: 10px; font-weight: 700; }
+.badge-green { background: var(--green-light); color: var(--green); }
+.badge-amber { background: var(--amber-light); color: var(--amber); }
+.badge-red { background: var(--red-light); color: var(--red); }
+.badge-grey { background: var(--surface); color: var(--muted); border: 1px solid var(--border); }
+
+/* Evidence badges */
+.ev-row { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 14px; }
+.ev-badge {
+  padding: 6px 12px; border-radius: var(--radius); border: 1px solid var(--border);
+  font-size: 11px; background: var(--surface); line-height: 1.3;
+}
+.ev-badge strong { display: block; font-size: 14px; font-weight: 700; }
+.ev-badge span { color: var(--muted); }
+.ev-badge.red { background: var(--red-light); border-color: #fca5a5; }
+.ev-badge.red strong { color: var(--red); }
+.ev-badge.accent { background: var(--accent-light); border-color: #93c5fd; }
+.ev-badge.accent strong { color: var(--accent); }
+.ev-badge.purple { background: var(--purple-light); border-color: #c4b5fd; }
+.ev-badge.purple strong { color: var(--purple); }
+
+/* Router */
+.router { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 12px; }
+.router-title { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); margin-bottom: 8px; }
+.router-links { display: flex; flex-wrap: wrap; gap: 6px; }
+.router-link {
+  padding: 5px 12px; border-radius: 20px; font-size: 12px; text-decoration: none;
+  border: 1px solid var(--border); background: var(--bg); color: var(--accent);
+  transition: all .15s; cursor: pointer;
+}
+.router-link:hover { background: var(--accent); color: white; border-color: var(--accent); }
+.router-link.hot { background: var(--accent-light); border-color: var(--accent); font-weight: 600; }
+
+section { margin-bottom: 14px; }
+.section-title { font-size: 13px; font-weight: 700; margin-bottom: 8px; color: var(--text); border-left: 3px solid var(--accent); padding-left: 8px; }
+</style>
+</head>
+<body>
+
+<h1>각화점막(KM) 증대 결정 도구</h1>
+<p class="subtitle">Keratinized Mucosa Width 위험 판정 · 목표 분기 · 술식 선택 | 근거: Mahardawi 2023 · Roccuzzo 2025 · Zhang 2025 · Ravidà 2022</p>
+
+<!-- INPUTS -->
+<section>
+  <div class="input-grid">
+    <div class="field">
+      <label>KMW (각화점막 폭, mm)</label>
+      <input type="number" id="kmw" min="0" max="12" step="0.5" value="2" placeholder="0–12">
+    </div>
+    <div class="field">
+      <label>해당 부위</label>
+      <select id="site">
+        <option value="mand-post">하악 구치부</option>
+        <option value="mand-ant">하악 전치부</option>
+        <option value="max-ant">상악 전치부 (심미)</option>
+        <option value="max-post">상악 구치부</option>
+      </select>
+    </div>
+    <div class="field">
+      <label>수술 시점</label>
+      <select id="timing">
+        <option value="immediate">임플란트 식립 동시</option>
+        <option value="second-stage">2차 수술(노출) 시</option>
+        <option value="maintenance">유지관리 중 구제</option>
+      </select>
+    </div>
+    <div class="field">
+      <label>1차 목표</label>
+      <select id="goal">
+        <option value="width">폭(Width) 확보</option>
+        <option value="thickness">두께 · 심미 개선</option>
+        <option value="both">폭 + 두께 동시</option>
+      </select>
+    </div>
+    <div class="field">
+      <label>자가이식 공여부 의향</label>
+      <select id="donor">
+        <option value="yes">가능 (구개부 공여 허용)</option>
+        <option value="no">거부 (대체재 선호)</option>
+      </select>
+    </div>
+    <div class="field">
+      <label>상악 전치 색조 우선</label>
+      <select id="esthColor">
+        <option value="no">해당 없음</option>
+        <option value="yes">색조 불일치 회피 우선</option>
+      </select>
+    </div>
+  </div>
+
+  <div class="field" style="margin-bottom:0;">
+    <label style="margin-bottom:6px;">병적 징후 (복수 선택)</label>
+    <div class="sign-row" id="signRow">
+      <span class="sign-btn" data-sign="bop">BOP(탐침출혈)</span>
+      <span class="sign-btn" data-sign="recession">점막 퇴축</span>
+      <span class="sign-btn" data-sign="plaque">치태 증가</span>
+      <span class="sign-btn" data-sign="dehiscence">연조직 열개</span>
+      <span class="sign-btn" data-sign="none" id="signNone">징후 없음</span>
+    </div>
+  </div>
+</section>
+
+<hr class="divider">
+
+<!-- AXES -->
+<section>
+  <div class="section-title">Axis 결과</div>
+  <div class="axes">
+    <div class="axis-card" id="ax1">
+      <div class="axis-label">Axis 1 — 위험 판정</div>
+      <div class="axis-value" id="ax1v">—</div>
+      <div class="axis-sub" id="ax1s"></div>
+    </div>
+    <div class="axis-card" id="ax2">
+      <div class="axis-label">Axis 2 — 목표 경로</div>
+      <div class="axis-value" id="ax2v">—</div>
+      <div class="axis-sub" id="ax2s"></div>
+    </div>
+    <div class="axis-card" id="ax3">
+      <div class="axis-label">Axis 3 — 술식 · 시점</div>
+      <div class="axis-value" id="ax3v">—</div>
+      <div class="axis-sub" id="ax3s"></div>
+    </div>
+  </div>
+</section>
+
+<!-- MATERIAL TABLE -->
+<section>
+  <div class="section-title">대체재 계층 비교</div>
+  <table class="mat-table" id="matTable">
+    <thead>
+      <tr>
+        <th>재료</th>
+        <th>KMW 획득</th>
+        <th>두께 획득</th>
+        <th>수술 시간</th>
+        <th>공여부 morbidity</th>
+        <th>비고</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr id="row-fgg">
+        <td><strong>자가 FGG</strong></td>
+        <td>+1.5–6.5 mm<br><small>(기준, Oh 2024: +2.6mm avg)</small></td>
+        <td><span class="badge badge-amber">낮음</span></td>
+        <td>기준</td>
+        <td><span class="badge badge-amber">있음</span></td>
+        <td>색조불일치, 구개부 통증. Width 표준</td>
+      </tr>
+      <tr id="row-ctg">
+        <td><strong>자가 CTG</strong></td>
+        <td>FGG와 유사<br><small>(width 차이 NS)</small></td>
+        <td>+0.64 mm vs 대체재<br><small>(Valles 2022, 두께 gold std)</small></td>
+        <td>기준</td>
+        <td><span class="badge badge-amber">있음</span></td>
+        <td>두께·심미 목표 시 선택. Cairo 2019</td>
+      </tr>
+      <tr id="row-xcm">
+        <td><strong>이종 XCM</strong><br><small>(돼지유래 콜라겐)</small></td>
+        <td>FGG보다 −0.96~−1.16mm<br><small>(Dadlani 2024, 6·12mo)</small></td>
+        <td>CTG보다 −0.30mm<br><small>(Cairo 2019)</small></td>
+        <td>−18.5분<br><small>(Sanz 2022)</small></td>
+        <td><span class="badge badge-green">없음</span></td>
+        <td>공여부 거부 시 1차 대체. 통증↓, 만족도 = 자가</td>
+      </tr>
+      <tr id="row-adm">
+        <td><strong>동종 ADM</strong><br><small>(무세포진피기질)</small></td>
+        <td>수축 19.5% 더 큼<br><small>(Sanz 2022, p=0.009)</small></td>
+        <td><span class="badge badge-red">낮음</span></td>
+        <td>−10.9분<br><small>(Yadav 2025 SR)</small></td>
+        <td><span class="badge badge-green">없음</span></td>
+        <td>하위 옵션. Width 목표엔 부적합</td>
+      </tr>
+    </tbody>
+  </table>
+</section>
+
+<!-- EVIDENCE BADGES -->
+<section>
+  <div class="section-title">핵심 근거</div>
+  <div class="ev-row">
+    <div class="ev-badge red">
+      <strong>OR 2.78</strong>
+      <span>임플란트주위염 (Mahardawi 2023)<br>22편, 13,265 임플란트</span>
+    </div>
+    <div class="ev-badge red">
+      <strong>OR 6.67</strong>
+      <span>20년 코호트 (Roccuzzo 2025)<br>KM없음 → 임플란트주위염 25%</span>
+    </div>
+    <div class="ev-badge purple">
+      <strong>TSA-확정</strong>
+      <span>치태 MD 0.37, p=0.002<br>(Ravidà 2022, TSA 충족 유일)</span>
+    </div>
+    <div class="ev-badge accent">
+      <strong>≥2 mm</strong>
+      <span>KMW 임상 역치 — 전 근거 등급 수렴<br>DGI/SEPA 2022, Mahardawi 2023</span>
+    </div>
+    <div class="ev-badge accent">
+      <strong>MBL −0.27 mm</strong>
+      <span>Zhang 2025 MA (30편, 5,241 임플란트)<br>KM결핍 시 변연골소실 증가</span>
+    </div>
+    <div class="ev-badge">
+      <strong>구제 FGG = 원발 KT</strong>
+      <span>Roccuzzo 2025: 유지관리 중 FGG<br>→ 20년 성적 원발 KT와 통계적 동등</span>
+    </div>
+  </div>
+</section>
+
+<!-- ROUTER -->
+<div class="router">
+  <div class="router-title">연결 도구</div>
+  <div class="router-links" id="routerLinks">
+    <a class="router-link" href="2026-08-26_periodontics-staging-treatment-tool.html">치주 병기·Grade·SPT</a>
+    <a class="router-link" href="2026-08-26_arp-decision-tool.html">발치와 보존(ARP) · 재료 선택</a>
+    <a class="router-link" href="2026-08-26_immediate-implant-decision-tool.html">즉시 임플란트 식립 결정</a>
+    <a class="router-link" href="implant-loading-decision.html">임플란트 로딩 결정</a>
+  </div>
+</div>
+
+<script>
+const Signs = new Set();
+
+// Sign toggle
+document.querySelectorAll('.sign-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    const s = btn.dataset.sign;
+    if (s === 'none') {
+      Signs.clear();
+      document.querySelectorAll('.sign-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+    } else {
+      const noneBtn = document.getElementById('signNone');
+      noneBtn.classList.remove('active');
+      Signs.delete('none');
+      if (Signs.has(s)) {
+        Signs.delete(s);
+        btn.classList.remove('active');
+      } else {
+        Signs.add(s);
+        btn.classList.add('active');
+      }
+    }
+    update();
+  });
+});
+
+document.querySelectorAll('select, input').forEach(el => el.addEventListener('change', update));
+document.querySelectorAll('select, input').forEach(el => el.addEventListener('input', update));
+
+function update() {
+  const kmw = parseFloat(document.getElementById('kmw').value) || 0;
+  const site = document.getElementById('site').value;
+  const timing = document.getElementById('timing').value;
+  const goal = document.getElementById('goal').value;
+  const donor = document.getElementById('donor').value;
+  const esthColor = document.getElementById('esthColor').value;
+  const signs = Signs;
+  const hasSign = signs.size > 0 && !signs.has('none');
+
+  // ── Axis 1: Risk ──
+  const ax1 = document.getElementById('ax1');
+  const ax1v = document.getElementById('ax1v');
+  const ax1s = document.getElementById('ax1s');
+  ax1.className = 'axis-card';
+
+  let risk, riskClass, riskSub;
+  if (kmw < 2 && hasSign) {
+    risk = '즉시 증대 권고';
+    riskClass = 'level-red';
+    riskSub = `KMW ${kmw}mm < 2mm 역치 + 병적 징후 동반 → 독립적 위험인자 확정 (OR 2.78, Mahardawi 2023)`;
+  } else if (kmw < 2 && !hasSign) {
+    risk = '증대 고려 · 감시 강화';
+    riskClass = 'level-amber';
+    riskSub = `KMW ${kmw}mm < 2mm — 병적 징후 미동반이나 역치 이하. 20년 추적 시 OR 6.67 (Roccuzzo 2025). 매 recall 측정 강화`;
+  } else if (kmw < 4 && hasSign) {
+    risk = '감시 강화 권고';
+    riskClass = 'level-amber';
+    riskSub = `KMW ${kmw}mm ≥ 2mm이나 병적 징후 동반. DGI/SEPA: >2mm 광폭은 추가 보호 없음, 하지만 징후 있으면 3–4mo SPT`;
+  } else {
+    risk = '정기 측정 유지';
+    riskClass = 'level-green';
+    riskSub = `KMW ${kmw}mm ≥ 2mm + 병적 징후 없음 → 매 recall 측정, 6mo SPT 가능`;
+  }
+  ax1.classList.add(riskClass);
+  ax1v.textContent = risk;
+  ax1s.textContent = riskSub;
+
+  // ── Axis 2: Goal ──
+  const ax2 = document.getElementById('ax2');
+  const ax2v = document.getElementById('ax2v');
+  const ax2s = document.getElementById('ax2s');
+  ax2.className = 'axis-card';
+
+  let goalText, goalClass, goalSub;
+  if (goal === 'width') {
+    goalText = 'Width(폭) 확보 경로';
+    goalClass = 'level-accent';
+    goalSub = 'FGG(유리치은이식) 주경로. APF + FGG → +1.5–6.5mm KMW (Sanz 2022), 20년 내구 (Roccuzzo 2025)';
+  } else if (goal === 'thickness') {
+    goalText = '두께 · 심미 개선 경로';
+    goalClass = 'level-teal';
+    goalSub = 'CTG bilaminar 주경로. Cairo 2019: CTG vs XCM 두께 +0.30mm 우위. 즉시 식립 시 퇴축 예방 극대화 (Raghoebar 2021)';
+  } else {
+    goalText = '폭 + 두께 동시 경로';
+    goalClass = 'level-purple';
+    goalSub = 'FGG(width) + CTG별도 또는 STG+FGG 병용. 가장 공격적 증대. 공여부 2곳 필요 또는 XCM 병용';
+  }
+  ax2.classList.add(goalClass);
+  ax2v.textContent = goalText;
+  ax2s.textContent = goalSub;
+
+  // ── Axis 3: Technique × Timing (Zhang 2025 decision tree) ──
+  const ax3 = document.getElementById('ax3');
+  const ax3v = document.getElementById('ax3v');
+  const ax3s = document.getElementById('ax3s');
+  ax3.className = 'axis-card';
+
+  let tech, techClass, techSub;
+
+  const needsWidth = (goal === 'width' || goal === 'both');
+  const useSubstitute = donor === 'no';
+
+  if (site === 'mand-post' || site === 'mand-ant') {
+    if (kmw < 2) {
+      if (goal === 'thickness' && !hasSign) {
+        tech = useSubstitute ? 'APF + XCM bilaminar (두께)' : 'APF + CTG bilaminar (두께)';
+        techSub = `두께 목표 우선 — CTG bilaminar. KMW ${kmw}mm < 2mm로 width도 감시 필요. 두 목표 병행 시 APF + FGG + CTG 고려`;
+        techClass = 'level-teal';
+      } else {
+        tech = useSubstitute ? 'APF + XCM (FGG 대체)' : 'APF + FGG';
+        techSub = `하악 KMW <2mm — 2차 수술 전(前) 시행 필수 (Zhang 2025). ${timing === 'immediate' ? '식립 동시 or 2차 수술 전' : timing === 'second-stage' ? '2차 수술 시 최우선' : '구제 FGG — Roccuzzo 2025: 20년 원발 KT와 통계적 동등'}`;
+        techClass = 'level-red';
+      }
+    } else if (kmw < 3) {
+      tech = useSubstitute ? 'SFGG(분할두께 유리치은이식) 또는 APF + XCM' : 'SFGG 또는 FGG';
+      techSub = `하악 KMW 2–3mm — SFGG 또는 FGG 선택 (Zhang 2025). 시점: ${timing === 'maintenance' ? '유지관리 중 구제 가능 (Roccuzzo 2025)' : '2차 수술 시 우선'}`;
+      techClass = 'level-amber';
+    } else {
+      tech = needsWidth ? (useSubstitute ? 'APF + XCM (선택적)' : 'APF + FGG (선택적)') : '증대 필요성 낮음';
+      techSub = `KMW ${kmw}mm ≥ 3mm — 즉각적 증대 의무 없음. 두께 목표 시 CTG bilaminar 고려`;
+      techClass = 'level-green';
+    }
+  } else if (site === 'max-ant') {
+    if (esthColor === 'yes' || useSubstitute) {
+      tech = 'SFGG + XCM (이종이식)';
+      techSub = '상악 전치 심미 — 색조 불일치 회피 목적 SFGG + 대체재 (Zhang 2025). XCM: 수술시간 −18.5분, width는 FGG보다 −1mm 내외';
+    } else if (goal === 'thickness') {
+      tech = 'CTG bilaminar (Bilaminar technique)';
+      techSub = '상악 전치 두께/심미 → CTG bilaminar. Raghoebar 2021: 즉시 식립 시 CTG→퇴축 −0.34mm 예방, 두께 +0.66mm';
+    } else {
+      tech = 'SFGG 또는 APF + FGG';
+      techSub = '상악 전치 Width 목표. SFGG: 색조 보존 가능. 공여부 가능 시 FGG가 최대 width 획득';
+    }
+    techClass = 'level-teal';
+  } else {
+    // max-post
+    tech = 'ARF (근단변위피판, Apically Repositioned Flap)';
+    techSub = '상악 구치 — 구개측 KM 충분 → ARF 단독으로 KM 재배치 가능 (Zhang 2025). FGG 필요성 낮음';
+    techClass = 'level-purple';
+  }
+
+  ax3.classList.add(techClass);
+  ax3v.textContent = tech;
+  ax3s.textContent = techSub;
+
+  // ── Highlight material rows ──
+  ['fgg','ctg','xcm','adm'].forEach(r => {
+    const row = document.getElementById('row-' + r);
+    if (row) row.classList.remove('highlight');
+  });
+
+  const isMaxAnt = site === 'max-ant';
+  if (goal === 'width' && donor === 'yes' && !isMaxAnt) {
+    document.getElementById('row-fgg').classList.add('highlight');
+  } else if (goal === 'width' && donor === 'no') {
+    document.getElementById('row-xcm').classList.add('highlight');
+  } else if (goal === 'thickness') {
+    document.getElementById('row-ctg').classList.add('highlight');
+    if (donor === 'no') document.getElementById('row-xcm').classList.add('highlight');
+  } else if (goal === 'both') {
+    document.getElementById('row-fgg').classList.add('highlight');
+    document.getElementById('row-ctg').classList.add('highlight');
+  }
+  if (isMaxAnt && esthColor === 'yes') {
+    document.getElementById('row-xcm').classList.add('highlight');
+  }
+
+  // ── Router hot-link ──
+  const links = document.querySelectorAll('.router-link');
+  links.forEach(l => l.classList.remove('hot'));
+  if (signs.has('recession') || goal === 'thickness') {
+    links[0].classList.add('hot'); // periodontics
+  }
+  if (timing === 'immediate') {
+    document.querySelectorAll('.router-link')[2].classList.add('hot'); // immediate implant
+  }
+}
+
+update();
+</script>
+</body>
+</html>
