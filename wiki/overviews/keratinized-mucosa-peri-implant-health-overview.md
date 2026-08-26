@@ -172,3 +172,18 @@ Flapless surgery (Kim 2009) → higher supraperiosteal vascularity → better-pe
 - [[implants/soft-tissue/yadav-2025-soft-tissue-substitutes-patient-reported-outcomes-commentary]] — EBD commentary: soft-tissue substitutes reduce post-op pain/analgesic use/surgery time vs SCTG with equivalent satisfaction — the patient-reported-outcome (PROM) axis
 - [[implants/soft-tissue/kim-2009-blood-vessels-peri-implant-mucosa]] — Animal study (6 dogs, split-mouth): flapless implant surgery produces significantly higher peri-implant mucosal vascularity than flap surgery (vessel fraction 1.7% vs 1.2%, p<0.05); supraperiosteal vessel preservation identified as mechanism — surgical-technique axis for soft-tissue vascular defense
 - [[periodontics/huynh-2016-saline-rinsing-gingival-fibroblast-wound-healing]] — In vitro (PLOS ONE 2016, primary hGFs): 0.9–1.8% NaCl rinsing promotes hGF migration via Cl⁻/FAK/F-actin pathway; 1.8% optimal; COL1 >3-fold upregulation; keratinocytes unresponsive; 7.2% inhibitory — post-operative wound management evidence base
+
+## Clinical Quiz
+<!-- quiz_spec -->
+
+**Q1.** 유지관리 중인 하악 구치부 임플란트 환자에서 각화점막 폭(KMW) 1.5mm, 출혈 지수 양성(BOP+)을 확인했습니다. 이 오버뷰에 근거해 임상 결정을 설명하세요. *(근거: Roccuzzo 2025 전향 코호트 + 증대 시점)*
+
+> **모범답안**: KMW <2mm + 병적 징후(BOP+)는 이 오버뷰가 명시하는 증대 적응증이다. 유지관리 중에도 FGG가 효과적이고 내구적임이 Roccuzzo 2025(20년 전향, FGG 적용 시 20년 결과가 원발 KT와 통계적 동등)로 확인됐다. KM 없는 군의 임플란트주위염 25% vs KT군 4.2%(OR 6.67)이므로 개입 지연 위험이 명확하다. **즉시 FGG 시행**을 권고하며, 하악 구치 2차 수술 전이 실용적으로 선호되는 시점이다.
+
+**Q2.** 상악 전치 심미부위 임플란트에서 KM 증대가 필요합니다. FGG와 이종이식(Xenogeneic Collagen Matrix, XCM) 중 이 오버뷰에 근거해 어떻게 선택합니까? *(근거: 술식 선택 결정트리)*
+
+> **모범답안**: 이 오버뷰의 결정트리에서 **상악 전치(심미 부위)는 SFGG(Strip FGG)+대체재를 권장**한다 — 전통 FGG는 색조 불일치 문제가 있기 때문이다. XCM은 CTG 대비 KMW 비열등(WMD 0.8mm, p=0.062)하고 수술시간 18.5분 단축·통증이 적어 공여부 이환 회피 목적으로 선택 가능하다. ADM(동종이식)은 수축이 19.5% 더 커 하위 옵션이다. 단, 20년 내구 데이터는 FGG에만 있으므로 장기적 예측 가능성은 FGG가 우위.
+
+**Q3.** 임플란트주위 연조직이 자연 치은보다 KM 역치를 더 엄격하게 적용해야 한다는 이 오버뷰의 생물학적 근거를 설명하세요. *(근거: 혈관·조직 생물학 섹션)*
+
+> **모범답안**: 임플란트주위 연조직은 **PDL(치주인대) 혈관이 결여**되어 치은보다 저혈관·저세포 영역이다(Bhatavadekar 2012). 무피판 임플란트 수술이 피판 수술 대비 혈관단면적 비율(VF)을 유의하게 보존했으며(1.7% vs 1.2%, Kim 2009), 이 골막상 혈관 보존이 임플란트주위 점막 치유에 중요하다. 취약한 혈관·세포 환경으로 인해 감염·염증·구조 손실에 더 취약하므로, 자연 치은과 동일한 <2mm 역치를 적용하되 더 적극적으로 증대 결정을 내려야 한다.
