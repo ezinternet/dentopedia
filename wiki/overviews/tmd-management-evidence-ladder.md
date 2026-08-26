@@ -355,3 +355,18 @@ TMD 36편(SR+MA·가이드라인 27 + 편측저작·과두·이명 5 + TMJ OA �
 - [[tmj/santana-mora-2021-asymmetry-chewing-chronic-tmd]]
 - [[tmj/ma-2022-condyle-position-chewing-side-preference-cbct]]
 - [[tmj/zheng-2025-tmj-stress-mandibular-deformities-unilateral-occlusion-fea]]
+
+## Clinical Quiz
+<!-- quiz_spec -->
+
+**Q1.** 새로 내원한 턱관절장애(TMD) 환자에게 치료 계획을 수립합니다. 이 오버뷰에서 가장 높은 근거 수준의 치료법 상위 3가지와, 교합조정(occlusal adjustment)을 1차 치료로 사용하지 않는 이유를 설명하세요. *(근거: BMJ NMA 2023 Yao + Cochrane 2024 Singh)*
+
+> **모범답안**: 최고 근거 치료 Top 3(Yao 2023 BMJ NMA, 233 RCT): ① **인지행동치료(CBT)+바이오피드백**(RD 36%) ② **치료사 보조 하악 가동화**(RD 36%) ③ **수기 트리거포인트**(RD 32%). 교합조정은 Cochrane 2024(Singh)에서 근거 매우 낮음·미지지 판정 — "교합조정이 TMD 1차"는 오판이다. 비가역 교합 중재는 근거 없이 영구적 치아 손상을 초래할 수 있으므로 보존 치료 실패 후에만 고려한다.
+
+**Q2.** 3개월간의 보존 치료(물리치료·스플린트) 후에도 턱관절 통증이 지속됩니다. 관절천자(arthrocentesis)를 시행하면 보존 치료보다 통증 감소에 우월한 효과가 있습니까? 최신 근거로 답하세요. *(근거: 관절천자 축 — Valenzuela-Fuenzalida 2026)*
+
+> **모범답안**: 단독 관절천자의 통증 우월성은 입증되지 않았다. Valenzuela-Fuenzalida 2026(32 RCT, n=1,247, 비교군 확대)에서 통증 VAS 차이 없음(MD −0.25, p=0.55), 최대개구(MMO/MIO)는 오히려 비교군 우세였다. 따라서 관절천자는 결정적 치료가 아니라 **보조 옵션**이다. 단, **i-PRF 부가 시**에는 TSA 결정적·GRADE moderate 수준의 유의한 통증 VAS −1.62·MMO +5.03mm 이득이 확인됐다(Bader Alzamanan 2026, 9 RCT).
+
+**Q3.** TMD 환자가 습관적으로 한쪽으로만 저작합니다. 이 오버뷰에 근거해 편측저작과 TMD의 관계, 그리고 임상 대응 방향을 설명하세요. *(근거: 축 10 — 편측저작)*
+
+> **모범답안**: 이 오버뷰는 "습관저작측 = TMD 통증측"(Kappa=0.767), 편측저작의 TMD 위험비 4.5(Santana-Mora 2021)를 제시한다. 이명 동반 TMD에서는 편측저작 선호(CSP) 유병률 90.7% vs 76.0%, 이명측과 저작측 동측성이 확인됐다(Ma 2025). 임상 대응: 매 TMD 신환에서 **편측저작 습관을 확인하고 양측 균형 저작 교육**을 보존 치료 항목에 통합한다 — 교정 가능한 행동 위험인자이기 때문이다.
