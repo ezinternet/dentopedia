@@ -111,6 +111,17 @@ Decision logic in prose:
 3. **Site and execution modify the short choice.** Maxilla carries higher short-implant failure (Barausse), and for extra-short (≤5–6 mm) the loading protocol and abutment choice directly move MBL (Sivolella) — so tighten maintenance and execution rather than abandoning short. [확인]
 4. **When equivalent, patient priorities and track record break the tie.** Short wins on morbidity, cost, time, MBL; the longer/grafted route wins on the longer published ≥5 y track record. [확인]
 
+## Diameter vs Length — FEA Synthesis (Qiu 2024)
+
+[[implants/qiu-2024-comprehensive-biomechanical-evaluation-length-diameter]] (SR of 40 FEA studies, 2003–2023; PROSPERO CRD42022382211) directly resolves the biomechanical tension between diameter and length:
+
+- **Diameter governs cortical bone stress** (crestal overloading) — wider diameter reduces peri-implant stress concentration at the bone-implant interface.
+- **Length governs cancellous bone stress** — length gains relevance as bone density decreases (D3/D4 bone).
+- **Diameter > length overall**: short implants with larger diameter generated **lower stresses than longer implants with smaller diameter** — directly challenging the clinical default of preferring longer implants for stress reduction.
+- **Clinical implication**: in high-load sites, prioritize **wider diameter** over length extension; only in low-density (D3/D4) bone does adequate length become increasingly important.
+
+This FEA SR adds biomechanical rationale to the survival-based evidence above: the marginal-bone-level advantage of short implants in clinical studies is consistent with the FEA finding that length contributes little to crestal load distribution. Limitation: all FEA, no anisotropic bone models, only 1/40 studies performed experimental validation.
+
 ## Gaps & Future Research
 - **The ≥5 y evidence still leans, non-significantly, toward longer/grafted** (Yu 5 y RR 0.970 p<0.05; Mester RR 0.97 p=0.07). Adequately powered long-term RCTs are the missing piece.
 - **C/I ratio thresholds are not pooled** — the load gate is clinical inference, not quantified evidence.
