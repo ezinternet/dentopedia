@@ -193,3 +193,18 @@ E-cigarette / smoke-free tobacco user
 - [[overviews/early-implant-failure-risk-prevention-overview]] — broader early-failure risk-factor context beyond smoking.
 - [[overviews/peri-implantitis-management-overview]] — smoking as one of several peri-implantitis risk axes, alongside prosthetic/surgical factors.
 - [[overviews/periodontics-treatment-ladder]] — periodontitis treatment context into which smoking-cessation counseling fits.
+
+## Clinical Quiz
+<!-- quiz_spec -->
+
+**Q1.** 흡연자의 임플란트 생존에 대해 환자 상담 시 이 오버뷰에서 가장 큰 SR+MA 근거로 위험을 정량화하면? *(근거: Calciolari 2026 + Fan 2024)*
+
+> **모범답안**: 이 오버뷰의 최신·최대 근거는 **Calciolari 2026**(SR+MA, 45편, PROSPERO 등록): 임플란트 단위 생존 **OR 0.40**(95% CI 0.27–0.61), 즉 비흡연자 대비 생존 가능성 약 60% 낮음. 전체 추적기간 변연골소실(CBL) **+0.64mm**(p=0.001). Fan 2024(32편, 59,246개 임플란트)는 조기 실패 **OR 2.59**를 정량화했다. 환자 상담 문구 예시: "흡연자는 비흡연자 대비 임플란트 실패 위험이 약 2.5배 높고, 장기적으로 주위 골 소실도 더 많습니다. 식립 전 금연 상담이 결과 개선에 도움이 됩니다."
+
+**Q2.** 전자담배(e-cigarette) 사용 환자가 "일반 담배보다 안전하니까 임플란트에 문제없다"고 합니다. 이 오버뷰 근거로 어떻게 답합니까? *(근거: La Rosa 2026 + Calciolari 2026 하위분석)*
+
+> **모범답안**: "더 안전하다"고 확인해 줄 수 없다. La Rosa 2026(SR 12편)에서 전자담배 사용자의 구강 미생물총은 비흡연자와 군집 구조 수준에서 일관되게 다르며(GRADE 매우 낮음), Calciolari 2026의 무연담배·전자담배 하위 분석에서는 메타분석 자체가 불가능할 정도로 데이터가 부족하다. 이 오버뷰는 "더 안전한 대안"이라 주장하기엔 근거가 미성숙하며, **"근거 없음"을 "안전하다"로 해석해서는 안 된다**고 명시한다. 상담: "전자담배가 임플란트에 안전하다는 근거는 아직 없습니다 — 위험이 낮다는 것이 아니라 아직 모른다는 의미입니다."
+
+**Q3.** 비흡연 환자에게도 흡연 관련 치주 위험 문진이 필요합니까? 이 오버뷰에서 새롭게 추가된 근거를 설명하세요. *(근거: Ye 2026 SR+MA — 간접흡연)*
+
+> **모범답안**: **필요하다.** Ye 2026(SR+MA, 14편, 비흡연 성인 115,925명)에서 **비흡연자도 간접흡연(Environmental Tobacco Smoke, ETS) 노출만으로 치주염 위험 유의 증가**(OR 1.47, 95% CI 1.22–1.76)가 확인됐다. 코티닌 기반 객관적 평가가 자가보고보다 더 강한 신호를 보여 측정의 신뢰성도 높다. 이 오버뷰는 위험 모델을 능동 흡연을 넘어 **가정·직장 내 노출까지 확장**해야 함을 명시한다. 임상 적용: 모든 치주·임플란트 신환 문진에 "동거인 또는 직장 내 흡연 노출 여부"를 포함한다.
