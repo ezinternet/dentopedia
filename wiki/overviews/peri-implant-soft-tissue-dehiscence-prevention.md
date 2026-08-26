@@ -256,3 +256,18 @@ Causal chain: Thin facial bone wall → 발치 후 bundle bone 흡수 → 협측
 - [[overviews/type-1a-immediate-placement-immediate-loading-decision]] — Type 1A 적응증 (자매 페이지)
 - [[overviews/cosyn-immediate-implant-4-bundle-decision]] — 4변수 술식 의사결정 (자매 페이지)
 - [[implants/soft-tissue/nart-2025-soft-tissue-augmentation-pstd-sr-ma]] — SR+MA (PSTD management 술식): CAF+CTG for established PSTD — professional esthetic score 7.7/10, patient satisfaction only 60.8/100 (significant perception gap); complete coverage does not guarantee patient satisfaction. Patient-reported outcome integrated at treatment planning stage.
+
+## Clinical Quiz
+<!-- quiz_spec -->
+
+**Q1.** 즉시식립(Immediate Implant Placement, IIP)을 계획하는 상악 전치부 thin biotype(협측 두께 ≤1mm) 환자입니다. 이 오버뷰에 근거해 연조직 보호 전략을 설명하세요. *(근거: Seyssens 2021 + Martins 2024 + 위험 티어 MOD)*
+
+> **모범답안**: Thin biotype + 즉시식립 = **Moderate risk tier** → 이 오버뷰는 **CTG(결합조직이식) 또는 이종 콜라겐 매트릭스 필수 + 소켓 이식 + 구개측 위치**를 권고한다. Seyssens 2021(SR+MA)에서 IIP+CTG는 midfacial 퇴축을 ~0.4–0.7mm 보존하며 thin biotype에서 효과가 최대였다. 해부학적 근거: Martins 2024에서 협측 골판(Facial Bone Wall) <1mm는 발치 후 흡수로 직접 연결돼 협측 점막 지지를 잃는다 — 연조직 술식만으로는 불충분하며 소켓 이식으로 골 보존을 병행해야 한다. CTG vs 이종 콜라겐 매트릭스의 우위는 통계적으로 marginal(Azadi 2025 NMA)이므로 thin biotype이 아닌 경우 콜라겐 매트릭스 대체도 가능하다.
+
+**Q2.** 유지관리 중인 임플란트 환자에서 임플란트 주위 연조직 열개(PSTD)가 46.2% 발생률이라는 사실은 환자 설명과 recall 계획에 어떤 의미입니까? *(근거: Tavelli 2025 AO/AAP SR+MA)*
+
+> **모범답안**: Tavelli 2025(AO/AAP SR+meta-regression, 221편)는 "질환 없는 상태에서도 평균 46.2%의 PSTD 발생"을 보고한다. 이는 PSTD를 **예외적 합병증이 아니라 기대 가능한 자연 진행**으로 재분류해야 함을 의미한다. 환자 설명: "임플란트 시술 후 협측 점막이 약간 내려가는 것은 일부 환자에서 기대되는 과정입니다 — 그래서 정기 검진이 중요합니다." Recall 계획: 모든 임플란트 환자에서 매 내원 시 midfacial 점막 수준을 측정·기록하고, ≥1mm 퇴축 + 심미 불만족 시 CTG 보강 시점을 결정한다.
+
+**Q3.** 기존 임플란트 환자에서 PSTD 3mm + 협측 골 결손이 발견됐습니다. 이 오버뷰의 관리 알고리즘을 적용하세요. *(근거: 기존 PSTD 관리 사다리)*
+
+> **모범답안**: 이 오버뷰의 PSTD 관리 사다리에서 **≥3mm + 협측 골 결손은 최고 단계**다: **보철 제거(prosthetic removal) + GBR(골유도재생술) + 재수복**. 단계별 해석: ①≤1mm → 관찰 + 위생 강화 ②1–3mm → CTG 보강 ③≥3mm + 협측 골 결손 → 보철을 제거해 수술 접근을 확보하고, GBR로 협측 골을 재건한 후 연조직이 성숙하면 재수복한다. 이는 가장 이환이 높은 경로이므로 이 단계에 도달하기 전에 정기 recall에서 조기 개입이 핵심이다.
