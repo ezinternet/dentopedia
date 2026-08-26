@@ -363,3 +363,18 @@ Living document 원칙으로 명시:
 - [[overviews/isq-loading-threshold]] — ISQ 부하 결정
 - [[overviews/ridge-split-expansion-technique-selection-overview]] — 좁은 능선 술식 서열 (GBR 4.04 > RS 3.66 > OD 2.15 mm; 단 시작 폭이 다름) — §3-2의 결정 지점
 - [[overviews/high-insertion-torque-primary-stability-crestal-bone-overview]] — 토크 상한·부위별 해악 규칙; §1 Coyac 천장의 토크 축 상세
+
+## Clinical Quiz
+<!-- quiz_spec -->
+
+**Q1.** 저밀도골(D3–D4) 케이스에서 골밀도화(Osseodensification, OD) 시행 후 삽입토크(IT)가 50 Ncm으로 상승했습니다. 술자는 ISQ 측정 없이 "IT가 충분하니 즉시부하 가능"으로 판단했습니다. 이 오버뷰에 근거해 이 결정을 평가하세요. *(근거: IT–ISQ 해리 — Mohammadi 2025 + Moghaddas 2025)*
+
+> **모범답안**: 잘못된 판단이다. 이 오버뷰는 "OD의 이득은 IT(기계적 1차 고정)에 확실하나 ISQ 이득은 인체에서 불확실하다"고 명시한다. Mohammadi 2025 SR+MA(7편) — 1차 ISQ MD=4.13(NS), 2차 MD=1.78(NS); Moghaddas 2025 전향 연구 — IT +37%(50.3 vs 36.1 Ncm, p<0.001)이나 ISQ는 양 군 동등(NS). IT–ISQ 해리가 인체 임상에서 재현되므로 즉시부하 결정은 반드시 ISQ 직접 측정으로 해야 한다.
+
+**Q2.** 직경 4.2mm 임플란트에 OD 프로토콜을 적용했습니다. 이 오버뷰에 근거해 IT 이득을 기대할 수 있는지 판단하고, 어떤 조건에서 OD의 IT 이득이 확실한지 설명하세요. *(근거: 직경 의존성 — Koutouzis 2025)*
+
+> **모범답안**: 4.2mm 세폭 임플란트에서는 OD의 IT 이득을 기대하기 어렵다. Koutouzis 2025(돼지 경골, 6mm short, 90개)에서 OD의 IT 이득은 **광폭(5.4mm)에서만 유의**(50.0 vs 28.0 Ncm, p=0.005)하며, 세폭(4.2mm)은 이득 없음. 조직계측 차이도 없어 OD의 초기 효과는 기계적 압축이고 직경이 핵심 조절변수임을 보여준다.
+
+**Q3.** Densah bur의 전통적 회전 방향(Counterclockwise, CCW)과 Rittipakorn 2025가 제안한 변형 프로토콜을 비교하고, 이 오버뷰의 임상적 해석을 설명하세요. *(근거: 메커니즘 섹션 — Rittipakorn 2025)*
+
+> **모범답안**: 전통 OD는 CCW 800–1500 rpm으로 자가골 압축·자가이식하는 술식이다. Rittipakorn 2025(사체, CW 800 rpm)는 Densah bur를 **시계방향(CW)으로도 측방압축이 가능**함을 처음 보여줬다(음의 rake angle 덕). CW-OD군은 SD 대비 ISQ·IT 경향적으로 높았으나 유의차 없음(NS). 이 오버뷰는 "CCW가 OD의 절대 조건이 아닐 수 있으나 in-vivo 검증이 아직 없다"고 결론짓는다 — 임상에서는 아직 전통 CCW 프로토콜을 유지한다.
