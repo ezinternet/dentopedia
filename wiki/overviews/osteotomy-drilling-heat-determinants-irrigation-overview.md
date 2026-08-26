@@ -176,6 +176,10 @@ Read together: **peck drilling is a compensator for drill geometry that is alrea
 - [[implants/osteotomy-thermal/chakraborty-2024-implant-drill-materials-heat-osteotomy]] — drill-material SR; material effect inconclusive, consistent with wear/design outranking material here.
 - [[implants/osteotomy-thermal/bento-2023-steel-versus-zirconia-drills-heat]] — zirconia-vs-steel drill SR+MA; specific material-pair signal within the design/wear frame.
 
+### Drill pre-cooling & geometry interaction (2026-08-27)
+
+- [[implants/osteotomy-thermal/einafshar-2024-importance-precision-cortical-bone-drilling]] — In vitro bovine cortical bone + DEFORM-3D 3D FEA (experimentally validated, ≤2.86% error). **First study to quantify initial drill temperature (IT) as a heat parameter**: IT 25→5°C reduces max bone temperature by **26.14%** — achievable via saline pre-cooling. Point angle 70°→120°: MT +13.1% but MTF −26.9% (opposing thermal/force trade-off). Spindle speed increase: MT +48.3%, MTF −82.8%. Clinical summary: pre-cooling drill bits to ~5°C (saline) + smaller point angle + controlled spindle speed are actionable thermal-necrosis reduction strategies.
+
 ### Peck drilling — technique × geometry interaction (2026-07-15)
 
 - [[implants/osteotomy-thermal/gehrke-2020-technique-drill-design-osteotomy]] — In vivo rabbit (n=48, Scientific Reports): peck interval explicitly defined as 0→3 mm / 0→5 mm / 0→8 mm. Intermittent movement significantly reduced ΔT for cylindrical drills only (6.91→4.30°C, p=0.001, −37%); conical drills showed no technique effect (p=0.977). Refines the Tier-3 peck-drilling guidance: conical drill geometry controls heat sufficiently on its own; peck drilling adds value mainly for cylindrical drills.
