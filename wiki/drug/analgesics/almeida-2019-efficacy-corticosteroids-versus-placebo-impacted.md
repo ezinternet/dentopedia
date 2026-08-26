@@ -19,6 +19,9 @@ relations:
     target: tamgadge-2025-preoperative-dexamethasone-third-molar-pain-swelling-trismus
   - type: extends
     target: satpathi-2024-corticosteroids-dentistry-review
+  - type: extended_by
+    target: drug/analgesics/canellas-2022-corticosteroids-third-molar-nma
+    note: "Canellas 2022 NMA (61 RCTs, 3561 pts) adds agent-level specificity: dexamethasone 8mg submucosal best; resolves almeida's binary CS-vs-placebo into actionable agent ranking"
 synthesized_in: overviews/drug-analgesics-postop-pain-overview
 ---
 
