@@ -1,0 +1,25 @@
+SOURCE: PubMed structured abstract (abstract-only; full text not retrieved — no PMC record)
+PMID: 36152952 | DOI: 10.1016/j.jdent.2022.104304
+J Dent. 2022;126:104304.
+
+Removable partial dentures and mortality among partially edentulous adults.
+Bashir NZ, Bernabe E.
+
+OBJECTIVES: Evaluate whether use of removable partial dentures (RPDs) has an effect on long-term
+survival outcomes amongst partially edentulous adults.
+METHODS: Data extracted from the Third National Health and Nutrition Examination Survey (NHANES III)
+and linked to public-use mortality files for the period up to 2019. Partially edentulous adults with
+FEWER THAN 20 TEETH included. RPD use and dentition status determined by CLINICAL EXAMINATION. Cohort
+PROPENSITY SCORE WEIGHTED to create a sample balanced across 27 COVARIATES (sociodemographics, health
+behaviors and insurance, laboratory markers, general health status). Survival analysis computing
+absolute (mortality rate, median survival time) and relative (event time ratio, ETR) measures.
+RESULTS: Analyzed cohort 1246 participants = 22,557 person-years of follow-up.
+- Difference in all-cause mortality rate between RPD wearers and non-wearers: -6.5 (95% CI -11.6 to -1.4)
+- Median survival time in RPD wearers 3.1 years longer: 20.3 years versus 17.2 years
+- 26% increase in survival time in RPD wearers: ETR 1.26 (95% CI 1.17 to 1.37)
+- For every 7.5 individuals treated with RPDs, one death would be prevented after 10 years of treatment
+CONCLUSIONS: The use of RPDs may have long-term benefits in reducing mortality amongst adults with a
+non-functional dentition, but FURTHER RESEARCH IS NEEDED to validate these findings and assess the
+factors mediating the relationship.
+CLINICAL SIGNIFICANCE: The use of RPDs may have long-term benefits in reducing mortality amongst adults
+with a non-functional dentition.
