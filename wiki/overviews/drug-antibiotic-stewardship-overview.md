@@ -341,6 +341,7 @@ GRADE 확실성: 항생제의 감염 예방 효과는 **낮음**, 임플란트 �
 
 - [[drug/antibiotics/bwire-2025-postoperative-antibiotic-prophylaxis-discontinuation-umbrella-review]] — Umbrella + pooled MA (9 reviews, 80,483명): 절개봉합 시점 즉시 중단 vs 24h 이상 지속 = SSI 차이 없음 **RR 1.07 (0.97–1.17), p=0.22**. 술후 연장 예방은 무익 → de-implement 최우선 타깃. (일반외과 근거, AMSTAR-2 0/28 high — 근거질 약함) (sr+ma, 2025)
 - [[drug/antibiotics/esposito-2013-antibiotics-dental-implant-placement-cochrane]] — Cochrane SR+MA (6 RCT, 1,162명): 단일 preop amoxicillin 2–3g가 조기 임플란트 실패 유의 감소 **RR 0.33 (0.16–0.67), NNTB 25**; 그러나 술후 연장은 이득 없음(Nolan 4-arm 무정보), 부작용 신호 없음. 엄격 재분석(momand-2024)은 RR 0.66·NNT 143·비유의로 근거 취약성 노출. Moderate GRADE, amoxicillin only. (sr+ma, 2013)
+- [[drug/antibiotics/dubedout-2025-antibiotic-prophylaxis-early-complications]] — SR (이중맹검 위약대조 전용 7 RCT, 1,846명): 전 시험에서 임플란트 실패·합병증 유의차 없음(전부 p > 0.05); 유일 유의 결과는 Nolan 7일 통증 감소(p=0.016); 이중맹검 필터 적용 후 momand-2024 결론 독립 재확인 — 건강한 환자 루틴 항생제 예방투여 비권고. AMR·가이드라인(AFSSAPS 2011·EAO 2015·ITI) 부합. (sr, 2025)
 - [[drug/antibiotics/kwon-2023-microbial-isolates-antibiotic-sensitivity-odontogenic]] — 10년 후향 단일센터 한국(n=192, 302 균주): 치성 근막공간 농양 배양 — viridans strep penicillin-G 감수성 **68.4%→52.0%로 하락**, 3세대 cephalosporin ~94–95% 유지, 심경부공간엔 내성 Gram음성(Klebsiella, ampicillin 100% 내성) 증가. Penicillin 단독 경험요법은 입원·중증에 부적절, 배양 필수. (retrospective, 2023)
 - [[drug/antibiotics/liu-2024-antibiotic-prophylaxis-surgical-nonsurgical-safety-umbrella-review]] — Umbrella of RCTs (75 SR, 725 RCT, 163,832명, 78 시나리오): 예방효과는 "clean vs dirty" 직관과 무관하게 시나리오별 상이(119개 중 유의 56.3%, 확실은 34개뿐); **실제 harm 존재**(내성 RR 1.73, 부작용 RR up to 3.32) — routine 아닌 case-by-case. GRADE 70% low/very-low. (sr+ma, 2024)
 
@@ -404,6 +405,7 @@ GRADE 확실성: 항생제의 감염 예방 효과는 **낮음**, 임플란트 �
 - [[drug/antibiotics/segura-egea-2017-antibiotics-in-endodontics-a-review]] — 근관치료 항생제 유럽 종합
 - [[drug/antibiotics/law-2026-antibiotics-after-non-surgical-root]] — 미국 PBRN 근관치료 후 처방
 - [[drug/antibiotics/momand-2024-antibiotic-prophylaxis-early-implant-failure]] — 임플란트 예방 불필요 SR+MA
+- [[drug/antibiotics/dubedout-2025-antibiotic-prophylaxis-early-complications]] — 임플란트 예방 불필요 SR (이중맹검 전용·AMR 스튜어드십)
 - [[drug/antibiotics/low-2026-dental-antibiotic-prescribing-practices-singapore]] — 싱가포르 처방 실태
 - [[drug/antibiotics/nazari-2026-general-dentists-antibiotic-prescription-endodontic-shiraz]] — 이란 처방 실태
 - [[drug/antibiotics/goel-2020-antibiotic-prescriptions-in-pediatric-dentistry]] — 소아 처방 종합
