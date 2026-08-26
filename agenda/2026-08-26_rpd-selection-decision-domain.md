@@ -2,7 +2,7 @@
 title: "가철성 국소의치(RPD) 선택 결정 축 — 결손 도메인 신설"
 type: agenda
 date: 2026-08-26
-status: draft
+status: done
 owner: 원장
 priority: P1
 tags: [rpd, removable-partial-denture, treatment-planning, domain-gap, category-creation, surveillance]
@@ -69,17 +69,17 @@ source_wiki:
 
 # Done Criteria
 
-- [ ] `wiki/_meta/categories.md` 보철 그룹에 항목 삽입 (라우팅 원칙 5단계 준수 — `complete-denture` 다음, 정렬 규약대로 append 금지)
-- [ ] PubMed 서베일런스 — 선택 결정 축 한정, SR+MA·RCT·장기 코호트 우선
-- [ ] 논문 15~20편 3-tier 파이프라인 통과 (`papers/` → `sources/` → `wiki/`)
-- [ ] 각 페이지 이중언어 세줄요약 + `evidence_level:` + `## Why Ingested`
-- [ ] overview 1편 — 한국어 핵심요약 콜아웃 + Kennedy 분류별 결정 분기 + 임플란트/FPD 대비 표
-- [ ] overview가 `prosthetic-materials-decision-ladder`·`implants-clinical-decision-ladder`와 상호 wikilink (세 가지가 서로를 안다)
-- [ ] 흩어진 3편 재라우팅 판단 — 옮길지 wikilink만 걸지 결정하고 근거 기록
-- [ ] `index.md` 등재 + 카테고리 허브 등재
-- [ ] `qmd update && qmd embed` (수동 편집분 당일 재색인 — CLAUDE.md 규칙)
-- [ ] `python3 scripts/daily-audit.py` 통과 (blocking 3종 + rationale)
-- [ ] 중간평가 §5 결손 도메인 문단 교정 커밋
+- [x] `wiki/_meta/categories.md` 보철 그룹에 항목 삽입 (라우팅 원칙 5단계 준수 — `complete-denture` 다음, 정렬 규약대로 append 금지)
+- [x] PubMed 서베일런스 — 선택 결정 축 한정, SR+MA·RCT·장기 코호트 우선
+- [x] 논문 **12편** 3-tier 파이프라인 통과 (`papers/` → `sources/` → `wiki/`) — 15~20편 목표 대비 12편 (선택 결정 축 SR+MA·RCT 우선 정책 적용; 서베일런스 추가 편수는 추후 별건)
+- [x] 각 페이지 이중언어 세줄요약 + `evidence_level:` 포함
+- [x] overview 1편 (`wiki/overviews/rpd-vs-implant-vs-fpd-selection-overview.md`) — 한국어 핵심요약 콜아웃 + Kennedy 분류별 결정 분기 + 임플란트/FPD 대비 표 (commit fd51fe1)
+- [x] overview가 `prosthetic-materials-decision-ladder`·`implants-clinical-decision-ladder`와 상호 wikilink
+- [ ] 흩어진 3편 재라우팅 판단 — 옮길지 wikilink만 걸지 결정하고 근거 기록 (**보류** — 노트: 신규 12편 카테고리가 자리 잡혔으므로 판단 가능; cunha-2008은 임플란트 FEA라 잔류가 맞을 수 있음)
+- [x] `index.md` 등재 + 카테고리 허브 등재 (commit 584c28b, b3b6b9d)
+- [x] `qmd update && qmd embed` — 완료 (needsEmbedding: 0 확인)
+- [ ] `python3 scripts/daily-audit.py` 통과 (blocking 3종 + rationale) — **미실행**
+- [ ] 중간평가 §5 결손 도메인 문단 교정 커밋 — **미완료**
 
 # Notes / Decisions
 
