@@ -1,0 +1,130 @@
+SOURCE: PubMed Central full text (JATS) via PubMed MCP get_full_text_article
+PMCID: PMC4023187 | PMID: 24883037 | DOI: 10.4103/1305-7456.110199
+Eur J Dent. 2013;7(2):251-256.
+
+Reappraisal of the removable partial denture as a treatment option for the shortened dental arch.
+Nassani MZ, Tarakji B, Baroudi K, Sakka S.
+
+*** EXTRACTION NOTE: body text retrieved in full, but the paper's TWO TABLES came through as
+headers only with no cell content — "Table 1: A list of problems that may be associated with
+FESRPDs" and "Table 2: Factors that may affect the outcome of extending the SDA by an FESRPD".
+Reference numerals also stripped (rendered as empty "[]"). ***
+
+INTRODUCTION
+The shortened dental arch (SDA) is "a dentition with a reduction of occlusal units starting
+posteriorly." An occlusal unit means "a pair of antagonist teeth that supports the occlusion (e.g.,
+premolars and molars)." According to the SDA concept, all treatment efforts should be concentrated on
+preserving sound anterior and premolar teeth and avoiding extensive restorative treatment in the molar
+regions; occlusion is stabilized and the remaining dentition rehabilitated without replacement of
+missing posterior teeth.
+Clinical trials showed an SDA comprising anterior and premolar teeth appeared to have, in the long
+term, sufficient adaptive capacity for adequate oral function (chewing ability, aesthetics, stability
+of the dentition, TMJ function, functional habits). However, in many situations planning according to
+the SDA concept is contraindicated; some patients, particularly younger ones, may be reluctant to
+leave SDAs unrestored; and there are situations where extending the SDA should be considered (loss of
+posterior teeth creating aesthetic problems, occlusal instability, chewing difficulties).
+When a decision is made to extend the SDA this can be achieved by a free-end saddle removable partial
+denture (FESRPD), cantilevered fixed bridge, or implant-supported prosthesis. Each option has
+unsatisfactory elements; the difficulty has been called "a prosthodontic dilemma."
+
+THE PROBLEM OF FREE-END SADDLE REMOVABLE PARTIAL DENTURE
+FESRPDs are problematic because of the different responses of teeth and mucosa to occlusal loads.
+Support is derived mainly from the mucosa covering the edentulous areas; when shared by remaining
+teeth (periodontal membrane) plus saddle mucosa, the MIXED nature of support makes even distribution
+of masticatory force difficult, because the mucosa is much more compressible than the periodontal
+membrane. Under occlusal load, uneven displacement occurs and the denture may ROTATE around an axis
+joining the most distal occlusal rests. These rotational forces affect stability and may generate
+damaging forces that in the long term affect abutment teeth and enhance residual ridge resorption.
+The problem is greater in the MANDIBLE, where non-tooth support area is far more reduced than in the
+maxilla (hard palate distributes load), so the mandibular FESRPD results in relatively more bone loss
+in edentulous saddle areas and greater potential to rotate about abutment teeth.
+Ritchie: the majority of FESRPDs, especially mandibular dentures, are NOT WORN.
+
+CLINICAL INVESTIGATIONS ON OUTCOME
+- Clinical surveys indicate a high failure rate of FESRPDs, especially in the mandible; ultimate
+  failure perceived as abandonment of wearing the dentures.
+- Elias and Sheiham: great numbers of FESRPDs are not worn because SUBJECTIVE needs for replacement
+  are less than NORMATIVE needs — a gap between patients' and dentists' perception.
+- Inadequate quality of prescription in designing RPDs for SDA patients has been reported.
+- Kayser: prosthodontic intervention to extend the SDA by FESRPD is a kind of "OVERTREATMENT"; does
+  not contribute to maintenance of a healthy natural functioning dentition for life, and may introduce
+  unfavorable conditions for the remaining dentition.
+- Nijmegen group clinical trials: extending an SDA of THREE TO FIVE occlusal units by an FESRPD did
+  NOT lead to evident improvement in oral function (chewing ability, oral comfort, aesthetics,
+  stability of dentition, TMJ function, functional habits).
+- Witter et al.: routine conventional removable prosthodontic intervention as a preventive measure in
+  SDAs to avoid occlusal collapse should be DISCOURAGED; SDAs of anterior + premolar teeth maintain
+  long-term occlusal stability.
+- Molars replaced by FESRPD vs not replaced per SDA concept: NO significant difference in incidence of
+  tooth loss at 38 months post-treatment; confirmed over 5-year follow-up.
+- Leak et al.: replacement of missing posterior teeth with an RPD appears to have a small
+  socio-functional impact until the patient has FEWER THAN THREE posterior functional units.
+- RCTs: extending the SDA by cantilevered fixed RESIN-BONDED BRIDGES offered an effective alternative
+  to conventional mandibular RPDs at a LOWER BIOLOGICAL PRICE.
+- Aras et al.: SDA with bilaterally missing molars can be an effective alternative to FESRPDs for
+  masticatory performance despite significant reduction in maximum occlusal force and occlusal contact
+  area; NO significant differences in masticatory performance between SDA subjects WITH FESRPDs and
+  SDA subjects WITHOUT. In EXTREMELY shortened arches, rehabilitation with FESRPDs DID improve
+  masticatory performance and time — but not comparable to completely dentate subjects.
+- Creugers et al.: mandibular FESRPDs do not affect temporomandibular function and do not contribute
+  to posterior occlusal support in SDAs of three to five occlusal units (minimum one occlusal unit per
+  side); such treatment restores only a FRACTION of occlusal support in terms of occlusal contacts.
+- A recent systematic review concluded evidence is NOT YET SUFFICIENT to draw conclusions about the
+  relative effectiveness of fixed partial dentures vs RPDs in restoring SDAs.
+
+PATIENTS' ATTITUDES TOWARD FESRPDs
+- Jepson et al.: patients' compliance with wearing RPDs was significantly related to the presence of
+  ANTERIOR replacement teeth; dentures that were NEVER WORN were more likely to have no replacement
+  anterior teeth.
+- Armellini et al.: RPDs had a positive impact on quality of life of SDA subjects ONLY when the denture
+  replaced ANTERIOR teeth.
+- Nassani et al.: patients place LITTLE VALUE on both acrylic and metal-based RPDs that replaced
+  missing MOLAR teeth in an SDA.
+- Ikebe et al.: elderly patients attached higher utility values to cantilevered fixed bridges and metal
+  FESRPDs than to implants or no replacement of missing molars for SDAs. CAVEAT: study populations in
+  the latter two studies were not SDA subjects and design was based on HYPOTHETICAL clinical scenarios.
+- RCT on mandibular SDA restoration: RESIN-BONDED BRIDGES considered a more comfortable and acceptable
+  treatment option compared with bilateral FESRPDs.
+- Multicenter RCT: restoration of SDAs with RPDs significantly improved OHRQoL (OHIP-49) before
+  treatment and at 6 and 12 months after. HOWEVER only 10 OUT OF 17 participants who received RPD
+  treatment completed the 12-month follow-up. RPDs were conventional cast framework retained by
+  precision attachments. Furthermore, NO significant differences in oral health rating between SDA
+  subjects treated by an RPD and subjects treated per the SDA concept (premolar occlusion preserved,
+  molar support not replaced).
+
+DISCUSSION
+The prognosis of FESRPD is NOT PREDICTABLE and its contribution to oral functions in SDA patients is
+considered DUBIOUS. Cantilevered fixed resin-bonded bridges can be considered a more efficient and
+comfortable alternative. In some cases extending the SDA by FESRPD may positively affect masticatory
+function, patient satisfaction and OHRQoL; however no significant differences in treatment outcome were
+recorded between SDA-concept treatment and FESRPD. Restoration by FESRPD incurs MORE costs to deliver
+and follow up than functionally oriented treatment per the SDA concept, coupled with increased
+biological price.
+Despite these findings the FESRPD will probably continue to be preferable when a decision is made to
+extend the SDA, attributable to economic considerations — relatively cheap, simple, non-invasive, and
+within the skills of most dentists. However long-term maintenance/repair costs and potential for
+failure should be considered. A cost-effectiveness study of RPD treatment for SDA patients is required.
+
+WHICH SDA CASES ARE MOST SUITABLE?
+- Fueki et al.: significant predictors for SEEKING prosthetic restoration in SDA subjects = young age,
+  increased number of missing occlusal units, asymmetric dental arch, existence of chewing complaint.
+  Seeking prosthetic restoration was encountered in:
+      3% of SDA subjects with missing second molar(s)
+     58% of SDA subjects with missing first AND second molars
+     93% of SDA subjects with missing premolar(s)
+  Perceived impairment of chewing ability due to decreased occlusal units is a decisive factor.
+- Witter et al.: extending the SDA by fixed or removable prosthesis depends on degree of shortening and
+  the patient's perceived impact on OHRQoL.
+      SLIGHTLY shortened (missing molars): NO evidence to support prosthetic extension.
+      MODERATELY shortened (missing molars + first premolar): extend in EXCEPTIONAL cases, particularly
+        for aesthetic reasons.
+      EXTREMELY shortened (missing molars + premolars) and ASYMMETRICAL extremely shortened: SHOULD be
+        prosthetically extended — but restoration should be kept to the level of a moderately shortened
+        arch, meaning FIXED BRIDGES rather than RPDs may be sufficient.
+- Knezovic Zlataric et al.: 205 patients with RPDs. Maxilla 57.4% Kennedy class I, 28.8% class II;
+  mandible 75.2% class I, 17.1% class II. NO impact on patients' evaluation of RPD quality from age,
+  self-supporting lifestyle, social/economic status, marital status, smoking, chronic disease, or
+  period of use. Kennedy classification, denture base material, base shape and denture support did NOT
+  significantly impact general satisfaction or comfort. HOWEVER: patients with HIGHER EDUCATION were
+  LESS satisfied with aesthetics and hygiene; LESS satisfaction with chewing among MALES with
+  mandibular RPDs; the GREATER the number of missing teeth in the mandible, the LESS the oral comfort.
