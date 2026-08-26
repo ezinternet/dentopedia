@@ -108,6 +108,11 @@ The four papers sit at mixed evidence levels: Ye 2021 is a single-center **retro
 - [[oral-surgery/third-molar/al-aroomi-2025-cgf-third-molar-postop-sr]] — SR of 11 RCTs: CGF in the socket improves pain, analgesic use, bone fill, and distal-M2M periodontal parameters after extraction; swelling/trismus/alveolar-osteitis effects uncertain — the post-extraction morbidity-reduction input.
 - [[overviews/third-molar-ian-risk-protocol]] — Companion overview covering the orthogonal axis: pre-extraction inferior alveolar nerve (IAN) injury risk assessment (OPG Rood & Shehab signs → CBCT) and surgical technique selection (coronectomy vs total extraction). Read alongside this page when the chosen action is extraction of a deep/high-risk M3M.
 
+### 교정적 제2대구치 발치 → 제3대구치 자연 맹출 (orthodontic M2 extraction + M3 eruption)
+
+- [[orthodontics/de-la-rosa-gay-2006-spontaneous-third-molar-eruption-second-molar-extraction]] — Retrospective (n=48, 128 extracted M2s): 교정 목적 제2대구치(Second Molar, M2) 발치 후 제3대구치(Third Molar, M3) 자연 맹출 성공률 — **상악 96.2%, 하악 66.2%**. 실패 주요원인: 하악 M3의 과도한 근심경사 또는 인접접촉 미형성. 위험인자: 높은 놀라(Nolla) 발육단계(>8단계) 및 고령. **임상 적용**: 상악은 교정 목적 M2 발치 후 M3로 신뢰성 있게 대체 가능; 하악은 Nolla stage ≤7, 연령 <15세를 권장 시점으로 고려.
+- [[orthodontics/livas-2011-extraction-maxillary-first-molars-molar-inclinations]] — Retrospective cephalometric (n=37, Begg technique, 상악 제1대구치 발치): M2 치근평면 대비 기울기 26.7°→6.9° (원심→근심 방향 전환), M3 직립화가 비치료 대조군의 **4배** (19.9° vs 5.6°). **임상 적용**: 제1대구치 발치 교정 프로토콜은 상악 M2·M3를 현저히 직립화하고 M3 맹출을 촉진 — 이 발치 결정의 부가적 효과로 M3 예후를 고려할 수 있다.
+
 ### 신규 추가 (2026-08-16)
 
 - [[oral-surgery/third-molar/canellas-2022-corticosteroids-third-molar-nma]] — NMA (61 RCTs): 덱사메타손(Dexamethasone) 8mg 점막하 주사 = 부종·통증·개구제한 최적; IV>IM>submucosal route for anti-edema; 프레드니솔론·메틸프레드니솔론은 열위 — 발치 전후 코르티코스테로이드(Corticosteroid) 투여 루틴의 근거 앵커. (nma, 2022)
