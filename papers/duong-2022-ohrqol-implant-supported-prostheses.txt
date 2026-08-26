@@ -1,0 +1,1937 @@
+SOURCE: PubMed Central full text (JATS) via PubMed MCP get_full_text_article
+PMCID: None | PMID: 35103325 | DOI: 10.1111/prd.12419
+Periodontol 2000. 2022;88(1):201-237.
+
+Oral health‐related quality of life of patients rehabilitated with fixed and removable implant‐supported dental prostheses
+
+1
+
+INTRODUCTION
+
+The models for restoring edentulous patients have changed in recent decades because of the high predictability of oral implants.Historically, dental implants were installed in fully edentulous patients with the aim of increasing the stability of full denture prostheses.However, with increasing predictability of implant treatment,various dental implant‐loading protocols have been proposed, expanding the range of implant rehabilitation protocols for partially edentulous patients.,Today, the majority of implants are used to rehabilitate partially edentulous patients, who represent up to 90% of all implant patients.,The development of appropriate augmentation techniques and the introduction of novel implant surfaces has resulted in acceptable treatment outcomes, even where esthetics are a priority.In this respect, surgical and prosthetic procedures have led to improved esthetic outcomes for the teeth to be replaced.,,
+
+From the patients’ perspective, an excellent esthetic outcome is perceived as a satisfactory final solution to cope with their dental problems. However, it is well known that biologic complications can arise with dental implant placement, and infections may develop that require a complex, protracted, and costly treatment of peri‐implant infections. Again, the patient is usually unaware of the risks associated with implant placement in terms of biologic complications.
+
+In this context, patients’ perceptions and psychological parameters are becoming more and more significant in evaluating treatment outcomes in implant dentistry.,This is reflected in an increasing number of recent publications on patient‐reported outcome measures.In implant dentistry, patient‐reported outcome measures were proposed at the 8th European Federation of Periodontology Consensus Conference with the aim of focusing on patients’ perspectives and evaluating oral health‐related quality of life.
+
+The aim of this narrative review was to summarize the current evidence on oral health‐related quality of life of fully and partially dentate patients rehabilitated with fixed and removable implant‐supported dental prostheses. Special emphasis was given to oral function, esthetic outcomes, and cost‐related aspects.
+
+2
+
+MATERIALS AND METHODS
+
+2.1
+
+Methodology
+
+A comprehensive electronic search of the MEDLINE–PubMed database was performed for articles published in English up to 2021, applying the following free text terms: "PROMS" or "Oral health related quality of life" or "patient related outcome measures" or "patient satisfaction" or "esthetics" or "function" or "cost‐effectiveness" or "patient happiness" and "dental implants" or "implant dentistry". Moreover, the reference lists from the retrieved publications were screened to identify any additional relevant studies.
+
+2.2
+
+Definition and assessment of oral health‐related quality of life
+
+Oral health‐related quality of life is an established and relevant instrument with which to describe patient satisfaction. It was developed with a psychometric and social survey background and encompasses multiple dimensions of life, ranging from impairment (which is closely linked to clinically defined health status) to social function, and to more global constructs such as “opportunity.” These dimensions have been linked to conceptual models, in which the effects of impairment on disability or reduced opportunity are mediated by intervening with personal and environmental factors.This makes it difficult to summarize oral health‐related quality of life in a single term. In fact, there is still a lack of consensus on the plethora of terms used in the literature for oral health‐related quality of life.Moreover, the instruments used to analyze oral health‐related quality of life remain unstandardized and rather heterogenic in nature. Nevertheless, there are many standardized questionnaires and scales employed to assess the impact of dental interventions upon oral health‐related quality of life, and a selection of these questionnaires are listed and explained in Table.
+
+TABLE 1
+
+Standardized questionnaires to assess OH‐QoL, according to the table of Locker and Allenand the table of Bennadi and Reddywith modifications (and with no claim to completeness)
+
+Instrument
+
+Authors
+
+Dimensions measured
+
+No. of items
+
+Answer modality
+
+Social dental scale
+
+Cushing et al (1986)
+
+Chewing, talking, smiling, laughing, pain appearances
+
+14
+
+Yes/no
+
+GOHAI
+
+Atchison and Dolan (1990)
+
+Chewing, eating, social contacts, appearance, pain, worry, self‐consciousness
+
+12
+
+Six categories; “always‐never”
+
+DIP
+
+Strauss and Hunt (1993)
+
+Appearance, eating, speech, confidence, happiness, social life, relationships
+
+25
+
+Three categories; good effect, bad effect, no effect
+
+OHIP
+
+Slade and Spencer (1994)
+
+Function, pain, physical disability, social disability, handicap
+
+49
+
+Five categories; “very often‐never”
+
+Short forms: OHIP‐14 = short form with 14 items
+
+OHIP‐Edent = short form for edentulous patients
+
+SOHSI
+
+Locker and Miller (1994)
+
+Chewing, speaking, symptoms, eating, communication, social relations
+
+42
+
+Various depending on question format
+
+DIDL
+
+Leao and Sheiham (1996)
+
+Comfort, appearance, pain, daily activities, eating
+
+36
+
+Various depending on question format
+
+OIDP
+
+Adulyanon and Sheiham (1997)
+
+Performance in eating, speaking, oral hygiene, sleeping, appearance emotion
+
+9
+
+Various depending on question format
+
+OH‐QoL measure
+
+Kressin (1997)
+
+Daily activities, social activities, conversation
+
+3
+
+Six categories; “all of time” to “none of the time”
+
+OH‐QoL inventory
+
+Cornell et al (1997)
+
+Oral health, nutrition, self‐related oral health, overall quality of life
+
+56
+
+Part A: 4 categories “not at all” to “a great deal”; Part B: 4 categories “unhappy‐happy
+
+Rand dental health index
+
+Dolan and Gooch (1997)
+
+Pain, worry, conversation
+
+3
+
+Four categories; “not at all” to “a great deal”
+
+Post‐1997 (Conference in Chapel Hill, North Carolina)
+
+Orthognathic QOL questionnaire
+
+Cunningham et al (2000)
+
+Eating/chewing, pain, social contacts, appearance, self‐consciousness, smiling
+
+22
+
+1 = “it bothers you a little”
+
+4 = “it bothers you a lot”
+
+2 + 3 = “lie between these statements”
+
+N/A = “the statement does not apply to you or does not bother you”
+
+COHQoL for children aged 11‐14 y
+
+Jokovic et al (2002)
+
+Symptoms, functional limitations, emotional well‐being, social well‐being
+
+36
+
+Part 1/importance: 4‐point Likert scale (0 = “does not bother me at all”, 4 = “bothers me very much”)
+
+Part 2/frequency: 0 = “never”, 1 = “once/twice”, 2 = “sometimes”, 3 = “often”, 4 = “every day/ almost every day”
+
+Global ratings for well‐being: 5‐point response
+
+0 = “excellent”/ “not at all”, 5 = “poor”/ “very much”
+
+OH‐quality of life UK
+
+McGrath and Bedi (2003)
+
+Performance in eating, appearance, comfort, speaking, sleeping, social contacts, finances, self‐consciousness
+
+16
+
+Part 1: 3 categories; good, no, or bad effect
+
+Part 2: 4 categories: none, little, moderate, great or extreme impact
+
+OIDP for children aged 11‐12 y
+
+Gherunpong Tsakos and Sheiham (2004)
+
+Eating, speaking, cleaning, sleeping, emotion, smiling, studying, social contact
+
+8
+
+0‐3 Likert‐type scales
+
+PPIDAQ
+
+Klages et al (2006)
+
+Social impact, esthetic attitude and dental self‐confidence
+
+23
+
+Likert response:
+
+0 = “never”
+
+1 = “hardly ever”
+
+2 = “occasionally”
+
+3 = “fairly often”
+
+4 = “very often”
+
+SOOQ
+
+Locker et al (2007)
+
+Issues before surgery, issues after surgery, dental esthetics, facial esthetics, emotional and social well‐being
+
+33
+
+4‐point Likert scale
+
+Part 1/frequency: “never” to “all the time”
+
+Part 2/importance: “not at all” to “very much”
+
+Timing: pretreatment, immediate postsurgery (ie, 2‐6 mo) and postsurgery (ie, > 2 y)
+
+Short form: 15 items
+
+QoLIP‐10
+
+Preciado et al (2013)
+
+Biopsychosocial, dental‐facial esthetics, and performance
+
+10
+
+Likert‐scale
+
+score −2 = “strongly disagree”
+
+score −1 = “disagree”
+
+score +2 = “indecisive, indifferent, or neutral
+
+score 0 = “agree”
+
+score +2 = “strongly agree”
+
+Abbreviations: COHQoL, child oral health quality of life questionnaire; DIDL, dental impact on daily living; DIP, dental impact profile; GOHAI, general (geriatric) oral health assessment index; OH, oral health; OH‐QoL, oral health quality of life; OHIP, oral health impact profile; OIDP, oral impacts on daily performances; PIDAQ, psychosocial impact of dental esthetics questionnaire; QOL, quality of life; QoLIP‐10, quality of life with implant prostheses; SOHSI, subjective oral health status indicators; SOOQ, surgical orthodontic outcome questionnaire.
+
+John Wiley & Sons, Ltd
+
+2.2.1
+
+Visual analog scale
+
+The visual analog scale is defined as the distance on a horizontal line between two anchoring points representing the minimum and the maximum perception. The anchoring points are usually 10 cm apart, and the scale on the line is in millimeters or other units. In order to quantify a parameter on a visual analog scale, the evaluator will present a mark on the line. Thus, the distance from the mark to the anchoring point may be calculated.,The scale is often used as answer modality in standardized questionnaires (Table).
+
+2.2.2
+
+Likert scale
+
+The Likert scale is named after its inventor.Likert was a psychologist and he used the scale as a technique for evaluation of people's attitudes. The scale contains five points on a horizontal line with a maximal distance between each. Each point is tagged with a descriptor. The patient is summoned to highlight the most accurate description according to their opinion. Today, the scale is widely used in research and it has undergone many adaptations.,The scale is employed as a component of several standardized questionnaires (Table).
+
+2.2.3
+
+Standardized questionnaires
+
+In the last 3 decades, a variety of standardized questionnaires have been proposed and propagated. The questionnaires usually comprise different areas.
+
+Prior to the conference on oral health‐related quality of life in North Carolina,there was no consensus regarding how to evaluate oral health‐related quality of life. At that conference, efforts were made to standardize health questionnaires. The questionnaires were analyzed in terms of reliability, validity, and precision. Following the conference, further questionnaires were introduced.A detailed table of the questionnaires, with descriptions of the dimensions evaluated, as well as the number of questions and answering modalities, is listed in Table. One questionnaire in particular is emphasized because it is frequently used in the publications cited in this review: the oral health impact profile.The oral health impact profile assesses the dimensions of function, pain, physical disability, social disability, and handicap. The patient is asked to answer 49 standardized questions with answering modalities in five categories. A shorter version applying 14 standardized questions has also been validated and propagated.
+
+The methods for the judgment of the esthetics by clinicians are depicted in Table.
+
+TABLE 2
+
+Methods for judgment of the esthetics by clinicians
+
+Instrument
+
+Authors
+
+Dimensions measured
+
+Papilla height/embrasure fill
+
+Jemt et al (1997)
+
+Five possible scores:
+
+0 no papilla fill; 1 < 50%; 2 > 50%, 3 full papillae; 4 hyperplastic papillae
+
+Level of the mucosal margin
+
+Schropp et al (2008)
+
+In millimeters, comparing the implant site with that of a reference tooth site
+
+Buccal soft tissue dimensions
+
+Thoma et al (2016)
+
+Assessed with endodontic files, standardized stents, ultrasonic devices
+
+Color of the peri‐implant mucosa
+
+Sailer et al (2014)
+
+Spectrophotometers to assess color match between the contralateral, adjacent tooth
+
+Pink esthetic score
+
+Furhauser et al (2005)
+
+Assessed clinically or on photograph including 7 items: mesial papilla, distal papilla, level of soft tissue margin, soft tissue contour, bone deficiencies, soft tissue color, and soft tissue texture
+
+A score from 0 to 2 per item. Maximum of 14
+
+Implant crown esthetic index
+
+Meijer et al (2005)
+
+Reconstructive parameters such as dimensions of the crown, position of the incisal edge, etc.
+
+Pink esthetic/white esthetic score
+
+Belser et al (2009)
+
+Combined with reconstruction including 10 items: general tooth form, volume of clinical crown, surface texture, color, translucency, and characterization of the crown
+
+CIS
+
+Hosseini and Gotfredsen (2012)
+
+Six esthetic parameters: (I) crown morphology score, (II) crown color match score, (III) symmetry/harmony score, (IV) mucosal discoloration score, (V) papilla index score, and (VI) mesial papilla index score, distal
+
+Abbreviation: CIS, Copenhagen index score.
+
+John Wiley & Sons, Ltd
+
+3
+
+RESULTS
+
+The evaluation of oral health‐related quality of life of patients rehabilitated with dental implants can be summarized in three domains: the aspect of function, esthetics, and cost‐effectiveness. Furthermore, the functional aspect was subdivided into fully edentulous, partially edentulous patients, and the topic of implant‐supported vs tooth‐supported fixed dental prostheses. An overview of the results is summarized in Table.
+
+TABLE 3
+
+Characteristics of the included studies
+
+Functional evaluation of OH‐QoL and rehabilitation with dental implants
+
+Ref. number
+
+Authors
+
+Study design
+
+Population
+
+Objective/primary outcome
+
+Assessment tool/ procedure
+
+Results
+
+40
+
+Farzadmoghadam et al (2020)
+
+Retrospective study
+
+102 patients rehabilitated with various implant‐supported reconstructions
+
+Relationship between OH‐QoL and general health‐related quality of life
+
+Subjective assessment:
+
+visual analog scale, EuroQol‐5D, and the OHIP‐14 questionnaire
+
+Results indicated an increase in general and oral health‐related quality of life after implant treatment. There was a positive weak relationship between OH‐QoL and general health‐related quality of life
+
+41
+
+Yeung et al (2020)
+
+Non‐randomized controlled trial
+
+104 patients from a private practice were assigned to 3 treatment protocols:
+
+the conventional treatment in which implants were inserted after flap elevation without guiding templates;
+
+the guided surgery/conventional loading group
+
+the guided surgery/immediate loading group
+
+Comparison of 3 prosthetic implant protocols
+
+Subjective assessment:
+
+Oral Impacts on Daily Performances and Oral Satisfaction scale
+
+OH‐QoL improved more when the implants were loaded immediately than when the prosthetic rehabilitation was delayed
+
+43
+
+Fonteyne et al (2021)
+
+Prospective study
+
+21 fully edentulous patients received implant‐supported overdentures (2 implants connected with a bar)
+
+Assessment of articulation and its alteration, oro‐myofunctional behavior during 3 stages: pretreatment, during provisional, and after final reconstruction
+
+Assessment:
+
+by speech therapists, OH‐QoL, visual analog scale
+
+OH‐QoL increased over treatment process.
+
+No impact on speech or oro‐myofunction was found after treatment
+
+44
+
+Dellepiane et al (2020)
+
+Prospective study
+
+25 patients with compromised dentitions were rehabilitated with implant‐supported full arch immediate loading rehabilitation
+
+Assessment of OH‐QoL before, during, and after completion of treatment
+
+OH‐QoL using 4 questionnaires specifically designed for this study to investigate pain, comfort, oral hygiene habits, esthetics, masticatory ability, phonetics, and general satisfaction
+
+96% of the patients did not show esthetic concerns after 4 mo of rehabilitation
+
+92% of the patients did have difficulty eating after 4 mo of rehabilitation
+
+OH‐QoL was significantly improved after treatment
+
+45
+
+Zhang et al (2019)
+
+5‐y prospective study
+
+103 geriatric patients with a history of deficient complete dentures
+
+OH‐QoL of patients treated with mandibular two‐implant retained overdentures
+
+Subjective assessment:
+
+Own questionnaire (40 items, 4 point rating scale: “not at all” ‐ “extremely”)
+
+Objective assessment: Woelfel's index
+
+The support of a full dental prosthesis supplemented by 2 implants improves the retention and stability of the prosthesis significantly
+
+Implant‐supported mandibular dentures yielded the best results, as was reflected in reduced functional complaints, complaint frequency and intensity of complaints. Overall patient satisfaction correlated negatively with technical complications
+
+46
+
+Doornewaard et al (2019)
+
+3‐y prospective study, split mouth
+
+Report of two studies.
+
+First study:
+
+26 patients received 2 implants
+
+Second study:
+
+23 patients received 2 implants
+
+Impact of supported mandibular overdenture on OH‐QoL
+
+Subjective assessment:
+
+OHIP‐14 questionnaire
+
+Implant‐supported mandibular overdenture significantly improves the OH‐QoL
+
+47
+
+Yao et al (2018)
+
+Systematic
+
+review
+
+‐
+
+Comparing OH‐QoL outcome measures of implant‐supported fixed complete dentures and overdentures
+
+Subjective assessment:
+
+OHIP‐14 questionnaire, OHIP‐49 questionnaire, visual analog scale, Likert scale
+
+Fixed and removable implant retained prostheses were rated similarly
+
+Only cleansability was rated differently
+
+Inconsistent results indicate that the question whether to restore an edentulous patient with either fixed or removable implant prostheses cannot be solely answered by assessing patient‐reported outcomes
+
+48
+
+Coutinho (2021)
+
+5‐y prospective study
+
+30 patients
+
+Impact on OH‐QoL of patients rehabilitated with single‐implant mandibular overdentures
+
+Subjective assessment:
+
+OHIP‐Edent
+
+Peri‐implant soft tissue conditions did not change significantly over 5 y. Statistically significant improvement in OH‐QoL was assessed after 5 y compared with baseline
+
+Comfort, stability, and ability to masticate was significant increased for single‐implant mandibular overdentures and all evaluation periods
+
+49
+
+Kutkut et al (2018)
+
+Systematic review
+
+‐
+
+Comparing OH‐QoL outcome measures of conventional complete dentures with unsplinted implant‐retained overdentures
+
+Subjective assessment:
+
+OHIP‐ questionnaire
+
+Visual analog scale
+
+Objective assessment:
+
+masticatory performance test
+
+Implant‐retained overdentures were associated with significantly better patients' masticatory performance and oral health‐related quality of life.
+
+Significantly higher ratings of overall satisfaction, comfort, stability, ability to speak, and ability to chew were associated with patients rehabilitated with mandibular unsplinted implant‐retained overdentures than conventional complete dentures
+
+50
+
+Sivaramakrishnan et al (2017)
+
+Systematic review
+
+‐
+
+Comparing patient satisfaction with mini‐implant vs standard diameter implant overdentures
+
+Meta‐analysis of subjective assessment:
+
+Oral health‐related quality of life
+
+Visual analog scale
+
+OHIP‐14
+
+Mini‐implant‐supported compared with standard diameter implant‐supported overdentures indicated significantly better patient satisfaction levels
+
+51
+
+Sivaramakrishnan et al (2016)
+
+Systematic review
+
+‐
+
+Comparing OH‐QoL outcome measures of implant‐supported mandibular overdentures and conventional dentures
+
+Meta‐analysis of subjective assessment:
+
+OHIP‐ questionnaire
+
+Except for physical pain statistically significant better patient satisfaction levels were found for patients treated with implants
+
+52
+
+Allen et al (2006)
+
+Randomized clinical trial (3 mo)
+
+1st group: 62 patients receiving implants
+
+2nd group: 56 patients receiving conventional denture
+
+Comparing OH‐QoL outcome measures of implant‐retained mandibular overdentures and conventional complete dentures
+
+Subjective assessment:
+
+OHIP‐ questionnaire
+
+Objective assessment
+
+Validate denture satisfaction scale
+
+Patients receiving implants showed significantly higher OHIP score changes than patients refusing implant treatments
+
+53
+
+Allen et al (2001)
+
+Prospective study
+
+1st group: 20 patients; edentulous for a mean time of 23.1 y and had worn a mean of 6.7 sets of complete denture prostheses
+
+2nd group: 20 patients; edentulous for a mean time of 19.9 y and had worn a mean number of 4.9 sets of complete denture prostheses
+
+3rd group: 35 patients;
+
+edentulous for a mean time of 27.1 y and had received a mean number of 3.4 sets of complete dentures
+
+Comparing OH‐QoL outcome measures of implant‐supported overdentures and conventional dentures
+
+Subjective assessment:
+
+OHIP‐ questionnaire and validate denture satisfaction and expectation scale (Likert response format: 1‐5 = “totally satisfied” to “not at all satisfied”)
+
+Patients’ satisfaction improved even in the group of patients who preferred implant‐stabilized prostheses but instead were treated with conventional prostheses. But the extent of patients’ satisfaction was higher with patients who received their desired treatment. Therefore patient expectations did not indicate them to be a good predictor of treatment outcome
+
+54
+
+Heydecke et al (2005)
+
+Randomized clinical trial
+
+102 patients, aged 35‐65 y, had been edentulous for at least 10 y
+
+group: patients received mandibular conventional complete dentures
+
+group: patients received mandibular overdentures retained by two implants
+
+Assessing the impact of conventional and implant‐supported prostheses on social and sexual activities in edentulous adults
+
+Subjective assessment:
+
+OHIP‐ questionnaire and Social Impact Questionnaire
+
+Eating, speaking, kissing, and yawning were significantly improved in the group receiving implant‐supported prostheses
+
+Nevertheless there were only weak correlations found between the two sexual activity items (uneasiness when kissing and during sexual relations) and the OHIP scores
+
+55
+
+Zembic et al (2014)
+
+Prospective clinical study
+
+21 patients being edentulous in the maxilla and encountering problems with their existing dentures were included
+
+12 received a new set of conventional dentures; as a consequence of insufficient denture stability (9: 2 women and 7 men), the existing dentures were adjusted by means of relining or rebasing
+
+All patients received implant‐supported dentures on two retentive anchors
+
+Comparing OH‐QoL outcome measures of implant‐retained maxillary overdentures and conventional dentures
+
+Subjective assessment:
+
+OHIP‐ questionnaire and visual analog scale
+
+Patient satisfaction significantly increased for implant‐supported dentures compared with old dentures in all seven OHIP subgroups, as well as for cleaning ability, general satisfaction, ability to speak, comfort, esthetics, and stability
+
+56
+
+Schuster et al (2020)
+
+Prospective longitudinal clinical study
+
+20 patients rehabilitated with implant‐retained mandibular overdenture after 2 and 3 y
+
+To investigate evolution of masticatory function, OH‐QoL, and prosthetic
+
+occurrences of implant‐retained mandibular overdenture wearers according to mandibular bone atrophy over 3 y of usage
+
+Subjective assessment:
+
+DIDL questionnaire and
+
+OHIP‐14 questionnaire
+
+Masticatory function and OH‐QoL are not related to mandibular bone atrophy until 3 y after implant‐retained mandibular overdenture rehabilitation
+
+The DIDL questionnaire showed no significant difference for almost all domains, except for the general performance domain, where a moderate effect was found for the third y
+
+57
+
+Fonteyne et al. (2021)
+
+3‐y prospective study
+
+21 patients receiving implant‐supported overdentures
+
+Impact of four implant‐supported overdenture in the maxilla on OH‐QoL and speech of patients
+
+Subjective assessment:
+
+OHIP‐14 questionnaire and visual analog scale
+
+Number of articulation disorders decreased but was not statistically significant
+
+Overall satisfaction improved after insertion of connection of implant bar
+
+All seven domains improved in OH‐QoL for implant‐supported overdentures compared with conventional dentures
+
+58
+
+Garcia‐Minguillan (2021)
+
+Cross‐sectional study
+
+Test group: 85 endentulous patients
+
+42: conventional denture
+
+43: implant‐retained overdenture
+
+Control group: 50 patients with healthy natural dentition
+
+Comparing OH‐QoL of patients with fully dentate subjects and edentulous patients
+
+Subjective assessment:
+
+OHIP‐14, OHIP‐20, and Quality of Life with Implant‐Prostheses‐10 questionnaire
+
+Patients with natural dentitions were most critical
+
+Patients with implant overdentures showed better OH‐QoL than patients with conventional dentures
+
+59
+
+Kusumoto et al (2020)
+
+Prospective study
+
+72 patients rehabilitated with implant fixed complete dentures or implant overdentures
+
+Association between implant fixed complete dentures and implant overdentures on OH‐QoL
+
+Subjective assessment:
+
+OHIP‐49 questionnaire
+
+Except for the perception of masticatory function, both implant‐fixed complete dentures and implant overdentures indicated comparable OH‐QoL
+
+60
+
+Matthys et al (2019)
+
+Comparative clinical cohort
+
+34 patients rehabilitated with balls
+
+56 patients rehabilitated with locators
+
+To assess 5 y of clinical implant outcome, prosthetic maintenance, cost, and OH‐QoL of two cohorts receiving 2 implant over dentures on ball or stud abutments
+
+Subjective assessment:
+
+OHIP‐14 questionnaire
+
+Balls and locators yield stable 5‐y implant outcome and improved OH‐QoL. OHIP‐14 declined from 18.1 to 2.7 for both attachment modalities
+
+Locators required more maintenance and resulted in a lower retention. Maintenance costs are minimal but may affect OH‐QoL
+
+61
+
+Brandt (2021)
+
+Retrospective study
+
+122 patients
+
+Comparing OH‐QoL of patients receiving ball vs Locator attachments for implant‐retained overdentures
+
+Subjective assessment:
+
+OHIP‐14
+
+Patients receiving Locator attachments indicated significant better OH‐QoL compared with patients receiving balls attachment
+
+62
+
+Negoro (2021)
+
+Prospective study
+
+30 patients with Kennedy class I or II and distal extension defects of 3 or more teeth
+
+Comparing OH‐QoL of patients with conventional removable partial dentures, (short) implant‐assisted removable partial dentures, and with or without magnetic attachments
+
+Subjective assessment:
+
+OHIP‐49
+
+The OH‐QoL was significantly increased for patients receiving implant‐assisted removable partial dentures with magnetic attachments compared with rehabilitation without magnetic attachments
+
+63
+
+Zhou
+
+Up to 5‐y retrospective study
+
+48 patients treated with implant‐retained mandibular overdentures
+
+Group A: 26 patients treated with bar attachments
+
+Group B: 22 patients treated with magnetic attachments
+
+Comparing OH‐QoL of patients receiving ball vs magnetic attachments for implant‐retained mandibular overdentures
+
+Subjective assessment:
+
+visual analog scale
+
+Peri‐implant probing depth and plaque index were significantly better for the magnetic attachment group compared with the bar attachment group
+
+OH‐QoL was not statistically significantly different between both groups
+
+Nevertheless, patients treated with bars had significantly more difficulties to clean their reconstructions than patients treated with magnetic attachments
+
+64
+
+Gündoğar (2021)
+
+Cross‐sectional study
+
+109 geriatric patients
+
+Impact of peri‐implant disease on OH‐QoL in a geriatric population
+
+Subjective assessment:
+
+OHIP‐14
+
+Prevalence of peri‐implantitis was 30%. Prevalence of peri‐implant mucositis was 24%
+
+Statistical analysis failed to reveal any significance between patients with peri‐implantitis or peri‐implant mucositis. Plaque index and gingival index were statistically significantly correlated with total OHIP‐14 score
+
+65
+
+Thomason et al (2007)
+
+Systematic
+
+review
+
+‐
+
+How do reconstructions affect patient‐reported outcomes of conventional dentures vs implant‐supported overdentures
+
+QoL, OH‐QoL, patient satisfaction (with a range of parameters)
+
+The overall rating for OH‐QoL of patients receiving implant‐supported overdentures was not significantly better than for conventional dentures
+
+66
+
+Tsakos et al (2006)
+
+National Diet and Nutrition Survey
+
+Sample of the National Diet and Nutrition Survey (people aged ± 65 y)
+
+407 dentate and 346 edentate participants
+
+OH‐QoL of life correlations in a national geriatric sample
+
+Subjective assessment:
+
+OIDP ‐ questionnaire
+
+Patients with > 8 occluding pairs of teeth were 2.66 times, and those with up to 2 anterior occluding pairs, were 3.00 times less likely to report oral impacts
+
+Edentate participants with inadequate denture adaptation and subjects with inadequate denture retention were more likely to report oral impacts than the remaining edentate patients In each case
+
+OH‐QoL is significantly related to the number of occluding pairs of natural teeth among the dentate and denture quality among the edentate
+
+67
+
+Steele et al (2004)
+
+National sample
+
+UK, 1998: Adult Dental Health Survey
+
+Australia, 1999: National Dental Telephone Interview Survey
+
+Impact of tooth loss on OH‐QoL
+
+Subjective assessment: OHIP‐14
+
+Patients with average number of teeth showed significantly better scores than all other groups with less teeth
+
+Important variables influencing OH‐QoL are age, number of teeth, and cultural background
+
+Australian‐ and British‐born groups showed better overall scores compared with first‐generation immigrants from elsewhere
+
+68
+
+Wong et al (2005)
+
+Retrospective study
+
+233 patients; 60‐80 y old
+
+Impact of tooth loss on emotion/OH‐QoL for edentulous and partially dentate patients
+
+Subjective assessment: General Oral Health Assessment Index
+
+22% of patients had difficulty in accepting tooth loss
+
+Edentulous patients were significantly more satisfied with their prostheses compared with partially dentate patients
+
+69
+
+Kurosaki et al (2020)
+
+Retrospective study
+
+105 partially edentulous patients received 1 out of 3 prosthetic treatments and were followed 6 y
+
+Long‐term performance of 3 prostheses: implant‐supported fixed denture, FPD, and removable partial denture in terms of survival and OH‐QoL
+
+Subjective assessment:
+
+Oral Health‐related Quality of Life, psychological health‐related quality of life, a previously validated questionnaire, which was developed based on the OHIP
+
+Implant‐supported fixed denture, FPD, and removable partial did not yield statistical significantly differences in terms of OH‐QoL
+
+70
+
+Dong et al (2019)
+
+Prospective study
+
+373 patients
+
+OH‐QoL outcome measures of patients rehabilitated with single implants
+
+Subjective assessment:
+
+OHIP‐14, Oral implant profile questionnaire, visual analog scales, open‐ended question: “What was the most concerning aspect that affected your satisfaction in the implant treatment?”
+
+Patients treated with bone augmentation and those with a longer period of tooth loss are significantly less satisfied
+
+Patients are most concerned about survival time success rate and survival time of implants
+
+71
+
+AlZarea et al (2017)
+
+Prospective study
+
+79 partially edentulous patients
+
+OH‐QoL of partially edentulous patients rehabilitated with implant‐supported single crowns or FPDs (pre‐and post‐treatment)
+
+Subjective assessment:
+
+OHIP‐49 (pre‐and post‐treatment)
+
+From baseline to 1st y of observation a significant increase of patients’ OH‐QoL in terms of functional limitation, physical pain, psychological discomfort, physical disability, psychological disability, and social disability but not handicap was found
+
+From baseline to 2nd and 3rd y all variables also significantly indicated an increase of OH‐QoL
+
+There were no significant differences between gender
+
+72
+
+Gerritsen et al (2010)
+
+Systematic review
+
+‐
+
+Impact of tooth loss on OH‐QoL
+
+Subjective assessment:
+
+OHIP‐49, OHIP‐14, GOHAI, OIDP, ad hoc satisfaction questionnaires
+
+The results indicated that not only number of tooth loss, but location and distribution of missing teeth, affect the reduction of OH‐QoL. Furthermore, the extent and severity of impairment seems to be context‐dependent (eg, cultural background)
+
+73
+
+AlZarea et al (2016)
+
+Retrospective study
+
+92 patients
+
+OH‐QoL of patients rehabilitated with dental implants
+
+Subjective assessment:
+
+OHIP‐14
+
+Results from the OHIP‐14 questionnaire revealed that patients with dental implants were satisfied with their OH‐QoL
+
+74
+
+Sargozaie et al (2017)
+
+Cross‐sectional study
+
+73 patients
+
+OH‐QoL of patients rehabilitated with dental implants (pre‐and post‐treatment)
+
+Subjective assessment:
+
+OIDP
+
+Before surgery, the most common problems reported were eating, smiling, laughing, and embarrassment.
+
+After surgery, eating, speaking clearly, clean teeth or dentures, light physical activities, smiling, laughing, showing teeth without discomfort and embarrassment, emotional conditions, enjoying communication with others, and job‐related activities significantly increased OH‐QoL
+
+But after surgery the amount of sleep and resting did not improve.
+
+After implantation, the place of residence, education, and gender did not show a significant association with OH‐QoL
+
+75
+
+Reissmann et al (2017)
+
+Systematic review
+
+At least 50 patients
+
+OH‐QoL of patients rehabilitated with implant‐supported prosthesis
+
+Subjective assessment:
+
+OHIP‐ questionnaire, Geriatric Oral Health Assessment Index, UK oral health‐related quality of life measure, and DIDL
+
+For partially dentate patients, implant‐supported FDPs did not show superiority over conventional fixed dental prostheses
+
+Implant‐supported FDPs indicated moderate superiority over conventional removable dental prostheses
+
+For edentulous patients that are, at baseline, highly impaired and requested implant treatment,
+
+improvements of OH‐QoL was superior for implant‐supported dentures compared to conventional dentures
+
+76
+
+Cadel‐Marti et al (2015)
+
+Retrospective study
+
+57 patients with severely atrophic maxillae
+
+Comparing OH‐QoL of patients treated with partial positioned implants vs conventional implants supporting fixed full‐arch prostheses
+
+Subjective assessment:
+
+OHIP‐14 questionnaire and visual analog scale
+
+Patients treated with partial positioned implants (more coverage of palate) vs conventional implants supporting fixed full‐arch prostheses did not show reduction of OH‐QoL
+
+77
+
+Torres et al (2011)
+
+Prospective study
+
+50 patients with implant‐supported mandibular overdentures
+
+50 patients with conventional mandibular dentures
+
+Impact of personality traits on OH‐QoL of patients treated with conventional mandibular dentures and implant‐supported overdentures
+
+Subjective assessment:
+
+OHIP‐14 questionnaire and Neuroticism Extraversion Openness Five‐Factors Inventory (five personality domains)
+
+Patients with conventional mandibular dentures reported higher levels of impact on OH‐QoL compared with patients with implant‐supported mandibular overdentures
+
+OH‐QoL is significant associated with personality traits (mainly neuroticism) related to implant‐supported or conventional removable complete dentures
+
+Esthetic assessment of OH‐QoL in conjunction with oral rehabilitation with dental implants
+
+Ref. number
+
+Authors
+
+Study design
+
+Population/ examiner
+
+Objective
+
+Assessment Tool/ Procedure
+
+Results
+
+78
+
+Yu et al (2013)
+
+6‐month prospective study
+
+238 patients
+
+Impact of missing anterior teeth rehabilitated with implants on OH‐QoL
+
+Subjective assessment:
+
+OHIP‐14
+
+After crown restoration, OH‐QoL of patients increased statistically significantly compared with the situation before implantation
+
+79
+
+Wang et al (2021)
+
+Cross‐sectional survey
+
+95 patients receiving fixed implant‐supported restorations
+
+Assessment of patients’ satisfaction regarding function (phonetics, chewing comfort, stability, cleansability) and esthetics in a peridontal practice 10 y after implant placement
+
+Subjective assessment:
+
+visual analog scale, OHIP, and Psychosocial Impact of Dental Aesthetics Questionnaire
+
+Mean visual analog scale score, mean OHIP, and mean Psychosocial Impact of Dental Aesthetics Questionnaire scores were 93%, 11.3, and 20.5, respectively. Therefore patients showed high satisfaction with their restorations
+
+82
+
+Vaidya et al (2015)
+
+Evaluation of photographs
+
+Evaluation of 20 intra‐oral photographs:
+
+14 examiners (2 orthodontists, 2 prosthodontists, 2 oral surgeons, 2 periodontists, 2 dental technicians, 2 dental assistants, and 2 postgraduate students in Implant Dentistry)
+
+Impact of clinicians with diverse dental backgrounds on the evaluation of maxillary implant‐supported single‐tooth replacements
+
+Objective assessment:
+
+Pink Esthetic Score/White Esthetic Score and the modified Implant Crown Esthetic Index
+
+Pink Esthetic Score/White Esthetic Score and the modified Implant Crown Esthetic Index showed reliable estimates of esthetic outcomes
+
+The degree of specialization of the clinician affect the esthetic evaluation for both indices: Pink Esthetic Score/White Esthetic Score and the modified Implant Crown Esthetic Index.
+
+Prosthodontics were most critical. DAs and periodontists provided favorable ratings compared with other specialties
+
+83
+
+Chang et al (1999)
+
+Evaluation of photographs
+
+Intra‐oral and extraoral photographs were taken from 29 patients with 41 single implant‐supported crowns in the maxillary anterior region and were included
+
+5 prosthodontists evaluated the photographs
+
+Are prosthodontics’ and patients’ evaluations of esthetic outcomes of implant‐supported single‐tooth replacements different?
+
+Subjective assessment:
+
+visual analog scale
+
+Subjective assessment was found to be higher for all variables compared with the clinician’s evaluation
+
+Factors considered important from the clinician’s view may not be decisively important for patients’ satisfaction
+
+84
+
+Esposito et al (2009)
+
+Evaluation of photographs
+
+30 patients evaluated their own results
+
+10 clinicians evaluated all 30 patients’ results
+
+Are prosthodontics’ and patients’ evaluations of esthetic outcomes of implant‐supported single‐tooth replacements different?
+
+Subjective assessment:
+
+visual analog scale
+
+Evaluation of intra‐oral and extraoral photographs
+
+Clinicians’ responses were less in agreement than patients’ responses
+
+Agreement between patients’ and clinicians’ responses was poor
+
+85
+
+Wittneben et al (2018)
+
+Systematic review
+
+816 implant‐supported reconstructions were analyzed by patients
+
+Patient‐reported outcome with focus on esthetics
+
+Subjective assessment:
+
+visual analog scale
+
+Visual analog scale evaluation (rated by patients) for esthetic outcome of fixed dental prostheses was high
+
+For the implant‐supported FDPs and the surrounding mucosa, the visual analog scale evaluation from patients was also high
+
+No effect on patients’ satisfaction of the definitive implant‐supported fixed dental prostheses with the following parameters: individual restorative materials, implant neck design (ie, tissue or bone level type implants), and the use of a fixed provisional
+
+87
+
+Hosseini et al (2013)
+
+3‐y prospective study
+
+Supported, single tooth restorations
+
+Comparing patient‐reported outcome of all‐ceramic vs metal‐ceramic crowns of implant reconstructions.
+
+Subjective assessment:
+
+OHIP‐49
+
+Objective assessment:
+
+Copenhagen Index Score
+
+The 3‐y survival rate for implants was 100% and for abutments was 97%
+
+Significantly more marginal bone loss was found for gold‐alloy abutments compared with zirconia abutments
+
+The most frequent technical complication was loss of retention, which was only found in metal‐ceramic crowns
+
+All‐ceramic restorations showed more frequently biologic complications than metal‐ceramic crowns. Marginal adaptations of all‐ceramic crowns were significantly less optimal than metal‐ceramic crowns. Significant better color match for all‐ceramic compared with metal‐ceramic restorations was reported from professionals. No significant discrepancies in patients’ satisfaction for esthetic outcome was found for patients rehabilitated with all‐ceramic vs metal‐ceramic restorations
+
+Cost‐related evaluation of OH‐QoL and rehabilitation with dental implants
+
+Ref number
+
+Author
+
+Study design
+
+Population
+
+Objective
+
+Assessment tool/Procedure
+
+Results
+
+93
+
+MacEntee et al (1998)
+
+Framework for analysis and preliminary outcomes
+
+‐
+
+Economic aspects of complete dentures and implant‐related reconstruction
+
+Analysis of measurement, distribution, impact, and management: four foundations for the framework
+
+There are physiologic and psychosocial costs and benefits to both the conventional denture and the implant prosthesis, which indicates that neither method is distinctly superior. The physiologic costs are low and the psychosocial costs are similar for both treatments, whereas the direct financial costs associated with the implant prosthesis are substantially higher
+
+94
+
+Bragger et al (2005)
+
+Retrospective study
+
+37 received 41 conventional three‐unit FPDs
+
+52 patients received 59 single crowns on implants (I)
+
+Economic aspects of single‐tooth replacement
+
+Comparison of the two treatments in terms of treatment time, number of visits, monetary and opportunity costs, and comparison
+
+Treatment time was similar, I. required more visits. Total costs were lower for I. Costs for treatment of complications were similar for both groups. Overall, for a short period of time, implant reconstruction showed a more favorable cost/effectiveness ratio
+
+96
+
+Hettiarachchi et al (2018)
+
+Systematic review
+
+‐
+
+The cost‐effectiveness of oral health interventions: a systematic review of cost‐utility analyses
+
+Assessment of cost‐utility analysis in oral health interventions
+
+From 2011 to 2016, the cost‐utility analysis of oral health interventions increased
+
+Consolidated Health Economic Evaluation Reporting Standards were used to evaluate the cost‐effectiveness
+
+97
+
+Jensen et al (2017)
+
+Prospective study
+
+30 patients with full upper dentures and complaints regarding their bilateral mandibular free‐ending removable partial dentures were included
+
+All patients received 4 implants in the premolar region and new removable partial dentures
+
+Cost‐effectiveness of implant‐supported mandibular removable partial dentures
+
+Cost‐effectiveness analysis comparing conventional removable partial dentures with implant‐supported removable partial dentures in patients with edentulous maxilla
+
+Treatment effect was expressed by the Dutch Oral Health Impact Profile Questionnaire OHIP‐NL49
+
+Depending on the choice of outcome measure and monetary threshold, supporting a removable partial denture with implants is cost‐effective when payers are willing to pay > 80 Euros per OHIP point gained
+
+98
+
+Palmqvist et al (2004)
+
+Prospective randomized clinical study
+
+11 patients received fixed prosthesis on 3 implants
+
+6 patients received overdentures on 3 implants and a Dolder bar
+
+Comparing prosthodontic production time and costs in implant‐supported fixed prostheses vs overdentures in the edentulous mandible
+
+Assessment of laboratory and clinical working hours along with cost evaluation
+
+Mean clinical working hours were 3.1 in the fixed prosthesis group and 4.1 in the overdenture group. Mean laboratory working h were 12.5 in the fixed prosthesis group and 7.7 in the overdenture group. Total laboratory costs were on average about 1700 US dollars for the fixed prosthesis and 1350 US dollars for the overdenture
+
+99
+
+Ravida et al (2018)
+
+Retrospective study
+
+45 patients
+
+test group: 149 implants
+
+control group: 111 implants
+
+minimum follow‐up: 5 y
+
+mean follow‐up: 9.6 y
+
+Clinical outcomes and cost effectiveness of computer‐guided vs conventional implant‐retained hybrid prostheses
+
+Analysis of patient‐focused costs in terms of necessary costs of diagnostic, therapeutic, and follow‐up procedures
+
+Biologic and technical complications did not show significant differences between groups
+
+Incidence of implant loss was less observed in test group
+
+The initial cost for the guided implant placement group was significantly higher
+
+For the prosthetic complication and total cost, no significant difference was detected between both groups
+
+100
+
+Ravida et al (2013)
+
+Retrospective study
+
+145 patients:
+
+40 nonsplinted crowns
+
+52 splinted crowns
+
+53 implant‐supported bridge
+
+382 bone‐level implants:
+
+120 nonsplinted crowns
+
+106 implant‐supported bridge
+
+156 splinted crowns
+
+mean follow‐up: 76.2 mo
+
+Comparing the cost‐effectiveness of three different types of implant‐supported FDPs: rehabiliation of 3‐unit edentulous area
+
+Cost‐effectiveness analysis comparing nonsplinted crown, splinted crowns, implant‐supported bridge
+
+Implant survival rates were 92.5% for nonsplinted crowns, 100% for implant‐supported bridges, and 88.5% for splinted crowns
+
+Implant survival rates were significantly different between the implant‐supported bridge and splinted crowns groups
+
+Nonsplinted crowns and splinted crowns showed higher total costs compared with the implant‐supported bridge group
+
+A 3‐unit implant‐supported bridge on 2 implants showed better results in the long term compared with nonsplinted crowns and splinted crown solutions on implants
+
+Abbreviations: DAs, Dental Assistants; DIDL, dental impact on daily living; FPDs, fixed partial dentures; GOHAI, Geriatric oral health assessment index; OHIP, oral health impact profile; OH‐QoL, oral health‐related quality of life; OIDP, oral impacts on daily performances.
+
+John Wiley & Sons, Ltd
+
+3.1
+
+Functional evaluation of oral health‐related quality of life of patients rehabilitated with dental implants
+
+The functional aspect of oral health‐related quality of life is not only important in the field of dentistry. Oral health‐related quality of life also affects the overall well‐being of the individual. In other words, oral health‐related quality of life correlates to general health‐related quality of life.In terms of rehabilitation with dental implants and the different surgical protocols, it appears that immediate loading protocols achieved the highest patient satisfaction.
+
+3.1.1
+
+Fully edentulous patients
+
+The majority of studies dealing with implant placement and oral health‐related quality of life has been performed in edentulous patients. Edentulism may be associated with functional impairment, which includes chewing ability, bite force, swallowing mechanism, differences in salivary flow, phonetics, and oral sensory function in general. Moreover, cleansability, as well as social behavior, are included. Ill‐fitting and unstable prostheses are a particular source of distress and reduced self‐esteem. Therefore, implant placement in edentulous patients severely impacts on their functional well‐being.
+
+Fonteyne et alevaluated patients receiving new fully removable dentures during different stages of treatment. The assessments were conducted by speech therapists. Interestingly, despite existing articulation and oro‐myofunctional impairments following treatment, patients were very satisfied with their oral health‐related quality of life and their speech.Similarly, Dellepiane et alassessed 25 patients at different stages (ie, before treatment, during the healing phase, and after the final reconstruction). At the final evaluation, 4 months after rehabilitation, 92% of patients did not indicate any difficulty in eating. Overall, oral health‐related quality of life revealed a significant improvement in terms of quality of life, and the patients only reported phonetic impairment in the immediate aftermath of surgery.Two prospective studies indicated that implant‐supported prostheses improved the oral health‐related quality of life significantly.,It has been shown that the support of a full dental prosthesis supplemented by two implants improves the retention and stability of the prosthesis significantly.A total of 45 edentulous patients receiving implant‐supported mandibular overdentures reported a strong improvement in oral health‐related quality of life in the first 3 years.Similar results were reported in another prospective study including 67 patients over 5 years. New complete mandibular dentures led to significant improvements in patient‐reported outcome measures. Implant‐supported mandibular dentures yielded the best results, as reflected by reduced functional complaints, complaint frequency, and intensity of complaints. Overall patient satisfaction correlated negatively with technical complications.An International Team for Implantology consensus report evaluated patient‐reported outcome measures of fixed and removable implant‐retained prostheses in edentulous patients. In the 13 studies included, fixed and removable implant‐retained prostheses were rated similarly. Only cleansability was rated differently. Consequently, whether to restore an edentulous patient with either fixed or removable implant prostheses cannot be solely answered by assessing the oral health‐related quality of life.Oral rehabilitation of edentulous patients with both implant‐supported fixed and removable prostheses yielded similar patient‐reported outcome measures, as reported in a systematic review.However, fixed prostheses displayed a trend for higher patient acceptance than removable prostheses. Overall, there is a large body of evidence that implant‐supported overdentures, especially in the edentulous mandible, lead to improved satisfaction in terms of oral health‐related quality of life compared with conventional prostheses.A 5‐year prospective study including 30 patients rehabilitated with single‐implant mandibular overdentures revealed significant increases in comfort, stability, and the ability to masticate for all evaluation periods.This is in agreement with a systematic review comparing conventional complete dentures and implant‐retained overdentures.Implant‐retained overdentures received higher ratings in terms of overall satisfaction, comfort, stability, psychological comfort, chewing function, and ability to speak.,,In a randomized trial including 118 patients, comfort, stability, and retention, as well as chewing function, were reported as being superior for implant‐supported overdentures compared with conventional dentures.However, where speech or cleaning ability were concerned, patients reported similar results.,Furthermore, patients reported an improvement in social as well as in couple activities.Concerning functional aspects, cleaning, speaking, and pronunciation, overall comfort and stability were evaluated as superior for maxillary implant‐supported overdentures compared with conventional dental prostheses.
+
+The question arises as to whether bone atrophy has an impact on the oral health‐related quality of life of patients treated with implant‐retained overdentures, foremost in the mandibular region. A 3‐year prospective study compared patients treated with implant‐retained mandibular overdentures with and without atrophic mandibles and, interestingly, did not reveal any statistical significant differences.More recent studies support the finding that retention and therefore better stability of prostheses appears to be an important factor for patients’ oral health‐related quality of life.,A 3‐year prospective study assessed the impact of four implant‐supported overdentures in the maxilla in terms of oral health‐related quality of life and speech. Twenty‐one patients were examined preoperatively and following the connection to an implant bar. The design of the conventional denture before surgery was with palatal coverage. The implant‐supported overdenture after treatment was designed without palatal coverage. All seven domains improved oral health‐related quality of life for implant‐supported overdentures compared to conventional dentures.By contrast, a recent prospective study failed to show significant differences between the aforementioned treatment modalities.Nevertheless, implant retention of overdentures does appear to be an important driver of patient satisfaction. The connections between implants and the denture are diverse. The different attachment modalities (ie, magnetic, locator, or ball attachments) were assessed in recent studies.,,The results indicated stable 5‐year outcomes and improved oral health‐related quality of life for both locators and balls. Although locators required more maintenance and resulted in lower retention in one study,another retrospective study (including a total of 122 patients) reported higher patient satisfaction for locators compared with ball attachments.Oral health‐related quality of life was significantly increased for patients receiving implant‐assisted removable partial dentures with magnetic attachments compared with rehabilitation without magnetic attachments.However, no difference in terms of oral health‐related quality of life was discerned between bar attachment and magnetic attachment.
+
+With rehabilitations using implants, there is always a risk of peri‐implant diseases. An interesting cross‐sectional study, including 109 geriatric patients, revealed a statistically significant correlation between total oral health impact profile‐14 score, plaque index, and gingival index. These results suggest that peri‐implant health also affects patient satisfaction.Another aspect to be taken into consideration is the effect of preoperative patient expectations on oral health‐related quality of life. This question was addressed in a randomized controlled study including three experimental groups of edentulous patients requesting replacement of their conventional complete dentures.The first group of 20 patients had been edentulous for a mean time of 23.1 (range 3‐40) years, had worn a mean of 6.7 (3‐12) sets of complete dentures, and requested implants to stabilize their conventional prosthesis in the mandible. They received mandibular implant‐supported fixed partial dentures. In the second group, 20 patients requested an implant‐stabilized prosthesis but did not receive this treatment. Instead they received conventional complete dentures. They had been edentulous for a mean time of 19.9 (2‐35) years and had worn a mean number of 4.9 (1‐12) sets of complete dentures. In the third group, 35 patients requested and received conventional complete dentures. They were treated according to their wishes. In this group the subjects had been edentulous for a mean time of 27.1 (3‐40) years and had received a mean number of 3.4 (1‐12) sets of complete dentures. The results from the oral health impact profile questionnaire indicated that patient satisfaction improved, even in the group of patients who preferred implant‐stabilized prostheses but were instead treated with conventional prostheses. But the extent of patient satisfaction was higher in patients who received their desired treatment. It was concluded that patient expectation is not a good predictor of treatment outcome.
+
+In conclusion, there is increasing evidence that the use of dental implants to support either fixed or removable dental prostheses in fully edentulous patients significantly improves overall patient satisfaction when focusing on functional ability, especially in the lower jaw.
+
+3.1.2
+
+Partially edentulous patients
+
+Replacing missing single teeth with dental implants has become a routine procedure for the rehabilitation of partially edentulous patients, although the lack of a periodontal ligament may have an impact on chewing sensation. The number of missing teeth is reflected in the oral health‐related quality of life,assessment, demonstrating that tooth loss per se affects patients psychologically. Recently, it was reported that tooth loss had a negative impact on eating in public and forming close interhuman relationships.
+
+Kurosaki et alcompared the long‐term performance of three different prosthetic reconstruction types—implant‐supported fixed denture, fixed partial denture, and removable partial denture—in terms of prosthetic survival and oral health‐related quality of life. Concerning survival, the 6‐year cumulative survival rates of the implant‐supported fixed dentures, fixed dentures, and removable partial dentures were 94.7%, 77.4%, and 33.3%, respectively. The oral health‐related quality of life scores for the implant‐supported fixed denture group immediately after treatment and 6 years after treatment were significantly higher than those observed before treatment. However, there was no improvement in the oral health‐related quality of life scores in the fixed partial denture or removable partial denture groups compared with before treatment.
+
+According to a questionnaire‐based survey, only 15.3% of patients receiving single implants considered masticatory function as their major concern. A total of 8.6% were most worried about food impaction and another 4.5% about pronunciation, occlusion, and swallowing.Functional limitations, along with psychological discomfort, significantly decreased in patients who had received implant‐supported single crowns or fixed partial dentures over a period of 3 years following implant installment.
+
+A systematic review with a meta‐analysis, including different questionnaires such as oral health impact profile‐49, oral health impact profile‐14, geriatric oral health assessment index, oral impacts on daily performances, and ad hoc satisfaction, indicated that not only the number of teeth lost, but also the location and distribution of missing teeth, affect the reduction in oral health‐related quality of life. Furthermore, the extent and severity of impairment appears to be context‐dependent (eg, cultural background).
+
+An evaluation of implants and their contralateral teeth clinically, alongside patient satisfaction by oral health impact profile‐14, confirmed that patients with implants were highly satisfied with their oral health‐related quality of life. The majority (72.8%) felt that they were never limited in function. Moreover, they indicated satisfaction with their dietary consumption (69.5%). Nearly half of the patients (48.9%) had encountered phonetic problems pretherapy and had become more self‐confident through implant treatment.
+
+Comparing the oral health‐related quality of life pre‐ and post‐implant placement revealed that, prior to surgery, patients reported functional problems, specifically eating (78%), but also speaking and smiling, which when considered together were a cause of general embarrassment (53%).After implant placement, the oral health‐related quality of life changed in many aspects. Besides those functions directly related to tooth replacement, such as eating, speaking, or oral sensory function, oral health‐related quality of life increased in general terms. Going out or meeting others, communication, smiling, and showing teeth without discomfort became natural and enjoyable. Interestingly, patients reported that becoming upset, in general, as well as job‐related activities, significantly improved after implant placement.
+
+3.1.3
+
+Implant‐supported vs tooth‐supported fixed dental prostheses
+
+A recent review suggested that in partially dentate patients there was insufficient evidence that implant‐supported fixed dental prostheses yielded better oral health‐related quality of life scores than tooth‐supported fixed dental prostheses.In partially dentate patients, the consensus of oral health‐related quality of life studies is that treatment with implant‐supported fixed dental prostheses improved oral health‐related quality of life. However, all of these studies need to be interpreted with caution. First, it is clear that all these patients had an edentulous gap or a provisional prosthesis before treatment. It is well known that fabrication of new definitive prostheses positively influences oral health‐related quality of life.Thus, it remains plausible that the prosthetic replacement rather than the implants per se were responsible for the improved oral health‐related quality of life. Second, patients restored with implants usually have higher levels of education and income, which may affect their satisfaction scores.
+
+To date there is limited evidence for partially dentate patients that implant‐supported fixed dental prostheses are superior in terms of patient perception than conventional fixed dental prostheses.
+
+3.2
+
+Esthetic assessment of oral health‐related quality of life in patients rehabilitated with dental implants
+
+Loss of teeth, particularly in the anterior region, is associated with esthetic impairment and reductions in oral health‐related quality of life. In fact, a prospective study with 238 participants investigated patients with loss of anterior teeth and their satisfaction before implantation and following crown delivery. The results showed that oral health‐related quality of life, assessed with the oral health impact profile‐14 questionnaire, increased significantly after crown insertion,and the effect appeared to be longlasting.A cross‐sectional study including a total of 95 patients revealed high satisfaction in terms of esthetics and function with implant‐supported restorations, even 10 years after they had received their implants.
+
+For many years, the evaluation of esthetic outcomes of care was obscure and not standardized in the dental literature. However, in 2005, two esthetic assessment methods were proposed and validated, namely, the pink esthetic scoreand the implant crown esthetic index.Both systems were successfully used in subsequent reports on esthetic outcomes in implant dentistry (Table). It has to be kept in mind, however, that both systems require the ability to compare the implant reconstruction with a contralateral or control tooth. Nevertheless, the index systems helped clinicians to objectively assess the esthetic aspects of newly placed and reconstructed implants. However, esthetic assessment by means of the index system described is significantly affected by the paradigms of the respective specialties.In a validation study, prosthodontists were the most critical evaluators and yielded the lowest mean rank scores regardless of the index, while dental assistants and periodontists had significantly better ratings than other specialties.
+
+Hence, it has to be realized that esthetic scores are dependent on the professional experience of the examiners, irrespective of the esthetic index system utilized.In that respect, a recent reviewapplied objective and subjective criteria for clinicians and patients to evaluate esthetic outcomes. In that review, the oral health impact profile and oral health‐related quality of life questionnaires were used for esthetic evaluation (Table). These standardized and validated questionnaires allowed comparisons. A comparison of the objective and subjective assessments yielded a discrepancy between subjective patient‐related criteria and objective prosthodontist‐related evaluations.
+
+An important aspect to be mentioned is that professionals were more critical than patients when subjective patient‐evaluation was used.In one study, five prosthodontists were asked to evaluate the esthetic outcome of single implant‐supported crowns based on intra‐oral and extraoral photographs.A total of 41 implants were placed in the maxillary anterior region of 29 patients. In 89% of cases, the clinicians correctly located the single implant‐supported crown. The form of the crown and surrounding soft tissue were the most important parameters for the clinicians’ satisfaction. However, regression analysis failed to reveal any statistically significant agreement when the patient's view was taken into consideration, as patient satisfaction was higher for all variables compared with clinicians’ satisfaction.
+
+A further study on subjective and objective evaluations of esthetic outcomes in implant dentistry involved 30 patients treated with dental implants. Preoperative and postoperative images were graded using a visual analog scale. At the same time the images were shown to 10 independent clinicians using the same visual analog scale. The same outcome was reported and agreement between patients' and clinicians' evaluations was poor.
+
+A systematic review summarizing the existing evidence on esthetic oral health‐related quality of life of implant‐ and tooth‐supported fixed dental prostheses yielded no significant differences between the ratings for soft tissue‐level implants compared with those for bone‐level implants. The review encompassed 16 publications with a total of 19 relevant study cohorts, covering 816 implant‐supported reconstructions to be analyzed by patients. Despite the high heterogeneity among studies, the authors concluded that the esthetics of implant‐supported fixed dental prostheses are more highly rated by patients than by professionals.
+
+All‐ceramic and metal‐ceramic restorations were compared in a prospective study. A total of 59 patients with tooth agenesis were treated and followed up for 3 years. Finally, a total of 98 implant‐supported single unit crowns were evaluated. Materials used for crowns were either all‐ceramic or metal‐ceramic. Zirconia, titanium, and gold alloys were used for abutments, which retained these crowns. Patient‐reported and professionally reported esthetic outcomes were assessed with the oral health impact profile‐49 questionnaire and the Copenhagen index score, respectively.The professionals reported significantly superior color match of all‐ceramic over metal‐ceramic crowns. Patient reports for esthetic outcomes did not show a significant discrepancy between restoration materials after 3 years.
+
+It is important to understand that esthetic outcomes should be evaluated separately for partially and fully edentulous patients. It is clear that patients in need of a single unit crown in the frontal region of the maxilla may have higher expectations than fully edentulous patients in need of implant‐supported overdentures. Obviously, patient priorities will be driven by individual differences in their perceived need. In addition, the patient is confronted with proportionally higher costs for a single crown compared with those for an implant‐supported overdenture. It is, therefore, important to understand patient satisfaction scores in conjunction with cost‐effectiveness, which is analyzed in the following section.
+
+3.3
+
+Cost‐related evaluation by patients rehabilitated with dental implants
+
+Introducing oral implants as a treatment for partially edentulous patients to improve their quality of oral health was usually accompanied by an increased cost compared with traditional removable prosthetic treatment.,In relation to economic factors encountered with a specific treatment, and in comparison with the benefits of such treatments, cost‐utility analyses have been performed. Cost‐utility analysis is a specific model, in which costs are expressed in monitory units, and outcomes of the treatment are assessed as a combination of health improvements in terms of oral health‐related quality of life.A systematic review indicates the increasing interest of the profession in this topic. It was reported that 60% of the studies in the final analysis (n = 14) had been published during 2011‐2016.Among several different dental conditions analyzed (ie, oral cancer, dental prostheses, caries prevention, periodontitis), oral prosthetic rehabilitation was investigated in 26% of cases (six publications), highlighting its relevance in terms of cost‐related parameters.Costs related to implant‐supported dental prostheses have been a focus of discussion for many years. When conventional dentures were compared with fixed prostheses on five implants, a 17‐fold higher cost was found for the fixed overdentures. When fixed dentures on five implants were compared with two implant‐supported removable overdentures, the costs doubled for the fixed solution.A recent study conducted on 30 partially edentulous patients rehabilitated with conventional removable partial dentures and implant‐supported removable partial dentures included the oral health‐related quality of life aspect in the cost analysis. When a patient was willing to pay > €80 per oral health impact profile point gained, then the implant‐supported removable partial dentures were cost‐effective; however, it also depended on the chosen outcome measure and the financial marginal value.A randomized prospective study aimed to evaluate the cost‐efficacy of implant‐supported fixed prostheses and conventional dentures retained by a Dolder bar system in the edentulous mandible. Several parameters were considered, namely, treatment results, clinical working hours, laboratory working hours, and laboratory costs (including materials). It was concluded that no significant differences in costs were found between both groups.A comparison of the cost‐effectiveness of different fixed treatment modalities to rehabilitate posterior partial edentulous spaces with computer‐guided implant placement has recently been performed. However, whether or not computer‐guided implant placement will result in higher oral health‐related quality of life standards remains controversial, even although there were significant differences in favor of the nonguided implant placement group for the initial costs. Moreover the long term prosthetic complications and the total costs out‐weighed the differences.A long‐term retrospective study evaluated the performance of 2‐3 bone‐level implants supporting either three nonsplinted crowns, three splinted crowns, or a three‐unit implant‐supported bridge over two implants. Comparing the three‐unit implant‐supported bridge with one implant less with either the nonsplinted or splinted crowns yielded a reduction in initial costs of 16%. Furthermore, this reduction increased over the duration of the study because the complications were substantially higher in the nonsplinted crowns group.
+
+Despite the increasing levels of evidence in this field of dental research, adjunctive costs‐ related analyses should be encouraged, focusing particularly on the costs related to biologic and technical complications.
+
+4
+
+SUMMARY AND CONCLUSIONS
+
+Oral health‐related quality of life has become an important parameter for the assessment of treatment outcomes following implant therapy. However, there is no consensus on the definitions and standardization of this evaluation tool. The discrepancies in the terms, questionnaires, and scales presented in recent decades render a comparison of data challenging. Consequently, further studies with standardized questionnaires are necessary in the future. Nevertheless, the current evidence on function, esthetics, and cost‐effectiveness indicates that:
+
+5
+
+CLINICAL CASES
+
+5.1
+
+Clinical case 1
+
+The following clinical case illustrates how the replacement of the missing tooth 46 with an implant‐supported single unit crown increased the patient’s quality of life (Figures,,,,,,,,,,). (Treatment: Dr. Ho‐Yan Duong, Department of Periodontology, University of Bern, Switzerland).
+
+A 58‐year‐old female, systemically healthy patient was referred for treatment of advanced periodontal disease. Following the initial clinical and radiographic examination, the following diagnoses were made:
+
+Tooth 46 had to be extracted before steps 1 and 2 of periodontal therapybecause of a large endo‐perio lesion. A re‐evaluation was performed at 3 and at 6 months after step 2 of periodontal therapy (ie, full‐mouth subgingival scaling and root planing). Before implant placement, no probing depths exceeding 5 mm were recorded. Thereafter, the missing tooth 46 was replaced with an implant‐supported restoration by accommodating a soft tissue‐level implant (Straumann: TL, SP, ø 4.1 mm, SLActive, 8 mm, Roxolid) followed by transmucosal healing. The patient did not receive any provisional prosthesis during the healing period of 3 months. After 3 months, the implant was loaded with a full zirconia screw‐retained crown. Tooth 45 did not show any pathologic symptoms during the entire treatment. Periodontal chart of final examination is depicted in figure.
+
+After prosthetic restoration, the patient was asked to compete the oral health impact profile‐14 questionnaire (Table).
+
+According to Slade & Spencer,the responses are coded 0 = never, 1 = hardly ever, 2 = occasionally, 3 = fairly often, and 4 = very often. The coded responses can be subdivided into seven dimensions (functional limitation, physical pain, psychological discomfort, physical disability, psychological disability, social disability, and handicap). Within each dimension, coded responses were multiplied with specific weights. The result of the response was 0, showing the highest possible score for quality of life according to this questionnaire and this treatment modality.
+
+FIGURE 1
+
+Clinical view at baseline (ie, before steps 1 and 2 of periodontal therapy)
+
+FIGURE 2
+
+Radiographic view at baseline (ie, before steps 1 and 2 of periodontal therapy) depicting severe horizontal and vertical bone loss
+
+FIGURE 3
+
+Periodontal chart at baseline (ie, steps 1 and 2 of periodontal therapy) after extraction of tooth 46
+
+FIGURE 4
+
+Clinical view at 3 months following nonsurgical periodontal therapy (ie, step 2 of periodontal therapy)
+
+FIGURE 5
+
+Periodontal chart after nonsurgical periodontal therapy (ie, step 2 of periodontal therapy, after 3 months)
+
+FIGURE 6
+
+Cone beam computed tomography planning for implant placement in the area of 46
+
+FIGURE 7
+
+Intraoperative situation depicting implant placement
+
+FIGURE 8
+
+Final situation after delivery of the screw‐retained single unit crown
+
+FIGURE 9
+
+Radiographic images depicting the baseline situation and after implant placement and prosthetic restoration
+
+FIGURE 10
+
+Clinical situation after periodontal therapy, implant placement, and prosthetic restoration
+
+FIGURE 11
+
+Radiographic view after periodontal therapy, implant placement, and prosthetic restoration indicating healthy periodontal and peri‐implant conditions
+
+FIGURE 12
+
+Periodontal chart after periodontal therapy, implant placement, and prosthetic restoration indicating healthy periodontal and peri‐implant conditions
+
+TABLE 4
+
+Oral health impact profile‐14 questionnaire filled out 2 mo after restoration (case 1)
+
+Question
+
+Very often
+
+Fairly often
+
+Occasionally
+
+Hardly ever
+
+Never
+
+Dimension
+
+Weight
+
+1
+
+Have you had trouble pronouncing any words because of problems with your teeth, mouth, or dentures?
+
+x
+
+Functional limitation
+
+0.51
+
+2
+
+Have you felt that your sense of taste has worsened because of problems with your teeth, mouth, or dentures?
+
+x
+
+Functional limitation
+
+0.49
+
+3
+
+Have you had painful aching in your mouth?
+
+x
+
+Physical pain
+
+0.34
+
+4
+
+Have you found it uncomfortable to eat any foods because of problems with your teeth, mouth, or dentures?
+
+x
+
+Physical pain
+
+0.66
+
+5
+
+Have you been self‐conscious because of your teeth, mouth, or dentures?
+
+x
+
+Psychological discomfort
+
+0.45
+
+6
+
+Have you felt tense because of problems with your teeth, mouth, or dentures?
+
+x
+
+Psychological discomfort
+
+0.55
+
+7
+
+Has your diet been unsatisfactory because of problems with your teeth, mouth, or dentures?
+
+x
+
+Physical disability
+
+0.52
+
+8
+
+Have you had to interrupt meals because of problems with your teeth, mouth, or dentures?
+
+x
+
+Physical disability
+
+0.48
+
+9
+
+Have you found it difficult to relax because of problems with your teeth, mouth, or dentures?
+
+x
+
+Psychological disability
+
+0.60
+
+10
+
+Have you been a bit embarrassed because of problems with your teeth, mouth, or dentures?
+
+x
+
+Psychological disability
+
+0.40
+
+11
+
+Have you been a bit irritable with other people because of problems with your teeth, mouth, or dentures?
+
+x
+
+Social disability
+
+0.62
+
+12
+
+Have you had difficulty doing your usual jobs because of problems with your teeth, mouth, or dentures?
+
+x
+
+Social disability
+
+0.38
+
+13
+
+Have you felt that life in general was less satisfying because of problems with your teeth, mouth, or dentures?
+
+x
+
+Handicap
+
+0.59
+
+14
+
+Have you been totally unable to function because of problems with your teeth, mouth, or dentures?
+
+x
+
+Handicap
+
+0.41
+
+John Wiley & Sons, Ltd
+
+5.2
+
+Clinical case 2
+
+The following clinical case illustrates how the replacement of the missing tooth 46 with an implant‐supported single unit crown increased the patient's quality of life (Figures,,,,,,,). (Treatment: Dr. Ho‐Yan Duong, Department of Periodontology, University of Bern, Switzerland).
+
+A 41‐year‐old male, systemically healthy patient was referred for treatment of advanced periodontal disease. Following initial clinical and radiographic examination, the following diagnoses were made:
+
+Tooth 46 had to be extracted before steps 1 and 2 of periodontal therapybecause of the extension of caries into the furcation. A re‐evaluation was performed at 3 months and at 6 months after step 2 of periodontal therapy (ie, full‐mouth subgingival scaling and root planing). Before implant placement, no probing depths exeeding 5 mm were recorded. Thereafter, the missing tooth 46 was replaced with an implant‐supported restoration by accommodating a soft tissue‐level implant (Straumann: TL, SP, ø 4.8 mm WN, SLActive, 8 mm, Roxolid) followed by transmucosal healing. The patient did not receive any provisional prosthesis during the healing period of 3 months. After 3 months, the implant was loaded with a full zirconia screw‐retained crown. After prosthetic restoration, the patient was asked to complete the oral health impact profile‐14 questionnaire (Table).
+
+According to Slade & Spencer,the result of the response was 0, showing the highest possible score for quality of life according to this questionnaire and this treatment modality (Table).
+
+FIGURE 13
+
+Clinical view at baseline (ie, before steps 1 and 2 of periodontal therapy)
+
+FIGURE 14
+
+Radiographic images at baseline (ie, before steps 1 and 2 of periodontal therapy)
+
+FIGURE 15
+
+Radiographic planning for implant placement in the area of 46
+
+FIGURE 16
+
+Intraoperative situation depicting implant placement, healing phase and delivery of the prosthetic restoration
+
+FIGURE 17
+
+Radiographic view after periodontal therapy, implant placement, and prosthetic restoration indicating healthy periodontal and peri‐implant conditions
+
+FIGURE 18
+
+Clinical situation after periodontal therapy, implant placement, and prosthetic restoration
+
+FIGURE 19
+
+Periodontal chart at baseline (ie, before steps 1 and 2 of periodontal therapy) before extraction of tooth 46
+
+FIGURE 20
+
+Periodontal chart after periodontal therapy, implant placement, and prosthetic restoration indicating healthy periodontal and peri‐implant conditions
+
+TABLE 5
+
+Oral health impact profile‐14 questionnaire filled out 2 mo after restoration (case 2)
+
+Question
+
+Very often
+
+Fairly often
+
+Occasionally
+
+Hardly ever
+
+Never
+
+Dimension
+
+Weight
+
+1
+
+Have you had trouble pronouncing any words because of problems with your teeth, mouth, or dentures?
+
+x
+
+Functional limitation
+
+0.51
+
+2
+
+Have you felt that your sense of taste has worsened because of problems with your teeth, mouth, or dentures?
+
+x
+
+Functional limitation
+
+0.49
+
+3
+
+Have you had painful aching in your mouth?
+
+x
+
+Physical pain
+
+0.34
+
+4
+
+Have you found it uncomfortable to eat any foods because of problems with your teeth, mouth, or dentures?
+
+x
+
+Physical pain
+
+0.66
+
+5
+
+Have you been self‐conscious because of your teeth, mouth, or dentures?
+
+x
+
+Psychological discomfort
+
+0.45
+
+6
+
+Have you felt tense because of problems with your teeth, mouth, or dentures?
+
+x
+
+Psychological discomfort
+
+0.55
+
+7
+
+Has your diet been unsatisfactory because of problems with your teeth, mouth, or dentures?
+
+x
+
+Physical disability
+
+0.52
+
+8
+
+Have you had to interrupt meals because of problems with your teeth, mouth, or dentures?
+
+x
+
+Physical disability
+
+0.48
+
+9
+
+Have you found it difficult to relax because of problems with your teeth, mouth, or dentures?
+
+x
+
+Psychological disability
+
+0.60
+
+10
+
+Have you been a bit embarrassed because of problems with your teeth, mouth, or dentures?
+
+x
+
+Psychological disability
+
+0.40
+
+11
+
+Have you been a bit irritable with other people because of problems with your teeth, mouth, or dentures?
+
+x
+
+Social disability
+
+0.62
+
+12
+
+Have you had difficulty doing your usual jobs because of problems with your teeth, mouth, or dentures?
+
+x
+
+Social disability
+
+0.38
+
+13
+
+Have you felt that life in general was less satisfying because of problems with your teeth, mouth, or dentures?
+
+x
+
+Handicap
+
+0.59
+
+14
+
+Have you been totally unable to function because of problems with your teeth, mouth, or dentures?
+
+x
+
+Handicap
+
+0.41
+
+John Wiley & Sons, Ltd
