@@ -172,6 +172,9 @@ Anitua 2019 — 소구치-대구치부 6.5mm 단축임플란트 즉시부하 스
 - [[implants/liu-2019-early-loading-splinted-implants-posterior-mandible-3year]] — 3년 연장 코호트 (100% 생존, MBL +0.23mm)
 - [[implants/short-narrow/anitua-2019-short-65mm-implants-fixed-prostheses-premolar-molar]] — 단축임플란트 SS vs SL 스플린팅 즉시부하 (SS 원심 MBL 우월)
 
+### 수직 플랫폼 정렬 — FEA 근거 (crestal position of splinted implants)
+- [[implants/ceddia-2025-crestal-position-splinted-implant-fea]] — 3D FEA (3-implant splinted prosthesis, 400 N vertical + 45° oblique): **균일한 수직 배치가 혼합 배치보다 우월**. 혼합 구성 B(중앙 치조하·측방 치조정) 시 경사 하중에서 피질골 응력 최대(~116 MPa, 생리적 한계 120 MPa 근접); 전 치조하 균일 배치(Model D)가 피질골 응력 최소(32 MPa). 임상 적용: 3개 임플란트 연결 보철 시 전부 치조정 또는 전부 치조하로 균일하게 배치하고, 일부만 치조하에 두는 혼합 구성은 피한다.
+
 ### 근거 맥락 (이 오버뷰에 없지만 읽어야 할 것)
 - [[implants/loading-protocol/esposito-2013-loading-times-dental-implants-cochrane]] — Cochrane SR+MA: 즉시·조기부하 IT≥35Ncm 전제 조건 정립
 - [[implants/loading-protocol/ko-2021-immediate-loading-protocols-increase-risk]] — RCT: 가이드 수술+즉시부하 83.4% vs DL 100% — 스플린팅 없는 경우와 대조
