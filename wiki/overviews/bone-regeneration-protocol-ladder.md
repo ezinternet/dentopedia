@@ -228,3 +228,18 @@ Clinical takeaway: socket-defect-driven decision tree — intact 4-wall socket �
 Porczyk 2026 (narrative review, JCM, PubMed 2000–2026) appraised three minimally invasive implant bone regeneration approaches organized by defect morphology and biologic priority. Evidence hierarchy: (1) **Bone Core Technique** — strongest dedicated evidence (prospective study, n=186, ≥5y follow-up); used for predictable localized horizontal defects with simultaneous implant placement; (2) **SPAL (Sub-Periosteal Peri-implant Augmented Layer)** — biologically plausible concept for dehiscence/fenestration correction but evidence limited to retrospective cases and one histologic report; (3) **IDR (Immediate Dentoalveolar Restoration)** — protocol relies on the broader immediate implant literature without protocol-specific validation. All three are minimally invasive alternatives to conventional open-flap GBR with shorter healing and lower morbidity, but evidence quality remains insufficient for routine recommendation of SPAL or IDR.
 
 - [[bone-regeneration/porczyk-2026-minimally-invasive-bone-regeneration-implant]] — narrative review: Bone Core Technique (strongest, n=186, ≥5y) > SPAL (retrospective only) > IDR (no dedicated RCTs).
+
+## Clinical Quiz
+<!-- quiz_spec -->
+
+**Q1.** 발치 후 임플란트를 계획하고 있으나 즉시식립이 불가능합니다. 아무 처치 없이 자연 치유를 기다렸을 때 6개월 후 예상되는 치조제 변화를 이 오버뷰에 근거해 설명하세요. *(근거: 축 1 — 자연 치유 흡수량)*
+
+> **모범답안**: 자연 치유 6개월에 **수평 폭 평균 −3.79mm(29–63%), 수직 협측 높이 −1.24~1.67mm** 흡수된다. 수평 흡수가 수직보다 압도적으로 크다 — 임플란트 식립 시 수평 폭 부족이 가장 흔한 문제가 된다. 특히 협측골이 얇은(BBT <1mm) 부위에서 ARP 이득이 가장 크므로, 즉시식립 불가 발치 후에는 치조제 보존술(ARP)이 1차 권고된다.
+
+**Q2.** 협측 골벽이 얇은(BBT <1mm) 상악 전치 발치와에서 ARP를 시행합니다. 이 오버뷰의 표준 이식재·막 조합과 그 선택 근거를 설명하세요. *(근거: 축 3·4 — 이식재 + 차폐막)*
+
+> **모범답안**: 표준 조합은 **DBBM(Bio-Oss) + 콜라겐 차폐막**이다. 이식재 간 임상 차이는 미미하고(allograft·xenograft·alloplast 동등, Majzoub 2019), DBBM이 가장 근거가 강하다. 차폐막+이식재 조합이 자연 치유 대비 수평 폭 −1.18mm, 수직 높이 −1.35mm 추가 보존(Atieh 2021 Cochrane). 심미 부위에는 **유리치은이식(FGG)** 병용 시 협/설측 높이 보존이 최우수하므로, 심미 요구가 있으면 FGG/CTG를 추가 고려한다.
+
+**Q3.** 협측 결손이 있어 dPTFE 차폐막을 사용했는데 수술 후 막이 노출됐습니다. 이 오버뷰에 근거해 이 상황을 어떻게 해석하고 어떻게 관리합니까? *(근거: 흔한 오판 섹션)*
+
+> **모범답안**: 이 오버뷰는 "dPTFE는 애초에 노출 디자인이며, 노출은 실패가 아니다"라고 명시한다. dPTFE는 세포 차단(occlusive) 설계로 노출된 채로도 4–6주까지 기능하며, 이 시점에 제거한다. 콜라겐 막은 반대로 노출 시 빠르게 분해되므로 처음부터 1차 봉합 또는 punch graft로 봉쇄해야 한다. 따라서 dPTFE 노출 시 즉각 제거 필요 없이 정기 관찰 후 예정대로 4–6주에 제거한다.
