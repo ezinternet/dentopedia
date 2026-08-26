@@ -401,3 +401,18 @@ Liu 2025 ([[immediate-implant/liu-2025-iip-iipp-classification-surgical-restorat
 - [[immediate-implant/ayubianmarkazi-2018-immediate-implant-sinus-elevation-crestal]] — IIP + crestal sinus
 - [[immediate-implant/gap-grafting/darosa-2019-immediate-dentoalveolar-restoration-osseodensification-periodontal]] — IDR + OD
 - [[immediate-implant/esthetic-soft-tissue/nassani-2025-immediate-vs-delayed-implant-bony-defect-commentary]]
+
+## Clinical Quiz
+<!-- quiz_spec -->
+
+**Q1.** 상악 전치 발치 후 CBCT에서 협측 결손 6mm를 확인했습니다. 이 오버뷰에 근거해 즉시식립을 포기해야 합니까? *(근거: Meijer 2024 10년 RCT)*
+
+> **모범답안**: **포기할 필요 없다.** 이 오버뷰는 "협측 결손 ≥5mm도 IIP + GBR + 지연 provisionalization으로 ARP 후 지연식립과 10년 outcome 동등"을 명시한다(Meijer 2024 RCT 10년). 협측 결손 크기 단독은 절대 금기가 아니다. 단, 3가지 전제 조건이 필수: ① 술자 숙련도 ② 정밀한 GBR 시행 ③ 환자 협조. 이 조건을 충족할 수 없다면 Type 4(≥6개월 지연, ARP 후 식립)로 계획을 변경한다. 또한 결손 ≥5mm에서 즉시식립 시에는 지연 provisionalization(발치 당일 임시보철 비부착)을 고려한다.
+
+**Q2.** 즉시식립 시 구개측 ≥2mm 위치와 점핑갭(Jumping Gap) ≥2mm 이식이 이 오버뷰에서 "비협상 기술 원칙"인 이유를 설명하세요. *(근거: Staas 2026 + Seyssens 2022 SR+MA)*
+
+> **모범답안**: **구개측 ≥2mm 위치**: Staas 2026(전향적 CBCT 3년)에서 구개측 위치가 협측 치조정 두께·높이 보존의 결정인자로 확인됐다. 임플란트를 협측으로 너무 가깝게 식립하면 협측 골이 흡수되고 점막 퇴축으로 이어진다. **점핑갭 ≥2mm 이식**: Seyssens 2022 SR+MA(15 RCT n=577)에서 점핑갭 ≥2mm 시 이식재 적용이 협측 골 흡수를 유의하게 줄였다(이식군 −0.46mm vs 비이식군 −0.84mm, Sanz 2017). 발치와 내벽과 임플란트 사이 공간을 이식재로 채우지 않으면 협측 골 흡수가 더 크다.
+
+**Q3.** 치근단 농양으로 발치가 필요한 상악 전치 환자입니다. "감염 병변이므로 즉시식립 불가, ARP 후 6개월 대기"라는 결정이 이 오버뷰에서 근거가 있습니까? *(근거: Pranckeviciene 2024)*
+
+> **모범답안**: **이 결정은 오판이다.** 이 오버뷰는 "치근단 병변 socket은 충분한 소파 + 술전 amoxicillin 2g 동반 시 비감염치와 동등"을 명시한다(Pranckeviciene 2024). "병변 있으면 무조건 ARP"는 오판 패턴으로 분류된다. 단, 전제 조건: ① 철저한 염증 조직 소파 ② 술전 amoxicillin 2g ③ 협측 골판이 충분히 온전. 소파 후에도 협측 골이 광범위하게 소실됐거나 병변 범위가 너무 크면 지연식립을 고려한다. 근단 병변 존재 자체는 즉시식립의 절대 금기가 아니다.
