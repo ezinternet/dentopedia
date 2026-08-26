@@ -116,6 +116,12 @@ Drug selection: amoxicillin first-line (adverse-event rate 21.5/million, fatalit
 - 즉시 발치 후 임플란트 제외 시 방향 역전(RR 1.10)
 - 건강 환자 비복잡 임플란트에는 예방 불필요
 
+[확인] Dubedout 2025 SR(위약대조 이중맹검 RCT 7편, 1,846명; PROSPERO CRD42023427802 — Momand 2024와 동일 시험 풀, 독립적 재현):
+- 임플란트 실패·수술 합병증 모두 p>0.05; 가장 근접한 Nolan 2014(0/27 vs 5/28, p=0.0515) 포함 전부 비유의
+- 통증 감소: Nolan 2014에서만 술후 7일 VAS 유의 감소(p=0.016)
+- AFSSAPS 2011·EAO 2015·ITI 권고(건강 환자 루틴 예방 불필요)와 일치
+- **Momand 2024와 독립적으로 동일 결론 → 비예방 권고의 재현성 확인**
+
 [확인] Torof 2023 SR+MA: 단일 술전 Amoxicillin 2g이 조기 실패 유의 감소(Momand과 상충 → 방법론 차이).
 
 ### 2-5. 상악동거상술 (Sinus Floor Elevation)
