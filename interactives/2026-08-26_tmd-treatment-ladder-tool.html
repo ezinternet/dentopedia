@@ -1,0 +1,429 @@
+<!--
+---
+title: "TMD 치료 Ladder 도구 — 진단형·병기별 비약물·약물·중재 결정"
+type: interactive
+date: 2026-08-26
+status: done
+category: tmj
+source_wiki:
+  - wiki/overviews/tmd-management-evidence-ladder.md
+agenda: agenda/2026-08-26_tmd-treatment-ladder-tool.md
+---
+-->
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TMD 치료 Ladder 도구</title>
+<style>
+:root {
+  --bg: #ffffff;
+  --surface: #f8f9fa;
+  --border: #dee2e6;
+  --text: #212529;
+  --muted: #6c757d;
+  --accent: #2563eb;
+  --accent-light: #eff6ff;
+  --red: #dc2626;
+  --red-light: #fef2f2;
+  --amber: #d97706;
+  --amber-light: #fffbeb;
+  --green: #16a34a;
+  --green-light: #f0fdf4;
+  --purple: #7c3aed;
+  --purple-light: #f5f3ff;
+  --teal: #0d9488;
+  --teal-light: #f0fdfa;
+  --orange: #ea580c;
+  --orange-light: #fff7ed;
+  --radius: 8px;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { background: var(--bg); color: var(--text); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; line-height: 1.5; padding: 16px; max-width: 920px; margin: 0 auto; }
+h1 { font-size: 18px; font-weight: 700; margin-bottom: 2px; }
+.subtitle { color: var(--muted); font-size: 12px; margin-bottom: 16px; }
+
+.input-grid { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 10px; margin-bottom: 12px; }
+@media (max-width: 620px) { .input-grid { grid-template-columns: 1fr; } }
+.field label { display: block; font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); margin-bottom: 4px; }
+select { width: 100%; border: 1px solid var(--border); border-radius: var(--radius); padding: 7px 10px; font-size: 13px; background: var(--bg); color: var(--text); outline: none; }
+select:focus { border-color: var(--accent); }
+
+/* Sign toggles */
+.toggle-row { display: flex; flex-wrap: wrap; gap: 6px; }
+.toggle-btn {
+  padding: 4px 12px; border: 1px solid var(--border); border-radius: 20px;
+  background: var(--bg); color: var(--text); font-size: 12px; cursor: pointer;
+  transition: all .15s; user-select: none;
+}
+.toggle-btn.on { background: var(--amber-light); border-color: var(--amber); color: var(--amber); font-weight: 700; }
+
+.divider { border: none; border-top: 1px solid var(--border); margin: 12px 0; }
+
+/* Ladder steps */
+.ladder { display: flex; flex-direction: column; gap: 8px; margin-bottom: 14px; }
+.step {
+  border-radius: var(--radius); border: 1px solid var(--border); padding: 12px 14px;
+  background: var(--surface);
+}
+.step-header { display: flex; align-items: center; gap: 8px; margin-bottom: 6px; }
+.step-num { width: 24px; height: 24px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 12px; font-weight: 700; flex-shrink: 0; }
+.step-title { font-size: 13px; font-weight: 700; }
+.step-badge { font-size: 10px; padding: 2px 8px; border-radius: 10px; font-weight: 600; }
+.step-body { font-size: 12px; color: var(--text); line-height: 1.6; }
+.step-body ul { padding-left: 16px; }
+.step-body li { margin-bottom: 3px; }
+.step-ref { font-size: 10px; color: var(--muted); margin-top: 6px; font-style: italic; }
+
+.step-1 { border-color: #86efac; background: var(--green-light); }
+.step-1 .step-num { background: var(--green); color: white; }
+.step-1 .step-badge { background: #dcfce7; color: var(--green); }
+
+.step-2 { border-color: #93c5fd; background: var(--accent-light); }
+.step-2 .step-num { background: var(--accent); color: white; }
+.step-2 .step-badge { background: #dbeafe; color: var(--accent); }
+
+.step-3 { border-color: #fcd34d; background: var(--amber-light); }
+.step-3 .step-num { background: var(--amber); color: white; }
+.step-3 .step-badge { background: #fef3c7; color: var(--amber); }
+
+.step-4 { border-color: #c4b5fd; background: var(--purple-light); }
+.step-4 .step-num { background: var(--purple); color: white; }
+.step-4 .step-badge { background: #ede9fe; color: var(--purple); }
+
+/* Warning boxes */
+.warn-row { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 14px; }
+.warn-box {
+  flex: 1; min-width: 200px; border-radius: var(--radius); padding: 10px 12px;
+  border: 1px solid var(--border); font-size: 12px;
+}
+.warn-box.red { background: var(--red-light); border-color: #fca5a5; }
+.warn-box.amber { background: var(--amber-light); border-color: #fcd34d; }
+.warn-box.teal { background: var(--teal-light); border-color: #99f6e4; }
+.warn-box strong { display: block; font-size: 12px; font-weight: 700; margin-bottom: 3px; }
+.warn-box.red strong { color: var(--red); }
+.warn-box.amber strong { color: var(--amber); }
+.warn-box.teal strong { color: var(--teal); }
+
+/* Evidence badges */
+.ev-row { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 14px; }
+.ev-badge { padding: 6px 12px; border-radius: var(--radius); border: 1px solid var(--border); font-size: 11px; background: var(--surface); line-height: 1.3; }
+.ev-badge strong { display: block; font-size: 13px; font-weight: 700; }
+.ev-badge span { color: var(--muted); }
+.ev-badge.green { background: var(--green-light); border-color: #86efac; }
+.ev-badge.green strong { color: var(--green); }
+.ev-badge.accent { background: var(--accent-light); border-color: #93c5fd; }
+.ev-badge.accent strong { color: var(--accent); }
+.ev-badge.red { background: var(--red-light); border-color: #fca5a5; }
+.ev-badge.red strong { color: var(--red); }
+.ev-badge.purple { background: var(--purple-light); border-color: #c4b5fd; }
+.ev-badge.purple strong { color: var(--purple); }
+.ev-badge.teal { background: var(--teal-light); border-color: #99f6e4; }
+.ev-badge.teal strong { color: var(--teal); }
+
+/* Arthrocentesis conflict panel */
+.conflict-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-top: 8px; }
+@media (max-width: 500px) { .conflict-grid { grid-template-columns: 1fr; } }
+.conflict-cell { border-radius: var(--radius); padding: 8px 10px; font-size: 11px; line-height: 1.5; }
+.conflict-neg { background: #fef2f2; border: 1px solid #fca5a5; }
+.conflict-pos { background: #f0fdfa; border: 1px solid #99f6e4; }
+.conflict-cell strong { display: block; font-size: 12px; font-weight: 700; margin-bottom: 3px; }
+.conflict-neg strong { color: var(--red); }
+.conflict-pos strong { color: var(--teal); }
+
+/* Router */
+.router { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 12px; }
+.router-title { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); margin-bottom: 8px; }
+.router-links { display: flex; flex-wrap: wrap; gap: 6px; }
+.router-link { padding: 5px 12px; border-radius: 20px; font-size: 12px; text-decoration: none; border: 1px solid var(--border); background: var(--bg); color: var(--accent); cursor: pointer; transition: all .15s; }
+.router-link:hover { background: var(--accent); color: white; border-color: var(--accent); }
+.router-link.hot { background: var(--accent-light); border-color: var(--accent); font-weight: 600; }
+
+section { margin-bottom: 14px; }
+.section-title { font-size: 13px; font-weight: 700; margin-bottom: 8px; border-left: 3px solid var(--accent); padding-left: 8px; }
+</style>
+</head>
+<body>
+
+<h1>TMD 치료 Ladder 도구</h1>
+<p class="subtitle">진단형·병기별 비약물·약물·중재 결정 | 근거: BMJ NMA 2023 · Cochrane 2024 · Valenzuela-Fuenzalida 2026 · Bader Alzamanan 2026</p>
+
+<!-- INPUTS -->
+<section>
+  <div class="input-grid">
+    <div class="field">
+      <label>TMD 유형</label>
+      <select id="tmdType">
+        <option value="myo">근육형 (Myogenous)</option>
+        <option value="art">관절형 (Articular)</option>
+        <option value="both">복합형 (Combined)</option>
+      </select>
+    </div>
+    <div class="field">
+      <label>주증상</label>
+      <select id="chief">
+        <option value="pain">근육통 · 두통</option>
+        <option value="click">관절음 (Click/Pop)</option>
+        <option value="trismus">개구 제한</option>
+        <option value="tinnitus">이명 동반</option>
+      </select>
+    </div>
+    <div class="field">
+      <label>병기</label>
+      <select id="duration">
+        <option value="acute">급성 (&lt;3개월)</option>
+        <option value="chronic">만성 (≥3개월)</option>
+      </select>
+    </div>
+    <div class="field">
+      <label>보존치료 시행 여부</label>
+      <select id="conserv">
+        <option value="no">아직 미시행</option>
+        <option value="fail">8주 이상 보존 실패</option>
+      </select>
+    </div>
+    <div class="field">
+      <label>OVD 변경 계획</label>
+      <select id="ovd">
+        <option value="no">없음</option>
+        <option value="yes">교합 수복·보철 예정</option>
+      </select>
+    </div>
+  </div>
+
+  <div class="field" style="margin-bottom:0;">
+    <label style="margin-bottom:6px;">동반 요인 (복수 선택)</label>
+    <div class="toggle-row" id="flagRow">
+      <span class="toggle-btn" data-flag="brux">이갈이(Bruxism)</span>
+      <span class="toggle-btn" data-flag="uni">편측저작 습관</span>
+      <span class="toggle-btn" data-flag="oa">TMJ 골관절염(OA) 의심</span>
+      <span class="toggle-btn" data-flag="psych">심리·사회 요인</span>
+    </div>
+  </div>
+</section>
+
+<hr class="divider">
+
+<!-- LADDER -->
+<section>
+  <div class="section-title">치료 Ladder</div>
+  <div class="ladder" id="ladder">
+    <!-- JS 렌더링 -->
+  </div>
+</section>
+
+<!-- WARNINGS -->
+<div class="warn-row" id="warnRow"></div>
+
+<!-- ARTHROCENTESIS CONFLICT PANEL -->
+<section id="arthroSec" style="display:none;">
+  <div class="section-title">관절천자(Arthrocentesis) — 상충 근거</div>
+  <div class="conflict-grid">
+    <div class="conflict-cell conflict-neg">
+      <strong>단독 우월성 미입증</strong>
+      32 RCT (n=1,247) SR+MA — 통증(VAS) MD −0.25, p=0.55 (NS)<br>
+      MMO/MIO는 비교군 우세<br>
+      GRADE very low; I²=85–98% 극단 이질성<br>
+      <em>→ 보조 옵션이지 결정적 치료 아님</em><br>
+      (Valenzuela-Fuenzalida 2026)
+    </div>
+    <div class="conflict-cell conflict-pos">
+      <strong>i-PRF 부가 — TSA 결정적</strong>
+      9 RCT (n=320) — VAS −1.62, MMO +5.03 mm 유의<br>
+      Trial Sequential Analysis: 충분검정력 확인<br>
+      GRADE moderate<br>
+      <em>→ 관절천자 시행 시 i-PRF 병용 우선 고려</em><br>
+      (Bader Alzamanan 2026)
+    </div>
+  </div>
+  <p style="font-size:11px; color:var(--muted); margin-top:6px;">방법론 caveat: 기전 이질적 비교군을 I²=85–98%에서 통합 → 풀링 추정치 임상 해석 주의 (Fuentes-Barría 2026)</p>
+</section>
+
+<!-- EVIDENCE BADGES -->
+<section>
+  <div class="section-title">핵심 근거</div>
+  <div class="ev-row">
+    <div class="ev-badge green">
+      <strong>RD 36%</strong>
+      <span>CBT+바이오피드백 &amp; 하악 가동화<br>BMJ NMA 2023 (233 RCT, 59 개입)</span>
+    </div>
+    <div class="ev-badge green">
+      <strong>RD 32%</strong>
+      <span>수기 트리거포인트<br>BMJ NMA 2023 (Yao)</span>
+    </div>
+    <div class="ev-badge accent">
+      <strong>PBMT SUCRA 88.9%</strong>
+      <span>근육성 TMD 통증 목표 1위<br>Zhang 2026 NMA (41 RCT)</span>
+    </div>
+    <div class="ev-badge accent">
+      <strong>도수치료 SUCRA 92.9%</strong>
+      <span>근육성 TMD 개구량 목표 1위<br>Zhang 2026 NMA</span>
+    </div>
+    <div class="ev-badge red">
+      <strong>교합조정 미지지</strong>
+      <span>비가역 교합치료는 1차 금기<br>Cochrane 2024 (Singh) — very low~low</span>
+    </div>
+    <div class="ev-badge purple">
+      <strong>RR 4.5 / κ=0.767</strong>
+      <span>편측저작측 = TMD 통증측<br>Santana-Mora 2021 (n=24)</span>
+    </div>
+    <div class="ev-badge teal">
+      <strong>90.7% 동측성</strong>
+      <span>이명 동반 TMD + 편측저작 선호<br>Ma 2025 (n=285)</span>
+    </div>
+  </div>
+</section>
+
+<!-- ROUTER -->
+<div class="router">
+  <div class="router-title">연결 도구</div>
+  <div class="router-links" id="routerLinks">
+    <a class="router-link" href="2026-08-26_periodontics-staging-treatment-tool.html">치주 병기·Grade·SPT</a>
+    <a class="router-link" href="2026-08-26_oral-medicine-decision-tool.html">구강점막질환 감별 (BMS·구강통증)</a>
+    <a class="router-link" href="2026-08-26_km-augmentation-decision-tool.html">각화점막(KM) 증대 결정</a>
+  </div>
+</div>
+
+<script>
+const Flags = new Set();
+
+document.querySelectorAll('.toggle-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    const f = btn.dataset.flag;
+    if (Flags.has(f)) { Flags.delete(f); btn.classList.remove('on'); }
+    else { Flags.add(f); btn.classList.add('on'); }
+    update();
+  });
+});
+
+document.querySelectorAll('select').forEach(el => el.addEventListener('change', update));
+
+function step(num, cls, title, badge, body, ref) {
+  return `<div class="step step-${cls}">
+    <div class="step-header">
+      <div class="step-num">${num}</div>
+      <div class="step-title">${title}</div>
+      <span class="step-badge">${badge}</span>
+    </div>
+    <div class="step-body">${body}</div>
+    ${ref ? `<div class="step-ref">${ref}</div>` : ''}
+  </div>`;
+}
+
+function update() {
+  const type = document.getElementById('tmdType').value;
+  const chief = document.getElementById('chief').value;
+  const dur = document.getElementById('duration').value;
+  const conserv = document.getElementById('conserv').value;
+  const ovd = document.getElementById('ovd').value;
+  const brux = Flags.has('brux');
+  const uni = Flags.has('uni');
+  const oa = Flags.has('oa');
+  const psych = Flags.has('psych');
+  const isChronic = dur === 'chronic';
+  const isFail = conserv === 'fail';
+
+  const steps = [];
+  const warns = [];
+
+  // ── Step 1: 비약물 1차 ──
+  let s1body = '';
+  if (type === 'myo' || type === 'both') {
+    s1body += `<ul>
+      <li><strong>광생체조절치료 (Photobiomodulation, PBMT)</strong> — 통증 목표 1위 (SUCRA 88.9%, SMD −1.49 vs 대조, Zhang 2026 NMA)</li>
+      <li><strong>도수치료 (Manual Therapy, MT)</strong> — 개구량 목표 1위 (SUCRA 92.9%); 수기 트리거포인트 (RD 32%, BMJ NMA 2023)</li>
+      <li>CBT+바이오피드백 — 만성통증·재발 예방 최선 (RD 36%, BMJ NMA 2023)${isChronic ? ' <em>← 이 환자: 만성, 강력 적용</em>' : ''}</li>
+      <li>교합안정장치(스플린트): 조건부 추가 — 운동과 동등하거나 운동 우위 (Zhang 2021)</li>
+    </ul>`;
+  }
+  if (type === 'art' || type === 'both') {
+    s1body += `<ul>
+      <li><strong>치료사 보조 하악 가동화</strong> — RD 36% (BMJ NMA 2023)</li>
+      <li>전방재위치장치(ARS): ADDwR에서 관절잡음·편안함 개선 (Liu 2026 RCT, n=118)</li>
+      <li>관절음 단독은 비침습 모니터링 우선</li>
+    </ul>`;
+    if (chief === 'trismus') {
+      s1body += `<p style="margin-top:6px;font-weight:700;color:var(--accent);">개구 제한 → 물리치료(하악 가동화) + 온열 복합 우선; 관절강내 유착 의심 시 관절천자 고려</p>`;
+    }
+  }
+  if (type === 'myo') {
+    s1body += `<p style="margin-top:6px; font-size:11px; color:var(--muted);">교육·자기관리(ED/SM) 단독: 단기 통증·QoL에서 다른 비수술 치료보다 열세 가능 (Ferland 2026, 47 RCT, very low~low) — 보조 역할</p>`;
+  }
+  steps.push(step('1', '1', '비약물 1차 치료 (필수)', '항상 시작', s1body, 'BMJ NMA 2023 Yao · Zhang 2026 NMA · Cochrane 2024'));
+
+  // ── Step 2: 약물 ──
+  let s2body = '<ul>';
+  if (type === 'art' || type === 'both') {
+    s2body += `<li>관절통: NSAIDs 우선 → IA corticosteroid → Hyaluronate (HA)</li>`;
+    if (oa) s2body += `<li>TMJ OA: PEA(팔미토일에탄올아미드)·아보카도콩(단기) / 글루코사민+HA(장기 통증·개구) — Al-Hamed 2026 NMA, 근거 낮음~매우낮음</li>`;
+  }
+  if (type === 'myo' || type === 'both') {
+    s2body += `<li>근육통: Cyclobenzaprine — 비약물과 병행, 단독 만성 사용 지양</li>`;
+  }
+  if (brux) {
+    s2body += `<li>수면이갈이 동반: 스플린트·biofeedback 우위 (Minakuchi 2022 SR). 약물: Cyclobenzaprine 보조</li>`;
+  }
+  s2body += `<li style="color:var(--red); font-weight:700;">⚠ 교합조정·비가역 교합치료 — 1차 치료로 금기 (Cochrane 2024 Singh, very low~low)</li>`;
+  s2body += `<li style="font-size:11px; color:var(--muted);">전반적 GRADE 낮음 — 어떤 약물도 강력 권고 불가. 비약물과 병행, 아형별 선택 (Häggman-Henrikson 2017)</li>`;
+  s2body += '</ul>';
+  steps.push(step('2', '2', '약물 (비약물 단독 불충분 시 추가)', '2차 보조', s2body, 'Häggman-Henrikson 2017 · Al-Hamed 2026 · Singh 2024 Cochrane'));
+
+  // ── Step 3: 중재 ──
+  if (isFail || chief === 'trismus') {
+    let s3body = '';
+    if (chief === 'trismus' || type === 'art' || type === 'both') {
+      s3body += `<p><strong>관절천자(Arthrocentesis)</strong>: 보존 실패 8주↑ 시 고려. 단독 우월성은 입증 안 됨 — i-PRF 병용 시 TSA 결정적 (VAS −1.62, MMO +5.03mm, GRADE moderate).</p>`;
+      s3body += `<p style="margin-top:6px;"><strong>관절내 주사제</strong>: HA·스테로이드 부가 근거 있음 (Zhang 2024); 아형 분리 필요 (DD vs OA)</p>`;
+    }
+    if (type === 'myo' || type === 'both') {
+      s3body += `<p style="margin-top:6px;"><strong>트리거포인트 리도카인 주사</strong>: 근육형 NMA — SUCRA 91.7% (Ma 2026), 단 기본치료 직접비교 RCT 0편으로 근거 매우낮음</p>`;
+    }
+    steps.push(step('3', '3', '중재 (보존 8주↑ 실패 시)', '조건부', s3body, 'Valenzuela-Fuenzalida 2026 · Bader Alzamanan 2026 · Ma 2026'));
+    document.getElementById('arthroSec').style.display = '';
+  } else {
+    document.getElementById('arthroSec').style.display = 'none';
+  }
+
+  // ── Step 4: 특수 상황 ──
+  let s4parts = [];
+  if (uni) {
+    s4parts.push(`<li><strong>편측저작 교정</strong>: 습관저작측 = TMD 통증측 (κ=0.767, RR 4.5, Santana-Mora 2021) — 양측저작 훈련을 1차 비약물에 통합</li>`);
+    if (chief === 'tinnitus') s4parts.push(`<li>이명 동반 + 편측저작 선호: 90.7% 동측성 (Ma 2025) → 저작패턴 교정이 이명 관리 보조</li>`);
+  }
+  if (ovd === 'yes') {
+    s4parts.push(`<li><strong>OVD 거상 예정</strong>: OVD 증가가 교합 상실보다 TMJ 연골 손상 빠르고 심각 (Wang 2024 동물) → 점진 거상 + TMJ 증상 모니터링 필수</li>`);
+  }
+  if (oa) {
+    s4parts.push(`<li><strong>TMJ OA</strong>: CT gold standard (κ=0.71 vs 파노라마 κ=0.16) — 피질골 연속성 소실(미란·낭종)이 단순 편평화보다 진단적. 보존 우선 ladder (Song 2023, KDA)</li>`);
+    s4parts.push(`<li>TMJ OA 6개월 가정 물리치료(온열·마사지·스트레칭·관절가동): 통증·Helkimo 지수 유의 개선 (Macías-Hernández 2022, 소규모 전향, 참고수준)</li>`);
+  }
+  if (psych || isChronic) {
+    s4parts.push(`<li><strong>심리·사회 요인</strong>: biopsychosocial 접근 필수. 만성 TMD의 QoL 저하 — 근육형·관절통형이 디스크변위형보다 심각 (Pigozzi 2021 SR+MA)</li>`);
+  }
+  if (s4parts.length > 0) {
+    steps.push(step('4', '4', '특수 상황 관리', '개인화', `<ul>${s4parts.join('')}</ul>`, ''));
+  }
+
+  // Render
+  document.getElementById('ladder').innerHTML = steps.join('');
+
+  // Warnings
+  const warnHTML = [];
+  if (uni) warnHTML.push(`<div class="warn-box amber"><strong>편측저작 경고</strong>습관저작측 = TMD 통증측 (RR 4.5, κ=0.767). 저작측 교정을 매 진료에 포함.</div>`);
+  if (ovd === 'yes') warnHTML.push(`<div class="warn-box red"><strong>OVD 거상 주의</strong>OVD↑는 교합 상실보다 과두 연골 손상 빠름 (Wang 2024). 점진 거상 + TMJ 모니터링.</div>`);
+  if (chief === 'tinnitus') warnHTML.push(`<div class="warn-box teal"><strong>이명 동반 TMD</strong>편측저작 선호 90.7% 동측성 (Ma 2025). 저작패턴 평가·교정 필수.</div>`);
+  document.getElementById('warnRow').innerHTML = warnHTML.join('');
+
+  // Router hot
+  document.querySelectorAll('.router-link').forEach(l => l.classList.remove('hot'));
+  if (chief === 'pain' || type === 'myo') {
+    document.querySelectorAll('.router-link')[1].classList.add('hot'); // oral medicine
+  }
+}
+
+update();
+</script>
+</body>
+</html>
