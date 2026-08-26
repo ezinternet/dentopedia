@@ -19,7 +19,8 @@ tags: [overview, socket-shield, sst, immediate-implant, esthetic-zone, buccal-bo
 > - 소켓실드 기법(Socket Shield Technique, SST) 17개 페이지 종합. 즉시 식립 시 치근 협측 조각("실드")을 남겨 다발골과 혈류를 보존, 발치 후 거의 보편적인 협측 골판 흡수에 대응(Hürzeler 2010 기원).
 > - 핵심 명제: SR/MA + RCT 2편이 협측 골판·핑크 심미 보존 우월로 수렴하나, 근거 다수가 증례보고이고 장기(≥5년) 데이터 부족.
 > - 정량 anchor(Oliva 2023 SR, 강한 근거): 협측 골판 흡수(BBPR) 0.32 vs 1.05 mm(−70%), 변연골소실(MBL) 0.39 vs 1.00 mm(−61%), 핑크심미점수(PES) +1.31, 임플란트 생존 98.6%.
-> - RCT 확인(Atef 2021): 협측 골 변화 −0.28 vs 이종골 −0.94 mm, 점막 퇴축 0.18 vs 0.52 mm.
+> - RCT 확인 1(Atef 2021): 협측 골 변화 −0.28 vs 이종골 −0.94 mm, 점막 퇴축 0.18 vs 0.52 mm.
+> - RCT 확인 2(Durrani 2025, n=24, 36mo): SST vs 통상 즉시식립(Conventional Immediate Implant Placement, cIIP) — 변연골소실(Marginal Bone Loss, MBL) 1.40 vs 1.70 mm(p=0.040), 핑크심미점수(Pink Esthetic Score, PES) 10.50 vs 9.36(p=0.008); 양군 생존율 100%.
 > - 합병증 trade-off: 전체 3.81%(Oliva)~9.5%(Ogawa), 실드 특이(노출·파절·이동) 5–17%(Gharpure) — 술자 숙련도 의존; 합병증이 나도 임플란트 생존은 높음.
 > - 생역학 업데이트(FEA 2편): ①Neves 2023 — 실드가 주위골 응력 최고 집중원. ②Ye 2026 신규 — 호각도(Arc angle) 120°–150°가 최적: 교합 하중 시 피질골 응력이 120°에서 최소(47.62 MPa), **180°에서 급등**(64.51 MPa) — 실드가 클수록 무조건 좋지 않음(비선형).
 > - 1차 권고: 심미부 단일 즉시 임플란트에서 협측 골판 보존이 critical하고 다른 옵션(결합조직이식 CTG·이종골)으로 부족할 때, 숙련 술자에 한해 고려.
@@ -32,7 +33,7 @@ tags: [overview, socket-shield, sst, immediate-implant, esthetic-zone, buccal-bo
 
 Synthesis of 17 wiki pages plus 4 abstract-level 2021–2025 reviews/RCTs on the Socket Shield Technique (SST) — leaving a buccal root fragment at immediate implant placement to preserve bundle bone and its PDL blood supply, countering the near-universal post-extraction buccal plate resorption.
 
-Pooled SR + RCTs converge on superior buccal-bone and pink-esthetic preservation vs conventional immediate placement (Oliva 2023 SR: BBPR 0.32 vs 1.05 mm, MBL 0.39 vs 1.00 mm, PES 12.08 vs 10.77, survival 98.6%; Atef 2021 RCT: buccal bone −0.28 vs −0.94 mm, mucosal recession 0.18 vs 0.52 mm); however, evidence is dominated by case reports and long-term (≥5-year) data are absent; shield-specific complications (exposure, fracture, migration) occur in 4–17% and restrict SST to experienced operators; an FEA study (Neves 2023) identifies the retained shield as the highest peri-implant stress concentrator.
+Pooled SR + RCTs converge on superior buccal-bone and pink-esthetic preservation vs conventional immediate placement (Oliva 2023 SR: BBPR 0.32 vs 1.05 mm, MBL 0.39 vs 1.00 mm, PES 12.08 vs 10.77, survival 98.6%; Atef 2021 RCT: buccal bone −0.28 vs −0.94 mm, mucosal recession 0.18 vs 0.52 mm; Durrani 2025 RCT n=24 at 36 months: MBL 1.40 vs 1.70 mm p=0.040, PES 10.50 vs 9.36 p=0.008, both 100% survival); however, evidence is dominated by case reports and long-term (≥5-year) data are absent; shield-specific complications (exposure, fracture, migration) occur in 4–17% and restrict SST to experienced operators; an FEA study (Neves 2023) identifies the retained shield as the highest peri-implant stress concentrator.
 
 SST is appropriate for esthetic-zone single immediate implants where buccal-plate preservation is critical and CTG/xenograft alternatives are insufficient: thin but intact buccal plate, no vertical fracture or active infection — not appropriate for operators without SST-specific training or rescue-plan capability; newer abstract-only evidence (Brazyte 2025 SR+MA, Gurbuz 2024 non-grafted RCT, Kotsakis 2022, Du Toit 2021) reinforces the direction of effect without overturning the quantitative anchors.
 
@@ -40,7 +41,7 @@ SST is appropriate for esthetic-zone single immediate implants where buccal-plat
 
 17개 위키 페이지 + 초록 수준 4편 — 소켓실드 기법(Socket Shield Technique, SST): 즉시식립 시 협측 치근 조각("실드")을 남겨 다발골(bundle bone)과 치주인대(PDL) 혈류를 보존함으로써 발치 후 협측골 흡수에 대응.
 
-SR+MA+RCT가 통상 즉시식립 대비 협측 골판·핑크 심미 보존 우월로 수렴(Oliva 2023 SR: 협측골 흡수(BBPR) 0.32 vs 1.05 mm, 변연골소실(MBL) 0.39 vs 1.00 mm, 핑크심미점수(PES) 12.08 vs 10.77, 생존 98.6%; Atef 2021 RCT: 협측골 −0.28 vs −0.94 mm); 그러나 근거 다수가 증례보고·장기(≥5년) 데이터 없음; 실드 특이 합병증(노출·파절·이동) 4–17%로 숙련자 한정; Neves 2023 FEA는 잔존 실드가 주위골 응력 최고 집중원임을 확인.
+SR+MA+RCT가 통상 즉시식립 대비 협측 골판·핑크 심미 보존 우월로 수렴(Oliva 2023 SR: 협측골 흡수(BBPR) 0.32 vs 1.05 mm, 변연골소실(MBL) 0.39 vs 1.00 mm, 핑크심미점수(PES) 12.08 vs 10.77, 생존 98.6%; Atef 2021 RCT: 협측골 −0.28 vs −0.94 mm; Durrani 2025 RCT n=24, 36mo: MBL 1.40 vs 1.70 mm p=0.040, PES 10.50 vs 9.36 p=0.008, 생존 100%); 그러나 근거 다수가 증례보고·장기(≥5년) 데이터 없음; 실드 특이 합병증(노출·파절·이동) 4–17%로 숙련자 한정; Neves 2023 FEA는 잔존 실드가 주위골 응력 최고 집중원임을 확인.
 
 SST 적응증: 심미부 단일 즉시식립에서 협측골 보존이 핵심이고 CTG/이종골 대안이 불충분할 때 — 얇지만 온전한 협측판, 수직파절·감염 없음; 비적응증: SST 경험 없는 술자, 구제 수단 없는 환경; 초록 수준 Brazyte 2025 SR+MA·Gurbuz 2024 비이식 RCT·Kotsakis 2022·Du Toit 2021은 효과 방향성 재확인(정량 anchor 미변경).
 
@@ -71,6 +72,7 @@ Covers all dedicated SST wiki pages under `wiki/immediate-implant/`. Buccal-plat
 | [[immediate-implant/socket-shield/velasco-bohorquez-2021-socket-shield-failure-mbl-pes-sr-ma]] | sr+ma | esthetic zone | Baseline triad: failure rate, MBL, PES all favor SST. |
 | [[immediate-implant/socket-shield/ogawa-2022-socket-shield-technique-systematic-review]] | sr | 20 studies / 288 pts, 3–60 mo | Complication 9.5%, complication-free survival 90.5%; 1 RCT / 2 cohort / 14 case reports / 3 retrospective. |
 | [[immediate-implant/socket-shield/atef-2021-socket-shield-xenograft-immediate-implant-rct]] | rct | esthetic zone, single implants | SST vs xenograft: buccal bone −0.28 vs −0.94 mm; recession 0.18 vs 0.52 mm. |
+| [[immediate-implant/socket-shield/durrani-2025-socket-shield-conventional-maxillary-rct]] | rct | n=24, 36mo, maxillary anterior | SST vs conventional IIP: MBL 1.40 vs 1.70 mm (p=0.040), PES 10.50 vs 9.36 (p=0.008); both groups 100% survival — 36-month direct comparison confirming MBL and esthetic superiority. |
 | [[immediate-implant/socket-shield/zhang-2026-socket-shield-orthodontic-premolar-rct]] | rct (paired) | n=26, ortho premolars | Indication expansion: ridge preservation in orthodontic extraction; within-patient design. |
 | [[immediate-implant/socket-shield/simuntis-2025-socket-shield-lower-molar-case]] | case-report | lower molar | Proof of principle posterior to the esthetic zone. |
 | [[immediate-implant/socket-shield/sharma-2022-socket-shield-technique-review-njms]] | narrative-review | 19 eligible studies | Direct SST-vs-conventional framing; esthetic/bone superiority + shield-specific complications. |
@@ -102,6 +104,9 @@ Patient-consent–ready numbers, strongest source first:
 | Implant survival | 98.6% (647/656) | — | — | Oliva 2023 (sr) |
 | Buccal bone change (RCT) | −0.28 mm | −0.94 mm (xenograft) | −0.66 mm | Atef 2021 (rct) |
 | Buccal mucosal recession (RCT) | 0.18 mm | 0.52 mm (xenograft) | −0.34 mm | Atef 2021 (rct) |
+| MBL at 36 mo (RCT) | SST 1.40 mm | Conventional IIP 1.70 mm | p=0.040 | Durrani 2025 (rct) |
+| PES at 36 mo (RCT) | SST 10.50 | Conventional IIP 9.36 | p=0.008 | Durrani 2025 (rct) |
+| Implant survival (RCT, 36 mo) | 100% | 100% | equivalent | Durrani 2025 (rct) |
 | Buccal bone mean diff (MA) | — | — | −0.5 mm favoring SST | Gharpure 2022 (sr+ma) |
 
 [확인] BBPR·MBL·PES 우월 방향은 Oliva 2023·Velasco 2021·Gharpure 2022·Atef 2021에서 일관 — direction of effect is robust.
@@ -177,10 +182,23 @@ Alternatives and trade-offs:
 - [[overviews/bone-regeneration-protocol-ladder]] — fallback when buccal plate is already lost.
 - [[bone-regeneration/ridge-preservation/couso-queiruga-2021-post-extraction-dimensional-changes-systematic]] — buccal-plate resorption biology motivating SST.
 - [[overviews/implant-placement-timing-immediate-early-delayed]] — placement-timing decision (immediate/early/delayed); SST is an immediate-placement variant.
-- All 17 SST pages — see Evidence Map above.
+- [[immediate-implant/socket-shield/durrani-2025-socket-shield-conventional-maxillary-rct]] — RCT (n=24, 36mo, maxillary anterior): SST vs conventional IIP — MBL 1.40 vs 1.70 mm (p=0.040), PES 10.50 vs 9.36 (p=0.008); both 100% survival; 2nd fully-ingested RCT for this overview.
+- All 18 SST pages — see Evidence Map above.
 
 ## Evidence Update — Socket Shield vs Conventional IIP: 27-Study SR+MA (Lu 2025)
 
 Lu 2025 (SR+MA, 27 studies including 13 Chinese-language RCTs previously omitted by Western meta-analyses, n=1307 implants) provides the largest SST evidence pool to date. SST significantly outperformed conventional immediate implant placement on buccal bone preservation: horizontal bone loss MD −0.50 mm, vertical bone loss MD −0.56 mm, PES improvement +1.25, and ISQ +5.83. Implant success was equivalent (RR 1.00, I²=0%). Advantages persisted across shield-height, shield-thickness, and grafting subgroups. The inclusion of Chinese-language literature meaningfully expanded the evidence base and strengthened precision. This is the highest-quality meta-analytic support for the SST to date, consistent with earlier findings in this overview but with substantially improved statistical precision.
 
 - [[immediate-implant/socket-shield/lu-2025-socket-shield-conventional-aesthetic-meta]] — 27-study SR+MA: SST bone preservation MD −0.50 mm horizontal, −0.56 mm vertical; PES +1.25; ISQ +5.83; success RR 1.00.
+
+## Evidence Update — SST vs Conventional IIP: 36-Month RCT (Durrani 2025)
+
+[[immediate-implant/socket-shield/durrani-2025-socket-shield-conventional-maxillary-rct]] — Parallel-arm RCT (n=24, 12 SST / 12 conventional), Type I intact maxillary sockets, 36-month follow-up. SST outperformed conventional IIP at every time point:
+
+| Outcome | SST (36 mo) | Conventional (36 mo) | p |
+|---|---|---|---|
+| MBL (mm) | 1.40 ± 0.29 | 1.70 ± 0.36 | 0.040 |
+| PES | 10.50 ± 0.90 | 9.36 ± 0.98 | 0.008 |
+| Survival | 100% | 100% | — |
+
+The SST advantage was sustained — not diminishing — over 3 years (MBL gap 0.34 mm at 8 months, 0.30 mm at 36 months; PES gap ~1.0–1.1 points throughout). This extends the longest single RCT follow-up for SST vs conventional IIP to 36 months in Type I sockets and independently corroborates the Lu 2025 MA direction. Limitations: small n, single center (India), Type I sockets only, short provisional phase (8 months before final crown), blinding not described.
