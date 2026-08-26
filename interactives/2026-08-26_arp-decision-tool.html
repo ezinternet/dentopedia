@@ -1,0 +1,256 @@
+<!--
+---
+title: "발치와 보존(ARP) 결정 도구 — 할까 말까 · 얼마나 잃나"
+type: interactive
+date: 2026-08-26
+status: done
+category: bone-regeneration
+source_wiki:
+  - wiki/overviews/bone-regeneration-protocol-ladder.md
+agenda: agenda/2026-08-26_arp-decision-tool.md
+---
+-->
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>발치와 보존(ARP) 결정 도구</title>
+<style>
+:root{--bg:#F2F3EF;--surface:#FFFFFF;--text:#1A2030;--muted:#5A6472;--line:#DDE0D8;
+ --accent:#1E6B52;--accent-soft:#E4F0EA;--warn-bg:#FDF3E4;--warn-line:#C77E1E;
+ --stop-bg:#FBEAEA;--stop-line:#B03A3A;--info-bg:#E8F0FA;--info-line:#2F5FA5}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans KR",sans-serif;
+ background:var(--bg);color:var(--text);line-height:1.65;font-size:15px;padding-bottom:60px}
+.wrap{max-width:1000px;margin:0 auto;padding:18px}
+header.hero{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:20px 22px;margin-bottom:16px}
+header.hero h1{font-size:21px;margin-bottom:6px}
+header.hero .sub{color:var(--muted);font-size:13px}
+.pillrow{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px}
+.pill{font-size:12px;background:var(--accent-soft);color:var(--accent);border-radius:999px;padding:2px 10px;font-weight:600}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:18px 20px;margin-bottom:14px}
+.card h2{font-size:17px;margin-bottom:6px}.card h3{font-size:15px;margin:14px 0 6px}
+.axis{border-left:5px solid var(--accent);padding-left:14px}
+.lede{color:var(--muted);font-size:13.5px;margin-bottom:10px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(235px,1fr));gap:12px}
+.field label{display:block;font-weight:700;font-size:13.5px;margin-bottom:5px}
+.opt{display:flex;gap:6px;flex-wrap:wrap}
+.opt button{border:1px solid var(--line);background:var(--bg);border-radius:9px;padding:7px 11px;
+ cursor:pointer;font-size:13px;font-weight:600;color:var(--text);font-family:inherit}
+.opt button.on{background:var(--accent-soft);border-color:var(--accent);color:var(--accent)}
+.res{border-radius:11px;padding:13px 15px;margin:9px 0;border:2px solid}
+.r-go{background:var(--accent-soft);border-color:var(--accent)}
+.r-mid{background:var(--warn-bg);border-color:var(--warn-line)}
+.r-stop{background:var(--stop-bg);border-color:var(--stop-line)}
+.r-info{background:var(--info-bg);border-color:var(--info-line)}
+.res b.hd{display:block;font-size:16px;margin-bottom:4px}
+.bars{margin:14px 0}
+.barrow{margin:12px 0}
+.barlab{display:flex;justify-content:space-between;font-size:13.5px;font-weight:700;margin-bottom:4px}
+.bartrack{height:30px;background:var(--bg);border:1px solid var(--line);border-radius:7px;position:relative;overflow:hidden}
+.barfill{height:100%;display:flex;align-items:center;justify-content:flex-end;padding-right:9px;
+ font-size:12.5px;font-weight:800;color:#fff;transition:width .25s}
+.b-nat{background:var(--stop-line)}.b-arp{background:var(--accent)}
+.barscale{display:flex;justify-content:space-between;font-size:11.5px;color:var(--muted);margin-top:3px}
+.delta{background:var(--accent-soft);border:2px solid var(--accent);border-radius:11px;padding:12px 14px;margin:10px 0;font-size:14.5px}
+.warn{background:var(--warn-bg);border:1px solid var(--warn-line);border-radius:11px;padding:11px 13px;margin:9px 0}
+.info{background:var(--info-bg);border:1px solid var(--info-line);border-radius:11px;padding:11px 13px;margin:9px 0}
+.stop{background:var(--stop-bg);border:1px solid var(--stop-line);border-radius:11px;padding:11px 13px;margin:9px 0}
+table{width:100%;border-collapse:collapse;margin:9px 0;font-size:13.5px}
+th{background:var(--bg);text-align:left}th,td{border:1px solid var(--line);padding:7px 10px;vertical-align:top}
+ol,ul{padding-left:22px;margin:6px 0}li{margin:4px 0}
+.small{font-size:12.5px;color:var(--muted)}.cite{font-size:11.5px;color:var(--muted)}
+.tools{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:11px;margin-top:8px}
+.tool{border:1px solid var(--line);border-left:5px solid var(--info-line);border-radius:11px;padding:12px 14px;
+ background:var(--surface);text-decoration:none;color:inherit;display:block}
+.tool:hover{background:var(--bg)}
+.tool b{display:block;font-size:14px;margin-bottom:3px}.tool span{font-size:12.5px;color:var(--muted)}
+.tool.hot{border-left-color:var(--accent);background:var(--accent-soft)}
+footer{text-align:center;color:var(--muted);font-size:12px;margin-top:24px}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header class="hero">
+  <h1>발치와 보존(ARP) 결정</h1>
+  <div class="sub">할까 말까 → 안 하면 얼마나 잃나 → 무엇으로. <code>wiki/overviews/bone-regeneration-protocol-ladder</code>의 상류 결정판.</div>
+  <div class="pillrow"><span class="pill">자연 치유 baseline</span><span class="pill">ARP 효과 크기</span>
+    <span class="pill">재료 선택</span><span class="pill">판막·막·seal</span></div>
+</header>
+
+<div class="card">
+  <h2>케이스 입력</h2>
+  <div class="grid">
+    <div class="field"><label>발치 후 계획</label><div class="opt" id="oPlan">
+      <button data-v="impl" class="on">임플란트 예정</button><button data-v="pros">고정성·의치</button><button data-v="none">미정</button></div></div>
+    <div class="field"><label>즉시식립 가능?</label><div class="opt" id="oIip">
+      <button data-v="no" class="on">불가</button><button data-v="yes">가능 (협측 온전 + 1차 안정성)</button></div></div>
+    <div class="field"><label>협측골</label><div class="opt" id="oBuccal">
+      <button data-v="intact" class="on">온전 (4벽)</button><button data-v="d12">1–2벽 결손</button><button data-v="d3">결손 ≥3mm</button></div></div>
+    <div class="field"><label>협측 두께 BBT</label><div class="opt" id="oBbt">
+      <button data-v="ge1" class="on">≥1mm</button><button data-v="lt1">&lt;1mm (얇음)</button></div></div>
+    <div class="field"><label>심미 부위</label><div class="opt" id="oEsth">
+      <button data-v="yes" class="on">예</button><button data-v="no">아니오</button></div></div>
+    <div class="field"><label>발치 범위</label><div class="opt" id="oCount">
+      <button data-v="few" class="on">1–2개</button><button data-v="many">다수 (인접 영향)</button></div></div>
+    <div class="field"><label>비용 민감도</label><div class="opt" id="oCost">
+      <button data-v="std" class="on">표준</button><button data-v="tight">민감</button></div></div>
+    <div class="field"><label>자가치아 활용</label><div class="opt" id="oTooth">
+      <button data-v="no" class="on">불가·미동의</button><button data-v="yes">가능 (즉시 처리 + 동의)</button></div></div>
+  </div>
+</div>
+
+<div class="card"><div class="axis"><h2>① 할까 말까</h2><div id="verdict"></div></div></div>
+
+<div class="card"><div class="axis"><h2>② 안 하면 얼마나 잃나 — 6개월 후</h2>
+  <p class="lede">발치 후 6개월 자연 치유의 손실은 <b>수평이 수직보다 훨씬 크다</b>. 임플란트 계획에서 가장 먼저 부족해지는 것이 폭이다.</p>
+  <div class="bars">
+    <div class="barrow"><div class="barlab"><span>수평 폭 — 자연 치유</span><span id="hNatV"></span></div>
+      <div class="bartrack"><div class="barfill b-nat" id="hNat"></div></div></div>
+    <div class="barrow"><div class="barlab"><span>수평 폭 — ARP 시행</span><span id="hArpV"></span></div>
+      <div class="bartrack"><div class="barfill b-arp" id="hArp"></div></div></div>
+    <div class="barscale"><span>0</span><span>2mm</span><span>4mm</span><span>5mm</span></div>
+  </div>
+  <div class="delta" id="delta"></div>
+  <div class="info"><b>수직 협측 높이</b> — 자연 치유 <b>−1.24~1.67mm</b>. 수평(−3.79mm)의 절반 이하다. 즉 <b>세로보다 가로가 먼저 무너진다</b>. <span class="cite">[확인]</span></div>
+  <div id="bbtNote"></div>
+</div></div>
+
+<div class="card"><div class="axis"><h2>③ 무엇으로 — 이식재</h2><div id="material"></div></div></div>
+<div class="card"><div class="axis"><h2>④ 판막 · 막 · 연조직 seal</h2><div id="flap"></div></div></div>
+
+<div class="card">
+  <h2>국내 가용성 · 비용</h2>
+  <div class="warn"><b>아래는 국내 시장 정보로 시세가 변동한다.</b> 임상 근거가 아니라 조달·상담용 참고값이며, 실제 견적은 현재 단가로 확인한다.</div>
+  <table>
+    <tr><th>재료</th><th>국내 상황</th><th>참고 비용</th></tr>
+    <tr><td><b>Bio-Oss</b> (DBBM, Geistlich)</td><td>정식 수입. 근거 가장 풍부</td><td>1.0g 약 25–30만원</td></tr>
+    <tr><td><b>β-TCP</b> (KoreaBone·OsteoOn 등)</td><td>국산, 가용성 좋음. 근거 다소 약함</td><td>Bio-Oss의 약 1/3</td></tr>
+    <tr><td><b>자가치아입자</b> (APDM)</td><td>Smart Dentin Grinder로 chairside 처리. <b>환자 동의 + 발치 치아 즉시 처리</b>가 전제</td><td>처리 장비 의존</td></tr>
+    <tr><td><b>동종골</b> (DemBone)</td><td>미국 근거 풍부하나 국내 가용성·수입비용·종교적 이슈로 제한적</td><td>—</td></tr>
+    <tr><td><b>Cytoplast dPTFE</b></td><td>정식 수입</td><td>1매 약 8–12만원</td></tr>
+  </table>
+</div>
+
+<div class="card">
+  <h2>더 깊이 — 전문 도구</h2>
+  <p class="lede">이 도구는 <b>상류 결정</b>(할까 말까·얼마나 잃나)만 본다. 재료 비교와 GBR 패턴은 전용 도구가 있다.</p>
+  <div class="tools" id="tools">
+    <a class="tool" data-k="mat" href="2026-08-17_arp-material-histology-matrix.html"><b>ARP 재료별 조직형태학 비교</b><span>축3 — 재료 head-to-head</span></a>
+    <a class="tool" data-k="gbr" href="2026-06-28_gbr-6panel-classification.html"><b>GBR 6패널 분류</b><span>축4 — 결손 형태별 GBR 설계</span></a>
+    <a class="tool" data-k="iip" href="2026-08-26_immediate-implant-decision-tool.html"><b>즉시식립 5축 결정 도구</b><span>즉시식립이 가능한 케이스</span></a>
+    <a class="tool" data-k="sin" href="2026-06-12_sinus-perforation-risk-calculator.html"><b>상악동 천공 위험 계산기</b><span>상악 구치부 발치·거상</span></a>
+  </div>
+</div>
+
+<footer>
+  근거: <code>wiki/overviews/bone-regeneration-protocol-ladder</code> 및 그 spine 논문.
+  자연 치유 −3.79mm 수평 / −1.24~1.67mm 수직 · ARP 수평 흡수 1.86~2.19mm 감소.<br>임상 판단을 대체하지 않는다.
+</footer>
+</div>
+
+<script>
+(function(){
+  var S={plan:"impl",iip:"no",buccal:"intact",bbt:"ge1",esth:"yes",count:"few",cost:"std",tooth:"no"};
+  function optInit(id,k){var el=document.getElementById(id);
+    el.querySelectorAll("button").forEach(function(b){b.addEventListener("click",function(){
+      el.querySelectorAll("button").forEach(function(x){x.classList.remove("on");});
+      b.classList.add("on");S[k]=b.dataset.v;render();});});}
+  ["oPlan:plan","oIip:iip","oBuccal:buccal","oBbt:bbt","oEsth:esth","oCount:count","oCost:cost","oTooth:tooth"]
+    .forEach(function(p){var a=p.split(":");optInit(a[0],a[1]);});
+  function box(c,h,b){return '<div class="res '+c+'"><b class="hd">'+h+'</b>'+b+'</div>';}
+
+  var NAT_H=3.79, ARP_GAIN_LO=1.86, ARP_GAIN_HI=2.19, SCALE=5;
+
+  function render(){
+    // ── ① 할까 말까 (오버뷰 축2 사다리) ──
+    var V=[];
+    if(S.iip==="yes"){
+      V.push(box("r-info","즉시식립이 가능하면 ARP는 대상이 아니다",
+        "협측골 온전 + 1차 안정성 확보가 가능하다면 발치와 보존이 아니라 <b>즉시식립</b> 경로다. 아래 전용 도구로 넘어간다."));
+    } else if(S.plan==="impl"){
+      var extra = (S.buccal==="d3" && S.esth==="yes")
+        ? " 협측 결손 ≥3mm + 심미부위이므로 <b>ARP + 연조직 seal(FGG 또는 CTG)</b>을 함께 계획한다."
+        : "";
+      V.push(box("r-go","ARP 시행",
+        "즉시식립이 불가하고 4–6개월 뒤 임플란트를 계획한다면 <b>발치와 보존을 한다</b>. 자연 치유만으로는 <b>수평 폭이 가장 흔히 부족해진다</b>."+extra));
+    } else if(S.plan==="pros"){
+      V.push(box(S.esth==="yes"?"r-mid":"r-info", S.esth==="yes"?"ARP 권장 (심미부위)":"ARP 선택적",
+        "임플란트 계획이 없고 고정성 보철·의치로 간다면 ARP는 <b>선택</b>이다."+
+        (S.esth==="yes"?" 다만 <b>심미부위는 권장</b>한다 — 폰틱 부위 함몰이 보철 심미를 직접 깎는다.":"")));
+    } else {
+      V.push(box("r-mid","계획 미정 — 보존 쪽이 안전하다",
+        "나중에 임플란트로 방향이 잡힐 가능성이 있다면, 잃고 나서 되돌리는 비용이 지금 보존하는 비용보다 크다. 아래 손실량을 보고 판단한다."));
+    }
+    if(S.buccal==="d3")
+      V.push('<div class="warn"><b>협측 결손 ≥3mm</b> — 단순 ARP를 넘어 GBR 원칙(벽 재건)이 필요한 영역이다. 결손 형태별 설계는 GBR 6패널 도구로 넘긴다.</div>');
+    document.getElementById("verdict").innerHTML=V.join("");
+
+    // ── ② 손실량 막대 ──
+    var natH=NAT_H, arpLo=NAT_H-ARP_GAIN_HI, arpHi=NAT_H-ARP_GAIN_LO;
+    document.getElementById("hNat").style.width=(natH/SCALE*100)+"%";
+    document.getElementById("hNat").textContent="−"+natH.toFixed(2)+"mm";
+    document.getElementById("hNatV").textContent="−"+natH.toFixed(2)+"mm";
+    var mid=(arpLo+arpHi)/2;
+    document.getElementById("hArp").style.width=(mid/SCALE*100)+"%";
+    document.getElementById("hArp").textContent="−"+arpLo.toFixed(2)+"~"+arpHi.toFixed(2)+"mm";
+    document.getElementById("hArpV").textContent="−"+arpLo.toFixed(2)+"~"+arpHi.toFixed(2)+"mm";
+    document.getElementById("delta").innerHTML=
+      "<b>ARP로 지키는 폭: 약 "+ARP_GAIN_LO.toFixed(2)+"~"+ARP_GAIN_HI.toFixed(2)+"mm</b> — "+
+      "자연 치유 6개월 수평 −"+natH.toFixed(2)+"mm(가중평균)에서 −"+arpLo.toFixed(2)+"~"+arpHi.toFixed(2)+"mm로 줄어든다. "+
+      "<span class='cite'>[확인]</span>";
+    document.getElementById("bbtNote").innerHTML = (S.bbt==="lt1")
+      ? '<div class="stop"><b>협측 두께 &lt;1mm — 위 수치보다 더 잃는다.</b> 얇은 협측골 부위에서 손실이 더 크다는 것이 확인된 소견이다. 이 케이스에서 ARP를 생략하면 임플란트 시점에 <b>수평 증대가 거의 확정</b>이라고 보는 편이 안전하다. <span class="cite">[확인]</span></div>'
+      : '';
+
+    // ── ③ 재료 (오버뷰 축3 사다리) ──
+    var M=[];
+    if(S.tooth==="yes"){
+      M.push(box("r-go","자가치아입자 (APDM) 우선 검토",
+        "발치한 치아를 <b>즉시 처리</b>(Smart Dentin Grinder 등)할 수 있고 환자 동의가 있다면 우수한 선택이다. Feng 2024 SR+MA에서 <b>DBBM과 대등</b>. 재료비 부담이 없고 자가 조직이라는 설명이 환자에게 강하다."));
+      M.push('<div class="info">동의·즉시 처리 조건이 하나라도 빠지면 아래 DBBM 경로로 간다.</div>');
+    }
+    if(S.cost==="tight"){
+      M.push(box("r-mid","β-TCP + 콜라겐 막 (비용 민감)",
+        "국산 β-TCP(KoreaBone·OsteoOn 등)는 Bio-Oss의 약 1/3 비용이다. 다만 <b>근거는 다소 약하고 흡수가 가변적</b>이다 — 심미부위나 결손이 큰 케이스에서는 DBBM을 권한다."));
+    } else {
+      M.push(box("r-go","DBBM(Bio-Oss) + 콜라겐 막 — 1차 선택",
+        "이종골 + 콜라겐 막이 <b>근거가 가장 풍부</b>하고 국내 가용성도 좋다. 자가골은 이종골 대비 임상 결과 차이가 미미하다."));
+    }
+    M.push('<div class="info"><b>자가골 mix</b> — 같은 부위 osteotomy나 다른 부위 chip으로 자가골을 얻을 수 있으면 이종골과 섞는다. <b>동종골</b>(DemBone)은 미국 근거는 풍부하나 국내 가용성·비용·종교적 이슈로 선택이 제한된다.</div>');
+    document.getElementById("material").innerHTML=M.join("");
+
+    // ── ④ 판막·막·seal (오버뷰 축4 사다리) ──
+    var F=[];
+    if(S.count==="many"){
+      F.push(box("r-mid","판막 거상 + GBR 원칙 (다수 발치)",
+        "인접 치아 영향이 우려되는 다수 발치는 판막을 들고 <b>4벽 재건(GBR principle)</b>으로 접근한다."));
+    } else if(S.buccal==="intact"){
+      F.push(box("r-go","무피판 + Bio-Col 프로토콜",
+        "1–2개 발치 + 협측골 온전(4벽)이면 판막 없이 <b>DBBM + 콜라겐 막 위치</b>로 충분하다. <b>1차 봉합 불요.</b>"));
+    } else if(S.buccal==="d12"){
+      F.push(box("r-mid","판막 거상 + DBBM + dPTFE 막",
+        "협측 1–2벽 결손이면 판막을 들고 dPTFE(Cytoplast) 막을 쓴다. <b>4–6주 후 제거가 전제</b>다."));
+    } else {
+      F.push(box("r-stop","판막 + DBBM + dPTFE + 연조직 seal",
+        "협측 결손 ≥3mm"+(S.esth==="yes"?" + 심미부위":"")+" — 판막 거상 + dPTFE 막에 더해 <b>FGG 또는 CTG로 연조직 seal</b>을 추가한다."));
+    }
+    F.push('<div class="stop"><b>오판 패턴 — "막이 노출되면 실패"</b> ✗ <b>dPTFE는 애초에 노출을 전제로 설계된 막</b>이다. 노출돼도 작동하며 4–6주 후 제거하면 된다. 반대로 <b>콜라겐 막은 노출되면 빠르게 분해</b>되므로 1차 봉합 또는 punch graft seal이 필요하다. <span class="cite">[확인]</span></div>');
+    document.getElementById("flap").innerHTML=F.join("");
+
+    // ── 라우팅 ──
+    var hot=[];
+    if(S.iip==="yes") hot.push("iip");
+    if(S.buccal==="d3"||S.count==="many") hot.push("gbr");
+    if(S.cost==="tight"||S.tooth==="yes") hot.push("mat");
+    document.querySelectorAll("#tools .tool").forEach(function(t){
+      t.classList.toggle("hot",hot.indexOf(t.dataset.k)>=0);});
+  }
+  render();
+})();
+</script>
+</body>
+</html>
