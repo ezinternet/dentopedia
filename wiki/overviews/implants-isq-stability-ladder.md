@@ -159,6 +159,9 @@ ISQ와 삽입토크(IT)는 보완 지표(상관 r=0.44, I²>90%, Tisci 2026 SR+M
 - [[implants/isq/ceddia-2025-finite-element-analysis-of-implant]] — FEA(체외 D2/D3 폴리우레탄 대조 오차 ≤2.86%); 0°→20° 경사 시 ISQ 소폭 증가 (60.96→61.10 D2), 피질골 응력 55→68 MPa — 소성변형 임계(130 MPa) 미달; 경사 식립이 ISQ ladder를 바꾸지는 않으나 안전 여유는 감소.
 - [[implants/isq/rosasdiaz-2024-insertion-compression-primary-stability]] — 언더밀링(0.2/0.5/0.8 mm 압박) 적극적 증가 시 IT 25→63 Ncm (p<.001), ISQ 변화 없음 (67.6 vs 65.7, p=0.166); 직경 27%·길이 12% 설명 — **압박 프로토콜에서 높은 IT는 ISQ 대리지표가 아니다**.
 
+**AI 보조 ISQ 예측 (AI-assisted stability assessment)**
+- [[artificial-intelligence/cao-2026-deep-learning-rfa-isq]] — Proof-of-concept: 2-stage deep learning (denoising CNN + metadata-aware ISQ prediction) applied to raw Osstell RFA waveforms (n=100 implants, single center). SNR 12.3→22.8 dB (+85% noise reduction); ISQ prediction MAE 1.85 vs traditional 2.65, R² 0.91 vs 0.83, ±3 ISQ tolerance accuracy 92% vs 77%. Incorporates bone density (Lekholm-Zarb I–IV) and insertion torque as metadata inputs. **Limitation**: simulated noise, no clinical outcome linkage, single center — clinical readiness not established.
+
 ## Phase 2 확장 후보 (Stub)
 
 - [ ] `wiki/overviews/isq-clinical-protocol-detailed.md` — 측정 SOP·4-direction protocol·재측정 기준 깊이.
