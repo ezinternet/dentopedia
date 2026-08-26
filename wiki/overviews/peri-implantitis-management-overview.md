@@ -17,7 +17,7 @@ tags: [peri-implantitis, peri-implant-mucositis, prevalence, decontamination, GB
 
 > [!summary] 한국어 핵심요약
 > - 임플란트주위염 (Peri-implantitis) 10편을 역학·예방·치료·보철해부학적 위험인자로 종합한 페이지로, 임플란트 기능의 장기 최대 위협을 다룬다.
-> - 유병률: 환자 단위 19.53% (95% CI 12.87–26.19), 임플란트 단위 12.53% — 진단 기준 (탐침깊이 PD 임계값) 이 유병률 산포를 좌우하지 생물학 자체는 아니며, 기능 기간과 유의 연관 없음 (Diaz 2022 SR+MA 57편). [확인]
+> - 유병률: **Reis 2025** (2017 세계 워크숍 기준 전용, SR+MA 20편) — 점막염 63.0%·임플란트주위염 25.0% (환자 수준); 비흡연자 임플란트주위염 5.2% (임플란트 수준). Diaz 2022 (57편, 혼합정의)의 19.53%보다 높은 이유는 2017 WW 기준이 더 포괄적이기 때문 — 진단 기준이 유병률 산포의 최대 결정인자임을 재확인. [확인]
 > - 1차 예방의 핵심 전략 메시지: 임플란트주위 점막염 (Peri-implant Mucositis) 관리가 곧 임플란트주위염의 1차 예방 — 점막염은 가역적, 임플란트주위염은 비가역적 (Jepsen 2015).
 > - 탐침시출혈 (Bleeding on Probing, BoP) 이 건강 vs 염증을 구분하는 1차 임상 징후이고, 정기 지지치료 (SPT) 부재가 진행 위험을 높인다.
 > - 점막염 관리: 전문가 기계적 치면세균막 제거 (PMPR) 가 gold standard이며, 보조제 (CHX·국소 항생제·NaOCl·프로바이오틱스) 는 PMPR 단독 대비 일관된 추가 이득 없음 (Mauriello 2026). [확인]
@@ -100,16 +100,24 @@ Three papers, read together, trace a mechanistic arc from the disease's foundati
 
 ## Prevalence
 
-**Diaz 2022 (SR+MA, 57 studies):**
+**Reis 2025 (SR+MA, 20 studies — first SR+MA restricted to 2017 World Workshop criteria):**
+- Peri-implant mucositis: **63.0% patient-level** (CI 57.6–68.2%); 59.2% implant-level
+- Peri-implantitis: **25.0% patient-level** (CI 21.1–29.3%); 18.0% implant-level
+- Non-smoker implant-level: mucositis 38.2%, peri-implantitis 5.2% — markedly lower than the overall estimate
+- Continental variation: significant for both diseases (p<0.05)
+- The higher mucositis estimate vs earlier reports (43% from Derks & Tomasi 2015) reflects the 2017 WW criteria's broader mucositis inclusion; the peri-implantitis estimate (25%) is higher than Diaz 2022 (19.53%) and Jepsen/Derks (22%), likely due to strict standardized case definition application
+- Risk of bias: 50% high — prevalence figures remain imprecise but this is the most internally consistent current estimate [확인]
+
+**Diaz 2022 (SR+MA, 57 studies — mixed definitions):**
 - Patient-level: 19.53% (95% CI 12.87–26.19)
 - Implant-level: 12.53% (95% CI 11.67–13.39)
 - Definition dependence: PD threshold increases prevalence (24.69% with PD criterion vs 17.56% without; NS difference — diagnostic criteria, not biology, drive the spread)
 - Function time: not significantly associated with prevalence (p=0.82 patient-level) [확인]
 
-**Jepsen 2015 (European Workshop consensus):**
+**Jepsen 2015 (European Workshop consensus, citing Derks & Tomasi 2015):**
 - Mucositis (점막염): weighted mean 43% (CI 32–54%)
 - Peri-implantitis: 22% (CI 14–30%)
-- Note: older pooled estimates; Diaz 2022 is the more current meta-analytic value [확인]
+- Note: older pooled estimates using mixed definitions; Derks & Tomasi 2015 is fully superseded by Reis 2025 for prevalence estimates (Reis applies the standardized 2017 WW criteria that Derks 2015 itself called for). [확인]
 
 **Sbricoli 2026 (cross-sectional, 70 subjects/227 implants; 35 T2DM vs 35 non-DM) — diabetes as a prevalence modifier:**
 - No statistically significant difference in peri-implant disease (80% vs 77%, p=0.99), mucositis (51% vs 63%, p=0.47), or peri-implantitis (51% vs 43%, p=0.63) between well-controlled T2DM and non-diabetic patients, at either subject or implant level (implant-level peri-implantitis 34% vs 35%, p=0.91)
@@ -331,7 +339,8 @@ Screw vs cement retention choice: clinically neutral on MBL — decide on retrie
 
 ## Related Pages
 
-- [[implants/peri-implantitis/diaz-2022-what-is-the-prevalence]] — prevalence SR+MA
+- [[implants/peri-implantitis/reis-2025-peri-implant-disease-prevalence-world-workshop-criteria]] — prevalence SR+MA (20 studies, 2017 WW criteria only): mucositis 63%, peri-implantitis 25% patient-level; non-smoker PI 5.2% implant-level; supersedes Derks 2015 for prevalence estimates
+- [[implants/peri-implantitis/diaz-2022-what-is-the-prevalence]] — prevalence SR+MA (57 studies, mixed definitions)
 - [[implants/peri-implantitis/jepsen-2015-primary-prevention-periimplantitis-managing-mucositis]] — mucositis = primary prevention, European consensus
 - [[implants/peri-implantitis/baima-2022-surface-decontamination-protocols-surgical-periimplantitis]] — decontamination SR+MA
 - [[implants/peri-implantitis/mauriello-2026-peri-implant-mucositis-adjunctive-narrative-review]] — adjunctive therapy for mucositis
