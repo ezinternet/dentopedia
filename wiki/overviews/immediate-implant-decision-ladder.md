@@ -26,6 +26,7 @@ tags: [immediate-implant, type-1, iipp, socket-shield, esthetic-zone, loading, d
 > - Loading 결정은 timing 자체가 아니라 1차 안정성이 핵심: immediate loading(≤72h)은 ≥35 Ncm+단일치+교합 비기능, early(1–8w)는 25–35 Ncm+ISQ ≥70, conventional은 <25 Ncm+GBR 동반.
 > - 구치부 IIP: 생존율 ≥97%, 지연식립과 동등. 치근간 중격(inter-radicular septum) 활용+1차 안정성이 결정 변수. 6주 조기부하 가능(Botros 2025). 중격 골량 부족 시 골밀도화(Osseodensification, OD)로 확장.
 > - 치근단 병변(periapical pathology) socket도 적극 debridement+술전 amoxicillin 2g 동반 시 비감염치와 동등(Pranckeviciene 2024) — "병변 있으면 무조건 ARP"는 오판.
+> - 이중축 복잡도 분류(Liu 2025 후향, n=53): 수술 파라미터 4개 × 보철 파라미터 4개 → High×High 생존 80%, Low×Low 100% — 식립 전 복잡도 채점이 outcome 예측인자; 두 축 모두 High이면 전문가·병원급 환경 필수.
 > - 1차 안정성 술식: 발치와에서 축경 드릴링(undersized drilling, UD)은 즉시식립 1차 안정성을 유의하게 못 올린다 — UD가 삽입토크(Insertion Torque, IT)는 약간↑(41.4 vs 38.4 Ncm, NS)지만 공명주파수분석(Resonance Frequency Analysis, RFA)·임플란트 안정성 지수(Implant Stability Quotient, ISQ)는 오히려 통상군이 모든 시점 우위(Sierra-Rebolledo 2021 RCT) → IT와 ISQ는 호환 surrogate 아님.
 > - 낮은/없는 1차 안정성도 절대 금기 아님: 무피판 즉시 SLA 16개(IT<10 Ncm·초기 ISQ<55, 6개는 회전)가 ISQ 42.2→68.7 상승·평균 65개월 생존 100%(Jang 2025) — "ISQ 절대값보다 상승 궤적이 중요", 축경 드릴+골이식+치유기간 연장으로 2차 안정성이 보상.
 > - 부위별 즉시식립 생존(tapered SLA 골수준): 5년 누적 93.9% — 하악 전 부위·상하악 소구치 100%, 상악 전치 최저(85.4%), 실패 3건 전부 상악동 병변 연관(Aung 2024) → 상악동 병변 socket은 지연식립+거상.
@@ -112,10 +113,13 @@ CBCT로 치근 시상 위치(Sagittal Root Position, SRP) 분류, 구개측 ≥2
 | [[immediate-implant/gap-grafting/meijer-2024-immediate-implant-bony-defect-10year-rct]] | rct (10y, n=40) | 협측 결손 ≥5 mm — IIP + GBR + 지연 provisionalization vs ARP 후 지연식립 10y 동등 |
 | [[immediate-implant/esthetic-soft-tissue/nassani-2025-immediate-vs-delayed-implant-bony-defect-commentary]] | rct commentary | Meijer 2024 EBD commentary — 10y 임상가 적용 시 caveat (술자 숙련) |
 | [[immediate-implant/ickroth-2025-immediate-implant-intact-nonintact-sockets]] | sr (20편 525 implant) | BBT 온전 1.10-3.18mm vs 비온전 1.18-3.00mm. 생존 ≥90% 모두 |
+| [[immediate-implant/liu-2025-iip-iipp-classification-surgical-restorative]] | retrospective (n=53) | 이중축 복잡도 분류 — 수술 4 파라미터 × 보철 4 파라미터 → 9계층; High×High 생존 80% vs Low×Low 100%; 식립 전 복잡도 채점이 outcome 예측인자 |
 | [[immediate-implant/infected-socket/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] | sr+ma | Periapical 병변 socket IIP — 적절한 debridement·항생제 동반 시 비감염치 동등 |
 | [[immediate-implant/esthetic-soft-tissue/qian-2023-iip-buccal-bone-dehiscence-anterior-maxilla]] | prospective (1y) | 협측 골열개 + 적절한 GBR → 임상·방사선·심미 수용 가능 |
 | [[immediate-implant/aung-2024-tapered-sla-immediate-implant-survival]] | retrospective (49 imp, 7.4y) | 부위별 5y 생존 — 하악·소구치 100%, 상악 전치 85.4% 최저; 실패 3건 모두 상악동 병변 |
 | [[immediate-implant/anatomic-assessment/najm-2024-immediate-implant-premolar-perforation-cbct]] | cross-sectional (716 premolars CBCT) | 소구치 IIP 천공 — 보철주도 84.1% vs 골주도 40.5%; 회피에 평균 18.3° 순측경사 |
+
+**보강 근거 — 이중축 복잡도 분류(Liu 2025).** IIP/IIPP case selection에 수술 복잡도와 보철 복잡도를 별개 축으로 채점하는 방법이 있다. Liu 2025(단일기관 후향, n=53)는 4개 수술 파라미터(협측골 두께·잔존골 높이·socket 감염·식립 위치) × 4개 보철 파라미터(악간 공간·교합 부하·심미 요구·보철 범위) 조합으로 Low/Mod/High 각 축 등급을 정해 9계층(Low×Low ~ High×High)을 분류했다. High×High(수술·보철 모두 고난이도) 생존율 80%, Low×Low 100% — 복잡도 사전 채점이 outcome 예측인자가 됨을 보였다. → **임상 함의**: 술전 CBCT 기반 복잡도 이중축 평가를 routine으로 할 경우, 두 축 모두 High인 케이스는 고숙련자·전공 의뢰·병원급 환경이 전제 조건이다. [확인]
 
 **임상 ladder (site 결정)**:
 1. **Ideal IIP site** — 협측 plate ≥ 1mm intact + 4벽 socket + 잔존 골 길이 ≥ 5mm (apex 아래).
@@ -241,6 +245,10 @@ CBCT로 치근 시상 위치(Sagittal Root Position, SRP) 분류, 구개측 ≥2
 - Type 1 IIP — 환자 동의 시 보험 적용 (single-tooth). 다중 IIP·CTG·GBR add-on은 환자 부담.
 
 ## Related Papers
+
+### 신규 추가 (2026-08-27)
+
+- [[immediate-implant/liu-2025-iip-iipp-classification-surgical-restorative]] — 후향 (n=53): 수술 4×보철 4 이중축 복잡도 분류 9계층; High×High 생존 80% vs Low×Low 100% (축 2 site selection)
 
 ### 신규 추가 (2026-06)
 
