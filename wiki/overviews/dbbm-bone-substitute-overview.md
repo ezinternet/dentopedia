@@ -286,3 +286,18 @@ Because bovine xenograft does not meaningfully resorb (Axis 1) and can trigger l
 - [[bone-regeneration/sousa-2026-distinct-healing-dynamics-xenograft]] — Animal (54 rats): two collagen-containing bovine xenografts of the same clinical category show significantly different new bone formation and BV/TV — product composition matters within a nominal category (Axis 10)
 - [[bone-regeneration/wang-2025-porcine-bovine-xenograft-msfa-arp-sr-ma]] — SR+MA (10 studies, 452 sites): PBX = BBX in NFB (WMD=1.5, p=0.321) and all secondary histomorphometric/radiographic outcomes across MSFA and ARP → PBX is clinically equivalent to BBX; SR+MA-level evidence for bovine-restricted settings (Axis 9)
 - [[bone-regeneration/li-2025-application-of-collagen-in-bone]] — Narrative review: Col-I ECM biology, 4 source categories, all processed forms, composite strategies (natural/synthetic polymers, bioceramics, BMP-2/ACS FDA approval), barriers (mechanical weakness, vascularization, immune), GEPP future — biomaterials-science foundation for Axis 3 collagen-modified DBBM strategies
+
+## Clinical Quiz
+<!-- quiz_spec -->
+
+**Q1.** 상악동거상술에 DBBM 단독을 사용하는 것이 왜 신생골 측면에서 최선이 아닐 수 있습니까? 이 오버뷰의 역설적 소견을 설명하세요. *(근거: Fujioka-Kobayashi 2022 + BCP 비교)*
+
+> **모범답안**: 이 오버뷰의 핵심 역설: **DBBM 단독이 초기 신생골 형성을 무이식(공백) 대조군보다 억제할 수 있다**(쥐 두개관 4주: DBBM 단독 < 무이식 p=0.025, Fujioka-Kobayashi 2022). DBBM의 느린 흡수는 부피 안정성을 주지만, 그 공간을 장기간 차지해 신생골 침입을 방해할 수 있다. 이에 비해 BCP(이상성 인산칼슘, 60% HA/40% β-TCP)는 상악동거상 임상 SR+MA에서 DBBM 대비 신생골 +3.48%, 잔존이식재 −8.41%로 일관되게 우세했다(Alkandari 2025 SR+MA). 즉 DBBM은 "용적 지지체"이지 "골형성 촉진제"가 아니며, 신생골 속도가 우선인 경우 BCP가 더 적합하다.
+
+**Q2.** 상악동거상술에서 PRF 계열 보조제를 DBBM에 추가할 때 L-PRF와 PRP 중 어느 것이 잔존이식재 감소에 더 근거가 있습니까? *(근거: Almutairi 2025 + Zhang 2025)*
+
+> **모범답안**: **L-PRF가 더 근거가 강하다.** Almutairi 2025 SR+MA(5 RCT)에서 L-PRF+DBBM은 잔존이식재를 −7.93%로 감소시켰고, 이 결과의 **I²=0%** — 연구 간 이질성이 없는 매우 강한 일관성이다. 반면 더 넓은 PRP·PRF·PRGF 통합 분석(Zhang 2025, 16편)에서 잔존이식재 감소는 **PRF·PRGF에서만 유의**하고 **PRP는 유의하지 않았다**. 결론: 보조제는 계열 효과(혈소판 농축물 전체)가 아니라 아형 특이적 — PRP보다 PRF/PRGF를 선택하고, 임플란트 안정성(ISQ/RFA)·생존율에는 어느 혈소판 농축물도 효과가 없다는 점을 함께 기억한다.
+
+**Q3.** 상악동거상술에 사용할 DBBM 입자 크기를 선택해야 합니다. 대입자(1–2mm)와 소입자(0.25–1mm) 중 어느 것이 조직학적으로 우수합니까? *(근거: Li 2023 SR+MA)*
+
+> **모범답안**: **차이 없다.** Li 2023 SR+MA(4 RCT, n=94, 상악동거상)에서 DBBM 대입자(1–2mm) vs 소입자(0.25–1mm)의 결합조직·신생골·잔존이식재 비율 **모두 유의차 없음**. 입자 크기는 재료 선택 기준이 아니라 **술식 편의 변수** — 수술 조작성·void space 충전 용이성을 고려해 선택하면 된다. 재료 선택 시 실질적으로 더 중요한 변수는 보조제(L-PRF 추가 여부), BCP vs DBBM 선택, 콜라겐 함량 등 조성이며 Sousa 2026이 보여주듯 같은 "이종골"이라도 콜라겐 함량(10% vs 25%)에 따라 초기 치유 결과가 갈린다.
