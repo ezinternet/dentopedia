@@ -1,0 +1,281 @@
+<!--
+---
+title: "구강점막질환 감별·처치 도구 — OLK·OLP·BMS·RAS·OMS·수포궤양"
+type: interactive
+date: 2026-08-26
+status: done
+category: oral-medicine
+source_wiki:
+  - wiki/overviews/oral-medicine-decision-ladder.md
+  - wiki/oral-medicine/opmd/pimenta-barros-2025-leukoplakia-malignant-transformation-sr-ma.md
+  - wiki/oral-medicine/opmd/sapkota-2024-oral-leukoplakia-recurrence-malignant.md
+agenda: agenda/2026-08-26_oral-medicine-decision-tool.md
+---
+-->
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>구강점막질환 감별·처치 도구</title>
+<style>
+:root{--bg:#F2F3EF;--surface:#FFFFFF;--text:#1A2030;--muted:#5A6472;--line:#DDE0D8;
+ --accent:#1E6B52;--accent-soft:#E4F0EA;--warn-bg:#FDF3E4;--warn-line:#C77E1E;
+ --stop-bg:#FBEAEA;--stop-line:#B03A3A;--info-bg:#E8F0FA;--info-line:#2F5FA5}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans KR",sans-serif;
+ background:var(--bg);color:var(--text);line-height:1.65;font-size:15px;padding-bottom:60px}
+.wrap{max-width:1000px;margin:0 auto;padding:18px}
+header.hero{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:20px 22px;margin-bottom:16px}
+header.hero h1{font-size:21px;margin-bottom:6px}
+header.hero .sub{color:var(--muted);font-size:13px}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:18px 20px;margin-bottom:14px}
+.card h2{font-size:17px;margin-bottom:6px}.card h3{font-size:15px;margin:14px 0 6px}
+.lede{color:var(--muted);font-size:13.5px;margin-bottom:10px}
+.hidden{display:none !important}
+.picks{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:10px;margin:12px 0}
+.pk{border:2px solid var(--line);background:var(--surface);border-radius:12px;padding:14px 16px;
+ cursor:pointer;text-align:left;font-size:15px;font-weight:700;color:var(--text);font-family:inherit}
+.pk small{display:block;font-weight:400;font-size:12.5px;color:var(--muted);margin-top:3px}
+.pk.on{border-color:var(--accent);background:var(--accent-soft);color:var(--accent)}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px}
+.field label{display:block;font-weight:700;font-size:13.5px;margin-bottom:5px}
+.opt{display:flex;gap:6px;flex-wrap:wrap}
+.opt button{border:1px solid var(--line);background:var(--bg);border-radius:9px;padding:7px 11px;
+ cursor:pointer;font-size:13px;font-weight:600;color:var(--text);font-family:inherit}
+.opt button.on{background:var(--accent-soft);border-color:var(--accent);color:var(--accent)}
+.res{border-radius:11px;padding:13px 15px;margin:9px 0;border:2px solid}
+.r-go{background:var(--accent-soft);border-color:var(--accent)}
+.r-mid{background:var(--warn-bg);border-color:var(--warn-line)}
+.r-stop{background:var(--stop-bg);border-color:var(--stop-line)}
+.r-info{background:var(--info-bg);border-color:var(--info-line)}
+.res b.hd{display:block;font-size:16px;margin-bottom:4px}
+.rr{display:flex;gap:10px;flex-wrap:wrap;margin:10px 0}
+.rrbox{flex:1 1 150px;border:2px solid var(--line);border-radius:11px;padding:11px 13px;background:var(--bg)}
+.rrbox.act{border-color:var(--stop-line);background:var(--stop-bg)}
+.rrbox .k{font-size:12px;color:var(--muted)}
+.rrbox .v{font-size:22px;font-weight:800;line-height:1.2}
+.rrbox.act .v{color:var(--stop-line)}
+.rrbox .n{font-size:11.5px;color:var(--muted);margin-top:2px}
+.warn{background:var(--warn-bg);border:1px solid var(--warn-line);border-radius:11px;padding:11px 13px;margin:9px 0}
+.info{background:var(--info-bg);border:1px solid var(--info-line);border-radius:11px;padding:11px 13px;margin:9px 0}
+.stop{background:var(--stop-bg);border:1px solid var(--stop-line);border-radius:11px;padding:11px 13px;margin:9px 0}
+table{width:100%;border-collapse:collapse;margin:9px 0;font-size:13.5px}
+th{background:var(--bg);text-align:left}th,td{border:1px solid var(--line);padding:7px 10px;vertical-align:top}
+ol,ul{padding-left:22px;margin:6px 0}li{margin:5px 0}
+.small{font-size:12.5px;color:var(--muted)}.cite{font-size:11.5px;color:var(--muted)}
+details{border:1px solid var(--line);border-radius:11px;padding:10px 14px;margin:8px 0;background:var(--surface)}
+summary{cursor:pointer;font-weight:700}
+footer{text-align:center;color:var(--muted);font-size:12px;margin-top:24px}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header class="hero">
+  <h1>구강점막질환 감별·처치</h1>
+  <div class="sub">주소를 고르면 그 축의 처치 사다리가 열린다. <code>wiki/overviews/oral-medicine-decision-ladder</code> 7축의 체어사이드판.</div>
+</header>
+
+<div class="card">
+  <h2>환자가 무엇을 호소하나</h2>
+  <div class="picks" id="picks">
+    <button class="pk on" data-v="olk">백색 병소<small>백반증(OLK) — 닦이지 않는 백색판</small></button>
+    <button class="pk" data-v="olp">망상·미란 병소<small>편평태선(OLP) — 레이스형 백색선·미란</small></button>
+    <button class="pk" data-v="bms">작열감<small>구강작열감증후군(BMS) — 병소 없이 화끈거림</small></button>
+    <button class="pk" data-v="ras">재발성 궤양<small>재발성 아프타(RAS)</small></button>
+    <button class="pk" data-v="oms">단측 상악 부비동 증상<small>치성 상악동염(OMS)</small></button>
+    <button class="pk" data-v="ves">수포·다발 궤양<small>바이러스·면역매개 점막질환</small></button>
+  </div>
+</div>
+
+<div class="card hidden" id="cardSub"><h2>세부</h2><div class="grid" id="sub"></div></div>
+<div class="card" id="cardOut"><h2>처치 사다리</h2><div id="out"></div></div>
+
+<footer>
+  근거: <code>wiki/overviews/oral-medicine-decision-ladder</code> 및 그 spine 논문.
+  OLK Pimenta-Barros 2025·Sapkota 2024 · OLP Lodi 2020 Cochrane·Warnakulasuriya 2025 ·
+  RAS Jian 2024·Damario 2025·Manthiram 2023 · 수포궤양 Coppola 2023·Kechichian 2024·Dean 2022·Mancini 2025.<br>
+  임상 판단을 대체하지 않는다.
+</footer>
+</div>
+
+<script>
+(function(){
+  var T="olk", S={};
+  var SUBS={
+    olk:[["form","형태",[["hom","균질형"],["nonhom","비균질형 (반점·결절·사마귀형)"]]],
+         ["size","크기",[["lt2","&lt;2cm"],["ge2","≥2cm"]]],
+         ["site","부위",[["low","일반 부위"],["high","혀 측면·구강저 (고위험)"]]],
+         ["oed","이형성(OED)",[["no","없음·미시행"],["yes","확인됨"]]],
+         ["rec","절제 후 재발",[["no","해당 없음"],["yes","재발 병소"]]],
+         ["risk","위험인자 (흡연·음주)",[["ctrl","통제 가능"],["unctrl","통제 어려움"]]]],
+    olp:[["form","형태",[["ret","망상 — 무증상"],["ero","미란·위축 — 증상 있음"]]],
+         ["ref","국소 스테로이드 반응",[["na","아직 미사용"],["ok","반응 양호"],["fail","불응·부작용"]]],
+         ["drug","약물 유발 의심",[["no","아니오"],["yes","예 (신규 약물 시점 일치)"]]]],
+    bms:[["sec","2차 원인 검토",[["todo","아직 미시행"],["done","배제 완료"]]],
+         ["psy","심리·정서 요소",[["low","작음"],["hi","큼"]]],
+         ["meno","폐경 후 여성",[["no","아니오"],["yes","예"]]]],
+    ras:[["type","유형",[["minor","Minor (&lt;1cm, ≤5개)"],["major","Major (&gt;1cm, 3–6주)"],["herp","포진형 (다수 소궤양)"]]],
+         ["freq","빈도",[["lt6","&lt;6회/년"],["ge6","≥6회/년 또는 국소제 무반응"]]],
+         ["goal","우선 목표",[["pain","빠른 통증 완화"],["recur","재발 빈도 감소"]]],
+         ["preg","임신·가임기 여성",[["no","아니오"],["yes","예"]]],
+         ["ped","소아 + 규칙적 주기열",[["no","아니오"],["yes","예"]]]],
+    oms:[["ct","CT·CBCT",[["todo","미시행"],["done","시행 — 치성 단서 확인"]]],
+         ["cause","원인 치아 처치",[["todo","미시행"],["done","완료"]]]],
+    ves:[["kind","양상",[["phgs","소아 다발 수포 + 발열"],["lab","재발성 구순포진"],
+         ["em","표적병변 + 점막 침범"],["gvhd","이식 병력 + 태선양 점막염"],["res","면역저하 + 항바이러스 무반응"]]]]
+  };
+  var DEF={olk:{form:"hom",size:"lt2",site:"low",oed:"no",rec:"no",risk:"ctrl"},
+           olp:{form:"ret",ref:"na",drug:"no"},bms:{sec:"todo",psy:"low",meno:"no"},
+           ras:{type:"minor",freq:"lt6",goal:"pain",preg:"no",ped:"no"},
+           oms:{ct:"todo",cause:"todo"},ves:{kind:"phgs"}};
+
+  document.querySelectorAll("#picks .pk").forEach(function(b){
+    b.addEventListener("click",function(){
+      document.querySelectorAll("#picks .pk").forEach(function(x){x.classList.remove("on");});
+      b.classList.add("on"); T=b.dataset.v; S=Object.assign({},DEF[T]); buildSub(); render();});});
+
+  function buildSub(){
+    var host=document.getElementById("sub"), H="";
+    SUBS[T].forEach(function(f){
+      H+='<div class="field"><label>'+f[1]+'</label><div class="opt" data-key="'+f[0]+'">'+
+        f[2].map(function(o){return '<button data-v="'+o[0]+'"'+(S[f[0]]===o[0]?' class="on"':'')+'>'+o[1]+'</button>';}).join("")+
+        '</div></div>';});
+    host.innerHTML=H;
+    document.getElementById("cardSub").classList.remove("hidden");
+    host.querySelectorAll(".opt").forEach(function(g){
+      g.querySelectorAll("button").forEach(function(b){b.addEventListener("click",function(){
+        g.querySelectorAll("button").forEach(function(x){x.classList.remove("on");});
+        b.classList.add("on"); S[g.dataset.key]=b.dataset.v; render();});});});
+  }
+  function box(c,h,b){return '<div class="res '+c+'"><b class="hd">'+h+'</b>'+b+'</div>';}
+  function rr(k,v,n,act){return '<div class="rrbox'+(act?' act':'')+'"><div class="k">'+k+'</div><div class="v">'+v+'</div><div class="n">'+n+'</div></div>';}
+
+  function render(){
+    var O=[];
+    if(T==="olk"){
+      var R="";
+      R+=rr("비균질형","RR 4.23","95% CI 3.31–5.39 · 최강 단일 임상 예측인자",S.form==="nonhom");
+      R+=rr("설측연 부위","RR 2.09","절대 악성전환 12.71%",S.site==="high");
+      R+=rr("이형성(OED)","RR 2.75","95% CI 2.26–3.35",S.oed==="yes");
+      R+=rr("절제 후 재발","RR 7.39","비재발 대비",S.rec==="yes");
+      O.push('<div class="lede">해당 인자가 <b>붉게</b> 표시된다. <b>RR을 곱하지 않는다</b> — 서로 독립이라는 근거가 없고 곱한 값은 위키에 없는 수치다. 가장 높은 인자로 조치를 정한다.</div><div class="rr">'+R+'</div>');
+      if(S.rec==="yes")
+        O.push(box("r-stop","재발 병소 — 악성전환 감시 강화 (RR 7.39)",
+          "절제 후 재발한 백반증은 비재발 대비 악성전환 위험이 <b>7.39배</b>다. 감시 주기를 좁히고 재생검 문턱을 낮춘다. 재발률 자체는 <b>레이저 절제 + 기화 복합술</b>이 가장 낮았다. <span class='cite'>Sapkota 2024</span>"));
+      else if(S.oed==="yes")
+        O.push(box("r-stop","이형성 확인 — 외과 절제 + 정기 추적",
+          "OED가 있으면 악성전환 RR <b>2.75</b>. 절제하고 정기 추적으로 간다."));
+      else if(S.form==="nonhom")
+        O.push(box("r-stop","비균질형 — 생검을 적극적으로",
+          "반점·결절·사마귀형은 <b>가장 강력한 단일 임상 예측인자</b>다 (RR 4.23). 형태만으로 생검 적응이 된다."));
+      else if(S.site==="high")
+        O.push(box("r-stop","고위험 부위 — 형태와 무관하게 생검 우선",
+          "혀 측면·구강저는 어떤 형태든 생검을 먼저 한다. 설측연 백반증의 <b>절대 악성전환률이 12.71%</b>다."));
+      else
+        O.push(box(S.risk==="ctrl"?"r-go":"r-mid",
+          "균질형 + "+(S.size==="lt2"?"작은 병소":"큰 병소(≥2cm)")+" — 위험인자 제거 + 추적",
+          "위험인자(흡연·음주)를 제거하고 <b>3–6개월 추적 + 사진 기록</b>으로 간다."+
+          (S.size==="ge2"?" 다만 ≥2cm는 크기 자체가 추적을 촘촘히 할 이유다.":"")+
+          (S.risk==="unctrl"?" <b>위험인자 통제가 어려우면</b> 이 경로의 전제가 깨진다 — 추적을 좁히고 생검 문턱을 낮춘다.":"")));
+      O.push('<div class="info"><b>사진 기록은 선택이 아니다.</b> 백반증 판단은 시간축 비교이고, 기록이 없으면 다음 내원에서 변화를 알 수 없다.</div>');
+    }
+
+    else if(T==="olp"){
+      if(S.drug==="yes")
+        O.push(box("r-stop","약물 유발 태선양 반응 의심 — 먼저 약을 본다",
+          "의심 약물을 중단하고 <b>내과 협진</b>한다. 약물 원인을 놔둔 채 국소 스테로이드만 쓰면 반응이 나빠 불응성으로 오인된다."));
+      if(S.form==="ret")
+        O.push(box("r-go","망상형 무증상 — 약물 불필요",
+          "위험인자(흡연·음주) 통제 + <b>6개월 임상 추적 + 사진 기록</b>. 무증상 망상형에 스테로이드를 쓸 근거가 없다."));
+      else if(S.ref==="fail")
+        O.push(box("r-mid","스테로이드 불응·부작용 → 국소 tacrolimus 0.1%",
+          "Lodi 2020 Cochrane에서 통증 해소 우월 가능성이 있으나 <b>근거수준은 매우 낮다</b>. 비용도 높다. <span class='cite'>Sandhu 2022</span>"));
+      else
+        O.push(box("r-mid","미란·위축형 — 국소 스테로이드 1차",
+          "<b>Clobetasol 0.05% 연고 BID 2–4주 → 점감</b>. 근거는 Lodi 2020 Cochrane — 위약 대비 통증 해소가 우월할 가능성이나 <b>효과 확실성은 낮다</b>. 처방 시 당뇨·고혈압 상호작용을 고려한다."));
+      O.push('<div class="warn"><b>악성전환 위험을 부풀리지 않는다.</b> OLP의 진정한 악성전환 위험은 <b>0.5–1.4%</b>다. 과대 인식은 불필요한 생검과 환자 불안을 만든다. 다만 미란·위축형에서 위험이 <b>약간</b> 높다. <span class="cite">[확인]</span></div>');
+      O.push('<div class="info"><b>전신 동반질환을 병력에서 챙긴다</b> — OLP 환자는 셀리악(OR 18.44) · 우울(6.15) · 불안(3.51) · HCV(4.09) · 하시모토 갑상선염(2.23) · 당뇨(1.64) 위험이 유의하게 높다. 다수가 무증상이다. 병력청취와 필요 시 내과 의뢰로 충분하며, <b>일상 선별검사를 정당화할 근거는 아직 없다</b>. <span class="cite">Warnakulasuriya 2025</span></div>');
+      O.push('<div class="info"><b>OLP-like 병변</b>은 Van der Meij 기준으로 생검 확진한다.</div>');
+    }
+
+    else if(T==="bms"){
+      if(S.sec==="todo")
+        O.push(box("r-stop","먼저 2차 원인을 배제한다 — 여기서 시작",
+          "BMS는 <b>배제 진단</b>이다. 빈혈 · 당뇨 · 갑상선 · 쇼그렌 · 칸디다 · 보철 적합도 · <b>약물 부작용</b>을 먼저 검토한다. 이걸 건너뛰고 약을 시작하면 치료 가능한 원인을 놓친다."));
+      else{
+        O.push(box("r-go","1차 — Clonazepam 1mg 국소",
+          "정제를 <b>입에 머금는 방식</b>으로 TID 2–3주. 전신 흡수를 줄이면서 국소 효과를 노린다."));
+        if(S.psy==="hi") O.push('<div class="info"><b>인지행동치료(CBT)</b> — 심리·정서 요소가 큰 환자에서 병행한다.</div>');
+        O.push('<div class="info"><b>저용량 삼환계</b> — Amitriptyline 10–25mg 취침 전 또는 nortriptyline. 만성 신경병증 통증 처치 원칙을 따른다.</div>');
+        if(S.meno==="yes") O.push('<div class="info"><b>폐경 후 여성</b> — 호르몬 보충을 부인과 협진으로 검토한다.</div>');
+      }
+    }
+
+    else if(T==="ras"){
+      if(S.ped==="yes")
+        O.push(box("r-stop","소아 + 규칙적 주기열 → PFAPA 의심",
+          "편도염·경부림프절염을 동반한 규칙적 주기열이면 아프타 단독이 아니다. <b>소아과·류마티스 협진</b>으로 넘기고 <b>베체트병을 감별</b>한다. 편도절제술이 효과적일 수 있다. <span class='cite'>Manthiram 2023</span>"));
+      if(S.type==="minor")
+        O.push(box("r-go","Minor RAS — 국소 스테로이드 + 위안",
+          "Triamcinolone in Orabase 0.1% BID. 1–2주 자연 치유가 기본 경과임을 설명한다."));
+      else if(S.type==="major")
+        O.push(box("r-mid","Major RAS — 국소 스테로이드 + clobetasol gel",
+          "&gt;1cm, 3–6주 지속. 반흔 가능성을 미리 설명한다."));
+      else
+        O.push(box("r-mid","포진형 RAS — 국소 스테로이드 + 영양 검사",
+          "다수의 작은 궤양이 군집한다. 영양 결핍 동반이 흔하다."));
+      if(S.type==="minor"&&S.goal==="pain")
+        O.push('<div class="info"><b>비약물 대안 — 빠른 통증 완화가 목표라면 저출력레이저(LLLT)</b>. day-1부터 유의한 통증 감소, 부작용 거의 없음 (diode·CO₂·Er,Cr:YSGG 모두 효과). <span class="cite">Damario 2025</span></div>');
+      if(S.goal==="recur")
+        O.push('<div class="info"><b>재발 빈도 감소가 목표라면</b> — 오메가-3 6개월, 또는 천연 점막부착젤(몰약·알로에베라·커큐민)이 스테로이드에 근접하거나 우월했다.</div>');
+      O.push('<div class="info"><b>영양 검사</b> — 철·B12·엽산·아연. 결핍이 있으면 교정한다.</div>');
+      if(S.freq==="ge6"){
+        if(S.preg==="yes")
+          O.push('<div class="stop"><b>Thalidomide는 여기서 선택지가 아니다 — 임신·가임기 여성 절대 금기.</b> 중증·빈발이라도 이 게이트는 넘지 않는다. <b>콜히친 0.5–1mg/일</b>과 내과·구강내과 협진으로 간다.</div>');
+        else
+          O.push('<div class="warn"><b>중증·빈발(≥6회/년) 또는 국소제 무반응 / 베체트 동반</b> → 콜히친 0.5–1mg/일 또는 thalidomide. 내과·구강내과 협진.<br>'+
+            '<b>Thalidomide 근거와 한계</b> <span class="cite">Jian 2024 SR+MA, 21 RCT n=1,668</span> — 완전반응 RR <b>6.95</b>(위약 대비)·<b>2.18</b>(타약물 대비), 재발간격 <b>+26.9일</b>, 궤양 수·크기·TNF-α 감소. '+
+            '<b>단 통증(VAS)은 개선되지 않았다.</b> 부작용 RR 1.87(말초신경병증·혈전색전). <b>25mg/일이 효능–안전 sweet spot</b>이며 신경병증 증상이 나오면 즉시 중단한다.</div>');
+      }
+    }
+
+    else if(T==="oms"){
+      O.push(box("r-info","단측 상악 후방 부비동염 — 치과 원인을 먼저 의심한다",
+        "단측이라는 사실 자체가 치성을 가리킨다. 의심 치아(특히 <b>상악 1·2·3대구치</b>)를 평가한다."));
+      if(S.ct==="todo")
+        O.push(box("r-stop","다음 단계 — CT 또는 CBCT",
+          "단측 혼탁 확인과 <b>치성 단서</b>(근단 침범 · 구강상악동루 · 잔존 치근 · 임플란트)를 함께 본다. 영상 없이 항생제만 반복하는 것이 이 질환의 전형적 지연 경로다."));
+      else if(S.cause==="todo")
+        O.push(box("r-mid","원인 치아 처치가 본치료다",
+          "근관치료 · 발치 · 구강상악동루 폐쇄 · 임플란트 적합도 평가. <b>원인을 남긴 채 항생제만으로는 낫지 않는다.</b>"));
+      else
+        O.push(box("r-go","원인 처치 완료 — 잔존 증상이면 ENT 협진",
+          "기능적 내시경 부비동 수술(FESS)이 필요한 경우가 있다."));
+      O.push('<div class="info"><b>항생제</b> — Amoxicillin-clavulanate 7–10일. 만성·재발 시에는 배양 결과에 따른다.</div>');
+    }
+
+    else {
+      var K=S.kind;
+      if(K==="phgs") O.push(box("r-mid","1차 포진성 치은구내염(PHGS) 의심",
+        "소아 급성 발병 + 다발 수포 + 발열. <b>조기(&lt;72시간) 아시클로버</b>를 고려하고 수분·진통 지지요법을 병행한다. <b>탈수 시 입원</b>. <span class='cite'>Coppola 2023</span>"));
+      else if(K==="lab") O.push(box("r-go","재발성 구순포진",
+        "조기 국소 아시클로버 또는 도코사놀로 병변 기간을 단축한다. <b>빈번 재발(≥6회/년)</b>이면 전신 억제요법(valaciclovir). <span class='cite'>Mancini 2025</span>"));
+      else if(K==="em") O.push(box("r-stop","다형홍반(EM) 의심 — 두 가지를 먼저 가른다",
+        "① <b>Mycoplasma를 우선 배제</b>한다(항생제가 필요해진다). ② 재발형은 <b>HSV 유발</b>이므로 억제 항바이러스로 간다. <span class='cite'>Kechichian 2024</span><br>"+
+        "<b>광범위 점막탈락이면 SJS/TEN을 응급 감별한다</b> — 이건 구강내과 경로가 아니라 응급 경로다."));
+      else if(K==="gvhd") O.push(box("r-mid","구강 만성 이식편대숙주병(cGVHD)",
+        "동종 조혈모세포이식 병력 + 태선양 점막염 · 구강건조 · 개구장애. <b>NIH 2014 staging</b>으로 등급을 매기고 국소 스테로이드 rinse에서 시작해 필요 시 전신 면역억제로 올린다. <b>악성전환 감시</b>가 따라붙는다. <span class='cite'>Dean 2022</span>"));
+      else O.push(box("r-stop","항바이러스 내성 의심 (면역저하)",
+        "표준 항바이러스에 반응하지 않는 면역저하 환자에서는 <b>헬리케이스-프라이메이스 억제제</b>(pritelivir · amenamevir)를 고려한다. <span class='cite'>Lv 2025</span>"));
+      O.push('<div class="info">이 축은 <b>재발성 아프타(RAS)와 임상적으로 감별 대상</b>이며, 다수가 <b>HSV를 공통 유발인자</b>로 공유한다.</div>');
+    }
+    document.getElementById("out").innerHTML=O.join("");
+  }
+  S=Object.assign({},DEF.olk); buildSub(); render();
+})();
+</script>
+</body>
+</html>
