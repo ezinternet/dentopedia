@@ -299,3 +299,18 @@ These are working hypotheses from the synthesis, not protocol.
 - [[sinus-lift/lateral/paetnukroh-2024-sinus-dhdtm-dbbm-rct]] — RCT (n=24, 6 mo): human tooth-derived dpDTM vs DBBM → volumetric reduction NS (120.33 vs 108.51 mm³, p=0.690), ISQ ~70 both, no failures; mesial height −1.08 vs −0.58 mm (p=0.04) but 0.5 mm magnitude and unreplicated at mid/distal
 - [[sinus-lift/lateral/del-fabbro-2025-sinus-augmentation-materials-lateral-approach]] — SR (49 RCTs, 1,722 augmentations): implant survival 84.6–100% with no significant difference among DBBM, autogenous ± DBBM, and synthetic HA/β-TCP → choose graft on biological risk, source, and cost, not survival; long-term bone-stability data insufficient across all classes
 - [[sinus-lift/lateral/kim-2007-maxillary-sinus-volume-ct-graft-placement]] — CT volumetric case-control (n=19/20 sinuses): edentulous sinuses need significantly more graft volume than dentulous at every height (5/10/15 mm), ~36% more at 15 mm; graft-quantity planning reference, independent of material choice
+
+## Clinical Quiz
+<!-- quiz_spec -->
+
+**Q1.** 측방창 상악동거상술 전 CBCT에서 격벽(septa)이 확인됐습니다. 이 오버뷰에 근거해 격벽이 슈나이더막 천공(SMP)에 미치는 위험도를 정량적으로 설명하고, 수술 전 계획 수정 방향을 제시하세요. *(근거: Yang 2024 SR+MA + Nemati 2023 다변량 + Henriques 2022)*
+
+> **모범답안**: 격벽 존재 시 SMP 위험 **OR 4.03**(Yang 2024 SR+MA, 10편)이며, 다변량 Cox 모형에서 **HR 8.07**(Nemati 2023 전향 코호트 n=140) — 흡연(HR 25.0)과 점액저류낭(HR 27.75)을 같은 모형에 포함해도 독립 예측인자로 확인된다. Henriques 2022(SR+MA 62편)에 따르면 부비동의 **33.2%에 격벽이 존재**하고 86%가 횡방향(표준 창 절골선을 가로지르는 형태) → 약 3개 중 1개 부비동에서 수정 접근이 필요. 계획 수정: CBCT에서 격벽 위치·높이를 확인해 창 위치를 격벽 일측에 배치하거나 2개 창을 만들고, 피에조 기구를 우선 사용한다(Lee 2023 NMA: rotary bur가 SUCRA 최하위, 피에조 계열이 우위).
+
+**Q2.** 같은 다변량 모형(Nemati 2023)에서 점액저류낭(Mucous Retention Cyst, MRC)의 SMP 위험비는 격벽·흡연보다 높습니까? 이 사실의 임상적 의미를 설명하세요. *(근거: Nemati 2023 HR 비교)*
+
+> **모범답안**: **HR 27.75** — 격벽(HR 8.07)·흡연(HR 25.0)을 능가하는, 같은 모형에서 가장 강한 단일 SMP 예측인자. 임상적 의미: 술전 CBCT에서 MRC를 발견하면 단순 "낭종 있음" 기록이 아니라 **SMP 최고위험 표지**로 분류하고, 낭종을 포함하는 구역에서 막 거상을 더 조심스럽게 진행하거나 낭종 제거 후 재시도를 고려한다. MRC 자체는 임플란트 금기가 아니지만(Maska 2017: 93%에서 MT 있어도 생존율 100%), 천공 위험 관점에서의 스크리닝은 필수다.
+
+**Q3.** 측방창 거상술 중 7mm 슈나이더막 천공이 발생했습니다. 이 오버뷰의 수리 결정 트리를 적용해 최적 수리법을 결정하고, 수리 후 임플란트 식립 금기 여부를 설명하세요. *(근거: Cluster 1 — ≤10mm 원칙 + Soares 2024)*
+
+> **모범답안**: 7mm < 10mm 임계값 → **PRF(혈소판농축피브린) seal이 1차 선택** — 콜라겐 막과 생물학적으로 동등 이상이며 별도 고정이 필요 없다(Estrin 2025: e-PRF 단독으로 100% 생존). PRF 봉합 후 적절히 수리됐다면 이식과 동시 임플란트 식립은 **금기가 아니다** — Soares 2024 SR+MA(130편)에서 수리된 SMP의 임플란트 손실 4%(95% CI 2–8%)는 온전막과 통계적으로 동등(OR 1.35 비유의). 천공 크기(7mm)가 임플란트 결과를 독립적으로 예측하지 않는다(Soares 2024, p=0.86). 단, 10mm 초과 시에는 tack 고정 콜라겐 + 동시 이식(Tian 2026)으로 전환한다.
