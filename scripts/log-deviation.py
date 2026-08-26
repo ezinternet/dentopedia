@@ -37,6 +37,12 @@ rule-of-three trigger was blind for months because everything landed in `other`.
                          category-judgment: that one was a defensible call, this one was a fix.
     confidence-judgment  Non-default confidence label (e.g. umbrella graded sr not sr+ma
                          because no new pooled MA); desc = label + reason
+    reporting-judgment   How a result was presented without changing its value — direction of
+                         OHIP scores, rounding, table vs narrative, author-stated vs raw number
+                         carried forward (desc = instrument + what was carried + why)
+    evidence-level-judgment  Non-obvious evidence_level: field (e.g. graded as narrative-review
+                         despite pooling, or consensus despite RCT-like design); desc = assigned
+                         level + why not a higher/lower level
 
   -- metadata gaps
     no-doi               No DOI in PDF/PubMed; dedup via title/author grep fallback
@@ -76,6 +82,7 @@ VALID_TYPES = {
     # judgment recorded
     "supersession-judgment", "relation-judgment", "category-judgment",
     "wrong-category", "confidence-judgment",
+    "reporting-judgment", "evidence-level-judgment",
     # metadata gaps
     "no-doi", "date-fallback",
     # source / tooling problems
