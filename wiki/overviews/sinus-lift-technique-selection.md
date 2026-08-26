@@ -310,3 +310,18 @@ CBCT에서 반드시 확인할 6항목:
 Ozbay 2024 (RCT, 24 patients, 40 implants, CBCT-based; EMD+TSFE vs TSFE alone) tested whether enamel matrix derivative (EMD, Emdogain®) as a biologic adjunct to transcrestal sinus floor elevation accelerates or augments bone formation. EMD significantly increased endo-sinus bone gain (ESBG) at 3 months (3.72 vs 3.10 mm, p<0.05) — an early biological acceleration. However, by 12 months the advantage disappeared (no significant inter-group difference), and ISQ was not significantly different at either timepoint. Interpretation: EMD may accelerate early osseous fill without meaningfully changing final bone volume or implant stability at 1 year. As a costly biologic additive, its benefit-cost ratio for routine transcrestal sinus augmentation is unclear from this single small RCT.
 
 - [[sinus-lift/transcrestal/ozbay-2024-enamel-matrix-derivative-transcrestal-sinus-rct]] — RCT: EMD accelerates 3-month endo-sinus bone gain but advantage disappears by 12 months; ISQ unaffected.
+
+## Clinical Quiz
+<!-- quiz_spec -->
+
+**Q1.** 잔존골 높이(Residual Bone Height, RBH) 4.5mm 케이스에서 경치조골 상악동거상술(Transcrestal Sinus Floor Elevation, TSFE)을 선택할 수 있습니까? 이 오버뷰의 임계값과 조건을 설명하세요. *(근거: 결정 임계값 — RBH 알고리듬)*
+
+> **모범답안**: 기본 임계값은 RBH **≥5mm = TSFE 1순위, <5mm = 측방창 1순위**. 4.5mm는 표준 프로토콜에서 측방창 영역이나, 골밀도화(Osseodensification, OD)를 병행할 경우 **4mm까지 TSFE 영역 확장이 가능**하다. 따라서 "OD 병행 TSFE 또는 측방창"이 두 가지 선택지이며, OD를 적용한다면 TSFE가 허용된다.
+
+**Q2.** 측방창 수술 중 슈나이더막(Schneiderian membrane) 천공이 발생했고 즉시 봉합(Collagen membrane)했습니다. 임플란트 생존율에 어떤 영향을 예상하십니까? 이 오버뷰의 근거로 답하세요. *(근거: 천공 결정 원리 — Diaz-Olivares 2021)*
+
+> **모범답안**: 이 오버뷰는 "천공 자체가 아닌 봉합 가능 여부가 결과를 결정한다"고 명시한다. Diaz-Olivares 2021에서 **적절히 봉합된 천공 생존율 97.68% vs 무손상 98.88%** — 유의차 없음. 따라서 적절히 봉합했다면 생존율 저하를 예상할 필요가 없다. 단, 대천공(≥10mm) 후 즉시 재시도는 신생골 ~50% 감소 우려로 2단계 수술 전환을 권장한다.
+
+**Q3.** 경치조골 거상술을 계획 중입니다. 오스테오톰(osteotome)과 골밀도화(Osseodensification, OD) 중 이 오버뷰가 권장하는 선택과 근거를 설명하세요. *(근거: TSFE 내부 선택 — Starch-Jensen 2025)*
+
+> **모범답안**: OD가 오스테오톰 대비 **ISQ 유의하게 높고(66.17 vs 54.83), 수술시간·합병증·진통제 소비 모두 감소**한다(Starch-Jensen 2025 SR+MA). 따라서 이 오버뷰는 TSFE 내부에서 OD를 우선 선택으로 제시한다. 단, SR+MA GRADE는 낮음(Low) — 근거 수준 제한을 인지하고 사용한다.
