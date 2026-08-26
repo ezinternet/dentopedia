@@ -49,7 +49,7 @@ Comprehensive synthesis of 21 papers on dental antibiotics across endodontics, p
 
 Periodontal adjunctive systemic antibiotics show modest CAL gain (+0.3-0.4 mm) but overall evidence grade "weak" due to low-quality SRs (Botelho 2025 umbrella review, 44 SRs, 221 MAs); single preoperative amoxicillin 2g suffices for most oral surgery, with >24h extension increasing antimicrobial resistance without reducing infection (Mohammadpour 2025; Bwire 2025 pooled RR 1.07, 95% CI 0.97-1.17).
 
-Drug selection: amoxicillin first-line (adverse-event rate 21.5/million, fatality 0.1/million), clindamycin should be avoided (fatality 2.9/million, mostly C. difficile — Thornhill 2019 NHS 7-year data); routine antibiotic prophylaxis not warranted for uncomplicated implant surgery in healthy patients (NNT 143 — Momand 2024 SR+MA); global over-prescription documented across Singapore (71-74%), Iran (51-70%), and Europe (40-86%).
+Drug selection: amoxicillin first-line (adverse-event rate 21.5/million, fatality 0.1/million), clindamycin should be avoided (fatality 2.9/million, mostly C. difficile — Thornhill 2019 NHS 7-year data); routine antibiotic prophylaxis not warranted for uncomplicated implant surgery in healthy patients (NNT 143 — Momand 2024 SR+MA; independently confirmed by Dubedout 2025 SR with strictest double-blind-only filter, all 7 RCTs p > 0.05); global over-prescription documented across Singapore (71-74%), Iran (51-70%), and Europe (40-86%).
 
 ## 세줄요약
 
