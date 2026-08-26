@@ -154,6 +154,20 @@ Everything above is prevention. Krishnan 2013 (narrative review + clinical case)
 
 The conservative route — demonstrated in the paper's case (maxillary central-incisor crown, loosened one week after cementation) — retightens to 35 Ncm followed by a **10-minute re-torque**, i.e. the same delayed-retorque logic this overview's protocol recommends, applied to a *repair* rather than an initial seating. This closes a genuine gap in the prevention-only framing above: even with correct initial procedure, screws loosen in practice, and access-preserving retrieval should be attempted before resorting to destructive sectioning.
 
+## Thread Lockers — Adjunct for High-Load Situations
+
+Arul 2026 ([[prosthetic-materials/abutment-screw/arul-2026-comparative-evaluation-of-abutment-screw]]) is the first in-vitro study to directly compare **medical-grade anaerobic methacrylate** (Nobil Grip™) vs **industrial-grade dimethacrylate** (Loctite® 243) vs **no threadlocker** for abutment screw retention under both static and cyclic loading (240,000 cycles, 50 N, ≈1 year clinical function):
+
+| Group | Static detorque (Ncm) | Dynamic detorque (Ncm) |
+|---|---|---|
+| Methacrylate (Nobil Grip) | **36.46 ± 0.95** | **33.22 ± 0.34** |
+| Dimethacrylate (Loctite 243) | 32.84 ± 1.12 | 29.98 ± 1.05 |
+| Control (no locker) | 28.80 ± 0.96 | 25.84 ± 0.63 |
+
+All pairwise differences p<0.0005; cyclic loading reduced detorque in all groups (static mean 32.70 → dynamic 29.68 Ncm).
+
+**Clinical takeaway**: medical-grade methacrylate threadlocker offers the highest retention gain (~7–8 Ncm over control) and is the only FDA-context option for intraoral use (Loctite 243 is industrial-grade). Consider in **high-risk loosening scenarios** — bruxism, posterior region, long-span screw-retained prostheses, prior loosening history. Limitation: in-vitro only; implant analogs in PLA jig; clinical validation absent.
+
 ## Abutment Subsidence (screwless taper-lock)
 
 For pure Morse-taper / taper-lock systems (no retention screw), the failure mode is not screw loosening but **progressive abutment subsidence** into the implant under occlusal load, producing late occlusal drift (Ren 2024):
