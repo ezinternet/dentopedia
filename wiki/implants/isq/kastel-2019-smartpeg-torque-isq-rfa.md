@@ -12,6 +12,10 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/kastel-2019-smartpeg-torque-isq-rfa.p
 pdf_filename: kastel-2019-smartpeg-torque-isq-rfa.pdf
 source_collection: external
 tags: [ISQ, RFA, SmartPeg, torque, Osstell, reliability, in-vitro]
+relations:
+  - type: contradicts
+    target: implants/isq/naughton-2023-safemount-osstell-transducer-torque-isq
+    note: "Naughton 2023: hand tightening significantly lowers ISQ vs 6 Ncm calibrated torque (p<.001). Kästel 2019: no ISQ difference across 2–11 Ncm hand range. Scope difference — Kästel tests within-hand-range variation; Naughton compares hand vs precise calibrated torque. Clinical implication: calibrated tightening preferred."
 ---
 
 ## Three-line Summary

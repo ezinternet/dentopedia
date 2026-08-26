@@ -18,6 +18,10 @@ text_filename: naughton-2023-safemount-osstell-transducer-torque-isq.txt
 source_collection: external
 full_text: true
 tags: [ISQ, RFA, SmartPeg, SafeMount, torque, Osstell, bone-density, reliability, in-vitro]
+relations:
+  - type: contradicts
+    target: implants/isq/kastel-2019-smartpeg-torque-isq-rfa
+    note: "Kästel 2019: hand tightening 2–11 Ncm produces no ISQ difference (all torque levels equivalent). Naughton 2023: hand tightening yields significantly lower ISQ than 6 Ncm calibrated torque (β = −2.05, p<.001). Both in vitro polyurethane, same outcome, opposite conclusion — likely explained by different torque range tested and implant system mix."
 ---
 
 ## 한국어 핵심요약
