@@ -133,3 +133,18 @@ Decision logic in prose:
 - [[implants/short-narrow/anitua-2019-short-65mm-implants-fixed-prostheses-premolar-molar]] — retrospective (n=16/48 implants, 6.5mm BTI): 100% survival 14 mo; SS splinting distal MBL 0.37 mm < SL 0.94 mm (p<0.05) — when splinting short implants, prefer matched-length pairing.
 - [[sinus-lift/transcrestal/cho-2024-crestal-sinus-augmentation-limited-bone]] — retrospective n=11, RBH <3 mm: transcrestal SFE (specialized kit, staged) achieves 2.1→8.8 mm bone gain, zero membrane perforations — extends TSFE indication below the conventional 4–5 mm threshold.
 - [[overviews/sinus-lift-technique-selection]] — companion overview on augmentation technique choice.
+
+## Clinical Quiz
+<!-- quiz_spec -->
+
+**Q1.** 위축된 후방 상악에서 잔존치조골고(RBH) 4mm인 환자를 계획합니다. 이 오버뷰에서 숏 임플란트와 상악동거상 중 어느 쪽을 우선 고려합니까? *(근거: 결정 게이트 1 + Derbishi 2026 + Lombardo 2022)*
+
+> **모범답안**: RBH <4–5mm는 이 오버뷰의 **게이트 1** 기준에서 상악동거상(Sinus Floor Elevation, SFE) 신뢰 경로로 분류된다 — 거상 후 임플란트 생존 벤치마크 >97%(Derbishi 2026). 그러나 Lombardo 2022(후향 n=79, RBH 평균 4.45mm)에서 초단축(5mm) 임플란트+동시 치조정접근 내부거상(transcrestal)의 5년 생존 94.84%·막천공 7.74%·귀인 실패 0건 결과가 보고됐다 — 이 경계를 아래로 밀어낼 **가능성**을 시사하나 대조군·생존율 직접 비교가 없어 practice-changing 근거는 아니다. 결론: RBH 4mm에서는 거상이 1차 신뢰 경로이며, 초단축 옵션 고려 시 환자에게 근거 한계를 명확히 설명한다.
+
+**Q2.** "숏 임플란트는 장기적으로 거상+장축보다 못하지 않을까?"라는 우려에 대해 이 오버뷰의 가장 강한 장기 근거로 답하세요. *(근거: Thoma 2024 10년 RCT)*
+
+> **모범답안**: 이 오버뷰에서 가장 강한 장기 앵커는 **Thoma 2024 10년 다기관 RCT** — 생존율 96.0% vs 100%(p=0.24, 비유의), 양 군 모두 중앙값 MBL 0.00mm(p=0.73)로 통계적으로 동등이다. 심지어 임플란트주위염 발생률(4.2% vs 13.3%)은 수치상 숏이 더 낮았으나 마찬가지로 비유의. 단 이 단일 RCT에서 21% 탈락이 있으며 장기 >5년 풀 전반이 얇고 저확실성임을 함께 설명한다.
+
+**Q3.** 비연결형(nonsplinted) 상악 구치부 5mm 단일치관을 계획합니다. 이 오버뷰는 어떤 특별한 주의를 요구합니까? *(근거: Xu 2020 RCT + 게이트 2)*
+
+> **모범답안**: 이 오버뷰는 **비연결형(nonsplinted) 극초단(≤6mm) 단일치관에서 장기 생존 열위**를 명시한다(Xu 2020 SR+MA: 단기 NS이나 장기 short poorer, RR 0.94, p=0.01). 따라서 5mm 단일치관 계획 시 ① 인접 임플란트 연결(splinting)을 적극 고려하거나 ② RBH가 허용한다면 거상+더 긴 임플란트로 재계획, ③ 교합부하/parafunction이 있는 경우에는 거상 후 장축으로 전환이 더 안전하다.
