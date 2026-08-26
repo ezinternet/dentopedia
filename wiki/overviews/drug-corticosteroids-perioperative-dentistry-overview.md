@@ -66,6 +66,8 @@ This overview synthesizes 11 papers: five SR+MAs and one narrative review defini
 | [[drug/analgesics/bakri-2024-prednisolone-prescribing-styles-third-molar]] | RCT split-mouth | 15 | Oral prednisolone single vs 3-day taper |
 | [[drug/analgesics/ibikunle-2016-prednisolone-qol-third-molar-rct]] | RCT (3-arm) | 186 | Prednisolone route (oral vs submucosal) QoL |
 | [[drug/analgesics/buyukkurt-2006-prednisolone-diclofenac-third-molar-rct]] | RCT (3-arm) | 45 | Prednisolone ± diclofenac combination |
+| [[drug/analgesics/canellas-2022-corticosteroids-third-molar-nma]] | Frequentist NMA (61 RCTs, 3,561 subjects) | 3,561 | 5 CS 약물 × 용량 × 경로 비교 — edema·pain·trismus |
+| [[drug/analgesics/miroshnychenko-2023-corticosteroids-third-molar-acute-pain-sr-ma]] | SR+MA (40 RCTs) | ~4,000+ | ADA 2024 CPG 위탁 SR: CS vs 위약, 통증 trivial threshold 미만 |
 
 ---
 
@@ -112,7 +114,12 @@ The most contested outcome:
 | Gholami 2021 RCT | NS (MP masseter or gluteal) |
 | Buyukkurt 2006 RCT | Prednisolone + diclofenac > control at 6h; prednisolone alone NS at 6h |
 
+| Canellas 2022 NMA (61 RCTs, 3,561명) | **Significant** (Dexamethasone 8mg submucosal: day1 VAS −30.95, day2 −15.25 vs placebo) |
+| Miroshnychenko 2023 SR+MA (40 RCTs; ADA CPG commissioned) | 6h −8.79 VAS (Low certainty), 24h −8.89 VAS (Very Low) — **모두 trivial threshold(10점) 미만**; 감염 RD 0%, 치조골염 RD 0% |
+
 **Interpretation**: Pooled positive pain signals (Almeida 2019, Dan 2010) are likely driven by corticosteroid trials that include dexamethasone or higher-dose agents. Methylprednisolone-specific evidence (Libório 2025) and RCTs of methylprednisolone alone (Larsen, Gholami) consistently null for pain. Combination with NSAID recovers some pain benefit even when steroid-alone fails.
+
+Canellas 2022 NMA — 5종 약물을 직접 비교한 유일한 network analysis — 에서는 **dexamethasone 8mg 점막하 주사**만이 부종(edema −3.58~−3.56 mm)과 **통증(day 1·2)** 모두에서 유의한 효과를 보인 반면, 다른 약물·경로·용량은 통증에 무효. 이는 Miroshnychenko 2023의 전반적 trivial 결론과 모순되지 않는다 — 이질적 CS 군에서는 dexamethasone 고용량 점막하 투여만이 임상적으로 유의미한 통증 경감을 달성한다. ADA CPG가 코르티코스테로이드 진통 보조를 반대 권고(Conditional, Very Low)한 것은 Miroshnychenko 2023의 전체 풀에서 trivial 결과를 기반으로 한다.
 
 ### 2.4 Quality of Life (OHRQoL / OHIP-14)
 
@@ -181,6 +188,11 @@ Orthognathic surgery (extended/high-dose):
 4. **Orthognathic surgery**: Dan 2010 covers this but with limited full-text access; dedicated evidence synthesis needed for larger jaw surgeries.
 
 ---
+
+## Related Papers (added 2026-08-26)
+
+- [[drug/analgesics/canellas-2022-corticosteroids-third-molar-nma]] — Frequentist NMA (61 RCTs, 3,561명): 5종 CS × 용량 × 경로 직접 비교. Dexamethasone 8mg 점막하·익구치와 주사만 edema 유의 감소 (−3.56~−3.58 mm); 동일 경로·용량에서 day1·2 통증도 유의 감소(−30.95/−15.25 VAS) — 기존 이분(CS vs 위약) 종합이 놓친 dexamethasone 고용량 점막하 경로의 통증 효과를 최초 정량화.
+- [[drug/analgesics/miroshnychenko-2023-corticosteroids-third-molar-acute-pain-sr-ma]] — ADA 2024 CPG 위탁 SR+MA (40 RCT, 경구·점막하·근주 CS): 6h −8.79 VAS (Low), 24h −8.89 VAS (Very Low) — 사전 설정 trivial threshold(10점) 미달; 감염·치조골염 RD 0%. ADA CPG Rec 1.5 "진통 목적 CS 추가 반대(Conditional, Very Low)"의 근거 SR.
 
 ## Related Overviews
 
