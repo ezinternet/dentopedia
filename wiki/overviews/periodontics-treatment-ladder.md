@@ -408,3 +408,18 @@ SRP 강한 권고; 전신 독시사이클린 추가 PPD 이득 0.2–0.4 mm(소)
 - 오존 겔 보조 = [근거약함] (Barahim 2024 n=12/group).
 - 축 6b STA/생물학적 폭경 = [근거중간] (Abdulkarim 2024 retrospective n=19, Huang 2021 narrative-review).
 - 축 6c 시멘트질 열개 = [확인] (Liang 2025 consensus, 근거기반은 case-report 위주 Level 4) + [근거중간] (Lee 2025 cross-sectional n=445).
+
+## Clinical Quiz
+<!-- quiz_spec -->
+
+**Q1.** 깊은 골내결손(infrabony defect)이 있는 치주염 IV기 환자를 치료합니다. 단순 판막술(Open Flap Debridement, OFD)과 재생술(치조직유도재생술(GTR)+이식재 또는 법랑기질단백(EMD)+이식재) 중 이 오버뷰의 권장 선택과 근거를 설명하세요. *(근거: 축 3 — Stavropoulos 2021 NMA)*
+
+> **모범답안**: 이 오버뷰는 GTR+이식재 또는 EMD+이식재가 OFD보다 PPD·임상부착수준(CAL) 모두 유의하게 우위라고 명시한다(Stavropoulos 2021 NMA, 30 RCT, 3–20년 추적). 병용이 단독보다 우위이므로 골내결손에서 재생술 병용 프로토콜을 선택한다. 단, 단계별 치료(비외과 SRP 먼저)를 거친 후 외과를 결정하는 EFP S3 step-wise 원칙을 따른다.
+
+**Q2.** 치주염 Stage III Grade B로 치료 완료 후 임플란트 식립을 계획하는 환자입니다. 이 오버뷰가 제시하는 임플란트 관련 위험과 사전 조건을 설명하세요. *(근거: 전신효과·peri-implantitis 축)*
+
+> **모범답안**: 치주염 병력 환자는 임플란트 주위염(peri-implantitis) 위험이 약 **4.8배** 증가한다. 이 오버뷰는 다음을 사전 조건으로 명시한다: ① 치주 안정화(BOP 음성, 잔존 치주낭 최소화) 이후 식립 ② 종신 3–6개월 유지치료(Supportive Periodontal Therapy, SPT) 유지. "치주 통제 없이 식립하면 임플란트 실패 위험이 급증"하므로, 내과 협진처럼 치주 안정화가 식립 필요 조건이다.
+
+**Q3.** 당뇨와 치주염을 동시에 가진 환자에게 치주 비외과 치료(SRP)를 시행했습니다. 이 오버뷰에 근거해 전신 지표에 기대할 수 있는 효과를 설명하세요. *(근거: 전신 효과 축 — Simpson 2022 + Dolcezza 2024)*
+
+> **모범답안**: SRP는 당뇨 환자에서 HbA1c를 **약 0.4–0.6%** 감소시킨다(Simpson 2022 Cochrane). 심혈관 위험표지자(CRP·IL-6·수축기혈압)도 감소하나 지질 프로파일은 변화 없음. 류마티스 관절염(RA)이 동반된 경우 치주치료가 RA 활성도(DAS28)를 −0.56점 개선한다(Dolcezza 2024 SR+MA, RCT 6편). 이 오버뷰는 "치주치료가 구강뿐 아니라 전신 염증 하중을 줄인다"는 다학제 근거로 해석한다.
