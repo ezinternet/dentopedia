@@ -1,0 +1,406 @@
+<!--
+---
+title: "상악동 거상 — 천공 수리 + 이식재 선택 도구"
+type: interactive
+date: 2026-08-26
+status: done
+category: sinus-lift
+source_wiki:
+  - wiki/overviews/sinus-lift-lateral-2026-synthesis.md
+agenda: agenda/2026-08-26_sinus-lift-repair-graft-tool.md
+---
+-->
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>상악동 거상 수리·이식재 선택</title>
+<style>
+:root {
+  --bg: #ffffff;
+  --surface: #f8f9fa;
+  --border: #dee2e6;
+  --text: #212529;
+  --muted: #6c757d;
+  --accent: #2563eb;
+  --accent-light: #eff6ff;
+  --red: #dc2626;
+  --red-light: #fef2f2;
+  --amber: #d97706;
+  --amber-light: #fffbeb;
+  --green: #16a34a;
+  --green-light: #f0fdf4;
+  --purple: #7c3aed;
+  --purple-light: #f5f3ff;
+  --teal: #0d9488;
+  --teal-light: #f0fdfa;
+  --radius: 8px;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { background: var(--bg); color: var(--text); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; line-height: 1.5; padding: 16px; max-width: 920px; margin: 0 auto; }
+h1 { font-size: 18px; font-weight: 700; margin-bottom: 2px; }
+.subtitle { color: var(--muted); font-size: 12px; margin-bottom: 16px; }
+
+.input-grid { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 10px; margin-bottom: 12px; }
+@media (max-width: 600px) { .input-grid { grid-template-columns: 1fr; } }
+.field label { display: block; font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); margin-bottom: 4px; }
+select, input[type="number"] {
+  width: 100%; border: 1px solid var(--border); border-radius: var(--radius);
+  padding: 7px 10px; font-size: 13px; background: var(--bg); color: var(--text); outline: none;
+}
+select:focus, input[type="number"]:focus { border-color: var(--accent); }
+
+.divider { border: none; border-top: 1px solid var(--border); margin: 12px 0; }
+
+/* Result cards */
+.results-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 14px; }
+@media (max-width: 560px) { .results-grid { grid-template-columns: 1fr; } }
+.result-card { border-radius: var(--radius); padding: 13px; border: 1px solid var(--border); background: var(--surface); }
+.result-label { font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); margin-bottom: 6px; }
+.result-val { font-size: 14px; font-weight: 700; line-height: 1.3; margin-bottom: 5px; }
+.result-sub { font-size: 11px; color: var(--text); line-height: 1.5; }
+.result-ref { font-size: 10px; color: var(--muted); margin-top: 5px; font-style: italic; }
+
+.card-green { background: var(--green-light); border-color: #86efac; }
+.card-green .result-val { color: var(--green); }
+.card-red { background: var(--red-light); border-color: #fca5a5; }
+.card-red .result-val { color: var(--red); }
+.card-amber { background: var(--amber-light); border-color: #fcd34d; }
+.card-amber .result-val { color: var(--amber); }
+.card-accent { background: var(--accent-light); border-color: #93c5fd; }
+.card-accent .result-val { color: var(--accent); }
+.card-teal { background: var(--teal-light); border-color: #99f6e4; }
+.card-teal .result-val { color: var(--teal); }
+.card-purple { background: var(--purple-light); border-color: #c4b5fd; }
+.card-purple .result-val { color: var(--purple); }
+
+/* Implication box */
+.implant-box { border-radius: var(--radius); padding: 10px 14px; margin-bottom: 14px; font-size: 13px; border: 1px solid; }
+.implant-ok { background: var(--green-light); border-color: #86efac; color: var(--green); }
+.implant-warn { background: var(--amber-light); border-color: #fcd34d; color: var(--amber); }
+.implant-stop { background: var(--red-light); border-color: #fca5a5; color: var(--red); }
+.implant-box strong { font-weight: 700; display: block; margin-bottom: 3px; }
+
+/* Graft table */
+.graft-table { width: 100%; border-collapse: collapse; font-size: 12px; margin-bottom: 14px; overflow-x: auto; display: block; }
+.graft-table th { background: var(--surface); padding: 7px 10px; text-align: left; font-weight: 600; border-bottom: 2px solid var(--border); white-space: nowrap; }
+.graft-table td { padding: 6px 10px; border-bottom: 1px solid var(--border); vertical-align: top; }
+.graft-table tr:last-child td { border-bottom: none; }
+.graft-table tr.highlight { background: var(--accent-light); }
+.graft-table tr.highlight td:first-child { font-weight: 700; }
+.badge { display: inline-block; padding: 2px 7px; border-radius: 10px; font-size: 10px; font-weight: 700; white-space: nowrap; }
+.bg { background: var(--green-light); color: var(--green); }
+.ba { background: var(--amber-light); color: var(--amber); }
+.br { background: var(--red-light); color: var(--red); }
+.bm { background: var(--muted); color: white; font-size: 9px; }
+
+/* PRF box */
+.prf-box { border-radius: var(--radius); padding: 12px; border: 1px solid #99f6e4; background: var(--teal-light); margin-bottom: 14px; }
+.prf-box-title { font-size: 12px; font-weight: 700; color: var(--teal); margin-bottom: 6px; }
+.prf-row { display: flex; gap: 12px; flex-wrap: wrap; font-size: 12px; }
+.prf-pro { color: var(--green); font-weight: 600; }
+.prf-con { color: var(--amber); font-weight: 600; }
+
+/* Evidence badges */
+.ev-row { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 14px; }
+.ev-badge { padding: 6px 12px; border-radius: var(--radius); border: 1px solid var(--border); font-size: 11px; background: var(--surface); line-height: 1.3; }
+.ev-badge strong { display: block; font-size: 13px; font-weight: 700; }
+.ev-badge span { color: var(--muted); }
+.ev-badge.green { background: var(--green-light); border-color: #86efac; }
+.ev-badge.green strong { color: var(--green); }
+.ev-badge.accent { background: var(--accent-light); border-color: #93c5fd; }
+.ev-badge.accent strong { color: var(--accent); }
+.ev-badge.red { background: var(--red-light); border-color: #fca5a5; }
+.ev-badge.red strong { color: var(--red); }
+.ev-badge.amber { background: var(--amber-light); border-color: #fcd34d; }
+.ev-badge.amber strong { color: var(--amber); }
+
+/* Router */
+.router { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 12px; }
+.router-title { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); margin-bottom: 8px; }
+.router-links { display: flex; flex-wrap: wrap; gap: 6px; }
+.router-link { padding: 5px 12px; border-radius: 20px; font-size: 12px; text-decoration: none; border: 1px solid var(--border); background: var(--bg); color: var(--accent); cursor: pointer; transition: all .15s; }
+.router-link:hover { background: var(--accent); color: white; border-color: var(--accent); }
+.router-link.hot { background: var(--accent-light); border-color: var(--accent); font-weight: 600; }
+
+section { margin-bottom: 14px; }
+.section-title { font-size: 13px; font-weight: 700; margin-bottom: 8px; border-left: 3px solid var(--accent); padding-left: 8px; }
+</style>
+</head>
+<body>
+
+<h1>상악동 거상 — 슈나이더막 천공 수리 · 이식재 선택</h1>
+<p class="subtitle">Lateral-Window SFE: 천공 수리 결정 + 이식재 선택 | 근거: Soares 2024 · Sala 2024 · Lee 2023 NMA · Tian 2026 · Estrin 2025</p>
+
+<!-- INPUTS -->
+<section>
+  <div class="input-grid">
+    <div class="field">
+      <label>천공(SMP) 크기 (mm)</label>
+      <input type="number" id="smpSize" min="0" max="30" step="1" value="0" placeholder="0 = 천공 없음">
+    </div>
+    <div class="field">
+      <label>PRF 준비 가능</label>
+      <select id="prf">
+        <option value="yes">가능 (원심분리 준비됨)</option>
+        <option value="no">불가 (준비 없음)</option>
+      </select>
+    </div>
+    <div class="field">
+      <label>항골흡수제 복용</label>
+      <select id="antiresorptive">
+        <option value="no">아니오</option>
+        <option value="yes">예 (비스포스포네이트·데노수맙 등)</option>
+      </select>
+    </div>
+    <div class="field">
+      <label>잔존 치조골 높이 (RRH, mm)</label>
+      <select id="rrh">
+        <option value="high">&gt;5 mm (표준)</option>
+        <option value="low">≤5 mm (저위험 동시식립 어려움)</option>
+      </select>
+    </div>
+    <div class="field">
+      <label>이식재 1차 목표</label>
+      <select id="graftGoal">
+        <option value="standard">표준 골량 확보</option>
+        <option value="resorb">완전 흡수 선호</option>
+        <option value="autotooth">자가 치아 유래 (dpDTM)</option>
+        <option value="biologic">생물학적 최적 (조직학↑)</option>
+      </select>
+    </div>
+    <div class="field">
+      <label>기구 (창 골절단)</label>
+      <select id="instrument">
+        <option value="piezo">피에조일렉트릭 (Piezoelectric)</option>
+        <option value="rotary">Rotary Bur</option>
+        <option value="unknown">미정</option>
+      </select>
+    </div>
+  </div>
+</section>
+
+<hr class="divider">
+
+<!-- REPAIR RESULT -->
+<section>
+  <div class="section-title">Axis 1 — 천공 수리 결정</div>
+  <div class="results-grid">
+    <div class="result-card" id="repairCard">
+      <div class="result-label">수리 방법</div>
+      <div class="result-val" id="repairVal">—</div>
+      <div class="result-sub" id="repairSub"></div>
+      <div class="result-ref" id="repairRef"></div>
+    </div>
+    <div class="result-card" id="instCard">
+      <div class="result-label">기구 권장</div>
+      <div class="result-val" id="instVal">—</div>
+      <div class="result-sub" id="instSub"></div>
+      <div class="result-ref" id="instRef"></div>
+    </div>
+  </div>
+  <div class="implant-box" id="implantBox">
+    <strong id="implantTitle"></strong>
+    <span id="implantBody"></span>
+  </div>
+</section>
+
+<!-- GRAFT RESULT -->
+<section>
+  <div class="section-title">Axis 2 — 이식재 선택</div>
+  <table class="graft-table" id="graftTable">
+    <thead>
+      <tr>
+        <th>이식재</th>
+        <th>신생골</th>
+        <th>흡수</th>
+        <th>생존율 데이터</th>
+        <th>근거 강도</th>
+        <th>주요 제한</th>
+      </tr>
+    </thead>
+    <tbody id="graftBody">
+    </tbody>
+  </table>
+
+  <!-- PRF adjunct box -->
+  <div class="prf-box" id="prfBox">
+    <div class="prf-box-title">PRF 부가 효과 (Cluster 5 핵심)</div>
+    <div class="prf-row">
+      <div><span class="prf-pro">✓ 신생골 +7–12%</span> (조직학 일관 개선)<br><span class="prf-pro">✓ 잔존 graft 감소</span><br><span class="prf-pro">✓ e-PRF sole barrier: 100% 생존 (Estrin 2025, 31개)</span></div>
+      <div><span class="prf-con">✗ ISQ 이득 없음</span> (Scarano 2016 — 조기부하 불가)<br><span class="prf-con">✗ 생존율 우위 미확인</span><br><span style="color:var(--muted);">→ 조직학적 보조; 로딩 프로토콜 변경 불가</span></div>
+    </div>
+  </div>
+</section>
+
+<!-- EVIDENCE BADGES -->
+<section>
+  <div class="section-title">핵심 근거</div>
+  <div class="ev-row">
+    <div class="ev-badge green">
+      <strong>임플란트 손실 4%</strong>
+      <span>수리 천공 = 온전막 동등<br>Soares 2024 SR+MA, 130연구, 1,972동</span>
+    </div>
+    <div class="ev-badge green">
+      <strong>OR 1.35 (NS)</strong>
+      <span>천공 vs 온전막 — 비유의<br>Sala 2024, 6,860 임플란트</span>
+    </div>
+    <div class="ev-badge red">
+      <strong>OR 0.45</strong>
+      <span>SMP 10%↑마다 생존 55%↓<br>Lee 2023 NMA (기구 선택이 생존 결정)</span>
+    </div>
+    <div class="ev-badge accent">
+      <strong>e-PRF 100% 생존</strong>
+      <span>sole barrier (xenogenic 대체)<br>Estrin 2025, 22환자·31임플란트</span>
+    </div>
+    <div class="ev-badge amber">
+      <strong>HR 27.75</strong>
+      <span>점액저류낭(MRC) — 단일 최강 천공 예측<br>Nemati 2023 다변량 Cox 모델</span>
+    </div>
+  </div>
+</section>
+
+<!-- ROUTER -->
+<div class="router">
+  <div class="router-title">연결 도구</div>
+  <div class="router-links" id="routerLinks">
+    <a class="router-link" href="2026-06-12_sinus-perforation-risk-calculator.html">▶ 천공 위험 계산기 (먼저 실행)</a>
+    <a class="router-link" href="2026-08-26_arp-decision-tool.html">발치와 보존(ARP) · 이식재</a>
+    <a class="router-link" href="2026-08-26_immediate-implant-decision-tool.html">상악동+즉시 임플란트 결정</a>
+  </div>
+</div>
+
+<script>
+document.querySelectorAll('select, input').forEach(el => el.addEventListener('change', update));
+document.querySelectorAll('select, input').forEach(el => el.addEventListener('input', update));
+
+const GRAFTS = [
+  { id:'dbbm', name:'DBBM (탈단백우골)', bone:'기준', resorb:'불완전 (장기잔존)', surv:'매우 풍부', grade:'높음', limit:'잔존 이식재, 완전흡수 없음' },
+  { id:'dbbm-prf', name:'DBBM + PRF 부가', bone:'+7–12% (조직학)', resorb:'잔존 감소', surv:'기준 동등', grade:'중간', limit:'ISQ 이득 없음 → 조기부하 불가' },
+  { id:'bcp', name:'BCP (이상다공성칼슘인산염)', bone:'DBBM보다 많음', resorb:'완전흡수', surv:'제한적', grade:'중간', limit:'생존율 우위 데이터 부족' },
+  { id:'dpdtm', name:'dpDTM (탈단백화 자가치아기질)', bone:'DBBM과 동등 (6mo)', resorb:'미확인', surv:'0/24 실패 (소표본)', grade:'낮음 (신호)', limit:'소규모 RCT·6개월·조직학 없음. 진료 변경 근거 아직 아님' },
+];
+
+function update() {
+  const smp = parseFloat(document.getElementById('smpSize').value) || 0;
+  const prf = document.getElementById('prf').value;
+  const ar = document.getElementById('antiresorptive').value;
+  const rrh = document.getElementById('rrh').value;
+  const graftGoal = document.getElementById('graftGoal').value;
+  const inst = document.getElementById('instrument').value;
+
+  // ── Repair ──
+  const rCard = document.getElementById('repairCard');
+  const rVal = document.getElementById('repairVal');
+  const rSub = document.getElementById('repairSub');
+  const rRef = document.getElementById('repairRef');
+  rCard.className = 'result-card';
+
+  if (smp === 0) {
+    rCard.classList.add('card-green');
+    rVal.textContent = '천공 없음';
+    rSub.textContent = '이식재 선택(Axis 2)으로 진행';
+    rRef.textContent = '';
+  } else if (smp <= 10) {
+    if (ar === 'yes') {
+      rCard.classList.add('card-teal');
+      rVal.textContent = 'Handle-tab 콜라겐 + 피브린 글루';
+      rSub.textContent = 'Tack 대신 피브린 글루로 고정 (항골흡수제 환자 — Kim 2026 기법). 콜라겐 "handle"탭 → 한손 intrasinus 위치 잡기. 이식재 응집에도 피브린 글루 사용.';
+      rRef.textContent = 'Kim 2026 (단일 케이스, 71F 골다공증+데노수맙)';
+    } else if (prf === 'yes') {
+      rCard.classList.add('card-green');
+      rVal.textContent = 'PRF (L-PRF / A-PRF / e-PRF)';
+      rSub.textContent = `≤10 mm 천공 → PRF seal 1차. A-PRF: 1주 완전재형성, 신생골 > 콜라겐 (p<0.0001, Xin 2020). e-PRF 단독 barrier 가능 (Estrin 2025, 31임플란트 100% 생존).`;
+      rRef.textContent = 'Xin 2020 RCT · Estrin 2025 전향 multicenter · Pinto 2018 · Malzoni 2021';
+    } else {
+      rCard.classList.add('card-accent');
+      rVal.textContent = '콜라겐 막 (대안)';
+      rSub.textContent = '≤10 mm — PRF 준비 없을 때 콜라겐 표준 대안. PRF와 동등(Aricioglu 2017 동물실험); 단 PRF가 생물학적 우위 신호.';
+      rRef.textContent = 'Aricioglu 2017 · Soares 2024 SR+MA';
+    }
+  } else {
+    rCard.classList.add('card-red');
+    rVal.textContent = 'Tack 고정 콜라겐 + 동시 이식';
+    rSub.textContent = `>10 mm 대형 천공 → 기계적 봉합 필수. Tian 2026 기법: 콜라겐을 mesial·lateral sinus wall에 tack 고정 후 동시 이식. RRH 충분 시 동시 식립 가능.${rrh === 'low' ? ' ⚠ RRH ≤5mm — 동시 식립 어려움, 단계적 접근 고려.' : ''}`;
+    rRef.textContent = 'Tian 2026 기법노트 · Sala 2024 (대형 천공 하위그룹: 실패율↑ 경향)';
+  }
+
+  // ── Instrument ──
+  const iCard = document.getElementById('instCard');
+  const iVal = document.getElementById('instVal');
+  const iSub = document.getElementById('instSub');
+  const iRef = document.getElementById('instRef');
+  iCard.className = 'result-card';
+  if (inst === 'piezo') {
+    iCard.classList.add('card-green');
+    iVal.textContent = 'Piezoelectric — 권장';
+    iSub.textContent = 'Lee 2023 NMA (85편, 5,551 SFE): SUCRA 상위 → 최저 SMP 위험. SMP 10%↑마다 생존 OR 0.45 (55%↓). 기구 선택이 생존 결정 변수.';
+    iRef.textContent = 'Lee 2023 NMA Bayesian; rotary SUCRA 0.0745 최저';
+  } else if (inst === 'rotary') {
+    iCard.classList.add('card-amber');
+    iVal.textContent = 'Rotary Bur — 피에조로 전환 권장';
+    iSub.textContent = 'Lee 2023 NMA에서 SUCRA 0.0745 (최저 — 가장 높은 SMP 위험). 피에조로 전환 가능하면 전환 권장.';
+    iRef.textContent = 'Lee 2023 NMA';
+  } else {
+    iCard.classList.add('card-accent');
+    iVal.textContent = 'Piezoelectric 권장';
+    iSub.textContent = '기구 미결정 시 피에조일렉트릭 선택 권장 (NMA 근거). SMP 10%↑마다 생존 OR 0.45.';
+    iRef.textContent = 'Lee 2023 NMA';
+  }
+
+  // ── Implant implication ──
+  const iBox = document.getElementById('implantBox');
+  iBox.className = 'implant-box';
+  if (smp === 0) {
+    iBox.classList.add('implant-ok');
+    document.getElementById('implantTitle').textContent = '✓ 천공 없음 — 표준 프로토콜로 식립 진행';
+    document.getElementById('implantBody').textContent = 'rrh에 따라 동시 또는 단계적 식립 결정';
+  } else if (smp <= 10) {
+    iBox.classList.add('implant-ok');
+    document.getElementById('implantTitle').textContent = '✓ 수리 후 식립 진행 가능 — 천공이 금기가 아님';
+    document.getElementById('implantBody').textContent = `수리된 SMP: 임플란트 손실 4% (95% CI 2–8%) = 온전막과 통계적 동등 (OR 1.35, NS; Soares 2024 · Sala 2024). 천공 크기 자체는 손실 예측 안 함 (p=0.86).`;
+  } else {
+    iBox.classList.add('implant-warn');
+    document.getElementById('implantTitle').textContent = '⚠ 대형 천공 — 수리 후 임상 판단으로 식립 여부 결정';
+    document.getElementById('implantBody').textContent = `>10 mm 하위그룹은 손실율 높은 경향 (Sala 2024 subgroup; 메타분석 불가). Tian 2026 기법으로 수리 후 RRH·안정성 재평가.`;
+  }
+
+  // ── Graft table ──
+  let highlight = 'dbbm-prf';
+  if (graftGoal === 'standard') highlight = 'dbbm';
+  if (graftGoal === 'resorb') highlight = 'bcp';
+  if (graftGoal === 'autotooth') highlight = 'dpdtm';
+  if (graftGoal === 'biologic') highlight = 'dbbm-prf';
+
+  const tbody = document.getElementById('graftBody');
+  tbody.innerHTML = GRAFTS.map(g => {
+    const isHL = g.id === highlight;
+    return `<tr class="${isHL ? 'highlight' : ''}">
+      <td>${g.name}${isHL ? ' ←' : ''}</td>
+      <td>${g.bone}</td>
+      <td>${g.resorb}</td>
+      <td>${g.surv}</td>
+      <td><span class="badge ${g.grade === '높음' ? 'bg' : g.grade === '중간' ? 'ba' : 'br'}">${g.grade}</span></td>
+      <td style="color:var(--muted)">${g.limit}</td>
+    </tr>`;
+  }).join('');
+
+  // PRF box
+  if (prf === 'yes') {
+    document.getElementById('prfBox').style.display = '';
+  } else {
+    document.getElementById('prfBox').style.display = 'none';
+  }
+
+  // Router hot
+  const links = document.querySelectorAll('.router-link');
+  links.forEach(l => l.classList.remove('hot'));
+  if (smp > 0) links[0].classList.add('hot'); // risk calculator hot when there's a perforation
+}
+
+update();
+</script>
+</body>
+</html>
