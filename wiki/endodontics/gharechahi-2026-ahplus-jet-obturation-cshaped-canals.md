@@ -78,5 +78,5 @@ This in-vitro laboratory study evaluated three obturation techniques — cold la
 ## Related Papers
 
 - [[endodontics/anatomy/tulegenova-2025-cshaped-canal-second-mandibular-premolar-sr-ma]] — applies-to; establishes C-shaped canal prevalence (~C1 most common at 40–54% of orifices per this paper's Discussion), while this paper adds the obturation-technique dimension for that anatomy.
-- [[endodontics/kunam-2024-wettability-ahplus-ceraseal-guttaflow]] — related AH Plus-family material page (wettability/contact-angle in vitro); this paper extends the AH Plus cluster into a new anatomical context (C-shaped canals) rather than a new sealer comparison.
-- [[endodontics/shim-2025-retrieval-ahplus-bioceramic-ceraseal-retreatment]] — related AH Plus-family material page (retreatment/retrievability); together these three papers form the wiki's growing AH Plus-family cluster across chemistry, retreatment, and anatomy.
+- [[endodontics/obturation/kunam-2024-wettability-ahplus-ceraseal-guttaflow]] — related AH Plus-family material page (wettability/contact-angle in vitro); this paper extends the AH Plus cluster into a new anatomical context (C-shaped canals) rather than a new sealer comparison.
+- [[endodontics/obturation/shim-2025-retrieval-ahplus-bioceramic-ceraseal-retreatment]] — related AH Plus-family material page (retreatment/retrievability); together these three papers form the wiki's growing AH Plus-family cluster across chemistry, retreatment, and anatomy.
