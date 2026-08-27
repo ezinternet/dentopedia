@@ -91,4 +91,4 @@ The standout finding on multivariable Cox regression (with shared frailty) was i
 
 - [[implants/mbl/kim-2022-abutment-connection-mbl-survival]] — same country/journal (JPIS); isolates abutment-connection type (external vs internal) as the design variable affecting early MBL, while this paper isolates implant length as the variable affecting long-term survival/MBL — complementary design-variable dissections on the same MBL outcome
 - [[overviews/implant-prosthesis-misfit-connection-mbl-overview]] — synthesis on prosthesis misfit and connection design → MBL; this paper's >10-year real-world survival/MBL dataset and its short-implant risk finding extend that framework with long-horizon outcome data
-- [[implants]] — general implant survival, MBL risk-factor, and short-implant literature
+- [[implants/implants]] — general implant survival, MBL risk-factor, and short-implant literature
