@@ -116,4 +116,4 @@ Unexplained marginal bone loss (not classical peri-implantitis) remains a critic
 
 - [[implants/surface/buser-2017-modern-implant-dentistry-osseointegration-50years]] — Buser (2017) review covering SLActive surface and osseointegration outcomes referenced here
 - [[bone-regeneration/buser-2023-gbr-implant-35years-basic-principle-review]] — GBR and implant osseointegration principles by same senior author
-- [[dental-materials/zirconia]] — zirconia material properties complement this osseointegration review
+- [[dental-materials/zirconia/zirconia]] — zirconia material properties complement this osseointegration review
