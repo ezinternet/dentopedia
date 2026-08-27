@@ -210,3 +210,18 @@ Loading-protocol timing ([[implants/loading-protocol/rismanchian-2025-immediate-
 *(Added 2026-08-06 — a reference point rather than a risk factor.)*
 
 - [[implants/mbl/kumar-2021-marginal-bone-level-changes-meta-analysis]] — supplies the **pooled 1-year MBL baseline (0.56 mm)** every delta on this page is read against, plus a *technique*-level contrast (platform switching 0.01–0.95 mm vs conventional ~1.67 mm) distinct from the host factors; **I²=99.8%**, so direction and magnitude only
+
+## Clinical Quiz
+<!-- quiz_spec -->
+
+**Q1.** 정착된 임플란트 환자(보철 완료 3년)에서 흡연자와 비흡연자의 변연골소실(MBL) 차이를 환자에게 설명하세요. *(근거: gjelvold-2021 RCT + naseri-2020 용량반응)*
+
+> **모범답안**: 이 오버뷰는 5년 추적 RCT(gjelvold-2021)의 가장 깨끗한 수치를 제시한다: **흡연자 −1.90 mm vs 비흡연자 −0.40 mm(p=0.021)** — 그리고 그 RCT에서 MBL의 **유의한 예측인자는 흡연 하나뿐**이었다(로딩 프로토콜 포함 다른 인자는 비유의). 비흡연자의 −0.40 mm는 기준선(1년 pooled MBL 0.56 mm, kumar-2021)보다도 적어 "이상적 경과"에 해당하고, 흡연자 −1.90 mm는 5년 치에도 Albrektsson 허용치를 통과하지만 장기 추적에서 계속 벌어질 위험이 있다. 추가로 naseri-2020에서 흡연은 **용량 의존적**이라 완전 금연이 안 되더라도 감량 자체가 의미 있다는 것을 상담에 포함한다.
+
+**Q2.** 경사 식립(Tilted Implant) 임플란트가 5년 추적에서 축방향 임플란트와 MBL 차이가 없다는 2017년 SR 결과를 인용하는 동료가 있습니다. 이 오버뷰에서 이 인용의 한계를 설명하세요. *(근거: malak-2024 시간의존성 + del-fabbro 2014→2022)*
+
+> **모범답안**: 이 오버뷰는 **경사 임플란트의 MBL 패널티는 시간 의존적**임을 보여준다. malak-2024(메타분석): 단기 NS → 3년 +0.08mm(유의) → 장기 +0.18mm(유의)로 시간이 지날수록 차이가 커진다. del-fabbro 연구진 자체 데이터도 2014년(≥3년, P=.30, NS) → 2022년(3–18년, P<.0001, 축방향 MBL 적음)으로 뒤집혔다. 따라서 "단기에 차이 없다"는 2017년 SR은 **추적기간이 짧은 연구 종합**이라는 한계를 갖는다. 경사 vs 축방향의 **실패 위험은 동일(RR=1.02)**이지만 장기 MBL 관리를 위해서는 이 시간 의존성을 고려해야 한다.
+
+**Q3.** 임플란트 식립 후 관리에서 **식립 이후 바꿀 수 있는 유일한 변수**는 무엇이며 그 근거는? *(근거: barausse-2024 유지관리 + 이 오버뷰의 임상 결론)*
+
+> **모범답안**: 이 오버뷰는 **위생 내원(유지관리) 빈도**를 "식립 이후 바꿀 수 있는 유일한 변수"로 명시한다. barausse-2024에서 위생 내원 빈도가 임플란트 실패를 유의하게 낮췄다(p<0.001) — 그것도 4mm 짧은 임플란트·중증 위축 구치부라는 **최악 조건 8년 추적**에서다. 이 결과가 중요한 이유는 오버뷰에서 합산된 24편의 우산리뷰 10편 중 유지관리를 수치화한 연구가 **하나도 없었기 때문**이다 — 가장 실용적인 레버가 기존 우산리뷰에서는 아예 보이지 않았다. 임상 함의: 임플란트 장기 성공의 결정적 변수는 수술 기법 선택보다 **정기 리콜 예약 준수**이며, 이것이 환자에게 주어야 할 가장 강한 행동 변화 메시지다.
