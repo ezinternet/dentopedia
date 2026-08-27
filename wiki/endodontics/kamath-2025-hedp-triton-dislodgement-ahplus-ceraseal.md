@@ -68,6 +68,6 @@ This ex vivo laboratory study compared two commercially available "all-in-one" c
 
 ## Related Papers
 
-- [[endodontics/surana-bhandari-2026-single-cone-hydraulic-sealer-irrigation-protocol]] — extends; that page addresses HEDP continuous-chelation irrigation protocol effects on hydraulic-sealer/dentin interfaces, this paper adds a direct Dual Rinse HEDP vs Triton POBS comparison across both epoxy and bioceramic sealer chemistries plus FTIR mechanism data.
-- [[endodontics/kunam-2024-wettability-ahplus-ceraseal-guttaflow]] — related; both compare AH Plus and CeraSeal material/interface properties, though Kunam focuses on wettability rather than irrigant-dependent bond strength.
+- [[endodontics/obturation/surana-bhandari-2026-single-cone-hydraulic-sealer-irrigation-protocol]] — extends; that page addresses HEDP continuous-chelation irrigation protocol effects on hydraulic-sealer/dentin interfaces, this paper adds a direct Dual Rinse HEDP vs Triton POBS comparison across both epoxy and bioceramic sealer chemistries plus FTIR mechanism data.
+- [[endodontics/obturation/kunam-2024-wettability-ahplus-ceraseal-guttaflow]] — related; both compare AH Plus and CeraSeal material/interface properties, though Kunam focuses on wettability rather than irrigant-dependent bond strength.
 - [[overviews/ceraseal-bioceramic-sealer-clinical-material-synthesis]] — this ex vivo POBS/FTIR data point feeds the wiki's CeraSeal bioceramic-sealer synthesis, adding an irrigant-selection variable (Dual Rinse HEDP vs Triton) to the material-property evidence base.
