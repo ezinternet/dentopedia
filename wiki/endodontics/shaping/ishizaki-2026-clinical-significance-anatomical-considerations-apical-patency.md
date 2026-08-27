@@ -75,9 +75,9 @@ While failure to achieve patency does not always dictate a negative outcome, the
 
 ## Related Papers
 
-- [[wiki/endodontics/shaping/aflaki-2020-glide-path-pathfile-scoutrace-cbct]] — glide path preparation and canal transportation via CBCT
-- [[wiki/endodontics/shaping/aminsobhani-2022-glide-path-pathfinder-s-canal]] — canal transportation after glide path with different rotary systems
-- [[wiki/endodontics/shaping/pui-yii-2021-glide-path-apical-bacteria-extrusion]] — apical extrusion of bacteria during glide path preparation
-- [[wiki/endodontics/shaping/singh-2026-rotary-reciprocating-kinematics-postoperative-pain-retreatment-sr]] — SR on instrumentation kinematics and postop pain in retreatment
-- [[wiki/endodontics/zamparini-2026-postop-pain-endodontic-instrumentation-irrigation-obturation-umbrella]] — umbrella review discussing apical patency as a factor in postoperative pain
-- [[wiki/endodontics/shaping/abraham-2025-instrumentation-kinematics-postendodontic-pain-umbrella]] — umbrella review on instrumentation kinematics and post-endodontic pain
+- [[endodontics/shaping/aflaki-2020-glide-path-pathfile-scoutrace-cbct]] — glide path preparation and canal transportation via CBCT
+- [[endodontics/shaping/aminsobhani-2022-glide-path-pathfinder-s-canal]] — canal transportation after glide path with different rotary systems
+- [[endodontics/shaping/pui-yii-2021-glide-path-apical-bacteria-extrusion]] — apical extrusion of bacteria during glide path preparation
+- [[endodontics/shaping/singh-2026-rotary-reciprocating-kinematics-postoperative-pain-retreatment-sr]] — SR on instrumentation kinematics and postop pain in retreatment
+- [[endodontics/zamparini-2026-postop-pain-endodontic-instrumentation-irrigation-obturation-umbrella]] — umbrella review discussing apical patency as a factor in postoperative pain
+- [[endodontics/shaping/abraham-2025-instrumentation-kinematics-postendodontic-pain-umbrella]] — umbrella review on instrumentation kinematics and post-endodontic pain
