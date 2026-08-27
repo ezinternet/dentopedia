@@ -171,3 +171,18 @@ llm-wiki의 800+ 임상 paper 대부분이 SR+MA / RCT / retrospective cohort. �
 
 - [[evidence-appraisal/al-abedalla-2022-unusual-findings-trials-evaluating-adjuncts]] — Methodological quality assessment (CONSORT + trial-registration audit) of 32 RCTs on SRP adjuncts published 2010–2017 by a single research group (GDCR … (sr, 2022)
 - [[evidence-appraisal/singh-2026-is-your-research-statistically-significant]] — Editorial (J Conserv Dent Endod) arguing that statistical significance does not equal clinical significance … (narrative-review, 2026)
+
+## Clinical Quiz
+<!-- quiz_spec -->
+
+**Q1.** SR+MA 논문을 읽었더니 I²=88%이고 pooled effect가 통계적으로 유의했습니다. 이 결론을 이 오버뷰에 근거해 어떻게 해석해야 합니까? *(근거: I² 해석 기준 + 고이질성 처리)*
+
+> **모범답안**: **pooled effect를 액면 그대로 신뢰해선 안 된다.** 이 오버뷰에서 I²>75%면 pooled effect는 "거의 무의미"해져 subgroup 분석·메타회귀로 가야 한다. I²=88%는 포함 연구들 간 이질성이 매우 높다는 의미 — 연구 설계·대상 환자·임상 조건이 너무 달라서 하나의 숫자로 합치는 것이 타당하지 않다. 이 경우 취해야 할 행동: ① pooled OR/RR을 인용하지 말고 "합산이 부적절할 정도로 이질성이 높다"고 명시 ② 저자가 subgroup 분석을 했다면 그것이 **사전 지정(pre-specified)** 인지 확인 — 사후 subgroup hunting은 결론을 신뢰하지 말 것 ③ 개별 study effect를 forest plot에서 직접 읽어 어느 방향인지 파악.
+
+**Q2.** "흡연자의 임플란트 실패 위험이 HR 2.5배"라는 결과를 환자에게 설명해야 합니다. 이 오버뷰에 근거해 환자가 이해하기 쉬운 형태로 변환하세요. *(근거: OR/HR → ARR/NNT 변환 규칙)*
+
+> **모범답안**: 이 오버뷰의 환자 상담 규칙: **OR/HR는 ARR(절대위험감소) 또는 NNT로 변환해 설명**한다. "HR 2.5배"는 상대 위험이라 실제 크기를 느끼기 어렵다. 변환 예시: 비흡연자 기저 실패율이 약 4%라면, 흡연자 추정 실패율은 약 10% — 따라서 ARR(절대 추가 위험)은 약 6%p, NNH(Number Needed to Harm) ≈ 17명. 환자 설명: **"흡연자 약 17명 중 1명이 비흡연자와 비교해 추가로 임플란트를 잃습니다"** — "HR 2.5배"보다 직관적이다. 이 오버뷰는 기저율을 모르면 상대 위험만으로는 임상 의미를 판단할 수 없다는 것을 강조한다.
+
+**Q3.** 후향적 연구에서 "즉시부하 환자가 지연부하보다 MBL이 더 컸다"는 결과를 읽었습니다. 이 오버뷰에서 이 결론의 한계를 설명하는 흔한 오류는 무엇입니까? *(근거: 불멸시간편향 + 교란변수 오류)*
+
+> **모범답안**: 이 오버뷰에서 **불멸시간편향(Immortal Time Bias)** 이 치과 연구에서 가장 흔한 오류 중 하나로 명시돼 있으며, 특히 **즉시부하 vs 지연부하 후향 비교**에서 전형적으로 발생한다. 문제: 즉시부하군에는 조기 실패한 임플란트(3개월 이내)가 포함되지만, 지연부하군은 정의상 3개월을 "생존"한 임플란트만 포함된다 — 그 3개월이 "불멸시간"으로 편향을 만든다. 결과적으로 지연부하군이 인위적으로 더 좋게 보인다. 이 오류가 있는 연구에서 "즉시부하 = 더 나쁜 결과"라는 결론은 신뢰할 수 없다. 올바른 설계는 RCT 또는 적절한 시간 기준선을 맞춘 조정 분석이다.
