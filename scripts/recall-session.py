@@ -22,8 +22,8 @@ Pending 큐 (2026-08-27, agenda/2026-08-27_recall-loop-reactivation.md D1-A):
 정확히 그 지점부터 이어받는다 — 세션 크기가 아니라 "미해결 배치 존재 여부"가 핵심.
 
 Usage:
-    python3 scripts/recall-session.py --due 7          # 오늘 볼 문항 최대 7개 (JSON)
-    python3 scripts/recall-session.py --due 7 --pretty # 사람이 읽는 형식
+    python3 scripts/recall-session.py --due 3          # 오늘 볼 문항 최대 3개 (JSON)
+    python3 scripts/recall-session.py --due 3 --pretty # 사람이 읽는 형식
     python3 scripts/recall-session.py --due 3 --write-pending   # 뽑은 배치를 pending에 고정
     python3 scripts/recall-session.py --read-pending             # 고정된 배치 재개
     python3 scripts/recall-session.py --grade "stem::qid=correct" --grade "stem::qid=wrong"
@@ -180,8 +180,9 @@ def grade(state: dict, key: str, result: str) -> None:
 
 def main() -> int:
     ap = argparse.ArgumentParser()
-    ap.add_argument("--due", type=int, nargs="?", const=7, default=None,
-                    help="오늘 볼 문항 최대 N개 (기본 7)")
+    ap.add_argument("--due", type=int, nargs="?", const=3, default=None,
+                    help="오늘 볼 문항 최대 N개 (기본 3 — 2026-08-27 D2: 7→3, "
+                         "간격반복은 세션 크기가 아니라 빈도가 효과를 낸다)")
     ap.add_argument("--pretty", action="store_true", help="사람이 읽는 형식")
     ap.add_argument("--grade", action="append", default=[],
                     help='"stem::qid=correct|wrong" (반복 가능)')
