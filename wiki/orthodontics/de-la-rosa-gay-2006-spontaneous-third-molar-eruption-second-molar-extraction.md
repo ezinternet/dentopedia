@@ -75,4 +75,4 @@ Radiographic reproducibility was anchored to Larheim & Svanaes (1986) methodolog
 
 ## Related Papers
 
-- [[wiki/oral-surgery/third-molar/sun-2026-third-molar-health-management-expert-consensus]] — expert consensus classifying orthodontic extractions as a therapeutic indication for third-molar management; this paper provides the quantitative eruption-outcome data for that indication
+- [[oral-surgery/third-molar/sun-2026-third-molar-health-management-expert-consensus]] — expert consensus classifying orthodontic extractions as a therapeutic indication for third-molar management; this paper provides the quantitative eruption-outcome data for that indication
