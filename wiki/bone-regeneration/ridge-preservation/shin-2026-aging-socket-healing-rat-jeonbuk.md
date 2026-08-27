@@ -71,5 +71,5 @@ Key finding: The 18M senescent group showed the worst outcomes on all metrics. N
 
 ## Related Papers
 
-- [[bone-regeneration/ridge-preservation]] — Age-related changes in socket healing provide mechanistic basis for ridge preservation indications in elderly patients
+- [[bone-regeneration/ridge-preservation/ridge-preservation]] — Age-related changes in socket healing provide mechanistic basis for ridge preservation indications in elderly patients
 - [[geriatric-dentistry]] — Cross-category relevance: alveolar bone aging biology underpins implant treatment planning in older patients
