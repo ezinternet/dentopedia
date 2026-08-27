@@ -232,3 +232,18 @@ OLP 진정한 악성변환률은 0.5–1.4%(Gonzalez-Moles 2021; 과거 5%는 �
 Bandara 2025 (PROSPERO-registered SR, 15 studies: 2 RCTs + 5 NRCTs + 8 observational, Jan 1990–Dec 2023; MMAT mean 5.57/7) systematically reviewed pharmacological treatment of desquamative gingivitis (DG), a clinical presentation associated with OLP (88–98%), mucous membrane pemphigoid (MMP), and pemphigus vulgaris (PV). **Confirmed first-line agents**: clobetasol propionate 0.05% (8/15 studies — significant pain and lesion-severity reduction) and tacrolimus 0.1% (4/15 studies). Topical agents are well tolerated (mild transient adverse effects). Systemic agents carry higher risk: sulphamethoxazole-pyrimethamine (SMXP) caused haemolysis; immunosuppressants caused anaemia/alopecia. **Adjuncts**: PRP and propolis/nano-vitamin E gel showed promising results with no reported AEs. For patients presenting with DG, confirming the underlying diagnosis (OLP vs MMP vs PV) via biopsy guides systemic escalation decisions.
 
 - [[oral-medicine/immune-mediated/bandara-2025-desquamative-gingivitis-pharmacological-treatment-sr]] — SR: clobetasol 0.05% and tacrolimus 0.1% confirmed first-line for DG; systemic agents carry meaningful AE risk; PRP/propolis as adjuncts.
+
+## Clinical Quiz
+<!-- quiz_spec -->
+
+**Q1.** 구강 백반증(Oral Leukoplakia, OLK) 환자가 왔습니다. 병소가 혀 측면에 위치하고, 표면이 불규칙하며 붉은 반점이 섞여 있습니다. 이 오버뷰의 분기 원칙으로 어떻게 처치합니까? *(근거: Pimenta-Barros 2025 SR+MA + Sapkota 2024)*
+
+> **모범답안**: **즉시 생검(biopsy)이 필요하다.** 이 오버뷰의 OLK 분기 원칙: "비균질형(non-homogeneous) + 고위험 부위"는 biopsy 우선이다. 혀 측면은 이 오버뷰에서 명시된 절대 악성변환률 12.71%(설측연, Pimenta-Barros 2025)의 최고위험 부위이고, 불규칙 표면+붉은 반점은 비균질형(erythroleukoplakia)으로 악성변환 RR=4.23이다. 이형성(Oral Epithelial Dysplasia, OED)이 확인되면 외과 절제가 필수다. 단순 monitoring 분기는 균질형+소병소+위험인자 통제 가능한 경우에만 해당한다. 수술 후 재발 OLK는 비재발 대비 악성변환 7.39배(Sapkota 2024)이므로 추적 일정도 강화해야 한다.
+
+**Q2.** OLP(구강편평태선) 환자가 "인터넷에서 암 될 수 있다고 했는데 위험한가요?"라고 물었습니다. 이 오버뷰에 근거해 정확하게 설명하세요. *(근거: Gonzalez-Moles 2021 + Warnakulasuriya 2025)*
+
+> **모범답안**: **"5%가 암이 된다"는 수치는 과장으로, 진정한 악성변환률은 0.5–1.4%**이다(Gonzalez-Moles 2021, 고품질 연구만 분석). 과거 5% 수치는 진단 오류(OLK·이형성이 OLP로 잘못 분류된 증례 포함) 가능성이 높다(Kaur 2022). 단, 두 가지를 추가로 설명해야 한다: ① OLP는 전신 질환의 marker일 수 있다 — 당뇨(OR 1.64)·하시모토(OR 2.23)·셀리악(OR 18.44)·C형간염(OR 4.09) 위험 증가와 연관되므로 필요 시 내과 의뢰를 고려한다(Warnakulasuriya 2025). ② 위험인자(흡연·음주)를 제거하고 정기 추적을 받는 것이 최선이다. 치료는 증상에 따르며: 망상형(reticular, 무증상) → 관찰, 미란·위축형 → 국소 스테로이드(clobetasol 0.05%).
+
+**Q3.** 단측 상악동 불투명 소견이 파노라마에서 발견됐습니다. ENT에 바로 의뢰해야 합니까? 이 오버뷰의 처치 원칙을 설명하세요. *(근거: Lin 2024 + Psillas 2020 — 치성 상악동염 OMS)*
+
+> **모범답안**: **치과 평가를 먼저 해야 한다.** 이 오버뷰에서 단측 상악동 혼탁의 30–72%가 치성 원인(Odontogenic Maxillary Sinusitis, OMS)이다(Lin 2024, Psillas 2020). "단측 후방 부비동염 = 치과 origin 우선 의심"이 이 오버뷰의 명시적 원칙이다. 절차: ① 의심 대구치(특히 상악 1·2·3 대구치) 임상 및 CT/CBCT 평가 — apex 침범·구강상악동누공(Oroantral Fistula, OAF)·잔존 근관 확인 ② 치성 원인 확인 시 치과 처치 우선 ③ ENT 다학제(FESS) 병행. ENT 단독 의뢰로 비강 부비동 수술만 하면 치성 원인이 남아 재발하므로, 치과 처치 없이는 완치가 어렵다.
