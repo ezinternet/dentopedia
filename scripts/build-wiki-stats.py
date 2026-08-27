@@ -395,10 +395,21 @@ function viewTimeline(){
   // x ticks: 시작·끝 + 균등 4분할
   const tickI=[0,Math.round((N-1)/4),Math.round((N-1)/2),Math.round(3*(N-1)/4),N-1];
   [...new Set(tickI)].forEach(i=>{const last=(i===N-1);const tx=el("text",{x:xs(i),y:ys(0)+22,"text-anchor":"middle"});tx.setAttribute("font-size","11");tx.setAttribute("fill",last?"var(--ink)":"var(--muted)");tx.setAttribute("font-weight",last?"700":"400");tx.textContent=dates[i].slice(5);});
+  // 라벨이 촘촘한 날짜에 몰리면 겹친다(예: 06-12/06-19, 7일 간격) — greedy row 배치로
+  // 겹치는 쌍만 아래 행으로 밀어낸다. 각 row는 "지금까지 이 row에서 쓴 가장 오른쪽 x"만
+  // 기억하고, 새 라벨의 왼쪽 끝이 그보다 왼쪽이면 다음 row로 넘긴다.
+  const msRowRight=[-Infinity,-Infinity,-Infinity], MS_ROW_STEP=20, MS_PAD=10;
   MILESTONES.forEach(ms=>{const i=dates.indexOf(ms.date);if(i<0)return;const x=xs(i);
     el("line",{x1:x,x2:x,y1:24,y2:ys(0),class:"ms-line"});el("circle",{cx:x,cy:24,r:3,class:"ms-dot"});
-    const t=el("text",{x:x,y:16,"text-anchor": x>W-180?"end":"middle",class:"ms-label"});t.setAttribute("font-weight",ms.last?"700":"400");t.textContent=ms.date.slice(5);
-    const t2=el("text",{x:x,y:40,"text-anchor":x>W-180?"end":"middle",class:"ms-label"});t2.setAttribute("fill","var(--muted)");t2.textContent=ms.label;});
+    const anchor = x>W-180?"end":"middle";
+    const t=el("text",{x:x,y:16,"text-anchor":anchor,class:"ms-label"});t.setAttribute("font-weight",ms.last?"700":"400");t.textContent=ms.date.slice(5);
+    const t2=el("text",{x:x,y:40,"text-anchor":anchor,class:"ms-label"});t2.setAttribute("fill","var(--muted)");t2.textContent=ms.label;
+    const b1=t.getBBox(), b2=t2.getBBox();
+    const x1=Math.min(b1.x,b2.x)-MS_PAD, x2=Math.max(b1.x+b1.width,b2.x+b2.width)+MS_PAD;
+    let row=0; while(row<msRowRight.length-1 && msRowRight[row]>x1) row++;
+    msRowRight[row]=x2;
+    if(row>0){const dy=row*MS_ROW_STEP;t.setAttribute("y",16+dy);t2.setAttribute("y",40+dy);}
+  });
   for(let i=0;i<N;i++){
     const hd=el("circle",{cx:xs(i),cy:ys(papers[i]),r:9,fill:"transparent",class:"dot"});
     hd.addEventListener("mousemove",e=>showTip(e,`<b>${dates[i]}</b><br>papers ${papers[i]}<br>overviews ${ovr[i]}`));
