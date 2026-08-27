@@ -29,7 +29,7 @@ relations:
 - 단순 발치는 비오피오이드만(오피오이드 사용 반대 권고); 오피오이드는 informed consent·PDMP 확인 필수, routine just-in-case 처방 금지, 12–<17세엔 극도 주의.
 
 > [!note] Scope
-> 이 페이지는 부모 권고문 [[wiki/drug/analgesics/carrasco-labra-2024-pharmacologic-management-acute-dental-pain-guideline]]의 **발치 시나리오 체어사이드 실무 체크리스트**판이다. 근거 본체(SR+MA·NMA 효과크기)는 부모 페이지와 그 하부 NMA [[wiki/drug/analgesics/miroshnychenko-2023-dental-extraction-pain-network-meta]]로; 여기서는 진료 중 바로 쓰는 경로 전체를 옮긴다.
+> 이 페이지는 부모 권고문 [[drug/analgesics/carrasco-labra-2024-pharmacologic-management-acute-dental-pain-guideline]]의 **발치 시나리오 체어사이드 실무 체크리스트**판이다. 근거 본체(SR+MA·NMA 효과크기)는 부모 페이지와 그 하부 NMA [[drug/analgesics/miroshnychenko-2023-dental-extraction-pain-network-meta]]로; 여기서는 진료 중 바로 쓰는 경로 전체를 옮긴다.
 
 ## Summary
 
