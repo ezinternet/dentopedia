@@ -164,3 +164,18 @@ The clinical implication is a staged approach: screen for past negative dental e
 Tonetti 2025 (EFP expert consensus, Florence January 2025; 40 experts from 12+ countries; 5 commissioned SRs) examined patient-reported outcome measures (PRO/PROM) in three clinical scenarios: gingival recession defects (GRD), peri-implant buccal soft-tissue dehiscences (PSTD), and implant placement with soft-tissue augmentation (STA). A systematic discordance emerged: **superior root coverage (CAF+CTG)** produces high clinician-rated aesthetic scores (CRO) but does **not** correspondingly improve patient-perceived aesthetics. The only scenario with concordant PRO+CRO improvement is PSTD treated with STA (CTG under CAF), where both clinician and patient aesthetics improve together. This consensus-level finding has direct implications for patient counseling before aesthetic periodontal surgery: root coverage outcomes should be framed as functionally and periodontally beneficial, not as automatically delivering the esthetic satisfaction patients anticipate.
 
 - [[behavioral-dentistry/patient-reported-outcomes/tonetti-2025-aesthetics-patient-reported-outcomes-consensus]] — EFP consensus: CAF+CTG improves CRO but not PRO; patient-perceived aesthetics and clinician scores diverge — counsel patients accordingly.
+
+## Clinical Quiz
+<!-- quiz_spec -->
+
+**Q1.** 위생사에게 성인 치주 환자의 구강 위생 행동 변화를 위해 동기면담(Motivational Interviewing, MI)을 교육하려 합니다. 이 오버뷰에 근거해 기대 효과의 범위를 정직하게 설명하세요. *(근거: Cartes-Velasquez 2024 + Lundahl 2013)*
+
+> **모범답안**: **기대를 제한해서 설명해야 한다.** 이 오버뷰는 MI의 효과를 두 층으로 나눈다: ① 의료 전반에서 MI는 견고하게 작동한다 — Lundahl 2013(48 RCT, n=9,618): OR 1.55. ② 그러나 **성인 치주 한정**으로 좁히면 효과가 약해진다 — Cartes-Velasquez 2024(성인 7 RCT, 전부 치주): 치은출혈지수(BoP) −6.41%p만 유의하고, 치태·치은지수는 유의하지 않다. 또한 Rogers 2022에서 위생사 95%가 MI를 "사용한다"고 하지만 실제 환자 변화에는 회의적이다. 따라서 교육 목표는 "MI로 행동이 바뀐다"가 아니라 "소통 역량 향상 + 영유아 우식 예방에서는 효과 있음(Jahanshahi 2022)"으로 잡는 것이 이 오버뷰와 일치한다.
+
+**Q2.** 임플란트 치료 상담 중 환자가 "SNS에서 봤는데 임플란트 하면 원래 이처럼 느껴진다고 하더라고요"라고 말합니다. 이 오버뷰에서 이 상황을 어떻게 관리해야 합니까? *(근거: Dawood 2025 + Iyer 2025 PDA + SDM)*
+
+> **모범답안**: 이 오버뷰는 이 상황을 **소셜미디어 발 비현실적 기대(unrealistic expectation)와 공유의사결정(SDM) 공백**의 전형으로 분류한다(Dawood 2025). 방치 시 인지부조화·불만·술자 소진으로 이어진다. 이 오버뷰의 처방: ① **기대 정렬**: 투명한 소통·사전동의(Informed Consent)로 임플란트가 천연치와 다른 점(고유감각 부재·주위염 위험 등)을 명시. ② **구조화된 환자 의사결정 보조도구(PDA)** 제공 — Iyer 2025(RCT, n=76): PDA 제공 시 결정갈등지수(DCS) 8.0 vs 20.6(p<0.001)으로 낮아지고 실제 치료 선택이 바뀌었다. ③ **Otero 2022 경고**: IC는 '서류'가 아닌 '과정' — 서명만 받으면 법적 책임을 피하기 어렵다.
+
+**Q3.** 치과 공포(Dental Anxiety) 성인 환자가 국소마취 주사를 앞두고 심박수가 올라가고 손을 떨기 시작합니다. 이 오버뷰에서 즉각적으로 쓸 수 있는 비약물 전략은 무엇입니까? *(근거: Pandey 2025 + Appukuttan 2016 사다리)*
+
+> **모범답안**: 이 오버뷰는 **국소마취·드릴링 직전 distraction 전략**을 사다리의 2번 rung(스크리닝 다음)으로 명시한다: tell-show-do, modeling, VR distraction 등 비약물 전략이 일관된 효과를 보인다. Pandey 2025에서 국소마취·드릴링에서 심박수(HR)가 유의하게 상승하고 과거 부정경험이 불안을 예측하므로(p=0.018), 이 환자에게는 ① 주사 전 기구·감각을 보여주고 설명하는 tell-show-do ② 드릴 소리가 나기 전 소리·감각 예고 ③ 주의를 분산하는 음악·영상을 즉각 적용한다. 소아는 oral midazolam(SMD 1.96, Cochrane)이 효과적이나 성인 진정은 결과 표준화 미흡으로 결론 보류(Melini 2020). 이 환자는 비약물 우선이며 실패 시 의식하진정 단계를 검토한다.
