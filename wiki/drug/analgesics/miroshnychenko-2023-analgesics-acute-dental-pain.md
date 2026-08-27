@@ -62,7 +62,7 @@ Bottom line: NSAID monotherapy and acetaminophen both outperform placebo with on
 
 ## Related Papers
 
-- [[wiki/drug/analgesics/moore-2015-single-dose-oral-analgesics-cochrane-overview]] — adult single-dose oral analgesia Cochrane overview; this SR extends the comparative analgesia question from adults to children ≤ 12 years in dental settings, reaching a concordant NSAID-first conclusion.
-- [[wiki/drug/analgesics/wells-2011-ibuprofen-acetaminophen-endodontic-necrosis-rct]] — independent confirmation of ibuprofen + acetaminophen combination superiority over monotherapy, here in pediatric post-extraction rather than adult endodontic pain.
-- [[wiki/drug/analgesics/miroshnychenko-2023-injectable-topical-anesthetics-acute-pain-sr]] — companion SR pair by the same group within the same ADA-FDA guideline project, covering local anesthetics for acute dental pain.
-- [[wiki/drug/analgesics/di-spirito-2022-endodontic-pain-management-overview]] — endodontic pain pharmacologic management overview; complementary adult context where pulpitis pain IS covered, unlike this pediatric review's extraction-only evidence.
+- [[drug/analgesics/moore-2015-single-dose-oral-analgesics-cochrane-overview]] — adult single-dose oral analgesia Cochrane overview; this SR extends the comparative analgesia question from adults to children ≤ 12 years in dental settings, reaching a concordant NSAID-first conclusion.
+- [[drug/analgesics/wells-2011-ibuprofen-acetaminophen-endodontic-necrosis-rct]] — independent confirmation of ibuprofen + acetaminophen combination superiority over monotherapy, here in pediatric post-extraction rather than adult endodontic pain.
+- [[drug/analgesics/miroshnychenko-2023-injectable-topical-anesthetics-acute-pain-sr]] — companion SR pair by the same group within the same ADA-FDA guideline project, covering local anesthetics for acute dental pain.
+- [[drug/analgesics/di-spirito-2022-endodontic-pain-management-overview]] — endodontic pain pharmacologic management overview; complementary adult context where pulpitis pain IS covered, unlike this pediatric review's extraction-only evidence.
