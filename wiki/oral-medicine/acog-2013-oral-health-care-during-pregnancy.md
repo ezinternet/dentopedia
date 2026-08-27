@@ -55,5 +55,5 @@ Key evidence statements:
 - S. mutans transmission: maternal oral hygiene directly affects infant caries risk
 
 ## Related Papers
-- [[oral-medicine/immune-mediated]] — systemic oral-medicine connections context
+- [[oral-medicine/immune-mediated/immune-mediated]] — systemic oral-medicine connections context
 - [[periodontics]] — periodontal disease evidence base for systemic associations
