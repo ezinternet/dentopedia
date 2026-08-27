@@ -13,6 +13,7 @@ interactives/wiki-stats-live.html 자동 생성기 (Class A — 메타·통계 �
   - YEARS : sources frontmatter year: 히스토그램 (≤2002 묶음)
   - CATS  : wiki top-level 폴더별 페이지 수 (top 20 + 기타 버킷, _ 폴더 제외)
 편집성(과거 사실 → 영구 유효) MILESTONES/PHASES/SCRIPTS는 정적 베이스라인으로 둔다.
+  예외 하나 — PHASES의 마지막 국면은 진행 중이라 종료일이 사실이 아니므로 end_d로 연장한다.
 
 실행: python3 scripts/build-wiki-stats.py   (repo 루트 무관)
 출력: interactives/wiki-stats-live.html  (덮어쓰기)
@@ -154,7 +155,19 @@ STATIC_PHASES = [
      "desc": "interactives · build-interactives-index", "color": "var(--c4)"},
     {"s": "2026-06-12", "e": "2026-06-27", "name": "④ 산업화·자동감시",
      "desc": "ingest-one 병렬 · overviews-map · fetch-oa · wiki-stats-live", "color": "var(--c5)"},
+    {"s": "2026-06-28", "e": "2026-07-08", "name": "⑤ 소비층",
+     "desc": "임상 스킬 4종(consult·consent·education·quiz-gate) · weekly-digest · 논쟁 레이더",
+     "color": "var(--c3)"},
+    {"s": "2026-07-09", "e": "2026-08-03", "name": "⑥ 기억·검색 상시화",
+     "desc": "recall 루프 · embed 자동드레인(launchd) · content-lint · retraction-audit",
+     "color": "var(--c1)"},
+    {"s": "2026-08-04", "e": "2026-08-27", "name": "⑦ 결론 감시·리포 바깥",
+     "desc": "volatility(채점단위=결론) · deepseek 하이브리드 인제스트 · deploy-health",
+     "color": "var(--c2)"},
 ]
+# 마지막 밴드의 "e"는 main()에서 end_d(오늘)로 덮어써 항상 우측 끝까지 이어진다 —
+# 진행 중인 국면이라 종료일이 아직 사실이 아니기 때문. 다음 국면 ⑧을 추가할 때는
+# 여기 ⑦의 "e"에 실제 종료일을 박고 ⑧을 새 마지막 항목으로 넣을 것.
 STATIC_SCRIPTS = [
     {"date": "2026-05-18", "label": "lint · orphan-check", "up": True},
     {"date": "2026-05-19", "label": "queue-watcher", "up": False},
@@ -164,6 +177,12 @@ STATIC_SCRIPTS = [
     {"date": "2026-06-12", "label": "ingest-one (병렬 finalize)", "up": False},
     {"date": "2026-06-16", "label": "build-overviews-map", "up": True},
     {"date": "2026-06-19", "label": "fetch-oa · sweep_state", "up": False},
+    {"date": "2026-07-01", "label": "임상 스킬 4종 · 논쟁 레이더", "up": True},
+    {"date": "2026-07-09", "label": "recall 루프 · output-coverage", "up": False},
+    {"date": "2026-07-16", "label": "embed 자동드레인(launchd)", "up": True},
+    {"date": "2026-08-04", "label": "deepseek 인제스트", "up": False},
+    {"date": "2026-08-05", "label": "volatility-audit", "up": True},
+    {"date": "2026-08-26", "label": "deploy-health", "up": False},
 ]
 STATIC_MILESTONES = [
     {"date": "2026-05-18", "label": "repo init · seed 350"},
@@ -196,6 +215,11 @@ def main():
     days = (date.fromisoformat(end_d) - date.fromisoformat(start_d)).days
     mult = end_v / start_v if start_v else 1.0
 
+    # 진행 중인 마지막 국면은 우측 끝(오늘)까지 이어지게 — 정적 종료일은 두지 않는다
+    phases = [dict(p) for p in STATIC_PHASES]
+    if phases:
+        phases[-1]["e"] = end_d
+
     milestones = list(STATIC_MILESTONES) + [
         {"date": end_d, "label": f"현재 {end_v:,}", "last": True}
     ]
@@ -214,7 +238,7 @@ const OVR_PTS   = {json.dumps(ovr_pts, ensure_ascii=False)};
 const MILESTONES = {json.dumps(milestones, ensure_ascii=False)};
 const YEARS = {json.dumps(years_arr, ensure_ascii=False)};
 const CATS = {json.dumps(cats_arr, ensure_ascii=False)};
-const PHASES = {json.dumps(STATIC_PHASES, ensure_ascii=False)};
+const PHASES = {json.dumps(phases, ensure_ascii=False)};
 const SCRIPTS = {json.dumps(STATIC_SCRIPTS, ensure_ascii=False)};
 const PMAX = {end_v};
 const META = {json.dumps({
@@ -455,11 +479,8 @@ function viewSystem(){
     const tx2=el("text",{x:x+(ta==="start"?6:ta==="end"?-6:0),y:yEnd+(s.up?-21:30),"text-anchor":ta});
     tx2.setAttribute("font-size","10");tx2.setAttribute("fill","var(--muted)");tx2.textContent=s.label;
   });
-  lgItem("var(--c1)","① 부트스트랩");
-  lgItem("var(--c2)","② 자가감사");
-  lgItem("var(--c4)","③ 출력공장");
-  lgItem("var(--c5)","④ 산업화·자동감시");
-  noteEl.textContent="시스템 자체의 4단계 탈피(과거 사실 — 정적). 점선·점 = 스크립트 출생 시점(최초 커밋). band/점에 마우스를 올리면 상세.";
+  PHASES.forEach(p=>lgItem(p.color,p.name));
+  noteEl.textContent=`시스템 자체의 ${PHASES.length}단계 탈피 — 마지막 국면은 진행 중이라 우측 끝까지 이어진다. 점선·점 = 스크립트 출생 시점(최초 커밋). band/점에 마우스를 올리면 상세.`;
 }
 
 const views={timeline:viewTimeline,years:viewYears,cats:viewCats,system:viewSystem};
