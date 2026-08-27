@@ -87,4 +87,4 @@ This 2018 PRISMA-compliant systematic review and meta-analysis by Schiegnitz and
 
 ## Related Papers
 
-- [[implants/survival/park-2023-narrow-regular-diameter-mandibular-overdentures]] — SR+MA extended to mandibular overdenture-specific outcomes; confirmed NDI equivalence and found better patient-reported outcomes vs SDI+augmentation
+- [[implants/short-narrow/park-2023-narrow-regular-diameter-mandibular-overdentures]] — SR+MA extended to mandibular overdenture-specific outcomes; confirmed NDI equivalence and found better patient-reported outcomes vs SDI+augmentation
