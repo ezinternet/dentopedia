@@ -88,3 +88,18 @@ EIF is mechanistically distinct from late failure: it reflects a **failure to ac
 - [[implants/survival/moy-2005-dental-implant-failure-rates-risk]] — classic long-term risk-factor cohort
 - [[overviews/vitamin-d-osseointegration-implant-overview]] — host-factor cross-link (vitamin D & osseointegration)
 - [[overviews/implants-clinical-decision-ladder]] — broader implant decision synthesis
+
+## Clinical Quiz
+<!-- quiz_spec -->
+
+**Q1.** 임플란트 식립 예정 환자가 흡연자입니다. "식립 며칠 전 담배 끊으면 된다"고 합니다. 이 오버뷰에 근거해 위험을 정량화하고 상담 접근을 설명하세요. *(근거: Fan 2024 SR+MA + Yari 2023 + Naseri 2020)*
+
+> **모범답안**: 흡연은 조기 임플란트 실패(EIF)의 **가장 일관된 가변 위험인자**다. Fan 2024 SR+MA(32편, 59,246개 임플란트): 풀링 OR **2.59**. 단기 금연으로 완전히 해결되지 않는다 — Naseri 2020에서 용량 의존적으로 위험이 증가하며(heavy smoker↑), Yari 2023에서 다변량 보정 후에도 OR 1.84, Uesugi에서 OR 2.92로 유의하다. 상담 원칙: ① 식립 **최소 4주 전** 금연 시작 + 장기 유지가 목표임을 설명 ② "며칠 금연"으로는 조직 산소화·혈관 반응이 충분히 회복되지 않는다 ③ 금연 상담·보조제(varenicline/NRT) 연계. 이 오버뷰는 금연 상담을 "통상적 항생제 예방"보다 훨씬 실질적인 EIF 예방 레버로 제시한다.
+
+**Q2.** 단순 발치창에 임플란트 식립 예정인 일반 환자에게 "예방적 항생제를 드시면 실패 위험이 낮아집니다"라고 안내해도 됩니까? *(근거: Momand 2024 SR+MA — NNT 143, GRADE 중간)*
+
+> **모범답안**: **안 된다.** 이 오버뷰의 핵심 소견: Momand 2024 SR+MA(위약대조 이중맹검 RCT만 7편, n=3,014개 임플란트, GRADE 중간)에서 술전 예방적 항생제가 EIF를 **유의하게 줄이지 못했다** — RR 0.66, 비유의, NNT 143. NNT 143은 1명의 실패를 막으려면 143명에게 항생제를 줘야 한다는 의미로 임상적 효용이 매우 낮다. 항균제 내성(AMR) 스튜어드십 관점에서 비복잡 증례에서 통상적 항생제 예방은 이 오버뷰가 명시적으로 **지양**을 권고한다. 단, 즉시 발치와 식립에서는 예외 신호가 있으므로 그 경우는 별도 판단한다.
+
+**Q3.** 후방 상악에 전반적 골이식 없이 Type IV 골에 즉시 임시보철과 함께 임플란트를 식립하는 계획입니다. 이 오버뷰에서 이 계획의 위험도를 어떻게 평가합니까? *(근거: Yari 2023 + Uesugi 2024 + 다변량 위험 누적)*
+
+> **모범답안**: **이 계획은 EIF 위험인자 3개가 동시 겹치는 고위험 시나리오**다. Yari 2023 다변량 분석에서: ① 후방 상악 OR 2.96 ② Type IV 골 OR 2.88 ③ 즉시 임시보철/즉시 로딩 OR 3.42 — 단일 예측인자 중 가장 강하다. 이 오버뷰는 위험인자가 누적될 때 각 OR이 단순 가산이 아니라 상승작용으로 작동할 수 있음을 경고한다. 권장 조정: ① 즉시 로딩을 포기하고 보수적 로딩(8–12주)으로 변경 ② Type IV 골에서는 CA/SLActive 친수성 표면 또는 OD(골밀도화) 기법 병용(surface 오버뷰 연계) ③ 흡연·당뇨 등 추가 위험인자 유무 재확인. 이 계획을 그대로 진행하면 EIF 확률이 단일 부위 평균(1–4%)을 크게 상회할 것이다.
