@@ -52,5 +52,5 @@ Prospective case series, n=20, single center (University of Bern). Early placeme
 
 ## Related Papers
 - [[bone-regeneration/buser-2023-gbr-implant-35years-basic-principle-review]] — extends (this data cited as key evidence in 35-year GBR review)
-- [[immediate-implant/buser-2017-implant-placement-timing-post-extraction-esthetic]] — reinforces (early placement rationale; this provides 10-year outcomes)
+- [[immediate-implant/esthetic-soft-tissue/buser-2017-implant-placement-timing-post-extraction-esthetic]] — reinforces (early placement rationale; this provides 10-year outcomes)
 - [[bone-regeneration/cha-2024-gbr-dehiscence-synthetic-vs-bovine-rct]] — related (GBR at dehiscences — different clinical scenario)
