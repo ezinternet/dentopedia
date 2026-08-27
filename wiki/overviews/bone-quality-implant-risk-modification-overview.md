@@ -188,3 +188,18 @@ Supporting papers added 2026-07-10 (the pharmacologic lever and the aging axis):
 - [[implants/osteotomy-thermal/tabassum-2021-undersized-axial-compression-primary-stability]] — animal: lateral + axial compression raise IT/%BIC in low-density bone.
 - [[implants/osteotomy-thermal/gehrke-2021-healing-chambers-macrogeometry-low-density-drilling]] — in-vitro: undersizing helps only above a density floor; macrogeometry complements.
 - [[implants/khaohoen-2023-biomaterials-dental-implants-bone-density-narrative-review]] — narrative review (119 articles): reinforces the material × design × technique triad for low-density bone; supplies survival-by-density (D-IV 88.8%), the low-density geometry recipe, and the Ti/zirconia/PEEK material comparison.
+
+## Clinical Quiz
+<!-- quiz_spec -->
+
+**Q1.** 상악 구치부에서 Type IV 골로 진단됐습니다. "골다공증 환자라 임플란트 금기"라는 결론을 이 오버뷰에 근거해 평가하세요. *(근거: Rosa 2024 SR+MA + 골다공증 장기 근거)*
+
+> **모범답안**: **두 주장 모두 과장이다.** Type IV 골은 위험 증가이지 금기가 아니다 — Rosa 2024 SR+MA(49편, 29,905개 임플란트)에서 Type IV는 ~1.5–1.9배 더 실패한다. 그러나 이 오버뷰의 핵심 오판 패턴: **"골다공증 = 높은 임플란트 실패"는 틀린 통념**이다. 골다공증 환자의 임플란트 생존율은 단기적으로 건강군과 유사하며 장기(5–10년)에서 82.6–94.1%로 감소하는 정도다. 이 오버뷰는 골다공증 위험(장기 생존)과 약물 위험(MRONJ)을 **분리해서 보라**고 명시한다. 골다공증 자체는 절대 금기가 아니다. Type IV 골에서의 전략은 수정 레버 누적: OD(골밀도화) + 테이퍼 매크로디자인 + 직경 ≥4mm + 친수성 표면 + 지연 부하.
+
+**Q2.** 치조정 피질골이 얇은 환자에서 임플란트 안정성을 높이기 위해 더 긴 임플란트(깊은 해면골 penetration)를 식립하려 합니다. 이 오버뷰에 근거해 이 전략이 효과적입니까? *(근거: Chatvaratthana 2017 + Di Stefano 2021 — 피질골 두께 vs 해면골 깊이)*
+
+> **모범답안**: **효과가 없다.** 이 오버뷰는 **치조정 피질골 두께(Crestal Cortical Thickness)가 가장 강한 ISQ 예측인자**이며, **더 깊은 해면골(6–9mm)은 얇은 피질골을 대체하지 못한다**고 명시한다(Chatvaratthana 2017, Di Stefano 2021). 해면골에 아무리 많이 들어가도 얇은 피질골로 인한 초기 안정성 부족을 보충할 수 없다. 올바른 전략은 임플란트 길이를 늘리는 것이 아니라: ① 언더드릴링 / OD로 피질골 맞물림을 최대화 ② 테이퍼 임플란트로 삽입 토크 확보 ③ 친수성 표면으로 stability dip 제거 ④ 지연 부하로 골유착 시간 확보.
+
+**Q3.** OD(골밀도화, Osseodensification)를 Type IV 골에 적용하면 생존율이 올라갑니까? *(근거: Mello-Machado 2021 RCT)*
+
+> **모범답안**: **생존율이 올라간다는 근거는 없다.** 이 오버뷰는 OD에 대해 정확하게 정의한다: Mello-Machado 2021 RCT(n=16)에서 OD는 삽입 토크를 유의하게 올리지만(39 vs 32 Ncm) **ISQ와 6개월 생존율은 통상 드릴링과 동등**하다. 즉 OD는 "**생존 업그레이드가 아닌 안정성 보존 옵션**"이다. OD의 임상적 가치는 연질골에서 과도한 삭제 없이 초기 안정성을 얻는 것 — 생존율을 높인다는 주장은 이 오버뷰의 근거가 지지하지 않는다. 이 점을 환자 상담 시 정직하게 설명해야 한다.
