@@ -271,3 +271,18 @@ Choose aligners confidently for **mild-to-moderate, non-extraction, predominantl
 - [[overviews/myofunctional-elastodontic-orthodontics-overview]] — myofunctional/elastodontic appliances: the interceptive (growing-patient) removable-appliance counterpart
 - [[overviews/interdental-cleaning-devices-synthesis]] — oral-hygiene context for the periodontal/biofilm axis
 - [[overviews/tmd-management-evidence-ladder]] — TMD context for the masticatory/TMJ axis
+
+## Clinical Quiz
+<!-- quiz_spec -->
+
+**Q1.** 성인 환자의 상악 우측 견치 회전 7°를 투명교정(Clear Aligner Therapy, CAT)으로 계획하고 있습니다. ClinCheck에 7° 회전을 그대로 설계하면 실제로 몇 도가 달성될 가능성이 높습니까? *(근거: Benedetti 2025 회전 SR + Cao 2025 FEA)*
+
+> **모범답안**: **약 36–58%** — 즉 약 2.5–4°가 달성될 가능성이 높다. Benedetti 2025(회전 전용 SR, 12편, attachment 포함, 리파인먼트 전)에서 견치 회전 정확도는 **36–58%(평균 ~47%, 잔여오차 ~4.5°)로 부위 중 최저**였다. 직관과 반대로 견치가 최악인 이유는 치근 단면이 원형에 가까워 aligner가 짝힘(couple)을 걸 지지점이 없기 때문이다(Cao 2025 FEA). Attachment 11편에서도 이득이 불일치하므로 실행 가능한 레버는 **staging 낮추기(<1.5°/aligner)**다. 따라서 설계 시 7°를 목표로 하려면 attachment + 충분한 staging 단계 분산 + 과교정을 계획해야 한다.
+
+**Q2.** 상악 4소구치 발치 후 투명교정으로 공간 폐쇄를 계획합니다. 이 오버뷰에서 전치 치근 이동의 정확도 문제와 임상 대응책은 무엇입니까? *(근거: Wang 2025 CBCT 중첩 + Tang 2025 CoS failure)*
+
+> **모범답안**: Wang 2025(후향연구, 47명·542치아, CBCT 중첩)에서 **치근 이동이 치관 이동보다 항상 과소 달성**됐고, 절치 치근 최대 오차는 5.49mm였다. 더 심각한 것은 전치에서 **계획된 압하(intrusion) 대신 오히려 정출(extrusion)이 발생**한 것이다. Tang 2025의 CoS leveling failure와 함께 발치 CAT의 "이중 생체역학 페널티"를 구성한다. 임상 대응: ① ClinCheck 설계 시 **치근/토크를 과보정(overcorrection)**으로 설계 ② **압하 방향이 계획대로 나오지 않을 가능성**을 염두에 두고 attachment 위치 확인 ③ Vicioni-Marques 2025 SR+MA(발치 공간폐쇄, GRADE 매우 낮음): **전반적 과소 달성** 확인 — 재치료 루틴화와 과교정 설계를 기본값으로 삼는다.
+
+**Q3.** 투명교정이 치주 건강에 고정식 교정(Fixed Appliance, FA)보다 유리하다고 환자에게 설명했습니다. 이 오버뷰에서 이 설명이 얼마나 정확합니까? *(근거: Di Spirito 2023 umbrella review + TNF-α 기전)*
+
+> **모범답안**: **초기 이점은 있으나 "장기적으로 더 좋다"는 설명은 과장이다.** Di Spirito 2023(umbrella review, 4 SR, 2,042명)에서 단·중기에는 PI·GI·SBI·PPD 모두 CAT 통계적 우위였으나(지수 MD −0.14~−1.10), **장기에는 전부 NS** — 저자 결론은 두 방법이 "비교 가능(comparable)"이다. 단기 우위도 **<1mm 또는 <1점으로 임상적으로 미미**하다. Hassan 2024(TNF-α 종적연구)에서 골개조 사이토카인 TNF-α가 전 시점에서 FA > CAT로 유의하게 높아 CAT 치주 우위의 생화학적 기전을 설명하지만, 이것은 "CAT가 치주에 더 좋다"가 아니라 **"단기 위생 접근성 효과이며 compliance 의존적"**으로 읽어야 한다. 동의서 문구: "초기에 위생 관리가 더 유리하나 장기 치주 건강은 두 방법이 비슷합니다."
