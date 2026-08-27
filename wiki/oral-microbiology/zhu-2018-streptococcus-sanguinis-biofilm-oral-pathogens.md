@@ -70,7 +70,7 @@ L-아르기닌은 이중종 생물막에서 S. mutans 생체량을 선택적으�
 
 ## Related Papers
 
-- [[oral-microbiology]] — parent category; dysbiosis model, keystone pathogens, polymicrobial synergy
-- [[caries]] — *S. mutans* pathogenesis, caries ecology, L-arginine anti-caries interventions
-- [[periodontics]] — *P. gingivalis*, red complex, biofilm-associated periodontitis
+- [[oral-microbiology/oral-microbiology]] — parent category; dysbiosis model, keystone pathogens, polymicrobial synergy
+- [[caries/caries]] — *S. mutans* pathogenesis, caries ecology, L-arginine anti-caries interventions
+- [[periodontics/periodontics]] — *P. gingivalis*, red complex, biofilm-associated periodontitis
 - [[oral-microbiology/zhu-2018-streptococcus-sanguinis-biofilm-oral-pathogens]] (self) — primary reference for *S. sanguinis* commensal biology
