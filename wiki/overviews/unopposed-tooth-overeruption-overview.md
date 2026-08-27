@@ -169,3 +169,18 @@ The practical implication: there is **no strong, low-cost mechanical fix** that 
 
 - **Now held** (16 pages): Craddock & Youngson 2004 (83% figure), Kiliaridis 2000 (18% non-eruptors), Christou 2007 (3D), Lindskog-Stokland 2012 (4.9× risk, bone support), Craddock 2006/2007 (Broadrick curve; partial contact), Faggion 2011 (GRADE review), Fujita 2009/2010 rat (age; periodontitis), Hayashi 2014 rat (PDL/BMD hypofunction model), Greenstein 2018 (second-molar replacement decision), Denes 2020 rat (longitudinal micro-CT, 172 µm/day, 3-week critical window), Hong 2023 CBCT (5-year extrusion 1.37mm, adjacent tipping, bone constraints for molar protraction), **Smith 1996 (orthodontic extraction model: upper 2nd molar removal → lower 2nd overeruption; 3rd molar replacement does not prevent it)**.
 - **No paper** directly comparing endo-treated vs vital tooth overeruption (the originating clinical question) — would be the single highest-value addition.
+
+## Clinical Quiz
+<!-- quiz_spec -->
+
+**Q1.** "근관치료한 치아는 치수가 죽었으니 생활치보다 더 많이 정출한다"는 환자 우려에 이 오버뷰에 근거해 답하세요. *(근거: 정출 기전 PDL 주도 + Rule #4 적용)*
+
+> **모범답안**: **근거 없다.** 이 오버뷰는 "실활치 vs 생활치 정출 차이는 근거가 없다"고 명시한다 — 직접 비교 논문이 없으나 기전적 추론으로 설명된다: 정출은 **치수(Pulp) 현상이 아니라 치주인대(PDL)·치조골 주도 현상**이다. 근관치료 후에도 PDL은 그대로 기능하므로 치주 상태가 비슷하다면 엔도치와 생활치는 비슷하게 정출한다고 보는 것이 타당하다. 동물 실험(Hayashi 2014 랫드)에서도 교합 자극 제거 2주만에 PDL 두께·치조골 골밀도가 감소하는 것이 확인됐다 — 정출 드라이버는 PDL이며 치수 상태는 무관하다. "크라운 씌웠으니 정출 안 한다"는 것도 같은 이유로 오판이다.
+
+**Q2.** 임플란트 치료를 계획 중인 하악 제1대구치 결손 환자에서, 상악 제1대구치의 정출 위험을 어떻게 평가하고 언제까지 얼마나 움직입니까? *(근거: Wang 2022 CBCT + Hong 2023 장기 CBCT)*
+
+> **모범답안**: 이 오버뷰는 두 CBCT 연구로 정출을 정량화한다: **단기**(Wang 2022, n=68, 9개월): 평균 0.43 mm, 최대 0.75 mm, 72%는 1mm 미만 — 그러나 소수의 "빠른 정출자(fast eruptor)"는 9개월에 2.56mm. **장기**(Hong 2023, 평균 62.6개월): 상악 제1대구치 근심교두 1.37 mm, 원심교두 0.85 mm. 시간 패턴: **발치 직후 첫 수주가 가장 빠르고** 이후 둔화. 임플란트 치료기간(9–12개월) 동안 대합치는 계속 움직이므로 **보철 계획에 공간관리를 포함**해야 한다. 또한 정출은 순수 수직이 아니라 **협측 경사 1.7° + 회전을 동반**한 3차원 움직임이어서 단순 교두 높이 측정은 과소평가할 수 있다.
+
+**Q3.** 대합 제1소구치가 없는 성인 환자에서 "지금 당장 보철이 필요 없다"는 결정이 이 오버뷰에서 방어 가능합니까? 어떤 조건이면 모니터링이 기본값입니까? *(근거: Greenstein 2018 + 위험 프로파일 + 임상 ladder)*
+
+> **모범답안**: **조건에 따라 방어 가능하다.** 이 오버뷰의 임상 ladder는 위험 층화를 먼저 하라고 명시한다. **저위험 프로파일에서 모니터링이 방어 가능한 기본값**: 고령 환자·하악 치아·부분 교합접촉이 잔존·치주 건강. Greenstein 2018의 추가 근거: 제1대구치 교합만으로 저작 효율 ~90% 달성 가능, 대합치 없는 구치의 ~20%만 ≥2 mm 정출하며 정출량과 교합간섭 발생 사이에 강한 상관이 없다. **즉시 보철이 필요한 고위험 프로파일**: 젊은 환자·상악 치아·완전 무대합·치주염 동반·발치 직후. "85% 치과의사가 정출이 필연이라 믿지만" 데이터는 더 부드럽다 — 반사적 보철 강요 근거는 약하다. 단, 미처리 정출이 쌓이면 차후 보철 계획을 복잡하게 하므로 예방적 모니터링은 최소 기준이다.
