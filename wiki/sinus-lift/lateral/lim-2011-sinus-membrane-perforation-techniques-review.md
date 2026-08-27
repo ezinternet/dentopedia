@@ -85,4 +85,4 @@ Sinus floor elevation is a predictable procedure for posterior maxillary implant
 
 ## Related Papers
 
-- [[sinus-lift/lateral]] — parent category for lateral sinus lift complications and technique
+- [[sinus-lift/lateral/lateral]] — parent category for lateral sinus lift complications and technique
