@@ -82,6 +82,10 @@ agenda에서 파생된 산출물(slides·interactive·overview)은 자신의 fro
 
 Deploy order (in `deploy-pages.yml`): `build-wiki-stats.py` → `build-interactives-index.py` (so the live tool is indexed) → `interactive-staleness.py` (non-blocking) → copy `interactives/` into the site.
 
+**색인 카테고리 — `category:`는 인덱스 전용 taxonomy다.** `interactives/index.html`은 각 도구 frontmatter의 `category:` 값으로 섹션을 나눈다. 이 키 집합은 `scripts/build-interactives-index.py`의 `CATEGORIES` 리스트가 단일 출처이며 — **`wiki/_meta/categories.md`(논문 라우팅 카테고리)와는 다른 축이다.** 새 도구를 쓸 때 wiki 카테고리 값(`bone-regeneration`, `endodontics`, `tmj` …)을 그대로 적으면 안 되고, 스크립트의 `CATEGORIES` 키 중 하나를 쓴다. 잘못된/누락된 값은 '기타 · 미분류' 버킷으로 떨어지고 빌드가 stderr에 경고한다. 흔한 wiki 값은 같은 스크립트의 `ALIASES`가 흡수하지만 안전망일 뿐 — 정규 키를 직접 쓰는 것이 원칙.
+
+*Why*: 2026-08-27 실측 — 84개 도구 중 30개(36%)가 wiki taxonomy 값을 달고 '기타·미분류' 한 덩어리에 몰려 있었다. 빌드는 성공하고 도구도 다 보였기 때문에 어떤 감사에도 안 걸렸고, 배포 사이트에서 **분류만 조용히 무너진** 상태였다.
+
 ## 7. Interactive HTML 디자인 규칙 (항상 적용)
 
 **라이트 고정 — OS 다크 모드 무시.** 임상 인터랙티브는 환경에 관계없이 항상 라이트로 렌더링한다.
