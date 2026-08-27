@@ -69,4 +69,4 @@ Key finding: all four systems exhibited microgaps before any loading was applied
 ## Related Papers
 
 - [[implants/peri-implantitis/peri-implantitis]] — microgap-driven microleakage and bacterial colonization as a proposed mechanism for peri-implantitis
-- [[prosthetic-materials]] — IAC design considerations for screw vs. cement retention and mechanical complications
+- [[prosthetic-materials/prosthetic-materials]] — IAC design considerations for screw vs. cement retention and mechanical complications
