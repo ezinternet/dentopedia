@@ -147,5 +147,5 @@ These three were previously carried as `related:` typed edges. That type is not 
 
 - [[orofacial-pain/kim-2024-trigeminal-sensory-system-orofacial-pain]] — companion narrative review covering trigeminal anatomy, cellular composition, and synaptic physiology; the structural counterpart to this page's glial/functional account
 - [[orofacial-pain/guan-2025-cerebellin-2-trigeminal-neuropathic-pain]] — mouse pIONT model with cross-species single-nucleus RNA-seq of trigeminal ganglion; supplies the cell-type-resolved mechanistic data this 2021 review could only anticipate
-- [[orofacial-pain/khalifeh-2024-trismus-following-inferior-alveolar-nerve-block]] — clinical case of post-IANB trismus; included as clinical context for orofacial pain presentations, not as mechanistic evidence for glial involvement
+- [[tmj/khalifeh-2024-trismus-following-inferior-alveolar-nerve-block]] — clinical case of post-IANB trismus; included as clinical context for orofacial pain presentations, not as mechanistic evidence for glial involvement
 
