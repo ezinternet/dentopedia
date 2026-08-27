@@ -79,6 +79,6 @@ Key quantitative benchmarks:
 
 ## Related Papers
 
-- [[implants/surface]] — category overview for surface treatment evidence
+- [[implants/surface/surface]] — category overview for surface treatment evidence
 - Wennerberg & Albrektsson (2004) roughness classification — foundational framework used throughout this review
 - Omar et al. (2010, 2011) — molecular interface biology studies underlying the CXCR4 findings
