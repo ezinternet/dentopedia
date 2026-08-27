@@ -81,5 +81,5 @@ The key finding: vertical implant positioning within vs. beyond the ARP boundary
 ## Related Papers
 
 - [[implants/isq/bavetta-2019-insertion-torque-isq-immediate-loading-extraction-socket]] — insertion torque–ISQ relationship in fresh extraction sockets; corroborates moderate correlation
-- [[bone-regeneration/ridge-preservation]] — ARP methodology and socket preservation evidence base
+- [[bone-regeneration/ridge-preservation/ridge-preservation]] — ARP methodology and socket preservation evidence base
 - [[implants/isq/andersson-2019-rfa-factors-5year-neoss-survival]] — ISQ thresholds and factors affecting long-term stability
