@@ -64,4 +64,4 @@ At 6 months (CBCT), both approaches produced meaningful horizontal width gain: s
 
 ## Related Papers
 
-- [[bone-regeneration/ridge-preservation]] — ridge preservation overview
+- [[bone-regeneration/ridge-preservation/ridge-preservation]] — ridge preservation overview
