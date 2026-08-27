@@ -76,11 +76,27 @@ Traditionally, AP was associated with increased pain because of the perceived ri
 - Mechanism hypothesis: apical patency prevents debris accumulation at the foramen → reduces inflammatory load
 - **Caveat**: individual study results remain conflicting; this should not be interpreted as strong evidence for AP as a pain-reduction strategy
 
+#### Where the wider post-operative pain evidence sits (AP-adjacent)
+
+Two umbrella reviews map the post-operative pain (POP) landscape that AP sits inside. Neither isolates AP as an exposure variable, so they bound the claim rather than confirm it:
+
+- [[endodontics/zamparini-2026-postop-pain-endodontic-instrumentation-irrigation-obturation-umbrella]] (umbrella, 25 SR+MA across irrigation / instrumentation / obturation, 2016–2025; PROSPERO CRD420261331928): what repeatedly moved short-term (6–48 h) POP was **lower NaOCl concentration (1–3% vs ≥5%), irrigant activation, and intracanal cryotherapy** — not the shaping-stage decisions AP belongs to. The authors read their own findings as directional trends rather than recommendations (obturation-domain corrected covered area 17.6%; 4/25 SRs without protocol registration).
+- [[endodontics/shaping/abraham-2025-instrumentation-kinematics-postendodontic-pain-umbrella]] (umbrella, 8 SRs / 7 MAs, AMSTAR-2 all "high"): rotary instrumentation was generally associated with lower overall POP than manual or reciprocating (Hou 2017 OR 2.24–11.71; Sun 2018 RR 0.32–0.73), **attributed to reduced apical debris extrusion** — the same mechanism proposed for AP being pain-neutral or protective. No system was universally superior, and the review carries an unreconciled abstract-vs-Discussion conflict on its 24 h figure (SMD 0.25 favouring rotary).
+
+**Reading**: the mechanism AP is credited with (less debris packed at the foramen) is the same mechanism the kinematics literature credits for rotary's pain advantage. That convergence is why the classical "AP worsens pain" position has become hard to defend. But **no umbrella review here carries AP as its exposure variable** — this is mechanistic convergence, not direct evidence for AP as a pain intervention.
+
 ### Anatomic Enablers of Patency
 
 - **Preoperative CBCT**: essential for identifying anatomy that would impede patency (MB2 canals, severe curvatures, C-shaped canals, calcifications)
 - **NiTi files with reciprocating kinematics**: enhance predictability of glide path establishment before patency confirmation
 - **Anatomical complexity as a patency barrier**: when anatomy prevents AP despite correct technique, failure to achieve patency is not a clinical failure per se — forcing it becomes Operative Patency and is contraindicated
+
+#### Glide path quality — the bench evidence behind the enabler (AP-adjacent)
+
+Neither study below used patency as an endpoint; both address the glide path that AP confirmation depends on, so they are read here as mechanism-level support, not as AP outcome evidence.
+
+- **Rotary glide path preserves canal geometry better than manual.** [[endodontics/shaping/aflaki-2020-glide-path-pathfile-scoutrace-cbct]] (ex vivo, n=51 mandibular molar mesiobuccal canals, 25–45° curvature, pre/post CBCT in natural dentin) found manual stainless-steel K-files produced significantly greater canal transportation at 3 mm and 9 mm from the apex than either PathFile or Scout RaCe (p<0.05); the two rotary systems were statistically equivalent to each other. Transportation in the apical 3 mm is precisely what converts Anatomical Patency into a transported foramen — which is the geometric argument for a rotary glide path in curved canals *before* AP is confirmed.
+- **Every glide path technique extrudes — apical insult is not unique to patency.** [[endodontics/shaping/pui-yii-2021-glide-path-apical-bacteria-extrusion]] (ex vivo, single-rooted teeth inoculated with *E. faecalis*; manual K-file vs One G continuous rotary vs WaveOne Gold Glider reciprocation) measured apical bacterial extrusion in **all three** kinematics. The biological cost is therefore already incurred at the glide-path stage regardless of technique, which reframes the classical objection to AP: apical extrusion is a property of instrumentation itself, not a penalty unique to keeping the canal patent. Limits: single species, single-rooted teeth, no in vivo flare-up endpoint.
 
 ## Evidence Map
 
@@ -115,6 +131,6 @@ Traditionally, AP was associated with increased pain because of the perceived ri
 - [[endodontics/shaping/ishizaki-2026-clinical-significance-anatomical-considerations-apical-patency]] — Comprehensive review: Anatomical vs Operative Patency framework (primary source)
 - [[endodontics/shaping/aflaki-2020-glide-path-pathfile-scoutrace-cbct]] — glide path preparation and canal transportation via CBCT
 - [[endodontics/shaping/pui-yii-2021-glide-path-apical-bacteria-extrusion]] — apical extrusion during glide path preparation (AP vs no-AP context)
-- [[endodontics/shaping/zamparini-2026-postop-pain-endodontic-instrumentation-irrigation-obturation-umbrella]] — umbrella review where AP is discussed as a factor in postoperative pain
+- [[endodontics/zamparini-2026-postop-pain-endodontic-instrumentation-irrigation-obturation-umbrella]] — umbrella review (25 SR+MA): POP drivers are irrigation-side, not shaping-side
 - [[endodontics/shaping/abraham-2025-instrumentation-kinematics-postendodontic-pain-umbrella]] — instrumentation kinematics and post-endodontic pain (AP-adjacent)
 - [[overviews/eal-working-length-protocol]] — working length determination; AP is a companion concept
