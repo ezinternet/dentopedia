@@ -77,4 +77,4 @@ Narrative review. Literature search strategy not formally reported. Draws on Eur
 
 ## Related Papers
 
-- [[implants/peri-implantitis]] — foundational anchor for this category
+- [[implants/peri-implantitis/peri-implantitis]] — foundational anchor for this category
