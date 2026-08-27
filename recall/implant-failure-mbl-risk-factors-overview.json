@@ -1,0 +1,49 @@
+{
+  "overview": "implant-failure-mbl-risk-factors-overview",
+  "date": "2026-08-27",
+  "title": "임플란트 후기 실패·MBL 위험인자 종합 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/implant-failure-mbl-risk-factors-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "흡연자와 비흡연자의 5년 변연골소실(Marginal Bone Loss, MBL) 차이를 수치로 제시하고, 흡연이 이 RCT에서 어떤 지위를 가졌습니까? (근거: gjelvold-2021 RCT)",
+      "opts": [
+        "흡연자 −0.80mm vs 비흡연자 −0.40mm(p=0.21, NS) — 통계적 차이 없음",
+        "흡연자 −1.90mm vs 비흡연자 −0.40mm(p=0.021) — 그리고 이 RCT에서 MBL의 유일한 유의한 예측인자였다(로딩 프로토콜 포함 다른 인자는 비유의)",
+        "흡연자 −3.50mm vs 비흡연자 −1.20mm — 5년 누적기준 흡연이 가장 큰 위험인자",
+        "흡연자 −1.90mm vs 비흡연자 −0.40mm이지만 이 수치는 조기 실패 결과다"
+      ],
+      "ans": 1,
+      "rat": "gjelvold-2021 RCT(n=50, 상악 단관, 5년): 흡연자 MBL −1.90mm vs 비흡연자 −0.40mm(p=0.021). 이 RCT에서 MBL 유의한 예측인자는 로딩 프로토콜이 아니라 흡연 하나뿐 — 숙주인자가 술식 선택을 압도한다는 가장 깨끗한 진술. Kumar-2021 1년 기준선(pooled 0.56mm) 대비: 비흡연자 −0.40mm는 5년치인데 1년 평균보다 적고, 흡연자는 3배가 넘음.",
+      "cite": "overviews/implant-failure-mbl-risk-factors-overview"
+    },
+    {
+      "id": "q2",
+      "q": "fan-2024 SR+MA(32편, 59,246 임플란트)의 흡연 OR 2.59는 이 오버뷰(후기 실패·MBL 페이지)에서 직접 인용 가능합니까?",
+      "opts": [
+        "가능하다 — 흡연과 임플란트 실패의 가장 강력한 pooled 추정치다",
+        "불가능하다 — OR 2.59는 조기 실패(early failure) 엔드포인트라 이 페이지의 후기 창(late window)에 해당하지 않는다",
+        "가능하다 — 조기·후기 실패를 합산한 전체 수명 추정치다",
+        "불가능하다 — 방법론적 GRADE가 낮아 인용 자체를 피해야 한다"
+      ],
+      "ans": 1,
+      "rat": "fan-2024는 조기 실패(보철 완료 전)를 엔드포인트로 한 SR+MA다. 이 페이지는 후기 실패(보철 후 파절·MBL 진행)를 다루므로 fan-2024 OR 2.59는 직접 해당하지 않는다. 후기 창 흡연 수치는 moy-2005 RR 1.56과 gjelvold-2021 5년 MBL 격차(-1.90 vs -0.40mm)가 on-target 추정치다.",
+      "cite": "overviews/implant-failure-mbl-risk-factors-overview"
+    },
+    {
+      "id": "q3",
+      "q": "이갈이(bruxism)의 임플란트 실패 위험 크기와 근거 수준은? (근거: barboza-2026)",
+      "opts": [
+        "OR 1.3 — 통계적 유의성은 있으나 임상적으로 미미(개별 증례보고 수준)",
+        "OR 4.68 — 우산리뷰(SR+MA 8편)로 SR+MA 등급 근거 확보, 이 페이지의 두 번째로 강한 위험인자",
+        "OR 2.1 — 유의하나 흡연보다 근거 수준이 낮아 소규모 후향적 연구에만 근거",
+        "RR 0.89 — 이갈이는 임플란트 실패를 오히려 예방하는 방향으로 작용"
+      ],
+      "ans": 1,
+      "rat": "barboza-2026 우산리뷰(SR 8편, MA 5편): 이갈이 → 임플란트 실패 OR 4.68. 기존 narrative-level 주장(song-2021)에서 SR+MA 등급으로 격상. 이 오버뷰에서 흡연('highly suggestive') 다음으로 강한 위험인자. 흡연+이갈이 둘 다 수술 전 스크리닝 대상.",
+      "cite": "overviews/implant-failure-mbl-risk-factors-overview"
+    }
+  ]
+}
