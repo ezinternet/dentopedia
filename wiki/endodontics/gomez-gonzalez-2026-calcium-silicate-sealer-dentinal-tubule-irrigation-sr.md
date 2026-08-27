@@ -65,7 +65,7 @@ This systematic review (PRISMA 2020, OSF-registered protocol) asked how final ir
 
 ## Related Papers
 
-- [[endodontics/surana-bhandari-2026-single-cone-hydraulic-sealer-irrigation-protocol]] — extends; single in-vitro study on irrigation-sequence × hydraulic-cement sealer dentin interface/antimicrobial behavior, broadened here into a 21-study systematic evidence base on irrigation's effect on CSS behavior.
-- [[endodontics/feng-2025-ultrasonic-activation-single-cone-filling-sr-ma]] — SR+MA on ultrasonic activation and single-cone filling outcomes; intersects with this review's activation-method findings (PUI/sonic activation generally improving penetration over conventional irrigation).
-- [[endodontics/elmsmari-2025-single-cone-bioceramic-clinical-success-sr-ma]] — clinical single-cone bioceramic success-rate SR+MA; provides the clinical-outcome counterpart this review's laboratory-only penetration findings cannot yet be linked to.
-- [[endodontics/kunam-2024-wettability-ahplus-ceraseal-guttaflow]] — related in-vitro dentin-interface/wettability work on CeraSeal relevant to the moisture-control discussion in this review.
+- [[endodontics/obturation/surana-bhandari-2026-single-cone-hydraulic-sealer-irrigation-protocol]] — extends; single in-vitro study on irrigation-sequence × hydraulic-cement sealer dentin interface/antimicrobial behavior, broadened here into a 21-study systematic evidence base on irrigation's effect on CSS behavior.
+- [[endodontics/obturation/feng-2025-ultrasonic-activation-single-cone-filling-sr-ma]] — SR+MA on ultrasonic activation and single-cone filling outcomes; intersects with this review's activation-method findings (PUI/sonic activation generally improving penetration over conventional irrigation).
+- [[endodontics/obturation/elmsmari-2025-single-cone-bioceramic-clinical-success-sr-ma]] — clinical single-cone bioceramic success-rate SR+MA; provides the clinical-outcome counterpart this review's laboratory-only penetration findings cannot yet be linked to.
+- [[endodontics/obturation/kunam-2024-wettability-ahplus-ceraseal-guttaflow]] — related in-vitro dentin-interface/wettability work on CeraSeal relevant to the moisture-control discussion in this review.
