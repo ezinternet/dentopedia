@@ -65,5 +65,5 @@ STL3 serves as the digital input for CAD/CAM abutment design and can also genera
 
 ## Related Papers
 
-- [[digital-workflow]] — parent category for digital impression and CAD/CAM workflows
+- [[digital-workflow/digital-workflow]] — parent category for digital impression and CAD/CAM workflows
 - [[immediate-implant/esthetic-soft-tissue/esthetic-soft-tissue]] — clinical context: provisional-driven peri-implant soft tissue conditioning in esthetic zone
