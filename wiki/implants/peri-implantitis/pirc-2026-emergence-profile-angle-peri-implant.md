@@ -68,6 +68,6 @@ Biological rationale: collagen fibers in peri-implant connective tissue run *par
 
 ## Related Papers
 
-- [[immediate-implant/esthetic-soft-tissue]] — overlapping domain: soft tissue architecture around implants in the esthetic zone
-- [[implants/soft-tissue]] — keratinized mucosa width/thickness as co-variable of peri-implant health
-- [[implants/peri-implantitis]] — treatment context: this paper adds prosthetic modification as a treatment/prevention arm
+- [[immediate-implant/esthetic-soft-tissue/esthetic-soft-tissue]] — overlapping domain: soft tissue architecture around implants in the esthetic zone
+- [[implants/soft-tissue/soft-tissue]] — keratinized mucosa width/thickness as co-variable of peri-implant health
+- [[implants/peri-implantitis/peri-implantitis]] — treatment context: this paper adds prosthetic modification as a treatment/prevention arm
