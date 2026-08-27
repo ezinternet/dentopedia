@@ -1,0 +1,49 @@
+{
+  "overview": "implant-loading-protocol-prosthesis-type-overview",
+  "date": "2026-08-27",
+  "title": "임플란트 로딩 프로토콜·보철 구성별 종합 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/implant-loading-protocol-prosthesis-type-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "단일 임플란트 단관 수복에서 삽입토크 30 Ncm, ISQ 63으로 식립됐습니다. 즉시부하가 가능합니까? (근거: Benic 2014 SR+MA + Esposito 2013 Cochrane)",
+      "opts": [
+        "불가능하다 — 즉시부하는 ISQ ≥70이어야 한다",
+        "불가능하다 — 동시 골증대술이 없어도 단관에서는 통상부하만 권장된다",
+        "가능하다 — 삽입토크 ≥20–45 Ncm 또는 ISQ ≥60–65 + 동시 골증대술 없음이라는 즉시부하 등가 봉투를 충족한다",
+        "불가능하다 — 상악 여부와 골질을 먼저 확인해야 한다"
+      ],
+      "ans": 2,
+      "rat": "Benic 2014 SR+MA(11 RCT): 삽입토크 ≥20–45 Ncm 또는 ISQ ≥60–65 + 동시 골증대술 없을 때 즉시=통상 생존(1년 OR 0.75, NS)·5년 MBL(SMD −0.05, NS) 동등. 삽입토크 30 Ncm·ISQ 63 모두 최소 임계값 충족. Esposito 2013(Cochrane, 26 RCT)도 삽입토크 ≥35 Ncm 전제 하 즉시/조기 vs 통상 동등 확인.",
+      "cite": "overviews/implant-loading-protocol-prosthesis-type-overview"
+    },
+    {
+      "id": "q2",
+      "q": "완전 가이드 수술(Fully Guided Surgery)로 IT>20 Ncm, ISQ>65를 충족한 후 즉시로딩을 적용했습니다. 이 결정에 대한 Ko 2021 RCT의 근거는?",
+      "opts": [
+        "지지된다 — 안정성 임계값을 충족하면 즉시로딩이 안전하다",
+        "지지된다 — 가이드 수술이므로 오차가 작아 즉시로딩이 더 유리하다",
+        "지지되지 않는다 — 동일 임계값 충족에도 가이드 수술+즉시로딩군 1년 생존율 83.4% vs 지연로딩 100%(p<0.01)로 유의하게 낮았다",
+        "지지된다 — 1년 후 MBL이 지연로딩보다 유의하게 적었다"
+      ],
+      "ans": 2,
+      "rat": "Ko 2021 RCT(n=72, 187 임플란트): IT>20 Ncm + ISQ>65 충족에도 불구하고 가이드 수술+즉시로딩 1년 임플란트 생존율 83.4%(ITT)/90.2%(PP) vs 지연로딩 100%(p<0.01). MBL은 <0.1mm 양군 차이 없음. 가이드 수술이 표준 안정성 임계값을 자동 보장하지 않으며 이 맥락에서 즉시로딩은 별도 주의가 필요하다.",
+      "cite": "overviews/implant-loading-protocol-prosthesis-type-overview"
+    },
+    {
+      "id": "q3",
+      "q": "하악 무치악에 단일 정중 임플란트를 식립하고 오버덴처 즉시부하를 계획할 때 이 오버뷰의 판단은?",
+      "opts": [
+        "다수 임플란트와 동일하게 안정성만 확인되면 즉시부하 가능하다",
+        "단일 정중 임플란트 오버덴처는 즉시부하 금기에 가장 가까운 취약 구성이다 — Kern 2018 RCT에서 비열등성 입증 실패, 조기실패 9건 전부 3개월 내 집중",
+        "즉시부하 안전하나 6주 간 연조직 안정을 관찰해야 한다",
+        "즉시부하와 지연부하 실패율 동등하므로 환자 선호로 결정한다"
+      ],
+      "ans": 1,
+      "rat": "Kern 2018 RCT(다기관): 단일 정중 하악 임플란트 오버덴처에서 즉시부하 비열등성 입증 실패; 조기실패 9건 전부 3개월 내 집중(지연부하군 1건). 반면 다수 임플란트 지지 오버덴처는 MBL 동등(Liu 2021 SR+MA). 원인: cross-arch splinting 부재 = 하중분산 기전 없음. 단일 오버덴처 → 지연부하 권장.",
+      "cite": "overviews/implant-loading-protocol-prosthesis-type-overview"
+    }
+  ]
+}
