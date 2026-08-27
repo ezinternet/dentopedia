@@ -23,21 +23,62 @@ INTERACTIVES = ROOT / "interactives"
 OUT = INTERACTIVES / "index.html"
 
 # 카테고리 표시 순서 + 한글 라벨. 키는 frontmatter의 category: 값과 일치.
-# 임상 제목 기준 분류 — 수술→수복→예방→행동→메타 흐름. 잡탕 surgery/materials 해체.
+# 임상 흐름 순: 임플란트 → 골·연조직 → 근관·수복·보철 → 교합 → 치주·예방 → 구강내과 →
+# 약물 → 교정 → 영상 → 환자운영 → 레퍼런스 → 메타.
+# ※ 이 목록이 인덱스 표시 카테고리의 단일 출처다 (wiki/_meta/categories.md의 논문 라우팅
+#   카테고리와는 다른 축 — 그쪽 값을 쓴 도구는 아래 ALIASES가 흡수한다).
 CATEGORIES = [
-    ("implant-stability",  "임플란트 — 안정성·로딩 (ISQ·RFA)"),
-    ("implant-placement",  "임플란트 — 식립·드릴링·골질"),
-    ("bone-sinus-soft",    "골증대·상악동·연조직"),
-    ("endo-resto",         "근관·수복·접착"),
-    ("occlusion",          "교합·보철 위치"),
-    ("drug",               "약물·전신·알러지"),
-    ("caries-prevention",  "우식·침식·미생물"),
-    ("perio-maintenance",  "상아질과민·세균막 관리"),
-    ("ortho",              "교정"),
-    ("imaging",            "영상·방사선"),
-    ("patient-ops",        "환자 커뮤니케이션·행동·운영"),
-    ("meta",               "메타 · 위키 성장"),
+    ("implant-stability",      "임플란트 — 안정성·로딩 (ISQ·RFA)"),
+    ("implant-placement",      "임플란트 — 식립·드릴링·골질"),
+    ("implant-immediate",      "임플란트 — 즉시식립·소켓쉴드"),
+    ("bone-graft",             "골증대·발치와 보존(ARP)·상악동"),
+    ("soft-tissue",            "연조직·각화점막·치주성형"),
+    ("endo",                   "근관치료 — 탐색·세정·파절"),
+    ("resto",                  "수복·접착"),
+    ("prosth",                 "보철 — 재료·적합도·의치"),
+    ("occlusion",              "교합·TMD·이갈이"),
+    ("perio",                  "치주 — 진단·치료"),
+    ("prevention-maintenance", "예방·유지관리 — 세균막·과민증·구취"),
+    ("caries-prevention",      "우식·침식·구강미생물"),
+    ("oral-medicine",          "구강내과 — 점막질환"),
+    ("drug",                   "약물·처방·통증관리"),
+    ("ortho",                  "교정"),
+    ("imaging",                "영상·방사선·AI"),
+    ("patient-ops",            "환자 커뮤니케이션·행동·운영"),
+    ("reference",              "레퍼런스·유틸리티"),
+    ("meta",                   "메타 · 위키 성장"),
 ]
+
+# wiki 카테고리 taxonomy(wiki/_meta/categories.md)나 옛 키를 쓴 도구를 표시 버킷으로 흡수.
+# 2026-08-27: 30개 도구가 wiki 카테고리 값(bone-regeneration, endodontics, tmj …)을 달고
+# '기타·미분류'로 몰려 있었던 사고의 재발 방지 장치. frontmatter를 정규 키로 고치는 것이
+# 우선이고, 이 맵은 안전망이다.
+ALIASES = {
+    "implants": "implant-placement",
+    "implants/isq": "implant-stability",
+    "implant-prosthesis": "prosth",
+    "immediate-implant": "implant-immediate",
+    "bone-regeneration": "bone-graft",
+    "sinus-lift": "bone-graft",
+    "bone-sinus-soft": "bone-graft",          # 옛 통합 버킷
+    "periodontics": "perio",
+    "perio-maintenance": "prevention-maintenance",  # 옛 키
+    "endodontics": "endo",
+    "endo-resto": "resto",                    # 옛 통합 버킷
+    "post-and-core": "resto",
+    "resin-bonding": "resto",
+    "dental-materials": "prosth",
+    "prosthetic-materials": "prosth",
+    "complete-denture": "prosth",
+    "tmj": "occlusion",
+    "oral-mucosal-disease": "oral-medicine",
+    "drug/analgesics": "drug",
+    "drug/antibiotics": "drug",
+    "artificial-intelligence": "imaging",
+    "radiology": "imaging",
+    "overviews": "meta",
+}
+
 FALLBACK_KEY = "_misc"
 FALLBACK_LABEL = "기타 · 미분류"
 
@@ -68,6 +109,8 @@ def collect():
         fm = parse_frontmatter(p.read_text(encoding="utf-8"))
         cat = fm.get("category", "").strip() or FALLBACK_KEY
         valid_keys = {k for k, _ in CATEGORIES}
+        if cat not in valid_keys:
+            cat = ALIASES.get(cat, FALLBACK_KEY)  # wiki taxonomy 값 흡수
         if cat not in valid_keys:
             cat = FALLBACK_KEY
         status = fm.get("status", "draft").strip()
