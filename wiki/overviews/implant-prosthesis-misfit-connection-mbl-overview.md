@@ -100,3 +100,18 @@ So the misfit→bone-loss story across these three: **associated and dose-depend
 - [[implants/mbl/wach-2026-emergence-angle-marginal-bone-loss]] — Retrospective 5-yr (n=155); crown emergence angle not reliably associated with MBL for single/splinted crowns, reinforcing Raabe 2026's null finding for prosthetic emergence geometry.
 - [[implants/survival/song-2024-long-term-clinical-radiographic-outcomes]] — Retrospective 10-yr Korean-journal (JPIS, Yonsei) cohort (n=872 implants); companion long-term MBL dataset — implant length (≤8 mm), not prosthetic design, was the dominant risk factor here, consistent with this overview's "patient/implant biology over prosthetic micromechanics" thesis.
 - [[overviews/abutment-screw-preload-joint-stability-overview]] — Companion overview on screw preload and joint stability; complements the mechanical (screw-complication) limb of the misfit story established here.
+
+## Clinical Quiz
+<!-- quiz_spec -->
+
+**Q1.** "임플란트 보철은 반드시 수동적합(passive fit)이어야 한다"는 원칙을 환자에게 설명하려 합니다. 이 오버뷰의 근거로 이 도그마를 어떻게 수정해야 합니까? *(근거: Jokstad 2014 — 평균 150 µm 부적합, 19년 96.7% 생존)*
+
+> **모범답안**: **수동적합 완벽주의를 내려놓되, 가시적 변연 갭(≥0.1 mm)은 대상으로 삼아야 한다.** 이 오버뷰에서 Jokstad 2014(n=30 무치악, 평균 19년, 3D 스캐너): 임상 평균 부적합 150 µm에서도 임플란트 생존율은 96.7%였고, 부적합과 변연골소실(MBL)의 상관은 극히 약했다(R²=0.04, p=.29). Katsoulis 2017 SR은 부적합의 **1차 임상 결과는 MBL이 아니라 나사 풀림·파절**임을 확인한다. 즉 ㎛ 단위 완벽주의는 임상적으로 과도한 요구다. 수정된 원칙: ① 가능한 최소 부적합을 목표로 하되 150 µm 내는 장기 생물학적으로 견딤 ② ≥0.1 mm 가시적 변연 갭은 재제작·수정 대상 ③ 실제 MBL의 더 강한 동인은 흡연·치주염 병력이므로 환자 위험인자 관리가 우선이다.
+
+**Q2.** 후향적 연구에서 보철 갭이 클수록 변연골소실이 더 컸다는 결과가 나왔습니다. 이 오버뷰에서 이 해석의 맹점은 무엇입니까? *(근거: Couso-Queiruga 2025 — 다변량에서 GapDIM 유의성 소실)*
+
+> **모범답안**: **갭 크기는 단변량에서만 연관성이 보이고, 다변량 모델에서는 유의성을 잃는다.** Couso-Queiruga 2025(n=505 임플란트, 10.6년)은 갭 임계값 ≥0.1 mm, 용량-반응(갭 0.1 mm당 MBL +0.08 mm)을 처음 정량화했지만, **다변량 모델에서 GapDIM은 p=.28로 유의성을 잃었다** — 흡연(+0.36 mm)과 치주염 병력(+0.16 mm)이 독립 예측인자로 훨씬 강하게 작용했다. 이는 "부적합 → 골 소실"이 직접적인 역학적 경로보다는 **갭 → biofilm 저류 → 염증 → 골 소실**이라는 생물학적 간접 경로를 통해 작동할 가능성을 시사한다. 결론: 갭을 줄이는 것과 동시에 흡연 중단·치주염 통제가 MBL 예방의 본질적 전략이다.
+
+**Q3.** 내부연결 임플란트(internal connection)가 외부연결(external hex)보다 장기적으로 변연골 보존에 유리합니까? *(근거: Kim 2022 5년 + Raabe 2026 25년 추적)*
+
+> **모범답안**: **초기에는 차이가 있으나 5년 이후 수렴하고, 25년 장기에서는 연결부 유형이 독립 예측인자가 아니다.** Kim 2022(n=374, 동일 보철 설계·연결부만 상이): 외부연결이 **1년** 변연골소실에서 더 컸으나(1.23 vs 0.72 mm, p<.001), **5년에는 수렴**했고 생존율은 차이 없었다(93.3 vs 90.7%). Raabe 2026(25년 조직수준 임플란트, n=233)은 보철 유형·유지방식·변연부적합·발출부 형태 **전부** 25년 변연골 변화에 유의한 영향이 없었고(p≥0.17), 탐침깊이·화농 등 생물학적 지표만 유의했다. 종합: 연결부 설계는 보철 미시역학 변수 중 하나이지만, 환자 위험인자(흡연·치주염)가 이를 압도하는 수준이다. 보철 설계보다 **환자 위험인자 통제**가 장기 MBL의 핵심 결정 변수다.
