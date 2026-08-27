@@ -189,6 +189,10 @@ STATIC_MILESTONES = [
     {"date": "2026-05-31", "label": "+203 · 8 audits 출생"},
     {"date": "2026-06-12", "label": "ingest-one 병렬화"},
     {"date": "2026-06-19", "label": "OA 자동수급(fetch-oa)"},
+    {"date": "2026-07-01", "label": "소비층 전환(임상 스킬 4종)"},
+    {"date": "2026-07-16", "label": "embed 자동드레인 상시화"},
+    {"date": "2026-08-04", "label": "DeepSeek 하이브리드 인제스트"},
+    {"date": "2026-08-15", "label": "대규모 정비(227커밋)"},
 ]
 
 
