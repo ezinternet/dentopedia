@@ -132,3 +132,18 @@ Only **~3% of trigeminal nerve injuries progress to PTNP** (3.3% after facial fr
 - [[orofacial-pain/kim-2024-trigeminal-sensory-system-orofacial-pain]] — trigeminal ganglion/Sp5 circuit anatomy; Sp5C central-sensitization substrate shared across neuropathic pain, TN, headache, BMS.
 - [[orofacial-pain/korczeniewska-2022-pathophysiology-post-traumatic-trigeminal-neuropathic]] — peripheral PTNP cascade (chemokines, ion channels, SGC activation); Cav3.2/miR-32-5p link back to Section 3's T-type axis.
 - [[oral-medicine-decision-ladder]] — clinical BMS diagnosis/treatment ladder (this page is its mechanistic backbone).
+
+## Clinical Quiz
+<!-- quiz_spec -->
+
+**Q1.** 일차성 구강작열감증후군(Burning Mouth Syndrome, BMS) 환자에게 "원인을 모르겠습니다"라고 했습니다. 이 오버뷰에 근거해 현재 이해하고 있는 기전 두 축을 설명하세요. *(근거: 탈억제 + 말초 소섬유신경병증)*
+
+> **모범답안**: 이 오버뷰는 BMS의 분자 substrate를 **두 축으로 수렴**한다고 설명한다: ① **억제 상실(탈억제, disinhibition)**: NKCC1/KCC2 Cl⁻ 항상성 붕괴로 GABA-A·glycine 억제가 무너져 중추 통각과민이 생긴다(price-2009). ② **말초 소섬유 과흥분**: 혀 생검에서 수내상피신경섬유밀도(IENFD) 30–60% 감소 + TRPV1·Nav1.7 과발현 + 정량감각검사(QST) 이상이 객관적으로 확인된다(kouri-2024 PRISMA SR). 두 기전은 삼차신경척수핵(Sp5C) "연수 등쪽뿔"에서 수렴한다(kim-2024). 임상적으로 BMS는 말초형(국소 clonazepam·lidocaine 반응)과 중추형(선조체 도파민 결핍, 항우울제 반응)으로 나뉘며, 아형이 치료 분기를 결정한다. "원인 불명"이 아니라 "신경병성 통증의 구체적 기전이 있다"는 사실이 환자 신뢰 구축에 중요하다.
+
+**Q2.** BMS 환자에게 국소 clonazepam 1mg을 머금게 하는 치료가 이 오버뷰의 기전 논리로 왜 타당합니까? *(근거: price-2009 탈억제 → 국소 GABA-A 회복 논리)*
+
+> **모범답안**: **국소 clonazepam은 탈억제 회복의 논리와 직접 연결된다.** price-2009에 따르면 BMS의 억제 상실은 KCC2↓/NKCC1↑로 Cl⁻ 항상성이 붕괴돼 GABA-A·glycine 억제가 무너진 결과다. 국소 clonazepam은 GABA-A 작용제로 — 머금기(topical swish)로 말초 구강점막·혀의 nociceptor에 직접 작용해 **국소 억제 기능을 일시적으로 회복**시키는 기전이다. 단, 이 오버뷰는 이 논리가 중추형(선조체 도파민 결핍)에는 적용되지 않는다는 아형 구분도 명시한다. BMS 치료 결정은 이 기전 페이지보다 구강내과 decision ladder를 1차로 보라고 명시돼 있다.
+
+**Q3.** 삼차신경 치과 처치(마취·발치·근관치료) 후 통증이 지속되는 환자입니다. "외상후 삼차신경병증성 통증(PTNP)이 생겼다"고 진단하려면 이 오버뷰에서 어떤 역학적 사실을 기억해야 합니까? *(근거: korczeniewska-2022 PTNP 진행률)*
+
+> **모범답안**: **삼차신경 손상의 ~3%만 PTNP로 진행한다.** korczeniewska-2022에서 삼차신경 손상 중 실제 PTNP로 진행하는 비율은 **~3%뿐**이다 — 즉 신경이 개입된 치과 처치 후 지속통이 있어도 대부분은 다른 원인(염증·치수·감염)이다. PTNP 진단은 손상의 직접적 인과관계 + 신경병성 특성(작열감·이질통·감각이상)을 확인해야 한다. PTNP의 말초 캐스케이드는 케모카인→이온채널변화→위성신경교세포 활성화이며, miR-32-5p가 조절하는 CaV3.2가 핵심 표적이다 — BMS의 신경스테로이드 축(pathirathna-2005)과 동일한 통로로 수렴한다. 임상적으로는 [[overviews/trigeminal-neuralgia-neuropathy-overview]]가 PTNP 진단·치료 가이드다.
