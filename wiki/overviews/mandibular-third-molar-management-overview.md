@@ -115,5 +115,5 @@ The four papers sit at mixed evidence levels: Ye 2021 is a single-center **retro
 
 ### 신규 추가 (2026-08-16)
 
-- [[oral-surgery/third-molar/canellas-2022-corticosteroids-third-molar-nma]] — NMA (61 RCTs): 덱사메타손(Dexamethasone) 8mg 점막하 주사 = 부종·통증·개구제한 최적; IV>IM>submucosal route for anti-edema; 프레드니솔론·메틸프레드니솔론은 열위 — 발치 전후 코르티코스테로이드(Corticosteroid) 투여 루틴의 근거 앵커. (nma, 2022)
+- [[drug/analgesics/canellas-2022-corticosteroids-third-molar-nma]] — NMA (61 RCTs): 덱사메타손(Dexamethasone) 8mg 점막하 주사 = 부종·통증·개구제한 최적; IV>IM>submucosal route for anti-edema; 프레드니솔론·메틸프레드니솔론은 열위 — 발치 전후 코르티코스테로이드(Corticosteroid) 투여 루틴의 근거 앵커. (nma, 2022)
 - [[oral-surgery/third-molar/canellas-2020-intrasocket-ao-third-molar-sr-nma]] — SR+NMA (37 RCTs): 발치와 내 소독재와 치조골염(Alveolar Osteitis, AO) 예방 — 혈소판 풍부 피브린(Platelet-Rich Fibrin, PRF) OR 0.28, 0.2% CHX 젤 OR 0.52로 최상위; iodoform 거즈·SurgicelⓇ 劣; PRF+CHX 병용 효과 상충. 적응증: 고위험 발치(흡연·여성·고령·매복) 시 PRF 우선 고려. (sr+nma, 2020)
