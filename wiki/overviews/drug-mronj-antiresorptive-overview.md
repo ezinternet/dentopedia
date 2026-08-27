@@ -34,7 +34,7 @@ relations:
 
 > [!summary] 한국어 핵심요약
 > - 핵심 명제: 약물관련악골괴사 (Medication-Related Osteonecrosis of the Jaw, MRONJ) 예방의 1차 전략은 항흡수제 (Antiresorptive) 시작 **전** 치과 클리어런스 (clearance). 10편 (SR·position paper·cohort·narrative) 통합 결론은 일관됨.
-> - 약물 위험도 stratification: 정맥주사 비스포스포네이트 (IV Bisphosphonate, 졸레드로네이트 등)·암 적응증 데노수맙 (Denosumab Xgeva)이 최고위험, 경구 BP·골다공증 적응증이 저위험. 로모소주맙 (Romosozumab)은 AAOMS 2022에 신규 추가.
+> - 약물 위험도 stratification: **투여경로·적응증·누적 용량**이 MRONJ 위험의 핵심 결정변수 [미검증 — 아래 mg 수치는 표준 라벨 투여요법 기준 세션 계산, 보유 MRONJ 논문이 직접 보고한 값 아님]. 같은 데노수맙이라도 Prolia(연 120mg) vs Xgeva(연 ~1,560mg) = **약 13배 차이**. 정맥 BP·암 적응증(Xgeva 포함)이 최고위험, 경구 BP·골다공증 적응증이 저위험. 로모소주맙 (Romosozumab)은 AAOMS 2022에 신규 추가 (보고 증가).
 > - 데노수맙은 누적 용량 (cumulative dose)이 위험 지표 — 유방암 골전이 cohort에서 ≥32 doses에서 MRONJ 31.2%로 급증 (Yokoo 2025, ROC AUC 0.83). 발치력 OR 4.40, dose 1회 추가마다 odds 4.7% 증가.
 > - 4단계 예방 framework (Baghalipour 2025): 1차 (약물 전 클리어런스, 가장 효과적) → 2차 (약물 중 발치 회피·항생제 prophylaxis) → 3차 (확립된 MRONJ staging 관리) → 4차 (과잉의료화 회피).
 > - AAOMS 2022 update 3대 변경 (Kwon 2023): ① 정의에 면역조절제 (Romosozumab 등) 추가, ② 수술적 치료를 전 stage (1·2·3)로 확대, ③ 술전 약물중단 (drug holiday) 권고 삭제. Drug holiday는 합의 없음, CTX (C-terminal telopeptide) 검사도 위험평가에서 제외.
@@ -48,7 +48,7 @@ relations:
 
 ## Three-line Summary
 
-Synthesis of 14 papers (SR, position papers, cohorts, narrative) on MRONJ/antiresorptive dental management: dental clearance BEFORE starting antiresorptive therapy is the most effective prevention (Baghalipour 2025 4-tier framework); denosumab risk is cumulative-dose-driven — MRONJ 31.2% at ≥32 doses in breast-cancer bone metastasis cohort (Yokoo 2025, ROC AUC 0.83); extraction history OR 4.40, each additional dose adds 4.7% odds; AAOMS 2022 expands surgical treatment to all stages (1–3) and drops the drug-holiday and CTX-testing recommendations (Kwon 2023).
+Synthesis of 14 papers (SR, position papers, cohorts, narrative) on MRONJ/antiresorptive dental management: dental clearance BEFORE starting antiresorptive therapy is the most effective prevention (Baghalipour 2025 4-tier framework); **route, indication, and cumulative dose jointly stratify MRONJ risk** — [unverified, standard-label dosing, not from the cited MRONJ papers] oral BP (alendronate ~3,640 mg/yr, risedronate ~1,820 mg/yr) < Prolia 120 mg/yr < Xgeva ~1,560 mg/yr (~13× Prolia) < romosozumab 2,520 mg total over its fixed 12-month course; denosumab risk is cumulative-dose-driven — MRONJ 31.2% at ≥32 doses in breast-cancer bone metastasis cohort (Yokoo 2025, ROC AUC 0.83); extraction history OR 4.40, each additional dose adds 4.7% odds; AAOMS 2022 expands surgical treatment to all stages (1–3) and drops the drug-holiday and CTX-testing recommendations (Kwon 2023).
 
 Korean 2025 position statement (Kim 2025, 5 societies) codifies drug-specific pre-procedural holidays: oral BP extended use → 2-month holiday; IV zoledronate → 6–12-month holiday; denosumab → 3–4 months after last injection; 8-week diagnostic criterion relaxed; Korean national cohort (n=600,000) MRONJ incidence: oral BP 0.10%, denosumab 60 mg 0–0.18%; Xgeva (high-dose denosumab) vs Prolia (60 mg) treatment success 53.8% vs 85.0% (p=0.027; Cho 2026, n=178).
 
@@ -76,17 +76,26 @@ Implants placed after antiresorptive initiation carry 23% failure (83% MRONJ-rel
 
 ---
 
-## 1. 약물 종류·위험도 stratification
+## 1. 약물 종류·위험도 stratification — 연간 누적량 중심 비교
 
-| 약물 | 작용 | 적응증·투여 | MRONJ 위험 |
-|---|---|---|---|
-| **Zoledronate (Zometa)** | IV BP | 암(다발골수종·전이성암) | 최고 |
-| **Pamidronate** | IV BP | 암 | 높음 |
-| **Denosumab (Xgeva 120mg)** | RANKL Ab | 암 | 높음 (누적 dose ≥32에서 31.2%) |
-| **Denosumab (Prolia 60mg q6m)** | RANKL Ab | 골다공증 | 중간 |
-| **Alendronate, Risedronate (경구)** | BP | 골다공증 | 낮음 (장기 사용 시 상승) |
-| **Romosozumab** | Sclerostin Ab | 골다공증 | [확인] AAOMS 2022에 신규 추가, 보고 증가 |
-| **국소 BP 도포** | — | 임플란트 표면 | [미검증] 골유착 촉진 가능성, MRONJ 위험 없음 |
+> 핵심 원칙: 같은 약물이라도 **투여경로(경구 vs IV vs SC) × 연간 누적량 × 투여기간**이 MRONJ 위험을 결정한다. 데노수맙 하나만 비교해도 Prolia(연 120mg) vs Xgeva(연 ~1,560mg) = **약 13배 차이**.
+>
+> [미검증] **"연간 누적량" 열 전체는 각 약물의 표준 라벨(허가사항) 투여요법에서 세션 중 계산한 값이다 — 아래 표에 인용된 MRONJ 근거 논문이 직접 보고한 수치가 아니다.** 유병률·Drug Holiday·근거 열은 기존대로 각주·인용 논문 근거. Xgeva는 4주(28일) 간격 기준 연 ~13회 투여로 계산(365÷28≈13.04); Pamidronate·암 적응증 졸레드로네이트는 3–4주 간격 프로토콜이 흔해 범위로 표기.
+
+| 약물 | 작용 | 투여경로 | 투여주기 | **연간 누적량** [미검증] | 적응증 | MRONJ 유병률 | Drug Holiday¹ | 근거 |
+|---|---|---|---|---|---|---|---|---|
+| **알렌드로네이트** (Fosamax 등) | 경구 BP | 경구 | 70mg 주 1회 | **~3,640 mg/년** | 골다공증 | **0.10%** | 2개월 | [[drug/mronj/kim-2025-medication-related-osteonecrosis-jaw-evidence]] |
+| **리제드로네이트** (Actonel 등) | 경구 BP | 경구 | 35mg 주 1회 | **~1,820 mg/년** | 골다공증 | **0.10%** | 2개월 | 상동 |
+| **졸레드로네이트 IV** (Reclast) | IV BP | 정맥 | 5mg 연 1회 | **5 mg/년** | 골다공증 | 중간 | **6–12개월** | 상동 (한국 전국코호트: 위험 감소 ≥12개월 후) |
+| **졸레드로네이트 IV** (Zometa) | IV BP | 정맥 | 4mg 3–4주마다 | **~48–68 mg/년** | 암(골전이) | **최고** | **6–12개월** | 상동 — 골다공증 적응증(Reclast)과 연간량 10배 이상 차이, 혼동 주의 |
+| **Pamidronate** | IV BP | 정맥 | 90mg 3–4주마다 | **~1,170–1,530 mg/년** | 암 | **높음** | 6–12개월 | 상동 |
+| **Prolia** (데노수맙 60mg) | RANKL Ab | 피하 | **6개월** 1회 | **120 mg/년** | 골다공증 | **0–0.18%** | **3–4개월** | [[drug/mronj/cho-2026-clinical-characteristics-osteonecrosis-jaw-related]] |
+| **Xgeva** (데노수맙 120mg) | RANKL Ab | 피하 | **4주** 1회 | **~1,560 mg/년** (약 13회/년) | 종양 골전이 | **0.8–2.0%** (누적 ≥32회 시 31.2%²) | 임플란트 **금기** (종양) | [[drug/mronj/yokoo-2025-denosumab-mronj-breast-cancer-bone]] |
+| **로모소주맙** (Evenity) | Sclerostin Ab | 피하 | 210mg 월 1회 ×12 | **2,520 mg** (12개월 고정 코스 총량 — 반복 연간량 아님) | 골다공증 | [확인] AAOMS 2022 신규 추가, 보고 증가 | 미정 (합의 없음) | [[drug/mronj/ruggiero-2022-aaoms-mronj-position-paper-update]] |
+| **국소 BP 도포** | — | 국소 | 1회 | 미미 | 임플란트 표면 | **없음** | 불필요 | [미검증] 골유착 촉진 |
+
+> ¹ Drug Holiday: 한국 5개 학회 2025 포지션 스테이트먼트 기준 [[drug/mronj/kim-2025-medication-related-osteonecrosis-jaw-evidence]]. AAOMS 2022는 합의 불발(동등 의견 분열).
+> ² Yokoo 2025 ROC 분석: 유방암 골전이 환자 324명, Xgeva 120mg. 누적 ≥32회에서 MRONJ 31.2% (AUC 0.83). **dose 1회 추가마다 odds 4.7% 증가**.
 
 [확인] Yokoo 2025 — 유방암 골전이 환자 324명, Denosumab Xgeva 120mg q4w. MRONJ 31.2%, ROC-derived threshold ≥32 누적 dose (AUC 0.83). 발치력 OR 4.40. **dose 1회 추가마다 MRONJ odds 4.7% 증가**.
 
