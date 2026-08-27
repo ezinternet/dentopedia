@@ -128,10 +128,13 @@ def collect():
 
 def render_card(t: dict) -> str:
     title = html.escape(t["title"])
+    # date: AUTO = 배포 때마다 재생성되는 라이브 도구 (wiki-stats-live·radar·volatility).
+    # 카드에 'AUTO'라는 날것의 토큰이 노출되던 것을 사람이 읽는 라벨로.
+    date = "자동 갱신" if t["date"].strip().upper() == "AUTO" else t["date"]
     return (
         f'      <a class="card" href="{t["file"]}">\n'
         f'        <p class="t">{title}</p>\n'
-        f'        <div class="meta"><span class="date">{t["date"]}</span>'
+        f'        <div class="meta"><span class="date">{html.escape(date)}</span>'
         f'<span class="badge {t["status"]}">{t["status"]}</span></div>\n'
         f'      </a>'
     )
