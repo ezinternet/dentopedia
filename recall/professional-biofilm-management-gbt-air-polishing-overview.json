@@ -1,0 +1,49 @@
+{
+  "overview": "professional-biofilm-management-gbt-air-polishing-overview",
+  "date": "2026-08-27",
+  "title": "전문가 치면세균막관리·GBT·에어폴리싱 종합 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/professional-biofilm-management-gbt-air-polishing-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "가이드 바이오필름 치료(Guided Biofilm Therapy, GBT)는 전통적 스케일링·치근활택술(Scaling and Root Planing, SRP)보다 치주낭깊이(PPD)·임상부착수준(CAL)·탐침시출혈(BoP) 등 단단한 임상 지표에서 우월합니까? (근거: Yein 2026 SR + Cyris 2024 RCT)",
+      "opts": [
+        "우월하다 — GBT는 SRP보다 PPD를 평균 1.5mm 더 감소시킨다",
+        "임상적으로 동등할 뿐 우월하지 않다 — Yein 2026 SR(RCT 5편, n=231, GRADE 매우 낮음)에서 GBT의 임상 우월성은 지지되지 않으며, 환자 중심(편안함·시간)에서만 이득이 있다",
+        "PPD에서만 우월하고 CAL·BoP는 동등하다",
+        "초기 치료에서는 GBT가 우월하고 유지치료에서는 SRP가 우월하다"
+      ],
+      "ans": 1,
+      "rat": "Yein 2026 SR(5 RCT, n=231): GBT의 PPD/CAL/BoP에서 일관된 우위 없음, GRADE 매우 낮음. Cyris 2024 분악 RCT(n=60, stage III/IV): 치주낭 폐쇄 동등, GBT가 4분악당 ~4분 빠름. Stähli 2024 RCT(n=41, 1년): 동등. 결론: GBT의 실제 강점은 편안함·시간 단축·최소 치질 마모이지, 임상 결과 우위가 아니다.",
+      "cite": "overviews/professional-biofilm-management-gbt-air-polishing-overview"
+    },
+    {
+      "id": "q2",
+      "q": "에어폴리싱 분말로 에리스리톨(Erythritol, 14µm)과 탄산수소나트륨(Sodium Bicarbonate, 40µm)의 바이오필름 제거력과 표면 손상을 비교하면? (근거: Pujarern 2024)",
+      "opts": [
+        "탄산수소나트륨이 바이오필름 제거력이 훨씬 우월하고 표면 손상도 에리스리톨보다 적다",
+        "에리스리톨이 바이오필름 제거력이 우월하고 표면 손상도 적어 이중 이점이 있다",
+        "두 분말은 바이오필름 제거력이 동등하지만 에리스리톨이 표면 손상이 적어 임플란트·치근면에서 선호된다(Pujarern 2024)",
+        "에리스리톨은 제거력은 열등하나 표면 보존 효과가 커 유지치주치료에만 적합하다"
+      ],
+      "ans": 2,
+      "rat": "Pujarern 2024(in vitro, 33 임플란트): 에리스리톨과 탄산수소나트륨 바이오필름 제거력 동등(OD 0.130 vs 0.129). 단 에리스리톨(14µm)이 탄산수소나트륨(40µm)보다 표면 손상 훨씬 적음 → 치근·임플란트 표면 모두에서 에리스리톨이 선호 분말. Ifrim 2026 SEM: 에리스리톨 에어폴리싱이 기구 흔적 감소, SRP+EDTA는 smear layer 제거 실패.",
+      "cite": "overviews/professional-biofilm-management-gbt-air-polishing-overview"
+    },
+    {
+      "id": "q3",
+      "q": "5mm 치주낭이 있는 유지치주치료 부위에 글리신(Glycine) 치은연하 에어폴리싱 시행 후 발생한 합병증 사례와 그 함의는? (근거: Hussein 2026)",
+      "opts": [
+        "치주낭 내 에어폴리싱은 5mm 이하에서는 안전하다 — 보고된 합병증 없음",
+        "안면 피하기종(Subcutaneous Facial Emphysema, SFE) 발생·3일 입원 — 출혈·배농 없는 조용한 유지치료 부위에서도 발생 가능하며 기기·프로토콜별 안전성은 개별 검증이 필요하다",
+        "치주낭 내 에어폴리싱은 감염 위험만 있고 기종은 발생하지 않는다",
+        "5mm 치주낭에서는 안전하나 6mm 이상에서는 기종 위험이 있다"
+      ],
+      "ans": 1,
+      "rat": "Hussein 2026(증례보고): 5mm 치주낭, 출혈·배농 없는 유지치주치료 부위에 글리신 치은연하 에어폴리싱 → 안면 피하기종 발생·3일 입원. 이 오버뷰의 핵심 안전 경고: 치은연하 에어폴리싱 안전성은 기기·프로토콜·증례별로 별도 검증 필요. 치은연하 전용 노즐·증례 선별·부종·염발음 조기 인지 필수. 치주낭 깊이보다 증례 상태·술자 판단이 중요.",
+      "cite": "overviews/professional-biofilm-management-gbt-air-polishing-overview"
+    }
+  ]
+}
