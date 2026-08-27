@@ -78,4 +78,4 @@ Narrative Q&A review. Databases: PubMed, MEDLINE, Embase, Cochrane (up to 2018).
 ## Related Papers
 
 - [[implants/survival/shenoy-2025-dental-implant-failure-retrieval-techniques-scoping]] — 2025 PRISMA-ScR scoping review mapping the same five retrieval techniques across 388 studies; this Solderer page supplies the technique-selection logic and reinsertion detail the scoping map only summarizes.
-- [[implants/peri-implantitis]] — peri-implantitis is the dominant reason explantation becomes necessary; removal is the last-resort option when non-/surgical peri-implantitis therapy fails.
+- [[implants/peri-implantitis/peri-implantitis]] — peri-implantitis is the dominant reason explantation becomes necessary; removal is the last-resort option when non-/surgical peri-implantitis therapy fails.
