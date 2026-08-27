@@ -82,4 +82,4 @@ Within-group bone thickness changes (T0 → 1 year): significant in both groups 
 
 ## Related Papers
 
-- [[immediate-implant/ebrahim-2026-vestibular-socket-therapy-immediate-implant-rct]] — reinforces: parallel RCT on VST for Type II sockets; adds RCT-level evidence to this cohort's findings
+- [[immediate-implant/gap-grafting/ebrahim-2026-vestibular-socket-therapy-immediate-implant-rct]] — reinforces: parallel RCT on VST for Type II sockets; adds RCT-level evidence to this cohort's findings
