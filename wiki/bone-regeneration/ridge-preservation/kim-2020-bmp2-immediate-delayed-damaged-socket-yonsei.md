@@ -64,4 +64,4 @@ This preclinical study by the Yonsei University Periodontology group compared im
 
 ## Related Papers
 
-- [[bone-regeneration/ridge-preservation]] — ARP efficacy and grafting material context for damaged sockets
+- [[bone-regeneration/ridge-preservation/ridge-preservation]] — ARP efficacy and grafting material context for damaged sockets
