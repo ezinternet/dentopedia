@@ -88,4 +88,4 @@ This retrospective study quantifies the "roller coaster effect" (RCE) — a post
 ## Related Papers
 
 - [[orthodontics/clear-aligner/tang-2025-evaluating-the-effectiveness-of-clear]] — Companion study from an overlapping author lineage (cited directly as reference #31 in this paper); Tang 2025 quantifies extraction-CAT's failure to level the curve of Spee, while this paper quantifies extraction-CAT's posterior open-bite tendency (FCD increase) — together these describe two distinct but related biomechanical penalties of premolar-extraction clear aligner therapy.
-- [[orthodontics/clear-aligner]] — Category page for clear aligner therapy studies.
+- [[orthodontics/clear-aligner/clear-aligner]] — Category page for clear aligner therapy studies.
