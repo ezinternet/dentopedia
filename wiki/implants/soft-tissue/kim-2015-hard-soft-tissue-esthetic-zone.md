@@ -66,4 +66,4 @@ This Korean case report describes the staged management of an esthetically deman
 - [[implants/soft-tissue/han-2021-apf-keratinized-gingiva-implant-ridge-augmentation]] — APF and ridge augmentation for keratinized gingiva establishment around implants; shares the soft-tissue-first framework
 - [[implants/soft-tissue/le-2022-aesthetic-contour-graft-peri-implant]] — framework that bone deficiency underlies soft tissue deficiency in esthetic zone; the staged GBR in this case precedes the implant placement per that principle
 - [[implants/soft-tissue/bassetti-2016-soft-tissue-augmentation-second-stage-sr]] — systematic review on soft tissue augmentation at second-stage surgery; the provisional phase in this case parallels the 2nd-stage timing
-- [[bone-regeneration/ridge-preservation]] — ridge width of ~1.5 mm highlights why ARP at the time of extraction would have been preferable to staged GBR years later
+- [[bone-regeneration/ridge-preservation/ridge-preservation]] — ridge width of ~1.5 mm highlights why ARP at the time of extraction would have been preferable to staged GBR years later
