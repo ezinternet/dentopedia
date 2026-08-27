@@ -142,5 +142,5 @@ Beyond the two levers covered above — ARP placement position and implant macro
 - [[overviews/implants-isq-stability-ladder]] — ISQ measurement methods, loading thresholds (ISQ ≥65/70), SmartPeg protocol; does not address ARP placement or macro-geometry in soft bone
 - [[implants/isq/andersson-2019-rfa-factors-5year-neoss-survival]] — ISQ ≥65 loading threshold over 5 years; contextualizes Ko 2024's ISQ ≥70 criterion
 - [[implants/isq/bavetta-2019-insertion-torque-isq-immediate-loading-extraction-socket]] — torque–ISQ decoupling in fresh extraction sockets; independent illustration of the same pattern Ko 2024 quantified with r=0.415
-- [[bone-regeneration/ridge-preservation]] — ARP methodology, DBBM-C efficacy, dimensional preservation; underpins Ko 2024's graft protocol
+- [[bone-regeneration/ridge-preservation/ridge-preservation]] — ARP methodology, DBBM-C efficacy, dimensional preservation; underpins Ko 2024's graft protocol
 - [[implants/osseodensification/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric]] — complementary axis: surgical technique (osseodensification) as a third lever for primary stability in low-density bone alongside macro-geometry and placement position
