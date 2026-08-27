@@ -297,3 +297,18 @@ DH는 환자의 자연 발생만이 아니라 **수복 후 발생 (postoperative
 
 - [[dentin-hypersensitivity/barbosa-2026-arginine-low-level-laser-dentin-hypersensitivity-rct]] — Double-blind RCT (54/120 teeth, 4 arms): all arms cut sensitivity (Schiff 5.0→1.9, p<0.001) but NO between-group difference — neither 660nm PBM nor arginine beats fluoride/hygiene control (strong placebo effect)
 
+
+## Clinical Quiz
+<!-- quiz_spec -->
+
+**Q1.** 지각과민(Dentin Hypersensitivity, DH) 환자에게 "일반 불소 치약 쓰시면 됩니다"라고 안내했습니다. 이 오버뷰에 근거해 이 안내가 충분합니까? *(근거: Ayan 2025 head-to-head RCT + Qiu/Creeth 2026)*
+
+> **모범답안**: **불충분하다.** 이 오버뷰는 "일반 불소 치약"과 "활성성분 치약"을 명확히 구분한다. Ayan 2025(5종 head-to-head RCT, 8주) — 5종 활성성분 치약(CPP-ACP·아르기닌·노바민·프로폴리스·질산칼륨) 전부 표준 불소치약보다 유의하게 우월했고, 대조 불소치약만으로는 삶의 질(DHEQ) 개선이 없었다(p=0.068). Qiu 2026·Creeth 2026 RCT도 활성성분 치약이 군간 p<0.001로 우월. 1차 치료는 **tubule-occluding 활성성분 치약 선택**이 핵심이며, 최고 효과는 **CPP-ACP**(GC Tooth Mousse, 브러싱+야간 손가락 도포 — DHEQ-15 56.68 감소, VAS 6.52 감소). 인산칼슘나트륨규산염(CSPS/NovaMin)은 3일 내 효과 시작·8주까지 증가하므로 "며칠 안에 반응 시작, 수 주에 걸쳐 개선"을 설명할 수 있다.
+
+**Q2.** DH 환자에게 레이저 처치를 권유받았습니다. 이 오버뷰에서 레이저가 화학 제제보다 명확히 우위에 있는 상황은 어떤 것입니까? *(근거: Shan 2021 + Faraoni 2023 + Corrêa 2025)*
+
+> **모범답안**: **명확히 우위인 상황은 없다.** 이 오버뷰는 레이저(LLLT·Er:YAG)가 위약 대비 효과는 있으나(Shan 2021 SMD 1.09→2.86) 불소 외 화학 제제보다 우월하지 않다고 명시한다. 고출력·저출력 레이저 간에도 차이가 없다(Faraoni 2023). RCT에서 레이저가 단기적으로 화학 제제보다 앞서는 경우가 있지만 **3–6개월에 수렴**된다. 장기(≥6개월) 지속 효과로는 오히려 **글루타르알데히드(글루마, Gluma)가 최고**(Corrêa 2025 SR+MA). 단, 글루마는 농도 의존적 세포독성이 있어 vital pulp 인접 시 주의가 필요하다. 결론: 레이저는 즉각적 증상 완화가 필요한 경우 보조 옵션이지 1차가 아니다.
+
+**Q3.** "씹을 때 특히 이가 시리다"는 주소의 환자에게 DH로 진단하고 탈감작 치약을 처방했습니다. 이 오버뷰의 감별진단 원칙에서 무엇을 놓쳤습니까? *(근거: 균열치 감별 프레임워크)*
+
+> **모범답안**: **균열치(Cracked Tooth) 감별을 빠뜨렸다.** 이 오버뷰는 DH와 균열치의 핵심 감별점을 명시한다: DH는 **cold·sweet·brushing 자극에** 통증·bite test 음성이고, 균열치는 **씹을 때, 특히 교합력이 풀릴 때** 더 날카로운 통증·bite test 양성이다. "씹을 때 시리다"는 주소는 균열치 프레임워크를 병행해야 한다는 신호다. 두 질환은 동반 가능하므로 — DH가 있으면서 동시에 균열이 있을 수 있으므로 — 탈감작 치약 처방 전 교합지·Tooth Slooth·투광 조명으로 균열 유무를 확인하는 것이 이 오버뷰의 감별 원칙이다.
