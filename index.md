@@ -2838,7 +2838,8 @@ tags: []
 - [[endodontics/shaping/lee-2026-residual-pericervical-apical-dentine-vertical]] — Lee 2026 · retrospective (case-control, 44 vs 92) · 근관치료 대구치 수직치근파절(VRF) — 치경부 아닌 치근단부 잔존 상아질 과소실이 최강 위험인자; 통합모델 AUC 0.940 (DOI 10.1002/cre2.70293)
 - [[endodontics/shaping/rathke-2024-ex-vivo-minimally-invasive-endodontic]] — Rathke 2024 · in-vitro · Ex vivo 상악중절치(n=18/군) — 최소침습 근관성형(#40/.04)이 관행확대(#80) 대비 VRF·균열 유의하게 줄이지 못함; +MIE/시멘트실러 오히려 무처치보다 저항성↓ (DOI 10.1038/s41598-024-63396-y)
 - [[endodontics/shaping/ishizaki-2026-clinical-significance-anatomical-considerations-apical-patency]] — 근단 개통성(Apical Patency) 종합 리뷰: 술후 통증 완화 가능(메타분석), CBCT로 MB2 확인 필수, "해부학적 개통성" vs "시술적 개통성" 구분 제시
-- [[endodontics/shaping/kuzhanchinathan-2024-influence-apical-patency-endodontic-treatment]] — 근관개無しが 장기 추적에서 치유율 약 2배 증가 (5편, 4370 root, 체계적 문헌고찰)
+- [[endodontics/shaping/kuzhanchinathan-2024-influence-apical-patency-endodontic-treatment]] — 근단 개통성(Apical Patency) 유지가 장기 추적에서 치유율 약 2배 증가 (5편, 4370 root, 체계적 문헌고찰)
+- [[overviews/apical-patency-endodontic-outcome-overview]] — **NEW Overview** (2편 spine + 4편 인접, 2026-08-27): 근단 개통성(Apical Patency, AP) 종합 — 테제는 **"추구할 가치는 있으나 힘으로는 아니다"**. Ishizaki 2026의 **해부학적 개통성 vs 시술적 개통성** 구분이 결정 축(전자 우선, 후자는 근첨공 transportation 위험만 있고 이득 미입증); Kuzhanchinathan 2024 SR(5편·4370근관, PROSPERO CRD42022374966) 장기 치유율 **2배**·5편 중 3편 유의하나 RCT 1편뿐이라 메타분석 불가. **통증 축 반전**: "AP가 통증을 악화시킨다"는 통념은 더 이상 방어하기 어려움 — 다만 umbrella 2편(Zamparini 2026 25 SR+MA; Abraham 2025 8 SR) 어디에도 AP가 노출변수가 아니어서 **기전 수렴이지 직접근거가 아님**(POP를 실제로 움직인 건 NaOCl 농도·세정 활성화·냉요법 등 세정 축). 활주로 벤치근거: 수동 K-file은 근단 3·9mm transportation 유의하게 큼(Aflaki 2020, p<0.05), 근단 세균압출은 3개 키네마틱스 전부 발생(Pui Yii 2021) → 압출은 개통성 고유의 벌칙이 아니라 기구조작 자체의 속성. 임상: AP 미달성이 곧 실패는 아니며, 저항을 만나면 ledge·석회화·만곡을 의심하고 CBCT — 밀어붙이면 시술적 개통성으로 전환.
 
 ### endodontics/visit-protocol (NEW subcategory, added 2026-06-13)
 
