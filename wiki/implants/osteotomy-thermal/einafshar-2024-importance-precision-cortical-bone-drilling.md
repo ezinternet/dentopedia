@@ -71,4 +71,4 @@ Thermal necrosis threshold (47°C/1 min, Eriksson & Albrektsson): not exceeded a
 - [[implants/osteotomy-thermal/jung-2021-heat-development-medical-drilling-influencing]] — medical drilling heat factors mini-review; contextualizes conflicting spindle-speed literature this model resolves
 - [[implants/osteotomy-thermal/gehrke-2020-technique-drill-design-osteotomy]] — drill design and intermittent vs continuous technique; complementary drill-geometry comparison
 - [[implants/osteotomy-thermal/bernabeu-mira-2020-bone-heating-drilling-implant]] — clinical bone heating at drilling; compares irrigation and speed effects
-- [[wiki/overviews/osteotomy-drilling-heat-determinants-irrigation-overview]] — multi-paper synthesis this paper extends with IT quantification
+- [[overviews/osteotomy-drilling-heat-determinants-irrigation-overview]] — multi-paper synthesis this paper extends with IT quantification
