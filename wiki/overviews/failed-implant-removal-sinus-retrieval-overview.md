@@ -64,7 +64,7 @@ The **second** problem is a specific, increasingly reported retrieval scenario: 
 
 1. **Default to CTRT for general explantation.** It is the least traumatic technique and preserves the most bone for reimplantation (Solderer). Escalate to trephine/piezo/laser only when removal torque exceeds ~200 Ncm, the implant/prosthetic component is fractured, or CTRT access is unavailable.
 2. **Treat zirconia differently.** Its fracture toughness is roughly 1/5–1/20 that of titanium; CTRT is likely to snap the fixture rather than unscrew it. Bone-resection methods (trephine, piezo, laser, extraction set) apply more comparably across materials.
-3. **Manage peri-implantitis proactively — it is the dominant reason removal becomes necessary at all** (~82% of late failures/removals, both Shenoy and Solderer). Removal is the last-resort step after non-surgical/surgical peri-implantitis therapy fails (see [[implants/peri-implantitis]]).
+3. **Manage peri-implantitis proactively — it is the dominant reason removal becomes necessary at all** (~82% of late failures/removals, both Shenoy and Solderer). Removal is the last-resort step after non-surgical/surgical peri-implantitis therapy fails (see [[implants/peri-implantitis/peri-implantitis]]).
 4. **For maxillary sinus displacement, remove promptly regardless of symptoms.** Foreign-body chronic sinusitis risk persists even in asymptomatic cases (An 2017); delay allows osteitis to develop, especially in post-loading displacements (Lee 2024).
 5. **Choose the retrieval access by what the sinus needs, not by habit.** Caldwell-Luc remains reliable under local anesthesia with low complication rates in large series (Mahmood Hashemi, 39 patients, 0 complications 2–10 y); FESS/endoscopic access is less invasive but needs general anesthesia and more equipment; a single-stage extended lateral window (An 2017) can combine removal, grafting, and reimplantation to shorten rehabilitation when the case allows it.
 6. **Prevent displacement at the planning stage.** Residual bone height <5 mm is the recurring red flag across both sinus-displacement papers — perform a sinus lift before placement rather than relying on over-drilling or an unsupported closed sinus lift.
@@ -85,5 +85,5 @@ The **second** problem is a specific, increasingly reported retrieval scenario: 
 - [[implants/an-2017-treatment-dental-implant-displacement-maxillary-sinus]] — single-stage extended-window sinus retrieval technique
 - [[implants/lee-2024-characteristics-impacts-implant-displacement-maxillary-sinus]] — sinus-displacement impact/prognosis quantification
 - [[implants/mahmood-hashemi-2024-causes-implant-migration-maxillary-sinus-case-series]] — 25-year cause distribution + Caldwell-Luc outcomes
-- [[implants/peri-implantitis]] — the dominant upstream cause of explantation
-- [[sinus-lift/lateral]] — preventive sinus-lift protocols relevant to the <5 mm threshold
+- [[implants/peri-implantitis/peri-implantitis]] — the dominant upstream cause of explantation
+- [[sinus-lift/lateral/lateral]] — preventive sinus-lift protocols relevant to the <5 mm threshold
