@@ -69,7 +69,7 @@ All IL vs. DL survival differences: p <0.01. MBL difference: p >0.05.
 ## Related Papers
 
 - [[implants/loading-protocol/gallucci-2018-implant-placement-loading-protocols-partially]] — extends: ITI Type 1–4 / A–C taxonomy that classifies this study as Type 1B (guided immediate placement) with IL vs. DL comparison
-- [[implants/loading-protocol/gallucci-2026-current-state-of-evidence-for]] — extends: current evidence synthesis that this RCT contributes survival data to
+- [[implants/gallucci-2026-current-state-of-evidence-for]] — extends: current evidence synthesis that this RCT contributes survival data to
 - [[implants/loading-protocol/esposito-2013-loading-times-dental-implants-cochrane]] — reinforces: Cochrane finding that IL carries higher short-term failure risk vs. conventional loading
 - [[implants/loading-protocol/rismanchian-2025-immediate-nonimmediate-loading-umbrella-review]] — reinforces: umbrella review on loading timing outcomes
 - [[digital-workflow/tomar-2025-comparing-clinical-outcomes-guided-freehand]] — context: guided surgery accuracy that forms the surgical foundation of this study
