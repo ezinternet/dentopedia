@@ -81,4 +81,4 @@ A clinical decision algorithm (Figure 1 in the paper) guides technique selection
 - [[bone-regeneration/buser-2023-gbr-implant-35years-basic-principle-review]] — conventional GBR reference standard this review positions minimally invasive techniques against
 - [[bone-regeneration/darby-2024-resorbable-membrane-dbbm-gbr-dehiscence]] — GBR for peri-implant dehiscence, the benchmark Bone Core Technique must be compared to
 - [[bone-regeneration/wessing-2018-gbr-collagen-membranes-particulate-graft-sr-ma]] — SR+MA on conventional GBR outcomes for peri-implant defects
-- [[immediate-implant/esthetic-soft-tissue]] — esthetic-zone immediate implant evidence base underlying IDR rationale
+- [[immediate-implant/esthetic-soft-tissue/esthetic-soft-tissue]] — esthetic-zone immediate implant evidence base underlying IDR rationale
