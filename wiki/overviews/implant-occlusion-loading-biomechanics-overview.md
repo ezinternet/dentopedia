@@ -159,3 +159,18 @@ Clinical ladder: ①light occlusion as a starting point but re-check at 0.5/3/6/
 Zhou 2021 (prospective pilot, T-Scan III, n=32 restorations, 5 timepoints over 6 months) tracked real-time occlusal force evolution after single posterior implant crown placement. Implant bite force approximately doubled from 2 weeks (3.39% of total occlusal force) to 3 months (6.90%, p=0.008), then plateaued through 6 months (7.31%, p=0.900). Implant load remained consistently lower than adjacent natural teeth throughout. Clinical implication: the 2-week occlusal adjustment window captures a transitional state — bone and soft tissue remodeling drive an additional 3-month loading increase before stabilization. Occlusal adjustments made at delivery should anticipate this shift, and follow-up occlusal evaluation at ~3 months is advisable.
 
 - [[occlusion/zhou-2021-digital-occlusal-analysis-posterior-implant]] — T-Scan: implant bite force doubles by 3 months post-delivery then stabilizes; suggests 3-month occlusal re-check protocol.
+
+## Clinical Quiz
+<!-- quiz_spec -->
+
+**Q1.** 구치부 임플란트 단관 수복 직후 교합 조정을 해서 "약교합(light occlusion)"으로 맞췄습니다. 3개월 후 추적 불필요합니까? 이 오버뷰에 근거해 답하세요. *(근거: Zhang 2022 T-Scan III 전향 + 임플란트 교합 추적 사다리)*
+
+> **모범답안**: **추적이 반드시 필요하다.** 이 오버뷰는 약교합이 즉시 교합력을 낮추나 **시간이 지나며 교합력이 계속 증가해 유지되지 않는다**는 것을 핵심 오판 패턴으로 명시한다(Zhang 2022, n=50, T-Scan III 전향 — 교합력이 4.91→10.34%로 상승하다가 계속 증가). 또한 Mao 2024 SR+MA와 Assoratgoon 2025 SR에서 임플란트 교합 접촉은 부하 후 6–12개월에 상대적 저위교합으로 변동된다. 이 오버뷰의 임상 사다리는 **보철 장착 후 0.5/3/6/12개월 T-Scan/교합지 재점검**을 명시하며, "약교합 한 번이면 영구 예방"은 오판 패턴으로 분류돼 있다.
+
+**Q2.** 상악 우측 구치부 임플란트 단관을 장착했습니다. 교합 조정이 해당 치아 부위에만 영향을 미칩니까? *(근거: Gözen 2025 전악 교합력 재분배 in-vivo)*
+
+> **모범답안**: **전악에 영향을 미친다.** Gözen 2025(in-vivo, n=18)에서 단일 구치 임플란트 수복만으로도 교합력이 **전악으로 재분배**됐다 — 후방 교합력과 전방 교합력이 모두 감소하고 대합치와 전체 교합력은 오히려 증가했다. 이 오버뷰는 이를 근거로 교합 재점검의 범위를 **국소(해당 치아 주변)가 아니라 전악**으로 해야 한다고 명시한다. 단, 이 연구는 소규모(n=18)임을 감안해 결론의 강도를 제한해서 받아들여야 한다.
+
+**Q3.** 이갈이(Bruxism)가 있는 임플란트 환자에게 교합 조정으로 과부하를 예방하려 합니다. 이 오버뷰에서 이 전략의 근거와 더 적합한 대안은 무엇입니까? *(근거: 과부하-골소실 인과 한계 + Bruxism 사다리 + Stilwell 2024)*
+
+> **모범답안**: **교합 조정만으로 이갈이 과부하를 예방한다는 근거는 약하다.** 이 오버뷰에서 과부하-골소실 연관은 시사되나 인과가 미확정이고(Di Fiore 2022 SR, Mojaver 2025), 교합 조정 자체의 이득은 기저 교합이 양호하면 작다(Jahanbin 2026). Stilwell 2024에서 이갈이 환자의 임플란트 파절률은 ~0.5%로 정량화되며, 이 오버뷰는 이갈이 환자에게 **스플린트 우선**을 임상 사다리의 명시적 항목으로 제시한다. 연계 관계: bruxism-muscle-overload-axis 오버뷰가 이갈이→과부하 병태생리 렌즈이고, 본 오버뷰는 설계·하중·측정의 보철·생역학 렌즈로 상보적이다.
