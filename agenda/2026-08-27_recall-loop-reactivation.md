@@ -2,7 +2,7 @@
 title: "리콜 루프 재가동 — 스케줄러는 도는데 채점이 안 남는다"
 type: agenda
 date: 2026-08-27
-status: draft
+status: in-progress
 owner: 원장
 priority: P1
 tags: [meta, recall, srs, retention, knowledge-compounding, operations]
@@ -51,6 +51,10 @@ source_wiki:
 
 # Output
 
+- `scripts/recall-session.py` — pending 큐 플래그(`--write-pending`/`--read-pending`/`--clear-pending`) + `--grade`의 자동 pending 정리
+- `~/.claude/scheduled-tasks/weekly-recall/SKILL.md` — read-pending-먼저 흐름으로 재작성
+- `.gitignore` — `recall/_pending.json` 추가
+
 ## D1. 전달 경로 결정 (이 agenda의 핵심 — 나머지는 여기 종속)
 
 무인 발화가 증발하지 않도록 **큐를 남기는 방식**으로 바꾼다. 후보 3안:
@@ -63,8 +67,30 @@ source_wiki:
 
 **권장: A + B 병행.** A가 유실을 막고, B가 애초에 부재할 확률을 낮춘다. C는 A가 안정된 뒤 얹는다.
 
-- [ ] A/B/C 중 채택안 확정 (원장 결정)
-- [ ] `~/.claude/scheduled-tasks/weekly-recall/SKILL.md` 무인 fallback 조항을 채택안에 맞게 개정
+- [x] A/B/C 중 채택안 확정 (원장 결정, **2026-08-27: A안 채택**. B·C는 기각이 아니라 **보류** — A가 안정된 뒤 재검토)
+- [x] `~/.claude/scheduled-tasks/weekly-recall/SKILL.md` 무인 fallback 조항을 채택안에 맞게 개정
+
+### D1 구현 (2026-08-27, A안)
+
+`scripts/recall-session.py`에 pending 큐 3개 플래그 추가:
+
+- `--due N --write-pending` — due 문항을 뽑아 제시하면서 동시에 `recall/_pending.json`에 고정 (`{created, items}`)
+- `--read-pending` — pending 파일이 있으면 그 배치를 그대로 반환(**새 `--due`를 절대 뽑지 않음**), 없으면 빈 결과
+- `--grade` — 채점된 key를 pending에서 자동 제거(부분 채점 시 나머지는 유지); 배치가 다 채점되면 파일째 삭제
+- `--clear-pending` — 수동 폐기(사용자가 명시적으로 스킵을 요청한 경우만)
+
+`weekly-recall` SKILL.md 흐름을 `read-pending 먼저 → 없으면 due+write-pending`으로 재작성. 무인 fallback 조항에서 "다음 접속 시 이어서"라고만 하던 것을, 실제로 **다음 발화가 정확히 그 배치를 다시 제시하도록** 만들었다 — 습관이나 사람의 기억에 의존하지 않는다.
+
+`.gitignore`에 `recall/_pending.json` 추가 — 전이성 큐 파일이라 `_state.json`(추적 대상)과 달리 커밋 대상 아님.
+
+**검증 (CLI 시뮬레이션, `recall/_state.json` 스냅샷 백업 후 원복)**:
+1. `--due 3 --write-pending` → 3문항 제시 + pending 파일 생성 확인
+2. (무인 가정, grade 미호출) `--read-pending` → **동일 3문항 재현**(diff 0) — 유실 없음 확인
+3. 1문항만 `--grade` → pending에 나머지 2문항만 남는 것 확인(부분 채점 정상)
+4. 나머지 2문항 채점 → pending 파일 자동 삭제 확인
+5. 그 다음 `--due 3 --write-pending` → **다른(새) 3문항**이 나오는 것 확인 — 배치 재사용이 아니라 정상 진행임을 확인
+
+전부 통과. 다만 이건 CLI 직접 호출 시뮬레이션이고, **실제 스케줄 발화(다음: 2026-08-30 일 20시)를 통과시켜 검증한 것은 아직 아니다** — Done Criteria 참조.
 
 ## D2. 투여량 조정
 
@@ -93,8 +119,8 @@ source_wiki:
 
 # Done Criteria
 
-- [ ] D1 채택안 확정 + SKILL.md 개정 반영
-- [ ] 무인 발화 1회를 실제로 통과시켜, 사용자 부재 상태에서도 **문항이 유실되지 않고 다음 세션에서 채점까지 도달**하는 것을 `_state.json` 전후 비교로 확인
+- [x] D1 채택안 확정 + SKILL.md 개정 반영 (2026-08-27, A안. CLI 시뮬레이션 4단계 통과 — 위 D1 구현 참조)
+- [ ] 무인 발화 1회를 **실제 스케줄 발화로** 통과시켜, 사용자 부재 상태에서도 **문항이 유실되지 않고 다음 세션에서 채점까지 도달**하는 것을 `_state.json`·`recall/_pending.json` 전후 비교로 확인 (다음 발화: 2026-08-30 일 20시 — CLI 시뮬레이션과 별개로 실측 필요)
 - [ ] 연속 2주 세션에서 `_state.json`의 `last`가 갱신됨 (= 루프가 실제로 돈다는 유일한 증거)
 - [ ] box2 이상 문항 수가 6 → **30 이상** (인출이 축적되기 시작한 지표)
 - [ ] D3 허브 5편 × 3문항 저작 완료, 모든 수치는 해당 overview 본문 대조
@@ -104,6 +130,7 @@ source_wiki:
 - 2026-08-27: **"스펙을 231편으로 늘린다"를 이번 국면 목표에서 제외.** 스펙 48편·문항 144개가 이미 미착수인 상태에서 문항을 더 만드는 건 백로그를 키울 뿐이다. 병목은 저작이 아니라 **채점 도달률**.
 - 2026-08-27: 리콜은 *signal, not gate* 원칙 아래 있다 — 미착수 문항 수를 gate로 쓰지 않는다. 다만 D4는 **신호가 실패를 볼 수 있게** 만드는 일이라 원칙과 충돌하지 않는다.
 - 2026-08-27: 산출물 축(종합→산출물 14.8% → 18.3%)은 8/26 인터랙티브 11종으로 스스로 돌고 있으므로 이번 agenda 범위 밖.
+- 2026-08-27: **D1 A안 채택 + 구현 완료.** B(발화 시각 이동)·C(아침 브리핑 결합)는 기각이 아니라 보류 — 다음 실제 무인 발화(8/30)에서 A만으로 유실이 안 잡히면 그때 B를 얹는다. D2(투여량 `--due 7`→`3`)는 이번에 요청받지 않아 손대지 않음, 여전히 열려 있음.
 
 # References
 
