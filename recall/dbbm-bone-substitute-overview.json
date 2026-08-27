@@ -1,0 +1,49 @@
+{
+  "overview": "dbbm-bone-substitute-overview",
+  "date": "2026-08-27",
+  "title": "DBBM·골대체재 종합 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/dbbm-bone-substitute-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "상악동거상술에서 DBBM 입자 크기(대립자 1–2mm vs 소립자 0.25–1mm)는 신생골량·잔존이식재·결합조직 비율에 영향을 줍니까?",
+      "opts": [
+        "대립자가 소립자보다 신생골을 유의하게 더 형성한다",
+        "소립자가 더 빠르게 흡수되어 신생골이 많다",
+        "입자 크기는 조직계측 결과 전항목에 유의차 없다(Li 2023 SR+MA) — 재료 선택의 기준이 아니다",
+        "소립자는 이식재 부피 손실이 크고 임플란트 생존율도 낮다"
+      ],
+      "ans": 2,
+      "rat": "Li 2023 SR+MA: 대립자(1–2mm) vs 소립자(0.25–1mm) 비교에서 신생골·잔존이식재·결합조직·전체골량 모두 유의차 없음(all NS). 입자 크기는 상악동거상술 결과의 결정 변수가 아니며 재료 선택 레버로 쓸 수 없다.",
+      "cite": "overviews/dbbm-bone-substitute-overview"
+    },
+    {
+      "id": "q2",
+      "q": "상악동거상술에서 이인산칼슘(Biphasic Calcium Phosphate, BCP, 60% HA/40% β-TCP)과 DBBM을 SR+MA로 비교할 때 신생골 형성 결과는?",
+      "opts": [
+        "DBBM이 신생골 형성에서 유의하게 우월하다",
+        "BCP가 신생골 유의하게 더 많고 잔존이식재 유의하게 적다(Alkandari 2025 SR+MA: +3.48%, −8.41%)",
+        "두 재료 간 임상 결과 차이 없음",
+        "BCP는 흡수가 너무 빨라 임플란트 생존율이 낮다"
+      ],
+      "ans": 1,
+      "rat": "Alkandari 2025 SR+MA: 상악동거상술에서 BCP가 DBBM보다 신생골 +3.48%(유의), 잔존이식재 −8.41%(유의). 동물모델(Chakar 2014 토끼, 4주)에서도 BCP 신생골이 DBBM보다 +70%. 단, 임플란트 장기 생존 데이터는 DBBM이 우위이며 BCP는 이질성 높음(I²=86%) 주의.",
+      "cite": "overviews/dbbm-bone-substitute-overview"
+    },
+    {
+      "id": "q3",
+      "q": "교정력 이동(Orthodontic Tooth Movement, OTM) 예정 부위에 DBBM/탈단백 우골(Deproteinized Bovine Bone, DBB) 단독 이식 시 어떤 위험이 있습니까?",
+      "opts": [
+        "교정 이동 속도가 약 2배 빨라진다",
+        "치근흡수(Root Resorption) 발생이 공백 대조군의 1.87배로 유의하게 증가한다(Jiang 2020)",
+        "치근흡수 위험은 없으나 골유착 실패율이 높다",
+        "OTM 부위에 DBBM을 넣으면 치근흡수가 오히려 억제된다"
+      ],
+      "ans": 1,
+      "rat": "Jiang 2020(실험, 치조골 교정이동 모델): DBBM/DBB 단독 이식군에서 치근흡수가 공백 대조군의 1.87배로 유의하게 증가. 비흡수성 입자가 교정력 하에서 치근에 물리적 압박을 가하는 것이 기전으로 추정. 이 오버뷰에서 가장 강한 음성 신호 — OTM 예정 부위엔 BMP2 기능화 CaP(BioCaP)가 대안.",
+      "cite": "overviews/dbbm-bone-substitute-overview"
+    }
+  ]
+}
