@@ -115,8 +115,9 @@ source_wiki:
 
 ## D4. 신호 보정
 
-- [ ] `recall-coverage-lint.py`가 재는 것은 **스펙 존재**뿐 — 스펙이 있어도 한 번도 안 푼 137문항은 초록불로 보인다. `_state.json` 기반 **인출 활성도**(최근 N일 채점 수 / box≥2 비율)를 신호에 추가할지 결정
-      *Why*: 커버리지만 재면 이번 실패(스펙은 있는데 루프가 죽음)를 **감사가 못 잡는다** — 위키가 여러 번 겪은 "초록불 실패" 패턴
+- [x] `recall-coverage-lint.py`에 `_state.json` 기반 인출 활성도 신호 추가 완료 (2026-08-27)
+      추가 지표: `last_graded`/`days_since`(14일 초과→WARN·stdout·log 모두), `graded_30d`, `never_graded`(한 번도 안 풂), `box≥2 비율`.
+      현재값: 루프 19일 정지 WARN · never_graded 152/159 · box≥2 6/159
 
 # Done Criteria
 
