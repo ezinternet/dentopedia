@@ -56,12 +56,12 @@ Becker's Part 1 review organizes dental analgesia around one mechanism-based dis
 
 ## Related Papers
 
-- [[wiki/drug/analgesics/pozzi-2011-pain-management-dentists-ibuprofen]] — independent later narrative review of ibuprofen pharmacology reaching class-level conclusions (COX mechanism, preemptive use, safety profile) consistent with this paper's framework.
-- [[wiki/local-anesthesia/becker-2012-local-anesthetics-pharmacological-considerations]] — companion continuing-education article by the same author in the same journal; this paper's preemptive-analgesia timing ("before local anesthesia wanes") applies directly to that paper's local anesthetic duration pharmacology.
-- [[wiki/drug/analgesics/moore-2015-single-dose-oral-analgesics-cochrane-overview]] — umbrella review that subsequently quantified this paper's qualitative claims, ranking ibuprofen 400 mg plus acetaminophen 1000 mg above codeine combinations.
-- [[wiki/drug/analgesics/costa-2015-preemptive-nsaids-third-molar-pain-meta]] — meta-analysis formally testing the preoperative NSAID benefit asserted here from mechanism and two cited trials.
-- [[wiki/drug/analgesics/di-spirito-2022-endodontic-pain-management-overview]] — modern endodontic pain synthesis that inherits this pharmacologic scaffold and updates it with current evidence tiers.
-- [[wiki/drug/analgesics/rainsford-2009-ibuprofen-pharmacology-efficacy-safety-review]] — contemporaneous deep-dive on the prototype agent (ibuprofen) this review treats as the class anchor.
+- [[drug/analgesics/pozzi-2011-pain-management-dentists-ibuprofen]] — independent later narrative review of ibuprofen pharmacology reaching class-level conclusions (COX mechanism, preemptive use, safety profile) consistent with this paper's framework.
+- [[local-anesthesia/becker-2012-local-anesthetics-pharmacological-considerations]] — companion continuing-education article by the same author in the same journal; this paper's preemptive-analgesia timing ("before local anesthesia wanes") applies directly to that paper's local anesthetic duration pharmacology.
+- [[drug/analgesics/moore-2015-single-dose-oral-analgesics-cochrane-overview]] — umbrella review that subsequently quantified this paper's qualitative claims, ranking ibuprofen 400 mg plus acetaminophen 1000 mg above codeine combinations.
+- [[drug/analgesics/costa-2015-preemptive-nsaids-third-molar-pain-meta]] — meta-analysis formally testing the preoperative NSAID benefit asserted here from mechanism and two cited trials.
+- [[drug/analgesics/di-spirito-2022-endodontic-pain-management-overview]] — modern endodontic pain synthesis that inherits this pharmacologic scaffold and updates it with current evidence tiers.
+- [[drug/analgesics/rainsford-2009-ibuprofen-pharmacology-efficacy-safety-review]] — contemporaneous deep-dive on the prototype agent (ibuprofen) this review treats as the class anchor.
 
 ```yaml
 relations:
