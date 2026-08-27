@@ -21,6 +21,11 @@ __pycache__/
 logs/*
 !logs/*.md
 
+# Recall pending queue — transient, created/deleted within one weekly-recall
+# batch lifecycle (scripts/recall-session.py --write-pending/--clear-pending).
+# Not knowledge; recall/_state.json (the durable Leitner state) stays tracked.
+recall/_pending.json
+
 # Claudian plugin
 .claudian/
 
