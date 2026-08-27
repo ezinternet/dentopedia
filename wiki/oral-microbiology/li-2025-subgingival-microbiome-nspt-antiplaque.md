@@ -69,4 +69,4 @@ Non-surgical periodontal therapy (NSPT/SRP) reduces pathogenic biofilm load, but
 
 ## Related Papers
 
-- [[periodontics/regueira-iglesias-2024-salivary-microbiome-periodontitis-diagnostic]] — salivary-niche counterpart: a 796-participant 16S diagnostic classifier for periodontitis. Different sample niche (saliva vs subgingival) and different question (diagnosis vs treatment response), so no typed edge — kept here after the reciprocal `complements:` edges between the two pages were dropped 2026-08-15.
+- [[oral-microbiology/regueira-iglesias-2024-salivary-microbiome-periodontitis-diagnostic]] — salivary-niche counterpart: a 796-participant 16S diagnostic classifier for periodontitis. Different sample niche (saliva vs subgingival) and different question (diagnosis vs treatment response), so no typed edge — kept here after the reciprocal `complements:` edges between the two pages were dropped 2026-08-15.
