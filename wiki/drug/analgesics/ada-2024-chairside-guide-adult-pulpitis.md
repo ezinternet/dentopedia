@@ -29,7 +29,7 @@ relations:
 - 범위 게이트가 안전의 골간이다: pulpectomy·비수술적 근관치료·절개배농·발치 또는 2–3일 내 의뢰 전까지의 다리일 뿐이며, 오피오이드는 informed consent·PDMP 확인 필수, routine just-in-case 처방 금지, 12–<17세엔 극도 주의.
 
 > [!note] Scope
-> 이 페이지는 부모 권고문 [[wiki/drug/analgesics/carrasco-labra-2024-pharmacologic-management-acute-dental-pain-guideline]]의 **체어사이드 실무 체크리스트**판이다. 근거 본체(SR+MA, 효과크기)는 부모 페이지로; 여기서는 진료 중 바로 쓰는 경로 전체를 옮긴다.
+> 이 페이지는 부모 권고문 [[drug/analgesics/carrasco-labra-2024-pharmacologic-management-acute-dental-pain-guideline]]의 **체어사이드 실무 체크리스트**판이다. 근거 본체(SR+MA, 효과크기)는 부모 페이지로; 여기서는 진료 중 바로 쓰는 경로 전체를 옮긴다.
 
 ## Summary
 
@@ -122,6 +122,6 @@ Inherited from the parent guideline (GRADE framework): each recommendation carri
 
 ## Related Papers
 
-- [[wiki/drug/analgesics/carrasco-labra-2024-pharmacologic-management-acute-dental-pain-guideline]] — parent guideline (full evidence base this chairside guide distills; `applies-to` edge)
-- [[wiki/drug/analgesics/miroshnychenko-2023-injectable-topical-anesthetics-acute-pain-sr]] — SR underlying the local-anesthetic/benzocaine recommendations (Recs 1, 3, 4)
-- [[wiki/drug/antibiotics/tampi-2019-antibiotics-pulpitis-apical-abscess-sr]] — orthogonal antibiotic axis for the same urgent pulpitis/apical-abscess presentations
+- [[drug/analgesics/carrasco-labra-2024-pharmacologic-management-acute-dental-pain-guideline]] — parent guideline (full evidence base this chairside guide distills; `applies-to` edge)
+- [[drug/analgesics/miroshnychenko-2023-injectable-topical-anesthetics-acute-pain-sr]] — SR underlying the local-anesthetic/benzocaine recommendations (Recs 1, 3, 4)
+- [[drug/antibiotics/tampi-2019-antibiotics-pulpitis-apical-abscess-sr]] — orthogonal antibiotic axis for the same urgent pulpitis/apical-abscess presentations
