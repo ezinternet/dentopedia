@@ -74,4 +74,4 @@ Gonorrhea infection status: no effect on microbiota structure (PERMANOVA p=0.078
 
 ## Related Papers
 
-- [[oral-microbiology]] — oral microbiome ecology overview
+- [[oral-microbiology/oral-microbiology]] — oral microbiome ecology overview
