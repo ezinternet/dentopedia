@@ -56,4 +56,4 @@ Key evidence statements:
 
 ## Related Papers
 - [[oral-medicine/immune-mediated/immune-mediated]] — systemic oral-medicine connections context
-- [[periodontics]] — periodontal disease evidence base for systemic associations
+- [[periodontics/periodontics]] — periodontal disease evidence base for systemic associations
