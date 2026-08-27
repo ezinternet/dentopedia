@@ -61,7 +61,7 @@ Ruales-Carrera et al. (2019) describe a simplified chairside technique using cus
 
 ## Related Papers
 
-- [[immediate-implant/esthetic-soft-tissue]] — category overview for immediate implant esthetic/soft-tissue outcomes
+- [[immediate-implant/esthetic-soft-tissue/esthetic-soft-tissue]] — category overview for immediate implant esthetic/soft-tissue outcomes
 - Chu et al. 2012 — dual-zone therapeutic concept (cited foundational framework)
 - Su et al. 2010 — critical and subcritical contour (cited foundational framework)
 - Slagter et al. 2014 — SR of immediate placement in esthetic zone (cited background)
