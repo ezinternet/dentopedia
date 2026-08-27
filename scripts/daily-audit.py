@@ -63,7 +63,11 @@ Three graph/integrity signals (non-blocking):
                             plus CIRCULAR reinforces (derived doc claiming to
                             independently confirm its own source) as a separate count
   - link-integrity.py     → broken body wikilinks, index.md two-way coverage
-                            (counts a wikilink ANYWHERE in index.md as coverage)
+                            (counts a wikilink ANYWHERE in index.md as coverage),
+                            plus WRONG PATH: [[cat/sub/stem]] whose written folder path
+                            != the file's actual location. The broken-link check resolves
+                            by stem only, so a wrong path passes it while 404-ing on the
+                            deployed Quartz site (2026-08-27: 55 such links found).
   - overview-catalogue-lint.py → narrower companion to the above: does each overview have
                             its own '- [[overviews/x]]' catalogue bullet, i.e. is it
                             findable by someone scanning the list rather than searching?
