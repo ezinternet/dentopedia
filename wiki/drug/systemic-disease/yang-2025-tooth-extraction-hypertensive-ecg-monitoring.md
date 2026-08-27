@@ -79,4 +79,4 @@ A retrospective case-control study of **2,059 tooth-extraction visits** in **1,3
 
 - [[drug/systemic-disease/uritu-2025-vasoconstrictor-dental-anesthesia-pregnancy-sr]] — reinforces: both address cardiovascular safety of dental procedures/anesthesia in medically-at-risk patients; this paper quantifies intraoperative BP/ECG risk thresholds for hypertensives.
 - [[drug/systemic-disease/colibasanu-2025-drug-drug-interactions-dental-patients-retrospective]] — same elderly polypharmacy population (mean 74.6 y, 70% comorbid) where antihypertensive regimens and acute intraoperative drug use (nitroglycerin) intersect with drug-interaction risk.
-- [[drug/anticoagulants]] — overlapping medically-compromised extraction population requiring perioperative risk stratification.
+- [[drug/anticoagulants/anticoagulants]] — overlapping medically-compromised extraction population requiring perioperative risk stratification.
