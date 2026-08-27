@@ -109,3 +109,18 @@ Nitrous-oxide sedation succeeds in 94.9% of cases, significantly higher in adult
 **갱신 메모 (2026-06-07)**: 두 논문은 ladder의 §2(보충주사)·§3(마취제 선택)을 확장한다. Park 2024는 하악구치 hot tooth에서 **골내마취(IO)가 협측침윤보다 단발 성공률이 높음**을 보여, 기존 "보충주사 = 약 2배 상승" 명제에 IO를 1차 대안으로 끌어올리는 근거(단 retrospective·단일기관·지속시간 짧음 한계). Miroshnychenko 2023은 ADA CPG 근거로 **장시간형 bupivacaine이 술후 진통제 소비를 줄이고 topical benzocaine이 비가역 치수염 통증을 낮춤**을 추가 — 마취제 선택이 마취 성공뿐 아니라 술후 통증·진통제 사용까지 좌우함을 보강. [확인] 술후 통증 관리는 [[overviews/drug-analgesics-postop-pain-overview]] 연계.
 
 **갱신 메모 (2026-07-01)**: [[overviews/computerized-needle-free-anesthesia-delivery-overview]] — 자매 overview: 전달장치·기계 축(CCLAD/The Wand/STA/needle-free 9편). Park 2024의 컴퓨터구동 골내마취(QuickSleeper5)는 이 device-axis overview에서도 "비주사 경로 대안"으로 함께 다뤄짐 — 본 ladder(기법·약물선택)와 상호보완.
+
+## Clinical Quiz
+<!-- quiz_spec -->
+
+**Q1.** 하악 제1대구치의 증상성 비가역 치수염(hot tooth)에서 표준 하치조신경전달마취(IANB)를 했더니 입술은 마비됐는데 치아 통증이 여전합니다. 다음 단계는 무엇입니까? *(근거: Rujirawan 2025 Network MA — 보충주사 vs 병용주사)*
+
+> **모범답안**: 이 상황은 **"기술 실패"가 아니라 부신경지배(accessory innervation)** 의 가능성이 높다 — 입술 마비는 IANB가 목표 신경에 도달했다는 신호이기 때문이다. 이 오버뷰의 핵심 오판 패턴: "입술 마비 있는데 치아가 아프면 IANB를 반복"하는 것은 잘못됐다. 올바른 다음 단계: **보충주사(supplementary injection, SUPP)** 또는 **병용주사(combined, COMB)** 로 전환한다. Rujirawan 2025 Network MA(28 RCT)에서 보충주사 RR 2.02, 병용주사 RR 1.86 — 둘 다 IANB 단독보다 유의하게 우월하고, 서로는 동등하다. 골내마취(IO, QuickSleeper5)는 보충 없이 성공률 100%(Park 2024)로 대안이 되나 지속시간이 짧은 한계가 있다.
+
+**Q2.** 하악 구치 처치에서 "굳이 IANB 말고 articaine 협측침윤(Buccal Infiltration)으로 해도 됩니까?"라는 질문이 있습니다. 이 오버뷰의 근거로 답하세요. *(근거: Saatchi 2025 SR+MA + Yu 2021 SR+MA)*
+
+> **모범답안**: **성인과 소아 모두 동등한 대안이다.** Saatchi 2025 SR+MA(5 RCT): 4% articaine 협측침윤이 2% lidocaine IANB와 성공률 **동등**(RR 1.06, moderate certainty). Yu 2021 SR+MA(소아, 7 RCT): OR 1.02, NS — 소아에서도 동등. 침윤 마취가 IANB보다 더 간단하고 저침습이므로 증상성 비가역 치수염 하악 구치에서 1차 선택으로 쓸 수 있다. 단, articaine은 mepivacaine 대비 성공률은 동등하지만 **시술 후 통증을 유의하게 감소**시키는 이점이 있다(MD 0.59, p<0.001; Alkandari 2024). "articaine가 lidocaine보다 성공률이 높다"는 통념은 이 오버뷰에서 입증되지 않는다.
+
+**Q3.** 소아 환자 하악 구치 처치에서 아산화질소(N₂O-O₂) 흡입진정을 추가합니다. 이 오버뷰에서 소아와 성인의 성공률 차이를 설명하고 보호자에게 어떻게 알려야 합니까? *(근거: Rossit 2021 SR+MA)*
+
+> **모범답안**: Rossit 2021 SR+MA(19 RCT)에서 N₂O-O₂ 전체 성공률은 94.9%이지만, **성인 99.9% vs 소아 91.9%로 유의하게 다르다(p=0.002).** 소아는 성인보다 약 8% 성공률이 낮다는 것을 사전에 알려야 한다. 보호자 상담 예시: "아산화질소를 사용하면 10명 중 약 9명의 아이에게서 효과가 있지만, 성인만큼 완전하지 않을 수 있습니다. 효과가 불충분한 경우 추가 마취나 다른 전략을 사용할 수 있습니다." 이 수치를 **사전 고지**함으로써 보호자 기대를 현실적으로 맞추는 것이 이 오버뷰의 임상 지침이다.
