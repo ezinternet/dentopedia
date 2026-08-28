@@ -4144,6 +4144,7 @@ tags: []
 - [[periodontics/glim-2013-detrimental-dermal-wound-healing]] — Glim 2013 · narrative-review (Perspective) · 구강점막은 피부보다 면역매개체·혈관 적고 골수유래세포·재상피화·섬유아세포증식 빨라 무흉터 치유 경향 (abstract-only)
 - [[periodontics/drukala-2005-comparison-of-proliferation-and-motile]] — Drukała 2005 · in-vitro · 구강점막 각질세포가 피부 각질세포보다 이동속도 12%·증식 20% 더 빠름을 보인 체외 비교연구, 섬유아세포 조건배지가 이를 억제
 - [[overviews/oral-mucosal-vs-dermal-wound-healing-mechanism-synthesis]] — Synthesis 2026-08-09 신설 (2편): "구강이 피부보다 빨리 낫는다"를 조직수준(Glim 2013: 면역매개체·혈관↓, 골수유래세포·재상피화↑)과 세포수준(Drukala 2005: 각질세포 이동속도 12%↑·직선성↑·증식 20%↑, 섬유아세포 방사성 조절)으로 연결하는 기전 종합
+- [[overviews/implant-placement-direction-anatomic-constraints-overview]] — Synthesis 2026-08-29 신설 (6편): 임플란트 식립 방향·해부학적 제약 부위별 종합 — 전치부 Safe Angle(4.56° 편차·팔라탈 위치), 상악 소구치 ILAA **18.3°** 순측 기울기 필수(피질골 천공 84.1%→40.5%), 후방 하악 IAC 안전거리 2대구치 **4.65 mm** 최단·안전마진 ≥2 mm + CPDU D-I형 LPP 최고위험(U형 54.4%), 후방 상악 TSFE 1-mm 안전마진·r-CAIS **각도 편차 1.25°**·막 천공 2.5%; 비축방향 5년 변연골소실 **0.22 vs 0.10 mm** (P<.05) — 해부학이 기울기를 강제하더라도 교합 설계 보정 필요. CBCT 전 부위 필수.
 
 ### periodontics/host-modulation
 - [[periodontics/host-modulation/fernandez-gutierrez-2017-streptococcus-salivarius-gingival-reepithelialization]] — Fernández-Gutiérrez 2017 · in-vitro · 유산균 39종 스크리닝, S. salivarius MS-oral-D6가 분비 세린단백분해효소로 잇몸 재상피화를 약 2.5배 촉진
