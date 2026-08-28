@@ -1,0 +1,13 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "evernote": {
+      "type": "remote",
+      "url": "https://mcp.evernote.com/mcp",
+      "enabled": true,
+      "oauth": {
+        "scope": "read create write"
+      }
+    }
+  }
+}
