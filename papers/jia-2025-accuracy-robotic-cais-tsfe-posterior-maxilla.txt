@@ -1,0 +1,55 @@
+Source: PubMed Central PMC12695446
+PMID: 40968075
+DOI: 10.1111/jcpe.70038
+Retrieved via PubMed MCP full text
+
+Accuracy of Robotic Computer-Assisted Implant Surgery Combined With Transcrestal Sinus Floor Elevation for Single-Tooth Implants: A Retrospective Case Series
+
+Authors: Jieyong Jia, Liangzhi Du, Longlong He, Zhe Li, Yuncong Li, Chengpeng Lv
+Journal: Journal of Clinical Periodontology, 2025, Vol 53, Issue 1, Pages 46-57
+Date: 2025-09-18 (epub)
+
+--- KEY DATA ---
+
+Study design: Retrospective case series, single center (Xi'an Jiaotong University Stomatology), Nov 2022–Dec 2024
+System: Remebot robotic system (CAIS), surgical planning via RemebotDent software
+Imaging: Orthophos XG CBCT, 110 kV/5 mA, 0.3 mm voxel, DICOM format
+
+Inclusion: Age ≥18, RBH 4–9 mm on preoperative CBCT, no sinus infection/pathology, robotic osteotomy + placement
+Exclusion: Sinus disease, bisphosphonates, heavy smoking, uncontrolled perio, bruxism
+
+Total n: 40 patients, 40 implants
+- Sex: 20M/20F; Age: 20–72 years (mean 46.8 ± 15.3)
+- RBH: 6.4 ± 1.5 mm
+- Sites: 10 premolars, 30 molars (posterior maxilla)
+- Arch side: 23 right, 17 left
+- Bone quality: 22 type III, 18 type IV (Misch)
+- Timing: 32 delayed, 8 early (NO immediate)
+- Implants: 33 Straumann BLT, 4 Nobel Replace CC, 1 Astra EVS, 2 BEGO
+- Length: 34 <10 mm, 6 ≥10 mm
+- Registration: 19 CBCT, 21 IOS
+
+Protocol: 1-mm safety margin below sinus floor for osteotomy; manual TSFE by Summers osteotomes post-drilling; robotic arm handles only osteotomy and implant placement.
+
+Accuracy results (planned vs placed):
+- Global coronal deviation: 0.50 ± 0.22 mm (95% CI: 0.43–0.57)
+- Global apical deviation: 0.54 ± 0.21 mm (95% CI: 0.47–0.60)
+- Angular deviation: 1.25° ± 0.61° (95% CI: 1.06°–1.45°)
+- Vertical coronal: 0.18 ± 0.38 mm
+- Vertical apical: 0.17 ± 0.38 mm
+- Lateral coronal: 0.33 ± 0.14 mm
+- Lateral apical: 0.37 ± 0.14 mm
+
+LMM analysis (7 fixed factors):
+- Only "timing of implant placement" reached significance (p<0.05) on coronal and apical deviations
+- Implant position, arch side, bone quality, implant type, size, registration method: all NS (p>0.05)
+
+Complications:
+- Schneiderian membrane perforation: 2.5% (1/40, Case XIX, #17 site)
+- No other intraoperative/postoperative complications (6-month follow-up)
+- Perforation case: postoperative CBCT showed low-density fluid in sinus; no clinical sequelae
+
+Comparison context:
+- Dynamic CAIS (d-CAIS) + TSFE: Wu et al. reported higher deviations than this r-CAIS study
+- Multi-center TSFE sinus membrane perforation rate (osteotome): 7.2% (Stacchi et al.)
+- This r-CAIS rate: 2.5% (significant reduction)
