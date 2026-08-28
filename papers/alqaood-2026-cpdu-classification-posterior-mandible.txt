@@ -1,0 +1,53 @@
+Source: PubMed Central PMC12862232
+PMID: 41635900
+DOI: 10.1155/ijod/3244223
+Retrieved via PubMed MCP full text
+
+A New Classification System to Determine Posterior Mandible Morphology for Implant Therapy
+
+Authors: Faisal Alqaood, Jahanzeb Chaudhry, Amar Hassan Khamis, Keyvan Moharamzadeh, Moosa Abdulla Abuzayeda
+Journal: International Journal of Dentistry, 2026, Vol 2026, Pages 3244223
+Date: 2026-02-01
+
+--- FULL TEXT EXCERPT ---
+
+195 CBCT volumes, retrospective cross-sectional, Dubai Health, IRB MBRU IRB-2021-52.
+Sirona Galileos CBCT, 15x15x15 cm FOV, 0.15 mm voxel, 85 kVp.
+
+Measurements: Wc (crest width), Wb (base width), Vcb (alveolar ridge height), Vb (height below P point), Vc (height above P point), lingual concavity depth and angle.
+Line A = 2 mm coronal to superior IAC border. Point A = intersection Line A + lingual cortical plate. Point P = most prominent lingual cortical plate point.
+
+Ridge type distribution:
+- U-type (undercut): 54.4% left, 52.1% right [most common]
+- P-type (parallel): 27.2% left, 33.5% right
+- C-type (convergent): 18.5% left, 14.4% right
+
+Sex differences: Males > females in alveolar ridge height and height above P point (p<0.001 left; p=0.047 right).
+Age <40 vs >=40: Greater crest width (p=0.023 L, p<0.001 R) and ridge height (p=0.025 L, p=0.008 R) in younger.
+First molar presence: Significantly greater crest width (p<0.001), ridge height (p<0.001), concavity depth (right p<0.001) in those with first molar.
+Undercut presence: Greater height above P point (p=0.006), deeper concavity depth (p=0.001), but lower height below P point (p=0.002).
+
+Ridge type morphometrics:
+- C-type: lowest crest width (6.75/6.66 mm), lowest ridge height (12.59/12.64 mm)
+- P-type: intermediate
+- U-type: highest height above P point, deepest concavity depth
+
+Lingual concavity depth:
+- With undercut: 1.72 mm (L), 1.93 mm (R) vs without 0.61 mm, 0.71 mm (p<0.001)
+- U-type: 1.89 mm (L), 2.27 mm (R) vs C-type 1.19/1.16 mm
+
+CPDU Classification System:
+Step 1 - Ridge shape:
+  C (convergent): wide base, narrow crest
+  P (parallel): equal width crest and base
+  D (divergent): narrow base, wide crest, inherent undercut
+Step 2 - Undercut (for C and P only):
+  +U if undercut present; step 2 not applicable for D (undercut inherent)
+Step 3 - Influential status:
+  I = influential (above IAC, poses LPP risk)
+  N = non-influential
+
+Examples: P-U-I, D-I, C-U-I, C, P, P-U-N
+
+Key recommendation: CBCT mandatory for preoperative posterior mandibular implant assessment.
+D-type ridges have highest lingual perforation risk.
