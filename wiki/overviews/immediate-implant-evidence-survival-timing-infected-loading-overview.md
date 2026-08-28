@@ -16,10 +16,10 @@ source_wiki:
   - wiki/immediate-implant/mello-2017-immediate-fresh-extraction-vs-delayed-healed-socket-sr-ma.md
   - wiki/immediate-implant/pommer-2021-maxillary-single-tooth-timing-protocols-sr-ma.md
   - wiki/immediate-implant/lang-2012-immediate-implant-survival-success-sr.md
-  - wiki/immediate-implant/azarias-2025-survival-rate-immediate-loaded-implants.md
-  - wiki/immediate-implant/aldebes-2022-restoration-material-marginal-bone-resorption.md
-  - wiki/immediate-implant/espada-salgado-2026-immediate-implant-infected-socket-scoping-review.md
-  - wiki/immediate-implant/zhang-2024-immediate-implant-chronic-apical-infected-posterior.md
+  - wiki/immediate-implant/loading-protocol/azarias-2025-survival-rate-immediate-loaded-implants.md
+  - wiki/immediate-implant/root-analog/aldebes-2022-restoration-material-marginal-bone-resorption.md
+  - wiki/immediate-implant/infected-socket/espada-salgado-2026-immediate-implant-infected-socket-scoping-review.md
+  - wiki/immediate-implant/infected-socket/zhang-2024-immediate-implant-chronic-apical-infected-posterior.md
   - wiki/implants/gallucci-2026-current-state-of-evidence-for.md
   - wiki/implants/loading-protocol/gallucci-2018-implant-placement-loading-protocols-partially.md
   - wiki/immediate-implant/gotfredsen-2021-patient-perception-timing-concepts-implant.md
