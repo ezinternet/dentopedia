@@ -57,3 +57,6 @@ quartz/.quartz-cache/
 
 # Local Netlify folder
 .netlify
+
+# Smart Connections cache (binary blobs, 100MB+ files)
+.smart-env/
