@@ -1,4 +1,4 @@
-# 논쟁 레이더 백필 후보 — 2026-08-26
+# 논쟁 레이더 백필 후보 — 2026-08-27
 
 명시적 충돌 표현이 있으나 그 쌍에 `relations:` 타입 엣지(어떤 타입이든)도 `superseded_by:` 포인터도 없는 후보. **이 목록은 신호일 뿐 — 두 페이지를 읽고 판단해 엣지를 단다.**
 
@@ -7,8 +7,8 @@
 **대상은 키워드에 가장 가까운 링크로 특정한다.** 같은 줄의 나머지 링크는 충돌 표현의 대상이라는 근거가 없어 Tier 2(`AMBIG→`)로 강등된다 — 버리지 않으니 진짜 대상이 강등됐다면 Tier 2에서 찾을 수 있다.
 
 - Tier 1 (대상 지목됨, actionable): **2**
-- Tier 2 (대상 불명/soft, review): **20**
-- (억제됨) 이미 typed 엣지·supersession 포인터가 있어 제외: **284** · 부정문 제외: **101** · 검토·불필요 대장: **461** · 동일 줄 비최근접으로 Tier 2 강등: **1**
+- Tier 2 (대상 불명/soft, review): **25**
+- (억제됨) 이미 typed 엣지·supersession 포인터가 있어 제외: **286** · 부정문 제외: **101** · 검토·불필요 대장: **461** · 동일 줄 비최근접으로 Tier 2 강등: **1**
 
 ## Tier 1 — 판단 후 엣지 달 후보 (page → 지목된 target)
 
@@ -34,6 +34,22 @@
   - **근거 문장**: - Synthesizes the paradox that super-eruption is common but occlusal interference is not a predictable downstream consequence, refuting reflexive replacement.
   - ▸ 출발(`greenstein-2018-need-replace-missing-second-molar`) 세줄: 제2대구치 (Second Molar) 결손 후 임플란트 (Implant) 수복 여부를 평가한 서술적 문헌고찰 — 저작효율 (Masticatory Efficiency)·과맹출·교합간섭 (Occlusal Interference) 데이터 종합. 제1대구치 교합만으로 저작효율 약 90% 달성; 대합치 없는 구치의 약 20%가 ≥2 mm 정출 (Supraeruption)하나, 정출 정도와 교합간섭 발생은 강한 상관이 없음. 수복 여부는 환자 선호 (Patient Preference)에 따름 — 저작 불편감
 
+- `apical-patency-endodontic-outcome-overview` [overviews] (HIGH-no-target, '상충' · 상충)
+  - **근거 문장**: > - **술후 통증과의 관계**: "개통성이 통증을 악화시킨다"는 전통적 우려는 최신 메타분석에서 지지되지 않음 — 오히려 통증 완화 가능성이 시사되나 개별 연구 간 상충.
+  - ▸ 출발(`apical-patency-endodontic-outcome-overview`) 세줄: 두 전용 연구가 근단 개통성 (Apical Patency, AP) 임상 근거를 종합한다: Kuzhanchinathan 2024 SR(5편 임상연구, 4370근관; PROSPERO CRD42022374966)에서 AP 유지가 장기 치유율 **2배** 증가와 연관됐고, Ishizaki 2026 종합 리뷰는 "해부학적 개통성 vs 시술적 개통성" 개념 구분을 제시하며 AP와 술후 통증·해부학과의 관계를 종합했다. Ishizaki 2026이 인용한 최신 메타분석들은 AP가 술후 통증을 악화보다 오히려 완
+
+- `apical-patency-endodontic-outcome-overview` [overviews] (HIGH-no-target, 'contrary to' · 상반된 결과)
+  - **근거 문장**: Recent meta-analyses cited by Ishizaki 2026 suggest AP may *alleviate* rather than exacerbate postoperative pain — contrary to decades of clinical anxiety — but the evidence across individual studies remains conflicting; the evidence base for AP and healing is thin (only 1 RCT among 5 studies) and heterogeneous, precluding meta-analysis.
+  - ▸ 출발(`apical-patency-endodontic-outcome-overview`) 세줄: 두 전용 연구가 근단 개통성 (Apical Patency, AP) 임상 근거를 종합한다: Kuzhanchinathan 2024 SR(5편 임상연구, 4370근관; PROSPERO CRD42022374966)에서 AP 유지가 장기 치유율 **2배** 증가와 연관됐고, Ishizaki 2026 종합 리뷰는 "해부학적 개통성 vs 시술적 개통성" 개념 구분을 제시하며 AP와 술후 통증·해부학과의 관계를 종합했다. Ishizaki 2026이 인용한 최신 메타분석들은 AP가 술후 통증을 악화보다 오히려 완
+
+- `apical-patency-endodontic-outcome-overview` [overviews] (HIGH-no-target, '상충' · 상충)
+  - **근거 문장**: Ishizaki 2026이 인용한 최신 메타분석들은 AP가 술후 통증을 악화보다 오히려 완화할 수 있다고 시사하지만 개별 연구 간 상충이 지속되며, 치유 근거 기반도 취약하다(RCT 1편·전향 임상연구 4편, 이질적 설계 → 메타분석 불가).
+  - ▸ 출발(`apical-patency-endodontic-outcome-overview`) 세줄: 두 전용 연구가 근단 개통성 (Apical Patency, AP) 임상 근거를 종합한다: Kuzhanchinathan 2024 SR(5편 임상연구, 4370근관; PROSPERO CRD42022374966)에서 AP 유지가 장기 치유율 **2배** 증가와 연관됐고, Ishizaki 2026 종합 리뷰는 "해부학적 개통성 vs 시술적 개통성" 개념 구분을 제시하며 AP와 술후 통증·해부학과의 관계를 종합했다. Ishizaki 2026이 인용한 최신 메타분석들은 AP가 술후 통증을 악화보다 오히려 완
+
+- `interdental-cleaning-devices-synthesis` [overviews] (HIGH-no-target, '반박' · 반박)
+  - **근거 문장**: > **모범답안**: IDB 1순위 근거: ① Carrouel 2026 RCT(임신 치은염 n=323): 보정교차비 OR 3.14로 출혈 소실의 최강 독립 예측인자, BOP 56%→12%(−79.6%) ② Kotsakis 2018 베이지안 NMA(RCT 22편, 도구 10종): IDB가 최선일 확률 64.7%, 치은지수·치태지수 감소 1위. 치실 한정 이유: Jung 2025(n=37 전향)에서 치실 술식(Flossing Performance Score) 교육으로 향상시켜도 치태 제거는 개선되지 않고 술식과 무관(p=.112) — "기술만 가르치면 된다"는 통념 반박. 치실은 IDB가 들어가지 않는 **좁은/정상 접촉**에만 한정 적용.
+  - ▸ 출발(`interdental-cleaning-devices-synthesis`) 세줄: 치간 청소도구 21편 종합(+토스픽법 overview), Cochrane 우산 SR(Worthington 2019, RCT 35편·n=3929: 치실/치간칫솔+칫솔질이 칫솔질 단독보다 나을 가능성은 있으나 low~very low certainty, 치간 우식 평가 연구 0편)이 전체 틀을 제공: 보편적 우승 도구 없음 — **순응도가 도구보다 중요**(Yilmaz 2025 RCT n=54: 고무 치간 픽 12.61주 vs 치실 4.96주 규칙적 사용, p=0.003; Jung 2025 n=37: 
+
 - `non-surgical-periodontal-therapy-overview` [overviews] (HIGH-no-target, '반박' · 반박)
   - **근거 문장**: > - **CHX 대안·착색 완화**: 칫솔질 병행 상황에서 CPC는 CHX와 동등(Windhorst 2025 SR+MA, 14 RCT), 착색 유의 적음; CHX+ADS는 효능 비손상으로 착색 유의 감소(Van Swaaij 2019 SR+MA) — "착색 없으면 효과 없다" 통념 반박; 착색 우려 환자엔 CPC(칫솔질) 또는 CHX+ADS(비칫솔질) 선택. [확인]
   - ▸ 출발(`non-surgical-periodontal-therapy-overview`) 세줄: 치주 비수술 치료 31편 종합: SRP는 만성 치주염 1차 치료로 강력 권고(Smiley 2015 ADA), PPD 1-2mm 감소·CAL 0.5-1mm 획득; 전신 항생제 보조는 매우 낮은 확실성·임상 이득 미미로 routine 금지(Cochrane 2020, 45 RCT). NSPT는 구강 밖 선택적 항염증 효과가 있음 — CRP·IL-6·수축기혈압 감소하나 지질 프로필은 변화 없음(Meng 2024 SR+MA, 21 RCT); GBT는 환자 편의성 우수하나 임상 결과는 전통 SRD와 동등(Y
@@ -41,6 +57,10 @@
 - `non-surgical-periodontal-therapy-overview` [overviews] (HIGH-no-target, '반박' · 반박)
   - **근거 문장**: **결론**: CHX+ADS는 수술 후 창상 보호 기간에 효능을 유지하면서 착색을 유의하게 줄임 — "착색이 없으면 효과도 없다"는 통념 반박. 착색 우려로 CHX 순응도가 낮을 환자에게 CHX+ADS 복합 제제 우선 권고.
   - ▸ 출발(`non-surgical-periodontal-therapy-overview`) 세줄: 치주 비수술 치료 31편 종합: SRP는 만성 치주염 1차 치료로 강력 권고(Smiley 2015 ADA), PPD 1-2mm 감소·CAL 0.5-1mm 획득; 전신 항생제 보조는 매우 낮은 확실성·임상 이득 미미로 routine 금지(Cochrane 2020, 45 RCT). NSPT는 구강 밖 선택적 항염증 효과가 있음 — CRP·IL-6·수축기혈압 감소하나 지질 프로필은 변화 없음(Meng 2024 SR+MA, 21 RCT); GBT는 환자 편의성 우수하나 임상 결과는 전통 SRD와 동등(Y
+
+- `implant-surface-comparison` [overviews] (HIGH-no-target, '뒤집' · 뒤집음)
+  - **근거 문장**: > **모범답안**: **수정해야 한다.** 이 오버뷰는 2026-08 근거 갱신으로 HA/TCP 코팅에 대한 우호적 서술을 **뒤집었다**: Damerau 2021(대형동물 15편 SR+MA)에서 이미 거친(rough) 비코팅 티타늄 대비 TCP/HA 코팅은 BIC 유의 우위 없음이 확인됐고, HA는 오히려 14일차에 BIC가 유의하게 낮았다(−6.94%p, p=0.001). "작은 표본 단일 연구가 큰 표본 메타분석에 뒤집힌 사례"로 명시돼 있다. 단, Mg 코팅(Alenezi 2026, BIC 유의 향상)과 Ag 코팅은 전임상에서 여전히 가능성이 있으나 인체 RCT 없음.
+  - ▸ 출발(`implant-surface-comparison`) 세줄: 임플란트 표면처리 15편 + 5편 횡단인용 종합 매트릭스: SLA/SA = 임상 표준(8년 생존 94.8%, Kim 2020 n=96); 친수성(CA/SLActive) = D3/D4 골에서 stability dip 제거, 절대 ISQ 상승은 아님(CA 5.2년 97.3%, MBL 0.074 mm, Kim 2022 n=258); UV 광기능화(UV-PF) = 위축골·복잡증례 1순위(ISQ +21.9, 7년 100% 성공, Hirota 2020 전향적). 표면처리의 핵심 기전은 친수성이 아니라 탄화수
 
 - `immediate-implant-evidence-survival-timing-infected-loading-overview` [overviews] (HIGH-no-target, '뒤집' · 뒤집음)
   - **근거 문장**: 즉시 vs 지연 생존 갈등은 해소: Mello 2017(관찰포함 30편 ~3%p 열세)은 **García-Sánchez 2022에 의해 완전 superseded**(2026-08) — RCT만 보면 생존 무차이이고 설계 편향이 원인. 동일한 트레이드오프(골·PES 우세, 실패율 비유의 증가)가 **하나의 210명 3군 RCT 내부**(Felice 2016/Esposito 2017)에서도 재현 — 즉시·즉시지연이 골·PES는 유의 우위이나 실패율은 비유의하게 더 높은 경향(4개월→1년 안정). 부위·직경이 방향을 뒤집기도 함 — Checchi 2017(구치·광경직경)은 지연군이 PES·변연골 모두 우위(전치부 Puisys 2022와 정반대).
@@ -70,13 +90,12 @@
   - **근거 문장**: 비우식성 치경부 병소(Noncarious Cervical Lesion, NCCL) 17편 종합 — 병인은 stress(abfraction)·friction(abrasion)·biocorrosion(erosion)의 case-specific 다인성 조합이고, "교합응력(abfraction) 단독원인설"은 임상적으로 미입증이며 3편의 SR이 충돌(Senna 2012 결론 불가, Duangthip 2017 81% 연관 단 lab 가중, Dioguardi 2024 scoping 6편으로 확정·반박 모두 불가).
   - ▸ 출발(`nccl-etiology-diagnosis-management-overview`) 세줄: 비우식성 치경부 병소(Noncarious Cervical Lesion, NCCL) 17편 종합 — 병인은 stress(abfraction)·friction(abrasion)·biocorrosion(erosion)의 case-specific 다인성 조합이고, "교합응력(abfraction) 단독원인설"은 임상적으로 미입증이며 3편의 SR이 충돌(Senna 2012 결론 불가, Duangthip 2017 81% 연관 단 lab 가중, Dioguardi 2024 scoping 6편으로 확정·반박 모두 
 
-- `almeida-2019-efficacy-corticosteroids-versus-placebo-impacted` [drug/analgesics] (SOFT→canellas-2022-corticosteroids-third-molar-nma, 'disagree' · 불일치)
-  - **근거 문장**: > A larger, GRADE-assessed, full-text SR+MA on the same corticosteroid-vs-placebo question (40 RCTs vs this page's 17; n=1,555 at 24 h vs 730 overall) found the analgesic benefit to be **trivial** — 8.79 points lower at 6 h and 8.89 at 24 h on a 0–100 VAS, both under the pre-specified 10-point minimal important difference — where this page reports a significant MD of −17.38. Miroshnychenko 2023 wa
-  - ▸ 출발(`almeida-2019-efficacy-corticosteroids-versus-placebo-impacted`) 세줄: 매복 사랑니(제3대구치) 발치 후 통증·부종·개구제한(Trismus)에 대한 코르티코스테로이드(Corticosteroid) vs 위약(Placebo) 무작위대조시험(RCT) 체계적문헌고찰+메타분석(Systematic Review + Meta-Analysis, SR+MA) — PubMed/Scopus/Cochrane 검색, PRISMA 구조, 1223편 스크리닝 → 정성분석 17편(730명, 15–45세) → 정량 메타분석 10편(Review Manager 사용) 풀링. 코르티코스테로이드가 위약 대
-  - ▸ 대상(`canellas-2022-corticosteroids-third-molar-nma`) 세줄: 빈도주의 네트워크 메타분석 (Network Meta-Analysis, NMA) (61 RCT, 3561명; Embase·PubMed·Cochrane) — 하악 제3대구치 (Mandibular Third Molar) 발치 후 부종·통증·개구제한 감소를 위한 5종 코르티코스테로이드 (Corticosteroid, CS): 덱사메타손 (Dexamethasone)·베타메타손 (Betamethasone)·메틸프레드니솔론 (Methylprednisolone)·프레드니솔론 (Prednisolone)·트리암시놀론
+- `implant-failure-mbl-risk-factors-overview` [overviews] (HIGH-no-target, '뒤집' · 뒤집음)
+  - **근거 문장**: > **모범답안**: 이 오버뷰는 **경사 임플란트의 MBL 패널티는 시간 의존적**임을 보여준다. malak-2024(메타분석): 단기 NS → 3년 +0.08mm(유의) → 장기 +0.18mm(유의)로 시간이 지날수록 차이가 커진다. del-fabbro 연구진 자체 데이터도 2014년(≥3년, P=.30, NS) → 2022년(3–18년, P<.0001, 축방향 MBL 적음)으로 뒤집혔다. 따라서 "단기에 차이 없다"는 2017년 SR은 **추적기간이 짧은 연구 종합**이라는 한계를 갖는다. 경사 vs 축방향의 **실패 위험은 동일(RR=1.02)**이지만 장기 MBL 관리를 위해서는 이 시간 의존성을 고려해야 한다.
+  - ▸ 출발(`implant-failure-mbl-risk-factors-overview`) 세줄: 후기(정착 후) 임플란트 실패·변연골소실(MBL) 관련 논문 **24편** 종합 — 로딩 전 조기실패는 [[overviews/early-implant-failure-risk-prevention-overview]]와 상호보완. 우산리뷰 10편을 축으로 삼되, **우산리뷰는 등급만 매기고 효과크기를 안 주므로** 그 아래 1차 SR+MA·코호트 층을 함께 싣고, 여기에 위험인자 차이값을 읽을 **기준선**(kumar-2021, 1년 pooled MBL 0.56 mm)을 더한다. 가장 광범위한 우산리뷰
 
 - `miroshnychenko-2023-analgesics-acute-dental-pain` [drug/analgesics] (SOFT→di-spirito-2022-endodontic-pain-management-overview, 'unlike' · 다름)
-  - **근거 문장**: - [[wiki/drug/analgesics/di-spirito-2022-endodontic-pain-management-overview]] — endodontic pain pharmacologic management overview; complementary adult context where pulpitis pain IS covered, unlike this pediatric review's extraction-only evidence.
+  - **근거 문장**: - [[drug/analgesics/di-spirito-2022-endodontic-pain-management-overview]] — endodontic pain pharmacologic management overview; complementary adult context where pulpitis pain IS covered, unlike this pediatric review's extraction-only evidence.
   - ▸ 출발(`miroshnychenko-2023-analgesics-acute-dental-pain`) 세줄: - 소아(≤ 12세) 발치 후 급성 치통의 경구 진통제에 관한 체계적 문헌고찰 및 메타분석 (Systematic Review and Meta-Analysis, SRMA): 무작위대조시험 (Randomized Controlled Trial, RCT) 6편(연구당 45–201명, 평균 연령 5.5–9.3세), 2022년 ADA(미국치과협회) 소아 급성 치통 임상지침의 근거. - 이부프로펜과 아세트아미노펜은 위약보다 낫지만 서로 간 차이는 사소했고, 이부프로펜(5 mg/kg)+아세트아미노펜(15 mg/
   - ▸ 대상(`di-spirito-2022-endodontic-pain-management-overview`) 세줄: 체계적 고찰 개요(Healthcare 2022)와 기술적 요인 서술 고찰 통합: 근관 술후통증(환자의 2.5–60%, 6–12시간 최고조) 약물·비약물 관리 포괄. NSAIDs(ibuprofen ± APAP) 1차 약물치료; 코르티코스테로이드(dexamethasone)는 NSAID 보조제로 추가 이득; 술전 예방투여가 술후 반응투여보다 우월. 기구의 근첨 외 이탈·세정액 농도/용량·단일 vs 다회 방문 등 기술적 요인도 통증에 영향; 진통 목적 항생제 사용은 근거 없음.
 

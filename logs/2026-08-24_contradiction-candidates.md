@@ -1,4 +1,4 @@
-# 논쟁 레이더 백필 후보 — 2026-08-26
+# 논쟁 레이더 백필 후보 — 2026-08-24
 
 명시적 충돌 표현이 있으나 그 쌍에 `relations:` 타입 엣지(어떤 타입이든)도 `superseded_by:` 포인터도 없는 후보. **이 목록은 신호일 뿐 — 두 페이지를 읽고 판단해 엣지를 단다.**
 
@@ -7,10 +7,18 @@
 **대상은 키워드에 가장 가까운 링크로 특정한다.** 같은 줄의 나머지 링크는 충돌 표현의 대상이라는 근거가 없어 Tier 2(`AMBIG→`)로 강등된다 — 버리지 않으니 진짜 대상이 강등됐다면 Tier 2에서 찾을 수 있다.
 
 - Tier 1 (대상 지목됨, actionable): **2**
-- Tier 2 (대상 불명/soft, review): **20**
-- (억제됨) 이미 typed 엣지·supersession 포인터가 있어 제외: **284** · 부정문 제외: **101** · 검토·불필요 대장: **461** · 동일 줄 비최근접으로 Tier 2 강등: **1**
+- Tier 2 (대상 불명/soft, review): **18**
+- (억제됨) 이미 typed 엣지·supersession 포인터가 있어 제외: **278** · 부정문 제외: **101** · 검토·불필요 대장: **461** · 동일 줄 비최근접으로 Tier 2 강등: **0**
 
 ## Tier 1 — 판단 후 엣지 달 후보 (page → 지목된 target)
+
+### implants/isq
+
+- `naughton-2023-safemount-osstell-transducer-torque-isq`  —[상반된 · 상반]→  **`kastel-2019-smartpeg-torque-isq-rfa`**
+  - **근거 문장**: > - [[implants/isq/kastel-2019-smartpeg-torque-isq-rfa]]과 **상반된 결과**: Kästel은 2–11 Ncm 전 범위 무차별이라 했으나, 본 논문은 수동 조임이 유의하게 낮은 ISQ 산출
+  - ▸ 출발(`naughton-2023-safemount-osstell-transducer-torque-isq`) 세줄: 체외 폴리우레탄 뼈 블록 연구 (임플란트 7종, 56개, D1–D4 골질): 스마트팩 조임 방법 4종 비교 — 수동, 플라스틱 마운트, SafeMount, 정확한 토크 렌치 6 Ncm. 수동 조임이 정확한 토크 렌치 대비 유의하게 낮은 임플란트 안정성 지수 (Implant Stability Quotient, ISQ) 산출 (계수 −2.05, p<.001); SafeMount와 표준 플라스틱 마운트는 대조군과 유의차 없음. 골밀도가 ISQ 변이의 36%를 차지해 가장 큰 영향 인자였고, 술자는 6%
+  - ▸ 대상(`kastel-2019-smartpeg-torque-isq-rfa`) 세줄: 체외 폴리우레탄 폼 연구(임플란트 4종, 스마트팩 3종): 수동 조임(2–11 Ncm)과 기계 조임(2–6 Ncm) 간 임플란트 안정성 지수 (Implant Stability Quotient, ISQ) 차이 없음(근심 p=0.343, 협측 p=0.890). 4가지 임플란트 시스템 전 군에서 조임 방법에 따른 ISQ 차이 없이 일관된 결과 확인. 임상에서 스마트팩 수동 조임은 공명주파수분석 (Resonance Frequency Analysis, RFA) 측정의 신뢰성을 충족하며, 별도의 토크 조절 
+
 
 ### oral-microbiology
 
@@ -18,14 +26,6 @@
   - **근거 문장**: This narrative review introduces a clinically important paradox: chlorhexidine mouthwash—widely recommended for preprocedural rinsing and ICU oral hygiene—may raise systemic blood pressure by 2–3.5 mmHg through disruption of oral nitrate-reducing bacteria essential to the nitric oxide vasodilatory pathway. This systemic risk is especially relevant for hypertensive patients and provides a critical 
   - ▸ 출발(`pignatelli-2020-periodontal-disease-nitric-oxide-blood-pressure`) 세줄: 이 내러티브 리뷰는 산화질소(NO) 경로를 통해 구강 미생물, 특히 질산염 환원 박테리아 및 치주 질환과 전신 혈압(BP) 간의 연관성을 탐구합니다. 내인성 NO는 주요 혈관 확장제이며, 식이 질산염(예: 채소)이 구강 내 공생 박테리아에 의해 아질산염으로 환원되고 위와 순환계에서 NO로 전환되는 "질산염-아질산염-NO 경로"에 의해 보충됩니다. 항균 구강 세정액(예: 클로르헥시딘) 또는 혀 세척에 의한 이 경로의 교란은 타액 아질산염 생성을 감소시켜 혈압 상승을 초래할 수 있습니다. 반대로, 병
   - ▸ 대상(`elzein-2021-chlorhexidine-povidone-iodine-mouthwash-salivary-sars-cov-2-rct`) 세줄: 본 연구는 COVID-19 양성 환자 61명(평균 연령 45.3 ± 16.7세)을 대상으로 0.2% 클로르헥시딘과 1% 포비돈-아이오딘 구강 세정액의 타액 내 SARS-CoV-2 불활성화 효과를 평가한 평행군, 이중맹검, 무작위배정, 위약대조 임상시험으로, 2020년 6월부터 9월까지 레바논 라피크 하리리 대학병원에서 수행되었다. 시술 전후(세정 30초, 5분 후) 타액을 채취하여 rRT-PCR로 주기 역치(CT) 변화를 측정하였다. 0.2% 클로르헥시딘과 1% 포비돈-아이오딘 모두 증류수 대비 
-
-
-### overviews
-
-- `implants-isq-stability-ladder`  —[contradict · 반박·충돌]→  **`kastel-2019-smartpeg-torque-isq-rfa`**
-  - **근거 문장**: - [[implants/isq/naughton-2023-safemount-osstell-transducer-torque-isq]] — 수동 조임 ISQ −2.05 (p<.001) vs 6 Ncm 캘리브레이션; SafeMount ≡ 플라스틱 마운트 (NS); D4 골에서 ICC <0.24 — 어떤 방법도 저밀도 골은 불신뢰. [[implants/isq/kastel-2019-smartpeg-torque-isq-rfa]] 와 반대 결론 (see `contradicts` edge).
-  - ▸ 출발(`implants-isq-stability-ladder`) 세줄: ISQ/RFA 40편 의사결정 ladder 3축: (1) 측정 도구 — Osstell(ISQ 1–100, 직관적) 1차 권장, SmartPeg 토크 ≥10 Ncm 표준화 필수, Anycheck(DCA)는 측정자 독립적 대안; (2) 임계값 — 식립 시 ISQ ≥70 또는 4–6주 후 ≥65가 조기/즉시 부하 기준, 즉시 부하는 추가로 IT ≥35 Ncm 필요(Andersson 2019 n=745; Wittneben 2023 SR); Type IV 골은 ISQ 58–65가 정상분포 — 자동 지연 결
-  - ▸ 대상(`kastel-2019-smartpeg-torque-isq-rfa`) 세줄: 체외 폴리우레탄 폼 연구(임플란트 4종, 스마트팩 3종): 수동 조임(2–11 Ncm)과 기계 조임(2–6 Ncm) 간 임플란트 안정성 지수 (Implant Stability Quotient, ISQ) 차이 없음(근심 p=0.343, 협측 p=0.890). 4가지 임플란트 시스템 전 군에서 조임 방법에 따른 ISQ 차이 없이 일관된 결과 확인. 임상에서 스마트팩 수동 조임은 공명주파수분석 (Resonance Frequency Analysis, RFA) 측정의 신뢰성을 충족하며, 별도의 토크 조절 
 
 
 ## Tier 2 — 대상 식별 필요 / soft signal (review only)
@@ -58,10 +58,6 @@
   - **근거 문장**: - 흔한 오판: "엔도한 치아라 더/덜 정출한다"(근거 없음·기전상 무관), "크라운 씌우면 정출 안 한다"(전체 치아가 이동), "대합치 없으면 무조건 빨리 보철"(저위험치는 과한 개입), "정출은 수직만"(경사·회전 동반), "인접 치아가 공간 채우면 정출 해결"(Smith 1996 반박).
   - ▸ 출발(`unopposed-tooth-overeruption-overview`) 세줄: 16편 종합: 대합치 없는 후방 치아의 ~83%가 정출(단기 ~9개월 평균 0.43 mm / 최대 0.75 mm; CBCT 5년 기준 근심교두 1.37 mm [Hong 2023]; ~72%는 1 mm 미만; 초기 최대 속도; 수직+협측경사+회전 3D); ~18%는 전혀 안 움직임; 정출은 PDL·치조골 매개라 치수 생활력 무관. 고정 retention도 부분접촉 대비 효과 없어(Livas 2016); 5년 후 인접 하악 제2대구치 근심 경사 (Mesial Tipping) 57.47°·협측 CEJ 
 
-- `implants-isq-stability-ladder` [overviews] (AMBIG→naughton-2023-safemount-osstell-transducer-torque-isq, 'contradict' · 반박·충돌)
-  - **근거 문장**: - [[implants/isq/naughton-2023-safemount-osstell-transducer-torque-isq]] — 수동 조임 ISQ −2.05 (p<.001) vs 6 Ncm 캘리브레이션; SafeMount ≡ 플라스틱 마운트 (NS); D4 골에서 ICC <0.24 — 어떤 방법도 저밀도 골은 불신뢰. [[implants/isq/kastel-2019-smartpeg-torque-isq-rfa]] 와 반대 결론 (see `contradicts` edge).
-  - ▸ 출발(`implants-isq-stability-ladder`) 세줄: ISQ/RFA 40편 의사결정 ladder 3축: (1) 측정 도구 — Osstell(ISQ 1–100, 직관적) 1차 권장, SmartPeg 토크 ≥10 Ncm 표준화 필수, Anycheck(DCA)는 측정자 독립적 대안; (2) 임계값 — 식립 시 ISQ ≥70 또는 4–6주 후 ≥65가 조기/즉시 부하 기준, 즉시 부하는 추가로 IT ≥35 Ncm 필요(Andersson 2019 n=745; Wittneben 2023 SR); Type IV 골은 ISQ 58–65가 정상분포 — 자동 지연 결
-
 - `nccl-etiology-diagnosis-management-overview` [overviews] (HIGH-no-target, 'contradict' · 반박·충돌)
   - **근거 문장**: Synthesis of 17 papers on noncarious cervical lesions (NCCL) — etiology, diagnosis, and monitor-vs-restore decision: NCCLs are multifactorial (stress/abfraction + friction/abrasion + biocorrosion/erosion as a case-specific combination), the "abfraction as sole cause" hypothesis is clinically unproven with SR evidence directly contradicting across three systematic reviews (Senna 2012 — association 
   - ▸ 출발(`nccl-etiology-diagnosis-management-overview`) 세줄: 비우식성 치경부 병소(Noncarious Cervical Lesion, NCCL) 17편 종합 — 병인은 stress(abfraction)·friction(abrasion)·biocorrosion(erosion)의 case-specific 다인성 조합이고, "교합응력(abfraction) 단독원인설"은 임상적으로 미입증이며 3편의 SR이 충돌(Senna 2012 결론 불가, Duangthip 2017 81% 연관 단 lab 가중, Dioguardi 2024 scoping 6편으로 확정·반박 모두 
@@ -69,11 +65,6 @@
 - `nccl-etiology-diagnosis-management-overview` [overviews] (HIGH-no-target, '반박' · 반박)
   - **근거 문장**: 비우식성 치경부 병소(Noncarious Cervical Lesion, NCCL) 17편 종합 — 병인은 stress(abfraction)·friction(abrasion)·biocorrosion(erosion)의 case-specific 다인성 조합이고, "교합응력(abfraction) 단독원인설"은 임상적으로 미입증이며 3편의 SR이 충돌(Senna 2012 결론 불가, Duangthip 2017 81% 연관 단 lab 가중, Dioguardi 2024 scoping 6편으로 확정·반박 모두 불가).
   - ▸ 출발(`nccl-etiology-diagnosis-management-overview`) 세줄: 비우식성 치경부 병소(Noncarious Cervical Lesion, NCCL) 17편 종합 — 병인은 stress(abfraction)·friction(abrasion)·biocorrosion(erosion)의 case-specific 다인성 조합이고, "교합응력(abfraction) 단독원인설"은 임상적으로 미입증이며 3편의 SR이 충돌(Senna 2012 결론 불가, Duangthip 2017 81% 연관 단 lab 가중, Dioguardi 2024 scoping 6편으로 확정·반박 모두 
-
-- `almeida-2019-efficacy-corticosteroids-versus-placebo-impacted` [drug/analgesics] (SOFT→canellas-2022-corticosteroids-third-molar-nma, 'disagree' · 불일치)
-  - **근거 문장**: > A larger, GRADE-assessed, full-text SR+MA on the same corticosteroid-vs-placebo question (40 RCTs vs this page's 17; n=1,555 at 24 h vs 730 overall) found the analgesic benefit to be **trivial** — 8.79 points lower at 6 h and 8.89 at 24 h on a 0–100 VAS, both under the pre-specified 10-point minimal important difference — where this page reports a significant MD of −17.38. Miroshnychenko 2023 wa
-  - ▸ 출발(`almeida-2019-efficacy-corticosteroids-versus-placebo-impacted`) 세줄: 매복 사랑니(제3대구치) 발치 후 통증·부종·개구제한(Trismus)에 대한 코르티코스테로이드(Corticosteroid) vs 위약(Placebo) 무작위대조시험(RCT) 체계적문헌고찰+메타분석(Systematic Review + Meta-Analysis, SR+MA) — PubMed/Scopus/Cochrane 검색, PRISMA 구조, 1223편 스크리닝 → 정성분석 17편(730명, 15–45세) → 정량 메타분석 10편(Review Manager 사용) 풀링. 코르티코스테로이드가 위약 대
-  - ▸ 대상(`canellas-2022-corticosteroids-third-molar-nma`) 세줄: 빈도주의 네트워크 메타분석 (Network Meta-Analysis, NMA) (61 RCT, 3561명; Embase·PubMed·Cochrane) — 하악 제3대구치 (Mandibular Third Molar) 발치 후 부종·통증·개구제한 감소를 위한 5종 코르티코스테로이드 (Corticosteroid, CS): 덱사메타손 (Dexamethasone)·베타메타손 (Betamethasone)·메틸프레드니솔론 (Methylprednisolone)·프레드니솔론 (Prednisolone)·트리암시놀론
 
 - `miroshnychenko-2023-analgesics-acute-dental-pain` [drug/analgesics] (SOFT→di-spirito-2022-endodontic-pain-management-overview, 'unlike' · 다름)
   - **근거 문장**: - [[wiki/drug/analgesics/di-spirito-2022-endodontic-pain-management-overview]] — endodontic pain pharmacologic management overview; complementary adult context where pulpitis pain IS covered, unlike this pediatric review's extraction-only evidence.
