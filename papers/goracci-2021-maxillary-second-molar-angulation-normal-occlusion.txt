@@ -1,0 +1,16 @@
+Title: Three-dimensional evaluation of maxillary second molar position in untreated patients with normal occlusion: Implications for preadjusted appliance prescriptions
+
+Authors: Cecilia Goracci, Antonio C Ruellas, Michele Nieri, Spencer Crouch, James A McNamara, Lorenzo Franchi
+
+Year: 2021
+
+DOI: 10.1007/s00056-021-00290-6
+
+PMID: 33783560
+
+Journal: Journal of Orofacial Orthopedics, 83(3):172-180
+
+ABSTRACT:
+The study was aimed at evaluating the sagittal and transversal inclinations of upper second molars in untreated adolescents with normal occlusion. A sample of 41 subjects (16 females, 25 males) was selected from the University of Michigan Growth Study (UMGS). Digital dental casts with fully erupted second molars in occlusion were chosen (mean age 14.9 ± 1.3 years). Digital measurements were recorded with the open source software 3D Slicer. The digital measurements of the UMGS sample were compared with the manual measurements collected by Andrews from his sample of untreated class I subjects with normal overbite and overjet. Two mixed effect models (sagittal and transversal inclinations) were performed. The 'random effect' was represented by the subjects, while the 'fixed effects' were the two compared groups, the side of the arch (right and left), and the group × side interaction. Outcome variables were sagittal and transversal inclinations of the upper second molars. The UMGS group showed a significantly greater distal crown angulation (-18.9°) with respect to the Andrews sample (0.4°, P < 0.0001). As for the transversal inclination, the UMGS group exhibited significantly greater lingual crown inclination (-10.6° versus -8.0°, P = 0.0118). Fully erupted maxillary second molars in a sample of adolescent subjects with normal occlusion showed significantly greater distal and lingual inclinations when compared with Andrews' values. The finding of a distal crown inclination in contrast with Andrews' observation of a mesial crown inclination suggests that revision in tip prescription for preadjusted brackets may be considered.
+
+SOURCE: abstract-only — full text not retrieved (paywalled journal)
