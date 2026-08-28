@@ -718,5 +718,80 @@
     "box": 1,
     "due": "2026-07-29",
     "last": null
+  },
+  "dbbm-bone-substitute-overview::q1": {
+    "box": 1,
+    "due": "2026-08-27",
+    "last": null
+  },
+  "dbbm-bone-substitute-overview::q2": {
+    "box": 1,
+    "due": "2026-08-27",
+    "last": null
+  },
+  "dbbm-bone-substitute-overview::q3": {
+    "box": 1,
+    "due": "2026-08-27",
+    "last": null
+  },
+  "implant-failure-mbl-risk-factors-overview::q1": {
+    "box": 1,
+    "due": "2026-08-27",
+    "last": null
+  },
+  "implant-failure-mbl-risk-factors-overview::q2": {
+    "box": 1,
+    "due": "2026-08-27",
+    "last": null
+  },
+  "implant-failure-mbl-risk-factors-overview::q3": {
+    "box": 1,
+    "due": "2026-08-27",
+    "last": null
+  },
+  "implant-loading-protocol-prosthesis-type-overview::q1": {
+    "box": 1,
+    "due": "2026-08-27",
+    "last": null
+  },
+  "implant-loading-protocol-prosthesis-type-overview::q2": {
+    "box": 1,
+    "due": "2026-08-27",
+    "last": null
+  },
+  "implant-loading-protocol-prosthesis-type-overview::q3": {
+    "box": 1,
+    "due": "2026-08-27",
+    "last": null
+  },
+  "professional-biofilm-management-gbt-air-polishing-overview::q1": {
+    "box": 1,
+    "due": "2026-08-27",
+    "last": null
+  },
+  "professional-biofilm-management-gbt-air-polishing-overview::q2": {
+    "box": 1,
+    "due": "2026-08-27",
+    "last": null
+  },
+  "professional-biofilm-management-gbt-air-polishing-overview::q3": {
+    "box": 1,
+    "due": "2026-08-27",
+    "last": null
+  },
+  "unopposed-tooth-overeruption-overview::q1": {
+    "box": 1,
+    "due": "2026-08-27",
+    "last": null
+  },
+  "unopposed-tooth-overeruption-overview::q2": {
+    "box": 1,
+    "due": "2026-08-27",
+    "last": null
+  },
+  "unopposed-tooth-overeruption-overview::q3": {
+    "box": 1,
+    "due": "2026-08-27",
+    "last": null
   }
 }
