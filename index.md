@@ -1291,6 +1291,9 @@ tags: []
 ### 교정치료 중 치은열구액(GCF) 바이오마커
 - [[orthodontics/bud-2024-gingival-crevicular-fluid-biomarkers-orthodontic]] — Bud 2024 · narrative-review · 교정력에 의한 치주조직 재형성을 GCF 바이오마커로 모니터링(19편): PGE2·TNF-α·IL-1β·RANKL/OPG·ALP·MMP·osteocalcin·NTx가 치아이동 골재형성 반영 (DOI 10.3390/medicina60122004)
 
+### 치관 경사도·브라켓 처방 (Crown Angulation / Bracket Prescription) (`orthodontics`)
+- [[orthodontics/goracci-2021-maxillary-second-molar-angulation-normal-occlusion]] — Goracci 2021 · 상악 제2대구치 치관 경사 3D 평가: UMGS 표본에서 Andrews 처방값 대비 원심 팁 −18.9° vs +0.4°(P<0.0001), 설측 토크 −10.6° vs −8.0°(P=0.0118) → 기성 브래킷 팁 처방 재검토 제안
+
 ### 투명교정 (Clear Aligner) — 적응증·한계 (`orthodontics/clear-aligner`)
 - [[overviews/clear-aligner-indications-limitations]] — **종합 오버뷰** (20편): 투명교정 적응증·한계 — 효율(경중등도 OK·중증/torque/rotation 열등)·Class II(distalization·MA)·생체역학(attachment·trimline)·안전성(치근흡수)·치주·저작/TMJ·가속·biofilm
 - [[overviews/clear-aligner-patient-experience-brand-overview]] — **NEW Overview** (10편, 2026-08-24): 투명교정 환자경험·순응도·브랜드 비교 종합 — OHRQoL(OHIP-14·PIDAQ·VAS) 고정식 대비 CA 우위·통증 초기 집중 후 감소; compliance 65–80% 불완전·예측불가; 브랜드별 색안정성·바이오필름·VTS 차이; 환자 기대치 극히 높고 경직적(Nemec). 임상 takeaway: 장기 미용 우위이나 복잡 증례 함정과 기대 관리가 핵심.
