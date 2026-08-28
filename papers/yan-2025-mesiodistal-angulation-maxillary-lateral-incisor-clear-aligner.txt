@@ -1,0 +1,79 @@
+Title: Mesiodistal angulation change of the maxillary lateral incisor in the extraction treatment by clear aligner- a retrospective cone-beam computed tomography study
+
+Authors: Mengdie Yan, Longwen He, Wenzhong Zhang, Yueqiang Xie
+
+Year: 2025
+
+DOI: 10.1186/s12903-025-06354-y
+
+PMID: 40604817
+
+PMCID: PMC12224753
+
+Journal: BMC Oral Health
+
+Citation: 25(1):1023
+
+---
+
+Introduction
+
+In 1972, Andrews measured and studied the clinical crowns of 120 Caucasian patients using ideal normal-occlusion plaster models and proposed six keys to normal occlusion. He also proposed the concept of "crown angulation angle" and pointed out that the angle significantly affected normal occlusion. One of the scoring items of the American Board of Orthodontics Objective Grading System proposed by the American Orthodontic Certification Board in 1998 was to obtain posttreatment panoramic images to determine the axial angulation of the teeth. They believe that after orthodontic treatment, the roots of the upper and lower teeth are parallel to each other and perpendicular to the occlusal plane. The maximum deviation of the root apex is no more than 1 mm. Clinically, controlling the axial inclination of teeth is one of the key factors in establishing a good occlusal relationship, achieving function and esthetics, and maintaining long-term occlusal stability. If the adjacent teeth are not parallel after treatment, the space is more likely to reappear at the extraction part. In addition, poor teeth parallelism during orthodontic treatment can lead to adjacent periodontal damage, horizontal bone loss, increased gingival recession, and esthetic problems such as gingival black triangles. Megha Jain showed that for every 1 degree increase in axial inclination, 0.021 mm of the dental arch circumference will be consumed. This reminds us that to maintain a good occlusal relationship, the incisor teeth must have a good axial inclination. Once the axial inclination of the lateral incisors is too large, more space is easily occupied in the anterior teeth, thus affecting the class I occlusion relationship or leading to abnormal overjet of the anterior teeth.
+
+The angulation of the incisors plays an important clinical role and is valued by doctors and patients. Many studies have shown that the shape, size, angle, and position of the maxillary lateral incisors will affect the esthetics of the smile, and good angulation of the lateral incisors is a key component of smile esthetics. Brunzel reported that people prefer bilaterally symmetrical teeth and mesial inclination of lateral incisors no more than 9 degrees. The smile formed at this time is more coordinated and beautiful. Similarly, Pani also pointed out that most people believe that the lateral incisors should be parallel to the central incisors to present the most beautiful smile. In addition, the lateral incisors can be tilted by no more than 5 degrees for better esthetics.
+
+In recent years, clear aligners have become increasingly popular because of their beauty and comfort. The indications of clear aligners are not limited to non-extraction cases, and increasing number of complex cases by clear aligners require tooth extraction. At present, most studies on extraction correction by clear aligners focus on biomechanical or imaging analysis of the central incisors, canines, and molars. Managing the central incisors, molars, and canines is important; however, in the extraction treatment by clear aligner, the lateral incisors are a weak link in the dental arch. Therefore, clinical designs must be optimized to improve their movement efficiency throughout the treatment process.
+
+Material and methods
+
+Study design: Retrospective CBCT study. 27 patients (mean age 21.1 +/- 4.9 years; 18 women, 9 men). 54 maxillary lateral incisors total (bilateral per patient).
+
+Inclusion criteria: 0 degrees <= ANB <= 8 degrees, Angle class I or II malocclusion, four premolar extraction treatment.
+
+CBCT: I-CAT scanner, 120 kVp, 5 mA, 7S, 0.25-mm slice thickness, 230 x 170 mm FOV. DICOM imported into Dolphin software for panoramic reconstruction. Midpalatal suture projection used as reference line for angulation measurement. Mimics 21.0 used for 3D superimposition.
+
+Measurement: Angle formed by midpalatal suture reference line and long axis of lateral incisor (longest extension of root canal) measured on reconstructed panoramic image.
+
+Results
+
+Angulation changes: Significant difference between angulation at T0 (pretreatment) and T1 (refinement) (p < 0.001). Maxillary lateral incisors experienced distal inclination during clear aligner extraction treatment.
+
+Left-right symmetry: No significant difference between bilateral measurements (p > 0.05); data merged.
+
+Attachment effect: Nonattachment group had significantly greater distal inclination than attachment group (p < 0.001). Attachment group accuracy: 88.4%; nonattachment group: 86.9%.
+
+Retraction method: En masse retraction caused more distal inclination than canine-first retraction and frog pattern retraction (p < 0.05). LSD: significant difference between en masse and canine-first retraction (p < 0.001), and between canine-first and frog pattern (p = 0.004). No significant difference between en masse and frog pattern (p > 0.05).
+
+Horizontal movement distance: Greater actual horizontal movement of lateral incisors = more distal inclination risk (p < 0.001). LSD: 1-3 vs 4-6 mm groups (p = 0.008); 4-6 vs 7-9 mm groups (p = 0.01); 7-9 mm group significantly higher than 1-3 mm group (p < 0.001).
+
+Crown-to-root ratio: No significant effect on mesiodistal angulation (p > 0.05).
+
+Esthetic benchmark: Brunzel: mesial inclination of lateral incisors no more than 9 degrees for attractive smile. Pani: lateral incisors should be parallel to central incisors (no more than 5 degrees tilt) for optimal esthetics.
+
+ABO standard: After orthodontic treatment, roots of upper and lower teeth should be parallel to each other and perpendicular to occlusal plane; maximum root apex deviation no more than 1 mm.
+
+Jain: For every 1 degree increase in axial inclination, 0.021 mm of dental arch circumference is consumed.
+
+Discussion
+
+Reasons for distal inclination tendency:
+1. Lateral incisor crowns tend to be short, small, round, blunt — smallest crown surface area; poor aligner fit.
+2. During retraction, lateral incisors move in both mesiodistal and labiopalatal directions; large mesiodistal moment leads to distal tipping.
+3. Labial bone of lateral incisors often insufficient — cortical anchorage of root during movement.
+4. Clinicians pay more attention to central incisors, canines, and molars; lateral incisors often less considered.
+5. Lateral incisors most likely to be off-track during anterior tooth retraction.
+
+Why canine-first retraction helps:
+1. After canine distalizes 1.5 mm, lateral incisor is well-wrapped when canine moves moderately distally.
+2. Reaction force during distal movement of canine acts on distal lateral incisor, resisting tendency to distal inclination.
+3. After canines moved distally, better wrapping properties; less prone to "roller coaster effect," reducing probability of lateral incisor being off-track.
+
+AlBalaa: actual precision of clear aligners in moving lateral incisors is 51.19%; average correction amount only 48.81%.
+
+Conclusions
+
+During extraction by clear aligner, changes in the mesiodistal angulation of the maxillary lateral incisor should be considered. Maxillary lateral incisors are prone to distal inclination during clear aligner extraction treatment. Adding attachments and designing the canine-first retraction method can reduce the distal inclination of the lateral incisors.
+
+Limitations
+
+Retrospective, single-center design. Sample size 27 patients (54 teeth). Only angulation (not torque/rotation comprehensively) analyzed. Follow-up only to refinement stage, not final debond.
