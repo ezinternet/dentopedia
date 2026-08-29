@@ -2,7 +2,7 @@
 title: "종합 — overviews"
 authors: navigation
 year: 2026
-date: 2026-08-11
+date: 2026-08-29
 doi: N/A
 source: navigation
 category: overviews
@@ -15,20 +15,20 @@ tags: [navigation, category-index, overviews]
 > [!summary] 한국어 핵심요약
 > - **분야**: 종합
 > - **범위**: Synthesis pages spanning multiple categories
-> - **수록 논문**: 266편
+> - **수록 논문**: 280편
 
 ## Three-line Summary
 
 **Scope**: Synthesis pages spanning multiple categories
-**Indexed papers**: 266 papers in `wiki/overviews/`.
+**Indexed papers**: 280 papers in `wiki/overviews/`.
 
 ## 세줄요약
 
 **분야**: 종합
-**수록 논문**: 266편
+**수록 논문**: 280편
 **하위 카테고리**: 없음
 
-## Papers in this Category (266)
+## Papers in this Category (280)
 
 | Paper |
 |---|
@@ -36,7 +36,9 @@ tags: [navigation, category-index, overviews]
 | [[abutment-screw-preload-joint-stability-overview|Abutment Screw Preload, Torque Loss & Screw-Joint Stability — preload mechanics, settling, retightening, connection design & fatigue]] |
 | [[adhesive-bonding-strategies-overview|접착·결합 전략 — Universal·SE·E&R·오염 대처·간접수복 본딩 종합]] |
 | [[ai-dentistry-reviews-2024-2025-synthesis|AI in Dentistry and Healthcare — 2024–2025 Review Cluster Synthesis]] |
+| [[antibiotics-comprehensive-overview|Dental Antibiotics Comprehensive Overview]] |
 | [[antiseptic-mouthrinse-chlorhexidine-essential-oil-overview|항균 가글 화학적 치면세균막 조절 종합 — 클로르헥시딘 vs 에센셜오일]] |
+| [[apical-patency-endodontic-outcome-overview|Apical Patency — Clinical Evidence & Decision Framework]] |
 | [[autogenous-bone-graft-donor-site-selection-overview|Autogenous Bone Graft Donor Site Selection — Intraoral Hierarchy, Iliac Crest, and the Repurposed-Byproduct Frontier]] |
 | [[autoimmune-disease-dental-treatment-overview|자가면역질환 환자의 치과치료(Autoimmune Disease & Dental Treatment) 종합]] |
 | [[behavioral-dentistry-decision-ladder|Behavioral Dentistry — MI·환자 커뮤니케이션·정기검진 Attendance Decision Ladder]] |
@@ -59,6 +61,7 @@ tags: [navigation, category-index, overviews]
 | [[ceraseal-bioceramic-sealer-clinical-material-synthesis|Overview: Ceraseal (Premixed Calcium-Silicate Bioceramic Sealer) — Clinical Outcomes × Material/Biocompatibility Synthesis]] |
 | [[cervical-composite-isolation-strategy-overview|치경부 레진 격리 전략: dry field가 목적, 코드는 수단 — 격리·마진위치·열구액 종합]] |
 | [[clear-aligner-indications-limitations|투명교정(Clear Aligner) 적응증·한계 종합]] |
+| [[clear-aligner-patient-experience-brand-overview|Clear Aligner Patient Experience, Compliance & Brand Comparison — Evidence Synthesis]] |
 | [[clinical-principles-100-master-distillation|임상원칙 100 — 182개 Overview 최상위 증류 (100 Clinical Principles You Actually Use — Master Distillation of All Overviews)]] |
 | [[cold-plasma-endodontic-disinfection-synthesis|냉대기압 플라즈마(CAP) 근관소독 종합 (Cold Atmospheric Plasma / Non-Thermal Plasma for Root Canal Disinfection)]] |
 | [[complaint-management-pipeline-classification-expectation-response-education|Overview: Patient Complaint Management — Classification → Expectation → Response → Education]] |
@@ -108,11 +111,11 @@ tags: [navigation, category-index, overviews]
 | [[endodontic-endotoxin-lps-lta-overview|Endodontic Endotoxins (LPS) & LTA: Role in Infection and Removal by Treatment — 6-paper synthesis]] |
 | [[endodontic-flare-up-management-overview|근관치료 후 급성 악화(Endodontic Flare-Up) — 위험인자·예방·처치 근거 종합]] |
 | [[endodontic-postoperative-pain-overview|근관치료 후 통증(Post-endodontic Pain) — 시술 변수별 근거 종합 (Post-operative Pain in Endodontics)]] |
-| [[pdl-periapical-pain-mechanism-overview|PDL·치근단 통증 기전 — 근관치료 후 통증의 조직·신경 기반]] |
 | [[endodontic-pulp-periapical-diagnosis-overview|Overview: Endodontic Pulp & Periapical Diagnosis]] |
 | [[endodontic-umbrella-review-evidence-roundup-overview|Endodontic Umbrella-Review Evidence Roundup — Postop Pain · Periapical Diagnosis · Regeneration · Primary/VPT · Guided & Surgical]] |
 | [[endodontics-comprehensive-ladder|Endodontics — VPT·Regenerative·근관치료 의사결정 Comprehensive Ladder]] |
 | [[evidence-appraisal-toolkit|Evidence Appraisal Toolkit for the Clinical Dentist]] |
+| [[evidence-practice-gap-dentistry-overview|Evidence–Practice Gap in Dentistry Overview]] |
 | [[failed-implant-removal-sinus-retrieval-overview|Overview: Failed/Displaced Dental Implant Removal — Technique Selection & Maxillary Sinus Retrieval]] |
 | [[flapless-vs-flapped-implant-surgery-overview|Flapless vs Flapped Implant Surgery — Failure, Crestal Bone & Soft-Tissue Outcomes Overview]] |
 | [[food-impaction-proximal-contact-loss-overview|Overview: Food Impaction / Proximal Contact Loss between Implant Prostheses and Adjacent Teeth]] |
@@ -152,6 +155,7 @@ tags: [navigation, category-index, overviews]
 | [[implant-macrogeometry-clinical-outcomes-overview|Overview: Implant Macrogeometry Clinical Outcomes — Tapered vs Cylindrical, Neck Design]] |
 | [[implant-macrogeometry-length-diameter-primary-stability-overview|Implant Macrogeometry (Length · Diameter · Insertion Torque) → Primary Stability / ISQ — Determinant Synthesis]] |
 | [[implant-occlusion-loading-biomechanics-overview|임플란트 교합 — 교합양식·접촉변화·과부하 생역학 종합]] |
+| [[implant-placement-direction-anatomic-constraints-overview|Implant Placement Direction & Anatomic Constraints — Region-by-Region Framework (식립방향·해부학적 제약 종합)]] |
 | [[implant-placement-timing-immediate-early-delayed|Implant Placement Timing — Immediate vs Early vs Delayed (ITI Type 1–4)]] |
 | [[implant-primary-stability-arp-macrogeometry-low-density-overview|저골밀도·ARP 이식 부위 임플란트 1차 안정성 — 매크로형태와 식립 위치 효과]] |
 | [[implant-prosthesis-misfit-connection-mbl-overview|Implant-Prosthesis Misfit & Abutment-Connection → Marginal Bone Loss (임플란트 보철 부적합·연결부 → 변연골 종합)]] |
@@ -183,6 +187,7 @@ tags: [navigation, category-index, overviews]
 | [[narrow-diameter-implants-clinical-outcomes-overview|Overview: Narrow-Diameter Implants — Clinical Outcomes Across Indications]] |
 | [[nccl-etiology-diagnosis-management-overview|Overview: 비우식성 치경부 병소(NCCL) — 병인·진단·관찰 vs 수복 의사결정]] |
 | [[non-restorative-caries-management-topical-fluoride-synthesis|Non-Restorative Caries Management — Topical Fluoride, SDF & Chemical Arrest: Evidence Synthesis]] |
+| [[non-surgical-periodontal-therapy-overview|Non-Surgical Periodontal Therapy Overview]] |
 | [[nonpharmacological-dental-anxiety-management-overview|Non-Pharmacological Dental Anxiety Management: Hypnosis vs Virtual Reality]] |
 | [[nsaid-aspirin-antiplatelet-interaction-overview|NSAID–아스피린 항혈소판 상호작용 — COX-1 통로 경쟁·복용순서 규칙·약제 안전성 종합]] |
 | [[nsaid-osseointegration-impairment-overview|NSAID와 임플란트 골유착 — 근거층위(in vitro→동물→RCT→코호트)·COX-2 딜레마·술후 진통제 결정 종합]] |
@@ -195,6 +200,7 @@ tags: [navigation, category-index, overviews]
 | [[open-healing-arp-technique-variables-overview|Open-Healing 치조제 보존술(ARP) — 술기 변수(판막·봉합·막·압축력) vs 큰 그림 종합]] |
 | [[opmd-malignant-transformation-risk-stratification-overview|구강잠재악성질환 (OPMD) 악성전환 위험 층화 — 병소 유형별 종합]] |
 | [[oral-frailty-geriatric-synthesis|구강노쇠(Oral Frailty) 종합 — 측정 가능한·가역적 노년 증후군]] |
+| [[oral-hygiene-instruction-overview|Oral Hygiene Instruction Overview]] |
 | [[oral-immune-mediated-mucosal-disease-overview|구강 면역매개성 점막질환 — 천포창·유천포창·탈락성 치은염·다형홍반·GvHD·SLE 종합]] |
 | [[oral-lichen-planus-overview|구강편평태선 (Oral Lichen Planus, OLP) — 진단·치료·전신연관 종합]] |
 | [[oral-medicine-decision-ladder|Oral Medicine — OPMD·OLP·BMS·OMS Decision Ladder]] |
@@ -210,7 +216,10 @@ tags: [navigation, category-index, overviews]
 | [[osteotomy-drilling-heat-determinants-irrigation-overview|Overview: Osteotomy Drilling Heat — Modifiable Determinants Ranked, and the Osseointegration Consequence]] |
 | [[otc-periodontal-adjunct-drugs-insadol-igatan|OTC Periodontal Adjunct Drugs (Insadol·Igatan): Ingredients, Evidence & Prognosis (잇몸약 인사돌·이가탄 성분·근거·예후 종합)]] |
 | [[patient-consultation-communication-protocol|Patient Consultation — Encounter-Flow Communication Protocol (Open → Gather → Explain → Decide → Align → Close)]] |
+| [[patient-recall-retention-overview|Patient Recall & Retention Overview (구환 리콜·재내원 운영 종합)]] |
 | [[patient-safety-culture-dentistry-overview|Overview: Patient Safety Culture in Dentistry]] |
+| [[pdl-periapical-pain-mechanism-overview|PDL·치근단 통증 기전 (Periapical PDL Pain Mechanism) — 근관치료 후 통증의 조직·신경 기반]] |
+| [[pdl-tissue-engineering-biomimetic-implant-overview|PDL Tissue Engineering & Biomimetic Implants — From Ligaplants to Stem Cell Biology]] |
 | [[pdrn-dentistry-evidence-synthesis|PDRN in Dentistry — Mechanism·Evidence Pyramid·Zone-Specific Effect Synthesis]] |
 | [[peri-implant-emergence-profile-soft-tissue-conditioning-overview|임플란트 Emergence Profile 설계·맞춤 연조직 컨디셔닝 종합]] |
 | [[peri-implant-soft-tissue-dehiscence-prevention|Peri-Implant Soft Tissue Dehiscence (PSTD) Prevention & Management — Synthesis]] |
@@ -233,6 +242,7 @@ tags: [navigation, category-index, overviews]
 | [[provisional-pediatric-crown-material-selection-overview|임시 크라운 재료 선택과 소아 유치 전장 크라운 유지율 비교]] |
 | [[pulpal-neurogenic-inflammation-counter-systems-overview|치수 신경성 염증과 내인성 제동장치 — 브레이크는 조용히 고장난다 (Pulpal Neurogenic Inflammation and Its Counter-Systems)]] |
 | [[radiology-category-synthesis-overview|Dental Radiology — Category Synthesis Overview]] |
+| [[rct-protocol-comprehensive|근관치료 정립된 프로토콜 — 충전까지 5단계 종합 (RCT Protocol: Access to Obturation)]] |
 | [[recurrent-aphthous-stomatitis-overview|재발성 아프타성 구내염 (Recurrent Aphthous Stomatitis, RAS) — 분류·치료 사다리·증후군 중첩 종합]] |
 | [[regenerative-endodontics-rep-overview|재생근관치료(REP) — 미성숙 치수괴사치 관리 종합]] |
 | [[reis-2024-biomimetic-restorative-myths-narrative|Biomimetic Restorative Dentistry: an evidence-based discussion of common myths]] |
@@ -248,6 +258,7 @@ tags: [navigation, category-index, overviews]
 | [[root-analogue-implants-overview|근관유사 임플란트 (Root-Analogue Implants, RAI) — 근거·재료·적응증 종합]] |
 | [[root-canal-morphology-prevalence-overview|근관 형태·해부 변이 유병률 종합 (Root-canal Morphology & Anatomical-variant Prevalence)]] |
 | [[root-coverage-surgery-graft-adjunct-outcome-overview|치근피개 수술 — 이식재가 피개를 정하고 보조재는 이환율을 정한다 (Root Coverage Surgery: Graft, Adjunct, and What Patients Actually Value)]] |
+| [[rpd-vs-implant-vs-fpd-selection-overview|RPD vs Implant vs FPD vs SDA — Partially Dentate Selection Decision]] |
 | [[saliva-diagnostics-and-salivary-gland-dysfunction-overview|Saliva & the Salivary Gland: Diagnostic Medium and Secretory Dysfunction — Overview]] |
 | [[severe-atrophy-graftless-rehabilitation-ladder|Overview: Severe Jaw Atrophy — the Graftless Rehabilitation Ladder (숏·경사·관골·골막하 임플란트)]] |
 | [[short-implant-vs-sinus-augmentation-decision|Overview: Short Implant vs Sinus Augmentation in the Atrophic Posterior Maxilla — Decision Synthesis]] |
@@ -276,14 +287,16 @@ tags: [navigation, category-index, overviews]
 | [[tmd-management-evidence-ladder|TMD/TMJ 관리 — 진단·보존·중재 종합 ladder]] |
 | [[tmd-tinnitus-somatosensory-association-overview|TMD–이명(Tinnitus) 연관성과 관리 — 체성감각 이명 종합]] |
 | [[tmj-inflammatory-arthritis-overview|Overview: Inflammatory Arthritis of the TMJ (JIA · RA · PsA) — Silent Disease, Unstable Imaging, Empty Treatment Evidence]] |
+| [[tmj-pharmacological-intraarticular-treatment-overview|TMJ Pharmacological & Intraarticular Treatment — Evidence Synthesis by Subtype]] |
 | [[tooth-wear-vdo-space-creation-overview|치아 마모 수복공간 확보 — Dahl · VDO 거상 · 치관연장: 네 개의 축과 근거 경사 (Tooth Wear: Creating Restorative Space)]] |
 | [[tooth-whitening-clinical-decision-overview|Tooth Whitening / Bleaching — Clinical Decision Overview (치아미백 임상결정 종합)]] |
 | [[toothbrush-design-dentifrice-plaque-index-methodology-synthesis|Toothbrush Design, Dentifrice Actives & Plaque-Index Methodology: Evidence Synthesis]] |
 | [[topical-anesthetic-injection-pain-overview|Overview: Topical Anesthetics for Injection and Needle-Stick Pain]] |
+| [[transcrestal-maxillary-sinus-augmentation-overview|Transcrestal Maxillary Sinus Augmentation Overview]] |
 | [[treatment-planning-decision-variability-overview|Overview: Treatment-Planning Variability — Why the Same Tooth Gets a Different Plan, and Whether Evidence or AI Can Fix It]] |
 | [[trigeminal-injury-neuropathic-pain-cascade-overview|치과 유래 삼차신경 손상 → 만성 신경병증통증 캐스케이드 종합 (Iatrogenic Trigeminal Injury → Chronic Neuropathic Pain: the Peripheral–Central Cascade)]] |
 | [[trigeminal-neuralgia-neuropathy-overview|삼차신경통·외상후 삼차신경병증 종합 (Trigeminal Neuralgia & Post-traumatic Trigeminal Neuropathy)]] |
-| [[trismus-limited-mouth-opening-overview|개구장애(Trismus) — 4분면 병인 분류와 red-flag 우선 진단 (Trismus / Limited Mouth Opening)]] |
+| [[trismus-limited-mouth-opening-overview|개구장애(Trismus) — 4분면 병인 분류·red-flag 우선 진단·술전 예방 (Trismus / Limited Mouth Opening)]] |
 | [[type-1a-immediate-placement-immediate-loading-decision|Type 1A (Immediate Placement + Immediate Loading) Decision Algorithm — Synthesis]] |
 | [[unilateral-mastication-occlusal-load-alveolar-bone-density|Overview: Unilateral Mastication & Occlusal Load → Alveolar Bone Density]] |
 | [[unopposed-tooth-overeruption-overview|대합치 없는 치아의 정출(과맹출) — 역학·기전·임상결정 종합]] |

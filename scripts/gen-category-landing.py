@@ -4,6 +4,19 @@ from __future__ import annotations  # PEP 604 unions must run on Python 3.9
 
 Creates wiki/{category}/{basename}.md for every folder that doesn't already
 have one, using descriptions from wiki/_meta/categories.md.
+
+Usage:
+    python3 scripts/gen-category-landing.py                     # create missing only
+    python3 scripts/gen-category-landing.py --dry-run           # preview, write nothing
+    python3 scripts/gen-category-landing.py --force             # rewrite ALL 121 landings
+    python3 scripts/gen-category-landing.py --only overviews    # rewrite ONE landing
+
+A landing page's paper table goes stale as papers land in its folder — nothing
+regenerates it per-ingest, so drift accumulates silently (measured 2026-08-29:
+35 of 121 landing pages drifted, worst `overviews` at 267 rows vs 280 papers).
+`--only <rel-path>` exists so a single stale landing can be refreshed without
+`--force` rewriting the other 120 — a rewrite resets `date:` and discards any
+hand-edits, so blast radius should match intent.
 """
 
 import os
@@ -57,9 +70,18 @@ def get_frontmatter_title(md_file: Path) -> str | None:
 
 
 def get_papers(folder: Path) -> list[tuple[str, str]]:
-    """Return [(filename_stem, title_or_stem)] sorted by stem."""
+    """Return [(filename_stem, title_or_stem)] sorted by stem.
+
+    The folder's own landing page (`{folder.name}.md`) is excluded — a landing
+    page listing itself as one of its papers is a self-reference, and all 121
+    existing landing pages follow that convention. Without this the `--force`
+    / `--only` refresh path would inject a self-row into every page it rewrote.
+    """
+    landing_name = f"{folder.name}.md"
     papers = []
     for f in sorted(folder.glob("*.md")):
+        if f.name == landing_name:
+            continue
         stem = f.stem
         title = get_frontmatter_title(f) or stem
         papers.append((stem, title))
@@ -154,6 +176,14 @@ def main():
     dry_run = "--dry-run" in sys.argv
     force   = "--force"   in sys.argv
 
+    # --only <rel-path> / --only=<rel-path>: refresh exactly one landing page.
+    only = None
+    for i, arg in enumerate(sys.argv):
+        if arg == "--only" and i + 1 < len(sys.argv):
+            only = sys.argv[i + 1].strip("/")
+        elif arg.startswith("--only="):
+            only = arg.split("=", 1)[1].strip("/")
+
     cat_map = parse_categories(CATEGORIES_FILE)
     # Parent folders that exist on disk but have no direct entry in categories.md
     # (they exist only as containers for subcategories)
@@ -187,10 +217,19 @@ def main():
         rel = dirpath.relative_to(WIKI_ROOT)
         rel_str = str(rel)
         landing = dirpath / f"{dirpath.name}.md"
+        if only is not None:
+            if rel_str == only:
+                miss.append((rel_str, dirpath, landing))
+            continue
         if not landing.exists() or force:
             miss.append((rel_str, dirpath, landing))
 
-    print(f"Found {len(miss)} folders needing landing pages")
+    if only is not None and not miss:
+        print(f"[ERROR] --only {only!r} matched no folder under wiki/")
+        sys.exit(1)
+
+    scope = f"--only {only}" if only else ("--force (all)" if force else "missing only")
+    print(f"Found {len(miss)} folders needing landing pages [{scope}]")
     created = 0
     skipped = 0
 
