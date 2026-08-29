@@ -17,7 +17,7 @@ source_wiki:
   - wiki/orthodontics/clear-aligner/pasaoglu-bozkurt-2024-clear-aligner-biofilm-brand-comparison.md
 tags: [clear-aligner, patient-experience, OHRQoL, compliance, satisfaction, PRO, brand-comparison, color-stability, biofilm, virtual-setup, OHIP-14, PIDAQ, overview]
 relations:
-  - type: complements
+  - type: extends
     target: clear-aligner-indications-limitations
 ---
 
