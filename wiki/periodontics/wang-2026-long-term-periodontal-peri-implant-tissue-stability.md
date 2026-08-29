@@ -88,4 +88,4 @@ No single protocol showed statistically superior long-term results. Selection ca
 - [[manresa-2018-supportive-periodontal-therapy-cochrane-sr]] — Wang 2026 extends this Cochrane SR by adding the peri-implant dimension, risk-tool profiles, and emerging technology appraisal; Manresa covered SPT RCT evidence only
 - [[farooqi-2015-periodontal-maintenance-recall-interval-sr]] — reinforces the recall interval evidence base cited in Wang 2026
 - [[stahli-2024-clinical-evaluation-novel-protocol-supportive]] — reinforces supportive care protocol evidence; contemporary parallel study
-- [[non-surgical-instrumentation/lamont-2018-routine-scale-and-polish-periodontal-health]] — reinforces evidence on scaling and professional biofilm removal effectiveness
+- [[periodontics/non-surgical-instrumentation/lamont-2018-routine-scale-and-polish-periodontal-health]] — reinforces evidence on scaling and professional biofilm removal effectiveness

@@ -104,7 +104,7 @@ No studies identified. This represents a critical evidence gap for CDCP policy, 
 
 ## Related Papers
 
-- [[non-surgical-instrumentation/lamont-2018-routine-scale-and-polish-periodontal-health]] — Cochrane SR this review extends; same conclusion on gingivitis/PPD, Matthews adds 2018–2023 evidence and EFP guidelines
+- [[periodontics/non-surgical-instrumentation/lamont-2018-routine-scale-and-polish-periodontal-health]] — Cochrane SR this review extends; same conclusion on gingivitis/PPD, Matthews adds 2018–2023 evidence and EFP guidelines
 - [[manresa-2018-supportive-periodontal-therapy-cochrane-sr]] — SPT Cochrane SR reporting no eligible RCTs; Matthews synthesizes this finding and adds EFP Grade A guideline recommendations
 - [[farooqi-2015-periodontal-maintenance-recall-interval-sr]] — Periodontal maintenance recall interval SR; reinforced by Matthews' EFP-based risk-stratified recall framework
 - [[stahli-2024-clinical-evaluation-novel-protocol-supportive]] — SPT protocol RCT; reinforced by Matthews' SPT evidence synthesis
