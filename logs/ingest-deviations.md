@@ -357,3 +357,7 @@ Logged by subagents at deviation time. `deviation-audit.py` flags types with ≥
 | 2026-08-26 | mckenna-2020-functionally-orientated-tooth-replacement-older | abstract-only | no PMC record; built from PubMed structured abstract (full_text: false) |
 | 2026-08-26 | nakai-2022-ohrqol-nonmetal-clasp-sda-crossover-rct | other | 초록이 OHIP 점수 방향을 통상 관례(낮을수록 좋음)와 반대로 보고 — 저자 결론(NMCD·SDA가 통상 RPD보다 우수)을 채택하고 원점수 방향은 채택하지 않음, 페이지에 명시 |
 | 2026-08-26 | duong-2022-ohrqol-implant-supported-prostheses | relation-judgment | Kurosaki 6년 RPD 생존 33.3% vs Drummond 5년 95.1% — 같은 양(RPD 생존)에 대한 정면 충돌이라 contradicts 엣지 부여(종점 정의 차이로 추정되나 어느 쪽도 원문에 정의 없음) |
+| 2026-08-28 | goracci-2021-maxillary-second-molar-angulation-normal-occlusion | abstract-only | paywalled journal (J Orofac Orthop), built from abstract only |
+| 2026-08-29 | park-2025-implantoplasty-vs-titanium-brushes-peri-implantitis-rct | pmc-fulltext | PMC full text (PMC12803560) saved as .txt; source_collection: pmc-fulltext, full_text: true; no PDF |
+| 2026-08-29 | monje-2026-flip-vs-plip-implantoplasty-extent-peri-implantitis-rct | pmc-fulltext | PMC full text (PMC13107093) saved as .txt; source_collection: pmc-fulltext, full_text: true; no PDF; evidence_level set to prospective (quasi-rct not a valid lint value) |
+| 2026-08-29 | zhou-2026-surgical-protocols-peri-implantitis-cohort | pmc-fulltext | PMC full text (PMC13086545) saved as .txt; source_collection: pmc-fulltext, full_text: true; no PDF; evidence_level set to retrospective (retrospective-cohort not a valid lint value) |
