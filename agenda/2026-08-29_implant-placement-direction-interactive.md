@@ -6,6 +6,8 @@ status: done
 owner: 원장
 priority: P1
 tags: [implant-placement, interactive, placement-direction, anatomy]
+source_wiki: wiki/overviews/implant-placement-direction-anatomic-constraints-overview.md
+output_wiki: interactives/2026-08-29_implant-placement-direction.html
 ---
 
 # Goal
