@@ -220,6 +220,10 @@ IAC shortest (4.65 mm), U-type ridge most common (73%), lingual concavity deepes
 
 ---
 
+## Chairside Tool
+
+부위별 임계값을 탭으로 즉시 참조: [[interactives/2026-08-29_implant-placement-direction]] — 6탭(전치부·소구치·후방 하악 IAC·CPDU·후방 상악·생물역학), ILAA 막대·CPDU 위험 매트릭스·r-CAIS 비교 시각 요소 포함.
+
 ## Key Gaps
 
 - **Posterior mandible healed-site anatomy**: Behfarnia 2025 and Alqaood 2026 both used immediate placement CBCT data. True delayed-placement anatomy (remodeled ridge) may differ — no PMC paper available.
