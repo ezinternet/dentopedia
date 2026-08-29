@@ -12,7 +12,7 @@ pdf_filename: nicolae-2025-cross-sectional-study-occlusal.pdf
 source_collection: external
 tags: [occlusion, digital-occlusal-analysis, deflective-contacts, periodontal-disease, occlusense, cross-sectional]
 relations:
-  - type: supports
+  - type: reinforces
     target: wiki/overviews/occlusal-trauma-periodontitis-overview.md
     note: "adds digitally quantified force data at deflective contacts with multi-parameter periodontal correlation"
 ---
