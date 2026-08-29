@@ -12,7 +12,7 @@ pdf_filename: kakudate-2020-evidence-practice-gap-pbrn.pdf
 source_collection: external
 tags: [minimal-intervention, evidence-practice-gap, pbrn, caries-risk-assessment, deep-caries, survey]
 relations:
-  - type: complements
+  - type: extends
     target: banihani-2021-minimal-intervention-primary-teeth-carious-umbrella-review
 ---
 
