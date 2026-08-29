@@ -24,13 +24,13 @@ tags:
   - quality-assurance
 relations:
   - target: radiology/benavides-2024-optimizing-radiation-safety-dentistry
-    type: extended-by
+    type: reinforces
   - target: radiology/fontenele-2025-cbct-dentistry-clinical-recommendations-indication
-    type: extended-by
+    type: reinforces
   - target: radiology/berkhout-2015-justification-and-good-practice-using
-    type: extended-by
+    type: reinforces
   - target: radiology/jacobs-2018-cbct-implant-dentistry-recommendations-clinical
-    type: extended-by
+    type: reinforces
 ---
 
 ## 한국어 핵심요약
