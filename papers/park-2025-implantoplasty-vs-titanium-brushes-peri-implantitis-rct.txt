@@ -1,0 +1,1248 @@
+TITLE: Implantoplasty vs. Rotating Titanium Brushes in the Surgical Treatment of Peri‐Implantitis: A 1‐Year Randomised Controlled Clinical Trial
+DOI: 10.1111/jcpe.70056
+PMID: 41117707
+PMCID: unknown
+ABSTRACT: ABSTRACT
+
+Aim
+
+To evaluate treatment outcomes following implantoplasty or the use of rotating titanium brushes in the surgical therapy of peri‐implantitis.
+
+Materials and Methods
+
+Thirty patients with peri‐implantitis in need of surgical treatment were enrolled in a 12‐month randomised clinical trial with a non‐inferiority set‐up. Surface decontamination was performed using either titanium brushes (test group) or implantoplasty (control group). Clinical and radiographic parameters as well as patient‐reported outcomes (Oral Health Impact Profile‐14; OHIP‐14) were evaluated.
+
+Results
+
+At 12 months, the composite outcome was achieved in 6/15 implants in the test group and in 4/15 in the control group. Probing pocket depth (PPD) values decreased by 3.6 ± 1.5 mm (test) and 3.3 ± 1.2 mm (control), demonstrating non‐inferiority of the test procedure. Additional bone loss was observed in the control group (0.7 ± 1.2 mm), while bone levels remained unchanged in the test group (0.0 ± 0.6 mm). Baseline PPD (= 0.044) and the presence of an adjacent implant affected by peri‐implantitis (= 0.033) were relevant factors for pocket closure (PPD ≤ 5 mm at 12 months). Time for surface decontamination was significantly less in the test (3 min 1 s) when compared to the control group (5 min 27 s) (= 0.006). OHIP‐14 scores were statistically indifferent.
+
+Conclusion
+
+Both groups showed favourable outcomes, demonstrating non‐inferiority of titanium brushes to implantoplasty.
+
+The trial was registered with the Clinical Research Information Service of the National Research Institute of Health (South Korea), no. KCT007900. ()
+
+--- FULL TEXT ---
+1
+
+Introduction
+
+Peri‐implantitis is a plaque‐associated pathological condition affecting dental implants and characterised by inflammation of peri‐implant tissues and progressive loss of the supporting bone (Berglundh et al.; Schwarz et al.). Surgical treatment of peri‐implantitis is required in cases of pronounced peri‐implant bone loss, for which the endpoint of therapy (i.e., probing pocket depth ≤ 5 mm and bleeding on probing at ≤ 1 site) has not been achieved (Herrera et al.). One of the challenges and prerequisites in achieving complete resolution of peri‐implantitis is the meticulous cleaning of biofilm‐contaminated implant surfaces (Lindhe and Meyle; Schwarz et al.).
+
+Various mechanical and anti‐infective methods have been introduced for the decontamination of implant surfaces in conjunction with the treatment of peri‐implantitis (Monje, Amerio, et al.). Among these options, implantoplasty, which refers to the mechanical modification of the implant geometry, has been proposed as a viable approach (Romeo et al.,). Improvements in clinical and radiographic parameters following implantoplasty, combined with either resective or reconstructive approaches, have been described in numerous previous clinical studies (Englezos et al.; Monje, Pons, et al.; Schwarz et al.). Nevertheless, there are a number of concerns associated with this technique, such as damage to the implant connection, overheating, distribution of titanium particles and the risk of implant fracture due to structural weakening (Stavropoulos et al.).
+
+More recently, titanium brushes have emerged as a promising tool for surface decontamination during surgical access. Data from an in vitro investigation suggested that titanium brushes reach the valleys between exposed threads, while resulting in only minor macroscopic surface alterations (Cha et al.). The efficacy documented in in vitro studies (Ichioka, Virto, et al.; Luengo et al.) has also been verified through in vivo data, describing titanium brushes as superior to conventional approaches (Carral et al.; de Tapia et al.).
+
+Although both implantoplasty and decontamination by titanium brush have shown positive outcomes for resolution of peri‐implantitis, there is a lack of direct comparative studies evaluating their relative effectiveness (Koo et al.; Monje, Amerio, et al.). The recently published guideline for the management of peri‐implant diseases states that the evidence for any recommendation on implantoplasty is still insufficient (Herrera et al.).
+
+The aim of the present randomised clinical trial (RCT) was to evaluate clinical, radiographic and patient‐reported outcomes following implantoplasty or the use of titanium brushes in the surgical treatment of peri‐implantitis.
+
+2
+
+Materials and Methods
+
+This study was designed as a non‐inferiority RCT with two parallel arms and a follow‐up of 1 year. Subjects in need of surgical therapy for peri‐implantitis were recruited in the Department of Periodontology, Yonsei University Dental Hospital, Seoul, Republic of Korea. Enrolled patients were randomly assigned to surgical decontamination of implant surfaces either by means of implantoplasty or by titanium brushes. All clinical procedures were conducted at one clinical centre, with ethical approval given by the Institutional Review Board (no. 2‐2020‐0106). The trial was registered with the Clinical Research Information Service of the National Research Institute of Health (South Korea) on 11 November 2022 (no. KCT007900). Reporting follows CONSORT guidelines for parallel‐group randomised trials (Moher et al.) (Figure).
+
+We hypothesised that surgical therapy of peri‐implantitis, including surface decontamination by rotating titanium brush, would be non‐inferior to that based on implantoplasty.
+
+FIGURE 1
+
+CONSORT flowchart.
+
+2.1
+
+Sample Size
+
+The sample size was based on data reported by de Tapia et al. (). We used the reduction of deepest probing pocket depth (PPD) and set the non‐inferiority margin to 1.2 mm, considering a standard deviation of 1.0 mm, a significance level of 2.5% and a statistical power of 80%. Based on a minimum requirement of 12 subjects per group, we included 15 patients in each arm to address a potential dropout of 25%.
+
+2.2
+
+Inclusion and Exclusion Criteria
+
+Details of inclusion and exclusion criteria are presented in Appendix. To be eligible, implants were to present with (a) radiographically confirmed peri‐implant bone loss ≥ 3 mm, (b) PPD ≥ 6 mm, (c) bleeding and/or suppuration on probing persisting at re‐evaluation 6–12 weeks after initial non‐surgical therapy and (d) a need for surgical therapy due to the presence of a pronounced supracrestal bone defect (Monje et al.).
+
+After initial screening, participants signed an informed consent, and professional supra‐ and sub‐marginal instrumentation was performed prior to surgical intervention using an ultrasonic scaler (copper‐alloy scaler tip).
+
+2.3
+
+Randomisation and Surgical Intervention
+
+Patients were randomly assigned to either the test group or control group (1:1 ratio). A randomisation list was generated using a web‐based software (), and allocation was concealed through sealed envelopes.
+
+All surgical interventions were performed by one experienced periodontist (J.‐K.C.). Whenever feasible, screw‐retained supraconstructions were removed. If required, prostheses were modified to improve cleansability prior to repositioning after surgery. Following local anaesthesia, intra‐sulcular and vertical incisions (if needed) were performed, and full‐thickness flaps were elevated, both buccally and lingually. Granulation tissues were then removed from the peri‐implant defects using titanium‐coated curettes. Following this procedure, the group allocation was revealed.
+
+In the test group, exposed implant surfaces were carefully instrumented with a straight, rotating titanium brush (TN brush; Dentium, Seoul, Korea) under copious irrigation with saline (Cha et al.). In cases where the supraconstruction was removed, an additional titanium brush with angled titanium alloy bristles (R‐brush; Neobiotech, Seoul, Korea) was used (Figure). In the control group, implant threads and the outermost layer of the exposed and accessible implant surfaces were removed using oval‐shaped tungsten carbide burs and white Arkansas stone burs, and subsequently polished with brown and green silica polishing burs under copious saline irrigation (Komet Dental, Lemgo, Germany) (Costa‐Berenguer et al.) (Figure). Osseous recontouring was carried out in cases of severe intrabony defects with a crater‐like geometry, with the aim of achieving a flat architecture in both groups. Mucoperiosteal flaps were then positioned at the level of the bone and adapted by suturing. The duration of the surgical treatment was noted by an independent investigator (D.‐M.K.). Peri‐implant defects were classified according to Monje et al. ().
+
+The surgical procedures were carried out between August 2021 and January 2023.
+
+FIGURE 2
+
+Clinical photographs of the interventions and follow‐ups.
+
+2.4
+
+Post‐Operative Care
+
+Post‐operatively, acetaminophen (650 mg) was prescribed. The patients were instructed to take the medication in case of persistent post‐operative pain. Sutures were removed 2 weeks after surgery. During this period, patients were advised to refrain from mechanical plaque control at the surgical site and rinse with a 0.12% chlorhexidine solution, twice daily.
+
+Participants were recalled at 3, 6, 9 and 12 months after surgery, and professional plaque removal was performed with a metallic copper‐alloy ultrasonic scaler tip.
+
+2.5
+
+Clinical Examination
+
+Clinical measurements were performed at baseline and at 3, 6, 9 and 12 months after surgery, which included PPD, bleeding on probing (BOP), plaque index (PI), gingival index (GI) and mucosal recession (MR) assessed at six sites per implant using a millimetre‐scale periodontal probe (PCP UNC 15; Hu‐Friedy, Chicago, USA). BOP was recorded as 0 (no bleeding) or 1 (bleeding) within 10 s after probing (Meitner et al.). A 4‐point scale (0 to 3) was used to assess PI and GI (Löe). Keratinised mucosa (KM) was categorised as present if its width exceeded 2 mm (Monje, Pons, et al.).
+
+Adverse events throughout the study period were recorded. All measurements were conducted by a single investigator (J.‐K.C.), not blinded to group allocation.
+
+2.6
+
+Radiographic Examination
+
+Intraoral periapical radiographs were obtained at baseline and at 6 and 12 months after surgery. Marginal bone levels (MBLs) were assessed at mesial and distal aspects as the distance from the implant platform to the most coronal le f the radiographic bone‐to‐implant contact (Zetta PACS; Tae Young Soft, Seoul, South Korea). The values were standardised using the actual length of the implants, and the mean value of mesial and distal measurements was used for further analysis.
+
+Assessments were performed by two investigators (D.‐B.K. and D.‐M.K.). Double measurements revealed intra‐rater measurement errors of 0.48 ± 0.49 mm (rater 1) and 0.14 ± 0.21 mm (rater 2), while the inter‐rater measurement error was 0.16 ± 0.23 mm. Intra‐ and inter‐examiner agreement was also determined by the intraclass correlation coefficient, estimated at 0.87 and 0.99, respectively.
+
+2.7
+
+Patient‐Reported Outcomes
+
+Details of the patient‐reported outcomes (PROs) are presented in Appendix. Patients completed a written questionnaire prior to surgery, at 2 weeks and at 3, 6, 9 and 12 months after surgery to capture PROs based on the Oral Health Impact Profile (OHIP‐14) (Slade and Spencer). On the day of surgery, patients completed a questionnaire on patient‐reported experiences (PREs) and additional PROs related to satisfaction. Responses were scored on a 10‐point numerical scale, with higher scores indicating higher quality of life or satisfaction.
+
+2.8
+
+Outcome Variables
+
+Considering the EFP guideline defining the endpoint of peri‐implantitis treatment as PPD ≤ 5mm with BOP ≤ 1 point and no suppuration, the primary outcome was set as a composite measure including (i) implant not lost, (ii) BOP at ≤ 1 site, (iii) PPD ≤ 5 mm and (iv) absence of additional bone loss (≥ 0.5 mm) (Herrera et al.). Secondary outcomes included implant loss and changes in PPD, BOP, PI, GI, MR, MBL as well as treatment time and PROs/PREs.
+
+2.9
+
+Data Analysis
+
+Statistical analyses were performed using R software (version 4.3.1, R Foundation for Statistical Computing, Vienna, Austria). Normality of the data distribution was confirmed for PPD, MR, MBL and treatment duration using the Shapiro–Wilk test (> 0.05), while this was not the case for BOP, PI, GI and PROs/PREs (< 0.05).
+
+The unit of analysis for the clinical and radiographic evaluations was the implant. Inter‐group comparisons were performed using‐tests for parametric variables, Wilcoxon rank tests for non‐parametric variables and chi‐square or Fisher's exact test for categorical variables. We used one‐sided testing for clinical and radiographic parameters and two‐sided testing for PROs/PREs. For the assessment of non‐inferiority, we calculated 95% confidence intervals (CIs) of mean differences between groups and related these to the margins of non‐inferiority.
+
+For the outcome ‘pocket closure’ (i.e., PPD ≤ 5 mm at all six sites), an exploratory multiple logistic regression analysis was performed. The significance level was set to< 0.05.
+
+3
+
+Results
+
+All enrolled patients (= 30; test = 15; control = 15) completed both the surgical treatment and the 1‐year follow‐up. Two implants (in two patients) in the control group were lost due to disease progression between the 9‐month and 12‐month evaluations. No other adverse events related to the surgical intervention were observed. Baseline characteristics are shown in Tablesand.
+
+The mean total duration for the surgical interventions was 20 min 0 s for the test group and 23 min 56 s for the control group (= 0.064; Table). In both groups, most time was spent on soft‐tissue manipulation, followed by suturing. Differences in overall treatment time were due to significantly more time spent on surface treatment in the control group (5 min 27 s vs. 3 min 1 s;= 0.006).
+
+TABLE 1
+
+Demographic/Baseline characteristics.
+
+Test
+
+Control
+
+Total
+
+Age
+
+66.6 (7.6)
+
+64.4 (6.9)
+
+65.5 (7.2)
+
+Sex
+
+Male
+
+1
+
+6.7%
+
+8
+
+53.3%
+
+9
+
+30.0%
+
+Female
+
+14
+
+93.3%
+
+7
+
+46.7%
+
+21
+
+70.0%
+
+Site
+
+Anterior
+
+0
+
+0
+
+1
+
+6.7%
+
+1
+
+3.3%
+
+Premolar
+
+3
+
+20.0%
+
+3
+
+20.0%
+
+6
+
+20.0%
+
+Molar
+
+12
+
+80.0%
+
+11
+
+73.3%
+
+23
+
+76.7%
+
+Adjacent implant
+
+No
+
+1
+
+6.7%
+
+5
+
+33.3%
+
+6
+
+20.0%
+
+Yes
+
+14
+
+93.3%
+
+10
+
+66.7%
+
+24
+
+80.0%
+
+Adjacent implant affected by peri‐implantitis
+
+No
+
+8
+
+53.3%
+
+9
+
+60.0%
+
+17
+
+56.7%
+
+Yes
+
+6
+
+40.0%
+
+1
+
+6.7%
+
+7
+
+23.3%
+
+Implant brand
+
+AstraTech
+
+1
+
+6.7%
+
+1
+
+6.7%
+
+2
+
+6.7%
+
+Dentium
+
+0
+
+0
+
+3
+
+20.0%
+
+3
+
+10.0%
+
+Dio
+
+1
+
+6.7%
+
+0
+
+0
+
+1
+
+3.3%
+
+Neobiotech
+
+0
+
+0
+
+2
+
+13.3%
+
+2
+
+6.7%
+
+Osstem
+
+5
+
+33.3%
+
+2
+
+13.3%
+
+7
+
+23.3%
+
+SIS
+
+1
+
+6.7%
+
+1
+
+6.7%
+
+2
+
+6.7%
+
+Unknown
+
+7
+
+46.7%
+
+6
+
+40.0%
+
+13
+
+43.3%
+
+Implant design
+
+Tissue level
+
+2
+
+13.3%
+
+0
+
+0
+
+2
+
+6.7%
+
+Bone level
+
+13
+
+86.7%
+
+15
+
+100.0%
+
+28
+
+93.3%
+
+Type of connection
+
+External
+
+3
+
+20.0%
+
+0
+
+0
+
+3
+
+10.0%
+
+Internal
+
+12
+
+80.0%
+
+15
+
+100.0%
+
+27
+
+90.0%
+
+Prosthesis retention
+
+Screw‐retained
+
+10
+
+66.7%
+
+9
+
+60.0%
+
+19
+
+63.3%
+
+Cemented
+
+5
+
+33.3%
+
+6
+
+40.0%
+
+11
+
+36.7%
+
+Prosthesis type
+
+Single crown
+
+2
+
+13.3%
+
+5
+
+33.3%
+
+7
+
+23.3%
+
+Fixed dental prostheses
+
+13
+
+86.7%
+
+10
+
+66.6%
+
+23
+
+76.7%
+
+Removal of prosthesis in conjunction with surgery
+
+No
+
+6
+
+40.0%
+
+8
+
+53.3%
+
+14
+
+46.7%
+
+Yes
+
+9
+
+60.0%
+
+7
+
+46.7%
+
+16
+
+53.3%
+
+Modification of prosthesis
+
+No
+
+12
+
+80.0%
+
+13
+
+86.7%
+
+25
+
+83.3%
+
+Yes
+
+3
+
+20.0%
+
+2
+
+13.3%
+
+5
+
+16.7%
+
+Presence of keratinised mucosa
+
+No
+
+9
+
+60.0%
+
+5
+
+33.3%
+
+14
+
+46.7%
+
+Yes
+
+6
+
+40.0%
+
+10
+
+66.7%
+
+16
+
+53.3%
+
+TABLE 2
+
+Clinical and radiographic outcomes.
+
+Test
+
+Control
+
+‐value (one‐sided)
+
+Mean difference and 95% CI
+
+Non‐inferiority margin
+
+Mean
+
+SD
+
+Mean
+
+SD
+
+Clinical parameters at baseline
+
+Mean PPD (mm)
+
+6.8
+
+(1.8)
+
+7.0
+
+(2.0)
+
+Deepest PPD (mm)
+
+8.2
+
+(1.7)
+
+8.8
+
+(2.3)
+
+Mean BOP
+
+1.0
+
+(0.0)
+
+1.0
+
+(0.0)
+
+Mean PI
+
+0.5
+
+(0.4)
+
+0.8
+
+(0.5)
+
+Mean GI
+
+2.0
+
+(0.3)
+
+2.1
+
+(0.4)
+
+Mean MR
+
+0.5
+
+(0.6)
+
+0.3
+
+(0.4)
+
+Clinical parameters at 12 months
+
+Mean PPD (mm)
+
+3.2
+
+(0.7)
+
+3.4
+
+(1.2)
+
+0.45
+
+Deepest PPD (mm)
+
+4.1
+
+(1.2)
+
+4.2
+
+(1.5)
+
+0.44
+
+Mean BOP
+
+0.2
+
+(0.3)
+
+0.2
+
+(0.3)
+
+0.53
+
+Mean PI
+
+0.1
+
+(0.1)
+
+0.2
+
+(0.2)
+
+0.20
+
+Mean GI
+
+0.4
+
+(0.5)
+
+0.4
+
+(0.7)
+
+0.72
+
+Mean MR
+
+2.3
+
+(1.4)
+
+2.8
+
+(1.8)
+
+0.25
+
+Changes in the clinical parameters (12 months)
+
+Mean PPD (mm)
+
+−3.6
+
+(1.5)
+
+−3.3
+
+(1.2)
+
+0.29
+
+0.3 [−0.7, 1.3]
+
+1.2
+
+Deepest PPD (mm)
+
+−4.1
+
+(1.6)
+
+−4.2
+
+(1.2)
+
+0.52
+
+0.0 [−1.0, 1.0]
+
+1.2
+
+Mean BOP
+
+−0.8
+
+(0.3)
+
+−0.8
+
+(0.3)
+
+0.46
+
+0.0 [−0.2, 0.2]
+
+0.5
+
+Mean PI
+
+−0.5
+
+(0.4)
+
+−0.6
+
+(0.4)
+
+0.83
+
+−0.1 [−0.4, 0.2]
+
+0.5
+
+Mean GI
+
+−1.6
+
+(0.7)
+
+−1.7
+
+(0.4)
+
+0.68
+
+−0.1 [−0.5, 0.3]
+
+0.5
+
+Mean MR (mm)
+
+1.8
+
+(1.5)
+
+2.6
+
+(1.7)
+
+0.11
+
+0.8 [−0.4, 1.9]
+
+1.0
+
+MBL (mm) at baseline
+
+4.1
+
+(1.8)
+
+3.8
+
+(2.1)
+
+MBL change (mm) by 12 months
+
+0.0
+
+(0.6)
+
+0.7
+
+(1.2)
+
+0.03
+
+Pocket closure (PPD ≤ 5 mm)
+
+6 months
+
+13/15
+
+86.7%
+
+11/15
+
+73.3%
+
+0.65
+
+12 months
+
+12/15
+
+80.0%
+
+12/15
+
+80.0%
+
+1
+
+Composite outcome
+
+6 months
+
+8/15
+
+53.3%
+
+7/15
+
+46.7%
+
+1
+
+12 months
+
+6/15
+
+40.0%
+
+4/15
+
+26.7%
+
+0.70
+
+Intergroup differences are presented as‐values. Positive value of MBL indicates additional peri‐implant bone loss. For each clinical parameter, test group is considered non‐inferior when the lower limit of the 95% CI was above the non‐inferiority margin (−δ).
+
+Abbreviations: BOP, bleeding on probing; CI, confidence interval; GI, gingival index; MBL, marginal bone level; MR, mucosal recession; PI, plaque index; PPD, probing pocket depth; SD, standard deviation.
+
+*
+
+Statistically significant (< 0.05).
+
+3.1
+
+Composite Outcome
+
+At 6 months, the composite outcome was achieved in eight implants (53.3%) in the test group and in seven implants (46.7%) in the control group (= 1.00). The respective outcome at 12 months was six implants (40.0%) and four implants (26.7%) (= 0.70; Table, Figure).
+
+FIGURE 3
+
+Clinical and radiographic outcomes: (a) The number of patients fulfilling the composite treatment success in the two groups at each timepoint. (b–e) The changes in the mean values throughout the study period regarding (b) probing depth, (c) bleeding on probing, (d) plaque index and (e) gingival index. (f) Comparison of the marginal bone level change by 12 months between the two groups.
+
+3.2
+
+Clinical and Radiographic Outcomes
+
+Clinical outcomes at 12 months are given in Tableand Figure. The deepest PPD value decreased by 4.1 ± 1.6 mm in the test group and 4.2 ± 1.2 mm in the control group, demonstrating pronounced pocket reduction. Analysis of the reduction of deepest PPD is given in Tableand Figure, illustrating the non‐inferiority of the test modality compared to the control modality. Changes in all clinical parameters are presented in Table, showing no statistically significant differences between groups for BOP, PI, GI and MR. Pocket closure (PPD ≤ 5 mm) by 12 months was achieved at 12 out of 15 implants (80%) in both groups. In the test group, MBL remained unchanged at 12 months (0.0 ± 0.6 mm), while in the control group there was additional bone loss (0.7 ± 1.2 mm;= 0.03). Figureillustrates the data for each implant site.
+
+Results of the logistic regression analysis using pocket closure as the dependent variable are presented in Table. After stepwise selection of relevant predictors, we observed that baseline PPD (coefficient = −1.520,= 0.044) and the presence of an adjacent implant affected by peri‐implantitis (coefficient = −13.805,= 0.033) were negatively correlated to achieving pocket closure (Table).
+
+TABLE 3
+
+Multivariable logistic regression analysis for the outcome ‘pocket closure’ (PPD ≤ 5 mm at 12 months): (a) results after initial regression analysis, and (b) results after stepwise selection of relevant variables.
+
+(a)
+
+Name
+
+Estimate
+
+SE
+
+z
+
+p
+
+Intercept
+
+34.185
+
+16.964
+
+2.015
+
+0.044
+
+Group allocation
+
+Control
+
+0 (ref)
+
+Test
+
+2.201
+
+3.856
+
+0.571
+
+0.568
+
+Mean PPD (six sites) at baseline
+
+−1.212
+
+0.767
+
+−1.580
+
+0.114
+
+MBL at baseline
+
+−1.748
+
+1.052
+
+−1.661
+
+0.097
+
+Removal of prosthesis
+
+No
+
+0 (ref)
+
+Yes
+
+3.169
+
+3.612
+
+0.878
+
+0.380
+
+Defect configuration
+
+Class II
+
+0 (ref)
+
+Class III
+
+−10.623
+
+6.884
+
+−1.543
+
+0.123
+
+Presence of keratinised mucosa
+
+No
+
+0 (ref)
+
+Yes
+
+−6.076
+
+4.690
+
+−1.296
+
+0.195
+
+Adjacent implant
+
+No
+
+0 (ref)
+
+Yes
+
+−1.918
+
+4.786
+
+−0.401
+
+0.689
+
+Adjacent implant affected by peri‐implantitis
+
+No
+
+0 (ref)
+
+Yes
+
+−11.842
+
+6.736
+
+−1.758
+
+0.079
+
+(b)
+
+Name
+
+Estimate
+
+SE
+
+z
+
+p
+
+Intercept
+
+39.850
+
+17.930
+
+2.223
+
+0.026
+
+Mean PPD (6 sites) at baseline
+
+−1.520
+
+0.755
+
+−2.012
+
+0.044
+
+MBL at baseline
+
+−1.816
+
+0.957
+
+−1.898
+
+0.058
+
+Defect configuration
+
+Class II
+
+0 (ref)
+
+Class III
+
+−12.187
+
+6.558
+
+−1.858
+
+0.063
+
+Presence of keratinised mucosa
+
+No
+
+0 (ref)
+
+Yes
+
+−5.917
+
+3.776
+
+−1.567
+
+0.117
+
+Adjacent implant affected by peri‐implantitis
+
+No
+
+0 (ref)
+
+Yes
+
+−13.805
+
+6.462
+
+−2.136
+
+0.033
+
+Abbreviations: MBL, marginal bone level; PPD, probing pocket depth.
+
+*
+
+Statistically significant (< 0.05).
+
+3.3
+
+Patient‐Reported Outcomes and Experiences
+
+Figureshows the mean score for each question illustrating PROs. In terms of functional limitation, oral health‐related quality of life (OHrQoL) and social disability (difficult to work), scores were higher at 12 months when compared to baseline. Patient satisfaction at 12 months was rated at 7.33 ± 3.27 and 7.85 ± 3.26 by the test and control groups, respectively (= 0.67).
+
+The mean scores for PREs and satisfaction‐related PROs are presented in Figure. In general, parameters did not differ between the groups (> 0.05).
+
+FIGURE 4
+
+Bar graph representation of patient‐reported outcomes: (a) Values at baseline and 12 months follow‐up, (b) changes in the values between baseline and 12‐month follow‐up.
+
+4
+
+Discussion
+
+The present RCT demonstrated that the use of titanium brushes was non‐inferior to implantoplasty in terms of reduction of PPD and composite treatment success. Moreover, the use of titanium brushes was less time consuming and beneficial in preserving peri‐implant marginal bone levels over the 1‐year follow‐up, with no implant loss observed during the 12‐month period, whereas two implants in the implantoplasty group were lost because of progressive bone loss. PROs and PREs were favourable and not different in the two study arms.
+
+The most frequently reported clinical parameters in the surgical treatment of peri‐implantitis are residual PPD ≤ 5 mm (referred to as pocket closure) and elimination of BOP at the treated implant sites (Derks et al.). Consistent with previous studies on successful pocket reduction rates (70.0% in Carcuac et al.; 70.6% in Ichioka, Trullenque‐Eriksson, et al.; Ichioka, Virto, et al.), the present study also demonstrated a notable pocket closure of 80.0% at 12 months. Regarding treatment modalities, the magnitude of PPD reduction was similar between the two groups (test: 4.1 mm; control: 4.2 mm), which also corresponds well with previous reports (4.2 mm in Heitz‐Mayfield et al.; 3.9 mm in Ichioka, Trullenque‐Eriksson, et al.; Ichioka, Virto, et al.). Substantial PPD reduction has also been correlated with low residual BOP in the studies referred to. Indeed, also in this trial, the mean BOP value in the test group decreased from 97.9% to 19.8%, which aligns with a previous RCT reporting an 80.0% BOP reduction following surface decontamination with titanium brushes (de Tapia et al.).
+
+Varying definitions of composite success regarding peri‐implantitis treatment make it difficult to compare data across studies. One retrospective study reported a therapeutic success rate of 71% after resective therapy, with the deepest PPD of 3.5 mm (Monje, Pons, et al.). In contrast, a RCT comparing basic surgical therapy with reconstructive strategy reported that only 13.5% of subjects achieved treatment success following open‐flap debridement with a mean baseline PPD of 8.5 mm (Derks et al.). Such considerable variations among studies may be attributed to the differences in baseline PPD but also to varying treatment success criteria. Applying the criteria of therapeutic success from the recently published EFP guideline, the present study found success rates of 53.3% in the test group and 46.7% in the control group at 6 months, and 40.0% and 26.7%, respectively, at 12 months (Herrera et al.). However, this should be interpreted with caution, as the present study assessed BOP using a dichotomous measure, which did not fully reflect the severity‐based definition of the treatment endpoint described in the EFP guideline.
+
+The ultimate goal of surgical treatment for peri‐implantitis is to prevent the progression of peri‐implant bone resorption. The treatment success of peri‐implantitis appears to be influenced by the extent of MBL loss (Monje, Pons, et al.; Romandini et al.). In the present study, the control group showed an additional MBL loss of 0.7 mm, whereas the test group showed stable MBL over 1 year (MBL change: 0.0 mm). This finding aligns with a previous study reporting greater MBL gain following the use of titanium brushes when compared to Teflon‐coated tips (de Tapia et al.). Furthermore, a recent review suggested the therapeutic outcome of implantoplasty to be highly dependent on baseline MBLs (Monje, Amerio, et al.). This highlights the potential limitation of effectively removing exposed threads in the apical portion of severely affected implants, potentially favouring further bone loss during follow‐up.
+
+Given the growing emphasis on incorporating patient preferences in decision‐making processes, multifaceted analyses including patient‐reported outcomes and experiences are required (Arunyanak et al.). In the present study, OHRQoL increased only slightly following the treatment, aligning with previous findings suggesting that surgical treatment for peri‐implantitis does not significantly impact OHRQoL (Rustand et al.). It is noteworthy that the ease of hygiene control remained largely unchanged (test: 5.93–5.80, control: 5.73–5.92), indicating that home care was not perceived as impaired by the exposure of implant threads. This is in line with the low PI observed at 12 months (Table). In this context, it is important to note that the questionnaire we used was not previously validated in a Korean population.
+
+While PROs and PREs were similar in the two study groups, it should be emphasised that the time for surface treatment differed considerably, which was significantly less in the test group (= 0.006). A previous in vitro study evaluating the efficacy of implantoplasty protocols reported that the use of an Arkansas bur was the most time‐efficient modality (Ramel et al.). Nevertheless, several factors such as copious cooling during implantoplasty or subsequent removal of released titanium particles may have contributed to the increased duration for implantoplasty in our study.
+
+Results of the present study revealed that the likelihood of pocket closure was negatively correlated with baseline PPD. This aligns with earlier studies that reported an initial PPD of ≥ 8 mm as an indicator of treatment failure (González Regueiro et al.; Koldsland et al.), and with those concluding that baseline PPD was the most relevant factor influencing 12‐month results (Ichioka, Trullenque‐Eriksson, et al.). An additional relevant parameter identified was the presence of an adjacent implant with peri‐implantitis, which significantly reduced the likelihood of pocket closure. This novel finding may reflect the difficulty in managing multiple neighbouring defects, potentially due to prolonged surgical time—especially relevant in the present context, as the test procedure (titanium brushes) required significantly less time.
+
+Whenever possible, supra‐constructions were removed in conjunction with the surgical therapy. A recent in vitro study identified the non‐removal as the most relevant factor associated with remnants after treatment (Korello et al.). Furthermore, a recent trial on peri‐implantitis surgery reported that screw‐retained prostheses showed more favourable BOP resolution when compared to cemented constructions (Ichioka, Trullenque‐Eriksson, et al.). Interestingly, in our trial, most screw‐retained prostheses (16/19) were removed prior to surgery, whereas none of the cemented prostheses (0/11) was disconnected. Notably, the fact that the majority of patients included in this study (23/30) had fixed dental prostheses may have limited surgical access and implant decontamination (Katafuchi et al.), thereby further stressing the importance of prosthesis retrieval prior to surgery. However, in the present study, prosthesis removal did not significantly influence treatment outcomes, an unexpected finding with unclear underlying reasons (Table).
+
+It must be noted that there are several limitations to the present study. A relatively small number of implants was included in the analysis, making it challenging to draw strong conclusions. An obvious concern is the fact that our sample size calculation was based on a secondary parameter (PPD reduction), rather than the study's primary outcome (composite outcome). This complicates the interpretation of our findings of ‘no difference’ for the latter, which may have been due to limited statistical power. A more detailed radiographic analysis would have been possible with cone‐beam computed tomography, allowing for better assessment of bone levels and defect morphology. Osseous recontouring, which may have affected treatment outcomes by altering peri‐implant defect morphology, was not standardised in terms of its implementation or extent. Although other studies have suggested implantoplasty primarily for supra‐crestal peri‐implant defects (González Regueiro et al.; Monje et al.), in our study, implantoplasty was performed based on random allocation in accordance with the study design. This may limit the generalisability of the findings, as we did not consider selective application of implantoplasty based on defect morphology. The modification of prostheses was performed when necessary, but its impact could not be evaluated for the lack of standardisation. Furthermore, as both implantoplasty and titanium brush use are likely to cause the release of such particles (Suárez‐López Del Amo et al.), further analyses on tissue samples and crevicular fluids are warranted.
+
+Within the limitations of this study, it can be concluded that the use of a rotating titanium brush in the surgical therapy of peri‐implantitis results in non‐inferior outcomes when compared to implantoplasty. The use of the titanium brush was associated with better preservation of peri‐implant MBLs and reduced treatment time. Both treatment modalities resulted in favourable PROs.
+
+Author Contributions
+
+S.‐H.P. contributed to data interpretation and writing the original draft. D.‐B.K. contributed to data analysis and revising the original draft. D.‐M.K. contributed to data collection. I.S.‐M. and I.S.‐S. contributed to reviewing and editing the draft. J.D. contributed to data interpretation and critical revision. J.‐K.C. contributed to study conception and design, performing the trial and critical revision. All the authors gave their final approval of the version to be published and agreed to be accountable for all aspects of the work.
+
+Conflicts of Interest
+
+The authors declare no conflicts of interest.
+
+Supporting information
+
+jcpe70056‐sup‐0001‐AppendixS1.docx.
+
+jcpe70056‐sup‐0002‐AppendixS2.docx.
+
+jcpe70056‐sup‐0003‐FigureS1.tif.
+
+jcpe70056‐sup‐0004‐FigureS2.tif.
+
+Comparison of treatment procedure duration in both groups. Treatment duration is presented as mean (standard deviation).
+
+Peri‐implant defect configuration in both groups.
