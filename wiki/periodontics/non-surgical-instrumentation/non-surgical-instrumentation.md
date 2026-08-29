@@ -15,20 +15,20 @@ tags: [navigation, category-index, non-surgical-instrumentation]
 > [!summary] 한국어 핵심요약
 > - **분야**: 치주치료·비외과적기구처치
 > - **범위**: Professional non-surgical periodontal instrumentation — scaling & root planing (SRP), guided biofilm therapy (GBT), air-polishing, hand vs ultrasonic/piezoelectric scaling & instrument biomechanics/ergonomics, subgingival irrigation/reinstrumentation, SRP treatment guidelines
-> - **수록 논문**: 30편
+> - **수록 논문**: 31편
 
 ## Three-line Summary
 
 **Scope**: Professional non-surgical periodontal instrumentation — scaling & root planing (SRP), guided biofilm therapy (GBT), air-polishing, hand vs ultrasonic/piezoelectric scaling & instrument biomechanics/ergonomics, subgingival irrigation/reinstrumentation, SRP treatment guidelines
-**Indexed papers**: 30 papers in `wiki/periodontics/non-surgical-instrumentation/`.
+**Indexed papers**: 31 papers in `wiki/periodontics/non-surgical-instrumentation/`.
 
 ## 세줄요약
 
 **분야**: 치주치료·비외과적기구처치
-**수록 논문**: 30편
+**수록 논문**: 31편
 **하위 카테고리**: 없음
 
-## Papers in this Category (30)
+## Papers in this Category (31)
 
 | Paper |
 |---|
@@ -50,6 +50,7 @@ tags: [navigation, category-index, non-surgical-instrumentation]
 | [[lamont-2018-routine-scale-and-polish-periodontal-health|Routine scale and polish for periodontal health in adults]] |
 | [[lin-2023-novel-ergonomic-curette-design-reduces|A Novel Ergonomic Curette Design Reduces Dental Prophylaxis-Induced Muscle Work and Fatigue.]] |
 | [[lodigkeit-2026-periodontal-instrumentation-enamel-cementum-review|The Impact of Periodontal Instrumentation on Enamel and Cementum: A Narrative Review]] |
+| [[matthews-2024-dental-scaling-polishing-adults-rapid-review|Benefits of Dental Scaling and Polishing in Adults: A Rapid Review and Evidence Synthesis]] |
 | [[meng-2024-nspt-cardiovascular-risk-markers-sr-ma|Effect of non-surgical periodontal therapy on risk markers of cardiovascular disease: a systematic review and meta-analysis]] |
 | [[meseli-2016-probing-depth-srp-response-periodontitis|Relationships Between Initial Probing Depth and Changes in the Clinical Parameters Following Non-Surgical Periodontal Treatment in Chronic Periodontitis]] |
 | [[ou-2021-characterization-mitigation-aerosols-spatters|Characterization and mitigation of aerosols and spatters from ultrasonic scalers.]] |

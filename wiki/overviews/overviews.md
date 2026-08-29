@@ -15,20 +15,20 @@ tags: [navigation, category-index, overviews]
 > [!summary] 한국어 핵심요약
 > - **분야**: 종합
 > - **범위**: Synthesis pages spanning multiple categories
-> - **수록 논문**: 280편
+> - **수록 논문**: 281편
 
 ## Three-line Summary
 
 **Scope**: Synthesis pages spanning multiple categories
-**Indexed papers**: 280 papers in `wiki/overviews/`.
+**Indexed papers**: 281 papers in `wiki/overviews/`.
 
 ## 세줄요약
 
 **분야**: 종합
-**수록 논문**: 280편
+**수록 논문**: 281편
 **하위 카테고리**: 없음
 
-## Papers in this Category (280)
+## Papers in this Category (281)
 
 | Paper |
 |---|
@@ -86,6 +86,7 @@ tags: [navigation, category-index, overviews]
 | [[dental-materials-decision-ladder|Dental Materials — Selection & Bonding Decision Ladder]] |
 | [[dental-materials-peek-nanoceramic-liner-overview|치과 재료 특수 처치 근거 — PEEK 접착 전처리·나노세라믹 CAD-CAM 방식·복합레진 캐비티 라이너]] |
 | [[dental-radiographic-artifacts-taxonomy-overview|Dental Radiographic Artifacts — A Taxonomy Across Panoramic and Intraoral (PA) Imaging: Ghost Images, Geometry Errors, Receptor/Scanning Artifacts, and Disease-Mimicking Optical Effects]] |
+| [[dental-recall-spt-overview|Dental Recall and Supportive Periodontal Therapy: Evidence-Based Interval Management]] |
 | [[dental-research-units-reference-overview|치과 논문에 자주 쓰이는 단위 레퍼런스 (Common Units in Dental Research) — 빈도순 + 임계값 매트릭스]] |
 | [[dental-trauma-management-overview|Dental Trauma Management — Prevention → Emergency → Stabilization → Pulpal Prognosis (외상치 관리 종합)]] |
 | [[dental-workforce-delegation-skill-mix-overview|Overview: Dental Workforce Delegation, Skill-Mix & Team Communication]] |

@@ -16,21 +16,21 @@ tags: [navigation, category-index, periodontics]
 > - **분야**: 치주치료
 > - **범위**: Periodontal disease, classification, regeneration/root-coverage, SPT, periodontal-systemic links, general periodontics not covered by a subcategory.
 > - **하위 카테고리**: [[host-modulation]] · [[non-surgical-instrumentation]] · [[oral-hygiene-instruction]]
-> - **수록 논문**: 61편
+> - **수록 논문**: 63편
 
 ## Three-line Summary
 
 **Scope**: Periodontal disease, classification, regeneration/root-coverage, SPT, periodontal-systemic links, general periodontics not covered by a subcategory.
-**Indexed papers**: 61 papers in `wiki/periodontics/`.
+**Indexed papers**: 63 papers in `wiki/periodontics/`.
 **Sub-categories**: [[host-modulation]], [[non-surgical-instrumentation]], [[oral-hygiene-instruction]]
 
 ## 세줄요약
 
 **분야**: 치주치료
-**수록 논문**: 61편
+**수록 논문**: 63편
 **하위 카테고리**: host-modulation, non-surgical-instrumentation, oral-hygiene-instruction
 
-## Papers in this Category (61)
+## Papers in this Category (63)
 
 | Paper |
 |---|
@@ -57,6 +57,7 @@ tags: [navigation, category-index, periodontics]
 | [[ercoli-2021-fixed-dental-prostheses-restorations-periodontium|The Relationships Between Tooth-Supported Fixed Dental Prostheses and Restorations and the Periodontium]] |
 | [[fadli-2024-oral-gingival-crevicular-fluid-jawbone-turnover|Oral and Gingival Crevicular Fluid Biomarkers for Jawbone Turnover Diseases: A Scoping Review]] |
 | [[farooqi-2015-periodontal-maintenance-recall-interval-sr|Appropriate Recall Interval for Periodontal Maintenance: A Systematic Review]] |
+| [[fee-2020-recall-intervals-oral-health-primary-care|Recall intervals for oral health in primary care patients]] |
 | [[foroughi-2025-bridging-oral-systemic-health-periodontal|Bridging oral and systemic health: exploring pathogenesis, biomarkers, and diagnostic innovations in periodontal disease]] |
 | [[glim-2013-detrimental-dermal-wound-healing|Detrimental dermal wound healing: What can we learn from the oral mucosa?]] |
 | [[gualtieri-2025-mcaf-gingival-recession-sr-ma|Modified Coronally Advanced Flaps: A Systematic Review and Meta-Analysis]] |
@@ -94,6 +95,7 @@ tags: [navigation, category-index, periodontics]
 | [[srimaneepong-2022-fixed-prosthetic-restorations-periodontal-health|Fixed Prosthetic Restorations and Periodontal Health: A Narrative Review]] |
 | [[stahli-2024-clinical-evaluation-novel-protocol-supportive|Clinical evaluation of a novel protocol for supportive periodontal care: A randomized controlled clinical trial]] |
 | [[tsilingaridis-2026-biofilm-induced-gingivitis-children-adolescents|Dental Biofilm–Induced Gingivitis in Children and Adolescents Without Known Systemic Involvement: A Systematic Review]] |
+| [[wang-2026-long-term-periodontal-peri-implant-tissue-stability|Long-term periodontal and peri-implant tissue stability under supportive therapy]] |
 | [[ye-2026-environmental-tobacco-smoke-periodontitis-nonsmokers|Environmental tobacco smoke exposure and periodontitis in non-smokers: a systematic review and meta-analysis]] |
 
 ## Sub-categories
