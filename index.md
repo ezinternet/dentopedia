@@ -993,6 +993,7 @@ tags: []
 - [[periodontics/fee-2020-recall-intervals-oral-health-primary-care]] — Cochrane SR (2 RCT, n=1736): risk-based vs 6개월 vs 24개월 리콜 간격, 4년 추적 시 우식·치은출혈·OHRQoL 차이 없음 (고확실성)
 - [[periodontics/non-surgical-instrumentation/matthews-2024-dental-scaling-polishing-adults-rapid-review]] — 급속 리뷰(8연구): 저위험 성인에서 S&P 임상 이득 없음; 치주염 치료력 있는 환자는 위험 기반 3–12개월 SPT 강력권고(EFP Grade A); 치아상실·AMI 비용 감소 효과
 - [[periodontics/wang-2026-long-term-periodontal-peri-implant-tissue-stability]] — 서술 리뷰: 3–6개월(중·고위험) / 12개월(저위험) SPC·SPIC로 치아·임플란트 상실 현저히 감소; 잔존 포켓≥5–6mm·비순응이 재발 주예측인자; AI·바이오마커 통합 개인화 유지관리 프로토콜
+- [[overviews/dental-recall-spt-overview]] — **Overview** (8편 종합, 2026-08-29): 건강 성인 리콜 간격 6개월=위험기반=24개월(고확실성), 치주염 치료 완료 환자 SPT 3–12개월 EFP Grade A; GBT=SRP 동등; 비순응+잔존포켓≥5–6mm이 재발 주예측인자; SPT 간격 RCT 전무
 - [[periodontics/non-surgical-instrumentation/smiley-2015-nonsurgical-periodontitis-srp-guideline]] — 만성 치주염 비수술 치료(SRP ± 보조) 근거기반 가이드라인 — SRP 강력 권고, 전신 독시사이클린 추가 PPD 0.2–0.4mm 감소.
 - [[periodontics/nibali-2016-tooth-loss-furcation-involvement-sr-ma]] — SR+MA(21편): 치근분지부 침범 대구치 치아 소실 위험 10–15년 RR 2.21(p<0.0001); 3도 포함 대부분 치주치료로 보존 가능.
 - [[periodontics/stavropoulos-2021-periodontal-regeneration-intrabony-nma]] — SR+NMA(30개 RCT, 3–20년): 골내결손 재생/재건술이 OFD보다 PD·CAL에서 유의하게 우수; 병용요법이 단독요법보다 더 효과적; 치아소실 0.4% vs OFD 2.8%.
