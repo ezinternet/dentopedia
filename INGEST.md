@@ -56,7 +56,7 @@ PHASE 2 — finalize (serial, parent only — avoids git/index races):
     • Step 4  add its index_line to index.md
     • Step 5a  lint that page (scripts/lint.py) + orphan check (scripts/orphan-check.py)
     • python3 scripts/ingest-one.py --finish <stem>
-        ← per-file git commit + push + qmd update/embed (incremental) + mark processed
+        ← per-file git commit + 카테고리 랜딩 갱신 + push + qmd update/embed (incremental) + mark processed
   for each returned skip-paper: delete the duplicate PDF, mark queue processed (no page)
 
   AFTER the loop (large fan-out only, ≳5 papers): per-`--finish` incremental embeds can
@@ -398,9 +398,19 @@ When the audit flags one, read both pages and pick:
 
 **There is no 6th type, and this was tested — do not re-propose one without new evidence.** A ~13% minority of pairs are genuinely "orthogonal axes of the same decision" (e.g. arginine-dentifrice efficacy vs free-sugar intake threshold — same caries decision, non-overlapping measurement, neither extends the other). A `complements` type was evaluated 2026-07-17 and rejected on a natural experiment: of 20 randomly sampled pairs where an author had written "complementary" in prose, only **2 (10%)** were actually orthogonal — the rest were `reinforces`, `extends`, or nothing at all (one pair's only real link was "ingested in the same batch"). The relation is real but the label would be misapplied 9 times in 10. Leave those in prose `## Related Papers`.
 
-## Step 4 — Update `index.md`
+## Step 4 — Update `index.md` (+ 카테고리 랜딩)
 
 Add a one-line entry under the correct category.
+
+**카테고리 랜딩 페이지(`wiki/{category}/{category}.md`)의 `## Papers in this Category` 표는 `--finish`가 자동 갱신한다 — 손대지 마라.** `ingest-one.py --finish`가 새 위키 페이지가 들어간 폴더마다 `gen-category-landing.py --only {rel-path}`를 돌리고, 내용이 바뀐 랜딩만 별도 커밋한다.
+
+**단 `--finish`를 거치지 않은 경로는 여전히 수동이다** — deepseek-split 분기, ad-hoc 배치 스크립트, 손으로 만든 페이지. 그 경우 해당 폴더에 대해 직접 돌린다:
+
+```bash
+python3 scripts/gen-category-landing.py --only periodontics/oral-hygiene-instruction
+```
+
+*Why*: 랜딩 표는 `gen-category-landing.py`가 **한 번 써 놓은 정적 스냅샷**이고 재생성하는 주체가 없었다. 그래서 인제스트할 때마다 표와 실제 폴더 내용의 간극이 조용히 벌어졌다 — 2026-08-29 실측으로 **121개 랜딩 중 35개가 드리프트**(최악 `overviews` 267행 vs 280파일, `drug/analgesics` 52 vs 63). 감사도 통과하고 링크도 안 깨지므로 **아무 신호 없이** 표만 과소보고한다. `--only`는 그 폴더 하나만 다시 쓴다 — `--force`는 121개 전부의 `date:`를 리셋하고 손수정을 날리니 일상 절차에 쓰지 마라.
 
 ## Step 5 — Refresh search index (qmd)
 

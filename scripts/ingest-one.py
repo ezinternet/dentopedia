@@ -9,6 +9,7 @@ Sequential loop:
 
   2.  python3 scripts/ingest-one.py --finish <stem>
       - Per-file git commits  (sources/{stem}.md, wiki/{category}/{stem}.md, index.md)
+      - Refreshes the category landing page(s) the new wiki page landed in
       - git push origin main
       - qmd update && qmd embed
       - Marks stem as processed in .ingest-queue
@@ -87,6 +88,59 @@ def commit_file(rel_path: str, message: str):
         print(f"  ✓ committed: {rel_path}")
 
 
+# ── category landing refresh ─────────────────────────────────────────────────
+
+def refresh_landing_pages(wiki_files) -> list[Path]:
+    """Regenerate the landing page of every folder that just received a wiki page.
+
+    Returns the landing paths whose content actually changed.
+
+    Why this runs at ingest: a landing page's `## Papers in this Category` table
+    is a static snapshot written once by gen-category-landing.py. Nothing else
+    regenerates it, so each ingest silently widened the gap between a folder's
+    table and its real contents. Measured 2026-08-29 before this hook existed:
+    35 of 121 landing pages had drifted (worst `overviews` 267 rows vs 280 files,
+    `drug/analgesics` 52 vs 63). The drift is invisible — no audit failed and no
+    link broke, the tables just quietly under-reported.
+
+    Note this only covers papers that arrive through --finish; pages written by
+    other paths (deepseek-split, ad-hoc batch scripts, hand edits) still need
+    `gen-category-landing.py --only <rel-path>` run for their folder.
+
+    Non-fatal by design: a landing refresh failure warns and continues, because
+    the paper itself is already committed and is the thing that matters.
+    """
+    changed: list[Path] = []
+    # Resolve against REPO so both absolute paths (what WIKI.rglob yields at the
+    # real call site) and repo-relative ones work; a stray ValueError in here
+    # would abort cmd_finish after the paper was committed but before it pushed.
+    folders = sorted({(REPO / wf).resolve().parent for wf in wiki_files})
+    for folder in folders:
+        try:
+            if folder == WIKI:
+                continue  # wiki root has no landing page
+            rel = folder.relative_to(WIKI).as_posix()
+            r = subprocess.run(
+                [sys.executable, str(REPO / "scripts" / "gen-category-landing.py"),
+                 "--only", rel],
+                cwd=str(REPO), capture_output=True, text=True,
+            )
+            if r.returncode != 0:
+                print(f"  [warn] landing refresh failed for {rel}: "
+                      f"{r.stderr.strip() or r.stdout.strip()}")
+                continue
+            landing = folder / f"{folder.name}.md"
+            if not landing.exists():
+                print(f"  [warn] landing refresh produced no file for {rel}")
+                continue
+            _, out, _ = git(["status", "--porcelain", str(landing.relative_to(REPO))])
+            if out.strip():
+                changed.append(landing)
+        except Exception as e:  # never let an index refresh sink a finished ingest
+            print(f"  [warn] landing refresh errored for {folder}: {e}")
+    return changed
+
+
 # ── commands ──────────────────────────────────────────────────────────────────
 
 def cmd_next():
@@ -149,6 +203,17 @@ def cmd_finish(stem: str):
         parts = rel.parts  # ('wiki', 'category', 'stem.md') or deeper
         category = parts[1] if len(parts) >= 3 else "wiki"
         commit_file(str(rel), f"wiki({category}): {stem}")
+        files_committed += 1
+
+    # Category landing page(s) — the new paper must appear in its folder's table.
+    # Without this the table drifts a little further out of date on every ingest
+    # (see refresh_landing_pages docstring for the measured damage).
+    for landing in refresh_landing_pages(wiki_files):
+        landing_cat = landing.parent.relative_to(WIKI).as_posix()
+        commit_file(
+            str(landing.relative_to(REPO)),
+            f"wiki({landing_cat}): 랜딩 인덱스 갱신 (+{stem})"
+        )
         files_committed += 1
 
     # index.md — commit only if staged changes exist after adding
