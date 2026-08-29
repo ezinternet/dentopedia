@@ -10,9 +10,9 @@ evidence_level: synthesis
 source_collection: synthesis
 tags: [overview, apical-patency, endodontics, shaping, glide-path, postoperative-pain, working-length, healing]
 relations:
-  - type: synthesizes
+  - type: extends
     target: endodontics/shaping/ishizaki-2026-clinical-significance-anatomical-considerations-apical-patency
-  - type: synthesizes
+  - type: extends
     target: endodontics/shaping/kuzhanchinathan-2024-influence-apical-patency-endodontic-treatment
 ---
 
