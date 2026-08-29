@@ -1,0 +1,1404 @@
+<!DOCTYPE html>
+<html lang="ko" data-theme="">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>임플란트 식립방향 — 부위별 해부학적 제약</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,300;0,400;0,600;1,300;1,400&family=IBM+Plex+Sans:wght@300;400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* ── TOKENS ── */
+:root {
+  --bg:       #F0F4F8;
+  --bg2:      #E5ECF3;
+  --surface:  #FFFFFF;
+  --surface2: #F7FAFC;
+  --border:   #D0DCE8;
+  --ink:      #1A2B3C;
+  --ink2:     #4A607A;
+  --ink3:     #7A8FA0;
+  --accent:   #147D87;
+  --accent-l: #E8F5F6;
+  --warn:     #B87B00;
+  --warn-l:   #FFF8E6;
+  --danger:   #BE3B2A;
+  --danger-l: #FDEEEC;
+  --safe:     #2E7D5A;
+  --safe-l:   #E6F4EE;
+  --mono-bg:  #EFF3F7;
+  --shadow:   0 1px 3px rgba(26,43,60,0.08), 0 4px 12px rgba(26,43,60,0.05);
+  --shadow-lg:0 2px 8px rgba(26,43,60,0.1), 0 8px 24px rgba(26,43,60,0.08);
+  --radius:   6px;
+  --radius-lg:10px;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg:       #0D1721;
+    --bg2:      #14212F;
+    --surface:  #182434;
+    --surface2: #1E2E40;
+    --border:   #283D52;
+    --ink:      #E4EBF4;
+    --ink2:     #9DB5C8;
+    --ink3:     #608098;
+    --accent:   #1A9CA8;
+    --accent-l: #0C2830;
+    --warn:     #D4980A;
+    --warn-l:   #1E1500;
+    --danger:   #D94F3C;
+    --danger-l: #200C09;
+    --safe:     #3AA06E;
+    --safe-l:   #071A10;
+    --mono-bg:  #101E2C;
+    --shadow:   0 1px 4px rgba(0,0,0,0.3), 0 4px 16px rgba(0,0,0,0.2);
+    --shadow-lg:0 2px 10px rgba(0,0,0,0.35), 0 8px 28px rgba(0,0,0,0.25);
+  }
+}
+:root[data-theme="dark"] {
+  --bg:       #0D1721;
+  --bg2:      #14212F;
+  --surface:  #182434;
+  --surface2: #1E2E40;
+  --border:   #283D52;
+  --ink:      #E4EBF4;
+  --ink2:     #9DB5C8;
+  --ink3:     #608098;
+  --accent:   #1A9CA8;
+  --accent-l: #0C2830;
+  --warn:     #D4980A;
+  --warn-l:   #1E1500;
+  --danger:   #D94F3C;
+  --danger-l: #200C09;
+  --safe:     #3AA06E;
+  --safe-l:   #071A10;
+  --mono-bg:  #101E2C;
+  --shadow:   0 1px 4px rgba(0,0,0,0.3), 0 4px 16px rgba(0,0,0,0.2);
+  --shadow-lg:0 2px 10px rgba(0,0,0,0.35), 0 8px 28px rgba(0,0,0,0.25);
+}
+
+/* ── RESET ── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { font-size: 16px; scroll-behavior: smooth; }
+body {
+  font-family: 'IBM Plex Sans', system-ui, sans-serif;
+  background: var(--bg);
+  color: var(--ink);
+  line-height: 1.6;
+  min-height: 100vh;
+}
+a { color: var(--accent); }
+table { border-collapse: collapse; width: 100%; }
+button { cursor: pointer; font-family: inherit; }
+
+/* ── HEADER ── */
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+  box-shadow: var(--shadow);
+}
+.header-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 24px;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  height: 56px;
+}
+.header-title {
+  font-family: 'IBM Plex Serif', Georgia, serif;
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--ink);
+  letter-spacing: -0.01em;
+  white-space: nowrap;
+}
+.header-sub {
+  font-size: 0.78rem;
+  color: var(--ink3);
+  font-weight: 400;
+  white-space: nowrap;
+}
+.header-spacer { flex: 1; }
+.theme-btn {
+  background: var(--bg2);
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  padding: 5px 12px;
+  font-size: 0.75rem;
+  font-weight: 500;
+  color: var(--ink2);
+  transition: background 0.2s, color 0.2s;
+  white-space: nowrap;
+}
+.theme-btn:hover { background: var(--border); color: var(--ink); }
+
+/* ── HERO ── */
+.hero {
+  background: var(--accent);
+  color: #fff;
+  position: relative;
+  overflow: hidden;
+  padding: 40px 24px 36px;
+}
+.hero::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image:
+    repeating-linear-gradient(0deg, rgba(255,255,255,0.04) 0, rgba(255,255,255,0.04) 1px, transparent 1px, transparent 40px),
+    repeating-linear-gradient(90deg, rgba(255,255,255,0.04) 0, rgba(255,255,255,0.04) 1px, transparent 1px, transparent 60px);
+  pointer-events: none;
+}
+.hero-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  position: relative;
+}
+.hero-eyebrow {
+  font-size: 0.72rem;
+  font-weight: 500;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  opacity: 0.7;
+  margin-bottom: 10px;
+}
+.hero-headline {
+  font-family: 'IBM Plex Serif', Georgia, serif;
+  font-size: clamp(1.5rem, 3vw, 2.2rem);
+  font-weight: 300;
+  line-height: 1.25;
+  letter-spacing: -0.02em;
+  margin-bottom: 12px;
+  text-wrap: balance;
+}
+.hero-headline strong { font-weight: 600; }
+.hero-body {
+  font-size: 0.9rem;
+  opacity: 0.85;
+  max-width: 600px;
+  line-height: 1.65;
+}
+.hero-pills {
+  margin-top: 18px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.hero-pill {
+  background: rgba(255,255,255,0.15);
+  border: 1px solid rgba(255,255,255,0.25);
+  border-radius: 20px;
+  padding: 4px 12px;
+  font-size: 0.75rem;
+  font-family: 'IBM Plex Mono', monospace;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+}
+
+/* ── TAB BAR ── */
+.tab-bar-wrap {
+  position: sticky;
+  top: 56px;
+  z-index: 90;
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+}
+.tab-bar {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 24px;
+  display: flex;
+  gap: 0;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+.tab-bar::-webkit-scrollbar { display: none; }
+.tab-btn {
+  flex-shrink: 0;
+  background: none;
+  border: none;
+  border-bottom: 3px solid transparent;
+  padding: 14px 18px 12px;
+  font-size: 0.82rem;
+  font-weight: 500;
+  color: var(--ink3);
+  transition: color 0.15s, border-color 0.15s;
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  white-space: nowrap;
+}
+.tab-btn:hover { color: var(--ink2); }
+.tab-btn.active {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+}
+.tab-risk {
+  width: 18px; height: 18px;
+  border-radius: 50%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.65rem;
+  font-weight: 600;
+  font-family: 'IBM Plex Mono', monospace;
+  flex-shrink: 0;
+}
+.risk-1 { background: var(--safe-l); color: var(--safe); }
+.risk-2 { background: var(--warn-l); color: var(--warn); }
+.risk-3 { background: #FFF0E0; color: #C06000; }
+.risk-4 { background: var(--danger-l); color: var(--danger); }
+
+/* ── MAIN CONTENT ── */
+.main {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 32px 24px 60px;
+}
+.tab-panel { display: none; }
+.tab-panel.active { display: block; }
+
+/* ── REGION HEADER ── */
+.region-header {
+  margin-bottom: 28px;
+}
+.region-eyebrow {
+  font-size: 0.72rem;
+  font-weight: 500;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--ink3);
+  margin-bottom: 6px;
+}
+.region-title {
+  font-family: 'IBM Plex Serif', Georgia, serif;
+  font-size: clamp(1.4rem, 2.5vw, 1.9rem);
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  color: var(--ink);
+  margin-bottom: 6px;
+  text-wrap: balance;
+}
+.region-constraint {
+  font-size: 0.9rem;
+  color: var(--ink2);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.constraint-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  background: var(--accent-l);
+  color: var(--accent);
+  border: 1px solid rgba(20,125,135,0.2);
+  border-radius: 4px;
+  padding: 3px 9px;
+  font-size: 0.75rem;
+  font-weight: 500;
+}
+
+/* ── STAT GRID ── */
+.stat-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 14px;
+  margin-bottom: 28px;
+}
+.stat-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 18px 16px 14px;
+  box-shadow: var(--shadow);
+  position: relative;
+  overflow: hidden;
+}
+.stat-card::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 3px;
+  background: var(--card-color, var(--accent));
+}
+.stat-card.safe  { --card-color: var(--safe); }
+.stat-card.warn  { --card-color: var(--warn); }
+.stat-card.danger{ --card-color: var(--danger); }
+.stat-card.neutral{ --card-color: var(--ink3); }
+
+.stat-label {
+  font-size: 0.72rem;
+  font-weight: 500;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--ink3);
+  margin-bottom: 8px;
+}
+.stat-value {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 1.7rem;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+  color: var(--ink);
+  line-height: 1;
+  margin-bottom: 4px;
+  font-variant-numeric: tabular-nums;
+}
+.stat-value .unit {
+  font-size: 0.9rem;
+  font-weight: 400;
+  color: var(--ink2);
+}
+.stat-note {
+  font-size: 0.75rem;
+  color: var(--ink3);
+  line-height: 1.4;
+}
+
+/* ── VISUAL SECTIONS ── */
+.visual-section {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 22px 20px;
+  margin-bottom: 24px;
+  box-shadow: var(--shadow);
+}
+.visual-section h3 {
+  font-family: 'IBM Plex Serif', Georgia, serif;
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--ink);
+  margin-bottom: 16px;
+  letter-spacing: -0.01em;
+}
+
+/* IAC distance bars */
+.iac-bars { display: flex; flex-direction: column; gap: 14px; }
+.iac-row { display: grid; grid-template-columns: 100px 1fr auto; align-items: center; gap: 12px; }
+.iac-label { font-size: 0.8rem; font-weight: 500; color: var(--ink2); }
+.iac-bar-wrap { background: var(--bg2); border-radius: 4px; height: 24px; position: relative; overflow: visible; }
+.iac-bar {
+  height: 100%;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  padding-left: 8px;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.75rem;
+  font-weight: 500;
+  color: #fff;
+  transition: width 0.6s cubic-bezier(0.4,0,0.2,1);
+  position: relative;
+}
+.safety-line {
+  position: absolute;
+  top: -4px;
+  bottom: -4px;
+  width: 2px;
+  background: var(--danger);
+  border-radius: 2px;
+  z-index: 2;
+}
+.safety-line::after {
+  content: '≥2mm 마진';
+  position: absolute;
+  top: -20px;
+  left: 4px;
+  font-size: 0.62rem;
+  font-family: 'IBM Plex Mono', monospace;
+  color: var(--danger);
+  white-space: nowrap;
+  font-weight: 500;
+}
+.iac-val {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: var(--ink);
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+}
+
+/* CPDU risk matrix */
+.cpdu-matrix { overflow-x: auto; }
+.cpdu-table { min-width: 480px; }
+.cpdu-table th {
+  background: var(--bg2);
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--ink2);
+  padding: 8px 12px;
+  text-align: left;
+  border-bottom: 1px solid var(--border);
+}
+.cpdu-table td {
+  padding: 9px 12px;
+  font-size: 0.82rem;
+  border-bottom: 1px solid var(--border);
+  color: var(--ink);
+}
+.cpdu-table tr:last-child td { border-bottom: none; }
+.risk-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  border-radius: 4px;
+  padding: 3px 9px;
+  font-size: 0.72rem;
+  font-weight: 600;
+}
+.risk-chip.low    { background: var(--safe-l); color: var(--safe); }
+.risk-chip.mod    { background: var(--warn-l); color: var(--warn); }
+.risk-chip.high   { background: #FFEEDD; color: #C06000; }
+.risk-chip.highest{ background: var(--danger-l); color: var(--danger); }
+
+/* Deviation gauge */
+.deviation-gauge { max-width: 480px; }
+.gauge-track {
+  height: 28px;
+  background: linear-gradient(90deg, var(--safe) 0%, var(--safe) 30%, var(--warn) 50%, var(--danger) 80%);
+  border-radius: 6px;
+  position: relative;
+  margin-bottom: 6px;
+}
+.gauge-needle {
+  position: absolute;
+  top: -4px;
+  bottom: -4px;
+  width: 3px;
+  background: var(--ink);
+  border-radius: 3px;
+  transition: left 0.5s cubic-bezier(0.4,0,0.2,1);
+}
+.gauge-needle::before {
+  content: attr(data-label);
+  position: absolute;
+  bottom: calc(100% + 6px);
+  left: 50%;
+  transform: translateX(-50%);
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.72rem;
+  font-weight: 500;
+  color: var(--ink);
+  white-space: nowrap;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 2px 7px;
+}
+.gauge-labels {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.68rem;
+  color: var(--ink3);
+  font-family: 'IBM Plex Mono', monospace;
+  margin-bottom: 12px;
+}
+.gauge-legend {
+  display: flex; gap: 16px; flex-wrap: wrap;
+}
+.gauge-legend-item {
+  display: flex; align-items: center; gap: 6px;
+  font-size: 0.75rem; color: var(--ink2);
+}
+.gauge-legend-dot {
+  width: 10px; height: 10px; border-radius: 2px;
+}
+
+/* MBL comparison bars */
+.mbl-compare { display: flex; flex-direction: column; gap: 16px; max-width: 440px; }
+.mbl-row { display: flex; flex-direction: column; gap: 5px; }
+.mbl-row-head { display: flex; justify-content: space-between; align-items: baseline; }
+.mbl-row-label { font-size: 0.8rem; font-weight: 500; color: var(--ink2); }
+.mbl-row-val { font-family: 'IBM Plex Mono', monospace; font-size: 0.85rem; font-weight: 500; color: var(--ink); }
+.mbl-bar-bg { background: var(--bg2); border-radius: 4px; height: 20px; }
+.mbl-bar-fill { height: 100%; border-radius: 4px; transition: width 0.7s cubic-bezier(0.4,0,0.2,1); }
+.mbl-note { font-size: 0.75rem; color: var(--ink3); margin-top: 6px; }
+
+/* ── PROTOCOL BOX ── */
+.protocol-box {
+  background: var(--accent-l);
+  border: 1px solid rgba(20,125,135,0.2);
+  border-left: 4px solid var(--accent);
+  border-radius: var(--radius);
+  padding: 16px 18px;
+  margin-bottom: 24px;
+}
+.protocol-box.warn {
+  background: var(--warn-l);
+  border-color: rgba(184,123,0,0.2);
+  border-left-color: var(--warn);
+}
+.protocol-label {
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 6px;
+}
+.protocol-box.warn .protocol-label { color: var(--warn); }
+.protocol-text {
+  font-size: 0.88rem;
+  color: var(--ink);
+  line-height: 1.7;
+}
+.protocol-text strong { font-weight: 600; }
+.protocol-text code {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.85em;
+  background: var(--mono-bg);
+  padding: 1px 5px;
+  border-radius: 3px;
+  font-weight: 500;
+}
+
+/* ── PAPER BADGE ── */
+.paper-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 7px 12px;
+  background: var(--surface2);
+  font-size: 0.78rem;
+  color: var(--ink2);
+  margin-bottom: 28px;
+}
+.paper-badge .pi { font-family: 'IBM Plex Serif', serif; font-style: italic; color: var(--ink); }
+.paper-badge .ev {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.7rem;
+  background: var(--bg2);
+  padding: 2px 7px;
+  border-radius: 3px;
+  color: var(--ink3);
+}
+
+/* ── COMPARISON TABLE ── */
+.compare-section {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  box-shadow: var(--shadow);
+  margin-top: 40px;
+}
+.compare-header {
+  background: var(--bg2);
+  border-bottom: 1px solid var(--border);
+  padding: 16px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.compare-header h2 {
+  font-family: 'IBM Plex Serif', serif;
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--ink);
+  letter-spacing: -0.01em;
+}
+.toggle-btn {
+  background: var(--accent);
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 6px 14px;
+  font-size: 0.78rem;
+  font-weight: 500;
+  transition: opacity 0.15s;
+}
+.toggle-btn:hover { opacity: 0.88; }
+.compare-body { overflow-x: auto; }
+.compare-table th {
+  background: var(--bg2);
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--ink2);
+  padding: 10px 14px;
+  text-align: left;
+  border-bottom: 1px solid var(--border);
+  white-space: nowrap;
+}
+.compare-table td {
+  padding: 11px 14px;
+  font-size: 0.82rem;
+  color: var(--ink);
+  border-bottom: 1px solid var(--border);
+  vertical-align: top;
+}
+.compare-table tr:last-child td { border-bottom: none; }
+.compare-table tr:hover td { background: var(--surface2); }
+.mono { font-family: 'IBM Plex Mono', monospace; font-weight: 500; font-variant-numeric: tabular-nums; }
+.site-label {
+  font-weight: 600;
+  color: var(--ink);
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+.site-dot {
+  width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0;
+}
+
+/* ── FOOTER ── */
+.site-footer {
+  border-top: 1px solid var(--border);
+  background: var(--surface);
+  padding: 18px 24px;
+  text-align: center;
+  font-size: 0.74rem;
+  color: var(--ink3);
+  line-height: 1.6;
+}
+
+/* ── RESPONSIVE ── */
+@media (max-width: 640px) {
+  .stat-grid { grid-template-columns: 1fr 1fr; gap: 10px; }
+  .iac-row { grid-template-columns: 80px 1fr auto; }
+  .compare-table th, .compare-table td { padding: 8px 10px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; }
+}
+</style>
+</head>
+<body>
+
+<!-- HEADER -->
+<header class="site-header">
+  <div class="header-inner">
+    <span class="header-title">식립방향 임상 가이드</span>
+    <span class="header-sub">부위별 해부학적 제약 · CBCT 임계값</span>
+    <span class="header-spacer"></span>
+    <button class="theme-btn" onclick="toggleTheme()" aria-label="테마 전환">
+      테마 전환
+    </button>
+  </div>
+</header>
+
+<!-- HERO -->
+<div class="hero">
+  <div class="hero-inner">
+    <div class="hero-eyebrow">Implant Placement Direction · 2026 Evidence Synthesis</div>
+    <h1 class="hero-headline">
+      <strong>해부학이 기울기를 강제한다</strong><br>
+      CBCT가 여백을 계량화한다
+    </h1>
+    <p class="hero-body">
+      6편 종합 — 부위마다 지배 해부구조가 다르고, 안전 축 이탈의 대가는 부위마다 다르다. 모든 임계값은 CBCT 연구에서 도출됐다.
+    </p>
+    <div class="hero-pills">
+      <span class="hero-pill">fettouh 2026</span>
+      <span class="hero-pill">najm 2024</span>
+      <span class="hero-pill">behfarnia 2025 SR+MA</span>
+      <span class="hero-pill">alqaood 2026</span>
+      <span class="hero-pill">jia 2025</span>
+      <span class="hero-pill">kim 2026</span>
+    </div>
+  </div>
+</div>
+
+<!-- TAB BAR -->
+<div class="tab-bar-wrap">
+  <nav class="tab-bar" role="tablist">
+    <button class="tab-btn active" role="tab" aria-selected="true"  onclick="switchTab(0)" data-tab="0">
+      <span class="tab-risk risk-1">L</span> 전치부 상악
+    </button>
+    <button class="tab-btn" role="tab" aria-selected="false" onclick="switchTab(1)" data-tab="1">
+      <span class="tab-risk risk-2">M</span> 상악 소구치
+    </button>
+    <button class="tab-btn" role="tab" aria-selected="false" onclick="switchTab(2)" data-tab="2">
+      <span class="tab-risk risk-3">H</span> 후방 하악 IAC
+    </button>
+    <button class="tab-btn" role="tab" aria-selected="false" onclick="switchTab(3)" data-tab="3">
+      <span class="tab-risk risk-4">!</span> 후방 하악 능선
+    </button>
+    <button class="tab-btn" role="tab" aria-selected="false" onclick="switchTab(4)" data-tab="4">
+      <span class="tab-risk risk-3">H</span> 후방 상악 TSFE
+    </button>
+    <button class="tab-btn" role="tab" aria-selected="false" onclick="switchTab(5)" data-tab="5">
+      <span class="tab-risk risk-2">Δ</span> 생물역학
+    </button>
+  </nav>
+</div>
+
+<!-- MAIN -->
+<main class="main">
+
+<!-- ══ TAB 0: 전치부 상악 ══ -->
+<section class="tab-panel active" id="panel-0">
+  <div class="region-header">
+    <div class="region-eyebrow">Region 1 · Anterior Maxilla</div>
+    <h2 class="region-title">전치부 상악 — Safe Angle Concept</h2>
+    <div class="region-constraint">
+      <span class="constraint-badge">지배 제약</span>
+      발치와 팔라탈 사면이 드릴을 협측으로 밀어낸다
+    </div>
+  </div>
+
+  <div class="stat-grid">
+    <div class="stat-card safe">
+      <div class="stat-label">각도 편차 달성값</div>
+      <div class="stat-value">4.56<span class="unit">°</span></div>
+      <div class="stat-note">± 3.14° — 2-guide plateau-drill</div>
+    </div>
+    <div class="stat-card safe">
+      <div class="stat-label">Safe angle 내 식립</div>
+      <div class="stat-value">26<span class="unit">/26</span></div>
+      <div class="stat-note">각도형 지대주 0개 필요</div>
+    </div>
+    <div class="stat-card neutral">
+      <div class="stat-label">Platform 편차</div>
+      <div class="stat-value">0.91<span class="unit">mm</span></div>
+      <div class="stat-note">Apex 1.47 mm</div>
+    </div>
+    <div class="stat-card safe">
+      <div class="stat-label">순측골 두께 (9개월)</div>
+      <div class="stat-value">2.13<span class="unit">mm</span></div>
+      <div class="stat-note">PES 11.89 ± 1.75</div>
+    </div>
+  </div>
+
+  <div class="visual-section">
+    <h3>각도 편차 분포 — 팔라탈 방향 vs 협측 이탈</h3>
+    <div class="deviation-gauge">
+      <div class="gauge-track">
+        <div class="gauge-needle" style="left:22%" data-label="4.56°"></div>
+      </div>
+      <div class="gauge-labels">
+        <span>0°</span><span>5°</span><span>10°</span><span>15°+</span>
+      </div>
+      <div class="gauge-legend">
+        <div class="gauge-legend-item">
+          <div class="gauge-legend-dot" style="background:var(--safe)"></div>
+          <span>Safe angle 내 (팔라탈 위치 유지)</span>
+        </div>
+        <div class="gauge-legend-item">
+          <div class="gauge-legend-dot" style="background:var(--warn)"></div>
+          <span>경계 — 각도형 지대주 필요 가능성</span>
+        </div>
+        <div class="gauge-legend-item">
+          <div class="gauge-legend-dot" style="background:var(--danger)"></div>
+          <span>협측 이탈 — 퇴축 위험</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="protocol-box">
+    <div class="protocol-label">Direction Rule — Anterior Maxilla</div>
+    <div class="protocol-text">
+      항상 <strong>팔라탈 숄더 위치</strong>를 목표로 계획한다. CBCT로 치근 경로와 이용 가능한 팔라탈 첨단 골을 확인한다.<br>
+      Safe angle을 프리핸드로 달성할 수 없을 때 → <strong>plateau-drill 2-guide 접근법</strong>이 적응증이다.<br>
+      전치부는 각도 기울기가 아니라 <strong>위치(팔라탈 유지)</strong>가 제약이다 — 진정한 축방향 식립이 가능한 부위.
+    </div>
+  </div>
+
+  <div class="paper-badge">
+    <span class="pi">Fettouh 2026</span>
+    <span>Prospective · n=26 · anterior maxilla IIP · Safe Angle Concept</span>
+    <span class="ev">prospective</span>
+  </div>
+</section>
+
+<!-- ══ TAB 1: 상악 소구치 ══ -->
+<section class="tab-panel" id="panel-1">
+  <div class="region-header">
+    <div class="region-eyebrow">Region 2 · Maxillary Premolar</div>
+    <h2 class="region-title">상악 소구치 — ILAA 18.3° 순측 기울기</h2>
+    <div class="region-constraint">
+      <span class="constraint-badge">지배 제약</span>
+      팔라탈 함몰(LCA 156°)이 피질골 천공을 강제한다
+    </div>
+  </div>
+
+  <div class="stat-grid">
+    <div class="stat-card danger">
+      <div class="stat-label">보철 주도 방향 천공률</div>
+      <div class="stat-value">84.1<span class="unit">%</span></div>
+      <div class="stat-note">치아 장축 = 피질골 관통</div>
+    </div>
+    <div class="stat-card warn">
+      <div class="stat-label">골 주도 방향 천공률</div>
+      <div class="stat-value">40.5<span class="unit">%</span></div>
+      <div class="stat-note">최적화 후에도 잔존 위험</div>
+    </div>
+    <div class="stat-card warn">
+      <div class="stat-label">필요 순측 기울기 (ILAA)</div>
+      <div class="stat-value">18.3<span class="unit">°</span></div>
+      <div class="stat-note">± 8.0° · #15 최대 20.6°</div>
+    </div>
+    <div class="stat-card neutral">
+      <div class="stat-label">골 주도 최소 길이</div>
+      <div class="stat-value">13.0<span class="unit">mm</span></div>
+      <div class="stat-note">± 2.1 mm · ≥4mm 첨단 고정 필요</div>
+    </div>
+  </div>
+
+  <div class="visual-section">
+    <h3>치위별 ILAA (임플란트 장축 순측 기울기)</h3>
+    <div class="iac-bars">
+      <div class="iac-row">
+        <div class="iac-label">#15 (UPM2R)</div>
+        <div class="iac-bar-wrap">
+          <div class="iac-bar" style="width:68%;background:var(--danger)">20.6°</div>
+        </div>
+        <div class="iac-val">20.6°</div>
+      </div>
+      <div class="iac-row">
+        <div class="iac-label">#14 (UPM1R)</div>
+        <div class="iac-bar-wrap">
+          <div class="iac-bar" style="width:58%;background:var(--warn)">17.5°</div>
+        </div>
+        <div class="iac-val">17.5°</div>
+      </div>
+      <div class="iac-row">
+        <div class="iac-label">#24 (UPM1L)</div>
+        <div class="iac-bar-wrap">
+          <div class="iac-bar" style="width:55%;background:var(--warn)">16.7°</div>
+        </div>
+        <div class="iac-val">16.7°</div>
+      </div>
+      <div class="iac-row">
+        <div class="iac-label">#25 (UPM2L)</div>
+        <div class="iac-bar-wrap">
+          <div class="iac-bar" style="width:68%;background:var(--danger)">20.3°</div>
+        </div>
+        <div class="iac-val">20.3°</div>
+      </div>
+      <div class="iac-row">
+        <div class="iac-label">전체 평균</div>
+        <div class="iac-bar-wrap">
+          <div class="iac-bar" style="width:61%;background:var(--accent)">18.3°</div>
+        </div>
+        <div class="iac-val" style="color:var(--accent)">18.3°</div>
+      </div>
+    </div>
+    <p style="font-size:0.72rem;color:var(--ink3);margin-top:12px;">막대 길이는 0°–30° 범위 비례. 2소구치(#15/#25)가 1소구치보다 일관되게 위험도 높음.</p>
+  </div>
+
+  <div class="protocol-box warn">
+    <div class="protocol-label">Direction Rule — Maxillary Premolar</div>
+    <div class="protocol-text">
+      CBCT 필수 — 2D로는 천공 위험을 계량화할 수 없다.<br>
+      치아 장축에서 순측으로 <strong>~18° 기울기</strong>를 기본값으로 계획한다;<br>
+      <strong>각도형 또는 각도 나사통로 지대주</strong>를 초진부터 계획에 포함한다.<br>
+      위험인자: 여성(OR 2.36), 고령(OR 1.034/yr), 짧은 치아-첨단 거리, 작은 LCA.
+    </div>
+  </div>
+
+  <div class="paper-badge">
+    <span class="pi">Najm 2024</span>
+    <span>CBCT virtual · 179명 / 716치 · 상악 소구치 IIP</span>
+    <span class="ev">cross-sectional</span>
+  </div>
+</section>
+
+<!-- ══ TAB 2: 후방 하악 IAC ══ -->
+<section class="tab-panel" id="panel-2">
+  <div class="region-header">
+    <div class="region-eyebrow">Region 3 · Posterior Mandible — IAC</div>
+    <h2 class="region-title">후방 하악 — 하치조신경관 안전거리</h2>
+    <div class="region-constraint">
+      <span class="constraint-badge">지배 제약</span>
+      하치조신경관 (IAC) 근접도가 임플란트 길이와 방향을 제한한다
+    </div>
+  </div>
+
+  <div class="stat-grid">
+    <div class="stat-card warn">
+      <div class="stat-label">2소구치 → IAC</div>
+      <div class="stat-value">5.14<span class="unit">mm</span></div>
+      <div class="stat-note">최대 유효 길이: ~3.1mm</div>
+    </div>
+    <div class="stat-card safe">
+      <div class="stat-label">1대구치 → IAC</div>
+      <div class="stat-value">6.32<span class="unit">mm</span></div>
+      <div class="stat-note">가장 여유있는 부위</div>
+    </div>
+    <div class="stat-card danger">
+      <div class="stat-label">2대구치 → IAC</div>
+      <div class="stat-value">4.65<span class="unit">mm</span></div>
+      <div class="stat-note">최단 — 예상보다 짧음</div>
+    </div>
+    <div class="stat-card danger">
+      <div class="stat-label">IAC 안전 마진</div>
+      <div class="stat-value">≥2<span class="unit">mm</span></div>
+      <div class="stat-note">유효 길이 = 거리 − 2mm</div>
+    </div>
+  </div>
+
+  <div class="visual-section">
+    <h3>부위별 치근첨 → IAC 거리 (SR+MA, n=1,834)</h3>
+    <div class="iac-bars" style="position:relative; padding-top: 28px;">
+      <div class="iac-row">
+        <div class="iac-label">2소구치 (2PM)</div>
+        <div class="iac-bar-wrap" id="bar-2pm">
+          <div class="iac-bar" style="width:72%;background:var(--warn)">5.14mm</div>
+          <div class="safety-line" style="left:28%">
+            <span style="display:none">≥2mm 마진</span>
+          </div>
+        </div>
+        <div class="iac-val">5.14 mm</div>
+      </div>
+      <div class="iac-row">
+        <div class="iac-label">1대구치 (1M)</div>
+        <div class="iac-bar-wrap">
+          <div class="iac-bar" style="width:88%;background:var(--safe)">6.32mm</div>
+        </div>
+        <div class="iac-val">6.32 mm</div>
+      </div>
+      <div class="iac-row">
+        <div class="iac-label">2대구치 (2M)</div>
+        <div class="iac-bar-wrap">
+          <div class="iac-bar" style="width:65%;background:var(--danger)">4.65mm</div>
+        </div>
+        <div class="iac-val">4.65 mm</div>
+      </div>
+    </div>
+    <p style="font-size:0.72rem;color:var(--ink3);margin-top:14px;">
+      막대 = 거리 비례 (최대 7.2mm 기준). <span style="color:var(--danger);font-weight:600;">2대구치가 역설적으로 가장 짧다</span> — IAC가 이 부위에서 근심 상행하기 때문. ≥2mm 마진 적용 시 실제 임플란트 길이 여유가 극히 제한됨.
+    </p>
+  </div>
+
+  <div class="protocol-box">
+    <div class="protocol-label">Direction Rule — Posterior Mandible (IAC)</div>
+    <div class="protocol-text">
+      CBCT에서 치근첨→IAC를 측정한다. <strong>안전 마진 ≥2mm</strong> 적용.<br>
+      최대 안전 임플란트 길이 = 측정 거리 − 2mm.<br>
+      2대구치가 가장 위험한 부위 — 단임플란트 필수 고려.<br>
+      축방향이 근원심 방향으로 유지돼야 한다: 기울어지면 한쪽에서 IAC 여백이 줄어든다.
+    </div>
+  </div>
+
+  <div class="paper-badge">
+    <span class="pi">Behfarnia 2025</span>
+    <span>SR+MA · 12 CBCT연구 · n=1,834 · 후방 하악 즉시식립 해부</span>
+    <span class="ev">sr+ma</span>
+  </div>
+</section>
+
+<!-- ══ TAB 3: 후방 하악 능선 ══ -->
+<section class="tab-panel" id="panel-3">
+  <div class="region-header">
+    <div class="region-eyebrow">Region 4 · Posterior Mandible — Ridge</div>
+    <h2 class="region-title">후방 하악 — CPDU 능선 분류와 설측판 천공</h2>
+    <div class="region-constraint">
+      <span class="constraint-badge">지배 제약</span>
+      설측 함몰이 식립 방향을 벗어나면 설측 피질골 천공(LPP)이 발생한다
+    </div>
+  </div>
+
+  <div class="stat-grid">
+    <div class="stat-card warn">
+      <div class="stat-label">U형 능선 유병률</div>
+      <div class="stat-value">54.4<span class="unit">%</span></div>
+      <div class="stat-note">좌측 (우측 52.1%) — 과반수</div>
+    </div>
+    <div class="stat-card danger">
+      <div class="stat-label">언더컷 있을 때 함몰 깊이</div>
+      <div class="stat-value">1.72<span class="unit">mm</span></div>
+      <div class="stat-note">vs 없을 때 0.61mm (P=0.001)</div>
+    </div>
+    <div class="stat-card warn">
+      <div class="stat-label">함몰 각도 (언더컷 능선)</div>
+      <div class="stat-value">~56<span class="unit">°</span></div>
+      <div class="stat-note">55–57° 범위</div>
+    </div>
+    <div class="stat-card danger">
+      <div class="stat-label">D-I 형 LPP 위험</div>
+      <div class="stat-value">최고<span class="unit"></span></div>
+      <div class="stat-note">좁은 기저부 + 고유 언더컷 + IAC 경로</div>
+    </div>
+  </div>
+
+  <div class="visual-section">
+    <h3>CPDU 분류 — 설측판 천공(LPP) 위험 매트릭스</h3>
+    <div class="cpdu-matrix">
+      <table class="cpdu-table">
+        <thead>
+          <tr>
+            <th>코드</th>
+            <th>능선 형태</th>
+            <th>언더컷</th>
+            <th>IAC 경로</th>
+            <th>LPP 위험</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><code style="font-family:'IBM Plex Mono',monospace;font-size:0.8em">C</code></td>
+            <td>수렴형 (넓은 기저부, 좁은 치조정)</td>
+            <td>없음</td>
+            <td>—</td>
+            <td><span class="risk-chip low">낮음</span></td>
+          </tr>
+          <tr>
+            <td><code style="font-family:'IBM Plex Mono',monospace;font-size:0.8em">P</code></td>
+            <td>평행형</td>
+            <td>없음</td>
+            <td>—</td>
+            <td><span class="risk-chip low">낮음</span></td>
+          </tr>
+          <tr>
+            <td><code style="font-family:'IBM Plex Mono',monospace;font-size:0.8em">C-U-N / P-U-N</code></td>
+            <td>수렴형 또는 평행형 + 언더컷</td>
+            <td>있음</td>
+            <td>비영향 (IAC 하방 또는 경로 외)</td>
+            <td><span class="risk-chip mod">중등도</span></td>
+          </tr>
+          <tr>
+            <td><code style="font-family:'IBM Plex Mono',monospace;font-size:0.8em">C-U-I / P-U-I</code></td>
+            <td>수렴형 또는 평행형 + 언더컷</td>
+            <td>있음</td>
+            <td><strong>영향 (IAC 상방, 경로 내)</strong></td>
+            <td><span class="risk-chip high">높음</span></td>
+          </tr>
+          <tr>
+            <td><code style="font-family:'IBM Plex Mono',monospace;font-size:0.8em">D-N</code></td>
+            <td>발산형 (좁은 기저부, 넓은 치조정) — 고유 언더컷</td>
+            <td>고유</td>
+            <td>비영향</td>
+            <td><span class="risk-chip high">높음</span></td>
+          </tr>
+          <tr>
+            <td><code style="font-family:'IBM Plex Mono',monospace;font-size:0.8em;font-weight:700">D-I</code></td>
+            <td><strong>발산형 — 고유 언더컷</strong></td>
+            <td><strong>고유</strong></td>
+            <td><strong>영향 (IAC 경로 내)</strong></td>
+            <td><span class="risk-chip highest">최고 위험 !</span></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <div class="protocol-box warn">
+    <div class="protocol-label">Direction Rule — Posterior Mandible (Ridge)</div>
+    <div class="protocol-text">
+      CBCT 이전 기본 가정: <strong>언더컷 있음 (54% 유병률)</strong>.<br>
+      CBCT로 CPDU 유형 결정 후 식립 축 계획.<br>
+      <strong>D-I형 및 U-I/C-U-I/P-U-I</strong>: ① 설측 함몰 방향에서 협측으로 이탈, ② 짧은 임플란트, ③ 술중 촉각 확인.<br>
+      2대구치: IAC 위험 + LPP 위험 동시 — 가장 복잡한 구치부 부위.
+    </div>
+  </div>
+
+  <div class="paper-badge">
+    <span class="pi">Alqaood 2026</span>
+    <span>CBCT retrospective · n=195 · 후방 하악 능선 형태 분류</span>
+    <span class="ev">cross-sectional</span>
+  </div>
+</section>
+
+<!-- ══ TAB 4: 후방 상악 TSFE ══ -->
+<section class="tab-panel" id="panel-4">
+  <div class="region-header">
+    <div class="region-eyebrow">Region 5 · Posterior Maxilla — TSFE</div>
+    <h2 class="region-title">후방 상악 — 상악동 저부 근접과 치조정접근 상악동 거상</h2>
+    <div class="region-constraint">
+      <span class="constraint-badge">지배 제약</span>
+      상악동 함기화로 잔존 치조골 높이(RBH) 4–9mm → TSFE 필요
+    </div>
+  </div>
+
+  <div class="stat-grid">
+    <div class="stat-card safe">
+      <div class="stat-label">r-CAIS 각도 편차</div>
+      <div class="stat-value">1.25<span class="unit">°</span></div>
+      <div class="stat-note">± 0.61° (95% CI 1.06–1.45)</div>
+    </div>
+    <div class="stat-card safe">
+      <div class="stat-label">막 천공률 (r-CAIS)</div>
+      <div class="stat-value">2.5<span class="unit">%</span></div>
+      <div class="stat-note">1/40 — vs 오스테오톰 단독 7.2%</div>
+    </div>
+    <div class="stat-card neutral">
+      <div class="stat-label">전반적 관상 편차</div>
+      <div class="stat-value">0.50<span class="unit">mm</span></div>
+      <div class="stat-note">첨단 0.54 mm</div>
+    </div>
+    <div class="stat-card warn">
+      <div class="stat-label">상악동 저부 안전 마진</div>
+      <div class="stat-value">1<span class="unit">mm</span></div>
+      <div class="stat-note">드릴링 프로토콜 — 수동 거상으로 마감</div>
+    </div>
+  </div>
+
+  <div class="visual-section">
+    <h3>막 천공률 비교 — 로봇 vs 오스테오톰 단독</h3>
+    <div class="mbl-compare">
+      <div class="mbl-row">
+        <div class="mbl-row-head">
+          <div class="mbl-row-label">r-CAIS + Summers 오스테오톰</div>
+          <div class="mbl-row-val" style="color:var(--safe)">2.5%</div>
+        </div>
+        <div class="mbl-bar-bg">
+          <div class="mbl-bar-fill" style="width:35%;background:var(--safe)"></div>
+        </div>
+        <div class="mbl-note">n=40 · Xi'an Jiaotong Univ · 1-mm 안전 마진 프로토콜</div>
+      </div>
+      <div class="mbl-row">
+        <div class="mbl-row-head">
+          <div class="mbl-row-label">오스테오톰 단독 (Stacchi MA 벤치마크)</div>
+          <div class="mbl-row-val" style="color:var(--danger)">7.2%</div>
+        </div>
+        <div class="mbl-bar-bg">
+          <div class="mbl-bar-fill" style="width:100%;background:var(--danger)"></div>
+        </div>
+        <div class="mbl-note">메타분석 기준값 — 프리핸드 술자 의존</div>
+      </div>
+    </div>
+    <p style="font-size:0.72rem;color:var(--ink3);margin-top:14px;">
+      막대는 7.2%를 100% 기준으로 정규화. LMM 분석: 타이밍(조기 vs 지연)만 편차에 유의 (P&lt;.05); 등록법(CBCT vs IOS), 골질, 임플란트 크기 모두 무의미.
+    </p>
+  </div>
+
+  <div class="protocol-box">
+    <div class="protocol-label">Direction Rule — Posterior Maxilla (TSFE)</div>
+    <div class="protocol-text">
+      CBCT에서 RBH를 측정한다. RBH <strong>4–9mm</strong> → TSFE 계획.<br>
+      임플란트 축은 <strong>교합면에 수직 (축방향 선호)</strong>; 후방 상악의 III/IV형 골은 비축방향 하중에 더 취약하다.<br>
+      드릴링 프로토콜에 <strong>1-mm 안전 마진</strong>을 적용하고 수동 오스테오톰으로 마감한다.<br>
+      로봇 또는 스태틱 가이드가 막 천공 위험을 유의하게 낮춘다 — 프리핸드는 7.2% 위험.
+    </div>
+  </div>
+
+  <div class="paper-badge">
+    <span class="pi">Jia 2025</span>
+    <span>Retrospective case series · n=40 · 후방 상악 r-CAIS + TSFE · Remebot</span>
+    <span class="ev">retrospective</span>
+  </div>
+</section>
+
+<!-- ══ TAB 5: 생물역학 ══ -->
+<section class="tab-panel" id="panel-5">
+  <div class="region-header">
+    <div class="region-eyebrow">Biomechanics · All Regions</div>
+    <h2 class="region-title">비축방향 식립의 생물역학적 대가</h2>
+    <div class="region-constraint">
+      <span class="constraint-badge">지배 제약</span>
+      비축방향 하중 → 5년 변연골 소실 차이 (P&lt;.05)
+    </div>
+  </div>
+
+  <div class="stat-grid">
+    <div class="stat-card danger">
+      <div class="stat-label">비축방향 5년 MBL</div>
+      <div class="stat-value">0.22<span class="unit">mm</span></div>
+      <div class="stat-note">± 0.48 (P&lt;.05 vs 축방향)</div>
+    </div>
+    <div class="stat-card safe">
+      <div class="stat-label">축방향 5년 MBL</div>
+      <div class="stat-value">0.10<span class="unit">mm</span></div>
+      <div class="stat-note">± 0.39 — 기준값</div>
+    </div>
+    <div class="stat-card danger">
+      <div class="stat-label">비축방향 × FDP 대합치 상호작용</div>
+      <div class="stat-value">+0.37<span class="unit">mm</span></div>
+      <div class="stat-note">Δ0.373 mm 추가 소실</div>
+    </div>
+    <div class="stat-card neutral">
+      <div class="stat-label">상악 vs 하악 차이</div>
+      <div class="stat-value">↑ 상악<span class="unit"></span></div>
+      <div class="stat-note">얇은 피질골·낮은 밀도 (P&lt;.001)</div>
+    </div>
+  </div>
+
+  <div class="visual-section">
+    <h3>5년 변연골 소실 비교 — 각도 방향별</h3>
+    <div class="mbl-compare">
+      <div class="mbl-row">
+        <div class="mbl-row-head">
+          <div class="mbl-row-label">축방향 (Axial)</div>
+          <div class="mbl-row-val" style="color:var(--safe)">0.10 mm</div>
+        </div>
+        <div class="mbl-bar-bg">
+          <div class="mbl-bar-fill" style="width:45%;background:var(--safe)"></div>
+        </div>
+      </div>
+      <div class="mbl-row">
+        <div class="mbl-row-head">
+          <div class="mbl-row-label">비축방향 (Nonaxial)</div>
+          <div class="mbl-row-val" style="color:var(--danger)">0.22 mm</div>
+        </div>
+        <div class="mbl-bar-bg">
+          <div class="mbl-bar-fill" style="width:100%;background:var(--danger)"></div>
+        </div>
+      </div>
+      <div class="mbl-row">
+        <div class="mbl-row-head">
+          <div class="mbl-row-label">비축방향 + 임플란트 지지 FDP 대합</div>
+          <div class="mbl-row-val" style="color:var(--danger)">0.59 mm</div>
+        </div>
+        <div class="mbl-bar-bg">
+          <div class="mbl-bar-fill" style="width:100%;background:var(--danger);opacity:0.7"></div>
+        </div>
+        <div class="mbl-note">0.22 + Δ0.373 mm 상호작용 — 가장 불리한 조합</div>
+      </div>
+    </div>
+    <p style="font-size:0.72rem;color:var(--ink3);margin-top:14px;">
+      n=506 임플란트 / 288명 · 5년 추적 · 3D CAD 각도 측정 (기존 2D 측정이 협설 기울기 누락하던 문제 해결).
+    </p>
+  </div>
+
+  <div class="protocol-box">
+    <div class="protocol-label">임상 적용 — 비축방향의 관리</div>
+    <div class="protocol-text">
+      비축방향 식립은 금기가 아니라 <strong>위험 인자</strong>다 — 교합 설계로 관리한다.<br>
+      ① 비축방향 임플란트의 교합 접촉을 최소화한다 (특히 캔틸레버, FDP 대합 회피).<br>
+      ② 각도형 지대주는 <strong>최소 각도 + 나사유지(multiunit)</strong> 선호.<br>
+      ③ 상악 비축방향 임플란트는 MBL을 더 자주 모니터링한다.<br>
+      해부학이 기울기를 강제하는 상황 (소구치 ILAA, TSFE) → 교합 설계가 보정 수단이다.
+    </div>
+  </div>
+
+  <div class="paper-badge">
+    <span class="pi">Kim 2026</span>
+    <span>Retrospective cohort · n=288 / 506 임플란트 · 5년 · 3D CAD 각도 측정</span>
+    <span class="ev">retrospective</span>
+  </div>
+</section>
+
+<!-- ══ COMPARISON TABLE ══ -->
+<div class="compare-section">
+  <div class="compare-header">
+    <h2>부위별 핵심 임계값 — 종합 비교</h2>
+    <button class="toggle-btn" onclick="toggleCompare()" id="compare-btn">펼치기</button>
+  </div>
+  <div id="compare-body" class="compare-body" style="display:none">
+    <table class="compare-table">
+      <thead>
+        <tr>
+          <th>부위</th>
+          <th>지배 제약</th>
+          <th>안전 축 목표</th>
+          <th>핵심 임계값</th>
+          <th>이탈 결과</th>
+          <th>근거</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><div class="site-label"><div class="site-dot" style="background:var(--safe)"></div>전치부 상악</div></td>
+          <td>팔라탈 사면 → 협측 이탈</td>
+          <td>팔라탈 숄더 위치</td>
+          <td class="mono">Safe angle 범위 (CBCT)</td>
+          <td>순측 퇴축, 각도형 지대주</td>
+          <td style="font-size:0.75rem;color:var(--ink3)">fettouh 2026</td>
+        </tr>
+        <tr>
+          <td><div class="site-label"><div class="site-dot" style="background:var(--warn)"></div>상악 소구치</div></td>
+          <td>팔라탈 함몰 (LCA 156°)</td>
+          <td>치아 장축에서 순측 ~18°</td>
+          <td class="mono">ILAA 18.3° · LCA · 치아-첨단 거리</td>
+          <td>피질골 천공 84% (보철 방향)</td>
+          <td style="font-size:0.75rem;color:var(--ink3)">najm 2024</td>
+        </tr>
+        <tr>
+          <td><div class="site-label"><div class="site-dot" style="background:#C06000"></div>후방 하악 IAC</div></td>
+          <td>IAC 근접도 → 길이·방향 제한</td>
+          <td>진정 축방향; 길이 = IAC − 2mm</td>
+          <td class="mono">IAC ≥2mm 마진 · 2M 최단 4.65mm</td>
+          <td>IAN 감각이상; 조기 실패</td>
+          <td style="font-size:0.75rem;color:var(--ink3)">behfarnia 2025 SR+MA</td>
+        </tr>
+        <tr>
+          <td><div class="site-label"><div class="site-dot" style="background:var(--danger)"></div>후방 하악 능선</div></td>
+          <td>설측 함몰 (CPDU)</td>
+          <td>D-I / U-I 함몰 벗어난 축</td>
+          <td class="mono">언더컷 깊이 · IAC 위치 · CPDU 유형</td>
+          <td>설측 피질골 천공, 혈관 손상</td>
+          <td style="font-size:0.75rem;color:var(--ink3)">alqaood 2026</td>
+        </tr>
+        <tr>
+          <td><div class="site-label"><div class="site-dot" style="background:#C06000"></div>후방 상악 (TSFE)</div></td>
+          <td>상악동 저부 (RBH 4–9mm)</td>
+          <td>교합면 수직 축방향 + 1mm 마진</td>
+          <td class="mono">RBH · 1-mm 안전 마진</td>
+          <td>슈나이데리안 막 천공 7.2% (vs 2.5%)</td>
+          <td style="font-size:0.75rem;color:var(--ink3)">jia 2025</td>
+        </tr>
+        <tr>
+          <td><div class="site-label"><div class="site-dot" style="background:var(--ink3)"></div>전 부위 (생물역학)</div></td>
+          <td>비축방향 하중 → MBL 증가</td>
+          <td>해부 허용 범위에서 최소 기울기</td>
+          <td class="mono">0.22 vs 0.10mm MBL (5년, P&lt;.05)</td>
+          <td>치조정 골소실; FDP 대합 시 Δ0.373mm</td>
+          <td style="font-size:0.75rem;color:var(--ink3)">kim 2026</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+</main>
+
+<!-- FOOTER -->
+<footer class="site-footer">
+  <p>llm-wiki · 치과 임플란트 식립방향 근거 종합 · 2026-08-29</p>
+  <p style="margin-top:4px">출처: fettouh 2026 · najm 2024 · behfarnia 2025 · alqaood 2026 · jia 2025 · kim 2026 — 임상 결정은 개별 환자 평가와 CBCT를 병행하여 시행하십시오.</p>
+</footer>
+
+<script>
+function switchTab(idx) {
+  document.querySelectorAll('.tab-btn').forEach((b,i) => {
+    b.classList.toggle('active', i === idx);
+    b.setAttribute('aria-selected', i === idx);
+  });
+  document.querySelectorAll('.tab-panel').forEach((p,i) => {
+    p.classList.toggle('active', i === idx);
+  });
+}
+
+function toggleCompare() {
+  const body = document.getElementById('compare-body');
+  const btn  = document.getElementById('compare-btn');
+  const open = body.style.display === 'none';
+  body.style.display = open ? 'block' : 'none';
+  btn.textContent    = open ? '접기' : '펼치기';
+}
+
+function toggleTheme() {
+  const root = document.documentElement;
+  const current = root.getAttribute('data-theme');
+  if (current === 'dark') {
+    root.setAttribute('data-theme', 'light');
+  } else if (current === 'light') {
+    root.setAttribute('data-theme', '');
+  } else {
+    // Check if system is dark or light, then set opposite
+    const sysDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+    root.setAttribute('data-theme', sysDark ? 'light' : 'dark');
+  }
+}
+
+// Save/restore theme
+(function() {
+  try {
+    const saved = localStorage.getItem('theme');
+    if (saved) document.documentElement.setAttribute('data-theme', saved);
+  } catch(e) {}
+})();
+document.querySelector('.theme-btn').addEventListener('click', function() {
+  try {
+    localStorage.setItem('theme', document.documentElement.getAttribute('data-theme') || '');
+  } catch(e) {}
+});
+</script>
+
+</body>
+</html>
