@@ -2,7 +2,7 @@
 title: "우식 — caries"
 authors: navigation
 year: 2026
-date: 2026-08-11
+date: 2026-08-29
 doi: N/A
 source: navigation
 category: caries
@@ -15,20 +15,20 @@ tags: [navigation, category-index, caries]
 > [!summary] 한국어 핵심요약
 > - **분야**: 우식
 > - **범위**: Caries detection, risk assessment, minimal intervention dentistry, fluoride, fissure sealants, ICDAS, stepwise/selective excavation
-> - **수록 논문**: 43편
+> - **수록 논문**: 48편
 
 ## Three-line Summary
 
 **Scope**: Caries detection, risk assessment, minimal intervention dentistry, fluoride, fissure sealants, ICDAS, stepwise/selective excavation
-**Indexed papers**: 43 papers in `wiki/caries/`.
+**Indexed papers**: 48 papers in `wiki/caries/`.
 
 ## 세줄요약
 
 **분야**: 우식
-**수록 논문**: 43편
+**수록 논문**: 48편
 **하위 카테고리**: 없음
 
-## Papers in this Category (43)
+## Papers in this Category (48)
 
 | Paper |
 |---|
@@ -38,6 +38,7 @@ tags: [navigation, category-index, caries]
 | [[bani-hani-2026-pediatric-zirconia-crowns-luting-agents-rct|Clinical performance of paediatric zirconia crowns cemented with two luting agents: A 36-month split-mouth randomised controlled trial]] |
 | [[banihani-2021-minimal-intervention-primary-teeth-carious-umbrella-review|Minimal intervention dentistry for managing carious lesions into dentine in primary teeth: an umbrella review]] |
 | [[bhandari-2026-saliva-substitute-fluoride-varnish-radiation-caries-rct|A randomized controlled trial comparing the effect of salivary substitute and fluoride varnish on radiation caries in irradiated head and neck cancer patients]] |
+| [[bittar-2026-qlf-niri-proximal-caries-iccms|QLF and NIRI for Proximal Caries Detection Across ICCMS Radiographic Thresholds]] |
 | [[bourouni-2021-resin-infiltration-white-spot-sr-ma|Efficacy of resin infiltration to mask post-orthodontic or non-post-orthodontic white spot lesions or fluorosis]] |
 | [[butera-2023-zinc-hydroxyapatite-enamel-dentin-remineralization|Biomimetic Action of Zinc Hydroxyapatite on Remineralization of Enamel and Dentin: A Review]] |
 | [[celik-2021-metagenomic-black-stain-permanent-dentition|Metagenomic analysis of black-stained dental plaques in the permanent dentition]] |
@@ -50,10 +51,13 @@ tags: [navigation, category-index, caries]
 | [[garcia-miralles-2026-sdf-cavitated-primary-molars-sr|Comparative effectiveness of silver diamine fluoride for cavitated dentinal lesions in primary molars: A systematic review of randomised controlled trials]] |
 | [[ge-2023-glass-ionomer-secondary-caries-sr-ma|The preventive effect of glass ionomer cement restorations on secondary caries formation: A systematic review and meta-analysis]] |
 | [[gizani-2026-restorative-mih-primary-permanent-molars-sr|Restorative interventions and management of primary and permanent molars affected by molar incisor hypo-mineralization: a systematic review]] |
+| [[gupta-2020-fluoride-antibacterial-caries-sr-ma|Topical fluoride-antibacterial agent combined therapy versus topical fluoride monotherapy in preventing dental caries: a systematic review and meta-analysis]] |
 | [[hajishafiee-2023-ssb-taxation-sugars-caries-umbrella|Effect of sugar-sweetened beverage taxation on sugars intake and dental caries: an umbrella review of a global perspective]] |
 | [[hamdi-2024-orthodontic-adhesives-enamel-remineralization|Remineralization and anti-demineralization effect of orthodontic adhesives on enamel surrounding orthodontic brackets: a systematic review of in vitro studies]] |
 | [[hu-2026-acidic-microenvironment-caries-pulpitis-periapical-review|pH-driven progression: Dental caries to pulpal and periapical disorders]] |
 | [[jkda-2023-61-7-004|Type and Characteristics of Fluoride varnish]] |
+| [[kakudate-2020-evidence-practice-gap-pbrn|Evidence-practice Gap in Minimal Intervention Dentistry: Findings from a Dental Practice-based Research Network]] |
+| [[kakudate-2024-evidence-practice-gap-japan-brazil|The Evidence-Practice Gap in Minimal Intervention Dentistry: An International Comparison Between Dentists in Japan and Brazil]] |
 | [[kashbour-2020-sealants-versus-fluoride-varnishes-decay|Pit and fissure sealants versus fluoride varnishes for preventing dental decay in the permanent teeth of children and adolescents]] |
 | [[konukman-turker-2026-hall-vs-modified-hall-primary-molars-rct|Two-year outcomes of hall technique and modified hall technique in deep carious lesions of primary molars: a randomized clinical trial]] |
 | [[kumar-2026-fluoride-varnish-caries-prevention-cost-effectiveness-sr-ma|Fluoride varnish for preventing dental caries among children: a systematic review and meta-analysis of cost-effectiveness studies]] |
@@ -67,6 +71,7 @@ tags: [navigation, category-index, caries]
 | [[muller-bolla-2025-zirconia-vs-ssc-primary-molars-split-mouth-rct|Zirconia Preformed Paediatric Crown Versus Stainless Steel Crown in Primary Molars: A Randomized Controlled Split-Mouth Trial]] |
 | [[rashed-2022-sealant-vs-fluoride-varnish-caries-prevention-sr-ma|Pit and Fissure Sealant versus Fluoride Varnish for the Prevention of Dental Caries in School Children]] |
 | [[schmidt-2024-root-caries-restorative-adhesive-nma|Systematic review and network meta-analysis of restorative therapy and adhesive strategies in root caries lesions]] |
+| [[schwendicke-2015-radiographic-caries-detection-sr-ma|Radiographic Caries Detection: Systematic Review and Meta-Analysis]] |
 | [[schwendicke-2021-cavitated-dentine-carious-lesions-treatment-nma|Interventions for treating cavitated or dentine carious lesions]] |
 | [[unal-2025-clear-aligner-attachment-remineralization-diagnodent|Comparative effectiveness of remineralization agents on attachment-associated enamel demineralization in clear aligner patients: A 6-Month DIAGNOdent-Based controlled clinical trial]] |
 | [[urquhart-2019-nonrestorative-treatments-caries-network-meta-analysis|Nonrestorative Treatments for Caries: A Systematic Review and Network Meta-Analysis]] |

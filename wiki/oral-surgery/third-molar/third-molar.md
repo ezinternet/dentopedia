@@ -2,7 +2,7 @@
 title: "구강외과·제3대구치(사랑니) — third-molar"
 authors: navigation
 year: 2026
-date: 2026-08-11
+date: 2026-08-29
 doi: N/A
 source: navigation
 category: oral-surgery/third-molar
@@ -15,26 +15,27 @@ tags: [navigation, category-index, third-molar]
 > [!summary] 한국어 핵심요약
 > - **분야**: 구강외과·제3대구치(사랑니)
 > - **범위**: Third molar (wisdom tooth) extraction — surgical indications/technique (flap design, bone removal, sectioning), coronectomy, pericoronitis, extraction complications (mandibular fracture, dry socket/alveolar osteitis), postop adjuncts (PRF/CGF, LLLT, cooled irrigation, pain management)
-> - **수록 논문**: 24편
+> - **수록 논문**: 25편
 
 ## Three-line Summary
 
 **Scope**: Third molar (wisdom tooth) extraction — surgical indications/technique (flap design, bone removal, sectioning), coronectomy, pericoronitis, extraction complications (mandibular fracture, dry socket/alveolar osteitis), postop adjuncts (PRF/CGF, LLLT, cooled irrigation, pain management)
-**Indexed papers**: 24 papers in `wiki/oral-surgery/third-molar/`.
+**Indexed papers**: 25 papers in `wiki/oral-surgery/third-molar/`.
 
 ## 세줄요약
 
 **분야**: 구강외과·제3대구치(사랑니)
-**수록 논문**: 24편
+**수록 논문**: 25편
 **하위 카테고리**: 없음
 
-## Papers in this Category (24)
+## Papers in this Category (25)
 
 | Paper |
 |---|
 | [[al-aroomi-2025-cgf-third-molar-postop-sr|Effectiveness of Concentrated Growth Factors in Reducing Postoperative Sequelae and Enhancing Healing Outcomes After Third Molar Extraction: A Systematic Review]] |
 | [[bailey-2020-surgical-techniques-mandibular-wisdom-teeth-sr|Surgical techniques for the removal of mandibular wisdom teeth]] |
 | [[camps-font-2024-antibiotic-prophylaxis-dry-socket-nma|Antibiotic prophylaxis in the prevention of dry socket and surgical site infection after lower third molar extraction: a network meta-analysis]] |
+| [[canellas-2020-intrasocket-ao-third-molar-sr-nma|Intrasocket interventions to prevent alveolar osteitis after mandibular third molar surgery: A systematic review and network meta-analysis]] |
 | [[cervera-espert-2016-coronectomy-mandibular-third-molar-sr|Coronectomy of impacted mandibular third molars: A meta-analysis and systematic review of the literature]] |
 | [[daly-2022-local-interventions-management-alveolar-osteitis|Local interventions for the management of alveolar osteitis (dry socket)]] |
 | [[damico-2025-third-molar-surgical-indications-guidelines|Clinical and Surgical Indications and Current Guidelines on Surgical Removal of Third Molars]] |

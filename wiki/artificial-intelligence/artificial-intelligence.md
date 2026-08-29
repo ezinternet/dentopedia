@@ -2,7 +2,7 @@
 title: "인공지능·기계학습 — artificial-intelligence"
 authors: navigation
 year: 2026
-date: 2026-08-11
+date: 2026-08-29
 doi: N/A
 source: navigation
 category: artificial-intelligence
@@ -15,20 +15,20 @@ tags: [navigation, category-index, artificial-intelligence]
 > [!summary] 한국어 핵심요약
 > - **분야**: 인공지능·기계학습
 > - **범위**: AI/ML/deep-learning in dentistry — diagnostic performance (caries detection, anomaly/lesion identification, risk prediction), CNN/imaging models, methodological quality (AMSTAR-2, QUADAS-2) & evidence-overlap appraisal of AI systematic reviews. Classify by method (AI/ML) not by population/disease
-> - **수록 논문**: 17편
+> - **수록 논문**: 19편
 
 ## Three-line Summary
 
 **Scope**: AI/ML/deep-learning in dentistry — diagnostic performance (caries detection, anomaly/lesion identification, risk prediction), CNN/imaging models, methodological quality (AMSTAR-2, QUADAS-2) & evidence-overlap appraisal of AI systematic reviews.
-**Indexed papers**: 17 papers in `wiki/artificial-intelligence/`.
+**Indexed papers**: 19 papers in `wiki/artificial-intelligence/`.
 
 ## 세줄요약
 
 **분야**: 인공지능·기계학습
-**수록 논문**: 17편
+**수록 논문**: 19편
 **하위 카테고리**: 없음
 
-## Papers in this Category (17)
+## Papers in this Category (19)
 
 | Paper |
 |---|
@@ -36,8 +36,10 @@ tags: [navigation, category-index, artificial-intelligence]
 | [[alabdulkareem-2026-ai-dental-treatment-planning-decision-making-sr-ma|Artificial Intelligence in Dental Treatment Planning and Diagnostic Decision-Making: A Systematic Review and Meta-Analysis]] |
 | [[albano-2024-artificial-intelligence-radiographic-caries-detection|Artificial intelligence for radiographic imaging detection of caries lesions: a systematic review]] |
 | [[alfaraj-2026-harnessing-ai-prosthodontics-implant-dentistry|Harnessing AI in prosthodontics and implant dentistry: An umbrella review of systematic evidence]] |
+| [[cao-2026-deep-learning-rfa-isq|Deep Learning–Enhanced Resonance Frequency Analysis for Dental Implant Stability Assessment]] |
 | [[de-menezes-torres-2025-chatgpt-oral-maxillofacial-surgery|The impact of the large language model ChatGPT in oral and maxillofacial surgery: a systematic review]] |
 | [[demir-2024-artificial-intelligence-dental-lesion-detection|Comprehensive Insights into Artificial Intelligence for Dental Lesion Detection: A Systematic Review]] |
+| [[feher-2024-applied-ai-dentistry-data-modalities|Applied artificial intelligence in dentistry: emerging data modalities and modeling approaches]] |
 | [[garg-2026-artificial-intelligence-pediatric-dentistry-umbrella-review|Role of Artificial Intelligence in Pediatric Dentistry: An Umbrella Review]] |
 | [[gomez-rios-2025-machine-learning-data-analysis-pediatric-dentistry-sr|Application of machine learning for data analysis in paediatric dentistry: a systematic review]] |
 | [[hendrickx-2024-ai-cephalometric-analysis-manual-tracing|Can artificial intelligence-driven cephalometric analysis replace manual tracing? A systematic review and meta-analysis]] |

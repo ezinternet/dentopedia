@@ -2,7 +2,7 @@
 title: "근관치료·근관성형 — shaping"
 authors: navigation
 year: 2026
-date: 2026-08-11
+date: 2026-08-29
 doi: N/A
 source: navigation
 category: endodontics/shaping
@@ -15,20 +15,20 @@ tags: [navigation, category-index, shaping]
 > [!summary] 한국어 핵심요약
 > - **분야**: 근관치료·근관성형
 > - **범위**: Rotary/reciprocating NiTi instruments, shaping strategies (crown-down, single-file), file separation, canal transportation, apical patency
-> - **수록 논문**: 14편
+> - **수록 논문**: 16편
 
 ## Three-line Summary
 
 **Scope**: Rotary/reciprocating NiTi instruments, shaping strategies (crown-down, single-file), file separation, canal transportation, apical patency
-**Indexed papers**: 14 papers in `wiki/endodontics/shaping/`.
+**Indexed papers**: 16 papers in `wiki/endodontics/shaping/`.
 
 ## 세줄요약
 
 **분야**: 근관치료·근관성형
-**수록 논문**: 14편
+**수록 논문**: 16편
 **하위 카테고리**: 없음
 
-## Papers in this Category (14)
+## Papers in this Category (16)
 
 | Paper |
 |---|
@@ -36,8 +36,10 @@ tags: [navigation, category-index, shaping]
 | [[aflaki-2020-glide-path-pathfile-scoutrace-cbct|In Vitro Transportation of Curved Canals Following Glide Path Preparation by PathFile and Scout RaCe Rotary Systems versus Manual Instrumentation Using Cone-Beam Computed Tomography]] |
 | [[almohareb-2023-cyclic-fatigue-niti-autoclave|Cyclic fatigue resistance of EdgeTaper Platinum, Protaper Gold, and TruNatomy Prime rotary files before and after autoclave sterilization]] |
 | [[aminsobhani-2022-glide-path-pathfinder-s-canal|Evaluation of the Canal Transportation Following Glide Path Preparation with Different Rotary Systems: A Comparative Study]] |
+| [[ishizaki-2026-clinical-significance-anatomical-considerations-apical-patency|Clinical Significance and Anatomical Considerations of Apical Patency in Endodontic Therapy: A Comprehensive Review]] |
 | [[khalil-2019-edgeevolve-protaper-gold-cyclic-fatigue|Cyclic fatigue, bending resistance, and surface roughness of ProTaper Gold and EdgeEvolve files in canals with single- and double-curvature]] |
 | [[kim-2021-protaper-waveone-trunatomy-canal-transportation|Comparison of the canal transportation of ProTaper GOLD, WaveOne GOLD, and TruNatomy in simulated double-curved canals]] |
+| [[kuzhanchinathan-2024-influence-apical-patency-endodontic-treatment|Influence of apical patency in endodontic treatment outcome – A systematic review of clinical studies]] |
 | [[lee-2026-residual-pericervical-apical-dentine-vertical|Association Between Residual Pericervical and Apical Dentine and Vertical Root Fracture in Endodontically Treated Molars: A Case-Control Study]] |
 | [[ozyurek-2017-protaper-cyclic-fatigue-sterilization|Cyclic fatigue resistance of ProTaper Universal, ProTaper Next, and ProTaper Gold and the effects of sterilization by autoclave on the cyclic fatigue life of nickel-titanium instruments]] |
 | [[pui-yii-2021-glide-path-apical-bacteria-extrusion|Comparison of Apical Extrusion of Bacteria After Glide Path Preparation Between Manual K File, One G Rotary, and WaveOne Gold Glider Reciprocation Preparations]] |

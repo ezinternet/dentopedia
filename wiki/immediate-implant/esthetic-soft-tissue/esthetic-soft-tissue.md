@@ -2,7 +2,7 @@
 title: "즉시식립·심미연조직 — esthetic-soft-tissue"
 authors: navigation
 year: 2026
-date: 2026-08-11
+date: 2026-08-29
 doi: N/A
 source: navigation
 category: immediate-implant/esthetic-soft-tissue
@@ -15,20 +15,20 @@ tags: [navigation, category-index, esthetic-soft-tissue]
 > [!summary] 한국어 핵심요약
 > - **분야**: 즉시식립·심미연조직
 > - **범위**: Immediate implant esthetic & soft-tissue outcomes — immediate provisionalization, connective-tissue/soft-tissue grafting (SCTG/CTG), midfacial recession & papilla, pink esthetic score, buccal-dehiscence esthetic, esthetic-zone selection criteria
-> - **수록 논문**: 60편
+> - **수록 논문**: 61편
 
 ## Three-line Summary
 
 **Scope**: Immediate implant esthetic & soft-tissue outcomes — immediate provisionalization, connective-tissue/soft-tissue grafting (SCTG/CTG), midfacial recession & papilla, pink esthetic score, buccal-dehiscence esthetic, esthetic-zone selection criteria
-**Indexed papers**: 60 papers in `wiki/immediate-implant/esthetic-soft-tissue/`.
+**Indexed papers**: 61 papers in `wiki/immediate-implant/esthetic-soft-tissue/`.
 
 ## 세줄요약
 
 **분야**: 즉시식립·심미연조직
-**수록 논문**: 60편
+**수록 논문**: 61편
 **하위 카테고리**: 없음
 
-## Papers in this Category (60)
+## Papers in this Category (61)
 
 | Paper |
 |---|
@@ -66,6 +66,7 @@ tags: [navigation, category-index, esthetic-soft-tissue]
 | [[jiang-2020-hard-soft-tissue-alterations-during|Hard and soft tissue alterations during the healing stage of immediate implant placement and provisionalization with or without connective tissue graft: A randomized clinical trial]] |
 | [[kan-2003-immediate-placement-provisionalization-anterior|Immediate placement and provisionalization of maxillary anterior single implants: 1-year prospective study]] |
 | [[kinaia-2017-soft-tissue-changes-around|Soft Tissue Changes Around Immediately Placed Implants: A Systematic Review and Meta-Analyses With at Least 12 Months of Follow-Up After Functional Loading]] |
+| [[lambert-2025-soft-tissue-augmentation-immediate-implant-sr|Esthetic and patient-reported outcomes in immediate implants with adjunctive surgical procedures to increase soft tissue thickness/height: A systematic review]] |
 | [[li-2019-dynamic-peri-implant-soft-tissue-scan|Dynamic changes of peri-implant soft tissue after interim restoration removal during a digital intraoral scan]] |
 | [[lim-2022-immediate-implant-gbr-sctg-dog|Immediate implant placement in conjunction with guided bone regeneration and/or connective tissue grafts: an experimental study in canines]] |
 | [[martins-2024-facial-bone-wall-immediate-implant-esthetic|Is the facial bone wall critical to achieving esthetic outcomes in immediate implant placement with immediate restoration? A systematic review]] |

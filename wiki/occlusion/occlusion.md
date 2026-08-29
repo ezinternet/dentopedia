@@ -2,7 +2,7 @@
 title: "교합 — occlusion"
 authors: navigation
 year: 2026
-date: 2026-08-11
+date: 2026-08-29
 doi: N/A
 source: navigation
 category: occlusion
@@ -15,20 +15,20 @@ tags: [navigation, category-index, occlusion]
 > [!summary] 한국어 핵심요약
 > - **분야**: 교합
 > - **범위**: Occlusal analysis (digital/T-Scan vs articulating paper), implant occlusion, occlusal overload, occlusal scheme/adjustment
-> - **수록 논문**: 59편
+> - **수록 논문**: 64편
 
 ## Three-line Summary
 
 **Scope**: Occlusal analysis (digital/T-Scan vs articulating paper), implant occlusion, occlusal overload, occlusal scheme/adjustment
-**Indexed papers**: 59 papers in `wiki/occlusion/`.
+**Indexed papers**: 64 papers in `wiki/occlusion/`.
 
 ## 세줄요약
 
 **분야**: 교합
-**수록 논문**: 59편
+**수록 논문**: 64편
 **하위 카테고리**: 없음
 
-## Papers in this Category (59)
+## Papers in this Category (64)
 
 | Paper |
 |---|
@@ -43,6 +43,7 @@ tags: [navigation, category-index, occlusion]
 | [[craddock-2004-incidence-overeruption-occlusal-interferences-unopposed|A study of the incidence of overeruption and occlusal interferences in unopposed posterior teeth]] |
 | [[craddock-2006-deviation-broadrick-occlusal-curve-posterior|Deviation from the Broadrick occlusal curve following posterior tooth loss]] |
 | [[craddock-2007-overeruption-posterior-teeth-partial-occlusal|An investigation of overeruption of posterior teeth with partial occlusal contact]] |
+| [[denes-2020-monitoring-overeruption-pattern-young-adult|Monitoring Overeruption Pattern of Young vs Adult Unopposed Molars in the Rat.]] |
 | [[di-fiore-2022-periimplant-bone-loss-overload-occlusal-analysis|Peri-Implant Bone Loss and Overload: A Systematic Review Focusing on Occlusal Analysis through Digital and Analogic Methods]] |
 | [[diao-2026-centralized-occlusal-scheme-implant-overdentures-edentulous|A clinical study on the centralized occlusal scheme for implant-supported overdentures in edentulous patients]] |
 | [[didier-2026-occlusal-contacts-ios-vs-carbon-paper-concordance|Concordance Between the Occlusal Contacts Record Obtained Using an Intraoral Scanner and Carbon Paper]] |
@@ -56,7 +57,9 @@ tags: [navigation, category-index, occlusion]
 | [[fukushima-2016-controversy-with-respect-occlusion|A controversy with respect to occlusion]] |
 | [[goldstein-2022-centric-relation-needed-reference-position|Centric relation: A needed reference position]] |
 | [[gozen-2025-occlusal-force-distribution-digital-analysis-implant-in-vivo|Comparison of occlusal force distribution and digital occlusal analysis methods of single posterior implant restorations: an in vivo study]] |
+| [[greenstein-2018-need-replace-missing-second-molar|The Need to Replace a Missing Second Molar With a Dental Implant Restoration: Analysis of a Controversial Issue.]] |
 | [[hayashi-2014-low-level-laser-periodontal-hypofunctional-teeth|Effects of a Low Level Laser on Periodontal Tissue in Hypofunctional Teeth]] |
+| [[hong-2023-characteristics-spatial-changes-molars-alveolar|Characteristics of Spatial Changes in Molars and Alveolar Bone Resorption among Patients with Loss of Mandibular First Molars: A CBCT-Based Morphometric Study]] |
 | [[jahanbin-2026-occlusal-adjustment-post-orthodontic-tscan-rct|Evaluating the Impact of Occlusal Adjustment on Post-Orthodontic Outcomes: Insights from T-Scan III Analysis]] |
 | [[jimenez-silva-2017-centric-relation-intercuspal-position-discrepancy|Centric relation-intercuspal position discrepancy and its relationship with temporomandibular disorders. A systematic review]] |
 | [[kattadiyil-2021-relationship-centric-occlusion-maximal-intercuspal|The Relationship Between Centric Occlusion and The Maximal Intercuspal Position and Their Use as Treatment Positions for Complete Mouth Rehabilitation: Best Evidence Consensus Statement]] |
@@ -70,6 +73,7 @@ tags: [navigation, category-index, occlusion]
 | [[mei-2022-scanning-strategies-virtual-interocclusal-registration|Three-dimensional Analysis of the Outcome of Different Scanning Strategies in Virtual Interocclusal Registration]] |
 | [[mojaver-2025-occlusal-overload-peri-implant-health-sr|Under pressure: Unraveling the impact of occlusal overload on peri-implant health – A systematic review]] |
 | [[morsy-2024-intraoral-scanner-maximal-intercuspation-border-positions|Recording maximal intercuspation and border positions of the mandible with intraoral scanner using the acquisition software's multi-occlusion function]] |
+| [[nicolae-2025-cross-sectional-study-occlusal|Cross-Sectional Study of Occlusal Loading and Periodontal Status of Teeth with Deflective Occlusal Contacts]] |
 | [[packaeser-2025-core-material-occlusal-contact-fatigue-ceramic-crowns|Influence of core material and occlusal contact pattern on fatigue behavior of different monolithic ceramic crowns]] |
 | [[panagiotopoulou-2023-dynamic-fea-macaque-mandible-mastication|Dynamic finite element modelling of the macaque mandible during a complete mastication gape cycle]] |
 | [[podaropoulos-2016-bone-reactions-progressive-static-load-dogs|Bone reactions around dental implants subjected to progressive static load: an experimental study in dogs]] |
@@ -80,6 +84,7 @@ tags: [navigation, category-index, occlusion]
 | [[rovira-lastra-2026-articulating-paper-accuracy-occlusal-points|Clinical Strategies to Improve the Accuracy of Articulating Paper for Detecting Occlusal Contact Points in Adults with Natural Dentitions]] |
 | [[singh-2026-active-tactile-sensibility-implant-natural-teeth-sr|Comparative analysis of active tactile sensibility in single dental implant and natural teeth: A systematic review of clinical studies]] |
 | [[sippy-2021-condylar-incisal-guidance-canine-group-function-schemes|A study to evaluate the influence of condylar and incisal guidance in canine guided and group function occlusal schemes]] |
+| [[smith-1996-extracting-upper-second-molars-lower-molar-position|The Effects of Extracting Upper Second Permanent Molars on Lower Second Permanent Molar Position]] |
 | [[tank-2024-interocclusal-registration-materials-vertical-accuracy-centric-relation|A Clinical Study on Evaluation of Vertical Accuracy of Interocclusal Registration Materials in Centric Relation]] |
 | [[utz-2026-neuromuscular-position-tmj-condyle-dentate|Neuromuscular Position of the Temporomandibular Joint Condyle in Fully Dentate Volunteers: Characteristics and Potential Indications]] |
 | [[velasquez-2022-occlusal-analysis-natural-dentition-sr|Occlusal Analysis in Natural Dentition: Systematic Review]] |

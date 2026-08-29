@@ -2,7 +2,7 @@
 title: "상악동거상술·경치조골 — transcrestal"
 authors: navigation
 year: 2026
-date: 2026-08-11
+date: 2026-08-29
 doi: N/A
 source: navigation
 category: sinus-lift/transcrestal
@@ -15,20 +15,20 @@ tags: [navigation, category-index, transcrestal]
 > [!summary] 한국어 핵심요약
 > - **분야**: 상악동거상술·경치조골
 > - **범위**: Transcrestal (osteotome/balloon/osseodensification) approaches
-> - **수록 논문**: 44편
+> - **수록 논문**: 45편
 
 ## Three-line Summary
 
 **Scope**: Transcrestal (osteotome/balloon/osseodensification) approaches
-**Indexed papers**: 44 papers in `wiki/sinus-lift/transcrestal/`.
+**Indexed papers**: 45 papers in `wiki/sinus-lift/transcrestal/`.
 
 ## 세줄요약
 
 **분야**: 상악동거상술·경치조골
-**수록 논문**: 44편
+**수록 논문**: 45편
 **하위 카테고리**: 없음
 
-## Papers in this Category (44)
+## Papers in this Category (45)
 
 | Paper |
 |---|
@@ -51,6 +51,7 @@ tags: [navigation, category-index, transcrestal]
 | [[guo-2020-non-grafted-platelet-concentrations-grafted-transcrestal-sinus|Therapeutic outcomes of non-grafted and platelet concentrations-grafted transcrestal maxillary sinus elevation (TSFE): SR+MA]] |
 | [[huang-2026-graftless-transcrestal-sinus-membrane-perforation-ma|Incidence of sinus membrane perforation in transcrestal graftless maxillary sinus augmentation: a meta-analysis]] |
 | [[huwais-2018-transcrestal-sinus-augmentation-compaction-grafting-multicenter|A Multicenter Retrospective Clinical Study with Up-to-5-Year Follow-up Utilizing a Method that Enhances Bone Density and Allows for Transcrestal Sinus Augmentation Through Compaction Grafting]] |
+| [[jia-2025-accuracy-robotic-cais-tsfe-posterior-maxilla|Accuracy of Robotic Computer-Assisted Implant Surgery Combined With Transcrestal Sinus Floor Elevation for Single-Tooth Implants: A Retrospective Case Series]] |
 | [[kadkhodazadeh-2024-transcrestal-maxillary-sinus-elevation-sr-ma|Clinical outcomes of implants placed with transcrestal maxillary sinus elevation: SR+MA]] |
 | [[lai-2008-rfa-iti-osteotome-sinus-elevation-without-graft|Resonance frequency analysis of stability on ITI implants with osteotome sinus floor elevation technique without grafting: a 5-month prospective study]] |
 | [[liu-2018-endoscopically-controlled-flapless-transcrestal-sinus|Endoscopically controlled flapless transcrestal sinus floor elevation with platelet-rich fibrin followed by simultaneous dental implant placement: A case report]] |

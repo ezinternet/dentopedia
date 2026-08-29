@@ -2,7 +2,7 @@
 title: "전신질환·약물·진통소염제 — analgesics"
 authors: navigation
 year: 2026
-date: 2026-08-11
+date: 2026-08-29
 doi: N/A
 source: navigation
 category: drug/analgesics
@@ -15,32 +15,40 @@ tags: [navigation, category-index, analgesics]
 > [!summary] 한국어 핵심요약
 > - **분야**: 전신질환·약물·진통소염제
 > - **범위**: NSAIDs (ibuprofen, ketorolac, naproxen, etoricoxib), acetaminophen, opioids, corticosteroids (dexamethasone), preemptive analgesia; postoperative pain management
-> - **수록 논문**: 52편
+> - **수록 논문**: 63편
 
 ## Three-line Summary
 
 **Scope**: NSAIDs (ibuprofen, ketorolac, naproxen, etoricoxib), acetaminophen, opioids, corticosteroids (dexamethasone), preemptive analgesia; postoperative pain management
-**Indexed papers**: 52 papers in `wiki/drug/analgesics/`.
+**Indexed papers**: 63 papers in `wiki/drug/analgesics/`.
 
 ## 세줄요약
 
 **분야**: 전신질환·약물·진통소염제
-**수록 논문**: 52편
+**수록 논문**: 63편
 **하위 카테고리**: 없음
 
-## Papers in this Category (52)
+## Papers in this Category (63)
 
 | Paper |
 |---|
 | [[abusamak-2025-perioperative-anti-inflammatory-periodontal-surgery-sr-ma|Perioperative Anti-inflammatory Drugs and Recovery after Periodontal Surgery: A Systematic Review and Meta-Analysis]] |
+| [[ada-2024-chairside-guide-adult-extraction|Evidence-Based Clinical Practice Guideline for the Pharmacologic Management of Acute Dental Pain: Postoperative Pain After Simple and Surgical Tooth Extraction(s) in Adolescents, Adults, and Older Adults (ADA Chairside Guide)]] |
+| [[ada-2024-chairside-guide-adult-pulpitis|Evidence-Based Clinical Practice Guideline for the Temporary Pharmacologic Management of Acute Dental Pain: Toothache in Adolescents, Adults, and Older Adults With No Immediate Access to Definitive Dental Treatment (ADA Chairside Guide)]] |
+| [[ada-2024-respite-patient-guide-tooth-removed|Tooth Removed — Simple and Surgical: Patient Medication Guide (ADA/RESPITE 2024)]] |
+| [[ada-2024-respite-patient-guide-toothache|Toothache: Patient Medication Guide (ADA/RESPITE 2024)]] |
 | [[almeida-2019-efficacy-corticosteroids-versus-placebo-impacted|Efficacy of corticosteroids versus placebo in impacted third molar surgery: systematic review and meta-analysis of randomized controlled trials]] |
 | [[altuhafy-2026-tenoxicam-postoperative-dental-pain-sr|Efficacy of tenoxicam for postoperative dental pain: a systematic review of randomized controlled trials]] |
+| [[bailey-2013-ibuprofen-paracetamol-wisdom-teeth-cochrane|Ibuprofen and/or Paracetamol for Pain Relief After Surgical Removal of Lower Wisdom Teeth]] |
+| [[bailey-2014-ibuprofen-paracetamol-wisdom-bdj-summary|Ibuprofen and/or Paracetamol for Pain Relief After Lower Wisdom Teeth Removal — Cochrane Summary]] |
 | [[bakri-2024-prednisolone-prescribing-styles-third-molar|Comparison of the effects of two different styles of orally prescribing prednisolone on postoperative sequelae of surgical extraction of an impacted mandibular third molar: a single-blind randomized study]] |
 | [[beaudart-2025-celecoxib-safety-musculoskeletal-sr-ma|Current Evidence on Celecoxib Safety in the Management of Chronic Musculoskeletal Conditions: An Umbrella Review]] |
+| [[becker-2010-pain-management-part-1|Pain Management: Part 1: Managing Acute and Postoperative Dental Pain]] |
 | [[breidung-2025-epidemiological-characteristics-prognostic-scoring|Epidemiological Characteristics and Prognostic Scoring in Toxic Epidermal Necrolysis and Stevens–Johnson Syndrome: Insights from a 17-Year Burn Center Experience]] |
 | [[buesing-2019-vitamin-b12-pain-nerve-regeneration-review|Vitamin B12 as a Treatment for Pain]] |
 | [[buyukkurt-2006-prednisolone-diclofenac-third-molar-rct|The Effect of a Single Dose Prednisolone With and Without Diclofenac on Pain, Trismus, and Swelling After Removal of Mandibular Third Molars]] |
 | [[canellas-2022-corticosteroids-third-molar-nma|Comparative efficacy and safety of different corticosteroids to reduce inflammatory complications after mandibular third molar surgery: a systematic review and network meta-analysis]] |
+| [[carrasco-labra-2024-pharmacologic-management-acute-dental-pain-guideline|Evidence-based clinical practice guideline for the pharmacologic management of acute dental pain in adolescents, adults, and older adults]] |
 | [[chatzopoulos-2025-nsaid-early-dental-implant-failure-cohort|The association between common NSAID use and early dental implant failure: A large-scale retrospective cohort study]] |
 | [[costa-2015-preemptive-nsaids-third-molar-pain-meta|Does the Preemptive Use of Oral NSAIDs Reduce Postoperative Pain in Surgical Removal of Third Molars? A Meta-analysis of Randomized Clinical Trials]] |
 | [[dan-2010-corticosteroid-administration-oral-orthognathic-surgery|Corticosteroid Administration in Oral and Orthognathic Surgery: A Systematic Review of the Literature and Meta-Analysis]] |
@@ -66,11 +74,14 @@ tags: [navigation, category-index, analgesics]
 | [[magesty-2026-adverse-events-oral-analgesics-third-molar-nma|Adverse events of oral analgesics after third molar extraction: A network meta-analysis of randomized controlled trials]] |
 | [[markiewicz-2008-corticosteroids-reduce-postoperative-morbidity-after-third-molar-surgery|Corticosteroids Reduce Postoperative Morbidity After Third Molar Surgery: A Systematic Review and Meta-Analysis]] |
 | [[maurice-szamburski-2025-intravenous-nsaids-perioperative-pain-narrative-review|Intravenously Administered Nonsteroidal Anti-Inflammatory Drugs in Clinical Practice: A Narrative Review]] |
+| [[miroshnychenko-2023-analgesics-acute-dental-pain|Analgesics for the management of acute dental pain in the pediatric population: A systematic review and meta-analysis]] |
+| [[miroshnychenko-2023-corticosteroids-third-molar-acute-pain-sr-ma|Corticosteroids for managing acute pain subsequent to surgical extraction of mandibular third molars: A systematic review and meta-analysis]] |
 | [[miroshnychenko-2023-dental-extraction-pain-network-meta|Acute Postoperative Pain Due to Dental Extraction in the Adult Population: A Systematic Review and Network Meta-analysis]] |
 | [[miroshnychenko-2023-injectable-topical-anesthetics-acute-pain-sr|Injectable and topical local anesthetics for acute dental pain: 2 systematic reviews]] |
 | [[moore-2015-otc-oral-analgesics-cochrane-overview|Non-prescription (OTC) oral analgesics for acute pain - an overview of Cochrane reviews]] |
 | [[moore-2015-single-dose-oral-analgesics-cochrane-overview|Single dose oral analgesics for acute postoperative pain in adults - an overview of Cochrane reviews]] |
 | [[ping-2026-ketorolac-root-canal-pain-sr-ma|The Effectiveness of Ketorolac in Relieving Pain Associated With Root Canal Therapy: A Systematic Review and Meta-Analysis]] |
+| [[pozzi-2011-pain-management-dentists-ibuprofen|Pain Management for Dentists: The Role of Ibuprofen]] |
 | [[prada-2025-acetaminophen-prenatal-neurodevelopmental-disorders-sr|Evaluation of the evidence on acetaminophen use and neurodevelopmental disorders using the Navigation Guide methodology]] |
 | [[rainsford-2009-ibuprofen-pharmacology-efficacy-safety-review|Ibuprofen: pharmacology, efficacy and safety]] |
 | [[rodrigues-2024-preemptive-dexamethasone-diclofenac-endodontic-rct|Preemptive Dexamethasone and Diclofenac for IANB Success in Irreversible Symptomatic Pulpitis (Rodrigues 2024 RCT)]] |

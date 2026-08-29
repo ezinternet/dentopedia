@@ -2,7 +2,7 @@
 title: "행동치의학·환자보고결과 — patient-reported-outcomes"
 authors: navigation
 year: 2026
-date: 2026-08-11
+date: 2026-08-29
 doi: N/A
 source: navigation
 category: behavioral-dentistry/patient-reported-outcomes
@@ -15,20 +15,20 @@ tags: [navigation, category-index, patient-reported-outcomes]
 > [!summary] 한국어 핵심요약
 > - **분야**: 행동치의학·환자보고결과
 > - **범위**: PRO/PROM/PREM, OHRQoL, patient satisfaction/experience, behavioral assessment of the patient
-> - **수록 논문**: 6편
+> - **수록 논문**: 7편
 
 ## Three-line Summary
 
 **Scope**: PRO/PROM/PREM, OHRQoL, patient satisfaction/experience, behavioral assessment of the patient
-**Indexed papers**: 6 papers in `wiki/behavioral-dentistry/patient-reported-outcomes/`.
+**Indexed papers**: 7 papers in `wiki/behavioral-dentistry/patient-reported-outcomes/`.
 
 ## 세줄요약
 
 **분야**: 행동치의학·환자보고결과
-**수록 논문**: 6편
+**수록 논문**: 7편
 **하위 카테고리**: 없음
 
-## Papers in this Category (6)
+## Papers in this Category (7)
 
 | Paper |
 |---|
@@ -38,3 +38,4 @@ tags: [navigation, category-index, patient-reported-outcomes]
 | [[ebnahmady-2015-patient-satisfaction-surveys-dental-school|Patient satisfaction surveys in dental school clinics: a review and comparison.]] |
 | [[menini-2025-proms-sinus-lift-procedures-sr-ma|Patient-Reported Outcome Measures (PROMs) in Sinus Lift Procedures: A Systematic Review and Meta-Analysis]] |
 | [[tonetti-2025-aesthetics-patient-reported-outcomes-consensus|Aesthetics and Patient-Reported Outcomes in Periodontology and Implant Dentistry: Consensus Report]] |
+| [[wu-2024-preanesthetic-oral-examination-servqual|Patient perception of service quality to preanesthetic oral examination: a cross-sectional study using the SERVQUAL model]] |
