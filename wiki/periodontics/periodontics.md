@@ -2,7 +2,7 @@
 title: "치주치료 — periodontics"
 authors: navigation
 year: 2026
-date: 2026-08-11
+date: 2026-08-29
 doi: N/A
 source: navigation
 category: periodontics
@@ -16,21 +16,21 @@ tags: [navigation, category-index, periodontics]
 > - **분야**: 치주치료
 > - **범위**: Periodontal disease, classification, regeneration/root-coverage, SPT, periodontal-systemic links, general periodontics not covered by a subcategory.
 > - **하위 카테고리**: [[host-modulation]] · [[non-surgical-instrumentation]] · [[oral-hygiene-instruction]]
-> - **수록 논문**: 60편
+> - **수록 논문**: 61편
 
 ## Three-line Summary
 
 **Scope**: Periodontal disease, classification, regeneration/root-coverage, SPT, periodontal-systemic links, general periodontics not covered by a subcategory.
-**Indexed papers**: 60 papers in `wiki/periodontics/`.
+**Indexed papers**: 61 papers in `wiki/periodontics/`.
 **Sub-categories**: [[host-modulation]], [[non-surgical-instrumentation]], [[oral-hygiene-instruction]]
 
 ## 세줄요약
 
 **분야**: 치주치료
-**수록 논문**: 60편
+**수록 논문**: 61편
 **하위 카테고리**: host-modulation, non-surgical-instrumentation, oral-hygiene-instruction
 
-## Papers in this Category (60)
+## Papers in this Category (61)
 
 | Paper |
 |---|
@@ -66,6 +66,7 @@ tags: [navigation, category-index, periodontics]
 | [[herrera-2014-acute-periodontal-lesions|Acute periodontal lesions]] |
 | [[herrera-2018-acute-periodontal-lesions-periodontal-abscesses|Acute periodontal lesions (periodontal abscesses and necrotizing periodontal diseases) and endo-periodontal lesions]] |
 | [[herrera-2022-treatment-stage-iv-periodontitis-efp|Treatment of stage IV periodontitis: The EFP S3 level clinical practice guideline]] |
+| [[herrera-2025-consensus-report-periodontal-diagnosis|Consensus Report of the 20th European Workshop on Periodontology: Contemporary and Emerging Technologies in Periodontal Diagnosis]] |
 | [[huang-2021-clinical-considerations-orthodontically-forced-eruption|Clinical Considerations in Orthodontically Forced Eruption for Restorative Purposes]] |
 | [[huynh-2016-saline-rinsing-gingival-fibroblast-wound-healing|Rinsing with Saline Promotes Human Gingival Fibroblast Wound Healing In Vitro]] |
 | [[jepsen-2018-periodontal-manifestations-of-systemic-diseases|Periodontal manifestations of systemic diseases and developmental and acquired conditions: Consensus report of workgroup 3 of the 2017 World Workshop]] |

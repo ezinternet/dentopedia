@@ -2,7 +2,7 @@
 title: "근관치료 (general) — endodontics"
 authors: navigation
 year: 2026
-date: 2026-08-11
+date: 2026-08-29
 doi: N/A
 source: navigation
 category: endodontics
@@ -16,26 +16,30 @@ tags: [navigation, category-index, endodontics]
 > - **분야**: 근관치료 (general)
 > - **범위**: Root canal treatment topics not covered by a subcategory — endodontic outcomes/prognosis, retreatment, pain/flare-up, general reviews. (subtopics route to `endodontics/{anatomy,diagnosis,eal,irrigation,obturation,shaping,vpt,regenerative,cold-plasma,visit-protocol}`)
 > - **하위 카테고리**: [[anatomy]] · [[cold-plasma]] · [[diagnosis]] · [[eal]] · [[irrigation]] · [[obturation]] · [[regenerative]] · [[shaping]] · [[visit-protocol]] · [[vpt]]
-> - **수록 논문**: 13편
+> - **수록 논문**: 17편
 
 ## Three-line Summary
 
 **Scope**: Root canal treatment topics not covered by a subcategory — endodontic outcomes/prognosis, retreatment, pain/flare-up, general reviews.
-**Indexed papers**: 13 papers in `wiki/endodontics/`.
+**Indexed papers**: 17 papers in `wiki/endodontics/`.
 **Sub-categories**: [[anatomy]], [[cold-plasma]], [[diagnosis]], [[eal]], [[irrigation]], [[obturation]], [[regenerative]], [[shaping]], [[visit-protocol]], [[vpt]]
 
 ## 세줄요약
 
 **분야**: 근관치료 (general)
-**수록 논문**: 13편
+**수록 논문**: 17편
 **하위 카테고리**: anatomy, cold-plasma, diagnosis, eal, irrigation, obturation, regenerative, shaping, visit-protocol, vpt
 
-## Papers in this Category (13)
+## Papers in this Category (17)
 
 | Paper |
 |---|
+| [[almufleh-2025-cbct-nonsurgical-rct-outcomes-srma|The outcomes of nonsurgical root canal treatment and retreatment assessed by CBCT: a systematic review and meta-analysis]] |
+| [[asgary-2026-endodontic-surgery-cem-long-term|Long-term outcomes and prognostic factors in endodontic surgery: a retrospective cohort study]] |
 | [[babeer-2024-microrobotics-endodontics-perspective|Microrobotics in Endodontics: A Perspective]] |
 | [[fahmy-2026-polydopamine-gutta-percha-bioceramic-sealer|Sealing Ability of Polydopamine-Coated Gutta-Percha With Bioceramic Sealer: An In Vitro Study]] |
+| [[falatah-2025-nonsurgical-retreatment-persistent-ap-sr|Clinical Outcomes of Nonsurgical Retreatment in Teeth With Persistent Apical Periodontitis: A Systematic Review]] |
+| [[fan-2025-perioendo-treatment-sequence-srma|Effects of Different Treatment Sequences on the Efficacy of Combined Periodontal-Endodontic Lesions: A Systematic Review and Meta-Analysis]] |
 | [[gharechahi-2026-ahplus-jet-obturation-cshaped-canals|Evaluation of various obturation techniques with AH Plus Jet sealer in simulated C-shaped canals]] |
 | [[gomez-gonzalez-2026-calcium-silicate-sealer-dentinal-tubule-irrigation-sr|Influence of Final Irrigation on Calcium Silicate-Based Sealer Dentinal Tubular Penetration: A Systematic Review]] |
 | [[he-2026-hemostatic-agents-periapical-surgery-sr-ma|Hemostatic Agents in Periapical Surgery: Systematic Review and Meta-analysis]] |

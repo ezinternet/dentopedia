@@ -2,7 +2,7 @@
 title: "방사선학 — radiology"
 authors: navigation
 year: 2026
-date: 2026-08-11
+date: 2026-08-29
 doi: N/A
 source: navigation
 category: radiology
@@ -15,33 +15,36 @@ tags: [navigation, category-index, radiology]
 > [!summary] 한국어 핵심요약
 > - **분야**: 방사선학
 > - **범위**: CBCT diagnostic performance, radiation dose/collimation, panoramic, cephalometric, CBCT-guided endodontics/implant, shielding protocols
-> - **수록 논문**: 53편
+> - **수록 논문**: 57편
 
 ## Three-line Summary
 
 **Scope**: CBCT diagnostic performance, radiation dose/collimation, panoramic, cephalometric, CBCT-guided endodontics/implant, shielding protocols
-**Indexed papers**: 53 papers in `wiki/radiology/`.
+**Indexed papers**: 57 papers in `wiki/radiology/`.
 
 ## 세줄요약
 
 **분야**: 방사선학
-**수록 논문**: 53편
+**수록 논문**: 57편
 **하위 카테고리**: 없음
 
-## Papers in this Category (53)
+## Papers in this Category (57)
 
 | Paper |
 |---|
 | [[abdar-esfahani-2013-mandibular-anterior-nutrient-canals|Mandibular Anterior Nutrient Canals in Periapical Radiography in Relation to Hypertension]] |
+| [[ameli-2025-automated-quality-evaluation-dental-panoramic|Automated quality evaluation of dental panoramic radiographs using deep learning]] |
 | [[aung-2023-bifid-mandibular-canal-proportional|Bifid Mandibular Canal: A Proportional Meta-Analysis of Computed Tomography Studies]] |
 | [[baena-2022-cbct-diagnostic-performance-root-resorption|Diagnostic Performance of Cone-Beam Computed Tomography to Diagnose In Vivo/In Vitro Root Resorption: A Systematic Review and Meta-Analysis]] |
 | [[benavides-2023-patient-shielding-dentomaxillofacial-radiography|Patient shielding during dentomaxillofacial radiography: Recommendations from the American Academy of Oral and Maxillofacial Radiology]] |
+| [[benavides-2024-optimizing-radiation-safety-dentistry|Optimizing radiation safety in dentistry: Clinical recommendations and regulatory considerations]] |
 | [[benchimol-2018-collimation-panoramic-effective-dose-reduction|Effective dose reduction using collimation function in digital panoramic radiography and possible clinical implications in dentistry]] |
 | [[berkhout-2015-justification-and-good-practice-using|Justification and good practice in using handheld portable dental X-ray equipment: a position paper prepared by the European Academy of DentoMaxilloFacial Radiology (EADMFR)]] |
 | [[brochado-martins-2025-cbct-outcomes-endodontic-treatment-retreatment|CBCT-Assessed Outcomes and Prognostic Factors of Primary Endodontic Treatment and Retreatment: A Systematic Review and Meta-Analysis]] |
 | [[charuakkra-2023-low-dose-cbct-image-dose-comparison|Comparison of subjective image analysis and effective dose between low-dose cone-beam computed tomography machines]] |
 | [[cuozzo-2024-prevalence-anatomical-characteristics-bifid|Prevalence and Anatomical Characteristics of Bifid and Trifid Mandibular Canals: A Computer Tomography Analysis]] |
 | [[devlin-2013-object-position-magnification-panoramic-radiography|Object position and image magnification in dental panoramic radiography: a theoretical analysis]] |
+| [[dewake-2023-mri-occlusal-trauma-pdl|MRI signal intensity of the periodontal ligament space correlates with clinical occlusal trauma severity]] |
 | [[dioguardi-2025-radiographic-artifacts-caries-diagnosis-sr-ma|Radiographic artifacts in the diagnosis of dental caries: systematic review with meta-analysis]] |
 | [[elkhateeb-2022-psp-image-plate-artifacts-prevalence|Analysis of photostimulable phosphor image plate artifacts and their prevalence]] |
 | [[eshak-2014-cone-beam-ct-evaluation-presence|Cone beam CT evaluation of the presence of anatomic accessory canals in the jaws]] |
@@ -52,6 +55,7 @@ tags: [navigation, category-index, radiology]
 | [[hasan-2022-prevalence-nutrient-canals-mandibular|Prevalence of nutrient canals in mandibular anterior intra-oral periapical radiographs (IOPARs) in patients with chronic systemic diseases - a cross-sectional study]] |
 | [[hedesiu-2018-dental-radiological-irradiation-pediatric-population|Irradiation provided by dental radiological procedures in a pediatric population]] |
 | [[hidalgo-rivas-2015-low-dose-cbct-anterior-maxilla-children|Development of a low-dose protocol for cone beam CT examinations of the anterior maxilla in children]] |
+| [[horner-2004-european-guidelines-radiation-protection-dental-radiology|European guidelines on radiation protection in dental radiology: The safe use of radiographs in dental practice]] |
 | [[jacobs-2018-cbct-implant-dentistry-recommendations-clinical|Cone beam computed tomography in implant dentistry: recommendations for clinical use]] |
 | [[johnson-2020-intraoral-radiograph-dose-collimation-thyroid-shielding|Intraoral radiographs: A comparison of dose and risk reduction with collimation and thyroid shielding]] |
 | [[kaasalainen-2021-dental-cone-beam-ct-updated-review|Dental cone beam CT: An updated review]] |

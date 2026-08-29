@@ -2,7 +2,7 @@
 title: "구강미생물학 — oral-microbiology"
 authors: navigation
 year: 2026
-date: 2026-08-11
+date: 2026-08-29
 doi: N/A
 source: navigation
 category: oral-microbiology
@@ -15,20 +15,20 @@ tags: [navigation, category-index, oral-microbiology]
 > [!summary] 한국어 핵심요약
 > - **분야**: 구강미생물학
 > - **범위**: Oral microbiome ecology & dysbiosis, dental/biofilm matrix (EPS, glucans, eDNA, matrixome), keystone pathogens (P. gingivalis, F. nucleatum), polymicrobial synergy & dysbiosis (PSD) model, Streptococcus/Candida interactions, microbiome–systemic/cancer links
-> - **수록 논문**: 33편
+> - **수록 논문**: 34편
 
 ## Three-line Summary
 
 **Scope**: Oral microbiome ecology & dysbiosis, dental/biofilm matrix (EPS, glucans, eDNA, matrixome), keystone pathogens (P.
-**Indexed papers**: 33 papers in `wiki/oral-microbiology/`.
+**Indexed papers**: 34 papers in `wiki/oral-microbiology/`.
 
 ## 세줄요약
 
 **분야**: 구강미생물학
-**수록 논문**: 33편
+**수록 논문**: 34편
 **하위 카테고리**: 없음
 
-## Papers in this Category (33)
+## Papers in this Category (34)
 
 | Paper |
 |---|
@@ -56,6 +56,7 @@ tags: [navigation, category-index, oral-microbiology]
 | [[min-2024-essential-oil-mouthrinses-plaque-microbiome|Quantitative analysis of the effects of essential oil mouthrinses on clinical plaque microbiome: a parallel-group, randomized trial]] |
 | [[momeni-2024-intraspecies-interactions-streptococcus-mutans|Intraspecies interactions of Streptococcus mutans impact biofilm architecture and virulence determinants in childhood dental caries]] |
 | [[panariello-2025-ecigarettes-oral-microbiota-biofilm-umbrella-review|An Umbrella Review of E-Cigarettes' Impact on Oral Microbiota and Biofilm Buildup]] |
+| [[pignatelli-2020-periodontal-disease-nitric-oxide-blood-pressure|How Periodontal Disease and Presence of Nitric Oxide Reducing Oral Bacteria Can Affect Blood Pressure]] |
 | [[plummer-2022-listerine-mouthwash-oropharyngeal-microbiota|The Impact of Mouthwash on the Oropharyngeal Microbiota: OMEGA Trial Substudy (Plummer 2022)]] |
 | [[ponde-2021-candida-albicans-biofilms-polymicrobial|Candida albicans Biofilms and Polymicrobial Interactions]] |
 | [[rajasekaran-2024-oral-microbiome-systemic-health-review|Oral Microbiome: A Review of Its Impact on Oral and Systemic Health]] |

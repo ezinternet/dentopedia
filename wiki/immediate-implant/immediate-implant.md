@@ -2,7 +2,7 @@
 title: "즉시식립 (general) — immediate-implant"
 authors: navigation
 year: 2026
-date: 2026-08-11
+date: 2026-08-29
 doi: N/A
 source: navigation
 category: immediate-implant
@@ -16,21 +16,21 @@ tags: [navigation, category-index, immediate-implant]
 > - **분야**: 즉시식립 (general)
 > - **범위**: Immediate (type 1) implant placement — foundational socket-healing & post-extraction dimensional change (Araujo/Botticelli/Covani), placement-timing immediate-vs-delayed evidence (the category's defining axis) & overall survival/outcome SRs, flap-vs-flapless, full-arch/edentulous, and cross-cutting …
 > - **하위 카테고리**: [[anatomic-assessment]] · [[esthetic-soft-tissue]] · [[gap-grafting]] · [[infected-socket]] · [[loading-protocol]] · [[molar-septum]] · [[primary-stability]] · [[root-analog]] · [[socket-shield]]
-> - **수록 논문**: 33편
+> - **수록 논문**: 34편
 
 ## Three-line Summary
 
 **Scope**: Immediate (type 1) implant placement — foundational socket-healing & post-extraction dimensional change (Araujo/Botticelli/Covani), placement-timing immediate-vs-delayed evidence (the category's defining axis) & overall survival/outcome SRs, flap-vs-flapless, full-arch/edentulous, and cross-cutting modifiers lacking their own subcategory (systemic/diabetic, digital-guided accuracy, immediate+sinus-elevation adjunct, postoperative infection).
-**Indexed papers**: 33 papers in `wiki/immediate-implant/`.
+**Indexed papers**: 34 papers in `wiki/immediate-implant/`.
 **Sub-categories**: [[anatomic-assessment]], [[esthetic-soft-tissue]], [[gap-grafting]], [[infected-socket]], [[loading-protocol]], [[molar-septum]], [[primary-stability]], [[root-analog]], [[socket-shield]]
 
 ## 세줄요약
 
 **분야**: 즉시식립 (general)
-**수록 논문**: 33편
+**수록 논문**: 34편
 **하위 카테고리**: anatomic-assessment, esthetic-soft-tissue, gap-grafting, infected-socket, loading-protocol, molar-septum, primary-stability, root-analog, socket-shield
 
-## Papers in this Category (33)
+## Papers in this Category (34)
 
 | Paper |
 |---|
@@ -58,6 +58,7 @@ tags: [navigation, category-index, immediate-implant]
 | [[lee-2021-immediate-implant-placement-in-fresh|신선한 발거 소켓에서의 즉시 임플란트 식립]] |
 | [[li-2026-safety-feasibility-immediate-implant-diabetic|Safety and feasibility of immediate implant placement in diabetic patients: A systematic review and meta-analysis]] |
 | [[liu-2019-immediate-implant-transalveolar-sinus-elevation|Immediate implant placement combined with maxillary sinus floor elevation utilizing the transalveolar approach and nonsubmerged healing for failing teeth in the maxillary molar area: An RCT with one-year follow-up]] |
+| [[liu-2025-iip-iipp-classification-surgical-restorative|Classification of immediate implant placement (IIP) and immediate implant placement with provisionalization (IIPP) based on the scores of surgical and restorative difficulties]] |
 | [[mello-2017-immediate-fresh-extraction-vs-delayed-healed-socket-sr-ma|Immediate implant placement into fresh extraction sockets versus delayed implants into healed sockets: A systematic review and meta-analysis]] |
 | [[patel-2023-immediate-vs-delayed-implant-survival-sr-ma|Differences in Dental Implant Survival between Immediate vs. Delayed Placement: A Systematic Review and Meta-Analysis]] |
 | [[pitman-2023-immediate-implant-flap-flapless-sr-ma|Immediate implant placement with flap or flapless surgery: A systematic review and meta-analysis]] |

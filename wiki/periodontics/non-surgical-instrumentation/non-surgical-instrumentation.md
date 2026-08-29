@@ -2,7 +2,7 @@
 title: "치주치료·비외과적기구처치 — non-surgical-instrumentation"
 authors: navigation
 year: 2026
-date: 2026-08-11
+date: 2026-08-29
 doi: N/A
 source: navigation
 category: periodontics/non-surgical-instrumentation
@@ -15,23 +15,24 @@ tags: [navigation, category-index, non-surgical-instrumentation]
 > [!summary] 한국어 핵심요약
 > - **분야**: 치주치료·비외과적기구처치
 > - **범위**: Professional non-surgical periodontal instrumentation — scaling & root planing (SRP), guided biofilm therapy (GBT), air-polishing, hand vs ultrasonic/piezoelectric scaling & instrument biomechanics/ergonomics, subgingival irrigation/reinstrumentation, SRP treatment guidelines
-> - **수록 논문**: 29편
+> - **수록 논문**: 30편
 
 ## Three-line Summary
 
 **Scope**: Professional non-surgical periodontal instrumentation — scaling & root planing (SRP), guided biofilm therapy (GBT), air-polishing, hand vs ultrasonic/piezoelectric scaling & instrument biomechanics/ergonomics, subgingival irrigation/reinstrumentation, SRP treatment guidelines
-**Indexed papers**: 29 papers in `wiki/periodontics/non-surgical-instrumentation/`.
+**Indexed papers**: 30 papers in `wiki/periodontics/non-surgical-instrumentation/`.
 
 ## 세줄요약
 
 **분야**: 치주치료·비외과적기구처치
-**수록 논문**: 29편
+**수록 논문**: 30편
 **하위 카테고리**: 없음
 
-## Papers in this Category (29)
+## Papers in this Category (30)
 
 | Paper |
 |---|
+| [[annisa-2023-chx-gel-chip-srp-sr-ma|Effectiveness of chlorhexidine gels and chips in Periodontitis Patients after Scaling and Root Planing: a systematic review and Meta-analysis]] |
 | [[barahim-2024-ozone-gel-srp-diabetic-periodontitis-rct|Clinical and radiographic evaluation of non-surgical therapy with and without ozone gel application in controlled type 2 diabetic patients with periodontitis: a randomized controlled clinical trial]] |
 | [[cyris-2024-guided-biofilm-therapy-versus-conventional|Guided biofilm therapy versus conventional protocol—clinical outcomes in non-surgical periodontal therapy]] |
 | [[dang-2024-effect-novel-ergonomic-sheath-dental|Effect of a Novel Ergonomic Sheath on Dental Device-Related Muscle Work, Fatigue and Comfort-A Pilot Clinical Study.]] |

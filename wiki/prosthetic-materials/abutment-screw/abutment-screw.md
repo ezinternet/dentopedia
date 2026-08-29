@@ -2,7 +2,7 @@
 title: "보철재료·지대주나사 — abutment-screw"
 authors: navigation
 year: 2026
-date: 2026-08-11
+date: 2026-08-29
 doi: N/A
 source: navigation
 category: prosthetic-materials/abutment-screw
@@ -15,25 +15,26 @@ tags: [navigation, category-index, abutment-screw]
 > [!summary] 한국어 핵심요약
 > - **분야**: 보철재료·지대주나사
 > - **범위**: Implant abutment screw & retention biomechanics — preload, removal/insertion torque, screw-loosening, settling effect, retightening, screw coatings, morse-taper/conical connections, screw- vs cement-retention comparisons
-> - **수록 논문**: 31편
+> - **수록 논문**: 32편
 
 ## Three-line Summary
 
 **Scope**: Implant abutment screw & retention biomechanics — preload, removal/insertion torque, screw-loosening, settling effect, retightening, screw coatings, morse-taper/conical connections, screw- vs cement-retention comparisons
-**Indexed papers**: 31 papers in `wiki/prosthetic-materials/abutment-screw/`.
+**Indexed papers**: 32 papers in `wiki/prosthetic-materials/abutment-screw/`.
 
 ## 세줄요약
 
 **분야**: 보철재료·지대주나사
-**수록 논문**: 31편
+**수록 논문**: 32편
 **하위 카테고리**: 없음
 
-## Papers in this Category (31)
+## Papers in this Category (32)
 
 | Paper |
 |---|
 | [[aalaei-2017-segmented-nonsegmented-abutment-fea|Stress distribution pattern of screw-retained restorations with segmented vs. non-segmented abutments: A finite element analysis]] |
 | [[angermair-2024-microgap-abutment-displacement-implant-connection|In vitro assessment of internal implant-abutment connections with different cone angles under static loading using synchrotron-based radiation]] |
+| [[arul-2026-comparative-evaluation-of-abutment-screw|Comparative evaluation of abutment screw loosening with two different thread lockers under cyclic loading: An in vitro study]] |
 | [[bulaqi-2015-dynamic-nature-abutment-screw-retightening|Dynamic nature of abutment screw retightening: finite element study of the effect of retightening on the settling effect]] |
 | [[coelho-2024-preload-removal-torque-screw-coatings-laboratory|GapSeal vs PTFE Tape Screw Coatings: Effect on Preload and Removal Torque (In Vitro)]] |
 | [[coelho-2025-screw-coating-ptfe-gapseal-cyclic-load|PTFE Tape vs GapSeal Screw Coating Under Cyclic Loading: RTV Reversal Effect]] |

@@ -2,7 +2,7 @@
 title: "치주치료·치면세균막관리 — oral-hygiene-instruction"
 authors: navigation
 year: 2026
-date: 2026-08-11
+date: 2026-08-29
 doi: N/A
 source: navigation
 category: periodontics/oral-hygiene-instruction
@@ -15,20 +15,20 @@ tags: [navigation, category-index, oral-hygiene-instruction]
 > [!summary] 한국어 핵심요약
 > - **분야**: 치주치료·치면세균막관리
 > - **범위**: Patient/home plaque control — toothbrush (manual/powered/electric) design & technique, Watanabe/Bass toothpick methods, toothpaste/dentifrice, chemical plaque control (chlorhexidine & other mouthrinse adjuncts), plaque-disclosing agents & indices, digital plaque monitoring
-> - **수록 논문**: 27편
+> - **수록 논문**: 29편
 
 ## Three-line Summary
 
 **Scope**: Patient/home plaque control — toothbrush (manual/powered/electric) design & technique, Watanabe/Bass toothpick methods, toothpaste/dentifrice, chemical plaque control (chlorhexidine & other mouthrinse adjuncts), plaque-disclosing agents & indices, digital plaque monitoring
-**Indexed papers**: 27 papers in `wiki/periodontics/oral-hygiene-instruction/`.
+**Indexed papers**: 29 papers in `wiki/periodontics/oral-hygiene-instruction/`.
 
 ## 세줄요약
 
 **분야**: 치주치료·치면세균막관리
-**수록 논문**: 27편
+**수록 논문**: 29편
 **하위 카테고리**: 없음
 
-## Papers in this Category (27)
+## Papers in this Category (29)
 
 | Paper |
 |---|
@@ -58,4 +58,6 @@ tags: [navigation, category-index, oral-hygiene-instruction]
 | [[sooampon-2026-dc-red-33-erythrosine-plaque-disclosure-rct|Evaluation of D&C Red No. 33 as an alternative to erythrosine for plaque disclosure: a randomized crossover trial]] |
 | [[suvan-2025-complex-world-toothpaste-diversity-meeting|The Complex World of Toothpaste Diversity, Meeting Patient Clinical Needs. An Umbrella Review]] |
 | [[valkenburg-2019-plaque-control-dentifrices-evidence|Plaque control and reduction of gingivitis: The evidence for dentifrices]] |
+| [[van-swaaij-2019-chx-ads-discoloration-sr-ma|Does chlorhexidine mouthwash with an anti-discoloration system reduce tooth surface discoloration without losing its efficacy? A systematic review and meta-analysis]] |
+| [[windhorst-2025-cpc-chx-plaque-gingivitis-sr-ma|The Effect of Cetylpyridinium Chloride Compared to Chlorhexidine Mouthwash on Scores of Plaque and Gingivitis: A Systematic Review and Meta-Analyses]] |
 | [[zini-2026-electric-vs-manual-toothbrush-children-plaque-rct|Plaque Reduction Efficacy of an Advanced Electric Toothbrush Compared with a Manual Toothbrush Among 6- to 10-Year-Old Children: Results From a 4-Week Randomised Controlled Trial]] |

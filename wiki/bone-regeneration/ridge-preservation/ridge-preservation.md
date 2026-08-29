@@ -2,7 +2,7 @@
 title: "골재생·치조제보존 — ridge-preservation"
 authors: navigation
 year: 2026
-date: 2026-08-11
+date: 2026-08-29
 doi: N/A
 source: navigation
 category: bone-regeneration/ridge-preservation
@@ -15,20 +15,20 @@ tags: [navigation, category-index, ridge-preservation]
 > [!summary] 한국어 핵심요약
 > - **분야**: 골재생·치조제보존
 > - **범위**: Alveolar ridge preservation (ARP) / socket preservation — post-extraction dimensional changes (Araujo/Tan/Schropp), ARP efficacy SR/MA & Cochrane, grafting materials & sealing/socket-seal, flap vs flapless, biologics/PRF, esthetic-zone ARP, ARP→implant outcomes
-> - **수록 논문**: 78편
+> - **수록 논문**: 80편
 
 ## Three-line Summary
 
 **Scope**: Alveolar ridge preservation (ARP) / socket preservation — post-extraction dimensional changes (Araujo/Tan/Schropp), ARP efficacy SR/MA & Cochrane, grafting materials & sealing/socket-seal, flap vs flapless, biologics/PRF, esthetic-zone ARP, ARP→implant outcomes
-**Indexed papers**: 78 papers in `wiki/bone-regeneration/ridge-preservation/`.
+**Indexed papers**: 80 papers in `wiki/bone-regeneration/ridge-preservation/`.
 
 ## 세줄요약
 
 **분야**: 골재생·치조제보존
-**수록 논문**: 78편
+**수록 논문**: 80편
 **하위 카테고리**: 없음
 
-## Papers in this Category (78)
+## Papers in this Category (80)
 
 | Paper |
 |---|
@@ -43,6 +43,7 @@ tags: [navigation, category-index, ridge-preservation]
 | [[avila-ortiz-2014-alveolar-ridge-preservation-systematic-review|Effect of Alveolar Ridge Preservation after Tooth Extraction: A Systematic Review and Meta-analysis]] |
 | [[avila-ortiz-2019-alveolar-ridge-preservation-interventions|Effect of alveolar ridge preservation interventions following tooth extraction: A systematic review and meta-analysis]] |
 | [[bassir-2018-alveolar-ridge-preservation-meta-analysis|Systematic Review and Meta-Analysis of Hard Tissue Outcomes of Alveolar Ridge Preservation]] |
+| [[benekou-2025-histological-arp-vs-spontaneous-healing-sr-ma|Histological Outcomes of Alveolar Ridge Preservation vs Spontaneous Healing: A Systematic Review and Meta-Analysis of Randomized Controlled Trials]] |
 | [[canullo-2021-arp-biomaterials-dimensional-nma|Dimensional and histomorphometric evaluation of biomaterials used for alveolar ridge preservation: a systematic review and network meta-analysis]] |
 | [[cardaropoli-2003-bone-tissue-formation-extraction|Dynamics of bone tissue formation in tooth extraction sites — an experimental study in dogs]] |
 | [[che-2024-alveolar-ridge-preservation-review|Navigating Alveolar Ridge Preservation: Techniques, Materials, and Clinical Implications]] |
@@ -59,6 +60,7 @@ tags: [navigation, category-index, ridge-preservation]
 | [[fischer-2022-bone-envelope-arp-dbbm-sr-ma|Bone envelope for implant placement after alveolar ridge preservation: a systematic review and meta-analysis]] |
 | [[fok-2024-alveolar-socket-healing-evolving-knowledge|Learn, unlearn, and relearn post-extraction alveolar socket healing: Evolving knowledge and practices]] |
 | [[friedmann-2020-rclc-membrane-open-healing-ridge-preservation|Open healing of contained and non-contained extraction sockets covered with a ribose cross-linked collagen membrane: a pilot study]] |
+| [[friedmann-2026-arp-crosslinked-xenograft-open-healing-case-series|Alveolar Ridge Preservation Using Open Healing with a Sugar-Crosslinked Collagen/Hydroxyapatite Sponge: A Case Series]] |
 | [[hartmann-2026-bio-oss-collagen-ridge-preservation-cbct-cohort|Volumetric Analysis of Ridge Preservation Using Bio-Oss Collagen: A Retrospective Cohort Study Based on CBCT and Panoramic Radiographs]] |
 | [[ionescu-2022-open-healing-flapless-ridge-preservation|Open Healing: A Minimally Invasive Protocol with Flapless Ridge Preservation in Implant Patients]] |
 | [[iorio-siciliano-2019-dimensional-changes-following-alveolar-ridge|Dimensional changes following alveolar ridge preservation in the posterior area using bovine-derived xenografts and collagen membrane compared to spontaneous healing: a 6-month randomized controlled clinical trial]] |

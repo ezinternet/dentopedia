@@ -2,7 +2,7 @@
 title: "즉시식립·해부학적평가 — anatomic-assessment"
 authors: navigation
 year: 2026
-date: 2026-08-11
+date: 2026-08-29
 doi: N/A
 source: navigation
 category: immediate-implant/anatomic-assessment
@@ -15,25 +15,26 @@ tags: [navigation, category-index, anatomic-assessment]
 > [!summary] 한국어 핵심요약
 > - **분야**: 즉시식립·해부학적평가
 > - **범위**: Preoperative CBCT anatomic/morphometric case-selection for immediate implant placement (IIP) — Kan sagittal-root-position (SRP) classification & population prevalence, labial/buccal plate thickness & fenestration/dehiscence risk, incisive-canal proximity, alveolar bone dimensions/root inclination, p…
-> - **수록 논문**: 17편
+> - **수록 논문**: 18편
 
 ## Three-line Summary
 
 **Scope**: Preoperative CBCT anatomic/morphometric case-selection for immediate implant placement (IIP) — Kan sagittal-root-position (SRP) classification & population prevalence, labial/buccal plate thickness & fenestration/dehiscence risk, incisive-canal proximity, alveolar bone dimensions/root inclination, posterior-mandible root-to-IAC safety distance, premolar cortical-perforation risk; anatomy-only datasets & CBCT decision frameworks with no site-specific anchorage technique or implant outcome.
-**Indexed papers**: 17 papers in `wiki/immediate-implant/anatomic-assessment/`.
+**Indexed papers**: 18 papers in `wiki/immediate-implant/anatomic-assessment/`.
 
 ## 세줄요약
 
 **분야**: 즉시식립·해부학적평가
-**수록 논문**: 17편
+**수록 논문**: 18편
 **하위 카테고리**: 없음
 
-## Papers in this Category (17)
+## Papers in this Category (18)
 
 | Paper |
 |---|
 | [[abdul-2024-srp-maxillary-mandibular-anterior-cbct|Analysis of the Sagittal Root Position of the Maxillary and Mandibular Anterior Teeth in the Alveolar Bone Using Cone-Beam Computed Tomography]] |
 | [[al-amery-2015-cbct-maxillary-incisive-canal-immediate-implants|CBCT Assessment of Maxillary Incisive Canal and Foramen: Anatomical Variations for Immediate Implant Placement]] |
+| [[alqaood-2026-cpdu-classification-posterior-mandible|A New Classification System to Determine Posterior Mandible Morphology for Implant Therapy]] |
 | [[altarawneh-2018-bone-dimensions-anterior-maxilla-cbct|Assessment of Bone Dimensions in the Anterior Maxilla: A Cone Beam Computed Tomography Study]] |
 | [[behfarnia-2025-anatomic-immediate-implant-mandibular-posterior|Anatomic considerations for immediate implant placement in the mandibular posterior region — A systematic review and meta-analysis]] |
 | [[dossantos-2019-buccal-bone-root-inclination-alveolar-cbct|Analysis of the Buccal Bone Plate, Root Inclination and Alveolar Bone Dimensions in the Jawbone. A Descriptive Study Using Cone-Beam Computed Tomography]] |

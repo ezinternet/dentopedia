@@ -2,7 +2,7 @@
 title: "행동치의학·커뮤니케이션 — communication-relationship"
 authors: navigation
 year: 2026
-date: 2026-08-11
+date: 2026-08-29
 doi: N/A
 source: navigation
 category: behavioral-dentistry/communication-relationship
@@ -15,20 +15,20 @@ tags: [navigation, category-index, communication-relationship]
 > [!summary] 한국어 핵심요약
 > - **분야**: 행동치의학·커뮤니케이션
 > - **범위**: Dentist–patient communication skills/training, dentist–patient relationship determinants, shared decision-making, patient expectation management
-> - **수록 논문**: 12편
+> - **수록 논문**: 18편
 
 ## Three-line Summary
 
 **Scope**: Dentist–patient communication skills/training, dentist–patient relationship determinants, shared decision-making, patient expectation management
-**Indexed papers**: 12 papers in `wiki/behavioral-dentistry/communication-relationship/`.
+**Indexed papers**: 18 papers in `wiki/behavioral-dentistry/communication-relationship/`.
 
 ## 세줄요약
 
 **분야**: 행동치의학·커뮤니케이션
-**수록 논문**: 12편
+**수록 논문**: 18편
 **하위 카테고리**: 없음
 
-## Papers in this Category (12)
+## Papers in this Category (18)
 
 | Paper |
 |---|
@@ -39,8 +39,14 @@ tags: [navigation, category-index, communication-relationship]
 | [[currie-2021-promoting-regular-dental-attendance-problem|Promoting regular dental attendance in problem-orientated dental attenders: A systematic review of potential interventions]] |
 | [[dawood-2025-patient-expectations-implant-aesthetic-dentistry|Patient expectations in implant and aesthetic dentistry]] |
 | [[elwyn-2025-shared-decision-making-primer-clinicians|Shared Decision-Making: A Primer for Clinicians]] |
+| [[hayer-2022-gdp-perceptions-shared-decision-making-qualitative|General dental practitioners' perceptions of shared decision making: a qualitative study]] |
 | [[ho-2025-overview-dentist-patient-communication-quality|An Overview of Dentist-Patient Communication in Quality Dental Care]] |
+| [[iyer-2025-aided-unaided-decision-making-partial-denture|Aided and Unaided Decision-Making Among Partial Denture-Seeking Prosthodontic Patients Utilizing the Decisional Conflict Scale]] |
 | [[iyer-2026-shared-decision-making-knowledge-attitude-dental-trainees|Knowledge and Attitude Toward Shared Decision-Making (SDM) Among Senior Students and Residents of Dental College at Riyadh City: A Cross-Sectional Study]] |
 | [[khalifah-2019-teaching-assessment-dentist-patient-communication|Teaching and Assessment of Dentist-Patient Communication Skills: A Systematic Review to Identify Best-Evidence Methods]] |
+| [[okyere-boadu-2025-patient-challenges-dental-care-ghana|Patients Perceived Challenges in Seeking Dental Care in Komfo Anokye Teaching Hospital]] |
 | [[otero-2022-informed-consent-dentistry-medicine-spain|Informed consent in dentistry and medicine in Spain: Practical considerations and legality]] |
+| [[qadiri-2026-digital-smile-design-patient-satisfaction-treatment|Impact of Digital Smile Design on Patient Satisfaction and Treatment Acceptance in Esthetic Dental Practice: A Clinical Study]] |
+| [[taylor-2022-unmet-dental-need-prevalence-us-adults|Prevalence of and Factors Associated with Unmet Dental Need Among the US Adult Population in 2016]] |
+| [[touati-2021-communication-tools-patient-satisfaction-scoping|Communication tools and patient satisfaction: A scoping review]] |
 | [[wittink-2018-patient-education-health-literacy|Patient education and health literacy.]] |

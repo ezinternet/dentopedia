@@ -2,7 +2,7 @@
 title: "전신질환·약물·항생제 — antibiotics"
 authors: navigation
 year: 2026
-date: 2026-08-11
+date: 2026-08-29
 doi: N/A
 source: navigation
 category: drug/antibiotics
@@ -15,20 +15,20 @@ tags: [navigation, category-index, antibiotics]
 > [!summary] 한국어 핵심요약
 > - **분야**: 전신질환·약물·항생제
 > - **범위**: Dental antibiotic prescribing, prophylaxis, antibiotic stewardship; AMX/CLV, clindamycin, azithromycin, metronidazole, cephalosporins; periodontal/endodontic/surgical adjunct use
-> - **수록 논문**: 38편
+> - **수록 논문**: 39편
 
 ## Three-line Summary
 
 **Scope**: Dental antibiotic prescribing, prophylaxis, antibiotic stewardship; AMX/CLV, clindamycin, azithromycin, metronidazole, cephalosporins; periodontal/endodontic/surgical adjunct use
-**Indexed papers**: 38 papers in `wiki/drug/antibiotics/`.
+**Indexed papers**: 39 papers in `wiki/drug/antibiotics/`.
 
 ## 세줄요약
 
 **분야**: 전신질환·약물·항생제
-**수록 논문**: 38편
+**수록 논문**: 39편
 **하위 카테고리**: 없음
 
-## Papers in this Category (38)
+## Papers in this Category (39)
 
 | Paper |
 |---|
@@ -39,6 +39,7 @@ tags: [navigation, category-index, antibiotics]
 | [[chunduri-2012-bacterial-spectrum-orofacial-infections|Evaluation of bacterial spectrum of orofacial infections and their antibiotic susceptibility]] |
 | [[de-angelis-2025-antibiotic-third-molar-extraction-prevention-sr|Antibiotic Prescription for the Prevention of Postoperative Complications After Third-Molar Extractions: A Systematic Review]] |
 | [[diaz-2025-antibiotics-sinus-lift-infection-umbrella|Use of antibiotics for prevention and treatment of sinus lift infections: an umbrella review of systematic reviews and meta-analyses]] |
+| [[dubedout-2025-antibiotic-prophylaxis-early-complications|What is the effectiveness of antibiotic prophylaxis in preventing early complications following implant surgery? A systematic review]] |
 | [[esposito-2013-antibiotics-dental-implant-placement-cochrane|Interventions for replacing missing teeth: antibiotics at dental implant placement to prevent complications]] |
 | [[feldman-2023-metronidazole-disulfiram-reaction-case-control|Can Metronidazole Cause a Disulfiram-Like Reaction? A Case-Control Study Propensity Matched by Age, Sex, and Ethanol Concentration]] |
 | [[goel-2020-antibiotic-prescriptions-in-pediatric-dentistry|Antibiotic prescriptions in pediatric dentistry: A review]] |
