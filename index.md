@@ -990,6 +990,9 @@ tags: []
 - [[periodontics/papapanou-2018-periodontitis-classification-consensus-2017]] — 2017 치주 세계 워크샵 치주염 새 분류 — Staging I–IV(중증도) + Grading A–C(진행속도/반응성).
 - [[periodontics/roccuzzo-2022-implants-periodontitis-history-20year-prospective]] — 치주염 병력 20년 전향적 연구 — 치주염 병력군 생존율 81% vs 비병력군 91%, SPT 순응도 결정적.
 - [[periodontics/manresa-2018-supportive-periodontal-therapy-cochrane-sr]] — Cochrane SR (CD009376.pub2): SPT 관련 RCT 증거 극히 제한적; 전문의 vs 비전문의·항균제 보조·광치료 모두 high-quality 근거 부족; 다만 순응군 치아 상실 RR 0.47, CAL 안정, 3–6개월 간격 임상 권고 (heterogeneity로 MA 미수행)
+- [[periodontics/fee-2020-recall-intervals-oral-health-primary-care]] — Cochrane SR (2 RCT, n=1736): risk-based vs 6개월 vs 24개월 리콜 간격, 4년 추적 시 우식·치은출혈·OHRQoL 차이 없음 (고확실성)
+- [[periodontics/non-surgical-instrumentation/matthews-2024-dental-scaling-polishing-adults-rapid-review]] — 급속 리뷰(8연구): 저위험 성인에서 S&P 임상 이득 없음; 치주염 치료력 있는 환자는 위험 기반 3–12개월 SPT 강력권고(EFP Grade A); 치아상실·AMI 비용 감소 효과
+- [[periodontics/wang-2026-long-term-periodontal-peri-implant-tissue-stability]] — 서술 리뷰: 3–6개월(중·고위험) / 12개월(저위험) SPC·SPIC로 치아·임플란트 상실 현저히 감소; 잔존 포켓≥5–6mm·비순응이 재발 주예측인자; AI·바이오마커 통합 개인화 유지관리 프로토콜
 - [[periodontics/non-surgical-instrumentation/smiley-2015-nonsurgical-periodontitis-srp-guideline]] — 만성 치주염 비수술 치료(SRP ± 보조) 근거기반 가이드라인 — SRP 강력 권고, 전신 독시사이클린 추가 PPD 0.2–0.4mm 감소.
 - [[periodontics/nibali-2016-tooth-loss-furcation-involvement-sr-ma]] — SR+MA(21편): 치근분지부 침범 대구치 치아 소실 위험 10–15년 RR 2.21(p<0.0001); 3도 포함 대부분 치주치료로 보존 가능.
 - [[periodontics/stavropoulos-2021-periodontal-regeneration-intrabony-nma]] — SR+NMA(30개 RCT, 3–20년): 골내결손 재생/재건술이 OFD보다 PD·CAL에서 유의하게 우수; 병용요법이 단독요법보다 더 효과적; 치아소실 0.4% vs OFD 2.8%.
