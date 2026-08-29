@@ -3189,6 +3189,9 @@ tags: []
 - [[implants/peri-implantitis/soldini-2025-reconstructive-therapy-peri-implantitis-rct]] — Soldini 2025 · rct (34pt): 비수술치료 후 재건 vs 지지치료 — 질환 해소 동등(~44%), 골충전은 재건군 3배(1.21 vs 0.36mm)
 - [[implants/peri-implantitis/hakkers-2026-reconstructive-peri-implantitis-3wall-4wall-rct]] — Hakkers 2026, rct: reconstructive surgery (autogenous bone + Bio-Oss + Bio-Gide) vs open-flap debridement in 3- and 4-wall peri-implantitis defects (n=52 patients, 1 yr) — reconstruction improved MBL (β=−1.65 mm) and mid-buccal recession (β=−1.68 mm) but not PPD, BoP, SoP, or disease resolution (~44% both groups)
 - [[implants/peri-implantitis/gardelis-2025-implant-surface-modifications-peri-implantitis]] — Gardelis 2025 · sr (17편·≥3yr): 거친 표면이 매끈한 표면보다 수술 후 재발·상실 위험↑, 재건술식 유리(근거확실성 낮음)
+- [[implants/peri-implantitis/park-2025-implantoplasty-vs-titanium-brushes-peri-implantitis-rct]] — Park 2025 · rct (n=30, 연세대): 임플란토플라스티 vs 회전 티타늄 브러시 비열등성 RCT — 티타늄 브러시 PPD 비열등(-3.6 vs -3.3mm), MBL 보존 유리(0.0 vs +0.7mm, p=0.03), 표면처리 시간 45% 단축(DOI 10.1111/jcpe.70056)
+- [[implants/peri-implantitis/monje-2026-flip-vs-plip-implantoplasty-extent-peri-implantitis-rct]] — Monje 2026 · quasi-rct (n=40임플란트, 스페인): FLIP(전장) vs PLIP(부분) 임플란토플라스티 병합수술 — FLIP MBL 획득 우세(2.42 vs 1.62mm, p=0.009), 질환해소 90.4% vs 64.6%, 단 치은퇴축 더 큼; 흡연=독립실패인자, COI 주의(DOI 10.1111/cid.70144)
+- [[implants/peri-implantitis/zhou-2026-surgical-protocols-peri-implantitis-cohort]] — Zhou 2026 · retrospective-cohort (n=406임플란트/223명, 프랑크푸르트): OFD·임플란토플라스티·재건·병합 4군 비교, 전군 티타늄브러시 — 1년 성공 54.7%, 군간 유의차 없음(검정력 27%); 항생제·술자경험이 성공 최강 예측(DOI 10.1111/jcpe.70115)
 
 #### implants/surface — review
 - [[implants/surface/jadhav-2026-dental-implant-surface-review]] — Jadhav 2026 · narrative-review: 임플란트 표면개질 전반 + 반응성 코팅·오믹스·AI 신경향, 면역반응·in vivo 검증 과소
