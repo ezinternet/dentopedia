@@ -11,13 +11,13 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/smith-1996-extracting-upper-second-mo
 pdf_filename: smith-1996-extracting-upper-second-molars-lower-molar-position.pdf
 tags: [overeruption, supraeruption, unopposed-molar, second-molar, upper-second-molar, lower-second-molar, third-molar, orthodontic-extraction, case-control, travelling-microscope, occlusion, molar-position]
 relations:
-  - type: precedes
+  - type: reinforces
     target: craddock-2004-incidence-overeruption-occlusal-interferences-unopposed
     note: "Early case-control evidence for overeruption of unopposed lower second molar after upper second molar extraction; Craddock 2004 extended to all posterior teeth."
-  - type: related
+  - type: reinforces
     target: livas-2016-fixed-retention-unopposed-molar-overeruption
     note: "Livas 2016 examines upper first molar extraction context; Smith 1996 examines upper second molar extraction — complementary extraction sites."
-  - type: related
+  - type: reinforces
     target: christou-2007-three-dimensional-changes-unopposed-molars-adults
     note: "Christou 2007 provides 3D CBCT quantification of unopposed molar changes; Smith 1996 provides earlier cast-based evidence in orthodontic extraction context."
 ---
