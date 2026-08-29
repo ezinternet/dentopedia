@@ -2,7 +2,7 @@
 title: "임플란트·주위염 — peri-implantitis"
 authors: navigation
 year: 2026
-date: 2026-08-11
+date: 2026-08-29
 doi: N/A
 source: navigation
 category: implants/peri-implantitis
@@ -15,20 +15,20 @@ tags: [navigation, category-index, peri-implantitis]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·주위염
 > - **범위**: Peri-implantitis prevalence, risk factors, non-surgical/surgical treatment, surface decontamination, GBR for peri-implant defects
-> - **수록 논문**: 63편
+> - **수록 논문**: 66편
 
 ## Three-line Summary
 
 **Scope**: Peri-implantitis prevalence, risk factors, non-surgical/surgical treatment, surface decontamination, GBR for peri-implant defects
-**Indexed papers**: 63 papers in `wiki/implants/peri-implantitis/`.
+**Indexed papers**: 66 papers in `wiki/implants/peri-implantitis/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·주위염
-**수록 논문**: 63편
+**수록 논문**: 66편
 **하위 카테고리**: 없음
 
-## Papers in this Category (63)
+## Papers in this Category (66)
 
 | Paper |
 |---|
@@ -74,6 +74,8 @@ tags: [navigation, category-index, peri-implantitis]
 | [[mojaver-2025-supportive-peri-implant-therapy-efficacy-sr|Efficacy of supportive peri-implant therapy in the management of peri-implant mucositis and peri-implantitis: A systematic review]] |
 | [[monje-2025-surface-decontamination-reconstructive-peri-implantitis|Surface Decontamination in Reconstructive Peri-Implantitis Therapy: A Multicenter RCT (Electrolytic vs Hydrogen Peroxide)]] |
 | [[monje-2025-surgical-implant-factors-peri-implant-diseases|Surgical- and implant-related factors and onset/progression of peri-implant diseases: An AO/AAP systematic review]] |
+| [[monje-2026-flip-vs-plip-implantoplasty-extent-peri-implantitis-rct|FLIP vs PLIP: Full vs Partial Implantoplasty in Combined Peri-Implantitis Surgery — Quasi-RCT]] |
+| [[park-2025-implantoplasty-vs-titanium-brushes-peri-implantitis-rct|Implantoplasty vs. Rotating Titanium Brushes in Peri-Implantitis Surgery: 1-Year Non-Inferiority RCT]] |
 | [[pirc-2026-emergence-profile-angle-peri-implant|Emergence Profile Angle Matters—Restoring Peri-Implant Health by Adjusting Prosthetics]] |
 | [[pujarern-2024-biofilm-removal-implant-airflow-erythritol|Efficacy of Biofilm Removal on the Dental Implant Surface by Sodium Bicarbonate and Erythritol Powder Airflow System]] |
 | [[quirynen-2025-peri-implantitis-risk-assessment-pira|Peri-implantitis Risk Assessment (PiRA) Part 2: Retrospective Study and Framework for an Evidence-Based Prediction Model for Clinicians]] |
@@ -95,3 +97,4 @@ tags: [navigation, category-index, peri-implantitis]
 | [[wang-2022-buccal-emergence-profile-peri-implant-rct|Influence of buccal emergence profile designs on peri-implant tissues: A randomized controlled trial.]] |
 | [[wang-2025-ao-aap-consensus-peri-implant-diseases-conditions|AO/AAP consensus on prevention and management of peri-implant diseases and conditions: Summary report]] |
 | [[zhang-2025-keratinized-mucosa-width-peri-implant-meta-analysis|The relationship between adequate keratinized mucosa and peri-implant disease: a systematic review and meta-analysis]] |
+| [[zhou-2026-surgical-protocols-peri-implantitis-cohort|Surgical Protocols for Peri-Implantitis: OFD vs Implantoplasty vs Reconstructive vs Combined — Retrospective Cohort (Frankfurt)]] |
