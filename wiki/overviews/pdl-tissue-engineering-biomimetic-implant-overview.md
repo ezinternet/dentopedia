@@ -12,15 +12,15 @@ pdf_filename: N/A
 source_collection: synthesis
 tags: [pdl, tissue-engineering, ligaplant, biomimetic-implant, pdlsc, osseointegration, proprioception, mechanotransduction, bio-hybrid-implant, stem-cells, trpv4, piezo1, rankl, gault-2010, shock-absorption]
 relations:
-  - type: synthesizes
+  - type: extends
     target: implants/mathew-2020-biomimetic-pdl-cementum-dental-implants
-  - type: synthesizes
+  - type: extends
     target: implants/bajaj-2023-ligaplants-pdl-tissue-engineering-implant
-  - type: synthesizes
+  - type: extends
     target: orthodontics/zhao-2025-periodontal-ligament-stem-cells-tissue
-  - type: related
+  - type: reinforces
     target: overviews/bone-quality-implant-risk-modification-overview
-  - type: related
+  - type: reinforces
     target: overviews/pdl-periapical-pain-mechanism-overview
 ---
 
