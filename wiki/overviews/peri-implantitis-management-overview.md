@@ -2,7 +2,7 @@
 title: "임플란트주위염(Peri-implantitis) — 역학·예방·치료 종합"
 authors: Synthesis (Damian Lee)
 year: 2026
-date: 2026-07-10
+date: 2026-08-29
 doi: N/A
 source: N/A
 category: overviews
@@ -16,13 +16,16 @@ tags: [peri-implantitis, peri-implant-mucositis, prevalence, decontamination, GB
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
-> - 임플란트주위염 (Peri-implantitis) 10편을 역학·예방·치료·보철해부학적 위험인자로 종합한 페이지로, 임플란트 기능의 장기 최대 위협을 다룬다.
+> - 임플란트주위염 (Peri-implantitis) 26+편을 역학·예방·치료·보철해부학적 위험인자로 종합한 페이지로, 임플란트 기능의 장기 최대 위협을 다룬다.
 > - 유병률: **Reis 2025** (2017 세계 워크숍 기준 전용, SR+MA 20편) — 점막염 63.0%·임플란트주위염 25.0% (환자 수준); 비흡연자 임플란트주위염 5.2% (임플란트 수준). Diaz 2022 (57편, 혼합정의)의 19.53%보다 높은 이유는 2017 WW 기준이 더 포괄적이기 때문 — 진단 기준이 유병률 산포의 최대 결정인자임을 재확인. [확인]
 > - 1차 예방의 핵심 전략 메시지: 임플란트주위 점막염 (Peri-implant Mucositis) 관리가 곧 임플란트주위염의 1차 예방 — 점막염은 가역적, 임플란트주위염은 비가역적 (Jepsen 2015).
 > - 탐침시출혈 (Bleeding on Probing, BoP) 이 건강 vs 염증을 구분하는 1차 임상 징후이고, 정기 지지치료 (SPT) 부재가 진행 위험을 높인다.
 > - 점막염 관리: 전문가 기계적 치면세균막 제거 (PMPR) 가 gold standard이며, 보조제 (CHX·국소 항생제·NaOCl·프로바이오틱스) 는 PMPR 단독 대비 일관된 추가 이득 없음 (Mauriello 2026). [확인]
 > - 외과적 표면 제염 (decontamination): 기계적·화학적·물리적 (레이저 등) 프로토콜 중 명확히 우월한 단일 방법 없음 — EFP S3 가이드라인의 "특정 방법 권고 불가" 입장을 정량 지지 (Baima 2022 SR+MA 16 RCT). [확인]
-> - 재건 수술: 포위형 (contained) 골내 결손에는 골유도재생술 (GBR) 이 비재건 대비 양호한 결손 충전·골 수준 이득 (Ramanauskaite 2023 NMA); 항균광역학치료 (aPDT) 는 저확실성 보조 (Jervoe-Storm 2024 Cochrane).
+> - **2025–2026 신규 — 임플란토플라스티 vs 티타늄 브러시 (Park 2025 RCT, Yonsei)**: 첫 head-to-head RCT. 티타늄 브러시 (Titanium Brush) 가 임플란토플라스티 (Implantoplasty) 대비 탐침깊이 (Probing Pocket Depth, PPD) 감소에서 비열등 (−3.6 vs −3.3 mm); 치조골 수준 (Marginal Bone Level, MBL) 보존에서 유의하게 우수 (0.0 vs +0.7 mm, p=0.03); 표면처리 시간 45% 단축 (p=0.006); 임플란트 소실 0 vs 2개. → 절제형 외과 시 임플란토플라스티보다 티타늄 브러시 선호 근거.
+> - **2025–2026 신규 — FLIP vs PLIP 임플란토플라스티 범위 (Monje 2026 quasi-RCT, 스페인)**: 병합수술 시 전장 임플란토플라스티 (Full-Length Implantoplasty, FLIP: 치조정상부 + 골내) vs 부분 임플란토플라스티 (Partial-Length Implantoplasty, PLIP: 치조정상부만). FLIP MBL 획득 2.42 vs 1.62 mm (p=0.009), 단 치은퇴축 (Mucosal Recession) 더 큼 (1.84 vs 1.33 mm, p=0.006); 흡연만이 독립 실패 인자 (OR=0.01). 주저자 이해충돌 (버 특허·이식재 후원) — 확증 전까지 추정 자료.
+> - **2025–2026 신규 — 4가지 술식 실제 성적 비교 (Zhou 2026 후향 코호트, 프랑크푸르트, n=406임플란트)**: OFD·임플란토플라스티·재건·병합 전군 티타늄 브러시, 1년 성공률 54.7% — 군간 유의차 없음 (검정력 27%). **술식보다 항생제 (OR=4.49)·술자경험 (OR=0.12)이 훨씬 강한 성공 예측인자.** 장기 성공률 하락: 1년 55% → 5년 27–42%.
+ - 재건 수술: 포위형 (contained) 골내 결손에는 골유도재생술 (GBR) 이 비재건 대비 양호한 결손 충전·골 수준 이득 (Ramanauskaite 2023 NMA); 항균광역학치료 (aPDT) 는 저확실성 보조 (Jervoe-Storm 2024 Cochrane).
 > - **Hakkers 2026 신규 (단일맹검 RCT, n=52, 1년, 3·4벽 결손)**: 재건 수술(자가골+이종골+콜라겐막)이 개방소파술 대비 방사선학적 MBL 개선(β=−1.65 mm, p<0.001)과 협측 연조직 퇴축 감소(β=−1.68 mm, p<0.001)에서 유의한 이점; 그러나 PPD·BoP·SoP·복합 질환 해소율(양군 모두 약 44%)에 차이 없음 → 방사선학적 개선 ≠ 임상적 질환 해소 (역설). 3벽 결손은 T3–T6 조기 이점, 4벽 결손은 T12에만 이점. 재건 군의 부작용(통증·구강건조·금속 맛·두통) 유의하게 많음 → 환자 상담 필수.
 > - 보철 디자인이 변연골소실 (MBL) 을 유의하게 줄이는 조절 가능 레버 (Lin 2025 AO/AAP SR+MA 93편): 플랫폼 스위칭 (p<0.0001) · 원추형 내부 연결 (p<0.0001) · 어버트먼트 높이 ≥2mm (p<0.0001) · one-abutment-one-time (p<0.0001) · 비스플린트 (p=0.04). [확인]
 > - 중립 (MBL에 무영향): 나사 vs 시멘트 유지 (p=0.51), 치관-임플란트 비 (p=0.32) — 유지 방식은 MBL이 아니라 재제거 용이성 (retrievability)·교합으로 결정한다.
@@ -41,17 +44,19 @@ tags: [peri-implantitis, peri-implant-mucositis, prevalence, decontamination, GB
 
 ## Three-line Summary
 
-Synthesis of 23+ peri-implantitis papers across etiology/immunopathogenesis (Smeets 2014 + Galarraga-Vinueza 2020 + Cafferata 2025 + Kotsakis 2025 titanium exposome), epidemiology (Diaz 2022 SR+MA: 19.5% patient-level), non-surgical/mucositis management, surgical decontamination, GBR reconstruction, prosthetic MBL levers, and surgical-positional/prosthetic/anatomic risk axes.
+Synthesis of 26+ peri-implantitis papers across etiology/immunopathogenesis (Smeets 2014 + Galarraga-Vinueza 2020 + Cafferata 2025 + Kotsakis 2025 titanium exposome), epidemiology (Diaz 2022 SR+MA: 19.5% patient-level), non-surgical/mucositis management, surgical decontamination, implantoplasty technique selection, GBR reconstruction, prosthetic MBL levers, and surgical-positional/prosthetic/anatomic risk axes.
 
-No single surface decontamination protocol is superior (Baima 2022 SR+MA, 16 RCTs); prosthetic design (platform-switching, conical connection, abutment height ≥2 mm, one-abutment-one-time) significantly reduces MBL (Lin 2025 SR+MA, 93 studies, all p<0.0001); implant 3D malposition is the strongest surgical risk factor (OR up to 48.2, Monje 2025 AO/AAP SR) while implant brand/surface/design shows no consistent superiority; GBR reconstruction (autograft + xenograft + membrane) yields radiographic MBL benefit (β=−1.65 mm) and recession reduction (β=−1.68 mm) but NOT improved clinical disease resolution vs open-flap debridement (disease resolution 44% both arms, Hakkers 2026 RCT). Three mechanistic reasons established lesions resist self-resolution and antimicrobial-only therapy (<50% resolution): M1-skewed macrophage polarization (Galarraga-Vinueza), impaired Treg function (Cafferata 2025), and an abiotic titanium-particle danger signal driving LPS-independent inflammasome/C3-complement inflammation (Kotsakis 2025).
+No single surface decontamination protocol is superior (Baima 2022 SR+MA, 16 RCTs); titanium brush was non-inferior to implantoplasty for PPD but superior for MBL preservation in resective surgery (Park 2025 RCT); when combined surgery is used, full-length implantoplasty yields better MBL gain but more recession than partial-length (Monje 2026 quasi-RCT); protocol choice (OFD/implantoplasty/reconstructive/combined) did not significantly predict 1-year success in 406-implant real-world cohort — antibiotics and surgeon experience dominated (Zhou 2026); GBR reconstruction yields radiographic MBL benefit (β=−1.65 mm) but NOT improved disease resolution vs OFD (44% both, Hakkers 2026 RCT).
+
+Prosthetic design (platform-switching, conical connection, abutment height ≥2 mm, one-abutment-one-time) significantly reduces MBL (Lin 2025 SR+MA, 93 studies, all p<0.0001); implant 3D malposition is the strongest surgical risk factor (OR up to 48.2, Monje 2025 AO/AAP SR); three mechanistic reasons lesions resist self-resolution and antimicrobial-only therapy: M1-skewed macrophage polarization (Galarraga-Vinueza), impaired Treg function (Cafferata 2025), and abiotic titanium-particle danger signaling (Kotsakis 2025).
 
 For prevention: choose platform-switched conical connections, maintain abutment height ≥2 mm, design emergence angle <30° with concave/straight profile, and keep restoration-margin-to-crest distance >1.5 mm; for treatment, use PMPR as the backbone for mucositis, and step to surgical GBR only for contained intrabony defects with sufficient bone support.
 
 ## 세줄요약
 
-임플란트주위염(Peri-implantitis) 23+편 종합 — 병인/면역병리(Smeets 2014·Galarraga-Vinueza 2020·Cafferata 2025·Kotsakis 2025 티타늄 exposome)·역학(Diaz 2022 SR+MA: 환자 단위 19.5%)·비외과/점막염 관리·외과 제염·GBR 재건·보철 변연골소실(MBL) 레버·수술위치/보철/해부 위험축.
+임플란트주위염(Peri-implantitis) 26+편 종합 — 병인/면역병리(Smeets 2014·Galarraga-Vinueza 2020·Cafferata 2025·Kotsakis 2025 티타늄 exposome)·역학(Diaz 2022 SR+MA: 환자 단위 19.5%)·비외과/점막염 관리·외과 제염·임플란토플라스티 술식 선택·GBR 재건·보철 MBL 레버·수술위치/보철/해부 위험축.
 
-단일 표면제염 프로토콜 우위 없음(Baima 2022, 16 RCT); 보철 디자인(플랫폼스위칭·원추형 연결·어버트먼트 높이 ≥2 mm·one-abutment-one-time)이 MBL 유의 감소(Lin 2025, 93편, 모두 p<0.0001); 임플란트 3D 오식립이 최강 수술 위험인자(OR 최대 48.2, Monje 2025 AO/AAP SR)이나 브랜드·표면·디자인은 일관 우열 없음; GBR 재건은 방사선학적 MBL 이득(β=−1.65 mm)·퇴축 감소(β=−1.68 mm) 있으나 임상 질환 해소율은 동등(둘 다 44%, Hakkers 2026 RCT). 병소가 자연치유·항균단독요법(<50% 해소)에 저항하는 3중 기전: M1 대식세포 편향(Galarraga-Vinueza)·Treg 기능부전(Cafferata 2025)·티타늄 입자의 비생물학적(abiotic) 위험신호(Kotsakis 2025, LPS 독립 인플라마좀·C3 보체 활성화).
+단일 표면제염 프로토콜 우위 없음(Baima 2022, 16 RCT); 절제형 외과 시 티타늄 브러시 (Titanium Brush) 가 임플란토플라스티 (Implantoplasty) 대비 PPD 비열등+MBL 보존 우위(Park 2025 RCT); 병합술식 시 전장 임플란토플라스티 (FLIP) 가 MBL 획득 우세하나 치은퇴축 더 큼(Monje 2026 quasi-RCT); 실제 임상 4가지 술식 비교에서 성공률(54.7%) 군간 유의차 없음 — 항생제+술자경험이 술식보다 강한 예측인자(Zhou 2026 후향 코호트, n=406); GBR 재건은 방사선학적 MBL 이득(β=−1.65 mm) 있으나 질환 해소율 동등(둘 다 44%, Hakkers 2026 RCT). 보철 디자인(플랫폼스위칭·원추형 연결·어버트먼트 높이 ≥2 mm·one-abutment-one-time)이 MBL 유의 감소(Lin 2025, 93편, 모두 p<0.0001); 임플란트 3D 오식립이 최강 수술 위험인자(OR 최대 48.2, Monje 2025).
 
 예방: 플랫폼스위칭·원추형 연결 선택, 어버트먼트 높이 ≥2 mm, 출현각 <30°+오목/직선 윤곽, 수복물 변연-치조정 거리(RM-AC) >1.5 mm 확보; 치료: 점막염엔 전문가 기계적 치면세균막 제거(PMPR) 근간, 포위형 골내 결손에만 GBR 재건 단계 진입.
 
@@ -175,6 +180,80 @@ The seven adjuncts (each combined with MD, vs MD alone): laser, photobiomodulati
 
 Adjunctive aPDT (antimicrobial photodynamic therapy):
 - Jervoe-Storm 2024 (Cochrane SR): low certainty evidence; modest short-term benefit trend; does not replace mechanical debridement [확인]
+
+---
+
+## Surgical Treatment: Implantoplasty & Protocol Selection
+
+Three 2025–2026 studies directly address which surgical *technique* to use and whether protocol choice matters — a gap that older decontamination-focused SR+MAs could not fill.
+
+### Implantoplasty vs Titanium Brush — Park 2025 (RCT, n=30, Yonsei)
+
+First head-to-head RCT comparing rotating titanium brush vs implantoplasty for peri-implantitis surgical decontamination (resective setting; osseous recontouring for crater defects; 12-month follow-up).
+
+| Outcome | Titanium Brush | Implantoplasty | p |
+|---|---|---|---|
+| PPD reduction (mm) | −3.6 ± 1.5 | −3.3 ± 1.2 | NS — non-inferior |
+| MBL change 12 mo (mm) | **0.0 ± 0.6** | **+0.7 ± 1.2** | **0.03** |
+| Implant loss | 0 | 2 | — |
+| Decontamination time | 3 min 1 s | 5 min 27 s | **0.006** |
+| Disease resolution (composite) | 40.0% | 26.7% | 0.70 (NS) |
+
+**Key message**: Titanium brush is non-inferior to implantoplasty for PPD reduction while preserving marginal bone (0 vs +0.7 mm) and halving surface decontamination time. Implantoplasty's irreversible thread grinding carries a MBL cost in the resective setting that brushes do not.
+
+Pocket-closure failure predictors: higher baseline PPD (p=0.044) and **adjacent implant with peri-implantitis** (p=0.033 — novel finding; possible cross-contamination or extended surgical time). [rct, n=15/arm, single operator, underpowered for composite primary outcome]
+
+### Full vs Partial Implantoplasty — Monje 2026 (quasi-RCT, n=40 implants, Spain)
+
+First controlled comparison of implantoplasty *extent* in combined (resective + reconstructive) peri-implantitis surgery: FLIP (full-length: supracrestal + intrabony) vs PLIP (partial: supracrestal only; intrabony treated with NiTi brush + H₂O₂ + tetracycline).
+
+| Outcome | PLIP | FLIP | p |
+|---|---|---|---|
+| PPD reduction (mm) | 3.53 ± 2.02 | 3.83 ± 1.45 | 0.42 (NS) |
+| mSBI reduction | −1.73 | −2.19 | **0.003** |
+| MBL gain (mm) | 1.62 ± 1.27 | **2.42 ± 1.20** | **0.009** (adjusted) |
+| Mucosal recession (mm) | +0.71 → 1.33 | +1.73 → 1.84 | **0.006** (FLIP worse) |
+| Disease resolution | 64.6% | 90.4% | — |
+| Dehiscence | 4.8% | 21.1% | — |
+
+**Adjusted disease resolution**: OR=14, p=0.13 (NS) — FLIP trend is strong but the study is underpowered for this endpoint. Smoking independently predicts failure (OR=0.01; p=0.013) regardless of implantoplasty extent.
+
+**Key message**: When combined surgery is chosen, extending implantoplasty into the intrabony compartment (FLIP) yields better MBL gain and mSBI reduction, but at the cost of ~50% more mucosal recession. The esthetic zone trade-off is clinically meaningful. **COI note**: primary author (Monje) owns royalties on the burs used and receives SigmaGraft funding — treat as estimation data pending a powered confirmatory RCT. [quasi-rct, n=40, 1yr, single-center]
+
+### OFD vs Implantoplasty vs Reconstructive vs Combined — Zhou 2026 (retrospective cohort, n=406 implants, Frankfurt)
+
+Largest single-centre retrospective comparing all four surgical protocol categories, with standardised titanium brush decontamination across all groups, four trained surgeons, mean follow-up 30.80 months.
+
+**1-year treatment success (max PD ≤5 mm + BOP ≤1 site + no suppuration):**
+
+| Protocol | n | Success |
+|---|---|---|
+| OFD | 37 | 62.5% |
+| Implantoplasty | 39 | 58.3% |
+| Reconstructive | 241 | 55.4% |
+| Combined | 89 | 48.3% |
+| **Overall** | **406** | **54.7%** |
+
+Group differences: **not significant** (FDR-adjusted). **Post-hoc power: 27%** — cannot interpret as equivalence.
+
+**Multivariable predictors — treatment success:**
+
+| Predictor | OR | p |
+|---|---|---|
+| Pre-operative antibiotics | 3.54 | 0.04 |
+| Pre- + post-operative antibiotics | 4.49 | 0.02 |
+| Surgeon experience | 0.12 | 0.003 |
+
+**Key message**: Protocol choice (OFD vs Implantoplasty vs Reconstructive vs Combined) was not a significant predictor of 1-year success in real-world practice. **Systemic antibiotics and surgeon experience outperformed protocol selection** as predictors — highlighting that execution quality and adjuvant decisions matter more than the protocol label. Implant loss was numerically highest in the Combined group (16.9%), consistent with this being applied to the most complex defects. Long-term success rates decline substantially: ~55% at 1 year → ~27–42% at 5 years across outcome criteria. [retrospective, 27% power, observational confounding]
+
+### Synthesis Across Three Studies
+
+| Question | Answer |
+|---|---|
+| Titanium brush vs implantoplasty (resective)? | Ti brush non-inferior for PPD, superior MBL preservation, faster — favour brush (Park 2025 RCT) |
+| Implantoplasty extent in combined surgery? | FLIP better MBL gain; weigh against recession in esthetic zones; avoid in aesthetically sensitive sites (Monje 2026) |
+| Does protocol selection predict real-world success? | No — systemic antibiotics + surgeon experience dominate; 54.7% success regardless of protocol (Zhou 2026) |
+| Why do all approaches plateau at 44–55% at 1 yr? | Consistent with immunopathological resistance (M1 macrophage bias, Treg dysfunction, titanium abiotic driver) rather than protocol failure alone |
 
 ---
 
@@ -358,6 +437,9 @@ Screw vs cement retention choice: clinically neutral on MBL — decide on retrie
 - [[implants/peri-implantitis/monje-2025-surface-decontamination-reconstructive-peri-implantitis]] — Monje 2025 multicenter RCT: electrolytic vs H₂O₂ decontamination, no superiority
 - [[implants/peri-implantitis/soldini-2025-reconstructive-therapy-peri-implantitis-rct]] — Soldini 2025 RCT: reconstruction = equal resolution but 3× bone fill vs supportive care
 - [[implants/peri-implantitis/gardelis-2025-implant-surface-modifications-peri-implantitis]] — Gardelis 2025 SR: rough surfaces → more recurrence/loss after surgery (low certainty)
+- [[implants/peri-implantitis/park-2025-implantoplasty-vs-titanium-brushes-peri-implantitis-rct]] — Park 2025 RCT (n=30, Yonsei): Ti brush non-inferior PPD, superior MBL (0.0 vs +0.7 mm, p=0.03), faster decontamination (3:01 vs 5:27 min, p=0.006)
+- [[implants/peri-implantitis/monje-2026-flip-vs-plip-implantoplasty-extent-peri-implantitis-rct]] — Monje 2026 quasi-RCT (n=40): FLIP better MBL (2.42 vs 1.62 mm, p=0.009) but more recession; COI
+- [[implants/peri-implantitis/zhou-2026-surgical-protocols-peri-implantitis-cohort]] — Zhou 2026 retrospective cohort (n=406, Frankfurt): OFD/Impl/Rec/Comb no significant 1yr success difference (54.7% overall); antibiotics + surgeon experience stronger predictors than protocol
 - [[implants/peri-implantitis/jervoe-storm-2024-photodynamic-therapy-periodontal-periimplant-diseases]] — aPDT Cochrane SR
 - [[overviews/gbr-barrier-membrane-exposure-axis]] — GBR broader context
 - [[overviews/implants-clinical-decision-ladder]] — implant decision framework
