@@ -27,7 +27,7 @@ tags:
   - 3d-dental-casts
 relations:
   - target: orthodontics/livas-2011-extraction-maxillary-first-molars-molar-inclinations
-    type: related
+    type: reinforces
     note: "Both examine molar crown inclinations in context of orthodontic prescription"
 ---
 
