@@ -15,9 +15,9 @@ source_wiki:
   - wiki/tmj/zhang-2026-nonpharmacological-myogenic-tmd-nma.md
 tags: [tmj, tmd, pharmacological-treatment, intraarticular, hyaluronate, botulinum-toxin, corticosteroid, prp, i-prf, prolotherapy, network-meta-analysis, overview]
 relations:
-  - type: complements
+  - type: extends
     target: conservative-physical-therapy-myofascial-tmd-ladder
-  - type: complements
+  - type: extends
     target: tmj-inflammatory-arthritis-overview
 ---
 
