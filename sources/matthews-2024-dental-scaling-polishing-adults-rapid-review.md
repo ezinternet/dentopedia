@@ -107,7 +107,7 @@ A 2024 rapid review (8 studies, low risk of bias) commissioned for Health Canada
 
 ## Related Work
 
-- [[non-surgical-instrumentation/lamont-2018-routine-scale-and-polish-periodontal-health]] — Cochrane SR this rapid review extends and updates
+- [[periodontics/non-surgical-instrumentation/lamont-2018-routine-scale-and-polish-periodontal-health]] — Cochrane SR this rapid review extends and updates
 - [[manresa-2018-supportive-periodontal-therapy-cochrane-sr]] — SPT Cochrane SR (Matthews synthesizes Manresa's no-eligible-RCT finding + adds EFP guidelines)
 - [[farooqi-2015-periodontal-maintenance-recall-interval-sr]] — Periodontal maintenance recall interval SR (reinforced)
 - [[stahli-2024-clinical-evaluation-novel-protocol-supportive]] — SPT protocol RCT evidence (reinforced)
