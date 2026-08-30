@@ -10,6 +10,7 @@ evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/lang-2012-immediate-implant-survival-success-sr.pdf
 pdf_filename: lang-2012-immediate-implant-survival-success-sr.pdf
 source_collection: external
+superseded_by: gallucci-2026-current-state-of-evidence-for
 tags: [immediate-implant, survival-rate, success-rate, marginal-bone-loss, antibiotics, systematic-review]
 relations:
   - type: extends
