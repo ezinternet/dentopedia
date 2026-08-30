@@ -2,7 +2,7 @@
 title: "Open-Healing 치조제 보존술(ARP) — 술기 변수(판막·봉합·막·압축력) vs 큰 그림 종합"
 authors: Synthesis (Damian Lee)
 year: 2026
-date: 2026-05-29
+date: 2026-08-31
 doi: N/A
 source: N/A
 category: overviews
@@ -22,8 +22,9 @@ tags: [overview, alveolar-ridge-preservation, open-healing, flapless, suture-tec
 > - 봉합: hidden X suture가 기존 X suture보다 협측 각화치은(KT) 보존 우수(Park 2016, X −1.56 vs hidden X +0.25 mm); 노출 d-PTFE 막 자체가 KT 증대 도구(Barboza 2014, +6.6~7.1 mm).
 > - 축 2(graft 미세변수): 막 층수는 단층 ≈ 이중층으로 무의미(Choi 2017); 압축력은 신호 불일치 — Cho 2017은 압축력↑→신생골↑이나 Lee 2020은 DBBM 5N ≈ 30N 차이 없음. "압축력↑→신생골↑"은 보편법칙 아닌 조건부 신호.
 > - 축 3(부위·해부가 상한): 후방 발치와는 graft로도 수평 소실 불가피(Arroteia 2025); 단일 우월 modality 없고 "ARP를 하느냐"가 1차 변수(Avila-Ortiz 2019 SR+MA).
-> - 축 4(비판적 균형추): 통계적 치수 보존 ≠ 환자 이득 — 5~13년 후 xenograft 실패 증례로 무차별 적용 경계, 적응증 축소 논거(Adams 2022).
-> - 임상 ladder: 무판막/개방치유 우선, hidden X suture, 흡수성 콜라겐막(층수 자유), 과도한 압축 불필요, 후방·얇은 협측판은 수평 소실 예상하고 상담, 무차별 적용 회피.
+> - 축 4(비판적 균형추): 통계적 치수 보존 ≠ 환자 이득 — 5~13년 후 xenograft 실패 증례로 무차별 적용 경계, 적응증 축소 논거(Adams 2022). Benekou 2025(SR+MA, 22 RCT, 816명)가 조직학 데이터로 이를 층위화: 이종골+막은 신생골 −22.47%(잔존이종골 20.49%가 공간 차지), PRF/PRP는 +16.28% — 재료 선택이 결과를 가른다. >3개월 생검 민감도 분석에서는 ARP 유의 유리(전향적 임플란트 타이밍 판단에 시사).
+> - 축 1 신규: Friedmann 2026(case-series, 49명 62부위) — SCLC/HA 스펀지 개방치유(봉합만, 막 없음); 협측골 ≥50% 잔존 적응증에서 전 부위 합병증 없이 치유, 72% 추가 증대 불필요, 완전 이종골 개조(잔여 이종골 0) — Benekou 2025의 pooled 잔존 20.49%와 대조되는 완전흡수 재료.
+> - 임상 ladder: 무판막/개방치유 우선, hidden X suture, 흡수성 콜라겐막(층수 자유) or SCLC/HA(막 없음, 협측골 ≥50% 전제), 과도한 압축 불필요, 후방·얇은 협측판은 수평 소실 예상하고 상담, 무차별 적용 회피; 이종골 선택 시 잔존이식재 trade-off 상담 포함.
 > - 근거 한계: Park 그룹 연작은 모두 소규모(n=11~20) 단일기관 RCT — 검정력 한계, 환자중심결과(PROM) 거의 부재, 장기(>5년) 추적 빈약.
 > - 최종 판단은 원장 몫 — ladder는 임상 근거의 외삽이며 PROM 직접 근거는 빈약함.
 
@@ -33,7 +34,7 @@ Synthesis of open-healing alveolar ridge preservation (ARP) technique variables 
 
 Graft micro-variables (membrane layers, compressive force) are largely equivalent: single vs double collagen membrane layer shows no dimensional difference (Choi 2017 pilot RCT); compressive force evidence conflicts (Cho 2017: higher pressure → more bone vs Lee 2020: DBBM at 5N vs 30N NS), confirming that "more compression = more bone" is a conditional, not universal, signal.
 
-The evidence base is mostly small, single-center RCTs (n=11–20, Park group) lacking patient-reported outcomes, and a critical counter-argument (Adams 2022) holds that "statistical dimensional preservation ≠ patient benefit" with cases of xenograft failure 5–13 years later, supporting narrower ARP indications — the clinical ladder (flapless, hidden X suture, absorbable collagen membrane, avoid excessive compression, anticipate horizontal loss at posterior thin-buccal sites) is a direction signal, not a strong confirmation.
+The evidence base is mostly small, single-center RCTs (n=11–20, Park group) lacking patient-reported outcomes; Adams 2022 argues "statistical dimensional preservation ≠ patient benefit" based on xenograft failure cases at 5–13 years; Benekou 2025 (SR+MA, 22 RCTs, n=816) supplies histomorphometric RCT data: overall ARP vs spontaneous healing NS on new bone (MD −5.86%, p=0.15), but xenograft+membrane is −22.47% (residual graft 20.49% occupies socket space) while PRF/PRP is +16.28%; Friedmann 2026 (case series, n=49/62 sites) reports complete SCLC/HA xenograft remodeling with open healing (suture only, no membrane), 72% augmentation-free, contrasting with that residual graft burden — the clinical ladder (flapless, hidden X suture, absorbable collagen membrane or SCLC/HA for membrane-free option with ≥50% buccal bone, avoid excessive compression, anticipate horizontal loss at posterior sites, avoid indiscriminate application) is a direction signal, not a strong confirmation.
 
 ## 세줄요약
 
@@ -66,6 +67,10 @@ Arroteia 2025(후방부 4군 RCT, n=22/군)에서 graft(±티타늄 막)는 수�
 ### 축 4 — "통계적 치수 보존 ≠ 환자 이득"
 Adams 2022(BDJ, narrative review + 2 증례)는 수정주의적 균형추다. 5~13년 후 xenograft가 섬유 포함·만성 감염·peri-implantitis 양상으로 실패한 자가 진료 증례를 제시하며, 통계적 dimensional preservation이 장기 환자 이득으로 자동 환원되지 않는다고 경고한다. 근거 등급은 낮지만(증례) Atieh Cochrane의 "very low certainty"와 결이 맞아 적응증 축소의 논거로 인용 가치가 있다. [미검증]
 
+Benekou 2025(SR+MA, 22 RCT, n=816; PRISMA 2020, GRADE 중간)는 이 관점에 조직학적 RCT 데이터를 더한다. 전체 분석에서 ARP vs 자연치유의 신생골 형성 차이는 유의하지 않았다(MD −5.86%, p=0.15, I²=98%). 그러나 **재료 아군이 방향을 가른다**: PRF/PRP 아군은 ARP 유리(+16.28%, p<0.0001); 이종골+콜라겐막 아군은 오히려 불리(−22.47%, p=0.004) — pooled 잔존이식재 20.49%가 신생골 공간을 점유한 결과. >3개월 생검 민감도 분석에서는 ARP가 유의하게 유리(MD −16.30%, p<0.00001, I²=51%)했으며 이는 조기생검(≤3개월)이 ARP 이득을 과소평가할 수 있음을 시사한다. Adams 2022의 "xenograft 장기 실패" 경고와 결이 맞지만 층위화를 더한다 — 이종골 자체가 문제가 아니라 **서서히 흡수되는 이종골이 골 공간을 잠근다**는 기전 설명이 추가된다. [확인 — SR+MA]
+
+같은 맥락에서 Friedmann 2026(전향 증례시리즈, 49명 62부위)은 완전 흡수형 재료(SCLC/HA: 당 가교 콜라겐/수산화인회석 스펀지)로 개방치유(봉합만, 막·판막 없음)를 수행해 전 부위 합병증 없이 치유, 72% 추가 증대 불필요, 6개월 이후 재진입에서 이종골 완전 개조(잔여 이종골 0)를 확인했다. 협측골 ≥50% 잔존이 적응증이며, 대조군 없는 증례시리즈로 비교 결론은 불가하나, Benekou의 pooled 잔존 20.49%와 대비되는 **완전흡수 재료의 open-healing 적용 가능성**을 처음 제시한다. [미검증 — 증례시리즈]
+
 ## 임상 의사결정 ladder (open-healing ARP)
 
 | 결정 | 권장 | 근거 / trade-off |
@@ -75,7 +80,8 @@ Adams 2022(BDJ, narrative review + 2 증례)는 수정주의적 균형추다. 5~
 | 막 | 흡수성 콜라겐막 노출, 층수는 자유 | Choi 2017: 단층 ≈ 이중층. 비용·취급 편의로 단층 합리 |
 | Graft 압축 | 과도한 압축 불필요 | Lee 2020: 5 N ≈ 30 N(DBBM 대구치). Cho 2017의 force↑→bone↑는 조건부 |
 | 부위 판단 | 후방·협측판 얇은 곳은 수평 소실 예상하고 상담 | Arroteia 2025: 후방 수평 소실 불가피 |
-| 적응증 | 무차별 적용 회피, 환자 이득 기준 | Adams 2022: 통계≠이득; Avila-Ortiz: 단일 우월 modality 없음 |
+| 재료 선택 | 이종골+막 사용 시 잔존이식재 trade-off 상담 포함; ≥50% 협측골 잔존 시 SCLC/HA 막 없는 개방치유 선택지 | Benekou 2025: 이종골+막 −22.47% 신생골, 잔존 20.49%; Friedmann 2026: SCLC/HA 완전 개조, 72% 추가증대 불필요 |
+| 적응증 | 무차별 적용 회피, 환자 이득 기준 | Adams 2022·Benekou 2025: 재료별 조직학 이득 차이 명확; Avila-Ortiz: 단일 우월 modality 없음 |
 
 최종 판단은 원장 몫. 위 ladder는 임상 근거의 외삽이며 장기 환자중심결과(PROM) 직접 근거는 빈약하다.
 
@@ -87,7 +93,8 @@ Adams 2022(BDJ, narrative review + 2 증례)는 수정주의적 균형추다. 5~
 
 ## Phase 2 확장 후보 (Stub)
 - Park 그룹 압축력 충돌(Cho 2017 vs Lee 2020)을 정량 force–신생골 dose-response로 재검증하는 RCT ingest 시 축 2 보강.
-- PROM 포함 ARP RCT ingest 시 축 4의 "통계≠이득" 간극 정량화.
+- 축 4 "통계≠이득" 조직학 층위화는 Benekou 2025(SR+MA)로 부분 해소됨 — 잔존 gap: PROM 직접 데이터, 장기(>5년) 재료별 임플란트 결과.
+- SCLC/HA open-healing(Friedmann 2026)은 증례시리즈 — 대조군 비교 RCT가 나오면 축 1·축 4 재통합.
 - 즉시 식립([[overviews/immediate-implant-decision-ladder]] 카테고리)과 ARP의 의사결정 분기 overview로 확장.
 
 ## Related Papers
