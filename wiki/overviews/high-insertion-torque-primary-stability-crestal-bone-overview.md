@@ -2,7 +2,7 @@
 title: "High Insertion Torque → Primary Stability, Crestal Bone Remodeling, and Marginal Bone Loss — A Conflict Synthesis"
 authors: Synthesis (Damian Lee)
 year: 2026
-date: 2026-07-17
+date: 2026-08-31
 doi: N/A
 source: N/A
 category: overviews
@@ -18,6 +18,8 @@ source_wiki:
   - wiki/implants/isq/aldahlawi-2018-implant-torque-crestal-bone-remodeling.md
   - wiki/implants/isq/faot-2019-insertion-torque-mandibular-overdenture.md
   - wiki/implants/coyac-2019-preclinical-model-links-osseo-densification-misfit.md
+  - wiki/implants/isq/rosasdiaz-2024-insertion-compression-primary-stability.md
+  - wiki/implants/isq/brizuela-velasco-2015-insertion-torque-isq-micromobility.md
 relations:
   - type: refines
     target: coyac-2019-preclinical-model-links-osseo-densification-misfit
@@ -54,7 +56,7 @@ relations:
 > - **왜 Trisi와 Marconcini는 실은 모순이 아닌가**: Trisi는 **6주**에 **전체 계면의 골형성**을 봤고, Marconcini는 **3년**에 **치조정**을 봤다. 다른 구획·다른 시간창이다. Trisi가 반증한 것은 *괴사라는 기전*이지 *치조정 골소실이라는 결과*가 아니다.
 > - **[미검증 가설 — 보유 논문이 검증하지 않음]**: Trisi가 관찰한 7일째 안정성 딥(뼈가 잠깐 흡수됐다 더 많이 재형성)이, 치조정에서는 재형성할 관상측 공간이 없어 **영구적 골소실로 발현**될 수 있다. 이는 보유 근거와 양립하는 추론일 뿐 검증된 기전이 아니다.
 > - **임상 결정 규칙**: 숫자가 아니라 **무엇이 토크에 저항했는가**를 물어라. ① 치유된 치밀 하악 치조정 → ≥50 Ncm를 목표로 삼지 말 것, 피질 감압(cortical relief)·토크 상한 설정. ② 위축·연질 무치악 하악 → *얻어진* 고토크는 안심 신호지 경보가 아니다 (Faot G4 95%). ③ 협측 골판 두께 (Buccal Bone Thickness, BBT) <1 mm + 고토크 = 퇴축 최악 조합 (Marconcini). ④ 즉시부하가 필요하면 Lemos 즉시부하 하위군(고토크 1.1% vs 저토크 4.2%)이 고토크를 방어해준다.
-> - **IT를 임플란트 안정성 지수 (Implant Stability Quotient, ISQ) 대용으로 쓰지 말 것 — 이중으로 틀렸다**: Faot에서 IT↔1차 ISQ 상관은 Kendall τ=0.252 (p=0.01)로 약하고, Trisi에서 공명주파수분석 (Resonance Frequency Analysis, RFA)은 7일 딥을 아예 감지 못했다. IT는 ISQ를 예측하지 못하면서 동시에 치조정을 해칠 수 있다.
+> - **IT를 임플란트 안정성 지수 (Implant Stability Quotient, ISQ) 대용으로 쓰지 말 것 — 이중으로 틀렸다**: Faot에서 IT↔1차 ISQ 상관은 Kendall τ=0.252 (p=0.01)로 약하고, Trisi에서 공명주파수분석 (Resonance Frequency Analysis, RFA)은 7일 딥을 아예 감지 못했다. IT는 ISQ를 예측하지 못하면서 동시에 치조정을 해칠 수 있다. **Rosas-Díaz 2024(in-vitro, n=120)**가 실험적으로 확정: 저삭제(Under-milling) 0.2→0.8 mm로 IT를 25.1→63.2 Ncm까지 올려도 ISQ는 67.6→65.7 (NS, p=0.166) — 수술 압축이 IT를 끌어올리는 분산 63.9%를 설명하면서 ISQ에는 영향 없음.
 > - **근거 공백 (지어내지 않고 명시)**: 보유 논문 중 (a) 사람에서 토크를 무작위 배정한 연구 없음, (b) 양 하악 피질골이 사람과 같이 리모델링한다는 근거 없음, (c) 토크 감압 술식(피질 tapping·언더드릴 조정)의 MBL 효과를 검증한 연구 없음, (d) Aldahlawi 추적기간이 페이지에 없음.
 > - **[2026-08-05 갱신] §6(IT는 ISQ 대용 불가) 근거를 SR+MA 수준으로 승격**: Tisci 2026(SR+MA 48편, Lages 2018을 대체)이 IT-ISQ 상관 r=0.44(I²>90%, 이질성 과다)를 확증하면서, **ISQ가 MBL·생존율을 독립예측 못함**을 class-level로 확인 — ISQ는 토크의 대체재도, 결과의 대체 예측인자도 아님. Bavetta 2019(즉시부하 후향 41개)는 신선 발치와에서 ISQ가 57.6(통상 ≥70 기준 미달)이어도 IT≥35 Ncm이면 전부 생존 — Rule 5(즉시부하 시 토크 감수)를 "최대 토크"가 아닌 "충분한 토크(~35 Ncm)"로 정밀화.
 
@@ -160,7 +162,11 @@ Within Lemos's data the one subgroup with a visible signal is immediate loading,
 - **Tisci 2026** (SR+MA, 48 studies, 20 meta-analyzed — the current best-evidence anchor for this question, superseding the smaller Lages 2018 SR of 12 studies which found r=0.366, NS): pooled IT–ISQ correlation is Pearson r=0.44 (95% CI 0.32–0.55, p<0.001) — statistically real but **I²>90%**, heterogeneity too high to treat the pooled number as a stable clinical constant. More decisively for this page's argument, **Tisci 2026 could not establish ISQ as an independent predictor of MBL or implant survival at all** — surviving implants trended toward higher baseline ISQ (MD=10.22) but this did not reach significance, and quantitative synthesis of ISQ↔MBL and ISQ↔success was not feasible from the included studies. This is now the class-level confirmation of what Faot's single-study τ=0.252 and Trisi's missed 7-day dip suggested individually: ISQ is a real but weak, high-heterogeneity, non-independent-predictive complementary metric — not a substitute readout for either torque or crestal outcome.
 - **Cappare 2015** (in vivo, instantaneous torque-measuring micromotor) adds the mechanistic complement from the opposite direction: the intraoperative torque/depth integral correlates with initial bone-to-implant contact (BIC) — i.e. torque itself, measured continuously through the osteotomy rather than as a single peak Ncm reading, is a real-time physical readout of the bone quality the implant is seating into. This directly supports this page's central reframing (§ Summary: "IT is not an applied dose, it is a measurement of the bone that resisted it") from the instrumentation side, independent of the ISQ question.
 
-So the intuition "I pushed to 55 Ncm, so stability must be excellent" is wrong twice over: the torque does not predict the ISQ (now confirmed at SR+MA scale, with substantial unexplained heterogeneity), and neither instrument sees the crestal remodeling that will actually decide the 3-year result — indeed Tisci 2026 shows ISQ cannot even independently predict MBL or survival with current evidence, so it is not a fallback proxy either. This independently converges with the wider ISQ↔IT decoupling documented in [[overviews/isq-loading-threshold]] and [[overviews/implant-macrogeometry-length-diameter-primary-stability-overview]].
+**Rosas-Díaz 2024** (in vitro, n=120 implants, polyurethane type II-A blocks, 4 diameters × 5 lengths, 3 under-milling levels: 0.2 / 0.5 / 0.8 mm) provides the cleanest controlled experimental demonstration of IT–ISQ decoupling. Escalating under-milling raised ITV dramatically (25.1 → 63.2 Ncm, p<0.001) — compression protocol explained 63.9% of ITV variance — while ISQ remained statistically unchanged (67.6 → 65.7, p=0.166, η²<0.01). Implant diameter explained 27.0% and length 12.1% of combined ITV+ISQ variance, with no interaction effects. In other words, a surgeon who doubles the inserted torque via aggressive under-milling in type II-A bone has not moved ISQ at all. This is the in-vitro experimental proof of the clinically observed τ=0.252 and r=0.44 decoupling documented above — high torque from surgical compression is not a resonance-frequency stability upgrade.
+
+**Brizuela-Velasco 2015** (in vitro, n=19 implants, fresh cow ribs, direct micromotion measured under 100 N via Questar microscope at 2 µm resolution) adds the mechanical interpretation: ISQ predicted micromotion more strongly than IT (perpendicular r=0.91, R²≈0.83 vs IT exponential R²=0.78), and the IT–micromotion curve showed a clear threshold at ~30–34 Ncm below which micromotion escalated steeply. This provides the biomechanical rationale for the ≥35 Ncm loading floor documented by Bavetta 2019, and confirms that ISQ — not peak torque — is the more faithful real-time proxy for mechanical interface quality. Below ~34 Ncm, torque still holds threshold predictive value (the micromotion cliff); above it, ISQ must be consulted independently.
+
+So the intuition "I pushed to 55 Ncm, so stability must be excellent" is wrong twice over: the torque does not predict the ISQ (now confirmed at SR+MA scale in vivo, with substantial unexplained heterogeneity, and directly demonstrated in vitro by Rosas-Díaz 2024 via surgical compression), and neither instrument sees the crestal remodeling that will actually decide the 3-year result — indeed Tisci 2026 shows ISQ cannot even independently predict MBL or survival with current evidence, so it is not a fallback proxy either. This independently converges with the wider ISQ↔IT decoupling documented in [[overviews/isq-loading-threshold]] and [[overviews/implant-macrogeometry-length-diameter-primary-stability-overview]].
 
 ## Methodology
 
@@ -235,6 +241,8 @@ The held evidence does not support answers to any of the following, and this pag
 - [[implants/isq/tisci-2026-isq-it-mbl-survival-sr-ma]] — SR+MA (48 studies, supersedes Lages 2018): IT–ISQ r=0.44 (I²>90%) — real but heterogeneous; critically, **ISQ does not independently predict MBL or survival** — the class-level anchor for §6's "ISQ is not a fallback proxy either" argument
 - [[implants/isq/bavetta-2019-insertion-torque-isq-immediate-loading-extraction-socket]] — retrospective (n=41): IT ≥35 Ncm safely loads fresh sockets despite placement-day ISQ (57.6) below the conventional ≥70 threshold — supplies the concrete floor for Rule 5's immediate-loading exception
 - [[implants/isq/cappare-2015-initial-bic-insertion-torque-depth-integral-in-vivo]] — in vivo: torque/depth integral correlates with initial BIC — mechanistic support, from the instrumentation side, for reading torque as a bone-quality measurement rather than an applied dose
+- [[implants/isq/rosasdiaz-2024-insertion-compression-primary-stability]] — in vitro (n=120, 3 under-milling levels): IT 25→63 Ncm with escalating compression but ISQ 67.6→65.7 NS (p=0.166) — controlled experimental proof that surgical compression drives IT without moving ISQ; §6 anchor
+- [[implants/isq/brizuela-velasco-2015-insertion-torque-isq-micromobility]] — in vitro (n=19): ISQ stronger predictor of micromotion than IT (r=0.91 vs exponential threshold ~34 Ncm); biomechanical rationale for the ≥35 Ncm loading floor and IT–ISQ non-equivalence
 
 ## Related Overviews
 
