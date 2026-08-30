@@ -25,6 +25,8 @@ source_papers:
   - wiki/implants/munjal-2015-implants-low-density-bone-d3d4.md
   - wiki/implants/survival/kim-2026-dental-implant-osteoporosis-osteosclerosis.md
   - wiki/implants/khaohoen-2023-biomaterials-dental-implants-bone-density-narrative-review.md
+  - wiki/bone-biology/palominozorrilla-2024-jawbone-quality-classification-scoping.md
+  - wiki/bone-biology/shemtovyona-2021-jawbone-quality-quantitative-meta-analysis.md
 relations:
   - type: extends
     target: kindaro-2026-parathyroid-hormone-implant-osseointegration-osteoporosis-sr
@@ -188,6 +190,11 @@ Supporting papers added 2026-07-10 (the pharmacologic lever and the aging axis):
 - [[implants/osteotomy-thermal/tabassum-2021-undersized-axial-compression-primary-stability]] — animal: lateral + axial compression raise IT/%BIC in low-density bone.
 - [[implants/osteotomy-thermal/gehrke-2021-healing-chambers-macrogeometry-low-density-drilling]] — in-vitro: undersizing helps only above a density floor; macrogeometry complements.
 - [[implants/khaohoen-2023-biomaterials-dental-implants-bone-density-narrative-review]] — narrative review (119 articles): reinforces the material × design × technique triad for low-density bone; supplies survival-by-density (D-IV 88.8%), the low-density geometry recipe, and the Ti/zirconia/PEEK material comparison.
+
+Supporting papers added 2026-08-31 (classification methodology):
+
+- [[bone-biology/palominozorrilla-2024-jawbone-quality-classification-scoping]] — scoping review (17 studies): Lekholm-Zarb used in 13/17, yet no study has validated classification accuracy or reproducibility — names the validation gap this overview's clinical rules assume is filled.
+- [[bone-biology/shemtovyona-2021-jawbone-quality-quantitative-meta-analysis]] — SR+MA (30 studies, CBCT): combined means of ridge dimensions (RW, BW, PW) map to Lekholm-Zarb/Misch types — first quantitative validation that geometric CBCT parameters can classify bone type without subjective assessment; supports the cortical-thickness predictor thesis of this overview.
 
 ## Clinical Quiz
 <!-- quiz_spec -->
