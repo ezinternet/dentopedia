@@ -2,7 +2,7 @@
 title: "임플란트·ISQ — isq"
 authors: navigation
 year: 2026
-date: 2026-08-29
+date: 2026-08-31
 doi: N/A
 source: navigation
 category: implants/isq
@@ -15,20 +15,20 @@ tags: [navigation, category-index, isq]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·ISQ
 > - **범위**: ISQ/RFA measurement, stability dip, loading decision thresholds
-> - **수록 논문**: 76편
+> - **수록 논문**: 78편
 
 ## Three-line Summary
 
 **Scope**: ISQ/RFA measurement, stability dip, loading decision thresholds
-**Indexed papers**: 76 papers in `wiki/implants/isq/`.
+**Indexed papers**: 78 papers in `wiki/implants/isq/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·ISQ
-**수록 논문**: 76편
+**수록 논문**: 78편
 **하위 카테고리**: 없음
 
-## Papers in this Category (76)
+## Papers in this Category (78)
 
 | Paper |
 |---|
@@ -42,6 +42,7 @@ tags: [navigation, category-index, isq]
 | [[andreatta-2020-simplified-loading-protocol-neoss-1year|Simplified Loading Protocol for Single Implants: A One-Year Prospective Study]] |
 | [[arpudaswamy-2025-osseodensification-conventional-implant-stability-rabbit|Comparative Evaluation of Osseodensification vs Conventional Osteotomy Technique on Primary and Secondary Implant Stability in Rabbit Model: Split Body RCT]] |
 | [[ayub-2025-implant-macro-geometry-primary-stability-low-density|The Influence of Implant Macro-geometry in Primary Stability in Low-Density Bone: An In Vitro Study]] |
+| [[baldi-2018-insertion-torque-isq-tapered-knife-edge|Correlation Between Insertion Torque and ISQ in Tapered Implants with Knife-Edge Thread Design]] |
 | [[balshi-2005-rfa-immediately-loaded-maxillary-mandibular|A resonance frequency analysis assessment of maxillary and mandibular immediately loaded implants]] |
 | [[barikani-2013-implant-length-diameter-primary-stability|The Effect of Implant Length and Diameter on the Primary Stability in Different Bone Types]] |
 | [[bavetta-2019-insertion-torque-isq-immediate-loading-extraction-socket|Insertion Torque and Implant Stability Quotient as Stability Parameters for Immediate Loading in the Posterior Maxilla and Mandible: Fresh Extraction Sockets]] |
@@ -95,6 +96,7 @@ tags: [navigation, category-index, isq]
 | [[ragher-2025-iprf-venous-blood-synthetic-graft-isq|Effect of venous blood, injectable platelet-rich fibrin, and synthetic graft on implant stability following indirect sinus augmentation]] |
 | [[rosas-diaz-2023-rfa-mapping-nanostructured-hydroxyapatite|Resonance Frequency Analysis Mapping During Implant Healing Using a Nanostructured Hydroxyapatite Surface]] |
 | [[rosasdiaz-2024-insertion-compression-primary-stability|The Influence of the Degree of Dental Implant Insertion Compression on Primary Stability Measured by Resonance Frequency and Progressive Insertion Torque: In Vitro Study]] |
+| [[rosasdiaz-2026-pitv-classification-repeatability-observational|Repeatability and Reproducibility of a PITV-Based Primary Stability Classification]] |
 | [[sennerby-2008-implant-stability-resonance-frequency-analysis|Implant Stability Measurements Using Resonance Frequency Analysis: Biological and Biomechanical Aspects and Clinical Implications]] |
 | [[sennerby-2015-two-different-implant-designs-drilling|Two different implant designs and impact of related drilling protocols on primary stability in different bone densities: an in vitro comparison study]] |
 | [[seol-2017-uv-implant-resonance-frequency-early-loading|Resonance Frequency Analysis and Early Loading of Implants with Sealed UV Treatment System: Case Reports]] |
