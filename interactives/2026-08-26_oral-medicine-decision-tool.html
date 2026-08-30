@@ -95,8 +95,9 @@ footer{text-align:center;color:var(--muted);font-size:12px;margin-top:24px}
 
 <footer>
   근거: <code>wiki/overviews/oral-medicine-decision-ladder</code> 및 그 spine 논문.
-  OLK Pimenta-Barros 2025·Sapkota 2024 · OLP Lodi 2020 Cochrane·Warnakulasuriya 2025 ·
+  OLK Pimenta-Barros 2025(SR+MA 55편, n=41,231)·Sapkota 2024 · OLP Lodi 2020 Cochrane·Warnakulasuriya 2025·Bandara 2025(desquamative gingivitis SR) ·
   RAS Jian 2024·Damario 2025·Manthiram 2023 · 수포궤양 Coppola 2023·Kechichian 2024·Dean 2022·Mancini 2025.<br>
+  updated 2026-08-30: OLK 전체 pooled MT 6.64% 추가(Pimenta-Barros 2025); OLP Bandara 2025 clobetasol+tacrolimus 병용 1차 확인 반영.<br>
   임상 판단을 대체하지 않는다.
 </footer>
 </div>
@@ -161,7 +162,7 @@ footer{text-align:center;color:var(--muted);font-size:12px;margin-top:24px}
       R+=rr("설측연 부위","RR 2.09","절대 악성전환 12.71%",S.site==="high");
       R+=rr("이형성(OED)","RR 2.75","95% CI 2.26–3.35",S.oed==="yes");
       R+=rr("절제 후 재발","RR 7.39","비재발 대비",S.rec==="yes");
-      O.push('<div class="lede">해당 인자가 <b>붉게</b> 표시된다. <b>RR을 곱하지 않는다</b> — 서로 독립이라는 근거가 없고 곱한 값은 위키에 없는 수치다. 가장 높은 인자로 조치를 정한다.</div><div class="rr">'+R+'</div>');
+      O.push('<div class="lede">해당 인자가 <b>붉게</b> 표시된다. <b>RR을 곱하지 않는다</b> — 서로 독립이라는 근거가 없고 곱한 값은 위키에 없는 수치다. 가장 높은 인자로 조치를 정한다.<br><span class="small">OLK 전체 pooled 악성전환률 (Malignant Transformation, MT) <b>6.64%</b> (95% CI 5.40–7.97; Pimenta-Barros 2025 SR+MA, 55편, n=41,231). 이 수치를 아는 것 자체가 카운슬링의 시작이다.</span></div><div class="rr">'+R+'</div>');
       if(S.rec==="yes")
         O.push(box("r-stop","재발 병소 — 악성전환 감시 강화 (RR 7.39)",
           "절제 후 재발한 백반증은 비재발 대비 악성전환 위험이 <b>7.39배</b>다. 감시 주기를 좁히고 재생검 문턱을 낮춘다. 재발률 자체는 <b>레이저 절제 + 기화 복합술</b>이 가장 낮았다. <span class='cite'>Sapkota 2024</span>"));
@@ -194,8 +195,8 @@ footer{text-align:center;color:var(--muted);font-size:12px;margin-top:24px}
         O.push(box("r-mid","스테로이드 불응·부작용 → 국소 tacrolimus 0.1%",
           "Lodi 2020 Cochrane에서 통증 해소 우월 가능성이 있으나 <b>근거수준은 매우 낮다</b>. 비용도 높다. <span class='cite'>Sandhu 2022</span>"));
       else
-        O.push(box("r-mid","미란·위축형 — 국소 스테로이드 1차",
-          "<b>Clobetasol 0.05% 연고 BID 2–4주 → 점감</b>. 근거는 Lodi 2020 Cochrane — 위약 대비 통증 해소가 우월할 가능성이나 <b>효과 확실성은 낮다</b>. 처방 시 당뇨·고혈압 상호작용을 고려한다."));
+        O.push(box("r-mid","미란·위축형 — 국소 스테로이드 1차 (Bandara 2025 확인)",
+          "<b>Clobetasol 0.05% 연고 BID 2–4주 → 점감</b>. 근거는 Lodi 2020 Cochrane — 위약 대비 통증 해소가 우월할 가능성이나 <b>효과 확실성은 낮다</b>. Bandara 2025 박리성 치은염 SR은 <b>clobetasol 0.05% + tacrolimus 0.1%를 1차 병용</b>으로 확인 — 미란·위축 OLP의 치은 침범에서 이 병용이 표준. 처방 시 당뇨·고혈압 상호작용을 고려한다."));
       O.push('<div class="warn"><b>악성전환 위험을 부풀리지 않는다.</b> OLP의 진정한 악성전환 위험은 <b>0.5–1.4%</b>다. 과대 인식은 불필요한 생검과 환자 불안을 만든다. 다만 미란·위축형에서 위험이 <b>약간</b> 높다. <span class="cite">[확인]</span></div>');
       O.push('<div class="info"><b>전신 동반질환을 병력에서 챙긴다</b> — OLP 환자는 셀리악(OR 18.44) · 우울(6.15) · 불안(3.51) · HCV(4.09) · 하시모토 갑상선염(2.23) · 당뇨(1.64) 위험이 유의하게 높다. 다수가 무증상이다. 병력청취와 필요 시 내과 의뢰로 충분하며, <b>일상 선별검사를 정당화할 근거는 아직 없다</b>. <span class="cite">Warnakulasuriya 2025</span></div>');
       O.push('<div class="info"><b>OLP-like 병변</b>은 Van der Meij 기준으로 생검 확진한다.</div>');
