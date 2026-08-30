@@ -206,7 +206,7 @@ def parse(path):
     if rel:
         for item in re.split(r"\n(?=\s*-\s)", rel.group(1)):
             t = re.search(r"type:\s*(\S+)", item)
-            g = re.search(r"target:\s*(\S+)", item)
+            g = re.search(r'target:\s*"?([^"\n]+)"?', item)
             if t and g:
                 edges.add(g.group(1).strip().rstrip("/").split("/")[-1])
 
