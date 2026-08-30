@@ -25,6 +25,7 @@ notes: |
   updated 2026-07-20: 항응고 오버뷰 2026-07-19 통합(13편) 반영 — ①Higashi 2025 DOAC trough 타이밍(Rivaroxaban 14h, Dabigatran·Apixaban 8h) ②Kaya 2025 출혈 위험 실측(Grade 3 8.1%, 국소 지혈 필수 근거) ③Lopez Silva 2025 Heparin(중단 불필요, 거즈만으로 지혈, 투여 직후 간격 확보) ④TXA 제형 사다리(분말·젤라틴+TXA 추가). Anticoagulant select에 Heparin 옵션 신설. 항생제 2026-07-15 추가 4편(bwire/esposito/kwon/liu)은 임계값 무변화 재확인.
   updated 2026-08-07: (1) 항응고 오버뷰 §2-5 임플란트 특이적 근거(2026-08-02 추가) 반영 — Madrid 2009 SR(19편, OAT/INR 2–4 유지 시 임플란트 비금기·INR은 출혈 예측인자 아님)·Chahine 2019 SR(10편 n=1,331, 8개 시술 카테고리, VKA·NOAC 유지가 헤파린 브리징보다 안전)·Lee 2024 코호트(연세대 n=537, 유지군 AF OR=6.051·VKI OR=3.679, 발치+골이식·다수임플란트·상악 수술이 시술 위험인자, 전 출혈 국소지혈로 해결) — 축1 임플란트 분기에 반영, ref 갱신. (2) 진통제 오버뷰 코르티코스테로이드 근거층(2026-07-29 추가) 반영 — Markiewicz 2008 SR-MA(12 RCT, 부종·개구제한 유의/통증 비유의)·Almeida 2019 SR-MA(17편, 동일 패턴)·Dan 2010 SR-MA(구강악안면 전반, 감염위험 증가 없음)·Bakri 2024 RCT(n=15, 3일 프레드니솔론 테이퍼 > 단회 25mg 부종·개구량, 통증 무차이) — 축4 매복 third molar 분기에 대안 프로토콜로 반영, ref 갱신. (3) 전신질환 오버뷰 임신 섹션(ACOG 2013, 2026-07-30 추가) 반영 — 방사선·LA·대부분 약물 포함 치과치료 전 임신기 안전 승인, 치주치료 조산 감소 효과 없음, 미치료 구강질환이 치료보다 위험 — 축5 임신 분기에 반영, ref 갱신. drug-mronj·drug-antibiotic-stewardship 두 소스는 이 기간 wikilink 경로 정리(fix(wikilinks))만 있었고 임상 수치 무변화 재확인.
   updated 2026-08-25: ADA 2024 CPG (Carrasco-Labra, JADA 155:102-117) 반영 — 단순 발치 후 오피오이드 사용 반대·코르티코스테로이드 진통 보조 반대 공식 권고. 축4 ref에 ADA 2024 추가, simple_ext 분기 신설.
+  updated 2026-08-30: MRONJ 오버뷰 반영 — 한국구강악안면외과학회 2025 입장문(경구 BP 2mo·IV zole 6–12mo·Dmab 3–4mo 휴약 권장, AAOMS 2022와 상반) + Cho 2026(Xgeva vs Prolia 53.8% vs 85.0%, n=178) 축2 반영. Momand 2024(건강 환자 임플란트 예방적 항생제 불필요) 축3 반영.
   updated 2026-08-11: 진통제 오버뷰 2026-08-09 추가분 중 Beaudart 2025 celecoxib umbrella
   review(GI 궤양 RR 0.22 moderate, CV·신장 비열등 low certainty) → 축4 진통제 avoidNSAID
   사유 문구에 GI 병력 대안(비-임플란트 한정)으로 반영. 동시 추가된 Maurice-Szamburski 2025
@@ -285,7 +286,7 @@ function calculate(e){
 
   // ===== 축 2 — MRONJ·항흡수제 =====
   {
-    let lvl='green', title='MRONJ', rec='', why='', ref='Ruggiero AAOMS 2022 · Yokoo 2025 · Li 2024 SR · Iwata 2025';
+    let lvl='green', title='MRONJ', rec='', why='', ref='Ruggiero AAOMS 2022 · 한국구강악안면외과학회 2025 입장문 · Yokoo 2025 · Li 2024 SR · Cho 2026 · Iwata 2025';
     const highRiskAntires = ['iv_bp','denosumab_ca','romosozumab'].includes(antires);
     const lowRiskAntires = ['oral_bp','denosumab_op'].includes(antires);
     if (antires === 'none') { rec='해당 없음 — 표준 protocol'; why='항흡수제 미복용.'; }
@@ -299,8 +300,8 @@ function calculate(e){
       }
     } else if (lowRiskAntires) {
       lvl='yellow'; rec='저위험 — 비외상적 발치 + 단일 술전 Amoxicillin 2g';
-      why=`${antires} 저위험. Iwata 2025: 단일 dose vs 3일 코스 MRONJ 발생률 동등 → 단일 AMPC 2g 술전으로 충분.`;
-      if (proc === 'implant') { why += ' 임플란트는 신중 — Li 2024 SR: 항흡수제 후 임플란트 23% 실패 (83% MRONJ).'; }
+      why=`${antires} 저위험. Iwata 2025: 단일 dose vs 3일 코스 MRONJ 발생률 동등 → 단일 AMPC 2g 술전으로 충분. 한국구강악안면외과학회 2025 입장문: AAOMS 2022(휴약 불필요)와 달리 경구 BP 수술 전 2개월 휴약 권장 — 국내 임상 적용 시 참조.`;
+      if (proc === 'implant') { why += ' 임플란트는 신중 — Li 2024 SR(445 임플란트): 항흡수제 후 실패 23%(이 중 83%가 MRONJ). Cho 2026(n=178): 골다공증용 Denosumab(Prolia 60mg) 치료성공 85.0% vs 암용 Denosumab(Xgeva 120mg) 53.8% — 용량·종양적응증이 위험도를 크게 가른다.'; }
     }
     if (ra) why += ' RA 동반 — Jung 2022: RA가 MRONJ 독립 위험인자.';
     blocks.push(axis(lvl, '축 2 — MRONJ·항흡수제', rec, why, ref));
@@ -322,8 +323,8 @@ function calculate(e){
       lvl='yellow'; rec=`${drug} 500mg q8h × 5일`;
       why='전신증상 동반 농양 — 항생제 적응. 근관·배농 병행.';
     } else if (proc === 'implant') {
-      lvl='yellow'; rec=`${drug} 2g 술전 단일 dose`;
-      why='Torof 2023 SR-MA: 임플란트 단일 술전 Amoxicillin 2g가 표준.';
+      lvl='yellow'; rec=`${drug} 2g 술전 단일 dose (단, 생략 가능성도 있음 — 임상 판단)`;
+      why='Torof 2023 SR-MA: 임플란트 단일 술전 Amoxicillin 2g가 표준. 단 Momand 2024: 건강한 환자 임플란트 예방적 항생제가 불필요할 수 있음(SR) — 고위험 전신질환 없으면 생략 고려 가능. 최종 결정은 개별 위험인자(면역저하·MRONJ·DM 비조절) 고려.';
     } else if (proc === 'impacted_third') {
       lvl='yellow'; rec='case-by-case (외과적 발치 침습도 의존)';
       why='De Angelis 2025 SR: 매복·외과적 발치에 한정 적응.';
