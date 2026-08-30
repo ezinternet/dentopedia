@@ -2,7 +2,7 @@
 title: "Overview: 비우식성 치경부 병소(NCCL) — 병인·진단·관찰 vs 수복 의사결정"
 authors: Synthesis (Damian Lee)
 year: 2026
-date: 2026-08-16
+date: 2026-08-31
 doi: N/A
 source: N/A
 type: synthesis
