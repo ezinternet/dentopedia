@@ -20,6 +20,10 @@ source_wiki:
   - wiki/implants/coyac-2019-preclinical-model-links-osseo-densification-misfit.md
   - wiki/implants/isq/rosasdiaz-2024-insertion-compression-primary-stability.md
   - wiki/implants/isq/brizuela-velasco-2015-insertion-torque-isq-micromobility.md
+  - wiki/implants/yang-2024-implant-diameter-tapered-stress-insertion.md
+  - wiki/implants/isq/baldi-2018-insertion-torque-isq-tapered-knife-edge.md
+  - wiki/implants/norton-2017-low-insertion-torque-primary-stability.md
+  - wiki/implants/isq/rosasdiaz-2026-pitv-classification-repeatability-observational.md
 relations:
   - type: refines
     target: coyac-2019-preclinical-model-links-osseo-densification-misfit
@@ -243,6 +247,10 @@ The held evidence does not support answers to any of the following, and this pag
 - [[implants/isq/cappare-2015-initial-bic-insertion-torque-depth-integral-in-vivo]] — in vivo: torque/depth integral correlates with initial BIC — mechanistic support, from the instrumentation side, for reading torque as a bone-quality measurement rather than an applied dose
 - [[implants/isq/rosasdiaz-2024-insertion-compression-primary-stability]] — in vitro (n=120, 3 under-milling levels): IT 25→63 Ncm with escalating compression but ISQ 67.6→65.7 NS (p=0.166) — controlled experimental proof that surgical compression drives IT without moving ISQ; §6 anchor
 - [[implants/isq/brizuela-velasco-2015-insertion-torque-isq-micromobility]] — in vitro (n=19): ISQ stronger predictor of micromotion than IT (r=0.91 vs exponential threshold ~34 Ncm); biomechanical rationale for the ≥35 Ncm loading floor and IT–ISQ non-equivalence
+- [[implants/yang-2024-implant-diameter-tapered-stress-insertion]] — in vitro FEA (Nobel Biocare PU foam): taper design is the dominant predictor of normalized IT (β₂=0.93); stress distributes further from thread tip vs parallel-walled — mechanistic support for why tapered implants generate higher peak torque in the same bone
+- [[implants/isq/baldi-2018-insertion-torque-isq-tapered-knife-edge]] — prospective (n=75 Anyridge): IT–ISQ correlation significant only at medium torque (ρ=0.481, p=0.036); both implant failures occurred in the high-torque group — corroborates the crestal-harm direction and confirms IT–ISQ decoupling at high torque
+- [[implants/norton-2017-low-insertion-torque-primary-stability]] — prospective (n=30, IT≤20 Ncm, 1-year): 100% survival; ISQ recovered 67→80 by loading; 3 spinners (<5 Ncm) all osseointegrated — the low-end anchor: low IT alone does not predict failure, secondary stability compensates; complements Rule 5 from the floor direction
+- [[implants/isq/rosasdiaz-2026-pitv-classification-repeatability-observational]] — cross-sectional (n=1250): PITV (Peak Insertion Torque Value) classification achieves near-perfect inter-rater reliability (κ=0.84) but only moderate predictive validity for stability outcomes (AUC=0.69) — quantifies the ceiling on clinical utility of torque classification systems; aligns with §6 (torque is a reading, not a proxy)
 
 ## Related Overviews
 
