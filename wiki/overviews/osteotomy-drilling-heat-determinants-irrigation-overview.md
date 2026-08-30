@@ -33,6 +33,7 @@ source_papers:
   - wiki/implants/osseodensification/soldatos-2024-temperature-changes-osseodensification-cadaver-tibiae-cw-ccw.md
   - wiki/implants/osseodensification/tao-2025-optimizing-osseodensification-drilling-implant.md
   - wiki/implants/osseodensification/de-lima-2026-osseodensification-vs-conventional-drilling-exvivo.md
+  - wiki/implants/osteotomy-thermal/milone-2026-heat-dental-implant-thermal-analysis.md
 tags: [osteotomy, drilling-heat, thermal-osteonecrosis, irrigation, chilled-saline, drill-wear, guided-surgery, drilling-sequence, osseointegration, bic, 47-degree-threshold]
 relations:
   - type: refines
@@ -185,3 +186,7 @@ Read together: **peck drilling is a compensator for drill geometry that is alrea
 - [[implants/osteotomy-thermal/gehrke-2020-technique-drill-design-osteotomy]] — In vivo rabbit (n=48, Scientific Reports): peck interval explicitly defined as 0→3 mm / 0→5 mm / 0→8 mm. Intermittent movement significantly reduced ΔT for cylindrical drills only (6.91→4.30°C, p=0.001, −37%); conical drills showed no technique effect (p=0.977). Refines the Tier-3 peck-drilling guidance: conical drill geometry controls heat sufficiently on its own; peck drilling adds value mainly for cylindrical drills.
 
 - [[implants/osteotomy-thermal/di-fiore-2018-continuous-intermittent-drilling-temperature]] — In vitro bovine rib (n=80, JOI 2018, 2×2 factorial): continuous vs intermittent drilling showed no significant temperature difference at the same irrigation temperature (p=0.45); chilled saline (6.0°C) was the decisive factor regardless of technique (p=0.0001). Reinforces Tier-1 (irrigation temperature) over Tier-3 (peck technique) in the determinant ranking.
+
+### Implant-insertion phase heat (2026-08-31)
+
+- [[implants/osteotomy-thermal/milone-2026-heat-dental-implant-thermal-analysis]] — In vitro FLIR thermal camera (n=24 implant placements in bovine mandible): heat generated during **implant screwing** (not drilling) is highest with manual torque wrench + no saline + undersized osteotomy; saline lubrication significantly reduces temperature during placement. Extends the thermal-necrosis frame beyond drilling to the insertion phase — a distinct and underexplored risk window.
