@@ -2,7 +2,7 @@
 title: "Immediate Implant Placement — Evidence Hub: Survival · Timing · Infected Sockets · Loading & Restoration"
 authors: Synthesis (Damian Lee)
 year: 2026
-date: 2026-08-16
+date: 2026-08-30
 doi: N/A
 source: N/A
 category: overviews
@@ -51,7 +51,7 @@ relations:
 > - **생존율의 새 기준점 = Gallucci 2026**(PROSPERO 갱신 SR, 140편·임플란트 10,456개, 2024.1까지): 식립×부하 9조합 전부의 가중누적생존율 산출 — Type 1A(즉시식립+즉시부하) 98.0%(SCV, 검증등급 최상), Type 1C(즉시식립+통상부하) 95.0%(SCV) 인 반면 **Type 1B(즉시식립+조기부하)는 91.6%(CD, 검증 미흡)** — 같은 즉시식립이라도 부하 타이밍에 따라 손실률이 **거의 4배** 갈린다(1A 2.0% vs 1B 8.4% 손실). 전신 Gallucci 2018(69편, 이 논문의 전신·직접 supersede 대상)이 확립한 Type1–4×A–C 분류체계 위에서 갱신된 수치.
 > - **즉시 vs 지연 생존 — 갈림은 해소됨(Mello 2017 superseded)**: Mello 2017은 **García-Sánchez 2022에 의해 완전 대체(full supersession, 2026-08-11)**. García-Sánchez 2022(RCT 6편 head-to-head)가 현행 기준 — **생존 유의차 없음** + 즉시가 1년 변연골·PES 우세. Mello 2017(관찰포함 30편)의 ~3%p 열세(p=.001)는 약한 관찰연구의 설계 편향이었으며, 방법론적 교훈으로만 남음.
 > - **같은 갈등이 단일 코호트 내부에서도 재현된다**: Felice 2016/Esposito 2017(동일 210명 3군 RCT, 4개월/1년 보고)은 즉시·즉시지연(6주) 배치가 지연(4개월) 대비 변연골·PES **유의 우위**를 보이면서 동시에 실패율은 **비유의하게 더 높은** 경향(6.0%/6.2% vs 1.6%, P=.369, 4개월→1년 신규 실패 0건으로 안정) — "즉시식립은 골·심미는 이기고 생존은 공짜가 아닐 수 있다"는 트레이드오프가 관찰연구 간 비교가 아니라 **하나의 RCT 안에서도** 나타난다.
-> - **절대 생존은 높음**: Lang 2012(전향 46편) 연간 실패율 0.82%, 2년 생존 98.4%. 즉시식립 자체는 고생존 술식.
+> - **절대 생존은 높음** *(Lang 2012, Gallucci 2026으로 superseded — 역사적 기준선)*: Lang 2012(전향 46편) 연간 실패율 0.82%, 2년 생존 98.4%. 즉시식립 자체는 고생존 술식. 현행 생존율 기준은 Gallucci 2026(140편, 10,456개)의 가중 누적생존율로 대체됨.
 > - **부위·직경이 방향을 뒤집을 수 있다**: Checchi 2017(구치부 RCT, n=100, 광경직경 6.0–8.0mm 즉시 vs 치조제보존+지연 통상직경)은 **지연군이 심미(PES 9.71 vs 10.86, P=.02)·변연골(1.06 vs 0.63mm, P<.0001) 모두 유의 우위** — 전치부 단일치 RCT(Puisys 2022: PES 12.8 vs 12.5 NS, 협측점막 즉시군 소폭 우세 P=.047)와 정반대 방향. 같은 "즉시식립" 문헌이라도 전치 표준직경과 구치 광경직경은 다른 결론.
 > - **타이밍 프로토콜 우열 없음**: Pommer 2021(상악 단일치, ≥3년) — 식립×부하 타이밍 9조합 어디서도 장기 생존·변연골 유의차 없음(IPIL vs IPDL p=.306 등). Puisys 2022(전치부 RCT, n=50)도 즉시 vs 조기 배치 간 PES·치조정골 무차이 재확인, 대신 즉시군 의자시간 ~50% 단축(127 vs 259분, P<.001). 타이밍보다 **증례 선택·술기**가 결정적.
 > - **변연골소실(MBL) 패턴**: 초기 리모델링 후 안정화. Zhang 2024 — 식립→보철 -0.74mm(p<0.05), 보철→5년 추가 -0.21mm(NS). 진행성이 아니라 조기집중형.
@@ -92,7 +92,7 @@ The unifying insight has sharpened since this page was first written: **immediat
 |---|---|---|---|
 | Gallucci 2026 | PROSPERO SR update, 140 studies / 10,456 implants | Type 1A 98.0% (SCV) · Type 1B 91.6% (CD) · Type 1C 95.0% (SCV) | **~4-fold loss difference between 1A and 1B despite both being "immediate placement"**; validation tier and raw survival do not move together |
 | Gallucci 2018 | PROSPERO SR (predecessor), 69 studies | Type 1A 98.4% (CD) · Type 1B 98.2% (CD) · Type 1C 96.0% (SCV) | Origin of the Type 1–4 × A–C nomenclature; partially superseded by the 2026 update above (Type 1B drops most, 98.2%→91.6%) |
-| Lang 2012 | SR, 46 prospective studies | 98.4% at 2 yr (annual failure 0.82%) | Non-comparative; antibiotics the one factor tied to ↓ failure |
+| Lang 2012 *(superseded by Gallucci 2026)* | SR, 46 prospective studies | 98.4% at 2 yr (annual failure 0.82%) | Non-comparative baseline; antibiotics the one factor tied to ↓ failure; superseded for survival estimates by Gallucci 2026's larger and more recent dataset |
 | Mello 2017 *(superseded by García-Sánchez 2022)* | SR+MA, 30 studies / 3,049 implants (obs-inclusive) | 95.21% | **vs delayed 98.38%, p=.001** (significant penalty — observational bias); MBL/ISQ/PPD all NS — methodological lesson only |
 | García-Sánchez 2022 | SR+MA, 6 head-to-head RCTs | ~97% (single-arm pool) | **No survival difference**; immediate favored on 1-yr MBL & PES; ~2–3× complications |
 | Felice 2016 / Esposito 2017 | 3-arm RCT, n=210 (same cohort, 4-mo and 1-yr reports) | Immediate 6.0% / immediate-delayed 6.2% / delayed 1.6% failure (P=.369, NS) | Immediate/immediate-delayed win significantly on MBL and PES (P<.01) at **both** timepoints; failure trend higher but never significant — no new failures between 4 mo and 1 yr |
@@ -157,7 +157,7 @@ Narrative synthesis (no new pooling; heterogeneous designs). Base: 5 SR/SR+MA (G
 - [[immediate-implant/garcia-sanchez-2022-immediate-vs-delayed-implant-placement-sr-ma]] — RCT-only: no survival difference, immediate favored on 1-yr MBL/PES, higher complications
 - [[immediate-implant/mello-2017-immediate-fresh-extraction-vs-delayed-healed-socket-sr-ma]] — obs-inclusive: immediate 95.21% vs delayed 98.38% (p=.001), other outcomes NS
 - [[immediate-implant/pommer-2021-maxillary-single-tooth-timing-protocols-sr-ma]] — no superior placement×loading timing combination
-- [[immediate-implant/lang-2012-immediate-implant-survival-success-sr]] — 2-yr survival 98.4%, annual failure 0.82%, antibiotics ↓ failure
+- [[immediate-implant/lang-2012-immediate-implant-survival-success-sr]] *(superseded by Gallucci 2026)* — 2-yr survival 98.4%, annual failure 0.82%, antibiotics ↓ failure; historical baseline only
 - [[immediate-implant/loading-protocol/azarias-2025-survival-rate-immediate-loaded-implants]] — full-arch immediate loading >93%, moderate stability suffices
 - [[immediate-implant/root-analog/aldebes-2022-restoration-material-marginal-bone-resorption]] — RCT: crown material does not affect marginal bone resorption
 - [[immediate-implant/infected-socket/espada-salgado-2026-immediate-implant-infected-socket-scoping-review]] — infected-socket IIP: heterogeneous, non-comparative, no standardized protocol
