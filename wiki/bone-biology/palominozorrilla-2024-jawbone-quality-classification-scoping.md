@@ -6,7 +6,7 @@ date: 2024-01-04
 doi: "10.4103/jispcd.JISPCD_4_22"
 source: palominozorrilla-2024-jawbone-quality-classification-scoping.md
 category: [bone-biology]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/palominozorrilla-2024-jawbone-quality-classification-scoping.pdf
 pdf_filename: palominozorrilla-2024-jawbone-quality-classification-scoping.pdf
 source_collection: external

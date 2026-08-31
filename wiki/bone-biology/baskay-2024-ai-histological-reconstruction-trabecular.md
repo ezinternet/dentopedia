@@ -6,7 +6,7 @@ date: 2024-02-15
 doi: "10.3390/jcm13041106"
 source: baskay-2024-ai-histological-reconstruction-trabecular.md
 category: [bone-biology]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/baskay-2024-ai-histological-reconstruction-trabecular.pdf
 pdf_filename: baskay-2024-ai-histological-reconstruction-trabecular.pdf
 source_collection: external

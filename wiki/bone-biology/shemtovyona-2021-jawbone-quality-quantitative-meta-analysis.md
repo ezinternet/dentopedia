@@ -6,7 +6,7 @@ date: 2021-06-16
 doi: "10.1371/journal.pone.0253283"
 source: shemtovyona-2021-jawbone-quality-quantitative-meta-analysis.md
 category: [bone-biology]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/shemtovyona-2021-jawbone-quality-quantitative-meta-analysis.pdf
 pdf_filename: shemtovyona-2021-jawbone-quality-quantitative-meta-analysis.pdf
 source_collection: external
