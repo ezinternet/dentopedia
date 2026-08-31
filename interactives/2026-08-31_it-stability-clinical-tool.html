@@ -175,9 +175,45 @@ input[type=range]{flex:1;height:6px;accent-color:var(--accent);cursor:pointer;}
     <p>위키 인제스트 논문 5편 기반 — norton-2017 · baldi-2018 · milone-2026 · palominozorrilla-2024 · shemtovyona-2021</p>
   </header>
 
-  <!-- ①  IT Interpreter -->
+  <!-- ① ISQ Loading Decision -->
   <div class="card">
-    <p class="sec-eye">① 삽입토크 임상 해석</p>
+    <p class="sec-eye">① 임플란트 안정성 로딩 결정</p>
+    <h2 class="sec-h">ISQ 기반 로딩 타이밍 판정기</h2>
+    <p class="sec-sub">norton-2017 (ISQ ≥ 55 즉시 임시보철 임계값) · baldi-2018 기반</p>
+
+    <div class="slider-row">
+      <input type="range" id="isq-sl" min="0" max="100" value="67" oninput="updateISQ(this.value)">
+      <div class="it-num"><span id="isq-val">67</span><span class="it-unit"> ISQ</span></div>
+    </div>
+
+    <div class="zone-wrap">
+      <div class="zone-bar" style="background:linear-gradient(to right,
+        #B01518 0%,#B01518 45%,
+        #A84F00 45%,#A84F00 55%,
+        #1057A0 55%,#1057A0 65%,
+        #0D7A52 65%,#0D7A52 100%);">
+        <div class="zone-pip" id="isq-pip" style="left:67%"></div>
+      </div>
+      <div class="zone-ticks">
+        <span>0</span><span>45</span><span>55</span><span>65</span><span>70</span><span>100</span>
+      </div>
+    </div>
+
+    <div class="ibox mid" id="isq-box">
+      <div class="izone" id="isq-zone">—</div>
+      <div class="inote" id="isq-note">—</div>
+      <div class="iloading" id="isq-rec">—</div>
+    </div>
+
+    <div class="inline-note" style="margin-top:14px;">
+      <div class="dot"></div>
+      <span>ISQ (임플란트 안정성 지수, Implant Stability Quotient)는 공명 주파수 분석 (Resonance Frequency Analysis, RFA)으로 측정. norton-2017: <strong>ISQ ≥ 55</strong> = 즉시 임시보철 허용 기준. baldi-2018: ISQ는 IT와 독립적으로 움직임 — IT가 낮아도 ISQ가 높으면 로딩 가능.</span>
+    </div>
+  </div>
+
+  <!-- ②  IT Interpreter -->
+  <div class="card">
+    <p class="sec-eye">② 삽입토크 임상 해석</p>
     <h2 class="sec-h">삽입토크(IT) 임상 해석기</h2>
     <p class="sec-sub">norton-2017 (n=30, IT≤20 Ncm 전향 코호트) · baldi-2018 (n=75 Anyridge) 기반</p>
 
@@ -210,9 +246,9 @@ input[type=range]{flex:1;height:6px;accent-color:var(--accent);cursor:pointer;}
     </div>
   </div>
 
-  <!-- ② Heat Risk -->
+  <!-- ③ Heat Risk -->
   <div class="card">
-    <p class="sec-eye">② 식립 발열 위험 평가</p>
+    <p class="sec-eye">③ 식립 발열 위험 평가</p>
     <h2 class="sec-h">임플란트 식립 중 발열 위험인자 체크</h2>
     <p class="sec-sub">milone-2026 (n=24, FLIR 열화상 분석 — 드릴링이 아닌 <em>식립 단계</em> 발열) 기반</p>
 
@@ -253,9 +289,9 @@ input[type=range]{flex:1;height:6px;accent-color:var(--accent);cursor:pointer;}
     </div>
   </div>
 
-  <!-- ③ Bone Quality -->
+  <!-- ④ Bone Quality -->
   <div class="card">
-    <p class="sec-eye">③ 골질 분류 빠른 참조</p>
+    <p class="sec-eye">④ 골질 분류 빠른 참조</p>
     <h2 class="sec-h">Lekholm-Zarb 골질 분류 (Type I–IV)</h2>
     <p class="sec-sub">palominozorrilla-2024 (17편 스코핑 리뷰) · shemtovyona-2021 (30편 메타분석, CBCT) 기반</p>
 
@@ -350,11 +386,9 @@ function updateIT(v) {
   document.getElementById('iload').textContent = z.load;
 
   const cap = document.getElementById('chart-cap');
-  if (v <= 20) {
-    cap.textContent = 'norton-2017: IT≤20 Ncm 코호트 ISQ 궤적 (T0≈67, T3months≈80)';
-  } else {
-    cap.textContent = 'norton-2017 ISQ 궤적 데이터는 IT≤20 Ncm 코호트 전용 — 현재 IT 범위는 별도 ISQ 측정 필요 (baldi-2018)';
-  }
+  cap.textContent = v <= 20
+    ? 'norton-2017: IT≤20 Ncm 코호트 ISQ 궤적 (T0=67, T3mo=80) — 현재 IT 범위'
+    : 'norton-2017 IT≤20 코호트 참조 궤적 (흐리게 표시) — 현재 IT > 20: ISQ 독립 측정 필수';
   drawChart(v);
 }
 
@@ -429,65 +463,68 @@ function drawChart(it) {
   ctx.font = '9px JetBrains Mono, monospace';
   ctx.fillText('ISQ 70', pad.l + 4, toY(70) - 4);
 
-  if (it <= 20) {
-    // norton-2017 data points: T0=67.2, loading≈80 (week 12-13)
-    // intermediate points inferred from standard osseointegration trajectory
-    const pts = [
-      { w: 0,  q: 67 },   // norton-2017 measured
-      { w: 2.5, q: 62 },  // typical dip (standard knowledge)
-      { w: 6,  q: 70 },   // recovery
-      { w: 13, q: 80 },   // norton-2017 measured (~3 months loading)
-    ];
+  // norton-2017 궤적: IT≤20 코호트 실측값 기반 (항상 참조 표시)
+  const pts = [
+    { w: 0,   q: 67 },
+    { w: 2.5, q: 62 },
+    { w: 6,   q: 70 },
+    { w: 13,  q: 80 },
+  ];
+  const inRange = it <= 20;
 
-    // filled area
+  // filled area
+  ctx.beginPath();
+  ctx.moveTo(toX(pts[0].w), toY(pts[0].q));
+  pts.forEach(p => ctx.lineTo(toX(p.w), toY(p.q)));
+  ctx.lineTo(toX(13), toY(ISQ_MIN));
+  ctx.lineTo(pad.l, toY(ISQ_MIN));
+  ctx.closePath();
+  ctx.globalAlpha = inRange ? 0.12 : 0.05;
+  ctx.fillStyle = C.accent;
+  ctx.fill();
+  ctx.globalAlpha = 1;
+
+  // line
+  ctx.beginPath();
+  ctx.moveTo(toX(pts[0].w), toY(pts[0].q));
+  pts.forEach(p => ctx.lineTo(toX(p.w), toY(p.q)));
+  ctx.strokeStyle = C.accent;
+  ctx.lineWidth = inRange ? 2.5 : 1.2;
+  ctx.globalAlpha = inRange ? 1 : 0.3;
+  ctx.setLineDash(inRange ? [] : [6, 4]);
+  ctx.lineJoin = 'round';
+  ctx.stroke();
+  ctx.setLineDash([]);
+  ctx.globalAlpha = 1;
+
+  // key points
+  [[0, 67, '67', 1], [13, 80, '80', 1], [2.5, 62, '', 0]].forEach(([w, q, label, big]) => {
     ctx.beginPath();
-    ctx.moveTo(toX(pts[0].w), toY(pts[0].q));
-    pts.forEach(p => ctx.lineTo(toX(p.w), toY(p.q)));
-    ctx.lineTo(toX(13), toY(ISQ_MIN));
-    ctx.lineTo(pad.l, toY(ISQ_MIN));
-    ctx.closePath();
-    ctx.globalAlpha = 0.12;
+    ctx.arc(toX(w), toY(q), big ? 5 : 3, 0, Math.PI * 2);
     ctx.fillStyle = C.accent;
+    ctx.globalAlpha = inRange ? 1 : 0.3;
     ctx.fill();
     ctx.globalAlpha = 1;
-
-    // line
-    ctx.beginPath();
-    ctx.moveTo(toX(pts[0].w), toY(pts[0].q));
-    pts.forEach(p => ctx.lineTo(toX(p.w), toY(p.q)));
-    ctx.strokeStyle = C.accent;
-    ctx.lineWidth = 2.5;
-    ctx.lineJoin = 'round';
-    ctx.stroke();
-
-    // key points
-    [[0, 67, '67', 1], [13, 80, '80', 1], [2.5, 62, '', 0]].forEach(([w, q, label, big]) => {
-      ctx.beginPath();
-      ctx.arc(toX(w), toY(q), big ? 5 : 3, 0, Math.PI * 2);
+    if (label) {
       ctx.fillStyle = C.accent;
-      ctx.fill();
-      if (label) {
-        ctx.fillStyle = C.accent;
-        ctx.font = 'bold 10px JetBrains Mono, monospace';
-        const dx = w === 0 ? 7 : -22;
-        ctx.fillText(label, toX(w) + dx, toY(q) - 6);
-      }
-    });
+      ctx.globalAlpha = inRange ? 1 : 0.35;
+      ctx.font = 'bold 10px JetBrains Mono, monospace';
+      const dx = w === 0 ? 7 : -22;
+      ctx.fillText(label, toX(w) + dx, toY(q) - 6);
+      ctx.globalAlpha = 1;
+    }
+  });
 
-    // label for dip
-    ctx.fillStyle = C.muted;
-    ctx.font = '9px Noto Sans KR, sans-serif';
+  ctx.fillStyle = C.muted;
+  ctx.font = '9px Noto Sans KR, sans-serif';
+  if (inRange) {
     ctx.fillText('전형적 안정성 dip', toX(2.5) + 6, toY(62) + 4);
-
   } else {
-    // no norton data for this range
-    ctx.fillStyle = C.muted;
-    ctx.font = '12px Noto Sans KR, sans-serif';
+    ctx.globalAlpha = 0.55;
     ctx.textAlign = 'center';
-    ctx.fillText('현재 IT 범위: norton-2017 ISQ 궤적 데이터 없음', W / 2, H / 2 - 8);
-    ctx.font = '11px Noto Sans KR, sans-serif';
-    ctx.fillText('IT > 20 Ncm — ISQ 독립 측정 필수 (baldi-2018)', W / 2, H / 2 + 10);
+    ctx.fillText('참조: norton-2017 IT≤20 코호트 궤적 (현재 IT와 다른 코호트)', W / 2, pad.t + 11);
     ctx.textAlign = 'left';
+    ctx.globalAlpha = 1;
   }
 
   // Y-axis ticks
@@ -523,6 +560,42 @@ function drawChart(it) {
   ctx.restore();
 }
 
+// ── ISQ Loading Decision ───────────────────────────
+const ISQ_ZONES = [
+  { max: 45, cls:'bad',
+    label:'로딩 불가 (ISQ < 45)',
+    note:'안정성 극히 낮음. 임플란트 고정 불충분 — 즉시·조기 로딩 모두 금기.',
+    rec:'골유착 대기 (최소 3개월). ISQ 추적 필수. 식립 실패 가능성 점검.' },
+  { max: 55, cls:'warn',
+    label:'지연 로딩 권장 (ISQ 45–55)',
+    note:'안정성 불충분. norton-2017 즉시 임시보철 임계값(ISQ 55) 미달.',
+    rec:'⚠ 즉시 로딩 금기. 3개월 후 재측정. ISQ 55 이상 확인 후 로딩 결정.' },
+  { max: 65, cls:'mid',
+    label:'조건부 즉시 로딩 가능 (ISQ 55–65)',
+    note:'norton-2017 임계값(ISQ ≥ 55) 충족 — 즉시 임시보철 허용 구간. 단, 기능 하중은 신중히.',
+    rec:'즉시 임시보철 가능 (non-functional loading). 최종 보철은 ISQ ≥ 65 확인 후. 3개월 추적 필수.' },
+  { max: 75, cls:'ok',
+    label:'조기/즉시 로딩 적합 (ISQ 65–75)',
+    note:'양호한 안정성. 대부분의 즉시·조기 로딩 프로토콜 기준 충족.',
+    rec:'즉시 또는 조기 로딩 가능. 최종 보철 진행 전 ISQ 재확인 권장.' },
+  { max:100, cls:'ok',
+    label:'즉시 로딩 최적 (ISQ > 75)',
+    note:'높은 초기 안정성. norton-2017 코호트 3개월 도달값(ISQ ≈ 80) 수준.',
+    rec:'즉시 로딩 적합. IT가 높았다면 치조정 방사선 추적 병행 (고토크 리스크).' },
+];
+
+function updateISQ(v) {
+  v = +v;
+  document.getElementById('isq-val').textContent = v;
+  document.getElementById('isq-pip').style.left = v + '%';
+  const z = ISQ_ZONES.find(z => v <= z.max) || ISQ_ZONES[4];
+  const box = document.getElementById('isq-box');
+  box.className = 'ibox ' + z.cls;
+  document.getElementById('isq-zone').textContent = z.label;
+  document.getElementById('isq-note').textContent = z.note;
+  document.getElementById('isq-rec').textContent  = z.rec;
+}
+
 // ── Heat Risk ──────────────────────────────────────
 const RISK_CFG = [
   { cls:'ok',   label:'위험인자 없음 — 발열 위험 낮음',  color:'var(--success)',
@@ -555,6 +628,7 @@ function updateRisk() {
 // ── Init & resize ──────────────────────────────────
 window.addEventListener('load', () => {
   updateIT(30);
+  updateISQ(67);
   updateRisk();
 });
 window.addEventListener('resize', () => {
