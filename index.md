@@ -2467,6 +2467,7 @@ tags: []
 - [[cracked-tooth/raj-2025-cracked-tooth-syndrome-diagnostic-dilemma]] — Mini review (DAPMRV+Manipal, FROH 2025): CTS = longitudinal fracture 5 type 중 incomplete fracture — 진단 dilemma·multi-modal diagnostic 강조
 - [[cracked-tooth/jkda-2024-62-1-003]] — Review (연세대+강남세브란스 보존과, JKDA 2024): 균열치 진단 — 단일 도구 한계·다중 검사 종합 framework. JKDA 균열치 특집 1번
 - [[cracked-tooth/jkda-2024-62-1-004]] — Clinical review (부산대 보존과 손성애, JKDA 2024): QLF (Quantitative Light-Induced Fluorescence) 균열치 진단 적용 — 비침습 시각화·기존 도구 보완
+- [[cracked-tooth/kakka-2022-treatment-cracked-teeth-comprehensive-narrative]] — Kakka 2022 · narrative-review (64편, Athens+Newcastle, CEDR, PMC fulltext) · 모니터링(무증상 80% 3y 안정)·생활치 치수생존 80–93%·RCT 후 crownless 발치 11배 ↑ — 치료 결과 포괄 서술고찰, Iowa Index 제시 (DOI 10.1002/cre2.617, PMC9562569)
 - [[overviews/cracked-tooth-syndrome-overview]] — Synthesis (8편, 2026): longitudinal fracture 5-type 분류·multi-modal 진단(bite·transillumination·CBCT·QLF)·치료 tension(Kaur 2026 endo+full coverage vs 보존적 입장). 한국 적용 framework
 
 ## 치과 역사 (Dental History)
