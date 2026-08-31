@@ -182,8 +182,8 @@ input[type=range]{flex:1;height:6px;accent-color:var(--accent);cursor:pointer;}
     <p class="sec-sub">norton-2017 (n=30, IT≤20 Ncm 전향 코호트) · baldi-2018 (n=75 Anyridge) 기반</p>
 
     <div class="slider-row">
-      <input type="range" id="it-sl" min="0" max="100" value="15" oninput="updateIT(this.value)">
-      <div class="it-num"><span id="it-val">15</span><span class="it-unit"> Ncm</span></div>
+      <input type="range" id="it-sl" min="0" max="100" value="30" oninput="updateIT(this.value)">
+      <div class="it-num"><span id="it-val">30</span><span class="it-unit"> Ncm</span></div>
     </div>
 
     <div class="zone-wrap">
@@ -554,7 +554,7 @@ function updateRisk() {
 
 // ── Init & resize ──────────────────────────────────
 window.addEventListener('load', () => {
-  updateIT(15);
+  updateIT(30);
   updateRisk();
 });
 window.addEventListener('resize', () => {
