@@ -11,10 +11,23 @@ on:
       - "scripts/orphan-check.py"
       - "scripts/find-no-wiki.py"
       - "scripts/supersession-audit.py"
+      # OPERATIONS 산출물 — operations-lint(§3 cross-link + §7 라이트 고정)가 여기서 돈다.
+      # 이 경로들이 없으면 인터랙티브만 고쳐 푸시할 때 CI가 통째로 스킵된다.
+      - "interactives/**"
+      - "agenda/**"
+      - "slides/**"
+      - "peer-review/**"
+      - "note-meeting/**"
+      - "scripts/operations-lint.py"
   pull_request:
     paths:
       - "wiki/**/*.md"
       - "sources/**/*.md"
+      - "interactives/**"
+      - "agenda/**"
+      - "slides/**"
+      - "peer-review/**"
+      - "note-meeting/**"
 
 jobs:
   lint:
@@ -41,3 +54,6 @@ jobs:
 
       - name: Supersession audit (dangling links & banner-desync → fail; decay → pass)
         run: python3 scripts/supersession-audit.py --ci
+
+      - name: OPERATIONS lint (cross-link chain + §7 라이트 고정)
+        run: python3 scripts/operations-lint.py
