@@ -13,11 +13,15 @@ source_collection: external
 tags: [primary-stability, adhesive-cement, calcium-phosphate, oversized-osteotomy, removal-torque, poor-bone]
 ---
 
-## One-line Summary
-In vitro study using calcium phosphate-based adhesive cement in oversized sawbone osteotomies: all removal torques exceeded 32 Ncm threshold; primary stability scaled with implant surface area and diameter, not cement gap size (0.5–3 mm).
+## Three-line Summary
+In vitro proof-of-concept: calcium phosphate adhesive cement restores primary implant stability in oversized osteotomies (cement gap 0.5–3 mm), achieving removal torques >32 Ncm in all configurations — the immediate loading threshold.
+Stability scales with implant surface area and diameter (66.5–170.1 mm²), not cement gap size; trisodium citrate extends working time without reducing final strength; failure mode is adhesive at the cement-implant interface.
+Pre-clinical only (sawbone, no in vivo data), but establishes a route to primary stability in poor-fit beds without press-fit — directly relevant to oversized or post-augmentation osteotomies.
 
-## 한줄요약
-과삭제 골창에 칼슘 인산염 시멘트 적용 in vitro: 모든 제거 토크 >32 Ncm 달성, 안정성은 임플란트 표면적·직경에 비례하고 시멘트 간격(0.5–3mm)과는 무관.
+## 세줄요약
+In vitro: 칼슘 인산염 접착 시멘트가 과삭제 골창(0.5–3 mm 간격) 전 구성에서 제거 토크 >32 Ncm(즉시 부하 기준치) 달성.
+안정성은 임플란트 표면적·직경(66.5–170.1 mm²)에 비례하며 시멘트 간격과 무관; 구연산삼나트륨이 작업 시간 연장(p≤0.01), 최종 강도 불변; 파절은 시멘트-임플란트 계면(접착 파절).
+전임상 단계이나, 압박 끼워맞춤 없이 저밀도 또는 이식 후 골창에서 1차 안정성을 확보하는 대안 경로 제시.
 
 ## Summary
 This in vitro study evaluated a novel calcium phosphate-based adhesive cement as a method to achieve implant primary stability in oversized osteotomies — situations where conventional insertion torque cannot be generated. Using sawbone blocks and five Straumann implant configurations with endosteal surface areas ranging from 66.5 to 179.6 mm², removal torque after 15 min curing was measured as a stability surrogate. All removal torques exceeded 32 Ncm (the commonly cited immediate loading threshold), regardless of cement gap size (0.5–3 mm) or implant design variant. The dominant predictors of removal torque were implant surface area and diameter. Failure consistently occurred at the cement-implant interface (adhesive failure), not the cement-bone interface. A trisodium citrate additive successfully extended working time without compromising final strength.

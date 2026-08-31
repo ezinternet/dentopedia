@@ -18,11 +18,15 @@ relations:
     target: baldi-2018-insertion-torque-isq-tapered-knife-edge
 ---
 
-## One-line Summary
-In vitro FEA + experimental study (4 Nobel Biocare implants, PU foam): tapered body design dominates normalized insertion torque (β₂=0.93, R²=0.90), distributing compressive stress further from threads compared to parallel-walled implants.
+## Three-line Summary
+In vitro insertion experiment + explicit FEA (4 Nobel Biocare implants: parallel-walled P1/P2 and tapered T1/T2, Ø3.5 and 4.3 mm, rigid PU foam): tapered body design dominates normalized IT (β₂=0.93, p<0.001), while implant diameter dominates raw IT (β₁=0.78, p<0.001).
+Tapered body also dominates effective contact pressure (β₂=0.97) and produces a compressive stress zone extending further from the thread than parallel-walled designs; FEA was validated against 2D-DIC surface strain measurements; all regression models R²≥0.77.
+Provides a biomechanical explanation for why tapered implants produce higher IT — the taper creates radial interference that extends the stress field — mechanistically linking implant macrogeometry to the IT-driven primary stability and bone-stress trade-offs described in clinical literature.
 
-## 한줄요약
-PU 폼 삽입 실험 + FEA (4종 임플란트): 정규화 삽입 토크는 테이퍼 바디 설계가 지배(β₂=0.93)하며, 병렬 벽 대비 나사산에서 더 멀리 압축 응력을 분산시킴.
+## 세줄요약
+In vitro 삽입 실험 + 3D 명시적 FEA(Nobel Biocare 병렬벽 2종·테이퍼 2종, Ø3.5·4.3mm, PU 폼): 정규화 삽입 토크는 테이퍼 설계가 지배(β₂=0.93), 원시 삽입 토크는 직경이 더 크게 기여(β₁=0.78).
+테이퍼가 유효 접촉압도 지배(β₂=0.97); 테이퍼 임플란트는 병렬벽 대비 나사산에서 더 멀리 압축 응력을 분산; FEA는 2D-DIC로 검증, 전 회귀모델 R²≥0.77.
+테이퍼 임플란트가 높은 IT를 내는 임상 관찰에 기계적 설명 제공 — 방사형 간섭이 응력장을 확대한다는 기전으로, 임상 문헌의 IT-1차 안정성-골 응력 상충관계와 거시형태를 연결.
 
 ## Summary
 Yang et al. investigated why tapered implants generate higher insertion torque (IT) than parallel-walled designs, using a combined experimental and finite element analysis (FEA) approach with polyurethane foam bone surrogates. Two parallel-walled (P1 Ø3.5mm, P2 Ø4.3mm) and two tapered (T1 Ø3.5mm, T2 Ø4.3mm) Nobel Biocare implants were inserted at 12 rpm into corresponding straight pilot holes. By fitting IT to an analytical model and decomposing standardized regression coefficients, the study showed that raw IT is influenced by both diameter and taper (R²=0.77), but normalized IT (IT divided by radial interference δ) is dominated by taper design (β₂=0.93, p<0.001) while diameter contributes minimally (β₁=0.20). The tapered body creates compressive stress that propagates further from the thread tip, a distinct pattern not seen in parallel-walled implants. This provides the biomechanical mechanism underlying the clinically observed higher IT in tapered implants.
