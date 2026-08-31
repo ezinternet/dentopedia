@@ -3,12 +3,20 @@
 title: "삽입토크 & 안정성 임상 해석기"
 type: interactive
 date: 2026-08-31
-source_papers:
-  - norton-2017-low-insertion-torque-primary-stability
-  - baldi-2018-insertion-torque-isq-tapered-knife-edge
-  - milone-2026-heat-dental-implant-thermal-analysis
-  - palominozorrilla-2024-jawbone-quality-classification-scoping
-  - shemtovyona-2021-jawbone-quality-quantitative-meta-analysis
+status: done
+category: implant-stability
+agenda: agenda/2026-08-31_it-stability-clinical-tool.md
+source_wiki:
+  - wiki/overviews/high-insertion-torque-primary-stability-crestal-bone-overview.md
+  - wiki/implants/norton-2017-low-insertion-torque-primary-stability.md
+  - wiki/implants/isq/baldi-2018-insertion-torque-isq-tapered-knife-edge.md
+  - wiki/implants/isq/marconcini-2018-high-insertion-torque-bone-resorption-rct.md
+  - wiki/implants/isq/aldahlawi-2018-implant-torque-crestal-bone-remodeling.md
+  - wiki/implants/coyac-2019-preclinical-model-links-osseo-densification-misfit.md
+  - wiki/implants/osteotomy-thermal/milone-2026-heat-dental-implant-thermal-analysis.md
+  - wiki/bone-biology/palominozorrilla-2024-jawbone-quality-classification-scoping.md
+  - wiki/bone-biology/shemtovyona-2021-jawbone-quality-quantitative-meta-analysis.md
+tags: [insertion-torque, isq, loading-timing, osteotomy-heat, bone-quality, lekholm-zarb, chairside]
 description: "IT 값 입력 → 임상 해석·ISQ 궤적 / 식립 발열 위험 평가 / 골질 분류 참조"
 ---
 -->
@@ -33,38 +41,6 @@ description: "IT 값 입력 → 임상 해석·ISQ 궤적 / 식립 발열 위험
   --sans: 'Noto Sans KR', sans-serif;
   --mono: 'JetBrains Mono', monospace;
   --r: 10px;
-}
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) {
-    --bg:       #0E1A27;
-    --surface:  #152030;
-    --border:   #1E3048;
-    --text:     #D4E5F2;
-    --muted:    #7890A5;
-    --accent:   #48A8E0;
-    --accent-bg:#09243E;
-    --success:  #20C9A0;
-    --ok-bg:    #082820;
-    --warn:     #F59533;
-    --warn-bg:  #291500;
-    --danger:   #FF6060;
-    --danger-bg:#2A0808;
-  }
-}
-:root[data-theme="dark"] {
-  --bg:       #0E1A27;
-  --surface:  #152030;
-  --border:   #1E3048;
-  --text:     #D4E5F2;
-  --muted:    #7890A5;
-  --accent:   #48A8E0;
-  --accent-bg:#09243E;
-  --success:  #20C9A0;
-  --ok-bg:    #082820;
-  --warn:     #F59533;
-  --warn-bg:  #291500;
-  --danger:   #FF6060;
-  --danger-bg:#2A0808;
 }
 *{box-sizing:border-box;margin:0;padding:0;}
 body{
@@ -159,20 +135,16 @@ input[type=range]{flex:1;height:6px;accent-color:var(--accent);cursor:pointer;}
 .src{font-size:12px;color:var(--muted);margin-bottom:4px;font-family:var(--mono);}
 
 /* theme btn */
-.theme-btn{position:fixed;top:14px;right:14px;background:var(--surface);border:1px solid var(--border);
-  color:var(--muted);border-radius:20px;padding:5px 14px;font-size:12px;cursor:pointer;
-  font-family:var(--sans);}
 @media(max-width:520px){.bone-grid{grid-template-columns:1fr 1fr;}.it-num{font-size:22px;}}
 </style>
 
-<button class="theme-btn" onclick="toggleTheme()">라이트 / 다크</button>
 
 <div class="wrap">
 
   <header class="pg-header">
     <p class="eyebrow">임플란트 임상 결정 지원</p>
     <h1>삽입토크 · 발열 · 골질 임상 해석기</h1>
-    <p>위키 인제스트 논문 5편 기반 — norton-2017 · baldi-2018 · milone-2026 · palominozorrilla-2024 · shemtovyona-2021</p>
+    <p>위키 인제스트 논문 8편 기반 — norton-2017 · baldi-2018 · marconcini-2018 · aldahlawi-2018 · coyac-2019 · milone-2026 · palominozorrilla-2024 · shemtovyona-2021</p>
   </header>
 
   <!-- ① ISQ Loading Decision -->
@@ -337,6 +309,9 @@ input[type=range]{flex:1;height:6px;accent-color:var(--accent);cursor:pointer;}
     <h3>출처 — 위키 내 검증 완료 논문만</h3>
     <p class="src">norton-2017 — prospective, n=30, IT≤20 Ncm, 1-year. DOI 10.11607/jomi.5889</p>
     <p class="src">baldi-2018 — prospective, n=75 Anyridge, IT-ISQ correlation. DOI 10.1155/2018/7201093</p>
+    <p class="src">marconcini-2018 — RCT, n=116, 3-year CSR 91.3 vs 98.2%. DOI 10.1111/cid.12586</p>
+    <p class="src">aldahlawi-2018 — retrospective, n=113 NobelActive, 하악 2.12 vs 상악 0.25 mm. DOI 10.2147/CCIDE.S174895</p>
+    <p class="src">coyac-2019 — 전임상(쥐 상악 발치와), 미스핏 배정, 수치 미보고. DOI 10.1111/clr.13537</p>
     <p class="src">milone-2026 — in-vitro, n=24, FLIR thermal. DOI 10.1155/bmri/7910355</p>
     <p class="src">palominozorrilla-2024 — scoping review, 17 studies. DOI 10.4103/jispcd.JISPCD_4_22</p>
     <p class="src">shemtovyona-2021 — SR+MA, 30 studies, CBCT. DOI 10.1371/journal.pone.0253283</p>
@@ -344,13 +319,6 @@ input[type=range]{flex:1;height:6px;accent-color:var(--accent);cursor:pointer;}
 </div>
 
 <script>
-// ── Theme ──────────────────────────────────────────
-function toggleTheme() {
-  const r = document.documentElement;
-  r.setAttribute('data-theme',
-    r.getAttribute('data-theme') === 'dark' ? 'light' : 'dark');
-  drawChart(+document.getElementById('it-sl').value);
-}
 
 // ── IT Zones ───────────────────────────────────────
 const ZONES = [
@@ -367,7 +335,7 @@ const ZONES = [
     note:'Baldi 2018: 두 임플란트 실패 모두 이 구간. 치조정 피질골 손상 위험 증가 (high-IT overview).',
     load:'⚠ 치밀 피질골(D1, 하악구치부) 주의. 치조정 방사선 추적 권장. IT ≠ 안정성.' },
   { max:100, cls:'bad',  label:'초고토크 (>65 Ncm)',
-    note:'Marconcini 2018·Aldahlawi 2018: 치조정 골소실·생존율 저하 신호. Coyac 2019: 골수압·골세포사멸 기전.',
+    note:'Marconcini 2018·Aldahlawi 2018: 치조정 골소실·생존율 저하 신호. Coyac 2019: 미세골절·골세포사멸 기전(전임상, 수치 미보고).',
     load:'⛔ 즉시 부하 금지. ISQ 독립 측정 필수. 치조정 방사선 필수 추적.' },
 ];
 
