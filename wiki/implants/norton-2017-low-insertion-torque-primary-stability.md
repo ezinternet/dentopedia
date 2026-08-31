@@ -6,7 +6,7 @@ date: 2017-01-01
 doi: "10.11607/jomi.5889"
 source: norton-2017-low-insertion-torque-primary-stability.md
 category: [implants]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/norton-2017-low-insertion-torque-primary-stability.pdf
 pdf_filename: norton-2017-low-insertion-torque-primary-stability.pdf
 source_collection: external

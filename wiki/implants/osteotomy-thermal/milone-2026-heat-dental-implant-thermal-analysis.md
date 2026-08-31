@@ -6,7 +6,7 @@ date: 2026-01-16
 doi: "10.1155/bmri/7910355"
 source: milone-2026-heat-dental-implant-thermal-analysis.md
 category: [implants]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/milone-2026-heat-dental-implant-thermal-analysis.pdf
 pdf_filename: milone-2026-heat-dental-implant-thermal-analysis.pdf
 source_collection: external

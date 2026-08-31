@@ -6,7 +6,7 @@ date: 2024-05-18
 doi: "10.1016/j.medengphy.2024.104181"
 source: yang-2024-implant-diameter-tapered-stress-insertion.md
 category: [implants]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/yang-2024-implant-diameter-tapered-stress-insertion.pdf
 pdf_filename: yang-2024-implant-diameter-tapered-stress-insertion.pdf
 source_collection: external

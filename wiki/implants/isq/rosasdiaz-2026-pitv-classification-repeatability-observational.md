@@ -6,7 +6,7 @@ date: 2026-01-01
 doi: "10.4317/jced.63321"
 source: rosasdiaz-2026-pitv-classification-repeatability-observational.md
 category: [implants/isq]
-confidence: cross-sectional
+evidence_level: cross-sectional
 pdf_path: /Users/oracleneo/llm-wiki/papers/rosasdiaz-2026-pitv-classification-repeatability-observational.pdf
 pdf_filename: rosasdiaz-2026-pitv-classification-repeatability-observational.pdf
 source_collection: external

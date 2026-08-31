@@ -6,7 +6,7 @@ date: 2023-06-03
 doi: "10.1007/s00784-023-04990-8"
 source: andersen-2023-primary-stability-adhesive-cement-oversized.md
 category: [implants]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: /Users/oracleneo/llm-wiki/papers/andersen-2023-primary-stability-adhesive-cement-oversized.pdf
 pdf_filename: andersen-2023-primary-stability-adhesive-cement-oversized.pdf
 source_collection: external

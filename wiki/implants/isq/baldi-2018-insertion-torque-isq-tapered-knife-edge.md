@@ -6,7 +6,7 @@ date: 2018-05-15
 doi: "10.1155/2018/7201093"
 source: baldi-2018-insertion-torque-isq-tapered-knife-edge.md
 category: [implants/isq]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/baldi-2018-insertion-torque-isq-tapered-knife-edge.pdf
 pdf_filename: baldi-2018-insertion-torque-isq-tapered-knife-edge.pdf
 source_collection: external
