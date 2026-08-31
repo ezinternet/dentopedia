@@ -106,6 +106,8 @@ Deploy order (in `deploy-pages.yml`): `build-wiki-stats.py` → `build-interacti
 
 `artifact-design` 스킬의 3-state 다크 모드 패턴은 이 규칙에 의해 override된다. 위반 시 즉시 해당 블록 제거.
 
+**2026-08-31부터 기계 강제된다** — `scripts/operations-lint.py`가 `interactives/*.html`에서 위 두 패턴을 찾으면 **error로 block**한다 (줄 번호까지 출력). 그 전까지 이 규칙은 문서에만 있고 판독 고리가 없어, 네 차례 지적됐음에도 감사 22개가 전부 초록불인 채 다크 토글을 단 임상 도구가 배포됐다. `EXEMPT_FILES`(자동생성 대시보드)도 이 검사만은 면제되지 않는다 — 다만 고칠 곳은 파일이 아니라 생성 스크립트다.
+
 ## 8. Overviews domain map (auto-generated — do NOT hand-edit)
 
 `interactives/overviews-map.html` is the at-a-glance browser for all `wiki/overviews/` pages, grouped by clinical domain (search + expand/collapse, titles link to each page). It is **auto-generated** by `scripts/build-overviews-map.py` from each overview's frontmatter (`title`/`date`); the deploy workflow regenerates it on every push to `wiki/**`, and the homepage `wiki/index.md` embeds it via `<iframe>`. The iframe src uses the full absolute `PUBLISH_BASE` URL (Quartz `CrawlLinks` rewrites root-relative/`.html` srcs, so the iframe and the interactives-index link both need the full `{PUBLISH_BASE}/...` URL).
