@@ -19,6 +19,7 @@ Sequential loop:
 
 import json
 import os
+import re
 import subprocess
 import sys
 from datetime import datetime, timezone
@@ -170,9 +171,87 @@ def cmd_next():
     print(f"\nQueue: {remaining} more paper(s) after this one.")
 
 
-def cmd_finish(stem: str):
+# ── ingest-time content lint gate ───────────────────────────────────────────
+# content-lint.py는 daily-audit 전용 signal(절대 block 안 함)이지만,
+# 인제스트 시점엔 LLM이 방금 쓴 파일만 대상으로 삼아 gate로 쓴다.
+# 검사 A(필수 섹션) + D(레거시 필드)만 — 전체 repo 스캔 아님.
+
+_RE_THREELINE_EN = re.compile(r"three[\s\-]?line\s+summary", re.IGNORECASE)
+_RE_THREELINE_KO = re.compile(r"세\s?줄\s?요약")
+
+
+def _lint_stem_files(stem: str) -> list[str]:
+    """Check A + D on just the files --finish is about to commit."""
+    findings = []
+    candidates: list[Path] = []
+    src = SOURCES / f"{stem}.md"
+    if src.exists():
+        candidates.append(src)
+    candidates.extend(sorted(WIKI.rglob(f"{stem}.md")))
+
+    for p in candidates:
+        try:
+            text = p.read_text(encoding="utf-8")
+        except OSError:
+            continue
+        rel = str(p.relative_to(REPO))
+
+        # frontmatter parse
+        fm_m = re.match(r"^---\n(.*?)\n---", text, re.DOTALL)
+        fields: dict = {}
+        if fm_m:
+            for line in fm_m.group(1).splitlines():
+                kv = re.match(r"^(\w+)\s*:\s*(.*)$", line)
+                if kv:
+                    fields[kv.group(1)] = kv.group(2).strip().strip('"').strip("'")
+
+        # Check D: legacy confidence: field
+        if "confidence" in fields:
+            if "evidence_level" in fields:
+                findings.append(
+                    f"D/LEGACY-FIELD 'confidence:' + 'evidence_level:' 공존 → confidence 삭제 필요: {rel}"
+                )
+            else:
+                val = fields["confidence"]
+                findings.append(
+                    f"D/LEGACY-FIELD 'confidence: {val}' → 'evidence_level:'로 개명 필요: {rel}"
+                )
+
+        # body (after frontmatter)
+        body_m = re.match(r"^---\n.*?\n---\n?(.*)", text, re.DOTALL)
+        body = body_m.group(1) if body_m else text
+
+        lines = body.splitlines()
+        has_en = any(re.match(r"^#{2,}\s+", ln) and _RE_THREELINE_EN.search(ln) for ln in lines)
+        has_ko = any(re.match(r"^#{2,}\s+", ln) and _RE_THREELINE_KO.search(ln) for ln in lines)
+
+        if not has_en:
+            findings.append(f"A/MISSING-SECTION '## Three-line Summary': {rel}")
+        if not has_ko:
+            findings.append(f"A/MISSING-SECTION '## 세줄요약': {rel}")
+
+    return findings
+
+
+def cmd_finish(stem: str, force: bool = False):
     """Per-file commit + push + qmd. Mark stem as processed."""
     print(f"\n── finishing ingest for: {stem} ──")
+
+    # 0. Content lint gate — commits 전에 검사
+    lint_findings = _lint_stem_files(stem)
+    if lint_findings:
+        print("\n  ⚠️  content-lint gate findings:")
+        for f in lint_findings:
+            print(f"    {f}")
+        if force:
+            print("  [--force] 게이트 무시하고 계속합니다.\n")
+        else:
+            print(
+                "\n  ❌ 인제스트 중단 — 위 항목을 수정 후 다시 --finish 하세요.\n"
+                "     수정 없이 강행하려면: python3 scripts/ingest-one.py --finish "
+                f"{stem} --force"
+            )
+            sys.exit(1)
 
     # 1. Find all files belonging to this stem
     source_file = SOURCES / f"{stem}.md"
@@ -288,7 +367,8 @@ if __name__ == "__main__":
         cmd_next()
     elif args[0] == "--finish":
         if len(args) < 2:
-            sys.exit("Usage: ingest-one.py --finish <stem>")
-        cmd_finish(args[1])
+            sys.exit("Usage: ingest-one.py --finish <stem> [--force]")
+        force = "--force" in args
+        cmd_finish(args[1], force=force)
     else:
         print(__doc__)
