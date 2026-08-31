@@ -24,6 +24,7 @@ source_wiki:
   - wiki/implants/isq/baldi-2018-insertion-torque-isq-tapered-knife-edge.md
   - wiki/implants/norton-2017-low-insertion-torque-primary-stability.md
   - wiki/implants/isq/rosasdiaz-2026-pitv-classification-repeatability-observational.md
+  - wiki/implants/andersen-2023-primary-stability-adhesive-cement-oversized.md
 relations:
   - type: refines
     target: coyac-2019-preclinical-model-links-osseo-densification-misfit
@@ -172,6 +173,14 @@ Within Lemos's data the one subgroup with a visible signal is immediate loading,
 
 So the intuition "I pushed to 55 Ncm, so stability must be excellent" is wrong twice over: the torque does not predict the ISQ (now confirmed at SR+MA scale in vivo, with substantial unexplained heterogeneity, and directly demonstrated in vitro by Rosas-Díaz 2024 via surgical compression), and neither instrument sees the crestal remodeling that will actually decide the 3-year result — indeed Tisci 2026 shows ISQ cannot even independently predict MBL or survival with current evidence, so it is not a fallback proxy either. This independently converges with the wider ISQ↔IT decoupling documented in [[overviews/isq-loading-threshold]] and [[overviews/implant-macrogeometry-length-diameter-primary-stability-overview]].
 
+### 7. The third regime — when there is no torque to read (2026-08-31)
+
+Everything above assumes a torque reading exists. [[implants/andersen-2023-primary-stability-adhesive-cement-oversized]] (in vitro, sawbone blocks, five Straumann TL/TLX configurations, calcium-phosphate adhesive cement) occupies the case this page's own thesis implies but never states: if insertion torque is *a reading of the bone that resisted it* (§6), then in an oversized osteotomy the bone does not resist, no reading is produced, and both the ceiling of §1–§3 and the floor of Rule 5 become inapplicable at once. Andersen's answer is to stop seating and start bonding. After 15 min curing, every configuration exceeded 32 Ncm removal torque irrespective of cement gap (0.5–3 mm); the dominant predictors were implant **surface area and diameter**, not gap size; and failure occurred at the cement–implant interface, with the cement–bone interface holding.
+
+This extends the floor from the far side of where [[implants/norton-2017-low-insertion-torque-primary-stability]] left it. Norton showed IT ≤20 Ncm — including three spinners below 5 Ncm — still osseointegrates at 1 year, because secondary stability compensates for a weak mechanical seat. Andersen addresses the cases where there is no seat at all to be weak.
+
+The limits are large enough that the finding must not be carried to the chair. Sawbone is not jawbone; there is no healing period, no osseointegration endpoint, and no bone-remodeling response in the model. Removal torque after cement cure is a bench surrogate, and its "> 32 Ncm" is **not** interchangeable with the ~35 Ncm *insertion*-torque loading floor Rule 5 sets from Bavetta 2019 — one measures a cured adhesive joint's resistance to unscrewing, the other measures live bone resisting a seating implant. Read this as evidence that a third regime exists and has a candidate answer, not as a technique. [미검증 — in vitro, sawbone, n/a healing]
+
 ## Methodology
 
 Narrative conflict synthesis of 5 core papers + 1 later mechanistic addition (Coyac 2019) + 4 ISQ-correlation context papers (Tisci 2026, Lages 2018, Bavetta 2019, Cappare 2015) supporting §6's "IT is not an ISQ proxy" argument; no pooling (designs are not commensurable — two animal studies, one RCT with post-hoc exposure bins, one retrospective cohort, one prospective cohort, one SR+MA that already pools a subset of this literature). All numbers are quoted verbatim from the wiki pages listed in `source_wiki`. Four of the five core sources are abstract-only on their wiki pages (`full_text: false` for Lemos, Marconcini, Trisi; Faot and Aldahlawi carry full text), so several effect sizes — notably Marconcini's MBL magnitude and P values, and Trisi's per-timepoint statistics — are directional only and are reported as such rather than invented. **Coyac 2019 is abstract-only and reports no quantities whatsoever** (no n, torque, misfit magnitude, BIC, or p-values), so it is used strictly for direction and pathway and contributes no number to this page.
@@ -251,6 +260,7 @@ The held evidence does not support answers to any of the following, and this pag
 - [[implants/isq/baldi-2018-insertion-torque-isq-tapered-knife-edge]] — prospective (n=75 Anyridge): IT–ISQ correlation significant only at medium torque (ρ=0.481, p=0.036); both implant failures occurred in the high-torque group — corroborates the crestal-harm direction and confirms IT–ISQ decoupling at high torque
 - [[implants/norton-2017-low-insertion-torque-primary-stability]] — prospective (n=30, IT≤20 Ncm, 1-year): 100% survival; ISQ recovered 67→80 by loading; 3 spinners (<5 Ncm) all osseointegrated — the low-end anchor: low IT alone does not predict failure, secondary stability compensates; complements Rule 5 from the floor direction
 - [[implants/isq/rosasdiaz-2026-pitv-classification-repeatability-observational]] — cross-sectional (n=1250): PITV (Peak Insertion Torque Value) classification achieves near-perfect inter-rater reliability (κ=0.84) but only moderate predictive validity for stability outcomes (AUC=0.69) — quantifies the ceiling on clinical utility of torque classification systems; aligns with §6 (torque is a reading, not a proxy)
+- [[implants/andersen-2023-primary-stability-adhesive-cement-oversized]] — in vitro (sawbone, 5 Straumann TL/TLX configs, calcium-phosphate adhesive cement): all removal torques >32 Ncm after 15 min cure regardless of 0.5–3 mm cement gap; stability scaled with implant surface area and diameter, failure at the cement–implant interface — the no-torque-to-read regime of §7, extending Norton's floor to osteotomies with no mechanical seat at all
 
 ## Related Overviews
 
