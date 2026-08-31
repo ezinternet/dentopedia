@@ -27,6 +27,7 @@ source_papers:
   - wiki/implants/khaohoen-2023-biomaterials-dental-implants-bone-density-narrative-review.md
   - wiki/bone-biology/palominozorrilla-2024-jawbone-quality-classification-scoping.md
   - wiki/bone-biology/shemtovyona-2021-jawbone-quality-quantitative-meta-analysis.md
+  - wiki/bone-biology/baskay-2024-ai-histological-reconstruction-trabecular.md
 relations:
   - type: extends
     target: kindaro-2026-parathyroid-hormone-implant-osseointegration-osteoporosis-sr
@@ -62,7 +63,7 @@ relations:
 
 ## Three-line Summary
 
-Synthesis of 11 papers organizing bone quality as the risk axis: local density (Lekholm-Zarb I–IV / Misch D1–D4) sets primary stability and failure risk — type IV bone fails ~1.5–1.9× more (Rosa 2024 SR+MA, 49 studies, 29,905 implants) with ISQ 58–65 vs 72–80 for type I — and crestal cortical thickness, not cancellous volume depth, is the dominant stability driver (Chatvaratthana 2017, Di Stefano 2021).
+Synthesis of 23 papers organizing bone quality as the risk axis: local density (Lekholm-Zarb I–IV / Misch D1–D4) sets primary stability and failure risk — type IV bone fails ~1.5–1.9× more (Rosa 2024 SR+MA, 49 studies, 29,905 implants) with ISQ 58–65 vs 72–80 for type I — and crestal cortical thickness, not cancellous volume depth, is the dominant stability driver (Chatvaratthana 2017, Di Stefano 2021).
 
 The modification levers are stackable: under-drilling/osseodensification (OD), tapered macro-design, diameter over length, bioactive/hydrophilic surface (eliminates the stability dip in soft bone; Canullo 2024), and delayed loading — with drilling protocol mattering more than macro-design differences in D3/D4 (Stoilov 2023); systemic/pathologic bone (osteoporosis: healthy-comparable short-term but 82.6–94.1% at 5–10y; osteosclerosis: overheating risk) extends the same axis.
 
@@ -70,7 +71,7 @@ Clinical takeaway: "osteoporosis = high implant failure" is a misconception — 
 
 ## 세줄요약
 
-골질(Bone Quality)을 "위험 축"으로 묶은 11편 종합: 국소 골밀도(Lekholm-Zarb I–IV / Misch D1–D4)가 초기 안정성·실패 위험을 결정하고(type IV는 ~1.5–1.9배 실패, ISQ 58–65 vs type I 72–80; Rosa 2024 SR+MA, 55편·29,905개), 해면골 양이 아닌 **치조정 피질골 두께(Crestal Cortical Thickness)**가 안정성의 핵심이다.
+골질(Bone Quality)을 "위험 축"으로 묶은 23편 종합: 국소 골밀도(Lekholm-Zarb I–IV / Misch D1–D4)가 초기 안정성·실패 위험을 결정하고(type IV는 ~1.5–1.9배 실패, ISQ 58–65 vs type I 72–80; Rosa 2024 SR+MA, 55편·29,905개), 해면골 양이 아닌 **치조정 피질골 두께(Crestal Cortical Thickness)**가 안정성의 핵심이다.
 
 수정 레버는 중첩 가능: 언더드릴링/골밀도화 (Osseodensification, OD), 테이퍼 매크로디자인, 길이보다 직경, 생체활성·친수성 표면(D3/D4 안정성 dip 제거; Canullo 2024), 지연 부하 — 연질골일수록 매크로디자인 차이는 줄고 드릴링 프로토콜이 더 중요하며, 전신/병적 골(골다공증·골경화성 병변)은 같은 축의 장기·병변별 확장이다.
 
@@ -161,6 +162,7 @@ The reason this is *not* a clinical recommendation must be stated as plainly as 
 - No prospective data on implant outcomes *within* osteosclerotic lesions (case reports only).
 - HU→ISQ→loading-timing thresholds are not standardized across density systems (Misch vs Lekholm-Zarb vs CBCT HU).
 - **No human evidence for osteoanabolic pre-treatment.** Kindaro 2026 shows a consistent preclinical signal (intermittent PTH, pre-operative timing, local delivery, combination with vitamin D or raloxifene) but zero human studies. The missing study is a trial of pre-operative teriparatide in osteoporotic implant candidates with BIC/ISQ and long-term survival endpoints — currently unethical to assume, and unfunded to test.
+- **The classification validation gap now has a candidate method, not a validated one.** Palomino-Zorrilla (2024) records that no jawbone-quality classification has been tested for accuracy or reproducibility even though Lekholm-Zarb is used in 13/17 studies; Báskay (2024) supplies a plausible reference standard for such a test — AI-reconstructed 3D histology tracking microCT at BV/TV r=0.777 while also reporting tissue type — but on a single biopsy. The missing study is that method applied to a biopsy cohort with matched pre-operative CBCT and recorded stability outcomes, which is what would convert D1–D4 from a subjective tactile call into a measured one.
 - **Aging is a mechanism without a dental outcome dataset.** Issa 2026 documents matrix, immune, osteocyte, and progenitor aging in detail, yet notes that the aging effect on *alveolar* bone healing and osseointegration specifically is largely unstudied, and osteoporosis' effect on peri-implant bone is unresolved. Age-stratified implant cohorts reporting MBL and osseointegration timelines would convert this mechanism page into a risk table.
 
 ## Related overviews
@@ -173,7 +175,7 @@ The reason this is *not* a clinical recommendation must be stated as plainly as 
 
 ## Related Papers
 
-(see Evidence Map above for the 10 spine papers and their typed roles)
+(see Evidence Map above for the 11 spine papers and their typed roles)
 
 Supporting papers added 2026-06-10 (determinant evidence across the four modification levers):
 
@@ -195,6 +197,7 @@ Supporting papers added 2026-08-31 (classification methodology):
 
 - [[bone-biology/palominozorrilla-2024-jawbone-quality-classification-scoping]] — scoping review (17 studies): Lekholm-Zarb used in 13/17, yet no study has validated classification accuracy or reproducibility — names the validation gap this overview's clinical rules assume is filled.
 - [[bone-biology/shemtovyona-2021-jawbone-quality-quantitative-meta-analysis]] — SR+MA (30 studies, CBCT): combined means of ridge dimensions (RW, BW, PW) map to Lekholm-Zarb/Misch types — first quantitative validation that geometric CBCT parameters can classify bone type without subjective assessment; supports the cortical-thickness predictor thesis of this overview.
+- [[bone-biology/baskay-2024-ai-histological-reconstruction-trabecular]] — in-vitro methodology (1 sinus-augmentation re-entry biopsy): AI (U-Net segmentation + transformer-based section alignment) 3D histological reconstruction agrees with microCT across all five trabecular parameters (BV/TV r=0.777, BS/TV r=0.717, Tb.Pf r=0.705, Tb.Sp r=0.687, Tb.Th r=0.666), and uniquely returns tissue-type information alongside architecture — microCT returns architecture only. A candidate *ground truth* for the validation gap Palomino-Zorrilla names, applicable to re-entry biopsies from augmented sites; n=1 proof-of-concept, not a chairside bone-quality assessment. [미검증 — 방법론, n=1]
 
 ## Clinical Quiz
 <!-- quiz_spec -->
