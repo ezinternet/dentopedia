@@ -12,11 +12,15 @@ source_collection: external
 ## Why Ingested
 CBCT/CT 기반 치조골 기하학 측정값의 메타분석으로 정성적 골질 분류에 정량적 근거를 제공 — [[overviews/bone-quality-implant-risk-modification-overview]] 및 [[bone-biology/palominozorrilla-2024-jawbone-quality-classification-scoping]]의 "골질 분류 검증 부재" 문제에 대한 정량화 접근의 보완.
 
-## One-line Summary
-Meta-analysis (30 studies, primarily CBCT, random effects): combined mean alveolar ridge dimensions used to construct a quantitative geometry-based bone classification that matches existing qualitative (Lekholm-Zarb/Misch) types.
+## Three-line Summary
+Meta-analysis (30 CBCT/CT studies, random effects model, PRIAMA guidelines): quantifies alveolar ridge geometry (ridge width, buccal/palatal cortical thickness) by jaw, region, and dentate state to construct a geometry-based bone classification that numerically maps onto Lekholm-Zarb Types I–IV.
+Meta-regression confirmed significant variation across anatomical regions, jaw (maxilla vs mandible), and dentate vs edentulous state; quantitative thresholds from combined means enable objective bone-type prediction without subjective assessment; histomorphometry and HU density data were excluded.
+First step toward replacing subjective bone-type classification with measurable CBCT geometry — but validated only against existing qualitative systems, not against implant outcomes (IT, ISQ, survival), leaving the full clinical utility chain incomplete.
 
-## 한줄요약
-메타분석 (30편, CBCT 주, 랜덤효과): 치조골 기하학적 측정값 통합 평균으로 기존 정성적 분류(렉홀름-자르브/미쉬)와 일치하는 정량 기하학 기반 골질 분류 제안.
+## 세줄요약
+메타분석(30편, CBCT/CT 중심, 랜덤효과, PRIAMA): 치조골 기하학적 측정값(능선 폭, 협측·구개/설측 피질 두께)을 부위·악골·치아 유무별로 정량화, 렉홀름-자르브 I-IV형에 수치 매핑.
+해부 부위·악골·치아 유무에 따른 유의한 변동 확인(메타회귀); 통합 평균에서 정량 임계치 도출로 주관적 평가 없는 골 유형 예측 가능; 조직형태계측·HU 밀도는 미포함.
+CBCT 기하학 측정으로 주관적 분류를 대체하는 첫 단계이나, 기존 정성적 체계와만 대조하고 임상 결과(IT·ISQ·생존율) 검증 없어 임상 유용성 사슬이 미완.
 
 ## 1. Document Information
 - Journal: PLoS ONE, vol. 16, no. 6, e0253283, 2021

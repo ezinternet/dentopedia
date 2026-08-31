@@ -12,11 +12,15 @@ source_collection: external
 ## Why Ingested
 테이퍼형 칼날 나사산 임플란트(Anyridge)에서 삽입 토크(IT)와 임플란트 안정성 지수(ISQ)의 상관관계를 임상적으로 평가 — [[overviews/high-insertion-torque-primary-stability-crestal-bone-overview]] 및 [[implants/isq/rosasdiaz-2024-insertion-compression-primary-stability]]에서 다루는 "IT는 ISQ를 예측하지 못한다"는 핵심 명제를 임상 데이터로 보강.
 
-## One-line Summary
-Multicenter prospective study (n=75 Anyridge implants, 3 IT groups): IT-ISQ correlation significant only in medium torque group (30–50 Ncm, ρ=0.481); high torque group (>50 Ncm) showed no additional ISQ benefit and had 2 of 2 implant failures.
+## Three-line Summary
+Multicenter prospective study (n=75 Anyridge tapered knife-edge implants, 3 IT groups): IT–ISQ correlation is significant only in the moderate-torque group (30–50 Ncm, ρ=0.481) and absent at both low and high extremes.
+High-torque group (>50 Ncm, mean 68.2 Ncm) yielded no additional ISQ gain (78.0 vs 75.6 in the moderate group) and produced all 2 implant failures (IT 77–80 Ncm) and the majority of screw-loosening events.
+For tapered knife-edge designs, exceeding ~50 Ncm increases risk without stability benefit — supporting an implant-design-specific upper torque ceiling rather than a universal "more torque is better" rule.
 
-## 한줄요약
-다기관 전향 연구 (n=75, Anyridge): IT-ISQ 상관관계는 중간 토크군(30–50 Ncm)에서만 유의(ρ=0.481); 고토크군(>50 Ncm) ISQ 추가 이득 없고 임플란트 2개(전체 실패의 100%) 손실.
+## 세줄요약
+다기관 전향 연구 (n=75, Anyridge 테이퍼 칼날나사): IT–ISQ 상관관계는 중간 토크군(30–50 Ncm, ρ=0.481)에서만 유의, 저·고토크 극단에서는 소실.
+고토크군(>50 Ncm, 평균 68.2 Ncm)은 ISQ 추가 이득 없음(78.0 vs 중간군 75.6); 전체 임플란트 실패 2개(IT 77–80 Ncm) 전부 이 군; 나사 풀림도 고토크군에 집중.
+테이퍼 칼날나사 설계에서 ~50 Ncm 초과 토크는 안정성 이득 없이 위험만 증가 — 임플란트 설계별 토크 상한 개념 지지.
 
 ## 1. Document Information
 - Journal: BioMed Research International, Volume 2018, Article ID 7201093, 7 pages

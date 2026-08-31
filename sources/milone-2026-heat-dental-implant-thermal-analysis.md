@@ -12,11 +12,15 @@ source_collection: external
 ## Why Ingested
 임플란트 삽입(positioning) 중 발생하는 열을 적외선 열화상 카메라로 정량화한 in vitro 연구 — [[overviews/osteotomy-drilling-heat-determinants-irrigation-overview]] 및 [[overviews/dense-bone-osteotomy-heat-reimplantation-overview]]에서 드릴링 단계 이후 임플란트 삽입 단계의 열 거동을 보완하는 근거.
 
-## One-line Summary
-In vitro thermal analysis (n=24 implants, FLIR infrared camera): highest temperature rises occurred during manual screwing without saline in undersized preparations; lubrication significantly reduced surface temperature during implant positioning.
+## Three-line Summary
+In vitro thermal imaging study (n=24 titanium implants, FLIR A40 infrared camera, D3-equivalent resin) isolates the implant placement (screwing) phase — not drilling — as an independent source of heat generation.
+Highest temperatures occurred with manual screwing, no saline lubrication, and undersized osteotomy; saline irrigation significantly reduced surface temperatures; water accumulation degraded thermographic measurement accuracy.
+Complements drilling-phase heat literature by establishing that placement mechanics independently risk exceeding the 47°C/1-min osteonecrosis threshold, and argues for individualized protocol design (lubrication, micromotor vs manual, preparation size).
 
-## 한줄요약
-In vitro 열화상 분석 (n=24): 생리식염수 없는 수동 삽입+언더사이즈 준비에서 최고 온도 상승; 윤활제 추가가 표면 온도를 유의하게 낮춤.
+## 세줄요약
+In vitro 열화상 연구(n=24, FLIR A40, D3 유사 레진): 드릴링이 아닌 임플란트 삽입(나사 조임) 단계를 독립적인 발열원으로 정량화.
+수동 삽입 + 생리식염수 없음 + 언더사이즈 준비 조합에서 최고 온도 상승; 생리식염수 윤활이 표면 온도를 유의하게 낮춤; 수분 축적이 열화상 정확도를 저하.
+드릴링 단계 연구의 공백을 채우며, 삽입 역학이 독립적으로 47°C/1분 골괴사 임계치를 위협할 수 있음을 확립 — 개인화 프로토콜(윤활, 모터 vs 수동, 준비 크기) 설계 필요성 제시.
 
 ## 1. Document Information
 - Journal: BioMed Research International, 2026; 2026:7910355

@@ -12,11 +12,15 @@ source_collection: external
 ## Why Ingested
 골 질 분류 체계의 다양성과 타당도 부재를 체계적으로 문서화한 범위 고찰 — [[bone-biology/bone-biology]] 및 [[overviews/bone-quality-implant-risk-modification-overview]]에서 다루는 임플란트 전 골질 평가 방법론의 현황과 한계를 명확히 정리.
 
-## One-line Summary
-Scoping review (442 titles → 17 relevant studies): Lekholm & Zarb classification dominates (13/17 studies); no study validated diagnostic accuracy or reproducibility of its classification — a critical evidence gap.
+## Three-line Summary
+Scoping review (442 titles screened, 17 included): Lekholm & Zarb classification dominates implant planning literature (13/17 studies), but no study has validated the diagnostic accuracy or reproducibility of any bone quality classification system.
+Observer performance was assessed in only 5/17 studies; diagnostic accuracy in only 3/17; assessment methods were "often briefly described or not described at all" — a systematic methodological weakness across the field.
+Documents a foundational evidence gap: no classification integrates CBCT-derived parameters, intraoperative torque, RFA, and validated reproducibility — the gap that companion papers (Shemtov-Yona 2021, Rosas-Díaz 2026) begin to address from different angles.
 
-## 한줄요약
-범위 고찰 (442편 → 17편): 렉홀름-자르브(Lekholm & Zarb) 분류가 지배적(13/17); 그러나 단 한 편도 분류 체계의 진단 정확도나 재현성을 검증하지 않음 — 핵심 근거 공백.
+## 세줄요약
+범위 고찰(442편 선별 → 17편): 렉홀름-자르브가 임플란트 계획 문헌에서 지배적(17편 중 13편)이나, 어떤 분류 체계도 진단 정확도 또는 재현성을 검증한 연구 없음.
+관찰자 수행도 보고 5/17, 진단 정확도 보고 3/17; 평가 방법은 "종종 간략하거나 미기술" — 분야 전반의 체계적 방법론 결함.
+핵심 근거 공백 확인: CBCT 파라미터·술중 토크·RFA·재현성을 통합한 검증된 분류 체계 부재 — Shemtov-Yona 2021, Rosas-Díaz 2026이 각각 일부를 채우기 시작.
 
 ## 1. Document Information
 - Journal: Journal of International Society of Preventive and Community Dentistry, vol. 14, no. 2, pp. 89-97, 2024

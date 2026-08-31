@@ -12,11 +12,15 @@ source_collection: external
 ## Why Ingested
 FEA + in-vitro 연구로 임플란트 직경과 테이퍼 설계가 삽입 중 삽입 토크 (Insertion Torque, IT)와 골 응력 분포에 미치는 영향을 정량화함 — [[implants/isq/baldi-2018-insertion-torque-isq-tapered-knife-edge]] 및 [[overviews/high-insertion-torque-primary-stability-crestal-bone-overview]]에서 다루는 "테이퍼가 IT를 높이는 기전"의 기계적 설명을 제공.
 
-## One-line Summary
-In vitro FEA + experiment study: tapered body design dominates normalized IT (β₂=0.93) while implant diameter dominates raw IT (β₁=0.78), and tapered design distributes compressive stress further from the thread compared to parallel-walled implants.
+## Three-line Summary
+In vitro insertion experiment + explicit FEA (4 Nobel Biocare implants: parallel-walled P1/P2 and tapered T1/T2, Ø3.5 and 4.3 mm, rigid PU foam): tapered body design dominates normalized IT (β₂=0.93, p<0.001), while implant diameter dominates raw IT (β₁=0.78, p<0.001).
+Tapered body also dominates effective contact pressure (β₂=0.97) and produces a compressive stress zone extending further from the thread than parallel-walled designs; FEA was validated against 2D-DIC surface strain measurements; all regression models R²≥0.77.
+Provides a biomechanical explanation for why tapered implants produce higher IT — the taper creates radial interference that extends the stress field — mechanistically linking implant macrogeometry to the IT-driven primary stability and bone-stress trade-offs described in clinical literature.
 
-## 한줄요약
-PU 폼 삽입 실험 + FEA: 테이퍼 바디 설계가 정규화 삽입 토크를 주로 결정(β₂=0.93)하며, 병렬 벽 대비 나사산에서 더 멀리 압축 응력을 분산시킴.
+## 세줄요약
+In vitro 삽입 실험 + 3D 명시적 FEA(Nobel Biocare 병렬벽 2종·테이퍼 2종, Ø3.5·4.3mm, PU 폼): 정규화 삽입 토크는 테이퍼 설계가 지배(β₂=0.93), 원시 삽입 토크는 직경이 더 크게 기여(β₁=0.78).
+테이퍼가 유효 접촉압도 지배(β₂=0.97); 테이퍼 임플란트는 병렬벽 대비 나사산에서 더 멀리 압축 응력을 분산; FEA는 2D-DIC로 검증, 전 회귀모델 R²≥0.77.
+테이퍼 임플란트가 높은 IT를 내는 임상 관찰에 기계적 설명 제공 — 방사형 간섭이 응력장을 확대한다는 기전으로, 임상 문헌의 IT-1차 안정성-골 응력 상충관계와 거시형태를 연결.
 
 ## 1. Document Information
 - Journal: Medical Engineering and Physics, vol. 129, article 104181, 2024

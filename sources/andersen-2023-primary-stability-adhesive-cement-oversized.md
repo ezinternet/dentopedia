@@ -12,11 +12,15 @@ source_collection: external
 ## Why Ingested
 칼슘 인산염 접착 시멘트로 과삭제 골창에서 임플란트 1차 안정성을 달성하는 혁신적 접근 — [[overviews/implant-primary-stability-arp-macrogeometry-low-density-overview]]에서 다루는 저밀도/불량 골 상황에서의 1차 안정성 확보 전략 확장.
 
-## One-line Summary
-In vitro study: calcium phosphate adhesive cement achieves primary implant stability in oversized osteotomies (all removal torques >32 Ncm); stability scales with implant surface area and diameter, not cement gap size (0.5–3 mm).
+## Three-line Summary
+In vitro proof-of-concept: calcium phosphate adhesive cement restores primary implant stability in oversized osteotomies (cement gap 0.5–3 mm), achieving removal torques >32 Ncm in all configurations — the immediate loading threshold.
+Stability scales with implant surface area and diameter (66.5–170.1 mm²), not cement gap size; trisodium citrate extends working time without reducing final strength; failure mode is adhesive at the cement-implant interface.
+Pre-clinical only (sawbone, no in vivo data), but establishes a route to primary stability in poor-fit beds without press-fit — directly relevant to oversized or post-augmentation osteotomies.
 
-## 한줄요약
-In vitro: 칼슘 인산염 접착 시멘트로 과삭제 골창에서 모든 제거 토크 >32 Ncm 달성; 안정성은 임플란트 표면적·직경에 비례하며 시멘트 간격(0.5–3mm)과는 무관.
+## 세줄요약
+In vitro: 칼슘 인산염 접착 시멘트가 과삭제 골창(0.5–3 mm 간격) 전 구성에서 제거 토크 >32 Ncm(즉시 부하 기준치) 달성.
+안정성은 임플란트 표면적·직경(66.5–170.1 mm²)에 비례하며 시멘트 간격과 무관; 구연산삼나트륨이 작업 시간 연장(p≤0.01), 최종 강도 불변; 파절은 시멘트-임플란트 계면(접착 파절).
+전임상 단계이나, 압박 끼워맞춤 없이 저밀도 또는 이식 후 골창에서 1차 안정성을 확보하는 대안 경로 제시.
 
 ## 1. Document Information
 - Journal: Clinical Oral Investigations, vol. 27, pp. 3741–3748, 2023

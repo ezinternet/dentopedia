@@ -12,11 +12,15 @@ source_collection: external
 ## Why Ingested
 점진적 삽입 토크값 (Progressive Insertion Torque Value, PITV)에 기반한 새로운 1차 안정성 분류 체계의 반복도·재현성을 검증 — [[implants/isq/rosasdiaz-2024-insertion-compression-primary-stability]] 및 [[overviews/high-insertion-torque-primary-stability-crestal-bone-overview]]에서 다루는 IT 분류 및 적재 프로토콜 결정에 임상적 도구를 추가.
 
-## One-line Summary
-Analytical observational study (n=1,250 torque-curve interpretations, 25 dentists): PITV-based primary stability classification showed near-perfect intra- and inter-examiner agreement (k=0.82–0.95), with moderate predictive discrimination (AUC=0.69).
+## Three-line Summary
+Analytical observational study validating a new PITV (Progressive Insertion Torque Value)-based 3-type primary stability classification (High ≥50 Ncm / Moderate 30–<50 Ncm / Low <30 Ncm with curve-trajectory subtypes) across 1,250 torque interpretations by 25 calibrated dentists.
+Reliability was almost-perfect (intraexaminer κ=0.82–0.95; interexaminer κ=0.81–0.89; overall κ=0.84, p<0.001) but predictive discrimination was only moderate (AUC=0.69, 95% CI 0.56–0.81); clinical outcome linkage (ISQ, bone loss, survival) not yet validated.
+Provides a reproducible, standardized framework for reading the torque curve as a clinical decision input for loading protocols — but AUC=0.69 marks it as supportive rather than definitive until outcome validation follows.
 
-## 한줄요약
-관찰 연구 (n=1250 토크 곡선, 치과의사 25명): PITV 기반 1차 안정성 분류 체계가 우수한 검사자 내·간 일치도(k=0.82–0.95) 및 보통 수준 예측 변별도(AUC=0.69) 달성.
+## 세줄요약
+관찰 연구: PITV 기반 3유형 1차 안정성 분류(고≥50·중30–<50·저<30 Ncm, 토크곡선 세부유형 포함)를 25명 치과의사 1,250건 해석으로 검증.
+신뢰도 거의 완벽(검사자 내 κ=0.82–0.95; 검사자 간 κ=0.81–0.89; 전체 κ=0.84, p<0.001); 예측 변별도는 보통(AUC=0.69, 95%CI 0.56–0.81); ISQ·변연골·생존율 연계 검증 미시행.
+토크 곡선을 부하 프로토콜 결정의 표준화 임상 입력으로 읽는 재현 가능한 틀 제시 — AUC=0.69는 결과 검증 전까지 보조적 도구로 위치.
 
 ## 1. Document Information
 - Journal: Journal of Clinical and Experimental Dentistry, vol. 18, no. 1, pp. e85-97, 2026

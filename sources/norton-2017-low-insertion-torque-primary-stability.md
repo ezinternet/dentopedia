@@ -12,11 +12,15 @@ source_collection: external
 ## Why Ingested
 저삽입 토크(≤20 Ncm) 임플란트의 생존율·변연골 소실을 전향적으로 추적 — [[overviews/high-insertion-torque-primary-stability-crestal-bone-overview]] 핵심 명제("저토크도 성공적으로 골융합된다")를 임상 데이터로 직접 뒷받침하며, "스피너"(<5 Ncm) 3개가 전원 골융합되었다는 사례 포함.
 
-## One-line Summary
-Prospective closed-cohort study (n=30 implants, IT ≤20 Ncm, 1-year): 96.7% survival (100% for 29 followed), mean ISQ rose from 67 to 80 over 3 months; low IT alone does not preclude osseointegration.
+## Three-line Summary
+Prospective closed-cohort study (n=30 implants, all IT ≤20 Ncm including 3 "spinners" at <5 Ncm, 1-year follow-up): 96.7% overall survival with 100% osseointegration among followed implants — directly demonstrating that very low IT alone does not predict failure.
+Mean ISQ rose from 67.2 at surgery to 80.0 at 3-month loading regardless of initial IT; no IT–ISQ correlation found (Spearman, NS); 71% showed no marginal bone loss; ISQ ≥55 immediate temporization was safe.
+Argues that ISQ (axial stiffness) is a more informative stability metric than IT (rotational friction) in low-torque scenarios, challenging the clinical dogma that high IT is a prerequisite for osseointegration.
 
-## 한줄요약
-전향 코호트 (n=30, IT≤20 Ncm, 1년): 생존율 96.7% (29개 추적 완료군 100%); 평균 ISQ 67→80 (3개월); "스피너"(<5 Ncm) 3개 모두 골융합 — 저토크 단독으로 실패를 예측하지 못함.
+## 세줄요약
+전향 코호트(n=30, 전원 IT≤20 Ncm, "스피너"<5 Ncm 3개 포함, 1년): 96.7% 생존율, 추적 완료 임플란트 100% 골융합 — 저삽입 토크 단독으로 실패를 예측하지 못함 직접 증명.
+평균 ISQ: 수술 시 67.2 → 부하 시(3개월) 80.0, IT와 무관하게 상승; IT–ISQ 무상관(Spearman, NS); 71% 변연골 소실 없음; ISQ≥55 즉시 임시수복 안전.
+저토크 상황에서 회전마찰(IT)보다 축방향 강성(ISQ)이 더 유용한 안정성 지표라는 논거 제공 — "고토크 = 골융합 전제" 도그마에 직접 도전.
 
 ## 1. Document Information
 - Journal: International Journal of Oral & Maxillofacial Implants, vol. 32, no. 4, pp. 849-857, 2017
