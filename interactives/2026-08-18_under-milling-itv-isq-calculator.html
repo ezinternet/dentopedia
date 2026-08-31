@@ -287,16 +287,17 @@ let current = null;
 function selectProto(proto) {
   current = proto;
   ['02','05','08'].forEach(id => {
-    document.getElementById('btn0'+id[1]).classList.remove('on');
-    document.getElementById('col0'+id[1]).classList.remove('active');
+    document.getElementById('btn0' + id[1]).classList.remove('on');
+    const col = document.getElementById('col0' + id[1]);
+    col.classList.remove('active');
+    col.querySelector('.bar-pair').classList.remove('bar-active');
   });
-  document.getElementById('btn0'+proto.replace('0.','').replace('.','')[1] || proto.replace('.','')[1]).classList.add('on');
 
-  const btnId = 'btn0' + proto.split('.')[1];
-  document.getElementById(btnId).classList.add('on');
-
-  const colId = 'col0' + proto.split('.')[1];
-  document.getElementById(colId).classList.add('active');
+  const digit = proto.split('.')[1];
+  document.getElementById('btn0' + digit).classList.add('on');
+  const col = document.getElementById('col0' + digit);
+  col.classList.add('active');
+  col.querySelector('.bar-pair').classList.add('bar-active');
 
   const d = DATA[proto];
   const m = MSG[proto];
@@ -307,7 +308,7 @@ function selectProto(proto) {
   document.getElementById('isqVal').textContent = d.isq;
   document.getElementById('isqSd').textContent = d.isqSd;
 
-  // Bars
+  // Metric bars
   document.getElementById('itvBar').style.width = d.itvPct + '%';
   document.getElementById('isqBar').style.width = (d.isq / 100 * 100) + '%';
 
