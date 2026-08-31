@@ -17,6 +17,13 @@ Rules enforced (see CLAUDE.md § OPERATIONS — Routing & Cross-link Rules):
      knowledge ↔ operations chain.
   5. For slides/, interactives/, peer-review/: `agenda:` is REQUIRED
      (hard rule: outputs must trace back to an agenda spec).
+  6. interactives/*.html: NO dark-mode CSS (OPERATIONS.md §7 "라이트 고정").
+     `@media (prefers-color-scheme: dark)` and `[data-theme="dark"]` are the
+     two constructs that actually render a clinical tool dark; the rule names
+     exactly these two. Unlike checks 1-5 this one also runs on EXEMPT_FILES
+     (the auto-generated dashboards) — a generator that starts emitting dark
+     CSS is just as dark on the operatory screen, and the fix (patch the
+     generator) is equally actionable.
 
 Usage:
     python3 scripts/operations-lint.py            # full run
@@ -49,6 +56,43 @@ VALID_STATUS = {"draft", "in-progress", "review", "done", "archived"}
 # Track files we can actually parse — agenda/_template.md is one of these
 # but exempt; everything else under OPERATIONS_DIRS is checked.
 TARGET_EXTS = {".md", ".html"}
+
+# ── OPERATIONS.md §7 — 라이트 고정 (임상 인터랙티브는 OS 다크 모드도 무시) ──────
+#
+# 왜 감사가 필요한가: 이 규칙은 2026-08-13부터 네 차례 지적됐고 OPERATIONS.md에
+# hard rule로 박혀 있는데도 2026-08-31 `2026-08-31_it-stability-clinical-tool.html`이
+# 미디어쿼리 다크 + [data-theme="dark"] + 토글 버튼을 다 갖고 태어났다. 당시 감사
+# 22개 중 어느 것도 이걸 보지 않았다 — operations-lint는 frontmatter만,
+# interactive-staleness는 source_wiki 날짜만 봤다. 즉 규칙이 문서에만 있고 기계
+# 판독 고리가 없어서, 오직 작성자의 자각으로만 지켜지는 상태였다.
+#
+# 왜 signal이 아니라 error인가: 위키의 기본값은 signal-not-gate지만 그 원칙은
+# **판단이 개입하는 감사**(인제스트 압력·종합 백로그)를 겨눈 것이다. 이건 리터럴
+# CSS 토큰 두 개의 결정론적 존재 검사라 오탐이 원리상 없고, 고치는 데 판단이
+# 필요 없으며, OPERATIONS.md §7 자체가 "위반 시 즉시 해당 블록 제거"로 적혀 있다.
+# lint.py(YAML 구조)·operations-lint(frontmatter 구조)와 같은 부류다.
+# 도입 시점 실측 87개 중 위반 0 — block으로 둬도 오늘 아무것도 막지 않는다.
+LIGHT_ONLY_DIRS = {"interactives"}
+DARK_CSS_PATTERNS = [
+    (re.compile(r"prefers-color-scheme\s*:\s*dark"), "@media (prefers-color-scheme: dark)"),
+    (re.compile(r"""\[data-theme\s*=\s*["']dark["']\]"""), '[data-theme="dark"]'),
+]
+
+
+def check_light_only(path: str, content: str) -> list[str]:
+    """OPERATIONS.md §7 — 임상 인터랙티브에 다크 렌더 경로가 있으면 error."""
+    errors: list[str] = []
+    lines = content.splitlines()
+    for rx, label in DARK_CSS_PATTERNS:
+        hits = [i for i, line in enumerate(lines, 1) if rx.search(line)]
+        if hits:
+            where = ", ".join(f"L{n}" for n in hits[:5])
+            more = f" (+{len(hits) - 5})" if len(hits) > 5 else ""
+            errors.append(
+                f"DARK CSS {label} at {where}{more} "
+                f"— OPERATIONS.md §7 라이트 고정 위반, 해당 블록 제거: {path}"
+            )
+    return errors
 
 
 def parse_frontmatter(content: str) -> dict | None:
@@ -169,6 +213,10 @@ def lint_file(path: str, folder: str) -> list[str]:
             f"MISSING agenda (required for {folder}/): {path}"
         )
 
+    # 6. hard rule — interactives must render light (OPERATIONS.md §7)
+    if folder in LIGHT_ONLY_DIRS and path.endswith(".html"):
+        errors.extend(check_light_only(path, content))
+
     return errors
 
 
@@ -188,12 +236,23 @@ def main():
             continue
         for root, _dirs, files in os.walk(folder):
             for fn in sorted(files):
-                if fn in EXEMPT_FILES:
-                    continue
                 ext = os.path.splitext(fn)[1]
                 if ext not in TARGET_EXTS:
                     continue
                 path = os.path.join(root, fn)
+                if fn in EXEMPT_FILES:
+                    # 자동 생성 대시보드 등 — frontmatter 검사는 면제하되
+                    # §7(라이트 고정)은 면제하지 않는다. 생성기가 다크 CSS를
+                    # 뱉기 시작하면 진료실 화면에서는 똑같이 다크다.
+                    if folder in LIGHT_ONLY_DIRS and ext == ".html":
+                        try:
+                            with open(path, encoding="utf-8") as f:
+                                gen_errors = check_light_only(path, f.read())
+                        except (OSError, UnicodeDecodeError) as e:
+                            gen_errors = [f"READ ERROR ({e}): {path}"]
+                        if gen_errors:
+                            all_errors.extend(gen_errors)
+                    continue
                 checked_count += 1
                 errors = lint_file(path, folder)
                 if errors:
