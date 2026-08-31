@@ -4,7 +4,7 @@ authors: synthesized
 year: 2026
 date: 2026-08-29
 doi: null
-source: navigation
+source: synthesis
 category: overviews
 evidence_level: synthesis
 pdf_path: null
