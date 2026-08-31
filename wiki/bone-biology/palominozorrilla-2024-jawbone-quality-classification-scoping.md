@@ -16,11 +16,15 @@ relations:
     target: shemtovyona-2021-jawbone-quality-quantitative-meta-analysis
 ---
 
-## One-line Summary
-Scoping review (17 relevant studies from 442 titles): Lekholm & Zarb classification dominates implant planning literature (13/17 studies) but no study validated the diagnostic accuracy or reproducibility of their classification system.
+## Three-line Summary
+Scoping review (442 titles screened, 17 included): Lekholm & Zarb classification dominates implant planning literature (13/17 studies), but no study has validated the diagnostic accuracy or reproducibility of any bone quality classification system.
+Observer performance was assessed in only 5/17 studies; diagnostic accuracy in only 3/17; assessment methods were "often briefly described or not described at all" — a systematic methodological weakness across the field.
+Documents a foundational evidence gap: no classification integrates CBCT-derived parameters, intraoperative torque, RFA, and validated reproducibility — the gap that companion papers (Shemtov-Yona 2021, Rosas-Díaz 2026) begin to address from different angles.
 
-## 한줄요약
-범위 고찰 (17편/442편): 렉홀름-자르브 분류 지배적(13/17)이나 단 한 편도 분류 체계의 진단 정확도·재현성을 검증하지 않음.
+## 세줄요약
+범위 고찰(442편 선별 → 17편): 렉홀름-자르브가 임플란트 계획 문헌에서 지배적(17편 중 13편)이나, 어떤 분류 체계도 진단 정확도 또는 재현성을 검증한 연구 없음.
+관찰자 수행도 보고 5/17, 진단 정확도 보고 3/17; 평가 방법은 "종종 간략하거나 미기술" — 분야 전반의 체계적 방법론 결함.
+핵심 근거 공백 확인: CBCT 파라미터·술중 토크·RFA·재현성을 통합한 검증된 분류 체계 부재 — Shemtov-Yona 2021, Rosas-Díaz 2026이 각각 일부를 채우기 시작.
 
 ## Summary
 This scoping review by Palomino-Zorrilla et al. (same Peruvian research group as Rosas-Díaz et al.) systematically examined how bone quality is classified and assessed in dental implant planning and placement studies. From 442 titles searched in PubMed/Scopus/Web of Science, 17 articles met inclusion criteria. The Lekholm & Zarb classification was used in 13 of 17 studies, making it the dominant system, though 4 studies proposed modifications. Other systems (Misch, UCLA, Trisi & Rao) were used in 4 studies. The critical finding: assessment methods were frequently underdescribed, observer performance was evaluated in only 5/17 studies, diagnostic accuracy in only 3/17, and no study validated the reproducibility of the classification system used. The authors conclude that a new classification system integrating tissue characteristics, standardized assessment methods, diagnostic accuracy, and observer performance is needed.

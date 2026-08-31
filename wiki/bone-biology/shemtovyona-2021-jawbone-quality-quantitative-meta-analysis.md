@@ -16,11 +16,15 @@ relations:
     target: palominozorrilla-2024-jawbone-quality-classification-scoping
 ---
 
-## One-line Summary
-Meta-analysis (30 studies, CBCT): combined means of alveolar ridge geometric dimensions (RW, BW, PW) used to construct a quantitative bone classification that validates and quantifies existing qualitative types (Lekholm-Zarb, Misch).
+## Three-line Summary
+Meta-analysis (30 CBCT/CT studies, random effects model, PRIAMA guidelines): quantifies alveolar ridge geometry (ridge width, buccal/palatal cortical thickness) by jaw, region, and dentate state to construct a geometry-based bone classification that numerically maps onto Lekholm-Zarb Types I–IV.
+Meta-regression confirmed significant variation across anatomical regions, jaw (maxilla vs mandible), and dentate vs edentulous state; quantitative thresholds from combined means enable objective bone-type prediction without subjective assessment; histomorphometry and HU density data were excluded.
+First step toward replacing subjective bone-type classification with measurable CBCT geometry — but validated only against existing qualitative systems, not against implant outcomes (IT, ISQ, survival), leaving the full clinical utility chain incomplete.
 
-## 한줄요약
-메타분석 (30편, CBCT): 치조골 기하학 측정값(RW·BW·PW) 통합 평균으로 기존 정성적 분류(렉홀름-자르브·미쉬)를 정량화·검증하는 골질 분류 제안.
+## 세줄요약
+메타분석(30편, CBCT/CT 중심, 랜덤효과, PRIAMA): 치조골 기하학적 측정값(능선 폭, 협측·구개/설측 피질 두께)을 부위·악골·치아 유무별로 정량화, 렉홀름-자르브 I-IV형에 수치 매핑.
+해부 부위·악골·치아 유무에 따른 유의한 변동 확인(메타회귀); 통합 평균에서 정량 임계치 도출로 주관적 평가 없는 골 유형 예측 가능; 조직형태계측·HU 밀도는 미포함.
+CBCT 기하학 측정으로 주관적 분류를 대체하는 첫 단계이나, 기존 정성적 체계와만 대조하고 임상 결과(IT·ISQ·생존율) 검증 없어 임상 유용성 사슬이 미완.
 
 ## Summary
 Shemtov-Yona conducted a meta-analysis of 30 clinical/radiographic studies (primarily live human subjects + CBCT) that measured alveolar ridge dimensions across different jaw regions and dentate/edentulous states. Using random effects models under PRIAMA guidelines, the study derived combined means for ridge width (RW), buccal cortical width (BW), and palatal/lingual width (PW/LW) per jaw, region (anterior/premolar/posterior), and dentition status. These quantitative measurements were used to construct a geometry-based bone classification that was found to match existing qualitative classifications (Lekholm-Zarb, Misch). Meta-regression confirmed systematic differences by anatomical region and dentition state. This work bridges the gap between subjective clinical assessment and quantitative radiographic measurement of bone quality, addressing the lack of validated quantitative classification identified by Palomino-Zorrilla 2024.
