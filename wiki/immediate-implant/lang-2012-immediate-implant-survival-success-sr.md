@@ -11,11 +11,16 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/lang-2012-immediate-implant-survival-
 pdf_filename: lang-2012-immediate-implant-survival-success-sr.pdf
 source_collection: external
 superseded_by: gallucci-2026-current-state-of-evidence-for
+superseded_scope: partial
 tags: [immediate-implant, survival-rate, success-rate, marginal-bone-loss, antibiotics, systematic-review]
 relations:
   - type: extends
     target: esposito-2010-fresh-extraction-sockets-immediate-cochrane
 ---
+
+> [!note] Partially superseded → [[implants/gallucci-2026-current-state-of-evidence-for]]
+> **생존율 축만 대체된다.** Gallucci 2026(동일 PROSPERO 등록 CRD42017062420의 갱신판, 140편·임플란트 10,456개, 2024-01까지 검색, RoB2/Newcastle-Ottawa 비뚤림 평가)이 이 페이지의 즉시식립(Type 1) 생존율 추정을 더 큰 규모·정식 질평가·부하 프로토콜별 층화로 재산출한다 — 이 페이지의 단일 통합값(2년 생존 98.4%, 46편, 2010-07까지 검색, 질평가 없음)이 Type 1A 98.0% / 1B 91.6% / 1C 95.0%로 분해된다. 특히 **1B(즉시식립+조기부하) 91.6%는 이 페이지의 통합값이 가리고 있던 구간**이다. 즉시식립 생존율 수치는 gallucci-2026을 우선 인용할 것.
+> **이 페이지가 계속 유일한 근거인 것**: ① 수술 후 항생제 투여가 실패율을 유의하게 낮춘 요인 분석 — Gallucci 2026은 항생제를 일절 다루지 않는다(본문 언급 0회). ② "생존율은 높으나 진정한 성공률(생물학적·기술적·심미적 합병증)은 보고 부족·이질성으로 정량 불가"라는 방법론적 지적. ③ 범위 — 이 페이지는 Type I 즉시식립 전반이고, Gallucci 2026은 부분무치악 고정성보철(IFDP)로 한정된다. (set 2026-08-31)
 
 ## Three-line Summary
 
