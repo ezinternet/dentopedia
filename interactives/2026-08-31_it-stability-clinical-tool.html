@@ -1,0 +1,563 @@
+<!--
+---
+title: "삽입토크 & 안정성 임상 해석기"
+type: interactive
+date: 2026-08-31
+source_papers:
+  - norton-2017-low-insertion-torque-primary-stability
+  - baldi-2018-insertion-torque-isq-tapered-knife-edge
+  - milone-2026-heat-dental-implant-thermal-analysis
+  - palominozorrilla-2024-jawbone-quality-classification-scoping
+  - shemtovyona-2021-jawbone-quality-quantitative-meta-analysis
+description: "IT 값 입력 → 임상 해석·ISQ 궤적 / 식립 발열 위험 평가 / 골질 분류 참조"
+---
+-->
+<title>IT 안정성 임상 해석기</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&family=JetBrains+Mono:wght@400;500&display=swap">
+
+<style>
+:root {
+  --bg:       #EFF3F8;
+  --surface:  #FFFFFF;
+  --border:   #C9D5E2;
+  --text:     #1A2B3C;
+  --muted:    #5E7388;
+  --accent:   #1057A0;
+  --accent-bg:#DAEAF8;
+  --success:  #0D7A52;
+  --ok-bg:    #D5F0E6;
+  --warn:     #A84F00;
+  --warn-bg:  #FDEBD2;
+  --danger:   #B01518;
+  --danger-bg:#FCE8E8;
+  --sans: 'Noto Sans KR', sans-serif;
+  --mono: 'JetBrains Mono', monospace;
+  --r: 10px;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg:       #0E1A27;
+    --surface:  #152030;
+    --border:   #1E3048;
+    --text:     #D4E5F2;
+    --muted:    #7890A5;
+    --accent:   #48A8E0;
+    --accent-bg:#09243E;
+    --success:  #20C9A0;
+    --ok-bg:    #082820;
+    --warn:     #F59533;
+    --warn-bg:  #291500;
+    --danger:   #FF6060;
+    --danger-bg:#2A0808;
+  }
+}
+:root[data-theme="dark"] {
+  --bg:       #0E1A27;
+  --surface:  #152030;
+  --border:   #1E3048;
+  --text:     #D4E5F2;
+  --muted:    #7890A5;
+  --accent:   #48A8E0;
+  --accent-bg:#09243E;
+  --success:  #20C9A0;
+  --ok-bg:    #082820;
+  --warn:     #F59533;
+  --warn-bg:  #291500;
+  --danger:   #FF6060;
+  --danger-bg:#2A0808;
+}
+*{box-sizing:border-box;margin:0;padding:0;}
+body{
+  font-family:var(--sans);
+  background:var(--bg);
+  color:var(--text);
+  font-size:15px;
+  line-height:1.65;
+  padding:32px 16px 72px;
+}
+.wrap{max-width:820px;margin:0 auto;}
+
+/* header */
+.pg-header{margin-bottom:36px;}
+.eyebrow{font-size:11px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin-bottom:10px;}
+.pg-header h1{font-size:24px;font-weight:700;letter-spacing:-.02em;text-wrap:balance;line-height:1.3;}
+.pg-header p{color:var(--muted);font-size:13px;margin-top:6px;}
+
+/* card */
+.card{background:var(--surface);border:1px solid var(--border);border-radius:var(--r);padding:28px;margin-bottom:20px;}
+.sec-eye{font-size:11px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-bottom:12px;}
+.sec-h{font-size:19px;font-weight:700;letter-spacing:-.01em;margin-bottom:4px;}
+.sec-sub{font-size:13px;color:var(--muted);margin-bottom:20px;}
+
+/* slider */
+.slider-row{display:flex;align-items:center;gap:16px;margin:4px 0 14px;}
+input[type=range]{flex:1;height:6px;accent-color:var(--accent);cursor:pointer;}
+.it-num{font-family:var(--mono);font-size:30px;font-weight:500;color:var(--accent);min-width:100px;text-align:right;line-height:1;}
+.it-unit{font-size:14px;color:var(--muted);font-weight:400;}
+
+/* zone bar */
+.zone-wrap{margin-bottom:18px;}
+.zone-bar{height:9px;border-radius:5px;position:relative;background:linear-gradient(to right,
+  #B01518 0%,#B01518 5%,
+  #A84F00 5%,#A84F00 20%,
+  #1057A0 20%,#1057A0 45%,
+  #A84F00 45%,#A84F00 65%,
+  #B01518 65%,#B01518 100%);margin-bottom:6px;}
+.zone-pip{position:absolute;top:-5px;width:18px;height:18px;border-radius:50%;
+  background:var(--text);border:3px solid var(--surface);transform:translateX(-50%);
+  transition:left .12s ease;pointer-events:none;}
+.zone-ticks{display:flex;justify-content:space-between;font-size:10px;color:var(--muted);font-family:var(--mono);}
+
+/* interp box */
+.ibox{border-radius:var(--r);padding:16px 18px;border-left:4px solid var(--accent);margin:10px 0;}
+.ibox.ok {background:var(--ok-bg);border-color:var(--success);}
+.ibox.mid{background:var(--accent-bg);border-color:var(--accent);}
+.ibox.warn{background:var(--warn-bg);border-color:var(--warn);}
+.ibox.bad {background:var(--danger-bg);border-color:var(--danger);}
+.izone{font-size:12px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;margin-bottom:5px;font-family:var(--mono);}
+.inote{font-size:14px;line-height:1.55;}
+.iloading{margin-top:8px;font-size:13px;color:var(--muted);}
+
+/* canvas chart */
+.chart-area{margin:20px 0 4px;}
+.chart-area canvas{width:100%;display:block;border-radius:6px;}
+.chart-cap{font-size:12px;color:var(--muted);text-align:center;margin-top:6px;}
+
+/* inline note */
+.inline-note{display:flex;gap:10px;align-items:flex-start;padding:12px 14px;
+  background:var(--bg);border-radius:var(--r);font-size:13px;color:var(--muted);margin-top:14px;}
+.dot{width:8px;height:8px;border-radius:50%;background:var(--accent);flex-shrink:0;margin-top:5px;}
+
+/* risk section */
+.risk-factors{display:flex;flex-direction:column;gap:10px;margin:4px 0 16px;}
+.rf-label{display:flex;align-items:center;gap:14px;padding:13px 16px;
+  border:1px solid var(--border);border-radius:var(--r);cursor:pointer;transition:background .1s;}
+.rf-label:hover{background:var(--bg);}
+.rf-label input{width:18px;height:18px;accent-color:var(--danger);cursor:pointer;flex-shrink:0;}
+.rf-text{flex:1;}
+.rf-main{font-size:14px;font-weight:500;}
+.rf-sub{font-size:12px;color:var(--muted);margin-top:2px;}
+.rf-badge{font-family:var(--mono);font-size:11px;padding:2px 8px;border-radius:4px;
+  background:var(--warn-bg);color:var(--warn);font-weight:500;flex-shrink:0;}
+.meter-wrap{margin:4px 0 10px;}
+.meter-bar{height:11px;background:var(--bg);border-radius:6px;overflow:hidden;margin-bottom:8px;border:1px solid var(--border);}
+.meter-fill{height:100%;border-radius:6px;transition:width .3s,background .3s;}
+.meter-label{font-size:13px;font-weight:600;font-family:var(--mono);}
+
+/* bone cards */
+.bone-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(168px,1fr));gap:12px;margin-top:16px;}
+.bone-card{border:1px solid var(--border);border-radius:var(--r);padding:16px;}
+.bone-t{font-family:var(--mono);font-size:24px;font-weight:500;margin-bottom:4px;}
+.bone-n{font-size:13px;font-weight:700;margin-bottom:8px;}
+.bone-d{font-size:12px;color:var(--muted);line-height:1.5;}
+.bone-chip{margin-top:10px;display:inline-block;font-size:11px;font-weight:600;
+  padding:3px 9px;border-radius:4px;}
+
+/* sources */
+.sources{margin-top:28px;padding-top:20px;border-top:1px solid var(--border);}
+.sources h3{font-size:11px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-bottom:10px;}
+.src{font-size:12px;color:var(--muted);margin-bottom:4px;font-family:var(--mono);}
+
+/* theme btn */
+.theme-btn{position:fixed;top:14px;right:14px;background:var(--surface);border:1px solid var(--border);
+  color:var(--muted);border-radius:20px;padding:5px 14px;font-size:12px;cursor:pointer;
+  font-family:var(--sans);}
+@media(max-width:520px){.bone-grid{grid-template-columns:1fr 1fr;}.it-num{font-size:22px;}}
+</style>
+
+<button class="theme-btn" onclick="toggleTheme()">라이트 / 다크</button>
+
+<div class="wrap">
+
+  <header class="pg-header">
+    <p class="eyebrow">임플란트 임상 결정 지원</p>
+    <h1>삽입토크 · 발열 · 골질 임상 해석기</h1>
+    <p>위키 인제스트 논문 5편 기반 — norton-2017 · baldi-2018 · milone-2026 · palominozorrilla-2024 · shemtovyona-2021</p>
+  </header>
+
+  <!-- ①  IT Interpreter -->
+  <div class="card">
+    <p class="sec-eye">① 삽입토크 임상 해석</p>
+    <h2 class="sec-h">삽입토크(IT) 임상 해석기</h2>
+    <p class="sec-sub">norton-2017 (n=30, IT≤20 Ncm 전향 코호트) · baldi-2018 (n=75 Anyridge) 기반</p>
+
+    <div class="slider-row">
+      <input type="range" id="it-sl" min="0" max="100" value="15" oninput="updateIT(this.value)">
+      <div class="it-num"><span id="it-val">15</span><span class="it-unit"> Ncm</span></div>
+    </div>
+
+    <div class="zone-wrap">
+      <div class="zone-bar"><div class="zone-pip" id="zone-pip"></div></div>
+      <div class="zone-ticks">
+        <span>0</span><span>5</span><span>20</span><span>45</span><span>65</span><span>100</span>
+      </div>
+    </div>
+
+    <div class="ibox mid" id="ibox">
+      <div class="izone" id="izone">—</div>
+      <div class="inote" id="inote">—</div>
+      <div class="iloading" id="iload">—</div>
+    </div>
+
+    <div class="chart-area">
+      <canvas id="isq-c" height="160"></canvas>
+    </div>
+    <p class="chart-cap" id="chart-cap">norton-2017: IT≤20 Ncm 코호트 ISQ 궤적 (T0=67, T3mo=80)</p>
+
+    <div class="inline-note">
+      <div class="dot"></div>
+      <span id="corr-note">baldi-2018 (n=75): IT-ISQ 상관관계는 <strong>중간토크(~20-45 Ncm) 구간에서만 유의</strong> (ρ=0.481). 저토크·고토크 구간에서는 IT와 ISQ가 독립적으로 움직임 — IT가 낮아도 ISQ는 충분히 오를 수 있다.</span>
+    </div>
+  </div>
+
+  <!-- ② Heat Risk -->
+  <div class="card">
+    <p class="sec-eye">② 식립 발열 위험 평가</p>
+    <h2 class="sec-h">임플란트 식립 중 발열 위험인자 체크</h2>
+    <p class="sec-sub">milone-2026 (n=24, FLIR 열화상 분석 — 드릴링이 아닌 <em>식립 단계</em> 발열) 기반</p>
+
+    <div class="risk-factors">
+      <label class="rf-label">
+        <input type="checkbox" id="rf1" onchange="updateRisk()">
+        <div class="rf-text">
+          <div class="rf-main">수동 토크렌치 사용 (Manual torque wrench)</div>
+          <div class="rf-sub">전동 핸드피스 대비 수동 조임이 더 높은 발열 유발</div>
+        </div>
+        <span class="rf-badge">위험 +1</span>
+      </label>
+      <label class="rf-label">
+        <input type="checkbox" id="rf2" onchange="updateRisk()">
+        <div class="rf-text">
+          <div class="rf-main">생리식염수 미사용 (No saline lubrication)</div>
+          <div class="rf-sub">식염수 도포가 식립 중 온도를 유의하게 감소시킴</div>
+        </div>
+        <span class="rf-badge">위험 +1</span>
+      </label>
+      <label class="rf-label">
+        <input type="checkbox" id="rf3" onchange="updateRisk()">
+        <div class="rf-text">
+          <div class="rf-main">언더사이즈 골창 (Undersized osteotomy)</div>
+          <div class="rf-sub">골창-임플란트 직경 차이가 클수록 삽입 시 발열 증가</div>
+        </div>
+        <span class="rf-badge">위험 +1</span>
+      </label>
+    </div>
+
+    <div class="meter-wrap">
+      <div class="meter-bar"><div class="meter-fill" id="m-fill" style="width:0%;background:var(--success)"></div></div>
+      <div class="meter-label" id="m-label" style="color:var(--success)">위험인자 없음 — 낮음</div>
+    </div>
+
+    <div class="ibox ok" id="risk-box">
+      <div class="inote">위험인자를 선택하면 임상 권고가 나타납니다.</div>
+    </div>
+  </div>
+
+  <!-- ③ Bone Quality -->
+  <div class="card">
+    <p class="sec-eye">③ 골질 분류 빠른 참조</p>
+    <h2 class="sec-h">Lekholm-Zarb 골질 분류 (Type I–IV)</h2>
+    <p class="sec-sub">palominozorrilla-2024 (17편 스코핑 리뷰) · shemtovyona-2021 (30편 메타분석, CBCT) 기반</p>
+
+    <div class="inline-note" style="margin-top:0;margin-bottom:16px;">
+      <div class="dot" style="background:var(--warn)"></div>
+      <span><strong>palominozorrilla-2024 주의:</strong> 17편 중 13편이 Lekholm-Zarb를 사용하지만, 어떤 연구도 분류의 정확도·재현성을 검증하지 않음. 임상 판단 보조용으로만 활용.</span>
+    </div>
+
+    <div class="bone-grid">
+      <div class="bone-card">
+        <div class="bone-t" style="color:var(--warn)">I</div>
+        <div class="bone-n">균질 치밀피질골</div>
+        <div class="bone-d">피질골 전체 구성, 해면골 거의 없음. 하악 전치부 전형.</div>
+        <span class="bone-chip" style="background:var(--warn-bg);color:var(--warn)">D1 · 드릴 발열 주의</span>
+      </div>
+      <div class="bone-card">
+        <div class="bone-t" style="color:var(--success)">II</div>
+        <div class="bone-n">두꺼운 피질골 + 조밀 해면골</div>
+        <div class="bone-d">피질골 두꺼움, 내부 조밀한 소주골. 최적 안정성.</div>
+        <span class="bone-chip" style="background:var(--ok-bg);color:var(--success)">D2 · 최적 조건</span>
+      </div>
+      <div class="bone-card">
+        <div class="bone-t" style="color:var(--accent)">III</div>
+        <div class="bone-n">얇은 피질골 + 조밀 해면골</div>
+        <div class="bone-d">피질골 얇음, 내부 소주골 적절. 상악 전치부 전형.</div>
+        <span class="bone-chip" style="background:var(--accent-bg);color:var(--accent)">D3 · 중등도 안정성</span>
+      </div>
+      <div class="bone-card">
+        <div class="bone-t" style="color:var(--danger)">IV</div>
+        <div class="bone-n">얇은 피질골 + 성긴 해면골</div>
+        <div class="bone-d">피질골 극히 얇음, 느슨한 소주골. 상악 구치부 전형.</div>
+        <span class="bone-chip" style="background:var(--danger-bg);color:var(--danger)">D4 · 고위험 · 전략 필요</span>
+      </div>
+    </div>
+
+    <div class="inline-note" style="margin-top:16px;">
+      <div class="dot" style="background:var(--success)"></div>
+      <span><strong>shemtovyona-2021 (SR+MA, 30편, CBCT):</strong> 치조골 기하학 측정값(릿지폭·협측피질두께·설측피질두께)의 통합 평균이 위 정성 분류(I-IV)와 일치하는 정량 분류를 구성. CBCT 기반 정량 분류가 주관적 임상 평가를 대체할 수 있음을 시사.</span>
+    </div>
+  </div>
+
+  <div class="sources">
+    <h3>출처 — 위키 내 검증 완료 논문만</h3>
+    <p class="src">norton-2017 — prospective, n=30, IT≤20 Ncm, 1-year. DOI 10.11607/jomi.5889</p>
+    <p class="src">baldi-2018 — prospective, n=75 Anyridge, IT-ISQ correlation. DOI 10.1155/2018/7201093</p>
+    <p class="src">milone-2026 — in-vitro, n=24, FLIR thermal. DOI 10.1155/bmri/7910355</p>
+    <p class="src">palominozorrilla-2024 — scoping review, 17 studies. DOI 10.4103/jispcd.JISPCD_4_22</p>
+    <p class="src">shemtovyona-2021 — SR+MA, 30 studies, CBCT. DOI 10.1371/journal.pone.0253283</p>
+  </div>
+</div>
+
+<script>
+// ── Theme ──────────────────────────────────────────
+function toggleTheme() {
+  const r = document.documentElement;
+  r.setAttribute('data-theme',
+    r.getAttribute('data-theme') === 'dark' ? 'light' : 'dark');
+  drawChart(+document.getElementById('it-sl').value);
+}
+
+// ── IT Zones ───────────────────────────────────────
+const ZONES = [
+  { max:  5, cls:'bad',  label:'스피너  (<5 Ncm)',
+    note:'Norton 2017: 스피너(<5 Ncm) 3개 모두 골유착 성공 — 회전저항이 거의 없어도 생물학적 골유착으로 보상 가능.',
+    load:'ISQ 추적 필수. ISQ ≥ 55 확인 후 임시보철 가능 (norton-2017 기준).' },
+  { max: 20, cls:'ok',   label:'저토크  (5–20 Ncm)',
+    note:'Norton 2017 (n=30): 100% 생존 (29/29). ISQ 67 → 80 (3개월). 저토크 단독으로 실패를 예측할 수 없음.',
+    load:'ISQ ≥ 55이면 즉시 임시보철 가능 (norton-2017). 표준 로딩 프로토콜 적용.' },
+  { max: 45, cls:'mid',  label:'중간토크 (20–45 Ncm)',
+    note:'Baldi 2018 (n=75): 이 구간에서만 IT-ISQ 상관 유의 (ρ=0.481). 표준 임상 목표 범위.',
+    load:'표준 로딩 프로토콜 적용. ISQ 독립 측정으로 검증 권장 (r²<0.25).' },
+  { max: 65, cls:'warn', label:'고토크  (45–65 Ncm)',
+    note:'Baldi 2018: 두 임플란트 실패 모두 이 구간. 치조정 피질골 손상 위험 증가 (high-IT overview).',
+    load:'⚠ 치밀 피질골(D1, 하악구치부) 주의. 치조정 방사선 추적 권장. IT ≠ 안정성.' },
+  { max:100, cls:'bad',  label:'초고토크 (>65 Ncm)',
+    note:'Marconcini 2018·Aldahlawi 2018: 치조정 골소실·생존율 저하 신호. Coyac 2019: 골수압·골세포사멸 기전.',
+    load:'⛔ 즉시 부하 금지. ISQ 독립 측정 필수. 치조정 방사선 필수 추적.' },
+];
+
+function getZone(v) { return ZONES.find(z => v <= z.max) || ZONES[4]; }
+
+function updateIT(v) {
+  v = +v;
+  document.getElementById('it-val').textContent = v;
+  document.getElementById('zone-pip').style.left = v + '%';
+
+  const z = getZone(v);
+  const box = document.getElementById('ibox');
+  box.className = 'ibox ' + z.cls;
+  document.getElementById('izone').textContent = z.label;
+  document.getElementById('inote').textContent = z.note;
+  document.getElementById('iload').textContent = z.load;
+
+  const cap = document.getElementById('chart-cap');
+  if (v <= 20) {
+    cap.textContent = 'norton-2017: IT≤20 Ncm 코호트 ISQ 궤적 (T0≈67, T3months≈80)';
+  } else {
+    cap.textContent = 'norton-2017 ISQ 궤적 데이터는 IT≤20 Ncm 코호트 전용 — 현재 IT 범위는 별도 ISQ 측정 필요 (baldi-2018)';
+  }
+  drawChart(v);
+}
+
+// ── ISQ Canvas Chart ───────────────────────────────
+function drawChart(it) {
+  const canvas = document.getElementById('isq-c');
+  if (!canvas || !canvas.offsetWidth) return;
+  const W = canvas.offsetWidth;
+  const H = 160;
+  const dpr = window.devicePixelRatio || 1;
+  canvas.width  = W * dpr;
+  canvas.height = H * dpr;
+  const ctx = canvas.getContext('2d');
+  ctx.scale(dpr, dpr);
+
+  const cs = getComputedStyle(document.documentElement);
+  const C = {
+    surface: cs.getPropertyValue('--surface').trim() || '#fff',
+    bg:      cs.getPropertyValue('--bg').trim()      || '#EFF3F8',
+    text:    cs.getPropertyValue('--text').trim()    || '#1A2B3C',
+    muted:   cs.getPropertyValue('--muted').trim()   || '#5E7388',
+    accent:  cs.getPropertyValue('--accent').trim()  || '#1057A0',
+    warn:    cs.getPropertyValue('--warn').trim()     || '#A84F00',
+    success: cs.getPropertyValue('--success').trim() || '#0D7A52',
+  };
+
+  const pad = { t:14, r:16, b:36, l:40 };
+  const cW = W - pad.l - pad.r;
+  const cH = H - pad.t - pad.b;
+  const ISQ_MIN = 45, ISQ_MAX = 95;
+
+  const toX = (week) => pad.l + (week / 13) * cW;
+  const toY = (isq)  => pad.t + cH - ((isq - ISQ_MIN) / (ISQ_MAX - ISQ_MIN)) * cH;
+
+  // background
+  ctx.fillStyle = C.surface;
+  ctx.fillRect(0, 0, W, H);
+
+  // grid
+  ctx.strokeStyle = C.bg;
+  ctx.lineWidth = 1;
+  [55, 65, 75, 85].forEach(v => {
+    ctx.beginPath();
+    ctx.moveTo(pad.l, toY(v));
+    ctx.lineTo(pad.l + cW, toY(v));
+    ctx.stroke();
+  });
+
+  // ISQ 55 threshold (immediate loading — norton-2017)
+  ctx.setLineDash([5, 4]);
+  ctx.strokeStyle = C.warn;
+  ctx.lineWidth = 1;
+  ctx.beginPath();
+  ctx.moveTo(pad.l, toY(55));
+  ctx.lineTo(pad.l + cW, toY(55));
+  ctx.stroke();
+  ctx.setLineDash([]);
+  ctx.fillStyle = C.warn;
+  ctx.font = '9px JetBrains Mono, monospace';
+  ctx.fillText('ISQ 55', pad.l + 4, toY(55) - 4);
+
+  // ISQ 70 threshold (conventional)
+  ctx.setLineDash([5, 4]);
+  ctx.strokeStyle = C.muted;
+  ctx.lineWidth = 1;
+  ctx.beginPath();
+  ctx.moveTo(pad.l, toY(70));
+  ctx.lineTo(pad.l + cW, toY(70));
+  ctx.stroke();
+  ctx.setLineDash([]);
+  ctx.fillStyle = C.muted;
+  ctx.font = '9px JetBrains Mono, monospace';
+  ctx.fillText('ISQ 70', pad.l + 4, toY(70) - 4);
+
+  if (it <= 20) {
+    // norton-2017 data points: T0=67.2, loading≈80 (week 12-13)
+    // intermediate points inferred from standard osseointegration trajectory
+    const pts = [
+      { w: 0,  q: 67 },   // norton-2017 measured
+      { w: 2.5, q: 62 },  // typical dip (standard knowledge)
+      { w: 6,  q: 70 },   // recovery
+      { w: 13, q: 80 },   // norton-2017 measured (~3 months loading)
+    ];
+
+    // filled area
+    ctx.beginPath();
+    ctx.moveTo(toX(pts[0].w), toY(pts[0].q));
+    pts.forEach(p => ctx.lineTo(toX(p.w), toY(p.q)));
+    ctx.lineTo(toX(13), toY(ISQ_MIN));
+    ctx.lineTo(pad.l, toY(ISQ_MIN));
+    ctx.closePath();
+    ctx.globalAlpha = 0.12;
+    ctx.fillStyle = C.accent;
+    ctx.fill();
+    ctx.globalAlpha = 1;
+
+    // line
+    ctx.beginPath();
+    ctx.moveTo(toX(pts[0].w), toY(pts[0].q));
+    pts.forEach(p => ctx.lineTo(toX(p.w), toY(p.q)));
+    ctx.strokeStyle = C.accent;
+    ctx.lineWidth = 2.5;
+    ctx.lineJoin = 'round';
+    ctx.stroke();
+
+    // key points
+    [[0, 67, '67', 1], [13, 80, '80', 1], [2.5, 62, '', 0]].forEach(([w, q, label, big]) => {
+      ctx.beginPath();
+      ctx.arc(toX(w), toY(q), big ? 5 : 3, 0, Math.PI * 2);
+      ctx.fillStyle = C.accent;
+      ctx.fill();
+      if (label) {
+        ctx.fillStyle = C.accent;
+        ctx.font = 'bold 10px JetBrains Mono, monospace';
+        const dx = w === 0 ? 7 : -22;
+        ctx.fillText(label, toX(w) + dx, toY(q) - 6);
+      }
+    });
+
+    // label for dip
+    ctx.fillStyle = C.muted;
+    ctx.font = '9px Noto Sans KR, sans-serif';
+    ctx.fillText('전형적 안정성 dip', toX(2.5) + 6, toY(62) + 4);
+
+  } else {
+    // no norton data for this range
+    ctx.fillStyle = C.muted;
+    ctx.font = '12px Noto Sans KR, sans-serif';
+    ctx.textAlign = 'center';
+    ctx.fillText('현재 IT 범위: norton-2017 ISQ 궤적 데이터 없음', W / 2, H / 2 - 8);
+    ctx.font = '11px Noto Sans KR, sans-serif';
+    ctx.fillText('IT > 20 Ncm — ISQ 독립 측정 필수 (baldi-2018)', W / 2, H / 2 + 10);
+    ctx.textAlign = 'left';
+  }
+
+  // Y-axis ticks
+  ctx.fillStyle = C.muted;
+  ctx.font = '9px JetBrains Mono, monospace';
+  [55, 65, 75, 85].forEach(v => ctx.fillText(v, pad.l - 28, toY(v) + 4));
+
+  // X-axis labels
+  ctx.fillStyle = C.muted;
+  ctx.font = '9px JetBrains Mono, monospace';
+  [[0,'식립'],[4,'4w'],[8,'8w'],[13,'3mo']].forEach(([w, lbl]) => {
+    const x = toX(w);
+    ctx.fillText(lbl, x - (w === 0 ? 8 : w === 13 ? 14 : 8), H - 10);
+  });
+
+  // axes
+  ctx.strokeStyle = C.muted;
+  ctx.lineWidth = 1;
+  ctx.beginPath();
+  ctx.moveTo(pad.l, pad.t);
+  ctx.lineTo(pad.l, pad.t + cH);
+  ctx.lineTo(pad.l + cW, pad.t + cH);
+  ctx.stroke();
+
+  // Y label
+  ctx.save();
+  ctx.translate(10, pad.t + cH / 2);
+  ctx.rotate(-Math.PI / 2);
+  ctx.fillStyle = C.muted;
+  ctx.font = '9px Noto Sans KR, sans-serif';
+  ctx.textAlign = 'center';
+  ctx.fillText('ISQ', 0, 0);
+  ctx.restore();
+}
+
+// ── Heat Risk ──────────────────────────────────────
+const RISK_CFG = [
+  { cls:'ok',   label:'위험인자 없음 — 발열 위험 낮음',  color:'var(--success)',
+    html:'milone-2026: 세 위험인자가 모두 없는 조건에서 식립 단계 발열 최소화.' },
+  { cls:'mid',  label:'위험인자 1개 — 주의',             color:'var(--accent)',
+    html:'단일 위험인자. 나머지 인자 최적화로 충분히 상쇄 가능. <strong>생리식염수 사용 여부를 우선 확인</strong>.' },
+  { cls:'warn', label:'위험인자 2개 — 주의 요함',        color:'var(--warn)',
+    html:'⚠ milone-2026: 복합 위험인자 → 식립 중 발열 유의하게 증가. <strong>생리식염수 도포 필수.</strong> 드릴링 단계 발열도 함께 점검 권장.' },
+  { cls:'bad',  label:'위험인자 3개 — 고위험',           color:'var(--danger)',
+    html:'⛔ milone-2026: 수동 조임 + 생리식염수 없음 + 소삭제 = 최고 발열 조합. <strong>반드시 생리식염수 사용.</strong> 가능하면 전동 핸드피스로 전환. 골경화성(D1) 부위라면 드릴링 단계 발열도 추가 점검.' },
+];
+
+function updateRisk() {
+  const score = ['rf1','rf2','rf3'].filter(id => document.getElementById(id).checked).length;
+  const pcts = ['0%','33%','67%','100%'];
+  const cfg  = RISK_CFG[score];
+
+  const fill  = document.getElementById('m-fill');
+  const label = document.getElementById('m-label');
+  const box   = document.getElementById('risk-box');
+
+  fill.style.width      = pcts[score];
+  fill.style.background = cfg.color;
+  label.style.color     = cfg.color;
+  label.textContent     = cfg.label;
+  box.className         = 'ibox ' + cfg.cls;
+  box.innerHTML         = `<div class="inote">${cfg.html}</div>`;
+}
+
+// ── Init & resize ──────────────────────────────────
+window.addEventListener('load', () => {
+  updateIT(15);
+  updateRisk();
+});
+window.addEventListener('resize', () => {
+  drawChart(+document.getElementById('it-sl').value);
+});
+</script>
