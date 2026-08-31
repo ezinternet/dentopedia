@@ -2,7 +2,7 @@
 title: "Cracked Tooth Syndrome — 분류·진단·치료 결정의 2026 종합 (Korean Clinical Application)"
 authors: synthesis page (compiled by Claude from 8 wiki entries ingested 2026-05-27)
 year: 2026
-date: 2026-05-27
+date: 2026-08-31
 category: overviews
 evidence_level: synthesis
 source_collection: internal
@@ -16,7 +16,7 @@ relations:
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
-> - 균열치 증후군 (Cracked Tooth Syndrome, CTS) 신규 8편을 통합한 분류·진단·치료 결정 종합 페이지로, CTS는 단독 진단명이 아니라 종방향 파절 (Longitudinal Fracture) 5-type 중 불완전 파절 (Incomplete Fracture) 에 해당한다.
+> - 균열치 증후군 (Cracked Tooth Syndrome, CTS) 21편을 통합한 분류·진단·치료 결정 종합 페이지로, CTS는 단독 진단명이 아니라 종방향 파절 (Longitudinal Fracture) 5-type 중 불완전 파절 (Incomplete Fracture) 에 해당한다.
 > - 5-type 분류: craze line (관찰) → fractured cusp (보존 수복 ± crown) → cracked tooth/CTS (본 페이지 핵심) → split tooth (부분/전체 발치) → 수직 치근 파절 (Vertical Root Fracture, 보통 발치).
 > - 진단의 핵심 원칙: 단일 도구로 확진 불가 — 시진·투조 (transillumination)·교합검사 (bite test, Tooth Slooth)·콘빔CT (CBCT)·정량광형광 (QLF) 을 종합한 multi-modal framework이 필수. [확인] 이제 정량 근거로 뒷받침: 투조 (transillumination) 는 민감도 68.8%·특이도 53.6% (위양성↑), 고배율 현미경·macrophotography 는 특이도 92.9%·양성예측도 (PPV) ~96% (Kindaro 2025, micro-CT 기준), QLF 형광채널은 crack 위치를 kappa 0.66–0.74로 검출 (Son 2024).
 > - 균열치 종축 균열 5-type 은 유럽근관치료학회 (ESE, Patel 2025) 합의문이 표준 용어로 확정하며 "cracked tooth syndrome (CTS)" 용어 자체의 폐기를 권고 (본 overview는 검색·통용성 위해 라벨 유지).
@@ -30,12 +30,13 @@ relations:
 > - 수복 디자인 (Cluster 4, 2024–2025 신규): "덮느냐"는 이론 없음 (zhang 2024 — 무피개 direct는 발치 8–11×) 이나 "무엇으로"는 full crown → **보존적 간접수복 (onlay/inlay)** 로 이동 — wang 2025 RCT (인레이 > 크라운)·gavriil 2025 (onlay > crown). 잔존 치질이 적거나 다수 교두 침범이면 full crown 유지. 경증 vital case는 external splinting (12개월 치수생존 85%) 도 보존 카드.
 > - 한국 일차 임상 권장: Kwak의 보수적 framework을 default로 하되, 결정 trigger (자발통·치근단 병변·교두 동요 cuspal mobility) 발생 시 즉시 Kaur/Ferracane 입장으로 전환.
 > - 중증단(split/VRF/치관-치근 파절)의 보존 카드 (Cluster 5, 2026-06 신규): 분류표상 "발치" 디폴트지만, 불완전 VRF·온전 회수 파절편·얕은(≤1–2 mm) 치은연하 연장에 한해 **4-META/MMA-TBB 자가중합 레진(Super-Bond)** 으로 파절편을 접착해 자연치 보존 시도 가능 — TBB 개시제가 수분/공기로 중합 촉진되어 치은연하 오염 파절선에서도 결합 유지. 의도적 재식립+Super-Bond 신호 최량(Corbella 2025 SR, Okaguchi 6/6)·치관-치근 파절 55개월 양호(Li 2025 case report)이나, **근거빈약(전부 case series·n=1)·적응증 협소**라 표준 아님; resin-ionomer/silver-GIC는 전실패라 금기.
+> - **Kakka 2022 포괄 서술고찰 (64편, PMC, Athens+Newcastle)**: 치수생존율 80–93% (NP/RP 직·간접수복), 근관치료 후 크라운 없으면 발치 위험 11배(Nguyen Thi & Jansson). **Iowa Index** (아이오와 지수) = 치근단 진단 + 원심변연융선 균열 + 탐침깊이 ≥5 mm → 이 세 인자 복합 시 예후 불량 경고; 무증상 균열치 모니터링 근거 정량화(23% 증상 감소 vs 10% 악화, 1년).
 > - 약점·gap: CTS는 primary RCT가 절대 빈약 ([미검증]) — umbrella·SR도 결국 동일 base에 의존하며, Kaur 2026 CCA 17% (중복 사용) 로 true heterogeneity 평가 한계, 5년+ 장기 cohort 부족.
 > - 환자 설명 framework: "crack은 시간이 지나면 split tooth로 진행 가능 → 교두 덮음이 진행 차단의 핵심 → 신경치료는 case-by-case → 정기 점검 필수" (Ferracane 3년 cohort 기반).
 
 ## Three-line Summary
 
-Synthesis of 20 papers building a classification, diagnosis, and treatment-decision map for Cracked Tooth Syndrome: CTS is the incomplete-fracture entry within the 5-type longitudinal-fracture spectrum (craze line → fractured cusp → cracked tooth → split tooth → vertical root fracture), now anchored by the ESE consensus statement (Patel 2025) which recommends retiring the "CTS" label; diagnosis requires a multi-modal framework with now-quantified accuracies — transillumination sensitive but specificity only 53.6%, microscope/macrophotography specificity ~93%, QLF kappa 0.66–0.74, AI panoramic CNN AUC 0.82 for VRF screening.
+Synthesis of 21 papers building a classification, diagnosis, and treatment-decision map for Cracked Tooth Syndrome: CTS is the incomplete-fracture entry within the 5-type longitudinal-fracture spectrum (craze line → fractured cusp → cracked tooth → split tooth → vertical root fracture), now anchored by the ESE consensus statement (Patel 2025) which recommends retiring the "CTS" label; diagnosis requires a multi-modal framework with now-quantified accuracies — transillumination sensitive but specificity only 53.6%, microscope/macrophotography specificity ~93%, QLF kappa 0.66–0.74, AI panoramic CNN AUC 0.82 for VRF screening.
 
 The central clinical tension is the endo decision: Kaur 2026 umbrella review + Ferracane 2023 PBRN cohort favor endo + full cuspal coverage for best prognosis; Korean JKDA (Kwak 2024) and Renner 2025 (55% asymptomatic in general practice) favor avoiding unnecessary endo — a split partly explained by patient population (academic/specialist vs primary care); both sides agree cuspal coverage is standard, and newer restoration evidence shifts the design toward conservative onlay/inlay over full crown (Wang 2025 RCT, Gavriil 2025).
 
@@ -43,7 +44,7 @@ Clinical bottom line: apply a Kwak-default with trigger-escalation (spontaneous 
 
 ## 세줄요약
 
-20편 종합: CTS는 종방향 파절 5-type(craze line → fractured cusp → cracked tooth → split tooth → VRF) 중 incomplete fracture 항목 — ESE Patel 2025 합의문이 표준 용어 확정 및 "CTS" 라벨 폐기 권고; 진단은 multi-modal framework 필수(정량 정확도: 투조 특이도 53.6%, 현미경 특이도 93%, QLF κ 0.66–0.74, AI AUC 0.82).
+21편 종합: CTS는 종방향 파절 5-type(craze line → fractured cusp → cracked tooth → split tooth → VRF) 중 incomplete fracture 항목 — ESE Patel 2025 합의문이 표준 용어 확정 및 "CTS" 라벨 폐기 권고; 진단은 multi-modal framework 필수(정량 정확도: 투조 특이도 53.6%, 현미경 특이도 93%, QLF κ 0.66–0.74, AI AUC 0.82).
 
 핵심 tension: Kaur 2026 umbrella + Ferracane 2023 PBRN 코호트 → "endo + 교두피개 최고 예후" 적극; Kwak 2024 JKDA + Renner 2025(개원가 55% 무증상) → "불필요한 endo 회피" 보수적; 양측 모두 교두피개(crown/onlay)는 표준으로 동의 — 수복 디자인은 최근 full crown → 보존적 onlay/inlay로 이동(Wang 2025 RCT, Gavriil 2025).
 
@@ -146,6 +147,27 @@ CTS overview의 가장 임상적으로 중요한 부분 — **endo 진입 여부
 - **Pulp 생명 보존 우선**
 
 [미검증] Private practice perspective — overtreatment 경계가 핵심 메시지
+
+### 치수생존율·모니터링 근거 정량화 (Kakka 2022 서술고찰)
+
+[[cracked-tooth/kakka-2022-treatment-cracked-teeth-comprehensive-narrative]] (64편, Clin Exp Dent Res 2022, PMC fulltext, Athens+Newcastle)는 Cluster 3의 두 입장 모두에 공통 수치 근거를 제공한다:
+
+| 시나리오 | 치수생존율 | 연구 |
+|---|---|---|
+| NP/RP — 직접 복합레진 ± 교두피개 (7년) | 93% | Opdam et al. |
+| NP/RP — 간접 복합레진 온레이 (6년) | 93% | Signore et al. |
+| NP/RP — 크라운/온레이 (5년) | 80% | Abbott & Leow |
+| 근관치료 균열치 — 크라운 (5년 SR) | **84%** | Leong SR |
+| 근관치료 균열치 — 크라운 無 vs 有 | 68% vs **97%** | Nguyen Thi & Jansson |
+
+**모니터링 근거 정량화**: 무치료 1,850치에서 1년 추적(Hilton et al.) — 증상 감소 23%, 증상 악화 10%; 감소가 2배 이상 흔함. 3년 추적(Ferracane et al.) 중 80%가 계속 모니터링 권고. → **Kwak 보수적 입장의 수치 근거**
+
+**Iowa Index** (아이오와 지수, Krell & Caplan) — 예후불량 예측 3인자:
+1. 치근단 진단 불량 (chronic/suppurative apical periodontitis, acute apical abscess)
+2. 원심변연융선 균열 포함
+3. 치주탐침 깊이 ≥5 mm
+
+셋이 복합될수록 예후 급격 악화; 이 조합이면 Kaur/Ferracane 적극 입장(endo + crown) 즉시 전환. 단, Iowa Index는 구식 진단 용어 기반이라 임상 활용 시 현행 AAE/ESE 용어로 재매핑 필요.
 
 ### 결정 트리 (양 입장 통합)
 
@@ -291,12 +313,13 @@ Cluster 3의 합의("cuspal coverage는 standard")는 *무엇으로* 덮을지�
 
 - [[cracked-tooth/liu-2025-restorative-design-materials-stress-cracked-teeth-fea]] — 3D FEA comparing stress distribution and crack propagation in a cracked mandibular first molar restored with onlay, overlay … (in-vitro, 2025)
 
-### International cluster (4편)
+### International cluster (6편)
 - [[cracked-tooth/kaur-2026-cracked-tooth-syndrome-umbrella-review]] — Umbrella review (highest evidence, endo + cuspal coverage 권장)
 - [[cracked-tooth/kaur-2026-cracked-tooth-syndrome-umbrella-protocol]] — Pre-registered protocol (reproducibility)
 - [[cracked-tooth/ferracane-2023-cracked-tooth-registry-3year-network]] — Multi-site 3-year cohort (3 핵심 질문 답)
 - [[cracked-tooth/li-2021-cracked-tooth-syndrome-etiology-review]] — Etiology·prevention 4축 framework
 - [[cracked-tooth/raj-2025-cracked-tooth-syndrome-diagnostic-dilemma]] — Longitudinal fracture 5-type 분류
+- [[cracked-tooth/kakka-2022-treatment-cracked-teeth-comprehensive-narrative]] — 포괄 서술고찰 (64편, PMC): 치수생존 80–93%·RCT 후 크라운 無=발치 11배·Iowa Index·모니터링 정량화(23%↓ vs 10%↑)
 
 ### Korean JKDA cluster (3편, 균열치 특집)
 - [[cracked-tooth/jkda-2024-62-1-003]] — Kim & Shin: 진단의 한계·multi-modal framework
