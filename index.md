@@ -60,6 +60,7 @@ tags: []
 - [[implants/peri-implantitis/ramanauskaite-2023-guided-bone-regeneration-periimplantitis-defects-nma]] — Ramanauskaite 2023 (Network MA): 주위염 골내결손 GBR 재건 효능 비교(Schwarz 그룹)
 - [[implants/peri-implantitis/jervoe-storm-2024-photodynamic-therapy-periodontal-periimplant-diseases]] — Jervøe-Storm 2024 (Cochrane SR): 보조 광역학치료(aPDT) 치주·주위염 — 결과수치 본문 보강 필요 [미검증]
 - [[implants/peri-implantitis/pujarern-2024-biofilm-removal-implant-airflow-erythritol]] — in-vitro(33 implants): 탄산수소나트륨(40µm) vs 에리스리톨(14µm) 에어폴리싱 — 둘 다 바이오필름 동등 제거(OD 0.130/0.129 vs 대조 0.728), 표면손상 적은 에리스리톨 선호
+- [[implants/peri-implantitis/lee-2025-self-powered-oxygen-microbubble]] — MnO2 도핑 규조토 자가추진 마이크로버블러(SM)로 임플란트 마이크로갭 혐기성 바이오필름 제거; SM+H2O2가 0.2% CHX·3% H2O2 단독 대비 우수, 기계적 안정성 회복·세균 누출 감소 (in vitro/ex vivo, 2025)
 - [[implants/rosa-2024-do-dental-implants-bone-types]] — Meta-analysis (49 studies, 29,905 implants): type IV bone fails 1.5–1.9× more than types I–III; types I and II equivalent; posterior maxilla highest risk
 - [[implants/short-narrow/saenz-ravello-2023-short-implants-compared-to-regular]] — Umbrella review: short implants (<10 mm) reduce failure, MBL, and biological complications vs. regular implants + bone augmentation in atrophic posterior mandible; evidence certainty low
 - [[implants/di-stefano-2021-stability-dental-implants-cortical-bone]] — Systematic review (13 studies): cortical bone thickness positively correlates with primary stability (ISQ, IT); bicortical anchorage = highest stability; MBL correlation inconclusive
@@ -1298,6 +1299,7 @@ tags: []
 - [[digital-workflow/jkda-2025-63-5-003]] — In vitro pilot (경북대 보철과 이규복·김소연, JKDA 2025): 3D 프린팅 zirconia crown — offset parameter별 marginal·internal fit 비교, 임상 acceptable range 결정
 - [[digital-workflow/fouda-2025-accuracy-digital-workflow-implant-fullarch]] — Fouda 2025 · in-vitro micro-CT (J Prosthodont 2025;35(5):721): 완전 디지털 워크플로우 전악 임플란트 티타늄 프레임워크 10개 중 SST 기준 통과 0개, non-passivity 60–80% — 스캐닝 오차가 주요 원인
 - [[digital-workflow/shirani-2026-computer-assisted-vs-freehand-implant-placement-sr-ma]] — Shirani 2026 · sr+ma(초록전용) · 컴퓨터보조(CAIS) vs 자유수식(FHIP) RCT 9편(395명/1,242 임플란트): MBL·생존율 전체 차이 없음(양쪽 >98%), CAIS는 신선발치와 MBL(P=.04)·환자만족(P=.03)·PES(P=.009) 우위, FHIP는 생물학적 합병증 적고(P=.04) 점막지지형 가이드보다 MBL 양호(P=.03) — 정확도 우위가 임상결과 우위로 이어지지 않음 (DOI 10.11607/jomi.11349)
+- [[digital-workflow/lee-2019-full-mouth-rehabilitation-reduced]] — 78세 여성 다수 치아상실·마모로 수직고경 감소 증례: OVD 2.5 mm 거상 + CBCT 가이드 임플란트 10개 + double-scan CAD/CAM 지르코니아 전악 수복 (교합 조정 불필요)
 
 ## 교정치료 (Orthodontics)
 
