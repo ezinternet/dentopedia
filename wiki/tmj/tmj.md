@@ -15,20 +15,20 @@ tags: [navigation, category-index, tmj]
 > [!summary] 한국어 핵심요약
 > - **분야**: 턱관절·악관절장애
 > - **범위**: TMD diagnosis & management — arthrocentesis, splint therapy, pharmacotherapy, chronic pain, TMJ osteoarthritis, sleep bruxism
-> - **수록 논문**: 80편
+> - **수록 논문**: 84편
 
 ## Three-line Summary
 
 **Scope**: TMD diagnosis & management — arthrocentesis, splint therapy, pharmacotherapy, chronic pain, TMJ osteoarthritis, sleep bruxism
-**Indexed papers**: 80 papers in `wiki/tmj/`.
+**Indexed papers**: 84 papers in `wiki/tmj/`.
 
 ## 세줄요약
 
 **분야**: 턱관절·악관절장애
-**수록 논문**: 80편
+**수록 논문**: 84편
 **하위 카테고리**: 없음
 
-## Papers in this Category (80)
+## Papers in this Category (84)
 
 | Paper |
 |---|
@@ -47,11 +47,13 @@ tags: [navigation, category-index, tmj]
 | [[chan-2022-myogenous-tmd-diagnosis-treatment-review|Diagnosis and Treatment of Myogenous Temporomandibular Disorders: A Clinical Update]] |
 | [[chana-2026-ultrasound-tmj-juvenile-idiopathic-arthritis-sr|Ultrasound to Assess the Temporomandibular Joint of Children With Juvenile Idiopathic Arthritis: A Systematic Review]] |
 | [[cimino-2025-counselling-vs-splint-tmd-neck-pain-rct|Counselling vs Counselling + Occlusal Splint for TMD with Coexisting Neck Pain: RCT]] |
+| [[coombs-2017-structure-function-relationships-temporomandibular-retrodiscal|Retrodiscal Tissue Tensile Biomechanics (Coombs 2017)]] |
 | [[dapuzzo-2024-tinnitus-tmd-dctmd-treatment-systematic-review|Treatment approaches, outcomes and prognostic indicators in patients with tinnitus and temporomandibular disorders evaluated with DC/TMD: A systematic review and Meta-analysis]] |
 | [[decarli-2023-mandibular-condyle-unilateral-masticatory-function|Mandibular condyle changes in rats with unilateral masticatory function]] |
 | [[demelo-2020-manual-therapy-myofascial-pain-tmd-sr|Manual Therapy in the Treatment of Myofascial Pain Related to Temporomandibular Disorders: A Systematic Review]] |
 | [[desai-2021-low-level-laser-therapy-tmj-pain|Efficacy of Low-Level Laser Therapy in Management of Temporomandibular Joint Pain: A Double Blind and Placebo Controlled Trial]] |
 | [[dipalma-2025-tmd-tinnitus-association-therapeutic-perspectives|The Association Between Temporomandibular Disorders and Tinnitus: Evidence and Therapeutic Perspectives from a Systematic Review]] |
+| [[donahue-2023-characterization-temporomandibular-joint-disc-complex|TMJ Disc Complex — Posterior Attachment Characterization (Donahue 2023)]] |
 | [[emshoff-2026-subchondral-bone-splint-tmd-arthralgia-cbct|Condylar Subchondral Bone Alterations Predict 6-Month Functional Outcomes of Splint Therapy in TMJ Arthralgia]] |
 | [[falletti-2026-update-trismus-etiology-diagnosis-treatment|An update on trismus: etiology, diagnosis and treatment]] |
 | [[ferland-2026-patient-education-self-management-tmd-sr-ma|Patient Education and Self-Management in Adults With Temporomandibular Disorders: Results From a Systematic Review With Meta-Analysis]] |
@@ -64,6 +66,7 @@ tags: [navigation, category-index, tmj]
 | [[ijoms-2023-arthrocentesis-conservative-tmd-sr-ma|A systematic review and meta-analysis of randomized controlled trials comparing arthrocentesis with conservative management for painful temporomandibular joint disorder]] |
 | [[jeon-2024-chewing-difficulty-tmd-tooth-loss|A comparative analysis of older patients with chewing difficulties due to temporomandibular disorders and tooth loss]] |
 | [[jiang-2024-orofacial-pain-sleep-biobank|Relationships between orofacial pain and sleep: Analysis of UK biobank and genome-wide association studies data]] |
+| [[kakimoto-2024-comparison-t2-values-displaced-unilateral|Retrodiscal Tissue T2 Mapping in Unilateral Disc Displacement (Kakimoto 2024)]] |
 | [[kapos-2020-temporomandibular-disorders-aetiology-diagnosis-review|Temporomandibular disorders: a review of current concepts in aetiology, diagnosis and management]] |
 | [[khalifeh-2024-trismus-following-inferior-alveolar-nerve-block|Trismus Following Inferior Alveolar Nerve Block: A Case Report]] |
 | [[kim-2012-diagnosis-treatment-temporomandibular-disorder|Diagnosis and Treatment of Temporomandibular Disorder]] |
@@ -103,6 +106,7 @@ tags: [navigation, category-index, tmj]
 | [[vazquez-delgado-2010-myofascial-pain-differential-diagnosis-treatment|Myofascial pain associated to trigger points: a literature review. Part 2: differential diagnosis and treatment]] |
 | [[wang-2024-tmj-ovd-elevation-occlusal-loss-rats|Influence on the temporomandibular joint induced by mandibular malpositioning caused by vertical dimension elevation and occlusal loss in adult rats]] |
 | [[yao-2023-chronic-tmd-pain-sr-nma-bmj|Management of chronic pain secondary to temporomandibular disorders: a systematic review and network meta-analysis of randomised trials]] |
+| [[yuan-2026-distinct-mural-cells-fibroblasts-drive|Cellular Basis of Retrodiscal Tissue Remodeling After Disc Displacement (Yuan 2026)]] |
 | [[zhang-2020-occlusal-splint-tmd-rct-sr|Efficacy of occlusal splints in the treatment of temporomandibular disorders: a systematic review of randomized controlled trials]] |
 | [[zhang-2021-exercise-vs-splint-tmd-sr-ma|Effectiveness of exercise therapy versus occlusal splint therapy for the treatment of painful temporomandibular disorders: a systematic review and meta-analysis]] |
 | [[zhang-2024-arthrocentesis-injectable-agent-tmd-sr|Arthrocentesis with injectable agents for temporomandibular disorders]] |
