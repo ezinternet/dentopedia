@@ -13,8 +13,11 @@ date: 2015-09-22
 category: oral-microbiology
 evidence_level: narrative_review
 source_collection: pubmed-abstract
-why_ingested: "First Aa-specific page in wiki. Aggregatibacter actinomycetemcomitans (Aa) is the primary pathogen in localized aggressive periodontitis (LAP). This review covers CDT, LtxA, LPS, host immune modulation, and alveolar bone loss mechanisms — essential for understanding non-red-complex periodontal pathogens."
 ---
+
+## Why Ingested
+
+First Aa-specific page in wiki. Aggregatibacter actinomycetemcomitans (Aa) is the primary pathogen in localized aggressive periodontitis (LAP). This review covers CDT, LtxA, LPS, host immune modulation, and alveolar bone loss mechanisms — essential for understanding non-red-complex periodontal pathogens, complementing the red-complex-centric [[oral-microbiology/hajishengallis-2012-psd-model-periodontal-disease]].
 
 ## Three-line Summary
 
