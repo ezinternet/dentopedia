@@ -2121,6 +2121,8 @@ tags: []
 - [[tmj/bernardi-2024-psoriatic-arthritis-tmj-pathogenesis-gender-differences]] — Bernardi 2024 · narrative-review · 건선관절염 (Psoriatic Arthritis, PsA)의 TMJ 침범 — **역학자료 자체가 희박**(저자 인정), 기전은 부착부염(enthesitis) 주도라 활막 주도인 RA와 다름. 성별 자료는 **TMJ 특이적인 게 없고** 전신 PsA·일반 TMD에서 외삽한 것(남성=말초형, 여성=축성형). 실무 결론: 건선 환자의 새 TMJ 증상은 스플린트가 아니라 **다학제 의뢰** 대화 (DOI 10.3390/dj12020031)
 - [[tmj/falletti-2026-update-trismus-etiology-diagnosis-treatment]] — 아관긴장증(Trismus) 원인(신경계/비신경계)·진단 알고리즘·치료 종합 리뷰; 신경계/비신경계×구조적/비구조적 4분류 체계 제시
 - [[tmj/khalifeh-2024-trismus-following-inferior-alveolar-nerve-block]] — IANB 후 아관긴장증(Trismus) 증례: 50일 경과 완전회복, 단계별 관리 프로토콜(온찜질·운동치료·NSAIDs·스테로이드)
+- [[tmj/alfaro-2025-sensory-fiber-types-mouse-tmj]] — 마우스 TMJ 감각신경 섬유 아형 지도: 관절낭·전방원판은 CGRP+ 99%, 후방조직(retrodisc)은 CGRP+ 75% + 비펩타이드성 20%(MrgprD/A3/C11) — 원판 자체엔 신경 없음
+- [[tmj/akbar-2026-tmj-ganglion-cyst-ear-obstruction-case-report]] — TMJ 후방 신경절낭종(ganglion cyst)이 하악 교합 시 외이도(EAC) 동적 폐쇄·체위성 난청 유발 → 이전접근법 적출 후 2년 완치(증례보고)
 
 ## 보툴리눔 톡신 — 약물 (Botulinum Toxin / BTX-A)
 - [[botulinum-toxin/de-la-torre-canales-2024-botulinum-toxin-a-myogenous]] — Umbrella review (Drugs 2024, 18 SR): BoNT-A vs M-TMD — 위약보다는 우월·표준치료엔 비우월; 근육·골 부작용 위험으로 "last option" 권고
