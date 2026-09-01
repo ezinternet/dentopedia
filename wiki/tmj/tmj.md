@@ -2,7 +2,7 @@
 title: "턱관절·악관절장애 — tmj"
 authors: navigation
 year: 2026
-date: 2026-08-11
+date: 2026-09-01
 doi: N/A
 source: navigation
 category: tmj
@@ -15,27 +15,29 @@ tags: [navigation, category-index, tmj]
 > [!summary] 한국어 핵심요약
 > - **분야**: 턱관절·악관절장애
 > - **범위**: TMD diagnosis & management — arthrocentesis, splint therapy, pharmacotherapy, chronic pain, TMJ osteoarthritis, sleep bruxism
-> - **수록 논문**: 78편
+> - **수록 논문**: 80편
 
 ## Three-line Summary
 
 **Scope**: TMD diagnosis & management — arthrocentesis, splint therapy, pharmacotherapy, chronic pain, TMJ osteoarthritis, sleep bruxism
-**Indexed papers**: 78 papers in `wiki/tmj/`.
+**Indexed papers**: 80 papers in `wiki/tmj/`.
 
 ## 세줄요약
 
 **분야**: 턱관절·악관절장애
-**수록 논문**: 78편
+**수록 논문**: 80편
 **하위 카테고리**: 없음
 
-## Papers in this Category (78)
+## Papers in this Category (80)
 
 | Paper |
 |---|
 | [[aggarwal-2026-third-molar-extraction-tmj-pain|To do or not to do extraction in temporomandibular joint pain: a systematic review background and rationale]] |
 | [[aiello-2025-tmj-arthritis-rheumatic-diseases-rehabilitative-pain-relief-sr|Temporomandibular joint arthritis in rheumatic diseases patients: which are the effective rehabilitative approaches for pain relief? A systematic review]] |
+| [[akbar-2026-tmj-ganglion-cyst-ear-obstruction-case-report|TMJ Ganglion Cyst with Dynamic EAC Obstruction (Akbar 2026)]] |
 | [[al-hamed-2026-pharmacological-intraarticular-tmd-nma|Limited, low-certainty evidence for pharmacological treatments used alone or adjunctively in painful intra-articular temporomandibular disorders: a systematic review and network meta-analysis]] |
 | [[albadi-2026-sleep-disorders-tmj-pain-dysfunction|Association of Sleep Disorders with Temporomandibular Joint Pain Dysfunction Syndrome]] |
+| [[alfaro-2025-sensory-fiber-types-mouse-tmj|Sensory Fiber Types in Mouse TMJ Tissues (Alfaro 2025)]] |
 | [[alowaimer-2024-noninvasive-therapies-tmj-sr|Comparative Efficacy of Non-Invasive Therapies in Temporomandibular Joint Dysfunction: A Systematic Review]] |
 | [[bader-alzamanan-2026-arthrocentesis-iprf-tmd-meta-tsa|Arthrocentesis Plus Injectable Platelet-Rich Fibrin in Patients With Temporomandibular Joint Dysfunction: An Updated Meta-Analysis With Trial Sequential Analysis]] |
 | [[bernardi-2024-psoriatic-arthritis-tmj-pathogenesis-gender-differences|Psoriatic Arthritis Involving TMJ: A Review on Pathogenesis and Consideration on Eventual Gender Differences]] |
