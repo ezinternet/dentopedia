@@ -6,7 +6,7 @@ date: 2022-07-09
 doi: 10.1002/cre2.617
 pmid: "35809233"
 pmcid: "PMC9562569"
-source: sources/kakka-2022-treatment-cracked-teeth-comprehensive-narrative.md
+source: kakka-2022-treatment-cracked-teeth-comprehensive-narrative.md
 category: cracked-tooth
 evidence_level: narrative-review
 source_collection: pubmed-text
