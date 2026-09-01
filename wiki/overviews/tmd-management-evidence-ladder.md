@@ -332,6 +332,7 @@ TMD 36편(SR+MA·가이드라인 27 + 편측저작·과두·이명 5 + TMJ OA �
 
 ## Related overviews
 
+- [[overviews/tmj-retrodiscal-tissue-disc-displacement-overview]] — 원판 변위의 **조직 축**(후방조직/이중판대): 통증원은 원판이 아니라 후방조직이고, 회복 경로는 원판 재위치가 아니라 후방조직의 섬유연골 적응이라는 기전 근거. 이 사다리의 보존-우선 결론이 왜 조직 수준에서도 맞는지를 설명한다
 - [[overviews/btx-orofacial-applications-overview]] — BTX 깊이 다룸
 - [[overviews/oral-surgery-decision-ladder]] — 외과적 단계
 - [[overviews/drug-clinical-decision-ladder]] — TMD 약물
