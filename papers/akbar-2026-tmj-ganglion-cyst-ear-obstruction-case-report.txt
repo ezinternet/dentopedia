@@ -1,0 +1,90 @@
+Title: Temporomandibular Joint Ganglion Cyst Causing Dynamic External Auditory Canal Obstruction and Position-Dependent Hearing Loss: A Case Report and Literature Review
+Authors: Akbar A, Meerza A, Pearl C
+Journal: Life (Basel). 2026;16(5):839
+DOI: 10.3390/life16050839
+PMID: 42195394
+PMCID: PMC13208540
+Published: 2026-05-19
+Source: PubMed Central full text
+
+---
+
+1. Introduction
+
+Cystic lesions of the temporomandibular joint are rare and include both synovial and ganglion cysts. Although these lesions are common in the wrist, hand, foot, and knee, they are encountered less frequently in the TMJ, where they may mimic temporomandibular disorders, parotid lesions, or otologic disease. Ganglion cysts are pseudocysts characterized by a fibrous connective tissue wall without a true synovial lining and typically contain thick gelatinous material; in contrast, synovial cysts are true cysts lined by synovium and may communicate with the joint space.
+
+The reported clinical spectrum is broad. Most patients present with preauricular swelling, pain, trismus, or nonspecific TMJ dysfunction. However, because the posterior joint space is immediately adjacent to the external auditory canal, unusual otologic manifestations have also been described, including ear fullness, tinnitus, fluctuating canal masses, conductive symptoms, facial nerve palsy, trigeminal neuropathy, and intracranial extension. These uncommon presentations may delay diagnosis or shift attention toward primary otologic or neurologic pathologies.
+
+Magnetic resonance imaging is generally the most informative modality for evaluating periarticular TMJ cysts because it demonstrates the relationship of the lesion to the disc, retrodiscal tissues, and external auditory canal while also identifying associated internal derangement. Nevertheless, definitive distinction between ganglion and synovial cysts remains histopathologic, and immunohistochemical work has shown that standard histology alone can misclassify a subset of lesions. In this case report, we present a histologically confirmed ganglion cyst of the left TMJ causing dynamic EAC obstruction and position-dependent hearing loss, together with a focused review of comparable cases in the literature.
+
+2. Case Report
+
+Patient: 72-year-old woman
+Chief complaint: Complete or near-complete hearing loss in the left ear whenever teeth brought into occlusion; immediately reverses on mouth opening.
+Duration: 3-year history of bilateral preauricular pain (greater on left), intermittent headaches, left-sided tinnitus, and sensation of fullness in the left ear.
+PMH: Osteoarthritis, fibromyalgia, depression. Surgical history: hysterectomy, cholecystectomy, rhytidectomy (facelift) 2008, Mohs surgery for BCC of left conchal region 2016. Medications: citalopram, amitriptyline, trazodone, naproxen. Allergy: doxycycline.
+
+Clinical examination:
+- Dynamic narrowing of left external auditory canal (EAC): with mandible in maximal intercuspation, canal became markedly constricted/almost completely occluded; with mouth opening, canal reopened.
+- Bilateral preauricular scars from prior facelift; healed scar left conchal region.
+- Grossly intact dentition with mild attrition; stable reproducible occlusion.
+- Maximum interincisal opening: 52 mm with mild discomfort.
+- Bilateral preauricular tenderness; no clicking or crepitus.
+- Protrusive and lateral excursive movements: within normal limits.
+- CN V and VII: intact.
+
+MRI findings:
+- Bilateral anterior disc displacement with reduction (ADDwR).
+- Left side: posterior meniscal cyst posterior to the joint, approximately 7 mm AP x 10 mm craniocaudal, best appreciated on sagittal images (open and closed mouth).
+- Differential: cystic change related to internal derangement, joint effusion, periarticular cystic lesion.
+
+Surgery (preauricular approach):
+- General anesthesia; preauricular approach through prior rhytidectomy incision; facial nerve monitoring.
+- Dissection through temporoparietal fascia; exposure of zygomatic arch and TMJ region.
+- Cystic lesion ~1.5 cm greatest operative dimension found adherent to posterior aspect of articular disc and retrodiscal tissues.
+- In closed-mouth position: lesion displaced posteriorly, contributed to obstruction of external auditory canal.
+- Small portion of disc excised en bloc with cyst; EAC preserved without violation.
+
+Pathology:
+- Gross: 2.4 x 2.1 x 1.0 cm cystic structure; homogeneous white cut surface; clear gelatinous fluid.
+- Histopathology: fibrous connective tissue wall; no epithelial or synovial lining identified.
+- Diagnosis: ganglion cyst (not synovial cyst).
+
+Outcomes:
+- 4 months: substantial hearing improvement; EAC patent bilaterally; residual mild intermittent preauricular discomfort.
+- 2 years: hearing in left ear returned to normal; preauricular pain resolved completely; no clinical recurrence.
+
+3. Discussion
+
+Pathogenesis:
+- Prevailing theory: myxoid degeneration of periarticular collagenous connective tissue caused by chronic stress, repetitive microtrauma, or degenerative change.
+- Synovial cysts: arise from herniation/outpouching of synovium under increased intra-articular pressure; defined by synovial lining.
+- Largest single-institution pathologic review (IHC-based): periarticular TMJ cysts may be more frequently synovial than ganglion.
+- Clinical/radiographic appearances of ganglion and synovial cysts can be very similar.
+
+Mechanism of dynamic EAC obstruction:
+- Closed mandible (occlusion) -> posterior condylar translation + soft tissue tension -> retrodiscal cystic mass shifts toward anterior EAC wall -> functional EAC narrowing.
+- Mouth opening -> joint relationship changes -> EAC lumen reopens.
+- Differentiates from primary middle ear disease, patulous eustachian tube, other otologic causes.
+
+Literature context for otologic TMJ cysts:
+- Eguchi et al.: ganglion cyst associated with TMJ osteoarthritis; EAC narrowed during mouth closure; aural fullness persisted despite treatment of joint disease.
+- EAC should be examined dynamically in cases of suspected posterior TMJ lesions.
+
+Differential diagnosis of periarticular TMJ cystic lesion:
+- Synovial cyst, ganglion cyst, parotid lesion, inflammatory pseudocyst, synovial chondromatosis, neoplasm.
+- Otologic DDx: exostoses, osteoma, canal cholesteatoma, inflammatory canal lesions, skull-base pathology.
+
+Imaging:
+- MRI: gold standard for relationship of lesion to disc, retrodiscal tissues, EAC; useful for surgical planning; cannot reliably distinguish ganglion vs synovial cyst (histopathology required).
+- CT: helpful when bony erosion or EAC involvement suspected.
+
+Treatment:
+- Open excision via preauricular approach: provides access to lateral and posterior joint region; allows simultaneous management of adherent capsular/discal tissue.
+- Favorable outcomes when cyst completely removed.
+- Recurrence described with incomplete excision or persistent joint pathology.
+- Histopathology: gold standard for definitive classification.
+
+4. Conclusions
+
+TMJ ganglion cysts are rare but should be considered when patients present with fluctuating otologic symptoms varying with mandibular position. In this case, a posterior TMJ ganglion cyst produced dynamic EAC obstruction and reproducible hearing loss when the mandible was closed. MRI was valuable in defining the lesion and its relationship to the joint and EAC. Open excision through a preauricular approach provided definitive diagnosis and durable symptom relief.
