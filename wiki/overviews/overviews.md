@@ -2,7 +2,7 @@
 title: "종합 — overviews"
 authors: navigation
 year: 2026
-date: 2026-08-29
+date: 2026-09-02
 doi: N/A
 source: navigation
 category: overviews
@@ -15,20 +15,20 @@ tags: [navigation, category-index, overviews]
 > [!summary] 한국어 핵심요약
 > - **분야**: 종합
 > - **범위**: Synthesis pages spanning multiple categories
-> - **수록 논문**: 281편
+> - **수록 논문**: 283편
 
 ## Three-line Summary
 
 **Scope**: Synthesis pages spanning multiple categories
-**Indexed papers**: 281 papers in `wiki/overviews/`.
+**Indexed papers**: 283 papers in `wiki/overviews/`.
 
 ## 세줄요약
 
 **분야**: 종합
-**수록 논문**: 281편
+**수록 논문**: 283편
 **하위 카테고리**: 없음
 
-## Papers in this Category (281)
+## Papers in this Category (283)
 
 | Paper |
 |---|
@@ -161,6 +161,7 @@ tags: [navigation, category-index, overviews]
 | [[implant-primary-stability-arp-macrogeometry-low-density-overview|저골밀도·ARP 이식 부위 임플란트 1차 안정성 — 매크로형태와 식립 위치 효과]] |
 | [[implant-prosthesis-misfit-connection-mbl-overview|Implant-Prosthesis Misfit & Abutment-Connection → Marginal Bone Loss (임플란트 보철 부적합·연결부 → 변연골 종합)]] |
 | [[implant-prosthesis-retention-screw-vs-cement-overview|Implant Prosthesis Retention — Screw vs Cement vs SCRP (임플란트 보철 유지 — 나사·시멘트·SCRP 종합)]] |
+| [[implant-removal-criteria-overview|Overview: Dental Implant Removal — Criteria, Decision Framework, and Evidence Gaps]] |
 | [[implant-spacing-proximity-crestal-bone-overview|Implant Spacing & Proximity → Interproximal Crestal Bone (임플란트 간격·근접 → 치간 치조정골 종합)]] |
 | [[implant-supported-prosthesis-ceramic-material-selection-overview|Implant-Supported Prosthesis Ceramic Material Selection — Survival, Fatigue, and Decision Framework]] |
 | [[implant-surface-comparison|임플란트 표면처리 비교 — SLA·CA·UV 광기능화·골밀도화 매트릭스]] |
@@ -289,6 +290,7 @@ tags: [navigation, category-index, overviews]
 | [[tmd-tinnitus-somatosensory-association-overview|TMD–이명(Tinnitus) 연관성과 관리 — 체성감각 이명 종합]] |
 | [[tmj-inflammatory-arthritis-overview|Overview: Inflammatory Arthritis of the TMJ (JIA · RA · PsA) — Silent Disease, Unstable Imaging, Empty Treatment Evidence]] |
 | [[tmj-pharmacological-intraarticular-treatment-overview|TMJ Pharmacological & Intraarticular Treatment — Evidence Synthesis by Subtype]] |
+| [[tmj-retrodiscal-tissue-disc-displacement-overview|Overview: The Retrodiscal Tissue in TMJ Disc Displacement — Not a Brake, but the Compartment That Adapts, Hurts, and Shows Up on MRI]] |
 | [[tooth-wear-vdo-space-creation-overview|치아 마모 수복공간 확보 — Dahl · VDO 거상 · 치관연장: 네 개의 축과 근거 경사 (Tooth Wear: Creating Restorative Space)]] |
 | [[tooth-whitening-clinical-decision-overview|Tooth Whitening / Bleaching — Clinical Decision Overview (치아미백 임상결정 종합)]] |
 | [[toothbrush-design-dentifrice-plaque-index-methodology-synthesis|Toothbrush Design, Dentifrice Actives & Plaque-Index Methodology: Evidence Synthesis]] |
