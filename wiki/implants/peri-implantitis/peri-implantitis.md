@@ -2,7 +2,7 @@
 title: "임플란트·주위염 — peri-implantitis"
 authors: navigation
 year: 2026
-date: 2026-08-29
+date: 2026-09-01
 doi: N/A
 source: navigation
 category: implants/peri-implantitis
@@ -15,20 +15,20 @@ tags: [navigation, category-index, peri-implantitis]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·주위염
 > - **범위**: Peri-implantitis prevalence, risk factors, non-surgical/surgical treatment, surface decontamination, GBR for peri-implant defects
-> - **수록 논문**: 66편
+> - **수록 논문**: 67편
 
 ## Three-line Summary
 
 **Scope**: Peri-implantitis prevalence, risk factors, non-surgical/surgical treatment, surface decontamination, GBR for peri-implant defects
-**Indexed papers**: 66 papers in `wiki/implants/peri-implantitis/`.
+**Indexed papers**: 67 papers in `wiki/implants/peri-implantitis/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·주위염
-**수록 논문**: 66편
+**수록 논문**: 67편
 **하위 카테고리**: 없음
 
-## Papers in this Category (66)
+## Papers in this Category (67)
 
 | Paper |
 |---|
@@ -67,6 +67,7 @@ tags: [navigation, category-index, peri-implantitis]
 | [[kim-2026-implant-angulation-peri-implant-bone|The Effect of Implant Angulation and Clinical Risk Factors on Peri-implant Bone Changes: A 5-Year Retrospective Study]] |
 | [[kotsakis-2025-microbial-dysbiosis-titanium-release-peri-implantitis|Microbial Dysbiosis, Titanium Release, and Peri-implantitis]] |
 | [[lanzetti-2024-full-arch-prostheses-supportive-peri-implant-care|How often should implant-supported full-arch dental prostheses be removed for supportive peri-implant care to maintain peri-implant health? A systematic review]] |
+| [[lee-2025-self-powered-oxygen-microbubble|Self-Powered Oxygen Microbubble Generator for Decontamination of Anaerobic Biofilm-Fouled Bioimplants]] |
 | [[lin-2025-influence-of-prosthetic-designs|The influence of prosthetic designs on peri-implant bone loss: An AO/AAP systematic review and meta-analysis]] |
 | [[lu-2026-minocycline-local-delivery-peri-implantitis-multicenter-rct|Adjunctive Use of Locally Delivered 2% Minocycline in the Nonsurgical Treatment of Peri-Implantitis: A Multicenter Randomized Placebo-Controlled Trial]] |
 | [[mahardawi-2023-lack-keratinized-mucosa-peri-implantitis-sr-ma|The lack of keratinized mucosa as a risk factor for peri-implantitis: a systematic review and meta-analysis]] |
