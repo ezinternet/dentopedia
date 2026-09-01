@@ -1,0 +1,64 @@
+Title: Identification of sensory fiber types in mouse temporomandibular joint tissues
+Authors: Alfaro JJ, Wang E, Akopian AN et al.
+Journal: Scientific Reports. 2025;15(1):32210
+DOI: 10.1038/s41598-025-17508-x
+PMID: 40890331
+PMCID: PMC12402272
+Published: 2025-09-01
+Source: PubMed Central full text
+
+---
+
+Introduction
+
+Temporomandibular joint disorders (TMJDs) represent a diverse group of conditions that disrupt the normal function of the temporomandibular joint (TMJ). These disorders can present in both painful and non-painful forms, with pain often being the most debilitating and difficult symptom to manage. Painful TMJDs can be further classified into subtypes such as osteoarthritis, rheumatoid arthritis, and idiopathic disorders. Each subtype is characterized by distinct pathophysiological mechanisms, which contribute to alterations in the sensory processing within the joint. This understanding highlights the critical importance of characterizing the sensory innervation of the TMJ. These nerves transmit nociceptive signals that may be altered or amplified in TMJDs, contributing to persistent orofacial pain.
+
+The joint receives its innervation primarily from branches of the mandibular division (V3) of the trigeminal nerve. Specifically, the auriculotemporal nerve (ATN), the masseteric nerve (MN), and the anterior deep temporal nerve are the principal contributors to TMJ sensory input. Prior studies indicate a predominance of C- and A-fiber nociceptors in TMJ tissues, with TMJ afferents expressing neuropeptides such as calcitonin gene-related peptide (CGRP), substance P (SP), neuropeptide Y (NPY), and nitric oxide synthase (NOS). CGRP-positive nerves were found in the capsule and the synovial membrane, but not in the articular disc of sheep. In vivo extracellular recordings from TMJ structures, ATN single nerve preparations, demonstrated that TMJ nerves were classified into the following four subtypes: Adelta-high-threshold mechanonociceptor (Adelta-HTMR) (12.1%), Adelta-polymodal nociceptor (Adelta-POLY) (36.4%), C-HTMR (12.1%), and C-POLY (39.4%). Overall, despite accumulated data on sensory neurons innervating TMJ, there is limited information regarding the precise make-up of neuronal subtypes innervating the TMJ tissues, such as the joint capsule and associated synovium, articular disc, anterior disc, and retrodisc.
+
+The development of single-cell RNA sequencing technology opened avenues for precise identifications of sensory nerve subtypes in tissues using IHC with well-defined antibody markers and reporter mouse lines highlighting expressions of sensory neuronal markers. Accordingly, the main aim of this study was to identify nerve subtypes in each TMJ tissue using IHC and reporter mouse lines.
+
+Results
+
+TMJ tissues examined in this study
+
+TMJ tissues exhibit distinct functions and pathophysiological profiles, and are believed to undergo unique nerve plasticity, gene expression changes and non-neuronal cellular plasticity during TMJD. Therefore, this study focused on characterizing the innervation and vascularization of individual TMJ structures. We generated serial cryosections that sequentially passed through the mandible, temporal bone, and a thin layer of the joint capsule, which contains synovial tissue in its deeper layers. As the sections progressed, they encompassed the lateral pterygoid muscle (LPM), condyle, anterior disc, articular disc, and retrodiscal tissue (aka retrodisc). Innervation and vascularization were visualized and quantitatively analyzed in cryo sections containing the joint capsule, and in the deeper TMJ sections containing condyle, articular disc, anterior disc and retrodisc. After visual analysis of many sections, it remains unclear whether the neurovascular elements observed in the anterior disc and retrodisc extend into and are functionally present within the articular disc itself. Thus, some portions of retrodiscal tissue can overlay the articular disc. Therefore, innervation and vascularization were not associated to the articular disc due to inconclusive evidence of nerves or blood vessels in this TMJ tissue.
+
+Myelinated and unmyelinated sensory afferents in TMJ tissues
+
+All sensory nerves were identified using the pan-neuronal marker pgp9.5, while myelinated fibers were specifically labeled with NFH antibodies. We did not reliably detect pgp9.5+ nerves in the articular disc. Myelinated nerves (pgp9.5+/NFH+) were 28.1 +/- 7.6% (n=5) of pgp9.5 in the joint capsule; 30.3 +/- 6.1% (n=6) of pgp9.5 in the anterior disc and 30.2 +/- 12% (n=6) of pgp9.5 in the retrodisc. Remaining pgp9.5 fibers, around 70%, in these TMJ tissues were un-myelinated. This pattern indicates significantly higher innervation by unmyelinated fibers across these TMJ tissues (2-way ANOVA; F(1,28)=29.72; P<0.0001; n=5-6). Overall, in contrast to masticatory muscles, which typically exhibit a higher proportion of myelinated fibers, TMJ structures were predominantly innervated by unmyelinated sensory nerves. The relative proportions of myelinated and unmyelinated fibers were consistent across the joint capsule, anterior disc, and retrodisc.
+
+Peptidergic and Htr3a-positive sensory afferents in TMJ tissues
+
+We next assessed the presence of CGRP+ peptidergic nerves in TMJ tissues. The joint capsule (95.9 +/- 16.6%; n=5) and anterior disc (98.9 +/- 12.4%; n=5) were almost entirely populated by peptidergic sensory fibers, while the retrodiscal tissue contained approximately 75% CGRP+/pgp9.5+ nerves (75.4 +/- 9.9%; n=5). Further analysis using CGRP reporter mice and co-labeling with CGRP and NFH antibodies confirmed that roughly 70% of peptidergic fibers were unmyelinated (73.4 +/- 2.3%; n=5 for joint capsule; 70.3 +/- 2.4%; n=5 for anterior disc; 71.6 +/- 2.6%; n=5 for retrodisc), with the remaining ~30% myelinated. Notably, TMJ tissues showed minimal-to-no (<5%) CGRP-/NFH+ fibers (0.8 +/- 0.6%; n=5 for joint capsule; 6.9 +/- 3.4%; n=5 for anterior disc; 2.9 +/- 2.9%; n=5 for retrodisc), non-peptidergic myelinated sensory nerves typically classified as non-nociceptive Abeta low-threshold mechanoreceptors (A-LTMRs).
+
+Given that several peptidergic fiber subtypes express Htr3a, we examined this further using Htr3a/tdTomato reporter mice. In the joint capsule (99.9 +/- 13.6%; n=6) and anterior disc (90.3 +/- 14.1%; n=5), Htr3a+ fibers almost completely overlapped with pgp9.5+ nerves, whereas the retrodisc (46.6 +/- 5.5%; n=4) showed only ~45% overlap. As expected, approximately 70% of Htr3a+ fibers were unmyelinated, with the remainder being myelinated; and with almost no Htr3a-/NFH+ fibers detected. In summary, nearly all sensory nerves in the joint capsule and anterior disc are peptidergic and co-express Htr3a. In contrast, the retrodisc contains a distinct subset (~20%) of non-peptidergic, Htr3a- fibers, along with some peptidergic fibers that are likely Htr3a-.
+
+Presence of non-peptidergic sensory afferents in TMJ tissues
+
+Using MrgprD/tdTomato reporter mice, MrgprD+ fibers were scarce in the joint capsule (4.1 +/- 1.9%; n=4) and anterior disc (3.7 +/- 2.2%; n=4), and many sections did not contain MrgprD nerves. In contrast, the retrodisc showed a modestly higher presence of MrgprD+ fibers (10.8 +/- 3.2%; n=4). Facial skin displayed dense MrgprD+ innervation as a positive control.
+
+MrgprA3+ nerves were detected only sporadically: joint capsule (4.4 +/- 3.2%; n=5), retrodisc (6.4 +/- 3.2%; n=4), none in anterior disc (0.6 +/- 0.6%; n=4). MrgprC11+ nerves: joint capsule (3.7 +/- 3.7%; n=4), anterior disc (2.9 +/- 3.0%; n=4), retrodisc (6.8 +/- 3.5%; n=6).
+
+Sst+ fibers were not detected in the anterior disc (0%; n=5) or retrodisc (0%; n=6); joint capsule contained a small proportion (5.7 +/- 3.4%; n=6).
+
+No PV+ (parvalbumin-positive) nerve fibers were detected in the joint capsule, anterior disc, or retrodisc (0% in 6-12 sections scanned per tissue) — confirming absence of non-nociceptive Abeta-LTMRs.
+
+Innervation of vasculature in TMJ tissues
+
+Using alpha-SMA as a marker for vascular smooth muscle, blood vessels were clearly identified in all TMJ tissues except the articular disc. Both sensory and sympathetic nerves were detected in the joint capsule, anterior disc, and retrodisc, but not in the articular disc. Approximately 40% of all TH+ sympathetic nerves of the entire TMJ were found in close association with blood vessels, while sensory pgp9.5+ fibers showed a slightly lower association at around 35%. TMJ tissues, excluding the articular disc, are well vascularized and receive comparable innervation from both sensory and sympathetic nerves.
+
+Discussion
+
+TMJ tissues are primarily innervated by peptidergic unmyelinated sensory fibers, with the remaining fibers consisting largely of peptidergic myelinated afferents. These results are consistent with previous anatomical and electrophysiological studies. While prior research mainly focused on the joint capsule, this study expanded the anatomical mapping to include the anterior disc and retrodisc. The retrodisc contained approximately 20% non-peptidergic fibers, including MrgprD+, MrgprA3+, and MrgprC11+ subtypes, fiber types largely absent in other TMJ regions. In contrast, the joint capsule uniquely harbored Sst+ fibers. A further distinguishing feature was the expression of Htr3a: nearly all fibers in the joint capsule and anterior disc expressed Htr3a, whereas only about 50% of retrodisc fibers did. These differences suggest that the retrodisc is innervated by a more diverse and molecularly distinct population of sensory neurons.
+
+Electrophysiological studies revealed that TMJ is innervated by C- and A-fiber nociceptors. Building on this, recent integrative analyses of single-cell RNA sequencing data from mouse and human trigeminal ganglia (TG) have identified several molecularly distinct subtypes of peptidergic nociceptors. In light of findings, the retrodisc may contain the full range of peptidergic C- and A-nociceptor subtypes. Conversely, the joint capsule and anterior disc, which show near-complete Htr3a expression, are likely innervated mainly by Oprk1+ and Dcn+ C-fiber nociceptors.
+
+Materials and Methods
+
+Mouse model: adult wild-type C57Bl/6 mice (10-23 weeks old) + multiple transgenic reporter lines (CGRP/tdTomato, MrgprD/tdTomato, MrgprA3/tdTomato, MrgprC11/tdTomato, Htr3a/tdTomato, Sst/tdTomato, PV/tdTomato).
+IHC markers: pgp9.5 (pan-sensory), NFH (myelinated), CGRP (peptidergic), TH (sympathetic), alpha-SMA (vascular smooth muscle).
+Processing: transcardiac perfusion with 4% PFA; decalcification in 10% EDTA for 2 weeks; cryosectioned at 20 um.
+Imaging: Keyence BZ-X810 all-in-one microscope or Nikon AX confocal microscope.
+Counting: manual fiber counting from >=3 independent tissue sections per condition; data as mean +/- SEM.
+Statistics: GraphPad Prism 10; 2-way ANOVA + Bonferroni post-hoc; chi-square with Fisher's exact test; unpaired t-tests; p<0.05 significant.
+Ethics: IACUC protocol 20220069AR, UTHSCSA.
