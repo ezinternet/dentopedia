@@ -19,7 +19,9 @@ evidence_level: narrative_review
 
 # Virulence Factors of the Oral Spirochete Treponema denticola
 
-**Why Ingested**: Socransky 1998 places *T. denticola* in the red complex community context, but no dedicated virulence mechanism page exists in this wiki. Dashper 2011 fills this gap with a systematic review of molecular determinants enabling this spirochete to cause tissue damage, evade host immunity, and synergize with co-infecting periodontal pathogens. References: [[oral-microbiology/socransky-1998-microbial-complexes-subgingival-plaque]]
+## Why Ingested
+
+Socransky 1998 places *T. denticola* in the red complex community context, but no dedicated virulence mechanism page exists in this wiki. Dashper 2011 fills this gap with a systematic review of molecular determinants enabling this spirochete to cause tissue damage, evade host immunity, and synergize with co-infecting periodontal pathogens. References: [[oral-microbiology/socransky-1998-microbial-complexes-subgingival-plaque]]
 
 > **Note**: PMC full text was unavailable for this article. This sources page is built from the structured abstract and MeSH terms. Full-text extraction should be revisited if PMC access improves.
 
