@@ -1,0 +1,19 @@
+Structure-Function Relationships of Temporomandibular Retrodiscal Tissue
+Coombs MC, Petersen JM, Wright GJ, Lu SH, Damon BJ, Yao H.
+Journal of Dental Research (2017) 96(6):647-653. DOI: 10.1177/0022034517696458
+PMID 28530471 / PMC5444618
+
+ABSTRACT-ONLY — full text not retrieved from PMC (empty body via get_full_text_article).
+
+Abstract:
+
+It is estimated that 2% to 4% of the US population will seek treatment for temporomandibular joint (TMJ) symptoms, typically occurring with anterior disc displacement. The temporomandibular retrodiscal tissue (RDT) has been postulated to restrict pathologic disc displacement. To elucidate RDT function, understanding regional RDT biomechanics and ultrastructure is required. No prior biomechanical analysis has determined regional variations in RDT properties or associated biomechanical outcomes with regional variations in collagen and elastin organization. The purpose of this study was to determine direction- and region-dependent tensile biomechanical characteristics and regional fibrillar arrangement of porcine RDT.
+
+Incremental stress relaxation experiments were performed on 20 porcine RDT specimens, with strain increments from 5% to 50%, a ramp-strain rate of 2% per second, and relaxation periods of 2.5 min. Tensile characteristics were determined between temporal and condylar regions and anteroposterior and mediolateral directions. RDT preparations were imaged using second-harmonic generation (SHG) microscopy for both collagen and elastin.
+
+Young's modulus showed significant differences by region (P < 0.001) and strain (P < 0.001). Young's modulus was <1 MPa from 5% to 20% strain, before increasing from 20% to 50% strain to a maximum of 2.9 MPa. Young's modulus trended higher in the temporal region and mediolateral direction. Instantaneous and relaxed moduli showed no significant difference by region or direction. Collagen arrangement was most organized near the disc boundary, with disorganization increasing posteriorly. Elastin was present at the disc boundary and RDT mid-body.
+
+Porcine RDT demonstrated region- and strain-dependent variations in tensile moduli, associated with regional differences in collagen and elastin. The small tensile moduli suggest that the RDT is not resistive to pathologic disc displacement. Further biomechanical analysis of the RDT is required to fully define RDT functional roles. Understanding regional variations in tissue stiffness and ultrastructure for TMJ components is critical to understanding joint function and for the long-term goal of improving TMJ disorder treatment strategies.
+
+Keywords: collagen and elastin network; second-harmonic generation microscopy; stress relaxation; temporomandibular joint; tensile biomechanics; tissue ultrastructure.
+MeSH: Animals; Biomechanical Phenomena; Elastic Modulus; Magnetic Resonance Imaging; Male; Stress, Mechanical; Swine; Temporomandibular Joint Disc; Tensile Strength.
