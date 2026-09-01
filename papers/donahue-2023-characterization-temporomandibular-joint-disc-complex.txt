@@ -1,0 +1,22 @@
+Characterization of the Temporomandibular Joint Disc Complex in the Yucatan Minipig
+Donahue RP, Kallins EG, Hu JC, Athanasiou KA.
+Tissue Engineering Part A (2023) 29(15-16):439-448. DOI: 10.1089/ten.TEA.2023.0011
+PMID 37073459 / PMC10440658
+
+ABSTRACT-ONLY — full text not retrieved from PMC (empty body via get_full_text_article).
+
+Abstract:
+
+The temporomandibular joint (TMJ) disc complex (i.e., the TMJ disc and its six attachments) is crucial to everyday functions such as mastication and speaking. The TMJ can be afflicted by many conditions, including disc displacement and defects. Pathologies of the TMJ disc complex most commonly present first as anterior disc displacement, which the field hypothesizes may implicate the two posterior attachments. As a result of anterior disc displacement, defects may develop in the lateral disc complex. Tissue engineering is poised to improve treatment paradigms for these indications of the TMJ disc complex by engineering biomimetic implants, but, first, gold-standard design criteria for such implants should be established through characterization studies.
+
+This study's objective was to characterize the structural, mechanical, biochemical, and crosslinking differences among the two posterior attachments and the lateral disc in the Yucatan minipig, a well-accepted TMJ animal model.
+
+In tension, it was found that the posterior inferior attachment (PIA) was significantly stiffer and stronger by 2.13 and 2.30 times, respectively, than the posterior superior attachment (PSA). It was found that collagen in both attachments was primarily aligned mediolaterally; however, the lateral disc was much more aligned and anisotropic than either attachment. Among the three locations, the PSA exhibited the greatest degree of heterogeneity and highest proportion of fat vacuoles. The PIA and lateral disc were 1.93 and 1.91 times more collagenous, respectively, by dry weight (DW) than the PSA. The PIA also exhibited 1.78 times higher crosslinking per DW than the PSA. Glycosaminoglycan per DW was significantly higher in the lateral disc by 1.48 and 5.39 times than the PIA and PSA, respectively.
+
+Together, these results establish design criteria for tissue-engineering of the TMJ disc complex and indicate that the attachments are less fibrocartilaginous than the disc, while still significantly contributing to the mechanical stability of the TMJ disc complex during articulation. These results also support the biomechanical function of the PIA and PSA, suggesting that the stiffer PIA anchors the disc to the mandibular condyle during articulation, while the softer PSA serves to allow translation over the articular eminence.
+
+Impact Statement: Characterization of the temporomandibular joint (TMJ) disc complex (i.e., the disc and its attachments) has important implications for those aiming to tissue-engineer functional replacements and can help elucidate its biomechanical function. For example, the findings shown here suggest that the stiffer posterior inferior attachment anchors the disc during articulation, while the softer posterior superior attachment allows translation over the articular eminence.
+
+Keywords: TMJ disc; TMJ disc attachments; TMJ disc complex; characterization; tissue engineering.
+MeSH: Animals; Swine; Temporomandibular Joint Disc; Swine, Miniature; Collagen; Glycosaminoglycans; Tissue Engineering.
+Funding: Research Support, N.I.H., Extramural.
