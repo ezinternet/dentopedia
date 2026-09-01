@@ -2123,6 +2123,10 @@ tags: []
 - [[tmj/khalifeh-2024-trismus-following-inferior-alveolar-nerve-block]] — IANB 후 아관긴장증(Trismus) 증례: 50일 경과 완전회복, 단계별 관리 프로토콜(온찜질·운동치료·NSAIDs·스테로이드)
 - [[tmj/alfaro-2025-sensory-fiber-types-mouse-tmj]] — 마우스 TMJ 감각신경 섬유 아형 지도: 관절낭·전방원판은 CGRP+ 99%, 후방조직(retrodisc)은 CGRP+ 75% + 비펩타이드성 20%(MrgprD/A3/C11) — 원판 자체엔 신경 없음
 - [[tmj/akbar-2026-tmj-ganglion-cyst-ear-obstruction-case-report]] — TMJ 후방 신경절낭종(ganglion cyst)이 하악 교합 시 외이도(EAC) 동적 폐쇄·체위성 난청 유발 → 이전접근법 적출 후 2년 완치(증례보고)
+- [[tmj/kakimoto-2024-comparison-t2-values-displaced-unilateral]] — 편측 원판변위(uADD) 65명 vs 정상 17명 1.5T MRI T2 매핑: 후방조직 T2가 환측(41.6ms)뿐 아니라 무증상 반대측(37.8ms)에서도 정상(34.4ms)보다 상승 — 비정복성(ADDwoR)이 거의 전부 설명; 삼출·OA·골수부종 없으면 변위 단독 효과 없음(단면연구)
+- [[tmj/yuan-2026-distinct-mural-cells-fibroblasts-drive]] — 돼지 편측 ADD scRNA-seq: 후방조직 적응성 재형성의 세포기전 — 전구 섬유아세포 FB2 증식 + 혈관주위세포 유래 신규 벽세포 MC4 출현, MC4→FB2 FGF2/BMP5→ERK1/2·SMAD1/5/9로 섬유연골화; zaprinast(PDE5억제제)가 시험관·랫드에서 적응 촉진(동물)
+- [[tmj/coombs-2017-structure-function-relationships-temporomandibular-retrodiscal]] — 돼지 후방조직 20검체 인장시험 + SHG현미경: 영률 생리범위 <1 MPa(50% 변형서야 2.9 MPa) — 후방조직은 병적 전방 원판변위를 저지할 만큼 뻣뻣하지 않음, 고전적 "후방 제동" 모델 반박(abstract-only)
+- [[tmj/donahue-2023-characterization-temporomandibular-joint-disc-complex]] — 유카탄 미니피그 후방 부착부 특성화: 후하방(PIA)이 후상방(PSA)보다 강성 2.13배·콜라겐 1.93배 — 뻣뻣한 PIA는 원판을 과두에 고정, 무른 PSA는 관절융기 활주 허용; 조직공학 설계기준(abstract-only)
 
 ## 보툴리눔 톡신 — 약물 (Botulinum Toxin / BTX-A)
 - [[botulinum-toxin/de-la-torre-canales-2024-botulinum-toxin-a-myogenous]] — Umbrella review (Drugs 2024, 18 SR): BoNT-A vs M-TMD — 위약보다는 우월·표준치료엔 비우월; 근육·골 부작용 위험으로 "last option" 권고
