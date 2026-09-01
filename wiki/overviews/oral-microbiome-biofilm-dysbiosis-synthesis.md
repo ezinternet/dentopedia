@@ -10,7 +10,7 @@ evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
-tags: [oral-microbiome, biofilm, eps-matrix, matrixome, glucosyltransferase, dysbiosis, psd-model, keystone-pathogen, p-gingivalis, f-nucleatum, s-mutans, c-albicans, caries, periodontitis, oscc, overview]
+tags: [oral-microbiome, biofilm, eps-matrix, matrixome, glucosyltransferase, dysbiosis, psd-model, keystone-pathogen, p-gingivalis, f-nucleatum, s-mutans, c-albicans, treponema-denticola, tannerella-forsythia, aggregatibacter, lactobacillus, red-complex, virulence-factors, caries, periodontitis, oscc, overview]
 relations:
   - type: contradicts
     target: scannapieco-2021-dysbiosis-oral-microbiome-periodontitis
@@ -41,11 +41,17 @@ relations:
 > - **★임상 결정점 7 — 치료반응을 예측하는 것은 술식이 아니라 치료 전 미생물총이다(Li 2025, RCT 이차분석)**: Stage II/III 치주염 86명에서 치은연하 소파술(Scaling and Root Planing, SRP) 단독 vs SRP+집중 항플라크(0.12% 클로르헥시딘 3개월 + 치간청결기구 6개월)를 비교해 6개월 시점 '건강 평면(Healthy Plane, HPL)'까지의 거리를 16S rRNA로 측정 — 유의 감소는 SRP+항플라크군에서만. 그러나 **랜덤포레스트 분석에서 치료 반응의 더 강한 예측자는 치료 종류가 아니라 기저(baseline) 미생물총 조성**이었다. 즉 "누가 반응할 것인가"는 임상 staging이 아니라 치료 전 프로파일링이 답할 문제 — 미생물총 기반 개인화 치주치료 패러다임의 실증 근거. [확인]
 > - **골 항상성 축이 추가됨(Hu 2024, homeostatic medicine 프레임)**: 구강 dysbiosis → 전신 골 항상성 교란을 4개 질환으로 매핑 — 류마티스관절염(P. gingivalis의 PAD 효소 → 단백질 시트룰린화 → anti-CCP 항체), 골다공증(RANKL/OPG 불균형 + 장-골 축 교란), 골관절염(TNF-α·IL-1β·IL-6 전신 유출 → 연골 분해), 골수염(구강총의 혈행성 파종). 기전이 질환마다 **다르다**는 점이 핵심 — "구강세균이 뼈에 나쁘다"는 뭉뚱그림을 4개 경로로 분해. 치료 전망은 프로바이오틱스·중간엽줄기세포(MSC)·구강 미생물총 이식(OMT). [확인, 서술적 리뷰]
 > - **개입수단 7종 정리(Rajasekaran 2024)**: 세균·진균·고세균·바이러스 ~700종 생태계를 개관하며 미생물총 조절 개입을 7범주로 정리 — 프로바이오틱스(특히 L. reuteri·L. rhamnosus), 자일리톨, 클로르헥시딘 함수, 불소, 에센셜오일, 오일풀링, 펩타이드 항균제. 각 기전 근거를 제시하나 서술적 리뷰 수준이며 효과크기 비교는 없음. [확인, 서술적 리뷰]
+> - **★종-특이적 독성인자 추가 (2026-09-01 신규 ingest 5편)**
+> - **우식 생태계 계승 축(Spatafora 2024)**: ECC·성인 우식 메타게노믹스 종합 — 우식 생태는 단일종 감염이 아닌 **생태학적 계승**: 식이당·pH 하강→ *S. mutans* 선택적 증식 → 산성 환경에 적응한 *Lactobacillus* 군(L. fermentum, L. gasseri 등)이 병소를 심화, Prevotella·Atopobium 등도 합류. 건강 치아에 S. mutans가 없어도 우식이 발생 가능하며 반대로 S. mutans가 있어도 균형 생태에서는 발생 없음 — 종 존재보다 생태학적 맥락(산 노출 빈도·완충능)이 결정적. [확인]
+> - ***Treponema denticola* 독성인자 축(Dashper 2011)**: 홍색복합체 구성균 중 가장 다형성 독성인자 — **dentilisin (CTLP, PrtP)**: 접촉 의존적 세포독성 프로테아제, FN·라미닌·피브리노겐·IL-8 분해로 숙주 방어 해체; **MspA**: 외막 통로단백(pore-forming), 세포독성·세포외기질 분해효소 활성; **편모(periplasmic flagella)**: 내막과 외막 사이를 회전해 점도 높은 치주낭 삼출물 속 이동성 부여, 다른 복합체 구성균과 비교불가한 침습력; 보체 저항·혈청 내성·숙주 면역 회피 다중 기전. 홍색복합체 내 *P. gingivalis*와 물리적·기능적 synergism(gingipain↔Td 성장). [확인]
+> - ***Tannerella forsythia* 숙주 상호작용 전략(Schäffer 2024)**: **S층(S-layer)**: TfsA/TfsB 두 당단백 O-당화로 형성된 세포벽 외피 — 보체 C3b 퇴적 차단·식균 저항; **BspA**: 류신-풍부-반복(LRR) 단백, TLR2·피브로넥틴·피브리노겐 결합으로 면역 교란 + 세포간극 부착; **시알리다아제(NanH1/2/3)**: 시알산 제거로 숙주 세포·점액·면역글로불린 마스킹 해제 → 세균 부착 촉진 + 영양 획득; **T9SS(제9형 분비계)**: 그람음성 구강세균 특이적 분비 경로, 독성인자 및 BspA 수출; O-당화 결핍 돌연변이는 독성 극적 감소 — 당화가 핵심 virulence 조절자. [확인]
+> - ***Aggregatibacter actinomycetemcomitans* (Aa) 면역조절(Herbert 2016)**: **LtxA(leukotoxin)**: RTX 계열 세공형성 독소, 호중구·대식세포 Ly-G/CXCR7 수용체 결합 → 피롭토시스(pyroptosis) 유발로 IL-1β 대량 방출 → 골파괴; JP2 유전형(혈청형 b, 372 bp 프로모터 결실)은 LtxA 발현 20배 → **국소 공격성 치주염(LAP)** 핵심 균주; **CDT(세포독성 팽창 독소)**: G₂/M 세포주기 정지·DNA 손상·T세포 면역억제; **비전형 LPS(지질 A)**: TLR4 자극이 약하고 BPI 저항성 → 면역 스텔스; **GroEL**: RANKL 유도 파골세포 활성화 직접 촉진. [확인]
+> - ***Fusobacterium nucleatum* 공생-병원체 딜레마(Nayak 2025)**: **FadA 부착소**: E-카드헤린 결합 → β-카테닌/Wnt 신호 활성 → 상피 증식·침습(OSCC·대장암 연관의 핵심 분자 기전); **Fap2**: Gal-GalNAc 수용체(종양 세포 표면 과발현) 결합 + T세포 TIGIT 수용체 결합 → NK세포·T세포 억제 → 면역 미세환경 교란; **뷰티르산(butyrate) 이중 역할**: 저농도=항염(HDAC 저해·Treg 유도), 고농도=상피 세포자멸·호중구 기능 저하 — 농도 의존적 역할 전환이 Fn의 공생-병원체 스펙트럼을 결정하는 핵심; **가교종(bridge organism)**: 초기 정착균(S. sanguinis·S. gordonii)과 후기 병원체(P. gingivalis·T. denticola)를 동시에 응집하는 생태적 위치 — PSD 모델에서 Fn이 orange complex를 이루는 이유. [확인]
 > - **최신 landmark 종합(Baker 2024, Nature Reviews Microbiology)**: CLASI-FISH 현미경으로 종수준 biogeography 정밀화 — S. salivarius/mutans/sanguinis 등이 협측점막/치태/설배부에 특이적 공간분포를 이루고, S. mutans의 "rotund" 생물막 구조가 국소 탈회를 유발함을 시각적으로 입증. Lamont 2018을 잇는 생태축 spine 논문으로 추가.
 
 ## Three-line Summary
 
-Synthesis of 19 oral-microbiology review papers (anchored on Socransky 1998 community-complex and Costerton 1999 biofilm paradigms) framing caries and periodontitis as community dysbiosis across three axes: EPS/matrixome matrix (glucan-driven acidic microenvironment, pH 4.5–5.5, with >2 h buffering resistance); microbial ecology (~1,000 oral species, ~50 per site, health=generalist → disease=specialist, refined by Baker 2024's species-level biogeography); and pathogenesis (periodontitis = P. gingivalis keystone-driven Polymicrobial Synergy & Dysbiosis [PSD] despite <0.01% abundance, strain-specific per Murugaiyan 2024, though Scannapieco 2021 counters that common periodontitis is better described as increased-diversity "personalized pathology" than true dysbiosis; caries = sucrose-EPS feedforward loop amplified by intraspecies S. mutans diversity and Candida interactions); Kozak 2023 extends the oral-systemic link list to COPD, COVID-19 severity, Alzheimer's disease, diabetes, and pancreatic/colorectal cancer.
+Synthesis of 24 oral-microbiology review papers (anchored on Socransky 1998 community-complex and Costerton 1999 biofilm paradigms) framing caries and periodontitis as community dysbiosis across three axes: EPS/matrixome matrix (glucan-driven acidic microenvironment, pH 4.5–5.5, with >2 h buffering resistance); microbial ecology (~1,000 oral species, ~50 per site, health=generalist → disease=specialist, refined by Baker 2024's species-level biogeography); and pathogenesis (periodontitis = P. gingivalis keystone-driven Polymicrobial Synergy & Dysbiosis [PSD] despite <0.01% abundance, strain-specific per Murugaiyan 2024, though Scannapieco 2021 counters that common periodontitis is better described as increased-diversity "personalized pathology" than true dysbiosis; caries = sucrose-EPS feedforward loop amplified by intraspecies S. mutans diversity and Candida interactions); Kozak 2023 extends the oral-systemic link list to COPD, COVID-19 severity, Alzheimer's disease, diabetes, and pancreatic/colorectal cancer.
 
 NSPT (non-surgical periodontal therapy) provides measurable microbiome-level efficacy — red/orange complex pathogens (P. gingivalis, T. denticola, T. forsythia, A. actinomycetemcomitans) decline significantly 3–6 months post-SRP, with additional reduction under supportive periodontal care (Krajewski 2025 SR+MA, 115 studies); emerging microbiome-based therapies (probiotics, bacteriophage, predatory bacteria Bdellovibrio) show early promise but lack human periodontal RCTs.
 
@@ -53,7 +59,7 @@ The rational intervention targets are the EPS matrix, inter-species signaling, a
 
 ## 세줄요약
 
-구강 미생물·바이오필름 review 19편 통합(Socransky 1998 complex paradigm + Costerton 1999 biofilm paradigm 2개 historical foundation 포함): 3축 — ①매트릭스(EPS/matrixome): glucan이 caries 바이오필름 핵심 virulence, 국소 산성 미세환경(pH 4.5–5.5) 2시간 이상 지속; ②생태(microbiome): ~1,000종·부위당 ~50종, 건강=generalist·질환=specialist(Baker 2024가 종수준 biogeography로 정밀화); ③병인(dysbiosis): 치주염은 keystone pathogen P. gingivalis(<0.01%)가 주도하는 PSD 모델·균주특이적(Murugaiyan 2024)이나, Scannapieco 2021은 흔한 치주염이 진짜 dysbiosis(다양성 감소)가 아닌 다양성 *증가*형 personalized pathology에 가깝다고 반박; caries는 sucrose-EPS feedforward loop — 둘 다 군집 수준 현상. Kozak 2023은 구강-전신 연관을 COPD·COVID-19·알츠하이머·당뇨·췌장/대장암까지 확장.
+구강 미생물·바이오필름 review 24편 통합(Socransky 1998 complex paradigm + Costerton 1999 biofilm paradigm 2개 historical foundation 포함): 3축 — ①매트릭스(EPS/matrixome): glucan이 caries 바이오필름 핵심 virulence, 국소 산성 미세환경(pH 4.5–5.5) 2시간 이상 지속; ②생태(microbiome): ~1,000종·부위당 ~50종, 건강=generalist·질환=specialist(Baker 2024가 종수준 biogeography로 정밀화); ③병인(dysbiosis): 치주염은 keystone pathogen P. gingivalis(<0.01%)가 주도하는 PSD 모델·균주특이적(Murugaiyan 2024)이나, Scannapieco 2021은 흔한 치주염이 진짜 dysbiosis(다양성 감소)가 아닌 다양성 *증가*형 personalized pathology에 가깝다고 반박; caries는 sucrose-EPS feedforward loop — 둘 다 군집 수준 현상. Kozak 2023은 구강-전신 연관을 COPD·COVID-19·알츠하이머·당뇨·췌장/대장암까지 확장.
 
 비외과적 치주치료(Non-Surgical Periodontal Therapy, NSPT)는 미생물 수준 효과 실증 — SRP 후 3–6개월에 red/orange complex 병원균 유의 감소, 지지치주치료(Supportive Periodontal Care, SPC) 시 추가 감소(Krajewski 2025 SR+MA, 115편); 미생물총 기반 치료(probiotics/포식세균/박테리오파지)는 초기 단계.
 
@@ -117,6 +123,11 @@ Together these two define the page's intellectual coordinate system: Socransky s
 | 전신연관(골 항상성) | [[oral-microbiology/hu-2024-oral-microbiome-bone-related-diseases-homeostasis]] | narrative-review | 구강 dysbiosis → 골 항상성 교란을 4경로로 분해: RA(P. gingivalis PAD→시트룰린화→anti-CCP), 골다공증(RANKL/OPG+장-골축), OA(TNF-α·IL-1β·IL-6 전신유출), 골수염(혈행성 파종); 치료 전망 probiotics·MSC·OMT |
 | 전신연관·개입 개관 | [[oral-microbiology/rajasekaran-2024-oral-microbiome-systemic-health-review]] | narrative-review | 세균·진균·고세균·바이러스 ~700종 생태계 개관 + 미생물총 조절 개입 7범주(프로바이오틱스·자일리톨·CHX·불소·에센셜오일·오일풀링·펩타이드 항균제); Pg-알츠하이머, Fn-대장암, 구강세균 유래 시트룰린화 항원-RA |
 | 치료 효과(NSPT) | [[oral-microbiology/krajewski-2025-nspt-subgingival-microbiota-sr-ma]] | sr+ma | 115편 SR+MA — NSPT가 Pg·Td·Tf·Aa·Pi·En·Cr 평균 개수 유의 감소(3–6개월), SPC 추가 시 Pg·Td 추가 감소; Socransky red/orange complex 감소·blue/white complex 증가(12개월 유지) |
+| 종-특이적(우식 생태) | [[oral-microbiology/spatafora-2024-evolving-microbiome-dental-caries]] | narrative-review | 우식 미생물 생태 계승: S. mutans 선택적 증식 후 Lactobacillus 산성화 심화; 종 존재보다 생태 맥락(산 노출·완충능)이 결정적 — 메타게노믹스 기반 우식 생태학 종합 |
+| 종-특이적(Td 독성) | [[oral-microbiology/dashper-2011-virulence-factors-treponema-denticola]] | narrative-review | T. denticola dentilisin(CTLP)·MspA·편모 다형성 독성인자; 점도 높은 치주낭 침투 이동성 + 보체 회피; P. gingivalis와 gingipain 의존적 상호 성장 촉진 |
+| 종-특이적(Tf 독성) | [[oral-microbiology/schaffer-2024-intriguing-strategies-tannerella-forsythia-host]] | narrative-review | T. forsythia S층(TfsA/TfsB O-당화)·BspA·시알리다아제·T9SS; O-당화 결핍 시 독성 극적 감소 — 당화가 핵심 virulence 조절자 |
+| 종-특이적(Aa 독성) | [[oral-microbiology/herbert-2016-aggregatibacter-actinomycetemcomitans-immunoregulator-periodontal]] | narrative-review | Aa LtxA(RTX toxin, JP2형 20배 발현)→피롭토시스·IL-1β 방출, CDT 세포주기 정지, 비전형 LPS(TLR4 약자극·BPI 저항), GroEL→RANKL; LAP 병인 기전 |
+| 종-특이적(Fn 이중성) | [[oral-microbiology/nayak-2025-commensalism-fusobacterium-nucleatum-dilemma]] | narrative-review | F. nucleatum FadA→E-카드헤린·Wnt; Fap2→TIGIT 면역억제; 뷰티르산 저농도=항염·고농도=세포독성; 가교종으로 orange complex 형성에 필수 — 공생-병원체 딜레마 |
 
 ## Clinical Decision Points
 
@@ -140,6 +151,14 @@ Together these two define the page's intellectual coordinate system: Socransky s
 - P. gingivalis 균주-수준 typing(Murugaiyan 2024)은 단면 연구 1건뿐 — 종단적 균주 획득/전환이 치주염 진행을 예측하는지 미확인.
 
 ## Related Papers
+
+### 신규 ingest cluster (2026-09-01 — 충치균·치주균 핵심종 독성인자)
+
+- [[oral-microbiology/spatafora-2024-evolving-microbiome-dental-caries]] — 우식 미생물 생태 계승(S. mutans→Lactobacillus), 메타게노믹스 종합 (extends 우식 생태 축)
+- [[oral-microbiology/dashper-2011-virulence-factors-treponema-denticola]] — T. denticola dentilisin·MspA·편모; 홍색복합체 내 P. gingivalis와 상호 성장 촉진 (extends PSD/red-complex 축)
+- [[oral-microbiology/schaffer-2024-intriguing-strategies-tannerella-forsythia-host]] — T. forsythia S층·BspA·시알리다아제·T9SS; O-당화 기반 독성 조절 (extends PSD/red-complex 축)
+- [[oral-microbiology/herbert-2016-aggregatibacter-actinomycetemcomitans-immunoregulator-periodontal]] — Aa LtxA·CDT·비전형 LPS; JP2 혈청형 b → LAP (extends 병인 축)
+- [[oral-microbiology/nayak-2025-commensalism-fusobacterium-nucleatum-dilemma]] — F. nucleatum FadA·Fap2·butyrate 이중성; 가교종 생태적 위치 (extends orange-complex/bridge 축)
 
 ### 신규 ingest cluster (2026-07-15)
 
