@@ -2,7 +2,7 @@
 title: "디지털워크플로우 — digital-workflow"
 authors: navigation
 year: 2026
-date: 2026-08-11
+date: 2026-09-01
 doi: N/A
 source: navigation
 category: digital-workflow
@@ -15,20 +15,20 @@ tags: [navigation, category-index, digital-workflow]
 > [!summary] 한국어 핵심요약
 > - **분야**: 디지털워크플로우
 > - **범위**: IOS accuracy, CBCT, CAD/CAM, guided surgery
-> - **수록 논문**: 43편
+> - **수록 논문**: 44편
 
 ## Three-line Summary
 
 **Scope**: IOS accuracy, CBCT, CAD/CAM, guided surgery
-**Indexed papers**: 43 papers in `wiki/digital-workflow/`.
+**Indexed papers**: 44 papers in `wiki/digital-workflow/`.
 
 ## 세줄요약
 
 **분야**: 디지털워크플로우
-**수록 논문**: 43편
+**수록 논문**: 44편
 **하위 카테고리**: 없음
 
-## Papers in this Category (43)
+## Papers in this Category (44)
 
 | Paper |
 |---|
@@ -47,6 +47,7 @@ tags: [navigation, category-index, digital-workflow]
 | [[iqbal-2025-chatgpt-healthcare-umbrella-review|Impact of large language model (ChatGPT) in healthcare: an umbrella review and evidence synthesis]] |
 | [[jamil-2020-surgeon-reliability-implant-high-risk-panoramic|The reliability of surgeons to avoid traumatic insertion of dental implants into high-risk regions: a panoramic radiograph study]] |
 | [[jkda-2025-63-5-003|Comparison of marginal and internal fit of zirconia crowns fabricated by three-dimensional printing with different offset parameters: A preliminary pilot study]] |
+| [[lee-2019-full-mouth-rehabilitation-reduced|Full mouth rehabilitation in a patient with reduced vertical dimension due to numerous tooth loss and excessive worn dentition: A case report]] |
 | [[lee-2025-ai-dentistry-emerging-applications-narrative|Artificial intelligence in dentistry: Exploring emerging applications and future prospects]] |
 | [[lu-2021-digital-stackable-osteotomy-template-precision|Immediate Precision of the Digital Osteotomy Template in the Digital Stackable Template: A Clinical Study]] |
 | [[luz-2018-maxillary-sinus-3d-cbct-evaluation|3D-evaluation of the maxillary sinus in cone-beam computed tomography]] |
