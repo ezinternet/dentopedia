@@ -12,7 +12,7 @@ full_text: true
 
 ## Why Ingested
 
-Fills the gap in caries microbiome ecology. We hold S. mutans-specific papers (bowen-2011, koo-2013, momeni-2024) and general oral microbiome reviews (baker-2024, kozak-2023), but no paper covering caries dysbiosis ecology holistically — from pioneer species succession through metagenomics and metatranscriptomics to treatment. This 2024 narrative review by Tanner lab (Forsyth-lineage) synthesizes over 100 years of caries microbiology with modern multi-omics, providing the canonical reference for caries microbiome ecology in the wiki.
+Fills the gap in caries microbiome ecology. We hold S. mutans-specific papers ([[oral-microbiology/bowen-2011-streptococcus-mutans-glucosyltransferases]], [[oral-microbiology/koo-2013-exopolysaccharides-matrix-biofilm-virulence]], [[oral-microbiology/momeni-2024-intraspecies-interactions-streptococcus-mutans]]) and general oral microbiome reviews ([[oral-microbiology/baker-2024-oral-microbiome-diversity-biogeography-health]], [[oral-microbiology/kozak-2023-oral-microbiome-development-diseases]]), but no paper covering caries dysbiosis ecology holistically — from pioneer species succession through metagenomics and metatranscriptomics to treatment. This 2024 narrative review by Tanner lab (Forsyth-lineage) synthesizes over 100 years of caries microbiology with modern multi-omics, providing the canonical reference for caries microbiome ecology in the wiki.
 
 ## Three-line Summary
 
