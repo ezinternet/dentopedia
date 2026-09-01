@@ -3305,6 +3305,11 @@ tags: []
 - [[oral-microbiology/li-2025-subgingival-microbiome-nspt-antiplaque]] — Li 2025 · rct(2차분석) · Stage II/III 치주염 86명 SRP vs SRP+항균요법(CHX+치간청결기): 16S 치하미생물총 변화 비교; 항균 보조가 병원균 감소에 추가 기여 (DOI 10.1002/JPER.24-0141)
 - [[oral-microbiology/hu-2024-oral-microbiome-bone-related-diseases-homeostasis]] — Hu 2024 · narrative-review · 구강 이상균총→골 항상성 교란 경로(RA·골관절염·골다공증) 종합; 마이크로바이옴 기반 골질환 치료 전망 (DOI 10.1016/j.jare.2024.08.019)
 - [[oral-microbiology/rajasekaran-2024-oral-microbiome-systemic-health-review]] — Rajasekaran 2024 · narrative-review · 구강 마이크로바이옴 ~700종 생태계·이상균총 기전·CVD·DM·RA·암 등 전신질환 연결 종합 (DOI 10.3390/microorganisms12091797)
+- [[oral-microbiology/spatafora-2024-evolving-microbiome-dental-caries]] — Spatafora 2024 · narrative-review · 충치 미생물군유전체 생태 진화: S. mutans·Lactobacillus·Prevotella 등 산성화 세균의 역할, 메타게노믹스 기반 충치 생태학 종합 리뷰 (Microorganisms 2024)
+- [[oral-microbiology/dashper-2011-virulence-factors-treponema-denticola]] — Dashper 2011 · narrative-review · 트레포네마 덴티콜라 (Treponema denticola) 독성인자 종합: 덴틸리신 (dentilisin)·MspA·편모·면역회피 기전, 홍색복합체 구성균 병원성 (J Dent Res 2011)
+- [[oral-microbiology/schaffer-2024-intriguing-strategies-tannerella-forsythia-host]] — Schäffer 2024 · narrative-review · 타네렐라 포르시티아 (Tannerella forsythia) 숙주 상호작용: S층·BspA·시알리다아제·T9SS·O-당화 기반 독성인자 및 면역회피 기전 (Front Oral Health 2024)
+- [[oral-microbiology/herbert-2016-aggregatibacter-actinomycetemcomitans-immunoregulator-periodontal]] — Herbert 2016 · narrative-review · 응집간균 (Aggregatibacter actinomycetemcomitans, Aa) 면역조절: LtxA·CDT·LPS, 국소 공격성 치주염 (LAP) 기전 및 치조골 소실 (Mol Oral Microbiol 2016)
+- [[oral-microbiology/nayak-2025-commensalism-fusobacterium-nucleatum-dilemma]] — Nayak 2025 · narrative-review · 방추형 간균 (Fusobacterium nucleatum) 공생-병원체 딜레마: FadA 부착소·면역 미세환경·뷰티르산 이중 역할, 가교종으로서 치주 생태계 역할 (JISP 2025)
 
 ## 치아침식 (Dental Erosion) — NEW category (added 2026-06-07, batch j)
 - [[dental-erosion/gomez-2026-anti-erosive-dentifrices-umbrella-review]] — Gómez 2026 · sr+ma (umbrella, 8개 SR; PRISMA·AMSTAR 2·ConQual): **항침식 치약** — 불소>무불소, **stannous(SnF₂·multi-ion)이 NaF/NaMFP보다 가장 일관되게 우수**(certainty 중등도), Ca기반·biomimetic은 이질적·근거 낮음; 단 in vitro/in situ·단기 위주라 임상 ETW 감소 입증은 아님 (DOI 10.1016/j.jdent.2026.106608)
