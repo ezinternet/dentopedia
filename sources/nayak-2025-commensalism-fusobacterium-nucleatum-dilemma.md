@@ -17,6 +17,22 @@ source_collection: pubmed-abstract
 
 # Sources: Nayak 2025 — Commensalism of Fusobacterium nucleatum
 
+## Three-line Summary
+
+**Background:** *Fusobacterium nucleatum* is a gram-negative oral anaerobe that acts as the canonical bridging species in subgingival biofilm, linking early gram-positive colonizers to late-arriving gram-negative periodontal pathogens.
+
+**Key findings:** The FadA adhesin (conserved in oral strains, variable extraorally) binds E-cadherin to invade host cells and activate NF-κB; under stress it forms amyloid FadA that promotes biofilm and induces bone loss. Butyric acid plays a dual role — anti-inflammatory energy source at low concentrations but ROS-mediated osteoblast damage at elevated levels. LPS triggers NLRP3 → IL-1β; a serine protease cleaves IgA for immune evasion; F. nucleatum also induces EMT and suppresses neutrophil oxidative function.
+
+**Implication:** F. nucleatum exemplifies the commensal-pathobiont dilemma: it maintains mucosal homeostasis (beta-defensin induction) under healthy conditions yet orchestrates multi-pathway periodontal destruction and systemic dissemination (preterm birth, colorectal cancer) when dysbiosis permits.
+
+## 세줄요약
+
+**배경:** 방추형 간균 (Fusobacterium nucleatum, F. nucleatum)은 치주 생물막에서 초기 그람 양성 정착균과 후기 그람 음성 치주 병원균을 연결하는 가교종 (Bridging Species)의 전형이다.
+
+**핵심 발견:** 부착소 (Adhesin) FadA는 구강 균주에서 고도로 보존되어 E-cadherin 결합 → NF-κB 활성화 → 염증을 유발하며, 스트레스 시 아밀로이드 FadA로 전환되어 생물막 강화 및 골소실을 초래한다. 뷰티르산 (Butyric Acid)은 저농도에서는 항염 에너지원이나 고농도에서는 ROS를 통해 골아세포를 손상시킨다. LPS → NLRP3 → IL-1β 경로와 세린 프로테아제 기반 IgA 절단, 상피-간엽 전환 (Epithelial-Mesenchymal Transition, EMT) 유도, 중성구 기능 억제가 복합적으로 작용한다.
+
+**임상 시사:** F. nucleatum은 건강 상태에서는 방어 펩타이드 유도 등 공생 기능을 하지만, 치주 환경 악화 시 병원체로 전환되어 조산·대장암 등 전신 질환과 연결되는 공생-병원체 딜레마 (Commensal-Pathobiont Dilemma)의 대표 사례다.
+
 ## Why Ingested
 
 F. nucleatum is the canonical bridging species in subgingival biofilm. We already have [[oral-microbiology/mcilvanna-2021-fusobacterium-nucleatum-oral-cancer]] covering F. nucleatum in oral cancer. This paper fills the periodontal virulence angle — commensal-to-pathobiont transition, FadA adhesin mechanistics, immune evasion, and butyric acid duality. Extends our F. nucleatum coverage beyond cancer into its foundational periodontal role.
