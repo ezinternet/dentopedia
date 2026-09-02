@@ -52,12 +52,15 @@ no evidence that relaxing 2007 guidelines increased VGS-IE frequency or mortalit
 - Hypertrophic cardiomyopathy
 - Most congenital defects (unless meeting above criteria)
 
-## 5. Antibiotic Protocol
-| Situation | Drug | Dose | Timing |
+## 5. Antibiotic Protocol (2021 update — Table 5)
+| Situation | Drug | Dose (adult) | Timing |
 |---|---|---|---|
-| Standard | Amoxicillin | 2g PO (adults) | 30–60 min before |
-| Penicillin allergic | Clindamycin 600mg OR cephalexin 2g | PO | 30–60 min before |
-| Cannot take oral | Ampicillin 2g or cefazolin 1g | IM/IV | 30 min before |
+| Standard (oral) | Amoxicillin | 2g PO | 30–60 min before |
+| Unable to take oral | Ampicillin OR cefazolin/ceftriaxone | 2g IM/IV | 30 min before |
+| Allergic to penicillin/ampicillin — oral | Cephalexin 2g OR azithromycin/clarithromycin 500mg OR doxycycline 100mg | PO | 30–60 min before |
+| Allergic to penicillin/ampicillin + unable to take oral | Cefazolin or ceftriaxone 1g | IM/IV | 30 min before |
+
+> **Clindamycin removed (2021):** the 2021 statement explicitly withdrew clindamycin from every regimen — verbatim: *"Clindamycin is no longer recommended for antibiotic prophylaxis for a dental procedure"* and *"its use is no longer suggested in this document."* Reason: single-dose clindamycin can cause fatal *C. difficile* infection (Thornhill UK study, ref 59a) and more frequent/severe reactions than other AP drugs. Earlier versions of this page carried the pre-2007 clindamycin 600mg row in error — corrected 2026-09-02 against the PDF.
 
 ## 6. Limitations
 - Randomized controlled trials confirming/refuting efficacy not available (ethical reasons)
