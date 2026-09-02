@@ -59,5 +59,5 @@ Systematic review evaluating osseodensification (OD) as an alternative to conven
 - [[sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis]] — SR+MA for OD in sinus
 - [[implants/isq/althobaiti-2023-osseodensification-conventional-drilling-isq-sr]] — ISQ outcome SR
 - [[implants/isq/konuklu-2026-five-osteotomy-protocols-isq-rct]] — RCT (5 protocols)
-- [[overviews/d4-bone-densah-protocol]] — D4 chairside 인터랙티브
+- [[interactives/2026-05-18_d4-bone-densah-protocol]] — D4 chairside 인터랙티브
 - [[overviews/sinus-lift-technique-selection]] — sinus 술식 선택 매트릭스
