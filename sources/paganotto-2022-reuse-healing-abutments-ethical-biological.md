@@ -88,7 +88,7 @@ Online 3-section questionnaire distributed to a randomized sample of CRO/RS-regi
 - [[infection-control/eswaramurthy-2021-contemporary-sterilization-protocols-healing-abutments]] — SR: no protocol restores 100% virgin surface, consistent with the residual-matter risk under-perceived here.
 - [[infection-control/burioni-2024-could-dental-material-reuse-play]] — in vitro: residual protein persists after reprocessing.
 - [[infection-control/abreu-2024-assessment-detoxification-strategies-used-dental]] — in vitro: inflammation persists → do not reuse.
-- [[infection-control/kyaw-2023-effect-chemical-electrochemical-decontamination-protocols]] — RCT: reuse acceptable with a combined protocol (the optimistic pole).
+- [[infection-control/kyaw-2023-effect-chemical-electrochemical-decontamination-protocols]] — in vitro (not a clinical RCT): reuse acceptable with a combined protocol (the optimistic pole).
 - [[infection-control/naghsh-2024-comparison-four-decontamination-procedures-reusing]] — in vitro: NaOCl + air polishing effective.
 - [[infection-control/cetinsoy-2026-ultrasonication-assisted-sequential-chemical-removal]] — in vitro: 1% NaOCl removes 99.7% biofilm.
 
