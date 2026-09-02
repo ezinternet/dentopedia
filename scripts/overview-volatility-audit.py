@@ -334,13 +334,25 @@ def extract_members(ov_path: Path, ov_fm: dict, meta: dict) -> tuple[list[str], 
     source_papers frontmatter 는 262편 중 90편에만 있다(2026-08-02 실측). 나머지 172편은
     본문 Related Papers 섹션의 wikilink 로만 논문을 건다. frontmatter 만 읽으면 그 172편이
     구성원 0으로 잡혀 ③④⑤가 통째로 죽는다 — 그래서 본문 wikilink 를 합집합으로 넣는다.
-    다른 overview 를 가리키는 링크는 제외한다(구성 논문이 아니라 형제 종합이다)."""
+    다른 overview 를 가리키는 링크는 제외한다(구성 논문이 아니라 형제 종합이다).
+
+    interactives/·agenda/·slides/·peer-review/·note-meeting/ 로 시작하는 링크도 제외한다 —
+    이들은 wiki/ 밖에 살아 build_page_index()가 절대 못 보므로(WIKI_DIR.rglob("*.md")만
+    스캔), 정상적으로 존재하는 chairside 도구·산출물 링크가 매번 '미해결 참조'로 오탐된다
+    (2026-09-02, osseodensification-clinical-applications 의 d4-bone-densah-protocol
+    interactives/ 이관에서 발견— 최소 zirconia-inlay-bonding·isq-rfa-loading-simulator-v1
+    2건도 같은 사각지대에 조용히 있었음, 다만 그 페이지들이 관찰 tier라 노출 안 됐을 뿐)."""
+    NON_PAPER_PREFIXES = ("interactives/", "agenda/", "slides/", "peer-review/", "note-meeting/")
     refs = [to_stem(x) for x in ov_fm["source_papers"]]
     try:
         body = ov_path.read_text(encoding="utf-8", errors="replace")
     except OSError:
         body = ""
-    refs += [to_stem(m) for m in WIKILINK_IN_BODY_RE.findall(body)]
+    body_refs = [
+        m for m in WIKILINK_IN_BODY_RE.findall(body)
+        if not m.strip().startswith(NON_PAPER_PREFIXES)
+    ]
+    refs += [to_stem(m) for m in body_refs]
 
     known, missing, seen = [], [], set()
     for r in refs:
