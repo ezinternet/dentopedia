@@ -166,7 +166,7 @@ graph LR
     M -.-> Mech["[[huwais-2017-novel-osseous-densification-osteotomy-primary-stability]]"]
     S1 -.-> P1["[[starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis]]<br/>[[el-ghobashy-osseodensification-vs-osteotome-transcrestal-sinus]]"]
     S2 -.-> P2["[[lopez-valverde-2025-bone-expansion-compaction-densification-narrow-crests-sr-ma]]<br/>[[overviews/ridge-split-expansion-technique-selection-overview]]"]
-    S3 -.-> P3["[[overviews/d4-bone-densah-protocol]]<br/>[[konuklu-2026-five-osteotomy-protocols-isq-rct]]"]
+    S3 -.-> P3["[[interactives/2026-05-18_d4-bone-densah-protocol]]<br/>[[konuklu-2026-five-osteotomy-protocols-isq-rct]]"]
     S4 -.-> P4["immediate spoke<br/>(pending)"]
 ```
 
@@ -240,7 +240,7 @@ graph LR
 - [[implants/osseodensification/neiva-2018-effects-osseodensification-astra-tx-ev|Neiva 2018 (sheep e-poster)]] [animal] — IT/RFA OD 압도적 우위, EV 시스템에서 BIC/BAFO도 ↑.
 - [[implants/osseodensification/barbera-millan-2021-primary-stability-low-density-osseodensification|Barberá-Millán et al. 2021 (in vitro, 돼지경골 Type IV, n=55/group)]] [확인, in-vitro] — **대조군이 plain drilling이 아닌 conventional under-drilling(UD)**이라는 점에서 가장 엄격한 D4 비교: OD가 UD 대비 IT 21.72 vs 8.87 Ncm (≈2.4배, p=0.000)·ISQ 69.75 vs 65.16 (p=0.001) 모두 유의 우위. torque–ISQ는 sigmoid 관계로 ISQ가 ~75.6에서 plateau (그 이상의 torque는 추가 안정성 없음). 즉 **이미 under-sizing한 soft-bone 프로토콜조차 OD가 능가** — D4에서 OD의 1차 안정성 이득을 보강.
 - [[implants/osseodensification/tao-2025-optimizing-osseodensification-drilling-implant|Tao et al. 2025 (in vitro CNC, Type IV foam 0.160 g/cm³)]] [확인, in-vitro] — **드릴링 파라미터 최적화** 관점을 추가: OD vs CD(BLT tapered)에서 IT 11.73 vs 7.77 N·m·RT 9.28 vs 6.65 N·m (모두 p<0.001)로 torque 우위·골벽 결함 적음·발열 낮음이나 **ISQ는 동등(47.1 vs 46.7, p=0.86)** — torque↑/ISQ NS divergence를 CNC 통제 환경에서 깔끔하게 재현. 권장 OD 셋팅 **1500 rpm·0.04 mm·z⁻¹·관수 동반**(Type IV).
-- [[wiki/overviews/d4-bone-densah-protocol|d4-bone-densah-protocol]] — **D4 전용 chairside 인터랙티브**.
+- [[interactives/2026-05-18_d4-bone-densah-protocol|d4-bone-densah-protocol]] — **D4 전용 chairside 인터랙티브**.
 
 **반례 (논쟁) — living-document 갱신 핵심**:
 - [[implants/osseodensification/mohammadi-2025-osseodensification-conventional-low-density-bone-sr-ma|Mohammadi et al. 2025 SR+MA (7편)]] [확인, 반례] — 저밀도골 OD vs CD에서 **1차 ISQ MD=4.13 (p=0.13)·2차 MD=1.78 (p=0.11) 모두 NS**, MBL·PI도 NS. 12개월 PD·구개측 CBL만 OD 유리. 결론: "장기 우월성 입증 부족".
@@ -272,7 +272,7 @@ graph LR
 |---------|-----------|---------------|
 | 상악동저 보강 | SR+MA (low GRADE) + 천공 데이터 | [[sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis]] + [[sinus-lift/transcrestal/mazor-2024-maxillary-sinus-membrane-perforation-osseodensification]] + [[overviews/sinus-lift-technique-selection]] |
 | 좁은 치조골릉 | **SR+MA (10편/241명)** — BD 견고·CE/ISQ 출판편향 고위험 | [[bone-regeneration/lopez-valverde-2025-bone-expansion-compaction-densification-narrow-crests-sr-ma]] + [[overviews/ridge-split-expansion-technique-selection-overview]] (GBR/RS/OD 술식 서열) |
-| 저밀도골 D3–D4 | SR + RCT + 사체/임상 (**SR+MA 반례 2편**) | 지지: [[implants/isq/althobaiti-2023-osseodensification-conventional-drilling-isq-sr]] + [[implants/osseodensification/bergamo-2021-osseodensification-effect-implants-primary-secondary]] + [[implants/osseodensification/mercier-2022-osseodensification-primary-stability-cadavers]] + [[implants/osseodensification/moghaddas-2025-osseodensification-standard-drilling-isq-itv]] + [[implants/osseodensification/koutouzis-2025-osteotomy-preparation-short-implants-stability]] (직경 의존) + [[implants/osseodensification/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric]] (CW-OD) + [[implants/osseodensification/de-lima-2026-osseodensification-vs-conventional-drilling-exvivo]] (IT↑/ISQ NS, WF 키트) ↔ 반례: [[implants/osseodensification/mohammadi-2025-osseodensification-conventional-low-density-bone-sr-ma]] + [[implants/osseodensification/shilpi-2025-osseodensification-conventional-low-bone-sr-ma]] + [[implants/isq/al-ahmari-2022-osseodensification-conventional-low-density-jaw]] + [[overviews/d4-bone-densah-protocol]] |
+| 저밀도골 D3–D4 | SR + RCT + 사체/임상 (**SR+MA 반례 2편**) | 지지: [[implants/isq/althobaiti-2023-osseodensification-conventional-drilling-isq-sr]] + [[implants/osseodensification/bergamo-2021-osseodensification-effect-implants-primary-secondary]] + [[implants/osseodensification/mercier-2022-osseodensification-primary-stability-cadavers]] + [[implants/osseodensification/moghaddas-2025-osseodensification-standard-drilling-isq-itv]] + [[implants/osseodensification/koutouzis-2025-osteotomy-preparation-short-implants-stability]] (직경 의존) + [[implants/osseodensification/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric]] (CW-OD) + [[implants/osseodensification/de-lima-2026-osseodensification-vs-conventional-drilling-exvivo]] (IT↑/ISQ NS, WF 키트) ↔ 반례: [[implants/osseodensification/mohammadi-2025-osseodensification-conventional-low-density-bone-sr-ma]] + [[implants/osseodensification/shilpi-2025-osseodensification-conventional-low-bone-sr-ma]] + [[implants/isq/al-ahmari-2022-osseodensification-conventional-low-density-jaw]] + [[interactives/2026-05-18_d4-bone-densah-protocol]] |
 | 즉시식립 | SR included only | (spoke pending) |
 | 메커니즘 원위 | in-vitro 원위논문 | [[implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] |
 | **기전 — 형상 vs 방향** | 정형외과 벤치 (초록 전용, 전이 한계 심각) | [[implants/osteotomy-thermal/batz-2019-influence-broach-design-bone-friction]] |
@@ -302,7 +302,7 @@ Living document 원칙으로 명시:
 ## 6. 원장 메모 체크리스트
 
 - 4 시나리오 중 본인 임상에 자주 등장 = (1) 상악동저 보강 (2) D3–D4 저밀도골 — 두 spoke가 가장 active
-- D4 chairside 시 [[overviews/d4-bone-densah-protocol]] 인터랙티브 우선 참조
+- D4 chairside 시 [[interactives/2026-05-18_d4-bone-densah-protocol]] 인터랙티브 우선 참조
 - sinus 술식 선택 시 [[overviews/sinus-lift-technique-selection]] 매트릭스에서 OD vs lateral 결정
 - **좁은 ridge spoke는 2026-07-17 개통** (López-Valverde 2025 SR+MA) — 단 결론이 "OD 우선"이 아니다: 골밀도 이득만 단단하고 확장량·ISQ는 출판편향 고위험, 저자들은 GBR·crestal split이 가능하면 그쪽을 먼저 놓는다. 좁은 능선 술식 선택은 [[overviews/ridge-split-expansion-technique-selection-overview]]에서 결정
 - **즉시식립 spoke는 여전히 pending** — 추가 paper ingest 우선순위 P1 유지 (immediate implant OD SR)
@@ -358,7 +358,7 @@ Living document 원칙으로 명시:
 - [[implants/osteotomy-thermal/batz-2019-influence-broach-design-bone-friction]] — **형상 vs 방향 분리 계측** (THA 브로치, 소 해면골 준정적 벤치, 초록 전용): 방향 고정 후 예리함만 바꿔 무딘 추출형 +117%·압착형 +121% 밀도화(P=.005) → 방향이 아니라 형상이 밀도화를 정함(Rittipakorn CW-OD 지지); 밀도화를 깊이(P=.001)·최대크기(P=.008)로 분리한 유일 보유 논문. 치과 기구 미시험 — 전이 불가
 - [[implants/osseodensification/de-agostinho-neto-2026-in-vitro-evaluation-different-implant-systems]] — **극저밀도 바닥의 null** (소 늑골, SIN vs VERSAH vs MAXIMUS): 미세구조·토크 전부 NS(35 / 43.2 / 59.6 Ncm); 경부·체부·근단부 micro-CT 첫 계측 — 부위 차 없음 → HaeNaem 특허 전제(d2 ≪ d1) 미지지, 단 n=5–8 검정력 부족으로 반증 아님. "threshold of utility" vs 검정력 부족 미결
 
-- [[overviews/d4-bone-densah-protocol]] — D4 chairside 인터랙티브
+- [[interactives/2026-05-18_d4-bone-densah-protocol]] — D4 chairside 인터랙티브
 - [[overviews/sinus-lift-technique-selection]] — sinus 술식 선택
 - [[overviews/isq-loading-threshold]] — ISQ 부하 결정
 - [[overviews/ridge-split-expansion-technique-selection-overview]] — 좁은 능선 술식 서열 (GBR 4.04 > RS 3.66 > OD 2.15 mm; 단 시작 폭이 다름) — §3-2의 결정 지점
