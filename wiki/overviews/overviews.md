@@ -15,20 +15,20 @@ tags: [navigation, category-index, overviews]
 > [!summary] 한국어 핵심요약
 > - **분야**: 종합
 > - **범위**: Synthesis pages spanning multiple categories
-> - **수록 논문**: 285편
+> - **수록 논문**: 286편
 
 ## Three-line Summary
 
 **Scope**: Synthesis pages spanning multiple categories
-**Indexed papers**: 285 papers in `wiki/overviews/`.
+**Indexed papers**: 286 papers in `wiki/overviews/`.
 
 ## 세줄요약
 
 **분야**: 종합
-**수록 논문**: 285편
+**수록 논문**: 286편
 **하위 카테고리**: 없음
 
-## Papers in this Category (285)
+## Papers in this Category (286)
 
 | Paper |
 |---|
@@ -224,6 +224,7 @@ tags: [navigation, category-index, overviews]
 | [[pdl-periapical-pain-mechanism-overview|PDL·치근단 통증 기전 (Periapical PDL Pain Mechanism) — 근관치료 후 통증의 조직·신경 기반]] |
 | [[pdl-tissue-engineering-biomimetic-implant-overview|PDL Tissue Engineering & Biomimetic Implants — From Ligaplants to Stem Cell Biology]] |
 | [[pdrn-dentistry-evidence-synthesis|PDRN in Dentistry — Mechanism·Evidence Pyramid·Zone-Specific Effect Synthesis]] |
+| [[penicillin-allergy-dental-antibiotic-overview|Penicillin Allergy Countermeasures in Dentistry — The Label, the Cross-Reactivity Myth, and the Fall of Clindamycin]] |
 | [[peri-implant-emergence-profile-soft-tissue-conditioning-overview|임플란트 Emergence Profile 설계·맞춤 연조직 컨디셔닝 종합]] |
 | [[peri-implant-soft-tissue-dehiscence-prevention|Peri-Implant Soft Tissue Dehiscence (PSTD) Prevention & Management — Synthesis]] |
 | [[peri-implantitis-management-overview|임플란트주위염(Peri-implantitis) — 역학·예방·치료 종합]] |
