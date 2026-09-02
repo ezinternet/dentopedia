@@ -73,6 +73,6 @@ The review concludes that while reuse of HAs is a cost-effective measure, thorou
 - [[infection-control/burioni-2024-could-dental-material-reuse-play]] — in vitro; residual protein persists after cleaning, consistent with the "no virgin surface" finding.
 - [[infection-control/abreu-2024-assessment-detoxification-strategies-used-dental]] — in vitro; inflammation persists despite detoxification, supporting caution against reuse.
 - [[infection-control/cetinsoy-2026-ultrasonication-assisted-sequential-chemical-removal]] — in vitro; 1% NaOCl removes 99.7% biofilm (a specific decontamination protocol quantifying the residual gap this SR flags).
-- [[infection-control/kyaw-2023-effect-chemical-electrochemical-decontamination-protocols]] — RCT; reuse acceptable with a combined decontamination protocol.
+- [[infection-control/kyaw-2023-effect-chemical-electrochemical-decontamination-protocols]] — in vitro (not a clinical RCT); reuse acceptable with a combined decontamination protocol.
 - [[infection-control/naghsh-2024-comparison-four-decontamination-procedures-reusing]] — in vitro; NaOCl + air polishing effective for reuse decontamination.
 - [[infection-control/paganotto-2022-reuse-healing-abutments-ethical-biological]] — survey; 98.1% reuse prevalence quantifies the practice gap this SR addresses.
