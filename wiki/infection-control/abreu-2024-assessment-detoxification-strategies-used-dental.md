@@ -72,7 +72,7 @@ The key finding is a **decoupling of cleanliness from biologic inertness**. The 
 ## Related Papers
 
 - [[infection-control/burioni-2024-could-dental-material-reuse-play]] — reinforces (both in vitro, anti-reuse pole; Burioni shows residual protein persists on cleaning, Abreu shows even cleaned surfaces stay inflammatory).
-- [[infection-control/kyaw-2023-effect-chemical-electrochemical-decontamination-protocols]] — **contradicts** on the biologic-response axis: Kyaw's RCT concludes reuse is acceptable with a combined chemical/electrochemical protocol, whereas Abreu finds that even the best-cleaned HAs remain inflammatory in vitro, so cleanliness alone does not justify reuse.
+- [[infection-control/kyaw-2023-effect-chemical-electrochemical-decontamination-protocols]] — **contradicts** on the biologic-response axis: Kyaw's in vitro study concludes reuse is acceptable with a combined chemical/electrochemical protocol, whereas Abreu finds that even the best-cleaned HAs remain inflammatory in vitro, so cleanliness alone does not justify reuse.
 - [[infection-control/eswaramurthy-2021-contemporary-sterilization-protocols-healing-abutments]] — SR concluding no protocol restores a 100% virgin surface; consistent with Abreu's failure to re-establish an inert surface.
 - [[infection-control/cetinsoy-2026-ultrasonication-assisted-sequential-chemical-removal]] — in vitro, 1% NaOCl removes 99.7% biofilm (cleanliness axis; does not test biologic response).
 - [[infection-control/naghsh-2024-comparison-four-decontamination-procedures-reusing]] — in vitro, NaOCl + air polishing effective for cleaning (cleanliness axis).
