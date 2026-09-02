@@ -19,6 +19,14 @@ evidence_level: narrative_review
 
 # Virulence Factors of the Oral Spirochete Treponema denticola
 
+## Three-line Summary
+
+*Treponema denticola* is an oral spirochete with a comprehensive suite of virulence factors — including the dentilisin protease complex, the major outer sheath protein MspA, flagella-driven motility, and immunomodulatory LPS — that enable tissue damage and immune evasion in subgingival biofilms. In animal co-infection models, *T. denticola* synergizes with *P. gingivalis* and *T. forsythia* (its red complex partners) to amplify alveolar bone resorption beyond what any single species causes alone. This 2011 narrative review consolidates molecular-level evidence and frames *T. denticola* virulence within the polymicrobial disease paradigm.
+
+## 세줄요약
+
+트레포네마 덴티콜라 (Treponema denticola)는 덴틸리신 (Dentilisin, CTLP)·주외막단백질 MspA·편모·면역조절성 지질다당류 (LPS) 등 다양한 독성인자를 보유하여 조직 파괴와 면역 회피를 동시에 수행한다. 동물 공감염 모델에서 포르피로모나스 긴기발리스 (Porphyromonas gingivalis)·타네렐라 포르사이시아 (Tannerella forsythia)와 상승적으로 치조골 흡수를 증폭시키며, 이는 홍색복합체 (Red Complex)의 군집 차원 병원성을 분자 수준에서 뒷받침한다. 2011년 내러티브 리뷰이며 PMC 전문 미제공으로 초록 기반 인제스트.
+
 ## Why Ingested
 
 Socransky 1998 places *T. denticola* in the red complex community context, but no dedicated virulence mechanism page exists in this wiki. Dashper 2011 fills this gap with a systematic review of molecular determinants enabling this spirochete to cause tissue damage, evade host immunity, and synergize with co-infecting periodontal pathogens. References: [[oral-microbiology/socransky-1998-microbial-complexes-subgingival-plaque]]
