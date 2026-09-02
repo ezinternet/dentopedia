@@ -3,7 +3,7 @@ title: "Commensalism of Fusobacterium nucleatum - The dilemma"
 authors: "Nayak S, Shetty ND, Kamath DG"
 year: 2025
 doi: 10.4103/jisp.jisp_286_23
-source: sources/nayak-2025-commensalism-fusobacterium-nucleatum-dilemma.md
+source: nayak-2025-commensalism-fusobacterium-nucleatum-dilemma.md
 category: oral-microbiology
 evidence_level: narrative-review
 source_collection: pubmed-abstract
