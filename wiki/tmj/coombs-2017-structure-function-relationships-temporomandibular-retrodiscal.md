@@ -6,7 +6,7 @@ date: 2017-03-06
 doi: 10.1177/0022034517696458
 pmcid: PMC5444618
 pmid: 28530471
-source: sources/coombs-2017-structure-function-relationships-temporomandibular-retrodiscal.md
+source: coombs-2017-structure-function-relationships-temporomandibular-retrodiscal.md
 source_collection: pubmed-text
 full_text: false
 text_path: /Users/oracleneo/llm-wiki/papers/coombs-2017-structure-function-relationships-temporomandibular-retrodiscal.txt
