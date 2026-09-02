@@ -85,5 +85,5 @@ The result reinforces the anchor systematic-review finding that **no protocol re
 - [[infection-control/burioni-2024-could-dental-material-reuse-play]] — in vitro; residual protein persists after cleaning, consistent with "never fully eliminated."
 - [[infection-control/abreu-2024-assessment-detoxification-strategies-used-dental]] — in vitro; inflammation persists despite detoxification, supporting caution against reuse.
 - [[infection-control/cetinsoy-2026-ultrasonication-assisted-sequential-chemical-removal]] — in vitro; 1% NaOCl removes 99.7% biofilm — a NaOCl protocol paralleling this study's finding that NaOCl is an effective adjunct.
-- [[infection-control/kyaw-2023-effect-chemical-electrochemical-decontamination-protocols]] — RCT; NaOCl + electrochemical (combined) protocol makes reuse acceptable, extending this study's NaOCl result.
+- [[infection-control/kyaw-2023-effect-chemical-electrochemical-decontamination-protocols]] — in vitro (not a clinical RCT); NaOCl + electrochemical (combined) protocol makes reuse acceptable, extending this study's NaOCl result.
 - [[infection-control/paganotto-2022-reuse-healing-abutments-ethical-biological]] — survey; 98.1% reuse prevalence quantifies the practice this decontamination question serves.
