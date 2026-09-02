@@ -11,6 +11,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/gotfredsen-2021-patient-perception-ti
 pdf_filename: gotfredsen-2021-patient-perception-timing-concepts-implant.pdf
 source_collection: external
 tags: [patient-reported outcomes, PROMs, implant timing, patient satisfaction, immediate loading, immediate placement, systematic review]
+relations:
+  - type: extends
+    target: immediate-implant/loading-protocol/huynh-ba-2018-immediate-loading-vs-early-conventional
 ---
 
 ## Three-line Summary
