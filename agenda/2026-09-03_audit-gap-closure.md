@@ -1,0 +1,179 @@
+---
+title: "Daily-audit 구멍 메우기 — 검색층·자기서술·PII·답변회귀 4축 + 읽기 종착역"
+type: agenda
+date: 2026-09-03
+status: draft
+owner: 원장
+priority: P1
+deadline:
+agenda: agenda/2026-07-15_audit-to-briefing-bridge.md   # T1이 이 draft를 흡수한다 (인프라 작업이라 source_wiki 없음)
+tags: [audit, infrastructure, qmd, privacy, retrieval]
+---
+
+# Goal
+
+감사 22개가 전부 초록불인 상태에서 **아직 아무도 보지 않는 축 4개**(검색층·자기서술 수치·PII·답변 품질)에 기계 판독 고리를 달고, 이미 포화된 신호를 사람이 실제로 읽는 지점까지 끌어온다.
+
+이 리포가 세 번 반복한 실패 형태는 전부 같다 — **규칙은 문서에 있는데 그 규칙을 읽는 코드가 없었다.**
+
+| 사고 | 규칙이 있던 곳 | 없던 것 | 결과 |
+|---|---|---|---|
+| 2026-08-25 `date:` 키 중복 | lint.py에 검사 **있었음** | `overviews`가 `SKIP_DIRS`에 있어 안 돌았음 | 배포 29시간 사망, 감사 21개 초록불 |
+| 2026-08-31 다크모드 임상도구 | OPERATIONS.md §7 hard rule | 기계 판독 고리 0 | 네 번 지적 후에도 다크 토글 배포 |
+| 2026-08-27 interactives 카테고리 | build 스크립트 `CATEGORIES` | 값 검증 없음 | 84개 중 30개가 '미분류'로 조용히 붕괴 |
+
+아래 7개 작업은 **같은 형태의 다음 사고를 미리 막는 것**이지, 감사 개수를 늘리는 것이 목적이 아니다. T6·T7은 오히려 신호를 **줄인다**.
+
+# Input
+
+**실측 기반** — 2026-09-03 `python3 scripts/daily-audit.py` 전체 실행(exit 0) + 스크립트 전수 grep + launchd 상태 확인.
+
+- `scripts/*.py` 전수 — qmd 인덱스 신선도를 감사하는 코드 **0개** (qmd 언급 8개 파일은 전부 인제스트/빌드용)
+- `.claude/scripts/qmd-cleanup.log` — 2026-08-31 10:00 실행, **고아 청크 169개 제거** 후 정상 종료. 기전은 살아있고 주당 169개가 쌓인다. 이 결과는 감사 출력 어디에도 안 실린다
+- `wiki/overviews/*.md` 287편 — 127편이 "N papers 종합" 자기 수치 보유, **그중 29편(23%)이 실제와 불일치**
+- `note-meeting/_template.md:20` — 환자 식별정보 평문 금지 규칙이 **산문으로만** 존재, 판독 고리 0
+- `agenda/2026-07-15_audit-to-briefing-bridge.md` — `status: draft`, `scripts/audit-badge.py` **미존재**
+- `logs/2026-09-03_supersession.log` — decay 후보 **308건** (억제 없음)
+- `scripts/daily-audit.py:5` "21 audits" / `CLAUDE.md:103` "나머지 16은 signal" — 실제 22개·signal 18개. **문서 자신이 경고한 드리프트가 재발**
+- `scripts/operations-lint.py:149` `field_is_nonempty()` — 인라인 주석이 붙은 `[]`를 비어있지 않다고 판정
+
+# Output
+
+```
+scripts/audit-badge.py            (T1, 신규)
+scripts/retrieval-health.py       (T2, 신규 — signal)
+scripts/pii-guard.py              (T3, 신규 — error)
+scripts/self-claim-lint.py        (T4, 신규 — signal)
+scripts/golden-question-check.py  (T5, 신규 — signal)
+scripts/supersession-audit.py     (T6, 억제 로직 추가)
+scripts/operations-lint.py        (T7, field_is_nonempty 1줄 수정)
+scripts/daily-audit.py            (T1~T5 등록 + docstring 개수 교정)
+AUDITS.md                         (표 갱신 + 개수 교정)
+CLAUDE.md:100,103                 (개수 교정)
+```
+
+---
+
+# Tasks
+
+## T1 — `audit-badge.py` : 감사 → 읽기 종착역  *(최우선)*
+
+**왜 1순위인가**: 새 감사가 아니라 **기존 22개의 종착역**이다. AUDITS.md 자신이 *"Audits only compound if someone reads them; leaving that to memory is the weak link"* 라고 약한 고리를 지목해 뒀고, 2026-07-15 설계 이후 7주간 미구현이다.
+
+오늘 하루치 신호만 세어도 STALE 5 + decay 308 + output 미커버 234 + Tier2 50 + OVI 적색 1. **병목은 이미 탐지가 아니라 읽기다.** 이 상태에서 감사를 더 얹으면 신호 대 잡음비만 나빠진다 — 그래서 T2~T5보다 먼저다.
+
+`agenda/2026-07-15_audit-to-briefing-bridge.md`의 설계를 그대로 흡수한다. 그 파일은 이 작업 완료 시 `status: archived`.
+
+- [ ] `logs/{today}_*` 파싱 → 배지 JSON 1개 emit (`logs/{today}_badge.json`)
+- [ ] 표면화 신호 확정: thesis-staleness warn / category-overflow / link-integrity BROKEN + **OVI 적색·철회플래그**(2026-07-15 설계 이후 신설된 감사)
+- [ ] **0건이면 배지를 숨긴다** — 노이즈 억제가 이 스크립트의 절반이다
+- [ ] `daily-audit.py` 맨 끝에서 실행 (감사가 아니라 후처리이므로 감사 카운트에 넣지 않는다)
+- [ ] morning-briefing 템플릿 배지 슬롯 연결 (환자정보 무관 → masking gate 영향 없음)
+- [ ] `agenda/2026-07-15_audit-to-briefing-bridge.md` → `status: archived` + 본 파일 백링크
+
+## T2 — `retrieval-health.py` : 검색층 감사  *(signal)*
+
+**구멍의 구조**: 감사 22개가 전부 *"파일이 옳은가"*를 본다. 그런데 **답변 경로는 파일이 아니라 인덱스를 지난다.** `deploy-health.py`가 배포에 대해 한 일(리포 바깥을 봐서, 찾아가지 않아도 보이게)을 검색에 대해서는 아무도 하고 있지 않다.
+
+CLAUDE.md가 이미 이 위험을 문서화해 뒀다 — 2026-07-17 철회 논문 페이지를 고쳐놓고 재색인을 빠뜨려 **10시간 동안 철회 경고 없는 옛 청크가 검색됐고**, 인덱스 대상을 고친 55일 중 23일(42%)이 이 창에 노출됐다. 규칙은 있는데 읽는 코드가 없는, T0 표의 세 번째 줄과 같은 형태다.
+
+**실측 [확인]**: 2026-09-03 현재 인덱스는 신선(4개 컬렉션에 index.sqlite보다 새 `.md` 0건). 클린업 잡은 8-31에 고아 169개 제거 후 정상 종료 — 즉 **오늘 고장난 게 아니라 오늘 안 보일 뿐**이다.
+
+- [ ] 신선도: `~/.cache/qmd/index.sqlite` mtime vs `wiki/`·`sources/`·`agenda/`·`note-meeting/` 최신 `.md` mtime → 뒤처진 파일 수
+- [ ] 임베딩 백로그: `qmd status`의 `Pending:` (⚠ `qmd update`가 찍는 숫자는 전체 파일 수라 거짓 — 이 함정을 스크립트 주석에 박을 것)
+- [ ] 클린업 잡 생존: `.claude/scripts/qmd-cleanup.log` 마지막 타임스탬프 7일 초과 → WARN (주간 잡이므로)
+- [ ] qmd 미설치·데몬 사망·오프라인이면 **조용히 SKIP + exit 0** (deploy-health와 동일 규약 — 감사는 거울이지 gate가 아니다)
+- [ ] `from __future__ import annotations` (구 python3 PEP604 함정 회피)
+
+## T3 — `pii-guard.py` : 환자 식별정보 가드  *(error)*
+
+**왜 지금인가 — 위반 0인 지금이 넣을 때다.** 스캔 결과 주민번호·전화 패턴 실제 위반 **0건**(히트는 전부 DOI 오탐) [확인]. `operations-lint` §7이 도입 시점 위반 0으로 error가 된 것과 같은 논리 — block으로 둬도 오늘 아무것도 막지 않는다.
+
+**왜 signal이 아니라 error인가**: signal-not-gate는 *판단이 개입하는* 감사(인제스트 압력·종합 백로그)를 겨눈 원칙이다. 이건 정규식의 결정론적 존재 검사고, 무엇보다 **이 리포의 유일한 비가역 실패 모드**다. 배포 실패도 잘못된 수치도 되돌릴 수 있지만, 공개된 환자 식별정보는 git 히스토리·GitHub Pages 캐시·검색엔진 색인에 남아 되돌릴 수 없다.
+
+**위험이 실재하는 근거**: 리포는 공개 Pages 배포이고, dentweb MCP는 **실환자 DB를 읽는다**. 그리고 익명화 규칙은 `note-meeting/_template.md:20`의 산문 한 줄뿐이다 — 2026-08-31 다크모드 사고와 정확히 같은 배치(문서에만 있는 규칙).
+
+- [ ] 패턴: 주민등록번호 `\d{6}[-–][1-4]\d{6}` / 휴대폰 `01[016789][-. ]\d{3,4}[-. ]\d{4}` / 이메일(원장 본인 제외) / `차트번호|환자번호|chart_no` 뒤의 숫자
+- [ ] **오탐 억제가 설계의 절반** — DOI(`10.\d{4,}/`)·PMID·PMCID·ISBN 컨텍스트 제외. 초안 grep에서 히트 전부가 DOI였다
+- [ ] 대상: `wiki/`·`sources/`·`agenda/`·`note-meeting/`·`interactives/`·`slides/` (`papers/` 원문·`logs/` 제외)
+- [ ] pre-commit 훅으로도 걸 것 — 감사는 사후이고, PII는 **커밋되면 이미 늦다**
+- [ ] `--selftest`: 잡아야 하는 6패턴 + 잡으면 안 되는 DOI/PMID/연도범위 4패턴 고정
+
+## T4 — `self-claim-lint.py` : 자기서술 수치 검증  *(signal)*
+
+**실측 [확인]** — overview 287편 중 127편이 자기 수치를 적고 있고, **29편(23%)이 실제와 어긋난다**:
+
+| overview | 주장 | 실제 |
+|---|---|---|
+| keratinized-mucosa-peri-implant-health | 10 | 24 |
+| drug-antibiotic-stewardship | 25 | 33 (source_papers) |
+| immediate-implant-esthetic-soft-tissue | 22 | 31 (source_papers) |
+| digital-complete-denture-cost-consensus | 24 | 6 |
+| cracked-tooth-syndrome | 21 | 26 |
+
+방향은 대부분 **주장 < 실제** — 인제스트가 위키링크는 밀어넣지만 본문 숫자는 아무도 안 고친다. `lint`(frontmatter)·`content-lint`(섹션 존재)·`overview-coverage-lint`(인용률) 어디에도 안 걸리고, 이건 독자가 페이지에서 **가장 먼저 신뢰하는 문장**이다.
+
+**억제 설계 — 없으면 127편이 통째로 후보가 되어 deviation-audit이 334건에서 죽었던 상태가 된다:**
+
+- [ ] 주어가 **자기 페이지**인 동사만 매칭 (`synthesizes` / `covers` / `draws on` / `종합`). "이 SR은 92 studies를 포함했다"는 문헌 서술이지 자기서술이 아니다 — 오탐의 최대 원인
+- [ ] 비교 기준: `source_papers:` 필드 우선, 없으면 `sources/`에 실존하는 stem을 가리키는 고유 위키링크 수
+- [ ] tolerance ±2편 또는 15% (반올림·"약 N편" 표현 흡수)
+- [ ] `--fix` 없음. 숫자를 기계가 고쳐 쓰면 문장 맥락과 어긋난다 — **신호만**
+- [ ] 확장 후보(2차): "아직 인제스트 안 됨"류 자기상태 단언 20편 — 문장 유형이 제각각이라 T4 1차에는 넣지 않는다
+
+## T5 — `golden-question-check.py` : 답변 회귀  *(signal, 마지막)*
+
+**가장 큰 구조적 구멍**: 감사 22개 중 이 위키의 **산출물(답변)을 보는 것이 하나도 없다.** 페이지가 다 옳고 인덱스가 신선해도 "임상 질문 → 엉뚱한 페이지"는 전 감사 초록불로 통과한다.
+
+메모리에 남은 교훈 — *집계 기반 가설 5개가 무너진 세션에서, 표본으로도 못 잡을 오류 2건을 잡은 건 데미안님의 진료 경험이었다* — 을 기계 루프로 바꿀 수 있는 유일한 설계다.
+
+**Rule #1 무관**: qmd는 로컬 검색이고 LLM·웹을 안 탄다. 판정은 "기대 stem이 top-5에 있는가"라는 결정론적 비교뿐.
+
+- [ ] 문항 30개 (질문 → 기대 stem 1~3개). 시드는 기존 `recall/*.json` 54개 — 이미 사람이 검수한 질문이다
+- [ ] `lex` + `vec` 각각 top-5, `rerank:false` (메모리: 헤드리스에서 rerank가 행)
+- [ ] 실패 = 인덱스·문서 둘 중 하나가 깨졌다는 뜻 → 로그에 어느 쪽인지 판별 힌트 출력
+- [ ] 문항 파일은 `recall/`이 아니라 `scripts/golden-questions.json` (인출 스펙과 다른 축 — 이쪽은 검색 회귀용)
+- [ ] **T2 완료 후 착수** — 인덱스가 stale하면 이 감사는 전부 위양성이 된다
+
+## T6 — decay 308건 억제  *(신호 축소)*
+
+**새 감사가 아니라 죽은 신호 되살리기.** `logs/2026-09-03_supersession.log`의 decay 후보 308건은 deviation-audit이 334건에서 16/20종을 후보로 띄웠던 상태와 같다. 이 리포가 두 번 배운 원칙 — *억제되지 않는 신호는 끌 수 없고, 끌 수 없는 신호는 노이즈가 된다* — 을 supersession-audit에만 아직 적용하지 않았다.
+
+- [ ] deviation-audit의 3겹 억제를 이식: **누적수가 아닌 최근 창** + 중심성(피인용 위키링크 수) 상위 N + 이미 판단된 것 제외
+- [ ] 억제는 **뮤트가 아니라 이동** — 제외분은 하단 참고 블록에 누적/최근 수와 함께 계속 출력 (`chain intentional`·deviation-audit과 동일 처리)
+- [ ] 억제 후 후보가 20~30건대로 떨어지는지 확인. 안 떨어지면 임계값 재조정
+
+## T7 — 문서·lint 드리프트 교정  *(1회성)*
+
+- [ ] `scripts/operations-lint.py:149` `field_is_nonempty()` — 값 비교 전 인라인 주석 제거. 현재 `source_wiki: []  # 주석`이 ORPHAN 검사를 통과한다. **영향 파일 1개**(`2026-07-15_audit-to-briefing-bridge.md`, T1에서 archived 처리)이므로 지금 고치는 게 가장 싸다 [확인: 전수 스캔]
+- [ ] **같은 결함의 반대 방향** — `status:` 검사는 인라인 주석 때문에 **거짓 error**를 낸다. `agenda/_template.md`를 §4가 시킨 대로 `cp` 하면 `status: draft          # draft | in-progress | ...` 가 그대로 복사되어 operations-lint가 즉시 실패한다 (본 파일 작성 중 실제로 발생 [확인]). 템플릿은 `EXEMPT_FILES`라 자기 자신은 검사되지 않아 7주간 아무도 몰랐다 — 주석 제거를 `field_is_nonempty`가 아니라 **파싱 시점**에 넣어야 두 방향이 함께 해결된다
+- [ ] `scripts/daily-audit.py:5` "21 audits" → 실제 개수. **이 docstring 자신이 2026-07-17에 같은 드리프트를 경고하며 고쳐진 자리다** — 재발했다
+- [ ] `CLAUDE.md:103` "나머지 16은 signal" → 18 (22 − error 4). AUDITS.md는 18로 맞다
+- [ ] T1~T5 등록 후 **세 곳 동시 갱신**: `daily-audit.py` docstring · `AUDITS.md` 표+제목 · `CLAUDE.md:100,103`. 개수만 올리고 항목을 안 적는 것이 2026-07-17의 실패 형태였다
+
+---
+
+# Done Criteria
+
+- [ ] T1~T7 각 체크박스 완료
+- [ ] `python3 scripts/daily-audit.py` 전체 실행 exit 0, 신규 error 감사(T3) 위반 0 확인
+- [ ] 신규 감사 3종(T2·T4·T5)에 `--selftest` 회귀 케이스 존재 (필터를 손대면 먼저 돌릴 것 — contradiction-radar의 12케이스가 선례)
+- [ ] 감사 개수가 `daily-audit.py` docstring · `AUDITS.md` · `CLAUDE.md` 세 곳에서 **일치**
+- [ ] `AUDITS.md` 표에 신규 감사의 **왜 error인가 / 무엇을 억제하는가**가 적혀 있음 (이 표의 가치는 목록이 아니라 근거다)
+- [ ] T1 배지가 0건일 때 **숨는지** 확인
+- [ ] 커밋은 파일당 1개 (per-file commit 규칙)
+
+# Notes / Decisions
+
+- **2026-09-03: 착수 순서를 T1 먼저로 정한 근거.** 원래 후보 순위는 "검색층이 가장 위험"이었으나, 오늘 신호 총량(STALE 5 + decay 308 + 미커버 234 + Tier2 50)을 세어보니 **읽히지 않는 신호를 늘리는 것이 더 큰 손해**로 판단. T1은 새 감사가 아니라 기존 22개의 ROI를 올린다.
+- **2026-09-03: T3만 error, T2·T4·T5는 signal.** 판정 기준은 "판단이 개입하는가"다. PII는 정규식 존재 검사(판단 0) + 비가역 → error. 검색층 신선도는 재색인 타이밍에 판단이 들어가고, 자기서술 수치는 문장 맥락 판단이 필요하며, 답변 회귀는 위양성이 원리상 존재한다 → 전부 signal.
+- **2026-09-03: T5를 마지막에 둔 이유는 난이도가 아니라 의존성.** 인덱스가 stale한 상태에서 답변 회귀를 돌리면 전부 위양성이 되어 감사 자체의 신뢰가 죽는다. T2가 선행 조건.
+- **미해결 — T5 문항 30개의 정답 stem은 누가 정하는가.** `recall/*.json`을 시드로 쓰면 사람 검수를 재사용할 수 있으나, 리콜 문항은 "기억하는가"를 묻고 검색 회귀는 "찾아지는가"를 묻는 다른 축이다. 시드 변환 시 질문을 다시 써야 할 수 있음 — 1차는 10문항으로 시작해 실효성 확인 후 확대 권장.
+- **범위 밖으로 남긴 것**: 본문 수치 ↔ `sources/` 원문 대조(할루시네이션 직접 가드). 가치는 가장 크지만 위양성이 지배적일 것으로 예상되고(단위 변환·반올림·재계산), 억제 설계가 T4보다 훨씬 어렵다. T4가 자리잡은 뒤 별도 agenda로.
+
+# References
+
+- [[agenda/2026-07-15_audit-to-briefing-bridge]] — T1이 흡수하는 원 설계
+- [[agenda/2026-05-26_synthesis-enforcement-setup]] — 감사 세트 설계 근거
+- `AUDITS.md` — 22개 감사 표, 논쟁 레이더 억제 조건
+- `OPERATIONS.md` §7 — 기계 판독 고리 없는 규칙이 어떻게 깨지는가 (T3의 선례)
