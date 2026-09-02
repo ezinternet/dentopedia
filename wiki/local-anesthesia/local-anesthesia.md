@@ -2,7 +2,7 @@
 title: "국소마취·진정 — local-anesthesia"
 authors: navigation
 year: 2026
-date: 2026-08-11
+date: 2026-09-02
 doi: N/A
 source: navigation
 category: local-anesthesia
@@ -15,20 +15,20 @@ tags: [navigation, category-index, local-anesthesia]
 > [!summary] 한국어 핵심요약
 > - **분야**: 국소마취·진정
 > - **범위**: LA agents (articaine/lidocaine/mepivacaine), IANB/buccal infiltration, buffered/preheated LA, N2O & procedural sedation, topical anesthetics, injection landmarks; pregnancy/pediatric LA; supplemental injections for irreversible pulpitis
-> - **수록 논문**: 37편
+> - **수록 논문**: 38편
 
 ## Three-line Summary
 
 **Scope**: LA agents (articaine/lidocaine/mepivacaine), IANB/buccal infiltration, buffered/preheated LA, N2O & procedural sedation, topical anesthetics, injection landmarks; pregnancy/pediatric LA; supplemental injections for irreversible pulpitis
-**Indexed papers**: 37 papers in `wiki/local-anesthesia/`.
+**Indexed papers**: 38 papers in `wiki/local-anesthesia/`.
 
 ## 세줄요약
 
 **분야**: 국소마취·진정
-**수록 논문**: 37편
+**수록 논문**: 38편
 **하위 카테고리**: 없음
 
-## Papers in this Category (37)
+## Papers in this Category (38)
 
 | Paper |
 |---|
@@ -38,6 +38,7 @@ tags: [navigation, category-index, local-anesthesia]
 | [[becker-2012-local-anesthetics-pharmacological-considerations|Local Anesthetics: Review of Pharmacological Considerations]] |
 | [[bina-2018-true-allergy-amide-local-anesthetics-case|True Allergy to Amide Local Anesthetics: A Review and Case Presentation]] |
 | [[cabral-2026-comparative-efficacy-anesthetic-techniques-periodontal|Comparative efficacy of different anesthetic techniques on pain perception during nonsurgical periodontal treatment: A parallel, blinded, randomized controlled trial]] |
+| [[cherrez-ojeda-2024-knowledge-attitudes-anaphylaxis-local-anesthetics|Knowledge and attitudes toward anaphylaxis to local anesthetics in dental practice]] |
 | [[filo-2015-frequency-anatomy-retromolar-canal-implications|Frequency and anatomy of the retromolar canal - implications for the dental practice]] |
 | [[gandhi-2022-preheated-buffered-lignocaine-ianb-pulpitis-rct|Evaluation of Pulpal Anesthesia and Injection Pain Using IANB with Pre-heated, Buffered and Conventional 2% Lignocaine in Teeth with Symptomatic Irreversible Pulpitis — a Randomized Clinical Study]] |
 | [[garret-bernardin-2017-pain-experience-behavior-management-pediatric|Pain Experience and Behavior Management in Pediatric Dentistry: A Comparison between Traditional Local Anesthesia and the Wand Computerized Delivery System]] |
