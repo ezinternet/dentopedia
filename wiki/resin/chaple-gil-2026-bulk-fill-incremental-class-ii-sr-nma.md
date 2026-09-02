@@ -11,6 +11,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/chaple-gil-2026-bulk-fill-incremental
 pdf_filename: chaple-gil-2026-bulk-fill-incremental-class-ii-sr-nma.pdf
 source_collection: external
 tags: []
+relations:
+  - type: refines
+    target: resin/kruly-2018-low-shrinkage-vs-methacrylate-resin-ma
 ---
 
 ## Three-line Summary
