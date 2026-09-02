@@ -75,7 +75,7 @@ This page synthesizes the above overviews and adds coverage of: pre-injection to
 
 ## Pre-Injection Topical Anesthesia (New Synthesis)
 
-Pre-injection topical agents aim to blunt needle-insertion pain. The wiki holds three papers examining this in pediatric contexts.
+Pre-injection topical agents aim to blunt needle-insertion pain. The wiki holds two pediatric RCTs on pre-injection topical agents (Karkoutly 2024, Subramanian 2023), plus two periodontal studies on *standalone* intrapocket topical anesthesia for scaling and root planing (Wambier 2017 SR+MA, Cabral 2026 RCT) — a related but distinct use, where topical gel substitutes for an injection rather than preceding one.
 
 [[local-anesthesia/karkoutly-2024-topical-anesthetics-lidocaine-benzocaine-emla-ianb]] (triple-blind RCT, n=45 schoolchildren aged 6–10, 15/arm, 2-min application):
 - Compared 8% lidocaine gel, 20% benzocaine gel (standard), and 5% EMLA cream before IANB
@@ -84,9 +84,11 @@ Pre-injection topical agents aim to blunt needle-insertion pain. The wiki holds 
 
 [[local-anesthesia/subramanian-2023-comparative-two-topical-anesthetic-agents-pediatric]] provides a contrasting result in a different comparison (lidocaine vs benzocaine in a different pediatric age group) — the two papers are tagged `contradicts` in the wiki; the most likely explanation is methodological heterogeneity rather than a true effect.
 
-[[local-anesthesia/wambier-2017-intrapocket-topical-versus-injected-anesthetic-srp]] shows that for scaling and root planing (SRP), intrapocket topical anesthetic is as effective as injectable for pain control in single-session short-duration procedures — expanding the scope of topical LA beyond pre-injection use to standalone anesthesia in periodontal contexts.
+[[local-anesthesia/wambier-2017-intrapocket-topical-versus-injected-anesthetic-srp]] (SR+MA, 6 RCTs) compared intrapocket topical gel vs injected anesthetic for pain control during SRP in adults. The four outcomes split 2-and-2: injected anesthetic was superior on pain intensity (P=.03) and rescue-anesthetic need (P<.0001), while risk of developing pain and patient preference were similar between groups. Injection thus holds a measurable edge on pain, but the absence of any patient-preference difference keeps intrapocket topical gel a reasonable *less-invasive* option for SRP — not an *equally effective* one.
 
-**Current evidence bottom line**: No topical pre-injection agent is clearly superior to 20% benzocaine in the standard 2-minute application window. Longer EMLA contact times may yield benefits not captured by current data.
+[[local-anesthesia/cabral-2026-comparative-efficacy-anesthetic-techniques-periodontal]] (parallel, blinded RCT, n=76) refines Wambier for one specific comparison — Oraqix lidocaine/prilocaine intrapocket gel vs a computerized injectable device (Morpheus, 2% lidocaine + 1:100,000 epinephrine) during nonsurgical periodontal instrumentation. Here pain intensity was equal (NRS-11 median 0 vs 1, P>0.05, both mild), so the pain-intensity superiority Wambier found for injection did not replicate with this device pairing. But the rescue-anesthetic gap widened sharply: 100% of the gel group needed supplementary anesthesia vs 24% of the computerized group (P<0.001). The consistent signal across both studies is that intrapocket topical controls pain acceptably but is far less reliable — supplementary injection is frequently to universally required.
+
+**Current evidence bottom line**: No topical pre-injection agent is clearly superior to 20% benzocaine in the standard 2-minute application window; longer EMLA contact times may yield benefits not captured by current data. For standalone intrapocket topical anesthesia in SRP, pain control is adequate but injection retains an edge on pain intensity and a large edge on reliability — plan for supplementary anesthesia (24–100% of patients across studies).
 
 ---
 
@@ -208,7 +210,8 @@ This gap means Korean practitioners must integrate:
 | 4% articaine IANB paresthesia 7.3× risk; ophthalmic/facial complications | [[local-anesthesia/ghafoor-2023-neurological-complications-local-anesthesia-dentistry]] |
 | Retromolar canal prevalence 16.12% (CBCT) | [[local-anesthesia/filo-2015-frequency-anatomy-retromolar-canal-implications]] |
 | Gow-Gates / Akinosi-Vazirani as IANB alternatives | [[local-anesthesia/haas-2011-alternative-mandibular-nerve-block-techniques]] |
-| Intrapocket topical LA adequate for short SRP | [[local-anesthesia/wambier-2017-intrapocket-topical-versus-injected-anesthetic-srp]] |
+| SRP: injected LA superior to intrapocket topical on pain intensity (P=.03) + rescue need (P<.0001); pain risk + preference equal | [[local-anesthesia/wambier-2017-intrapocket-topical-versus-injected-anesthetic-srp]] |
+| SRP: Oraqix gel ≈ computerized injection on pain intensity, but 100% vs 24% needed supplementary anesthesia (P<0.001) | [[local-anesthesia/cabral-2026-comparative-efficacy-anesthetic-techniques-periodontal]] |
 | Amide allergy rarity; diphenhydramine alternative | [[local-anesthesia/bina-2018-true-allergy-amide-local-anesthetics-case]] |
 | 2% lidocaine + 1:200,000 epinephrine standard for pregnancy | [[local-anesthesia/zhou-2023-pregnancy-physiology-oral-local-anesthesia-review]] |
 | Korean guideline gap: LA has no CPG | [[local-anesthesia/hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry]] |
