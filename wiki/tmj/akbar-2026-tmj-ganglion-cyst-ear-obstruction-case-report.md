@@ -10,7 +10,7 @@ source_collection: pubmed-text
 full_text: true
 text_path: /Users/oracleneo/llm-wiki/papers/akbar-2026-tmj-ganglion-cyst-ear-obstruction-case-report.txt
 text_filename: akbar-2026-tmj-ganglion-cyst-ear-obstruction-case-report.txt
-source: sources/akbar-2026-tmj-ganglion-cyst-ear-obstruction-case-report.md
+source: akbar-2026-tmj-ganglion-cyst-ear-obstruction-case-report.md
 category: tmj
 evidence_level: case-report
 tags: [TMJ, ganglion-cyst, synovial-cyst, external-auditory-canal, hearing-loss, retrodiscal-tissue, surgical-excision, MRI, case-report, otologic-manifestation]
