@@ -25,7 +25,7 @@ Systematic review (657 titles → 6 included observational studies, >300 used he
 
 Three of 6 studies found routine mechanical/chemical/steam methods did NOT fully remove contaminants; 2 found adequate decontamination only with supplemental regimens; 1 found routine methods sufficient; no true clinical studies and no adverse consequences (infection, bone loss, implant failure, patient harm) were identified.
 
-Clinical implication — the anchor SR for the HA reuse debate: the biological/mechanical significance of residual contamination is undetermined and indiscriminate reuse should be avoided until more evidence is established; this framework has since been extended by in vitro biologic-response data (Abreu 2024) and an RCT suggesting reuse is acceptable with combined chemical/electrochemical decontamination (Kyaw 2023).
+Clinical implication — the anchor SR for the HA reuse debate: the biological/mechanical significance of residual contamination is undetermined and indiscriminate reuse should be avoided until more evidence is established; this framework has since been extended by in vitro biologic-response data (Abreu 2024) and a further in vitro study suggesting reuse is acceptable with combined chemical/electrochemical decontamination (Kyaw 2023).
 
 ## 세줄요약
 
@@ -33,7 +33,7 @@ Clinical implication — the anchor SR for the HA reuse debate: the biological/m
 
 6편 중 3편: 일반 기계·화학·증기 방법으로 오염물 완전 제거 실패; 2편: 추가 처치 병용 시 적절한 세정; 1편: 일반 방법으로 충분; 진정한 임상연구 없음, 부작용(감염·골소실·임플란트 실패·환자 피해) 보고 없음.
 
-임상 의미: HA 재사용 논쟁의 anchor SR — 잔류 오염물의 생물학적·기계적 유의성 불명이므로 근거 확립 전까지 무분별한 재사용을 피해야 함; 이후 Abreu(2024)의 생물학적 반응 데이터와 Kyaw(2023) RCT가 이 framework를 확장·보완함.
+임상 의미: HA 재사용 논쟁의 anchor SR — 잔류 오염물의 생물학적·기계적 유의성 불명이므로 근거 확립 전까지 무분별한 재사용을 피해야 함; 이후 Abreu(2024)의 생물학적 반응 데이터와 Kyaw(2023, in vitro)가 이 framework를 확장·보완함.
 
 ## Summary
 
@@ -67,4 +67,4 @@ Electronic search of the English-language literature (PubMed + Cochrane) by mult
 - [[infection-control/burioni-2024-could-dental-material-reuse-play]] — in vitro; residual protein persists after sterilization, giving mechanistic weight to the "incomplete decontamination" finding.
 - [[infection-control/abreu-2024-assessment-detoxification-strategies-used-dental]] — in vitro; inflammatory cytokines persist on reused HAs → argues clinicians should not reuse (more restrictive than this SR).
 - [[infection-control/naghsh-2024-comparison-four-decontamination-procedures-reusing]] — in vitro; NaOCl + air polishing effective, i.e. a supplemental regimen that could satisfy this SR's caveat.
-- [[infection-control/kyaw-2023-effect-chemical-electrochemical-decontamination-protocols]] — RCT; reuse acceptable with a combined chemical + electrochemical protocol, providing the higher-level evidence this SR called for.
+- [[infection-control/kyaw-2023-effect-chemical-electrochemical-decontamination-protocols]] — in vitro (not a clinical RCT); reuse acceptable with a combined chemical + electrochemical protocol — a device-integrity data point, not the clinical-outcome evidence this SR called for.
