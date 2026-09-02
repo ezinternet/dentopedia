@@ -6,7 +6,7 @@ date: 2024-01-19
 doi: 10.1038/s41598-024-52092-6
 pmcid: PMC10798969
 pmid: 38242921
-source: sources/kakimoto-2024-comparison-t2-values-displaced-unilateral.md
+source: kakimoto-2024-comparison-t2-values-displaced-unilateral.md
 source_collection: pubmed-text
 full_text: true
 text_path: /Users/oracleneo/llm-wiki/papers/kakimoto-2024-comparison-t2-values-displaced-unilateral.txt
