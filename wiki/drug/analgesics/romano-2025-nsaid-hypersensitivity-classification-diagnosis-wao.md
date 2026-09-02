@@ -13,8 +13,6 @@ full_text: true
 pmid: "40837856"
 pmcid: "PMC12361610"
 source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12361610/
-pdf_path: /Users/oracleneo/llm-wiki/papers/romano-2025-nsaid-hypersensitivity-classification-diagnosis-wao.txt
-pdf_filename: romano-2025-nsaid-hypersensitivity-classification-diagnosis-wao.txt
 text_path: /Users/oracleneo/llm-wiki/papers/romano-2025-nsaid-hypersensitivity-classification-diagnosis-wao.txt
 text_filename: romano-2025-nsaid-hypersensitivity-classification-diagnosis-wao.txt
 tags: [nsaid, aspirin, hypersensitivity, allergy, AERD, N-ERD, NECD, NIUAA, SNIUAA, coxib, celecoxib, etoricoxib, acetaminophen, drug-provocation-test, consensus, WAO]
