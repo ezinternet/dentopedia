@@ -2,7 +2,7 @@
 title: "전신질환·약물·항생제 — antibiotics"
 authors: navigation
 year: 2026
-date: 2026-08-29
+date: 2026-09-02
 doi: N/A
 source: navigation
 category: drug/antibiotics
@@ -15,20 +15,20 @@ tags: [navigation, category-index, antibiotics]
 > [!summary] 한국어 핵심요약
 > - **분야**: 전신질환·약물·항생제
 > - **범위**: Dental antibiotic prescribing, prophylaxis, antibiotic stewardship; AMX/CLV, clindamycin, azithromycin, metronidazole, cephalosporins; periodontal/endodontic/surgical adjunct use
-> - **수록 논문**: 39편
+> - **수록 논문**: 42편
 
 ## Three-line Summary
 
 **Scope**: Dental antibiotic prescribing, prophylaxis, antibiotic stewardship; AMX/CLV, clindamycin, azithromycin, metronidazole, cephalosporins; periodontal/endodontic/surgical adjunct use
-**Indexed papers**: 39 papers in `wiki/drug/antibiotics/`.
+**Indexed papers**: 42 papers in `wiki/drug/antibiotics/`.
 
 ## 세줄요약
 
 **분야**: 전신질환·약물·항생제
-**수록 논문**: 39편
+**수록 논문**: 42편
 **하위 카테고리**: 없음
 
-## Papers in this Category (39)
+## Papers in this Category (42)
 
 | Paper |
 |---|
@@ -58,6 +58,9 @@ tags: [navigation, category-index, antibiotics]
 | [[nazari-2026-general-dentists-antibiotic-prescription-endodontic-shiraz|Evaluation of Knowledge and Performance of General Dentists in Shiraz, Iran, Regarding Antibiotic Prescription in Endodontic Treatments (2024)]] |
 | [[orire-2026-revisiting-disulfiram-reaction-alcohol-metronidazole|Revisiting the Disulfiram-Like Reaction Between Alcohol and Oral Metronidazole]] |
 | [[rajan-2025-doxycycline-safety-children-dental-sr|Dental safety of short-term doxycycline use in children under 8 years: a systematic review and meta-analysis]] |
+| [[ramsey-2022-penicillin-allergy-perioperative-anaphylaxis|Penicillin Allergy and Perioperative Anaphylaxis]] |
+| [[salgado-peralvo-2021-penicillin-allergy-risk-factor-early-implant-failure|Is Penicillin Allergy a Risk Factor for Early Dental Implant Failure? A Systematic Review]] |
+| [[salgado-peralvo-2022-consensus-preventive-antibiotic-therapy-dental-implant|Consensus Report on Preventive Antibiotic Therapy in Dental Implant Procedures: Summary of Recommendations from the Spanish Society of Implants]] |
 | [[sandulescu-2024-antibiotic-prescribing-dental-best-practices-review|Antibiotic Prescribing in Dental Medicine—Best Practices for Successful Implementation]] |
 | [[sbricoli-2024-antibiotic-prescribing-habits-dentistry-survey|Antibiotic-Prescribing Habits in Dentistry: A Questionnaire-Based Study]] |
 | [[segura-egea-2017-antibiotics-in-endodontics-a-review|Antibiotics in Endodontics: a review]] |
