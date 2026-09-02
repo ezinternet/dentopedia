@@ -6,7 +6,7 @@ date: 2026-02-10
 doi: 10.1172/jci.insight.196343
 pmcid: PMC13460816
 pmid: 41665948
-source: sources/yuan-2026-distinct-mural-cells-fibroblasts-drive.md
+source: yuan-2026-distinct-mural-cells-fibroblasts-drive.md
 source_collection: pubmed-text
 full_text: true
 text_path: /Users/oracleneo/llm-wiki/papers/yuan-2026-distinct-mural-cells-fibroblasts-drive.txt
