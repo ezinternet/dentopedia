@@ -6,7 +6,7 @@ date: 2023-05-29
 doi: 10.1089/ten.TEA.2023.0011
 pmcid: PMC10440658
 pmid: 37073459
-source: sources/donahue-2023-characterization-temporomandibular-joint-disc-complex.md
+source: donahue-2023-characterization-temporomandibular-joint-disc-complex.md
 source_collection: pubmed-text
 full_text: false
 text_path: /Users/oracleneo/llm-wiki/papers/donahue-2023-characterization-temporomandibular-joint-disc-complex.txt
