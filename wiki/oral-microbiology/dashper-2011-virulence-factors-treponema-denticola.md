@@ -3,7 +3,7 @@ title: "Virulence Factors of the Oral Spirochete Treponema denticola"
 authors: "Dashper SG, Seers CA, Tan KH, Reynolds EC"
 year: 2011
 doi: 10.1177/0022034510385242
-source: sources/dashper-2011-virulence-factors-treponema-denticola.md
+source: dashper-2011-virulence-factors-treponema-denticola.md
 category: oral-microbiology
 evidence_level: narrative-review
 source_collection: pubmed-abstract
