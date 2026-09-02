@@ -3,7 +3,7 @@ title: "Aggregatibacter actinomycetemcomitans, a potent immunoregulator of the p
 authors: "Herbert BA, Novince CM, Kirkwood KL"
 year: 2016
 doi: 10.1111/omi.12119
-source: sources/herbert-2016-aggregatibacter-actinomycetemcomitans-immunoregulator-periodontal.md
+source: herbert-2016-aggregatibacter-actinomycetemcomitans-immunoregulator-periodontal.md
 category: oral-microbiology
 evidence_level: narrative-review
 source_collection: pubmed-abstract
