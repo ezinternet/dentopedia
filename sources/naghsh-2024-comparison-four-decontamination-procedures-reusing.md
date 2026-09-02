@@ -103,7 +103,7 @@ In vitro study of 50 used healing abutments (DIO UFII) across 5 groups (all ultr
 - Wadhwani et al: 99% of HAs retained proteins/peptides after standard cleaning + sterilization.
 - Eswaramurthy 2021 SR: no protocol restores a 100% virgin surface (this study's anchor).
 - Browne et al: reused impression copings + HAs reached sterility equal to new; crevicular IL-1β / TNF-α, bleeding/plaque indices not significantly different between unused vs reused HAs in patients.
-- Kyaw 2023 RCT: NaOCl + electrochemical (combined) decontamination enables acceptable reuse.
+- Kyaw 2023 (in vitro, not a clinical RCT): NaOCl + electrochemical (combined) decontamination enables acceptable reuse.
 
 ## 7. Glossary
 
