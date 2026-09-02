@@ -76,6 +76,6 @@ The result is a surface-and-debridement claim, not a biological-safety claim: it
 - [[infection-control/naghsh-2024-comparison-four-decontamination-procedures-reusing]] — in vitro: NaOCl + air polishing effective; **reinforces** NaOCl as the effective debridement agent.
 - [[infection-control/burioni-2024-could-dental-material-reuse-play]] — in vitro: residual protein persists; consistent with the weak autoclave-only control here.
 - [[infection-control/abreu-2024-assessment-detoxification-strategies-used-dental]] — in vitro: inflammation persists → do not reuse; the biological counter-pole to this surface/debridement result.
-- [[infection-control/kyaw-2023-effect-chemical-electrochemical-decontamination-protocols]] — RCT: reuse acceptable with a combined protocol; clinical support for the "reuse OK with the right protocol" pole.
+- [[infection-control/kyaw-2023-effect-chemical-electrochemical-decontamination-protocols]] — in vitro (not a clinical RCT despite "randomized" framing): reuse acceptable with a combined protocol; device-integrity support for the "reuse OK with the right protocol" pole.
 - [[infection-control/bidra-2019-should-healing-abutments-cover-screws]] — anchor SR for the healing-abutment reuse controversy.
 - [[infection-control/paganotto-2022-reuse-healing-abutments-ethical-biological]] — survey: 98.1% of clinicians reuse HAs; the practice-reality this protocol addresses.
