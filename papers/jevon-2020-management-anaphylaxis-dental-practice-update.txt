@@ -1,0 +1,211 @@
+TITLE: Management of anaphylaxis in the dental practice: an update
+
+ABSTRACT:
+Anaphylaxis is a severe and potentially life-threatening allergic reaction that can occur in the dental practice. There are a number of dental-related causes including mouthwashes, local anaesthetics, latex and antibiotics. The dental team must be able to respond effectively and manage the life-threatening situation appropriately following Resuscitation Council UK guidelines. The timely administration of adrenaline is life-saving; any delays can lead to a poor outcome. With the current national supply issues with adrenaline auto-injector devices, there is an expectation that GDPs should be competent at drawing up adrenaline from an ampoule and administrating it intramuscularly. The aim of this article is to provide an update on the management of anaphylaxis in the dental practice with particular reference to the procedure for intramuscular injection of adrenaline.
+
+Key points
+
+Anaphylaxis is a life-threatening emergency and the incidence is on the increase.
+
+Adrenaline needs to be administered promptly to optimise survival.
+
+GDPs need to be competent at administering adrenaline intramuscularly using a syringe and needle.
+
+FULL TEXT:
+Introduction
+
+Anaphylaxis is a severe and potentially life-threatening allergic reactionwhich could occur in the dental practice.The GDC states that 'all registrants must be trained in dealing with medical emergencies, including resuscitation, and possess up-to-date evidence of capability'.The dental team must be able to manage anaphylaxis effectively following Resuscitation Council UK guidelines.
+
+The prompt administration of adrenaline is pivotal to a favourable outcome. However, due to the ongoing supply issues and product recalls relating to adrenaline auto-injector devices (AAIs),those who previously relied on using these simple devices now need to be competent at intramuscular (IM) injection of adrenaline using a syringe and needle, a nationally expected requirement.
+
+The aim of this article is to provide an update on the management of anaphylaxis in the dental practice.
+
+Definition
+
+Anaphylaxis is a severe, potentially life-threatening generalised allergic reaction characterised by rapidly developing symptoms and signs including skin changes (such as redness and itching), mucosal changes (swelling below the skin surface), swallowing and breathing difficulties (due to swollen mouth, throat or tongue), wheezing, tachypnoea, tachycardia and hypotension.
+
+Incidence
+
+The incidence of anaphylaxis in the UK is increasing, with a reported increase in hospital admissions for anaphylaxis from one to seven cases per 100,000 population per year between 1992 and 2012.This 700% increase is fortunately not associated with an increase in mortality rates, which are still very rare - approximately 20 in the UK every year.
+
+Causes of anaphylaxis in dental practice
+
+Antibiotics
+
+Antibiotics are among the drugs most likely to cause anaphylaxis.Amoxicillin, phenoxymethylpenicillin and metronidazole are three antibiotics that are prescribed in dentistry.Amoxicillin is probably the one most commonly associated with anaphylaxis. Deaths from anaphylactic reactions to amoxicillin have been reported.
+
+Antibiotics are the main cause of perioperative anaphylaxis in the UK, being responsible for almost 50% of cases with an incidence of 4.0 per 100,000 administrations.One recent study in France identified 17 cases of anaphylaxis to amoxicillin administered for dental procedures.
+
+Chlorhexidine
+
+Chlorhexidine is an effective antiseptic which is widely used in dentistry,being present in a number of dental products including some mouthwashes, toothpastes and dental implants.However, anaphylaxis to chlorhexidine has been increasingly reported worldwide, including two incidents in the UK where chlorhexidine-containing mouthwash had been used to irrigate tooth sockets following a recent tooth extraction;unfortunately, the resulting anaphylaxis resulted in the death of both patients.
+
+A national reportinvestigating 266 cases of anaphylaxis in the perioperative period in UK hospitals found that chlorhexidine was:
+
+Interestingly, the authors also found that three cases could potentially have been avoided by better history-taking or by heeding a relevant history.
+
+A Medicines and Healthcare products Regulatory Agency (MHRA) alert in 2014raised awareness about the risk of anaphylaxis to products containing chlorhexidine. The continued use of chlorhexidine as an irrigation solution for treating an established dry socket has been questioned.The SDCEPadvises to consider saline to irrigate a dry socket because of the associated risks of anaphylaxis when using chlorhexidine and the lack of evidence to support its use. The latest advice during the COVID-19 pandemic advises patients to rinse with warm saltwater should the GDP suspect dry socket.
+
+Local anaesthetic
+
+Anaphylactic reactions to local anaesthetic (LA) administered in the dental setting is very rare,but they have been reported.The actual incidence of adverse effects from LA is about 0.1-1%,with 1% of these cases being confirmed allergic reactions.Actual allergic reactions to LAs are either immediate hypersensitivity reactions (type I: systemic signs) or delayed hypersensitivity reactions (type IV: localised reaction at the injection site, contact dermatitis).
+
+Amide LA agents (for example, lignocaine) are most commonly used in dentistry, but allergic reactions are very rare.The least allergenic amide LA agents are mepivacaine and plain prilocaine.Allergic reactions are more common with ester LA agents because they are metabolised to para-aminobenzoic acid, a known allergenic compound.Benzocaine is the only ester LA used in dentistry (topical preparations applied before administration of LA).
+
+Many LA-induced allergic reactions are due to other constituents in the injection solution rather than to the drug itself.Excipients such as preservatives (for example, benzoates used in multi-dose vials) and antioxidants (for example, metabisulphites used in LA solutions containing adrenaline) can cause allergic reactions.
+
+It is also important to be aware of the risk of allergy to natural rubber latex (NRL) contained in bungs, gloves and dams, as well as other dental materials(see below). Contrary to some reports, the risk of latex allergies from LA carriages is minimal.
+
+Following administration of an LA, a few patients may suffer one of a range of unwanted symptoms which sometimes can be mistaken for allergic reactions and patients may be unnecessarily told they are allergic to the anaesthetic.Most adverse reactions are psychogenic or vasovagal.
+
+General anaesthetic
+
+Anaphylaxis to anaesthetic drugs is not uncommon.There have been a number of cases in oral surgery theatres that have been reported.
+
+Latex
+
+Allergy to NRL (latex) became increasingly common towards the end of the last century (partly due to increased use of latex gloves in healthcare settings), though it is now on the decline.It is estimated that approximately 1-6% of the UK's population have a latex allergy.Worldwide, reported data suggest that the average prevalence of latex allergy remains 9.7%, 7.2% and 4.3% among healthcare workers, susceptible patients and the general population, respectively.
+
+At-risk groups include spina bifida patients (67% chance of latex allergy), healthcare professionals, and patients with an existing allergy to Elastoplast and certain foods (particularly banana, kiwi and avocado).Latex allergy-induced anaphylaxis is more likely to be severe in patients with uncontrolled asthma.
+
+Although an allergy to latex is relatively common and may cause severe reactions,latex allergy-induced anaphylaxis is extremely rare.A review of the literature found only one case report in the last 20 years of latex-induced anaphylaxis in the dental practice - a patient who had a reaction to a rubber dam.Interestingly, a recent study examining 266 cases of perioperative anaphylaxis reported no cases were due to latex.
+
+Even rarer is fatal anaphylaxis due to a latex allergy, with only isolated case reports being found in the literatureand none related to dentistry. The dental team will be aware of the importance of using latex-free products whenever possible and be alert to patients with latex allergies. Anaphylaxis Campaign has produced helpful guidance raising awareness of the presence of latex in dental products and listing latex-free alternatives ().
+
+The incidence of latex allergy among healthcare workers is higher than in the general population,emphasising the importance for all dental team members to be particularly vigilant.The incidence of latex allergy in the workplace among healthcare workers is one that is clearly addressed in several specific areas of health and safety legislation.
+
+Toothpastes
+
+Allergic reactions to toothpaste, including anaphylaxisand even fatal anaphylaxis, have been reported.In the US, a young person with a known dairy product allergy developed anaphylaxis and died after using a toothpaste containing Recaldent (a milk-derived protein) which had been recommended by her dentist.
+
+A similar case was reported recently in Australia where a child with a milk allergy developed anaphylaxis after a 'tooth mousse' containing Recaldent was used during dental treatment.The child began to complain of discomfort in her mouth, which progressed to difficulty swallowing which prompted her alert mother to administer her AAI immediately.
+
+Iodoform
+
+Iodoform is in a number of endodontic productsincluding Alvogyl.Alvogyl's product information stipulates that it shouldn't be used in patients with known allergies to procaine (novocaine)-type anaesthetic, iodine or compounds related to iodine.The authors are aware of two anecdotal reports of anaphylaxis to Alvogyl; in one case, the GDP discovered after the event that the patient was allergic to iodine.
+
+Clinical features and diagnosis
+
+The lack of a consistent clinical picture can sometimes make an accurate diagnosis difficult.Anaphylaxis is characterised by quick onset and rapid deterioration. As soon as possible, a detailed history should be taken and the patient assessed (and treated) following the ABCDE approach () to help in the recognition and initial diagnosis of anaphylaxis.
+
+In a study of 593 cases of anaphylaxis, the most common findings were urticaria () and angioedema (87%), shortness of breath/wheeze (59%) and symptoms of hypotension (33%).
+
+It is more likely to be anaphylaxis if all three of the following criteria are met:
+
+Mistaken diagnosis
+
+It is possible to mistake a panic attack or a vasovagal attack for anaphylaxis. Following the familiar ABCDE approach () will help to distinguish between a panic attack and vasovagal syncope from anaphylaxis:
+
+Adrenaline
+
+Adrenaline remains the most important drug in anaphylaxis, but to be effective, it needs to be administered promptly. Delays in administering adrenaline increases the risk of deathand failure to give adrenaline is the most common cause of death associated with anaphylaxis.A study of the UK registry found that, in almost 40% of all deaths due to anaphylaxis, adrenaline had not been administered.
+
+Actions
+
+Adrenaline:
+
+Dose
+
+The recommendeddoses of adrenaline are as follows:
+
+The dose can be repeated at five-minute intervals until there has been an adequate response.
+
+Route
+
+Adrenaline should be administered intramuscularly, ideally into the anterolateral aspect of the middle third of the thigh.
+
+Injections through clothing
+
+IM injections should ideally be administered into the bare leg. This may prove difficult in the dental practice if the patient is wearing clothing that is difficult to remove quickly or indeed is reluctant to be exposed.
+
+AAIs can be administered through light clothing.This sensible and practical advice enables the prompt administration of adrenaline which otherwise could be delayed if the patient had to undress first to expose the leg. Sometimes, other injections (for example, insulin) are advocated to be administered through clothing.
+
+The authors are aware of a number of anecdotal reports of adrenaline injections routinely administered through clothing in emergency departments without any difficulties and in fact this technique is recommended by some.It would therefore seem reasonable to consider this technique in a life-threatening, time-critical anaphylaxis situation in a dental practice if the patient is wearing light clothing, taking care to avoid the seam in the trousers and items in the patient's pocket.
+
+Allergy to adrenaline
+
+A question often asked is whether the patient can be allergic to the adrenaline injection.The answer is yes, but it is very rare and is usually due to hypersensitivity to sodium metabisulphite,a preservative which is found in adrenaline 1:1,000 solution (product literature) and in all three adrenaline self-injector devices prescribed in the UK (as well as in some drinks and food products).
+
+Adrenaline should still be administered to a patient in anaphylaxis who has hypersensitivity to sodium metabisulphite, as the need for the life-saving drug far outweighs any theoretical risk from sulphites.
+
+Adrenaline in dental medical emergency drugs kits
+
+Adrenaline auto-injectors
+
+Many dental practices stock AAIs in their medical emergency drugs kit. The AAIs currently available in the UK are Emerade, EpiPen and Jext, which are designed for self-use.The obvious perceived advantages of AAIs are that they are quick and relatively easy to use. If an AAI is used, it is important to follow the manufacturer's guidelines for its use, taking particular care to avoid accidental self-injection which has been reported.
+
+However, key concerns have been raised in the last two years concerning AAIs:
+
+The AAI supply issues led to the Chief Dental Officer for England (CDO) requesting dental practices that stock AAIs in their medical emergency drugs kit to renew them with adrenaline ampoules, in order to preserve national stocks of the devices.Also, both the CDOand the Department of Healthstipulate that all healthcare professionals providing services where anaphylaxis treatment may be required (for example, dentistry) should have the competency to draw up and administer IM adrenaline from ampoules with a normal syringe and needle.
+
+The Resuscitation Council UK has reiterated that, in anaphylaxis, healthcare professionals should be administering the recommended dose of adrenaline in anaphylaxis; that is, 500 mcg for a patient over 12 years of age (an AAI should only be used if it is the only available adrenaline preparation when treating anaphylaxis in a healthcare setting).
+
+Adrenaline 1:1,000
+
+If not already, it is expected that dental practices will start stocking adrenaline 1:1,000 (1 mg/ml) ampoules () in their emergency drugs kit (adrenaline 1:1,000 prefilled syringes are also available and are preferred by some to negate the need to draw up from an ampoule,though the authors are aware of recent supply issues with this product as well).
+
+Dental practices are advised to follow Public Health England'sguidelines, ensuring the following are available:
+
+The recommended needle length for IM injections is 25 mm (a blue 23G 25 mm needle) for all ages to ensure that the drug is injected into the muscle; a longer 21G 38 mm needle may be needed in some adults.Safety needles should ideally be used for IM injections to reduce the risk of needle-stick injury.
+
+Suggested procedure for IM injection of adrenaline
+
+Which muscle?
+
+IM injection into the vastus lateralis muscle (thigh) is advised because a high drug plasma level can be achieved within minutes.This is the ideal route.
+
+Although in the dental practice, the deltoid muscle (arm) is usually easier to access, the rate of absorption of adrenaline from this site is slower compared to the recommended vastus lateralis muscle.The deltoid muscle is therefore not routinely recommended,though it may need to be considered in a desperate situation.
+
+IM injections in the thigh: recent changes in advice
+
+Wearing gloves routinely is not necessary,although dental staff will probably already be wearing them
+
+Routinely using an 'alcohol swab' to clean the skin is no longer deemed necessary
+
+Leaving a small gap between the skin and the hub of the needle in case the needle breaks off during the injection is no longer advocated,as this may result in the drug being injected into subcutaneous fat, not muscle
+
+Aspirating or drawing back on a syringe to check if the needle is in a blood vessel is no longer advised for IM injections in the thigh
+
+Massaging the site following the injection is no longer advocated because it may dispel the drug out of the muscle tissue.
+
+Opening the glass adrenaline ampoule
+
+Before opening the ampoule, it may be necessary to gently tap the top to dispel any remnants of the drug back to the bottom. Cuts and lacerations can occur when opening glass ampoules,particularly if the glass ampoule shatters due to too much pressure being applied. To minimise the risk of injury:
+
+If the glass does shatter, then the broken glass and contents will need to be carefully discarded and another ampoule used.
+
+Procedure for IM injection
+
+The suggested procedure for IM injection below is a practical modification of the ideal procedure described comprehensively elsewhere, reflecting the urgency of the life-threating situation and the need to administer adrenaline without delay in order to save life:
+
+Management
+
+The Resuscitation Council UK algorithm for initial treatment of anaphylaxis is depicted in. The management of suspected anaphylaxis is:
+
+Box 1 SBAR communication tool for use in healthcare settings
+
+Situation
+
+Background
+
+Assessment
+
+Recommendation
+
+Information derived from:
+
+Debrief
+
+A debrief should be planned and undertaken following any medical emergency to learn from the incident in order to try and improve for next time. A significant event analysis should also be done, but is probably best undertaken at a later date.
+
+Documentation
+
+Accurate record keeping will be expected.When able to do so, record the circumstances immediately before the onset of symptoms to help to identify the possible trigger of the anaphylactic reaction, the acute clinical features of the suspected anaphylactic reaction and the time of onset of the reaction.
+
+Reporting obligations
+
+Anaphylaxis suspected to be related to a medication should be reported to the MHRAusing the yellow card system. Fatal anaphylaxis in a dental practice may need to be reported to the CQC.
+
+Conclusion
+
+Anaphylaxis can be life threatening. This article has described the management of anaphylaxis in the dental practice following Resuscitation Council UK guidelines, with particular reference to how to administer an IM injection.
