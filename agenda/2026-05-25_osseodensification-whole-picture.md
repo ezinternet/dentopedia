@@ -35,7 +35,7 @@ Fontes Pereira et al. 2023 (JCM, SR, PMID 38002660)의 4-application taxonomy를
 - wiki/sinus-lift/transcrestal/el-ghobashy-osseodensification-vs-osteotome-transcrestal-sinus.md — sub-antral RCT
 - wiki/sinus-lift/transcrestal/gaspar-2025-osseodensification-crestal-maxillary-sinus-elevation-narrative-review.md
 - wiki/sinus-lift/transcrestal/shalash-2023-crestal-sinus-elevation-densah-oblique.md
-- wiki/overviews/d4-bone-densah-protocol.html — 저밀도골 적용 인터랙티브 (이미 존재; 본 작업물은 cross-link)
+- interactives/2026-05-18_d4-bone-densah-protocol.html — 저밀도골 적용 인터랙티브 (이미 존재; 본 작업물은 cross-link. 2026-09-02: wiki/overviews/에서 interactives/로 재배치 + 라이트 테마 전환 + frontmatter 추가, OPERATIONS.md §7·hard rule 위반 시정)
 - wiki/overviews/sinus-lift-technique-selection.md — 술식 선택 (이미 존재; cross-link)
 
 # Output
