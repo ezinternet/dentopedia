@@ -21,6 +21,8 @@ relations:
     target: hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry
   - type: reinforces
     target: bina-2018-true-allergy-amide-local-anesthetics-case
+  - type: reinforces
+    target: jevon-2020-management-anaphylaxis-dental-practice-update
 ---
 
 ## Three-line Summary

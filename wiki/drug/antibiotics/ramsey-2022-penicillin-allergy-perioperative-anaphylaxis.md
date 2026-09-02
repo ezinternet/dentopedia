@@ -20,6 +20,8 @@ relations:
     target: wilson-2021-ie-prophylaxis-aha-scientific-statement
   - type: refines
     target: thornhill-2019-adverse-reactions-oral-antibiotics-dentists
+  - type: reinforces
+    target: jevon-2020-management-anaphylaxis-dental-practice-update
 tags: [penicillin-allergy, perioperative-anaphylaxis, cephalosporin, cross-reactivity, cefazolin, delabeling, antibiotic-prophylaxis, penicillin-skin-test, group-b-streptococcus, pregnancy, allergy-referral]
 ---
 

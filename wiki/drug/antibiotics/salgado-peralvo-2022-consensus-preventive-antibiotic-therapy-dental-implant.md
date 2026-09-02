@@ -23,6 +23,8 @@ relations:
     target: mohammadpour-2025-antibiotic-prophylaxis-oral-surgery-sr
   - type: reinforces
     target: diaz-2025-antibiotics-sinus-lift-infection-umbrella
+  - type: extends
+    target: salgado-peralvo-2021-penicillin-allergy-risk-factor-early-implant-failure
 ---
 
 ## Three-line Summary
