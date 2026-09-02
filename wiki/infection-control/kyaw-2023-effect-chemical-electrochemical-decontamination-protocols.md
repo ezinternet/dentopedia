@@ -6,7 +6,7 @@ date: 2023-09-01
 doi: "10.1111/cid.13269"
 source: kyaw-2023-effect-chemical-electrochemical-decontamination-protocols.md
 category: [infection-control]
-evidence_level: rct
+evidence_level: in-vitro
 source_collection: pubmed-text
 full_text: false
 pmid: "37654160"
@@ -21,7 +21,7 @@ relations:
 
 ## Three-line Summary
 
-RCT (90 bone-level titanium implants + 90 HAs, 80 patient-retrieved) comparing NaOCl-only ultrasonication vs combined chemical + electrochemical decontamination across single, double, triple, and >triple reuse cycles, measuring micro-CT contact surface area, micro-gap, microleakage, and SEM/EDX surface morphology.
+In vitro comparative study — specimens randomized to protocol, not patients (90 bone-level titanium implants + 90 HAs, 80 patient-retrieved, tested on the bench) — comparing NaOCl-only ultrasonication vs combined chemical + electrochemical decontamination across single, double, triple, and >triple reuse cycles, measuring micro-CT contact surface area, micro-gap, microleakage, and SEM/EDX surface morphology.
 
 Repeated NaOCl-only cleaning progressively worsened the implant–HA interface (largest micro-gap and microleakage at >triple use), while the combined chemical + electrochemical protocol removed debris up to triple use without surface alteration, staying near the new-HA control.
 
@@ -29,7 +29,7 @@ Titanium HA reuse is acceptable for multiple cycles only with the combined chemi
 
 ## 세줄요약
 
-RCT(골-수준 티타늄 임플란트 90개 + 힐링어버트먼트 90개, 80개 환자 회수): NaOCl 단독 초음파 세척 vs 화학 + 전기화학(Electrochemical) 병용 세척을 단회·2·3·3회 초과 재사용별로 비교 — micro-CT 접촉면적·미세틈새(Micro-gap)·미세누출·SEM/EDX 평가.
+체외(in vitro) 비교 실험(환자가 아니라 검체를 프로토콜별로 무작위 배정; 골-수준 티타늄 임플란트 90개 + 힐링어버트먼트 90개, 80개 환자 회수 후 벤치에서 평가): NaOCl 단독 초음파 세척 vs 화학 + 전기화학(Electrochemical) 병용 세척을 단회·2·3·3회 초과 재사용별로 비교 — micro-CT 접촉면적·미세틈새(Micro-gap)·미세누출·SEM/EDX 평가.
 
 NaOCl 단독 반복 세척은 재사용 횟수에 따라 micro-gap·미세누출이 점진적으로 악화(3회 초과 시 최대)된 반면, 병용 프로토콜은 3회 재사용까지 표면 변화 없이 오염물 제거 — 신품 대조군에 근접.
 
@@ -37,7 +37,7 @@ NaOCl 단독 반복 세척은 재사용 횟수에 따라 micro-gap·미세누출
 
 ## Summary
 
-Kyaw et al. (2023) is a randomized controlled trial — the highest study design in this wiki's "healing abutment (HA) reuse" batch — testing whether reused titanium HAs can be decontaminated **without damaging the implant–abutment interface**. Where the in vitro batch papers argue over how much residual protein/biofilm survives cleaning ([[infection-control/burioni-2024-could-dental-material-reuse-play]], [[infection-control/cetinsoy-2026-ultrasonication-assisted-sequential-chemical-removal]], [[infection-control/naghsh-2024-comparison-four-decontamination-procedures-reusing]]) and whether the peri-implant biologic response tolerates reuse ([[infection-control/abreu-2024-assessment-detoxification-strategies-used-dental]]), Kyaw adds a distinct **device-integrity axis**: contact surface area, micro-gap volume, and microleakage measured across escalating reuse frequency.
+Kyaw et al. (2023) is an in vitro / ex vivo comparative study — specimens (implants + retrieved HAs) randomized to a decontamination protocol, not patients to a clinical intervention, so it sits alongside this wiki's other bench-level "healing abutment (HA) reuse" papers rather than above them — testing whether reused titanium HAs can be decontaminated **without damaging the implant–abutment interface**. Where the other in vitro batch papers argue over how much residual protein/biofilm survives cleaning ([[infection-control/burioni-2024-could-dental-material-reuse-play]], [[infection-control/cetinsoy-2026-ultrasonication-assisted-sequential-chemical-removal]], [[infection-control/naghsh-2024-comparison-four-decontamination-procedures-reusing]]) and whether the peri-implant biologic response tolerates reuse ([[infection-control/abreu-2024-assessment-detoxification-strategies-used-dental]]), Kyaw adds a distinct **device-integrity axis**: contact surface area, micro-gap volume, and microleakage measured across escalating reuse frequency.
 
 The key finding is that the *cleaning method itself* alters device integrity. Repeated **NaOCl-only** cleaning (ultrasonic 5.25% NaOCl + autoclave) progressively enlarged the micro-gap and microleakage and shrank the implant–HA contact surface, worst at >triple use. Adding an **electrochemical** step kept the interface near the new-HA control even up to triple use, with residual debris optimally removed and no surface alteration. Kyaw therefore stakes out the **pro-reuse-with-rigorous-protocol** pole: Ti HAs may be reused multiple times *provided* a combined chemical + electrochemical protocol is used — a conclusion in direct tension with abreu-2024's biologic "do not reuse," and one that refines the anchor SR [[infection-control/bidra-2019-should-healing-abutments-cover-screws]] by making reuse-adequacy conditional on the specific decontamination protocol rather than a blanket yes/no.
 
@@ -52,7 +52,7 @@ The key finding is that the *cleaning method itself* alters device integrity. Re
 
 ## Methodology
 
-- **Design**: Randomized controlled trial on retrieved + new titanium HAs.
+- **Design**: In vitro / ex vivo comparative study — retrieved + new titanium HA specimens randomized to decontamination protocol, then assessed by bench methods (no patient-level clinical intervention or outcome).
 - **Specimens**: 90 bone-level titanium implants + 90 bone-level titanium HAs; **80 contaminated HAs collected from human participants** (patient-retrieved).
 - **Cleaning groups**:
   - **Group I** — ultrasonication with 5.25% NaOCl (15 min) + steam autoclave.
