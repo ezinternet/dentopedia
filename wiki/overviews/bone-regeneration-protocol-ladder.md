@@ -205,7 +205,7 @@ Clinical takeaway: socket-defect-driven decision tree — intact 4-wall socket �
 ### Related overviews
 
 - [[overviews/sinus-lift-technique-selection]] — 상악동 거상 결정 (인접 주제)
-- [[overviews/d4-bone-densah-protocol]] — 저밀도골 osseodensification (인접)
+- [[interactives/2026-05-18_d4-bone-densah-protocol]] — 저밀도골 osseodensification (인접)
 - [[overviews/osseodensification-clinical-applications]] — OD 전체 (본 세션 작업)
 
 ## 원장 메모 체크리스트
