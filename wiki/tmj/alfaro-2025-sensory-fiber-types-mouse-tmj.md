@@ -8,7 +8,7 @@ pmcid: PMC12402272
 pmid: 40890331
 source_collection: pubmed-text
 full_text: true
-source: sources/alfaro-2025-sensory-fiber-types-mouse-tmj.md
+source: alfaro-2025-sensory-fiber-types-mouse-tmj.md
 text_path: /Users/oracleneo/llm-wiki/papers/alfaro-2025-sensory-fiber-types-mouse-tmj.txt
 text_filename: alfaro-2025-sensory-fiber-types-mouse-tmj.txt
 category: tmj
