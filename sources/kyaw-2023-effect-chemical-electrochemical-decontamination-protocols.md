@@ -14,11 +14,11 @@ text_filename: kyaw-2023-effect-chemical-electrochemical-decontamination-protoco
 
 ## Why Ingested
 
-Part of the "healing abutment (HA) reuse" controversy batch. [[infection-control/bidra-2019-should-healing-abutments-cover-screws]] is the anchor SR framing whether reused HAs can be adequately decontaminated; the in vitro papers in the batch (burioni-2024, abreu-2024, cetinsoy-2026, naghsh-2024) argue over how much residual protein/biofilm survives cleaning and whether the biologic response tolerates reuse. This Kyaw 2023 study is the **highest study design in the set (RCT on patient-retrieved HAs)** and it adds a device-integrity axis the others omit — it does not just ask "is the surface clean?" but "does repeated reuse + cleaning damage the implant–HA interface (contact surface area, micro-gap, microleakage)?" It stakes out the pro-reuse-with-rigorous-protocol pole: Ti HAs can be reused multiple times **if** a combined chemical + electrochemical protocol is used, in tension with abreu-2024's biologic "do not reuse."
+Part of the "healing abutment (HA) reuse" controversy batch. [[infection-control/bidra-2019-should-healing-abutments-cover-screws]] is the anchor SR framing whether reused HAs can be adequately decontaminated; the in vitro papers in the batch (burioni-2024, abreu-2024, cetinsoy-2026, naghsh-2024) argue over how much residual protein/biofilm survives cleaning and whether the biologic response tolerates reuse. This Kyaw 2023 study is **another in vitro / ex vivo comparative study (specimens randomized to decontamination protocol, on patient-retrieved HAs) — not a clinical RCT** despite the "randomized" framing, since no patient received a clinical intervention or had a clinical outcome measured. It sits at the same evidence-ladder rung as the other in vitro papers in this batch, and it adds a device-integrity axis the others omit — it does not just ask "is the surface clean?" but "does repeated reuse + cleaning damage the implant–HA interface (contact surface area, micro-gap, microleakage)?" It stakes out the pro-reuse-with-rigorous-protocol pole: Ti HAs can be reused multiple times **if** a combined chemical + electrochemical protocol is used, in tension with abreu-2024's biologic "do not reuse."
 
 ## Three-line Summary
 
-RCT on 90 implants + 90 HAs (80 patient-retrieved): repeated NaOCl-only cleaning progressively enlarged micro-gap/microleakage and shrank implant–HA contact surface, whereas combined chemical + electrochemical decontamination removed debris up to triple use without altering the surface, near the new-HA control — so Ti HA reuse is acceptable multiple times only with the combined protocol.
+In vitro comparative study on 90 implants + 90 HAs (80 patient-retrieved, tested on the bench — specimens randomized to protocol, not patients): repeated NaOCl-only cleaning progressively enlarged micro-gap/microleakage and shrank implant–HA contact surface, whereas combined chemical + electrochemical decontamination removed debris up to triple use without altering the surface, near the new-HA control — so Ti HA reuse is acceptable multiple times only with the combined protocol.
 
 (incomplete)
 
@@ -26,7 +26,7 @@ RCT on 90 implants + 90 HAs (80 patient-retrieved): repeated NaOCl-only cleaning
 
 ## 세줄요약
 
-RCT (임플란트 90 + 힐링어버트먼트 90개, 그중 80개는 환자에서 회수): NaOCl 단독 세척을 반복하면 micro-gap·미세누출이 점점 커지고 임플란트–HA 접촉면이 줄었지만, 화학 + 전기화학 병용 세척은 3회 재사용까지 표면 변화 없이 오염물을 제거해 신품 대조군에 근접 — 따라서 티타늄 HA 다회 재사용은 병용 프로토콜을 쓸 때만 허용된다.
+체외(in vitro) 비교 실험 (임플란트 90 + 힐링어버트먼트 90개, 그중 80개는 환자에서 회수 후 벤치에서 평가 — 검체를 프로토콜별로 무작위 배정, 환자 무작위배정 아님): NaOCl 단독 세척을 반복하면 micro-gap·미세누출이 점점 커지고 임플란트–HA 접촉면이 줄었지만, 화학 + 전기화학 병용 세척은 3회 재사용까지 표면 변화 없이 오염물을 제거해 신품 대조군에 근접 — 따라서 티타늄 HA 다회 재사용은 병용 프로토콜을 쓸 때만 허용된다.
 
 (incomplete)
 
@@ -38,7 +38,7 @@ RCT (임플란트 90 + 힐링어버트먼트 90개, 그중 80개는 환자에서
 - **Authors**: Kyaw TT, Abdou A, Arunjaroensuk S, Nakata H, Kanazawa M, Pimkhaokham A
 - **Journal**: Clinical Implant Dentistry and Related Research 2023;25(6):1207–1215 (e-pub 2023-09-01)
 - **DOI**: 10.1111/cid.13269 | **PMID**: 37654160
-- **Study type**: Randomized controlled trial (bench/RCT on patient-retrieved healing abutments) — highest study design in the reuse batch
+- **Study type**: In vitro / ex vivo comparative study (specimens randomized to decontamination protocol, on patient-retrieved healing abutments) — not a clinical RCT; ranks with the batch's other in vitro papers, not above them
 - **Source**: PubMed abstract; full text not retrieved (no PMC; paywalled) — **abstract-only**
 
 ## 2. Key Contributions
