@@ -78,7 +78,7 @@ Evidence base is entirely observational and small; the biological/mechanical imp
 - [[eswaramurthy-2021-contemporary-sterilization-protocols-healing-abutments]] — companion SR; no protocol achieves a 100% virgin surface.
 - [[burioni-2024-could-dental-material-reuse-play]] — in vitro; residual protein persists after sterilization.
 - [[abreu-2024-assessment-detoxification-strategies-used-dental]] — in vitro; inflammatory cytokines persist → clinicians should not reuse.
-- [[kyaw-2023-effect-chemical-electrochemical-decontamination-protocols]] — RCT; reuse acceptable with a combined chemical + electrochemical protocol.
+- [[kyaw-2023-effect-chemical-electrochemical-decontamination-protocols]] — in vitro (not a clinical RCT); reuse acceptable with a combined chemical + electrochemical protocol.
 - [[naghsh-2024-comparison-four-decontamination-procedures-reusing]] — in vitro; NaOCl + air polishing effective.
 - [[cetinsoy-2026-ultrasonication-assisted-sequential-chemical-removal]] — in vitro; 1% NaOCl + ultrasonication removes 99.7% of biofilm.
 - [[paganotto-2022-reuse-healing-abutments-ethical-biological]] — survey; 98.1% reuse prevalence (ethical/biological framing).
