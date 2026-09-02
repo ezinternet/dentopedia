@@ -3,7 +3,7 @@ title: "The intriguing strategies of Tannerella forsythia host interaction"
 authors: "Schäffer C, Andrukhov O"
 year: 2024
 doi: 10.3389/froh.2024.1434217
-source: sources/schaffer-2024-intriguing-strategies-tannerella-forsythia-host.md
+source: schaffer-2024-intriguing-strategies-tannerella-forsythia-host.md
 category: oral-microbiology
 evidence_level: narrative-review
 source_collection: pubmed-abstract
