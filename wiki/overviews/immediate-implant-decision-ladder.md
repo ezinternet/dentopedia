@@ -320,7 +320,7 @@ Liu 2025 ([[immediate-implant/liu-2025-iip-iipp-classification-surgical-restorat
 ### Related overviews
 
 - [[overviews/bone-regeneration-protocol-ladder]] — 발치 후 ARP (Type 1 IIP의 대안)
-- [[overviews/d4-bone-densah-protocol]] — 저밀도골 osseodensification (IIP 1차 안정성 보조)
+- [[interactives/2026-05-18_d4-bone-densah-protocol]] — 저밀도골 osseodensification (IIP 1차 안정성 보조)
 - [[overviews/osseodensification-clinical-applications]] — OD가 IIP에 미치는 영향
 - [[overviews/dental-materials-decision-ladder]] — IIP에서 사용하는 보철 재료
 - [[overviews/sinus-lift-technique-selection]] — 상악 구치부 IIP + sinus elevation 동반
