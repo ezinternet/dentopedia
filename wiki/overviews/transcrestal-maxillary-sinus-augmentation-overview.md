@@ -41,7 +41,7 @@ source_papers:
   - sinus-lift/transcrestal/liu-2018-endoscopically-controlled-flapless-transcrestal-sinus
   - sinus-lift/transcrestal/mccrea-2012-trans-socket-sinus-floor-elevation
   - sinus-lift/transcrestal/song-2020-tenting-effect-implant-sinus-graftless
-  - sinus-lift/transcrestal/changrani-2024-haenaem-zero-bone-loss-indirect-sinus-lift
+  # changrani-2024-haenaem-zero-bone-loss-indirect-sinus-lift — RETRACTED, dropped from source_papers 2026-09-02; kept only as a marked pointer in Related Papers so RAG hits the retraction notice. Not synthesized here.
   - sinus-lift/transcrestal/damsaz-2023-bppv-incidence-closed-sinus-lift-ridge-split
   - sinus-lift/transcrestal/mudalal-2019-endoscopic-sinus-lifting-immediate-implant
   - sinus-lift/transcrestal/farina-2018-morbidity-transcrestal-lateral-sinus-floor-elevation
@@ -260,7 +260,7 @@ OD는 식립 시 및 지대주 연결 시 임플란트 안정성 지수(Implant 
 - [[sinus-lift/transcrestal/zhao-2018-transalveolar-osteotome-sinus-floor-rct-protocol]] — RCT 프로토콜
 - [[sinus-lift/transcrestal/mccrea-2012-trans-socket-sinus-floor-elevation]] — 발치와 즉시
 - [[sinus-lift/transcrestal/song-2020-tenting-effect-implant-sinus-graftless]] — Tenting 효과
-- [[sinus-lift/transcrestal/changrani-2024-haenaem-zero-bone-loss-indirect-sinus-lift]] — Zero bone loss
+- [[sinus-lift/transcrestal/changrani-2024-haenaem-zero-bone-loss-indirect-sinus-lift]] — **⚠️ RETRACTED / 철회됨 — 임상근거로 인용 금지.** HaeNaem CW-OD 버 경치조 간접 거상 전향적 단일군(n=12, RCBH 6–8mm, 무이식); 4mo CBCT 4방향 골고↑(p<0.01)로 보고됐으나 이후 철회 — 위 수치 사용 금지. 이 overview의 어떤 주장도 이 논문에 의존하지 않으며, graft-free 경치조 OD의 유효 근거는 [[sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis]](Densah 중심)에 있다. [근거 무효]
 - [[sinus-lift/transcrestal/mudalal-2019-endoscopic-sinus-lifting-immediate-implant]] — 내시경 즉시
 - [[sinus-lift/transcrestal/farina-2018-morbidity-transcrestal-lateral-sinus-floor-elevation]] — 이환율 비교
 - [[sinus-lift/transcrestal/volpe-2022-osteotome-blood-clot-collagen-sponge-atrophied-maxilla]] — 혈전 콜라겐
