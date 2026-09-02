@@ -4270,3 +4270,6 @@ tags: []
 
 ### local-anesthesia
 - [[local-anesthesia/cherrez-ojeda-2024-knowledge-attitudes-anaphylaxis-local-anesthetics]] — Cherrez-Ojeda 2024 · cross-sectional (BDJ Open, 라틴아메리카 치과의사 480명): 국소마취제 아나필락시스 대비도 격차 — 호흡곤란 인지 85.2%지만 에피네프린 IM 경로 인지 50.1%·응급키트 에피네프린 보유 43.5%(응급약 전무 22.1%)·관리 자신감 9.6%; 고령·긴 경력이 지식·에피네프린 보유와 역상관 → 실습 응급교육 필요
+
+### overviews (2026-09-03 synthesis)
+- [[overviews/penicillin-allergy-dental-antibiotic-overview]] — **NEW Overview** (17편, 2026-09-03): 페니실린 알레르기 대책 — 진짜 1차 문제는 알레르기가 아니라 **"라벨"**(인구 ~10% 보유, 자가보고의 80–99%가 검사에서 부정). 페니실린-세팔로스포린 교차반응은 통설 8–10%가 아니라 **0.7%**(확진 시 3%)이며 우리 근거는 이를 곁사슬 아닌 **역학**으로 설명. 2021 AHA는 IE 예방 전 처방에서 **클린다마이신 삭제**(치명 ADR 2.9/백만 = 아목시실린 ~29배; 임플란트 실패 RR 3.84/OR 3.10 — 단 SRPA 교란). 위계: **라벨 평가/해제 → 세팔로스포린 → 마크로라이드 → 클린다마이신(최후 수단)**. 시술별 대체약 표 포함. **살아있는 모순**: 클린다마이신 회피(Wilson/Thornhill/Salgado-Peralvo) vs 여전히 1차 대체약(Segura-Egea/Torof/Mohammadpour/Díaz) — 적응증 축(예방 삭제 vs 치료 유효)으로 갈림. 한국인 유병률·라벨해제 데이터 0편.
