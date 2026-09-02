@@ -2,7 +2,7 @@
 title: "전신질환·약물·전신질환관리 — systemic-disease"
 authors: navigation
 year: 2026
-date: 2026-08-11
+date: 2026-09-02
 doi: N/A
 source: navigation
 category: drug/systemic-disease
@@ -15,20 +15,20 @@ tags: [navigation, category-index, systemic-disease]
 > [!summary] 한국어 핵심요약
 > - **분야**: 전신질환·약물·전신질환관리
 > - **범위**: Medically compromised patients — diabetes (HbA1c assay & interpretation), cardiovascular disease & perioperative hemodynamics, Sjögren classification criteria, renal/hepatic impairment, polypharmacy, drug–drug interactions, immunosuppression; systemic-disease ↔ oral-disease relationship reviews. The…
-> - **수록 논문**: 19편
+> - **수록 논문**: 20편
 
 ## Three-line Summary
 
 **Scope**: Medically compromised patients — diabetes (HbA1c assay & interpretation), cardiovascular disease & perioperative hemodynamics, Sjögren classification criteria, renal/hepatic impairment, polypharmacy, drug–drug interactions, immunosuppression; systemic-disease ↔ oral-disease relationship reviews.
-**Indexed papers**: 19 papers in `wiki/drug/systemic-disease/`.
+**Indexed papers**: 20 papers in `wiki/drug/systemic-disease/`.
 
 ## 세줄요약
 
 **분야**: 전신질환·약물·전신질환관리
-**수록 논문**: 19편
+**수록 논문**: 20편
 **하위 카테고리**: 없음
 
-## Papers in this Category (19)
+## Papers in this Category (20)
 
 | Paper |
 |---|
@@ -38,6 +38,7 @@ tags: [navigation, category-index, systemic-disease]
 | [[elhusseiny-2024-oral-health-children-chronic|Oral Health in Children with Chronic Kidney Disease, Hemodialysis, and Renal Transplantation: A Comprehensive Narrative Review of the Oral Manifestations and Dental Implications]] |
 | [[enteghad-2024-diabetes-mellitus-periodontal-periimplant-disease-review|Relationship Between Diabetes Mellitus and Periodontal/Peri-Implant Disease: A Contemporaneous Review]] |
 | [[franceschini-2017-sjogren-2016-acr-eular-criteria-commentary|The 2016 classification criteria for primary Sjögren syndrome: what's new?]] |
+| [[jevon-2020-management-anaphylaxis-dental-practice-update|Management of anaphylaxis in the dental practice: an update]] |
 | [[khalilurrahman-2026-raas-inhibitor-statin-periodontal-status-sr-ma|Effect of Renin–Angiotensin–Aldosterone System Inhibitor and Statin Medication on Periodontal Status of Patients at Risk of Cardiovascular Disease: A Systematic Review and Meta-Analysis]] |
 | [[kumari-2025-hemodynamic-fluctuations-during-tooth-extraction|Hemodynamic Fluctuations During Tooth Extraction Under Local Anesthesia]] |
 | [[legoff-2017-sjogren-classification-criteria-comparison|Comparison of 2002 AECG and 2016 ACR/EULAR classification criteria in suspected primary Sjögren syndrome + salivary gland ultrasonography]] |
