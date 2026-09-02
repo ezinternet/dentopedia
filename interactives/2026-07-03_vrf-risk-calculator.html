@@ -4,6 +4,7 @@ title: "수직치근파절(VRF) 위험도 계산기 — 근관치료 대구치"
 type: interactive
 date: 2026-07-03
 status: done
+verified: 2026-09-02
 category: endo
 agenda: agenda/2026-07-03_vrf-risk-calculator-interactive.md
 source_wiki:
@@ -12,6 +13,15 @@ source_wiki:
   - wiki/endodontics/diagnosis/alkhani-2026-optical-coherence-tomography-detection-dental.md
   - wiki/cracked-tooth/patel-2025-position-statement-longitudinal-cracks-fractures.md
   - wiki/overviews/cracked-tooth-syndrome-overview.md
+notes: |
+  2026-09-02 재검증: cracked-tooth-syndrome-overview 2026-08-31 갱신(kakka-2022 통합, 21편)
+  — Iowa Index(치근단 진단 불량 + 원심변연융선 균열 + 치주탐침 ≥5mm → 예후불량), 치수생존율
+  80–93%, 무증상 균열치 모니터링 정량화(1년 증상 감소 23% vs 악화 10%)가 추가됨.
+  검토: 이 계산기의 OR 곱 모델은 Lee 2026 환자-대조(44 VRF vs 92 대조, 통합 AUC 0.940)에서
+  추출한 4인자(치근단부 상아질 과소실 OR 12.9 · 치아종류 · reRCT 병력 · pRCT 경과기간) 고정 —
+  Iowa Index는 별도 프레임(균열치 예후, VRF 환자-대조 아님)이라 OR 수치를 바꾸지 않는다.
+  다만 두 인자(치근단 진단·심부 탐침)가 수렴하므로 하단에 convergent-evidence 주석 추가.
+  로직·수치 변경 없음, verified만 갱신.
 ---
 -->
 <!DOCTYPE html>
@@ -202,6 +212,12 @@ source_wiki:
     <h3>⚠️ "성형을 최소화하면 파절이 예방된다"는 통념 주의</h3>
     <p>Rathke 2024 (ex vivo, n=18/군)에서 최소침습 근관성형(#40/.04)은 관행 확대(ISO #80) 대비 씹기 시뮬레이션 후 VRF 저항성·균열 발생률을 유의하게 낮추지 못했으며, 오히려 +MIE/시멘트 실러 조합은 무처치 대조군보다 저항성이 낮았습니다(p=0.020). 근관성형 술식 자체보다 <b>재치료 횟수·경과기간·치아종류</b>가 이번 계산기의 더 강한 예측인자입니다.</p>
     <p class="cite">근거: [[endodontics/shaping/rathke-2024-ex-vivo-minimally-invasive-endodontic]]</p>
+  </div>
+
+  <div class="warn-card">
+    <h3>🔀 수렴 근거 — Iowa Index (균열치 예후, 별도 프레임)</h3>
+    <p>Cracked Tooth Syndrome 오버뷰(Kakka 2022 통합)의 <b>Iowa Index</b>는 ① 치근단 진단 불량 ② 원심변연융선 균열 포함 ③ 치주탐침 깊이 ≥5mm 세 인자가 겹칠수록 예후가 급격히 악화된다고 봅니다. 이는 <i>균열치 예후</i> 프레임이라 이 계산기의 VRF 환자-대조 OR(Lee 2026)을 바꾸지 않지만, 치근단 병소와 심부 단독 탐침이라는 두 축이 독립적으로 수렴하는 점은 이 계산기의 위험 판정을 보강합니다.</p>
+    <p class="cite">근거: [[overviews/cracked-tooth-syndrome-overview]] · [[cracked-tooth/kakka-2022-treatment-cracked-teeth-comprehensive-narrative]]</p>
   </div>
 
   <div class="footnote">
