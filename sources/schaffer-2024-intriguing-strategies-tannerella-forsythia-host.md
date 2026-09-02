@@ -12,6 +12,14 @@ date: 2024-05-30
 source_collection: pubmed-abstract
 ---
 
+## Three-line Summary
+
+*Tannerella forsythia*, the least-studied red-complex member, fields a molecular arsenal — S-layer O-glycosylation, BspA, NanH sialidase, KLIKK proteases, OMVs, and LPS — that modulates innate immune defense without achieving keystone-pathogen equivalence to *P. gingivalis*. Its defining survival adaptation is MurNAc auxotrophy, enforcing biofilm co-dependency. The S-layer glycosylation pattern is the pivotal immunological switch: native nonasaccharide enables persistence; truncation triggers Th17-mediated clearance and reduced bone loss.
+
+## 세줄요약
+
+타네렐라 포르시티아는 가장 덜 연구된 적색복합체 구성원으로, S층 O-당화·BspA·시알리다아제·KLIKK 프로테아제·외막소포·LPS라는 분자 무기고를 통해 선천면역을 조절하지만, P. gingivalis 수준의 키스톤 병원체로는 아직 인정되지 않는다. 고유한 생존 적응 전략은 MurNAc 요구증으로, 생물막 공생 의존성을 강제한다. S층 당화 패턴이 핵심 면역 스위치로 작동해, 완전한 9당 수식은 숙주 내 지속을 허용하고 절단 시 Th17 반응과 치조골 소실 감소를 유도한다.
+
 ## Why Ingested
 
 Socransky 1998 places *Tannerella forsythia* in the red complex but no dedicated molecular virulence mechanism page existed for this species. This 2024 review fills the gap by cataloguing T9SS, O-glycosylation, S-layer, BspA, sialidase, and protease pathways. Reinforces [[oral-microbiology/socransky-1998-microbial-complexes-subgingival-plaque]] and complements [[oral-microbiology/hajishengallis-2014-porphyromonas-gingivalis-host-manipulation]] as a parallel organism-level analysis.
