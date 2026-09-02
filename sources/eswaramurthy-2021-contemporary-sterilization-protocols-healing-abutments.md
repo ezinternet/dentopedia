@@ -79,7 +79,7 @@ Because residual microbial/protein contamination persists after any resterilizat
 - Surgical HA guidance (cover screws): [[wiki/infection-control/bidra-2019-should-healing-abutments-cover-screws]]
 - In-vitro residual-protein persistence after cleaning: [[wiki/infection-control/burioni-2024-could-dental-material-reuse-play]]
 - In-vitro detoxification strategies / persistent inflammation: [[wiki/infection-control/abreu-2024-assessment-detoxification-strategies-used-dental]]
-- Chemical decontamination RCT (reuse acceptable with combined protocol): [[wiki/infection-control/kyaw-2023-effect-chemical-electrochemical-decontamination-protocols]]
+- Chemical decontamination in vitro study, not a clinical RCT (reuse acceptable with combined protocol): [[wiki/infection-control/kyaw-2023-effect-chemical-electrochemical-decontamination-protocols]]
 - In-vitro NaOCl + air-polishing decontamination: [[wiki/infection-control/naghsh-2024-comparison-four-decontamination-procedures-reusing]]
 - Survey of reuse prevalence (98.1%): [[wiki/infection-control/paganotto-2022-reuse-healing-abutments-ethical-biological]]
 
