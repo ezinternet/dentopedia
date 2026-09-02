@@ -4256,3 +4256,16 @@ tags: []
 ### implants
 - [[implants/qiu-2024-comprehensive-biomechanical-evaluation-length-diameter]] — FEA SR 40편(2003–2023): 직경이 길이보다 응력 감소에 더 중요, 짧고 굵은 임플란트가 길고 가는 임플란트보다 낮은 피질골·치조정 응력 발생
 - [[implants/ceddia-2025-crestal-position-splinted-implant-fea]] — 3개 임플란트 연결 보철물의 수직 플랫폼 정렬(치조정·치조하)이 골-임플란트 계면 응력에 미치는 영향 FEA: 혼합 구성 B 경사 하중 시 피질골 응력 ~116 MPa(생리적 한계 근접), 전 치조하 구성 D에서 32 MPa로 최소 (Ceddia 2025)
+
+## Batch ingest (added 2026-09-02) — 페니실린 알레르기 대책 + 아나필락시스·급성반응 관리 (PMC 전문텍스트 서베일런스, 5편 신규)
+
+### drug/antibiotics
+- [[drug/antibiotics/salgado-peralvo-2022-consensus-preventive-antibiotic-therapy-dental-implant]] — Salgado-Peralvo 2022 · consensus · 스페인 임플란트학회(SEI) 첫 임상진료지침, 6개 PICO를 SIGN+GRADE로 등급화: 통상 식립은 술전 아목시실린 2~3g 단회(GRADE A)·술후 연장 없음·보철단계 무투여(GRADE D); PAT는 조기실패만 예방(NNT 24~50), 감염은 못막음(NNT 143). 페니실린 알레르기: 클린다마이신 회피(실패·감염 최대 6배)→식립 아지트로마이신 500mg 술전 1h(GRADE C), 즉시임플란트 아지트로마이신/클라리트로마이신/메트로니다졸 수일요법(GRADE D), 상악동거상 시프로플록사신 500mg/12h×9일(GRADE D)
+- [[drug/antibiotics/salgado-peralvo-2021-penicillin-allergy-risk-factor-early-implant-failure]] — Salgado-Peralvo 2021 · sr(메타분석 없음, 5편: 관찰코호트 4·후향 환자대조 1) · 페니실린 알레르기+클린다마이신 임플란트 조기실패 24.68% vs 8.03%(RR 3.84)·2.10% vs 0.80%(OR 3.10), 감염 최대 6배, 즉시 임플란트 5.7~10배 — 단 5편 중 4편 자가보고 알레르기(SRPA) 미확진이라 "알레르기 자체"는 위험인자 단정 불가, 저자 권고: 알레르기 확진검사 + 클린다마이신 회피, 아지트로마이신 500mg 술전 1h
+- [[drug/antibiotics/ramsey-2022-penicillin-allergy-perioperative-anaphylaxis]] — Ramsey 2022 · narrative-review · 페니실린 알레르기(인구 ~10%, 대다수 비진성)와 수술기 아나필락시스(시술 6,531건당 1건, 2% 치명적) 리뷰; 페니실린-세팔로스포린 이중 알레르기 0.7%(확인 시 3%)로 과거 8~10% 통설 반박 — 미검증 저위험 라벨엔 세파졸린 안전, 수술 전 delabeling 권고
+
+### drug/systemic-disease
+- [[drug/systemic-disease/jevon-2020-management-anaphylaxis-dental-practice-update]] — Jevon 2020 · narrative-review (BDJ) · 치과 아나필락시스 관리: IM 아드레날린 500 µg(>12y) 대퇴 전외측 중간 1/3, 5분 간격 반복; 유발원 항생제(아목시실린 ~50%)·클로르헥시딘(발치와 세척 영국 사망 2건)·라텍스·LA 첨가제; AAI 공급난으로 앰플+주사기 IM이 GDP 필수역량 (PMC 전문 — 용량 박스·RC UK 알고리즘 figure 미렌더, 현행 Resuscitation Council UK 지침 교차확인 필요)
+
+### local-anesthesia
+- [[local-anesthesia/cherrez-ojeda-2024-knowledge-attitudes-anaphylaxis-local-anesthetics]] — Cherrez-Ojeda 2024 · cross-sectional (BDJ Open, 라틴아메리카 치과의사 480명): 국소마취제 아나필락시스 대비도 격차 — 호흡곤란 인지 85.2%지만 에피네프린 IM 경로 인지 50.1%·응급키트 에피네프린 보유 43.5%(응급약 전무 22.1%)·관리 자신감 9.6%; 고령·긴 경력이 지식·에피네프린 보유와 역상관 → 실습 응급교육 필요
