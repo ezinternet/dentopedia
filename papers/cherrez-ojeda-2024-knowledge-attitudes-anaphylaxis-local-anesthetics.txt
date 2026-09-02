@@ -1,0 +1,153 @@
+TITLE: Knowledge and attitudes toward anaphylaxis to local anesthetics in dental practice
+
+ABSTRACT:
+Objective/aim
+
+The absence of a comprehensive understanding of potential anaphylactic reactions to local anesthetics (LAs) and management can result in grave consequences. For this reason we aim to assess Latin American dentists’ knowledge, preparedness, and competency in managing anaphylactic reactions to LAs.
+
+Materials and Methods
+
+A cross-sectional study was conducted from November 2021 to February 2022. Board-certified dentists answered a survey comprising 26 structured questions. Chi-square tests and logistic regression models were performed in Stata 17.0.Argentina, Brazil, Colombia, Costa Rica, Ecuador, Honduras, Mexico, Peru, Venezuela, and other Latin American countries.
+
+Results
+
+Of 507 respondents, lidocaine was the most frequently used LA (88.1%). While 85.2% could identify dyspnea as a symptom of anaphylaxis, only 50.1% knew the correct route for epinephrine administration, and just 43.5% had epinephrine in their emergency kits. Confidence in managing anaphylactic reactions was low (9.6%). Older age was inversely related to both knowledge of anaphylaxis management and the possession of epinephrine (= 0.003 and= 0.0001, respectively).
+
+Discussion
+
+Our study highlights a concerning discrepancy between the practical readiness of Latin American dentists in handling anaphylaxis.
+
+Conclusion
+
+The study’s findings underscore the need for educational interventions to improve the readiness to identify and handle anaphylactic emergencies in dental practice.
+
+FULL TEXT:
+Introduction
+
+In routine clinical settings, dental practitioners administer a variety of pharmacological substances, including but not limited to analgesics, antibiotics, antifungals, and local anesthetics (LAs) []. Notably, LAs play a pivotal role in mitigating pain and discomfort, thus enabling the proficient completion of diverse dental procedures such as restorations, scaling and root planning, endodontics, and minor surgeries [–].
+
+LAs function by blocking sodium ion channels in neuronal membranes, which disrupts neural signal transmission and results in localized anesthesia [,]. These agents are generally categorized into esters and amides based on their chemical structures []. Within the dental domain, amide-based anesthetics—namely, lidocaine, mepivacaine, bupivacaine, articaine, and prilocaine—are predominantly utilized [,]. Lidocaine is particularly noteworthy for its safety profile and high tolerability, solidifying its status as the preferred LA in contemporary dental practice []. Despite its prevalent use, attention must be paid to its pharmacokinetics, contraindications, and potential adverse effects [–].
+
+Allergic reactions to LAs, though rare, can be mediated by immune responses to specific chemical components or additives such as metabisulfite and preservatives like methylparaben [,]. Such reactions can manifest as either type IV hypersensitivity (delayed reactions) characterized by allergic dermatitis and swelling, or type I hypersensitivity (immediate reactions) which could be life-threatening, featuring symptoms like bronchospasm, angioedema, and anaphylaxis [,]. These immediate hypersensitive reactions are exceedingly rare, occurring in less than 1% of cases [].
+
+Management strategies for allergic reactions differ based on their severity. Mild symptoms may be controlled with antihistamines, while severe, multisystemic symptoms necessitate immediate intervention with epinephrine as the first-line treatment [–]. Additionally, a spectrum of non-allergic adverse reactions exist, including psychological apprehensions and physiological responses like vasovagal syncope or drug toxicity [–].
+
+Remarkably, some dental professionals tend to hastily diagnose anesthetic allergies without thorough clinical evaluation or specialist consultation [,]. Despite the extremely low incidence of true anaphylactic reactions, dental practitioners, particularly those specializing in fields such as oral and maxillofacial surgery, endodontics, and periodontics, should be adequately trained to diagnose and manage such events [,,,,]. The absence of comprehensive understanding in allergy testing, diagnosis, and management can result in grave consequences.
+
+Therefore, the objective of this cross-sectional study is to evaluate the awareness, preparedness, and competency of Latin American dentists concerning anaphylactic reactions to LAs. Specifically, this research aims to assess dental professionals’ knowledge of guidelines and protocols preceding anesthetic administration, their LA preferences, experiences with adverse events, and their competence in managing anaphylactic episodes [,,,].
+
+Material and methods
+
+Study design and data collection
+
+This study employed a cross-sectional design, utilizing a web-based survey platform, QuestionPro, to collect responses. The survey contained 26 structured, multiple-choice questions and targeted board-certified dentists practicing in various Latin American countries (Supplementary File). The data collection period spanned from November 8, 2021, to February 28, 2022.
+
+Sampling method
+
+A snowball sampling strategy was implemented to disseminate the survey, primarily through social media channels like WhatsApp and via email. An introductory message along with the survey’s URL was sent to prospective participants, who were then encouraged to circulate the survey among their professional contacts.
+
+Survey structure
+
+After accessing the survey link and providing informed consent, participants proceeded to answer the questions. The survey was designed to take ~8 min to complete and comprised three main sections:
+
+Inclusion and exclusion criteria
+
+The only requirement for participation was being a board-certified dentist practicing in Latin America. Dental students, professionals working outside of Latin America, and incomplete responses were excluded from the study.
+
+Statistical analysis
+
+Data were analyzed using Stata statistical software (version 17.0; Stata Corporation, College Station, Texas, USA). Categorical variables were summarized as frequencies and percentages, while continuous variables were expressed as means ± standard deviations, and appropriate statistical tests were used to compare these. The chi-square test was utilized for comparisons of categorical variables. Both univariate and multivariate logistic regression analyses were conducted to identify potential associations between dependent and independent variables. Variables that achieved statistical significance in the univariate analyses, and showed no signs of collinearity, were incorporated into the multivariate model. A 2-tailedvalue of less than 0.05 was considered to indicate statistical significance.
+
+Ethics
+
+All participants were informed of the study’s objectives. An informed consent was completed prior to their voluntary participation in the survey which also declared that their identity would not be revealed. This study was approved by the local ethics committee “Comité de ética e Investigación en Seres Humanos” (CEISH) according to the principles established by the Declaration of Helsinki.
+
+Results
+
+Participant demographics
+
+The survey reached a total of 704 Latin American dentists, with 507 respondents completing it, yielding a response rate of 72.0%. Of these, 27 respondents were excluded based on the study criteria: 15 were dental students, and 12 were practicing outside Latin America. Ultimately, data from 480 participants were included in the final analysis.
+
+The mean age of the surveyed population was 35 years, with a standard deviation of 10 years. Females comprised 59.3% of the respondents. Among the participants, general dentists were the most prevalent, making up 49.2% of the sample. The average professional experience among the dentists was ~10 years, with a standard deviation of 9 years.
+
+Geographic and professional distribution
+
+A large majority of the respondents hailed from Ecuador (81.9%), followed by Colombians (5.4%), Hondurans (4.2%), and Mexicans (2.1%). A smaller proportion of the sample consisted of dentists from Peru, Brazil, Argentina, Venezuela, Costa Rica, and other Latin American countries. Most of the dentists were employed in private practices (66.3%) and located in urban settings (78.2%).
+
+In terms of specialization, 45.0% of the participants were specialists, primarily in prosthodontics and endodontics, each making up 19.2% of this subgroup (Table).
+
+Practices in local anesthesia administration
+
+The majority of professionals predominantly used Lidocaine (88.1%) as their first choice for LAs, followed by Mepivacaine (40.8%), and Articaine (29.0%) (Table). In terms of adjuvants, a majority (60.2%) preferred LAs combined with epinephrine (Table). When it comes to pre-operative preparation, 96.7% of surveyed professionals took a detailed clinical history of their patients before initiating any procedure (Table). However, a substantial number of them (79.0%) did not administer a test dose of the local anesthetic prior to the treatment (Table).
+
+Knowledge and awareness about anaphylaxis
+
+Only 21.3% of dentists reported having encountered a systemic adverse reaction triggered by local anesthesia. As for recognizing symptoms of anaphylaxis, 85.2% identified dyspnea as a major clinical manifestation. Although 56.7% knew that epinephrine was the drug of choice for treating anaphylaxis, only 50.1% were aware that the correct route of administration is intramuscular. Further, just 43.5% had epinephrine as part of their emergency medical kit, while antihistamines were more commonly available (53.1%). Interestingly, 22.1% had none of the listed emergency drugs in their offices (Table).
+
+Attitudes toward anaphylaxis
+
+A significant percentage of professionals (63.3%) considered anaphylaxis as extremely important, with 65.4% acknowledging the crucial role of correctly identifying the condition. However, only 28.7% expressed strong confidence in identifying anaphylaxis. Even fewer felt confident managing an anaphylactic reaction (9.6%) or administering epinephrine in such cases (9.4%) (Table).
+
+Regional comparison: Ecuador vs. rest of Latin America
+
+Although the majority of respondents were from Ecuador, there were no statistically significant differences in terms of knowledge and attitudes between Ecuador and other Latin American countries (> 0.05). Nevertheless, professionals from Ecuador displayed more confidence in managing patients with anaphylaxis (49.1% vs. 31.1%,= 0.002) and in using epinephrine (45.8% vs. 27.6%,= 0.002).
+
+Knowledge of drug of choice in anaphylaxis (univariate and multivariate regression analyses)
+
+Our univariate analysis revealed several important findings (Table). Notably, respondents who reported having seen a patient with a systemic adverse reaction caused by local anesthesia were 1.48 times more likely to possess knowledge of the drug of choice for anaphylaxis, although this finding was not statistically significant (OR = 1.48, 95% CI = 0.95–2.30,= 0.08).
+
+Being confident in identifying patients at risk of anaphylaxis (OR = 1.11, 95% CI = 0.76–1.62,= 0.602), in managing anaphylaxis patients (OR = 1.05, 95% CI = 0.73–1.50,= 0.805), and in using epinephrine (OR = 1.44, 95% CI = 0.99–2.08,= 0.053) were not strongly associated with better knowledge of the drug of choice in anaphylaxis.
+
+However, recognizing dyspnea as a symptom of anaphylaxis was associated with significantly better knowledge (OR = 1.73, 95% CI = 1.04–2.87,= 0.034).
+
+Other variables, including sector of practice, type of dentist, and preference for local anesthesia with or without epinephrine, did not significantly influence the respondents’ knowledge. Age (OR = 0.97, 95% CI = 0.96–0.99,= 0.003) and years of professional experience (OR = 0.96, 95% CI = 0.94–0.98,= 0.0001) were found to be statistically significant but suggest an inverse relationship with the knowledge level.
+
+In the multivariate regression analysis (Table), recognizing dyspnea as a symptom of anaphylaxis was almost significant (OR = 1.62, 95% CI = 0.97–2.72,= 0.068). Age remained a significant predictor of knowledge, with a similar odds ratio to that in the univariate analysis (OR = 0.97, 95% CI = 0.96–0.99,= 0.003).
+
+Possession of epinephrine in office (univariate and multivariate regression analyses)
+
+In the univariate logistic regression analyses (Table), several variables were found to be statistically significant predictors for the possession of epinephrine in the office. Practitioners who felt confident in identifying patients at risk of anaphylaxis were more likely to have epinephrine available (OR = 1.57, 95% CI = 1.06–2.32,= 0.023). Similarly, confidence in the ability to manage anaphylaxis patients (OR = 1.87, 95% CI = 1.30–2.69,= 0.001) and use epinephrine in such patients (OR = 2.5, 95% CI = 1.72–3.63,= 0.0001) were strongly associated with the possession of epinephrine.
+
+Understanding cutaneous eruption as a symptom of anaphylaxis was also a significant factor (OR = 1.45, 95% CI = 1.01–2.09,= 0.043). Age (OR = 0.96, 95% CI = 0.94–0.98,= 0.0001) and years of professional experience (OR = 0.96, 95% CI = 0.94–0.98,= 0.0001) were found to be statistically significant but suggest an inverse relationship with the possession of epinephrine.
+
+On the other hand, having witnessed a patient with a systemic adverse reaction caused by local anesthesia (OR = 0.83, 95% CI = 0.54–1.29,= 0.42), recognizing dyspnea (OR = 1.14, 95% CI = 0.68–1.90,= 0.62) or hypotension (OR = 1.15, 95% CI = 0.79–1.68,= 0.472) as symptoms of anaphylaxis, and routinely administering a test dose (OR = 0.74, 95% CI = 0.47–1.14,= 0.175) were not statistically significant predictors.
+
+In the multivariate logistic regression analyses (Table), confidence in the ability to use epinephrine in patients with anaphylaxis remained a highly significant predictor (OR = 2.84, 95% CI = 1.68–4.80,= 0.0001). Age continued to be a significant but inverse predictor (OR = 0.96, 95% CI = 0.94–0.98,= 0.0001). However, confidence in identifying patients at risk of anaphylaxis (OR = 1.23, 95% CI = 0.77–1.94,= 0.386) and in managing anaphylaxis patients (OR = 0.99, 95% CI = 0.58–1.69,= 0.964) were not significant in the multivariate model.
+
+Confident attitude in identifying patients at risk of anaphylaxis (univariate and multivariate regression analyses)
+
+In the univariate logistic regression analysis (Table), practitioners who have seen a patient with a systemic adverse reaction due to local anesthesia had lower odds of being confident in identifying patients at risk of anaphylaxis (OR = 0.51, 95% CI = 0.31–0.85,= 0.01). On the other hand, higher odds of confidence were observed among practitioners who were older (OR = 1.03, 95% CI = 1.01–1.05,= 0.003), male (OR = 1.87, 95% CI = 1.26–2.81,= 0.002), or had more years of professional experience (OR = 1.03, 95% CI = 1.01–1.06,= 0.003).
+
+Other variables such as recognizing symptoms of anaphylaxis like cutaneous eruption (OR = 1.42, 95% CI = 0.97–2.09,= 0.071), dyspnea (OR = 1.37, 95% CI = 0.81–2.29,= 0.238), or hypotension (OR = 1.01, 95% CI = 0.68–1.51,= 0.946) were not statistically significant predictors. Similarly, other aspects such as the sector or area of practice, type of dentist, and preferences for local anesthesia did not significantly predict the confidence in identifying patients at risk of anaphylaxis.
+
+In the multivariate logistic regression analysis (Table), the odds of being confident in identifying patients at risk of anaphylaxis were significantly associated with age (OR = 1.02, 95% CI = 1.01–1.05,= 0.029) and sex (OR = 1.75, 95% CI = 1.15–2.67,= 0.009). Interestingly, having seen a patient with a systemic adverse reaction due to local anesthesia was not a significant predictor in the multivariate model (OR = 0.69, 95% CI = 0.40–1.18,= 0.178).
+
+Discussion
+
+Our survey received a robust 72% response rate, predominantly from Ecuadorian dentists, resulting in a final participant count of 480. The surveyed population had a mean age of 35 years, and 59.3% were females. Despite 63.3% considering anaphylaxis extremely important, only 28.7% expressed strong confidence in identifying it. Moreover, 88.1% preferred Lidocaine as their local anesthetic, but a striking 79% did not administer a test dose prior to treatment. Although 85.2% could identify dyspnea as a symptom of anaphylaxis, just 50.1% were aware that intramuscular epinephrine is the correct route for anaphylaxis management. Age and gender emerged as significant predictors of confidence, while prior experience with adverse reactions was not a strong determinant. These findings point to a significant disconnect between the importance assigned to anaphylaxis management and actual preparedness among Latin American dentists.
+
+Our study highlights a concerning discrepancy between the perceived importance and practical readiness of Latin American dentists in handling anaphylaxis, a life-threatening hypersensitivity reaction as delineated by the WAO Anaphylaxis Committee []. Although LAs are routinely used in dental procedures and are generally deemed safe, anaphylaxis can still occur and present as a critical clinical hazard.
+
+When considering patient history and allergies to anesthetics, our data reveal that 35.2% of surveyed dentists would prefer to refer patients with a history of allergies to an allergy specialist, while 25% would choose to discontinue the procedure altogether. These findings are in stark contrast to previous studies where ~70% of dentists would either halt the procedure or refer to a specialist [,,]. Moreover, unlike studies from Chennai and Iran, where witnessing anaphylaxis was more common, most respondents in our survey had never encountered an adverse reaction associated with LAs. These observations echo only a study from Turkey [,,].
+
+Interestingly, prior exposure to adverse reactions did not confer increased confidence in managing future episodes of anaphylaxis. This suggests that dentists who have encountered anaphylaxis before may become acutely aware of their lack of adequate training to deal with such events effectively, thereby highlighting the need for enhanced educational measures.
+
+In terms of diagnosis, dyspnea was most frequently identified as an indicative symptom of anaphylaxis, which aligns well with existing literature [,,]. Furthermore, those who correctly identified dyspnea was also more likely to be aware that epinephrine is the drug of choice for treating anaphylaxis. However, a mere 56.7% of respondents correctly identified epinephrine as the preferred treatment, a statistic that lags behind several other studies [,,].
+
+Within the subgroup of oral and maxillofacial surgeons, 28% felt confident in their ability to manage anaphylaxis and administer epinephrine, corroborating findings from both India and Brazil [,]. Alarmingly, a notable fraction (30%) would choose intravenous administration of epinephrine, a route associated with a substantially higher risk of overdose and adverse cardiovascular effects than intramuscular administration [].
+
+Despite the majority (63.3%) acknowledging the clinical severity of anaphylaxis, only 9.4% felt fully equipped to manage it. Many opted for antihistamines and glucocorticoids in their emergency kits, which while useful for other medical conditions, are not sufficient to counteract anaphylactic shock []. This reveals a critical gap in emergency preparedness and indicates a deficiency in the understanding of pharmacology among dentists.
+
+Ecuadorian dentists reported greater confidence compared to their counterparts in the rest of Latin America, both in managing anaphylaxis (49.1% vs. 31.1%) and using epinephrine (45.8% vs. 27.6%). These regional differences warrant further investigation and may offer insights for targeted educational interventions. Finally, while considerable literature exists on emergency management guidelines in the dental care sector, the countries examined do not have any federal rules that provide a mandatory minimum standard for the operation of dental offices. However, in this particular situation, it is crucial to emphasize the necessity of laws implemented by state organizations to prevent unforeseen incidents that may arise due to insufficient equipment or training.
+
+Limitations
+
+Our study is subject to several limitations that merit consideration. Primarily, the data predominantly originate from Ecuadorian dentists, which raises questions about the generalizability of our findings across the broader Latin American region. Secondly, the survey respondents were informed about the study’s aim, a factor that could introduce response bias, thereby potentially influencing the veracity of the reported results. Another critical limitation is that the survey instrument utilized for data collection has not been formally validated. This lack of validation poses a challenge for the future replicability of our findings. Despite these limitations, the strengths of our study include a substantial sample size and a participant pool that reflects diverse demographic characteristics, enhancing the robustness and potential applicability of our data.
+
+Conclusion
+
+While adverse reactions during the administration of anesthesia during dental procedures are relatively rare, they possess the potential to be life-threatening, specifically in the case of anaphylaxis. Given the critical nature of such events, our study highlights the imperative need for ongoing educational initiatives aimed at equipping dentists with the requisite knowledge and skills for diagnosing and managing anaphylactic reactions effectively. This enhanced training would not only elevate the standard of patient care but also contribute to better preparedness among dental professionals for handling medical emergencies.
+
+Supplementary information
+
+Supplementary Information
