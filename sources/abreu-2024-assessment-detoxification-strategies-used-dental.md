@@ -76,7 +76,7 @@ D·E군(공기연마 + 초음파 / 공기연마 + 멸균)이 표면 debris·잔�
 ## 6. Related Work
 
 - Cleanliness axis, in vitro: [[infection-control/burioni-2024-could-dental-material-reuse-play]] (residual protein persists), [[infection-control/cetinsoy-2026-ultrasonication-assisted-sequential-chemical-removal]] (1% NaOCl removes 99.7% biofilm), [[infection-control/naghsh-2024-comparison-four-decontamination-procedures-reusing]] (NaOCl + air polishing effective).
-- Reuse-permissive pole: [[infection-control/kyaw-2023-effect-chemical-electrochemical-decontamination-protocols]] (RCT — reuse acceptable with a combined protocol).
+- Reuse-permissive pole: [[infection-control/kyaw-2023-effect-chemical-electrochemical-decontamination-protocols]] (in vitro, not a clinical RCT — reuse acceptable with a combined protocol).
 - Sterilization-protocol reviews: [[infection-control/eswaramurthy-2021-contemporary-sterilization-protocols-healing-abutments]] (SR — no protocol restores a 100% virgin surface), [[infection-control/bidra-2019-should-healing-abutments-cover-screws]] (anchor SR).
 - Practice reality: [[infection-control/paganotto-2022-reuse-healing-abutments-ethical-biological]] (survey — 98.1% of clinicians reuse).
 
