@@ -1,3 +1,22 @@
+<!--
+---
+title: "D4 골질 Densah Bur 사용 프로토콜"
+type: interactive
+date: 2026-05-18
+status: done
+category: implant-placement
+agenda: agenda/2026-05-25_osseodensification-whole-picture.md
+source_wiki:
+  - wiki/implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability.md
+  - wiki/implants/osseodensification/fontes-pereira-2023-osseodensification-osteotomy-alternative-sr.md
+  - wiki/implants/osseodensification/ortiz-2025-osseodensification-implant-dentistry-critical-review.md
+  - wiki/implants/munjal-2015-implants-low-density-bone-d3d4.md
+  - wiki/implants/isq/canullo-2024-bioactive-surface-poor-bone-isq-stability.md
+  - wiki/implants/premnath-2012-stress-distribution-bone-density-fea.md
+  - wiki/overviews/osseodensification-clinical-applications.md
+tags: [osseodensification, densahbur, d4, low-density-bone, drilling-protocol, interactive]
+---
+-->
 <!DOCTYPE html>
 <html lang="ko">
 <head>
@@ -6,24 +25,27 @@
 <title>D4 골질 Densah Bur 사용 프로토콜</title>
 <style>
   :root {
-    --red:    #e74c3c;
-    --orange: #e67e22;
-    --yellow: #f1c40f;
-    --green:  #27ae60;
-    --blue:   #2980b9;
-    --purple: #8e44ad;
-    --dark:   #1a1a2e;
-    --card:   #16213e;
-    --border: #0f3460;
-    --text:   #e0e0e0;
-    --sub:    #94a3b8;
+    --red:    #c0392b;
+    --orange: #d35400;
+    --yellow: #b7791f;
+    --green:  #1e8449;
+    --blue:   #2471a3;
+    --purple: #7d3c98;
+    --hl:     #b7791f;
+    --bg:     #faf8f8;
+    --dark:   #2b2b2b;
+    --card:   #ffffff;
+    --card2:  #eef3f6;
+    --border: #e2e5ea;
+    --text:   #2b2b2b;
+    --sub:    #5f6b7a;
   }
 
   * { box-sizing: border-box; margin: 0; padding: 0; }
 
   body {
-    font-family: 'Segoe UI', -apple-system, sans-serif;
-    background: var(--dark);
+    font-family: 'Noto Sans KR', 'Segoe UI', -apple-system, sans-serif;
+    background: var(--bg);
     color: var(--text);
     line-height: 1.6;
     padding: 24px;
@@ -32,7 +54,7 @@
   h1 {
     text-align: center;
     font-size: 1.6rem;
-    color: #fff;
+    color: var(--hl);
     margin-bottom: 4px;
   }
   .subtitle {
@@ -56,21 +78,22 @@
     border-top: 4px solid;
     text-align: center;
   }
-  .density-card.d1 { border-color: #c0392b; }
-  .density-card.d2 { border-color: var(--orange); }
-  .density-card.d3 { border-color: var(--yellow); }
-  .density-card.d4 { border-color: var(--green);  }
+  .density-card { border-left: 1px solid var(--border); border-right: 1px solid var(--border); border-bottom: 1px solid var(--border); box-shadow: 0 1px 3px rgba(0,0,0,.06); }
+  .density-card.d1 { border-top-color: var(--red); }
+  .density-card.d2 { border-top-color: var(--orange); }
+  .density-card.d3 { border-top-color: var(--yellow); }
+  .density-card.d4 { border-top-color: var(--green);  }
   .density-card .type { font-size: 1.8rem; font-weight: 700; }
-  .density-card.d1 .type { color: #c0392b; }
+  .density-card.d1 .type { color: var(--red); }
   .density-card.d2 .type { color: var(--orange); }
   .density-card.d3 .type { color: var(--yellow); }
-  .density-card.d4 .type { color: #2ecc71; }
+  .density-card.d4 .type { color: var(--green); }
   .density-card .hu  { font-size: 0.75rem; color: var(--sub); margin: 2px 0 6px; }
   .density-card .desc { font-size: 0.78rem; }
   .d4-badge {
     display: inline-block;
-    background: #2ecc71;
-    color: #000;
+    background: var(--green);
+    color: #fff;
     border-radius: 4px;
     font-size: 0.65rem;
     font-weight: 700;
@@ -82,10 +105,10 @@
   .section-title {
     font-size: 1rem;
     font-weight: 700;
-    color: #fff;
+    color: var(--text);
     margin: 20px 0 10px;
     padding-left: 10px;
-    border-left: 4px solid #2ecc71;
+    border-left: 4px solid var(--green);
   }
 
   /* ── Step timeline ── */
@@ -123,7 +146,7 @@
     border: 2px solid;
   }
   .step-body { flex: 1; }
-  .step-title { font-weight: 700; font-size: 0.95rem; color: #fff; margin-bottom: 4px; }
+  .step-title { font-weight: 700; font-size: 0.95rem; color: var(--text); margin-bottom: 4px; }
   .step-desc  { font-size: 0.82rem; color: var(--sub); }
   .tag-row    { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 6px; }
   .tag {
@@ -132,11 +155,11 @@
     border-radius: 20px;
     font-weight: 600;
   }
-  .tag.green  { background: rgba(46,204,113,.15); color: #2ecc71; border: 1px solid rgba(46,204,113,.4); }
-  .tag.orange { background: rgba(230,126,34,.15);  color: var(--orange); border: 1px solid rgba(230,126,34,.4); }
-  .tag.red    { background: rgba(231,76,60,.15);   color: var(--red);    border: 1px solid rgba(231,76,60,.4); }
-  .tag.blue   { background: rgba(41,128,185,.15);  color: #5dade2; border: 1px solid rgba(41,128,185,.4); }
-  .tag.purple { background: rgba(142,68,173,.15);  color: #bb8fce; border: 1px solid rgba(142,68,173,.4); }
+  .tag.green  { background: rgba(30,132,73,.1);  color: var(--green);  border: 1px solid rgba(30,132,73,.35); }
+  .tag.orange { background: rgba(211,84,0,.1);   color: var(--orange); border: 1px solid rgba(211,84,0,.35); }
+  .tag.red    { background: rgba(192,57,43,.1);  color: var(--red);    border: 1px solid rgba(192,57,43,.35); }
+  .tag.blue   { background: rgba(36,113,163,.1); color: var(--blue);   border: 1px solid rgba(36,113,163,.35); }
+  .tag.purple { background: rgba(125,60,152,.1); color: var(--purple); border: 1px solid rgba(125,60,152,.35); }
 
   /* ── Two-column layout ── */
   .two-col {
@@ -154,7 +177,7 @@
   .card-title {
     font-size: 0.85rem;
     font-weight: 700;
-    color: #fff;
+    color: var(--text);
     margin-bottom: 10px;
     display: flex;
     align-items: center;
@@ -169,16 +192,16 @@
     font-size: 0.8rem;
   }
   th {
-    background: var(--border);
-    color: #fff;
+    background: var(--card2);
+    color: var(--text);
     padding: 7px 10px;
     text-align: left;
     font-weight: 600;
   }
   td { padding: 7px 10px; border-bottom: 1px solid var(--border); color: var(--sub); }
   tr:last-child td { border-bottom: none; }
-  tr:hover td { background: rgba(255,255,255,.03); color: var(--text); }
-  td.green { color: #2ecc71; font-weight: 600; }
+  tr:hover td { background: rgba(0,0,0,.025); color: var(--text); }
+  td.green { color: var(--green); font-weight: 600; }
   td.orange { color: var(--orange); font-weight: 600; }
   td.red    { color: var(--red); font-weight: 600; }
 
@@ -198,11 +221,11 @@
     gap: 10px;
     align-items: flex-start;
   }
-  .alert.warn   { background: rgba(231,76,60,.12);  border-left: 4px solid var(--red); }
-  .alert.info   { background: rgba(41,128,185,.12); border-left: 4px solid var(--blue); }
-  .alert.tip    { background: rgba(46,204,113,.12); border-left: 4px solid #2ecc71; }
+  .alert.warn   { background: rgba(192,57,43,.08);  border-left: 4px solid var(--red); }
+  .alert.info   { background: rgba(36,113,163,.08); border-left: 4px solid var(--blue); }
+  .alert.tip    { background: rgba(30,132,73,.08);  border-left: 4px solid var(--green); }
   .alert .icon  { font-size: 1.1rem; flex-shrink: 0; margin-top: 1px; }
-  .alert strong { color: #fff; }
+  .alert strong { color: var(--text); }
 
   /* ── Bur sequence visual ── */
   .bur-seq {
@@ -213,17 +236,17 @@
     margin-top: 8px;
   }
   .bur {
-    background: var(--border);
+    background: var(--card2);
     border-radius: 8px;
     padding: 8px 12px;
     text-align: center;
     font-size: 0.8rem;
   }
-  .bur .size { font-weight: 800; font-size: 1rem; color: #2ecc71; }
+  .bur .size { font-weight: 800; font-size: 1rem; color: var(--green); }
   .bur .label{ font-size: 0.65rem; color: var(--sub); }
   .arrow { color: var(--sub); font-size: 1.2rem; }
-  .bur.final { border: 1px solid #2ecc71; }
-  .bur.final .size { color: #f1c40f; }
+  .bur.final { border: 1px solid var(--green); }
+  .bur.final .size { color: var(--yellow); }
 
   /* ── ISQ zone ── */
   .isq-bar {
@@ -238,7 +261,7 @@
     top: -5px;
     transform: translateX(-50%);
     font-size: 0.65rem;
-    color: #fff;
+    color: var(--dark);
     font-weight: 700;
     text-align: center;
   }
@@ -247,8 +270,9 @@
     display: block;
     width: 2px;
     height: 38px;
-    background: #fff;
+    background: var(--dark);
     margin: 0 auto;
+    opacity: .6;
   }
   .isq-labels {
     display: flex;
@@ -273,7 +297,7 @@
     padding: 10px 12px;
     font-size: 0.74rem;
   }
-  .ref-card .ref-title { color: #fff; font-weight: 600; margin-bottom: 3px; }
+  .ref-card .ref-title { color: var(--text); font-weight: 600; margin-bottom: 3px; }
   .ref-card .ref-type  { display: inline-block; background: var(--border); border-radius: 3px; padding: 1px 5px; font-size: 0.65rem; margin-bottom: 4px; }
   .ref-card .ref-key   { color: var(--sub); }
 
@@ -320,19 +344,19 @@
   <div class="card">
     <div class="card-title"><span class="icon">⚠️</span> D4 골의 임상적 문제점</div>
     <div class="compare-row">
-      <div class="compare-label"><span>1차 안정성</span><span style="color:#e74c3c">매우 낮음</span></div>
+      <div class="compare-label"><span>1차 안정성</span><span style="color:#c0392b">매우 낮음</span></div>
       <div class="bar-track"><div class="bar-fill" style="width:15%;background:#e74c3c"></div></div>
     </div>
     <div class="compare-row">
-      <div class="compare-label"><span>드릴 후 골-임플란트 접촉률</span><span style="color:#e67e22">낮음</span></div>
+      <div class="compare-label"><span>드릴 후 골-임플란트 접촉률</span><span style="color:#d35400">낮음</span></div>
       <div class="bar-track"><div class="bar-fill" style="width:25%;background:#e67e22"></div></div>
     </div>
     <div class="compare-row">
-      <div class="compare-label"><span>삽입 토크</span><span style="color:#e74c3c">15–25 Ncm</span></div>
+      <div class="compare-label"><span>삽입 토크</span><span style="color:#c0392b">15–25 Ncm</span></div>
       <div class="bar-track"><div class="bar-fill" style="width:20%;background:#e74c3c"></div></div>
     </div>
     <div class="compare-row" style="margin-top:4px">
-      <div class="compare-label"><span>초기 ISQ</span><span style="color:#f1c40f">45–60</span></div>
+      <div class="compare-label"><span>초기 ISQ</span><span style="color:#b7791f">45–60</span></div>
       <div class="bar-track"><div class="bar-fill" style="width:50%;background:#f1c40f"></div></div>
     </div>
   </div>
@@ -355,7 +379,7 @@
 <div class="timeline">
 
   <div class="step">
-    <div class="step-num" style="background:rgba(41,128,185,.2);border-color:#5dade2;color:#5dade2">1</div>
+    <div class="step-num" style="background:rgba(36,113,163,.12);border-color:#2471a3;color:#2471a3">1</div>
     <div class="step-body">
       <div class="step-title">술전 CBCT — 골질·골량 확인</div>
       <div class="step-desc">HU 150–350 확인 → D4 분류. 잔존골 높이(RBH), 골 폭경, 상악동 위치 파악.</div>
@@ -368,10 +392,10 @@
   </div>
 
   <div class="step">
-    <div class="step-num" style="background:rgba(46,204,113,.2);border-color:#2ecc71;color:#2ecc71">2</div>
+    <div class="step-num" style="background:rgba(30,132,73,.12);border-color:#1e8449;color:#1e8449">2</div>
     <div class="step-body">
       <div class="step-title">임플란트 설계 선택</div>
-      <div class="step-desc">D4 골: <strong style="color:#2ecc71">스퀘어 나사산(방형나사)</strong> 설계 권장 — V형 나사 대비 전단력 10배 감소 (Munjal 2015). 직경은 1단계 넓게 선택.</div>
+      <div class="step-desc">D4 골: <strong style="color:#1e8449">스퀘어 나사산(방형나사)</strong> 설계 권장 — V형 나사 대비 전단력 10배 감소 (Munjal 2015). 직경은 1단계 넓게 선택.</div>
       <div class="tag-row">
         <span class="tag green">방형 나사산</span>
         <span class="tag green">4.0 → 4.5 mm 업사이징</span>
@@ -381,10 +405,10 @@
   </div>
 
   <div class="step">
-    <div class="step-num" style="background:rgba(241,196,15,.2);border-color:#f1c40f;color:#f1c40f">3</div>
+    <div class="step-num" style="background:rgba(183,121,31,.12);border-color:#b7791f;color:#b7791f">3</div>
     <div class="step-body">
       <div class="step-title">파일럿 드릴 — 표준 드릴로 시작</div>
-      <div class="step-desc">2.0 mm 파일럿 드릴로 방향·깊이 설정. 이후 <strong style="color:#f1c40f">표준 드릴링 중단</strong> → Densah 시퀀스로 전환.</div>
+      <div class="step-desc">2.0 mm 파일럿 드릴로 방향·깊이 설정. 이후 <strong style="color:#b7791f">표준 드릴링 중단</strong> → Densah 시퀀스로 전환.</div>
       <div class="tag-row">
         <span class="tag orange">2.0 mm 파일럿만 사용</span>
         <span class="tag red">이후 표준드릴 사용 금지</span>
@@ -393,12 +417,12 @@
   </div>
 
   <div class="step">
-    <div class="step-num" style="background:rgba(142,68,173,.2);border-color:#bb8fce;color:#bb8fce">4</div>
+    <div class="step-num" style="background:rgba(125,60,152,.12);border-color:#7d3c98;color:#7d3c98">4</div>
     <div class="step-body">
       <div class="step-title">Densah Bur 시퀀스 — 역회전 압축</div>
       <div class="step-desc">
-        <strong style="color:#fff">핵심: 역회전(CCW) + 관개수 + 펌핑 동작</strong><br>
-        D4 골에서는 임플란트 직경보다 <strong style="color:#2ecc71">0.5–1.0 mm 작은 최종 버</strong> 까지만 사용.
+        <strong style="color:#2b2b2b">핵심: 역회전(CCW) + 관개수 + 펌핑 동작</strong><br>
+        D4 골에서는 임플란트 직경보다 <strong style="color:#1e8449">0.5–1.0 mm 작은 최종 버</strong> 까지만 사용.
       </div>
       <div class="bur-seq">
         <div class="bur">
@@ -420,7 +444,7 @@
           <div class="size">VT4555</div>
           <div class="label">3.5 mm / CCW ★</div>
         </div>
-        <span class="arrow" style="color:#f1c40f">→ 식립</span>
+        <span class="arrow" style="color:#b7791f">→ 식립</span>
       </div>
       <div class="tag-row" style="margin-top:10px">
         <span class="tag purple">CCW 800–1,500 RPM</span>
@@ -432,10 +456,10 @@
   </div>
 
   <div class="step">
-    <div class="step-num" style="background:rgba(231,76,60,.2);border-color:#e74c3c;color:#e74c3c">5</div>
+    <div class="step-num" style="background:rgba(192,57,43,.12);border-color:#c0392b;color:#c0392b">5</div>
     <div class="step-body">
       <div class="step-title">임플란트 식립 — 토크 목표</div>
-      <div class="step-desc">D4 + Densah 후 목표 삽입 토크: <strong style="color:#2ecc71">≥ 25–35 Ncm</strong>. 기존 표준드릴링 대비 유의하게 높음.</div>
+      <div class="step-desc">D4 + Densah 후 목표 삽입 토크: <strong style="color:#1e8449">≥ 25–35 Ncm</strong>. 기존 표준드릴링 대비 유의하게 높음.</div>
       <table style="margin-top:8px">
         <tr><th>방법</th><th>D4 예상 삽입토크</th><th>ISQ</th></tr>
         <tr><td>표준 드릴링</td><td class="red">10–20 Ncm</td><td class="red">40–55</td></tr>
@@ -445,7 +469,7 @@
   </div>
 
   <div class="step">
-    <div class="step-num" style="background:rgba(39,174,96,.2);border-color:#27ae60;color:#27ae60">6</div>
+    <div class="step-num" style="background:rgba(30,132,73,.12);border-color:#1e8449;color:#1e8449">6</div>
     <div class="step-body">
       <div class="step-title">ISQ 측정 → 부하 프로토콜 결정</div>
       <div class="step-desc">Osstell ISQ 측정 후 아래 기준 적용 (D4 → 생체활성 표면 임플란트 사용 시 ISQ 안정성 더 우수).</div>
