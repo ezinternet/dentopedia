@@ -2,7 +2,7 @@
 title: "전신질환·약물·진통소염제 — analgesics"
 authors: navigation
 year: 2026
-date: 2026-08-29
+date: 2026-09-02
 doi: N/A
 source: navigation
 category: drug/analgesics
@@ -15,20 +15,20 @@ tags: [navigation, category-index, analgesics]
 > [!summary] 한국어 핵심요약
 > - **분야**: 전신질환·약물·진통소염제
 > - **범위**: NSAIDs (ibuprofen, ketorolac, naproxen, etoricoxib), acetaminophen, opioids, corticosteroids (dexamethasone), preemptive analgesia; postoperative pain management
-> - **수록 논문**: 63편
+> - **수록 논문**: 66편
 
 ## Three-line Summary
 
 **Scope**: NSAIDs (ibuprofen, ketorolac, naproxen, etoricoxib), acetaminophen, opioids, corticosteroids (dexamethasone), preemptive analgesia; postoperative pain management
-**Indexed papers**: 63 papers in `wiki/drug/analgesics/`.
+**Indexed papers**: 66 papers in `wiki/drug/analgesics/`.
 
 ## 세줄요약
 
 **분야**: 전신질환·약물·진통소염제
-**수록 논문**: 63편
+**수록 논문**: 66편
 **하위 카테고리**: 없음
 
-## Papers in this Category (63)
+## Papers in this Category (66)
 
 | Paper |
 |---|
@@ -44,6 +44,7 @@ tags: [navigation, category-index, analgesics]
 | [[bakri-2024-prednisolone-prescribing-styles-third-molar|Comparison of the effects of two different styles of orally prescribing prednisolone on postoperative sequelae of surgical extraction of an impacted mandibular third molar: a single-blind randomized study]] |
 | [[beaudart-2025-celecoxib-safety-musculoskeletal-sr-ma|Current Evidence on Celecoxib Safety in the Management of Chronic Musculoskeletal Conditions: An Umbrella Review]] |
 | [[becker-2010-pain-management-part-1|Pain Management: Part 1: Managing Acute and Postoperative Dental Pain]] |
+| [[blanca-lopez-2019-nsaid-induced-reactions-classification-prevalence-impact|NSAID-induced reactions: classification, prevalence, impact, and management strategies]] |
 | [[breidung-2025-epidemiological-characteristics-prognostic-scoring|Epidemiological Characteristics and Prognostic Scoring in Toxic Epidermal Necrolysis and Stevens–Johnson Syndrome: Insights from a 17-Year Burn Center Experience]] |
 | [[buesing-2019-vitamin-b12-pain-nerve-regeneration-review|Vitamin B12 as a Treatment for Pain]] |
 | [[buyukkurt-2006-prednisolone-diclofenac-third-molar-rct|The Effect of a Single Dose Prednisolone With and Without Diclofenac on Pain, Trismus, and Swelling After Removal of Mandibular Third Molars]] |
@@ -68,6 +69,7 @@ tags: [navigation, category-index, analgesics]
 | [[kotowska-rodziewicz-2023-nsaids-role-dentistry-review|A Review of Preclinical and Clinical Studies in Support of the Role of Non-Steroidal Anti-Inflammatory Drugs in Dentistry]] |
 | [[kumchai-2025-naproxen-implant-osseointegration-pilot-rct|Randomized, Placebo-Controlled Pilot Study of Naproxen During Dental Implant Osseointegration]] |
 | [[larsen-2021-methylprednisolone-doses-split-mouth-rct|Efficacy of methylprednisolone on pain, trismus and quality of life following surgical removal of mandibular third molars: a double-blind, split-mouth, randomised controlled trial]] |
+| [[li-2019-cross-reactivity-tolerability-celecoxib-nsaid-hypersensitivity|Cross-reactivity and tolerability of celecoxib in adult patients with NSAID hypersensitivity]] |
 | [[liborio-2025-methylprednisolone-third-molar-sr-ma|The use of methylprednisolone after third molar surgery. A systematic review and meta-analysis of randomized controlled trials]] |
 | [[luo-2018-nsaids-osteogenic-activity-osseointegration-sr|The effect of non-steroidal anti-inflammatory drugs on the osteogenic activity in osseointegration: a systematic review]] |
 | [[lupepsa-2021-low-dose-aspirin-osseointegration-rats|Effects of low-dose aspirin on the osseointegration process in rats]] |
@@ -85,6 +87,7 @@ tags: [navigation, category-index, analgesics]
 | [[prada-2025-acetaminophen-prenatal-neurodevelopmental-disorders-sr|Evaluation of the evidence on acetaminophen use and neurodevelopmental disorders using the Navigation Guide methodology]] |
 | [[rainsford-2009-ibuprofen-pharmacology-efficacy-safety-review|Ibuprofen: pharmacology, efficacy and safety]] |
 | [[rodrigues-2024-preemptive-dexamethasone-diclofenac-endodontic-rct|Preemptive Dexamethasone and Diclofenac for IANB Success in Irreversible Symptomatic Pulpitis (Rodrigues 2024 RCT)]] |
+| [[romano-2025-nsaid-hypersensitivity-classification-diagnosis-wao|Updating the classification and routine diagnosis of NSAID hypersensitivity reactions: A WAO Statement]] |
 | [[samani-2025-nsaids-endodontic-postoperative-network|Updated Meta-analysis on Efficacy and Safety of Medications after Non-Surgical Root Canal Treatment]] |
 | [[satpathi-2024-corticosteroids-dentistry-review|Application of Corticosteroids in Dentistry: A Review]] |
 | [[singh-2023-dexamethasone-vs-methylprednisolone-third-molar-sr-ma|Efficacy of Preemptive Dexamethasone versus Methylprednisolone in the Management of Postoperative Discomfort and Pain after Mandibular Third Molar Surgery: A Systematic Review and Meta-Analysis]] |
