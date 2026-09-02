@@ -15,20 +15,20 @@ tags: [navigation, category-index, overviews]
 > [!summary] 한국어 핵심요약
 > - **분야**: 종합
 > - **범위**: Synthesis pages spanning multiple categories
-> - **수록 논문**: 283편
+> - **수록 논문**: 284편
 
 ## Three-line Summary
 
 **Scope**: Synthesis pages spanning multiple categories
-**Indexed papers**: 283 papers in `wiki/overviews/`.
+**Indexed papers**: 284 papers in `wiki/overviews/`.
 
 ## 세줄요약
 
 **분야**: 종합
-**수록 논문**: 283편
+**수록 논문**: 284편
 **하위 카테고리**: 없음
 
-## Papers in this Category (283)
+## Papers in this Category (284)
 
 | Paper |
 |---|
@@ -265,6 +265,7 @@ tags: [navigation, category-index, overviews]
 | [[severe-atrophy-graftless-rehabilitation-ladder|Overview: Severe Jaw Atrophy — the Graftless Rehabilitation Ladder (숏·경사·관골·골막하 임플란트)]] |
 | [[short-implant-vs-sinus-augmentation-decision|Overview: Short Implant vs Sinus Augmentation in the Atrophic Posterior Maxilla — Decision Synthesis]] |
 | [[single-vs-multivisit-endodontic-outcomes-overview|Single- vs Multiple-Visit Endodontics: Healing & Pain Outcomes — 5-paper synthesis]] |
+| [[sinus-augmentation-perioperative-pharmacology-overview|Sinus Augmentation Perioperative Pharmacology — Analgesia, Antibiotic Prophylaxis, Corticosteroids, Nasal Care & Graft-Infection Management]] |
 | [[sinus-lift-anatomy-ostium-septa-perforation-oms-overview|상악동 해부학 변이(AMO·PMO·세격막)와 천공 처치·중증 치성 상악동염 보완 근거]] |
 | [[sinus-lift-complications-graft-migration-sinusitis-bppv-overview|Sinus Lift Complications — Xenograft Migration · Foreign-Body Sinusitis · Ostium Obstruction · BPPV]] |
 | [[sinus-lift-isq-loading-timing|Sinus Lift ISQ Trajectory and Loading Timing: Evidence Synthesis]] |
