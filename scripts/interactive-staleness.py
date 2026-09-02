@@ -111,6 +111,15 @@ COSMETIC_SUBJECT_RE = re.compile(
     r"|\bstragglers?\b"
     r"|\d+-file subcategory restructuring"
     r"|하위 카테고리|카테고리 재구조화"
+    # "relink <target> to interactives/" — 오버뷰/논문 페이지가 참조하던 대상이
+    # wiki/overviews/ → interactives/ 로 이관되면서 [[old]] → [[new]] 경로만 일괄
+    # 갱신한 스윕(2026-09-02 d4-bone-densah-protocol 케스케이드, 도구 6개). diff 실측:
+    # fontes-pereira-2023 1줄, osseodensification overview 3줄 전부 [[...]] 재작성.
+    r"|\brelink\b"
+    # "Related overviews에 … 링크 추가" — Related overviews 섹션에 wikilink 한 줄만
+    # 추가하는 cross-link 커밋의 한국어 표기. 영어 "cross-link"와 동일 성격(본문 임상
+    # 수치 무변화). 실측: tmd-management-evidence-ladder 7f25df8a5 = 1 insertion.
+    r"|Related overviews.{0,40}링크 추가"
     # "wiki(<category>): backfill contradicts edge — X vs Y" — relations 백필 스윕.
     # (docs|fix|feat|refactor)(relations): 패턴과 같은 성격(frontmatter relations:
     # 블록만 추가, 본문 무변화)이나 커밋 scope가 "wiki(<category>):"라 위 relations
