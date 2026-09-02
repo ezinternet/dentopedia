@@ -2,7 +2,7 @@
 title: "종합 — overviews"
 authors: navigation
 year: 2026
-date: 2026-09-02
+date: 2026-09-03
 doi: N/A
 source: navigation
 category: overviews
@@ -15,20 +15,20 @@ tags: [navigation, category-index, overviews]
 > [!summary] 한국어 핵심요약
 > - **분야**: 종합
 > - **범위**: Synthesis pages spanning multiple categories
-> - **수록 논문**: 284편
+> - **수록 논문**: 285편
 
 ## Three-line Summary
 
 **Scope**: Synthesis pages spanning multiple categories
-**Indexed papers**: 284 papers in `wiki/overviews/`.
+**Indexed papers**: 285 papers in `wiki/overviews/`.
 
 ## 세줄요약
 
 **분야**: 종합
-**수록 논문**: 284편
+**수록 논문**: 285편
 **하위 카테고리**: 없음
 
-## Papers in this Category (284)
+## Papers in this Category (285)
 
 | Paper |
 |---|
@@ -192,6 +192,7 @@ tags: [navigation, category-index, overviews]
 | [[non-surgical-periodontal-therapy-overview|Non-Surgical Periodontal Therapy Overview]] |
 | [[nonpharmacological-dental-anxiety-management-overview|Non-Pharmacological Dental Anxiety Management: Hypnosis vs Virtual Reality]] |
 | [[nsaid-aspirin-antiplatelet-interaction-overview|NSAID–아스피린 항혈소판 상호작용 — COX-1 통로 경쟁·복용순서 규칙·약제 안전성 종합]] |
+| [[nsaid-hypersensitivity-analgesic-selection-overview|NSAID·아스피린 알러지 환자의 치과 진통제 선택 — 표현형이 결정한다 (교차반응형 vs 약물특이형)]] |
 | [[nsaid-osseointegration-impairment-overview|NSAID와 임플란트 골유착 — 근거층위(in vitro→동물→RCT→코호트)·COX-2 딜레마·술후 진통제 결정 종합]] |
 | [[obturation-length-outcome-overview|근관충전 길이와 예후: 근거 기반 종합 (Obturation Length & Treatment Outcome)]] |
 | [[occlusal-contact-detection-articulating-paper-overview|Overview: Occlusal Contact Detection — Articulating Paper Accuracy & Indicator Selection]] |
