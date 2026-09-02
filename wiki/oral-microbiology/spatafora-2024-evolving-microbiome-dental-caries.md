@@ -3,7 +3,7 @@ title: "The Evolving Microbiome of Dental Caries"
 authors: "Spatafora G, Li Y, He X, Cowan A, Tanner ACR"
 year: 2024
 doi: 10.3390/microorganisms12010121
-source: sources/spatafora-2024-evolving-microbiome-dental-caries.md
+source: spatafora-2024-evolving-microbiome-dental-caries.md
 category: oral-microbiology
 evidence_level: narrative-review
 source_collection: pubmed-abstract
