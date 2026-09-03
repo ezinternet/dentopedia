@@ -60,7 +60,7 @@ HIT_LINE = re.compile(r"^qmd://[^/]+/(\S+?\.md):")
 
 
 def run_query(mode: str, query: str, timeout: int):
-    cmd = ["qmd", "vsearch" if mode == "vec" else "search", query]
+    cmd = ["qmd", "vsearch" if mode == "vec" else "search", "-c", "wiki", query]
     try:
         r = subprocess.run(cmd, capture_output=True, text=True, timeout=timeout, cwd=REPO)
     except (OSError, subprocess.TimeoutExpired):
