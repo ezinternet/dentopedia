@@ -34,7 +34,8 @@ T3 of agenda/2026-09-03_audit-gap-closure.md
   ① 경계 lookaround — 숫자에 이어 붙은 매치를 배제 (이것만으로 위 둘이 다 죽는다)
   ② 마스킹 — URL·DOI·PMID·PMCID·ISBN 구간을 매칭 전에 지운다 (심층 방어)
   ③ 주민번호 체크섬 — 통과해야 ERROR, 모양만 맞으면 WARN.
-     `기간 202001-2024012` 같은 날짜범위가 모양에 걸리므로 이 계층이 없으면
+     `기간 202001-20240 12`(문서에서는 매치를 피해 띄어 씀) 같은 날짜범위가 모양에
+     걸리므로 이 계층이 없으면
      block이 오탐으로 터진다.
 
 이메일은 **임상 디렉터리에서만** 본다
@@ -63,7 +64,14 @@ REPO = Path(__file__).resolve().parent.parent
 LOG = REPO / "logs" / f"{date.today().isoformat()}_pii-guard.log"
 ALLOWLIST = REPO / "scripts" / "pii-allowlist.txt"
 
-TEXT_EXTS = {".md", ".html", ".htm", ".json", ".csv", ".txt", ".yml", ".yaml"}
+# 확장자 **블랙리스트**다. 화이트리스트로 두면 새 파일 종류가 생길 때마다 조용히
+# 사각지대가 늘어난다 — 스캔 범위를 `git ls-files`로 정한 근거("추적되면 곧 공개")를
+# 확장자 목록이 되돌리는 셈이다. 실측 2026-09-03: 초안의 화이트리스트가 .py 59·.ts 103·
+# 확장자 없는 파일 44개를 통째로 놓치고 있었고, 훅이 커밋마다 "0 files"를 찍어 드러났다.
+BINARY_EXTS = {".png", ".jpg", ".jpeg", ".gif", ".webp", ".ico", ".pdf", ".zip", ".gz",
+               ".woff", ".woff2", ".ttf", ".otf", ".eot", ".mp4", ".mp3", ".wav",
+               ".sqlite", ".db", ".pyc", ".so", ".dylib"}
+MAX_BYTES = 4 * 1024 * 1024      # 이보다 큰 텍스트는 논문 전문 덤프류 — PII 매체가 아니다
 
 # 진료 운영 디렉터리 — 여기의 연락처·식별번호는 환자/직원의 것일 개연성이 높다.
 # 문헌 티어(papers/·sources/·wiki/)는 논문에 실린 저자 연락처라 성격이 다르다.
@@ -77,6 +85,12 @@ MASKS = [
     re.compile(r"\bPMID:?\s*\d+"),
     re.compile(r"\bISBN[\s:-]*[\d-]+", re.I),
 ]
+
+# 줄 단위 opt-out. 회귀 테스트 픽스처처럼 **가짜 값이 코드에 있어야 하는** 경우가 있고,
+# 파일 통째 예외로 두면 그 파일이 영구 사각지대가 된다 (이 스크립트 자신이 첫 사례였다).
+# 마커로 억제된 건수는 로그에 남긴다 — 조용한 우회는 허용목록의 사유 요구와 같은 이유로
+# 금지다. 마커는 매치가 **있는 그 줄**에만 적용된다.
+TESTVEC = re.compile(r"pii-guard:\s*test-vector")
 
 RRN = re.compile(r"(?<!\d)(\d{6})-([1-4]\d{6})(?!\d)")
 PHONE = re.compile(r"(?<!\d)01[016789][-. ]\d{3,4}[-. ]\d{4}(?!\d)")
@@ -119,7 +133,7 @@ def target_files(staged: bool) -> list:
         names = r.stdout.split("\n") if r.returncode == 0 else []
     except (OSError, subprocess.TimeoutExpired):
         names = []
-    return [n for n in names if n and Path(n).suffix.lower() in TEXT_EXTS]
+    return [n for n in names if n and Path(n).suffix.lower() not in BINARY_EXTS]
 
 
 def in_clinic(rel: str) -> bool:
@@ -127,9 +141,13 @@ def in_clinic(rel: str) -> bool:
 
 
 def scan_text(rel: str, text: str, allow: set) -> list:
-    """→ [(severity, rule, matched, line_no)]"""
+    """→ [(severity, rule, matched, line_no)] — 'SUPPRESSED'도 severity의 하나로 돌려준다."""
     hits = []
     masked = mask(text)
+    src_lines = masked.splitlines()
+
+    def marked(line_no: int) -> bool:
+        return 0 < line_no <= len(src_lines) and bool(TESTVEC.search(src_lines[line_no - 1]))
     # 줄 번호는 마스킹이 길이를 보존하므로 원문과 일치한다 (마스킹은 문자 치환).
     line_of = lambda pos: masked.count("\n", 0, pos) + 1
 
@@ -138,24 +156,31 @@ def scan_text(rel: str, text: str, allow: set) -> list:
         if val in allow:
             continue
         digits = m.group(1) + m.group(2)
-        sev = "ERROR" if rrn_checksum_ok(digits) else "WARN"
-        hits.append((sev, "주민등록번호" + ("" if sev == "ERROR" else "형(체크섬 불일치)"),
-                     val, line_of(m.start())))
+        ln = line_of(m.start())
+        # 라벨은 **체크섬 사실**에서만 뽑는다 — severity에서 뽑으면 마커로 억제된
+        # 진짜 주민번호가 로그에 "체크섬 불일치"로 찍혀 실제보다 약해 보인다.
+        valid = rrn_checksum_ok(digits)
+        rule = "주민등록번호" if valid else "주민등록번호형(체크섬 불일치)"
+        sev = "SUPPRESSED" if marked(ln) else ("ERROR" if valid else "WARN")
+        hits.append((sev, rule, val, ln))
 
     for m in PHONE.finditer(masked):
         if m.group(0) in allow:
             continue
-        hits.append(("ERROR", "전화번호", m.group(0), line_of(m.start())))
+        ln = line_of(m.start())
+        hits.append(("SUPPRESSED" if marked(ln) else "ERROR", "전화번호", m.group(0), ln))
 
     if in_clinic(rel):
         for m in EMAIL.finditer(masked):
             if m.group(0) in allow:
                 continue
-            hits.append(("ERROR", "이메일", m.group(0), line_of(m.start())))
+            ln = line_of(m.start())
+            hits.append(("SUPPRESSED" if marked(ln) else "ERROR", "이메일", m.group(0), ln))
         for m in CHART.finditer(masked):
             if m.group(0) in allow:
                 continue
-            hits.append(("ERROR", "차트/환자번호", m.group(0), line_of(m.start())))
+            ln = line_of(m.start())
+            hits.append(("SUPPRESSED" if marked(ln) else "ERROR", "차트/환자번호", m.group(0), ln))
     return hits
 
 
@@ -170,24 +195,36 @@ def main() -> int:
 
     allow = load_allowlist()
     files = target_files(args.staged)
-    errors, warns = [], []
+    errors, warns, suppressed = [], [], []
 
     for rel in files:
         p = REPO / rel
         try:
-            text = p.read_text(encoding="utf-8", errors="replace")
+            if p.stat().st_size > MAX_BYTES:
+                continue
+            raw = p.read_bytes()
         except OSError:
             continue
+        if b"\x00" in raw[:8192]:      # 확장자를 속인 바이너리
+            continue
+        text = raw.decode("utf-8", errors="replace")
         for sev, rule, val, ln in scan_text(rel, text, allow):
-            (errors if sev == "ERROR" else warns).append((rel, ln, rule, val))
+            bucket = {"ERROR": errors, "WARN": warns}.get(sev, suppressed)
+            bucket.append((rel, ln, rule, val))
 
     lines = [f"# PII Guard — {date.today().isoformat()}", "",
              f"scanned files : {len(files)}  ({'staged' if args.staged else 'git-tracked'})",
              f"ERRORS        : {len(errors)}",
-             f"WARN (모양만) : {len(warns)}", ""]
+             f"WARN (모양만) : {len(warns)}",
+             f"SUPPRESSED    : {len(suppressed)}  (줄 마커 `pii-guard: test-vector`)", ""]
     if errors:
         lines.append("=== ERROR — 커밋 금지 ===")
         for rel, ln, rule, val in errors:
+            lines.append(f"  {rel}:{ln}  [{rule}]  {val}")
+    if suppressed:
+        lines.append("")
+        lines.append("=== SUPPRESSED — 줄 마커로 면제된 값 (가짜 픽스처여야 한다) ===")
+        for rel, ln, rule, val in suppressed:
             lines.append(f"  {rel}:{ln}  [{rule}]  {val}")
     if warns:
         lines.append("")
@@ -208,7 +245,8 @@ def main() -> int:
                 print(f"          {rel}:{ln}  [{rule}]  {val}")
             print("        의도적으로 실린 값이면 scripts/pii-allowlist.txt 에 사유와 함께 등재")
         else:
-            tail = f" · WARN {len(warns)}" if warns else ""
+            tail = (f" · WARN {len(warns)}" if warns else "") + \
+                   (f" · 마커면제 {len(suppressed)}" if suppressed else "")
             print(f"    🔒  PII Guard: ✅ {len(files)} files, 위반 0{tail}")
         if not args.staged:
             print(f"          → logs/{LOG.name}")
@@ -235,12 +273,12 @@ def selftest() -> int:
         return "ERROR" if any(s == "ERROR" for s, *_ in h) else "WARN"
 
     print("── 잡아야 하는 것")
-    check("주민번호(체크섬 통과)", sev("note-meeting/a.md", "환자 800101-1234560 내원"), "ERROR")
-    check("전화 하이픈", sev("note-meeting/a.md", "연락처 010-1234-5678"), "ERROR")
-    check("전화 점", sev("agenda/a.md", "010.9876.5432"), "ERROR")
-    check("전화 공백", sev("slides/a.md", "011 234 5678"), "ERROR")
-    check("이메일(임상 디렉터리)", sev("note-meeting/a.md", "환자 kim@naver.com"), "ERROR")
-    check("차트번호", sev("note-meeting/a.md", "차트번호: 88123"), "ERROR")
+    check("주민번호(체크섬 통과)", sev("note-meeting/a.md", "환자 800101-1234560 내원"), "ERROR")  # pii-guard: test-vector
+    check("전화 하이픈", sev("note-meeting/a.md", "연락처 010-1234-5678"), "ERROR")  # pii-guard: test-vector
+    check("전화 점", sev("agenda/a.md", "010.9876.5432"), "ERROR")  # pii-guard: test-vector
+    check("전화 공백", sev("slides/a.md", "011 234 5678"), "ERROR")  # pii-guard: test-vector
+    check("이메일(임상 디렉터리)", sev("note-meeting/a.md", "환자 kim@naver.com"), "ERROR")  # pii-guard: test-vector
+    check("차트번호", sev("note-meeting/a.md", "차트번호: 88123"), "ERROR")  # pii-guard: test-vector
 
     print("── 잡으면 안 되는 것")
     check("DOI(주민번호형)", sev("wiki/a.md", "DOI 10.3760/cma.j.cn112144-20230915-00158"), None)
@@ -254,15 +292,24 @@ def selftest() -> int:
                               "환자·직원 식별정보(이름·연락처·차트번호·생년월일) 평문 금지"), None)
 
     print("── 모양만 맞는 것 → WARN (block 아님)")
-    check("날짜범위", sev("wiki/a.md", "기간 202001-2024012 코호트"), "WARN")
+    check("날짜범위", sev("wiki/a.md", "기간 202001-2024012 코호트"), "WARN")  # pii-guard: test-vector
 
     print("── 체크섬")
     check("valid", rrn_checksum_ok("8001011234560"), True)
     check("invalid", rrn_checksum_ok("8001011234561"), False)
 
+    print("── 줄 마커 (회귀 픽스처 면제)")
+    marked_hits = scan_text("scripts/x.py", '  check("a", "800101-1234560")  # pii-guard: test-vector\n', set())
+    check("마커 → SUPPRESSED", [s for s, *_ in marked_hits], ["SUPPRESSED"])
+    check("마커 → 라벨은 체크섬 사실", [r for _, r, *_ in marked_hits], ["주민등록번호"])
+    # 리터럴을 쪼개 둔다 — 이 픽스처는 "마커가 없으면 잡힌다"를 증명해야 하는데,
+    # 온전한 문자열로 두면 이 파일을 스캔할 때 자기 자신이 ERROR로 잡힌다(실제로 잡혔다).
+    unmarked = scan_text("scripts/x.py", '  check("a", "800101-" "1234560")\n'.replace('" "', ""), set())
+    check("마커 없으면 ERROR", [s for s, *_ in unmarked], ["ERROR"])
+
     print("── 허용목록")
     check("allowlist 억제", (lambda: "ERROR" if any(
-        s == "ERROR" for s, *_ in scan_text("agenda/a.md", "대표번호 010-1234-5678", {"010-1234-5678"})
+        s == "ERROR" for s, *_ in scan_text("agenda/a.md", "대표번호 010-1234-5678", {"010-1234-5678"})  # pii-guard: test-vector
     ) else None)(), None)
 
     print(f"\n{'✅ selftest OK' if not bad else f'❌ {bad} case(s) failed'}")
