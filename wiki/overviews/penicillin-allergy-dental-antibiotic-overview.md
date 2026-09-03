@@ -38,6 +38,8 @@ relations:
     target: segura-egea-2017-antibiotics-in-endodontics-a-review
   - type: applies-to
     target: salgado-peralvo-2022-consensus-preventive-antibiotic-therapy-dental-implant
+  - type: contradicts
+    target: diaz-2025-antibiotics-sinus-lift-infection-umbrella
 ---
 
 > [!summary] 한국어 핵심요약
