@@ -2,7 +2,7 @@
 """
 LLM Wiki — Daily Audit Runner
 
-One entry-point that runs all 23 audits and writes their logs to logs/.
+One entry-point that runs all 24 audits and writes their logs to logs/.
 
 The list below is in AUDITS order — keep them in sync. (2026-07-17: the docstring said
 "14 audits" and omitted five entirely — doi-duplicate-check, overview-coverage-lint,
@@ -28,7 +28,7 @@ site lying. So a build belongs at the moment its artifact reaches a consumer (de
 not in a local daily report. Same principle already stated in interactive-staleness.py:
 meta/stats tools are exempt from staleness because deploy regenerates them wholesale.
 
-Three classic audits (errors):
+Four hard-guard audits (errors):
   - lint.py                  → wiki frontmatter sanity
   - operations-lint.py       → OPS cross-link chain
   - orphan-check.py          → PDF ↔ source 1:1
@@ -153,6 +153,10 @@ AUDITS = [
     ("lint.py",                   ["--quiet"], True),
     ("operations-lint.py",        [],          True),
     ("orphan-check.py",           [],          True),
+    # 공개 리포의 유일한 비가역 실패 모드 — 커밋된 PII는 git 히스토리·Pages
+    # 캐시·검색 색인에 남아 되돌릴 수 없다. 도입 시점 위반 0이라 block이 오늘
+    # 아무것도 막지 않는다. pre-commit 훅(.githooks/pre-commit)과 두 겹.
+    ("pii-guard.py",              [],          True),
     ("synthesis-backlog.py",      [],          False),
     ("ingest-rationale-lint.py",  ["--strict"], True),
     ("category-overflow.py",      [],          False),
