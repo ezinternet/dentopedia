@@ -26,7 +26,7 @@ tags: [implants, tilted-implant, angled-abutment, all-on-4, fea]
 
 ## Three-line Summary
 
-Synthesis of 7 papers: intentionally tilted implants (e.g. All-on-4 distal tilt) are clinically equivalent to axial implants in survival and short-term marginal bone (Del Fabbro 2014; Lin 2018), with only a modest long-term MBL penalty emerging in the larger 24-study SR+MA at 3–18 years (Del Fabbro 2022, P<.0001); implant survival 93.91%, prosthesis survival 99.31%.
+Synthesis of 11 papers: intentionally tilted implants (e.g. All-on-4 distal tilt) are clinically equivalent to axial implants in survival and short-term marginal bone (Del Fabbro 2014; Lin 2018), with only a modest long-term MBL penalty emerging in the larger 24-study SR+MA at 3–18 years (Del Fabbro 2022, P<.0001); implant survival 93.91%, prosthesis survival 99.31%.
 
 FEA consistently shows stress rising with angulation and off-axis load — yet the highest recorded value (~266 MPa) sits well below titanium yield strength (550 MPa), resolving the in-vitro/clinical gap: extra stress is real but sub-critical, expressed only as the small long-term MBL penalty.
 
