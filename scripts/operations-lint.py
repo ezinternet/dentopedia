@@ -95,6 +95,46 @@ def check_light_only(path: str, content: str) -> list[str]:
     return errors
 
 
+def strip_inline_comment(value: str) -> str:
+    """YAML 인라인 주석(` #` 이후)을 스칼라 값에서 제거한다.
+
+    왜 파싱 시점인가 (2026-09-03): 이 결함은 **양방향**이었다.
+      - `source_wiki: []  # 의도적 공란` → 값이 `"[]"`가 아니라 `"[] # …"`라
+        `field_is_nonempty()`가 True를 돌려주고 **ORPHAN 검사를 거짓 통과**했다
+        (리포에서 유일한 해당 파일이 하필 7주째 draft이던 브릿지 agenda였다).
+      - `status: draft  # draft | in-progress | …` → **거짓 error**. `agenda/_template.md`를
+        OPERATIONS.md §4가 시킨 대로 `cp` 하면 그대로 복사되어 lint가 즉시 실패한다.
+        템플릿 자신은 `EXEMPT_FILES`라 검사되지 않아 아무도 몰랐다.
+    두 방향 모두 "값 비교" 시점이 아니라 **값을 만드는 시점**의 문제라 여기서 고친다.
+
+    따옴표 안의 `#`는 주석이 아니고(이스케이프도 처리), 리스트 블록에는 적용하지
+    않는다 — 여러 줄을 이어붙인 값에 대해 `\n#`을 주석 시작으로 오인한다.
+    """
+    out: list[str] = []
+    quote: str | None = None
+    i = 0
+    while i < len(value):
+        ch = value[i]
+        if quote:
+            if ch == "\\" and i + 1 < len(value):
+                out.append(ch)
+                out.append(value[i + 1])
+                i += 2
+                continue
+            if ch == quote:
+                quote = None
+            out.append(ch)
+        elif ch in ('"', "'"):
+            quote = ch
+            out.append(ch)
+        elif ch == "#" and (i == 0 or value[i - 1].isspace()):
+            break
+        else:
+            out.append(ch)
+        i += 1
+    return "".join(out).strip()
+
+
 def parse_frontmatter(content: str) -> dict | None:
     """Minimal YAML frontmatter parser: returns dict of raw string values.
     Lists are returned as the raw block of indented lines (good enough
@@ -123,7 +163,7 @@ def parse_frontmatter(content: str) -> dict | None:
             elif current_key is not None and current_key not in fields:
                 fields[current_key] = ""
             current_key = m_kv.group(1)
-            value = m_kv.group(2).strip()
+            value = strip_inline_comment(m_kv.group(2))
             current_list_items = []
             if value:
                 fields[current_key] = value
