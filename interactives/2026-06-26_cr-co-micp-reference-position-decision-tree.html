@@ -2,8 +2,8 @@
 ---
 title: "CR vs CO/MIP 기준위 선택 결정 트리 — 교합 재건 기준위 판정"
 type: interactive
-date: 2026-07-20
-verified: 2026-07-20
+date: 2026-09-03
+verified: 2026-09-03
 status: done
 category: occlusion
 source_wiki:
@@ -15,6 +15,10 @@ source_wiki:
   - wiki/occlusion/fukushima-2016-controversy-with-respect-occlusion.md
   - wiki/tmj/radej-2023-condylar-displacement-malocclusion-cr-mip-sr.md
   - wiki/occlusion/utz-2026-neuromuscular-position-tmj-condyle-dentate.md
+  - wiki/occlusion/jasz-2024-comparison-cr-recording-techniques-mip-50um.md
+  - wiki/occlusion/rovira-lastra-2026-accuracy-articulating-paper-occlusal-contact.md
+  - wiki/occlusion/jahanbin-2026-cr-guided-equilibration-postorthodontic-rct.md
+  - wiki/tmj/singh-2024-cochrane-irreversible-occlusal-modification-tmd.md
 agenda: agenda/2026-06-26_cr-co-micp-reference-position-decision-tree.md
 ---
 -->
@@ -133,7 +137,7 @@ agenda: agenda/2026-06-26_cr-co-micp-reference-position-decision-tree.md
   </div>
 
   <script>
-    const NOTE = '⚠️ 신경근위(NM/Myocentric): 시험받고 기각됐다 — MIP↔NM 0.88±0.30 mm, CR↔NM 0.83±0.27 mm로 세 위치 모두 서로 다른 독립 위치임이 확인됐고, 분산이 핵심(최대 5.98/7.89 mm). 보철 수복 기준위로 권장 불가 (Utz 2026, Clin Oral Investig). | 📏 측정 도구 주의: CR–MIP 활주 2 mm 판별선인데 측정 도구 오차가 같은 자릿수 — 왁스 기록 재현성 ≈ 디지털의 6배 편차 (Rani 2024), IOS 측방위 오차 28% (Morsy 2024), 교합지 contact count는 력 변화에 둔감 (Biren 2025). | 📊 교합접촉 수는 지시재 따라 11–70개 변동 — 한 가지 지시재로 고정해 추적 (Qadeer & Türp 2023, J Oral Rehabil).';
+    const NOTE = '⚠️ 신경근위(NM/Myocentric): 시험받고 기각됐다 — MIP↔NM 0.88±0.30 mm, CR↔NM 0.83±0.27 mm로 세 위치 모두 서로 다른 독립 위치임이 확인됐고, 분산이 핵심(최대 5.98/7.89 mm). 보철 수복 기준위로 권장 불가 (Utz 2026, Clin Oral Investig). | 📏 측정 도구 주의: CR–MIP 활주 2 mm 판별선인데 측정 도구 오차가 같은 자릿수 — 왁스 기록 재현성 ≈ 디지털의 6배 편차 (Rani 2024), IOS 측방위 오차 28% (Morsy 2024), 교합지 contact count는 력 변화에 둔감 (Biren 2025). 교합지 81% TP / 15% FP, 200µm > 100µm; bilateral-coincidence rule 적용 시 FP 2.0% (Rovira-Lastra 2026). | 📊 교합접촉 수는 지시재 따라 11–70개 변동 — 한 가지 지시재로 고정해 추적 (Qadeer & Türp 2023, J Oral Rehabil). | 🎯 CR 기록법 정밀도: 7가지 술식 비교(50µm T-Scan), 모두 ±1 mm 이내; Dawson bimanual 최근접, chin-point retrusion은 과두를 후방으로 압박 — 해부학적 CR이 아님 (Jász 2024, J Prosthet Dent). | 🚫 교합 수정(삭제) 금지: Singh 2024 Cochrane — CR–MIP 슬라이드 발견만으로 교합 평형화(교합 삭제)를 시행하는 것에 강한 반대 권고. TMD에 대한 비가역적 교합 수정 근거 없음.';
 
     const QUESTIONS = {
       q1: {
@@ -190,8 +194,8 @@ agenda: agenda/2026-06-26_cr-co-micp-reference-position-decision-tree.md
       rAmber: {
         cls: 'amber', label: '경계 — 추가 평가', step: 3,
         title: 'Flag → 기능·과두 평가 우선',
-        body: '활주 > 2 mm, 과두발산형(hyperdivergent) 골격, 또는 증상이 있으면 경계 신호다. 교합을 바꾸기 전 <b>전반적 기능·과두 변위 평가</b>를 먼저 시행한다. hyperdivergent 패턴은 CR→MIP 과두 후하방 변위의 최대 위험인자다(임상적 유의 변위 ≥2 mm 시상/수평, ≥0.5 mm 횡).',
-        refs: 'Radej 2023 (scoping review) — hyperdivergent = CR→MIP 변위 위험 · <a href="https://doi.org/10.3390/jcm12020689" target="_blank">DOI</a> | Fornai 2022 — 활주 컷오프 ≈2 mm · <a href="https://doi.org/10.1111/joor.13329" target="_blank">DOI</a> | Jiménez-Silva 2017 — CR-ICP↔TMD 근거 낮음 · <a href="https://doi.org/10.1080/00016357.2017.1340667" target="_blank">DOI</a>'
+        body: '활주 > 2 mm, 과두발산형(hyperdivergent) 골격, 또는 증상이 있으면 경계 신호다. 교합을 바꾸기 전 <b>전반적 기능·과두 변위 평가</b>를 먼저 시행한다. hyperdivergent 패턴은 CR→MIP 과두 후하방 변위의 최대 위험인자다(임상적 유의 변위 ≥2 mm 시상/수평, ≥0.5 mm 횡). <b>⚠ 중요 — 발견된 CR–MIP 슬라이드를 근거로 교합 삭제(평형화)를 시행하지 않는다</b>: Singh 2024 Cochrane이 TMD에 대한 비가역적 교합 수정에 강한 반대 권고를 내렸다. 교정 후 CR 유도 평형화도 6개월 시점 유의차 없음(Jahanbin 2026 RCT). 평가 후 보존적 접근 우선.',
+        refs: 'Radej 2023 (scoping review) — hyperdivergent = CR→MIP 변위 위험 · <a href="https://doi.org/10.3390/jcm12020689" target="_blank">DOI</a> | Fornai 2022 — 활주 컷오프 ≈2 mm · <a href="https://doi.org/10.1111/joor.13329" target="_blank">DOI</a> | Jiménez-Silva 2017 — CR-ICP↔TMD 근거 낮음 · <a href="https://doi.org/10.1080/00016357.2017.1340667" target="_blank">DOI</a> | Singh 2024 Cochrane — 비가역적 교합 수정 강한 반대 권고 | Jahanbin 2026 RCT — CR 유도 교합 평형화 6개월 비유의'
       },
     };
 
