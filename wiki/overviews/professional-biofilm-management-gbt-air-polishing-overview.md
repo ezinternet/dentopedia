@@ -38,7 +38,7 @@ tags: [guided-biofilm-therapy, GBT, air-polishing, erythritol, glycine, mechanic
 
 ## Three-line Summary
 
-Synthesis of 13 papers (2 SRs, 4 RCTs, 1 in-vitro SR, 1 narrative review, 2 in-vitro studies, 1 case report, 2 implant SR/RCTs) on natural teeth and implants: Guided Biofilm Therapy (GBT)/air polishing delivers patient-centered benefits (less pain, shorter chair time, least hard-tissue abrasion) but is clinically equivalent — not superior — to conventional SRP/PMPR on hard endpoints (PPD, CAL, BoP) with GRADE very low (Yein 2026 SR, 5 RCTs).
+Synthesis of 16 papers (2 SRs, 4 RCTs, 1 in-vitro SR, 1 narrative review, 2 in-vitro studies, 1 case report, 2 implant SR/RCTs) on natural teeth and implants: Guided Biofilm Therapy (GBT)/air polishing delivers patient-centered benefits (less pain, shorter chair time, least hard-tissue abrasion) but is clinically equivalent — not superior — to conventional SRP/PMPR on hard endpoints (PPD, CAL, BoP) with GRADE very low (Yein 2026 SR, 5 RCTs).
 
 Erythritol (14 µm) is the preferred powder (equal biofilm removal to sodium bicarbonate but far less surface damage; Pujarern 2024); hand curettes lose the most cementum per stroke while air polishing loses the most per second — avoid prolonged dwell time; subgingival air polishing carries a real (if rare) emphysema risk (Hussein 2026 case report, 5 mm pocket, hospitalization).
 
