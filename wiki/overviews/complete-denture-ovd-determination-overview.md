@@ -32,7 +32,7 @@ source_wiki:
 
 ## Three-line Summary
 
-Synthesis of 7 papers (Fayad 2025 comprehensive review, Alhajj 2017 method classification, Goyal 2026 SR+MA of anthropometric validity, Khan 2023 anthropometric RCT, Matsuda 2014 EEG consequence study, Sheppard 1975 cephalometric rest-position study, Satin 2023 OVD-transfer accuracy): no single method reliably establishes complete-denture OVD — the physiologic rest position alone is unstable (soft tissue masks skeletal change; shifts on denture insertion, Sheppard 1975), and anthropometric adjuncts are corroborating only (thumb length r ≈ 0.63 best correlate, I² = 99%, Goyal 2026), a verdict Khan 2023's index-finger RCT sits inside rather than overturns.
+Synthesis of 10 papers (Fayad 2025 comprehensive review, Alhajj 2017 method classification, Goyal 2026 SR+MA of anthropometric validity, Khan 2023 anthropometric RCT, Matsuda 2014 EEG consequence study, Sheppard 1975 cephalometric rest-position study, Satin 2023 OVD-transfer accuracy): no single method reliably establishes complete-denture OVD — the physiologic rest position alone is unstable (soft tissue masks skeletal change; shifts on denture insertion, Sheppard 1975), and anthropometric adjuncts are corroborating only (thumb length r ≈ 0.63 best correlate, I² = 99%, Goyal 2026), a verdict Khan 2023's index-finger RCT sits inside rather than overturns.
 
 A wrong VD produces measurable harm: acute +5 mm increase raises an EEG negative-mood indicator, and −3 mm decrease lowers occlusal force (Matsuda 2014); reduced VD presents clinically as shortened lower face, drooping commissures, angular cheilitis, and mentalis hyperactivity ("bunched chin"), while increased VD shows elongated face, strained incompetent lips, and clicking teeth during speech.
 
