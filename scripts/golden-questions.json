@@ -1,0 +1,260 @@
+{
+  "version": 1,
+  "note": "검색 회귀 고정 문항. 답이 아니라 '기대 페이지가 상위 N에 잡히는가'만 본다. 실패는 인덱스 또는 문서가 깨졌다는 신호. lex=키워드형(BM25, 빠름·일일), q=자연어형(벡터, 느림·opt-in). 문항을 통과시키려고 고치지 말 것 — 실패는 조사 대상이지 수정 대상이 아니다. qmd BM25는 AND 의미론이라 단어를 더할수록 결과가 줄고 5단어면 0건이 되기 쉽다 — lex는 2~4개 변별어로 쓴다(실측 2026-09-03).",
+  "top_k": 5,
+  "questions": [
+    {
+      "id": "gq01",
+      "lex": "잔존골 높이 RBH 상악동 거상 술식 선택",
+      "q": "잔존골높이에 따라 측방접근과 치조정접근 중 무엇을 고르나?",
+      "expect": [
+        "sinus-lift-technique-selection"
+      ]
+    },
+    {
+      "id": "gq02",
+      "lex": "슈나이더막 천공 봉합 임플란트 생존",
+      "q": "상악동막이 천공됐는데 임플란트를 그대로 심어도 되나?",
+      "expect": [
+        "sinus-lift-lateral-2026-synthesis",
+        "sinus-lift-technique-selection"
+      ]
+    },
+    {
+      "id": "gq03",
+      "lex": "짧은 임플란트 상악동 거상 비교 생존율",
+      "q": "위축된 후방 상악에서 짧은 임플란트와 상악동 거상 중 무엇이 나은가?",
+      "expect": [
+        "short-implant-vs-sinus-augmentation-decision"
+      ]
+    },
+    {
+      "id": "gq04",
+      "lex": "MRONJ 비스포스포네이트 발치 프로토콜",
+      "q": "경구 비스포스포네이트를 먹는 환자의 발치는 어떻게 하나?",
+      "expect": [
+        "drug-mronj-antiresorptive-overview"
+      ]
+    },
+    {
+      "id": "gq05",
+      "lex": "와파린 INR 발치 항응고제",
+      "q": "와파린 복용 환자의 발치에서 INR 기준은?",
+      "expect": [
+        "drug-anticoagulant-antiplatelet-perioperative-overview"
+      ]
+    },
+    {
+      "id": "gq06",
+      "lex": "감염성 심내막염 예방적 항생제 치과",
+      "q": "치과에서 감염성 심내막염 예방 항생제는 언제 주나?",
+      "expect": [
+        "drug-antibiotic-stewardship-overview"
+      ]
+    },
+    {
+      "id": "gq07",
+      "lex": "당뇨 HbA1c 임플란트 식립 기준",
+      "q": "당뇨 환자에게 임플란트를 심을 때 HbA1c 임계는?",
+      "expect": [
+        "drug-systemic-disease-dental-management-overview"
+      ]
+    },
+    {
+      "id": "gq08",
+      "lex": "치과 술후 통증 진통제 이부프로펜 아세트아미노펜",
+      "q": "발치 후 통증에 어떤 진통제를 first-line으로 쓰나?",
+      "expect": [
+        "drug-analgesics-postop-pain-overview"
+      ]
+    },
+    {
+      "id": "gq09",
+      "lex": "각화점막 폭 KMW 임플란트 주위 건강",
+      "q": "임플란트 주위 각화점막 폭은 몇 mm가 필요한가?",
+      "expect": [
+        "keratinized-mucosa-peri-implant-health-overview"
+      ]
+    },
+    {
+      "id": "gq10",
+      "lex": "ISQ 즉시부하 임계값 임플란트 안정성",
+      "q": "즉시부하를 하려면 ISQ가 얼마 이상이어야 하나?",
+      "expect": [
+        "isq-loading-threshold",
+        "implants-isq-stability-ladder"
+      ]
+    },
+    {
+      "id": "gq11",
+      "lex": "골밀도화 osseodensification 삽입토크 ISQ",
+      "q": "골밀도화가 삽입토크와 임플란트 안정성에 주는 이득은?",
+      "expect": [
+        "osseodensification-clinical-applications"
+      ]
+    },
+    {
+      "id": "gq12",
+      "lex": "즉시식립 jumping gap 협측 골판",
+      "q": "즉시식립에서 jumping gap은 어떻게 처리하나?",
+      "expect": [
+        "immediate-implant-decision-ladder"
+      ]
+    },
+    {
+      "id": "gq13",
+      "lex": "임플란트주위염 예방 치료 전략",
+      "q": "임플란트주위염을 어떻게 예방하고 치료하나?",
+      "expect": [
+        "peri-implantitis-management-overview"
+      ]
+    },
+    {
+      "id": "gq14",
+      "lex": "흡연 임플란트 조기 실패 치주",
+      "q": "흡연이 임플란트 실패와 치주에 주는 영향은?",
+      "expect": [
+        "smoking-tobacco-periodontal-implant-overview",
+        "early-implant-failure-risk-prevention-overview"
+      ]
+    },
+    {
+      "id": "gq15",
+      "lex": "골질 Lekholm-Zarb Misch 임플란트 실패 위험",
+      "q": "골질이 나쁜 부위에서 임플란트 실패 위험은?",
+      "expect": [
+        "bone-quality-implant-risk-modification-overview"
+      ]
+    },
+    {
+      "id": "gq16",
+      "lex": "치조제 보존술 ARP 발치와 흡수",
+      "q": "발치 후 치조제 보존술은 얼마나 효과가 있나?",
+      "expect": [
+        "bone-regeneration-protocol-ladder"
+      ]
+    },
+    {
+      "id": "gq17",
+      "lex": "생활치수요법 VPT 부분치수절단 진단",
+      "q": "생활치수요법의 적응증과 성공을 좌우하는 요인은?",
+      "expect": [
+        "vital-pulp-therapy-decision-ladder"
+      ]
+    },
+    {
+      "id": "gq18",
+      "lex": "하악 전달마취 실패 비가역 치수염 hot tooth",
+      "q": "증상성 비가역 치수염 하악 대구치의 마취 실패를 어떻게 하나?",
+      "expect": [
+        "mandibular-anesthesia-efficacy-ladder"
+      ]
+    },
+    {
+      "id": "gq19",
+      "lex": "상아질 지각과민 처치 기전",
+      "q": "상아질 지각과민은 어떻게 치료하나?",
+      "expect": [
+        "dentin-hypersensitivity-overview"
+      ]
+    },
+    {
+      "id": "gq20",
+      "lex": "보존적 접근와동 파절저항 근관치료",
+      "q": "보존적 접근와동이 치아 파절저항을 정말 높이나?",
+      "expect": [
+        "conservative-access-cavity-biomechanics-overview"
+      ]
+    },
+    {
+      "id": "gq21",
+      "lex": "지르코니아 접착 APC 프로토콜 프라이머",
+      "q": "지르코니아 크라운 접착은 어떤 프로토콜로 하나?",
+      "expect": [
+        "dental-materials-decision-ladder",
+        "adhesive-bonding-strategies-overview"
+      ]
+    },
+    {
+      "id": "gq22",
+      "lex": "단관 재료 단일체 monolithic 베니어 파절",
+      "q": "단관 재료로 단일체와 베니어 중 무엇을 고르나?",
+      "expect": [
+        "prosthetic-materials-decision-ladder"
+      ]
+    },
+    {
+      "id": "gq23",
+      "lex": "TMD 교합안정장치 근거",
+      "q": "턱관절장애 치료에서 근거가 가장 높은 것은?",
+      "expect": [
+        "tmd-management-evidence-ladder"
+      ]
+    },
+    {
+      "id": "gq24",
+      "lex": "개구장애 trismus 정의 진단",
+      "q": "개구장애의 정의와 진단 접근은?",
+      "expect": [
+        "trismus-limited-mouth-opening-overview"
+      ]
+    },
+    {
+      "id": "gq25",
+      "lex": "삼차신경통 외상후 삼차신경병증 통증 성격",
+      "q": "삼차신경통과 외상후 신경병증은 어떻게 구분하나?",
+      "expect": [
+        "trigeminal-neuralgia-neuropathy-overview"
+      ]
+    },
+    {
+      "id": "gq26",
+      "lex": "구강백반증 악성전환",
+      "q": "구강백반증에서 조직검사는 언제 하나?",
+      "expect": [
+        "oral-medicine-decision-ladder"
+      ]
+    },
+    {
+      "id": "gq27",
+      "lex": "치성 상악동염 원인 치료",
+      "q": "치성 상악동염은 어떻게 진단하고 치료하나?",
+      "expect": [
+        "odontogenic-maxillary-sinusitis-overview"
+      ]
+    },
+    {
+      "id": "gq28",
+      "lex": "하치조신경 손상 매복 제3대구치 발치",
+      "q": "하치조신경 고위험 매복 사랑니는 어떻게 하나?",
+      "expect": [
+        "oral-surgery-decision-ladder"
+      ]
+    },
+    {
+      "id": "gq29",
+      "lex": "치간 청소도구 치실 치간칫솔 선택",
+      "q": "치간 청소도구는 무엇을 권해야 하나?",
+      "expect": [
+        "interdental-cleaning-devices-synthesis"
+      ]
+    },
+    {
+      "id": "gq30",
+      "lex": "에어폴리싱 에리스리톨 GBT 바이오필름",
+      "q": "가이드 바이오필름 치료는 전통 스케일링과 무엇이 다른가?",
+      "expect": [
+        "professional-biofilm-management-gbt-air-polishing-overview"
+      ]
+    }
+  ],
+  "known_miss": {
+    "_why": "2026-09-03 도입 시점의 기존 실패. 전부 같은 패턴 — 구성 논문이 overview보다 상위에 온다. 종합 페이지를 지식의 핵심으로 삼는 위키에서 키워드 검색이 원료 논문을 먼저 내놓는 것으로, 이 감사가 드러내려던 신호다. 통과시키려고 문항을 고치지 말 것. 여기 등재된 것은 '알려진 상태'로 분리 집계될 뿐 뮤트되지 않는다(억제는 뮤트가 아니라 이동). 새로 실패하는 문항만 REGRESSION으로 뜬다.",
+    "gq03": "구성 논문(starch-jensen 2017 등)이 상위",
+    "gq11": "구성 논문(mercier 2022 등)이 상위",
+    "gq16": "구성 논문(troiano 2018 등)이 상위",
+    "gq21": "interactive·distillation이 상위",
+    "gq22": "인접 overview(zirconia-types 등)가 상위",
+    "gq23": "구성 논문(bmj 2023 등)이 상위"
+  }
+}
