@@ -20,7 +20,7 @@ relations:
 
 > [!summary] 한국어 핵심요약
 > - 결론: 치과 보철·수복 재료 결정을 4축(①지르코니아 접착 ②CAD/CAM vs 도재금속관(PFM) ③아말감 vs 복합레진 ④시멘트 선택)으로 분해한 결정 ladder. 각 축에 spine paper와 임계값 명시.
-> - 축 1 — APC 프로토콜(Air-abrade·Prime·Cement): 50 µm Al₂O₃ 저압(1-2 bar) sandblasting → 시적 후 타액 오염 시 Ivoclean 세정 → MDP 함유 primer 1회 → MDP/자가접착 시멘트.
+> - 축 1 — APC 프로토콜(Air-abrade·Prime·Cement): 50 µm Al₂O₃ 저압(1-2 bar) sandblasting → 시적 후 타액 오염 시 Ivoclean 세정 → MDP 함유 프라이머(primer) 1회 → MDP/자가접착 시멘트.
 > - 시적 후 타액 오염: sandblasting+Ivoclean SBS 9.3 MPa vs 이소프로필알코올(IPA) 단독 3.04 MPa(Genc 2025). 인산 부식·물/알코올 단독은 부족 → 전용 세정제 또는 재-sandblasting 필요.
 > - 5년 부분안정화 지르코니아(5Y-PSZ)도 MDP 화학결합 유지 — cubic phase가 접착 약점이 아님(Comba 2021). "산 부식으로 표면 활성화"는 오판.
 > - 축 2 — CAD/CAM 전부도재 단관은 PFM과 생존율 대등, 심미 합병증은 OR 16.88로 우위(Aswal 2023, 13편 1,598 수복물). 장경간 FPD는 지르코니아 우위.
