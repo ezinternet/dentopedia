@@ -2,9 +2,9 @@
 ---
 title: "처방 한 장으로 끝 — 시나리오별 치과 처방 레퍼런스"
 type: interactive
-date: 2026-08-07
+date: 2026-09-03
 status: done
-verified: 2026-08-11
+verified: 2026-09-03
 category: drug
 agenda: agenda/2026-07-22_prescription-master-reference.md
 notes: |
@@ -20,6 +20,11 @@ notes: |
   GI 고위험군 대안으로 반영, 임플란트 환자 COX-2 회피 원칙과 상충하지 않도록 명시적 단서 추가.
   동시 추가된 Maurice-Szamburski 2025 IV NSAID narrative review는 전신마취·진정 하 경구
   불가 상황이 전제라 본 도구(경구 처방 레퍼런스) scope 밖 — 반영 대상 아님 확인.
+  updated 2026-09-03: wilson-2021-ie-prophylaxis-aha-scientific-statement 2026-09-02 갱신
+  반영 — Wilson 2021 AHA는 클린다마이신을 IE 예방 전 레지멘에서 삭제. 이 도구에서
+  IE 예방 관련 클린다마이신 오기재 3개소를 수정: (1) aller탭 예외 row vt/dose에서
+  "IE 예방" 제거 + 경고 note 추가, (2) spec탭 IE 용량 row를 세팔렉신 2g/아지스로마이신
+  500mg/독시사이클린 100mg으로 교체, (3) ref탭 항생제표 clindamycin 설명 수정.
 source_wiki:
   - wiki/overviews/drug-clinical-decision-ladder.md
   - wiki/overviews/drug-antibiotic-odontogenic-pain-overview.md
@@ -620,11 +625,12 @@ const CARDS = [
    notes:['치과 스튜어드십의 현행 권고는 <b>Clindamycin에서 Cephalexin·Azithromycin으로 이동</b>했다 (5룰 ④).',
           'Azithromycin은 <b>QT 연장</b> 주의 — 부정맥 이력·심혈관 환자 확인. 마크로라이드 사망의 주원인이 심장 부정맥이다.'],
    src:['스튜어드십 overview 5룰 ④','Thornhill 2019 NHS'], lvl:'m'},
-  {l:'예외', v:'case', vt:'구강외과·상악동·IE 예방에선 Clindamycin 유효',
-   dose:'IE 예방 <em>Clindamycin 600 mg</em> · 상악동/구강외과 <em>300–600 mg q6–8h</em>',
-   notes:['구강외과 적응증에서는 Clindamycin이 알레르기 대안으로 계속 유효하며, 그람음성 커버가 필요하면 Gentamicin 추가.',
-          '<b>단, 비알레르기 환자에게 1차로 쓰는 것은 금지</b>.'],
-   src:['Vidovic-Juras 2024','Díaz 2025','Mohammadpour 2025'], lvl:'m'},
+  {l:'예외', v:'case', vt:'구강외과·상악동 감염 — Clindamycin 유효',
+   dose:'상악동/구강외과 <em>Clindamycin 300–600 mg q6–8h</em>',
+   notes:['구강외과·상악동 감염 적응증에서는 Clindamycin이 알레르기 대안으로 계속 유효하며, 그람음성 커버가 필요하면 Gentamicin 추가.',
+          '<b>단, 비알레르기 환자에게 1차로 쓰는 것은 금지.</b>',
+          '<b>⚠ IE 예방에는 사용 불가</b> — Wilson 2021 AHA가 클린다마이신을 전 IE 예방 레지멘에서 삭제 (단회 투여도 C. difficile 사망 위험).'],
+   src:['Vidovic-Juras 2024','Díaz 2025','Mohammadpour 2025','Wilson 2021 AHA'], lvl:'m'},
   {l:'보조', v:'case', vt:'혐기성 커버 — Metronidazole',
    dose:'<em>Metronidazole 250–500 mg 1일 3회 · 5–7일</em>',
    notes:['알코올 “디설피람 반응”은 <b>근거가 약한 통념</b> — 후향 ED case-control(n=36)에서 0건, 11편 focused review에서도 인과 입증 사례 드묾.',
@@ -635,7 +641,7 @@ const CARDS = [
    notes:['Prevotella 감수성 62%·Fusobacterium 66% — 경험적 선택으로 부적절.'],
    src:['Chunduri 2012 (n=68)','Schmidt 2021'], lvl:'w'}
  ],
- rx:'[예방 단회] 세팔렉신 2g  또는 아지스로마이신 500mg\n[IE 고위험군 예방] 클린다마이신 600mg\n[구강외과·상악동] 클린다마이신 300~600mg q6~8h\n[혐기성 보조] 메트로니다졸 250~500mg 1일 3회 5~7일\n※ 아나필락시스 이력 → 세파계 전체 금기'},
+ rx:'[예방 단회] 세팔렉신 2g  또는 아지스로마이신 500mg\n[구강외과·상악동] 클린다마이신 300~600mg q6~8h\n[혐기성 보조] 메트로니다졸 250~500mg 1일 3회 5~7일\n※ 아나필락시스 이력 → 세파계 전체 금기\n※ IE 예방은 별도 프로토콜 (클린다마이신 사용 불가 — Wilson 2021)'},
 
 {tab:'aller', g:'페니실린 알레르기', t:'NSAID 알레르기 · 피린계 과민', pill:'진통제 쪽 대체',
  rows:[
@@ -739,10 +745,13 @@ const CARDS = [
           '소아 선천성 심장질환에서 균혈증 감소는 확인되나(OR 0.24) IE 예방 직접 근거는 GRADE 매우 낮음 — 일상 구강위생 최적화가 누적 균혈증을 더 줄인다.'],
    src:['Wilson 2021 AHA','Sperotto 2024 SR-MA (n=1.15M)','Loper 2025 SR','Vidovic-Juras 2024'], lvl:'s'},
   {l:'용량', v:'yes', vt:'단회 · 처치 30–60분 전',
-   dose:'<em>Amoxicillin 2 g PO</em> (소아 <em>50 mg/kg</em>) · 페니실린 알레르기 시 <em>Clindamycin 600 mg</em>',
-   notes:[], src:['Wilson 2021 AHA','Vidovic-Juras 2024'], lvl:'s'}
+   dose:'<em>Amoxicillin 2 g PO</em> (소아 <em>50 mg/kg</em>) · 페니실린 알레르기 시 <em>Cephalexin 2 g</em> 또는 <em>Azithromycin 500 mg</em> 또는 <em>Doxycycline 100 mg</em>',
+   notes:['<b>클린다마이신은 2021년 AHA 성명에서 IE 예방 전 레지멘에서 삭제됨</b> — 단회 투여도 C. difficile 감염·사망 위험.',
+          '세팔렉신은 아나필락시스/혈관부종/두드러기 이력이 없는 한 페니실린 알레르기에서 1차 대안.',
+          '세팔렉신 금기(아나필락시스 이력) → 아지스로마이신 500mg 또는 독시사이클린 100mg.'],
+   src:['Wilson 2021 AHA','Vidovic-Juras 2024'], lvl:'s'}
  ],
- rx:'아목시실린 2g PO — 처치 30~60분 전, 단회\n소아: 50mg/kg\n페니실린 알레르기: 클린다마이신 600mg\n※ 인공관절 환자는 루틴 예방 대상이 아님'},
+ rx:'아목시실린 2g PO — 처치 30~60분 전, 단회\n소아: 50mg/kg\n페니실린 알레르기(Wilson 2021): 세팔렉신 2g  또는 아지스로마이신 500mg  또는 독시사이클린 100mg\n⚠ 클린다마이신은 IE 예방에 사용 불가 (2021년 삭제)\n※ 인공관절 환자는 루틴 예방 대상이 아님'},
 
 {tab:'spec', g:'특수환자', t:'항흡수제 복용 (MRONJ 위험)', pill:'1차 예방이 최강',
  rows:[
@@ -792,7 +801,7 @@ const CARDS = [
    ['<b>Amoxicillin</b>','21.5','<b>0.1</b>','<b>1차 선택.</b> 처방의 64.8%를 차지하면서 부작용률 최저. 아나필락시스는 가능.'],
    ['Penicillin V','—','—','면역계 부작용(아나필락시스 포함) 최고.'],
    ['Macrolides (Azithromycin·Clarithromycin)','—','QT 연장·심장사','심혈관·부정맥 환자 회피. 마크로라이드 사망의 주원인이 부정맥.'],
-   ['<b>Clindamycin</b>','—','<b>2.9 (최고)</b>','<b>1차 회피.</b> 대부분 C. difficile. 단 구강외과·IE 예방의 알레르기 대안으로는 유효.'],
+   ['<b>Clindamycin</b>','—','<b>2.9 (최고)</b>','<b>1차 회피.</b> 대부분 C. difficile. 구강외과·상악동 감염의 알레르기 대안으로는 유효. <b>IE 예방에는 삭제됨 (Wilson 2021 AHA)</b>.'],
    ['Metronidazole','위장관','—','혐기성 보조. 음주 관련 “디설피람 반응”은 근거 약한 통념.']
   ]},
  src2:['Thornhill 2019 NHS 처방 데이터 + MHRA Yellow Card (2010–2017)']},
