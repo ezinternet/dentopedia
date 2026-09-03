@@ -31,7 +31,7 @@ source_wiki:
 
 ## Three-line Summary
 
-Cross-paper synthesis of 10 papers framing saliva along two clinical axes — (A) content: saliva as a non-invasive diagnostic medium (salivaomics, exosomics, EFIRM liquid biopsy, OSCC/PSA/diabetes biomarkers, wearable sensors) and (B) flow: salivary-gland secretory function and its failure in xerostomia/hyposalivation via the GPCR→IP3R→SOCE→AQP5 calcium-signaling cascade.
+Cross-paper synthesis of 13 papers framing saliva along two clinical axes — (A) content: saliva as a non-invasive diagnostic medium (salivaomics, exosomics, EFIRM liquid biopsy, OSCC/PSA/diabetes biomarkers, wearable sensors) and (B) flow: salivary-gland secretory function and its failure in xerostomia/hyposalivation via the GPCR→IP3R→SOCE→AQP5 calcium-signaling cascade.
 
 Salivary MMP-9 drops 588→132 ng/mL after OSCC surgery; EFIRM electrochemistry detects EGFR ctDNA and SARS-CoV-2 in ~30 min on 40–50 µL; persistent xerostomia affects 10–50% of the population with no FDA-approved permanent cure; semaglutide (GLP-1 agonist) is a newly reported hyposalivation cause (3 cases, reversible); and 20–30% salivary–plasma proteome overlap positions saliva as a systemic health mirror.
 
