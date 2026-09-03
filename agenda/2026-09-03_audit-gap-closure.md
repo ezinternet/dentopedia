@@ -2,7 +2,7 @@
 title: "Daily-audit 구멍 메우기 — 검색층·자기서술·PII·답변회귀 4축 + 읽기 종착역"
 type: agenda
 date: 2026-09-03
-status: draft
+status: in-progress
 owner: 원장
 priority: P1
 deadline:
@@ -64,12 +64,12 @@ CLAUDE.md:100,103                 (개수 교정)
 
 `agenda/2026-07-15_audit-to-briefing-bridge.md`의 설계를 그대로 흡수한다. 그 파일은 이 작업 완료 시 `status: archived`.
 
-- [ ] `logs/{today}_*` 파싱 → 배지 JSON 1개 emit (`logs/{today}_badge.json`)
-- [ ] 표면화 신호 확정: thesis-staleness warn / category-overflow / link-integrity BROKEN + **OVI 적색·철회플래그**(2026-07-15 설계 이후 신설된 감사)
-- [ ] **0건이면 배지를 숨긴다** — 노이즈 억제가 이 스크립트의 절반이다
-- [ ] `daily-audit.py` 맨 끝에서 실행 (감사가 아니라 후처리이므로 감사 카운트에 넣지 않는다)
-- [ ] morning-briefing 템플릿 배지 슬롯 연결 (환자정보 무관 → masking gate 영향 없음)
-- [ ] `agenda/2026-07-15_audit-to-briefing-bridge.md` → `status: archived` + 본 파일 백링크
+- [x] `logs/{today}_*` 파싱 → 배지 JSON 1개 emit (`logs/{today}_badge.json`)
+- [x] 표면화 신호 확정: thesis-staleness warn / category-overflow / link-integrity BROKEN + **OVI 적색·철회플래그**(2026-07-15 설계 이후 신설된 감사)
+- [x] **0건이면 배지를 숨긴다** — 노이즈 억제가 이 스크립트의 절반이다
+- [x] `daily-audit.py` 맨 끝에서 실행 (감사가 아니라 후처리이므로 감사 카운트에 넣지 않는다)
+- [ ] ⛔ **BLOCKED — morning-briefing 템플릿 배지 슬롯 연결.** 파이프라인이 이 리포에 없다 (dentweb → Supabase → Netlify, 외부). 리포 쪽 계약인 `logs/{date}_badge.json`은 완성됐고, 소비자는 `badge["visible"]`만 보면 되도록 설계했다 — 렌더 판단 로직을 소비자에 두지 않기 위함. **외부 리포 경로 확인 필요**
+- [x] `agenda/2026-07-15_audit-to-briefing-bridge.md` → `status: archived` + 본 파일 백링크
 
 ## T2 — `retrieval-health.py` : 검색층 감사  *(signal)*
 
@@ -164,6 +164,20 @@ CLAUDE.md가 이미 이 위험을 문서화해 뒀다 — 2026-07-17 철회 논�
 - [ ] 커밋은 파일당 1개 (per-file commit 규칙)
 
 # Notes / Decisions
+
+- **2026-09-03 T1 구현 중 발견 — 조건부 블록을 "파싱 실패"로 읽던 버그.** `overview-volatility-audit.py:456`은
+  철회 하드 플래그 블록을 `if flagged:` 아래에서만 찍는다 (티어 섹션은 0편이어도 항상 찍는 것과 다르다).
+  초안 파서는 블록 부재를 degraded로 처리했는데, 그러면 **철회 4건을 다 고치는 날부터 배지가 매일 거짓
+  경고**를 낸다 — 배지를 무의미하게 만드는 방식이 거짓 0이 아니라 거짓 경고인 경우다. 해결: 로그 앵커
+  (`Overview Volatility Index`)로 *"섹션이 정당하게 없다"* 와 *"내가 읽는 파일이 그 로그가 아니다"* 를
+  구분한다. 앵커 있으면 부재 = 0, 앵커 없으면 unknown. 회귀 3케이스로 고정.
+- **2026-09-03 T1 — `relative_to()`가 exit-0 계약을 깨뜨렸다.** `--logs-dir`가 리포 밖이면 경로 표시용
+  `relative_to`가 예외를 던져 스크립트가 죽었다. 순수 표시용 코드가 "절대 실패하지 않는다"는 계약을
+  깰 수 있으면 안 된다 → `_rel()` 헬퍼로 best-effort 처리.
+- **2026-09-03 T1 — 표면화 신호를 3종에서 5종으로 늘린 근거.** 원 설계(2026-07-15) 3종은 오늘 전부 0이다.
+  그 3종만 넣었으면 배지는 실측 4건의 철회논문 포함 overview를 **놓친 채 빈 배지**가 됐다. 설계 이후
+  신설된 감사(volatility·retraction)가 실제로 가장 시급한 신호를 갖고 있었다는 뜻 — 배지 신호 목록은
+  감사가 늘 때마다 재검토해야 한다.
 
 - **2026-09-03: 착수 순서를 T1 먼저로 정한 근거.** 원래 후보 순위는 "검색층이 가장 위험"이었으나, 오늘 신호 총량(STALE 5 + decay 308 + 미커버 234 + Tier2 50)을 세어보니 **읽히지 않는 신호를 늘리는 것이 더 큰 손해**로 판단. T1은 새 감사가 아니라 기존 22개의 ROI를 올린다.
 - **2026-09-03: T3만 error, T2·T4·T5는 signal.** 판정 기준은 "판단이 개입하는가"다. PII는 정규식 존재 검사(판단 0) + 비가역 → error. 검색층 신선도는 재색인 타이밍에 판단이 들어가고, 자기서술 수치는 문장 맥락 판단이 필요하며, 답변 회귀는 위양성이 원리상 존재한다 → 전부 signal.
