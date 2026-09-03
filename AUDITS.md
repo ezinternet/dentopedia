@@ -1,8 +1,8 @@
-# Daily Audit — 22 audits
+# Daily Audit — 23 audits
 
 > Split out of `CLAUDE.md` on 2026-07-17 to keep that file lean. `CLAUDE.md` keeps only the invariant (*signal, not gate*) and the entry-point command; the per-audit reference lives here. Open this file when adding/changing an audit or interpreting a log in `logs/`.
 
-A single entry-point runs all 22 audits and writes their logs to `logs/`:
+A single entry-point runs all 23 audits and writes their logs to `logs/`:
 
 ```bash
 python3 scripts/daily-audit.py
@@ -12,7 +12,7 @@ python3 scripts/daily-audit.py
 
 ---
 
-## The 22 audits — 3 classic + 1 rationale (errors block) + 18 signals
+## The 23 audits — 3 classic + 1 rationale (errors block) + 19 signals
 
 | Audit | Type | Purpose |
 |---|---|---|
@@ -37,6 +37,7 @@ python3 scripts/daily-audit.py
 | `retraction-audit.py` | signal | `retraction_status: RETRACTED` 페이지가 **인용 사고를 실제로 막는 구조**인지 검사. 핵심은 **경고가 섹션 제목 안에 있는가** — QMD는 청크로 검색하므로 페이지 상단 콜아웃은 `## Results` 청크에 따라오지 않는다(사람이 페이지를 열 때만 작동하는 경고는 답변 생성 경로를 못 막는다). 그 외: 필수 3섹션(Why This Page Exists / What We Can NOT Use / What It Does Tell Us), typed 엣지 **양방향 0**(철회 논문이 overview 합성에 살아있는 관계로 조립되면 안 됨). 역방향으로 필드 누락 의심도 검출. `grep retracted`는 교정과 'canine retraction'(견인)에 걸려 못 쓰므로 기계 판독 고리는 `retraction_status:` 필드뿐 |
 | `overview-volatility-audit.py` | signal | **채점 단위가 페이지가 아니라 overview**인 유일한 감사 — 논문이 뭐라고 했는지는 안 바뀌고, 바뀌는 건 그 논문들을 묶어 내린 결론이다. 새 신호를 수집하지 않고 기존 감사 신호를 종합 단위로 롤업해 "어느 결론이 먼저 뒤집힐까"로 정렬한다. 성분: ①마지막 thesis 편집 이후 유입 논문 수(신규 신호) ②thesis 노후 ③구성 논문 간 `contradicts`×2+`refines` ④고근거(sr+ma/sr/rct) 중 7년 경과+`superseded_by` 없는 비율 ⑤최신 논문 공백. 철회 논문 포함은 점수 성분이 아니라 **하드 플래그**(점수에 녹이면 묻힌다). 두 함정이 실측으로 확인돼 대응돼 있다 — (a) 구성 논문을 `source_papers` frontmatter로만 읽으면 안 된다(2026-08-02 실측 262편 중 90편만 보유, 나머지는 본문 wikilink뿐이라 ③④⑤가 통째로 죽었다), (b) 정비 커밋(overview 10편 이상 동시 수정)을 thesis 편집으로 세면 안 된다(229편 필드 마이그레이션 하나에 전편 나이가 15~19일로 붕괴했고 ①churn도 같이 오염됐다). ②의 정규화 상한은 리포 히스토리 창에 자동 연동 — 첫 커밋이 2026-05-18이라 고정 365일 상한에서는 성분이 죽는다. 가중치·티어 경계는 캘리브레이션 전 잠정값이므로 **절대점수가 아니라 티어와 성분 내역으로 읽을 것**. `interactives/volatility-index.html`은 `--html` 로만 생성 |
 | `deploy-health.py` | signal | **유일하게 리포 바깥(GitHub Actions)을 보는 감사.** 최신 Pages 배포의 conclusion과 **연속 실패 횟수·경과 시간**을 로컬 감사 출력에 끌어온다. 2026-08-25 사고가 존재 이유다 — overview 하나의 `date:` 키 중복으로 배포가 **29시간 넘게** 죽어 있었는데 로컬 감사 21개도 CI Wiki Lint도 전부 초록불이었고, 발견 경로는 사람이 우연히 사이트를 열어본 것뿐이었다. `.github/workflows/deploy-pages.yml`의 `notify-failure` 잡과 **두 겹**을 이룬다: 그쪽은 실패 시 리포에 이슈를 남겨 **사라지지 않게** 하고(단, 누가 GitHub을 봐야 보인다), 이쪽은 매일 도는 감사 출력에 실어 **찾아오지 않아도 보이게** 한다. `gh` CLI가 없거나 미인증·오프라인이면 조용히 SKIP하고 exit 0 — 감사는 거울이지 gate가 아니다. `from __future__ import annotations`로 구 python3(3.9)에서도 돈다 (PEP604 함정 회피) |
+| `retrieval-health.py` | signal | **다른 22개 감사가 전부 못 보는 축 — 검색층.** 나머지는 전부 *"파일이 옳은가"*를 보지만 **답변 경로는 파일이 아니라 인덱스를 지난다.** 페이지를 고쳐도 색인이 옛것을 들고 있으면 검색은 고치기 전 내용을 계속 내놓는다 — 페이지는 맞는데 답이 틀리는, 어느 감사에도 안 걸리는 실패다. 2026-07-17에 철회 논문 페이지를 고쳐놓고 재색인을 빠뜨려 **10시간 동안 철회 경고 없는 옛 청크가 검색**됐고, 인덱스 대상을 고친 55일 중 23일(42%)이 이 창에 노출됐다. `deploy-health`가 배포에 대해 한 일(리포 바깥 상태를 매일 도는 출력에 끌어와 *찾아가지 않아도 보이게*)을 검색에 대해 한다. 6가지를 본다 — ①컬렉션 설정·경로 실존(컬렉션이 설정에서 조용히 빠지면 그 티어가 통째로 검색에서 사라진다) ②인덱스보다 새 `.md` 수 ③디스크 vs 인덱스 **문서 수**(mtime이 신선해도 문서가 누락/잔존일 수 있다) ④임베딩 `Pending` ⑤고아 벡터 ⑥주간 `qmd-cleanup` 잡의 마지막 완주. **신선도는 `index.sqlite` 하나만 보면 안 된다** — QMD는 WAL 모드로 써서 쓰기가 `-wal`에 들어가고 본 파일 mtime은 체크포인트 때만 움직인다. 실측 2026-09-03: 재색인 **직후**에도 본 파일 00:07 / `-wal` 09:25라 본 파일만 보는 초안이 "재색인 필요"를 띄웠다 — 정상인 날마다 우는 경고는 곧 무시되므로 없느니만 못하다. `Pending:`·`Orphaned:` 줄은 **값이 0이면 qmd가 줄 자체를 안 찍으므로**, 앵커(`QMD Status`)로 *출력 형식이 맞는지* 먼저 확인한 뒤에만 부재를 0으로 읽는다 (앵커 없이 0으로 읽으면 형식이 바뀐 날 조용히 초록불, unknown으로 읽으면 정상인 날마다 거짓 경고). 고아 벡터는 그 자체보다 **치우는 잡이 살아있는가**가 신호라, 클린업이 정상이면 INFO로만 낸다. qmd 미설치·데몬 사망·설정 부재면 조용히 SKIP + exit 0 |
 | `deviation-audit.py` | signal | `logs/ingest-deviations.md` 집계 — SOP 개정 후보 출력 (Rule-of-Three trigger). **억제가 이 감사의 설계 절반이다** — 원판은 누적 ≥3 기준이었고, 로그가 334건까지 자라자 **20종 중 16종이 후보**로 찍혀 신호가 죽었다 (2026-08-25 실측). 논쟁 레이더와 같은 교훈: *억제되지 않는 신호는 끌 수 없고, 끌 수 없는 신호는 노이즈가 된다.* 억제 3겹 — **①판단 기록형 6종 제외**(`relation`/`category`/`confidence`/`supersession`/`evidence-level`/`reporting-judgment`): SOP 위반이 아니라 **SOP가 시킨 대로 판단을 남긴 것**이라 개정 후보로 띄우는 게 범주 오류다(실측 100건, 전체의 30%). **②자기소멸형 제외**(`batch-relation-pending`): "배치라 relations를 나중에 달겠다"는 예고이고 2026-08-25 전수 확인에서 17건 **전부** relations 8~26개로 해소돼 있었는데 로그가 append-only라 영구히 카운트됐다. **③임계값을 누적수가 아닌 최근 30일 창으로**(`--window`로 조정): 누적수는 위키가 사는 한 단조증가라 임계값이 의미를 잃는다 — 판단 기준은 "지금 반복되고 있는가"다. 억제는 **뮤트가 아니라 이동**이다 — 제외된 유형도 하단 참고 블록에 누적/최근 수와 함께 계속 출력한다(supersession-audit의 `chain intentional`과 같은 처리). `EXTERNAL_CONSTRAINT_TYPES`(abstract-only·empty/partial-pmc-text·no-doi·date-fallback)는 후보에서 빼지 않되 근본원인이 페이월·PMC 추출이라 SOP 개정 폭이 좁다고 태그만 단다. 적용 후 후보 16종 → 5종(그중 실제 공정결함 3종) |
 
 **Signals never block.** They're a mirror — the principle is that ingest pressure self-corrects via visibility, not via gates (which trigger burnout/avoidance in clinical workflows). This is a load-bearing design choice, not laziness; see *Design Principles* in `CLAUDE.md`.
