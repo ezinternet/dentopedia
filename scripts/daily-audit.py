@@ -2,7 +2,7 @@
 """
 LLM Wiki — Daily Audit Runner
 
-One entry-point that runs all 21 audits and writes their logs to logs/.
+One entry-point that runs all 23 audits and writes their logs to logs/.
 
 The list below is in AUDITS order — keep them in sync. (2026-07-17: the docstring said
 "14 audits" and omitted five entirely — doi-duplicate-check, overview-coverage-lint,
@@ -114,6 +114,17 @@ One overview-volatility signal (non-blocking):
                                하나에 전편 나이가 붕괴한다. 가중치·티어 경계는 캘리브레이션
                                전 잠정값. HTML은 --html 로만 (아티팩트는 deploy 시점).
 
+One retrieval-layer signal (non-blocking):
+  - retrieval-health.py      → the search index the ANSWERS go through, which every
+                               other audit is blind to: collections configured, .md
+                               newer than the index, on-disk vs indexed doc counts,
+                               embedding Pending, orphaned vectors, and whether the
+                               weekly qmd-cleanup job is still alive. SKIPs at exit 0
+                               when qmd is absent or the daemon is down.
+                               Freshness reads index.sqlite AND its -wal/-shm: QMD
+                               writes in WAL mode, so the main file's mtime lags and
+                               a naive check warns on a freshly reindexed repo.
+
 One SOP-revision trigger (non-blocking):
   - deviation-audit.py       → reads logs/ingest-deviations.md and counts per type;
                                any type at ≥3 occurrences is flagged as an SOP revision
@@ -163,6 +174,10 @@ AUDITS = [
     # 로컬 감사가 전부 초록불인데 공개 배포만 죽어 있던 2026-08-25 사고 이후 추가.
     # gh 없거나 미인증/오프라인이면 조용히 SKIP — 신호이지 gate가 아니다.
     ("deploy-health.py",                 [],   False),
+    # 감사 22개가 전부 "파일이 옳은가"만 보고 있었고, 답변이 지나는 인덱스는
+    # 아무도 안 봤다 (2026-07-17 재색인 누락으로 철회 경고 없는 옛 청크가
+    # 10시간 검색된 사고). qmd 없거나 데몬이 죽었으면 조용히 SKIP.
+    ("retrieval-health.py",              [],   False),
 ]
 
 
@@ -209,7 +224,7 @@ def main() -> int:
     print("─" * 66)
     for script, code, passed in summary:
         status = "PASS" if passed else "FAIL"
-        if script in {"synthesis-backlog.py", "category-overflow.py", "overview-thesis-staleness.py", "overview-coverage-lint.py", "output-coverage-lint.py", "recall-coverage-lint.py", "doi-duplicate-check.py", "supersession-audit.py", "relations-audit.py", "link-integrity.py", "overview-catalogue-lint.py", "interactive-staleness.py", "find-contradiction-candidates.py", "content-lint.py", "retraction-audit.py"}:
+        if script in {"synthesis-backlog.py", "category-overflow.py", "overview-thesis-staleness.py", "overview-coverage-lint.py", "output-coverage-lint.py", "recall-coverage-lint.py", "doi-duplicate-check.py", "supersession-audit.py", "relations-audit.py", "link-integrity.py", "overview-catalogue-lint.py", "interactive-staleness.py", "find-contradiction-candidates.py", "content-lint.py", "retraction-audit.py", "retrieval-health.py"}:
             status = "SIGNAL"
         print(f"  {script:<32} {code:>5}  {status:>8}")
     print("─" * 66)
