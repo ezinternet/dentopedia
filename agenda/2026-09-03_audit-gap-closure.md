@@ -79,11 +79,11 @@ CLAUDE.md가 이미 이 위험을 문서화해 뒀다 — 2026-07-17 철회 논�
 
 **실측 [확인]**: 2026-09-03 현재 인덱스는 신선(4개 컬렉션에 index.sqlite보다 새 `.md` 0건). 클린업 잡은 8-31에 고아 169개 제거 후 정상 종료 — 즉 **오늘 고장난 게 아니라 오늘 안 보일 뿐**이다.
 
-- [ ] 신선도: `~/.cache/qmd/index.sqlite` mtime vs `wiki/`·`sources/`·`agenda/`·`note-meeting/` 최신 `.md` mtime → 뒤처진 파일 수
-- [ ] 임베딩 백로그: `qmd status`의 `Pending:` (⚠ `qmd update`가 찍는 숫자는 전체 파일 수라 거짓 — 이 함정을 스크립트 주석에 박을 것)
-- [ ] 클린업 잡 생존: `.claude/scripts/qmd-cleanup.log` 마지막 타임스탬프 7일 초과 → WARN (주간 잡이므로)
-- [ ] qmd 미설치·데몬 사망·오프라인이면 **조용히 SKIP + exit 0** (deploy-health와 동일 규약 — 감사는 거울이지 gate가 아니다)
-- [ ] `from __future__ import annotations` (구 python3 PEP604 함정 회피)
+- [x] 신선도: `~/.cache/qmd/index.sqlite` mtime vs `wiki/`·`sources/`·`agenda/`·`note-meeting/` 최신 `.md` mtime → 뒤처진 파일 수
+- [x] 임베딩 백로그: `qmd status`의 `Pending:` (⚠ `qmd update`가 찍는 숫자는 전체 파일 수라 거짓 — 이 함정을 스크립트 주석에 박을 것)
+- [x] 클린업 잡 생존: `.claude/scripts/qmd-cleanup.log` 마지막 타임스탬프 7일 초과 → WARN (주간 잡이므로)
+- [x] qmd 미설치·데몬 사망·오프라인이면 **조용히 SKIP + exit 0** (deploy-health와 동일 규약 — 감사는 거울이지 gate가 아니다)
+- [x] `from __future__ import annotations` (구 python3 PEP604 함정 회피)
 
 ## T3 — `pii-guard.py` : 환자 식별정보 가드  *(error)*
 
@@ -147,8 +147,8 @@ CLAUDE.md가 이미 이 위험을 문서화해 뒀다 — 2026-07-17 철회 논�
 
 - [ ] `scripts/operations-lint.py:149` `field_is_nonempty()` — 값 비교 전 인라인 주석 제거. 현재 `source_wiki: []  # 주석`이 ORPHAN 검사를 통과한다. **영향 파일 1개**(`2026-07-15_audit-to-briefing-bridge.md`, T1에서 archived 처리)이므로 지금 고치는 게 가장 싸다 [확인: 전수 스캔]
 - [ ] **같은 결함의 반대 방향** — `status:` 검사는 인라인 주석 때문에 **거짓 error**를 낸다. `agenda/_template.md`를 §4가 시킨 대로 `cp` 하면 `status: draft          # draft | in-progress | ...` 가 그대로 복사되어 operations-lint가 즉시 실패한다 (본 파일 작성 중 실제로 발생 [확인]). 템플릿은 `EXEMPT_FILES`라 자기 자신은 검사되지 않아 7주간 아무도 몰랐다 — 주석 제거를 `field_is_nonempty`가 아니라 **파싱 시점**에 넣어야 두 방향이 함께 해결된다
-- [ ] `scripts/daily-audit.py:5` "21 audits" → 실제 개수. **이 docstring 자신이 2026-07-17에 같은 드리프트를 경고하며 고쳐진 자리다** — 재발했다
-- [ ] `CLAUDE.md:103` "나머지 16은 signal" → 18 (22 − error 4). AUDITS.md는 18로 맞다
+- [x] `scripts/daily-audit.py:5` "21 audits" → 23. (T2에서 감사가 늘어 같이 처리) **이 docstring 자신이 2026-07-17에 같은 드리프트를 경고하며 고쳐진 자리다** — 재발했다
+- [x] `CLAUDE.md:103` "나머지 16은 signal" → 19. AUDITS.md는 드리프트 없었다 (18 → 19로 정상 증가)
 - [ ] T1~T5 등록 후 **세 곳 동시 갱신**: `daily-audit.py` docstring · `AUDITS.md` 표+제목 · `CLAUDE.md:100,103`. 개수만 올리고 항목을 안 적는 것이 2026-07-17의 실패 형태였다
 
 ---
@@ -165,6 +165,20 @@ CLAUDE.md가 이미 이 위험을 문서화해 뒀다 — 2026-07-17 철회 논�
 
 # Notes / Decisions
 
+- **2026-09-03 T2 구현 중 발견 — WAL 때문에 신선도 검사가 거짓 경고를 냈다.** QMD는 SQLite **WAL 모드**로
+  쓴다. 쓰기는 `index.sqlite-wal`에 들어가고 본 파일 mtime은 체크포인트 때만 움직인다. 실측: `qmd update
+  && qmd embed`를 **막 끝낸 직후**에도 본 파일 00:07:29 / `-wal` 09:25:53이라, 본 파일만 보는 초안이
+  "재색인 필요 2건"을 띄웠다. 재색인을 한 날마다 우는 경고이므로 그대로 나갔으면 곧 무시됐을 것이다.
+  해결: 신선도 기준을 `index.sqlite`·`-wal`·`-shm` mtime의 **최대값**으로. T1의 조건부 블록과 같은
+  교훈이 이틀 연속 다른 형태로 나왔다 — **다른 프로그램의 출력·파일에 결합된 검사는 정상 상태를 먼저
+  실측해 보기 전엔 완성이 아니다.**
+- **2026-09-03 T2 — 명세에 없던 검사 2개를 추가했다.** ①**컬렉션 설정 검증**: `index.yml`에서 컬렉션이
+  조용히 빠지면 그 티어가 통째로 검색에서 사라지는데 어느 감사도 못 본다. ②**디스크 vs 인덱스 문서 수**:
+  mtime이 신선해도 문서가 누락/잔존일 수 있다 — 실제로 WAL 오탐을 조사할 때 "인덱스는 102개를 알고
+  있다"는 이 검사가 mtime 신호를 반증해 줬다. 서로를 교차 검증하는 짝이라 둘 다 남긴다.
+- **2026-09-03 T2 — 고아 벡터는 WARN이 아니라 INFO.** 현재 1094개(4%)지만 주간 클린업 잡이 살아 있다
+  (2일 전 완주). 신호는 고아 수가 아니라 **치우는 잡이 살아있는가**이므로, 클린업이 정상이면 INFO로만
+  낸다. 잡이 8일 넘게 안 돌면 그때 고아 수가 WARN으로 승격된다.
 - **2026-09-03 T1 구현 중 발견 — 조건부 블록을 "파싱 실패"로 읽던 버그.** `overview-volatility-audit.py:456`은
   철회 하드 플래그 블록을 `if flagged:` 아래에서만 찍는다 (티어 섹션은 0편이어도 항상 찍는 것과 다르다).
   초안 파서는 블록 부재를 degraded로 처리했는데, 그러면 **철회 4건을 다 고치는 날부터 배지가 매일 거짓
