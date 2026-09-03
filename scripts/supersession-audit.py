@@ -124,9 +124,42 @@ def compute_inbound(pages: dict[str, Path]) -> dict[str, int]:
     return inbound
 
 
+def read_decay_reviews(path):
+    """logs/decay-reviewed.md → {stem: (date, verdict, reason)}. 없으면 빈 dict."""
+    import datetime as _dt
+    out = {}
+    try:
+        text = path.read_text(encoding="utf-8", errors="replace")
+    except OSError:
+        return out
+    for line in text.splitlines():
+        m = re.match(r"^\|\s*(\d{4}-\d{2}-\d{2})\s*\|\s*([^|]+?)\s*\|\s*([^|]+?)\s*\|\s*([^|]*?)\s*\|\s*$", line)
+        if not m:
+            continue
+        try:
+            d = _dt.date.fromisoformat(m.group(1))
+        except ValueError:
+            continue
+        out[m.group(2).strip()] = (d, m.group(3).strip(), m.group(4).strip())
+    return out
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--decay-years", type=int, default=5)
+    # ── decay 억제 3겹 (2026-09-03) ─────────────────────────────────────────
+    # 원판은 후보 334건을 통째로 뱉었다. deviation-audit이 334건에서 배운 것과
+    # 같은 상태다: *억제되지 않는 신호는 끌 수 없고, 끌 수 없는 신호는 노이즈가
+    # 된다.* 억제는 **뮤트가 아니라 이동** — 제외분도 계속 세어 출력한다.
+    ap.add_argument("--decay-inbound-min", type=int, default=10,
+                    help="중심성 하한. 아무도 안 거는 오래된 논문은 검증 우선순위가 아니다")
+    ap.add_argument("--decay-per-category", type=int, default=3,
+                    help="카테고리당 상위 N만. 실제 갱신은 클러스터 단위로 일어난다 "
+                         "(2026-05-31 triage: ARP SR 한 편이 여러 편을 동시에 supersede)")
+    ap.add_argument("--decay-ledger", default=None,
+                    help="대장 경로 override (억제 경로 테스트용)")
+    ap.add_argument("--decay-review-window", type=int, default=365,
+                    help="logs/decay-reviewed.md 등재 후 재검토까지의 일수")
     ap.add_argument("--stdout", action="store_true")
     ap.add_argument(
         "--ci",
@@ -206,6 +239,31 @@ def main() -> int:
     # centrality(inbound) 우선, 동률이면 age — "남이 많이 의존하는 오래된 고근거" 먼저
     decay.sort(key=lambda x: (-x[5], -x[0]))
 
+    # ── 억제 3겹 ────────────────────────────────────────────────────────────
+    reviews = read_decay_reviews(Path(args.decay_ledger) if args.decay_ledger else LOGS_DIR / "decay-reviewed.md")
+    # `today`는 이 스크립트에서 datetime, 대장은 date를 낸다 — 빼기 전에 맞춘다.
+    # (빈 대장에서는 이 루프가 아예 안 돌아 타입 불일치가 드러나지 않는다. 억제
+    #  경로는 대장이 비어 있는 한 실행되지 않으므로 반드시 채워서 시험할 것.)
+    today_d = today.date() if hasattr(today, "date") else today
+    reviewed_recent = {
+        stem for stem, (d, verdict, _) in reviews.items()
+        if verdict == "still-current" and (today_d - d).days <= args.decay_review_window
+    }
+    from collections import defaultdict as _dd
+    per_cat = _dd(int)
+    actionable, sup_reviewed, sup_low, sup_cat = [], [], [], []
+    for row in decay:                      # (yrs, stem, conf, dstr, cat, ib)
+        stem, cat, ib = row[1], row[4], row[5]
+        if stem in reviewed_recent:
+            sup_reviewed.append(row)
+        elif ib < args.decay_inbound_min:
+            sup_low.append(row)
+        elif per_cat[cat] >= args.decay_per_category:
+            sup_cat.append(row)
+        else:
+            per_cat[cat] += 1
+            actionable.append(row)
+
     # (D) TRANSITIVITY — A → B, but B is also superseded (B → C). A's pointer is stale.
     superseded_stems = {stem for stem, _, _ in superseded_ok}
     field_map = {}  # stem → [target_stems]
@@ -242,6 +300,7 @@ def main() -> int:
     L.append(f"  TRANSITIVITY chain stale: {len(chain_stale)}")
     L.append(f"  chain intentional (선언) : {len(chain_declared)}")
     L.append(f"decay candidates (≥{args.decay_years}y, {'/'.join(sorted(DECAY_CONFIDENCE))}, not superseded): {len(decay)}")
+    L.append(f"  └ 지금 검증할 것: {len(actionable)}   (억제: 검증됨 {len(sup_reviewed)} · 카테고리 상위밖 {len(sup_cat)} · 저중심성 {len(sup_low)})")
     L.append("")
 
     if superseded_ok:
@@ -296,9 +355,24 @@ def main() -> int:
             mx = max(r[5] for r in rows)
             L.append(f"  {len(rows):>3}  {cat:<22} median {med:>5}y   maxInbound {mx}")
         L.append("")
-        L.append(f"=== DECAY candidates — verify still current (by centrality, top 60) ===")
-        for yrs, stem, conf, dstr, cat, ib in decay[:60]:
+        L.append(f"=== DECAY — 지금 검증할 것 ({len(actionable)}건) ===")
+        L.append(f"  기준: 중심성 ib≥{args.decay_inbound_min} · 카테고리당 상위 {args.decay_per_category} · "
+                 f"최근 {args.decay_review_window}일 내 'still-current' 판정 제외")
+        for yrs, stem, conf, dstr, cat, ib in actionable:
             L.append(f"  ib={ib:>2}  {yrs:>5}y  [{conf:>5}]  {cat}/{stem}  ({dstr})")
+        L.append("")
+        L.append("--- 참고 — 억제된 후보 (뮤트 아님, 이동) ---")
+        L.append(f"  {len(sup_reviewed):>3}  최근 검증됨 (logs/decay-reviewed.md)")
+        L.append(f"  {len(sup_cat):>3}  같은 카테고리 상위 {args.decay_per_category}건 밖 — 클러스터 갱신 시 함께 처리")
+        L.append(f"  {len(sup_low):>3}  중심성 ib<{args.decay_inbound_min} — 아무도 의존하지 않는 오래된 고근거")
+        if sup_cat:
+            L.append("")
+            L.append("  카테고리별 잔여(상위 밖):")
+            rest = _dd(int)
+            for r in sup_cat:
+                rest[r[4]] += 1
+            for cat in sorted(rest, key=lambda k: -rest[k])[:12]:
+                L.append(f"    {rest[cat]:>3}  {cat}")
         L.append("")
 
     body = "\n".join(L) + "\n"
@@ -307,7 +381,7 @@ def main() -> int:
     issues = len(dangling) + len(banner_missing) + len(banner_orphan) + len(banner_mismatch) + len(chain_stale)
     flag = "⚠" if issues else "✓"
     declared = f", {len(chain_declared)} chain-intentional" if chain_declared else ""
-    print(f"🔁  Supersession: {len(superseded_ok)} superseded, {issues} sync issues {flag}{declared}, {len(decay)} decay candidates")
+    print(f"🔁  Supersession: {len(superseded_ok)} superseded, {issues} sync issues {flag}{declared}, {len(actionable)} decay 검증대상 (전체 {len(decay)})")
     print(f"      log → logs/{log_path.name}")
     if args.stdout:
         print()
