@@ -39,7 +39,7 @@ tags: [probiotics, aPDT, NSPT, SRP, adjunctive-therapy, periodontal-treatment, s
 
 ## Three-line Summary
 
-Synthesis of 8 papers (1 NMA, 4 RCTs, 1 SR+MA, 1 RCT) against the 2017 NMA benchmark (John 2017, 61 RCTs, 9 adjuncts): all NSPT adjuncts share a ~0.3 mm CAL ceiling with no adjunct superior to another.
+Synthesis of 13 papers (1 NMA, 4 RCTs, 1 SR+MA, 1 RCT) against the 2017 NMA benchmark (John 2017, 61 RCTs, 9 adjuncts): all NSPT adjuncts share a ~0.3 mm CAL ceiling with no adjunct superior to another.
 
 2026 probiotic RCTs (Lundtorp-Olsen n=80; Jeon n=80) consistently reduce BoP and PPD ≥5 mm sites but leave CAL unchanged; home-use dual-light aPDT (Gusseva 2026, n=30) reduces plaque by 21.2% vs 6.5% conventional (pilot only).
 
