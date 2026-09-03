@@ -58,7 +58,7 @@ tags: [palatal-positioning, sagittal-root-position, emergence-angle, placement-t
 
 ## Three-line Summary
 
-Synthesis of 22 papers on esthetic-zone immediate implant placement: survival is near-universal (>95%) at all placement timings, but Type 1 carries 20–30% risk of >1 mm midfacial recession when unselected (Buser 2017); the three multiplicative risk factors are thin buccal wall (≤1 mm → median 7.5 mm vertical bone loss at 8 weeks; Chappuis 2013), thin biotype, and buccal shoulder position (~3× recession vs palatal; Evans 2008).
+Synthesis of 34 papers on esthetic-zone immediate implant placement: survival is near-universal (>95%) at all placement timings, but Type 1 carries 20–30% risk of >1 mm midfacial recession when unselected (Buser 2017); the three multiplicative risk factors are thin buccal wall (≤1 mm → median 7.5 mm vertical bone loss at 8 weeks; Chappuis 2013), thin biotype, and buccal shoulder position (~3× recession vs palatal; Evans 2008).
 
 The four controllable levers are palatal/deep 3-D positioning (safe zone ≥4 mm below facial margin, gap >2 mm; Cosyn 2026), buccal-gap grafting (>2 mm gap +3.1 PP survival; Hamilton 2023 SR+MA), CTG/SCTG for thin phenotypes (midfacial level −0.74 mm; volumetric loss 5× less vs customized healing abutment alone; Fettouh 2024 RCT), and immediate provisionalization when primary stability is adequate (~97% survival either way; Pitman 2022 SR+MA).
 
