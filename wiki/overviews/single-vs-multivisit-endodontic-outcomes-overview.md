@@ -30,7 +30,7 @@ source_wiki:
 
 ## Three-line Summary
 
-Synthesis of 5 papers (Cochrane SR+MA 47 RCTs n=5805, SR+MA+TSA 29 RCTs n=4341, and 3 RCTs covering primary apical periodontitis, postoperative pain, and retreatment) on single- vs multiple-visit root canal treatment outcomes.
+Synthesis of 8 papers (Cochrane SR+MA 47 RCTs n=5805, SR+MA+TSA 29 RCTs n=4341, and 3 RCTs covering primary apical periodontitis, postoperative pain, and retreatment) on single- vs multiple-visit root canal treatment outcomes.
 
 All five syntheses converge: no clinically significant difference in radiographic healing at ≥1 year (Mergoni 2022 RR 0.93, moderate certainty), long-term complications (Schwendicke 2017 RR 1.00), or postoperative pain — including in primary apical periodontitis (Bobba 2026 healing 93.3% vs 86.7%, p>0.05) and retreatment (Karaoğlan 2022 88.6% vs 86.7%, p>0.05); the only consistent nuance is a small transient early-pain signal in single-visit treatment for vital teeth (RR 2.16, first week only).
 
