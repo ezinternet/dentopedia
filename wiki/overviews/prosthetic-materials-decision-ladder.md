@@ -17,7 +17,7 @@ tags: [prosthetic-materials, zirconia, lithium-disilicate, screw-vs-cement, over
 
 > [!summary] 한국어 핵심요약
 > - 핵심 명제: 보철 재료 결정을 4축 — 단관 재료 (리튬디실리케이트 (Lithium Disilicate, LDS) vs 지르코니아 vs 도재용착주조관 (PFM))·나사 vs 시멘트 유지·오버덴쳐 어태치먼트·지대주 (abutment) 디자인 — 으로 구조화. prosthetic-materials 32편 spine.
-> - 축 1 단관 재료: 단일체 (monolithic) LDS 5년 생존 98.5%로 최고, 지르코니아·PFM 97.1%로 유사. 단일체 디자인이 베니어 (veneered) 대비 칩핑 (chipping) 유의 감소 (Pjetursson 2026 SR+MA, 64편 11,560 crowns). [확인]
+> - 축 1 단관 재료: 단일체 (monolithic) LDS 5년 생존 98.5%로 최고, 지르코니아·PFM 97.1%로 유사. 단일체 디자인이 베니어 (veneered) 대비 칩핑·파절 (chipping/fracture) 유의 감소 (Pjetursson 2026 SR+MA, 64편 11,560 crowns). [확인]
 > - 단관 ladder: 전치부 심미 → 단일체 LDS (e.max) 또는 4Y-PSZ, 구치부 강도 → 단일체 3Y-TZP 또는 4Y-PSZ, 3-unit 브릿지 → 단일체 3Y-TZP (Waltenberger 2025 S3 명시), 전악 → 3Y-TZP 또는 PFM.
 > - 축 2 나사 vs 시멘트: 1차 권장은 나사 유지 — 시멘트 잔류 (excess cement)로 인한 임플란트주위염 (peri-implantitis) 회피 + 회수 가능. 나사가 6개월 변연골소실 (MBL) SMD −0.63 낮고 합병증 46% 감소 (Tomar 2025). 단 나사풀림 (loosening) 18% (적정토크 35 Ncm·교합조정으로 감소).
 > - 시멘트 적응증: 나사 접근구가 심미 부담 (전치부 각진 지대주)이고 지대주가 충분히 retentive (≥4mm height)하며 시멘트 마진이 치은연상 (epigingival)일 때.
