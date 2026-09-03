@@ -55,7 +55,7 @@ tags: [overview, odontogenic-maxillary-sinusitis, oms, oroantral-fistula, fess, 
 
 ## Three-line Summary
 
-Synthesis of 10 papers establishing that odontogenic maxillary sinusitis (OMS) is a source-control disease: OMS is under-recognised (30–40% of chronic maxillary sinusitis, 45–72% of unilateral sinus opacification is odontogenic), now predominantly iatrogenic (~55% from implants/extractions/sinus lifts, ~45% from odontogenic lesions per De Corso 2022), and diagnosed by dual confirmation (imaging + dental source) where periodontal bone loss is a stronger CBCT mucosal-thickening predictor than periapical lesions (OR 2.2, Bisla 2022).
+Synthesis of 18 papers establishing that odontogenic maxillary sinusitis (OMS) is a source-control disease: OMS is under-recognised (30–40% of chronic maxillary sinusitis, 45–72% of unilateral sinus opacification is odontogenic), now predominantly iatrogenic (~55% from implants/extractions/sinus lifts, ~45% from odontogenic lesions per De Corso 2022), and diagnosed by dual confirmation (imaging + dental source) where periodontal bone loss is a stronger CBCT mucosal-thickening predictor than periapical lesions (OR 2.2, Bisla 2022).
 
 Antibiotics alone fail for treatable odontogenic lesions; 90–100% resolution requires concurrent dental source removal (RCT/extraction/periodontal treatment/foreign-body removal) ± FESS — FESS independently achieves 96.5% success but is adjunctive, not a substitute for source control; one-stage dental+ESS achieves ~97% success with recurrence <1–6%.
 
