@@ -2,7 +2,7 @@
 """
 LLM Wiki — Daily Audit Runner
 
-One entry-point that runs all 25 audits and writes their logs to logs/.
+One entry-point that runs all 26 audits and writes their logs to logs/.
 
 The list below is in AUDITS order — keep them in sync. (2026-07-17: the docstring said
 "14 audits" and omitted five entirely — doi-duplicate-check, overview-coverage-lint,
@@ -136,6 +136,16 @@ One self-description signal (non-blocking):
                                stripped, and a page is flagged only when its claim
                                fits NEITHER baseline.
 
+One answer-path regression signal (non-blocking):
+  - golden-question-check.py → 30 fixed clinical questions run through the search
+                               the ANSWERS come from, checking only whether the
+                               expected page lands in the top K. No LLM, no web —
+                               Rule #1 untouched. Every other audit asks whether
+                               the pages are correct; this asks whether they are
+                               FOUND. Baseline misses are tracked in the fixture
+                               and counted apart from regressions, so the audit
+                               reports change rather than staying permanently red.
+
 One SOP-revision trigger (non-blocking):
   - deviation-audit.py       → reads logs/ingest-deviations.md and counts per type;
                                any type at ≥3 occurrences is flagged as an SOP revision
@@ -195,6 +205,9 @@ AUDITS = [
     ("retrieval-health.py",              [],   False),
     # 독자가 페이지에서 가장 먼저 읽는 문장의 숫자를, 다른 어느 감사도 안 본다.
     ("self-claim-lint.py",                [],   False),
+    # 감사 25개 중 이 위키의 산출물(답변)을 보는 것이 하나도 없었다. 기본은 lex
+    # (30문항 5초); 벡터는 1문항 ~20초라 --vec 수동 전용.
+    ("golden-question-check.py",          [],   False),
 ]
 
 
@@ -241,7 +254,7 @@ def main() -> int:
     print("─" * 66)
     for script, code, passed in summary:
         status = "PASS" if passed else "FAIL"
-        if script in {"synthesis-backlog.py", "category-overflow.py", "overview-thesis-staleness.py", "overview-coverage-lint.py", "output-coverage-lint.py", "recall-coverage-lint.py", "doi-duplicate-check.py", "supersession-audit.py", "relations-audit.py", "link-integrity.py", "overview-catalogue-lint.py", "interactive-staleness.py", "find-contradiction-candidates.py", "content-lint.py", "retraction-audit.py", "retrieval-health.py", "self-claim-lint.py"}:
+        if script in {"synthesis-backlog.py", "category-overflow.py", "overview-thesis-staleness.py", "overview-coverage-lint.py", "output-coverage-lint.py", "recall-coverage-lint.py", "doi-duplicate-check.py", "supersession-audit.py", "relations-audit.py", "link-integrity.py", "overview-catalogue-lint.py", "interactive-staleness.py", "find-contradiction-candidates.py", "content-lint.py", "retraction-audit.py", "retrieval-health.py", "self-claim-lint.py", "golden-question-check.py"}:
             status = "SIGNAL"
         print(f"  {script:<32} {code:>5}  {status:>8}")
     print("─" * 66)
