@@ -26,7 +26,7 @@ tags: [oral-surgery, third-molar, impaction, pericoronitis, extraction-indicatio
 
 ## Three-line Summary
 
-Synthesis of 4 papers framing mandibular third molar (M3M) management as a prophylactic-vs-therapeutic-vs-retention decision across the full pathology–indication–acute treatment–morbidity pipeline.
+Synthesis of 9 papers framing mandibular third molar (M3M) management as a prophylactic-vs-therapeutic-vs-retention decision across the full pathology–indication–acute treatment–morbidity pipeline.
 
 Impaction carries a measurable pathology burden (Ye 2021, n=432 M3Ms: pericoronitis 82.4%, second-molar distal caries 18.8%, periodontal pathology 14.8%), with impaction morphology predicting which pathology occurs; Sun 2026 translates this into a 3-tier extraction-indication framework; pericoronitis is treated locally first (antibiotics only for spread/systemic signs) despite ~75% of dentists over-prescribing; and post-extraction morbidity is reduced by Concentrated Growth Factor (CGF: pain 75%, bone fill 80%, distal periodontal parameters 100% improved; Al-Aroomi 2025 SR of 11 RCTs).
 
