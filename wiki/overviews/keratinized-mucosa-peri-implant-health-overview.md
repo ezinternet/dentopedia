@@ -40,7 +40,7 @@ relations:
 
 ## Three-line Summary
 
-Synthesis of 10 papers (2 umbrella meta-analyses, 3 SR+MAs, 1 long-term prospective cohort, 2 expert consensus statements, 1 SR, 1 narrative): keratinized mucosa width (KMW) ≥2 mm is the agreed threshold across all evidence tiers; inadequate KM is most strongly and consistently linked to soft-tissue surrogates (plaque OR 2.78 TSA-confirmed; inflammation eOR 3.13–5.34; recession eOR 4.05; Mahardawi 2023 SR+MA, 22 studies, 13,265 implants; Sabri 2025 umbrella); the link to peri-implantitis incidence (OR 2.78) and marginal bone loss (MD −0.27 mm, Zhang 2025) is directionally consistent but TSA-underpowered or heterogeneous (I²=80–97%).
+Synthesis of 24 papers (2 umbrella meta-analyses, 3 SR+MAs, 1 long-term prospective cohort, 2 expert consensus statements, 1 SR, 1 narrative): keratinized mucosa width (KMW) ≥2 mm is the agreed threshold across all evidence tiers; inadequate KM is most strongly and consistently linked to soft-tissue surrogates (plaque OR 2.78 TSA-confirmed; inflammation eOR 3.13–5.34; recession eOR 4.05; Mahardawi 2023 SR+MA, 22 studies, 13,265 implants; Sabri 2025 umbrella); the link to peri-implantitis incidence (OR 2.78) and marginal bone loss (MD −0.27 mm, Zhang 2025) is directionally consistent but TSA-underpowered or heterogeneous (I²=80–97%).
 
 The 20-year Roccuzzo 2025 prospective cohort (n=64, posterior mandible) resolves the clinical debate: KM absent → peri-implantitis 25% vs KT group 4.2% (OR 6.67), 100% soft-tissue dehiscence, and 10× more CIST C/D interventions in the final decade; FGG applied during supportive care (years 1–10) produced outcomes statistically indistinguishable from native KT at 20 years.
 
