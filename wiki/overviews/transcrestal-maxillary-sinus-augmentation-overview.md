@@ -62,6 +62,7 @@ source: synthesis
 > - **침습성**: 동력 기구(압력·이동 제어)가 수동 망치식 osteotome보다 이환율 감소 (Farina 2023 SR); 술후 VAS 통증 <12/100. [확인]
 > - **골이식 필요성**: 무이식(graftless) 기법도 안전; 잔존골높이(Residual Bone Height, RBH)에 따라 골이식 여부 결정 (Sansupakorn 2024, Guo 2020). [확인]
 > - **근거 수준**: 모든 결과에서 GRADE 매우 낮음~낮음; 장기 추적 RCT 필요 (Kadkhodazadeh 2024, Starch-Jensen 2025). [확인]
+> - **⚠️ 철회 구성논문**: [[sinus-lift/transcrestal/changrani-2024-haenaem-zero-bone-loss-indirect-sinus-lift|Changrani 2024]] (HaeNaem CW-OD kit, n=12) — **RETRACTED/철회됨; 인용 금지.** 이 overview의 핵심 주장(생존율·천공률·ISQ)은 모두 유효한 별개 논문 기반이며, 해당 수치는 변경 없음.
 
 ## Three-line Summary
 
@@ -260,7 +261,7 @@ OD는 식립 시 및 지대주 연결 시 임플란트 안정성 지수(Implant 
 - [[sinus-lift/transcrestal/zhao-2018-transalveolar-osteotome-sinus-floor-rct-protocol]] — RCT 프로토콜
 - [[sinus-lift/transcrestal/mccrea-2012-trans-socket-sinus-floor-elevation]] — 발치와 즉시
 - [[sinus-lift/transcrestal/song-2020-tenting-effect-implant-sinus-graftless]] — Tenting 효과
-- [[sinus-lift/transcrestal/changrani-2024-haenaem-zero-bone-loss-indirect-sinus-lift]] — Zero bone loss
+- [[sinus-lift/transcrestal/changrani-2024-haenaem-zero-bone-loss-indirect-sinus-lift]] — **[RETRACTED/철회됨 — 인용 금지]** HaeNaem CW-OD kit (n=12, 무이식 간접 거상); 유효한 임상근거 부재
 - [[sinus-lift/transcrestal/mudalal-2019-endoscopic-sinus-lifting-immediate-implant]] — 내시경 즉시
 - [[sinus-lift/transcrestal/farina-2018-morbidity-transcrestal-lateral-sinus-floor-elevation]] — 이환율 비교
 - [[sinus-lift/transcrestal/volpe-2022-osteotome-blood-clot-collagen-sponge-atrophied-maxilla]] — 혈전 콜라겐
