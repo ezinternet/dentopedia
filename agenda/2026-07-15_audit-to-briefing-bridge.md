@@ -2,11 +2,26 @@
 title: "Daily-audit 신호 → 모닝브리핑 배지 브릿지"
 type: agenda
 date: 2026-07-15
-status: draft
-source_wiki: []          # 인프라 작업(코드 파이프라인)이라 근거 wiki 페이지 없음 — 의도적 공란
-agenda: null
+status: archived
+source_wiki: []
+agenda: agenda/2026-09-03_audit-gap-closure.md   # 이 설계를 흡수한 후속 명세 (T1)
 output_wiki: []
 ---
+
+> [!note] 2026-09-03 — archived, 흡수됨
+> 이 설계는 [[agenda/2026-09-03_audit-gap-closure]] **T1**으로 이관되어 구현 완료됐다.
+> 산출물은 `scripts/audit-badge.py` (배지 JSON emitter) + `scripts/daily-audit.py` 후처리 훅.
+>
+> **설계에서 바뀐 두 가지** — 아래 원문과 다르므로 구현을 볼 땐 T1을 기준으로 삼을 것:
+> 1. **표면화 신호 3종 → 5종.** 원 설계(2026-07-15) 이후 `overview-volatility-audit`·`retraction-audit`이
+>    신설돼, OVI 적색과 **철회논문 포함 overview**가 추가됐다. 후자는 2026-09-03 실측 4건으로
+>    현재 배지에 뜨는 두 신호 중 하나다 — 원 설계 3종만 봤다면 오늘 배지는 빈 채였다.
+> 2. **decay 후보는 넣지 않았다.** 원 설계의 "후보 확장" 목록에 있었으나 2026-09-03 실측 308건으로
+>    억제 없이 넣으면 첫날부터 배지를 삼킨다. 같은 명세 **T6**(decay 억제) 완료 후 재검토.
+>
+> `source_wiki:`의 인라인 주석을 제거했다 — 그 주석이 `operations-lint`의 ORPHAN 검사를 거짓
+> 통과시키고 있었고(T7), 이 파일이 리포에서 **유일한 해당 파일**이었다. 대신 `agenda:` 백링크로
+> 정당하게 cross-link를 채웠다.
 
 # Goal
 
