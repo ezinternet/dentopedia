@@ -1,0 +1,15 @@
+#!/bin/sh
+# pii-guard — 환자 식별정보가 커밋되는 것을 막는다.
+#
+# 감사는 사후이고 PII는 커밋되면 이미 늦다. git 히스토리에 한 번 들어가면
+# 파일을 고쳐도 남고, 공개 리포라 그 시점에 되돌릴 수 없는 실패가 된다.
+# 그래서 이 검사만은 감사 이전에 한 겹 더 둔다.
+#
+# 해제(권장하지 않음): git commit --no-verify
+# 훅 전체 비활성화:   git config --unset core.hooksPath
+python3 "$(git rev-parse --show-toplevel)/scripts/pii-guard.py" --staged || {
+    echo ""
+    echo "❌ 커밋 중단 — 환자 식별정보로 보이는 값이 스테이지에 있습니다."
+    echo "   의도적인 값이면 scripts/pii-allowlist.txt 에 사유와 함께 등재하세요."
+    exit 1
+}
