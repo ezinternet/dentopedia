@@ -97,10 +97,10 @@ Collections: `wiki/`, `sources/`, `agenda/`, `note-meeting/` (markdown only; `pa
 ## Daily Audit → see `AUDITS.md`
 
 ```bash
-python3 scripts/daily-audit.py     # 25 audits → logs/
+python3 scripts/daily-audit.py     # 26 audits → logs/
 ```
 
-4 hard guard + 1 rationale은 error(block), 나머지 20은 **signal — 절대 block하지 않는다.** 감사는 거울이다: ingest 압력은 gate가 아니라 가시성으로 self-correct한다 (gate는 임상 워크플로에서 번아웃·회피를 유발). 개별 감사 설명·compounding 지표는 `AUDITS.md`.
+4 hard guard + 1 rationale은 error(block), 나머지 21은 **signal — 절대 block하지 않는다.** 감사는 거울이다: ingest 압력은 gate가 아니라 가시성으로 self-correct한다 (gate는 임상 워크플로에서 번아웃·회피를 유발). 개별 감사 설명·compounding 지표는 `AUDITS.md`.
 
 ## Model Routing (3축 원칙 — 표에 없는 작업도 이 원칙으로 판단)
 
