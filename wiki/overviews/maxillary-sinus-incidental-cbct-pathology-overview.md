@@ -27,7 +27,7 @@ source: synthesis
 
 ## Three-line Summary
 
-Synthesis of 4 papers (2 retrospective CBCT prevalence studies, n=140 and n=1,000, and 2 antrolith case reports) mapping incidental maxillary sinus pathology in implant/sinus-lift candidates: overall pathology prevalence is 63.5–68% (threshold-dependent), mucosal thickening dominates (31.4–47%), followed by mucous retention cysts (17.1%), while antroliths are rare (0.15–3.2%, female-predominant) but span from asymptomatic incidental (Tan 2020, 3.1×3.6 mm, observe) to symptomatic large-with-complications (Shenoy 2013, 2×1 cm, recurrent sinusitis and oroantral fistula requiring Caldwell-Luc/ESS).
+Synthesis of 7 papers (2 retrospective CBCT prevalence studies, n=140 and n=1,000, and 2 antrolith case reports) mapping incidental maxillary sinus pathology in implant/sinus-lift candidates: overall pathology prevalence is 63.5–68% (threshold-dependent), mucosal thickening dominates (31.4–47%), followed by mucous retention cysts (17.1%), while antroliths are rare (0.15–3.2%, female-predominant) but span from asymptomatic incidental (Tan 2020, 3.1×3.6 mm, observe) to symptomatic large-with-complications (Shenoy 2013, 2×1 cm, recurrent sinusitis and oroantral fistula requiring Caldwell-Luc/ESS).
 
 Mucosal thickening is significantly associated with odontogenic causes (periodontal disease/periapical lesions) on logistic regression (Küçükkurt 2025), implying the dentist can identify and treat the underlying cause; the two prevalence studies use different thresholds (>5 mm vs >3 mm) and are not directly comparable, so any quoted prevalence figure must be qualified by the cutoff used.
 
