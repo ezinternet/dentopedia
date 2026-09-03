@@ -43,7 +43,7 @@ For adult HNC RIOM, L-arginine is non-inferior to L-glutamine (7-week WHO 0/I: 8
 
 ## 세줄요약
 
-항암치료 유발 구강점막염(Oral Mucositis, OM) 3편 종합(소아 SR+MA 1편 + 소아 SR 1편 + 성인 두경부암 방사선 RCT 1편 n=69): 소아 항암 OM 발생률 최대 91.5%; 메타분석으로 지지되는 유일 약제는 국소 꿀(중증 소아 OM 입원 −4.33일, p=0.002; Andriakopoulou 2024), LLLT는 소아 풀링서 무효(RR=0.99); 칼슘인산염은 3편 모두 무효.
+항암치료 유발 구강점막염(Oral Mucositis, OM) 6편 종합(소아 SR+MA·SR 각 1편, 성인 두경부암 RCT 1편, 구강세정제 NMA·RCT 3편): 소아 항암 OM 발생률 최대 91.5%; 메타분석으로 지지되는 유일 약제는 국소 꿀(중증 소아 OM 입원 −4.33일, p=0.002; Andriakopoulou 2024), LLLT는 소아 풀링서 무효(RR=0.99); 칼슘인산염은 3편 모두 무효.
 
 약제는 목표 결과지표별 선택: 발생률→클로르헥시딘, 기간→꿀, 통증→올리브유(Braguès 2024); 팔리퍼민(Palifermin, KGF)은 효과 있으나 안전성 상충 → 무비판적 적용 금지.
 
