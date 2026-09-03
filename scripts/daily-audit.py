@@ -2,7 +2,7 @@
 """
 LLM Wiki — Daily Audit Runner
 
-One entry-point that runs all 24 audits and writes their logs to logs/.
+One entry-point that runs all 25 audits and writes their logs to logs/.
 
 The list below is in AUDITS order — keep them in sync. (2026-07-17: the docstring said
 "14 audits" and omitted five entirely — doi-duplicate-check, overview-coverage-lint,
@@ -125,6 +125,17 @@ One retrieval-layer signal (non-blocking):
                                writes in WAL mode, so the main file's mtime lags and
                                a naive check warns on a freshly reindexed repo.
 
+One self-description signal (non-blocking):
+  - self-claim-lint.py       → the "Synthesis of N papers" line an overview writes
+                               about ITSELF, checked against source_papers and the
+                               body wikilinks that resolve to sources/. Ingest pushes
+                               wikilinks in and nobody edits the sentence, so the
+                               number drifts under the reader's eye while every other
+                               audit stays green. Claims are read only from the
+                               English Three-line Summary with parentheticals
+                               stripped, and a page is flagged only when its claim
+                               fits NEITHER baseline.
+
 One SOP-revision trigger (non-blocking):
   - deviation-audit.py       → reads logs/ingest-deviations.md and counts per type;
                                any type at ≥3 occurrences is flagged as an SOP revision
@@ -182,6 +193,8 @@ AUDITS = [
     # 아무도 안 봤다 (2026-07-17 재색인 누락으로 철회 경고 없는 옛 청크가
     # 10시간 검색된 사고). qmd 없거나 데몬이 죽었으면 조용히 SKIP.
     ("retrieval-health.py",              [],   False),
+    # 독자가 페이지에서 가장 먼저 읽는 문장의 숫자를, 다른 어느 감사도 안 본다.
+    ("self-claim-lint.py",                [],   False),
 ]
 
 
@@ -228,7 +241,7 @@ def main() -> int:
     print("─" * 66)
     for script, code, passed in summary:
         status = "PASS" if passed else "FAIL"
-        if script in {"synthesis-backlog.py", "category-overflow.py", "overview-thesis-staleness.py", "overview-coverage-lint.py", "output-coverage-lint.py", "recall-coverage-lint.py", "doi-duplicate-check.py", "supersession-audit.py", "relations-audit.py", "link-integrity.py", "overview-catalogue-lint.py", "interactive-staleness.py", "find-contradiction-candidates.py", "content-lint.py", "retraction-audit.py", "retrieval-health.py"}:
+        if script in {"synthesis-backlog.py", "category-overflow.py", "overview-thesis-staleness.py", "overview-coverage-lint.py", "output-coverage-lint.py", "recall-coverage-lint.py", "doi-duplicate-check.py", "supersession-audit.py", "relations-audit.py", "link-integrity.py", "overview-catalogue-lint.py", "interactive-staleness.py", "find-contradiction-candidates.py", "content-lint.py", "retraction-audit.py", "retrieval-health.py", "self-claim-lint.py"}:
             status = "SIGNAL"
         print(f"  {script:<32} {code:>5}  {status:>8}")
     print("─" * 66)
