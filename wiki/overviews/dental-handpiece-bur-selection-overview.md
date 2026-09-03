@@ -31,7 +31,7 @@ tags: [dental-handpiece, air-turbine, high-speed, low-speed, dental-bur, diamond
 
 ## Three-line Summary
 
-Synthesis of 5 papers framing dental rotary-cutting-instrument selection across three axes: on the aerosol/exposure axis, air-turbine handpieces generate the highest sub-micron (<1 µm) aerosol and should be substituted by electric high-speed in epidemic conditions; high-volume evacuation (HVE) cuts aerosol ~4× vs saliva ejector and up to 88% with wide custom tips (Matys 2020 in-vitro; Lahdentausta 2022 prospective n=253); 85% of clinicians reuse burs until worn while only 33% recognize efficiency decline (Sharma 2014 survey).
+Synthesis of 8 papers framing dental rotary-cutting-instrument selection across three axes: on the aerosol/exposure axis, air-turbine handpieces generate the highest sub-micron (<1 µm) aerosol and should be substituted by electric high-speed in epidemic conditions; high-volume evacuation (HVE) cuts aerosol ~4× vs saliva ejector and up to 88% with wide custom tips (Matys 2020 in-vitro; Lahdentausta 2022 prospective n=253); 85% of clinicians reuse burs until worn while only 33% recognize efficiency decline (Sharma 2014 survey).
 
 On the laser-vs-bur axis, Er,Cr:YSGG cavity preparation is equivalent to bur for microleakage (Zhang 2020 SR+MA, no significant difference); erbium-laser caries removal matches bur on restoration survival (RR 1.51 NS) and pulp vitality (RR 1.46 NS) but significantly reduces anesthesia need (RR 0.29) and pain (RR 0.35) at the cost of longer procedure time (MD +2.23 min) across 20 in-vivo RCTs (Esteves-Oliveira 2025 SR+MA; GRADE low/very-low); acid-etching after laser prep improves self-etch adhesive sealing (RR=2.69) but not etch-and-rinse.
 
