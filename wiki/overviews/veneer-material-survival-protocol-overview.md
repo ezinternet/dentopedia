@@ -39,7 +39,7 @@ tags: [veneer, laminate-veneer, feldspathic, lithium-disilicate, zirconia, survi
 
 ## Three-line Summary
 
-Synthesis of 10 papers (5 SR+MA, 1 SR, 2 in-vitro, 1 narrative review, 1 SEM pilot): all ceramic veneer materials achieve statistically similar long-term survival (93–97%; feldspathic 96.13%, LDS 96.81%, LRGC 93.70%, zirconia 100% at 2.6 yr — Klein 2025, 29 studies, 7,753 veneers), but LDS is preferred for its dramatically lower complication burden (10-yr technical complications 6.1% vs feldspathic 41.48%).
+Synthesis of 20 papers (5 SR+MA, 1 SR, 2 in-vitro, 1 narrative review, 1 SEM pilot): all ceramic veneer materials achieve statistically similar long-term survival (93–97%; feldspathic 96.13%, LDS 96.81%, LRGC 93.70%, zirconia 100% at 2.6 yr — Klein 2025, 29 studies, 7,753 veneers), but LDS is preferred for its dramatically lower complication burden (10-yr technical complications 6.1% vs feldspathic 41.48%).
 
 Dentin margin exposure is the single strongest failure predictor (≈10× vs enamel-confined margins; El-Mowafy 2018), and incisal coverage design does not significantly affect survival (OR 1.25 NS; Albanesi 2016); minimal prep (0.2–0.5 mm) equals or exceeds conventional prep (0.3–1.0 mm) in survival (Ali 2023).
 
