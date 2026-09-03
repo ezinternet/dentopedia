@@ -214,6 +214,20 @@ def main() -> int:
         print(f"  {script:<32} {code:>5}  {status:>8}")
     print("─" * 66)
 
+    # ── Badge (post-processing, NOT an audit) ────────────────────────────────
+    # Collects no new signal — rolls the day's logs into one line so the top
+    # signals reach the morning briefing without anyone opening logs/. Kept out
+    # of AUDITS on purpose: it must not shift the audit count (the number that
+    # has now drifted in this docstring twice), and it must never fail the run.
+    print()
+    print("▸ audit-badge.py  (배지 — 감사 아님)")
+    code, out = run_audit("audit-badge.py", [])
+    for line in out.splitlines():
+        print(f"    {line}")
+    if code != 0:
+        print(f"    ⚠ 배지 생성 실패 (exit {code}) — 감사 결과에는 영향 없음")
+    print()
+
     if failures:
         print(f"❌  {failures} blocking audit(s) failed")
         return 1
