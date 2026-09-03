@@ -33,7 +33,7 @@ source: synthesis
 
 ## Three-line Summary
 
-Synthesis of 15 papers (core 9 in-vitro/cross-sectional + 6 added: prep-principles, ceramic marginal-fit SR, digital-prep) organized across 6 axes: recommended vs clinical TOC (textbook 6° is unreachable; Tiu 2015 SR recommends 10–22°; clinical practice reaches 25–32° in Dubai GPs with MD 24.6°/BL 32.6°; students preclinical ~12° — a 1.5–2× gap), tooth-specific TOC sensitivity (canines and molars: 8° increase cuts retention ~40%; premolars: not significant), and auxiliary-feature trade-offs (grooves/holes raise retention 35–50% but worsen marginal float 2–3×, Yang 2015).
+Synthesis of 22 papers (core 9 in-vitro/cross-sectional + 6 added: prep-principles, ceramic marginal-fit SR, digital-prep) organized across 6 axes: recommended vs clinical TOC (textbook 6° is unreachable; Tiu 2015 SR recommends 10–22°; clinical practice reaches 25–32° in Dubai GPs with MD 24.6°/BL 32.6°; students preclinical ~12° — a 1.5–2× gap), tooth-specific TOC sensitivity (canines and molars: 8° increase cuts retention ~40%; premolars: not significant), and auxiliary-feature trade-offs (grooves/holes raise retention 35–50% but worsen marginal float 2–3×, Yang 2015).
 
 In the digital era, the same geometry choices that optimize retention (simple form, larger TOC, chamfer, supragingival finish line) also improve IOS scan accuracy (Revilla-León 2025 SR, 39 papers); finish-line quality is both the most common prep error (Sadid-Zadeh 2020: 136/223 student preparations) and the variable that most degrades digital scan accuracy; 3D-printed provisional crowns outperform milled on retention 2–3× at all taper/finish-line combinations (Alqarawi 2024 in-vitro).
 
