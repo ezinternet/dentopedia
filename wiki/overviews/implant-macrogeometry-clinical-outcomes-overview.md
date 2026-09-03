@@ -31,7 +31,7 @@ tags: [macrogeometry, tapered, cylindrical, neck-design, primary-stability, ISQ,
 
 ## Three-line Summary
 
-Synthesis of six papers (2 RCTs, 1 landmark review, 1 narrative review, 2 FEAs) on implant macrogeometry: surgical technique (drilling under-preparation protocol) outweighs implant shape as the dominant determinant of primary stability — tapered implants achieve higher insertion torque but cylindrical implants show higher ISQ/IST at 6 weeks (Mourão 2025 RCT appraisal), and a split-mouth RCT confirms that healing-chamber macrogeometry can seat at lower insertion torque yet reach equivalent ISQ with lower early TNF-α (Bhattacharya 2025).
+Synthesis of 10 papers on implant macrogeometry: surgical technique (drilling under-preparation protocol) outweighs implant shape as the dominant determinant of primary stability — tapered implants achieve higher insertion torque but cylindrical implants show higher ISQ/IST at 6 weeks (Mourão 2025 RCT appraisal), and a split-mouth RCT confirms that healing-chamber macrogeometry can seat at lower insertion torque yet reach equivalent ISQ with lower early TNF-α (Bhattacharya 2025).
 
 Neither triangular nor round neck cross-section demonstrates superiority at 12 months for MBL, probing depth, buccal bone width, or soft-tissue thickness (Chrcanovic 2025 RCT, n=36, immediate anterior maxilla), leaving neck design evidence-neutral; tapered forms generate higher crestal cortical von Mises stress than cylindrical across all bone types (Hussein 2019 FEA), but thread depth optimization in D3/D4 bone cuts crestal stress ~40% and displacement ≥9% (Chang 2024 FEA).
 
