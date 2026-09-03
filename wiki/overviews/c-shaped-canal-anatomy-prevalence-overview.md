@@ -41,7 +41,7 @@ source_wiki:
 
 ## Three-line Summary
 
-Synthesis of 12 papers (1 SR+MA of 101 CBCT studies, 7 population CBCT cross-sections, 1 narrative review, 1 morphology study, 2 case series): C-shaped canal prevalence is governed by three orthogonal gradients — tooth-type (mandibular 2nd molar 17.3% highest → maxillary 1st molar 0.8% lowest; Yousefi 2025 SR+MA), Asian-predominant geography (Korean 31–46%, Chinese ≤41% vs Israeli 4.6%, Iranian 2%), and consistent female predominance in mandibular 2nd molars (23.6% vs 16.7% male), reproduced on two continents (Iraq, Mexico).
+Synthesis of 15 papers (1 SR+MA of 101 CBCT studies, 7 population CBCT cross-sections, 1 narrative review, 1 morphology study, 2 case series): C-shaped canal prevalence is governed by three orthogonal gradients — tooth-type (mandibular 2nd molar 17.3% highest → maxillary 1st molar 0.8% lowest; Yousefi 2025 SR+MA), Asian-predominant geography (Korean 31–46%, Chinese ≤41% vs Israeli 4.6%, Iranian 2%), and consistent female predominance in mandibular 2nd molars (23.6% vs 16.7% male), reproduced on two continents (Iraq, Mexico).
 
 Fan C2 (semicolon) is the dominant molar configuration; the classic Actinomyces/low-cariogenic narrative holds in primary dentition but NGS challenges it in adults; for premolars, the 1st premolar (~10%) outnumbers the 2nd (~1%); the thin radicular-groove wall (minimum 0.26 mm) creates strip-perforation risk, and Shemesh 2017 showed 63% of C-shaped canals change configuration along the root length — orifice classification alone is insufficient.
 
