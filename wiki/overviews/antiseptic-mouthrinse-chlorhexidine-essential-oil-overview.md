@@ -36,7 +36,7 @@ relations:
 
 ## Three-line Summary
 
-Synthesis of 7 papers (1 NMA of 53 RCTs, 1 Cochrane SR+MA of 51 RCTs, 1 post-surgical SR, 4 RCTs) on antiseptic mouthrinses: mouthrinses are adjuncts to mechanical hygiene and reduce plaque/gingivitis but never improve pocket depth or clinical attachment level.
+Synthesis of 11 papers (1 NMA of 53 RCTs, 1 Cochrane SR+MA of 51 RCTs, 1 post-surgical SR, 4 RCTs) on antiseptic mouthrinses: mouthrinses are adjuncts to mechanical hygiene and reduce plaque/gingivitis but never improve pocket depth or clinical attachment level.
 
 Efficacy ranking for gingivitis: essential oils (EO) ≥ chlorhexidine (CHX) ≥0.10% ≈ triclosan-copolymer (Figuero 2019 NMA); CHX is the strongest plaque suppressor (Cochrane SMD −1.45; James 2017) but carries a defining liability of tooth staining (SMD +1.07), while EO is microbiome-neutral at 12 weeks and possibly resets dysbiotic plaque (Min 2024, industry-funded).
 
