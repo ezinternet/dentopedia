@@ -15,20 +15,20 @@ tags: [navigation, category-index, digital-workflow]
 > [!summary] 한국어 핵심요약
 > - **분야**: 디지털워크플로우
 > - **범위**: IOS accuracy, CBCT, CAD/CAM, guided surgery
-> - **수록 논문**: 46편
+> - **수록 논문**: 48편
 
 ## Three-line Summary
 
 **Scope**: IOS accuracy, CBCT, CAD/CAM, guided surgery
-**Indexed papers**: 46 papers in `wiki/digital-workflow/`.
+**Indexed papers**: 48 papers in `wiki/digital-workflow/`.
 
 ## 세줄요약
 
 **분야**: 디지털워크플로우
-**수록 논문**: 46편
+**수록 논문**: 48편
 **하위 카테고리**: 없음
 
-## Papers in this Category (46)
+## Papers in this Category (48)
 
 | Paper |
 |---|
@@ -58,8 +58,10 @@ tags: [navigation, category-index, digital-workflow]
 | [[monaco-2016-fully-digital-peri-implant-emergence|A fully digital approach to replicate peri-implant soft tissue contours and emergence profile in the esthetic zone]] |
 | [[najeeb-2025-ai-restorative-dentistry-review|Artificial intelligence (AI) in restorative dentistry: current trends and future prospects]] |
 | [[nava-2026-guided-surgery-immediate-implant-accuracy-nma|Accuracy of Static, Dynamic, and Robotic Guided Surgery in Immediate Implant Placement: A Systematic Review and Network Meta-Analysis]] |
+| [[oguz-2026-trueness-precision-intraoral-scanners-3d-printed|Trueness and Precision of Intraoral Scanners for 3D-Printed Orthodontic Models with Attachments: An In Vitro Comparative Study]] |
 | [[oh-2023-deep-learning-osseointegration-prediction-radiographs|Deep learning-based prediction of osseointegration of dental implants using plain radiography]] |
 | [[park-2023-deep-learning-implant-size-classification|Deep learning and clustering approaches for dental implant size classification based on periapical radiographs]] |
+| [[ramos-morro-2026-patient-perception-reliability-reproducibility-chairside|Evaluation of the patient's perception, reliability and reproducibility, and chairside time with intraoral scanners in adult population—a systematic review]] |
 | [[revilla-leon-2021-artificial-intelligence-implant-dentistry-sr|Artificial intelligence applications in implant dentistry: A systematic review]] |
 | [[revilla-leon-2025-tooth-preparation-factors-ios-accuracy-sr|Tooth preparation-related factors that impact the accuracy of intraoral scanners for fabricating tooth-supported restorations: A systematic review]] |
 | [[sadid-zadeh-2020-teeth-prepared-students-cadcam|Assessment of Teeth Prepared by Senior Dental Students for CAD/CAM Restorations]] |
