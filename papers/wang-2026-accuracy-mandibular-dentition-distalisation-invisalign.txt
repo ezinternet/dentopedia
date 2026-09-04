@@ -1,0 +1,36 @@
+TITLE: Accuracy of Mandibular Dentition Distalisation With Invisalign in Class III Malocclusion: A Pilot Study Using CBCT Superimposition
+PMCID: PMC13485232
+PMID: 41999141
+DOI: 10.1111/ocr.70125
+JOURNAL: Orthodontics & Craniofacial Research (Orthod Craniofac Res), 2026
+FULL_TEXT_STATUS: PMC returned an EMPTY body for this record. The text below is the
+  verified PubMed structured abstract ONLY. Treat as abstract-only (full_text: false).
+  Do not invent Methods/Results detail beyond what appears here.
+
+OBJECTIVE
+By integrating digital models with cone beam computed tomography (CBCT) images and
+registration on stable hard tissue regions for superimposition, we aimed to enable a more
+precise and detailed analysis of Invisalign treatment on Class III malocclusion.
+
+MATERIALS AND METHODS
+Digital models of 12 Class III adults at pretreatment (T1) and posttreatment (T2) were
+integrated with maxillofacial CBCT images. The T1 and T2 CBCT images were superimposed
+using voxel-based registration of stable cranial base structures to assess the
+three-dimensional movement of the maxillary teeth and positional changes of the mandible.
+Mandibular tooth movement was evaluated by superimposition of the mandibular CBCT images,
+registered on the symphysis and mandibular body. The virtual planning model created by
+ClinCheck was superimposed based on its position relative to the T1 digital model.
+
+RESULTS
+The median accuracy of distal movement for the mandibular first molar cusps ranged from
+26.72% to 33.87%. With miniscrew anchorage, the accuracy ranged from 39.28% to 44.66%.
+Actual distal movement averaged 0.62 +/- 0.82 mm to 0.80 +/- 0.89 mm with Class III
+elastics, and 2.02 +/- 1.71 mm to 2.29 +/- 1.53 mm with miniscrews. The maxillary incisors
+significantly proclined more with Class III elastic traction. No significant positional
+changes in mandibular anatomical landmarks were observed during treatment with miniscrew
+anchorage, whereas the use of Class III elastics led to significant positional changes in
+the condyle head.
+
+CONCLUSION
+Invisalign treatment may not reach the expected efficacy in mandibular dentition
+distalisation, especially when skeletal anchorage is absent.
