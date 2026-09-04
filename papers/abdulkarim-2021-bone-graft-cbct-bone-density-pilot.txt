@@ -1,0 +1,18 @@
+PMID: 34615780
+Title: Effect of Bone Graft on the Correlation between Clinical Bone Quality and CBCT-determined Bone Density: A Pilot Study
+Authors: Abdulkarim HH, Zeng R, Pazdernik VK, Davis JM
+Journal: The Journal of Contemporary Dental Practice, 2021; 22(7):756-762
+DOI: unknown
+
+Abstract:
+The aim of this pilot study is to explore the possible correlation between radiographic bone density and clinical bone quality in edentulous implant sites with and without a history of bone grafting.
+
+A retrospective evaluation of 273 surgically placed dental implants with adequate preoperative cone-beam computed tomography (CBCT) between 2017 and 2019. Misch classification was used to assess the bone quality, and CBCT grayscale values, utilizing Hounsfield units (HU), were used for radiographic bone density assessment.
+
+Sixty-six patients (mean age, 58 years; 43 [65%] female and 23 [35%] male) with 118 implant sites were included. A total of 38 sites with bone grafts were evaluated. Controlling for location, sites with previous bone graft had softer bone quality (= 0.003) and greater bone density (<0.001) compared to sites without previous bone grafts. A significant correlation existed between radiographic bone density and clinical bone quality (<=0.01). The magnitude of the relationship increased in the absence of bone graft (<0.001) and became nonsignificant in sites with previous grafting. In sites with allograft, the relationship was not statistically different than those without bone graft (both>=0.07), while it was statistically different in sites with xenograft when sites assumed independent (= 0.02).
+
+CBCT-determined radiographic bone density was correlated to clinical bone quality in the absence of previous bone grafting, while in the presence of previous bone graft, the radiographic bone density of the edentulous sites seemed to be not associated with the clinical bone density, especially in sites with history of xenograft bone grafting.
+
+CBCT could be utilized to predict preoperative clinical bone quality in sites without previous bone grafting. When assessing sites with history of bone grafting, the CBCT should be interpreted with caution, especially if xenografts were used.
+
+Keywords: Allograft, Bone density, Bone quality, CBCT, Hounsfield unit, Xenograft
