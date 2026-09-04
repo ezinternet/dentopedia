@@ -1303,6 +1303,7 @@ tags: []
 - [[digital-workflow/lee-2019-full-mouth-rehabilitation-reduced]] — 78세 여성 다수 치아상실·마모로 수직고경 감소 증례: OVD 2.5 mm 거상 + CBCT 가이드 임플란트 10개 + double-scan CAD/CAM 지르코니아 전악 수복 (교합 조정 불필요)
 - [[digital-workflow/christopoulou-2022-intraoral-scanners-orthodontics-critical-review]] — Christopoulou 2022 · narrative-review · 교정과 구강스캐너 critical review(7개 DB, inception~2020.10, in vitro·팬텀 연구 제외): 정확도·소요시간 결과가 연구 간 **상충**(일부 IOS=알지네이트, 일부 재래식이 더 정밀), 환자 선호는 일관되게 높음(2편에서 100%), 술자 학습곡선이 반복 확인된 미규명 교란변수. singh-2025·vitai-2023과는 **질문·근거기반이 달라 supersession 아님**(2026-09-04 판정) (DOI 10.3390/ijerph19031407)
 - [[digital-workflow/oguz-2026-trueness-precision-intraoral-scanners-3d-printed]] — 3D 프린팅 교정모형(클리어 얼라이너 부착물 포함) 30개 대상 5종 구강스캐너 진정도·정밀도 비교, Primescan·TRIOS 3 최상위 동등(p<0.001), Rapideye MI-1000 최하위, ~50µm 오차 허용 기준 제안
+- [[digital-workflow/ramos-morro-2026-patient-perception-reliability-reproducibility-chairside]] — 성인 대상 IOS vs 재래식 인상 체계적문헌고찰(10편, PRISMA+QUADAS-2), 메타분석 불가; 정확도는 혼재, 의자옆시간·환자편의는 2편씩만 측정했으나 둘 다 IOS 유의하게 우수(예: 12분 vs 75.5분, VAS 9.02 vs 6.5)
 - [[digital-workflow/schlenz-2022-transfer-accuracy-digital-conventional-full-arch]] — Schlenz 2022 · in-vitro · 기준체 기반 전악 인상 전이정확도, 구강스캐너 5종(Primescan·Trios 4·Emerald S·CS3600·Medit i500) vs 알지네이트 × 고정성 교정장치 5세팅(자연치/금속·세라믹 브라켓 ±와이어): 브라켓 있는 전 세팅에서 IOS 우위(39~105µm vs CAI 103~212µm)·Primescan 최속(평균 103초), **단 자연치에서는 알지네이트가 최상(21±20µm)** — 교정장치 유무가 우열을 뒤집는다 (DOI 10.1007/s00784-022-04721-5)
 
 ## 교정치료 (Orthodontics)
