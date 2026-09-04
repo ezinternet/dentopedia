@@ -2,7 +2,7 @@
 title: "디지털워크플로우 — digital-workflow"
 authors: navigation
 year: 2026
-date: 2026-09-01
+date: 2026-09-04
 doi: N/A
 source: navigation
 category: digital-workflow
@@ -15,20 +15,20 @@ tags: [navigation, category-index, digital-workflow]
 > [!summary] 한국어 핵심요약
 > - **분야**: 디지털워크플로우
 > - **범위**: IOS accuracy, CBCT, CAD/CAM, guided surgery
-> - **수록 논문**: 44편
+> - **수록 논문**: 46편
 
 ## Three-line Summary
 
 **Scope**: IOS accuracy, CBCT, CAD/CAM, guided surgery
-**Indexed papers**: 44 papers in `wiki/digital-workflow/`.
+**Indexed papers**: 46 papers in `wiki/digital-workflow/`.
 
 ## 세줄요약
 
 **분야**: 디지털워크플로우
-**수록 논문**: 44편
+**수록 논문**: 46편
 **하위 카테고리**: 없음
 
-## Papers in this Category (44)
+## Papers in this Category (46)
 
 | Paper |
 |---|
@@ -39,6 +39,7 @@ tags: [navigation, category-index, digital-workflow]
 | [[buhl-2025-intraoral-scanner-full-arch-accuracy-invitro|Accuracy of current IOS for full-arch impressions: in vitro study]] |
 | [[chen-2025-robot-assisted-dynamic-navigation-accuracy|Accuracy of a Semi-Autonomous Robot vs Dynamic Navigation for Implant Placement: A Retrospective Study]] |
 | [[chi-2026-deep-learning-periapical-radiograph-quality|Deep learning-based assessment of periapical radiographic image quality]] |
+| [[christopoulou-2022-intraoral-scanners-orthodontics-critical-review|Intraoral Scanners in Orthodontics: A Critical Review]] |
 | [[ciocan-2024-intraoral-scanners-comparison-four-in-vitro|Comparative Analysis of Four Different Intraoral Scanners: An In Vitro Study]] |
 | [[faiyazuddin-2025-ai-healthcare-comprehensive-review|The Impact of Artificial Intelligence on Healthcare: A Comprehensive Review of Advancements in Diagnostics, Treatment, and Operational Efficiency]] |
 | [[fouda-2025-accuracy-digital-workflow-implant-fullarch|Evaluation of the Accuracy of Digital Workflow for Implant-Supported Full-Arch Fixed Dental Prostheses Using a Novel Micro-CT Measurement Technique]] |
@@ -65,6 +66,7 @@ tags: [navigation, category-index, digital-workflow]
 | [[saeed-2023-robotic-artificial-intelligence-implant-dentistry|Future of Using Robotic and Artificial Intelligence in Implant Dentistry]] |
 | [[sakai-2023-ai-drilling-protocol-cbct-implants|Development of artificial intelligence model for supporting implant drilling protocol decision making]] |
 | [[schiavon-2025-computer-assisted-immediate-implant-accuracy-nma|Does Computer-Assisted Surgery Improve the Accuracy of Immediate Implant Placement? A Systematic Review and Network Meta-Analysis]] |
+| [[schlenz-2022-transfer-accuracy-digital-conventional-full-arch|The transfer accuracy of digital and conventional full-arch impressions influenced by fixed orthodontic appliances: a reference aid–based in vitro study]] |
 | [[shirani-2026-computer-assisted-vs-freehand-implant-placement-sr-ma|Comparison Between Computer-Assisted and Freehand Dental Implant Placement: A Systematic Review and Meta-analysis]] |
 | [[singh-2025-intraoral-scanners-accuracy-umbrella-review|Accuracy and Clinical Performance of Intraoral Scanners Compared to Conventional and Extraoral Impressions: An Umbrella Review]] |
 | [[srinivasan-2025-artificial-intelligence-dental-implants-review|Artificial Intelligence–Driven Advancements in Dental Implants: A Narrative Review]] |
