@@ -1379,6 +1379,7 @@ tags: []
 - [[orthodontics/clear-aligner/saif-2022-efficiency-evaluation-maxillary-molar-distalization]] — Saif 2022 · 초록전용 · 성인 38명(평균 25.4세) 인비절라인 상악 대구치 원심이동, iTero+구개주름 중첩: 예측 대비 실제 이동 유의차(U6·U7 모두 P<0.0001), 대구치 이동량↔전치부 고정원손실 상관(중절치 r=0.390 p<0.008·측절치 r=0.360 p<0.013), 평균 처방 2.6mm; 저자 하이라이트 **어태치먼트는 대구치 원심이동 자체를 향상시키지 못함**(nucera-2022 refines) (DOI 10.1016/j.ajodo.2021.11.012)
 - [[orthodontics/clear-aligner/wang-2026-accuracy-mandibular-dentition-distalisation-invisalign]] — Class III 성인 12명 파일럿 연구, 인비절라인 하악 치열 원심이동 정확도: 고무줄 26.72-33.87% vs 미니스크류 39.28-44.66% (CBCT superimposition)
 - [[orthodontics/clear-aligner/xianggang-2026-predictability-maxillary-transverse-changes-invisalign]] — 성인 Invisalign 상악 횡적 확장 예측성 SR+MA(6편, n=233): 소구치 예측성 최고(80.73%/78.74%), 견치·대구치 최저(72.01%/71.57%), 견치부는 이질성 크고 저확실성
+- [[orthodontics/clear-aligner/algarni-2026-treatment-predictability-two-clear-aligner]] — Invisalign vs Eon Aligner 후향적 비교(n=80): 횡적 폭경 양호~우수(0.06–0.34mm), Eon이 회전(1.9–4.2°)·수평이동에서 우세, 수직이동은 양쪽 다 불량
 ### 근기능교정·탄성교정 (Myofunctional / Elastodontic — EF Line) (`orthodontics/myofunctional`)
 - [[overviews/myofunctional-elastodontic-orthodontics-overview]] — **종합 오버뷰** (12편): 탄성교정장치(EF Line·AMCOP) 적응증·효과·한계 — Class II 시상·횡적확장·반대교합·개방교합·기도·재료 7축; 전통장치 대비 동등~열등·근거 약함(RCT 1편)
 - [[orthodontics/myofunctional/ureni-2024-elastodontic-devices-sagittal-malocclusion-scoping-review]] — Ureni 2024 · sr · Scoping review(16편, n=345): 탄성교정장치가 Class II 시상교정 유의(SNB↑·ANB↓·overjet −2.1~−4.58mm)하나 twin-block보다 약함 (DOI 10.3390/dj12080247)
