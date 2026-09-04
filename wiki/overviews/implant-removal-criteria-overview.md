@@ -15,17 +15,17 @@ tags: [implant-removal, explantation, implant-failure, peri-implantitis, failed-
 relations:
   - type: extends
     target: failed-implant-removal-sinus-retrieval-overview
-  - type: synthesizes
+  - type: extends
     target: cafferata-2025-impaired-treg-mediated-immune-regulation
-  - type: synthesizes
+  - type: extends
     target: hong-2024-peri-implantitis-treatment-protocol-flowchart
-  - type: synthesizes
+  - type: extends
     target: kim-2024-peri-implant-diseases-consensus-korean-academy-periodontology
-  - type: synthesizes
+  - type: extends
     target: solderer-2019-removal-failed-dental-implants-revisited
-  - type: synthesizes
+  - type: extends
     target: shenoy-2025-dental-implant-failure-retrieval-techniques-scoping
-  - type: synthesizes
+  - type: extends
     target: zhou-2026-surgical-protocols-peri-implantitis-cohort
 ---
 
