@@ -1380,6 +1380,7 @@ tags: []
 - [[orthodontics/clear-aligner/wang-2026-accuracy-mandibular-dentition-distalisation-invisalign]] — Class III 성인 12명 파일럿 연구, 인비절라인 하악 치열 원심이동 정확도: 고무줄 26.72-33.87% vs 미니스크류 39.28-44.66% (CBCT superimposition)
 - [[orthodontics/clear-aligner/xianggang-2026-predictability-maxillary-transverse-changes-invisalign]] — 성인 Invisalign 상악 횡적 확장 예측성 SR+MA(6편, n=233): 소구치 예측성 최고(80.73%/78.74%), 견치·대구치 최저(72.01%/71.57%), 견치부는 이질성 크고 저확실성
 - [[orthodontics/clear-aligner/algarni-2026-treatment-predictability-two-clear-aligner]] — Invisalign vs Eon Aligner 후향적 비교(n=80): 횡적 폭경 양호~우수(0.06–0.34mm), Eon이 회전(1.9–4.2°)·수평이동에서 우세, 수직이동은 양쪽 다 불량
+- [[orthodontics/clear-aligner/de-la-rosa-gay-2026-arch-width-measurements-invisalign-tables]] — ClinCheck 치아궁 폭 표 측정법-일치도 검증(성인 35명, 840쌍 측정); 교합면 기준 bias 0.03mm·LoA −0.78~+0.84mm로 가장 신뢰도 높음, 치은 기준 최대 ±1.8mm — 측정도구 검증이지 얼라이너의 확장 달성 증거는 아님
 ### 근기능교정·탄성교정 (Myofunctional / Elastodontic — EF Line) (`orthodontics/myofunctional`)
 - [[overviews/myofunctional-elastodontic-orthodontics-overview]] — **종합 오버뷰** (12편): 탄성교정장치(EF Line·AMCOP) 적응증·효과·한계 — Class II 시상·횡적확장·반대교합·개방교합·기도·재료 7축; 전통장치 대비 동등~열등·근거 약함(RCT 1편)
 - [[orthodontics/myofunctional/ureni-2024-elastodontic-devices-sagittal-malocclusion-scoping-review]] — Ureni 2024 · sr · Scoping review(16편, n=345): 탄성교정장치가 Class II 시상교정 유의(SNB↑·ANB↓·overjet −2.1~−4.58mm)하나 twin-block보다 약함 (DOI 10.3390/dj12080247)
