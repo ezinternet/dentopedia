@@ -1,0 +1,20 @@
+PMID: 33009747
+Title: Association between Bone Density Values, Primary Stability and Histomorphometric Analysis of Dental Implant Osteotomy Sites on the Upper Jaw
+Authors: Ivanova V, Chenchev I, Zlatev S, Atanasov D
+Journal: Folia Medica (Plovdiv), 2020 Sep 30; 62(3):563-571
+DOI: 10.3897/folmed.62.e49424
+Affiliation: Medical University of Plovdiv, Plovdiv, Bulgaria
+
+Abstract:
+Sufficient bone volume, as well as the bone quality characteristics are necessary prerequisites to ensure optimal mechanical stability of the implants and subsequent osseointegration.
+
+The aim of the present study was to assess the correlation between bone density values obtained by cone-beam computed tomography (CBCT), the primary stability of dental implants and the histomorphometric analysis of bone quality.
+
+Following tooth extraction, socket preservation with frieze-dried bone allograft or protein-rich fibrin (PRF) was performed on 30 patients with 30 maxillary teeth in the region from second premolar to second premolar. Four months after the procedure, CBCT was used to assess the bone density (Hounsfield units) in the area of extraction. Thirty bone samples were harvested from implant sites using a trephine drill. They were analyzed with Image J software. Immediately after placing the implant, the implant stability quotient was measured using the Osstell Idx device.
+
+The results revealed significant correlations between bone density and primary stability along the vestibulo-oral (r=0.392, p=0.032) and mesiodistal axes (r=0.407, p=0.026). Bone density also correlated strongly with the percentage of newly formed bone (r=0.776, p<0.001).
+
+Bone quality, in terms of bone density measured in CBCT and new bone formation are correlated to the primary stability of the dental implants and vice versa.
+
+Keywords: bone density, dental implants, histomorphometric analysis, osseointegration, primary stability
+MeSH: Adolescent, Adult, Aged, Bone Density, Cone-Beam Computed Tomography, Dental Implants, Female, Humans, Male, Maxilla, Middle Aged, Osseointegration, Osteotomy, Prosthesis Failure, Young Adult
