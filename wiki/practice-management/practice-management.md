@@ -2,7 +2,7 @@
 title: "치과경영 — practice-management"
 authors: navigation
 year: 2026
-date: 2026-08-29
+date: 2026-09-04
 doi: N/A
 source: navigation
 category: practice-management
@@ -15,20 +15,20 @@ tags: [navigation, category-index, practice-management]
 > [!summary] 한국어 핵심요약
 > - **분야**: 치과경영
 > - **범위**: Dental practice management — legal/regulatory decisions (헌법재판소 등), operational policies, clinic administration
-> - **수록 논문**: 33편
+> - **수록 논문**: 34편
 
 ## Three-line Summary
 
 **Scope**: Dental practice management — legal/regulatory decisions (헌법재판소 등), operational policies, clinic administration
-**Indexed papers**: 33 papers in `wiki/practice-management/`.
+**Indexed papers**: 34 papers in `wiki/practice-management/`.
 
 ## 세줄요약
 
 **분야**: 치과경영
-**수록 논문**: 33편
+**수록 논문**: 34편
 **하위 카테고리**: 없음
 
-## Papers in this Category (33)
+## Papers in this Category (34)
 
 | Paper |
 |---|
@@ -50,6 +50,7 @@ tags: [navigation, category-index, practice-management]
 | [[khries-2024-identifying-barriers-pediatric-dental-appointments|Identifying barriers to pediatric dental appointments: insights from a study at Prince Faisal bin Al-Hussein Hospital]] |
 | [[lee-2024-teledentistry-utilisation-australia-sr-ma|The utilisation of teledentistry in Australia: A systematic review and meta-analysis]] |
 | [[listl-2019-what-is-health-economics-oral-health|What is health economics?]] |
+| [[mackay-2017-acquisition-digital-intraoral-scanning-device|Acquisition of a Digital Intraoral Scanning Device: An Examination of Practice Volume Changes and the Economic Impact via an Interrupted Time Series Analysis]] |
 | [[manser-2009-teamwork-patient-safety-dynamic-healthcare|Teamwork and patient safety in dynamic domains of healthcare: a review of the literature.]] |
 | [[muller-2018-sbar-handoff-communication-patient-safety-sr|Impact of the communication and patient hand-off tool SBAR on patient safety: a systematic review]] |
 | [[nelson-2011-text-vs-voice-reminder-pediatric-dental-rct|Assessing the effectiveness of text messages as appointment reminders in a pediatric dental setting.]] |
