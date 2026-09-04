@@ -349,6 +349,7 @@ tags: []
 - [[bone-regeneration/ridge-preservation/xu-2026-demineralized-dentin-matrix-versus-xenograft-arp-rct]] — Xu 2026 · rct · 탈회상아질기질(DDM) vs 이종골 ARP(n=50): DDM 초기흡수 빠르나 6개월 차원안정성 동등·조직통합 우수
 - [[bone-regeneration/ridge-preservation/yu-2026-bone-particle-size-arp-periodontally-compromised-molars]] — Yu 2026 · retrospective · 중증치주염 대구치 DBBM ARP(96): 대입자(1–2mm) 중심골높이 비유의 증가경향(P=.077), 입자크기보다 소켓무결성 중요
 - [[bone-regeneration/ridge-preservation/hartmann-2026-bio-oss-collagen-ridge-preservation-cbct-cohort]] — Hartmann 2026 · retrospective · Bio-Oss Collagen ARP 후에도 잔여 골흡수 3~18%(상악대구치 최대), 78/80 추가증대 없이 임플란트
+- [[bone-regeneration/ridge-preservation/abdulkarim-2021-bone-graft-cbct-bone-density-pilot]] — Abdulkarim 2021 · retrospective pilot · CBCT HU는 이종골(Xenograft) ARP 후 임상 골 질과 무상관(p=0.02 vs 비이식); 동종골(Allograft)은 영향 없음 — 이종골 ARP 후 CBCT 판독 주의
 - [[bone-regeneration/ridge-preservation/lee-2021-alveolar-ridge-preservation-periodontally-compromised]] — Lee 2021 · retrospective (418 sites, 287 pts) · 치주염 발치와에서 ARP가 임플란트 식립 불가율↓(0.8% vs 4.7%) — 식립 가능성 개선
 - [[bone-regeneration/ridge-preservation/de-angelis-2022-ridge-preservation-spontaneous-healing-volumetric]] — De Angelis 2022 · retrospective volumetric (CBCT 중첩) · ARP(이종골+흡수성막) vs 자연치유 경·연조직·PES·만족도 비교
 - [[bone-regeneration/ridge-preservation/strauss-2024-ridge-preservation-early-implant-aesthetic]] — Strauss 2024 · RCT 2차분석 (n=75, 3군 1:1:1) · 심미부 조기식립 ± ARP(DBBM10%콜라겐/타기법), 1년 방사선·프로파일로메트리
@@ -1319,6 +1320,7 @@ tags: []
 ### 투명교정 (Clear Aligner) — 적응증·한계 (`orthodontics/clear-aligner`)
 - [[overviews/clear-aligner-indications-limitations]] — **종합 오버뷰** (20편): 투명교정 적응증·한계 — 효율(경중등도 OK·중증/torque/rotation 열등)·Class II(distalization·MA)·생체역학(attachment·trimline)·안전성(치근흡수)·치주·저작/TMJ·가속·biofilm
 - [[overviews/invisalign-itero-digital-workflow-accuracy-overview]] — **종합 오버뷰** (12편): Invisalign·iTero 디지털 워크플로우 정확도 종합 — IOS vs 기존인상 정확도·예측성(투명교정 이동 달성률)·스캐너별 성능 비교·임상 의사결정 프레임워크
+- [[overviews/clear-aligner-adverse-effects-overview]] — **종합 오버뷰** (6편): 투명교정 부작용 종합 — 통증(24h 정점→1wk 최소)·치근흡수(EARR: CBCT−0.56mm/RCT 3D−0.72mm/−0.33mm, 심각 >20%는 치아 3.7–6.3%만)·플라크·WSL 고정식 대비 우위·수동/전동 칫솔 무차이; 동의서 체크리스트 + 측정 렌즈(절대vs비교·3Dvs2D)별 수치 조정
 - [[overviews/clear-aligner-patient-experience-brand-overview]] — **NEW Overview** (10편, 2026-08-24): 투명교정 환자경험·순응도·브랜드 비교 종합 — OHRQoL(OHIP-14·PIDAQ·VAS) 고정식 대비 CA 우위·통증 초기 집중 후 감소; compliance 65–80% 불완전·예측불가; 브랜드별 색안정성·바이오필름·VTS 차이; 환자 기대치 극히 높고 경직적(Nemec). 임상 takeaway: 장기 미용 우위이나 복잡 증례 함정과 기대 관리가 핵심.
 - [[orthodontics/clear-aligner/fonseca-planells-2026-clear-aligner-maxillary-expansion-growing]] — Fonseca Planells 2026 · sr+ma · 성장기 환자 투명교정 상악확장(15편/7 pooled): aligner 확장 가능하나 conventional expander 대비 유의 적음 — 구치간폭 −1.77mm·구개용적 −460.6mm³·호선둘레 −1.75mm; 확장 주로 치조성(전치·유치), skeletal엔 conventional 우위 (DOI 10.1186/s40510-026-00620-7) [위키 첫 clear aligner 항목]
 - [[orthodontics/clear-aligner/yassir-2022-cat-vs-fat-overview-systematic-reviews]] — Yassir 2022 · synthesis · 18개 SR 우산고찰: CAT는 경중등도 부정교합엔 효과적이나 중증·특정이동(torque·extrusion·rotation)엔 열등; 치주건강 우위·치근흡수 위험 낮음·relapse 큼·경증서 치료기간 단축 가능 (DOI 10.1007/s00784-021-04361-1) [clear aligner 한계 적응증 묶음]
