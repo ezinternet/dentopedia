@@ -350,6 +350,7 @@ tags: []
 - [[bone-regeneration/ridge-preservation/yu-2026-bone-particle-size-arp-periodontally-compromised-molars]] — Yu 2026 · retrospective · 중증치주염 대구치 DBBM ARP(96): 대입자(1–2mm) 중심골높이 비유의 증가경향(P=.077), 입자크기보다 소켓무결성 중요
 - [[bone-regeneration/ridge-preservation/hartmann-2026-bio-oss-collagen-ridge-preservation-cbct-cohort]] — Hartmann 2026 · retrospective · Bio-Oss Collagen ARP 후에도 잔여 골흡수 3~18%(상악대구치 최대), 78/80 추가증대 없이 임플란트
 - [[bone-regeneration/ridge-preservation/abdulkarim-2021-bone-graft-cbct-bone-density-pilot]] — Abdulkarim 2021 · retrospective pilot · CBCT HU는 이종골(Xenograft) ARP 후 임상 골 질과 무상관(p=0.02 vs 비이식); 동종골(Allograft)은 영향 없음 — 이종골 ARP 후 CBCT 판독 주의
+- [[bone-regeneration/ridge-preservation/ivanova-2020-bone-density-primary-stability-histomorphometric-maxilla]] — Ivanova 2020 · prospective · FDBA/PRF 소켓보존 4개월 후 CBCT HU↔ISQ r=0.39–0.41(유의); HU↔신생골% r=0.776(p<0.001) — 동종골 ARP 후 HU는 생물학적 골재생 반영
 - [[bone-regeneration/ridge-preservation/lee-2021-alveolar-ridge-preservation-periodontally-compromised]] — Lee 2021 · retrospective (418 sites, 287 pts) · 치주염 발치와에서 ARP가 임플란트 식립 불가율↓(0.8% vs 4.7%) — 식립 가능성 개선
 - [[bone-regeneration/ridge-preservation/de-angelis-2022-ridge-preservation-spontaneous-healing-volumetric]] — De Angelis 2022 · retrospective volumetric (CBCT 중첩) · ARP(이종골+흡수성막) vs 자연치유 경·연조직·PES·만족도 비교
 - [[bone-regeneration/ridge-preservation/strauss-2024-ridge-preservation-early-implant-aesthetic]] — Strauss 2024 · RCT 2차분석 (n=75, 3군 1:1:1) · 심미부 조기식립 ± ARP(DBBM10%콜라겐/타기법), 1년 방사선·프로파일로메트리
