@@ -34,7 +34,7 @@ relations:
     target: christopoulou-2022-intraoral-scanners-orthodontics-critical-review
   - type: refines
     target: singh-2025-intraoral-scanners-accuracy-umbrella-review
-  - type: companion
+  - type: reinforces
     target: clear-aligner-indications-limitations
 ---
 
