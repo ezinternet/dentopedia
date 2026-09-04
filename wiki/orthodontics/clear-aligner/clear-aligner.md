@@ -2,7 +2,7 @@
 title: "교정학·투명교정 — clear-aligner"
 authors: navigation
 year: 2026
-date: 2026-08-29
+date: 2026-09-04
 doi: N/A
 source: navigation
 category: orthodontics/clear-aligner
@@ -15,20 +15,20 @@ tags: [navigation, category-index, clear-aligner]
 > [!summary] 한국어 핵심요약
 > - **분야**: 교정학·투명교정
 > - **범위**: Clear aligner therapy (CAT) indications & limitations — efficacy vs fixed appliances (mild-moderate equivalence; inferior torque/rotation/extrusion), Class II strategies (molar distalization, mandibular advancement), biomechanics (attachments, trimline design), maxillary expansion, safety (root reso…
-> - **수록 논문**: 74편
+> - **수록 논문**: 76편
 
 ## Three-line Summary
 
 **Scope**: Clear aligner therapy (CAT) indications & limitations — efficacy vs fixed appliances (mild-moderate equivalence; inferior torque/rotation/extrusion), Class II strategies (molar distalization, mandibular advancement), biomechanics (attachments, trimline design), maxillary expansion, safety (root resorption), periodontal/oral-hygiene, masticatory muscle/TMJ changes, accelerated-orthodontics adjuncts, aligner biofilm
-**Indexed papers**: 74 papers in `wiki/orthodontics/clear-aligner/`.
+**Indexed papers**: 76 papers in `wiki/orthodontics/clear-aligner/`.
 
 ## 세줄요약
 
 **분야**: 교정학·투명교정
-**수록 논문**: 74편
+**수록 논문**: 76편
 **하위 카테고리**: 없음
 
-## Papers in this Category (74)
+## Papers in this Category (76)
 
 | Paper |
 |---|
@@ -71,6 +71,7 @@ tags: [navigation, category-index, clear-aligner]
 | [[kuguoglu-2024-clear-aligner-attachment-third-molar-distalization-fea|Evaluation of the effects of the third molar on distalization and the effects of attachments on distalization and expansion with clear aligners: Three-dimensional finite element study]] |
 | [[lei-2026-advancements-in-biomechanics-and|Advancements in Biomechanics and Orthodontic Strategies for Clear Aligner Therapy]] |
 | [[lekaviciute-2024-clear-aligner-masticatory-muscle-emg-sr-ma|The effect of clear aligner treatment on masticatory muscles (masseter, temporalis) activity in adults: a systematic review and meta-analysis]] |
+| [[liu-2025-maxillary-molar-distalization-invisalign-adult|Maxillary molar distalization with Invisalign in adult patients: a preliminary study using iTero-created digital models]] |
 | [[luo-2025-factors-of-alveolar-bone-changes|Factors of Alveolar Bone Changes Around Maxillary Central Incisors in Extraction Orthodontic Cases With Clear Aligner Therapy]] |
 | [[marinelli-2025-temporary-anchorage-devices-clear-aligner-sr|Temporary Anchorage Devices in Clear Aligner Therapy: A Systematic Review]] |
 | [[meade-2026-invisalign-lite-efficacy-retrospective|Efficacy of planned overjet, overbite, arch depth and incisor labiolingual changes with the Invisalign Lite appliance: a retrospective analysis]] |
@@ -88,6 +89,7 @@ tags: [navigation, category-index, clear-aligner]
 | [[porporatti-2026-clear-aligners-bruxism-systematic-review|Clear Aligners and Bruxism: A Systematic Review]] |
 | [[rutili-2026-class-iii-camouflage-modalities-narrative-review|Camouflage Modalities of Treatment for Skeletal Class III Malocclusion in Adults—A Narrative Review]] |
 | [[ryu-2018-ecligner-thermoforming-toa|Effects of thermoforming on the physical and mechanical properties of thermoplastic materials for transparent orthodontic aligners]] |
+| [[saif-2022-efficiency-evaluation-maxillary-molar-distalization|Efficiency evaluation of maxillary molar distalization using Invisalign based on palatal rugae registration]] |
 | [[saif-2026-clear-aligner-anterior-3d-accuracy|A 3D comparison of planned versus achieved anterior tooth position in clear aligner treatment]] |
 | [[shi-2026-pre-treatment-associated-factors|Pre-treatment Associated Factors for Open Gingival Embrasures of Upper Incisors after Maxillary Molar Distalization with Clear Aligners: A Retrospective Study]] |
 | [[sirri-2026-physical-adjunctive-interventions-clear-aligner-rct-sr|The impact of physical adjunctive interventions on outcomes of clear aligner treatment: A systematic review of randomized controlled trials]] |
