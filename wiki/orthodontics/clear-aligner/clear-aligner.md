@@ -15,23 +15,24 @@ tags: [navigation, category-index, clear-aligner]
 > [!summary] 한국어 핵심요약
 > - **분야**: 교정학·투명교정
 > - **범위**: Clear aligner therapy (CAT) indications & limitations — efficacy vs fixed appliances (mild-moderate equivalence; inferior torque/rotation/extrusion), Class II strategies (molar distalization, mandibular advancement), biomechanics (attachments, trimline design), maxillary expansion, safety (root reso…
-> - **수록 논문**: 76편
+> - **수록 논문**: 80편
 
 ## Three-line Summary
 
 **Scope**: Clear aligner therapy (CAT) indications & limitations — efficacy vs fixed appliances (mild-moderate equivalence; inferior torque/rotation/extrusion), Class II strategies (molar distalization, mandibular advancement), biomechanics (attachments, trimline design), maxillary expansion, safety (root resorption), periodontal/oral-hygiene, masticatory muscle/TMJ changes, accelerated-orthodontics adjuncts, aligner biofilm
-**Indexed papers**: 76 papers in `wiki/orthodontics/clear-aligner/`.
+**Indexed papers**: 80 papers in `wiki/orthodontics/clear-aligner/`.
 
 ## 세줄요약
 
 **분야**: 교정학·투명교정
-**수록 논문**: 76편
+**수록 논문**: 80편
 **하위 카테고리**: 없음
 
-## Papers in this Category (76)
+## Papers in this Category (80)
 
 | Paper |
 |---|
+| [[algarni-2026-treatment-predictability-two-clear-aligner|Treatment Predictability of Two Clear Aligner Systems: A Retrospective Assessment of Invisalign Versus Eon Aligner]] |
 | [[alghafli-2026-postsurgical-aligners-sr|Post-surgical clear aligner management: SR of stability, efficiency, and PRO (AlGhafli 2026)]] |
 | [[alhamwi-2024-clear-aligner-vs-fixed-treatment-duration-crowding-sr|Duration of orthodontic treatment with clear aligners versus fixed appliances in crowding cases: a systematic review]] |
 | [[alhuwaizi-2026-clear-aligner-fixed-oral-hygiene-periodontal-grade-sr|Impact of clear aligners and conventional fixed orthodontic appliances on oral hygiene and periodontal health: A systematic review with GRADE assessment of the certainty of evidence]] |
@@ -52,6 +53,7 @@ tags: [navigation, category-index, clear-aligner]
 | [[crego-ruiz-2023-periodontal-gingival-recession-aligner-vs-fixed-sr-ma|Assessment of the periodontal health status and gingival recession during orthodontic treatment with clear aligners and fixed appliances: A systematic review and meta-analysis]] |
 | [[cunha-2025-class-iii-surgery-first-aligner-fixed-ohrqol|Impact on Oral Health-Related Quality of Life in Skeletal Class III Patients Treated With Orthognathic Surgery-First Approach Using Orthodontic Aligners or Fixed Appliances: A Controlled Clinical Study]] |
 | [[de-la-rosa-gay-2025-expansion-predictability-clear-aligner|Factors affecting expansion predictability of clear aligner treatment]] |
+| [[de-la-rosa-gay-2026-arch-width-measurements-invisalign-tables|Are arch width measurements from Invisalign arch width tables reliable?]] |
 | [[delgado-2025-thermoplastics-clear-aligners-review|Thermoplastics for Clear Aligners: A Review]] |
 | [[di-spirito-2023-clear-aligner-periodontal-umbrella-review|Impact of Clear Aligners versus Fixed Appliances on Periodontal Status of Patients Undergoing Orthodontic Treatment: A Systematic Review of Systematic Reviews]] |
 | [[ferreira-2025-clear-aligners-toxic-chemicals-systematic-review|Do Clear Aligners Release Toxic Chemicals? A Systematic Review]] |
@@ -100,7 +102,9 @@ tags: [navigation, category-index, clear-aligner]
 | [[ubuzima-2025-clear-aligner-fixed-anterior-teeth-movement-adults-sr|Comparative effectiveness of clear aligners and fixed appliances in orthodontic movement of the anterior teeth in adults: A systematic review]] |
 | [[vicioni-marques-2025-space-closure-extraction-clear-aligner-sr|Space Closure After Premolar Extraction Using Clear Aligners: A Systematic Review with Meta-Analysis]] |
 | [[wang-2025-clear-aligner-premolar-extraction-3d-tooth-movement|Tridimensional Analysis of Maxillary Teeth Movements in Premolar-Extraction Cases Treated With Clear Aligners]] |
+| [[wang-2026-accuracy-mandibular-dentition-distalisation-invisalign|Accuracy of Mandibular Dentition Distalisation With Invisalign in Class III Malocclusion: A Pilot Study Using CBCT Superimposition]] |
 | [[wonghinkong-2026-canine-retraction-palatal-power-arm-rct|Accuracy of final canine retraction with and without a palatal power arm using in-house clear aligners: a randomized clinical trial]] |
+| [[xianggang-2026-predictability-maxillary-transverse-changes-invisalign|Predictability of maxillary transverse changes with Invisalign in adults: A systematic review and meta-analysis]] |
 | [[yan-2025-mesiodistal-angulation-maxillary-lateral-incisor-clear-aligner|Mesiodistal angulation change of the maxillary lateral incisor in the extraction treatment by clear aligner]] |
 | [[yassir-2022-cat-vs-fat-overview-systematic-reviews|Clinical effectiveness of clear aligner treatment compared to fixed appliance treatment: an overview of systematic reviews]] |
 | [[ye-2025-combined-use-of-miniscrews|Combined use of miniscrews, facemask and clear aligner appliances for the treatment of an 11-year-old girl with unilateral posterior scissor bite and skeletal class III malocclusion: A case report]] |
