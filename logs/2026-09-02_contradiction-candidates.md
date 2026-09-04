@@ -7,8 +7,8 @@
 **대상은 키워드에 가장 가까운 링크로 특정한다.** 같은 줄의 나머지 링크는 충돌 표현의 대상이라는 근거가 없어 Tier 2(`AMBIG→`)로 강등된다 — 버리지 않으니 진짜 대상이 강등됐다면 Tier 2에서 찾을 수 있다.
 
 - Tier 1 (대상 지목됨, actionable): **0**
-- Tier 2 (대상 불명/soft, review): **29**
-- (억제됨) 이미 typed 엣지·supersession 포인터가 있어 제외: **287** · 부정문 제외: **101** · 검토·불필요 대장: **461** · 동일 줄 비최근접으로 Tier 2 강등: **0**
+- Tier 2 (대상 불명/soft, review): **31**
+- (억제됨) 이미 typed 엣지·supersession 포인터가 있어 제외: **288** · 부정문 제외: **104** · 검토·불필요 대장: **461** · 동일 줄 비최근접으로 Tier 2 강등: **0**
 
 ## Tier 1 — 판단 후 엣지 달 후보 (page → 지목된 target)
 
@@ -59,8 +59,12 @@
   - ▸ 출발(`patient-recall-retention-overview`) 세줄: 19편 종합(치주·임플란트주위 유지관리 + 예약 내원 + 행동변화) — "구환 리콜"을 3층 운영 시스템으로 재정의: ① 누구를 언제 부를지 ② 예약된 방문이 실제로 일어나게 하는 법 ③ 애초에 왜 다시 오는지. 층별 근거 강도가 급격히 다르다: ②는 내원 RCT 2편 + 196,018건 머신러닝 모델(SMS vs 무 79.2% vs 35.5%, Prasad 2012; 음성>SMS 보정 OR 2.12, Nelson 2011; 리드타임이 최강 예측인자, Alabdulkarim 2022)로 가장 단단
 
 - `immediate-implant-evidence-survival-timing-infected-loading-overview` [overviews] (HIGH-no-target, '뒤집' · 뒤집음)
-  - **근거 문장**: 즉시 vs 지연 생존 갈등은 해소: Mello 2017(관찰포함 30편 ~3%p 열세)은 **García-Sánchez 2022에 의해 완전 superseded**(2026-08) — RCT만 보면 생존 무차이이고 설계 편향이 원인. 동일한 트레이드오프(골·PES 우세, 실패율 비유의 증가)가 **하나의 210명 3군 RCT 내부**(Felice 2016/Esposito 2017)에서도 재현 — 즉시·즉시지연이 골·PES는 유의 우위이나 실패율은 비유의하게 더 높은 경향(4개월→1년 안정). 부위·직경이 방향을 뒤집기도 함 — Checchi 2017(구치·광경직경)은 지연군이 PES·변연골 모두 우위(전치부 Puisys 2022와 정반대).
-  - ▸ 출발(`immediate-implant-evidence-survival-timing-infected-loading-overview`) 세줄: 즉시식립(Type 1)의 5개 결정축(생존·타이밍·감염소켓·부하/보철·환자체감)을 19편으로 종합한 허브: 생존율의 새 기준은 Gallucci 2026(PROSPERO 갱신 SR, 140편·10,456임플란트) — 9조합 가중생존율에서 Type 1A(즉시+즉시부하) 98.0%(검증됨) 대비 **Type 1B(즉시+조기부하) 91.6%(미검증)**로 손실률 약 4배 차이. 즉시 vs 지연 생존 갈등은 해소: Mello 2017(관찰포함 30편 ~3%p 열세)은 **García-Sánchez 2022
+  - **근거 문장**: 즉시 vs 지연 생존 갈등은 해소: Mello 2017(관찰포함 30편 ~3%p 열세)은 **García-Sánchez 2022에 의해 완전 superseded**(2026-08) — RCT만 보면 생존 무차이이고 설계 편향이 원인이며, 독립 SR+MA인 Patel 2023(비교연구 10편, 위험비 0.99, I²=0%, 97.4% vs 97.5%)이 이질성 0%로 같은 결론을 재확인한다. 동일한 트레이드오프(골·PES 우세, 실패율 비유의 증가)가 **하나의 210명 3군 RCT 내부**(Felice 2016/Esposito 2017)에서도 재현 — 즉시·즉시지연이 골·PES는 유의 우위이나 실패율은 비유의하게 더 높은 경향(4개월→1년 안정). 부위·직경이 방향을 뒤집기도 함 — Checchi 2017(
+  - ▸ 출발(`immediate-implant-evidence-survival-timing-infected-loading-overview`) 세줄: 즉시식립(Type 1)의 5개 결정축(생존·타이밍·감염소켓·부하/보철·환자체감)을 20편으로 종합한 허브: 생존율의 새 기준은 Gallucci 2026(PROSPERO 갱신 SR, 140편·10,456임플란트) — 9조합 가중생존율에서 Type 1A(즉시+즉시부하) 98.0%(검증됨) 대비 **Type 1B(즉시+조기부하) 91.6%(미검증)**로 손실률 약 4배 차이. 즉시 vs 지연 생존 갈등은 해소: Mello 2017(관찰포함 30편 ~3%p 열세)은 **García-Sánchez 2022
+
+- `tmj-retrodiscal-tissue-disc-displacement-overview` [overviews] (HIGH-no-target, '뒤집' · 뒤집음)
+  - **근거 문장**: 이 논문들은 교과서의 배역을 뒤집는다 — 주인공이던 관절원판 (articular disc)이 오히려 불활성 구획(무신경·무혈관·치밀 콜라겐·최고 글리코사미노글리칸 (GAG)·T2 최저 반응)이고, 후방조직은 변위를 저지하기엔 너무 무르지만(생리적 변형에서 영률 <1 MPa) 변위 후 하중 견디는 섬유연골로 재형성되고(FB2 전구 섬유아세포 + 혈관주위세포 유래 MC4 벽세포의 FGF2·BMP5 신호), 관절에서 유일하게 다양한 통각수용기 집단(비펩타이드성 ~20% + CGRP+ 75%)을 가지며, 환자에서 가장 먼저 정량 영상 변화를 보이는(후방조직 T2 34.4 → 반대측 37.8 → 환측 41.6 ms) 활성 구획이다.
+  - ▸ 출발(`tmj-retrodiscal-tissue-disc-displacement-overview`) 세줄: 후방조직 (retrodiscal tissue, 이중판대 (bilaminar zone))을 인장 역학·부위별 생화학·단일세포 생물학·감각신경 분포·생체 정량 MRI의 5개 독립 축에서 다룬 논문 5편 종합으로, 기존 TMD/TMJ 오버뷰들이 관리 사다리 중심이라 비어 있던 **조직 축**을 채운다. 이 논문들은 교과서의 배역을 뒤집는다 — 주인공이던 관절원판 (articular disc)이 오히려 불활성 구획(무신경·무혈관·치밀 콜라겐·최고 글리코사미노글리칸 (GAG)·T2 최저 반응)이고, 후방조
 
 - `oral-microbiome-biofilm-dysbiosis-synthesis` [overviews] (HIGH-no-target, '반박' · 반박)
   - **근거 문장**: 구강 미생물·바이오필름 review 24편 통합(Socransky 1998 complex paradigm + Costerton 1999 biofilm paradigm 2개 historical foundation 포함): 3축 — ①매트릭스(EPS/matrixome): glucan이 caries 바이오필름 핵심 virulence, 국소 산성 미세환경(pH 4.5–5.5) 2시간 이상 지속; ②생태(microbiome): ~1,000종·부위당 ~50종, 건강=generalist·질환=specialist(Baker 2024가 종수준 biogeography로 정밀화); ③병인(dysbiosis): 치주염은 keystone pathogen P. gingivalis(<0.01%)가 주도하는 PSD 모델·균주특이적(Mu
@@ -79,12 +83,16 @@
   - ▸ 출발(`unopposed-tooth-overeruption-overview`) 세줄: 16편 종합: 대합치 없는 후방 치아의 ~83%가 정출(단기 ~9개월 평균 0.43 mm / 최대 0.75 mm; CBCT 5년 기준 근심교두 1.37 mm [Hong 2023]; ~72%는 1 mm 미만; 초기 최대 속도; 수직+협측경사+회전 3D); ~18%는 전혀 안 움직임; 정출은 PDL·치조골 매개라 치수 생활력 무관. 고정 retention도 부분접촉 대비 효과 없어(Livas 2016); 5년 후 인접 하악 제2대구치 근심 경사 (Mesial Tipping) 57.47°·협측 CEJ 
 
 - `nccl-etiology-diagnosis-management-overview` [overviews] (HIGH-no-target, 'contradict' · 반박·충돌)
-  - **근거 문장**: Synthesis of 17 papers on noncarious cervical lesions (NCCL) — etiology, diagnosis, and monitor-vs-restore decision: NCCLs are multifactorial (stress/abfraction + friction/abrasion + biocorrosion/erosion as a case-specific combination), the "abfraction as sole cause" hypothesis is clinically unproven with SR evidence directly contradicting across three systematic reviews (Senna 2012 — association 
-  - ▸ 출발(`nccl-etiology-diagnosis-management-overview`) 세줄: 비우식성 치경부 병소(Noncarious Cervical Lesion, NCCL) 17편 종합 — 병인은 stress(abfraction)·friction(abrasion)·biocorrosion(erosion)의 case-specific 다인성 조합이고, "교합응력(abfraction) 단독원인설"은 임상적으로 미입증이며 3편의 SR이 충돌(Senna 2012 결론 불가, Duangthip 2017 81% 연관 단 lab 가중, Dioguardi 2024 scoping 6편으로 확정·반박 모두 
+  - **근거 문장**: Synthesis of 19 papers on noncarious cervical lesions (NCCL) — etiology, diagnosis, and monitor-vs-restore decision: NCCLs are multifactorial (stress/abfraction + friction/abrasion + biocorrosion/erosion as a case-specific combination), the "abfraction as sole cause" hypothesis is clinically unproven with SR evidence directly contradicting across three systematic reviews (Senna 2012 — association 
+  - ▸ 출발(`nccl-etiology-diagnosis-management-overview`) 세줄: 비우식성 치경부 병소(Noncarious Cervical Lesion, NCCL) 19편 종합 — 병인은 stress(abfraction)·friction(abrasion)·biocorrosion(erosion)의 case-specific 다인성 조합이고, "교합응력(abfraction) 단독원인설"은 임상적으로 미입증이며 3편의 SR이 충돌(Senna 2012 결론 불가, Duangthip 2017 81% 연관 단 lab 가중, Dioguardi 2024 scoping 6편으로 확정·반박 모두 
 
 - `nccl-etiology-diagnosis-management-overview` [overviews] (HIGH-no-target, '반박' · 반박)
-  - **근거 문장**: 비우식성 치경부 병소(Noncarious Cervical Lesion, NCCL) 17편 종합 — 병인은 stress(abfraction)·friction(abrasion)·biocorrosion(erosion)의 case-specific 다인성 조합이고, "교합응력(abfraction) 단독원인설"은 임상적으로 미입증이며 3편의 SR이 충돌(Senna 2012 결론 불가, Duangthip 2017 81% 연관 단 lab 가중, Dioguardi 2024 scoping 6편으로 확정·반박 모두 불가).
-  - ▸ 출발(`nccl-etiology-diagnosis-management-overview`) 세줄: 비우식성 치경부 병소(Noncarious Cervical Lesion, NCCL) 17편 종합 — 병인은 stress(abfraction)·friction(abrasion)·biocorrosion(erosion)의 case-specific 다인성 조합이고, "교합응력(abfraction) 단독원인설"은 임상적으로 미입증이며 3편의 SR이 충돌(Senna 2012 결론 불가, Duangthip 2017 81% 연관 단 lab 가중, Dioguardi 2024 scoping 6편으로 확정·반박 모두 
+  - **근거 문장**: 비우식성 치경부 병소(Noncarious Cervical Lesion, NCCL) 19편 종합 — 병인은 stress(abfraction)·friction(abrasion)·biocorrosion(erosion)의 case-specific 다인성 조합이고, "교합응력(abfraction) 단독원인설"은 임상적으로 미입증이며 3편의 SR이 충돌(Senna 2012 결론 불가, Duangthip 2017 81% 연관 단 lab 가중, Dioguardi 2024 scoping 6편으로 확정·반박 모두 불가).
+  - ▸ 출발(`nccl-etiology-diagnosis-management-overview`) 세줄: 비우식성 치경부 병소(Noncarious Cervical Lesion, NCCL) 19편 종합 — 병인은 stress(abfraction)·friction(abrasion)·biocorrosion(erosion)의 case-specific 다인성 조합이고, "교합응력(abfraction) 단독원인설"은 임상적으로 미입증이며 3편의 SR이 충돌(Senna 2012 결론 불가, Duangthip 2017 81% 연관 단 lab 가중, Dioguardi 2024 scoping 6편으로 확정·반박 모두 
+
+- `nccl-etiology-diagnosis-management-overview` [overviews] (HIGH-no-target, '대비되는' · 대비)
+  - **근거 문장**: - Universal adhesive — 산부식 전략은 **상위 근거가 갈린다**: 개별 RCT는 E&R과 SEE 모드 3년 성능 동등(Peumans 2023)이지만, NCCL 특이 SR+MA 2편이 서로 충돌한다 — Assis 2023(RCT 20편, PROSPERO 등록, 최대 규모)은 E&R이 중기(12–36개월) 유지·변연적합·변연착색·이차우식에서 우위이고 SE는 술후 과민증만 낮다고 보고, Doshi 2023(RCT 13편 메타분석)은 5개 지표 전부 무차이(p>0.05, I²=0%)라고 보고한다. 두 SR+MA는 서로를 "대비되는 결과"로 명시 인용하며, 어느 쪽도 아직 철회·대체되지 않았다.
+  - ▸ 출발(`nccl-etiology-diagnosis-management-overview`) 세줄: 비우식성 치경부 병소(Noncarious Cervical Lesion, NCCL) 19편 종합 — 병인은 stress(abfraction)·friction(abrasion)·biocorrosion(erosion)의 case-specific 다인성 조합이고, "교합응력(abfraction) 단독원인설"은 임상적으로 미입증이며 3편의 SR이 충돌(Senna 2012 결론 불가, Duangthip 2017 81% 연관 단 lab 가중, Dioguardi 2024 scoping 6편으로 확정·반박 모두 
 
 - `implant-failure-mbl-risk-factors-overview` [overviews] (HIGH-no-target, '뒤집' · 뒤집음)
   - **근거 문장**: > **모범답안**: 이 오버뷰는 **경사 임플란트의 MBL 패널티는 시간 의존적**임을 보여준다. malak-2024(메타분석): 단기 NS → 3년 +0.08mm(유의) → 장기 +0.18mm(유의)로 시간이 지날수록 차이가 커진다. del-fabbro 연구진 자체 데이터도 2014년(≥3년, P=.30, NS) → 2022년(3–18년, P<.0001, 축방향 MBL 적음)으로 뒤집혔다. 따라서 "단기에 차이 없다"는 2017년 SR은 **추적기간이 짧은 연구 종합**이라는 한계를 갖는다. 경사 vs 축방향의 **실패 위험은 동일(RR=1.02)**이지만 장기 MBL 관리를 위해서는 이 시간 의존성을 고려해야 한다.
