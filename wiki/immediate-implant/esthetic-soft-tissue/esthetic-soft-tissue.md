@@ -2,7 +2,7 @@
 title: "즉시식립·심미연조직 — esthetic-soft-tissue"
 authors: navigation
 year: 2026
-date: 2026-08-29
+date: 2026-09-05
 doi: N/A
 source: navigation
 category: immediate-implant/esthetic-soft-tissue
@@ -15,20 +15,20 @@ tags: [navigation, category-index, esthetic-soft-tissue]
 > [!summary] 한국어 핵심요약
 > - **분야**: 즉시식립·심미연조직
 > - **범위**: Immediate implant esthetic & soft-tissue outcomes — immediate provisionalization, connective-tissue/soft-tissue grafting (SCTG/CTG), midfacial recession & papilla, pink esthetic score, buccal-dehiscence esthetic, esthetic-zone selection criteria
-> - **수록 논문**: 61편
+> - **수록 논문**: 63편
 
 ## Three-line Summary
 
 **Scope**: Immediate implant esthetic & soft-tissue outcomes — immediate provisionalization, connective-tissue/soft-tissue grafting (SCTG/CTG), midfacial recession & papilla, pink esthetic score, buccal-dehiscence esthetic, esthetic-zone selection criteria
-**Indexed papers**: 61 papers in `wiki/immediate-implant/esthetic-soft-tissue/`.
+**Indexed papers**: 63 papers in `wiki/immediate-implant/esthetic-soft-tissue/`.
 
 ## 세줄요약
 
 **분야**: 즉시식립·심미연조직
-**수록 논문**: 61편
+**수록 논문**: 63편
 **하위 카테고리**: 없음
 
-## Papers in this Category (61)
+## Papers in this Category (63)
 
 | Paper |
 |---|
@@ -63,6 +63,8 @@ tags: [navigation, category-index, esthetic-soft-tissue]
 | [[gomez-meda-2021-esthetic-biological-contour-emergence-profile|The esthetic biological contour concept for implant restoration emergence profile design]] |
 | [[hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma|Selection criteria for immediate implant placement and immediate loading for single tooth replacement in the maxillary esthetic zone: A systematic review and meta-analysis]] |
 | [[han-2025-immediate-implant-maxillary-esthetic-dual-thread|A prospective clinical study of immediate implant placement in the maxillary esthetic zone]] |
+| [[hicklin-2024-immediate-vs-early-blt-implants-pink-esthetic-pilot-rct|Immediately versus early placed bone-level-tapered implants supporting all-ceramic crowns on titanium base abutments: 1-year radiographic and pink esthetic outcomes of a multicenter pilot RCT]] |
+| [[ickroth-2024-immediate-vs-early-implant-esthetic-zone-sr-ma|Immediate versus early implant placement for single tooth replacement in the aesthetic area: A systematic review and meta-analysis]] |
 | [[jiang-2020-hard-soft-tissue-alterations-during|Hard and soft tissue alterations during the healing stage of immediate implant placement and provisionalization with or without connective tissue graft: A randomized clinical trial]] |
 | [[kan-2003-immediate-placement-provisionalization-anterior|Immediate placement and provisionalization of maxillary anterior single implants: 1-year prospective study]] |
 | [[kinaia-2017-soft-tissue-changes-around|Soft Tissue Changes Around Immediately Placed Implants: A Systematic Review and Meta-Analyses With at Least 12 Months of Follow-Up After Functional Loading]] |
