@@ -49,7 +49,7 @@ Clinical takeaway: pre-treatment CBCT is critical (missed canal raises periapica
 
 ## 세줄요약
 
-C형 근관(C-shaped Canal) 12편 종합: 유병률은 3개 독립 구배 — 치아종류(하악 제2대구치 17.3% 최다 → 상악 제1대구치 0.8% 최소; Yousefi 2025 SR+MA, CBCT 101편), 아시아 우세 지역(한국 31–46%·중국 ≤41% vs 이스라엘 4.6%·이란 2%), 일관된 여성 우세(23.6% vs 16.7%; 이라크·멕시코 두 대륙 재현).
+C형 근관(C-shaped Canal) 15편 종합: 유병률은 3개 독립 구배 — 치아종류(하악 제2대구치 17.3% 최다 → 상악 제1대구치 0.8% 최소; Yousefi 2025 SR+MA, CBCT 101편), 아시아 우세 지역(한국 31–46%·중국 ≤41% vs 이스라엘 4.6%·이란 2%), 일관된 여성 우세(23.6% vs 16.7%; 이라크·멕시코 두 대륙 재현).
 
 대구치 우세 형태 = Fan C2형(세미콜론); 소구치는 제1소구치(~10%)가 제2소구치(~1%)보다 약 10배 많음; radicular-groove 얇은 벽(최소 0.26 mm) → strip-perforation 위험; 63%에서 근관 형태가 근단 방향으로 변함(Shemesh 2017) → 입구 Melton 분류만으로는 불충분, Fan 단면/CBCT 필요.
 
