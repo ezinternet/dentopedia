@@ -1,0 +1,53 @@
+Source: PMC11947318 / PMID 40140668
+DOI: 10.1038/s41598-025-94284-8
+Title: Longitudinal comparative study on osteogenic capacity using two collagenated xenografts in artificial bone defects in beagles
+Authors: Lee DW, Han HS, Kim YB, Seok S, Kim S, Lee JY, Cho YD, Park YJ, Chung CP
+Journal: Scientific Reports 2025;15(1):10408
+Published: 2025-03-26
+
+=== ABSTRACT ===
+This study aimed to evaluate the osteogenic capacity of two types of collagenated xenogenic bone grafts (OCS-B Collagen®, NIBEC, Jincheon, Korea and Bio-Oss® Collagen, Geistlich, Wolhusen, Switzerland) in artificial bone defects in beagle dogs. The bilateral mandibular premolars of 13 male beagles were extracted, followed by the creation of standardized bony defects after 4 weeks. The defects were grafted with or without the two bone grafts and covered by a collagen membrane. Dental implants were placed 24 weeks post grafting. Bone regeneration and osseointegration were evaluated using micro-computed tomography (micro-CT), as well as histological and histomorphometric analyses, while implant stability was measured using resonance frequency analysis (RFA). Micro-CT revealed that both grafts significantly increased bone mineral density (BMD), bone volume (BV), total volume (TV), and BV/TV at 8 and 16 weeks. Twenty-four weeks after implant placement, comparable BMD, BV/TV, and bone-to-implant contact values indicated effective osseointegration. Histological analysis revealed new bone formation and integration between grafts. Histomorphometric analysis demonstrated the preservation of bone height and angle. RFA indicated good implant stability in both groups. The two collagenated xenogenic bone grafts exhibited similar osteogenic potential and osseointegration in an artificial bone defect and implant model. Clinically, both grafting materials may provide comparable outcomes in bone regeneration and implant stability.
+
+=== FULL TEXT ===
+
+Introduction
+
+Guided bone regeneration (GBR) is the most extensively studied and commonly used technique to enhance bone regeneration in peri-implant alveolar defects. In recent years, deproteinized bovine bone mineral (DBBM) has emerged as one of the most frequently used bone graft materials for GBR. Its osteoconductive properties and resistance to resorption support effective bone healing throughout the healing period.
+
+Recently, DBBM integrated with collagen has gained popularity due to its ease of handling and shape maintenance. Collagen plays a crucial role in bone regeneration by serving as an extracellular matrix component within bone tissue. Collagen gradually decomposes over time, facilitating new bone formation, maintaining space, and accelerating the bone regeneration process. In clinical applications, the product can be used either in its dry state or moistened with blood or saline solution, enabling it to be molded into various shapes to meet procedural requirements. Bio-Oss® Collagen (Bio-Oss.C, Geistlich, Wolhusen, Switzerland) is composed of 90% Bio-Oss® granules combined with 10% porcine collagen. Bio-Oss®, widely used in dental regeneration and supported by strong scientific validation, is derived from bovine cancellous bone and processed through a thermal treatment method. Porcine collagen, which constitutes the remaining 10%, is non-crosslinked, enhancing its biocompatibility and integration into the tissue. Similarly, OCS-B Collagen® (OCS-B.C, NIBEC, Jincheon, Korea) is a composite material consisting of purified spongy bovine bone mineral granules (OCS-B®) combined with 10% porcine collagen, presented in block form. The porcine collagen used in OCS-B.C undergoes gelation, a form of crosslinking, which may influence its mechanical properties and degradation profile.
+
+Several clinical studies have been conducted on Bio-Oss.C. Similarly, OCS-B.C has demonstrated a favorable clinical outcome in alveolar ridge preservation in clinical trials, although further basic and clinical evidence is necessary for clinical application. Furthermore, a direct comparative analysis of their osteogenic potential using a standardized in vivo model has been lacking in the literature. Given the widespread clinical use of these materials, a head-to-head comparison offers valuable insights into their relative efficacy, structural integration, and long-term performance in bone regeneration and osseointegration.
+
+Therefore, this in vivo study aimed to evaluate and compare the osteogenic capacity of two commercially available collagenated xenogenic bone grafts, OCS-B.C and Bio-Oss.C, in artificial bone defects of beagle dogs.
+
+Results
+
+Cell adhesion and morphology on bone grafts
+SEM analysis confirmed that osteoblasts adhered to both OCS-B.C and Bio-Oss.C surfaces, displaying a well-spread morphology with the graft material.
+
+Early osteogenic differentiation assessed by alkaline phosphatase (ALP) activity
+The ALP activity assay revealed that osteoblasts cultured with OCS-B.C and Bio-Oss.C exhibited significantly higher ALP activity than the non-treatment (NT) group (p < 0.05) after 3 days of incubation. However, no statistically significant difference was observed between the two graft groups.
+
+Micro-computed tomography (Micro-CT) analysis of bone regeneration
+Micro-CT revealed progressive healing in all groups. Regarding bone mineral density (BMD), a significant difference was observed only at 8 weeks between the OCS-B.C and NT groups (p < 0.05), while no significant differences were found between the Bio-Oss.C and NT groups or between the OCS-B.C and Bio-Oss.C groups. At 16 weeks, there were no significant differences among the groups. However, in the bone volume (BV) and BV/total volume (TV) analyses, both the OCS-B.C and Bio-Oss.C groups exhibited significantly higher values compared to the NT group at both 8 and 16 weeks (p < 0.0001). At 48 weeks (24 weeks after implant placement), the BMD and BV/TV values were highly sustained in two graft groups. The percentage of new bone (NB) in contact with the implant surface was similar in two graft groups, indicating comparable osseointegration performance.
+
+Histologic analysis of bone regeneration
+At 8 weeks, the graft materials remained stable within the defect areas, and early bone formation was observed in both groups. At 16 weeks, significant NB formation and almost complete integration of the graft materials were evident, with both bone grafts largely resorbed and replaced by NB. Histologically, both OCS-B.C and Bio-Oss.C demonstrated similar patterns of NB formation and integration, indicating a comparable performance. At both 8 and 16 weeks, the BV was significantly higher in the OCS-B.C and Bio-Oss.C groups than in the NT group (p < 0.05). Both grafting groups maintained buccal and lingual wall heights well at 8 and 16 weeks compared with the NT group (p < 0.001). The change in the angle was small in both grafting groups (p < 0.05).
+
+NB formation, bone-to-implant contact (BIC), and implant stability at the grafted area
+Bone formation 24 weeks after bone grafting was evaluated at the time of implant placement. The graft materials were well integrated with the NB, showing complete bone-graft contact without evidence of inflammatory infiltration. NB showed no significant differences between groups in terms of bone formation patterns. The BIC values revealed similar levels of osseointegration between the OCS-B.C and Bio-Oss.C groups, and the implant stability quotient (ISQ) values were similar in both graft groups, showing successful osseointegration.
+
+Discussion
+Both materials exhibited similar levels of NB formation and defect repair over time. OCS-B.C can be considered a viable alternative to Bio-Oss.C in terms of supporting bone regeneration and structural integrity within the defect site. The similar performance of OCS-B.C and Bio-Oss.C in maintaining BV further supported the non-inferiority of OCS-B.C. These preclinical results suggest that OCS-B.C has an osteogenic potential similar to that of Bio-Oss.C, indicating that OCS-B.C can be used effectively for GBR and subsequent implant placement.
+
+Limitations: Animal model (beagle) may not fully replicate human bone healing. Small sample (5 dogs per time point). Short- to mid-term follow-up (24 weeks post-graft, 24 weeks post-implant). Crosslinking difference (gelation in OCS-B.C vs non-crosslinked in Bio-Oss.C) not separately analyzed.
+
+Materials and Methods
+
+Animals: 13 male beagle dogs, 10-15 kg, 7-9 months, complete dentition.
+Defect model: Bilateral mandibular premolars (P2, P3, P4) extracted 4 weeks preoperatively. Box-shaped defects: 10 mm width × 3 mm length × 4 mm height.
+Groups: OCS-B.C, Bio-Oss.C, NT (non-treatment); covered with Bio-Gide® membrane.
+Implants: TS III SA (Osstem, ø3.0×8.5mm) at 24 weeks post-graft.
+Timepoints: 8, 16 weeks post-graft; 24 weeks post-implant (48 weeks from graft).
+Analyses: Micro-CT (SkyScan-1273), histomorphometry (Technovit 7200 VLC), RFA (Osstell ISQ).
+Ethics: Seoul National University IACUC, Approval No. SNU-220914-6.
