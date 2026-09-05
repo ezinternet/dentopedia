@@ -39,7 +39,7 @@ The axes are coupled: reduced flow degrades the diagnostic medium — hyposaliva
 
 ## 세줄요약
 
-10편 종합 — 침을 두 임상 축으로 정리: ① 내용물 축(살리바오믹스·엑소좀·EFIRM 액체생검, OSCC/PSA/당뇨 바이오마커, 웨어러블 구강센서), ② 유량 축(GPCR→IP3R→SOCE→아쿠아포린5(AQP5) Ca²⁺ 신호축과 그 고장인 구강건조증/타액저하).
+13편 종합 — 침을 두 임상 축으로 정리: ① 내용물 축(살리바오믹스·엑소좀·EFIRM 액체생검, OSCC/PSA/당뇨 바이오마커, 웨어러블 구강센서), ② 유량 축(GPCR→IP3R→SOCE→아쿠아포린5(AQP5) Ca²⁺ 신호축과 그 고장인 구강건조증/타액저하).
 
 침 MMP-9는 구강편평세포암(OSCC) 수술 후 588→132 ng/mL 감소; EFIRM 전기화학 센서는 40–50 µL에서 ~30분 내 EGFR ctDNA 검출; 지속성 구강건조 유병률 10–50%이며 완치약 없음; 세마글루타이드(Semaglutide, GLP-1 작용제)가 타액저하 신규 원인으로 보고됨(3례, 중단 시 가역).
 
