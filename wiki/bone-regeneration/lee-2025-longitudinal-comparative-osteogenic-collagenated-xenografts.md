@@ -4,7 +4,7 @@ authors: Dong Woo Lee, Hee-Seung Han, Yu-Bin Kim, Sanghui Seok, Sungtae Kim, Jue
 year: 2025
 date: 2025-03-26
 doi: 10.1038/s41598-025-94284-8
-source: sources/lee-2025-longitudinal-comparative-osteogenic-collagenated-xenografts.md
+source: lee-2025-longitudinal-comparative-osteogenic-collagenated-xenografts.md
 category: bone-regeneration
 evidence_level: animal
 source_collection: pubmed-text
