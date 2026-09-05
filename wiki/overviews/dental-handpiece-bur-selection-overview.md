@@ -39,7 +39,7 @@ Clinical bottom line: laser is a patient-comfort/anesthesia-reduction option, no
 
 ## 세줄요약
 
-5편 종합(핸드피스 종류·bur 종류·레이저 대안의 3축): 에어로졸/노출 축 — 에어터빈이 <1µm 미세에어로졸 압도; HVE가 4배·최대 88% 저감(Matys 2020); 임상의 85%가 bur 마모까지 재사용하나 33%만 효율 저하 인지(Sharma 2014).
+8편 종합(핸드피스 종류·bur 종류·레이저 대안의 3축): 에어로졸/노출 축 — 에어터빈이 <1µm 미세에어로졸 압도; HVE가 4배·최대 88% 저감(Matys 2020); 임상의 85%가 bur 마모까지 재사용하나 33%만 효율 저하 인지(Sharma 2014).
 
 레이저 vs bur 축 — Er,Cr:YSGG 와동형성은 bur와 미세누출 동등(Zhang 2020 SR+MA); 레이저 우식 제거는 수복물 생존·치수생활력 bur와 동등이나 마취 필요(RR 0.29)·통증(RR 0.35) 유의 감소, 단 시술 시간 증가(MD +2.23분)(Esteves-Oliveira 2025 SR+MA); 레이저 형성면은 자가부식 접착제에 산부식 추가 필요(RR=2.69).
 
