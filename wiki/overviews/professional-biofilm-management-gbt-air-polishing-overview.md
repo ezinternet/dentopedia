@@ -46,7 +46,7 @@ For implants, all non-surgical protocols improve peri-implant mucositis with no 
 
 ## 세줄요약
 
-치아·임플란트 13편 종합 — 가이드 바이오필름 치료(Guided Biofilm Therapy, GBT)·에어폴리싱은 편안함·시술시간·최소 치질 마모라는 환자 중심 이득이 있으나, 치주낭깊이(Probing Pocket Depth, PPD)·임상부착수준(Clinical Attachment Level, CAL)·탐침시출혈(Bleeding on Probing, BoP) 같은 단단한 임상지표에서는 스케일링·치근활택술(Scaling and Root Planing, SRP)/전문적 기계적 치면세균막 제거(Professional Mechanical Plaque Removal, PMPR)와 동등할 뿐 우월하지 않음(Yein 2026 SR, GRADE 매우 낮음).
+치아·임플란트 16편 종합 — 가이드 바이오필름 치료(Guided Biofilm Therapy, GBT)·에어폴리싱은 편안함·시술시간·최소 치질 마모라는 환자 중심 이득이 있으나, 치주낭깊이(Probing Pocket Depth, PPD)·임상부착수준(Clinical Attachment Level, CAL)·탐침시출혈(Bleeding on Probing, BoP) 같은 단단한 임상지표에서는 스케일링·치근활택술(Scaling and Root Planing, SRP)/전문적 기계적 치면세균막 제거(Professional Mechanical Plaque Removal, PMPR)와 동등할 뿐 우월하지 않음(Yein 2026 SR, GRADE 매우 낮음).
 
 에리스리톨(Erythritol, 14µm)이 선호 분말(세균막 제거력 동등·표면 손상 최소; Pujarern 2024); 치은연하 에어폴리싱은 드물지만 실재하는 피하기종(Subcutaneous Emphysema) 위험(Hussein 2026, 5mm 포켓·입원); 손기구가 스트로크당 백악질 손실 최대, 에어폴리싱은 초당 손실 최대 — 한 부위 장시간 적용 금지.
 
