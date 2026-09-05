@@ -1,0 +1,27 @@
+Source: PMC13350285 / PMID 41457808
+DOI: 10.1002/jper.70036
+Title: Outcomes of alveolar ridge preservation using a collagenated bovine bone xenograft: A randomized controlled trial
+Authors: Khehra A, Montesano J, Tavelli L, Chen CY, Kim DM
+Journal: Journal of Periodontology 2025; 97(6):1157-1169
+Published: 2025-12-29 (epub)
+Institution: Harvard School of Dental Medicine, Boston, MA, USA
+
+NOTE: PMC full text body unavailable; abstract-only ingest (full_text: false)
+
+=== ABSTRACT ===
+
+Background: Conventional bone augmentation for dental implants typically involves particulate grafting materials, with the addition of barrier membranes, to preserve ridge dimensions. This study compares the changes in horizontal ridge width in patients undergoing alveolar ridge preservation (ARP) with a collagenated bovine bone xenograft (BG), with and without a non-crosslinked collagen membrane (MEM).
+
+Methods: A 6-month randomized clinical trial was conducted with 20 participants requiring ARP after tooth extraction. Participants were randomly assigned to two groups: Group 1, which received BG alone, and Group 2, which received BG + MEM. Both groups were allowed to heal by secondary intention. The outcomes of interest included clinical, radiographic, and ultrasonographic changes in hard and soft tissues and histologic and histomorphometric evidence of new bone formation.
+
+Results: All enrolled participants completed the study, with a mean age of 54.25 ± 17.08 years, including 17 premolars, 1 canine, and 2 incisors. The baseline buccal bone thickness was similar between the groups (group 1: 1.02 ± 0.44 mm; group 2: 0.93 ± 0.45 mm; p=0.662). At 6 months, no significant differences were observed between the groups for:
+- Keratinized tissue width: G1 4.80 ± 1.48 mm vs G2 4.80 ± 1.14 mm (p=0.999)
+- Gingival thickness: G1 1.22 ± 0.25 mm vs G2 1.20 ± 0.35 mm (p=0.650)
+- Horizontal bone width at 3 mm from crest: G1 9.02 ± 2.09 mm vs G2 8.41 ± 1.45 mm (p=0.464)
+- Change in vertical bone at buccal aspect: G1 Δ-0.78 ± 0.59 mm vs G2 Δ-1.31 ± 1.20 mm (p=0.244)
+- Histomorphometric new bone formation: G1 25.80% ± 15.48% vs G2 27.89% ± 18.21% (p=0.803)
+- Ultrasound evaluations were consistent with clinical and radiographic measurements.
+
+Conclusion: The collagenated bone graft alone yielded comparable outcomes to its combination with a collagen membrane in areas with thick buccal bone, simplifying the treatment process by reducing costs, time, and the need for additional materials.
+
+Trial registration: ClinicalTrials.gov; Registration Number NCT05838651.
