@@ -10,6 +10,10 @@ source_papers:
   - wiki/immediate-implant/bassir-2019-early-implant-placement-protocols-sr-ma.md
   - wiki/immediate-implant/tonetti-2017-immediate-vs-delayed-implant-timing-rct.md
   - wiki/immediate-implant/meijer-2024-immediate-implant-bony-defect-10year-rct.md
+  - wiki/immediate-implant/yang-2026-immediate-vs-delayed-implants-survival-qol-rct.md
+  - wiki/immediate-implant/esthetic-soft-tissue/ickroth-2024-immediate-vs-early-implant-esthetic-zone-sr-ma.md
+  - wiki/immediate-implant/esthetic-soft-tissue/hicklin-2024-immediate-vs-early-blt-implants-pink-esthetic-pilot-rct.md
+  - wiki/immediate-implant/esthetic-soft-tissue/elaskary-2022-vst-immediate-vs-early-contour-augmentation-compromised-sockets-rct.md
 tags: [overview, placement-timing, immediate-implant, delayed-implant, ridge-preservation, ARP, ITI-type, decision-framework]
 ---
 
@@ -23,7 +27,8 @@ tags: [overview, placement-timing, immediate-implant, delayed-implant, ridge-pre
 > - **결정 동인**: 협측골판(buccal wall) 무결성, 치주표현형(periodontal phenotype, 얇음/두꺼움), 근단감염, 심미 요구도. 협측골판 손상·얇은 표현형·근단병소·고소선(high smile line) → 시점을 늦춤(Type 2/3 또는 ARP).
 > - **ARP가 즉시보다 선호되는 경우**: 협측골판이 광범위 결손·감염 소켓·심미부에서 연조직 부피 확보가 필요하고 즉시 1차안정성 확보가 불확실할 때. ARP는 결손 복잡도를 낮추고 식립 위치를 최적화하나 **추가 골유도재생(Guided Bone Regeneration, GBR) 필요를 제거하지는 못한다**(연계 페이지 [[overviews/socket-preservation-arp-overview]]).
 > - **즉시가 ARP보다 합리적인 경우**: 협측골판 온전 + 근단감염 없음 + 두꺼운 표현형 + IT ≥35 Ncm 단일치 심미증례 — 치료시간·내원횟수 단축, MBL 보존 우위, gap graft ± 결합조직이식(Connective Tissue Graft, CTG) 병행. 단 큰 골결손(≥5 mm)이라도 술자 숙련 + GBR + 지연 임시보철이면 10년 지연-동등 가능(Meijer 2024, Nassani 2025) — default 아님.
-> - **최신 근거 추가(2024–2025, 초록수준)**: Ickroth 2024(즉시 vs 조기 단일치 SR+MA), Riachi 2024(즉시/조기/지연 SR+MA), Gareb 2024(이식부위 임플란트 SR+MA), Jamil 2025(SR+MA) — 시점 간 생존 동등 명제를 보강하나 전문 미확인이라 수치는 본문 인용 보류.
+> - **신규 인제스트(2026-09-05)**: ① **Yang 2026 RCT(n=220)**: 즉시 vs 지연 1년 생존율 동등(95.45% vs 92.73%, P=0.391); 즉시 우위 — 분홍심미점수(Pink Esthetic Score, PES)·백색심미점수(White Esthetic Score, WES)·구강건강관련 삶의 질(OHIP-14)·환자만족도(VAS) 전 영역 유의하게 우수. ② **Ickroth 2024 SR+MA(Cosyn group, 6 RCT, n=222)**: 단일치 즉시(Immediate Implant Placement, IIP) vs 조기(Early Implant Placement, EIP) — 연조직·PES·생존율·변연골소실(Marginal Bone Loss, MBL) 모두 유의차 없음(저근거 수준; 4/6 RCT high RoB); Asghar 2023 대체. ③ **Hicklin 2024 파일럿 RCT(n=60, 5기관)**: 즉시 vs 조기 BLT 임플란트 — 골수준·임플란트안정성지수(ISQ)·핑크심미 동등. ④ **Elaskary 2022 RCT(n=40)**: 협측연조직(Vestibular Socket Therapy, VST)+즉시식립 vs 조기식립+외형증대 — 협박 연조직 변화 유의하게 적음(−0.53 vs −1.87 mm, p<0.001).
+> - **초록수준 잔존(전문 미인제스트)**: Riachi 2024(즉시/조기/지연 SR+MA), Gareb 2024(이식부위 SR+MA), Jamil 2025(SR+MA) — 생존 동등 명제 방향 보강, 수치 인용 보류.
 > - **임상 takeaway**: 시점 선택은 "더 빠른가"가 아니라 "이 환자·이 소켓·이 조건에서 안전한 최조기 시점은 언제인가"(Thoma 2026)다. 생존은 시점 무관 → 협측골·표현형·감염·심미요구로 결정하라.
 
 ## Three-line Summary
@@ -73,13 +78,16 @@ The decision drivers, then, are anatomical and biological — **buccal-wall inte
 | [[immediate-implant/bineviciute-2024-attitudes-surgeons-immediate-implant-survey]] | cross-sectional | 186 clinicians | Real-world criterion: periapical lesion >5 mm is the dominant contraindication to immediate. | cross-sectional |
 | [[immediate-implant/esthetic-soft-tissue/chen-2014-esthetic-outcomes-immediate-early-implant]] | (esthetic review) | esthetic zone | Esthetic outcomes by timing; early placement favorable risk profile. | narrative-review |
 | [[immediate-implant/esthetic-soft-tissue/buser-2017-implant-placement-timing-post-extraction-esthetic]] | narrative-review | esthetic zone | Canonical "when immediate, when early, when late?" decision framework. | narrative-review |
-| Ickroth 2024 (Clin Oral Implants Res, SR+MA immediate vs early single tooth, PMID 38558205) | SR+MA | single-tooth, immediate vs early | **Abstract-only — full text not retrieved.** Compares immediate vs early single-tooth placement; reinforces the timing-equivalence question. Numbers withheld pending full text. | sr+ma |
-| Riachi 2024 (Int J Oral Maxillofac Implants, SR+MA, PMID 38290015) | SR+MA | immediate / early / delayed | **Abstract-only — full text not retrieved.** Three-arm timing comparison. Numbers withheld pending full text. | sr+ma |
-| Gareb 2024 (Int J Oral Maxillofac Surg, SR+MA, PMID 39490354) | SR+MA | implants in grafted sites | **Abstract-only — full text not retrieved.** Outcomes of implants placed in grafted (incl. ridge-preserved/augmented) sites — relevant to the ARP-then-delayed arm. Numbers withheld pending full text. | sr+ma |
-| Jamil 2025 (Evid Based Dent, SR+MA, PMID 39910220) | SR+MA | placement timing | **Abstract-only — full text not retrieved.** Recent SR+MA on placement timing. Numbers withheld pending full text. | sr+ma |
+| [[immediate-implant/esthetic-soft-tissue/ickroth-2024-immediate-vs-early-implant-esthetic-zone-sr-ma]] | SR+MA (Cosyn group, COIR 2024) | 6 RCTs, n=222, single-tooth esthetic zone | IIP vs EIP: no significant difference in soft tissue, PES, survival, or MBL (low-certainty; high RoB in 4/6 RCTs, search to Feb 2023). Supersedes Asghar 2023 on this comparison. | sr+ma |
+| [[immediate-implant/yang-2026-immediate-vs-delayed-implants-survival-qol-rct]] | RCT | n=220 (110/110), 1-yr, single-center | IIP vs delayed: survival equivalent (95.45% vs 92.73%, P=0.391). Immediate superior in PES, WES, OHIP-14, VAS satisfaction (all P<0.05). No MBL data. | rct |
+| [[immediate-implant/esthetic-soft-tissue/hicklin-2024-immediate-vs-early-blt-implants-pink-esthetic-pilot-rct]] | Pilot RCT | n=60, 5 centers, 12-mo | Immediate vs early BLT implants: equivalent bone levels, ISQ, and pink esthetic score at 12 months. | rct |
+| [[immediate-implant/esthetic-soft-tissue/elaskary-2022-vst-immediate-vs-early-contour-augmentation-compromised-sockets-rct]] | RCT | n=40, 1-yr, compromised sockets | VST (immediate + vestibular GBR) vs early + contour augmentation: VST significantly less mid-facial ST change (−0.53 vs −1.87 mm, p<0.001) in compromised sockets. | rct |
+| Riachi 2024 (Int J Oral Maxillofac Implants, SR+MA, PMID 38290015) | SR+MA | immediate / early / delayed | **Abstract-only — full text not ingested.** Three-arm timing comparison. Numbers withheld. | sr+ma |
+| Gareb 2024 (Int J Oral Maxillofac Surg, SR+MA, PMID 39490354) | SR+MA | implants in grafted sites | **Abstract-only — full text not ingested.** Outcomes in grafted sites — relevant to ARP-then-delayed arm. | sr+ma |
+| Jamil 2025 (Evid Based Dent, SR+MA, PMID 39910220) | SR+MA | placement timing | **Abstract-only — full text not ingested.** | sr+ma |
 
 > [!note] Abstract-only entries
-> The four 2024–2025 SR+MAs (Ickroth, Riachi, Gareb, Jamil) are cited by author/year/journal/PMID at abstract level only — full texts are not yet held in the wiki, so their effect sizes are **not** quoted (Rule #1 / no-invented-numbers). They are recorded here so that when their PDFs are ingested, the page can be upgraded from a warm assembly. They directionally reinforce the survival-equivalence and timing-trade-off theses above.
+> Three 2024–2025 SR+MAs (Riachi, Gareb, Jamil) are cited by author/year/journal/PMID at abstract level only — full texts are not yet held in the wiki, so their effect sizes are **not** quoted (Rule #1 / no-invented-numbers). Ickroth 2024 has been fully ingested (2026-09-05) and moved to a linked wiki row above.
 
 ## Clinical Decision Points
 
@@ -104,7 +112,9 @@ The decision drivers, then, are anatomical and biological — **buccal-wall inte
 
 - **Few head-to-head RCTs** isolate early vs immediate vs delayed with standardized esthetic endpoints; "early" (Type 2 vs Type 3) is inconsistently defined across studies.
 - **IIP-vs-ARP direct comparisons** remain limited (Fan 2024 pooled only 11 RCTs, n=701) and heterogeneous on graft material and follow-up; long-term (≥10 y) IIP-vs-ARP esthetic/biological stability data are thin.
-- **Four recent SR+MAs (Ickroth 2024, Riachi 2024, Gareb 2024, Jamil 2025) are abstract-only** in the wiki — ingesting their full texts will let this page move from directional reinforcement to quantified synthesis.
+- **Yang 2026 (n=220 RCT) adds patient-centered outcomes** (OHIP-14, PES, WES) to the survival-equivalence story, but is single-center (China) with only 1-year follow-up and no MBL data — long-term and multi-ethnic replication needed.
+- **Ickroth 2024 SR+MA (IIP vs EIP, 6 RCTs n=222)** confirms no significant difference in PES/soft tissue/survival, but GRADE certainty is low and 4/6 RCTs have high RoB — a powered, well-controlled RCT on IIP vs EIP esthetic outcomes is still lacking.
+- **Three recent SR+MAs (Riachi 2024, Gareb 2024, Jamil 2025) are abstract-only** in the wiki — ingesting their full texts will quantify the multi-arm timing comparison and the ARP-then-delayed arm.
 - **Patient-reported outcomes rarely differ by timing** despite clinical/esthetic differences (Tonetti 2017); PROM/CROM reporting is not standardized (Pannuti 2026) — better instruments are needed.
 - **AI + CBCT risk stratification** for personalized "safe earliest placement" (Thoma 2026) is an emerging but unvalidated direction.
 
