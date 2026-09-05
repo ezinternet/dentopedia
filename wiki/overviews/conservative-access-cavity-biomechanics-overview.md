@@ -44,7 +44,7 @@ The costs, unlike the benefit, are unconditional and reproduce across tooth type
 
 ## 세줄요약
 
-논문 9편(네트워크 메타분석 1·쌍대 메타분석 2·체계적 고찰 3·통제 체외연구 3) 종합 — 보존적 접근와동 (Conservative Endodontic Cavity, CEC) 생역학의 겉보기 모순을 해소: 풀링 분석은 CEC가 전통 접근와동 (Traditional Endodontic Cavity, TEC)보다 파절저항이 유의하게 높다고 보고하는 반면(Motiwala 2022 — 누적순위곡선하면적 (Surface Under the Cumulative Ranking, SUCRA) 51.4% vs 15.3%, 약 562 N 차이, 대구치 10편 n=456; Mrinalini 2024 — 표준화평균차 (Standardized Mean Difference, SMD) 2.61, 95% CI 1.47–3.74, p<0.001, 14편), 가장 잘 통제된 개별 체외연구 3편은 파절저항 차이를 전혀 찾지 못했다(Barbosa 2020·Lima 2021·Rover 2020, 모두 P>0.05).
+논문 12편(네트워크 메타분석 1·쌍대 메타분석 2·체계적 고찰 3·통제 체외연구 3) 종합 — 보존적 접근와동 (Conservative Endodontic Cavity, CEC) 생역학의 겉보기 모순을 해소: 풀링 분석은 CEC가 전통 접근와동 (Traditional Endodontic Cavity, TEC)보다 파절저항이 유의하게 높다고 보고하는 반면(Motiwala 2022 — 누적순위곡선하면적 (Surface Under the Cumulative Ranking, SUCRA) 51.4% vs 15.3%, 약 562 N 차이, 대구치 10편 n=456; Mrinalini 2024 — 표준화평균차 (Standardized Mean Difference, SMD) 2.61, 95% CI 1.47–3.74, p<0.001, 14편), 가장 잘 통제된 개별 체외연구 3편은 파절저항 차이를 전혀 찾지 못했다(Barbosa 2020·Lima 2021·Rover 2020, 모두 P>0.05).
 
 모순은 풀링 모형이 층화하지 않은 조절변수 3개에서 풀린다: ① 변연능선 (Marginal Ridge) 상태 — CEC·트러스 (Truss)는 **능선이 모두 온전할 때만** TEC보다 유의하게 강하고 1개라도 소실되면 이득이 소멸(Ballester 2021, 33편), Mrinalini의 이질성 (Heterogeneity) I²=92%가 바로 이 미모형화 조절변수의 서명; ② 수복 상태 — 무효과 3편은 모두 수복 후 하중을 걸었고 수복만으로 건전치 강도의 약 72%가 회복되어(Saeed 2021) 접근구 차이를 덮음; ③ 치아 위치 — 하악 대구치에서는 이득이 보이고 상악에서는 안 보임(Saeed 2021, 10편 중 4편만 양성).
 
