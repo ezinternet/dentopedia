@@ -2,7 +2,7 @@
 title: "즉시식립 (general) — immediate-implant"
 authors: navigation
 year: 2026
-date: 2026-08-29
+date: 2026-09-05
 doi: N/A
 source: navigation
 category: immediate-implant
@@ -16,21 +16,21 @@ tags: [navigation, category-index, immediate-implant]
 > - **분야**: 즉시식립 (general)
 > - **범위**: Immediate (type 1) implant placement — foundational socket-healing & post-extraction dimensional change (Araujo/Botticelli/Covani), placement-timing immediate-vs-delayed evidence (the category's defining axis) & overall survival/outcome SRs, flap-vs-flapless, full-arch/edentulous, and cross-cutting …
 > - **하위 카테고리**: [[anatomic-assessment]] · [[esthetic-soft-tissue]] · [[gap-grafting]] · [[infected-socket]] · [[loading-protocol]] · [[molar-septum]] · [[primary-stability]] · [[root-analog]] · [[socket-shield]]
-> - **수록 논문**: 34편
+> - **수록 논문**: 35편
 
 ## Three-line Summary
 
 **Scope**: Immediate (type 1) implant placement — foundational socket-healing & post-extraction dimensional change (Araujo/Botticelli/Covani), placement-timing immediate-vs-delayed evidence (the category's defining axis) & overall survival/outcome SRs, flap-vs-flapless, full-arch/edentulous, and cross-cutting modifiers lacking their own subcategory (systemic/diabetic, digital-guided accuracy, immediate+sinus-elevation adjunct, postoperative infection).
-**Indexed papers**: 34 papers in `wiki/immediate-implant/`.
+**Indexed papers**: 35 papers in `wiki/immediate-implant/`.
 **Sub-categories**: [[anatomic-assessment]], [[esthetic-soft-tissue]], [[gap-grafting]], [[infected-socket]], [[loading-protocol]], [[molar-septum]], [[primary-stability]], [[root-analog]], [[socket-shield]]
 
 ## 세줄요약
 
 **분야**: 즉시식립 (general)
-**수록 논문**: 34편
+**수록 논문**: 35편
 **하위 카테고리**: anatomic-assessment, esthetic-soft-tissue, gap-grafting, infected-socket, loading-protocol, molar-septum, primary-stability, root-analog, socket-shield
 
-## Papers in this Category (34)
+## Papers in this Category (35)
 
 | Paper |
 |---|
@@ -68,6 +68,7 @@ tags: [navigation, category-index, immediate-implant]
 | [[thoma-2026-timing-dental-implant-placement-past|Implant Placement Timing: The Past, the Present, the Future (ITI Type 1–4)]] |
 | [[tonetti-2017-immediate-vs-delayed-implant-timing-rct|Immediate versus delayed implant placement after anterior single tooth extraction: the timing randomized controlled clinical trial]] |
 | [[xing-2024-accuracy-immediate-implantation-digital-guided|The Accuracy of Immediate Implantation Guided by Digital Templates and Potential Influencing Factors: A Systematic Review]] |
+| [[yang-2026-immediate-vs-delayed-implants-survival-qol-rct|Yang 2026 — Immediate vs Delayed Implants: Survival, QoL, Patient Satisfaction RCT]] |
 
 ## Sub-categories
 
