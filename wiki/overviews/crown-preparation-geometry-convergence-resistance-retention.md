@@ -41,7 +41,7 @@ Clinical bottom line: avoid prophylactic auxiliary features when geometry is alr
 
 ## 세줄요약
 
-15편 종합(core 9편 + 추가 6편): 권장 vs 임상 TOC — Shillingburg 6° 이상치는 도달 불가능, Tiu 2015 SR 권장 10–22°, 임상 개원의(두바이) MD 24.6°/BL 32.6°로 over-taper, 학생 preclinical ~12°; 치아별 민감도(견치·대구치: 8° 증가 시 유지력 ~40% 감소; 소구치: 비유의); 보조 유지형의 trade-off(grooves/holes retention +35~50%이나 marginal float 2~3배 악화, Yang 2015).
+22편 종합(core 9편 + 추가 6편): 권장 vs 임상 TOC — Shillingburg 6° 이상치는 도달 불가능, Tiu 2015 SR 권장 10–22°, 임상 개원의(두바이) MD 24.6°/BL 32.6°로 over-taper, 학생 preclinical ~12°; 치아별 민감도(견치·대구치: 8° 증가 시 유지력 ~40% 감소; 소구치: 비유의); 보조 유지형의 trade-off(grooves/holes retention +35~50%이나 marginal float 2~3배 악화, Yang 2015).
 
 디지털 재구성: retention을 돕는 기하 선택(단순 형태·큰 TOC·chamfer·치은연상 finish line)이 IOS 스캔 정확도도 높임(Revilla-León 2025 SR); finish line 오류는 가장 흔한 prep 오류이자 디지털 적합을 가장 망치는 변수; 3D 프린팅 임시 크라운은 밀링 대비 유지력 2~3배 우위(Alqarawi 2024).
 
