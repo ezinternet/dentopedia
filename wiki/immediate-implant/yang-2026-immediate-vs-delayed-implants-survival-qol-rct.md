@@ -2,6 +2,9 @@
 title: "Yang 2026 — Immediate vs Delayed Implants: Survival, QoL, Patient Satisfaction RCT"
 category: immediate-implant
 stem: yang-2026-immediate-vs-delayed-implants-survival-qol-rct
+source: yang-2026-immediate-vs-delayed-implants-survival-qol-rct.md
+pdf_path: /Users/oracleneo/llm-wiki/papers/yang-2026-immediate-vs-delayed-implants-survival-qol-rct.txt
+pdf_filename: yang-2026-immediate-vs-delayed-implants-survival-qol-rct.txt
 year: 2026
 authors: Yang Y, Zhou S, Ma Y, Wang X, Chen J, Dong Q
 journal: Oral Health & Preventive Dentistry
