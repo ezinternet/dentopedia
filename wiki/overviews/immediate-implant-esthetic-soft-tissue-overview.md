@@ -35,6 +35,9 @@ source_papers:
   - wiki/immediate-implant/esthetic-soft-tissue/kinaia-2017-soft-tissue-changes-around.md
   - wiki/immediate-implant/esthetic-soft-tissue/weigl-2016-impact-immediately-placed-restored.md
   - wiki/immediate-implant/esthetic-soft-tissue/lambert-2025-soft-tissue-augmentation-immediate-implant-sr.md
+  - wiki/immediate-implant/esthetic-soft-tissue/ickroth-2024-immediate-vs-early-implant-esthetic-zone-sr-ma.md
+  - wiki/immediate-implant/esthetic-soft-tissue/hicklin-2024-immediate-vs-early-blt-implants-pink-esthetic-pilot-rct.md
+  - wiki/immediate-implant/esthetic-soft-tissue/elaskary-2022-vst-immediate-vs-early-contour-augmentation-compromised-sockets-rct.md
 tags: [palatal-positioning, sagittal-root-position, emergence-angle, placement-timing, volumetric-analysis, gingival-biotype, socket-grafting]
 ---
 
@@ -127,6 +130,9 @@ The synthesis: **case selection sets the ceiling; technique fills the room under
 | [[immediate-implant/esthetic-soft-tissue/girlanda-2019-deproteinized-bovine-bone-derived-collagen]] | RCT (6 mo) | 22 | DBBM+C socket graft + immediate provisionalization: significantly greater soft-tissue height (MB & DB sites) and buccolingual ridge width vs no graft | rct |
 | [[immediate-implant/esthetic-soft-tissue/kinaia-2017-soft-tissue-changes-around]] | SR+MA (12 studies, ≥12-mo post-loading) | — | Thick biotype: MFR MD −0.478 mm, PH MD −0.287 mm vs thin (both P<0.001); immediate provisional: PH MD −0.519 mm (P=0.028) — biotype is the dominant soft-tissue predictor [*partial supersession noted*] | sr+ma |
 | [[immediate-implant/esthetic-soft-tissue/weigl-2016-impact-immediately-placed-restored]] | SR (17 studies) | 626 IIPR / 609 pts | Success 97.96%, survival 98.25% (mean 31.2 mo); MML change <0.95 mm; 65.6% flapless; jump space 1.38–2.25 mm — high outcomes under strict patient selection | sr |
+| [[immediate-implant/esthetic-soft-tissue/ickroth-2024-immediate-vs-early-implant-esthetic-zone-sr-ma]] | SR+MA (Cosyn group, COIR 2024) | 6 RCTs, n=222, esthetic zone | IIP vs EIP: no significant difference in soft tissue, PES, survival, or MBL (low-certainty; high RoB in 4/6 RCTs, search to Feb 2023). Supersedes [[immediate-implant/esthetic-soft-tissue/asghar-2023-immediate-vs-early-implant-esthetic-zone-sr-ma]] on this question. | sr+ma |
+| [[immediate-implant/esthetic-soft-tissue/hicklin-2024-immediate-vs-early-blt-implants-pink-esthetic-pilot-rct]] | Pilot RCT | n=60, 5 centers, 12-mo | Immediate vs early BLT implants: equivalent bone levels, ISQ, and pink esthetic score; no superiority of either timing on esthetic outcomes | rct |
+| [[immediate-implant/esthetic-soft-tissue/elaskary-2022-vst-immediate-vs-early-contour-augmentation-compromised-sockets-rct]] | RCT | n=40, 1-yr, compromised sockets | VST (immediate + vestibular GBR) vs early + contour augmentation: mid-facial ST change −0.53 vs −1.87 mm (p<0.001); VST significantly less recession in compromised sockets | rct |
 
 ## Clinical Decision Points
 
@@ -198,7 +204,13 @@ Assess buccal wall + biotype + infection + gap **before** committing.
 
 ### 신규 ingest cluster (2026-07-15)
 
-- [[immediate-implant/esthetic-soft-tissue/asghar-2023-immediate-vs-early-implant-esthetic-zone-sr-ma]] — SR+MA (6 RCTs, esthetic zone): immediate vs early — no difference in bone level (MD 0.10) or PD (both P>0.05) but early had better Pink Esthetic Score (P<0.05) — bone equal, esthetics slightly favor early (indicative)
+- [[immediate-implant/esthetic-soft-tissue/asghar-2023-immediate-vs-early-implant-esthetic-zone-sr-ma]] — SR+MA (6 RCTs, esthetic zone): IIP vs EIP — bone level·PD 유의차 없음, PES는 조기 유리(P<0.05). ⚠️ **Superseded by Ickroth 2024** (later search date, Cosyn group, COIR; IIP vs EIP 동주제 최신 SR+MA)
+
+### 신규 ingest cluster (2026-09-05) — 즉시 vs 조기 직접비교 3편
+
+- [[immediate-implant/esthetic-soft-tissue/ickroth-2024-immediate-vs-early-implant-esthetic-zone-sr-ma]] — SR+MA(Cosyn group, 6 RCT, n=222, COIR 2024, search Feb 2023): 단일치 심미구역 IIP vs EIP — 연조직·PES·생존율·MBL 모두 유의차 없음(저근거; 4/6 RCT high RoB). Asghar 2023 대체. **핵심 takeaway**: "조기가 즉시보다 심미적으로 낫다"는 통념을 현재 SR+MA가 지지하지 않음(Asghar 2023 PES 이점은 이 더 넓은 풀에서 사라짐)
+- [[immediate-implant/esthetic-soft-tissue/hicklin-2024-immediate-vs-early-blt-implants-pink-esthetic-pilot-rct]] — 파일럿 RCT(n=60, 5기관, 12개월): 즉시 vs 조기 BLT 임플란트 — 골수준·ISQ·분홍심미점수(Pink Esthetic Score, PES) 동등
+- [[immediate-implant/esthetic-soft-tissue/elaskary-2022-vst-immediate-vs-early-contour-augmentation-compromised-sockets-rct]] — RCT(n=40, 1년, 불량 소켓): 협측연조직술(Vestibular Socket Therapy, VST)+즉시식립 vs 조기+외형증대 — 중안모 연조직 변화 −0.53 vs −1.87 mm(p<0.001). **적용 맥락**: 불량(compromised) 소켓에 즉시식립을 선택할 경우 vestibular GBR 병행이 조기식립 대비 연조직 보존에 우위
 
 ### 신규 통합 (2026-07-26) — 골소실·팔라탈 포지셔닝 세부화
 
