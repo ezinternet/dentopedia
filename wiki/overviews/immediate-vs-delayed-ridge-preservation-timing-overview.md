@@ -33,7 +33,7 @@ tags: [overview, placement-timing, immediate-implant, delayed-implant, ridge-pre
 
 ## Three-line Summary
 
-Synthesis of 6 papers on post-extraction implant placement timing: across the ITI Type 1–4 spectrum (immediate → early soft-tissue → early partial-bone → delayed), survival is equivalent (Patel 2023 SR+MA: 97.4% immediate vs 97.5% delayed, RR 0.99, 95% CI 0.96–1.02, I²=0%), so the decision turns on MBL, esthetic, complication, and treatment-time trade-offs.
+Synthesis of 15 papers on post-extraction implant placement timing: across the ITI Type 1–4 spectrum (immediate → early soft-tissue → early partial-bone → delayed), survival is equivalent (Patel 2023 SR+MA: 97.4% immediate vs 97.5% delayed, RR 0.99, 95% CI 0.96–1.02, I²=0%), so the decision turns on MBL, esthetic, complication, and treatment-time trade-offs.
 
 Direct IIP-vs-ARP SR+MA (Fan 2024, 11 RCTs, n=701) shows immediate placement preserves marginal bone better (non-molar MD −0.36 mm, molar −0.41 mm) but causes more postoperative complications, while PES, failure, width change, and satisfaction are equivalent; Tonetti 2017 RCT (n=124) shows immediate concentrates biological risk (augmentation 72% vs 44%, wound failure 26% vs 5%, inadequate PES 42% vs 19%); early (Type 2/3) placement matches failure rates while losing less MBL than immediate (Bassir 2019 SR+MA, WMD −0.14 mm).
 
@@ -41,7 +41,7 @@ The real decision drivers are buccal-wall integrity, periodontal phenotype, peri
 
 ## 세줄요약
 
-발치 후 식립 시점 6편 종합: ITI Type 1–4 전반에서 생존율은 대체로 동등(Patel 2023 SR+MA: 즉시 97.4% vs 지연 97.5%, RR 0.99, I²=0%)하므로 결정은 MBL·심미·합병증·치료시간 trade-off로 내린다.
+발치 후 식립 시점 15편 종합: ITI Type 1–4 전반에서 생존율은 대체로 동등(Patel 2023 SR+MA: 즉시 97.4% vs 지연 97.5%, RR 0.99, I²=0%)하므로 결정은 MBL·심미·합병증·치료시간 trade-off로 내린다.
 
 IIP vs ARP 직접 비교(Fan 2024, 11 RCT, n=701): IIP가 변연골 보존(대구치 MD −0.41 mm)에 우위이나 술후 합병증 더 많고 PES·실패·폭·만족도는 동등; Tonetti 2017 RCT(n=124)에서 즉시는 골증대 72%·창상실패 26%·불량 PES 42%로 위험 집중; 조기(Type 2/3)는 실패율 동등에 MBL 더 적다(Bassir 2019, WMD −0.14 mm).
 
