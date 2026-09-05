@@ -346,6 +346,7 @@ tags: []
 - [[implants/vitamin-d/dulinska-2025-vitamin-d3-soft-tissue-bone-preservation]] — Dulinska-Litewka 2025 · retrospective · 환자 72명/임플란트 115개, 비타민 D 결핍군 주위 골소실 유의 증가 + 연조직 두께는 비타민 D 상태와 무관하게 변연골 보존에 독립적 영향 (DOI 10.17219/dmp/179004)
 
 ## 골재생 (Bone Regeneration / Ridge Preservation)
+- [[bone-regeneration/lee-2025-longitudinal-comparative-osteogenic-collagenated-xenografts]] — Lee 2025 · animal(beagle) · OCS-B Collagen®(NIBEC, 한국) vs Bio-Oss® Collagen 비글견 GBR 직접비교: BV·BV/TV·BIC·ISQ 전 지표 동등 → 한국산 DBBM-C 비열등성 확인 [PMC전문]
 - [[bone-regeneration/ridge-preservation/xu-2026-demineralized-dentin-matrix-versus-xenograft-arp-rct]] — Xu 2026 · rct · 탈회상아질기질(DDM) vs 이종골 ARP(n=50): DDM 초기흡수 빠르나 6개월 차원안정성 동등·조직통합 우수
 - [[bone-regeneration/ridge-preservation/yu-2026-bone-particle-size-arp-periodontally-compromised-molars]] — Yu 2026 · retrospective · 중증치주염 대구치 DBBM ARP(96): 대입자(1–2mm) 중심골높이 비유의 증가경향(P=.077), 입자크기보다 소켓무결성 중요
 - [[bone-regeneration/ridge-preservation/hartmann-2026-bio-oss-collagen-ridge-preservation-cbct-cohort]] — Hartmann 2026 · retrospective · Bio-Oss Collagen ARP 후에도 잔여 골흡수 3~18%(상악대구치 최대), 78/80 추가증대 없이 임플란트
