@@ -4068,9 +4068,13 @@ tags: []
 - [[immediate-implant/mello-2017-immediate-fresh-extraction-vs-delayed-healed-socket-sr-ma]] — SR+MA (30 studies, 3,049 implants/1,435명, PROSPERO CRD42016043309): 즉시식립 vs 지연식립 생존율 비교 — 지연 98.38% vs 즉시 95.21% 유의차(p=.001), MBL·ISQ·PPD는 유의차 없음 [sr+ma, abstract-only] ⚠️ superseded by garcia-sanchez-2022
 - [[immediate-implant/garcia-sanchez-2022-immediate-vs-delayed-implant-placement-sr-ma]] — SR+MA (Clin Oral Implants Res 2022; Q1: 6 RCTs, Q2: 53 studies/22 RCT+11 CCT+20 case series, search to Nov 2019): Q1 no survival difference immediate vs delayed, but immediate favored for 1-year MBL and PES; Q2 immediate implants 97% survival, PES 10.36–11.25; immediate carries 3x early/2x delayed complications despite equal survival [sr+ma, abstract-only]
 - [[immediate-implant/pommer-2021-maxillary-single-tooth-timing-protocols-sr-ma]] — SR+MA (COIR 2021 Suppl 21, 7 controlled trials + 29 pooled studies/965 implants): 상악 심미부위 단일치아 임플란트 ≥3년 장기결과 — 식립 타이밍(IP/EP/DP)×부하 타이밍(IL/EL/DL) 교차비교에서 모든 조합 유의차 없음(IPIL vs IPDL p=.306 등), 조합 매트릭스 전체 메타분석엔 근거 부족 [sr+ma, abstract-only]
+- [[immediate-implant/yang-2026-immediate-vs-delayed-implants-survival-qol-rct]] — RCT n=220, 1-year: immediate vs delayed — survival equivalent (95.45% vs 92.73%, NS); immediate superior in PES, WES, OHIP-14, patient satisfaction
 
 ### immediate-implant/esthetic-soft-tissue
 - [[immediate-implant/esthetic-soft-tissue/asghar-2023-immediate-vs-early-implant-esthetic-zone-sr-ma]] — SR+MA (RCT only, Evid Based Dent 2023;24(2):93, 6 RCTs): 심미부위 즉시식립(IIP) vs 조기식립(EIP) 직접비교 — 수직 골레벨·치은열구탐침깊이 동등(둘 다 P>0.05), 핑크심미점수(PES)는 EIP 유의 우위(P<0.05); 압축형 근거요약 포맷(6 RCT)이라 결론은 지시적 수준 [sr+ma, abstract-only]
+- [[immediate-implant/esthetic-soft-tissue/ickroth-2024-immediate-vs-early-implant-esthetic-zone-sr-ma]] — Cosyn group SR+MA, 6 RCTs n=222: IIP vs EIP in esthetic zone — no significant difference in soft tissue, PES, survival, or marginal bone (low-certainty; high RoB in 4/6 RCTs)
+- [[immediate-implant/esthetic-soft-tissue/hicklin-2024-immediate-vs-early-blt-implants-pink-esthetic-pilot-rct]] — Pilot RCT n=60, 5 centers, 12-month: immediate vs early BLT implants — equivalent bone levels, ISQ, and pink esthetics
+- [[immediate-implant/esthetic-soft-tissue/elaskary-2022-vst-immediate-vs-early-contour-augmentation-compromised-sockets-rct]] — RCT n=40, 1-year: VST (immediate+vestibular GBR) vs early+contour augmentation for compromised sockets — VST significantly less mid-facial ST change (-0.53 vs -1.87 mm, p<0.001)
 
 ## Batch ingest (added 2026-07-22) — 접근와동 설계 + 근관치료 항생제 (13편 중 12편 신규, 1편 중복)
 
