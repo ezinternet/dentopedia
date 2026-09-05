@@ -44,7 +44,7 @@ Clinical takeaway: long-term home rinse → EO (efficacy ≈ CHX, no staining, m
 
 ## 세줄요약
 
-항균 가글 7편 종합(네트워크 메타분석 1 + Cochrane 체계적 문헌고찰+메타분석 1 + 수술후 체계적 문헌고찰 1 + 무작위대조시험 4) — 가글은 기계적 위생의 보조이며 치은염·치태를 줄이지만 치주낭 깊이(Pocket Depth, PD)·부착수준(Clinical Attachment Level, CAL)은 개선하지 못한다.
+항균 가글 11편 종합(네트워크 메타분석 1 + Cochrane 체계적 문헌고찰+메타분석 1 + 수술후 체계적 문헌고찰 1 + 무작위대조시험 4) — 가글은 기계적 위생의 보조이며 치은염·치태를 줄이지만 치주낭 깊이(Pocket Depth, PD)·부착수준(Clinical Attachment Level, CAL)은 개선하지 못한다.
 
 효능 순위: 에센셜 오일(Essential Oil, EO) ≥ 클로르헥시딘(Chlorhexidine, CHX) ≥0.10% ≈ triclosan(Figuero NMA); CHX는 치태 억제 표준화평균차(Standardized Mean Difference, SMD) −1.45로 최강이지만 착색(SMD +1.07)이 아킬레스건; EO는 12주 구강 미생물 중립·dysbiosis reset(Min 2024, 산업 후원) 가능.
 
