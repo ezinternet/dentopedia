@@ -15,20 +15,20 @@ tags: [navigation, category-index, esthetic-soft-tissue]
 > [!summary] 한국어 핵심요약
 > - **분야**: 즉시식립·심미연조직
 > - **범위**: Immediate implant esthetic & soft-tissue outcomes — immediate provisionalization, connective-tissue/soft-tissue grafting (SCTG/CTG), midfacial recession & papilla, pink esthetic score, buccal-dehiscence esthetic, esthetic-zone selection criteria
-> - **수록 논문**: 63편
+> - **수록 논문**: 64편
 
 ## Three-line Summary
 
 **Scope**: Immediate implant esthetic & soft-tissue outcomes — immediate provisionalization, connective-tissue/soft-tissue grafting (SCTG/CTG), midfacial recession & papilla, pink esthetic score, buccal-dehiscence esthetic, esthetic-zone selection criteria
-**Indexed papers**: 63 papers in `wiki/immediate-implant/esthetic-soft-tissue/`.
+**Indexed papers**: 64 papers in `wiki/immediate-implant/esthetic-soft-tissue/`.
 
 ## 세줄요약
 
 **분야**: 즉시식립·심미연조직
-**수록 논문**: 63편
+**수록 논문**: 64편
 **하위 카테고리**: 없음
 
-## Papers in this Category (63)
+## Papers in this Category (64)
 
 | Paper |
 |---|
@@ -52,6 +52,7 @@ tags: [navigation, category-index, esthetic-soft-tissue]
 | [[deng-2024-posterior-open-wound-healing-immediate-implant|Posterior open wound healing in immediate implant placement using reactive soft tissue versus absorbable collagen sponge: a retrospective cohort study]] |
 | [[donker-2025-immediate-implant-provisionalization-digital-workflow-prospective|Immediate Implant Placement and Provisionalization in the Aesthetic Zone Using a Digital Workflow: A 1-Year Prospective Case Series Study]] |
 | [[dutra-2025-customized-healing-abutments-immediate-implants|Effectiveness of customized healing abutments in immediate implants: a randomized clinical trial]] |
+| [[elaskary-2022-vst-immediate-vs-early-contour-augmentation-compromised-sockets-rct|Immediate implant placement utilizing vestibular socket therapy versus early implant placement with contour augmentation for rehabilitation of compromised extraction sockets in the esthetic zone: A randomized controlled clinical trial]] |
 | [[elgendi-2025-peri-implant-soft-tissue-conditioning|Peri-implant soft tissue conditioning of immediate posterior implants by CAD-CAM socket sealing abutments: a randomized clinical trial]] |
 | [[evans-2008-esthetic-outcomes-immediate-implant|Esthetic outcomes of immediate implant placements]] |
 | [[fettouh-2024-soft-tissue-volume-midfacial-gingival-immediate-implant|Effect of soft tissue volume on midfacial gingival margin alterations following immediate implant placement in the esthetic zone: a 1-year randomized clinical and volumetric trial]] |
