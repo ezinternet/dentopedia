@@ -4,7 +4,7 @@ authors: Anahat Khehra, Joseph Montesano, Lorenzo Tavelli, Chia-Yu Chen, David M
 year: 2025
 date: 2025-12-29
 doi: 10.1002/jper.70036
-source: sources/khehra-2025-arp-xenograft-collagen-membrane-rct.md
+source: khehra-2025-arp-xenograft-collagen-membrane-rct.md
 category: bone-regeneration/ridge-preservation
 evidence_level: rct
 source_collection: pubmed-text
