@@ -60,7 +60,7 @@ Clinical bottom line: (3) AGP aerosol — air turbine disperses ~1000× the bact
 
 ## 세줄요약
 
-13편 종합: (1) 멸균/소독 — Spaulding 분류(비critical→저수준, semicritical→고수준, critical→멸균); 생물학적 지시계(BI)가 유일 공인 검증 방법; 인적 오류가 멸균 실패 1위 원인(Patiño-Marín 2025); 오토클레이브 자체도 재료·균종별 적용범위가 있어 버는 선세척 없이 단독 불충분, 균종별 잔존 미생물 상이, 열민감성 3D 프린팅 레진에는 3방법 중 굴곡강도 최저(Dioguardi 2020·Sajjanshetty 2014·Whitworth 2004·Puttaiah 2014·Go 2026).
+19편 종합: (1) 멸균/소독 — Spaulding 분류(비critical→저수준, semicritical→고수준, critical→멸균); 생물학적 지시계(BI)가 유일 공인 검증 방법; 인적 오류가 멸균 실패 1위 원인(Patiño-Marín 2025); 오토클레이브 자체도 재료·균종별 적용범위가 있어 버는 선세척 없이 단독 불충분, 균종별 잔존 미생물 상이, 열민감성 3D 프린팅 레진에는 3방법 중 굴곡강도 최저(Dioguardi 2020·Sajjanshetty 2014·Whitworth 2004·Puttaiah 2014·Go 2026).
 
 (2) DUWL 바이오필름 — 급수 <100 CFU/mL → 핸드피스 출수 최대 10⁶ CFU/mL; CDC 목표 ≤500 CFU/mL; *Legionella* 12%·*Pseudomonas* 8% 주요 병원체; 미국 치과직원 23%가 *Legionella* IgG 양성(지역사회 8% 대비); 다중 제어(공학적+절차적 flushing+화학적+자동화) 필수; 전해수는 DUWL 최대 98.1% 살균 신흥 대안(Cárdenas 2022 SR, 고 비뚤림).
 
