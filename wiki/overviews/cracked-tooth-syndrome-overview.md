@@ -44,7 +44,7 @@ Clinical bottom line: apply a Kwak-default with trigger-escalation (spontaneous 
 
 ## 세줄요약
 
-21편 종합: CTS는 종방향 파절 5-type(craze line → fractured cusp → cracked tooth → split tooth → VRF) 중 incomplete fracture 항목 — ESE Patel 2025 합의문이 표준 용어 확정 및 "CTS" 라벨 폐기 권고; 진단은 multi-modal framework 필수(정량 정확도: 투조 특이도 53.6%, 현미경 특이도 93%, QLF κ 0.66–0.74, AI AUC 0.82).
+26편 종합: CTS는 종방향 파절 5-type(craze line → fractured cusp → cracked tooth → split tooth → VRF) 중 incomplete fracture 항목 — ESE Patel 2025 합의문이 표준 용어 확정 및 "CTS" 라벨 폐기 권고; 진단은 multi-modal framework 필수(정량 정확도: 투조 특이도 53.6%, 현미경 특이도 93%, QLF κ 0.66–0.74, AI AUC 0.82).
 
 핵심 tension: Kaur 2026 umbrella + Ferracane 2023 PBRN 코호트 → "endo + 교두피개 최고 예후" 적극; Kwak 2024 JKDA + Renner 2025(개원가 55% 무증상) → "불필요한 endo 회피" 보수적; 양측 모두 교두피개(crown/onlay)는 표준으로 동의 — 수복 디자인은 최근 full crown → 보존적 onlay/inlay로 이동(Wang 2025 RCT, Gavriil 2025).
 
