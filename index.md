@@ -3670,6 +3670,7 @@ tags: []
 - [[bone-regeneration/ridge-preservation/covani-2022-alveolar-bone-remodeling-collagen-socket]] — Covani 2022 animal (micro-CT): collagen plug −4.6% vs empty socket −58.1% bone volume at 90 days; JCM [animal]
 - [[bone-regeneration/ridge-preservation/nisar-2020-collagen-plug-socket-preservation]] — Nisar 2020 prospective: collagen plug+PRP preserves height (p<0.001) but NOT width — grafting material needed for width maintenance; JODDD [prospective]
 - [[bone-regeneration/ridge-preservation/kim-2024-collagenated-xenograft-arp-rct]] — Kim 2024 RCT: DBBM-C (XenoFlex) maintains volume 84–180 days vs spontaneous healing (p=0.026); FGG seal adds horizontal crestal protection (p=0.049); ISQ ≥70 all groups [rct]
+- [[bone-regeneration/ridge-preservation/khehra-2025-arp-xenograft-collagen-membrane-rct]] — Khehra 2025 (Harvard) · rct · DBBM-C 단독 vs DBBM-C + 비가교 콜라겐막 ARP 6개월: 두꺼운 협측골에서 막 추가가 모든 지표(골폭·KTW·신생골조직)에서 이점 없음 → 막 생략 단순화 프로토콜 지지 [PMC 초록전용]
 - [[bone-regeneration/ridge-preservation/wang-2024-simplified-gbr-biocollagen-prf-posterior-ridge]] — Wang 2024 · retrospective · 단순화 GBR(Bio-collagen+PRF막) vs 고전적(Bio-Oss+Bio-Gide) 후방 Seibert Class I(n=44): 수평폭경 증가 1.50 vs 1.83mm; 협측 윤곽 Type A 우세 유사 (DOI 10.1007/s13770-024-00654-0)
 
 ### sinus-lift/lateral — graft substitute comparisons
