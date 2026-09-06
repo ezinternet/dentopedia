@@ -20,7 +20,7 @@ relations:
 Double-blind RCT (n=100, failed endodontic single-rooted teeth): periotome faster (5.78 vs 12.8 min, p<0.01) with better immediate pain control; piezotome less immediate marginal bone loss (0.083 vs 0.54 mm, p=0.007); 6-month bone loss equivalent.
 
 ## 한줄요약
-이중맹검 RCT (n=100, 근관치료 실패 단근치): 발치경이 더 빠르고(5.78 vs 12.8분, p<0.01) 즉시 통증 조절 우수; 피에조톰은 즉각 변연골 소실 더 적음(0.083 vs 0.54 mm, p=0.007); 6개월 골소실은 두 군 차이 없음.
+이중맹검 RCT (n=100, 근관치료 실패 단근치): 치주인대 분리기 (Periotome)이 더 빠르고(5.78 vs 12.8분, p<0.01) 즉시 통증 조절 우수; 피에조톰은 즉각 변연골 소실 더 적음(0.083 vs 0.54 mm, p=0.007); 6개월 골소실은 두 군 차이 없음.
 
 ## Summary
 This prospective double-blind RCT enrolled 100 patients requiring extraction of nonrestorable endodontically treated single-rooted teeth, randomized to periotome (n=50) or piezotome (n=50). Primary outcomes were operative time, postoperative pain (VAS 0–7 days), immediate marginal bone loss (Hu-Friedy probe), and 6-month bone loss (CBCT). Periotome was significantly faster (5.78 vs 12.8 min) and achieved better pain control by day 7. Piezotome produced markedly less immediate marginal bone loss (0.083 vs 0.54 mm, p=0.007), likely because it severs PDL without mechanical leverage against alveolar bone. However, at 6 months, both groups showed comparable bone resorption in height and width, suggesting that the immediate mechanical advantage of piezotome does not translate to long-term ridge preservation superiority. Authors recommend periotome as first-line for routine cases (faster, cheaper) and piezotome near neurovascular structures.
