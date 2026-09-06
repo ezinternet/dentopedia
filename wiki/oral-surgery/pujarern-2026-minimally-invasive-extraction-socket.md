@@ -24,7 +24,7 @@ Narrative review (Front Oral Health 2026): post-extraction socket healing 4-phas
 
 ## 한줄요약
 
-서술적 종합(Frontiers in Oral Health 2026): 발치와 치유 4단계 생물학·Araújo & Lindhe 조직학 데이터와 최소침습 발치 기법 10종(발치경→효소분해) 비교·치조제 보존 전략.
+서술적 종합(Frontiers in Oral Health 2026): 발치와 치유 4단계 생물학·Araújo & Lindhe 조직학 데이터와 최소침습 발치 기법 10종(치주인대 분리기 (Periotome)→효소분해) 비교·치조제 보존 전략.
 
 ## Summary
 
