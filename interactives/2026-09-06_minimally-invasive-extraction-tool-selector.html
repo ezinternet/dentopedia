@@ -1,0 +1,651 @@
+<!--
+---
+title: "최소침습 발치 기구 선택기"
+type: interactive
+date: 2026-09-06
+status: done
+category: oral-surgery
+agenda: agenda/2026-09-06_minimally-invasive-extraction-tool-selector.md
+source_wiki:
+  - wiki/oral-surgery/sharma-2022-periotome-piezotome-endodontic-extraction.md
+  - wiki/oral-surgery/chenchev-2024-benex-minimally-invasive-extraction.md
+  - wiki/oral-surgery/zhang-2022-piezosurgery-flapless-extraction-dapt.md
+  - wiki/oral-surgery/pujarern-2026-minimally-invasive-extraction-socket.md
+tags: [oral-surgery, minimally-invasive, extraction, decision-tree, chairside, periotome, piezotome, benex]
+---
+-->
+<title>발치기구 선택기</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=DM+Sans:wght@400;500;600&family=DM+Mono:wght@400;500&display=swap">
+
+<style>
+  :root {
+    --bg:          #F3F1ED;
+    --surface:     #FFFFFF;
+    --surface-2:   #ECEAE5;
+    --text:        #1C2028;
+    --text-muted:  #7A776F;
+    --border:      #D8D4CC;
+    --accent:      #4D7FA0;
+    --accent-bg:   #EBF2F7;
+    --green:       #345E47;
+    --green-bg:    #EAF2ED;
+    --amber:       #7A4F1A;
+    --amber-bg:    #F5EDDC;
+    --red:         #A84D2A;
+    --red-bg:      #FAF0EB;
+    --blue:        #2E5F84;
+    --blue-bg:     #E8F1F8;
+    --stat-font:   'DM Mono', monospace;
+    --serif:       'Fraunces', Georgia, serif;
+    --sans:        'DM Sans', system-ui, sans-serif;
+  }
+
+  *, *::before, *::after { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--sans);
+    font-size: 15px;
+    line-height: 1.6;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 20px 60px;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    * { transition: none !important; animation: none !important; }
+  }
+
+  /* Header */
+  .header {
+    text-align: center;
+    margin-bottom: 36px;
+    max-width: 560px;
+  }
+
+  .eyebrow {
+    font-family: var(--sans);
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: 10px;
+  }
+
+  h1 {
+    font-family: var(--serif);
+    font-size: clamp(1.5rem, 4vw, 2rem);
+    font-weight: 600;
+    line-height: 1.25;
+    margin: 0 0 10px;
+    color: var(--text);
+    text-wrap: balance;
+  }
+
+  .subtitle {
+    font-size: 13px;
+    color: var(--text-muted);
+    margin: 0;
+  }
+
+  /* Breadcrumb */
+  .breadcrumb {
+    display: flex;
+    gap: 6px;
+    flex-wrap: wrap;
+    justify-content: center;
+    min-height: 28px;
+    margin-bottom: 24px;
+    max-width: 560px;
+    width: 100%;
+  }
+
+  .crumb {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    font-size: 11.5px;
+    font-weight: 500;
+    color: var(--text-muted);
+  }
+
+  .crumb-pill {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    padding: 2px 10px;
+    font-size: 11.5px;
+    color: var(--text-muted);
+    white-space: nowrap;
+  }
+
+  .crumb-arrow {
+    color: var(--border);
+    font-size: 10px;
+  }
+
+  /* Card */
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    padding: 36px 40px 32px;
+    width: 100%;
+    max-width: 560px;
+    position: relative;
+    overflow: hidden;
+  }
+
+  @media (max-width: 500px) {
+    .card { padding: 28px 22px 24px; }
+  }
+
+  /* Step indicator line */
+  .card::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0;
+    width: 3px;
+    height: 100%;
+    background: var(--accent);
+    border-radius: 3px 0 0 3px;
+    transition: background 0.4s;
+  }
+
+  .card.rec-green::before  { background: var(--green); }
+  .card.rec-blue::before   { background: var(--blue); }
+  .card.rec-amber::before  { background: var(--amber); }
+
+  /* Step counter */
+  .step-label {
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+    margin-bottom: 14px;
+  }
+
+  /* Question */
+  .question {
+    font-family: var(--serif);
+    font-size: clamp(1.2rem, 3.5vw, 1.5rem);
+    font-weight: 600;
+    line-height: 1.35;
+    margin: 0 0 8px;
+    text-wrap: balance;
+    color: var(--text);
+  }
+
+  .question-en {
+    font-size: 12px;
+    color: var(--text-muted);
+    margin-bottom: 28px;
+    font-weight: 400;
+    font-style: italic;
+  }
+
+  /* Answer buttons */
+  .answers {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .answer-btn {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    background: var(--bg);
+    border: 1.5px solid var(--border);
+    border-radius: 10px;
+    padding: 14px 18px;
+    cursor: pointer;
+    text-align: left;
+    font-family: var(--sans);
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--text);
+    transition: border-color 0.18s, background 0.18s, transform 0.12s;
+    outline: none;
+  }
+
+  .answer-btn:hover {
+    border-color: var(--accent);
+    background: var(--accent-bg);
+    transform: translateX(2px);
+  }
+
+  .answer-btn:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+  }
+
+  .answer-btn:active { transform: translateX(0); }
+
+  .btn-dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    border: 1.5px solid var(--border);
+    flex-shrink: 0;
+    transition: border-color 0.18s, background 0.18s;
+  }
+
+  .answer-btn:hover .btn-dot {
+    border-color: var(--accent);
+    background: var(--accent);
+  }
+
+  /* Slide transition */
+  .slide-enter {
+    animation: slideIn 0.28s cubic-bezier(0.25, 0.46, 0.45, 0.94) forwards;
+  }
+  .slide-exit {
+    animation: slideOut 0.2s cubic-bezier(0.55, 0, 1, 0.45) forwards;
+  }
+
+  @keyframes slideIn {
+    from { opacity: 0; transform: translateX(18px); }
+    to   { opacity: 1; transform: translateX(0); }
+  }
+  @keyframes slideOut {
+    from { opacity: 1; transform: translateX(0); }
+    to   { opacity: 0; transform: translateX(-18px); }
+  }
+
+  /* Recommendation panel */
+  .rec-panel {
+    margin-top: 0;
+  }
+
+  .rec-instrument {
+    font-family: var(--serif);
+    font-size: clamp(1.4rem, 4vw, 1.9rem);
+    font-weight: 700;
+    line-height: 1.2;
+    margin: 0 0 4px;
+    color: var(--text);
+  }
+
+  .rec-instrument-en {
+    font-size: 12px;
+    color: var(--text-muted);
+    font-style: italic;
+    margin-bottom: 16px;
+  }
+
+  .rec-rationale {
+    font-size: 14px;
+    line-height: 1.6;
+    color: var(--text);
+    margin-bottom: 20px;
+  }
+
+  /* Evidence box */
+  .evidence-box {
+    border-radius: 8px;
+    padding: 14px 16px;
+    margin-bottom: 18px;
+  }
+
+  .evidence-box.green  { background: var(--green-bg);  border-left: 3px solid var(--green); }
+  .evidence-box.blue   { background: var(--blue-bg);   border-left: 3px solid var(--blue); }
+  .evidence-box.amber  { background: var(--amber-bg);  border-left: 3px solid var(--amber); }
+
+  .evidence-stat {
+    font-family: var(--stat-font);
+    font-size: 12.5px;
+    font-weight: 500;
+    color: var(--text);
+    letter-spacing: 0.01em;
+    margin-bottom: 6px;
+  }
+
+  .evidence-paper {
+    font-size: 11.5px;
+    color: var(--text-muted);
+  }
+
+  .evidence-doi {
+    font-family: var(--stat-font);
+    font-size: 10.5px;
+    color: var(--text-muted);
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 2px;
+    opacity: 0.7;
+    transition: opacity 0.15s;
+  }
+
+  .evidence-doi:hover { opacity: 1; color: var(--accent); }
+
+  /* Restart */
+  .restart-wrap {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    max-width: 560px;
+    width: 100%;
+  }
+
+  .restart-btn {
+    background: none;
+    border: 1.5px solid var(--border);
+    border-radius: 8px;
+    padding: 9px 20px;
+    font-family: var(--sans);
+    font-size: 13px;
+    font-weight: 500;
+    color: var(--text-muted);
+    cursor: pointer;
+    transition: border-color 0.15s, color 0.15s;
+    display: none;
+  }
+
+  .restart-btn.visible { display: inline-flex; align-items: center; gap: 8px; }
+  .restart-btn:hover { border-color: var(--accent); color: var(--accent); }
+
+  /* Footer note */
+  .footnote {
+    max-width: 560px;
+    width: 100%;
+    margin-top: 28px;
+    padding: 14px 18px;
+    background: var(--surface-2);
+    border-radius: 8px;
+    font-size: 11.5px;
+    color: var(--text-muted);
+    line-height: 1.6;
+  }
+
+  .footnote strong { color: var(--text); font-weight: 600; }
+
+  /* Rec badge */
+  .rec-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 10.5px;
+    font-weight: 600;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    padding: 3px 10px;
+    border-radius: 20px;
+    margin-bottom: 18px;
+  }
+
+  .rec-badge.green  { background: var(--green-bg);  color: var(--green); }
+  .rec-badge.blue   { background: var(--blue-bg);   color: var(--blue); }
+  .rec-badge.amber  { background: var(--amber-bg);  color: var(--amber); }
+
+  .badge-dot {
+    width: 6px; height: 6px;
+    border-radius: 50%;
+    background: currentColor;
+  }
+</style>
+
+<div class="header">
+  <div class="eyebrow">Clinical Decision Tool · Oral Surgery</div>
+  <h1>최소침습 발치 기구 선택기</h1>
+  <p class="subtitle">위키 근거 기반 · Periotome · Piezotome · Benex · 임상 결정 보조</p>
+</div>
+
+<div class="breadcrumb" id="breadcrumb"></div>
+
+<div class="card" id="card">
+  <div id="content"></div>
+</div>
+
+<div class="restart-wrap">
+  <button class="restart-btn" id="restartBtn" onclick="restart()">
+    <svg width="13" height="13" viewBox="0 0 13 13" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M1 6.5a5.5 5.5 0 1 0 1.2-3.4"/>
+      <polyline points="1,2 1,6.5 5.5,6.5"/>
+    </svg>
+    처음부터
+  </button>
+</div>
+
+<div class="footnote" id="footnote" style="display:none">
+  <strong>근거 출처</strong> — 이 도구는 llm-wiki 인제스트된 3편의 RCT를 기반으로 합니다:
+  Sharma et al. 2022 (Natl J Maxillofac Surg, n=100) ·
+  Chenchev et al. 2024 (Dent J Basel, n=56) ·
+  Zhang et al. 2022 (J Oral Sci, n=80 DAPT).
+  임상 판단을 대체하지 않으며, 개별 환자 상황에 따른 술자의 최종 결정을 보조합니다.
+</div>
+
+<script>
+  const TREE = {
+    'start': {
+      step: 'Q1',
+      question: '근관치료를 받은 치아입니까?',
+      en: 'Endodontically treated tooth?',
+      answers: [
+        { label: '예 — 근관치료 실패치', next: 'endo', crumb: '근관치료치' },
+        { label: '아니오 — 생활치 / 일반 발치', next: 'non-endo', crumb: '일반 발치' }
+      ]
+    },
+    'endo': {
+      step: 'Q2',
+      question: '단근치(Single-rooted)입니까?',
+      en: 'Single-rooted tooth?',
+      answers: [
+        { label: '예 — 단근치', next: 'rec-periotome-endo', crumb: '단근치' },
+        { label: '아니오 — 다근치 (대구치 등)', next: 'rec-section', crumb: '다근치' }
+      ]
+    },
+    'non-endo': {
+      step: 'Q2',
+      question: '항혈소판제(DAPT) 또는 항응고제를 복용 중입니까?',
+      en: 'Patient on dual antiplatelet therapy (DAPT) or anticoagulant?',
+      answers: [
+        { label: '예 — 아스피린+P2Y12 또는 항응고제 복용', next: 'rec-piezo-dapt', crumb: 'DAPT 복용' },
+        { label: '아니오 — 항혈전제 미복용', next: 'implant-plan', crumb: '항혈전제 없음' }
+      ]
+    },
+    'implant-plan': {
+      step: 'Q3',
+      question: '발치 즉후 임플란트 즉시 식립을 계획하고 있습니까?',
+      en: 'Immediate implant placement planned?',
+      answers: [
+        { label: '예 — 즉시 식립', next: 'rec-benex', crumb: '즉시 식립' },
+        { label: '아니오 — 지연 식립 또는 보존적 치료', next: 'nerve-prox', crumb: '지연/보존' }
+      ]
+    },
+    'nerve-prox': {
+      step: 'Q4',
+      question: '하치조신경 등 신경혈관 구조물 근접 부위입니까?',
+      en: 'Proximity to inferior alveolar nerve / neurovascular bundle?',
+      answers: [
+        { label: '예 — 신경관 근접, 주의 필요', next: 'rec-piezo-neuro', crumb: '신경 근접' },
+        { label: '아니오 — 일반 부위', next: 'rec-periotome-routine', crumb: '일반 부위' }
+      ]
+    }
+  };
+
+  const RECS = {
+    'rec-periotome-endo': {
+      color: 'green',
+      badge: '1차 권장',
+      instrument: '발치경 (Periotome)',
+      en: 'Periotome — first choice for failed endodontic single-rooted teeth',
+      rationale: '근관치료 실패 단근치의 최적 선택. 피에조톰 대비 수술 시간 절반 이하, 즉시 통증 조절 우수. 6개월 후 CBCT 골소실은 두 기구 간 유의한 차이 없음.',
+      stat: 'Op time 5.78 ± 4.0 min vs piezotome 12.8 ± 7.4 min · p<0.01\n6-mo bone loss: NS (height 3.71 vs 4.21 mm)',
+      paper: 'Sharma et al. 2022 — Double-blind RCT, n=100',
+      doi: '10.4103/njms.njms_309_21'
+    },
+    'rec-section': {
+      color: 'amber',
+      badge: '주의 필요',
+      instrument: '치근분리 후 발치경 또는 Benex',
+      en: 'Root Sectioning → Periotome or Benex per root',
+      rationale: '다근치에서 Benex 실패율 2.2배 상승, 성공률 69.7%(단근치 87.2% 대비). 치근분리 후 단근으로 접근하거나, 발치경으로 치근별 PDL 절단 권장.',
+      stat: 'Benex success: single 87.2% vs multi-rooted 69.7%\n(OR failure ×2.2, Hong et al.)',
+      paper: 'Chenchev et al. 2024 — Crossover RCT, n=56',
+      doi: '10.3390/dj12080234'
+    },
+    'rec-piezo-dapt': {
+      color: 'blue',
+      badge: '출혈 고위험 — 권장',
+      instrument: '피에조서저리 플랩리스 발치',
+      en: 'Piezosurgery (Flapless) — mandatory for DAPT patients',
+      rationale: 'DAPT 환자에서 발치기구 종류 자체가 즉시 응고의 독립적 예측인자. 피에조서저리는 정상응고(≤30분) 달성률 70% — 터빈 40% 대비 30%p 우위. 술중 합병증도 절반 수준.',
+      stat: 'Normal clotting ≤30 min: PI 70% vs TH 40% · p=0.007\nIntraop complications: 25% vs 47.5% · p=0.036\nOR prolonged bleeding (TH vs PI): 3.10 (95% CI 1.20–8.00)',
+      paper: 'Zhang et al. 2022 — RCT, n=80 DAPT patients',
+      doi: '10.2334/josnusd.22-0187'
+    },
+    'rec-benex': {
+      color: 'green',
+      badge: '즉시 식립 최적',
+      instrument: 'Benex 수직발치 시스템',
+      en: 'Benex Vertical Extractor — optimal for immediate implant sites',
+      rationale: '협측 피질골 보존율 95% vs 겸자 71.8% — 23.2%p 차이 (p<0.05). 즉시 식립 성공의 핵심 조건인 협측골 온전함을 가장 높은 확률로 달성. 수직 인출로 측방 골 압박 없음.',
+      stat: 'Buccal plate intact: Benex 95% vs forceps 71.8% · p<0.05\n10-day wound healing: 100% vs 78.6% Very Good/Excellent',
+      paper: 'Chenchev et al. 2024 — Crossover RCT, n=56',
+      doi: '10.3390/dj12080234'
+    },
+    'rec-piezo-neuro': {
+      color: 'blue',
+      badge: '신경보호 권장',
+      instrument: '피에조서저리 (Piezosurgery)',
+      en: 'Piezosurgery — preferred near neurovascular structures',
+      rationale: '초음파 선택적 절삭으로 연조직·신경조직 손상 최소화. 하치조신경관 근접 발치에서 수동 기구보다 안전한 접근. 피에조톰 열 발생(+18°C)은 주의 요하나, 직접 신경 접촉 위험은 기계적 손상 대비 낮음.',
+      stat: 'Selective hard-tissue cutting (25–32 kHz)\nSoft-tissue thermal: minimal vs conventional bur\n(Pujarern et al. 2026 — narrative review)',
+      paper: 'Sharma et al. 2022 + Pujarern et al. 2026',
+      doi: '10.4103/njms.njms_309_21'
+    },
+    'rec-periotome-routine': {
+      color: 'green',
+      badge: '1차 권장',
+      instrument: '발치경 (Periotome)',
+      en: 'Periotome — first choice for routine atraumatic extraction',
+      rationale: '빠르고(~5분) 경제적인 최소침습 발치의 기본 선택. 일반 부위 발치에서 피에조톰 대비 시간·비용 우위, 6개월 골소실은 동등. 발치 후 보존적 치료나 지연 식립 시 충분한 근거.',
+      stat: 'Op time ~5.78 min · Cost: lower vs piezotome\n6-mo bone loss: NS vs piezotome\n(Sharma et al. 2022)',
+      paper: 'Sharma et al. 2022 — Double-blind RCT, n=100',
+      doi: '10.4103/njms.njms_309_21'
+    }
+  };
+
+  let history = [];
+  let currentNode = 'start';
+
+  function render(nodeId, animate) {
+    const card = document.getElementById('card');
+    const content = document.getElementById('content');
+    const isRec = nodeId.startsWith('rec-');
+
+    card.className = 'card';
+    if (isRec) {
+      const rec = RECS[nodeId];
+      card.classList.add('rec-' + rec.color);
+    }
+
+    function show() {
+      if (isRec) {
+        renderRec(content, nodeId);
+      } else {
+        renderQuestion(content, nodeId);
+      }
+      content.classList.remove('slide-exit');
+      content.classList.add('slide-enter');
+      content.addEventListener('animationend', () => content.classList.remove('slide-enter'), { once: true });
+    }
+
+    if (animate && content.innerHTML !== '') {
+      content.classList.add('slide-exit');
+      content.addEventListener('animationend', () => { content.innerHTML = ''; show(); }, { once: true });
+    } else {
+      content.innerHTML = '';
+      show();
+    }
+
+    renderBreadcrumb();
+
+    const restartBtn = document.getElementById('restartBtn');
+    const footnote = document.getElementById('footnote');
+    if (isRec) {
+      restartBtn.classList.add('visible');
+      footnote.style.display = 'block';
+    } else {
+      restartBtn.classList.remove('visible');
+      footnote.style.display = 'none';
+    }
+  }
+
+  function renderQuestion(content, nodeId) {
+    const node = TREE[nodeId];
+    const stepNum = history.length + 1;
+    const totalSteps = 4;
+
+    content.innerHTML = `
+      <div class="step-label">단계 ${stepNum} / ${totalSteps}</div>
+      <div class="question">${node.question}</div>
+      <div class="question-en">${node.en}</div>
+      <div class="answers">
+        ${node.answers.map((a, i) => `
+          <button class="answer-btn" onclick="choose('${nodeId}', ${i})">
+            <span class="btn-dot"></span>
+            ${a.label}
+          </button>
+        `).join('')}
+      </div>
+    `;
+  }
+
+  function renderRec(content, nodeId) {
+    const rec = RECS[nodeId];
+    const statLines = rec.stat.split('\n').map(l => `<div>${l.trim()}</div>`).join('');
+
+    content.innerHTML = `
+      <div class="rec-panel">
+        <div class="rec-badge ${rec.color}">
+          <span class="badge-dot"></span>
+          ${rec.badge}
+        </div>
+        <div class="rec-instrument">${rec.instrument}</div>
+        <div class="rec-instrument-en">${rec.en}</div>
+        <div class="rec-rationale">${rec.rationale}</div>
+        <div class="evidence-box ${rec.color}">
+          <div class="evidence-stat">${statLines}</div>
+          <div class="evidence-paper">${rec.paper}</div>
+          <a class="evidence-doi" href="https://doi.org/${rec.doi}" target="_blank" rel="noopener">doi:${rec.doi} ↗</a>
+        </div>
+      </div>
+    `;
+  }
+
+  function renderBreadcrumb() {
+    const el = document.getElementById('breadcrumb');
+    if (history.length === 0) { el.innerHTML = ''; return; }
+
+    let html = '';
+    history.forEach((step, i) => {
+      if (i > 0) html += `<span class="crumb-arrow">›</span>`;
+      html += `<span class="crumb-pill">${step.crumb}</span>`;
+    });
+    el.innerHTML = html;
+  }
+
+  function choose(nodeId, answerIdx) {
+    const node = TREE[nodeId];
+    const answer = node.answers[answerIdx];
+    history.push({ nodeId, crumb: answer.crumb });
+    currentNode = answer.next;
+    render(answer.next, true);
+  }
+
+  function restart() {
+    history = [];
+    currentNode = 'start';
+    render('start', true);
+  }
+
+  render('start', false);
+</script>
