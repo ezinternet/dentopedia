@@ -1,0 +1,631 @@
+<title>최소침습 발치 기법</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap">
+<style>
+:root {
+  --bg: #EBE7DF;
+  --surface: #F8F5F0;
+  --card: #FFFFFF;
+  --text: #1A2130;
+  --text-sub: #4E5D6C;
+  --text-muted: #8294A4;
+  --border: #D4CFCA;
+  --border-s: #E8E4DF;
+  --accent: #1B5574;
+  --chip-bg: #FFFFFF;
+  --chip-border: #C8C3BC;
+  --chip-text: #3C4C5C;
+  --chip-act-bg: #1B5574;
+  --chip-act-text: #FFFFFF;
+  --pill-good-bg: #E4F2EC;
+  --pill-good-text: #1B5E3C;
+  --pill-mod-bg: #FDF0DA;
+  --pill-mod-text: #8A5810;
+  --pill-bad-bg: #FAECEC;
+  --pill-bad-text: #8A2828;
+  --pill-na-bg: #EDF0F3;
+  --pill-na-text: #5A6878;
+  --shadow: 0 1px 3px rgba(0,0,0,.07), 0 4px 14px rgba(0,0,0,.07);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0F1720;
+    --surface: #162030;
+    --card: #1C2A3A;
+    --text: #D4E0EC;
+    --text-sub: #8AA4BA;
+    --text-muted: #5A7080;
+    --border: #263646;
+    --border-s: #1E2E3C;
+    --accent: #4A9ACC;
+    --chip-bg: #1A2A3A;
+    --chip-border: #304050;
+    --chip-text: #8AA4BA;
+    --chip-act-bg: #4A9ACC;
+    --chip-act-text: #08121A;
+    --pill-good-bg: #0C2218;
+    --pill-good-text: #4ACA80;
+    --pill-mod-bg: #201808;
+    --pill-mod-text: #D4921A;
+    --pill-bad-bg: #200A0A;
+    --pill-bad-text: #E06060;
+    --pill-na-bg: #18242E;
+    --pill-na-text: #607888;
+    --shadow: 0 1px 3px rgba(0,0,0,.3), 0 4px 14px rgba(0,0,0,.2);
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0F1720; --surface: #162030; --card: #1C2A3A;
+  --text: #D4E0EC; --text-sub: #8AA4BA; --text-muted: #5A7080;
+  --border: #263646; --border-s: #1E2E3C; --accent: #4A9ACC;
+  --chip-bg: #1A2A3A; --chip-border: #304050; --chip-text: #8AA4BA;
+  --chip-act-bg: #4A9ACC; --chip-act-text: #08121A;
+  --pill-good-bg: #0C2218; --pill-good-text: #4ACA80;
+  --pill-mod-bg: #201808; --pill-mod-text: #D4921A;
+  --pill-bad-bg: #200A0A; --pill-bad-text: #E06060;
+  --pill-na-bg: #18242E; --pill-na-text: #607888;
+  --shadow: 0 1px 3px rgba(0,0,0,.3), 0 4px 14px rgba(0,0,0,.2);
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+body {
+  margin: 0; padding: 0;
+  font-family: 'Outfit', system-ui, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  min-height: 100vh;
+  font-size: 15px;
+}
+
+/* ── PAGE HEADER ── */
+.page-header {
+  background: var(--accent);
+  color: #fff;
+  padding: 28px 32px 24px;
+}
+.page-header h1 {
+  margin: 0 0 4px;
+  font-size: 1.5rem;
+  font-weight: 700;
+  letter-spacing: -.01em;
+  text-wrap: balance;
+}
+.page-header .sub {
+  margin: 0;
+  font-size: .825rem;
+  opacity: .75;
+  font-weight: 400;
+  letter-spacing: .01em;
+}
+
+/* ── FILTER BAR ── */
+.filters-wrap {
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+  padding: 18px 32px 16px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px 28px;
+  align-items: flex-start;
+}
+.filter-group { display: flex; flex-direction: column; gap: 7px; }
+.filter-label {
+  font-size: .72rem;
+  font-weight: 600;
+  letter-spacing: .07em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+}
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 4px 11px;
+  border-radius: 20px;
+  border: 1px solid var(--chip-border);
+  background: var(--chip-bg);
+  color: var(--chip-text);
+  font-size: .8rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background .15s, color .15s, border-color .15s;
+  user-select: none;
+  white-space: nowrap;
+}
+.chip:hover { border-color: var(--accent); color: var(--accent); }
+.chip.active {
+  background: var(--chip-act-bg);
+  border-color: var(--chip-act-bg);
+  color: var(--chip-act-text);
+}
+.chip .dot {
+  width: 7px; height: 7px; border-radius: 50%; flex-shrink: 0;
+}
+.filter-reset {
+  align-self: flex-end;
+  padding: 5px 14px;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+  background: transparent;
+  color: var(--text-sub);
+  font-family: 'Outfit', sans-serif;
+  font-size: .8rem;
+  cursor: pointer;
+  transition: .15s;
+}
+.filter-reset:hover { border-color: var(--accent); color: var(--accent); }
+
+/* ── RESULTS BAR ── */
+.results-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 14px 32px 0;
+}
+.results-count {
+  font-size: .8rem;
+  color: var(--text-muted);
+  font-weight: 500;
+}
+
+/* ── CARDS GRID ── */
+.cards-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 18px;
+  padding: 16px 32px 40px;
+}
+@media (max-width: 1100px) { .cards-grid { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 680px) {
+  .cards-grid { grid-template-columns: 1fr; padding: 12px 16px 32px; }
+  .filters-wrap { padding: 14px 16px 12px; }
+  .results-bar { padding: 12px 16px 0; }
+  .page-header { padding: 20px 16px 18px; }
+}
+
+.card {
+  background: var(--card);
+  border-radius: 10px;
+  box-shadow: var(--shadow);
+  border: 1px solid var(--border-s);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  transition: opacity .2s, transform .2s;
+  position: relative;
+}
+.card.hidden { display: none; }
+.card-stripe {
+  height: 4px;
+  flex-shrink: 0;
+}
+.card-top {
+  padding: 14px 16px 10px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 10px;
+}
+.mech-badge {
+  font-size: .7rem;
+  font-weight: 600;
+  padding: 3px 9px;
+  border-radius: 4px;
+  white-space: nowrap;
+  letter-spacing: .02em;
+  flex-shrink: 0;
+}
+.indication-row { display: flex; gap: 4px; flex-wrap: wrap; }
+.ind-tag {
+  font-size: .67rem;
+  padding: 2px 7px;
+  border-radius: 3px;
+  background: var(--pill-na-bg);
+  color: var(--pill-na-text);
+  font-weight: 500;
+}
+.card-name { padding: 0 16px 4px; }
+.card-name h2 {
+  font-size: 1rem;
+  font-weight: 700;
+  margin: 0 0 2px;
+  line-height: 1.3;
+  text-wrap: balance;
+}
+.card-name .name-en {
+  font-size: .78rem;
+  color: var(--text-muted);
+  font-weight: 400;
+}
+.card-desc {
+  padding: 6px 16px 12px;
+  font-size: .82rem;
+  color: var(--text-sub);
+  line-height: 1.55;
+  flex: 1;
+}
+.metrics {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 1px;
+  border-top: 1px solid var(--border-s);
+  background: var(--border-s);
+  margin-top: auto;
+}
+.metric {
+  background: var(--card);
+  padding: 10px 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+.metric-label {
+  font-size: .66rem;
+  color: var(--text-muted);
+  font-weight: 600;
+  letter-spacing: .06em;
+  text-transform: uppercase;
+}
+.metric-val {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: .8rem;
+  font-weight: 500;
+  padding: 3px 7px;
+  border-radius: 4px;
+  display: inline-block;
+  letter-spacing: -.01em;
+}
+.good { background: var(--pill-good-bg); color: var(--pill-good-text); }
+.mod  { background: var(--pill-mod-bg);  color: var(--pill-mod-text); }
+.bad  { background: var(--pill-bad-bg);  color: var(--pill-bad-text); }
+.na   { background: var(--pill-na-bg);   color: var(--pill-na-text); }
+
+.card-evidence {
+  padding: 10px 16px 14px;
+  font-size: .77rem;
+  color: var(--text-sub);
+  line-height: 1.5;
+  border-top: 1px solid var(--border-s);
+}
+.card-evidence .ev-label {
+  font-size: .67rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .07em;
+  color: var(--text-muted);
+  display: block;
+  margin-bottom: 4px;
+}
+.evivo-badge {
+  display: inline-block;
+  background: var(--pill-mod-bg);
+  color: var(--pill-mod-text);
+  font-size: .7rem;
+  font-weight: 700;
+  padding: 3px 9px;
+  border-radius: 4px;
+  margin: 0 16px 12px;
+  letter-spacing: .03em;
+}
+.contra-row { padding: 0 16px 12px; display: flex; flex-wrap: wrap; gap: 5px; }
+.contra-tag {
+  font-size: .68rem;
+  padding: 2px 8px;
+  border-radius: 3px;
+  background: var(--pill-bad-bg);
+  color: var(--pill-bad-text);
+  font-weight: 500;
+}
+.empty-state {
+  grid-column: 1 / -1;
+  text-align: center;
+  padding: 60px 20px;
+  color: var(--text-muted);
+  font-size: .9rem;
+}
+
+/* ── FOOTER ── */
+.page-footer {
+  padding: 16px 32px 24px;
+  border-top: 1px solid var(--border);
+  font-size: .75rem;
+  color: var(--text-muted);
+  background: var(--surface);
+}
+</style>
+
+<div class="page-header">
+  <h1>최소침습 발치 기법 비교</h1>
+  <p class="sub">Minimally Invasive Extraction Techniques · 10종 · Pujarern et al. 2026, Front Oral Health</p>
+</div>
+
+<div class="filters-wrap" id="filters-wrap">
+  <div class="filter-group">
+    <span class="filter-label">기전</span>
+    <div class="chips" id="mech-chips"></div>
+  </div>
+  <div class="filter-group">
+    <span class="filter-label">협측골 보존</span>
+    <div class="chips" id="buccal-chips"></div>
+  </div>
+  <div class="filter-group">
+    <span class="filter-label">발열</span>
+    <div class="chips" id="heat-chips"></div>
+  </div>
+  <div class="filter-group">
+    <span class="filter-label">적응증</span>
+    <div class="chips" id="ind-chips"></div>
+  </div>
+  <button class="filter-reset" id="reset-btn">초기화</button>
+</div>
+
+<div class="results-bar">
+  <span class="results-count" id="results-count">10종 표시</span>
+</div>
+
+<div class="cards-grid" id="cards-grid"></div>
+
+<div class="page-footer">
+  근거: Pujarern P et al. (2026) Front Oral Health 7:1834419 · DOI 10.3389/froh.2026.1834419 · PMC13507729 · Based on PubMed-retrieved article
+</div>
+
+<script>
+const MECH_META = {
+  syndes:   { label:'PDL 절단',   color:'#3E7DC4' },
+  sonic:    { label:'음파',        color:'#2A9B72' },
+  ultra:    { label:'초음파',      color:'#8058CC' },
+  percuss:  { label:'자기충격',    color:'#C47D30' },
+  lever:    { label:'지레',        color:'#C45040' },
+  axial:    { label:'수직견인',    color:'#4060CC' },
+  vestib:   { label:'전정접근',   color:'#3A9040' },
+  enzyme:   { label:'효소분해',    color:'#B8A020' },
+  partial:  { label:'부분보존',    color:'#8040A8' },
+};
+
+const BUCCAL_META = {
+  excellent: { label:'매우우수', cls:'good' },
+  good:      { label:'우수',     cls:'good' },
+  moderate:  { label:'보통',     cls:'mod'  },
+};
+const HEAT_META = {
+  none: { label:'없음', cls:'good' },
+  low:  { label:'낮음', cls:'mod'  },
+  high: { label:'높음', cls:'bad'  },
+};
+const OP_META = {
+  fast:    { label:'신속', cls:'good' },
+  moderate:{ label:'보통', cls:'mod'  },
+  slow:    { label:'느림', cls:'bad'  },
+  na:      { label:'미적용', cls:'na' },
+};
+const IND_META = {
+  single:   '단근치',
+  multi:    '복근치',
+  ankylosed:'강직치',
+  esthetic: '심미부위',
+};
+
+const data = [
+  {
+    id:1, nameKo:'발치경 (Periotome)', nameEn:'Hand Periotome',
+    mech:'syndes',
+    desc:'얇은 블레이드로 Sharpey 섬유 절단(syndesmotomy); 판막 불필요. 발치경 사용 후 forceps로 완료.',
+    buccal:'good', heat:'none', op:'fast', opData:'5.8 min',
+    ind:['single','multi'],
+    evidence:'Op time 5.8 vs 12.8 min; VAS↓; 치은 열상↓; 진통제 소비↓',
+    contra:['강직치(ankylosis)'],
+    exVivo:false
+  },
+  {
+    id:2, nameKo:'유연 발치경 (Flexible)', nameEn:'Flexible Periotome',
+    mech:'syndes',
+    desc:'유연 블레이드로 PDL 절단; 날 굴곡으로 치근부 도달 용이. Landry 치유지수 우수.',
+    buccal:'good', heat:'none', op:'fast', opData:'4.4 min',
+    ind:['single','multi'],
+    evidence:'Op time 4.43 vs 7.2 min (rigid); superior Landry wound healing index; 치은 열상 최소',
+    contra:['강직치'],
+    exVivo:false
+  },
+  {
+    id:3, nameKo:'압전수술기 (Piezotome)', nameEn:'Piezotome (Ultrasonic)',
+    mech:'ultra',
+    desc:'29–32 kHz 초음파 진동으로 경조직 선택적 절단. 협측 골판 손실 최소화 — 심미부위 최우선 선택.',
+    buccal:'excellent', heat:'high', op:'slow', opData:'가장 긴',
+    ind:['single','multi','esthetic'],
+    evidence:'협측 골손실 기법 중 최소; 발열 +18°C (식염수 관류 포함); Op time 가장 길다; 6개월 MBL 발치경과 유사',
+    contra:['페이스메이커','급성 감염','고밀도 피질골 긴급발치'],
+    exVivo:false
+  },
+  {
+    id:4, nameKo:'자기망치 (Magnetic Mallet)', nameEn:'Electric/Magnetic Mallet',
+    mech:'percuss',
+    desc:'자기 펄스로 블레이드 축방향 진동; 최소 손압. 강직치에서 협측골 보존 탁월.',
+    buccal:'excellent', heat:'low', op:'moderate', opData:'N/A',
+    ind:['single','multi','ankylosed'],
+    evidence:'강직치 427개: 협측 골판 손실 0건; conventional 18/28 vs 2/38 골판 파절; 봉합·염증 빈도↓',
+    contra:['페이스메이커','이식형 전자장치','현훈 병력'],
+    exVivo:false
+  },
+  {
+    id:5, nameKo:'SIBS (음파수술기)', nameEn:'Sonic Instrument for Bone Surgery',
+    mech:'sonic',
+    desc:'기압 구동 고주파 진동 팁으로 PDL 분리 및 치아 분단. 발열 <3°C — 골 괴사 임계(47°C) 훨씬 하회.',
+    buccal:'good', heat:'low', op:'moderate', opData:'N/A',
+    ind:['single','multi'],
+    evidence:'발열 <3°C (piezotome +18°C 대비 유리); 조직 정밀도 압전 동등; 연조직 손상 위험 낮음',
+    contra:['심한 만곡 치근','구강 개방 제한'],
+    exVivo:false
+  },
+  {
+    id:6, nameKo:'물리 포셉 (Physics Forceps)', nameEn:'Physics Forceps',
+    mech:'lever',
+    desc:'단일 1종 지레 구조; 협측 완충 지점 설치로 8배 기계적 이점. 일방향 협측 회전 → PDL 파열.',
+    buccal:'moderate', heat:'none', op:'moderate', opData:'N/A',
+    ind:['single','multi'],
+    evidence:'치관·치근 파절↓; VAS↓ day 1·3; SR+MA: 발치 시간·통증·연/경조직 손상 우수 (low certainty); 협측판 파절률은 conventional과 동등',
+    contra:[],
+    exVivo:false
+  },
+  {
+    id:7, nameKo:'수직 발치기 (Benex)', nameEn:'Vertical Extraction System (Benex)',
+    mech:'axial',
+    desc:'치근관 나사 삽입 → 수직 견인; 판막 불필요. 단근치에서 가장 적합. 잔존 치근에 이상적.',
+    buccal:'excellent', heat:'none', op:'moderate', opData:'N/A',
+    ind:['single'],
+    evidence:'전체 성공 83–85%; 단근치 87.2%, 복근치 69.7% (2.2× 실패위험); 실패: 나사 유지력 상실·과잉시멘트·복잡 치근',
+    contra:['복근치(상대적)','과잉시멘트증','치근관 치료 없는 취성 치근'],
+    exVivo:false
+  },
+  {
+    id:8, nameKo:'전정발치술 (VRE)', nameEn:'Vestibular Root Extraction',
+    mech:'vestib',
+    desc:'전정 절개로 치근 첨부 노출 → 치관 방향 밀기; 협측 골판 손상 최소. 즉시식립 병용에 최적.',
+    buccal:'excellent', heat:'none', op:'moderate', opData:'N/A',
+    ind:['single','esthetic'],
+    evidence:'Pink esthetic score +1.27 (95% CI 0.15–2.39) vs incisal extraction at 12 mo; 즉시식립 + 임시치관 병용 사례',
+    contra:[],
+    exVivo:false
+  },
+  {
+    id:9, nameKo:'효소분해 발치 (ColG)', nameEn:'Enzymatic Extraction (ColG)',
+    mech:'enzyme',
+    desc:'Clostridium histolyticum 콜라게나아제 G(ColG)로 PDL 콜라겐 분해 → 발치력 50% 감소. 현재 Ex vivo 단계.',
+    buccal:'excellent', heat:'none', op:'na', opData:'미적용',
+    ind:[],
+    evidence:'발치력 50% 감소 (돼지 하악 ex vivo); hGF 세포독성 있음(콜라겐의존 세포); ColG-variant(열안정성 56.6°C) 실험도 진행; 임상 적용 없음',
+    contra:['임상 미승인 — 연구 단계'],
+    exVivo:true
+  },
+  {
+    id:10, nameKo:'SST / 치근 절제술', nameEn:'Socket Shield / Root Sectioning',
+    mech:'partial',
+    desc:'협측 치근편 2mm 보존(SST)으로 다발골·PDL 유지; 또는 복근치 치근 분리 절단으로 최소 발치력.',
+    buccal:'excellent', heat:'none', op:'moderate', opData:'N/A',
+    ind:['single','multi','esthetic'],
+    evidence:'협측 다발골 보존 → 수평 흡수 감소; 조직학적 유리 결과; 즉시식립 + 임시치관 병용 프로토콜',
+    contra:['협측 치근 감염(SST 금기)'],
+    exVivo:false
+  },
+];
+
+// State
+let filters = { mech: null, buccal: null, heat: null, ind: null };
+
+// Build filter chips
+function buildFilterGroup(containerId, items, filterKey, isDot) {
+  const wrap = document.getElementById(containerId);
+  items.forEach(([val, meta]) => {
+    const chip = document.createElement('button');
+    chip.className = 'chip';
+    chip.dataset.val = val;
+    if (isDot) {
+      const dot = document.createElement('span');
+      dot.className = 'dot';
+      dot.style.background = meta.color || meta;
+      chip.appendChild(dot);
+    }
+    chip.appendChild(document.createTextNode(meta.label || meta));
+    chip.addEventListener('click', () => {
+      filters[filterKey] = (filters[filterKey] === val) ? null : val;
+      renderFilters();
+      renderCards();
+    });
+    wrap.appendChild(chip);
+  });
+}
+
+buildFilterGroup('mech-chips',   Object.entries(MECH_META),   'mech',   true);
+buildFilterGroup('buccal-chips', Object.entries(BUCCAL_META), 'buccal', false);
+buildFilterGroup('heat-chips',   Object.entries(HEAT_META),   'heat',   false);
+buildFilterGroup('ind-chips',    Object.entries(IND_META).map(([k,v])=>[k,{label:v}]), 'ind', false);
+
+document.getElementById('reset-btn').addEventListener('click', () => {
+  filters = { mech: null, buccal: null, heat: null, ind: null };
+  renderFilters();
+  renderCards();
+});
+
+function renderFilters() {
+  ['mech','buccal','heat','ind'].forEach(key => {
+    const idMap = { mech:'mech-chips', buccal:'buccal-chips', heat:'heat-chips', ind:'ind-chips' };
+    document.querySelectorAll(`#${idMap[key]} .chip`).forEach(chip => {
+      chip.classList.toggle('active', chip.dataset.val === filters[key]);
+    });
+  });
+  const hasActive = Object.values(filters).some(v => v !== null);
+  document.getElementById('reset-btn').hidden = !hasActive;
+}
+
+function matchCard(t) {
+  if (filters.mech   && t.mech   !== filters.mech)              return false;
+  if (filters.buccal && t.buccal !== filters.buccal)            return false;
+  if (filters.heat   && t.heat   !== filters.heat)              return false;
+  if (filters.ind    && !t.ind.includes(filters.ind))           return false;
+  return true;
+}
+
+function pill(cls, text) {
+  return `<span class="metric-val ${cls}">${text}</span>`;
+}
+
+function renderCards() {
+  const grid = document.getElementById('cards-grid');
+  const visible = data.filter(matchCard);
+  document.getElementById('results-count').textContent = `${visible.length}종 표시`;
+
+  grid.innerHTML = '';
+  if (visible.length === 0) {
+    grid.innerHTML = '<div class="empty-state">선택한 조건에 맞는 기법이 없습니다.<br>필터를 변경해보세요.</div>';
+    return;
+  }
+
+  visible.forEach(t => {
+    const mMeta = MECH_META[t.mech];
+    const bMeta = BUCCAL_META[t.buccal];
+    const hMeta = HEAT_META[t.heat];
+    const oMeta = OP_META[t.op];
+
+    const indTags = t.ind.map(i => `<span class="ind-tag">${IND_META[i]}</span>`).join('');
+    const contraTags = t.contra.map(c => `<span class="contra-tag">${c}</span>`).join('');
+
+    const card = document.createElement('article');
+    card.className = 'card';
+    card.innerHTML = `
+      <div class="card-stripe" style="background:${mMeta.color}"></div>
+      <div class="card-top">
+        <span class="mech-badge" style="background:${mMeta.color}22;color:${mMeta.color};border:1px solid ${mMeta.color}44">${mMeta.label}</span>
+        <div class="indication-row">${indTags || '<span class="ind-tag" style="background:var(--pill-bad-bg);color:var(--pill-bad-text)">연구단계</span>'}</div>
+      </div>
+      <div class="card-name">
+        <h2>${t.nameKo}</h2>
+        <div class="name-en">${t.nameEn}</div>
+      </div>
+      <div class="card-desc">${t.desc}</div>
+      ${t.exVivo ? '<span class="evivo-badge">⚠ Ex vivo only — 임상 미승인</span>' : ''}
+      <div class="metrics">
+        <div class="metric">
+          <span class="metric-label">협측골</span>
+          ${pill(bMeta.cls, bMeta.label)}
+        </div>
+        <div class="metric">
+          <span class="metric-label">발열</span>
+          ${pill(hMeta.cls, hMeta.label)}
+        </div>
+        <div class="metric">
+          <span class="metric-label">조작시간</span>
+          ${pill(oMeta.cls, t.opData)}
+        </div>
+      </div>
+      <div class="card-evidence">
+        <span class="ev-label">근거 요약</span>
+        ${t.evidence}
+      </div>
+      ${contraTags ? `<div class="contra-row">${contraTags}</div>` : ''}
+    `;
+    grid.appendChild(card);
+  });
+}
+
+renderCards();
+</script>
