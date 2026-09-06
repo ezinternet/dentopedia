@@ -1,0 +1,742 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>구강 창상 치유 타임라인</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,400&family=DM+Mono:wght@400;500&display=swap">
+<style>
+  :root {
+    --bg: #F5F4EF;
+    --surface: #FEFEFE;
+    --surface-raised: #F0EFEA;
+    --text-1: #1A1B2E;
+    --text-2: #4E4F62;
+    --text-3: #8C8DA0;
+    --border: #E0DFDA;
+    --grid: #ECEAE3;
+    --phase1-fill: rgba(59,130,246,0.07);
+    --phase1-line: #3B82F6;
+    --phase1-text: #1D4ED8;
+    --phase2-fill: rgba(147,51,234,0.07);
+    --phase2-line: #9333EA;
+    --phase2-text: #7C3AED;
+    --milestone-clr: #0EA5E9;
+    --c-prolif: #D97706;
+    --c-apop: #DC2626;
+    --c-stem: #059669;
+    --c-kstress: #EA580C;
+    --c-kdiff: #0284C7;
+    --c-immune: #7C3AED;
+    --shadow-sm: 0 1px 3px rgba(0,0,0,0.06), 0 1px 2px rgba(0,0,0,0.04);
+    --shadow-md: 0 4px 12px rgba(0,0,0,0.08);
+    --radius: 8px;
+  }
+
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: var(--bg);
+    color: var(--text-1);
+    font-family: 'DM Sans', system-ui, sans-serif;
+    font-size: 14px;
+    line-height: 1.6;
+    min-height: 100vh;
+    padding: 28px 20px 48px;
+  }
+
+  .page { max-width: 960px; margin: 0 auto; }
+
+  /* Header */
+  .header {
+    margin-bottom: 28px;
+  }
+  .eyebrow {
+    font-family: 'DM Mono', monospace;
+    font-size: 10.5px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--phase2-text);
+    margin-bottom: 8px;
+  }
+  .title {
+    font-family: 'Syne', sans-serif;
+    font-size: clamp(20px, 3.5vw, 28px);
+    font-weight: 800;
+    line-height: 1.2;
+    color: var(--text-1);
+    text-wrap: balance;
+    margin-bottom: 6px;
+  }
+  .subtitle {
+    font-size: 13.5px;
+    color: var(--text-2);
+    margin-bottom: 10px;
+  }
+  .doi-tag {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    background: var(--surface-raised);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    padding: 3px 8px;
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    color: var(--text-3);
+    text-decoration: none;
+  }
+
+  /* Chart container */
+  .chart-wrap {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow-sm);
+    padding: 16px 4px 8px 4px;
+    margin-bottom: 20px;
+    position: relative;
+  }
+  #chartCanvas {
+    display: block;
+    width: 100%;
+    cursor: crosshair;
+  }
+
+  /* Phase legend */
+  .phase-row {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    padding: 10px 14px 4px;
+  }
+  .phase-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 11.5px;
+    color: var(--text-2);
+  }
+  .phase-badge .dot {
+    width: 10px; height: 10px;
+    border-radius: 2px;
+    flex-shrink: 0;
+  }
+  .phase-badge.p1 .dot { background: var(--phase1-line); }
+  .phase-badge.p2 .dot { background: var(--phase2-line); }
+
+  /* Toggle pills */
+  .legend-label {
+    font-family: 'Syne', sans-serif;
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--text-3);
+    margin-bottom: 10px;
+  }
+  .pills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 28px;
+  }
+  .pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+    padding: 6px 13px 6px 10px;
+    border-radius: 999px;
+    border: 1.5px solid;
+    cursor: pointer;
+    transition: opacity 0.15s, background 0.15s;
+    user-select: none;
+    font-size: 12.5px;
+    font-weight: 500;
+    background: var(--surface);
+  }
+  .pill .swatch {
+    width: 8px; height: 8px;
+    border-radius: 50%;
+    flex-shrink: 0;
+    transition: transform 0.15s;
+  }
+  .pill .arrow {
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    opacity: 0.7;
+  }
+  .pill.off {
+    opacity: 0.38;
+    background: var(--bg);
+  }
+  .pill:hover { opacity: 1; }
+
+  /* Normalization table */
+  .section-title {
+    font-family: 'Syne', sans-serif;
+    font-size: 13px;
+    font-weight: 700;
+    color: var(--text-1);
+    margin-bottom: 12px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .section-title::after {
+    content: '';
+    flex: 1;
+    height: 1px;
+    background: var(--border);
+  }
+  .norm-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 12.5px;
+  }
+  .norm-table th {
+    font-family: 'DM Mono', monospace;
+    font-size: 10.5px;
+    font-weight: 500;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--text-3);
+    text-align: left;
+    padding: 6px 10px 6px 0;
+    border-bottom: 1px solid var(--border);
+  }
+  .norm-table td {
+    padding: 8px 10px 8px 0;
+    border-bottom: 1px solid var(--grid);
+    vertical-align: middle;
+  }
+  .norm-table tr:last-child td { border-bottom: none; }
+  .norm-table .param-name {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-weight: 500;
+  }
+  .norm-table .clr-dot {
+    width: 7px; height: 7px;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+  .tag-time {
+    display: inline-block;
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    font-weight: 500;
+    padding: 2px 7px;
+    border-radius: 4px;
+    background: var(--surface-raised);
+    border: 1px solid var(--border);
+    color: var(--text-1);
+  }
+  .tag-time.late {
+    background: rgba(147,51,234,0.08);
+    border-color: rgba(147,51,234,0.2);
+    color: var(--phase2-text);
+  }
+  .tag-time.mid {
+    background: rgba(59,130,246,0.08);
+    border-color: rgba(59,130,246,0.2);
+    color: var(--phase1-text);
+  }
+
+  /* Footnote */
+  .footnote {
+    margin-top: 20px;
+    font-size: 11px;
+    color: var(--text-3);
+    line-height: 1.7;
+    border-top: 1px solid var(--border);
+    padding-top: 12px;
+  }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <!-- Header -->
+  <header class="header">
+    <p class="eyebrow">Walton et al. 2026 · Cell Death &amp; Disease</p>
+    <h1 class="title">구강 창상 치유 세포 타임라인</h1>
+    <p class="subtitle">재상피화(Re-Epithelialization, RE) 완료 이후에도 세포 항상성은 최대 6개월간 회복 중 — 마우스 경구개 2 mm 전층 절제창 모델</p>
+    <a class="doi-tag" href="https://doi.org/10.1038/s41419-026-08804-z" target="_blank" rel="noopener">
+      DOI 10.1038/s41419-026-08804-z
+    </a>
+  </header>
+
+  <!-- Chart -->
+  <div class="chart-wrap">
+    <canvas id="chartCanvas"></canvas>
+    <div class="phase-row">
+      <span class="phase-badge p1"><span class="dot"></span>Phase 1 — 급속 재상피화 (≤14일)</span>
+      <span class="phase-badge p2"><span class="dot"></span>Phase 2 — 세포 리모델링 (1–6개월)</span>
+    </div>
+  </div>
+
+  <!-- Toggle pills -->
+  <p class="legend-label">파라미터 표시 / 숨기기</p>
+  <div class="pills" id="pillsContainer"></div>
+
+  <!-- Normalization timeline table -->
+  <p class="section-title">정상화 타임라인</p>
+  <div style="overflow-x: auto;">
+    <table class="norm-table">
+      <thead>
+        <tr>
+          <th>파라미터</th>
+          <th>방향</th>
+          <th>피크 / 최저점</th>
+          <th>정상화 시점</th>
+          <th>임상 의의</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><div class="param-name"><span class="clr-dot" style="background:#D97706"></span>세포 증식 (Ki67+)</div></td>
+          <td>↑ 창상 반응</td>
+          <td><span class="tag-time mid">PSD4</span> 피크</td>
+          <td><span class="tag-time mid">~2MPW</span></td>
+          <td>증식기 종료 ≠ 항상성 회복</td>
+        </tr>
+        <tr>
+          <td><div class="param-name"><span class="clr-dot" style="background:#DC2626"></span>세포 자멸 (Cl-Casp3+)</div></td>
+          <td>↑ 창상 반응</td>
+          <td><span class="tag-time mid">PSD14</span>–<span class="tag-time mid">2MPW</span></td>
+          <td><span class="tag-time late">&gt;3MPW</span></td>
+          <td>p53·p21 경로 — 재상피화 후에도 지속</td>
+        </tr>
+        <tr>
+          <td><div class="param-name"><span class="clr-dot" style="background:#059669"></span>Wnt 줄기세포 (Axin2+)</div></td>
+          <td>↓ 결핍 → ↑ 복귀</td>
+          <td><span class="tag-time mid">PSD14</span> 최저</td>
+          <td><span class="tag-time late">5MPW</span> ★</td>
+          <td>기능적 상피 항상성의 핵심 지표</td>
+        </tr>
+        <tr>
+          <td><div class="param-name"><span class="clr-dot" style="background:#EA580C"></span>스트레스 케라틴 (K6/K17)</div></td>
+          <td>↑ 스트레스 반응</td>
+          <td><span class="tag-time mid">1MPW</span> 피크</td>
+          <td><span class="tag-time late">5–6MPW</span></td>
+          <td>"창상 치유 완료" 과도 단순화의 증거</td>
+        </tr>
+        <tr>
+          <td><div class="param-name"><span class="clr-dot" style="background:#0284C7"></span>분화 마커 (K10/Filaggrin)</div></td>
+          <td>↓ 소실 → ↑ 복귀</td>
+          <td>창상 후 조기 소실</td>
+          <td><span class="tag-time late">6MPW</span></td>
+          <td>성숙 상피분화의 마지막 회복</td>
+        </tr>
+        <tr>
+          <td><div class="param-name"><span class="clr-dot" style="background:#7C3AED"></span>면역 침윤 (CD45+/CD3+)</div></td>
+          <td>↑ 만성 상승</td>
+          <td>6MPW까지 계속 상승</td>
+          <td><span class="tag-time late">6MPW+ 미확인</span></td>
+          <td>관찰 종료 시점에도 정상화 미완료</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <p class="footnote">
+    ★ 핵심 발견: 재상피화(Re-Epithelialization) 완료 = PSD14 (2주). Wnt-반응성 줄기세포(Axin2+, Wnt-Responsive Stem Cells) 복귀 = 5MPW (5개월). 두 사건 사이 4.5개월 간격이 "2단계 치유" 패러다임의 근거.<br>
+    MPW = Months Post-Wounding (창상 후 개월) · PSD = Post-Surgery Day (수술 후 일수) · 값은 원논문 조직학·면역형광 데이터를 기반으로 한 상대적 정규화 수치.
+  </p>
+
+</div>
+
+<script>
+// ─── Data ────────────────────────────────────────────────
+const timeLabels = ['PSD1','PSD4','PSD7','PSD14','1MPW','2MPW','3MPW','5MPW','6MPW'];
+const timeBreak = 3.5; // visual break index between phase 1 and 2 (between idx 3 and 4)
+
+const params = [
+  {
+    id: 'prolif',
+    name: '세포 증식 (Ki67+)',
+    short: 'Ki67',
+    arrow: '↑',
+    arrowNote: '높음 = 증식 활성',
+    color: '#D97706',
+    values: [0.30, 1.00, 0.76, 0.50, 0.35, 0.20, 0.15, 0.11, 0.10],
+    visible: true
+  },
+  {
+    id: 'apop',
+    name: '세포 자멸 (Cl-Casp3+)',
+    short: 'Casp3',
+    arrow: '↑',
+    arrowNote: '높음 = 자멸 활성',
+    color: '#DC2626',
+    values: [0.18, 0.44, 0.70, 1.00, 0.92, 0.86, 0.54, 0.24, 0.14],
+    visible: true
+  },
+  {
+    id: 'stem',
+    name: 'Wnt 줄기세포 (Axin2+)',
+    short: 'Axin2+',
+    arrow: '↓→↑',
+    arrowNote: '높음 = 정상 분포',
+    color: '#059669',
+    values: [0.90, 0.68, 0.40, 0.10, 0.10, 0.16, 0.30, 0.90, 1.00],
+    visible: true
+  },
+  {
+    id: 'kstress',
+    name: '스트레스 케라틴 (K6/K17)',
+    short: 'K6/K17',
+    arrow: '↑',
+    arrowNote: '높음 = 스트레스 반응',
+    color: '#EA580C',
+    values: [0.28, 0.64, 0.82, 0.90, 1.00, 0.94, 0.60, 0.28, 0.15],
+    visible: true
+  },
+  {
+    id: 'kdiff',
+    name: '분화 마커 (K10/Filaggrin)',
+    short: 'K10/Fig',
+    arrow: '↓→↑',
+    arrowNote: '높음 = 정상 분화',
+    color: '#0284C7',
+    values: [0.76, 0.30, 0.14, 0.10, 0.10, 0.16, 0.30, 0.64, 0.96],
+    visible: true
+  },
+  {
+    id: 'immune',
+    name: '면역 침윤 (CD45+/CD3+)',
+    short: 'CD45+',
+    arrow: '↑',
+    arrowNote: '높음 = 면역 활성',
+    color: '#7C3AED',
+    values: [0.40, 0.52, 0.62, 0.72, 0.80, 0.86, 0.90, 0.97, 1.00],
+    visible: false
+  }
+];
+
+// ─── Canvas setup ─────────────────────────────────────────
+const canvas = document.getElementById('chartCanvas');
+const ctx = canvas.getContext('2d');
+
+const M = { top: 52, right: 20, bottom: 56, left: 44 };
+const N = timeLabels.length;
+let W, H, cW, cH;
+
+function resize() {
+  const dpr = window.devicePixelRatio || 1;
+  const rect = canvas.getBoundingClientRect();
+  W = rect.width;
+  H = Math.min(380, Math.max(240, W * 0.4));
+  canvas.style.height = H + 'px';
+  canvas.width = W * dpr;
+  canvas.height = H * dpr;
+  ctx.scale(dpr, dpr);
+  cW = W - M.left - M.right;
+  cH = H - M.top - M.bottom;
+  draw();
+}
+
+// ─── Coordinate helpers ───────────────────────────────────
+function xOf(i) { return M.left + (i / (N - 1)) * cW; }
+function yOf(v) { return M.top + (1 - v) * cH; }
+
+// Cardinal spline
+function splinePath(pts) {
+  const path = new Path2D();
+  if (pts.length < 2) return path;
+  path.moveTo(pts[0].x, pts[0].y);
+  const t = 0.38;
+  for (let i = 0; i < pts.length - 1; i++) {
+    const p0 = pts[Math.max(0, i - 1)];
+    const p1 = pts[i];
+    const p2 = pts[i + 1];
+    const p3 = pts[Math.min(pts.length - 1, i + 2)];
+    const cp1x = p1.x + (p2.x - p0.x) * t;
+    const cp1y = p1.y + (p2.y - p0.y) * t;
+    const cp2x = p2.x - (p3.x - p1.x) * t;
+    const cp2y = p2.y - (p3.y - p1.y) * t;
+    path.bezierCurveTo(cp1x, cp1y, cp2x, cp2y, p2.x, p2.y);
+  }
+  return path;
+}
+
+// ─── Drawing ──────────────────────────────────────────────
+function draw(hoverIdx = -1) {
+  ctx.clearRect(0, 0, W, H);
+
+  // Phase bands
+  const x0 = xOf(0), x3 = xOf(3), x4 = xOf(4), x8 = xOf(8);
+  const bandTop = M.top, bandBot = M.top + cH;
+
+  ctx.fillStyle = 'rgba(59,130,246,0.07)';
+  ctx.fillRect(x0, bandTop, x3 - x0, cH);
+  ctx.fillStyle = 'rgba(147,51,234,0.07)';
+  ctx.fillRect(x4, bandTop, x8 - x4, cH);
+
+  // Phase labels
+  ctx.save();
+  ctx.font = "500 10px 'DM Mono', monospace";
+  ctx.letterSpacing = '0.04em';
+
+  ctx.fillStyle = 'rgba(29,78,216,0.75)';
+  ctx.fillText('Phase 1  재상피화', x0 + 6, M.top - 8);
+
+  ctx.fillStyle = 'rgba(124,58,237,0.75)';
+  const p2label = 'Phase 2  리모델링';
+  ctx.fillText(p2label, x4 + 4, M.top - 8);
+  ctx.restore();
+
+  // Phase boundary markers
+  ctx.save();
+  ctx.setLineDash([3, 3]);
+  ctx.strokeStyle = 'rgba(150,150,180,0.3)';
+  ctx.lineWidth = 1;
+  ctx.beginPath(); ctx.moveTo(x3, bandTop); ctx.lineTo(x3, bandBot); ctx.stroke();
+  ctx.beginPath(); ctx.moveTo(x4, bandTop); ctx.lineTo(x4, bandBot); ctx.stroke();
+  ctx.setLineDash([]);
+  ctx.restore();
+
+  // RE complete milestone at PSD14
+  ctx.save();
+  ctx.fillStyle = 'rgba(14,165,233,0.15)';
+  ctx.fillRect(x3 - 12, M.top, 24, cH);
+  ctx.font = "600 9px 'DM Mono', monospace";
+  ctx.fillStyle = '#0EA5E9';
+  ctx.save();
+  ctx.translate(x3, M.top + cH + 28);
+  ctx.fillText('RE 완료', -16, 0);
+  ctx.restore();
+  ctx.restore();
+
+  // Grid lines (horizontal)
+  const gridVals = [0, 0.25, 0.5, 0.75, 1];
+  ctx.save();
+  ctx.strokeStyle = '#EDECE5';
+  ctx.lineWidth = 1;
+  ctx.font = "400 10px 'DM Mono', monospace";
+  ctx.fillStyle = '#8C8DA0';
+  ctx.textAlign = 'right';
+  gridVals.forEach(v => {
+    const y = yOf(v);
+    ctx.beginPath();
+    ctx.moveTo(M.left, y);
+    ctx.lineTo(M.left + cW, y);
+    ctx.stroke();
+    ctx.fillText(v.toFixed(2), M.left - 6, y + 3.5);
+  });
+  ctx.restore();
+
+  // X-axis labels
+  ctx.save();
+  ctx.font = "500 10.5px 'DM Mono', monospace";
+  ctx.textAlign = 'center';
+  timeLabels.forEach((lbl, i) => {
+    const x = xOf(i);
+    const isMPW = i >= 4;
+    ctx.fillStyle = isMPW ? 'rgba(124,58,237,0.7)' : 'rgba(29,78,216,0.7)';
+    ctx.fillText(lbl, x, M.top + cH + 16);
+  });
+  ctx.restore();
+
+  // X-axis break indicator between PSD14 and 1MPW
+  ctx.save();
+  const midBreak = (x3 + x4) / 2;
+  ctx.font = "400 10px 'DM Sans', sans-serif";
+  ctx.fillStyle = '#8C8DA0';
+  ctx.textAlign = 'center';
+  ctx.fillText('↑ months', midBreak, M.top + cH + 16);
+  ctx.restore();
+
+  // Y axis label
+  ctx.save();
+  ctx.font = "400 10px 'DM Sans', sans-serif";
+  ctx.fillStyle = '#8C8DA0';
+  ctx.textAlign = 'center';
+  ctx.save();
+  ctx.translate(M.left - 34, M.top + cH / 2);
+  ctx.rotate(-Math.PI / 2);
+  ctx.fillText('상대 수준 (정규화)', 0, 0);
+  ctx.restore();
+  ctx.restore();
+
+  // Draw parameter lines
+  params.forEach(p => {
+    if (!p.visible) return;
+    const pts = p.values.map((v, i) => ({ x: xOf(i), y: yOf(v) }));
+    const path = splinePath(pts);
+
+    // Line
+    ctx.save();
+    ctx.strokeStyle = p.color;
+    ctx.lineWidth = 2.2;
+    ctx.lineJoin = 'round';
+    ctx.lineCap = 'round';
+    ctx.stroke(path);
+    ctx.restore();
+
+    // Dots on each datapoint
+    pts.forEach(pt => {
+      ctx.beginPath();
+      ctx.arc(pt.x, pt.y, 3, 0, Math.PI * 2);
+      ctx.fillStyle = p.color;
+      ctx.fill();
+      ctx.strokeStyle = '#fff';
+      ctx.lineWidth = 1.5;
+      ctx.stroke();
+    });
+  });
+
+  // Hover
+  if (hoverIdx >= 0) {
+    const hx = xOf(hoverIdx);
+
+    // Crosshair
+    ctx.save();
+    ctx.strokeStyle = 'rgba(26,27,46,0.15)';
+    ctx.lineWidth = 1;
+    ctx.setLineDash([4, 3]);
+    ctx.beginPath();
+    ctx.moveTo(hx, M.top);
+    ctx.lineTo(hx, M.top + cH);
+    ctx.stroke();
+    ctx.setLineDash([]);
+    ctx.restore();
+
+    // Hover dots (larger)
+    params.forEach(p => {
+      if (!p.visible) return;
+      const v = p.values[hoverIdx];
+      const y = yOf(v);
+      ctx.beginPath();
+      ctx.arc(hx, y, 5, 0, Math.PI * 2);
+      ctx.fillStyle = p.color;
+      ctx.fill();
+      ctx.strokeStyle = '#fff';
+      ctx.lineWidth = 2;
+      ctx.stroke();
+    });
+
+    // Tooltip
+    const visParams = params.filter(p => p.visible);
+    if (visParams.length > 0) {
+      const PAD = 10, LINE_H = 18, TITLE_H = 22;
+      const TW = 178;
+      const TH = TITLE_H + visParams.length * LINE_H + PAD;
+      let tx = hx + 12;
+      if (tx + TW > W - M.right) tx = hx - TW - 12;
+      const ty = M.top + 10;
+
+      ctx.save();
+      ctx.fillStyle = 'rgba(255,255,255,0.97)';
+      ctx.shadowColor = 'rgba(0,0,0,0.1)';
+      ctx.shadowBlur = 8;
+      roundRect(ctx, tx, ty, TW, TH, 6);
+      ctx.fill();
+      ctx.shadowBlur = 0;
+      ctx.strokeStyle = '#E0DFDA';
+      ctx.lineWidth = 1;
+      ctx.stroke();
+      ctx.restore();
+
+      ctx.save();
+      ctx.font = "600 11px 'DM Mono', monospace";
+      ctx.fillStyle = '#1A1B2E';
+      ctx.fillText(timeLabels[hoverIdx], tx + PAD, ty + 15);
+
+      visParams.forEach((p, j) => {
+        const y = ty + TITLE_H + j * LINE_H + 4;
+        ctx.beginPath();
+        ctx.arc(tx + PAD + 5, y + 4, 4, 0, Math.PI * 2);
+        ctx.fillStyle = p.color;
+        ctx.fill();
+        ctx.font = "400 10.5px 'DM Sans', sans-serif";
+        ctx.fillStyle = '#4E4F62';
+        ctx.fillText(p.short, tx + PAD + 14, y + 9);
+        ctx.font = "500 10.5px 'DM Mono', monospace";
+        ctx.fillStyle = p.color;
+        ctx.textAlign = 'right';
+        ctx.fillText(p.values[hoverIdx].toFixed(2), tx + TW - PAD, y + 9);
+        ctx.textAlign = 'left';
+      });
+      ctx.restore();
+    }
+  }
+}
+
+function roundRect(ctx, x, y, w, h, r) {
+  ctx.beginPath();
+  ctx.moveTo(x + r, y);
+  ctx.lineTo(x + w - r, y);
+  ctx.quadraticCurveTo(x + w, y, x + w, y + r);
+  ctx.lineTo(x + w, y + h - r);
+  ctx.quadraticCurveTo(x + w, y + h, x + w - r, y + h);
+  ctx.lineTo(x + r, y + h);
+  ctx.quadraticCurveTo(x, y + h, x, y + h - r);
+  ctx.lineTo(x, y + r);
+  ctx.quadraticCurveTo(x, y, x + r, y);
+  ctx.closePath();
+}
+
+// ─── Hover interaction ────────────────────────────────────
+let hoverIdx = -1;
+canvas.addEventListener('mousemove', e => {
+  const rect = canvas.getBoundingClientRect();
+  const mx = e.clientX - rect.left;
+  let closest = -1, minDist = Infinity;
+  for (let i = 0; i < N; i++) {
+    const d = Math.abs(mx - xOf(i));
+    if (d < minDist) { minDist = d; closest = i; }
+  }
+  if (closest !== hoverIdx) {
+    hoverIdx = closest;
+    draw(hoverIdx);
+  }
+});
+canvas.addEventListener('mouseleave', () => { hoverIdx = -1; draw(); });
+
+// Touch support
+canvas.addEventListener('touchmove', e => {
+  e.preventDefault();
+  const rect = canvas.getBoundingClientRect();
+  const mx = e.touches[0].clientX - rect.left;
+  let closest = -1, minDist = Infinity;
+  for (let i = 0; i < N; i++) {
+    const d = Math.abs(mx - xOf(i));
+    if (d < minDist) { minDist = d; closest = i; }
+  }
+  if (closest !== hoverIdx) {
+    hoverIdx = closest;
+    draw(hoverIdx);
+  }
+}, { passive: false });
+canvas.addEventListener('touchend', () => { hoverIdx = -1; draw(); });
+
+// ─── Toggle pills ─────────────────────────────────────────
+const pillsContainer = document.getElementById('pillsContainer');
+params.forEach(p => {
+  const pill = document.createElement('button');
+  pill.className = 'pill' + (p.visible ? '' : ' off');
+  pill.style.borderColor = p.color;
+  pill.style.color = p.color;
+  pill.innerHTML = `
+    <span class="swatch" style="background:${p.color}"></span>
+    <span>${p.short}</span>
+    <span class="arrow" title="${p.arrowNote}">${p.arrow}</span>
+  `;
+  pill.addEventListener('click', () => {
+    p.visible = !p.visible;
+    pill.classList.toggle('off', !p.visible);
+    draw(hoverIdx);
+  });
+  pillsContainer.appendChild(pill);
+});
+
+// ─── Resize + init ────────────────────────────────────────
+window.addEventListener('resize', () => { resize(); });
+resize();
+</script>
+</body>
+</html>
