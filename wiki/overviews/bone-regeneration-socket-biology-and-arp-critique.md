@@ -267,6 +267,7 @@ ARP 가 부족한 시나리오 — 이미 흡수된 ridge 재건 (수평 부족)
 - [[overviews/immediate-implant-decision-ladder]] — 즉시식립 결정 (축 2 의 대안 spine)
 - [[overviews/sinus-lift-technique-selection]] — 상악 후방부 인접 주제
 - [[overviews/implants-isq-stability-ladder]] — ISQ 활용 (Jung 2025 의 ISQ 비판은 본 페이지 한정)
+- [[oral-surgery/pujarern-2026-minimally-invasive-extraction-socket]] — 최소침습 발치 기법 10종 + Amler·Araújo & Lindhe 치유 데이터 종합 (2026); 협측 골손실 최소 기법 = piezotome
 
 ## 원장 메모 체크리스트
 
