@@ -17,7 +17,7 @@ relations:
     type: extends
   - target: immediate-implant/esthetic-soft-tissue/asghar-2023-immediate-vs-early-implant-esthetic-zone-sr-ma
     type: extends
-  - target: immediate-implant/esthetic-soft-tissue/ickroth-2025-immediate-implant-intact-nonintact-sockets
+  - target: immediate-implant/ickroth-2025-immediate-implant-intact-nonintact-sockets
     type: related
 ---
 
@@ -97,5 +97,5 @@ This multicenter pilot RCT from Geneva, Zurich, and Belgrade randomized 60 patie
 
 - [[immediate-implant/puisys-2022-immediate-implant-placement-vs-early]] — 1-year RCT n=50, esthetic zone, comparable PES between immediate and early placement; this paper extends with BLT-specific and multicenter data
 - [[immediate-implant/esthetic-soft-tissue/asghar-2023-immediate-vs-early-implant-esthetic-zone-sr-ma]] — SR+MA of 6 RCTs (immediate vs early, esthetic zone); Hicklin 2024 adds BLT system-level pilot data consistent with pooled SR+MA findings
-- [[immediate-implant/esthetic-soft-tissue/ickroth-2025-immediate-implant-intact-nonintact-sockets]] — related evidence on immediate implant outcomes stratified by socket morphology
+- [[immediate-implant/ickroth-2025-immediate-implant-intact-nonintact-sockets]] — related evidence on immediate implant outcomes stratified by socket morphology
 - [[immediate-implant/esthetic-soft-tissue/chen-2014-esthetic-outcomes-immediate-early-implant]] — narrative review of esthetic outcomes across immediate and early placement; Hicklin adds prospective RCT-level 12-month data
