@@ -98,6 +98,7 @@ Benekou 2025(SR+MA, 22 RCT, n=816; PRISMA 2020, GRADE 중간)는 이 관점에 �
 - 즉시 식립([[overviews/immediate-implant-decision-ladder]] 카테고리)과 ARP의 의사결정 분기 overview로 확장.
 
 ## Related Papers
+- [[oral-surgery/walton-2026-beyond-re-epithelialization-prolonged-remodeling]] — 구강 점막 재상피화(Re-Epithelialization) 14일 완료 그러나 Wnt 줄기세포·분화 마커 항상성은 5–6개월 소요 — 소켓 개방치유 상피 시간축의 세포 수준 근거
 - [[bone-regeneration/ridge-preservation/park-2016-hidden-x-suture-ridge-preservation]] — 봉합법(hidden X) → 협측 KT 보존 (축 1)
 - [[bone-regeneration/ridge-preservation/choi-2017-single-double-layer-collagen-membrane-arp]] — 막 층수 SL≈DL (축 2)
 - [[bone-regeneration/ridge-preservation/cho-2017-compressive-force-graft-ridge-preservation]] — 압축력↑ → 신생골↑ (축 2)
