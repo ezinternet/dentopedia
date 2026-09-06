@@ -10,13 +10,13 @@ source_collection: external
 ---
 
 ## Why Ingested
-발치경 vs 피에조톰의 직접 비교 RCT — [[oral-surgery/pujarern-2026-minimally-invasive-extraction-socket]]의 기법 비교를 수치로 보강; 근관치료 실패치에 특화된 최초 RCT로 임상 결정 근거 제공.
+치주인대 분리기 (Periotome) vs 피에조톰의 직접 비교 RCT — [[oral-surgery/pujarern-2026-minimally-invasive-extraction-socket]]의 기법 비교를 수치로 보강; 근관치료 실패치에 특화된 최초 RCT로 임상 결정 근거 제공.
 
 ## One-line Summary
 Double-blind RCT (n=100, endodontically failed single-rooted teeth): periotome was faster (5.78 vs 12.8 min, p<0.01) with better immediate pain control, but piezotome caused less immediate marginal bone loss (0.083 vs 0.54 mm, p<0.007); 6-month bone loss not significantly different between groups.
 
 ## 한줄요약
-이중맹검 RCT (n=100, 근관치료 실패 단근치): 발치경이 더 빠르고(5.78 vs 12.8분, p<0.01) 즉시 통증 조절 우수; 피에조톰은 즉시 변연골 소실 더 작음(0.083 vs 0.54 mm, p=0.007); 6개월 후 골소실은 두 군 차이 없음.
+이중맹검 RCT (n=100, 근관치료 실패 단근치): 치주인대 분리기 (Periotome)이 더 빠르고(5.78 vs 12.8분, p<0.01) 즉시 통증 조절 우수; 피에조톰은 즉시 변연골 소실 더 작음(0.083 vs 0.54 mm, p=0.007); 6개월 후 골소실은 두 군 차이 없음.
 
 ## 1. Document Information
 - Journal: National Journal of Maxillofacial Surgery, vol 13, Suppl 1, pp S91–S96, 2022
