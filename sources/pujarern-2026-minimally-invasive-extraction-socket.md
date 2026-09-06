@@ -19,7 +19,7 @@ Narrative review (Front Oral Health 2026): post-extraction socket healing biolog
 
 ## 한줄요약
 
-서술적 종합(Frontiers in Oral Health 2026): 발치와 치유의 4단계(지혈→염증→증식→개조) 생물학 + 최소침습 발치 기법 10종(발치경→효소분해) 작동 원리 및 비교 근거 + 치조제 보존 전략 종합 서술.
+서술적 종합(Frontiers in Oral Health 2026): 발치와 치유의 4단계(지혈→염증→증식→개조) 생물학 + 최소침습 발치 기법 10종(치주인대 분리기 (Periotome)→효소분해) 작동 원리 및 비교 근거 + 치조제 보존 전략 종합 서술.
 
 ## 1. Document Information
 - Journal: Frontiers in Oral Health, Volume 7, 2026, p.1834419
@@ -31,7 +31,7 @@ Narrative review (Front Oral Health 2026): post-extraction socket healing biolog
 - Amler(1960) 시퀀스: 상피증식 4일, 골형성 시작 7일, 혈병 조직화 7–21일, 상피융합 22일, 골 합병 35일
 - Araújo & Lindhe 핵심 데이터: 협측 치조정이 1주째 설측 대비 0.3mm 상방 → 8주째 1.9mm 하방; 총 2.2±0.2mm 차이(~45μm/일)
 - 최소침습 기법 10종 각각의 작동원리·장단점·비교 임상 근거 체계화
-- 압전수술기(piezotome) = 협측 골 손실 최소, 그러나 발열(+18°C)·조작 시간↑; 발치경(periotome) = 빠른 조작·낮은 VAS, 두 기법 6개월 MBL 유사
+- 압전수술기(piezotome) = 협측 골 손실 최소, 그러나 발열(+18°C)·조작 시간↑; 치주인대 분리기 (Periotome) = 빠른 조작·낮은 VAS, 두 기법 6개월 MBL 유사
 
 ## 3. Methodology and Architecture
 - Study design: narrative review (systematic search 미시행; 광범위 문헌 서술)
