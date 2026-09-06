@@ -1733,6 +1733,9 @@ tags: []
 - [[oral-surgery/third-molar/guillaumet-claure-2022-iatrogenic-mandibular-fracture-third-molar-sr]] — SR: 하악 제3대구치 발치 후 의인성 골절 발생률 0.0033%–0.075%; 술후 골절 > 술중; 40–60세 남성·깊은 매복·mesioangular·좌측 위험↑
 - [[oral-surgery/ferrer-valdivia-2022-complications-simple-exodontia-sr]] — SR (3 studies): 단순 발치 후 합병증(trismus·alveolitis·retained root 가장 흔); 술자 경험·수술 시간·조직 손상이 주요 위험인자
 - [[oral-surgery/pujarern-2026-minimally-invasive-extraction-socket]] — Narrative review (Front Oral Health 2026): 발치와 치유 4단계 생물학(Amler 시퀀스·Araújo & Lindhe 조직학) + 최소침습 발치 기법 10종(periotome→효소분해) + socket preservation 전략 (DOI 10.3389/froh.2026.1834419)
+- [[oral-surgery/chenchev-2024-benex-minimally-invasive-extraction]] — RCT (n=56): Benex 수직발치기 협측 피질골 보존 95% vs 겸자 71.8% (p<0.05); 발치 성공률 동등; 10일 창상치유 유의하게 우위 (Dent J Basel 2024)
+- [[oral-surgery/sharma-2022-periotome-piezotome-endodontic-extraction]] — 이중맹검 RCT (n=100, 근관치료 실패 단근치): 발치경 더 빠름(5.78 vs 12.8분) + 즉시 통증 조절 우수; 피에조톰 즉시 변연골 소실 더 적음(0.083 vs 0.54 mm, p=0.007); 6개월 골소실 차이 없음 (Natl J Maxillofac Surg 2022)
+- [[oral-surgery/zhang-2022-piezosurgery-flapless-extraction-dapt]] — RCT (n=80, 이중항혈소판요법 환자): 피에조서저리 정상응고(≤30min) 70% vs 터빈 40% (p=0.007); 술중 합병증 25% vs 47.5% (p=0.036); OR 3.10 출혈 연장 예측인자 (J Oral Sci 2022)
 - [[oral-surgery/third-molar/bailey-2020-surgical-techniques-mandibular-wisdom-teeth-sr]] — Cochrane SR: 하악 사랑니 발치 수술기법(피판·설신경 보호·골삭제법) 비교; 건조치조염·감염·신경손상·통증·부종·개구제한 결과 평가; 대부분 낮은 수준의 증거
 - [[oral-surgery/third-molar/pattnayak-2024-prf-prp-third-molar-extraction-sr]] — SR (6 studies): 하악 제3대구치 발치 후 PRF vs PRP 비교; 4/6 연구에서 PRF가 연조직 치유·골밀도 개선에 유리; PRF는 준비 용이·완전 자가 유래 장점
 - [[oral-surgery/third-molar/firoozi-2022-nonpharmacological-interventions-third-molar-pain-sr]] — 엄브렐라 리뷰(Pain Res Manag 2022;19 SR/10 MA): 제3대구치 발치 후 비약물적 보조요법 network meta-analysis; 초기통증 오존치료 최우수(SMD −0.84)·후기통증 PRF/유도체 최우수(SMD −1.03); LLLT는 초기통증 효과 최약(SMD −0.32)

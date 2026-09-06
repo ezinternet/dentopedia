@@ -91,3 +91,6 @@ ARP graft stabilizes blood clot + osteoconductive scaffold → gradual resorptio
 - [[bone-regeneration/ridge-preservation/trombelli-2008-modeling-remodeling-human-extraction-sockets]] — human histological timing (granulation → woven bone transition)
 - [[overviews/bone-regeneration-socket-biology-and-arp-critique]] — synthesis page; this paper adds minimally invasive technique axis
 - [[overviews/socket-preservation-arp-overview]] — ARP material/technique synthesis
+- [[oral-surgery/chenchev-2024-benex-minimally-invasive-extraction]] — reinforces: RCT (n=56) quantifying Benex buccal plate preservation 95% vs forceps 71.8%; provides level I evidence for Benex data in technique table above
+- [[oral-surgery/sharma-2022-periotome-piezotome-endodontic-extraction]] — reinforces: RCT (n=100) head-to-head periotome vs piezotome in endodontically treated teeth; confirms operative time and pain data in technique table above
+- [[oral-surgery/zhang-2022-piezosurgery-flapless-extraction-dapt]] — extends: piezosurgery hemostatic advantage (OR 3.10) in DAPT patients — high-risk subgroup data absent from this review
