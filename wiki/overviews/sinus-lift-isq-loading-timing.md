@@ -25,6 +25,7 @@ source: synthesis
 > - ISQ 영향 변수: 잔존치조골높이 (Residual Bone Height, RBH)↑·테이퍼드(Tapered) 거시디자인(RBH 6-9mm에서 최고)·osseodensification·피질골 두께↑가 ISQ를 높인다.
 > - 임상 의사결정: RBH <5mm는 측창법(2단계, 식립 3개월 후 ISQ 재측정), 5-9mm는 TSFE 동시식립(osseodensification+tapered 권장, ISQ >70이면 12주 조기부하).
 > - 전체 근거 수준은 중등도 이하(Ramirez n=10, Jelusic 단일시점, Allurkar in vitro, Liu n=1, Starch-Jensen Low GRADE) — 개별 환자 골질·RBH·술기에 따라 ISQ를 직접 측정해 판단하는 것이 원칙.
+> - **⚠️ 철회 구성논문**: [[sinus-lift/transcrestal/changrani-2024-haenaem-zero-bone-loss-indirect-sinus-lift|Changrani 2024]] (HaeNaem CW-OD, n=12) — **RETRACTED/철회됨; 인용 금지.** 이 overview의 ISQ 기반 부하 시기 결론은 모두 유효한 별개 논문 기반이며 변경 없음.
 
 ## Three-line Summary
 
