@@ -1732,6 +1732,7 @@ tags: []
 - [[oral-surgery/al-maawi-2021-prf-extraction-socket-healing-sr]] — SR (20 RCTs): PRF reduces pain (66.6%), improves soft tissue healing at 1 wk (75%), reduces bone loss at 8–15 wk but NOT at 6 mo, improves socket fill (85%); benefit limited to early 2–3 months
 - [[oral-surgery/third-molar/guillaumet-claure-2022-iatrogenic-mandibular-fracture-third-molar-sr]] — SR: 하악 제3대구치 발치 후 의인성 골절 발생률 0.0033%–0.075%; 술후 골절 > 술중; 40–60세 남성·깊은 매복·mesioangular·좌측 위험↑
 - [[oral-surgery/ferrer-valdivia-2022-complications-simple-exodontia-sr]] — SR (3 studies): 단순 발치 후 합병증(trismus·alveolitis·retained root 가장 흔); 술자 경험·수술 시간·조직 손상이 주요 위험인자
+- [[oral-surgery/pujarern-2026-minimally-invasive-extraction-socket]] — Narrative review (Front Oral Health 2026): 발치와 치유 4단계 생물학(Amler 시퀀스·Araújo & Lindhe 조직학) + 최소침습 발치 기법 10종(periotome→효소분해) + socket preservation 전략 (DOI 10.3389/froh.2026.1834419)
 - [[oral-surgery/third-molar/bailey-2020-surgical-techniques-mandibular-wisdom-teeth-sr]] — Cochrane SR: 하악 사랑니 발치 수술기법(피판·설신경 보호·골삭제법) 비교; 건조치조염·감염·신경손상·통증·부종·개구제한 결과 평가; 대부분 낮은 수준의 증거
 - [[oral-surgery/third-molar/pattnayak-2024-prf-prp-third-molar-extraction-sr]] — SR (6 studies): 하악 제3대구치 발치 후 PRF vs PRP 비교; 4/6 연구에서 PRF가 연조직 치유·골밀도 개선에 유리; PRF는 준비 용이·완전 자가 유래 장점
 - [[oral-surgery/third-molar/firoozi-2022-nonpharmacological-interventions-third-molar-pain-sr]] — 엄브렐라 리뷰(Pain Res Manag 2022;19 SR/10 MA): 제3대구치 발치 후 비약물적 보조요법 network meta-analysis; 초기통증 오존치료 최우수(SMD −0.84)·후기통증 PRF/유도체 최우수(SMD −1.03); LLLT는 초기통증 효과 최약(SMD −0.32)
