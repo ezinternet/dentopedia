@@ -1,0 +1,626 @@
+<title>발치와 치유 타임라인</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap">
+<style>
+:root {
+  --bg: #EDE9E1;
+  --surface: #F8F5F0;
+  --card: #FFFFFF;
+  --text: #1A2434;
+  --text-sub: #4A6070;
+  --text-muted: #7A8D9C;
+  --border: #D4CFCA;
+  --border-s: #E8E4DF;
+  --shadow: 0 1px 4px rgba(0,0,0,.07), 0 4px 14px rgba(0,0,0,.07);
+
+  /* chart tokens */
+  --chart-bg: #FFFFFF;
+  --grid-zero: #9ABCCC;
+  --grid-line: #E4E0D8;
+  --grid-text: #7A8D9C;
+  --grid-text-zero: #4A8090;
+  --chart-line: #2A6E8C;
+  --area-below: rgba(42,110,140,.12);
+  --area-above: rgba(218,133,48,.18);
+  --dot-border: #FFFFFF;
+  --dot-buccal-above: #C07028;
+  --dot-buccal-below: #2A6E8C;
+  --arrow-col: #2A6E8C;
+  --chart-label: #4A6070;
+  --axis-text: #7A8D9C;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0C1724; --surface: #162233; --card: #112030;
+    --text: #D0E0EE; --text-sub: #8AACC4; --text-muted: #5A8090;
+    --border: #1E3048; --border-s: #1A2C3C;
+    --shadow: 0 1px 4px rgba(0,0,0,.3), 0 4px 14px rgba(0,0,0,.2);
+    --chart-bg: #112030; --grid-zero: #3A5870; --grid-line: #1E3048;
+    --grid-text: #456070; --grid-text-zero: #5A8090;
+    --chart-line: #7AB0CC; --area-below: rgba(122,176,204,.18);
+    --area-above: rgba(218,133,48,.15);
+    --dot-border: #0C1724; --dot-buccal-above: #DA8530; --dot-buccal-below: #6AAABB;
+    --arrow-col: #3A6880; --chart-label: #6090A8; --axis-text: #5A7888;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0C1724; --surface: #162233; --card: #112030;
+  --text: #D0E0EE; --text-sub: #8AACC4; --text-muted: #5A8090;
+  --border: #1E3048; --border-s: #1A2C3C;
+  --shadow: 0 1px 4px rgba(0,0,0,.3), 0 4px 14px rgba(0,0,0,.2);
+  --chart-bg: #112030; --grid-zero: #3A5870; --grid-line: #1E3048;
+  --grid-text: #456070; --grid-text-zero: #5A8090;
+  --chart-line: #7AB0CC; --area-below: rgba(122,176,204,.18);
+  --area-above: rgba(218,133,48,.15);
+  --dot-border: #0C1724; --dot-buccal-above: #DA8530; --dot-buccal-below: #6AAABB;
+  --arrow-col: #3A6880; --chart-label: #6090A8; --axis-text: #5A7888;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+body {
+  margin: 0; padding: 0;
+  font-family: 'Space Grotesk', system-ui, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  min-height: 100vh;
+}
+
+/* ── PAGE HEADER ── */
+.page-hdr {
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+  padding: 28px 36px 22px;
+}
+.page-hdr h1 {
+  margin: 0 0 4px;
+  font-size: 1.5rem;
+  font-weight: 700;
+  letter-spacing: -.02em;
+  color: var(--text);
+}
+.page-hdr .sub {
+  margin: 0;
+  font-size: .8rem;
+  color: var(--text-muted);
+  font-weight: 400;
+  letter-spacing: .01em;
+}
+
+/* ── TIMELINE SECTION ── */
+.timeline-section { padding: 28px 36px 0; }
+.timeline-label {
+  font-size: .68rem;
+  font-weight: 700;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin-bottom: 12px;
+}
+.phase-bar {
+  display: flex;
+  border-radius: 8px;
+  overflow: hidden;
+  height: 54px;
+  cursor: pointer;
+  box-shadow: var(--shadow);
+}
+.phase-seg {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 2px;
+  font-size: .72rem;
+  font-weight: 600;
+  color: rgba(255,255,255,.9);
+  border-right: 2px solid rgba(0,0,0,.15);
+  padding: 4px 6px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  transition: filter .15s;
+  text-align: center;
+}
+.phase-seg:last-child { border-right: none; }
+.phase-seg .seg-timing {
+  font-size: .62rem;
+  font-family: 'JetBrains Mono', monospace;
+  opacity: .7;
+  font-weight: 400;
+}
+.phase-seg.active { filter: brightness(1.1); box-shadow: inset 0 0 0 3px rgba(255,255,255,.6); }
+.phase-seg:not(.active) { filter: brightness(0.6) saturate(0.6); }
+.phase-seg:hover:not(.active) { filter: brightness(0.8); }
+
+/* ── AMLER ── */
+.amler-row {
+  position: relative;
+  height: 48px;
+  margin-top: 6px;
+}
+.amler-dot {
+  position: absolute;
+  top: 0;
+  transform: translateX(-50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 3px;
+}
+.amler-dot .dot-pip {
+  width: 8px; height: 8px; border-radius: 50%;
+  background: #4A8090;
+  border: 2px solid var(--bg);
+  box-shadow: 0 0 5px rgba(74,128,144,.4);
+}
+.amler-dot .dot-label {
+  font-size: .6rem;
+  font-family: 'JetBrains Mono', monospace;
+  color: #4A8090;
+  white-space: nowrap;
+  font-weight: 500;
+  text-align: center;
+  line-height: 1.3;
+}
+.amler-legend {
+  margin-top: 4px;
+  font-size: .67rem;
+  color: var(--text-muted);
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+.amler-legend .pip-ref {
+  width: 8px; height: 8px; border-radius: 50%;
+  background: #4A8090;
+  border: 2px solid var(--bg);
+  flex-shrink: 0;
+}
+
+/* ── DETAIL PANEL ── */
+.detail-panel {
+  margin: 18px 36px 0;
+  border-radius: 10px;
+  overflow: hidden;
+  border: 1px solid var(--border);
+  background: var(--card);
+  box-shadow: var(--shadow);
+}
+.detail-header {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  padding: 16px 22px 14px;
+  border-bottom: 1px solid var(--border-s);
+}
+.detail-num {
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1;
+  font-variant-numeric: tabular-nums;
+  opacity: .12;
+}
+.detail-title-ko {
+  font-size: 1.05rem;
+  font-weight: 700;
+  margin: 0 0 2px;
+  line-height: 1.2;
+}
+.detail-title-en {
+  font-size: .76rem;
+  color: var(--text-muted);
+  font-weight: 400;
+}
+.detail-timing {
+  margin-left: auto;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: .83rem;
+  color: var(--text-sub);
+  white-space: nowrap;
+}
+.detail-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 1px;
+  background: var(--border-s);
+}
+@media (max-width: 700px) { .detail-grid { grid-template-columns: 1fr; } }
+.detail-col {
+  background: var(--card);
+  padding: 14px 18px;
+}
+.detail-col-label {
+  font-size: .65rem;
+  font-weight: 700;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin-bottom: 9px;
+  display: block;
+}
+.detail-col ul { margin: 0; padding: 0; list-style: none; display: flex; flex-direction: column; gap: 5px; }
+.detail-col li {
+  font-size: .8rem;
+  color: var(--text-sub);
+  padding-left: 11px;
+  position: relative;
+  line-height: 1.4;
+}
+.detail-col li::before {
+  content: '';
+  position: absolute;
+  left: 0; top: 6px;
+  width: 4px; height: 4px;
+  border-radius: 50%;
+  background: currentColor;
+  opacity: .4;
+}
+.detail-clinical {
+  padding: 12px 22px 16px;
+  border-top: 1px solid var(--border-s);
+  font-size: .81rem;
+  color: var(--text-sub);
+  line-height: 1.6;
+}
+.detail-clinical .clin-label {
+  font-size: .65rem;
+  font-weight: 700;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  display: inline-block;
+  margin-right: 8px;
+}
+.amler-milestones {
+  padding: 9px 22px 12px;
+  border-top: 1px solid var(--border-s);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+.amler-tag {
+  font-size: .7rem;
+  padding: 3px 9px;
+  border-radius: 12px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  color: var(--text-sub);
+  font-family: 'JetBrains Mono', monospace;
+}
+
+/* ── ARAÚJO CHART ── */
+.araujo-section {
+  margin: 20px 36px 0;
+  border-radius: 10px;
+  background: var(--card);
+  border: 1px solid var(--border);
+  padding: 18px 22px 18px;
+  box-shadow: var(--shadow);
+}
+.araujo-title {
+  font-size: .82rem;
+  font-weight: 600;
+  color: var(--text);
+  margin: 0 0 3px;
+}
+.araujo-sub {
+  font-size: .71rem;
+  color: var(--text-muted);
+  margin: 0 0 14px;
+}
+.araujo-chart { width: 100%; overflow-x: auto; }
+.araujo-chart svg { display: block; width: 100%; min-width: 320px; }
+
+/* ── STATS ── */
+.stats-row {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 12px;
+  margin: 14px 36px 0;
+}
+@media (max-width: 700px) { .stats-row { grid-template-columns: 1fr 1fr; } }
+.stat-card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 14px 16px;
+  box-shadow: var(--shadow);
+}
+.stat-num {
+  font-size: 1.3rem;
+  font-weight: 700;
+  font-family: 'JetBrains Mono', monospace;
+  color: var(--text);
+  line-height: 1;
+  margin-bottom: 4px;
+  display: block;
+}
+.stat-label {
+  font-size: .72rem;
+  color: var(--text-muted);
+  line-height: 1.4;
+}
+
+/* ── FOOTER ── */
+.page-footer {
+  padding: 18px 36px 28px;
+  margin-top: 18px;
+  border-top: 1px solid var(--border);
+  font-size: .71rem;
+  color: var(--text-muted);
+  line-height: 1.5;
+  background: var(--surface);
+}
+
+@media (max-width: 680px) {
+  .page-hdr, .timeline-section { padding-left: 16px; padding-right: 16px; }
+  .detail-panel, .araujo-section, .stats-row, .page-footer { margin-left: 12px; margin-right: 12px; }
+}
+</style>
+
+<div class="page-hdr">
+  <h1>발치와 치유 타임라인</h1>
+  <p class="sub">Socket Healing Biology · Amler 1960 · Araújo &amp; Lindhe 2005 · Pujarern 2026 / Front Oral Health</p>
+</div>
+
+<div class="timeline-section">
+  <div class="timeline-label">치유 단계 — 클릭하여 세부 정보 확인</div>
+  <div class="phase-bar" id="phase-bar"></div>
+  <div class="amler-row" id="amler-row"></div>
+  <div class="amler-legend">
+    <span class="pip-ref"></span>
+    <span>Amler (1960) 인간 치유 시퀀스 마일스톤</span>
+  </div>
+</div>
+
+<div class="detail-panel" id="detail-panel"></div>
+
+<div class="araujo-section">
+  <div class="araujo-title">협측 치조정 위치 변화 — Araújo &amp; Lindhe 2005 (Beagle dog)</div>
+  <div class="araujo-sub">기준선: 설측 치조정. 양수 = 협측이 설측보다 상방 (유리), 음수 = 협측이 하방 (흡수)</div>
+  <div class="araujo-chart">
+    <svg id="araujo-svg" viewBox="0 0 520 190" xmlns="http://www.w3.org/2000/svg"></svg>
+  </div>
+</div>
+
+<div class="stats-row">
+  <div class="stat-card">
+    <span class="stat-num">~45 μm</span>
+    <span class="stat-label">하루 협측 치조정 소실 속도 (1–8주)</span>
+  </div>
+  <div class="stat-card">
+    <span class="stat-num">2.2 mm</span>
+    <span class="stat-label">협측–설측 치조정 총 차이 (8주)</span>
+  </div>
+  <div class="stat-card">
+    <span class="stat-num">~50%</span>
+    <span class="stat-label">치조제 부피 감소 — 발치 후 12주</span>
+  </div>
+  <div class="stat-card">
+    <span class="stat-num">3–6 mo</span>
+    <span class="stat-label">방사선 골 충전 완성 시기</span>
+  </div>
+</div>
+
+<div class="page-footer">
+  근거: Amler MH (1960) Oral Surg Oral Med Oral Pathol 13:1470 · Araújo MG &amp; Lindhe J (2005) J Clin Periodontol 32:212 ·
+  Pujarern P et al. (2026) Front Oral Health 7:1834419 · DOI 10.3389/froh.2026.1834419 · PMC13507729
+</div>
+
+<script>
+const PHASES = [
+  {
+    id: 0,
+    ko: '지혈 및 응고',
+    en: 'Hemostasis & Coagulation',
+    timing: '0 – 24h',
+    color: '#C94040',
+    w: 8,
+    cells: ['혈소판 (Platelets)', '적혈구 (Erythrocytes)', '섬유소망 (Fibrin network)', '혈관평활근세포'],
+    signals: ['PDGF (혈소판유래 성장인자)', 'TGF-β1 (전환성장인자)', 'EGF (상피성장인자)', 'Thrombin · Fibronectin'],
+    events: ['혈관 수축 → 혈소판 응집', '피브린 망 형성 = 초기 scaffold', '성장인자 방출 → 치유 신호 개시', '이후 단계 세포 모집 시작'],
+    amler: ['Day 4: 상피 증식 준비'],
+    clinical: '혈병이 발치와의 구조적 scaffold. 소파·구강세척 금지가 이 단계 보호 핵심. 흡연은 혈관 수축을 통해 혈소판 기능 저하.'
+  },
+  {
+    id: 1,
+    ko: '염증기',
+    en: 'Inflammation',
+    timing: '24h – 72h',
+    color: '#DA8530',
+    w: 14,
+    cells: ['호중구 (Neutrophils)', '단핵구 → 대식세포 (M1)', '대식세포 M2 (수복형)', '비만세포 (Mast cells)'],
+    signals: ['IL-1β · TNF-α · IL-6', 'PGE₂ (통증·혈관확장)', 'VEGF (혈관형성 개시)', 'MMP-2, MMP-9'],
+    events: ['호중구 이주 → 세균·세포 파편 제거', '대식세포 M1→M2 전환: 청소→수복 신호', '섬유아세포 활성화 개시', 'VEGF 분비 → 신생혈관 형성 준비'],
+    amler: ['Day 4: 상피 증식 시작 (Amler 1960)'],
+    clinical: '과염증 = 섬유성 유합 위험. 흡연·면역억제가 M2 전환 지연시켜 창상치유 복구력 감소. 비스테로이드 항염제 과량 사용 주의.'
+  },
+  {
+    id: 2,
+    ko: '증식기',
+    en: 'Proliferation',
+    timing: '2 – 3주',
+    color: '#2E9458',
+    w: 38,
+    cells: ['섬유아세포 (Fibroblasts)', '골전구세포 (Osteoprogenitors)', '골아세포 (Osteoblasts)', '혈관내피세포 (Endothelial)'],
+    signals: ['BMP-2 · BMP-7 (골유도)', 'FGF-2 · VEGF', 'TGF-β1 (기질 합성)', 'Fibronectin · Osteopontin'],
+    events: ['육아조직 → 임시 결합조직 기질 침착', '신생혈관 형성 (angiogenesis)', '7일째: 편조골 (woven bone) 최초 침착', '상피 융합 22일째 (Amler)'],
+    amler: ['Day 7: 골 형성 시작', 'Day 7–21: 혈병 조직화', 'Day 22: 상피 융합 (Amler 1960)'],
+    clinical: 'BMP-2의 농도의존적 골유도가 이 단계에 집중. ARP 이식재는 여기서 scaffold 역할. 즉시식립 임플란트는 이 단계의 창상을 최대한 보호해야 함.'
+  },
+  {
+    id: 3,
+    ko: '개조기',
+    en: 'Remodeling',
+    timing: '≥ 4주 (장기)',
+    color: '#2E6EB0',
+    w: 40,
+    cells: ['파골세포 (Osteoclasts)', '골아세포 (Osteoblasts)', '골세포 (Osteocytes)', '근섬유아세포 (Myofibroblasts)'],
+    signals: ['RANKL / OPG 축 (골리모델링)', 'M-CSF · Sclerostin', 'Wnt / β-Catenin', 'TGF-β3 · IGF-1'],
+    events: ['편조골 → 층판골 (woven → lamellar) 전환', '파골세포-골아세포 커플링', '협측 다발골 흡수 (PDL 소실 후)', '12주까지 치조제 부피 ~50% 감소'],
+    amler: ['Day 35: 방사선 골 충전 (Amler)', '3–6개월: 임상적 골 완성'],
+    clinical: '협측 다발골은 PDL 혈관 공급 의존 → 발치 즉시 흡수 개시. 즉시식립·ARP·SST가 이 단계의 흡수를 차단하는 전략.'
+  }
+];
+
+const AMLER = [
+  { label: 'D4\n상피', pct: 13 },
+  { label: 'D7\n골형성', pct: 22 },
+  { label: 'D22\n상피융합', pct: 42 },
+  { label: 'D35\n골충전', pct: 52 },
+];
+
+let active = 0;
+
+function getVar(name) {
+  return getComputedStyle(document.documentElement).getPropertyValue(name).trim();
+}
+
+function buildPhaseBar() {
+  const bar = document.getElementById('phase-bar');
+  PHASES.forEach((p, i) => {
+    const seg = document.createElement('div');
+    seg.className = 'phase-seg' + (i === active ? ' active' : '');
+    seg.style.background = p.color;
+    seg.style.width = p.w + '%';
+    seg.innerHTML = `<span>${p.ko}</span><span class="seg-timing">${p.timing}</span>`;
+    seg.addEventListener('click', () => { active = i; refresh(); });
+    bar.appendChild(seg);
+  });
+}
+
+function buildAmlerRow() {
+  const row = document.getElementById('amler-row');
+  AMLER.forEach(m => {
+    const el = document.createElement('div');
+    el.className = 'amler-dot';
+    el.style.left = m.pct + '%';
+    el.innerHTML = `<div class="dot-pip"></div><div class="dot-label">${m.label.replace('\n','<br>')}</div>`;
+    row.appendChild(el);
+  });
+}
+
+function renderDetail() {
+  const p = PHASES[active];
+  const panel = document.getElementById('detail-panel');
+  panel.style.borderTopColor = p.color;
+  panel.style.borderTopWidth = '3px';
+  const amlerTags = p.amler.map(a => `<span class="amler-tag">${a}</span>`).join('');
+  panel.innerHTML = `
+    <div class="detail-header">
+      <span class="detail-num" style="color:${p.color}">0${p.id+1}</span>
+      <div>
+        <div class="detail-title-ko" style="color:${p.color}">${p.ko}</div>
+        <div class="detail-title-en">${p.en}</div>
+      </div>
+      <span class="detail-timing">${p.timing}</span>
+    </div>
+    <div class="detail-grid">
+      <div class="detail-col">
+        <span class="detail-col-label">주요 세포</span>
+        <ul>${p.cells.map(c=>`<li>${c}</li>`).join('')}</ul>
+      </div>
+      <div class="detail-col">
+        <span class="detail-col-label">분자 신호 / 성장인자</span>
+        <ul>${p.signals.map(s=>`<li>${s}</li>`).join('')}</ul>
+      </div>
+      <div class="detail-col">
+        <span class="detail-col-label">주요 사건</span>
+        <ul>${p.events.map(e=>`<li>${e}</li>`).join('')}</ul>
+      </div>
+    </div>
+    <div class="amler-milestones">${amlerTags}</div>
+    <div class="detail-clinical"><span class="clin-label">임상 의의</span>${p.clinical}</div>
+  `;
+}
+
+function refresh() {
+  document.querySelectorAll('.phase-seg').forEach((el, i) => {
+    el.classList.toggle('active', i === active);
+  });
+  renderDetail();
+}
+
+function buildAraujoChart() {
+  const svg = document.getElementById('araujo-svg');
+  const W = 520, H = 190;
+  const padL = 70, padR = 50, padT = 18, padB = 42;
+  const plotW = W - padL - padR;
+  const plotH = H - padT - padB;
+  const data = [{w:1,v:0.3},{w:2,v:-0.3},{w:4,v:-0.9},{w:8,v:-1.9}];
+  const ticks = [1,2,4,8];
+  const minW = 1, maxW = 8, minV = -2.2, maxV = 0.6;
+  const xS = w => padL + (w - minW) / (maxW - minW) * plotW;
+  const yS = v => padT + (maxV - v) / (maxV - minV) * plotH;
+  const yZero = yS(0);
+  const pts = data.map(d => ({x: xS(d.w), y: yS(d.v), v: d.v, w: d.w}));
+  const xCross = xS(1.5), yCross = yZero;
+  const linePath = pts.map((p,i) => `${i===0?'M':'L'} ${p.x.toFixed(1)},${p.y.toFixed(1)}`).join(' ');
+  const abovePoly = `M ${pts[0].x.toFixed(1)},${yZero.toFixed(1)} L ${pts[0].x.toFixed(1)},${pts[0].y.toFixed(1)} L ${xCross.toFixed(1)},${yCross.toFixed(1)} Z`;
+  const belowPts = [`${xCross.toFixed(1)},${yCross.toFixed(1)}`, ...pts.slice(1).map(p=>`${p.x.toFixed(1)},${p.y.toFixed(1)}`), `${pts[pts.length-1].x.toFixed(1)},${yZero.toFixed(1)}`];
+  const belowPoly = `M ${belowPts.join(' L ')} Z`;
+
+  const gridVals = [0.5, 0, -0.5, -1.0, -1.5, -2.0];
+  const gridLines = gridVals.map(v => {
+    const y = yS(v).toFixed(1);
+    const isZero = v === 0;
+    return `
+      <line x1="${padL}" y1="${y}" x2="${(W-padR).toFixed(1)}" y2="${y}"
+            style="stroke:var(${isZero?'--grid-zero':'--grid-line'});stroke-width:${isZero?1.5:0.7};stroke-dasharray:${isZero?'':'4,4'}"/>
+      <text x="${(padL-6).toFixed(1)}" y="${y}" text-anchor="end" dominant-baseline="middle"
+            font-family="JetBrains Mono,monospace" font-size="9.5"
+            style="fill:var(${isZero?'--grid-text-zero':'--grid-text'})">${v===0?'0 (설측)':v.toFixed(1)+' mm'}</text>
+    `;
+  }).join('');
+  const xTicks = ticks.map(w => {
+    const x = xS(w).toFixed(1);
+    return `
+      <line x1="${x}" y1="${(H-padB).toFixed(1)}" x2="${x}" y2="${(H-padB+5).toFixed(1)}"
+            style="stroke:var(--border);stroke-width:1"/>
+      <text x="${x}" y="${(H-padB+18).toFixed(1)}" text-anchor="middle"
+            font-family="JetBrains Mono,monospace" font-size="10"
+            style="fill:var(--axis-text)">${w}w</text>
+    `;
+  }).join('');
+  const circles = pts.map(p => {
+    const above = p.v >= 0;
+    return `
+      <circle cx="${p.x.toFixed(1)}" cy="${p.y.toFixed(1)}" r="5"
+              style="fill:var(--chart-bg);stroke:var(${above?'--dot-buccal-above':'--dot-buccal-below'});stroke-width:2"/>
+      <text x="${p.x.toFixed(1)}" y="${(p.y - 10).toFixed(1)}" text-anchor="middle"
+            font-family="JetBrains Mono,monospace" font-size="10" font-weight="600"
+            style="fill:var(${above?'--dot-buccal-above':'--dot-buccal-below'})">${p.v>0?'+':''}${p.v.toFixed(1)}</text>
+    `;
+  }).join('');
+  const arrow = `
+    <defs><marker id="ah" markerWidth="6" markerHeight="4" refX="2" refY="2" orient="auto">
+      <polygon points="0,0 6,2 0,4" style="fill:var(--arrow-col)"/>
+    </marker></defs>
+    <line x1="${(xS(8)+22).toFixed(1)}" y1="${(yS(0)+4).toFixed(1)}"
+          x2="${(xS(8)+22).toFixed(1)}" y2="${(yS(-1.9)-4).toFixed(1)}"
+          style="stroke:var(--arrow-col);stroke-width:1.5" marker-end="url(#ah)"/>
+    <text x="${(xS(8)+34).toFixed(1)}" y="${((yS(0)+yS(-1.9))/2).toFixed(1)}" dominant-baseline="middle"
+          font-family="JetBrains Mono,monospace" font-size="9.5" font-weight="600"
+          style="fill:var(--arrow-col)">2.2 mm</text>
+  `;
+  svg.innerHTML = `
+    <rect x="0" y="0" width="${W}" height="${H}" style="fill:var(--chart-bg)"/>
+    ${gridLines}${xTicks}
+    <path d="${abovePoly}" style="fill:var(--area-above)"/>
+    <path d="${belowPoly}" style="fill:var(--area-below)"/>
+    <path d="${linePath}" style="fill:none;stroke:var(--chart-line);stroke-width:2.5;stroke-linejoin:round"/>
+    ${circles}${arrow}
+    <text x="${(padL+6).toFixed(1)}" y="${(padT+13).toFixed(1)}"
+          font-family="Space Grotesk,sans-serif" font-size="10.5" font-weight="600"
+          style="fill:var(--chart-label)">협측 치조정 (Buccal) — 설측 대비 위치</text>
+    <text x="${((padL+W-padR)/2).toFixed(1)}" y="${(H-4).toFixed(1)}" text-anchor="middle"
+          font-family="Space Grotesk,sans-serif" font-size="10"
+          style="fill:var(--axis-text)">발치 후 경과 시간</text>
+  `;
+}
+
+buildPhaseBar();
+buildAmlerRow();
+buildAraujoChart();
+renderDetail();
+</script>
