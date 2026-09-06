@@ -1713,6 +1713,7 @@ tags: []
 - [[drug/antibiotics/liu-2024-antibiotic-prophylaxis-surgical-nonsurgical-safety-umbrella-review]] — Liu 2024 (Int J Surg) · sr+ma · 우산리뷰(75 SR·725 RCT·119개 결과지표·163,832명, 78개 임상시나리오): 항생제 예방투여(AP) 56.3% 유의 이득이나 70%가 low~very-low 확실성; 창상 청결도와 효능은 대체로 무관, 방광경·화학요법후 무열성 호중구감소증은 내성/부작용 유의 증가 → 루틴 적용보다 케이스별 판단 필요
 
 ## 구강외과 (Oral Surgery)
+- [[oral-surgery/walton-2026-beyond-re-epithelialization-prolonged-remodeling]] — Walton 2026 · animal (마우스 경구개 2mm 전층 절제창) · 재상피화(Re-Epithelialization)는 14일 완료, Wnt-반응성 줄기세포(Axin2+) 복귀·분화 마커 회복에 5–6개월 — 구강 창상 치유의 2단계 패러다임 (DOI 10.1038/s41419-026-08804-z)
 - [[oral-surgery/third-molar/rodriguez-sanchez-2017-chlorhexidine-alveolar-osteitis-third]] — Rodríguez Sánchez 2017 · sr+ma (23 RCT, 2,824 발치) · CHX (제형·농도 무관) 사랑니 발치 후 건성발치와 위험 47% 감소 (RR=0.53, NNT=8); 겔 > 가글 (RR 0.47 vs 0.58) (DOI 10.1016/j.joms.2017.01.002)
 - [[oral-surgery/nerve-injury/lee-2015-inferior-alveolar-nerve-injury-management]] — 증례보고: 제3대구치 발치 중 IAN 노출 → dexamethasone 국소도포 + prednisolone 점감 + NSAIDs → 36일 내 neuropraxia 완전 회복
 - [[oral-surgery/nerve-injury/zeytinoglu-2026-comparative-effects-low-level-laser]] — Zeytinoğlu 2026 · prospective (n=27, IAN 18·LN 9) · Aδ/C섬유(통증자극) vs Aβ섬유(무통자극) 구분 CSP 검사 병행 — LLLT가 TENS·위약보다 유의하게 우수한 임상회복(통증·화끈거림·발음·물림), 단 전기생리(CSP) 회복은 비유의
