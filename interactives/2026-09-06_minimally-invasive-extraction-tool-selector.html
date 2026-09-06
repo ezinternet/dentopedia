@@ -558,7 +558,7 @@ tags: [oral-surgery, minimally-invasive, extraction, decision-tree, chairside, p
       content.addEventListener('animationend', () => content.classList.remove('slide-enter'), { once: true });
     }
 
-    if (animate && content.innerHTML !== '') {
+    if (animate && content.innerHTML !== '' && !window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
       content.classList.add('slide-exit');
       content.addEventListener('animationend', () => { content.innerHTML = ''; show(); }, { once: true });
     } else {
