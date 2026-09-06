@@ -70,6 +70,7 @@ agenda: agenda/2026-05-25_osseodensification-whole-picture.md
 > - 저밀도골(D3–D4)·상악동저 보강이 가장 active한 두 시나리오, **즉시식립만 spoke pending으로 남음**(추가 ingest 우선순위 P1).
 > - ex vivo 보강 — IT/RT↑ 그러나 ISQ NS 재현 (de Lima 2026): 소 늑골 Type IV 모델(n=16) 쌍대 연구에서 Versah와 브라질산 WF 키트 모두 기존 드릴링 대비 삽입토크(IT)·제거토크(RT) 유의↑(p=0.007/0.008)이나 ISQ(~79–82, p=0.157)·최고 온도(~28–31°C, p=0.087)는 세 군 간 유의차 없음 → "OD 이득은 기계적 맞물림(torque-detectable), ISQ로 측정되는 강성 변화는 아님" 해석 지지. 특기사항: WF 키트가 토크에서 Versah를 초과(IT 95.25 vs 77.62 Ncm) — 동일 원리의 저비용 대안 가능성.
 > - 한계: search cutoff 2023, RCT 부족·follow-up 짧음, Versah Inc. 후원 연구 다수 → 환자 동의서에 "근거 수준 낮음–중등" 언급 권장.
+> - **⚠️ 철회 구성논문**: [[sinus-lift/transcrestal/changrani-2024-haenaem-zero-bone-loss-indirect-sinus-lift|Changrani 2024]] (HaeNaem CW-OD, n=12) — **RETRACTED/철회됨; 인용 금지.** 이 overview의 OD 핵심 주장(IT·ISQ·생존율)은 모두 유효한 별개 논문 기반이며 변경 없음.
 
 ## Three-line Summary
 
