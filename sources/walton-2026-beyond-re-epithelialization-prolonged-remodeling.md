@@ -4,8 +4,8 @@ authors: "Walton CJ, Thompson T, Syed SA, Zhu T, Guo E, Yuan X"
 year: 2026
 doi: "10.1038/s41419-026-08804-z"
 category: oral-surgery
-pdf_path: ""
-pdf_filename: ""
+pdf_path: /Users/oracleneo/llm-wiki/papers/walton-2026-beyond-re-epithelialization-prolonged-remodeling.pdf
+pdf_filename: walton-2026-beyond-re-epithelialization-prolonged-remodeling.pdf
 source_collection: external
 ---
 
