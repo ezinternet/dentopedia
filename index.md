@@ -4296,6 +4296,7 @@ tags: []
 ### implants
 - [[implants/qiu-2024-comprehensive-biomechanical-evaluation-length-diameter]] — FEA SR 40편(2003–2023): 직경이 길이보다 응력 감소에 더 중요, 짧고 굵은 임플란트가 길고 가는 임플란트보다 낮은 피질골·치조정 응력 발생
 - [[implants/ceddia-2025-crestal-position-splinted-implant-fea]] — 3개 임플란트 연결 보철물의 수직 플랫폼 정렬(치조정·치조하)이 골-임플란트 계면 응력에 미치는 영향 FEA: 혼합 구성 B 경사 하중 시 피질골 응력 ~116 MPa(생리적 한계 근접), 전 치조하 구성 D에서 32 MPa로 최소 (Ceddia 2025)
+- [[implants/rawat-2024-per-ingvar-branemark-father-modern-implantology]] — Rawat 2024 · narrative-review · Brånemark(1929–2014) 역사 리뷰: 1965년 첫 인간 하악 임플란트(Gösta Larsson, 40년 지속) → 1982년 토론토 학회 → Nobel Biocare; BAHA 코클리어 기기 10만 명 이상 수혜 (DOI 10.7759/cureus.73950)
 
 ## Batch ingest (added 2026-09-02) — 페니실린 알레르기 대책 + 아나필락시스·급성반응 관리 (PMC 전문텍스트 서베일런스, 5편 신규)
 
