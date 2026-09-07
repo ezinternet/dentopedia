@@ -2,7 +2,7 @@
 title: "임플란트 — implants"
 authors: navigation
 year: 2026
-date: 2026-08-31
+date: 2026-09-07
 doi: N/A
 source: navigation
 category: implants
@@ -16,21 +16,21 @@ tags: [navigation, category-index, implants]
 > - **분야**: 임플란트
 > - **범위**: Implant macrogeometry/thread & design, osseointegration biology, abutment & connection, bone quality/density, FEA stress analysis, failure risk factors & systemic-condition effects, flapless vs flapped surgery, zirconia vs titanium implants, prosthesis misfit — topics without their own subcategory.
 > - **하위 카테고리**: [[full-arch]] · [[isq]] · [[loading-protocol]] · [[mbl]] · [[osseodensification]] · [[osteotomy-thermal]] · [[peri-implantitis]] · [[short-narrow]] · [[soft-tissue]] · [[surface]] · [[survival]] · [[vertical-ridge-augmentation]] · [[vitamin-d]]
-> - **수록 논문**: 61편
+> - **수록 논문**: 62편
 
 ## Three-line Summary
 
 **Scope**: Implant macrogeometry/thread & design, osseointegration biology, abutment & connection, bone quality/density, FEA stress analysis, failure risk factors & systemic-condition effects, flapless vs flapped surgery, zirconia vs titanium implants, prosthesis misfit — topics without their own subcategory.
-**Indexed papers**: 61 papers in `wiki/implants/`.
+**Indexed papers**: 62 papers in `wiki/implants/`.
 **Sub-categories**: [[full-arch]], [[isq]], [[loading-protocol]], [[mbl]], [[osseodensification]], [[osteotomy-thermal]], [[peri-implantitis]], [[short-narrow]], [[soft-tissue]], [[surface]], [[survival]], [[vertical-ridge-augmentation]], [[vitamin-d]]
 
 ## 세줄요약
 
 **분야**: 임플란트
-**수록 논문**: 61편
+**수록 논문**: 62편
 **하위 카테고리**: full-arch, isq, loading-protocol, mbl, osseodensification, osteotomy-thermal, peri-implantitis, short-narrow, soft-tissue, surface, survival, vertical-ridge-augmentation, vitamin-d
 
-## Papers in this Category (61)
+## Papers in this Category (62)
 
 | Paper |
 |---|
@@ -81,6 +81,7 @@ tags: [navigation, category-index, implants]
 | [[premnath-2012-stress-distribution-bone-density-fea|Evaluation of Stress Distribution in Bone of Different Densities Using Different Implant Designs: A Three-Dimensional Finite Element Analysis]] |
 | [[qiu-2024-comprehensive-biomechanical-evaluation-length-diameter|A comprehensive biomechanical evaluation of length and diameter of dental implants using finite element analyses: A systematic review]] |
 | [[raghavan-2025-bone-density-implant-dentistry-review|The critical role of bone density in implant dentistry: a review article]] |
+| [[rawat-2024-per-ingvar-branemark-father-modern-implantology|Dr. Per-Ingvar Branemark: The Father of Modern Dental Implantology]] |
 | [[rios-santos-2020-one-abutment-one-time-rct|One Abutment One Time: A Multicenter, Prospective, Controlled, Randomized Study]] |
 | [[rosa-2024-do-dental-implants-bone-types|Do dental implants installed in different types of bone (I, II, III, IV) have different success rates? A systematic review and meta-analysis]] |
 | [[ruhstorfer-2024-customized-vs-conventional-healing-abutments-sr|Systematic review of peri-implant conditions and aesthetic outcomes of customized versus conventional healing abutments]] |
