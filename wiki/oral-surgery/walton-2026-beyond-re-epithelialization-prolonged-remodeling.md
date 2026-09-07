@@ -7,8 +7,8 @@ doi: "10.1038/s41419-026-08804-z"
 source: walton-2026-beyond-re-epithelialization-prolonged-remodeling.md
 category: oral-surgery
 confidence: animal
-pdf_path: ""
-pdf_filename: ""
+pdf_path: /Users/oracleneo/llm-wiki/papers/walton-2026-beyond-re-epithelialization-prolonged-remodeling.pdf
+pdf_filename: walton-2026-beyond-re-epithelialization-prolonged-remodeling.pdf
 source_collection: external
 tags: []
 relations:
