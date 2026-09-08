@@ -130,3 +130,10 @@ The axes are not contradictory once framed correctly: **equivalent clinical surv
 **Related overviews:**
 - [[overviews/tilted-axial-implant-angled-abutment-overview]] — tilted-implant biomechanics underlying All-on-4
 - [[overviews/supportive-peri-implant-therapy-maintenance-overview]] — maintenance for full-arch prostheses
+
+## Related Papers
+
+### 신규 추가 (2026-09) — 무치악 상악 글로벌 컨센서스
+
+- [[implants/full-arch/schwarz-2026-global-consensus-edentulous-maxilla-guidelines]] — S2k 가이드라인 (Delphi 3라운드, 26개국 105명 전문가): 무치악 상악 재활을 위한 36개 합의 권고사항. Core Outcome Set (COS) 34개 지표 포함. 환자 선택·진단·수술·보철·유지관리 전 과정 포괄; 공유의사결정, 보철 주도 계획, 가능 시 즉시 프로토콜 강조. (guideline, 2026)
+- [[implants/full-arch/fiorellini-2026-global-consensus-edentulous-maxilla-group3]] — 동 컨센서스 3분과 보고서 (익명 투표, 68–88명): 고급 영상진단·골증대술·합병증 관리 4가지 임상 권고(전부 ≥75% 합의). SR 2편과 국제 전문가 설문 기반. (consensus, 2026)
