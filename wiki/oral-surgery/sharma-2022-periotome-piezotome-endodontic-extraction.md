@@ -9,7 +9,7 @@ category: [oral-surgery]
 confidence: rct
 pdf_path: N/A
 pdf_filename: N/A
-source_collection: external
+source_collection: pubmed-abstract
 tags: [periotome, piezotome, piezosurgery, atraumatic-extraction, endodontic, minimally-invasive, bone-loss, extraction-time]
 relations:
   - type: reinforces
