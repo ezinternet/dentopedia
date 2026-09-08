@@ -6,7 +6,7 @@ date: 2026-04-28
 doi: "10.1038/s41419-026-08804-z"
 source: walton-2026-beyond-re-epithelialization-prolonged-remodeling.md
 category: oral-surgery
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/walton-2026-beyond-re-epithelialization-prolonged-remodeling.pdf
 pdf_filename: walton-2026-beyond-re-epithelialization-prolonged-remodeling.pdf
 source_collection: external
@@ -21,6 +21,16 @@ Mouse hard-palate punch-excision model: re-epithelialization completes by 14 day
 
 ## 한줄요약
 마우스 경구개 전층 절제창 모델(in vivo): 재상피화(Re-Epithelialization)는 14일 내 완료되나, Wnt-반응성 줄기세포(Axin2+) 복귀·분화 마커(K10/filaggrin) 회복에 5–6개월이 소요됨 — 구강 창상 치유의 "2단계" 패러다임 제시.
+
+## Three-line Summary
+In vivo mouse hard-palate punch-excision model (C57BL/6, Axin2CreERT2 lineage tracing, n=3–5/timepoint, PSD1–6MPW) tracking oral mucosal wound healing from re-epithelialization through cellular homeostasis.
+Re-epithelialization completes by day 14; Wnt-responsive stem cells (Axin2+) remain depleted in regenerated epithelium until 5 months post-wounding; stress keratins K6/K17 persist elevated at 2 months; immune infiltration (CD45+, CD3+) elevated through 6 months.
+Clinical wound closure at 2 weeks vastly underestimates true tissue homeostasis (5–6 months); relevant caution for timing of implant placement and regenerative procedures in oral wounds.
+
+## 세줄요약
+체내 마우스 경구개 펀치 절제 모델(C57BL/6, Axin2CreERT2 계통추적, n=3–5/시점, 수술 후 1일~6개월): 재상피화부터 세포 항상성까지 추적.
+재상피화(Re-Epithelialization) 14일 내 완료; Wnt-반응성 줄기세포(Axin2+) 재생 상피에서 5개월까지 결핍; 스트레스 케라틴(Stress Keratin) K6/K17 2개월까지 지속 상승; 면역 침윤(CD45+, CD3+) 6개월까지 상승.
+임상적 창상 폐합(2주)은 실제 조직 항상성 회복(5–6개월)을 크게 과소평가 — 임플란트 식립 및 재생 술식 시점 결정 시 주의 필요.
 
 ## Summary
 Walton et al. (2026) used a mouse hard-palate 2 mm circular full-thickness punch-excision model to track oral mucosal wound healing at nine time points spanning PSD1 through 6 months post-wounding (6MPW). Re-epithelialization was histologically complete by PSD14, but cell proliferation, apoptosis, stem cell composition, keratin expression, and epigenetic marks did not return to homeostatic levels until 5–6 MPW. Critically, Wnt-responsive stem cells (Axin2+), tracked by CreERT2 lineage tracing, were strikingly depleted from the regenerated epithelium between PSD14 and 2MPW and only recovered by 5MPW. Stress keratins K6 and K17 remained elevated until 2MPW, whereas the differentiation markers K10 and filaggrin reappeared only at 6MPW. These findings establish that oral wound healing operates in two distinct phases: rapid re-epithelialization (≤14 days) followed by prolonged cellular remodeling (months) required to reconstitute true epithelial homeostasis.
