@@ -9,7 +9,7 @@ category: [oral-surgery]
 confidence: rct
 pdf_path: N/A
 pdf_filename: N/A
-source_collection: external
+source_collection: pubmed-abstract
 tags: [piezosurgery, flapless-extraction, dapt, antiplatelet, hemostasis, bleeding-risk, atraumatic, oral-surgery]
 relations:
   - type: reinforces
