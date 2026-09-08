@@ -18,6 +18,16 @@ Crossover RCT (n=56): Benex vertical extractor preserved buccal cortical plate i
 ## 한줄요약
 교차 RCT (n=56): Benex 수직발치기 협측 피질골 보존율 95% vs 전통 발치겸자 71.8% (p<0.05), 발치 성공률은 동등, 초기 치유는 Benex 우위.
 
+## Three-line Summary
+Crossover RCT (n=56, single-tooth closed extractions, Medical University Plovdiv 2022–23) comparing Benex vertical extraction system vs conventional forceps.
+Benex preserved intact buccal cortical plate in 95% vs 71.8% with forceps (p<0.05); extraction success scores equivalent (4.61 vs 4.55); Landry wound healing index at day 10 significantly favored Benex (100% vs 78.6% Very Good/Excellent).
+Benex reduces buccal plate trauma and improves early healing, but failure risk is higher for endodontically treated and multi-rooted teeth; follow-up limited to 10 days only.
+
+## 세줄요약
+교차 RCT (n=56, 단일치 폐쇄 발치, 플로브디프 의과대학 2022–23): 벤엑스 수직발치기 vs 전통 발치겸자 비교.
+벤엑스 협측 피질골 온전 보존율 95% vs 발치겸자 71.8% (p<0.05); 발치 성공 점수 동등(4.61 vs 4.55); Landry 창상치유지수 10일째 벤엑스 유의 우위(100% vs 78.6% 양호/우수).
+협측 피질골 외상과 초기 치유는 벤엑스 우위; 근관치료치·다근치는 실패 위험 높음; 추적 기간 10일 한계.
+
 ## 1. Document Information
 - Journal: Dentistry Journal (Basel), vol 12, issue 8, 2024
 - DOI: 10.3390/dj12080234, PMC11352974
