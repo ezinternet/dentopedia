@@ -6,7 +6,7 @@ date: 2022-08-20
 doi: "10.4103/njms.njms_309_21"
 source: sharma-2022-periotome-piezotome-endodontic-extraction.md
 category: [oral-surgery]
-confidence: rct
+evidence_level: rct
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: pubmed-abstract
@@ -21,6 +21,16 @@ Double-blind RCT (n=100, failed endodontic single-rooted teeth): periotome faste
 
 ## 한줄요약
 이중맹검 RCT (n=100, 근관치료 실패 단근치): 치주인대 분리기 (Periotome)이 더 빠르고(5.78 vs 12.8분, p<0.01) 즉시 통증 조절 우수; 피에조톰은 즉각 변연골 소실 더 적음(0.083 vs 0.54 mm, p=0.007); 6개월 골소실은 두 군 차이 없음.
+
+## Three-line Summary
+Double-blind RCT (n=100, endodontically failed single-rooted teeth) comparing periotome vs piezotome for minimally traumatic extraction.
+Periotome faster (5.78 vs 12.8 min, p<0.01) with superior day-7 pain control; piezotome had significantly less immediate marginal bone loss (0.083 vs 0.54 mm, p=0.007); 6-month bone height and buccolingual width loss equivalent between groups.
+Periotome preferred for routine efficiency; piezotome near neurovascular structures; long-term ridge outcomes equivalent — limited to single-rooted teeth only.
+
+## 세줄요약
+이중맹검 RCT (n=100, 근관치료 실패 단근치): 치주인대 분리기 (Periotome) vs 피에조톰 최소외상 발치 비교.
+치주인대 분리기 (Periotome) 수술 시간 단축(5.78 vs 12.8분, p<0.01), 7일째 통증 조절 우수; 피에조톰 즉시 변연골 소실 유의하게 작음(0.083 vs 0.54 mm, p=0.007); 6개월 골소실은 두 군 차이 없음.
+일상 효율성은 치주인대 분리기 (Periotome) 우위, 신경혈관 인접부는 피에조톰; 장기 치조제 결과 동등 — 단근치 한정 연구.
 
 ## Summary
 This prospective double-blind RCT enrolled 100 patients requiring extraction of nonrestorable endodontically treated single-rooted teeth, randomized to periotome (n=50) or piezotome (n=50). Primary outcomes were operative time, postoperative pain (VAS 0–7 days), immediate marginal bone loss (Hu-Friedy probe), and 6-month bone loss (CBCT). Periotome was significantly faster (5.78 vs 12.8 min) and achieved better pain control by day 7. Piezotome produced markedly less immediate marginal bone loss (0.083 vs 0.54 mm, p=0.007), likely because it severs PDL without mechanical leverage against alveolar bone. However, at 6 months, both groups showed comparable bone resorption in height and width, suggesting that the immediate mechanical advantage of piezotome does not translate to long-term ridge preservation superiority. Authors recommend periotome as first-line for routine cases (faster, cheaper) and piezotome near neurovascular structures.
