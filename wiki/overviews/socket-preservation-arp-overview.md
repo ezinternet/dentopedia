@@ -411,6 +411,12 @@ Use Fischer et al. 2022 as the evidence anchor for patient discussion: "ARP will
 
 - [[bone-regeneration/ridge-preservation/canullo-2021-arp-biomaterials-dimensional-nma]] — SR+NMA (88 RCTs, 6 biomaterial classes): 이종골(Xenograft, XG)과 동종골(Allograft, AG)이 수평·수직 치조제 보존에서 가장 예측 가능(highest SUCRA rankings); 자가골(Autograft)+이종골 혼합은 자가골 단독보다 열위 가능성; 합성골(Alloplast)은 XG/AG 대비 비열등성 미확립; PRF는 연조직 자극에 도움, 골 보존 효과 제한적. 재료 선택 시 XG 또는 AG 우선 고려 근거. (sr+nma, 2021)
 
+## Related Papers
+
+### 신규 추가 (2026-09)
+
+- [[bone-regeneration/ridge-preservation/khehra-2025-arp-xenograft-collagen-membrane-rct]] — 6개월 병행 RCT (n=20, Harvard HSDM, 두꺼운 협측 골 ARP): 콜라겐 이종골 단독 vs 이종골+비교차결합 콜라겐 차단막 비교. KT 폭·수평 골폭·수직 골 변화·조직형태 신생골(25.8% vs 27.9%) 전 항목 통계적 동등. 두꺼운 협측 골 소켓에서는 차단막 추가 이득 없음. (rct, 2025)
+
 ## Clinical Quiz
 <!-- quiz_spec -->
 
