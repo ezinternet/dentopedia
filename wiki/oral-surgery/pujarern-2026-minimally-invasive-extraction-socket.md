@@ -6,7 +6,7 @@ date: 2026-08-12
 doi: "10.3389/froh.2026.1834419"
 source: pujarern-2026-minimally-invasive-extraction-socket.md
 category: [oral-surgery]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: pubmed-abstract
@@ -25,6 +25,16 @@ Narrative review (Front Oral Health 2026): post-extraction socket healing 4-phas
 ## 한줄요약
 
 서술적 종합(Frontiers in Oral Health 2026): 발치와 치유 4단계 생물학·Araújo & Lindhe 조직학 데이터와 최소침습 발치 기법 10종(치주인대 분리기 (Periotome)→효소분해) 비교·치조제 보존 전략.
+
+## Three-line Summary
+Narrative review (Frontiers in Oral Health 2026, Mahidol University) synthesizing post-extraction socket healing biology and 10 minimally invasive extraction techniques with comparative evidence.
+Buccal cortical crest drops 2.2 ± 0.2 mm vs lingual by week 8 (Araújo & Lindhe); piezotome minimizes immediate buccal bone loss but generates +18°C heat; periotome halves operative time (5.8 vs 12.8 min); 6-month marginal bone loss equivalent across techniques.
+No head-to-head RCTs with implant-level outcomes; most technique evidence comes from small single-center RCTs or ex vivo models; narrative design precludes GRADE assessment.
+
+## 세줄요약
+서술적 종합(Frontiers in Oral Health 2026, 마히돌대학교): 발치와 치유 생물학과 최소침습 발치 기법 10종의 원리·비교 근거 종합.
+협측 치조정 8주 내 2.2 ± 0.2 mm 하강(Araújo & Lindhe); 피에조톰 즉시 협측골 손실 최소화하나 +18°C 발열; 치주인대 분리기 (Periotome) 수술 시간 절반(5.8 vs 12.8분); 6개월 변연골 소실은 기법 간 동등.
+임플란트 결과 종점 기법 간 직접 비교 RCT 없음; 대부분 소규모·단일기관 연구 또는 체외 모델 의존; 서술적 설계로 GRADE 불가.
 
 ## Summary
 
