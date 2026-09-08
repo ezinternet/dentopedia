@@ -1,0 +1,605 @@
+<!--
+---
+title: "구강점막 자가회복 타임라인 계산기"
+type: interactive
+date: 2026-09-08
+status: done
+category: periodontics
+source_wiki:
+  - wiki/periodontics/dawes-2003-oral-mucosal-epithelium-turnover-time.md
+  - wiki/periodontics/aijima-2014-trpv3-oral-epithelial-wound-healing.md
+  - wiki/periodontics/ohshima-2002-egf-saliva-oral-epithelial-migration.md
+  - wiki/periodontics/watanabe-2025-prgf-vs-prp-gingival-epithelial.md
+tags: [wound-healing, oral-mucosa, TRPV3, epithelium, calculator, education]
+notes: |
+  구강점막 재상피화 예상 시간 추정기.
+  Dawes 2003 기반 migration 모델 + Aijima 2014 TRPV3 온도 보정.
+  비의료기기·교육/의사결정 보조.
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>구강점막 자가회복 타임라인</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+  <style>
+    :root {
+      --bg:         #F4F0EC;
+      --surface:    #FFFFFF;
+      --text:       #1C1210;
+      --text-muted: #7A6C67;
+      --border:     #D6CBC5;
+      --accent:     #B33A2E;      /* mucosal tissue coral */
+      --thermal:    #2E6D9E;      /* TRPV3 steel blue */
+      --phase-inf:  #8B9EAA;      /* inflammation: blue-grey */
+      --phase-epi:  #B33A2E;      /* re-epithelialization: tissue */
+      --phase-mat:  #8B743B;      /* maturation: amber */
+      --track-bg:   #E8D5CF;
+      --trpv3-on:   #2E6D9E;
+      --trpv3-off:  #A09088;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'IBM Plex Sans', system-ui, sans-serif;
+      font-size: 15px;
+      line-height: 1.6;
+      min-height: 100vh;
+      padding: 2rem 1.5rem 4rem;
+    }
+
+    .page-header {
+      max-width: 900px;
+      margin: 0 auto 2.5rem;
+    }
+
+    .page-header .eyebrow {
+      font-size: 11px;
+      font-weight: 500;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--text-muted);
+      margin-bottom: 0.5rem;
+    }
+
+    .page-header h1 {
+      font-family: 'IBM Plex Serif', Georgia, serif;
+      font-size: clamp(1.5rem, 4vw, 2.1rem);
+      font-weight: 600;
+      line-height: 1.2;
+      text-wrap: balance;
+      color: var(--text);
+      margin-bottom: 0.6rem;
+    }
+
+    .page-header .subtitle {
+      font-size: 14px;
+      color: var(--text-muted);
+      max-width: 60ch;
+    }
+
+    .layout {
+      max-width: 900px;
+      margin: 0 auto;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1.5rem;
+      align-items: start;
+    }
+
+    @media (max-width: 640px) {
+      .layout { grid-template-columns: 1fr; }
+    }
+
+    /* ── Controls Panel ── */
+    .controls-panel {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      padding: 1.75rem;
+    }
+
+    .control-group {
+      margin-bottom: 1.75rem;
+    }
+    .control-group:last-child { margin-bottom: 0; }
+
+    .control-label {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      margin-bottom: 0.6rem;
+    }
+
+    .control-label span:first-child {
+      font-size: 13px;
+      font-weight: 600;
+      letter-spacing: 0.01em;
+      color: var(--text);
+    }
+
+    .control-value {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 14px;
+      font-weight: 500;
+      color: var(--accent);
+      background: color-mix(in srgb, var(--accent) 8%, transparent);
+      border: 1px solid color-mix(in srgb, var(--accent) 20%, transparent);
+      border-radius: 3px;
+      padding: 1px 8px;
+      min-width: 72px;
+      text-align: center;
+    }
+
+    .control-desc {
+      font-size: 12px;
+      color: var(--text-muted);
+      margin-bottom: 0.75rem;
+    }
+
+    input[type="range"] {
+      -webkit-appearance: none;
+      appearance: none;
+      width: 100%;
+      height: 4px;
+      background: var(--track-bg);
+      border-radius: 2px;
+      outline: none;
+      cursor: pointer;
+    }
+
+    input[type="range"]::-webkit-slider-thumb {
+      -webkit-appearance: none;
+      appearance: none;
+      width: 16px;
+      height: 16px;
+      border-radius: 50%;
+      background: var(--accent);
+      border: 2px solid var(--surface);
+      box-shadow: 0 1px 4px rgba(0,0,0,0.18);
+      cursor: pointer;
+      transition: transform 0.1s;
+    }
+
+    input[type="range"]::-webkit-slider-thumb:hover {
+      transform: scale(1.15);
+    }
+
+    input[type="range"].thermal::-webkit-slider-thumb {
+      background: var(--thermal);
+    }
+
+    .trpv3-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      margin-top: 0.75rem;
+      font-size: 12px;
+      font-weight: 500;
+      padding: 4px 10px;
+      border-radius: 2px;
+      transition: all 0.3s ease;
+    }
+
+    .trpv3-badge.active {
+      background: color-mix(in srgb, var(--thermal) 10%, transparent);
+      border: 1px solid color-mix(in srgb, var(--thermal) 30%, transparent);
+      color: var(--thermal);
+    }
+
+    .trpv3-badge.inactive {
+      background: color-mix(in srgb, var(--trpv3-off) 10%, transparent);
+      border: 1px solid color-mix(in srgb, var(--trpv3-off) 25%, transparent);
+      color: var(--trpv3-off);
+    }
+
+    .trpv3-dot {
+      width: 7px;
+      height: 7px;
+      border-radius: 50%;
+    }
+
+    .trpv3-badge.active .trpv3-dot { background: var(--thermal); }
+    .trpv3-badge.inactive .trpv3-dot { background: var(--trpv3-off); }
+
+    /* ── Result Panel ── */
+    .result-panel {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      padding: 1.75rem;
+    }
+
+    .result-label {
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--text-muted);
+      margin-bottom: 1rem;
+    }
+
+    .result-main {
+      display: flex;
+      align-items: baseline;
+      gap: 0.4rem;
+      margin-bottom: 0.2rem;
+    }
+
+    .result-days {
+      font-family: 'IBM Plex Serif', Georgia, serif;
+      font-size: clamp(3rem, 10vw, 4.5rem);
+      font-weight: 600;
+      color: var(--accent);
+      line-height: 1;
+      font-variant-numeric: tabular-nums;
+      transition: color 0.3s;
+    }
+
+    .result-unit {
+      font-family: 'IBM Plex Serif', serif;
+      font-size: 1.4rem;
+      font-weight: 400;
+      color: var(--text-muted);
+      font-style: italic;
+    }
+
+    .result-hours {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 13px;
+      color: var(--text-muted);
+      margin-bottom: 0.5rem;
+    }
+
+    .result-range {
+      font-size: 12px;
+      color: var(--text-muted);
+      margin-bottom: 1.5rem;
+    }
+
+    /* ── Timeline Bar ── */
+    .timeline-section {
+      margin-bottom: 1.5rem;
+    }
+
+    .timeline-title {
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--text-muted);
+      margin-bottom: 0.6rem;
+    }
+
+    .timeline-bar {
+      height: 28px;
+      border-radius: 2px;
+      overflow: hidden;
+      display: flex;
+      background: var(--track-bg);
+      position: relative;
+    }
+
+    .phase-block {
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: width 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+      overflow: hidden;
+    }
+
+    .phase-block span {
+      font-size: 10px;
+      font-weight: 600;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: rgba(255,255,255,0.88);
+      white-space: nowrap;
+    }
+
+    .phase-inf { background: var(--phase-inf); }
+    .phase-epi { background: var(--phase-epi); }
+    .phase-mat { background: var(--phase-mat); }
+
+    .timeline-legend {
+      display: flex;
+      gap: 1rem;
+      margin-top: 0.6rem;
+      flex-wrap: wrap;
+    }
+
+    .legend-item {
+      display: flex;
+      align-items: center;
+      gap: 5px;
+      font-size: 11px;
+      color: var(--text-muted);
+    }
+
+    .legend-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 1px;
+      flex-shrink: 0;
+    }
+
+    /* ── Key Factors ── */
+    .factors {
+      border-top: 1px solid var(--border);
+      padding-top: 1rem;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0.75rem;
+    }
+
+    .factor-item {
+      padding: 0.75rem;
+      background: var(--bg);
+      border-radius: 3px;
+    }
+
+    .factor-name {
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--text-muted);
+      margin-bottom: 0.2rem;
+    }
+
+    .factor-value {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 13px;
+      font-weight: 500;
+      color: var(--text);
+    }
+
+    /* ── Footnotes ── */
+    .footnotes {
+      max-width: 900px;
+      margin: 2rem auto 0;
+      border-top: 1px solid var(--border);
+      padding-top: 1rem;
+    }
+
+    .footnotes-title {
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--text-muted);
+      margin-bottom: 0.6rem;
+    }
+
+    .footnote {
+      font-size: 12px;
+      color: var(--text-muted);
+      line-height: 1.5;
+      margin-bottom: 0.3rem;
+    }
+
+    .footnote strong {
+      color: var(--text);
+      font-weight: 600;
+    }
+
+    .disclaimer {
+      margin-top: 0.75rem;
+      font-size: 11px;
+      color: var(--text-muted);
+      padding: 0.6rem 0.85rem;
+      background: color-mix(in srgb, var(--text-muted) 6%, transparent);
+      border-left: 2px solid var(--border);
+    }
+  </style>
+</head>
+<body>
+
+<header class="page-header">
+  <p class="eyebrow">Periodontics · Wound Biology</p>
+  <h1>구강점막 자가회복 타임라인</h1>
+  <p class="subtitle">상처 면적과 구강 온도를 입력하면 재상피화 예상 기간을 계산합니다. Dawes 2003의 2.7h 교체율과 Aijima 2014의 TRPV3 온도 문턱값(33°C)에 기반합니다.</p>
+</header>
+
+<div class="layout">
+
+  <!-- Controls -->
+  <div class="controls-panel">
+
+    <div class="control-group">
+      <div class="control-label">
+        <span>상처 면적</span>
+        <span class="control-value" id="areaDisplay">25 mm²</span>
+      </div>
+      <p class="control-desc">구강 상피 창상의 2차원 면적 (원형 근사)</p>
+      <input type="range" id="areaSlider" min="2" max="400" value="25" step="1">
+    </div>
+
+    <div class="control-group">
+      <div class="control-label">
+        <span>구강 온도</span>
+        <span class="control-value thermal" id="tempDisplay">37 °C</span>
+      </div>
+      <p class="control-desc">TRPV3 활성화 문턱값은 33°C (Aijima 2014)</p>
+      <input type="range" id="tempSlider" min="22" max="41" value="37" step="0.5" class="thermal">
+      <div class="trpv3-badge active" id="trpv3Badge">
+        <div class="trpv3-dot"></div>
+        <span id="trpv3Text">TRPV3 활성 — 정상 구강 온도</span>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- Result -->
+  <div class="result-panel">
+    <p class="result-label">재상피화 예상</p>
+
+    <div class="result-main">
+      <div class="result-days" id="resultDays">3.0</div>
+      <div class="result-unit">일</div>
+    </div>
+    <div class="result-hours" id="resultHours">72 시간</div>
+    <div class="result-range" id="resultRange">범위: 58 – 90 시간</div>
+
+    <div class="timeline-section">
+      <p class="timeline-title">회복 단계</p>
+      <div class="timeline-bar">
+        <div class="phase-block phase-inf" id="phaseInf" style="width:33%">
+          <span>염증기</span>
+        </div>
+        <div class="phase-block phase-epi" id="phaseEpi" style="width:52%">
+          <span>재상피화</span>
+        </div>
+        <div class="phase-block phase-mat" id="phaseMat" style="width:15%">
+          <span>성숙</span>
+        </div>
+      </div>
+      <div class="timeline-legend">
+        <div class="legend-item">
+          <div class="legend-dot" style="background:var(--phase-inf)"></div>
+          <span>염증기 (고정 24h)</span>
+        </div>
+        <div class="legend-item">
+          <div class="legend-dot" style="background:var(--phase-epi)"></div>
+          <span>이동·재상피화</span>
+        </div>
+        <div class="legend-item">
+          <div class="legend-dot" style="background:var(--phase-mat)"></div>
+          <span>성숙·층화</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="factors">
+      <div class="factor-item">
+        <div class="factor-name">Migration 속도</div>
+        <div class="factor-value" id="factorMig">0.039 mm/h</div>
+      </div>
+      <div class="factor-item">
+        <div class="factor-name">TRPV3 보정</div>
+        <div class="factor-value" id="factorTemp">×1.00</div>
+      </div>
+      <div class="factor-item">
+        <div class="factor-name">상처 반경</div>
+        <div class="factor-value" id="factorRadius">2.8 mm</div>
+      </div>
+      <div class="factor-item">
+        <div class="factor-name">기저 교체주기</div>
+        <div class="factor-value">2.7 h/layer</div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<div class="footnotes">
+  <p class="footnotes-title">근거 논문</p>
+  <p class="footnote"><strong>Dawes 2003</strong> (DOI: 10.1016/s0003-9969(03)00014-1) — Coulter Counter 타액 계측(n=17): 구강점막 표면층 교체주기 <strong>2.7 h</strong> 추정. 기저 migration 모델의 참조 속도로 사용.</p>
+  <p class="footnote"><strong>Aijima 2014</strong> (DOI: 10.1096/fj.14-251314) — 마우스 TRPV3KO 모델: 33°C 이상에서 TRPV3 활성화 → EGFR 인산화 → 구강상피 증식. KO에서 발치와 창상 봉합 지연. 온도 보정 인자의 근거.</p>
+  <p class="footnote"><strong>Ohshima 2002</strong> (DOI: 10.1034/j.1600-0722.2002.11179.x) — 구강상피세포주 HO-1-N-1: 생리적 타액 EGF(1–10 ng/mL)가 PI3-K/p38/MEK 경로로 증식, MEK/TK/PI3-K 경로로 이동을 각각 독립적으로 구동.</p>
+  <p class="disclaimer">이 계산기는 교육·연구 목적의 개략적 추정치를 제공합니다. 실제 상처 치유는 감염, 전신 상태, 혈류, 영양 등 다수의 인자에 의존하며 이 모델에 포함되지 않습니다. 임상 결정에 직접 사용하지 마십시오.</p>
+</div>
+
+<script>
+  const BASE_RATE_MM_PER_H = 0.039; // 25mm² 창상 기준 72h 역산 → 2.82mm/72h ≈ 0.039 mm/h
+  const INF_HOURS = 24;
+  const MAT_FRAC = 0.15;
+
+  function getTempFactor(temp) {
+    // TRPV3 activation threshold 33°C (Aijima 2014)
+    if (temp >= 38)  return 0.85;
+    if (temp >= 35)  return 0.85 + (38 - temp) / 3 * 0.10;   // 0.85→0.95 at 35–38
+    if (temp >= 33)  return 0.95 + (35 - temp) / 2 * 0.05;   // 0.95→1.00 at 33–35
+    if (temp >= 28)  return 1.00 + (33 - temp) / 5 * 0.65;   // 1.00→1.65 below threshold
+    return 1.65 + (28 - temp) / 6 * 0.35;                    // 1.65→2.00 very cold
+  }
+
+  function isTRPV3Active(temp) { return temp >= 33; }
+
+  function calculate(area_mm2, temp_c) {
+    const radius_mm = Math.sqrt(area_mm2 / Math.PI);
+    const tf = getTempFactor(temp_c);
+    const mig_h = radius_mm / (BASE_RATE_MM_PER_H / tf);
+    const total_h = Math.max(INF_HOURS + 2, mig_h + INF_HOURS);
+    const mat_h = total_h * MAT_FRAC;
+    const epi_h = total_h - INF_HOURS - mat_h;
+
+    return {
+      total_h,
+      days: total_h / 24,
+      mig_h,
+      inf_h: INF_HOURS,
+      epi_h: Math.max(0, epi_h),
+      mat_h,
+      radius_mm,
+      tf,
+      mig_rate: BASE_RATE_MM_PER_H / tf
+    };
+  }
+
+  function fmt1(n) { return n.toFixed(1); }
+  function fmtH(h) { return Math.round(h); }
+  function fmtMig(rate) { return rate.toFixed(3) + ' mm/h'; }
+
+  function update() {
+    const area = parseFloat(document.getElementById('areaSlider').value);
+    const temp = parseFloat(document.getElementById('tempSlider').value);
+
+    document.getElementById('areaDisplay').textContent = area + ' mm²';
+    document.getElementById('tempDisplay').textContent = temp.toFixed(1) + ' °C';
+
+    const r = calculate(area, temp);
+
+    // Main result
+    document.getElementById('resultDays').textContent = fmt1(r.days);
+    document.getElementById('resultHours').textContent = fmtH(r.total_h) + ' 시간';
+    const lo = fmtH(r.total_h * 0.80);
+    const hi = fmtH(r.total_h * 1.25);
+    document.getElementById('resultRange').textContent = `범위: ${lo} – ${hi} 시간 (±25%)`;
+
+    // Timeline bar
+    const infPct = (r.inf_h / r.total_h * 100).toFixed(1);
+    const epiPct = (r.epi_h / r.total_h * 100).toFixed(1);
+    const matPct = (r.mat_h / r.total_h * 100).toFixed(1);
+    document.getElementById('phaseInf').style.width = infPct + '%';
+    document.getElementById('phaseEpi').style.width = epiPct + '%';
+    document.getElementById('phaseMat').style.width = matPct + '%';
+
+    // Factors
+    document.getElementById('factorMig').textContent = fmtMig(r.mig_rate);
+    document.getElementById('factorTemp').textContent = '×' + r.tf.toFixed(2);
+    document.getElementById('factorRadius').textContent = r.radius_mm.toFixed(1) + ' mm';
+
+    // TRPV3 badge
+    const badge = document.getElementById('trpv3Badge');
+    const txt = document.getElementById('trpv3Text');
+    if (isTRPV3Active(temp)) {
+      badge.className = 'trpv3-badge active';
+      if (temp >= 37)      txt.textContent = 'TRPV3 활성 (최적 온도)';
+      else if (temp >= 35) txt.textContent = 'TRPV3 활성 — 정상 구강 온도';
+      else                 txt.textContent = 'TRPV3 활성 (33°C 이상)';
+    } else {
+      badge.className = 'trpv3-badge inactive';
+      if (temp >= 30)      txt.textContent = 'TRPV3 비활성 — 증식 둔화';
+      else                 txt.textContent = 'TRPV3 비활성 — 현저한 회복 지연';
+    }
+
+    // Accent color shift: thermal (blue) when TRPV3 inactive to signal slow state
+    document.querySelector('.result-days').style.color =
+      isTRPV3Active(temp) ? 'var(--accent)' : 'var(--thermal)';
+  }
+
+  document.getElementById('areaSlider').addEventListener('input', update);
+  document.getElementById('tempSlider').addEventListener('input', update);
+
+  update();
+</script>
+
+</body>
+</html>
