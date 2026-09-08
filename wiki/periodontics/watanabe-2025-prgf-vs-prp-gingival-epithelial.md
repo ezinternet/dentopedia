@@ -6,7 +6,7 @@ date: 2025-01-20
 doi: "10.1055/s-0044-1801274"
 source: watanabe-2025-prgf-vs-prp-gingival-epithelial.md
 category: [periodontics]
-confidence: in-vitro
+evidence_level: in-vitro
 pdf_path: null
 pdf_filename: null
 source_collection: pubmed-abstract
@@ -21,6 +21,16 @@ First in vitro study (n=3 donors) comparing PRGF and L-PRP on human gingival epi
 
 ## 한줄요약
 최초 시험관 비교 연구(기증자 n=3): PRGF가 치은상피 전구세포 증식을 1–2일차에 PRP보다 유의하게 촉진하지만(p<0.01), PRGF와 PRP 어느 쪽도 창상 봉합률을 대조군 대비 향상시키지 못함.
+
+## Three-line Summary
+In vitro study (n=3 donors, human gingival epithelial progenitors HGEPp, Matsumoto Dental University) directly comparing PRGF and L-PRP on proliferation, wound closure, and gene expression.
+PRGF enhanced proliferation vs. L-PRP on days 1–2 (p<0.01); neither improved wound closure vs. controls; TNF-α and integrin β4 mRNA unchanged; EGF in PRGF (489 pg/mL) and L-PRP (279 pg/mL) below integrin β4 upregulation threshold (5,000–10,000 pg/mL).
+Only 3 donors (young males); gap wound model does not replicate in vivo gingival architecture; growth factors not quantified from this study's samples.
+
+## 세줄요약
+시험관 연구(기증자 n=3, 정상 치은상피 전구세포 HGEPp, 마츠모토 치과대학): PRGF vs. L-PRP 치은상피세포 (Gingival Epithelial Cell) 증식·창상 봉합·유전자 발현 직접 비교.
+PRGF가 1–2일차 증식 유의하게 우위(p<0.01); 두 군 모두 창상 봉합률은 대조군 대비 차이 없음; TNF-α·인테그린 β4 mRNA 변화 없음; PRGF 내 EGF(489 pg/mL)·L-PRP(279 pg/mL) 모두 인테그린 β4 역치(5,000–10,000 pg/mL) 미달.
+기증자 3명 한정; 갭 창상 모델은 생체 내 치은 구조 비모사; 이번 샘플 성장인자 농도 미정량.
 
 ## Summary
 Watanabe et al. (2025) conducted the first in vitro study directly comparing PRGF (Plasma Rich in Growth Factors, leukocyte-poor) and L-PRP (leukocyte-containing platelet-rich plasma) on human gingival epithelial progenitor (HGEPp) cells for proliferation, wound closure, and gene expression. PRGF's leukocyte count (median 0.3 × 10⁴/mL) was markedly lower than L-PRP (6.0 × 10⁴/mL), consistent with IL-1β reduction. PRGF significantly enhanced proliferation on days 1 and 2 (p<0.01), attributed to lower IL-1β (which downregulates cyclin B) rather than TNF-α. Despite the early proliferative advantage, no significant difference in wound closure rate was observed in a 500 µm gap model, suggesting that migration—not proliferation—primarily governs gingival epithelial wound closure kinetics in vitro. EGF concentrations in both concentrates (PRGF: 489 pg/mL; PRP: 279 pg/mL) were below the threshold for integrin β4 upregulation, explaining the null migration finding.
