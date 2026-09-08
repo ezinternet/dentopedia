@@ -18,6 +18,16 @@ In vitro study (n=3 donors) comparing PRGF and L-PRP on human gingival epithelia
 ## 한줄요약
 시험관 연구(기증자 n=3): PRGF가 치은상피 전구세포 증식을 1–2일차에 PRP보다 유의하게 촉진하지만(p<0.05), 두 군 모두 창상 봉합률은 대조군 대비 차이 없음.
 
+## Three-line Summary
+In vitro study (n=3 donors, normal human gingival epithelial progenitors HGEPp, Matsumoto Dental University) directly comparing PRGF and L-PRP effects on proliferation and wound closure.
+PRGF significantly enhanced proliferation vs. L-PRP at days 1–2 (p<0.05); neither PRGF nor L-PRP improved wound closure vs. controls; TNF-α and integrin β4 mRNA unchanged; EGF levels in PRGF (489 pg/mL) and L-PRP (279 pg/mL) below integrin β4 upregulation threshold (5,000–10,000 pg/mL).
+Only 3 donors (young Mongoloid males); wound model does not replicate in vivo gingival architecture; growth factor concentrations not quantified from this study's samples.
+
+## 세줄요약
+시험관 연구(기증자 n=3, 정상 치은상피 전구세포 HGEPp, 마츠모토 치과대학): PRGF vs. L-PRP 치은상피세포 (Gingival Epithelial Cell) 증식·창상 봉합 직접 비교.
+PRGF가 1–2일차 증식 유의하게 우위(p<0.05); PRGF·L-PRP 모두 창상 봉합률은 대조군 대비 차이 없음; TNF-α·인테그린 β4 mRNA 변화 없음; PRGF 내 EGF(489 pg/mL)·L-PRP(279 pg/mL) 모두 인테그린 β4 상향 역치(5,000–10,000 pg/mL) 미달.
+기증자 3명(젊은 몽골로이드 남성 한정); 창상 모델이 생체 내 치은 구조 비모사; 이번 연구 샘플의 성장인자 농도 미정량.
+
 ## 1. Document Information
 - Journal: European Journal of Dentistry, Vol. 19, No. 4, pp. 1055–1062, 2025
 - Published online: January 20, 2025
