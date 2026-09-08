@@ -18,6 +18,16 @@ RCT (n=80 DAPT patients, flapless single-tooth extraction): piezosurgery (PI) ac
 ## 한줄요약
 RCT (n=80, 항혈소판 이중요법 복용환자, 비판막형 단일치 발치): 피에조서저리 정상응고(≤30분) 달성 70% vs 터빈 40% (p=0.007), 술중 합병증 25% vs 47.5% (p=0.036).
 
+## Three-line Summary
+RCT (n=80, patients on dual antiplatelet therapy [DAPT], flapless single-tooth extraction, Shanghai Stomatological Hospital) comparing piezosurgery vs conventional turbine handpiece.
+Piezosurgery achieved normal intra-alveolar clotting (≤30 min) in 70% vs 40% with turbine (p=0.007); intraoperative complications 25% vs 47.5% (p=0.036); turbine independently predicted prolonged bleeding (OR 3.10, 95% CI 1.20–8.00).
+Piezosurgery is preferred for flapless extraction in DAPT patients; evidence does not extend to anticoagulant-only (warfarin, DOAC) patients.
+
+## 세줄요약
+RCT (n=80, 항혈소판 이중요법 [DAPT] 복용환자, 비판막형 단일치 비판막 발치, 상하이): 피에조서저리 vs 전통 터빈 비교.
+피에조서저리 정상응고(≤30분) 달성 70% vs 터빈 40% (p=0.007); 술중 합병증 25% vs 47.5% (p=0.036); 터빈이 출혈 지연 독립 예측인자(OR 3.10, 95% CI 1.20–8.00).
+DAPT 환자 비판막 발치 시 피에조서저리 우선; 항응고제(와파린·DOAC) 단독 투약 환자에는 외삽 불가.
+
 ## 1. Document Information
 - Journal: Journal of Oral Science, vol 64, issue 4, pp 294–299, 2022
 - DOI: 10.2334/josnusd.22-0187
