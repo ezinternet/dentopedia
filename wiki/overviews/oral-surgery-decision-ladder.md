@@ -187,3 +187,9 @@ PRF: 초기 2–3개월 통증 −66%·연조직 +75%·골충전 +85%, 6개월 �
 ### 신규 추가 (2026-07)
 
 - [[oral-surgery/chiarella-2007-iatrogenic-bppv-dental-maxillofacial-surgery]] — ENT-perspective narrative review + case series (abstract-only): iatrogenic benign paroxysmal positional vertigo (BPPV) after dental/maxillofacial surgery, attributed to post-traumatic otoconia displacement; no incidence data, temporal association only. Generalizes the BPPV-as-surgical-complication mechanism beyond sinus-lift-specific reporting (cf. [[sinus-lift/transcrestal/stacchi-2022-transcrestal-sinus-complications-low-rbh]], 0.5% in a 430-implant TSFE cohort) — single paper, not yet a full axis; candidate for a future "vestibular/BPPV complication" axis if more papers accumulate. (case-report, 2007)
+
+### 신규 추가 (2026-09) — 최소침습 발치 기구
+
+- [[oral-surgery/chenchev-2024-benex-minimally-invasive-extraction]] — Crossover RCT (n=56, Medical University Plovdiv): Benex 수직 발치 시스템 vs 통상 겸자. Benex 협측 피질판 보존 95% vs 71.8%(p<0.05); 10일째 상처 치유 유의 개선(100% vs 78.6% Very Good/Excellent). ARP 전 소켓 보존에 유리; 실근관치료 치아·다근치는 실패 위험↑. (rct, 2024)
+- [[oral-surgery/sharma-2022-periotome-piezotome-endodontic-extraction]] — Double-blind RCT (n=100, 실근관치료 단근치): 고막기 vs 피에조톰 최소침습 발치 비교. 고막기 더 빠름(5.78 vs 12.8분, p<0.01)·7일 통증 우세; 피에조톰은 즉시 변연 골 손실 유의 감소(0.083 vs 0.54mm, p=0.007); 6개월 치조제 결과 동등. 신경혈관 근접부엔 피에조톰 선호. (rct, 2022)
+- [[oral-surgery/zhang-2022-piezosurgery-flapless-extraction-dapt]] — RCT (n=80, 이중항혈소판요법[DAPT] 환자, Shanghai Stomatological Hospital): 피에조서저리 vs 통상 터빈 무피판 단순 발치. 피에조 정상 지혈(≤30분) 70% vs 40%(p=0.007); 술중 합병증 25% vs 47.5%(p=0.036). DAPT 환자 발치 시 피에조서저리 1선 권고; 항응고제(와파린·DOAC)는 근거 미확장. (rct, 2022)
