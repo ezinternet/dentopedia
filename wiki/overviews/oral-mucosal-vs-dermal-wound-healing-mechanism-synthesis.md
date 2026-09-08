@@ -8,6 +8,10 @@ tags: [wound-healing, oral-mucosa, dermal, skin, scarless-healing, keratinocyte,
 source_papers:
   - periodontics/glim-2013-detrimental-dermal-wound-healing
   - periodontics/drukala-2005-comparison-of-proliferation-and-motile
+  - periodontics/dawes-2003-oral-mucosal-epithelium-turnover-time
+  - periodontics/aijima-2014-trpv3-oral-epithelial-wound-healing
+  - periodontics/watanabe-2025-prgf-vs-prp-gingival-epithelial
+  - periodontics/ohshima-2002-egf-saliva-oral-epithelial-migration
 evidence_level: synthesis
 source: synthesis
 ---
@@ -58,6 +62,10 @@ Both papers converge independently on fibroblasts as a regulatory layer rather t
 
 - [[periodontics/glim-2013-detrimental-dermal-wound-healing]] — tissue-level narrative review: oral vs dermal wound-healing differences across immune mediators, vasculature, bone-marrow-derived cells, reepithelialization rate, ECM (abstract-only)
 - [[periodontics/drukala-2005-comparison-of-proliferation-and-motile]] — cell-level in-vitro mechanism: oral mucosal keratinocytes migrate faster/more directionally and proliferate faster than skin keratinocytes; paracrine fibroblast suppression demonstrated
+- [[periodontics/dawes-2003-oral-mucosal-epithelium-turnover-time]] — quantitative baseline: oral mucosal surface layer replaced every 2.7 h (salivary cell count, n=17); foundational turnover rate anchoring all proliferation comparisons
+- [[periodontics/aijima-2014-trpv3-oral-epithelial-wound-healing]] — molecular mechanism: TRPV3 (thermosensitive Ca²⁺ channel) expressed higher in oral vs skin epithelia; >33°C activation drives proliferation; KO delays wound closure; Ca²⁺→EGFR axis
+- [[periodontics/watanabe-2025-prgf-vs-prp-gingival-epithelial]] — applied: PRGF (leukocyte-poor PRP) enhances gingival epithelial proliferation days 1–2 (p<0.01 vs L-PRP) but neither concentrate improves wound closure; IL-1β reduction the likely mechanism
+- [[periodontics/ohshima-2002-egf-saliva-oral-epithelial-migration]] — salivary factor mechanism: EGF at physiologic salivary concentrations (1–10 ng/mL) drives oral epithelial proliferation (PI3-K/p38/MEK) and migration (MEK>TK>PI3-K) via distinct pathways
 - [[periodontics/huynh-2016-saline-rinsing-gingival-fibroblast-wound-healing]] — complementary in-vitro gingival fibroblast wound-healing data (both source papers already cross-link to this one); found oral keratinocytes do not respond to saline/chloride migration cues unlike gingival fibroblasts, consistent with distinct motility-regulation pathways between the two cell types
 
 ## Related Overviews
