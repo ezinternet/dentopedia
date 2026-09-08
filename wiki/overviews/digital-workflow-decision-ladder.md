@@ -157,6 +157,10 @@ Schiavon 2025 NMA + Najeeb 2025 + Zhang 2025 spine.
 
 - [[digital-workflow/jkda-2025-63-5-003]] — In vitro pilot (경북대 보철과 이규복·김소연, JKDA 2025): 3D 프린팅 zirconia crown의 offset parameter별 marginal·internal fit 비교 — preliminary pilot. (in-vitro, 2025)
 
+### 신규 추가 (2026-09)
+
+- [[digital-workflow/lee-2019-full-mouth-rehabilitation-reduced]] — 증례보고 (서울대 보철과, 78세 여성): 다발성 상실치·심한 마모에 의한 교합 수직 고경(OVD) 감소 환자에 전악 디지털 워크플로우 적용. 심미·기능 회복의 디지털 계획·제작 파이프라인 실례. (case-report, 2019)
+
 ## Additional Spokes — CBCT 해부학 평가 (2026-05-26 추가)
 
 | Spine paper | Evidence | Key finding |
