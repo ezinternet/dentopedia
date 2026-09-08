@@ -6,7 +6,7 @@ doi: "10.4103/njms.njms_309_21"
 category: [oral-surgery]
 pdf_path: N/A
 pdf_filename: N/A
-source_collection: external
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested
