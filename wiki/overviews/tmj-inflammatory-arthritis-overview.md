@@ -129,6 +129,12 @@ Two further details in that review deserve to be uncomfortable. The authors stat
 
 - [[tmj/bernardi-2024-psoriatic-arthritis-tmj-pathogenesis-gender-differences]] — PsA as enthesitis/cytokine-driven with simultaneous erosion and proliferative bone; erosion-location differentiator; anti-TNF and ONJ; no PsA-TMJ epidemiology
 
+## Related Papers
+
+### 신규 추가 (2026-09)
+
+- [[tmj/akbar-2026-tmj-ganglion-cyst-ear-obstruction-case-report]] — 증례보고 (72세 여성, 2년 추적): 하악 교합 시에만 발생하는 좌측 청력 소실 — 동적 외이도(EAC) 협착 확인. MRI: 후관절 조직 부착 약 7×10mm 신경절 낭종. 술전 조직검사로 확진, 이개 전방 접근 절제 후 2년 청력 정상·통증 소실. TMJ 낭종의 기계적 귀 폐색 기전 및 개방 수술 치료 근거. (case-report, 2026)
+
 **Related overviews**
 
 - [[tmd-management-evidence-ladder]] — the TMD/TMJ hub; its axis 8 covers **degenerative** TMJ osteoarthritis, this page covers the **inflammatory/autoimmune** class alongside it
