@@ -6,6 +6,16 @@ status: done
 owner: 원장
 priority: P1
 tags: [oral-surgery, minimally-invasive, extraction, chairside, interactive, decision-tree]
+source_wiki:
+  - wiki/oral-surgery/sharma-2022-periotome-piezotome-endodontic-extraction.md
+  - wiki/oral-surgery/chenchev-2024-benex-minimally-invasive-extraction.md
+  - wiki/oral-surgery/zhang-2022-piezosurgery-flapless-extraction-dapt.md
+  - wiki/oral-surgery/pujarern-2026-minimally-invasive-extraction-socket.md
+output_wiki:
+  - interactives/2026-09-06_minimally-invasive-extraction-tool-selector.html
+  - interactives/2026-09-06_minimally-invasive-extraction-technique-comparison.html
+  - interactives/2026-09-06_socket-healing-timeline.html
+  - interactives/2026-09-06_oral-wound-healing-timeline.html
 ---
 
 # Goal
