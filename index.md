@@ -4220,6 +4220,10 @@ tags: []
 ### periodontics
 - [[periodontics/glim-2013-detrimental-dermal-wound-healing]] — Glim 2013 · narrative-review (Perspective) · 구강점막은 피부보다 면역매개체·혈관 적고 골수유래세포·재상피화·섬유아세포증식 빨라 무흉터 치유 경향 (abstract-only)
 - [[periodontics/drukala-2005-comparison-of-proliferation-and-motile]] — Drukała 2005 · in-vitro · 구강점막 각질세포가 피부 각질세포보다 이동속도 12%·증식 20% 더 빠름을 보인 체외 비교연구, 섬유아세포 조건배지가 이를 억제
+- [[periodontics/dawes-2003-oral-mucosal-epithelium-turnover-time]] — Dawes 2003 · cross-sectional (n=17) · 타액 Coulter Counter 계측: 구강점막 표면 상피층 교체주기 **2.7 h**, 무치악 구강 세균 총수 ~1.58×10⁹, 세균 평균 분열간격 1.38 h (DOI 10.1016/s0003-9969(03)00014-1)
+- [[periodontics/aijima-2014-trpv3-oral-epithelial-wound-healing]] — Aijima 2014 · in-vivo (마우스 TRPV3KO) · 구강상피에서 피부보다 높은 TRPV3 발현; 33°C↑ 활성화→구강상피 증식 촉진; KO에서 증식률↓·발치와 봉합 지연; 기전: Ca²⁺→EGFR 인산화 (DOI 10.1096/fj.14-251314)
+- [[periodontics/watanabe-2025-prgf-vs-prp-gingival-epithelial]] — Watanabe 2025 · in-vitro (HGEPp; n=3 donors) · PRGF가 치은상피 증식을 1–2일차에 PRP보다 유의하게 촉진(p<0.01), 창상봉합률·TNF-α·integrin β4 mRNA는 양군 간 차이 없음 (DOI 10.1055/s-0044-1801274)
+- [[periodontics/ohshima-2002-egf-saliva-oral-epithelial-migration]] — Ohshima 2002 · in-vitro (HO-1-N-1) · 타액 생리 농도 EGF(1–10 ng/mL)가 구강상피 DNA 합성·이동 촉진; 증식과 이동은 별도 신호경로(이동: MEK 30%·TK 40%·PI3-K 60% 억제) (DOI 10.1034/j.1600-0722.2002.11179.x)
 - [[overviews/oral-mucosal-vs-dermal-wound-healing-mechanism-synthesis]] — Synthesis 2026-08-09 신설 (2편): "구강이 피부보다 빨리 낫는다"를 조직수준(Glim 2013: 면역매개체·혈관↓, 골수유래세포·재상피화↑)과 세포수준(Drukala 2005: 각질세포 이동속도 12%↑·직선성↑·증식 20%↑, 섬유아세포 방사성 조절)으로 연결하는 기전 종합
 - [[overviews/implant-placement-direction-anatomic-constraints-overview]] — Synthesis 2026-08-29 신설 (6편): 임플란트 식립 방향·해부학적 제약 부위별 종합 — 전치부 Safe Angle(4.56° 편차·팔라탈 위치), 상악 소구치 ILAA **18.3°** 순측 기울기 필수(피질골 천공 84.1%→40.5%), 후방 하악 IAC 안전거리 2대구치 **4.65 mm** 최단·안전마진 ≥2 mm + CPDU D-I형 LPP 최고위험(U형 54.4%), 후방 상악 TSFE 1-mm 안전마진·r-CAIS **각도 편차 1.25°**·막 천공 2.5%; 비축방향 5년 변연골소실 **0.22 vs 0.10 mm** (P<.05) — 해부학이 기울기를 강제하더라도 교합 설계 보정 필요. CBCT 전 부위 필수.
 
