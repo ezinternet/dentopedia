@@ -273,6 +273,16 @@ Choose aligners confidently for **mild-to-moderate, non-extraction, predominantl
 | Thermoforming material properties | [[orthodontics/clear-aligner/ryu-2018-ecligner-thermoforming-toa]] | 4 thermoplastics (in-vitro) | thermoforming significantly alters all 4 materials; eCligner unique post-thermoforming profile | in-vitro |
 | Brand VTS comparison (pilot) | [[orthodontics/clear-aligner/telles-2025-clear-aligner-brand-virtual-setup-comparison]] | 10 patients (4 brands) | same prescription → different stages/attachments/predicted endpoints per brand; pilot only | pilot cross-sectional |
 
+## Related Papers
+
+### 신규 추가 (2026-09) — 부착물·딥바이트·원심이동·유지 장치
+
+- [[orthodontics/clear-aligner/jedlinski-2023-attachments-orthodontic-aligner-comprehensive-sr]] — SR (26편): attachment가 이동 표현량과 aligner 유지력을 유의하게 향상; 이동 유형별 최적 부위·형태·접착 프로토콜 근거 제공. (sr, 2023)
+- [[orthodontics/clear-aligner/pham-2026-clear-aligner-deep-bite-rct]] — RCT (베트남 국립병원): CAT vs 고정식 교정 딥바이트 치료 비교. 치료 기간 CAT 유의 단축(20.77 vs 27.47개월, p<0.001); 과개 교합 개선·over-jet 감소 동등; 수직 안면 변화는 고정식 더 큼; 환자 만족도 CAT 전 항목 유의 우세. (rct, 2026)
+- [[orthodontics/clear-aligner/wang-2026-accuracy-mandibular-dentition-distalisation-invisalign]] — 파일럿 연구 (Class III 성인 12명, CBCT + 디지털 모델 중첩): 하악 치열 원심이동 ClinCheck 계획 대비 실제 달성률 평가 — 과교정 설계 필요성 지지. (prospective-pilot, 2026)
+- [[orthodontics/petsos-2024-fixed-steel-retainer-gingival-health]] — RCT (37명, 12개월): 고정식 스틸 유지 장치 vs 진공 성형 가철식 유지 장치의 치주 건강 비교. REC·PPD 차이 없음; 고정식 73.3% vs 가철식 88.2% 12개월 건강 치은 유지. 임상적으로 비열등. (rct, 2024)
+- [[orthodontics/wafaie-2023-compliance-retainer-audiovisual-reminder]] — RCT (52명, 6개월): Hawley 유지 장치 착용 시간에 대한 시청각+주간 알림 vs 구두 설명 효과. 6개월 착용 시간 유의 향상(p=0.033); 평균 일 착용 14.3–14.9h. 디지털 리마인더로 compliance 개선 가능. (rct, 2023)
+
 ## Related Overviews
 
 - [[overviews/orthodontic-tooth-movement-biology]] — molecular/biomechanical basis of tooth movement underlying aligner force delivery
