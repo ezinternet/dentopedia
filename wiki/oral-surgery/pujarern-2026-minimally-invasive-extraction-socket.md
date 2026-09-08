@@ -9,7 +9,7 @@ category: [oral-surgery]
 confidence: narrative-review
 pdf_path: N/A
 pdf_filename: N/A
-source_collection: external
+source_collection: pubmed-abstract
 tags: [socket-healing, extraction, minimally-invasive, bundle-bone, alveolar-ridge, atraumatic, periotome, piezotome, socket-preservation, oral-surgery]
 relations:
   - type: extends
