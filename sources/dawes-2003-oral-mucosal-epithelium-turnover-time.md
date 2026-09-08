@@ -18,6 +18,16 @@ Cross-sectional salivary epithelial cell count study (n=17) estimating oral muco
 ## 한줄요약
 타액 내 상피세포 수를 Coulter Counter로 계측한 관찰 연구(n=17): 구강점막 표면층은 매 2.7시간마다 교체되고, 무치악 구강 내 세균 수는 약 15.8억 개.
 
+## Three-line Summary
+Cross-sectional salivary epithelial cell count study (n=17, University of Manitoba) estimating oral mucosal surface layer turnover time and bacterial load in edentulous mouths using Coulter Counter and culture methods.
+Surface layer turnover: every 2.7 h; total bacteria in edentulous mouth: ~1.58 × 10⁹; mean bacterial division time: 1.38 h; salivary flow >0.04 mL/min prevents continuous-culture conditions for fast-growers.
+Steady-state model assumes uniform mucosal surface area; only edentulous mouths studied; dentate mouth surfaces (sulcus, tooth) not included.
+
+## 세줄요약
+타액 상피세포 수 Coulter Counter 계측 관찰 연구(n=17, 마니토바대학교): 구강점막 표면층 교체 시간 및 무치악 구강 내 세균 부하 추정.
+표면층 교체 간격: 2.7시간; 무치악 구강 내 총 세균 수: 약 15.8억 개; 세균 평균 분열 시간: 1.38시간; 타액 유속 >0.04 mL/분이면 급속 성장균의 연속 배양 조건 형성 안 됨.
+항정상태 모델이 균일 점막 면적 가정; 무치악만 포함; 치아·치은열구 표면은 미포함.
+
 ## 1. Document Information
 - Journal: Archives of Oral Biology, Vol. 48, No. 5, pp. 329–336, May 2003
 - Institution: Department of Oral Biology, University of Manitoba, Winnipeg, Canada
