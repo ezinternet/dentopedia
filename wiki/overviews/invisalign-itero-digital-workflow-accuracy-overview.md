@@ -255,6 +255,14 @@ ClinCheck overestimates achievement in virtually every movement category. The va
 
 ---
 
+## Related Papers
+
+### 신규 추가 (2026-09) — IOS 정확도·환자 경험·교정 attachment
+
+- [[digital-workflow/schlenz-2022-transfer-accuracy-digital-conventional-full-arch]] — In vitro (팬텀, 12반복×5설정): IOS 5종(CS3600·Primescan·Trios 4·Medit i500·Emerald S) vs 알지네이트 전악 이송 정확도 비교(고정식 교정 장치 포함). 교정 장치 부착 시 IOS 전부 CAI보다 편차 낮음(28–141 µm vs 103–212 µm); Primescan 최속(92–115s). 고정식 교정 환자에서 IOS 권고. (in-vitro, 2022)
+- [[digital-workflow/oguz-2026-trueness-precision-intraoral-scanners-3d-printed]] — In vitro (이뇨뉴대학, 3D 인쇄 교정 모델 30개): Primescan·Trios 3·iTero Element 2 Plus·iTero Element 5D·Rapideye MI-1000의 trueness·precision 비교(clear-aligner attachment 포함). (in-vitro, 2026)
+- [[digital-workflow/ramos-morro-2026-patient-perception-reliability-reproducibility-chairside]] — SR (10 횡단 연구, 2016–2024): IOS vs 통상 인상 정확도·의자 시간·환자 편안도 비교. 정확도 혼재; 의자 시간·환자 편안도 2편에서 IOS 유의 우세(짧고 높음). 메타분석 불가. (sr, 2026)
+
 ## Related Overviews
 
 - [[overviews/clear-aligner-indications-limitations]] — broader clear aligner indication/limitation synthesis (periodontal, TMJ, OHRQoL, complex cases); this overview is its iTero/accuracy-specific companion
