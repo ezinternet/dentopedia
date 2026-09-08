@@ -110,3 +110,9 @@ The intentionally excluded papers matter too: `lee-2009` (short-implant marginal
 - [[overviews/bone-quality-implant-risk-modification-overview]] — bone quality as a risk axis
 - [[overviews/implant-macrogeometry-clinical-outcomes-overview]] — macrodesign/surface × outcomes
 - [[overviews/vitamin-d-osseointegration-implant-overview]] — a systemic modifier of osseointegration
+
+## Related Papers
+
+### 신규 추가 (2026-09) — 역사적 맥락
+
+- [[implants/rawat-2024-per-ingvar-branemark-father-modern-implantology]] — 서술적 역사 리뷰 (Subharti Dental College, 2024): Per-Ingvar Brånemark(1929–2014) 생애와 현대 임플란트치의학의 창시. 1957 토끼 실험 → 1965 첫 사람 하악 구강내 임플란트(Gösta Larsson, 40년 생존) → 1982 토론토 컨퍼런스 후 Nobel Biocare 상용화. BAHA 골전도 보청기 포함 총 100,000명+ 수혜. Schroeder(ITI·TPS)와 이원 창시 학파. 원본 데이터 없는 교육·역사적 검토. (narrative-review, 2024)
