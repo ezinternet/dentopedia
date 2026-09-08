@@ -18,6 +18,16 @@ Double-blind RCT (n=100, endodontically failed single-rooted teeth): periotome w
 ## 한줄요약
 이중맹검 RCT (n=100, 근관치료 실패 단근치): 치주인대 분리기 (Periotome)이 더 빠르고(5.78 vs 12.8분, p<0.01) 즉시 통증 조절 우수; 피에조톰은 즉시 변연골 소실 더 작음(0.083 vs 0.54 mm, p=0.007); 6개월 후 골소실은 두 군 차이 없음.
 
+## Three-line Summary
+Double-blind RCT (n=100, endodontically failed single-rooted teeth, SRCDSR) comparing periotome vs piezotome for minimally traumatic extraction.
+Periotome faster (5.78 vs 12.8 min, p<0.01) with superior day-7 pain reduction; piezotome had significantly less immediate marginal bone loss (0.083 vs 0.54 mm, p=0.007); 6-month bone height and buccolingual width loss were not significantly different.
+Periotome preferred for efficiency; piezotome for immediate bony socket preservation; long-term outcomes equivalent — study limited to single-rooted teeth only.
+
+## 세줄요약
+이중맹검 RCT (n=100, 근관치료 실패 단근치): 치주인대 분리기 (Periotome) vs 피에조톰 최소외상 발치 비교.
+치주인대 분리기 (Periotome) 수술 시간 단축(5.78 vs 12.8분, p<0.01), 7일째 통증 조절 우수; 피에조톰 즉시 변연골 소실 유의하게 작음(0.083 vs 0.54 mm, p=0.007); 6개월 골소실은 두 군 차이 없음.
+효율성은 치주인대 분리기 (Periotome) 우위, 즉시 골 보존은 피에조톰 우위; 장기 결과 동등 — 단근치 한정 연구.
+
 ## 1. Document Information
 - Journal: National Journal of Maxillofacial Surgery, vol 13, Suppl 1, pp S91–S96, 2022
 - DOI: 10.4103/njms.njms_309_21, PMC9651255
