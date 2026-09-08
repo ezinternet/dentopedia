@@ -18,6 +18,16 @@ In vivo/in vitro mouse study demonstrating TRPV3 (thermosensitive Ca²⁺ channe
 ## 한줄요약
 마우스 생체/시험관 연구: 구강상피에서 피부보다 높게 발현되는 TRPV3 채널이 33°C 이상 온도에서 활성화되어 구강상피세포 증식 및 발치와 봉합을 촉진함.
 
+## Three-line Summary
+In vivo/in vitro mouse study (C57BL/6 WT vs. TRPV3KO) identifying TRPV3 thermosensitive Ca²⁺ channel as a driver of oral epithelial proliferation and wound closure.
+TRPV3 mRNA higher in oral epithelia than skin; activation above 33°C promotes proliferation via EGFR phosphorylation; TRPV3KO mice showed reduced epithelial proliferation (BrdU) and delayed wound closure in molar extraction model.
+Mouse-to-human extrapolation required; molar extraction model may not generalize to gingival/mucosal wounds; exact Ca²⁺ threshold and EGFR linkage need further study.
+
+## 세줄요약
+마우스 생체/시험관 연구(C57BL/6 WT vs. TRPV3KO): 열감수성 Ca²⁺ 채널 TRPV3가 구강상피 증식과 창상 봉합의 촉진자임을 규명.
+TRPV3 mRNA 구강상피에서 피부보다 높은 발현; 33°C 이상 활성화 → EGFR 인산화 경유 증식 촉진; TRPV3KO 마우스에서 상피 증식(BrdU) 감소 및 구치 발치와 봉합 지연 확인.
+인간 외삽 필요; 구치 발치 모델은 치은·점막 창상에 일반화 한계; Ca²⁺ 역치 및 EGFR 연결고리 추가 연구 필요.
+
 ## 1. Document Information
 - Journal: FASEB Journal, Vol. 29, No. 1, pp. 182–192, January 2015 (published online Oct 28, 2014)
 - Institutions: Kyushu University Graduate School of Dental Science; Saga University; Okazaki Institute (NIPS); Jichi Medical University, Japan
