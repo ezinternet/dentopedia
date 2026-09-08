@@ -18,6 +18,16 @@ In vitro study using oral buccal carcinoma cell line HO-1-N-1 showing that physi
 ## 한줄요약
 구강상피세포주(HO-1-N-1) 시험관 연구: 타액 생리 농도 EGF(1–10 ng/mL)가 증식(PI3-K, p38-MAPK, MEK 경로)과 이동(MEK 30%↓, TK 40%↓, PI3-K 60%↓)을 별도 신호체계로 각각 촉진함.
 
+## Three-line Summary
+In vitro study (oral buccal carcinoma cell line HO-1-N-1, Nihon University) testing effects of physiologic salivary EGF concentrations (1–10 ng/mL) on oral epithelial proliferation and migration.
+EGF at 1–10 ng/mL dose-dependently stimulated DNA synthesis; proliferation inhibited by PI3-K, p38-MAPK, and MEK inhibitors; migration reduced by MEK inhibition (30%), TK inhibition (40%), and PI3-K inhibition (60%) — showing distinct signaling routes for each process.
+Carcinoma-derived cell line may not represent normal oral mucosa; in vitro only; salivary EGF bioavailability in vivo may differ.
+
+## 세줄요약
+시험관 연구(구강 협점막 암종 유래 세포주 HO-1-N-1, 니혼대학교): 타액 생리 농도 EGF(1–10 ng/mL)의 구강상피 증식·이동 효과 검증.
+EGF 1–10 ng/mL 농도 의존적 DNA 합성 촉진; 증식은 PI3-K·p38-MAPK·MEK 억제제로 감소; 이동은 MEK 억제(30% 감소), TK 억제(40%), PI3-K 억제(60%) — 증식과 이동이 별개 신호 경로 사용.
+암종 유래 세포주는 정상 점막 대표성 한계; 체외 실험; 생체 내 타액 EGF 생물학적 이용률 불확실.
+
 ## 1. Document Information
 - Journal: European Journal of Oral Sciences, Vol. 110, No. 2, pp. 130–136, April 2002
 - Institution: Department of Biochemistry, Nihon University School of Dentistry, Tokyo, Japan
