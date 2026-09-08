@@ -9,7 +9,7 @@ category: [oral-surgery]
 confidence: rct
 pdf_path: N/A
 pdf_filename: N/A
-source_collection: external
+source_collection: pubmed-abstract
 tags: [minimally-invasive, extraction, benex, vertical-extraction, buccal-plate, atraumatic, socket-healing, implant-site-preparation]
 relations:
   - type: reinforces
