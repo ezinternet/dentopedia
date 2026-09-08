@@ -144,6 +144,7 @@ Adjuncts (simvastatin, hyaluronic acid, platelet concentrates) may be added at l
 - [[bone-regeneration/meza-mauricio-2022-substitute-autogenous-bone-graft-horizontal]] — adding autograft to allograft = no horizontal gain benefit (SR+MA)
 - [[bone-regeneration/rokn-2011-bone-formation-two-grafting-materials]] — biphasic ceramic ≈ Bio-Oss; large particles → more inflammation
 - [[bone-regeneration/janjua-2022-autogenous-tooth-bone-grafts-narrative]] — AUTO-BG biology and outcomes
+- [[bone-regeneration/lee-2025-longitudinal-comparative-osteogenic-collagenated-xenografts]] — 비글 대조 연구 (n=13, 표준 하악 결손): OCS-B Collagen® vs Bio-Oss® Collagen 장기 비교(8/16/48주). BMD·BV/TV·BIC·ISQ 전 항목 양 이종골 간 차이 없음 — 두 재료 모두 무이식 대조군 대비 유의 우세(p<0.0001). 콜라겐 이종골 동등성 동물 근거. (animal-controlled, 2025)
 - [[bone-regeneration/ridge-preservation/minetti-2020-alveolar-socket-preservation-autologous-graft]] — healthy vs endo-treated tooth grafts equivalent
 - [[bone-regeneration/ridge-preservation/nakajima-2026-tooth-root-graft-alveolar-preservation]] — tooth-root graft vs xenograft: vital bone vs buccal contour trade-off
 - [[bone-regeneration/stricker-2021-resorption-retromolar-bone-grafts]] — 43.7% onlay-block resorption at 12 months (maxilla > mandible)
