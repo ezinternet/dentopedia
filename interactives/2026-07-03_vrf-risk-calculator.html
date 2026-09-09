@@ -2,9 +2,9 @@
 ---
 title: "수직치근파절(VRF) 위험도 계산기 — 근관치료 대구치"
 type: interactive
-date: 2026-07-03
+date: 2026-09-09
 status: done
-verified: 2026-09-02
+verified: 2026-09-09
 category: endo
 agenda: agenda/2026-07-03_vrf-risk-calculator-interactive.md
 source_wiki:
@@ -14,6 +14,11 @@ source_wiki:
   - wiki/cracked-tooth/patel-2025-position-statement-longitudinal-cracks-fractures.md
   - wiki/overviews/cracked-tooth-syndrome-overview.md
 notes: |
+  2026-09-09 재동기화: cracked-tooth-syndrome-overview 2026-08-31 기준 업데이트.
+  추가 ①: Mun 2024 AI CNN — 파노라마 VRF 발치 적응증 예측 AUC 0.82, 민감도 90–94%·
+  특이도 53–61%, screening/triage 등급으로 근거논문 표에 추가.
+  추가 ②: Corbella 2025 SR (Cluster 5) — 불완전 VRF에서 Super-Bond(4-META/MMA-TBB)
+  파절편 접착 보존 옵션; resin-ionomer/silver-GIC 전실패·근거빈약이나 보존 카드 주석 추가.
   2026-09-02 재검증: cracked-tooth-syndrome-overview 2026-08-31 갱신(kakka-2022 통합, 21편)
   — Iowa Index(치근단 진단 불량 + 원심변연융선 균열 + 치주탐침 ≥5mm → 예후불량), 치수생존율
   80–93%, 무증상 균열치 모니터링 정량화(1년 증상 감소 23% vs 악화 10%)가 추가됨.
@@ -21,7 +26,7 @@ notes: |
   추출한 4인자(치근단부 상아질 과소실 OR 12.9 · 치아종류 · reRCT 병력 · pRCT 경과기간) 고정 —
   Iowa Index는 별도 프레임(균열치 예후, VRF 환자-대조 아님)이라 OR 수치를 바꾸지 않는다.
   다만 두 인자(치근단 진단·심부 탐침)가 수렴하므로 하단에 convergent-evidence 주석 추가.
-  로직·수치 변경 없음, verified만 갱신.
+  로직·수치 변경 없음.
 ---
 -->
 <!DOCTYPE html>
@@ -89,6 +94,7 @@ notes: |
   .badge.retro { background:var(--mid-soft); color:var(--mid); }
   .badge.invitro { background:#efe9fb; color:#7a5cb8; }
   .badge.sr { background:#e3f3ef; color:#1f7a6b; }
+  .badge.ai { background:#e5eefa; color:#2563a8; }
   .warn-card { background:var(--warn-soft); border:1px solid #d8ccef; border-radius:12px; padding:14px; margin-top:14px; }
   .warn-card h3 { color:var(--warn); margin-top:0; }
   .cite { font-size:.75rem; color:var(--muted); margin-top:4px; }
@@ -204,6 +210,11 @@ notes: |
           <td><span class="badge sr">scoping review</span></td>
           <td>OCT 진단 민감도 83–98%/특이도 63–100% — 비방사선 대안이나 침투깊이 한계로 아직 CBCT 대체 불가</td>
         </tr>
+        <tr>
+          <td>Mun 2024<br><span class="cite">deep-learning-cracked-tooth-extraction-panoramic</span></td>
+          <td><span class="badge ai">후향 AI</span></td>
+          <td>파노라마 CNN 3종(ResNet50 최고) — <b>VRF 발치 적응증 예측: AUC 0.82</b>, 민감도 90–94%, 특이도 53–61%. 고민감도·저특이도 → 놓치지 않으나 위양성 多 — <b>screening / "CBCT 권고" 등급</b>; definitive 진단 아님. 단일기관·2D 파노라마 한계(3D 결손 미포착)</td>
+        </tr>
       </tbody>
     </table>
   </div>
@@ -220,8 +231,15 @@ notes: |
     <p class="cite">근거: [[overviews/cracked-tooth-syndrome-overview]] · [[cracked-tooth/kakka-2022-treatment-cracked-teeth-comprehensive-narrative]]</p>
   </div>
 
+  <div class="warn-card">
+    <h3>🔬 VRF 확진 후 보존 옵션 — Corbella 2025 SR (근거빈약·적응증 협소)</h3>
+    <p>분류표상 VRF = 보통 발치. 단, <b>불완전 VRF·온전 회수 파절편·얕은(≤1–2 mm) 치은연하 연장·충분한 잔존 치근</b>에 한해 <b>4-META/MMA-TBB 자가중합 레진(Super-Bond)</b>으로 파절편을 접착해 자연치 보존을 시도하는 술식 보고가 있습니다. TBB 개시제가 수분·공기로 중합이 촉진되어 치은연하 오염 파절선에서도 결합 유지 — 의도적 재식립 + Super-Bond 신호 최량(Okaguchi 6/6·Sugaya 9/12). <b>resin-ionomer / silver-GIC는 전실패 — 금기</b>. 완전 VRF·손상된 생물학적 폭경에는 부적합.</p>
+    <p><b>근거 수준</b>: Corbella 2025 SR (case series 6편, ~64치) — 이질성↑, 메타분석 불가, <b>표준 술식 권고 불가</b>. 임플란트 등 대안이 불리하고 환자가 자연치 보존을 강하게 원할 때 고려하는 보존 카드.</p>
+    <p class="cite">근거: [[resin-bonding/corbella-2025-surgical-techniques-vertical-root-fractures-sr]] · [[overviews/cracked-tooth-syndrome-overview]] Cluster 5</p>
+  </div>
+
   <div class="footnote">
-    출처: [[endodontics/shaping/lee-2026-residual-pericervical-apical-dentine-vertical]] · [[endodontics/shaping/rathke-2024-ex-vivo-minimally-invasive-endodontic]] · [[endodontics/diagnosis/alkhani-2026-optical-coherence-tomography-detection-dental]] · [[overviews/cracked-tooth-syndrome-overview]]<br>
+    출처: [[endodontics/shaping/lee-2026-residual-pericervical-apical-dentine-vertical]] · [[endodontics/shaping/rathke-2024-ex-vivo-minimally-invasive-endodontic]] · [[endodontics/diagnosis/alkhani-2026-optical-coherence-tomography-detection-dental]] · [[artificial-intelligence/mun-2024-deep-learning-cracked-tooth-extraction-panoramic]] · [[resin-bonding/corbella-2025-surgical-techniques-vertical-root-fractures-sr]] · [[overviews/cracked-tooth-syndrome-overview]]<br>
     이 도구는 단일 근거 연구 기반 참고 자료이며 진단검사를 대체하지 않습니다. Agenda: agenda/2026-07-03_vrf-risk-calculator-interactive.md
   </div>
 </div>
