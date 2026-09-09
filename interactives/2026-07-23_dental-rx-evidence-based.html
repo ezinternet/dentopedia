@@ -2,9 +2,9 @@
 ---
 title: "치과 처방전 Rx-pad (근거기반) — 발치·임플란트·근관"
 type: interactive
-date: 2026-07-23
+date: 2026-09-09
 status: done
-verified: 2026-09-03
+verified: 2026-09-09
 category: drug
 agenda: agenda/2026-07-22_prescription-master-reference.md
 notes: |
@@ -358,8 +358,9 @@ body{
         <span class="ev-src">Miroshnychenko 2023, NMA 82 RCTs n=9,095 · ADA 2024 CPG (JADA 155:102-117) — 1차 NSAID±APAP, 단순발치 후 오피오이드 사용 반대, 코르티코스테로이드 진통 보조 반대</span>
       </div>
       <div class="ev-note">
-        ⚠ <strong>NSAIDs 공통 주의:</strong> 소화성궤양 과거력 · 와파린·항혈소판제 병용 · 신기능 저하 · 임신 3기 환자에게 회피 또는 주치의 확인.
+        ⚠ <strong>NSAIDs 공통 주의:</strong> 소화성궤양 과거력 · 와파린·항혈소판제 병용 · <strong>SSRI 병용(상부 위장관 출혈↑ — APAP 우선)</strong> · 신기능 저하 · 임신 3기 환자에게 회피 또는 주치의 확인.
         <strong>APAP:</strong> 간질환·과음 환자 주의 — 1일 최대 4g 초과 금지.
+        <span class="ev-src">Colibasanu 2025 / Pyo 2026 — DDI 점검 필수</span>
       </div>
     </div>
 
@@ -482,7 +483,7 @@ body{
       <div class="ev-note">
         ⚠ <strong>쎄레브렉스(COX-2):</strong> 허혈성심질환·뇌혈관질환 환자에게 단기라도 심혈관 위험 증가 가능. 고위험 환자는 비선택적 NSAIDs 또는 APAP 단독 우선.
         <br><strong>위장관 안전성:</strong> 위궤양 병력 등 GI 고위험 · 비-IHD 환자에선 오히려 유리 — 위십이지장궤양 RR 0.22(moderate). 단 근거 등급은 GI만 moderate, 나머지 low(16개 SR 중 14개 critically low) — 확정적 결론 아님, 임플란트 환자는 COX-2 회피 원칙 그대로.
-        <br><strong>NSAIDs 공통:</strong> 와파린·항혈소판제 병용 · 신기능 저하 · 임신 3기 주의.
+        <br><strong>NSAIDs 공통:</strong> 와파린·항혈소판제 병용 · <strong>SSRI 병용(상부 위장관 출혈↑ — APAP 우선)</strong> · 신기능 저하 · 임신 3기 주의.
       </div>
       <div class="dr on" onclick="toggleRow(this)">
         <input type="checkbox" checked>
@@ -569,6 +570,9 @@ body{
       </div>
       <div class="ev-note">
         ⚠ <strong>당뇨 환자 주의:</strong> 덱사메타손은 혈당을 일시적으로 상승시킬 수 있음. 조절 중인 당뇨 환자에게는 처방 전 확인 또는 용량 축소(1일 1회·2일) 고려.
+        <br><strong>HbA1c 기반 임플란트 식립 임계:</strong> &lt;7.0% 정상 준함 / 7.0–9.0% 식립 가능+CHX+모니터링 강화 / &gt;9.0% 식립 연기·내과 협진 우선. HbA1c 단독 신뢰 금지 — CKD·빈혈·수혈 시 위양/위음 가능, 공복 혈당 병행 확인.
+        <br><strong>덱사메타손 근거 레지멘:</strong> 4–8mg 단회 투여(술전 또는 술후)가 술후 부종 근거 기반 옵션 (Satpathi 2024).
+        <span class="ev-src">Wagner 2022 SR · Al-Ansari 2022 SR-MA 89편 · Chen 2022 · Satpathi 2024</span>
       </div>
     </div>
 
@@ -700,7 +704,7 @@ body{
         <span class="ev-src">Kelidari 2026, NMA 10 RCTs n=347</span>
       </div>
       <div class="ev-note">
-        ⚠ <strong>NSAIDs 공통 주의:</strong> 소화성궤양 과거력 · 와파린·항혈소판제 병용 · 신기능 저하 · 임신 3기 주의.
+        ⚠ <strong>NSAIDs 공통 주의:</strong> 소화성궤양 과거력 · 와파린·항혈소판제 병용 · <strong>SSRI 병용(상부 위장관 출혈↑ — APAP 우선)</strong> · 신기능 저하 · 임신 3기 주의.
         <strong>APAP:</strong> 간질환·과음 환자 — 1일 최대 4g 초과 금지.
       </div>
     </div>
@@ -810,6 +814,23 @@ body{
     </div>
   </div><!-- /근관치료 -->
 
+  <!-- ===== 응급 프로토콜 (전 탭 공통) ===== -->
+  <div class="cat" style="border-top:3px solid var(--war-bdr);margin-top:12px">
+    <div class="cat-hd" style="background:#FFF0EE">
+      <span class="cat-lbl" style="color:#852810">🚨 아나필락시스 응급 프로토콜</span>
+      <span class="tag" style="background:#FFD8D0;color:#852810">Emergency</span>
+    </div>
+    <div class="ev-warn" style="border-top:none">
+      <span class="ev-hl">증상 인식 즉시 → 에피네프린 근육주사 (Epinephrine 1:1,000)</span>
+      <span class="ev-sub">
+        성인: 1:1,000 에피네프린 <strong>0.5mg IM</strong> — 허벅지 전외측 (anterolateral thigh), 즉시 투여<br>
+        반응 미흡 시 <strong>5분 후 반복</strong><br>
+        병행: 구급차 요청 · 앙와위(supine) · 산소 투여 · 2차 약물(항히스타민, 코르티코스테로이드)<br>
+        ⚠ 에피네프린이 1차 치료 — 항히스타민·스테로이드는 보조제이며 에피네프린 대체 불가
+      </span>
+      <span class="ev-src">Jevon 2020 (BDJ) — Resuscitation Council UK 지침 정렬; 치과 응급 프로토콜 업데이트</span>
+    </div>
+  </div>
 
 </div><!-- /wrap -->
 
