@@ -2,7 +2,7 @@
 ---
 title: "처방 한 장으로 끝 — 시나리오별 치과 처방 레퍼런스"
 type: interactive
-date: 2026-09-03
+date: 2026-09-09
 status: done
 verified: 2026-09-03
 category: drug
@@ -25,6 +25,10 @@ notes: |
   IE 예방 관련 클린다마이신 오기재 3개소를 수정: (1) aller탭 예외 row vt/dose에서
   "IE 예방" 제거 + 경고 note 추가, (2) spec탭 IE 용량 row를 세팔렉신 2g/아지스로마이신
   500mg/독시사이클린 100mg으로 교체, (3) ref탭 항생제표 clindamycin 설명 수정.
+  updated 2026-09-09: drug-systemic-disease overview 2026-09-08 동기화 — spec 탭에
+  쇼그렌(pSS)·BMS·코르티코스테로이드·이식·ACEI/ARB+스타틴·아나필락시스 6개 카드
+  신설 (Shiboski 2016·Lee 2024·Satpathi 2024·Batlle 2021·Khalilurrahman 2026·
+  Jevon 2020); 근거 등급 요약 5행 추가.
 source_wiki:
   - wiki/overviews/drug-clinical-decision-ladder.md
   - wiki/overviews/drug-antibiotic-odontogenic-pain-overview.md
@@ -775,6 +779,97 @@ const CARDS = [
    src:['Wagner 2022 SR','Al-Ansari 2022 SR-MA (89편)','Chen 2022','Weykamp 2013'], lvl:'m'}
  ]},
 
+{tab:'spec', g:'특수환자', t:'쇼그렌 증후군 (pSS) · 구강건조', pill:'ACR-EULAR ≥4점 → 류마티스 의뢰',
+ rows:[
+  {l:'의심 기준', v:'yes', vt:'만성 구강건조+다발 우식+진균 반복 시',
+   dose:'<em>항-SSA/Ro 항체·타액분비량·Schirmer 검사 → ACR-EULAR 2016 점수 계산 → 류마티스내과 의뢰</em>',
+   notes:['ACR-EULAR 2016 ≥4점: 항-SSA/Ro 양성(3점)·입술 소타액선 생검 focus score ≥1(3점)·각결막염 OSS ≥5 또는 vBT ≤5mm/5min(1점)·Schirmer ≤5mm/5min(1점)·전타액분비량 ≤0.1 mL/min(1점).',
+          '만성 구강건조 + 다발 우식 + 반복 진균감염은 pSS를 시사하는 3대 조합이다.',
+          '침샘 초음파(Salivary Gland Ultrasound, SGUS)는 부가 진단가치가 있으나 기준 점수에 포함되지 않는다.'],
+   src:['Shiboski 2016 ACR-EULAR consensus','Franceschini 2017','Legoff 2017'], lvl:'s'},
+  {l:'치과 관리', v:'yes', vt:'3개월 recall · 고불소 치약',
+   dose:'<em>구강건조 완화</em> (타액대체제·무설탕 껌·자주 물 마시기) · <em>고불소 치약</em> · <em>3개월 recall</em>',
+   notes:['임플란트는 가능하나 치주·점막 합병증 모니터링 강화.',
+          '반복 진균감염 → 구강내과 협진 권장 (Fluconazole·Nystatin 등 국소/전신 항진균제).'],
+   src:['Shiboski 2016','drug-systemic-disease overview §6'], lvl:'m'}
+ ]},
+
+{tab:'spec', g:'특수환자', t:'구강작열감증후군 (Burning Mouth Syndrome, BMS)', pill:'단계적 protocol — Lee 2024',
+ rows:[
+  {l:'감별먼저', v:'yes', vt:'2차 원인 배제 우선',
+   dose:'<em>칸디다·빈혈(B12·철·엽산)·당뇨·쇼그렌·GERD</em> 감별 — 원인 제거가 치료',
+   notes:['2차 원인을 먼저 배제해야 한다. 감별 없이 BMS로 처리하면 원인질환을 놓친다.'],
+   src:['Lee 2024 서울대 retrospective (n=248)'], lvl:'m'},
+  {l:'단계①②', v:'yes', vt:'치과 단독 가능',
+   dose:'<em>①습관조절</em> (이갈이·혀 내밀기) → <em>②타액대체제</em>',
+   notes:['NRS(Numeric Rating Scale)를 outcome 지표로 단계별 효과 확인.'],
+   src:['Lee 2024'], lvl:'m'},
+  {l:'단계③④⑤', v:'case', vt:'구강내과·정신과 협진 필요',
+   dose:'<em>③심리상담</em> → <em>④Clonazepam 국소 또는 저용량 경구</em> → <em>⑤아연 보충제</em>',
+   notes:['단계 3 이상은 구강내과·정신과 협진.',
+          'Clonazepam 국소: 0.5 mg 정제를 3분간 구강 내 함유 후 뱉는 방식으로 많이 쓰임 — 처방 전 협진 권장.'],
+   src:['Lee 2024'], lvl:'m'}
+ ]},
+
+{tab:'spec', g:'특수환자', t:'만성 코르티코스테로이드 복용 환자 · 부신위기', pill:'침습처치 전 내분비 협진',
+ rows:[
+  {l:'단기 적응', v:'yes', vt:'술후 부종·OLP·아프타에 좁게',
+   dose:'<em>Dexamethasone 4–8 mg 술전 또는 술후 단회</em> (매복 제3대구치 부종 control)',
+   notes:['단기 적응을 엄격히 유지 — 과잉처방 우려.',
+          '이미 ext 탭 매복 제3대구치 카드에도 동일 근거(Satpathi 2024·Bakri 2024).'],
+   src:['Satpathi 2024 narrative'], lvl:'m'},
+  {l:'부신위기', v:'case', vt:'만성 복용자 침습처치 시',
+   dose:'내분비내과 협진 · <em>Routine stress dose는 권고하지 않음 — case-by-case</em>',
+   notes:['만성 prednisolone ≥5 mg/일 × 4주 이상 복용자 → 수술·발치 등 침습처치 시 부신위기(adrenal crisis) 위험.',
+          'Routine "stress dose supplement"는 현재 전문가 합의에서 표준이 아님 — 내분비내과와 case-by-case 결정.',
+          '술중 저혈압·빈맥·의식저하 → 부신위기 의심, Hydrocortisone 100 mg IV 즉시 투여 후 응급실.'],
+   src:['Satpathi 2024 narrative','drug-systemic-disease overview §8'], lvl:'w'}
+ ]},
+
+{tab:'spec', g:'특수환자', t:'이식 · 면역저하 환자 (allo-HSCT · 장기이식)', pill:'이식 전 치과 클리어런스 필수',
+ rows:[
+  {l:'이식 전', v:'yes', vt:'감염소 완전 제거',
+   dose:'<em>이식 전 우식·치주·근관병소·매복치 처리 완료</em> — 치과 클리어런스가 최강 예방',
+   notes:['allo-HSCT 후 AML 환자에서 점막염·구강건조·만성 GVHD(cGVHD, 점막형) 구강 합병증.',
+          '이식 전 클리어런스 없이 진행하면 면역저하기 치과 감염이 생명위협 합병증으로 이어질 수 있다.'],
+   src:['Batlle 2021 allo-HSCT AML'], lvl:'m'},
+  {l:'이식 후', v:'case', vt:'3개월간 침습처치 회피',
+   dose:'이식 후 <em>3개월간 침습적 처치 회피</em> · 구강위생 강화 · <em>Candidiasis prophylaxis</em>',
+   notes:['cGVHD 점막형 → 국소 코르티코스테로이드 + 종양내과·혈액내과 협진.',
+          'Candidiasis prophylaxis: Fluconazole 또는 Nystatin — 이식팀 처방 확인 후 치과 처방 조율.'],
+   src:['Batlle 2021','drug-systemic-disease overview §9'], lvl:'m'}
+ ]},
+
+{tab:'spec', g:'특수환자', t:'심혈관약(ACEI/ARB · 스타틴) 복용 환자 + 치주', pill:'치주 위험 재평가 — Khalilurrahman 2026',
+ rows:[
+  {l:'ACEI/ARB', v:'case', vt:'치주염 위험 증가 가능성',
+   dose:'문진·치주평가 시 고혈압 약물 목록 확인 · ARB 복용자는 <em>구강건조 동반 여부</em> 별도 확인',
+   notes:['ACEI/ARB 복용 시 치주염 위험 1.6–4.8배↑ 외부 보고(기전: kinin 경로 염증 활성화·타액분비 저하). 단 이 SR의 정성분석 2편 결과 비일관 — 근거 낮음.',
+          'ACEI/ARB 복용 고혈압 환자를 "치주적으로 중립"으로 가정하지 말 것.'],
+   src:['Khalilurrahman 2026 SR+MA'], lvl:'w'},
+  {l:'스타틴', v:'yes', vt:'BOP·치주낭 소폭 개선',
+   dose:'스타틴 복용 고콜레스테롤혈증 환자 — 치주 이득 가능하나 관리 소홀 금지',
+   notes:['전신 스타틴 → BOP -13.4%(p=0.007)·PD -0.38mm(p&lt;0.00001) 유의 개선 (MA 4편).',
+          '단 PD 효과는 확립된 MCID 부재·비RCT 근거 — 임상적 유의성 불확실. CAL 무변화(p=0.17).',
+          '스타틴 이득을 근거로 치주 관리를 소홀히 해서는 안 됨.'],
+   src:['Khalilurrahman 2026 SR+MA'], lvl:'m'}
+ ]},
+
+{tab:'spec', g:'특수환자', t:'아나필락시스 응급 처치 — 치과 의자 옆', pill:'에피네프린 IM 즉시',
+ rows:[
+  {l:'즉시 투여', v:'yes', vt:'에피네프린 1:1,000 0.5 mg IM',
+   dose:'<em>에피네프린 1:1,000 (1 mg/mL) 0.5 mg IM — 대퇴부 전외측</em> · 5분 후 반응 미흡 시 반복',
+   notes:['구급차 요청 + 앙와위(다리 거상) + 산소 공급을 동시에.',
+          '자동주사기(AAI) 없을 때: 1 mL 앰플에서 직접 0.5 mL 흡인 → IM 투여 — Jevon 2020이 제안한 영국 AAI 공급 위기 대응 방식.',
+          '2차 약물(항히스타민·코르티코스테로이드)은 에피네프린 이후 보조 — 에피네프린을 대체하지 않는다.'],
+   src:['Jevon 2020 BDJ narrative-update','Resuscitation Council UK'], lvl:'m'},
+  {l:'치과 원인', v:'case', vt:'가장 흔한 유발원',
+   dose:'<em>Penicillin 계열 > 라텍스 > 국소마취제(드묾)</em>',
+   notes:['라텍스 알레르기 기왕력 확인 후 라텍스-free 글러브·장비 사용.',
+          '국소마취제 자체에 의한 아나필락시스는 드물다 — 방부제(메틸파라벤) 또는 황산구리 함유 제품에서 더 가능성.'],
+   src:['Jevon 2020'], lvl:'w'}
+ ]},
+
 /* ================= 금지 목록 ================= */
 {tab:'never', g:'처방 금지 목록', t:'', neg:[
  ['단순 발치 후 Augmentin 3일','무합병증 발치에서 예방 항생제는 건성발치와·감염·통증 감소 효과가 없다. 관행일 뿐 근거가 없다. — Lodi 2021 Cochrane'],
@@ -856,7 +951,12 @@ const CARDS = [
    ['치주 SRP 보조 전신 항생제 CAL 개선','<b>약함</b>','Botelho 2025 umbrella (SR 65.6% 매우 낮은 질)'],
    ['상악동거상술 술전 예방 유효 / 술후 연장 불필요','<b>낮음</b>','Díaz 2025 umbrella'],
    ['COX-2 selective가 골유착 저해 가능','<b>낮음</b>','Etikala 2019 narrative'],
-   ['단회 NSAID 이상반응 순위는 nocebo 주도','<b>낮음</b>','Magesty 2026 NMA (확실성 매우 낮음~낮음)']
+   ['단회 NSAID 이상반응 순위는 nocebo 주도','<b>낮음</b>','Magesty 2026 NMA (확실성 매우 낮음~낮음)'],
+   ['Sjögren ACR-EULAR 2016 ≥4점 분류기준','<b>강함</b>','Shiboski 2016 ACR-EULAR consensus (다국적 3 cohort)'],
+   ['BMS 단계적 protocol (Clonazepam 국소·아연)','중간','Lee 2024 서울대 retrospective (n=248)'],
+   ['ACEI/ARB 치주 영향 비일관적 (판정 불가, 2편)','<b>낮음</b>','Khalilurrahman 2026 SR+MA'],
+   ['전신 스타틴 → BOP -13.4%·PD -0.38mm 개선 (임상적 유의성 불확실)','중간','Khalilurrahman 2026 SR+MA (MA 4편, non-RCT)'],
+   ['아나필락시스 에피네프린 1:1,000 0.5mg IM·5분 후 반복','중간','Jevon 2020 BDJ, Resuscitation Council UK']
   ]},
  src2:['각 overview의 “근거 수준 요약” 절']}
 ];
