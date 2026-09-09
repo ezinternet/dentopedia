@@ -2,7 +2,7 @@
 ---
 title: "약물 결정 트리 — Chairside (drug 5축 통합)"
 type: interactive
-date: 2026-08-07
+date: 2026-09-09
 status: draft
 verified: 2026-08-11
 category: drug
@@ -31,6 +31,10 @@ notes: |
   사유 문구에 GI 병력 대안(비-임플란트 한정)으로 반영. 동시 추가된 Maurice-Szamburski 2025
   IV NSAID narrative review는 전신마취·진정 하 경구 불가 상황 전제라 본 도구(경구 chairside
   권고) scope 밖 — 반영 대상 아님 확인.
+  updated 2026-09-09: drug-systemic-disease-dental-management-overview 2026-09-08 신규 추가분
+  반영 — Jevon 2020 (BDJ, Resuscitation Council UK) 아나필락시스 응급 프로토콜(에피네프린
+  1:1,000 0.5mg IM anterolateral thigh 즉시 → 5분 후 미반응 시 반복; 구급차·앙와위·산소·
+  2차 약물). 5축 결과 하단에 항상 표시되는 응급 대비 블록으로 반영.
 ---
 -->
 <!DOCTYPE html>
@@ -387,7 +391,7 @@ function calculate(e){
 
   // ===== 축 5 — 국소마취·동반약 점검 =====
   {
-    let lvl='green', rec='', why='', ref='Karm 2017 RCT · Uritu 2025 SR · Colibasanu 2025 DDI · Pyo 2026 · ACOG 2013';
+    let lvl='green', rec='', why='', ref='Karm 2017 RCT · Uritu 2025 SR · Colibasanu 2025 DDI · Pyo 2026 · ACOG 2013 · Jevon 2020 (응급 참조)';
     if (preg === 'pregnant') {
       lvl='yellow';
       rec='Lidocaine 2% + Epinephrine 1:200,000. Felypressin 금기.';
@@ -406,6 +410,14 @@ function calculate(e){
     }
     if (cv) why += ' Colibasanu 2025: Epinephrine + 비선택적 β-blocker가 major DDI 대표 — 추가 1:200,000 희석 + 용량 minimize + BP·HR 모니터.';
     blocks.push(axis(lvl, '축 5 — 국소마취·DDI', rec, why, ref));
+  }
+
+  // ===== 응급 대비 — 아나필락시스 (항상 표시) =====
+  {
+    const anaRec = '에피네프린 1:1,000 0.5mg IM (대퇴전외측) 즉시 → 5분 후 미반응 시 반복';
+    const anaWhy = '치과 의자 옆 아나필락시스 대응 순서: ①에피네프린 1:1,000 0.5mg IM (anterolateral thigh) 즉시 투여 ②구급차(119) 요청 ③앙와위 ④산소 공급 ⑤2차 약물(항히스타민·코르티코스테로이드). 미반응 시 5분 후 동일 용량 반복 가능. ⚠ 이 농도(1:1,000)는 국소마취 혈관수축제(1:100,000–200,000)와 완전히 다른 응급 농도 — 혼동 금지. 자동주사기(AAI) 없는 경우 앰플에서 직접 근육주사 준비가 필수(Resuscitation Council UK 지침).';
+    const anaRef = 'Jevon 2020 (BDJ) — Resuscitation Council UK 아나필락시스 가이드라인';
+    blocks.push(axis('red', '⚠ 응급 대비 — 아나필락시스 프로토콜', anaRec, anaWhy, anaRef));
   }
 
   // ===== Summary header =====
