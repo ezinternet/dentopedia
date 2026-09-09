@@ -2,9 +2,9 @@
 ---
 title: "전문가 치면세균막 관리(PMPR) 의사결정 도구"
 type: interactive
-date: 2026-06-21
+date: 2026-09-09
 status: done
-verified: 2026-07-02
+verified: 2026-09-09
 category: prevention-maintenance
 agenda: agenda/2026-06-21_professional-biofilm-management-decision-tool.md
 source_wiki:
@@ -17,11 +17,14 @@ source_wiki:
   - wiki/periodontics/non-surgical-instrumentation/dvorska-2026-mechanical-instrumentation-hard-tissue-sr.md
   - wiki/periodontics/non-surgical-instrumentation/ifrim-2026-edta-air-polishing-root-surface-sem.md
   - wiki/periodontics/non-surgical-instrumentation/hussein-2026-subcutaneous-emphysema-subgingival-air-polishing-case.md
+  - wiki/periodontics/non-surgical-instrumentation/farina-2026-pmpr-biofilm-gingivitis-sr-ma.md
+  - wiki/periodontics/non-surgical-instrumentation/lamont-2018-routine-scale-and-polish-periodontal-health.md
   - wiki/implants/peri-implantitis/brunello-2026-nonsurgical-peri-implant-mucositis-sr.md
   - wiki/implants/peri-implantitis/eraydin-tufek-2026-nonsurgical-peri-implantitis-multiarm-rct.md
   - wiki/implants/peri-implantitis/pujarern-2024-biofilm-removal-implant-airflow-erythritol.md
+  - wiki/implants/peri-implantitis/mauriello-2026-peri-implant-mucositis-adjunctive-narrative-review.md
 notes:
-  - "verified 2026-07-02: 근거 overview 2026-07-01 Farina 2026·Lamont 2018 추가는 prophylaxis 근거 보강(Related Papers 링크)으로, patient-centred-benefit thesis 재확인·저위험 성인 프로필락시스 indication boundary 추가일 뿐 결정 임계값(분말·리콜·금기·치아 vs 임플란트) 무변화 재확인 — 도구 로직 미변경."
+  - "2026-09-09 sync: overview 기준 Farina 2026(치은염 에어폴리싱 동등·더 빠름; OHI 선행 원칙)·Lamont 2018(저위험 성인 prophylaxis 무효 — indication boundary)·Mauriello 2026(PMPR 표준; 보조 일관성 없음) 추가. Stähli 2024 세부(SRP 통증 소폭 우위·GBT 분지부 신호) 반영. Dvorská 2026 손기구 6.0 µm/stroke 수치 추가. 임플란트 비반응 포켓 'clean and seal' 겔 옵션 추가."
 ---
 -->
 <!DOCTYPE html>
@@ -109,6 +112,7 @@ notes:
   <div id="app"></div>
   <footer>
     공통 원칙: GBT·에어폴리싱의 이득은 <b>편안함·시술시간·치질 보존</b>이며, PPD/CAL/BoP 임상지표는 SRP/PMPR와 <b>동등(우월하지 않음)</b>입니다 (Yein 2026 SR).
+    적응증 경계: <b>Lamont 2018 Cochrane</b> — 저위험 건강한 성인에서 routine scale &amp; polish는 치주지표 개선 없음 → 적응증 선별이 기법 선택보다 먼저.
     근거 종합: <a href="../wiki/overviews/professional-biofilm-management-gbt-air-polishing-overview.md">professional-biofilm-management-gbt-air-polishing-overview</a> ·
     근거수준 전반 낮음(GRADE), 장기 RCT 필요.
   </footer>
@@ -120,7 +124,7 @@ const ERYTHRITOL = {
   title: "권장 분말: 에리스리톨 (Erythritol, 14 µm)",
   items: [
     "탄산수소나트륨(Sodium Bicarbonate, 40 µm)과 바이오필름 제거력 동등(OD 0.130 vs 0.129)하면서 표면 손상이 적음 — 치아·치근·임플란트 표면 모두 기본값 (Pujarern 2024).",
-    "저연마 분말이라도 <b>초(秒)당 치질 손실은 에어폴리싱이 가장 큼(평균 8.65 µm)</b> — 한 부위에 오래 머무르지 말 것 (Dvorská 2026)."
+    "저연마 분말이라도 <b>초(秒)당 치질 손실은 에어폴리싱이 가장 큼(평균 8.65 µm)</b> — 한 부위에 오래 머무르지 말 것. 손기구(curette)는 스트로크당 손실 최대(평균 6.0 µm) (Dvorská 2026)."
   ]
 };
 
@@ -139,9 +143,9 @@ const DATA = {
           "잔존 치석에만 초음파 슬림 팁 적용"
         ],
         powder: ERYTHRITOL,
-        evidence: "Stähli 2024 RCT(SPC 1년, 임상 동등) · Yein 2026 SR · Lodigkeit/Dvorská 2026(에어폴리싱 최소 마모)",
+        evidence: "Stähli 2024 RCT(SPC 1년, 임상 동등; SRP 통증 소폭 우위, GBT 분지부 개선 신호) · Farina 2026 EFP SR+MA(치은염: 에어폴리싱+초음파 = rubber-cup+초음파, 더 빠름; OHI 선행 원칙) · Yein 2026 SR · Lodigkeit/Dvorská 2026(에어폴리싱 최소 마모)",
         caution: null,
-        note: "임상지표(BoP)는 SRP와 동등 — '더 효과적'이 아니라 '더 편하고 치질 보존적'이라서 선택."
+        note: "임상지표(BoP)는 SRP와 동등 — '더 효과적'이 아니라 '더 편하고 치질 보존적'이라서 선택. Stähli 2024: SRP가 통증에서 소폭 우위, GBT는 분지부(furcation) 개선 신호. OHI 강화가 PMPR 선행 조건(Farina 2026)."
       },
       nspt: {
         label: "활동성 NSPT (stage III/IV)",
@@ -159,7 +163,7 @@ const DATA = {
           title: "주의",
           items: ["치석(calculus)은 에어폴리싱으로 제거되지 않음 — 반드시 초음파/손기구 병용."]
         },
-        note: "GBT가 GI·PI·GCF IL-1β는 더 낮춘다는 신호도 있음(Dönertaş 2026, stage 1–2) — 염증 부담이 큰 증례에 참고."
+        note: "GBT가 GI·PI·GCF IL-1β를 유의하게 더 감소(p&lt;0.05)시킨다는 신호도 있음(Dönertaş 2026, n=80, stage 1–2); TNF-α·IL-10·MMP-8는 군 간 차이 없음 — 염증 부담이 큰 증례에 참고."
       },
       sub: {
         label: "치은연하 심부낭 (subgingival deep pocket)",
@@ -208,7 +212,7 @@ const DATA = {
         steps: [
           "비외과 기계적 instrumentation",
           "± 글리신/에리스리톨 분말 에어아브레이전",
-          "재평가 — 비반응 시 외과적 접근 고려"
+          "재평가 — 비반응 심부 잔존 포켓: 화학기계적 'clean and seal' 겔 선택적 고려 후 외과적 접근"
         ],
         powder: ERYTHRITOL,
         evidence: "Eraydın-Tüfek 2026 5군 RCT(임플란트 80개; 글리신 에어아브레이전 최선이나 군간 유의차 없음) · Pujarern 2024(에리스리톨 선호)",
