@@ -2,9 +2,9 @@
 ---
 title: "Chairside 상악동 천공 위험 계산기"
 type: interactive
-date: 2026-06-12
+date: 2026-09-09
 status: in-progress
-verified: 2026-07-13
+verified: 2026-09-09
 category: bone-graft
 agenda: agenda/2026-06-12_sinus-perforation-risk-calculator.md
 source_wiki:
@@ -18,7 +18,7 @@ source_wiki:
   - wiki/sinus-lift/lateral/lee-2023-impact-sinus-floor-elevation-techniques.md
   - wiki/sinus-lift/lateral/kozuma-2017-chronic-sinusitis-sinus-augmentation-infection.md
 tags: [sinus-lift, perforation, risk-calculator, interactive]
-note: "의사결정 보조 도구. 가중치는 보고된 효과크기(HR/OR)를 순서화한 휴리스틱이며 예측 타당도는 RCT 미검증. 2026-07-13 재검증: wang-2023 흡연 근거(OR 1.58, 95% CI 1.10–2.25)는 2026-07-05(Three-line Summary 포맷 확장)·2026-07-08(smoking-tobacco overview 백링크 추가) 두 커밋 모두 서지 정리성 변경일 뿐 수치 변경 없음 — 흡연 가중치(+2) 유지."
+note: "의사결정 보조 도구. 가중치는 보고된 효과크기(HR/OR)를 순서화한 휴리스틱이며 예측 타당도는 RCT 미검증. 2026-07-13 재검증: wang-2023 흡연 근거(OR 1.58, 95% CI 1.10–2.25)는 수치 변경 없음 — 흡연 가중치(+2) 유지. 2026-09-09 source_wiki 동기화: 격벽 Yang 2024 OR>2 추가, 다수치 결손 HR 68.09 정밀도, Sala 2024 실패율 2.1% 추가, 부비동염 권고에 Nam 2014(>4mm 돌출 역치)·Park 2024(막절개 동시 배액 대안) 반영."
 ---
 -->
 <!DOCTYPE html>
@@ -99,7 +99,7 @@ note: "의사결정 보조 도구. 가중치는 보고된 효과크기(HR/OR)를
             <button data-v="0" class="on">없음</button>
             <button data-v="1">있음</button>
           </div>
-          <div class="src">Nemati 2023 HR 8.07 · Henriques 2022 유병률 33%</div>
+          <div class="src">Nemati 2023 HR 8.07 · OR &gt;2 (Yang 2024) · Henriques 2022 유병률 33%</div>
         </div>
         <div class="field">
           <label>점액낭종 (MRC)</label>
@@ -143,7 +143,7 @@ note: "의사결정 보조 도구. 가중치는 보고된 효과크기(HR/OR)를
             <button data-v="0" class="on">단일치</button>
             <button data-v="1">≥2치</button>
           </div>
-          <div class="src">Nemati 2023 HR 68</div>
+          <div class="src">Nemati 2023 HR 68.09</div>
         </div>
         <div class="field">
           <label>술전 만성 부비동염 징후</label>
@@ -224,7 +224,7 @@ function recsFor(){
     r.push(['warn','금연 권고·상담(술전 최소 1–2주)','흡연 천공 OR 1.58 (Wang 2023) / HR 25 (Nemati 2023)']);
   }
   if(state.sinusitis){
-    r.push(['warn','SFE 연기 + 이비인후과 선평가·치료(절대금기 확인)','술전 만성 부비동염 = 술후 감염·임플란트 실패 최강 예측(p=0.007) — Kozuma 2017; 자연공 폐쇄·중비도 농배출·진균증은 ENT 선치료 절대금기 — Kim 2019/Craig 2024']);
+    r.push(['warn','SFE 연기 + 이비인후과 선평가·치료(절대금기 확인)','술전 만성 부비동염 = 술후 감염·임플란트 실패 최강 예측(p=0.007) — Kozuma 2017; 자연공 폐쇄·중비도 농배출·진균증은 ENT 선치료 절대금기 — Kim 2019/Craig 2024; 기식립 임플란트 &gt;4 mm 돌출 시 부비동염 위험(Nam 2014); ENT 협진 거부 시 대안: 의도적 막절개 동시 배액·이식·식립 — 1년 추적 100% 생존·부비동염 0(Park 2024, n=2 흡연자)']);
   }
   if(state.psaa){
     r.push(['','창 상연을 PSAA 하방으로 낮추거나 우회','골내형 PSAA 63%·치조정 ~16mm — Gulec 2025, 출혈 합병증 예방']);
@@ -238,7 +238,7 @@ function recsFor(){
     r.push(['','고위험 예방 프로토콜 고려: 국소 스테로이드 + LTRA + 항생제','비중격만곡·할러세포·알레르기비염 고위험자 PSLMS 예방 증례 — Suzuki-Yamazaki 2020']);
   }
   if(s<3){
-    r.push(['good','표준 측방창 프로토콜로 진행 가능','저위험 — 단, 막천공 발생 시에도 적절 봉합하면 임플란트 실패 위험은 유의하지 않음(OR 1.347 NS — Sala 2024)']);
+    r.push(['good','표준 측방창 프로토콜로 진행 가능','저위험 — 단, 막천공 발생 시에도 적절 봉합하면 임플란트 실패 위험은 유의하지 않음(OR 1.347 NS, 실패율 2.1% — Sala 2024)']);
   }
   return r;
 }
