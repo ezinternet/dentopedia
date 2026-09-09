@@ -420,6 +420,7 @@ tags: []
 - [[bone-regeneration/ridge-preservation/tan-2012-post-extractional-alveolar-dimensional-changes]] — SR(20편 human, EAO consensus): 발치 6mo 자연치유 시 수평 −3.79 mm > 수직 협측 −1.24 mm; 비율 수평 29–63%, 수직 11–22%; ARP 비교의 baseline 수치.
 - [[bone-regeneration/ridge-preservation/avila-ortiz-2019-alveolar-ridge-preservation-interventions]] — SR+MA(22 RCT, EFP/AO consensus): ARP 9개 modality 분류, 자연치유 대비 유의 효과; "단일 우월 재료 없음" ⚠️ 재료 순위는 canullo-2021로 대체됨 (EFP/AO 모달리티 프레임·PROM은 여전히 유효)
 - [[bone-regeneration/ridge-preservation/canullo-2021-arp-biomaterials-dimensional-nma]] — SR+NMA(88 RCT, 2805명): 이종골(XG)·동종골(AG) 치수 보존 최상위; 혈소판 농축물 신생골 형성 최상위; 치수 보존↔골형성 trade-off 발견 (Clin Oral Investig 2021)
+- [[bone-regeneration/caponio-2023-platelet-concentrates-bone-formation-arp]] — SR+MA+TSA (8 RCTs·255발치와·10–24주 조직형태계측): 혈소판 농축물(L-PRF/P-PRP)이 자연치유 대비 신생골 형성 유의 향상(SMD=1.77, 95% CI 1.47–2.06); PC 유형 간 차이 없음(p=0.71); TSA 결론 확정(6편에서 RIS 도달)
 - [[bone-regeneration/ridge-preservation/atieh-2021-interventions-replacing-missing-teeth]] — Cochrane update .pub3(16 RCT, 524 site): xenograft 폭 −1.18 mm·높이 −1.35 mm, **GRADE certainty "very low"로 강등** (2015 moderate → 2021 very low); 결론: ARP 효과의 임상적 의미 불확실.
 - [[bone-regeneration/ridge-preservation/del-fabbro-2022-sealing-materials-post-extraction]] — SR+NMA(12 RCT, IAO consensus): 발치와 sealing 재료 ranking — 자가 연조직 graft가 horizontal preservation SUCRA 1위; collagen membrane·d-PTFE·ADM 서로 동등.
 - [[bone-regeneration/ridge-preservation/majzoub-2019-influence-different-grafting-materials]] — SR(40 RCT, 재료군별 weighted mean): 수평 흡수 allograft 1.52 mm ≈ xenograft 1.47 mm < alloplast 2.31 mm; 재료 간 임상 차이 미미.
@@ -1731,6 +1732,9 @@ tags: []
 - [[oral-surgery/van-der-merwe-2023-aminoglycosides-ludwigs-angina-63-cases]] — 후향적(n=63, 남아공): 루드비히 앙기나 균배양 = 연쇄구균 우세(아미노글리코사이드 내성); 경험적 아미노글리코사이드 사용 미생물학적 근거 부족; β-lactam 기반 요법 권장
 - [[oral-surgery/gargava-2022-deep-neck-space-infection-150-cases]] — 전향적(n=150, 인도): 심경부 감염 치성 42.66%, 루드비히 앙기나 24.66%, 연쇄구균 31.33%; 절개배농 38%, 응급기관절개술 일부
 - [[oral-surgery/al-maawi-2021-prf-extraction-socket-healing-sr]] — SR (20 RCTs): PRF reduces pain (66.6%), improves soft tissue healing at 1 wk (75%), reduces bone loss at 8–15 wk but NOT at 6 mo, improves socket fill (85%); benefit limited to early 2–3 months
+- [[oral-surgery/yang-2022-wound-healing-diabetes-tooth-extraction]] — Narrative review (Front Endocrinol 2022): 당뇨 발치와 지연 치유의 기전(AGE·MMP·M1/M2·BMP-4·neuropeptide·miRNA) + 임상 중재표(PRGF/L-PRF/A-PRF/HA/LLLT); 잘 조절된 DM은 비DM과 치유 차이 없음
+- [[oral-surgery/ruggiero-2024-hyaluronic-acid-diabetic-socket-rct]] — Split-mouth RCT (T2DM 36명): HA겔이 D7/D14 치유지수·폐쇄 유의 개선; **D21에 두 군 모두 완전 상피 폐쇄**; 합병증·항생제 불필요 → 21일이 T2DM 발치와 상피 폐쇄 외부 경계값
+- [[oral-surgery/mozzati-2013-prgf-diabetic-extraction-socket]] — 분할구강(T1DM 34명): PRGF가 D3–14 치유지수·발치와 용적 유의 개선; 혈당 ≥240 mg/dL에서 최저 치유; 21일 상피화 기준 데이터(인슐린의존성 당뇨)
 - [[oral-surgery/third-molar/guillaumet-claure-2022-iatrogenic-mandibular-fracture-third-molar-sr]] — SR: 하악 제3대구치 발치 후 의인성 골절 발생률 0.0033%–0.075%; 술후 골절 > 술중; 40–60세 남성·깊은 매복·mesioangular·좌측 위험↑
 - [[oral-surgery/ferrer-valdivia-2022-complications-simple-exodontia-sr]] — SR (3 studies): 단순 발치 후 합병증(trismus·alveolitis·retained root 가장 흔); 술자 경험·수술 시간·조직 손상이 주요 위험인자
 - [[oral-surgery/pujarern-2026-minimally-invasive-extraction-socket]] — Narrative review (Front Oral Health 2026): 발치와 치유 4단계 생물학(Amler 시퀀스·Araújo & Lindhe 조직학) + 최소침습 발치 기법 10종(periotome→효소분해) + socket preservation 전략 (DOI 10.3389/froh.2026.1834419)
@@ -3208,6 +3212,7 @@ tags: []
 - [[behavioral-dentistry/motivational-interviewing/vilar-doceda-2023-behavioral-interventions-periodontitis-patients-improve]] — Vilar Doceda 2023 · sr · 21 studies (16 RCT, 5 NRCT): social-cognitive bundles + CBT/MI may reduce plaque and bleeding
 
 ### Drug — analgesics / antiplatelet
+- [[drug/analgesics/dominiczak-2025-nsaid-alcohol-interaction-review]] — Dominiczak 2025 · narrative-review · NSAIDs-알코올 상호작용 종합 리뷰: CYP2E1 유도·ADH 경쟁(약력학) + 가산적 GI 점막 손상(RR 2.7), 신장독성 강화, 간독성 기여
 - [[drug/analgesics/franco-de-la-torre-2021-analgesic-efficacy-etoricoxib-following-third]] — Franco-de la Torre 2021 · sr+ma · etoricoxib 120 mg cut rescue-analgesia need vs NSAIDs (p=0.0004; vs ibuprofen 400 mg p=0.00001) after third molar surgery
 - [[drug/anticoagulants/patrono-2024-low-dose-aspirin-prevention-atherosclerotic]] — Patrono 2024 · narrative-review · low-dose aspirin (75–100 mg) irreversibly blocks platelet COX-1/TXA₂; RR 0.52, NNT 10 (secondary prevention) vs ↑GI bleeding
 - [[drug/anticoagulants/madrid-2009-anticoagulants-oral-implant-therapy-sr]] — Madrid 2009 · sr · OAT(INR 2–4) 환자 임플란트 수술 금기 아님; 비중단군 출혈 증가 없음; 국소 지혈 충분; INR↔출혈 상관 없음 (선행 기준 SR)
