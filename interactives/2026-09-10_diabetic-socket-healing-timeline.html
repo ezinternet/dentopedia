@@ -1,0 +1,472 @@
+<title>발치와 치유 타임라인</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Inter:wght@400;500;600&display=swap">
+
+<style>
+  :root {
+    --bg:       #F5F7FA;
+    --surface:  #FFFFFF;
+    --border:   #DDE2EA;
+    --text:     #1A1E2A;
+    --muted:    #5C6370;
+    --accent:   #1C5370;
+    --grid:     #EEF0F5;
+
+    --c-normal: #1A7A52;
+    --c-ha:     #1C5370;
+    --c-t2ctrl: #B56B18;
+    --c-t1prgf: #7B3FA0;
+    --c-t1ctrl: #9E1C1C;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg:       #10141B;
+      --surface:  #181D26;
+      --border:   #2A3040;
+      --text:     #E4E8F0;
+      --muted:    #8A92A6;
+      --accent:   #4AABE0;
+      --grid:     #1E2430;
+      --c-normal: #34C47A;
+      --c-ha:     #4AABE0;
+      --c-t2ctrl: #F09A3E;
+      --c-t1prgf: #B07DE0;
+      --c-t1ctrl: #E85555;
+    }
+  }
+
+  :root[data-theme="dark"] {
+    --bg:       #10141B;
+    --surface:  #181D26;
+    --border:   #2A3040;
+    --text:     #E4E8F0;
+    --muted:    #8A92A6;
+    --accent:   #4AABE0;
+    --grid:     #1E2430;
+    --c-normal: #34C47A;
+    --c-ha:     #4AABE0;
+    --c-t2ctrl: #F09A3E;
+    --c-t1prgf: #B07DE0;
+    --c-t1ctrl: #E85555;
+  }
+
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: 'Inter', system-ui, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+    padding: 32px 20px 48px;
+  }
+
+  .page-header {
+    max-width: 860px;
+    margin: 0 auto 24px;
+  }
+
+  .page-header h1 {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 1.1rem;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    color: var(--accent);
+    text-transform: uppercase;
+    margin-bottom: 4px;
+  }
+
+  .page-header p {
+    font-size: 0.875rem;
+    color: var(--muted);
+  }
+
+  .chart-card {
+    max-width: 860px;
+    margin: 0 auto;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 28px 28px 20px;
+  }
+
+  /* Legend */
+  .legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px 16px;
+    margin-bottom: 24px;
+  }
+
+  .legend-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 0.8rem;
+    color: var(--text);
+    cursor: pointer;
+    user-select: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: 1px solid var(--border);
+    transition: all 0.15s;
+  }
+
+  .legend-item.hidden {
+    opacity: 0.35;
+    border-style: dashed;
+  }
+
+  .legend-dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+
+  .legend-name {
+    font-weight: 500;
+  }
+
+  .legend-src {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.65rem;
+    color: var(--muted);
+  }
+
+  /* Chart */
+  .chart-wrap {
+    position: relative;
+    overflow-x: auto;
+  }
+
+  svg.chart {
+    display: block;
+    width: 100%;
+    height: auto;
+    overflow: visible;
+  }
+
+  /* Tooltip */
+  .tooltip {
+    position: absolute;
+    pointer-events: none;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 10px 14px;
+    font-size: 0.78rem;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.1);
+    min-width: 200px;
+    display: none;
+    z-index: 10;
+  }
+
+  .tooltip-day {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.72rem;
+    font-weight: 600;
+    color: var(--accent);
+    margin-bottom: 8px;
+    letter-spacing: 0.06em;
+  }
+
+  .tt-row {
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    margin-bottom: 4px;
+    font-size: 0.77rem;
+    color: var(--text);
+  }
+
+  .tt-row:last-child { margin-bottom: 0; }
+
+  .tt-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+
+  .tt-val {
+    font-family: 'IBM Plex Mono', monospace;
+    font-variant-numeric: tabular-nums;
+    font-weight: 600;
+    margin-left: auto;
+  }
+
+  /* Notes */
+  .notes {
+    margin-top: 18px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+  }
+
+  @media (max-width: 600px) {
+    .notes { grid-template-columns: 1fr; }
+  }
+
+  .note-item {
+    font-size: 0.75rem;
+    color: var(--muted);
+    line-height: 1.45;
+    padding: 10px 12px;
+    background: var(--bg);
+    border-radius: 5px;
+    border: 1px solid var(--border);
+  }
+
+  .note-item strong {
+    font-family: 'IBM Plex Mono', monospace;
+    display: block;
+    font-size: 0.68rem;
+    letter-spacing: 0.05em;
+    margin-bottom: 3px;
+  }
+</style>
+
+<div class="page-header">
+  <h1>발치와 상피 치유 타임라인</html>
+  <p>당뇨 유형·중재별 D0→D21 치유율 비교 — Ruggiero 2024 · Mozzati 2013 · Yang 2022 근거</p>
+</div>
+
+<div class="chart-card">
+  <div class="legend" id="legend"></div>
+  <div class="chart-wrap" id="chart-wrap">
+    <svg class="chart" id="chart" viewBox="0 0 780 380" xmlns="http://www.w3.org/2000/svg"></svg>
+    <div class="tooltip" id="tooltip"></div>
+  </div>
+  <div class="notes" id="notes-area"></div>
+</div>
+
+<script>
+// ── Data ──────────────────────────────────────────────────────────────
+// Y-axis: % patients reaching excellent or complete healing
+// Source notes: Ruggiero 2024 Table data / Mozzati 2013 Healing Index approximated
+const SERIES = [
+  {
+    key: 'normal',
+    name: '비당뇨 / 조절 DM (참고)',
+    src: 'Yang 2022 (Goss et al. 추정)',
+    color: '#1A7A52',
+    // estimated reference from Yang 2022 text: day 7 most evident difference
+    data: { D0:0, D3:30, D7:72, D14:95, D21:100 },
+    dash: '6,3',
+    note: null
+  },
+  {
+    key: 'ha',
+    name: 'T2DM + HA 겔 (중재군)',
+    src: 'Ruggiero 2024',
+    color: '#1C5370',
+    data: { D0:0, D3:19, D7:64, D14:97, D21:100 },
+    dash: null,
+    note: 'D14 97.2% 완전 치유 (Control 72.2% vs HA, p=0.004)'
+  },
+  {
+    key: 't2ctrl',
+    name: 'T2DM 비처치 (대조군)',
+    src: 'Ruggiero 2024',
+    color: '#B56B18',
+    data: { D0:0, D3:6, D7:30, D14:72, D21:100 },
+    dash: null,
+    note: 'D21에 10/36명이 최대 21일 필요; D21=완전 폐쇄 외부 경계'
+  },
+  {
+    key: 't1prgf',
+    name: 'T1DM + PRGF (Anitua)',
+    src: 'Mozzati 2013',
+    color: '#7B3FA0',
+    data: { D0:0, D3:28, D7:58, D14:85, D21:96 },
+    dash: null,
+    note: 'D3–14 치유지수·잔류 발치와 용적 유의 개선 (PRGF > Control)'
+  },
+  {
+    key: 't1ctrl',
+    name: 'T1DM 비처치 (대조군)',
+    src: 'Mozzati 2013',
+    color: '#9E1C1C',
+    data: { D0:0, D3:10, D7:30, D14:55, D21:82 },
+    dash: null,
+    note: '혈당 ≥240 mg/dL 하위군에서 가장 낮은 치유 지수'
+  }
+];
+
+const DAYS = ['D0','D3','D7','D14','D21'];
+const DAY_X = { D0:0, D3:1, D7:2, D14:3, D21:4 };
+
+// ── Layout ────────────────────────────────────────────────────────────
+const W = 780, H = 380;
+const PAD = { top:20, right:30, bottom:50, left:56 };
+const CW = W - PAD.left - PAD.right;
+const CH = H - PAD.top - PAD.bottom;
+
+const xOf = (di) => PAD.left + (di / 4) * CW;
+const yOf = (pct) => PAD.top + CH - (pct / 100) * CH;
+
+// ── Build SVG ─────────────────────────────────────────────────────────
+const svg = document.getElementById('chart');
+const ns = 'http://www.w3.org/2000/svg';
+
+function el(tag, attrs, parent) {
+  const e = document.createElementNS(ns, tag);
+  for (const [k,v] of Object.entries(attrs)) e.setAttribute(k, v);
+  if (parent) parent.appendChild(e);
+  return e;
+}
+
+function getCSSVar(name) {
+  return getComputedStyle(document.documentElement).getPropertyValue(name).trim();
+}
+
+let hidden = new Set();
+
+function redraw() {
+  svg.innerHTML = '';
+  const BG   = getCSSVar('--surface');
+  const GRID = getCSSVar('--grid');
+  const MUT  = getCSSVar('--muted');
+  const TEXT = getCSSVar('--text');
+  const ACC  = getCSSVar('--accent');
+
+  // Background
+  el('rect', { x:0,y:0,width:W,height:H, fill:'transparent' }, svg);
+
+  // Y grid lines + labels
+  [0,25,50,75,100].forEach(pct => {
+    const y = yOf(pct);
+    el('line', { x1:PAD.left, y1:y, x2:PAD.left+CW, y2:y,
+      stroke:GRID, 'stroke-width':'1' }, svg);
+    el('text', { x:PAD.left-8, y:y+4, 'text-anchor':'end',
+      'font-family':'IBM Plex Mono, monospace', 'font-size':'11',
+      fill:MUT, 'font-variant-numeric':'tabular-nums' }, svg).textContent = pct + '%';
+  });
+
+  // Y axis label
+  const ylbl = el('text', { x:12, y:(PAD.top+CH/2),
+    'text-anchor':'middle', 'font-family':'IBM Plex Mono, monospace',
+    'font-size':'10', fill:MUT, 'letter-spacing':'0.08em',
+    transform:`rotate(-90, 12, ${PAD.top+CH/2})` }, svg);
+  ylbl.textContent = '치유율 (%)';
+
+  // X axis labels
+  DAYS.forEach((d, i) => {
+    const x = xOf(i);
+    el('line', { x1:x, y1:PAD.top, x2:x, y2:PAD.top+CH,
+      stroke:GRID, 'stroke-width':'1' }, svg);
+    el('text', { x, y:PAD.top+CH+22,
+      'text-anchor':'middle', 'font-family':'IBM Plex Mono, monospace',
+      'font-size':'13', fill:TEXT, 'font-weight':'500' }, svg).textContent = d;
+  });
+
+  // X axis bottom border
+  el('line', { x1:PAD.left, y1:PAD.top+CH, x2:PAD.left+CW, y2:PAD.top+CH,
+    stroke:getCSSVar('--border'), 'stroke-width':'1.5' }, svg);
+
+  // Draw series
+  SERIES.forEach(s => {
+    if (hidden.has(s.key)) return;
+    const pts = DAYS.map((d,i) => [xOf(i), yOf(s.data[d])]);
+
+    // Area fill (subtle)
+    const areaPath = `M ${pts.map(p=>p.join(',')).join(' L ')} L ${pts[pts.length-1][0]},${yOf(0)} L ${pts[0][0]},${yOf(0)} Z`;
+    el('path', { d:areaPath, fill:s.color, 'fill-opacity':'0.06' }, svg);
+
+    // Line
+    const linePath = `M ${pts.map(p=>p.join(',')).join(' L ')}`;
+    el('path', { d:linePath, fill:'none', stroke:s.color, 'stroke-width':'2.5',
+      'stroke-dasharray': s.dash||'none', 'stroke-linecap':'round',
+      'stroke-linejoin':'round' }, svg);
+
+    // Dots
+    pts.forEach(([x,y], i) => {
+      el('circle', { cx:x, cy:y, r:'5', fill:s.color,
+        stroke:BG||'#fff', 'stroke-width':'2' }, svg);
+    });
+  });
+
+  // Hover hitboxes (invisible rects over each column)
+  DAYS.forEach((d, i) => {
+    const colW = i===0 ? CW/8 : (i===4 ? CW/8 : CW/5);
+    const rectX = i===0 ? xOf(i) - colW/2 : xOf(i) - colW/2;
+    const hr = el('rect', { x:Math.max(PAD.left, xOf(i)-colW/2), y:PAD.top,
+      width:colW, height:CH, fill:'transparent', cursor:'crosshair' }, svg);
+    hr.addEventListener('mousemove', (e) => showTooltip(e, d));
+    hr.addEventListener('mouseleave', hideTooltip);
+  });
+}
+
+// ── Tooltip ───────────────────────────────────────────────────────────
+const tt = document.getElementById('tooltip');
+const wrap = document.getElementById('chart-wrap');
+
+function showTooltip(e, day) {
+  const visibleSeries = SERIES.filter(s => !hidden.has(s.key));
+  if (!visibleSeries.length) return;
+
+  let html = `<div class="tooltip-day">${day}</div>`;
+  [...visibleSeries].sort((a,b) => b.data[day]-a.data[day]).forEach(s => {
+    html += `<div class="tt-row">
+      <div class="tt-dot" style="background:${s.color}"></div>
+      <span>${s.name.split('(')[0].trim()}</span>
+      <span class="tt-val">${s.data[day]}%</span>
+    </div>`;
+  });
+
+  tt.innerHTML = html;
+  tt.style.display = 'block';
+
+  const rect = wrap.getBoundingClientRect();
+  let lx = e.clientX - rect.left + 16;
+  let ly = e.clientY - rect.top - 10;
+  if (lx + 220 > wrap.offsetWidth) lx -= 240;
+  tt.style.left = lx + 'px';
+  tt.style.top  = ly + 'px';
+}
+
+function hideTooltip() { tt.style.display = 'none'; }
+
+// ── Legend ────────────────────────────────────────────────────────────
+const legendEl = document.getElementById('legend');
+SERIES.forEach(s => {
+  const item = document.createElement('div');
+  item.className = 'legend-item';
+  item.dataset.key = s.key;
+  item.innerHTML = `
+    <div class="legend-dot" style="background:${s.color}"></div>
+    <span>
+      <span class="legend-name">${s.name}</span>
+      <span class="legend-src"> — ${s.src}</span>
+    </span>`;
+  item.addEventListener('click', () => {
+    if (hidden.has(s.key)) { hidden.delete(s.key); item.classList.remove('hidden'); }
+    else { hidden.add(s.key); item.classList.add('hidden'); }
+    redraw();
+  });
+  legendEl.appendChild(item);
+});
+
+// ── Notes ─────────────────────────────────────────────────────────────
+const notesArea = document.getElementById('notes-area');
+const noteData = [
+  { title: 'Ruggiero 2024 (T2DM)', text: 'Split-mouth RCT, 36명 합병증 보유 T2DM. HA겔군: D14 97.2% 완전치유. 대조군: D21까지 10/36명이 완전 폐쇄에 D21 필요. 두 군 D21=100% 폐쇄. 항생제 처방 0건.' },
+  { title: 'Mozzati 2013 (T1DM)', text: 'Split-mouth, 34명 T1DM. PRGF군이 D3–D14 치유지수·잔류 발치와 용적 유의 우수. 혈당 ≥240 mg/dL 하위군은 별도 클러스터로 가장 불량한 치유. 21일 추적 제공.' },
+  { title: 'Yang 2022 (비DM 참고선)', text: '내러티브 리뷰. Goss et al. 인용: 잘 조절된 DM은 비DM과 치유 차이 없음. 비조절 DM은 Day 7이 가장 명확한 차이점. 참고선은 추정치.' },
+  { title: '임상 해석', text: '비처치 T2DM(주황)과 T1DM(진홍)은 D7–D14 격차가 가장 큼 → 이 구간에 HA/PRGF 중재가 가장 효과적. D21 수렴은 조절 당뇨에선 자연치유도 외부 경계 이내에 완결됨을 의미.' }
+];
+
+noteData.forEach(n => {
+  const d = document.createElement('div');
+  d.className = 'note-item';
+  d.innerHTML = `<strong>${n.title}</strong>${n.text}`;
+  notesArea.appendChild(d);
+});
+
+// ── Init & theme watch ────────────────────────────────────────────────
+redraw();
+const obs = new MutationObserver(redraw);
+obs.observe(document.documentElement, { attributes:true, attributeFilter:['data-theme'] });
+window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', redraw);
+</script>
