@@ -416,6 +416,7 @@ Use Fischer et al. 2022 as the evidence anchor for patient discussion: "ARP will
 ### 신규 추가 (2026-09)
 
 - [[bone-regeneration/ridge-preservation/khehra-2025-arp-xenograft-collagen-membrane-rct]] — 6개월 병행 RCT (n=20, Harvard HSDM, 두꺼운 협측 골 ARP): 콜라겐 이종골 단독 vs 이종골+비교차결합 콜라겐 차단막 비교. KT 폭·수평 골폭·수직 골 변화·조직형태 신생골(25.8% vs 27.9%) 전 항목 통계적 동등. 두꺼운 협측 골 소켓에서는 차단막 추가 이득 없음. (rct, 2025)
+- [[bone-regeneration/caponio-2023-platelet-concentrates-bone-formation-arp]] — SR+MA+TSA (8 RCTs, 255 sockets, 10–24 wk histomorphometry): platelet concentrates (L-PRF/P-PRP) significantly increase new vital bone formation vs spontaneous healing (SMD=1.77, CI 1.47–2.06); no difference between PC types; TSA confirms conclusion definitive. Reinforces the canullo-2021 NMA finding that platelet concentrates rank highest for bone formation in ARP.
 
 ## Clinical Quiz
 <!-- quiz_spec -->
