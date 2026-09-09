@@ -2,7 +2,7 @@
 ---
 title: "KM 증대 결정 도구 — 각화점막 위험 판정·술식 선택"
 type: interactive
-date: 2026-08-26
+date: 2026-09-09
 status: done
 category: soft-tissue
 source_wiki:
@@ -138,7 +138,7 @@ section { margin-bottom: 14px; }
 <body>
 
 <h1>각화점막(KM) 증대 결정 도구</h1>
-<p class="subtitle">Keratinized Mucosa Width 위험 판정 · 목표 분기 · 술식 선택 | 근거: Mahardawi 2023 · Roccuzzo 2025 · Zhang 2025 · Ravidà 2022</p>
+<p class="subtitle">Keratinized Mucosa Width 위험 판정 · 목표 분기 · 술식 선택 | 근거: Mahardawi 2023 · Roccuzzo 2025 · Zhang 2025 · Ravidà 2022 · Sabri 2025</p>
 
 <!-- INPUTS -->
 <section>
@@ -195,6 +195,7 @@ section { margin-bottom: 14px; }
       <span class="sign-btn" data-sign="recession">점막 퇴축</span>
       <span class="sign-btn" data-sign="plaque">치태 증가</span>
       <span class="sign-btn" data-sign="dehiscence">연조직 열개</span>
+      <span class="sign-btn" data-sign="thin-biotype">얇은 생체형(Thin Biotype)</span>
       <span class="sign-btn" data-sign="none" id="signNone">징후 없음</span>
     </div>
   </div>
@@ -249,11 +250,11 @@ section { margin-bottom: 14px; }
       </tr>
       <tr id="row-ctg">
         <td><strong>자가 CTG</strong></td>
-        <td>FGG와 유사<br><small>(width 차이 NS)</small></td>
+        <td>FGG 대비 열위 (Tavelli 2021 NMA)<br><small>APF+FGG만이 KMW 유의 증가; CTG≈XCM for width (Dadlani 2024)</small></td>
         <td>+0.64 mm vs 대체재<br><small>(Valles 2022, 두께 gold std)</small></td>
         <td>기준</td>
         <td><span class="badge badge-amber">있음</span></td>
-        <td>두께·심미 목표 시 선택. Cairo 2019</td>
+        <td>두께·심미 목표 시 선택. Width만 목표라면 FGG 우선 (Cairo 2019, Tavelli 2021)</td>
       </tr>
       <tr id="row-xcm">
         <td><strong>이종 XCM</strong><br><small>(돼지유래 콜라겐)</small></td>
@@ -298,6 +299,10 @@ section { margin-bottom: 14px; }
     <div class="ev-badge accent">
       <strong>MBL −0.27 mm</strong>
       <span>Zhang 2025 MA (30편, 5,241 임플란트)<br>KM결핍 시 변연골소실 증가</span>
+    </div>
+    <div class="ev-badge purple">
+      <strong>eOR 4.05 · 1.852</strong>
+      <span>퇴축 eOR 4.05 · MBL eOR 1.852 (Sabri 2025 우산리뷰)<br>GI eOR 3.131 · mPI eOR 5.34 — 10편 SR 종합</span>
     </div>
     <div class="ev-badge">
       <strong>구제 FGG = 원발 KT</strong>
@@ -419,29 +424,45 @@ function update() {
 
   const needsWidth = (goal === 'width' || goal === 'both');
   const useSubstitute = donor === 'no';
+  const isThinBiotype = signs.has('thin-biotype');
 
   if (site === 'mand-post' || site === 'mand-ant') {
     if (kmw < 2) {
-      if (goal === 'thickness' && !hasSign) {
+      if (goal === 'thickness' && !hasSign && !isThinBiotype) {
         tech = useSubstitute ? 'APF + XCM bilaminar (두께)' : 'APF + CTG bilaminar (두께)';
         techSub = `두께 목표 우선 — CTG bilaminar. KMW ${kmw}mm < 2mm로 width도 감시 필요. 두 목표 병행 시 APF + FGG + CTG 고려`;
         techClass = 'level-teal';
       } else {
-        tech = useSubstitute ? 'APF + XCM (FGG 대체)' : 'APF + FGG';
-        techSub = `하악 KMW <2mm — 2차 수술 전(前) 시행 필수 (Zhang 2025). ${timing === 'immediate' ? '식립 동시 or 2차 수술 전' : timing === 'second-stage' ? '2차 수술 시 최우선' : '구제 FGG — Roccuzzo 2025: 20년 원발 KT와 통계적 동등'}`;
+        tech = isThinBiotype ? 'APF + FGG (얇은 생체형 — FGG 필수)' : (useSubstitute ? 'APF + XCM (FGG 대체)' : 'APF + FGG');
+        techSub = isThinBiotype
+          ? `얇은 생체형 + KMW <2mm — FGG 또는 MARF 필수; ARF·XCM 단독 불충분 (Zhang 2025 expert consensus). CTG bulk 필요`
+          : `하악 KMW <2mm — 2차 수술 전(前) 시행 필수 (Zhang 2025). ${timing === 'immediate' ? '식립 동시 or 2차 수술 전' : timing === 'second-stage' ? '2차 수술 시 최우선' : '구제 FGG — Roccuzzo 2025: 20년 원발 KT와 통계적 동등'}`;
         techClass = 'level-red';
       }
     } else if (kmw < 3) {
-      tech = useSubstitute ? 'SFGG(분할두께 유리치은이식) 또는 APF + XCM' : 'SFGG 또는 FGG';
-      techSub = `하악 KMW 2–3mm — SFGG 또는 FGG 선택 (Zhang 2025). 시점: ${timing === 'maintenance' ? '유지관리 중 구제 가능 (Roccuzzo 2025)' : '2차 수술 시 우선'}`;
+      tech = isThinBiotype ? 'FGG 또는 MARF (얇은 생체형)' : (useSubstitute ? 'SFGG(분할두께 유리치은이식) 또는 APF + XCM' : 'SFGG 또는 FGG');
+      techSub = isThinBiotype
+        ? `얇은 생체형 + KMW 2–3mm — FGG/MARF 권고; ARF·XCM 단독 불충분 (Zhang 2025). CTG bulk 추가 고려`
+        : `하악 KMW 2–3mm — SFGG 또는 FGG 선택 (Zhang 2025). 시점: ${timing === 'maintenance' ? '유지관리 중 구제 가능 (Roccuzzo 2025)' : '2차 수술 시 우선'}`;
+      techClass = 'level-amber';
+    } else if (kmw < 4) {
+      tech = isThinBiotype ? 'FGG 또는 MARF (얇은 생체형 — 선택적)' : (needsWidth ? (useSubstitute ? 'ARF 또는 XCM (선택적)' : 'ARF / SFGG / FGG (선택적)') : 'ARF 단독 가능 또는 감시');
+      techSub = isThinBiotype
+        ? `얇은 생체형 + KMW 3–4mm — FGG/MARF 선택적 적용 가능; ARF·XCM 단독은 biotype 보상 불충분 (Zhang 2025)`
+        : `하악 KMW 3–4mm — ARF·SFGG·FGG 모두 적용 가능, 즉각 의무 아님 (Zhang 2025). 두께 목표 시 CTG bilaminar 고려`;
       techClass = 'level-amber';
     } else {
-      tech = needsWidth ? (useSubstitute ? 'APF + XCM (선택적)' : 'APF + FGG (선택적)') : '증대 필요성 낮음';
-      techSub = `KMW ${kmw}mm ≥ 3mm — 즉각적 증대 의무 없음. 두께 목표 시 CTG bilaminar 고려`;
-      techClass = 'level-green';
+      tech = isThinBiotype ? 'CTG bilaminar (얇은 생체형 두께 보완)' : (needsWidth ? (useSubstitute ? 'APF + XCM (선택적)' : 'APF + FGG (선택적)') : '정기 측정 유지');
+      techSub = isThinBiotype
+        ? `얇은 생체형 + KMW ≥4mm — 두께 부족 가능성, CTG bilaminar 고려 (Valles 2022: CTG +0.64mm vs 대체재)`
+        : `KMW ${kmw}mm ≥ 4mm — 즉각적 증대 의무 없음. 두께 목표 시 CTG bilaminar 고려`;
+      techClass = isThinBiotype ? 'level-teal' : 'level-green';
     }
   } else if (site === 'max-ant') {
-    if (esthColor === 'yes' || useSubstitute) {
+    if (isThinBiotype && goal === 'thickness') {
+      tech = 'CTG bilaminar (얇은 생체형 + 두께 필수)';
+      techSub = '상악 전치 얇은 생체형 + 두께 목표 — CTG bilaminar 최우선; ARF·XCM 단독 불충분 (Zhang 2025). Raghoebar 2021: 즉시 식립 시 퇴축 −0.34mm 예방, 두께 +0.66mm';
+    } else if (esthColor === 'yes' || useSubstitute) {
       tech = 'SFGG + XCM (이종이식)';
       techSub = '상악 전치 심미 — 색조 불일치 회피 목적 SFGG + 대체재 (Zhang 2025). XCM: 수술시간 −18.5분, width는 FGG보다 −1mm 내외';
     } else if (goal === 'thickness') {
@@ -449,13 +470,18 @@ function update() {
       techSub = '상악 전치 두께/심미 → CTG bilaminar. Raghoebar 2021: 즉시 식립 시 CTG→퇴축 −0.34mm 예방, 두께 +0.66mm';
     } else {
       tech = 'SFGG 또는 APF + FGG';
-      techSub = '상악 전치 Width 목표. SFGG: 색조 보존 가능. 공여부 가능 시 FGG가 최대 width 획득';
+      techSub = '상악 전치 Width 목표. SFGG: 색조 보존 가능. 공여부 가능 시 FGG가 최대 width 획득 (Tavelli 2021 NMA: APF+FGG가 KMW 유의 증가 유일 기법)';
     }
     techClass = 'level-teal';
   } else {
     // max-post
-    tech = 'ARF (근단변위피판, Apically Repositioned Flap)';
-    techSub = '상악 구치 — 구개측 KM 충분 → ARF 단독으로 KM 재배치 가능 (Zhang 2025). FGG 필요성 낮음';
+    if (isThinBiotype) {
+      tech = 'ARF + CTG 또는 FGG (얇은 생체형 — 구개측 KM 보완)';
+      techSub = '상악 구치 얇은 생체형 — ARF 단독은 biotype 보상 불충분; CTG/FGG 추가 고려 (Zhang 2025 expert consensus)';
+    } else {
+      tech = 'ARF (근단변위피판, Apically Repositioned Flap)';
+      techSub = '상악 구치 — 구개측 KM 충분 → ARF 단독으로 KM 재배치 가능 (Zhang 2025). FGG 필요성 낮음';
+    }
     techClass = 'level-purple';
   }
 
