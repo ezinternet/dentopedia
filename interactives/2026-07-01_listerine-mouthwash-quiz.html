@@ -2,7 +2,7 @@
 ---
 title: "리스테린(에센셜오일) 가글 효과 자가테스트"
 type: interactive
-date: 2026-07-01
+date: 2026-09-09
 status: done
 category: prevention-maintenance
 agenda: agenda/2026-07-01_listerine-mouthwash-education.md
@@ -13,7 +13,10 @@ source_wiki:
   - wiki/oral-microbiology/plummer-2022-listerine-mouthwash-oropharyngeal-microbiota.md
   - wiki/oral-microbiology/min-2024-essential-oil-mouthrinses-plaque-microbiome.md
   - wiki/oral-microbiology/pignatelli-2020-periodontal-disease-nitric-oxide-blood-pressure.md
-note: "hygienist-education 스킬 산출 퀴즈. 문항은 위키 근거로 LLM 저작(자동생성 아님) — scripts/build-quiz.py가 스펙(interactives/quiz-specs/listerine-mouthwash.json)에서 HTML 생성. source_wiki가 도구보다 최신이면 interactive-staleness가 STALE 신호."
+  - wiki/periodontics/oral-hygiene-instruction/windhorst-2025-cpc-chx-plaque-gingivitis-sr-ma.md
+  - wiki/periodontics/oral-hygiene-instruction/van-swaaij-2019-chx-ads-discoloration-sr-ma.md
+  - wiki/periodontics/non-surgical-instrumentation/annisa-2023-chx-gel-chip-srp-sr-ma.md
+note: "2026-09-09 overview 동기화 — Windhorst 2025(CPC vs CHX), Van Swaaij 2019(CHX+ADS), Annisa 2023(CHX chip) 3문항 추가(7→10문항); 라이트 테마 전환."
 ---
 -->
 <!DOCTYPE html>
@@ -26,9 +29,9 @@ note: "hygienist-education 스킬 산출 퀴즈. 문항은 위키 근거로 LLM 
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700;900&display=swap" rel="stylesheet">
 <style>
   :root{
-    --bg:#0e1116; --panel:#161b22; --panel2:#1c232d; --line:#2b333d;
-    --txt:#e6edf3; --dim:#9aa7b4; --ok:#3fb950; --no:#ff5d5d; --accent:#4aa3ff;
-    --chip:#243040;
+    --bg:#f5f7fa; --panel:#ffffff; --panel2:#f0f2f5; --line:#d0d7de;
+    --txt:#1a1d23; --dim:#6e7781; --ok:#1a7f37; --no:#d1242f; --accent:#0969da;
+    --chip:#e9ebef;
   }
   *{box-sizing:border-box;}
   body{margin:0;background:var(--bg);color:var(--txt);
@@ -36,7 +39,7 @@ note: "hygienist-education 스킬 산출 퀴즈. 문항은 위키 근거로 LLM 
   .wrap{max-width:760px;margin:0 auto;padding:26px 18px 80px;}
   h1{font-weight:900;font-size:1.6rem;margin:.2em 0 .1em;}
   .sub{color:var(--dim);font-size:.92rem;margin-bottom:16px;}
-  .bar{height:8px;background:var(--panel);border-radius:20px;overflow:hidden;margin:14px 0 22px;}
+  .bar{height:8px;background:var(--panel2);border:1px solid var(--line);border-radius:20px;overflow:hidden;margin:14px 0 22px;}
   .bar > i{display:block;height:100%;width:0;background:var(--accent);transition:width .3s;}
   .q{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:18px;margin-bottom:16px;}
   .qn{font-size:.78rem;color:var(--dim);margin-bottom:4px;}
@@ -45,17 +48,18 @@ note: "hygienist-education 스킬 산출 퀴즈. 문항은 위키 근거로 LLM 
     border:1px solid var(--line);color:var(--txt);border-radius:9px;
     padding:11px 13px;margin:7px 0;cursor:pointer;font-size:.93rem;
     font-family:inherit;transition:border-color .15s,background .15s;}
-  .opt:hover:not(:disabled){border-color:var(--accent);}
+  .opt:hover:not(:disabled){border-color:var(--accent);background:#e8f0fb;}
   .opt:disabled{cursor:default;}
-  .opt.correct{border-color:var(--ok);background:rgba(63,185,80,.12);}
-  .opt.wrong{border-color:var(--no);background:rgba(255,93,93,.12);}
+  .opt.correct{border-color:var(--ok);background:#dafbe1;}
+  .opt.wrong{border-color:var(--no);background:#ffdde0;}
   .rat{margin-top:10px;font-size:.86rem;color:var(--dim);
     border-left:3px solid var(--line);padding:8px 12px;display:none;}
   .rat.show{display:block;}
   .rat b{color:var(--txt);}
   .rat a{color:var(--accent);text-decoration:none;}
   .score{position:sticky;bottom:0;background:var(--panel);border:1px solid var(--line);
-    border-radius:12px;padding:14px 18px;text-align:center;font-weight:700;margin-top:8px;}
+    border-radius:12px;padding:14px 18px;text-align:center;font-weight:700;margin-top:8px;
+    box-shadow:0 2px 8px rgba(0,0,0,.08);}
   .score .big{font-size:1.5rem;color:var(--accent);}
   .reset{margin-top:12px;background:var(--chip);border:1px solid var(--line);
     color:var(--txt);border-radius:8px;padding:9px 16px;cursor:pointer;font-family:inherit;}
@@ -66,16 +70,17 @@ note: "hygienist-education 스킬 산출 퀴즈. 문항은 위키 근거로 LLM 
 <body>
 <div class="wrap">
   <h1>🧴 리스테린(에센셜오일) 가글 효과 자가테스트</h1>
-  <div class="sub">치위생사 교육 · 7문항 · 답을 고르면 정답·해설·근거가 열립니다.</div>
+  <div class="sub">치위생사 교육 · 10문항 · 답을 고르면 정답·해설·근거가 열립니다.</div>
   <div class="bar"><i id="bar"></i></div>
   <div id="quiz"></div>
-  <div class="score" id="score">진행: <span id="done">0</span>/7 · 정답 <span class="big" id="pts">0</span></div>
+  <div class="score" id="score">진행: <span id="done">0</span>/10 · 정답 <span class="big" id="pts">0</span></div>
   <button class="reset" onclick="location.reload()">↻ 다시 풀기</button>
   <div class="foot">출처: <a href="/dentopedia/overviews/antiseptic-mouthrinse-chlorhexidine-essential-oil-overview" target="_blank">항균 가글(CHX·에센셜오일) 종합 overview</a> · 교육용 요약 — 개별 판단은 위키 원문·원장 확인</div>
 </div>
 <script>
 // 문항 = LLM이 위키 근거로 저작. 스펙: interactives/quiz-specs/listerine-mouthwash.json
 // cite = 위키 경로(category/stem) → 링크는 /dentopedia/{cite} 로 조립.
+// 2026-09-09: overview 동기화 — Q8~Q10 신규(Windhorst 2025, Van Swaaij 2019, Annisa 2023)
 const QUESTIONS = [
   {
     "q": "가글(구강세정제)의 올바른 위치는?",
@@ -99,7 +104,7 @@ const QUESTIONS = [
     ],
     "ans": 1,
     "rat": "네트워크 메타분석(53 RCT, n=8,457): EO ≥ CHX ≥ triclosan-copolymer > CPC. EO가 치은염 감소에서 수치상 최상위권.",
-    "cite": "periodontics/figuero-2019-adjunctive-antiplaque-chemical-agents-gingivitis"
+    "cite": "periodontics/oral-hygiene-instruction/figuero-2019-adjunctive-antiplaque-chemical-agents-gingivitis"
   },
   {
     "q": "장기 가정용으로 EO(리스테린)가 CHX보다 유리한 주된 이유는?",
@@ -111,7 +116,7 @@ const QUESTIONS = [
     ],
     "ans": 1,
     "rat": "CHX는 치아 착색(SMD +1.07)·미각이상 등으로 장기 사용 부적합. EO는 효능이 CHX와 유사하면서 착색이 없어 장기 가정용 대안.",
-    "cite": "periodontics/james-2017-chlorhexidine-mouthrinse-adjunctive-gingival"
+    "cite": "periodontics/oral-hygiene-instruction/james-2017-chlorhexidine-mouthrinse-adjunctive-gingival"
   },
   {
     "q": "리스테린형 EO 가글을 12주 매일 사용했을 때 구인두 미생물은?",
@@ -122,7 +127,7 @@ const QUESTIONS = [
       "즉시 내성 발생"
     ],
     "ans": 1,
-    "rat": "12주 매일 사용에도 구인두 마이크로바이오타 유의 변화 없음(안전). 반면 CHX는 7일 사용만으로도 다양성·질산환원균 감소가 보고됨.",
+    "rat": "12주 매일 사용에도 구인두 마이크로바이오타 유의 변화 없음(안전, PERMANOVA p=0.413). 반면 CHX는 7일 사용만으로도 다양성·질산환원균 감소가 보고됨.",
     "cite": "oral-microbiology/plummer-2022-listerine-mouthwash-oropharyngeal-microbiota"
   },
   {
@@ -158,8 +163,44 @@ const QUESTIONS = [
       "CHX가 타액 분비를 억제해 구강건조 유발"
     ],
     "ans": 1,
-    "rat": "CHX 항균 작용이 구강 공생 질산환원균(Actinobacillus·Rothia·Neisseria)을 제거하면 타액 아질산염 생산↓→ 산화질소(NO) 혈관확장 신호↓→ 혈압 +2–3.5 mmHg 상승 가능. 고혈압 환자에서는 이 경로를 보존하는 EO가 CHX 대신 선호된다 — 착색 부작용 외 심혈관적 추가 이유.",
+    "rat": "CHX 항균 작용이 구강 공생 질산환원균(Actinobacillus·Rothia·Neisseria)을 제거하면 타액 아질산염 생산↓→ 산화질소(NO) 혈관확장 신호↓→ 혈압 +2–3.5 mmHg 상승 가능. 고혈압 환자에서는 이 경로를 보존하는 EO가 CHX 대신 선호된다.",
     "cite": "oral-microbiology/pignatelli-2020-periodontal-disease-nitric-oxide-blood-pressure"
+  },
+  {
+    "q": "칫솔질을 병행하는 환자에서 세틸피리디늄(CPC) 가글과 CHX 가글의 치태·치은 효과를 SR+MA(14 RCT)로 비교하면?",
+    "opts": [
+      "CHX가 CPC보다 유의하게 우월",
+      "CPC = CHX (통계적으로 동등; 치태 WMD=0.04, p=0.11)",
+      "CPC가 CHX보다 유의하게 우월",
+      "두 가글 모두 효과 없음"
+    ],
+    "ans": 1,
+    "rat": "Windhorst 2025 SR+MA(14 RCT): 칫솔질 병행 연구에서 CPC-MW vs CHX-MW — 치태(WMD=0.04, p=0.11)·치은 지수(WMD=0.02, p=0.20) 모두 유의차 없음. CPC는 착색 없는 CHX 대체제로 칫솔질 환자에 적합; 비칫솔 연구에선 CHX가 작은 이점 유지(WMD=0.55, p=0.003).",
+    "cite": "periodontics/oral-hygiene-instruction/windhorst-2025-cpc-chx-plaque-gingivitis-sr-ma"
+  },
+  {
+    "q": "CHX 가글에 항착색 시스템(ADS, 아스코르브산·아황산수소나트륨)을 추가하면 착색과 효능(치태·치은 지수)은?",
+    "opts": [
+      "착색 감소, 효능도 동시에 감소",
+      "착색 유의하게 감소(SMD −3.19), 치태·치은 효능은 보존",
+      "착색 감소 없음, 효능만 증가",
+      "착색·효능 모두 변화 없음"
+    ],
+    "ans": 1,
+    "rat": "Van Swaaij 2019 SR+MA(13 RCT): CHX+ADS vs CHX — 비칫솔 연구에서 착색 SMD −3.19(p=0.0005, 95% CI −3.98~−1.41)로 유의 감소; 치태(p=0.45)·치은 지수(p=0.15)는 유의차 없음. ADS는 CHX 효능을 유지하면서 착색 부작용을 대폭 줄인다.",
+    "cite": "periodontics/oral-hygiene-instruction/van-swaaij-2019-chx-ads-discoloration-sr-ma"
+  },
+  {
+    "q": "SRP 후 CHX chip(치주낭 내 국소 투여)은 어떤 엔드포인트에 가장 적합한가?",
+    "opts": [
+      "치주낭 깊이(PD) 감소 — 테트라사이클린·미노사이클린보다 우월",
+      "치은 염증(치은 지수 GI) 감소 — 다른 국소 항균제보다 우월 (MD=−0.11, p=0.02)",
+      "치태 지수 개선 — 다른 항생제와 동등",
+      "임플란트 주위 조직 재생"
+    ],
+    "ans": 1,
+    "rat": "Annisa 2023 SR+MA(9편): SRP 후 CHX chip은 치은 지수 3개월 MD=−0.11(p=0.02)로 다른 국소 항균제보다 우월; 치주낭 깊이 감소는 테트라사이클린·메트로니다졸·미노사이클린보다 열등(MD 0.50–0.58mm, p≤0.001). 1차 목적에 따라 선택: 치은 염증→CHX chip, 치주낭 감소→테트라/미노사이클린.",
+    "cite": "periodontics/non-surgical-instrumentation/annisa-2023-chx-gel-chip-srp-sr-ma"
   }
 ];
 const SITE_BASE="/dentopedia";
