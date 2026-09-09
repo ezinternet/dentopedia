@@ -256,3 +256,6 @@ Functional impact:
 - [[drug/systemic-disease/enteghad-2024-diabetes-mellitus-periodontal-periimplant-disease-review]] — diabetes-peri-implant inflammation axis extended by Guadarrama Bello 2026
 - [[implants/survival/shahi-2026-implant-outcomes-diabetes-mellitus-sr]] — SR of diabetes implant outcomes; reinforces Axis 2 surface-rescue thesis
 - [[overviews/drug-systemic-disease-dental-management-overview]] — companion overview covering medically compromised patient management, DDI, HbA1c thresholds; this page adds CKD, diabetes/osteoporosis implant mechanisms, and SSc not covered there
+- [[oral-surgery/yang-2022-wound-healing-diabetes-tooth-extraction]] — narrative review of pathogenesis (AGE/MMP/BMP-4/M1-M2/neuropeptide) and interventions (PRGF/L-PRF/HA/LLLT) for diabetic socket healing; well-controlled DM heals comparably to non-DM
+- [[oral-surgery/ruggiero-2024-hyaluronic-acid-diabetic-socket-rct]] — split-mouth RCT in T2DM: HA gel accelerates healing at D7/D14; D21 = complete epithelial closure outer boundary in complicated T2DM; 0 antibiotic prescriptions
+- [[oral-surgery/mozzati-2013-prgf-diabetic-extraction-socket]] — split-mouth study in T1DM: PRGF accelerates D3–14 closure; glycemia ≥240 mg/dL is threshold for worst outcomes
