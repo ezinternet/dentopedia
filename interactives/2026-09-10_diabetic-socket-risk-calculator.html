@@ -1,0 +1,829 @@
+<title>Diabetic Socket Risk</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Inter:wght@400;500;600&display=swap">
+
+<style>
+  :root {
+    --bg:          #F5F7FA;
+    --surface:     #FFFFFF;
+    --border:      #DDE2EA;
+    --text:        #1A1E2A;
+    --muted:       #5C6370;
+    --accent:      #1C5370;
+    --accent-lt:   #EAF3F8;
+    --risk-low:    #1A7A52;
+    --risk-low-bg: #EAFAF3;
+    --risk-mid:    #B56B18;
+    --risk-mid-bg: #FEF4E8;
+    --risk-hi:     #9E1C1C;
+    --risk-hi-bg:  #FDEAEA;
+    --mono:        'IBM Plex Mono', 'Courier New', monospace;
+    --sans:        'Inter', system-ui, sans-serif;
+    --radius:      6px;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg:          #10141B;
+      --surface:     #181D26;
+      --border:      #2A3040;
+      --text:        #E4E8F0;
+      --muted:       #8A92A6;
+      --accent:      #4AABE0;
+      --accent-lt:   #0D2230;
+      --risk-low:    #34C47A;
+      --risk-low-bg: #0B2018;
+      --risk-mid:    #F09A3E;
+      --risk-mid-bg: #261608;
+      --risk-hi:     #E85555;
+      --risk-hi-bg:  #250C0C;
+    }
+  }
+
+  :root[data-theme="dark"] {
+    --bg:          #10141B;
+    --surface:     #181D26;
+    --border:      #2A3040;
+    --text:        #E4E8F0;
+    --muted:       #8A92A6;
+    --accent:      #4AABE0;
+    --accent-lt:   #0D2230;
+    --risk-low:    #34C47A;
+    --risk-low-bg: #0B2018;
+    --risk-mid:    #F09A3E;
+    --risk-mid-bg: #261608;
+    --risk-hi:     #E85555;
+    --risk-hi-bg:  #250C0C;
+  }
+
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: var(--sans);
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+    padding: 32px 20px;
+    line-height: 1.5;
+  }
+
+  .page-header {
+    max-width: 960px;
+    margin: 0 auto 28px;
+  }
+
+  .page-header h1 {
+    font-family: var(--mono);
+    font-size: 1.15rem;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    color: var(--accent);
+    text-transform: uppercase;
+    margin-bottom: 4px;
+  }
+
+  .page-header p {
+    font-size: 0.875rem;
+    color: var(--muted);
+    max-width: 580px;
+  }
+
+  .layout {
+    max-width: 960px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 380px;
+    gap: 20px;
+    align-items: start;
+  }
+
+  @media (max-width: 720px) {
+    .layout { grid-template-columns: 1fr; }
+  }
+
+  /* ── Form panel ── */
+  .form-panel {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 24px;
+  }
+
+  .section-label {
+    font-family: var(--mono);
+    font-size: 0.7rem;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin-bottom: 14px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .field-group {
+    margin-bottom: 22px;
+  }
+
+  .field-label {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: var(--text);
+    margin-bottom: 8px;
+  }
+
+  .field-value {
+    font-family: var(--mono);
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--accent);
+    font-variant-numeric: tabular-nums;
+  }
+
+  input[type="range"] {
+    width: 100%;
+    height: 4px;
+    border-radius: 2px;
+    outline: none;
+    -webkit-appearance: none;
+    appearance: none;
+    background: var(--border);
+    cursor: pointer;
+  }
+
+  input[type="range"]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background: var(--accent);
+    border: 2px solid var(--surface);
+    box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+  }
+
+  .range-ticks {
+    display: flex;
+    justify-content: space-between;
+    font-family: var(--mono);
+    font-size: 0.68rem;
+    color: var(--muted);
+    margin-top: 4px;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .threshold-line {
+    position: relative;
+    height: 6px;
+    margin-top: 2px;
+  }
+
+  .threshold-mark {
+    position: absolute;
+    font-family: var(--mono);
+    font-size: 0.6rem;
+    color: var(--risk-mid);
+    transform: translateX(-50%);
+  }
+
+  .threshold-mark.hi {
+    color: var(--risk-hi);
+  }
+
+  /* Radio buttons — DM type */
+  .radio-group {
+    display: flex;
+    gap: 10px;
+  }
+
+  .radio-option {
+    flex: 1;
+    position: relative;
+  }
+
+  .radio-option input {
+    position: absolute;
+    opacity: 0;
+    width: 0;
+  }
+
+  .radio-option label {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 36px;
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: var(--muted);
+    cursor: pointer;
+    transition: all 0.15s;
+    font-family: var(--mono);
+    letter-spacing: 0.03em;
+  }
+
+  .radio-option input:checked + label {
+    background: var(--accent-lt);
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+
+  /* Checkboxes */
+  .checkbox-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+  }
+
+  .checkbox-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+    font-size: 0.875rem;
+    color: var(--text);
+    padding: 8px 10px;
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    transition: all 0.15s;
+  }
+
+  .checkbox-item:has(input:checked) {
+    background: var(--accent-lt);
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+
+  .checkbox-item input {
+    accent-color: var(--accent);
+    width: 14px;
+    height: 14px;
+    flex-shrink: 0;
+  }
+
+  /* ── Result panel ── */
+  .result-panel {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    overflow: hidden;
+    position: sticky;
+    top: 20px;
+  }
+
+  .risk-header {
+    padding: 20px 24px 16px;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .risk-eyebrow {
+    font-family: var(--mono);
+    font-size: 0.65rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin-bottom: 8px;
+  }
+
+  .risk-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 6px 14px;
+    border-radius: 20px;
+    font-family: var(--mono);
+    font-size: 0.85rem;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+    transition: all 0.25s;
+  }
+
+  .risk-badge .dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+
+  .risk-badge.low {
+    background: var(--risk-low-bg);
+    color: var(--risk-low);
+  }
+  .risk-badge.low .dot { background: var(--risk-low); }
+
+  .risk-badge.medium {
+    background: var(--risk-mid-bg);
+    color: var(--risk-mid);
+  }
+  .risk-badge.medium .dot { background: var(--risk-mid); }
+
+  .risk-badge.high {
+    background: var(--risk-hi-bg);
+    color: var(--risk-hi);
+  }
+  .risk-badge.high .dot { background: var(--risk-hi); }
+
+  .risk-score-line {
+    font-family: var(--mono);
+    font-size: 0.72rem;
+    color: var(--muted);
+    margin-top: 8px;
+    font-variant-numeric: tabular-nums;
+  }
+
+  /* Timeline */
+  .timeline-section {
+    padding: 18px 24px;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .timeline-label {
+    font-family: var(--mono);
+    font-size: 0.65rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin-bottom: 12px;
+  }
+
+  .timeline-track {
+    position: relative;
+    height: 6px;
+    background: var(--border);
+    border-radius: 3px;
+    margin-bottom: 20px;
+  }
+
+  .timeline-fill {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    border-radius: 3px;
+    transition: width 0.35s ease, background 0.35s;
+  }
+
+  .timeline-markers {
+    position: relative;
+    height: 28px;
+    margin-top: -4px;
+  }
+
+  .t-marker {
+    position: absolute;
+    transform: translateX(-50%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+  }
+
+  .t-marker .tick {
+    width: 1px;
+    height: 8px;
+    background: var(--border);
+  }
+
+  .t-marker .lbl {
+    font-family: var(--mono);
+    font-size: 0.62rem;
+    color: var(--muted);
+    white-space: nowrap;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .t-marker.active .tick { background: var(--accent); }
+  .t-marker.active .lbl { color: var(--accent); font-weight: 600; }
+
+  .closure-note {
+    font-size: 0.78rem;
+    color: var(--muted);
+    line-height: 1.4;
+  }
+
+  .closure-note strong {
+    color: var(--text);
+    font-weight: 600;
+  }
+
+  /* Intervention */
+  .intervention-section {
+    padding: 18px 24px;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .intervention-section .timeline-label {
+    margin-bottom: 10px;
+  }
+
+  .intervention-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    margin-bottom: 10px;
+    font-size: 0.83rem;
+    line-height: 1.45;
+    color: var(--text);
+  }
+
+  .intervention-item:last-child { margin-bottom: 0; }
+
+  .iv-icon {
+    width: 22px;
+    height: 22px;
+    border-radius: 4px;
+    background: var(--accent-lt);
+    color: var(--accent);
+    font-family: var(--mono);
+    font-size: 0.65rem;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    margin-top: 1px;
+    letter-spacing: 0;
+  }
+
+  .intervention-item span { color: var(--muted); }
+
+  /* Evidence */
+  .evidence-section {
+    padding: 14px 24px 18px;
+  }
+
+  .evidence-list {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+
+  .evidence-list li {
+    font-family: var(--mono);
+    font-size: 0.67rem;
+    color: var(--muted);
+    line-height: 1.4;
+    padding-left: 12px;
+    position: relative;
+  }
+
+  .evidence-list li::before {
+    content: '›';
+    position: absolute;
+    left: 0;
+    color: var(--accent);
+  }
+
+  /* Score pills row */
+  .score-factors {
+    padding: 14px 24px;
+    border-top: 1px solid var(--border);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+
+  .factor-pill {
+    font-family: var(--mono);
+    font-size: 0.65rem;
+    padding: 3px 8px;
+    border-radius: 10px;
+    background: var(--border);
+    color: var(--muted);
+    transition: all 0.2s;
+  }
+
+  .factor-pill.active {
+    background: var(--risk-hi-bg);
+    color: var(--risk-hi);
+  }
+
+  .factor-pill.warn {
+    background: var(--risk-mid-bg);
+    color: var(--risk-mid);
+  }
+</style>
+
+<div class="page-header">
+  <h1>Diabetic Extraction Socket Risk</h1>
+  <p>당뇨 환자 발치와 치유 위험도 계층화 — Mozzati 2013 · Ruggiero 2024 · Yang 2022 근거</p>
+</div>
+
+<div class="layout">
+
+  <!-- INPUT PANEL -->
+  <div class="form-panel">
+
+    <div class="section-label">당뇨 프로필</div>
+
+    <!-- DM Type -->
+    <div class="field-group">
+      <div class="field-label">당뇨 유형</div>
+      <div class="radio-group">
+        <div class="radio-option">
+          <input type="radio" name="dmtype" id="t1" value="t1">
+          <label for="t1">T1DM (인슐린 의존성)</label>
+        </div>
+        <div class="radio-option">
+          <input type="radio" name="dmtype" id="t2" value="t2" checked>
+          <label for="t2">T2DM</label>
+        </div>
+      </div>
+    </div>
+
+    <!-- Blood Glucose -->
+    <div class="field-group">
+      <div class="field-label">
+        <span>혈당 (Fasting Blood Glucose)</span>
+        <span class="field-value" id="glucose-val">168 mg/dL</span>
+      </div>
+      <input type="range" id="glucose" min="70" max="400" value="168" step="2">
+      <div class="range-ticks">
+        <span>70</span>
+        <span>140</span>
+        <span>240</span>
+        <span>400</span>
+      </div>
+    </div>
+
+    <!-- HbA1c -->
+    <div class="field-group">
+      <div class="field-label">
+        <span>당화혈색소 HbA1c (%)</span>
+        <span class="field-value" id="hba1c-val">8.2%</span>
+      </div>
+      <input type="range" id="hba1c" min="5.0" max="14.0" value="8.2" step="0.1">
+      <div class="range-ticks">
+        <span>5.0</span>
+        <span>7.5</span>
+        <span>9.0</span>
+        <span>14.0</span>
+      </div>
+    </div>
+
+    <div class="section-label" style="margin-top:4px;">당뇨 합병증 (Complications)</div>
+
+    <div class="field-group" style="margin-bottom:0">
+      <div class="checkbox-grid">
+        <label class="checkbox-item">
+          <input type="checkbox" id="nephropathy"> 신증 (Nephropathy)
+        </label>
+        <label class="checkbox-item">
+          <input type="checkbox" id="neuropathy" checked> 신경병증 (Neuropathy)
+        </label>
+        <label class="checkbox-item">
+          <input type="checkbox" id="retinopathy"> 망막증 (Retinopathy)
+        </label>
+        <label class="checkbox-item">
+          <input type="checkbox" id="cardiopathy"> 심장 합병증 (Cardiopathy)
+        </label>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- RESULT PANEL -->
+  <div class="result-panel">
+
+    <div class="risk-header">
+      <div class="risk-eyebrow">위험도 평가</div>
+      <div class="risk-badge medium" id="risk-badge">
+        <span class="dot"></span>
+        <span id="risk-text">MEDIUM RISK</span>
+      </div>
+      <div class="risk-score-line" id="risk-score">점수: 3/8 — 중등도 위험</div>
+    </div>
+
+    <div class="timeline-section">
+      <div class="timeline-label">예상 상피 폐쇄 타임라인</div>
+      <div class="timeline-track">
+        <div class="timeline-fill" id="tl-fill" style="width:66%;background:#B56B18"></div>
+      </div>
+      <div class="timeline-markers">
+        <div class="t-marker" style="left:0%"><div class="tick"></div><div class="lbl">D0</div></div>
+        <div class="t-marker" style="left:33%"><div class="tick"></div><div class="lbl">D7</div></div>
+        <div class="t-marker active" id="d14-marker" style="left:66%"><div class="tick"></div><div class="lbl">D14</div></div>
+        <div class="t-marker" id="d21-marker" style="left:100%"><div class="tick"></div><div class="lbl">D21</div></div>
+      </div>
+      <div class="closure-note" id="closure-note">
+        대부분 <strong>D14–D21</strong> 내 완전 상피 폐쇄.<br>
+        Ruggiero 2024: 합병증 T2DM에서 D21이 외부 경계값.
+      </div>
+    </div>
+
+    <div class="intervention-section">
+      <div class="timeline-label">권장 중재</div>
+      <div id="intervention-list">
+        <div class="intervention-item">
+          <div class="iv-icon">HA</div>
+          <div>HA 겔 (히알루론산) 3×/일 × 7일 권장<br><span>Ruggiero 2024: D7/D14 치유지수·폐쇄 유의 개선 (p=0.01)</span></div>
+        </div>
+        <div class="intervention-item">
+          <div class="iv-icon">AB</div>
+          <div>예방적 항생제 불필요<br><span>조절된 T2DM 합병증 군에서도 감염 0건 (Ruggiero 2024)</span></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="evidence-section">
+      <div class="timeline-label">근거 (Evidence Base)</div>
+      <ul class="evidence-list" id="evidence-list">
+        <li>Ruggiero 2024 · RCT split-mouth · T2DM n=36 · D21=100% 폐쇄</li>
+        <li>Yang 2022 · narrative review · well-controlled DM = 비DM 동등</li>
+        <li>al-Maawi 2021 · SR 20 RCTs · PRF 통증↓·1주 연조직치유↑</li>
+      </ul>
+    </div>
+
+    <div class="score-factors" id="score-factors">
+      <!-- populated by JS -->
+    </div>
+
+  </div>
+
+</div>
+
+<script>
+  const glucoseInput = document.getElementById('glucose');
+  const hba1cInput  = document.getElementById('hba1c');
+  const glucoseVal  = document.getElementById('glucose-val');
+  const hba1cVal    = document.getElementById('hba1c-val');
+
+  const nephropathy = document.getElementById('nephropathy');
+  const neuropathy  = document.getElementById('neuropathy');
+  const retinopathy = document.getElementById('retinopathy');
+  const cardiopathy = document.getElementById('cardiopathy');
+
+  const dmT1 = document.getElementById('t1');
+  const dmT2 = document.getElementById('t2');
+
+  const riskBadge      = document.getElementById('risk-badge');
+  const riskText       = document.getElementById('risk-text');
+  const riskScore      = document.getElementById('risk-score');
+  const tlFill         = document.getElementById('tl-fill');
+  const d14Marker      = document.getElementById('d14-marker');
+  const d21Marker      = document.getElementById('d21-marker');
+  const closureNote    = document.getElementById('closure-note');
+  const interventionList = document.getElementById('intervention-list');
+  const evidenceList   = document.getElementById('evidence-list');
+  const scoreFactors   = document.getElementById('score-factors');
+
+  glucoseInput.addEventListener('input', () => { glucoseVal.textContent = glucoseInput.value + ' mg/dL'; update(); });
+  hba1cInput.addEventListener('input',  () => { hba1cVal.textContent  = parseFloat(hba1cInput.value).toFixed(1) + '%'; update(); });
+  [nephropathy, neuropathy, retinopathy, cardiopathy, dmT1, dmT2].forEach(el => el.addEventListener('change', update));
+
+  function calcScore() {
+    const g   = +glucoseInput.value;
+    const h   = +hba1cInput.value;
+    const t1  = dmT1.checked;
+    const comps = [nephropathy, neuropathy, retinopathy, cardiopathy].filter(c => c.checked).length;
+
+    let score = 0;
+    const factors = [];
+
+    if (g >= 240) {
+      score += 3;
+      factors.push({ label: '혈당≥240 +3', level: 'active' });
+    } else if (g >= 140) {
+      score += 1;
+      factors.push({ label: '혈당140-239 +1', level: 'warn' });
+    } else {
+      factors.push({ label: '혈당 양호', level: '' });
+    }
+
+    if (h > 9.0) {
+      score += 2;
+      factors.push({ label: 'HbA1c>9% +2', level: 'active' });
+    } else if (h >= 7.5) {
+      score += 1;
+      factors.push({ label: 'HbA1c7.5-9% +1', level: 'warn' });
+    } else {
+      factors.push({ label: 'HbA1c<7.5% 양호', level: '' });
+    }
+
+    if (t1) {
+      score += 1;
+      factors.push({ label: 'T1DM +1', level: 'warn' });
+    }
+
+    if (comps > 0) {
+      score += comps;
+      factors.push({ label: '합병증×' + comps + ' +' + comps, level: comps >= 3 ? 'active' : 'warn' });
+    }
+
+    return { score, factors };
+  }
+
+  function update() {
+    const { score, factors } = calcScore();
+    const comps = [nephropathy, neuropathy, retinopathy, cardiopathy].filter(c => c.checked).length;
+    const g = +glucoseInput.value;
+    const t1 = dmT1.checked;
+
+    // Risk tier
+    let tier, label, scoreDesc;
+    if (score <= 1) {
+      tier = 'low'; label = 'LOW RISK'; scoreDesc = '점수: ' + score + '/9 — 저위험 (조절 당뇨)';
+    } else if (score <= 3) {
+      tier = 'medium'; label = 'MEDIUM RISK'; scoreDesc = '점수: ' + score + '/9 — 중등도 위험';
+    } else {
+      tier = 'high'; label = 'HIGH RISK'; scoreDesc = '점수: ' + score + '/9 — 고위험 (불량 조절)';
+    }
+
+    riskBadge.className = 'risk-badge ' + tier;
+    riskText.textContent = label;
+    riskScore.textContent = scoreDesc;
+
+    // Timeline fill
+    const fillColor = tier === 'low' ? 'var(--risk-low)' : tier === 'medium' ? 'var(--risk-mid)' : 'var(--risk-hi)';
+    let fillWidth, d14Active, d21Active;
+    if (tier === 'low') {
+      fillWidth = '66%'; d14Active = true; d21Active = false;
+    } else if (tier === 'medium') {
+      fillWidth = '100%'; d14Active = false; d21Active = true;
+    } else {
+      fillWidth = '100%'; d14Active = false; d21Active = true;
+    }
+    tlFill.style.width = fillWidth;
+    tlFill.style.background = fillColor;
+    d14Marker.className = 't-marker' + (d14Active ? ' active' : '');
+    d21Marker.className = 't-marker' + (d21Active ? ' active' : '');
+
+    // Closure note
+    const closureTexts = {
+      low: '대부분 <strong>D14 전후</strong> 완전 상피 폐쇄 예상.<br>조절 당뇨 — Yang 2022: 잘 조절된 DM은 비DM과 치유 차이 없음 (Goss et al.).',
+      medium: '대부분 <strong>D14–D21</strong> 내 완전 상피 폐쇄.<br>Ruggiero 2024: 합병증 T2DM에서 D21이 외부 경계값.',
+      high: '<strong>D21</strong>이 상피 폐쇄 외부 경계값.<br>' +
+            (g >= 240 ? 'Mozzati 2013: 혈당 ≥240 mg/dL 군에서 가장 불량한 치유지수·잔류 발치와 용적. ' : '') +
+            '선택적 발치라면 혈당 최적화 후 술식 권장.'
+    };
+    closureNote.innerHTML = closureTexts[tier];
+
+    // Intervention
+    const ivHTML = {
+      low: `
+        <div class="intervention-item">
+          <div class="iv-icon">Rx</div>
+          <div>표준 발치 후 처치<br><span>Yang 2022: 조절된 DM은 일반 환자와 동등한 치유</span></div>
+        </div>
+        <div class="intervention-item">
+          <div class="iv-icon">AB</div>
+          <div>예방적 항생제 불필요<br><span>감염 위험 일반 환자와 동등</span></div>
+        </div>
+      `,
+      medium: `
+        <div class="intervention-item">
+          <div class="iv-icon">HA</div>
+          <div>HA 겔 (히알루론산) 3×/일 × 7일 권장<br><span>Ruggiero 2024: D7/D14 치유지수·폐쇄 유의 개선 (p=0.01)</span></div>
+        </div>
+        <div class="intervention-item">
+          <div class="iv-icon">PRF</div>
+          <div>L-PRF / PRGF 고려 가능<br><span>Yang 2022: 임상 RCT 근거 있음; al-Maawi 2021 SR 뒷받침</span></div>
+        </div>
+        <div class="intervention-item">
+          <div class="iv-icon">AB</div>
+          <div>예방적 항생제 불필요<br><span>Ruggiero 2024: 합병증 T2DM에서도 감염 0건</span></div>
+        </div>
+      `,
+      high: `
+        <div class="intervention-item">
+          <div class="iv-icon">PRF</div>
+          <div>PRGF 또는 L-PRF <strong>강력 권장</strong><br><span>Mozzati 2013: T1DM에서 D3–14 치유지수·잔류용적 유의 개선</span></div>
+        </div>
+        <div class="intervention-item">
+          <div class="iv-icon">HA</div>
+          <div>HA 겔 병용 고려<br><span>Ruggiero 2024 + Yang 2022: HA와 PRF 병용 근거 있음</span></div>
+        </div>
+        ${g >= 240 ? `
+        <div class="intervention-item">
+          <div class="iv-icon">BG</div>
+          <div>혈당 조절 최적화 후 발치 (선택적 술식)<br><span>Mozzati 2013: 혈당 ≥240 mg/dL = 불량 치유 독립 임계값</span></div>
+        </div>` : ''}
+        <div class="intervention-item">
+          <div class="iv-icon">FU</div>
+          <div>D7·D14·D21 추적 관찰 필수<br><span>D21까지도 미폐쇄 시 이차 중재 검토</span></div>
+        </div>
+      `
+    };
+    interventionList.innerHTML = ivHTML[tier];
+
+    // Evidence
+    const evBase = [
+      'Yang 2022 · narrative review (Front Endocrinol) · 기전 + 임상 중재 종합',
+      'Ruggiero 2024 · RCT split-mouth · T2DM n=36 · D21=100% 폐쇄 · 항생제 0건',
+      'Mozzati 2013 · split-mouth · T1DM n=34 · PRGF D3–14 치유 유의 개선',
+      'al-Maawi 2021 · SR 20 RCTs · PRF 통증↓ · 1주 연조직치유↑ · 2–3개월 효과'
+    ];
+    evidenceList.innerHTML = evBase.map(e => `<li>${e}</li>`).join('');
+
+    // Score factor pills
+    scoreFactors.innerHTML = factors.map(f =>
+      `<span class="factor-pill${f.level ? ' ' + f.level : ''}">${f.label}</span>`
+    ).join('');
+  }
+
+  update();
+</script>
