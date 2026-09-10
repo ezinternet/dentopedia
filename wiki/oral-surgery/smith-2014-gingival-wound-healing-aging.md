@@ -7,9 +7,7 @@ doi: "10.1177/0022034514563750"
 source: smith-2014-gingival-wound-healing-aging.md
 category: oral-surgery
 confidence: narrative-review
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 tags: [wound-healing, oral-epithelium, gingiva, aging, integrin, keratinocyte, growth-factor, stem-cell]
 relations:
   - type: extends

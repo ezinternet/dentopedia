@@ -4,9 +4,7 @@ authors: "Latimer J, Wu DT, Yilmaz BT, Cha JK, Gouveia Z, Yao Y, Giannobile W"
 year: 2026
 doi: "10.1111/jre.70068"
 category: oral-surgery
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested

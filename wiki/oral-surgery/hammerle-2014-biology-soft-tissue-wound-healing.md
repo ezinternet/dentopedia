@@ -7,9 +7,7 @@ doi: "10.1111/jcpe.12221"
 source: hammerle-2014-biology-soft-tissue-wound-healing.md
 category: oral-surgery
 confidence: consensus
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 tags: [wound-healing, oral-epithelium, hemostasis, fibrin, re-epithelialization, eschar, soft-tissue]
 relations:
   - type: extends

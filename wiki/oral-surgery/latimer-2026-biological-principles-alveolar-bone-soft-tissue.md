@@ -7,9 +7,7 @@ doi: "10.1111/jre.70068"
 source: latimer-2026-biological-principles-alveolar-bone-soft-tissue.md
 category: oral-surgery
 confidence: narrative-review
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 tags: [wound-healing, oral-epithelium, hemostasis, regeneration, scaffold, immunoengineering, bone-regeneration, periodontics]
 relations:
   - type: reinforces
