@@ -10,6 +10,22 @@ source_collection: pubmed-abstract
 ## Why Ingested
 구강상피 치유·가피형성(hemostasis → fibrin clot → re-epithelialization) 4단계 메커니즘의 컨센서스 기준문서가 필요했음. 기존 [[oral-surgery/walton-2026-beyond-re-epithelialization-prolonged-remodeling]] 은 재상피화 이후 단계를 다루나, 혈병(가피) 형성 → 상피화 완료 7–14일 타임라인의 canonical 근거가 부재했음.
 
+## Three-line Summary
+
+Consensus review from Group 1 of the 10th European Workshop on Periodontology (2014) synthesizing the biological stages of oral soft tissue wound healing at teeth, implants, and the edentulous ridge, with systematic appraisal of pre-clinical and human histological evidence on healing phases, regenerative adjuncts, and soft tissue substitutes.
+
+The canonical 4-phase sequence (haemostasis → inflammation → proliferation → maturation) applies to both oral mucosal and skin wounds; surgical wound re-epithelialization completes within 7–14 days at teeth, while soft tissue maturation at implants requires 6–8 weeks; human histology consistently shows long junctional epithelial attachment rather than true new attachment after most regenerative procedures.
+
+The fibrin clot formed in Phase 1 is the structural scaffold for all subsequent cellular events; this 7–14 day epithelial healing benchmark drives clinical SOP timing for suture removal, socket management, and implant loading protocols.
+
+## 세줄요약
+
+치아·임플란트·무치악 치조제에서의 구강 연조직 창상 치유 생물학을 정리한 제10차 유럽치주학술대회(European Workshop on Periodontology, EWP) 컨센서스(2014); 전임상·인체 조직학적 근거를 체계적으로 검토.
+
+지혈→염증→증식→성숙의 4단계 순서가 구강 점막과 피부 창상에 공통 적용; 치아 부위 수술 창상의 재상피화(re-epithelialization)는 7–14일 완료, 임플란트 부위 연조직 성숙은 6–8주 소요; 인체 조직학 데이터는 대부분 긴 결합상피(long junctional epithelial attachment) 형성을 보임.
+
+1단계에서 형성된 피브린 혈병(fibrin clot)이 이후 모든 세포 반응의 구조적 기질이며, 이 7–14일 상피화 기준이 봉합사 제거·소켓 관리·임플란트 부하 시기의 임상 SOP 근거.
+
 ## One-line Summary
 Consensus review (10th EWP 2014): oral soft tissue healing follows 4 sequential phases (hemostasis, inflammation, proliferation, maturation), with epithelial healing of surgical wounds completing within 7–14 days.
 
