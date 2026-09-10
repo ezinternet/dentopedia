@@ -6,12 +6,28 @@ date: 2013-10-30
 doi: "10.1016/j.joms.2013.10.010"
 source: mozzati-2013-prgf-diabetic-extraction-socket.md
 category: [oral-surgery]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/mozzati-2013-prgf-diabetic-extraction-socket.pdf
 pdf_filename: mozzati-2013-prgf-diabetic-extraction-socket.pdf
 source_collection: external
 tags: [diabetes, PRGF, platelet-concentrate, extraction-socket, epithelialization, wound-healing]
 ---
+
+## Three-line Summary
+
+Retrospective split-mouth study (34 insulin-dependent T1DM patients; University of Turin; January–December 2012) in which each patient received bilateral homologous tooth extractions — one socket treated with PRGF (Anitua protocol) and the contralateral with spontaneous healing — assessed at days 3, 7, 14, and 21 for Healing Index, residual socket volume, VAS pain, and complications.
+
+PRGF produced significantly better Healing Index and smaller residual socket volumes from days 3 to 14 vs spontaneous healing; patients with glycemia ≥240 mg/dL formed a distinct subgroup with worse outcomes regardless of PRGF treatment; 100% of patients preferred PRGF in a post-procedure questionnaire.
+
+PRGF accelerates socket epithelialization and tissue maturation in T1DM patients, but glycemic control is the primary determinant of healing quality — establishing glycemia ≥240 mg/dL as a clinically relevant threshold that platelet concentrate intervention cannot fully overcome.
+
+## 세줄요약
+
+인슐린의존성 제1형 당뇨(T1DM) 환자 34명을 대상으로 한 후향적 분할구강 연구(토리노대; 2012년); 양측 대칭 발치 시 한 쪽에 혈소판풍부성장인자(Plasma Rich in Growth Factor, PRGF; Anitua 프로토콜), 반대측은 자연치유; 3·7·14·21일 치유지수·발치와 잔류 용적·VAS 평가.
+
+PRGF는 3–14일 치유지수 및 잔류 발치와 용적을 유의하게 개선; 혈당 ≥240 mg/dL 환자군은 PRGF 여부와 무관하게 최악의 치유를 보이는 독립 아군 형성; 환자 100%가 PRGF를 선호.
+
+T1DM 환자에서 PRGF가 소켓 상피화와 조직 성숙을 가속하나, 혈당 조절이 치유 품질의 1차 결정 인자 — 혈당 ≥240 mg/dL 임계값은 혈소판 농축물로도 완전히 극복할 수 없는 임상 관련 경계임.
 
 ## One-line Summary
 
