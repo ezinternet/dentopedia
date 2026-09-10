@@ -6,7 +6,7 @@ date: 2019-02-11
 doi: "10.1186/s40729-019-0157-7"
 source: ragucci-2019-implant-exposure-sinus-cavity-sr.md
 category: sinus-lift/transcrestal
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/ragucci-2019-implant-exposure-sinus-cavity-sr.pdf
 pdf_filename: ragucci-2019-implant-exposure-sinus-cavity-sr.pdf
 source_collection: external
