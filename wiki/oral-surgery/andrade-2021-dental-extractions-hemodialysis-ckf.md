@@ -6,7 +6,7 @@ date: 2021-09-01
 doi: "10.1016/j.oooo.2021.08.004"
 source: andrade-2021-dental-extractions-hemodialysis-ckf.md
 category: [oral-surgery]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/andrade-2021-dental-extractions-hemodialysis-ckf.pdf
 pdf_filename: andrade-2021-dental-extractions-hemodialysis-ckf.pdf
 source_collection: external
