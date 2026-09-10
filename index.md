@@ -2338,6 +2338,8 @@ tags: []
 ### oral-surgery (added 2026-05-24, batch b)
 
 - [[oral-surgery/cebrian-carretero-2014-free-flap-implant-guided-surgery]] — José-Luis Cebrian-Carretero 2014 · narrative-review · Predictable dental rehabilitation in maxillomandibular reconstruction with free flaps. The role of implant guided surgery
+- [[oral-surgery/fernandes-2015-immunologic-glycemic-postextraction-t2dm]] — Fernandes KS et al. 2015 · prospective · Immunologic parameters and glycemic control vs postextraction complications in T2DM patients: no increased complications without antibiotics
+- [[oral-surgery/andrade-2021-dental-extractions-hemodialysis-ckf]] — Andrade NS et al. 2021 · prospective · Dental extractions in CKF/hemodialysis patients (pilot): bleeding >30min 18.5%, delayed epithelialization at 21d, no postop infection without antibiotics
 
 
 <!-- BATCH INGEST 2026-05-24c: peri-implantitis + KDA implant policy + cracked tooth + stamp + insurance -->
@@ -4150,6 +4152,12 @@ tags: []
 - [[sinus-lift/transcrestal/manekar-2020-graftless-crestal-sinus-lift-simultaneous]] — Graftless crestal hydraulic sinus lift with simultaneous implant insertion: 100% survival at 1 year (n=26, mean bone gain 5.6 mm) (2020)
 - [[sinus-lift/transcrestal/song-2020-tenting-effect-implant-sinus-graftless]] — Tenting effect of implant on graftless sinus lift: bone formation under Schneiderian membrane (2020)
 - [[sinus-lift/transcrestal/cho-2024-crestal-sinus-augmentation-limited-bone]] — Crestal approach sinus augmentation with <4 mm bone: observational study showing viable outcomes (2024)
+- [[sinus-lift/transcrestal/imai-2022-primary-stability-implant-macrodesigns]] — Imai Y et al. 2022 · retrospective · Primary stability of implants with different macrodesigns in atrophic posterior maxilla: RFA comparison across bone densities
+- [[sinus-lift/transcrestal/albadani-2024-graftless-sinus-lifting-simultaneous]] — Albadani WA et al. 2024 · prospective · Graftless transcrestal sinus lifting with simultaneous implant: 95.24% survival, mean bone gain 4.21 mm at 12 months
+- [[sinus-lift/transcrestal/ragucci-2019-implant-exposure-sinus-cavity-sr]] — Ragucci GM et al. 2019 · sr · Implant exposure into the sinus cavity in TSFE: SR of clinical significance and outcomes
+- [[sinus-lift/transcrestal/suk-arj-2019-osfe-without-grafting-bone-cbct]] — Suk-arj P et al. 2019 · prospective · OSFE without grafting: CBCT assessment of bone formation and implant stability (ISQ)
+- [[sinus-lift/transcrestal/yu-2021-implant-protrusion-length-nongrafting-osfe]] — Yu H et al. 2021 · prospective · Implant protrusion length effects on bone gain in nongrafting OSFE: IPL is key variable
+- [[sinus-lift/transcrestal/albash-2023-implant-protrusion-initial-bone-tsfe]] — Albash Z et al. 2023 · retrospective · IPL vs IBH effects on initial bone gain after graftless TSFE: IPL strong positive correlation, IBH not significant; 100% survival (n=34)
 
 ### sinus-lift/lateral
 - [[sinus-lift/lateral/pignataro-2008-ent-assessment-sinus-lift-candidates]] — ENT pre-operative risk stratification framework for sinus lift candidates (2008)
@@ -4157,6 +4165,9 @@ tags: []
 - [[sinus-lift/lateral/paetnukroh-2024-sinus-dhdtm-dbbm-rct]] — RCT: DHDTM vs DBBM for sinus floor augmentation — volumetric and implant stability outcomes (2024)
 - [[sinus-lift/lateral/kim-2007-maxillary-sinus-volume-ct-graft-placement]] — CT-based 3D measurement of maxillary sinus volume for graft material estimation (2007)
 - [[sinus-lift/lateral/schiavo-di-flaviano-2024-schneiderian-perforation-implant-survival-sr-ma]] — SR+MA: 슈나이데리안막 천공 수복 후 임플란트 생존율 97.1% vs 비천공 97.7%, 유의차 없음 (OR=0.78, I²=0%); n=5,052개 임플란트 (2024)
+- [[sinus-lift/lateral/riben-2012-maxillary-sinus-membrane-elevation-graftless]] — Riben C & Thor A 2012 · sr · Graftless lateral SFE SR (1997–2011): all studies show high survival; mechanism via blood clot and membrane tension
+- [[sinus-lift/lateral/hegde-2016-sinus-augmentation-membrane-elevation-sr]] — Hegde R et al. 2016 · sr · Graftless direct SFE SR (1997–Oct 2014): survival 79.9–100%, bone gain 2.37–10 mm; heterogeneity precluded pooling
+- [[sinus-lift/lateral/dongo-2018-lateral-sinus-floor-graftless-meta-analysis]] — Dongo V et al. 2018 · sr+ma · Graftless lateral SFE: IPD+aggregate MA (11 studies, 660 implants): survival 97.5%, 5-year IPD 93.1%, bone gain 5.7 mm
 
 ### bone-regeneration
 - [[bone-regeneration/stephan-1999-anorganic-bovine-bone-osteoblastic-attachment]] — In vitro: anorganic bovine bone supports osteoblastic cell attachment and proliferation (1999)
