@@ -13,6 +13,22 @@ source_collection: external
 
 Provides direct comparative ex vivo data on BLX vs SP/TE/BL/BLT primary stability in a 5 mm residual bone model simulating sinus floor elevation — extends [[sinus-lift/transcrestal/cho-2024-crestal-sinus-augmentation-limited-bone]] and [[sinus-lift/lateral/allurkar-2025-implant-stability-residual-bone-macrodesign]] with Straumann-specific macrodesign comparison in low-bone conditions.
 
+## Three-line Summary
+
+Ex vivo comparative study using 5 mm porcine iliac crest blocks simulating a sinus floor elevation model with 42 blocks divided into 7 groups of Straumann implants (SP, TE, BL, BLT, BLX, and two short variants), measuring maximum insertion torque (MIT) and implant stability quotient (ISQ) by resonance frequency analysis.
+
+Straumann BLX 10 mm showed significantly higher MIT than SP, BL (p<0.01) and TE (p<0.05), and significantly higher ISQ than all other implant types (p<0.01); BLX short 6 mm outperformed SP 10 mm in ISQ, indicating macrodesign can partially compensate for reduced implant length.
+
+In atrophic maxilla conditions simulating residual bone height of 5 mm, selecting a compression-favoring variable-thread macrodesign (BLX) provides measurably superior primary stability — a controllable clinical factor before secondary osseointegration biology begins.
+
+## 세줄요약
+
+돼지 장골두 5mm 블록(상악동거상 시뮬레이션)에 42블록/7군 Straumann 임플란트(SP·TE·BL·BLT·BLX·단형 2종)를 식립하고 최대삽입토크(Maximum Insertion Torque, MIT)와 임플란트 안정성 지수(Implant Stability Quotient, ISQ)를 측정한 생체 외(ex vivo) 비교 연구.
+
+BLX 10mm는 MIT(SP·BL 대비 p<0.01, TE 대비 p<0.05) 및 ISQ(전 군 대비 p<0.01) 모두 유의하게 높았으며, BLX 단형 6mm가 SP 10mm보다 높은 ISQ를 기록해 매크로디자인이 길이 부족을 부분 보완함을 확인.
+
+잔존골 높이(Residual Bone Height, RBH) 5mm의 상악 구치부 상황에서, 가압형 가변 나사산 매크로디자인(BLX) 선택은 2차 골유착 전 단계에서 통제 가능한 1차 안정성 향상 인자임.
+
 ## One-line Summary
 
 Ex vivo porcine model (5 mm blocks): Straumann BLX showed significantly higher MIT and ISQ than SP, TE, BL and BLT in a sinus floor elevation simulation.
