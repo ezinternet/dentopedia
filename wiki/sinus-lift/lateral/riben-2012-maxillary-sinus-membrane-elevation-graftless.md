@@ -6,7 +6,7 @@ date: 2012-05-02
 doi: "10.1155/2012/105483"
 source: riben-2012-maxillary-sinus-membrane-elevation-graftless.md
 category: sinus-lift/lateral
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/riben-2012-maxillary-sinus-membrane-elevation-graftless.pdf
 pdf_filename: riben-2012-maxillary-sinus-membrane-elevation-graftless.pdf
 source_collection: external
