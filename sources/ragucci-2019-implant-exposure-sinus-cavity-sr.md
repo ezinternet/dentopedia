@@ -13,6 +13,22 @@ source_collection: external
 
 Systematic review quantifying implant survival and complication rates when implants penetrate the sinus cavity (with or without membrane punch-through) — covers both lateral and transcrestal routes, provides evidence base for [[sinus-lift/transcrestal/duan-2017-graft-free-maxillary-sinus-floor-elevation-sr-ma]] and informs complication risk framework.
 
+## Three-line Summary
+
+Systematic review (MEDLINE, EMBASE, Cochrane; 8 studies, 493 implants, mean follow-up 52.7 months) of implant survival and complication rates when implants penetrate the sinus cavity without bone grafting, encompassing both lateral and transalveolar techniques.
+
+Weighted mean survival was 95.6%; clinical complications occurred in 3.4% of cases (epistaxis most common) and radiographic complications in 14.8% (Schneiderian membrane thickening most common); penetration depth ≤4 mm vs >4 mm showed no statistically significant difference for either survival (p=0.403) or clinical complications.
+
+Implant penetration into the sinus cavity without grafting yields clinically acceptable survival and complication profiles; the 4 mm depth threshold does not constitute a hard safety boundary for implant placement decisions, though a trend toward higher radiographic complications at >4 mm warrants monitoring.
+
+## 세줄요약
+
+임플란트가 상악동 내로 돌출될 때의 생존율과 합병증을 평가한 체계적 문헌고찰(MEDLINE·EMBASE·Cochrane, 8편, 493개 임플란트, 평균 52.7개월 추적); 측방 및 경치조정 접근법을 이식재 없이 시행한 연구를 대상으로 함.
+
+가중 평균 생존율 95.6%; 임상 합병증 3.4%(비출혈 최다)·방사선 합병증 14.8%(슈나이더 막 비후 최다); 돌출 깊이 ≤4mm vs >4mm에서 생존율(p=0.403)·임상 합병증 모두 유의차 없음.
+
+이식재 없이 상악동 내로 임플란트를 돌출시켜도 임상적으로 허용 가능한 생존율과 합병증 수준을 유지하며, 4mm 깊이 기준은 절대적 안전 경계가 아님; 다만 >4mm 시 방사선 합병증 경향 증가는 추적 관찰 필요.
+
 ## One-line Summary
 
 SR (8 studies, 493 implants, 52.7 months): weighted mean survival 95.6% for implants penetrating sinus; clinical complications 3.4% (epistaxis most common), radiographic 14.8% (membrane thickening); penetration depth (≤4 vs >4 mm) does not significantly affect survival or clinical complications.
