@@ -1714,6 +1714,9 @@ tags: []
 - [[drug/antibiotics/liu-2024-antibiotic-prophylaxis-surgical-nonsurgical-safety-umbrella-review]] — Liu 2024 (Int J Surg) · sr+ma · 우산리뷰(75 SR·725 RCT·119개 결과지표·163,832명, 78개 임상시나리오): 항생제 예방투여(AP) 56.3% 유의 이득이나 70%가 low~very-low 확실성; 창상 청결도와 효능은 대체로 무관, 방광경·화학요법후 무열성 호중구감소증은 내성/부작용 유의 증가 → 루틴 적용보다 케이스별 판단 필요
 
 ## 구강외과 (Oral Surgery)
+- [[oral-surgery/hammerle-2014-biology-soft-tissue-wound-healing]] — Hämmerle 2014 · consensus (10차 EWP) · 구강 연조직 창상 치유 4단계(지혈→염증→증식→성숙); 가피(fibrin clot) = 세포이동 기질; 치아 부위 재상피화 7–14일, 임플란트 연조직 성숙 6–8주 (DOI 10.1111/jcpe.12221)
+- [[oral-surgery/smith-2014-gingival-wound-healing-aging]] — Smith 2014 · narrative-review · 노화가 치은 창상 치유 전 단계 손상(인테그린↓·성장인자↓·MMP↑·줄기세포 저하); 정상 상피이동·과립조직·리모델링 분자 기전 역조명 (DOI 10.1177/0022034514563750)
+- [[oral-surgery/latimer-2026-biological-principles-alveolar-bone-soft-tissue]] — Latimer 2026 · narrative-review · 치조골·연조직·치주 재생 생물학; 4단계 창상치유 + 구강 미생물·기계·면역 중첩 조절; 면역공학(M1→M2)·바이오프린팅 차세대 전략 (DOI 10.1111/jre.70068)
 - [[oral-surgery/walton-2026-beyond-re-epithelialization-prolonged-remodeling]] — Walton 2026 · animal (마우스 경구개 2mm 전층 절제창) · 재상피화(Re-Epithelialization)는 14일 완료, Wnt-반응성 줄기세포(Axin2+) 복귀·분화 마커 회복에 5–6개월 — 구강 창상 치유의 2단계 패러다임 (DOI 10.1038/s41419-026-08804-z)
 - [[oral-surgery/third-molar/rodriguez-sanchez-2017-chlorhexidine-alveolar-osteitis-third]] — Rodríguez Sánchez 2017 · sr+ma (23 RCT, 2,824 발치) · CHX (제형·농도 무관) 사랑니 발치 후 건성발치와 위험 47% 감소 (RR=0.53, NNT=8); 겔 > 가글 (RR 0.47 vs 0.58) (DOI 10.1016/j.joms.2017.01.002)
 - [[oral-surgery/nerve-injury/lee-2015-inferior-alveolar-nerve-injury-management]] — 증례보고: 제3대구치 발치 중 IAN 노출 → dexamethasone 국소도포 + prednisolone 점감 + NSAIDs → 36일 내 neuropraxia 완전 회복
