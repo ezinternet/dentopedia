@@ -5,6 +5,7 @@ type: interactive
 date: 2026-09-10
 status: done
 category: bone-graft
+agenda: agenda/2026-09-10_diabetic-socket-wound-healing.md
 source_wiki:
   - wiki/oral-surgery/ruggiero-2024-hyaluronic-acid-diabetic-socket-rct.md
   - wiki/oral-surgery/mozzati-2013-prgf-diabetic-extraction-socket.md
@@ -30,38 +31,6 @@ source_wiki:
     --c-t2ctrl: #B56B18;
     --c-t1prgf: #7B3FA0;
     --c-t1ctrl: #9E1C1C;
-  }
-
-  @media (prefers-color-scheme: dark) {
-    :root:not([data-theme="light"]) {
-      --bg:       #10141B;
-      --surface:  #181D26;
-      --border:   #2A3040;
-      --text:     #E4E8F0;
-      --muted:    #8A92A6;
-      --accent:   #4AABE0;
-      --grid:     #1E2430;
-      --c-normal: #34C47A;
-      --c-ha:     #4AABE0;
-      --c-t2ctrl: #F09A3E;
-      --c-t1prgf: #B07DE0;
-      --c-t1ctrl: #E85555;
-    }
-  }
-
-  :root[data-theme="dark"] {
-    --bg:       #10141B;
-    --surface:  #181D26;
-    --border:   #2A3040;
-    --text:     #E4E8F0;
-    --muted:    #8A92A6;
-    --accent:   #4AABE0;
-    --grid:     #1E2430;
-    --c-normal: #34C47A;
-    --c-ha:     #4AABE0;
-    --c-t2ctrl: #F09A3E;
-    --c-t1prgf: #B07DE0;
-    --c-t1ctrl: #E85555;
   }
 
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -477,9 +446,6 @@ noteData.forEach(n => {
   notesArea.appendChild(d);
 });
 
-// ── Init & theme watch ────────────────────────────────────────────────
+// ── Init ──────────────────────────────────────────────────────────────
 redraw();
-const obs = new MutationObserver(redraw);
-obs.observe(document.documentElement, { attributes:true, attributeFilter:['data-theme'] });
-window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', redraw);
 </script>
