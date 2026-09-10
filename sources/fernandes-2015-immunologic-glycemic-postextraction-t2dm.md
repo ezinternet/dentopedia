@@ -13,6 +13,22 @@ source_collection: external
 
 Prospective case-control study directly addressing the question of whether T2DM glycemic control and neutrophil dysfunction increases postextraction complication risk — fills the oral-surgery evidence gap alongside [[oral-surgery/yang-2022-wound-healing-diabetes-tooth-extraction]] and [[oral-surgery/mozzati-2013-prgf-diabetic-extraction-socket]].
 
+## Three-line Summary
+
+Prospective case-control study (53 T2DM patients + 29 non-diabetic controls; University of São Paulo) assessing postextraction wound healing and complication rates at days 3, 7, 21, and 60, with concurrent measurement of HbA1c and neutrophil function at the time of extraction.
+
+Despite documented impairment in neutrophil function and variable glycemic control among T2DM patients, no significant difference in postoperative complications was found between groups; all sockets were completely epithelialized with no signs of infection in both groups by day 60, regardless of HbA1c level.
+
+T2DM status and glycemic control level alone do not independently predict postextraction complications; antibiotic prophylaxis should not be prescribed solely on the basis of diabetic status, challenging routine prophylaxis protocols in this patient group.
+
+## 세줄요약
+
+제2형 당뇨병 환자(53명)와 대조군(29명)을 대상으로 발치 후 창상 치유 및 합병증을 술 후 3·7·21·60일에 평가한 전향적 증례-대조군 연구(상파울루대); 발치 시점의 당화혈색소(HbA1c)와 호중구(neutrophil) 기능을 동시 측정.
+
+T2DM군에서 호중구 기능 저하 및 불량한 혈당 조절이 확인되었음에도 합병증 발생률은 두 군 간 유의차 없었으며, 60일째 양군 모두 100% 상피 폐쇄, 감염 소견 없음.
+
+T2DM 상태 또는 혈당 조절 정도만으로는 발치 후 합병증 위험을 예측할 수 없으며, 당뇨 상태만을 근거로 예방적 항생제(antibiotic prophylaxis)를 처방하는 것은 근거가 없음.
+
 ## One-line Summary
 
 Prospective case-control (53 T2DM + 29 controls): despite impaired neutrophil function and poor glycemic control, no increase in postextraction complications; T2DM per se is not a risk factor for complications; antibiotic prophylaxis not indicated based solely on diabetic status.
