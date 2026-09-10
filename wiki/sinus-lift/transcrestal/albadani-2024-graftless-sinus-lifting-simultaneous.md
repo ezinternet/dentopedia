@@ -6,7 +6,7 @@ date: 2024-02-19
 doi: "10.1186/s12903-024-03949-9"
 source: albadani-2024-graftless-sinus-lifting-simultaneous.md
 category: sinus-lift/transcrestal
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/albadani-2024-graftless-sinus-lifting-simultaneous.pdf
 pdf_filename: albadani-2024-graftless-sinus-lifting-simultaneous.pdf
 source_collection: external
