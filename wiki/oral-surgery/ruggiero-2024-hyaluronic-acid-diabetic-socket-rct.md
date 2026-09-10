@@ -6,12 +6,28 @@ date: 2024-01-14
 doi: "10.3390/jcm13020452"
 source: ruggiero-2024-hyaluronic-acid-diabetic-socket-rct.md
 category: [oral-surgery]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/ruggiero-2024-hyaluronic-acid-diabetic-socket-rct.pdf
 pdf_filename: ruggiero-2024-hyaluronic-acid-diabetic-socket-rct.pdf
 source_collection: external
 tags: [diabetes, extraction-socket, hyaluronic-acid, wound-healing, rct, epithelialization]
 ---
+
+## Three-line Summary
+
+Single-center split-mouth RCT (CONSORT 2010; n=36 T2DM patients with prior diabetes complications; University of Turin) in which each patient underwent bilateral homologous non-impacted tooth extraction — one site treated with topical hyaluronic acid (HA) gel 3×/day for 7 days and the contralateral site left untreated — with blinded assessment at days 3, 7, 14, and 21 using a modified Landry healing index (1–4).
+
+HA significantly improved healing index at D7 (p=0.01) and D14 (p=0.02) and socket closure at D3/D7/D14, with 97.2% of HA sites achieving excellent healing (index=4) at D14 vs 72.2% of controls (p=0.004); by D21 both groups reached 100% complete soft-tissue closure (p=1) with zero antibiotic prescriptions in either group.
+
+D21 is the outer boundary for soft-tissue epithelial closure in T2DM patients with active complications even without intervention; HA accelerates early healing stages but does not alter the final outcome, and the complete absence of infections in both groups challenges routine antibiotic prophylaxis for well-managed T2DM extractions.
+
+## 세줄요약
+
+당뇨 합병증(신증·신경병증·망막병증·심장병)이 있는 T2DM 환자 36명을 대상으로 양측 대칭 발치 시 한 쪽에 히알루론산(Hyaluronic Acid, HA) 겔(3회/일, 7일간)·반대측 무처치를 비교한 분할구강 RCT(CONSORT 2010; 토리노대); 수정 Landry 치유지수로 3·7·14·21일 평가.
+
+HA는 D7(p=0.01)·D14(p=0.02) 치유지수와 D3/D7/D14 소켓 폐쇄를 유의하게 개선; D14 우수 치유(index=4) HA 97.2% vs 대조 72.2%(p=0.004); **D21에는 양군 모두 100% 완전 상피 폐쇄**(p=1), 항생제 처방 없음.
+
+복합 합병증 T2DM 환자에서도 개입 없이 D21까지 완전 상피화가 달성되므로 D21이 외측 경계; HA는 초기 치유를 가속하나 최종 결과를 바꾸지 않으며, 양군 감염 없음은 잘 조절된 T2DM 발치에서 일상적 항생제 처방이 불필요함을 시사.
 
 ## One-line Summary
 
