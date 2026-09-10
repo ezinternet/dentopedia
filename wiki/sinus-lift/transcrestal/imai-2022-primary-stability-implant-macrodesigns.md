@@ -6,7 +6,7 @@ date: 2022-08-11
 doi: "10.1186/s12903-022-02345-5"
 source: imai-2022-primary-stability-implant-macrodesigns.md
 category: sinus-lift/transcrestal
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/imai-2022-primary-stability-implant-macrodesigns.pdf
 pdf_filename: imai-2022-primary-stability-implant-macrodesigns.pdf
 source_collection: external
