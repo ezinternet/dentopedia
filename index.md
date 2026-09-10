@@ -462,6 +462,8 @@ tags: []
 - [[pdrn/gwak-2021-does-polydeoxyribonucleotide-effect-tendon]] — SR/MA, **비치과 cross-domain** (Medicine 2021): 건/인대 통증 PDRN 주사 SMD −1.43 (P<0.00001), 통증↓하나 기능·근력 무변화; 치과 진통 적응증 외삽 근거(직접 적용은 해석 수준).
 - [[pdrn/kim-2019-efficacy-safety-polydeoxyribonucleotide-knee]] — SR/MA (RCT 5편), **비치과 cross-domain** (Medicine 2019): 슬관절 OA 관절강내 PDRN, HA 대비 1·2개월 통증 우위(4개월 소멸)·기능·안전 동등; PDRN 진통·안전 최고 등급 근거(비치과).
 - [[pdrn/jeon-2026-pdrn-osteoblast-differentiation-osteoclastogenesis]] — In vitro (MC3T3-E1 + BMM, Marine Drugs 2026): PDRN selectively promotes osteoblast differentiation (Runx2↑, ALP↑, mineralization↑) without affecting osteoclastogenesis; A2A→Wnt/β-catenin→Runx2 mechanism proposed
+- [[pdrn/marenzi-2015-lprf-postextraction-socket-healing-splitmout]] — Prospective split-mouth RCT (n=26, 108 extractions): L-PRF socket filling → pain VAS 3.2 vs 4.1, mHI 4.8 vs 5.1 at 7 days; growth factor release >7 days; practical for private practice
+- [[pdrn/chmielewski-2024-aprf-oral-maxillofacial-surgery-sr]] — SR (38 articles, PRISMA): A-PRF reduces postoperative pain, enhances graft integration, improves epithelialization; growth factor release up to 10 days; large blinded RCTs lacking
 
 ## 즉시식립 (Immediate Implant)
 - [[immediate-implant/xing-2024-accuracy-immediate-implantation-digital-guided]] — SR + single-arm MA (7 studies, 215 immediate implants): digital-template-guided IIP accuracy — pooled coronal 0.74 mm, apical 1.01 mm, depth 0.50 mm, angular 2.34°; timing (immediate vs delayed) NS (2024)
@@ -1728,6 +1730,8 @@ tags: []
 - [[oral-surgery/third-molar/cervera-espert-2016-coronectomy-mandibular-third-molar-sr]] — SR+MA (12 studies): coronectomy → significantly less IAN sensory loss + fewer dry sockets vs complete extraction; root migrates ~2mm/2yr; pain/infection equivalent
 - [[oral-surgery/third-molar/povoa-2021-coronectomy-inferior-alveolar-nerve-sr]] — SR (16 papers, 2,176 coronectomies): IAN injury 0.59%, lingual nerve 0.22%, infection 3.95%, root re-extraction 5.28%; low-risk alternative to third molar extraction
 - [[oral-surgery/dinkova-2025-local-hemostasis-oral-surgery-review]] — Narrative review (51 studies): oxidized cellulose/gelatin >85% standard cases; TXA mouthwash 50–60% bleeding reduction; fibrin sealants 70–90% high-risk patients
+- [[oral-surgery/heng-2007-smoking-postextraction-complications-female-inmates]] — Retrospective cohort (n=219): smoking, mandibular third molars, surgical trauma → significant risk factors for postextraction complications incl. alveolar osteitis (19.6% overall, 5.0% dry socket)
+- [[oral-surgery/mahmoudi-2023-gelatin-hemostatic-sponge-extraction-rct]] — Split-mouth double-blind RCT (n=26): novel cross-linked gelatin sponge > Gelfoam; absorbed blood 3.97 vs 6.32g (p<0.05); pain VAS lower (p<0.05); 0 vs 1 dry socket
 - [[oral-surgery/third-molar/hajibagheri-2025-prf-alveolar-osteitis-post-extraction-sr]] — SR (BMC Oral Health 2025): PRF 발치 소켓 적용 → 건성치조염 발생 유의하게 감소, 통증·부종·개구제한 모두 대조군 대비 유의한 개선
 - [[oral-surgery/third-molar/peixoto-2024-coronectomy-benefits-lower-third-molar-sr-ma]] — SR+MA (JOMS 2024;82:73-92): 하악 IAN 고위험 제3대구치에서 치관절제술은 완전 발치 대비 IAN 손상 위험 유의하게 감소; 재수술률 5–12%; 잔존근 이동 ~2–3 mm/2년
 - [[oral-surgery/third-molar/gonzalez-2025-low-level-laser-third-molar-complications-sr-ma]] — SR+MA (JADA 2025;156:211-224): 저출력 다이오드 레이저(LLLT) 제3대구치 발치 후 통증·부종·개구제한 유의하게 감소; 파장 800–940 nm 효과 최적; 부작용 없음
