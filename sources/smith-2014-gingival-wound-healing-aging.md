@@ -4,9 +4,7 @@ authors: "Smith PC, Cáceres M, Martínez C, Oyarzún A, Martínez J"
 year: 2014
 doi: "10.1177/0022034514563750"
 category: oral-surgery
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested

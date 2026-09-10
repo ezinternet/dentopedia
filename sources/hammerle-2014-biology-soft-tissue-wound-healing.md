@@ -4,9 +4,7 @@ authors: "Hämmerle CHF, Giannobile WV et al."
 year: 2014
 doi: "10.1111/jcpe.12221"
 category: oral-surgery
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested
