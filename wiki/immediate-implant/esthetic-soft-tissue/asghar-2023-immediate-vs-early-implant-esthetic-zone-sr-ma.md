@@ -15,10 +15,11 @@ text_path: /Users/oracleneo/llm-wiki/papers/asghar-2023-immediate-vs-early-impla
 text_filename: asghar-2023-immediate-vs-early-implant-esthetic-zone-sr-ma.txt
 tags: []
 superseded_by: ickroth-2024-immediate-vs-early-implant-esthetic-zone-sr-ma
-superseded_scope: Ickroth 2024 (6 RCTs, n=222, search to Feb 2023, Cosyn group, CLOR) supersedes as the more recent, more rigorous, and higher-impact SR+MA on IIP vs EIP esthetic outcomes in the same domain
+superseded_scope: full
 ---
 
-> ⚠️ **Superseded**: see [[immediate-implant/esthetic-soft-tissue/ickroth-2024-immediate-vs-early-implant-esthetic-zone-sr-ma]]
+> [!warning] Superseded (full) → [[ickroth-2024-immediate-vs-early-implant-esthetic-zone-sr-ma]]
+> Ickroth 2024 (6 RCTs, n=222, search to Feb 2023, Cosyn group, CLOR): more recent, more rigorous SR+MA on IIP vs EIP esthetic outcomes in the same domain. (set 2026-09-10)
 
 ## Three-line Summary
 
