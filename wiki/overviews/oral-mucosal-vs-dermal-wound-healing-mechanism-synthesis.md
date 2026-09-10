@@ -68,6 +68,10 @@ Both papers converge independently on fibroblasts as a regulatory layer rather t
 - [[periodontics/ohshima-2002-egf-saliva-oral-epithelial-migration]] — salivary factor mechanism: EGF at physiologic salivary concentrations (1–10 ng/mL) drives oral epithelial proliferation (PI3-K/p38/MEK) and migration (MEK>TK>PI3-K) via distinct pathways
 - [[periodontics/huynh-2016-saline-rinsing-gingival-fibroblast-wound-healing]] — complementary in-vitro gingival fibroblast wound-healing data (both source papers already cross-link to this one); found oral keratinocytes do not respond to saline/chloride migration cues unlike gingival fibroblasts, consistent with distinct motility-regulation pathways between the two cell types
 
+- [[oral-surgery/hammerle-2014-biology-soft-tissue-wound-healing]] — canonical 4-phase oral wound healing framework (10th EWP consensus); hemostasis (fibrin clot = eschar precursor) → proliferation → re-epithelialization 7–14 days; foundational framework this overview's cellular data sits within
+- [[oral-surgery/smith-2014-gingival-wound-healing-aging]] — molecular-level map of gingival wound healing phases; integrin signaling as keratinocyte migration control; MMP/collagen balance; parallels this overview's Drukala keratinocyte-motility findings at the pathway level
+- [[oral-surgery/latimer-2026-biological-principles-alveolar-bone-soft-tissue]] — 2026 update synthesizing the same 4-phase framework in a regenerative context; immunoengineering (M1→M2) as a lever on the same macrophage regulatory axis Glim 2013 identifies as a tissue-type difference
+
 ## Related Overviews
 
 - [[overviews/suture-wound-closure-decision-ladder]] — clinical-technique layer of wound closure/healing; this page supplies the underlying cell-biology "why" for the oral-healing-advantage assumption implicit in donor-site and graft-related sections there
