@@ -97,6 +97,7 @@ Children with CKD consume high-carbohydrate, protein-sparing diets — a carioge
 **Hemodialysis-specific**
 - **Treat the day after dialysis** (heparin effect lasts 3–5 h; intravascular volume optimal)
 - Layered hemostasis: topical thrombin + sutures + oxidized regenerated cellulose + microfibrillar collagen; desmopressin; conjugated estrogens; tranexamic acid rinse 10–15 mg/kg/day
+- **Post-extraction bleeding risk quantified**: Andrade 2021 (prospective, 48 CKF-HD patients, 87 extractions) found bleeding >30 min in 18.5% of HD interventions — all controlled with local hemostatic agents, no transfusions required; delayed epithelialization at D21 but zero postoperative infections. No prophylactic antibiotics were administered to either group. This prospective data anchors the clinical expectation: prolonged bleeding is frequent but manageable locally; infection risk does not appear elevated when standard hygiene is maintained.
 - HIV/HBV/HCV screening + LFTs before surgery
 - Avoid tight chair postures (vascular access at risk)
 - Recall interval: 3–6 months
@@ -156,6 +157,7 @@ Key finding: **nanoscale topography alone (<25 nm) can reduce inflammatory respo
 
 ### Clinical Decision Framework for Compromised Hosts
 
+- **Post-extraction socket healing in T2DM — reassuring signal**: Fernandes 2015 (prospective case-control, T2DM n=53 vs controls n=29, JADA) found **no increase in postextraction complications** even in the presence of impaired neutrophil function and poor glycemic control, assessed at D3/7/21/60. This complements Yang 2022 (well-controlled DM heals comparably) and extends it to poorly-controlled cases for the complication endpoint. Clinical reading: complication rates may not increase as dramatically as expected, but the underlying impaired healing biology (AGE-RAGE, delayed epithelialization; Ruggiero 2024, Mozzati 2013) still warrants adjunctive measures (PRGF, HA gel) in high-risk cases.
 - **Poorly controlled diabetes (HbA1c >8–9%)**: elevated risk for peri-implantitis and early failure; optimize glycemic control before elective implant placement; staged protocols; shorter healing intervals avoided.
 - **Well-controlled diabetes (HbA1c <7–8%)**: implant survival approaches healthy controls; proceed with standard protocols; note potential for delayed healing.
 - **Osteoporosis on bisphosphonates**: consider MRONJ risk separately (see `drug/mronj/` category); primary stability may be lower — use wider/longer implants, bone condensing protocols.
@@ -259,3 +261,5 @@ Functional impact:
 - [[oral-surgery/yang-2022-wound-healing-diabetes-tooth-extraction]] — narrative review of pathogenesis (AGE/MMP/BMP-4/M1-M2/neuropeptide) and interventions (PRGF/L-PRF/HA/LLLT) for diabetic socket healing; well-controlled DM heals comparably to non-DM
 - [[oral-surgery/ruggiero-2024-hyaluronic-acid-diabetic-socket-rct]] — split-mouth RCT in T2DM: HA gel accelerates healing at D7/D14; D21 = complete epithelial closure outer boundary in complicated T2DM; 0 antibiotic prescriptions
 - [[oral-surgery/mozzati-2013-prgf-diabetic-extraction-socket]] — split-mouth study in T1DM: PRGF accelerates D3–14 closure; glycemia ≥240 mg/dL is threshold for worst outcomes
+- [[oral-surgery/fernandes-2015-immunologic-glycemic-postextraction-t2dm]] — prospective case-control (T2DM n=53 vs controls n=29): even with impaired neutrophil function and poor glycemic control, NO increase in postextraction complications — contradicts intuitive expectation; JADA 2015 Vol 146 Issue 8
+- [[oral-surgery/andrade-2021-dental-extractions-hemodialysis-ckf]] — prospective pilot (CKF-HD n=48 vs controls n=29): bleeding >30 min in 18.5% of HD patients (controlled with local hemostatics); delayed epithelialization at D21; no postop infection in either group — adds CKF-specific extraction risk data to the Axis 1 CKD protocol
