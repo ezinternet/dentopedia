@@ -6,7 +6,7 @@ date: 2019-08-01
 doi: "10.1186/s40729-019-0181-7"
 source: suk-arj-2019-osfe-without-grafting-bone-cbct.md
 category: sinus-lift/transcrestal
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/suk-arj-2019-osfe-without-grafting-bone-cbct.pdf
 pdf_filename: suk-arj-2019-osfe-without-grafting-bone-cbct.pdf
 source_collection: external
