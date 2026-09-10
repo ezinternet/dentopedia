@@ -562,7 +562,20 @@ body {
   border: 1px solid var(--border);
   border-radius: 4px;
   padding: 3px 10px;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
 }
+a.source-chip:hover { background: var(--surface-2); border-color: var(--border-2); color: var(--text); }
+.source-link { color: var(--text-2); text-decoration: none; border-bottom: 1px dashed var(--border-2); }
+.source-link:hover { color: var(--text); border-bottom-color: var(--text-2); }
+.doi-link {
+  font-size: 9px; font-weight: 600; letter-spacing: 0.05em;
+  color: #fff; background: var(--text-3); border-radius: 3px;
+  padding: 1px 5px; text-decoration: none; vertical-align: middle;
+}
+.doi-link:hover { background: var(--text-2); }
 </style>
 </head>
 <body>
@@ -693,12 +706,12 @@ body {
 <div class="sources-section">
   <div class="sources-title">근거 문헌 · Source Papers</div>
   <div class="sources-list">
-    <span class="source-chip">Hämmerle 2014 — 10th EWP Consensus (J Clin Periodontol)</span>
-    <span class="source-chip">Smith 2014 — Gingival Wound Healing & Aging (J Dent Res)</span>
-    <span class="source-chip">Latimer 2026 — Biological Principles in Regeneration (J Periodontal Res)</span>
-    <span class="source-chip">Walton 2026 — Prolonged Remodeling / Wnt+ Stem Cells</span>
-    <span class="source-chip">Drukala 2005 — Keratinocyte Motility Comparison (in-vitro)</span>
-    <span class="source-chip">Glim 2013 — Oral vs Dermal Healing (Tissue-level Review)</span>
+    <a class="source-chip" href="https://ezinternet.github.io/dentopedia/oral-surgery/hammerle-2014-biology-soft-tissue-wound-healing" target="_blank">Hämmerle 2014 — 10th EWP Consensus <span class="doi-link">DOI</span></a>
+    <a class="source-chip" href="https://ezinternet.github.io/dentopedia/oral-surgery/smith-2014-gingival-wound-healing-aging" target="_blank">Smith 2014 — Gingival Wound Healing &amp; Aging <span class="doi-link">DOI</span></a>
+    <a class="source-chip" href="https://ezinternet.github.io/dentopedia/oral-surgery/latimer-2026-biological-principles-alveolar-bone-soft-tissue" target="_blank">Latimer 2026 — Biological Principles in Regeneration <span class="doi-link">DOI</span></a>
+    <a class="source-chip" href="https://ezinternet.github.io/dentopedia/oral-surgery/walton-2026-beyond-re-epithelialization-prolonged-remodeling" target="_blank">Walton 2026 — Prolonged Remodeling / Wnt+ Stem Cells <span class="doi-link">DOI</span></a>
+    <a class="source-chip" href="https://ezinternet.github.io/dentopedia/periodontics/drukala-2005-comparison-of-proliferation-and-motile" target="_blank">Drukala 2005 — Keratinocyte Motility Comparison <span class="doi-link">DOI</span></a>
+    <a class="source-chip" href="https://ezinternet.github.io/dentopedia/periodontics/glim-2013-detrimental-dermal-wound-healing" target="_blank">Glim 2013 — Oral vs Dermal Healing (Tissue-level Review)</a>
   </div>
 </div>
 
@@ -712,6 +725,27 @@ body {
 
 <script>
 // ─── LOG SCALE ───
+const SOURCES = {
+  'Hämmerle 2014': { wiki: 'https://ezinternet.github.io/dentopedia/oral-surgery/hammerle-2014-biology-soft-tissue-wound-healing', doi: 'https://doi.org/10.1111/jcpe.12221' },
+  'Smith 2014':    { wiki: 'https://ezinternet.github.io/dentopedia/oral-surgery/smith-2014-gingival-wound-healing-aging',           doi: 'https://doi.org/10.1177/0022034514563750' },
+  'Latimer 2026':  { wiki: 'https://ezinternet.github.io/dentopedia/oral-surgery/latimer-2026-biological-principles-alveolar-bone-soft-tissue', doi: 'https://doi.org/10.1111/jre.70068' },
+  'Walton 2026':   { wiki: 'https://ezinternet.github.io/dentopedia/oral-surgery/walton-2026-beyond-re-epithelialization-prolonged-remodeling',  doi: 'https://doi.org/10.1038/s41419-026-08804-z' },
+  'Drukala 2005':  { wiki: 'https://ezinternet.github.io/dentopedia/periodontics/drukala-2005-comparison-of-proliferation-and-motile', doi: 'https://doi.org/10.1111/wrr.12072' },
+  'Glim 2013':     { wiki: 'https://ezinternet.github.io/dentopedia/periodontics/glim-2013-detrimental-dermal-wound-healing' },
+};
+
+function renderSources(str) {
+  if (!str) return '';
+  return str.split(', ').map(s => {
+    const key = s.trim();
+    const info = SOURCES[key];
+    if (!info) return key;
+    let html = `<a href="${info.wiki}" target="_blank" class="source-link">${key}</a>`;
+    if (info.doi) html += ` <a href="${info.doi}" target="_blank" class="doi-link">DOI</a>`;
+    return html;
+  }).join(', ');
+}
+
 const LOG_OFFSET = 0.5; // avoid log(0)
 const MAX_DAY = 180;
 
@@ -920,7 +954,7 @@ function buildEventList(events) {
         <strong>${ev.title}</strong>${ev.isEschar ? '<span class="eschar-tag">가피</span>' : ''}
         <br><span class="ko">${ev.ko}</span>
         <br>${ev.body}
-        <br><span class="ko" style="font-size:10px;margin-top:2px;display:block;color:var(--text-3);">📖 ${ev.source}</span>
+        <br><span class="ko" style="font-size:10px;margin-top:2px;display:block;color:var(--text-3);">📖 ${renderSources(ev.source)}</span>
       </div>`;
     ul.appendChild(li);
   });
