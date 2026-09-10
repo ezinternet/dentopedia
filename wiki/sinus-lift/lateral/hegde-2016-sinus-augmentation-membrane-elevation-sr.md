@@ -6,7 +6,7 @@ date: 2016-10-01
 doi: "10.4103/0972-4052.191289"
 source: hegde-2016-sinus-augmentation-membrane-elevation-sr.md
 category: sinus-lift/lateral
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/hegde-2016-sinus-augmentation-membrane-elevation-sr.pdf
 pdf_filename: hegde-2016-sinus-augmentation-membrane-elevation-sr.pdf
 source_collection: external
