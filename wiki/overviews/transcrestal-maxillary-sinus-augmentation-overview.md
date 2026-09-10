@@ -47,6 +47,12 @@ source_papers:
   - sinus-lift/transcrestal/farina-2018-morbidity-transcrestal-lateral-sinus-floor-elevation
   - sinus-lift/transcrestal/volpe-2022-osteotome-blood-clot-collagen-sponge-atrophied-maxilla
   - sinus-lift/transcrestal/sulyhan-2024-transcrestal-osseodensification-graft-radiographic-pilot
+  - sinus-lift/transcrestal/imai-2022-primary-stability-implant-macrodesigns
+  - sinus-lift/transcrestal/albadani-2024-graftless-sinus-lifting-simultaneous
+  - sinus-lift/transcrestal/ragucci-2019-implant-exposure-sinus-cavity-sr
+  - sinus-lift/transcrestal/suk-arj-2019-osfe-without-grafting-bone-cbct
+  - sinus-lift/transcrestal/yu-2021-implant-protrusion-length-nongrafting-osfe
+  - sinus-lift/transcrestal/albash-2023-implant-protrusion-initial-bone-tsfe
 evidence_level: synthesis
 source: synthesis
 ---
@@ -66,7 +72,7 @@ source: synthesis
 
 ## Three-line Summary
 
-Synthesis of 41 papers on transcrestal maxillary sinus augmentation: the transcrestal approach is minimally invasive with very high implant survival (100%, 95% CI 99-100% in RCTs; Kadkhodazadeh 2024 SR+MA), and technique selection is the dominant factor determining complications — conventional osteotome (OSFE) carries 0% perforation rate versus 34% for motor-driven osseodensification (OD) (Huang 2026 SR+MA).
+Synthesis of 47 papers on transcrestal maxillary sinus augmentation: the transcrestal approach is minimally invasive with very high implant survival (100%, 95% CI 99-100% in RCTs; Kadkhodazadeh 2024 SR+MA), and technique selection is the dominant factor determining complications — conventional osteotome (OSFE) carries 0% perforation rate versus 34% for motor-driven osseodensification (OD) (Huang 2026 SR+MA).
 
 OD achieves significantly higher ISQ at implant placement and abutment connection versus osteotome or lateral window (Starch-Jensen 2025 SR+MA), with 7.0mm vertical bone gain in the largest multicenter dataset (Huwais 2018, 261 implants); powered instruments with controlled pressure outperform manual mallet osteotomes on morbidity without losing effectiveness (Farina 2023 SR).
 
@@ -74,7 +80,7 @@ The transcrestal approach is indicated when RBH ≥5mm, with immediate placement
 
 ## 세줄요약
 
-경치조골(transcrestal) 상악동거상술 41편 종합: 최소침습 술식이며, RCT에서 임플란트 생존율 매우 높음(100%, 95% CI 99-100%; Kadkhodazadeh 2024 SR+MA); 술식 선택이 합병증의 결정적 요인 — 전통 osteotome(OSFE) 천공률 0% vs 모터구동 골밀도화(Osseodensification, OD) 34% (Huang 2026 SR+MA).
+경치조골(transcrestal) 상악동거상술 47편 종합: 최소침습 술식이며, RCT에서 임플란트 생존율 매우 높음(100%, 95% CI 99-100%; Kadkhodazadeh 2024 SR+MA); 술식 선택이 합병증의 결정적 요인 — 전통 osteotome(OSFE) 천공률 0% vs 모터구동 골밀도화(Osseodensification, OD) 34% (Huang 2026 SR+MA).
 
 OD는 식립 시 및 지대주 연결 시 임플란트 안정성 지수(Implant Stability Quotient, ISQ)가 osteotome·측방창보다 유의 높음 (Starch-Jensen 2025 SR+MA); 다센터 연구에서 7.0mm 수직 골증가 확인 (Huwais 2018, 261 임플란트); 동력 기구가 수동보다 이환율 감소 (Farina 2023 SR).
 
@@ -193,6 +199,9 @@ OD는 식립 시 및 지대주 연결 시 임플란트 안정성 지수(Implant 
 - 골이식 여부는 생존율에 유의한 영향 없음
 - RBH가 충분할 때 무이식 선택 가능
 - CGF(Concentrated Growth Factors) 보조 효과 불확실 (Al-Aroomi 2024)
+- **임플란트 돌출 길이(Implant Protrusion Length, IPL)와 초기 골높이(Initial Bone Height, IBH)가 동내 골획득량(Intrasinus Bone Gain, IBG)의 핵심 변수**: Yu 2021(105 임플란트, 3~9년)과 Albash 2023(34 임플란트, CBCT 6개월)에서 IPL이 길수록 IBG 증가 경향 — 최적 IPL 범위 존재 (>2mm 권장, 과도한 돌출은 동내 이물반응 위험)
+- **비이식 OSFE 6개월 CBCT**: Suk-Arj 2019(예비연구)에서 RBH와 IPL의 상관관계 확인, 신규 골형성 신뢰할 수 있는 신호
+- **무이식 동시 임플란트 식립**: Albadani 2024에서 임상적으로 실현 가능함을 확인
 
 ---
 
@@ -266,6 +275,16 @@ OD는 식립 시 및 지대주 연결 시 임플란트 안정성 지수(Implant 
 - [[sinus-lift/transcrestal/farina-2018-morbidity-transcrestal-lateral-sinus-floor-elevation]] — 이환율 비교
 - [[sinus-lift/transcrestal/volpe-2022-osteotome-blood-clot-collagen-sponge-atrophied-maxilla]] — 혈전 콜라겐
 - [[sinus-lift/transcrestal/sulyhan-2024-transcrestal-osseodensification-graft-radiographic-pilot]] — OD 골이식
+
+### 임플란트 거시형상 · 일차안정도
+- [[sinus-lift/transcrestal/imai-2022-primary-stability-implant-macrodesigns]] — BLX vs 표준 임플란트 SFE 모델 ex vivo: MIT·ISQ 비교 (2022)
+- [[sinus-lift/transcrestal/ragucci-2019-implant-exposure-sinus-cavity-sr]] — 동내 임플란트 노출 생존율·합병증 SR (2019)
+
+### 비이식 IPL · 골증가량
+- [[sinus-lift/transcrestal/suk-arj-2019-osfe-without-grafting-bone-cbct]] — OSFE 비이식 CBCT 6개월 골형성 예비연구 (2019)
+- [[sinus-lift/transcrestal/yu-2021-implant-protrusion-length-nongrafting-osfe]] — 비이식 OSFE IPL 영향 3~9년 후향 (105 임플란트) (2021)
+- [[sinus-lift/transcrestal/albash-2023-implant-protrusion-initial-bone-tsfe]] — TSFE 비이식: IPL+초기골높이 → 동내 골획득량 상관 CBCT (2023)
+- [[sinus-lift/transcrestal/albadani-2024-graftless-sinus-lifting-simultaneous]] — 비이식 상악동거상 동시 임플란트 BMC 연구 (2024)
 
 ### 인접 overview
 - [[overviews/sinus-lift-technique-selection]] — 상악동거상술 전체 종합
