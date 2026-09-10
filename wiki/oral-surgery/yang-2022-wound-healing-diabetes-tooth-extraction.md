@@ -6,12 +6,28 @@ date: 2022-09-23
 doi: "10.3389/fendo.2022.949535"
 source: yang-2022-wound-healing-diabetes-tooth-extraction.md
 category: [oral-surgery]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/yang-2022-wound-healing-diabetes-tooth-extraction.pdf
 pdf_filename: yang-2022-wound-healing-diabetes-tooth-extraction.pdf
 source_collection: external
 tags: [diabetes, extraction-socket, wound-healing, PRF, hyaluronic-acid, bone-biology]
 ---
+
+## Three-line Summary
+
+Narrative review (Frontiers in Endocrinology, 2022) synthesizing the multi-mechanism pathogenesis of delayed tooth extraction socket healing in diabetic patients across five interacting axes — growth factor deficiency, MMP/AGE collagen disruption, M1/M2 macrophage dysregulation, neutrophil impairment, and neuropeptide (Substance P) deficiency — together with a clinical summary of interventions with human RCT evidence.
+
+Day 7 post-extraction is the clearest timepoint showing healing difference between poorly controlled DM and non-DM patients; BMP-4 is the most under-expressed bone-regulating gene in T2DM blood; well-controlled DM patients show no statistically significant difference in healing vs non-diabetic; PRGF, L-PRF, A-PRF, and hyaluronic acid gel are the interventions with clinical RCT support.
+
+Glycemic control is the primary risk stratification tool for diabetic extraction management — well-controlled patients can be treated like non-diabetics; platelet concentrates (PRGF, L-PRF, A-PRF) are the best-supported clinical intervention for accelerating socket healing when complications are anticipated.
+
+## 세줄요약
+
+당뇨 환자 발치와 치유 지연의 5축 기전(성장인자 결핍·MMP/최종당화산물(Advanced Glycation End-products, AGE) 콜라겐 손상·M1/M2 대식세포 편극 이상·호중구 기능 저하·신경펩티드 결핍)과 인간 임상시험 근거가 있는 중재법을 종합한 내러티브 리뷰(Frontiers in Endocrinology 2022).
+
+발치 후 7일이 불량 혈당 조절 당뇨 vs 비당뇨 간 치유 차이가 가장 뚜렷한 시점; BMP-4가 T2DM 혈액에서 가장 저발현 골조절 유전자; 잘 조절된 당뇨 환자는 비당뇨와 통계적 차이 없음; 혈소판풍부성장인자(PRGF)·L-PRF·A-PRF·히알루론산(HA) 겔이 임상 RCT 근거 보유.
+
+혈당 조절이 발치 관리의 1차 위험 분류 도구 — 잘 조절된 환자는 비당뇨와 동일하게 처치 가능; 합병증이 우려될 때는 혈소판 농축물(PRGF·L-PRF·A-PRF)이 소켓 치유 가속을 위한 최선의 임상 중재.
 
 ## One-line Summary
 
