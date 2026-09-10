@@ -1,0 +1,991 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>구강창상 치유 타임라인</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Noto+Sans+KR:wght@400;500;600&display=swap">
+<style>
+:root {
+  --bg:        #F2F0EC;
+  --surface:   #FDFCFA;
+  --surface-2: #F5F3EF;
+  --text:      #1A1814;
+  --text-2:    #4A4540;
+  --text-3:    #8A8580;
+  --border:    #E0DCD6;
+  --border-2:  #C8C4BE;
+
+  --ph1:    #7B2D3A;  --ph1-bg: #F5ECEE;  --ph1-mid: #A85060;
+  --ph2:    #B85C20;  --ph2-bg: #FAF0E8;  --ph2-mid: #D07840;
+  --ph3:    #2E6E50;  --ph3-bg: #E8F2EC;  --ph3-mid: #4A9A72;
+  --ph4:    #2B4F7A;  --ph4-bg: #E8EEF5;  --ph4-mid: #4A78AA;
+
+  --eschar:    #C8942A;
+  --eschar-bg: #FDF5E4;
+  --eschar-bd: #E8C060;
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'Noto Sans KR', system-ui, -apple-system, sans-serif;
+  font-size: 13px;
+  line-height: 1.65;
+  padding: 32px 28px 60px;
+  max-width: 1120px;
+  margin: 0 auto;
+}
+
+/* ─── HEADER ─── */
+.header { margin-bottom: 32px; }
+
+.header-eyebrow {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--text-3);
+  margin-bottom: 6px;
+}
+
+.header h1 {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-size: 34px;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  line-height: 1.2;
+  color: var(--text);
+  margin-bottom: 4px;
+}
+
+.header-sub {
+  font-size: 13px;
+  color: var(--text-2);
+  margin-bottom: 12px;
+}
+
+.header-rule {
+  height: 2px;
+  background: linear-gradient(90deg, var(--ph1) 0%, var(--ph2) 33%, var(--ph3) 66%, var(--ph4) 100%);
+  border-radius: 1px;
+  margin-top: 16px;
+}
+
+/* ─── PHASE NAV ─── */
+.phase-nav {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 28px;
+  flex-wrap: wrap;
+}
+
+.phase-btn {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 16px;
+  border: 1.5px solid var(--border-2);
+  border-radius: 6px;
+  background: var(--surface);
+  cursor: pointer;
+  transition: all 0.18s ease;
+  font-family: inherit;
+  font-size: 13px;
+  color: var(--text-2);
+}
+
+.phase-btn .ph-swatch {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.phase-btn .ph-label-en {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 1;
+}
+
+.phase-btn .ph-label-ko {
+  font-size: 11px;
+  color: var(--text-3);
+}
+
+.phase-btn:hover {
+  border-color: var(--border-2);
+  background: var(--surface-2);
+}
+
+.phase-btn.active {
+  border-color: var(--active-color, #999);
+  background: var(--active-bg, var(--surface));
+  color: var(--text);
+}
+.phase-btn.active .ph-label-ko { color: var(--text-2); }
+
+/* ─── ESCHAR CALLOUT ─── */
+.eschar-callout {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  background: var(--eschar-bg);
+  border: 1.5px solid var(--eschar-bd);
+  border-radius: 8px;
+  padding: 12px 16px;
+  margin-bottom: 24px;
+}
+
+.eschar-badge {
+  background: var(--eschar);
+  color: #fff;
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  padding: 3px 8px;
+  border-radius: 4px;
+  white-space: nowrap;
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+
+.eschar-text { color: var(--text-2); }
+
+.eschar-text strong {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--eschar);
+  display: block;
+  margin-bottom: 2px;
+}
+
+/* ─── TIMELINE WRAPPER ─── */
+.timeline-wrapper {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 24px 20px 20px;
+  margin-bottom: 24px;
+  overflow: hidden;
+}
+
+/* ─── PHASE BANDS BAR ─── */
+.phase-bands-bar {
+  display: flex;
+  height: 10px;
+  border-radius: 5px;
+  overflow: hidden;
+  margin-bottom: 4px;
+}
+
+.ph-band {
+  height: 100%;
+  transition: opacity 0.2s;
+  cursor: pointer;
+}
+
+.ph-band:hover { opacity: 0.8; }
+
+/* ─── RULER ─── */
+.ruler-wrapper {
+  position: relative;
+  height: 30px;
+  margin-bottom: 4px;
+}
+
+.ruler-track {
+  position: absolute;
+  left: 0; right: 0;
+  top: 0;
+  height: 100%;
+}
+
+.ruler-tick {
+  position: absolute;
+  top: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transform: translateX(-50%);
+}
+
+.ruler-tick-line {
+  width: 1px;
+  height: 8px;
+  background: var(--border-2);
+}
+
+.ruler-tick-label {
+  font-size: 10px;
+  color: var(--text-3);
+  white-space: nowrap;
+  margin-top: 2px;
+}
+
+/* ─── TRACKS ─── */
+.tracks-area { position: relative; }
+
+.track-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 0;
+  margin-bottom: 6px;
+  position: relative;
+}
+
+.track-label-col {
+  width: 120px;
+  flex-shrink: 0;
+  padding-right: 12px;
+}
+
+.track-label-en {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--text);
+  line-height: 1.2;
+}
+
+.track-label-ko {
+  font-size: 10px;
+  color: var(--text-3);
+}
+
+.track-content {
+  flex: 1;
+  position: relative;
+  height: 52px;
+}
+
+.track-line-bg {
+  position: absolute;
+  top: 24px;
+  left: 0; right: 0;
+  height: 2px;
+  background: var(--border);
+  border-radius: 1px;
+}
+
+/* ─── EVENT MARKERS ─── */
+.event-marker {
+  position: absolute;
+  top: 16px;
+  transform: translateX(-50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  cursor: pointer;
+  z-index: 10;
+}
+
+.marker-dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  border: 2px solid #fff;
+  box-shadow: 0 0 0 1.5px var(--dot-color, #999);
+  background: var(--dot-color, #999);
+  transition: transform 0.15s, box-shadow 0.15s;
+}
+
+.event-marker:hover .marker-dot {
+  transform: scale(1.4);
+  box-shadow: 0 0 0 2px var(--dot-color, #999), 0 2px 8px rgba(0,0,0,0.18);
+}
+
+.marker-milestone .marker-dot {
+  width: 16px;
+  height: 16px;
+  box-shadow: 0 0 0 2px var(--dot-color, #999);
+}
+
+.marker-label {
+  font-size: 9px;
+  color: var(--text-3);
+  white-space: nowrap;
+  margin-top: 2px;
+  text-align: center;
+  line-height: 1.3;
+  max-width: 60px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.marker-milestone .marker-label {
+  font-weight: 600;
+  color: var(--text-2);
+}
+
+/* ─── TOOLTIP ─── */
+.tooltip {
+  position: fixed;
+  z-index: 100;
+  background: var(--text);
+  color: #fff;
+  border-radius: 6px;
+  padding: 10px 14px;
+  max-width: 260px;
+  font-size: 12px;
+  line-height: 1.5;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.15s;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.25);
+}
+
+.tooltip.visible { opacity: 1; }
+
+.tooltip-day {
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  opacity: 0.6;
+  margin-bottom: 4px;
+}
+
+.tooltip-title {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 1.2;
+  margin-bottom: 4px;
+}
+
+.tooltip-body { font-size: 11px; opacity: 0.85; }
+
+.tooltip-source {
+  font-size: 10px;
+  opacity: 0.55;
+  margin-top: 6px;
+  border-top: 1px solid rgba(255,255,255,0.15);
+  padding-top: 5px;
+}
+
+/* ─── DETAIL PANEL ─── */
+.detail-panel {
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  overflow: hidden;
+  margin-bottom: 24px;
+  display: none;
+}
+
+.detail-panel.open { display: block; }
+
+.detail-header {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 16px 20px;
+  border-bottom: 1px solid var(--border);
+}
+
+.detail-ph-swatch {
+  width: 6px;
+  height: 48px;
+  border-radius: 3px;
+  flex-shrink: 0;
+}
+
+.detail-ph-name {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-size: 26px;
+  font-weight: 600;
+  line-height: 1.1;
+}
+
+.detail-ph-ko { font-size: 13px; color: var(--text-2); }
+.detail-ph-span { font-size: 12px; color: var(--text-3); }
+
+.detail-close {
+  margin-left: auto;
+  background: none;
+  border: 1px solid var(--border-2);
+  border-radius: 5px;
+  padding: 5px 10px;
+  cursor: pointer;
+  font-size: 12px;
+  color: var(--text-3);
+  font-family: inherit;
+}
+
+.detail-close:hover { color: var(--text); border-color: var(--text-2); }
+
+.detail-body {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0;
+}
+
+@media (max-width: 700px) {
+  .detail-body { grid-template-columns: 1fr; }
+}
+
+.detail-track-col {
+  padding: 16px 20px;
+}
+
+.detail-track-col:first-child {
+  border-right: 1px solid var(--border);
+}
+
+.detail-track-title {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-size: 15px;
+  font-weight: 600;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.detail-track-badge {
+  font-size: 9px;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  padding: 2px 7px;
+  border-radius: 3px;
+}
+
+.detail-events { list-style: none; }
+
+.detail-event {
+  display: flex;
+  gap: 10px;
+  padding: 6px 0;
+  border-bottom: 1px solid var(--border);
+  align-items: flex-start;
+}
+
+.detail-event:last-child { border-bottom: none; }
+
+.event-day-tag {
+  font-size: 9px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  color: var(--text-3);
+  white-space: nowrap;
+  padding-top: 1px;
+  min-width: 44px;
+}
+
+.event-desc { font-size: 12px; color: var(--text-2); line-height: 1.5; }
+
+.event-desc .ko { color: var(--text-3); font-size: 11px; }
+
+.eschar-tag {
+  display: inline-block;
+  background: var(--eschar-bg);
+  color: var(--eschar);
+  border: 1px solid var(--eschar-bd);
+  font-size: 9px;
+  font-weight: 600;
+  padding: 1px 6px;
+  border-radius: 3px;
+  margin-left: 4px;
+  vertical-align: middle;
+}
+
+/* ─── COMPARISON NOTE ─── */
+.comparison-strip {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 24px;
+  flex-wrap: wrap;
+}
+
+.comparison-card {
+  flex: 1;
+  min-width: 220px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 14px 16px;
+}
+
+.comp-label {
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--text-3);
+  margin-bottom: 6px;
+}
+
+.comp-figure {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 1;
+  margin-bottom: 2px;
+}
+
+.comp-desc { font-size: 11px; color: var(--text-2); }
+.comp-cite { font-size: 10px; color: var(--text-3); margin-top: 4px; }
+
+/* ─── SOURCES ─── */
+.sources-section {
+  border-top: 1px solid var(--border);
+  padding-top: 16px;
+}
+
+.sources-title {
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--text-3);
+  margin-bottom: 8px;
+}
+
+.sources-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.source-chip {
+  font-size: 11px;
+  color: var(--text-2);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 3px 10px;
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div class="header-eyebrow">Oral Surgery · Evidence-Based Timeline</div>
+  <h1>구강 연조직 창상 치유 타임라인</h1>
+  <div class="header-sub">Oral Soft Tissue Wound Healing — Day 0 to Month 6 (Log Scale)</div>
+  <div class="header-rule"></div>
+</div>
+
+<!-- ESCHAR CALLOUT -->
+<div class="eschar-callout">
+  <div class="eschar-badge">가피 · Eschar</div>
+  <div class="eschar-text">
+    <strong>피브린 클롯 = 창상 치유의 기반 스캐폴드 (Fibrin Clot = Provisional Scaffold)</strong>
+    창상 직후 혈소판 응집으로 형성되는 피브린 클롯(가피)은 단순한 지혈 구조가 아니라 이후 모든 치유 과정의 세포 이동 기반이 된다. 각질세포는 피브린 스캐폴드 <em>아래</em>로 이동하며 (integrin α5β1/αvβ6), 염증세포·섬유아세포·혈관이 이 구조 위에서 순차적으로 작동한다.
+  </div>
+</div>
+
+<!-- KEY COMPARISONS -->
+<div class="comparison-strip">
+  <div class="comparison-card">
+    <div class="comp-label">치아 발치창 재상피화</div>
+    <div class="comp-figure" style="color: var(--ph3);">7–14일</div>
+    <div class="comp-desc">수술창의 재상피화(Re-epithelialization) 완료 기준</div>
+    <div class="comp-cite">Hämmerle 2014, 10th EWP Consensus</div>
+  </div>
+  <div class="comparison-card">
+    <div class="comp-label">임플란트 연조직 성숙</div>
+    <div class="comp-figure" style="color: var(--ph4);">6–8주</div>
+    <div class="comp-desc">흉터 유사 조직(Scar-like tissue)으로 성숙 완료</div>
+    <div class="comp-cite">Hämmerle 2014, 10th EWP Consensus</div>
+  </div>
+  <div class="comparison-card">
+    <div class="comp-label">줄기세포 항상성 회복</div>
+    <div class="comp-figure" style="color: var(--ph4);">5–6개월</div>
+    <div class="comp-desc">Wnt+ (Axin2+) 줄기세포 풀 완전 복원 — 눈에 보이는 치유 훨씬 이후</div>
+    <div class="comp-cite">Walton 2026</div>
+  </div>
+  <div class="comparison-card">
+    <div class="comp-label">구강 vs 피부 각질세포 이동속도</div>
+    <div class="comp-figure" style="color: var(--ph3);">+12%</div>
+    <div class="comp-desc">구강 점막 각질세포가 피부보다 빠르고 직선적으로 이동 (1.73 vs 1.55 μm/min)</div>
+    <div class="comp-cite">Drukala 2005 (in-vitro, n=12)</div>
+  </div>
+</div>
+
+<!-- PHASE NAV -->
+<div class="phase-nav" id="phaseNav">
+  <button class="phase-btn" data-phase="0"
+    style="--active-color: var(--ph1); --active-bg: var(--ph1-bg);">
+    <span class="ph-swatch" style="background: var(--ph1);"></span>
+    <span>
+      <span class="ph-label-en">Haemostasis</span><br>
+      <span class="ph-label-ko">지혈기 · Day 0–1</span>
+    </span>
+  </button>
+  <button class="phase-btn" data-phase="1"
+    style="--active-color: var(--ph2); --active-bg: var(--ph2-bg);">
+    <span class="ph-swatch" style="background: var(--ph2);"></span>
+    <span>
+      <span class="ph-label-en">Inflammation</span><br>
+      <span class="ph-label-ko">염증기 · Day 1–7</span>
+    </span>
+  </button>
+  <button class="phase-btn" data-phase="2"
+    style="--active-color: var(--ph3); --active-bg: var(--ph3-bg);">
+    <span class="ph-swatch" style="background: var(--ph3);"></span>
+    <span>
+      <span class="ph-label-en">Proliferation</span><br>
+      <span class="ph-label-ko">증식기 · Day 3–14</span>
+    </span>
+  </button>
+  <button class="phase-btn" data-phase="3"
+    style="--active-color: var(--ph4); --active-bg: var(--ph4-bg);">
+    <span class="ph-swatch" style="background: var(--ph4);"></span>
+    <span>
+      <span class="ph-label-en">Maturation</span><br>
+      <span class="ph-label-ko">성숙기 · Day 14 → 6개월</span>
+    </span>
+  </button>
+</div>
+
+<!-- TIMELINE -->
+<div class="timeline-wrapper">
+  <!-- Phase band bar -->
+  <div class="phase-bands-bar" id="phaseBands"></div>
+
+  <!-- Ruler -->
+  <div class="ruler-wrapper">
+    <div class="ruler-track" id="ruler"></div>
+  </div>
+
+  <!-- Tracks -->
+  <div class="tracks-area" id="tracksArea">
+    <!-- Tooth track -->
+    <div class="track-row">
+      <div class="track-label-col">
+        <div class="track-label-en">Tooth</div>
+        <div class="track-label-ko">치아 발치창</div>
+      </div>
+      <div class="track-content" id="toothTrack">
+        <div class="track-line-bg"></div>
+      </div>
+    </div>
+
+    <!-- Implant track -->
+    <div class="track-row">
+      <div class="track-label-col">
+        <div class="track-label-en">Implant</div>
+        <div class="track-label-ko">임플란트 연조직</div>
+      </div>
+      <div class="track-content" id="implantTrack">
+        <div class="track-line-bg"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- DETAIL PANEL -->
+<div class="detail-panel" id="detailPanel">
+  <div class="detail-header" id="detailHeader"></div>
+  <div class="detail-body" id="detailBody"></div>
+</div>
+
+<!-- SOURCES -->
+<div class="sources-section">
+  <div class="sources-title">근거 문헌 · Source Papers</div>
+  <div class="sources-list">
+    <span class="source-chip">Hämmerle 2014 — 10th EWP Consensus (J Clin Periodontol)</span>
+    <span class="source-chip">Smith 2014 — Gingival Wound Healing & Aging (J Dent Res)</span>
+    <span class="source-chip">Latimer 2026 — Biological Principles in Regeneration (J Periodontal Res)</span>
+    <span class="source-chip">Walton 2026 — Prolonged Remodeling / Wnt+ Stem Cells</span>
+    <span class="source-chip">Drukala 2005 — Keratinocyte Motility Comparison (in-vitro)</span>
+    <span class="source-chip">Glim 2013 — Oral vs Dermal Healing (Tissue-level Review)</span>
+  </div>
+</div>
+
+<!-- TOOLTIP -->
+<div class="tooltip" id="tooltip">
+  <div class="tooltip-day" id="ttDay"></div>
+  <div class="tooltip-title" id="ttTitle"></div>
+  <div class="tooltip-body" id="ttBody"></div>
+  <div class="tooltip-source" id="ttSource"></div>
+</div>
+
+<script>
+// ─── LOG SCALE ───
+const LOG_OFFSET = 0.5; // avoid log(0)
+const MAX_DAY = 180;
+
+function toPercent(day) {
+  const logMin = Math.log10(LOG_OFFSET);
+  const logMax = Math.log10(MAX_DAY + LOG_OFFSET);
+  return ((Math.log10(Math.max(day, 0) + LOG_OFFSET) - logMin) / (logMax - logMin)) * 100;
+}
+
+// ─── DATA ───
+const PHASES = [
+  {
+    id: 'haemo',
+    nameEn: 'Haemostasis', nameKo: '지혈기',
+    spanEn: 'Day 0 – Day 1',  spanKo: '수초~수분 내 시작',
+    color: '#7B2D3A', bg: '#F5ECEE',
+    startDay: 0, endDay: 1,
+    tooth: [
+      { day: 0, dayLabel: 'Day 0', title: 'Vessel injury → platelet aggregation', ko: '혈관 손상 → 혈소판 응집', body: 'Within seconds of injury, platelets adhere to exposed collagen, aggregate, and release clotting factors.', source: 'Hämmerle 2014' },
+      { day: 0, dayLabel: 'Day 0', title: '가피 형성 — Fibrin Clot (Eschar)', ko: '피브린 클롯 = 창상 치유의 기반 스캐폴드', body: 'Fibrin polymerizes → provisional matrix. Keratinocytes will later migrate UNDER this scaffold. This structure = 가피(eschar).', source: 'Hämmerle 2014, Latimer 2026', isEschar: true },
+      { day: 0.5, dayLabel: 'Day 0–1', title: 'Vasoconstriction → vasodilation', ko: '혈관 수축 후 확장; 국소 혈류 변화', body: 'Initial vasoconstriction achieved haemostasis; vasodilation follows to allow immune cell recruitment.', source: 'Latimer 2026' },
+    ],
+    implant: [
+      { day: 0, dayLabel: 'Day 0', title: 'Fibrin clot — initial seal at implant', ko: '임플란트 주위 피브린 클롯 형성; 초기 밀봉', body: 'Fibrin clot forms around the implant neck, providing the initial biologic seal and scaffold for subsequent integration.', source: 'Hämmerle 2014', isEschar: true },
+      { day: 0.5, dayLabel: 'Day 0–1', title: 'Platelet-derived growth factors released', ko: 'PDGF, TGF-β 방출; 세포 유인', body: 'Degranulating platelets release PDGF, TGF-β1, and VEGF — the first chemotactic signals for immune and stromal cells.', source: 'Latimer 2026' },
+    ],
+  },
+  {
+    id: 'inflam',
+    nameEn: 'Inflammation', nameKo: '염증기',
+    spanEn: 'Day 1 – Day 7', spanKo: '급성 → 아급성 전환',
+    color: '#B85C20', bg: '#FAF0E8',
+    startDay: 1, endDay: 7,
+    tooth: [
+      { day: 1, dayLabel: 'Day 1–2', title: 'Neutrophil infiltration', ko: '호중구 침윤; 세균 제거 및 데브리망', body: 'First responders: neutrophils enter the clot via chemotaxis. They phagocytose bacteria and debris, releasing MMPs and reactive oxygen species.', source: 'Smith 2014, Latimer 2026' },
+      { day: 3, dayLabel: 'Day 2–4', title: 'M1 macrophage peak', ko: 'M1 대식세포 최고조; 염증성 사이토카인 방출', body: 'Monocytes differentiate into M1 macrophages: release TNF-α, IL-1β, IL-6, and MMPs. Peak inflammatory load — excessive duration here leads to impaired healing.', source: 'Latimer 2026' },
+      { day: 5, dayLabel: 'Day 4–7', title: 'M2 macrophage transition', ko: 'M1→M2 전환; 항염증·증식 유도', body: 'Critical switch: M2 macrophages secrete anti-inflammatory cytokines (IL-10, TGF-β) and growth factors that initiate the proliferative phase. Immunoengineering targets this transition.', source: 'Latimer 2026' },
+    ],
+    implant: [
+      { day: 1, dayLabel: 'Day 1–3', title: 'Acute inflammation', ko: '급성 염증; 호중구 침윤', body: 'Similar neutrophil response around the implant. Oral polymicrobial environment adds complexity: higher bacterial load prolongs and complicates this phase vs. skin wounds.', source: 'Latimer 2026' },
+      { day: 4, dayLabel: 'Day 3–7', title: 'Macrophage polarization critical', ko: 'M1→M2 전환이 임플란트 통합에 결정적', body: 'Prolonged M1 dominance → peri-implant mucositis / peri-implantitis risk. M2 transition enables soft tissue maturation and osseointegration.', source: 'Latimer 2026' },
+    ],
+  },
+  {
+    id: 'prolif',
+    nameEn: 'Proliferation', nameKo: '증식기',
+    spanEn: 'Day 3 – Day 14', spanKo: '재상피화·혈관신생·육아조직',
+    color: '#2E6E50', bg: '#E8F2EC',
+    startDay: 3, endDay: 14,
+    tooth: [
+      { day: 3, dayLabel: 'Day 3–5', title: 'Keratinocyte migration begins', ko: '각질세포 이동 개시 (integrin α5β1/αvβ6)', body: 'Keratinocytes at wound edges activate integrin α5β1 and αvβ6 to grip the fibrin scaffold and migrate under it. Oral keratinocytes migrate ~12% faster and more directionally than skin equivalents.', source: 'Smith 2014, Drukala 2005' },
+      { day: 5, dayLabel: 'Day 4–7', title: 'Fibroblast activation → granulation tissue', ko: '섬유아세포 활성화; 육아조직 형성', body: 'Fibroblasts enter the provisional matrix, synthesize collagen (predominantly type III), and contract the wound. EGF and TGF-β are key activators; both are reduced by aging.', source: 'Smith 2014' },
+      { day: 7, dayLabel: 'Day 5–9', title: 'Angiogenesis (VEGF-driven)', ko: 'VEGF 의존 혈관신생; 육아조직 혈관화', body: 'Endothelial sprouting driven by VEGF creates a vascular network to supply the growing granulation tissue. Aging and diabetes both impair this step.', source: 'Smith 2014' },
+      { day: 10, dayLabel: 'Day 7–14', title: '✓ Re-epithelialization COMPLETE', ko: '재상피화 완료 — 치아 부위 임상 기준', body: 'The wound surface is covered by a new epithelial layer. For surgical wounds at teeth, this benchmark is typically met by Day 7–14.', source: 'Hämmerle 2014', isMilestone: true },
+    ],
+    implant: [
+      { day: 5, dayLabel: 'Day 3–7', title: 'Granulation tissue forming', ko: '육아조직 형성; 섬유아세포·혈관 진입', body: 'Similar process to tooth sites, but the non-keratinized tissue that initially forms around implants is functionally different from native keratinized gingiva.', source: 'Hämmerle 2014' },
+      { day: 10, dayLabel: 'Day 7–14', title: 'Junctional epithelium formation', ko: '결합상피 형성; 진정한 신부착은 불가', body: 'Epithelium migrates along the implant surface, forming long junctional epithelial attachment. Human histological evidence: no regenerative treatment reliably produces new attachment at implant sites.', source: 'Hämmerle 2014' },
+    ],
+  },
+  {
+    id: 'mature',
+    nameEn: 'Maturation', nameKo: '성숙기',
+    spanEn: 'Day 14 → Month 6', spanKo: '콜라겐 재형성·줄기세포 복원',
+    color: '#2B4F7A', bg: '#E8EEF5',
+    startDay: 14, endDay: 180,
+    tooth: [
+      { day: 21, dayLabel: 'Week 2–4', title: 'Collagen remodeling — MMP/TIMP balance', ko: 'MMP/TIMP 균형; 콜라겐 I형 전환', body: 'Type III collagen (early) is progressively replaced by type I (stronger). MMPs degrade provisional matrix; TIMPs modulate remodeling speed. Aging increases net MMP activity → weaker tissue.', source: 'Smith 2014' },
+      { day: 60, dayLabel: 'Month 1–3', title: 'Scar formation vs. scarless remodeling', ko: '피부 흉터 형성 vs. 구강 무흉터 치유', body: 'Oral mucosa heals with significantly less scarring than skin, due to fewer profibrotic mediators and more bone marrow–derived cell involvement (Glim 2013). The molecular basis involves fibroblast-paracrine loops.', source: 'Glim 2013' },
+      { day: 150, dayLabel: 'Month 5–6', title: '✓ Wnt+ stem cell homeostasis restored', ko: 'Axin2+ 줄기세포 항상성 회복 완료', body: 'Wnt-responsive (Axin2+) epithelial stem cells restore their pre-injury distribution by 5–6 months — well after visible healing. This is the true end-point of cellular homeostasis.', source: 'Walton 2026', isMilestone: true },
+    ],
+    implant: [
+      { day: 42, dayLabel: 'Week 4–6', title: 'Approaching maturation', ko: '연조직 성숙 근접; 기계적 안정화', body: 'The peri-implant soft tissue progressively matures, gaining tensile strength. Masticatory forces require this tissue to be mechanically stable before provisionalization.', source: 'Hämmerle 2014' },
+      { day: 56, dayLabel: 'Week 6–8', title: '✓ Soft tissue maturation COMPLETE', ko: '임플란트 연조직 성숙 완료 (흉터 유사 조직)', body: 'Full soft tissue maturation at implant sites requires 6–8 weeks. The resulting tissue resembles scar tissue — functionally adequate but histologically distinct from native keratinized gingiva.', source: 'Hämmerle 2014', isMilestone: true },
+      { day: 90, dayLabel: 'Month 3+', title: 'Ongoing connective tissue remodeling', ko: '지속적 결합조직 재형성; 교합력 적응', body: 'Peri-implant soft tissue continues to adapt to masticatory mechanical forces — a unique challenge not present in tooth wound sites.', source: 'Latimer 2026' },
+    ],
+  },
+];
+
+const RULER_TICKS = [
+  { day: 0,   label: 'Day 0' },
+  { day: 1,   label: 'D1' },
+  { day: 3,   label: 'D3' },
+  { day: 7,   label: 'D7' },
+  { day: 14,  label: 'D14' },
+  { day: 30,  label: '1M' },
+  { day: 56,  label: '2M' },
+  { day: 90,  label: '3M' },
+  { day: 150, label: '5M' },
+  { day: 180, label: '6M' },
+];
+
+// ─── BUILD PHASE BANDS ───
+const bandsEl = document.getElementById('phaseBands');
+PHASES.forEach((ph, i) => {
+  const startPct = toPercent(ph.startDay);
+  const endPct   = toPercent(ph.endDay);
+  const div = document.createElement('div');
+  div.className = 'ph-band';
+  div.style.background = ph.color;
+  div.style.width = (endPct - startPct) + '%';
+  div.title = ph.nameEn;
+  div.addEventListener('click', () => openDetail(i));
+  bandsEl.appendChild(div);
+});
+
+// Fill remaining with last phase color
+const lastEnd = toPercent(PHASES[PHASES.length - 1].endDay);
+if (lastEnd < 100) {
+  const fill = document.createElement('div');
+  fill.className = 'ph-band';
+  fill.style.background = PHASES[PHASES.length - 1].color;
+  fill.style.width = (100 - lastEnd) + '%';
+  bandsEl.appendChild(fill);
+}
+
+// ─── BUILD RULER ───
+const ruler = document.getElementById('ruler');
+RULER_TICKS.forEach(tick => {
+  const pct = toPercent(tick.day);
+  const div = document.createElement('div');
+  div.className = 'ruler-tick';
+  div.style.left = pct + '%';
+  div.innerHTML = `<div class="ruler-tick-line"></div><div class="ruler-tick-label">${tick.label}</div>`;
+  ruler.appendChild(div);
+});
+
+// ─── TOOLTIP ───
+const tooltip   = document.getElementById('tooltip');
+const ttDay     = document.getElementById('ttDay');
+const ttTitle   = document.getElementById('ttTitle');
+const ttBody    = document.getElementById('ttBody');
+const ttSource  = document.getElementById('ttSource');
+
+function showTooltip(evt, event) {
+  ttDay.textContent   = event.dayLabel;
+  ttTitle.textContent = event.title + (event.isEschar ? ' 🔶' : '');
+  ttBody.textContent  = event.body;
+  ttSource.textContent = '출처: ' + (event.source || '');
+  tooltip.classList.add('visible');
+  moveTooltip(evt);
+}
+
+function moveTooltip(evt) {
+  const x = evt.clientX + 14;
+  const y = evt.clientY - 10;
+  const tw = 270;
+  tooltip.style.left = (x + tw > window.innerWidth ? evt.clientX - tw - 10 : x) + 'px';
+  tooltip.style.top  = Math.max(8, y) + 'px';
+}
+
+function hideTooltip() {
+  tooltip.classList.remove('visible');
+}
+
+// ─── BUILD TRACK EVENTS ───
+function buildTrack(containerId, events, phaseIdx) {
+  const container = document.getElementById(containerId);
+  events.forEach(ev => {
+    const pct = toPercent(ev.day);
+    const marker = document.createElement('div');
+    marker.className = 'event-marker' + (ev.isMilestone ? ' marker-milestone' : '');
+    marker.style.left = pct + '%';
+
+    const color = ev.isEschar ? '#C8942A' : PHASES[phaseIdx].color;
+    const dot = document.createElement('div');
+    dot.className = 'marker-dot';
+    dot.style.setProperty('--dot-color', color);
+
+    const lbl = document.createElement('div');
+    lbl.className = 'marker-label';
+    lbl.textContent = ev.isMilestone ? '✓ ' + ev.dayLabel : ev.dayLabel;
+
+    marker.appendChild(dot);
+    marker.appendChild(lbl);
+
+    marker.addEventListener('mouseenter', (e) => showTooltip(e, ev));
+    marker.addEventListener('mousemove',  (e) => moveTooltip(e));
+    marker.addEventListener('mouseleave', () => hideTooltip());
+    marker.addEventListener('click', () => openDetail(phaseIdx));
+
+    container.appendChild(marker);
+  });
+}
+
+PHASES.forEach((ph, i) => {
+  buildTrack('toothTrack',   ph.tooth,   i);
+  buildTrack('implantTrack', ph.implant, i);
+});
+
+// ─── DETAIL PANEL ───
+const detailPanel  = document.getElementById('detailPanel');
+const detailHeader = document.getElementById('detailHeader');
+const detailBody   = document.getElementById('detailBody');
+let activePhase    = null;
+
+function buildEventList(events) {
+  const ul = document.createElement('ul');
+  ul.className = 'detail-events';
+  events.forEach(ev => {
+    const li = document.createElement('li');
+    li.className = 'detail-event';
+    li.innerHTML = `
+      <div class="event-day-tag">${ev.dayLabel}</div>
+      <div class="event-desc">
+        <strong>${ev.title}</strong>${ev.isEschar ? '<span class="eschar-tag">가피</span>' : ''}
+        <br><span class="ko">${ev.ko}</span>
+        <br>${ev.body}
+        <br><span class="ko" style="font-size:10px;margin-top:2px;display:block;color:var(--text-3);">📖 ${ev.source}</span>
+      </div>`;
+    ul.appendChild(li);
+  });
+  return ul;
+}
+
+function openDetail(idx) {
+  const ph = PHASES[idx];
+
+  // Toggle
+  if (activePhase === idx) {
+    detailPanel.classList.remove('open');
+    document.querySelectorAll('.phase-btn').forEach(b => b.classList.remove('active'));
+    activePhase = null;
+    return;
+  }
+  activePhase = idx;
+
+  // Header
+  detailHeader.innerHTML = `
+    <div class="detail-ph-swatch" style="background: ${ph.color};"></div>
+    <div>
+      <div class="detail-ph-name">${ph.nameEn}</div>
+      <div class="detail-ph-ko">${ph.nameKo}</div>
+      <div class="detail-ph-span">${ph.spanEn} · ${ph.spanKo}</div>
+    </div>
+    <button class="detail-close" onclick="closeDetail()">닫기 ✕</button>`;
+
+  // Body — two columns
+  detailBody.innerHTML = '';
+
+  const makeCol = (title, ko, badge, events, color) => {
+    const col = document.createElement('div');
+    col.className = 'detail-track-col';
+    const badgeEl = `<span class="detail-track-badge" style="background:${color}20;color:${color}">${badge}</span>`;
+    col.innerHTML = `<div class="detail-track-title">${title} ${badgeEl}<br><span style="font-family:'Noto Sans KR';font-size:12px;font-weight:400;color:var(--text-3)">${ko}</span></div>`;
+    col.appendChild(buildEventList(events));
+    return col;
+  };
+
+  detailBody.appendChild(makeCol('Tooth Healing', '치아 발치창', 'TOOTH', ph.tooth, ph.color));
+  detailBody.appendChild(makeCol('Implant Soft Tissue', '임플란트 연조직', 'IMPLANT', ph.implant, ph.color));
+
+  detailPanel.classList.add('open');
+  detailPanel.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+
+  // Update nav buttons
+  document.querySelectorAll('.phase-btn').forEach((b, i) => {
+    b.classList.toggle('active', i === idx);
+  });
+}
+
+function closeDetail() {
+  detailPanel.classList.remove('open');
+  document.querySelectorAll('.phase-btn').forEach(b => b.classList.remove('active'));
+  activePhase = null;
+}
+
+// Phase nav clicks
+document.querySelectorAll('.phase-btn').forEach((btn, i) => {
+  btn.addEventListener('click', () => openDetail(i));
+});
+
+// Open Phase 1 by default to show the eschar content
+openDetail(0);
+</script>
+</body>
+</html>
