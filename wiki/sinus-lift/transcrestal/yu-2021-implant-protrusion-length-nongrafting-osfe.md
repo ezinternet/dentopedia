@@ -6,7 +6,7 @@ date: 2021-03-15
 doi: "10.1186/s40729-021-00304-3"
 source: yu-2021-implant-protrusion-length-nongrafting-osfe.md
 category: sinus-lift/transcrestal
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/yu-2021-implant-protrusion-length-nongrafting-osfe.pdf
 pdf_filename: yu-2021-implant-protrusion-length-nongrafting-osfe.pdf
 source_collection: external
