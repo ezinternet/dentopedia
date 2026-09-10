@@ -13,6 +13,22 @@ source_collection: external
 
 Prospective study comparing graftless transalveolar SFE in freshly extracted vs healed sockets — adds evidence for graftless approach extension and socket-type effect; extends [[sinus-lift/transcrestal/fettouh-2025-graftless-lateral-transcrestal-sinus-rct]] and graftless transcrestal cluster.
 
+## Three-line Summary
+
+Prospective clinical study comparing graftless transalveolar sinus floor elevation with simultaneous implant placement in 60 patients (30 freshly extracted sockets vs 30 healed sockets) with residual bone height ≥5 mm, using a single B&B 4.5×10 mm implant per site and CBCT follow-up at ≥12 months.
+
+Both groups achieved 100% implant survival with no complications; ISQ was satisfactory and not significantly different between groups (p=0.38); intrasinus bone formation was numerically higher in fresh sockets (0.22±0.33 mm) than healed (0.11±0.64 mm) but not statistically significant (p=0.26).
+
+Graftless transalveolar sinus floor elevation with simultaneous implant placement is safe and predictable in both fresh and healed sockets when residual bone height is ≥5 mm; socket type at the time of surgery does not substantially alter outcomes.
+
+## 세줄요약
+
+잔존골 높이(Residual Bone Height, RBH) ≥5mm 환자 60명(신선 발치와 30명 vs 치유 소켓 30명)을 대상으로 무이식 경구개 상악동거상술(transalveolar sinus floor elevation) + 동시 임플란트(B&B 4.5×10mm) 식립을 시행하고 CBCT로 ≥12개월 추적한 전향적 임상 연구.
+
+양군 임플란트 생존율 100%, 합병증 없음; ISQ는 양군 간 유의차 없음(p=0.38); 상악동 내 신생골 형성량은 신선 발치와군(0.22±0.33mm)이 수치상 높았으나 통계적으로 유의하지 않음(p=0.26).
+
+RBH ≥5mm 조건에서 무이식 경구개 상악동거상 + 동시 임플란트는 신선·치유 소켓 모두 안전하고 예측 가능하며, 수술 시 소켓 상태가 결과에 실질적 차이를 미치지 않음.
+
 ## One-line Summary
 
 Prospective RBH ≥5 mm study (n=60, 30 fresh vs 30 healed): graftless transalveolar SFE with simultaneous implant achieves 100% survival and satisfactory ISQ in both groups; no significant inter-group difference in bone formation.
