@@ -6,7 +6,7 @@ date: 2023-07-13
 doi: "10.1007/s00784-023-05126-8"
 source: caponio-2023-platelet-concentrates-bone-formation-arp.md
 category: [bone-regeneration]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/caponio-2023-platelet-concentrates-bone-formation-arp.pdf
 pdf_filename: caponio-2023-platelet-concentrates-bone-formation-arp.pdf
 source_collection: external
@@ -15,6 +15,22 @@ relations:
   - type: reinforces
     target: siawasch-2025-autologous-platelet-concentrates-alveolar-ridge
 ---
+
+## Three-line Summary
+
+PROSPERO-registered SR+MA with trial sequential analysis (8 RCTs, 255 sockets; 10–24 weeks histomorphometric follow-up) evaluating platelet concentrate (L-PRF or P-PRP) vs spontaneous healing on new vital bone formation in alveolar ridge preservation, with PICO restricted to adults undergoing atraumatic extraction and bone biopsy at implant placement.
+
+Overall SMD was 1.77 (95% CI 1.47–2.06, p<0.001), indicating a large effect of platelet concentrates over spontaneous healing; no significant difference was found between L-PRF (SMD=1.75) and P-PRP (SMD=1.58; ANOVA p=0.71); trial sequential analysis confirmed the result is definitive after 6 studies with the required information size reached.
+
+Any platelet concentrate significantly increases new vital bone formation in alveolar ridge preservation compared to spontaneous healing; the type of concentrate used is clinically less important than the decision to use one, and the simplest preparation technique should be favored.
+
+## 세줄요약
+
+발치 후 치조제 보존술(Alveolar Ridge Preservation, ARP) 시 혈소판 농축물(L-PRF 또는 P-PRP) vs 자연치유의 신생 활성골 형성에 대한 PROSPERO 등록 SR+MA+순차적시험분석(Trial Sequential Analysis, TSA) (RCT 8편, 255발치와, 10–24주 조직형태계측 추적).
+
+총 표준화 평균차이(Standardized Mean Difference, SMD) = 1.77(95% CI 1.47–2.06, p<0.001) — 혈소판 농축물이 자연치유 대비 대형 효과; L-PRF(SMD=1.75) vs P-PRP(SMD=1.58) 간 유의차 없음(ANOVA p=0.71); TSA로 6개 연구 후 결론 확정.
+
+어떤 혈소판 농축물이든 ARP에서 신생 활성골 형성을 유의하게 증가시키며, 농축물 유형보다 사용 여부가 더 중요 — 가장 단순한 제조 방법을 선택하면 됨.
 
 ## One-line Summary
 
