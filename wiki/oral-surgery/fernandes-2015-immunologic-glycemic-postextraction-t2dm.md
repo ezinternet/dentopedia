@@ -6,7 +6,7 @@ date: 2015-08-01
 doi: "10.1016/S0002-8177(15)00345-1"
 source: fernandes-2015-immunologic-glycemic-postextraction-t2dm.md
 category: [oral-surgery]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/fernandes-2015-immunologic-glycemic-postextraction-t2dm.pdf
 pdf_filename: fernandes-2015-immunologic-glycemic-postextraction-t2dm.pdf
 source_collection: external
