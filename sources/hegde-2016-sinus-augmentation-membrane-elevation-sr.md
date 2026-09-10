@@ -13,6 +13,22 @@ source_collection: external
 
 SR of direct (lateral) sinus elevation without graft including human and animal studies up to 2014 — complements [[sinus-lift/lateral/riben-2012-maxillary-sinus-membrane-elevation-graftless]] and [[sinus-lift/lateral/dongo-2018-lateral-sinus-floor-graftless-meta-analysis]] with broader scope including indirect (transalveolar) results and animal evidence.
 
+## Three-line Summary
+
+Systematic review (PubMed, Google Scholar, Cochrane CENTRAL; 1997–October 2014) evaluating maxillary sinus augmentation by membrane elevation without grafting during implant placement, including both human and animal studies with ≥6 months follow-up; reviewed by two independent authors with a third for consensus.
+
+Across included studies, average bone gain ranged from 2.37 to 10 mm and implant survival from 79.9 to 100%; high heterogeneity across study designs precluded pooled meta-analysis; no evidence was found to demonstrate that grafting material is mandatory for successful direct sinus lift.
+
+Direct graftless sinus elevation is a viable treatment option when accounting for study-quality variability in the reported range; the absence of difference in survival compared to previous meta-analyses across graft types suggests graft material may not be the critical success factor.
+
+## 세줄요약
+
+이식재 없이 막 거상만으로 시행한 직접(측방) 상악동거상술을 평가한 체계적 문헌고찰(PubMed·Google Scholar·Cochrane, 1997–2014년 10월); 인간·동물 연구 포함, ≥6개월 추적; 독립 검토자 2인 + 합의 조정자.
+
+포함 연구에서 평균 골증대 2.37–10mm, 임플란트 생존율 79.9–100%; 이질성으로 메타분석 불가; 이식재가 직접 상악동거상 성공에 필수적이라는 근거 없음.
+
+연구 품질 편차를 감안할 때 무이식 직접 상악동거상은 실행 가능한 치료 옵션이며, 이전 메타분석에서 이식재 유형에 따른 생존율 차이가 없다는 점은 이식재가 핵심 성공 인자가 아닐 수 있음을 시사.
+
 ## One-line Summary
 
 SR (PubMed/Google Scholar/Cochrane, 1997–Oct 2014): direct graftless sinus lift is a viable treatment option; average bone gain 2.37–10 mm; implant survival 79.9–100% across studies; due to heterogeneity, meta-analysis not performed.
