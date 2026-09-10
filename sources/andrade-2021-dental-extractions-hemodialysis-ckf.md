@@ -13,6 +13,22 @@ source_collection: external
 
 First pilot prospective study with CKF/HD patients undergoing extraction and no antibiotic prophylaxis — fills a clinical gap alongside [[oral-surgery/fernandes-2015-immunologic-glycemic-postextraction-t2dm]] for immunocompromised patient dental management; shares Gallottini (USP) authorship and addresses analogous antibiotic prophylaxis question.
 
+## Three-line Summary
+
+Prospective pilot cohort with control group (48 chronic kidney failure/hemodialysis patients vs 29 controls; University of São Paulo) evaluating complications after simple tooth extraction without antibiotic prophylaxis, with assessments at days 3, 7, 21, and 60.
+
+No postoperative infections occurred in either group; bleeding exceeding 30 minutes occurred in 18.5% of CKF/HD interventions (controlled with local hemostatics); delayed epithelialization at day 21 was significantly higher in CKF/HD patients (29.9%) vs controls (3.9%; p<0.001), but all sockets healed by day 60.
+
+Dental extractions in CKF/HD patients can be performed safely without antibiotic prophylaxis; post-extraction bleeding is manageable with local hemostatic agents; the prolonged epithelialization timeline resolves by day 60, challenging routine prophylactic antibiotic prescription in this population.
+
+## 세줄요약
+
+예방적 항생제 없이 단순 발치를 시행한 만성 신부전·혈액투석(CKF/HD) 환자(48명) vs 대조군(29명)의 전향적 파일럿 코호트(상파울루대); 술 후 3·7·21·60일 평가.
+
+양군 모두 술후 감염 없음; CKF/HD군 30분 이상 출혈 18.5%(국소 지혈제로 조절); 21일 지연 상피화(delayed epithelialization)는 CKF/HD 29.9% vs 대조 3.9%(p<0.001)로 유의하게 높았으나 60일째 전례 치유.
+
+CKF/HD 환자의 발치는 예방적 항생제 없이도 안전하게 시행 가능하며, 출혈은 국소 지혈 처치로 조절되고 지연 상피화는 60일까지 완전히 해소됨 — 이 집단에서 일상적 항생제 처방의 근거를 재고할 필요.
+
 ## One-line Summary
 
 Prospective pilot (48 CKF/HD vs 29 controls): no postoperative infection in either group; bleeding >30min in 18.5% of HD group (controlled with local hemostatics); delayed epithelialization at 21d in 29.9% CKF vs 3.9% control (p<0.001); all sockets healed by day 60.
