@@ -48,7 +48,7 @@ Practical decision rules: ≤10 mm perforations — seal with PRF (biologically 
 의사결정 규칙: ≤10 mm 천공 → PRF seal(콜라겐 동등 이상); >10 mm → tack 고정 콜라겐+동시이식(Tian 2026); 측방창 골절단은 회전 bur 대신 피에조(Lee 2023 NMA: SMP 10%↑마다 생존 OR 55%↓); 술전 CBCT를 골구내복합체(OMC)까지 판독하고 만성부비동염은 이비인후과 협진 후 시행.
 
 ## Scope
-This overview synthesizes 40 wiki pages under `wiki/sinus-lift/lateral/` (20 from 2026-05-20, 14 added 2026-06-15, 3 added 2026-06-16, 3 added 2026-08-09). The cluster centers on the lateral-window approach to maxillary SFE and five converging questions: how often does the Schneiderian membrane tear, what predicts a tear before the bur touches the lateral wall, what repair makes the tear clinically inconsequential, how do we prevent and manage postoperative sinusitis, and which graft material and adjuncts optimize histomorphometric outcomes.
+This overview synthesizes 43 wiki pages under `wiki/sinus-lift/lateral/` (20 from 2026-05-20, 14 added 2026-06-15, 3 added 2026-06-16, 3 added 2026-08-09, 3 added 2026-09-10). The cluster centers on the lateral-window approach to maxillary SFE and five converging questions: how often does the Schneiderian membrane tear, what predicts a tear before the bur touches the lateral wall, what repair makes the tear clinically inconsequential, how do we prevent and manage postoperative sinusitis, and which graft material and adjuncts optimize histomorphometric outcomes.
 
 ## Cluster 1 — Repair of Schneiderian membrane perforations
 
@@ -285,6 +285,16 @@ These are working hypotheses from the synthesis, not protocol.
 - [[sinus-lift/lateral/rocha-2023-sinusitis-rate-sinus-lift-zygomatic-ma]] — sinusitis rates by technique: lateral 1.35%, transcrestal 0.00%, sinus-slot ZI 21.62%
 - [[sinus-lift/transcrestal/fettouh-2025-graftless-lateral-transcrestal-sinus-rct]] — RCT (graftless, RBH 4–6 mm): lateral vs transcrestal 12-mo ISQ equal (80.92 vs 80.19) & MBL equal, but lateral greater vertical bone gain (3.82 vs 2.42 mm) at cost of more complications/discomfort
 - [[sinus-lift/transcrestal/farina-2023-effectiveness-morbidity-costs-transcrestal-lateral-rbh]] — RCT re-analysis (RBH-stratified): both reach median 100% totCON%; at RBH ≥4 mm tSFE wins chair time/cost/morbidity, at RBH <4 mm trade-off (tSFE early pain vs lSFE bruising/cost)
+
+**Cluster 3b — Graftless lateral window approach (이식재 없는 측방 거상)**
+
+Three reviews/SR specifically cover lateral-window SFE *without* any grafting material — relying on the tented sinus membrane and blood clot alone for bone regeneration. This is a distinct approach from the standard lateral-window-plus-graft paradigm that the rest of Cluster 3 addresses.
+
+- [[sinus-lift/lateral/riben-2012-maxillary-sinus-membrane-elevation-graftless]] — narrative review of the graftless lateral technique (membrane elevation + implant as tent pole); Uppsala University; Int J Dent 2012
+- [[sinus-lift/lateral/hegde-2016-sinus-augmentation-membrane-elevation-sr]] — SR of graftless sinus augmentation (lateral approach without bone graft); JIPS 2016
+- [[sinus-lift/lateral/dongo-2018-lateral-sinus-floor-graftless-meta-analysis]] — individual- and aggregate-data meta-analysis of lateral SFE without grafting: survival rate of simultaneously placed implants; J Cranio-Maxillofac Surg 2018; DOI 10.1016/j.jcms.2018.06.012
+
+**Clinical synthesis [미검증]:** The graftless lateral approach is supported as a viable option when the implant tenting effect maintains the sub-membrane space, but the evidence base for graftless *lateral* window (as opposed to graftless transcrestal) is limited and predominantly from observational studies. The three papers above represent the earliest systematic evidence; contemporary graftless comparisons (Fettouh 2025 above) test this against transcrestal approaches with superior monitoring. Until a dedicated modern SR+MA of graftless lateral with CBCT-confirmed bone gain appears, the transcrestal graftless route carries a stronger and more recent evidence base.
 
 **Cluster 4 — Sinusitis prevention and management**
 - [[sinus-lift/lateral/pignataro-2008-ent-assessment-sinus-lift-candidates]] — foundational ENT-collaboration framework: 3-step management sequence + reversible/irreversible contraindication taxonomy that later papers in this cluster operationalize
