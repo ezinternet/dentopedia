@@ -6,7 +6,7 @@ date: 2023-06-05
 doi: "10.1097/MS9.0000000000000870"
 source: albash-2023-implant-protrusion-initial-bone-tsfe.md
 category: sinus-lift/transcrestal
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/albash-2023-implant-protrusion-initial-bone-tsfe.pdf
 pdf_filename: albash-2023-implant-protrusion-initial-bone-tsfe.pdf
 source_collection: external
