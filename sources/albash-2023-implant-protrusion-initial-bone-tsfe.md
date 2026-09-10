@@ -13,6 +13,22 @@ source_collection: external
 
 First retrospective cohort quantifying the independent effects of implant protrusion length (IPL) vs initial bone height (IBH) on initial bone gain (IBG) after graftless transcrestal SFE — shows IPL is the critical factor while IBH is not an influencing factor; complements [[sinus-lift/transcrestal/yu-2021-implant-protrusion-length-nongrafting-osfe]] which analyzed similar IPL-outcome relationships.
 
+## Three-line Summary
+
+Retrospective cohort study (34 implants in 29 patients; Tishreen University, Syria; January 2020–September 2022) using motorized threaded bone expanders for graftless transcrestal sinus floor elevation with simultaneous implant placement, measuring initial bone height (IBH), implant protrusion length (IPL), and initial bone gain (IBG) by pre-operative and 6-month post-operative CBCT.
+
+Mean IBG was 1.69±0.44 mm at 6 months; IPL showed a strong positive correlation with IBG while IBH showed no significant correlation; membrane perforations occurred in 8.82% of cases (3/34) and were managed without aborting the procedure; 100% implant survival at 6 months.
+
+Implant protrusion length into the sinus is the critical determinant of initial bone gain in graftless transcrestal sinus floor elevation, while pre-operative residual bone height does not independently influence bone formation — supporting IPL as the primary clinical planning parameter.
+
+## 세줄요약
+
+전동 나사형 골확장기를 사용한 무이식 치조정접근 상악동 거상술(Transcrestal Sinus Floor Elevation, TSFE) + 동시 임플란트에 대한 후향적 코호트(34개 임플란트/29명; 시리아 티쉬린대; 2020–2022); 술전·6개월 후 CBCT로 초기 잔존 골 높이(Initial Bone Height, IBH)·임플란트 돌출 길이(IPL)·초기 골증가(Initial Bone Gain, IBG) 측정.
+
+6개월 후 평균 IBG 1.69±0.44mm; IPL–IBG는 강한 양의 상관, IBH–IBG는 유의 상관 없음; 막 천공 8.82%(3/34, 시술 중단 없이 관리); 생존율 100%.
+
+무이식 TSFE에서 상악동 내 임플란트 돌출 길이(IPL)가 초기 골증가의 결정 인자이며, 술전 잔존골 높이는 독립적 영향 인자가 아님 — IPL이 임상 계획의 핵심 파라미터.
+
 ## One-line Summary
 
 Retrospective cohort (34 implants, 29 patients; motorized threaded bone expanders; CBCT at 6 months): mean IBG 1.69 mm; strong positive IPL–IBG correlation; no IBH–IBG correlation; 8.82% membrane perforations; 100% survival rate — IPL is the critical factor, IBH is not influencing.
