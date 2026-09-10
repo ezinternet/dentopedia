@@ -6,7 +6,7 @@ date: 2018-09-01
 doi: "10.1016/j.jcms.2018.06.012"
 source: dongo-2018-lateral-sinus-floor-graftless-meta-analysis.md
 category: sinus-lift/lateral
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/dongo-2018-lateral-sinus-floor-graftless-meta-analysis.pdf
 pdf_filename: dongo-2018-lateral-sinus-floor-graftless-meta-analysis.pdf
 source_collection: external
