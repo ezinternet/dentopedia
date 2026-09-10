@@ -16,9 +16,10 @@ tags: [digital-workflow, intraoral-scanner, cad-cam, guided-surgery, ai, llm, de
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
-> - 핵심 명제: 디지털 치의학을 4축(구강내스캐너(Intraoral Scanner, IOS) 정확도·컴퓨터지원 임플란트수술(Computer-Assisted Implant Surgery, CAIS)·AI 진단·LLM 환자응답)으로 묶은 28편 spine 결정 사다리.
+> - 핵심 명제: 디지털 치의학을 4축(구강내스캐너(Intraoral Scanner, IOS) 정확도·컴퓨터지원 임플란트수술(Computer-Assisted Implant Surgery, CAIS)·AI 진단·LLM 환자응답)으로 묶은 31편 spine 결정 사다리 (2026-09: +3편).
 > - 축1 IOS: 단관·소악궁(3–4 unit)은 임상 표준(trueness 50–100µm), 전악 자연치는 기기 신중 선택(TRIOS 3·Primescan), 무치악 전악은 전통 인상 또는 기공실 스캐너 1차 — IOS는 보조. [확인]
 > - 전악 IOS는 후방 연장 시 오차 누적(trueness 50–200µm), 구치부 오차 증가가 일관된 한계.
+> - 축1 보강(2026-09): 고정성 교정장치(브라켓±와이어) 존재 시엔 자연치 원칙이 뒤집혀 IOS가 알지네이트보다 우수(28–141 vs 103–212µm, Schlenz 2022); 클리어얼라이너 부착물 모형에서도 Primescan·TRIOS 3가 최상위 재확인, 오차 목표 ~50µm(Oğuz 2026); 정확도가 혼재된 상황에서도 chairside time·환자 편의는 측정된 연구 전부에서 IOS 우위이나 근거는 10편 중 2편 한정(Ramos-Morro 2026). [확인]
 > - 축2 CAIS: 즉시식립·심미부·다중 임플란트는 full-static 또는 dynamic이 freehand 우위(Schiavon 2025 NMA, 7 RCT 338 임플란트). 단순 단일치는 freehand 가능, Free flap 재건은 가이드 거의 필수. [확인]
 > - 축3 AI: 우식 검출 정확도 약 95%, 임플란트 종류 인식 93.8–98%, 골유착 예측·치근단 품질평가(AUC 0.924–1.000) — 모두 진단·교육 보조 단계, 임상 검증 부족, 자율 치료 결정은 아직. [확인]
 > - 축4 LLM: 치과 환자 응답 정확도 약 82%·임상 수용 약 70%, 모델 차이 큼 → instruction 초안 작성 후 술자 검토 필수, 직접 환자 제공 금지, 진단·결정 부적합. [확인]
@@ -29,7 +30,7 @@ tags: [digital-workflow, intraoral-scanner, cad-cam, guided-surgery, ai, llm, de
 
 ## Three-line Summary
 
-Synthesis decision-ladder over 28 digital-dentistry papers on four axes: IOS accuracy (4 SR/umbrella + 2 in-vitro), CAIS (SR+NMA), AI diagnostics (multiple SR/retrospective), and LLM patient communication (SR+MA + umbrella); IOS is the clinical standard for single crowns and short spans (trueness 50–100 µm) but accuracy degrades on full-arch/edentulous (trueness 50–200 µm, posterior error accumulation; laboratory scanner or conventional impression preferred for fully edentulous).
+Synthesis decision-ladder over 31 digital-dentistry papers on four axes: IOS accuracy (4 SR/umbrella + 4 in-vitro + 1 case report, +3 added 2026-09), CAIS (SR+NMA), AI diagnostics (multiple SR/retrospective), and LLM patient communication (SR+MA + umbrella); IOS is the clinical standard for single crowns and short spans (trueness 50–100 µm) but accuracy degrades on full-arch/edentulous (trueness 50–200 µm, posterior error accumulation; laboratory scanner or conventional impression preferred for fully edentulous). Appliance/attachment geometry conditions this further: fixed orthodontic appliances flip the natural-teeth preference toward IOS (Schlenz 2022), clear-aligner attachment scanning reconfirms Primescan/TRIOS 3 as top-tier with a ~50 µm error target (Oğuz 2026), and even where raw accuracy is mixed, chairside time and patient comfort consistently favor IOS (Ramos-Morro 2026 SR, though based on only 2/10 included studies).
 
 CAIS: dynamic or full-static guidance beats freehand for immediate, esthetic, and multiple implants (Schiavon 2025 SR+NMA, 7 RCTs, 338 implants); AI diagnostics achieve caries detection ≈95% accuracy, implant-type recognition 93.8–98%, and osseointegration prediction AUC 0.924–1.000 — all diagnostic/educational aids only, insufficient clinical validation for autonomous treatment decisions.
 
@@ -75,6 +76,8 @@ Schiavon 2025 NMA + Najeeb 2025 + Zhang 2025 spine.
 | [[digital-workflow/buhl-2025-intraoral-scanner-full-arch-accuracy-invitro]] | in-vitro | 전악 trueness 50-200 μm. 기기 간 유의차. 구치부 오차↑ |
 | [[digital-workflow/ciocan-2024-intraoral-scanners-comparison-four-in-vitro]] | in-vitro (4종 IOS) | 단일 수복 임상 허용. 전치 vs 구치 순위 상이 |
 | [[digital-workflow/alkadi-2023-intraoral-scanner-accuracy-factors]] | narrative-review | 스캐너 기술·악궁 크기·술자 경험·온도·분말 다인자 |
+| [[digital-workflow/schlenz-2022-transfer-accuracy-digital-conventional-full-arch]] | in-vitro (reference-aid, 5 IOS) | 고정성 교정장치(브라켓±와이어) 존재 시 IOS가 알지네이트보다 전이정확도 우수(28–141 µm vs 103–212 µm, p<0.001); 자연치 단독은 알지네이트가 최상(21±20 µm) |
+| [[digital-workflow/oguz-2026-trueness-precision-intraoral-scanners-3d-printed]] | in-vitro (5 IOS, 3D프린팅 모형) | 클리어얼라이너 컴포지트 부착물 모형에서 Primescan·TRIOS 3 최상위 동률, Rapideye MI-1000 최하위(p<0.001); 얼라이너 워크플로 스캐너 오차 목표 ~50µm 제안(1단계 이동량 ~250µm의 20%) |
 
 **임상 ladder (IOS 적응)**:
 1. **단관 (전·구치)** → IOS 1st choice. trueness 임상 허용 (50-100 μm). 시간 절약, 환자 편의.
@@ -82,6 +85,8 @@ Schiavon 2025 NMA + Najeeb 2025 + Zhang 2025 spine.
 3. **전악 자연치** → IOS 가능하나 기기 선택 신중 (TRIOS 3·Primescan 추천). 후방 연장 오차 유의.
 4. **무치악 전악** → 전통 인상 또는 기공실 스캐너 1차. IOS는 보조.
 5. **임플란트 여러 개 splinted 보철** → photogrammetry 또는 splint + IOS hybrid 옵션 (현 본 wiki에 별도 paper 없음).
+6. **고정성 교정장치(브라켓±와이어) 환자 전악 인상** → IOS 우선(알지네이트 대비 정확도·시간 모두 우위, Schlenz 2022). 단 자연치만 있는 부위는 알지네이트가 여전히 근소 우위이므로 혼합 치열 전악에서는 IOS 일괄 채득이 실무적.
+7. **클리어얼라이너 리파인먼트 스캔(부착물 존재 모형)** → Primescan·TRIOS 3 우선 기기; 스캐너 오차 목표 ~50 µm 유지(1단계 계획 이동량의 ~20%), 인접면·언더컷·부착물 주변부가 오차 집중 구간이므로 해당 부위 재스캔 확인(Oğuz 2026).
 
 ### 축 2 — Computer-Assisted Implant Surgery (CAIS)
 
@@ -160,6 +165,9 @@ Schiavon 2025 NMA + Najeeb 2025 + Zhang 2025 spine.
 ### 신규 추가 (2026-09)
 
 - [[digital-workflow/lee-2019-full-mouth-rehabilitation-reduced]] — 증례보고 (서울대 보철과, 78세 여성): 다발성 상실치·심한 마모에 의한 교합 수직 고경(OVD) 감소 환자에 전악 디지털 워크플로우 적용. 심미·기능 회복의 디지털 계획·제작 파이프라인 실례. (case-report, 2019)
+- [[digital-workflow/schlenz-2022-transfer-accuracy-digital-conventional-full-arch]] — in-vitro (팬텀헤드, reference-aid): 고정성 교정장치(브라켓±와이어) 유무별 IOS 5종 vs 알지네이트 전악 전이정확도. 장치 있으면 IOS 역전 우위. (in-vitro, 2022)
+- [[digital-workflow/oguz-2026-trueness-precision-intraoral-scanners-3d-printed]] — in-vitro (İnönü대): 클리어얼라이너 컴포지트 부착물 3D프린팅 모형 30개, IOS 5종 trueness/precision 비교. Primescan·TRIOS 3 최상위. (in-vitro, 2026)
+- [[digital-workflow/ramos-morro-2026-patient-perception-reliability-reproducibility-chairside]] — SR (PRISMA 2020+QUADAS-2, 10편): IOS vs 재래식 인상 정확도(혼재)·chairside time·환자 편의(VAS, 둘 다 IOS 우위). (sr, 2026)
 
 ## Additional Spokes — CBCT 해부학 평가 (2026-05-26 추가)
 
@@ -186,6 +194,21 @@ Fouda 2025 (in vitro micro-CT, 10 full-arch titanium frameworks from TRIOS 5 IOS
 
 - [[digital-workflow/fouda-2025-accuracy-digital-workflow-implant-fullarch]] — micro-CT: 70% of full-arch IOS-to-framework cases fail passivity; scanning error dominates; laboratory verification essential.
 - 축 4 LLM = [확인] (단일 SR+MA + umbrella).
+
+## Evidence Update — Appliance/Attachment Geometry & Patient-Facing Outcomes (2026-09)
+
+세 편 추가로 축1을 보강: (1) **고정장치·부착물이 있을 때의 IOS 정확도**, (2) **정확도와 별개로 일관된 시간·편의 우위**.
+
+**Schlenz 2022** (in-vitro, reference-aid 방식·팬텀헤드, IOS 5종 vs 알지네이트, 5개 세팅 × 12회 반복)는 고정성 교정장치(FOA: 금속/세라믹 브라켓 ± 와이어) 존재가 전악 전이정확도에 미치는 영향을 best-fit superimposition이 아닌 독립 기준체(4개 강구, CMM 측정)로 검증했다. 브라켓이 있는 모든 세팅에서 IOS가 알지네이트보다 편차가 작았다(IOS 28±23–141±140 µm vs CAI 103±103–212±204 µm, 전 비교 p<0.001) — 단 자연치만 있는 경우엔 알지네이트가 최상(21±20 µm). 즉 "자연치엔 알지네이트가 유리하나, 브라켓·와이어가 들어가면 IOS로 역전"이라는 조건부 결론이며, 이는 기존 축1의 "IOS는 단관·소악궁 표준" 원칙에 **appliance 유무라는 새 조건**을 추가한다. Medit i500이 IOS 중 편차가 가장 컸지만 알지네이트보다는 항상 우수했다.
+
+**Oğuz 2026** (in-vitro, IOS 5종, 3D프린팅 교정모형 30개, 클리어얼라이너 컴포지트 부착물)는 Schlenz의 "장치 geometry가 스캔 정확도를 좌우한다"는 축을 고정장치(브라켓)에서 클리어얼라이너 부착물로 확장했다. Primescan과 TRIOS 3가 trueness·precision 모두 최상위 동률(Kruskal-Wallis 둘 다 p<0.001), iTero Element 2 Plus·5D는 중간이나 임상 허용범위, Rapideye MI-1000은 전 지표 최하위. 저자들은 얼라이너 1단계당 계획 치아이동량(~250 µm)의 약 20%인 **~50 µm를 스캐너 오차 허용선**으로 제안했고, 오차는 인접면·언더컷·부착물 주변부에 집중됐다. 기존 축1의 기기 순위(TRIOS 3·Primescan 상위)를 얼라이너 워크플로에서도 재확인하는 결과다.
+
+**Ramos-Morro 2026** (SR, PRISMA 2020+OSF 등록, 10편 횡단연구, 2016–2024, 성인/청소년 완전 치열)는 정확도만 놓고 보면 혼재된 결과(다수는 재래식 인상이 전악·후방부·장거리에서 우위, 일부는 IOS 우위, 다수는 동등)를 보고해 이 오버뷰의 "전악 IOS는 신중히"라는 기존 기조와 **모순되지 않는다**. 그러나 chairside time·환자 편의(VAS)를 측정한 소수 연구(각 2/10편)는 **예외 없이** IOS가 유의하게 빠르고 편했다(Sfondrini: 총 소요 5분49초 vs 22분6초, p=0.001; Janosi: 12분 vs 75.5분, p=0.001; VAS 편의 9.14 vs 2.57, 9.02 vs 6.5, 모두 p<0.001). 다만 QUADAS-2 상 대부분 연구가 환자선정 영역에서 위험도 불명확/높음(젊고 건강한 완전 치열 표본에 국한)이라 확정적 정확도 결론은 아니다. **임상 함의**: 정확도가 재래식과 동등하거나 근소 열세인 상황에서도, 총 진료시간·환자 편의라는 별개 축에서 IOS를 선택할 근거는 일관되다 — 단 이 시간 절감의 대부분은 의자옆(chairside) 시술 자체가 아니라 **석고모형 제작 등 후속 공정 생략**에서 온다는 점(Sfondrini: chairside만 비교 시 5분49초 vs 7분32초로 격차 훨씬 작음)을 감안해야 한다.
+
+- [[digital-workflow/schlenz-2022-transfer-accuracy-digital-conventional-full-arch]] — in-vitro: FOA(브라켓±와이어) 존재 시 IOS가 알지네이트보다 전이정확도 우수(28–141 vs 103–212 µm); 자연치 단독은 알지네이트 우위(21±20 µm).
+- [[digital-workflow/oguz-2026-trueness-precision-intraoral-scanners-3d-printed]] — in-vitro: 클리어얼라이너 부착물 모형에서 Primescan·TRIOS 3 최상위, Rapideye 최하위; 스캐너 오차 목표 ~50µm 제안.
+- [[digital-workflow/ramos-morro-2026-patient-perception-reliability-reproducibility-chairside]] — SR(10편): 정확도는 혼재(재래식 인상이 전악·후방부 우위 다수)이나 chairside time·환자 편의는 측정된 모든 연구에서 IOS 우위; 시간 절감은 주로 후속 공정 생략분. 젊고 건강한 완전 치열 표본에 국한(QUADAS-2 환자선정 위험).
+- 축1 확신도 보강: schlenz-2022·oguz-2026 = [확인](in-vitro, 오늘 세션에서 직접 읽음); ramos-morro-2026 정확도 결론 = [확인](SR 원문, 단 QUADAS-2 patient-selection risk 높음으로 일반화는 제한); 시간·편의 우위는 10편 중 2편 근거이므로 표본 크기 한계를 함께 표기.
 
 ## Clinical Quiz
 <!-- quiz_spec -->
