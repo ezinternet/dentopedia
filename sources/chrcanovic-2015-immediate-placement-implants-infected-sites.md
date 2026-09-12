@@ -4,9 +4,9 @@ authors: Chrcanovic BR, Martins MD, Wennerberg A
 year: 2015
 doi: 10.1111/cid.12098
 category: [immediate-implant]
-pdf_path: /Users/oracleneo/llm-wiki/papers/chrcanovic-2015-immediate-placement-implants-infected-sites.pdf
-pdf_filename: chrcanovic-2015-immediate-placement-implants-infected-sites.pdf
-source_collection: external
+pdf_path: N/A
+pdf_filename: N/A
+source_collection: pubmed-abstract
 full_text: false
 ---
 
