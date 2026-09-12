@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 발치 후 소켓에 L-PRF 적용이 통증 감소·연조직 치유를 개선한다는 초기 임상 근거. [[pdrn/chmielewski-2024-aprf-oral-maxillofacial-surgery-sr]] A-PRF SR 및 [[oral-surgery/dinkova-2025-local-hemostasis-oral-surgery-review]] 지혈제 리뷰에서 인용되는 L-PRF 효과의 직접 임상 데이터 원천.
 
-## One-line Summary
-Prospective split-mouth RCT (n=26, 108 extractions) showing L-PRF socket filling reduced postextraction pain (VAS 3.2 vs 4.1) and improved soft tissue healing index at 7 days compared to natural clot healing.
+## Three-line Summary
 
-## 한줄요약
-전향적 분구강 RCT(n=26, 108발치): L-PRF 소켓 충전이 대조군 대비 수술 후 통증 감소(VAS 3.2 vs 4.1) 및 7일 연조직 치유 지수 개선을 보임.
+Prospective single-blind randomized split-mouth RCT (n=26 patients, 108 extractions, University of Naples Federico II, 2012–2013) comparing L-PRF socket filling vs natural clot healing; VAS pain at 24–96h and modified Healing Index (mHI, 4–12 scale) at 3/7/14/21 days.
+
+L-PRF significantly reduced postextraction pain (VAS 3.2±0.3 vs 4.1±0.1 over 24–96h) and improved soft tissue healing at 7 days (mHI 4.8±0.6 vs 5.1±0.9); no dry socket in L-PRF group; L-PRF releases PDGF-AB, TGF-β, VEGF for >7 days vs PRP's 3-day dissolution.
+
+L-PRF is a practical, low-cost adjunct for postextraction socket management that reduces early pain and modestly improves soft tissue healing; clinical magnitude of the mHI difference is modest and long-term follow-up beyond 21 days is absent.
+
+## 세줄요약
+
+전향적 단맹검 분구강 무작위 대조시험(n=26명, 108발치, 나폴리 프레데리코 II 대학, 2012–2013): L-PRF 소켓 충전 vs 자연 혈병 치유; VAS(24–96시간)·수정 치유지수(mHI, 4–12점, 3/7/14/21일) 평가.
+
+L-PRF에서 수술 후 통증 유의하게 감소(VAS 3.2±0.3 vs 4.1±0.1, 24–96시간)·7일 연조직 치유 개선(mHI 4.8±0.6 vs 5.1±0.9); L-PRF군 dry socket 없음; PDGF-AB·TGF-β·VEGF 7일 초과 방출(PRP 3일 대비 지속 방출).
+
+L-PRF는 수술 후 초기 통증 감소·연조직 치유 소폭 개선 효과가 있는 실용적 저비용 보조재; mHI 차이의 임상적 의미는 제한적이며 21일 이상 장기 추적 데이터 부재.
 
 ## 1. Document Information
 - Journal: BioMed Research International, Volume 2015, Article ID 369273
