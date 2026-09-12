@@ -4,14 +4,14 @@ authors: "Caponio Vito Carlo Alberto, Baca-González Laura, González-Serrano Jo
 year: 2023
 doi: "10.1007/s00784-023-05126-8"
 category: [bone-regeneration/ridge-preservation]
-pdf_path: /Users/oracleneo/llm-wiki/papers/caponio-2023-platelet-concentrates-bone-formation-arp.pdf
-pdf_filename: caponio-2023-platelet-concentrates-bone-formation-arp.pdf
-source_collection: external
+pdf_path: N/A
+pdf_filename: N/A
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested
 
-[[bone-regeneration/siawasch-2025-autologous-platelet-concentrates-alveolar-ridge]] (SR+MA of APC in ARP, Periodontology 2000 2024)는 임상 결과(치조제 크기, 통증) 전반을 다루지만, **신생 골 형성(vital bone formation)의 조직형태계측(histomorphometry)** 에 특화된 SR+MA는 없었다. Caponio 2023은 RCT 8편·255발치와·10–24주 시점 생검 데이터만으로 메타분석해 혈소판 농축물(Platelet Concentrate, PC)의 골 형성 촉진 효과를 SMD 1.77로 정량화한다.
+[[bone-regeneration/ridge-preservation/siawasch-2025-autologous-platelet-concentrates-alveolar-ridge]] (SR+MA of APC in ARP, Periodontology 2000 2024)는 임상 결과(치조제 크기, 통증) 전반을 다루지만, **신생 골 형성(vital bone formation)의 조직형태계측(histomorphometry)** 에 특화된 SR+MA는 없었다. Caponio 2023은 RCT 8편·255발치와·10–24주 시점 생검 데이터만으로 메타분석해 혈소판 농축물(Platelet Concentrate, PC)의 골 형성 촉진 효과를 SMD 1.77로 정량화한다.
 
 ## Three-line Summary
 
@@ -75,7 +75,7 @@ PC 유형 간 차이 없음 (L-PRF SMD=1.75 vs. P-PRP SMD=1.58, p=0.71); 메타�
 
 ## 6. Related Work
 
-- [[bone-regeneration/siawasch-2025-autologous-platelet-concentrates-alveolar-ridge]] — same APC topic, different outcomes (dimensional change, soft tissue, pain); published same year in Periodontology 2000
+- [[bone-regeneration/ridge-preservation/siawasch-2025-autologous-platelet-concentrates-alveolar-ridge]] — same APC topic, different outcomes (dimensional change, soft tissue, pain); published same year in Periodontology 2000
 - [[oral-surgery/al-maawi-2021-prf-extraction-socket-healing-sr]] — PRF in socket healing SR (soft tissue/pain/bone fill, no histomorphometry)
 - Canellas network MA (cited): L-PRF showed no significant difference vs. other top ARP materials
 
