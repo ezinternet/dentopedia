@@ -8,9 +8,9 @@ pmid: "40080053"
 source: amato-2025-single-tooth-immediate-implant-esthetic-infected.md
 category: [immediate-implant/infected-socket]
 evidence_level: retrospective
-pdf_path: /Users/oracleneo/llm-wiki/papers/amato-2025-single-tooth-immediate-implant-esthetic-infected.pdf
-pdf_filename: amato-2025-single-tooth-immediate-implant-esthetic-infected.pdf
-source_collection: external
+pdf_path: N/A
+pdf_filename: N/A
+source_collection: pubmed-abstract
 full_text: false
 tags: [immediate-implant, acute-infection, chronic-infection, esthetic-zone, single-tooth, Tarnow, long-term, retrospective, JOMI, 2025]
 relations:
