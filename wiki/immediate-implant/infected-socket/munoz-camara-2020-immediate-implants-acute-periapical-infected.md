@@ -7,9 +7,9 @@ doi: 10.4317/medoral.23708
 source: munoz-camara-2020-immediate-implants-acute-periapical-infected.md
 category: [immediate-implant/infected-socket]
 evidence_level: prospective
-pdf_path: /Users/oracleneo/llm-wiki/papers/munoz-camara-2020-immediate-implants-acute-periapical-infected.pdf
-pdf_filename: munoz-camara-2020-immediate-implants-acute-periapical-infected.pdf
-source_collection: external
+pdf_path: N/A
+pdf_filename: N/A
+source_collection: pubmed-abstract
 tags: [acute-periapical-infection, immediate-implant, immediate-provisionalization, flapless, Biomet-3i, Spain, amoxicillin-clavulanate, peri-implant-clinical-parameters]
 relations:
   - type: reinforces
