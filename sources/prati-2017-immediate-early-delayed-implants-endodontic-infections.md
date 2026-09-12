@@ -4,9 +4,9 @@ authors: Prati C, Zamparini F, Pirani C, Gatto MR, Piattelli A, Gandolfi MG
 year: 2017
 doi: 10.1097/ID.0000000000000666
 category: [immediate-implant]
-pdf_path: /Users/oracleneo/llm-wiki/papers/prati-2017-immediate-early-delayed-implants-endodontic-infections.pdf
-pdf_filename: prati-2017-immediate-early-delayed-implants-endodontic-infections.pdf
-source_collection: external
+pdf_path: N/A
+pdf_filename: N/A
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested
