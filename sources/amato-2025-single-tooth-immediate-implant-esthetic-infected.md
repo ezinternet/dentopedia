@@ -4,9 +4,9 @@ authors: Amato F, Crasto GJ, Spedicato GA, Tarnow D
 year: 2025
 doi: 10.11607/jomi.11225
 category: [immediate-implant]
-pdf_path: /Users/oracleneo/llm-wiki/papers/amato-2025-single-tooth-immediate-implant-esthetic-infected.pdf
-pdf_filename: amato-2025-single-tooth-immediate-implant-esthetic-infected.pdf
-source_collection: external
+pdf_path: N/A
+pdf_filename: N/A
+source_collection: pubmed-abstract
 full_text: false
 ---
 
