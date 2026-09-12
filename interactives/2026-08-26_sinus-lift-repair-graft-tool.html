@@ -2,7 +2,7 @@
 ---
 title: "상악동 거상 — 천공 수리 + 이식재 선택 도구"
 type: interactive
-date: 2026-08-26
+date: 2026-09-12
 status: done
 category: bone-graft
 source_wiki:
@@ -132,7 +132,7 @@ section { margin-bottom: 14px; }
 <body>
 
 <h1>상악동 거상 — 슈나이더막 천공 수리 · 이식재 선택</h1>
-<p class="subtitle">Lateral-Window SFE: 천공 수리 결정 + 이식재 선택 | 근거: Soares 2024 · Sala 2024 · Lee 2023 NMA · Tian 2026 · Estrin 2025</p>
+<p class="subtitle">Lateral-Window SFE: 천공 수리 결정 + 이식재 선택 | 근거: Soares 2024 · Sala 2024 · Lee 2023 NMA · Tian 2026 · Estrin 2025 · Riben 2012 · Hegde 2016 · Dongo 2018</p>
 
 <!-- INPUTS -->
 <section>
@@ -169,6 +169,7 @@ section { margin-bottom: 14px; }
         <option value="resorb">완전 흡수 선호</option>
         <option value="autotooth">자가 치아 유래 (dpDTM)</option>
         <option value="biologic">생물학적 최적 (조직학↑)</option>
+        <option value="graftless">이식재 없음 (Graftless — 막 텐팅)</option>
       </select>
     </div>
     <div class="field">
@@ -281,6 +282,7 @@ const GRAFTS = [
   { id:'dbbm-prf', name:'DBBM + PRF 부가', bone:'+7–12% (조직학)', resorb:'잔존 감소', surv:'기준 동등', grade:'중간', limit:'ISQ 이득 없음 → 조기부하 불가' },
   { id:'bcp', name:'BCP (이상다공성칼슘인산염)', bone:'DBBM보다 많음', resorb:'완전흡수', surv:'제한적', grade:'중간', limit:'생존율 우위 데이터 부족' },
   { id:'dpdtm', name:'dpDTM (탈단백화 자가치아기질)', bone:'DBBM과 동등 (6mo)', resorb:'미확인', surv:'0/24 실패 (소표본)', grade:'낮음 (신호)', limit:'소규모 RCT·6개월·조직학 없음. 진료 변경 근거 아직 아님' },
+  { id:'graftless', name:'Graftless (막 텐팅 + 혈병)', bone:'보고 없음 (혈병 기반)', resorb:'해당없음', surv:'초기 SR (Dongo 2018 MA)', grade:'낮음', limit:'3편 초기 SR/리뷰 (Riben 2012·Hegde 2016·Dongo 2018). TSFE 무이식이 근거 더 강함. 천공 시 비적용' },
 ];
 
 function update() {
@@ -373,6 +375,7 @@ function update() {
   if (graftGoal === 'resorb') highlight = 'bcp';
   if (graftGoal === 'autotooth') highlight = 'dpdtm';
   if (graftGoal === 'biologic') highlight = 'dbbm-prf';
+  if (graftGoal === 'graftless') highlight = 'graftless';
 
   const tbody = document.getElementById('graftBody');
   tbody.innerHTML = GRAFTS.map(g => {
