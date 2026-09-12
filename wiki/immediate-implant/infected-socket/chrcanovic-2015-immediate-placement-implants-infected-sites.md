@@ -7,9 +7,9 @@ doi: 10.1111/cid.12098
 source: chrcanovic-2015-immediate-placement-implants-infected-sites.md
 category: [immediate-implant/infected-socket]
 evidence_level: sr
-pdf_path: /Users/oracleneo/llm-wiki/papers/chrcanovic-2015-immediate-placement-implants-infected-sites.pdf
-pdf_filename: chrcanovic-2015-immediate-placement-implants-infected-sites.pdf
-source_collection: external
+pdf_path: N/A
+pdf_filename: N/A
+source_collection: pubmed-abstract
 full_text: false
 superseded_by: pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma
 superseded_scope: full
