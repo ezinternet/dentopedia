@@ -4,9 +4,9 @@ authors: "Yang Shuting, Li You, Liu Chengcheng, Wu Yafei, Wan Zixin, Shen Daonan
 year: 2022
 doi: "10.3389/fendo.2022.949535"
 category: [oral-surgery]
-pdf_path: /Users/oracleneo/llm-wiki/papers/yang-2022-wound-healing-diabetes-tooth-extraction.pdf
-pdf_filename: yang-2022-wound-healing-diabetes-tooth-extraction.pdf
-source_collection: external
+pdf_path: N/A
+pdf_filename: N/A
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested
