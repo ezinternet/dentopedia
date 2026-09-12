@@ -4,9 +4,9 @@ authors: Muñoz-Cámara M, Prados-Frutos JC, Fernández-Romero JN, López-Pachec
 year: 2020
 doi: 10.4317/medoral.23708
 category: [immediate-implant]
-pdf_path: /Users/oracleneo/llm-wiki/papers/munoz-camara-2020-immediate-implants-acute-periapical-infected.pdf
-pdf_filename: munoz-camara-2020-immediate-implants-acute-periapical-infected.pdf
-source_collection: external
+pdf_path: N/A
+pdf_filename: N/A
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested
