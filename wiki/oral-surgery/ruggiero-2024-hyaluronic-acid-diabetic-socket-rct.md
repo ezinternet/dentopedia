@@ -7,9 +7,9 @@ doi: "10.3390/jcm13020452"
 source: ruggiero-2024-hyaluronic-acid-diabetic-socket-rct.md
 category: [oral-surgery]
 evidence_level: rct
-pdf_path: /Users/oracleneo/llm-wiki/papers/ruggiero-2024-hyaluronic-acid-diabetic-socket-rct.pdf
-pdf_filename: ruggiero-2024-hyaluronic-acid-diabetic-socket-rct.pdf
-source_collection: external
+pdf_path: N/A
+pdf_filename: N/A
+source_collection: pubmed-abstract
 tags: [diabetes, extraction-socket, hyaluronic-acid, wound-healing, rct, epithelialization]
 ---
 
