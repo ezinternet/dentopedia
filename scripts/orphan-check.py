@@ -66,7 +66,9 @@ def main():
         if f.endswith(".pdf") or f.endswith(".txt")
     }
 
-    # pubmed-abstract sources는 로컬 아티팩트(PDF/txt)가 없는 초록 전용 인제스트 — 1:1 체크 면제
+    # pubmed-abstract sources는 로컬 아티팩트(PDF/txt)가 없는 초록 전용 인제스트 — 1:1 체크 면제.
+    # full_text: false 소스도 면제: PDF 없이 인제스트된(abstract/partial) 경우
+    # pdf_path가 frontmatter에 있어도 실제 파일이 없는 것이 정상이다.
     all_src_fnames = [f for f in os.listdir(SOURCES_DIR) if f.endswith(".md")]
     abstract_only_stems = {
         _stem_nfc(f)
