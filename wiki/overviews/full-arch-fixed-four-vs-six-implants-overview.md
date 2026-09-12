@@ -21,7 +21,7 @@ tags: [full-arch, all-on-four, all-on-six, fixed-complete-denture, implant-numbe
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
-> - 무치악 고정성 풀아치 수복에서 **임플란트 4개 vs 6개** 결정을 임상 근거(생존·변연골·비용·합병증)와 생체역학 근거(유한요소분석, FEA)의 *상반된* 두 축으로 종합한 5편 페이지. 핵심 긴장: **임상 성적은 동등, 생체역학은 6개 우위** — 이 괴리가 결정 규칙을 만든다.
+> - 무치악 고정성 풀아치 수복에서 **임플란트 4개 vs 6개** 결정을 임상 근거(생존·변연골·비용·합병증)와 생체역학 근거(유한요소분석, FEA)의 *상반된* 두 축으로 종합한 8편 페이지. 핵심 긴장: **임상 성적은 동등, 생체역학은 6개 우위** — 이 괴리가 결정 규칙을 만든다.
 > - **임상 축 — 생존율·변연골소실 (Marginal Bone Level, MBL) 은 4개 = 6개**: Toia 3년 다기관 RCT (n=56, 280 임플란트) — 생존 4개 100% vs 6개 99%, 3년 MBL 군간 유의차 없음; Toia 5년 RCT (n=47) — 생존 4개 100% vs 6개 99.3%, MBL 유의차 없음, 양군 임플란트주위염 0. [RCT 근거]
 > - **대규모 후향 재확인**: Caramés 2025 (943명·5,989 즉시부하 임플란트·2,431 사분악, 평균 5년) — 2년 생존 98.6% vs 98.8% (p=0.362), 5년 98.4% vs 98.7% (p=0.343). 임플란트 개수·치조골위축 분류가 아니라 **악궁(상악 위험비 HR 1.815)·연령(HR 1.026/년)이 실패 예측인자**. [후향 대규모]
 > - **4개의 실제 이득 = 비용·무증대**: 골증대 회피 + 초기·총 치료비 낮음 (Toia). **대가 = 기술적 합병증↑** (Toia 5년: 4개 16.6% vs 6개 0%) — 주로 보철 chipping/파절. 참고로 풀아치 보철 합병증은 개수 무관하게 흔함 (Toia 3년 FCD 47.2%가 chipping/fracture 경험).
@@ -34,7 +34,7 @@ tags: [full-arch, all-on-four, all-on-six, fixed-complete-denture, implant-numbe
 
 ## Three-line Summary
 
-Synthesis of 5 papers on the four-vs-six implant decision for edentulous fixed full-arch rehabilitation, deliberately contrasting a clinical-outcomes axis (2 RCTs + 1 large retrospective) against a biomechanical axis (2 FEA studies) that disagree.
+Synthesis of 8 papers on the four-vs-six implant decision for edentulous fixed full-arch rehabilitation, deliberately contrasting a clinical-outcomes axis (2 RCTs + 1 large retrospective) against a biomechanical axis (2 FEA studies) that disagree.
 
 Clinically, 4 implants are non-inferior to 6 for survival and marginal bone level (Toia 3-yr and 5-yr RCTs: survival ~100% both, no significant MBL difference; Caramés 2025 retrospective, 943 patients/5,989 implants: 5-yr survival 98.4% vs 98.7%, p=0.343, with jaw type and age — not implant number — predicting loss), 4-I being cheaper and augmentation-avoiding but incurring more technical complications; biomechanically, FEA consistently favors 6 (All-on-Six markedly lowers peri-implant/cortical stress — Pandey oblique load cortical bone 5.47 vs 139.85 MPa; All-on-Four's distal cantilever concentrates stress regardless of framework, and rigid Ti/Zr frameworks are optimal while PEEK/PEKK are contraindicated — Cabbarova 2026).
 
@@ -42,7 +42,7 @@ Resolution: equivalent clinical survival means 4 implants stay within physiologi
 
 ## 세줄요약
 
-무치악 고정성 풀아치에서 임플란트 4개 vs 6개 결정을 임상 성적 축(RCT 2편+대규모 후향 1편)과 생체역학 축(FEA 2편)의 상반된 두 관점으로 종합한 5편.
+무치악 고정성 풀아치에서 임플란트 4개 vs 6개 결정을 임상 성적 축(RCT 2편+대규모 후향 1편)과 생체역학 축(FEA 2편)의 상반된 두 관점으로 종합한 8편.
 
 임상적으로 4개는 생존·변연골소실에서 6개에 비열등(Toia 3년·5년 RCT: 생존 양군 ~100%, MBL 유의차 없음; Caramés 2025 후향 943명/5,989 임플란트: 5년 생존 98.4% vs 98.7%, p=0.343, 개수가 아니라 악궁·연령이 실패 예측), 4개는 저비용·무증대이나 기술적 합병증↑; 생체역학적으로 FEA는 일관되게 6개 우위(All-on-Six가 피질골·주위골 응력 현저히 낮춤 — Pandey 경사하중 피질골 5.47 vs 139.85 MPa; All-on-Four 원심 캔틸레버는 재료 무관 응력집중, 강성 Ti/Zr 프레임 최적·PEEK/PEKK 금기 — Cabbarova 2026).
 
