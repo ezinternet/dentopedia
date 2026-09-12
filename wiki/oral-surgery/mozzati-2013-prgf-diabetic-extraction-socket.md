@@ -7,9 +7,9 @@ doi: "10.1016/j.joms.2013.10.010"
 source: mozzati-2013-prgf-diabetic-extraction-socket.md
 category: [oral-surgery]
 evidence_level: prospective
-pdf_path: /Users/oracleneo/llm-wiki/papers/mozzati-2013-prgf-diabetic-extraction-socket.pdf
-pdf_filename: mozzati-2013-prgf-diabetic-extraction-socket.pdf
-source_collection: external
+pdf_path: N/A
+pdf_filename: N/A
+source_collection: pubmed-abstract
 tags: [diabetes, PRGF, platelet-concentrate, extraction-socket, epithelialization, wound-healing]
 ---
 
