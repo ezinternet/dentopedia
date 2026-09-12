@@ -4,9 +4,9 @@ authors: "Mozzati Marco, Gallesio Giorgia, di Romana Sara, Bergamasco Laura, Pol
 year: 2013
 doi: "10.1016/j.joms.2013.10.010"
 category: [oral-surgery]
-pdf_path: /Users/oracleneo/llm-wiki/papers/mozzati-2013-prgf-diabetic-extraction-socket.pdf
-pdf_filename: mozzati-2013-prgf-diabetic-extraction-socket.pdf
-source_collection: external
+pdf_path: N/A
+pdf_filename: N/A
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested
