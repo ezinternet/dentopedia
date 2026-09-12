@@ -4,9 +4,9 @@ authors: "Ruggiero Tiziana, Carossa Massimo, Camisassa Davide, Bezzi Marta, Rive
 year: 2024
 doi: "10.3390/jcm13020452"
 category: [oral-surgery]
-pdf_path: /Users/oracleneo/llm-wiki/papers/ruggiero-2024-hyaluronic-acid-diabetic-socket-rct.pdf
-pdf_filename: ruggiero-2024-hyaluronic-acid-diabetic-socket-rct.pdf
-source_collection: external
+pdf_path: N/A
+pdf_filename: N/A
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested
