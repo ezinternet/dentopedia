@@ -7,9 +7,9 @@ doi: 10.1111/cid.12126
 source: blus-2015-immediate-implants-infected-noninfected-ultrasonic.md
 category: [immediate-implant/infected-socket]
 evidence_level: prospective
-pdf_path: /Users/oracleneo/llm-wiki/papers/blus-2015-immediate-implants-infected-noninfected-ultrasonic.pdf
-pdf_filename: blus-2015-immediate-implants-infected-noninfected-ultrasonic.pdf
-source_collection: external
+pdf_path: N/A
+pdf_filename: N/A
+source_collection: pubmed-abstract
 full_text: false
 tags: [immediate-implant, acute-infection, chronic-infection, ultrasonic-surgery, piezo, Italy, survival-rate]
 relations:
