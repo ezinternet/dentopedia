@@ -7,9 +7,9 @@ doi: "10.1007/s00784-023-05126-8"
 source: caponio-2023-platelet-concentrates-bone-formation-arp.md
 category: [bone-regeneration]
 evidence_level: sr+ma
-pdf_path: /Users/oracleneo/llm-wiki/papers/caponio-2023-platelet-concentrates-bone-formation-arp.pdf
-pdf_filename: caponio-2023-platelet-concentrates-bone-formation-arp.pdf
-source_collection: external
+pdf_path: N/A
+pdf_filename: N/A
+source_collection: pubmed-abstract
 tags: [platelet-concentrates, PRF, PRP, alveolar-ridge-preservation, bone-formation, histomorphometry, meta-analysis]
 relations:
   - type: reinforces
@@ -67,6 +67,6 @@ PROSPERO CRD42022340941; databases: PubMed, Scopus, Web of Science, Cochrane (Ju
 
 ## Related Papers
 
-- [[bone-regeneration/siawasch-2025-autologous-platelet-concentrates-alveolar-ridge]] — reinforces (same APC/ARP topic; focuses on dimensional/soft-tissue outcomes)
+- [[bone-regeneration/ridge-preservation/siawasch-2025-autologous-platelet-concentrates-alveolar-ridge]] — reinforces (same APC/ARP topic; focuses on dimensional/soft-tissue outcomes)
 - [[oral-surgery/al-maawi-2021-prf-extraction-socket-healing-sr]] — extends (PRF in extraction socket, not specifically ARP histomorphometry)
 - [[bone-regeneration/ridge-preservation/fok-2024-alveolar-socket-healing-evolving-knowledge]] — context (ARP overview noting PC evidence)
