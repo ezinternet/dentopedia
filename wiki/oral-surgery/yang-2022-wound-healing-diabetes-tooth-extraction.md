@@ -7,9 +7,9 @@ doi: "10.3389/fendo.2022.949535"
 source: yang-2022-wound-healing-diabetes-tooth-extraction.md
 category: [oral-surgery]
 evidence_level: narrative-review
-pdf_path: /Users/oracleneo/llm-wiki/papers/yang-2022-wound-healing-diabetes-tooth-extraction.pdf
-pdf_filename: yang-2022-wound-healing-diabetes-tooth-extraction.pdf
-source_collection: external
+pdf_path: N/A
+pdf_filename: N/A
+source_collection: pubmed-abstract
 tags: [diabetes, extraction-socket, wound-healing, PRF, hyaluronic-acid, bone-biology]
 ---
 
