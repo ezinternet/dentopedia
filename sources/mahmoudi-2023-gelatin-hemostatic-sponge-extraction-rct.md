@@ -12,11 +12,21 @@ source_collection: external
 ## Why Ingested
 신규 젤라틴 기반 생분해성 지혈 스펀지 vs 상업용 Gelfoam을 split-mouth 이중맹검 RCT로 비교한 연구. [[oral-surgery/dinkova-2025-local-hemostasis-oral-surgery-review]] 지혈제 비교 리뷰의 젤라틴 스펀지 카테고리 직접 임상 데이터.
 
-## One-line Summary
-Split-mouth double-blind RCT (n=26) showing a novel cross-linked gelatin sponge significantly outperformed commercial Gelfoam in bleeding control at 1h (p=0.003), 1–4h (p=0.002), and 4h+ (p=0.042), and significantly reduced postextraction pain (VAS, p<0.05) with only one dry socket in control group.
+## Three-line Summary
 
-## 한줄요약
-분구강 이중맹검 RCT(n=26): 신규 가교 젤라틴 스펀지가 상업용 Gelfoam 대비 출혈 조절(1h p=0.003), 통증 감소(p<0.05) 유의미하게 우수; dry socket은 대조군 1건만 발생.
+Split-mouth double-blind RCT (n=26, Tabriz University of Medical Sciences) comparing a novel cross-linked biodegradable gelatin sponge vs commercial Gelfoam in bilateral mandibular molar extraction sockets; bleeding (absorbed gauze weight) assessed at 1h, 1–4h, and >4h; VAS pain at 12/24/48h; dry socket at day 4.
+
+Novel sponge significantly reduced absorbed blood gauze weight (3.97±1.1 vs 6.32±1.06 g) and bleeding at all time points (1h p=0.003; 1–4h p=0.002; >4h p=0.042); pain lower at all VAS points (p<0.05); dry socket: 0 (test) vs 1 (control).
+
+Cross-linked gelatin sponges offer superior hemostasis and pain control over standard Gelfoam in routine molar socket management; small sample size (n=26) and mandibular-molar-only setting limit extrapolation to other extraction sites.
+
+## 세줄요약
+
+분구강 이중맹검 RCT(n=26, 타브리즈 의과대학): 신규 가교 생분해성 젤라틴 스펀지 vs 상업용 Gelfoam을 하악 대구치 양측 발치와에서 비교; 지혈(흡혈 가제 중량)·통증(VAS)·dry socket 평가.
+
+신규 스펀지에서 흡혈 가제 중량 유의하게 감소(3.97±1.1 vs 6.32±1.06 g), 전 시점 출혈 조절 우수(1h p=0.003, 1–4h p=0.002, >4h p=0.042); 통증 전 시점 낮음(p<0.05); dry socket 0 vs 1건.
+
+가교 젤라틴 스펀지는 일반 발치와 지혈 및 통증 조절에서 Gelfoam 대비 우수; 소표본(n=26)·하악 대구치 한정으로 다른 발치 부위 적용 일반화 제한.
 
 ## 1. Document Information
 - Journal: Journal of Clinical Medicine (MDPI), 2023, 12, 4578
