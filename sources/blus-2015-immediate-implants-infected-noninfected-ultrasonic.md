@@ -4,9 +4,9 @@ authors: Blus C, Szmukler-Moncler S, Khoury P, Orrù G
 year: 2015
 doi: 10.1111/cid.12126
 category: [immediate-implant]
-pdf_path: /Users/oracleneo/llm-wiki/papers/blus-2015-immediate-implants-infected-noninfected-ultrasonic.pdf
-pdf_filename: blus-2015-immediate-implants-infected-noninfected-ultrasonic.pdf
-source_collection: external
+pdf_path: N/A
+pdf_filename: N/A
+source_collection: pubmed-abstract
 full_text: false
 ---
 
