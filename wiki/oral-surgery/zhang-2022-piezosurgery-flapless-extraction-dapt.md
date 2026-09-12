@@ -62,4 +62,4 @@ Patients on dual antiplatelet therapy (DAPT) — standard of care after acute co
 ## Related Papers
 - [[oral-surgery/pujarern-2026-minimally-invasive-extraction-socket]] — reinforces: piezotome hemostatic advantage adds to minimally invasive technique evidence
 - [[oral-surgery/sharma-2022-periotome-piezotome-endodontic-extraction]] — extends: Zhang 2022 focuses on hemostasis in DAPT patients; Sharma 2022 compares periotome vs piezotome on bone loss and pain
-- [[oral-surgery/dudek-2026-biphasic-calcium-sulfate-bleeding-anticoagulants]] — context: complementary hemostatic strategy (socket material) vs instrument selection strategy
+- [[drug/anticoagulants/dudek-2026-biphasic-calcium-sulfate-bleeding-anticoagulants]] — context: complementary hemostatic strategy (socket material) vs instrument selection strategy
