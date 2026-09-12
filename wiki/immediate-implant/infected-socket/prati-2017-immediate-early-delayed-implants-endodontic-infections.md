@@ -7,9 +7,9 @@ doi: 10.1097/ID.0000000000000666
 source: prati-2017-immediate-early-delayed-implants-endodontic-infections.md
 category: [immediate-implant/infected-socket]
 evidence_level: prospective
-pdf_path: /Users/oracleneo/llm-wiki/papers/prati-2017-immediate-early-delayed-implants-endodontic-infections.pdf
-pdf_filename: prati-2017-immediate-early-delayed-implants-endodontic-infections.pdf
-source_collection: external
+pdf_path: N/A
+pdf_filename: N/A
+source_collection: pubmed-abstract
 tags: [acute-periapical-abscess, immediate-implant, early-implant, delayed-implant, marginal-bone-loss, ZirTi, flapless, Bologna, Italy, timing-protocol]
 relations:
   - type: refines
