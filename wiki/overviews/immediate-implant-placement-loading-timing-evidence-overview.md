@@ -18,6 +18,10 @@ source_papers:
   - immediate-implant/checchi-2017-wide-diameter-immediate-post-extractive
   - immediate-implant/gap-grafting/el-ebiary-2023-guided-immediate-implant-mixture-autogenous
   - immediate-implant/socket-shield/venkatraman-2023-comparison-soft-tissue-volumetric
+  - immediate-implant/yang-2026-immediate-vs-delayed-implants-survival-qol-rct
+  - immediate-implant/thoma-2026-timing-dental-implant-placement-past
+  - immediate-implant/socket-shield/ji-2025-socket-shield-conventional-network-ma
+  - immediate-implant/ickroth-2025-immediate-implant-intact-nonintact-sockets
 ---
 
 > [!summary] 한국어 핵심요약
@@ -27,15 +31,18 @@ source_papers:
 > - **즉시식립 vs 지연식립** (Felice 2016, Esposito 2017, 3군 RCT n=210): 실패율 비유의(6% vs 6.2% vs 1.6%), 즉시군이 골수준·핑크심미점수(PES) 유의하게 우월
 > - **즉시부하 vs 통상부하** (Shibly 2010 RCT, 치주질환 이력 n=60): 생존율·골재생 차이 없음; 즉시부하가 점막치은접합부(MGJ) 이동 현저히 적음
 > - **구치부 광폭경 즉시식립** (Checchi 2017 RCT n=100): 즉시군 골소실 多·PES 열등; 능선보존+지연식립이 구치부에서는 유리 — 전치부와 결론 방향이 다름
-> - **PROMs·환자 만족도**: 식립·부하 시기가 만족도·불편감에 미치는 영향 미미 (Gotfredsen 2021 SR; Huynh-Ba 2018 SR) — 임상결과 차이가 환자경험 차이로 이어지지 않음
+> - **PROMs 축 구분**: 부하 시기는 환자 만족도에 영향 미미 (Gotfredsen 2021; Huynh-Ba 2018) — 단, **식립 시기**는 다름: Yang 2026 RCT(n=220)에서 즉시식립군 구강건강영향지수 14 (OHIP-14) 3.20 vs 지연군 4.15 (P<0.001), 백색 심미 점수 (WES)·시각 아날로그 척도 (VAS) 만족도도 유의하게 우수 — 부하·식립 축은 혼동하지 말 것
 > - **즉시식립 조기식립 비교** (Puisys 2022 RCT, 전치부 n=50): 1년 PES 동등(12.8 vs 12.5), 즉시군이 내원 횟수 ~50% 절감; 적절한 증례 선택 전제
 > - **간격부 이식재 (Gap Grafting)**: 자가골+이종골 1:1 혼합물이 무이식 대비 PES 유의 개선(13 vs 11.5, El-Ebiary 2023 RCT)
 > - **소켓실드 기법 (Socket Shield)**: 협측 연조직 볼륨 유지 및 PES 개선, 전통적 기법 대비 유리 (Venkatraman 2023 RCT)
 > - **임상 결정 원칙**: 1A·1C·2-3A·4A–C 모두 SCV → 선택 기준은 생존율이 아니라 **연조직·해부학·골벽 온전성**
+> - **소켓실드 (Socket Shield Technique, SST) NMA**: Ji 2025 네트워크 메타분석에서 심미부 내 즉시·조기·지연 모든 기존 방식 대비 SST rankogram 우위 — 분야 최고 근거 수준이나 transitivity 가정 검토 필요
+> - **비온전 소켓**: Ickroth 2025 SR(20개 연구, 525개 임플란트)에서 온전·비온전 소켓 간 협측 골 두께 (Buccal Bone Thickness, BBT)·분홍 심미 점수 (PES)·생존율 유사 가능성 시사; 단 RCT 2개만·모두 비뚤림 위험 높아 일상적 확장 전 고품질 RCT 필요
+> - **미래 방향**: Thoma 2026 — "3–6개월 대기" → AI + CBCT 기반 '환자·소켓·전신 맞춤 안전한 최조기 식립'으로 패러다임 전환
 
 ## Three-line Summary
 
-The 9 implant placement (Type 1–4) × loading (A/B/C) protocol combinations are all clinically viable, with weighted survival rates of 91.6–100% across 10,456 implants in 140 studies (Gallucci 2026 SR); the lowest-performing combination is Type 1B (immediate placement + early loading, 91.6%), while Type 1A (immediate placement + immediate loading) is now fully scientifically and clinically validated (SCV) at 98.0% — upgraded from the 2018 predecessor where it was merely "clinically documented."
+The 9 implant placement (Type 1–4) × loading (A/B/C) protocol combinations are all clinically viable, with weighted survival rates of 91.6–100% across 10,456 implants in 140 studies (Gallucci 2026 SR); the lowest-performing combination is Type 1B (immediate placement + early loading, 91.6%), while Type 1A (immediate placement + immediate loading) is now fully scientifically and clinically validated (SCV) at 98.0% — upgraded from the 2018 predecessor where it was merely "clinically documented." (Synthesizing 16 wiki papers.)
 
 RCT-level evidence shows that immediate placement does not disadvantage survival vs delayed (felice-2016 / esposito-2017: 6% vs 1.6% immediate vs delayed, NS), while immediate placement delivers significantly better bone levels and PES, and immediate loading equivalence in survival/bone-regeneration holds even in periodontally compromised patients (Shibly 2010) — however, molar wide-diameter immediate placement underperforms ridge-preservation + delayed in esthetics and marginal bone loss (Checchi 2017), highlighting a site-specific reversal of the anterior esthetic zone finding.
 
@@ -67,6 +74,10 @@ RCT 근거에서 즉시식립은 지연 대비 생존율 비열등(Felice 2016/E
 | [[immediate-implant/gotfredsen-2021-patient-perception-timing-concepts-implant]] | SR (35–40 studies) | — | PROMs across all placement × loading timing combinations |
 | [[immediate-implant/gap-grafting/el-ebiary-2023-guided-immediate-implant-mixture-autogenous]] | RCT | 24 | Gap grafting (auto:xeno 1:1) vs no graft, esthetic zone, PES |
 | [[immediate-implant/socket-shield/venkatraman-2023-comparison-soft-tissue-volumetric]] | RCT | 22 | Socket shield vs conventional, soft-tissue volumetrics + PES, 12-month |
+| [[immediate-implant/yang-2026-immediate-vs-delayed-implants-survival-qol-rct]] | RCT | 220 | Immediate vs delayed single-tooth, PES/WES/OHIP-14/VAS, 1-year |
+| [[immediate-implant/thoma-2026-timing-dental-implant-placement-past]] | Narrative review | — | ITI Type 1–4 timing framework, clinical gray zones, future AI-guided personalization |
+| [[immediate-implant/socket-shield/ji-2025-socket-shield-conventional-network-ma]] | SR + NMA | — | SST vs multiple conventional approaches simultaneously (NMA), esthetic zone PES rankogram |
+| [[immediate-implant/ickroth-2025-immediate-implant-intact-nonintact-sockets]] | SR | 525 | Intact vs non-intact socket immediate placement, BBT/PES/survival, 20 studies |
 
 ---
 
@@ -114,6 +125,20 @@ Immediate and 6-week (immediate-delayed) placement are statistically equivalent 
 
 **Conclusion**: Esthetic equivalence at 1 year with significant efficiency advantage for immediate placement in well-selected cases.
 
+### Anterior site — multi-outcome RCT (Yang 2026 — RCT, n=220, 1-year)
+
+Single-tooth immediate vs delayed implant (Straumann Bone Level Tapered, 1:1 allocation, single Chinese centre; gap grafted with Bio-Oss + Bio-Gide in immediate group):
+
+| Outcome | Immediate | Delayed | Significance |
+|---|---|---|---|
+| 1-year survival | 95.45% | 92.73% | P=0.391 (NS) |
+| PES (max 14) | 12.18 ± 1.13 | 11.34 ± 1.30 | P<0.001 |
+| WES (max 10) | 7.78 ± 0.99 | 7.23 ± 1.10 | P<0.001 |
+| OHIP-14 (lower = better) | 3.20 ± 1.33 | 4.15 ± 1.23 | P<0.001 |
+| Probing depth (mm) | 3.16 ± 0.51 | 3.39 ± 0.59 | P=0.005 |
+
+Survival equivalence holds; immediate placement is superior on every secondary outcome — esthetics (PES, WES), peri-implant health (probing depth, mPLI, mSBI), and oral-health QoL (OHIP-14). The OHIP-14 benefit captures a patient-reported dimension that loading-timing PROMs literature (Huynh-Ba 2018, Gotfredsen 2021) did not show — placement timing (immediate vs delayed) and loading timing are distinct axes and should not be conflated in PROM interpretation.
+
 ### Molar site (Checchi 2017 — RCT, n=100)
 
 Wide-diameter (6–8 mm) immediate implants vs ridge preservation + delayed conventional implants in molar sockets:
@@ -145,12 +170,13 @@ All patients received allograft + collagen membrane at immediate placement:
 
 ## 5. Patient-Reported Outcomes (PROMs)
 
-| Source | Finding |
-|---|---|
-| Huynh-Ba 2018 SR (Type 1, loading timing) | Patient satisfaction uniformly high regardless of loading timing; minimal PROM differences between immediate and conventional loading |
-| Gotfredsen 2021 SR (all timing combinations) | No strong evidence that placement or loading timing alone influences discomfort, satisfaction, or esthetics from patient perspective; weak signal for transient preference for immediate loading in full-arch edentulous cases |
+| Source | Focus | Finding |
+|---|---|---|
+| Huynh-Ba 2018 SR | **Loading** timing (Type 1) | Patient satisfaction uniformly high regardless of loading timing; minimal PROM differences between immediate and conventional loading |
+| Gotfredsen 2021 SR | All timing combinations | No strong evidence that placement *or* loading timing alone influences discomfort, satisfaction, or esthetics; weak signal for transient preference for immediate loading in full-arch edentulous cases |
+| Yang 2026 RCT (n=220) | **Placement** timing | Immediate placement significantly better OHIP-14 (3.20 vs 4.15, P<0.001) and VAS satisfaction (attachment, colour, masticatory function; all P<0.05) vs delayed — placement timing does affect patient-reported QoL |
 
-**Clinical implication**: timing protocol selection does not meaningfully differentiate patient experience. Communicate the timing difference to patients in terms of number of visits and surgical steps — not expected satisfaction outcomes.
+**Critical axis distinction**: loading timing (immediate vs conventional) has minimal effect on PROMs (Huynh-Ba, Gotfredsen) — but *placement* timing (immediate vs delayed) does favour immediate placement in patient-reported QoL (Yang 2026 OHIP-14). These are separate decisions; do not conflate when counselling patients on expected experience.
 
 ---
 
@@ -173,6 +199,10 @@ Socket shield (SST) vs conventional technique, single maxillary incisor immediat
 - PES: SST superior at 12 months
 
 **Conclusion**: retaining the buccal root fragment as a biological shield preserves peri-implant soft-tissue volume and PES over 12 months.
+
+### Network Meta-Analysis (Ji 2025 — SR + NMA, JPD)
+
+First major NMA comparing SST simultaneously against multiple conventional approaches (immediate, early, delayed, and variants) in the esthetic zone. Direct + indirect comparison rankograms position SST above conventional alternatives in PES — provides stronger evidence than prior pairwise meta-analyses (Lin 2022, Gharpure 2022). Transitivity assumptions must be verified before applying to heterogeneous populations. As the highest evidence-level synthesis currently available for SST, this NMA strengthens the esthetic indication for the technique in experienced hands.
 
 ---
 
@@ -198,8 +228,13 @@ Step 3 — Esthetic augmentation (anterior only)
   Thin buccal plate → consider socket shield technique [Venkatraman 2023]
 
 Step 4 — Patient counseling
-  Timing protocol does not meaningfully affect patient satisfaction [Gotfredsen 2021]
-  Communicate in terms of visit count and total treatment duration
+  Loading timing does not meaningfully affect patient satisfaction [Gotfredsen 2021]
+  BUT immediate placement improves OHIP-14 vs delayed — communicate QoL and esthetic benefits, not just visit count [Yang 2026]
+
+Step 5 — Future / AI-personalized timing (Thoma 2026)
+  The principle shifts from "wait 3–6 months" to "safe earliest placement for THIS patient, socket, systemic state"
+  AI + CBCT risk stratification, bioactive materials (faster socket healing), and CTG/collagen matrices are enabling technologies
+  Type 2 (4–8 wk) often safer than Type 1 for thin phenotype — minimal esthetic compromise for major soft-tissue benefit
 ```
 
 ---
@@ -210,6 +245,7 @@ Step 4 — Patient counseling
 - **Molar immediate placement long-term data**: Checchi 2017 shows 1-year disadvantage; 5-year MBL/failure trajectory unknown
 - **Socket shield RCT scale**: Venkatraman 2023 n=22 only; finding directionally consistent with histological rationale but underpowered
 - **PROMs at >1 year**: both SR (Gotfredsen, Huynh-Ba) note very limited long-term patient-reported data
+- **Non-intact socket evidence**: SR (Ickroth 2025, 20 studies, 525 implants) finds intact vs non-intact socket immediate placement yields similar BBT (1.10–3.18 vs 1.18–3.00 mm), PES, and survival (>90–100%) — but only 2 RCTs for non-intact sockets, both high risk of bias, meta-analysis not feasible; high-quality RCTs urgently needed before routinely extending immediate placement to compromised socket anatomy
 
 ---
 
