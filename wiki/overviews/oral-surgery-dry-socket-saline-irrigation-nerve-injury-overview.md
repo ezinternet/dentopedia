@@ -8,7 +8,7 @@ source: ""
 category: [overviews]
 evidence_level: synthesis
 source_collection: internal
-tags: [oral-surgery, dry-socket, alveolar-osteitis, chlorhexidine, saline-irrigation, nerve-injury, orthognathic, lllt]
+tags: [oral-surgery, dry-socket, alveolar-osteitis, chlorhexidine, platelet-rich-fibrin, smoking, saline-irrigation, nerve-injury, orthognathic, lllt]
 relations:
   - type: applies-to
     target: rodriguez-sanchez-2017-chlorhexidine-alveolar-osteitis-third
@@ -19,40 +19,43 @@ relations:
 ---
 
 > [!summary] 한국어 핵심요약
-> - 이 개요는 구강외과 술후 합병증 예방·처치를 3축으로 정리: ① 사랑니 발치 후 건조치조와(Alveolar Osteitis, AO) CHX 예방, ② 구강암 수술 중 생리식염수 세정, ③ 악교정수술 후 삼차신경 손상 처치.
+> - 이 개요는 구강외과 술후 합병증 예방·처치를 3축으로 정리: ① 발치 후 건조치조와(Alveolar Osteitis, AO) 예방 — CHX·발치와 내 중재·위험층화, ② 구강암 수술 중 생리식염수 세정, ③ 악교정수술 후 삼차신경 손상 처치.
 > - 축1(CHX·AO): SR+MA (23 RCT, n=2,824). 클로르헥시딘(Chlorhexidine, CHX)은 AO 발생을 약 47% 감소 (RR=0.53, NNT=8). 겔이 가글보다 약간 우수 (RR 0.47 vs 0.58). 이질성 낮음 (I²=9.3%). 이상반응 없음.
-> - 축1 임상 핵심: 제형·농도에 관계없이 유효 — 처방 유연성 높음. 외과적 발치 후 보조요법으로 CHX 겔 우선 고려.
+> - 축1 대안 비교 (2026-09-13 통합): 발치와 내 중재 전체 RR 0.39, 네트워크 메타분석 (Network Meta-Analysis, NMA)에서 **혈소판 풍부 피브린 (Platelet-Rich Fibrin, PRF) OR 0.28**이 **CHX 0.2% 겔 OR 0.52**보다 상위 — 둘 다 유의 효과와 대규모 연구량을 갖춘 중등도 근거 (Canellas 2020, 37 RCT). 농축성장인자 (Concentrated Growth Factor, CGF)는 AO 예방 효과가 1/3편에서만 확인돼 불확실 (Al-Aroomi 2025) → 혈소판 농축물 중 AO 예방 근거는 PRF 쪽.
+> - 축1 위험층화 (2026-09-13 통합): 흡연은 발치 합병증 전반과 유의 연관 (P=0.02; 다수 발치 P=0.03) — **유일한 교정 가능 인자**; 하악 제3대구치 (P=0.02, 흡연과 독립)·수술적 외상 (P=0.01)은 AO 독립 예측인자 (Heng 2007, 여성 수감자 n=219). AO 발생률은 코호트마다 크게 달라 일반 발치 5.0% (Heng 2007), 매복 사랑니 외과적 발치 163명 0% (Daware 2021), 하악 사랑니 발치 약 20–30% (Rodríguez Sánchez 2017 페이지)로 보고된다.
+> - 축1 임상 핵심: CHX는 제형·농도에 관계없이 유효 — 처방 유연성 높음. 고위험(하악 사랑니·외과적 발치·흡연)은 CHX 겔 또는 발치와 PRF, 표준 위험은 CHX 가글로 충분; 흡연자는 수술 전 흡연 문제를 다룬다.
 > - 축2(생리식염수 세정): 전향적 코호트 (n=104, 구강 편평세포암(SCC)). 500–1,500 mL 식염수 세정 후 종양세포 오염률 55% → 7.6% (p<0.001). 추가 화학물질 불필요, 단순 기계적 세정만으로 충분.
 > - 축2 임상 핵심: 신경주위침윤(Perineural Invasion, PNI)이 세정액 양성의 유일한 예측인자 — PNI 양성 환자에서 세정을 더 철저히 시행. T/N 병기는 세정 효과에 영향 없음.
 > - 축3(악교정 신경손상): 후향적 코호트 (n=287, 2010–2024). 신경감각이상 발생률 5.9%, 88.2%가 하치조신경(Inferior Alveolar Nerve, IAN) 영역. 저출력레이저치료(Low-Level Laser Therapy, LLLT) 75% 주관적 호전 vs 무치료 33%.
+> - 축3 기준선 비교 (2026-09-13 통합): 매복 하악 사랑니 외과적 발치 전향 코호트 (n=163)에선 일시적 설신경 손상 (Lingual Nerve Injury, LNI) 2.45% (12주 내 전원 회복)·IAN 손상 0% (Daware 2021) — 악교정 수술의 5.9%는 사랑니 발치와 다른 위험 등급이므로 동의 설명엔 술식별 수치를 써야 한다.
 > - 축3 임상 핵심: 조기 개입이 예후에 유리. LLLT가 현재까지 가장 유망한 보조 치료. 완전 감각 회복은 드물며 표준화된 프로토콜 부재 — 악교정 전 환자 동의 시 신경손상 가능성 충분히 설명 필요.
-> - 세 축의 공통 교훈: 저비용·단순 개입(CHX, 식염수, 레이저)이 합병증 부담을 의미 있게 줄임. 구강외과 합병증 예방은 술기의 정교함 외에 보조요법의 근거기반 선택이 중요.
+> - 세 축의 공통 교훈: 저비용·단순 개입(CHX·PRF, 식염수, 레이저)이 합병증 부담을 의미 있게 줄임. 구강외과 합병증 예방은 술기의 정교함 외에 위험층화와 보조요법의 근거기반 선택이 중요.
 
 ## Three-line Summary
 
-Three oral surgery complication domains synthesized — CHX for alveolar osteitis (SR+MA, 23 RCTs, n=2,824), saline irrigation during oral cancer surgery (prospective cohort, n=104), and orthognathic surgery nerve injury treatment (retrospective cohort, n=287).
+Three oral surgery complication domains synthesized — alveolar osteitis prevention after extraction (CHX SR+MA, 23 RCTs, n=2,824; intrasocket-intervention NMA, 37 RCTs; plus risk-factor and incidence cohorts), saline irrigation during oral cancer surgery (prospective cohort, n=104), and orthognathic surgery nerve injury treatment (retrospective cohort, n=287, benchmarked against a third-molar surgery cohort).
 
-CHX reduced alveolar osteitis by 47% (RR=0.53, NNT=8); saline irrigation cut tumor-cell wound contamination from 55% to 7.6%; LLLT produced 75% subjective nerve-recovery improvement vs 33% without treatment.
+CHX reduced alveolar osteitis by 47% (RR=0.53, NNT=8), intrasocket PRF (OR 0.28) ranked above CHX 0.2% gel (OR 0.52) in network meta-analysis while CGF's AO effect was uncertain, and smoking, mandibular third molars and surgical trauma predicted post-extraction complications; saline irrigation cut tumor-cell wound contamination from 55% to 7.6%; LLLT produced 75% subjective nerve-recovery improvement vs 33% without treatment, against a third-molar surgery baseline of 2.45% transient lingual nerve injury and 0% IAN injury.
 
-Each axis confirms that low-cost adjuncts (CHX gel, isotonic saline wash, laser therapy) substantially reduce morbidity — all lack head-to-head comparison with alternatives and would benefit from prospective standardization.
+Each axis confirms that low-cost adjuncts (CHX gel or PRF, isotonic saline wash, laser therapy) substantially reduce morbidity — the AO axis now has network-level ranking and a risk-stratification layer, while the other two axes still lack head-to-head comparison and would benefit from prospective standardization.
 
 ## 세줄요약
 
-3개 구강외과 합병증 주제 종합: ① CHX·건조치조(SR+MA, 23 RCT, n=2,824), ② 구강암 수술 식염수 세정(전향적 코호트, n=104), ③ 악교정 수술 신경손상 치료(후향적 코호트, n=287).
+3개 구강외과 합병증 주제 종합: ① 건조치조 예방(CHX SR+MA 23 RCT n=2,824·발치와 내 중재 NMA 37 RCT·위험인자/발생률 코호트), ② 구강암 수술 식염수 세정(전향적 코호트, n=104), ③ 악교정 수술 신경손상 치료(후향적 코호트, n=287, 사랑니 발치 코호트와 비교).
 
-CHX는 건조치조와(Alveolar Osteitis, AO) 발생 47% 감소 (RR=0.53, NNT=8); 생리식염수 세정은 종양세포 오염률 55%→7.6%로 감소; 저출력레이저치료(LLLT)는 주관적 신경 회복률 75%(무치료 33%) 달성.
+CHX는 건조치조와(Alveolar Osteitis, AO) 발생 47% 감소(RR=0.53, NNT=8), NMA에서 발치와 PRF(OR 0.28)가 CHX 0.2% 겔(OR 0.52)보다 상위·CGF는 AO 효과 불확실, 흡연·하악 사랑니·수술적 외상이 합병증 예측; 생리식염수 세정은 종양세포 오염률 55%→7.6%로 감소; 저출력레이저치료(LLLT)는 주관적 신경 회복률 75%(무치료 33%) 달성, 사랑니 외과적 발치 기준치는 일시적 설신경 손상 2.45%·IAN 0%.
 
-세 축 모두 저비용 보조요법이 상당한 합병증 감소를 보이나, 표준화된 비교 대조군이 부족하고 전향적 연구가 필요하다는 한계를 공유.
+세 축 모두 저비용 보조요법(CHX 겔·PRF, 식염수, 레이저)이 상당한 합병증 감소를 보이며, AO 축은 이제 네트워크 수준 순위와 위험층화를 갖췄으나 나머지 두 축은 표준화된 비교 대조군이 부족하고 전향적 연구가 필요하다.
 
 ## Summary
 
-This synthesis covers three clinically distinct but thematically unified problems in oral surgery: prevention of alveolar osteitis after third molar extraction using chlorhexidine; reduction of wound contamination during oral cavity cancer resection using saline irrigation; and management of trigeminal nerve injury after orthognathic surgery using pharmacologic and physical modalities. All three axes share a common finding — a simple, low-cost adjunct markedly reduces the complication burden — and all three would benefit from higher-quality prospective data.
+This synthesis covers three clinically distinct but thematically unified problems in oral surgery: prevention of alveolar osteitis after extraction (chlorhexidine, alternative intrasocket agents, and patient-level risk stratification); reduction of wound contamination during oral cavity cancer resection using saline irrigation; and management of trigeminal nerve injury after orthognathic surgery using pharmacologic and physical modalities. All three axes share a common finding — a simple, low-cost adjunct markedly reduces the complication burden — and all three would benefit from higher-quality prospective data.
 
-The existing `oral-surgery-decision-ladder` overview covers 22 papers on third molar IAN risk, post-extraction antibiotic prophylaxis, PRF and LLLT after extraction, hemostasis protocols, and deep neck infection. The present synthesis does NOT overlap: it specifically addresses CHX for dry socket prevention (not covered in the decision ladder, which references AO management rather than CHX prevention evidence), saline irrigation in oral cancer surgery (absent from the decision ladder), and orthognathic nerve injury treatment (distinct from third-molar IAN injury covered in the decision ladder).
+The existing `oral-surgery-decision-ladder` overview covers 22 papers on third molar IAN risk, post-extraction antibiotic prophylaxis, PRF and LLLT after extraction, hemostasis protocols, and deep neck infection. The present synthesis does NOT overlap: it specifically addresses CHX and intrasocket agents for dry socket prevention (not covered in the decision ladder, which references AO management rather than prevention evidence), saline irrigation in oral cancer surgery (absent from the decision ladder), and orthognathic nerve injury treatment (distinct from third-molar IAN injury covered in the decision ladder).
 
 ---
 
-## Axis 1 — Chlorhexidine for Alveolar Osteitis Prevention
+## Axis 1 — Alveolar Osteitis Prevention: Chlorhexidine, Intrasocket Alternatives, and Risk Stratification
 
 **Source**: [[oral-surgery/third-molar/rodriguez-sanchez-2017-chlorhexidine-alveolar-osteitis-third]] — Rodríguez Sánchez et al. 2017, SR+MA, JOMS
 
@@ -83,13 +86,44 @@ Alveolar osteitis (dry socket) occurs in approximately 20–30% of mandibular th
 - **NNT=8** means 8 patients treated with CHX prevent one case of AO — a clinically meaningful benefit given AO's significant pain burden and the need for repeated appointments.
 - **Safety**: CHX causes no more adverse events than placebo in this context. Staining and taste effects (common at higher doses for gingivitis indications) were not a significant study endpoint here.
 
+### Intrasocket Alternatives to CHX
+
+**Sources**: [[oral-surgery/third-molar/canellas-2020-intrasocket-ao-third-molar-sr-nma]] — Canellas et al. 2020, SR+NMA · [[oral-surgery/third-molar/al-aroomi-2025-cgf-third-molar-postop-sr]] — Al-Aroomi et al. 2025, SR
+
+| Intervention | Effect on AO | Evidence |
+|---|---|---|
+| Any intrasocket intervention vs placebo/no treatment | RR 0.39 (0.30–0.52), p<0.0001 | Canellas 2020 — 37 RCTs, 6,175 surgeries, 4,716 patients |
+| Platelet-rich fibrin (PRF) | OR 0.28 (0.10–0.71) | Canellas 2020 NMA |
+| Chlorhexidine 0.2% gel | OR 0.52 (0.32–0.95) | Canellas 2020 NMA — concordant with the Rodríguez Sánchez 2017 gel estimate (RR 0.47) |
+| Concentrated growth factor (CGF) | Favorable in 1/3 studies — uncertain | Al-Aroomi 2025 — 11 RCTs, no meta-analysis possible |
+
+Canellas 2020 also found eugenol paste, recombinant bovine growth factor, colloidal silver gelatin sponge and acellular dermal matrix effective, but with very wide confidence intervals (upper bounds 0.74–0.97). PRF and CHX 0.2% gel are the two options combining significant effect with large numbers of studies and patients, which the authors grade as moderate evidence. Among platelet concentrates, the AO-prevention evidence belongs to **PRF, not CGF** — CGF's documented benefits lie in pain, bone fill and distal second-molar periodontal parameters (Al-Aroomi 2025).
+
+### Baseline Incidence and Risk Stratification
+
+**Sources**: [[oral-surgery/heng-2007-smoking-postextraction-complications-female-inmates]] — Heng et al. 2007, retrospective cohort · [[oral-surgery/nerve-injury/daware-2021-assessment-postoperative-discomfort-nerve-injuries]] — Daware et al. 2021, prospective cohort
+
+The 20–30% figure above refers to mandibular third molar extractions; reported incidence varies widely with population and procedure. In a general extraction population (219 female inmates, compared across a smoke-free policy change), Heng et al. (2007) found overall complications in 19.6% and alveolar osteitis in 5.0%. In 163 surgically extracted impacted mandibular third molars, Daware et al. (2021) reported no dry socket at all.
+
+| Predictor | Outcome | Significance | Modifiable? |
+|---|---|---|---|
+| Smoking | Overall post-extraction complications | P=0.02 | **Yes** |
+| Smoking with multiple extractions | Complications | P=0.03 | Yes |
+| Mandibular third molar (vs other teeth) | Alveolar osteitis, independent of smoking | P=0.02 | No |
+| Surgical trauma | Alveolar osteitis; overall complications | P=0.01; P=0.05 | Partly (technique) |
+
+Heng's cohort is all-female and incarcerated and Daware's zero incidence comes from a single cohort, so neither figure should serve as a population benchmark. What transfers is the predictor set: the **mandibular third molar and surgical trauma identify the high-risk socket**, and **smoking is the one predictor in this set the patient can change** before surgery.
+
 ### Decision Branch
 
 ```
-Surgical third molar extraction planned
+Extraction planned
     │
-    ├── High AO risk (mandibular, impacted, smoker, OCP use, previous AO)
-    │       → CHX gel preferred (RR 0.47); consider perioperative rinse also
+    ├── Smoker → address smoking before surgery (modifiable; ↑ complications, Heng 2007)
+    │
+    ├── High AO risk (mandibular third molar, surgical/traumatic extraction, smoker)
+    │       → intrasocket PRF (OR 0.28) or CHX 0.2% gel (OR 0.52; RR 0.47)
+    │         consider perioperative CHX rinse also; CGF not established for AO prevention
     │
     └── Standard/low AO risk
             → CHX rinse sufficient (RR 0.58); flexible scheduling
@@ -184,6 +218,7 @@ Orthognathic surgery involves osteotomies in close proximity to the inferior alv
 ### Key Clinical Points
 
 - **Incidence 5.9% is clinically significant**: pre-surgical informed consent must explicitly include trigeminal neurosensory deficit as a known risk. Mandibular procedures (BSSO, IVRO) carry higher risk than LeFort-I alone.
+- **Third-molar surgery is a different risk class**: in a prospective cohort of 163 surgical extractions of impacted mandibular third molars (Daware et al. 2021), transient lingual nerve injury occurred in 2.45% (all fully recovered within 12 weeks) and IAN injury in 0%. Orthognathic osteotomy's 5.9% deficit rate, concentrated in the IAN territory, should not be borrowed for third-molar consent (or vice versa) — use procedure-specific figures.
 - **LLLT is the most promising available modality**: 75% subjective improvement vs 33% without treatment is a clinically meaningful difference, though the retrospective design, small n (17 affected), and absence of randomization prevent causal inference. LLLT should be offered early post-operatively where available.
 - **No modality achieves complete sensory restoration**: patients should be counseled that improvement, not cure, is the realistic goal. Spontaneous partial recovery also occurs (33% no-treatment arm).
 - **Operative time as surrogate**: longer operative time (230 vs 198 min median) in affected patients suggests neural traction during prolonged retraction may be a contributing mechanism — a modifiable risk factor worth attention.
@@ -213,14 +248,14 @@ Post-orthognathic neurosensory deficit detected
 
 ## Cross-Axis Themes
 
-| Theme | Axis 1 (CHX) | Axis 2 (Saline) | Axis 3 (LLLT) |
+| Theme | Axis 1 (AO prevention) | Axis 2 (Saline) | Axis 3 (LLLT) |
 |---|---|---|---|
-| Evidence level | SR+MA (strongest) | Prospective cohort | Retrospective cohort |
-| Cost of intervention | Very low | Negligible | Moderate (device) |
-| Mechanism | Antimicrobial + anti-inflammatory | Mechanical cell removal | Photobiomodulation |
-| Outcome achieved | 47% AO risk reduction | 87% contamination reduction | 75% symptomatic improvement |
+| Evidence level | SR+MA and SR+NMA (strongest) | Prospective cohort | Retrospective cohort |
+| Cost of intervention | Very low (CHX) to low (PRF, chairside) | Negligible | Moderate (device) |
+| Mechanism | Antimicrobial + anti-inflammatory (CHX); autologous fibrin scaffold (PRF) | Mechanical cell removal | Photobiomodulation |
+| Outcome achieved | 47% AO risk reduction (CHX); PRF OR 0.28 | 87% contamination reduction | 75% symptomatic improvement |
 | Standardized protocol? | Yes (any CHX formulation) | Yes (500–1,500 mL NS) | No — parameters vary |
-| Need for further RCT? | Low (SR+MA already strong) | Moderate (single center, no endpoint metastasis) | High (no RCT data yet) |
+| Need for further RCT? | Low (pairwise and network MA already strong) | Moderate (single center, no endpoint metastasis) | High (no RCT data yet) |
 
 All three interventions share the property of being **additive to standard care** — none replaces the primary surgical technique, each layers on top of it to reduce a known complication class.
 
@@ -228,15 +263,19 @@ All three interventions share the property of being **additive to standard care*
 
 ## Related Papers
 
-
-### 신규 ingest cluster (2026-07-15)
-
-- [[oral-surgery/nerve-injury/daware-2021-assessment-postoperative-discomfort-nerve-injuries]] — Prospective cohort (n=163 impacted M3): transient lingual nerve injury 2.45% (all resolved by 12wk), 0% IAN paresthesia/dry socket/infection — surgical extraction low-morbidity but warrants neurosensory counseling
-
+**Axis 1 — alveolar osteitis prevention:**
 - [[oral-surgery/third-molar/rodriguez-sanchez-2017-chlorhexidine-alveolar-osteitis-third]] — SR+MA, CHX for AO prevention (Axis 1 primary source)
+- [[oral-surgery/third-molar/canellas-2020-intrasocket-ao-third-molar-sr-nma]] — SR+NMA (37 RCTs): intrasocket interventions RR 0.39; PRF OR 0.28 and CHX 0.2% gel OR 0.52 are the well-supported options
+- [[oral-surgery/third-molar/al-aroomi-2025-cgf-third-molar-postop-sr]] — SR on CGF in third molar surgery: pain, bone fill and periodontal benefits, but AO effect uncertain (1/3 studies)
+- [[oral-surgery/heng-2007-smoking-postextraction-complications-female-inmates]] — Retrospective cohort (n=219 female inmates): smoking associated with overall post-extraction complications (P=0.02) and multiple-extraction complications (P=0.03); mandibular third molars (P=0.02) and surgical trauma (P=0.01) independently raised AO risk; AO incidence 5.0% (retrospective, 2007)
+- [[oral-surgery/nerve-injury/daware-2021-assessment-postoperative-discomfort-nerve-injuries]] — Prospective cohort (n=163 impacted M3): transient lingual nerve injury 2.45% (all resolved by 12 wk), 0% IAN paresthesia/dry socket/infection — incidence benchmark for Axis 1 and Axis 3
+
+**Axis 2 — saline irrigation:**
 - [[oral-surgery/shandilya-2025-saline-irrigation-oral-cancer-surgery]] — prospective cohort, saline irrigation in oral cancer surgery (Axis 2 primary source)
+
+**Axis 3 — nerve injury:**
 - [[oral-surgery/nerve-injury/yaniv-klein-2026-orthognathic-surgery-nerve-injuries-treatment]] — retrospective cohort, orthognathic nerve injury treatment (Axis 3 primary source)
-- [[overviews/oral-surgery-decision-ladder]] — companion overview covering third molar IAN risk, coronectomy, PRF, LLLT post-extraction, hemostasis, deep neck infection (22 papers; does not overlap with CHX-AO prevention, saline cancer irrigation, or orthognathic nerve injury treatment)
 - [[oral-surgery/nerve-injury/lee-2015-inferior-alveolar-nerve-injury-management]] — single case report of IAN neuropraxia after third molar extraction; same "no standardized protocol" gap as Axis 3
-- [[oral-surgery/third-molar/al-aroomi-2025-cgf-third-molar-postop-sr]] — SR on CGF in third molar surgery; context for post-operative wound healing interventions
-- [[oral-surgery/heng-2007-smoking-postextraction-complications-female-inmates]] — 후향적 코호트(n=219 여성 수감자): 흡연이 전반적 발치 합병증(P=0.02)·다수 발치 합병증(P=0.03)과 유의 연관; 하악 제3대구치는 흡연 무관 dry socket 독립 위험인자(P=0.02). 흡연이 Axis 1(AO 예방) 에서 교정 가능한 위험인자임을 뒷받침하는 역학 근거. (retrospective, 2007)
+
+**Related overviews:**
+- [[overviews/oral-surgery-decision-ladder]] — companion overview covering third molar IAN risk, coronectomy, PRF, LLLT post-extraction, hemostasis, deep neck infection (22 papers; does not overlap with AO prevention agents, saline cancer irrigation, or orthognathic nerve injury treatment)
