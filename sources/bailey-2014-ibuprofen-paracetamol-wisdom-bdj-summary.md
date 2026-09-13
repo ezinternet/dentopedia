@@ -27,7 +27,7 @@ This BDJ summary adds no original data; it serves as a practitioner-facing disti
 
 코크란 체계적 고찰 CD004624 (Bailey 2013)의 영국치과학회지 (British Dental Journal, BDJ) Verifiable CPD 요약판 — 동일 근거 기반 (이중맹검 무작위대조시험 (Randomized Controlled Trial, RCT) 7편, n=2,241명; 하악 제3대구치 외과적 발치 후 단일용량 경구진통제 비교).
 
-이부프로펜 (Ibuprofen) 400 mg이 파라세타몰 (Paracetamol, 아세트아미노펜) 1000 mg 대비 유의하게 우수(≥50% 통증완화 47% 더 많음; 치료필요수 (Number Needed to Treat, NNT)=4); 병용제 (Nuromol; 시험 arm 파라세타몰/이부프로펜 250/100·500/200·1,000/400 mg)는 최고 효능(); 아스피린 600–900 mg 및 코데인 60 mg + 파라세타몰은 파라세타몰 단독 대비 유의한 이점 없음.
+이부프로펜 (Ibuprofen) 400 mg이 파라세타몰 (Paracetamol, 아세트아미노펜) 1000 mg 대비 유의하게 우수(≥50% 통증완화 47% 더 많음; 치료필요수 (Number Needed to Treat, NNT)=4); 병용제 (Nuromol; 시험 arm 파라세타몰/이부프로펜 250/100·500/200·1,000/400 mg)는 최고 효능(시험 2편); 아스피린 600–900 mg 및 코데인 60 mg + 파라세타몰은 파라세타몰 단독 대비 유의한 이점 없음.
 
 이 BDJ 요약판은 독자적 신규 데이터 없음; 코크란 리뷰의 임상가 접근용 증류본으로, 발치 후 제3대구치 통증 관리에서 이부프로펜 400 mg 1차 선택·병용제 최고 효능 메시지를 치과 임상 맥락에서 재확인.
 
