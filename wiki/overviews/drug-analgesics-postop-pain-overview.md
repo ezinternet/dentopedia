@@ -440,6 +440,7 @@ p=0.002, 명확한 차이.
 - [[drug/analgesics/becker-2010-pain-management-part-1]] — 2010 narrative CE review: NSAIDs가 통상 용량 opioid보다 급성 치과 통증에 우월; 진통 ceiling dose(ibuprofen 400mg, APAP 1000mg); equianalgesic opioid 용량 도표; Step 1 ibuprofen→Step 2 opioid 교육 프레임워크 — guideline 이전 근거 정리로 역사적 참고 (narrative/CE, 2010)
 - [[drug/analgesics/etikala-2019-nsaids-periodontal-implant-therapy-review]] — COX-2 골유착 우려
 - [[drug/analgesics/gomes-2025-nsaids-kidney-toxicity-icu-retrospective]] — NSAID AKI OR 1.98
+- [[drug/analgesics/dominiczak-2025-nsaid-alcohol-interaction-review]] — NSAIDs–알코올 상호작용 narrative 리뷰: CYP2E1 유도·ADH 경쟁으로 NSAID 대사 변화, 병용 시 위장관 출혈·신장독성 증가; 처방 시 음주 이력 확인 및 회피 권고 (narrative-review, 2025)
 - [[drug/analgesics/zingel-2025-nsaids-cardiovascular-risk-inflammatory-arthritis]] — RA·AS 환자 NSAID CV 안전
 - [[drug/analgesics/beaudart-2025-celecoxib-safety-musculoskeletal-sr-ma]] — Celecoxib umbrella review: GI 안전 우수(moderate), CV·신장 비열등(low certainty), 14/16 SR critically low
 
