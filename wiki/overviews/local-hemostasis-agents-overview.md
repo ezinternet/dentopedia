@@ -17,6 +17,7 @@ source_papers:
   - drug/anticoagulants/kaya-2025-postoperative-bleeding-pain-doac-extraction
   - drug/anticoagulants/dudek-2026-biphasic-calcium-sulfate-bleeding-anticoagulants
   - drug/anticoagulants/tang-2025-chitosan-antibacterial-hemostatic-sponge-extraction
+  - oral-surgery/mahmoudi-2023-gelatin-hemostatic-sponge-extraction-rct
 evidence_level: synthesis
 source: synthesis
 ---
@@ -169,7 +170,10 @@ Head-to-head 근거는 작지만 일관된다 — 이중항혈소판요법 환�
 - [[oral-surgery/dinkova-2025-local-hemostasis-oral-surgery-review]] — 서술적 고찰 51편 (1990–2023): 제제별 정량 효능의 주 출처 — 산화셀룰로오스 85%↑, L-PRF 30–50%, TXA 양치 50–60%, 피브린 70–90%, 국소 TXA 80%. (narrative-review, 2025)
 - [[endodontics/he-2026-hemostatic-agents-periapical-surgery-sr-ma]] — SR+MA 10편 388치 + 네트워크 메타분석: 근관외과 6종 제제, 통합 63±6.6%, 제제 간 global 유의차 없음, NMA상 에피네프린·AlCl₃ > 콜라겐, 지혈 효능↔예후 무관. **이 모음의 최상위 근거.** (sr+ma, 2026)
 
-### Head-to-head 비교
+### 일반 발치와 (루틴)
+- [[oral-surgery/mahmoudi-2023-gelatin-hemostatic-sponge-extraction-rct]] — 분구강 이중맹검 RCT(n=26): 신규 가교 젤라틴 스폰지 vs Gelfoam, 하악 대구치; 출혈(흡혈 가제 중량 3.97 vs 6.32 g)·통증·dry socket 모두 신규 스폰지 우위. 루틴 발치와에서 젤라틴 스폰지 간 head-to-head 희귀 데이터. (rct, 2023)
+
+### Head-to-head 비교 (항응고)
 - [[drug/anticoagulants/al-suliman-2025-surgicel-gelfoam-post-extraction-bleeding-anticoagulant]] — 분악 전향시험 40명/80소켓: 항응고 환자 발치와에서 Surgicel > Gelfoam (지혈·지연출혈·치유·통증). (prospective, 2025)
 - [[drug/anticoagulants/guardieiro-2023-chitosan-cellulose-hemostasis-dapt-rct]] — within-person 단일맹검 RCT: 이중항혈소판 환자에서 키토산 > 산화셀룰로오스 (출혈시간·치유). (rct, 2023)
 
