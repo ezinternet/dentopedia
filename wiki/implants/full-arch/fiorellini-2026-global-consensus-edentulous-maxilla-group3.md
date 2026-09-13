@@ -43,7 +43,24 @@ S2k-level consensus guideline following AWMF framework. Evidence synthesis inclu
 - Covers: diagnostic imaging, augmentation, complication management
 - Evidence gaps identified: PROMs, long-term outcomes, maintenance
 
+### Recommendations and survey findings (extracted from PDF, 2026-09-13)
+
+Group 3's recommendations as numbered in the companion guideline ([[implants/full-arch/schwarz-2026-global-consensus-edentulous-maxilla-guidelines]]):
+
+- **WG3_Rec1** — 3D imaging (preferably CBCT or CT) for all patients undergoing full-arch implant therapy (shared with WG1_Rec2).
+- **WG3_Rec2** — in vertical bone augmentation (onlay grafts or guided bone regeneration), rigidly fix particulate graft material and barrier membrane with tacks or screws to prevent micromovement and early exposure.
+- **WG3_Rec3** — soft-tissue grafting (at implant placement or second-stage surgery) when keratinized mucosa is insufficient.
+- **WG3_Rec4** — addresses Schneiderian membrane perforation, identified as one of the most frequent complications requiring management during sinus augmentation.
+
+Expert-survey findings reported in this paper (descriptive, not recommendations):
+
+- With adequate anterior maxillary bone, 50.0% of responding experts preferred implant placement confined to the anterior region without grafting.
+- In severe maxillary atrophy, 55.1% favored standard-length implants with sinus augmentation or bone grafting over short or zygomatic implants.
+- CT/CBCT scans were strongly recommended (96.5%); preoperative sinus assessment before lateral (96.6%) or crestal (90.6%) sinus lifts reached high agreement.
+- Routine antibiotic use during full-arch implant placement did not reach consensus, although 68.1% of experts reported always prescribing prophylactic antibiotics and 26.7% prescribed selectively.
+
 ## Related Papers
 
 - [[implants/full-arch/schwarz-2026-global-consensus-edentulous-maxilla-guidelines]] — companion guideline with Core Outcome Set
 - [[implants/full-arch/kern-2018-single-implants-edentulous-mandible-immediate]] — mandibular rehabilitation context
+- [[overviews/full-arch-fixed-four-vs-six-implants-overview]] — four-vs-six synthesis; the anterior-only graftless preference informs when a four-implant plan remains reasonable
