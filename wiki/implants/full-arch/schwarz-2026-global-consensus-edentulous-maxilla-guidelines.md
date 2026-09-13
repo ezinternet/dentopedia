@@ -45,7 +45,19 @@ Multi-phase S2k-level guideline development: (1) 8 systematic reviews on ClinROs
 - Covers: patient selection → diagnostics → treatment → complications → maintenance
 - Emphasis: shared decision-making, prosthetically driven, risk-based maintenance
 
+### Recommendations relevant to fixed full-arch planning (extracted from PDF, 2026-09-13)
+
+- **Implant number — fixed (WG1_Rec4):** a fixed full-arch implant-supported prosthesis requires a minimum of four implants, with five or six implants preferred when anatomy allows, to improve support and stability and reduce the risk of overload or technical complications. The guideline text adds that implants should be distributed to maximize anteroposterior spread and splinted in a rigid cross-arch design, and that five to six implants are preferred to reduce cantilever length and distribute occlusal loads.
+- **Implant number — overdenture (WG1_Rec5):** at least four implants for a maxillary implant overdenture, because two-implant maxillary overdentures showed higher failure and complication rates.
+- **Imaging and planning (WG1_Rec2 / WG3_Rec1; WG1_Rec3 / WG4_Rec6):** 3D imaging (preferably CBCT or CT) for all full-arch implant patients; prosthetically driven static or dynamic guided surgery wherever feasible, freehand where guidance adds no value.
+- **Immediate protocols (WG1_Rec6–7):** immediate placement is viable with adequate primary stability and no acute infection or anatomical limitation; immediate loading with a screw-retained provisional full-arch prosthesis is recommended whenever possible (immediate or healed sites with good bone quality).
+- **Occlusion (WG1_Rec11):** plan the occlusal scheme from jaw relationship, opposing dentition, implant distribution and prosthesis type to minimize off-axis forces.
+- **Definitive prosthesis (WG4_Rec9–10):** screw retention strongly recommended over cementation; metal-based framework (titanium or cobalt–chromium) with layered ceramic, or monolithic milled zirconia, with minimal cantilever; a one-piece cross-arch framework is generally preferred and segmentation is not routine.
+- **Parafunction (WG4_Rec12):** patients with bruxism or heavy occlusal forces should receive a hard acrylic night guard to reduce prosthesis fracture, screw loosening and other complications.
+- **Augmentation and soft tissue (WG3_Rec2–3):** rigid fixation (tacks or screws) of particulate graft and membrane in vertical augmentation; soft-tissue grafting when keratinized mucosa is insufficient.
+
 ## Related Papers
 
 - [[implants/full-arch/fiorellini-2026-global-consensus-edentulous-maxilla-group3]] — Group 3 consensus on imaging/augmentation/complications
 - [[implants/full-arch/kern-2018-single-implants-edentulous-mandible-immediate]] — mandibular edentulism context
+- [[overviews/full-arch-fixed-four-vs-six-implants-overview]] — synthesis where WG1_Rec4 (minimum four, five to six preferred) revises the four-vs-six decision rule
