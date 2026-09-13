@@ -17,6 +17,8 @@ source_papers:
   - drug/analgesics/bakri-2024-prednisolone-prescribing-styles-third-molar
   - drug/analgesics/ibikunle-2016-prednisolone-qol-third-molar-rct
   - drug/analgesics/buyukkurt-2006-prednisolone-diclofenac-third-molar-rct
+  - drug/analgesics/canellas-2022-corticosteroids-third-molar-nma
+  - drug/analgesics/miroshnychenko-2023-corticosteroids-third-molar-acute-pain-sr-ma
 ---
 
 > [!summary] 한국어 핵심요약
@@ -51,7 +53,7 @@ Clinical prescribing refinements with evidence support: preoperative timing over
 
 ## 1. Evidence Base
 
-This overview synthesizes 11 papers: five SR+MAs and one narrative review defining the population-level evidence, plus five RCTs probing specific drug choices, routes, and dosing schedules.
+This overview synthesizes 13 papers: two network meta-analyses, four SR+MAs, one narrative review, and five RCTs probing specific drug choices, routes, and dosing schedules.
 
 | Paper | Design | n | Key focus |
 |---|---|---|---|
