@@ -60,3 +60,11 @@ quartz/.quartz-cache/
 
 # Smart Connections cache (binary blobs, 100MB+ files)
 .smart-env/
+
+# Obsidian hybrid search SQLite database (binary, local index)
+.obsidian-hybrid-search.db
+.obsidian-hybrid-search.db-shm
+.obsidian-hybrid-search.db-wal
+
+# Copilot model catalog cache (auto-generated)
+.copilot/model-catalog-cache.json
