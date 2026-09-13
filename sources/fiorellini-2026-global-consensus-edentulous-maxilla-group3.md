@@ -42,6 +42,8 @@ This consensus report from Working Group 3 of the 1st Global Consensus for Clini
 - Voting participation: 68-88 per recommendation (mean 79/105)
 - Consensus threshold: ≥75% but ≤95% for consensus, >95% for strong consensus
 - Covers: diagnostic imaging, soft/hard tissue augmentation, complication management
+- **Recommendations (numbering per companion guideline; PDF re-read 2026-09-13):** WG3_Rec1 — CBCT/CT for all full-arch patients; WG3_Rec2 — rigid fixation (tacks/screws) of particulate graft and membrane in vertical augmentation; WG3_Rec3 — soft-tissue grafting for insufficient keratinized mucosa; WG3_Rec4 — management of Schneiderian membrane perforation during sinus augmentation
+- **Expert-survey findings (descriptive):** adequate anterior maxillary bone → 50.0% preferred anterior-only placement without grafting; severe atrophy → 55.1% favored standard-length implants with sinus augmentation/grafting over short or zygomatic implants; CT/CBCT strongly recommended (96.5%); routine antibiotics did not reach consensus (68.1% always prescribe, 26.7% selectively)
 
 ## 5. Limitations and Future Work
 - Evidence gaps in standardized PROMs
