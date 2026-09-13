@@ -43,6 +43,15 @@ S2k 수준 지침으로, 26개국 105명 전문가의 3라운드 델파이 과�
 - COS: 34 outcomes (10 PROs, 22 ClinROs, 2 subjective ClinROs)
 - All recommendations reached consensus
 - Clinical workflow checklist + decision trees provided
+- **Full-arch recommendations (PDF re-read 2026-09-13):**
+  - WG1_Rec4 — fixed full-arch prosthesis: minimum 4 implants; 5–6 preferred when anatomy allows (better support/stability, lower overload and technical-complication risk, shorter cantilever); maximize anteroposterior spread, rigid cross-arch splinting
+  - WG1_Rec5 — maxillary implant overdenture: ≥4 implants (two-implant designs showed higher failure and complication rates)
+  - WG1_Rec2 / WG3_Rec1 — CBCT or CT for all full-arch patients; WG1_Rec3 / WG4_Rec6 — prosthetically driven guided surgery wherever feasible
+  - WG1_Rec6–7 — immediate placement if primary stability is adequate and no acute infection; immediate loading with a screw-retained provisional whenever possible
+  - WG1_Rec11 — occlusal scheme planned from jaw relationship, opposing dentition, implant distribution and prosthesis type
+  - WG4_Rec9–10 — screw-retained definitive prosthesis; Ti or Co–Cr metal-based framework with layered ceramic, or monolithic milled zirconia; minimal cantilever; one-piece cross-arch framework
+  - WG4_Rec12 — hard acrylic night guard for bruxism or heavy occlusal forces
+  - WG3_Rec2–3 — rigid fixation of graft and membrane in vertical augmentation; soft-tissue grafting for insufficient keratinized mucosa
 
 ## 5. Limitations and Future Work
 - Implementation varies by regional healthcare systems
