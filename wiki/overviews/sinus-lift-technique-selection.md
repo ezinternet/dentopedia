@@ -10,6 +10,8 @@ source_papers:
   - wiki/sinus-lift/transcrestal/stacchi-2022-transcrestal-sinus-complications-low-rbh.md
   - wiki/sinus-lift/transcrestal/duan-2017-graft-free-maxillary-sinus-floor-elevation-sr-ma.md
   - wiki/sinus-lift/transcrestal/al-aroomi-2024-cgf-maxillary-sinus-augmentation-sr.md
+  - wiki/sinus-lift/lateral/derbishi-2026-maxillary-sinus-augmentation-implant-survival-sr-ma.md
+  - wiki/sinus-lift/lateral/ye-2025-rrh-sinus-membrane-perforation-sr-ma.md
 evidence_level: synthesis
 source: synthesis
 ---
@@ -17,12 +19,14 @@ source: synthesis
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
-> - 상악동거상술 (Sinus Lift) 22편 (측방창 12 + 경치조골 10) 을 횡단 합성해 잔존골 높이별 술식 선택을 4개 결정 축으로 매트릭스화한 페이지다.
+> - 상악동거상술 (Sinus Lift) 24편 (측방창 14 + 경치조골 10) 을 횡단 합성해 잔존골 높이별 술식 선택을 4개 결정 축으로 매트릭스화한 페이지다.
 > - 핵심 임계값: 잔존골높이 (Residual Bone Height, RBH) ≥5mm = 경치조골 거상 (Transcrestal/TSFE) 1순위, <5mm = 측방창 (Lateral/LSA) 1순위 — 5mm가 critical threshold이며, 골밀도화 (Osseodensification, OD) 도입 시 4mm까지 TSFE 영역 확장. [확인]
 > - 모든 술식의 임플란트 생존율은 97–99%로 동등하다 — 신규(Shah 2022 SR+MA, 17편/1,259개): 직접법(측방창) 96.9% vs 간접법(치조정 등) 97.0%, 최초의 formal head-to-head 검증(유의차 없음). [확인]
+> - **신규(Derbishi 2026 SR+MA)**: 상악동거상술 후 임플란트 장기 생존 >97% 재확인; 경치조골 실패율이 측방창보다 낮은 경향은 **환자선택 편향으로 명시 귀속** — RBH 낮은 케이스가 측방창으로 분류되기 때문이며 기법 우위 근거 아님; 근거 확실성 낮음. [확인]
 > - 경치조골 내부 술기: OD가 오스테오톰 (osteotome) 대비 식립·지대주 연결 시 ISQ 유의하게 높고 (66.17 vs 54.83), 수술시간·합병증·진통제 모두 감소 — 단 SR+MA GRADE는 낮음 (Starch-Jensen 2025). [확인]
 > - 천공의 결정 원리: 천공 자체가 결과를 좌우하지 않고 봉합 가능 여부가 결정 — 적절히 봉합된 천공 생존율 97.68% vs 무손상 98.88% (유의차 없음, Diaz-Olivares 2021). [확인]
 > - 천공 위험 신호: 격벽 (septa) 존재 (OR >2), 측벽 두께 >2mm, 그리고 협구개 상악동 폭 (sinus width) >12mm (넓은 동, 천공 16.1% vs 좁은 동 1.1%, 조기실패까지 독립 예측, Stacchi 2022).
+> - **신규(Ye 2025 SR+MA)**: 잔존치조골 높이 (Residual Ridge Height, RRH) <4mm가 측방창 슈나이더막 천공 독립 위험인자로 SR+MA 수준 확인 — 10편/1,601명/1,809술, 통합 천공률 19.2%; RRH <4mm OR 4.68 (이상값 제거 후, p<0.05); 이질성 높음(I²=88–90%) — 술전 CBCT에서 RRH <4mm 시 피에조 전환·봉합재 준비 권장. [확인]
 > - 대천공 (≥10mm) 후 즉시 재시도는 동물실험상 신생골 50% 감소 → 2단계로 전환 권장. [미검증]
 > - 이식재 (graft) 종류는 생존율·최종 ISQ에 영향 없음 (DBBM·자가골·합성 HA/β-TCP 동등); 결정화도 (crystallinity) 가 높으면 ISQ 회복이 빠르고, 선택은 흡수 프로파일·비용 기준 (Del Fabbro 2025). [확인]
 > - 비이식 (graft-free) TSFE: 잔존골이 임플란트 길이의 약 50% 이상 확보되면 이식재 불요 — 혈병/PRF만으로 생존율 97.9%, 수직 골증대 (VBG) 3.8mm (Duan 2017 SR+MA). [확인]
@@ -35,7 +39,7 @@ source: synthesis
 
 ## Three-line Summary
 
-Synthesis of 22 sinus-lift papers (12 lateral-window, 10 transcrestal) building a residual bone height (RBH) algorithm and risk-factor matrix across 4 decision axes: RBH-based technique choice, within-transcrestal technique selection, perforation risk/management, and graft/barrier-membrane necessity.
+Synthesis of 24 sinus-lift papers (14 lateral-window, 10 transcrestal) building a residual bone height (RBH) algorithm and risk-factor matrix across 4 decision axes: RBH-based technique choice, within-transcrestal technique selection, perforation risk/management, and graft/barrier-membrane necessity.
 
 Implant survival is equivalent across all techniques (97–99%; formally confirmed head-to-head by Shah 2022 SR+MA: direct 96.9% vs indirect 97.0%, NS); the critical RBH threshold is 5 mm (≥5 mm → transcrestal/TSFE, <5 mm → lateral window, extendable to 4 mm with osseodensification); within-transcrestal, osseodensification outperforms osteotome on ISQ (66.17 vs 54.83) and reduces complications (Starch-Jensen 2025 SR+MA, Low GRADE); a competently repaired perforation does not affect survival (97.68% vs 98.88% intact, Diaz-Olivares 2021); graft material is survivorship-neutral; routine barrier membranes are not evidenced.
 
@@ -43,7 +47,7 @@ Key risk predictors: septa (OR >2), lateral-wall thickness >2 mm, and sinus widt
 
 ## 세줄요약
 
-22편+3편 종합(측방창 12+3, 경치조골 10) — 잔존골높이(RBH) 기반 알고리듬과 위험인자 매트릭스; 모든 술식 임플란트 생존율 97–99% 동등(Shah 2022 formal head-to-head SR+MA로 재확인: 직접 96.9% vs 간접 97.0%, 유의차 없음).
+24편+3편 종합(측방창 14+3, 경치조골 10) — 잔존골높이(RBH) 기반 알고리듬과 위험인자 매트릭스; 모든 술식 임플란트 생존율 97–99% 동등(Shah 2022 formal head-to-head SR+MA로 재확인: 직접 96.9% vs 간접 97.0%, 유의차 없음).
 
 결정 임계값: RBH ≥5 mm → 경치조골거상(Transcrestal SFE, TSFE) 1순위(골밀도화(OD) 적용 시 4 mm까지 확장), <5 mm → 측방창(Lateral Sinus Approach, LSA) 1순위; TSFE 내부 선택은 OD가 오스테오톰 대비 ISQ 높음(66.17 vs 54.83)·합병증 감소(Starch-Jensen 2025, 낮은 GRADE); 적절히 봉합된 천공은 생존율 영향 없음(97.68% vs 무손상 98.88%); 이식재 종류는 생존율 중립; 차폐막 루틴 사용 근거 없음.
 
@@ -93,7 +97,7 @@ CBCT RBH 측정
 | **sr+ma (17편, n=1,259 implants)** | [[sinus-lift/lateral/shah-2022-survival-rate-dental-implant-placed]] | 직접법(측방창) vs 간접법(치조정/골절단기·풍선·피에조) **formal head-to-head 생존율 비교** — 96.9%(337개) vs 97.0%(922개), 통계적 유의차 없음 | 6+13 studies, I²=0% |
 | **retrospective (n=11)** | [[sinus-lift/transcrestal/cho-2024-crestal-sinus-augmentation-limited-bone]] | **RBH <3mm에서도 전용 경치조골 키트로 TSFE 가능** — 골높이 2.1→8.8mm(+6.7mm, p<0.001), 천공 0건, 2단계(평균 202일 치유); 기존 "<3mm=측방창 표준" 문턱을 도전하나 소규모·대조군·임플란트 생존데이터 부재 | 서울성모병원 |
 
-[확인] **5mm가 critical threshold**. 단, OD 도입 시 4mm까지 TSFE 가능 영역 확장. **모든 술식 생존율 97–99% 동등**이라는 위 결론은 그동안 narrative-review·개별 SR 인용에 의존했는데, Shah 2022가 처음으로 직접법·간접법 양쪽을 대칭적 random-effects 비율 메타분석으로 직접 head-to-head 검증해(I²=0%, 양쪽 모두 저이질성) 정식 근거를 제공한다 — RBH 기준 기법 선택이라는 이 페이지의 핵심 원칙(원칙 2·3)을 통계적으로 뒷받침.
+[확인] **5mm가 critical threshold**. 단, OD 도입 시 4mm까지 TSFE 가능 영역 확장. **모든 술식 생존율 97–99% 동등**이라는 위 결론은 그동안 narrative-review·개별 SR 인용에 의존했는데, Shah 2022가 처음으로 직접법·간접법 양쪽을 대칭적 random-effects 비율 메타분석으로 직접 head-to-head 검증해(I²=0%, 양쪽 모두 저이질성) 정식 근거를 제공한다 — RBH 기준 기법 선택이라는 이 페이지의 핵심 원칙(원칙 2·3)을 통계적으로 뒷받침. **Derbishi 2026 SR+MA는 장기 생존 >97%를 추가 확인**하나, 경치조골의 실패율이 측방창보다 낮은 경향을 보고하면서도 **이를 환자선택 편향으로 명시 귀속**한다 — RBH 낮은 케이스가 측방창으로 선별되기 때문이며, 기법 우위 해석 불가 (근거 확실성 낮음).
 
 ---
 
@@ -141,6 +145,7 @@ CBCT RBH 측정
 |---|---|---|
 | **sr+ma** | [[sinus-lift/lateral/diaz-olivares-2021-schneiderian-membrane-perforation-sinus-lift]] | **천공률 30.6%; 봉합 후 생존 97.68% vs 무손상 98.88% — 유의차 없음** |
 | **sr+ma** | [[sinus-lift/lateral/yang-2024-sinus-septa-wall-thickness-perforation-risk]] | 격벽 존재 → 천공 OR >2; **측벽 두께 >2mm → 천공 위험 증가** |
+| **sr+ma (2025)** | [[sinus-lift/lateral/ye-2025-rrh-sinus-membrane-perforation-sr-ma]] | **RRH <4mm 독립 천공 위험인자 첫 SR+MA** — 10편/1,601명/1,809술; 통합 천공률 19.2%; RRH <4mm OR 2.47(NS, 전체) → **OR 4.68(p<0.05, 이상값 제거)**; I²=88–90% 높은 이질성 |
 | **animal** | [[sinus-lift/lateral/lim-2026-reentry-sinus-elevation-membrane-perforation]] | 대천공(≥10mm) 후 8주 재시도 시 신생골 면적 유의 감소 (5.8 vs 10.5 mm², p<0.05) |
 | **retrospective(n=430)** | [[sinus-lift/transcrestal/stacchi-2022-transcrestal-sinus-complications-low-rbh]] | **협구개 상악동 폭 >12mm가 천공·조기실패 양쪽의 독립 위험인자** (천공 좁은 동 1.1% vs 넓은 동 16.1%, OR 15.5; 조기실패 OR 8.5) |
 | **narrative-review** | [[sinus-lift/lateral/park-2025-maxillary-sinus-hypoplasia-implant-review]] | 상악동 저형성 (MSH) 3가지 변형 — CBCT 3D 진단 필수 |
@@ -149,6 +154,7 @@ CBCT RBH 측정
 - 천공 자체는 결과를 결정하지 않는다. **봉합 가능 여부**가 결정.
 - 격벽·측벽 두께 >2mm는 사전 CBCT로 식별 필요한 핵심 위험 신호.
 - **협구개 상악동 폭 >12mm (넓은 동)**도 핵심 위험 신호 — TSFE RBH≤5mm에서 천공률 16.1% vs 좁은 동 1.1%, 조기실패까지 독립 예측 (Stacchi 2022 retrospective n=430). 넓은 동은 골벽-임플란트 거리 증가로 골형성 잠재력 자체가 낮음. [확인]
+- **잔존치조골 높이 (RRH) <4mm**가 SR+MA 수준 독립 천공 위험인자로 확인됨 (Ye 2025, 10편/1,601명): 측방창 천공 통합률 19.2%; RRH OR 2.47(NS) → OR 4.68(p<0.05, 이상값 제거); 이질성 높음(I²=88%) — 이상값 1편이 결과를 좌우하나 방향은 일관됨. 술전 CBCT에서 RRH <4mm 식별 시 **피에조 전환 + 봉합재 준비 권장**. [확인]
 - 대천공 (≥10mm) 후 즉시 재시도는 동물실험상 골형성 50% 감소 — **2단계로 전환 권장** [미검증].
 - MSH 의심 시 CBCT 3D 재구성 필수.
 
@@ -156,7 +162,7 @@ CBCT RBH 측정
 
 CBCT에서 반드시 확인할 6항목:
 
-1. **RBH (잔존골 높이)** — 5mm 기준
+1. **RBH (잔존골 높이) / RRH (잔존치조골 높이, Residual Ridge Height)** — RBH 5mm 기준 (TSFE vs 측방창 분기); RRH <4mm = 측방창 천공 독립 위험인자 (Ye 2025 SR+MA, OR 4.68) → 피에조 전환 표시
 2. **격벽 (Septa) 유무·위치** — 천공 위험 OR >2
 3. **측벽 두께** — >2mm 천공 위험 신호
 4. **협구개 상악동 폭 (SW)** — 10mm 높이에서 측정, >12mm = 넓은 동 → 천공·조기실패 위험 (Stacchi 2022)
@@ -202,12 +208,12 @@ CBCT에서 반드시 확인할 6항목:
 
 | 임상 결정 | 강한 결론 (sr+ma·sr·rct) | 보조 근거 (prospective·narrative) | 미해결 영역 |
 |---|---|---|---|
-| RBH 기준 술식 선택 | 5mm = 결정 임계값 (Sirinirund 2025 SR n=2,732); **직접 vs 간접 head-to-head 생존율 무차이 96.9% vs 97.0%** (Shah 2022 SR+MA, 17편/1,259개) | OD로 4mm까지 TSFE 가능 (Shalash 2023) | 3–4mm 회색지대 RCT |
+| RBH 기준 술식 선택 | 5mm = 결정 임계값 (Sirinirund 2025 SR n=2,732); **직접 vs 간접 head-to-head 생존율 무차이 96.9% vs 97.0%** (Shah 2022 SR+MA, 17편/1,259개); **장기 생존 >97% 재확인** (Derbishi 2026 SR+MA; 경치조골 실패 적음은 환자선택 편향) | OD로 4mm까지 TSFE 가능 (Shalash 2023) | 3–4mm 회색지대 RCT |
 | TSFE 술기 선택 | **OD > 오스테오톰** (Starch-Jensen 2025 SR+MA) | 풍선·수압·내시경 = 모두 유효 (Sirinirund 2025) | OD vs 풍선 직접 비교 |
 | 이식재 종류 | **모두 동등** (Del Fabbro 2025 SR; Jelusic 2014) | 결정화도↑ → ISQ 회복 빠름 | 장기(>5년) 데이터 |
 | 차폐막 사용 | **루틴 사용 근거 없음** (Starch-Jensen 2019 SR+MA, RCT-only) | ~~Wallace 2003 메타회귀는 반대(막 피개→생존율↑)였으나 RCT-only 재검증에서 미재현~~ — 근거 반전 사례 | — |
 | 측창 폐쇄 방식 | 막 vs 무피개 무차이 (Starch-Jensen 2019) | **골개(Bone Lid) 3rd option** — 동물 신생골형성 우위, 임상은 막·자가골과 무차이 (Schiavon 2022 SR+MA) | 골개 인체 RCT 데이터 |
-| 천공 관리 | **봉합 가능 시 결과 동등** (Diaz-Olivares 2021 SR+MA) | 격벽·측벽 두께 사전 평가 (Yang 2024 SR+MA) | 대천공 재시도 timing |
+| 천공 관리 | **봉합 가능 시 결과 동등** (Diaz-Olivares 2021 SR+MA); **RRH <4mm 독립 위험인자** (Ye 2025 SR+MA, OR 4.68) | 격벽·측벽 두께·RRH 사전 평가 (Yang 2024, Ye 2025 SR+MA) | 대천공 재시도 timing |
 | 비이식 TSFE | **잔존골 충분 시 99% 생존** (Guo 2020 SR+MA) | PRF 단독 + 동시 식립 가능 (Liu 2018 case) | RBH 컷오프 정량화 |
 | 동반 합병증 | tSFE 당일↑, 이후 2주 ↓ (Farina 2018 RCT) | 환자 설명 시 분리해 안내 | — |
 | 단임플란트 대안 | 단(≤6mm) = 표준+거상 동등 (Toledano 2022 SR+MA) | MBL 더 적음 | 5년 이상 격차 |
@@ -278,6 +284,11 @@ CBCT에서 반드시 확인할 6항목:
 - 만성 부비동염 환자 거상술 결과
 
 ## Related Papers
+
+### 신규 추가 (2026-09-13)
+
+- [[sinus-lift/lateral/derbishi-2026-maxillary-sinus-augmentation-implant-survival-sr-ma]] — SR+MA (2026): 상악동거상술 후 임플란트 장기 생존 >97% 재확인; 경치조골 실패율이 측방창보다 낮은 경향은 환자선택 편향으로 명시 귀속 — 기법 우위 근거 아님; 근거 확실성 낮음. (sr+ma, 2026)
+- [[sinus-lift/lateral/ye-2025-rrh-sinus-membrane-perforation-sr-ma]] — SR+MA (2025): 잔존치조골 높이 (RRH)와 슈나이더막 천공의 첫 전용 SR+MA; 10편/1,601명/1,809술, 측방창 천공 19.2%; RRH <4mm OR 4.68 (이상값 제거, p<0.05); I²=88–90% 높은 이질성. (sr+ma, 2025)
 
 ### 신규 추가 (2026-08-09)
 
