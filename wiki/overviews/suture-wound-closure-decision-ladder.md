@@ -7,6 +7,32 @@ type: overview
 category: [overviews]
 tags: [suture, wound-closure, primary-closure, secondary-closure, sutureless, third-molar, tension-free-closure, flap-advancement, periosteal-releasing-incision, GBR, titanium-mesh, cyanoacrylate, tissue-adhesive, suture-pattern, biomechanics, free-gingival-graft, sling-suture, mandible, mental-nerve, facial-artery, diode-laser, double-flap-incision, palatal-releasing-incision, amnion-chorion-membrane, donor-site-healing]
 source_papers:
+  - wiki/suture-wound-closure/takadoum-2022-sutureless-socket-technique-third-molars.md
+  - wiki/suture-wound-closure/kumar-2022-suture-versus-sutureless-third-molar-impactions.md
+  - wiki/suture-wound-closure/sen-2024-sutureless-multiple-suture-third-molar-inflammation.md
+  - wiki/suture-wound-closure/pachipulusu-2018-primary-secondary-closure-third-molar.md
+  - wiki/suture-wound-closure/aghdashi-2020-sling-single-interrupted-sutures-third-molar.md
+  - wiki/suture-wound-closure/plonka-2017-flap-designs-flap-advancement-implant-therapy.md
+  - wiki/suture-wound-closure/attia-2023-coronally-advanced-lingual-flap-titanium-mesh.md
+  - wiki/suture-wound-closure/bahaa-2022-evaluation-bone-gain-horizontal-ridge.md
+  - wiki/suture-wound-closure/ogata-2013-comparison-double-flap-incision-periosteal.md
+  - wiki/suture-wound-closure/shahnaz-2017-diode-laser-scalpel-periosteal-incision.md
+  - wiki/suture-wound-closure/moslemi-2016-periosteal-releasing-incision-diode-laser-gbr.md
+  - wiki/suture-wound-closure/iwanaga-2019-releasing-incisions-buccal-periosteum-adjacent.md
+  - wiki/suture-wound-closure/hur-2025-modified-periosteal-releasing-incision-mpri.md
+  - wiki/suture-wound-closure/kim-2015-clinical-study-flap-advancement-without-vertical.md
+  - wiki/suture-wound-closure/kim-2017-palatal-releasing-incision-soft-tissue-closure.md
+  - wiki/suture-wound-closure/raabe-2025-impact-two-flap-advancement-techniques.md
+  - wiki/suture-wound-closure/stankovic-2018-use-acellular-collagen-matrix-closure.md
+  - wiki/suture-wound-closure/wang-2024-poncho-technique-titanium-mesh-bone-regeneration.md
+  - wiki/suture-wound-closure/shakibaie-2023-roll-in-envelope-flap-holding-suture.md
+  - wiki/suture-wound-closure/knoell-2011-basic-lattice-stitch-quantitative-efficacy.md
+  - wiki/suture-wound-closure/marsidi-2020-measuring-forces-suture-techniques-wound-closure.md
+  - wiki/suture-wound-closure/look-2022-novel-superficial-suture-pattern-tensile-strength.md
+  - wiki/suture-wound-closure/pabst-2024-cyanoacrylate-tissue-adhesive-coronally-advanced-flap.md
+  - wiki/suture-wound-closure/shakiliyeva-2025-conventional-modified-sling-suture-free-gingival-graft.md
+  - wiki/suture-wound-closure/lee-2026-clinical-and-histological-outcomes.md
+  - wiki/suture-wound-closure/jeevitha-2025-tissue-adhesives-vs-sutures-periodontal-flap-sr-ma.md
 evidence_level: synthesis
 source: synthesis
 relations:
@@ -33,19 +59,20 @@ relations:
 > - 봉합패턴 생역학(in-vitro): pulley suture가 폐쇄 견인력 최소(3.46 N)로 효율 최고, basic lattice가 장력 분산 54.4% 우수, cyanoacrylate+봉합 병용이 면접착 8.50 N 최고. horizontal mattress는 견인·파단 모두 열위 → 고장력 1차 부적합.
 > - 유리치은이식(FGG): 결과를 가르는 건 봉합 기교가 아니라 이식편 채취·디자인(gingival unit transfer, GUT)이 수축 감소의 핵심(Shakiliyeva 2025). 메타-교훈 — 봉합 패턴은 안정화 도구일 뿐, 1차 결정자는 그 위/아래의 조직·창상 조건.
 > - 한국 임상 메모: ① 단순 발치 봉합 강박 줄여도 안전(환자 안심·출혈 관리 목적 봉합은 별개), ② GBR은 촘촘한 봉합보다 골막이완절개로 장력 자체를 0으로 만드는 것이 우선, ③ 하악구치부는 제1·2대구치 사이 혈관위험구역을 항상 의식, ④ cyanoacrylate는 국내 허가범위 확인 후 보조 사용(1차 폐쇄 대체 아님).
-> - 근거 한계: 이 카테고리에 SR+MA 부재(최강 근거 = SR 1편 plonka + RCT 10편). 하악구치부 해부학적 위험구역 근거는 사체연구 1편(Iwanaga, n=14 sides)뿐 — 생체 혈역학 미반영. in-vitro→임상 외삽 갭, "무장력" 정량 도구 미정립.
+> - 조직접착제(tissue adhesive) SR+MA: jeevitha 2025(치주판막수술 한정, 10 RCT·255명) — 창상치유지수는 봉합과 동등(SMD −0.50, p=0.29, GRADE moderate); 통증은 7/7 연구에서 접착제 유리, 심미도 3/3 유리; **단 발표편향 강의심**(Egger p=0.003) → 통증·심미 개선 결론은 선별적으로 수용. 이 근거는 치주판막수술 특이적 — 발치와 sutureless·GBR 고장력 폐쇄로 직접 외삽 불가.
+> - 근거 한계: SR+MA는 1편이나 **치주판막수술 한정**(발치와 sutureless·GBR에 대한 SR+MA 여전히 없음); 최강 근거 = SR 1편 plonka + RCT 10편. 하악구치부 해부학적 위험구역 근거는 사체연구 1편(Iwanaga, n=14 sides)뿐 — 생체 혈역학 미반영. in-vitro→임상 외삽 갭, "무장력" 정량 도구 미정립.
 
 ## Three-line Summary
 
-Synthesis of 25 papers (11 RCTs, 1 SR, 2 prospective, 3 case-report, 5 in-vitro, 1 retrospective, 1 animal, 1 narrative-review) on suture and wound-closure decisions stratified by a single upstream variable — wound tension — which bifurcates into two clinical contexts with opposite optimization goals.
+Synthesis of 26 papers (11 RCTs, 1 SR, **1 SR+MA**, 2 prospective, 3 case-report, 5 in-vitro, 1 retrospective, 1 animal, 1 narrative-review) on suture and wound-closure decisions stratified by a single upstream variable — wound tension — which bifurcates into two clinical contexts with opposite optimization goals.
 
-In low-tension extraction sockets, technique is outcome-agnostic: sutureless is safe (Takadoum 2022 multicentric n=94, complete equivalence; Kumar/Sen: less trismus/swelling), smokers carry 3.65× complication risk regardless of closure method, and suture pattern matters more than suture-vs-no-suture for adjacent tooth periodontal outcomes (sling better than single interrupted, PPD p=0.041, Aghdashi 2020).
+In low-tension extraction sockets, technique is outcome-agnostic: sutureless is safe (Takadoum 2022 multicentric n=94, complete equivalence; Kumar/Sen: less trismus/swelling), smokers carry 3.65× complication risk regardless of closure method, and suture pattern matters more than suture-vs-no-suture for adjacent tooth periodontal outcomes (sling better than single interrupted, PPD p=0.041, Aghdashi 2020); for tissue adhesives vs sutures specifically in periodontal flap surgery, the first SR+MA (Jeevitha 2025, 10 RCTs/255 patients) finds wound healing index equivalent at all timepoints (SMD −0.50, p=0.29, I²=94%, GRADE moderate) but adhesives yield consistently less pain (7/7 studies) and better esthetics (3/3 studies) — publication bias strongly suspected (Egger p=0.003).
 
 In high-tension GBR/augmentation sites, closure engineering determines regenerative outcome: exposure reduces bone gain ~6-fold (Plonka 2017 SR); periosteal releasing incision (PRI) adds +5.5 mm of advancement (vs vertical incisions +1.1–1.9 mm), but is the weakest of four head-to-head techniques for bone gain (Bahaa 2022 RCT n=40, CALF highest); in the mandibular posterior specifically, a cadaveric study maps the facial artery's inferior labial branch closest to the periosteum at the PRI midpoint — between the first and second molar, mean diameter 2.72 mm (Iwanaga 2019), motivating a mental-nerve-visualizing modified PRI (MPRI, Hur 2025, rationale-only) for major advancement; coronally advanced lingual flap reduced titanium-mesh exposure from 83.3% to 0% (Attia 2023 RCT, n=14); in-vitro: pulley suture has the lowest closing-force requirement (3.46 N), cyanoacrylate + suture achieves highest contact force (8.50 N), and horizontal mattress is biomechanically inferior for primary closure; but an ex vivo study found periosteal suturing — not flap-advancement technique choice — is what actually protects graft material from displacement (Raabe 2025).
 
 ## 세줄요약
 
-25편 종합(RCT 11, SR 1, 전향적 2, case-report 3, in-vitro 5, 후향적 1, animal 1, narrative-review 1) — 봉합·창상폐쇄 결정은 단일 상류 변수인 창상 장력(wound tension)에 의해 정반대 최적화 목표를 가진 두 맥락으로 분기한다.
+26편 종합(RCT 11, SR 1, **SR+MA 1**, 전향적 2, case-report 3, in-vitro 5, 후향적 1, animal 1, narrative-review 1) — 봉합·창상폐쇄 결정은 단일 상류 변수인 창상 장력(wound tension)에 의해 정반대 최적화 목표를 가진 두 맥락으로 분기한다.
 
 저장력 발치와: 봉합 유무는 결과에 무관 — 무봉합(sutureless)은 안전하며 초기 이환도 동등 이상(Takadoum 2022 완전 동등, Kumar/Sen trismus·부종 감소); 흡연자는 폐쇄 방식과 무관하게 합병증 3.65배↑; 봉합 시 패턴 선택(sling > single interrupted, PPD p=0.041, Aghdashi 2020)이 봉합 유무보다 인접치 치주에 영향.
 
@@ -55,7 +82,7 @@ In high-tension GBR/augmentation sites, closure engineering determines regenerat
 
 ## Summary
 
-이 overview는 `wiki/suture-wound-closure/`의 25편을 횡단 합성한다. 근거 등급은 **RCT 11편**(aghdashi 2020, kumar 2022, pachipulusu 2018, sen 2024, takadoum 2022, attia 2023, shakiliyeva 2025, ogata 2013, shahnaz 2017, bahaa 2022, lee 2026) · **SR 1편**(plonka 2017) · **prospective 2편**(moslemi 2016, shakibaie 2023) · **case-report 3편**(wang 2024, stankovic 2018, kim 2017) · **in-vitro 5편**(knoell 2011, look 2022, marsidi 2020, pabst 2024, iwanaga 2019) · **후향적 1편**(kim 2015) · **animal 1편**(raabe 2025, ex-vivo porcine) · **narrative-review 1편**(hur 2025, abstract-only rationale)으로 구성된다. 이 카테고리에는 SR+MA가 아직 없다 — 따라서 최강 결론도 "일관된 다수 RCT" 수준에 머문다. [확인 — 등급 분포는 리포지토리 계측]
+이 overview는 `wiki/suture-wound-closure/`의 26편을 횡단 합성한다. 근거 등급은 **RCT 11편**(aghdashi 2020, kumar 2022, pachipulusu 2018, sen 2024, takadoum 2022, attia 2023, shakiliyeva 2025, ogata 2013, shahnaz 2017, bahaa 2022, lee 2026) · **SR 1편**(plonka 2017) · **SR+MA 1편**(jeevitha 2025, 조직접착제 vs 봉합, 치주판막수술 특이) · **prospective 2편**(moslemi 2016, shakibaie 2023) · **case-report 3편**(wang 2024, stankovic 2018, kim 2017) · **in-vitro 5편**(knoell 2011, look 2022, marsidi 2020, pabst 2024, iwanaga 2019) · **후향적 1편**(kim 2015) · **animal 1편**(raabe 2025, ex-vivo porcine) · **narrative-review 1편**(hur 2025, abstract-only rationale)으로 구성된다. SR+MA는 1편이나 **치주판막수술(periodontal flap surgery) 한정** — 발치와 sutureless·GBR 고장력 폐쇄에 대한 SR+MA는 아직 없다. [확인 — 등급 분포는 리포지토리 계측]
 
 핵심 thesis: **봉합 술식 선택은 단일 스펙트럼이 아니라, 정반대 최적화 목표를 가진 두 임상 맥락으로 분기한다.**
 
@@ -160,6 +187,22 @@ In high-tension GBR/augmentation sites, closure engineering determines regenerat
 
 해석: 고장력 폐쇄에서 **pulley(견인 효율) → lattice(장력 분산) → 필요 시 cyanoacrylate 면접착 보조**가 기전적으로 합리적. horizontal mattress는 견인력·파단 모두 열위라 고장력 1차 선택으로 부적합. [미검증]
 
+### 3-2 Clinical Confirmation — Tissue Adhesives vs Sutures (SR+MA)
+
+in-vitro에서 cyanoacrylate 접착력이 입증됐다면, 임상에서 조직접착제(tissue adhesive)가 봉합과 동등한가는 별개 질문이다. 이를 정면으로 다룬 최초 SR+MA가 jeevitha 2025다 — **치주판막수술(periodontal flap surgery) 한정**이라는 범위 제약이 있지만, 이 카테고리 최초의 체계적 임상 통합이다.
+
+| 결과 | 데이터 | 해석 |
+|---|---|---|
+| **창상치유지수(WHO)** | SMD −0.50, p=0.29, I²=94% (10 RCT, 255명) — **동등(GRADE moderate)** | 조직접착제가 봉합보다 낫지도, 못하지도 않음 |
+| **통증** | 7/7 연구 접착제 유리 (메타분석 가능 연구 다수) — **일관되게 유리** | 접착제의 실질적 임상 이점 |
+| **심미도** | 3/3 연구 접착제 유리 — **일관되게 유리** | 접착제 선택 근거로 사용 가능 |
+| **창상열개·감염** | 유의한 차이 없음 | 안전성 동등 |
+| **발표편향** | Egger p=0.003 — **강하게 의심** | 통증·심미 개선 결론은 선별적 수용 필요 |
+
+**[[suture-wound-closure/jeevitha-2025-tissue-adhesives-vs-sutures-periodontal-flap-sr-ma]]** (PROSPERO CRD42023444615, PRISMA 2020)
+
+**해석** [확인 — jeevitha-2025 직접 읽음]: 치주판막수술 맥락에서 조직접착제는 창상치유에서 봉합과 동등하며, 통증·심미는 일관되게 더 낫다 — 단 발표편향(Egger p=0.003)이 강하게 시사되므로, 이점의 크기를 과대평가하지 않을 것. **범위 제약 명시**: 이 SR+MA는 치주판막수술을 대상으로 하며, 발치와 sutureless(§1)나 GBR 고장력 폐쇄(§2)에 직접 외삽되지 않는다. §3의 pabst(in-vitro, cyanoacrylate 병용 접착력 8.50 N 최고)가 기전을 제공하고, jeevitha가 치주 맥락의 임상 근거를 층위를 높여 제공하는 구조다.
+
 ---
 
 ## 4. Free Gingival Graft — 봉합보다 채취술식이 우선
@@ -195,7 +238,7 @@ In high-tension GBR/augmentation sites, closure engineering determines regenerat
     ├─ 설측 mesh 노출 위험 → 설측 관상전진피판 CALF (attia, 노출 0%)
     ├─ 이식재 안정성 = 절개기법이 아니라 골막매트리스봉합(PS) 여부가 결정 (raabe 2025)
     ├─ 패턴: pulley(견인) + lattice(분산); horizontal mattress 회피
-    ├─ mesh 위 안정성 부족 → cyanoacrylate 면접착 보조 또는 다층봉합(Poncho)
+    ├─ mesh 위 안정성 부족 → cyanoacrylate 면접착 보조 또는 다층봉합(Poncho); 치주판막수술에서 조직접착제는 창상치유 동등·통증 개선(jeevitha 2025 SR+MA, 발표편향 주의)
     └─ 목표: exposure 0 — 노출 1건이 골증대량 ~6배 손실 (plonka)
 ```
 
@@ -205,7 +248,7 @@ In high-tension GBR/augmentation sites, closure engineering determines regenerat
 
 ## 6. Limitations & What's Missing
 
-- **SR+MA 부재**: 이 카테고리 최강 근거는 SR 1편(plonka)+RCT 10편. sutureless 3 RCT가 방향 불일치(2 우월 vs 1 동등)인데 이를 정량 통합한 MA가 wiki에 없다 → ingest 우선순위 후보.
+- **SR+MA — 범위 제한**: jeevitha 2025가 치주판막수술에서 조직접착제 vs 봉합 최초 SR+MA를 제공 — 창상치유 동등(GRADE moderate), 통증·심미 일관 개선, 단 발표편향 강의심(Egger p=0.003). 그러나 ①발치와 sutureless, ②GBR 고장력 폐쇄에 대한 SR+MA는 여전히 없다. sutureless 3 RCT 방향 불일치(2 우월 vs 1 동등)를 정량 통합한 MA도 없다 → ingest 우선순위 후보.
 - **고장력 술식 RCT는 늘었으나 여전히 소규모·단일기관**: CALF(attia) n=14, DFI(ogata) n=23, 4군비교(bahaa) n=40(군당10), 레이저(shahnaz) n=18 — 전부 단일기관·초록만(abstract-only) 확보. Poncho·RIE는 case series. 효과크기는 일관되게 크나(CALF>DFI≈MPRI>PRI 방향은 두 독립 RCT가 수렴) 표본·설계 한계는 여전.
 - **하악구치부 해부학적 안전 데이터는 사체연구 1편뿐**: iwanaga 2019(n=14 sides, 고령 백인 7구)가 유일한 혈관위험구역 근거. 생체 혈역학·연령/인종 다양성·실제 술중 출혈 발생률 미반영, 대체 근거 없음. hur 2025(이신경 시각화 MPRI)는 outcome 데이터 자체가 없는 rationale뿐 — "MPRI가 더 안전하다"는 아직 검증되지 않은 가설.
 - **in-vitro→임상 외삽 갭**: 봉합패턴 생역학 4편은 cadaver/모형 기반. 구강 점막·치유 환경에서의 임상 검증 부재.
