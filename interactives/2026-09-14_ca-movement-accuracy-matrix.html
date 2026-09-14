@@ -1,0 +1,599 @@
+<title>CA 이동 정확도</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:wght@400;600&family=Noto+Sans+KR:wght@400;500;700&family=DM+Mono:wght@400;500&display=swap">
+
+<style>
+:root {
+  --bg: #F0F5FA;
+  --surface: #FFFFFF;
+  --surface-2: #F7FAFD;
+  --border: #D1DCE8;
+  --border-2: #E4EDF5;
+  --text: #1C2E42;
+  --muted: #52687E;
+  --muted-2: #8AA0B4;
+  --accent: #2563EB;
+  --accent-dim: #EBF2FF;
+
+  --tier-high: #16A34A;
+  --tier-high-bg: #DCFCE7;
+  --tier-mod: #2563EB;
+  --tier-mod-bg: #DBEAFE;
+  --tier-low: #D97706;
+  --tier-low-bg: #FEF3C7;
+  --tier-vlow: #DC2626;
+  --tier-vlow-bg: #FEE2E2;
+
+  --bar-h: 8px;
+  --row-radius: 8px;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0B1724;
+    --surface: #132230;
+    --surface-2: #0F1D2B;
+    --border: #1E3448;
+    --border-2: #1A2C3E;
+    --text: #DCE8F5;
+    --muted: #7A9BB8;
+    --muted-2: #4A6880;
+    --accent: #60A5FA;
+    --accent-dim: #1E3055;
+    --tier-high: #4ADE80;
+    --tier-high-bg: #052E16;
+    --tier-mod: #60A5FA;
+    --tier-mod-bg: #0C1F40;
+    --tier-low: #FCD34D;
+    --tier-low-bg: #2A1A00;
+    --tier-vlow: #F87171;
+    --tier-vlow-bg: #2A0A0A;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0B1724;
+  --surface: #132230;
+  --surface-2: #0F1D2B;
+  --border: #1E3448;
+  --border-2: #1A2C3E;
+  --text: #DCE8F5;
+  --muted: #7A9BB8;
+  --muted-2: #4A6880;
+  --accent: #60A5FA;
+  --accent-dim: #1E3055;
+  --tier-high: #4ADE80;
+  --tier-high-bg: #052E16;
+  --tier-mod: #60A5FA;
+  --tier-mod-bg: #0C1F40;
+  --tier-low: #FCD34D;
+  --tier-low-bg: #2A1A00;
+  --tier-vlow: #F87171;
+  --tier-vlow-bg: #2A0A0A;
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+  padding: 24px 20px;
+  min-height: 100vh;
+}
+
+.page-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 24px;
+  flex-wrap: wrap;
+}
+
+.page-title-block {}
+.page-eyebrow {
+  font-family: 'DM Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 4px;
+}
+.page-title {
+  font-family: 'Spectral', serif;
+  font-size: 22px;
+  font-weight: 600;
+  color: var(--text);
+  line-height: 1.2;
+  text-wrap: balance;
+}
+.page-subtitle {
+  font-size: 12px;
+  color: var(--muted);
+  margin-top: 4px;
+}
+
+.theme-toggle {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 6px 10px;
+  cursor: pointer;
+  color: var(--muted);
+  font-size: 13px;
+  font-family: 'Noto Sans KR', sans-serif;
+  flex-shrink: 0;
+}
+.theme-toggle:hover { color: var(--text); border-color: var(--muted-2); }
+
+.controls {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 16px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.controls-label {
+  font-size: 11px;
+  color: var(--muted);
+  letter-spacing: 0.05em;
+  font-family: 'DM Mono', monospace;
+  text-transform: uppercase;
+  flex-shrink: 0;
+}
+
+.filter-btn {
+  border: 1px solid var(--border);
+  background: var(--surface);
+  border-radius: 20px;
+  padding: 4px 12px;
+  font-size: 12px;
+  font-family: 'Noto Sans KR', sans-serif;
+  color: var(--muted);
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+}
+.filter-btn:hover { border-color: var(--muted-2); color: var(--text); }
+.filter-btn.active { background: var(--text); color: var(--bg); border-color: var(--text); }
+
+.tier-section { margin-bottom: 8px; }
+
+.tier-label {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 0 6px;
+  font-size: 11px;
+  font-family: 'DM Mono', monospace;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--muted);
+  border-top: 1px solid var(--border-2);
+}
+.tier-dot {
+  width: 8px; height: 8px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.movement-row {
+  background: var(--surface);
+  border: 1px solid var(--border-2);
+  border-radius: var(--row-radius);
+  margin-bottom: 4px;
+  overflow: hidden;
+  cursor: pointer;
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+.movement-row:hover { border-color: var(--border); box-shadow: 0 2px 8px rgba(0,0,0,0.06); }
+.movement-row.expanded { border-color: var(--accent); }
+
+.row-main {
+  display: grid;
+  grid-template-columns: 1fr 200px auto;
+  gap: 12px;
+  align-items: center;
+  padding: 10px 14px;
+}
+@media (max-width: 580px) {
+  .row-main { grid-template-columns: 1fr auto; }
+  .bar-area { display: none; }
+}
+
+.name-block {}
+.name-ko {
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--text);
+  line-height: 1.3;
+}
+.name-en {
+  font-size: 11px;
+  color: var(--muted);
+  margin-top: 1px;
+}
+
+.bar-area { position: relative; }
+.bar-track {
+  background: var(--border-2);
+  border-radius: 4px;
+  height: var(--bar-h);
+  position: relative;
+  overflow: visible;
+}
+.bar-fill {
+  height: 100%;
+  border-radius: 4px;
+  transition: width 0.4s cubic-bezier(0.4,0,0.2,1);
+  position: relative;
+}
+.bar-range {
+  position: absolute;
+  top: 0; height: 100%;
+  border-radius: 4px;
+  opacity: 0.25;
+}
+.bar-tick {
+  position: absolute;
+  top: -4px; bottom: -4px;
+  width: 2px;
+  border-radius: 1px;
+  opacity: 0.6;
+}
+.bar-label {
+  font-family: 'DM Mono', monospace;
+  font-size: 10px;
+  color: var(--muted);
+  margin-top: 4px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.meta-block {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-shrink: 0;
+}
+.accuracy-val {
+  font-family: 'DM Mono', monospace;
+  font-size: 14px;
+  font-weight: 500;
+  font-variant-numeric: tabular-nums;
+  min-width: 52px;
+  text-align: right;
+}
+.evidence-badge {
+  font-family: 'DM Mono', monospace;
+  font-size: 9px;
+  letter-spacing: 0.04em;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-weight: 500;
+  white-space: nowrap;
+}
+.badge-srma { background: var(--tier-high-bg); color: var(--tier-high); }
+.badge-sr   { background: var(--accent-dim); color: var(--accent); }
+
+.chevron {
+  width: 14px; height: 14px;
+  color: var(--muted-2);
+  transition: transform 0.2s;
+  flex-shrink: 0;
+}
+.movement-row.expanded .chevron { transform: rotate(180deg); }
+
+.row-detail {
+  display: none;
+  padding: 0 14px 12px;
+  border-top: 1px solid var(--border-2);
+  background: var(--surface-2);
+}
+.movement-row.expanded .row-detail { display: block; }
+
+.detail-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 10px;
+  padding-top: 12px;
+  margin-bottom: 10px;
+}
+.detail-item {}
+.detail-key {
+  font-family: 'DM Mono', monospace;
+  font-size: 10px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 2px;
+}
+.detail-val {
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--text);
+  font-variant-numeric: tabular-nums;
+}
+.detail-note {
+  font-size: 12px;
+  color: var(--muted);
+  line-height: 1.6;
+  padding: 8px 10px;
+  background: var(--bg);
+  border-radius: 6px;
+  border-left: 3px solid var(--border);
+}
+.detail-doi {
+  margin-top: 8px;
+  font-family: 'DM Mono', monospace;
+  font-size: 10px;
+  color: var(--muted-2);
+}
+.detail-doi a { color: var(--accent); text-decoration: none; }
+.detail-doi a:hover { text-decoration: underline; }
+
+.scale-legend {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-bottom: 14px;
+  font-size: 11px;
+  color: var(--muted);
+}
+.scale-bar {
+  height: 8px;
+  flex: 1;
+  max-width: 200px;
+  border-radius: 4px;
+  background: linear-gradient(to right, #DC2626, #D97706, #2563EB, #16A34A);
+  opacity: 0.8;
+}
+</style>
+
+<div class="page-header">
+  <div class="page-title-block">
+    <div class="page-eyebrow">투명교정 (Clear Aligner) · 생체역학 데이터</div>
+    <h1 class="page-title">이동 유형별 정확도 매트릭스</h1>
+    <div class="page-subtitle">계획 대비 달성 비율 — 위키 인제스트 논문 기반 (2023–2026)</div>
+  </div>
+  <button class="theme-toggle" onclick="toggleTheme()">테마 전환</button>
+</div>
+
+<div class="controls">
+  <span class="controls-label">필터</span>
+  <button class="filter-btn active" data-tier="all" onclick="setFilter('all', this)">전체</button>
+  <button class="filter-btn" data-tier="high" onclick="setFilter('high', this)">High (&gt;65%)</button>
+  <button class="filter-btn" data-tier="moderate" onclick="setFilter('moderate', this)">Moderate</button>
+  <button class="filter-btn" data-tier="low" onclick="setFilter('low', this)">Low</button>
+  <button class="filter-btn" data-tier="very-low" onclick="setFilter('very-low', this)">Very Low</button>
+</div>
+
+<div class="scale-legend">
+  <span>낮음</span>
+  <div class="scale-bar"></div>
+  <span>높음</span>
+  <span style="margin-left:8px;font-family:'DM Mono',monospace;">정확도 색상 인코딩</span>
+</div>
+
+<div id="matrix"></div>
+
+<script>
+const TIERS = [
+  { id: 'high',     label: 'High  ·  >65%',    color: '#16A34A' },
+  { id: 'moderate', label: 'Moderate  ·  50–65%', color: '#2563EB' },
+  { id: 'low',      label: 'Low  ·  30–50%',    color: '#D97706' },
+  { id: 'very-low', label: 'Very Low  ·  <30%', color: '#DC2626' },
+];
+
+const DATA = [
+  {
+    name_ko: '협설 경사',
+    name_en: 'Bucco-lingual tipping',
+    bar_fill: 78, accuracy_display: '순위 1위', range_lo: null, range_hi: null,
+    ranked: true, deviation: false,
+    evidence: 'SR', source: 'AlBaqshi 2025', doi: '10.7759/cureus.95845', n: 6,
+    note: '정확도 순위 1위로 확인됨. 수치 메타분석은 이질성으로 미시행. 가장 재현 가능한 이동 방향.',
+    tier: 'high'
+  },
+  {
+    name_ko: '근원심 경사',
+    name_en: 'Mesiodistal tipping',
+    bar_fill: 70, accuracy_display: '순위 2위', range_lo: null, range_hi: null,
+    ranked: true, deviation: false,
+    evidence: 'SR', source: 'AlBaqshi 2025', doi: '10.7759/cureus.95845', n: 6,
+    note: '두 번째로 정확한 이동 유형. 협설 경사와 함께 "경사 이동"이 투명교정의 강점 영역임을 확인.',
+    tier: 'high'
+  },
+  {
+    name_ko: '견치 회전 (어태치먼트 비교)',
+    name_en: 'Canine derotation',
+    bar_fill: 66, accuracy_display: '66%', range_lo: 61.2, range_hi: 71.5,
+    ranked: false, deviation: false,
+    evidence: 'SR+MA', source: 'Muthuswamy-Pandian 2025', doi: '10.1016/j.jobcr.2025.07.019', n: 7,
+    note: '일반 어태치먼트 61.2% vs 최적화 어태치먼트 71.5% — 통계적으로 유의한 차이 없음 (p>0.05, I²=75%). 어태치먼트 유형보다 케이스 선택이 결정적.',
+    tier: 'moderate'
+  },
+  {
+    name_ko: '회전 (전치~구치 전체)',
+    name_en: 'Rotation — all teeth',
+    bar_fill: 65, accuracy_display: '65%', range_lo: 36, range_hi: 85,
+    ranked: false, deviation: false,
+    evidence: 'SR', source: 'Benedetti 2025', doi: '10.3390/dj13100440', n: 8,
+    note: '평균 65%이나 부위별 편차가 매우 큼 — 전치(절치) ≈ 85%, 구치 ≈ 36%. 어태치먼트 설계가 결과를 좌우. "평균"으로 케이스 계획 시 주의 필요.',
+    tier: 'moderate'
+  },
+  {
+    name_ko: '전치 정출',
+    name_en: 'Anterior extrusion',
+    bar_fill: 60, accuracy_display: '60%', range_lo: 57.5, range_hi: 62.4,
+    ranked: false, deviation: false,
+    evidence: 'SR+MA', source: 'Muthuswamy-Pandian 2025', doi: '10.1016/j.jobcr.2025.07.019', n: 7,
+    note: '일반 57.5% vs 최적화 62.4% — 차이 없음 (p>0.05). 어떤 어태치먼트도 계획된 정출량을 완전히 달성하지 못함. 과교정 설계 또는 리파인먼트 예정 필요.',
+    tier: 'moderate'
+  },
+  {
+    name_ko: '하악 전치 압하',
+    name_en: 'Lower incisor intrusion',
+    bar_fill: 50, accuracy_display: '50%', range_lo: 35, range_hi: 65,
+    ranked: false, deviation: false,
+    evidence: 'SR', source: 'Fracchia 2025', doi: '10.3390/jcm14176339', n: 8,
+    note: '달성량 0.4–1.5mm; 예측도 35–65% (중간값 약 50%). 8개 연구 중 7개가 심각한 비뚤림 위험(ROBINS-I). 어태치먼트 + 탄성 병용 시 결과 향상. GRADE 중-저.',
+    tier: 'low'
+  },
+  {
+    name_ko: '깊은교합 교정',
+    name_en: 'Deep bite correction',
+    bar_fill: 41, accuracy_display: '41%', range_lo: 33, range_hi: 48.88,
+    ranked: false, deviation: false,
+    evidence: 'SR', source: 'Husain 2025', doi: '10.1007/s00784-025-06381-7', n: 18,
+    note: 'GRADE 저급 근거. 교합 거상 0.4–3.8mm. 치조성 깊은교합에는 유효; 골격성 증례에서 고정식(FFA) 대비 우위 불확실. 목표 교합 교정은 과교정 + 리파인먼트 계획 필수.',
+    tier: 'low'
+  },
+  {
+    name_ko: '수평 확장',
+    name_en: 'Transverse expansion',
+    bar_fill: 38, accuracy_display: '낮음', range_lo: null, range_hi: null,
+    ranked: true, deviation: false,
+    evidence: 'SR', source: 'Nogueira Matos 2026', doi: '10.1016/j.ortho.2026.101211', n: 20,
+    note: '리파인먼트의 주요 유발 요인 중 하나로 확인. 성인 영구 치열에서 특히 낮은 예측도. 성장기 혼합 치열에서 상대적으로 유리 (별도 확장 SR 근거).',
+    tier: 'low'
+  },
+  {
+    name_ko: '발치 공간 폐쇄 (전치 후퇴)',
+    name_en: 'Anterior retraction — extraction cases',
+    bar_fill: 28, accuracy_display: '−1.93 mm', range_lo: null, range_hi: null,
+    ranked: false, deviation: true,
+    evidence: 'SR+MA', source: 'Abu Arqub 2025', doi: '10.1111/ocr.70052', n: 20,
+    note: '정확도 비율이 아닌 편차 지표: under-retraction MD −1.93 mm (95% CI −2.15~−1.71). 계획보다 지속적으로 미달 달성. 대구치 근심 경사 동반 (MD −6.08°). 전략적 과교정 및 보조 역학(TAD 등) 필요.',
+    tier: 'very-low'
+  },
+  {
+    name_ko: '치근 이동 / 토크 제어',
+    name_en: 'Root movement / Torque control',
+    bar_fill: 20, accuracy_display: '최저', range_lo: null, range_hi: null,
+    ranked: true, deviation: false,
+    evidence: 'SR+MA', source: 'Abu Arqub 2025', doi: '10.1111/ocr.70052', n: 20,
+    note: '투명교정의 근본적 한계. 발치 증례에서 대구치 근심 경사 MD −6.08° (과도). ABO-OGS 및 교합 접촉 점수 고정식 대비 열등. 치근 평행도·앵커리지 제어 모두 불량.',
+    tier: 'very-low'
+  },
+];
+
+const TIER_COLOR = {
+  'high': 'var(--tier-high)',
+  'moderate': 'var(--tier-mod)',
+  'low': 'var(--tier-low)',
+  'very-low': 'var(--tier-vlow)',
+};
+
+function tierColor(tier) {
+  return TIER_COLOR[tier] || 'var(--muted)';
+}
+
+function barColor(fill, tier) {
+  // Gradient from tier color
+  return tierColor(tier);
+}
+
+function makeRow(d, idx) {
+  const tcolor = tierColor(d.tier);
+  const hasMidRange = d.range_lo !== null && d.range_hi !== null;
+  const rangeLoPct = hasMidRange ? d.range_lo : null;
+  const rangeHiPct = hasMidRange ? d.range_hi : null;
+  const badgeClass = d.evidence === 'SR+MA' ? 'badge-srma' : 'badge-sr';
+  const badgeLabel = d.evidence;
+
+  return `<div class="movement-row" id="row-${idx}" onclick="toggleRow(${idx})">
+    <div class="row-main">
+      <div class="name-block">
+        <div class="name-ko">${d.name_ko}</div>
+        <div class="name-en">${d.name_en}</div>
+      </div>
+      <div class="bar-area">
+        <div class="bar-track">
+          ${hasMidRange ? `<div class="bar-range" style="left:${rangeLoPct}%;width:${rangeHiPct - rangeLoPct}%;background:${tcolor}"></div>` : ''}
+          <div class="bar-fill" style="width:${d.bar_fill}%;background:${tcolor}"></div>
+        </div>
+        <div class="bar-label">
+          <span>0%</span>
+          ${hasMidRange ? `<span style="color:${tcolor};font-weight:500">${d.range_lo}–${d.range_hi}%</span>` : '<span></span>'}
+          <span>100%</span>
+        </div>
+      </div>
+      <div class="meta-block">
+        <div class="accuracy-val" style="color:${tcolor}">${d.accuracy_display}${d.deviation ? '' : (d.ranked ? '' : '')}</div>
+        <div class="evidence-badge ${badgeClass}">${badgeLabel}</div>
+        <svg class="chevron" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M4 6l4 4 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </div>
+    </div>
+    <div class="row-detail">
+      <div class="detail-grid">
+        <div class="detail-item">
+          <div class="detail-key">출처</div>
+          <div class="detail-val">${d.source}</div>
+        </div>
+        <div class="detail-item">
+          <div class="detail-key">연구 설계</div>
+          <div class="detail-val">${d.evidence}${d.n ? ` · ${d.n}개 연구` : ''}</div>
+        </div>
+        <div class="detail-item">
+          <div class="detail-key">정확도 ${d.deviation ? '(편차)' : d.ranked ? '(순위)' : ''}</div>
+          <div class="detail-val" style="color:${tcolor}">${d.accuracy_display}${hasMidRange ? ` (${d.range_lo}–${d.range_hi}%)` : ''}</div>
+        </div>
+        <div class="detail-item">
+          <div class="detail-key">신뢰 수준</div>
+          <div class="detail-val">${d.tier === 'high' ? 'High' : d.tier === 'moderate' ? 'Moderate' : d.tier === 'low' ? 'Low' : 'Very Low'}</div>
+        </div>
+      </div>
+      <div class="detail-note">${d.note}</div>
+      <div class="detail-doi">DOI: <a href="https://doi.org/${d.doi}" target="_blank" rel="noopener">${d.doi}</a></div>
+    </div>
+  </div>`;
+}
+
+let currentFilter = 'all';
+
+function render() {
+  const container = document.getElementById('matrix');
+  let html = '';
+  for (const tier of TIERS) {
+    const rows = DATA.filter(d => d.tier === tier.id && (currentFilter === 'all' || currentFilter === tier.id));
+    if (rows.length === 0) continue;
+    html += `<div class="tier-section">
+      <div class="tier-label">
+        <span class="tier-dot" style="background:${tier.color}"></span>
+        ${tier.label}
+      </div>`;
+    rows.forEach((d, i) => {
+      const idx = DATA.indexOf(d);
+      html += makeRow(d, idx);
+    });
+    html += `</div>`;
+  }
+  container.innerHTML = html;
+}
+
+function toggleRow(idx) {
+  const el = document.getElementById('row-' + idx);
+  if (el) el.classList.toggle('expanded');
+}
+
+function setFilter(tier, btn) {
+  currentFilter = tier;
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  render();
+}
+
+function toggleTheme() {
+  const root = document.documentElement;
+  const cur = root.getAttribute('data-theme');
+  if (cur === 'dark') root.setAttribute('data-theme', 'light');
+  else if (cur === 'light') root.removeAttribute('data-theme');
+  else root.setAttribute('data-theme', 'dark');
+}
+
+render();
+</script>
