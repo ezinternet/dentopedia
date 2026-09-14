@@ -2,7 +2,7 @@
 title: "즉시 상아질 밀봉 (Immediate Dentin Sealing, IDS) 근거 종합 — in-vitro 강함 vs 임상 POS 논쟁"
 authors: synthesis (llm-wiki)
 year: 2026
-date: 2026-06-01
+date: 2026-09-14
 type: overview
 category: [overviews]
 tags: [immediate-dentin-sealing, ids, dentin-bonding, indirect-restoration, ubts, postoperative-sensitivity, inlay-onlay, veneer, overview]
