@@ -2,7 +2,7 @@
 ---
 title: "투명교정(Clear Aligner) 적응증 결정 게이트 + 상악확장 over-correction 계산기"
 type: interactive
-date: 2026-09-09
+date: 2026-09-14
 status: done
 category: ortho
 agenda: agenda/2026-06-25_clear-aligner-decision-interactive.md
@@ -28,6 +28,7 @@ source_wiki:
 updated: 2026-07-08  # clear-aligner-indications-limitations 46편/11축 갱신 반영 (Bruni 2024 혼합치열 확장·Kuguoglu 2024 제3대구치·Shi 2026 black-triangle)
 updated: 2026-08-30  # 73편/12축 갱신 반영 — Lei 2026 SR+MA (~50% CAT 발현률) 전제에 추가; Baneshi 2024 21RCT n=970 FA 우위 FA=경중등도 비발치 최선 근거 확인
 updated: 2026-09-09  # overview 2026-09 신규 5편 반영 — Pham 2026 RCT(딥바이트 CA 치료기간 단축); Jedlinski 2023 SR(attachment 26편); Zhuo 2026 Roller Coaster Effect + Wang 2025 절치치근오차 + Vicioni-Marques 2025 SR+MA(발치 과소달성); Di Spirito 2023 umbrella(치주 장기 NS, <1mm); Patil 2026 백반점; Chong 2025 순응도 36%
+updated: 2026-09-14  # 78편/12축 갱신 반영 — arslan-carpar 2026 RCT(전동·수동 칫솔 어태치먼트 치태 제거 동등); de-la-rosa-gay 2026(ClinCheck 치아궁 폭 측정 신뢰도 검증); algarni-2026(브랜드별 임상 정확도: Eon vs Invisalign — 회전·수평이동 Eon 우위)
 verified: 2026-07-21  # 2026-07-09 커밋(46→56편, Gonçalves/Wang/Wonghinkong·Rutili/Panda/Cunha/Gok·Pede/Baik/Muthuswamy Pandian 통합)은 axis 1(발치 정확도·토크)·axis 3(Class III 비교연구)·axis 4(attachment FEA)만 확장 — 이 도구가 인코딩하는 axis 2(원심이동·제3대구치 10-22%·black-triangle 17.3%)와 axis 5(상악확장 계산기 상수: de la Rosa-Gay 0.92mm/72.2%, Bruni 72/85%)는 diff에서 완전히 미변경. 임상 콘텐츠 변경 없음, 재확인만.
 ---
 -->
@@ -110,10 +111,10 @@ verified: 2026-07-21  # 2026-07-09 커밋(46→56편, Gonçalves/Wang/Wonghinkon
 <div class="wrap">
 
   <h1>투명교정(Clear Aligner) 의사결정 도구</h1>
-  <div class="sub">LLM-Wiki · 투명교정 적응증·한계 종합(73편/12축) 기반 · 2026-06-25 (2026-09-09 갱신) · 개인 임상 참고용</div>
+  <div class="sub">LLM-Wiki · 투명교정 적응증·한계 종합(78편/12축) 기반 · 2026-06-25 (2026-09-14 갱신) · 개인 임상 참고용</div>
 
   <div class="assume">
-    <b>전제:</b> 위키 보유 73편의 종합(<i>clear-aligner-indications-limitations</i>) 결론인 <b>"적응증 gradient"</b>를 chairside 참조용으로 변환한 것. 환자별 진단·세팔로 분석을 대체하지 않으며, 어떤 출력도 절대 적응/금기를 단정하지 않는다. 정량 앵커(성인 확장 0.92&nbsp;mm 오차·혼합치열 계획 1&nbsp;mm당 임상 0.58–0.72&nbsp;mm 등)는 원논문 값이고, 가중치·수정계수는 종합 방향성을 코드화한 <span class="tag t-claude">claude해석</span>이다. <b>CAT 발현률:</b> 전체 평균 ~50% (Lei 2026 SR+MA) — 처방대로 움직이지 않는 확률이 절반; 보조장치·재처방 없이 성과를 가정하지 말 것. <b>순응도:</b> 실제 완전순응(≥22h/일)은 <b>36%에 불과</b> (Chong 2025 범위검토, 37편) — 만족도와 독립; 착용시간은 따로 확인할 것.
+    <b>전제:</b> 위키 보유 78편의 종합(<i>clear-aligner-indications-limitations</i>) 결론인 <b>"적응증 gradient"</b>를 chairside 참조용으로 변환한 것. 환자별 진단·세팔로 분석을 대체하지 않으며, 어떤 출력도 절대 적응/금기를 단정하지 않는다. 정량 앵커(성인 확장 0.92&nbsp;mm 오차·혼합치열 계획 1&nbsp;mm당 임상 0.58–0.72&nbsp;mm 등)는 원논문 값이고, 가중치·수정계수는 종합 방향성을 코드화한 <span class="tag t-claude">claude해석</span>이다. <b>CAT 발현률:</b> 전체 평균 ~50% (Lei 2026 SR+MA) — 처방대로 움직이지 않는 확률이 절반; 보조장치·재처방 없이 성과를 가정하지 말 것. <b>순응도:</b> 실제 완전순응(≥22h/일)은 <b>36%에 불과</b> (Chong 2025 범위검토, 37편) — 만족도와 독립; 착용시간은 따로 확인할 것.
   </div>
 
   <div class="tabs">
@@ -154,7 +155,7 @@ verified: 2026-07-21  # 2026-07-09 커밋(46→56편, Gonçalves/Wang/Wonghinkon
       <li>auxiliaries(attachment·power ridge·divot·elastics)가 치관-치근 불균등 응력을 재분배해 tipping→translation 전환 — <b>Cao 2025</b>(FEA 29편) · <b>Nucera 2022</b>(attachment SR) · <b>Jedlinski 2023</b>(SR 26편: attachment가 이동 표현량·aligner 유지력 유의 향상, 이동 유형별 최적 부위·형태·접착 프로토콜 근거 제공)</li>
       <li>횡적 골격 결손·성장기 골격확장은 conventional expander 우위(CA 확장은 주로 치조성) — <b>Fonseca-Planells 2026</b> · 혼합치열 확장 정량치는 탭 ② 참조 — <b>Bruni 2024</b></li>
       <li>딥바이트 치료: <b>Pham 2026</b> RCT — CA vs 고정식 딥바이트 치료, 치료기간 CA 유의 단축(20.77 vs 27.47개월, p&lt;0.001), 과개교합 개선·오버젯 감소 동등, 환자 만족도 CA 전 항목 유의 우세; 수직 안면 변화는 FA 더 큼</li>
-      <li>치주: 단·중기 CA 통계적 우위(PI·GI·SBI·PPD MD &minus;0.14~&minus;1.10, PPD &minus;0.26~&minus;0.93mm)이나 <b>임상적으로 미미(&lt;1mm/&lt;1점)하고 장기엔 NS</b> — 동의서엔 "단기 위생접근성 이점" 수준으로 표현 — <b>Di Spirito 2023</b>(umbrella review, 4 SR, 2,042명). 백반점(white-spot) 예방은 <b>지속적 이점</b>: CA 11.7% vs FA 31.7% (p=0.008, <b>Patil 2026</b> 전향 12개월)</li>
+      <li>치주: 단·중기 CA 통계적 우위(PI·GI·SBI·PPD MD &minus;0.14~&minus;1.10, PPD &minus;0.26~&minus;0.93mm)이나 <b>임상적으로 미미(&lt;1mm/&lt;1점)하고 장기엔 NS</b> — 동의서엔 "단기 위생접근성 이점" 수준으로 표현 — <b>Di Spirito 2023</b>(umbrella review, 4 SR, 2,042명). 백반점(white-spot) 예방은 <b>지속적 이점</b>: CA 11.7% vs FA 31.7% (p=0.008, <b>Patil 2026</b> 전향 12개월). 어태치먼트 주변 칫솔질: 전동·수동 차이 없음(<b>Arslan-Carpar 2026</b> crossover RCT, n=14·244치아) — 원위·치은연이 가장 청소 어려운 부위로 부위별 집중 교육이 핵심</li>
     </ul>
   </div>
   </div>
@@ -212,6 +213,7 @@ verified: 2026-07-21  # 2026-07-09 커밋(46→56편, Gonçalves/Wang/Wonghinkon
       <li><b>정량 앵커 — 성인:</b> Invisalign 확장 <b>평균 오차 0.92&nbsp;mm·부위 72.2%가 과소확장</b>; 상악·구치부·crossbite·큰 계획 확장일수록 예측성 악화 — <b>de la Rosa-Gay 2025</b>(후향코호트 n=98, multilevel GLMM)</li>
       <li><b>정량 앵커 — 혼합치열(성장기):</b> 계획-대비-임상 발현 <b>전체 80.2%</b>, 부위별 <b>견치간 87.7%→영구대구치 67.9%</b>, 계획 1&nbsp;mm당 임상 <b>0.58–0.72&nbsp;mm</b>; 대구치 5&nbsp;mm 임상확장에 ClinCheck ≈<b>7&nbsp;mm</b> 필요, 확장은 주로 <b>협측 치관경사</b>(치조성) — <b>Bruni 2024</b>(전향 n=40, 평균 8.7세, Invisalign First)</li>
       <li><b>성장기 골격:</b> 골격성 횡적 결손엔 CA 확장이 conventional expander 대비 유의 적음(주로 치조성) — 봉합/정형 확장 필요 시 RME 우선 — <b>Fonseca-Planells 2026</b>(15편/7 pooled)</li>
+      <li><b>계획 측정 신뢰도:</b> ClinCheck 치아궁 폭 테이블 자체는 <b>신뢰할 수 있는 측정 도구</b>(편향 0.03&nbsp;mm, LoA ±0.8&nbsp;mm, n=35·840쌍) — 측정 도구 검증이며 달성 예측 근거(0.92&nbsp;mm 오차)와 별개: 클리닉체크 수치는 믿되 달성량에는 과교정 적용 — <b>de la Rosa-Gay 2026</b>(혼합효과 Bland-Altman)</li>
       <li><span class="tag t-est">추정</span> 성인 기본 부족분 0.9&nbsp;mm는 원논문 평균오차, 성장기 부위 효율(72/85%)은 Bruni 원논문 값. crossbite·큰 확장에 따른 상단 마진(+0.6/+0.4&nbsp;mm)과 위험 pill은 종합 방향성을 코드화한 <span class="tag t-claude">claude해석</span>이며 환자별 회귀계수가 아님.</li>
     </ul>
     <div class="muted">⚠ 성인=de la Rosa-Gay, 성장기=Bruni 혼합치열 <b>치조성 확장</b> 데이터. <b>하악·진정한 골격성 횡적 확장(RME 영역)에는 외삽하지 말 것.</b></div>
@@ -231,7 +233,7 @@ const HARD = [
 ];
 const SOFT = [
   ["torque","전치 토크 조절 필요","attachment·power ridge로 보조 (Cao 2025·Nucera 2022). 상악 전치 토크 정확도 49.1–51.5%로 최저, 압하는 역전 발생 가능 (Gonçalves 2023 SR, 5편·612 movements)"],
-  ["rot","견치/소구치 심한 회전(>30°)","원형 단면 회전엔 attachment 필수 (Nucera 2022; Jedlinski 2023 SR 26편: attachment가 이동 표현량·유지력 유의 향상). ⚠️ 회전 정확도 65% 평균(Benedetti 2025 SR, 12편): 견치 36–58% 최악(잔여오차 ~4.5°), 대구치 74–85% 최고. Staging <1.5°/aligner 권장"],
+  ["rot","견치/소구치 심한 회전(>30°)","원형 단면 회전엔 attachment 필수 (Nucera 2022; Jedlinski 2023 SR 26편: attachment가 이동 표현량·유지력 유의 향상). ⚠️ 회전 정확도 65% 평균(Benedetti 2025 SR, 12편): 견치 36–58% 최악(잔여오차 ~4.5°), 대구치 74–85% 최고. Staging <1.5°/aligner 권장. 브랜드별 차이: Eon vs Invisalign — 회전 Eon 유의 우위(1.9–4.2°) (Algarni 2026, n=76 후향, 단일기관)"],
   ["dist","상악 대구치 원심이동(Class II)","TAD+IPR 병용 시 예측성↑. 완전맹출 제3대구치는 원심이동 10–22%↓ (Kuguoglu 2024 FEA) — 사전 스크리닝. 순차 원심이동 후 상악 중절치 black-triangle(OGE) 17.3% (Shi 2026)"],
   ["deep","깊은 교합(과개교합, Deep Bite)","Pham 2026 RCT: CA vs 고정식 딥바이트 치료 — 치료기간 CA 유의 단축(20.77 vs 27.47개월, p<0.001)·과개교합 개선·오버젯 감소 동등, 수직 안면 변화는 FA 더 큼, 환자 만족도 CA 전 항목 유의 우세. Attachment 보조 병용 권장."],
   ["exp","경도 상악 확장 필요","치조성 확장 가능, over-correction 필요 (탭 ② 참조)"]
