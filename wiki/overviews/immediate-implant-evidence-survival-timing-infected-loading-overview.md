@@ -2,7 +2,7 @@
 title: "Immediate Implant Placement — Evidence Hub: Survival · Timing · Infected Sockets · Loading & Restoration"
 authors: Synthesis (Damian Lee)
 year: 2026
-date: 2026-08-30
+date: 2026-09-14
 doi: N/A
 source: N/A
 category: overviews
@@ -39,6 +39,9 @@ source_wiki:
   - wiki/immediate-implant/thoma-2026-timing-dental-implant-placement-past.md
   - wiki/immediate-implant/infected-socket/amato-2025-single-tooth-immediate-implant-esthetic-infected.md
   - wiki/immediate-implant/loading-protocol/pannuti-2026-loading-timing-edentulous-maxilla-pro.md
+  - wiki/immediate-implant/infected-socket/li-2025-immediate-implant-periodontitis-short-term-retrospective.md
+  - wiki/immediate-implant/loading-protocol/botros-2025-early-conventional-loading-immediate-molar.md
+  - wiki/immediate-implant/li-2026-safety-feasibility-immediate-implant-diabetic.md
 relations:
   - type: extends
     target: implant-placement-timing-immediate-early-delayed
@@ -68,6 +71,9 @@ relations:
 > - **부하**: Azarias 2025(전악 즉시부하 리뷰 15편) 생존 >93%, MBL <2mm; 전악 즉시부하는 **중등도 1차안정성(토크 30–44 N·cm 또는 ISQ ≥60)** 으로 충분(단일치 즉시부하는 45 N·cm 권장). Bergkvist ISQ 50.6서도 98.2% — ISQ≥60 임계는 전악에선 보수적일 수 있음. Shibly 2010 짝논문 2편(치주질환 병력 환자, n=60, RCT)은 **즉시부하 vs 관행(3개월지연)부하** 자체를 무작위배정해 생존·골신득 무유의차(각 p>0.5) + 즉시부하군이 상피부착부(MGJ) 관상변위 유의하게 적음(15% vs 65%) — 부하 타이밍은 배치 타이밍과 별개 변수이며 최소한 이환 환자군에선 즉시부하가 연조직 위치보존에 유리.
 > - **PROM — SR 기반 "무차이"와 RCT 기반 "즉시 우위" 공존**: Gotfredsen 2021(SR, 35–40편)·Huynh-Ba 2018(SR, 9편) — 단일치·단축결손에서는 배치·부하 타이밍이 불편감·만족도에 강한 영향 없음; 전악 무치악에서만 즉시부하에 대한 **약한·일시적**(≤1년) 선호 신호, 12개월엔 희미해짐. **Pannuti 2026 SR**(5개 전향 연구, 무치악 상악, 121명·724 임플란트, 2014–2024): VAS가 80% 연구에서 7개 PRO를 측정하는 지배적 도구, 12개 임상가보고결과(Clinician-Reported Outcome, ClinRO)는 연구 간 표준화 전무 — **부하 타이밍 간 PROM 비교는 현재 신뢰할 수 없음을 방법론적으로 확인**; "무차이" 결론이 진정한 동등인지 측정 이질성의 산물인지 구분 불가. 그러나 Yang 2026 RCT(n=220, 1년)는 즉시 임플란트군이 OHIP-14(3.20 vs 4.15, P<0.001)·PES(12.18 vs 11.34, P<0.001)·WES(7.78 vs 7.23, P<0.001)·환자 만족도(부착·색조·저작 전 영역) 모두에서 지연군보다 유의하게 우수 — 단일기관(중국)·1년 추적·MBL 미보고 한계 있음. SR 수준의 "타이밍 무차이" 결론은 유효하나, 충분히 좋은 후보에서 즉시식립이 환자 체감 삶의 질을 실제로 개선할 가능성을 이 RCT가 시사한다. 임상 근거(골·생존)가 타이밍 결정의 주 동력이어야 하며 환자 선호가 결정을 주도해서는 안 됨은 변함없다.
 > - **보철재료는 저위험 변수**: Aldebes 2022(RCT, root-analogue zirconia) PFM vs 복합레진 크라운 간 변연골소실 무차이(전부 p>0.05).
+> - **치주질환 환자 즉시식립(Li 2025, 후향적 n=95, 234 임플란트, 12개월)**: 전체 생존 97.86%; Stage IV·Grade C에서 생존율 유의 저하(Kaplan-Meier, p<0.05) — 치주염 중증도 자체가 즉시식립 예후에 영향을 미침. 치근단 감염과 구분되는 치주 감염 특이 데이터.
+> - **구치부 즉시식립 후 early vs conventional 부하(Botros 2025, RCT, n=30 임플란트)**: 완전 가이드 플랩리스 즉시 구치부 임플란트에서 6주 early vs 3개월 conventional 부하 — 양군 생존율 100%, ISQ/DCA 무차이(p>0.05); 구치부에서도 early loading이 안전함을 RCT로 확인.
+> - **당뇨 환자 즉시식립(Li 2026, SR+MA, 10편, 1,350명)**: 혈당 조절 여부와 무관하게 즉시식립 생존율 무차이(well-controlled RR=1.00, poorly-controlled RR=0.96, 양쪽 NS); 단 변연골소실(Marginal Bone Loss, MBL)·탐침 출혈(Bleeding on Probing, BOP)은 당뇨군에서 유의하게 높고 혈당 조절 불량할수록 악화(MBL MD=0.39mm, p<0.00001) — 즉시식립 가능하나 철저한 혈당 관리와 장기 monitoring 필수.
 > - **근거 한계**: 20편 중 다수가 초록전용/narrative(특히 이탈리아 컨소시엄 RCT 3편은 abstract-only) — pooled 수치는 확정이 아닌 방향성. 가장 약한 지점이 하필 임상적으로 가장 중요한 곳(즉시 vs 지연 effect size, 감염소켓 프로토콜, 장기 데이터).
 > - **임상 함의**: 생존율 논쟁의 실무 기준은 이제 Gallucci 2026 — Type 1A/1C는 검증된 고생존, **Type 1B(즉시식립+조기부하)는 피하거나 신중히**. 부위 특이성 확인(전치부 표준직경 vs 구치부 광경직경은 반대 결론). 감염소켓은 무외상·debridement·1차안정성 3요소 하에 선택적 시행. 전악 즉시부하는 중등도 안정성으로 가능, 부하 프로토콜은 배치 타이밍과 별개로 판단, 보철재료 선택은 골결과에 영향 없음, 환자 선호는 결정을 주도하지 않는다.
 
