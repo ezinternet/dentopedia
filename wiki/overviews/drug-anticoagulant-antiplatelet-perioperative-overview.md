@@ -2,7 +2,7 @@
 title: "Anticoagulant·Antiplatelet Perioperative Management Overview"
 authors: synthesis (llm-wiki)
 year: 2026
-date: 2026-07-19
+date: 2026-09-14
 category: [overviews]
 tags: [anticoagulant, antiplatelet, VKA, DOAC, warfarin, heparin, DAPT, tranexamic-acid, trough-timing, hemophilia, patient-education, oral-surgery, dental-extraction, overview]
 source_papers:
