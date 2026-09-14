@@ -22,6 +22,7 @@ source_papers:
   - wiki/orthodontics/jaramillo-bedoya-2022-scoping-review-characteristics-success-failure.md
   - wiki/orthodontics/jkda-2023-61-6-003.md
   - wiki/orthodontics/clear-aligner/ye-2025-combined-use-of-miniscrews.md
+  - wiki/orthodontics/clear-aligner/marinelli-2025-temporary-anchorage-devices-clear-aligner-sr.md
 ---
 
 ## 한국어 핵심요약
@@ -148,3 +149,4 @@ The clinical decision ladder is: CBCT to confirm ≥1 mm root-proximity safety m
 - [[orthodontics/jaramillo-bedoya-2022-scoping-review-characteristics-success-failure]] — 실무 패턴 맥락: 103편, 상악 인접근 주류, 47.6% ≥90% 성공 (scoping, 2022)
 - [[orthodontics/jkda-2023-61-6-003]] — 주변부: 한국 매복 상악 견치 견인 성공인자 (retrospective, 2023; TAD 안정성 직접 아님)
 - [[orthodontics/clear-aligner/ye-2025-combined-use-of-miniscrews]] — 주변부: 성장기 3급 증례, 투명교정+미니스크류 병용 (case-report, 2025)
+- [[orthodontics/clear-aligner/marinelli-2025-temporary-anchorage-devices-clear-aligner-sr]] — **[2026-09-14 추가]** 투명교정+TAD 병용 PRISMA SR (14편, 대부분 증례보고; ROBINS-I 1편만 낮은 비뚤림): distalization·압하·수직조절·매복 견치 견인에서 TAD 병용이 조절력 향상; 대조비교 없어 근거 낮음 — 병용 방향성 지지, 정량 근거 미확립. ([[overviews/clear-aligner-indications-limitations]]에서 상세 통합됨)
