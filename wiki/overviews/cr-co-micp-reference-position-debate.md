@@ -2,7 +2,7 @@
 title: "Overview: CR vs CO/MIP(ICP) — the Maxillomandibular Reference Position Debate"
 type: synthesis
 category: overviews
-date: 2026-07-18
+date: 2026-09-14
 evidence_level: synthesis
 source_papers:
   - wiki/occlusion/kattadiyil-2021-relationship-centric-occlusion-maximal-intercuspal.md
@@ -28,6 +28,7 @@ source_papers:
   - wiki/occlusion/rovira-lastra-2026-articulating-paper-accuracy-occlusal-points.md
   - wiki/occlusion/jahanbin-2026-occlusal-adjustment-post-orthodontic-tscan-rct.md
   - wiki/tmj/singh-2024-occlusal-interventions-tmd-cochrane-sr.md
+  - wiki/occlusion/nicolae-2025-cross-sectional-study-occlusal.md
 tags: [centric-relation, centric-occlusion, maximum-intercuspation, intercuspal-position, reference-position, occlusal-slide, condylar-position, TMD, full-mouth-rehabilitation, interocclusal-record, bite-registration, bimanual-manipulation, articulating-paper, occlusal-adjustment, intraoral-scanner, virtual-articulator, measurement-tolerance]
 ---
 
@@ -49,6 +50,7 @@ tags: [centric-relation, centric-occlusion, maximum-intercuspation, intercuspal-
 > - **⚠️ 자기상태 정정 (2026-09)**: 이전 판은 "교정 축은 이 위키에 논문이 없어 구멍"이라 단언했으나 **사실이 아니었다** — Jahanbin(2026) **RCT**(n=30, Class I 4소구치 발치, 디본딩 1개월 후 Dawson 양수조작으로 CR 유도 교합조정 + 견치유도 평형, T-Scan III로 6개월 추적)를 위키가 이미 보유 중이었다. 결과는 **음성**: 교합접촉 강도·개수 모두 무유의(전부 P>0.05), 초기 후방접촉 강화는 생리적 정착(settling)에 씻겨나감. 즉 교정 축은 비어 있는 게 아니라 **"이미 양호한 케이스에서는 CR 유도 교합조정이 측정 가능한 이득을 못 낸다"는 RCT 한 편이 들어와 있다**(n=15/군 검정력 부족·6개월 추적 한계).
 > - **⛔ 사다리 최상단의 제약 — 활주를 발견해도 갈지 말 것**: Singh(2024) **Cochrane 체계적 문헌고찰** — 악관절장애(TMD)에 대해 **교합조정은 효과 없음**, 비가역적 교합 처치(삭제·크라운)는 이득 근거 없고 해악 위험 → **강한 반대 권고**. 이 논쟁 전체에서 근거등급이 가장 높은 문서이며, 방향이 명확하다: CR-MIP 활주는 **진단·설계상의 정보**이지 그 자체로 삭제의 적응증이 아니다. 아래 결정경로의 "활주 >2mm → 평가"는 **평가에서 멈추라**는 뜻이다.
 > - **임상 합의점(실무 결론)**: ① **전악수복**처럼 기존 MIP를 잃거나 바꿔야 하면 → **재현 가능한 CR/CO를 기준위로** 채택(Kattadiyil·Goldstein), 채득은 **Dawson 양수조작**으로(de Moraes Melo Neto·Jász), 후퇴 유도법은 피한다. ② **건강하고 안정적인 유치악 + 소량 활주(<2mm)·무증상**이면 → 기존 **MIP를 수용**(Zonnenberg). ③ **과두 변형/불안정·TMD 징후**면 → 과두 안착을 신뢰 말고 **근육 유도 안정위/조기접촉 없는 ICP**로(Fukushima), 그리고 과두위 변화를 추적(Fornai). 변형 골격(hyperdivergent)·큰 활주는 경계. ④ 어느 경로든 **TMD를 이유로 한 비가역적 교합 삭제는 하지 않는다**(Singh 2024).
+> - **[2026-09-14 신규] CR 조기접촉이 치주 손상을 더 유발 — 활주 감시의 치주적 근거**(Nicolae 2025, 단면 n=50, OccluSense 디지털 교합분석): 편위접촉치 493개에서 교합부하(mean 208 vs 72–97) 유의 높고, 탐침깊이·치은퇴축·골소실·치주인대(Periodontal Ligament, PDL) 폭경 전 항목 유의 악화; **정중위(Centric Relation, CR) 조기접촉이 측방이동·전방이동 간섭보다 치주 손상과 더 강하게 연관** — 교합력 크기가 아닌 접촉 유형·하악 편위 방향이 독립 변수. Singh 2024 Cochrane(삭제 금지)과 결합하면: CR 활주는 관찰하되 비가역 삭제로 처치하지 않는다.
 > - **공통 한계**: 정의 불일치, 저질·이질적 근거, 측정법 표준 부재. CR↔MIP 우월성을 가리는 고품질 RCT는 없고, 건강인에서 어느 위치로 회복하든 보철 부작용의 결정적 차이는 보고되지 않음.
 
 ## Three-line Summary
@@ -117,6 +119,7 @@ Two readings, and the weaker one is the safer. Strongly: deliberately seating a 
 | Yu 2024 | Narrative review (abstract only — PMC lacks the Chinese body) | — | **situational CR** | Restricts CR to situations of "little controversy" via a preliminary decision tree; frames three separate questions (TMD core? occlusal-reconstruction build position? orthodontic target?); branch conditions not retrievable |
 | Jahanbin 2026 | **RCT** (the only one here) | 30 (15/15), Class I 4-premolar extraction, 6 mo | (negative — no gain from CR) | CR-guided post-orthodontic equilibration (Dawson bimanual, canine guidance) vs none: **no significant difference** in T-Scan contact intensity or number at any interval (all P>0.05); early posterior gain washed out by physiologic settling. Underpowered (n=15/arm), 6-mo only, already-acceptable cases |
 | Singh 2024 | **SR (Cochrane, GRADE)** — highest grade on this page | RCTs, all TMD subtypes | (constraint on all rows) | **Occlusal adjustment: no benefit.** Stabilisation splint: very-low-certainty small benefit, no advantage over placebo splint. **Strong recommendation against irreversible occlusal modification for TMD.** A slide is not an indication to grind |
+| [[occlusion/nicolae-2025-cross-sectional-study-occlusal]] | Cross-sectional (OccluSense digital, n=50) | 493 deflective-contact teeth vs adj/homol controls | (consequence of CR contacts) | **CR premature contacts produce more periodontal damage than protrusive/lateral interferences** despite similar force magnitudes — contact type and direction of mandibular deviation are independent variables. Mean occlusal loading 208 vs 72–97 at deflective contacts; PD, recession, bone loss, PDL width all significantly worse. Cross-sectional: no causation. Pairs with Singh 2024: monitor the slide, do not grind. |
 
 ### Can we actually record and verify the position we chose?
 
@@ -201,6 +204,7 @@ The debate's thresholds (2 mm slide; Radej's ≥2 mm / ≥0.5 mm) presuppose a m
 - [[occlusion/didier-2026-occlusal-contacts-ios-vs-carbon-paper-concordance]] — digital vs paper contact detection concordance
 - [[tmj/singh-2024-occlusal-interventions-tmd-cochrane-sr]] — the constraint over every row: occlusal adjustment ineffective for TMD, strong recommendation against irreversible occlusal modification. Highest evidence grade on this page
 - [[occlusion/jahanbin-2026-occlusal-adjustment-post-orthodontic-tscan-rct]] — the orthodontic axis, and the only RCT here: CR-guided equilibration after debonding showed no measurable benefit at 6 months (underpowered, already-acceptable cases)
+- [[occlusion/nicolae-2025-cross-sectional-study-occlusal]] — **[2026-09-14 추가]** the periodontal consequence link: CR premature contacts cause more periodontal damage than lateral/protrusive interferences despite similar force magnitudes (OccluSense, n=50); contact direction is the independent variable. Combined with Singh 2024: the slide matters clinically, and the answer is monitoring — not grinding.
 
 **Recording & verification chain** (added 2026-07-17, extended 2026-09-02 — the instruments the debate's 2 mm threshold depends on; only the manipulation link currently clears it):
 
