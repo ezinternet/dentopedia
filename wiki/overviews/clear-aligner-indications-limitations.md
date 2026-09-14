@@ -86,6 +86,11 @@ source_papers:
   - wiki/orthodontics/clear-aligner/wang-2025-clear-aligner-premolar-extraction-3d-tooth-movement.md
   - wiki/orthodontics/clear-aligner/wang-2026-accuracy-mandibular-dentition-distalisation-invisalign.md
   - wiki/orthodontics/clear-aligner/wonghinkong-2026-canine-retraction-palatal-power-arm-rct.md
+  - wiki/orthodontics/clear-aligner/abu-arqub-2025-clear-aligner-extraction-sr-ma.md
+  - wiki/orthodontics/clear-aligner/nogueira-matos-2026-refinement-factors-clear-aligner-sr.md
+  - wiki/orthodontics/clear-aligner/husain-2025-deep-bite-clear-aligner-sr.md
+  - wiki/orthodontics/clear-aligner/fracchia-2025-lower-incisor-intrusion-clear-aligner-sr.md
+  - wiki/orthodontics/clear-aligner/albaqshi-2025-invisalign-predictability-factors-compliance-sr.md
   - wiki/orthodontics/clear-aligner/xianggang-2026-predictability-maxillary-transverse-changes-invisalign.md
   - wiki/orthodontics/clear-aligner/yan-2025-mesiodistal-angulation-maxillary-lateral-incisor-clear-aligner.md
   - wiki/orthodontics/clear-aligner/yassir-2022-cat-vs-fat-overview-systematic-reviews.md

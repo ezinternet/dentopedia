@@ -3928,6 +3928,11 @@ tags: []
 - [[wiki/orthodontics/clear-aligner/panda-2025-clear-aligner-braces-class-iii-comparison]] — Retrospective (n=50): CAT vs FA in Class III malocclusion — CAT favors duration/compliance, FA favors skeletal (ANB) improvement
 - [[wiki/orthodontics/clear-aligner/gok-2025-clear-aligner-z-spring-anterior-crossbite-mixed-dentition]] — RCT (n=30, abstract-only): CAT vs Z-spring for anterior crossbite in mixed dentition — Z-spring faster (48 vs 96 days), OHRQoL comparable
 - [[wiki/orthodontics/clear-aligner/wonghinkong-2026-canine-retraction-palatal-power-arm-rct]] — Split-mouth RCT: palatal power arm improves canine tip/rotation control during extraction-space canine retraction, no clear benefit for translation/anchorage
+- [[wiki/orthodontics/clear-aligner/abu-arqub-2025-clear-aligner-extraction-sr-ma]] — SR+MA (20 studies, n=536): extraction-case CA — mesial molar tipping MD −6.08°, under-retraction −1.93 mm, root divergence, inferior root control vs fixed (2025)
+- [[wiki/orthodontics/clear-aligner/nogueira-matos-2026-refinement-factors-clear-aligner-sr]] — SR (20 studies, SWiM): refinement drivers = complexity/extraction/IPR/movement-type; remote monitoring ↓ appointments but not refinement need (2026)
+- [[wiki/orthodontics/clear-aligner/husain-2025-deep-bite-clear-aligner-sr]] — SR (18 studies): deep bite CA effectiveness 0.4–3.8 mm, accuracy 33–48.88%, GRADE low; effective for dentoalveolar, uncertain for skeletal (2025)
+- [[wiki/orthodontics/clear-aligner/fracchia-2025-lower-incisor-intrusion-clear-aligner-sr]] — SR (8 studies): lower incisor intrusion 0.4–1.5 mm, predictability 35–65%; 7/8 serious RoB, GRADE moderate-low (2025)
+- [[wiki/orthodontics/clear-aligner/albaqshi-2025-invisalign-predictability-factors-compliance-sr]] — SR (6 studies): male/ortho-naive = higher compliance; wear time inadequacy = primary failure; bucco-lingual tipping most accurate, rotation/intrusion/expansion least (2025)
 
 ### New batch — 2026-07-09 ingest (implant prosthetic margin/design ↔ marginal bone loss, PMC full-text incl. Korean journal)
 - [[implants/wach-2026-emergence-angle-marginal-bone-loss]] — Retrospective (n=155 patients, 5yr, MIS implants): crown emergence angle NOT significantly associated with MBL for single/splinted crowns; weak significant association for bridges only (p=0.042) (Wach 2026)
