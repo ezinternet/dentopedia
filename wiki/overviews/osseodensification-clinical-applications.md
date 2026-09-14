@@ -47,6 +47,8 @@ source_papers:
   - wiki/implants/osseodensification/marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma.md
   - wiki/implants/osseodensification/kalra-2025-implant-stability-crestal-bone-osseodensification-sr-ma.md
   - wiki/implants/osseodensification/ali-2026-osseodensification-techniques-implant-stability-maxilla.md
+  - wiki/implants/osseodensification/guner-2025-osseodensification-ridge-split-implant-stability.md
+  - wiki/implants/osseodensification/ortiz-2025-osseodensification-implant-dentistry-critical-review.md
 evidence_level: synthesis
 source: synthesis
 agenda: agenda/2026-05-25_osseodensification-whole-picture.md
@@ -69,6 +71,7 @@ agenda: agenda/2026-05-25_osseodensification-whole-picture.md
 > - 상악동저 보강: TSFE 적응(잔존골 높이(Residual Bone Height, RBH) 4–8mm), Starch-Jensen 2025 SR+MA(6 RCT, low GRADE)에서 OD가 ISQ 우위·생존 동등, 천공률 7.31%(Mazor 2024)이나 RBH ≤3mm가 천공 독립 위험인자.
 > - CBCT가 RBH를 약 1.86mm 과소평가(Ragher 2026) → borderline 케이스에서 CBCT 단독 의존 경고, 이중 모달리티 권장.
 > - Bench 보강(2026-06-24): Tao 2025(CNC, Type IV foam)는 OD가 토크는 크게 올리되 임플란트 안정성 지수(Implant Stability Quotient, ISQ)는 동등(47.1 vs 46.7, p=0.86)임을 통제 환경에서 재현하며 드릴링 파라미터 권고(1500 rpm·0.04 mm·z⁻¹·관수)를 신설; Barberá-Millán 2021은 OD가 기존 언더드릴링(Under-Drilling, UD) 대조군조차 삽입토크(21.72 vs 8.87 Ncm)·ISQ(69.75 vs 65.16) 모두 능가 — 저밀도골 1차 안정성 이득 보강.
+> - **[2026-09-14 신규] 치조제 분리술 + OD — 상악 구치부 ISQ 유의 우위, 하악 전치는 무이득**: Guner 2025(후향 n=268 임플란트/65명, 치조제 분리술(Ridge Split) 후 즉시식립): OD(Densah bur) vs Osstem Esset 기존 분리술 — 상악 전치·후치 및 하악 후치 식립 시·4개월 ISQ 유의 우위(all p<0.01), 전 OD 임플란트 ISQ ≥65(부하 임계값) 유지; 하악 전치(D1–D2 치밀골)에서는 ISQ 이득 없음. 수직골증대량 동등. OD의 ISQ 이득이 **골밀도 의존적(저밀도 상악 유리, 고밀도 하악 전치 무이득)**임을 치조제 분리술 맥락에서 재확인. [확인]
 > - **좁은 ridge spoke 개통 (2026-07-17)**: López-Valverde 2025 SR+MA(10편/241명, PROSPERO)가 골확장(BE)·골압축(BC)·골밀도화(OD)를 **하나의 실험군으로 묶어** 대조와 비교 — 골밀도(BD) SMD −0.71(I²=0%, 견고)·치조정 확장(CE) −1.12(I²≥75%, **민감도 분석 전엔 NS**)·ISQ −8.88(I²=96%). **이건 OD vs BE head-to-head가 아니다**; CE·ISQ는 출판편향 고위험 → "BD는 단단하게, CE·ISQ는 시사적으로". 저자들은 GBR·블록·crestal split이 가능하면 그 뒤에 이 기법들을 놓는다 — spoke는 열렸지만 결론은 "OD 우선"이 아니다.
 > - **과잉의 천장 (신설 축)**: Coyac 2019(쥐 상악, 고미스핏 배정)이 골밀도화 → 미세골절 → 골세포 사멸 → 흡수 우세 → 조기 실패 경로를 제시 — 저자 정식화 "excessive osseo-densification → osseo-destruction". 보유 OD 근거가 대부분 *치유 없는* 벤치 계측이라 비어 있던 칸. **단 초록 전용이라 미스핏 크기·토크·p값이 없다 = 천장이 있다고만 말하고 어디인지는 말하지 않는다.** 독립 신호: Rizk 2024 RCT 과잉 밀도화 실패 3건(혈류 감소·발열).
 > - **형상 vs 방향 (기전 보강)**: Bätz 2019(정형외과 브로치 벤치)가 작업 방향을 고정한 채 예리함만 바꿔 **무딘 추출형 +117%·압착형 +121% 밀도화(P=.005)** — 방향이 아니라 **형상**이 밀도화를 정한다 → Rittipakorn 2025 CW-OD를 "회전은 어느 face를 물지 고를 뿐"으로 읽는 쪽 지지. 치과 기구 미시험·준정적·소뼈 = 전이 불가.
@@ -375,6 +378,11 @@ Living document 원칙으로 명시:
 - [[overviews/isq-loading-threshold]] — ISQ 부하 결정
 - [[overviews/ridge-split-expansion-technique-selection-overview]] — 좁은 능선 술식 서열 (GBR 4.04 > RS 3.66 > OD 2.15 mm; 단 시작 폭이 다름) — §3-2의 결정 지점
 - [[overviews/high-insertion-torque-primary-stability-crestal-bone-overview]] — 토크 상한·부위별 해악 규칙; §1 Coyac 천장의 토크 축 상세
+
+### 신규 추가 (2026-09-14)
+
+- [[implants/osseodensification/guner-2025-osseodensification-ridge-split-implant-stability]] — 후향 (n=268 임플란트/65명, 치조제 분리술+즉시식립): OD vs 기존 Esset 분리술 — 상악 전·후치 및 하악 후치 ISQ 유의 우위(p<0.01 all); 하악 전치(D1–D2)는 이득 없음; 전 OD ISQ ≥65 유지; 수직골증대 동등. OD 이득이 저밀도골(상악)에 집중됨을 치조제 분리술 맥락에서 재확인. (retrospective, 2025)
+- [[implants/osseodensification/ortiz-2025-osseodensification-implant-dentistry-critical-review]] — 비판적 서술 고찰(Dent J): IT 일관 향상, ISQ 불일치, D3/D4·경치조골 거상에서 효과 뚜렷; 장기 RCT 부재. 기존 합성 결론 재확인. (narrative-review, 2025)
 
 ### 신규 추가 (2026-09-13)
 
