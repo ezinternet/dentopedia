@@ -2,7 +2,7 @@
 ---
 title: "처방 한 장으로 끝 — 시나리오별 치과 처방 레퍼런스"
 type: interactive
-date: 2026-09-09
+date: 2026-09-14
 status: done
 verified: 2026-09-03
 category: drug
@@ -391,7 +391,7 @@ const CARDS = [
    dose:'<em>Chlorhexidine 0.12% 1일 2회 · 2주</em>',
    notes:[], src:['ridge preservation 프로토콜 관례'], lvl:'w'}
  ],
- warn:'<b>COX-2 선택적 억제제(Celecoxib·Etoricoxib) 회피</b> — 골형성 억제 → 골유착 저해 가능성 보고 (Etikala 2019, 임상 근거 부족·결론 유보). 비선택적 Ibuprofen·Naproxen 단기 사용은 안전.',
+ warn:'<b>COX-2 선택적 억제제(Celecoxib·Etoricoxib) 회피</b> — 골형성 억제 → 골유착 저해 가능성 보고 (Etikala 2019, 임상 근거 부족·결론 유보). <b>⚠ 비선택적 NSAID(Ibuprofen·Naproxen)도 조기 임플란트 실패 연관 (Chatzopoulos 2025, n=12,943 환자·49,997 임플란트: 이부프로펜 OR 2.29–2.87, 나프록센 OR 2.65; Kumchai 2025 파일럿 RCT: ISQ 증가 절반·변연골소실 55% 증가).</b> 임플란트 후 권장: APAP 단독 또는 APAP+NSAID ≤48h 제한, 7일 초과 NSAID 자제.',
  rx:'[술전] 아목시실린 2g PO — 수술 1시간 전, 단회\n[술전] 이부프로펜 400mg — 30~60분 전\n[술후] 이부프로펜 400 / 아세트아미노펜 1000 교대 q4h × 48h\n[보조] 클로르헥시딘 0.12% 가글 1일 2회 × 2주\n※ 셀레콕시브 등 COX-2 선택적 억제제 사용 금지'},
 
 {tab:'imp', g:'임플란트', t:'골이식 · GBR 동반', pill:'≤24시간까지',
@@ -884,7 +884,7 @@ const CARDS = [
  ['광범위 항생제 1차 처방','배농이 확립되면 좁은 스펙트럼 = 광범위. 거의 모든 요법이 임상 성공했다. — Teoh 2021'],
  ['인공관절 환자 루틴 예방','AAOS/ADA 2012 이후 루틴 적응증이 아니다. — Vidovic-Juras 2024'],
  ['Opioid 1차 처방 (Tramadol 포함)','Hydrocodone+APAP는 전 시점에서 Ibuprofen+APAP에 열등. Oxycodone·Codeine·Tramadol은 Network MA에서 위약과 동등. — Feldman 2024 / Miroshnychenko 2023'],
- ['임플란트 환자에게 COX-2 선택적 억제제','골형성 억제 → 골유착 저해 가능성. 비선택적 Ibuprofen·Naproxen 단기는 안전. — Etikala 2019'],
+ ['임플란트 환자에게 COX-2 선택적 억제제','골형성 억제 → 골유착 저해 가능성 (Etikala 2019). ⚠ 비선택적 NSAID(이부프로펜 OR 2.29–2.87, 나프록센 OR 2.65)도 조기 임플란트 실패 연관 (Chatzopoulos 2025, n=12,943; Kumchai 2025 파일럿 RCT). 임플란트 후: APAP 단독 또는 APAP+NSAID ≤48h 제한, 7일 초과 자제.'],
  ['제3대구치에 술전 NSAID(preemptive)','효과 없음(p=0.22). 술전에 쓸 약은 NSAID가 아니라 Dexamethasone 4 mg IM이다. — Costa 2015 / Tamgadge 2025']
 ]},
 
@@ -951,6 +951,7 @@ const CARDS = [
    ['치주 SRP 보조 전신 항생제 CAL 개선','<b>약함</b>','Botelho 2025 umbrella (SR 65.6% 매우 낮은 질)'],
    ['상악동거상술 술전 예방 유효 / 술후 연장 불필요','<b>낮음</b>','Díaz 2025 umbrella'],
    ['COX-2 selective가 골유착 저해 가능','<b>낮음</b>','Etikala 2019 narrative'],
+   ['비선택적 NSAID(이부프로펜·나프록센)도 조기 임플란트 실패 연관 (OR 2.29–2.87)','<b>중간</b>','Chatzopoulos 2025 코호트 (n=12,943 환자·49,997 임플란트); Kumchai 2025 파일럿 RCT (n=12)'],
    ['단회 NSAID 이상반응 순위는 nocebo 주도','<b>낮음</b>','Magesty 2026 NMA (확실성 매우 낮음~낮음)'],
    ['Sjögren ACR-EULAR 2016 ≥4점 분류기준','<b>강함</b>','Shiboski 2016 ACR-EULAR consensus (다국적 3 cohort)'],
    ['BMS 단계적 protocol (Clonazepam 국소·아연)','중간','Lee 2024 서울대 retrospective (n=248)'],
