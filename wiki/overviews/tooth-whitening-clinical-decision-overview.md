@@ -1,7 +1,7 @@
 ---
 title: "Tooth Whitening / Bleaching — Clinical Decision Overview (치아미백 임상결정 종합)"
 type: synthesis
-date: 2026-07-01
+date: 2026-09-14
 status: done
 source_wiki:
   - wiki/tooth-whitening/de-geus-2025-at-home-vs-in-office-bleaching.md
