@@ -2,7 +2,7 @@
 ---
 title: "TMD 치료 Ladder 도구 — 진단형·병기별 비약물·약물·중재 결정"
 type: interactive
-date: 2026-08-26
+date: 2026-09-14
 status: done
 category: occlusion
 source_wiki:
@@ -335,7 +335,8 @@ function update() {
       <li><strong>광생체조절치료 (Photobiomodulation, PBMT)</strong> — 통증 목표 1위 (SUCRA 88.9%, SMD −1.49 vs 대조, Zhang 2026 NMA)</li>
       <li><strong>도수치료 (Manual Therapy, MT)</strong> — 개구량 목표 1위 (SUCRA 92.9%); 수기 트리거포인트 (RD 32%, BMJ NMA 2023)</li>
       <li>CBT+바이오피드백 — 만성통증·재발 예방 최선 (RD 36%, BMJ NMA 2023)${isChronic ? ' <em>← 이 환자: 만성, 강력 적용</em>' : ''}</li>
-      <li>교합안정장치(스플린트): 조건부 추가 — 운동과 동등하거나 운동 우위 (Zhang 2021)</li>
+      <li>교합안정장치(스플린트): 조건부 추가 — 운동과 동등하거나 운동 우위 (Zhang 2021); 경부통 동반 시 상담+스플린트 vs 상담 단독 군간 차이 없음 (p&gt;0.57, Cimino 2025, RCT n=51)</li>
+      <li style="font-size:11px; color:var(--muted);">수면장애 문진 포함 권고: TMD 환자 ~90% 수면의 질 저하 (vs 비-TMD ~15%), 수면무호흡이 TMD 위험 예측 — 수면장애가 TMD 유발·지속인자 (Albadi 2026, SR 7편)</li>
     </ul>`;
   }
   if (type === 'art' || type === 'both') {
@@ -398,6 +399,7 @@ function update() {
   if (oa) {
     s4parts.push(`<li><strong>TMJ OA</strong>: CT gold standard (κ=0.71 vs 파노라마 κ=0.16) — 피질골 연속성 소실(미란·낭종)이 단순 편평화보다 진단적. 보존 우선 ladder (Song 2023, KDA)</li>`);
     s4parts.push(`<li>TMJ OA 6개월 가정 물리치료(온열·마사지·스트레칭·관절가동): 통증·Helkimo 지수 유의 개선 (Macías-Hernández 2022, 소규모 전향, 참고수준)</li>`);
+    s4parts.push(`<li>수면이갈이 (Sleep Bruxism Activity, SBA) 중증도 조율: CBCT SBA 경증·중등·중증 분류 → 3mm 레질리언트 스플린트 6개월: 전 등급 JFLS-20 유의 개선; 중증 SBA는 경증 대비 저작기능 예후 열세 (JFLS-M p=0.027) — SBA 중증도 평가 후 스플린트 예후 상담 (Emshoff 2026, 후향 n=109)</li>`);
   }
   if (psych || isChronic) {
     s4parts.push(`<li><strong>심리·사회 요인</strong>: biopsychosocial 접근 필수. 만성 TMD의 QoL 저하 — 근육형·관절통형이 디스크변위형보다 심각 (Pigozzi 2021 SR+MA)</li>`);
