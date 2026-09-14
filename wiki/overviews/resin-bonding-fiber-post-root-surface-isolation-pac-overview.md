@@ -2,7 +2,7 @@
 title: "도전적 접착 환경 보완 근거 — 섬유 포스트 전처리·4-META 충진재·NCCL 격리법·PAC 프라이머"
 authors: Synthesis
 year: 2026
-date: 2026-07-07
+date: 2026-09-14
 doi: ""
 source: ""
 category: [overviews]
@@ -16,11 +16,14 @@ relations:
     target: loguercio-2015-isolation-method-operative-field-gingival
   - type: refines
     target: neves-2026-ab-type-proanthocyanidin-primers-nano-dma
+  - type: extends
+    target: dhawan-2026-bonding-total-self-etch-fiberpost
 ---
 
 > [!summary] 한국어 핵심요약
 > - **핵심 명제**: 기존 접착 개요(CHX·10-MDP·수분·가수분해)가 다루지 않는 4가지 **도전적 임상 환경**에 대한 결합 근거 — 섬유 포스트(fiber post, FP) 표면 전처리, 고령 환자 근면 우식(root caries) 수복, 치경부 비우식성 병소(Noncarious Cervical Lesion, NCCL) 격리법, 프로안토시아니딘(proanthocyanidin, PAC) 프라이머의 층별 내구성 기전.
 > - **FP 전처리 — 레이저 = H2O2**: Nd:YVO4 레이저(1064 nm)로 GFP(Glass Fiber Post) 표면처리 시 Ra 1.32 µm로 24% 과산화수소(1.28 µm)와 통계적 동등; 두 처리 모두 무처리(0.43 µm) 대비 결합강도 유의 우위. 화학제 없는 대안으로 임상 활용 가능 (El-Azzouni 2026, in-vitro).
+> - **[2026-09-14 신규] GFP 시멘테이션 접착 시스템 클래스 — 자가산부식 우위**: 자가산부식(self-etch) > 전산부식(total-etch) > 자가접착(self-adhesive) 순으로 압출결합강도 유의 차이 (131.03 vs 115.25 vs 75.04 N, p=0.001, Dhawan 2026 in-vitro, n=60): 전산부식은 근관 내 수분 조절 어려움(과건조·과습윤), 자가접착은 상아질 세관 미세기계적 맞물림 부족. → 근관 치료 후 GFP 시멘테이션에는 자가산부식 접착 + 이중경화 레진시멘트(El-Azzouni 2026 기준 CDCRC/SADCRC 위치별 선택) 권장.
 > - **시멘트-치근부 방향 상호작용**: 전통형 이중경화 레진시멘트(Conventional Dual-Cure Resin Cement, CDCRC)는 치경부→치근단 방향으로 결합강도 감소(최대 11.47 MPa 치경부), 자가접착형(Self-Adhesive Dual-Cure Resin Cement, SADCRC)은 반대로 치근단 방향으로 증가(최대 11.31 MPa 치근단) — 치근 위치별 시멘트 선택 근거.
 > - **4-META/MMA-TBB + 유기복합 충진재**: 수분 조절 어려운 노인 근면 우식 수복에 Super-Bond 베이스에 유기복합 충진재(Organic Composite filler, OC) 3 wt% 첨가 시 열순환(TC) 후 전단접착강도(Shear Bond Strength, SBS) 유의 상승 (OC_multi ↑, p=0.0376); 반면 45S5 생활성유리(Bioactive Glass, BG) 3 wt%는 경화 지연·강도 저하·수산화인회석(Hydroxyapatite, HA) 형성 실패 (Kikuta 2025, in-vitro).
 > - **NCCL 격리법 동등**: 1단계 자가산부식 접착제 사용 NCCL 수복에서 러버댐(Rubber Dam, RD)과 코튼롤/견인사(Cotton Roll/Retraction Cord, CR/RC)는 18개월 유지율(73% vs 73%), 술의 시간(20.8 vs 21.2분), 환자 선호도(54% vs 46%) 모두 차이 없음 — CR/RC 격리 임상적으로 유효 (Loguercio 2015, split-mouth RCT).
@@ -83,6 +86,22 @@ CDCRC = conventional dual-cure resin cement (All Bond 2 + Duo-Link); SADCRC = se
 **Clinical decision rule**: When conditioning is used, CDCRC is preferred in the cervical third; SADCRC is preferred in the middle and apical thirds. Either cement substantially exceeds the ~5 MPa masticatory-force threshold across all thirds when conditioning is applied.
 
 **Advantage of laser**: avoids oxidative tissue exposure from hydrogen peroxide; no chemical agent in the canal. Both require a silane application step after conditioning.
+
+### Adhesive System Class for GFP Cementation — Self-Etch Preferred
+
+Source: [[resin-bonding/dhawan-2026-bonding-total-self-etch-fiberpost]]
+
+**Clinical question**: For cementation of glass fiber posts (using ParaCore dual-cure composite resin cement), which adhesive system class — total-etch, self-etch, or self-adhesive — delivers the highest push-out bond strength?
+
+| Adhesive system | Push-out bond strength | Failure mechanism |
+|---|---|---|
+| Self-etch | **131.03 N** (highest) | Best smear-layer penetration without over-drying risk |
+| Total-etch | 115.25 N | Canal geometry makes moisture control error-prone |
+| Self-adhesive | 75.04 N (lowest) | Insufficient micromechanical interlocking in root dentin |
+
+All pairwise comparisons significant (one-way ANOVA, p=0.001; n=60, 3 groups of 20).
+
+**Synthesis with El-Azzouni 2026**: El-Azzouni established the surface-conditioning choice (laser = H2O2 ≈ Ra 1.3 µm, conditioning > no-conditioning) and the cement-class × canal-third rule (CDCRC cervical, SADCRC apical). Dhawan adds the upstream step: the adhesive system applied before the dual-cure cement should be self-etch rather than total-etch or self-adhesive. The combined clinical rule is: **condition post surface (laser or H2O2) → self-etch adhesive → CDCRC (cervical) or SADCRC (middle/apical)**.
 
 ## Axis 2: 4-META/MMA-TBB Resin for Root Caries — Filler Class
 
@@ -192,6 +211,7 @@ None of these four modifications replaces good adhesive technique. They are add-
 - [[overviews/resin-dentin-bond-durability-degradation-overview]] — covers CHX, MMP/cathepsin inhibition, 10-MDP nanolayering, water-tree; the PAC mechanism (Neves 2026) is introduced there as a collagen cross-linking complement; this page provides the layer-specific mechanistic detail
 - [[overviews/adhesive-bonding-strategies-overview]] — covers universal vs SE vs E&R, silane timing, contamination management; this page extends into post conditioning and isolation equivalence for NCCL
 - [[resin-bonding/el-azzouni-2026-laser-hydrogen-peroxide-fiber-post-dual-cure]] — Axis 1 source: GFP laser vs H2O2 conditioning
+- [[resin-bonding/dhawan-2026-bonding-total-self-etch-fiberpost]] — Axis 1 extension: self-etch > total-etch > self-adhesive for GFP push-out bond strength (131 vs 115 vs 75 N, p=0.001)
 - [[resin-bonding/kikuta-2025-fillers-4-meta-mma-tbb-resin-root-caries]] — Axis 2 source: 4-META/MMA-TBB filler class for root caries
 - [[resin-bonding/loguercio-2015-isolation-method-operative-field-gingival]] — Axis 3 source: isolation equivalence for NCCL RCT
 - [[resin-bonding/neves-2026-ab-type-proanthocyanidin-primers-nano-dma]] — Axis 4 source: AB-type PAC nano-DMA layer-specific durability
