@@ -2,7 +2,7 @@
 title: "TMD/TMJ 관리 — 진단·보존·중재 종합 ladder"
 authors: Synthesis (Damian Lee)
 year: 2026
-date: 2026-07-03
+date: 2026-09-14
 doi: N/A
 source: N/A
 category: overviews
@@ -32,6 +32,9 @@ relations:
 > - **메타분석 해석 주의(방법론)**: TMD 관절천자 SR+MA들이 기전이 다른 비교군(스플린트·물리치료·PRP/HA·관절경·천자 변형)을 I²=85–98% 극단적 이질성 속에 통합하고, mm 척도에 표준화평균차(SMD)를 쓰며, 이질적 진단명을 섞으면 통합추정치가 임상적으로 해석 불가능 — 큰 유의 효과도 study 간 분산의 산물일 수 있음 (Fuentes-Barría 2026 Letter). 무선효과모형(random-effects)이 극단적 이질성을 정당화하지 못함 → 축 5 풀링 추정치는 신중히 읽을 것.
 > - **비약물 NMA 신규 (Zhang 2026, 축 2 보강)**: 근육성 TMD 10개 비약물요법 NMA(41 RCT) — 통증 목표 = 광생체조절치료 (PBMT) SUCRA 88.9% 1위 (vs 대조군 SMD −1.49); 도수치료 (MT) 2위(79.9%); 교합안정장치·운동은 대조군 대비 통증 유의차 없음. MMO 목표 = MT SUCRA 92.9% 1위. **임상 선택**: 통증 완화 → PBMT 우선; 개구량 개선 → MT 우선.
 > - **관절내 TMD 약물 NMA 신규 (Al-Hamed 2026, 축 3 보강)**: 관절내 TMD(원판변위 DD + 골관절염 OA 아형 분리) 약물 23 RCT NMA — DD: MESNA·HA 관절강세척이 장기(>3개월) 통증 유의; OA: 팔미토일에탄올아미드(PEA)·아보카도-콩 단기, 글루코사민+HA 장기 통증·MMO. 전반 낮음~매우낮음 근거: **어떤 약물도 자신있게 권고 불가 — 임상 판단 + 보존 실패 후 아형별 선택**.
+> - **[2026-09-14 신규] 상담 단독 ≈ 상담+스플린트**(cimino-2025, RCT, n=51, Turin): 경부통 동반 TMD에서 미시간형 교합안정장치 추가가 3개월 경부 VAS·장애지수(NDI)를 상담 단독과 동등하게 감소 — "스플린트 conditional add-on" 메시지의 직접 RCT 근거 보강.
+> - **[2026-09-14 신규] 수면장애 ↔ TMD 양방향 연관**(albadi-2026, SR 7편): TMD 환자의 ~90%가 수면의 질 저하 보고(비-TMD 15%); 수면무호흡(OPPERA 코호트)이 TMD 위험 예측; 이갈이-TMD·OSA-TMD 연관은 연구 간 불일치. 수면장애는 감춰진 TMD 유발·지속 인자로 초진 문진에 포함 필요.
+> - **[2026-09-14 신규] 연골하골(Subchondral Bone Alteration, SBA) 등급이 스플린트 반응 예측**(emshoff-2026, 후향 코호트, n=109, DC/TMD 편측 관절통): 3mm 레질리언트 스플린트 6개월 후 SBA 전 등급에서 JFLS-20 유의 개선(Δ≈9, p<0.001); 단 **중증 SBA는 경증 대비 저작기능 예후 열세**(JFLS-M p=0.027) → SBA 중증도로 환자 기대치 조율.
 > - **확신도**: 역학·비약물 보존·BMJ NMA = 근거강함; 약물·arthrocentesis·이갈이·OA·QoL = 합의수준; 편측저작·과두·이명 = 합의수준-하(단면+동물+FEA, 인과 미확인). 관절천자 풀링 추정치는 극단적 이질성으로 해석 주의(Fuentes-Barría 2026).
 
 ## Three-line Summary
@@ -112,6 +115,7 @@ TMD 36편(SR+MA·가이드라인 27 + 편측저작·과두·이명 5 + TMJ OA �
 | [[tmj/ferland-2026-patient-education-self-management-tmd-sr-ma]] | sr+ma (47 RCT, n=3,238) | 교육·자기관리(ED/SM) 단독 vs 타 비수술 치료: 단기 통증(SMD 0.67)·HRQoL(SMD 0.61)은 타 치료 우세, 전반 우열 불일치; 저위험 RCT 0편 (very low~low) |
 | [[tmj/liu-2026-monoblock-vs-twinblock-splint-addwr-rct]] | rct (n=118, open-label) | ADDwR: 신규 Mono-Block ARS > 트윈블록 관절잡음(82.1% vs 54.4%, p=0.001)·편안함·안정성; 통증·MMO·CBCT 위치 동등; 두 ARS 모두 원판 지속 정복 못 함 |
 | [[tmj/zhang-2026-nonpharmacological-myogenic-tmd-nma]] | NMA (41 RCT, 2021명, frequentist random-effects; SUCRA) | 근육성 TMD (myogenic TMD) 10개 비약물요법 비교: 통증 — 광생체조절치료 (Photobiomodulation Therapy, PBMT) SUCRA 88.9% (vs 대조군 SMD −1.49 [−2.07, −0.91]); 도수치료 (Manual Therapy, MT) SUCRA 79.9% (2위); 교합안정장치·운동치료는 대조군 대비 통증 유의차 없음. MMO — MT SUCRA 92.9% (vs 대조군 SMD 2.79 [1.33, 4.26]); 출판편향 가능성(Egger p<0.05)으로 해석 주의 |
+| [[tmj/cimino-2025-counselling-vs-splint-tmd-neck-pain-rct]] | rct (n=51 completers, Turin, Italy) | DC/TMD+경부통(NRS>3) 병행: 상담 단독 vs 상담+미시간형 스플린트 3개월 비교 — 양군 모두 경부 VAS(C: −7.0mm, p=0.006; S+C: −8.0mm, p=0.02)·장애지수(NDI) 유의 감소; **군간 차이 없음**(모든 경부 결과 p>0.57, Cohen's d<0.5). "스플린트 conditional add-on"의 직접 RCT 지지 |
 
 **임상 ladder (1차)**:
 1. **자가관리 교육** — 부드러운 식이, 턱 휴식, 스트레스 관리, 카페인 절제. 단, **교육·자기관리(ED/SM) 단독은 충분치 않을 수 있음**: Ferland 2026 SR+MA에서 ED/SM 단독은 타 비수술 치료보다 단기 통증(SMD 0.67)·HRQoL(SMD 0.61)에서 열세 — 능동 치료(PT·운동·스플린트)와 병행이 바람직 (단 모든 근거 very low~low, 저위험 RCT 0편이라 "교육 무효"가 아니라 "ED/SM 대조군이 대부분 비개별화·이론미반영 generic이었던 한계").
@@ -178,6 +182,7 @@ TMD 36편(SR+MA·가이드라인 27 + 편측저작·과두·이명 5 + TMJ OA �
 | Spine paper | Evidence | Key finding |
 |---|---|---|
 | [[tmj/minakuchi-2022-sleep-bruxism-management-sr]] | sr | 스플린트·biofeedback 근거 우위; 약물·BTX 보조 |
+| [[tmj/albadi-2026-sleep-disorders-tmj-pain-dysfunction]] | sr (7편, 2009–2024) | TMD 환자 ~90%가 수면의 질 저하 vs 비-TMD ~15%; 수면무호흡 증상이 OPPERA 코호트에서 TMD 위험 예측; 퇴행성 TMJ 변화가 스트레스·불량 수면과 연관; 이갈이-TMD 및 OSA-TMD 연관은 연구 간 불일치 — 수면장애는 TMD의 감춰진 유발·지속 인자 |
 
 **임상 ladder (이갈이)**:
 1. **진단** — 수면 polysomnography 또는 임상 + EMG 보조. 환자 자각·배우자 보고도 참고.
@@ -205,6 +210,7 @@ TMD 36편(SR+MA·가이드라인 27 + 편측저작·과두·이명 5 + TMJ OA �
 | [[tmj/song-2023-understanding-tmj-osteoarthritis-pathophysiology]] | narrative-review (KDA) | 과부하→저산소(HIF-1)→VEGF/MMP→연골·골 파괴; **CT=gold standard**(κ=0.71 vs MRI 0.46 vs 파노라마 0.16); 피질골 연속성(미란·낭종)이 단순 편평화보다 진단적 |
 | [[tmj/kim-2023-treatment-tmj-osteoarthritis]] | narrative-review (KDA) | 보존 우선 ladder: 자가관리→NSAID(GI 위험 시 celecoxib)→교합안정장치(경성>연성, 상·하악 동등)→관절강세정술(HA+스테로이드)→수술 최후; arthrocentesis 술기 디테일 포함 |
 | [[tmj/macias-hernandez-2022-home-based-exercise-tmj-osteoarthritis]] | prospective (JKAOMS, n=15명·26관절) | 임상+방사선 이중확진 TMJ OA에서 6개월 가정 물리치료(온열·마사지·스트레칭·관절가동·강화운동) 단독으로 통증·Helkimo 지수 중증→경증 유의개선(p=0.001), NSAID 사용 미미; 대조군 없음 |
+| [[tmj/emshoff-2026-subchondral-bone-splint-tmd-arthralgia-cbct]] | 후향 코호트 (n=109, 89.9% 여성, DC/TMD 편측 관절통) | CBCT 연골하골 변화(SBA) 경증·중등·중증으로 분류 후 3mm 레질리언트 스플린트 6개월: **전 등급에서 JFLS-20 유의 개선**(Δ≈9, p<0.001); 단 **중증 SBA는 경증보다 저작기능 예후 열세**(JFLS-M p=0.027, JFLS-sum p=0.002) → SBA 중증도를 사전 상담·기대치 조율에 활용 |
 
 **진단 원칙 (Song 2023)**:
 - **CT가 골변화 gold standard** — 파노라마 κ=0.16은 사실상 무용; DC/TMD 임상기준 민감도 0.55·특이도 0.61로 영상 필수.
@@ -286,6 +292,8 @@ TMD 36편(SR+MA·가이드라인 27 + 편측저작·과두·이명 5 + TMJ OA �
 - Santana-Mora 2021 n=24 소규모; Ma 2022·2025 단면연구(인과 불명); De Carli 2023 동물 실험(인체 외삽 제한); Zheng 2025 FEA 초록 기반·소규모 하위군(편위 n=9). 모두 [확인] 이하.
 - 이명 기제(auriculotemporal nerve 압박, petrotympanic fissure 경유 염증, 신경혈관 변화)는 가설적 — 인과 확인 없음.
 
+**TMD-이명의 체계적 근거 (Dipalma 2025)**: [[tmj/dipalma-2025-tmd-tinnitus-association-therapeutic-perspectives]] — PROSPERO 등록 SR (12편, 2014–2024): 통증성 TMD-이명 연관 OR=7.3 (95% CI 3.50–15.39), 단일 체감각성 이명 코호트에서 TMD 97.8%; TMD 지향 치료(도수치료·교육·안정화 스플린트)가 이명 관련 고통을 감소시킨 개입 연구 다수. 이 수치는 최대 추정치에 가까우므로 Bousema SR+MA의 GRADE 낮음 판정과 함께 읽을 것.
+
 **TMD-이명 자체를 깊이 다루는 전용 overview**: [[overviews/tmd-tinnitus-somatosensory-association-overview]] — 이 축의 이명 관련 부분(Ma 2025 편측저작-이명 상관)을 6편(narrative 3·sr 1·sr+ma 2: Ralli 2017·Bousema 2018·Dipalma 2025·Saczuk 2024·Michiels 2023·Dapuzzo 2024)으로 기전·연관성·진단·치료 4축 해상도로 심화. 핵심: Bousema의 정량 메타분석은 전체 근거를 GRADE 낮음으로 판정(narrative-review의 OR 7.3·8배 유병률 수치는 상한선으로 해석 필요), Dapuzzo의 RCT-only 메타분석(OR 0.26)이 가장 견고한 치료 근거.
 
 ## Decision threads
@@ -329,6 +337,10 @@ TMD 36편(SR+MA·가이드라인 27 + 편측저작·과두·이명 5 + TMJ OA �
 - [[tmj/fuentes-barria-2026-heterogeneity-tmd-meta-analytic-interpretability]] — 천자 SR+MA의 극단적 이질성·SMD-on-mm 풀링이 임상 해석 불가임을 경고; 축 5 모든 풀링 추정치를 읽는 방법론 caveat.
 - [[tmj/zhang-2026-nonpharmacological-myogenic-tmd-nma]] — 근육성 TMD 비약물 10가지 NMA: PBMT > 도수치료 > 교합안정장치·운동(통증 기준); 도수치료 > 나머지(MMO 기준) — 축 2 비약물 보존 순위 근거 직접 제공.
 - [[tmj/al-hamed-2026-pharmacological-intraarticular-tmd-nma]] — 관절내 TMD 약물 23 RCT NMA: DD/OA 아형별 약물 선택 가이드 — Häggman-Henrikson 2017의 총괄 약물 NMA를 관절내 TMD로 특화·심화(축 3 보강).
+- [[tmj/cimino-2025-counselling-vs-splint-tmd-neck-pain-rct]] — RCT(n=51, Turin): 경부통 동반 TMD에서 상담+스플린트 vs 상담 단독 — 경부 결과 동등(p>0.57); "스플린트 conditional" 메시지의 직접 RCT 지지(축 2). (rct, 2025)
+- [[tmj/albadi-2026-sleep-disorders-tmj-pain-dysfunction]] — SR(7편): TMD 환자 ~90% 수면의 질 저하; OSA-OPPERA 코호트 TMD 위험 예측; 브루시즘-TMD·OSA-TMD 연관 불일치. 수면장애 초진 문진 포함 근거(축 6). (sr, 2026)
+- [[tmj/emshoff-2026-subchondral-bone-splint-tmd-arthralgia-cbct]] — 후향 코호트(n=109): CBCT SBA 등급별 스플린트 6개월 반응 — 전 등급 JFLS-20 개선, 중증 SBA는 경증 대비 저작기능 열세(p=0.027); 기대치 조율 근거(축 8). (retrospective, 2026)
+- [[tmj/dipalma-2025-tmd-tinnitus-association-therapeutic-perspectives]] — SR(12편, 2014–2024): 통증성 TMD-이명 OR=7.3; TMD 지향 치료가 이명 고통 감소; 축 10 이명 연관성 보강(상한 추정 주의). (sr, 2025)
 
 ## Related overviews
 
