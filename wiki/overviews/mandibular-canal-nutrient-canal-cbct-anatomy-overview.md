@@ -2,7 +2,7 @@
 title: "하악관 변이·영양관 방사선 해부 — 이분/삼분하악관·영양관·전신질환 연관 종합"
 authors: Synthesis (Damian Lee)
 year: 2026
-date: 2026-07-13
+date: 2026-09-14
 doi: N/A
 source: N/A
 category: overviews
