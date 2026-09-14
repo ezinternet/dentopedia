@@ -2,7 +2,7 @@
 title: "Implant Stability Quotient (ISQ / RFA) — Measurement·Threshold·Loading Decision Ladder"
 authors: Synthesis (Damian Lee)
 year: 2026
-date: 2026-06-28
+date: 2026-09-14
 doi: N/A
 source: N/A
 category: overviews
@@ -43,6 +43,9 @@ relations:
 > - 측정은 근·원·협·설 4방향으로 하고, 1방향만 평균과 ≥ 10 차이 나면 재측정.
 > - **임상 함의**: 식립 전 CBCT로 피질골 두께를 평가하면 ISQ를 예측 가능하며, 저밀도골에는 tapered design 우선 + 골밀도화(Osseodensification, OD) 보조 고려.
 > - 짧은 임플란트라도 적절한 macro-design + 피질골 고정(cortical anchorage) 확보 시 ISQ는 충분할 수 있다.
+> - **[2026-09-14 신규] 절개속도 300 rpm이 3개월 ISQ 최적**(konuklu-2026, 5군 병렬 RCT, n=100): 중등속(300 rpm)이 T4 ISQ 최고(Bonferroni p<0.05); 고속(800 rpm)은 피질골에서 초기 IT 최고; **골밀도화(Osseodensification, OD)는 중간 시점 일시적 ISQ 이득뿐 지속 우위 없음**; 골 응축(bone condensation)은 점진적 ISQ 저하로 최악의 프로토콜.
+> - **[2026-09-14 신규] Tapered(BLX) 초기 IT 우위, 6주 ISQ는 Cylindrical(BL) 역전**(monje-2025, 병렬 RCT, 85개 임플란트, Straumann SLActive): 식립 시 BLX IT 42.35 vs BL 30.63 N·cm (p<0.001), 그러나 6주 ISQ는 BL 75.21 vs BLX 72.23 (p=0.02). **초기 높은 IT가 장기 ISQ를 보장하지 않는다** — tapered-cylindrical 선택은 IT가 아닌 ISQ 궤적으로 판단.
+> - **[2026-09-14 신규] 삽입토크 곡선(PITV) 분류 신뢰도 검증**(rosasdiaz-2026, 관찰 1,250건): High(≥50 Ncm)·Moderate(30–<50 Ncm)·Low(<30 Ncm) 3등급 — 검사자간 κ=0.84, AUC=0.69(중등도 예측). 임상 결과 연계 미검증이라 loading 결정 도구 아님 — IT 곡선 해석 표준화 도구로만.
 > - **Ali 2026 추가 (분할구 RCT, n=7, 상악 전치부)**: Densah bur OD → ISQ 70.1 (즉시부하 임계 달성), Magnetic Mallet OD → ISQ 49.0 (미달) (p<0.001). 상악 전치부 얇은 치조제에서 Magnetic Mallet은 합병증(협측골판 파절, 구개측 균열) 2건 발생 — 학습곡선 급격함. Densah bur가 심미 구역 OD의 1차 선택. [rct, n=7 — 예비적]
 > - 도구 비교는 [확인], 임계값은 [확인], 영향 변수는 [확인]. 상세 ladder와 chairside 시뮬레이터는 isq-loading-threshold 및 ISQ·RFA 시뮬레이터 참조.
 
@@ -52,7 +55,7 @@ Decision-ladder synthesis of ~40 ISQ/RFA papers across 3 axes: (1) measurement d
 
 Cortical bone thickness at <3 mm depth is the dominant ISQ determinant (r=0.885; Chatvaratthana 2017 prospective n=19); tapered design and wider diameter (+3.4 to +4.2 per mm diameter at secondary stability; Huang 2017 n=557 multivariate regression) matter more than implant length; CBCT cortical-thickness assessment before placement allows ISQ prediction and loading-decision planning.
 
-ISQ and insertion torque (IT) are complementary, not interchangeable — their correlation is only r=0.44 with I²>90% (Tisci 2026 SR+MA), so both should be measured; use +3 ISQ correction for sinus-lift or GBR simultaneous placement, +2 for Type IV bone; fresh extraction sockets give artificially low ISQ (~57 vs healed bone ~72) — use IT (≥35 Ncm) as primary criterion there.
+ISQ and insertion torque (IT) are complementary, not interchangeable — their correlation is only r=0.44 with I²>90% [[implants/isq/tisci-2026-isq-it-mbl-survival-sr-ma|Tisci 2026 SR+MA]], so both should be measured; use +3 ISQ correction for sinus-lift or GBR simultaneous placement, +2 for Type IV bone; fresh extraction sockets give artificially low ISQ (~57 vs healed bone ~72) — use IT (≥35 Ncm) as primary criterion there.
 
 ## 세줄요약
 
@@ -87,6 +90,7 @@ ISQ와 삽입토크(IT)는 보완 지표(상관 r=0.44, I²>90%, Tisci 2026 SR+M
 | [[implants/isq/naughton-2023-safemount-osstell-transducer-torque-isq]] | in-vitro (n=56 implants, 7 types, D1–D4) | **수동 조임(gauze) → ISQ −2.05 (p<.001) vs 6 Ncm 토크 렌치**; SafeMount·플라스틱 마운트 ≡ 렌치 (NS); D4 골 ICC <0.24 — 어떤 방법도 저밀도골에서 신뢰 불가; 골밀도가 ISQ 변이의 36% 지배 |
 | [[implants/isq/parmar-2024-dependability-osstell-isq-measuring]] | clinical (n=60 implants, 18 patients) | Osstell ISQ ICC=0.96 (SmartPeg Type I·II 모두); 46–59% 케이스에서 <3 ISQ 변동 — **임상 단 1회 측정으로 충분** |
 | [[implants/isq/kim-2026-ist-versus-isq-reliability-inter-examiner]] | controlled lab (n=7 hygienists, 3 bone models) | IST vs ISQ 검사자간 ICC>0.90, 기기간 r>0.85; **검사자 경험 수준 유의 영향 없음** — IST는 위생사 포함 비전문가도 일관 측정 가능 |
+| [[implants/isq/rosasdiaz-2026-pitv-classification-repeatability-observational]] | observational (n=1,250 torque interpretations, 25 calibrated dentists) | 삽입토크 곡선 기반 PITV 3등급 분류(High ≥50/Moderate 30–<50/Low <30 Ncm + 곡선 서브타입): 검사자내 κ=0.82–0.95, 검사자간 κ=0.81–0.89(전반 κ=0.84, p<0.001); 예측 판별 AUC=0.69(중등도); **임상 결과 연계 미검증** — IT 곡선 해석 표준화 프레임워크이나 loading 결정 도구는 아님 |
 
 **SmartPeg 재사용·소독 신뢰성 (Won 2008, in vitro)**: 400회 반복 측정·부착-탈착, 오토클레이브(132°C/15min)·UV·고온오일·끓는물·H₂O₂+알코올·진공건열(138°C/5min) 6종 소독 후 ISQ 유의한 변화 없음. 자성 소실(임플란트 안정성 측정 불가)은 150°C 이상에서만 발생 → 임상 소독 프로토콜에서 SmartPeg 재사용 안전. 제조사 1회 사용 권고는 보수적.
 
@@ -136,6 +140,8 @@ ISQ와 삽입토크(IT)는 보완 지표(상관 r=0.44, I²>90%, Tisci 2026 SR+M
 | [[implants/isq/ragher-2025-iprf-venous-blood-synthetic-graft-isq]] | rct (n=64) | 간접 경치조골 상악동거상 후 6개월 ISQ: i-PRF 70.1/74.8, NovaBone 75.9/76.4 vs 무이식 54.8/55.8, 정맥혈 56.8/61.5 — i-PRF ≡ NovaBone (NS), 두 군 모두 ISQ ≥70 달성; **정맥혈은 무이식과 동등**, 증대재 선택이 상악동 ISQ 회복 속도를 결정 |
 | [[implants/isq/brizuela-velasco-2015-insertion-torque-isq-micromobility]] | in-vitro (n=19, cow ribs, 100 N load) | ISQ vs 미세동요(micromobility) r=0.91 — IT보다 강한 선형 예측인자; **IT ~34 Ncm 임계 이하에서 미세동요 급격히 증가** — 즉시부하 프로토콜의 최소 토크 가이드라인에 대한 생역학 근거 |
 | [[implants/isq/rosasdiaz-2024-insertion-compression-primary-stability]] | in-vitro (n=120, 4 diameters × 5 lengths × 3 compression) | 적극적 언더밀링 → IT 25→63 Ncm (p<.001) 이지만 **ISQ 유의차 없음 (p=0.166)**; 골밀도 36%·직경 27%·길이 12% 설명 — **압박 프로토콜에서 IT가 높아도 ISQ 동반 상승 없음; 즉시부하 결정은 IT 아닌 ISQ 기준** |
+| [[implants/isq/konuklu-2026-five-osteotomy-protocols-isq-rct]] | rct (n=100, 5군 병렬 RCT, 20개/군, 하악 후방부) | **중등속 300 rpm이 T4(3개월) ISQ 최고**(Bonferroni p<0.05); 고속 800 rpm은 피질골에서 식립 직후 IT 최고이나 종적 ISQ 우위 없음; 골밀도화(Osseodensification, OD) 군은 중간 시점에만 일시적 ISQ 이득 — **지속 우위 없음**; 골 응축(bone condensation) 군은 점진적 ISQ 저하로 전 군 중 최악의 결과 — 술식 선택이 ISQ 궤적을 결정함을 5군 직접 비교로 최초 정량화 |
+| [[implants/isq/monje-2025-implant-design-stability-early-healing-rct]] | rct (n=85 임플란트, Straumann BLX vs BL SLActive, 전치~대구치) | 식립 시 IT: BLX 42.35 vs BL 30.63 N·cm (p<0.001); **그러나 6주 ISQ: BL 75.21 vs BLX 72.23 (p=0.02, BL 우세)** — tapered(BLX) 초기 IT 우위는 6주 ISQ로 역전; **높은 식립 IT가 장기 ISQ를 보장하지 않는다** — tapered-cylindrical 선택은 IT가 아닌 ISQ 궤적 기준으로 판단 |
 
 **임상 함의**:
 - 식립 전 CBCT로 cortical bone 두께 평가 → ISQ 예측 가능.
@@ -266,6 +272,20 @@ ISQ와 삽입토크(IT)는 보완 지표(상관 r=0.44, I²>90%, Tisci 2026 SR+M
 
 **검사자간 신뢰도 (inter-rater reliability) — ISQ vs ISV vs 조직계측**
 - [[implants/isq/gu-2025-inter-rater-reliability-implant-stability]] — animal study (비글 1마리/임플란트 6개, 훈련된 검사자 5명, ICC): 조직계측(ITBD 0.854·BIC 0.806)이 최고 신뢰도, **ISQ 0.774로 비침습 도구 중 최고**(양호 기준 ≥0.75 충족), 방사선 0.638, **ISV(EasyCheck) 0.447로 유일하게 기준 미달** — 검사자가 바뀌는 다기관·종단 연구에서 ISQ를 표준 도구로 써야 하는 근거. Herrero-Climent 2013의 검사자내(intra-rater) ICC 0.97과 짝을 이뤄 ISQ 신뢰도를 검사자내·검사자간 양쪽에서 확인.
+
+## Related Papers (added 2026-09-14)
+
+**ISQ·IT 상관 및 부하 결정 지표 타당성 (ISQ–IT correlation · threshold validity)**
+- [[implants/isq/tisci-2026-isq-it-mbl-survival-sr-ma]] — SR+MA (48편, 20편 정량분석): ISQ–IT r=0.44(I²>90%, 낮은 일관성); 생존 임플란트에서 ISQ는 10년 추세 통계적 유의 없음(MD=10.22, 평균 ISQ 69.4); MBL과 ISQ 상관 12편에서 다양 — **ISQ는 생존 예측보다 부하 결정 시점 평가 도구로 사용해야 함을 대규모 SR+MA로 재확인**. Three-line Summary 및 세줄요약 인용.
+
+**골 형성 술식 × ISQ 궤적 (osteotomy protocol comparison)**
+- [[implants/isq/konuklu-2026-five-osteotomy-protocols-isq-rct]] — 5군 병렬 RCT (n=100, 20개/군, 하악 후방부, 터키): conventional drilling·300 rpm·800 rpm·OD·bone condensation 직접 비교; **중등속 300 rpm → T4(3개월) ISQ 최고**(p<0.05); OD는 일시적 이득만; bone condensation 프로토콜은 점진적 ISQ 저하 — 최악의 술식. 축 3 테이블 추가.
+
+**임플란트 디자인(Tapered vs Cylindrical) × IT/ISQ 궤적**
+- [[implants/isq/monje-2025-implant-design-stability-early-healing-rct]] — 병렬 RCT (n=85 임플란트, Straumann BLX vs BL SLActive, 서울 2025): 식립 시 BLX IT 42.35 vs BL 30.63 N·cm (p<0.001); **6주 ISQ는 BL 75.21 vs BLX 72.23 (p=0.02)로 역전** — 초기 IT 우위가 6주 ISQ로 이어지지 않음; tapered-cylindrical 선택 기준을 IT 아닌 ISQ 궤적으로 재정립. 축 3 테이블 추가.
+
+**삽입토크 곡선(PITV) 신뢰도 검증 (insertion torque value classification)**
+- [[implants/isq/rosasdiaz-2026-pitv-classification-repeatability-observational]] — 관찰 연구 (n=1,250 torque 해석, 25명 캘리브레이션 치의사, 스페인): PITV 3등급(High ≥50/Moderate 30–<50/Low <30 Ncm + 곡선 서브타입) — 검사자간 κ=0.84(p<0.001), 예측 AUC=0.69(중등도); **임상 결과 연계 미검증** — loading 결정 도구 아님. 축 1 테이블 추가.
 
 ## Related interactives
 
