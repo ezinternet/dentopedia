@@ -2,7 +2,7 @@
 title: "왜 하치조신경전달마취(IANB)는 실패하는가 — 해부학적 실패 원인과 부신경지배 지도"
 authors: Synthesis (Damian Lee)
 year: 2026
-date: 2026-07-02
+date: 2026-09-14
 doi: N/A
 source: N/A
 category: overviews
