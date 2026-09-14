@@ -2,7 +2,7 @@
 title: "Dental Anesthesia·Sedation — Korean Clinical Guideline Status Overview"
 authors: synthesis (llm-wiki)
 year: 2026
-date: 2026-06-01
+date: 2026-09-14
 category: [overviews]
 tags: [local-anesthesia, sedation, moderate-sedation, clinical-practice-guideline, korea, JKDA, PICO, overview, scaffold]
 source_papers:
