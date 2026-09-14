@@ -2,7 +2,7 @@
 title: "골밀도화 (Osseodensification, OD) 임상 적용 — Fontes Pereira 2023 spine + 4 시나리오 walk-through"
 authors: synthesis (llm-wiki)
 year: 2026
-date: 2026-08-16
+date: 2026-09-14
 type: overview
 category: [overviews]
 tags: [osseodensification, densahbur, primary-stability, ISQ, BIC, sub-antral, narrow-ridge, low-density-bone, immediate-implant]
@@ -49,6 +49,8 @@ source_papers:
   - wiki/implants/osseodensification/ali-2026-osseodensification-techniques-implant-stability-maxilla.md
   - wiki/implants/osseodensification/guner-2025-osseodensification-ridge-split-implant-stability.md
   - wiki/implants/osseodensification/ortiz-2025-osseodensification-implant-dentistry-critical-review.md
+  - wiki/implants/osseodensification/tomar-2026-osseodensification-conventional-drilling-umbrella.md
+  - wiki/sinus-lift/transcrestal/cobo-vazquez-2025-crestal-sinus-lift-osteotome-vs-osseodensification.md
 evidence_level: synthesis
 source: synthesis
 agenda: agenda/2026-05-25_osseodensification-whole-picture.md
@@ -79,6 +81,8 @@ agenda: agenda/2026-05-25_osseodensification-whole-picture.md
 > - 저밀도골(D3–D4)·상악동저 보강이 가장 active한 두 시나리오, **즉시식립만 spoke pending으로 남음**(추가 ingest 우선순위 P1).
 > - ex vivo 보강 — IT/RT↑ 그러나 ISQ NS 재현 (de Lima 2026): 소 늑골 Type IV 모델(n=16) 쌍대 연구에서 Versah와 브라질산 WF 키트 모두 기존 드릴링 대비 삽입토크(IT)·제거토크(RT) 유의↑(p=0.007/0.008)이나 ISQ(~79–82, p=0.157)·최고 온도(~28–31°C, p=0.087)는 세 군 간 유의차 없음 → "OD 이득은 기계적 맞물림(torque-detectable), ISQ로 측정되는 강성 변화는 아님" 해석 지지. 특기사항: WF 키트가 토크에서 Versah를 초과(IT 95.25 vs 77.62 Ncm) — 동일 원리의 저비용 대안 가능성.
 > - 한계: search cutoff 2023, RCT 부족·follow-up 짧음, Versah Inc. 후원 연구 다수 → 환자 동의서에 "근거 수준 낮음–중등" 언급 권장.
+> - **[2026-09-14 신규] 우산형 리뷰(Umbrella Review) — 증거의 증거 수준 확인**: [[implants/osseodensification/tomar-2026-osseodensification-conventional-drilling-umbrella|Tomar & Rawat 2026 (J Prosthet Dent, umbrella review, 9 SR 대상, AMSTAR-2, PROSPERO CRD420251116804)]] — OD vs 통상 드릴링에 관한 SR 9편을 체계적으로 평가한 최초 우산 리뷰: **1차 안정성(IT·ISQ)은 특히 저밀도골에서 OD 우위(9편 중 대부분)** 확인; 변연골 소실(Marginal Bone Level, MBL)·생존율은 양군 동등(>95%). OD 임상 이득은 저밀도골 1차 안정성 향상에 국한, 장기 생존·변연골 보호 우위 없음 — SR 레벨 합성이 단일 SR이 아닌 SR-of-SR로 승격됨. 단 초록 전용 인제스트(본문 유료 차단). [확인]
+> - **[2026-09-14 신규] 경치조 상악동 거상 — 오스테오톰 vs OD 최초 직접 SR+MA**: [[sinus-lift/transcrestal/cobo-vazquez-2025-crestal-sinus-lift-osteotome-vs-osseodensification|Cobo-Vázquez et al. 2025 (IJOMS, SR+MA, PRISMA 2020, 13편/519부위)]] — 오스테오톰(OST, 10편) vs 골밀도화(OD, 3편) 경치조 상악동 거상을 직접 비교한 **최초 PRISMA SR+MA.** 골증대량 동등(OD 3.37 mm vs OST 3.18 mm), 생존율 94.1–100% 중첩; **합병증률 OD 2.78% vs OST 14.32% — 약 5배 차이**. 단 OD 기저 잔존골 높이(Residual Bone Height, RBH)가 OST보다 높아(5.94 vs 5.00 mm) 교란변수 가능; OD 근거는 아직 3편에 불과 — OD가 경치조 거상 합병증을 5배 낮추나 RBH 비대칭 감안 필요. [확인]
 > - **⚠️ 철회 구성논문**: [[sinus-lift/transcrestal/changrani-2024-haenaem-zero-bone-loss-indirect-sinus-lift|Changrani 2024]] (HaeNaem CW-OD, n=12) — **RETRACTED/철회됨; 인용 금지.** 이 overview의 OD 핵심 주장(IT·ISQ·생존율)은 모두 유효한 별개 논문 기반이며 변경 없음.
 
 ## Three-line Summary
@@ -199,6 +203,7 @@ graph LR
 - ESBG (Endo-Sinus Bone Gain)는 측방창 대비 OD에서 적음. 수직 골증대가 1차 목표면 측방창 우선 [확인, Starch-Jensen 2025].
 - **RBH ≤3 mm에서는 OD-TSFE 천공 위험 ↑** (Mazor 2024) → 이 영역은 측방창 고려.
 - **CBCT가 RBH를 ~1.86 mm 과소평가** ([[sinus-lift/transcrestal/ragher-2026-infrasinus-residual-ridge-height-cbct-indirect-sinus|Ragher 2026]], n=50) → borderline RBH 케이스에서 CBCT 단독 의존 경고, 이중 모달리티 권장.
+- **경치조 OST vs OD 직접 비교 (최초 SR+MA — Cobo-Vázquez 2025)**: [[sinus-lift/transcrestal/cobo-vazquez-2025-crestal-sinus-lift-osteotome-vs-osseodensification|Cobo-Vázquez et al. 2025 (IJOMS, 13편/519부위)]] — 골증대량·생존율 동등이나 합병증률 OD 2.78% vs OST 14.32%(~5배 낮음); 단 OD가 더 높은 RBH에서 적용됨(5.94 vs 5.00 mm). **경치조 거상 기법 선택 시 OD가 안전성 면에서 우위이나 근거 기반은 아직 얇음(OD 연구 3편)** [확인].
 
 **진입점**: [[overviews/sinus-lift-technique-selection|sinus-lift-technique-selection overview]].
 
@@ -383,6 +388,8 @@ Living document 원칙으로 명시:
 
 - [[implants/osseodensification/guner-2025-osseodensification-ridge-split-implant-stability]] — 후향 (n=268 임플란트/65명, 치조제 분리술+즉시식립): OD vs 기존 Esset 분리술 — 상악 전·후치 및 하악 후치 ISQ 유의 우위(p<0.01 all); 하악 전치(D1–D2)는 이득 없음; 전 OD ISQ ≥65 유지; 수직골증대 동등. OD 이득이 저밀도골(상악)에 집중됨을 치조제 분리술 맥락에서 재확인. (retrospective, 2025)
 - [[implants/osseodensification/ortiz-2025-osseodensification-implant-dentistry-critical-review]] — 비판적 서술 고찰(Dent J): IT 일관 향상, ISQ 불일치, D3/D4·경치조골 거상에서 효과 뚜렷; 장기 RCT 부재. 기존 합성 결론 재확인. (narrative-review, 2025)
+- [[implants/osseodensification/tomar-2026-osseodensification-conventional-drilling-umbrella]] — **우산형 리뷰(9 SR, AMSTAR-2, PROSPERO)**: 1차 안정성(IT·ISQ) 저밀도골에서 OD 우위(대부분 SR 보고); **MBL·생존율 동등(>95%)** — SR-of-SR 수준에서 "IT 이득은 있으나 장기 이점 없음" 패턴 확인. 초록 전용 인제스트. (umbrella-review, 2026)
+- [[sinus-lift/transcrestal/cobo-vazquez-2025-crestal-sinus-lift-osteotome-vs-osseodensification]] — **경치조 OST vs OD 최초 직접 SR+MA(13편/519부위, PRISMA 2020)**: 골증대량·생존율 동등; 합병증률 OD 2.78% vs OST 14.32%(~5배 낮음); 단 OD 기저 RBH 높아 교란변수 존재(5.94 vs 5.00 mm); OD 근거 3편. (sr+ma, 2025)
 
 ### 신규 추가 (2026-09-13)
 
