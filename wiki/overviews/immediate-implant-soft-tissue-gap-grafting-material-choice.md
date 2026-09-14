@@ -2,7 +2,7 @@
 title: "Immediate Implant Grafting — Soft-Tissue & Gap Material Choice (CTG vs Substitute vs Bone-Substitute)"
 authors: Synthesis (Claude)
 year: 2026
-date: 2026-06-07
+date: 2026-09-14
 doi: N/A
 source: synthesis
 category: overviews
@@ -14,6 +14,8 @@ tags: [overview, immediate-implant, soft-tissue-augmentation, gap-grafting, conn
 relations:
   - type: reinforces
     target: de-angelis-2021-soft-tissue-augmentation-immediate-implant-sr-ma
+  - type: extends
+    target: rios-osorio-2025-xcm-vs-ctg-fgg-implant-soft-tissue-sr-ma
 ---
 
 ## 한국어 핵심요약
@@ -24,7 +26,8 @@ relations:
 > - 단, BSM은 전체 합병증을 증가시킴(RR 3.50, 낮은 확실성) → 환자 상담·모니터링 필요(주의 신호).
 > - 콜라겐 병용: 골대체재에 콜라겐을 더하면 협측 두께·심미가 단독 골이식보다 개선(Liu 2023, 7 RCT) — 단 제품 이질성 큼.
 > - 축 2 — 연조직 증대(facial mucosa): 자가 결합조직이식(Subepithelial Connective Tissue Graft, SCTG)이 최우수 — 협측 두께 +0.74mm, 변연수준 +0.5mm, PES +0.79, 변연골소실(MBL) −0.11mm(Aldhohrah 2022); Azadi 2025 Bayesian NMA에서도 1순위.
-> - 공여부 회피 시: 이종 콜라겐 기질(xenogeneic collagen matrix)이 합리적 대안(SCTG와 FSTT/수준 유사, De Angelis 2021) — 단 자가이식이 일관된(비유의) 우위 유지.
+> - 공여부 회피 시: 이종 콜라겐 기질(xenogeneic collagen matrix, XCM)이 합리적 대안(SCTG와 FSTT/수준 유사, De Angelis 2021) — 단 자가이식이 일관된(비유의) 우위 유지.
+> - **[2026-09-14 신규] XCM 서브타입 구분 필수 — 교차결합(crosslinked) VCMX만 CTG와 동등**(Rios-Osorio 2025, SR+MA, RCT 17편): 비교차결합 XCM은 CTG보다 점막두께 열등(MD −0.27 mm, P=0.01); **교차결합 VCMX(Fibro-Gide)만 CTG와 동등**(MD −0.02 mm, P=0.83); 각화점막 폭은 FGG가 XCM보다 +1.47 mm 우위(P=0.0006). → "콜라겐 기질"로 뭉뚱그리면 임상결과가 달라짐 — 부피 보강은 VCMX, 각화점막 폭 목표는 FGG(또는 SCTG).
 > - CTG는 치은 수준을 '유지'하는 것이지 부피를 '증가'시키는 것이 아님(Torra-Moneny 2024) → 기대치 설정 주의.
 > - 맞춤형 치유지대주(customized healing abutment) 단독은 얇은 부위 중협측 윤곽 유지에 불충분(Fettouh 2024: 퇴축 −1.54mm vs CTG −0.74mm).
 > - 시점: 고심미 우선 증례에서는 즉시식립과 '동시에' 연조직 증대 시행 — 선호 시점은 확립 안 됨(Thoma 2021 EAO 합의).
@@ -74,6 +77,7 @@ Adjacent overviews treat the *procedural* yes/no of these variables: [[overviews
 | [[immediate-implant/esthetic-soft-tissue/torra-moneny-2024-connective-tissue-grafts-immediate-implant-sr-ma]] | sr+ma | 5 RCT / 245 pt | soft | CTG maintains gingival level (MD 0.09 mm, NS trend) — level-keeping, not volume-adding. |
 | [[immediate-implant/esthetic-soft-tissue/fettouh-2024-soft-tissue-volume-midfacial-gingival-immediate-implant]] | rct | 39 sites | soft | CTG −0.74 vs bone graft −0.98 vs healing abutment −1.54 mm; CTG cuts volume loss 5-fold. |
 | [[immediate-implant/esthetic-soft-tissue/de-angelis-2021-immediate-implant-provisionalization-soft-tissue-retrospective]] | retrospective | 48 sites | soft | Xenogeneic collagen matrix ≈ SCTG for FSTT/marginal level; no-graft worst. |
+| [[implants/soft-tissue/rios-osorio-2025-xcm-vs-ctg-fgg-implant-soft-tissue-sr-ma]] | sr+ma | 17 RCT | soft | XCM subtype matters: crosslinked VCMX = CTG (MD −0.02 mm, NS); non-crosslinked XCM < CTG (MD −0.27 mm, P=0.01); FGG > XCM for KMW +1.47 mm. |
 | [[implants/soft-tissue/thoma-2021-soft-tissue-management-implants-eao-consensus]] | consensus | 6th EAO | soft | STA reduces mid-buccal recession + thickens mucosa at immediate placement; autograft tendency > substitute; timing unclear. |
 | [[immediate-implant/esthetic-soft-tissue/rondone-2024-tissue-grafts-immediate-implant-sr-ma]] | sr+ma | — | soft | Tissue grafts at immediate implants — esthetic benefit. |
 | [[immediate-implant/esthetic-soft-tissue/sutariya-2022-soft-tissue-immediate-provisionalization-sr-ma]] | sr+ma | — | soft | PES-centered soft-tissue/provisional synthesis. |
@@ -89,7 +93,7 @@ Adjacent overviews treat the *procedural* yes/no of these variables: [[overviews
 
 **Axis 2 — Soft-tissue augmentation (facial mucosa):**
 1. Thin phenotype / high esthetic demand → **autogenous SCTG is first choice** (BTT +0.74, MGL +0.5, PES +0.79, MBL −0.11; Aldhohrah 2022; ranked #1 in Azadi 2025 NMA). An independent SR+MA of 7 studies (n=272) focused on IIPP confirms: SCTG reduces mid-buccal mucosal recession by WMD 0.54 mm, increases FSTT by WMD 0.79 mm, and reduces marginal bone loss by WMD 0.13 mm at 12 months, all with low heterogeneity (I²=0–16%) — [[immediate-implant/esthetic-soft-tissue/de-angelis-2021-soft-tissue-augmentation-immediate-implant-sr-ma]]. [확인]
-2. To avoid a donor site → **xenogeneic collagen matrix** is a reasonable substitute (≈ SCTG for FSTT/level; De Angelis 2021), though autograft retains a consistent non-significant edge (Thoma 2021 EAO). [근거중간]
+2. To avoid a donor site → **specify the XCM subtype** (Rios-Osorio 2025, 17 RCTs): **crosslinked VCMX (Fibro-Gide)** = CTG for mucosal volume (MD −0.02 mm, NS); non-crosslinked XCM < CTG (MD −0.27 mm, P=0.01). For **keratinized mucosa width**, FGG remains gold standard (+1.47 mm vs XCM, P=0.0006). Generic "collagen matrix" is insufficient — product subtype determines outcome. [확인]
 3. CTG **maintains** the gingival level rather than increasing volume (Torra-Moneny 2024) — set expectations accordingly. [근거중간]
 4. A **customized healing abutment alone is insufficient** to hold midfacial contour in thin sites (Fettouh 2024: −1.54 mm recession vs −0.74 with CTG). [근거중간 RCT]
 
@@ -144,3 +148,4 @@ Adjacent overviews treat the *procedural* yes/no of these variables: [[overviews
 - [[overviews/immediate-implant-decision-ladder]] — parent 5-axis immediate-implant decision spine
 - [[overviews/implant-placement-timing-immediate-early-delayed]] — when to place (timing) before deciding how to graft
 - [[immediate-implant/esthetic-soft-tissue/de-angelis-2021-soft-tissue-augmentation-immediate-implant-sr-ma]] — SR+MA (7 studies, n=272): pooled SCTG effect at IIPP (MBML −0.54 mm, FSTT +0.79 mm, MBL −0.13 mm)
+- [[implants/soft-tissue/rios-osorio-2025-xcm-vs-ctg-fgg-implant-soft-tissue-sr-ma]] — SR+MA (17 RCTs): crosslinked VCMX = CTG for volume; non-crosslinked XCM < CTG; FGG > XCM for keratinized mucosa width (+1.47 mm)
