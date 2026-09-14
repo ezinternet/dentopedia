@@ -2,7 +2,7 @@
 title: "Watanabe Toothpick Method (이쑤시개법) of Toothbrushing — Evidence Synthesis"
 authors: synthesis page (compiled by Claude from 7 wiki entries, ingested 2026-06-19)
 year: 2026
-date: 2026-06-19
+date: 2026-09-14
 category: overviews
 evidence_level: synthesis
 source_collection: internal
