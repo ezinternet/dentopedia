@@ -2,7 +2,7 @@
 title: "Postoperative Analgesics·Pain Management Overview"
 authors: synthesis (llm-wiki)
 year: 2026
-date: 2026-08-24
+date: 2026-09-14
 category: [overviews]
 tags: [analgesics, NSAIDs, ibuprofen, acetaminophen, paracetamol, opioid, postoperative-pain, third-molar, endodontic-pain, preemptive-analgesia, overview, celecoxib, COX-2, IV-NSAIDs, ADA, guideline, chairside, temporary-management, opioid-sparing, acute-dental-pain, etoricoxib, corticosteroid, pediatric, pregnancy, alcohol, patient-education]
 source_papers:
@@ -50,6 +50,8 @@ source_papers:
   - drug/analgesics/bailey-2013-ibuprofen-paracetamol-wisdom-teeth-cochrane
   - drug/analgesics/bailey-2014-ibuprofen-paracetamol-wisdom-bdj-summary
   - drug/analgesics/abusamak-2025-perioperative-anti-inflammatory-periodontal-surgery-sr-ma
+  - drug/analgesics/chatzopoulos-2025-nsaid-early-dental-implant-failure-cohort
+  - drug/analgesics/kumchai-2025-naproxen-implant-osseointegration-pilot-rct
   - drug/analgesics/canellas-2022-corticosteroids-third-molar-nma
   - drug/analgesics/miroshnychenko-2023-corticosteroids-third-molar-acute-pain-sr-ma
   - drug/analgesics/franco-de-la-torre-2021-analgesic-efficacy-etoricoxib-following-third
@@ -86,7 +88,7 @@ relations:
 > - 근관치료(Endodontics)는 **시간대 의존 약제 선택** — 즉각(6–8h) 진통은 Diclofenac+APAP(MD −6.28) 또는 Ketorolac(SMD −0.82, rescue RR 0.50)이 최강이나 12–24h엔 위약 수준으로 소실(Kelidari 2026 NMA, Ping 2026 SR-MA); 12–24h 지속엔 Naproxen·Novafen이 우수. 술전 통증 prevalence 81%(Pak 2011) → 술전 통증 있으면 Ibuprofen 600mg(Smith 2017), 비가역 치수염엔 Diclofenac K 50mg(Vatankhah 2023), 심한 통증엔 corticosteroid 보조(Di Spirito 2022).
 > - 이상반응(Adverse Event, AE)에서 NSAID를 "위험"으로 내리지 말 것 — 제3대구치 단회 NSAID 단독이 SUCRA 안전성 최하위지만 **위약이 2위**라 노세보(nocebo, 부정적 기대) 효과가 주된 기전; AE는 경미·일시적 오심 수준(Magesty 2026 NMA, 28 RCT n=5,306, 확실성 매우 낮음~낮음). 효능 우위가 단회 AE를 압도 → NSAID 1차 유지.
 > - NSAID 안전성: 급성신손상(Acute Kidney Injury, AKI) 독립 위험(OR 1.98, Gomes 2025) → eGFR<60·고령·이뇨제 병용 시 회피하고 APAP 단독으로. 위장관 위험은 단기(≤7일) 사용에선 일반인구 무시 가능.
-> - 임플란트 환자에선 선택적 COX-2 억제제(Celecoxib·etoricoxib)가 골유착 저해 가능성 → 회피, 비선택적 Ibuprofen·Naproxen 단기는 안전(Etikala 2019, 근거 약함).
+> - **[2026-09-14 신규] 임플란트 환자 NSAID — 비선택적도 경계 상향**: Chatzopoulos 2025 대규모 후향코호트 (n=12,943명, 49,997개 임플란트)에서 이부프로펜 (Ibuprofen) 조기 실패 교차비 (Odds Ratio, OR) 2.29–2.87, 나프록센 (Naproxen) OR 2.65 (임플란트 수준; 연령·당뇨·골다공증 보정). 최초 인체 무작위대조시험 (Randomized Controlled Trial, RCT) 파일럿 kumchai-2025 (n=12)에서도 나프록센군 안정성 지수 (Implant Stability Quotient, ISQ) 증가 절반·변연골소실 (Marginal Bone Loss, MBL) ~55% 더 많음 (통계 미유의). 인과관계 미확정이나 **임플란트 식립 후 진통은 APAP ± 최단기 NSAID로 제한; COX-2 selective 및 비선택적 NSAID 7일 초과 사용 모두 자제** 권고로 격상. 기존 "비선택적 단기 안전(Etikala 2019)"은 대규모 코호트 데이터로 약화됨.
 > - **대체 NSAID**: 에토리콕시브 (Etoricoxib) 120mg은 제3대구치 발치 후 ibuprofen 400mg 대비 구제 진통제 필요 환자 수를 유의 감소(p=0.00001), 이상반응 차이 없음(Franco-de la Torre 2021 SR+MA) — 단 선택적 COX-2 억제제라 임플란트 환자 회피 원칙은 동일; tenoxicam은 1일 1회 옵션(Altuhafy 2026).
 > - **소아(≤12세)**: ibuprofen ≈ APAP(차이 사소), **ibuprofen 5mg/kg + APAP 15mg/kg 병용**이 APAP 단독보다 통증 강도 중요 감소(MD −0.75, 중등도 확실성), APAP+코데인 이득은 사소, 이상반응은 전 비교에서 매우 낮은 확실성(Miroshnychenko 2023 소아 SR+MA, 6 RCT). 12–17세 오피오이드는 극도 주의(ADA 2024).
 > - **음주 환자**: 규칙적 ibuprofen 복용 + 음주 시 상부위장관 출혈 위험 약 2.7배(Kaufman 1999, Dominiczak 2025 리뷰 인용)·신독성 강화 → 복용 기간 금주 상담; APAP로 바꾸더라도 만성 알코올 사용자의 1일 상한은 4g이 아니라 **2g**(Becker 2010).
@@ -374,10 +376,25 @@ The corticosteroid question splits by intent, and the two intents have different
 
 → 임상 적용: 치과 술후 진통은 보통 ≤7일 → 위장관 위험은 일반 인구에서 무시 가능. **위궤양 history·warfarin·corticosteroid 동시 복용 환자**에서만 PPI 동반 또는 Acetaminophen으로 전환.
 
-### 6-4. 임플란트·골유착 (COX-2)
+### 6-4. 임플란트·골유착 (COX-2 + 비선택적 NSAID)
 [확인] **Etikala 2019** narrative — 선택적 **COX-2 억제제(Celecoxib·etoricoxib)는 골형성 억제 → 임플란트 골유착 저해 가능성** 보고. 임상 근거 부족으로 결론 유보.
 
-→ 임상 적용 [미검증]: 임플란트 식립 환자에서 COX-2 selective 회피. 비선택적 Ibuprofen·Naproxen 단기 사용은 안전.
+[확인] **Chatzopoulos 2025** ([[drug/analgesics/chatzopoulos-2025-nsaid-early-dental-implant-failure-cohort]]) 대규모 후향코호트 (n=12,943명, 49,997개 임플란트) — 비선택적 NSAID와 조기 임플란트 실패(식립 6개월 내 제거)의 연관성:
+
+| 약물 | 임플란트 수준 OR (95% CI) | 환자 수준 OR (95% CI) |
+|---|---|---|
+| 이부프로펜 (Ibuprofen) | 2.29 (1.48–3.55) | 2.87 (1.83–4.51) |
+| 나프록센 (Naproxen) | 2.65 (1.22–5.75) | 유의하지 않음 |
+
+보정변수: 연령·성별·당뇨·골다공증. **후향 설계 + 적응증 교란 한계**: NSAID군이 더 고령(62.8 vs 58.7세)·당뇨(22% vs 17%)·골다공증(11% vs 7%) 비율 높아 잔류 교란 가능 — 인과관계 미확정.
+
+[확인] **Kumchai 2025** ([[drug/analgesics/kumchai-2025-naproxen-implant-osseointegration-pilot-rct]]) 최초 인체 무작위대조시험 (Randomized Controlled Trial, RCT) 파일럿 (n=12, 상악 임플란트) — 나프록센 220mg q8h ×7일 vs 위약(양군 아세트아미노펜 병용):
+- 임플란트 안정성 지수 (ISQ) 증가: 4주 +1% vs +41%, 16주 +34% vs +67% (모두 미유의)
+- 변연골소실 (Marginal Bone Loss, MBL): 4주 ~55%, 16주 ~52% 더 많음 (모두 미유의)
+- 진통 효과 확인: 구제 진통제 필요율 14.3% vs 80%
+- 검정력 권고: ISQ 확정 시험엔 군당 ≥64명, MBL 기준엔 7–10명이면 충분
+
+→ 임상 적용: ①COX-2 selective 회피(Etikala 2019), ②비선택적 Ibuprofen·Naproxen도 대규모 코호트에서 조기 실패 위험 연관(Chatzopoulos 2025) — 인과 미확정이나 **임플란트 식립 후 진통은 APAP 단독 또는 APAP + NSAID 최단기(≤48h)로 제한; 7일 초과 NSAID 연장 자제**.
 
 ### 6-5. Alcohol use
 [확인] **Dominiczak 2025** narrative review ([[drug/analgesics/dominiczak-2025-nsaid-alcohol-interaction-review]]) — alcohol and NSAIDs damage the gastric mucosa by complementary mechanisms (barrier disruption plus COX-1 prostaglandin suppression), and chronic alcohol induces CYP2E1 and competes for alcohol dehydrogenase. The review cites a case-control study (Kaufman 1999, N=4,169; not held in this wiki) in which regular ibuprofen users who drank any alcohol had ~2.7-fold upper-GI bleeding risk, and describes enhanced NSAID nephrotoxicity (AKI/CKD) with alcohol, particularly with dehydration or pre-existing renal impairment — the same kidney axis as Gomes 2025 (§6-1).
@@ -402,7 +419,7 @@ The corticosteroid question splits by intent, and the two intents have different
 |---|---|---|---|
 | **단순 발치** | — | Ibuprofen 400 / APAP 1000 alternate q4h × 48h | Opioid X (**ADA 2024 반대 권고**) |
 | **매복 third molar(외과 발치)** | **NSAID-preemptive 약함**(Costa 2015) — 권고 안 함; 대신 **술전 Dexamethasone 4mg IM 1회**(Tamgadge 2025, 항염 목적) 권장 | Ibuprofen 400 / APAP 1000 alternate × day 3; 불충분 시에만 APAP + opioid 2선(≤3일, ADA 2024) | Preop은 NSAID가 아닌 항염 목적 corticosteroid |
-| **임플란트** | Ibuprofen 400 술전 30–60min (Gousias 2025) | Ibuprofen 400 / APAP 1000 alternate × 48h | COX-2 selective 회피 |
+| **임플란트** | Ibuprofen 400 술전 30–60min (Gousias 2025) | **APAP 1000 단독 우선** or Ibuprofen 400 ≤48h + APAP; NSAID 7일 초과 자제 | COX-2 selective 회피(Etikala 2019); 비선택적도 조기 실패 연관 신호(Chatzopoulos 2025, 후향, 인과 미확정) |
 | **치주 수술** | Ibuprofen 400 술전 30–60min | 동상; 복합/성형 수술(GBR·연조직)은 SAID(dexamethasone) 고려 | NSAID 초기·SAID 48h 우위 (Abusamak 2025) |
 | **치통 잠정관리** (확정 Tx 즉시 불가) | 내원 중 단시간 국소마취제 + 선택적 benzocaine 10–20% | NSAID ± APAP 1선 → 불충분 시 APAP + opioid 2선 (2–3일 내 의뢰 bridge, ADA 2024 Scenario B) | just-in-case 처방 금지; 12–17세 극도 주의 |
 | **근관치료 (술전 통증)** | Ibuprofen 600 (Smith 2017) | Ibuprofen 600 / APAP 1000 alternate × 2–3일; **6–8h 급성엔 Diclofenac+APAP·Ketorolac, 24h 지속엔 Naproxen·Novafen** (Kelidari·Ping 2026) | Diclofenac K 대안; Ketorolac IN(Sprix) 비침습 옵션 |
@@ -458,6 +475,8 @@ The corticosteroid question splits by intent, and the two intents have different
 | 근관치료 corticosteroid 보조 유효 | 중간 (overview of SRs) | Di Spirito 2022 |
 | NSAID가 AKI 독립 위험인자 (OR 1.98) | 중간 (ICU retrospective) | Gomes 2025 |
 | COX-2 selective가 임플란트 골유착 저해 가능 | 낮음 (narrative, 임상 근거 부족) | Etikala 2019 |
+| 이부프로펜·나프록센 → 조기 임플란트 실패 연관 (OR 2.3–2.9) | 낮음 (후향코호트, 적응증 교란; 인과 미확정) | Chatzopoulos 2025 |
+| 나프록센 7일간 ISQ 증가↓·MBL↑ (방향 일관, 미유의) | 매우 낮음 (파일럿 RCT n=12) | Kumchai 2025 |
 | Ibuprofen OTC dose 단기 안전 | 강함 (review) | Rainsford 2009 |
 | IV NSAID이 opioid 사용 20–60% 감소 (경구 불가 시) | 중간 (narrative review, 비-치과 수술 데이터 다수) | Maurice-Szamburski 2025 |
 | Celecoxib GI 안전성 우수(RR 0.22), CV·신장은 비열등~우수 | GI만 중간, 나머지 낮음 (umbrella review 16 SR, 14/16 critically low) | Beaudart 2025 |
@@ -527,6 +546,8 @@ The corticosteroid question splits by intent, and the two intents have different
 - [[drug/analgesics/pozzi-2011-pain-management-dentists-ibuprofen]] — 치과 진료용 ibuprofen 약리·용량·안전성·약물 상호작용 narrative 리뷰: 발치·임플란트·치주·교정·미백 적응증별 사용 요약 (narrative, 2011)
 - [[drug/analgesics/becker-2010-pain-management-part-1]] — 2010 narrative CE review: NSAIDs가 통상 용량 opioid보다 급성 치과 통증에 우월; 진통 ceiling dose(ibuprofen 400mg, APAP 1000mg); equianalgesic opioid 용량 도표; Step 1 ibuprofen→Step 2 opioid 교육 프레임워크 — guideline 이전 근거 정리로 역사적 참고 (narrative/CE, 2010)
 - [[drug/analgesics/etikala-2019-nsaids-periodontal-implant-therapy-review]] — COX-2 골유착 우려
+- [[drug/analgesics/chatzopoulos-2025-nsaid-early-dental-implant-failure-cohort]] — 후향코호트 n=12,943: 이부프로펜·나프록센 → 조기 임플란트 실패 OR 2.3–2.9 (보정 후, 인과 미확정)
+- [[drug/analgesics/kumchai-2025-naproxen-implant-osseointegration-pilot-rct]] — 최초 인체 RCT 파일럿 n=12: 나프록센군 ISQ 증가↓·MBL↑ (통계 미유의)
 - [[drug/analgesics/gomes-2025-nsaids-kidney-toxicity-icu-retrospective]] — NSAID AKI OR 1.98
 - [[drug/analgesics/dominiczak-2025-nsaid-alcohol-interaction-review]] — narrative review of the NSAID–alcohol interaction: CYP2E1 induction and ADH competition, additive GI mucosal injury (cited ibuprofen + alcohol upper-GI bleeding RR 2.7) and enhanced nephrotoxicity (§6-5) (narrative-review, 2025)
 - [[drug/analgesics/zingel-2025-nsaids-cardiovascular-risk-inflammatory-arthritis]] — RA·AS 환자 NSAID CV 안전
