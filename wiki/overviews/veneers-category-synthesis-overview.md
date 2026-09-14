@@ -2,7 +2,7 @@
 title: "Dental Veneers — Category Synthesis Overview"
 authors: Synthesis (Damian Lee)
 year: 2026
-date: 2026-07-21
+date: 2026-09-14
 doi: N/A
 source: N/A
 category: overviews
@@ -26,6 +26,7 @@ tags: [veneer, laminate-veneer, feldspathic, lithium-disilicate, zirconia, occlu
 > - **교합면 비니어 특이점**(→ `occlusal-veneer-tooth-wear-erosion-overview`): 구치부 교합면에서는 세라믹과 CAD/CAM 복합레진 임상 생존율 차이 없음(p=.124~.107 NS; Schlichting 2022 RCT · Ferrando-Cascales 2023). 후방 위치가 유일 유의 실패 예측인자(HR 0.143, p=0.008).
 > - **접착 강도 위계**: LDS 25.4 MPa > 투명 지르코니아(Translucent Zirconia, TZ) 12.1 MPa; 법랑질 기질 21.1 MPa > 복합레진 코어 11.3 MPa(Hajeer 2026 SR+MA, in-vitro, I²=98%). LDS는 HF 에칭+실란화, 지르코니아는 실리카 네트워크 없어 MDP 프라이머 의존.
 > - **파노라마 설계 방법론 진화**: 아날로그 APT(Gürel 2007) → 색 수식(Coachman 2014) → 디지털 3D-DSP·CAD-CAM PMMA 목업(Cattoni 2016) → 모두 동일한 "설계 후 삭제" 원칙.
+> - **[2026-09-14 신규] 레진 시멘트는 수동적 접착제가 아닌 능동적 광학 성분 — 트라이-인 페이스트 불신뢰**(Sharma 2026 SR, in-vitro 10편): 백색-불투명·고채도 시멘트 → ΔE > 3.3(임상 허용역) 빈번; 얇은(0.3–0.5 mm)·고투명도 비니어에서 효과 증폭; 노화 후 VarioLink ΔE = 10.4 vs 세라믹 단독 0.9; 트라이-인 ↔ 경화 시멘트 색 불일치 ΔE 0.32–11.49. → 경화 후 실제 시멘트 색 기준 선택, 얇은 전방부 비니어엔 투명/저채도 시멘트; ETT 색조 차폐 시 고채도 시멘트 + ΔE 사전 계획 필수.
 > - **근거 한계**: 최장 추적 SR+MA도 비교 대상이 heterogeneous(기기·술자·프로토콜), 지르코니아 장기(≥5년) 임상 데이터 없음, 교합면 비니어 RCT는 소표본(n=11).
 > - **근관치료 치아(Endodontically Treated Tooth, ETT) 라미네이트**: 현대 접착 프로토콜(IDS 등)에서는 ETT와 생활치 간 생존율 유의차 없음 — Gresnigt 2019 전향적 11년(88.1% vs 95.6%, NS) · Etienne 2025 후향적 15년(95% vs 96%, p=0.289, OR=1.68). 단, 구세대 장석계(1987–2009)로 진행한 Beier 2012(20년)에서는 ETT 유의한 실패 위험(p=0.0012) — 프로토콜 진보 전·후의 해석 분기점. **가장 그럴듯한 해석은 "ETT 효과"의 실체가 기질(substrate) 효과라는 것** — 같은 Etienne 데이터에서 상아질 노출 >30%의 OR=4.67로 ETT의 OR=1.68보다 약 3배 크며, pre-IDS 시대엔 그 기질을 구제할 수단이 없었다. 또한 **유의하지 않음 ≠ 위험 없음**: 두 현대 연구가 같은 방향(생존율 수치적 열세·OR>1)을 가리키되 ETT 하위군 표본이 작아(n=43·38) 검정력이 부족 — 잔여 위험 신호는 남아 있다. 임상 핵심: ETT 금기가 아니나 ① 내부 표백으로 색조 선제 관리(Gresnigt에서 ETT 색조 불일치는 유의 — 접착 실패가 아닌 차폐 문제) ② 치수 상태가 아니라 **에나멜 잔존량**으로 판단 ③ OR=1.68 감안해 신중한 증례 선택 필수. 상세 종합은 본문 "ETT — An Era-Dependent, Not Absolute, Risk" 절.
 
@@ -146,7 +147,7 @@ ETT therefore shifts the question from *"will it stay on?"* to *"will it match?"
 1. **Prior endodontic treatment is not a contraindication** to a ceramic laminate veneer. The prohibition traces to pre-IDS-era data and does not survive replication in the modern adhesive era.
 2. **Judge the tooth by its substrate, not its pulp status.** Quantify remaining enamel and dentin exposure first. A vital tooth with >30% dentin exposure (OR=4.67) is the higher-risk restoration than an enamel-confined ETT (OR=1.68).
 3. **Apply IDS wherever dentin is exposed.** The measured benefit is largest exactly where ETT cases tend to land (>50% dentin: 96.4% vs 81.8%, significant).
-4. **Settle shade before preparation.** Manage ETT discoloration up front — internal bleaching, cement opacity, thickness allowance — rather than meeting mismatch as a post-cementation surprise.
+4. **Settle shade before preparation.** Manage ETT discoloration up front — internal bleaching, cement opacity, thickness allowance — rather than meeting mismatch as a post-cementation surprise. Note: try-in paste ≠ cured cement (ΔE mismatch 0.32–11.49; Sharma 2026 SR) — verify with cured sample on the actual substrate.
 5. **Combined severe discoloration plus dentin-dominated substrate** is where the crown threshold below applies; residual OR=1.68 stacked on a ≥3-tone shade shift is a different risk profile from an isolated, enamel-confined ETT.
 6. **Beier's other finding crosses eras untouched**: bruxism carried 7.7× failure risk (p=0.0004) and is not corrected by adhesive advances. Parafunction screening stays mandatory regardless of vitality status.
 
@@ -190,6 +191,18 @@ Bond strength data from Hajeer 2026 (SR+MA, in-vitro, I²=98.2% — exploratory)
 - **LDS / feldspathic / LRGC**: HF etching (9.6% HF) → silane coupling agent → adhesive resin cement. HF etching time is fabrication-technique-dependent: platinum foil 120 s, refractory die 90 s (Gonzalez-Martin 2024 SEM); 150 s adds no benefit.
 - **Zirconia**: No silica network → HF etching ineffective. Use MDP-containing primer (e.g., Z-Prime Plus) + sandblasting. Bond strength significantly lower; clinical justification remains unclear.
 - **Substrate**: Enamel is the ideal substrate; when dentin exposed, IDS immediately after preparation (before impressioning) preserves the bonding layer.
+
+### Cement shade: active optical determinant (Sharma 2026 SR)
+
+In thin (0.3–0.5 mm), high-translucency anterior veneers, the luting cement is a **dominant color variable** — not a passive adhesive (Sharma 2026 SR, 10 in-vitro studies, PROSPERO CRD42023450540):
+
+| Cement type | ΔE impact | Clinical use |
+|---|---|---|
+| Translucent/low-chroma | ΔE typically < 3.3 (acceptable) | First choice for thin anterior veneers |
+| White-opaque/high-chroma | ΔE often > 3.3 (exceeds acceptability threshold) | Reserve for masking dark substrates (ETT discoloration, dark dentin) |
+| Aging risk (VarioLink) | ΔE = 10.4 after aging vs ceramic alone 0.9 | Long-term color stability varies markedly by brand |
+
+**Try-in paste caveat**: ΔE mismatch between try-in and cured cement = 0.32–11.49 (Aldahlawi) — curing changes refractive index; select final cement based on cured shade, not try-in alone. Effect is amplified by veneer thickness <0.5 mm and high-translucency ceramics. [확인 — SR, in-vitro only, I² high, no clinical ΔE data]
 
 ---
 
@@ -272,3 +285,4 @@ When in doubt: Beuer 2025 consensus (SSRD/SEPES/PROSEC) recommends a "minimality
 | ETT OR=1.68 (NS, p=0.289); dentin >30% OR=4.67 (sig., p=0.033) | [[veneers/etienne-2025-ceramic-veneers-dentin-vitality-15year]] |
 | ETT significantly higher failure (p=0.0012); bruxism 7.7× risk (p=0.0004) | [[veneers/beier-2012-porcelain-veneers-nonvital-bruxism-20year]] |
 | ETT risk is era-dependent: significant pre-IDS, NS in both modern cohorts, but a residual same-direction signal persists (OR=1.68; 88.1% vs 95.6%) — underpowered subgroups (n=38, n=43), and ETT OR is ~3× smaller than the >30% dentin-exposure OR=4.67 in the same dataset | [[veneers/beier-2012-porcelain-veneers-nonvital-bruxism-20year]] · [[veneers/gresnigt-2019-ceramic-laminate-veneers-ids-11year]] · [[veneers/etienne-2025-ceramic-veneers-dentin-vitality-15year]] |
+| Cement shade: WO/high-chroma → ΔE > 3.3; aging VarioLink ΔE = 10.4; try-in ↔ cured mismatch ΔE 0.32–11.49; translucent/low-chroma cements stay < 3.3 | [[veneers/sharma-2026-resin-cement-shade-ceramic-veneers-sr]] |
