@@ -2,7 +2,7 @@
 ---
 title: "삽입토크 & 안정성 임상 해석기"
 type: interactive
-date: 2026-08-31
+date: 2026-09-14
 status: done
 category: implant-stability
 agenda: agenda/2026-08-31_it-stability-clinical-tool.md
@@ -144,7 +144,7 @@ input[type=range]{flex:1;height:6px;accent-color:var(--accent);cursor:pointer;}
   <header class="pg-header">
     <p class="eyebrow">임플란트 임상 결정 지원</p>
     <h1>삽입토크 · 발열 · 골질 임상 해석기</h1>
-    <p>위키 인제스트 논문 8편 기반 — norton-2017 · baldi-2018 · marconcini-2018 · aldahlawi-2018 · coyac-2019 · milone-2026 · palominozorrilla-2024 · shemtovyona-2021</p>
+    <p>위키 인제스트 논문 기반 — norton-2017 · baldi-2018 · marconcini-2018 · aldahlawi-2018 · coyac-2019 · milone-2026 · palominozorrilla-2024 · shemtovyona-2021 · tisci-2026 · song-2026 · konuklu-2026 · monje-2025 · bhattacharya-2025 · ayub-2025 · kwon-2026</p>
   </header>
 
   <!-- ① ISQ Loading Decision -->
@@ -214,7 +214,7 @@ input[type=range]{flex:1;height:6px;accent-color:var(--accent);cursor:pointer;}
 
     <div class="inline-note">
       <div class="dot"></div>
-      <span id="corr-note">baldi-2018 (n=75): IT-ISQ 상관관계는 <strong>중간토크(~20-45 Ncm) 구간에서만 유의</strong> (ρ=0.481). 저토크·고토크 구간에서는 IT와 ISQ가 독립적으로 움직임 — IT가 낮아도 ISQ는 충분히 오를 수 있다.</span>
+      <span id="corr-note">Tisci 2026 (SR+MA, 48편): IT-ISQ 상관 <strong>r=0.44</strong> (I²&gt;90%) — 대규모 메타분석 수준에서도 설명분산 19%에 불과하며 계급 간 탈동조화 확인. baldi-2018 (n=75): 중간토크(~20–45 Ncm) 구간에서만 ρ=0.481. IT가 낮아도 ISQ가 높으면 로딩 가능; IT가 높아도 ISQ가 낮을 수 있다.</span>
     </div>
   </div>
 
@@ -315,6 +315,13 @@ input[type=range]{flex:1;height:6px;accent-color:var(--accent);cursor:pointer;}
     <p class="src">milone-2026 — in-vitro, n=24, FLIR thermal. DOI 10.1155/bmri/7910355</p>
     <p class="src">palominozorrilla-2024 — scoping review, 17 studies. DOI 10.4103/jispcd.JISPCD_4_22</p>
     <p class="src">shemtovyona-2021 — SR+MA, 30 studies, CBCT. DOI 10.1371/journal.pone.0253283</p>
+    <p class="src">tisci-2026 — SR+MA, 48편, IT-ISQ 상관 r=0.44 I²>90%. IT-ISQ 탈동조화 확인</p>
+    <p class="src">song-2026 — 3년 MBL: IT ≥ 30 Ncm 즉시부하 기준선 (Gap #4 부분 해소)</p>
+    <p class="src">konuklu-2026 — 5군 병렬 RCT n=100: 삭제속도-IT-ISQ 탈동조화; 300 rpm 최적</p>
+    <p class="src">monje-2025 — RCT n=85, BLX vs BL SLActive: IT BLX > BL, 6w ISQ BL > BLX</p>
+    <p class="src">kwon-2026 — RCT n=54, MDT 깊은 나사산: IT↑ but ISQ/MBL 차이 없음, 각도편차 유의 악화</p>
+    <p class="src">bhattacharya-2025 — split-mouth RCT n=18: 치유챔버 → IT↓ ISQ 동등 TNF-α↓</p>
+    <p class="src">ayub-2025 — in vitro n=36: 삼중나사(Zimmer TSV) 최고 IT, 이중나사(Dentium Superline) 최고 ISQ</p>
   </div>
 </div>
 
@@ -329,11 +336,11 @@ const ZONES = [
     note:'Norton 2017 (n=30): 100% 생존 (29/29). ISQ 67 → 80 (3개월). 저토크 단독으로 실패를 예측할 수 없음.',
     load:'ISQ ≥ 55이면 즉시 임시보철 가능 (norton-2017). 표준 로딩 프로토콜 적용.' },
   { max: 45, cls:'mid',  label:'중간토크 (20–45 Ncm)',
-    note:'Baldi 2018 (n=75): 이 구간에서만 IT-ISQ 상관 유의 (ρ=0.481). 표준 임상 목표 범위.',
-    load:'표준 로딩 프로토콜 적용. ISQ 독립 측정으로 검증 권장 (r²<0.25).' },
+    note:'Baldi 2018 (n=75): 이 구간에서만 IT-ISQ 상관 유의 (ρ=0.481). 표준 임상 목표 범위. Song 2026 (3년 MBL): IT ≥ 30 Ncm = 즉시부하 기준선.',
+    load:'표준 로딩 프로토콜 적용. IT ≥ 30 Ncm이면 즉시부하 검토 가능 (Song 2026). ISQ 독립 측정으로 검증 권장 (r²<0.25).' },
   { max: 65, cls:'warn', label:'고토크  (45–65 Ncm)',
-    note:'Baldi 2018: 두 임플란트 실패 모두 이 구간. 치조정 피질골 손상 위험 증가 (high-IT overview).',
-    load:'⚠ 치밀 피질골(D1, 하악구치부) 주의. 치조정 방사선 추적 권장. IT ≠ 안정성.' },
+    note:'Baldi 2018: 두 임플란트 실패 모두 이 구간. 치조정 피질골 손상 위험 증가 (high-IT overview). Monje 2025 (BLX vs BL): tapered BLX IT 42.35 Ncm > cylindrical BL 30.63 Ncm — 그러나 6주 ISQ는 BL > BLX (IT-ISQ 탈동조화).',
+    load:'⚠ 치밀 피질골(D1, 하악구치부) 주의. 치조정 방사선 추적 권장. IT ≠ 안정성. Tapered 고토크가 ISQ 우위를 보장하지 않음.' },
   { max:100, cls:'bad',  label:'초고토크 (>65 Ncm)',
     note:'Marconcini 2018·Aldahlawi 2018: 치조정 골소실·생존율 저하 신호. Coyac 2019: 미세골절·골세포사멸 기전(전임상, 수치 미보고).',
     load:'⛔ 즉시 부하 금지. ISQ 독립 측정 필수. 치조정 방사선 필수 추적.' },
