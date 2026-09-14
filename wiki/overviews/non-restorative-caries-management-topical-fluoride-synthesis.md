@@ -1,8 +1,8 @@
 ---
 title: "Non-Restorative Caries Management — Topical Fluoride, SDF & Chemical Arrest: Evidence Synthesis"
-authors: synthesis page (compiled by Claude from 9 wiki entries, 2026-06-19; +Bhandari 2026 added 2026-06-21)
+authors: synthesis page (compiled by Claude from 9 wiki entries, 2026-06-19; +Bhandari 2026 added 2026-06-21; +Garcia-Miralles 2026 added 2026-09-14)
 year: 2026
-date: 2026-06-19
+date: 2026-09-14
 category: overviews
 evidence_level: synthesis
 source_collection: internal
@@ -19,6 +19,8 @@ relations:
     target: kashbour-2020-sealants-versus-fluoride-varnishes-decay
   - type: reinforces
     target: rashed-2022-sealant-vs-fluoride-varnish-caries-prevention-sr-ma
+  - type: extends
+    target: garcia-miralles-2026-sdf-cavitated-primary-molars-sr
 ---
 
 ## 한국어 핵심요약
@@ -27,6 +29,7 @@ relations:
 > - 핵심: 우식(dental caries)은 생물막-당-산(acid) 질환이라 비공동성·활성 병소는 **삭제 없이 화학·국소 약제로 정지(arrest)·역전(reverse)** 가능 — 비수복적 우식관리(Non-Restorative Caries Treatment, NRCT)를 위키 9편으로 종합.
 > - 근거 기준점: ADA 가이드라인 네트워크 메타분석(Urquhart 2019) — **질산은불화물(Silver Diamine Fluoride, SDF)** 과 **실란트+불소** 조합이 병소 정지·역전에 가장 효과적.
 > - SDF가 정지력 최상: 유아기우식(Early Childhood Caries, ECC)서 반년마다 38% SDF > 5% 불소바니시(Zheng 2025, 예방분율 39%), 치근우식서도 표준불소보다 우수(Meyer-Lueckel 2019). 단점은 **흑색 착색**(심미 부담).
+> - **[2026-09-14 신규] SDF는 와동성 유구치 우식에서도 전통 수복 대비 우위 — 첫 RCT-SR 확인**(Garcia-Miralles 2026 SR, PRISMA 2020, RCT 2편, n=649 병소·1,668명): 유구치 와동성 상아질 우식에서 **SDF > GIC** 우식정지 (RR 1.57, 95% CI 1.13–2.17, GRADE 낮음); **SDF < ART** 치료실패율 (RR 0.85, 95% CI 0.78–0.94, GRADE 중간). 비삭제·무마취로 비협조 소아·공중보건 프로그램에 적합; 증거는 2 RCT·12개월 이하로 제한적이나, **비수복적 선택지를 와동성 병소까지 연장**하는 임상적 함의. → ECC 및 협조도 낮은 소아에서 SDF는 수복 이전 첫 시도 옵션.
 > - 치근우식 1차: **고농도 불소(5000ppm) 치약**이 병소 깊이↓·경화·신규예방 최상위(Chen 2026 NMA; Meyer-Lueckel 2019), 표준 1450ppm은 고위험군서 불충분.
 > - 불소바니시(FV) vs 치면열구전색(Pit-and-Fissure Sealant, PFS): 제1대구치서 우열 미확립 — 코크란(Kashbour 2020, OR 0.67 매우 낮은 확실성)·독립 SR+MA(Rashed 2022, RR 0.65 NS, I²=89%)·RCT(Chestnutt 2017) 모두 "차이 없음"(단 근거확실성 낮음). 단 실란트는 무처치 대비 분명히 효과적(Ahovuo-Saloranta 2017 코크란, OR 0.12, 24개월 11–51%↓), 실란트+FV 병용이 FV 단독보다 우월 가능성(Kashbour 2020, OR 0.30, 단일 split-mouth). 비용효과는 타 예방중재와 차이 없음·고소득국선 불확실(Kumar 2026).
 > - 무불소 대안: **8% 아르기닌 치약**이 NaF 대비 소아 우식 26%↓(Yin 2025), 1.5%는 NaF와 동등 — 불소 거부 환자 선택지.
@@ -62,7 +65,7 @@ The evidence anchor is **Urquhart 2019**, the ADA-guideline network meta-analysi
 
 | Agent | Best evidence | Role |
 |---|---|---|
-| **Silver diamine fluoride (SDF)** | Urquhart 2019 (top-ranked arrest); Zheng 2025 (semiannual 38% SDF > 5% NaF varnish for ECC, 39% prevented fraction); Meyer-Lueckel 2019 (arrests root caries > conventional fluoride) | **Strongest arrest** — but **black staining** limits esthetic-zone use |
+| **Silver diamine fluoride (SDF)** | Urquhart 2019 (top-ranked arrest); Zheng 2025 (semiannual 38% SDF > 5% NaF varnish for ECC, 39% prevented fraction); Meyer-Lueckel 2019 (arrests root caries > conventional fluoride); Garcia-Miralles 2026 (SR, 2 RCTs, n=649 lesions: SDF > GIC for caries arrest in cavitated primary molars, RR 1.57 GRADE low; SDF reduces ART treatment failure, RR 0.85 GRADE moderate) | **Strongest arrest** — extends to **cavitated primary molars** (Garcia-Miralles 2026); **black staining** limits esthetic-zone use |
 | **High-fluoride toothpaste (5000 ppm)** | Chen 2026 (root-caries NMA: best for depth/hardness/new-lesion prevention); Meyer-Lueckel 2019 | **First-line for root caries**; standard 1450 ppm may be insufficient in high-risk patients |
 | **Fluoride varnish (FV)** | Chestnutt 2017 (no difference vs sealant on first molars: 17.5% vs 19.6%); Kashbour 2020 (Cochrane: sealant-vs-FV superiority undeterminable, OR 0.67, very low certainty); Rashed 2022 (SR+MA, 4 RCTs: caries-increment RR 0.65 NS, I²=89%); Kumar 2026 (cost-effectiveness equivalent/uncertain); Bhandari 2026 (n=482 irradiated HNC: FV, saliva-substitute, and both **failed to halt radiation-caries** progression, all arms NS) | Ubiquitous, easy to apply, program-friendly — **not superior to sealant** on first molars (Kashbour 2020, Rashed 2022, Chestnutt 2017), cost-value unproven, and **insufficient alone in very-high-risk (irradiated) patients** |
 | **Pit-and-fissure sealant (resin)** | Ahovuo-Saloranta 2017 (Cochrane: 11–51% occlusal-caries reduction vs no sealant at 24 mo, OR 0.12, moderate certainty); Kashbour 2020 & Rashed 2022 (≈ FV, no clear winner); Kashbour 2020 (sealant + FV may beat FV alone, OR 0.30, very low certainty) | **Effective vs no sealant** for occlusal/first-molar caries; chooses against FV by feasibility/cost — combination (sealant + FV) is a promising but thinly-evidenced upgrade |
@@ -73,7 +76,7 @@ The evidence anchor is **Urquhart 2019**, the ADA-guideline network meta-analysi
 
 1. **Active, non-cavitated lesion (any surface)** → non-restorative chemical arrest first. **SDF** for maximum arrest where staining is acceptable; **high-fluoride / FV** where esthetics matter.
 2. **Root caries (elderly / high-risk)** → **5000 ppm fluoride toothpaste first-line** (Chen 2026, Meyer-Lueckel 2019); **SDF** if the patient cannot use high-fluoride prescriptions; **arginine** as a fluoride-free option.
-3. **Early childhood caries (ECC)** → **semiannual SDF** outperforms fluoride varnish (Zheng 2025); reserve esthetic-zone SDF for caregiver-consented cases (staining); **arginine** toothpaste is a fluoride-free adjunct.
+3. **Early childhood caries (ECC) / primary molars** → **semiannual SDF** outperforms fluoride varnish (Zheng 2025); Garcia-Miralles 2026 SR (2 RCTs, n=649 lesions) now confirms SDF > GIC for **cavitated** primary molars (RR 1.57, GRADE low) and reduces ART treatment failure (RR 0.85, GRADE moderate) — SDF is viable even once a lesion is cavitated, deferring or replacing conventional restoration in cooperative-constrained children; reserve esthetic-zone SDF for caregiver-consented cases (staining); **arginine** toothpaste is a fluoride-free adjunct.
 4. **Pit-and-fissure / first permanent molars** → resin sealant is **effective vs no sealant** (Ahovuo-Saloranta 2017 Cochrane, OR 0.12, 11–51% reduction at 24 mo), but sealant **vs** fluoride varnish has **no established winner** (Kashbour 2020 Cochrane OR 0.67 very-low-certainty; Rashed 2022 RR 0.65 NS, I²=89%; Chestnutt 2017 17.5% vs 19.6%) — choose by feasibility/cost. **Sealant + FV combined** may outperform FV alone (Kashbour 2020, OR 0.30, single split-mouth trial, very low certainty) and is a reasonable belt-and-braces option in high-risk children.
 5. **Cavitated, esthetic, or arrest-failed lesion** → restore; note the root-caries material hierarchy is weak (Schmidt 2024) — minimize and re-prevent.
 6. **Program / payer context** → FV cost-effectiveness is not clearly superior (Kumar 2026); match the agent to setting and adherence.
@@ -107,3 +110,4 @@ The evidence anchor is **Urquhart 2019**, the ADA-guideline network meta-analysi
 - [[caries/rashed-2022-sealant-vs-fluoride-varnish-caries-prevention-sr-ma]] — independent SR+MA (4 RCTs): sealant ≈ FV (RR 0.65 NS, I²=89%), favors FV on cost/ease — reinforces the no-winner verdict
 - [[caries/schmidt-2024-root-caries-restorative-adhesive-nma]] — restorative tier (material hierarchy weak)
 - [[caries/bhandari-2026-saliva-substitute-fluoride-varnish-radiation-caries-rct]] — irradiated HNC RCT (n=482): FV + saliva substitute fail to halt radiation caries alone → multimodal required
+- [[caries/garcia-miralles-2026-sdf-cavitated-primary-molars-sr]] — PRISMA SR (2 RCTs, n=649 lesions): SDF > GIC for cavitated primary molars (RR 1.57, GRADE low); SDF reduces ART failure (RR 0.85, GRADE moderate) — first SR extending SDF evidence to cavitated primary-molar lesions
