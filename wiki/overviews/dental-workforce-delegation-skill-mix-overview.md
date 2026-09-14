@@ -2,7 +2,7 @@
 title: "Overview: Dental Workforce Delegation, Skill-Mix & Team Communication"
 type: synthesis
 category: overviews
-date: 2026-06-27
+date: 2026-09-14
 evidence_level: synthesis
 source_collection: synthesis
 source_papers:
@@ -13,6 +13,7 @@ source_papers:
   - wiki/practice-management/manser-2009-teamwork-patient-safety-dynamic-healthcare.md
   - wiki/practice-management/muller-2018-sbar-handoff-communication-patient-safety-sr.md
   - wiki/practice-management/buljac-samardzic-2020-team-effectiveness-interventions-healthcare-sr.md
+  - wiki/practice-management/bailey-2025-patient-safety-dentistry-decade.md
 tags: [workforce, skill-mix, delegation, dental-hygienist, dental-therapist, scope-of-practice, teamwork, team-communication, sbar, practice-management, overview]
 ---
 
@@ -27,7 +28,7 @@ tags: [workforce, skill-mix, delegation, dental-hygienist, dental-therapist, sco
 > - **대중 수용은 존재하되 조건부**: Vu 2024(단면조사, 보호자 caregiver n=202) — 보호자들은 DT가 유치·영구치 수복, 유치 발치, 응급처치를 수행하는 데 수용적(여럿 p<0.001)이나, 그 시술이 치과의사 감독(dentist supervision) 하에 이뤄져야 한다는 데 강하게 동의(p<0.001).
 > - **인지도 격차**: Vu 2024는 DT의 교육·업무범위·인력통합에 대한 대중 인식이 낮아 공개 홍보(public awareness)가 필요하다고 지적 — 위임 확대의 사회적 전제조건.
 > - **위임은 "기능하는 팀"을 전제로 한다(일반의료 근거 외삽)**: 업무를 보조인력에 나눌수록 팀워크·인계(handoff) 의존도가 커진다. Schmutz 2019 SR+MA(급성기 31편/1,390팀)는 팀워크↔임상수행 상관 r=0.28(교차비 OR 2.8), 조절변수 비유의 — 팀·과제 특성과 무관하게 중간 크기 효과. Manser 2009는 팀워크가 환자안전 결정요인임을 3 근거축(사고·인식·관찰된 소통/조정/리더십)으로 정립.
-> - **소통은 구조화된 도구로 개선 가능**: Müller 2018 SR(11편)은 인계도구 SBAR(Situation·Background·Assessment·Recommendation)가 환자안전을 개선(중등도 근거), 특히 전화 소통에서. Buljac-Samardzic 2020 SR(297편)은 팀 효과성 개입을 훈련(CRM·TeamSTEPPS·시뮬레이션)/도구(SBAR·체크리스트)/조직재설계/프로그램의 3+1로 분류하고 원리기반·시뮬레이션 훈련을 가장 유망으로 지목. ※이 4편은 치과 특이 근거가 아니라 일반의료 근거를 치과 팀에 외삽한 것.
+> - **소통은 구조화된 도구로 개선 가능**: Müller 2018 SR(11편)은 인계도구 SBAR(Situation·Background·Assessment·Recommendation)가 환자안전을 개선(중등도 근거), 특히 전화 소통에서. Buljac-Samardzic 2020 SR(297편)은 팀 효과성 개입을 훈련(크루 리소스 관리 (Crew Resource Management, CRM)·TeamSTEPPS·시뮬레이션)/도구(SBAR·체크리스트)/조직재설계/프로그램의 3+1로 분류하고 원리기반·시뮬레이션 훈련을 가장 유망으로 지목. ※이 4편은 일반의료 근거를 치과 팀에 외삽한 것 — **[2026-09-14 신규] Bailey 2025(BDJ 서사적 리뷰)가 치과 특이 맥락을 부분 보완**: Safety I (오류 방지) vs Safety II (회복탄력성 Resilience), HALT/IMSAFE 인적요소 (human factor) 자기평가 체크리스트, 위계적 억압을 다루는 CRM 원칙이 치과 진료에 직접 적용됨 기술; NHS 2024 1차 치과 진료 환자안전 전략(Project Sphere 포함)·PSIRF(Patient Safety Incident Response Framework, 2023–24) 발효로 정책 근거 확대.
 > - **임상·운영 시사점**: ① 위임은 예방업무부터, 자율성은 적정선까지(과도한 자율성은 치료접근 저하 위험), ② 취약지에 우선 배치, ③ 감독구조 명시는 임상 안전이자 환자 신뢰 요건, ④ 우리 관할권의 실제 법적 범위를 먼저 확인(국가·주별 상이), ⑤ DT/DH 역할에 대한 환자 커뮤니케이션을 병행, ⑥ 위임 확대와 함께 팀 훈련(시뮬레이션·TeamSTEPPS)과 구조화 인계(SBAR)에 투자 — 위임의 안전 배당은 팀이 실제로 소통할 때만 실현. 한국 맥락의 규제 경계는 [[practice-management/ha-2023-dentist-issues-constitutional-court-decisions]] 참조.
 
 ## Three-line Summary
@@ -108,3 +109,4 @@ The three papers triangulate a single workforce question — *what happens when 
 - [[practice-management/manser-2009-teamwork-patient-safety-dynamic-healthcare]] — general-healthcare evidence: foundational review establishing teamwork as a patient-safety determinant via communication/coordination/leadership.
 - [[practice-management/muller-2018-sbar-handoff-communication-patient-safety-sr]] — general-healthcare evidence: the SBAR structured-communication tool — an actionable lever for safe hand-offs in a delegated team.
 - [[practice-management/buljac-samardzic-2020-team-effectiveness-interventions-healthcare-sr]] — general-healthcare evidence: 297-study taxonomy of team-improvement interventions (training/tools/redesign) applicable to the dental team.
+- [[practice-management/bailey-2025-patient-safety-dentistry-decade]] — dentistry-specific: 10-year patient-safety review introducing Safety I/II, HALT/IMSAFE, and CRM principles in a dental context; documents NHS 2024 primary dental care safety strategy (PSIRF) — the closest dental-specific anchor for CRM cross-application claims above.
