@@ -17,6 +17,7 @@ source_wiki:
   - wiki/drug/anticoagulants/yokoyama-2013-nsaids-antiplatelet-aspirin-interaction.md
   - wiki/drug/anticoagulants/hohlfeld-2008-pyrazolinone-aspirin-antiplatelet-pharmacology.md
   - wiki/drug/anticoagulants/patrono-2024-low-dose-aspirin-prevention-atherosclerotic.md
+  - wiki/drug/analgesics/beaudart-2025-celecoxib-safety-musculoskeletal-sr-ma.md
 ---
 
 ## 한국어 핵심요약
@@ -27,7 +28,7 @@ source_wiki:
 > - **최대 방해자 = 이부프로펜(Ibuprofen)**: 인비트로에서 아스피린 효과 48.1% 감소(Yokoyama 2013), 실제 허혈심질환(Ischemic Heart Disease, IHD)+골관절염(Osteoarthritis, OA) 환자 RCT에서 혈청 트롬복산 B2(Thromboxane B2, TXB2) 1.65 → 19.13 ng/mL 급등하며 효과 소실 (Renda 2006).
 > - **2순위 방해자 = 메페남산(Mefenamic acid)**: 아스피린 효과 22.7% 감소 (Yokoyama 2013).
 > - **피라졸리논 계열(디피론/메타미졸, Dipyrone/Metamizole)**: 활성대사체 MAA가 COX-1 세린-530(Ser-530)과 수소결합해 차단 — 클래스 이펙트, 아스피린 길항제로 간주 (Hohlfeld 2008).
-> - **안전한 약(COX-1 통로 미점유)**: 셀레콕시브(Celecoxib), 디클로페낙(지연방출, Diclofenac), 록소프로펜(Loxoprofen), 인도메타신(Indomethacin), 멜록시캄(Meloxicam), 로페콕시브(Rofecoxib), 아세트아미노펜(Acetaminophen) — 순서 무관 무간섭.
+> - **안전한 약(COX-1 통로 미점유)**: 셀레콕시브(Celecoxib), 디클로페낙(지연방출, Diclofenac), 록소프로펜(Loxoprofen), 인도메타신(Indomethacin), 멜록시캄(Meloxicam), 로페콕시브(Rofecoxib), 아세트아미노펜(Acetaminophen) — 순서 무관 무간섭. 셀레콕시브는 항혈소판 보존 외에도 위장관 궤양 위험이 비선택 NSAID 대비 78% 낮음(RR 0.22, Beaudart 2025 umbrella review, 16 SR).
 > - **결정 인자는 COX-2 억제 강도가 아니라 선택성 비율**: 이부프로펜과 셀레콕시브의 COX-2 억제력은 동등(≥70–80%)한데도 셀레콕시브만 아스피린을 보존 — COX-2/COX-1 선택성이 관건 (Renda 2006).
 > - **나프록센·플루르비프로펜(Naproxen, Flurbiprofen)**: 아스피린을 직접 차단하진 않으나 *자체* 가역적 항혈소판 효과가 있어 출혈 위험은 별도로 존재 (Yokoyama 2013).
 > - **장용정(Enteric-Coated, EC) 아스피린 주의**: 흡수가 느려 "아스피린 먼저" 시간차 전략이 무너질 수 있어, 만성 이부프로펜 병용은 EC-아스피린에서도 위험.
@@ -68,7 +69,7 @@ For aspirin-dependent dental patients (especially secondary prevention, where as
 | NSAID/진통제 | 아스피린 효과 방해? | 근거 | 아스피린 복용 환자 권고 |
 |---|---|---|---|
 | **아세트아미노펜 (Acetaminophen)** | 무간섭 (순서 무관) | Catella-Lawson 2001 | ✅ 1순위 진통제 |
-| **셀레콕시브 (Celecoxib)** | 무간섭 (COX-2 선택적) | Renda 2006 (환자 RCT), Yokoyama 2013 | ✅ NSAID 필요 시 우선 |
+| **셀레콕시브 (Celecoxib)** | 무간섭 (COX-2 선택적) | Renda 2006 (환자 RCT), Yokoyama 2013 | ✅ NSAID 필요 시 우선; 위장관 궤양 위험 비선택 NSAID 대비 78% 감소(RR 0.22, Beaudart 2025 umbrella review) |
 | **로페콕시브 (Rofecoxib)** | 무간섭 (COX-2 선택적) | Catella-Lawson 2001 | ✅ (단 로페콕시브는 시장 철수) |
 | **디클로페낙 (지연방출, Diclofenac)** | 무간섭 | Catella-Lawson 2001, Yokoyama 2013 | ✅ |
 | **록소프로펜·인도메타신·멜록시캄** | 무간섭 | Yokoyama 2013 | ✅ |
@@ -101,3 +102,4 @@ For aspirin-dependent dental patients (especially secondary prevention, where as
 - [[drug/anticoagulants/hohlfeld-2008-pyrazolinone-aspirin-antiplatelet-pharmacology]] — 디피론/메타미졸(피라졸리논) MAA 대사체가 Ser-530 수소결합으로 차단, 클래스 이펙트
 - [[drug/anticoagulants/patrono-2024-low-dose-aspirin-prevention-atherosclerotic]] — 저용량 아스피린 기전·주변수술기 관리 종설 (기전 토대)
 - [[overviews/nsaid-osseointegration-impairment-overview]] — 자매 오버뷰; **COX-2 딜레마**의 반대편 — 여기선 셀레콕시브가 항혈소판 보존에 안전하지만, 신선 임플란트 골형성엔 COX-2 선택제가 오히려 위험 방향
+- [[drug/analgesics/beaudart-2025-celecoxib-safety-musculoskeletal-sr-ma]] — 셀레콕시브 안전성 umbrella review (16 SR, AMSTAR-2): 위장관 궤양 RR 0.22(비선택 NSAID 대비), 심혈관·신장 결과 비열등 — 항혈소판 보존 외 GI 안전성 이점도 갖추는 근거
