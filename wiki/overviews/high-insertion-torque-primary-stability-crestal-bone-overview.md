@@ -2,7 +2,7 @@
 title: "High Insertion Torque → Primary Stability, Crestal Bone Remodeling, and Marginal Bone Loss — A Conflict Synthesis"
 authors: Synthesis (Damian Lee)
 year: 2026
-date: 2026-08-31
+date: 2026-09-14
 doi: N/A
 source: N/A
 category: overviews
@@ -33,6 +33,8 @@ source_wiki:
   - wiki/implants/isq/lages-2018-isq-insertion-torque-correlation-sr.md
   - wiki/implants/isq/kwon-2026-thread-depth-guided-immediate-implant-isq-rct.md
   - wiki/implants/isq/monje-2025-implant-design-stability-early-healing-rct.md
+  - wiki/implants/isq/bhattacharya-2025-macrogeometry-implant-stability-bone-markers-split-mouth-rct.md
+  - wiki/implants/isq/ayub-2025-implant-macro-geometry-primary-stability-low-density.md
 relations:
   - type: refines
     target: coyac-2019-preclinical-model-links-osseo-densification-misfit
@@ -76,6 +78,8 @@ relations:
 > - **[2026-09-13 갱신] 오스테오토미 속도와 IT-ISQ 분리의 RCT 직접 입증**: Konuklu 2026(5군 RCT, n=100, 3개월)에서 고속 800rpm이 치밀골에서 최고 초기 IT를 냈으나 T4(3개월) 최고 ISQ를 낸 프로토콜은 중속 300rpm이었다 — 골농축(bone condensation)은 점진적 ISQ 하락으로 가장 불리. 이는 인생체(in-vivo) RCT 수준에서 "IT를 높인다고 ISQ가 오르지 않는다"를 확인한 것이며 §6의 decoupling 논거를 in-vivo RCT로 보강한다.
 > - **[2026-09-14 갱신] 스레드 깊이 RCT — 즉시식립 소켓에서 IT-ISQ 분리 임상 입증**: Kwon 2026(RCT, 54개, 연세대, 12개월) — 깊은 스레드(MDT)가 삽입 토크 달성률을 높였으나(≥40 Ncm: 14/18 vs 8/18) 어떤 추적 시점에서도 ISQ·MBL 무차이(모두 p>0.30); 오히려 각도 편차 유의하게 증가(p=0.029) — 즉시 소켓 1차 안정성은 스레드 깊이보다 국소 해부가 지배하며, §6 IT-ISQ 분리를 즉시식립 임상 환경에서 직접 확인.
 > - **[2026-09-14 갱신] 테이퍼형 vs 원통형 RCT — 고삽입 토크가 2차 안정성 예측 실패**: Charoenniwassakul 2025(평행군 RCT, 85개, 쭐라롱껀대학교, 6주) — BLX 테이퍼형은 식립 MIT 유의하게 높았으나(42.35 vs 30.63 Ncm, p<0.001) 6주 ISQ는 원통형 BL이 역전 우위(75.21 vs 72.23, p=0.02); 중간 시점 무차이; §6의 IT↔ISQ 분리를 설계 수준 RCT로 재확인. 압축으로 얻은 IT는 생물학적 치유 단계에서 오히려 낮은 최종 안정성으로 이어진다.
+> - **[2026-09-14] 수정 거시기하(치유챔버) RCT — IT↓·ISQ 동등·TNF-α↓ 확인**: Bhattacharya 2025(이중맹검 분할구강 RCT, 18명 양측 구치부)에서 치유챔버 수정 거시기하 임플란트가 삽입 토크를 유의하게 낮췄으나 0·45·90일 ISQ는 전 시점 무차이; 초기 치유 시점 TNF-α(종양괴사인자-α) 유의 저하 — 낮은 IT + 동등한 2차 안정성 + 炎症 감소의 조합을 RCT로 확인. §6(IT-ISQ 분리)을 "수정 설계가 의도적으로 IT를 낮추어도 ISQ가 보존된다"는 방향에서 추가 지지.
+> - **[2026-09-14] In vitro 저밀도골 거시기하 비교 — IT와 ISQ를 극대화하는 형상이 다르다**: Ayub 2025(폴리우레탄 블록, 36개, 3가지 거시기하 × 골 밀도 3·4형) — 삼중나사 Zimmer TSV가 최고 삽입 토크(밀도 3형 30.21 Ncm), 이중나사 깊은나사 Dentium Superline이 최고 ISQ(밀도 3형 63.29)를 달성; 두 안정성 지표는 다른 형상에서 최적화 — IT·ISQ가 독립적으로 최적화됨을 in vitro로 확인하며 "고IT 설계 = 고ISQ"가 아님을 추가 입증.
 
 ## Three-line Summary
 
