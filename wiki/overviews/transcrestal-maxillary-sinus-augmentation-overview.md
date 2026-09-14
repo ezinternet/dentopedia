@@ -2,7 +2,7 @@
 title: "Transcrestal Maxillary Sinus Augmentation Overview"
 authors: synthesis (llm-wiki)
 year: 2026
-date: 2026-08-18
+date: 2026-09-14
 category: [overviews]
 tags: [sinus-lift, transcrestal, osseodensification, osteotome, membrane-perforation, implant-survival, ISQ, graftless, overview]
 source_papers:
@@ -53,6 +53,7 @@ source_papers:
   - sinus-lift/transcrestal/suk-arj-2019-osfe-without-grafting-bone-cbct
   - sinus-lift/transcrestal/yu-2021-implant-protrusion-length-nongrafting-osfe
   - sinus-lift/transcrestal/albash-2023-implant-protrusion-initial-bone-tsfe
+  - sinus-lift/transcrestal/jia-2025-accuracy-robotic-cais-tsfe-posterior-maxilla
 evidence_level: synthesis
 source: synthesis
 ---
@@ -137,6 +138,8 @@ OD는 식립 시 및 지대주 연결 시 임플란트 안정성 지수(Implant 
 - 술식: 이질성의 66.9% 설명 (가장 중요)
 - RBH: 유의한 영향 없음 (p=0.760)
 - 광범위 상악동: 천공 위험 ~15배 증가 (Stacchi 2022)
+
+**로봇 CAIS 유도 TSFE**: Jia 2025 (후향적, n=40, Remebot r-CAIS + Summers 오스테오톰): 천공률 2.5% (1/40) — 오스테오톰 단독 기준 7.2%보다 낮음; 각도 편차 1.25° ± 0.61°. 소규모 단일 후향 연구 한계 있으나 디지털 유도 TSFE의 천공률 감소 가능성을 시사. (Evidence level: 사례시리즈)
 
 ---
 
@@ -230,6 +233,7 @@ OD는 식립 시 및 지대주 연결 시 임플란트 안정성 지수(Implant 
 - [[sinus-lift/transcrestal/duan-2017-graft-free-maxillary-sinus-floor-elevation-sr-ma]] — 무이식 SR+MA
 - [[sinus-lift/transcrestal/sirinirund-2025-minimally-invasive-sinus-augmentation-review]] — 최소침습 종합
 - [[sinus-lift/transcrestal/gaspar-2025-osseodensification-crestal-maxillary-sinus-elevation-narrative-review]] — OD 내러티브 리뷰
+- [[sinus-lift/transcrestal/jia-2025-accuracy-robotic-cais-tsfe-posterior-maxilla]] — 로봇 CAIS + TSFE: 천공률 2.5% (n=40, 사례시리즈)
 
 ### 다센터·장기 추적
 - [[sinus-lift/transcrestal/huwais-2018-transcrestal-sinus-augmentation-compaction-grafting-multicenter]] — 최대 OD 데이터셋
