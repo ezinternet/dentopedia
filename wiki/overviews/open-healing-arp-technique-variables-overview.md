@@ -2,7 +2,7 @@
 title: "Open-Healing 치조제 보존술(ARP) — 술기 변수(판막·봉합·막·압축력) vs 큰 그림 종합"
 authors: Synthesis (Damian Lee)
 year: 2026
-date: 2026-08-31
+date: 2026-09-14
 doi: N/A
 source: N/A
 category: overviews
@@ -25,6 +25,9 @@ tags: [overview, alveolar-ridge-preservation, open-healing, flapless, suture-tec
 > - 축 4(비판적 균형추): 통계적 치수 보존 ≠ 환자 이득 — 5~13년 후 xenograft 실패 증례로 무차별 적용 경계, 적응증 축소 논거(Adams 2022). Benekou 2025(SR+MA, 22 RCT, 816명)가 조직학 데이터로 이를 층위화: 이종골+막은 신생골 −22.47%(잔존이종골 20.49%가 공간 차지), PRF/PRP는 +16.28% — 재료 선택이 결과를 가른다. >3개월 생검 민감도 분석에서는 ARP 유의 유리(전향적 임플란트 타이밍 판단에 시사).
 > - 축 1 신규: Friedmann 2026(case-series, 49명 62부위) — SCLC/HA 스펀지 개방치유(봉합만, 막 없음); 협측골 ≥50% 잔존 적응증에서 전 부위 합병증 없이 치유, 72% 추가 증대 불필요, 완전 이종골 개조(잔여 이종골 0) — Benekou 2025의 pooled 잔존 20.49%와 대조되는 완전흡수 재료.
 > - 임상 ladder: 무판막/개방치유 우선, hidden X suture, 흡수성 콜라겐막(층수 자유) or SCLC/HA(막 없음, 협측골 ≥50% 전제), 과도한 압축 불필요, 후방·얇은 협측판은 수평 소실 예상하고 상담, 무차별 적용 회피; 이종골 선택 시 잔존이식재 trade-off 상담 포함.
+> - **[2026-09-14 신규] 콜라겐막 내장 이종골 단독 ≈ 막 추가 — 두꺼운 협측골에서 별도 막 생략 가능**(Khehra 2025, 병렬 RCT n=20, Harvard HSDM): BG 단독 vs BG+비가교 콜라겐막, 각화조직폭(KTW 4.80 vs 4.80 mm, p=0.999)·수평골폭·수직골변화·신생골(25.8 vs 27.9%, p=0.803) 전 지표 NS — BG 내장 콜라겐이 충분한 생물학적 장벽. 축 2 연장.
+> - **[2026-09-14 신규] 조기 식립(8주) 결합 시 ARP vs 자연치유 3년 동등 — 타이밍이 ARP 이익 창을 좁힌다**(Müller 2025, 탐색 RCT n=35, 미검정력, 취리히대): DBBM-C/CM −0.23 mm vs SH −0.33 mm(NS); MBL·임상지표 군 간 비유의; 조기 식립 선택 시 ARP 적응증을 더욱 좁히는 신호. 축 4 추가.
+> - **[2026-09-14 신규] 탈회상아질기질(DDM) 6개월 치수 동등·완전흡수 — Benekou 잔존 20.49% 문제를 자가 재료로 해결**(Xu 2026, 단일맹검 RCT n=50, CBCT+생검 n=10): 3개월 초기 수축 DDM 다소 크나 6개월 동등; 조직학 DDM=파골세포성흡수+성숙신생골 vs DBBM=비흡수 잔류. Friedmann SCLC/HA 패턴과 동방향 — 완전흡수 자가재료 RCT 근거.
 > - 근거 한계: Park 그룹 연작은 모두 소규모(n=11~20) 단일기관 RCT — 검정력 한계, 환자중심결과(PROM) 거의 부재, 장기(>5년) 추적 빈약.
 > - 최종 판단은 원장 몫 — ladder는 임상 근거의 외삽이며 PROM 직접 근거는 빈약함.
 
@@ -59,6 +62,8 @@ graft 미세변수는 대체로 등가: 막 단층 vs 이중층 골 보존 차�
 ### 축 2 — Graft-side 미세 변수는 대체로 등가, 압축력 신호는 불일치
 막 층수는 무의미했다. Choi 2017(무작위 파일럿, n=11 대구치)에서 콜라겐 막 단층(SL) vs 이중층(DL)은 수평·수직 보존과 치유에서 차이 없음(폭 감소 SL −1.7 vs DL −1.8 mm) — 둘 다 적합.
 
+같은 방향에서 Khehra 2025(병렬-군 RCT, n=20, 두꺼운 협측골 전제, Harvard HSDM)는 콜라겐 복합 이종골(BG) 단독 vs BG+비가교 콜라겐막 추가를 비교했을 때 각화조직폭(KTW 4.80 vs 4.80 mm, p=0.999), 수평골폭(p=0.464), 수직골변화(p=0.244), 신생골(25.8 vs 27.9%, p=0.803) 전 지표에서 차이 없음을 확인했다. BG에 이미 내장된 콜라겐 성분 자체가 두꺼운 협측골 부위에서 충분한 생물학적 장벽으로 기능하므로 별도 막 추가가 불필요하다. [확인 — RCT, 소규모 n=20, 두꺼운 협측골 전제]
+
 Graft 압축력은 신호가 갈린다. Cho 2017(RCT, 완료 20)은 더 큰 압축력이 치조제 보존은 동등하게 유지하면서 신생골 형성 비율을 유의하게 높였다(P<0.05). 그러나 같은 그룹의 후속 Lee 2020(RCT, 완료 12)은 대구치에서 DBBM에 5 N vs 30 N을 가했을 때 신생골·ISQ·임플란트 주위 골수준 모두 차이 없었고(P>0.05), 잔존 graft 입자 크기만 달랐다. 두 결과의 충돌은 재료(일반 graft vs 입자형 DBBM)·부위(전방 포함 vs 대구치)·압축력 조작(test/control vs 5/30 N 정량)의 차이로 설명 가능 — "압축력↑ → 신생골↑"은 보편 법칙이 아니라 특정 조건부 신호다. [미검증]
 
 ### 축 3 — 부위·해부가 결과의 상한을 정한다
@@ -71,16 +76,20 @@ Benekou 2025(SR+MA, 22 RCT, n=816; PRISMA 2020, GRADE 중간)는 이 관점에 �
 
 같은 맥락에서 Friedmann 2026(전향 증례시리즈, 49명 62부위)은 완전 흡수형 재료(SCLC/HA: 당 가교 콜라겐/수산화인회석 스펀지)로 개방치유(봉합만, 막·판막 없음)를 수행해 전 부위 합병증 없이 치유, 72% 추가 증대 불필요, 6개월 이후 재진입에서 이종골 완전 개조(잔여 이종골 0)를 확인했다. 협측골 ≥50% 잔존이 적응증이며, 대조군 없는 증례시리즈로 비교 결론은 불가하나, Benekou의 pooled 잔존 20.49%와 대비되는 **완전흡수 재료의 open-healing 적용 가능성**을 처음 제시한다. [미검증 — 증례시리즈]
 
+재료 선택의 또 다른 RCT 근거로 Xu 2026(단일맹검 RCT, n=50, CBCT+6개월 조직생검 n=10)은 의자 옆 처리 자가 탈회상아질기질(Demineralized Dentin Matrix, DDM, 400–800 µm)과 DBBM을 직접 비교해, 3개월 중간부 수평흡수는 DDM이 다소 컸지만(0.77 vs 0.44 mm, p=0.006) 6개월 모든 치수 결과는 동등했다(모두 p>0.05). 조직학적으로 DDM은 파골세포성 흡수와 성숙 신생골 형성(Ki-67/SATB2 양성)을 보인 반면 DBBM은 비흡수 골전도 지지체로 잔류했다 — DDM 초기 수축은 생리적 포행대치(creeping substitution)의 반영이다. Friedmann 2026의 SCLC/HA 완전흡수 패턴과 결을 같이하며, 완전흡수형 자가 재료의 치수 동등성을 최초 RCT 수준 근거로 제시한다. [확인 — RCT, 단기 6개월·소규모 조직학 n=10]
+
+조기 식립 타이밍이 ARP 적응증을 더욱 좁힌다는 신호도 추가됐다. Müller 2025(탐색적 3군 RCT, n=35, 취리히대, DBBM-C/CM vs DBBM-C vs 자연치유, 발치 후 8주 조기 식립)에서 보철물 장착~3년 외형 변화는 전 군에서 통계적으로 유의했지만 군 간 차이는 없었다(DBBM-C/CM −0.23 mm vs SH −0.33 mm, NS); MBL과 임상지표도 군 간 비유의했다. 이 미검정력 탐색 RCT는 ARP와 조기 식립을 결합한 최초의 3년 추적 연구이며, 조기 식립 타이밍 자체가 ARP의 측정 가능한 치수 이익 창을 좁혀 **식립 타이밍과 연동한 적응증 판단**이 필요함을 시사한다. [미검증 — 탐색 RCT, 미검정력 n=35]
+
 ## 임상 의사결정 ladder (open-healing ARP)
 
 | 결정 | 권장 | 근거 / trade-off |
 |---|---|---|
 | 판막 vs 무판막 | 무판막/개방치유 우선 | Lee 2018: 골 동등, 판막은 KGW −3.21 mm. 단 광범위 결손·동시 GBR 필요 시 판막 불가피 |
 | 봉합 | hidden X suture(노출막 고정) | Park 2016: 협측 KT 보존·MGJ 협측 유지. n=14 소규모 |
-| 막 | 흡수성 콜라겐막 노출, 층수는 자유 | Choi 2017: 단층 ≈ 이중층. 비용·취급 편의로 단층 합리 |
+| 막 | 흡수성 콜라겐막 노출, 층수는 자유; **BG 등 콜라겐 내장 이종골 사용 시 두꺼운 협측골 전제로 별도 막 생략 가능** | Choi 2017: 단층 ≈ 이중층. Khehra 2025: BG 단독 ≈ BG+막(n=20, 두꺼운 협측골) |
 | Graft 압축 | 과도한 압축 불필요 | Lee 2020: 5 N ≈ 30 N(DBBM 대구치). Cho 2017의 force↑→bone↑는 조건부 |
 | 부위 판단 | 후방·협측판 얇은 곳은 수평 소실 예상하고 상담 | Arroteia 2025: 후방 수평 소실 불가피 |
-| 재료 선택 | 이종골+막 사용 시 잔존이식재 trade-off 상담 포함; ≥50% 협측골 잔존 시 SCLC/HA 막 없는 개방치유 선택지 | Benekou 2025: 이종골+막 −22.47% 신생골, 잔존 20.49%; Friedmann 2026: SCLC/HA 완전 개조, 72% 추가증대 불필요 |
+| 재료 선택 | 이종골+막 사용 시 잔존이식재 trade-off 상담 포함; ≥50% 협측골 잔존 시 SCLC/HA 막 없는 개방치유 선택지; DDM(자가 완전흡수)이 DBBM과 6개월 동등(의자 옆 처리 가능) | Benekou 2025: 이종골+막 −22.47% 신생골, 잔존 20.49%; Friedmann 2026: SCLC/HA 완전 개조, 72% 추가증대 불필요; Xu 2026 RCT: DDM ≈ DBBM 6개월 치수 동등·완전흡수 |
 | 적응증 | 무차별 적용 회피, 환자 이득 기준 | Adams 2022·Benekou 2025: 재료별 조직학 이득 차이 명확; Avila-Ortiz: 단일 우월 modality 없음 |
 
 최종 판단은 원장 몫. 위 ladder는 임상 근거의 외삽이며 장기 환자중심결과(PROM) 직접 근거는 빈약하다.
@@ -111,6 +120,9 @@ Benekou 2025(SR+MA, 22 RCT, n=816; PRISMA 2020, GRADE 중간)는 이 관점에 �
 - [[bone-regeneration/ridge-preservation/adams-2022-clinical-evidence-alveolar-ridge-preservation]] — 통계적 보존 ≠ 환자 이득 (축 4)
 - [[bone-regeneration/ridge-preservation/benekou-2025-histological-arp-vs-spontaneous-healing-sr-ma]] — SR+MA 22 RCT 조직형태학: 전체 NS; PRF/PRP +16.28%; 이종골+막 −22.47% (재료 선택이 결정 변수)
 - [[bone-regeneration/ridge-preservation/friedmann-2026-arp-crosslinked-xenograft-open-healing-case-series]] — SCLC/HA 개방치유(막 없음): 72% 추가증대 불필요; 완전개조; 잔여 이종골 없음 (Benekou 20.49% 풀과 대조)
+- [[bone-regeneration/ridge-preservation/khehra-2025-arp-xenograft-collagen-membrane-rct]] — BG 단독 ≈ BG+콜라겐막; KTW·골·신생골 전 지표 NS; 두꺼운 협측골 전제로 막 생략 가능 (RCT n=20, 축 2 연장) — 2026-09-14
+- [[bone-regeneration/ridge-preservation/muller-2025-arp-vs-sh-early-implant-3year-rct]] — 조기 식립(8주) 결합 시 ARP vs SH 3년 동등; 조기 타이밍이 ARP 이익 창 좁힘 (탐색 RCT n=35, 미검정력, 축 4) — 2026-09-14
+- [[bone-regeneration/ridge-preservation/xu-2026-demineralized-dentin-matrix-versus-xenograft-arp-rct]] — DDM vs DBBM 6개월 치수 동등·완전흡수 vs DBBM 잔류; 자가 완전흡수 재료 RCT 근거 (n=50+생검, 축 4 재료) — 2026-09-14
 
 ## Related overviews
 - (신설 후보) immediate-implant vs ARP 의사결정 분기
