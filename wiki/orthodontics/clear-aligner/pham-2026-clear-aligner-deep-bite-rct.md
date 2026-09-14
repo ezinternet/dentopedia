@@ -11,6 +11,10 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/pham-2026-clear-aligner-deep-bite-rct
 pdf_filename: pham-2026-clear-aligner-deep-bite-rct.pdf
 source_collection: external
 tags: [clear-aligner, deep-bite, patient-satisfaction, treatment-duration, cephalometric]
+relations:
+  - target: orthodontics/clear-aligner/charoenrat-2025-clear-aligner-anterior-open-bite-molar-intrusion-sr-ma
+    type: contrasts
+    note: "opposite vertical malocclusion — deep bite vs open bite; both CA indications, different biomechanical targets"
 ---
 
 ## Three-line Summary
