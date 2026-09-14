@@ -2,7 +2,7 @@
 title: "Spray-and-Stretch (Vapocoolant) for Masticatory Myofascial Pain — 2026 Synthesis"
 authors: synthesis page (compiled by Claude from 5 wiki entries ingested 2026-06-21)
 year: 2026
-date: 2026-06-21
+date: 2026-09-14
 category: overviews
 evidence_level: synthesis
 source_collection: internal
