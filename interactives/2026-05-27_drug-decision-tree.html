@@ -2,7 +2,7 @@
 ---
 title: "약물 결정 트리 — Chairside (drug 5축 통합)"
 type: interactive
-date: 2026-09-09
+date: 2026-09-14
 status: draft
 verified: 2026-08-11
 category: drug
@@ -375,7 +375,7 @@ function calculate(e){
       why='매복 third molar는 NSAID-preemptive 효과 약함 (Costa 2015 Meta, P=0.22) → 술전 NSAID 대신 술전 Dexamethasone 4mg IM 1회 권장 (Tamgadge 2025 split-mouth RCT, n=60: day7 VAS 0.4 vs 1.6, 개구량·부종 모두 개선). 코르티코스테로이드 계층 근거(4편 일관): Markiewicz 2008 SR-MA(12 RCT) — 부종(SMD 1.4 조기/1.1 후기)·개구제한(WMD 4.1mm 조기/2.7mm 후기) 유의 개선이나 통증은 비유의(WMD 0.4–0.5 VAS, P=.07/.4); Almeida 2019 SR-MA(17편, 10편 pooled)도 동일 패턴; Dan 2010 SR-MA(구강악안면·악교정술 포괄)는 부종·통증 유의 감소, 감염 위험 증가 없음(RR 1.004). 즉 CS의 항부종·개구제한 효과는 다중 SR-MA에서 일관되나 통증 감소만 기대해 단독 처방하는 근거는 약함. 주사 여건 없는 경우 대안: Bakri 2024 RCT(n=15, split-mouth, 위약군 없음) — 3일 경구 프레드니솔론 테이퍼(5mg tid→bid→qd)가 단회 25mg보다 개구량·부종 유의 우수(통증은 무차이) — n=15로 근거 약함. 술후 진통은 즉시 first dose. Opioid 금지.';
     } else if (proc === 'implant' || proc === 'perio_surg') {
       rec=firstLine + ' + 술전 30–60min Ibuprofen 400mg';
-      why='Gousias 2025 SR-MA: 치주·임플란트 preemptive analgesia 효과 있음. COX-2 selective는 골유착 우려 (Etikala 2019) — 회피.';
+      why='Gousias 2025 SR-MA: 치주·임플란트 preemptive analgesia 효과 있음. COX-2 selective는 골유착 우려 (Etikala 2019) — 회피. ⚠ 비선택적 NSAID(이부프로펜·나프록센)도 조기 임플란트 실패 연관 — Chatzopoulos 2025 대규모 코호트(n=12,943 환자, 49,997 임플란트): 이부프로펜 OR 2.29–2.87, 나프록센 OR 2.65; Kumchai 2025 파일럿 RCT(n=12): 나프록센군 ISQ 증가 절반, 변연골소실 ~55% 증가. 임플란트 후: APAP 단독 또는 APAP+NSAID ≤48h 제한, 7일 초과 NSAID 사용 자제.';
     } else if (proc === 'endo' || proc === 'endo_acute') {
       rec='Ibuprofen 600mg / Acetaminophen 1000mg alternate × 2–3일 (6–8h 급성엔 Diclofenac+APAP 또는 Ketorolac, 24h 지속엔 Naproxen·Novafen)' + (proc === 'endo_acute' ? ' + Diclofenac potassium 50mg 고려' : '');
       why='Smith 2017 SR-MA: 술전 통증 동반 endo에 Ibuprofen 600mg 유효. 단회 진통은 시간대 의존 — Diclofenac+APAP·Ketorolac이 6–8h 최강(Ping 2026: Ketorolac SMD −0.82, rescue RR 0.50)이나 12–24h 소실, Naproxen·Novafen이 24h 지속 (Kelidari 2026 NMA). ' + (proc === 'endo_acute' ? 'Vatankhah 2023: 비가역 치수염에 Diclofenac K 우월.' : '');
