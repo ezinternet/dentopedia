@@ -2,7 +2,7 @@
 title: "Halitosis — Etiology, Measurement, Systemic Associations, and Management Overview"
 category: [overviews]
 type: overview
-date: 2026-06-18
+date: 2026-09-14
 evidence_level: synthesis
 source_wiki:
   - wiki/halitosis/silva-2017-estimated-prevalence-halitosis-sr.md
