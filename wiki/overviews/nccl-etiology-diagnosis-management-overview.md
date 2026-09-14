@@ -33,6 +33,7 @@ source_papers:
   - wiki/resin-bonding/doshi-2023-universal-adhesive-nccl-strategy-sr-ma.md
   - wiki/resin-bonding/oza-2022-universal-adhesive-nccl-rct-2year.md
   - wiki/resin-bonding/hong-2021-universal-adhesive-etching-modes-sr-ma.md
+  - wiki/resin-bonding/breschi-2025-adhesive-dentistry-evolution-review.md
 tags: [nccl, abfraction, biocorrosion, monitoring, universal-adhesive, selective-enamel-etching, occlusion, overview]
 relations:
   - type: refines
@@ -42,7 +43,7 @@ relations:
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
-> - 핵심: 비우식성 치경부 병소(Noncarious Cervical Lesion, NCCL)의 병인·진단과 "관찰 vs 수복" 의사결정 종합(21편).
+> - 핵심: 비우식성 치경부 병소(Noncarious Cervical Lesion, NCCL)의 병인·진단과 "관찰 vs 수복" 의사결정 종합(22편).
 > - 병인은 단일 기전이 아닌 stress(abfraction)·friction(abrasion)·biocorrosion(erosion)의 case-specific 다인성 조합.
 > - 교합응력 단독이 모든 NCCL의 주원인이라는 abfraction 단독원인설은 임상적으로 미입증 — SR 근거가 정면 충돌.
 > - SR 충돌 상세: 임상 SR(Senna 2012·Silva 2013)=연관 약함/불가 vs abfraction SR(Duangthip 2017)=81% 연관(단 lab/FEA 가중·응력단독 원인 임상입증 전무) vs scoping review(Dioguardi 2024, 6편)=확정·반박 모두 불가. SEM은 microfracture 일부 관찰(Worawongvasu).
@@ -55,11 +56,12 @@ relations:
 > - 실무 절충: **법랑질 변연이 있으면 산부식하는 쪽**(E&R 또는 SEE)이 두 SR+MA 어느 쪽에서도 손해가 아니고 Omoto 2025 RCT가 SEE의 유지력 손실 감소를 직접 보였다. Oza 2022 5군 2년 RCT(234개 NCCL)는 SE 단독 모드에서 6개 탈락 → 임상 부적합이라고 직접 보여줬고, 일반 수복 SR+MA(Hong 2021, RCT 13편)도 E&R이 유지·변연적합·변연착색 모두 유의 우위라 Assis 2023 방향을 외부 지지한다. 즉 "동등하니 아무거나"가 아니라 "산부식 쪽이 하방 위험이 낮다"가 현재 읽기. 술후 과민증이 주된 우려면 SE 쪽으로 기운다(Assis 2023).
 > - 금기 패턴: 접착 단계를 생략하는 self-adhesive flowable은 6개월에 유지 붕괴(성공 33% vs 3-step E&R 100%, Celik 2015) → 사용 지양; 경화상아질은 산부식 30초 연장 + 표면 텍스처링.
 > - 격리법: 러버댐 vs 코튼롤/견인사는 NCCL 수복물 유지율·치은 손상·시술 시간 모두 동등(18개월 73% vs 73%, Loguercio 2015 RCT) — 낮은 유지율은 격리법이 아닌 1단계 접착제 특성에 기인.
+> - 접착 치의학 70년 종합(Breschi 2025, 볼로냐 그룹): 선택적 법랑질 산부식(Selective Enamel Etching, SEE) + 상아질 SE가 현행 광범위 지지, 3-step 산부식-세척(Etch-and-Rinse, E&R)이 long-term gold standard; 하이브리드층(Hybrid Layer, HL) 분해는 MMP/가수분해 이중 기전 — 유니버설 접착제는 술자 의존적 (일반 수복 범위, NCCL 특이 아님).
 > - gap: bruxer/고위험 환자 데이터 공백(주요 RCT가 severe bruxism 배제), monitoring → 수복 전환의 정량 임계값 부재, 산부식 전략 SR+MA 2편의 불일치(Assis 2023 vs Doshi 2023) 미해결.
 
 ## Three-line Summary
 
-Synthesis of 21 papers on noncarious cervical lesions (NCCL) — etiology, diagnosis, and monitor-vs-restore decision: NCCLs are multifactorial (stress/abfraction + friction/abrasion + biocorrosion/erosion as a case-specific combination), the "abfraction as sole cause" hypothesis is clinically unproven with SR evidence directly contradicting across three systematic reviews (Senna 2012 — association unconclusive; Duangthip 2017 — 81% association but lab-weighted; Dioguardi 2024 scoping — neither confirms nor refutes with only 6 eligible studies).
+Synthesis of 22 papers on noncarious cervical lesions (NCCL) — etiology, diagnosis, and monitor-vs-restore decision: NCCLs are multifactorial (stress/abfraction + friction/abrasion + biocorrosion/erosion as a case-specific combination), the "abfraction as sole cause" hypothesis is clinically unproven with SR evidence directly contradicting across three systematic reviews (Senna 2012 — association unconclusive; Duangthip 2017 — 81% association but lab-weighted; Dioguardi 2024 scoping — neither confirms nor refutes with only 6 eligible studies).
 
 Asymptomatic, vital, structurally stable NCCLs should be monitored for ≥6 months before any intervention; prophylactic restoration solely for progression-prevention or routine occlusal adjustment is not indicated; restoration triggers are confirmed progression, hypersensitivity, esthetic concern, structural threat, or food retention.
 
@@ -67,7 +69,7 @@ When restoration is required, success depends not on composite type but on the a
 
 ## 세줄요약
 
-비우식성 치경부 병소(Noncarious Cervical Lesion, NCCL) 21편 종합 — 병인은 stress(abfraction)·friction(abrasion)·biocorrosion(erosion)의 case-specific 다인성 조합이고, "교합응력(abfraction) 단독원인설"은 임상적으로 미입증이며 3편의 SR이 충돌(Senna 2012 결론 불가, Duangthip 2017 81% 연관 단 lab 가중, Dioguardi 2024 scoping 6편으로 확정·반박 모두 불가).
+비우식성 치경부 병소(Noncarious Cervical Lesion, NCCL) 22편 종합 — 병인은 stress(abfraction)·friction(abrasion)·biocorrosion(erosion)의 case-specific 다인성 조합이고, "교합응력(abfraction) 단독원인설"은 임상적으로 미입증이며 3편의 SR이 충돌(Senna 2012 결론 불가, Duangthip 2017 81% 연관 단 lab 가중, Dioguardi 2024 scoping 6편으로 확정·반박 모두 불가).
 
 무증상·생활치·구조 안정 병변은 최소 6개월 monitoring 우선; 진행 예방 목적의 예방적 수복·교합조정은 비적응증; 수복 trigger는 진행 확인·과민증·심미·구조적 위협·음식물 정체.
 
@@ -107,6 +109,7 @@ NCCL 임상 질문은 두 갈래다 — (1) 무엇이 원인이고 어떻게 진
 | [[resin-bonding/loguercio-2015-isolation-method-operative-field-gingival]] | RCT (split-mouth) | 30/60 | 러버댐 vs 코튼롤/견인사 격리법: 유지율·치은 손상·시술 시간 무차이(18mo 73% vs 73%); 낮은 유지율은 1단계 접착제 특성 | rct |
 | [[resin-bonding/oza-2022-universal-adhesive-nccl-rct-2year]] | RCT (5-arm, 2-year) | 234 NCCLs | SE 단독 모드 6개 탈락 → 임상 부적합; SLE·E&R 모드 허용 범위; Clearfil SE Bond 4개 탈락 → 경계선; universal adhesive E&R 1개 탈락 → 허용 — SE 단독 모드의 위험을 직접 입증 | rct |
 | [[resin-bonding/hong-2021-universal-adhesive-etching-modes-sr-ma]] | SR+MA (PRISMA) | 13 RCTs | E&R이 유지(OR 0.35, p=0.003)·변연적합(OR 0.49, p<0.001)·변연착색(OR 0.49, p<0.001) 우위; 이차우식·술후 과민증 무차이; 범위: 일반 수복(NCCL 특이 아님) — Assis 2023 방향 외부 지지, Doshi 2023에 반대 | sr+ma |
+| [[resin-bonding/breschi-2025-adhesive-dentistry-evolution-review]] | Narrative review | — | 접착 치의학 70년 종합(Breschi/볼로냐 그룹 2025): SEE + 상아질 SE 현행 광범위 지지, 3-step E&R = long-term gold standard; HL 분해 기전(MMP/가수분해)·유니버설 접착제 술자 의존성 합성 — 일반 수복 범위(NCCL 특이 아님), Hong 2021 및 Assis 2023 방향 권위 지지 | narrative |
 
 ## Clinical Decision Points
 
@@ -117,7 +120,7 @@ NCCL 임상 질문은 두 갈래다 — (1) 무엇이 원인이고 어떻게 진
 3. **수복 재료·접착 — 유지력이 관건.**
    - 1차 재료: composite resin. composite **종류**보다 **접착 프로토콜·술기**가 성공을 좌우(Peumans 2020·2023).
    - Universal adhesive — 산부식 전략은 **상위 근거가 갈린다**: 개별 RCT는 E&R과 SEE 모드 3년 성능 동등(Peumans 2023)이지만, NCCL 특이 SR+MA 2편이 서로 충돌한다 — Assis 2023(RCT 20편, PROSPERO 등록, 최대 규모)은 E&R이 중기(12–36개월) 유지·변연적합·변연착색·이차우식에서 우위이고 SE는 술후 과민증만 낮다고 보고, Doshi 2023(RCT 13편 메타분석)은 5개 지표 전부 무차이(p>0.05, I²=0%)라고 보고한다. 두 SR+MA는 서로를 "대비되는 결과"로 명시 인용하며, 어느 쪽도 아직 철회·대체되지 않았다.
-   - 실무 판단: **enamel 변연이 있으면 산부식하는 쪽**(E&R 또는 SEE)이 두 SR+MA 어느 쪽에서도 손해가 아니고, Omoto 2025 RCT가 selective enamel etching의 유지력 손실 감소를 직접 보였다. 이 방향은 두 개의 추가 근거로 보강된다: Oza 2022 5군 2년 RCT(234개 NCCL, Hacettepe)는 SE 단독 모드에서 6개 탈락·임상 부적합으로 확인했고(SLE·E&R 모드 허용), Hong 2021 SR+MA(일반 수복, PRISMA, RCT 13편)는 E&R이 유지율(OR 0.35)·변연적합·변연착색 모두 유의 우위라 Assis 2023 결론을 외부에서 지지한다(단, 일반 수복 범위이므로 NCCL 특이 결론이 아님에 주의). → enamel 변연 있으면 SEE 권장. 술후 과민증이 지배적 우려인 증례에서만 SE 쪽으로 기운다(Assis 2023의 유일한 SE 우위 지표).
+   - 실무 판단: **enamel 변연이 있으면 산부식하는 쪽**(E&R 또는 SEE)이 두 SR+MA 어느 쪽에서도 손해가 아니고, Omoto 2025 RCT가 selective enamel etching의 유지력 손실 감소를 직접 보였다. 이 방향은 두 개의 추가 근거로 보강된다: Oza 2022 5군 2년 RCT(234개 NCCL, Hacettepe)는 SE 단독 모드에서 6개 탈락·임상 부적합으로 확인했고(SLE·E&R 모드 허용), Hong 2021 SR+MA(일반 수복, PRISMA, RCT 13편)는 E&R이 유지율(OR 0.35)·변연적합·변연착색 모두 유의 우위라 Assis 2023 결론을 외부에서 지지한다(단, 일반 수복 범위이므로 NCCL 특이 결론이 아님에 주의). → enamel 변연 있으면 SEE 권장. 이 방향은 접착 치의학 70년 종합 리뷰(Breschi 2025, 볼로냐 그룹)에서도 재확인된다 — "SEE + SE on dentin이 현행 광범위 지지, 3-step E&R이 long-term gold standard"(단, 일반 수복 범위, NCCL 특이 결론 아님). 술후 과민증이 지배적 우려인 증례에서만 SE 쪽으로 기운다(Assis 2023의 유일한 SE 우위 지표).
    - 경화상아질: 정상 상아질처럼 산부식되지 않음 → 산부식 30초로 연장, fine diamond로 표면 텍스처링(Goodacre).
    - 금기 패턴: 접착 단계를 생략하는 self-adhesive flowable composite는 6개월에 유지 붕괴(Celik 2015) → 사용 지양.
    - RMGIC: 유지는 composite와 대등하나 표면 광택 손실이 더 크고, EDTA 전처리는 추가 이득 없음(Omoto 2025).
@@ -142,3 +145,4 @@ NCCL 임상 질문은 두 갈래다 — (1) 무엇이 원인이고 어떻게 진
 - [[resin-bonding/doshi-2023-universal-adhesive-nccl-strategy-sr-ma]] — NCCL 특이 SR+MA(RCT 13편 MA): TE vs SE 5개 지표 무차이(I²=0%) — Assis 2023과 정면 불일치
 - [[resin-bonding/oza-2022-universal-adhesive-nccl-rct-2year]] — 5군 2년 RCT(234 NCCLs): SE 단독 모드 임상 부적합 직접 입증; SEE·E&R 허용 — §3 실무 판단의 직접 RCT 근거
 - [[resin-bonding/hong-2021-universal-adhesive-etching-modes-sr-ma]] — 일반 수복 SR+MA(RCT 13편): E&R 우위(OR 0.35); Assis 2023 방향 외부 지지 (NCCL 특이 아님)
+- [[resin-bonding/breschi-2025-adhesive-dentistry-evolution-review]] — 접착 치의학 70년 종합(Breschi 2025): SEE + SE on dentin 현행 광범위 지지, 3-step E&R gold standard; HL 분해 기전(MMP/가수분해) 합성 (일반 수복 범위)
