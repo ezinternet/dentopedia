@@ -2,7 +2,7 @@
 title: "Behavioral Dentistry — MI·환자 커뮤니케이션·정기검진 Attendance Decision Ladder"
 authors: Synthesis (Damian Lee)
 year: 2026
-date: 2026-05-26
+date: 2026-09-14
 doi: N/A
 source: N/A
 category: overviews
