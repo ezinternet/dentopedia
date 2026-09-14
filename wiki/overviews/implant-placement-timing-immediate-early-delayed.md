@@ -2,7 +2,7 @@
 title: "Implant Placement Timing — Immediate vs Early vs Delayed (ITI Type 1–4)"
 authors: Synthesis (Claude)
 year: 2026
-date: 2026-06-28
+date: 2026-09-14
 doi: N/A
 source: synthesis
 category: overviews
@@ -18,7 +18,7 @@ tags: [overview, placement-timing, immediate-implant, early-placement, delayed-i
 > [!summary] 한국어 핵심요약
 > - 발치 후 식립 시점을 ITI 분류(Chen & Buser)로 본 통합 페이지 — Type 1 즉시(당일), Type 2 조기(연조직 치유, 4–8주), Type 3 조기(부분 골치유, 12–16주), Type 4 지연(≥6개월).
 > - 핵심 질문은 생존율이 아니라(전 시점 높음) **치료시간/내원횟수 vs 심미·생물학적 위험의 trade-off**.
-> - 명제 1 — 선택된 증례에서 생존율은 시점 무관(timing-agnostic).
+> - 명제 1 — 선택된 증례에서 생존율은 시점 무관(timing-agnostic). **[2026-09-14 신규] Yang 2026 RCT(n=220, 1년)에서 즉시 95.45% vs 지연 92.73%(P=0.391) — 확인.** 단 즉시군이 분홍 심미 점수 (Pink Esthetic Score, PES) +0.84, 백색 심미 점수 (White Esthetic Score, WES) +0.55, 구강건강영향지수 14 (Oral Health Impact Profile-14, OHIP-14) -0.95(낮을수록 좋음, 즉시 우위) 모두 P<0.001로 유의하게 우수 — 생존율 동등 + 삶의 질 즉시 우위.
 > - 명제 2 — **즉시(Type 1) 식립이 위험을 집중**시킨다: Tonetti 2017 RCT(n=124)에서 즉시 vs 12주 지연 — 골증대 필요 72% vs 44%, 창상실패 26% vs 5%, 부적절 분홍심미점수(Pink Esthetic Score, PES) 42% vs 19%.
 > - 명제 3 — **조기(Type 2/3) 식립이 위험 균형 hedge**: Bassir 2019 SR+MA(12연구)에서 조기는 즉시·지연과 실패율 동등하면서 즉시보다 변연골소실(Marginal Bone Loss, MBL)이 적음(WMD −0.14mm).
 > - 결정점 ① 심미존 단일치 + 협측골판 온전 + 근단감염 없음 + 두꺼운 phenotype → 즉시(Type 1) 합리, gap graft ± 결합조직이식(Connective Tissue Graft, CTG) 병행.
@@ -73,6 +73,7 @@ A fourth comparison — **immediate-delayed (4–8 wk soft-tissue healing only, 
 | [[immediate-implant/esthetic-soft-tissue/peitsinis-2025-implant-placement-timing-loading-protocols]] | (review) | — | Timing × loading protocol interplay. |
 | [[immediate-implant/gap-grafting/meijer-2024-immediate-implant-bony-defect-10year-rct]] | rct | 10-yr | Even bony-defect sockets reach delayed-equivalent 10-yr outcomes with immediate + GBR + deferred provisional (operator-dependent). |
 | [[immediate-implant/esposito-2010-fresh-extraction-sockets-immediate-cochrane]] | sr+ma Cochrane (7 RCT, 2010) | n=126 (immediate vs delayed comparison) | Immediate vs immediate-delayed vs delayed in fresh sockets — immediate vs delayed: no significant differences (2 RCTs); **immediate-delayed vs delayed: better esthetics at 2y (RR=1.68) BUT 4× more complications at 5y (RR=4.20)**; bone substitutes acceptable in place of autogenous graft; all studies high risk of bias, underpowered. |
+| [[immediate-implant/yang-2026-immediate-vs-delayed-implants-survival-qol-rct]] | rct | 220 pt, 1-yr (110 immediate vs 110 delayed) | Survival equivalent (95.45% vs 92.73%, P=0.391). Immediate superior on PES (+0.84, P<0.001), WES (+0.55, P<0.001), OHIP-14 (3.20 vs 4.15, P<0.001), VAS patient satisfaction, and peri-implant health indices (PD, mPLI, mSBI) — all P<0.05. First RCT to jointly report survival + QoL + esthetic scores for this comparison at 1 year. |
 
 ## Clinical Decision Points
 
@@ -88,7 +89,7 @@ A fourth comparison — **immediate-delayed (4–8 wk soft-tissue healing only, 
 - Few head-to-head RCTs isolate early vs immediate vs delayed with standardized esthetic endpoints.
 - "Early" definitions (Type 2 vs Type 3) are inconsistently applied across studies.
 - Long-term (≥10 y) comparative esthetic stability data remain thin outside single trials.
-- Patient-reported outcomes rarely differ by timing despite clinical/esthetic differences (Tonetti 2017) — needs better PROM instruments.
+- Patient-reported outcomes rarely differ by timing in older studies — Yang 2026 (n=220 RCT) now provides 1-year OHIP-14 + VAS data showing immediate placement advantage, partially filling this gap. Longer follow-up and more diverse populations needed.
 
 ## Related Papers
 
