@@ -1,0 +1,316 @@
+<title>Sinus Graft Material Matrix</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=DM+Sans:wght@400;500;600&display=swap">
+<style>
+:root {
+  --bg:       #F5F0E8;
+  --surface:  #FFFFFF;
+  --surface2: #EDE7DC;
+  --border:   #D9D2C5;
+  --t1:       #1A1410;
+  --t2:       #6B5E50;
+  --t3:       #9A8E82;
+  --amber:    #C07A2E;
+  --teal:     #2A8A86;
+  --green:    #3D8A60;
+  --red:      #A0402E;
+  --mid:      #8A7A3E;
+  --chip-bg:  #EDE7DC;
+}
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  background: var(--bg);
+  color: var(--t1);
+  font-family: 'DM Sans', system-ui, sans-serif;
+  font-size: 15px;
+  line-height: 1.55;
+  padding: 24px 20px;
+}
+.page { max-width: 900px; margin: 0 auto; }
+.eyebrow {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--t3);
+  margin-bottom: 6px;
+}
+h1 {
+  font-family: 'Fraunces', Georgia, serif;
+  font-size: clamp(22px, 3.5vw, 30px);
+  font-weight: 700;
+  line-height: 1.2;
+  text-wrap: balance;
+  color: var(--t1);
+}
+.subtitle {
+  margin-top: 6px;
+  color: var(--t2);
+  font-size: 14px;
+  max-width: 60ch;
+}
+.sources {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 10px;
+}
+.src-chip {
+  padding: 3px 10px;
+  border-radius: 4px;
+  background: var(--surface2);
+  border: 1px solid var(--border);
+  font-size: 11.5px;
+  color: var(--t2);
+}
+.src-chip strong { color: var(--t1); font-weight: 600; }
+.divider { height: 1px; background: var(--border); margin: 22px 0; }
+.filter-row {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-bottom: 18px;
+  align-items: center;
+}
+.filter-label {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--t3);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-right: 4px;
+}
+.filter-btn {
+  padding: 5px 12px;
+  border-radius: 20px;
+  border: 1.5px solid var(--border);
+  background: transparent;
+  color: var(--t2);
+  font-family: inherit;
+  font-size: 12.5px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+.filter-btn.active { background: var(--amber); border-color: var(--amber); color: #fff; }
+.filter-btn:hover:not(.active) { border-color: var(--amber); color: var(--amber); }
+.table-wrap { overflow-x: auto; border-radius: 10px; border: 1px solid var(--border); }
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background: var(--surface);
+  font-size: 14px;
+  min-width: 700px;
+}
+thead th {
+  background: var(--surface2);
+  padding: 10px 14px;
+  text-align: left;
+  font-size: 11.5px;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--t2);
+  border-bottom: 1px solid var(--border);
+  white-space: nowrap;
+}
+tbody tr { border-bottom: 1px solid var(--border); transition: background 0.12s; }
+tbody tr:last-child { border-bottom: none; }
+tbody tr:hover { background: #FAF7F2; }
+tbody tr.hidden { display: none; }
+td {
+  padding: 11px 14px;
+  vertical-align: middle;
+  color: var(--t1);
+}
+.material-cell {
+  font-family: 'Fraunces', Georgia, serif;
+  font-weight: 600;
+  font-size: 15px;
+}
+.mat-type {
+  display: block;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 11px;
+  font-weight: 500;
+  color: var(--t3);
+  margin-top: 1px;
+}
+.bar-wrap { display: flex; align-items: center; gap: 8px; }
+.bar-track {
+  flex: 1;
+  min-width: 60px;
+  height: 8px;
+  border-radius: 4px;
+  background: var(--surface2);
+  overflow: hidden;
+}
+.bar-fill {
+  height: 100%;
+  border-radius: 4px;
+  transition: width 0.4s ease;
+}
+.val-label { font-size: 13px; font-variant-numeric: tabular-nums; color: var(--t2); white-space: nowrap; min-width: 54px; }
+.star-row { display: flex; gap: 2px; align-items: center; }
+.dot { width: 9px; height: 9px; border-radius: 50%; background: var(--surface2); border: 1px solid var(--border); }
+.dot.on { background: var(--amber); border-color: var(--amber); }
+.tag-badge {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 12px;
+  font-size: 11.5px;
+  font-weight: 600;
+}
+.tag-high { background: #D4EEE2; color: var(--green); }
+.tag-mid  { background: #F5EED4; color: var(--mid); }
+.tag-low  { background: #F5E0DA; color: var(--red); }
+.note-cell { font-size: 12.5px; color: var(--t2); line-height: 1.4; max-width: 220px; }
+.legend-row {
+  display: flex; gap: 16px; flex-wrap: wrap;
+  margin-top: 16px; font-size: 12px; color: var(--t2);
+}
+.legend-item { display: flex; align-items: center; gap: 6px; }
+.legend-dot { width: 10px; height: 10px; border-radius: 50%; }
+</style>
+
+<div class="page">
+  <p class="eyebrow">상악동거상술 · 이식재 선택 근거</p>
+  <h1>Sinus Graft Material Comparison Matrix</h1>
+  <p class="subtitle">상악동 거상술 이식재 종류별 신생골 형성률(NBF), 부피 안정성, 임플란트 생존율 비교. 필터로 원하는 항목을 선택.</p>
+  <div class="sources">
+    <span class="src-chip"><strong>Thomas 2026</strong> SR (n=18 studies, PRISMA)</span>
+    <span class="src-chip"><strong>Alkandari 2025</strong> SR+MA (BCP vs DBBM, 10 RCTs)</span>
+    <span class="src-chip"><strong>ElSholkamy 2026</strong> double-blind RCT</span>
+    <span class="src-chip"><strong>del Fabbro 2025</strong> SR lateral approach</span>
+  </div>
+
+  <div class="divider"></div>
+
+  <div class="filter-row">
+    <span class="filter-label">Filter:</span>
+    <button class="filter-btn active" onclick="setFilter('all',this)">전체</button>
+    <button class="filter-btn" onclick="setFilter('biologic',this)">Biologic</button>
+    <button class="filter-btn" onclick="setFilter('synthetic',this)">Alloplastic</button>
+    <button class="filter-btn" onclick="setFilter('graftless',this)">Graftless</button>
+  </div>
+
+  <div class="table-wrap">
+    <table id="matTable">
+      <thead>
+        <tr>
+          <th>이식재</th>
+          <th>NBF (%)</th>
+          <th>부피 안정성</th>
+          <th>잔존 이식재</th>
+          <th>임플란트 생존율</th>
+          <th>임상 특징</th>
+        </tr>
+      </thead>
+      <tbody id="matBody"></tbody>
+    </table>
+  </div>
+
+  <div class="legend-row">
+    <div class="legend-item"><span class="legend-dot" style="background:#C07A2E"></span>Amber bar = NBF 상대값</div>
+    <div class="legend-item"><span class="tag-badge tag-high" style="font-size:10px;padding:1px 6px;">High</span> ≥95%</div>
+    <div class="legend-item"><span class="tag-badge tag-mid" style="font-size:10px;padding:1px 6px;">Mid</span> 90–95%</div>
+    <div class="legend-item"><span class="tag-badge tag-low" style="font-size:10px;padding:1px 6px;">↓</span> &lt;90%</div>
+  </div>
+</div>
+
+<script>
+const DATA = [
+  {
+    id:'autograft', group:'biologic',
+    name:'Autograft', type:'Biologic — gold standard',
+    nbf:41.7, volStab:85, residual:'낮음', survival:92,
+    survTag:'mid', survLabel:'>90%',
+    note:'NBF 최고치. 공여부 이환율(morbidity). 사용 감소 추세.',
+    src:'Thomas 2026 SR'
+  },
+  {
+    id:'allograft', group:'biologic',
+    name:'Allograft', type:'Biologic — 동종이식',
+    nbf:35.4, volStab:90, residual:'중간', survival:92,
+    survTag:'mid', survLabel:'>90%',
+    note:'공여부 불필요. 감염·면역 위험 낮음. 가용성 제한.',
+    src:'Thomas 2026 SR'
+  },
+  {
+    id:'xenograft', group:'biologic',
+    name:'Xenograft / DBBM', type:'Biologic — 이종(소뼈)',
+    nbf:35.2, volStab:103, residual:'높음', survival:95,
+    survTag:'high', survLabel:'>95%',
+    note:'부피 안정성 최고(103%). 잔존 입자 높음 = 장기 스캐폴드. Bio-Oss® 표준.',
+    src:'Thomas 2026 · ElSholkamy 2026'
+  },
+  {
+    id:'bcp', group:'biologic',
+    name:'BCP (HA/TCP)', type:'Biologic-ish — 이상칼슘인산염',
+    nbf:38.5, volStab:95, residual:'DBBM 대비 −8.41%', survival:92,
+    survTag:'mid', survLabel:'>90%',
+    note:'Alkandari 2025 MA: NBF=DBBM+3.48%(p=0.02), 잔존 이식재 −8.41%(p=0.001). 흡수 빠름.',
+    src:'Alkandari 2025 SR+MA'
+  },
+  {
+    id:'alloplast', group:'synthetic',
+    name:'Alloplast (HA/β-TCP)', type:'Synthetic — 합성 이식재',
+    nbf:30.3, volStab:66, residual:'낮음', survival:91,
+    survTag:'mid', survLabel:'>90%',
+    note:'부피 안정성 최저(66%). 완전 합성이라 감염 위험 없음. 흡수 패턴 가변적.',
+    src:'Thomas 2026 SR'
+  },
+  {
+    id:'graftless', group:'graftless',
+    name:'Graftless (bioabsorbable screws)', type:'Graftless — 생분해 나사 공간 유지',
+    nbf:37.3, volStab:null, residual:'없음 (이식재 無)', survival:95,
+    survTag:'high', survLabel:'>95%',
+    note:'NBF=xenograft(NS, p=0.324). 골높이 8.43 vs 12.07mm(p<0.001). 입자 zero. RBH≤4mm에서 검증.',
+    src:'ElSholkamy 2026 RCT'
+  },
+];
+
+const NBF_MAX = 45;
+const VOL_MAX = 110;
+
+function survTag(t) {
+  if (t==='high') return '<span class="tag-badge tag-high">High</span>';
+  if (t==='mid')  return '<span class="tag-badge tag-mid">Mid</span>';
+  return '<span class="tag-badge tag-low">↓</span>';
+}
+
+function barHTML(val, maxV, color) {
+  if (val == null) return '<span style="color:var(--t3);font-size:12px;">N/A</span>';
+  const pct = Math.min(100, (val/maxV)*100).toFixed(1);
+  return `<div class="bar-wrap">
+    <div class="bar-track"><div class="bar-fill" style="width:${pct}%;background:${color};"></div></div>
+    <span class="val-label">${val}%</span>
+  </div>`;
+}
+
+function renderTable(filter) {
+  const body = document.getElementById('matBody');
+  body.innerHTML = '';
+  DATA.forEach(d => {
+    const show = filter==='all' || d.group===filter;
+    const tr = document.createElement('tr');
+    if (!show) tr.classList.add('hidden');
+    tr.innerHTML = `
+      <td><span class="material-cell">${d.name}</span><span class="mat-type">${d.type}</span></td>
+      <td>${barHTML(d.nbf, NBF_MAX, '#C07A2E')}</td>
+      <td>${barHTML(d.volStab, VOL_MAX, '#2A8A86')}</td>
+      <td style="font-size:13px;color:var(--t2);">${d.residual}</td>
+      <td>${survTag(d.survTag)} <span style="font-size:12px;color:var(--t2);margin-left:4px;">${d.survLabel}</span></td>
+      <td class="note-cell">${d.note} <span style="display:block;margin-top:3px;font-size:11px;color:var(--t3);">${d.src}</span></td>
+    `;
+    body.appendChild(tr);
+  });
+}
+
+function setFilter(f, btn) {
+  document.querySelectorAll('.filter-btn').forEach(b=>b.classList.remove('active'));
+  btn.classList.add('active');
+  renderTable(f);
+}
+
+renderTable('all');
+</script>
