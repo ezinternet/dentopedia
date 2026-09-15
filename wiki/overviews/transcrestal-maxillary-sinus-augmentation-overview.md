@@ -28,6 +28,8 @@ source_papers:
   - sinus-lift/transcrestal/ragher-2026-infrasinus-residual-ridge-height-cbct-indirect-sinus
   - sinus-lift/transcrestal/decker-2024-clinical-radiographic-transcrestal-sinus-augmentation
   - sinus-lift/transcrestal/lin-2025-schneiderian-membrane-biomechanical-transcrestal-fea
+  - sinus-lift/transcrestal/ceruso-2025-crestal-hydraulic-sinus-lift-cas-kit-retrospective
+  - sinus-lift/transcrestal/difrischia-2025-crestal-sinus-elevation-below-3mm-cas-kit-case-report
   - sinus-lift/transcrestal/yousry-2025-ozone-gel-osseodensification-transcrestal-sinus-rct
   - sinus-lift/transcrestal/alajami-2024-antral-balloon-vs-densah-crestal-sinus
   - sinus-lift/transcrestal/scarano-2025-fluid-dynamic-crestal-sinus-hyaluronic-acid
