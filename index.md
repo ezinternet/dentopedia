@@ -4183,6 +4183,8 @@ tags: []
 - [[sinus-lift/transcrestal/albash-2023-implant-protrusion-initial-bone-tsfe]] — Albash Z et al. 2023 · retrospective · IPL vs IBH effects on initial bone gain after graftless TSFE: IPL strong positive correlation, IBH not significant; 100% survival (n=34)
 - [[sinus-lift/transcrestal/kostakis-2025-graftless-sinus-lift-simultaneous-8year]] — 8-year prospective cohort (n=89): graftless simultaneous sinus lift 97.76% implant success vs grafted 86.6%; residual bone height is key predictor (2025)
 - [[sinus-lift/transcrestal/lin-2025-schneiderian-membrane-biomechanical-transcrestal-fea]] — 3D FEA: hydraulic pressure (CAS-Kit) requires 47% less force than large osteotome at 5mm elevation; lowest von Mises stress — biomechanical basis for lower perforation rate (2025)
+- [[sinus-lift/transcrestal/ceruso-2025-crestal-hydraulic-sinus-lift-cas-kit-retrospective]] — Retrospective case series (n=15, 20 implants): CAS-Kit TSFE RBH ≥2mm, bone gain 9.6±2.4mm, 100% survival, 0 complications at 9m (2025)
+- [[sinus-lift/transcrestal/difrischia-2025-crestal-sinus-elevation-below-3mm-cas-kit-case-report]] — Case report (RBH 3.6/2.5mm): CAS-Kit dual-site hydraulic TSFE, bone gain 14.1/11.4mm, 30 Ncm torque, stable 3 years (2025)
 
 ### sinus-lift/lateral
 - [[sinus-lift/lateral/pignataro-2008-ent-assessment-sinus-lift-candidates]] — ENT pre-operative risk stratification framework for sinus lift candidates (2008)
