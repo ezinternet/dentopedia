@@ -15,7 +15,8 @@ source_wiki:
   - wiki/orthodontics/clear-aligner/kobkiatkawin-2025-clear-aligner-color-stability-brand.md
   - wiki/orthodontics/clear-aligner/telles-2025-clear-aligner-brand-virtual-setup-comparison.md
   - wiki/orthodontics/clear-aligner/pasaoglu-bozkurt-2024-clear-aligner-biofilm-brand-comparison.md
-tags: [clear-aligner, patient-experience, OHRQoL, compliance, satisfaction, PRO, brand-comparison, color-stability, biofilm, virtual-setup, OHIP-14, PIDAQ, overview]
+  - wiki/orthodontics/clear-aligner/almotairy-2026-ageing-effects-clear-aligner-materials-sr.md
+tags: [clear-aligner, patient-experience, OHRQoL, compliance, satisfaction, PRO, brand-comparison, color-stability, biofilm, virtual-setup, OHIP-14, PIDAQ, material-aging, overview]
 relations:
   - type: extends
     target: clear-aligner-indications-limitations
@@ -270,6 +271,8 @@ CA 치료 중 OHRQoL 저하폭은 8–12%로 미미. 비교연구 65–75%에서
 | Kobkiatkawin 2025 | In vitro | 704개 샘플, 4브랜드 | PETG > TPU 색안정성; Invisalign ΔE*>3.3 |
 | Pasaoglu Bozkurt 2024 | In vitro | 6브랜드, 0–240h | 120h+ 차이; Smartee 최저, Graphy 최고 |
 | Telles 2025 | 파일럿 교차 | 10환자, 4브랜드 | VTS 브랜드 간 유의차; 견치 Class I ClearCorrect 15% |
+| Almotairy 2026 | SR (95편) | 다브랜드·재료 | 커피 ΔE=70.9, 차 18.4; 힘감쇠 48h내 40–90%; TPU/DPA > PETG |
+| Kaur 2026 | SR+MA (32편/28 메타) | n=28–145/study | QoL 1주 SMD −0.985; 치료종료 SMD −0.970; 12개월 NS(−0.531, p=0.108); 통증 SMD −0.419 |
 
 ---
 
@@ -285,4 +288,6 @@ CA 치료 중 OHRQoL 저하폭은 8–12%로 미미. 비교연구 65–75%에서
 - [[orthodontics/clear-aligner/kobkiatkawin-2025-clear-aligner-color-stability-brand]] — 4브랜드 색안정성; PETG vs TPU (§6)
 - [[orthodontics/clear-aligner/pasaoglu-bozkurt-2024-clear-aligner-biofilm-brand-comparison]] — 6브랜드 바이오필름 (§6)
 - [[orthodontics/clear-aligner/telles-2025-clear-aligner-brand-virtual-setup-comparison]] — 4브랜드 VTS 비교 (§6)
+- [[orthodontics/clear-aligner/kaur-2026-ca-vs-fa-periodontal-pain-qol-sr-ma]] — SR+MA 32편; QoL temporal analysis: 1주 SMD −0.985 → 치료종료 SMD −0.970 → 12개월 NS; 통증 SMD −0.419; 통계적 이점이 12개월에서 소실되는 패턴 (§2)
+- [[orthodontics/clear-aligner/almotairy-2026-ageing-effects-clear-aligner-materials-sr]] — 95편 SR; 커피 ΔE=70.9; 힘감쇠 40–90%/48h; TPU/DPA>PETG; 재료별 교체주기 근거 (§6 Material Aging context)
 - [[overviews/clear-aligner-indications-limitations]] — 임상 효능·적응증·기술적 한계 (보완 쌍)
