@@ -3,7 +3,7 @@ name: copilot-youtube-transcript
 description: Fetch the transcript of a YouTube video using Copilot Plus. Use when the user shares a YouTube URL and wants its contents, a summary, or quotes. Requires an active Copilot Plus license.
 license: Copilot Plus
 metadata:
-  copilot-enabled-agents: claude, codex, opencode
+  copilot-enabled-agents: opencode, claude, codex
   copilot-builtin-version: "6"
 ---
 
