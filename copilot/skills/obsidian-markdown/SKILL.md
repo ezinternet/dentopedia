@@ -3,7 +3,7 @@ name: obsidian-markdown
 description: Create and edit Obsidian-specific Markdown syntax, including wikilinks, embeds, block references, callouts, properties, tags, and comments. Use for Obsidian notes when these extensions matter; ordinary Markdown is assumed knowledge.
 license: MIT
 metadata:
-  copilot-enabled-agents: claude, codex, opencode
+  copilot-enabled-agents: opencode, claude, codex
   copilot-builtin-version: "1"
   copilot-upstream-revision: "a1dc48e68138490d522c04cbf5822214c6eb1202"
 ---
