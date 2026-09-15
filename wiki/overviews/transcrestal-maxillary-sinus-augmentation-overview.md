@@ -54,6 +54,7 @@ source_papers:
   - sinus-lift/transcrestal/yu-2021-implant-protrusion-length-nongrafting-osfe
   - sinus-lift/transcrestal/albash-2023-implant-protrusion-initial-bone-tsfe
   - sinus-lift/transcrestal/jia-2025-accuracy-robotic-cais-tsfe-posterior-maxilla
+  - sinus-lift/transcrestal/kostakis-2025-graftless-sinus-lift-simultaneous-8year
 evidence_level: synthesis
 source: synthesis
 ---
@@ -289,6 +290,7 @@ OD는 식립 시 및 지대주 연결 시 임플란트 안정성 지수(Implant 
 - [[sinus-lift/transcrestal/yu-2021-implant-protrusion-length-nongrafting-osfe]] — 비이식 OSFE IPL 영향 3~9년 후향 (105 임플란트) (2021)
 - [[sinus-lift/transcrestal/albash-2023-implant-protrusion-initial-bone-tsfe]] — TSFE 비이식: IPL+초기골높이 → 동내 골획득량 상관 CBCT (2023)
 - [[sinus-lift/transcrestal/albadani-2024-graftless-sinus-lifting-simultaneous]] — 비이식 상악동거상 동시 임플란트 BMC 연구 (2024)
+- [[sinus-lift/transcrestal/kostakis-2025-graftless-sinus-lift-simultaneous-8year]] — 8년 전향 코호트(n=89): 무이식 동시 식립 성공률 97.76% vs 이식군 86.6%; 잔존골높이 유의 예측인자 (2025)
 
 ### 인접 overview
 - [[overviews/sinus-lift-technique-selection]] — 상악동거상술 전체 종합
