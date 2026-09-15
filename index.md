@@ -590,6 +590,8 @@ tags: []
 - [[immediate-implant/esposito-2017-immediate-immediate-delayed-post-extractive]] — 위 3군 RCT 1년 후속보고(동일 210명 코호트): 실패율 4개월과 동일(신규실패 없음), 변연골·PES 패턴 그대로 유지(P=.015/<.001) — 즉시·즉시지연 우위가 일시적 아님을 확인.
 - [[immediate-implant/checchi-2017-wide-diameter-immediate-post-extractive]] — RCT(n=100, 구치부): 즉시 광경직경(6-8mm) vs 치조제보존 후 지연 통상직경(4-5mm) — PES는 지연군 유의 우위(4개월 P=.03, 1년 P=.02), 즉시군은 내원·수술횟수 유의하게 적음(P<.001). puisys-2022와 심미 방향 반대(부위·직경 차이로 해석).
 - [[immediate-implant/esthetic-soft-tissue/weigl-2016-impact-immediately-placed-restored]] — SR(17편, 626 IIPR): 무피판 65.6%, jump space 1.38–2.25mm, 성공률 97.96%·생존율 98.25%(평균 31.2개월) — 생물형 무관 중안모 점막변화 <0.95mm.
+- [[immediate-implant/gap-grafting/foad-2026-clinical-and-radiographic-evaluation-of]] — 즉시식립 간극에 천연 우골+히알루론산(cerabone plus) 이식 RCT(n=16): 4개월 ISQ 72.25 vs 64.88(p<0.001), 6개월 골밀도 1163.38 vs 1034.13 HU(p=0.016), 협측골 폭 감소 3.88% vs 15.99% — DBB 단독 대조군 부재로 HA 고유효과 미분리(예비적)
+- [[immediate-implant/molar-septum/hassan-2026-implant-stability-following-septal]] — 파일럿 RCT(20명, 1:1): 하악 대구치 즉시식립 치근간격벽 확장에서 압전골수술(PISP, Intralift) vs 골밀도화(OD, Densah) — 1·2차 ISQ 동등(66.75 vs 69.25, 76.75 vs 78.50, p>0.05), PISP 삽입토크 우위(40.33 vs 35.00 Ncm, p=0.004)·VAS 통증 하(단 절삭시간 연장), 합병증 없음
 
 ## 상악동거상술 — 측방접근 (Sinus Lift: Lateral Window)
 - [[sinus-lift/lateral/lim-2011-sinus-membrane-perforation-techniques-review]] — Lim 2011, Korean review of Schneiderian membrane perforation repair techniques/materials in sinus lift surgery
