@@ -16,7 +16,8 @@ relations:
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
-> - 측방창(Lateral Window) 상악동거상술(Sinus Floor Elevation, SFE)에서 슈나이더막(Schneiderian Membrane) 천공(Sinus Membrane Perforation, SMP)·부비동염·이식재·PRF를 다룬 40편 종합(5개 cluster).
+> - 측방창(Lateral Window) 상악동거상술(Sinus Floor Elevation, SFE)에서 슈나이더막(Schneiderian Membrane) 천공(Sinus Membrane Perforation, SMP)·부비동염·이식재·PRF를 다룬 45편 종합(Cluster 0~5, 6개 주제군).
+> - **[신규 2026-09] 슈나이더막 물성 — Cluster 0 (Zhai 2018 ex vivo)**: 두께 1.01±0.44mm, 인장강도(elongation) 5.05 N/mm / 탄성계수 27.1 MPa, 천공강도(perforation) 8.57 N/mm / 탄성계수 53.6 MPa, 골부착력(adhesion) 0.052 N/mm — 천공저항이 인장저항의 2배. Mooney-Rivlin C10=0.253, C01=0.026 MPa (비선형 초탄성, R²=0.99). Lin 2025 FEA에서 이 파라미터로 수압법이 오스테오톰 대비 하중 47%↓·von Mises 응력 30%↓ 확인 → 수압법의 낮은 천공률 역학적 근거.
 > - **수리된 천공은 임플란트 식립 금기가 아님** — Soares 2024 SR+MA(130연구)에서 적절히 수리된 SMP의 임플란트 손실 4%(95% CI 2–8%)로 온전막과 통계적 동등, 천공 크기는 손실 예측 안 함(p=0.86); Sala 2024(6,860 임플란트)도 OR 1.35 비유의로 독립 확인.
 > - **격벽(septa)이 지배적 해부학적 위험** — Henriques 2022: 부비동의 33.2%에 격벽(86% 횡방향, 표준 창 절골선을 가로지르는 형태); Yang 2024: 천공 OR 4.03; Nemati 2023 다변량 모델 위험비(Hazard Ratio, HR) 8.07. 약 3개 중 1개 부비동이 수정 접근 필요.
 > - **점액저류낭(Mucous Retention Cyst, MRC)이 단일 최강 SMP 예측인자** — Nemati 2023: HR 27.75로 격벽(8.07)·흡연(25.0)을 같은 모델에서 능가.
@@ -48,7 +49,33 @@ Practical decision rules: ≤10 mm perforations — seal with PRF (biologically 
 의사결정 규칙: ≤10 mm 천공 → PRF seal(콜라겐 동등 이상); >10 mm → tack 고정 콜라겐+동시이식(Tian 2026); 측방창 골절단은 회전 bur 대신 피에조(Lee 2023 NMA: SMP 10%↑마다 생존 OR 55%↓); 술전 CBCT를 골구내복합체(OMC)까지 판독하고 만성부비동염은 이비인후과 협진 후 시행.
 
 ## Scope
-This overview synthesizes 43 wiki pages under `wiki/sinus-lift/lateral/` (20 from 2026-05-20, 14 added 2026-06-15, 3 added 2026-06-16, 3 added 2026-08-09, 3 added 2026-09-10). The cluster centers on the lateral-window approach to maxillary SFE and five converging questions: how often does the Schneiderian membrane tear, what predicts a tear before the bur touches the lateral wall, what repair makes the tear clinically inconsequential, how do we prevent and manage postoperative sinusitis, and which graft material and adjuncts optimize histomorphometric outcomes.
+This overview synthesizes 45 wiki pages (43 lateral + 2 transcrestal-linked) under `wiki/sinus-lift/lateral/` (20 from 2026-05-20, 14 added 2026-06-15, 3 added 2026-06-16, 3 added 2026-08-09, 3 added 2026-09-10, 2 membrane-biomechanics cross-links added 2026-09-15). The cluster centers on the lateral-window approach to maxillary SFE and six converging questions: **what are the material properties of the Schneiderian membrane** (Cluster 0), how often does it tear, what predicts a tear, what repair makes it clinically inconsequential, how do we prevent sinusitis, and which graft material optimizes outcomes.
+
+## Cluster 0 — Schneiderian membrane material properties
+
+The Schneiderian membrane (슈나이데리안 막) is not a uniform linear-elastic sheet — it behaves as a **hyper-elastic, nonlinear material** whose stress-strain response stiffens progressively with deformation, and whose failure thresholds vary between elongation (1D strip) and perforation (2D biaxial) loading modes.
+
+**Foundational ex vivo characterization — Zhai 2018** (cadaveric, n=16 donors, 32 maxillae, mean age 77y):
+
+| Property | Value | Test type |
+|---|---|---|
+| Thickness (histology) | 1.01 ± 0.44 mm | Cross-section |
+| Elongation strength | 5.05 ± 0.97 N/mm | 1D strip test |
+| Elongation elastic modulus | 27.1 ± 3.7 MPa | 1D |
+| Perforation strength | 8.57 ± 3.75 N/mm | 2D biaxial (spherical indenter) |
+| Perforation elastic modulus | 53.6 ± 5.1 MPa | 2D |
+| Adhesion force (bone detachment) | 0.052 ± 0.021 N/mm | Peel test |
+| Nonlinear fit R² | 0.99 | Mooney-Rivlin model |
+| Mooney-Rivlin C10 | 0.253 MPa | Constitutive constant |
+| Mooney-Rivlin C01 | 0.026 MPa | Constitutive constant |
+
+Key insight: **perforation modulus (53.6 MPa) is nearly 2× elongation modulus (27.1 MPa)** — the membrane resists puncture much more than tearing, which clinically means lateral shear forces (e.g., elevator tip) are more dangerous than pure vertical indentation of the same magnitude.
+
+**Adhesion force (0.052 N/mm)** is the weakest property: the membrane detaches from bone at very low force, explaining why hydraulic pressure can achieve atraumatic elevation — and why overly aggressive blunt dissection tears it at the periosteal insertion rather than mid-membrane.
+
+**Downstream FEA application — Lin 2025**: Lin et al. used Zhai's Mooney-Rivlin constants (C10, C01) as material input for a 3D FEA comparing transcrestal elevation techniques. Key cross-talk finding: hydraulic pressure (CAS-Kit) distributes force uniformly → mainly tensile stress → plastic deformation (permanent membrane detachment); osteotome → focal compressive stress → super-elastic rebound (partial re-attachment). At 5mm elevation, hydraulic requires 130 kPa vs 273.2 kPa for large osteotome — a 47% advantage — and generates 30% lower von Mises stress. This biomechanical model is the mechanistic explanation for the clinically observed 0% perforation in hydraulic TSFE series (Ceruso 2025, n=20).
+
+**Remaining gaps**: All data come from cadaveric tissue (mean donor age 77y) — live membrane from younger patients may differ. No in vivo mechanical testing exists. Membrane thickness shows high inter-individual variability (range 0.28–2.55mm in Zhai 2018), which is not captured in FEA models using uniform 1mm.
 
 ## Cluster 1 — Repair of Schneiderian membrane perforations
 
@@ -240,7 +267,8 @@ These are working hypotheses from the synthesis, not protocol.
 ## Related Papers
 
 **Cluster 0 — Membrane biomechanics (material properties)**
-- [[sinus-lift/lateral/zhai-2018-nonlinear-biomechanical-schneiderian-membrane]] — first nonlinear tensile characterization: elongation strength 5.05 N/mm, perforation strength 8.57 N/mm, adhesion force 0.052 N/mm; hyper-elastic FE model R²=0.99 (cadaveric ex vivo, n=30)
+- [[sinus-lift/lateral/zhai-2018-nonlinear-biomechanical-schneiderian-membrane]] — first nonlinear tensile characterization: elongation strength 5.05 N/mm, perforation strength 8.57 N/mm, adhesion force 0.052 N/mm; hyper-elastic FE model R²=0.99 (cadaveric ex vivo, n=30); Mooney-Rivlin C10=0.253, C01=0.026 MPa — material constants now used in FEA
+- [[sinus-lift/transcrestal/lin-2025-schneiderian-membrane-biomechanical-transcrestal-fea]] — applies Zhai 2018 Mooney-Rivlin constants in 3D FEA; hydraulic pressure requires 47% less force than large osteotome at 5mm; explains mechanistic basis of lower perforation rate
 
 **Cluster 1 — Perforation repair**
 - [[sinus-lift/lateral/soares-2024-sinus-membrane-perforation-repair-review]] — keystone SR+MA on repaired-SMP outcomes (130 studies; implant loss 4%, NS vs intact)
