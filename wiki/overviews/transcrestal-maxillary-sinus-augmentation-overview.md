@@ -73,36 +73,37 @@ source: synthesis
 > - **침습성**: 동력 기구(압력·이동 제어)가 수동 망치식 osteotome보다 이환율 감소 (Farina 2023 SR); 술후 VAS 통증 <12/100. [확인]
 > - **골이식 필요성**: 무이식(graftless) 기법도 안전; 잔존골높이(Residual Bone Height, RBH)에 따라 골이식 여부 결정 (Sansupakorn 2024, Guo 2020). [확인]
 > - **근거 수준**: 모든 결과에서 GRADE 매우 낮음~낮음; 장기 추적 RCT 필요 (Kadkhodazadeh 2024, Starch-Jensen 2025). [확인]
+> - **수압법(CAS-Kit) 역학·임상 3부작 (2025 신규)**: Lin 2025 FEA → 수압이 오스테오톰 대비 하중 47% 절감, von Mises 응력 30% 감소; Ceruso 2025(n=15) → RBH ≥2mm 임상 확인, 골이득 9.6mm, 0 합병증; Di Frischia 2025(케이스) → RBH 2.5mm 성공, 3년 안정. 세 논문이 **역학 → 임상**의 완결 체계를 이룸. [확인]
 > - **⚠️ 철회 구성논문**: [[sinus-lift/transcrestal/changrani-2024-haenaem-zero-bone-loss-indirect-sinus-lift|Changrani 2024]] (HaeNaem CW-OD kit, n=12) — **RETRACTED/철회됨; 인용 금지.** 이 overview의 핵심 주장(생존율·천공률·ISQ)은 모두 유효한 별개 논문 기반이며, 해당 수치는 변경 없음.
 
 ## Three-line Summary
 
-Synthesis of 47 papers on transcrestal maxillary sinus augmentation: the transcrestal approach is minimally invasive with very high implant survival (100%, 95% CI 99-100% in RCTs; Kadkhodazadeh 2024 SR+MA), and technique selection is the dominant factor determining complications — conventional osteotome (OSFE) carries 0% perforation rate versus 34% for motor-driven osseodensification (OD) (Huang 2026 SR+MA).
+Synthesis of 50 papers on transcrestal maxillary sinus augmentation: the transcrestal approach is minimally invasive with very high implant survival (100%, 95% CI 99-100% in RCTs; Kadkhodazadeh 2024 SR+MA), and technique selection is the dominant factor determining complications — conventional osteotome (OSFE) carries 0% perforation rate versus 34% for motor-driven osseodensification (OD) (Huang 2026 SR+MA).
 
-OD achieves significantly higher ISQ at implant placement and abutment connection versus osteotome or lateral window (Starch-Jensen 2025 SR+MA), with 7.0mm vertical bone gain in the largest multicenter dataset (Huwais 2018, 261 implants); powered instruments with controlled pressure outperform manual mallet osteotomes on morbidity without losing effectiveness (Farina 2023 SR).
+OD achieves significantly higher ISQ at implant placement and abutment connection versus osteotome or lateral window (Starch-Jensen 2025 SR+MA); hydraulic pressure (CAS-Kit) achieves the lowest force requirement (47% less than large osteotome at 5mm, Lin 2025 3D FEA) and lowest von Mises stress, mechanistically explaining zero clinical perforations in the Ceruso 2025 series (n=15, RBH ≥2mm, bone gain 9.6mm).
 
-The transcrestal approach is indicated when RBH ≥5mm, with immediate placement supported at molar extraction sites with interradicular septum ≥4mm; graftless techniques are safe when anatomy is favorable, but OD requires strict adherence to manufacturer speed/torque limits due to higher perforation risk.
+Technique selection matrix: OSFE — conservative, 0% perforation; OD — highest ISQ, 34% perforation (motor-speed-dependent); hydraulic CAS-Kit — lowest perforation risk with FEA-confirmed biomechanical advantage, RBH extensible to 2mm in favorable anatomy (Di Frischia 2025); graftless techniques are safe when anatomy is favorable; long-term RCT evidence remains sparse across all modalities.
 
 ## 세줄요약
 
-경치조골(transcrestal) 상악동거상술 47편 종합: 최소침습 술식이며, RCT에서 임플란트 생존율 매우 높음(100%, 95% CI 99-100%; Kadkhodazadeh 2024 SR+MA); 술식 선택이 합병증의 결정적 요인 — 전통 osteotome(OSFE) 천공률 0% vs 모터구동 골밀도화(Osseodensification, OD) 34% (Huang 2026 SR+MA).
+경치조골(transcrestal) 상악동거상술 (TSFE) 50편 종합: 최소침습 술식이며, RCT에서 임플란트 생존율 매우 높음(100%, 95% CI 99-100%; Kadkhodazadeh 2024 SR+MA); 술식 선택이 합병증의 결정적 요인 — 전통 오스테오톰(Osteotome Sinus Floor Elevation, OSFE) 천공률 0% vs 모터구동 골밀도화(Osseodensification, OD) 34% (Huang 2026 SR+MA).
 
-OD는 식립 시 및 지대주 연결 시 임플란트 안정성 지수(Implant Stability Quotient, ISQ)가 osteotome·측방창보다 유의 높음 (Starch-Jensen 2025 SR+MA); 다센터 연구에서 7.0mm 수직 골증가 확인 (Huwais 2018, 261 임플란트); 동력 기구가 수동보다 이환율 감소 (Farina 2023 SR).
+OD는 임플란트 안정성 지수(Implant Stability Quotient, ISQ)가 오스테오톰·측방창보다 유의 높음(Starch-Jensen 2025 SR+MA); 수압법(CAS-Kit)은 3D FEA에서 오스테오톰보다 하중 47% 절감·von Mises 응력 30% 감소(Lin 2025) — 낮은 천공률의 역학적 근거이며, 임상 계열 연구(Ceruso 2025: n=15, 골이득 9.6mm, 0 천공)로 확인됨.
 
-적응증: 잔존골높이(Residual Bone Height, RBH) ≥5mm, 격벽 ≥4mm 대구치 부위에서 즉시 식립 가능; 무이식(graftless) 기법도 해부학 적합 시 안전하나, OD는 천공 위험 높아 제조사 속도·토크 준수 필수; 장기 추적 RCT 필요.
+술식 선택 요약: OSFE — 보수적·천공률 최저; OD — ISQ 최고·천공률 높음(모터 속도 의존); 수압 CAS-Kit — 역학적으로 천공 위험 최저, 잔존골높이(Residual Bone Height, RBH) 2mm까지 확장 가능(해부학 선택 필수, Di Frischia 2025); 무이식 기법은 해부학 적합 시 안전; 전 술식에서 장기 근거 부족.
 
 ---
 
 ## 1. 술식 종류와 분류
 
-[확인] 41편 논문에서 다룬 경치조골 상악동거상술의 주요 기법:
+[확인] 50편 논문에서 다룬 경치조골 상악동거상술의 주요 기법:
 
 | 기법 | 설명 | 특징 |
 |---|---|---|
 | **OSFE** (Osteotome Sinus Floor Elevation) | 수동 osteotome + 망치 | 가장 보수적, 천공률 0% |
 | **OD-TSFE** (Osseodensification) | 모터구동 Densah 버 | ISQ 우수, 천공률 34% |
 | **MISE** (Minimally Invasive Sinus Elevation) | 최소침습 기법 | 천공률 0% |
-| **수압 (Hydraulic)** | 수압으로 막 상승 | "Smart Lift" |
+| **수압 (Hydraulic / CAS-Kit)** | 수압으로 막 상승; 균등 분산 하중 | 천공률 최저, 막 박리 면적 최대; Lin 2025 FEA 근거 |
 | **트레핀** | 골 코어 채취 포함 | 자가골 확보 가능 |
 | **동적 내비게이션** | 3D 네비게이션 유도 | 정확도 향상 |
 
@@ -198,7 +199,52 @@ OD는 식립 시 및 지대주 연결 시 임플란트 안정성 지수(Implant 
 
 ---
 
-## 7. 무이식(graftless) 기법
+## 7. 수압법(CAS-Kit) — 역학적 우위와 임상 검증
+
+### 역학적 근거 (Lin 2025 3D FEA)
+
+[확인] Lin 2025 (3D FEA, 3개 모델: M1=CAS-Kit 수압 / M2=오스테오톰 Ø1.6mm / M3=오스테오톰 Ø3mm):
+
+| 거상 높이 | 수압 M1 (kPa) | 오스테오톰 Ø1.6mm M2 | 오스테오톰 Ø3mm M3 |
+|---|---|---|---|
+| 1 mm | 24.9 | 32.5 | 54.5 |
+| 3 mm | 77.1 | 112.9 | 160.6 |
+| **5 mm** | **130** | **200.8** | **273.2** |
+
+- **von Mises 응력**: 5mm에서 M3 = 1.06 MPa (M1보다 30% 높음, p<0.001)
+- **수평 막 박리 거리**: M1 2.35mm vs M3 1.68mm (근원심; p<0.05) — 이식재 수용 공간 40% 더 큼
+- **역학적 기전**: 오스테오톰 → 집중 압축 응력 + 탄성 반동(가역적); 수압 → 균등 인장 응력 + 소성 변형(영구 박리) → 낮은 천공률 설명
+- 슈나이더막 물성 모델: Zhai 2018 ex vivo 실측값 사용 (Mooney-Rivlin C10=0.253, C01=0.026 MPa)
+
+### 임상 검증
+
+[확인] Ceruso 2025 (후향적 케이스 시리즈, n=15, 20 임플란트, RBH ≥2mm, 9개월 추적):
+
+| 지표 | 결과 |
+|---|---|
+| 평균 RBH | 4.2±1.4mm (범위 2.0–6.7mm) |
+| 막 거상 (식립 시) | 13.8±1.8mm |
+| 막 거상 (9개월) | 13.0±1.6mm |
+| **골이득** | **9.6±2.4mm** |
+| 임플란트 생존율 | **20/20 (100%)** |
+| 막 천공 | **0건** |
+| 합병증 | 0건 |
+
+[확인] Di Frischia 2025 (케이스 리포트, 68세, RBH 3.6/2.5mm — 기존 최소 기준(4mm) 이하):
+
+| 부위 | RBH | 골이득 | 삽입 토크 | 3년 추적 |
+|---|---|---|---|---|
+| 1.6 | 3.6mm | **14.1mm** | ~30 Ncm | 안정 |
+| 1.7 | 2.5mm | **11.4mm** | ~30 Ncm | 안정 |
+
+- 2부위 순차 수압 주입: 0.5cc/회 분할 → 2.5cc 총량; 1번 부위 임시 seal 필수
+- 0.5cc ≈ 3mm 거상 (Ro et al. 임상 수압 데이터와 일치)
+
+**임상 의의**: FEA(Lin 2025)의 역학적 예측 → 임상(Ceruso/Di Frischia 2025) 제로 천공 확인. CAS-Kit 수압법은 RBH 2mm까지 안전역 확장 가능성 있으나 케이스 선택(해부학·골밀도) 필수.
+
+---
+
+## 9. 무이식(graftless) 기법
 
 [확인] Huang 2026, Sansupakorn 2024, Guo 2020:
 
@@ -212,7 +258,7 @@ OD는 식립 시 및 지대주 연결 시 임플란트 안정성 지수(Implant 
 
 ---
 
-## 8. 근거 수준 요약
+## 10. 근거 수준 요약
 
 | 주장 | 수준 | 출처 |
 |---|---|---|
@@ -223,6 +269,10 @@ OD는 식립 시 및 지대주 연결 시 임플란트 안정성 지수(Implant 
 | OD 골 증가 7.0mm | 후향적 | Huwais 2018 |
 | 동력 기구 침습성 감소 | 낮음 (SR) | Farina 2023 |
 | 격벽 ≥4mm 즉시 식립 | 낮음 | Farina 2023 |
+| 수압법 하중 우위 (47% ↓) | in-vitro FEA | Lin 2025 |
+| 수압법 von Mises 응력 30% ↓ | in-vitro FEA | Lin 2025 |
+| CAS-Kit 골이득 9.6mm, 0 합병증 | 낮음 (후향 시리즈) | Ceruso 2025 |
+| CAS-Kit RBH 2.5mm 성공 사례 | 매우 낮음 (케이스) | Di Frischia 2025 |
 
 ---
 
@@ -263,6 +313,12 @@ OD는 식립 시 및 지대주 연결 시 임플란트 안정성 지수(Implant 
 - [[sinus-lift/transcrestal/cobo-vazquez-2025-crestal-sinus-lift-osteotome-vs-osseodensification]] — Osteotome vs OD
 - [[sinus-lift/transcrestal/alajami-2024-antral-balloon-vs-densah-crestal-sinus]] — Antral balloon vs OD
 - [[sinus-lift/transcrestal/shalash-2023-crestal-sinus-elevation-densah-oblique]] — OD 사각도
+
+### 수압법(CAS-Kit) — 역학·임상 3부작
+- [[sinus-lift/lateral/zhai-2018-nonlinear-biomechanical-schneiderian-membrane]] — FEA 입력값 출처: Mooney-Rivlin C10=0.253, C01=0.026 MPa (ex vivo cadaveric, n=30)
+- [[sinus-lift/transcrestal/lin-2025-schneiderian-membrane-biomechanical-transcrestal-fea]] — 3D FEA: 수압 47% 힘 절감·30% von Mises 응력 감소·역학적 기전 규명
+- [[sinus-lift/transcrestal/ceruso-2025-crestal-hydraulic-sinus-lift-cas-kit-retrospective]] — 임상 검증: n=15, 골이득 9.6mm, 100% 생존, 0 합병증 (RBH ≥2mm)
+- [[sinus-lift/transcrestal/difrischia-2025-crestal-sinus-elevation-below-3mm-cas-kit-case-report]] — 극한 케이스: RBH 2.5mm, 골이득 11.4mm, 3년 안정
 
 ### 내비게이션·최소침습
 - [[sinus-lift/transcrestal/wu-2023-dynamic-navigation-transcrestal-sinus-floor]] — 동적 내비게이션
