@@ -16,6 +16,8 @@ relations:
     target: butsabul-2024-clear-aligner-root-resorption-cbct-sr-ma
   - type: refines
     target: bespalez-neto-2026-root-resorption-clear-aligner-ai-cbct
+  - type: reinforces
+    target: samulak-2026-cbct-anterior-root-resorption-ca-vs-fa-sr-ma
 ---
 
 ## One-line Summary
@@ -73,3 +75,4 @@ This PROSPERO-registered SR+MA (CRD420261320269) addressed a methodological gap 
 - [[orthodontics/clear-aligner/bespalez-neto-2026-root-resorption-clear-aligner-ai-cbct]] — refines: RCT (AI-3D CBCT surface) found no significant CA-vs-FA difference (overall −0.72 mm); this SR+MA's significant finding (−0.50 mm) from 6 non-RCT CBCT studies represents a larger evidence base but lower internal validity — apparent discordance explained by heterogeneous case selection and measurement modality differences
 - [[orthodontics/clear-aligner/hassan-2024-salivary-tnf-alpha-clear-aligner-fixed-appliance]] — reinforces: mechanistic support via TNF-α data showing sustained FA-induced inflammatory load vs. intermittent CA profile, consistent with less EARR in CA
 - [[orthodontics/clear-aligner/yassir-2022-cat-vs-fat-overview-systematic-reviews]] — reinforces: umbrella review noted lower EARR risk with CA vs FA across 18 SRs; this paper provides quantitative CBCT-specific pooled estimate
+- [[orthodontics/clear-aligner/samulak-2026-cbct-anterior-root-resorption-ca-vs-fa-sr-ma]] — reinforces: independent CBCT SR+MA (4 studies, 1,204 anterior teeth; Dent Med Probl 2026) reporting CA WMD −0.47 mm vs FA −0.54 mm (p<0.01); anterior-specific replication of the CA-vs-FA EARR advantage found here (MD −0.50 mm)
