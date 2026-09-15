@@ -3,7 +3,7 @@ name: copilot-read-pdf
 description: Extract the full text of a PDF as Markdown using Copilot Plus. Use when the user wants to read, summarize, or quote a PDF file (in the vault or an absolute path). Requires an active Copilot Plus license.
 license: Copilot Plus
 metadata:
-  copilot-enabled-agents: claude, codex, opencode
+  copilot-enabled-agents: opencode, claude, codex
   copilot-builtin-version: "6"
 ---
 
