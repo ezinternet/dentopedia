@@ -4182,6 +4182,7 @@ tags: []
 - [[sinus-lift/transcrestal/yu-2021-implant-protrusion-length-nongrafting-osfe]] — Yu H et al. 2021 · prospective · Implant protrusion length effects on bone gain in nongrafting OSFE: IPL is key variable
 - [[sinus-lift/transcrestal/albash-2023-implant-protrusion-initial-bone-tsfe]] — Albash Z et al. 2023 · retrospective · IPL vs IBH effects on initial bone gain after graftless TSFE: IPL strong positive correlation, IBH not significant; 100% survival (n=34)
 - [[sinus-lift/transcrestal/kostakis-2025-graftless-sinus-lift-simultaneous-8year]] — 8-year prospective cohort (n=89): graftless simultaneous sinus lift 97.76% implant success vs grafted 86.6%; residual bone height is key predictor (2025)
+- [[sinus-lift/transcrestal/lin-2025-schneiderian-membrane-biomechanical-transcrestal-fea]] — 3D FEA: hydraulic pressure (CAS-Kit) requires 47% less force than large osteotome at 5mm elevation; lowest von Mises stress — biomechanical basis for lower perforation rate (2025)
 
 ### sinus-lift/lateral
 - [[sinus-lift/lateral/pignataro-2008-ent-assessment-sinus-lift-candidates]] — ENT pre-operative risk stratification framework for sinus lift candidates (2008)
@@ -4195,6 +4196,7 @@ tags: []
 - [[sinus-lift/lateral/thomas-2026-alloplastic-biologic-grafts-sinus-sr]] — SR (18 studies, 2010–2025): autograft NBF 41.7% > allograft 35.4% > alloplast 30.3%; xenograft volumetric stability 103% vs alloplast 66%; all graft types >90% implant survival (2026)
 - [[sinus-lift/lateral/elsholkamy-2026-bioabsorbable-screws-graftless-sinus-rct]] — RCT (n=14, RBH ≤4mm): bioabsorbable screws graftless lateral sinus — NBF 37.3% vs xenograft 35.2% (NS, p=0.324); bone height 8.43 vs 12.07mm (xenograft superior, p<0.001) (2026)
 - [[sinus-lift/lateral/qiu-2026-lt-dbbm-ht-dbbm-lateral-sinus-rct]] — Pilot RCT (n=36): LT-DBBM (Bio-Oss®) vs HT-DBBM (Gegreen®) — no significant differences in bone height, volume, resorption rate, or Micro-CT microarchitecture at 6 months (2026)
+- [[sinus-lift/lateral/zhai-2018-nonlinear-biomechanical-schneiderian-membrane]] — Ex vivo cadaveric (n=30): first nonlinear mechanical characterization of Schneiderian membrane — tensile strength 5.05–8.57 N/mm, elastic modulus 27.1–53.6 MPa, bone adhesion force 0.052 N/mm; validated hyper-elastic FE model R²=0.99 (2018)
 
 ### bone-regeneration
 - [[bone-regeneration/stephan-1999-anorganic-bovine-bone-osteoblastic-attachment]] — In vitro: anorganic bovine bone supports osteoblastic cell attachment and proliferation (1999)
