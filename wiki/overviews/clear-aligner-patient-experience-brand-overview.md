@@ -15,6 +15,7 @@ source_wiki:
   - wiki/orthodontics/clear-aligner/kobkiatkawin-2025-clear-aligner-color-stability-brand.md
   - wiki/orthodontics/clear-aligner/telles-2025-clear-aligner-brand-virtual-setup-comparison.md
   - wiki/orthodontics/clear-aligner/pasaoglu-bozkurt-2024-clear-aligner-biofilm-brand-comparison.md
+  - wiki/orthodontics/clear-aligner/kaur-2026-ca-vs-fa-periodontal-pain-qol-sr-ma.md
   - wiki/orthodontics/clear-aligner/almotairy-2026-ageing-effects-clear-aligner-materials-sr.md
 tags: [clear-aligner, patient-experience, OHRQoL, compliance, satisfaction, PRO, brand-comparison, color-stability, biofilm, virtual-setup, OHIP-14, PIDAQ, material-aging, overview]
 relations:
