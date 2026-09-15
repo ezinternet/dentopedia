@@ -411,6 +411,10 @@ Choose aligners confidently for **mild-to-moderate, non-extraction, predominantl
 
 ## Related Papers
 
+### 신규 추가 (2026-09) — TM vs DTP 물성 SR+MA · 부착물·딥바이트·원심이동·유지 장치
+
+- [[orthodontics/clear-aligner/jorge-2026-thermoformed-vs-3dprinted-aligners-sr-ma]] — SR+MA (23 in vitro/4 meta): TM 굴곡강도·경도·탄성률 우위; DTP 형상회복·기하정확도·수직견인력 우위; Tg=42.3°C; 두께 변화 I²=97% 불확정. 재료 선택 기준 SR+MA 최초. (sr+ma, 2026)
+
 ### 신규 추가 (2026-09) — 부착물·딥바이트·원심이동·유지 장치
 
 - [[orthodontics/clear-aligner/jedlinski-2023-attachments-orthodontic-aligner-comprehensive-sr]] — SR (26편): attachment가 이동 표현량과 aligner 유지력을 유의하게 향상; 이동 유형별 최적 부위·형태·접착 프로토콜 근거 제공. (sr, 2023)
