@@ -239,6 +239,9 @@ These are working hypotheses from the synthesis, not protocol.
 
 ## Related Papers
 
+**Cluster 0 — Membrane biomechanics (material properties)**
+- [[sinus-lift/lateral/zhai-2018-nonlinear-biomechanical-schneiderian-membrane]] — first nonlinear tensile characterization: elongation strength 5.05 N/mm, perforation strength 8.57 N/mm, adhesion force 0.052 N/mm; hyper-elastic FE model R²=0.99 (cadaveric ex vivo, n=30)
+
 **Cluster 1 — Perforation repair**
 - [[sinus-lift/lateral/soares-2024-sinus-membrane-perforation-repair-review]] — keystone SR+MA on repaired-SMP outcomes (130 studies; implant loss 4%, NS vs intact)
 - [[sinus-lift/lateral/sala-2024-sinus-perforation-outcomes-sr-ma]] — dual-scenario SR+MA; SMP OR 1.35 NS; floor-penetrating implant loss 2.1%
