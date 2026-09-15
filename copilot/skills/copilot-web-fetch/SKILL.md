@@ -3,7 +3,7 @@ name: copilot-web-fetch
 description: Fetch and read the full contents of a specific web page (URL) as clean Markdown using Copilot Plus. Use when the user shares a link or asks you to open, read, or summarize a particular page — not for an open-ended web search. Requires an active Copilot Plus license; without it, use your own fetch tool instead.
 license: Copilot Plus
 metadata:
-  copilot-enabled-agents: claude, codex, opencode
+  copilot-enabled-agents: opencode, claude, codex
   copilot-builtin-version: "6"
 ---
 
