@@ -318,3 +318,7 @@ Found by manual PDF discovery (not the original scout search), 2026-07-25 — sa
       "The impact of immediately placed and restored single-tooth implants on hard and soft tissues in the anterior maxilla." — Eur J Oral Implantol 2016;9 Suppl 1:S89-106
 - [x] PMID 28944355 | RCT | OA:none | implant-iip-loading | edat 2017/01/01 — INGESTED 2026-07-25 → wiki/immediate-implant/checchi-2017-wide-diameter-immediate-post-extractive (relations: contradicts puisys-2022-immediate-implant-placement-vs-early — molar/wide-diameter, opposite esthetic direction)
       "Wide diameter immediate post-extractive implants vs delayed placement of normal-diameter implants in preserved sockets in the molar region: 1-year post-loading outcome of a randomised controlled trial." — Eur J Oral Implantol 2017;10(3):263-278
+- [x] PMID 42562852 | RCT | OA:PMC PMC13448645 (CC BY 4.0) | implant-iip-loading | edat 2026/08/06
+      "Clinical and radiographic evaluation of natural bovine bone with hyaluronic acid on osseointegration of immediate implants: a randomized clinical study" — Scientific reports
+- [x] PMID 42464273 | RCT | OA:PMC PMC13422306 (CC BY 4.0) | implant-iip-loading | edat 2026/07/17
+      "Implant stability following septal expansion in immediate mandibular molars: a pilot randomized clinical trial comparing piezoelectric surgery and osseodensification" — BMC Oral Health
