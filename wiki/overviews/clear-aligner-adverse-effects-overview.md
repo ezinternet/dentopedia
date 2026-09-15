@@ -30,12 +30,14 @@ relations:
     target: caldas-2024-pain-ohrqol-satisfaction-aligner
   - type: reinforces
     target: kaur-2026-ca-vs-fa-periodontal-pain-qol-sr-ma
+  - type: reinforces
+    target: samulak-2026-cbct-anterior-root-resorption-ca-vs-fa-sr-ma
 ---
 
 > [!summary] 한국어 핵심요약
 > - **부작용(AE) 지형**: 가역적 투명교정(removable aligner)의 부작용은 통증·치근흡수가 가장 자주 연구되고, 치주변화·백색병소(White Spot Lesion, WSL)·발음변화·구취·TMD 증상·수면 중 악물기까지 폭넓게 보고됨 — 34편 종합 SR(Ronchi Lemos 2026)
 > - **통증은 예측 가능한 곡선**: 삽입/교체 후 **24시간 내 정점 → 3일째 감소 → 1주째 최소화**. 임상가가 "1~3일은 참았다가 지나간다"고 미리 안내할 수 있는 신뢰할 해석 (Ronchi Lemos 2026)
-> - **치근흡수(EARR)는 세 가지 측정 렌즈로 수렴**: ① SR-MA 절대값 CBCT 9편 — 절치 치근길이 −0.56mm, 상악 중절치 최대 −0.74mm (Butsabul 2024) ② RCT AI 3D 표면 — 전체 중앙값 −0.72mm (CA 고정교정 유의차 없음) (Bespalez-Neto 2026) ③ SR-MA — 선형 −0.33mm, 체적 −4.37mm³ (Ronchi Lemos 2026). **수치 상의 차이는 측정 방법(절대/비교, 선형/체적, CBCT 3D/2D) 때문이지 근거 충돌이 아님**
+> - **치근흡수(EARR)는 네 가지 이상 측정 렌즈로 수렴**: ① SR-MA 절대값 CBCT 9편 — 절치 치근길이 −0.56mm, 상악 중절치 최대 −0.74mm (Butsabul 2024) ② RCT AI 3D 표면 — 전체 중앙값 −0.72mm (CA 고정교정 유의차 없음) (Bespalez-Neto 2026) ③ SR-MA — 선형 −0.33mm, 체적 −4.37mm³ (Ronchi Lemos 2026) ④ **비교 CBCT SR-MA 2편(독립)** — Yıldırım 2026 (6편/392명, MD −0.50mm CA 우위) 및 Samulak 2026 (4편/1,204 전치, WMD −0.47mm CA vs −0.54mm FA; p<0.01) — CA가 FA보다 치근흡수 유의하게 적다는 신호를 독립적으로 재현. **수치 상의 차이는 측정 방법(절대/비교, 선형/체적, CBCT 3D/2D) 때문이지 근거 충돌이 아님**
 > - **임상적으로 미미한 수준**: 심각 흡수(>20% 치근 손실)는 전체 치아의 **약 3.7–6.3%**에만 해당 (Butsabul 2024)
 > - **가장 취약한 치아**: 상악 측절치가 가장 큰 EARR (p=0.002 vs 하악, p<0.001 vs 상악 중절치, Bespalez-Neto 2026); Butsabul은 상악 중절치를 최대(−0.74mm)로 봄 — **상악 전치부(중·측절치)를 함께 집중 모니터링**
 > - **예측인자 없음**: 나이·성별·혼잡도·치료기간은 EARR 크기의 유의한 예측인자 아님 (Bespalez-Neto 2026) → 선제적 위험 계층화가 어렵다는 뜻
@@ -78,16 +80,17 @@ Pain is the most frequently studied aligner adverse effect and the one with the 
 
 ## 3. Root Resorption — Four Measurement Lenses, One Conclusion
 
-External apical root resorption (EARR) is where the held numbers look superficially different but actually converge. The apparent spread comes from **four different measurement lenses**, not from conflicting evidence:
+External apical root resorption (EARR) is where the held numbers look superficially different but actually converge. The apparent spread comes from **five different measurement lenses**, not from conflicting evidence:
 
 | Lens | Paper | Metric | Finding | Why it differs |
 |---|---|---|---|---|
 | Absolute, CBCT, linear | [[orthodontics/clear-aligner/butsabul-2024-clear-aligner-root-resorption-cbct-sr-ma]] | incisor root length change | −0.56 mm overall; max. central −0.74 mm | Isolates aligner effect (absolute pre/post), not a vs-fixed contrast |
 | Comparative, AI-3D CBCT | [[orthodontics/clear-aligner/bespalez-neto-2026-root-resorption-clear-aligner-ai-cbct]] | median overall EARR | −0.72 mm; CA −0.71 vs fixed −0.72 (NS) | RCT head-to-head; volumetric 3D surface; small n |
-| Comparative, CBCT-only SR+MA | [[orthodontics/clear-aligner/yildirim-2026-cbct-earr-clear-aligner-vs-fixed-sr-ma]] | pooled MD CA − FA | −0.50 mm (95% CI −0.79 to −0.21; p<0.001; I²=60.8%) | 6 non-RCT studies, 392 pts; CBCT-linear only; GRADE low |
+| Comparative, CBCT-only SR+MA (1) | [[orthodontics/clear-aligner/yildirim-2026-cbct-earr-clear-aligner-vs-fixed-sr-ma]] | pooled MD CA − FA | −0.50 mm (95% CI −0.79 to −0.21; p<0.001; I²=60.8%) | 6 non-RCT studies, 392 pts; CBCT-linear only; GRADE low |
+| Comparative, CBCT anterior SR+MA (2) | [[orthodontics/clear-aligner/samulak-2026-cbct-anterior-root-resorption-ca-vs-fa-sr-ma]] | WMD CA vs FA, anterior teeth | CA −0.47 mm (95% CI −0.55 to −0.40) vs FA −0.54 mm (95% CI −0.75 to −0.33); p<0.01 | 4 CBCT cohort studies, 1,204 anterior teeth; anterior-specific OIIRR; independent replication of CA-vs-FA advantage |
 | Comparative, SR single-arm MA | [[orthodontics/clear-aligner/ronchi-lemos-2026-adverse-effects-orthodontic-aligners-sr]] | MA linear / volumetric | −0.33 mm linear; −4.37 mm³ volumetric | Pooled across heterogeneous designs including 2D |
 
-**Reconciliation**: differences in the point estimates are an artifact of methodology (absolute vs comparative baseline; 2D radiograph vs 3D CBCT surface model; linear vs volumetric outcome; RCT vs observational cohort). The **direction is now consistent across all four lenses** — EARR is real, measurable, but small. Notably, Yıldırım 2026 provides the first CBCT-exclusive SR+MA showing CA produces significantly less EARR than fixed appliances (MD −0.50 mm), while the Bespalez-Neto 2026 RCT found no significant CA-vs-fixed difference — the apparent discordance is explained by heterogeneous case selection and measurement modality differences, not true biological contradiction.
+**Reconciliation**: differences in the point estimates are an artifact of methodology (absolute vs comparative baseline; 2D radiograph vs 3D CBCT surface model; linear vs volumetric outcome; RCT vs observational cohort). The **direction is now consistent across all five lenses** — EARR is real, measurable, but small. Importantly, two independent CBCT SR+MAs (Yıldırım 2026: MD −0.50 mm; Samulak 2026: CA WMD −0.47 mm vs FA −0.54 mm) now corroborate that CA produces significantly less anterior EARR than fixed appliances, while the Bespalez-Neto 2026 RCT found no significant CA-vs-fixed difference — the apparent discordance is explained by heterogeneous case selection and measurement modality differences (3D volumetric surface vs. linear CBCT), not true biological contradiction.
 
 **Key thresholds to quote in consent**:
 - Severe resorption (>20% root loss) affects only ~**3.7–6.3%** of teeth [[orthodontics/clear-aligner/butsabul-2024-clear-aligner-root-resorption-cbct-sr-ma]]
@@ -125,7 +128,8 @@ Borrowed directly from the held evidence, the consent conversation should cover:
 | Full AE catalogue | [[orthodontics/clear-aligner/ronchi-lemos-2026-adverse-effects-orthodontic-aligners-sr]] | sr+ma (34 studies) | Pain 24h-peak→1wk-min; EARR −0.33mm/−4.37mm³; WSL/halitosis/speech/TMD reported |
 | Absolute EARR (CBCT) | [[orthodontics/clear-aligner/butsabul-2024-clear-aligner-root-resorption-cbct-sr-ma]] | sr+ma (9 CBCT) | −0.56mm overall; max. central −0.74mm; severe >20% in 3.7–6.3% teeth |
 | CA vs fixed EARR (RCT) | [[orthodontics/clear-aligner/bespalez-neto-2026-root-resorption-clear-aligner-ai-cbct]] | rct (AI-3D CBCT) | Median −0.72mm; no group difference; upper lateral most susceptible |
-| CA vs fixed EARR (CBCT SR+MA) | [[orthodontics/clear-aligner/yildirim-2026-cbct-earr-clear-aligner-vs-fixed-sr-ma]] | sr+ma (6 CBCT studies, 392 pts) | MD −0.50mm CA vs FA (p<0.001); GRADE low; first CBCT-exclusive comparative SR+MA |
+| CA vs fixed EARR (CBCT SR+MA 1) | [[orthodontics/clear-aligner/yildirim-2026-cbct-earr-clear-aligner-vs-fixed-sr-ma]] | sr+ma (6 CBCT studies, 392 pts) | MD −0.50mm CA vs FA (p<0.001); GRADE low; first CBCT-exclusive comparative SR+MA |
+| CA vs fixed EARR, anterior (CBCT SR+MA 2) | [[orthodontics/clear-aligner/samulak-2026-cbct-anterior-root-resorption-ca-vs-fa-sr-ma]] | sr+ma (4 CBCT cohort, 1,204 anterior teeth) | CA WMD −0.47mm vs FA −0.54mm (p<0.01); non-extraction max. central incisor most pronounced; independent replication |
 | Pain / OHRQoL | [[orthodontics/clear-aligner/caldas-2024-pain-ohrqol-satisfaction-aligner]] | cross-sectional | Pain/OHRQoL most-studied patient-experience axis |
 | Plaque / WSL vs fixed | [[orthodontics/clear-aligner/raghavan-2023-wsls-plaque-clear-aligners-fixed]] | sr+ma (14 studies) | Lower plaque (SMD −1.58); qualitatively lower WSL/caries bacteria |
 | Brush-type plaque removal | [[orthodontics/clear-aligner/arslan-carpar-2026-plaque-removal-powered-manual-toothbrush]] | rct | No manual-vs-powered difference; distal/gingival residue |
