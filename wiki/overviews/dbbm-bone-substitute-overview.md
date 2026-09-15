@@ -31,6 +31,8 @@ source_wiki:
   - bone-regeneration/wang-2025-porcine-bovine-xenograft-msfa-arp-sr-ma
   - bone-regeneration/li-2025-application-of-collagen-in-bone
   - bone-regeneration/lee-2025-longitudinal-comparative-osteogenic-collagenated-xenografts
+  - sinus-lift/lateral/qiu-2026-lt-dbbm-ht-dbbm-lateral-sinus-rct
+  - sinus-lift/lateral/thomas-2026-alloplastic-biologic-grafts-sinus-sr
 tags: [dbbm, bone-substitute, bcp, prf, l-prf, a-prf, prp, prgf, growth-factor, bmp2, collagen-scaffold, allograft, xenograft-vs-allograft, particle-size, long-term-complications, residual-graft, sinus-augmentation, overview]
 ---
 
@@ -290,6 +292,8 @@ Because bovine xenograft does not meaningfully resorb (Axis 1) and can trigger l
 - [[bone-regeneration/sousa-2026-distinct-healing-dynamics-xenograft]] — Animal (54 rats): two collagen-containing bovine xenografts of the same clinical category show significantly different new bone formation and BV/TV — product composition matters within a nominal category (Axis 10)
 - [[bone-regeneration/wang-2025-porcine-bovine-xenograft-msfa-arp-sr-ma]] — SR+MA (10 studies, 452 sites): PBX = BBX in NFB (WMD=1.5, p=0.321) and all secondary histomorphometric/radiographic outcomes across MSFA and ARP → PBX is clinically equivalent to BBX; SR+MA-level evidence for bovine-restricted settings (Axis 9)
 - [[bone-regeneration/li-2025-application-of-collagen-in-bone]] — Narrative review: Col-I ECM biology, 4 source categories, all processed forms, composite strategies (natural/synthetic polymers, bioceramics, BMP-2/ACS FDA approval), barriers (mechanical weakness, vascularization, immune), GEPP future — biomaterials-science foundation for Axis 3 collagen-modified DBBM strategies
+- [[sinus-lift/lateral/qiu-2026-lt-dbbm-ht-dbbm-lateral-sinus-rct]] — pilot multicenter RCT (n=36, interim, 6 mo): LT-DBBM Bio-Oss® (300°C) vs HT-DBBM Gegreen® (400–1200°C) in LSFE — bone height, BV/TV, Tb.Th, Tb.N, Tb.Sp all NS; sintering temperature is a non-lever for clinical DBBM selection
+- [[sinus-lift/lateral/thomas-2026-alloplastic-biologic-grafts-sinus-sr]] — SR (18 studies, PRISMA 2010–2025): xenograft NBF 24.9% vs autograft 41.7%; xenograft volumetric stability 103% (highest among graft classes); alloplasts lowest regenerative potential but >90% implant survival
 
 ## Clinical Quiz
 <!-- quiz_spec -->
