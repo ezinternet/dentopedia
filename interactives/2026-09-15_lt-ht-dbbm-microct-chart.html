@@ -1,0 +1,250 @@
+<title>LT vs HT DBBM</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=DM+Sans:wght@400;500;600&display=swap">
+<style>
+:root {
+  --bg:      #F5F0E8;
+  --surface: #FFFFFF;
+  --surface2:#EDE7DC;
+  --border:  #D9D2C5;
+  --t1:      #1A1410;
+  --t2:      #6B5E50;
+  --t3:      #9A8E82;
+  --amber:   #C07A2E;
+  --teal:    #2A8A86;
+  --ns:      #6B8FA3;
+  --ns-bg:   #E8F0F5;
+}
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  background: var(--bg);
+  color: var(--t1);
+  font-family: 'DM Sans', system-ui, sans-serif;
+  font-size: 15px;
+  line-height: 1.55;
+  padding: 24px 20px;
+  min-height: 100vh;
+}
+.page { max-width: 760px; margin: 0 auto; }
+.eyebrow {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--t3);
+  margin-bottom: 6px;
+}
+h1 {
+  font-family: 'Fraunces', Georgia, serif;
+  font-size: clamp(22px, 4vw, 30px);
+  font-weight: 700;
+  line-height: 1.2;
+  text-wrap: balance;
+  color: var(--t1);
+}
+.subtitle {
+  margin-top: 6px;
+  color: var(--t2);
+  font-size: 14px;
+  max-width: 56ch;
+}
+.source-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  margin-top: 10px;
+  padding: 4px 10px;
+  border-radius: 4px;
+  background: var(--surface2);
+  border: 1px solid var(--border);
+  font-size: 12px;
+  color: var(--t2);
+}
+.source-badge strong { color: var(--t1); font-weight: 600; }
+.divider { height: 1px; background: var(--border); margin: 24px 0; }
+.legend {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  font-size: 13px;
+  color: var(--t2);
+  font-weight: 500;
+}
+.legend-dot {
+  width: 12px; height: 12px; border-radius: 2px;
+  flex-shrink: 0;
+}
+.legend-lt { background: var(--amber); }
+.legend-ht { background: var(--teal); }
+.tabs {
+  display: flex;
+  gap: 4px;
+  margin-bottom: 24px;
+  background: var(--surface2);
+  padding: 4px;
+  border-radius: 8px;
+  width: fit-content;
+}
+.tab {
+  padding: 7px 14px;
+  border: none;
+  border-radius: 6px;
+  background: transparent;
+  color: var(--t2);
+  font-family: inherit;
+  font-size: 13px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s;
+}
+.tab.active {
+  background: var(--surface);
+  color: var(--t1);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.10);
+}
+.chart-wrap {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 28px 24px 20px;
+  overflow-x: auto;
+}
+.ns-summary {
+  margin-top: 20px;
+  padding: 12px 16px;
+  background: var(--ns-bg);
+  border-left: 3px solid var(--ns);
+  border-radius: 0 6px 6px 0;
+  font-size: 13px;
+  color: var(--t2);
+}
+.ns-summary strong { color: var(--ns); font-weight: 600; }
+.caveat {
+  margin-top: 16px;
+  font-size: 12px;
+  color: var(--t3);
+  line-height: 1.5;
+}
+</style>
+
+<div class="page">
+  <p class="eyebrow">상악동거상술 · 이식재 비교 · Qiu et al. 2026</p>
+  <h1>Low-Temperature vs High-Temperature DBBM<br>Micro-CT &amp; Clinical Outcomes</h1>
+  <p class="subtitle">Pilot multicenter RCT, n=36 (LT n=20 / HT n=16), 6-month follow-up. All comparisons p&nbsp;=&nbsp;NS.</p>
+  <div class="source-badge">
+    <strong>Qiu Y et al. 2026</strong> — BMC Oral Health 2026;26:1 · DOI 10.1186/s12903-026-08291-w · PMC13505082
+  </div>
+
+  <div class="divider"></div>
+
+  <div style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:12px;margin-bottom:16px;">
+    <div class="legend">
+      <div class="legend-item"><span class="legend-dot legend-lt"></span>LT-DBBM — Bio-Oss® (300°C)</div>
+      <div class="legend-item"><span class="legend-dot legend-ht"></span>HT-DBBM — Gegreen® (400–1200°C)</div>
+    </div>
+    <div class="tabs">
+      <button class="tab active" onclick="showGroup('microct',this)">Micro-CT 구조</button>
+      <button class="tab" onclick="showGroup('clinical',this)">임상 지표</button>
+    </div>
+  </div>
+
+  <div class="chart-wrap">
+    <svg id="chart" viewBox="0 0 700 320" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px;display:block;overflow:visible;"></svg>
+  </div>
+
+  <div class="ns-summary">
+    <strong>전 지표 NS</strong> — 소결 온도(sintering temperature) 300°C(LT) vs 400–1200°C(HT)의 차이는 6개월 시점 Micro-CT 구조 및 임상 골높이·흡수율 모두에서 통계적 유의차 없음. Bio-Oss® 와 Gegreen® 은 임상적으로 교환 가능(interchangeable)한 것으로 시사됨.
+  </div>
+  <p class="caveat">⚠️ Interim analysis — n=36 vs planned n=53 per group. Low statistical power; definitive conclusions await completed 4-group RCT (ChiCTR2300073635). 소결 온도 기전적 차이(결정도, 세포 부착)는 in vivo로 검증되지 않음.</p>
+</div>
+
+<script>
+const GROUPS = {
+  microct: [
+    { label:'BV/TV (%)',          unit:'%',  lt:[13.21,2.75], ht:[13.92,3.07], maxVal:22, decimals:2, note:'골부피분율' },
+    { label:'Tb.Th (mm)',          unit:'mm', lt:[0.044,0.008], ht:[0.061,0.011], maxVal:0.1, decimals:3, note:'소주두께' },
+    { label:'Tb.N (1/mm)',         unit:'',  lt:[4.76,1.52],  ht:[3.52,1.31],  maxVal:8,   decimals:2, note:'소주수' },
+    { label:'Tb.Sp (mm)',          unit:'mm', lt:[0.41,0.10],  ht:[0.40,0.08],  maxVal:0.65, decimals:2, note:'소주간격' },
+  ],
+  clinical: [
+    { label:'Resorption rate (%)',  unit:'%',  lt:[8.32,3.02],  ht:[10.44,4.63], maxVal:20,  decimals:2, note:'부피 흡수율 T1→T2' },
+    { label:'ΔH2 gain (mm)',        unit:'mm', lt:[11.28,0.46], ht:[11.41,0.55], maxVal:14,  decimals:2, note:'6개월 골높이 획득' },
+    { label:'H2 total height (mm)', unit:'mm', lt:[14.35,0.44], ht:[14.89,0.65], maxVal:18,  decimals:2, note:'6개월 총 골높이' },
+  ]
+};
+
+let current = 'microct';
+
+function showGroup(g, btn) {
+  current = g;
+  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+  btn.classList.add('active');
+  render();
+}
+
+const C = { lt:'#C07A2E', ht:'#2A8A86', ns:'#6B8FA3', t2:'#6B5E50', t3:'#9A8E82', border:'#D9D2C5' };
+
+function mkEl(tag, attrs, txt) {
+  const el = document.createElementNS('http://www.w3.org/2000/svg', tag);
+  for (const [k,v] of Object.entries(attrs)) el.setAttribute(k, v);
+  if (txt !== undefined) el.textContent = txt;
+  return el;
+}
+
+function render() {
+  const data = GROUPS[current];
+  const svg = document.getElementById('chart');
+  svg.innerHTML = '';
+  const W=700,H=320,ML=130,MR=30,MT=20,MB=50;
+  const plotW=W-ML-MR, plotH=H-MT-MB, n=data.length;
+  const groupW=plotW/n, barW=Math.min(28,groupW*0.28), gap=barW*0.6;
+
+  for (let i=0;i<=4;i++) {
+    const y=MT+plotH-(plotH*i/4);
+    svg.appendChild(mkEl('line',{x1:ML,y1:y,x2:ML+plotW,y2:y,stroke:C.border,'stroke-width':'1',opacity:'0.7'}));
+  }
+  svg.appendChild(mkEl('line',{x1:ML,y1:MT+plotH,x2:ML+plotW,y2:MT+plotH,stroke:C.border,'stroke-width':'1.5'}));
+  svg.appendChild(mkEl('line',{x1:ML,y1:MT,x2:ML,y2:MT+plotH,stroke:C.border,'stroke-width':'1.5'}));
+
+  const maxV=data[0].maxVal;
+  for (let t=0;t<=4;t++) {
+    const v=maxV*t/4, y=MT+plotH-(plotH*t/4);
+    svg.appendChild(mkEl('text',{x:ML-8,y:y+4,'text-anchor':'end','font-size':'10','fill':C.t3,'font-family':'DM Sans,sans-serif','font-variant-numeric':'tabular-nums'},
+      v<1?v.toFixed(2):v.toFixed(1)));
+  }
+
+  data.forEach((d,i)=>{
+    const cx=ML+groupW*i+groupW/2;
+    const bh=v=>(v/d.maxVal)*plotH, by=v=>MT+plotH-bh(v);
+    const ltCx=cx-gap/2-barW/2, htCx=cx+gap/2+barW/2;
+    svg.appendChild(mkEl('rect',{x:cx-gap/2-barW,y:by(d.lt[0]),width:barW,height:bh(d.lt[0]),fill:C.lt,rx:'3',opacity:'0.85'}));
+    svg.appendChild(mkEl('rect',{x:cx+gap/2,y:by(d.ht[0]),width:barW,height:bh(d.ht[0]),fill:C.ht,rx:'3',opacity:'0.85'}));
+    [[C.lt,ltCx,d.lt],[C.ht,htCx,d.ht]].forEach(([c,x,dat])=>{
+      const topY=by(Math.min(dat[0]+dat[1],d.maxVal)), botY=by(Math.max(dat[0]-dat[1],0));
+      svg.appendChild(mkEl('line',{x1:x,y1:topY,x2:x,y2:botY,stroke:c,'stroke-width':'1.5',opacity:'0.9'}));
+      svg.appendChild(mkEl('line',{x1:x-4,y1:topY,x2:x+4,y2:topY,stroke:c,'stroke-width':'1.5'}));
+      svg.appendChild(mkEl('line',{x1:x-4,y1:botY,x2:x+4,y2:botY,stroke:c,'stroke-width':'1.5'}));
+    });
+    svg.appendChild(mkEl('text',{x:ltCx,y:by(d.lt[0])-7,'text-anchor':'middle','font-size':'11','fill':C.lt,'font-weight':'600','font-family':'DM Sans,sans-serif','font-variant-numeric':'tabular-nums'},d.lt[0].toFixed(d.decimals)));
+    svg.appendChild(mkEl('text',{x:htCx,y:by(d.ht[0])-7,'text-anchor':'middle','font-size':'11','fill':C.ht,'font-weight':'600','font-family':'DM Sans,sans-serif','font-variant-numeric':'tabular-nums'},d.ht[0].toFixed(d.decimals)));
+    const nsY=Math.min(by(d.lt[0]),by(d.ht[0]))-22;
+    const badge=mkEl('g',{transform:`translate(${cx},${nsY})`});
+    badge.appendChild(mkEl('rect',{x:-12,y:-8,width:24,height:14,rx:'4',fill:C.ns,opacity:'0.18'}));
+    badge.appendChild(mkEl('text',{x:'0',y:'2','text-anchor':'middle','font-size':'10','font-weight':'700','fill':C.ns,'font-family':'DM Sans,sans-serif'},'NS'));
+    svg.appendChild(badge);
+    const lblY=MT+plotH+14;
+    const parts=d.label.replace(' (','¶(').split('¶');
+    svg.appendChild(mkEl('text',{x:cx,y:lblY,'text-anchor':'middle','font-size':'11.5','fill':C.t2,'font-weight':'500','font-family':'DM Sans,sans-serif'},parts[0]));
+    if(parts[1]) svg.appendChild(mkEl('text',{x:cx,y:lblY+13,'text-anchor':'middle','font-size':'10','fill':C.t3,'font-family':'DM Sans,sans-serif'},parts[1]));
+    svg.appendChild(mkEl('text',{x:cx,y:lblY+(parts[1]?26:13),'text-anchor':'middle','font-size':'9.5','fill':C.t3,'font-family':'DM Sans,sans-serif'},d.note));
+  });
+}
+
+render();
+</script>
