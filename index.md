@@ -4181,6 +4181,7 @@ tags: []
 - [[sinus-lift/transcrestal/suk-arj-2019-osfe-without-grafting-bone-cbct]] — Suk-arj P et al. 2019 · prospective · OSFE without grafting: CBCT assessment of bone formation and implant stability (ISQ)
 - [[sinus-lift/transcrestal/yu-2021-implant-protrusion-length-nongrafting-osfe]] — Yu H et al. 2021 · prospective · Implant protrusion length effects on bone gain in nongrafting OSFE: IPL is key variable
 - [[sinus-lift/transcrestal/albash-2023-implant-protrusion-initial-bone-tsfe]] — Albash Z et al. 2023 · retrospective · IPL vs IBH effects on initial bone gain after graftless TSFE: IPL strong positive correlation, IBH not significant; 100% survival (n=34)
+- [[sinus-lift/transcrestal/kostakis-2025-graftless-sinus-lift-simultaneous-8year]] — 8-year prospective cohort (n=89): graftless simultaneous sinus lift 97.76% implant success vs grafted 86.6%; residual bone height is key predictor (2025)
 
 ### sinus-lift/lateral
 - [[sinus-lift/lateral/pignataro-2008-ent-assessment-sinus-lift-candidates]] — ENT pre-operative risk stratification framework for sinus lift candidates (2008)
@@ -4191,6 +4192,9 @@ tags: []
 - [[sinus-lift/lateral/riben-2012-maxillary-sinus-membrane-elevation-graftless]] — Riben C & Thor A 2012 · sr · Graftless lateral SFE SR (1997–2011): all studies show high survival; mechanism via blood clot and membrane tension
 - [[sinus-lift/lateral/hegde-2016-sinus-augmentation-membrane-elevation-sr]] — Hegde R et al. 2016 · sr · Graftless direct SFE SR (1997–Oct 2014): survival 79.9–100%, bone gain 2.37–10 mm; heterogeneity precluded pooling
 - [[sinus-lift/lateral/dongo-2018-lateral-sinus-floor-graftless-meta-analysis]] — Dongo V et al. 2018 · sr+ma · Graftless lateral SFE: IPD+aggregate MA (11 studies, 660 implants): survival 97.5%, 5-year IPD 93.1%, bone gain 5.7 mm
+- [[sinus-lift/lateral/thomas-2026-alloplastic-biologic-grafts-sinus-sr]] — SR (18 studies, 2010–2025): autograft NBF 41.7% > allograft 35.4% > alloplast 30.3%; xenograft volumetric stability 103% vs alloplast 66%; all graft types >90% implant survival (2026)
+- [[sinus-lift/lateral/elsholkamy-2026-bioabsorbable-screws-graftless-sinus-rct]] — RCT (n=14, RBH ≤4mm): bioabsorbable screws graftless lateral sinus — NBF 37.3% vs xenograft 35.2% (NS, p=0.324); bone height 8.43 vs 12.07mm (xenograft superior, p<0.001) (2026)
+- [[sinus-lift/lateral/qiu-2026-lt-dbbm-ht-dbbm-lateral-sinus-rct]] — Pilot RCT (n=36): LT-DBBM (Bio-Oss®) vs HT-DBBM (Gegreen®) — no significant differences in bone height, volume, resorption rate, or Micro-CT microarchitecture at 6 months (2026)
 
 ### bone-regeneration
 - [[bone-regeneration/stephan-1999-anorganic-bovine-bone-osteoblastic-attachment]] — In vitro: anorganic bovine bone supports osteoblastic cell attachment and proliferation (1999)
