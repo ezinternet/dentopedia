@@ -2,7 +2,7 @@
 name: openartifacts-publish
 description: Publish, update, or withdraw an existing Markdown note as a public OpenArtifacts page. Use when the user asks to publish, share, update, delete, remove, or withdraw an OpenArtifacts page.
 metadata:
-  copilot-enabled-agents: claude, codex, opencode
+  copilot-enabled-agents: opencode, claude, codex
   copilot-builtin-version: "2"
 ---
 
