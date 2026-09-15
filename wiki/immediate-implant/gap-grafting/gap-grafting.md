@@ -2,7 +2,7 @@
 title: "즉시식립·간극이식·GBR — gap-grafting"
 authors: navigation
 year: 2026
-date: 2026-08-11
+date: 2026-09-15
 doi: N/A
 source: navigation
 category: immediate-implant/gap-grafting
@@ -15,20 +15,20 @@ tags: [navigation, category-index, gap-grafting]
 > [!summary] 한국어 핵심요약
 > - **분야**: 즉시식립·간극이식·GBR
 > - **범위**: Jumping-gap/buccal-gap management & GBR at IIP — bone-substitute (xenograft/alloplast/BSM) & collagen gap grafting, PRF/CGF and barrier-membrane/Ti-mesh GBR, buccal-dehiscence/defect correction (SPAL, BioARP, vestibular socket therapy, tuberosity block/IDR), ≥2 mm jump-space grafting thresholds, mem…
-> - **수록 논문**: 18편
+> - **수록 논문**: 19편
 
 ## Three-line Summary
 
 **Scope**: Jumping-gap/buccal-gap management & GBR at IIP — bone-substitute (xenograft/alloplast/BSM) & collagen gap grafting, PRF/CGF and barrier-membrane/Ti-mesh GBR, buccal-dehiscence/defect correction (SPAL, BioARP, vestibular socket therapy, tuberosity block/IDR), ≥2 mm jump-space grafting thresholds, membrane wound-management
-**Indexed papers**: 18 papers in `wiki/immediate-implant/gap-grafting/`.
+**Indexed papers**: 19 papers in `wiki/immediate-implant/gap-grafting/`.
 
 ## 세줄요약
 
 **분야**: 즉시식립·간극이식·GBR
-**수록 논문**: 18편
+**수록 논문**: 19편
 **하위 카테고리**: 없음
 
-## Papers in this Category (18)
+## Papers in this Category (19)
 
 | Paper |
 |---|
@@ -37,6 +37,7 @@ tags: [navigation, category-index, gap-grafting]
 | [[ebrahim-2026-vestibular-socket-therapy-immediate-implant-rct|Immediate implant placement in Type II socket using vestibular socket therapy with pericardial membrane versus simultaneous guided bone regeneration (randomized controlled clinical trial)]] |
 | [[el-ebiary-2023-guided-immediate-implant-mixture-autogenous|Guided immediate implant with and without using a mixture of autogenous and xeno bone grafts in the dental esthetic zone. A randomized clinical trial]] |
 | [[elsheikh-2023-prf-xenograft-alloplastic-immediate-implant|Comparison between platelet rich fibrin as space filling material versus xenograft and alloplastic bone grafting materials in immediate implant placement: a randomized clinical trial]] |
+| [[foad-2026-clinical-and-radiographic-evaluation-of|Clinical and radiographic evaluation of natural bovine bone with hyaluronic acid on osseointegration of immediate implants: a randomized clinical study]] |
 | [[greenstein-2013-managing-buccal-gap-immediate-implant|Managing the Buccal Gap and Plate of Bone: Immediate Dental Implant Placement]] |
 | [[grenzi-2026-spal-peri-implant-bone-dehiscence-iip|Subperiosteal peri-implant augmented layer to correct bone dehiscence at immediate implant placement]] |
 | [[liu-2023-collagen-immediate-implant-soft-hard-tissue-sr-ma|Influence of using collagen on the soft and hard tissue outcomes of immediate dental implant placement: A systematic review and meta-analysis]] |
