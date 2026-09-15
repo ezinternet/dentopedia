@@ -1,0 +1,282 @@
+<title>Graftless Sinus Lift Decision Tree</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=DM+Sans:wght@400;500;600&display=swap">
+<style>
+:root {
+  --bg:      #F5F0E8;
+  --surface: #FFFFFF;
+  --surface2:#EDE7DC;
+  --border:  #D9D2C5;
+  --t1:      #1A1410;
+  --t2:      #6B5E50;
+  --t3:      #9A8E82;
+  --amber:   #C07A2E;
+  --teal:    #2A8A86;
+  --green:   #2E7A58;
+  --green-bg:#D8EFE4;
+  --warn:    #8A5E1A;
+  --warn-bg: #F5E8D0;
+  --info:    #2A5A8A;
+  --info-bg: #D8E8F5;
+  --line:    #C07A2E;
+}
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  background: var(--bg);
+  color: var(--t1);
+  font-family: 'DM Sans', system-ui, sans-serif;
+  font-size: 15px;
+  line-height: 1.55;
+  padding: 24px 20px;
+}
+.page { max-width: 820px; margin: 0 auto; }
+.eyebrow {
+  font-size: 11px; font-weight: 600; letter-spacing: 0.12em;
+  text-transform: uppercase; color: var(--t3); margin-bottom: 6px;
+}
+h1 {
+  font-family: 'Fraunces', Georgia, serif;
+  font-size: clamp(22px, 3.5vw, 28px);
+  font-weight: 700; line-height: 1.2; text-wrap: balance; color: var(--t1);
+}
+.subtitle { margin-top: 6px; color: var(--t2); font-size: 14px; max-width: 56ch; }
+.sources {
+  display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px;
+}
+.src-chip {
+  padding: 3px 10px; border-radius: 4px; background: var(--surface2);
+  border: 1px solid var(--border); font-size: 11.5px; color: var(--t2);
+}
+.src-chip strong { color: var(--t1); font-weight: 600; }
+.divider { height: 1px; background: var(--border); margin: 22px 0; }
+
+/* RBH INPUT */
+.rbh-section {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 22px 24px;
+  margin-bottom: 24px;
+}
+.rbh-label {
+  font-size: 13px; font-weight: 600; color: var(--t2);
+  text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 12px;
+}
+.rbh-slider-row { display: flex; align-items: center; gap: 16px; flex-wrap: wrap; }
+input[type=range] {
+  flex: 1; min-width: 200px; accent-color: var(--amber); height: 4px;
+}
+.rbh-display {
+  font-family: 'Fraunces', Georgia, serif;
+  font-size: 36px; font-weight: 700; color: var(--amber);
+  min-width: 80px; text-align: center; font-variant-numeric: tabular-nums;
+}
+.rbh-unit { font-size: 14px; color: var(--t2); }
+.tick-row {
+  display: flex; justify-content: space-between;
+  font-size: 11px; color: var(--t3); margin-top: 4px; padding: 0 2px;
+}
+
+/* RESULT PANEL */
+.result-panel {
+  border-radius: 10px;
+  border: 1.5px solid var(--border);
+  overflow: hidden;
+  transition: all 0.25s;
+}
+.result-header {
+  padding: 14px 20px;
+  font-family: 'Fraunces', Georgia, serif;
+  font-size: 18px; font-weight: 700;
+  display: flex; align-items: center; gap: 10px;
+}
+.result-body { padding: 20px 22px; }
+.approach-badge {
+  display: inline-block;
+  padding: 4px 12px; border-radius: 20px;
+  font-size: 12px; font-weight: 700;
+  letter-spacing: 0.05em; text-transform: uppercase;
+  margin-bottom: 14px;
+}
+.rec-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  margin-bottom: 18px;
+}
+@media (max-width: 520px) { .rec-row { grid-template-columns: 1fr; } }
+.rec-card {
+  background: var(--surface2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 14px 16px;
+}
+.rec-card-title {
+  font-size: 11.5px; font-weight: 600;
+  text-transform: uppercase; letter-spacing: 0.08em;
+  color: var(--t3); margin-bottom: 6px;
+}
+.rec-card-body { font-size: 14px; color: var(--t1); line-height: 1.45; }
+.evidence-block {
+  background: var(--info-bg);
+  border-left: 3px solid var(--info);
+  border-radius: 0 6px 6px 0;
+  padding: 10px 14px;
+  font-size: 13px; color: var(--info);
+  margin-bottom: 12px;
+}
+.evidence-block strong { font-weight: 700; }
+.caveat-block {
+  background: var(--warn-bg);
+  border-left: 3px solid var(--warn);
+  border-radius: 0 6px 6px 0;
+  padding: 10px 14px;
+  font-size: 12.5px; color: var(--warn);
+  line-height: 1.45;
+}
+/* graftless OK color */
+.panel-graftless .result-header { background: var(--green-bg); color: var(--green); }
+.panel-graftless .approach-badge { background: var(--green-bg); color: var(--green); }
+/* graft preferred */
+.panel-graft .result-header { background: var(--warn-bg); color: var(--warn); }
+.panel-graft .approach-badge { background: var(--warn-bg); color: var(--warn); }
+/* lateral mandatory */
+.panel-lateral .result-header { background: #F5E0DA; color: #8A2E2E; }
+.panel-lateral .approach-badge { background: #F5E0DA; color: #8A2E2E; }
+</style>
+
+<div class="page">
+  <p class="eyebrow">상악동거상술 · 임상 결정 지원</p>
+  <h1>Graftless Sinus Lift Decision Aid</h1>
+  <p class="subtitle">잔존 골높이(Residual Bone Height, RBH)를 입력하면 수술법·이식재 선택 근거를 안내합니다.</p>
+  <div class="sources">
+    <span class="src-chip"><strong>Kostakis 2025</strong> 8yr prospective (n=89)</span>
+    <span class="src-chip"><strong>ElSholkamy 2026</strong> double-blind RCT (RBH≤4mm)</span>
+    <span class="src-chip"><strong>Fettouh 2025</strong> RCT transcrestal vs lateral</span>
+    <span class="src-chip"><strong>Thomas 2026</strong> SR alloplastic vs biologic</span>
+  </div>
+
+  <div class="divider"></div>
+
+  <!-- RBH SLIDER -->
+  <div class="rbh-section">
+    <p class="rbh-label">잔존 골높이 (Residual Bone Height)</p>
+    <div class="rbh-slider-row">
+      <div style="flex:1;min-width:200px;">
+        <input type="range" id="rbhSlider" min="1" max="12" value="5" step="0.5" oninput="update()">
+        <div class="tick-row">
+          <span>1 mm</span><span>3</span><span>4</span><span>6</span><span>9</span><span>12 mm</span>
+        </div>
+      </div>
+      <div style="text-align:center;">
+        <div class="rbh-display" id="rbhVal">5.0</div>
+        <div class="rbh-unit">mm RBH</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- RESULT PANEL -->
+  <div class="result-panel" id="resultPanel">
+    <!-- populated by JS -->
+  </div>
+</div>
+
+<script>
+const ZONES = [
+  {
+    min:0, max:3,
+    cls:'panel-lateral',
+    icon:'⚠️',
+    heading:'Lateral Window — Graft 권장',
+    badge:'Graft 권장',
+    approach:'Lateral window approach 필수',
+    graft:'골이식재 권장 (xenograft/DBBM 또는 BCP)',
+    spaceText:'임플란트 또는 내측 막 텐팅; 이식재가 주된 공간 유지 수단',
+    evidence:'Thomas 2026 SR: 이식재 없는 경우 공간 유지 불충분 — 막 천공·붕괴 위험 증가. RBH &lt;3mm: 임상 컨센서스 lateral+graft.',
+    caveat:'RBH &lt;3mm에서 graftless의 안전성을 직접 검증한 RCT는 현재 없음. 이식재 선택은 아래 이식재 매트릭스 참조.',
+  },
+  {
+    min:3, max:4,
+    cls:'panel-graft',
+    icon:'🔶',
+    heading:'Lateral Window — Graftless 가능 (연구 근거 있음)',
+    badge:'Graftless 고려 가능',
+    approach:'Lateral window approach 권장',
+    graft:'Graftless 가능 — 생분해 나사(Inion FreedomScrews™)로 공간 유지',
+    spaceText:'생분해 나사 or 임플란트 텐팅 — 막 천공 없으면 graftless NBF=xenograft와 동등',
+    evidence:'ElSholkamy 2026 RCT (RBH ≤4mm, n=14): NBF graftless 37.3% vs xenograft 35.2% (NS, p=0.324). 단, 골높이 8.43 vs 12.07mm (p&lt;0.001) — 높이 획득은 xenograft가 유리.',
+    caveat:'n=14 소규모 RCT. 골높이 획득이 임플란트 길이 결정에 영향을 미치면 xenograft 고려. 생분해 나사 미확보 시 적응증 제한.',
+  },
+  {
+    min:4, max:6,
+    cls:'panel-graftless',
+    icon:'🟡',
+    heading:'Lateral 또는 Transcrestal — Graftless 유효',
+    badge:'Graftless 유효',
+    approach:'Lateral window 또는 transcrestal 선택 가능',
+    graft:'Graftless 충분한 근거 — 공간 유지가 핵심',
+    spaceText:'임플란트 텐팅(primary stability 확보 시) 또는 생분해 나사; transcrestal은 implant 동시 식립으로 텐팅 제공',
+    evidence:'Fettouh 2025 RCT: RBH 4–6mm에서 transcrestal vs lateral — ISQ 동등, lateral이 수직 골높이 더 많이 획득. Kostakis 2025: transcrestal graftless 97.76% 8년 생존율.',
+    caveat:'Fettouh 2025: 골높이 획득은 lateral &gt; transcrestal; 임플란트 길이 계획에 영향. 동시 식립 기준: primary stability ≥25 Ncm.',
+  },
+  {
+    min:6, max:9,
+    cls:'panel-graftless',
+    icon:'🟢',
+    heading:'Transcrestal — Graftless 표준 (높은 근거)',
+    badge:'Graftless 표준',
+    approach:'Transcrestal approach 권장 (최소 침습)',
+    graft:'Graftless 충분 — 임플란트 동시 식립 텐팅',
+    spaceText:'임플란트가 스스로 공간 유지; 막 상승 4–10mm 가능 (Schneiderian membrane 탄성)',
+    evidence:'Kostakis 2025 (n=89, RBH 5–8mm): graftless 97.76% vs grafted 86.6% 8년 임플란트 생존율. RBH가 단독 최강 예측인자(logistic regression).',
+    caveat:'RBH &gt;8mm에서도 성공률 높음. 단, 막 천공 시 이식재 추가 준비 필요. 상악동 용적·상악동 격벽(septa) 사전 CBCT 확인.',
+  },
+  {
+    min:9, max:99,
+    cls:'panel-graftless',
+    icon:'🟢',
+    heading:'Transcrestal — Graftless 최적 (이식재 불필요)',
+    badge:'이식재 불필요',
+    approach:'Transcrestal approach — 임플란트 동시 식립',
+    graft:'이식재 없이도 성공률 최고. 비용·공여부 이환율 zero.',
+    spaceText:'임플란트가 Schneiderian membrane을 거상 및 유지; 혈병(blood clot)이 자발적으로 신생골로 대체',
+    evidence:'Kostakis 2025: RBH ≥8mm graftless transcrestal 성공률 98%+. Thomas 2026 SR: 전 이식재 종류 implant survival &gt;90% — 충분한 RBH에서 이식재 추가 효과 미미.',
+    caveat:'잔존 골량이 충분해도 primary stability 부족(ISQ &lt;55) 시 delayed loading 고려. 상악동 점막 두께 &gt;2mm·만성 부비동염 등 금기 확인.',
+  },
+];
+
+function update() {
+  const rbh = parseFloat(document.getElementById('rbhSlider').value);
+  document.getElementById('rbhVal').textContent = rbh.toFixed(1);
+  const zone = ZONES.find(z => rbh >= z.min && rbh < z.max) || ZONES[ZONES.length-1];
+  const panel = document.getElementById('resultPanel');
+  panel.className = 'result-panel ' + zone.cls;
+  panel.innerHTML = `
+    <div class="result-header">${zone.icon} ${zone.heading}</div>
+    <div class="result-body">
+      <span class="approach-badge">${zone.badge}</span>
+      <div class="rec-row">
+        <div class="rec-card">
+          <div class="rec-card-title">수술 접근법</div>
+          <div class="rec-card-body">${zone.approach}</div>
+        </div>
+        <div class="rec-card">
+          <div class="rec-card-title">이식재 선택</div>
+          <div class="rec-card-body">${zone.graft}</div>
+        </div>
+        <div class="rec-card">
+          <div class="rec-card-title">공간 유지 전략</div>
+          <div class="rec-card-body">${zone.spaceText}</div>
+        </div>
+        <div class="rec-card">
+          <div class="rec-card-title">현재 RBH</div>
+          <div class="rec-card-body" style="font-family:'Fraunces',serif;font-size:22px;font-weight:700;color:var(--amber);">${rbh.toFixed(1)} mm</div>
+        </div>
+      </div>
+      <div class="evidence-block"><strong>근거:</strong> ${zone.evidence}</div>
+      <div class="caveat-block">⚠️ ${zone.caveat}</div>
+    </div>
+  `;
+}
+
+update();
+</script>
