@@ -28,6 +28,8 @@ relations:
     target: arslan-carpar-2026-plaque-removal-powered-manual-toothbrush
   - type: applies-to
     target: caldas-2024-pain-ohrqol-satisfaction-aligner
+  - type: reinforces
+    target: kaur-2026-ca-vs-fa-periodontal-pain-qol-sr-ma
 ---
 
 > [!summary] 한국어 핵심요약
@@ -94,11 +96,13 @@ External apical root resorption (EARR) is where the held numbers look superficia
 
 ## 4. Periodontal Health, Plaque, and White Spot Lesions
 
-- **Plaque**: clear aligners show significantly lower plaque accumulation than fixed appliances (SMD −1.58; 95% CI −2.57, −0.58) [[orthodontics/clear-aligner/raghavan-2023-wsls-plaque-clear-aligners-fixed]]
+- **Plaque (PI)**: clear aligners show significantly lower plaque accumulation than fixed appliances (SMD −1.58; 95% CI −2.57, −0.58) [[orthodontics/clear-aligner/raghavan-2023-wsls-plaque-clear-aligners-fixed]]; confirmed by the largest multidomain SR+MA (MD = −0.437; 95% CI −0.507 to −0.367; p<0.001; I²=0% for RCTs; GRADE moderate) [[orthodontics/clear-aligner/kaur-2026-ca-vs-fa-periodontal-pain-qol-sr-ma]]
+- **Gingival inflammation (GI)**: CA associated with lower gingival index than FA (MD = −0.233; 95% CI −0.296 to −0.170; p<0.001; **I²=0%; GRADE high**) — the most consistent periodontal finding across the held evidence [[orthodontics/clear-aligner/kaur-2026-ca-vs-fa-periodontal-pain-qol-sr-ma]]
+- **Probing depth (PD)**: CA associated with lower probing depth (MD = −0.332; 95% CI −0.431 to −0.234; p<0.001; **I²=0%; GRADE high**) — note: 0.332 mm reduction is below established periodontal thresholds (≤3 mm healthy; ≥6 mm severe), representing a population-level trend rather than individual clinical significance [[orthodontics/clear-aligner/kaur-2026-ca-vs-fa-periodontal-pain-qol-sr-ma]]
 - **WSL / caries bacteria**: qualitatively lower white-spot incidence, severity, and salivary caries-associated bacteria in aligner patients (moderate-quality evidence)
 - **Plaque-removal mechanics**: manual vs powered toothbrush show **no significant difference** across any region or surface — residual plaque is highest on distal and gingival surfaces regardless of brush type, implying **surface accessibility** governs cleaning more than the device [[orthodontics/clear-aligner/arslan-carpar-2026-plaque-removal-powered-manual-toothbrush]]
 
-**Clinical takeaway**: aligners have a built-in oral-hygiene advantage over fixed appliances, but it does not remove the obligation to target distal/gingival surfaces — this, not the brush brand, is where compliance matters.
+**Clinical takeaway**: aligners have a built-in oral-hygiene advantage over fixed appliances across plaque (I²=0% in RCTs), gingival inflammation (I²=0%, GRADE high), and probing depth (I²=0%, GRADE high), but the absolute PD/GI reductions are modest. The obligation to target distal/gingival surfaces remains.
 
 ## 5. Other Reported Effects (Descriptive)
 
@@ -125,6 +129,7 @@ Borrowed directly from the held evidence, the consent conversation should cover:
 | Pain / OHRQoL | [[orthodontics/clear-aligner/caldas-2024-pain-ohrqol-satisfaction-aligner]] | cross-sectional | Pain/OHRQoL most-studied patient-experience axis |
 | Plaque / WSL vs fixed | [[orthodontics/clear-aligner/raghavan-2023-wsls-plaque-clear-aligners-fixed]] | sr+ma (14 studies) | Lower plaque (SMD −1.58); qualitatively lower WSL/caries bacteria |
 | Brush-type plaque removal | [[orthodontics/clear-aligner/arslan-carpar-2026-plaque-removal-powered-manual-toothbrush]] | rct | No manual-vs-powered difference; distal/gingival residue |
+| Periodontal + pain + QoL vs fixed | [[orthodontics/clear-aligner/kaur-2026-ca-vs-fa-periodontal-pain-qol-sr-ma]] | sr+ma (32 studies/28 meta) | PI MD −0.437; GI MD −0.233 (I²=0%, GRADE high); PD MD −0.332 (I²=0%, GRADE high); pain SMD −0.419; QoL end-of-Tx SMD −0.970 |
 
 ---
 
