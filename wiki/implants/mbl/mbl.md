@@ -2,7 +2,7 @@
 title: "임플란트·변연골소실 — mbl"
 authors: navigation
 year: 2026
-date: 2026-08-11
+date: 2026-09-16
 doi: N/A
 source: navigation
 category: implants/mbl
@@ -41,6 +41,7 @@ tags: [navigation, category-index, mbl]
 | [[couso-queiruga-2025-misfit-implant-prosthesis-bone-loss|Impact of Marginal Misfit in Implant-Supported Fixed Dental Prostheses on Peri-Implant Bone Levels: A Retrospective Quantitative Analysis]] |
 | [[del-fabbro-2014-marginal-bone-axial-tilted-sr-ma|The fate of marginal bone around axial vs. tilted implants: a systematic review]] |
 | [[desai-2013-platform-switching-bone-loss-review|Platform switching: A panacea for bone loss??]] |
+| [[dhir-2012-significance-clinical-relevance-biologic-width|Significance and clinical relevance of biologic width to implant dentistry]] |
 | [[di-girolamo-2016-platform-switching-matching-sr-ma|Bone level changes around platform switching and platform matching implants: a systematic review with meta-analysis]] |
 | [[enkling-2013-platform-switching-bone-level-3year-rct|Influence of Platform Switching on Bone-level Alterations: A Three-year Randomized Clinical Trial]] |
 | [[gupta-2019-platform-switching-crestal-bone-loss-sr|Platform Switching Technique and Crestal Bone Loss around the Dental Implants: A Systematic Review]] |
