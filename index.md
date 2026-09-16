@@ -1012,6 +1012,7 @@ tags: []
 - [[periodontics/non-surgical-instrumentation/farina-2026-pmpr-biofilm-gingivitis-sr-ma]] — Farina 2026 · sr+ma (EFP 21st Workshop, 11편) · 치태-유발 치은염: OHI가 1차, PMPR은 OHI 병용 시에만 이득(low certainty); 에어폴리싱+초음파 ≈ 초음파+러버컵 폴리싱이나 더 빠름; 다이오드 레이저 무효 (DOI 10.1111/jcpe.70083)
 - [[periodontics/marty-2024-implant-treated-periodontitis-sr-ma]] — SR+MA(Dent J 2024, 5개 DB, 10,775편): 치주염 기왕력 → 치주위임플란트염 ~4.8배↑; 임플란트 생존율↓; 골소실·포켓깊이↑
 - [[periodontics/papapanou-2018-periodontitis-classification-consensus-2017]] — 2017 치주 세계 워크샵 치주염 새 분류 — Staging I–IV(중증도) + Grading A–C(진행속도/반응성).
+- [[periodontics/yang-2020-new-classification-system-periodontal-peri-implant]] — Yang 2020 (연세, J Korean Acad Adv Gen Dent 9:83) · narrative-review · 2017 신분류 한국어 임상 해설 — stage I–IV(이개부 2·3급만으로도 III/IV 상향)·grade A/B/C(B 가정→근거로 A/C→위험인자 수정), case definition 도입; 치은염 ≤3 mm·<10% BoP vs 치료 후 임상적 건강 ≤4 mm·무출혈(의도된 역설 — 안정 부위 과잉치료 방지); 임플란트주위 점막염/주위염 구분 — caton-2018·papapanou-2018 보완
 - [[periodontics/roccuzzo-2022-implants-periodontitis-history-20year-prospective]] — 치주염 병력 20년 전향적 연구 — 치주염 병력군 생존율 81% vs 비병력군 91%, SPT 순응도 결정적.
 - [[periodontics/manresa-2018-supportive-periodontal-therapy-cochrane-sr]] — Cochrane SR (CD009376.pub2): SPT 관련 RCT 증거 극히 제한적; 전문의 vs 비전문의·항균제 보조·광치료 모두 high-quality 근거 부족; 다만 순응군 치아 상실 RR 0.47, CAL 안정, 3–6개월 간격 임상 권고 (heterogeneity로 MA 미수행)
 - [[periodontics/fee-2020-recall-intervals-oral-health-primary-care]] — Cochrane SR (2 RCT, n=1736): risk-based vs 6개월 vs 24개월 리콜 간격, 4년 추적 시 우식·치은출혈·OHRQoL 차이 없음 (고확실성)
