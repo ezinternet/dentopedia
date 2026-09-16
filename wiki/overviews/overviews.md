@@ -225,6 +225,7 @@ tags: [navigation, category-index, overviews]
 | [[pdl-tissue-engineering-biomimetic-implant-overview|PDL Tissue Engineering & Biomimetic Implants — From Ligaplants to Stem Cell Biology]] |
 | [[pdrn-dentistry-evidence-synthesis|PDRN in Dentistry — Mechanism·Evidence Pyramid·Zone-Specific Effect Synthesis]] |
 | [[penicillin-allergy-dental-antibiotic-overview|Penicillin Allergy Countermeasures in Dentistry — The Label, the Cross-Reactivity Myth, and the Fall of Clindamycin]] |
+| [[peri-implant-biologic-width-overview|Peri-implant Biologic Width — Tooth Baseline, Implant Dimension, and Restorative Guardrails (임플란트 주위 생물학적 폭경 종합)]] |
 | [[peri-implant-emergence-profile-soft-tissue-conditioning-overview|임플란트 Emergence Profile 설계·맞춤 연조직 컨디셔닝 종합]] |
 | [[peri-implant-soft-tissue-dehiscence-prevention|Peri-Implant Soft Tissue Dehiscence (PSTD) Prevention & Management — Synthesis]] |
 | [[peri-implantitis-management-overview|임플란트주위염(Peri-implantitis) — 역학·예방·치료 종합]] |
@@ -264,6 +265,7 @@ tags: [navigation, category-index, overviews]
 | [[root-coverage-surgery-graft-adjunct-outcome-overview|치근피개 수술 — 이식재가 피개를 정하고 보조재는 이환율을 정한다 (Root Coverage Surgery: Graft, Adjunct, and What Patients Actually Value)]] |
 | [[rpd-vs-implant-vs-fpd-selection-overview|RPD vs Implant vs FPD vs SDA — Partially Dentate Selection Decision]] |
 | [[saliva-diagnostics-and-salivary-gland-dysfunction-overview|Saliva & the Salivary Gland: Diagnostic Medium and Secretory Dysfunction — Overview]] |
+| [[schneiderian-membrane-perforation-overview|Schneiderian Membrane Perforation — Occurrence, Predictors, and Outcome After Repair (슈나이더막 천공 — 발생·예측·수복 후 결과 종합)]] |
 | [[severe-atrophy-graftless-rehabilitation-ladder|Overview: Severe Jaw Atrophy — the Graftless Rehabilitation Ladder (숏·경사·관골·골막하 임플란트)]] |
 | [[short-implant-vs-sinus-augmentation-decision|Overview: Short Implant vs Sinus Augmentation in the Atrophic Posterior Maxilla — Decision Synthesis]] |
 | [[single-vs-multivisit-endodontic-outcomes-overview|Single- vs Multiple-Visit Endodontics: Healing & Pain Outcomes — 5-paper synthesis]] |
