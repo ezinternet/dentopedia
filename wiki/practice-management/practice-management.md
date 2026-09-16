@@ -2,7 +2,7 @@
 title: "치과경영 — practice-management"
 authors: navigation
 year: 2026
-date: 2026-09-04
+date: 2026-09-16
 doi: N/A
 source: navigation
 category: practice-management
@@ -15,20 +15,20 @@ tags: [navigation, category-index, practice-management]
 > [!summary] 한국어 핵심요약
 > - **분야**: 치과경영
 > - **범위**: Dental practice management — legal/regulatory decisions (헌법재판소 등), operational policies, clinic administration
-> - **수록 논문**: 34편
+> - **수록 논문**: 35편
 
 ## Three-line Summary
 
 **Scope**: Dental practice management — legal/regulatory decisions (헌법재판소 등), operational policies, clinic administration
-**Indexed papers**: 34 papers in `wiki/practice-management/`.
+**Indexed papers**: 35 papers in `wiki/practice-management/`.
 
 ## 세줄요약
 
 **분야**: 치과경영
-**수록 논문**: 34편
+**수록 논문**: 35편
 **하위 카테고리**: 없음
 
-## Papers in this Category (34)
+## Papers in this Category (35)
 
 | Paper |
 |---|
@@ -42,6 +42,7 @@ tags: [navigation, category-index, practice-management]
 | [[cangul-2026-full-pulpotomy-adoption-determinants-trainee-decision-making|Determinants of Definitive Full Pulpotomy Adoption in Symptomatic Irreversible Pulpitis: A Multivariable Analysis of Dental Trainee Decision-Making]] |
 | [[chen-2024-dental-hygienist-autonomy-care-utilization|The effects of dental hygienist autonomy on dental care utilization.]] |
 | [[dufey-portilla-2026-treatment-decision-making-apical-periodontitis-clinician-groups|Evaluation of Treatment Decision-Making for Teeth with Post-Treatment Apical Periodontitis Among Dental Students, General Dentists, and Endodontists in Chile]] |
+| [[erridge-2008-green-dentistry|GREEN DENTISTRY (letter)]] |
 | [[garcia-2023-teledentistry-acceptability-latino-rural-virginia|Teledentistry Acceptability Among Latina/o/x Adults in Rural Southwest Virginia]] |
 | [[george-2025-gaps-dentistry-between-education|Gaps in Dentistry between Education and Professional Practice —A Theory–Practice Gap Analysis]] |
 | [[gurgel-juarez-2022-accuracy-effectiveness-teledentistry-systematic|Accuracy and effectiveness of teledentistry: a systematic review of systematic reviews]] |
