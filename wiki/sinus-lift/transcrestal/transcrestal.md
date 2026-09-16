@@ -15,20 +15,20 @@ tags: [navigation, category-index, transcrestal]
 > [!summary] 한국어 핵심요약
 > - **분야**: 상악동거상술·경치조골
 > - **범위**: Transcrestal (osteotome/balloon/osseodensification) approaches
-> - **수록 논문**: 56편
+> - **수록 논문**: 57편
 
 ## Three-line Summary
 
 **Scope**: Transcrestal (osteotome/balloon/osseodensification) approaches
-**Indexed papers**: 56 papers in `wiki/sinus-lift/transcrestal/`.
+**Indexed papers**: 57 papers in `wiki/sinus-lift/transcrestal/`.
 
 ## 세줄요약
 
 **분야**: 상악동거상술·경치조골
-**수록 논문**: 56편
+**수록 논문**: 57편
 **하위 카테고리**: 없음
 
-## Papers in this Category (56)
+## Papers in this Category (57)
 
 | Paper |
 |---|
@@ -59,6 +59,7 @@ tags: [navigation, category-index, transcrestal]
 | [[imai-2022-primary-stability-implant-macrodesigns|Primary stability of different implant macrodesigns in a sinus floor elevation simulated model: an ex vivo study]] |
 | [[jia-2025-accuracy-robotic-cais-tsfe-posterior-maxilla|Accuracy of Robotic Computer-Assisted Implant Surgery Combined With Transcrestal Sinus Floor Elevation for Single-Tooth Implants: A Retrospective Case Series]] |
 | [[kadkhodazadeh-2024-transcrestal-maxillary-sinus-elevation-sr-ma|Clinical outcomes of implants placed with transcrestal maxillary sinus elevation: SR+MA]] |
+| [[kang-2022-modified-osteotome-sinus-floor-elevation|Modified Osteotome Sinus Floor Elevation Technique for Multiple Edentulous Spaces: A Non-Randomized Controlled Trial]] |
 | [[kostakis-2025-graftless-sinus-lift-simultaneous-8year|Graftless sinus lift simultaneously with dental implants placement: a prospective cohort study]] |
 | [[lai-2008-rfa-iti-osteotome-sinus-elevation-without-graft|Resonance frequency analysis of stability on ITI implants with osteotome sinus floor elevation technique without grafting: a 5-month prospective study]] |
 | [[lin-2025-schneiderian-membrane-biomechanical-transcrestal-fea|Comparison of biomechanical characteristics of the Schneiderian membrane with different transcrestal sinus floor elevation techniques using three-dimensional finite element analysis]] |
