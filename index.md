@@ -74,6 +74,7 @@ tags: []
 - [[implants/soft-tissue/strauss-2024-wide-emergence-angle-marginal-bone-loss-junctional-epithelium]] — Strauss 2024 · animal · 개 모델: 보철 emergence angle 넓을수록 MBL↑(80°군 4배)·≥60°는 접합상피 손상, <40° 권고
 - [[implants/soft-tissue/misch-2025-abutment-height-emergence-angle-peri-implant-bone-loss]] — Misch 2025 · retrospective · 골수준 임플란트 192개: REA ≥30°는 지대주 <2mm일 때만 MBL·주위염(~4배) 위험, 지대주 1mm당 MBL odds 37%↓
 - [[implants/soft-tissue/lee-2025-emergence-angle-soft-hard-tissue-splinted-implants]] — Lee 2025 · animal · 연결 임플란트: 넓은 출현각(60°)이 결합조직 부착 손상·변연골 개조 촉진해 안정적 연조직 봉쇄 방해
+- [[implants/soft-tissue/kadkhodazadeh-2018-junctional-epithelium-epithelial-attachment-implant]] — Kadkhodazadeh 2018 · narrative review (45편) · 임플란트 주위 상피의 명명: PIE는 hemidesmosome+기저판유사구조(500–1000Å)·laminin-5/integrin α6β4로 부착, 기원은 JE와 유사하나 두께·길이·부착강도 논란 → "junctional epithelium" 대신 **epithelial attachment** 용어 권고 (DOI 10.9734/JAMMR/2018/41593)
 - [[implants/strietzel-2015-platform-switching-mbl-sr-ma]] — SR+MA(22편: 15 RCT+7 PCCS): PS MBL 0.49 mm vs PM 1.01 mm(p<0.0001); 플랫폼 스위칭 변연골 소실 유의하게 감소
 - [[implants/di-girolamo-2016-platform-switching-matching-sr-ma]] — SR+MA(15편, 1439 임플란트): PS MBL 유의하게 낮음; 임플란트 실패율 차이 없음; 플랫폼 스위칭 효과 확인
 - [[implants/juan-montesinos-2022-platform-switching-conventional-sr-ma]] — SR+MA(9편, PS 475 vs 일반 462): PS 골소실 MD 0.255 mm 유의하게 적음; 탐침깊이 NS
