@@ -15,20 +15,20 @@ tags: [navigation, category-index, lateral]
 > [!summary] 한국어 핵심요약
 > - **분야**: 상악동거상술·측방
 > - **범위**: Lateral window approach, membrane, grafting materials
-> - **수록 논문**: 95편
+> - **수록 논문**: 96편
 
 ## Three-line Summary
 
 **Scope**: Lateral window approach, membrane, grafting materials
-**Indexed papers**: 95 papers in `wiki/sinus-lift/lateral/`.
+**Indexed papers**: 96 papers in `wiki/sinus-lift/lateral/`.
 
 ## 세줄요약
 
 **분야**: 상악동거상술·측방
-**수록 논문**: 95편
+**수록 논문**: 96편
 **하위 카테고리**: 없음
 
-## Papers in this Category (95)
+## Papers in this Category (96)
 
 | Paper |
 |---|
@@ -56,6 +56,7 @@ tags: [navigation, category-index, lateral]
 | [[hegde-2016-sinus-augmentation-membrane-elevation-sr|Maxillary sinus augmentation using sinus membrane elevation without grafts - A Systematic Review]] |
 | [[henriques-2022-maxillary-sinus-septa-prevalence-sr-ma|Prevalence of maxillary sinus septa: systematic review and meta-analysis]] |
 | [[jelusic-2014-assessment-implant-stability-sinus-lift|Assessment of Implant Stability Following Sinus Lift Procedures with Different Grafting Materials]] |
+| [[jue-2025-maxillary-sinus-floor-augmentation-autogenous-bone|Maxillary Sinus Floor Augmentation With Autogenous Bone Versus Bovine Bone Mineral Mixed With 25% Autogenous Bone: A 1-Year Multicenter, Split-Mouth, Randomized Controlled Trial]] |
 | [[kashi-2023-accessory-maxillary-ostium-sinusitis-cbct|Frequency of Accessory Maxillary Ostium in Patients With/Without Sinusitis, and Its Correlation with Anatomical Variations of Paranasal Sinuses: A Cone Beam Computed Tomography Study]] |
 | [[kato-2021-sinus-mucosa-ostium-involvement-septa|Sinus Mucosa Thickness Changes and Ostium Involvement after Maxillary Sinus Floor Elevation in Sinus with Septa. A Cone Beam Computed Tomography Study]] |
 | [[ke-2024-sinus-membrane-thickness-perforation-risk-sr-ma|Does sinus membrane thickness influence the risk of perforation during lateral sinus lift surgery for dental implants? a systematic review and meta-analysis]] |
