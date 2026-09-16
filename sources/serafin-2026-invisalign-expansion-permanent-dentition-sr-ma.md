@@ -8,7 +8,7 @@ pmcid: "PMC13035959"
 category: [orthodontics/clear-aligner]
 pdf_path: ""
 pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC13035959/
 ---
 

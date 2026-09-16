@@ -6,7 +6,7 @@ doi: "10.3390/healthcare14111547"
 category: [orthodontics/clear-aligner]
 pdf_path: ""
 pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 pmid: "42278800"
 pmcid: "PMC13256781"
 ---

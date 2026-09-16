@@ -8,7 +8,7 @@ pmid: "42442043"
 source: nogueira-matos-2026-refinement-factors-clear-aligner-sr.md
 category: orthodontics/clear-aligner
 confidence: sr
-source_collection: pubmed-text
+source_collection: pubmed-abstract
 tags: []
 relations:
   - type: extends

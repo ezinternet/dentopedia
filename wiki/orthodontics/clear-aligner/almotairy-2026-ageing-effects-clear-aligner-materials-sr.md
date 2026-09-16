@@ -7,9 +7,7 @@ doi: "10.1186/s40510-026-00642-1"
 source: almotairy-2026-ageing-effects-clear-aligner-materials-sr.md
 category: [orthodontics/clear-aligner]
 confidence: sr
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 tags: [clear-aligner, material-aging, PETG, TPU, DPA, discolouration, force-decay, colour-stability, stress-relaxation, morphology, systematic-review, material-properties, Invisalign]
 relations:
   - type: extends

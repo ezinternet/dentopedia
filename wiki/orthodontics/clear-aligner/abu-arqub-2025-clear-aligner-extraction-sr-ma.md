@@ -8,7 +8,7 @@ pmid: "41195763"
 source: abu-arqub-2025-clear-aligner-extraction-sr-ma.md
 category: orthodontics/clear-aligner
 confidence: sr+ma
-source_collection: pubmed-text
+source_collection: pubmed-abstract
 tags: []
 relations:
   - type: extends

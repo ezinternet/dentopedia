@@ -6,7 +6,7 @@ doi: "10.1186/s12903-026-07772-2"
 category: sinus-lift/lateral
 pdf_path: /Users/oracleneo/llm-wiki/papers/elsholkamy-2026-bioabsorbable-screws-graftless-sinus-rct.pdf
 pdf_filename: elsholkamy-2026-bioabsorbable-screws-graftless-sinus-rct.pdf
-source_collection: external
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested

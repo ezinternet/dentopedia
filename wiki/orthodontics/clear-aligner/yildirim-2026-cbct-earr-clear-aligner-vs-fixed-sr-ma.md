@@ -7,9 +7,7 @@ doi: "10.3390/healthcare14111547"
 source: yildirim-2026-cbct-earr-clear-aligner-vs-fixed-sr-ma.md
 category: [orthodontics/clear-aligner]
 confidence: sr+ma
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 tags: [clear-aligner, fixed-appliance, root-resorption, earr, cbct, external-apical-root-resorption, meta-analysis, systematic-review, grade-low]
 relations:
   - type: extends

@@ -4,7 +4,7 @@ authors: "Di Frischia C, Tallarico M, Gargari M, Magnifico E, Cecchetti F, Cerus
 year: 2025
 doi: "10.3390/reports8040228"
 category: [sinus-lift/transcrestal]
-source_collection: pubmed-text
+source_collection: pubmed-abstract
 full_text: true
 pmid: "41283596"
 pmcid: "PMC12643441"

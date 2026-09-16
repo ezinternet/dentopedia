@@ -4,7 +4,7 @@ authors: "Zhai M, Cheng H, Yuan J, Wang X, Li B, Li D"
 year: 2018
 doi: "10.1155/2018/2829163"
 category: [sinus-lift/lateral]
-source_collection: pubmed-text
+source_collection: pubmed-abstract
 full_text: true
 pmid: "30035119"
 pmcid: "PMC6033247"

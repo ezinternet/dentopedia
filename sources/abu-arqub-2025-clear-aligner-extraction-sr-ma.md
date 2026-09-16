@@ -5,7 +5,7 @@ year: 2025
 doi: "10.1111/ocr.70052"
 pmid: "41195763"
 category: orthodontics/clear-aligner
-source_collection: pubmed-text
+source_collection: pubmed-abstract
 full_text: false
 ---
 

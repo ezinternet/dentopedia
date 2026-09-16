@@ -6,14 +6,14 @@ doi: "10.7759/cureus.95845"
 pmid: "41328132"
 pmcid: "PMC12665358"
 category: orthodontics/clear-aligner
-source_collection: pubmed-text
+source_collection: pubmed-abstract
 full_text: true
 source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12665358/
 ---
 
 ## Why Ingested
 
-투명교정 성공을 결정하는 **환자 순응도·치아이동 예측도·기술적 요인을 복합적으로 종합한 SR**이 위키에 없었다. 본 논문은 남성·첫 교정 경험 없는 환자의 순응도 우위, 디지털 모니터링 도구의 과대추정 편향, 이동 유형별 정확도 차이를 통합 분석한다.
+투명교정 성공을 결정하는 **환자 순응도·치아이동 예측도·기술적 요인을 복합적으로 종합한 SR**이 위키에 없었다. 본 논문은 남성·첫 교정 경험 없는 환자의 순응도 우위, 디지털 모니터링 도구의 과대추정 편향, 이동 유형별 정확도 차이를 통합 분석한다. [[orthodontics/clear-aligner/yassir-2022-cat-vs-fat-overview-systematic-reviews]] 의 이동 정확도 한계 항목을 보강한다.
 
 ## One-line Summary
 

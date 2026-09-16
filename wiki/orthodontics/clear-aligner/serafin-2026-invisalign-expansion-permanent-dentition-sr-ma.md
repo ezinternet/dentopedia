@@ -9,9 +9,7 @@ pmcid: "PMC13035959"
 source: serafin-2026-invisalign-expansion-permanent-dentition-sr-ma.md
 category: [orthodontics/clear-aligner]
 evidence_level: sr+ma
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC13035959/
 tags: [clear-aligner, invisalign, transverse-expansion, predictability, permanent-dentition, adults, meta-analysis, smarttrack, buccal-tipping, maxilla, mandible]
 relations:

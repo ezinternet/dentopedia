@@ -9,7 +9,7 @@ pmcid: "PMC12665358"
 source: albaqshi-2025-invisalign-predictability-factors-compliance-sr.md
 category: orthodontics/clear-aligner
 confidence: sr
-source_collection: pubmed-text
+source_collection: pubmed-abstract
 tags: []
 relations:
   - type: reinforces

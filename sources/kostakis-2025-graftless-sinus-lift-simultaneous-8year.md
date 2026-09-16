@@ -6,7 +6,7 @@ doi: "10.1016/j.oooo.2025.12.005"
 category: sinus-lift/transcrestal
 pdf_path: /Users/oracleneo/llm-wiki/papers/kostakis-2025-graftless-sinus-lift-simultaneous-8year.pdf
 pdf_filename: kostakis-2025-graftless-sinus-lift-simultaneous-8year.pdf
-source_collection: external
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested

@@ -9,7 +9,7 @@ category: [orthodontics/clear-aligner]
 confidence: sr+ma
 pdf_path: ""
 pdf_filename: ""
-source_collection: pubmed-text
+source_collection: pubmed-abstract
 tags: [clear-aligner, mandibular-advancement, functional-appliance, twin-block, herbst, van-beek, class-ii, cephalometrics, meta-analysis]
 relations:
   - type: reinforces

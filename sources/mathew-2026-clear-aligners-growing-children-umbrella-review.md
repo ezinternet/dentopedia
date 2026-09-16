@@ -7,7 +7,7 @@ pmid: "42641088"
 category: orthodontics/clear-aligner
 pdf_path: ""
 pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested

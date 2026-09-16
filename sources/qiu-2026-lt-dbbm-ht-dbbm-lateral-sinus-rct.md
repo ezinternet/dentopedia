@@ -6,7 +6,7 @@ doi: "10.1186/s12903-026-08291-w"
 category: sinus-lift/lateral
 pdf_path: /Users/oracleneo/llm-wiki/papers/qiu-2026-lt-dbbm-ht-dbbm-lateral-sinus-rct.pdf
 pdf_filename: qiu-2026-lt-dbbm-ht-dbbm-lateral-sinus-rct.pdf
-source_collection: external
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested

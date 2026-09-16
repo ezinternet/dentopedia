@@ -4,7 +4,7 @@ authors: "Lin X, Xu S, Chen L, Que G"
 year: 2025
 doi: "10.1186/s12903-025-05499-0"
 category: [sinus-lift/transcrestal]
-source_collection: pubmed-text
+source_collection: pubmed-abstract
 full_text: true
 pmid: "39875935"
 pmcid: "PMC11773847"

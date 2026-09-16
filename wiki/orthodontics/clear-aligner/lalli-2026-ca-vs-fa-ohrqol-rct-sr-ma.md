@@ -7,9 +7,7 @@ doi: "10.3390/medicina62061090"
 source: lalli-2026-ca-vs-fa-ohrqol-rct-sr-ma.md
 category: orthodontics/clear-aligner
 confidence: sr+ma
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 tags: []
 relations:
   - type: extends

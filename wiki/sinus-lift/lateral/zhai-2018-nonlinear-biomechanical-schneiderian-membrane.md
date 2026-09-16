@@ -7,7 +7,7 @@ doi: "10.1155/2018/2829163"
 source: zhai-2018-nonlinear-biomechanical-schneiderian-membrane.md
 category: [sinus-lift/lateral]
 confidence: in-vitro
-source_collection: pubmed-text
+source_collection: pubmed-abstract
 tags: [schneiderian-membrane, biomechanics, tensile-strength, finite-element-analysis, elastic-modulus, adhesion-force]
 relations:
   - type: extends

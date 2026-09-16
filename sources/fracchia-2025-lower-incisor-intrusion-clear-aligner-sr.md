@@ -6,7 +6,7 @@ doi: "10.3390/jcm14176339"
 pmid: "40944102"
 pmcid: "PMC12429061"
 category: orthodontics/clear-aligner
-source_collection: pubmed-text
+source_collection: pubmed-abstract
 full_text: true
 source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12429061/
 ---

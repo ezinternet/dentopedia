@@ -7,9 +7,7 @@ doi: "10.17219/dmp/207333"
 source: samulak-2026-cbct-anterior-root-resorption-ca-vs-fa-sr-ma.md
 category: [orthodontics/clear-aligner]
 confidence: sr+ma
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 tags: [clear-aligner, fixed-appliance, root-resorption, oiirr, earr, cbct, anterior-teeth, maxillary-central-incisor, meta-analysis, systematic-review]
 relations:
   - type: reinforces

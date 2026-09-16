@@ -7,7 +7,7 @@ category: orthodontics/clear-aligner
 pdf_path: ""
 pdf_filename: ""
 full_text: false
-source_collection: external
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested

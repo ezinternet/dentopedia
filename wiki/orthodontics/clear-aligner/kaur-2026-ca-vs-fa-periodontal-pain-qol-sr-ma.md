@@ -7,9 +7,7 @@ doi: "10.1038/s41405-026-00450-z"
 source: kaur-2026-ca-vs-fa-periodontal-pain-qol-sr-ma.md
 category: orthodontics/clear-aligner
 confidence: sr+ma
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 tags:
   - clear-aligner
   - fixed-appliance

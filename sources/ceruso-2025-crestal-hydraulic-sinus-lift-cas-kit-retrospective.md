@@ -4,7 +4,7 @@ authors: "Ceruso FM, Lumbau AI, Pernice F, Mastroianni A, Miranda M, Meloni SM, 
 year: 2025
 doi: "10.3390/dj13050193"
 category: [sinus-lift/transcrestal]
-source_collection: pubmed-text
+source_collection: pubmed-abstract
 full_text: true
 pmid: "40422613"
 pmcid: "PMC12110354"

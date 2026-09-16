@@ -7,7 +7,7 @@ doi: "10.3390/reports8040228"
 source: difrischia-2025-crestal-sinus-elevation-below-3mm-cas-kit-case-report.md
 category: [sinus-lift/transcrestal]
 confidence: case-report
-source_collection: pubmed-text
+source_collection: pubmed-abstract
 tags: [cas-kit, hydraulic-sinus-lift, transcrestal, extreme-rbh, schneiderian-membrane, primary-stability]
 relations:
   - type: reinforces

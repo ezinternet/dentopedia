@@ -6,7 +6,7 @@ doi: "10.17219/dmp/207333"
 category: [orthodontics/clear-aligner]
 pdf_path: ""
 pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested
