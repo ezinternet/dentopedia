@@ -4217,6 +4217,7 @@ tags: []
 ### implants/mbl
 - [[implants/mbl/canullo-2007-platform-switching-immediate-extraction-sockets]] — Proof-of-concept case series (n=9, 10 implants): largest PS offset in this wiki's cluster (1.0mm/side), bone resorption 0.78±0.36mm vs 1.7mm reference (2007)
 - [[implants/mbl/gupta-2019-platform-switching-crestal-bone-loss-sr]] — Narrative review compiling actual PS abutment/implant offset dimensions across 9 studies; cites Hürzeler 2007's 0.45mm/side "sufficient" threshold claim; also carries the fullest PS mechanism account (IAJ 내측 이동 → ICT 측방 이동) and 5 FEA reports (2019)
+- [[implants/mbl/dhir-2012-significance-clinical-relevance-biologic-width]] — Dhir 2012 · narrative-review · 임플란트 생물학적 폭경 총론: 2-piece>1-piece>치아 순(Glauser 4–4.5 mm, Kan 6.17/3.63/5.93 mm), 미세극이 골높이 결정(~2 mm 하방 흡수, Hermann), Ericsson ICT(IaICT=변연골소실 원인) 1.0–1.5 mm, PS는 폭경 수평 재배치(연조직 ≥3 mm, ICT <90°) (DOI 10.4103/2229-5194.100599)
 - [[implants/mbl/hurzeler-2007-peri-implant-bone-level-platform-switched]] — Prospective non-randomized trial (PS 14 vs non-PS 8): 1yr crestal bone -0.22mm vs -2.02mm (P≤.0001); 0.45mm/side abutment reduction concluded "sufficient" (2007)
 - [[implants/mbl/kumar-2021-marginal-bone-level-changes-meta-analysis]] — Meta-analysis of marginal bone level changes at dental implants across loading protocols (2021)
 - [[implants/mbl/lazzara-2006-platform-switching-new-concept]] — Foundational paper coining "platform switching": accidental narrow-abutment restorations (1991 inventory gap) showed less crestal bone loss (2006)
