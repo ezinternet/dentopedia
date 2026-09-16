@@ -16,21 +16,21 @@ tags: [navigation, category-index, orthodontics]
 > - **분야**: 교정학
 > - **범위**: Orthodontic miniscrews (TADs) — stability, failure risk, reuse; periodontal-orthodontic interactions; force biology
 > - **하위 카테고리**: [[clear-aligner]] · [[myofunctional]]
-> - **수록 논문**: 29편
+> - **수록 논문**: 30편
 
 ## Three-line Summary
 
 **Scope**: Orthodontic miniscrews (TADs) — stability, failure risk, reuse; periodontal-orthodontic interactions; force biology
-**Indexed papers**: 29 papers in `wiki/orthodontics/`.
+**Indexed papers**: 30 papers in `wiki/orthodontics/`.
 **Sub-categories**: [[clear-aligner]], [[myofunctional]]
 
 ## 세줄요약
 
 **분야**: 교정학
-**수록 논문**: 29편
+**수록 논문**: 30편
 **하위 카테고리**: clear-aligner, myofunctional
 
-## Papers in this Category (29)
+## Papers in this Category (30)
 
 | Paper |
 |---|
@@ -57,6 +57,7 @@ tags: [navigation, category-index, orthodontics]
 | [[nanda-2012-orthodontic-force-biological-response-review|Biological response to orthodontic forces: PDL and alveolar bone remodeling]] |
 | [[papadopoulou-2013-biomechanical-time-dependency-periodontal-ligament|Biomechanical time dependency of the periodontal ligament: a combined experimental and numerical approach]] |
 | [[petsos-2024-fixed-steel-retainer-gingival-health|Influence of fixed orthodontic steel retainers on gingival health and recessions of mandibular anterior teeth in an intact periodontium - a randomized, clinical controlled trial]] |
+| [[salamati-2020-functional-tooth-mobility-young-pigs|Functional tooth mobility in young pigs]] |
 | [[scribante-2017-dental-hygiene-orthodontics-effect|Dental Hygiene and Orthodontics: Effect of Ultrasonic Instrumentation on Bonding Efficacy of Different Lingual Orthodontic Brackets.]] |
 | [[tsolakis-2023-orthodontic-tooth-movement-molecular-narrative|Molecular and Biological Aspects of Orthodontic Tooth Movement: Possibilities for Bioengineering Intervention: A Narrative Review]] |
 | [[valeri-2024-impact-patient-attributes-implant-characteristics|What is the impact of patient attributes, implant characteristics, surgical techniques, and placement location on the success of orthodontic mini-implants in young adults? A Systematic Review and Meta-Analysis]] |
