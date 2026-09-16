@@ -68,3 +68,6 @@ quartz/.quartz-cache/
 
 # Copilot model catalog cache (auto-generated)
 .copilot/model-catalog-cache.json
+
+# Copilot conversation logs — AI 대화 로그, 결정 맥락은 Why Ingested에 보존
+copilot/copilot-conversations/
