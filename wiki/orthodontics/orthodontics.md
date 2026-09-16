@@ -2,7 +2,7 @@
 title: "교정학 — orthodontics"
 authors: navigation
 year: 2026
-date: 2026-08-29
+date: 2026-09-16
 doi: N/A
 source: navigation
 category: orthodontics
@@ -16,21 +16,21 @@ tags: [navigation, category-index, orthodontics]
 > - **분야**: 교정학
 > - **범위**: Orthodontic miniscrews (TADs) — stability, failure risk, reuse; periodontal-orthodontic interactions; force biology
 > - **하위 카테고리**: [[clear-aligner]] · [[myofunctional]]
-> - **수록 논문**: 24편
+> - **수록 논문**: 28편
 
 ## Three-line Summary
 
 **Scope**: Orthodontic miniscrews (TADs) — stability, failure risk, reuse; periodontal-orthodontic interactions; force biology
-**Indexed papers**: 24 papers in `wiki/orthodontics/`.
+**Indexed papers**: 28 papers in `wiki/orthodontics/`.
 **Sub-categories**: [[clear-aligner]], [[myofunctional]]
 
 ## 세줄요약
 
 **분야**: 교정학
-**수록 논문**: 24편
+**수록 논문**: 28편
 **하위 카테고리**: clear-aligner, myofunctional
 
-## Papers in this Category (24)
+## Papers in this Category (28)
 
 | Paper |
 |---|
@@ -43,8 +43,10 @@ tags: [navigation, category-index, orthodontics]
 | [[jahanbin-2025-reused-miniscrew-stability-sr-ma|In vitro physical properties and clinical stability of reused orthodontic miniscrews: A systematic review and meta-analysis]] |
 | [[jaramillo-bedoya-2022-scoping-review-characteristics-success-failure|A Scoping Review about the Characteristics and Success-Failure Rates of Temporary Anchorage Devices in Orthodontics]] |
 | [[jeon-2021-orthodontic-tooth-movement-mechanisms-animal|Mechanistic Insight into Orthodontic Tooth Movement Based on Animal Studies: A Critical Review]] |
+| [[jepsen-2023-biomechanical-properties-periodontal-tissues-non-periodontitis|Biomechanical properties of periodontal tissues in non-periodontitis and periodontitis patients assessed with an intraoral computerized electronic measurement device]] |
 | [[jkda-2023-61-6-003|A study on the characteristics of Korean impacted tooth patients and the factors affecting the treatment success and treatment period of upper impacted canines]] |
 | [[katyal-2024-success-rate-factors-affecting-stability|Success rate and factors affecting stability of infrazygomatic miniscrew implants: a systematic review and meta-analysis]] |
+| [[keilig-2016-in-vivo-measurements-pdl|In vivo measurements and numerical analysis of the biomechanical characteristics of the human periodontal ligament]] |
 | [[krishnan-2006-cellular-molecular-tissue-orthodontic-force|Cellular, molecular, and tissue-level reactions to orthodontic force]] |
 | [[li-2021-periodontium-orthodontic-tooth-movement-biomechanics|Biomechanical and biological responses of periodontium in orthodontic tooth movement: up-date in a new decade]] |
 | [[livas-2011-extraction-maxillary-first-molars-molar-inclinations|Extraction of maxillary first molars improves second and third molar inclinations in Class II Division 1 malocclusion]] |
@@ -53,9 +55,11 @@ tags: [navigation, category-index, orthodontics]
 | [[mohammed-2018-miniscrew-anatomical-site-failure-sr-ma|Role of anatomical sites and correlated risk factors on the survival of orthodontic miniscrew implants: a systematic review and meta-analysis]] |
 | [[murray-2006-tissue-cellular-molecular-orthodontic-100years|The tissue, cellular, and molecular regulation of orthodontic tooth movement: 100 years after Carl Sandstedt]] |
 | [[nanda-2012-orthodontic-force-biological-response-review|Biological response to orthodontic forces: PDL and alveolar bone remodeling]] |
+| [[petsos-2024-fixed-steel-retainer-gingival-health|Influence of fixed orthodontic steel retainers on gingival health and recessions of mandibular anterior teeth in an intact periodontium - a randomized, clinical controlled trial]] |
 | [[scribante-2017-dental-hygiene-orthodontics-effect|Dental Hygiene and Orthodontics: Effect of Ultrasonic Instrumentation on Bonding Efficacy of Different Lingual Orthodontic Brackets.]] |
 | [[tsolakis-2023-orthodontic-tooth-movement-molecular-narrative|Molecular and Biological Aspects of Orthodontic Tooth Movement: Possibilities for Bioengineering Intervention: A Narrative Review]] |
 | [[valeri-2024-impact-patient-attributes-implant-characteristics|What is the impact of patient attributes, implant characteristics, surgical techniques, and placement location on the success of orthodontic mini-implants in young adults? A Systematic Review and Meta-Analysis]] |
+| [[wafaie-2023-compliance-retainer-audiovisual-reminder|Compliance with retainer wear using audiovisual integration and reminder: a randomized clinical trial]] |
 | [[wise-2008-tooth-eruption-orthodontic-movement-mechanisms|Mechanisms of Tooth Eruption and Orthodontic Tooth Movement]] |
 | [[zhao-2025-periodontal-ligament-stem-cells-tissue|Periodontal Ligament Stem Cells in Tissue Remodeling: From Mechanical Forces to Inflammatory Signals]] |
 
