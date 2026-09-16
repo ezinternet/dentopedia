@@ -10,6 +10,7 @@ confidence: in-vivo
 pdf_path: /Users/oracleneo/llm-wiki/papers/keilig-2016-in-vivo-measurements-pdl.pdf
 pdf_filename: keilig-2016-in-vivo-measurements-pdl.pdf
 source_collection: external
+evidence_level: in-vivo
 tags: [pdl, biomechanics, young-modulus, fem, tooth-mobility, viscoelastic]
 relations:
   - type: extends
@@ -17,6 +18,22 @@ relations:
   - type: reinforces
     target: feller-2015-periodontal-ligament-bone-orthodontic-forces
 ---
+
+## Three-line Summary
+
+Custom intraoral device measured time-dependent PDL force/deflection in 5 healthy volunteers at 6 loading rates (0.1–5.0 s), yielding rate-dependent Young's modulus of 0.9–1.2 MPa — the first in vivo biomechanical characterisation of the human PDL.
+
+Individual 3D FEM models fitted to experimental curves confirmed viscoelastic/poroelastic behaviour: effective stiffness decreased monotonically with slower loading, and incisor forces at 0.1 s ranged 7.0–16.2 N across subjects.
+
+These in vivo benchmarks provide empirically validated input parameters for multiphasic PDL constitutive laws used in orthodontic tooth movement and implant biomechanics simulations.
+
+## 세줄요약
+
+구강 내 측정장치로 건강한 지원자 5명의 치주인대 (Periodontal Ligament, PDL)를 6가지 하중 속도(0.1–5.0 s)로 측정; 속도의존성 탄성계수 0.9–1.2 MPa를 최초로 in vivo 정량화한 연구.
+
+개인별 3D 유한요소 모델(Finite Element Model, FEM)로 실험 곡선과 수치 곡선을 fitting — 하중이 느릴수록 강성 감소(점탄성/공극탄성), 0.1 s에서 치아에 걸리는 힘은 7.0–16.2 N.
+
+이 in vivo 기준값은 교정 치아이동 (Orthodontic Tooth Movement, OTM) 및 임플란트 생체역학 시뮬레이션에 쓰이는 다상 구성방정식(multiphasic constitutive law)의 검증된 입력 파라미터를 제공한다.
 
 ## One-line Summary
 In vivo study (n=5) using a novel intraoral loading device to measure time-dependent PDL force/deflection characteristics, yielding a Young's modulus of 0.9–1.2 MPa that decreases with slower loading rates.
