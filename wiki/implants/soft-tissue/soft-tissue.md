@@ -2,7 +2,7 @@
 title: "임플란트·연조직 — soft-tissue"
 authors: navigation
 year: 2026
-date: 2026-08-11
+date: 2026-09-16
 doi: N/A
 source: navigation
 category: implants/soft-tissue
@@ -15,20 +15,20 @@ tags: [navigation, category-index, soft-tissue]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·연조직
 > - **범위**: Peri-implant soft tissue augmentation — keratinized mucosa (KM) width/thickness, buccal dehiscence (PSTD), soft tissue substitutes (xenogeneic collagen matrix vs autograft FGG/CTG), second-stage surgery, vestibuloplasty
-> - **수록 논문**: 41편
+> - **수록 논문**: 42편
 
 ## Three-line Summary
 
 **Scope**: Peri-implant soft tissue augmentation — keratinized mucosa (KM) width/thickness, buccal dehiscence (PSTD), soft tissue substitutes (xenogeneic collagen matrix vs autograft FGG/CTG), second-stage surgery, vestibuloplasty
-**Indexed papers**: 41 papers in `wiki/implants/soft-tissue/`.
+**Indexed papers**: 42 papers in `wiki/implants/soft-tissue/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·연조직
-**수록 논문**: 41편
+**수록 논문**: 42편
 **하위 카테고리**: 없음
 
-## Papers in this Category (41)
+## Papers in this Category (42)
 
 | Paper |
 |---|
@@ -46,6 +46,7 @@ tags: [navigation, category-index, soft-tissue]
 | [[han-2021-apf-keratinized-gingiva-implant-ridge-augmentation|The gain in keratinized gingiva using apically positioned flap during implant placement with and without ridge augmentation: A comparative prospective study]] |
 | [[jensen-2023-iti-consensus-bone-dimensions-soft-tissue|Group 1 ITI Consensus Report: The role of bone dimensions and soft tissue augmentation procedures on the stability of clinical, radiographic, and patient-reported outcomes of implant treatment]] |
 | [[jung-2021-flap-folding-suture-soft-tissue-implant|3D analysis of soft tissue around implant after flap folding suture]] |
+| [[kadkhodazadeh-2018-junctional-epithelium-epithelial-attachment-implant|Junctional Epithelium or Epithelial Attachment around Implant: Which Term is Desirable?: A Review]] |
 | [[kim-2009-blood-vessels-peri-implant-mucosa|Blood Vessels of the Peri-Implant Mucosa: A Comparison Between Flap and Flapless Procedures]] |
 | [[kim-2015-hard-soft-tissue-esthetic-zone|Hard and soft tissue management in esthetic zone: A Case Report]] |
 | [[le-2022-aesthetic-contour-graft-peri-implant|The Aesthetic Contour Graft - Enhancing peri-implant soft tissue contours and pontic sites with guided bone regeneration]] |
