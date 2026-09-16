@@ -16,21 +16,21 @@ tags: [navigation, category-index, orthodontics]
 > - **분야**: 교정학
 > - **범위**: Orthodontic miniscrews (TADs) — stability, failure risk, reuse; periodontal-orthodontic interactions; force biology
 > - **하위 카테고리**: [[clear-aligner]] · [[myofunctional]]
-> - **수록 논문**: 28편
+> - **수록 논문**: 29편
 
 ## Three-line Summary
 
 **Scope**: Orthodontic miniscrews (TADs) — stability, failure risk, reuse; periodontal-orthodontic interactions; force biology
-**Indexed papers**: 28 papers in `wiki/orthodontics/`.
+**Indexed papers**: 29 papers in `wiki/orthodontics/`.
 **Sub-categories**: [[clear-aligner]], [[myofunctional]]
 
 ## 세줄요약
 
 **분야**: 교정학
-**수록 논문**: 28편
+**수록 논문**: 29편
 **하위 카테고리**: clear-aligner, myofunctional
 
-## Papers in this Category (28)
+## Papers in this Category (29)
 
 | Paper |
 |---|
@@ -55,6 +55,7 @@ tags: [navigation, category-index, orthodontics]
 | [[mohammed-2018-miniscrew-anatomical-site-failure-sr-ma|Role of anatomical sites and correlated risk factors on the survival of orthodontic miniscrew implants: a systematic review and meta-analysis]] |
 | [[murray-2006-tissue-cellular-molecular-orthodontic-100years|The tissue, cellular, and molecular regulation of orthodontic tooth movement: 100 years after Carl Sandstedt]] |
 | [[nanda-2012-orthodontic-force-biological-response-review|Biological response to orthodontic forces: PDL and alveolar bone remodeling]] |
+| [[papadopoulou-2013-biomechanical-time-dependency-periodontal-ligament|Biomechanical time dependency of the periodontal ligament: a combined experimental and numerical approach]] |
 | [[petsos-2024-fixed-steel-retainer-gingival-health|Influence of fixed orthodontic steel retainers on gingival health and recessions of mandibular anterior teeth in an intact periodontium - a randomized, clinical controlled trial]] |
 | [[scribante-2017-dental-hygiene-orthodontics-effect|Dental Hygiene and Orthodontics: Effect of Ultrasonic Instrumentation on Bonding Efficacy of Different Lingual Orthodontic Brackets.]] |
 | [[tsolakis-2023-orthodontic-tooth-movement-molecular-narrative|Molecular and Biological Aspects of Orthodontic Tooth Movement: Possibilities for Bioengineering Intervention: A Narrative Review]] |
