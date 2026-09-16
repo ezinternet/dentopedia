@@ -1451,6 +1451,7 @@ tags: []
 - [[orthodontics/jkda-2023-61-6-003]] — Retrospective (가천대 길병원 교정과, JKDA 2023, n=438, 570 cases): 한국 매복치 환자 분포·상악 매복 견치 견인 성공률·치료기간 인자
 - [[orthodontics/scribante-2017-dental-hygiene-orthodontics-effect]] — Scribante 2017 · in-vitro (소 치아 200개) · 초음파 스케일링(UI)이 설측 교정 브라켓 4종 결합강도(SBS)·ARI에 미치는 영향 — 베이스 면적 작은 브라켓(TTR·Idea·2D)은 SBS 유의감소(일부 6-8MPa 미만), 큰 브라켓(Victory·STB)은 무영향 (DOI 10.1155/2017/3714651)
 - [[orthodontics/zhao-2025-periodontal-ligament-stem-cells-tissue]] — PDLSCs의 기계적 힘(교정력)·염증 반응에 의한 치조골 리모델링 기전 종합 리뷰: 기계수용(TRPV4·Piezo1)·면역조절(T세포·대식세포·exosome) 경로 망라
+- [[orthodontics/jepsen-2023-biomechanical-properties-periodontal-tissues-non-periodontitis]] — Cross-sectional (Bonn, COI 2023;27:797, 28 치주염+20 건강, 68 절치): 구강 내 하중장치(ILD) 시간의존 치아 동요도 — 치주염 치아 Fmax 유의 감소(12.3/12.4/10.1 vs 16.3/15.4/16.3 N/mm, p=0.024/0.067/0.001); CAL과 역상관(r≈−0.5), BOP와 0.5s 상관(r=−0.52) — relations: extends keilig-2016 (DOI 10.1007/s00784-023-04859-w)
 
 ## 재생근관치료 (Endodontics: Regenerative)
 - [[endodontics/regenerative/zhou-2022-regenerative-endodontic-immature-teeth-trauma]] — Narrative review (Front Dent Med 2022): REP in traumatized IPT — apexification vs REP goal distinction; partial pulpotomy/revascularization approaches; heterogeneous evidence from case reports
