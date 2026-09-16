@@ -742,7 +742,8 @@ tags: []
 - [[sinus-lift/transcrestal/al-aroomi-2024-cgf-maxillary-sinus-augmentation-sr]] — SR(13편, 경치조골+측방창): CGF 단독·이식재 병용 모두 신생골·술후 후유증·생존 개선 경향이나 이질성·RCT 부족으로 확정 불가 (2024)
 - [[sinus-lift/transcrestal/duan-2017-graft-free-maxillary-sinus-floor-elevation-sr-ma]] — SR+MA(22편/864 임플란트): 무이식 거상 동시식립 생존율 97.9%·수직 골증대 3.8mm; VBG 결정인자 = 술식·임플란트 길이·즉시 돌출길이(PILi, R² 83.9%) (2017)
 - [[sinus-lift/transcrestal/damsaz-2023-bppv-incidence-closed-sinus-lift-ridge-split]] — 전향적 코호트(n=112, abstract-only): 폐쇄형 상악동거상술 후 BPPV 발생률 3.1% vs 치조제분할술 0% (p=0.509, 유의차 없음) — 대조군 비교 BPPV 발생률 데이터 (2023)
-- [[sinus-lift/transcrestal/akcay-2016-bppv-sinus-floor-elevation-antecedent-vertigo]] — 증례보고(n=1, abstract-only): OSFE 후 지속성 BPPV — 사전 어지럼증 병력 있는 환자에서 10일간 반복 이석정복술+수액치료 필요; 술전 어지럼증 병력 스크리닝 시사 (2016)
+- [[sinus-lift/transcrestal/akcay-2016-bppv-sinus-floor-elevation-antecedent-vertigo]] — 증례보고(n=1, abstract-only): OSFE 후 지속성 BPPV — 사전 어지럼증 병력 있는 환자에서 10일간 반복 이석정복복+수액치료 필요; 술전 어지럼증 병력 스크리닝 시사 (2016)
+- [[sinus-lift/transcrestal/deng-2024-biomechanical-analysis-maxillary-sinus-floor]] — 3D FEA(각도 3모델·박리 0/4mm): 10mm 거상 시 첨두 막 응력 45° 78.32 vs 125° 51.87 MPa; 점막 박리 4mm 시 좁은 상악동 91%↓(7.25 MPa) — 좁은 동에서 천공위험 높은 역학적 근거 + 수정 내부거상술 타당성 (2024)
 
 ## 상악동거상술 — 점액낭종·위낭종 (Sinus Lift: Pseudocyst / Mucous Retention Cyst)
 - [[sinus-lift/pseudocyst/anitua-2021-mucous-cysts-pseudocysts-implants-sr]] — SR (Anitua 그룹, Med Oral 2021): 상악동 MRC/pseudocyst가 implant·sinus lift outcome 위험인자인가 — 임상적으로 유의한 위험 증가 미입증. 결정 트리 1단계 anchor
