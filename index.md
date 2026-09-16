@@ -1456,6 +1456,7 @@ tags: []
 - [[orthodontics/zhao-2025-periodontal-ligament-stem-cells-tissue]] — PDLSCs의 기계적 힘(교정력)·염증 반응에 의한 치조골 리모델링 기전 종합 리뷰: 기계수용(TRPV4·Piezo1)·면역조절(T세포·대식세포·exosome) 경로 망라
 - [[orthodontics/jepsen-2023-biomechanical-properties-periodontal-tissues-non-periodontitis]] — Cross-sectional (Bonn, COI 2023;27:797, 28 치주염+20 건강, 68 절치): 구강 내 하중장치(ILD) 시간의존 치아 동요도 — 치주염 치아 Fmax 유의 감소(12.3/12.4/10.1 vs 16.3/15.4/16.3 N/mm, p=0.024/0.067/0.001); CAL과 역상관(r≈−0.5), BOP와 0.5s 상관(r=−0.52) — relations: extends keilig-2016 (DOI 10.1007/s00784-023-04859-w)
 - [[orthodontics/papadopoulou-2013-biomechanical-time-dependency-periodontal-ligament]] — In-vitro+FEM (EJO 2013;35:811, 돼지 PDL+μCT FEM): PDL 이중선형 점탄성 파라미터 — E1 0.015–0.15 MPa, E2 0.04–1.00 MPa, 하중 5 s에서 등가응력 2.2 MPa vs 600 s 0.17 MPa (속도↑→강성↑); 응력은 분기부 집중 — relations: related keilig-2016, jepsen-2023 (DOI 10.1093/ejo/cjs103)
+- [[orthodontics/salamati-2020-functional-tooth-mobility-young-pigs]] — In-vivo 동물 (J Biomech 2020;104:109716, 돼지 12마리, NIHMS 1630169): 교합강타 중 구치 협측·치근단 변위 192±95 μm(씹는 쪽 무관), PDL 압력 3.63±0.80 kPa, 협측판 압축변형률>구개판, 깨물근 자극 20–302 μm(평균 113±89); μCT PDL 폭 250–400 μm는 동요도보다 항상 크고 상관 없음 — PDL 파라미터 FEM 검증의 생리적 기준 (DOI 10.1016/j.jbiomech.2020.109716)
 
 ## 재생근관치료 (Endodontics: Regenerative)
 - [[endodontics/regenerative/zhou-2022-regenerative-endodontic-immature-teeth-trauma]] — Narrative review (Front Dent Med 2022): REP in traumatized IPT — apexification vs REP goal distinction; partial pulpotomy/revascularization approaches; heterogeneous evidence from case reports
