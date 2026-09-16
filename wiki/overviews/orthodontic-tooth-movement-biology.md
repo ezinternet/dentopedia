@@ -72,6 +72,7 @@ OTM은 PDL(치주인대) 압박-인장 응력 → 세포 변형 → 사이토카
 | [[orthodontics/li-2021-periodontium-orthodontic-tooth-movement-biomechanics]] | narrative-review (체계 검색 170편) | 4단계 모형: ECM mechanobiology → 세포 변형 → 세포 활성화 → 조직 재형성 |
 | [[orthodontics/feller-2015-periodontal-ligament-bone-orthodontic-forces]] | narrative-review | 교정력 적용 시 PDL과 치조골 생물학적 사건 |
 | [[orthodontics/feller-2015-periodontal-cytoskeleton-ecm-orthodontic]] | narrative-review | PDL 세포골격 + ECM의 생체역학적 역할 |
+| [[orthodontics/keilig-2016-in-vivo-measurements-pdl]] | in-vivo (n=5) | PDL 탄성계수 in vivo 실측: E=0.9–1.2 MPa (하중 속도 의존, 0.1–5.0 s); 수치 모델 피팅 |
 
 ### 축 3 — 동물 모델 & 인과성
 
