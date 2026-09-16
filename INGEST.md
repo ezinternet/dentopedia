@@ -138,6 +138,28 @@ print(text[:12000])
 " "/Users/oracleneo/llm-wiki/papers/{stem}.pdf"
 ```
 
+### Step 1-P — PMC PoW 다운로드 분기 (출판사/PMC 차단 시)
+
+2026-09-16 실측 (zhai-2018, PMC6033247). DOI → 출판사 → PMC 경로에서 PDF가 Cloudflare("Just a moment...") 또는 **Proof-of-Work 챌린지**("Preparing to download ..." HTML)로 막힐 때:
+
+- **PMC 전체 직접 PDF URL 패턴**: `https://pmc.ncbi.nlm.nih.gov/articles/{PMCID}/pdf/{file}.pdf` — 랜딩 페이지 "Download PDF" 링크의 href와 동일 (예: `PMC6033247/pdf/BMRI2018-2829163.pdf`).
+- **PoW 구조**: "Preparing to download" HTML 안의 스크립트가 챌린지를 준다:
+  ```html
+  const POW_CHALLENGE = "..."; const POW_DIFFICULTY = "4";
+  const POW_COOKIE_NAME = "cloudpmc-viewer-pow";
+  ```
+  퍼즐 = `sha256(challenge + nonce)` hex가 `"0".repeat(difficulty)`로 시작하는 nonce 탐색 (difficulty 4 = 평균 65,536회, node로 <1초). 해시 함수는 vendor 스크립트(`vendor-*.js`)에서 실제로 `sha256`임을 확인할 것.
+- **쿠키 값**: `cloudpmc-viewer-pow=<challenge>,<nonce>`, 만료는 페이지가 정하는 대로 (observed 0.208333일 ≈ 12.5분). 이후:
+  ```bash
+  curl -A "<브라우저 UA>" -b "cloudpmc-viewer-pow=<challenge>,<nonce>" \
+       -H "Referer: https://pmc.ncbi.nlm.nih.gov/articles/{PMCID}/" \
+       -o papers/{stem}.pdf "https://pmc.ncbi.nlm.nih.gov/articles/{PMCID}/pdf/{file}.pdf"
+  ```
+- **검증**: 첫 8바이트가 `%PDF-`로 시작하는지 + pypdf로 페이지 수·1페이지 제목 대조.
+- 챌린지·난이도·만료는 **요청마다 다르다** — 그때그때 "Preparing to download" HTML을 받아 파싱할 것.
+- **playwright 경로는 작동 안 함** (2026-09-16 실측): 랜딩 페이지를 브라우저로 열어 `cloudpmc-viewer-pow` 쿠키가 자동 생성되길 60초 대기했으나 미생성, PDF 요청 403 유지. PoW만 브라우저가 푸는 게 아니라 쿠키 세팅까지 JS에 의존해서다 — 수동 계산(위 curl)이 확실한 경로다.
+- line 124-139의 Step 1 복사·추출 절차로 그대로 이어진다. 인제스트라면 이 PDF를 papers/에 두고 Step 0 dedup부터 정식 파이프라인을 탄다.
+
 ### Step 1-T — PubMed-text 분기 (PDF 없는 OA/전문)
 
 PubMed MCP `get_full_text_article`로 전문을 받은 경우 PDF가 없다. PDF 복사 대신 받은 전문을 `papers/{stem}.txt`로 저장하고, 그 텍스트로 Step 2·3을 작성한다. PMC 전문은 JATS 기반이라 pypdf 추출본보다 깨끗한 경우가 많다.
