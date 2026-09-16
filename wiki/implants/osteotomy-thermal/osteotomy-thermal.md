@@ -2,7 +2,7 @@
 title: "임플란트·골절개·발열 — osteotomy-thermal"
 authors: navigation
 year: 2026
-date: 2026-08-31
+date: 2026-09-16
 doi: N/A
 source: navigation
 category: implants/osteotomy-thermal
@@ -15,23 +15,24 @@ tags: [navigation, category-index, osteotomy-thermal]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·골절개·발열
 > - **범위**: Implant osteotomy preparation & thermal injury — bone-drilling heat generation and thermal-osteonecrosis thresholds, drill design/material/wear, irrigation & cooling (internal/external, CFD modelling), drilling speed and continuous vs intermittent protocols, piezosurgery, undersized preparation & ta…
-> - **수록 논문**: 35편
+> - **수록 논문**: 36편
 
 ## Three-line Summary
 
 **Scope**: Implant osteotomy preparation & thermal injury — bone-drilling heat generation and thermal-osteonecrosis thresholds, drill design/material/wear, irrigation & cooling (internal/external, CFD modelling), drilling speed and continuous vs intermittent protocols, piezosurgery, undersized preparation & tapping, guided-sleeve drilling temperature, histologic/histomorphometric implant-bed studies.
-**Indexed papers**: 35 papers in `wiki/implants/osteotomy-thermal/`.
+**Indexed papers**: 36 papers in `wiki/implants/osteotomy-thermal/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·골절개·발열
-**수록 논문**: 35편
+**수록 논문**: 36편
 **하위 카테고리**: 없음
 
-## Papers in this Category (35)
+## Papers in this Category (36)
 
 | Paper |
 |---|
+| [[almo-2025-bone-density-drill-heat-osteotomy|The interactive effect of bone density and drill type on heat generated during drilling of dental implant osteotomy: a single versus sequential drills in vitro experiment]] |
 | [[aquilanti-2023-heat-generation-initial-osteotomy|Heat Generation During Initial Osteotomy for Implant Site Preparation: An In Vitro Measurement Study]] |
 | [[batz-2019-influence-broach-design-bone-friction|The influence of broach design on bone friction and osseodensification in total hip arthroplasty]] |
 | [[bento-2023-steel-versus-zirconia-drills-heat|Steel drills versus zirconia drills on heat generation at the surgical site of dental implants: A systematic review and meta-analysis]] |
