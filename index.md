@@ -1440,6 +1440,7 @@ tags: []
 - [[orthodontics/krishnan-2006-cellular-molecular-tissue-orthodontic-force]] — 교정력 반응 포괄 고찰 — 압박측 파골세포·장력측 조골세포 활성, 사이토카인(IL-1β·TNF-α·PGE₂) 신호.
 - [[orthodontics/murray-2006-tissue-cellular-molecular-orthodontic-100years]] — Sandstedt(1904) 100주년 고찰 — 고전 압박/장력 이론부터 현대 RANKL/OPG 기전까지.
 - [[orthodontics/feller-2015-periodontal-ligament-bone-orthodontic-forces]] — 교정력 적용 시 PDL·치조골 생물학적 사건 — 혈류 변화·세포 활성·사이토카인 신호.
+- [[orthodontics/keilig-2016-in-vivo-measurements-pdl]] — In vivo (n=5) 구강 내 측정장치로 PDL 시간의존적 탄성계수 정량: E=0.9 MPa(5.0 s) ~ 1.2 MPa(0.1 s); FEM 개인별 피팅 (DOI 10.1016/j.aanat.2015.08.004)
 - [[orthodontics/feller-2015-periodontal-cytoskeleton-ecm-orthodontic]] — 교정적 치아이동 시 PDL 세포골격(actin)·ECM(fibronectin·collagen) 생체역학 — integrin 기계신호 전달.
 - [[orthodontics/nanda-2012-orthodontic-force-biological-response-review]] — 교정력에 대한 PDL·치조골 반응 요약 — 신경전달물질·사이토카인·cathepsin K·MMP 역할.
 - [[orthodontics/alharbi-2018-miniscrew-failure-rate-orthodontics-sr-ma]] — SR+MA (46편, n=3,250): 교정용 미니스크류 전체 실패율 13.5%; 각화치은·흡연만 유의한 위험인자, 직경·나이·악골 위치 비유의.
