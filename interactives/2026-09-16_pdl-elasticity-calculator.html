@@ -1,0 +1,847 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>PDL Elasticity</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,300;0,8..60,400;0,8..60,600;1,8..60,300;1,8..60,400&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;1,9..40,300&family=JetBrains+Mono:wght@400;600&display=swap">
+<style>
+:root {
+  --bg:         #F3F2EE;
+  --bg-card:    #FAFAF8;
+  --bg-surface: #FFFFFF;
+  --text:       #1A2822;
+  --text-muted: #587068;
+  --text-faint: #9AB0A8;
+  --accent:     #2B6B59;
+  --accent-lt:  #D4EDE6;
+  --amber:      #A86228;
+  --amber-bg:   #F6ECDF;
+  --danger:     #BF4A30;
+  --danger-bg:  #F9E6E1;
+  --ok:         #2B6B59;
+  --ok-bg:      #D4EDE6;
+  --border:     #CCC9C0;
+  --border-hi:  #9A968E;
+  --serif:      'Source Serif 4', Georgia, serif;
+  --sans:       'DM Sans', system-ui, sans-serif;
+  --mono:       'JetBrains Mono', monospace;
+  --r:          4px;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg:         #121C18;
+    --bg-card:    #1A2822;
+    --bg-surface: #223028;
+    --text:       #D8E8E2;
+    --text-muted: #7A9E94;
+    --text-faint: #3E5850;
+    --accent:     #3D9B80;
+    --accent-lt:  #183530;
+    --amber:      #C87E45;
+    --amber-bg:   #2A1C0E;
+    --danger:     #E06040;
+    --danger-bg:  #381612;
+    --ok:         #3D9B80;
+    --ok-bg:      #183530;
+    --border:     #2A3830;
+    --border-hi:  #4A6058;
+  }
+}
+:root[data-theme="dark"] {
+  --bg:         #121C18;
+  --bg-card:    #1A2822;
+  --bg-surface: #223028;
+  --text:       #D8E8E2;
+  --text-muted: #7A9E94;
+  --text-faint: #3E5850;
+  --accent:     #3D9B80;
+  --accent-lt:  #183530;
+  --amber:      #C87E45;
+  --amber-bg:   #2A1C0E;
+  --danger:     #E06040;
+  --danger-bg:  #381612;
+  --ok:         #3D9B80;
+  --ok-bg:      #183530;
+  --border:     #2A3830;
+  --border-hi:  #4A6058;
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html, body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--sans);
+  font-size: 15px;
+  line-height: 1.6;
+  min-height: 100%;
+}
+
+body {
+  padding: 0 0 env(safe-area-inset-bottom, 0px);
+}
+
+/* ─── HEADER ─────────────────────────────────────────── */
+header {
+  padding: 28px 32px 24px;
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  align-items: baseline;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.page-title {
+  font-family: var(--serif);
+  font-size: 1.55rem;
+  font-weight: 400;
+  letter-spacing: -0.01em;
+  color: var(--text);
+}
+
+.page-title em {
+  font-style: italic;
+  color: var(--amber);
+}
+
+.page-meta {
+  font-size: 0.78rem;
+  color: var(--text-muted);
+  font-weight: 300;
+}
+
+.page-meta strong {
+  color: var(--accent);
+  font-weight: 500;
+}
+
+/* ─── MAIN GRID ──────────────────────────────────────── */
+main {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0;
+  min-height: calc(100vh - 97px);
+}
+
+.panel {
+  padding: 28px 32px;
+}
+
+.panel + .panel {
+  border-left: 1px solid var(--border);
+}
+
+.panel-label {
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--text-faint);
+  margin-bottom: 24px;
+}
+
+/* ─── CALCULATOR PANEL ───────────────────────────────── */
+.calc-panel {}
+
+.slider-section {
+  margin-bottom: 28px;
+}
+
+.slider-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 12px;
+}
+
+.slider-label {
+  font-size: 0.82rem;
+  color: var(--text-muted);
+  font-weight: 400;
+}
+
+.slider-val {
+  font-family: var(--mono);
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: var(--text);
+  font-variant-numeric: tabular-nums;
+}
+
+/* Custom range */
+input[type=range] {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 100%;
+  height: 4px;
+  border-radius: 2px;
+  background: var(--border);
+  outline: none;
+  cursor: pointer;
+  position: relative;
+}
+
+input[type=range]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: var(--accent);
+  border: 3px solid var(--bg-card);
+  box-shadow: 0 0 0 1.5px var(--accent);
+  cursor: pointer;
+  transition: box-shadow 0.15s;
+}
+
+input[type=range]::-webkit-slider-thumb:hover {
+  box-shadow: 0 0 0 4px var(--accent-lt);
+}
+
+input[type=range]:focus {
+  outline: none;
+}
+
+input[type=range]:focus-visible::-webkit-slider-thumb {
+  box-shadow: 0 0 0 4px var(--accent-lt);
+}
+
+.slider-ticks {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 6px;
+}
+
+.slider-tick {
+  font-family: var(--mono);
+  font-size: 0.68rem;
+  color: var(--text-faint);
+  font-variant-numeric: tabular-nums;
+}
+
+/* ─── E VALUE DISPLAY ────────────────────────────────── */
+.e-display {
+  background: var(--amber-bg);
+  border: 1px solid var(--border);
+  border-radius: var(--r);
+  padding: 20px 24px;
+  margin-bottom: 20px;
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 0 16px;
+  align-items: center;
+}
+
+.e-label {
+  font-size: 0.72rem;
+  color: var(--amber);
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  grid-column: 1;
+  grid-row: 1;
+}
+
+.e-value {
+  font-family: var(--serif);
+  font-size: 3.2rem;
+  font-weight: 300;
+  color: var(--amber);
+  letter-spacing: -0.03em;
+  font-variant-numeric: tabular-nums;
+  line-height: 1;
+  grid-column: 1;
+  grid-row: 2;
+  white-space: nowrap;
+}
+
+.e-unit {
+  font-family: var(--serif);
+  font-size: 1.2rem;
+  font-weight: 300;
+  font-style: italic;
+  color: var(--amber);
+  opacity: 0.7;
+  align-self: flex-end;
+  padding-bottom: 4px;
+}
+
+.e-note {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  grid-column: 1 / -1;
+  grid-row: 3;
+  margin-top: 6px;
+  font-style: italic;
+}
+
+/* ─── CONTEXT BADGE ──────────────────────────────────── */
+.context-block {
+  margin-bottom: 20px;
+}
+
+.context-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 10px;
+  border-radius: 99px;
+  font-size: 0.73rem;
+  font-weight: 500;
+  margin-bottom: 8px;
+  transition: background 0.2s, color 0.2s;
+}
+
+.context-badge.impact    { background: var(--danger-bg); color: var(--danger); }
+.context-badge.chewing   { background: var(--ok-bg);     color: var(--ok); }
+.context-badge.sustained { background: var(--amber-bg);  color: var(--amber); }
+.context-badge.ortho     { background: var(--accent-lt); color: var(--accent); }
+
+.context-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: currentColor;
+  flex-shrink: 0;
+}
+
+.context-desc {
+  font-size: 0.82rem;
+  color: var(--text-muted);
+  line-height: 1.5;
+}
+
+.context-force {
+  margin-top: 10px;
+  font-size: 0.75rem;
+  color: var(--text-faint);
+  font-family: var(--mono);
+  font-variant-numeric: tabular-nums;
+}
+
+/* ─── MINI CHART ─────────────────────────────────────── */
+.chart-wrap {
+  margin-top: 4px;
+}
+
+.chart-wrap canvas {
+  width: 100%;
+  height: 80px;
+  display: block;
+}
+
+.chart-axis-labels {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2px;
+}
+
+.chart-axis-label {
+  font-family: var(--mono);
+  font-size: 0.65rem;
+  color: var(--text-faint);
+  font-variant-numeric: tabular-nums;
+}
+
+/* ─── LITERATURE PANEL ───────────────────────────────── */
+.lit-panel {}
+
+.lit-intro {
+  font-size: 0.82rem;
+  color: var(--text-muted);
+  margin-bottom: 20px;
+  line-height: 1.55;
+  max-width: 52ch;
+}
+
+.lit-table-wrap {
+  overflow-x: auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.8rem;
+}
+
+thead th {
+  font-size: 0.65rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--text-faint);
+  padding: 0 12px 10px 0;
+  text-align: left;
+  border-bottom: 1px solid var(--border);
+  white-space: nowrap;
+}
+
+tbody tr {
+  border-bottom: 1px solid var(--border);
+}
+
+tbody tr:last-child {
+  border-bottom: none;
+}
+
+tbody td {
+  padding: 11px 12px 11px 0;
+  vertical-align: top;
+  line-height: 1.4;
+  color: var(--text);
+}
+
+tbody td:first-child {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+}
+
+.e-range {
+  font-family: var(--mono);
+  font-size: 0.78rem;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+.method-badge {
+  display: inline-block;
+  padding: 1px 6px;
+  border-radius: 3px;
+  font-size: 0.65rem;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.method-badge.fem      { background: var(--bg-surface); color: var(--text-muted); border: 1px solid var(--border); }
+.method-badge.visco    { background: var(--accent-lt);  color: var(--accent); border: 1px solid transparent; }
+.method-badge.invivo   { background: var(--amber-bg);   color: var(--amber); border: 1px solid var(--border); }
+.method-badge.exvivo   { background: var(--bg-surface); color: var(--text-muted); border: 1px solid var(--border); }
+
+.row-highlight td {
+  background: var(--amber-bg);
+}
+
+.row-highlight td:first-child::before {
+  content: "★ ";
+  color: var(--amber);
+}
+
+.rate-dep {
+  font-size: 0.68rem;
+  color: var(--text-faint);
+}
+
+.rate-dep.yes { color: var(--accent); }
+
+/* ─── CURRENT E MARKER in table ─────────────────────── */
+.e-live-bar {
+  height: 3px;
+  border-radius: 2px;
+  background: var(--accent);
+  margin-top: 4px;
+  transition: width 0.15s;
+}
+
+/* ─── FOOTER NOTE ────────────────────────────────────── */
+.footer-note {
+  padding: 14px 32px;
+  border-top: 1px solid var(--border);
+  font-size: 0.72rem;
+  color: var(--text-faint);
+  display: flex;
+  gap: 24px;
+  flex-wrap: wrap;
+}
+
+.footer-note a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+/* ─── RESPONSIVE ─────────────────────────────────────── */
+@media (max-width: 680px) {
+  header {
+    padding: 20px 16px 16px;
+    flex-direction: column;
+    gap: 4px;
+  }
+
+  main {
+    grid-template-columns: 1fr;
+  }
+
+  .panel {
+    padding: 20px 16px;
+  }
+
+  .panel + .panel {
+    border-left: none;
+    border-top: 1px solid var(--border);
+  }
+
+  .e-value { font-size: 2.5rem; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; }
+}
+</style>
+</head>
+<body>
+
+<header>
+  <h1 class="page-title">PDL <em>Elasticity</em></h1>
+  <p class="page-meta">치주인대 탄성계수 계산기 &amp; 문헌 비교 &nbsp;·&nbsp; <strong>Keilig et al. 2016</strong> in vivo 기반</p>
+</header>
+
+<main>
+  <!-- ── LEFT: CALCULATOR ───────────────── -->
+  <section class="panel calc-panel">
+    <p class="panel-label">탄성계수 계산기</p>
+
+    <div class="slider-section">
+      <div class="slider-header">
+        <span class="slider-label">하중 시간 (Loading time)</span>
+        <span class="slider-val" id="t-display">0.80 s</span>
+      </div>
+      <input
+        type="range"
+        id="t-slider"
+        min="0"
+        max="100"
+        value="43"
+        aria-label="하중 시간 슬라이더"
+        aria-valuemin="0.1"
+        aria-valuemax="5.0"
+      >
+      <div class="slider-ticks">
+        <span class="slider-tick">0.1 s</span>
+        <span class="slider-tick">0.5 s</span>
+        <span class="slider-tick">1.0 s</span>
+        <span class="slider-tick">5.0 s</span>
+      </div>
+    </div>
+
+    <div class="e-display">
+      <span class="e-label">Young's Modulus (E)</span>
+      <span class="e-value" id="e-display">1.09</span>
+      <span class="e-unit">MPa</span>
+      <span class="e-note" id="e-note">하중 속도 감소 → 유체상 이완 → E 감소 (점탄성)</span>
+    </div>
+
+    <div class="context-block">
+      <div class="context-badge" id="ctx-badge">
+        <span class="context-dot"></span>
+        <span id="ctx-label">저작 운동</span>
+      </div>
+      <p class="context-desc" id="ctx-desc">정상 저작 운동 구간. PDL이 유체 완충 + 탄성 섬유 하중 분산을 병행하는 혼합 구간.</p>
+      <p class="context-force" id="ctx-force">참고 변위 0.15 mm 기준 힘: ~7–16 N (0.1 s 측정값, n=5)</p>
+    </div>
+
+    <div class="chart-wrap">
+      <canvas id="e-chart" height="80" aria-label="E vs 하중시간 그래프"></canvas>
+      <div class="chart-axis-labels">
+        <span class="chart-axis-label">0.1 s</span>
+        <span class="chart-axis-label">← 하중 시간 →</span>
+        <span class="chart-axis-label">5.0 s</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── RIGHT: LITERATURE ──────────────── -->
+  <section class="panel lit-panel">
+    <p class="panel-label">문헌 비교</p>
+    <p class="lit-intro">
+      FEM 치아 시뮬레이션은 PDL 탄성계수를 가정값으로 입력한다.
+      실측 in vivo 기준값이 없었던 시기(1983–2015)의 가정 범위는 17× 이상 차이났다.
+      Keilig 2016은 최초의 구강 내 실측 기준값을 제공한다.
+    </p>
+
+    <div class="lit-table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>출처</th>
+            <th>방법</th>
+            <th>E (MPa)</th>
+            <th>속도의존</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Tanne &amp; Sakuda 1983<br><span style="font-size:0.68rem;color:var(--text-faint)">Am J Orthod</span></td>
+            <td><span class="method-badge fem">FEM 가정</span></td>
+            <td><span class="e-range">1.74</span></td>
+            <td><span class="rate-dep">—</span></td>
+          </tr>
+          <tr>
+            <td>Andersen et al. 1991<br><span style="font-size:0.68rem;color:var(--text-faint)">J Biomed Eng</span></td>
+            <td><span class="method-badge fem">FEM 가정</span></td>
+            <td><span class="e-range">0.17</span></td>
+            <td><span class="rate-dep">—</span></td>
+          </tr>
+          <tr>
+            <td>Provatidis 2000<br><span style="font-size:0.68rem;color:var(--text-faint)">Med Eng Phys</span></td>
+            <td><span class="method-badge fem">FEM 가정</span></td>
+            <td><span class="e-range">0.10–0.20</span></td>
+            <td><span class="rate-dep">—</span></td>
+          </tr>
+          <tr>
+            <td>Natali et al. 2004<br><span style="font-size:0.68rem;color:var(--text-faint)">Dent Mater</span></td>
+            <td><span class="method-badge fem">비선형 FEM</span></td>
+            <td><span class="e-range">0.07–0.20</span></td>
+            <td><span class="rate-dep">—</span></td>
+          </tr>
+          <tr>
+            <td>Qian et al. 2009<br><span style="font-size:0.68rem;color:var(--text-faint)">J Biomech</span></td>
+            <td><span class="method-badge visco">점탄성 FEM</span></td>
+            <td><span class="e-range">0.30–2.00</span></td>
+            <td><span class="rate-dep yes">✓ 속도의존</span></td>
+          </tr>
+          <tr>
+            <td>Bergomi et al. 2011<br><span style="font-size:0.68rem;color:var(--text-faint)">J Biomech</span></td>
+            <td><span class="method-badge visco">이상유체탄성</span></td>
+            <td><span class="e-range">0.50–1.00</span></td>
+            <td><span class="rate-dep yes">✓ 유체상 포함</span></td>
+          </tr>
+          <tr class="row-highlight">
+            <td><strong>Keilig et al. 2016</strong><br><span style="font-size:0.68rem;color:var(--amber)">Ann Anat · 이 논문</span></td>
+            <td><span class="method-badge invivo">In vivo</span></td>
+            <td>
+              <span class="e-range" style="color:var(--amber);font-weight:600">0.9–1.2</span>
+              <div class="e-live-bar" id="live-bar" style="width:60%"></div>
+            </td>
+            <td><span class="rate-dep yes" style="color:var(--amber)">✓ 실측 속도의존</span></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div style="margin-top:20px; padding:14px 16px; background:var(--bg-surface); border:1px solid var(--border); border-radius:var(--r); font-size:0.77rem; color:var(--text-muted); line-height:1.55;">
+      <strong style="color:var(--text); font-weight:500;">해석 주의사항</strong><br>
+      FEM 가정값(0.17–1.74 MPa)의 10× 분산은 측정 방법 부재에서 기인. Keilig 2016 in vivo 값(0.9–1.2 MPa)은 최초 실측 기준이나 n=5(상악 전치), 건강 치주 한정 — 치주염 환자·구치부는 다를 수 있음.
+    </div>
+  </section>
+</main>
+
+<footer class="footer-note">
+  <span>Keilig L et al. <em>Ann Anat</em> 207, 2016 · DOI 10.1016/j.aanat.2015.08.004</span>
+  <span>n=5 건강 성인 · 상악 중절치 · 변위 0–0.15 mm</span>
+  <span>E 추정식: 로그 보간 (0.1→1.2 MPa, 5.0→0.9 MPa)</span>
+</footer>
+
+<script>
+/* ── DATA & CONSTANTS ─────────────────────────── */
+const E_FAST = 1.2;   // MPa at 0.1 s
+const E_SLOW = 0.9;   // MPa at 5.0 s
+const T_MIN  = 0.1;
+const T_MAX  = 5.0;
+const LN_RANGE = Math.log(T_MAX / T_MIN); // ln(50) ≈ 3.912
+
+function sliderToT(s) {
+  // s: 0..100 → t: 0.1..5.0 (log scale)
+  return T_MIN * Math.exp((s / 100) * LN_RANGE);
+}
+
+function tToE(t) {
+  // log-interpolate E between fast/slow
+  const frac = Math.log(t / T_MIN) / LN_RANGE; // 0..1
+  return E_FAST - (E_FAST - E_SLOW) * frac;
+}
+
+function tToSlider(t) {
+  return Math.log(t / T_MIN) / LN_RANGE * 100;
+}
+
+/* ── CONTEXT MAPPING ─────────────────────────── */
+function getContext(t) {
+  if (t < 0.25) return {
+    cls: 'impact',
+    label: '충격성 하중 (Impact)',
+    desc: '브럭시즘·이갈기·급격한 교합 접촉 구간. PDL이 최대 강성 상태 — 유체 이완 전 콜라겐 섬유 주도. 치아 지지 조직에 가장 높은 순간 응력 발생.',
+    force: '실측 힘 (0.15 mm·0.1 s): 7.0–16.2 N · n=5'
+  };
+  if (t < 0.8) return {
+    cls: 'chewing',
+    label: '저작 운동 (Chewing)',
+    desc: '정상 저작 운동 구간. PDL 유체 완충과 콜라겐 탄성이 함께 작용하는 생리적 설계 범위. 교합력의 대부분이 이 구간에 해당.',
+    force: '변위 0.15 mm 기준 힘: 약 8–14 N (보간 추정)'
+  };
+  if (t < 2.5) return {
+    cls: 'sustained',
+    label: '지속 교합·연하 (Sustained)',
+    desc: '연하 반사, 지속 교합 접촉, 클렌칭 후반부. 유체상 이완이 진행되며 E가 낮아짐. 치간 위치 반사 수용체 활성화 구간.',
+    force: '실측 기준 외 (가정: E 보간값 적용, 힘 감소 구간)'
+  };
+  return {
+    cls: 'ortho',
+    label: '교정력 초기 반응 (Ortho)',
+    desc: '지속적 저부하 교정력 초기 반응 구간. 실제 교정 치아이동(OTM)은 시간 단위→주 단위이므로 이 계수 범위는 최단 반응 구간에만 해당. 장기 OTM은 점소성(creep) 모델 필요.',
+    force: '측정 범위 외 — OTM 힘은 < 1 N (교정 브래킷 기준)'
+  };
+}
+
+/* ── DOM refs ─────────────────────────────────── */
+const slider   = document.getElementById('t-slider');
+const tDisplay = document.getElementById('t-display');
+const eDisplay = document.getElementById('e-display');
+const eNote    = document.getElementById('e-note');
+const ctxBadge = document.getElementById('ctx-badge');
+const ctxLabel = document.getElementById('ctx-label');
+const ctxDesc  = document.getElementById('ctx-desc');
+const ctxForce = document.getElementById('ctx-force');
+const liveBar  = document.getElementById('live-bar');
+const canvas   = document.getElementById('e-chart');
+const ctx      = canvas.getContext('2d');
+
+/* ── CHART ─────────────────────────────────────── */
+function drawChart(tCurrent) {
+  const dpr = window.devicePixelRatio || 1;
+  const W = canvas.parentElement.clientWidth;
+  const H = 80;
+  canvas.width  = W * dpr;
+  canvas.height = H * dpr;
+  ctx.scale(dpr, dpr);
+
+  const style = getComputedStyle(document.documentElement);
+  const colorAccent  = style.getPropertyValue('--accent').trim();
+  const colorAmber   = style.getPropertyValue('--amber').trim();
+  const colorFaint   = style.getPropertyValue('--text-faint').trim();
+  const colorBorder  = style.getPropertyValue('--border').trim();
+  const colorAmberBg = style.getPropertyValue('--amber-bg').trim();
+
+  const PAD_L = 36, PAD_R = 10, PAD_T = 10, PAD_B = 22;
+  const plotW = W - PAD_L - PAD_R;
+  const plotH = H - PAD_T - PAD_B;
+
+  const E_AXIS_MIN = 0.8, E_AXIS_MAX = 1.3;
+
+  function xForT(t) {
+    return PAD_L + (Math.log(t / T_MIN) / LN_RANGE) * plotW;
+  }
+  function yForE(e) {
+    return PAD_T + (1 - (e - E_AXIS_MIN) / (E_AXIS_MAX - E_AXIS_MIN)) * plotH;
+  }
+
+  // Y axis labels
+  ctx.font = `500 9px 'DM Sans', sans-serif`;
+  ctx.fillStyle = colorFaint;
+  ctx.textAlign = 'right';
+  [0.9, 1.0, 1.1, 1.2].forEach(e => {
+    const y = yForE(e);
+    ctx.fillText(e.toFixed(1), PAD_L - 5, y + 3);
+    ctx.beginPath();
+    ctx.strokeStyle = colorBorder;
+    ctx.lineWidth = 0.5;
+    ctx.setLineDash([3, 4]);
+    ctx.moveTo(PAD_L, y);
+    ctx.lineTo(PAD_L + plotW, y);
+    ctx.stroke();
+    ctx.setLineDash([]);
+  });
+
+  // Area fill
+  ctx.beginPath();
+  ctx.moveTo(xForT(T_MIN), yForE(E_FAST));
+  for (let i = 0; i <= 100; i++) {
+    const t = T_MIN * Math.exp((i / 100) * LN_RANGE);
+    ctx.lineTo(xForT(t), yForE(tToE(t)));
+  }
+  ctx.lineTo(xForT(T_MAX), PAD_T + plotH);
+  ctx.lineTo(xForT(T_MIN), PAD_T + plotH);
+  ctx.closePath();
+  const grad = ctx.createLinearGradient(PAD_L, 0, PAD_L + plotW, 0);
+  grad.addColorStop(0, colorAmber + '30');
+  grad.addColorStop(1, colorAccent + '18');
+  ctx.fillStyle = grad;
+  ctx.fill();
+
+  // Curve
+  ctx.beginPath();
+  ctx.lineWidth = 2;
+  ctx.strokeStyle = colorAmber;
+  ctx.lineJoin = 'round';
+  ctx.moveTo(xForT(T_MIN), yForE(E_FAST));
+  for (let i = 1; i <= 100; i++) {
+    const t = T_MIN * Math.exp((i / 100) * LN_RANGE);
+    ctx.lineTo(xForT(t), yForE(tToE(t)));
+  }
+  ctx.stroke();
+
+  // Current position dot
+  const xCur = xForT(tCurrent);
+  const eCur = tToE(tCurrent);
+  const yCur = yForE(eCur);
+
+  // Vertical guide
+  ctx.beginPath();
+  ctx.strokeStyle = colorAccent + '60';
+  ctx.lineWidth = 1;
+  ctx.setLineDash([3, 3]);
+  ctx.moveTo(xCur, PAD_T);
+  ctx.lineTo(xCur, yCur - 8);
+  ctx.stroke();
+  ctx.setLineDash([]);
+
+  // Dot
+  ctx.beginPath();
+  ctx.arc(xCur, yCur, 5, 0, Math.PI * 2);
+  ctx.fillStyle = colorAccent;
+  ctx.fill();
+  ctx.strokeStyle = canvas.parentElement.closest('.panel')
+    ? getComputedStyle(document.documentElement).getPropertyValue('--bg-card').trim()
+    : '#fff';
+  ctx.lineWidth = 2;
+  ctx.stroke();
+}
+
+/* ── UPDATE ─────────────────────────────────────── */
+function update() {
+  const s = +slider.value;
+  const t = sliderToT(s);
+  const e = tToE(t);
+
+  // slider aria
+  slider.setAttribute('aria-valuenow', t.toFixed(2));
+  slider.setAttribute('aria-valuetext', `${t.toFixed(2)} 초`);
+
+  // Displays
+  tDisplay.textContent = t < 1 ? `${t.toFixed(2)} s` : `${t.toFixed(1)} s`;
+  eDisplay.textContent = e.toFixed(2);
+
+  // Live bar in table: 0.9→0 = 0%, 1.2→1 = 100%
+  const barPct = ((e - E_SLOW) / (E_FAST - E_SLOW)) * 100;
+  liveBar.style.width = barPct.toFixed(0) + '%';
+
+  // Context
+  const cx = getContext(t);
+  ctxBadge.className = `context-badge ${cx.cls}`;
+  ctxLabel.textContent = cx.label;
+  ctxDesc.textContent = cx.desc;
+  ctxForce.textContent = cx.force;
+
+  // Note text
+  if (e < 0.95) {
+    eNote.textContent = '유체상 완전 이완 근방 — 섬유 주도 후기 강성';
+  } else if (e > 1.15) {
+    eNote.textContent = '순간 강성 최대 구간 — 유체 압착 지배';
+  } else {
+    eNote.textContent = '유체 완충 + 콜라겐 탄성 혼합 구간 (생리적 중간)';
+  }
+
+  drawChart(t);
+}
+
+slider.addEventListener('input', update);
+window.addEventListener('resize', () => {
+  const t = sliderToT(+slider.value);
+  drawChart(t);
+});
+
+// Init
+update();
+</script>
+</body>
+</html>
