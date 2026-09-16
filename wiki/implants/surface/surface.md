@@ -2,7 +2,7 @@
 title: "임플란트·표면처리 — surface"
 authors: navigation
 year: 2026
-date: 2026-08-11
+date: 2026-09-16
 doi: N/A
 source: navigation
 category: implants/surface
@@ -16,21 +16,21 @@ tags: [navigation, category-index, surface]
 > - **분야**: 임플란트·표면처리
 > - **범위**: SLA, CA, UV surface technology, osseointegration.
 > - **하위 카테고리**: [[plasma]]
-> - **수록 논문**: 55편
+> - **수록 논문**: 57편
 
 ## Three-line Summary
 
 **Scope**: SLA, CA, UV surface technology, osseointegration.
-**Indexed papers**: 55 papers in `wiki/implants/surface/`.
+**Indexed papers**: 57 papers in `wiki/implants/surface/`.
 **Sub-categories**: [[plasma]]
 
 ## 세줄요약
 
 **분야**: 임플란트·표면처리
-**수록 논문**: 55편
+**수록 논문**: 57편
 **하위 카테고리**: plasma
 
-## Papers in this Category (55)
+## Papers in this Category (57)
 
 | Paper |
 |---|
@@ -78,12 +78,14 @@ tags: [navigation, category-index, surface]
 | [[park-2025-uv-photofunctionalization-osseointegration-soft-tissue|Optimizing implant osseointegration, soft tissue responses, and bacterial inhibition: A comprehensive narrative review on the multifaceted approach of the UV photofunctionalization of titanium]] |
 | [[pieralli-2017-clinical-outcomes-zirconia-dental-implants|Clinical Outcomes of Zirconia Dental Implants: A Systematic Review]] |
 | [[rehner-2025-dental-implants-nanoparticle-coatings-review|Dental Implant Nanoparticle Coatings: In Vitro and In Vivo Testing (Review)]] |
+| [[safaei-2024-surface-topography-soft-tissue-implant|Surface Topography Steer Soft Tissue Response and Antibacterial Function at the Transmucosal Region of Titanium Implant]] |
 | [[saini-2024-bone-apposition-surface-modified-titanium-animal|Evaluation of bone apposition on surface modified titanium implant in experimental animal model: A systematic review and meta-analysis]] |
 | [[serbanescu-2025-nanofeatured-titanium-surfaces-dental-implants|Nanofeatured Titanium Surfaces for Dental Implants: A Systematic Evaluation of Osseointegration]] |
 | [[shetty-2026-titanium-vs-zirconia-implants-umbrella|Comparative Evaluation of Titanium Versus Zirconia Implants for Their Clinical Outcomes: An Overview of Reviews]] |
 | [[smeets-2016-implant-surface-modifications-osseointegration|Impact of Dental Implant Surface Modifications on Osseointegration]] |
 | [[sun-2026-low-temperature-plasma-titanium-implants-review|Low-temperature plasma surface modification of titanium dental implants: mechanisms, biological effects and clinical perspectives]] |
 | [[trisi-2003-bone-implant-contact-machined-dual-acid-etched|Bone-Implant Contact on Machined and Dual Acid-Etched Surfaces After 2 Months of Healing in the Human Maxilla]] |
+| [[vijay-2021-carbon-nanomaterials-diabetic-implants|Carbon Nanomaterials Modified Biomimetic Dental Implants for Diabetic Patients]] |
 | [[wagstaffe-2019-rgd-tripeptide-adsorption-titania-surfaces|Interaction of a tripeptide with titania surfaces: RGD adsorption on rutile TiO2(110) and model dental implant surfaces]] |
 | [[witek-2019-osseodensification-trabecular-tantalum-implants-sheep|Osteogenic Parameters Surrounding Trabecular Tantalum Metal Implants in Osteotomies Prepared via Osseodensification Drilling]] |
 | [[witek-2020-boronized-surface-osseointegration|Assessing osseointegration of metallic implants with boronized surface treatment]] |
