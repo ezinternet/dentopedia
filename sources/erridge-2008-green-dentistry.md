@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-The earliest sustainability-focused item in the practice-management collection: a 2008 British Dental Journal readers' letter questioning whether dentistry has ever been audited for environmental impact. Documents the profession's environmental-responsibility debate at a time when dental amalgam was already declining — a useful historical contrast point for any modern green-dentistry/amalgam-phase-down discussion. Included with the editor's note that the BDJ itself was printed on certified sustainable paper.
+The earliest sustainability-focused item in the practice-management collection: a 2008 British Dental Journal readers' letter questioning whether dentistry has ever been audited for environmental impact. Documents the profession's environmental-responsibility debate at a time when dental amalgam was already declining — a useful historical contrast point for any modern green-dentistry/amalgam-phase-down discussion. Included with the editor's note that the BDJ itself was printed on certified sustainable paper. See [[erridge-2008-green-dentistry]].
 
 ## Three-line Summary
 
