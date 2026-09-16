@@ -16,21 +16,21 @@ tags: [navigation, category-index, periodontics]
 > - **분야**: 치주치료
 > - **범위**: Periodontal disease, classification, regeneration/root-coverage, SPT, periodontal-systemic links, general periodontics not covered by a subcategory.
 > - **하위 카테고리**: [[host-modulation]] · [[non-surgical-instrumentation]] · [[oral-hygiene-instruction]]
-> - **수록 논문**: 68편
+> - **수록 논문**: 69편
 
 ## Three-line Summary
 
 **Scope**: Periodontal disease, classification, regeneration/root-coverage, SPT, periodontal-systemic links, general periodontics not covered by a subcategory.
-**Indexed papers**: 68 papers in `wiki/periodontics/`.
+**Indexed papers**: 69 papers in `wiki/periodontics/`.
 **Sub-categories**: [[host-modulation]], [[non-surgical-instrumentation]], [[oral-hygiene-instruction]]
 
 ## 세줄요약
 
 **분야**: 치주치료
-**수록 논문**: 68편
+**수록 논문**: 69편
 **하위 카테고리**: host-modulation, non-surgical-instrumentation, oral-hygiene-instruction
 
-## Papers in this Category (68)
+## Papers in this Category (69)
 
 | Paper |
 |---|
@@ -101,6 +101,7 @@ tags: [navigation, category-index, periodontics]
 | [[tsilingaridis-2026-biofilm-induced-gingivitis-children-adolescents|Dental Biofilm–Induced Gingivitis in Children and Adolescents Without Known Systemic Involvement: A Systematic Review]] |
 | [[wang-2026-long-term-periodontal-peri-implant-tissue-stability|Long-term periodontal and peri-implant tissue stability under supportive therapy]] |
 | [[watanabe-2025-prgf-vs-prp-gingival-epithelial|A Comparative Analysis of Cell Proliferation and Wound Closure in Cultured Gingival Epithelial Cells Using Plasma Rich in Growth Factors and Platelet-Rich Plasma Containing Leukocytes]] |
+| [[yang-2020-new-classification-system-periodontal-peri-implant|The New Classification System for Periodontal and Peri-implant Diseases and Conditions: A Review of the 2017 Workshop]] |
 | [[ye-2026-environmental-tobacco-smoke-periodontitis-nonsmokers|Environmental tobacco smoke exposure and periodontitis in non-smokers: a systematic review and meta-analysis]] |
 
 ## Sub-categories
