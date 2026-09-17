@@ -11,6 +11,10 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/bespalez-neto-2026-root-resorption-cl
 pdf_filename: bespalez-neto-2026-root-resorption-clear-aligner-ai-cbct.pdf
 source_collection: external
 tags: [clear-aligner, root-resorption, CBCT, artificial-intelligence, 3D-analysis, incisors]
+relations:
+  - type: counterpoint
+    target: orthodontics/clear-aligner/yildirim-2026-cbct-earr-clear-aligner-vs-fixed-sr-ma
+    description: "This RCT (n=32) found no CA-vs-FA difference in EARR; Yildirim 2026 SR+MA found CA significantly greater EARR. Yildirim attributes the discordance to smaller RCT power, heterogeneous case selection, and different measurement methods (AI-3D volumetric vs. linear CBCT landmark) — not a true biological contradiction."
 ---
 
 ## Three-line Summary
