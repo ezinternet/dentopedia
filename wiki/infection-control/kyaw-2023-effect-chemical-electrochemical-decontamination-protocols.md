@@ -17,6 +17,9 @@ tags: [healing-abutment, reuse, electrochemical, micro-gap, microleakage, titani
 relations:
   - type: refines
     target: bidra-2019-should-healing-abutments-cover-screws
+  - type: contradicts
+    target: abreu-2024-assessment-detoxification-strategies-used-dental
+    description: "Cleanliness axis vs biology axis — this study concludes rigorous decontamination makes reuse acceptable (cleanliness endpoint); Abreu concludes even cleaned abutments elicit inflammatory cytokines (biologic-inertness endpoint), making reuse unacceptable. Both can be internally valid because they measure different endpoints."
 ---
 
 ## Three-line Summary
