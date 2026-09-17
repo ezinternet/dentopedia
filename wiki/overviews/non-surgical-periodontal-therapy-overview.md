@@ -255,6 +255,7 @@ NSPT는 구강 밖 선택적 항염증 효과가 있음 — CRP·IL-6·수축기
 - [[periodontics/non-surgical-instrumentation/laleman-2022-instrumentation-during-second-stage]] — 2단계 기구
 - [[periodontics/non-surgical-instrumentation/hussein-2026-subcutaneous-emphysema-subgingival-air-polishing-case]] — 피하 기종
 - [[periodontics/non-surgical-instrumentation/vadvadgi-2024-comparing-effectiveness-traditional-periodontal]] — 전통 vs 비수술
+- [[periodontics/yang-2020-new-classification-system-periodontal-peri-implant]] — 2017 AAP/EFP 분류 체계 한국어 해설: 치주염 Stage I–IV + Grade A/B/C; 치은염 ≤3mm <10% BOP; 임플란트 주위염·점막염 분리 정의; 치료 후 "임상적 건강" ≤4mm 비출혈 기준
 
 ### 인접 overview
 - [[drug-antibiotic-stewardship-overview]] — 항생제 스튜어드십
