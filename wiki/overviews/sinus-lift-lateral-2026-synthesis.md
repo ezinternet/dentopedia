@@ -343,6 +343,8 @@ Three reviews/SR specifically cover lateral-window SFE *without* any grafting ma
 - [[sinus-lift/lateral/kim-2007-maxillary-sinus-volume-ct-graft-placement]] — CT volumetric case-control (n=19/20 sinuses): edentulous sinuses need significantly more graft volume than dentulous at every height (5/10/15 mm), ~36% more at 15 mm; graft-quantity planning reference, independent of material choice
 - [[sinus-lift/lateral/thomas-2026-alloplastic-biologic-grafts-sinus-sr]] — SR (18 studies, PRISMA, Jan 2010–Dec 2025): autograft NBF 41.7% > allograft 35.4% > alloplast 30.3%; xenograft volumetric stability 103% vs alloplast 66%; all graft types >90% implant survival; alloplasts viable when minimizing donor-site morbidity or infection/immunologic risk
 - [[sinus-lift/lateral/qiu-2026-lt-dbbm-ht-dbbm-lateral-sinus-rct]] — pilot multicenter RCT (n=36, interim): LT-DBBM (Bio-Oss®, 300°C) vs HT-DBBM (Gegreen®, 400–1200°C) → bone height, volume, resorption rate, BV/TV all NS; sintering temperature does not affect 6-month clinical outcomes
+- [[sinus-lift/lateral/jue-2025-maxillary-sinus-floor-augmentation-autogenous-bone]] — multicenter split-mouth RCT (n=50, 198 implants): autogenous ramus block vs BBM+25% local bone; 12-month survival 92.9% vs 93.9% (OR 0.85, p=0.777), all outcomes NS; autograft non-inferior but ramus harvest adds temporary lower-lip dysesthesia risk (4/50 patients)
+- [[sinus-lift/lateral/thouveny-2026-volumetric-analysis-bone-resorption-rate]] — retrospective 41 sinuses; graft volume groups <10% to ≥50%; overall resorption p=0.06 (underpowered); membrane perforation (36.6%) does not affect volume if managed; principal drivers are sinus morphology (palato-vestibular angle) + initial graft volume (PCA)
 
 ## Clinical Quiz
 <!-- quiz_spec -->
