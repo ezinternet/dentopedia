@@ -107,6 +107,8 @@ Modern management (STA terminology, tooth side): physiological vertical STA 2.73
 - [[periodontics/padilla-avallos-2026-supracrestal-tissue-attachment-biologic-width]] — tooth-side STA management, OCEBM levels
 - [[periodontics/hamasni-2017-biologic-width-restorative-dentistry]] — tooth-side biologic width measurement reference
 - [[periodontics/abdulkarim-2024-digital-assessment-supracrestal-tissue-attachment]] — digital (CBCT/scan) STA quantification
+- [[implants/soft-tissue/kadkhodazadeh-2018-junctional-epithelium-epithelial-attachment-implant]] — narrative review: peri-implant epithelium (PIE) attaches via hemidesmosomes + laminin-5/integrin α6β4; shorter/thinner than JE, lower probe resistance; "epithelial attachment" preferred over "junctional epithelium" for implants
+- [[implants/surface/safaei-2024-surface-topography-soft-tissue-implant]] — narrative review: nanotopography 10–100 nm prevents bacterial adhesion; ~30 nm TiO₂ nanotubes → M2 (anti-inflammatory), ~80–100 nm → M1; Ra <0.2 μm is the plaque-nonpromotion threshold (preclinical evidence only)
 
 ## Related Overviews
 
