@@ -99,6 +99,8 @@ Diabetic patient, considering immediate implant
 | Immediate *loading* in DM2 | [[implants/survival/andrade-2021-survival-rate-peri-implant-evaluation]] | sr+ma | RR 1.00 (uncontrolled 1.08); MBL MD −0.08 mm |
 | Immediate *placement* technique (molar) | [[immediate-implant/molar-septum/ragucci-2020-immediate-implant-molar-extraction-sockets]] | sr+ma | survival ~97–98%; septum anchorage key |
 | IIP-specific DM outcomes, glycemic-control gradient | [[immediate-implant/li-2026-safety-feasibility-immediate-implant-diabetic]] | sr+ma | survival RR 1.00/0.96 (NS); MBL/BOP worsen with poor control |
+| DM implant survival evidence base (SR of SRs) | [[implants/survival/james-2024-success-rates-of-dental-implants]] | sr of sr | HbA1c <8% → 96.1–97.3% at 1 yr / 87.3–96.1% at 5 yr; Andrade RR 1.00 (CI 0.96–1.04); HbA1c >8% worsens MBL/PD dose-response; DM not a contraindication when controlled |
+| Carbon nanomaterials for diabetic implants | [[implants/surface/vijay-2021-carbon-nanomaterials-diabetic-implants]] | narrative review | graphene/CNT/nanodiamonds: insulin delivery via π-π stacking (10 U topical safe), mechanobactericidal, anti-inflammatory; preclinical/in-vitro only — no clinical data |
 
 ## Gray Zone / Open Questions
 
