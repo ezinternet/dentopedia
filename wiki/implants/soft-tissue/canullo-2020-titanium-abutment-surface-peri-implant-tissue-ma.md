@@ -17,6 +17,9 @@ tags: [healing-abutment, titanium-surface, abutment-surface-modification, peri-i
 relations:
   - type: reinforces
     target: ruhstorfer-2024-customized-vs-conventional-healing-abutments-sr
+  - type: counterpoint
+    target: safaei-2024-surface-topography-soft-tissue-implant
+    description: "Narrative review arguing preclinical nanotopography drives soft-tissue integration and antibacterial function; this SR+MA's clinical null result shows those cellular/histologic gains did not translate to PI/BoP/PD improvement short-term."
 ---
 
 ## Three-line Summary
