@@ -308,6 +308,7 @@ OD는 임플란트 안정성 지수(Implant Stability Quotient, ISQ)가 오스�
 - [[sinus-lift/transcrestal/mazor-2024-maxillary-sinus-membrane-perforation-osseodensification]] — OD 천공
 - [[sinus-lift/transcrestal/akcay-2016-bppv-sinus-floor-elevation-antecedent-vertigo]] — BPPV 이력
 - [[sinus-lift/transcrestal/damsaz-2023-bppv-incidence-closed-sinus-lift-ridge-split]] — BPPV 발생률
+- [[sinus-lift/transcrestal/deng-2024-biomechanical-analysis-maxillary-sinus-floor]] — FEA 3 sinus-angle models (45°/85°/125°): narrow sinus strip-membrane before elevation (peak stress 78→7 MPa with 4 mm separation); wide sinus benefits less; sinus morphology determines strip-first vs elevate-first strategy
 
 ### 수기 비교
 - [[sinus-lift/transcrestal/cobo-vazquez-2025-crestal-sinus-lift-osteotome-vs-osseodensification]] — Osteotome vs OD
