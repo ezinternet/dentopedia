@@ -16,6 +16,9 @@ tags: [nsaid, ibuprofen, naproxen, dental-implant, early-failure, osseointegrati
 relations:
   - type: reinforces
     target: etikala-2019-nsaids-periodontal-implant-therapy-review
+  - type: counterpoint
+    target: implants/survival/dambrosio-2023-systemic-diseases-medications-influence
+    description: "Umbrella review of SRs (through July 2022) found no clear/consistent evidence for NSAID effect on osseointegration or implant failure; this large retrospective cohort (49,997 implants) emerged afterward and found ibuprofen OR 2.29–2.87 for early failure — the conflict is partly explained by exposure-duration reporting gap (cohort did not report dose/duration)."
 ---
 
 *abstract-only — full text not retrieved.*
