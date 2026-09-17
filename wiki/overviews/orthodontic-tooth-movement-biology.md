@@ -73,6 +73,9 @@ OTM은 PDL(치주인대) 압박-인장 응력 → 세포 변형 → 사이토카
 | [[orthodontics/feller-2015-periodontal-ligament-bone-orthodontic-forces]] | narrative-review | 교정력 적용 시 PDL과 치조골 생물학적 사건 |
 | [[orthodontics/feller-2015-periodontal-cytoskeleton-ecm-orthodontic]] | narrative-review | PDL 세포골격 + ECM의 생체역학적 역할 |
 | [[orthodontics/keilig-2016-in-vivo-measurements-pdl]] | in-vivo (n=5) | PDL 탄성계수 in vivo 실측: E=0.9–1.2 MPa (하중 속도 의존, 0.1–5.0 s); 수치 모델 피팅 |
+| [[orthodontics/jepsen-2023-biomechanical-properties-periodontal-tissues-non-periodontitis]] | cross-sectional in-vivo (n=48) | 치주염 치아 Fmax 12.3 vs 건강 16.3 N/mm (p=0.024); CAL 상관 r=−0.47~−0.57; ILD 기기로 실측 — 치주 상태가 PDL 역학 파라미터를 직접 변화 |
+| [[orthodontics/papadopoulou-2013-biomechanical-time-dependency-periodontal-ligament]] | in-vitro+FEA (돼지 PDL) | 이중선형 점탄성 모델: 5 s→0.17–0.65 MPa, 600 s 이후 더 감소; 응력이 치근분지부·협소부에 집중; 하중 속도 증가 = 강성 증가 |
+| [[orthodontics/salamati-2020-functional-tooth-mobility-young-pigs]] | in-vivo pig (n=12) | 저작 중 구치 변위 192±95 μm (교합측 무관); PDL 압력 3.63±0.80 kPa; PDL 공간 250–400 μm (협측·근심 > 구개·원심) |
 
 ### 축 3 — 동물 모델 & 인과성
 
