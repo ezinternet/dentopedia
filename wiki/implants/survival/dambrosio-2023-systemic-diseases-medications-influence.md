@@ -16,6 +16,9 @@ relations:
     target: implants/survival/aghaloo-2019-systemic-diseases-medications-implant-osseointegration-sr
   - type: reinforces
     target: overviews/systemic-disease-ckd-ssc-diabetes-osteoporosis-dental-overview
+  - type: counterpoint
+    target: drug/analgesics/chatzopoulos-2025-nsaid-early-dental-implant-failure-cohort
+    description: "This umbrella review found no clear/consistent evidence for NSAIDs on osseointegration (SRs through July 2022); the subsequent large retrospective cohort (Chatzopoulos 2025, 49,997 implants) found ibuprofen OR 2.29–2.87 — a divergence the overview attributes to unreported exposure duration in the cohort."
 ---
 
 ## Three-line Summary
