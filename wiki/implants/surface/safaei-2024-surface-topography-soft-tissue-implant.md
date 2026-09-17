@@ -22,6 +22,9 @@ relations:
   - type: reinforces
     target: komatsu-2026-uv-photofunctionalization-surface-agnostic-biofilm-soft-tissue-sr
     description: "Independent narrative confirmation of the dual soft-tissue-barrier + antibacterial-lever conclusion reached by the komatsu UV-PF SR, via a different mechanism: topography-driven cell/macrophage behavior rather than surface-agnostic reactivation."
+  - type: counterpoint
+    target: canullo-2020-titanium-abutment-surface-peri-implant-tissue-ma
+    description: "SR+MA clinical null finding (PI P=0.091, BoP P=0.099, PD P=0.488 short-term) directly challenges the clinical-translation expectation of this review's preclinical nanotopography gains; cellular/histologic benefits reviewed here did not appear as index-level clinical benefit."
 ---
 
 ## Three-line Summary
