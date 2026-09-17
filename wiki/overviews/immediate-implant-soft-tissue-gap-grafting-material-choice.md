@@ -149,3 +149,4 @@ Adjacent overviews treat the *procedural* yes/no of these variables: [[overviews
 - [[overviews/implant-placement-timing-immediate-early-delayed]] — when to place (timing) before deciding how to graft
 - [[immediate-implant/esthetic-soft-tissue/de-angelis-2021-soft-tissue-augmentation-immediate-implant-sr-ma]] — SR+MA (7 studies, n=272): pooled SCTG effect at IIPP (MBML −0.54 mm, FSTT +0.79 mm, MBL −0.13 mm)
 - [[implants/soft-tissue/rios-osorio-2025-xcm-vs-ctg-fgg-implant-soft-tissue-sr-ma]] — SR+MA (17 RCTs): crosslinked VCMX = CTG for volume; non-crosslinked XCM < CTG; FGG > XCM for keratinized mucosa width (+1.47 mm)
+- [[immediate-implant/gap-grafting/foad-2026-clinical-and-radiographic-evaluation-of]] — RCT (n=16 IIP, bovine bone+HA vs ungrafted): ISQ 72.25 vs 64.88 (p<0.001), CBCT bone density 1163 vs 1034 HU (p=0.016), buccal bone reduction 3.88% vs 15.99%
