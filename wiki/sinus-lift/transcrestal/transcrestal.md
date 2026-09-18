@@ -2,7 +2,7 @@
 title: "상악동거상술·경치조골 — transcrestal"
 authors: navigation
 year: 2026
-date: 2026-09-16
+date: 2026-09-18
 doi: N/A
 source: navigation
 category: sinus-lift/transcrestal
@@ -15,20 +15,20 @@ tags: [navigation, category-index, transcrestal]
 > [!summary] 한국어 핵심요약
 > - **분야**: 상악동거상술·경치조골
 > - **범위**: Transcrestal (osteotome/balloon/osseodensification) approaches
-> - **수록 논문**: 57편
+> - **수록 논문**: 59편
 
 ## Three-line Summary
 
 **Scope**: Transcrestal (osteotome/balloon/osseodensification) approaches
-**Indexed papers**: 57 papers in `wiki/sinus-lift/transcrestal/`.
+**Indexed papers**: 59 papers in `wiki/sinus-lift/transcrestal/`.
 
 ## 세줄요약
 
 **분야**: 상악동거상술·경치조골
-**수록 논문**: 57편
+**수록 논문**: 59편
 **하위 카테고리**: 없음
 
-## Papers in this Category (57)
+## Papers in this Category (59)
 
 | Paper |
 |---|
@@ -44,6 +44,7 @@ tags: [navigation, category-index, transcrestal]
 | [[damsaz-2023-bppv-incidence-closed-sinus-lift-ridge-split|Assessment of Benign Paroxysmal Positional Vertigo (BPPV) Incidence Following Closed Sinus Lift and Ridge Splitting Surgeries: A Cohort Study]] |
 | [[decker-2024-clinical-radiographic-transcrestal-sinus-augmentation|Clinical and radiographic changes following transcrestal sinus augmentation: A scoping review of the last 25 years]] |
 | [[deng-2024-biomechanical-analysis-maxillary-sinus-floor|Biomechanical analysis of the maxillary sinus floor membrane during internal sinus floor elevation with implants at different angles of the maxillary sinus angles]] |
+| [[dhore-2025-sinus-lifting-procedure-using-osseodensification|Sinus Lifting Procedure Using Osseodensification Versus Osteotome Technique Via Transcrestal Approach: A Systematic Review]] |
 | [[difrischia-2025-crestal-sinus-elevation-below-3mm-cas-kit-case-report|Safe Crestal Sinus Elevation Below 3 mm Residual Bone with Tissue-Level Implant Placement: A Case Report]] |
 | [[duan-2017-graft-free-maxillary-sinus-floor-elevation-sr-ma|Graft-Free Maxillary Sinus Floor Elevation: A Systematic Review and Meta-Analysis]] |
 | [[el-ghobashy-osseodensification-vs-osteotome-transcrestal-sinus|Osseodensification by Densah Burs versus Osteotome for Transcrestal Maxillary Sinus Lifting with Simultaneous Implant Placement]] |
@@ -75,6 +76,7 @@ tags: [navigation, category-index, transcrestal]
 | [[samir-2024-osseodensification-piezoelectric-internal-sinus-elevation|Osseodensification versus piezoelectric internal sinus elevation (PISE) technique in delayed implant placement (a randomized controlled clinical trial)]] |
 | [[sansupakorn-2024-osfe-bcp-graft-versus-no-graft-rct|Implant stability and clinical outcome between implant placement using internal sinus floor elevation with alloplastic bone material grafting and without grafting: A 1-year randomized clinical trial]] |
 | [[scarano-2025-fluid-dynamic-crestal-sinus-hyaluronic-acid|Fluid-Dynamic Crestal Sinus Floor Elevation in Atrophic Posterior Maxilla Implant Rehabilitation with Hyaluronic Acid: A Prospective Study]] |
+| [[shah-2026-implant-stability-elevation-outcomes-crestal|Implant Stability and Elevation Outcomes of Crestal Sinus Floor Elevation with Densah Burs in Sites with Limited Residual Bone Height: A Prospective Clinical Study]] |
 | [[shahood-2024-cgf-bio-oss-osteotome-sinus-elevation|CGF with Bio-Oss collagen as grafting materials for simultaneous implant placement after osteotome sinus floor elevation: a prospective study]] |
 | [[shalash-2023-crestal-sinus-elevation-densah-oblique|Evaluation of crestal sinus floor elevation in cases exhibiting an oblique sinus floor with a residual bone height of 4.0–7.0 mm using Densah burs]] |
 | [[sirinirund-2025-minimally-invasive-sinus-augmentation-review|Minimally Invasive Sinus Augmentation: A Systematic Review]] |
