@@ -78,3 +78,15 @@ SR, 6개 연구: 투명교정 성공은 다요인적 — 남성·교정 경험 �
 - Invisalign Progress Assessment: digital monitoring tool by Align Technology
 - Compliance: adherence to recommended 20–22 hours/day wear schedule
 - Bucco-lingual tipping: tooth movement in the labial-palatal/lingual direction
+
+## Three-line Summary
+
+- Systematic review (6 studies, databases to August 2025) of clinical, biomechanical, patient, and technological factors influencing Invisalign treatment success and predictability.
+- Male patients and orthodontic-naive individuals show higher compliance; inadequate wear time is the primary failure cause; bucco-lingual tipping is the most accurate movement while rotation, intrusion, and expansion are least reliable; the Invisalign Progress Assessment tool overestimates achieved tooth movement.
+- Compliance profiling at initial examination and critical monitoring of wear time are the most actionable clinical interventions to optimize Invisalign outcomes; movement-type planning should account for the established accuracy hierarchy.
+
+## 세줄요약
+
+- SR (6개 연구, 2025년 8월까지): 투명교정장치 (Invisalign) 성공에 영향하는 임상·생체역학·환자·기술 요인 종합.
+- 남성·교정 경험 없는 환자 순응도 (Compliance) 우위; 착용 시간 부족이 주요 실패 원인; 협설 경사 (Bucco-lingual Tipping) 가장 정확, 회전 (Rotation)·압하 (Intrusion)·확장 (Expansion) 가장 부정확; Invisalign 진행도 평가 도구는 실제 이동량 과대추정.
+- 초진 시 순응도 프로파일링과 착용 시간 집중 모니터링이 핵심 임상 개입; 이동 유형별 정확도 위계를 반영한 치료계획 수립 필요.
