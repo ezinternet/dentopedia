@@ -84,3 +84,15 @@ Case report (1 patient, 2 implants, 68F): CAS-Kit hydraulic TSFE at RBH 3.6/2.5m
 - **Under-preparation**: final implant diameter larger than last drill diameter → compresses bone laterally for higher primary stability
 - **Tenting effect**: implant apex displacing graft upward, maintaining space under elevated membrane
 - **UTM surface**: Ultra-low surface roughness microtextured surface on PRAMA implant convergent neck (soft tissue integration)
+
+## Three-line Summary
+
+- Case report (1 patient, 68-year-old female, missing teeth 1.6 and 1.7, RBH 3.6/2.5mm) documenting CAS-Kit hydraulic transcrestal sinus floor elevation with sequential dual-site saline injection (0.5cc increments, temporary site sealing) and simultaneous PRAMA tissue-level implant placement.
+- Bone gain was 14.1mm (site 1.6) and 11.4mm (site 1.7); insertion torque ~30 Ncm at both sites; no membrane perforations (Valsalva confirmed); bone height radiographically stable at 3-year follow-up.
+- CAS-Kit hydraulic transcrestal sinus floor elevation can succeed at residual bone height below the conventional 3–4mm threshold when anatomy is favorable; saline volume–elevation relationship (~0.5cc per 3mm lift) and sequential sealing are the critical technical elements.
+
+## 세줄요약
+
+- 케이스 리포트(68세 여성, 1.6/1.7 결손, 잔존골 높이(Residual Bone Height, RBH) 3.6/2.5mm): CAS-Kit 수압법으로 0.5cc 분할 순차 주입(첫 번째 부위 임시 봉쇄) 후 PRAMA 조직-레벨 임플란트 동시 식립.
+- 골이득 14.1mm(1.6부위)/11.4mm(1.7부위); 삽입 토크(Insertion Torque) ~30 Ncm 양 부위; 막 천공 없음(발살바 검사 확인); 3년 방사선 추적에서 골높이 안정.
+- RBH 기존 금기 수준(3–4mm 미만)에서도 CAS-Kit 수압식 치조정접근 상악동 거상(Transcrestal Sinus Floor Elevation, TSFE) 성공 가능 — 유리한 해부학적 조건 전제; 0.5cc→3mm 거상 관계 및 순차 봉쇄 프로토콜이 핵심 술식.
