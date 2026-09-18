@@ -68,3 +68,15 @@ All CIs include zero — no statistically significant differences. Mandibular le
 
 - [[orthodontics/clear-aligner/huang-2026-clear-aligner-mandibular-advancement-vs-functional-class-ii-sr-ma]] — reinforces (larger pool n=326, 8 studies; same equivalence conclusion; direct predecessor)
 - [[orthodontics/clear-aligner/yu-2023-mandibular-advancement-aligner-vs-functional-class-ii-sr-ma]] — reinforces (9 controlled studies, n=283; same core equivalence; additionally detects 1.94° less mandibular incisor proclination in CA; superseded by huang-2026)
+
+## Three-line Summary
+
+- SR+MA (5 non-randomized controlled trials, n=166; PROSPERO CRD42024622755; post-2017 studies only) comparing cephalometric outcomes of clear aligners with mandibular advancement (Invisalign) versus traditional functional appliances (Twin Block, Herbst, van Beek) for skeletal Class II malocclusion.
+- No statistically significant differences were found across any of 9 cephalometric domains (SNA, SNB, ANB, Wits, overjet, mandibular plane angle, incisor inclinations, mandibular length); high heterogeneity characterized most outcomes (I²=70–86%); ROBINS-I: 1 low, 4 moderate risk.
+- Clear aligners with mandibular advancement may serve as a viable alternative to traditional functional appliances for Class II correction, particularly for aesthetics-prioritizing patients; high-quality RCTs with standardized treatment durations are needed to confirm equivalence.
+
+## 세줄요약
+
+- SR+MA (비무작위 대조연구 5편/n=166; PROSPERO CRD42024622755; 2017년 이후 연구만): 투명교정 하악전진 (Invisalign Mandibular Advancement, CA-MA) vs 전통기능장치 (Twin Block·Herbst·van Beek) 골격성 2급 부정교합 (Class II Malocclusion) 두개안면 계측치 비교.
+- 9개 두개안면 계측 영역 (SNA/SNB/ANB·Wits·수평피개·하악평면·전치경사·하악길이) 모두 유의 차이 없음; 대부분 이질성 높음 (I²=70–86%); ROBINS-I 저 1편, 중등도 4편.
+- CA-MA가 Class II 교정에서 전통 기능장치의 실행 가능한 대안; 특히 심미 우선 환자에 유리; 표준화된 처치 기간을 갖춘 무작위 대조 시험 (Randomized Controlled Trial, RCT) 필요.
