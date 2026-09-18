@@ -6,7 +6,7 @@ date: 2026-07-15
 doi: "10.3390/jcm15145568"
 source: badia-2026-maxillary-molar-distalization-clear-aligner-sr.md
 category: [orthodontics/clear-aligner]
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-abstract
 tags: [distalization, molar-distalization, clear-aligner, class-ii, predictability, auxiliaries, attachments, elastics, TAD]
 relations:
