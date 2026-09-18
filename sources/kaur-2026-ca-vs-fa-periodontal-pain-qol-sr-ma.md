@@ -116,3 +116,15 @@ SR+MA (32편/28 메타): 투명교정(CA) vs 고정식(FA) — 치태지수(PI) 
 - **ROBINS-I**: Risk of Bias in Non-randomized Studies — Interventions tool
 - **Trim-and-fill**: non-parametric publication bias correction method (Duval and Tweedie)
 - **Fail-safe N**: number of null-result studies needed to nullify a finding
+
+## Three-line Summary
+
+- SR+MA (32 studies — 17 RCTs, 15 observational; 28 pooled; databases inception to March 2025; INPLASY 202530100) comparing clear aligner therapy versus fixed appliances across periodontal indices, pain, and quality of life.
+- Clear aligners were significantly superior on all five outcomes: plaque index (PI) MD −0.437, gingival index (GI) MD −0.233 (I²=0%), probing depth (PD) MD −0.332 (I²=0%), pain SMD −0.419, and quality of life (QoL) SMD −0.970 at end of treatment; GRADE high for GI and PD, moderate for the remainder; QoL advantage non-significant at 12 months (SMD −0.531, p=0.108).
+- Clear aligners produce consistently better short-term periodontal health and QoL than fixed appliances, but absolute periodontal differences are modest (PD reduction 0.332 mm) and QoL benefits fade by 12 months; publication bias likely inflates pain and PI estimates.
+
+## 세줄요약
+
+- SR+MA (32편/28 메타; 2025년 3월까지; INPLASY 등록): 투명교정장치 (Clear Aligner, CA) vs 고정식 교정장치 (Fixed Appliance, FA) — 치주지표·통증·삶의 질 비교.
+- CA가 5개 전 영역 유의 우위: 치태지수 (Plaque Index, PI) MD −0.437, 치은지수 (Gingival Index, GI) MD −0.233 (I²=0%), 탐침깊이 (Probing Depth, PD) MD −0.332 (I²=0%), 통증 SMD −0.419, 치료종료 삶의 질 (Quality of Life, QoL) SMD −0.970; GRADE GI·PD 고도, 나머지 중등도; 12개월 QoL은 유의차 없음.
+- CA 단기 치주건강·QoL 일관 우위이나 절대 치주 차이 미미 (PD 0.332 mm), QoL 이점 12개월에 소실; 통증·PI 추정치는 출판 편향 가능성.
