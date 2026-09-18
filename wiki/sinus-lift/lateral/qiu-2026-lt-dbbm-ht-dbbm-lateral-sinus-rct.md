@@ -6,7 +6,7 @@ date: 2026-06-01
 doi: "10.1186/s12903-026-08291-w"
 source: qiu-2026-lt-dbbm-ht-dbbm-lateral-sinus-rct.md
 category: sinus-lift/lateral
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/qiu-2026-lt-dbbm-ht-dbbm-lateral-sinus-rct.pdf
 pdf_filename: qiu-2026-lt-dbbm-ht-dbbm-lateral-sinus-rct.pdf
 source_collection: external
