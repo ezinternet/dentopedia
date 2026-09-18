@@ -76,6 +76,18 @@ Ex vivo cadaveric study (n=30 specimens, 16 cadavers) quantified nonlinear tensi
 - **Single anatomy**: one CBCT-derived sinus geometry used for FE application.
 - Authors call for future studies on viscoelastic behavior and its relationship to new bone absorption post-sinus lift.
 
+## Three-line Summary
+
+- Ex vivo cadaveric study (n=30 specimens from 16 cadavers, mean age 77y) quantifying the nonlinear biomechanical properties of the Schneiderian membrane via uniaxial elongation and biaxial perforation tensile tests, plus adhesion force measurement and finite element model validation.
+- Tensile strength was loading-mode dependent: elongation 5.05 N/mm vs perforation 8.57 N/mm; elastic modulus 27.1 vs 53.6 MPa; bone adhesion force 0.052 N/mm; nonlinear hyper-elastic FE model (Mooney-Rivlin C10=0.253, C01=0.026 MPa) achieved R²=0.99.
+- Blunt periosteal elevation is biomechanically safer than sharp puncture because point-force perforation requires nearly double the load of uniaxial stretching; maximum stress concentrates at the membrane–bone detachment margin, explaining the edge-origin of intraoperative perforations.
+
+## 세줄요약
+
+- 인체 사체 표본 ex vivo 연구(n=30, 16구, 평균 77세): 슈나이데리안 막(Schneiderian Membrane)의 비선형 생체역학 특성을 단축 신장(elongation)·이축 천공(perforation) 인장시험 및 골부착력 측정, 유한요소 분석(Finite Element Analysis, FEA) 검증으로 최초 정량화.
+- 인장강도는 하중 방식 의존적: 신장 5.05 N/mm vs 천공 8.57 N/mm; 탄성계수(Elastic Modulus) 27.1 vs 53.6 MPa; 골부착력 0.052 N/mm; 비선형 초탄성 FEA 모델(Mooney-Rivlin C10=0.253, C01=0.026 MPa) 적합도 R²=0.99.
+- 둔기 골막 박리가 예리한 천공보다 역학적으로 안전; 최대 응력은 막-골 박리 경계에 집중 — 이 지점이 수술 중 천공 발생 기원 설명.
+
 ## 6. Related Work
 
 - **Pommer et al.**: linear elastic modulus values (49 MPa elongation, 70 MPa biaxial) — this paper extends to nonlinear regime.
