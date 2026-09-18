@@ -74,3 +74,15 @@ SR, 18개 연구: 투명교정의 깊은교합 교정 효과는 0.4–3.8 mm, �
 - GRADE: Grading of Recommendations, Assessment, Development, and Evaluation
 - Effectiveness: actual achieved correction amount
 - Accuracy: ratio of achieved to planned correction (%)
+
+## Three-line Summary
+
+- Systematic review (18 studies, PROSPERO CRD42022334078, databases inception to May 2024) evaluating effectiveness and accuracy of clear aligners for dental and skeletal deep bite correction across all age groups.
+- Effectiveness (achieved bite opening) ranged 0.4–3.8 mm; accuracy (achieved vs planned) ranged 33–48.88%; GRADE evidence quality rated low due to high risk of bias, indirectness, and imprecision; primary mechanism was anterior intrusion with or without posterior extrusion.
+- Clear aligners are effective for mild to moderate dentoalveolar deep bites but their efficacy for skeletal cases versus fixed appliances remains uncertain; systematic overcorrection or refinement planning is required to achieve target outcomes.
+
+## 세줄요약
+
+- SR (18개 연구, PROSPERO CRD42022334078, 2024년 5월까지): 전 연령 치조성·골격성 깊은교합 (Deep Bite) 교정에서 투명교정 (Clear Aligner) 효과 및 정확도 평가.
+- 효과 (교합 거상량) 0.4–3.8 mm; 정확도 (계획 대비 달성 비율) 33–48.88%; 근거 확실도 (GRADE) 저급 (높은 비뚤림·간접성·부정확성); 주 기전은 전치 압하 (Anterior Intrusion) ± 구치 정출 (Posterior Extrusion).
+- 경-중등도 치조성 깊은교합에 유효하나 골격성 증례에서 고정식 대비 우위 불확실; 목표 결과 달성을 위해 과교정 계획 또는 리파인먼트 필수.
