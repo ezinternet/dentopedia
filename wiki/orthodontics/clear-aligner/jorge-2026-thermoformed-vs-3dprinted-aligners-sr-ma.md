@@ -6,7 +6,7 @@ date: 2026-04-03
 doi: "10.1093/ejo/cjag036"
 source: jorge-2026-thermoformed-vs-3dprinted-aligners-sr-ma.md
 category: orthodontics/clear-aligner
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-abstract
 tags: [clear-aligner, thermoformed, 3d-printed, DTP, material-properties, flexural-strength, shape-recovery, geometric-accuracy, surface-roughness, glass-transition, in-vitro, sr+ma]
 relations:
