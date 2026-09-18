@@ -70,3 +70,15 @@ This PRISMA systematic review analyzed 18 studies (13 RCTs, 5 non-randomized) pu
 - [[sinus-lift/lateral/del-fabbro-2025-sinus-augmentation-materials-lateral-approach]] — extends (SR on augmentation materials, lateral approach)
 - [[sinus-lift/lateral/mordenfeld-2010-msfa-dpbb-biopsies-11year]] — reinforces (long-term DBBM stability)
 - [[sinus-lift/lateral/mordenfeld-2014-msfa-dpbb-autogenous-implants-10year]] — reinforces (DBBM vs autograft 10-year data)
+
+## Three-line Summary
+
+- Systematic review (PRISMA, PROSPERO; 18 studies — 13 RCTs + 5 cohorts; sample sizes 5–56 patients; follow-up 5 months–2 years) comparing alloplastic grafts (BCP, β-TCP, HA, bioactive glass) versus biologic grafts (autograft, allograft, xenograft) in maxillary sinus floor augmentation.
+- Autograft yielded the highest new bone formation (NBF 41.7%), followed by allograft (35.4%), alloplast (30.3%), and xenograft (24.9%); xenograft showed superior volumetric stability (103% vs alloplast 66%); all graft types achieved >90% implant survival (GRADE low certainty).
+- Alloplastic grafts are a valid clinical alternative when donor-site morbidity or infection risk precludes biologics, but carry inferior regenerative potential and volumetric stability; implant survival alone is not a sufficient discriminator of material choice.
+
+## 세줄요약
+
+- 체계적 문헌 고찰(Systematic Review, SR; PRISMA, PROSPERO; 18편 — 무작위 대조 시험(RCT) 13편 + 코호트 5편; 추적 5개월–2년): 합성골이식재(Alloplast: BCP·β-TCP·HA·생활성 유리) vs 생물학적 이식재(자가골·동종골·이종골) 비교, 상악동저 거상술(Maxillary Sinus Floor Augmentation, MSFA) 맥락.
+- 자가골이 신생골 형성(New Bone Formation, NBF) 최고(41.7%), 이어 동종골(35.4%)·합성골(30.3%)·이종골(24.9%); 이종골이 부피 안정성 가장 우수(103% vs 합성골 66%); 전 이식재군 임플란트 생존율 90% 이상(GRADE 낮음).
+- 합성골이식재는 공여부 이환율 또는 감염 위험이 있을 때 유효 대안이나, 재생 잠재력과 부피 안정성이 열등; 임플란트 생존율 단독으로는 재료 선택의 결정 인자로 불충분.
