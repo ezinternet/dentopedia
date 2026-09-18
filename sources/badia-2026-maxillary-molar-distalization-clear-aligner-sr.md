@@ -123,3 +123,15 @@ Systematic review (16 studies, 461 patients, PROSPERO CRD42024573061) on maxilla
 - **GRADE**: Grading of Recommendations Assessment, Development and Evaluation — certainty-of-evidence framework
 - **TADs**: Temporary Anchorage Devices (miniscrews/microscrews used as skeletal anchorage)
 - **Anglealign / Ordoline**: Non-Invisalign clear aligner systems studied in 2 of the 16 included papers
+
+## Three-line Summary
+
+- PRISMA-compliant systematic review (16 studies, 461 patients, PROSPERO CRD42024573061, search to April 2026) of clear aligner maxillary molar distalization effectiveness and predictability; predominantly Invisalign (14/16 studies).
+- Predictability (achieved/planned ratio) ranged 31.1–88.4% with average achieved distalization approximately 2 mm; greater prescribed movement magnitude was consistently associated with lower predictability; meta-analysis was not possible due to substantial heterogeneity; GRADE certainty very low for both primary outcomes.
+- Class II elastics, buccal attachments, and temporary anchorage devices (TADs) are recommended adjuncts to improve anchorage and predictability; 14-day aligner change intervals were associated with higher predictability in multiple studies, though evidence remains insufficient for a definitive recommendation.
+
+## 세줄요약
+
+- PRISMA 체계적 고찰 (16편/461명, PROSPERO CRD42024573061, 2026년 4월까지): 투명교정 (Clear Aligner) 상악 대구치 원심이동 (Maxillary Molar Distalization) 효과 및 예측성 (Predictability) 종합 — 주로 Invisalign.
+- 예측성 31.1–88.4%; 평균 달성 원심이동량 약 2 mm; 처방량이 클수록 예측성 저하 일관; 이질성으로 메타분석 불가, 근거 확실도 (GRADE) 극히 낮음.
+- Class II 고무줄·협측 어태치먼트·일시적 고정원 (Temporary Anchorage Device, TAD) 보조 권장; 14일 교체 주기가 여러 연구에서 예측성 향상과 연관 — 결정적 권고 근거는 아직 불충분.
