@@ -6,7 +6,7 @@ date: 2025-01-28
 doi: "10.1186/s12903-025-05499-0"
 source: lin-2025-schneiderian-membrane-biomechanical-transcrestal-fea.md
 category: [sinus-lift/transcrestal]
-confidence: in-vitro
+evidence_level: in-vitro
 source_collection: pubmed-abstract
 tags: [schneiderian-membrane, finite-element-analysis, hydraulic-pressure, osteotome, biomechanics, cas-kit, von-mises-stress]
 relations:
