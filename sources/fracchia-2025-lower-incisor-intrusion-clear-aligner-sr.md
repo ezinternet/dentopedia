@@ -81,3 +81,15 @@ SR, 8개 연구: 투명교정 하악 전치 압하량 0.4–1.5 mm, 예측도 35
 - Predictability: ratio of achieved to planned intrusion (%)
 - CBCT: Cone Beam Computed Tomography
 - Auxiliaries: attachments, elastics, interproximal reduction
+
+## Three-line Summary
+
+- Systematic review (8 clinical studies, PRISMA, 5 databases) specifically evaluating predictability of lower incisor intrusion with clear aligners in permanent dentition.
+- Mean intrusion achieved 0.4–1.5 mm with predictability 35–65% across studies; 7/8 studies had serious risk of bias by ROBINS-I; GRADE certainty moderate to low; four key moderating factors: movement magnitude, auxiliaries (attachments/elastics), refinement strategies, and patient-specific factors (age, compliance).
+- Lower incisor intrusion with clear aligners consistently underperforms planned correction; attachments, elastics, and planned overcorrection are necessary clinical adjustments; long-term stability data remain absent.
+
+## 세줄요약
+
+- SR (8개 임상 연구, PRISMA, 5개 데이터베이스): 영구치열에서 투명교정 (Clear Aligner) 하악 전치 압하 (Lower Incisor Intrusion) 예측도 (Predictability) 전용 평가.
+- 달성 압하량 0.4–1.5 mm, 예측도 35–65%; 7/8 연구 심각한 비뚤림 위험 (ROBINS-I); 근거 확실도 (GRADE) 중-저; 이동 크기·보조장치 (어태치먼트·탄성)·리파인먼트 (Refinement)·환자 요인이 주요 조절 변수.
+- 투명교정 하악 전치 압하는 계획량 달성에 일관되게 미달; 어태치먼트·탄성·과교정 계획 필수; 장기 안정성 데이터 부재.
