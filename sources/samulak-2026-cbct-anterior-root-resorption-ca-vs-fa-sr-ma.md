@@ -78,3 +78,15 @@ SR+MA (CBCT 코호트 4편/1,204 전치) — 투명교정(Clear Aligner)이 고�
 - **EARR**: External Apical Root Resorption — radiographically detectable shortening of the root apex; OIIRR is the mechanistic subtype.
 - **WMD**: Weighted Mean Difference — pooled difference in mean root length change (mm), CA minus baseline and FA minus baseline, weighted by study precision.
 - **CBCT**: Cone-Beam Computed Tomography — 3D imaging modality providing linear root-length measurements superior to 2D radiography for EARR quantification.
+
+## Three-line Summary
+
+- SR+MA (4 high-quality CBCT cohort studies; 1,204 anterior teeth) comparing orthodontically induced inflammatory root resorption (OIIRR) between clear aligner and fixed appliance therapy using CBCT linear measurements.
+- Both groups showed statistically significant root resorption: clear aligner WMD −0.47 mm (95% CI −0.55 to −0.40) versus fixed appliance WMD −0.54 mm (95% CI −0.75 to −0.33); the between-group difference was statistically significant (p<0.01), most pronounced in non-extraction maxillary central incisors; absolute difference ~0.07 mm.
+- Clear aligners cause significantly less anterior OIIRR and are preferable for elevated-OIIRR-risk patients (thin/short roots, prior resorption history); the modest absolute difference (0.07 mm) does not justify treatment selection changes in average-risk cases.
+
+## 세줄요약
+
+- SR+MA (CBCT 코호트 4편/1,204 전치): CBCT 선형 계측으로 투명교정 (Clear Aligner) vs 고정식 교정장치에서 교정유발 치근염증성 흡수 (Orthodontically Induced Inflammatory Root Resorption, OIIRR) 비교.
+- 두 군 모두 유의한 치근 흡수: CA WMD −0.47 mm (95% CI −0.55~−0.40) vs 고정식 −0.54 mm (95% CI −0.75~−0.33); 군 간 차이 유의 (p<0.01); 비발치 상악 중절치 (Maxillary Central Incisor) 에서 가장 두드러짐; 절대 차이 약 0.07 mm.
+- CA가 전치 OIIRR을 유의하게 덜 유발하며 고위험 환자 (세장·단근·기왕 흡수력)에 선호 술식; 절대차 미미 — 평균 위험 환자에서 술식 선택 기준으로는 불충분.
