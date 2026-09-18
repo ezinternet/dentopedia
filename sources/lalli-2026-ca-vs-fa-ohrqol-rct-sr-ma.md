@@ -102,3 +102,15 @@ RCT 전용 SR+MA(2편/n=74): CA가 심리적 불편(WMD −1.28, p=0.007) 및 �
 - **RoB 2**: Cochrane Risk of Bias tool version 2 for RCTs
 - **GRADE**: Grading of Recommendations, Assessment, Development, and Evaluation — evidence certainty framework
 - **PROSPERO**: CRD420251051003 — international prospective SR registry
+
+## Three-line Summary
+
+- RCT-only SR+MA (2 trials, n=74; PROSPERO CRD420251051003; 5 databases to March 2026) comparing clear aligners versus fixed appliances on OHIP-14 domains in Angle Class I non-extraction patients, applying Trial Sequential Analysis.
+- Clear aligners were significantly better only in psychological discomfort (WMD −1.28; p=0.007; I²=0%) and psychological disability (WMD −1.63; p<0.001; I²=0%); no significant difference in physical pain, functional limitation, or overall OHIP-14; TSA crossed the futility boundary for the handicap domain; GRADE low to moderate.
+- Clear aligner OHRQoL advantage is domain-specific (psychological only) and early rather than global; patient counseling should emphasize esthetic-related psychological comfort; large standardized RCTs with long-term follow-up are needed.
+
+## 세줄요약
+
+- RCT 전용 SR+MA (2편/n=74; PROSPERO CRD420251051003; 5개 DB 2026년 3월까지): Class I 비발치 환자에서 투명교정장치 vs 고정식의 구강건강관련 삶의 질 (Oral Health-Related Quality of Life, OHRQoL) — OHIP-14 도메인별 연속검증분석 (Trial Sequential Analysis, TSA) 적용.
+- CA가 심리적 불편 (Psychological Discomfort) WMD −1.28 (p=0.007; I²=0%), 심리적 장애 (Psychological Disability) WMD −1.63 (p<0.001; I²=0%)에서만 유의 우위; 신체 통증·기능·전반 OHRQoL 차이 없음; TSA 핸디캡 도메인 무용 경계 (Futility Boundary) 통과; GRADE 저-중등도.
+- CA OHRQoL 이점은 심리 영역 한정·단기 효과이며 전체적 우위 아님; 환자 상담 시 심미 관련 심리 안정감 중심 설명; 장기 추적 대규모 RCT 필요.
