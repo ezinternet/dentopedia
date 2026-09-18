@@ -6,7 +6,7 @@ date: 2026-06-10
 doi: "10.1038/s41405-026-00450-z"
 source: kaur-2026-ca-vs-fa-periodontal-pain-qol-sr-ma.md
 category: orthodontics/clear-aligner
-confidence: sr+ma
+evidence_level: sr+ma
 source_collection: pubmed-abstract
 tags:
   - clear-aligner
