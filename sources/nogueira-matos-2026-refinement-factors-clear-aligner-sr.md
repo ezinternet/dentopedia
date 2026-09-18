@@ -75,3 +75,15 @@ SR(SWiM), 20개 연구: 1차 투명교정 시리즈 후 리파인먼트는 증�
 - IPR: Interproximal Reduction
 - Refinement: additional aligner series ordered after the first planned sequence
 - Midcourse correction: adjustment to ClinCheck plan before completion
+
+## Three-line Summary
+
+- Systematic review (20 studies, PRISMA 2020 + SWiM, PROSPERO CRD420261416896) identifying clinical, biomechanical, and digital factors associated with refinement after the first clear aligner series.
+- Refinement burden was driven by malocclusion complexity, extraction treatment, interproximal reduction strategies, severe spacing, larger correction sequences, and specific movement limitations (rotations, intrusion, vertical correction, transverse expansion); remote monitoring reduced appointment burden but did not consistently reduce refinement need; AI/ML prediction evidence remains preliminary.
+- Refinement should be anticipated proactively — especially in extraction and complex cases — rather than managed reactively; outcome definitions were heterogeneous across all 20 studies, limiting cross-study comparisons and preventing meta-analysis.
+
+## 세줄요약
+
+- SR (20개 연구, PRISMA 2020 + 메타분석 없는 종합 (Synthesis Without Meta-analysis, SWiM), PROSPERO CRD420261416896): 1차 투명교정 시리즈 후 리파인먼트 (Refinement) 관련 임상·생체역학·디지털 요인 체계적 규명.
+- 리파인먼트 부담 결정 요인: 증례 복잡도·발치·치간삭제 (Interproximal Reduction, IPR)·심한 공간·큰 교정 순서·특정 이동 유형 한계 (회전·압하·수직·수평 확장); 원격 모니터링은 내원 횟수 감소시키나 리파인먼트 필요성은 미감소; AI/ML 예측 도구 근거 예비적.
+- 발치·복잡 증례에서는 선제적 리파인먼트 계획 필수; 20개 연구 모두 다른 결과 정의 사용 — 메타분석 불가, 교차 비교 제한.
