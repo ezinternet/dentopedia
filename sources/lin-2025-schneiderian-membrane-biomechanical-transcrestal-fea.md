@@ -93,3 +93,15 @@ source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11773847/
 - **Quasi-static loading**: slowly varying loads simulating equilibrium at each increment (vs dynamic/impact)
 - **Mooney-Rivlin**: hyper-elastic constitutive model; C10=0.253, C01=0.026 MPa from Zhai 2018
 - **Horizontal displacement (strain)**: buccal-palatal + mesio-distal movement of membrane during elevation — proxy for graft space created
+
+## Three-line Summary
+
+- 3D finite element analysis (in silico, one patient's CBCT) comparing three transcrestal sinus floor elevation techniques: hydraulic pressure (CAS-Kit), osteotome Ø1.6mm, and osteotome Ø3mm; Schneiderian membrane modeled with hyper-elastic Mooney-Rivlin constants from Zhai 2018.
+- Hydraulic technique required the least loading force (130 vs 200.8 vs 273.2 kPa at 5mm), generated the lowest von Mises stress (30% below Ø3mm osteotome), and produced the largest horizontal membrane displacement (2.35mm mesio-distally); all differences statistically significant.
+- Hydraulic pressure distributes force uniformly across the membrane surface causing progressive tensile deformation, whereas osteotomes generate focal compressive stress followed by elastic rebound; this mechanistically explains the lower clinical perforation rate of hydraulic techniques.
+
+## 세줄요약
+
+- 3D 유한요소 분석(Finite Element Analysis, FEA; 단일 환자 CBCT 기반): 수압법(CAS-Kit) vs 오스테오톰(Osteotome) Ø1.6mm vs Ø3mm 치조정접근 상악동거상술(Transcrestal Sinus Floor Elevation, TSFE) 비교; 슈나이데리안 막(Schneiderian Membrane)은 Zhai 2018의 Mooney-Rivlin 초탄성 상수로 모델링.
+- 수압법이 5mm 거상 시 필요 하중 최소(130 vs 200.8 vs 273.2 kPa), von Mises 응력 최소(Ø3mm 오스테오톰 대비 30% 낮음), 수평 막 박리 면적 최대(2.35mm); 모든 차이 통계적 유의.
+- 수압법은 막 전체에 하중 균일 분산(천공 위험 감소), 오스테오톰은 집중 압축 응력 후 탄성 반발(Elastic Rebound) 유발 — 수압법의 낮은 임상 천공률을 역학적으로 설명.
