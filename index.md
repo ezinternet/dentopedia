@@ -604,6 +604,7 @@ tags: []
 - [[immediate-implant/esthetic-soft-tissue/weigl-2016-impact-immediately-placed-restored]] — SR(17편, 626 IIPR): 무피판 65.6%, jump space 1.38–2.25mm, 성공률 97.96%·생존율 98.25%(평균 31.2개월) — 생물형 무관 중안모 점막변화 <0.95mm.
 - [[immediate-implant/gap-grafting/foad-2026-clinical-and-radiographic-evaluation-of]] — 즉시식립 간극에 천연 우골+히알루론산(cerabone plus) 이식 RCT(n=16): 4개월 ISQ 72.25 vs 64.88(p<0.001), 6개월 골밀도 1163.38 vs 1034.13 HU(p=0.016), 협측골 폭 감소 3.88% vs 15.99% — DBB 단독 대조군 부재로 HA 고유효과 미분리(예비적)
 - [[immediate-implant/molar-septum/hassan-2026-implant-stability-following-septal]] — 파일럿 RCT(20명, 1:1): 하악 대구치 즉시식립 치근간격벽 확장에서 압전골수술(PISP, Intralift) vs 골밀도화(OD, Densah) — 1·2차 ISQ 동등(66.75 vs 69.25, 76.75 vs 78.50, p>0.05), PISP 삽입토크 우위(40.33 vs 35.00 Ncm, p=0.004)·VAS 통증 하(단 절삭시간 연장), 합병증 없음
+- [[immediate-implant/ron-canelos-2026-immediate-versus-delayed-dental-implant]] — **IIP 최초 등록 umbrella review 프로토콜** (BMJ Open 2026;16:e119635, OSF GZ3DR, PRISMA-P): 즉시(Type I ≤10일) vs 지연(Type IV 4–6개월) 식립 SR±MA를 AMSTAR 2 + corrected covered area(CCA)로 재평가하는 우산논문 계획서 — 2026-09 검색 예정, **결과 아직 없음**; garcia-sanchez-2022·patel-2023·mello-2017 등 위키 보유 SR 계층 위의 합성 (완성본 발표 전까지 기존 SR+MA가 최상위 근거)
 
 ## 상악동거상술 — 측방접근 (Sinus Lift: Lateral Window)
 - [[sinus-lift/lateral/lim-2011-sinus-membrane-perforation-techniques-review]] — Lim 2011, Korean review of Schneiderian membrane perforation repair techniques/materials in sinus lift surgery
