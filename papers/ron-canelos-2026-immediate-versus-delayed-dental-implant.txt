@@ -1,0 +1,136 @@
+BMJ Open. 2026 Aug 31;16(8):e119635. doi: 10.1136/bmjopen-2026-119635
+
+Immediate versus delayed dental implant placement: an umbrella review protocol
+
+Mateo Ron Canelos (1), Natalia de Oliveira Miranda (1), Juan Pablo Simbaña Balseca (2), César Magalhães Benfatti (1), Franz Strauss (3,4), Edwin Ruales-Carrera (2), Patrícia Pauletto (2, corresponding: patricia.pauletto.p@gmail.com), Gabriel Leonardo Magrin (1)
+
+(1) Department of Dentistry, Federal University of Santa Catarina, Florianópolis, Santa Catarina, Brazil
+(2) School of Dentistry, Universidad de Las Américas, Quito, Pichincha, Ecuador
+(3) Clinic of Reconstructive Dentistry, Center for Dental Medicine, University of Zurich, Zürich, Switzerland
+(4) Universidad Autónoma de Chile, Temuco, Araucania, Chile
+
+Received 2026 Mar 17; Accepted 2026 Jul 10; Collection date 2026.
+License: CC BY-NC 4.0 (open access, BMJ Group).
+PMID: 42674793 | PMCID: PMC13536054
+OSF registration: https://doi.org/10.17605/OSF.IO/GZ3DR
+
+--- ABSTRACT ---
+
+Introduction
+Immediate dental implant placement has been proposed as a strategy to reduce treatment time and improve patient satisfaction. However, systematic reviews addressing immediate versus delayed implant placement have reported inconsistent findings, limiting clinical interpretability. An umbrella review is warranted to synthesise, appraise and contextualise the existing evidence.
+
+Methods and analysis
+This umbrella review will include systematic reviews with or without meta-analysis comparing immediate implant placement after tooth extraction with delayed placement in healed sites. Comprehensive searches will be conducted in September 2026, in PubMed/Medical Literature Analysis and Retrieval System Online (MEDLINE), Embase, Scopus, Web of Science, LILACS, the Cochrane Database of Systematic Reviews. Methodological quality will be assessed using A Measurement Tool to Assess Systematic Reviews (AMSTAR 2). Overlap of primary studies will be quantified using the corrected covered area. Outcomes of interest include implant survival, success and failure rates, biological and technical complications, patient-reported outcomes and surgical time. A structured narrative synthesis will be performed.
+
+Ethics and dissemination
+This overview does not require ethics approval, as it uses secondary data from previously published studies. The results will be disseminated through the publication in a high-impact journal.
+
+OSF registration number
+https://doi.org/10.17605/OSF.IO/GZ3DR
+
+Keywords: Systematic Review, Dental Implants, Dentistry, ORAL & MAXILLOFACIAL SURGERY
+
+--- STRENGTHS AND LIMITATIONS OF THIS STUDY ---
+- This umbrella review will synthesise evidence from systematic reviews and meta-analyses comparing immediate and delayed dental implant placement.
+- The protocol follows established umbrella review methodology and is reported according to Preferred Reporting Items for Systematic Review and Meta-Analysis Protocols (PRISMA-P).
+- A comprehensive search of electronic databases and grey literature will minimise the risk of missing relevant evidence.
+- The broad eligibility criteria may increase clinical heterogeneity across implant locations, rehabilitation protocols and surgical approaches.
+- Conclusions may be limited by the quality of included reviews and overlap of primary studies.
+
+--- INTRODUCTION ---
+The timing for dental implant placement corresponds to a way of planning, organising and executing implant dentistry considering the biological factors that play a role in osseointegration at post extraction sites at different time frames. For this purpose, a classification with four categories for implant placement timings after tooth extraction was introduced by Hämmerle et al. and later modified by Chen and Buser. Immediate or type I implant placement consists of the placement of the implant immediately or less than 10 days after tooth extraction is performed. Type II is considered an early implant placement with complete soft tissue healing, which occurs between 4 and 8 weeks after tooth extraction. Type III is also considered an early type of implant placement that occurs between 12 and 16 weeks after tooth extraction and differentiates by displaying a partial bone healing. Finally, type IV or delayed implant placement is characterised by a complete bone tissue healing that occurs only between 4 and 6 months after tooth extraction.
+
+Delayed or type IV timing for implant placement has been considered as a gold standard of care for implant dentistry since it offers more feasibility and predictability than other timings. Other biological advantages like complete tissue maturation, better implant stability, less volumetric changes after implantation, optimal three-dimensional implant positioning, adequate keratinised mucosa and ability to meticulously elevate flaps make the delayed approach to be considered as the safest. These benefits provide a relatively simplified alternative to execute the surgical procedure while also reducing the risk of complications, particularly for inexperienced clinicians. Nevertheless, prolonged treatment time, as well as the volumetric loss of dimensions of the alveolar bone and the surrounding soft tissues are some of the greatest disadvantages of this treatment modality.
+
+On the other hand, immediate implant placement (IIP) offers a quicker alternative that maintains the soft tissue architecture, prevents migration of teeth, helps with tissue preservation, patient satisfaction and aesthetic outcomes. Currently, advancements in the concept of immediacy have reshaped the way implant dentistry is performed and publications about this topic have experienced an exponential growth. Despite being considered a challenging clinical scenario, IIP is widely used in cases ranging from single tooth replacement in the aesthetic zone until full mouth rehabilitation surgical protocols. In fact, success rates for single immediate implants were reported between 96.7% and 100%. Nevertheless, after almost 60 years of IIP history and literature, there is still a considerable number of clinicians who do not consider IIP as a viable nor safe treatment alternative in comparison with late or type IV implant placement. Disadvantages like the unpredictable soft tissue healing, reduced primary stability and challenging execution support this philosophy.
+
+Both immediate and delayed implant placement show survival rates superior to 90% over a 10-year time frame, where systematic reviews have not shown significant differences while comparing survival rates between them, suggesting that IIP is a valuable clinical alternative. By the other hand, other systematic reviews as well as other primary studies show statistically significant differences in failure rates and inferior survival rates for IIP when compared with delayed implants, which is contradictory and supports the philosophy that deems IIP as an unnecessary risk that strengthens immediatism without prioritising the long-term performance of the dental implant therapy.
+
+This umbrella review will provide a comprehensive appraisal of the existing systematic reviews comparing immediate and delayed dental implant placement. By integrating assessments of methodological quality and overlap, this study aims to clarify inconsistencies in the literature and support evidence-based clinical decision-making in implant dentistry.
+
+--- OBJECTIVES ---
+Primary: To synthesise the evidence comparing survival, success, failure and complications between immediate and delayed implant placement.
+Secondary: To explore methodological and clinical characteristics that may explain differences in reported outcomes among systematic reviews.
+
+--- METHODS ---
+Protocol and registration
+This protocol is reported in accordance with the Preferred Reporting Items for Systematic Review and Meta-Analysis Protocols (PRISMA-P) guidelines. The overview will be reported following the Preferred Reporting Items for Overviews of Reviews statement (PRIOR). The study protocol planning started in December 2025, with plans to complete the study by December 2026.
+
+Research question
+The Patient, Population or Problem, Intervention, Comparison, Outcome, Study Design (PICOS) mnemonic will be used as a guide to delimitate and construct the research question. Research question: "What is the current body of evidence regarding the comparative clinical performance of immediate and delayed implant placement, and which clinical or methodological characteristics may explain variations in reported outcomes across systematic reviews?"
+
+Eligibility criteria
+Systematic reviews with or without meta-analysis evaluating the clinical performance of IIP after tooth extraction compared with delayed implant placement in healed sites will be included. Reviews must include human clinical review, the minimum methodological criteria proposed by the Cochrane Handbook for Systematic Reviews of Interventions. These include: (1) having a clearly stated set of objectives with predefined eligibility criteria for studies; (2) having conducted a systematic search that attempted to identify all studies that met the stated eligibility criteria; (3) having employed an explicit, reproducible methodology; (4) having assessed the validity of the findings of the included studies; (5) having systematically presented and synthesised the characteristics and findings of the included articles. No time nor primary study restrictions are going to be considered for the screened systematic reviews.
+
+Inclusion criteria
+To maximise the study's scope, the umbrella review will include systematic reviews evaluating dental implants placed in all clinical scenarios, irrespective of implant location or rehabilitation protocol. This includes single-tooth replacements, partially edentulous patients, full-arch rehabilitations, implants placed in anterior or posterior regions and implants placed with or without adjunctive grafting procedures or immediate loading protocols. No restrictions regarding implant position, prosthetic design, loading protocol or the use of bone augmentation procedures will be applied. Systematic reviews evaluating multiple implant-placement timings will be eligible provided that outcome data for immediate (Type I) and delayed (Type IV) implant placement can be extracted separately.
+
+Exclusion criteria
+(1) Publication types not consistent with systematic reviews like narrative reviews, scoping reviews, primary studies, letters to the editor, editorials, case reports, book chapters, papers and proceedings or conference papers. (2) Systematic reviews without information about success, survival, failure or complication rates. (3) Reviews in which immediate and delayed implant-placement outcomes are pooled with early implant placement (Types II and III) and cannot be disaggregated will be excluded, as they do not allow a direct comparison between the interventions of interest.
+
+Outcomes
+Primary outcome: comparison of clinical performance of immediate and delayed implant placement. Survival defined as the implant remaining in situ and supporting a functional prosthetic restoration. Implant success defined as the absence of peri-implant pathological changes including infection, inflammation or marginal bone loss beyond accepted thresholds (≤1.5 mm during the first year of function and ≤0.2 mm annually thereafter). Implant failure defined as implant loss due to spontaneous exfoliation or surgical removal resulting from mobility, loss of osseointegration or infection. Complication rates encompassing early and late biological, mechanical, aesthetic, surgical or technical complications reported during the follow-up period.
+Secondary outcome: in addition to synthesising the comparative outcomes, a narrative exploration of clinical and methodological characteristics will be conducted to identify potential factors that may contribute to heterogeneity in survival, success, failure and complication rates across systematic reviews.
+
+Information sources and search strategy
+The preliminary search strategy will be developed with collaboration of an experienced librarian. Individual search equations for each database will be presented in an online supplemental appendix. Electronic searches will be conducted in MEDLINE (via PubMed), Embase, Scopus, Web of Science, LILACS and the Cochrane Database. Additionally, a search for grey literature will be conducted on Google Scholar and ProQuest Dissertation and Theses Global. The search strategy will combine controlled vocabulary and free-text terms related to dental implants, immediate placement, delayed placement and systematic reviews. Reference lists of included reviews and experts will be consulted for additional studies. Comprehensive searches will be conducted in September 2026. In addition, backward citation screening of reference lists and forward citation searching using citation-tracking tools will be employed.
+
+Data management
+Articles will be inserted into Zotero Reference Manager (V.7.0.3); duplicates will be identified and eliminated prior to screening. Rayyan Online Software (Qatar Computing Research Institute) will be used to perform the screening process.
+
+Selection process
+Three authors (MRC, NdOM and JPSB) will be calibrated, then independently read titles and abstracts. The following stage will consist of full-text assessment of potentially eligible reviews. Disagreements will be resolved through discussion; if unsuccessful, consultation with a fourth reviewer (CMB). If articles lack crucial information, an attempt to retrieve the missing data will be performed by contacting the authors; if not possible, the articles will be discarded.
+
+Data collection process
+Two independent reviewers (MRC and NdOM) will retrieve the relevant data into a standardised data extraction sheet (Microsoft Excel V.365). The third reviewer (JPSB) will assess completeness, accuracy and precision. Missing information: three attempts of clarification with the corresponding author; if no response within 3 weeks, the information will be registered as missing data.
+
+Data items
+Publication data, study characteristics, PICOS delimitation, clinical performance indicators, methodology, conclusions and final considerations. Items include: registration, PRISMA adherence, number of primary studies, databases searched, search date/coverage, language/time restrictions, population characteristics, intervention, comparator, inclusion/exclusion criteria, participants (n), follow-up period, primary study design, implant survival rate, implant success rate, implant failure rate, biological complications, prosthetic complications, aesthetic outcomes, patient satisfaction/PROMs, risk of bias tool used, GRADE assessment report, meta-analysis performed, main methodological limitations, publication bias assessed, authors' conclusions, clinical relevance, research gaps identified.
+
+Risk of bias assessment
+Methodological quality of included systematic reviews will be assessed using the AMSTAR 2 tool, supported by the AMSTAR 2 online checklist. Confidence rating categories: high, moderate, low or critically low confidence.
+
+Assessment of overlap
+Overlap of primary studies across systematic reviews will be evaluated using a citation matrix and quantified using the corrected covered area (CCA). Degree of overlap classified as slight, moderate, high or very high.
+
+Synthesis methods
+A narrative synthesis will be the formal method to merge all the relevant data. Findings will be represented in summary tables, colour charts and figures combining data for each individual systematic review. Overlap analysis of possible duplicated primary studies will be performed and quantified using the CCA and visualised with the graphical representation of overlap for overviews (GROOVE). Data extraction items documenting whether each systematic review performed a GRADE assessment or equivalent, and their overall certainty ratings, will also be reported.
+
+--- ETHICS AND DISSEMINATION ---
+Ethical approval is not required as this protocol only describes methodological aspects of the future umbrella review and will use secondary data. Findings will be disseminated through publication in a peer-reviewed journal and presentation at scientific meetings.
+
+--- PATIENT AND PUBLIC INVOLVEMENT ---
+Patients and the public were not involved in the design, conduct or reporting of this research.
+
+--- PROTOCOL REGISTRATION ---
+Registered in the Open Science Framework (OSF) under DOI: https://doi.org/10.17605/OSF.IO/GZ3DR
+
+--- FUNDING ---
+The authors have not declared a specific grant for this research from any funding agency in the public, commercial or not-for-profit sectors.
+
+--- REFERENCES (as cited) ---
+1. Hämmerle CHF, Chen ST, Wilson TG. Consensus statements and recommended clinical procedures regarding the placement of implants in extraction sockets. Int J Oral Maxillofac Implants. 2004;19 Suppl:26-8.
+2. Chen ST, Buser D. Clinical and aesthetic outcomes of implants placed in postextraction sites. Int J Oral Maxillofac Implants. 2009;24 Suppl:186-217.
+3. Tonetti MS, Jung RE, Avila-Ortiz G, et al. Management of the extraction socket and timing of implant placement: Consensus report and clinical recommendations of group 3 of the XV European Workshop in Periodontology. J Clin Periodontol. 2019;46 Suppl 21:183-94.
+4. Pedrinaci I, Sun TC, Sanz-Alonso M, et al. Implant survival in the anterior mandible: A retrospective cohort study. Clin Oral Implants Res. 2023;34:463-74.
+5. Gallucci GO, Hamilton A, Zhou W, et al. Implant placement and loading protocols in partially edentulous patients: A systematic review. Clin Oral Implants Res. 2018;29 Suppl 16:106-34.
+6. Peitsinis PR, Blouchou A, Chatzopoulos GS, et al. Optimizing Implant Placement Timing and Loading Protocols for Successful Functional and Esthetic Outcomes: A Narrative Literature Review. J Clin Med. 2025;14:1442.
+7. Ickroth A, Cosyn J. Feasibility of Immediate, Early and Delayed Implant Placement for Single Tooth Replacement in the Premaxilla: A Retrospective Cone-Beam Computed Tomography Study of 100 Cases. Clin Oral Implants Res. 2025;36:64-72.
+8. Parvini P, Müller KM, Cafferata EA, et al. Immediate versus delayed implant placement in the esthetic zone: a prospective 3D volumetric assessment of peri-implant tissue stability. Int J Implant Dent. 2022;8:58.
+9. Sabri H, Manouchehri N, Tavelli L, et al. Five decades of research on immediate implant therapy: A modern bibliometric network analysis via Altmetric and level of evidence mapping. Clin Oral Implants Res. 2024;35:706-18.
+10. Thanissorn C, Guo J, Jing Ying Chan D, et al. Success Rates and Complications Associated with Single Immediate Implants: A Systematic Review. Dent J (Basel). 2022;10:31.
+11. Garcia-Sanchez R, Dopico J, Kalemaj Z, et al. Comparison of clinical outcomes of immediate versus delayed placement of dental implants: A systematic review and meta-analysis. Clin Oral Implants Res. 2022;33:231-77.
+12. Patel R, Ucer C, Wright S, et al. Differences in Dental Implant Survival between Immediate vs. Delayed Placement: A Systematic Review and Meta-Analysis. Dent J (Basel). 2023;11:218.
+13. Alam MK, Bagde HS, Alhamwan AKA, et al. Comparing the Long-term Success Rates of Immediate Implant Placement vs. Delayed Implant Placement in Patients with Periodontally Compromised Teeth. J Pharm Bioallied Sci. 2024;16:S626-8.
+14. Cosyn J, De Lat L, Seyssens L, et al. The effectiveness of immediate implant placement for single tooth replacement compared to delayed implant placement: A systematic review and meta-analysis. J Clin Periodontol. 2019;46:224-41.
+15. Chrcanovic BR, Albrektsson T, Wennerberg A. Dental implants inserted in fresh extraction sockets versus healed sites: a systematic review and meta-analysis. J Dent. 2015;43:16-41.
+16. Mello CC, Lemos CAA, Verri FR, et al. Immediate implant placement into fresh extraction sockets versus delayed implants. Int J Oral Maxillofac Surg. 2017. doi: 10.1016/j.ijom.2017.03.016.
+17. Ickroth A, Christiaens V, Pitman J, et al. A Systematic Review on Immediate Implant Placement in Intact Versus Non-Intact Alveolar Sockets. J Clin Med. 2025;14:2462.
+18. Kunrath MF, Dahlin C. Redefining Success in Implant Dentistry: Beyond Mere Implant Placement. J Periodontal Res. 2025;60:854-7.
+19. Shamseer L, Moher D, Clarke M, et al. Preferred reporting items for systematic review and meta-analysis protocols (PRISMA-P) 2015: elaboration and explanation. BMJ. 2015;350:g7647.
+20. Gates M, Gates A, Pieper D, et al. Reporting guideline for overviews of reviews of healthcare interventions: development of the PRIOR statement. BMJ. 2022;378:e070849.
+21. Higgins JPT, Thomas J, Chandler J, et al., editors. Cochrane handbook for systematic reviews of interventions version 6.5, 2024. Cochrane; 2024.
+22. Shea BJ, Reeves BC, Wells G, et al. AMSTAR 2: a critical appraisal tool for systematic reviews that include randomised or non-randomised studies of healthcare interventions, or both. BMJ. 2017;358:j4008.
+23. Pérez-Bracchiglione J, Meza N, Bangdiwala SI, et al. Graphical Representation of Overlap for OVErviews: GROOVE tool. Res Synth Methods. 2022;13:381-8.
+
+Supplementary material: online supplemental file 1 (PRISMA-P checklist, bmjopen-16-8-s001.docx), online supplemental file 2 (search strategy appendix, bmjopen-16-8-s002.docx).
