@@ -6,7 +6,7 @@ date: 2025-12-22
 doi: "10.4041/kjod25.197"
 source: sohn-2025-clear-functional-vs-traditional-fa-class-ii-sr-ma.md
 category: [orthodontics/clear-aligner]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: ""
 pdf_filename: ""
 source_collection: pubmed-abstract
