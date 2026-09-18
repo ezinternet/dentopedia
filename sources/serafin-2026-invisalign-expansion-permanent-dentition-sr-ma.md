@@ -117,3 +117,15 @@ SR+MA (23편, 1391명): Invisalign 영구치열 횡적 확장 예측성 상악 7
 - **Buccal crown tipping**: Rotation of the tooth crown outward around the cervical fulcrum without equivalent root movement; primary mechanism of Invisalign expansion
 - **Bodily expansion**: Parallel translation of the entire tooth (crown + root); harder to achieve with aligners
 - **ClinCheck**: Align Technology's proprietary software for digital planning of Invisalign treatment
+
+## Three-line Summary
+
+- SR+MA (PRISMA, PROSPERO CRD420251123184; 23 studies, 1391 patients in permanent dentition) evaluating the predictability of transverse arch expansion with Invisalign aligners across both maxillary and mandibular arches, with multivariable regression identifying independent predictors of accuracy.
+- Pooled predictability was 75.5% for the maxillary arch and 80.6% for the mandibular arch; SmartTrack/LD30 material conferred +32.7% predictability vs EX30 (p<0.001), mandibular arch +13.1% vs maxilla (p=0.001), and younger age reduced predictability by −1.1%/year (p=0.001); GRADE very low.
+- Invisalign transverse expansion is predominantly buccal crown tipping with modest predictability; clinicians should anticipate reduced accuracy in older patients, posterior maxillary segments, and with older EX30 aligner material.
+
+## 세줄요약
+
+- SR+MA(PRISMA, PROSPERO CRD420251123184; 23편, 1391명, 영구치열): Invisalign 횡적 치궁 확장 예측성(predictability) 분석, 상악·하악 모두 포함; 다변수 회귀로 독립 예측 인자 도출.
+- 합산 예측성: 상악(maxilla) 75.5%·하악(mandible) 80.6%; SmartTrack/LD30 재료 +32.7%(vs EX30, p<0.001), 하악 +13.1%(vs 상악, p=0.001), 고령화 시 −1.1%/년(p=0.001); GRADE 매우 낮음.
+- Invisalign 횡적 확장은 주로 협측 치관 경사(Buccal Crown Tipping)이며 예측성이 중등도; 고령·상악 구치부·구형 EX30 재료 조합에서 정확도 저하 예상.
