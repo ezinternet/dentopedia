@@ -87,3 +87,15 @@ Umbrella review (JBI methodology, 6 SRs from 1,609 records): CA in growing patie
 - **JBI**: Joanna Briggs Institute; developer of umbrella review methodology used in this paper
 - **Dentoalveolar**: pertaining to alveolar bone and teeth (as distinct from basal/skeletal bone)
 - **PROs (Patient-Reported Outcomes)**: outcomes measured directly from patient self-report (e.g., pain, QoL, satisfaction)
+
+## Three-line Summary
+
+- Umbrella review (JBI methodology, PRISMA for Overviews, PROSPERO CRD420251054252) synthesizing 6 systematic reviews from 1,609 records on clinical outcomes of clear aligners in growing children with mixed/transitional dentition.
+- All 6 SRs consistently reported dentoalveolar improvements (tooth alignment, overjet reduction, arch development); skeletal outcomes were discordant — 2 SRs noted possible mandibular changes, 3 reported minimal or no skeletal effects, 1 found insufficient evidence; periodontal and patient-reported outcomes (PROs) insufficient; AMSTAR-2 rated 5/6 SRs critically low.
+- Clear aligners predictably correct dentoalveolar problems in growing patients but lack evidence for meaningful skeletal modification; the current evidence base rests on very low methodological quality across all included reviews.
+
+## 세줄요약
+
+- 우산고찰 (JBI 방법론, PRISMA for Overviews, PROSPERO CRD420251054252): 1,609건에서 추출한 6편 SR을 통해 성장기 혼합치열 소아 투명교정 (Clear Aligner) 임상 결과 종합.
+- 치조성 개선 (정렬·overjet·arch 발달)은 전 편 일관; 골격 효과 불일치 (2편 하악 변화 가능성, 3편 미미/없음, 1편 불충분); 치주·환자보고결과 (Patient-Reported Outcome, PRO) 근거 불충분; AMSTAR-2 critically low 5/6편.
+- 성장기 소아 투명교정은 치조성 문제 교정에 예측 가능하나 골격 개선 효과 근거 불충분; 포함 SR 전반 방법론 질 매우 낮음.
