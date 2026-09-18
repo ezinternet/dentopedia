@@ -71,3 +71,15 @@ Lin et al. built three 3D finite element models of transcrestal sinus floor elev
 - [[sinus-lift/transcrestal/cobo-vazquez-2025-crestal-sinus-lift-osteotome-vs-osseodensification]] — reinforces: clinical osteotome vs alternative data now has biomechanical backing
 - [[sinus-lift/transcrestal/huang-2026-graftless-transcrestal-sinus-membrane-perforation-ma]] — reinforces: pooled 1% perforation rate with graftless TSFE is consistent with this study's lower hydraulic stress profile
 - [[sinus-lift/transcrestal/gaspar-2025-osseodensification-crestal-maxillary-sinus-elevation-narrative-review]] — reinforces: OD technique force discussion complemented by FEA comparison
+
+## Three-line Summary
+
+- 3D finite element analysis (in silico, one patient's CBCT) comparing three transcrestal sinus floor elevation techniques: hydraulic pressure (CAS-Kit), osteotome Ø1.6mm, and osteotome Ø3mm; Schneiderian membrane modeled with hyper-elastic Mooney-Rivlin constants from Zhai 2018.
+- Hydraulic technique required the least loading force (130 vs 200.8 vs 273.2 kPa at 5mm), generated the lowest von Mises stress (30% below Ø3mm osteotome), and produced the largest horizontal membrane displacement (2.35mm mesio-distally); all differences statistically significant.
+- Hydraulic pressure distributes force uniformly across the membrane surface causing progressive tensile deformation, whereas osteotomes generate focal compressive stress followed by elastic rebound; this mechanistically explains the lower clinical perforation rate of hydraulic techniques.
+
+## 세줄요약
+
+- 3D 유한요소 분석(Finite Element Analysis, FEA; 단일 환자 CBCT 기반): 수압법(CAS-Kit) vs 오스테오톰(Osteotome) Ø1.6mm vs Ø3mm 치조정접근 상악동거상술(Transcrestal Sinus Floor Elevation, TSFE) 비교; 슈나이데리안 막(Schneiderian Membrane)은 Zhai 2018의 Mooney-Rivlin 초탄성 상수로 모델링.
+- 수압법이 5mm 거상 시 필요 하중 최소(130 vs 200.8 vs 273.2 kPa), von Mises 응력 최소(Ø3mm 오스테오톰 대비 30% 낮음), 수평 막 박리 면적 최대(2.35mm); 모든 차이 통계적 유의.
+- 수압법은 막 전체에 하중 균일 분산(천공 위험 감소), 오스테오톰은 집중 압축 응력 후 탄성 반발(Elastic Rebound) 유발 — 수압법의 낮은 임상 천공률을 역학적으로 설명.
