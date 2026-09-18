@@ -330,6 +330,8 @@ tags: []
 - [[implants/osseodensification/de-agostinho-neto-2026-in-vitro-evaluation-different-implant-systems]] — 저밀도 소 늑골 in vitro (Sci Rep 2026): 기존 드릴링(SIN)/골밀도화(VERSAH)/골확장기(MAXIMUS) 3종 — 식립토크 35 vs 43.2 vs 59.6 N·cm, 경부·체부·근단부 micro-CT 미세구조 모두 유의차 없음. **단 지표가 골밀도가 아니라 골표면적/부피 비(S/V) 프록시**이고 군당 n=5–8로 검정력 부족 유력 — 초록의 p 부등호도 역방향 오기. 근단부 밀도화 질문을 판정하지 못함(미측정이지 반증 아님)
 - [[implants/osteotomy-thermal/batz-2019-influence-broach-design-bone-friction]] — 정형외과 THA 브로치 준정적 벤치(소 해면골, Clin Biomech 2019): 무딘 추출형·압착형이 예리한 추출형 대비 총 골밀도화 **+117%/+121% (P=.005)** — 작업 방향이 같아도 무딘 형상이면 밀도화되어 **'방향이 아니라 날 형상(geometry)'**을 지목. 밀도화 깊이(압착형 P=.001)·최대 밀도화(무딘 추출형 P=.008) 분리 가능; 예리형 마찰계수 +38%/+37%(P<.001). **치과 기구 미시험 — 기전 근거이지 치과 버 근거 아님**
 - [[implants/osteotomy-thermal/milone-2026-heat-dental-implant-thermal-analysis]] — in-vitro (n=24, FLIR): 수동 조임+생리식염수 없음+소삭제 = 최고 발열; 윤활이 임플란트 식립 중 온도 유의하게 감소 (2026)
+- [[implants/osseodensification/abdelraouf-2025-implant-stability-posterior-maxilla-clinical]] — 이중맹검 RCT (n=20, Misch D3/D4 상악 구치부): 골밀도화(Osseodensification, OD) vs 기존 드릴링(CD) — OD ISQ 식립 직후 유의 우수(72.7 vs 63.3, p=0.037)·1~4주 유지, CD는 2~3주 stability dip; 생존 9/9 vs 8/10, 삽입 토크·변연골소실 유의차 없음 — mello-machado-2021의 ISQ 동등 결과와 상반(contradicts)
+- [[implants/osseodensification/frizzera-2022-effect-osseodensification-increase-ridge-thickness]] — 무작위 split-mouth in vitro(신선 돼지 하악, n=10/군): OD(Densah)가 CTL 대비 순측 골 결손 높이·폭 유의 감소(0.37 vs 2.5mm), 치조정 순측 능선 확장 유의 증가(0.66 vs 0.18mm), 삽입토크 ↑(49.9 vs 40.4 N·cm) — 협측 결손 예방 기전 근거
 
 ## 임플란트 — 표면처리·골유착 (Implant Surface / Osseointegration)
 - [[implants/surface/koshy-2015-dental-implant-surfaces-overview]] — Koshy 2015, titanium implant surface modification methods (additive/subtractive) narrative overview
@@ -760,6 +762,8 @@ tags: []
 - [[sinus-lift/transcrestal/damsaz-2023-bppv-incidence-closed-sinus-lift-ridge-split]] — 전향적 코호트(n=112, abstract-only): 폐쇄형 상악동거상술 후 BPPV 발생률 3.1% vs 치조제분할술 0% (p=0.509, 유의차 없음) — 대조군 비교 BPPV 발생률 데이터 (2023)
 - [[sinus-lift/transcrestal/akcay-2016-bppv-sinus-floor-elevation-antecedent-vertigo]] — 증례보고(n=1, abstract-only): OSFE 후 지속성 BPPV — 사전 어지럼증 병력 있는 환자에서 10일간 반복 이석정복복+수액치료 필요; 술전 어지럼증 병력 스크리닝 시사 (2016)
 - [[sinus-lift/transcrestal/deng-2024-biomechanical-analysis-maxillary-sinus-floor]] — 3D FEA(각도 3모델·박리 0/4mm): 10mm 거상 시 첨두 막 응력 45° 78.32 vs 125° 51.87 MPa; 점막 박리 4mm 시 좁은 상악동 91%↓(7.25 MPa) — 좁은 동에서 천공위험 높은 역학적 근거 + 수정 내부거상술 타당성 (2024)
+- [[sinus-lift/transcrestal/dhore-2025-sinus-lifting-procedure-using-osseodensification]] — SR(J Maxillofac Oral Surg 2025, PROSPERO CRD42023455968, 6편/89명/100임플란트): OD vs 오스테오톰 경치조골 거상 — 모든 연구에서 OD 임플란트 안정성 지수(ISQ) 유의↑(1차 65.1–74.2 vs 52.8–68.5), 변연골소실 유의차 없음; 이질성으로 메타분석 미수행·비뚤림 위험 높음(고위험 4/6)
+- [[sinus-lift/transcrestal/shah-2026-implant-stability-elevation-outcomes-crestal]] — 전향적 비교(n=60, 잔존골높이(RBH) 4–7mm·경사 동저): Densah 골밀도화(OD) 경치조골 거상 무이식 4.22 vs 이식 3.96mm(P=0.042, 무이식↑), 안정성 지수(ISQ)는 이식 74.33 vs 무이식 67.76(P<0.001, 이식↑), 식립토크 무차 — 이식재 병용 여부 판단 근거 (abstract의 'randomized' 주장은 본문에 무작위 방법 서술 부재 → prospective로 분류)
 
 ## 상악동거상술 — 점액낭종·위낭종 (Sinus Lift: Pseudocyst / Mucous Retention Cyst)
 - [[sinus-lift/pseudocyst/anitua-2021-mucous-cysts-pseudocysts-implants-sr]] — SR (Anitua 그룹, Med Oral 2021): 상악동 MRC/pseudocyst가 implant·sinus lift outcome 위험인자인가 — 임상적으로 유의한 위험 증가 미입증. 결정 트리 1단계 anchor
