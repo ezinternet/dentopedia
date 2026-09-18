@@ -302,6 +302,7 @@ tags: []
 - [[implants/osteotomy-thermal/woods-2022-does-irrigating-while-drilling-decrease]] — in vivo dog tibia(Iowa Orthop J 2022, Level II, 5 device): saline irrigation + sharp drill bit가 발열·급성 osteonecrosis 유의 감소; trocar-tip K-wire 최악
 - [[implants/osteotomy-thermal/slete-2018-histomorphometric-comparison-three-osteotomy-techniques]] — ex vivo 돼지 경골 파일럿(n=6/군 × 3군): 즉시 BIC OD 60.3% > 오스테오톰 40.7% > 표준 드릴링 16.3%; OD에서만 일관된 apical 골 압축; p-value 미보고 파일럿
  - [[implants/osteotomy-thermal/almo-2025-bone-density-drill-heat-osteotomy]] — 인비트로(BMC Oral Health 2025): 골밀도와 drill type 상호작용 — 단일 vs 순차 drill 발열 비교, 과열 → 섬유성 포위(fibrous encapsulation) → 골유착 실패 기전; 저밀도골·순차 드릴 발열 영향 정량화
+- [[implants/osteotomy-thermal/sadek-2025-peri-implant-bone-behavior-after-single]] — Sadek 2025 · RCT (n=32, 상악 구치부 즉시부하, 12개월): 단일 드릴링(HaeNaem One Drill System Kit) vs 축경 드릴링 — 전 지표 군간 동등(IT ≥35 Ncm, ISQ 74–78, 협측 MBL 0.47 vs 0.70 mm, P>0.05), 생존 100%; 발열↓·술시각 단축은 저자 주장 (DOI 10.1186/s12903-025-06360-0)
 - [[implants/osseodensification/koutouzis-2019-alveolar-ridge-expansion-osseodensification-multicenter-retrospective]] — 다기관 후향(n=21/28 임플란트): OD 골밀도화 치조정 확장 — 3–4mm 좁은 능선 2.83±0.66mm 확장, 평균 IT 61.2±13.9 Ncm·ISQ 77; 생존율 92.8%(2 실패); 좁은 능선·trabecular 충분 시 최대 효과
 - [[implants/osseodensification/mello-machado-2021-osseodensification-low-quality-bone-rct]] — 이중맹검 RCT(n=16/55 임플란트, D3/D4): OD가 표준 언더사이즈 드릴링 대비 IT 39.0 vs 32.0 Ncm(p<0.001) 더 높으나 ISQ는 식립·6개월 모두 동등; 생존율 동등 — equivalence 결과
 - [[implants/osseodensification/kanathila-2018-insight-osseodensification-implant-stability-success]] — narrative review(J Clin Diagn Res 2018): OD 개념 정리 — Densah CCW 회전으로 골 압축·autograft, 저밀도 골 IT ~49 vs 표준 ~25 Ncm 보고. Huwais 측 인용 의존, 정량 효과는 후속 MA로 검증 필요
@@ -4213,6 +4214,7 @@ tags: []
 - [[sinus-lift/transcrestal/lin-2025-schneiderian-membrane-biomechanical-transcrestal-fea]] — 3D FEA: hydraulic pressure (CAS-Kit) requires 47% less force than large osteotome at 5mm elevation; lowest von Mises stress — biomechanical basis for lower perforation rate (2025)
 - [[sinus-lift/transcrestal/ceruso-2025-crestal-hydraulic-sinus-lift-cas-kit-retrospective]] — Retrospective case series (n=15, 20 implants): CAS-Kit TSFE RBH ≥2mm, bone gain 9.6±2.4mm, 100% survival, 0 complications at 9m (2025)
 - [[sinus-lift/transcrestal/difrischia-2025-crestal-sinus-elevation-below-3mm-cas-kit-case-report]] — Case report (RBH 3.6/2.5mm): CAS-Kit dual-site hydraulic TSFE, bone gain 14.1/11.4mm, 30 Ncm torque, stable 3 years (2025)
+- [[sinus-lift/transcrestal/changrani-2024-evaluation-of-the-efficacy-of]] — ⚠️ RETRACTED — DO NOT CITE. HaeNaem Zero Bone Loss bur kit + OD 간접 상악동 거상 전향적(n=12). 임상 근거 사용 불가. (Cureus 2024)
 
 ### sinus-lift/lateral
 - [[sinus-lift/lateral/pignataro-2008-ent-assessment-sinus-lift-candidates]] — ENT pre-operative risk stratification framework for sinus lift candidates (2008)
