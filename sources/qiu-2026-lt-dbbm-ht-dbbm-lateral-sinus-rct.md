@@ -100,3 +100,15 @@ Pilot multicenter RCT (n=36, 6-month): LT-DBBM (Bio-Oss®, 300°C) vs HT-DBBM (G
 - **Tb.Sp**: Trabecular Separation — medullary cavity average width between trabeculae
 - **ΔH**: Height resorption from T1 (immediate) to T2 (6 months)
 - **MIMICS**: Medical imaging software for 3D CBCT reconstruction and volumetric analysis
+
+## Three-line Summary
+
+- Pilot multicenter RCT (n=36, LT-DBBM Bio-Oss® n=20 vs HT-DBBM Gegreen® n=16, 6-month follow-up with CBCT, Micro-CT, and histology) comparing low-temperature (300°C) vs high-temperature (400–1200°C) sintered deproteinized bovine bone mineral in lateral window sinus floor elevation.
+- No significant differences between groups in any measured outcome: immediate bone height gain (12.55 vs 12.46mm), 6-month total height (14.35 vs 14.89mm), volume resorption rate (8.32% vs 10.44%), or Micro-CT bone microarchitecture (BV/TV ~13.2–13.9%).
+- Sintering temperature does not affect 6-month clinical outcomes in lateral sinus augmentation; LT- and HT-DBBM are clinically interchangeable at this time horizon, though the study remains underpowered as an interim analysis.
+
+## 세줄요약
+
+- 파일럿 다기관 무작위 대조 시험(Randomized Controlled Trial, RCT)(n=36: 저온소결 탈단백 우골광물(LT-DBBM, Low-Temperature Deproteinized Bovine Bone Mineral) Bio-Oss® n=20 vs 고온소결(HT-DBBM, High-Temperature DBBM) Gegreen® n=16): 측방창 상악동저 거상술(Lateral Sinus Floor Elevation, LSFE) 6개월 추적, CBCT·Micro-CT·조직학 평가.
+- 두 군 간 모든 측정 지표에서 유의차 없음: 즉시 골높이 획득(12.55 vs 12.46mm), 6개월 총 골높이(14.35 vs 14.89mm), 부피 흡수율(8.32% vs 10.44%), 골 미세구조 골부피비율(BV/TV, Bone Volume/Total Volume) ~13.2–13.9%.
+- 소결 온도는 측방 상악동거상술의 6개월 임상 결과에 영향을 미치지 않음; 다만 중간 분석(interim analysis)으로 검정력 부족 — 완전 4군 RCT 결과를 기다려야.
