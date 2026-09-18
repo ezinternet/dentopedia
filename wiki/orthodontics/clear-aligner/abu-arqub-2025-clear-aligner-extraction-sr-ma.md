@@ -57,3 +57,15 @@ Design: SR+MA (PRISMA). 7 databases to April 2025. Inclusion: ≥12 years, premo
 - [[orthodontics/clear-aligner/benedetti-2025-clear-aligner-rotation-accuracy-sr]] — reinforces (movement accuracy limitations)
 - [[orthodontics/clear-aligner/jedlinski-2023-attachments-orthodontic-aligner-comprehensive-sr]] — applies-to (attachment strategies for extraction cases)
 - [[orthodontics/clear-aligner/nogueira-matos-2026-refinement-factors-clear-aligner-sr]] — reinforces (extraction as refinement driver)
+
+## Three-line Summary
+
+- SR+MA (20 studies, 536 aligner patients, 7 databases, PROSPERO CRD42024613540) evaluating clear aligner tooth movement predictability and clinical effectiveness in premolar extraction cases.
+- Meta-analysis found excessive mesial tipping of maxillary first molars (MD −6.08°; 95% CI −7.89 to −4.26) and under-retraction of maxillary incisors (−1.93 mm; 95% CI −2.15 to −1.71); root divergence, anchorage loss, and inferior ABO-OGS scores versus fixed appliances confirmed across 4 RCTs.
+- Clear aligners in extraction cases require strategic overcorrection and adjunctive mechanics to compensate for inherent biomechanical limitations; fixed appliances remain superior for root control and occlusal contact in premolar-extraction treatment.
+
+## 세줄요약
+
+- SR+MA (20개 연구, 536명, PROSPERO CRD42024613540): 소구치 발치 증례에서 투명교정 (Clear Aligner) 치아이동 예측도 및 임상 효과 평가.
+- 메타분석: 상악 제1대구치 근심 경사 MD −6.08° (95% CI −7.89~−4.26), 상악 전치 under-retraction −1.93 mm (−2.15~−1.71); 치근 벌어짐·앵커리지 손실·교합 접촉·미국교정학회 객관적 등급 시스템 (American Board of Orthodontics Objective Grading System, ABO-OGS) 점수 고정식 대비 열등 (4편 RCT 고질 근거).
+- 발치 증례 투명교정에는 전략적 과교정 (overcorrection) 및 보조장치 필수; 치근 제어와 교합 접촉은 고정식 우위.
