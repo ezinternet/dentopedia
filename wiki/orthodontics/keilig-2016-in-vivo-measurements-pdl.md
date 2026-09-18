@@ -6,7 +6,6 @@ date: 2016-07-01
 doi: "10.1016/j.aanat.2015.08.004"
 source: keilig-2016-in-vivo-measurements-pdl.md
 category: orthodontics
-confidence: in-vivo
 pdf_path: /Users/oracleneo/llm-wiki/papers/keilig-2016-in-vivo-measurements-pdl.pdf
 pdf_filename: keilig-2016-in-vivo-measurements-pdl.pdf
 source_collection: external
