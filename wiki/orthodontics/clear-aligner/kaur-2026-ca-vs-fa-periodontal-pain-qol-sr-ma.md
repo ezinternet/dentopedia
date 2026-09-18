@@ -95,3 +95,15 @@ This PRISMA-registered SR+MA searched five major databases through March 2025, i
 - [[orthodontics/clear-aligner/alhuwaizi-2026-clear-aligner-fixed-oral-hygiene-periodontal-grade-sr]] — extends: GRADE SR of 6 RCTs only; very low–low certainty due to high RoB; current larger pool raises certainty
 - [[orthodontics/clear-aligner/crego-ruiz-2023-periodontal-gingival-recession-aligner-vs-fixed-sr-ma]] — extends: found PI and PPD significant only at specific timepoints (I²=99%); current study corroborates directionality with lower heterogeneity
 - [[orthodontics/clear-aligner/hassan-2024-salivary-tnf-alpha-clear-aligner-fixed-appliance]] — reinforces: salivary TNF-α higher in FA vs CA at all timepoints consistent with CA's lower gingival inflammation finding here
+
+## Three-line Summary
+
+- SR+MA (32 studies — 17 RCTs, 15 observational; 28 pooled; databases inception to March 2025; INPLASY 202530100) comparing clear aligner therapy versus fixed appliances across periodontal indices, pain, and quality of life.
+- Clear aligners were significantly superior on all five outcomes: plaque index (PI) MD −0.437, gingival index (GI) MD −0.233 (I²=0%), probing depth (PD) MD −0.332 (I²=0%), pain SMD −0.419, and quality of life (QoL) SMD −0.970 at end of treatment; GRADE high for GI and PD, moderate for the remainder; QoL advantage non-significant at 12 months (SMD −0.531, p=0.108).
+- Clear aligners produce consistently better short-term periodontal health and QoL than fixed appliances, but absolute periodontal differences are modest (PD reduction 0.332 mm) and QoL benefits fade by 12 months; publication bias likely inflates pain and PI estimates.
+
+## 세줄요약
+
+- SR+MA (32편/28 메타; 2025년 3월까지; INPLASY 등록): 투명교정장치 (Clear Aligner, CA) vs 고정식 교정장치 (Fixed Appliance, FA) — 치주지표·통증·삶의 질 비교.
+- CA가 5개 전 영역 유의 우위: 치태지수 (Plaque Index, PI) MD −0.437, 치은지수 (Gingival Index, GI) MD −0.233 (I²=0%), 탐침깊이 (Probing Depth, PD) MD −0.332 (I²=0%), 통증 SMD −0.419, 치료종료 삶의 질 (Quality of Life, QoL) SMD −0.970; GRADE GI·PD 고도, 나머지 중등도; 12개월 QoL은 유의차 없음.
+- CA 단기 치주건강·QoL 일관 우위이나 절대 치주 차이 미미 (PD 0.332 mm), QoL 이점 12개월에 소실; 통증·PI 추정치는 출판 편향 가능성.
