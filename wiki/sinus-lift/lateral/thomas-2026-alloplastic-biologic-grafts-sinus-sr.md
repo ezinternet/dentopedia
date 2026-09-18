@@ -6,7 +6,7 @@ date: 2026-05-07
 doi: "10.1038/s41405-026-00435-y"
 source: thomas-2026-alloplastic-biologic-grafts-sinus-sr.md
 category: sinus-lift/lateral
-confidence: sr
+evidence_level: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/thomas-2026-alloplastic-biologic-grafts-sinus-sr.pdf
 pdf_filename: thomas-2026-alloplastic-biologic-grafts-sinus-sr.pdf
 source_collection: external
