@@ -73,3 +73,15 @@ In vivo clinical study (n=5 healthy volunteers) measuring time-dependent force/d
 - **Multiphasic constitutive law**: Material model accounting for solid (collagen fibres) and fluid phases of PDL
 - **FEM**: Finite element method — computational structural analysis
 - **KFO 208**: German Research Foundation Clinical Research Unit on dental biomechanics, University of Bonn
+
+## Three-line Summary
+
+- In vivo clinical study (n=5 healthy volunteers, ages 21–33) using a novel intraoral loading device to apply controlled horizontal deflections (0–0.15 mm) to upper central incisors at six loading rates (0.1–5.0 s), with individual 3D finite element models (FEM) fitted to experimental force/displacement curves.
+- Young's modulus was 1.2 MPa at fast loading (0.1 s) and 0.9 MPa at slow loading (5.0 s); force at 0.1 s ranged 7.0–16.2 N across subjects; monotonic force decrease with longer loading time confirmed viscoelastic/poroelastic periodontal ligament (PDL) behavior in all subjects.
+- These in vivo benchmarks provide the only empirically validated rate-dependent Young's modulus values for the human PDL, serving as critical input parameters for multiphasic constitutive laws in orthodontic tooth movement and implant biomechanics simulations.
+
+## 세줄요약
+
+- In vivo 임상 연구 (건강한 지원자 5명, 21–33세): 구강 내 측정장치로 상악 중절치에 6가지 하중 속도 (0.1–5.0 s)로 제어된 수평 변위 (0–0.15 mm)를 가하고 개인별 3D 유한요소모델 (Finite Element Model, FEM)로 실험 곡선에 피팅.
+- 탄성계수 (Young's Modulus) 빠른 하중 (0.1 s) 1.2 MPa → 느린 하중 (5.0 s) 0.9 MPa; 0.1 s 기준 전치 하중 7.0–16.2 N; 하중 시간 증가에 따른 힘 단조 감소 — 치주인대 (Periodontal Ligament, PDL) 점탄성 (Viscoelastic)/공극탄성 (Poroelastic) 거동 확인.
+- 이 in vivo 기준값은 교정 치아이동 (Orthodontic Tooth Movement, OTM) 및 임플란트 생체역학 시뮬레이션에 쓰이는 다상 구성방정식 (Multiphasic Constitutive Law)의 검증된 속도의존성 탄성계수 입력 파라미터를 제공하는 희귀 데이터.
