@@ -57,3 +57,15 @@ This 8-year prospective cohort evaluated 89 posterior maxilla cases requiring si
 - [[sinus-lift/transcrestal/duan-2017-graft-free-maxillary-sinus-floor-elevation-sr-ma]] — reinforces (graft-free MSFE SR/MA)
 - [[sinus-lift/transcrestal/albadani-2024-graftless-sinus-lifting-simultaneous]] — reinforces (graftless simultaneous placement)
 - [[sinus-lift/transcrestal/song-2020-tenting-effect-implant-sinus-graftless]] — reinforces (mechanism: tenting effect)
+
+## Three-line Summary
+
+- Prospective 8-year cohort study (n=89 posterior maxilla cases: 74 graftless, 15 grafted control; minimum 60-month follow-up; single center, Athens) comparing graftless vs grafted simultaneous transcrestal sinus lift with dental implant placement.
+- Graftless group achieved 97.76% implant success rate vs 86.6% in the grafted control; residual bone height was a statistically significant predictor of success in both groups (p<0.05).
+- Long-term evidence supports graftless simultaneous transcrestal sinus lift as first-line when adequate residual bone height criteria are met; the graftless approach yielded superior success compared to grafted controls at 8 years, challenging the necessity of bone grafting.
+
+## 세줄요약
+
+- 8년 전향적 코호트(n=89, 상악 구치부: graftless 74례 vs 골이식 대조군 15례; 최소 60개월 추적, 아테네 단일 기관): 골이식 없는 동시 치조정접근 상악동거상술+임플란트 식립 vs 골이식군 비교.
+- Graftless군 임플란트 성공률(Implant Success Rate) 97.76% — 골이식 대조군(86.6%) 초과; 잔존골 높이(Residual Bone Height, RBH)가 두 군 모두에서 유의한 성공 예측 인자(p<0.05).
+- 적절한 RBH 충족 시 골이식 없는 동시 치조정접근 상악동 거상(Transcrestal Sinus Floor Elevation, TSFE)이 8년 장기 데이터에서 첫 번째 선택지로 지지됨; 이식재 필요성에 의문을 제기하는 결과.
