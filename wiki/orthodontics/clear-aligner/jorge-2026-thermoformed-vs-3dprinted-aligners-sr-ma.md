@@ -80,3 +80,15 @@ This SR+MA pooled 23 in vitro studies examining physical/mechanical properties a
 - [[orthodontics/clear-aligner/almotairy-2026-ageing-effects-clear-aligner-materials-sr]] — extends; SR on aging/degradation of CA materials (95 studies) — adds time dimension to static property comparison
 - [[orthodontics/clear-aligner/baik-2024-3d-printed-aligner-premolar-extrusion-force-moment]] — refines; in vitro DTP aligner bench study showing force/moment in clinical configurations — contextualizes DTP geometric accuracy advantage for specific movements
 - [[orthodontics/clear-aligner/cho-2025-clear-aligner-material-force-moment-six-axis-sensor]] — refines; six-axis sensor comparison of TM vs DTP force/moment — operational counterpart to this property SR
+
+## Three-line Summary
+
+- SR+MA (23 in vitro studies; 4 in meta-analysis) comparing physical, mechanical, and dimensional accuracy properties of thermoformed (TM) versus direct 3D-printed (DTP) clear aligners; all evidence in vitro with 0 low-risk-of-bias studies.
+- TM aligners showed higher flexural strength, storage modulus, and surface microhardness; DTP showed better shape recovery, greater vertical traction forces, superior geometric accuracy, and a lower glass-transition temperature (Tg = 42.3 °C); thickness variation meta-analysis was non-significant (SMD 1.48; p = .62; I² = 97%).
+- No universally superior technology exists: TM rigidity favors sustained force delivery while DTP geometric precision may benefit complex tooth movements; DTP's low Tg warrants caution with hot beverages; standardized in vitro and clinical comparison protocols are needed.
+
+## 세줄요약
+
+- SR+MA (23편 in vitro / 4편 메타): 성형 투명교정장치 (Thermoformed, TM) vs 직접 3D 출력 교정장치 (Direct 3D-Printed, DTP) 물리·기계·치수 정확도 비교; 전 근거 in vitro, 저비뚤림 연구 0편.
+- TM이 굴곡강도·저장탄성률·표면경도 우위; DTP가 형상회복능 (Shape Recovery)·수직 견인력·기하학적 정확도 (Geometric Accuracy) 우위, 유리전이온도 (Glass-Transition Temperature, Tg) 낮음 (42.3 °C); 두께 변화량 메타분석 유의차 없음 (I²=97%).
+- 범용 우월 기술 없음: TM은 지속 힘 전달, DTP는 복잡 이동 정밀도에 각각 유리; DTP 낮은 Tg — 열음료 주의 필요; 표준화된 임상 비교 연구 필요.
