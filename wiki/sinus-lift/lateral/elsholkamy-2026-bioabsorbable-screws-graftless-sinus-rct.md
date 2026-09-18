@@ -6,7 +6,7 @@ date: 2026-02-19
 doi: "10.1186/s12903-026-07772-2"
 source: elsholkamy-2026-bioabsorbable-screws-graftless-sinus-rct.md
 category: sinus-lift/lateral
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/elsholkamy-2026-bioabsorbable-screws-graftless-sinus-rct.pdf
 pdf_filename: elsholkamy-2026-bioabsorbable-screws-graftless-sinus-rct.pdf
 source_collection: external
