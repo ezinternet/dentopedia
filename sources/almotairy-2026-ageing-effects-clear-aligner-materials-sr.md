@@ -121,3 +121,15 @@ Systematic review (95 studies, PRISMA 2020, PROSPERO CRD420251110248) of clear a
 - **RoB (Risk of Bias)**: QUIN for purely in vitro, JBI for cohort in vivo, Cochrane RoB 2 for RCTs
 - **Pooled weighted mean ΔE**: Σ(n × ΔE) / Σn — simple sample-size-weighted mean across comparable studies; not a formal meta-analytic effect estimate
 - **Microplastic (MP)**: Small plastic fragments released from aligner materials under cyclic loading; clinical health significance currently unknown
+
+## Three-line Summary
+
+- Systematic review (95 studies, PRISMA 2020, PROSPERO CRD420251110248) integrating four property domains — chemical, physical, mechanical, and morphological — of clear aligner material aging; risk of bias: low (8), moderate (62), high (25).
+- Pooled coffee discoloration color difference (ΔE) = 70.9, tea ΔE = 18.4, red wine ΔE = 11.5 (7-day, 37 °C protocols); force decay 40–90% within 48 h; thermoplastic polyurethane (TPU)-based and directly printed aligners (DPAs) more susceptible to staining, mechanical degradation, and surface damage than polyethylene terephthalate glycol-modified (PETG)-based aligners.
+- Material-specific dietary and cleaning guidance and force-decay-calibrated replacement intervals are warranted; PETG-based systems are preferable for color-stability-sensitive patients; trace elemental release (including mercury in one brand) warrants biocompatibility awareness.
+
+## 세줄요약
+
+- SR (95편, PRISMA 2020, PROSPERO CRD420251110248): 투명교정 재료 노화의 화학·물리·기계·형태 4개 영역 종합 — 최초 멀티도메인 SR.
+- 커피 착색 색차 (Color Difference, ΔE) 풀링 가중평균 70.9 > 차 18.4 > 적포도주 11.5; 힘 감쇠 (Force Decay) 48시간 내 40–90%; 열가소성 폴리우레탄 (Thermoplastic Polyurethane, TPU) 기반 및 직접 인쇄 교정장치 (Directly Printed Aligner, DPA)가 폴리에틸렌 테레프탈레이트 글리콜 변성 (Polyethylene Terephthalate Glycol-modified, PETG) 대비 착색·기계적 열화·표면 손상에 더 취약.
+- 재료별 맞춤 식이·세정 지도 및 힘 감쇠 기반 교체 주기 설정 필요; 색 안정성 민감 환자에는 PETG 기반 브랜드 권장; 일부 브랜드 미량 원소 방출 (수은 포함) — 생체적합성 주의 요망.
