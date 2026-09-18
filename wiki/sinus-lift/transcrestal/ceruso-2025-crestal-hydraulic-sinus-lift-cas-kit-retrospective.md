@@ -60,3 +60,15 @@ Ceruso et al. conducted a single-center retrospective case series evaluating the
 
 - [[sinus-lift/transcrestal/lin-2025-schneiderian-membrane-biomechanical-transcrestal-fea]] — reinforces: FEA predicted hydraulic technique's lower perforation risk; this series confirms 0 perforations clinically
 - [[sinus-lift/transcrestal/difrischia-2025-crestal-sinus-elevation-below-3mm-cas-kit-case-report]] — reinforces: same CAS-Kit + PRAMA protocol in a single extreme-RBH case (down to 2.5mm)
+
+## Three-line Summary
+
+- Retrospective single-center case series (n=15 patients, 20 implants, Rome 2021–2024) evaluating CAS-Kit hydraulic transcrestal sinus floor elevation combined with PRAMA tissue-level implants, with minimum residual bone height of 2mm and 9-month radiographic follow-up.
+- Mean bone gain was 9.6±2.4mm; membrane elevation settled from 13.8±1.8mm at placement to 13.0±1.6mm at 9 months (−0.8mm, p=0.000); 100% implant and prosthetic survival; zero membrane perforations or complications.
+- CAS-Kit hydraulic transcrestal sinus floor elevation is feasible down to residual bone height 2mm with tissue-level implants, extending the conventional 3–5mm threshold; minimal membrane remodeling and stable bone above the implant tip support long-term osseointegration.
+
+## 세줄요약
+
+- 후향적 케이스 시리즈(n=15, 20임플란트, 로마 2021–2024): CAS-Kit 수압식 치조정접근 상악동 거상(Transcrestal Sinus Floor Elevation, TSFE) + PRAMA 조직-레벨(tissue-level) 임플란트, 최소 잔존골 높이(Residual Bone Height, RBH) 2mm 조건, 9개월 방사선 추적.
+- 평균 골이득 9.6±2.4mm; 막 거상 높이 식립 시 13.8±1.8mm → 9개월 13.0±1.6mm(−0.8mm, p=0.000); 임플란트·보철 생존율 100%; 막 천공·합병증 0.
+- CAS-Kit 수압식 TSFE는 RBH 2mm까지 안전하게 적용 가능 — 기존 3–5mm 기준을 하향 확장; 막 리모델링 최소 및 임플란트 상방 골 안정 확인.
