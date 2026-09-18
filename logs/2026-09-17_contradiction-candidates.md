@@ -6,19 +6,11 @@
 
 **대상은 키워드에 가장 가까운 링크로 특정한다.** 같은 줄의 나머지 링크는 충돌 표현의 대상이라는 근거가 없어 Tier 2(`AMBIG→`)로 강등된다 — 버리지 않으니 진짜 대상이 강등됐다면 Tier 2에서 찾을 수 있다.
 
-- Tier 1 (대상 지목됨, actionable): **1**
+- Tier 1 (대상 지목됨, actionable): **0**
 - Tier 2 (대상 불명/soft, review): **66**
-- (억제됨) 이미 typed 엣지·supersession 포인터가 있어 제외: **296** · 부정문 제외: **115** · 검토·불필요 대장: **449** · 동일 줄 비최근접으로 Tier 2 강등: **0**
+- (억제됨) 이미 typed 엣지·supersession 포인터가 있어 제외: **297** · 부정문 제외: **115** · 검토·불필요 대장: **449** · 동일 줄 비최근접으로 Tier 2 강등: **0**
 
 ## Tier 1 — 판단 후 엣지 달 후보 (page → 지목된 target)
-
-### implants/surface
-
-- `safaei-2024-surface-topography-soft-tissue-implant`  —[counterpoint · 반대 논점]→  **`canullo-2020-titanium-abutment-surface-peri-implant-tissue-ma`**
-  - **근거 문장**: - [[implants/soft-tissue/canullo-2020-titanium-abutment-surface-peri-implant-tissue-ma]] — clinical counterpoint: SR+MA found modified titanium abutment surfaces made no short-term difference in clinical soft-tissue indices (PI P=0.091, BoP P=0.099, PD P=0.488); the cellular/histologic gains reviewed here did not translate to index-level clinical benefit.
-  - ▸ 출발(`safaei-2024-surface-topography-soft-tissue-implant`) 세줄: 내러티브 문헌고찰: 티타늄 (Titanium, Ti) 임플란트 경점막부 (Transmucosal) 나노형태 (Nanotopography) 공정(포토리소그래피·전자빔리소그래피·양극산화·상분리·나노임프린팅), 연조직 통합, 항균 기전, 표면 매개 면역조절 (M1→M2 대식세포 편극). 나노스케일(10–100 nm) 구조는 기계적 살균(막 신장·파열)과 공간구속으로 세균 부착을 억제; 30 nm 이산화티타늄 (Titanium dioxide, TiO2) 나노튜브는 항염증형 M2, 80–100 nm는 염증
-  - ▸ 대상(`canullo-2020-titanium-abutment-surface-peri-implant-tissue-ma`) 세줄: SR+MA (10편 검토, 6편 풀링 — RCT 4·CCT 2, 환자 118명·임플란트 182개): 변형된 티타늄 어버트먼트 (Healing Abutment) 표면 처리가 임플란트주위 연조직에 미치는 영향 평가. 단기 결과: 플라크 지수 (P=0.091)·탐침 시 출혈 (Bleeding on Probing, BoP, P=0.099)·탐침 깊이 (Probing Depth, PD, P=0.488) 모두 대조군과 유의한 차이 없음. 장기 (5–6년) 4편은 이질성 과다로 풀링 불가·기법에 따라 상반된 
-
 
 ## Tier 2 — 대상 식별 필요 / soft signal (review only)
 
