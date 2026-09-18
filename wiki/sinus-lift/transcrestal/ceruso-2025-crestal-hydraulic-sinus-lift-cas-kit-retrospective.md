@@ -6,7 +6,7 @@ date: 2025-04-28
 doi: "10.3390/dj13050193"
 source: ceruso-2025-crestal-hydraulic-sinus-lift-cas-kit-retrospective.md
 category: [sinus-lift/transcrestal]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-abstract
 tags: [cas-kit, hydraulic-sinus-lift, transcrestal, tissue-level-implant, bone-gain, schneiderian-membrane]
 relations:
