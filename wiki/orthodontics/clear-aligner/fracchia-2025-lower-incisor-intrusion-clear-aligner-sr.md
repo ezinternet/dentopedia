@@ -8,7 +8,7 @@ pmid: "40944102"
 pmcid: "PMC12429061"
 source: fracchia-2025-lower-incisor-intrusion-clear-aligner-sr.md
 category: orthodontics/clear-aligner
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-abstract
 tags: []
 relations:
