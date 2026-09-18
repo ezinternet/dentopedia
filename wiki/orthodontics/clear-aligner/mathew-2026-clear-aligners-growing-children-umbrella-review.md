@@ -74,3 +74,15 @@ This umbrella review applied JBI methodology and the PRISMA for Overviews checkl
 - [[orthodontics/clear-aligner/serafin-2026-invisalign-first-mixed-dentition-expansion-sr-ma]] — reinforces: SR+MA on Invisalign First mixed-dentition expansion predictability (9 studies); upper 65%, lower 71%
 - [[orthodontics/clear-aligner/yassir-2022-cat-vs-fat-overview-systematic-reviews]] — extends: broader umbrella of 18 SRs on CA (all ages); similarly identifies skeletal evidence gap and limited high-quality RCTs
 - [[orthodontics/clear-aligner/di-spirito-2023-clear-aligner-periodontal-umbrella-review]] — reinforces: umbrella review of CA periodontal outcomes (4 SRs, n=2,042); short-term periodontal advantage over fixed, echoing the same call for standardised reporting
+
+## Three-line Summary
+
+- Umbrella review (JBI methodology, PRISMA for Overviews, PROSPERO CRD420251054252) synthesizing 6 systematic reviews from 1,609 records on clinical outcomes of clear aligners in growing children with mixed/transitional dentition.
+- All 6 SRs consistently reported dentoalveolar improvements (tooth alignment, overjet reduction, arch development); skeletal outcomes were discordant — 2 SRs noted possible mandibular changes, 3 reported minimal or no skeletal effects, 1 found insufficient evidence; periodontal and patient-reported outcomes (PROs) insufficient; AMSTAR-2 rated 5/6 SRs critically low.
+- Clear aligners predictably correct dentoalveolar problems in growing patients but lack evidence for meaningful skeletal modification; the current evidence base rests on very low methodological quality across all included reviews.
+
+## 세줄요약
+
+- 우산고찰 (JBI 방법론, PRISMA for Overviews, PROSPERO CRD420251054252): 1,609건에서 추출한 6편 SR을 통해 성장기 혼합치열 소아 투명교정 (Clear Aligner) 임상 결과 종합.
+- 치조성 개선 (정렬·overjet·arch 발달)은 전 편 일관; 골격 효과 불일치 (2편 하악 변화 가능성, 3편 미미/없음, 1편 불충분); 치주·환자보고결과 (Patient-Reported Outcome, PRO) 근거 불충분; AMSTAR-2 critically low 5/6편.
+- 성장기 소아 투명교정은 치조성 문제 교정에 예측 가능하나 골격 개선 효과 근거 불충분; 포함 SR 전반 방법론 질 매우 낮음.
