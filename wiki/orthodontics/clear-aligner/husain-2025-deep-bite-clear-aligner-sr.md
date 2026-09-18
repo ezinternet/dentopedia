@@ -7,7 +7,7 @@ doi: "10.1007/s00784-025-06381-7"
 pmid: "40394411"
 source: husain-2025-deep-bite-clear-aligner-sr.md
 category: orthodontics/clear-aligner
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-abstract
 tags: []
 relations:
