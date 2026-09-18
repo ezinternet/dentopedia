@@ -65,3 +65,15 @@ This double-blind RCT tested bioabsorbable screws (Inion FreedomScrews™) as sp
 - [[sinus-lift/transcrestal/kostakis-2025-graftless-sinus-lift-simultaneous-8year]] — reinforces (graftless 8yr, 97.76% success)
 - [[sinus-lift/lateral/thomas-2026-alloplastic-biologic-grafts-sinus-sr]] — reinforces (xenograft superior volumetric stability, equivalent implant survival)
 - [[sinus-lift/lateral/tian-2026-large-sinus-membrane-perforations-collagen]] — related (collagen membrane use in lateral window)
+
+## Three-line Summary
+
+- Double-blind RCT (n=14, 7 per group, RBH ≤4mm) comparing graftless lateral window sinus augmentation using bioabsorbable screws (Inion FreedomScrews™) as space maintainers against DBBM xenograft control; 8-month follow-up with CBCT and histomorphometry.
+- Histomorphometric new bone formation was equivalent between graftless and xenograft groups (37.3% vs 35.2%, p=0.324), but radiographic bone height was significantly lower in the graftless group (8.43 vs 12.07mm, p<0.001); all 14 implants achieved primary stability.
+- Schneiderian membrane has equivalent osteogenic potential to xenograft scaffolding; the limiting factor for graftless lateral sinus lift is space maintenance quantity, not bone-forming capacity.
+
+## 세줄요약
+
+- 이중맹검 무작위 대조 시험(Randomized Controlled Trial, RCT)(n=14, 잔존골 높이(Residual Bone Height, RBH) ≤4mm): 생분해성 스크류(Inion FreedomScrews™)를 공간유지 장치로 사용한 graftless 측방창 상악동거상술 vs 탈단백 우골광물(Deproteinized Bovine Bone Mineral, DBBM) 이종골 대조군, 8개월 CBCT·조직형태계측 추적.
+- 신생골 형성률(New Bone Formation, NBF)은 두 군 동등(37.3% vs 35.2%, p=0.324)이나 방사선학적 골높이는 graftless군이 유의하게 낮음(8.43 vs 12.07mm, p<0.001); 전체 14개 임플란트 1차 안정성 달성.
+- 슈나이데리안 막(Schneiderian Membrane)은 이종골이식재 버금가는 골형성 잠재력 보유; graftless 측방 상악동거상술의 제한 인자는 골형성 능력이 아닌 공간유지 정도.
