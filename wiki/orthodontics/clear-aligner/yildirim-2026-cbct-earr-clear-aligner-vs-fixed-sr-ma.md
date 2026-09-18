@@ -74,3 +74,15 @@ This PROSPERO-registered SR+MA (CRD420261320269) addressed a methodological gap 
 - [[orthodontics/clear-aligner/hassan-2024-salivary-tnf-alpha-clear-aligner-fixed-appliance]] — reinforces: mechanistic support via TNF-α data showing sustained FA-induced inflammatory load vs. intermittent CA profile, consistent with less EARR in CA
 - [[orthodontics/clear-aligner/yassir-2022-cat-vs-fat-overview-systematic-reviews]] — reinforces: umbrella review noted lower EARR risk with CA vs FA across 18 SRs; this paper provides quantitative CBCT-specific pooled estimate
 - [[orthodontics/clear-aligner/samulak-2026-cbct-anterior-root-resorption-ca-vs-fa-sr-ma]] — reinforces: independent CBCT SR+MA (4 studies, 1,204 anterior teeth; Dent Med Probl 2026) reporting CA WMD −0.47 mm vs FA −0.54 mm (p<0.01); anterior-specific replication of the CA-vs-FA EARR advantage found here (MD −0.50 mm)
+
+## Three-line Summary
+
+- PROSPERO-registered SR+MA (CRD420261320269; 6 CBCT-exclusive comparative studies; 392 patients) comparing external apical root resorption (EARR) in clear aligner versus fixed orthodontic appliance groups using only quantitative CBCT linear measurements.
+- Pooled random-effects meta-analysis yielded MD = −0.50 mm (95% CI −0.79 to −0.21; p<0.001; I²=60.8%) favoring clear aligners; non-extraction/mixed subgroup (k=5) MD = −0.41 mm; leave-one-out sensitivity confirmed robustness (−0.41 to −0.60 mm); GRADE certainty low.
+- Clear aligner therapy produces statistically significantly less apical root shortening than fixed appliances on CBCT measurement; the effect is robust to sensitivity analysis but GRADE-low certainty from non-randomized designs means this evidence is exploratory rather than clinically definitive.
+
+## 세줄요약
+
+- SR+MA (PROSPERO CRD420261320269; CBCT 전용 비교연구 6편; 392명): 투명교정 (Clear Aligner) vs 고정식 교정장치 간 외부 치근단 흡수 (External Apical Root Resorption, EARR) — CBCT 선형 계측만 포함.
+- 메타분석 MD = −0.50 mm (95% CI −0.79~−0.21; p<0.001; I²=60.8%) CA 우위; 비발치/혼합 하위군 (k=5) MD = −0.41 mm; 민감도 분석 (Leave-one-out) 일관성 확인 (−0.41~−0.60 mm); 근거 확실도 (GRADE) 낮음.
+- CA가 CBCT 계측에서 통계적으로 유의하게 적은 치근단 흡수 유발; 효과 일관되나 비무작위 설계로 GRADE 낮음 — 탐색적 근거로 해석 권장.
