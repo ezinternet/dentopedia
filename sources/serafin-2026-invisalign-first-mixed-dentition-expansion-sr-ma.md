@@ -91,3 +91,15 @@ SR+MA (9 studies, 8 meta-analyzed, PROSPERO CRD420251083929) of Invisalign First
 - **ROBINS-I**: Risk Of Bias In Non-randomised Studies of Interventions (Cochrane risk-of-bias tool for observational studies)
 - **GRADE**: Grading of Recommendations Assessment, Development and Evaluation — certainty framework (very low / low / moderate / high)
 - **PROSPERO**: International Prospective Register of Systematic Reviews (CRD420251083929)
+
+## Three-line Summary
+
+- SR+MA (PRISMA, PROSPERO CRD420251083929; 9 studies included / 8 meta-analyzed) on Invisalign First aligner expansion predictability in mixed dentition, using binomial logit-scale meta-analysis with separate pooling for maxillary and mandibular arches.
+- Pooled predictability was 65% for the maxillary arch (GRADE low; range: permanent first molars 58% to deciduous canines 70%) and 71% for the mandibular arch (GRADE moderate; deciduous canines 75%); no significant association between planned expansion amount and achieved predictability in any subgroup.
+- Invisalign First produces modest predictability for arch expansion in mixed dentition; the mandibular arch and anterior teeth are more favorable, the posterior maxilla is the weakest segment, and the absence of a dose-response prevents relying on overcorrection magnitude as a planning strategy.
+
+## 세줄요약
+
+- SR+MA(PRISMA, PROSPERO CRD420251083929; 9편 SR / 8편 메타분석): 혼합치열(mixed dentition)에서의 Invisalign First 치궁 확장 예측성(predictability) 분석, 이항 로짓 스케일 메타분석으로 상악·하악 별도 추정.
+- 합산 예측성: 상악(maxilla) 65%(GRADE 낮음; 영구 제1대구치 58% 최저 ~ 유치견치 70% 최고) / 하악(mandible) 71%(GRADE 보통; 유치견치 75%); 계획 확장량과 달성 예측성 간 유의 상관관계 없음.
+- Invisalign First 혼합치열 확장 예측성은 중등도 수준; 하악·전치부 유리, 상악 구치부 불리; 계획 확장량 증가가 예측성을 높이지 않아 과교정(overcorrection) 전략이 용량 의존적이지 않음.
