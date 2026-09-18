@@ -2,7 +2,7 @@
 title: "임플란트·골밀도화 — osseodensification"
 authors: navigation
 year: 2026
-date: 2026-08-11
+date: 2026-09-18
 doi: N/A
 source: navigation
 category: implants/osseodensification
@@ -15,29 +15,31 @@ tags: [navigation, category-index, osseodensification]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·골밀도화
 > - **범위**: Osseodensification (OD) osteotomy — bone-condensing bidirectional burs (Densah/Versah, negative-rake flute design), primary stability & ISQ/insertion-torque vs conventional drilling, low-density bone & alveolar ridge expansion, BIC/histomorphometry (animal & human), OD applied to orthopedic fixation…
-> - **수록 논문**: 39편
+> - **수록 논문**: 41편
 
 ## Three-line Summary
 
 **Scope**: Osseodensification (OD) osteotomy — bone-condensing bidirectional burs (Densah/Versah, negative-rake flute design), primary stability & ISQ/insertion-torque vs conventional drilling, low-density bone & alveolar ridge expansion, BIC/histomorphometry (animal & human), OD applied to orthopedic fixation; brand-specific Versah clinical protocols (sinus lift I/II, IDR, immediate placement).
-**Indexed papers**: 39 papers in `wiki/implants/osseodensification/`.
+**Indexed papers**: 41 papers in `wiki/implants/osseodensification/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·골밀도화
-**수록 논문**: 39편
+**수록 논문**: 41편
 **하위 카테고리**: 없음
 
-## Papers in this Category (39)
+## Papers in this Category (41)
 
 | Paper |
 |---|
+| [[abdelraouf-2025-implant-stability-posterior-maxilla-clinical|Implant stability in the posterior maxilla: clinical and radiographic comparison of osseodensification and conventional drilling: a randomized clinical trial]] |
 | [[ali-2026-osseodensification-techniques-implant-stability-maxilla|The effect of different osseodensification techniques on implant stability in the maxillary anterior esthetic zone. A split-mouth randomized clinical trial]] |
 | [[barbera-millan-2021-primary-stability-low-density-osseodensification|Osseodensification vs Conventional Under-Drilling in Low-Density Bone: Higher IT and ISQ (Barberá-Millán 2021)]] |
 | [[bergamo-2021-osseodensification-effect-implants-primary-secondary|Osseodensification effect on implants primary and secondary stability: Multicenter controlled clinical trial]] |
 | [[de-agostinho-neto-2026-in-vitro-evaluation-different-implant-systems|In vitro evaluation of different implant systems and their influence on primary stability]] |
 | [[de-lima-2026-osseodensification-vs-conventional-drilling-exvivo|Analysis of osseodensification with two drill systems versus conventional technique for dental implants – A paired comparative ex vivo study]] |
 | [[fontes-pereira-2023-osseodensification-osteotomy-alternative-sr|Osseodensification: An Alternative to Conventional Osteotomy in Implant Site Preparation: A Systematic Review]] |
+| [[frizzera-2022-effect-osseodensification-increase-ridge-thickness|Effect of osseodensification on the increase in ridge thickness and the prevention of buccal peri-implant defects: an in vitro randomized split mouth pilot study]] |
 | [[gaikwad-2022-osseodensification-animal-biomechanics-bic-sr-ma|Biomechanical and Histomorphometric Analysis of Endosteal Implants Placed by Using the Osseodensification Technique in Animal Models: A Systematic Review and Meta-Analysis]] |
 | [[gaspar-2022-implant-stability-osseodensification-conventional-sr-ma|Implant Stability of Osseodensification Drilling Versus Conventional Surgical Technique: A Systematic Review]] |
 | [[guner-2025-osseodensification-ridge-split-implant-stability|OD vs Conventional in Ridge Split: ISQ Advantage in Maxilla (Guner 2025)]] |
