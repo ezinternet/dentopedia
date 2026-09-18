@@ -7,7 +7,7 @@ doi: "10.4103/jisppd.jisppd_225_26"
 pmid: "42641088"
 source: mathew-2026-clear-aligners-growing-children-umbrella-review.md
 category: orthodontics/clear-aligner
-confidence: sr
+evidence_level: sr
 source_collection: pubmed-abstract
 tags: [growing-children, pediatric-orthodontics, mixed-dentition, umbrella-review, skeletal-effects, dentoalveolar, amstar2]
 relations:
