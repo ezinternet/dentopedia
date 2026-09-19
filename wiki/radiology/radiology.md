@@ -2,7 +2,7 @@
 title: "방사선학 — radiology"
 authors: navigation
 year: 2026
-date: 2026-08-29
+date: 2026-09-19
 doi: N/A
 source: navigation
 category: radiology
@@ -15,20 +15,22 @@ tags: [navigation, category-index, radiology]
 > [!summary] 한국어 핵심요약
 > - **분야**: 방사선학
 > - **범위**: CBCT diagnostic performance, radiation dose/collimation, panoramic, cephalometric, CBCT-guided endodontics/implant, shielding protocols
-> - **수록 논문**: 57편
+> - **하위 카테고리**: [[mri]]
+> - **수록 논문**: 64편
 
 ## Three-line Summary
 
 **Scope**: CBCT diagnostic performance, radiation dose/collimation, panoramic, cephalometric, CBCT-guided endodontics/implant, shielding protocols
-**Indexed papers**: 57 papers in `wiki/radiology/`.
+**Indexed papers**: 64 papers in `wiki/radiology/`.
+**Sub-categories**: [[mri]]
 
 ## 세줄요약
 
 **분야**: 방사선학
-**수록 논문**: 57편
-**하위 카테고리**: 없음
+**수록 논문**: 64편
+**하위 카테고리**: mri
 
-## Papers in this Category (57)
+## Papers in this Category (64)
 
 | Paper |
 |---|
@@ -45,10 +47,12 @@ tags: [navigation, category-index, radiology]
 | [[cuozzo-2024-prevalence-anatomical-characteristics-bifid|Prevalence and Anatomical Characteristics of Bifid and Trifid Mandibular Canals: A Computer Tomography Analysis]] |
 | [[devlin-2013-object-position-magnification-panoramic-radiography|Object position and image magnification in dental panoramic radiography: a theoretical analysis]] |
 | [[dewake-2023-mri-occlusal-trauma-pdl|MRI signal intensity of the periodontal ligament space correlates with clinical occlusal trauma severity]] |
+| [[dhillon-2012-positioning-errors-and-quality-assessment|Positioning errors and quality assessment in panoramic radiography]] |
 | [[dioguardi-2025-radiographic-artifacts-caries-diagnosis-sr-ma|Radiographic artifacts in the diagnosis of dental caries: systematic review with meta-analysis]] |
 | [[elkhateeb-2022-psp-image-plate-artifacts-prevalence|Analysis of photostimulable phosphor image plate artifacts and their prevalence]] |
 | [[eshak-2014-cone-beam-ct-evaluation-presence|Cone beam CT evaluation of the presence of anatomic accessory canals in the jaws]] |
 | [[farman-2010-panoramic-ccd-storage-phosphor-film|A Comparison of Image Characteristics and Convenience in Panoramic Radiography Using Charge-Coupled Device, Storage Phosphor, and Film Receptors]] |
+| [[featherstone-2025-evaluation-panoramic-acquisition-errors-student|Evaluation of Panoramic Acquisition Errors by Predoctoral Dental Students]] |
 | [[fontenele-2025-cbct-dentistry-clinical-recommendations-indication|Cone beam computed tomography in dentistry: Clinical recommendations and indication-specific features]] |
 | [[geibel-2025-mobile-handheld-radiography-quality-nursing-home|Mobile Dental Radiology—Evaluation of Quality Requirements for Radiographs Applying Handheld Mobile Radiography]] |
 | [[gijbels-2005-dosimetry-digital-panoramic-occupational-exposure|Dosimetry of digital panoramic imaging. Part II: Occupational exposure]] |
@@ -57,6 +61,7 @@ tags: [navigation, category-index, radiology]
 | [[hidalgo-rivas-2015-low-dose-cbct-anterior-maxilla-children|Development of a low-dose protocol for cone beam CT examinations of the anterior maxilla in children]] |
 | [[horner-2004-european-guidelines-radiation-protection-dental-radiology|European guidelines on radiation protection in dental radiology: The safe use of radiographs in dental practice]] |
 | [[jacobs-2018-cbct-implant-dentistry-recommendations-clinical|Cone beam computed tomography in implant dentistry: recommendations for clinical use]] |
+| [[joh-2024-novel-method-measuring-central-ray-direction|A novel method for measuring the direction and angle of central ray and predicting rotation centre via panorama phantom]] |
 | [[johnson-2020-intraoral-radiograph-dose-collimation-thyroid-shielding|Intraoral radiographs: A comparison of dose and risk reduction with collimation and thyroid shielding]] |
 | [[kaasalainen-2021-dental-cone-beam-ct-updated-review|Dental cone beam CT: An updated review]] |
 | [[kabier-2025-xray-radiation-exposure-open-dental-clinics-tld|Evaluation of X-ray radiation exposure in open dental clinics for dentists and assistants using TL-dosimeters]] |
@@ -64,6 +69,7 @@ tags: [navigation, category-index, radiology]
 | [[kaur-2019-evaluation-mandibular-anterior-nutrient|Evaluation of mandibular anterior nutrient canals in hypertensive and diabetes mellitus patients: A comparative radiographic study]] |
 | [[khafaji-2023-scattered-dose-eye-dentistry-cbct|Assessment of Scattered Dose to the Eye in Dentistry (CBCT): A Systematic Review]] |
 | [[kim-2016-occupational-radiation-procedures-doses-korean-dentists|Occupational radiation procedures and doses in South Korean dentists]] |
+| [[kim-2024-comparative-analysis-clinical-image-evaluation|Comparative analysis of clinical image evaluation charts for panoramic radiography]] |
 | [[kim-2024-real-ghost-pseudo-ghost-images-panoramic|An atypical case involving real, ghost, and pseudo-ghost images on a panoramic radiograph]] |
 | [[kumar-2014-incidence-nutrient-canals-hypertensive|Incidence of nutrient canals in hypertensive patients: A radiographic study]] |
 | [[kuribayashi-2010-bifid-mandibular-canals-cone|Bifid mandibular canals: cone beam computed tomography evaluation]] |
@@ -79,13 +85,20 @@ tags: [navigation, category-index, radiology]
 | [[mortazavi-2016-lesions-associated-with-periodontal-ligament|Lesions associated with periodontal ligament widening: a radiographic differential diagnosis review]] |
 | [[oenning-2019-halve-dose-paediatric-cone-beam-ct|Halve the dose while maintaining image quality in paediatric Cone Beam CT]] |
 | [[ozaki-2021-cbct-effective-dose-monte-carlo-simulation|Effective dose estimation in cone-beam computed tomography for dental use by Monte-Carlo simulation optimizing calculation numbers using a step-and-shoot method]] |
+| [[pauwels-2015-technical-aspects-dental-cbct-state-art|Technical aspects of dental CBCT: state of the art]] |
 | [[ramos-2016-ghost-images-metal-objects-panoramic|Formation of ghost images due to metal objects on the surface of the patient's face: A pictorial essay]] |
+| [[rondon-2014-common-positioning-errors-in-panoramic|Common positioning errors in panoramic radiography: A review]] |
 | [[rottke-2018-operator-safety-during-the-acquisition|Operator safety during the acquisition of intraoral images with a handheld and portable X-ray device]] |
 | [[ruiz-2025-handheld-fixed-xray-image-quality-comparison|A Comparative Investigation of the Quality of Radiographs Produced by Portable Handheld and Fixed X-Ray Units]] |
 | [[schindler-2025-panoramic-thyroid-eye-lens-dose|Measurement of radiation dose and analysis of dose distribution in the thyroid and eye lens during digital panoramic tomography]] |
 | [[stervik-2024-radiation-exposure-during-orthodontic-treatment|Radiation exposure during orthodontic treatment: risk to children and adolescents]] |
+| [[suomalainen-2015-dentomaxillofacial-imaging-panoramic-views-cone|Dentomaxillofacial imaging with panoramic views and cone beam CT]] |
 | [[tay-2022-influence-cbct-endodontic-treatment-planning|Influence of cone beam computed tomography on endodontic treatment planning: A systematic review]] |
 | [[wamasing-2018-imaging-bifid-mandibular-canal|Imaging the bifid mandibular canal using high resolution MRI]] |
 | [[willershausen-2025-low-field-mri-pediatric-dental|Low-Field MRI for Dental Imaging in Pediatric Patients With Supernumerary and Ectopic Teeth: A Comparative Study of 0.55 T and Ultra-Low-Dose CT]] |
 | [[yadav-2024-nasopalatine-canal-morphology-cbct|Assessment of variations in the nasopalatine canal on CBCT: considerations from an anatomical point of view]] |
 | [[yeh-2018-estimated-radiation-risk-cancer-dental|Estimated radiation risk of cancer from dental cone-beam computed tomography imaging in orthodontics patients]] |
+
+## Sub-categories
+
+- [[mri|mri]]
