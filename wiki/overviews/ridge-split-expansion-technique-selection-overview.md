@@ -15,6 +15,7 @@ source_papers:
   - wiki/bone-regeneration/manekar-2022-modern-devices-alveolar-ridge-split-expansion-sr.md
   - wiki/bone-regeneration/simion-1992-jawbone-enlargement-split-crest-gtr.md
   - wiki/bone-regeneration/vorovenci-2024-horizontal-ridge-augmentation-od-gbr-ridge-split-sr-ma.md
+  - wiki/bone-regeneration/azadi-2025-bone-expansion-horizontal-ridge-augmentation-sr-ma.md
   - wiki/implants/osteotomy-thermal/chen-2022-reverse-drilling-technique-alveolar-ridge-expansion.md
   - wiki/implants/osseodensification/guner-2025-osseodensification-ridge-split-implant-stability.md
   - wiki/bone-regeneration/oh-2026-narrow-alveolar-ridge-splitting-miniplates.md
@@ -194,6 +195,7 @@ Piezosurgery is the recurring complication-reducer (Abdallaoui 2025 ranks it as 
 - [[bone-regeneration/vorovenci-2024-horizontal-ridge-augmentation-od-gbr-ridge-split-sr-ma]] — GBR>RS>OD 골증대 서열(P=0.002), 생존 동등(~99%) — modality 선택의 핵심 표
 - [[bone-regeneration/khanum-2024-one-stage-vs-two-stage-ridge-splitting-sr-ma]] — 1단계 vs 2단계 직접 비교(SMD ~0.89 one-stage 우세, low-certainty)
 - [[bone-regeneration/abdallaoui-2025-transverse-ridge-expansion-bone-grafting-sr]] — 이식 여부 width threshold(≥3 mm 단독 / <3 mm 선택적), 합병증율
+- [[bone-regeneration/azadi-2025-bone-expansion-horizontal-ridge-augmentation-sr-ma]] — 이식재 미사용 골확장 단독: 생존 100%, 합병증 0%, 폭 +1.55mm
 - [[bone-regeneration/lopez-valverde-2025-bone-expansion-compaction-densification-narrow-crests-sr-ma]] — narrow(≤2.5 mm) crest에서 확장·압축·OD pooling(BD 견고/CE·ISQ 취약), preclinical 모순·과압축 실패 경고
 - [[bone-regeneration/manekar-2022-modern-devices-alveolar-ridge-split-expansion-sr]] — 기구 선택(USG 3.40 vs MRE 2.83 mm; OM↔USG, CO-OC↔MRE, MRE=즉시식립)
 - [[bone-regeneration/simion-1992-jawbone-enlargement-split-crest-gtr]] — split-crest 원위(녹색골절+즉시식립+e-PTFE GTR), RS lineage의 출발점
