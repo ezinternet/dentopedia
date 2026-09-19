@@ -1,0 +1,83 @@
+TITLE: Peri-implant bone behavior after single drilling technique versus undersized drilling technique of immediately loaded implant in posterior maxilla: a one-year prospective study
+AUTHORS: Sadek Mohamed Ahmed Galal, Amer Mohamed Zaghlool, El-Gohary Nesma, Elsheikh Heba Abo-Elfetouh
+
+## ABSTRACT
+Implant placement in the posterior maxilla is challenging, so modifications of the surgical techniques were introduced to overcome these challenges. The undersized drilling technique uses a final drill smaller than the diameter of the implant. The single drilling technique is a simplified method where the osteotomy is made using a single drill without sequential widening. This study was directed to evaluate the peri-implant bone behavior of the undersized drilling technique versus the single drilling technique of immediately loaded dental implants inserted in the posterior maxilla.
+32 patients were selected for prosthetic replacement of a missing maxillary posterior single tooth by an immediately loaded dental implant and divided randomly into two equal groups. In Group I: 16 patients received 16 implants using the undersized drilling technique, while in Group II: 16 patients received 16 implants using the single drilling technique. Insertion torque, implant stability, modified sulcus bleeding index (mBI), peri-implant probing depth, bone density, and marginal bone height were evaluated for both groups. Statistical analysis was made for clinical and radiographic data.
+32 implants were inserted in the posterior maxilla. During a 12-month follow-up, every dental implant was successful with no complications. Both techniques showed high insertion torque (≥ 35 Ncm) and primary stability (> 70 ISQ) with no significant difference between the two groups (P > 0.05). Also, there were no significant differences between the study groups regarding peri-implant soft tissue health, bone density, and marginal bone loss (P > 0.05).
+Both techniques revealed comparable, promising clinical and radiographic outcomes over a 12-month post-loading follow-up period when the immediate loading protocol was used in the posterior maxilla, where bone density is poor, but preparing the implant bed using the single drilling technique offers several merits for both the patient and clinician. In addition to avoiding excessive heat generation, mechanical damage, and high frictional forces during drilling procedures, surgical operations, and surgical site exposure take less time.
+Clinical-Trials.gov PRS (https://register.clinicaltrials.gov) had this study registered under the identifier number. NCT06770231 on 01/01/2025.
+
+
+## Background
+
+## Patients and methods
+Patient selection
+32 patients were chosen to have dental implants to replace their lost maxillary posterior tooth/teeth. Every patient was chosen from the Mansoura University, Faculty of Dentistry, Oral and Maxillofacial Surgery Department’s outpatient clinic.
+Before the proposed surgery, all involved patients provided written informed consent after being fully apprised of the potential risks and advantages of the procedure. Under protocol number A03012024OS, the current study was authorized by the Institutional Review Board (IRB) of the Faculty of Dentistry, Mansoura University, Mansoura, Egypt, following the seventh revision of the Helsinki Declaration in 2013. On 01/01/2025, Clinical-Trials.gov PRS (https://register.clinicaltrials.gov) had this study registered under the identifier number. NCT06770231.
+Criteria for patient selection
+Inclusion criteriaExclusion Criteria1. Patients who have lost one or more of their maxillary posterior teeth.1. Root apex at the planned implant site.2. Patients age ≥ 18 years.2. Drug or alcohol abuse.3. Bone height was 10 mm or more.3. Patients with uncontrolled systemic diseases that contraindicate the implant surgery.4. Patients who were willing to attend the follow-up appointments and maintain proper dental hygiene.4. Pregnant women.5. Sufficient inter-arch space and mesio-distal width5. Smokers.6. Patients free of para-functional habits including bruxism and clenching.
+Sample size calculation
+Calculating the sample size was dependent on the implant stability under various surgical drilling techniques retrieved from a previous study (Elsheikh et al., 2022) [18]. Using G*Power program version 3.1.9.7 to calculate sample size based on an effect size of 1.20, using a 2-tailed test, α error = 0.05, and power = 90.0%, the total calculated sample size was 16 in each group.
+Study design
+The CONSORT criteria for conducting clinical trials were followed in this prospective randomized clinical trial (CONSORT Flowchart). Two equal groups of patients were randomly assigned to this trial:
+
+## Group I
+
+## Group II
+Randomization
+A department senior resident who was not involved in the trial and was unaware of the associated treatment plan assigned each missing tooth to the study. A computer-generated randomization list (SPSS v27.0) was used to ensure uniform randomization. Each group was composed of 16 implants. The groups were distributed as follows: Group I (Undersized drilling technique) and Group II (Single drilling technique).
+Preoperative measures
+At the intended implant site, preoperative cone beam computed tomography (CBCT) was performed using OnDemand 3D (Cybermed Co., Seoul, Korea) to assess the buccolingual width and residual bone height of the lost tooth.
+Amoxicillin and Clavulanic acid 1gm tablets (Augmentin, Medical Union Pharmaceuticals, Egypt for GSK) were administered as part of a prophylactic antibiotic regimen two hours before surgery. A one-minute rinse with Chlorohexidine mouthwash (Hexitol mouthwash 100 ml by (ADCO) – A.R.E.) was prescribed before surgery. As a baseline, preoperative intraoral photographs had been collected (Figs. 1A and 2A).
+Surgical procedures
+Articane HCL 4% -1:100000 adrenaline was used for buccal and palatal infiltrations for all surgical operations, then the crestal bone was exposed by reflecting a full thickness paracrestal mucoperiosteal flap (Figs. 1B and 2B).
+In Group I, the final drill was skipped, but otherwise the implant site preparation followed the manufacturer’s instructions. The drilling speed was 800–1200 rpm according to bone density (Fig. 1C).
+In Group II, the new, specially made drills (One Drill System Kit, HaeNaem Co., Ltd, Korea) were used to prepare the implant bed. (Fig. 3) A guiding drill of 3.5 mm in length at a speed of 800 rpm was used first, followed by a drill with the same diameter as the chosen implant size used along the osteotomy site (Fig. 2C).
+For both Groups, the sterile implant package (Neobiotech® system, IS II active, Seoul, Korea) was opened following the completion of the osteotomy (Figs. 1D and 2D), and the implant was placed 1 mm below the alveolar crest using steady, mild finger pressure (Figs. 1E and 2E). A manual ratchet was used to record the insertion torque. The flap was repositioned and sutured using simple interrupted 4/0 prolene sutures after placement of the healing abutment (Figs. 1G and 2G).
+Postoperative care and instructions
+On the first day of operation, the patient was told to perform intermittent cold fomentations every 20 min. The patient was counseled to continue using mouthwash containing chlorohexidine in order to maintain proper oral hygiene.
+For five days following surgery, all patients were kept on one gram of a combination tablet (amoxicillin + clavulanic acid) twice a day. For the following three days, they were also given a 600 mg ibuprofen tablet (Kahira Pharm. & Chem. Ind. Co.) as a non-steroidal anti-inflammatory drug.
+Prosthetic rehabilitation
+Immediately after surgery, all implants were loaded within 48 to 72 h. The healing abutment was unscrewed and replaced with an impression post, and an impression was made utilizing the open tray technique. After examining the margins and occlusion, the final restoration that was made from metal-ceramic material was cemented using temporary cement. (Figs. 1I and 2I).
+Evaluation
+
+## A. Clinical evaluation
+- Insertion torque:
+- 2.Implant Stability:
+- 3.Modified Sulcus Bleeding Index (mBI):
+- 4. Peri-implant Probing Depth:
+
+## B. Radiographic evaluation
+- Bone Density Recordings:
+- 2. Marginal Bone Loss:
+Statistical analysis
+Data management and statistical analysis were performed using the Statistical Package for Social Sciences (SPSS v27.0). Numerical data were summarized using means, standard deviations, and ranges. Data were explored for normality using the Kolmogrov-Smirnov test and the Shapiro-Wilk test. Categorical data were summarized as percentages and compared by the Fisher exact test. Comparisons between the 2 groups were done using the independent t-test. Paired t-test was done to assess the difference between two repeated measures as well as repeated measure ANOVA was used for 3-time intervals assessment. All p-values are two-sided. P-values ≤ 0.05 were considered significant.
+
+## Results
+A. Clinical evaluation
+Insertion Torque:
+There was no statistically significant difference in insertion torque value between the two groups immediately after insertion of the implant (P = 0.49) (Table 3).
+Table 3 Insertion torque: Assessment parameterGroup In = 16Group IIn = 16Test of significanceMean ± SDMean ± SD Insertion Torque 35 ± 2.5835.62 ± 2.5t = 0.69P = 0.49SD: standard deviation, P ≤ 0.05 is statistically significant, analysis was done by independent t test
+2.Implant Stability:
+There was no statistically significant difference regarding ISQ values between the two groups immediately postoperative and 3, 6, and 12 months after insertion of the implant (P > 0.05) (Table 4).
+Table 4Implant stabilityTime of assessmentGroup In = 16Group IIn = 16Test of significanceMean ± SDMean ± SD Immediate postoperative 77.31 ± 3.9276.25 ± 5.76t = 0.60P = 0.54 3 months 74.37 ± 3.273.18 ± 3.1t = 1.06P = 0.29 6 months 75.81 ± 4.0674.93 ± 4.07t = 0.61P = 0.54 12 months 76.12 ± 5.9275.5 ± 4.53t = 0.33P = 0.74SD: standard deviation, P ≤ 0.05 is statistically significant, analysis was done by independent t test
+3. Modified Sulcus Bleeding Index(mBI):
+There was no statistically significant difference regarding mBI between the two groups after 3, 6, and 12 months after insertion of the implant (P > 0.05) (Table 5).
+Table 5Modified sulcus bleeding index (mBI)Time of assessmentGroup In = 16Group IIn = 16Test of significanceMean ± SDMean ± SD 3 Months 0.15 ± 0.110.2 ± 0.18t = 0.94P = 0.35 6 Months 0.22 ± 0.340.08 ± 0.11t = 1.56P = 0.12 12 months 0.1 ± 0.110.18 ± 0.33t = 0.92P = 0.36 Repeated Measure ANOVA P = 0.12P = 0.26SD: standard deviation, P ≤ 0.05 is statistically significant, analysis was done by independent t test. Comparing. changes overtime in each group by repeated measure ANOVA
+4. Peri-implant Probing Depth:
+There was no statistically significant difference regarding peri-implant probing depth between the two groups immediately after loading and 3, 6, and 12 months after insertion of the implant (P > 0.05) (Table 6).
+Table 6Peri-implant probing depthTime of assessmentGroup In = 16Group IIn = 16Test of significanceMean ± SDMean ± SD At Loading 3.67 ± 0.333.47 ± 0.42t = 1.49P = 0.14 3 Months 2.97 ± 0.362.64 ± 0.58t = 1.93P = 0.06 6 Months 2.48 ± 0.362.39 ± 0.37t = 0.69P = 0.49 12 months 2.35 ± 0.362.2 ± 0.28t = 1.31P = 0.19 Repeated Measure ANOVA P < 0.001 *P < 0.001*SD: standard deviation, P ≤ 0.05 is statistically significant, analysis was done by independent t test. Comparing. changes overtime in each group by repeated measure ANOVA. *: statistically significant
+B. Radiographic evaluation
+Bone Density:
+Regarding buccal and palatal bone density, there was no statistically significant difference between the two groups preoperatively, immediately postoperative, 6, and 12 months after implant insertion (P > 0.05) (Table 7).
+Table 7Buccal and palatal bone densityTime / Side of assessmentGroup In = 16Group IIn = 16Test of significanceMean ± SDMean ± SD Buccal bone density Preoperative 300.95 ± 136.5323.72 ± 224.26t = 0.34P = 0.73 Immediate postoperative 850.98 ± 255.47815.71 ± 254.09t = 0.39P = 0.69 6 months 1095.54 ± 206.581106.97 ± 230.72t = 0.14P = 0.88 12 months 1107.26 ± 209.871114.66 ± 243.32t = 0.09P = 0.92 Repeated Measure ANOVA P < 0.001*P < 0.001* Palatal bone density Preoperative 284.77 ± 122.4317.46 ± 169t = 0.62P = 0.53 Immediate postoperative 580.82 ± 213.56720.11 ± 230.99t = 1.77P = 0.08 6 months 802.97 ± 361.59780.51 ± 282.99t = 0.21P = 0.84 12 months 868.68 ± 559.54864.12 ± 309.29t = 0.03P = 0.97 Repeated Measure ANOVA P < 0.001*P < 0.001*SD: standard deviation, P ≤ 0.05 is statistically significant, analysis was done by independent t test. Comparing. changes overtime in each group by repeated measure ANOVA. *: statistically significant
+2. Marginal Bone Loss:
+Regarding buccal and palatal marginal bone loss, there was no statistically significant difference between the two groups after 6, and 12 months of implant insertion (P > 0.05) (Table 8).
+Table 8Marginal bone loss (MBL)Time / Side of assessmentGroup In = 16Group IIn = 16Test of significanceMean ± SDMean ± SD Buccal 6 months 0.34 ± 0.340.54 ± 0.25t = 1.89P = 0.06 12 months 0.47 ± 0.450.7 ± 0.16t = 1.92P = 0.06 Paired t test t = 1.22P = 0.23t = 6.34P < 0.001* Palatal 6 months 0.53 ± 0.830.54 ± 0.42t = 0.04P = 0.96 12 months 0.62 ± 0.750.8 ± 0.4t = 0.84P = 0.4 Paired t test t = 2.07P = 0.055t = 3.25P = 0.005*SD: standard deviation, P ≤ 0.05 is statistically significant, analysis was done by independent t test. *: statistically significant
+
+## Discussion
+Limitations
+This study was limited due to a small sample size and a short follow-up period. Stronger and more reliable results would come from a larger sample size and a longer follow-up time.
+
+## Conclusion
