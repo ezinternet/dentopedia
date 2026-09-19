@@ -2845,6 +2845,18 @@ tags: []
 - [[radiology/ruiz-2025-handheld-fixed-xray-image-quality-comparison]] — Ruiz 2025 (in-vitro, Braz Dent J, PMC full text): 핸드헬드(Eagle) vs 고정형(Focus) 구내 X-ray 객관적 화질 비교 — 핸드헬드가 밝기↑·대비↓(p<0.0001, 센서 무관), 노이즈는 센서에 따라 상반, 균일도는 무차이
 - [[radiology/dewake-2023-mri-occlusal-trauma-pdl]] — T2 강조 IDEAL MRI 치주인대강 신호강도로 교합외상 정량 진단 (ρ = 0.529, n=20)
 
+<!-- BATCH INGEST 2026-09-19: 루트 PDF 일괄 인제스트 — MRI 8편 (신규 카테고리 radiology/mri) -->
+### radiology/mri (added 2026-09-19, batch root — dental MRI 8편)
+
+- [[radiology/mri/al-haj-husain-2025-magnetic-resonance-imaging-in-dental]] — Al-Haj Husain 2025 (SR, 29편, 982명): 치과·구강악안면 외상 MRI 진단 유용성 — 안와저 골절 CT와 동등, 하악신경(IAN) 손상 >90% 검출, 하악골 CT-like MRI κ 0.92–0.98, TMJ 원판 평가 ~90% 가능; CT/CBCT 대체는 아님
+- [[radiology/mri/liedke-2026-tmj-structures-dental-dedicated-mri]] — Liedke 2026 (cross-sectional, n=24/48측): 치과 전용 0.55 T MRI(ddMRI) vs CBCT TMJ 평가 — 관찰자간 κ 0.36 vs 0.50, 전방 관절원판 변위 58.3%, 경조직 소견은 두 양식 간 유의차 없음(McNemar p>0.05); ddMRI 연조직 평가 가능
+- [[radiology/mri/geibel-2019-artifact-properties-ceramic-titanium-mri]] — Geibel 2019 (in-vitro 3T): 지르코니아(세라믹) 임플란트는 FFE/SE/UTE 전 시퀀스 인공음영 없음(부피 오차 5.4±2.3~6.5±4.3%), 티타늄은 1314±350%~2157±810%로 주변부 평가 불가 → MRI는 세라믹 임플란트에서만 추적검사 대안
+- [[radiology/mri/bohner-2020-mri-artifacts-dental-implants-geometries]] — Bohner 2020 (in-vitro, 돼지 갈비뼈 n=9): 3T T1W TSE 인공음영 티타늄 2.57±1.09 mm vs 지르코니아 0.37±0.20 mm(약 7배, p<0.05); 임플란트 형상(p=0.43)·측정 위치(p=0.73)는 무영향 — 인공음영 감소는 재료 선택이 결정
+- [[radiology/mri/rychert-2015-imaging-tooth-enamel-using-zero]] — Rychert 2015 (in-vitro, 11.75 T ZTE MRI): 법랑질 3D 영상 최초 — ZTE 부피 81.19 mm³ vs 미세CT 81.47 mm³(<0.4% 차), UTE로 불가능한 법랑질-상아질 대조, 육안 정상 치아의 우식 발견; 방사선 없는 법랑질 정량 영상의 기초(임상 1.5–3 T 검증은 미래)
+- [[radiology/mri/grover-2015-mri-principles-techniques-lessons-clinicians]] — Grover 2015 (narrative-review): 임상 독자용 MRI 물리·기법 — Larmor 공식(ν₀=γB₀), T1/T2 이완(물/CSF T1 3000–5000 ms vs 지방 260 ms), 병렬영상(SENSE), DTI(ADC·FA), MRS 화학이동 — 치과 MRI 판독의 물리 토대
+- [[radiology/mri/vassiliou-2018-mri-physics-basics-cardiologist]] — Vassiliou 2018 (narrative-review): MRI 물리 기초 — 라모르 주파수(γ 42.6 MHz/T, 1.5 T→63.9 MHz), T1(63% 회복)/T2(37% 감쇠)/T2*, 주파수·위상 인코딩, 시퀀스(TSE/GE/SSFP·LGE·T1/T2 mapping) — 치과 MRI 해석의 기반 지식
+- [[radiology/mri/van-der-heide-2019-mri-basics-for-radiation-oncologists]] — Van der Heide 2019 (narrative-review): 경사자계 비선형성 왜곡 최대 ~1 cm, RT 정확 시퀀스 기하왜곡 <2 mm(정위 <1 mm), water-fat shift 3.4 ppm(0.5–2 px), 금속 인공물 3 T에서 큼 — 진단용 영상 검증 전 contouring 금지 원칙
+
 ## Chairside 인터렉티브 (Interactive Tools)
 
 - [[interactives/2026-06-02_isq-rfa-loading-simulator-v1]] — ISQ·RFA 통합 시뮬레이터 (측정 → 치유궤적 → 부하결정). 이전 ISQ 계산기 계열(threshold·v2·v3·v3.1·v3.2)·rfa-simulation 통합 후 폐기, 본 v1로 단일화. Andersson 2019 ISQ ≥65 + Bavetta 2024 Osstell·Osseo 보정 + ITV·D1–D4 골질·즉시/조기부하 동적 조정.
