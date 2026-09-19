@@ -9,6 +9,22 @@ pdf_filename: banerjee-2024-osseodensification-versus-conventional-drilling-sr.p
 source_collection: external
 ---
 
+## Three-line Summary
+
+PRISMA SR of 8 comparative studies (170 patients, 334 implants from Egypt, India, Brazil) evaluating osseodensification versus conventional drilling for implant stability (ISQ, insertion torque, bone development) in Journal of Indian Prosthodontic Society, 2024.
+
+All 8 included studies reported OD superiority over conventional drilling across primary stability outcomes; 7 of 8 studies were in maxillary sites only; no meta-analysis was conducted due to anticipated heterogeneity.
+
+Dual bias assessment (Newcastle-Ottawa Scale + Cochrane RoB) revealed high risk in blinding and allocation concealment domains, limiting evidence quality to moderate at best — larger, well-blinded RCTs are needed.
+
+## 세줄요약
+
+임플란트 안정성 지수 (Implant Stability Quotient, ISQ)·삽입토크·골형성에 대한 OD vs. 기존 드릴링 비교 SR (n=8편, 170명, 334개 임플란트; 이집트·인도·브라질; JIPS 2024).
+
+8편 전부 골밀도화 (Osseodensification, OD) 우세; 7/8편 상악 한정 — 하악 근거 거의 없음; 이질성으로 메타분석 미수행.
+
+눈가림·배정은폐 높은 비뚤림 위험 (Newcastle-Ottawa Scale + Cochrane RoB) → 근거 수준 중등도 제한; 대규모 무작위배정 대조시험 필요.
+
 ## Why Ingested
 Systematic review comparing OD and conventional drilling for implant stability — adds to the growing body of OD evidence alongside existing wiki entries such as [[implants/osseodensification/gaspar-2022-implant-stability-osseodensification-conventional-sr-ma]] and [[implants/osseodensification/inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma]]. Provides a 2024 JIPS review with PRISMA methodology and bias assessment using Newcastle-Ottawa Scale and Cochrane RoB tool.
 
