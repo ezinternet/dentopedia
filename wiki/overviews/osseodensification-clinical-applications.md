@@ -51,6 +51,7 @@ source_papers:
   - wiki/implants/osseodensification/ortiz-2025-osseodensification-implant-dentistry-critical-review.md
   - wiki/implants/osseodensification/tomar-2026-osseodensification-conventional-drilling-umbrella.md
   - wiki/sinus-lift/transcrestal/cobo-vazquez-2025-crestal-sinus-lift-osteotome-vs-osseodensification.md
+  - wiki/implants/osseodensification/banerjee-2024-osseodensification-versus-conventional-drilling-sr.md
 evidence_level: synthesis
 source: synthesis
 agenda: agenda/2026-05-25_osseodensification-whole-picture.md
@@ -336,6 +337,7 @@ Living document 원칙으로 명시:
 ### 신규 ingest cluster (2026-07-15)
 
 - [[implants/osseodensification/tomar-2026-osseodensification-conventional-drilling-umbrella]] — Umbrella review (9 SRs, abstract-only): osseodensification gives higher primary stability (IT/ISQ) in low-density bone; MBL and survival comparable (>95% both) — OD benefit limited to primary-stability gain, no long-term advantage
+- [[implants/osseodensification/banerjee-2024-osseodensification-versus-conventional-drilling-sr]] — JIPS SR (8 studies, 170 pts, 334 implants, Egypt/India/Brazil): OD wins on ISQ, bone growth, and torque in every included study; high bias risk in blinding/allocation domains
 
 - [[implants/osseodensification/fontes-pereira-2023-osseodensification-osteotomy-alternative-sr]] — spine SR
 - [[implants/osseodensification/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — 메커니즘 원위논문
