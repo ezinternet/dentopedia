@@ -6,7 +6,7 @@ date: 2025-01-14
 doi: "10.1007/s10006-025-01335-5"
 source: azadi-2025-bone-expansion-horizontal-ridge-augmentation-sr-ma.md
 category: bone-regeneration
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/azadi-2025-bone-expansion-horizontal-ridge-augmentation-sr-ma.pdf
 pdf_filename: azadi-2025-bone-expansion-horizontal-ridge-augmentation-sr-ma.pdf
 source_collection: external
@@ -15,6 +15,22 @@ relations:
   - type: extends
     target: abdallaoui-2025-transverse-ridge-expansion-bone-grafting-sr
 ---
+
+## Three-line Summary
+
+SR+MA (PROSPERO CRD42023414686, PRISMA) of 10 studies from 3,291 screened records, evaluating bone expansion techniques for horizontal alveolar ridge augmentation with simultaneous implant placement, without concurrent bone grafting materials (Oral Maxillofac Surg, 2025).
+
+Pooled implant survival 100% (95% CI: 99–100%), complication rate 0% (0–1%), and mean ridge width gain +1.55 mm (95% CI: 0.92–2.17 mm); meta-regression demonstrated a statistically significant time-dependent survival attrition of −0.08%/month (P = 0.03).
+
+Bone expansion is an effective and safe technique for horizontal ridge augmentation without grafting materials, but medium-term follow-up monitoring is warranted given the time-dependent survival signal.
+
+## 세줄요약
+
+이식재 없는 골확장술 수평골증대 SR+MA (PROSPERO CRD42023414686, n=10편/3,291편 스크린); 골확장술 (Bone Expansion) 동시 임플란트 식립 연구만 포함 (Oral Maxillofac Surg 2025).
+
+임플란트 생존율 100% (95% CI: 99–100%), 합병증 0%, 평균 치조정 폭 증가 +1.55 mm (95% CI: 0.92–2.17 mm); 메타회귀: 생존율 시간 의존적 감소 −0.08%/월 (P=0.03).
+
+이식재 없이도 골확장술은 효과적·안전 — 단, 중기 생존율 모니터링 필요.
 
 ## One-line Summary
 SR+MA of 10 studies confirms bone expansion for horizontal ridge augmentation achieves 100% implant survival, 0% complications, and mean ridge width gain of 1.55 mm (95% CI: 0.92–2.17 mm).
