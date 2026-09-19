@@ -388,6 +388,7 @@ tags: []
 - [[bone-regeneration/lopez-valverde-2025-bone-expansion-compaction-densification-narrow-crests-sr-ma]] — López-Valverde 2025 · sr+ma (10편) · narrow crest에서 골확장/압축/골밀도화가 골밀도(SMD −0.71)·crestal expansion(−1.12)·ISQ(−8.88) 유의 개선; CE/ISQ 이질성·출판편향 큼 [PMC full text]
 - [[bone-regeneration/abdallaoui-2025-transverse-ridge-expansion-bone-grafting-sr]] — Abdallaoui 2025 · sr (PRISMA, 15편) · 횡적 치조제 확장(TRE) ± 골이식: 양쪽 3.2–6.1mm 확장·생존 92–100%, 이식 이점 미미/비유의 → 폭 ≥3mm는 확장 단독, <3mm·부피보존엔 이식 [PMC full text]
 - [[bone-regeneration/vorovenci-2024-horizontal-ridge-augmentation-od-gbr-ridge-split-sr-ma]] — Vorovenci 2024 · sr+ma (18편, 336명/665 임플란트) · 수평증대 골획득량 순위 GBR 4.04 > RS 3.66 > OD 2.15mm (P=0.002); 생존 ~99% 동등; OD는 넓은 능선, RS는 좁은 능선에 적용 [PMC full text]
+- [[bone-regeneration/azadi-2025-bone-expansion-horizontal-ridge-augmentation-sr-ma]] — Azadi 2025 · sr+ma (10편) · 골확장술 수평증대 동시식립: 생존 100%(99–100%), 합병증 0%, 평균 치조정 폭 +1.55mm (0.92–2.17); 이식재 미사용 조건의 골확장 단독 풀링
 - [[bone-regeneration/manekar-2022-modern-devices-alveolar-ridge-split-expansion-sr]] — Manekar 2022 · sr+ma (24편, 1287 임플란트) · 현대 ARSE 기기 — USG/piezo 3.40mm vs MRE 2.83mm 폭증가(p<0.0001), 생존 98.07%; USG→골동원화, MRE→저침습 골압축 [PMC full text]
 - [[bone-regeneration/sculean-2015-wound-models-periodontal-bone-regeneration]] — Narrative review (Periodontol 2000): cell culture → animal → human model hierarchy for periodontal/bone regeneration; GTR+EMD best supported; BMP-2 vertical ridge; translational gap highlighted
 - [[bone-regeneration/ridge-preservation/atieh-2015-alveolar-ridge-preservation-cochrane-review]] — Cochrane SR+MA (8 RCTs, 233 sockets): xenograft ARP vs extraction — height -2.60mm, width -1.97mm (moderate evidence); no material superiority; overall low-moderate evidence quality
@@ -4064,6 +4065,7 @@ tags: []
 
 ### implants/versah-protocols
 - [[implants/osseodensification/tomar-2026-osseodensification-conventional-drilling-umbrella]] — 골밀도화(OD) vs 통상드릴링 umbrella review (SR 9편): 저밀도골에서 1차 안정성(IT/ISQ) 향상, MBL·생존율(>95%)은 유사 [sr+ma, abstract-only]
+- [[implants/osseodensification/banerjee-2024-osseodensification-versus-conventional-drilling-sr]] — Banerjee 2024 · sr (8편, 170명, 334 임플란트, 이집트/인도/브라질) · OD가 기존드릴 대비 ISQ·골형성·토크 전 연구 우세; 바이어스 위험 높아 근거수준 제한 [JIPS]
 
 ### prosthetic-materials
 - [[prosthetic-materials/tooth-preparation/dudley-2025-determinants-marginal-gap-crowns]] — 우산연구(SR 17편, in vitro 301건): 크라운 종류·재료·CAD-CAM 여부는 변연간극(79.4±22.8µm)에 무영향, 측정기구가 과대평가 원인, 120µm 기준 재확인 [sr+ma]
