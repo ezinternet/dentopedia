@@ -2857,6 +2857,17 @@ tags: []
 - [[radiology/mri/vassiliou-2018-mri-physics-basics-cardiologist]] — Vassiliou 2018 (narrative-review): MRI 물리 기초 — 라모르 주파수(γ 42.6 MHz/T, 1.5 T→63.9 MHz), T1(63% 회복)/T2(37% 감쇠)/T2*, 주파수·위상 인코딩, 시퀀스(TSE/GE/SSFP·LGE·T1/T2 mapping) — 치과 MRI 해석의 기반 지식
 - [[radiology/mri/van-der-heide-2019-mri-basics-for-radiation-oncologists]] — Van der Heide 2019 (narrative-review): 경사자계 비선형성 왜곡 최대 ~1 cm, RT 정확 시퀀스 기하왜곡 <2 mm(정위 <1 mm), water-fat shift 3.4 ppm(0.5–2 px), 금속 인공물 3 T에서 큼 — 진단용 영상 검증 전 contouring 금지 원칙
 
+<!-- BATCH INGEST 2026-09-19: 루트 PDF 일괄 인제스트 — 파노라마 화질·자세오류 6편 + CBCT 기술총론 1편 -->
+### radiology (added 2026-09-19, batch root — panoramic quality 6편 + CBCT physics)
+
+- [[radiology/dhillon-2012-positioning-errors-and-quality-assessment]] — Dhillon 2012 (retrospective, n=1,782): 디지털 파노라마 자세오류 후향감사 — 89%가 오류 ≥1개, 11.0%만 무오류; 혀 비밀착 55.7% 최다, 진단불가 24.9%(기준 ≤10% 초과); 반복촬영 암위험 0.21–1.9/백만건
+- [[radiology/rondon-2014-common-positioning-errors-in-panoramic]] — Rondon 2014 (narrative-review): 파노라마 자세오류 총론 — 두부 회전 24.84%·초점골 전방 21.15%·전방경사 21.21%·후방 20.30%; 교합평면 -20~-30°·혀 구개 밀착
+- [[radiology/suomalainen-2015-dentomaxillofacial-imaging-panoramic-views-cone]] — Suomalainen 2015 (narrative-review, Insights Imaging): 파노라마+CBCT 교육 리뷰 — 선량 사다리(치조 CBCT 11–674 µSv, MSCT 280–1,410 µSv), CBCT는 정당화된 demanding case만
+- [[radiology/featherstone-2025-evaluation-panoramic-acquisition-errors-student]] — Featherstone 2025 (retrospective, 263장/52명 D3): 학생 파노라마 오류 — 턱 올림 41.02%·두부회전 24.84%·혀 17.19%, 평가간 개선 유의차 없음; Frankfort 평면·정중시상면·척추굽음 SA에서 증가(우선 교육 대상)
+- [[radiology/kim-2024-comparative-analysis-clinical-image-evaluation]] — Kim 2024 (cross-sectional, 285장/10평가자): KAOMFR 전문가(P)·간편(S) 평가표 비교 — S표 점수 동등·시간 1/3 단축(OMFR 96.7→62.9초, p<0.001), 평가자간 ICC 0.929/0.870, 80% S표 선호; 환자 움직임 항목 개정 필요
+- [[radiology/joh-2024-novel-method-measuring-central-ray-direction]] — Joh 2024 (in-vitro, OP-100+팬텀): 파노라마 중심선(Central Ray) 방향·회전중심 정량 측정 최초 — 중심선-정중선 179.8°→82.2°(절치→TMJ); 장비 기하 비교의 표준 팬텀 도구
+- [[radiology/pauwels-2015-technical-aspects-dental-cbct-state-art]] — Pauwels 2015 (narrative-review, DMFR CBCT 특집): CBCT 전 영상사슬 기술총론 — FDK 재구성이 사실상 표준, CBCT 노이즈>진단 CT, 회색값 반정량적, mAs∝선량, 기하보정 오류(이중상/스트릭) — 화질 최적화 문해력의 물리 토대
+
 ## Chairside 인터렉티브 (Interactive Tools)
 
 - [[interactives/2026-06-02_isq-rfa-loading-simulator-v1]] — ISQ·RFA 통합 시뮬레이터 (측정 → 치유궤적 → 부하결정). 이전 ISQ 계산기 계열(threshold·v2·v3·v3.1·v3.2)·rfa-simulation 통합 후 폐기, 본 v1로 단일화. Andersson 2019 ISQ ≥65 + Bavetta 2024 Osstell·Osseo 보정 + ITV·D1–D4 골질·즉시/조기부하 동적 조정.
