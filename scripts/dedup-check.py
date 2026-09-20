@@ -93,17 +93,23 @@ def same_pdf_in_papers(path: str) -> list[tuple[str, str]]:
     3.5GB 전체를 해싱하지 않는다 — os.stat 크기로 먼저 거르고 일치분만 md5.
     루트 재스테이징(duplicate-skip의 최대 원인)은 대개 바이트 동일이라
     제목·DOI 추출이 실패해도 이 경로가 잡는다.
+
+    입력 경로가 이미 papers/ 안에 있으면 자기 자신을 비교 대상에서 제외한다.
+    (Step 1 복사 직후 즉시 실행할 때 자기 매칭 방지 — 2026-09-16 casalino/james 실측)
     """
     import hashlib
     papers = REPO / "papers"
     if not papers.is_dir():
         return []
     try:
+        input_resolved = str(Path(path).resolve())
         size = os.path.getsize(path)
     except OSError:
         return []
     cands = [f for f in os.listdir(papers)
-             if f.endswith(".pdf") and os.path.getsize(papers / f) == size]
+             if f.endswith(".pdf")
+             and str((papers / f).resolve()) != input_resolved
+             and os.path.getsize(papers / f) == size]
     if not cands:
         return []
     try:
