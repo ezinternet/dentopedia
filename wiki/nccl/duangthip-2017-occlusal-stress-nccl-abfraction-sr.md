@@ -12,11 +12,15 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/duangthip-2017-occlusal-stress-nccl-a
 pdf_filename: duangthip-2017-occlusal-stress-nccl-abfraction-sr.pdf
 source_collection: external
 tags: [nccl, abfraction, occlusal-stress, finite-element-analysis, systematic-review]
+superseded_by: dioguardi-2024-abfraction-theory-controversy-scoping-review
+supersession_type: partial
 relations:
   - type: contradicts
     target: silva-2013-occlusal-factors-nccl-systematic-review
   - type: contradicts
     target: senna-2012-nccl-occlusion-systematic-review
+  - type: superseded_by
+    target: dioguardi-2024-abfraction-theory-controversy-scoping-review
 ---
 
 ## Three-line Summary
