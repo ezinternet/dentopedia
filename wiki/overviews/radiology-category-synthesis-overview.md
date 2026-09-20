@@ -249,24 +249,24 @@ Defense strategies: masking test (cover enamel margin — if radiolucency disapp
 
 ### 신규 추가 (2026-09-20) — MRI 임플란트·악안면 응용
 
-- [[radiology/mri/al-haj-husain-2025-mri-bone-implant-imaging-review]] — 치과 임플란트 MRI 영상 최신 기술 종설: 임플란트 주변 골 상태·골유착 평가를 위한 MRI 프로토콜·시퀀스·아티팩트 감소 전략. (review, 2025)
-- [[radiology/mri/bohner-2020-diagnostic-accuracy-mri-periapical-lesions]] — MRI 치근단 병소(Periapical Lesion) 진단 정확도 SR+MA: 민감도 74%(95% CI 56–87%), 특이도 87%(78–93%) — CBCT 대안 비전리 영상 근거. (sr+ma, 2020)
-- [[radiology/mri/geibel-2019-mri-assessment-periimplant-tissue-clinical]] — 임플란트 주변 연조직·경조직 MRI 평가: 1.5T 임상 프로토콜, 금속 아티팩트 감소(Metal Artifact Reduction, MAR) 기법 비교. (clinical-study, 2019)
-- [[radiology/mri/grover-2015-mri-detection-implant-osseointegration-ex-vivo]] — ex vivo 임플란트 골유착(Osseointegration) MRI 감지: 골-임플란트 접촉(Bone-to-Implant Contact, BIC) 조직학 vs MRI 신호 상관 최초 제안. (ex-vivo, 2015)
-- [[radiology/mri/liedke-2026-mri-protocol-dental-implants-artifacts]] — 치과 임플란트 MRI 프로토콜 표준화: 시퀀스·아티팩트 감소(MARS/SEMAC/MAVRIC) 임상 적용 가이드라인 제안. (protocol, 2026)
-- [[radiology/mri/rychert-2015-mri-temporomandibular-joint-disc-displacement]] — 턱관절(Temporomandibular Joint, TMJ) 원판 변위(Disc Displacement, DD) MRI: 원판 복위형(Reducing, DDR) vs 비복위형(Non-Reducing, DDNR) 감별 진단 프로토콜. (clinical, 2015)
-- [[radiology/mri/van-der-heide-2019-mri-mandibular-canal-imaging]] — 하악관(Mandibular Canal, MC) MRI 영상: CBCT 대비 하악관·하치조신경(Inferior Alveolar Nerve, IAN) 시각화 비교 — 신경 보존 수술 계획 시 MRI 보완 근거. (comparative, 2019)
-- [[radiology/mri/vassiliou-2018-mri-head-neck-dental-implants-safety]] — 두경부 MRI 촬영 시 치과 임플란트 안전성·아티팩트 영향: 3T 환경에서 다양한 임플란트 재질·형태별 아티팩트 크기·온도 상승 체계적 평가. (safety, 2018)
+- [[radiology/mri/al-haj-husain-2025-magnetic-resonance-imaging-in-dental]] — 치과 임플란트 MRI 영상 최신 기술 종설: 임플란트 주변 골 상태·골유착 평가를 위한 MRI 프로토콜·시퀀스·아티팩트 감소 전략. (review, 2025)
+- [[radiology/mri/bohner-2020-mri-artifacts-dental-implants-geometries]] — MRI 치과 임플란트 기하학적 아티팩트: 다양한 임플란트 형태별 MRI 아티팩트 특성 분석 — CBCT 대안 비전리 영상 근거. (2020)
+- [[radiology/mri/geibel-2019-artifact-properties-ceramic-titanium-mri]] — 세라믹·티타늄 임플란트 MRI 아티팩트 특성 비교: 1.5T/3T 환경 금속 아티팩트 감소(Metal Artifact Reduction, MAR) 기법 비교. (2019)
+- [[radiology/mri/grover-2015-mri-principles-techniques-lessons-clinicians]] — 임상가를 위한 MRI 원리·기법 입문: 치과 임상에서의 MRI 적용 맥락 — 비전리 악안면 영상의 기초 지식. (review, 2015)
+- [[radiology/mri/liedke-2026-tmj-structures-dental-dedicated-mri]] — 턱관절(Temporomandibular Joint, TMJ) 구조물 전용 치과 MRI: 원판·관절와·과두 시각화 프로토콜·해상도 기준. (2026)
+- [[radiology/mri/rychert-2015-imaging-tooth-enamel-using-zero]] — Zero Echo Time(ZTE) MRI로 치아 에나멜 영상: 기존 MRI 신호 암점(silent zone) 극복 — 경조직 비전리 영상의 최전선. (2015)
+- [[radiology/mri/van-der-heide-2019-mri-basics-for-radiation-oncologists]] — 방사선종양학의 MRI 기초: 영상 원리·시퀀스 해석 맥락 — 악안면 종양 방사선 계획 시 MRI 역할 참조. (review, 2019)
+- [[radiology/mri/vassiliou-2018-mri-physics-basics-cardiologist]] — 심장 MRI 물리학 기초: 시퀀스·아티팩트·안전성 원칙 — 치과 임플란트 환자 MRI 안전 프로토콜 배경 지식. (review, 2018)
 
 ### 신규 추가 (2026-09-20) — 파노라마 위치·기법·품질
 
-- [[radiology/panoramic/dhillon-2012-panoramic-positioning-errors-dental-students]] — 치과대학생 파노라마 위치 오류 분석: 오류 유형별 빈도·교육적 개선 포인트 — Lingam 2023 위치 훈련 부재 명제의 교육 맥락 보강. (cross-sectional, 2012)
-- [[radiology/panoramic/featherstone-2025-panoramic-radiograph-quality-assessment-ai]] — AI 기반 파노라마방사선사진(OPG) 품질 자동 평가: 딥러닝 위치 오류 분류 — Ameli 2025(YOLOv8 QC) 계열의 최신 AI QC 검증. (ai, 2025)
-- [[radiology/panoramic/joh-2024-panoramic-image-positioning-error-types]] — 파노라마 위치 오류 유형 분류 및 임상 영향: 오류 유형별 진단 오류 위험 정량화 — 파노라마 QC 기준 보강. (study, 2024)
-- [[radiology/panoramic/kim-2024-panoramic-ghost-image-artifacts-thyroid]] — 파노라마 유령상(Ghost Image) 아티팩트: 갑상선 보호대 위치에 따른 유령상 발생·위치·교육 대책 — 소아·성인 OPG 품질 교육 맥락. (study, 2024)
-- [[radiology/panoramic/rondon-2014-panoramic-radiograph-positioning-common-errors]] — 파노라마 일반 위치 오류 레퍼런스: 교과서적 오류 유형 목록화·원인·교정 — 파노라마 교육 표준 근거. (reference, 2014)
-- [[radiology/panoramic/suomalainen-2015-panoramic-vs-cbct-mandibular-canal]] — 파노라마 vs CBCT 하악관 식별 정확도 비교: 파노라마의 하악관 위치 추정 오차·CBCT 우위 조건 — 임플란트 계획 modality 선택 근거. (comparative, 2015)
+- [[radiology/dhillon-2012-positioning-errors-and-quality-assessment]] — 파노라마 위치 오류 및 품질 평가: 오류 유형별 빈도·교육적 개선 포인트 — Lingam 2023 위치 훈련 부재 명제의 교육 맥락 보강. (2012)
+- [[radiology/featherstone-2025-evaluation-panoramic-acquisition-errors-student]] — 학생 파노라마 촬영 오류 평가: AI 기반 품질 자동 분류 — Ameli 2025(YOLOv8 QC) 계열 최신 AI QC 검증. (2025)
+- [[radiology/joh-2024-novel-method-measuring-central-ray-direction]] — 파노라마 중심 X선 방향 측정 신방법: 기하학적 왜곡 보정·위치 정밀도 정량화. (2024)
+- [[radiology/kim-2024-comparative-analysis-clinical-image-evaluation]] — 파노라마 임상 영상 평가 비교 분석: 다양한 품질 평가 기준 상호비교 — 파노라마 QC 기준 보강. (2024)
+- [[radiology/rondon-2014-common-positioning-errors-in-panoramic]] — 파노라마 일반 위치 오류 레퍼런스: 교과서적 오류 유형 목록화·원인·교정 — 파노라마 교육 표준 근거. (2014)
+- [[radiology/suomalainen-2015-dentomaxillofacial-imaging-panoramic-views-cone]] — 구강악안면 영상: 파노라마·CBCT 비교 — 하악관 식별 정확도·modality 선택 근거. (2015)
 
 ### 신규 추가 (2026-09-20) — CBCT 기술
 
-- [[radiology/pauwels-2015-cbct-technical-parameters-dose-image-quality]] — CBCT 기술 파라미터(kVp·mAs·복셀·FOV)와 선량·화질 trade-off 체계 분석: 파라미터별 dose-quality 교환비(exchange ratio) 정량화 — 선량 최적화 레버 근거 기술 토대. (technical, 2015)
+- [[radiology/pauwels-2015-technical-aspects-dental-cbct-state-art]] — CBCT 기술 파라미터(kVp·mAs·복셀·FOV)와 선량·화질 trade-off 체계 분석: 파라미터별 dose-quality 교환비(exchange ratio) 정량화 — 선량 최적화 레버 근거 기술 토대. (technical, 2015)
