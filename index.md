@@ -809,6 +809,7 @@ tags: []
 - [[endodontics/eal/mousavi-2018-apical-constriction-position-incisor-molar]] — In vitro 90개 치아(이란 인구): AC–AF 거리 전치 0.847mm vs 구치 0.709mm(p=0.035 유의차); 근관치료 종지점은 전치 0.85mm, 구치 0.70mm 단(근첨공 기준)으로 치종별 다르게 적용 권장
 - [[endodontics/eal/nasiri-2021-apex-locator-generations-accuracy-sr-ma]] — EAL 4세대 정확도 SR+MA(15개 연구): 4세대(multi-frequency) 최고 정확도, 세대 진보에 따라 점진적 개선.
 - [[endodontics/eal/pisano-2024-eal-accuracy-modern-endodontics-umbrella]] — 우산 리뷰(SR 7편): EAL과 방사선 근관장 측정은 전반적으로 동등; EAL 3–6세대 간 유의차 없음; 유치에서도 허용 가능(낮은 근거); NaOCl 존재 시 EAL 수치 영향받음
+- [[endodontics/eal/nalci-calik-2026-eal-vs-radiography-working-length-rct]] — Nalci Calik 2026 · rct (BMC Oral Health, 125명, 4종 EAL vs 방사선 사진) · 환자 통증·불편감 비교: 모든 EAL과 방사선 간 유의차 없음 — EAL은 환자 경험 측면에서 방사선과 동등한 방사선 없는 대안
 - [[endodontics/eal/shacham-2020-eal-wide-apical-foramen-ex-vivo]] — Ex vivo 10개 치아(근첨공 0.6–0.8mm): 파일 직경이 근첨공 직경에 근접할수록 EAL 정확도·안정성 모두 향상; SAF도 유효; 광근첨공 시 파일 매칭이 핵심
 - [[endodontics/eal/versiani-2022-wireless-apex-locator-micro-ct-accuracy]] — In vivo micro-CT: Wirele-X 90.9% vs RootZX II 81.8% 정확도(±0.5mm); 유의차 없음(p=0.61); 임상적 동등
 
@@ -1897,6 +1898,7 @@ tags: []
 - [[endodontics/kamath-2025-hedp-triton-dislodgement-ahplus-ceraseal]] — Kamath 2025 · in-vitro · Dual Rinse HEDP gives highest push-out bond strength for both AH Plus (8.98 MPa) and CeraSeal (11.36 MPa) vs Triton and saline, with FTIR showing better dentin preservation
 - [[endodontics/sarilaksmi-2026-intact-mta-sealer-gutta-percha-surface-modification]] — Sarilaksmi 2026 · in-vitro · Plasma+CPC surface treatment hydrophilizes gutta-percha (contact angle 113°→22°) to enable additive-free intact MTA as a sealer, sealing ability comparable to ZnO reference
 - [[endodontics/fahmy-2026-polydopamine-gutta-percha-bioceramic-sealer]] — Fahmy 2026 · in-vitro · Polydopamine-coated gutta-percha + bioceramic sealer lowers apical dye penetration (3.04 vs 4.30mm), eliminates SEM interfacial gaps by day 28, and improves wettability (28.8° vs 77.4°) vs uncoated gutta-percha
+- [[endodontics/obturation/lee-2026-ortho-mta-iii-vs-gp-infected-canals-rct]] — Lee 2026 · rct (IEJ, 120치, 감염근관+근단주위염, 30개월 추적) · Ortho MTA III vs GP+AH Plus 성공률 동등(완화기준 88.24% vs 83.02%; strict 64.71% vs 58.49%); 실패 예측인자: 고령·병소크기·PAI점수 — bioceramic 폐쇄재 장기 동등성 RCT
 
 ## 근관치료 — GP 콘 소독·교차오염 (Endodontics: GP Cone Decontamination / Cross-infection)
 - [[endodontics/aucinaite-2025-naocl-chx-gutta-percha-cone-decontamination-sr]] — NaOCl vs CHX for gutta-percha cone decontamination (SR, 7 in vitro studies)
@@ -3223,6 +3225,8 @@ tags: []
 - [[endodontics/vpt/komora-2024-comparison-bioactive-material-failure-rates]] — Komora 2024 · sr+ma · Network MA (21 RCTs): Ca(OH)₂ fails ~2.3–2.5× more than MTA (OR 2.53 at 12mo); Biodentine·Totalfill = MTA
 - [[endodontics/vpt/pusa-2025-clinical-success-vital-pulp-therapy]] — Pusa 2025 · sr+ma · SR+MA (21 RCTs, 1,948 teeth): MTA beats Ca(OH)₂ in direct pulp capping (RR 1.21, P=0.03); MTA ≈ Biodentine
 - [[endodontics/vpt/elmsmari-2026-decision-ready-evidence-vital-pulp]] — Elmsmari 2026 · sr+ma · Bayesian network MA (35 RCTs, 2,906 teeth): VPT success >93%; calcium-silicate beats Ca(OH)₂
+- [[endodontics/vpt/gurler-2026-full-pulpotomy-cryotherapy-sip-24mo-rct]] — Gürler 2026 · rct (COIR, 62명, SIP 영구 구치, 24개월) · 전체 치수절제술 ± 냉각요법 성공률 동등(92.9% vs 92.3%); 냉각요법 추가 이득 없음 — 24개월 고성공률로 full pulpotomy 예측 가능성 확인
+- [[endodontics/vpt/mohamed-2026-theracal-lc-pulp-capping-sr-ma]] — Mohamed 2026 · sr+ma (BMC Oral Health, 11 RCTs 2015–2025, 6–36mo) · TheraCal LC가 영구치 IPC/DPC에서 MTA·Biodentine·Ca(OH)₂와 유사한 성공률; 광중합 조작성 장점 — 재료 선택 근거 중기
 - [[endodontics/vpt/hu-2026-direct-pulp-capping-materials-rct-12mo]] — RCT 12mo (Clin Exp Dent Res 2026, PMC OA): iRoot BP Plus vs MTA vs Ca(OH)₂ direct pulp capping — 3-way RCT, bioceramic vs calcium-silicate vs traditional
 - [[endodontics/vpt/liu-2025-carnosol-pulpitis-rage-nfkb]] — 카르노솔이 RAGE/NF-κB 경로 억제를 통해 치수염의 IL-1β·IL-6·TNF-α를 농도의존적으로 감소시킨 최초의 연구 (in vitro hDPCs + SD 쥐 모델)
 
@@ -3478,6 +3482,7 @@ tags: []
 **endodontics**
 - [[endodontics/irrigation/ordinola-zapata-2022-intracanal-medicaments-status-directions]] — Companion IEJ review proposing a four-stage AP severity classification to guide intracanal medicament (Ca(OH)₂) selection (2022)
 - [[endodontics/irrigation/zan-2022-irrigation-activation-medicament-penetration]] — 초음파 활성화+TAP 조합이 상아세관 침투 최대: CLSM으로 5가지 활성화 방식×3가지 약제 비교
+- [[endodontics/irrigation/huang-2026-intracanal-cryotherapy-postoperative-pain-sr-ma]] — Huang 2026 · sr+ma (Lasers Med Sci, 16 RCTs 1479명) · 근관 내 냉각요법이 술후 통증 발생 유의 감소(RR=0.72); 6h SMD=-0.75, 24h=-0.58, 48h=-0.53 — 저온 생리식염수 최종 세척 근거
 - [[endodontics/babeer-2024-microrobotics-endodontics-perspective]] — Perspective on three magnetically controlled microrobot platforms (IONP microswarms, helicoids, silica nanorobots) for biofilm disruption and targeted disinfection of canal intricacies (2024)
 - [[endodontics/neelakantan-2018-endodontic-microbiology-editorial]] — Neelakantan 2018 · narrative-review · Editorial: 치수/근단 감염을 biofilm 매개로 규정 — biofilm 구조·다종균 동태가 항균저항 유발, 표적 소독을 치료 목표로 제시 (DOI 10.3390/dj6020014)
 - [[endodontics/caviedes-bucheli-2008-neuropeptides-dental-pulp-silent]] — Caviedes-Bucheli 2008 · narrative-review (JOE): 치수 신경펩타이드(SP·CGRP·NKA·NPY·VIP) 생리·병리·신경성 염증·치수괴사·근단병소 기전과 수용체 약리학 기초 종설 — 동저자 2025·2026 IEJ 시리즈의 foundational 논문 (DOI 10.1016/S0099-2399(08)00257-4)
@@ -4189,6 +4194,8 @@ tags: []
 - [[endodontics/anatomy/barbosa-2020-the-influence-of-endodontic-access]] — 보존적·트러스 접근와동은 기계적 형성·미생물 감소·파절저항 어느 항목에서도 전통 직선 접근 대비 우월성 없음 (n=30 in vitro)
 - [[endodontics/anatomy/rover-2020-influence-minimally-invasive-endodontic-access]] — 최소침습 근관 접근법이 충전 공극을 유의미하게 증가 (P < 0.05), 파절강도 무차; 치질 보존 vs. 충전 질 간 임상적 균형 필요 (생체외, n=40 하악 전치)
 - [[endodontics/anatomy/lima-2021-influence-of-ultraconservative-access-cavities]] — 초보존 접근과 전통 접근·XP-endo Shaper/Reciproc 조합 (n=40): UltraAC에서 미성형부위·충전재료 남음 증가, Reciproc에서만 근관편이 증가; 하중용량은 동등
+- [[endodontics/anatomy/bai-2026-accessory-canal-distribution-root-end-resection-sr-ma]] — Bai 2026 · sr+ma (J Dent, 19편, 11편 MA) · 부근관 수직 분포: 근단 2mm 내 구치 75.8% 포함; 전치는 3mm 절제 시 >95% — 치종별 근단절제 수준 근거
+- [[endodontics/anatomy/poclin-quispe-2026-mb2-prevalence-south-america-cbct-sr-ma]] — Poclin-Quispe 2026 · sr+ma (Front Dent Med, 남미 CBCT 23편) · 합산 MB2 유병률 59%; 상악 제1대구치 66%·제2대구치 41% — 남미 집단 치종별 MB2 빈도
 
 ### drug/antibiotics
 - [[drug/antibiotics/law-2026-antibiotics-after-non-surgical-root]] — 근관치료 후 19% 환자에게 항생제 투여 (n=1,723, 국립 치과 진료기반 연구, PBRN), 진료지침 미준수 현황 문서화
@@ -4428,6 +4435,7 @@ tags: []
 
 ### local-anesthesia
 - [[local-anesthesia/cherrez-ojeda-2024-knowledge-attitudes-anaphylaxis-local-anesthetics]] — Cherrez-Ojeda 2024 · cross-sectional (BDJ Open, 라틴아메리카 치과의사 480명): 국소마취제 아나필락시스 대비도 격차 — 호흡곤란 인지 85.2%지만 에피네프린 IM 경로 인지 50.1%·응급키트 에피네프린 보유 43.5%(응급약 전무 22.1%)·관리 자신감 9.6%; 고령·긴 경력이 지식·에피네프린 보유와 역상관 → 실습 응급교육 필요
+- [[local-anesthesia/alsharif-2026-minb-vs-ianb-mandibular-premolar-sip-sr]] — Alsharif 2026 · sr (Niger J Clin Pract, 5 RCTs) · SIP 하악 소구치 MINB 성공률 최대 93% vs IANB; 통계적 유의차 없으나 발현 빠름·주사 통증 유의하게 적음 — IANB 실패 시 MINB 대안 근거
 
 ### overviews (2026-09-03 synthesis)
 - [[overviews/penicillin-allergy-dental-antibiotic-overview]] — **NEW Overview** (17편, 2026-09-03): 페니실린 알레르기 대책 — 진짜 1차 문제는 알레르기가 아니라 **"라벨"**(인구 ~10% 보유, 자가보고의 80–99%가 검사에서 부정). 페니실린-세팔로스포린 교차반응은 통설 8–10%가 아니라 **0.7%**(확진 시 3%)이며 우리 근거는 이를 곁사슬 아닌 **역학**으로 설명. 2021 AHA는 IE 예방 전 처방에서 **클린다마이신 삭제**(치명 ADR 2.9/백만 = 아목시실린 ~29배; 임플란트 실패 RR 3.84/OR 3.10 — 단 SRPA 교란). 위계: **라벨 평가/해제 → 세팔로스포린 → 마크로라이드 → 클린다마이신(최후 수단)**. 시술별 대체약 표 포함. **살아있는 모순**: 클린다마이신 회피(Wilson/Thornhill/Salgado-Peralvo) vs 여전히 1차 대체약(Segura-Egea/Torof/Mohammadpour/Díaz) — 적응증 축(예방 삭제 vs 치료 유효)으로 갈림. 한국인 유병률·라벨해제 데이터 0편.
