@@ -2,7 +2,7 @@
 title: "Overview: 비우식성 치경부 병소(NCCL) — 병인·진단·관찰 vs 수복 의사결정"
 authors: Synthesis (Damian Lee)
 year: 2026
-date: 2026-09-14
+date: 2026-09-20
 doi: N/A
 source: N/A
 type: synthesis
@@ -101,7 +101,7 @@ NCCL 임상 질문은 두 갈래다 — (1) 무엇이 원인이고 어떻게 진
 | [[nccl/stanusi-2023-nccl-stereomicroscopic-aspects]] | Ex vivo stereomicroscopy | 27 | wedge 59%(교합+칫솔질)·saucer 37%; 67% <500µm; 조기진단 | in-vitro |
 | [[nccl/senna-2012-nccl-occlusion-systematic-review]] | SR (clinical) | 28편 | 이질성·편향으로 교합-NCCL 연관 결론 불가; MA 불가 | sr |
 | [[nccl/silva-2013-occlusal-factors-nccl-systematic-review]] | SR (clinical) | 9편 | 다수 무연관; 3편만 특정 occlusal 변수 유의(p<0.05) | sr |
-| [[nccl/duangthip-2017-occlusal-stress-nccl-abfraction-sr]] | SR (clinical+lab) | 69편 | 81% 연관 보고 but 응력단독 원인 임상입증 전무; lab/FEA 가중 | sr |
+| [[nccl/duangthip-2017-occlusal-stress-nccl-abfraction-sr]] | SR (clinical+lab) | 69편 | 81% 연관 보고 but 응력단독 원인 임상입증 전무; lab/FEA 가중. ⚠ dioguardi-2024에 의해 부분 superseded — 임상 단독 연구 제한 시 결론 성립 불가 | sr |
 | [[nccl/dioguardi-2023-nccl-etiopathological-mechanisms-review]] | Narrative review | — | erosion·abrasion 다수설, abfraction 논쟁; 다인성 필요 | narrative |
 | [[nccl/dioguardi-2024-abfraction-theory-controversy-scoping-review]] | Scoping review (PRISMA-ScR) | 6편 | 교합부하의 abfraction 역할 확정·반박 모두 불가; Duangthip 재비판 | sr |
 | [[resin-bonding/assis-2023-acid-etching-universal-adhesive-nccl-sr-ma]] | SR+MA | RCT 20편 | E&R이 12–36개월 유지·변연적합·변연착색·이차우식 우위; SE는 술후 과민증 낮음 — 내구성 vs 과민증 trade-off | sr+ma |
