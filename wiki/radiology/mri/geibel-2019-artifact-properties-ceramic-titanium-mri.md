@@ -16,6 +16,8 @@ relations:
     target: overviews/zirconia-implant-clinical-outcomes
   - type: extends
     target: implants/surface/shetty-2026-titanium-vs-zirconia-implants-umbrella
+  - type: provides-context
+    target: radiology/wamasing-2018-imaging-bifid-mandibular-canal
 ---
 
 ## Three-line Summary
