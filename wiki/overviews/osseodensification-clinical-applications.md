@@ -66,7 +66,7 @@ agenda: agenda/2026-05-25_osseodensification-whole-picture.md
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
-> - 핵심 명제: 골밀도화(Osseodensification, OD)는 반시계회전(Counterclockwise, CCW) 800–1500 rpm으로 Densahbur가 자가골을 압축·자가이식하는 술식으로, Fontes Pereira 2023 SR을 spine으로 40편을 4개 시나리오(상악동저 보강·좁은 ridge·저밀도골 D3–D4·즉시식립)에 적용된다.
+> - 핵심 명제: 골밀도화(Osseodensification, OD)는 반시계회전(Counterclockwise, CCW) 800–1500 rpm으로 Densahbur가 자가골을 압축·자가이식하는 술식으로, Fontes Pereira 2023 SR을 spine으로 50편을 4개 시나리오(상악동저 보강·좁은 ridge·저밀도골 D3–D4·즉시식립)에 적용된다.
 > - 메커니즘: 다날 bur가 CW에서 절삭·CCW에서 압축, 골 점탄성 spring-back으로 osteotomy가 bur보다 작게 회복되어 강한 접촉, 횡방향 압축으로 자가골이 미세이식. 단 Rittipakorn 2025 사체연구는 densah bur를 **시계방향(Clockwise, CW)·800 rpm**으로 돌리는 단순화 변형(CW-OD)을 처음 검증 — 음의 rake angle 덕에 CW에서도 측방 압축이 일어나며 SD 대비 ISQ·IT 더 높은 경향(NS)·더 일관됨 → CCW가 OD의 절대조건은 아닐 수 있음(in-vivo 검증 필요).
 > - Outcome matrix: 삽입토크(Insertion Torque, IT)는 일관되게 상승 [확인], 골-임플란트 접촉률(Bone-to-Implant Contact, BIC)은 in vitro 약 3배 상승, 생존율은 conventional과 동등, 전반적 근거 수준은 낮음–중등.
 > - 핵심 논쟁 — 저밀도골 임플란트 안정성 지수(Implant Stability Quotient, ISQ): Mohammadi 2025 SR+MA(7편)에서 1차 MD=4.13(p=0.13)·2차 MD=1.78(p=0.11) 모두 유의차 없음(NS), Al-Ahmari 2022 split-mouth도 골밀도만 OD↑·안정성 NS → confidence 하향. **Shilpi 2025 SR+MA(인체 RCT/NRCT 6편)가 독립적으로 재확인** — ISQ 즉시 SMD=2.13(p=0.06)·추적 SMD=1.81(p=0.11) 모두 NS, 단 식립 직후 골밀도는 SMD=2.14(p=0.004)로 유의 우위(3–7개월엔 NS) → "ISQ는 trend, 골밀도 이득은 초기에 국한" 패턴을 2025년 두 번째 SR+MA로 보강.
@@ -95,7 +95,7 @@ agenda: agenda/2026-05-25_osseodensification-whole-picture.md
 
 ## Three-line Summary
 
-Hub-and-spoke synthesis of 40 papers using Fontes Pereira 2023 SR as spine, mapping osseodensification (OD) — counterclockwise (CCW) 800–1500 rpm Densah-bur bone compaction/autografting — across 4 clinical scenarios: sub-antral augmentation, narrow ridge, low-density D3–D4 bone, and immediate placement.
+Hub-and-spoke synthesis of 50 papers using Fontes Pereira 2023 SR as spine, mapping osseodensification (OD) — counterclockwise (CCW) 800–1500 rpm Densah-bur bone compaction/autografting — across 4 clinical scenarios: sub-antral augmentation, narrow ridge, low-density D3–D4 bone, and immediate placement.
 
 The consistent OD benefit is raised insertion torque (IT), confirmed across bench/cadaver/animal/human in every study that measured it; in-vitro BIC is ~3× higher; ISQ (RFA) benefit is absent in two independent 2025 human SR+MAs (Mohammadi 2025 7 studies: primary MD=4.13 NS, Shilpi 2025 6 studies: immediate SMD=2.13 NS) — but Marzorati 2026 CCW-only SR+MA (555 patients/685 implants, osteotomes excluded) achieves ISQ MD 3.24 (95% CI 0.72–5.95, P=0.024), the first significant human SR+MA result, suggesting prior NS partly reflects osteotome contamination; the torque/ISQ dissociation remains a structural finding; crestal bone level (CBL) shows no OD advantage at any timepoint in the first CBL-pooling SR+MA (Kalra 2025, 5 studies/198 implants); survival equals conventional; thermal safety caps bur reuse at ~23 uses and recommends ~1000 rpm (47 °C osteonecrosis threshold, Soldatos 2024); overall evidence quality is low–moderate, many Versah-sponsored studies.
 
@@ -105,7 +105,7 @@ Two axes are new and both cut against the benefit-heavy reading: Coyac 2019 supp
 
 ## 세줄요약
 
-Fontes Pereira 2023 SR을 spine으로 40편을 4개 임상 시나리오(상악동저 보강·좁은 ridge·저밀도골 D3–D4·즉시식립)에 허브-스포크로 통합.
+Fontes Pereira 2023 SR을 spine으로 50편을 4개 임상 시나리오(상악동저 보강·좁은 ridge·저밀도골 D3–D4·즉시식립)에 허브-스포크로 통합.
 
 일관된 이득은 삽입토크(Insertion Torque, IT) 상승 — 벤치·사체·동물·임상 전 계층에서 재현; in vitro 골-임플란트 접촉률(BIC) ~3배; ISQ는 2025년 두 독립 인체 SR+MA(Mohammadi 2025 7편 NS·Shilpi 2025 6편 NS)로 근거 혼재 — 단 Marzorati 2026 SR+MA(CCW-only 555명/685개, 오스테오톰 제외)는 ISQ MD 3.24(P=0.024) 유의로 인체 SR+MA 최초 유의; 치조정 골수준(Crestal Bone Level, CBL)은 Kalra 2025(5편/198개) CBL-pooling 최초 SR+MA에서 어느 시점도 NS — OD의 IT 이득이 변연골 보호로 이어지지 않음; 토크/ISQ 해리는 구조적 현상; 생존율 conventional과 동등; 발열 안전: 버 ~23회 교체·~1000 rpm 권장(47°C 임계, Soldatos 2024); 전반 근거 낮음–중등, Versah 후원 연구 다수.
 
