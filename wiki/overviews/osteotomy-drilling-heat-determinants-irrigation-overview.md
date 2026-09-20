@@ -191,3 +191,7 @@ Read together: **peck drilling is a compensator for drill geometry that is alrea
 
 - [[implants/osteotomy-thermal/milone-2026-heat-dental-implant-thermal-analysis]] — In vitro FLIR thermal camera (n=24 implant placements in bovine mandible): heat generated during **implant screwing** (not drilling) is highest with manual torque wrench + no saline + undersized osteotomy; saline lubrication significantly reduces temperature during placement. Extends the thermal-necrosis frame beyond drilling to the insertion phase — a distinct and underexplored risk window.
 - [[implants/osteotomy-thermal/almo-2025-bone-density-drill-heat-osteotomy]] — In vitro 240 osteotomies (D1–D4 polyurethane), single drill vs sequential (2.2→2.8→3.5 mm): density×drill interaction F=69.03, p<0.001, η²=0.25 (large); D3 and D4 sequential generates significantly less heat than single-drill; D1 single generates less heat (opposite effect). Protocol-density interaction is the dominant variable — bone density determines which drill sequence is safer.
+
+### 신규 추가 (2026-09-20)
+
+- [[implants/osteotomy-thermal/sadek-2025-peri-implant-bone-behavior-after-single]] — **전향 RCT(n=32, 상악 구치부, 즉시부하 48–72h)**: 축경 드릴링(undersized, n=16) vs HaeNaem One Drill System 단일드릴 기법(n=16) 비교 — 12개월 골유착·MBL·ISQ 추적. "단일드릴 = OD 원리"의 임상 검증 데이터로, 축경과의 직접 head-to-head를 즉시부하 맥락에서 처음 제공. Tier-2(드릴 설계·마모)와 drilling-protocol-dominates 명제의 임상 확장 사례. (prospective RCT, 2025)
