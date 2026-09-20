@@ -591,6 +591,7 @@ tags: []
 - [[immediate-implant/socket-shield/durrani-2020-socket-shield-esthetic-success-jisp]] — Narrative review (Banaras Hindu Univ India, JISP 2020): "An esthetic success?" — SST esthetic outcome 비판적 평가, 인도 임상 perspective. Blaschke 2020과 같은 cautious cluster
 - [[immediate-implant/socket-shield/simuntis-2025-socket-shield-lower-molar-case]] — Case report (Vilnius Univ + Lithuanian UHS, Dent J 2025): 하악 대구치 SST **proof of principle** — esthetic zone 중심 framework를 후방 대구치로 확장
 - [[immediate-implant/socket-shield/zhang-2026-socket-shield-orthodontic-premolar-rct]] — RCT (Guangzhou Medical Univ, OMFS Springer 2026, n=26 환자, paired): 교정 발치 (premolar) 맥락 SST 첫 RCT — paired allocation, shield는 인접치 근접 시 제거. 적응증 교정 분야 확장
+- [[immediate-implant/socket-shield/saez-alcaide-2026-socket-shield-thin-buccal-bone-rct]] — Saez-Alcaide 2026 · rct (40환자, 협측골 BBT<1.5mm) · 협측골 얇은 케이스에서 SST가 IIP 대비 수평·수직·체적 치조제 보존 모두 유의 우월(모두 p<0.001); 로딩 이후 MBL 유의 우월 — **thin buccal bone 적응증 첫 RCT**
 - [[immediate-implant/esthetic-soft-tissue/block-2009-prospective-evaluation-immediate-delayed]] — 전향적 RCT(n=55/76, 2년): 즉시식립이 지연식립(4개월) 대비 협측 치은변연 1mm 더 보존(p<.05); 변연골 반응·골유착은 양군 동등.
 - [[immediate-implant/loading-protocol/shibly-2010-bone-regeneration-around-implants-in]] — 2년 RCT(n=60, 치주질환력 환자): 즉시부하 vs 관행부하 생존율 96.7% vs 93.3%, 골신득 1.19 vs 1.00mm — 유의차 없음(P>0.05).
 - [[immediate-implant/loading-protocol/shibly-2010-immediate-implants-immediate-loading-conventional]] — 1년 RCT(n=60, 치주질환력 환자, 위 논문과 동일/중복 코호트 가능성): 즉시부하 생존 96.6%·골증가 0.99mm vs 관행부하 93.3%·0.75mm(NS) — 관행부하군 MGJ 관상변위 유의하게 큼(65% vs 15%).
@@ -3326,6 +3327,7 @@ tags: []
 
 #### implants/peri-implantitis
 - [[implants/peri-implantitis/monje-2025-surface-decontamination-reconstructive-peri-implantitis]] — Monje 2025 · rct (multicenter, 58pt): 재건적 주위염 표면제염 전해법(GalvoSurge) vs 과산화수소 — 둘 다 효과적, 우열 없음
+- [[implants/peri-implantitis/regidor-2026-electrolytic-decontamination-peri-implantitis-rct]] — Regidor 2026 · rct (44 implants, COIR) · 재건적 peri-implantitis 수술 시 ElectroMed 전해질 세정 추가 효과 없음(복합성공 40% vs 27%, p=0.41); Ti 브러시+GBR 단독으로 충분 (**negative RCT**)
 - [[implants/peri-implantitis/soldini-2025-reconstructive-therapy-peri-implantitis-rct]] — Soldini 2025 · rct (34pt): 비수술치료 후 재건 vs 지지치료 — 질환 해소 동등(~44%), 골충전은 재건군 3배(1.21 vs 0.36mm)
 - [[implants/peri-implantitis/hakkers-2026-reconstructive-peri-implantitis-3wall-4wall-rct]] — Hakkers 2026, rct: reconstructive surgery (autogenous bone + Bio-Oss + Bio-Gide) vs open-flap debridement in 3- and 4-wall peri-implantitis defects (n=52 patients, 1 yr) — reconstruction improved MBL (β=−1.65 mm) and mid-buccal recession (β=−1.68 mm) but not PPD, BoP, SoP, or disease resolution (~44% both groups)
 - [[implants/peri-implantitis/gardelis-2025-implant-surface-modifications-peri-implantitis]] — Gardelis 2025 · sr (17편·≥3yr): 거친 표면이 매끈한 표면보다 수술 후 재발·상실 위험↑, 재건술식 유리(근거확실성 낮음)
@@ -3810,6 +3812,7 @@ tags: []
 - [[implants/peri-implantitis/eraydin-tufek-2026-nonsurgical-peri-implantitis-multiarm-rct]] — Eraydin-Tufek 2026 · rct · 비외과 5군 RCT(임플란트 80개), 글리신 에어아브레이전 포함 모든 방법 6개월 개선되나 군 간 유의차 없음 (DOI 10.1038/s41598-026-50332-5)
 - [[implants/peri-implantitis/su-2026-peri-implantitis-bone-defects-regenerative-strategies]] — Su 2026, narrative review: peri-implantitis bone defect mechanisms, diagnosis, and regenerative strategies
 - [[implants/peri-implantitis/pirc-2026-emergence-profile-angle-peri-implant]] — 출현 프로파일 각도·오목한 EP·높은 Ti-base가 치주위임플란트 건강의 핵심 수정 가능 보철 변수임을 내러티브 리뷰+증례로 제시 (Pirc 2026)
+- [[implants/peri-implantitis/pirc-2026-concave-convex-emergence-profiles-mucosal-ma]] — Pirc 2026 · SR+MA (JERD, 4 RCT, 144 임플란트) · 오목형 이행윤곽이 볼록형 대비 midfacial 점막 퇴축 감소 경향(MD -0.31mm; p=0.064); 민감도 분석에서 유의(p=0.002) — 이행윤곽 디자인 최초 정량 MA
 - [[overviews/professional-biofilm-management-gbt-air-polishing-overview]] — **NEW Overview**: 전문가 치면세균막관리(GBT·에어폴리싱·기계적 debridement) 종합 (12편). GBT/에어폴리싱은 편안함·시술시간·치질보존은 우수하나 PPD/CAL/BoP 임상지표는 SRP와 동등(Yein SR·Cyris·Stähli); 단 GCF IL-1β·GI·PI는 GBT 우위(Dönertaş); 분말은 에리스리톨(14µm) 선호(Pujarern·Ifrim); 임플란트도 PMPR 핵심·보조요법 미미(Brunello SR·Eraydın RCT·Mauriello); 치은연하 에어폴리싱 피하기종 위험(Hussein) (2026-06-21)
 
 ## 치아미백 (Tooth Whitening / Bleaching) — NEW category (added 2026-06-22, surveillance batch)
@@ -3933,6 +3936,7 @@ tags: []
 
 ### New batch — 2026-06-28 ingest (implants·immediate-implant·ISQ·surface·occlusion·zirconia)
 - [[implants/loading-protocol/esposito-2013-loading-times-dental-implants-cochrane]] — Cochrane SR+MA (26 RCTs, n=1217): no significant difference between immediate/early/conventional loading for implant survival; insertion torque ≥35 Ncm prerequisite; GRADE very low (Esposito 2013)
+- [[implants/pachiou-2026-immediate-loading-single-implants-ma]] — Pachiou 2026 · de novo RCT-level MA (JPD, 40 unique RCT, >1200 단일 임플란트) · 즉시 vs 조기/지연 로딩 1·2·3·5년 생존율 전부 동등(RR 1.00–1.01); MBL 임상적으로 무의미; moderate certainty
 - [[implants/chrcanovic-2014-flapless-vs-conventional-implant-surgery-ma]] — SR+MA (23 studies): flapless surgery RR 1.75 higher failure overall, but NS in low-risk-of-bias subgroup; no MBL or infection difference (Chrcanovic 2014)
 - [[implants/survival/popelut-2010-sponsorship-implant-failure-rate-sr]] — SR (41 trials): industry-sponsored implant studies report ~5× lower annual failure rates (OR 0.21); 63% trials never disclosed funding (Popelut 2010)
 - [[implants/short-narrow/barbosa-2021-narrow-implants-one-two-piece-fea]] — FEA: 2.5 mm extra-narrow one-piece implant exceeds Ti yield strength under angled loading; 3.0 mm one-piece and 3.5 mm Morse taper two-piece safe (Barbosa 2021)
@@ -4034,7 +4038,8 @@ tags: []
 
 ### New batch — 2026-07-12 ingest (6편 확인 → 4편 신규, 2편 중복 스킵)
 - [[interdental-cleaning/wen-2026-dental-floss-sequence-plaque-removal]] — Wen 2026 · rct (single-blind, n=54) · 치실 사용 순서(브러싱 전/중/후)가 플라크 제거·치주건강에 미치는 영향 — mid-brushing flossing(BFB)이 초기(7일) RMNPI 최대 감소(p=0.039) + 지속적(7·21일) BI 개선(p=0.028/0.015), PD는 군간차 없음
-- [[drug/antibiotics/esposito-2013-antibiotics-dental-implant-placement-cochrane]] — Esposito 2013 · Cochrane SR+MA (CD004152.pub4, 6 RCT, n=1162) · 술전 amoxicillin 2–3g 단회 투여 → 임플란트 실패 유의 감소(RR 0.33, NNT 25); 술후 항생제·비교 용량 근거 없음 (partially superseded by momand-2024)
+- [[drug/antibiotics/esposito-2013-antibiotics-dental-implant-placement-cochrane]] — Esposito 2013 · Cochrane SR+MA (CD004152.pub4, 6 RCT, n=1162) · 술전 amoxicillin 2–3g 단회 투여 → 임플란트 실패 유의 감소(RR 0.33, NNT 25); 술후 항생제·비교 용량 근거 없음 (**full superseded by pub5**)
+- [[drug/antibiotics/esposito-2026-antibiotics-implant-placement-cochrane-pub5]] — Esposito 2026 · Cochrane SR+MA pub5 (CD004152.pub5, 15 RCT, n=2874, 검색 2025년 11월까지) · 술전 amoxicillin 2g 단회 → 임플란트 실패 감소(RR 0.34, NNT=19, moderate); 단회=다회; 최적 요법 미확정 (**pub4 대체**)
 - [[immediate-implant/root-analog/alqutaibi-2026-root-analog-dental-implants]] — Alqutaibi 2026 · sr (28 studies, 432 implants) · 치근형상 커스텀 임플란트(root-analog, CAD-CAM/3D프린팅): 생존율 71–100%, 티타늄/하이브리드가 가장 예측 가능, 지르코니아는 변이가 가장 큼(33.3–100%)
 - [[bone-regeneration/bubalo-2026-bone-substitutes-alveolar-ridge-augmentation]] — Bubalo 2026 · narrative-review · 치조제 증대용 골이식재 7종(자가골/동종골/이종골/합성골/탈회치아기질/PRF-PRP/3D프린팅 스캐폴드) 비교 + 결손 유형별 선택 알고리즘
 
