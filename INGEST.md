@@ -45,6 +45,12 @@ PHASE 1 — fan out (parallel):  one subagent per pending stem
     of them in a row is how this SOP learns. Do NOT log non-deviations: "standard ingest,
     no deviations" is not a row, it is silence.
 
+    **힌트-논문 불일치 처리**: 인제스트 브리핑(hint)이 "X 섹션 중심으로 작성"을 요청했는데
+    논문에 그 섹션이 아예 없는 경우 — 논문에 **실제 있는 내용**으로 페이지를 작성하고,
+    `log-deviation.py <stem> other "Hint requested <X> but paper has no <X> section — framed
+    on <Y> instead"` 로 기록한다. 브리핑 요청을 억지로 채우거나 없는 내용을 지어내지 않는다.
+    (2026-09-19 grover-2015 실측 — 힌트: 안전성·조영제·아티팩트; 논문: 핵자기스핀·시퀀스·DWI 위주)
+
     *Why this list is here:* on 2026-07-17 a reclassification found 87 of 92 `other` rows
     already had a home in this vocabulary. Agents were defaulting to `other` because this
     instruction said only "<type>" and never showed the options, so deviation-audit.py
@@ -208,6 +214,21 @@ Claude가 이어서 하는 것만 남는다: `## Why Ingested`, `## Related Pape
 - DOI 없으면 위 Step 0 no-DOI fallback 병행.
 - 로그: `python3 scripts/log-deviation.py <stem> abstract-only "publisher landing page, built from abstract"` (PMC 빈본문은 `empty-pmc-text`로 구분).
 
+### Step 1 완료 체크 — `external` 분기 필수 확인
+
+> **⛔ `source_collection: external`을 쓰면서 `pdf_path`가 비어있으면 Step 1 미완료 — 다음 스텝 진행 금지.**
+
+`external`은 "실제 아티팩트(PDF)가 `papers/`에 있다"는 선언이다. `pdf_path`가 빈 문자열이거나 frontmatter에 없으면 1:1 orphan-check와 daily lint 모두 `EMPTY/BAD pdf_path`로 잡고 레트로픽스 배치가 필요해진다(2026-08-22 benekou·durrani·lambert·liu·lambert 5건 실측). 올바른 대안:
+
+| 아티팩트 상태 | 사용할 `source_collection` | `pdf_path` |
+|---|---|---|
+| PDF가 `papers/`에 복사됨 | `external` | `/Users/oracleneo/llm-wiki/papers/{stem}.pdf` |
+| PMC 전문 텍스트가 `papers/{stem}.txt`에 저장됨 | `pubmed-text` | 생략 (`text_path` 사용) |
+| 초록만 / 전문 없음 (PDF 아티팩트 존재) | `external` | PDF 경로 정상 기재 + `full_text: false` |
+| 아티팩트 없음(PMC 초록 직접) | `pubmed-text` | 생략 + `full_text: false` |
+
+PDF 파일이 없는데 `external`을 쓰고 싶다면: 먼저 Step 1-T(PMC 텍스트)나 Step 1-P(PoW curl)로 아티팩트를 먼저 확보하거나, 확보 불가면 `pubmed-text` + `full_text: false`로 전환한다.
+
 ## Step 2 — Write `sources/{stem}.md`
 
 ```yaml
@@ -239,6 +260,8 @@ source_collection: external
 Required content of the section:
 - 1–2 sentences explaining *why* this paper was ingested now (gap, conflict, new evidence, requested by user, related to current clinical case, etc.)
 - At least one `[[wiki/category/stem]]` wikilink to an existing wiki page that this paper reinforces, contradicts, or extends.
+
+> **⛔ 브리핑(인제스트 지시문)에서 받은 수치를 sources/·wiki/에 그대로 쓰지 마라.** 모든 수치·비율·p값·CI는 반드시 논문 텍스트(PDF 또는 PMC txt)에서 직접 읽어 확인한 값만 기재한다. 브리핑 수치와 논문 실제 수치가 다를 경우: (a) 논문 직접 읽기 값을 사용, (b) 차이를 sources/ §5 Limitations에 명시, (c) `log-deviation.py <stem> source-data-issue "브리핑 수치 X ≠ 논문 직접 읽기 값 Y"` 기록. (2026-09-04 de-la-rosa-gay-2026 실측 — 브리핑 bias 0.00mm vs 논문 0.03mm; 2026-08-10 plasma 군 7건에서 장치 파라미터 미기재.)
 
 **Wikilink lookup MUST use `qmd query` (MCP tool) — never `grep`, `find`, or `ls` over wiki/.** At this repo's scale a filesystem scan is slow and misses cross-category matches; qmd hybrid search returns relevant candidates in under 1 second. (Live page/paper counts are computed at deploy time into `interactives/wiki-stats-live.html` — never hard-coded here, so this file can't go stale.)
 
@@ -546,3 +569,15 @@ All three tiers share the same stem:
 - Lowercase, special chars stripped, spaces → `-`
 - Year is 4 digits
 - Example: `jung-2023-immediate-implant-placement-sinus.pdf`
+
+**연도 우선순위 (stem의 `{year}` 결정 규칙)**
+
+인쇄 연도(print year)와 온라인 공개 연도(epub/accepted year)가 다를 때:
+
+| 우선순위 | 조건 | 사용 연도 |
+|---|---|---|
+| 1 | 사용자가 인제스트 지시에서 연도를 명시 | 사용자 지정값 |
+| 2 | PubMed `epub_date` 또는 `accepted_date`가 있음 | 그 연도 |
+| 3 | 둘 다 없으면 | 인쇄 연도 |
+
+인쇄 citation(`Journal Year;Vol:pp`)의 연도가 stem 연도와 다를 경우: frontmatter에 `print_year: YYYY` 필드를 추가해 둘을 구분한다. stem은 바꾸지 않는다. 로그 불필요 (표준 처리). (2026-09-19 featherstone-2025 실측 — stem 2025, 인쇄 JDE 2026;90:1335.)
