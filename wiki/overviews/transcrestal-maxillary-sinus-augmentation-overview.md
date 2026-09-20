@@ -58,6 +58,8 @@ source_papers:
   - sinus-lift/transcrestal/albash-2023-implant-protrusion-initial-bone-tsfe
   - sinus-lift/transcrestal/jia-2025-accuracy-robotic-cais-tsfe-posterior-maxilla
   - sinus-lift/transcrestal/kostakis-2025-graftless-sinus-lift-simultaneous-8year
+  - sinus-lift/transcrestal/dhore-2025-sinus-lifting-procedure-using-osseodensification
+  - sinus-lift/transcrestal/shah-2026-implant-stability-elevation-outcomes-crestal
 evidence_level: synthesis
 source: synthesis
 ---
@@ -314,6 +316,8 @@ OD는 임플란트 안정성 지수(Implant Stability Quotient, ISQ)가 오스�
 - [[sinus-lift/transcrestal/cobo-vazquez-2025-crestal-sinus-lift-osteotome-vs-osseodensification]] — Osteotome vs OD
 - [[sinus-lift/transcrestal/alajami-2024-antral-balloon-vs-densah-crestal-sinus]] — Antral balloon vs OD
 - [[sinus-lift/transcrestal/shalash-2023-crestal-sinus-elevation-densah-oblique]] — OD 사각도
+- [[sinus-lift/transcrestal/dhore-2025-sinus-lifting-procedure-using-osseodensification]] — **PRISMA SR(PROSPERO CRD42023455968, 6편/5RCT, 89명/100개)**: OD vs osteotome 경치조 거상 직접 비교; 천공 0%, 생존율 93.9–100% (2025)
+- [[sinus-lift/transcrestal/shah-2026-implant-stability-elevation-outcomes-crestal]] — **전향 2군 비교(n=60, RBH 4–7mm, 사선형 사인바닥)**: Densah 단독 vs Densah+이식; 동시식립 ISQ·골증대량 비교; oblique sinus floor 명시 최초 Densah 임상 (2026)
 
 ### 수압법(CAS-Kit) — 역학·임상 3부작
 - [[sinus-lift/lateral/zhai-2018-nonlinear-biomechanical-schneiderian-membrane]] — FEA 입력값 출처: Mooney-Rivlin C10=0.253, C01=0.026 MPa (ex vivo cadaveric, n=30)
