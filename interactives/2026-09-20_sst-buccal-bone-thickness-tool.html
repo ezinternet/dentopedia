@@ -1,0 +1,613 @@
+<!--
+---
+title: "SST 협측골 두께별 임상 결정 도구"
+type: interactive
+date: 2026-09-20
+status: done
+category: implant-immediate
+source_wiki:
+  - wiki/immediate-implant/socket-shield/saez-alcaide-2026-socket-shield-thin-buccal-bone-rct.md
+  - wiki/immediate-implant/socket-shield/oliva-2023-socket-shield-buccal-bone-preservation-sr.md
+  - wiki/immediate-implant/socket-shield/gharpure-2022-socket-shield-conventional-implant-sr-ma.md
+  - wiki/immediate-implant/socket-shield/lu-2025-socket-shield-conventional-aesthetic-meta.md
+  - wiki/immediate-implant/socket-shield/ji-2025-socket-shield-conventional-network-ma.md
+  - wiki/immediate-implant/socket-shield/blaschke-2020-socket-shield-technique-critical-review.md
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SST 협측골 두께 결정 도구</title>
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg:           #EEF4F0;
+  --surface:      #FFFFFF;
+  --surface-2:    #F3F8F5;
+  --ink:          #152820;
+  --ink-2:        #3D5A4C;
+  --ink-3:        #7A9A8B;
+  --border:       #C4D8CB;
+  --border-2:     #AECABC;
+  --accent:       #1B6848;
+  --accent-light: #E4F2EB;
+  --accent-mid:   #5BA882;
+
+  --ok:           #0D5C35;    --ok-bg:    #E3F5EC;   --ok-bd:    #5AB88A;
+  --warn:         #7A5200;    --warn-bg:  #FEF4E2;   --warn-bd:  #C89030;
+  --caution:      #5C3800;    --caution-bg:#FFF3DC;  --caution-bd:#D4A030;
+  --info:         #1A3D7A;    --info-bg:  #E8F0FA;   --info-bd:  #5A90D4;
+  --neutral:      #3D4A5C;    --neutral-bg:#F0F4F8;  --neutral-bd:#8EA5C0;
+
+  --zone-strong-bg:  #D0EDD9;   --zone-strong-bd:  #2A8C58;   --zone-strong-ink: #0D4A28;
+  --zone-yes-bg:     #E4F2EB;   --zone-yes-bd:     #5BA882;   --zone-yes-ink:    #1B6848;
+  --zone-border-bg:  #FEF4E2;   --zone-border-bd:  #C89030;   --zone-border-ink: #7A5200;
+  --zone-conv-bg:    #F0F4F8;   --zone-conv-bd:    #8EA5C0;   --zone-conv-ink:   #1A3D7A;
+
+  --radius: 10px;
+  --radius-sm: 6px;
+  --sh:  0 1px 4px rgba(14,32,22,.07), 0 0 0 1px rgba(14,32,22,.05);
+  --sh2: 0 2px 12px rgba(27,104,72,.14), 0 0 0 2px var(--accent);
+}
+
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo",
+               "Noto Sans KR", "Malgun Gothic", system-ui, sans-serif;
+  min-height: 100vh;
+  padding: 24px 16px 56px;
+  font-size: 15px;
+  line-height: 1.6;
+}
+
+.wrap { max-width: 720px; margin: 0 auto; }
+
+/* Header */
+.hdr {
+  display: flex; align-items: flex-start; gap: 14px;
+  background: var(--accent); color: #fff;
+  border-radius: var(--radius); padding: 20px 22px;
+  margin-bottom: 20px;
+}
+.hdr-icon { font-size: 34px; line-height:1; flex-shrink:0; margin-top:2px; }
+.hdr h1 { font-size: 17px; font-weight: 700; margin-bottom: 2px; }
+.hdr p { font-size: 13px; opacity: .82; line-height: 1.5; }
+
+/* Cards */
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 20px 22px;
+  margin-bottom: 16px;
+  box-shadow: var(--sh);
+}
+.card-title {
+  font-size: 13px; font-weight: 700; text-transform: uppercase;
+  letter-spacing: .05em; color: var(--ink-3);
+  margin-bottom: 14px;
+}
+
+/* BBT Slider */
+.bbt-row {
+  display: flex; align-items: center; gap: 14px;
+  margin-bottom: 12px;
+}
+.bbt-num-wrap {
+  display: flex; align-items: center; gap: 6px; flex-shrink:0;
+}
+.bbt-num {
+  width: 64px; padding: 8px 10px;
+  border: 2px solid var(--accent); border-radius: var(--radius-sm);
+  font-size: 20px; font-weight: 700; color: var(--accent);
+  text-align: center; background: var(--accent-light);
+  -moz-appearance: textfield;
+}
+.bbt-num::-webkit-inner-spin-button,
+.bbt-num::-webkit-outer-spin-button { -webkit-appearance: none; }
+.bbt-unit { font-size: 13px; color: var(--ink-2); font-weight:600; }
+
+input[type=range] {
+  flex: 1; height: 6px; cursor: pointer;
+  -webkit-appearance: none; appearance: none;
+  background: linear-gradient(to right, var(--accent-mid) 0%, var(--border) 0%);
+  border-radius: 3px; outline: none;
+}
+input[type=range]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 22px; height: 22px; border-radius: 50%;
+  background: var(--accent); border: 3px solid #fff;
+  box-shadow: 0 1px 6px rgba(27,104,72,.3);
+  cursor: pointer;
+}
+input[type=range]::-moz-range-thumb {
+  width: 22px; height: 22px; border-radius: 50%;
+  background: var(--accent); border: 3px solid #fff; cursor: pointer;
+}
+
+/* BBT gauge bar */
+.gauge-wrap { position: relative; margin-bottom: 8px; }
+.gauge-bar {
+  display: flex; height: 28px; border-radius: 6px; overflow: hidden;
+  border: 1px solid var(--border);
+}
+.gauge-seg {
+  display: flex; align-items: center; justify-content: center;
+  font-size: 10px; font-weight: 700; color: #fff; letter-spacing:.02em;
+  flex-shrink: 0;
+}
+.gauge-seg.s0 { background: #A33020; width:12.5%; }
+.gauge-seg.s1 { background: #D05A30; width:12.5%; }
+.gauge-seg.s2 { background: #1B6848; width:25%; }
+.gauge-seg.s3 { background: #C89030; width:25%; }
+.gauge-seg.s4 { background: #5A90D4; width:25%; }
+.gauge-labels {
+  display: flex; justify-content: space-between;
+  font-size: 10px; color: var(--ink-3); margin-top: 3px;
+  padding: 0 2px;
+}
+.gauge-marker {
+  position: absolute; top: -6px;
+  width: 2px; background: var(--ink);
+  height: 40px; border-radius: 1px;
+  transition: left .15s ease;
+  pointer-events: none;
+}
+.gauge-marker::after {
+  content: '▼';
+  position: absolute; top: -14px; left: 50%; transform: translateX(-50%);
+  font-size: 12px; color: var(--ink);
+}
+
+/* Modifier toggles */
+.mod-grid {
+  display: grid; grid-template-columns: 1fr 1fr; gap: 10px;
+  margin-bottom: 4px;
+}
+.mod-item {
+  display: flex; align-items: center; gap: 10px;
+  padding: 10px 12px;
+  border: 1.5px solid var(--border); border-radius: var(--radius-sm);
+  cursor: pointer; transition: border-color .15s, background .15s;
+  user-select: none;
+}
+.mod-item:hover { border-color: var(--accent-mid); background: var(--surface-2); }
+.mod-item.active { border-color: var(--accent); background: var(--accent-light); }
+.mod-cb {
+  width: 18px; height: 18px; border: 2px solid var(--border);
+  border-radius: 4px; flex-shrink:0; display:flex; align-items:center; justify-content:center;
+  transition: all .15s; font-size:11px; color:#fff; background: #fff;
+}
+.mod-item.active .mod-cb { background: var(--accent); border-color: var(--accent); }
+.mod-label { font-size: 13px; line-height:1.35; }
+.mod-label strong { display:block; font-weight:700; font-size:13px; }
+.mod-label span { color: var(--ink-3); font-size:11.5px; }
+
+/* Result panel */
+.result-panel {
+  border-radius: var(--radius);
+  padding: 18px 20px;
+  margin-bottom: 16px;
+  border: 2px solid;
+  transition: all .2s ease;
+}
+.result-panel.strong { background: var(--zone-strong-bg); border-color: var(--zone-strong-bd); }
+.result-panel.yes    { background: var(--zone-yes-bg);    border-color: var(--zone-yes-bd); }
+.result-panel.border { background: var(--zone-border-bg); border-color: var(--zone-border-bd); }
+.result-panel.conv   { background: var(--zone-conv-bg);   border-color: var(--zone-conv-bd); }
+
+.result-tag {
+  display: inline-flex; align-items: center; gap: 6px;
+  font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing:.06em;
+  padding: 3px 10px; border-radius: 20px; margin-bottom: 10px;
+}
+.strong .result-tag { background: var(--zone-strong-bd); color: #fff; }
+.yes    .result-tag { background: var(--zone-yes-bd);    color: #fff; }
+.border .result-tag { background: var(--zone-border-bd); color: #fff; }
+.conv   .result-tag { background: var(--zone-conv-bd);   color: #fff; }
+
+.result-head {
+  font-size: 17px; font-weight: 700; margin-bottom: 6px;
+}
+.strong .result-head { color: var(--zone-strong-ink); }
+.yes    .result-head { color: var(--zone-yes-ink); }
+.border .result-head { color: var(--zone-border-ink); }
+.conv   .result-head { color: var(--zone-conv-ink); }
+
+.result-body { font-size: 13.5px; line-height: 1.6; }
+.strong .result-body { color: #1E6040; }
+.yes    .result-body { color: #2A7050; }
+.border .result-body { color: #7A5200; }
+.conv   .result-body { color: #1A3D7A; }
+
+/* Expected outcomes */
+.outcomes {
+  display: grid; grid-template-columns: 1fr 1fr;
+  gap: 10px; margin: 14px 0 0;
+}
+.oc-col {
+  padding: 12px 14px;
+  border-radius: var(--radius-sm);
+  border: 1px solid;
+}
+.oc-col.sst-col  { background: #E8F5EE; border-color: #5AB88A; }
+.oc-col.iip-col  { background: #F5EAEA; border-color: #D08080; }
+.oc-col h4 { font-size: 11px; font-weight:700; text-transform:uppercase; letter-spacing:.05em; margin-bottom:8px; }
+.sst-col h4 { color: #1B6848; }
+.iip-col h4 { color: #8C2020; }
+.oc-row { display:flex; justify-content:space-between; font-size:12.5px; padding:3px 0; border-bottom:1px solid rgba(0,0,0,.06); }
+.oc-row:last-child { border:none; }
+.oc-val { font-weight:700; }
+.sst-col .oc-val { color: #1B6848; }
+.iip-col .oc-val { color: #8C2020; }
+
+/* Caution note */
+.caution-bar {
+  display:flex; gap:8px; align-items:flex-start;
+  background: var(--caution-bg); border:1px solid var(--caution-bd);
+  border-radius: var(--radius-sm); padding: 10px 12px;
+  font-size: 12.5px; color: var(--caution); margin-top: 12px;
+}
+.caution-bar span { line-height:1.5; }
+
+/* Evidence table */
+.ev-table { width:100%; border-collapse:collapse; font-size:12.5px; margin-top:4px; }
+.ev-table th {
+  background: var(--surface-2); border:1px solid var(--border);
+  padding: 7px 10px; text-align:left; font-size:11px;
+  color: var(--ink-2); font-weight:700; text-transform:uppercase; letter-spacing:.04em;
+}
+.ev-table td {
+  border:1px solid var(--border); padding:7px 10px;
+  vertical-align:top; line-height:1.45;
+}
+.ev-table tr:nth-child(even) td { background: var(--surface-2); }
+.badge {
+  display:inline-block; padding:2px 7px; border-radius:20px;
+  font-size:10px; font-weight:700; letter-spacing:.04em;
+  vertical-align:middle;
+}
+.badge-rct  { background:#D0EDD9; color:#0D5C35; }
+.badge-srma { background:#E8F0FA; color:#1A3D7A; }
+.badge-sr   { background:#F0E8FA; color:#4A1A7A; }
+
+/* Footer */
+.footer {
+  text-align:center; font-size:11.5px; color:var(--ink-3);
+  margin-top: 24px; line-height:1.6;
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <!-- Header -->
+  <div class="hdr">
+    <div class="hdr-icon">🦷</div>
+    <div>
+      <h1>SST 협측골 두께별 임상 결정 도구</h1>
+      <p>협측골 두께 (BBT) 실측값을 입력하면 소켓실드(SST) 시술 근거와 예상 결과를 제시합니다.<br>
+         Saez-Alcaide 2026 RCT · Oliva 2023 SR · Gharpure 2022 SR+MA · Lu 2025 MA 기반</p>
+    </div>
+  </div>
+
+  <!-- Input card -->
+  <div class="card">
+    <div class="card-title">① CBCT 협측골 두께 (Buccal Bone Thickness, BBT)</div>
+
+    <div class="bbt-row">
+      <div class="bbt-num-wrap">
+        <input type="number" class="bbt-num" id="bbt-num"
+               min="0" max="4" step="0.1" value="1.2">
+        <span class="bbt-unit">mm</span>
+      </div>
+      <input type="range" id="bbt-slider" min="0" max="4" step="0.1" value="1.2">
+    </div>
+
+    <!-- Gauge bar -->
+    <div class="gauge-wrap" id="gauge-wrap">
+      <div id="gauge-marker" class="gauge-marker"></div>
+      <div class="gauge-bar">
+        <div class="gauge-seg s0" title="&lt;0.5mm: 극박형">극박</div>
+        <div class="gauge-seg s1" title="0.5–1.0mm: 고위험">고위험</div>
+        <div class="gauge-seg s2" title="1.0–1.5mm: SST 강적응">SST 강적응</div>
+        <div class="gauge-seg s3" title="1.5–2.0mm: 경계">경계</div>
+        <div class="gauge-seg s4" title="≥2.0mm: 통상 IIP 가능">통상 가능</div>
+      </div>
+      <div class="gauge-labels">
+        <span>0</span><span>0.5</span><span>1.0</span><span>1.5</span><span>2.0</span><span>4.0mm</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modifier card -->
+  <div class="card">
+    <div class="card-title">② 임상 수정 인자 (복수 선택)</div>
+    <div class="mod-grid" id="mod-grid">
+      <div class="mod-item active" data-mod="esthetic" onclick="toggleMod(this)">
+        <div class="mod-cb">✓</div>
+        <div class="mod-label">
+          <strong>심미부위</strong>
+          <span>상악 전치부·소구치<br>협측 윤곽 중요도 높음</span>
+        </div>
+      </div>
+      <div class="mod-item" data-mod="experience" onclick="toggleMod(this)">
+        <div class="mod-cb"></div>
+        <div class="mod-label">
+          <strong>SST 술기 경험 충분</strong>
+          <span>실드 파절·노출 합병증<br>최소화 가능한 숙련도</span>
+        </div>
+      </div>
+      <div class="mod-item" data-mod="infection" onclick="toggleMod(this)">
+        <div class="mod-cb"></div>
+        <div class="mod-label">
+          <strong>발치와 감염 있음</strong>
+          <span>만성 치근단 병소·<br>활성 염증 → SST 재검토</span>
+        </div>
+      </div>
+      <div class="mod-item" data-mod="single_root" onclick="toggleMod(this)">
+        <div class="mod-cb"></div>
+        <div class="mod-label">
+          <strong>단근치 (single-root)</strong>
+          <span>다근치는 근거 매우 제한적<br>(Simuntis 2025 case report만)</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Result panel -->
+  <div class="result-panel" id="result-panel">
+    <div class="result-tag" id="result-tag"></div>
+    <div class="result-head" id="result-head"></div>
+    <div class="result-body" id="result-body"></div>
+    <div class="outcomes" id="outcomes"></div>
+    <div class="caution-bar" id="caution-bar" style="display:none">
+      <span>⚠️</span>
+      <span id="caution-text"></span>
+    </div>
+  </div>
+
+  <!-- Evidence table -->
+  <div class="card">
+    <div class="card-title">근거 요약</div>
+    <table class="ev-table">
+      <thead>
+        <tr>
+          <th>논문</th>
+          <th>설계</th>
+          <th>핵심 수치</th>
+          <th>BBT 관련성</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong>Saez-Alcaide 2026</strong></td>
+          <td><span class="badge badge-rct">RCT</span></td>
+          <td>협측골 BBT &lt;1.5mm 케이스 전용;<br>수평·수직·체적 모두 SST 우월 (p&lt;0.001);<br>로딩 후 MBL 우월 (p&lt;0.001)</td>
+          <td><strong style="color:#1B6848">BBT &lt;1.5mm 1순위 근거</strong><br>첫 thin-bone RCT</td>
+        </tr>
+        <tr>
+          <td><strong>Lu 2025</strong></td>
+          <td><span class="badge badge-srma">SR+MA</span></td>
+          <td>27편, 1307 임플란트;<br>수평 MD −0.50mm · 수직 −0.56mm;<br>PES +1.25 · ISQ +5.83;<br>생존율 동등 (RR 1.00)</td>
+          <td>전체 BBT 불문 SST 우월<br>(non-stratified)</td>
+        </tr>
+        <tr>
+          <td><strong>Oliva 2023</strong></td>
+          <td><span class="badge badge-sr">SR</span></td>
+          <td>17편, 656 임플란트;<br>BBPR: 0.32 vs 1.05mm (−70%);<br>MBL: 0.39 vs 1.00mm;<br>PES: 12.08 vs 10.77;<br>생존율 98.6%</td>
+          <td>SST의 협측 골보존 정량 anchor;<br>BBT 비계층 분석</td>
+        </tr>
+        <tr>
+          <td><strong>Gharpure 2022</strong></td>
+          <td><span class="badge badge-srma">SR+MA</span></td>
+          <td>협측골 MD −0.5mm;<br>실드 합병증 5–17%<br>(파절·노출)</td>
+          <td>합병증 위험 정량화;<br>숙련도 영향 큼</td>
+        </tr>
+        <tr>
+          <td><strong>Ji 2025</strong></td>
+          <td><span class="badge badge-srma">Network MA</span></td>
+          <td>심미부 다중개입 네트워크 MA;<br>SST 우선순위 1위</td>
+          <td>심미부 전체 BBT 적용;<br>최고 evidence level</td>
+        </tr>
+        <tr>
+          <td><strong>Blaschke 2020</strong></td>
+          <td><span class="badge badge-sr">Critical review</span></td>
+          <td>12편 분석; 장기근거 부족;<br>합병증 패턴 경고</td>
+          <td>한계 신호 (숙련도·장기)</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="footer">
+    임상 결정은 이 도구를 보조 근거로만 사용하십시오. 최종 판단은 임상의의 총체적 평가에 따릅니다.<br>
+    근거: llm-wiki (2026-09-20) · CBCT 측정은 가장 얇은 지점에서 수행
+  </div>
+
+</div>
+
+<script>
+const slider  = document.getElementById('bbt-slider');
+const numInput = document.getElementById('bbt-num');
+const marker  = document.getElementById('gauge-marker');
+const gaugeWrap = document.getElementById('gauge-wrap');
+
+const panel    = document.getElementById('result-panel');
+const tagEl    = document.getElementById('result-tag');
+const headEl   = document.getElementById('result-head');
+const bodyEl   = document.getElementById('result-body');
+const outEl    = document.getElementById('outcomes');
+const cautionBar = document.getElementById('caution-bar');
+const cautionTxt = document.getElementById('caution-text');
+
+let mods = { esthetic: true, experience: false, infection: false, single_root: false };
+
+function toggleMod(el) {
+  const key = el.dataset.mod;
+  mods[key] = !mods[key];
+  el.classList.toggle('active', mods[key]);
+  el.querySelector('.mod-cb').textContent = mods[key] ? '✓' : '';
+  update();
+}
+
+function getZone(bbt) {
+  if (bbt < 0.5)   return 0;  // extreme thin
+  if (bbt < 1.0)   return 1;  // very thin
+  if (bbt < 1.5)   return 2;  // thin — SST proven (saez-alcaide)
+  if (bbt < 2.0)   return 3;  // borderline
+  return 4;                    // adequate conventional
+}
+
+const ZONES = [
+  {
+    cls: 'strong',
+    tag: '⚠ 극박형 — SST 최우선',
+    head: 'BBT <0.5 mm: 통상 IIP는 협측골 소실 위험 매우 높음',
+    body: `협측골이 거의 없어 발치 후 급격한 흡수가 예상됩니다. 소켓실드(SST)가 협측 치조제 보존의 <strong>최우선 전략</strong>이지만, 실드 두께 확보가 어려워 <em>술기 난이도가 가장 높은 구간</em>입니다. 숙련된 술자에 의한 면밀한 실드 디자인이 필수입니다.`,
+    sst:  { bbpr:'~0.3 mm', mbl:'~0.4 mm', pes:'12↑', comp:'5–17%' },
+    iip:  { bbpr:'~1.0 mm 이상', mbl:'~1.0 mm', pes:'10.8', comp:'낮음' },
+  },
+  {
+    cls: 'strong',
+    tag: '● SST 강력 권장',
+    head: 'BBT 0.5–1.0 mm: SST로 협측골 소실 70% 억제 가능',
+    body: `Oliva 2023 SR에서 SST 시 BBPR이 <strong>0.32 mm vs 1.05 mm</strong> — 약 3배 차이. Saez-Alcaide 2026 RCT(BBT &lt;1.5mm)에서 수평·수직·체적 모두 p&lt;0.001로 SST 우월. 이 구간은 통상 IIP만으로는 예측 가능한 결과를 보장하기 어렵습니다.`,
+    sst:  { bbpr:'~0.32 mm', mbl:'~0.39 mm', pes:'12.1', comp:'5–17%' },
+    iip:  { bbpr:'~1.05 mm', mbl:'~1.00 mm', pes:'10.8', comp:'낮음' },
+  },
+  {
+    cls: 'yes',
+    tag: '● SST 권장 (최초 RCT 입증 구간)',
+    head: 'BBT 1.0–1.5 mm: Saez-Alcaide 2026이 직접 입증한 SST 우월 구간',
+    body: `<strong>BBT &lt;1.5 mm</strong>는 Saez-Alcaide 2026 RCT의 포함 기준 — <em>thin buccal bone phenotype의 첫 전용 RCT</em>. 수평 치조제 감소·협측 수직 골소실·체적 변화 모두 SST가 유의하게 우월(p&lt;0.001). Lu 2025 MA(27편, 1307 임플란트)에서도 전체 BBT에서 MD −0.50mm 우월. SST 적응증 중 근거가 가장 직접적입니다.`,
+    sst:  { bbpr:'~0.32 mm', mbl:'~0.39 mm', pes:'12.1', comp:'5–17%' },
+    iip:  { bbpr:'~1.05 mm', mbl:'~1.00 mm', pes:'10.8', comp:'낮음' },
+  },
+  {
+    cls: 'border',
+    tag: '◐ 경계 구간 — 조건부 고려',
+    head: 'BBT 1.5–2.0 mm: 통상 IIP도 가능하지만 SST 추가 이점 있음',
+    body: `이 구간은 Saez-Alcaide 2026 RCT 포함 기준 <em>밖</em>이므로 thin-bone 전용 근거는 없습니다. 다만 Lu 2025 MA(비계층)에서 BBT 전반에 걸쳐 SST가 MD −0.50mm 우월. 심미 요구도가 높거나 추가 안전마진을 원하는 경우 SST를 고려할 수 있으나, 합병증 위험(5–17%)과 술기 복잡성을 함께 평가해야 합니다.`,
+    sst:  { bbpr:'~0.32 mm', mbl:'~0.39 mm', pes:'12.1', comp:'5–17%' },
+    iip:  { bbpr:'~0.7 mm*', mbl:'~0.7 mm*', pes:'10.8', comp:'낮음' },
+  },
+  {
+    cls: 'conv',
+    tag: '○ 통상 IIP 적합',
+    head: 'BBT ≥2.0 mm: 충분한 협측골 — 통상 즉시 식립 적용 가능',
+    body: `협측골 두께가 충분해 통상 IIP의 예측 가능성이 높은 구간입니다. SST가 <em>추가 심미 이점</em>을 줄 수 있지만(Lu 2025), 합병증 위험(5–17%)과 술기 부담이 이득을 초과할 가능성이 높습니다. Blaschke 2020은 장기 근거 부족과 합병증 위험을 이유로 <strong>선별적 적용</strong>을 권고합니다. 일반적으로 이 구간에서는 통상 즉시 식립이 우선입니다.`,
+    sst:  { bbpr:'~0.32 mm', mbl:'~0.39 mm', pes:'12.1', comp:'5–17%' },
+    iip:  { bbpr:'~0.5–0.7 mm*', mbl:'~0.6 mm*', pes:'11+', comp:'낮음' },
+  },
+];
+
+function update() {
+  const bbt = parseFloat(numInput.value) || 0;
+  const clampedBbt = Math.max(0, Math.min(4, bbt));
+
+  // Sync slider
+  slider.value = clampedBbt;
+
+  // Update slider gradient
+  const pct = (clampedBbt / 4) * 100;
+  slider.style.background =
+    `linear-gradient(to right, var(--accent-mid) ${pct}%, var(--border) ${pct}%)`;
+
+  // Update gauge marker
+  // Zone widths: s0=12.5%, s1=12.5%, s2=25%, s3=25%, s4=25% (total gaugeBar)
+  // Map bbt (0-4) to % of gauge bar
+  const markerPct = (clampedBbt / 4) * 100;
+  const gaugeBarEl = gaugeWrap.querySelector('.gauge-bar');
+  const gaugeW = gaugeBarEl.offsetWidth || 300;
+  marker.style.left = `${(markerPct / 100) * gaugeW - 1}px`;
+
+  // Compute zone
+  let zone = getZone(clampedBbt);
+
+  // Modifier adjustments
+  let effectiveZone = zone;
+  if (mods.infection && zone <= 2) {
+    effectiveZone = 3; // downgrade — defer or reconsider
+  }
+  if (!mods.single_root && zone <= 1) {
+    effectiveZone = Math.min(zone + 1, 4); // slightly downgrade for multi-root
+  }
+
+  const z = ZONES[effectiveZone];
+
+  // Apply panel
+  panel.className = `result-panel ${z.cls}`;
+  tagEl.className = `result-tag`;
+  tagEl.textContent = z.tag;
+  headEl.textContent = z.head;
+  bodyEl.innerHTML = z.body;
+
+  // Outcomes
+  outEl.innerHTML = `
+    <div class="oc-col sst-col">
+      <h4>소켓실드 (SST) 예상 결과</h4>
+      <div class="oc-row"><span>협측골 흡수 (BBPR)</span><span class="oc-val">${z.sst.bbpr}</span></div>
+      <div class="oc-row"><span>변연골 소실 (MBL)</span><span class="oc-val">${z.sst.mbl}</span></div>
+      <div class="oc-row"><span>심미 지수 (PES)</span><span class="oc-val">${z.sst.pes}</span></div>
+      <div class="oc-row"><span>실드 합병증 위험</span><span class="oc-val">${z.sst.comp}</span></div>
+    </div>
+    <div class="oc-col iip-col">
+      <h4>통상 즉시 식립 (IIP) 예상 결과</h4>
+      <div class="oc-row"><span>협측골 흡수 (BBPR)</span><span class="oc-val">${z.iip.bbpr}</span></div>
+      <div class="oc-row"><span>변연골 소실 (MBL)</span><span class="oc-val">${z.iip.mbl}</span></div>
+      <div class="oc-row"><span>심미 지수 (PES)</span><span class="oc-val">${z.iip.pes}</span></div>
+      <div class="oc-row"><span>기기·재료 합병증</span><span class="oc-val">${z.iip.comp}</span></div>
+    </div>
+  `;
+
+  // Cautions
+  let cautions = [];
+  if (mods.infection) cautions.push('감염 부위 선택: SST는 활성 염증 부위에서 금기에 가깝습니다. 치유 후 재평가를 권장합니다.');
+  if (!mods.experience && effectiveZone <= 2) cautions.push('SST 술기 경험이 충분하지 않으면 합병증(실드 파절·노출 5–17%)이 이득을 상쇄할 수 있습니다. 수련 후 적용을 권고합니다.');
+  if (!mods.single_root) cautions.push('다근치 케이스의 SST는 근거가 매우 제한적입니다 (Simuntis 2025 case report 수준). 단근치에서만 근거 기반 적용이 가능합니다.');
+  if (clampedBbt < 0.5 && mods.experience) cautions.push('극박형(< 0.5mm)은 SST 실드 두께 확보 자체가 어려울 수 있습니다. 판막 접근 또는 골이식 병행을 검토하십시오.');
+
+  if (cautions.length > 0) {
+    cautionBar.style.display = 'flex';
+    cautionTxt.innerHTML = cautions.join('<br>');
+  } else {
+    cautionBar.style.display = 'none';
+  }
+}
+
+// Sync slider → number
+slider.addEventListener('input', () => {
+  numInput.value = parseFloat(slider.value).toFixed(1);
+  update();
+});
+
+// Sync number → slider
+numInput.addEventListener('input', () => {
+  let v = parseFloat(numInput.value);
+  if (isNaN(v)) return;
+  v = Math.max(0, Math.min(4, v));
+  numInput.value = v;
+  update();
+});
+
+numInput.addEventListener('change', () => {
+  let v = parseFloat(numInput.value);
+  if (isNaN(v) || v < 0) v = 0;
+  if (v > 4) v = 4;
+  numInput.value = parseFloat(v).toFixed(1);
+  update();
+});
+
+// Initial render
+update();
+
+// Recalculate marker position on resize
+window.addEventListener('resize', update);
+</script>
+</body>
+</html>
