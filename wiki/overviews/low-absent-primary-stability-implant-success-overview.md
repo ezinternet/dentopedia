@@ -11,6 +11,9 @@ pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
 tags: [primary-stability, low-insertion-torque, implant-survival, immediate-placement, secondary-stability, isq, delayed-loading, osseodensification, undersized-drilling, overview]
+relations:
+  - type: counterpoint
+    target: implants/osseodensification/barbera-millan-2021-primary-stability-low-density-osseodensification
 source_wiki:
   - wiki/immediate-implant/primary-stability/jang-2025-flapless-immediate-implant-low-primary-stability.md
   - wiki/immediate-implant/primary-stability/kim-2016-immediately-placed-implant-without-primary.md
