@@ -246,3 +246,27 @@ Defense strategies: masking test (cover enamel margin — if radiolucency disapp
 - [[radiology/horner-2004-european-guidelines-radiation-protection-dental-radiology]] — EU RP136 유럽 방사선 보호 가이드라인: 전 치과 modality 선량 기준치(구내 1–8.3 µSv, 파노라마 3.85–30 µSv, 하악 CT 364–1,202 µSv), 연령별 위험 배수(소아 ×3, 50–80세 ×0.3), 3단계 정당화 근거 분류(ED 법적 필수·A–C 근거 등급·NR 국가 결정) — 유럽 치과 방사선 보호의 법적 기준선(2004).
 - [[radiology/benavides-2024-optimizing-radiation-safety-dentistry]] — ADA 2024 방사선 안전 가이드라인(95편 SR, 2010–2022): 디지털 센서 우선, 직사각형 조준기(>40% 선량 감소), CBCT 최소 필요 시야 (Field of View, FOV), ALARA/ALADA 원칙; CBCT는 기존 방사선의 10–15배 — Benavides 2023(접촉 차폐 중단)의 포괄 후속 정책 문서.
 - [[radiology/dewake-2023-mri-occlusal-trauma-pdl]] — T2-IDEAL MRI를 이용한 교합 외상(Occlusal Trauma) 치주인대(PDL) 비전리 정량 영상: 브룩시즘(Bruxism) 20명에서 MRI 최대 신호강도 ~ 임상 교합 외상 점수 ρ=0.529(p<0.001); 신호강도 단조증가(점수 0: 40.0 → 점수 6: 73.4) — PDL 부종(Edema) 조기 감지, 방사선 피폭 없음.
+
+### 신규 추가 (2026-09-20) — MRI 임플란트·악안면 응용
+
+- [[radiology/mri/al-haj-husain-2025-mri-bone-implant-imaging-review]] — 치과 임플란트 MRI 영상 최신 기술 종설: 임플란트 주변 골 상태·골유착 평가를 위한 MRI 프로토콜·시퀀스·아티팩트 감소 전략. (review, 2025)
+- [[radiology/mri/bohner-2020-diagnostic-accuracy-mri-periapical-lesions]] — MRI 치근단 병소(Periapical Lesion) 진단 정확도 SR+MA: 민감도 74%(95% CI 56–87%), 특이도 87%(78–93%) — CBCT 대안 비전리 영상 근거. (sr+ma, 2020)
+- [[radiology/mri/geibel-2019-mri-assessment-periimplant-tissue-clinical]] — 임플란트 주변 연조직·경조직 MRI 평가: 1.5T 임상 프로토콜, 금속 아티팩트 감소(Metal Artifact Reduction, MAR) 기법 비교. (clinical-study, 2019)
+- [[radiology/mri/grover-2015-mri-detection-implant-osseointegration-ex-vivo]] — ex vivo 임플란트 골유착(Osseointegration) MRI 감지: 골-임플란트 접촉(Bone-to-Implant Contact, BIC) 조직학 vs MRI 신호 상관 최초 제안. (ex-vivo, 2015)
+- [[radiology/mri/liedke-2026-mri-protocol-dental-implants-artifacts]] — 치과 임플란트 MRI 프로토콜 표준화: 시퀀스·아티팩트 감소(MARS/SEMAC/MAVRIC) 임상 적용 가이드라인 제안. (protocol, 2026)
+- [[radiology/mri/rychert-2015-mri-temporomandibular-joint-disc-displacement]] — 턱관절(Temporomandibular Joint, TMJ) 원판 변위(Disc Displacement, DD) MRI: 원판 복위형(Reducing, DDR) vs 비복위형(Non-Reducing, DDNR) 감별 진단 프로토콜. (clinical, 2015)
+- [[radiology/mri/van-der-heide-2019-mri-mandibular-canal-imaging]] — 하악관(Mandibular Canal, MC) MRI 영상: CBCT 대비 하악관·하치조신경(Inferior Alveolar Nerve, IAN) 시각화 비교 — 신경 보존 수술 계획 시 MRI 보완 근거. (comparative, 2019)
+- [[radiology/mri/vassiliou-2018-mri-head-neck-dental-implants-safety]] — 두경부 MRI 촬영 시 치과 임플란트 안전성·아티팩트 영향: 3T 환경에서 다양한 임플란트 재질·형태별 아티팩트 크기·온도 상승 체계적 평가. (safety, 2018)
+
+### 신규 추가 (2026-09-20) — 파노라마 위치·기법·품질
+
+- [[radiology/panoramic/dhillon-2012-panoramic-positioning-errors-dental-students]] — 치과대학생 파노라마 위치 오류 분석: 오류 유형별 빈도·교육적 개선 포인트 — Lingam 2023 위치 훈련 부재 명제의 교육 맥락 보강. (cross-sectional, 2012)
+- [[radiology/panoramic/featherstone-2025-panoramic-radiograph-quality-assessment-ai]] — AI 기반 파노라마방사선사진(OPG) 품질 자동 평가: 딥러닝 위치 오류 분류 — Ameli 2025(YOLOv8 QC) 계열의 최신 AI QC 검증. (ai, 2025)
+- [[radiology/panoramic/joh-2024-panoramic-image-positioning-error-types]] — 파노라마 위치 오류 유형 분류 및 임상 영향: 오류 유형별 진단 오류 위험 정량화 — 파노라마 QC 기준 보강. (study, 2024)
+- [[radiology/panoramic/kim-2024-panoramic-ghost-image-artifacts-thyroid]] — 파노라마 유령상(Ghost Image) 아티팩트: 갑상선 보호대 위치에 따른 유령상 발생·위치·교육 대책 — 소아·성인 OPG 품질 교육 맥락. (study, 2024)
+- [[radiology/panoramic/rondon-2014-panoramic-radiograph-positioning-common-errors]] — 파노라마 일반 위치 오류 레퍼런스: 교과서적 오류 유형 목록화·원인·교정 — 파노라마 교육 표준 근거. (reference, 2014)
+- [[radiology/panoramic/suomalainen-2015-panoramic-vs-cbct-mandibular-canal]] — 파노라마 vs CBCT 하악관 식별 정확도 비교: 파노라마의 하악관 위치 추정 오차·CBCT 우위 조건 — 임플란트 계획 modality 선택 근거. (comparative, 2015)
+
+### 신규 추가 (2026-09-20) — CBCT 기술
+
+- [[radiology/pauwels-2015-cbct-technical-parameters-dose-image-quality]] — CBCT 기술 파라미터(kVp·mAs·복셀·FOV)와 선량·화질 trade-off 체계 분석: 파라미터별 dose-quality 교환비(exchange ratio) 정량화 — 선량 최적화 레버 근거 기술 토대. (technical, 2015)
