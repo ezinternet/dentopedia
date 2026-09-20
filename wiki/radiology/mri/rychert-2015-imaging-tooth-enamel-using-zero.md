@@ -58,4 +58,4 @@ This ex vivo study demonstrates that tooth enamel — a tissue whose ultra-short
 - [[radiology/mri/vassiliou-2018-mri-physics-basics-cardiologist]] — companion primer on relaxation physics (T1/T2 fundamentals) framing why enamel is invisible to standard MRI.
 - [[radiology/willershausen-2025-low-field-mri-pediatric-dental]] — radiation-free dental MRI direction; ZTE enamel imaging is the hard-tissue extension of this program (noted in the page's own context).
 - [[radiology/dewake-2023-mri-occlusal-trauma-pdl]] — fellow dental-MRI application page; ZTE adds a hard-tissue imaging capability not covered by soft-tissue/PDL MRI.
-- [[caries/van-amerongen-2019-silver-diamine-fluoride-caries-arrest-amazonian]] — caries imaging relevance: ZTE's incidental caries detection motivates radiation-free caries diagnosis, though clinical validation at lower field strengths is pending.
+- caries imaging relevance: ZTE's incidental caries detection motivates radiation-free caries diagnosis, though clinical validation at lower field strengths is pending.
