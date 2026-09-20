@@ -98,3 +98,7 @@ A fourth comparison — **immediate-delayed (4–8 wk soft-tissue healing only, 
 - [[overviews/socket-shield-technique-overview]] — an immediate-placement variant for buccal-plate preservation
 - [[overviews/type-1a-immediate-placement-immediate-loading-decision]] — immediate placement + immediate loading subset
 - [[immediate-implant/esposito-2010-fresh-extraction-sockets-immediate-cochrane]] — Cochrane SR+MA (7 RCT, 2010): immediate vs immediate-delayed vs delayed in fresh sockets; immediate-delayed short-term esthetic gain offset by 4× long-term complications
+
+### 신규 추가 (2026-09-20)
+
+- [[immediate-implant/ron-canelos-2026-immediate-versus-delayed-dental-implant]] — **우산형 리뷰 프로토콜(PRISMA-P, BMJ Open 2026;16:e119635)**: 발치 후 즉시(Type I, ≤10일) vs 지연(Type IV, 4–6개월) 식립을 비교하는 SR들을 종합할 계획 — 결과 미공개; 이 비교의 미래 고수준 합성으로 추적 필요. (umbrella-review protocol, 2026)
