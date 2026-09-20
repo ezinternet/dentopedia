@@ -10,8 +10,8 @@ evidence_level: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/esposito-2013-antibiotics-dental-implant-placement-cochrane.pdf
 pdf_filename: esposito-2013-antibiotics-dental-implant-placement-cochrane.pdf
 source_collection: external
-superseded_by: momand-2024-antibiotic-prophylaxis-early-implant-failure
-superseded_scope: partial
+superseded_by: esposito-2026-antibiotics-implant-placement-cochrane-pub5
+superseded_scope: full
 tags: [antibiotic-prophylaxis, dental-implant, amoxicillin, preoperative, cochrane, sr-ma, NNT, GRADE]
 relations:
   - type: reinforces
@@ -20,8 +20,11 @@ relations:
     target: momand-2024-antibiotic-prophylaxis-early-implant-failure
 ---
 
-> [!note] Partially superseded → [[momand-2024-antibiotic-prophylaxis-early-implant-failure]]
-> Momand 2024's stricter SR+MA (placebo-controlled, double-blind, low/moderate-risk-of-bias RCTs only; 1859 patients/3014 implants) analyzing largely the same trial pool found NO significant reduction in early implant failure (RR 0.66, 95% CI 0.30–1.47; NNT 143) — the significant benefit found here (RR 0.33, NNT 25) shrinks to non-significance once high-risk-of-bias/non-blinded trials are excluded, with any residual benefit localized to immediate post-extraction implants. This Cochrane review remains valuable as the original GRADE-rated trial-level synthesis. (set 2026-07-12)
+> [!warning] Superseded (full) → [[drug/antibiotics/esposito-2026-antibiotics-implant-placement-cochrane-pub5]]
+> Cochrane pub5 (2026) by same first author extends search to Nov 2025: 15 RCTs (vs 6 here), 2874 participants (vs 1162), NNT=19 (vs 25). This pub4 is superseded by the updated review. (set 2026-09-20)
+
+> [!note] Also partially contradicted → [[momand-2024-antibiotic-prophylaxis-early-implant-failure]]
+> Momand 2024 (double-blind-only subgroup; RR 0.66 NS; NNT 143) challenges the benefit signal found here when high-risk-of-bias trials are excluded.
 
 ## Three-line Summary
 
