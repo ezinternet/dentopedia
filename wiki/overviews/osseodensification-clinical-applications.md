@@ -53,6 +53,11 @@ source_papers:
   - wiki/sinus-lift/transcrestal/cobo-vazquez-2025-crestal-sinus-lift-osteotome-vs-osseodensification.md
   - wiki/implants/osseodensification/banerjee-2024-osseodensification-versus-conventional-drilling-sr.md
   - wiki/implants/osseodensification/nabih-2025-evaluation-of-the-stability-of.md
+  - wiki/implants/osseodensification/abdelraouf-2025-implant-stability-posterior-maxilla-clinical.md
+  - wiki/implants/osseodensification/frizzera-2022-effect-osseodensification-increase-ridge-thickness.md
+  - wiki/sinus-lift/transcrestal/dhore-2025-sinus-lifting-procedure-using-osseodensification.md
+  - wiki/sinus-lift/transcrestal/shah-2026-implant-stability-elevation-outcomes-crestal.md
+  - wiki/implants/osteotomy-thermal/sadek-2025-peri-implant-bone-behavior-after-single.md
 evidence_level: synthesis
 source: synthesis
 agenda: agenda/2026-05-25_osseodensification-whole-picture.md
@@ -401,6 +406,13 @@ Living document 원칙으로 명시:
 ### 신규 추가 (2026-09-19)
 
 - [[implants/osseodensification/nabih-2025-evaluation-of-the-stability-of]] — **OD vs HaeNaem 확장기 최초 직접 RCT(이중맹검, n=22, 상악 D3/D4)**: 1차·3개월 ISQ NS; **6개월 ISQ 79.60 vs 72.10(P=0.0268) OD 우위**; 폭경 6개월 3수준 OD↑; 확장기 폭경 이득 3–6개월에 회귀; 확장기군 피질골 골절 2건+실패 2건. 단 술전 2mm 폭경 군간 차이(P=0.0193) — 교란변수. HaeNaem 확장기의 첫 유효(non-retracted) 임상 비교데이터. (rct, 2025)
+
+### 신규 추가 (2026-09-20)
+
+- [[implants/osseodensification/abdelraouf-2025-implant-stability-posterior-maxilla-clinical]] — **이중맹검 평행군 RCT(n=20, D3/D4 상악 구치부, OD vs CD)**: ISQ·IT·치조정 골소실·생존율 12개월 추적 — 후방 상악 실세계 조건에서 OD vs CD 직접 비교한 첫 DBRCT; 저밀도골 S3 시나리오의 인체 근거 보강. (rct, 2025)
+- [[implants/osseodensification/frizzera-2022-effect-osseodensification-increase-ridge-thickness]] — **in vitro split-mouth 파일럿(돼지 하악 10개, 임플란트 20개, 4.5×10mm)**: OD vs CTL, 치조제 폭 증가 및 협측 결손 예방 효과 — 좁은 ridge S2 시나리오에서 OD의 ridge-thickness 보존 잠재력을 처음 정량한 in vitro 데이터. (in-vitro, 2022)
+- [[sinus-lift/transcrestal/dhore-2025-sinus-lifting-procedure-using-osseodensification]] — **PRISMA SR(PROSPERO CRD42023455968, 6편/5RCT, 89명/100개)**: 경치조 상악동저 거상 OD vs osteotome 비교 — S1(sub-antral) 시나리오의 독립 SR로, Cobo-Vázquez 2025(13편)와 함께 OD 안전성·효과성 증거 지형을 형성. (sr, 2025)
+- [[sinus-lift/transcrestal/shah-2026-implant-stability-elevation-outcomes-crestal]] — **전향 2군 비교(n=60, RBH 4–7mm, 사선형 사인바닥, 2024–2025)**: Densah 단독(n=30) vs Densah+이식(n=30), 동시식립 — S1 시나리오에서 이식 여부에 따른 ISQ·골증대량 비교; 사선형 사인바닥(oblique sinus floor)을 명시한 최초 Densah 비교 임상. (prospective comparative, 2026)
 
 ### 신규 추가 (2026-09-13)
 
