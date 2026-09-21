@@ -24,7 +24,7 @@ relations:
 ---
 
 > [!summary] 한국어 핵심요약
-> - **이 오버뷰가 다루는 것**: 투명교정 (Clear Aligner Therapy, CAT) 환자 경험 (환자보고결과·순응도·만족도·통증·구강건강관련 삶의 질) + 브랜드별 재료·색안정성·바이오필름·가상치료계획 차이 — 10편 종합. 임상 효능·적응증은 [[overviews/clear-aligner-indications-limitations]] 참조.
+> - **이 오버뷰가 다루는 것**: 투명교정 (Clear Aligner Therapy, CAT) 환자 경험 (환자보고결과·순응도·만족도·통증·구강건강관련 삶의 질) + 브랜드별 재료·색안정성·바이오필름·가상치료계획 차이 — 13편 종합. 임상 효능·적응증은 [[overviews/clear-aligner-indications-limitations]] 참조.
 > - **순응도 현실 격차**: 일반 CAT 환자의 완전 순응(≥22시간/일) 달성률은 **36%에 불과** (Chong 2025 scoping review, 37편). 대학병원 코호트 자가보고 21.8시간/일(Patil 2026)조차 이 집단 36% 수준을 웃도는 것은 고동기 선택 편향을 반영한다. 외과 후 CAT 환자에서 45–50% (AlGhafli 2026). **임상 함의: 착용 권장은 쉽지만 달성은 드물다**.
 > - **OHRQoL 3단계 궤적** (Chehab 2026, 140편 narrative review): ①초기적응기(통증·불편감 최고, OHRQoL 최저) → ②안정화(점진 개선) → ③종료/유지(기저치 회복). CA는 비교연구 65–75%에서 고정장치 (Fixed Appliance, FA) 보다 OHRQoL 우수. 치료 중 OHRQoL 저하폭은 8–12%에 불과.
 > - **통증 역학 (87% 연구 일치)**: 교정장치 교체 후 24–48시간에 피크, 4–7일 이내 소실 (Chehab 2026). Caldas 2024에서 중간 강도 통증만 OHIP-14 유의 상승(p=0.036) — 경도 통증은 QoL에 유의한 영향 없음. 통증과 무관하게 치료만족도는 높게 유지.
@@ -38,7 +38,7 @@ relations:
 
 ## Three-line Summary
 
-Synthesis of 10 papers (1 scoping review, 1 narrative review, 5 observational PRO studies, 3 in vitro/pilot material/brand studies) on patient experience, compliance, and brand comparison for clear aligner therapy: only 36% of patients achieve full compliance (≥22h/day); the OHRQoL trajectory follows a 3-phase model (adaptation → stabilization → recovery) with CA outperforming FA in 65–75% of comparative studies; OHIP-14 converges between modalities at treatment completion.
+Synthesis of 13 papers (1 scoping review, 1 narrative review, 2 systematic reviews, 5 observational PRO studies, 3 in vitro/brand studies, 1 bonding evaluation) on patient experience, compliance, and brand comparison for clear aligner therapy: only 36% of patients achieve full compliance (≥22h/day); the OHRQoL trajectory follows a 3-phase model (adaptation → stabilization → recovery) with CA outperforming FA in 65–75% of comparative studies; OHIP-14 converges between modalities at treatment completion.
 
 Brand-level evidence shows meaningful material-dependent differences in coffee staining (PETG > PU, Invisalign exceeds ΔE*>3.3 at 6h), biofilm formation (120h+ differences; Smartee lowest, Graphy highest), and virtual setup planning quality (canine Class I: ClearCorrect 15% vs 3M Clarity 70%), none of which are captured in efficacy-focused studies.
 
@@ -46,7 +46,7 @@ Patient expectations start near-ceiling (predictability 8.6/10, outcome equivale
 
 ## 세줄요약
 
-10편 종합 — 환자경험·순응도·브랜드 비교: 일반 집단 완전 순응(≥22h) 36%, OHRQoL 3단계 궤적(초기→안정화→회복), CA가 비교연구 65–75%에서 FA 우세, OHIP-14는 치료 완료 시 수렴.
+13편 종합 — 환자경험·순응도·브랜드 비교: 일반 집단 완전 순응(≥22h) 36%, OHRQoL 3단계 궤적(초기→안정화→회복), CA가 비교연구 65–75%에서 FA 우세, OHIP-14는 치료 완료 시 수렴.
 
 브랜드 차이: 커피 착색 PETG 계열 우수(Invisalign TPU 6h부터 임상 허용치 초과), 바이오필름 120h 이후 Graphy>Invisalign>Smartee, VTS 견치 Class I 달성 계획 ClearCorrect 15% vs Invisalign 65%.
 
