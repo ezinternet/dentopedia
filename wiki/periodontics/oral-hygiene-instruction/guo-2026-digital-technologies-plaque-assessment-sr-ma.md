@@ -6,10 +6,8 @@ date: 2026-05-07
 doi: "10.1016/j.jebdp.2026.102306"
 source: guo-2026-digital-technologies-plaque-assessment-sr-ma.md
 category: [periodontics/oral-hygiene-instruction]
-confidence: sr+ma
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+evidence_level: sr+ma
+source_collection: pubmed-abstract
 tags: [digital-plaque-assessment, AI, intraoral-scanner, plaque-index, fluorescence, disclosing-agent, QUADAS, diagnostic-accuracy]
 relations:
   - type: reinforces

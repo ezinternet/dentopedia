@@ -6,10 +6,8 @@ date: 2026-08-01
 doi: "10.1111/cid.70175"
 source: canullo-2026-hybrid-funnel-technique-mbl-3year.md
 category: [implants]
-confidence: prospective
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+evidence_level: prospective
+source_collection: pubmed-abstract
 tags: [hybrid-funnel-technique, HFT, osteocompaction, marginal-bone-loss, MBL, osteotomy, site-preparation, bioactive-surface, peri-implant]
 relations:
   - type: extends

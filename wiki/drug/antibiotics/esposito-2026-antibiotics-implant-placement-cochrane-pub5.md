@@ -6,10 +6,8 @@ date: 2026-09-01
 doi: "10.1002/14651858.CD004152.pub5"
 source: esposito-2026-antibiotics-implant-placement-cochrane-pub5.md
 category: [drug/antibiotics]
-confidence: sr+ma
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+evidence_level: sr+ma
+source_collection: pubmed-abstract
 tags: [antibiotic-prophylaxis, implant-placement, cochrane, amoxicillin, peri-implantitis-prevention]
 relations:
   - type: extends

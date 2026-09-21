@@ -6,10 +6,8 @@ date: 2026-01-01
 doi: "10.1186/s12903-026-09451-8"
 source: nalci-calik-2026-eal-vs-radiography-working-length-rct.md
 category: [endodontics/eal]
-confidence: rct
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+evidence_level: rct
+source_collection: pubmed-abstract
 tags: [EAL, apex-locator, working-length, radiography, patient-pain, RCT, comparison]
 relations:
   - type: reinforces

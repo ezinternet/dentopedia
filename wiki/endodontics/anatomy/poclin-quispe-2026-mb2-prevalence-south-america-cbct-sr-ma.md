@@ -6,10 +6,8 @@ date: 2026-01-01
 doi: "10.3389/fdmed.2026.1928424"
 source: poclin-quispe-2026-mb2-prevalence-south-america-cbct-sr-ma.md
 category: [endodontics/anatomy]
-confidence: sr+ma
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+evidence_level: sr+ma
+source_collection: pubmed-abstract
 tags: [MB2, mesiobuccal-canal, maxillary-molar, CBCT, prevalence, South-America, anatomy]
 relations:
   - type: reinforces

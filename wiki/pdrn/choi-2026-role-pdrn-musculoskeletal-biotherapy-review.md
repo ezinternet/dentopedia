@@ -6,10 +6,8 @@ date: 2026-08-01
 doi: "10.3390/ijms27167304"
 source: choi-2026-role-pdrn-musculoskeletal-biotherapy-review.md
 category: [pdrn]
-confidence: narrative-review
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+evidence_level: narrative-review
+source_collection: pubmed-abstract
 tags: [PDRN, A2A-receptor, musculoskeletal, osteoarthritis, tendinopathy, radiculopathy, mechanism, regeneration, VEGF, collagen]
 relations:
   - type: reinforces

@@ -6,10 +6,8 @@ date: 2026-07-24
 doi: "10.1097/MD.0000000000049862"
 source: jiang-2026-curcumin-chlorhexidine-periodontal-sr-ma.md
 category: [periodontics/oral-hygiene-instruction]
-confidence: sr+ma
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+evidence_level: sr+ma
+source_collection: pubmed-abstract
 tags: [curcumin, chlorhexidine, plaque-index, gingival-index, periodontal, natural-adjunct, mouthrinse, adjunctive-therapy]
 relations:
   - type: reinforces

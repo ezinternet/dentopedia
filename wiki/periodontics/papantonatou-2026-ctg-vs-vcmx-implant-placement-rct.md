@@ -6,10 +6,8 @@ date: 2026-01-01
 doi: "10.1111/jcpe.70177"
 source: papantonatou-2026-ctg-vs-vcmx-implant-placement-rct.md
 category: [periodontics]
-confidence: rct
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+evidence_level: rct
+source_collection: pubmed-abstract
 tags: [CTG, VCMX, collagen-matrix, soft-tissue-augmentation, implant, aesthetic-zone, STT, BBT, CBCT, ultrasonography, PROMs]
 relations:
   - type: reinforces

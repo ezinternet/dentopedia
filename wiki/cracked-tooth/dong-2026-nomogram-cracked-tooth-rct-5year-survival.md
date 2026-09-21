@@ -6,10 +6,8 @@ date: 2026-08-07
 doi: "10.2340/aos.v85.46624"
 source: dong-2026-nomogram-cracked-tooth-rct-5year-survival.md
 category: [cracked-tooth]
-confidence: retrospective
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+evidence_level: retrospective
+source_collection: pubmed-abstract
 tags: [nomogram, prognosis, RCT, cracked-tooth, survival, probing-depth, crown-restoration, irreversible-pulpitis, LASSO, logistic-regression]
 relations:
   - type: extends

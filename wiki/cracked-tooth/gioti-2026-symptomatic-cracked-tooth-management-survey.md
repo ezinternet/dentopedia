@@ -6,10 +6,8 @@ date: 2026-08-10
 doi: "10.1016/j.jdent.2026.106970"
 source: gioti-2026-symptomatic-cracked-tooth-management-survey.md
 category: [cracked-tooth]
-confidence: cross-sectional
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+evidence_level: cross-sectional
+source_collection: pubmed-abstract
 tags: [survey, clinical-decision-making, diagnosis, periodontal-status, CBCT, bruxism, practice-patterns, heterogeneity, cross-sectional]
 relations:
   - type: reinforces

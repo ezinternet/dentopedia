@@ -6,10 +6,8 @@ date: 2026-08-13
 doi: "10.1007/s00784-026-07065-6"
 source: berto-2026-propolis-caries-prevention-plaque-sr-ma.md
 category: [periodontics/oral-hygiene-instruction]
-confidence: sr+ma
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+evidence_level: sr+ma
+source_collection: pubmed-abstract
 tags: [propolis, plaque-control, caries-prevention, chlorhexidine, antimicrobial, mouthrinse, dentifrice, natural-adjunct]
 relations:
   - type: reinforces

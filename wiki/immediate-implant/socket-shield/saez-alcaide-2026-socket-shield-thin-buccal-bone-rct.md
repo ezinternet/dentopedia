@@ -6,10 +6,8 @@ date: 2026-09-01
 doi: "10.4317/medoral.28158"
 source: saez-alcaide-2026-socket-shield-thin-buccal-bone-rct.md
 category: [immediate-implant]
-confidence: rct
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+evidence_level: rct
+source_collection: pubmed-abstract
 tags: [socket-shield, thin-buccal-bone, ridge-preservation, immediate-implant, CBCT, alveolar-resorption]
 relations:
   - type: extends

@@ -6,10 +6,8 @@ date: 2026-01-01
 doi: "10.1186/s12903-026-09589-5"
 source: elhadidy-2026-fla-vs-prf-vs-ctg-peri-implant-sta-rct.md
 category: [implants/peri-implantitis]
-confidence: rct
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+evidence_level: rct
+source_collection: pubmed-abstract
 tags: [FLA, fascia-lata-allograft, PRF, CTG, soft-tissue-augmentation, thin-phenotype, implant, anterior, STT, peri-implant, minimally-invasive]
 relations:
   - type: reinforces

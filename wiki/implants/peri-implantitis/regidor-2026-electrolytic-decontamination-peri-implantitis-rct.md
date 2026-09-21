@@ -6,10 +6,8 @@ date: 2026-06-28
 doi: "10.1111/clr.70152"
 source: regidor-2026-electrolytic-decontamination-peri-implantitis-rct.md
 category: [implants/peri-implantitis]
-confidence: rct
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+evidence_level: rct
+source_collection: pubmed-abstract
 tags: [peri-implantitis, surface-decontamination, electrolytic-cleaning, GBR, reconstructive-surgery, negative-result]
 relations:
   - type: extends

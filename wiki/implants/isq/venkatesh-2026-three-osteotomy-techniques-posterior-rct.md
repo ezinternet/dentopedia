@@ -6,10 +6,8 @@ date: 2026-07-03
 doi: "10.1186/s12903-026-08858-7"
 source: venkatesh-2026-three-osteotomy-techniques-posterior-rct.md
 category: [implants/isq]
-confidence: rct
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+evidence_level: rct
+source_collection: pubmed-abstract
 tags: [osseodensification, osteotome, conventional-drilling, ISQ, primary-stability, secondary-stability, posterior-maxilla, Straumann, SLActive]
 relations:
   - type: reinforces

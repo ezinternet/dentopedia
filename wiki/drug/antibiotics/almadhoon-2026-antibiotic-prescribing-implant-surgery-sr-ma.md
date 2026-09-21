@@ -6,10 +6,8 @@ date: 2026-07-13
 doi: "10.1016/j.jdsr.2026.07.001"
 source: almadhoon-2026-antibiotic-prescribing-implant-surgery-sr-ma.md
 category: [drug/antibiotics]
-confidence: sr+ma
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+evidence_level: sr+ma
+source_collection: pubmed-abstract
 tags: [antibiotic-prescribing, implant-surgery, stewardship, guideline-adherence, amoxicillin, prevalence, meta-analysis, AMR]
 relations:
   - type: extends

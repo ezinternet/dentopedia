@@ -6,10 +6,8 @@ date: 2026-01-01
 doi: "10.1016/j.jdent.2026.106928"
 source: bai-2026-accessory-canal-distribution-root-end-resection-sr-ma.md
 category: [endodontics/anatomy]
-confidence: sr+ma
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+evidence_level: sr+ma
+source_collection: pubmed-abstract
 tags: [accessory-canal, root-end-resection, apicoectomy, apical-anatomy, molar, anterior, resection-level]
 ---
 

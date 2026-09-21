@@ -6,10 +6,8 @@ date: 2026-09-01
 doi: "10.1093/jac/dkag320"
 source: ceccon-chianca-2026-oral-streptococci-ie-prophylaxis-resistance.md
 category: [drug/antibiotics]
-confidence: in-vitro
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+evidence_level: in-vitro
+source_collection: pubmed-abstract
 tags: [infective-endocarditis, IE-prophylaxis, oral-streptococci, amoxicillin, azithromycin, resistance, in-silico, genomics, penicillin-allergy]
 relations:
   - type: extends

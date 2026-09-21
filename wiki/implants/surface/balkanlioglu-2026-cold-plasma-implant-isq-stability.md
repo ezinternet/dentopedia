@@ -6,10 +6,8 @@ date: 2026-05-30
 doi: "10.1186/s12903-026-08679-8"
 source: balkanlioglu-2026-cold-plasma-implant-isq-stability.md
 category: [implants/surface]
-confidence: rct
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+evidence_level: rct
+source_collection: pubmed-abstract
 tags: [cold-plasma, surface-activation, ISQ, osseointegration, primary-stability, secondary-stability, within-patient, titanium, surface-energy]
 relations: []
 ---

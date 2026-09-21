@@ -6,10 +6,8 @@ date: 2026-08-10
 doi: "10.1128/mbio.00647-26"
 source: baker-2026-dentistry-amr-strategy-perspective.md
 category: [drug/antibiotics]
-confidence: narrative-review
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+evidence_level: narrative-review
+source_collection: pubmed-abstract
 tags: [AMR, stewardship, One-Health, oral-resistome, NAP, prescribing, dental-education, policy]
 relations:
   - type: reinforces

@@ -6,10 +6,8 @@ date: 2026-09-17
 doi: "10.3290/j.ohpd.c_2808"
 source: mahintach-2026-ha-vs-emd-intrabony-defects-sr-ma.md
 category: [periodontics]
-confidence: sr+ma
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+evidence_level: sr+ma
+source_collection: pubmed-abstract
 tags: [hyaluronic-acid, enamel-matrix-derivative, intrabony-defect, periodontal-regeneration, CAL, surgical-periodontics]
 relations:
   - type: extends

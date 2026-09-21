@@ -6,10 +6,8 @@ date: 2026-01-01
 doi: "10.1007/s00784-026-07062-9"
 source: gurler-2026-full-pulpotomy-cryotherapy-sip-24mo-rct.md
 category: [endodontics/vpt]
-confidence: rct
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+evidence_level: rct
+source_collection: pubmed-abstract
 tags: [full-pulpotomy, cryotherapy, SIP, VPT, permanent-molar, RCT, 24-month]
 relations:
   - type: reinforces

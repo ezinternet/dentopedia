@@ -6,10 +6,8 @@ date: 2026-01-01
 doi: "10.1111/jcpe.70181"
 source: dannewitz-2026-digital-companion-perio-rct.md
 category: [periodontics]
-confidence: rct
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+evidence_level: rct
+source_collection: pubmed-abstract
 tags: [digital-health, mHealth, periodontics, app, behavior-change, GBI, BOP, multicenter, RCT]
 ---
 

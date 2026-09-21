@@ -6,10 +6,8 @@ date: 2026-07-31
 doi: "10.1186/s12903-026-09008-9"
 source: mohamed-2026-theracal-lc-pulp-capping-sr-ma.md
 category: [endodontics/vpt]
-confidence: sr+ma
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+evidence_level: sr+ma
+source_collection: pubmed-abstract
 tags: [TheraCal-LC, pulp-capping, IPC, DPC, calcium-silicate, MTA, Biodentine, VPT, permanent-teeth, sr-ma]
 relations:
   - type: reinforces

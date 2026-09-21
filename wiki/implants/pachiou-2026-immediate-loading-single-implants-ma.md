@@ -6,10 +6,8 @@ date: 2026-07-01
 doi: "10.1016/j.prosdent.2026.06.009"
 source: pachiou-2026-immediate-loading-single-implants-ma.md
 category: [implants]
-confidence: sr+ma
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+evidence_level: sr+ma
+source_collection: pubmed-abstract
 tags: [loading-protocol, immediate-loading, single-implant, survival-rate, marginal-bone-loss]
 relations:
   - type: extends

@@ -6,10 +6,8 @@ date: 2026-06-10
 doi: "10.11607/jomi.11566"
 source: kafadar-gurbuz-2026-od-vs-osteotome-tsfe-isq-rct.md
 category: [sinus-lift/transcrestal]
-confidence: rct
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+evidence_level: rct
+source_collection: pubmed-abstract
 tags: [osseodensification, OD, osteotome, TSFE, transcrestal-sinus-elevation, ISQ, insertion-torque, OHIP, PROMs, primary-stability]
 relations:
   - type: extends

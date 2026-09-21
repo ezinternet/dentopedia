@@ -6,10 +6,8 @@ date: 2026-06-20
 doi: "10.1111/jerd.70210"
 source: pirc-2026-concave-convex-emergence-profiles-mucosal-ma.md
 category: [implants/peri-implantitis]
-confidence: sr+ma
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+evidence_level: sr+ma
+source_collection: pubmed-abstract
 tags: [emergence-profile, transmucosal-design, peri-implant-mucosa, recession, prosthetic-design]
 relations:
   - type: extends

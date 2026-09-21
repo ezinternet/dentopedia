@@ -6,10 +6,8 @@ date: 2026-07-30
 doi: "10.4103/njcp.njcp_760_25"
 source: alsharif-2026-minb-vs-ianb-mandibular-premolar-sip-sr.md
 category: [local-anesthesia]
-confidence: sr
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+evidence_level: sr
+source_collection: pubmed-abstract
 tags: [MINB, IANB, mental-nerve-block, incisive-nerve-block, mandibular-premolar, SIP, irreversible-pulpitis, local-anesthesia, anesthetic-failure]
 relations:
   - type: reinforces

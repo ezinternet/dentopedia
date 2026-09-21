@@ -6,10 +6,8 @@ date: 2026-01-01
 doi: "10.1002/cre2.70456"
 source: gould-2026-vaping-perio-peri-implant-treatment-sr.md
 category: [periodontics]
-confidence: sr
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+evidence_level: sr
+source_collection: pubmed-abstract
 tags: [vaping, e-cigarette, periodontal-treatment, peri-implantitis, smoking, risk-factor, patient-counseling]
 relations:
   - type: extends

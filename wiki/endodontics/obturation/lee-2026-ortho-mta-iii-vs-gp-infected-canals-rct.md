@@ -6,10 +6,8 @@ date: 2026-01-01
 doi: "10.1111/iej.70248"
 source: lee-2026-ortho-mta-iii-vs-gp-infected-canals-rct.md
 category: [endodontics/obturation]
-confidence: rct
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+evidence_level: rct
+source_collection: pubmed-abstract
 tags: [obturation, bioceramic-sealer, mta, gutta-percha, AH-Plus, apical-periodontitis, infected-canal, RCT, PAI]
 relations:
   - type: reinforces

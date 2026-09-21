@@ -6,10 +6,8 @@ date: 2026-08-12
 doi: "10.3290/j.ohpd.c_2750"
 source: estrin-2026-prf-vs-emd-nspt-rct.md
 category: [periodontics]
-confidence: rct
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+evidence_level: rct
+source_collection: pubmed-abstract
 tags: [PRF, EMD, NSPT, adjunct, split-mouth, periodontitis, CAL, PPD, BOP]
 relations:
   - type: reinforces

@@ -6,10 +6,8 @@ date: 2026-06-02
 doi: "10.1016/j.jdent.2026.106807"
 source: gai-2026-tapered-cylindrical-lsfe-isq-rct.md
 category: [sinus-lift/lateral]
-confidence: rct
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+evidence_level: rct
+source_collection: pubmed-abstract
 tags: [ISQ, tapered-implant, cylindrical-implant, LSFE, sinus-lift, primary-stability, secondary-stability, CBCT, MBL, GEE]
 relations:
   - type: extends

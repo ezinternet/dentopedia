@@ -6,10 +6,8 @@ date: 2026-01-01
 doi: "10.1007/s10103-026-04847-y"
 source: huang-2026-intracanal-cryotherapy-postoperative-pain-sr-ma.md
 category: [endodontics/irrigation]
-confidence: sr+ma
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+evidence_level: sr+ma
+source_collection: pubmed-abstract
 tags: [cryotherapy, intracanal-irrigation, postoperative-pain, cold-saline, RCT, pain-management, endodontics]
 relations:
   - type: reinforces

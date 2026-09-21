@@ -6,10 +6,8 @@ date: 2026-03-30
 doi: "10.1016/j.jebdp.2026.102270"
 source: abusamak-2026-melatonin-nspt-adjunct-sr-ma.md
 category: [periodontics]
-confidence: sr+ma
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+evidence_level: sr+ma
+source_collection: pubmed-abstract
 tags: [melatonin, NSPT, nonsurgical-periodontal-therapy, CAL, PPD, adjunct, diabetes, HbA1c]
 ---
 
