@@ -1,0 +1,30 @@
+SOURCE: PubMed abstract-only (OA: none; no PMC full text available)
+PMID: 42734614
+PII: 261-01
+DOI: (not returned by PubMed MCP)
+Journal: Stomatologija, Vol 28 Issue 1, pp 2-9
+Year: 2026
+Retrieval date: 2026-09-21
+
+TITLE:
+Clinical efficacy of aligners with mandibular advancement in treatment of Class II malocclusions compared to conventional functional appliances: A systematic review.
+
+AUTHORS:
+Kuzminskaitė D (UAB Klaipėdos ortodontijos centras, Taikos pr. 22A, Klaipėda, Lithuania)
+Liatukienė J
+Žilinskas J
+
+ABSTRACT:
+Clear aligners were initially limited to the treatment of mild malocclusions. Recent advancements have expanded their use to skeletal Class II correction through mandibular advancement features designed to mimic conventional functional appliances. However, evidence regarding their clinical effectiveness, particularly compared with traditional functional appliances, remains limited. The aim of this systematic review is to evaluate the clinical effectiveness of clear aligners with mandibular advancement in the management of Class II malocclusion, in comparison with conventional functional orthopedic appliances.
+
+The protocol of the systematic review is in line with the PRISMA requirements, papers published in English language between 2020 and 2025 were searched in PubMed, ScienceDirect, The Cochrane Library and Google Scholar databases using the PICO framework. The ROBINS-I tool was used to assess the risk of bias.
+
+A total of 726 articles were identified. After eliminating duplicates and applying eligibility criteria, nine studies involving 412 patients were included, primarily using cephalometric analyses to evaluate skeletal and dental changes before and after treatment. Despite variability in the parameters assessed and methodologies used, both aligners with mandibular advancement and conventional functional appliances showed similar skeletal and dental correction. Consistent reductions in overbite and overjet, increases in SNB as well as decreases in ANB and Wits appraisal.
+
+Aligners with mandibular advancement appear to be an effective option for treating Class II malocclusions in growing patients, demonstrating similar dentoalveolar and skeletal effects to conventional functional appliances. However, methodological limitations and heterogeneity among studies restrict the strength of the evidence.
+
+MESH TERMS:
+Humans, Malocclusion Angle Class II, Mandibular Advancement, Orthodontic Appliances Functional, Treatment Outcome, Orthodontic Appliance Design, Orthodontic Appliances Removable
+
+ARTICLE TYPES:
+Journal Article, Systematic Review, Comparative Study
