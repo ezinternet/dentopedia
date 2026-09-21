@@ -134,7 +134,7 @@
         "SR",
         "MA"
       ],
-      "last_run_edat": "2026/07/14"
+      "last_run_edat": "2026/09/21"
     },
     "botulinum-toxin": {
       "query": "(\"botulinum toxin\"[tiab] OR \"botulinum toxin type A\"[tiab] OR BoNT-A[tiab] OR BTX-A[tiab] OR onabotulinumtoxinA[tiab] OR incobotulinumtoxinA[tiab] OR abobotulinumtoxinA[tiab] OR Botox[tiab] OR Xeomin[tiab] OR Dysport[tiab]) AND (dental[tiab] OR dentistry[tiab] OR bruxism[tiab] OR masseter[tiab] OR temporalis[tiab] OR TMD[tiab] OR \"temporomandibular\"[tiab] OR \"gummy smile\"[tiab] OR orofacial[tiab] OR \"myofascial pain\"[tiab])",
