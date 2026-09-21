@@ -244,7 +244,7 @@
       "Comparison of implant placement and loading protocols for single anterior maxillary implants: A systematic review and network meta-analysis." — J Prosthet Dent
 - [x] PMID 38180330 | SR | OA:none | implant-iip-loading | edat 2024/09/01 — ALREADY INGESTED (dup, confirmed 2026-07-25 by exact title match) → martins-2024-facial-bone-wall-immediate-implant-esthetic
       "Is the facial bone wall critical to achieving esthetic outcomes in immediate implant placement with immediate restoration? A systematic review." — Adv Clin Exp Med
-- [ ] PMID 38693759 | RCT | OA:none | implant-iip-loading | edat 2024/05/01
+- [x] PMID 38693759 | RCT | OA:none | implant-iip-loading | edat 2024/05/01 — INGESTED 2026-09-21 → wiki/immediate-implant/loading-protocol/markovic-2024-immediate-vs-early-loading-immediately-placed
       "Immediate versus early loading of immediately placed bone-level tapered dental implants with hydrophilic surface in full arch maxillary rehabilitation: A pilot randomized clinical trial with 2-year follow-up." — Clin Implant Dent Relat Res
 - [x] PMID 38109387 | RCT | OA:none | implant-iip-loading | edat 2023/12/18 — INGESTED 2026-07-25 → wiki/immediate-implant/socket-shield/venkatraman-2023-comparison-soft-tissue-volumetric
       "Comparison of Soft Tissue Volumetric Changes and Pink Esthetics After Immediate Implant Placement with Socket Shield and Conventional Techniques: A Randomized Controlled Trial." — Int J Prosthodont
@@ -286,27 +286,27 @@
       "Implant placement and loading protocols in partially edentulous patients: A systematic review." — Clin Oral Implants Res
 - [x] PMID 28517971 | SR+MA | OA:none | implant-iip-loading | edat 2017/05/18 — INGESTED 2026-07-25 → wiki/immediate-implant/esthetic-soft-tissue/kinaia-2017-soft-tissue-changes-around (superseded_by pitman-2022/qin-2023/sutariya-2022, partial scope — 3rd analysis only)
       "Soft Tissue Changes Around Immediately Placed Implants: A Systematic Review and Meta-Analyses With at Least 12 Months of Follow-Up After Functional Loading." — J Periodontol
-- [ ] PMID 27861657 | SR+MA | OA:none | implant-iip-loading | edat 2016/01/01
+- [x] PMID 27861657 | SR+MA | OA:none | implant-iip-loading | edat 2016/01/01 — INGESTED 2026-09-21 → wiki/immediate-implant/esthetic-soft-tissue/yan-2016-soft-hard-tissue-immediate-placement-restoration-esthetic
       "Soft and Hard Tissue Changes Following Immediate Placement or Immediate Restoration of Single-Tooth Implants in the Esthetic Zone: A Systematic Review and Meta-Analysis." — Int J Oral Maxillofac Implants
-- [ ] PMID 25496243 | RCT | OA:none | implant-iip-loading | edat 2014/12/12
+- [x] PMID 25496243 | RCT | OA:none | implant-iip-loading | edat 2014/12/12 — INGESTED 2026-09-21 → wiki/immediate-implant/esthetic-soft-tissue/rieder-2014-placement-restoration-timing-esthetic-outcome-rct
       "Impact of placement and restoration timing on single-implant esthetic outcome - a randomized clinical trial." — Clin Oral Implants Res
-- [ ] PMID 24502689 | SR | OA:none | implant-iip-loading | edat 2014/02/06
+- [x] PMID 24502689 | SR | OA:none | implant-iip-loading | edat 2014/02/06 — INGESTED 2026-09-21 → wiki/immediate-implant/loading-protocol/huang-2014-innervation-peri-implant-tissues-placement-loading-sr
       "A systematic review on the innervation of peri-implant tissues with special emphasis on the influence of implant placement and loading protocols." — Clin Oral Implants Res
 - [x] PMID 26669545 | RCT | OA:none | implant-iip-loading | edat 2015/01/01 — ALREADY INGESTED (dup, confirmed 2026-07-25 by exact title/author match) → esposito-2015-immediate-loading-vs-delayed-anterior-rct
       "Immediate loading of post-extractive versus delayed placed single implants in the anterior maxilla: outcome of a pragmatic multicenter randomised controlled trial 1-year after loading." — Eur J Oral Implantol
-- [ ] PMID 24502614 | SR | OA:none | implant-iip-loading | edat 2014/02/06
+- [x] PMID 24502614 | SR | OA:none | implant-iip-loading | edat 2014/02/06 — INGESTED 2026-09-21 → wiki/immediate-implant/esthetic-soft-tissue/slagter-2014-immediate-placement-esthetic-zone-sr
       "Immediate placement of dental implants in the esthetic zone: a systematic review and pooled analysis." — J Periodontol
-- [ ] PMID 22509755 | SR+MA | OA:none | implant-iip-loading | edat 2012/04/17
+- [x] PMID 22509755 | SR+MA | OA:none | implant-iip-loading | edat 2012/04/17 — INGESTED 2026-09-21 → wiki/immediate-implant/loading-protocol/suarez-2012-timing-restoration-implant-marginal-bone-loss-sr-ma
       "Effect of the timing of restoration on implant marginal bone loss: a systematic review." — J Periodontol
 - [x] PMID 20977611 | RCT | OA:none | implant-iip-loading | edat 2010/10/26 — INGESTED 2026-07-25 → wiki/immediate-implant/loading-protocol/shibly-2010-immediate-implants-immediate-loading-conventional
       "Immediate implants with immediate loading vs. conventional loading: 1-year randomized clinical trial." — Clin Implant Dent Relat Res
 - [x] PMID 20681808 | RCT | OA:none | implant-iip-loading | edat 2010/08/03 — INGESTED 2026-07-25 → wiki/immediate-implant/loading-protocol/shibly-2010-bone-regeneration-around-implants-in
       "Bone regeneration around implants in periodontally compromised patients: a randomized clinical trial of the effect of immediate implant with immediate loading." — J Periodontol
-- [ ] PMID 20369102 | SR+MA | OA:none | implant-iip-loading | edat 2010/01/01
+- [x] PMID 20369102 | SR+MA | OA:none | implant-iip-loading | edat 2010/01/01 — INGESTED 2026-09-21 → wiki/immediate-implant/molar-septum/atieh-2010-immediate-placement-loading-molar-implants-sr-ma
       "Immediate placement or immediate restoration/loading of single implants for molar tooth replacement: a systematic review and meta-analysis." — Int J Oral Maxillofac Implants
 - [x] PMID 19835754 | RCT | OA:none | implant-iip-loading | edat 2009/11/01 — INGESTED 2026-07-25 → wiki/immediate-implant/esthetic-soft-tissue/block-2009-prospective-evaluation-immediate-delayed
       "Prospective evaluation of immediate and delayed provisional single tooth restorations." — J Oral Maxillofac Surg
-- [ ] PMID 27314123 | SR | OA:none | implant-iip-loading | edat 2016/01/01
+- [x] PMID 27314123 | SR | OA:none | implant-iip-loading | edat 2016/01/01 — INGESTED 2026-09-21 → wiki/immediate-implant/moy-2016-single-implants-dorsal-posterior-areas-sr
       "Single implants in dorsal areas - A systematic review." — Eur J Oral Implantol
 
 Found by manual PDF discovery (not the original scout search), 2026-07-25 — same topic, added retroactively:
