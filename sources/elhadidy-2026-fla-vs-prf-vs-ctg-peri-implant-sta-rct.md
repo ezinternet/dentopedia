@@ -16,6 +16,22 @@ source_collection: pubmed-abstract
 ## 한줄요약
 3군 RCT (BMC Oral Health 2026): 45명, 상악 전치부 박형 임플란트; 6개월 결과 CTG 최대 두께 획득, FLA는 CTG에 근접하며 공여부 없음, PRF는 경미한 증강 효과 — FLA가 최소침습 대안으로 유망.
 
+## Three-line Summary
+
+3-arm parallel RCT, 45 patients (15 per group), single center Kafrelsheikh University Egypt — comparing fascia lata allograft (FLA), PRF, and CTG for peri-implant soft-tissue augmentation in thin-phenotype maxillary anterior implants at 6 months.
+
+CTG produced the greatest soft-tissue thickness gain (gold standard confirmed); FLA was closely comparable to CTG without donor-site morbidity; PRF offered modest augmentation useful for minor enhancements.
+
+Single center limits generalizability; 6-month follow-up is short for long-term stability assessment; FLA emerges as a promising minimally invasive alternative to CTG.
+
+## 세줄요약
+
+3군 평행 RCT, 45명 (군당 15명), 이집트 카프렐세이크 대학 단일 기관 — 상악 전치부 박형 임플란트에서 FLA·PRF·CTG 연조직 증강 비교, 6개월 추적.
+
+CTG 최대 두께 획득(금본위 확인); FLA는 CTG에 근접하면서 공여부 없음; PRF는 경미한 증강 효과.
+
+단일 기관으로 일반화 제한; 6개월 추적이 장기 안정성 평가에 짧음; FLA가 최소침습 CTG 대안으로 유망.
+
 ## 1. Document Information
 - Journal: BMC Oral Health, 2026. DOI: 10.1186/s12903-026-09589-5
 - PMID: 42625175; PMC: PMC13491690
