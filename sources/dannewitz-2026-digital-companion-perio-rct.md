@@ -19,6 +19,22 @@ Multicenter RCT (J Clin Periodontol 2026): 7 German centers, n=194; Paro-ComPas 
 ## 한줄요약
 다기관 RCT (J Clin Periodontol 2026): 7개 독일 대학, n=194; Paro-ComPas 앱 보조 치주치료에서 GBI·BOP 등 어떤 결과에서도 통계적 유의 개선 없음.
 
+## Three-line Summary
+
+Multicenter parallel-group RCT, 7 German university dental centers, 194 adults with periodontitis — evaluating the Paro-ComPas digital companion app as adjunct to standard periodontal therapy over one full treatment cycle.
+
+No statistically significant improvement in gingival bleeding index (primary outcome) or any secondary outcome (BOP, PCR, Feres composite) was observed for the digital app group vs standard care alone.
+
+Substantial center-level heterogeneity in outcomes suggests digital tools may require context-specific implementation; the digital companion concept is not disproven but group-level benefit was undetectable.
+
+## 세줄요약
+
+다기관 평행군 RCT, 독일 7개 대학 치과, 194명 치주염 환자 — Paro-ComPas 디지털 동반 앱의 치주치료 보조 효과를 전체 치료 주기에 걸쳐 평가.
+
+앱 보조군에서 GBI(1차 결과) 및 BOP·PCR·Feres 복합 등 어떤 지표에서도 통계적으로 유의한 개선 없음.
+
+기관 간 결과 이질성이 커 디지털 도구의 맥락 의존성 시사; 디지털 동반 개념은 부정되지 않았으나 집단 수준 효과는 검출 불가.
+
 ## 1. Document Information
 - Journal: Journal of Clinical Periodontology, 2026. DOI: 10.1111/jcpe.70181
 - PMID: 42532127; PMC: PMC13581465
