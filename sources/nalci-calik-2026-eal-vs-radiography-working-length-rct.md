@@ -16,6 +16,22 @@ RCT (BMC Oral Health 2026): 125 patients, 4 EALs vs periapical radiography; no s
 ## 한줄요약
 RCT (BMC Oral Health 2026): 125명, 4종 EAL vs 방사선 사진; 작업장 결정 방법 간 유의한 통증 차이 없음.
 
+## Three-line Summary
+
+Multi-arm RCT, 125 patients requiring root canal treatment, single center — comparing 4 different electronic apex locators vs periapical radiography for working length determination, with patient pain/discomfort as primary outcome.
+
+No significant pain differences were observed between any of the 4 EAL devices and periapical radiography for working length determination; all methods were equivalent in terms of patient experience.
+
+Primary outcome was patient pain, not accuracy; EAL accuracy data per method were not reported in available abstract; single center and unspecified patient selection criteria limit interpretation.
+
+## 세줄요약
+
+다군 RCT, 125명 근관치료 대상, 단일 기관 — 4종 EAL vs 방사선 사진의 작업장 결정, 환자 통증/불편감이 1차 결과.
+
+4종 EAL과 방사선 사진 간 어떤 조합에서도 유의한 통증 차이 없음; 모든 방법 환자 경험에서 동등.
+
+1차 결과가 통증이어서 방법별 작업장 정확도 데이터 미제공; 단일 기관·환자 선별 기준 미상으로 해석 제한.
+
 ## 1. Document Information
 - Journal: BMC Oral Health, 2026. DOI: 10.1186/s12903-026-09451-8
 - PMID: 42698074
