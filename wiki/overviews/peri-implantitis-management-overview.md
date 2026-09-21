@@ -464,6 +464,7 @@ Screw vs cement retention choice: clinically neutral on MBL — decide on retrie
 ### 신규 추가 (2026-09) — 임플란트 내면 오염 제거 신기술
 
 - [[implants/peri-implantitis/lee-2025-self-powered-oxygen-microbubble]] — In vitro + ex vivo: 자가동력 마이크로버블러(SM, MnO₂ 나노시트 도핑 규조토 입자). H₂O₂ 촉매로 O₂ 마이크로버블 생성, fixture-abutment interface(FAI) 마이크로갭 내 P. gingivalis 바이오필름 침투·제거. 0.2% CHX 및 3% H₂O₂ 단독 대비 우세; 어버트먼트-픽스처 기계적 안정성 회복 및 세균 누출 감소. 파일럿 단계; 임상 적용 미도달. (in-vitro, 2025)
+- [[implants/peri-implantitis/regidor-2026-electrolytic-decontamination-peri-implantitis-rct]] — RCT: electrolytic decontamination (Galvosurge) vs conventional mechanical decontamination in peri-implantitis surgical treatment; clinical and radiographic outcomes (rct, 2026)
 
 **Q2.** 포위형(3벽·4벽) 골내 결손에서 GBR 재건 수술이 개방소파술(Open-Flap Debridement, OFD) 대비 임상·방사선학적으로 어느 지표에서 우위이고, 어느 지표에서 동등합니까? *(근거: Hakkers 2026 단일맹검 RCT)*
 
