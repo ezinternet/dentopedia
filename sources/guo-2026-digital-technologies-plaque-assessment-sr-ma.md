@@ -16,6 +16,22 @@ SR+MA (J Evid Based Dent Pract 2026): digital technologies vs reference methods 
 ## 한줄요약
 SR+MA (J Evid Based Dent Pract 2026): 디지털 치태 평가 기술 vs 기준법 상관 r=0.77; AI r=0.87, 3D IOS ρ=0.91 — 강한 상관이나 근거 수준 매우 낮음(I²>98%, 96% 비뚤림위험 높음).
 
+## Three-line Summary
+
+SR+MA of correlation coefficients, 47 qualitative studies (16 in meta-analysis), multiple databases — evaluating how well digital plaque assessment technologies correlate with conventional reference methods.
+
+Pooled Pearson r=0.77 (all digital technologies); AI-aided methods r=0.87; 3D intraoral scanners ρ=0.91; disclosing agents raised correlation from r=0.53 (without) to 0.81 (with).
+
+Extreme heterogeneity (I²>98%) and high risk of bias (96% of studies) yielded GRADE very low certainty — strong associations observed but insufficient to recommend specific digital platforms for clinical adoption.
+
+## 세줄요약
+
+SR+MA (상관 계수), 47편 정성 (16편 메타분석), 복수 데이터베이스 — 디지털 치태 평가 기술과 기준법의 상관 강도 종합.
+
+전체 디지털 기술 Pearson r=0.77; AI r=0.87; 3D IOS ρ=0.91; 착색제 사용 시 r 0.53→0.81.
+
+극심한 이질성 (I²>98%)·고위험 비뚤림 (96%)으로 GRADE 근거 수준 매우 낮음 — 강한 상관에도 특정 플랫폼 임상 채택 권고 불가.
+
 ## 1. Document Information
 - Journal: Journal of Evidence-Based Dental Practice 2026;26(3):102306
 - DOI: 10.1016/j.jebdp.2026.102306 | PMID: 42556893
