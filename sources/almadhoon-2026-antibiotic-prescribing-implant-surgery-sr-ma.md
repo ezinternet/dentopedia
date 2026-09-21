@@ -16,6 +16,22 @@ SR+MA (n=39 studies, 7266 dentists, 137,207 patients); pooled routine antibiotic
 ## 한줄요약
 SR+MA (39편, 치과의사 7266명, 환자 137,207명); 임플란트 수술 일상 항생제 처방 유병률 61.3%; 가이드라인 준수율 1–28%; 술후 요법이 주류이나 단회 술전 투여 대비 이득 없음.
 
+## Three-line Summary
+
+SR+MA, 39 studies (7266 dentists, 137,207 patients), MEDLINE/Scopus/WoS January 2010–October 2025 — global antibiotic prescribing patterns and guideline adherence in dental implant surgery.
+
+Pooled routine antibiotic prescribing prevalence was 61.3% (I²=96.8%); guideline concordance ranged only 1–28%; post-operative 5–7-day courses predominated (52.6%) despite no superiority over single pre-operative dose; amoxicillin was most prescribed (50.9%).
+
+Declining guideline concordance and extreme heterogeneity highlight a global stewardship failure; GRADE certainty was very low, and no RCT evidence exists for procedure-specific stewardship interventions.
+
+## 세줄요약
+
+SR+MA, 39편 (치과의사 7,266명, 환자 137,207명), 2010–2025 MEDLINE/Scopus/WoS — 임플란트 수술 항생제 처방 패턴 및 가이드라인 준수도 글로벌 분석.
+
+일상적 항생제 처방 유병률 61.3%; 가이드라인 준수율 단 1–28%; 술후 5–7일 처방이 주류(52.6%)이나 단회 술전 투여 대비 이득 없음; 아목시실린 가장 많이 처방(50.9%).
+
+가이드라인 준수율이 시간이 갈수록 감소하는 추세로 스튜어드십 실패를 시사; GRADE 근거 수준 매우 낮음; 수술 특이적 중재에 대한 RCT 부재.
+
 ## 1. Document Information
 - Journal: Japanese Dental Science Review 2026;62:239–252
 - DOI: 10.1016/j.jdsr.2026.07.001 | PMID: 42519815 | PMC: PMC13382295
