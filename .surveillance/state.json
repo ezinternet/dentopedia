@@ -120,7 +120,7 @@
         "SR",
         "MA"
       ],
-      "last_run_edat": "2026/07/14"
+      "last_run_edat": "2026/09/21"
     },
     "insadol-egatan": {
       "query": "(Insadol[tiab] OR (\"Magnoliae cortex\"[tiab] AND \"Zea mays\"[tiab]) OR (carbazochrome[tiab] AND (dental[tiab] OR periodontal[tiab] OR gingival[tiab])))",
