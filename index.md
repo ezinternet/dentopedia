@@ -2398,6 +2398,7 @@ tags: []
 
 <!-- BATCH INGEST 2026-05-24c: peri-implantitis + KDA implant policy + cracked tooth + stamp + insurance -->
 
+- [[cracked-tooth/chan-2025-survival-endodontically-treated-cracked-teeth]] — Retrospective 10–15yr: RCT-treated CTS survival 66%(10yr)/55%(15yr); PD<4mm → 76%/64%; PD≥6mm aHR=3.19 (2025)
 ### endodontics (added 2026-05-24, batch c)
 
 - [[endodontics/kwak-2024-endodontic-treatment-cracked-tooth-management]] — Kwak Youngjun 2024 · narrative-review · Endodontic treatment in the management of cracked tooth
