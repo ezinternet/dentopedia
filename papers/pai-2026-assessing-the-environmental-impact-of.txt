@@ -1,0 +1,136 @@
+Title: Assessing the environmental impact of clear aligner therapy: a scoping review.
+Authors: Sapthami Pai, Dhruv Ahuja, Ashith Mv, Haneesh Kiran Pt, Amoli Singh
+Journal: Frontiers in Dental Medicine
+Year: 2026
+PMID: 42707376
+PMCID: PMC13547079
+DOI: 10.3389/fdmed.2026.1849048
+Volume: 7
+Pages: 1849048
+
+ABSTRACT
+
+Objective
+To evaluate the environmental impact and sustainability-related practices of clear aligner therapy (CAT), focusing on environmental impact, economic implications, waste management, recycling practices, manufacturing processes, and aligner materials. It further explores the alignment of clear aligner practices with Sustainable Development Goals (SDG's) 3,9,12 and 13.
+
+Methodology
+A scoping review was conducted following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses Extension for Scoping Reviews (PRISMA-ScR) guidelines. The review was guided by the Population-Concept-Context (PCC) framework. A comprehensive literature search was performed across five electronic databases (PubMed Central, Google Scholar, Scopus, Web of Science, and EBSCOhost) for studies published between January 2014 and December 2024. Studies evaluating the environmental sustainability of clear aligner therapy, including materials, manufacturing processes, waste management, recycling practices, and carbon emissions, were included.
+
+Results
+Thirteen studies met the inclusion criteria. The evidence indicates that clear aligner therapy contributes to plastic waste, microplastic generation, and greenhouse gas emissions throughout its life cycle. The included studies reported biodegradable materials, direct three-dimensional (3D) printing technologies (SDG-9), recycling initiatives (SDG 12), and circular economy approaches as potential strategies to reduce environmental impacts (SDG 3 & 13). However, the implementation of these strategies remains constrained by limited recycling infrastructure, economic considerations, and insufficient high-quality evidence.
+
+Conclusion
+Available evidence suggests that innovations in material selection, circular economy approaches, optimized manufacturing processes, and enhanced recycling programs may reduce the environmental burden associated with clear aligner therapy. Nevertheless, further high-quality environmental assessment studies are required to support the development of more sustainable orthodontic practices aligned with SDGs 3, 9, 12, and 13.
+
+FULL TEXT
+
+Introduction
+
+The growing demand for aesthetic orthodontic treatment has driven the widespread adoption of clear aligner therapy (CAT) across different age groups. Clear aligners have become an increasingly popular alternative to conventional fixed orthodontic appliances because of their improved aesthetics, patient comfort, ease of oral hygiene maintenance, and enhanced treatment acceptance. During clinical use, aligners are exposed to fluctuations in temperature, saliva, oral microorganisms, and mechanical forces such as mastication and bruxism, all of which may influence their physical and mechanical properties. Clear aligner therapy is a comfortable, discreet alternative to braces, popular for its ease of cleaning, reduced tissue irritation, and enhanced compliance. Prolonged oral exposure subjects them to temperature changes, bacteria, and mechanical wear from habits like bruxism.
+
+The material composition of clear aligners determines their mechanical performance, transparency, durability, and clinical effectiveness. The most commonly used polymers include polyethylene terephthalate glycol (PET-G), polypropylene (PP), polycarbonate (PC), thermoplastic polyurethane (TPU), and ethylene-vinyl acetate (EVA), each possessing distinct physical and mechanical characteristics that influence clinical performance. As these petroleum-based polymers undergo degradation during use and disposal, they may contribute to the release of microplastics into the environment, highlighting the need to evaluate their environmental implications alongside their clinical performance. Bisphenol-A (BPA), found in epoxy resins and polycarbonates used in some aligners, may leach due to intraoral degradation caused by temperature, pH, or wear. BPA is linked to estrogenic effects, toxicity, and cell proliferation. While the Environmental Protection Agency (EPA) sets a safe intake limit of 50 µg/kg, adverse effects have been reported even below this threshold.
+
+The increasing use of plastic-based materials in clear aligner therapy has raised concerns regarding their environmental impact throughout the product life cycle. The manufacture, transportation, clinical use, and disposal of aligners contribute to plastic waste generation, greenhouse gas emissions, and the release of microplastics into terrestrial and aquatic ecosystems. These environmental challenges have prompted increasing attention toward sustainable material development, improved waste management, and circular economy strategies within orthodontics. Consequently, evaluating the environmental impact of clear aligners is directly relevant to several United Nations Sustainable Development Goals (SDGs), particularly SDG 3 (Good Health and Well-being), SDG 9 (Industry, Innovation and Infrastructure), SDG 12 (Responsible Consumption and Production), and SDG 13 (Climate Action).
+
+As the demand for clear aligners grows, so does the need for awareness of their environmental impact. Aligners, being single-use products, contribute significantly to plastic waste, with each set being replaced based on the clinician's preferences or the manufacturer's recommendations. The materials used in their production such as PET-G, TPU, and PP are durable but not easily recyclable. This leads to substantial waste, and as these materials degrade, they contribute to microplastic pollution, impacting both ecosystems and human health. Moreover, aligner production and disposal, including processes like incineration or landfilling, release greenhouse gases, adding to the environmental burden. However, several strategies can mitigate these impacts. For example, intraoral scanners have become an essential tool in orthodontics, reducing the need for physical impressions and minimising associated plastic waste.
+
+Economic and material considerations used to manufacture aligners, such as PET-G, PC, and TPU, are chosen for their durability and biocompatibility, but these materials also have a direct impact on production costs. More durable materials can increase manufacturing expenses, raising the overall treatment cost for patients. However, advancements in manufacturing technologies and mass production are helping to bring these costs down. Additionally, there is growing interest in biodegradable materials, though they tend to be more expensive initially.
+
+Recycling and sustainability practices for clear aligners presents a challenge due to their medical-grade plastic composition. Current recycling initiatives, allow for the downcycling of aligners into other plastic products, but they do not facilitate a closed-loop system for producing new aligners. The waste produced during aligner manufacturing, including flexible plastic packaging and cases, is repurposed in various ways such as energy recovery or turned into secondary products like floor tiles. There is, however, an increasing focus on 3D printing aligners directly from resin, reducing scrap and waste and offering a more sustainable manufacturing process.
+
+This scoping review aimed to map the available evidence regarding the environmental impact of clear aligner therapy, including aligner materials, manufacturing processes, waste management, recycling practices, carbon emissions, and their relationship with Sustainable Development Goals (SDGs) 3, 9, 12, and 13.
+
+Materials and Methods
+
+This scoping review was conducted in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses Extension for Scoping Reviews (PRISMA-ScR) guidelines. The review followed the Population-Concept-Context (PCC) framework. The Population comprised patients undergoing clear aligner therapy; the Concept focused on the environmental sustainability of clear aligners, including materials, manufacturing, waste management, recycling, and carbon emissions; and the Context included orthodontic practice and the manufacture, use, and disposal of clear aligners. Two independent reviewers screened the studies at the title, abstract, and full-text stages according to predefined eligibility criteria.
+
+Search strategy
+
+A comprehensive literature search was conducted across five electronic databases: PubMed Central, Scopus, Web of Science, Google Scholar, and EBSCOhost. The search included studies published between January 2014 and December 2024. Searches were performed using combinations of Medical Subject Headings (MeSH), keywords, and Boolean operators related to clear aligners, environmental sustainability, waste management, recycling, manufacturing processes, plastic pollution, carbon emissions, and orthodontics.
+
+The principal search strategy included: ("clear aligners" OR "orthodontic aligners") AND ("environmental impact" OR sustainability OR recycling OR "waste management" OR "plastic pollution" OR "carbon emissions") AND (orthodontics OR dentistry). The search strategy was adapted for each database according to its indexing system and search syntax. In addition, the reference lists of the included articles were manually screened to identify further relevant studies.
+
+Eligibility criteria
+
+Studies were eligible if they were published as full-text articles in English between January 2014 and December 2024 and investigated the environmental sustainability of clear aligner therapy. Eligible studies evaluated one or more aspects of aligner materials, manufacturing processes, waste management, recycling practices, carbon emissions, life-cycle considerations, or other environmental impacts associated with clear aligner therapy.
+
+Studies were excluded if they focused exclusively on clinical treatment outcomes, biomechanics, patient satisfaction, or material properties without addressing environmental sustainability. Conference abstracts, editorials, letters to the editor, duplicate publications, and studies lacking sufficient information relevant to the review objectives were also excluded.
+
+Data extraction and synthesis
+
+Data extraction was independently performed by two reviewers using a standardized data extraction form. Information collected included author, year of publication, study design, sustainability focus, materials evaluated, environmental outcomes, manufacturing processes, recycling strategies, and principal findings. Disagreements were resolved through discussion until consensus was achieved.
+
+Extracted data were analyzed using descriptive thematic synthesis. Studies were grouped according to the principal sustainability themes identified across the literature, including aligner materials, manufacturing processes, waste management and recycling, carbon emissions, and environmental impacts.
+
+Results
+
+The selection process followed the PRISMA flow diagram. After removing duplicates and irrelevant abstracts from five databases, 73 studies were screened by two independent reviewers. Ultimately, 13 studies were identified as relevant and selected for further analysis.
+
+Study characteristics
+
+The 13 included studies were published between 2014 and 2024 and primarily consisted of narrative reviews, scoping reviews, environmental assessments, and laboratory-based investigations. The studies addressed a range of sustainability-related themes, including aligner materials, manufacturing technologies, waste management, recycling practices, carbon emissions, and environmental impacts associated with clear aligner therapy.
+
+Included studies (summary table):
+
+1. Macrì et al., 2024 - Environmental impact of CAT, 4Rs (reduce, reuse, recycle, rethink), circular economy
+2. Ong et al., 2024 - Sustainable alternatives (PHA, PLA); compostable materials show promise
+3. Panayi et al., 2024 - Microplastics from aligners; inflammation, oxidative stress, metabolic disorders
+4. Veseli et al., 2024 - Nonbiodegradable plastics, long decomposition, recycling programs, patient awareness
+5. Akhtar et al., 2024 - Microplastic levels in dental units; polyethylene terephthalate most common; female dental professionals at higher inhalation risk; Polymer Hazard Index: minor to medium health risk
+6. Peter et al., 2024 - Incineration smoke from PET-G and polyurethane; hazardous benzene (carcinogen) in PET-G, tetrahydrofuran in polyurethane
+7. Hackley et al., 2024 - Dental professionals' role in sustainable practice; reducing travel emissions, resource management
+8. Gandhi et al., 2023 - PET trays persist in landfills up to 100 years; over 25 million aligners discarded annually; mechanical recycling into granules
+9. Bichu et al., 2023 - Shape-memory polymers, direct 3D-printed aligners, bioactive materials, biodegradable thermoplastics
+10. Ahmed et al., 2023 - CAT carbon footprint from travel, materials, energy, waste; four Rs strategy
+11. Campobasso et al., 2023 - Polyamide-12 (PA-12) and Shape Memory Polymers (SMPs) for 3D-printed aligners
+12. Caelli et al., 2023 - Life Cycle Assessment: direct 3D printing (DLP) vs thermoforming; DLP has lower environmental impact and waste
+13. Peter et al., 2022 - Environmental concerns of increased aligner usage; 4R principle; take-back policy
+
+Major Themes:
+
+Theme 1: Aligner Materials and Manufacturing Processes (9 studies)
+- Conventional thermoplastics (PET-G, PP, PC, TPU) identified as environmental contributors
+- Direct 3D printing (DLP), shape-memory polymers, biodegradable materials proposed as alternatives
+- LCA studies show direct 3D printing reduces raw material consumption, electricity, and manufacturing waste vs thermoforming
+- Evidence remains preliminary; additional LCA studies required
+
+Theme 2: Waste Management and Recycling Practices (8 studies)
+- Discarded aligners represent increasing plastic waste source (single-patient use)
+- 4Rs widely recommended; manufacturer-supported take-back programs advocated
+- Barriers: limited recycling infrastructure, contamination, economic constraints, no closed-loop recycling
+- Existing recycling programs limited in scope
+
+Theme 3: Microplastics and Environmental Contamination (6 studies)
+- Thermoplastic polymer degradation → microplastic release to environment
+- Landfill disposal and incineration both generate environmental contamination
+- Limited direct evidence of clinical health effects from aligner-specific microplastics
+- Need for standardized microplastic quantification methods
+
+Theme 4: Carbon Emissions and Life-Cycle Environmental Impacts (7 studies)
+- GHG emissions from material production, manufacturing, transportation, and disposal
+- Digital workflows, optimized manufacturing, shorter protocols may reduce carbon footprint
+- Few comprehensive LCA studies comparing manufacturing/disposal pathways
+
+Theme 5: Evidence Gaps and Future Research Priorities (across all)
+- Lack of standardized environmental assessment methods
+- Most studies are narrative reviews or laboratory investigations
+- Need for standardized reporting frameworks and robust comparative studies
+
+Discussion
+
+This scoping review mapped available evidence identifying five major themes. Environmental burden of CAT extends beyond plastic waste to include resource consumption, GHGs, and disposal challenges of thermoplastic polymers. Most included studies were narrative reviews or laboratory investigations.
+
+Sustainability in orthodontics should extend beyond recycling alone to include broader circular economy principles: reducing unnecessary material consumption, improving product design, optimizing manufacturing efficiency, and implementing extended producer responsibility. Digital orthodontic workflows and direct 3D printing reported to reduce raw material consumption and production waste compared to conventional thermoforming.
+
+Key finding: >25 million aligners discarded annually; PET trays can persist in landfills for up to 100 years.
+
+Limitations
+
+- Only English-language publications from five databases included
+- 13 studies with heterogeneous designs (mostly narrative reviews, lab investigations)
+- Scoping review methodology: no meta-analysis
+- Inter-reviewer agreement statistics not calculated
+
+Conclusion
+
+Clear aligner therapy presents important environmental challenges related to plastic waste generation, resource consumption, manufacturing processes, and greenhouse gas emissions. Innovations in materials, optimized manufacturing technologies, circular waste management, and improved recycling may reduce environmental burden. Current evidence remains limited with few comprehensive LCA studies. Further high-quality research required aligned with SDGs 3, 9, 12, and 13.
