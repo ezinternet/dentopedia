@@ -194,6 +194,8 @@ Drug selection: amoxicillin first-line (adverse-event rate 21.5/million, fatalit
 ### 임플란트
 - [[drug/antibiotics/torof-2023-antibiotic-dental-implant-procedures-sr-ma]] — 임플란트 예방
 - [[drug/antibiotics/momand-2024-antibiotic-prophylaxis-early-implant-failure]] — 예방 불필요
+- [[drug/antibiotics/esposito-2026-antibiotics-implant-placement-cochrane-pub5]] — Cochrane SR 5th update on perioperative antibiotics for implant placement; updated RCT pool and GRADE re-evaluation (Cochrane SR, 2026)
+- [[drug/antibiotics/almadhoon-2026-antibiotic-prescribing-implant-surgery-sr-ma]] — SR+MA on antibiotic prescribing patterns for implant surgery across countries; prescribing variability, guideline adherence rates (sr+ma, 2026)
 
 ### 상악동
 - [[drug/antibiotics/diaz-2025-antibiotics-sinus-lift-infection-umbrella]] — 상악동거상술
@@ -211,6 +213,7 @@ Drug selection: amoxicillin first-line (adverse-event rate 21.5/million, fatalit
 ### 심내막염 예방
 - [[drug/antibiotics/wilson-2021-ie-prophylaxis-aha-scientific-statement]] — AHA 2021
 - [[drug/antibiotics/sperotto-2024-antibiotic-prophylaxis-infective-endocarditis-sr-ma]] — IE 예방 SR-MA
+- [[drug/antibiotics/ceccon-chianca-2026-oral-streptococci-ie-prophylaxis-resistance]] — oral streptococci IE prophylaxis resistance patterns and clinical implications for prophylaxis protocol selection (2026)
 
 ### 인접 overview
 - [[drug-antibiotic-stewardship-overview]] — **자매 오버뷰**: 스튜어드십·처방 감소 전략
