@@ -16,6 +16,22 @@ International cross-sectional survey (n=427 dentists; Greece, UK, Europe); perio
 ## 한줄요약
 국제 단면 설문(n=427 치과의사; 그리스·영국·유럽); 치주 상태가 발치 결정의 최우선 인자; CBCT 사용은 진단·치료계획에 독립적 영향 없음.
 
+## Three-line Summary
+
+International cross-sectional electronic survey, 427 dentists (Greece, UK, other European countries) — describing current clinical decision-making practices for symptomatic cracked teeth including diagnosis, risk factor recognition, and treatment thresholds.
+
+Periodontal status (probing depth, bone loss) was the single most important extraction trigger (p<0.001); CBCT use was not independently associated with changed diagnosis or treatment planning; bruxism (95.2%) and metal restorations (92.4%) were universally recognized as risk factors.
+
+Descriptive survey design cannot establish causality; significant management heterogeneity observed indicating absence of evidence-based guidelines; findings underscore need for consensus-driven clinical protocols.
+
+## 세줄요약
+
+국제 단면 전자 설문, 427명 치과의사 (그리스·영국·유럽) — 증상성 균열치아 진단·위험 인자·치료 결정에 관한 임상 실태 조사.
+
+치주 상태 (탐침깊이·골 소실)가 발치 결정의 가장 중요한 인자 (p<0.001); CBCT 사용은 진단·치료계획 변경에 독립적 영향 없음; 이갈이·금속 수복물이 보편적 위험 인자로 인식.
+
+단면 설문으로 인과 관계 미확립; 관리 이질성 크고 근거 기반 가이드라인 부재 — 합의 기반 프로토콜 개발 필요.
+
 ## 1. Document Information
 - Journal: Journal of Dentistry 2026;175:106970
 - DOI: 10.1016/j.jdent.2026.106970 | PMID: 42575243
