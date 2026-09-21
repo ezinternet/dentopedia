@@ -16,6 +16,22 @@ SR+MA (Medicine 2026; 26 RCTs, n=1266): curcumin vs chlorhexidine — PI/GI/BI c
 ## 한줄요약
 SR+MA (Medicine 2026; 26편, n=1266): 커큐민 vs CHX — PI·GI·출혈지수 동등(p>0.05); CHX가 치주낭 깊이(SMD 0.883)·부착소실(SMD 0.539)에서 우월 — 커큐민은 치태·치은염 보조제로 적합, 치주낭 치료 대체 불가.
 
+## Three-line Summary
+
+SR+MA, 26 RCTs (1266 subjects), multiple databases — comparing curcumin vs chlorhexidine across five periodontal clinical outcomes (plaque index, gingival index, bleeding index, probing depth, attachment loss).
+
+Curcumin was statistically equivalent to CHX for PI (SMD −0.041), GI (SMD 0.033), and BI (SMD −0.044); CHX was significantly superior for probing depth (SMD 0.883, p<0.001) and attachment loss (SMD 0.539, p=0.042).
+
+24 of 26 studies carried high risk of bias; extreme heterogeneity (I²=83–94%); CHX advantage in PD/AL was mainly short-term with long-term subgroup showing similar efficacy — curcumin appropriate for surface biofilm control but not pocket management.
+
+## 세줄요약
+
+SR+MA, 26편 RCT (1266명), 복수 데이터베이스 — 커큐민 vs CHX의 치주 임상 5개 지표 비교.
+
+커큐민은 PI (SMD −0.041)·GI (SMD 0.033)·출혈지수 (SMD −0.044)에서 CHX와 동등; CHX는 치주낭 깊이 (SMD 0.883, p<0.001)·부착소실 (SMD 0.539, p=0.042)에서 유의하게 우월.
+
+26편 중 24편 고위험 비뚤림; 이질성 극심 (I²=83–94%); CHX 우위는 단기 위주 — 커큐민은 치태·치은염 보조제로 적합, 치주낭 치료 대체 불가.
+
 ## 1. Document Information
 - Journal: Medicine (Baltimore) 2026;105(30):e49862
 - DOI: 10.1097/MD.0000000000049862 | PMID: 42499105
