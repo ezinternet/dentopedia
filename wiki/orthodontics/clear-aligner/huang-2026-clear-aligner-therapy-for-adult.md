@@ -5,7 +5,7 @@ year: 2026
 doi: "10.1186/s12903-026-09379-z"
 pmid: "42675477"
 pmcid: "PMC13528175"
-source: sources/huang-2026-clear-aligner-therapy-for-adult.md
+source: huang-2026-clear-aligner-therapy-for-adult.md
 category: orthodontics/clear-aligner
 evidence_level: sr+ma
 source_collection: pubmed-text
