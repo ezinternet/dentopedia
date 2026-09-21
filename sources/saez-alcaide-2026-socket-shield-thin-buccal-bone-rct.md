@@ -19,6 +19,22 @@ RCT (Med Oral 2026): 40 patients, BBT <1.5 mm; socket shield technique produced 
 
 RCT (Med Oral 2026): 40명, BBT <1.5mm; 소켓 실드 기술이 1년 CBCT 중첩 기준 즉시 임플란트 단독 대비 수평·협측 수직 치조제 흡수 및 부피 골 소실이 유의하게 적음.
 
+## Three-line Summary
+
+Parallel-arm RCT, 40 patients with thin buccal bone (BBT <1.5 mm), Complutense University Madrid — comparing socket shield technique vs immediate implant placement alone for alveolar ridge dimensional changes at 1 year using CBCT superimposition.
+
+Socket shield technique produced significantly less horizontal and buccal vertical ridge resorption and less volumetric bone loss vs immediate implant placement alone, with greater marginal bone stability from prosthetic loading onward.
+
+First RCT specifically powered for thin buccal bone phenotype; CBCT superimposition provides volumetric analysis as a strength; generalizability limited to BBT <1.5 mm anatomically compromised sites.
+
+## 세줄요약
+
+평행군 RCT, 40명 얇은 협측골 (BBT <1.5 mm), 스페인 마드리드 콤플루텐세 대학 — 소켓 실드 기술 vs 즉시 임플란트 단독의 1년 CBCT 중첩 치조제 변화 비교.
+
+소켓 실드 기술이 수평·협측 수직 치조제 흡수 및 부피 골 소실 유의하게 적음; 보철 로딩 이후 MBL 안정성 우월.
+
+BBT <1.5 mm 표현형 특화 첫 RCT; CBCT 중첩 부피 분석 강점; 얇은 협측골 해부학적 특수 부위에 한정된 일반화.
+
 ## 1. Document Information
 
 - Journal: Medicina Oral Patología Oral y Cirugía Bucal, 2026; 31(5):e707-e715
