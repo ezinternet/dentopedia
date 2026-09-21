@@ -16,6 +16,22 @@ In silico genomic analysis (n=258 Streptococcus IE isolates, 1935–2021): no or
 ## 한줄요약
 In silico 게놈 분석(IE 유래 연쇄구균 258균주): 아목시실린 내성 유전자 없음; 아지스로마이신 24.88%·독시사이클린 16.59% 내성 — 1차 IE 예방 요법은 안전, 페니실린 알러지 대체 약제가 위험.
 
+## Three-line Summary
+
+In silico genomic analysis, 258 Streptococcus IE isolates (1935–2021) from 12 countries via NCBI, using ResFinder resistance gene prediction — targeting dental prophylaxis antibiotics for infective endocarditis.
+
+No oral streptococcal isolates carried amoxicillin resistance genes (0%); azithromycin resistance was 24.88% and doxycycline resistance was 16.59% among IE prophylaxis-relevant alternatives.
+
+In silico methodology predicts genotypic not phenotypic resistance; historical isolates may not represent current landscape; phenotypic validation required before direct clinical application of findings.
+
+## 세줄요약
+
+In silico 게놈 분석, IE 유래 연쇄구균 258균주 (1935–2021), NCBI 12개국, ResFinder 내성 유전자 예측 — 치과 심내막염 예방 항생제 대상.
+
+아목시실린 내성 유전자 0%; 아지스로마이신 24.88%·독시사이클린 16.59% 내성 예측 — 1차 IE 예방 요법(아목시실린) 안전, 페니실린 알러지 대체 약제가 위험.
+
+유전형 내성만 예측 (표현형 아님); 역사적 균주로 현재 내성 경향 반영 제한 — 임상 적용 전 표현형 검증 필요.
+
 ## 1. Document Information
 - Journal: Journal of Antimicrobial Chemotherapy 2026;81(10)
 - DOI: 10.1093/jac/dkag320 | PMID: 42747901
