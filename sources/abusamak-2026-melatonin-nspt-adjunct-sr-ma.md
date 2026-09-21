@@ -4,13 +4,14 @@ authors: "Abusamak M et al."
 year: 2026
 doi: "10.1016/j.jebdp.2026.102270"
 category: [periodontics]
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested
 페리오 서베일런스 2026-09: NSPT(비수술 치주치료) 보조제로서 멜라토닌의 임상 효능 SR+MA — 18 RCTs로 기존 소규모 리뷰 대체; 광범위한 메타분석으로 처음으로 체계적 예측구간 포함.
+
+→ [[abusamak-2026-melatonin-nspt-adjunct-sr-ma]]
+
 
 ## One-line Summary
 SR+MA (J Evid Based Dent Pract 2026): 18 RCTs (828 patients); adjunctive melatonin to NSPT significantly improved CAL at 2–6 months and PPD at 2–3 months, but wide prediction intervals limit confidence in consistent clinical benefit.

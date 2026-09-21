@@ -4,13 +4,14 @@ authors: "Gould SM et al."
 year: 2026
 doi: "10.1002/cre2.70456"
 category: [periodontics]
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested
 페리오 서베일런스 2026-09: 전자담배(vaping)가 치주치료 및 임플란트주위치료 결과에 미치는 영향 SR — 전통 흡연과 구별된 근거가 성장 중; 임상에서 환자 상담 근거로 직접 필요.
+
+→ [[gould-2026-vaping-perio-peri-implant-treatment-sr]]
+
 
 ## One-line Summary
 SR (Clin Exp Dent Res 2026): searched through June 2026; vape users may trend toward worse periodontal and peri-implant treatment outcomes compared to non-smokers, similar to cigarette smokers, but certainty of evidence is low to very low.

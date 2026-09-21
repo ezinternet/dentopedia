@@ -4,13 +4,14 @@ authors: "Papantonatou L et al."
 year: 2026
 doi: "10.1111/jcpe.70177"
 category: [periodontics]
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested
 페리오 서베일런스 2026-09: 미적 구역 임플란트 식립 시 연조직 증강에서 CTG vs VCMX(volume-stable collagen matrix) 비교 RCT — JCP 게재, 임상·방사선·조직학·PROMs 포괄.
+
+→ [[papantonatou-2026-ctg-vs-vcmx-implant-placement-rct]]
+
 
 ## One-line Summary
 3-arm RCT (J Clin Periodontol 2026): 25 patients; CTG and VCMX both significantly increased soft-tissue thickness vs no augmentation at 6 months; CTG superior to VCMX for thickness gain; similar patient-reported outcomes but higher donor-site morbidity for CTG.

@@ -4,13 +4,14 @@ authors: "Dannewitz B et al."
 year: 2026
 doi: "10.1111/jcpe.70181"
 category: [periodontics]
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested
 페리오 서베일런스 2026-09: Paro-ComPas 앱의 치주치료 보조 효능 다기관 RCT (n=194) — 디지털 헬스 도구의 치주 임상에서의 실효성 첫 대규모 검증.
+
+→ [[dannewitz-2026-digital-companion-perio-rct]]
+
 
 ## One-line Summary
 Multicenter RCT (J Clin Periodontol 2026): 7 German centers, n=194; Paro-ComPas digital companion app as adjunct to periodontal therapy showed no statistically significant improvement in gingival bleeding index or any secondary outcome vs standard care alone.

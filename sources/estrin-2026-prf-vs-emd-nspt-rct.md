@@ -4,13 +4,14 @@ authors: "Estrin N et al."
 year: 2026
 doi: "10.3290/j.ohpd.c_2750"
 category: [periodontics]
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested
 페리오 서베일런스 2026-09: NSPT 보조제로서 PRF와 EMD를 직접 비교한 split-mouth RCT — 두 재료 모두 개별 연구는 많으나 직접 비교 근거 희소, 이 공백을 채우는 첫 RCT.
+
+→ [[estrin-2026-prf-vs-emd-nspt-rct]]
+
 
 ## One-line Summary
 Split-mouth RCT (Oral Health Prev Dent 2026): 15 patients, Stage II/III periodontitis; PRF and EMD as adjuncts to NSPT produced comparable improvements in CAL, PPD, and BOP at 6 months — no significant difference between the two biologics.
