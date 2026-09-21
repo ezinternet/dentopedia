@@ -207,6 +207,9 @@ Narrative synthesis (no new pooling; heterogeneous designs). Base (27): 1 NMA (Q
 - [[immediate-implant/infected-socket/amato-2025-single-tooth-immediate-implant-esthetic-infected]] — Retrospective cohort (Tarnow group, n=143, mean 7-yr / max 12-yr): non-infected 97.8% vs acute 96.4% vs chronic 95% survival (p=0.8); longest-follow-up infected-socket single-tooth comparison available
 - [[immediate-implant/loading-protocol/pannuti-2026-loading-timing-edentulous-maxilla-pro]] — SR (5 prospective studies, 121 patients, 724 implants, edentulous maxilla): VAS dominates PROs; 12 ClinROs with no inter-study standardization — cross-study PROM comparison for loading protocols currently unreliable
 - [[immediate-implant/thoma-2026-timing-dental-implant-placement-past]] — Narrative review (Thoma, Jung; University of Zurich): ITI Type 1–4 survival benchmarks (Type 1: 95–98%, Type 2: 96–99%, Type 3: 97–99%, Type 4: >95%) and the shift toward AI + CBCT-guided individualized timing
+- [[immediate-implant/moy-2016-single-implants-dorsal-posterior-areas-sr]] — SR on single implants in posterior areas: survival rates and timing considerations (sr, 2016)
+- [[immediate-implant/molar-septum/atieh-2010-immediate-placement-loading-molar-implants-sr-ma]] — SR+MA on immediate implant placement and loading at molar sites; survival rates and marginal bone loss (sr+ma, 2010)
+- [[immediate-implant/loading-protocol/huang-2014-innervation-peri-implant-tissues-placement-loading-sr]] — SR on peri-implant tissue responses across placement and loading protocols; biological basis for timing decisions (sr, 2014)
 
 ## Related Overviews
 
