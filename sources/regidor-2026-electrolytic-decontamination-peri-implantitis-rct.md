@@ -19,6 +19,22 @@ RCT (Clin Oral Implants Res 2026): 44 implants with peri-implantitis intra-bony 
 
 RCT (COIR 2026): 44개 임플란트 골내 결손; 전해질 세정 보조(ElectroMed) + Ti 브러시 + GBR이 Ti 브러시 + GBR 단독 대비 12개월에 임상·방사선·환자보고 지표에서 유의한 추가 이득 없음.
 
+## Three-line Summary
+
+Single-center parallel-arm RCT, 40 patients (44 implants), peri-implantitis intra-bony defects — isolating the adjunctive effect of electrolytic cleaning (ElectroMed) on top of titanium brush + GBR reconstructive surgery at 12 months.
+
+Adjunctive electrolytic cleaning provided no statistically significant additional benefit in any clinical, radiographic, or patient-reported outcome vs titanium brush + GBR alone (primary composite success 40% test vs 27% control, p=0.41); post-surgical complications occurred exclusively in the test group.
+
+Single center with limited sample size; the negative result establishes titanium brush + GBR alone as an effective standard without needing electrolytic adjunct.
+
+## 세줄요약
+
+단일 기관 평행군 RCT, 40명 (44개 임플란트), 임플란트주위염 골내 결손 — 전해질 세정 (ElectroMed) 보조 효과를 Ti 브러시 + GBR 재건 수술에 추가하여 12개월 분리 평가.
+
+전해질 세정 보조가 어떤 임상·방사선·환자보고 지표에서도 유의한 추가 이득 없음 (1차 복합 성공률 40% vs 27%, p=0.41); 합병증은 검사군에서만 발생.
+
+단일 기관·소표본; 음성 결과로 Ti 브러시 + GBR 단독이 전해질 보조제 없이도 효과적임 확립.
+
 ## 1. Document Information
 
 - Journal: Clinical Oral Implants Research, 2026; 37(9):1109-1117
