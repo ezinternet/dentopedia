@@ -1138,6 +1138,7 @@ tags: []
 - [[prosthetic-materials/abutment-screw/zhang-2026-bibliometric-implant-abutment-research-2005-2024]] — Zhang 2026 · narrative-review(bibliometric) · 임플란트 지대주 연구 2051편(WoS 2005–2024) 계량서지 지도: 미국·상파울루·취리히 주도, 핵심 저자 Canullo·Sailer, 주제 이동 티타늄(2005–10) → 플랫폼스위칭·FEA(2011–19) → 지르코니아·미생물누출·연결부 안정성(2020–24) — 연구 활동의 지도이지 임상 효과의 근거가 아님 (DOI 10.1016/j.prosdent.2026.03.003)
 - [[prosthetic-materials/toia-2021-fixed-full-arch-maxillary-prostheses]] — 3-year multicentre RCT, 4 vs 6 implants for titanium CAD/CAM-milled maxillary full-arch fixed prostheses: no significant MBL difference, high prosthetic (tooth chipping/fracture) complication rate 47.2% (2021)
 - [[prosthetic-materials/toia-2025-fixed-full-arch-maxillary-prostheses]] — 5-year multicenter RCT: 4 vs 6 implants for maxillary fixed complete dentures, non-inferior MBL, 4-I higher technical complications but lower cost (2025)
+- [[prosthetic-materials/abutment-screw/park-2025-cementless-screw-retained-single-implant-rct]] — Park 2025 · rct · 예비 RCT(40임플란트/35명, ~6개월): 완전 디지털 시멘트리스 나사유지(CL-SRP) vs 재래 CSCRP — 총 보철시간 588.79 vs 1363.15초(p<0.001)·조기 MBL 0.47 vs 0.71 mm(p<0.05)로 유의하게 우세; 정확도·연조직 동등, 시멘트리스 나사유지 설계 최초 임상 근거
 
 ## 총의치·가철성보철 (Complete Denture / Removable Prosthodontics — added 2026-06-16)
 - [[complete-denture/refai-2026-occlusion-disocclusion-implant-overdentures-splinted]] — Refai 2026 · rct (n=36, 3군×12, T-Scan) · 즉시부하 2-임플란트 하악 오버덴처 **연결(용접바 IW) vs 비연결(볼 IB) vs 총의치(CD)**: 두 임플란트군 모두 CD보다 교합/이개시간 짧음(OT CD 0.52 vs IB 0.35 vs IW 0.29s, p<0.001), 단 IB≈IW(무유의차) → 임플란트 2개 연결의 교합기능 이점 없음 (DOI 10.1186/s12903-026-08855-w)
@@ -2584,6 +2585,7 @@ tags: []
 - [[cracked-tooth/dong-2026-nomogram-cracked-tooth-rct-5year-survival]] — Dong 2026 · retrospective · probing >5mm OR 2.99 · crown OR 0.28 · AUC 0.73
 - [[cracked-tooth/gioti-2026-symptomatic-cracked-tooth-management-survey]] — Gioti 2026 · cross-sectional · periodontal burden = top extraction trigger; CBCT no independent effect
 
+- [[cracked-tooth/zhang-2026-clinical-characteristics-prognostic-factors-cracked]] — Retrospective cohort (n=561): distal marginal ridge highest failure, two critical pulpitis progression windows (0–1 mo, 3–6 mo), full-coverage crown OR=5.57 (2026)
 ## 치과 역사 (Dental History)
 - [[dental-history/jkda-2025-63-8-006]] — Historical article (Goodface Mi 치과 변웅래, JKDA 2025): 함석태(1889-?) — 첫 한국인 정규 치과대학 졸업자·등록 치과의사·한성치과의사회 창립(일본 단체 대항). 일제강점기 한국 치과 자주성 anchor
 - [[dental-history/choi-2026-opening-future-innovation-convergence-oral-health]] — Choi 2026 · narrative-review · 대한예방치과·구강보건학회장 사설로 학술지 비전과 3대 학술 방향(예방연구 확장, 인재 양성, 융합·글로벌 네트워크)을 제시 (DOI 10.11149/jkaoh.2026.50.2.55)
