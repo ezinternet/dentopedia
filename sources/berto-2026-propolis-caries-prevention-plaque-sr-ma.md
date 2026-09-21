@@ -4,9 +4,7 @@ authors: "Berto LP, Wierichs RJ, Sakae LO, Niemeyer SH, Carvalho TS"
 year: 2026
 doi: "10.1007/s00784-026-07065-6"
 category: [periodontics/oral-hygiene-instruction]
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested

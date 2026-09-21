@@ -4,9 +4,7 @@ authors: "Almadhoon H, Alshayyah M, Abu Eida M, Cook A, Sharland M, Almotairy N"
 year: 2026
 doi: "10.1016/j.jdsr.2026.07.001"
 category: [drug/antibiotics]
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested

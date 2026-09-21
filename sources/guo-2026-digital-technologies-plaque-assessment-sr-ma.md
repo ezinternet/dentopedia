@@ -4,9 +4,7 @@ authors: "Guo K, Ku JC, Yang Y, McGrath CP, Lam PPY"
 year: 2026
 doi: "10.1016/j.jebdp.2026.102306"
 category: [periodontics/oral-hygiene-instruction]
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested

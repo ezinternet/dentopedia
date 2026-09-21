@@ -4,9 +4,7 @@ authors: "Alsharif MB, Alqadi N"
 year: 2026
 doi: "10.4103/njcp.njcp_760_25"
 category: [local-anesthesia]
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested

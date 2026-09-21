@@ -4,9 +4,7 @@ authors: "Pirc M, Balzarini P, Esquivel J, Zuercher AN, Jung RE, Strauss FJ"
 year: 2026
 doi: "10.1111/jerd.70210"
 category: [implants/peri-implantitis]
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested

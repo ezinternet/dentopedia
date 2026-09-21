@@ -4,9 +4,7 @@ authors: "Elhadidy M et al."
 year: 2026
 doi: "10.1186/s12903-026-09589-5"
 category: [implants/peri-implantitis]
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested

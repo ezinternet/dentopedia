@@ -4,9 +4,7 @@ authors: "Nalci Calik et al."
 year: 2026
 doi: "10.1186/s12903-026-09451-8"
 category: [endodontics/eal]
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested

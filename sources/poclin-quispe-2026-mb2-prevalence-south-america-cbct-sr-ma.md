@@ -4,9 +4,7 @@ authors: "Poclin-Quispe et al."
 year: 2026
 doi: "10.3389/fdmed.2026.1928424"
 category: [endodontics/anatomy]
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested

@@ -4,9 +4,7 @@ authors: "Gürler et al."
 year: 2026
 doi: "10.1007/s00784-026-07062-9"
 category: [endodontics/vpt]
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested

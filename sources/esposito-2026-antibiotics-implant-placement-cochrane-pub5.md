@@ -4,9 +4,7 @@ authors: "Esposito MA, Visconti RF, Grusovin MG, Greco K"
 year: 2026
 doi: "10.1002/14651858.CD004152.pub5"
 category: [drug/antibiotics]
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested

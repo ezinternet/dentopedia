@@ -4,9 +4,7 @@ authors: "Mohamed MA et al."
 year: 2026
 doi: "10.1186/s12903-026-09008-9"
 category: [endodontics/vpt]
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested

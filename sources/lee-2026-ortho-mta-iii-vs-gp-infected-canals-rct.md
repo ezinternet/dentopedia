@@ -4,9 +4,7 @@ authors: "Lee JY et al."
 year: 2026
 doi: "10.1111/iej.70248"
 category: [endodontics/obturation]
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested

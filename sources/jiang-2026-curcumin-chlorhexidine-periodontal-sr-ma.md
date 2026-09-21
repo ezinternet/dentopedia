@@ -4,9 +4,7 @@ authors: "Jiang L, Li S, Reissmann DR, Schmalz G, Hu X"
 year: 2026
 doi: "10.1097/MD.0000000000049862"
 category: [periodontics/oral-hygiene-instruction]
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested

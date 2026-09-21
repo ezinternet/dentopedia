@@ -4,9 +4,7 @@ authors: "Venkatesh N et al."
 year: 2026
 doi: "10.1186/s12903-026-08858-7"
 category: [implants/isq]
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested

@@ -4,9 +4,7 @@ authors: "Baker JL, Dahle UR, Petersen FC"
 year: 2026
 doi: "10.1128/mbio.00647-26"
 category: [drug/antibiotics]
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested

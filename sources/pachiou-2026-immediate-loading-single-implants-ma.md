@@ -4,9 +4,7 @@ authors: "Pachiou A, Strauss FJ, Pagkalidou E, Liakos A, Ioannidis A, Jung RE, H
 year: 2026
 doi: "10.1016/j.prosdent.2026.06.009"
 category: [implants]
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested

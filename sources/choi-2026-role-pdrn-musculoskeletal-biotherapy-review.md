@@ -4,9 +4,7 @@ authors: "Choi J, Yoo YM"
 year: 2026
 doi: "10.3390/ijms27167304"
 category: [pdrn]
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested

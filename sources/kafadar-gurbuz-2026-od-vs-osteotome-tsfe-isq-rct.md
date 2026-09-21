@@ -4,9 +4,7 @@ authors: "Kafadar-Gürbüz İA et al."
 year: 2026
 doi: "10.11607/jomi.11566"
 category: [sinus-lift/transcrestal]
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested

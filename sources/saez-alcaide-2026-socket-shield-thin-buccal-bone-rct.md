@@ -4,9 +4,7 @@ authors: "Sáez-Alcaide LM, Cobo-Vázquez C, Pérez-González F, González-Serra
 year: 2026
 doi: "10.4317/medoral.28158"
 category: [immediate-implant]
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested

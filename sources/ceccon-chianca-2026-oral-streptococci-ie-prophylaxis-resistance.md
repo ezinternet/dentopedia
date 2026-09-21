@@ -4,9 +4,7 @@ authors: "Ceccon Chianca G, Chamon RC, Peixoto de Albuquerque J, Cardoso Corrêa
 year: 2026
 doi: "10.1093/jac/dkag320"
 category: [drug/antibiotics]
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested

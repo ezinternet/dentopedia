@@ -4,9 +4,7 @@ authors: "Mahintach T et al."
 year: 2026
 doi: "10.3290/j.ohpd.c_2808"
 category: [periodontics]
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested

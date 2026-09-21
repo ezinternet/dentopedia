@@ -4,9 +4,7 @@ authors: "Balkanlıoğlu AC, Acikan I"
 year: 2026
 doi: "10.1186/s12903-026-08679-8"
 category: [implants/surface]
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested

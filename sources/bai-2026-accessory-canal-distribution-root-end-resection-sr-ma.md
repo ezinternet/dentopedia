@@ -4,9 +4,7 @@ authors: "Bai et al."
 year: 2026
 doi: "10.1016/j.jdent.2026.106928"
 category: [endodontics/anatomy]
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested

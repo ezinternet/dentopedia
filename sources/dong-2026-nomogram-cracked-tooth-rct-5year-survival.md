@@ -4,9 +4,7 @@ authors: "Dong Q, Guo S, et al."
 year: 2026
 doi: "10.2340/aos.v85.46624"
 category: [cracked-tooth]
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested

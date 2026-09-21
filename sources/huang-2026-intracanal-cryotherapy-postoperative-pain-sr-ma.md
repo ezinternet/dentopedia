@@ -4,9 +4,7 @@ authors: "Huang et al."
 year: 2026
 doi: "10.1007/s10103-026-04847-y"
 category: [endodontics/irrigation]
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested

@@ -4,9 +4,7 @@ authors: "Canullo L et al."
 year: 2026
 doi: "10.1111/cid.70175"
 category: [implants]
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested

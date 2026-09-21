@@ -4,9 +4,7 @@ authors: "Gioti M, Pachiou A, Mylonas P, Ioannidis K"
 year: 2026
 doi: "10.1016/j.jdent.2026.106970"
 category: [cracked-tooth]
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested

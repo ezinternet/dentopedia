@@ -4,9 +4,7 @@ authors: "Regidor E, Ortiz-Vigón A, Berglundh-Gottlieb J, Derks J, Bougas K"
 year: 2026
 doi: "10.1111/clr.70152"
 category: [implants/peri-implantitis]
-pdf_path: ""
-pdf_filename: ""
-source_collection: external
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested
