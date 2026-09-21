@@ -16,6 +16,22 @@ SR+MA (Lasers Med Sci 2026): 16 RCTs, 1479 participants; intracanal cryotherapy 
 ## 한줄요약
 SR+MA (Lasers Med Sci 2026): 16 RCTs 1479명; 근관 내 냉각요법이 술후 엔도 통증 유의 감소(RR=0.72, 6시간 SMD=-0.75).
 
+## Three-line Summary
+
+SR+MA, 16 RCTs (1479 participants), Cochrane/EMBASE/PubMed through 2026 — comparing intracanal cryotherapy (cold saline irrigation) vs standard-temperature irrigation for postoperative endodontic pain.
+
+Cryotherapy significantly reduced pain incidence (RR=0.72, 95%CI 0.62–0.84) and intensity at 6h (SMD=−0.75), 24h (SMD=−0.58), and 48h (SMD=−0.53); effect decreased over time but remained significant through 48h.
+
+Heterogeneity in cryotherapy protocols (temperature, volume, duration) and inconsistent pain measurement tools across studies limit protocol-specific recommendations; long-term benefit and mechanism remain unclear.
+
+## 세줄요약
+
+SR+MA, 16편 RCT (1479명), Cochrane/EMBASE/PubMed 2026년까지 — 근관 내 냉각요법(냉식염수 관개) vs 기준 온도 관개의 술후 엔도 통증 비교.
+
+냉각요법이 통증 발생률 유의 감소 (RR=0.72, 95%CI 0.62–0.84); 강도: 6시간(SMD=−0.75)·24시간(SMD=−0.58)·48시간(SMD=−0.53) 유의 감소; 효과는 시간이 지날수록 줄어드나 48시간까지 유의.
+
+냉각요법 프로토콜 이질성 (온도·용량·지속시간)·통증 측정 도구 불일치로 프로토콜 특이적 권고 제한; 장기 효과 및 기전 불명.
+
 ## 1. Document Information
 - Journal: Lasers in Medical Science, 2026. DOI: 10.1007/s10103-026-04847-y
 - PMID: 42611134
