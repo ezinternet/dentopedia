@@ -7,7 +7,7 @@ pmid: "24502614"
 journal: "Journal of Periodontology"
 volume: "85"
 issue: "7"
-source: "sources/slagter-2014-immediate-placement-esthetic-zone-sr.md"
+source: "slagter-2014-immediate-placement-esthetic-zone-sr.md"
 source_collection: pubmed-abstract
 full_text: false
 text_path: /Users/oracleneo/llm-wiki/papers/slagter-2014-immediate-placement-esthetic-zone-sr.txt
