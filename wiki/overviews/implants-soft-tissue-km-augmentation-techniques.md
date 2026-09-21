@@ -247,4 +247,6 @@ Han 2021 prospectively studied 79 patients (203 implants) receiving full-thickne
 - [[implants/soft-tissue/wang-2024-mrarf-modified-roll-envelope-apf-implant]] — MRARF technique
 - [[implants/soft-tissue/de-greef-2023-mesh-fgg-keratinized-mucosa-implant]] — Mesh-FGG technique
 - [[implants/soft-tissue/kim-2015-hard-soft-tissue-esthetic-zone]] — Staged esthetic zone protocol
+- [[periodontics/papantonatou-2026-ctg-vs-vcmx-implant-placement-rct]] — RCT: CTG vs volume-stable xenogeneic collagen matrix (VCMX) at implant placement; soft-tissue volume and KM outcomes (rct, 2026)
+- [[implants/peri-implantitis/elhadidy-2026-fla-vs-prf-vs-ctg-peri-implant-sta-rct]] — RCT: full-thickness flap advancement vs PRF vs CTG for peri-implant soft-tissue augmentation; keratinized mucosa width and tissue thickness outcomes (rct, 2026)
 - [[implants/soft-tissue/thoma-2014-soft-tissue-augmentation-implant-sr]] — EAO 2014 SR evidence foundation
