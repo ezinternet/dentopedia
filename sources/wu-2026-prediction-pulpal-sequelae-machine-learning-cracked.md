@@ -11,13 +11,21 @@ source_collection: pubmed-abstract
 
 Machine learning approaches to endodontic decision-making for cracked teeth are sparse. This paper directly addresses the clinical problem also explored in [[fiyaz-ghani-2025-cracked-teeth-external-splinting-pulp-survival]] (pulp survival after conservative management) and [[gavriil-2025-single-vs-multiple-stage-cracked-teeth-pulp]] (treatment timing and pulp outcomes). Those papers establish the clinical stakes (preserving pulp vitality improves survival); this paper asks whether a predictive model can identify which reversible-pulpitis CTS patients will eventually need RCT — a clinically actionable question with no prior ML answer in the literature.
 
-## One-line Summary
+## Three-line Summary
 
-Four machine learning models trained on 593 cracked teeth predict pulp survival in reversible-pulpitis cases; Logistic Regression achieves AUC=0.64 and PPV=0.76, but NPV=0.48 means the model cannot reliably rule out eventual RCT need.
+Four machine learning models were trained on 593 cracked teeth with reversible pulpitis to predict which patients would ultimately require root canal treatment (RCT).
 
-## 한줄요약
+Logistic Regression achieved the best performance with AUC=0.64 and PPV=0.76, indicating moderate ability to identify patients who do need RCT; older age and pre-existing restorations were the only significant predictors.
 
-가역적 치수염을 가진 균열치 593개에서 머신러닝 4종으로 치수 생존을 예측한 결과, 로지스틱 회귀가 AUC=0.64·PPV=0.76를 달성했으나 NPV=0.48로 RCT 불필요 판정에는 신뢰도가 제한적이었다.
+However, NPV=0.48 means the model cannot reliably rule out eventual RCT need — insufficient for clinical "rule-out" use without richer features (crack depth, CBCT, pain scores).
+
+## 세줄요약
+
+가역적 치수염을 가진 균열치 593개에서 머신러닝 4종으로 치수 생존(근관치료 불필요)을 예측했다.
+
+로지스틱 회귀가 AUC=0.64·PPV=0.76로 최우수 성능 — RCT 필요 환자 식별에 유용하며, 고령과 기존 수복물 존재가 유의미한 예측인자였다.
+
+그러나 NPV=0.48로 RCT 불필요 판정의 신뢰도가 낮아 임상적 단독 사용은 부적절하며, 균열 깊이·CBCT·통증 점수 등 더 풍부한 특성이 필요하다.
 
 ## Document Information
 
