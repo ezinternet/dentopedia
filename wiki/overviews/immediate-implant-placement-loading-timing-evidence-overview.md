@@ -249,6 +249,12 @@ Step 5 — Future / AI-personalized timing (Thoma 2026)
 
 ---
 
+## Related Papers
+
+- [[immediate-implant/loading-protocol/suarez-2012-timing-restoration-implant-marginal-bone-loss-sr-ma]] — SR+MA on timing of restoration and its effect on implant marginal bone loss; loading-timing evidence synthesis (sr+ma, 2012)
+- [[immediate-implant/esthetic-soft-tissue/rieder-2014-placement-restoration-timing-esthetic-outcome-rct]] — RCT comparing placement and restoration timing on esthetic outcomes (rct, 2014)
+- [[immediate-implant/loading-protocol/markovic-2024-immediate-vs-early-loading-immediately-placed]] — prospective study comparing immediate vs early loading of immediately placed implants; survival and bone stability outcomes (prospective, 2024)
+
 ## Related Overviews
 
 - [[overviews/immediate-implant-evidence-survival-timing-infected-loading-overview]] — broader immediate implant survival, infected sites, full-arch loading
