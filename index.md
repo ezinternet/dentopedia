@@ -480,6 +480,7 @@ tags: []
 - [[pdrn/kim-2019-efficacy-safety-polydeoxyribonucleotide-knee]] — SR/MA (RCT 5편), **비치과 cross-domain** (Medicine 2019): 슬관절 OA 관절강내 PDRN, HA 대비 1·2개월 통증 우위(4개월 소멸)·기능·안전 동등; PDRN 진통·안전 최고 등급 근거(비치과).
 - [[pdrn/jeon-2026-pdrn-osteoblast-differentiation-osteoclastogenesis]] — In vitro (MC3T3-E1 + BMM, Marine Drugs 2026): PDRN selectively promotes osteoblast differentiation (Runx2↑, ALP↑, mineralization↑) without affecting osteoclastogenesis; A2A→Wnt/β-catenin→Runx2 mechanism proposed
 - [[pdrn/marenzi-2015-lprf-postextraction-socket-healing-splitmout]] — Prospective split-mouth RCT (n=26, 108 extractions): L-PRF socket filling → pain VAS 3.2 vs 4.1, mHI 4.8 vs 5.1 at 7 days; growth factor release >7 days; practical for private practice
+- [[pdrn/choi-2026-role-pdrn-musculoskeletal-biotherapy-review]] — Narrative review (Int J Mol Sci 2026, Kangwon Natl Univ): PDRN dual mechanism (A2A receptor agonism + nucleotide salvage) → anti-inflammatory, VEGF angiogenesis, collagen synthesis; OA cartilage protection, tendon repair, radiculopathy; mechanism reference for dental regeneration applications (2026)
 - [[pdrn/chmielewski-2024-aprf-oral-maxillofacial-surgery-sr]] — SR (38 articles, PRISMA): A-PRF reduces postoperative pain, enhances graft integration, improves epithelialization; growth factor release up to 10 days; large blinded RCTs lacking
 
 ## 즉시식립 (Immediate Implant)
