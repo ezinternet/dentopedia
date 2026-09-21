@@ -1,0 +1,8 @@
+Aimed to compare immediate protocols vs conventional for single-tooth implants in esthetic area hard/soft tissue changes. Electronic/manual searches PubMed/EMBASE/Cochrane through Dec 2014. Only RCTs on hard/soft tissue following single-tooth implant. 3 groups: immediate placement, immediate restoration, immediate loading. 13 RCTs met inclusion criteria. Bone level mesial: SMD -0.04mm (95%CI -0.25 to 0.17mm, ns). Bone level distal: SMD -0.15mm (95%CI -0.38 to 0.09mm, ns). Mean bone level: SMD 0.05mm (95%CI -0.18 to 0.27mm, ns). Marginal bone level immediate vs conventional loading: mesial SMD -0.05mm (95%CI -0.15 to 0.06mm), distal SMD -0.02mm (95%CI -0.09 to 0.05mm). Papillae mesial: SMD 0.18mm (95%CI -0.00 to 0.37mm, ns). Midbuccal mucosa: SMD -0.22mm (95%CI -1.29 to 0.85mm, ns). Conclusion: immediately placed, restored, or loaded single-tooth implants in esthetic zone result in similar hard and soft tissue changes vs conventional protocols.
+
+Authors: Yan Q, Xiao LQ, Su MY, Mei Y, Shi B
+Year: 2016
+Journal: International Journal of Oral & Maxillofacial Implants, 31(6):1327-1340
+DOI: 10.11607/jomi.4668
+PMID: 27861657
+Study type: Systematic Review and Meta-Analysis
