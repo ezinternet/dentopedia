@@ -16,6 +16,22 @@ mBio perspective: dentists account for ~10% global antibiotic prescriptions and 
 ## 한줄요약
 mBio 관점 논문: 치과의사 전 세계 항생제 처방의 약 10% 차지; AMR 대응에 전략적 위치임에도 국가행동계획에서 제외·처방 지침 비통일 — "fulcrum" 될 수 있다.
 
+## Three-line Summary
+
+Invited perspective (mBio), narrative synthesis, no primary data — arguing for dentistry's strategic but underleveraged role in the global antimicrobial resistance response.
+
+Dentists prescribe approximately 10% of global antibiotics yet dentistry is absent from most national AMR action plans and lacks unified prescribing guidelines; guideline concordance in implant surgery is 1–28%.
+
+Authors propose a four-pillar framework: unified prescribing guidelines, integration into national AMR action plans, targeted clinician education, and oral resistome surveillance.
+
+## 세줄요약
+
+초청 관점 논문 (mBio), 1차 데이터 없음 — 치과학이 글로벌 항균제 내성 대응에서 전략적이나 활용 부족한 위치에 있음을 논증.
+
+치과의사는 전 세계 항생제 처방의 약 10% 차지; 대부분의 국가 AMR 행동계획에서 치과 제외, 통합 처방 가이드라인 부재; 임플란트 수술 가이드라인 준수율 1–28%.
+
+4가지 행동 프레임워크 제안: 통합 처방 지침, 국가 AMR 계획 통합, 임상의 교육, 구강 내성체(resistome) 감시.
+
 ## 1. Document Information
 - Journal: mBio 2026;17(9):e0064726
 - DOI: 10.1128/mbio.00647-26 | PMID: 42573458 | PMC: PMC13556263
