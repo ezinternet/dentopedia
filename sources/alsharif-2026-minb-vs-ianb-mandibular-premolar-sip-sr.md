@@ -16,6 +16,22 @@ SR (Niger J Clin Pract 2026): 5 RCTs; MINB up to 93% anesthetic success for mand
 ## 한줄요약
 SR (Niger J Clin Pract 2026): 5 RCTs; SIP 하악 소구치 MINB 마취 성공률 최대 93% vs IANB; 통계적으로 유의하지 않으나 임상적으로 의미 있음; MINB = 더 빠른 발현 + 적은 주사 통증.
 
+## Three-line Summary
+
+SR (no meta-analysis), 5 RCTs, databases including PubMed/Cochrane through September 2025 — mental/incisive nerve block vs inferior alveolar nerve block for mandibular premolars with symptomatic irreversible pulpitis.
+
+MINB achieved up to 93% anesthetic success vs IANB; the success difference was not statistically significant but MINB provided significantly faster onset and less injection pain.
+
+Limited to 5 RCTs with heterogeneous outcome definitions; non-significant primary outcome limits definitive conclusions; MINB remains a clinically relevant alternative when IANB fails.
+
+## 세줄요약
+
+SR (메타분석 불가), 5편 RCT, 2025년 9월까지 검색 — 증상성 비가역 치수염 하악 소구치에서 MINB vs IANB 비교.
+
+MINB 마취 성공률 최대 93%; 통계적 유의차 없으나 발현 속도·주사 통증 유의하게 MINB 우위.
+
+5편 RCT로 근거 기반 제한적; IANB 실패 시 MINB가 임상적으로 유효한 대안.
+
 ## 1. Document Information
 - Journal: Nigerian Journal of Clinical Practice, 2026. DOI: 10.4103/njcp.njcp_760_25
 - PMID: 42574178
