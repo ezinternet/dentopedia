@@ -4477,3 +4477,10 @@ tags: []
 
 ### implants/surface
 - [[implants/surface/balkanlioglu-2026-cold-plasma-implant-isq-stability]] — Balkanlıoğlu 2026 · rct (10명 40개, within-patient) · 콜드 플라즈마 3종 56일 ISQ +8.3~10.0 유의 우위(p<0.001) vs 무처치; 파일럿 연구 (DOI 10.1186/s12903-026-08679-8)
+
+## Batch ingest (added 2026-09-21) — antibiotic-dental 서베일런스 2026-09 (3편 신규)
+
+### drug/antibiotics
+- [[drug/antibiotics/almadhoon-2026-antibiotic-prescribing-implant-surgery-sr-ma]] — Almadhoon 2026 · sr+ma (39편·치과의사 7266명·환자 137,207명) · 임플란트 수술 일상 항생제 처방 유병률 61.3%; 가이드라인 준수율 1–28% + 감소 추세; 술후 5–7일 요법 주류이나 단회 술전 대비 이득 없음 (DOI 10.1016/j.jdsr.2026.07.001)
+- [[drug/antibiotics/baker-2026-dentistry-amr-strategy-perspective]] — Baker 2026 · narrative-review (mBio) · 치과의사 전 세계 항생제 처방 ~10%; 치과가 AMR 국가행동계획 밖 "blind spot" → 4가지 전략 제안: 통합 지침·NAP 통합·교육·구강 레지스톰 감시 (DOI 10.1128/mbio.00647-26)
+- [[drug/antibiotics/ceccon-chianca-2026-oral-streptococci-ie-prophylaxis-resistance]] — Ceccon Chianca 2026 · in-vitro (in silico, 258균주) · IE 예방: 구강 연쇄구균 아목시실린 내성 0%; 아지스로마이신 24.88%·독시사이클린 16.59% 예측 내성 — 1차 요법 안전, 페니실린 알러지 대체약 재검토 필요 (DOI 10.1093/jac/dkag320)
