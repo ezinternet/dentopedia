@@ -1,0 +1,156 @@
+Title: Evaluation of bonding of clear aligner attachments on aesthetic crown materials: a systematic review of studies
+Authors: Kaur A, Soans CR, Ravi MS, Shilpa M
+Journal: Frontiers in Dental Medicine
+Year: 2026
+PMID: 42582325
+PMCID: PMC13457311
+DOI: 10.3389/fdmed.2026.1888333
+Published: 2026-07-28
+
+ABSTRACT:
+This study aims to assess the impact of various surface roughening treatments and bonding agents on aesthetic crown materials for the bonding of clear aligner attachments in orthodontic treatment. The primary objective is to assess their impact on shear bond strength, and the secondary objective is to assess their effect on surface roughness.
+
+This systematic review of literature (2015-2025) followed the Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA) guidelines. Data were collected from scientific articles investigating the impact of various surface roughening procedures on the bond strength and surface roughness for clear aligner attachments bonded to aesthetic crown materials. The articles were retrieved from three databases: Scopus, PubMed, and Web of Science. Risk of bias was assessed using the QUIN bias assessment tool for dental studies.
+
+The results of the included articles were organised into tables in Word under the headings of author, country, material used, intervention(s), and results. The findings showed a positive increase in bond strength and surface roughness following surface treatments.
+
+This systematic review concludes that etching with hydrofluoric acid for 1 min and bonding with Filtek Z350 composite resin result in relatively higher bond strength and surface roughness. These findings may assist orthodontists in enhancing the bond strength of clear aligner attachments to aesthetic crown materials, hence improving orthodontic tooth movement. No external or internal funding was received for this review. It is registered with PROSPERO under the registration ID CRD420251174624.
+
+FULL TEXT:
+
+Introduction
+
+In 1945, Kesling introduced the tooth positioner, a combination of an active treating appliance and an efficacious retainer. Since then, technology has advanced considerably, with Align technology unlocking its commercial advantages by utilising appropriate materials and three-dimensional computer-aided design to pre-plan the required tooth movements and fabricate clear aligners for patients. Patients have increasingly chosen clear aligner therapy (CAT) because of its aesthetic appeal. While the flexibility of aligner materials contributes immensely to patient comfort, it also limits the effectiveness of force application. Aligners have incorporated various auxiliaries, such as bite ramps, power ridges, and attachments, to increase their efficiency.
+
+Attachments come in different shapes and sizes, are tooth-coloured, and are bonded to teeth, effectively increasing the grip of the aligners on the dentition. The increased grip is predominantly due to the increase in contact area, as well as effective force application being closer to the centre of resistance. Bodily movement of posterior teeth, rotational movements of premolars and canines, and extrusion of maxillary anterior teeth necessitate the use of attachments. Complex orthodontic movements, which limited the use of aligners previously, are now possible due to significant progress in auxiliaries.
+
+Dentists use a variety of materials for the rehabilitation of missing teeth, implants, and endodontically treated teeth. Most commonly, monolithic zirconia and glass ceramics (silica-based) are used currently. Zirconia poses a significant challenge for bonding due to its chemical inertness and acid resistance. The use of these materials hinders the predictability of tooth movement and poses a challenge for orthodontists. With the shift towards advanced digital workflows and 3D printing, emphasis needs to be placed on the bonding of attachments to crowns.
+
+This review aims to summarise and systematically organise the current limited literature on bonding clear aligner attachments to aesthetic crown materials, making this approach easier for orthodontists.
+
+Materials and Methods
+
+Search strategy
+
+The Cochrane Handbook for Systematic Reviews of Interventions (version 6.5, 2024) was consulted in formulating this systematic review, and the review is reported in accordance with the Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA) 2020 expanded checklist. The PROSPERO registration ID is CRD420251174624.
+
+The PICO question was: "What is the effect of various surface roughening procedures and bonding agents on the bonding of clear aligner attachments to aesthetic crown materials?"
+
+The literature search was conducted using three databases: Scopus, PubMed, and Web of Science. The search was limited to articles published between 2015 and 2025.
+
+Eligibility criteria
+
+Included articles:
+- Published in English, 2015-2025
+- Studies involving clear aligner attachments on different crown materials
+- Full-text access available
+
+Excluded:
+- Studies involving clear aligner attachments on natural teeth
+- Studies in languages other than English
+- Published systematic reviews and meta-analyses
+- Studies including human and animal trials
+
+Data collection:
+Data were screened using Rayyan software, and references managed using Zotero software. Two independent authors (AK and CS) performed screening; MR was consulted for disagreements.
+
+Results
+
+Study Selection:
+Initially 260 articles: 77 from PubMed, 79 from Web of Science, 104 from Scopus. After removing 120 duplicates → 140 articles. After title/abstract screening → 9 articles for full-text evaluation. All 9 described (0 excluded at full-text stage, though "0 studies included" in PRISMA due to in vitro design - these are described as reports rather than included studies in the traditional sense).
+
+Risk of Bias:
+QUIN tool used for all 9 articles:
+- Alsaud et al. (2022): 75% - Low risk
+- Alhunayni et al. (2025): 66.66% - Medium risk
+- Criollo-Barrios et al. (2025): 75% - Low risk
+- Nitasnoraset et al. (2024): 75% - Low risk
+- Shahin et al. (2024): 83.33% - Low risk
+- Fayyad et al. (2024): 75% - Low risk
+- Nguyen et al. (2025): 66% - Medium risk
+- Çokakğlu et al. (2024): 70.83% - Low risk
+- Arslan et al. (2023): 70.83% - Low risk
+
+Shear Bond Strength Assessment:
+
+Table 5 — Key findings by material:
+
+1. Lithium Disilicate (Alsaud 2022, Saudi Arabia):
+   - IPS e.max crowns, n=120 (10/group, 12 groups)
+   - Surface roughening: HFA 9.6%, PhA 37%, AA with AlO2
+   - Bonding agents: Single Bond Universal (SBU), Assure Universal Bond (AUB)
+   - Composite: Filtek Z350, Filtek Z350 Supreme Ultra Flowable
+   - Best: AA + AUB + Filtek Z350 = 21.80 ± 3.86 MPa
+   - AUB (14.0 ± 6.04 MPa) > SBU (9.93 ± 6.80 MPa)
+   - Worst: PhA + SBU + Filtek Z350 flowable = 0.96 ± 1.86 MPa
+
+2. Lithium Disilicate (Fayyadh 2024, Egypt):
+   - IPS e.max Press, n=80 (10/group, 8 groups)
+   - Best: HFA + Filtek Z350 gave highest results
+   - Order: HFA > air abrasion > Er,Cr:YSGG > phosphoric acid (4.421 MPa)
+   - HFA + Filtek Z350 > HFA + Filtek Z350 flowable (16.43 ± 2.09 MPa)
+
+3. Monolithic Zirconia (Alhunayni 2025, Egypt):
+   - n=66 (11/group, 6 groups)
+   - 9.5% HFA, AA 50μm AlO2, Er:Cr:YSGG laser
+   - SBU used for all groups; Filtek Z250 and Z350
+   - HFA group highest > sandblast (10.59 ± 2.76) > laser (8.33 ± 1.37)
+   - In Z250: HFA > sandblasting (10.31 ± 2.89) > laser (8.29 ± 2.38)
+
+4. Monolithic Zirconia (Nitasnoraset 2024, Thailand):
+   - All treated with 9.6% HFA first, then primers
+   - n=50 (10/group, 5 groups): Silane, Bonding, Silane+Bond, Superbond C&B, Silane+Superbond
+   - Highest: SiSU (silane + Superbond C&B) = 33.25 ± 4.57 MPa
+   - Lowest: bonding agent alone = 4.55 ± 0.99 MPa
+
+5. Full-contour Zirconia (Nguyen 2025, Vietnam):
+   - n=108 (12/subgroup, 9 groups): sandblasting 10s/30s/60s × silane/MDP/Universal primer
+   - Highest SBS: 30s sandblasting + Universal or MDP primers
+   - MDP and Universal primers outperformed silane at all durations
+   - Silane + 10s sandblasting = lowest SBS
+
+6. Monolithic Zirconia (Arslan 2023, Turkey):
+   - n=102 (17/subgroup, 6 groups)
+   - Silane used for all; diamond bur vs AA 50μm vs AA 110μm
+   - Packable Filtek Z250, flowable Filtek Supreme Ultra
+   - Filtek Z250 + silane + diamond bur better than Filtek Supreme Ultra + 110μm AA (2.22 MPa)
+   - Worst: flowable composite + diamond bur = 1.58 MPa
+
+7. Lithium Disilicate + Monolithic Zirconia (Çokakoğlu 2024, Turkey):
+   - n=40 (10/group, 4 groups): LD+HFA+Monobond Plus, MZ+AA+MP, LD+MEP, MZ+AA+MEP
+   - Highest: MZ + AA + MP = 14.20 ± 6.26 MPa
+   - Lowest: LD + HFA + MP = 6.02 ± 2.19 MPa
+
+8. 3D-Printed Definitive Dental Resin (Criollo-Barrios 2025, Mexico):
+   - n=72 (12/group, 6 groups): no treatment, 4% HFA, AA 50μm × TXT/SBU
+   - AA + SBU = 14.84 ± 2.24 MPa (best)
+   - AA + TXT = 10.36 ± 1.76 MPa
+   - HFA > TXT; lowest = control group
+
+9. Bis-acryl Composite (Shahin 2024, Saudi Arabia):
+   - n=120 (20/group, 6 groups)
+   - Non-thermal plasma treatment (NTPT) highest > Er:YAG (9.68 ± 2.03) > sandblasting (9.15 ± 3.29)
+   - Lowest: carbide and diamond burs
+
+Surface Roughness Assessment (5 of 9 studies):
+
+1. Lithium disilicate (Alsaud): AA highest Ra (1.20 ± 0.30 μm) > HFA > PhA; lowest = no treatment (0.24 ± 0.08 μm)
+2. Lithium disilicate (Fayyadh): Sandblasting highest Ra (1.253 ± 0.12 μm); PhA lowest Ra (0.399 ± 0.08 μm)
+3. Monolithic zirconia (Alhunayni): HFA highest Ra (0.82 μm) > AA (0.67 μm) > laser (0.63 μm)
+4. Zirconia crowns (Nguyen): Sandblasting 30s > 20s > 10s
+5. 3D-printed resin (Criollo-Barrios): AA highest (2.21 ± 0.30 μm); HFA (0.81 ± 0.20 μm); control lowest (0.07 ± 0.03 μm)
+
+Key Finding: Higher surface roughness ≠ higher bond strength (non-linear relationship)
+
+Conclusions
+
+- Etching with HFA for 1 min + Filtek Z350 composite → best results for lithium disilicate and monolithic zirconia
+- Sandblasting also effective, but HFA comparable/superior
+- HFA is corrosive — use with gingival barrier (rubber dam)
+- Increased surface roughness does not necessarily = increased bond strength
+- 3D-printed crown with prefabricated attachment: innovative alternative for prosthodontic+orthodontic cases
+- All evidence is in vitro — extrapolation to clinical settings must be cautious
+- Narrative synthesis only (meta-analysis not possible due to heterogeneity)
+- Limitations: limited studies, only 3 databases, English-only, grey literature excluded, only lithium disilicate/zirconia/3D resin/bis-acryl covered
+
+PROSPERO: CRD420251174624
