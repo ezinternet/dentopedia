@@ -14,6 +14,10 @@ source_wiki:
   - wiki/cracked-tooth/patel-2025-position-statement-longitudinal-cracks-fractures.md
   - wiki/overviews/cracked-tooth-syndrome-overview.md
 notes: |
+  2026-09-21 재검증: cracked-tooth-syndrome-overview 2026-09-21 갱신(gioti-2026·dong-2026 추가).
+  gioti-2026 — 국제 임상가 서베이, 증상성 균열치 관리 의사결정 패턴·변동성: 이 계산기의 OR 모델(진단)과 무관, 반영 대상 아님.
+  dong-2026 — 5년 코호트(n=295) + 노모그램: RCT 후 균열치 5년 생존율 89.9%; LASSO+로지스틱회귀 3인자 확인: ①치주탐침깊이(Probing Depth, PD) >5mm (OR 2.99), ②크라운 보철(OR 0.28, 보호적), ③단회 방문 RCT(연관) → 하단에 예후 보완 카드 추가.
+  Lee 2026 OR 모델(VRF 진단)과 dong-2026 노모그램(RCT 후 생존 예후)은 다른 임상 질문 — OR 수치 변경 없음.
   2026-09-09 재동기화: cracked-tooth-syndrome-overview 2026-08-31 기준 업데이트.
   추가 ①: Mun 2024 AI CNN — 파노라마 VRF 발치 적응증 예측 AUC 0.82, 민감도 90–94%·
   특이도 53–61%, screening/triage 등급으로 근거논문 표에 추가.
@@ -238,8 +242,22 @@ notes: |
     <p class="cite">근거: [[resin-bonding/corbella-2025-surgical-techniques-vertical-root-fractures-sr]] · [[overviews/cracked-tooth-syndrome-overview]] Cluster 5</p>
   </div>
 
+  <div class="warn-card">
+    <h3>📈 RCT 후 균열치 5년 예후 — Dong 2026 노모그램 (보완 프레임)</h3>
+    <p><em>이 계산기는 VRF 발생 위험(진단 보조)을 다룹니다. 아래는 VRF가 아닌 균열치에 RCT를 시행할 때의 <b>생존 예후</b> 데이터로, 별도 임상 질문입니다.</em></p>
+    <p>Dong 2026 후향적 코호트(n=295 균열치 + 만성 치수염, 비가역 치수염 → RCT): <b>5년 생존율 89.9%</b>. LASSO+이진 로지스틱 회귀로 독립 예측인자 3개 확인 — 노모그램 AUC 0.73:</p>
+    <table style="margin:10px 0; font-size:.82rem; border-collapse:collapse; width:100%;">
+      <tr style="background:#ece5f7;"><th style="padding:6px 8px; text-align:left;">예측인자</th><th style="padding:6px 8px;">OR</th><th style="padding:6px 8px;">방향</th></tr>
+      <tr><td style="padding:5px 8px;"><b>치주탐침깊이(PD) &gt;5 mm</b></td><td style="padding:5px 8px; font-weight:700; color:var(--accent);">2.99</td><td style="padding:5px 8px;">위험 증가</td></tr>
+      <tr><td style="padding:5px 8px;">크라운 보철</td><td style="padding:5px 8px; color:var(--low);">0.28</td><td style="padding:5px 8px;">보호적</td></tr>
+      <tr><td style="padding:5px 8px;">단회 방문 RCT</td><td style="padding:5px 8px; color:var(--low);">0.15</td><td style="padding:5px 8px;">보호적(복잡도 혼란 가능성)</td></tr>
+    </table>
+    <p><b>임상 함의</b>: PD &gt;5 mm는 VRF 위험(Iowa Index·이 계산기) 모두에서 불량 예후 신호로 수렴 — 두 독립 프레임에서 같은 임계값이 반복됨. 균열치 + PD &gt;5 mm는 RCT 후에도 5년 치아상실 위험이 3배, 크라운 미시행 시 72% 위험 상승. <b>발치 vs 보존 상담 시 PD 5mm 기준과 크라운 보철 계획을 반드시 포함</b>할 것.</p>
+    <p class="cite">근거: [[cracked-tooth/dong-2026-nomogram-cracked-tooth-rct-5year-survival]] (Acta Odontol Scand 2026, DOI 10.2340/aos.v85.46624) · 후향적 코호트, 단일기관(난징대학교), AUC 0.73</p>
+  </div>
+
   <div class="footnote">
-    출처: [[endodontics/shaping/lee-2026-residual-pericervical-apical-dentine-vertical]] · [[endodontics/shaping/rathke-2024-ex-vivo-minimally-invasive-endodontic]] · [[endodontics/diagnosis/alkhani-2026-optical-coherence-tomography-detection-dental]] · [[artificial-intelligence/mun-2024-deep-learning-cracked-tooth-extraction-panoramic]] · [[resin-bonding/corbella-2025-surgical-techniques-vertical-root-fractures-sr]] · [[overviews/cracked-tooth-syndrome-overview]]<br>
+    출처: [[endodontics/shaping/lee-2026-residual-pericervical-apical-dentine-vertical]] · [[endodontics/shaping/rathke-2024-ex-vivo-minimally-invasive-endodontic]] · [[endodontics/diagnosis/alkhani-2026-optical-coherence-tomography-detection-dental]] · [[artificial-intelligence/mun-2024-deep-learning-cracked-tooth-extraction-panoramic]] · [[resin-bonding/corbella-2025-surgical-techniques-vertical-root-fractures-sr]] · [[overviews/cracked-tooth-syndrome-overview]] · [[cracked-tooth/dong-2026-nomogram-cracked-tooth-rct-5year-survival]]<br>
     이 도구는 단일 근거 연구 기반 참고 자료이며 진단검사를 대체하지 않습니다. Agenda: agenda/2026-07-03_vrf-risk-calculator-interactive.md
   </div>
 </div>
