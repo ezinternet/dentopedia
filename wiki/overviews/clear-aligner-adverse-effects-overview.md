@@ -137,6 +137,11 @@ Borrowed directly from the held evidence, the consent conversation should cover:
 
 ---
 
+## Related Papers
+
+- [[orthodontics/clear-aligner/pai-2026-assessing-the-environmental-impact-of]] — life-cycle assessment of clear aligner therapy environmental footprint; plastic waste, carbon emissions per treatment cycle; sustainability implications for consent and practice decision-making (environmental-study, 2026)
+- [[orthodontics/clear-aligner/brown-2026-reducing-aligners-wear-schedule]] — RCT/clinical study on reduced aligner wear schedules (e.g., 5–7 day vs 10–14 day change intervals); treatment efficiency, patient burden, and adverse-effect profile with accelerated protocols (rct, 2026)
+
 ## Related Overviews
 
 - [[overviews/clear-aligner-indications-limitations]] — broader clear-aligner indication/limitation synthesis (efficiency, biomechanics, safety, periodontal, TMJ, OHRQoL); this overview is its **adverse-effects/consent-specific** companion
