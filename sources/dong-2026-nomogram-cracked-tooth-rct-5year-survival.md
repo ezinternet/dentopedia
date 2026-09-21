@@ -16,6 +16,22 @@ Retrospective cohort (n=295); nomogram identified probing depth >5 mm, 2-3 RCT v
 ## 한줄요약
 후향적 코호트(n=295); 탐침깊이>5mm·다회방문 RCT·크라운 보철이 5년 치아상실 독립예측인자; 5년 생존율 89.9%; 노모그램 AUC 0.73.
 
+## Three-line Summary
+
+Retrospective cohort, 295 patients (295 cracked teeth with chronic irreversible pulpitis post-RCT), single center Nanjing China 2017–2020 — developing a nomogram to predict 5-year tooth loss using LASSO-selected variables.
+
+5-year tooth survival was 89.9%; independent predictors of tooth loss were probing depth >5 mm (OR 2.99), multiple RCT visits (vs single), and lack of crown restoration; nomogram AUC was 0.73.
+
+Retrospective single-center design limits generalizability; moderate AUC (0.73) provides clinically useful stratification for borderline cases but requires prospective validation.
+
+## 세줄요약
+
+후향적 코호트, 295명 (RCT 후 균열치아·만성 비가역 치수염), 난징 단일 기관 2017–2020 — LASSO 선택 변수로 5년 치아상실 예측 노모그램 개발.
+
+5년 치아 생존율 89.9%; 치아상실 독립 예측인자: 탐침깊이 >5 mm (OR 2.99), 다회 RCT 방문, 크라운 미보철; 노모그램 AUC 0.73.
+
+단일 기관 후향적 설계로 일반화 제한; AUC 0.73은 경계 증례 분류에 유용하나 전향적 검증 필요.
+
 ## 1. Document Information
 - Journal: Acta Odontologica Scandinavica 2026;85:528–537
 - DOI: 10.2340/aos.v85.46624 | PMID: 42565287 | PMC: PMC13462994
