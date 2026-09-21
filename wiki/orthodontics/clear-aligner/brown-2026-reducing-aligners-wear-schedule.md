@@ -7,7 +7,7 @@ pmid: "42631873"
 journal: "Clinical Oral Investigations"
 volume: "30"
 issue: "9"
-source: "sources/brown-2026-reducing-aligners-wear-schedule.md"
+source: "brown-2026-reducing-aligners-wear-schedule.md"
 source_collection: pubmed-text
 full_text: false
 text_path: /Users/oracleneo/llm-wiki/papers/brown-2026-reducing-aligners-wear-schedule.txt
