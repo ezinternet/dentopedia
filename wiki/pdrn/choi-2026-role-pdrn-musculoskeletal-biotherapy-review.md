@@ -24,6 +24,22 @@ Narrative review (Int J Mol Sci 2026): PDRN exerts dual mechanism via A2A recept
 
 서술적 리뷰 (Int J Mol Sci 2026): PDRN은 A2A 수용체 효능제 + 뉴클레오타이드 재활용 기질로 이중 작용; 골관절염 연골 보호, 건 회복, 신경근증 잠재 효능 — 치과 재생 적용과 동일 기전.
 
+## Three-line Summary
+
+Narrative review, scope: osteoarthritis, tendinopathies, spinal radiculopathy — mechanistic synthesis of PDRN as biotherapy for musculoskeletal disorders with implications for dental regenerative contexts.
+
+PDRN acts via A2A receptor agonism (NF-κB suppression, TNF-α/IL-1β reduction) and nucleotide salvage pathway (cell proliferation, DNA repair), downstream driving VEGF-mediated angiogenesis and collagen synthesis.
+
+Narrative review without systematic search; dosing protocols not standardized; robust comparative RCTs against established treatments lacking; same A2AR/VEGF/collagen mechanism underpins dental socket healing, peri-implant regeneration, and soft-tissue augmentation.
+
+## 세줄요약
+
+서술적 리뷰, 범위: 골관절염·건병증·척추 신경근증 — PDRN 기전 종합, 치과 재생 적용 시사.
+
+PDRN은 A2A 수용체 효능제(NF-κB 억제, TNF-α/IL-1β 감소)와 뉴클레오타이드 재활용 기질(세포 증식, DNA 복구)로 이중 작용; VEGF 혈관신생·콜라겐 합성 유도.
+
+비체계적 서술 리뷰; 투여 프로토콜 미표준화; 기존 치료 대비 RCT 부재 — 치과 재생(발치와·임플란트주위·연조직)과 동일 기전으로 직접 적용 가능.
+
 ## Summary
 
 Choi and Yoo (Int J Mol Sci 2026) synthesize the mechanistic and clinical evidence for PDRN as a biotherapy across three musculoskeletal indications. PDRN operates through two complementary pathways: (1) adenosine A2A receptor (A2AR) agonism, which suppresses NF-κB-mediated inflammation and downregulates TNF-α and IL-1β; and (2) the nucleotide salvage pathway, which provides purines for cell proliferation and DNA repair. Downstream effects include VEGF-mediated angiogenesis and collagen synthesis, making PDRN broadly relevant to any tissue-regeneration context including dentistry. In osteoarthritis, PDRN reduces cartilage degradation and promotes chondrogenic differentiation of mesenchymal stem cells. In tendinopathies (Achilles and rotator cuff), preclinical and early clinical evidence support tissue repair. In spinal radiculopathy, PDRN offers a preliminary non-steroidal alternative. Dosing protocols remain unstandardized across indications.
