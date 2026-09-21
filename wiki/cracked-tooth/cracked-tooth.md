@@ -15,20 +15,20 @@ tags: [navigation, category-index, cracked-tooth]
 > [!summary] 한국어 핵심요약
 > - **분야**: 균열치 증후군
 > - **범위**: Cracked tooth syndrome — classification (Ellis/Baird), diagnosis, prognosis, restoration design, FEA stress analysis
-> - **수록 논문**: 27편
+> - **수록 논문**: 28편
 
 ## Three-line Summary
 
 **Scope**: Cracked tooth syndrome — classification (Ellis/Baird), diagnosis, prognosis, restoration design, FEA stress analysis
-**Indexed papers**: 27 papers in `wiki/cracked-tooth/`.
+**Indexed papers**: 28 papers in `wiki/cracked-tooth/`.
 
 ## 세줄요약
 
 **분야**: 균열치 증후군
-**수록 논문**: 27편
+**수록 논문**: 28편
 **하위 카테고리**: 없음
 
-## Papers in this Category (27)
+## Papers in this Category (28)
 
 | Paper |
 |---|
@@ -57,5 +57,6 @@ tags: [navigation, category-index, cracked-tooth]
 | [[son-2024-qlf-validity-diagnosing-cracked-teeth|Investigation of validity and inter examiner agreement of quantitative light induced fluorescent images in diagnosing cracked teeth]] |
 | [[wang-2025-crown-vs-porcelain-inlay-cracked-teeth-rct|Efficacy of total crown and porcelain inlay restoration and its effect on masticatory ability and gingival condition]] |
 | [[wu-2026-prediction-pulpal-sequelae-machine-learning-cracked|Prediction of Pulpal Sequelae in Cracked Teeth with Reversible Pulpitis using Machine Learning Models]] |
+| [[yang-2024-crack-line-location-prognosis-occlusal-veneer|The Effect of Crack Line Location on the Prognosis of Cracked Teeth After Occlusal Veneer Preparation]] |
 | [[zhang-2024-cracked-teeth-treatment-outcomes-sr-ma|The treatment outcomes of cracked teeth: A systematic review and meta-analysis]] |
 | [[zhang-2026-clinical-characteristics-prognostic-factors-cracked|Clinical characteristics and prognostic factors of cracked teeth: A retrospective cohort study]] |
