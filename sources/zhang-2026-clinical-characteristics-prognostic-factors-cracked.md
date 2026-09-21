@@ -11,13 +11,21 @@ source_collection: pubmed-abstract
 
 Large retrospective cohort (n=561) providing quantitative data on crack direction–failure associations, two critical pulpitis progression windows, and independent prognostic factors for early-stage cracked teeth. Extends [[cracked-tooth/zhang-2024-cracked-teeth-treatment-outcomes-sr-ma]] and [[cracked-tooth/dong-2026-nomogram-cracked-tooth-rct-5year-survival]] with real-world clinical epidemiology.
 
-## One-line Summary (English)
+## Three-line Summary
 
-Retrospective cohort of 561 cracked teeth identifies distal marginal ridge involvement and composite resin restoration as key failure predictors, with two critical windows (0–1 month, 3–6 months) for pulpitis progression.
+Retrospective cohort of 561 cracked teeth at Taihe Hospital identified the distal marginal ridge as the highest-risk crack location (failure rate 16.81%) and established two critical pulpitis progression windows at 0–1 month (48.97%) and 3–6 months (27.84%).
 
-## 한줄요약 (Korean)
+For early-stage cracked teeth, full-coverage crowns achieved 1-year success of 78.05% versus 50.00% for composite resin (χ²=5.676, P<0.05).
 
-561증례 후향적 코호트에서 원심변연융선 균열이 가장 높은 실패율을 보였고, 조기 개입 시 전장관(full-coverage crown)의 1년 성공률이 복합레진보다 유의하게 높았다.
+Multivariable logistic regression confirmed full-coverage crown (OR=5.57, 95%CI 1.44–21.56) and normal pulp status (OR=4.52, 95%CI 1.23–16.69) as independent protective factors for treatment success.
+
+## 세줄요약
+
+Taihe Hospital의 561증례 후향적 코호트에서 원심변연융선 균열(39.45%)이 가장 높은 실패율(16.81%)을 보였으며, 치수염 진행의 두 위험 창(0~1개월: 48.97%, 3~6개월: 27.84%)을 확인하였다.
+
+조기 균열치아에서 전장관 (Full-Coverage Crown, FCC)의 1년 성공률(78.05%)은 복합레진(50.00%)보다 유의하게 높았다 (χ²=5.676, P<0.05).
+
+다변량 분석에서 전장관(OR=5.57, 95%CI 1.44–21.56)과 정상 치수 상태(OR=4.52, 95%CI 1.23–16.69)가 독립적 보호인자로 확인되었다.
 
 ## 1. Document Information
 
