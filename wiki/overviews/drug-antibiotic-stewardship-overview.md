@@ -405,6 +405,8 @@ GRADE 확실성: 항생제의 감염 예방 효과는 **낮음**, 임플란트 �
 - [[drug/antibiotics/segura-egea-2017-antibiotics-in-endodontics-a-review]] — 근관치료 항생제 유럽 종합
 - [[drug/antibiotics/law-2026-antibiotics-after-non-surgical-root]] — 미국 PBRN 근관치료 후 처방
 - [[drug/antibiotics/momand-2024-antibiotic-prophylaxis-early-implant-failure]] — 임플란트 예방 불필요 SR+MA
+- [[drug/antibiotics/baker-2026-dentistry-amr-strategy-perspective]] — perspective: dentistry's role in national AMR strategy; frameworks for embedding stewardship into dental practice and policy (perspective, 2026)
+- [[drug/antibiotics/almadhoon-2026-antibiotic-prescribing-implant-surgery-sr-ma]] — SR+MA on antibiotic prescribing patterns for implant surgery; cross-country variability and guideline adherence gaps (sr+ma, 2026)
 - [[drug/antibiotics/dubedout-2025-antibiotic-prophylaxis-early-complications]] — 임플란트 예방 불필요 SR (이중맹검 전용·AMR 스튜어드십)
 - [[drug/antibiotics/low-2026-dental-antibiotic-prescribing-practices-singapore]] — 싱가포르 처방 실태
 - [[drug/antibiotics/nazari-2026-general-dentists-antibiotic-prescription-endodontic-shiraz]] — 이란 처방 실태
