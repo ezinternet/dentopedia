@@ -2575,6 +2575,11 @@ tags: []
 - [[cracked-tooth/kakka-2022-treatment-cracked-teeth-comprehensive-narrative]] — Kakka 2022 · narrative-review (64편, Athens+Newcastle, CEDR, PMC fulltext) · 모니터링(무증상 80% 3y 안정)·생활치 치수생존 80–93%·RCT 후 crownless 발치 11배 ↑ — 치료 결과 포괄 서술고찰, Iowa Index 제시 (DOI 10.1002/cre2.617, PMC9562569)
 - [[overviews/cracked-tooth-syndrome-overview]] — Synthesis (8편, 2026): longitudinal fracture 5-type 분류·multi-modal 진단(bite·transillumination·CBCT·QLF)·치료 tension(Kaur 2026 endo+full coverage vs 보존적 입장). 한국 적용 framework
 
+## Batch ingest (added 2026-09-21) — cracked-tooth 서베일런스 2026-09 (2편 신규)
+### cracked-tooth
+- [[cracked-tooth/dong-2026-nomogram-cracked-tooth-rct-5year-survival]] — Dong 2026 · retrospective · probing >5mm OR 2.99 · crown OR 0.28 · AUC 0.73
+- [[cracked-tooth/gioti-2026-symptomatic-cracked-tooth-management-survey]] — Gioti 2026 · cross-sectional · periodontal burden = top extraction trigger; CBCT no independent effect
+
 ## 치과 역사 (Dental History)
 - [[dental-history/jkda-2025-63-8-006]] — Historical article (Goodface Mi 치과 변웅래, JKDA 2025): 함석태(1889-?) — 첫 한국인 정규 치과대학 졸업자·등록 치과의사·한성치과의사회 창립(일본 단체 대항). 일제강점기 한국 치과 자주성 anchor
 - [[dental-history/choi-2026-opening-future-innovation-convergence-oral-health]] — Choi 2026 · narrative-review · 대한예방치과·구강보건학회장 사설로 학술지 비전과 3대 학술 방향(예방연구 확장, 인재 양성, 융합·글로벌 네트워크)을 제시 (DOI 10.11149/jkaoh.2026.50.2.55)
