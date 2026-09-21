@@ -7,7 +7,7 @@ pmid: "20369102"
 journal: "International Journal of Oral and Maxillofacial Implants"
 volume: "25"
 issue: "2"
-source: "sources/atieh-2010-immediate-placement-loading-molar-implants-sr-ma.md"
+source: "atieh-2010-immediate-placement-loading-molar-implants-sr-ma.md"
 source_collection: pubmed-abstract
 full_text: false
 text_path: /Users/oracleneo/llm-wiki/papers/atieh-2010-immediate-placement-loading-molar-implants-sr-ma.txt
