@@ -19,6 +19,22 @@ SR+MA (J Evid Based Dent Pract 2026): 18 RCTs (828 patients); adjunctive melaton
 ## 한줄요약
 SR+MA (J Evid Based Dent Pract 2026): 18 RCTs (828명); 멜라토닌 보조 NSPT, CAL 2–6개월·PPD 2–3개월에서 유의하게 개선; 그러나 넓은 예측구간으로 임상 일관성 제한.
 
+## Three-line Summary
+
+SR+MA, 18 RCTs (828 patients), 7 databases through April 2025 — melatonin as adjunct to nonsurgical periodontal therapy in periodontitis patients.
+
+Adjunctive melatonin significantly improved CAL at 2 months (MD −1.48 mm), 3 months (MD −0.41 mm), and 6 months (MD −0.68 mm); PPD reduced at 2 and 3 months; HbA1c improved in diabetic subgroup at 2 months (MD −1.33%).
+
+Wide prediction intervals crossing null at all timepoints indicate substantial heterogeneity; clinical benefit may not be consistent across populations despite statistically significant pooled effects.
+
+## 세줄요약
+
+SR+MA, 18편 RCT (828명), 7개 데이터베이스 2025년 4월까지 — 치주염 환자 NSPT 보조 멜라토닌 효능 종합.
+
+멜라토닌 보조 NSPT는 CAL을 2개월(MD −1.48 mm)·3개월·6개월에 유의하게 개선; PPD는 2–3개월에 감소; 당뇨 환자 HbA1c 2개월 시점 MD −1.33% 개선.
+
+모든 시점에서 예측구간이 영가설을 포함하는 이질성 확인 — 통계적 유의성에도 임상 일관성 제한.
+
 ## 1. Document Information
 - Journal: Journal of Evidence-Based Dental Practice, 2026. DOI: 10.1016/j.jebdp.2026.102270
 - PMID: 42556907
