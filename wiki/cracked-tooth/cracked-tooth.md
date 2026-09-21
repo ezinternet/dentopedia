@@ -15,24 +15,25 @@ tags: [navigation, category-index, cracked-tooth]
 > [!summary] 한국어 핵심요약
 > - **분야**: 균열치 증후군
 > - **범위**: Cracked tooth syndrome — classification (Ellis/Baird), diagnosis, prognosis, restoration design, FEA stress analysis
-> - **수록 논문**: 25편
+> - **수록 논문**: 26편
 
 ## Three-line Summary
 
 **Scope**: Cracked tooth syndrome — classification (Ellis/Baird), diagnosis, prognosis, restoration design, FEA stress analysis
-**Indexed papers**: 25 papers in `wiki/cracked-tooth/`.
+**Indexed papers**: 26 papers in `wiki/cracked-tooth/`.
 
 ## 세줄요약
 
 **분야**: 균열치 증후군
-**수록 논문**: 25편
+**수록 논문**: 26편
 **하위 카테고리**: 없음
 
-## Papers in this Category (25)
+## Papers in this Category (26)
 
 | Paper |
 |---|
 | [[chan-2025-survival-endodontically-treated-cracked-teeth|Survival of Endodontically Treated Cracked Teeth: A 10- to 15-Year Retrospective Study]] |
+| [[deng-2026-occlusal-morphology-cracked-teeth-3d-morphometric|Association of Occlusal Morphology with Cracked Teeth: A 3D Morphometric Comparative Clinical Study]] |
 | [[dong-2026-nomogram-cracked-tooth-rct-5year-survival|Nomogram for 5-Year Tooth-Loss Prediction After RCT in Cracked Teeth with Irreversible Pulpitis]] |
 | [[ferracane-2023-cracked-tooth-registry-3year-network|Lessons Learned from the Cracked Tooth Registry – a Three-year Clinical Study in the Nation's Network]] |
 | [[fiyaz-ghani-2025-cracked-teeth-external-splinting-pulp-survival|Pulp Survival of Cracked Teeth with Normal Pulp or Reversible Pulpitis After External Splinting: A Systematic Review and Meta Analysis]] |
