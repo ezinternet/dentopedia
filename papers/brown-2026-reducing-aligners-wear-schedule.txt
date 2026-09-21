@@ -1,0 +1,30 @@
+TITLE: Impact of reducing aligners' wear schedule from 7-days to 3-days on the predictability of tooth movement and treatment efficiency: a randomized controlled trial.
+
+AUTHORS: Brown A, Rifai M, Saadatmand K, Zhong K, Kuo CL, Uribe F, Dolce C, Abu Arqub S
+
+JOURNAL: Clinical Oral Investigations. 2026;30(9)
+
+DOI: 10.1007/s00784-026-07088-z
+PMID: 42631873
+PUBLICATION DATE: 2026-08-22
+
+ABSTRACT:
+This was a two-arm, parallel-group, single-blinded, single-center prospective randomized controlled trial conducted between October 2023 and March 2025.
+
+Thirty-eight adults aged 18-30 years with Class I malocclusion and moderate-to-severe mandibular anterior crowding were included, recruited from a university orthodontic clinic. Forty-five participants were initially randomized; seven were excluded due to non-compliance.
+
+Participants were randomly assigned to a 3-day aligner wear protocol with reduced activation (0.11 mm/1° per tray) or a conventional 7-day protocol (0.25 mm/2° per tray).
+
+To evaluate the impact of reducing the aligner wear schedule from 7 days to 3 days on the predictability of linear and angular tooth movements for the mandibular incisors.
+
+The primary outcome was the deviation between predicted and achieved mandibular incisors' tooth movement following the first aligner series, assessed across three linear and three angular dimensions.
+
+Participants were allocated using fixed block randomization with concealed sequentially numbered envelopes.
+
+Outcome assessors were blinded to group allocation.
+
+Linear deviations were comparable between groups and within the 0.5 mm ABO clinical threshold. Statistically significant angular deviations were observed for teeth 31 (p = 0.040) and 41 (p = 0.003), with additional significant buccolingual inclination for tooth 41 (p = 0.005); none exceeded the 2° clinical threshold. The 3-day group required significantly more refinement and clinical visits. No significant differences were observed in overall treatment duration or final occlusal outcomes. No adverse effects were reported.
+
+While both protocols produced comparable occlusal outcomes, the 3-day protocol required more refinements and visits without improved predictability, suggesting wear duration plays a key role in aligner effectiveness.
+
+KEYWORDS: Clear aligners, Clinical outcomes, Predictability, Wear schedule
