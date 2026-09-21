@@ -16,6 +16,22 @@ RCT (IEJ 2026): 120 teeth with infected canals and apical periodontitis; Ortho M
 ## 한줄요약
 RCT (IEJ 2026): 감염근관 120치(근단 주위염 동반); Ortho MTA III vs GP+AH Plus; 30개월 추적 결과 성공률 비교 가능(완화 기준 88.24% vs 83.02%).
 
+## Three-line Summary
+
+Parallel-arm RCT, 120 teeth with infected root canals and apical periodontitis, 30-month median follow-up — comparing Ortho MTA III (bioceramic sealer) vs gutta-percha with AH Plus for orthograde obturation.
+
+Success rates were comparable between Ortho MTA III and GP+AH Plus under both loose (88.24% vs 83.02%) and strict (64.71% vs 58.49%) criteria; no statistically significant difference; age, larger periapical lesion, and higher PAI score predicted failure.
+
+Single-center study; wide gap between loose and strict success criteria (88% vs 65%) indicates ongoing incomplete healing in many cases; longer follow-up needed.
+
+## 세줄요약
+
+평행군 RCT, 감염근관 120치 (근단 주위염 동반), 30개월 중앙 추적 — Ortho MTA III (바이오세라믹 실러) vs GP+AH Plus 근관 폐쇄 비교.
+
+완화 기준 성공률 Ortho MTA III 88.24% vs GP+AH Plus 83.02%; 엄격 기준 64.71% vs 58.49%; 두 방법 간 유의차 없음; 고령·큰 근단 병소·높은 PAI가 실패 예측인자.
+
+단일 기관; 완화/엄격 기준 간 큰 격차 (88% vs 65%)는 많은 증례에서 불완전 치유 진행 중임을 시사 — 장기 추적 필요.
+
 ## 1. Document Information
 - Journal: International Endodontic Journal (IEJ), 2026. DOI: 10.1111/iej.70248
 - PMID: 42591012
