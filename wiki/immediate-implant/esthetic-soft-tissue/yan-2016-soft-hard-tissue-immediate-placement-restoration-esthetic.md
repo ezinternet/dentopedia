@@ -7,7 +7,7 @@ pmid: "27861657"
 journal: "International Journal of Oral and Maxillofacial Implants"
 volume: "31"
 issue: "6"
-source: "sources/yan-2016-soft-hard-tissue-immediate-placement-restoration-esthetic.md"
+source: "yan-2016-soft-hard-tissue-immediate-placement-restoration-esthetic.md"
 source_collection: pubmed-abstract
 full_text: false
 text_path: /Users/oracleneo/llm-wiki/papers/yan-2016-soft-hard-tissue-immediate-placement-restoration-esthetic.txt
