@@ -322,3 +322,17 @@ Found by manual PDF discovery (not the original scout search), 2026-07-25 — sa
       "Clinical and radiographic evaluation of natural bovine bone with hyaluronic acid on osseointegration of immediate implants: a randomized clinical study" — Scientific reports
 - [x] PMID 42464273 | RCT | OA:PMC PMC13422306 (CC BY 4.0) | implant-iip-loading | edat 2026/07/17
       "Implant stability following septal expansion in immediate mandibular molars: a pilot randomized clinical trial comparing piezoelectric surgery and osseodensification" — BMC Oral Health
+- [x] PMID 42709287 | SR | OA:PMC PMC13554008 (unknown) | clear-aligner | edat 2026/09/08
+      "Ageing effects on chemical, physical, mechanical, and morphological properties of clear aligners - a systematic review." — Prog Orthod
+- [x] PMID 42707376 | SR | OA:PMC PMC13547079 (unknown) | clear-aligner | edat 2026/08/24
+      "Assessing the environmental impact of clear aligner therapy: a scoping review." — Front Dent Med
+- [x] PMID 42631873 | RCT | OA:none | clear-aligner | edat 2026/08/22
+      "Impact of reducing aligners' wear schedule from 7-days to 3-days on the predictability of tooth movement and treatment efficiency: a randomized controlled trial." — Clin Oral Investig
+- [x] PMID 42582325 | SR | OA:PMC PMC13457311 (unknown) | clear-aligner | edat 2026/07/28
+      "Evaluation of bonding of clear aligner attachments on aesthetic crown materials: a systematic review of studies." — Front Dent Med
+- [x] PMID 42675477 | SR | OA:PMC PMC13528175 (unknown) | clear-aligner | edat 2026/07/24
+      "Clear aligner therapy for adult anterior open bite: a systematic review, descriptive evidence map, and certainty appraisal of reported dentoskeletal changes." — BMC Oral Health
+- [x] PMID 42641088 | SR | OA:none | clear-aligner | edat 2026/08/25
+      "Clinical outcomes of clear aligners in growing children: An umbrella review." — J Indian Soc Pedod Prev Dent
+- [x] PMID 42734614 | SR | OA:none | clear-aligner | edat 2026/07/01
+      "Clinical efficacy of aligners with mandibular advancement in treatment of Class II malocclusions compared to conventional functional appliances: A systematic review." — Stomatologija
