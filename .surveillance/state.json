@@ -111,7 +111,7 @@
         "SR",
         "MA"
       ],
-      "last_run_edat": "2026/07/14"
+      "last_run_edat": "2026/09/21"
     },
     "antibiotic-dental": {
       "query": "(amoxicillin[tiab] OR clindamycin[tiab] OR metronidazole[tiab] OR azithromycin[tiab] OR doxycycline[tiab] OR \"antibiotic prophylaxis\"[tiab] OR \"antibiotic stewardship\"[tiab] OR \"antimicrobial resistance\"[tiab] OR \"antibiotic prescribing\"[tiab] OR \"antibiotic therapy\"[tiab]) AND (dental[tiab] OR dentistry[tiab] OR odontogenic[tiab] OR \"oral infection\"[tiab] OR \"tooth extraction\"[tiab] OR endodontic[tiab] OR periodontal[tiab] OR \"implant surgery\"[tiab])",
