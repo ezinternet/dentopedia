@@ -15,20 +15,20 @@ tags: [navigation, category-index, cracked-tooth]
 > [!summary] 한국어 핵심요약
 > - **분야**: 균열치 증후군
 > - **범위**: Cracked tooth syndrome — classification (Ellis/Baird), diagnosis, prognosis, restoration design, FEA stress analysis
-> - **수록 논문**: 28편
+> - **수록 논문**: 29편
 
 ## Three-line Summary
 
 **Scope**: Cracked tooth syndrome — classification (Ellis/Baird), diagnosis, prognosis, restoration design, FEA stress analysis
-**Indexed papers**: 28 papers in `wiki/cracked-tooth/`.
+**Indexed papers**: 29 papers in `wiki/cracked-tooth/`.
 
 ## 세줄요약
 
 **분야**: 균열치 증후군
-**수록 논문**: 28편
+**수록 논문**: 29편
 **하위 카테고리**: 없음
 
-## Papers in this Category (28)
+## Papers in this Category (29)
 
 | Paper |
 |---|
@@ -51,6 +51,7 @@ tags: [navigation, category-index, cracked-tooth]
 | [[liu-2025-restorative-design-materials-stress-cracked-teeth-fea|Effect of different restorative design and materials on stress distribution in cracked teeth: a finite element analysis study]] |
 | [[malentacca-2026-cuspal-coverage-direct-resin-composite-cracked|Cuspal Coverage Direct Resin Composite Restorations for Cracked Teeth: A Five-Year Clinical Study]] |
 | [[patel-2025-position-statement-longitudinal-cracks-fractures|Position statement on longitudinal cracks and fractures of teeth]] |
+| [[pryles-2025-preventive-endodontics-crack-development-tooth-loss|Preventive Endodontics: Understanding Crack Development and Preventing Tooth Loss]] |
 | [[raj-2025-cracked-tooth-syndrome-diagnostic-dilemma|Cracked tooth syndrome: a diagnostic dilemma - a mini review]] |
 | [[renner-2025-cracks-posterior-teeth-symptoms-cross-sectional|Characteristics of cracks in posterior teeth and factors associated with symptoms: a cross-sectional practice-based observational study]] |
 | [[soares-de-toubes-2025-biodentine-intraorifice-barrier-cracked-tooth|Efficacy of Biodentine as an Intraorifice Barrier in a Cracked Tooth with Endo-periodontal Lesions: A Case Report]] |
