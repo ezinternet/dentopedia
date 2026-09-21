@@ -34,7 +34,7 @@
         "SR",
         "MA"
       ],
-      "last_run_edat": "2026/07/14"
+      "last_run_edat": "2026/09/21"
     },
     "toothpick-method": {
       "query": "(\"toothpick method\"[tiab] OR \"Watanabe method\"[tiab] OR \"toothpick technique\"[tiab]) AND (toothbrush*[tiab] OR toothbrushing[tiab] OR plaque[tiab] OR gingiv*[tiab] OR periodont*[tiab] OR \"oral hygiene\"[tiab] OR dental[tiab] OR \"peri-implant\"[tiab])",
@@ -170,7 +170,7 @@
         "SR",
         "MA"
       ],
-      "last_run_edat": "2026/07/14"
+      "last_run_edat": "2026/09/21"
     },
     "pediatric-dentistry": {
       "query": "(\"primary teeth\"[tiab] OR \"primary molar\"[tiab] OR \"primary molars\"[tiab] OR \"deciduous teeth\"[tiab] OR pulpotomy[tiab] OR \"Hall technique\"[tiab] OR \"stainless steel crown\"[tiab] OR \"paediatric dentistry\"[tiab] OR \"pediatric dentistry\"[tiab])",
@@ -564,6 +564,13 @@
     "42437817",
     "42464273",
     "42562852",
+    "42582325",
+    "42631873",
+    "42641088",
+    "42675477",
+    "42707376",
+    "42709287",
+    "42734614",
     "4922343",
     "5292225",
     "6078744",
