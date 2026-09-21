@@ -321,6 +321,10 @@ Cluster 3의 합의("cuspal coverage는 standard")는 *무엇으로* 덮을지�
 - [[cracked-tooth/raj-2025-cracked-tooth-syndrome-diagnostic-dilemma]] — Longitudinal fracture 5-type 분류
 - [[cracked-tooth/kakka-2022-treatment-cracked-teeth-comprehensive-narrative]] — 포괄 서술고찰 (64편, PMC): 치수생존 80–93%·RCT 후 크라운 無=발치 11배·Iowa Index·모니터링 정량화(23%↓ vs 10%↑)
 
+### Evidence updates (2026)
+- [[cracked-tooth/gioti-2026-symptomatic-cracked-tooth-management-survey]] — international clinician survey on management of symptomatic cracked teeth: treatment-decision patterns, inter-clinician variability, and prognostic factor weighting (survey, 2026)
+- [[cracked-tooth/dong-2026-nomogram-cracked-tooth-rct-5year-survival]] — 5-year prospective cohort with validated nomogram predicting tooth survival after RCT + cuspal coverage in cracked teeth; tooth type, crack extension depth, and periodontal pocket depth as key predictors (prospective, 2026)
+
 ### Korean JKDA cluster (3편, 균열치 특집)
 - [[cracked-tooth/jkda-2024-62-1-003]] — Kim & Shin: 진단의 한계·multi-modal framework
 - [[cracked-tooth/jkda-2024-62-1-004]] — Son: QLF 적용 review
