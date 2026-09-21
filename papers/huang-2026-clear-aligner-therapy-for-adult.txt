@@ -1,0 +1,143 @@
+Title: Clear aligner therapy for adult anterior open bite: a systematic review, descriptive evidence map, and certainty appraisal of reported dentoskeletal changes.
+Authors: Huang X, Lei M, Liao J, Huang Z, Zhao Z, Cen X
+Journal: BMC Oral Health
+Year: 2026
+DOI: 10.1186/s12903-026-09379-z
+PMID: 42675477
+PMCID: PMC13528175
+
+=== ABSTRACT ===
+
+Background
+
+Clear aligner therapy is increasingly used for adult anterior open-bite correction, but the certainty of evidence, reported dentoskeletal changes, and clinical boundaries of this approach remain unclear. This systematic review aimed to summarize overbite change and descriptively map the dentoskeletal findings reported in the current clinical literature.
+
+Methods
+
+This systematic review was conducted according to PRISMA. PubMed, EMBASE, Scopus, and the Cochrane Library were searched. Reference lists of included studies and relevant reviews were also checked, but no additional eligible records were identified. Eligible studies evaluated adult or predominantly adult cohorts with anterior open bite treated with clear aligners and reported overbite change or dentoskeletal outcomes. Risk of bias was assessed using ROBINS-I and RoB 2. Reported dentoskeletal findings were classified as direct, indirect, or insufficient evidence for mechanistic interpretation. Exploratory single-arm random-effects meta-analyses were performed when extractable completed-treatment data were available. Certainty of evidence was appraised using GRADE principles.
+
+Results
+
+Ten clinical studies involving 421 aligner-treated participants were included. Most studies were retrospective and nonrandomized, and nine had serious overall risk of bias. The primary exploratory synthesis of five completed-treatment cohorts showed a pooled overbite increase of 3.07 mm, while an extended sensitivity analysis of seven studies yielded 2.89 mm. Heterogeneity was substantial. Reported dentoskeletal changes most commonly involved anterior dentoalveolar changes, variable posterior vertical change, and limited mandibular plane change. Most studies were not designed to test mechanisms directly; therefore, the dentoskeletal findings were interpreted cautiously. The certainty of evidence was very low.
+
+Conclusions
+
+Very low-certainty evidence suggests that selected adult anterior open-bite cases treated with clear aligners may show overbite improvement. However, the available evidence is insufficient to confirm predictable skeletal correction or to validate a single mechanism of bite closure. Future studies should use prospective comparative designs, standardized anterior open-bite phenotyping, direct component-level outcome assessment, blinded evaluation, and long-term retention endpoints.
+
+Trial Registration: CRD420261376480
+
+=== FULL TEXT ===
+
+Introduction
+
+Anterior open bite is a challenging vertical malocclusion because its diagnosis, treatment planning, and retention are influenced by multiple interacting factors, including skeletal divergence, dentoalveolar compensation, oral habits, airway or soft-tissue influences, and neuromuscular function. In adults, treatment may be further complicated by the absence of remaining growth potential. Clinical management therefore depends on the severity and phenotype of the open bite, ranging from dentoalveolar camouflage and posterior vertical control to skeletal anchorage-assisted intrusion or orthognathic surgery in more severe skeletal cases. For clear aligner therapy, a central clinical uncertainty is how reported overbite improvement should be interpreted: as dental compensation, posterior vertical control, mandibular autorotation, skeletal correction, or a combination of these changes.
+
+Clear aligner therapy has become increasingly used in adult orthodontics because of its esthetic and removable characteristics. In the context of anterior open-bite correction, aligners may offer several theoretical advantages, including occlusal coverage of the posterior teeth, programmed anterior extrusion, attachment-assisted tooth movement, and the possibility of integrating elastics or staged vertical control into the digital treatment plan. However, movement predictability remains variable. Extrusion is generally considered one of the less predictable aligner movements, and the extent to which posterior vertical control translates into clinically meaningful molar intrusion or mandibular autorotation remains uncertain.
+
+Several clinical studies have reported anterior open-bite correction with clear aligners in adult or predominantly adult cohorts. These studies collectively suggest that overbite improvement may be achievable in selected patients, but they do not describe a uniform biological or biomechanical mechanism. Some investigations emphasize incisor extrusion and incisor inclination changes, others report limited molar intrusion or posterior vertical control, and comparative studies suggest that aligner-based correction may differ from skeletal anchorage-assisted posterior intrusion. Therefore, the clinical meaning of a pooled overbite increase cannot be interpreted from the millimetric value alone; the same amount of bite closure may reflect different combinations of anterior dentoalveolar compensation, posterior vertical change, and mandibular autorotation.
+
+A recent systematic review and meta-analysis quantified the efficacy of clear aligner therapy for adult anterior open-bite correction and reported an average overbite improvement of approximately 2.76 mm. While this finding supports the clinical effectiveness of aligners in selected cases, a purely efficacy-focused interpretation leaves several clinically important questions unresolved.
+
+Accordingly, this review was designed not as a mechanistic validation study, but as an evidence map and certainty appraisal of the current clinical literature. The primary objective was to summarize the available evidence on overbite change and reported dentoskeletal treatment effects in adult anterior open-bite patients treated with clear aligners. The secondary objective was to evaluate how confidently these findings can be interpreted in light of study design, risk of bias, heterogeneity, cephalometric measurement limitations, and contextual evidence from adjacent studies on vertical control and skeletal anchorage.
+
+Materials and Methods
+
+Protocol and reporting standards
+
+This systematic review was conducted according to PRISMA. The protocol was registered in PROSPERO (registration number: CRD420261376480). Searches of PubMed, EMBASE, Scopus, and the Cochrane Library were performed for studies published from January 2010 to April 30, 2026.
+
+Eligibility criteria (PICOS):
+- Population: Adult or predominantly adult patients with anterior open bite
+- Intervention: Clear aligner therapy used as the primary orthodontic modality
+- Comparator: No comparator, fixed appliances, skeletal anchorage-assisted posterior intrusion, or other orthodontic modalities when the clear aligner arm was separable
+- Outcomes: Overbite change, incisor extrusion or inclination change, molar intrusion or posterior vertical change, mandibular plane angle, mandibular autorotation, treatment duration, stability, or adverse effects when reported
+- Study design: Randomized controlled trials, nonrandomized clinical studies, retrospective cohorts, and comparative studies with extractable or clinically interpretable data
+
+Risk of bias: Nonrandomized studies assessed using ROBINS-I; randomized trial assessed using RoB 2.
+
+Evidence mapping: Reported dentoskeletal findings classified as direct, indirect, or insufficient for mechanistic interpretation.
+
+Certainty of evidence: Appraised using GRADE principles.
+
+Results
+
+Study Selection
+
+252 records identified. After removing 121 duplicates, 131 screened. 10 clinical studies ultimately included involving 421 aligner-treated participants.
+
+Included Studies (chronological):
+1. Moshiri et al. 2017 - 30 adults, mild AOB, nonextraction Invisalign, 21.0 mo
+2. Garnett et al. 2019 - 36 clear aligner / 17 fixed appliance, adult hyperdivergent AOB, 19.2 mo
+3. Harris et al. 2020 - 45 adults, AOB with clear aligners, 14.04 mo
+4. Suh et al. 2022 - 69 adults, nonextraction AOB, 16.8 mo
+5. Steele et al. 2022 - 29 clear aligner / 24 miniplate-supported intrusion, adult AOB
+6. Burashed 2023 - 44 optimized attachment / 42 conventional attachment with Invisalign
+7. Withayanukonkij et al. 2023 - RCT: 20 clear aligner + squeezing vs 20 fixed + miniscrew intrusion, 6-mo interim
+8. Chamberland and Nataf 2024 - 16 clear aligner / 18 TAD-based intrusion, mild AOB
+9. Karalikkattil et al. 2024 - 50 patients, Invisalign for open bite, 18.2 mo
+10. Arwa et al. 2025 - 40 patients, CBCT-based, Invisalign, 29.0 mo
+
+Exploratory Quantitative Synthesis:
+
+Primary analysis (5 studies, n=206):
+- Pooled overbite increase: 3.07 mm (95% CI: 2.46 to 3.69 mm)
+- I² = 93% (substantial heterogeneity)
+
+Extended sensitivity analysis (7 studies, n=322):
+- Pooled overbite increase: 2.89 mm (95% CI: 2.21 to 3.57 mm)
+- I² = 96%
+
+Individual study data (primary synthesis):
+- Garnett et al. 2019: n=36, mean=2.28 mm, SD=1.55
+- Harris et al. 2020: n=45, mean=3.27 mm, SD=1.09
+- Suh et al. 2022: n=69, mean=3.30 mm, SD=1.40
+- Chamberland and Nataf 2024: n=16, mean=2.33 mm, SD=0.56
+- Arwa et al. 2025: n=40, mean=4.26 mm, SD=1.82
+
+Extended sensitivity adds:
+- Moshiri et al. 2017: n=30, mean=3.40 mm, SD=1.40
+- Burashed 2023: n=86, mean=1.50 mm, SD=1.20
+
+Descriptive Evidence Map of Dentoskeletal Changes:
+
+Anterior dentoalveolar changes: Most consistently reported — incisor extrusion and/or retroclination across multiple studies
+Posterior vertical change: Variable and protocol-dependent — some molar intrusion reported but not uniform
+Mandibular autorotation: Reported in subset of studies as secondary response; small magnitude
+Mandibular plane angle: Reduction reported in some studies, especially skeletal AOB phenotypes
+
+Comparative context:
+- Steele et al. 2022: CAT vs miniplate-supported intrusion — different mechanisms
+- Chamberland and Nataf 2024: CAT vs TAD-based double-arch intrusion — TAD produced more posterior intrusion and mandibular rotation
+- Withayanukonkij et al. 2023: CAT vs fixed + miniscrew intrusion (6-mo only)
+
+Certainty of Evidence (GRADE):
+- Overbite increase: Very low
+- Incisor extrusion/inclination change: Very low
+- Molar intrusion/posterior vertical control: Very low
+- Mandibular autorotation/plane change: Very low
+- Predictable skeletal correction: Very low
+
+Risk of Bias:
+- 9/10 nonrandomized studies: Serious overall risk of bias (ROBINS-I)
+- 1 RCT: Some concerns (RoB 2)
+- Main concerns: confounding, participant selection, deviations from intended interventions
+
+Discussion Key Points:
+
+1. The pooled 3.07 mm overbite increase is close to the previously reported 2.76 mm from an efficacy-focused SR. However, it should be interpreted as a descriptive estimate from selected cohorts, not a reliable prediction of individual response.
+
+2. The same numerical overbite change may represent different combinations of: anterior extrusion, posterior vertical control, incisor retroclination, or mandibular counterclockwise autorotation.
+
+3. Anterior dentoalveolar compensation was the most consistently reported pathway. Extrusion is one of the less predictable aligner movements.
+
+4. Posterior vertical control was possible but protocol-dependent; should not be overstated (contextual evidence: Rask et al. did not support claim that clear aligners provide better vertical dimension control than fixed appliances).
+
+5. Mandibular autorotation was secondary and limited in magnitude for adults without skeletal anchorage.
+
+6. CAT and TAD/miniplate-supported intrusion are not mechanistically equivalent — they should not be compared as achieving the same treatment pathway.
+
+7. Case selection critical: dentoalveolar compensation may be appropriate for mild-to-moderate adult AOB; severe skeletal AOB may require more direct skeletal correction.
+
+Conclusions:
+
+Very low-certainty evidence indicates an average observed overbite increase of approximately 3 mm in selected adult anterior open-bite cohorts treated with clear aligners. Reported dentoskeletal changes are more consistent with dentoalveolar compensation than with predictable skeletal correction. Future studies should use prospective comparative designs, standardized anterior open-bite phenotyping, direct component-level outcome assessment, blinded cephalometric or 3D evaluation, and long-term retention endpoints.
