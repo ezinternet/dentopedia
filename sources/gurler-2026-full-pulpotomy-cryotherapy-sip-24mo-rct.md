@@ -16,6 +16,22 @@ RCT (COIR 2026): 62 patients, SIP permanent molars; full pulpotomy ± adjunctive
 ## 한줄요약
 RCT (COIR 2026): 62명, 증상성 비가역 치수염 영구 구치부; 전체 치수절제술 ± 냉각요법; 24개월 성공률 92.9% vs 92.3% — 냉각요법 추가 효과 없음.
 
+## Three-line Summary
+
+Parallel-arm RCT, 62 patients, symptomatic irreversible pulpitis in permanent molars, single center — comparing full pulpotomy with and without adjunctive intracanal cryotherapy over 24 months.
+
+24-month clinical and radiographic success rates were comparable between cryotherapy and no-cryotherapy groups (92.9% vs 92.3% per-protocol); no statistically significant difference; both groups demonstrated high success for full pulpotomy in SIP.
+
+Single center, 24-month follow-up still limited for VPT longevity assessment; approximately 31 patients per arm powers equivalence but not superiority testing; 5-year data needed.
+
+## 세줄요약
+
+평행군 RCT, 62명, 증상성 비가역 치수염 영구 구치부, 단일 기관 — 전체 치수절제술 ± 근관 내 냉각요법 24개월 비교.
+
+24개월 임상·방사선 성공률 냉각요법 vs 무냉각 동등 (92.9% vs 92.3%, per-protocol); 두 군 모두 SIP에서 높은 성공률 확인.
+
+단일 기관; 24개월 추적이 VPT 내구성 평가에 여전히 짧음; 5년 데이터 필요.
+
 ## 1. Document Information
 - Journal: Clinical Oral Investigations (COIR), 2026. DOI: 10.1007/s00784-026-07062-9
 - PMID: 42565862
