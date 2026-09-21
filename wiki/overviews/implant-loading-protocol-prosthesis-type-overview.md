@@ -122,6 +122,7 @@ Clinical bottom line: prosthesis configuration and primary stability — not loa
 - [[overviews/implant-occlusion-loading-biomechanics-overview]] — 부하 후 교합 설계(하류)
 - [[overviews/immediate-implant-decision-ladder]] — 즉시식립 적응증
 - [[overviews/type-1a-immediate-placement-immediate-loading-decision]] — Type 1A 즉시식립+즉시부하
+- [[implants/pachiou-2026-immediate-loading-single-implants-ma]] — MA on immediate loading of single implants; pooled survival and MBL compared to conventional loading, updated evidence base (ma, 2026)
 
 확신도 등급:
 - 단관 즉시부하(안정성 충족) = [확인] (Benic SR+MA)
