@@ -4,7 +4,7 @@ authors: Malentacca A, Rupe C, Zaccheo F, Lajolo C
 year: 2026
 date: 2026-06-08
 doi: 10.2341/24-172-C
-source: sources/malentacca-2026-cuspal-coverage-direct-resin-composite-cracked.md
+source: malentacca-2026-cuspal-coverage-direct-resin-composite-cracked.md
 category:
   - cracked-tooth
 evidence_level: retrospective
