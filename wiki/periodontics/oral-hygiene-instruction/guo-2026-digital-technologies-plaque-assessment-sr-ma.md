@@ -24,6 +24,22 @@ SR+MA (J Evid Based Dent Pract 2026; 47 studies, 16 in meta-analysis): digital t
 
 SR+MA (J Evid Based Dent Pract 2026): 디지털 치태 평가 기술 상관 r=0.77; AI r=0.87, 3D IOS ρ=0.91; 착색제 사용 시 r 0.53→0.81 — 강한 상관이나 근거 매우 낮음(I²>98%).
 
+## Three-line Summary
+
+SR+MA of correlation coefficients, 47 qualitative studies (16 in meta-analysis), multiple databases — evaluating how well digital plaque assessment technologies correlate with conventional reference methods.
+
+Pooled Pearson r=0.77; AI-aided r=0.87; 3D intraoral scanners ρ=0.91; use of disclosing agents raised correlation from r=0.53 to 0.81, highlighting their continued importance even in digital workflows.
+
+Extreme heterogeneity (I²>98%) and very high risk of bias (96% of studies) led to GRADE very low certainty — strong associations observed but insufficient to recommend specific digital platforms for clinical adoption.
+
+## 세줄요약
+
+SR+MA (상관 계수), 47편 정성 (16편 메타분석), 복수 데이터베이스 — 디지털 치태 평가 기술과 기준법 상관 강도 종합.
+
+전체 디지털 기술 r=0.77; AI r=0.87; 3D IOS ρ=0.91; 착색제 사용 시 r 0.53→0.81 — 디지털 워크플로에서도 착색제의 가치 확인.
+
+I²>98%·96% 고위험 비뚤림으로 GRADE 근거 수준 매우 낮음 — 강한 상관에도 특정 플랫폼 임상 권고 불가.
+
 ## Summary
 
 Guo et al. (J Evid Based Dent Pract 2026) conducted the first SR+MA examining how well digital plaque assessment technologies correlate with conventional reference methods (disclosed plaque indices). From 4981 records, 47 studies were included qualitatively and 16 in meta-analysis. Pooled correlation was strong (Pearson r=0.77, Spearman ρ=0.76). Subgroup analyses found AI-aided technologies performed best (r=0.87) and 3D intraoral scanners showed the strongest overall correlation (ρ=0.91). Use of disclosing agents markedly improved associations (r without agent=0.53 vs with=0.81), suggesting disclosing remains important even for digital workflows. Despite these promising findings, extreme heterogeneity (I²>98%) and very high risk of bias (96% of studies) led to a GRADE very low certainty rating — insufficient to provide definitive clinical recommendations.
