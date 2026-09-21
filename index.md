@@ -4488,3 +4488,12 @@ tags: []
 - [[drug/antibiotics/almadhoon-2026-antibiotic-prescribing-implant-surgery-sr-ma]] — Almadhoon 2026 · sr+ma (39편·치과의사 7266명·환자 137,207명) · 임플란트 수술 일상 항생제 처방 유병률 61.3%; 가이드라인 준수율 1–28% + 감소 추세; 술후 5–7일 요법 주류이나 단회 술전 대비 이득 없음 (DOI 10.1016/j.jdsr.2026.07.001)
 - [[drug/antibiotics/baker-2026-dentistry-amr-strategy-perspective]] — Baker 2026 · narrative-review (mBio) · 치과의사 전 세계 항생제 처방 ~10%; 치과가 AMR 국가행동계획 밖 "blind spot" → 4가지 전략 제안: 통합 지침·NAP 통합·교육·구강 레지스톰 감시 (DOI 10.1128/mbio.00647-26)
 - [[drug/antibiotics/ceccon-chianca-2026-oral-streptococci-ie-prophylaxis-resistance]] — Ceccon Chianca 2026 · in-vitro (in silico, 258균주) · IE 예방: 구강 연쇄구균 아목시실린 내성 0%; 아지스로마이신 24.88%·독시사이클린 16.59% 예측 내성 — 1차 요법 안전, 페니실린 알러지 대체약 재검토 필요 (DOI 10.1093/jac/dkag320)
+
+## Batch ingest (added 2026-09-21) — 투명교정 서베일런스 2026-09 (5편 신규, 2편 기존중복)
+
+### orthodontics/clear-aligner
+- [[orthodontics/clear-aligner/pai-2026-assessing-the-environmental-impact-of]] — Pai 2026 · scoping-review · 투명교정장치 치료 (Clear Aligner Therapy, CAT) 환경영향 범위검토: 13편 종합, 연간 2,500만 개 폐기·PET 100년 잔류·DLP 3D프린팅이 열성형보다 생애주기평가 (Life Cycle Assessment, LCA) 부담 낮으나 표준 LCA 부재로 추가 증거 필요
+- [[orthodontics/clear-aligner/brown-2026-reducing-aligners-wear-schedule]] — Brown 2026 · rct · 교체 주기 3일 vs 7일 RCT: 선형 편차 동등(≤0.5 mm·ABO 기준 이내), 재정렬 (Refinement)·내원 횟수 유의 증가, 예측도·치료기간 차이 없음 (abstract-only)
+- [[orthodontics/clear-aligner/kaur-2026-evaluation-bonding-clear]] — Kaur 2026 · sr · 투명교정 부착체 (Attachment)의 심미 보철물 접합 SR (9편 실험실연구): 불산 에칭 (Hydrofluoric Acid Etching, HFA)+Filtek Z350이 리튬 디실리케이트·모놀리식 지르코니아에서 최고 전단결합강도 (Shear Bond Strength, SBS); 표면거칠기↑ ≠ SBS↑
+- [[orthodontics/clear-aligner/huang-2026-clear-aligner-therapy-for-adult]] — Huang 2026 · sr · 성인 전방 개방 교합 (Anterior Open Bite, AOB) 421명 대상 투명교정 SR+근거지도: 과개교합 개선 3.07 mm(I²=93%)이나 GRADE 확실성 전 지표 매우 낮음; 치아치조 보상이 주 기전, 예측 가능한 골격 교정은 미확인
+- [[orthodontics/clear-aligner/kuzminskaite-2026-clinical-efficacy-of-aligners-with]] — Kuzminskaite 2026 · sr · 성장기 Class II 환자에서 하악전방유도 투명교정 (Clear Aligner Mandibular Advancement, CAMA) vs 기능성장치: 9편 n=412 SR, SNB·ANB·Wits·오버바이트·오버젯 모두 동등 (Huang 2026 SR+MA 독립 지지) (abstract-only, no-doi)
