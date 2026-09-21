@@ -291,4 +291,5 @@ CA 치료 중 OHRQoL 저하폭은 8–12%로 미미. 비교연구 65–75%에서
 - [[orthodontics/clear-aligner/telles-2025-clear-aligner-brand-virtual-setup-comparison]] — 4브랜드 VTS 비교 (§6)
 - [[orthodontics/clear-aligner/kaur-2026-ca-vs-fa-periodontal-pain-qol-sr-ma]] — SR+MA 32편; QoL temporal analysis: 1주 SMD −0.985 → 치료종료 SMD −0.970 → 12개월 NS; 통증 SMD −0.419; 통계적 이점이 12개월에서 소실되는 패턴 (§2)
 - [[orthodontics/clear-aligner/almotairy-2026-ageing-effects-clear-aligner-materials-sr]] — 95편 SR; 커피 ΔE=70.9; 힘감쇠 40–90%/48h; TPU/DPA>PETG; 재료별 교체주기 근거 (§6 Material Aging context)
+- [[orthodontics/clear-aligner/kaur-2026-evaluation-bonding-clear]] — bonding evaluation study for clear aligner attachments; adhesive protocols, surface treatments, and bond strength outcomes; clinical implications for attachment retention and bonding technique selection (bonding-study, 2026)
 - [[overviews/clear-aligner-indications-limitations]] — 임상 효능·적응증·기술적 한계 (보완 쌍)
