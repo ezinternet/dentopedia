@@ -16,6 +16,22 @@ SR+MA (Oral Health Prev Dent 2026): 3 RCTs; HA clinically non-inferior to EMD fo
 ## 한줄요약
 SR+MA (Oral Health Prev Dent 2026): 3 RCTs; HA는 CAL 획득에서 EMD에 비해 임상적으로 비열등 (WMD 0.51 mm, 12개월); PPD 비열등성은 미확인.
 
+## Three-line Summary
+
+SR+MA, 3 RCTs selected from 117 screened articles, PROSPERO CRD420261301986 — comparing hyaluronic acid vs enamel matrix derivative for periodontal intrabony defect surgery at 12 months.
+
+HA was clinically non-inferior to EMD for CAL gain (WMD 0.51 mm, 95%CI −0.08 to 1.11) and gingival recession at 12 months; PPD non-inferiority was not established (WMD 0.71 mm, I²=72.5%).
+
+Only 3 eligible RCTs from 117 screened make this evidence base extremely thin; high heterogeneity for PPD limits pooled interpretation; preliminary findings only.
+
+## 세줄요약
+
+SR+MA, 117편 중 3편 RCT 선별, PROSPERO CRD420261301986 — 치조내 골결손 수술에서 히알루론산 vs EMD 12개월 비교.
+
+HA는 CAL 획득 (WMD 0.51 mm, 95%CI −0.08 to 1.11)·치은 퇴축에서 EMD에 대해 임상적으로 비열등; PPD 비열등성은 미확인 (WMD 0.71 mm, I²=72.5%).
+
+117편 중 적격 3편만으로 근거 기반 극히 취약; PPD 이질성 높음 — 예비 소견으로만 간주.
+
 ## 1. Document Information
 - Journal: Oral Health and Preventive Dentistry, 2026. DOI: 10.3290/j.ohpd.c_2808
 - PMID: 42752698
