@@ -24,6 +24,22 @@ SR+MA (Clin Oral Investig 2026; 45 studies): propolis formulations reduce plaque
 
 SR+MA (Clin Oral Investig 2026; 45편): 프로폴리스 제제 치태지수 감소(vs 음성대조 SMD −1.11), 균수 감소(SMD −1.45); CHX 대비 PI·균수 통계적 비열등 — 직접 우식 근거 부족, GRADE 매우 낮음.
 
+## Three-line Summary
+
+SR+MA, 45 RCTs, multiple databases through December 2025 — propolis-containing formulations (dentifrices, mouthwashes, tablets) for plaque control and caries prevention vs negative control or chlorhexidine.
+
+Propolis significantly reduced plaque index vs negative control (SMD −1.11) and microbial counts (SMD −1.45); not statistically inferior to chlorhexidine for either outcome; direct caries outcome data were insufficient for meta-analysis.
+
+GRADE certainty was very low due to high risk of bias and surrogate endpoints; propolis may serve as a CHX alternative for plaque control but cannot yet be positioned as a caries prevention agent.
+
+## 세줄요약
+
+SR+MA, 45편 RCT, 2025년 12월까지 검색 — 프로폴리스 제제(치약·가글·정제)의 치태 조절·우식 예방 효능 vs 음성대조 또는 CHX 비교.
+
+치태지수 유의 감소 (vs 음성대조 SMD −1.11)·균수 감소 (SMD −1.45); CHX 대비 PI·균수 통계적 비열등; 직접 우식 지표 메타분석 불가.
+
+GRADE 근거 수준 매우 낮음(고위험 비뚤림·대리지표); 프로폴리스는 CHX 대안 치태 조절 보조제 가능, 우식 예방제로는 근거 불충분.
+
 ## Summary
 
 Berto et al. (Clin Oral Investig 2026; PROSPERO CRD420251246707) evaluated propolis-containing formulations (PCFs) — dentifrices, mouthwashes, tablets — for caries prevention. From 1919 records, 45 RCTs were included qualitatively. Meta-analysis was possible for plaque index and microbial counts; direct caries outcomes could not be pooled. PCFs significantly reduced PI compared to negative control (SMD −1.11, p<0.01) and showed no statistically significant difference from chlorhexidine (SMD 0.46, p=0.07). Similarly, microbial counts in saliva/biofilm were significantly reduced vs negative control (SMD −1.45, p=0.004) and comparable to CHX (SMD 0.38, p=0.13). Despite these findings, GRADE certainty was very low across all outcomes, driven by high risk of bias, inconsistency, and indirectness (PI is a surrogate, not a direct caries outcome).
