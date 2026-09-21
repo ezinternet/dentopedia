@@ -16,6 +16,22 @@ Within-patient RCT (BMC Oral Health 2026): 10 patients, 40 implants — all thre
 ## 한줄요약
 Within-patient RCT (BMC Oral Health 2026): 10명 40개 임플란트 — 콜드 플라즈마 3종(진공·아르곤·대기) 모두 56일 ISQ 대조대비 +8.3~10.0 단위 우위(p<0.001); 파일럿 연구, n=10.
 
+## Three-line Summary
+
+Within-patient pilot RCT, 10 patients (40 implants), single center Turkey — comparing vacuum plasma, argon jet, and cold atmospheric plasma surface activation vs untreated control for early implant stability (ISQ) over 56 days.
+
+All three cold plasma protocols significantly improved ISQ at day 56 vs untreated control (vacuum +10.0, argon jet +8.9, cold atmospheric +8.3 ISQ units; all p<0.001); 100% retention at 56 days across all groups.
+
+Critical pilot limitation: n=10, retrospectively registered trial, sites not anatomically mirrored, and only ISQ surrogate measured — larger multicenter RCT with 12-month clinical endpoints is needed.
+
+## 세줄요약
+
+Within-patient 파일럿 RCT, 10명 (40개 임플란트), 단일 기관 터키 — 3종 콜드 플라즈마(진공·아르곤·대기) 표면 활성화 vs 무처치 대조 56일 ISQ 비교.
+
+모든 플라즈마 3종이 56일 ISQ에서 대조 대비 유의하게 우수 (진공 +10.0, 아르곤 +8.9, 대기 +8.3 단위; 전부 p<0.001); 56일 임플란트 잔존율 100%.
+
+파일럿 제한(n=10, 소급 등록, 비대칭 부위, ISQ 대리지표만) — 대규모 다기관 RCT 및 12개월 임상 결과 검증 필요.
+
 ## 1. Document Information
 - Journal: BMC Oral Health, 2026;26
 - DOI: 10.1186/s12903-026-08679-8 | PMID: 42226275 | PMC: PMC13505121
