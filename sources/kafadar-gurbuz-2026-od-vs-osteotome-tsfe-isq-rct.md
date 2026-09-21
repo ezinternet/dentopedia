@@ -16,6 +16,22 @@ RCT (Int J Oral Maxillofac Implants 2026): 28 patients, 42 implants at TSFE — 
 ## 한줄요약
 RCT (Int J Oral Maxillofac Implants 2026): 28명 42개 임플란트 TSFE — OD가 osteotome 대비 ISQ(75.09 vs 67.50)·IT(32.95 vs 26.25 Ncm) 유의 우수; 진통제 소비·OHIP도 OD 우위; MBL·생존율 동등.
 
+## Three-line Summary
+
+Prospective RCT, 28 patients (42 implants), Ege University Turkey — comparing osseodensification vs Summers' osteotome for transcrestal sinus floor elevation with simultaneous implant placement, assessing ISQ, insertion torque, MBL, pain, and quality of life.
+
+OD yielded significantly higher ISQ (75.09 vs 67.50, p=0.013), greater insertion torque (32.95 vs 26.25 Ncm, p=0.008), less analgesic consumption, and better OHIP scores vs osteotome; MBL and 100% survival were comparable between groups.
+
+Relatively small sample (n=42 implants) limits generalizability; OD established as superior for primary stability in TSFE context but longer follow-up and larger trials needed.
+
+## 세줄요약
+
+전향적 RCT, 28명 (42개 임플란트), 터키 에게대학 — 치조정접근 상악동 거상 (TSFE) 동시 식립에서 골밀도화 (OD) vs Summers' osteotome 비교, ISQ·IT·MBL·통증·삶의질 평가.
+
+OD가 ISQ (75.09 vs 67.50, p=0.013)·IT (32.95 vs 26.25 Ncm, p=0.008)·진통제 소비·OHIP에서 유의하게 우수; MBL·생존율 동등.
+
+표본 소규모 (42개 임플란트)로 일반화 제한; OD가 TSFE 맥락에서 1차 안정성 우위 확립 — 장기 추적 및 대규모 시험 필요.
+
 ## 1. Document Information
 - Journal: International Journal of Oral & Maxillofacial Implants, 2026;41(Suppl 1):s77–s88
 - DOI: 10.11607/jomi.11566 | PMID: 41042809
