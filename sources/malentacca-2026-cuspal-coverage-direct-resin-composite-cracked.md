@@ -12,13 +12,21 @@ source_collection: pubmed-abstract
 
 Provides 5-year retrospective evidence (n=321) that direct resin composite with cuspal coverage achieves 94.1% tooth survival for cracked teeth — directly challenging the prevailing assumption that indirect restorations are required. Identifies periodontal lesion from crack propagation (OR=10.52) as the dominant independent risk factor for tooth loss, stronger than endodontic treatment (OR=2.67). Complements [[kaur-2026-cracked-tooth-syndrome-umbrella-review]] (which surveys evidence base) and [[zhang-2024-cracked-teeth-treatment-outcomes-sr-ma]] (SR/MA on treatment outcomes).
 
-## One-line Summary
+## Three-line Summary
 
-Retrospective 5-year study (n=321): cuspal coverage direct resin composite achieved 94.1% tooth survival; periodontal lesion (OR=10.52) dominates risk over fracture type or vitality.
+Retrospective 5-year study of 321 posterior cracked teeth treated with cuspal coverage direct resin composite (single operator, no indirect restorations) achieved 94.1% tooth survival.
 
-## 한줄요약
+Periodontal lesion from crack propagation was the dominant independent risk factor for tooth loss (OR=10.52, 95% CI 4.1–27.1), far outweighing endodontic treatment need (OR=2.67); fracture type and vitality were non-significant.
 
-후향적 5년 연구(n=321): 교두피개 직접 레진 복합 수복으로 치아 생존율 94.1% 달성; 치주 병소(OR=10.52)가 골절 유형이나 치수 활력보다 더 강한 독립적 위험인자.
+Results challenge the indirect-restoration-first paradigm and highlight crack-induced periodontal involvement as the critical prognostic determinant.
+
+## 세줄요약
+
+교두피개 직접 레진 복합 수복으로 치료된 후방부 균열치아 321개의 5년 후향적 연구에서 치아 생존율 94.1% 달성 (단일 술자, 간접 수복 없음).
+
+치주 병소 (Periodontal Lesion)가 치아 상실의 가장 강력한 독립적 위험인자 (OR=10.52); 근관치료 필요는 이차적 위험인자 (OR=2.67); 골절 유형과 치수 활력은 유의하지 않음.
+
+간접 수복 우선이라는 통념에 반하는 근거이며, 균열 진행에 의한 치주 침범이 예후의 핵심 결정인자임을 강조.
 
 ## Document Information
 
