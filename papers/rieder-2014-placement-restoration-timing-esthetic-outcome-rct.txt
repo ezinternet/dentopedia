@@ -1,0 +1,28 @@
+PMID: 25496243
+DOI: 10.1111/clr.12539
+Title: Impact of placement and restoration timing on single-implant esthetic outcome - a randomized clinical trial.
+Authors: Rieder D, Eggert J, Krafft T, Weber HP, Wichmann MG, Heckmann SM
+Year: 2014
+Journal: Clinical Oral Implants Research, 27(2):e80-6
+
+ABSTRACT:
+
+Objectives: To investigate the influence of implant placement timing (immediate vs. early) and restoration timing (immediate vs. early) on esthetic outcome in maxillary anterior single implants.
+
+Materials and Methods: 48 patients with a single failing incisor in the maxilla were randomized into 4 groups:
+- Group 1a: Immediate placement + immediate restoration (IIPIR)
+- Group 1b: Immediate placement + early restoration (IIPER)
+- Group 2a: Early placement + immediate restoration (EPIR)
+- Group 2b: Early placement + early restoration (EPER)
+
+Primary outcome: Pink Esthetic Score (PES) at final restoration delivery.
+
+Results:
+- Group 1a (immediate placement + immediate restoration): PES 8.47 ± 2.08
+- Group 1b (immediate placement + early restoration): PES 7.93 ± 3.21
+- Group 2a (early placement + immediate restoration): PES 6.62 ± 3.24
+- Group 2b (early placement + early restoration): PES 8.10 ± 3.25
+
+Group 2a showed significantly worse esthetic outcomes compared to Group 1a (p=0.015) and Group 2b (p=0.047).
+
+Conclusions: Immediate implant placement and restoration is a viable alternative to early placement protocols if the implantation is performed by an experienced surgeon. The combination of early placement with immediate restoration (Group 2a) yielded the poorest esthetic results, suggesting that this combination should be avoided.
