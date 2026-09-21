@@ -7,7 +7,7 @@ pmid: "25496243"
 journal: "Clinical Oral Implants Research"
 volume: "27"
 issue: "2"
-source: "sources/rieder-2014-placement-restoration-timing-esthetic-outcome-rct.md"
+source: "rieder-2014-placement-restoration-timing-esthetic-outcome-rct.md"
 source_collection: pubmed-abstract
 full_text: false
 text_path: /Users/oracleneo/llm-wiki/papers/rieder-2014-placement-restoration-timing-esthetic-outcome-rct.txt
