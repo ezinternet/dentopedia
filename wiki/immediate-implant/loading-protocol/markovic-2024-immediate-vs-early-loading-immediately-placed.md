@@ -7,7 +7,7 @@ pmid: "38693759"
 journal: "Clinical Implant Dentistry and Related Research"
 volume: "26"
 issue: "4"
-source: "sources/markovic-2024-immediate-vs-early-loading-immediately-placed.md"
+source: "markovic-2024-immediate-vs-early-loading-immediately-placed.md"
 source_collection: pubmed-abstract
 full_text: false
 text_path: /Users/oracleneo/llm-wiki/papers/markovic-2024-immediate-vs-early-loading-immediately-placed.txt
