@@ -210,6 +210,7 @@ Loading-protocol timing ([[implants/loading-protocol/rismanchian-2025-immediate-
 *(Added 2026-08-06 — a reference point rather than a risk factor.)*
 
 - [[implants/mbl/kumar-2021-marginal-bone-level-changes-meta-analysis]] — supplies the **pooled 1-year MBL baseline (0.56 mm)** every delta on this page is read against, plus a *technique*-level contrast (platform switching 0.01–0.95 mm vs conventional ~1.67 mm) distinct from the host factors; **I²=99.8%**, so direction and magnitude only
+- [[implants/canullo-2026-hybrid-funnel-technique-mbl-3year]] — 3-year prospective study of a hybrid funnel insertion technique; MBL and crestal bone preservation outcomes (prospective, 2026)
 
 ## Clinical Quiz
 <!-- quiz_spec -->
