@@ -177,3 +177,4 @@ The danger of C-shaped anatomy is not just "extra canals" but **thin dentin over
 - [[endodontics/anatomy/biswas-2023-see-through-c-case-series]] — microscope-guided C1/C2 management; MTA apical plug rescue
 - [[endodontics/gharechahi-2026-ahplus-jet-obturation-cshaped-canals]] — first obturation-technique data in a C1 model: warm vertical compaction gives lowest void % (middle/coronal thirds) and fastest fill time with AH Plus Jet sealer, in 3D-printed replicas
 - [[endodontics/anatomy/wei-2025-cshaped-mandibular-first-molar-case]] — rare bilateral first-molar C-shape; first 4-canal-in-one-C-root report
+- [[endodontics/anatomy/poclin-quispe-2026-mb2-prevalence-south-america-cbct-sr-ma]] — SR+MA on MB2 canal prevalence in South American populations using CBCT; ethnic/geographic prevalence variation and clinical relevance for missed-canal prevention (sr+ma, 2026)
