@@ -190,6 +190,7 @@ E-cigarette / smoke-free tobacco user
 - [[implants/survival/calciolari-2026-tobacco-smoking-smoke-free-products]] — 신규 2026: broadest SR+MA (survival + CBL + peri-implantitis), smoke-free/e-cigarette evidence gap.
 - [[periodontics/ye-2026-environmental-tobacco-smoke-periodontitis-nonsmokers]] — 신규 2026: passive ETS exposure in non-smokers, OR 1.47.
 - [[oral-microbiology/la-rosa-2026-electronic-cigarette-oral-microbiota]] — 신규 2026: e-cigarette oral microbiome, GRADE very low.
+- [[periodontics/gould-2026-vaping-perio-peri-implant-treatment-sr]] — 신규 2026: SR on vaping effects on periodontal and peri-implant treatment outcomes; current evidence limitations and clinical implications.
 - [[overviews/early-implant-failure-risk-prevention-overview]] — broader early-failure risk-factor context beyond smoking.
 - [[overviews/peri-implantitis-management-overview]] — smoking as one of several peri-implantitis risk axes, alongside prosthetic/surgical factors.
 - [[overviews/periodontics-treatment-ladder]] — periodontitis treatment context into which smoking-cessation counseling fits.
