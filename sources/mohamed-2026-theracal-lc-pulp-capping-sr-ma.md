@@ -16,6 +16,22 @@ SR+MA (BMC Oral Health 2026): 11 RCTs (2015–2025), 6–36 month follow-up; The
 ## 한줄요약
 SR+MA (BMC Oral Health 2026): 11 RCTs(2015–2025), 6–36개월; TheraCal LC는 영구치 IPC/DPC에서 MTA·Biodentine·수산화칼슘과 유사한 임상 성공률.
 
+## Three-line Summary
+
+SR+MA, 11 RCTs (2015–2025), PubMed/Scopus/WoS/CENTRAL through August 2025 — evaluating TheraCal LC (resin-modified calcium silicate) for indirect and direct pulp capping in permanent teeth at 6–36 months.
+
+TheraCal LC showed comparable clinical success rates to MTA, Biodentine, and calcium hydroxide for both IPC and DPC; pain scores were consistently low and dentin bridge formation was satisfactory across studies.
+
+Most studies had "some concerns" for risk of bias; maximum follow-up was 36 months leaving long-term durability unclear; heterogeneity in success criteria definitions across included studies.
+
+## 세줄요약
+
+SR+MA, 11편 RCT (2015–2025), PubMed/Scopus/WoS/CENTRAL 2025년 8월까지 — 영구치 IPC/DPC에서 TheraCal LC (레진 변형 칼슘 실리케이트) 효능 6–36개월 평가.
+
+TheraCal LC는 MTA·Biodentine·수산화칼슘과 유사한 임상 성공률; 통증 점수 일관되게 낮음; 상아질 교형성 양호.
+
+대부분 연구 비뚤림위험 "일부 우려"; 최장 36개월 추적으로 장기 내구성 불명; 성공 기준 정의 이질성.
+
 ## 1. Document Information
 - Journal: BMC Oral Health, 2026. DOI: 10.1186/s12903-026-09008-9; PMC: 13520471
 - PMID: 42649488
