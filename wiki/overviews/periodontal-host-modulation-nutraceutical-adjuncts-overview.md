@@ -116,6 +116,7 @@ A T2DM-specific melatonin signal (Angelopoulou 2026, SR+MA, 3 RCTs, PPD SMD −1
 - [[periodontics/host-modulation/oliveira-2024-periodontal-host-modulation-avocado-soybean]] — ASU; animal host-modulation
 - [[periodontics/host-modulation/aimetti-2025-doxycycline-local-delivery-periodontal-regeneration-rct]] — local doxycycline + regen surgery; only clinically meaningful effect
 - [[implants/vitamin-d/duarte-2025-vitamin-d-periimplant-periodontal]] — vitamin D in peri-implant healing and periodontal disease; RUNX2/ALP/OPN/OCN upregulation and RANKL suppression, but hypervitaminosis D (>70 ng/mL) associated with 21.1-fold peri-implant bone loss — the cluster's only documented upper threshold
+- [[periodontics/abusamak-2026-melatonin-nspt-adjunct-sr-ma]] — SR+MA of melatonin as NSPT adjunct in periodontitis; PPD/CAL/BOP outcomes and anti-inflammatory mechanisms; extends the nutraceutical axis alongside angelopoulou-2026 (T2DM-specific) with a broader population scope (sr+ma, 2026)
 
 ## Related Overviews
 - [[periodontal-adjunctive-therapy-probiotics-pdt-overview]] — local/microbiome adjuncts (probiotics, aPDT)
