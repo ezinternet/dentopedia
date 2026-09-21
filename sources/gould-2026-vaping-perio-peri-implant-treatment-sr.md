@@ -19,6 +19,22 @@ SR (Clin Exp Dent Res 2026): searched through June 2026; vape users may trend to
 ## 한줄요약
 SR (Clin Exp Dent Res 2026): 2026년 6월까지 검색; 전자담배 사용자는 비흡연자 대비 치주·임플란트주위 치료 결과가 열등할 수 있으나, 근거 확실성은 매우 낮음.
 
+## Three-line Summary
+
+SR (no meta-analysis), databases including Ovid MEDLINE/PubMed/Scopus/WoS through June 2026 — evaluating the effect of vaping (e-cigarettes) on periodontal and peri-implant treatment outcomes.
+
+Vaping users may exhibit worse clinical and immunological treatment responses vs non-smokers, with outcomes appearing similar to conventional cigarette smokers; definitive causal conclusions cannot be drawn.
+
+Certainty of evidence was low to very low due to limited studies, observational designs, heterogeneous exposure definitions, and short follow-up; meta-analysis was not feasible.
+
+## 세줄요약
+
+SR (메타분석 불가), Ovid MEDLINE·PubMed·Scopus·WoS 2026년 6월까지 — 전자담배(베이핑)가 치주·임플란트주위 치료 결과에 미치는 영향 종합.
+
+전자담배 사용자는 비흡연자 대비 치주·임플란트주위 치료 결과 열등할 수 있으며, 일반 흡연자와 유사한 양상; 인과 관계 확정 불가.
+
+관찰 연구 설계·소규모 연구·비규질 노출 정의·단기 추적으로 근거 확실성 매우 낮음; 이질성으로 메타분석 불가.
+
 ## 1. Document Information
 - Journal: Clinical and Experimental Dental Research, 2026. DOI: 10.1002/cre2.70456
 - PMID: 42743382; PMC: PMC13577596
