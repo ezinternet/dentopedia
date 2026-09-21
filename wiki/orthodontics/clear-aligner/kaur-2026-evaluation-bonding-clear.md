@@ -3,7 +3,7 @@ title: "Evaluation of bonding of clear aligner attachments on aesthetic crown ma
 authors: Kaur A, Soans CR, Ravi MS, Shilpa M
 year: 2026
 doi: 10.3389/fdmed.2026.1888333
-source: sources/kaur-2026-evaluation-bonding-clear.md
+source: kaur-2026-evaluation-bonding-clear.md
 category: orthodontics/clear-aligner
 evidence_level: sr
 date: 2026-07-28
