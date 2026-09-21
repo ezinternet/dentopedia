@@ -4,7 +4,7 @@ authors: "Chan Pei Yuan, Seet Rachel Fangying, Saffari Seyed Ehsan, Zhan Stella 
 year: 2025
 date: 2025-11-21
 doi: 10.1016/j.joen.2025.11.010
-source: sources/chan-2025-survival-endodontically-treated-cracked-teeth.md
+source: chan-2025-survival-endodontically-treated-cracked-teeth.md
 category: [cracked-tooth]
 evidence_level: retrospective
 source_collection: pubmed-abstract
