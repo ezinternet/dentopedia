@@ -16,6 +16,22 @@ source_collection: pubmed-abstract
 ## 한줄요약
 3년 비무작위 대조시험 (CID 2026): 87개 임플란트 — HFT 3년 MBL 0.46 vs 기존 드릴링 1.34mm (p<0.001); 골삭제법이 MBL의 유일한 독립 예측인자.
 
+## Three-line Summary
+
+Prospective non-randomized controlled trial, 87 implants (43 patients), multicenter Italy/Switzerland — comparing Hybrid Funnel Technique (selective cortical preparation + medullary osteocompaction) vs conventional drilling for 3-year marginal bone loss using identical bioactive-surface implants.
+
+HFT reduced 3-year MBL to 0.46 mm vs 1.34 mm for conventional drilling (p<0.001); site preparation technique was the only independent predictor of MBL in multivariate analysis (β=−1.10 mm, p<0.001).
+
+Non-randomized design with potential allocation bias; site preparation technique isolated by using identical implant surfaces, but larger RCT with 5+ year follow-up is needed to confirm findings.
+
+## 세줄요약
+
+전향적 비무작위 대조시험, 87개 임플란트 (43명), 이탈리아/스위스 다기관 — 동일 표면 임플란트로 HFT(선택적 피질골 준비+수질골 압밀) vs 기존 드릴링 3년 MBL 비교.
+
+HFT 3년 MBL 0.46 mm vs 기존 드릴링 1.34 mm (p<0.001); 다변량 분석에서 골삭제법이 MBL의 유일한 독립 예측인자(β=−1.10 mm, p<0.001).
+
+비무작위 설계로 배정 비뚤림 가능성; 임플란트 표면 통제로 절골술 효과 분리 — 5년 이상 추적 RCT로 검증 필요.
+
 ## 1. Document Information
 - Journal: Clinical Implant Dentistry and Related Research, 2026;28(4):e70175
 - DOI: 10.1111/cid.70175 | PMID: 42518174 | PMC: PMC13411644
