@@ -4,7 +4,7 @@ authors: Zhang Mingyu, Xiang Yonggang, Hu Ziqiu, Li Yanqin, Zhang Chao, Li Yixin
 year: 2026
 date: 2026-03-25
 doi: 10.1016/j.jdent.2026.106659
-source: sources/zhang-2026-clinical-characteristics-prognostic-factors-cracked.md
+source: zhang-2026-clinical-characteristics-prognostic-factors-cracked.md
 category: [cracked-tooth]
 evidence_level: retrospective
 source_collection: pubmed-abstract
