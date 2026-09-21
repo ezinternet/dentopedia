@@ -4192,6 +4192,20 @@ tags: []
 - [[immediate-implant/esthetic-soft-tissue/ickroth-2024-immediate-vs-early-implant-esthetic-zone-sr-ma]] — Cosyn group SR+MA, 6 RCTs n=222: IIP vs EIP in esthetic zone — no significant difference in soft tissue, PES, survival, or marginal bone (low-certainty; high RoB in 4/6 RCTs)
 - [[immediate-implant/esthetic-soft-tissue/hicklin-2024-immediate-vs-early-blt-implants-pink-esthetic-pilot-rct]] — Pilot RCT n=60, 5 centers, 12-month: immediate vs early BLT implants — equivalent bone levels, ISQ, and pink esthetics
 - [[immediate-implant/esthetic-soft-tissue/elaskary-2022-vst-immediate-vs-early-contour-augmentation-compromised-sockets-rct]] — RCT n=40, 1-year: VST (immediate+vestibular GBR) vs early+contour augmentation for compromised sockets — VST significantly less mid-facial ST change (-0.53 vs -1.87 mm, p<0.001)
+- [[immediate-implant/esthetic-soft-tissue/yan-2016-soft-hard-tissue-immediate-placement-restoration-esthetic]] — 즉시 식립·수복·로딩의 연조직·경조직 변화 SR+MA (13 RCT): 변연골·치간유두 모두 기존 프로토콜과 동등
+- [[immediate-implant/esthetic-soft-tissue/rieder-2014-placement-restoration-timing-esthetic-outcome-rct]] — 즉시·조기 식립 × 즉시·조기 수복 4군 RCT (n=48): 조기식립+즉시수복(EPIR) PES 6.62 최저 — 이 조합 회피 권고
+- [[immediate-implant/esthetic-soft-tissue/slagter-2014-immediate-placement-esthetic-zone-sr]] — 심미구역 즉시 식립 SR+풀링 (34편): 1년 생존 97.1%, MBL 0.81mm — 즉시 가식·무피판이 MBL 위험 낮춤
+
+### immediate-implant/loading-protocol
+- [[immediate-implant/loading-protocol/markovic-2024-immediate-vs-early-loading-immediately-placed]] — 즉시 식립 후 즉시 부하 vs 조기 부하 비교 파일럿 RCT (n=24): ISQ·MBL 동등, 생존율 91.8% vs 97.2% ns — 전악 상악 임플란트 수복에 두 프로토콜 모두 적절
+- [[immediate-implant/loading-protocol/huang-2014-innervation-peri-implant-tissues-placement-loading-sr]] — 임플란트 주위 조직 신경지배 SR (10편): 로딩 임플란트 신경섬유 밀도 ↑, 즉시·지연 식립/로딩 간 신경분포 패턴 차이 미결
+- [[immediate-implant/loading-protocol/suarez-2012-timing-restoration-implant-marginal-bone-loss-sr-ma]] — 수복 타이밍(즉시/조기/기존 로딩)이 변연골 소실에 미치는 영향 SR+MA (11편): MBL 차이 없음 — 프로토콜 선택 기준은 MBL이 아님
+
+### immediate-implant/molar-septum
+- [[immediate-implant/molar-septum/atieh-2010-immediate-placement-loading-molar-implants-sr-ma]] — 구치부 즉시 식립·즉시 수복 SR+MA (2010): 즉시 식립 생존율 99.0%, 즉시 수복 97.9% — 즉시·지연 로딩 간 생존율 차이 없음, 즉시 로딩군 12개월 MBL 유리
+
+### immediate-implant
+- [[immediate-implant/moy-2016-single-implants-dorsal-posterior-areas-sr]] — 구치부 단일 임플란트 SR (36편, 1985-2014): 즉시 생존율 96.9% vs 지연 96.8% — 생존율 동등, 성공률은 지연 로딩 소폭 우세
 
 ## Batch ingest (added 2026-07-22) — 접근와동 설계 + 근관치료 항생제 (13편 중 12편 신규, 1편 중복)
 
