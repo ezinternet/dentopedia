@@ -19,6 +19,22 @@ Cochrane SR+MA pub5 (search to Nov 2025): 15 RCTs, 2874 participants; prophylact
 
 코크란 SR+MA pub5 (2025년 11월까지 검색): 15편 RCT, 2874명; 술전 아목시실린 2g 단일 투여가 조기 임플란트 실패를 아마 감소(RR 0.34; NNT=19)시키며, 단일 투여와 다중 투여 간 차이 없음.
 
+## Three-line Summary
+
+Cochrane SR+MA update (pub5), 15 RCTs (2874 participants), CENTRAL/MEDLINE/Embase January 2013–November 2025 — prophylactic antibiotics for dental implant placement without bone augmentation, updating the 2013 pub4 review.
+
+Prophylactic amoxicillin 2 g pre-operatively probably reduces early implant failure (RR 0.34; NNT=19); single dose is equivalent to multiple doses; absolute risk reduction was from 80 to 27 failures per 1000 participants.
+
+8 of 15 RCTs were at high risk of bias; one severe allergic reaction was documented in the multiple-dose group; GRADE certainty was moderate for the primary comparison.
+
+## 세줄요약
+
+코크란 SR+MA pub5, 15편 RCT (2874명), CENTRAL/MEDLINE/Embase 2013년 1월–2025년 11월 — 골증대술 없는 임플란트 식립 시 예방적 항생제 효과 (2013년 pub4 업데이트).
+
+술전 아목시실린 2 g 단회 투여가 조기 임플란트 실패를 아마 감소 (RR 0.34; NNT=19); 단일 투여와 다중 투여 간 유의차 없음.
+
+15편 중 8편 고위험 비뚤림; 다중 투여군에서 중증 알러지 반응 1건; 1차 비교 GRADE 근거 수준 중등.
+
 ## 1. Document Information
 
 - Journal: Cochrane Database of Systematic Reviews, Issue 9, 2026; Art. No. CD004152
