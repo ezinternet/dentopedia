@@ -19,6 +19,22 @@ De novo RCT-level MA (J Prosthet Dent 2026): 40 RCTs, >1200 single implants; imm
 
 De novo RCT 수준 메타분석 (JPD 2026): 40편 RCT, >1200개 단일 임플란트; 즉시 로딩이 1–5년에 걸쳐 조기/지연 로딩과 생존율·MBL·환자 만족도·합병증 모두 유사 (생존율 근거 강도: moderate).
 
+## Three-line Summary
+
+De novo RCT-level meta-analysis, 40 unique RCTs (>1200 single implants) from 7 SRs + 2 additional RCTs, databases through October 2025 — comparing immediate vs early/conventional loading of single implants at 1–5 years with time-stratified analysis.
+
+Immediate loading showed comparable implant survival, marginal bone loss, patient satisfaction, and complication rates to early and conventional loading at all follow-up intervals (1–5 years); GRADE certainty for survival was moderate.
+
+Overlap among included reviews was quantified (CCA=11.5%); time-stratified analyses are a strength; moderate GRADE certainty acknowledges remaining RCT heterogeneity.
+
+## 세줄요약
+
+De novo RCT 수준 메타분석, 40편 RCT (>1200개 단일 임플란트), 7개 SR + 2편 추가 RCT, 2025년 10월까지 — 단일 임플란트 즉시 vs 조기/지연 로딩 1–5년 시기별 비교.
+
+즉시 로딩이 1–5년 모든 구간에서 생존율·MBL·환자 만족도·합병증 모두 조기/지연 로딩과 동등; 생존율 GRADE 근거 수준 중등.
+
+SR 간 중복 정량화 (CCA=11.5%); 시기별 분석이 강점; 중등 GRADE는 잔존 RCT 이질성 반영.
+
 ## 1. Document Information
 
 - Journal: Journal of Prosthetic Dentistry, 2026; 136(3):702-715
