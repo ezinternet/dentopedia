@@ -4442,3 +4442,16 @@ tags: []
 ### overviews (2026-09-16 synthesis)
 - [[overviews/peri-implant-biologic-width-overview]] — **NEW Overview** (4편, 2026-09-16): 임플란트 주위 생물학적 폭경(BW) 종합 — 치아 기준(Gargiulo 2.04·STA 2.73–3.0 mm) vs 임플란트 실측(2-piece>1-piece>치아; Glauser 4–4.5·Kan 6.17/3.63/5.93 mm bone sounding)을 두 축으로 연결. 미세극(microgap)이 임플란트 변연골의 주동인(골정은 미세극 하방 ~2 mm 안정화·ICT는 골정 상방 ~1.0 mm·봉쇄 ~6주 무부하), 플랫폼 스위칭은 폭경 수평 재배치(연조직 ≥3 mm·ICT <90°·Wennström 5년 MBL 0.06). 치아측 STA 관리는 재래식 L2/B·디지털 가이드 L2/B·레이저 L3/C·술전 치주안정화 L1/A; STAD는 만국 2 mm가 아님(평균 2.05·범위 0.02–5.85·하악>상악·얇은 표현형에서 큼, abdulkarim; 임상 bone-sounding은 1.13 vs 조직 2.04, hamasni) — "값 하나"가 아닌 site-specific margin-to-crest 계획.
 - [[overviews/schneiderian-membrane-perforation-overview]] — **NEW Overview** (3편, 2026-09-16): 슈나이더막 천공 3축 종합(발생·예측·결과) — 결과: 수복 천공군 생존 97.1 vs 비천공 97.7% (OR 0.78, CI 0.49–2.23, p=0.28, I²=0%), 동시/지연 식립 RR=1.00, 평균 발생률 29.42%(7–56%) [schiavo-2024 SR+MA]; 예측: 두께 연속형만 유의(MD −0.91 mm, I²=94%)·절단값 2/1.5/1 mm 전부 비유의 → U자형·선별금지 [ke-2024]; 예방: 돔형 큐렛 둔성 박리(임플란트 사이 포함) 수정 OSFE가 RBH<5 mm에서 천공 0건(문헌 ~28% vs)·생존 100% [kang-2022]. 테제=천공은 흔하지만 수복하면 계획 유지(중단 근거 없음), 예방은 긴장해소가 결정.
+
+## Batch ingest (added 2026-09-21) — 페리오 서베일런스 2026-09 (7편 신규)
+
+### periodontics
+- [[periodontics/mahintach-2026-ha-vs-emd-intrabony-defects-sr-ma]] — Mahintach 2026 · sr+ma (3 RCTs) · 치조내결손 HA vs EMD — CAL·치은퇴축 비열등(WMD 0.51 mm), PPD 비열등 미확인(I²=72.5%) (DOI 10.3290/j.ohpd.c_2808)
+- [[periodontics/abusamak-2026-melatonin-nspt-adjunct-sr-ma]] — Abusamak 2026 · sr+ma (18 RCTs, 828명, HKSJ) · 멜라토닌 NSPT 보조: CAL 2m −1.48mm·3m −0.41mm·6m −0.68mm·PPD 2m −1.80mm·당뇨 HbA1c −1.33%; 예측구간 전부 영 포함 → 효과 불안정 (DOI 10.1016/j.jebdp.2026.102270)
+- [[periodontics/dannewitz-2026-digital-companion-perio-rct]] — Dannewitz 2026 · rct (7개 센터, n=194) · Paro-ComPas 디지털 동반자 앱 다기관 RCT — 1차(GBI)·전 2차지표 유의차 없음; 센터 간 이질성 큼 (DOI 10.1111/jcpe.70181)
+- [[periodontics/papantonatou-2026-ctg-vs-vcmx-implant-placement-rct]] — Papantonatou 2026 · rct (3군, n=25) · 임플란트 식립 시 CTG vs VCMX vs 무처치: CTG·VCMX 모두 STT 유의 증가; CTG가 두께 우위; VCMX 공여부 없음·PROMs 유사 (DOI 10.1111/jcpe.70177)
+- [[periodontics/estrin-2026-prf-vs-emd-nspt-rct]] — Estrin 2026 · rct (split-mouth, n=15) · NSPT 보조 PRF vs EMD 직접 비교 첫 RCT — 양군 CAL·PPD·BOP 유의 개선, 군간 차이 없음 (DOI 10.3290/j.ohpd.c_2750)
+- [[periodontics/gould-2026-vaping-perio-peri-implant-treatment-sr]] — Gould 2026 · sr (MA 불가) · 전자담배가 치주·임플란트주위 치료 결과에 미치는 영향 — 비흡연자 대비 열등 경향, 전통 흡연자와 유사; 근거 확실성 매우 낮음 (DOI 10.1002/cre2.70456)
+
+### implants/peri-implantitis
+- [[implants/peri-implantitis/elhadidy-2026-fla-vs-prf-vs-ctg-peri-implant-sta-rct]] — Elhadidy 2026 · rct (3군, n=45) · 임플란트 연조직 보강 FLA vs PRF vs CTG — CTG 최대 두께; FLA CTG에 근접·공여부 없음; PRF 경미 증강; FLA 유망 최소침습 대안 (DOI 10.1186/s12903-026-09589-5)
