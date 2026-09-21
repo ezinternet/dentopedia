@@ -2,7 +2,7 @@
 title: "BMS·구강안면통증 신경병성 기전 종합 (Burning Mouth Syndrome / Orofacial Neuropathic Pain — Molecular Mechanism Synthesis)"
 authors: Synthesis (Damian Lee)
 year: 2026
-date: 2026-07-10
+date: 2026-09-21
 doi: N/A
 source: synthesis
 category: [overviews]
@@ -19,6 +19,8 @@ source_papers:
   - wiki/oral-medicine/kouri-2024-small-fiber-neuropathy-burning-mouth-syndrome.md
   - wiki/orofacial-pain/kim-2024-trigeminal-sensory-system-orofacial-pain.md
   - wiki/orofacial-pain/korczeniewska-2022-pathophysiology-post-traumatic-trigeminal-neuropathic.md
+  - wiki/oral-medicine/burning-mouth-syndrome/canfora-2025-burning-mouth-syndrome-pathogenesis-review.md
+  - wiki/oral-medicine/burning-mouth-syndrome/canfora-2026-burning-mouth-syndrome-management-review.md
 relations:
   - type: extends
     target: price-2009-chloride-regulation-pain-pathway
@@ -34,6 +36,10 @@ relations:
     target: kim-2024-trigeminal-sensory-system-orofacial-pain
   - type: extends
     target: korczeniewska-2022-pathophysiology-post-traumatic-trigeminal-neuropathic
+  - type: extends
+    target: canfora-2025-burning-mouth-syndrome-pathogenesis-review
+  - type: extends
+    target: canfora-2026-burning-mouth-syndrome-management-review
 ---
 
 > [!summary] 한국어 핵심요약
@@ -48,11 +54,13 @@ relations:
 > - 임상적으로 BMS는 말초형(말초 lidocaine 차단·국소 clonazepam 반응)과 중추형(국소치료 무반응, 우울·불안 동반, 선조체 도파민 결핍)으로 나뉘며 개인 내 중첩한다 (jaaskelainen-2018) — 아형이 치료 분기를 결정한다.
 > - 말초형의 객관적 근거: 혀 생검에서 신경섬유밀도 (Intraepithelial Nerve Fiber Density, IENFD) 30~60% 감소 + TRPV1·P2X3·NGF 발현 변화 + Nav1.7 과발현 + 정량감각검사 (Quantitative Sensory Testing, QST) 냉각 역치 이상 (kouri-2024, PRISMA SR).
 > - 기전→치료 다리: 국소 clonazepam(GABA-A 작용제)의 말초형 반응성은 "탈억제 회복" 논리(price-2009)와 직접 연결되고, T-type/neurosteroid 축은 BMS의 새 표적 후보를 시사한다 — 단 말초 Cl⁻·T-type 표적 진통제는 아직 전임상 단계.
-> - 근거 등급: 임상 substrate는 SR 1편(kouri-2024)·권위 리뷰(jaaskelainen-2018)로 비교적 견고, 분자 기전 3편은 narrative review·동물실험이라 [미검증]으로 임상 외삽은 가설 수준. BMS 진단·치료 결정은 [[oral-medicine-decision-ladder]]를 1차로 본다.
+> - 2025 병인 통합: canfora-2025는 소섬유 신경병증·삼차신경로 중추감작·에스트로겐 감소·심리 동반질환을 하나의 다인자 모델로 묶고, ICD-11 기반 진단 알고리즘(이차성 원인 체계적 배제 후 1차성 라벨)을 제안한다. 완전한 장기 관해를 달성하는 치료는 현재 없음.
+> - 현행 관리 근거(canfora-2026): 국소 클로나제팜 (Topical Clonazepam) rinse-and-spit이 가장 강한 무작위대조임상시험 (Randomized Controlled Trial, RCT) 근거; 인지행동치료 (Cognitive Behavioral Therapy, CBT)는 심리적 고통 감소; 저용량 삼환계항우울제 (Tricyclic Antidepressant, TCA)·가바펜티노이드는 신경병성 성분 표적. 다학제 병합·아형 맞춤이 가장 효과적.
+> - 근거 등급: 임상 substrate는 SR 1편(kouri-2024)·권위 리뷰(jaaskelainen-2018)·2025 병인 통합 리뷰(canfora-2025)로 비교적 견고, 분자 기전 3편은 narrative review·동물실험이라 [미검증]으로 임상 외삽은 가설 수준. BMS 관리 근거는 canfora-2026에 정리(국소 clonazepam > CBT > TCA 순). BMS 진단·치료 결정은 [[oral-medicine-decision-ladder]]를 1차로 본다.
 
 ## Three-line Summary
 
-Synthesis of 7 papers reframing primary burning mouth syndrome (BMS) and trigeminal neuropathic pain through converging molecular and circuit axes: central/peripheral disinhibition governed by NKCC1/KCC2 chloride homeostasis (same Cl⁻ channels inhibitory in the spinal dorsal horn but excitatory in high-Cl⁻ peripheral nociceptors), quantified peripheral small-fiber neuropathy (30–60% IENFD loss; Kouri 2024 PRISMA SR), and — new in this update — the anatomical destination where these mechanisms integrate (trigeminal ganglion → Sp5C "medullary dorsal horn" central sensitization; Kim 2024) plus the injury-specific peripheral cascade of post-traumatic trigeminal neuropathic pain (PTNP: chemokines → ion-channel change → satellite-glial-cell activation; Korczeniewska 2022, only ~3% of nerve injuries progress to PTNP).
+Synthesis of 9 papers reframing primary burning mouth syndrome (BMS) and trigeminal neuropathic pain through converging molecular and circuit axes: central/peripheral disinhibition governed by NKCC1/KCC2 chloride homeostasis (same Cl⁻ channels inhibitory in the spinal dorsal horn but excitatory in high-Cl⁻ peripheral nociceptors), quantified peripheral small-fiber neuropathy (30–60% IENFD loss; Kouri 2024 PRISMA SR), anatomical integration at Sp5C "medullary dorsal horn" (Kim 2024), injury-specific peripheral cascade of PTNP (Korczeniewska 2022, ~3% progression rate), and — new in this update — a 2025 multifactorial pathogenesis synthesis proposing an ICD-11 diagnostic algorithm (Canfora 2025) and a current management review establishing topical clonazepam as highest RCT evidence (Canfora 2026).
 
 The endogenous neurosteroid–T-type Ca²⁺ (CaV3.2) axis provides a third convergence layer, now doubly reinforced: allopregnanolone-type neurosteroids act primarily through T-type channel blockade in BMS (Pathirathna 2005), and independently, PTNP's miR-32-5p regulates the same Cav3.2 channel (Korczeniewska 2022) — two unrelated papers landing on the identical peripheral target.
 
@@ -60,7 +68,7 @@ Clinical takeaway: this page is a mechanism substrate map, not a treatment guide
 
 ## 세줄요약
 
-일차성 구강작열감증후군 (Burning Mouth Syndrome, BMS) · 삼차신경 신경병증 **7편** 기전 종합: 중추(등쪽뿔)/말초 두 층의 억제 상실(탈억제) — NKCC1/KCC2 Cl⁻ 항상성 붕괴 — 과 말초 소섬유신경병증(수내상피신경섬유밀도 30–60% 감소; Kouri 2024 SR)에 더해, 이번 갱신에서 두 기전이 실제로 수렴하는 해부학적 종착지(삼차신경절→Sp5C "연수 등쪽뿔" 중추감작; Kim 2024)와 외상후 삼차신경병증(PTNP)의 손상특이적 말초 캐스케이드(케모카인→이온채널변화→위성신경교세포 활성화; Korczeniewska 2022, 신경손상 중 PTNP 진행률 ~3%)를 추가.
+일차성 구강작열감증후군 (Burning Mouth Syndrome, BMS) · 삼차신경 신경병증 **9편** 기전·치료 종합: 중추(등쪽뿔)/말초 두 층의 억제 상실(탈억제) — NKCC1/KCC2 Cl⁻ 항상성 붕괴 — 과 말초 소섬유신경병증(수내상피신경섬유밀도 30–60% 감소; Kouri 2024 SR)에 더해, 두 기전이 수렴하는 해부학적 종착지(삼차신경절→Sp5C "연수 등쪽뿔" 중추감작; Kim 2024), 외상후 삼차신경병증(PTNP)의 말초 캐스케이드(Korczeniewska 2022, 진행률 ~3%), 2025 병인 통합모델과 ICD-11 진단 알고리즘(Canfora 2025), 현행 관리 근거(국소 clonazepam 최고 RCT 근거·CBT·TCA; Canfora 2026)를 추가.
 
 내인성 신경스테로이드 (neurosteroid) – T-type Ca²⁺ 통로 (CaV3.2) 축이 이중으로 보강됨: BMS에서는 allopregnanolone이 CaV3.2 차단으로 말초진통(Pathirathna 2005), PTNP에서는 miR-32-5p가 동일한 Cav3.2를 조절(Korczeniewska 2022) — 서로 독립된 두 논문이 같은 표적으로 수렴.
 
@@ -96,11 +104,14 @@ Its unifying hypothesis: in postmenopausal women, decline in neuroprotective gon
 
 [[oral-medicine/burning-mouth-syndrome/kouri-2024-small-fiber-neuropathy-burning-mouth-syndrome]] (PRISMA SR, PROSPERO CRD42024555839) quantifies the peripheral arm: across 8 biopsy studies, **30–60% reduction in tongue/intraepithelial nerve fiber density**, with increased TRPV1⁺/NGF⁺/P2X3⁺ fibers, **Nav1.7 overexpression**, slight Nav1.9 mRNA underexpression, increased artemin mRNA, and QST abnormalities (reduced cool detection and cold-pain thresholds) in 7 studies. It establishes small fiber neuropathy (SFN) as a core BMS mechanism (heterogeneity precluded meta-analysis; causality not established).
 
+[[oral-medicine/burning-mouth-syndrome/canfora-2025-burning-mouth-syndrome-pathogenesis-review]] (PubMed narrative review, 2025) integrates the peripheral and central axes into an explicit **multifactorial model**: small-fiber neuropathy remains the predominant peripheral substrate (confirming kouri-2024); central sensitization involves altered pain processing specifically in trigeminal pathways (aligning with Section 6 here); estrogen decline (postmenopausal) and psychological comorbidities amplify the symptom complex, interacting with the neurosteroid deficit of Section 3 and the dopamine circuitry of jaaskelainen-2018. Canfora 2025 proposes an **ICD-11-based diagnostic algorithm** for systematically excluding secondary BMS (local/systemic/medication causes) before assigning the primary BMS label — a diagnosis of exclusion. **No treatment achieves complete long-term remission** for primary BMS; secondary BMS should first be treated by addressing the underlying cause.
+
 ## 5. Mechanism → clinical bridge
 
 - **Topical clonazepam** (a GABA-A agonist) working in the *peripheral* subtype is mechanistically coherent with the disinhibition substrate (Section 1–2): restoring/augmenting GABA-A signaling where peripheral inhibitory tone has failed. The peripheral Cl⁻ inversion (Section 2) is why a "central inhibitory" drug can act usefully at the mucosal terminal.
 - **Marker convergence**: the Nav1.7/TRPV1/P2X3 gains (kouri-2024) are exactly the nociceptor excitability machinery whose Cl⁻-channel context wilke-2020 describes — same neuron, complementary channels.
 - **Hormonal axis**: neurosteroid loss (pathirathna-2005 substrate) ↔ postmenopausal vulnerability (jaaskelainen-2018) suggests T-type/neurosteroid modulation as a candidate target — but peripheral Cl⁻- and T-type-targeting analgesics remain **preclinical**.
+- **Management synthesis** ([[oral-medicine/burning-mouth-syndrome/canfora-2026-burning-mouth-syndrome-management-review]]): across RCT evidence, **topical clonazepam rinse-and-spit** carries the strongest pharmacological evidence for pain reduction — coherent with the GABA-A/disinhibition logic (Sections 1–2). **CBT** reduces psychological distress and catastrophizing. **Low-dose TCAs** (amitriptyline) and **gabapentinoids** address the neuropathic component. No single agent achieves complete remission; multimodal, subtype-tailored treatment is most effective.
 
 ## 6. The central relay — trigeminal circuit anatomy
 
@@ -116,7 +127,8 @@ Only **~3% of trigeminal nerve injuries progress to PTNP** (3.3% after facial fr
 
 ## 8. Evidence grading & gaps
 
-- **Clinical substrate** (peripheral SFN in BMS): relatively firm — 1 PRISMA SR (kouri-2024) + an authoritative NeuPSIG review (jaaskelainen-2018). Still observational/cross-sectional; no causal proof, no meta-analytic pooling.
+- **Clinical substrate** (peripheral SFN in BMS): relatively firm — 1 PRISMA SR (kouri-2024) + NeuPSIG review (jaaskelainen-2018) + 2025 multifactorial pathogenesis synthesis (canfora-2025). Still observational/cross-sectional; no causal proof, no meta-analytic pooling.
+- **Management evidence** (canfora-2026, narrative review): topical clonazepam holds the strongest RCT evidence for symptom reduction; CBT and low-dose TCA have supporting data; complete remission not achievable with any current agent.
 - **Molecular mechanism** (Sections 1–3): two narrative reviews (price-2009, wilke-2020) + one animal study (pathirathna-2005). Extrapolating these to human BMS therapy is **[미검증]** — a plausible mechanistic scaffold, not clinical evidence.
 - **Circuit anatomy & PTNP cascade** (Sections 6–7): two narrative reviews (kim-2024, korczeniewska-2022), no primary data in kim-2024, and korczeniewska-2022 is largely extrapolated from non-trigeminal (spinal/DRG) injury models by the authors' own admission. Treat both as a plausible mechanistic scaffold connecting Sections 1–3 to a concrete circuit and a post-traumatic clinical entity, not as direct clinical evidence.
 - **Translational gap**: subtype assignment needs neurophysiologic testing unavailable in most dental settings; peripheral Cl⁻/T-type analgesics are not clinically available.
@@ -131,6 +143,8 @@ Only **~3% of trigeminal nerve injuries progress to PTNP** (3.3% after facial fr
 - [[oral-medicine/burning-mouth-syndrome/kouri-2024-small-fiber-neuropathy-burning-mouth-syndrome]] — PRISMA SR quantifying SFN in BMS (30–60% IENFD loss; Nav1.7/TRPV1).
 - [[orofacial-pain/kim-2024-trigeminal-sensory-system-orofacial-pain]] — trigeminal ganglion/Sp5 circuit anatomy; Sp5C central-sensitization substrate shared across neuropathic pain, TN, headache, BMS.
 - [[orofacial-pain/korczeniewska-2022-pathophysiology-post-traumatic-trigeminal-neuropathic]] — peripheral PTNP cascade (chemokines, ion channels, SGC activation); Cav3.2/miR-32-5p link back to Section 3's T-type axis.
+- [[oral-medicine/burning-mouth-syndrome/canfora-2025-burning-mouth-syndrome-pathogenesis-review]] — 2025 multifactorial pathogenesis synthesis (SFN + central sensitization + estrogen + psychological); ICD-11 diagnostic algorithm; no complete remission with current treatments.
+- [[oral-medicine/burning-mouth-syndrome/canfora-2026-burning-mouth-syndrome-management-review]] — BMS management narrative review; topical clonazepam highest RCT evidence; CBT + low-dose TCA + gabapentinoids; multimodal subtype-tailored approach.
 - [[oral-medicine-decision-ladder]] — clinical BMS diagnosis/treatment ladder (this page is its mechanistic backbone).
 
 ## Clinical Quiz
