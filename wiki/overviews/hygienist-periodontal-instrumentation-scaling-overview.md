@@ -179,6 +179,10 @@ An in-vitro study (200 bovine incisors) tested whether ultrasonic instrumentatio
 6. **Keep anticoagulants/antiplatelets going for scaling** — even VKA/DAPT bleeding (3–4× control) is controlled by gauze pressure alone; interruption is not warranted for routine hygiene (Pesce).
 7. **Ease off the ultrasonic on small lingual brackets** — reduce time/pressure on small-mesh-base lingual orthodontic brackets to avoid bond strength dropping below the clinical minimum (Scribante).
 
+## Related Papers
+
+- [[periodontics/oral-hygiene-instruction/guo-2026-digital-technologies-plaque-assessment-sr-ma]] — SR+MA on digital technologies for plaque assessment (smartphone apps, intraoral cameras, AI-assisted scoring); diagnostic accuracy and clinical utility compared to conventional plaque indices; practical context for technology-assisted hygiene protocols (sr+ma, 2026)
+
 ## Related Overviews
 
 - [[overviews/dental-infection-control-aerosol-overview]] — the general sterilization / waterline / AGP infection-control synthesis; Front 3 here is the scaling-specific deep dive that extends its aerosol-mitigation front (and its DUWL material explains why Senpuku's droplets were waterline-water-dominated).
