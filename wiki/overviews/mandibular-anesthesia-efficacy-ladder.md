@@ -110,6 +110,10 @@ Nitrous-oxide sedation succeeds in 94.9% of cases, significantly higher in adult
 
 **갱신 메모 (2026-07-01)**: [[overviews/computerized-needle-free-anesthesia-delivery-overview]] — 자매 overview: 전달장치·기계 축(CCLAD/The Wand/STA/needle-free 9편). Park 2024의 컴퓨터구동 골내마취(QuickSleeper5)는 이 device-axis overview에서도 "비주사 경로 대안"으로 함께 다뤄짐 — 본 ladder(기법·약물선택)와 상호보완.
 
+- [[local-anesthesia/alsharif-2026-minb-vs-ianb-mandibular-premolar-sip-sr]] — SR+MA comparing mental/incisive nerve block (MINB) vs IANB for mandibular premolar anaesthesia in symptomatic irreversible pulpitis; success rates and supplementary injection requirements (sr+ma, 2026)
+
+**갱신 메모 (2026-09-21)**: Alsharif 2026 extends the §2 block-selection axis to premolars — provides premolar-specific block alternative (MINB) when IANB is planned, complementing the existing molar-centered Rujirawan 2025 evidence.
+
 ## Clinical Quiz
 <!-- quiz_spec -->
 
