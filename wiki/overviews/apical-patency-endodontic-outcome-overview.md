@@ -133,4 +133,5 @@ Neither study below used patency as an endpoint; both address the glide path tha
 - [[endodontics/shaping/pui-yii-2021-glide-path-apical-bacteria-extrusion]] — apical extrusion during glide path preparation (AP vs no-AP context)
 - [[endodontics/zamparini-2026-postop-pain-endodontic-instrumentation-irrigation-obturation-umbrella]] — umbrella review (25 SR+MA): POP drivers are irrigation-side, not shaping-side
 - [[endodontics/shaping/abraham-2025-instrumentation-kinematics-postendodontic-pain-umbrella]] — instrumentation kinematics and post-endodontic pain (AP-adjacent)
+- [[endodontics/anatomy/bai-2026-accessory-canal-distribution-root-end-resection-sr-ma]] — SR+MA on accessory canal distribution and its implications for root-end resection adequacy; anatomical patency context (sr+ma, 2026)
 - [[overviews/eal-working-length-protocol]] — working length determination; AP is a companion concept
