@@ -4455,3 +4455,20 @@ tags: []
 
 ### implants/peri-implantitis
 - [[implants/peri-implantitis/elhadidy-2026-fla-vs-prf-vs-ctg-peri-implant-sta-rct]] — Elhadidy 2026 · rct (3군, n=45) · 임플란트 연조직 보강 FLA vs PRF vs CTG — CTG 최대 두께; FLA CTG에 근접·공여부 없음; PRF 경미 증강; FLA 유망 최소침습 대안 (DOI 10.1186/s12903-026-09589-5)
+
+## Batch ingest (added 2026-09-21) — implant-primary-stability 서베일런스 2026-09 (5편 신규)
+
+### sinus-lift/lateral
+- [[sinus-lift/lateral/gai-2026-tapered-cylindrical-lsfe-isq-rct]] — Gai 2026 · rct (60명 92개, LSFE 동시식립) · 테이퍼드 vs 원통형 ISQ T1 70.48 vs 55.04(p<0.001)·T2 80.83 vs 78.98(p=0.038); 골변화량 동등; 양군 100% 생존 (DOI 10.1016/j.jdent.2026.106807)
+
+### sinus-lift/transcrestal
+- [[sinus-lift/transcrestal/kafadar-gurbuz-2026-od-vs-osteotome-tsfe-isq-rct]] — Kafadar-Gürbüz 2026 · rct (28명 42개, TSFE) · OD ISQ 75.09 vs osteotome 67.50(p=.013); IT 32.95 vs 26.25 Ncm(p=.008); 진통제·OHIP OD 우위; MBL·생존율 동등 (DOI 10.11607/jomi.11566)
+
+### implants/isq
+- [[implants/isq/venkatesh-2026-three-osteotomy-techniques-posterior-rct]] — Venkatesh 2026 · rct (30명, 후방 상악) · conventional vs Summers' osteotome vs OD ISQ — NS 유의차; 수치적 OD≥conventional>osteotome; 전군 100% 생존 (DOI 10.1186/s12903-026-08858-7)
+
+### implants
+- [[implants/canullo-2026-hybrid-funnel-technique-mbl-3year]] — Canullo 2026 · prospective (3년, 87개) · HFT vs 기존 드릴링: 3년 MBL 0.46 vs 1.34mm(p<0.001); 골삭제법만 MBL 독립예측인자(β=−1.10mm) (DOI 10.1111/cid.70175)
+
+### implants/surface
+- [[implants/surface/balkanlioglu-2026-cold-plasma-implant-isq-stability]] — Balkanlıoğlu 2026 · rct (10명 40개, within-patient) · 콜드 플라즈마 3종 56일 ISQ +8.3~10.0 유의 우위(p<0.001) vs 무처치; 파일럿 연구 (DOI 10.1186/s12903-026-08679-8)
