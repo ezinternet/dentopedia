@@ -16,6 +16,22 @@ RCT (J Dent 2026): 60 patients, 92 implants at simultaneous LSFE — tapered imp
 ## 한줄요약
 RCT (J Dent 2026): 60명 92개 임플란트, LSFE 동시 식립 — 테이퍼드 임플란트가 식립 시(70.48 vs 55.04)·6개월(80.83 vs 78.98) ISQ 모두 유의 높음; 골 변화량은 두 군 동등.
 
+## Three-line Summary
+
+Prospective 2-arm parallel RCT, 60 patients (92 implants), Zhejiang University China — comparing tapered vs cylindrical implants for ISQ and peri-implant bone changes at simultaneous lateral sinus floor elevation.
+
+Tapered implants showed significantly higher ISQ at placement (70.48 vs 55.04, p<0.001) and at 6 months (80.83 vs 78.98, p=0.038); peri-implant bone changes (ESBG, MBL, 3D bone volume) were comparable between groups; 100% survival in both groups.
+
+6-month follow-up only; long-term survival and marginal bone loss data not captured; tapered implant advantage in ISQ may attenuate over time as shown by converging values at 6 months.
+
+## 세줄요약
+
+전향적 2군 평행 RCT, 60명 (92개 임플란트), 중국 저장대학 — 측방 상악동거상술 동시 식립에서 테이퍼드 vs 원통형 임플란트 ISQ 및 골 변화 비교.
+
+테이퍼드 임플란트가 식립 시 (70.48 vs 55.04, p<0.001) 및 6개월 (80.83 vs 78.98, p=0.038) ISQ 유의하게 높음; ESBG·MBL·3D 골 부피 변화량 두 군 동등; 6개월 생존율 100%.
+
+6개월 추적만; 장기 생존율·MBL 미평가; 6개월 시점에서 값이 수렴하여 ISQ 우위가 장기적으로 지속되는지 불명.
+
 ## 1. Document Information
 - Journal: Journal of Dentistry, 2026, Vol. 173, p.106807
 - DOI: 10.1016/j.jdent.2026.106807 | PMID: 42235675
