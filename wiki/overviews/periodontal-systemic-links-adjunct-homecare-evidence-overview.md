@@ -104,6 +104,7 @@ Narrative synthesis (no new pooling). Base: 3 umbrella reviews (Arbildo-Vega, Bo
 - [[periodontics/host-modulation/bandiaky-2026-resveratrol-periodontal-disease-systematic-review]] — SR; resveratrol preclinical bone protection, no human bone-loss data
 - [[periodontics/host-modulation/mendonca-2024-effects-probiotic-therapy-periodontal]] — umbrella; probiotics short-term only, no hard outcomes, *L. reuteri* most consistent
 - [[periodontics/oral-hygiene-instruction/suvan-2025-complex-world-toothpaste-diversity-meeting]] — umbrella; toothpaste selection is condition-specific, 6/19 ingredients effective
+- [[periodontics/dannewitz-2026-digital-companion-perio-rct]] — RCT: digital companion app as adjunct to periodontal maintenance; patient engagement, compliance, and clinical outcomes; extends the homecare adjunct axis into digital health interventions (rct, 2026)
 
 ## Related Overviews
 
