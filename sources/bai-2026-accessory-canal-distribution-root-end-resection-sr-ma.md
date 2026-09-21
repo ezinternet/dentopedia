@@ -16,6 +16,22 @@ SR+MA (J Dent 2026): 19 studies, 11 for MA; accessory canal vertical distributio
 ## 한줄요약
 SR+MA (J Dent 2026): 19편, 11편 MA; 부근관 수직 분포 — 근단 2mm 내: 구치 75.8%; 전치는 3mm 절제 시 >95% 포함.
 
+## Three-line Summary
+
+SR+MA, 19 studies (11 contributing to meta-analysis), standard systematic search — vertical distribution of accessory canals to determine optimal root-end resection level in apicoectomy.
+
+Within the apical 2 mm, 75.8% of molar accessory canals are captured; anteriors require 3 mm resection to capture >95% of accessory canals.
+
+Detection method heterogeneity (microCT, histology, clearing-staining) and limited per-tooth-type sample size limit subgroup conclusions; no clinical outcome data correlating accessory canal capture with periapical healing.
+
+## 세줄요약
+
+SR+MA, 19편 (11편 메타분석), 표준 체계적 검색 — 근단절제술 최적 절제 수준 결정을 위한 부근관 수직 분포 종합.
+
+근단 2 mm 이내 구치 부근관 75.8% 포함; 전치는 3 mm 절제 시 >95% 포함.
+
+검출 방법 이질성과 치아 유형별 소표본이 제한 요인; 근단 치유와의 임상 상관 데이터 부재.
+
 ## 1. Document Information
 - Journal: Journal of Dentistry, 2026. DOI: 10.1016/j.jdent.2026.106928
 - PMID: 42492648
