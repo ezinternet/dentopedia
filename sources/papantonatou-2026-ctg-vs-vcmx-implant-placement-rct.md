@@ -19,6 +19,22 @@ source_collection: pubmed-abstract
 ## 한줄요약
 3-arm RCT (J Clin Periodontol 2026): 25명; CTG·VCMX 모두 6개월 연조직 두께 유의 증가 vs 무처치; CTG가 두께 획득에서 우월; CTG는 공여부 이환율 더 높음.
 
+## Three-line Summary
+
+3-arm parallel RCT, 25 patients, Aristotle University of Thessaloniki — comparing CTG vs volume-stable collagen matrix vs no augmentation for soft-tissue augmentation at maxillary anterior implant placement, with combined clinical, CBCT, histological, and patient-reported outcomes.
+
+Both CTG and VCMX significantly increased soft-tissue thickness vs no augmentation at 6 months; CTG was superior to VCMX for thickness gain; donor-site morbidity was higher with CTG and willingness to repeat the procedure was lower in the CTG group.
+
+Small per-group sample (n=8–9); 6-month follow-up; histological data at 3 months; larger trials needed to confirm long-term stability differences between CTG and VCMX.
+
+## 세줄요약
+
+3군 평행 RCT, 25명, 아리스토텔레스 대학 그리스 — 상악 전치부 임플란트 식립 시 CTG vs VCMX vs 무처치의 연조직 증강 효과 임상·CBCT·조직학·PROMs 종합 평가.
+
+CTG·VCMX 모두 6개월 연조직 두께 유의 증가; CTG가 VCMX보다 두께 획득 우월; CTG는 공여부 이환율 높고 재시술 의향 낮음.
+
+군당 소표본 (n=8–9); 6개월 추적; 조직학은 3개월 시점 — CTG vs VCMX 장기 안정성 차이 확인을 위한 대규모 시험 필요.
+
 ## 1. Document Information
 - Journal: Journal of Clinical Periodontology, 2026. DOI: 10.1111/jcpe.70177
 - PMID: 42521470; PMC: PMC13581467
