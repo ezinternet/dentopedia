@@ -144,6 +144,8 @@ Narrative roundup (no new pooling). Base: 13 umbrella reviews + 1 case-control h
 - [[endodontics/falatah-2025-nonsurgical-retreatment-persistent-ap-sr]] — NS retreatment for persistent AP; same 4 prognostic factors consistent; modern armamentarium improves predictability; prioritize over extraction
 - [[endodontics/asgary-2026-endodontic-surgery-cem-long-term]] — CEM surgical endo 94.9% success over 13 yr; systemic disease (ASA≥II) sole independent predictor (HR 5.87); local anatomy non-significant
 - [[endodontics/fan-2025-perioendo-treatment-sequence-srma]] — perioendo lesions: endodontic-first superior (PD −1.07mm, CAL +0.99mm, survival RR 1.22); direction consistent, extreme heterogeneity
+- [[endodontics/eal/nalci-calik-2026-eal-vs-radiography-working-length-rct]] — RCT comparing EAL vs radiographic working-length determination; accuracy and clinical outcome equivalence (rct, 2026)
+- [[endodontics/obturation/lee-2026-ortho-mta-iii-vs-gp-infected-canals-rct]] — RCT comparing Ortho MTA III vs gutta-percha obturation in infected canals; microbiological and clinical outcomes (rct, 2026)
 
 ## Related Overviews
 
