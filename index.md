@@ -2590,6 +2590,7 @@ tags: []
 
 - [[cracked-tooth/zhang-2026-clinical-characteristics-prognostic-factors-cracked]] — Retrospective cohort (n=561): distal marginal ridge highest failure, two critical pulpitis progression windows (0–1 mo, 3–6 mo), full-coverage crown OR=5.57 (2026)
 - [[cracked-tooth/deng-2026-occlusal-morphology-cracked-teeth-3d-morphometric]] — Case-control 3D morphometry (n=83+83): CIS functional cusp steeper 4–6°, mandibular CIS height OR=8.177; first reference intervals for morphology-guided crack-risk screening (2026)
+- [[cracked-tooth/hernando-2026-diagnostic-methods-dental-cracks-systematic-review]] — SR (12 studies): OCT = highest single-method accuracy for crack detection; multimodal approach superior; standardized protocols lacking (2026)
 ## 치과 역사 (Dental History)
 - [[dental-history/jkda-2025-63-8-006]] — Historical article (Goodface Mi 치과 변웅래, JKDA 2025): 함석태(1889-?) — 첫 한국인 정규 치과대학 졸업자·등록 치과의사·한성치과의사회 창립(일본 단체 대항). 일제강점기 한국 치과 자주성 anchor
 - [[dental-history/choi-2026-opening-future-innovation-convergence-oral-health]] — Choi 2026 · narrative-review · 대한예방치과·구강보건학회장 사설로 학술지 비전과 3대 학술 방향(예방연구 확장, 인재 양성, 융합·글로벌 네트워크)을 제시 (DOI 10.11149/jkaoh.2026.50.2.55)
