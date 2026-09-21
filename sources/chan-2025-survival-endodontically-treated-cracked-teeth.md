@@ -11,13 +11,21 @@ source_collection: pubmed-abstract
 
 Long-term (10–15 year) survival data for endodontically treated cracked teeth is scarce. This retrospective study provides the most extended follow-up cohort to date, directly complementing the shorter-term evidence in [[cracked-tooth/zhang-2024-cracked-teeth-treatment-outcomes-sr-ma]] and [[cracked-tooth/dong-2026-nomogram-cracked-tooth-rct-5year-survival]]. Preoperative probing depth as a primary survival predictor has direct clinical triage implications.
 
-## One-line Summary
+## Three-line Summary
 
-10–15 year retrospective of 204 endodontically treated cracked teeth: 66%/55% survival at 10/15 yr; preoperative probing depth is the dominant prognostic factor.
+A retrospective cohort of 204 endodontically treated cracked teeth followed for 10–15 years found overall survival rates of 66% at 10 years and 55% at 15 years.
 
-## 한줄요약
+Preoperative probing depth (PD) was the dominant prognostic factor: PD <4 mm yielded 76%/64% survival at 10/15 years, while PD ≥6 mm carried aHR=3.19 for extraction.
 
-204개 균열치아의 근관치료 후 10~15년 생존율은 각각 66%/55%이며, 술전 치주낭 깊이(Probing Depth, PD)가 가장 중요한 예후 인자이다.
+Success rates (asymptomatic + complete radiographic healing) declined steeply from 64% to 37% between years 10 and 15; endodontic treatment of cracked teeth with PD <4 mm is a viable long-term option.
+
+## 세줄요약
+
+근관치료를 받은 균열치아 204개를 10~15년 추적한 후향적 연구에서 10년/15년 생존율은 각각 66%/55%였다.
+
+술전 치주낭 깊이 (Probing Depth, PD)가 핵심 예후 인자로, PD <4 mm는 76%/64%, PD ≥6 mm는 발치 위험 3.19배(aHR)였다.
+
+성공률은 10년 64%에서 15년 37%로 급감하며, PD <4 mm인 균열치의 근관치료는 장기적으로 실행 가능한 치료 옵션이다.
 
 ## Document Information
 
