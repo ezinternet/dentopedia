@@ -177,6 +177,7 @@ MRONJ 결론: 카탈로그 언급(Ku 2025)에서 분자기전 근거로 격상. 
 - [[pdrn/pachhapure-2025-mitigating-effect-mechanism-polydeoxyribonucleotide]] — MRONJ 기전 in vitro (신규)
 - [[pdrn/gwak-2021-does-polydeoxyribonucleotide-effect-tendon]] — 비치과 진통 SR/MA, cross-domain (신규)
 - [[pdrn/kim-2019-efficacy-safety-polydeoxyribonucleotide-knee]] — 비치과 관절 SR/MA, cross-domain (신규)
+- [[pdrn/choi-2026-role-pdrn-musculoskeletal-biotherapy-review]] — narrative review: PDRN mechanism across musculoskeletal biotherapy (A2A receptor agonism, tissue repair, anti-inflammatory cascade); cross-domain context for PDRN use in dental regeneration and pain management (review, 2026)
 
 Cross-category:
 - [[overviews/immediate-implant-conditions]] — 즉시식립 조건 (PDRN soft-tissue 연작의 임상 배경)
