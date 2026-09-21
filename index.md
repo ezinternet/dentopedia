@@ -2594,6 +2594,7 @@ tags: []
 - [[cracked-tooth/yang-2024-crack-line-location-prognosis-occlusal-veneer]] — Prospective (n=80): Type I crack (within veneer prep boundary) vs Type II (beyond boundary) — Type II = inferior pulp vitality prognosis; first intraoperative crack classification for veneer risk stratification (2024)
 - [[cracked-tooth/pryles-2025-preventive-endodontics-crack-development-tooth-loss]] — Harvard narrative review: preventive endodontics framework for crack management — early protective restoration + bruxism control + timely endo interrupts crack→tooth-loss cascade (2025)
 - [[cracked-tooth/eraslan-2026-artificial-intelligence-cracked-tooth-diagnosis]] — AI LLM benchmark (50 CTS scenarios): better on classic presentations, weaker on atypical — AI viable as decision-support, not standalone diagnosis (2026)
+- [[cracked-tooth/shimizu-2026-enamel-crack-orofacial-pain-differential-diagnosis]] — Prospective 3yr: enamel crack produces distinct OFP patterns; multimodal criteria required to differentiate from TMD and neuropathic pain (2026)
 ## 치과 역사 (Dental History)
 - [[dental-history/jkda-2025-63-8-006]] — Historical article (Goodface Mi 치과 변웅래, JKDA 2025): 함석태(1889-?) — 첫 한국인 정규 치과대학 졸업자·등록 치과의사·한성치과의사회 창립(일본 단체 대항). 일제강점기 한국 치과 자주성 anchor
 - [[dental-history/choi-2026-opening-future-innovation-convergence-oral-health]] — Choi 2026 · narrative-review · 대한예방치과·구강보건학회장 사설로 학술지 비전과 3대 학술 방향(예방연구 확장, 인재 양성, 융합·글로벌 네트워크)을 제시 (DOI 10.11149/jkaoh.2026.50.2.55)
