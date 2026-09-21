@@ -6,8 +6,6 @@ doi: "10.1902/jop.2012.120099"
 pmid: "22509755"
 source_collection: pubmed-abstract
 full_text: false
-text_path: /Users/oracleneo/llm-wiki/papers/suarez-2012-timing-restoration-implant-marginal-bone-loss-sr-ma.txt
-text_filename: suarez-2012-timing-restoration-implant-marginal-bone-loss-sr-ma.txt
 category: immediate-implant/loading-protocol
 evidence_level: sr+ma
 ---
@@ -17,6 +15,9 @@ evidence_level: sr+ma
 ## Why Ingested
 
 SR+MA directly comparing marginal bone loss (MBL) outcomes across all three restoration-timing protocols (IR/L, EL, CL) for both immediate-placement and delayed-placement implants. Provides level-1 evidence that loading timing does not drive MBL, redirecting protocol selection toward other clinical factors.
+
+→ [[suarez-2012-timing-restoration-implant-marginal-bone-loss-sr-ma]]
+
 
 ## Three-line Summary
 

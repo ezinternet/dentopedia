@@ -6,8 +6,6 @@ doi: "10.1111/cid.13334"
 pmid: "38693759"
 source_collection: pubmed-abstract
 full_text: false
-text_path: /Users/oracleneo/llm-wiki/papers/markovic-2024-immediate-vs-early-loading-immediately-placed.txt
-text_filename: markovic-2024-immediate-vs-early-loading-immediately-placed.txt
 category: immediate-implant/loading-protocol
 evidence_level: rct
 ---

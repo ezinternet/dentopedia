@@ -14,6 +14,11 @@ full_text: false
 
 # Source: Slagter 2014 — Immediate Placement Esthetic Zone SR+Pooled Analysis
 
+
+## Why Ingested
+
+심미 영역 즉시 임플란트 식립 SR — [[slagter-2014-immediate-placement-esthetic-zone-sr]] 페이지의 1차 근거; 심미 영역 IIP의 연조직·치조골 변화와 생존율 SR.
+
 ## Three-line Summary
 
 This systematic review and pooled analysis (34 studies; MEDLINE/EMBASE/CENTRAL up to June 2013) evaluated survival, tissue changes, esthetics, and patient satisfaction of immediately placed single-tooth implants in the esthetic zone. One-year implant survival was 97.1% (95%CI 0.958–0.980); mean marginal bone loss 0.81±0.48mm; midfacial mucosa loss 0.54±0.39mm. Regression analysis identified delayed provisionalization (OR 58.03), flap use (OR 19.87), and connective tissue graft (OR 4.56) as risk factors for marginal bone level change >0.50mm.

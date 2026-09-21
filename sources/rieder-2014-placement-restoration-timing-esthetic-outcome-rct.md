@@ -12,6 +12,11 @@ full_text: false
 evidence_level: rct
 ---
 
+
+## Why Ingested
+
+식립·수복 시기에 따른 전치부 심미 결과 RCT — [[rieder-2014-placement-restoration-timing-esthetic-outcome-rct]] 페이지의 1차 근거; 즉시 식립 + 즉시 임시 수복 프로토콜의 심미 영역 적용 근거.
+
 ## Source Summary
 
 4-arm RCT (n=48) investigating the combined effect of implant placement timing (immediate vs. early) and restoration timing (immediate vs. early) on esthetic outcomes in maxillary anterior single implants. Primary outcome: Pink Esthetic Score (PES) at final restoration delivery.

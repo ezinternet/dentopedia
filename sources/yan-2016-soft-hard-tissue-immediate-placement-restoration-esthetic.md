@@ -16,6 +16,11 @@ evidence_level: sr+ma
 
 Systematic review and meta-analysis comparing soft and hard tissue outcomes of immediate placement, immediate restoration, and immediate loading protocols vs conventional protocols for single-tooth implants in the esthetic zone.
 
+
+## Why Ingested
+
+심미 영역 즉시 식립 + 즉시 수복 후 연·경조직 결과 SR — [[yan-2016-soft-hard-tissue-immediate-placement-restoration-esthetic]] 페이지의 1차 근거; IIP + 즉시 임시치관의 연조직·변연골 변화 종합.
+
 ## Three-line Summary
 
 A systematic review and meta-analysis of 13 RCTs (searched up to December 2014) compared soft and hard tissue outcomes of immediate placement, immediate restoration, and immediate loading vs conventional protocols for single-tooth implants in the esthetic zone. All meta-analyzed outcomes (bone level mesial/distal/mean, papillae mesial, midbuccal mucosa) showed SMDs with 95% CIs crossing zero — no statistically significant differences. Immediately placed, restored, or loaded single-tooth implants result in equivalent peri-implant tissue changes compared to conventional protocols.

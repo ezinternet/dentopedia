@@ -12,6 +12,11 @@ source_collection: pubmed-abstract
 full_text: false
 ---
 
+
+## Why Ingested
+
+임플란트 주위 신경지배 SR — [[huang-2014-innervation-peri-implant-tissues-placement-loading-sr]] 페이지의 1차 근거; 로딩 프로토콜과 임플란트 주위 조직 신경재분포의 관계를 다루는 희소한 SR.
+
 ## Three-line Summary
 
 A systematic review (10 studies from MEDLINE/Cochrane/EMBASE; up to July 2013) investigated the effect of implant placement and loading protocols on peri-implant innervation in hard and soft tissues. All 10 studies confirmed sensory innervation around osseointegrated implants; loaded implants showed significantly higher nerve fibre density compared to unloaded implants and extraction sites without implantation. Evidence was insufficient to distinguish innervation patterns between immediate and delayed placement or loading protocols due to high risk of bias and study heterogeneity.

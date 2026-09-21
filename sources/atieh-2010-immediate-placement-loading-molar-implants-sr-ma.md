@@ -15,6 +15,11 @@ full_text: false
 
 > **abstract-only** — full text not retrieved (OA: none; built from PubMed abstract only. PMID: 20369102)
 
+
+## Why Ingested
+
+구치부 즉시 식립 및 즉시 수복/로딩 SR+MA (2010) — [[atieh-2010-immediate-placement-loading-molar-implants-sr-ma]] 페이지의 1차 근거; 구치부 즉시 식립 생존율 99.0% 및 즉시 로딩의 변연골 이점을 제공하는 핵심 메타분석.
+
 ## Three-line Summary
 
 This systematic review and meta-analysis evaluated (1) immediate placement of single implants in fresh molar extraction sockets (9 studies, 1,013 implants: survival 99.0%; no significant difference immediate vs delayed loading, RR 0.30, P=0.16) and (2) immediate restoration/loading of single molar implants in healed sites (7 studies, 188 implants: survival 97.9%; no significant difference, RR 3.0, P=0.33). Favorable marginal bone level changes in the immediate loading group were detected at 12 months (MD -0.31mm, 95%CI -0.53 to -0.096, P=0.005), suggesting a potential advantage beyond mere equivalence in survival.

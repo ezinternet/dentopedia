@@ -9,8 +9,12 @@ volume: "9 Suppl 1"
 pages: "S163-72"
 source_collection: pubmed-abstract
 full_text: false
-text_path: papers/moy-2016-single-implants-dorsal-posterior-areas-sr.txt
 ---
+
+
+## Why Ingested
+
+구치부 단일 임플란트 결과 SR — [[moy-2016-single-implants-dorsal-posterior-areas-sr]] 페이지의 1차 근거; IIP 즉시 식립 서베일런스 구치부 세그먼트 보완.
 
 ## Three-line Summary
 
