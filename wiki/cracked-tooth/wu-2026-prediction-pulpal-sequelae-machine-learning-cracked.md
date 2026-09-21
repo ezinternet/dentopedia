@@ -4,7 +4,7 @@ authors: Wu Siwen, Dascalu Tudor, Seet Rachel Fangying, Chan Pei Yuan, Yu Na, Ha
 year: 2026
 date: 2026-01-20
 doi: 10.1016/j.joen.2026.01.010
-source: sources/wu-2026-prediction-pulpal-sequelae-machine-learning-cracked.md
+source: wu-2026-prediction-pulpal-sequelae-machine-learning-cracked.md
 category: [cracked-tooth]
 evidence_level: retrospective
 source_collection: pubmed-abstract
