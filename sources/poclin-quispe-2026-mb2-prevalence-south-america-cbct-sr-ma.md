@@ -16,6 +16,22 @@ SR+MA (Front Dent Med 2026): 23 CBCT studies, South America; pooled MB2 prevalen
 ## 한줄요약
 SR+MA (Front Dent Med 2026): 남미 CBCT 23편; MB2 유병률 합산 59%; 상악 제1대구치 66%, 제2대구치 41%.
 
+## Three-line Summary
+
+SR+MA, 23 CBCT studies from South American populations — first regional meta-analysis of MB2 canal prevalence in maxillary molars using CBCT as the detection modality.
+
+Pooled MB2 prevalence was 59% overall; maxillary first molars had 66% prevalence vs 41% for second molars.
+
+South American populations may not generalize globally; CBCT slice thickness and resolution varied across studies; referral-based sampling may skew toward complex anatomy.
+
+## 세줄요약
+
+SR+MA, 남미 CBCT 23편 — 상악 대구치 MB2 근관 유병률 지역별 첫 메타분석.
+
+MB2 유병률 전체 59%; 상악 제1대구치 66%, 제2대구치 41%.
+
+남미 인구로 전 세계 일반화 제한; CBCT 슬라이스 두께 이질성; 의뢰 편향 가능성.
+
 ## 1. Document Information
 - Journal: Frontiers in Dental Medicine, 2026. DOI: 10.3389/fdmed.2026.1928424
 - PMID: 42741005
