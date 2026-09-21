@@ -19,6 +19,22 @@ SR+MA (JERD 2026): 4 RCTs, 144 implants, 12-month follow-up; concave emergence p
 
 SR+MA (JERD 2026): RCT 4편, 144개 임플란트, 12개월; 오목형 이행윤곽이 볼록형 대비 midfacial 점막 퇴축을 줄이는 경향(MD -0.31mm; p=0.064), 민감도 분석에서 유의 (p=0.002).
 
+## Three-line Summary
+
+SR+MA, 4 RCTs (144 implants), MEDLINE/Embase through May 2026, PROSPERO CRD420251139042 — comparing concave vs convex implant emergence profiles for midfacial mucosal stability at 12 months.
+
+Concave emergence profiles showed a trend toward less midfacial mucosal recession vs convex (MD −0.31 mm, p=0.064, I²=28%); sensitivity analysis excluding one study achieved statistical significance (p=0.002) with consistent direction across all iterations.
+
+Only 4 RCTs available; all rated "some concerns" for risk of bias; primary analysis is borderline non-significant; result robust on sensitivity analysis but replication with larger, standardized trials is needed.
+
+## 세줄요약
+
+SR+MA, 4편 RCT (144개 임플란트), MEDLINE/Embase 2026년 5월까지 — 오목형 vs 볼록형 임플란트 이행윤곽의 12개월 midfacial 점막 안정성 비교.
+
+오목형 이행윤곽이 볼록형 대비 midfacial 점막 퇴축 적은 경향 (MD −0.31 mm, p=0.064, I²=28%); 민감도 분석에서 통계적 유의성 달성 (p=0.002).
+
+4편 RCT만 가용; 전부 "일부 우려" 비뚤림위험; 1차 분석 경계 비유의 — 표준화된 대규모 시험으로 검증 필요.
+
 ## 1. Document Information
 
 - Journal: Journal of Esthetic and Restorative Dentistry, 2026; 38(10):1910-1919
