@@ -2400,6 +2400,7 @@ tags: []
 
 - [[cracked-tooth/chan-2025-survival-endodontically-treated-cracked-teeth]] — Retrospective 10–15yr: RCT-treated CTS survival 66%(10yr)/55%(15yr); PD<4mm → 76%/64%; PD≥6mm aHR=3.19 (2025)
 - [[cracked-tooth/malentacca-2026-cuspal-coverage-direct-resin-composite-cracked]] — Retrospective 5yr (n=321): direct resin composite cuspal coverage survival 94.1%; periodontal lesion OR=10.52 dominant risk (2026)
+- [[cracked-tooth/wu-2026-prediction-pulpal-sequelae-machine-learning-cracked]] — ML models (n=593): pulp survival prediction in reversible pulpitis CTS; LR AUC=0.64, PPV=0.76; age+preop restoration = key predictors (2026)
 ### endodontics (added 2026-05-24, batch c)
 
 - [[endodontics/kwak-2024-endodontic-treatment-cracked-tooth-management]] — Kwak Youngjun 2024 · narrative-review · Endodontic treatment in the management of cracked tooth
