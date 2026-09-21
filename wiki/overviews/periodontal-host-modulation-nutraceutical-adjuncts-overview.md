@@ -33,7 +33,7 @@ tags: [host-modulation, nutraceutical, omega-3, CoQ10, vitamin-C, ASU, melatonin
 
 ## Three-line Summary
 
-Synthesis of 7 papers on host-modulation/nutraceutical adjuncts (omega-3, CoQ10, antioxidant vitamins, ASU, melatonin, local doxycycline): all produce statistically detectable but sub-millimeter PD/CAL gains of low-to-very-low certainty — positive meta-analyses conflict with guideline recommendations (EFP recommends against omega-3) and with each other (CoQ10 gel vs oral route conflict resolved by risk-of-bias stratification).
+Synthesis of 10 papers on host-modulation/nutraceutical adjuncts (omega-3, CoQ10, antioxidant vitamins/iPRF, vitamin D, ASU, melatonin, local doxycycline): all produce statistically detectable but sub-millimeter PD/CAL gains of low-to-very-low certainty — positive meta-analyses conflict with guideline recommendations (EFP recommends against omega-3) and with each other (CoQ10 gel vs oral route conflict resolved by risk-of-bias stratification).
 
 The one clinically meaningful effect is local doxycycline applied 2 weeks before MIST + EMD + xenograft (Aimetti 2025, triple-blind RCT, n=60: CAL +0.9 mm, composite success 83.3% vs 46.7%, NNT=2.73) — an MMP-modulating antibiotic in a regenerative-surgical context, not a standalone supplement.
 
@@ -41,7 +41,7 @@ A T2DM-specific melatonin signal (Angelopoulou 2026, SR+MA, 3 RCTs, PPD SMD −1
 
 ## 세줄요약
 
-숙주조절·영양보조제(오메가-3·CoQ10·항산화비타민·아보카도/대두 불검화물(ASU)·멜라토닌·국소 독시사이클린) 7편 종합 — 모두 통계적으로는 검출되나 1 mm 미만·low~very-low 확실성의 치주낭깊이(Probing Pocket Depth, PPD)/임상부착수준(Clinical Attachment Level, CAL) 이득에 그침.
+숙주조절·영양보조제(오메가-3·CoQ10·항산화비타민/혈소판풍부피브린(iPRF)·비타민D·아보카도/대두 불검화물(ASU)·멜라토닌·국소 독시사이클린) 10편 종합 — 모두 통계적으로는 검출되나 1 mm 미만·low~very-low 확실성의 치주낭깊이(Probing Pocket Depth, PPD)/임상부착수준(Clinical Attachment Level, CAL) 이득에 그침.
 
 양성 메타분석이 가이드라인(유럽치주학회(EFP) 오메가-3 반대) 및 서로(CoQ10: 겔 권장 구형 SR vs 겔 무효 신형 경로층화 SR)와 충돌; 임상적으로 의미있는 효과는 재생수술 맥락의 국소 독시사이클린(Aimetti 2025, NNT=2.73)에서만.
 
