@@ -24,6 +24,22 @@ SR+MA (Medicine 2026; 26 RCTs, n=1266): curcumin equivalent to CHX for plaque in
 
 SR+MA (Medicine 2026; 26편, n=1266): 커큐민, CHX와 치태·치은·출혈 지수 동등 — 치주낭 깊이·부착소실에서 CHX 우월(SMD 0.883/0.539); 전 결과 이질성 매우 높음.
 
+## Three-line Summary
+
+SR+MA, 26 RCTs (1266 subjects), multiple databases — comparing curcumin vs chlorhexidine across five periodontal clinical outcomes: plaque index, gingival index, bleeding index, probing depth, and attachment loss.
+
+Curcumin was statistically equivalent to CHX for PI (SMD −0.041), GI, and BI; CHX was significantly superior for probing depth (SMD 0.883, p<0.001) and attachment loss (SMD 0.539, p=0.042); CHX advantage in PD/AL was mainly short-term on subgroup analysis.
+
+24 of 26 studies had high risk of bias; heterogeneity extreme across all outcomes (I²=83–94%); curcumin is appropriate for gingivitis/plaque control but cannot replace CHX in established periodontitis management.
+
+## 세줄요약
+
+SR+MA, 26편 RCT (1266명), 복수 데이터베이스 — 커큐민 vs CHX의 치주 임상 5개 지표 비교.
+
+커큐민은 PI·GI·출혈지수에서 CHX와 동등; CHX는 치주낭 깊이 (SMD 0.883, p<0.001)·부착소실 (SMD 0.539, p=0.042)에서 유의하게 우월; 장기 하위군에서 PD/AL 격차 감소.
+
+26편 중 24편 고위험 비뚤림; 이질성 극심 (I²=83–94%); 커큐민은 치태·치은염 보조제로 적합, 치주낭 관리 CHX 대체 불가.
+
 ## Summary
 
 Jiang et al. (Medicine 2026) performed the largest SR+MA comparing curcumin and chlorhexidine across five periodontal clinical outcomes. Twenty-six RCTs enrolling 1266 subjects were included, though 24/26 carried high risk of bias. For surface biofilm outcomes — plaque index (SMD −0.041), gingival index (SMD 0.033), and bleeding index (SMD −0.044) — curcumin and CHX were statistically equivalent. However, for depth measures, CHX was significantly superior: probing depth (SMD 0.883, p<0.001) and attachment loss (SMD 0.539, p=0.042). A subgroup analysis by follow-up duration showed that CHX's advantage in PD/AL was mainly short-term (≤1 month); long-term differences diminished. Heterogeneity was extreme across all outcomes (I²=83–94%), limiting confidence in point estimates.
