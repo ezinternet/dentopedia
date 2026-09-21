@@ -16,6 +16,22 @@ SR+MA (Clin Oral Investig 2026; 45 studies): propolis-containing formulations re
 ## 한줄요약
 SR+MA (Clin Oral Investig 2026; 45편): 프로폴리스 제제가 치태지수 감소(vs 음성대조 SMD −1.11), 균수 감소(SMD −1.45) — CHX와 통계적 차이 없음; 근거 수준 매우 낮음.
 
+## Three-line Summary
+
+SR+MA, 45 RCTs, multiple databases through December 2025 — propolis-containing formulations (dentifrices, mouthwashes, tablets) for plaque control and caries prevention.
+
+Propolis significantly reduced plaque index vs negative control (SMD −1.11) and microbial counts (SMD −1.45); no statistically significant difference from chlorhexidine for either outcome.
+
+Direct caries outcome data were insufficient for meta-analysis; GRADE certainty was very low due to high risk of bias, inconsistency, and use of surrogate endpoints.
+
+## 세줄요약
+
+SR+MA, 45편 RCT, 2025년 12월까지 검색 — 프로폴리스 제제(치약·가글·정제)의 치태 조절 및 우식 예방 효능 종합.
+
+프로폴리스 치태지수 유의 감소(vs 음성대조 SMD −1.11)·균수 감소(SMD −1.45); CHX 대비 PI·균수 통계적 비열등.
+
+직접 우식 지표 메타분석 불가; GRADE 근거 수준 매우 낮음(고위험 비뚤림, 이질성, 대리지표 사용).
+
 ## 1. Document Information
 - Journal: Clinical Oral Investigations 2026;30(9)
 - DOI: 10.1007/s00784-026-07065-6 | PMID: 42593545 | PMC: PMC13473232
