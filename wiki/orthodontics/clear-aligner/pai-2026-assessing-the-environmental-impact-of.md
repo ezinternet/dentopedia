@@ -5,7 +5,7 @@ year: 2026
 doi: "10.3389/fdmed.2026.1849048"
 pmid: "42707376"
 pmcid: "PMC13547079"
-source: "sources/pai-2026-assessing-the-environmental-impact-of.md"
+source: "pai-2026-assessing-the-environmental-impact-of.md"
 source_collection: pubmed-text
 full_text: true
 text_path: /Users/oracleneo/llm-wiki/papers/pai-2026-assessing-the-environmental-impact-of.txt
