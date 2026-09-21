@@ -171,6 +171,7 @@ Related existing wiki:
 - [[implants/surface/wagstaffe-2019-rgd-tripeptide-adsorption-titania-surfaces]] — **2026-08 신규**: 부착탄소오염의 화학적 정체(소형 유기산, 카르복실기-양이온 브리징) — 플라즈마/UV 공통 제거 대상 특정.
 - [[implants/surface/houshmand-2023-uv-photofunctionalization-sla-titanium-disks]] — **2026-08 신규**: UVB는 접촉각만 개선하고 탄소는 못 없앰(UVC만 실효) — 파장/기전 검증 없이 습윤성만으로 탈오염을 단정하면 안 된다는 교차기술 경고.
 - [[implants/surface/hirota-2020-uv-photofunctionalization-dental-implant-7year]] / [[implants/surface/park-2025-uv-photofunctionalization-osseointegration-soft-tissue]] — UV photofunctionalization (parallel modality).
+- [[implants/surface/balkanlioglu-2026-cold-plasma-implant-isq-stability]] — clinical study: cold atmospheric plasma pre-treatment; ISQ stability at placement and loading (clinical, 2026)
 
 ## Sibling overview — UV photofunctionalization
 
