@@ -7,7 +7,7 @@ pmid: "22509755"
 journal: "Journal of Periodontology"
 volume: "84"
 issue: "2"
-source: "sources/suarez-2012-timing-restoration-implant-marginal-bone-loss-sr-ma.md"
+source: "suarez-2012-timing-restoration-implant-marginal-bone-loss-sr-ma.md"
 source_collection: pubmed-abstract
 full_text: false
 text_path: /Users/oracleneo/llm-wiki/papers/suarez-2012-timing-restoration-implant-marginal-bone-loss-sr-ma.txt
