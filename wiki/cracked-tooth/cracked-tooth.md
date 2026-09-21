@@ -15,20 +15,20 @@ tags: [navigation, category-index, cracked-tooth]
 > [!summary] 한국어 핵심요약
 > - **분야**: 균열치 증후군
 > - **범위**: Cracked tooth syndrome — classification (Ellis/Baird), diagnosis, prognosis, restoration design, FEA stress analysis
-> - **수록 논문**: 30편
+> - **수록 논문**: 31편
 
 ## Three-line Summary
 
 **Scope**: Cracked tooth syndrome — classification (Ellis/Baird), diagnosis, prognosis, restoration design, FEA stress analysis
-**Indexed papers**: 30 papers in `wiki/cracked-tooth/`.
+**Indexed papers**: 31 papers in `wiki/cracked-tooth/`.
 
 ## 세줄요약
 
 **분야**: 균열치 증후군
-**수록 논문**: 30편
+**수록 논문**: 31편
 **하위 카테고리**: 없음
 
-## Papers in this Category (30)
+## Papers in this Category (31)
 
 | Paper |
 |---|
@@ -55,6 +55,7 @@ tags: [navigation, category-index, cracked-tooth]
 | [[pryles-2025-preventive-endodontics-crack-development-tooth-loss|Preventive Endodontics: Understanding Crack Development and Preventing Tooth Loss]] |
 | [[raj-2025-cracked-tooth-syndrome-diagnostic-dilemma|Cracked tooth syndrome: a diagnostic dilemma - a mini review]] |
 | [[renner-2025-cracks-posterior-teeth-symptoms-cross-sectional|Characteristics of cracks in posterior teeth and factors associated with symptoms: a cross-sectional practice-based observational study]] |
+| [[shimizu-2026-enamel-crack-orofacial-pain-differential-diagnosis|Enamel Cracks and Orofacial Pain: Differential Diagnosis and 3-Year Follow-Up]] |
 | [[soares-de-toubes-2025-biodentine-intraorifice-barrier-cracked-tooth|Efficacy of Biodentine as an Intraorifice Barrier in a Cracked Tooth with Endo-periodontal Lesions: A Case Report]] |
 | [[son-2024-qlf-validity-diagnosing-cracked-teeth|Investigation of validity and inter examiner agreement of quantitative light induced fluorescent images in diagnosing cracked teeth]] |
 | [[wang-2025-crown-vs-porcelain-inlay-cracked-teeth-rct|Efficacy of total crown and porcelain inlay restoration and its effect on masticatory ability and gingival condition]] |
