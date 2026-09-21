@@ -19,6 +19,22 @@ Split-mouth RCT (Oral Health Prev Dent 2026): 15 patients, Stage II/III periodon
 ## 한줄요약
 Split-mouth RCT (Oral Health Prev Dent 2026): 15명, Stage II/III 치주염; NSPT 보조 PRF vs EMD에서 CAL·PPD·BOP 6개월 결과 유사 — 두 생물학적 제재 간 유의 차이 없음.
 
+## Three-line Summary
+
+Split-mouth RCT, 15 patients, Stage II/III periodontitis, private practice Florida USA December 2024–April 2025 — first direct head-to-head comparison of PRF vs enamel matrix derivative as NSPT adjuncts (not vs placebo).
+
+Both PRF and EMD as adjuncts to SRP produced significant improvements in CAL, PPD, and BOP from baseline at 6 months; no statistically significant difference between the two biologics for any outcome.
+
+Small sample (n=15) and short follow-up (6 months) limit generalizability; findings suggest PRF and EMD are interchangeable NSPT adjuncts with selection based on clinician preference, cost, and moisture conditions.
+
+## 세줄요약
+
+Split-mouth RCT, 15명, Stage II/III 치주염, 미국 플로리다 사설 클리닉 2024–2025 — PRF vs EMD를 NSPT 보조제로 직접 비교한 첫 RCT.
+
+PRF·EMD 모두 SRP 보조 시 CAL·PPD·BOP 기저치 대비 유의하게 개선; 두 생물학적 제재 간 어떤 결과에서도 유의차 없음.
+
+소표본(n=15)·단기 추적(6개월)으로 일반화 제한; PRF와 EMD는 임상 선호도·비용·습윤 조건에 따라 선택 가능한 대체 가능 보조제로 제안.
+
 ## 1. Document Information
 - Journal: Oral Health and Preventive Dentistry, 2026. DOI: 10.3290/j.ohpd.c_2750
 - PMID: 42583789; PMC: PMC13463701
