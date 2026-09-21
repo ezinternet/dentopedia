@@ -8,7 +8,7 @@ journal: "Clinical Oral Implants Research"
 volume: "26"
 issue: "7"
 pages: "737-46"
-source: "sources/huang-2014-innervation-peri-implant-tissues-placement-loading-sr.md"
+source: "huang-2014-innervation-peri-implant-tissues-placement-loading-sr.md"
 source_collection: pubmed-abstract
 full_text: false
 text_path: /Users/oracleneo/llm-wiki/papers/huang-2014-innervation-peri-implant-tissues-placement-loading-sr.txt
