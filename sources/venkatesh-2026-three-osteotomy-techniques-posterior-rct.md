@@ -16,6 +16,22 @@ RCT (BMC Oral Health 2026): 30 patients, conventional vs Summers' osteotome vs o
 ## 한줄요약
 RCT (BMC Oral Health 2026): 30명, 후방 상악 3가지 골삭제술 비교 — ISQ 통계적 유의차 없음(p NS), 수치적으로 OD 소폭 높고 osteotome 소폭 낮음; 전 그룹 6개월 100% 생존.
 
+## Three-line Summary
+
+3-arm exploratory RCT, 30 patients (n=10 per group), Nitte University India — comparing conventional drilling, Summers' osteotome, and osseodensification for ISQ at placement, 3 months, and 6 months in posterior maxilla using identical Straumann BLT SLActive implants.
+
+No statistically significant ISQ differences were found between the three techniques at any timepoint; all groups achieved 100% survival at 6 months; numerical trend showed OD marginally higher and osteotome marginally lower.
+
+Critically underpowered (n=10 per group, acknowledged by authors); single center, retrospectively registered; Type II error cannot be excluded — larger trials needed.
+
+## 세줄요약
+
+3군 탐색적 RCT, 30명 (군당 10명), 인도 니테 대학 — 후방 상악에서 기존 드릴링·Summers' osteotome·OD의 식립 시·3·6개월 ISQ를 동일 Straumann BLT SLActive 임플란트로 비교.
+
+3가지 기법 간 어느 시점에서도 ISQ 통계적 유의차 없음; 6개월 전 그룹 100% 생존; 수치적으로 OD 소폭 높고 osteotome 소폭 낮음.
+
+군당 n=10 심각한 과소검정력 (저자 인정); 단일 기관·소급 등록; 2종 오류 배제 불가 — 대규모 시험 필요.
+
 ## 1. Document Information
 - Journal: BMC Oral Health, 2026;26
 - DOI: 10.1186/s12903-026-08858-7 | PMID: 42393673 | PMC: PMC13352673
