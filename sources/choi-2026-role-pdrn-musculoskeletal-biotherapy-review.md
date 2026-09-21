@@ -16,6 +16,22 @@ Narrative review (Int J Mol Sci 2026): PDRN acts as A2A receptor agonist + nucle
 ## 한줄요약
 서술적 리뷰 (Int J Mol Sci 2026): PDRN = A2A 수용체 효능제 + 뉴클레오타이드 재활용 기질; 골관절염 연골 보호·건 손상 조직 회복·척추 신경근증 비스테로이드 대안 가능성 — 치과 재생 적용과 동일 기전.
 
+## Three-line Summary
+
+Narrative review, scope: osteoarthritis, tendinopathies, spinal radiculopathy — mechanistic synthesis of PDRN as biotherapy for musculoskeletal disorders with implications for dental regeneration.
+
+PDRN acts via A2A receptor agonism (NF-κB suppression, TNF-α/IL-1β reduction) and nucleotide salvage pathway (cell proliferation, DNA repair), downstream driving VEGF-mediated angiogenesis and collagen synthesis across all musculoskeletal indications reviewed.
+
+Narrative review without systematic search; dosing protocols not standardized across indications; robust comparative RCTs against established treatments are lacking.
+
+## 세줄요약
+
+서술적 리뷰, 범위: 골관절염·건병증·척추 신경근증 — PDRN 기전 종합 (치과 재생 적용 동일 기전 포함).
+
+PDRN은 A2A 수용체 효능제(NF-κB 억제, TNF-α/IL-1β 감소)와 뉴클레오타이드 재활용 기질(세포 증식, DNA 복구)로 이중 작용; VEGF 혈관신생·콜라겐 합성 유도.
+
+비체계적 서술 리뷰; 적응증 간 투여 프로토콜 미표준화; 기존 치료 대비 비교 RCT 부재.
+
 ## 1. Document Information
 - Journal: International Journal of Molecular Sciences 2026;27(16):7304
 - DOI: 10.3390/ijms27167304 | PMID: 42653309 | PMC: PMC13513087
