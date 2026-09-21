@@ -356,6 +356,9 @@ OD는 임플란트 안정성 지수(Implant Stability Quotient, ISQ)가 오스�
 - [[sinus-lift/transcrestal/albadani-2024-graftless-sinus-lifting-simultaneous]] — 비이식 상악동거상 동시 임플란트 BMC 연구 (2024)
 - [[sinus-lift/transcrestal/kostakis-2025-graftless-sinus-lift-simultaneous-8year]] — 8년 전향 코호트(n=89): 무이식 동시 식립 성공률 97.76% vs 이식군 86.6%; 잔존골높이 유의 예측인자 (2025)
 
+### 기구 비교 (OD vs 골절기)
+- [[sinus-lift/transcrestal/kafadar-gurbuz-2026-od-vs-osteotome-tsfe-isq-rct]] — RCT: osseodensification vs osteotome technique for TSFE; ISQ primary stability comparison at placement and loading (rct, 2026)
+
 ### 인접 overview
 - [[overviews/sinus-lift-technique-selection]] — 상악동거상술 전체 종합
 - [[overviews/non-surgical-periodontal-therapy-overview]] — 비수술 치주치료
