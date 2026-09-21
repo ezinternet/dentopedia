@@ -1,0 +1,709 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>균열치 진단·치료 결정 트리</title>
+<style>
+  :root {
+    --bg: #f8f7f5;
+    --surface: #ffffff;
+    --border: #e2ddd8;
+    --border-strong: #c9c1b6;
+    --text-main: #1a1a1a;
+    --text-sub: #5a5650;
+    --text-muted: #8a8480;
+    --accent: #2d6a4f;
+    --accent-light: #e8f5ef;
+    --accent-btn: #2d6a4f;
+    --accent-btn-hover: #1f4e39;
+    --warn: #92400e;
+    --warn-bg: #fef3c7;
+    --danger: #991b1b;
+    --danger-bg: #fee2e2;
+    --info: #1e40af;
+    --info-bg: #dbeafe;
+    --neutral: #374151;
+    --neutral-bg: #f3f4f6;
+    --progress-fill: #2d6a4f;
+    --chip-bg: #f0ece8;
+    --chip-text: #3a3632;
+    --shadow: 0 1px 4px rgba(0,0,0,.07), 0 4px 12px rgba(0,0,0,.04);
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: var(--bg);
+    color: var(--text-main);
+    font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-size: 14px;
+    line-height: 1.6;
+    min-height: 100vh;
+    padding: 20px 16px 40px;
+  }
+
+  .container { max-width: 700px; margin: 0 auto; }
+
+  header {
+    text-align: center;
+    margin-bottom: 24px;
+  }
+  header h1 {
+    font-size: 20px;
+    font-weight: 700;
+    color: var(--text-main);
+    margin-bottom: 4px;
+  }
+  header p {
+    font-size: 12px;
+    color: var(--text-muted);
+  }
+
+  /* Progress bar */
+  .progress-wrap {
+    background: var(--border);
+    border-radius: 4px;
+    height: 4px;
+    margin-bottom: 24px;
+    overflow: hidden;
+  }
+  .progress-fill {
+    background: var(--progress-fill);
+    height: 100%;
+    border-radius: 4px;
+    transition: width .35s ease;
+  }
+
+  /* Step label */
+  .step-label {
+    font-size: 11px;
+    font-weight: 600;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: .05em;
+    margin-bottom: 8px;
+  }
+
+  /* Card */
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 20px;
+    margin-bottom: 16px;
+    box-shadow: var(--shadow);
+  }
+
+  .card h2 {
+    font-size: 15px;
+    font-weight: 700;
+    margin-bottom: 12px;
+    color: var(--text-main);
+  }
+
+  .card p {
+    color: var(--text-sub);
+    margin-bottom: 12px;
+    font-size: 13px;
+  }
+
+  /* Option buttons */
+  .options { display: flex; flex-direction: column; gap: 8px; }
+
+  .opt-btn {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    background: var(--surface);
+    border: 1.5px solid var(--border);
+    border-radius: 10px;
+    padding: 12px 14px;
+    cursor: pointer;
+    text-align: left;
+    transition: border-color .18s, background .18s;
+    width: 100%;
+  }
+  .opt-btn:hover { border-color: var(--accent); background: var(--accent-light); }
+  .opt-btn.selected { border-color: var(--accent); background: var(--accent-light); }
+
+  .opt-icon {
+    font-size: 18px;
+    flex-shrink: 0;
+    margin-top: 1px;
+  }
+
+  .opt-label {
+    font-weight: 600;
+    font-size: 13px;
+    color: var(--text-main);
+  }
+  .opt-desc {
+    font-size: 12px;
+    color: var(--text-sub);
+    margin-top: 2px;
+  }
+
+  /* Toggle chips (multi-select) */
+  .chips { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 6px; }
+  .chip {
+    background: var(--chip-bg);
+    border: 1.5px solid var(--border);
+    border-radius: 20px;
+    padding: 5px 14px;
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--chip-text);
+    cursor: pointer;
+    transition: border-color .18s, background .18s;
+  }
+  .chip:hover { border-color: var(--accent); background: var(--accent-light); }
+  .chip.on { border-color: var(--accent); background: var(--accent-light); color: var(--accent); }
+  .chip.danger-chip.on { border-color: var(--danger); background: var(--danger-bg); color: var(--danger); }
+  .chip.warn-chip.on { border-color: var(--warn); background: var(--warn-bg); color: var(--warn); }
+
+  /* Buttons */
+  .btn-row { display: flex; gap: 10px; margin-top: 16px; }
+
+  .btn-primary {
+    background: var(--accent-btn);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 22px;
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background .18s;
+  }
+  .btn-primary:hover { background: var(--accent-btn-hover); }
+  .btn-primary:disabled { background: var(--border-strong); cursor: default; }
+
+  .btn-ghost {
+    background: transparent;
+    color: var(--text-sub);
+    border: 1.5px solid var(--border);
+    border-radius: 8px;
+    padding: 10px 16px;
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+  }
+  .btn-ghost:hover { border-color: var(--border-strong); color: var(--text-main); }
+
+  /* Result panel */
+  .result-card {
+    border-radius: 12px;
+    padding: 20px;
+    margin-bottom: 16px;
+    box-shadow: var(--shadow);
+  }
+  .result-card.green { background: var(--accent-light); border: 1.5px solid #6fcf97; }
+  .result-card.yellow { background: var(--warn-bg); border: 1.5px solid #f59e0b; }
+  .result-card.red { background: var(--danger-bg); border: 1.5px solid #ef4444; }
+  .result-card.blue { background: var(--info-bg); border: 1.5px solid #60a5fa; }
+  .result-card.gray { background: var(--neutral-bg); border: 1.5px solid #9ca3af; }
+
+  .result-card h3 { font-size: 15px; font-weight: 700; margin-bottom: 8px; }
+  .result-card .rx { font-size: 16px; font-weight: 800; margin-bottom: 10px; }
+
+  .evidence-list { margin-top: 12px; }
+  .evidence-list h4 { font-size: 11px; font-weight: 700; color: var(--text-muted); text-transform: uppercase; letter-spacing:.04em; margin-bottom: 6px; }
+  .evidence-item {
+    display: flex;
+    gap: 8px;
+    font-size: 11px;
+    color: var(--text-sub);
+    margin-bottom: 4px;
+    align-items: flex-start;
+  }
+  .ev-tag {
+    flex-shrink: 0;
+    background: var(--chip-bg);
+    border-radius: 4px;
+    padding: 1px 6px;
+    font-size: 10px;
+    font-weight: 700;
+    color: var(--text-sub);
+  }
+
+  /* Summary row */
+  .summary-table { width: 100%; border-collapse: collapse; margin-top: 8px; font-size: 12px; }
+  .summary-table td, .summary-table th {
+    padding: 6px 10px;
+    border-bottom: 1px solid var(--border);
+    text-align: left;
+  }
+  .summary-table th { color: var(--text-muted); font-weight: 600; font-size: 11px; }
+
+  /* Risk badge */
+  .risk-badge {
+    display: inline-block;
+    border-radius: 6px;
+    padding: 2px 8px;
+    font-size: 11px;
+    font-weight: 700;
+  }
+  .risk-low { background: #d1fae5; color: #065f46; }
+  .risk-med { background: var(--warn-bg); color: var(--warn); }
+  .risk-high { background: var(--danger-bg); color: var(--danger); }
+
+  /* Divider */
+  hr { border: none; border-top: 1px solid var(--border); margin: 16px 0; }
+
+  /* Iowa index callout */
+  .callout {
+    border-radius: 8px;
+    padding: 10px 14px;
+    font-size: 12px;
+    margin-top: 10px;
+  }
+  .callout.iowa { background: var(--danger-bg); border-left: 3px solid var(--danger); color: var(--danger); }
+  .callout.pd { background: var(--warn-bg); border-left: 3px solid #f59e0b; color: var(--warn); }
+  .callout.note { background: var(--info-bg); border-left: 3px solid #60a5fa; color: var(--info); }
+  .callout strong { font-weight: 700; }
+
+  .hidden { display: none !important; }
+</style>
+</head>
+<body>
+<div class="container">
+  <header>
+    <h1>균열치 진단·치료 결정 트리</h1>
+    <p>CTS 서베일런스 2026 10편 통합 · 체어사이드 임상 보조 도구</p>
+  </header>
+
+  <div class="progress-wrap">
+    <div class="progress-fill" id="progressBar" style="width:10%"></div>
+  </div>
+
+  <!-- STEP 1: Classification -->
+  <div id="step1">
+    <div class="step-label">Step 1 / 4 — 균열 유형 분류</div>
+    <div class="card">
+      <h2>어떤 유형의 균열입니까?</h2>
+      <p>ESE position statement (Patel 2025) — 종방향 파절 5-type 분류</p>
+      <div class="options" id="typeOptions">
+        <button class="opt-btn" onclick="selectType('craze',this)">
+          <span class="opt-icon">🔍</span>
+          <div>
+            <div class="opt-label">Craze line (균열선)</div>
+            <div class="opt-desc">표면 에나멜만 · 무증상 · 투조 시 확인</div>
+          </div>
+        </button>
+        <button class="opt-btn" onclick="selectType('cusp',this)">
+          <span class="opt-icon">🦷</span>
+          <div>
+            <div class="opt-label">Fractured cusp (파절 교두)</div>
+            <div class="opt-desc">교두 부분 파절 · 통증 유발 가능</div>
+          </div>
+        </button>
+        <button class="opt-btn" onclick="selectType('cts',this)">
+          <span class="opt-icon">⚡</span>
+          <div>
+            <div class="opt-label">Cracked tooth / CTS (균열치) ← 가장 흔한 결정 필요 케이스</div>
+            <div class="opt-desc">불완전 파절 · pulp 침범 가능 · bite 통증 특이</div>
+          </div>
+        </button>
+        <button class="opt-btn" onclick="selectType('split',this)">
+          <span class="opt-icon">💥</span>
+          <div>
+            <div class="opt-label">Split tooth (완전 분리)</div>
+            <div class="opt-desc">치아 두 조각 완전 분리 · 발치/부분 발치</div>
+          </div>
+        </button>
+        <button class="opt-btn" onclick="selectType('vrf',this)">
+          <span class="opt-icon">🩻</span>
+          <div>
+            <div class="opt-label">VRF — 수직 치근 파절</div>
+            <div class="opt-desc">치근 종방향 파절 · 주로 근관치료치 · 발치 통상</div>
+          </div>
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Quick result for non-CTS types -->
+  <div id="quickResult" class="hidden">
+    <div class="step-label">결과</div>
+    <div id="quickResultContent"></div>
+    <div class="btn-row">
+      <button class="btn-ghost" onclick="resetAll()">↺ 다시 시작</button>
+    </div>
+  </div>
+
+  <!-- STEP 2: Symptoms -->
+  <div id="step2" class="hidden">
+    <div class="step-label">Step 2 / 4 — 임상 소견 · 증상</div>
+    <div class="card">
+      <h2>증상 및 임상 검사 결과</h2>
+      <p>해당하는 항목을 모두 선택하세요 (복수 선택 가능)</p>
+
+      <strong style="font-size:12px;color:var(--text-sub);">통증 유형</strong>
+      <div class="chips" id="painChips" style="margin-bottom:14px;margin-top:6px;">
+        <div class="chip" data-group="pain" onclick="toggleChip(this,'pain')">무증상</div>
+        <div class="chip" data-group="pain" onclick="toggleChip(this,'pain')">씹을 때 통증 (bite-only)</div>
+        <div class="chip" data-group="pain" onclick="toggleChip(this,'pain')">자발통 (spontaneous)</div>
+        <div class="chip" data-group="pain" onclick="toggleChip(this,'pain')">온도 과민</div>
+      </div>
+
+      <strong style="font-size:12px;color:var(--text-sub);">치주·방사선 소견</strong>
+      <div class="chips" style="margin-bottom:14px;margin-top:6px;">
+        <div class="chip warn-chip" data-key="pd5" onclick="toggleChipKey(this)">탐침 ≥ 5 mm (Iowa)</div>
+        <div class="chip warn-chip" data-key="pd4" onclick="toggleChipKey(this)">탐침 4–5 mm</div>
+        <div class="chip danger-chip" data-key="periapical" onclick="toggleChipKey(this)">치근단 병변 있음</div>
+        <div class="chip" data-key="cuspal_mob" onclick="toggleChipKey(this)">교두 동요 (cuspal mobility)</div>
+      </div>
+
+      <strong style="font-size:12px;color:var(--text-sub);">치수 상태</strong>
+      <div class="chips" style="margin-bottom:14px;margin-top:6px;">
+        <div class="chip" data-group="pulp" onclick="toggleChip(this,'pulp')">생활치 (vital, 정상)</div>
+        <div class="chip warn-chip" data-group="pulp" onclick="toggleChip(this,'pulp')">가역적 치수염 (RP)</div>
+        <div class="chip danger-chip" data-group="pulp" onclick="toggleChip(this,'pulp')">비가역적 치수염 (IP)</div>
+        <div class="chip danger-chip" data-group="pulp" onclick="toggleChip(this,'pulp')">치수 괴사</div>
+      </div>
+
+      <strong style="font-size:12px;color:var(--text-sub);">진단 도구 소견</strong>
+      <div class="chips" style="margin-top:6px;">
+        <div class="chip" data-key="transillum_pos" onclick="toggleChipKey(this)">투조 양성</div>
+        <div class="chip" data-key="bitetest_pos" onclick="toggleChipKey(this)">Bite test 양성</div>
+        <div class="chip" data-key="cbct_deep" onclick="toggleChipKey(this)">CBCT: deep crack / 치근 침범</div>
+      </div>
+    </div>
+    <div class="btn-row">
+      <button class="btn-ghost" onclick="goStep(1)">← 이전</button>
+      <button class="btn-primary" onclick="goStep(3)">다음 →</button>
+    </div>
+  </div>
+
+  <!-- STEP 3: Crack location (Yang 2024) -->
+  <div id="step3" class="hidden">
+    <div class="step-label">Step 3 / 4 — 균열선 위치 · 위험인자</div>
+    <div class="card">
+      <h2>교합 비니어 / 수복 계획 기준 균열선 위치</h2>
+      <p>Yang 2024 — 교합 비니어 준비 경계 대비 균열선 분류</p>
+      <div class="options" id="crackLocOptions">
+        <button class="opt-btn" onclick="selectCrackLoc('type1',this)">
+          <span class="opt-icon">✅</span>
+          <div>
+            <div class="opt-label">Type I — 삭제 경계 내부</div>
+            <div class="opt-desc">비니어 / 오버레이 prep 경계 안에 균열선 완전 포함 · 예후 양호</div>
+          </div>
+        </button>
+        <button class="opt-btn" onclick="selectCrackLoc('type2',this)">
+          <span class="opt-icon">⚠️</span>
+          <div>
+            <div class="opt-label">Type II — 삭제 경계 초과</div>
+            <div class="opt-desc">균열선이 prep 경계 밖으로 연장 · 치수 예후 열등</div>
+          </div>
+        </button>
+        <button class="opt-btn" onclick="selectCrackLoc('unknown',this)">
+          <span class="opt-icon">❓</span>
+          <div>
+            <div class="opt-label">미확인 / 해당 없음</div>
+            <div class="opt-desc">비니어 계획 없거나 prep 전 단계</div>
+          </div>
+        </button>
+      </div>
+    </div>
+
+    <div class="card" style="border-color:var(--border-strong);">
+      <h2>추가 위험인자 확인</h2>
+      <div class="chips">
+        <div class="chip danger-chip" data-key="bruxism" onclick="toggleChipKey(this)">이갈이 / 측방운동 과다</div>
+        <div class="chip warn-chip" data-key="distal_ridge" onclick="toggleChipKey(this)">원심변연융선 균열 포함 (Iowa)</div>
+        <div class="chip" data-key="posterior_molar" onclick="toggleChipKey(this)">대구치 (하악 OR↑)</div>
+        <div class="chip warn-chip" data-key="steep_cusp" onclick="toggleChipKey(this)">교두 경사도 가파름 (Deng 2026)</div>
+      </div>
+    </div>
+
+    <div class="btn-row">
+      <button class="btn-ghost" onclick="goStep(2)">← 이전</button>
+      <button class="btn-primary" onclick="goStep(4)">결과 보기 →</button>
+    </div>
+  </div>
+
+  <!-- STEP 4: Result -->
+  <div id="step4" class="hidden">
+    <div class="step-label">Step 4 / 4 — 치료 권고</div>
+    <div id="resultContent"></div>
+    <div class="btn-row">
+      <button class="btn-ghost" onclick="goStep(3)">← 이전</button>
+      <button class="btn-primary" onclick="resetAll()">↺ 새 케이스</button>
+    </div>
+  </div>
+
+  <!-- Diagnosis Reference Card (always visible at bottom) -->
+  <div class="card" style="margin-top:8px;border-color:var(--border);">
+    <h2 style="font-size:13px;">진단 도구 정확도 참조</h2>
+    <table class="summary-table">
+      <tr><th>도구</th><th>민감도</th><th>특이도</th><th>비고</th></tr>
+      <tr><td>투조 (transillumination)</td><td>68.8%</td><td>53.6%</td><td>위양성↑</td></tr>
+      <tr><td>고배율 현미경</td><td>~52%</td><td>92.9%</td><td>PPV 96.7%</td></tr>
+      <tr><td>Macrophotography</td><td>~55%</td><td>92.9%</td><td>PPV 96.4%</td></tr>
+      <tr><td>DIAGNOcam</td><td>65.4%</td><td>60.7%</td><td>중간</td></tr>
+      <tr><td>QLF (405nm 형광)</td><td>—</td><td>—</td><td>κ 0.66–0.74 [확인]</td></tr>
+      <tr><td><strong>OCT</strong></td><td colspan="2"><strong>최고 단일 정확도</strong></td><td>Hernando 2026 SR</td></tr>
+      <tr><td>AI LLM</td><td colspan="2">전형 증례 양호</td><td>비전형 한계 (Eraslan 2026)</td></tr>
+    </table>
+    <div style="font-size:11px;color:var(--text-muted);margin-top:6px;">Kindaro 2025 (micro-CT 기준, ex vivo n=30) · Hernando 2026 SR 12편</div>
+  </div>
+</div>
+
+<script>
+  const state = {
+    type: null,
+    crackLoc: null,
+    flags: new Set(),
+    painType: null,
+    pulpStatus: null,
+  };
+
+  function setProgress(pct) {
+    document.getElementById('progressBar').style.width = pct + '%';
+  }
+
+  function selectType(type, el) {
+    state.type = type;
+    document.querySelectorAll('#typeOptions .opt-btn').forEach(b => b.classList.remove('selected'));
+    if (el) el.classList.add('selected');
+
+    if (type !== 'cts') {
+      showQuickResult(type);
+    } else {
+      goStep(2);
+    }
+  }
+
+  function showQuickResult(type) {
+    document.getElementById('step1').classList.add('hidden');
+    document.getElementById('quickResult').classList.remove('hidden');
+    setProgress(100);
+
+    const map = {
+      craze: {
+        cls: 'green',
+        rx: '👁 관찰 (Observation)',
+        text: 'Craze line은 에나멜에 국한된 표면 균열로 치료 불필요. 정기 검진 시 진행 여부 확인.',
+        note: null,
+        evidence: ['ESE position statement — Patel 2025']
+      },
+      cusp: {
+        cls: 'blue',
+        rx: '🦷 보존적 수복 ± 교두피개',
+        text: 'Fractured cusp은 교두 부분 파절. 치수 상태에 따라 직접/간접 수복 또는 crown. 치수 침범 시 endo 고려.',
+        note: null,
+        evidence: ['ESE position statement — Patel 2025', 'Kakka 2022 치수생존 80–93%']
+      },
+      split: {
+        cls: 'red',
+        rx: '💥 부분 또는 전체 발치',
+        text: 'Split tooth는 치아가 완전 분리된 상태. 분리 정도에 따라 반치 보존(편측 발치) 또는 전체 발치. 온전한 파절편 회수 시 Super-Bond(4-META/MMA-TBB) 재접착 시도 가능하나 증례 수준 근거.',
+        note: '⚠️ 보존 시도 적응증: 불완전 파절, 파절편 온전 회수, 치은연하 ≤1–2mm',
+        evidence: ['Corbella 2025 SR (case series n~64)', 'Li 2025 case-report 55개월']
+      },
+      vrf: {
+        cls: 'red',
+        rx: '🩻 발치 (통상) / 외과적 보존 (선택적)',
+        text: 'VRF는 치근 종방향 파절. 근관치료치에서 주로 발생. 통상 발치. 불완전 VRF + 의도적 재식립 + Super-Bond 파절편 접착은 근거빈약 케이스 시리즈 수준 보존 시도.',
+        note: 'AI (파노라마 CNN): VRF 발치 적응증 AUC 0.82, 민감도↑ 특이도↓ → triage 용도 (Mun 2024)',
+        evidence: ['Corbella 2025 SR', 'Lee 2026 치근단 상아질 위험인자 AUC 0.94', 'ESE position statement — Patel 2025']
+      },
+    };
+
+    const m = map[type];
+    const content = `
+      <div class="result-card ${m.cls}">
+        <h3>${['craze','cusp'].includes(type) ? '균열 유형: ' + (type==='craze'?'Craze line':'Fractured cusp') : '균열 유형: ' + (type==='split'?'Split tooth':'VRF')}</h3>
+        <div class="rx">${m.rx}</div>
+        <p style="margin-bottom:0;font-size:13px;">${m.text}</p>
+        ${m.note ? `<div class="callout note" style="margin-top:10px;">${m.note}</div>` : ''}
+        <div class="evidence-list">
+          <h4>근거</h4>
+          ${m.evidence.map(e=>`<div class="evidence-item"><span class="ev-tag">출처</span>${e}</div>`).join('')}
+        </div>
+      </div>`;
+    document.getElementById('quickResultContent').innerHTML = content;
+  }
+
+  function goStep(n) {
+    [1,2,3,4].forEach(i => {
+      document.getElementById('step'+i).classList.add('hidden');
+    });
+    document.getElementById('quickResult').classList.add('hidden');
+    document.getElementById('step'+n).classList.remove('hidden');
+
+    const pct = {1:10, 2:35, 3:65, 4:100}[n] || 10;
+    setProgress(pct);
+
+    if (n === 4) buildResult();
+  }
+
+  function toggleChip(el, group) {
+    // For pain and pulp: single select within group
+    document.querySelectorAll(`.chip[data-group="${group}"]`).forEach(c => c.classList.remove('on'));
+    el.classList.toggle('on');
+    if (group === 'pain') state.painType = el.classList.contains('on') ? el.textContent.trim() : null;
+    if (group === 'pulp') state.pulpStatus = el.classList.contains('on') ? el.textContent.trim() : null;
+  }
+
+  function toggleChipKey(el) {
+    el.classList.toggle('on');
+    const key = el.dataset.key;
+    if (state.flags.has(key)) state.flags.delete(key);
+    else state.flags.add(key);
+  }
+
+  function selectCrackLoc(loc, el) {
+    state.crackLoc = loc;
+    document.querySelectorAll('#crackLocOptions .opt-btn').forEach(b => b.classList.remove('selected'));
+    if (el) el.classList.add('selected');
+  }
+
+  function buildResult() {
+    const f = state.flags;
+    const pain = state.painType || '';
+    const pulp = state.pulpStatus || '';
+    const loc = state.crackLoc || 'unknown';
+
+    // Iowa index check
+    const iowaCount = [f.has('pd5'), f.has('distal_ridge'), f.has('periapical')].filter(Boolean).length;
+    const hasIowa = iowaCount >= 2;
+
+    // Determine recommendation
+    let rx, cls, riskLevel, notes = [];
+    const isSpontaneous = pain.includes('자발통');
+    const isPeriapical = f.has('periapical');
+    const isPulpNecrosis = pulp.includes('괴사');
+    const isIrreversible = pulp.includes('비가역');
+    const isPD5 = f.has('pd5');
+    const isMobility = f.has('cuspal_mob');
+    const isCBCTDeep = f.has('cbct_deep');
+
+    const needsEndo = isSpontaneous || isPulpNecrosis || isIrreversible || isPeriapical;
+    const urgentEndo = isPulpNecrosis || isPeriapical;
+
+    if (urgentEndo) {
+      rx = '근관치료 + 교두피개 (즉시)';
+      cls = 'red';
+      riskLevel = 'high';
+      notes.push('치수 괴사 또는 치근단 병변: 지연 없이 근관치료 개시');
+    } else if (needsEndo) {
+      rx = '근관치료 + 교두피개 권장';
+      cls = 'yellow';
+      riskLevel = 'high';
+    } else if (pain.includes('무증상') || pain === '') {
+      rx = '교두피개 + 정기 관찰';
+      cls = 'blue';
+      riskLevel = 'low';
+      notes.push('무증상 균열치: 3년 추적 시 23% 증상 감소 vs 10% 악화 (Kakka 2022)');
+    } else if (pain.includes('bite-only')) {
+      rx = '임시 크라운 4–8주 관찰 후 결정 (Kwak default)';
+      cls = 'green';
+      riskLevel = 'med';
+      notes.push('Bite-only 통증 + 생활치수: endo 보류, 임시 교두피개 후 재평가');
+    } else {
+      rx = '교두피개 + 경과 관찰 / endo 대기';
+      cls = 'blue';
+      riskLevel = 'med';
+    }
+
+    // Override if Iowa ++
+    if (hasIowa && riskLevel !== 'high') {
+      riskLevel = 'high';
+      rx = '⚠️ Iowa Index 양성 — 예후 주의 · ' + rx;
+      cls = 'yellow';
+    }
+
+    // Crack location modifiers
+    let locText = '';
+    if (loc === 'type2') {
+      locText = '균열선 Type II (경계 초과): 치수 예후 열등 — 교두피개 경계 설계 재검토 필요 (Yang 2024)';
+    } else if (loc === 'type1') {
+      locText = '균열선 Type I (경계 내): 비니어/오버레이 prep 내 포함 — 교두피개 적용 시 예후 양호';
+    }
+
+    // Restoration design
+    let restoreTip = '';
+    const needsCrown = isPD5 || isPulpNecrosis || isIrreversible || isMobility || isCBCTDeep;
+    if (needsCrown) {
+      restoreTip = '잔존 치질 감소 / 다수 교두 침범 → Full crown 유지';
+    } else {
+      restoreTip = 'Onlay / Overlay 우선 고려 (Zhang 2024·Gavriil 2025: onlay ≥ crown, 치질 보존 우위)';
+    }
+
+    // Prognosis numbers
+    const pdText = isPD5
+      ? '<span class="risk-badge risk-high">PD ≥ 5mm: OR 2.99 치아상실 (Dong 2026)</span>'
+      : f.has('pd4')
+        ? '<span class="risk-badge risk-med">PD 4–5mm: 경계 탐침</span>'
+        : '<span class="risk-badge risk-low">PD < 4mm: 10yr 생존 76% / 15yr 64% (Chan 2025)</span>';
+
+    const html = `
+      <div class="result-card ${cls}">
+        <h3>권고 치료</h3>
+        <div class="rx">${rx}</div>
+
+        <hr>
+
+        <div style="margin-bottom:12px;">
+          <strong style="font-size:12px;">예후 지표</strong><br>
+          <div style="margin-top:6px;">${pdText}</div>
+          ${hasIowa ? '<div class="callout iowa" style="margin-top:8px;"><strong>Iowa Index 양성</strong> — 탐침 ≥5mm + 원심변연융선 + 치근단 병변 중 2개 이상 → 예후 불량 경고</div>' : ''}
+          ${isPD5 ? '<div class="callout pd" style="margin-top:8px;"><strong>탐침 5mm 초과:</strong> 근관치료 후 5년 치아상실 OR 2.99 (Dong 2026, n=295)</div>' : ''}
+          ${loc === 'type2' ? '<div class="callout note" style="margin-top:8px;">'+locText+'</div>' : (locText ? '<div style="font-size:12px;color:var(--text-sub);margin-top:6px;">'+locText+'</div>' : '')}
+          ${f.has('bruxism') ? '<div class="callout note" style="margin-top:8px;"><strong>이갈이 확인:</strong> 균열 진행 주요 위험인자 — 교합안정장치 병행 권고 (Pryles 2025)</div>' : ''}
+        </div>
+
+        <hr>
+
+        <div style="margin-bottom:12px;">
+          <strong style="font-size:12px;">수복 디자인 권고</strong>
+          <div style="font-size:12px;color:var(--text-sub);margin-top:4px;">${restoreTip}</div>
+          <div style="font-size:12px;color:var(--text-sub);margin-top:4px;">✓ 무피개 direct → 치수합병증 RR 3.2 · 발치 RR 8.1 (Zhang 2024 SR+MA)</div>
+          <div style="font-size:12px;color:var(--text-sub);margin-top:4px;">✓ RCT 후 크라운 無 시 발치 위험 11배 (Kakka 2022)</div>
+        </div>
+
+        <hr>
+
+        ${notes.length ? `<div style="margin-bottom:12px;">${notes.map(n=>`<div class="callout note">${n}</div>`).join('')}</div>` : ''}
+
+        <div class="evidence-list">
+          <h4>근거 요약</h4>
+          <div class="evidence-item"><span class="ev-tag">SR umbrella</span>Kaur 2026 — endo + full cuspal coverage = 최고 예후</div>
+          <div class="evidence-item"><span class="ev-tag">SR+MA</span>Zhang 2024 (27편) — 무피개 발치 위험 정량화</div>
+          <div class="evidence-item"><span class="ev-tag">cohort 5yr</span>Dong 2026 (n=295) — PD>5mm OR 2.99, crown OR 0.28</div>
+          <div class="evidence-item"><span class="ev-tag">cohort 10–15yr</span>Chan 2025 — 10yr 생존 66%, 15yr 55%; PD<4mm → 76%/64%</div>
+          <div class="evidence-item"><span class="ev-tag">보수적 Kwak</span>Kwak 2024 JKDA — unnecessary endo 회피; 모호 시 4–8주 관찰</div>
+          <div class="evidence-item"><span class="ev-tag">예방 endo</span>Pryles 2025 (Harvard) — 조기 수복 + 이갈이 조정이 cascade 차단</div>
+          <div class="evidence-item"><span class="ev-tag">균열 위치</span>Yang 2024 (n=80) — Type II → 치수 예후 열등</div>
+          <div class="evidence-item"><span class="ev-tag">AI 보조</span>Eraslan 2026 (50 시나리오) — 의사결정 지원 도구, 독립 진단 불가</div>
+        </div>
+      </div>
+
+      <div class="card" style="border-color:var(--border-strong);">
+        <h2 style="font-size:13px;">환자 설명 Framework</h2>
+        <ul style="font-size:12px;color:var(--text-sub);padding-left:16px;line-height:2;">
+          <li>균열은 시간이 지나면 <strong>split tooth로 진행</strong>할 수 있습니다</li>
+          <li><strong>교두 덮음(crown/onlay)이 진행 차단의 핵심</strong> — 어떤 치료를 해도 기본</li>
+          <li>신경치료는 case-by-case — 자발통·X선 변화 시 추가 결정</li>
+          <li>정기 점검 필수 — 무증상 균열도 23% 증상 감소·10% 악화 (Kakka 2022)</li>
+        </ul>
+      </div>
+    `;
+    document.getElementById('resultContent').innerHTML = html;
+  }
+
+  function resetAll() {
+    state.type = null; state.crackLoc = null; state.flags.clear();
+    state.painType = null; state.pulpStatus = null;
+    document.querySelectorAll('.chip').forEach(c => c.classList.remove('on'));
+    document.querySelectorAll('.opt-btn').forEach(b => b.classList.remove('selected'));
+    [2,3,4].forEach(i => document.getElementById('step'+i).classList.add('hidden'));
+    document.getElementById('quickResult').classList.add('hidden');
+    document.getElementById('step1').classList.remove('hidden');
+    setProgress(10);
+  }
+</script>
+</body>
+</html>
