@@ -445,6 +445,11 @@ Choose aligners confidently for **mild-to-moderate, non-extraction, predominantl
 - [[orthodontics/clear-aligner/arslan-carpar-2026-plaque-removal-powered-manual-toothbrush]] — RCT crossover (n=14, 244치아, 단회 칫솔질): 전동 vs 수동 칫솔의 어태치먼트 주변 치태 제거 동등; 원위·치은연이 가장 청소 어려움. 브러시 종류보다 부위별 집중 교육이 핵심. (rct, 2026)
 - [[orthodontics/clear-aligner/de-la-rosa-gay-2026-arch-width-measurements-invisalign-tables]] — 방법 일치도 연구 (n=35 성인 Invisalign, 840쌍 측정, 혼합효과 Bland-Altman): ClinCheck 치아궁 폭 테이블 측정 자체는 신뢰 가능(편향 0.03 mm, LoA ±0.8 mm) — 측정도구 검증이며 확장 달성도 근거 아님. (method-agreement, 2026)
 
+### 신규 추가 (2026-09) — 개방교합·Class II
+
+- [[orthodontics/clear-aligner/huang-2026-clear-aligner-therapy-for-adult]] — SR with evidence map and GRADE certainty appraisal: CAT for adult anterior open bite (AOB); dentoskeletal change profiles, vertical control mechanisms, and certainty of evidence for overbite correction; extends AOB indication evidence base. (sr+ma, 2026)
+- [[orthodontics/clear-aligner/kuzminskaite-2026-clinical-efficacy-of-aligners-with]] — SR: aligners with mandibular advancement vs conventional functional appliances for Class II treatment; skeletal and dentoalveolar efficacy comparison, indications for aligner-based Class II management. (sr, 2026)
+
 ## Related Overviews
 
 - [[overviews/orthodontic-tooth-movement-biology]] — molecular/biomechanical basis of tooth movement underlying aligner force delivery
