@@ -409,3 +409,8 @@ Logged by subagents at deviation time. `deviation-audit.py` flags types with ≥
 | 2026-09-21 | kuzminskaite-2026-clinical-efficacy-of-aligners-with | no-doi | No DOI returned by PubMed MCP; only PII=261-01 available |
 | 2026-09-21 | kuzminskaite-2026-clinical-efficacy-of-aligners-with | supersession-judgment | Does NOT supersede huang-2026-clear-aligner-mandibular-advancement-vs-functional-class-ii-sr-ma: huang-2026 is SR+MA (higher evidence), n=465, PROSPERO, full-text; new SR is abstract-only, n=412, no meta-analysis. Relation: reinforces. |
 | 2026-09-21 | kaur-2026-evaluation-bonding-clear | other | SR precluded meta-analysis due to substantial heterogeneity (HFA concentrations 4/9.5/9.6%, sandblasting protocols, thermocycling variability, bonding agents, composites); narrative synthesis performed instead |
+| 2026-09-22 | zhang-2026-clinical-characteristics-prognostic-factors-cracked | abstract-only | No PMC full text; page built from structured abstract only |
+| 2026-09-22 | chan-2025-survival-endodontically-treated-cracked-teeth | abstract-only | No PMC full text; page built from structured abstract only |
+| 2026-09-22 | malentacca-2026-cuspal-coverage-direct-resin-composite-cracked | abstract-only | No PMC full text; page built from structured abstract only |
+| 2026-09-22 | wu-2026-prediction-pulpal-sequelae-machine-learning-cracked | abstract-only | No PMC full text; page built from structured abstract only |
+| 2026-09-22 | deng-2026-occlusal-morphology-cracked-teeth-3d-morphometric | abstract-only | No PMC full text; page built from structured abstract only |
