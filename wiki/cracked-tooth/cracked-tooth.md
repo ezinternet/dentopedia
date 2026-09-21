@@ -15,20 +15,20 @@ tags: [navigation, category-index, cracked-tooth]
 > [!summary] 한국어 핵심요약
 > - **분야**: 균열치 증후군
 > - **범위**: Cracked tooth syndrome — classification (Ellis/Baird), diagnosis, prognosis, restoration design, FEA stress analysis
-> - **수록 논문**: 26편
+> - **수록 논문**: 27편
 
 ## Three-line Summary
 
 **Scope**: Cracked tooth syndrome — classification (Ellis/Baird), diagnosis, prognosis, restoration design, FEA stress analysis
-**Indexed papers**: 26 papers in `wiki/cracked-tooth/`.
+**Indexed papers**: 27 papers in `wiki/cracked-tooth/`.
 
 ## 세줄요약
 
 **분야**: 균열치 증후군
-**수록 논문**: 26편
+**수록 논문**: 27편
 **하위 카테고리**: 없음
 
-## Papers in this Category (26)
+## Papers in this Category (27)
 
 | Paper |
 |---|
@@ -39,6 +39,7 @@ tags: [navigation, category-index, cracked-tooth]
 | [[fiyaz-ghani-2025-cracked-teeth-external-splinting-pulp-survival|Pulp Survival of Cracked Teeth with Normal Pulp or Reversible Pulpitis After External Splinting: A Systematic Review and Meta Analysis]] |
 | [[gavriil-2025-single-vs-multiple-stage-cracked-teeth-pulp|The Effect of Single versus Multiple-stage Restorative Approaches on the Pulp Outcomes of Symptomatic Vital Cracked Teeth: A Systematic Review and Meta-analysis]] |
 | [[gioti-2026-symptomatic-cracked-tooth-management-survey|Management of Symptomatic Cracked Teeth: International Dentist Survey on Diagnosis and Decision-Making]] |
+| [[hernando-2026-diagnostic-methods-dental-cracks-systematic-review|Diagnostic Methods for Dental Cracks: A Systematic Review]] |
 | [[jkda-2024-62-1-003|Cracked Tooth Diagnosis Methods and Limitations]] |
 | [[jkda-2024-62-1-004|Clinical Application of Quantitative Light-Induced fluorescent(QLF) device in the Diagnosis of cracked teeth]] |
 | [[kakka-2022-treatment-cracked-teeth-comprehensive-narrative|Treatment of cracked teeth: A comprehensive narrative review]] |
