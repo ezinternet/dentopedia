@@ -91,6 +91,8 @@ The cross-cutting mechanistic thread — **apical extrusion** — explains why i
 - [[overviews/eal-working-length-protocol]] — working-length protocol context for the EAL vs radiographic pain-equivalence finding
 - [[overviews/endodontics-comprehensive-ladder]] — broader endodontic treatment ladder into which these pain findings slot
 - [[overviews/endodontic-flare-up-management-overview]] — sibling overview: pharmacological axis (risk stratification, corticosteroids, preemptive analgesia, antibiotic non-indication); this page covers the procedural axis only
+- [[endodontics/irrigation/huang-2026-intracanal-cryotherapy-postoperative-pain-sr-ma]] — SR+MA on intracanal cryotherapy (cold saline irrigation) for post-endodontic pain reduction; pooled effect size and timing of benefit (sr+ma, 2026)
+- [[endodontics/vpt/gurler-2026-full-pulpotomy-cryotherapy-sip-24mo-rct]] — RCT: full pulpotomy with adjunctive cryotherapy in symptomatic irreversible pulpitis; 24-month pain and pulp-survival outcomes (rct, 2026)
 
 ## Bottom Line (한 줄 결론)
 
