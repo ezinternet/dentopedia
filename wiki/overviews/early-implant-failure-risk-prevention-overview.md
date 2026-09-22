@@ -12,7 +12,9 @@ source_papers:
   - wiki/implants/survival/naseri-2020-smoking-levels-implant-failure-sr-ma.md
   - wiki/implants/survival/bonsmann-2025-risk-factors-early-implant-failure-sinus-nested.md
   - wiki/implants/survival/moy-2005-dental-implant-failure-rates-risk.md
-tags: [early-implant-failure, risk-factors, osseointegration, smoking, immediate-loading, antibiotic-prophylaxis, bone-quality, maxilla]
+  - wiki/drug/systemic-disease/masri-2024-early-implant-failure-antihypertensive-medications.md
+  - wiki/drug/systemic-disease/chidiac-2026-antihypertensive-antihyperlipidemic-antidepressant-implant-survival.md
+tags: [early-implant-failure, risk-factors, osseointegration, smoking, immediate-loading, antibiotic-prophylaxis, bone-quality, maxilla, antihypertensive, hypertension, medication-compliance]
 ---
 
 > [!summary] 한국어 핵심요약
@@ -60,6 +62,8 @@ EIF is mechanistically distinct from late failure: it reflects a **failure to ac
 | [[implants/survival/naseri-2020-smoking-levels-implant-failure-sr-ma]] | SR+MA (23 studies) | — | Dose-dependent: heavy smokers > non-smokers | sr+ma |
 | [[implants/survival/bonsmann-2025-risk-factors-early-implant-failure-sinus-nested]] | Nested case-control (8 centers) | 129 cases / 273 controls | Risk factors for ≤12-mo failure after sinus augmentation | retrospective |
 | [[implants/survival/moy-2005-dental-implant-failure-rates-risk]] | Cohort (21 y) | 4680 implants | Diabetes RR 2.75, head/neck radiation RR 2.73, smoking RR 1.56; lowest failure anterior mandible (2.89%) | retrospective |
+| [[drug/systemic-disease/masri-2024-early-implant-failure-antihypertensive-medications]] | Retrospective cohort | 792 pts / 2,971 implants | HTN+medication EIF 2.29% vs NT 4.33% (p=.01); HTN-unmedicated worst (6.25% implant-level, 28.60% patient-level); OR 0.618 | retrospective |
+| [[drug/systemic-disease/chidiac-2026-antihypertensive-antihyperlipidemic-antidepressant-implant-survival]] | Retrospective cohort (10yr KM) | 655 pts / 2,004 implants | AHT HR 0.23 (p=0.013) protective; statin HR 0.16 protective; SSRI HR 2.17 (p=0.014) harmful | retrospective |
 
 ## Clinical Decision Points
 
@@ -69,6 +73,7 @@ EIF is mechanistically distinct from late failure: it reflects a **failure to ac
 4. **Compromised/grafted sites carry extra risk.** Periodontal-extraction sites, previously augmented bone, and sinus-augmented sites raise EIF (Yari; Bonsmann) — informed consent and staging matter.
 5. **Do NOT default to antibiotic prophylaxis for prevention.** In healthy patients undergoing uncomplicated surgery, routine prophylaxis does not meaningfully reduce EIF (Momand NNT 143); reserve antibiotics for immediate post-extraction/infected sockets, where the signal exists and it is better framed as treatment.
 6. **Surface conditioning (photofunctionalisation) is not yet evidence-backed** for EIF reduction (Uesugi OR 0.51, p=0.25) — promising trend, underpowered.
+7. **Antihypertensive medication compliance is a host-factor predictor.** Hypertensive patients *on* antihypertensives achieve EIF rates *below* normotensive controls (Masri 2024: 2.29% vs 4.33%, p=.01; Chidiac 2026: HR 0.23, p=0.013). Hypertensive patients *not* on medication are the highest-risk group (patient-level EIF 28.6%, Masri 2024). Preoperative question: "Are you taking your blood pressure medications regularly?" Statins are similarly protective (HR 0.16). SSRIs increase failure risk (HR 2.17, Chidiac 2026) — flag for enhanced post-operative monitoring.
 
 ## Gaps & Future Research
 
@@ -86,6 +91,8 @@ EIF is mechanistically distinct from late failure: it reflects a **failure to ac
 - [[implants/survival/naseri-2020-smoking-levels-implant-failure-sr-ma]] — smoking dose-response
 - [[implants/survival/bonsmann-2025-risk-factors-early-implant-failure-sinus-nested]] — sinus-augmentation context
 - [[implants/survival/moy-2005-dental-implant-failure-rates-risk]] — classic long-term risk-factor cohort
+- [[drug/systemic-disease/masri-2024-early-implant-failure-antihypertensive-medications]] — antihypertensive medication as host-factor: EIF 2.29% vs NT 4.33%; unmedicated HTN worst (28.6%)
+- [[drug/systemic-disease/chidiac-2026-antihypertensive-antihyperlipidemic-antidepressant-implant-survival]] — 10yr KM: AHT HR 0.23 protective; statin HR 0.16; SSRI HR 2.17 harmful
 - [[overviews/vitamin-d-osseointegration-implant-overview]] — host-factor cross-link (vitamin D & osseointegration)
 - [[overviews/implants-clinical-decision-ladder]] — broader implant decision synthesis
 
