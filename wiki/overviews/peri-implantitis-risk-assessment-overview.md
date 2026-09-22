@@ -126,6 +126,7 @@ Peri-implant mucositis is the reversible precursor to peri-implantitis, making i
 **Modifiable-behavior evidence:**
 - [[implants/peri-implantitis/fathi-2024-electronic-cigarettes-peri-implantitis-umbrella-review]] — e-cigarettes not a "safe" alternative
 - [[implants/peri-implantitis/chuachamsai-2022-adjunctive-measures-peri-implant-mucositis]] — no adjunct superior to NSMD for mucositis
+- [[implants/peri-implantitis/li-2025-inflammatory-response-dental-implant-surgery]] — 후향 코호트(T2DM 146 vs 대조 60명, 6개월): T2DM PI 발생률 43.2%; 치은열구액 (Gingival Crevicular Fluid, GCF) TNF-α 2.8×·IL-6 3.1×·IL-1β 4.8× 상승; 6개월 ISQ 65.88 vs 70.88; 다변량 회귀에서 고 HbA1c·흡연·칫솔질<1회/일이 독립 위험인자 (retrospective, 2025)
 
 **Companion overview:**
 - [[overviews/peri-implantitis-management-overview]] — the reactive/treatment counterpart to this predictive page
