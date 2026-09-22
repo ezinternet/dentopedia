@@ -1,0 +1,860 @@
+<!--
+title: 임플란트 세틀링 이펙트 시각화
+description: 임플란트-지대주 연결부에서 발생하는 세틀링 이펙트(Settling Effect) 메커니즘, 토크 배분, 전하중 타임라인, 연결부 형태별 비교를 인터랙티브하게 시각화
+category: prosth
+source_wiki: wiki/overviews/abutment-screw-preload-joint-stability-overview.md
+date: 2026-09-22
+tags: [implant, abutment-screw, preload, settling-effect, torque, prosthetics]
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>임플란트 세틀링 이펙트 시각화</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #f7f5f3;
+    --surface: #ffffff;
+    --border: #e5e0da;
+    --text: #1a1a1a;
+    --text-muted: #6b6b6b;
+    --primary: #1a3a5c;
+    --primary-light: #2a5a8c;
+    --accent-amber: #d97706;
+    --accent-amber-light: #fef3c7;
+    --accent-green: #16a34a;
+    --accent-green-light: #dcfce7;
+    --accent-red: #dc2626;
+    --accent-red-light: #fee2e2;
+    --accent-blue: #2563eb;
+    --accent-blue-light: #dbeafe;
+    --accent-purple: #7c3aed;
+    --chip-bg: #eef2f7;
+    --chip-active: #1a3a5c;
+    --chip-active-text: #fff;
+    --shadow: 0 2px 8px rgba(0,0,0,0.08);
+    --radius: 10px;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: 'Noto Sans KR', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.6;
+    padding: 0 16px 48px;
+  }
+
+  header {
+    background: var(--primary);
+    color: #fff;
+    padding: 20px 16px 16px;
+    margin: 0 -16px 24px;
+  }
+
+  header h1 { font-size: 1.25rem; font-weight: 700; }
+  header p { font-size: 0.82rem; opacity: 0.75; margin-top: 4px; }
+
+  .section-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: var(--shadow);
+  }
+
+  .section-title {
+    font-size: 0.95rem;
+    font-weight: 700;
+    color: var(--primary);
+    margin-bottom: 14px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .section-title .badge {
+    background: var(--chip-bg);
+    color: var(--primary);
+    font-size: 0.72rem;
+    padding: 2px 8px;
+    border-radius: 20px;
+    font-weight: 600;
+  }
+
+  .ev {
+    font-size: 0.72rem;
+    background: var(--accent-blue-light);
+    color: var(--accent-blue);
+    padding: 1px 6px;
+    border-radius: 4px;
+    font-weight: 600;
+  }
+
+  /* ---- 1. Mechanism SVG ---- */
+  .mech-controls {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 16px;
+    flex-wrap: wrap;
+  }
+
+  .mech-btn {
+    padding: 7px 14px;
+    border-radius: 20px;
+    border: 1.5px solid var(--border);
+    background: var(--chip-bg);
+    color: var(--text);
+    font-size: 0.82rem;
+    font-family: inherit;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+
+  .mech-btn.active {
+    background: var(--primary);
+    color: #fff;
+    border-color: var(--primary);
+  }
+
+  .mech-svg-wrap {
+    overflow-x: auto;
+  }
+
+  .mech-desc {
+    background: var(--chip-bg);
+    border-radius: 8px;
+    padding: 12px 14px;
+    font-size: 0.82rem;
+    margin-top: 14px;
+    line-height: 1.7;
+  }
+
+  /* ---- 2. Donut chart ---- */
+  .donut-wrap {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    flex-wrap: wrap;
+  }
+
+  .donut-canvas { flex-shrink: 0; }
+
+  .donut-legend { display: flex; flex-direction: column; gap: 10px; }
+
+  .legend-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 0.84rem;
+  }
+
+  .legend-dot {
+    width: 14px; height: 14px;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+
+  .legend-val { font-weight: 700; font-size: 1rem; }
+
+  /* ---- 3. Timeline ---- */
+  .timeline-controls {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    margin-bottom: 12px;
+  }
+
+  .tl-btn {
+    padding: 6px 13px;
+    border-radius: 20px;
+    border: 1.5px solid var(--border);
+    background: var(--chip-bg);
+    color: var(--text);
+    font-size: 0.8rem;
+    font-family: inherit;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+
+  .tl-btn.active {
+    background: var(--primary);
+    color: #fff;
+    border-color: var(--primary);
+  }
+
+  .tl-canvas-wrap { overflow-x: auto; }
+
+  /* ---- 4. Bar chart ---- */
+  .bar-wrap { display: flex; flex-direction: column; gap: 14px; }
+
+  .bar-row { display: flex; flex-direction: column; gap: 4px; }
+
+  .bar-label {
+    font-size: 0.82rem;
+    color: var(--text);
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .bar-track {
+    height: 24px;
+    background: var(--chip-bg);
+    border-radius: 6px;
+    overflow: hidden;
+    position: relative;
+  }
+
+  .bar-fill {
+    height: 100%;
+    border-radius: 6px;
+    transition: width 0.8s cubic-bezier(0.25, 1, 0.5, 1);
+  }
+
+  /* ---- 5. Checklist ---- */
+  .checklist { display: flex; flex-direction: column; gap: 0; }
+
+  .check-item {
+    display: flex;
+    gap: 12px;
+    padding: 12px 0;
+    border-bottom: 1px solid var(--border);
+    cursor: pointer;
+    transition: background 0.15s;
+    border-radius: 6px;
+    padding-left: 6px;
+  }
+
+  .check-item:last-child { border-bottom: none; }
+
+  .check-item:hover { background: var(--chip-bg); }
+
+  .check-num {
+    width: 26px; height: 26px;
+    border-radius: 50%;
+    background: var(--chip-bg);
+    color: var(--primary);
+    font-weight: 700;
+    font-size: 0.82rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    transition: all 0.2s;
+  }
+
+  .check-item.done .check-num {
+    background: var(--accent-green);
+    color: #fff;
+  }
+
+  .check-body { flex: 1; }
+
+  .check-title { font-size: 0.88rem; font-weight: 600; }
+  .check-detail { font-size: 0.8rem; color: var(--text-muted); margin-top: 2px; }
+
+  .warn-tag {
+    display: inline-block;
+    background: var(--accent-amber-light);
+    color: var(--accent-amber);
+    font-size: 0.72rem;
+    padding: 1px 7px;
+    border-radius: 4px;
+    font-weight: 600;
+    margin-left: 4px;
+  }
+
+  /* key facts strip */
+  .facts-strip {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+
+  .fact-chip {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 10px 14px;
+    flex: 1 1 160px;
+    box-shadow: var(--shadow);
+  }
+
+  .fact-chip .fc-val {
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: var(--primary);
+    line-height: 1.2;
+  }
+
+  .fact-chip .fc-label {
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    margin-top: 2px;
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>임플란트 세틀링 이펙트 시각화</h1>
+  <p>지대주 나사 전하중 (Abutment Screw Preload) · 연결부 안정성</p>
+</header>
+
+<!-- Key facts strip -->
+<div class="facts-strip">
+  <div class="fact-chip">
+    <div class="fc-val">2–10%</div>
+    <div class="fc-label">초기 전하중 손실<br>(세틀링, 비하중) <span class="ev">Pardal-Peláez 2017</span></div>
+  </div>
+  <div class="fact-chip">
+    <div class="fc-val">~8–10%</div>
+    <div class="fc-label">토크→전하중 전환율<br>(나머지는 마찰손실) <span class="ev">Lee 2025</span></div>
+  </div>
+  <div class="fact-chip">
+    <div class="fc-val">2분</div>
+    <div class="fc-label">재조임 최적 시점<br>(2min vs 10min RCT) <span class="ev">Varvara 2020</span></div>
+  </div>
+  <div class="fact-chip">
+    <div class="fc-val">16–39%</div>
+    <div class="fc-label">피로하중에 의한 전체 전하중 손실 <span class="ev">Pardal-Peláez 2017</span></div>
+  </div>
+</div>
+
+<!-- Section 1: Mechanism -->
+<div class="section-card">
+  <div class="section-title">
+    ① 세틀링 이펙트 (Settling Effect) 메커니즘
+    <span class="badge">클릭해서 단계 보기</span>
+  </div>
+  <div class="mech-controls">
+    <button class="mech-btn active" data-step="0">조임 전</button>
+    <button class="mech-btn" data-step="1">조임 직후</button>
+    <button class="mech-btn" data-step="2">세틀링 이후</button>
+  </div>
+  <div class="mech-svg-wrap">
+    <svg id="mechSvg" viewBox="0 0 520 280" width="520" style="max-width:100%; display:block; margin:0 auto;" xmlns="http://www.w3.org/2000/svg"></svg>
+  </div>
+  <div class="mech-desc" id="mechDesc">
+    조임 <strong>전</strong>: 지대주 연결부 계면에 <strong>마이크로 비평활부 (Micro-asperity)</strong>가 돌출해 있어 실제 접촉면이 작습니다. 토크를 가하기 전 상태입니다.
+  </div>
+</div>
+
+<!-- Section 2: Torque distribution donut -->
+<div class="section-card">
+  <div class="section-title">② 조임 토크의 배분 — 전하중이 10%뿐인 이유</div>
+  <div class="donut-wrap">
+    <canvas id="donutCanvas" class="donut-canvas" width="200" height="200"></canvas>
+    <div class="donut-legend">
+      <div class="legend-item">
+        <div class="legend-dot" style="background:#1a3a5c"></div>
+        <div>
+          <div class="legend-val" style="color:#1a3a5c">~50%</div>
+          <div style="font-size:0.8rem">나사두부 마찰 (Screw-head friction)</div>
+          <div style="font-size:0.75rem;color:var(--text-muted)">아버트먼트↔렌치 계면</div>
+        </div>
+      </div>
+      <div class="legend-item">
+        <div class="legend-dot" style="background:#d97706"></div>
+        <div>
+          <div class="legend-val" style="color:#d97706">~40%</div>
+          <div style="font-size:0.8rem">나사산 마찰 (Thread friction)</div>
+          <div style="font-size:0.75rem;color:var(--text-muted)">나사산↔임플란트 내벽</div>
+        </div>
+      </div>
+      <div class="legend-item">
+        <div class="legend-dot" style="background:#16a34a"></div>
+        <div>
+          <div class="legend-val" style="color:#16a34a">~8–10%</div>
+          <div style="font-size:0.8rem">실질 전하중 (Preload) <span class="ev">Lee 2025</span></div>
+          <div style="font-size:0.75rem;color:var(--text-muted)">지대주 클램핑에 기여하는 힘</div>
+        </div>
+      </div>
+      <div style="margin-top:4px; padding:10px 12px; background:var(--accent-amber-light); border-radius:8px; font-size:0.8rem; color:var(--accent-amber);">
+        ⚠ 토크렌치가 지시값보다 11–29% 저달 <span class="ev">Marenzi 2026</span><br>
+        → 실제 전하중은 설계치보다 더 낮을 수 있습니다
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Section 3: Preload timeline -->
+<div class="section-card">
+  <div class="section-title">③ 전하중 (Preload) 타임라인 — 재조임 프로토콜 비교</div>
+  <div class="timeline-controls">
+    <button class="tl-btn active" data-mode="none">재조임 없음</button>
+    <button class="tl-btn" data-mode="2min">2분 재조임 <span class="ev" style="background:#fff3;color:#eee">Varvara 2020</span></button>
+    <button class="tl-btn" data-mode="10min">10분 재조임 <span class="ev" style="background:#fff3;color:#eee">Nithyapriya 2018</span></button>
+  </div>
+  <div class="tl-canvas-wrap">
+    <canvas id="timelineCanvas" width="520" height="240" style="max-width:100%;display:block;margin:0 auto;"></canvas>
+  </div>
+  <div style="font-size:0.78rem;color:var(--text-muted);margin-top:8px;">
+    * 세틀링 손실 후 재조임하면 전하중이 회복되고, 2회차 재조임에서 plateau에 도달합니다 <span class="ev">Saleh-Saber 2017</span>.
+    피로하중 단계(사용 중)에서 16–39% 추가 손실.
+  </div>
+</div>
+
+<!-- Section 4: Connection type comparison -->
+<div class="section-card">
+  <div class="section-title">④ 연결부 형태별 축방향 세틀링 비교
+    <span class="badge">축방향 변위 (µm)</span>
+  </div>
+  <div class="bar-wrap" id="barWrap"></div>
+  <div style="font-size:0.78rem;color:var(--text-muted);margin-top:14px;">
+    출처: <span class="ev">Kim 2020</span> <span class="ev">Saleh-Saber 2017</span>.
+    수직 변위 = 마이크로 갭에 기여 → 세균 침투·연결부 피로의 원인.
+    단, Vinhas 2022에서는 연결부 형태보다 <strong>술식 준수</strong>가 전하중 유지에 더 중요하다고 보고.
+  </div>
+</div>
+
+<!-- Section 5: Clinical protocol checklist -->
+<div class="section-card">
+  <div class="section-title">⑤ 임상 프로토콜 체크리스트 <span class="badge">클릭해서 완료 표시</span></div>
+  <div class="checklist" id="checklist"></div>
+  <div style="margin-top:14px; padding:10px 12px; background:var(--accent-red-light); border-radius:8px; font-size:0.8rem; color:var(--accent-red);">
+    ⛔ 피해야 할 것: PTFE 테이프는 전하중 감소 <span class="ev">Coelho 2024</span> ·
+    탄소코팅 나사 재사용 시 전하중 329→254 N으로 감소 <span class="ev">Sagheb 2023</span> — 일회용 권장 ·
+    연결부 오염(3~6면)은 전하중을 유의하게 저하 <span class="ev">Sun 2026</span>
+  </div>
+</div>
+
+<div style="font-size:0.73rem;color:var(--text-muted);text-align:center;margin-top:8px;">
+  근거: wiki/overviews/abutment-screw-preload-joint-stability-overview.md · 2026-09-22
+</div>
+
+<script>
+/* ===================== 1. MECHANISM SVG ===================== */
+const mechSteps = [
+  {
+    label: '조임 전',
+    desc: '조임 <strong>전</strong>: 연결부 계면에 <strong>마이크로 비평활부 (Micro-asperity)</strong>가 돌출해 있어 실제 접촉면이 작습니다. 전하중 = 0. 나사는 자중으로 걸려있는 상태.',
+    asperity: true,
+    gap: 8,
+    compressed: false,
+    arrow: false
+  },
+  {
+    label: '조임 직후',
+    desc: '조임 <strong>직후</strong>: 규정 토크 인가. 비평활부가 아직 남아 있으며 <strong>전하중 (Preload)</strong>이 최대값에 도달. 그러나 8–10%만이 실질 클램핑력 — 나머지 90%는 마찰로 소실 <span class="ev">Lee 2025</span>.',
+    asperity: true,
+    gap: 3,
+    compressed: false,
+    arrow: true
+  },
+  {
+    label: '세틀링 이후',
+    desc: '세틀링 <strong>이후</strong>: 비평활부가 <strong>소성변형·붕괴 (Embedment Relaxation)</strong>되면서 전하중이 2–10% 손실 <span class="ev">Pardal-Peláez 2017</span>. 이 시점에 <strong>재조임 (Retorque)</strong>하면 손실된 전하중을 회복할 수 있습니다.',
+    asperity: false,
+    gap: 5,
+    compressed: true,
+    arrow: false
+  }
+];
+
+let mechState = 0;
+
+function drawMech(step) {
+  const svg = document.getElementById('mechSvg');
+  const s = mechSteps[step];
+  const W = 520, H = 280;
+
+  const implantX = 130, implantY = 60, implantW = 80, implantH = 180;
+  const abutX = implantX + 10, abutY = 40;
+  const abutW = 60, abutH = 80;
+  const screwX = abutX + 20, screwW = 20;
+  const interfaceY = abutY + abutH;
+  const gapSize = s.gap;
+
+  let html = '';
+
+  // Implant body
+  html += `<rect x="${implantX}" y="${implantY}" width="${implantW}" height="${implantH}" rx="6" fill="#cdd5e0" stroke="#7a8fa8" stroke-width="1.5"/>`;
+  // Implant label
+  html += `<text x="${implantX + implantW/2}" y="${implantY + implantH - 14}" text-anchor="middle" font-size="11" fill="#1a3a5c" font-family="Noto Sans KR,sans-serif">임플란트 픽스처</text>`;
+
+  // Abutment
+  const aYpos = s.compressed ? interfaceY - abutH + 2 : interfaceY - abutH + gapSize;
+  html += `<rect x="${abutX}" y="${aYpos}" width="${abutW}" height="${abutH - 10}" rx="4" fill="#a8b8cc" stroke="#5c7a9e" stroke-width="1.5"/>`;
+  html += `<text x="${abutX + abutW/2}" y="${aYpos + 18}" text-anchor="middle" font-size="11" fill="#1a3a5c" font-family="Noto Sans KR,sans-serif">지대주</text>`;
+
+  // Screw
+  const screwY = aYpos + 4;
+  const screwH = 90;
+  html += `<rect x="${screwX}" y="${screwY}" width="${screwW}" height="${screwH}" rx="3" fill="#7a9abf" stroke="#3a5a7e" stroke-width="1"/>`;
+  html += `<polygon points="${screwX},${screwY + screwH} ${screwX + screwW/2},${screwY + screwH + 12} ${screwX + screwW},${screwY + screwH}" fill="#5c7a9e"/>`;
+
+  // Interface line / gap
+  const lineY = interfaceY + (s.compressed ? 0 : gapSize);
+  if (gapSize > 2 && !s.compressed) {
+    html += `<rect x="${abutX}" y="${lineY - gapSize}" width="${abutW}" height="${gapSize}" fill="none" stroke="#d97706" stroke-width="1" stroke-dasharray="3,2"/>`;
+    html += `<text x="${abutX + abutW + 8}" y="${lineY - gapSize/2 + 4}" font-size="10" fill="#d97706" font-family="Noto Sans KR,sans-serif">갭 ~${gapSize}µm</text>`;
+  }
+
+  // Micro-asperities
+  if (s.asperity) {
+    const baseY = lineY - (s.compressed ? 2 : gapSize) + 1;
+    for (let i = 0; i < 6; i++) {
+      const ax = abutX + 4 + i * 9;
+      const h = (i % 3 === 0) ? 5 : (i % 3 === 1) ? 3 : 4;
+      html += `<polygon points="${ax},${baseY} ${ax+3},${baseY - h} ${ax+6},${baseY}" fill="#d97706" opacity="0.85"/>`;
+    }
+    // Lower asperities on implant surface
+    for (let i = 0; i < 6; i++) {
+      const ax = abutX + 4 + i * 9;
+      const h = (i % 2 === 0) ? 4 : 3;
+      html += `<polygon points="${ax},${lineY} ${ax+3},${lineY + h} ${ax+6},${lineY}" fill="#c06010" opacity="0.7"/>`;
+    }
+    html += `<text x="${abutX + abutW + 8}" y="${baseY + 14}" font-size="10" fill="#d97706" font-weight="bold" font-family="Noto Sans KR,sans-serif">Micro-asperity</text>`;
+  } else {
+    // Flattened asperities
+    html += `<line x1="${abutX}" y1="${lineY - 2}" x2="${abutX + abutW}" y2="${lineY - 2}" stroke="#7a8fa8" stroke-width="2"/>`;
+    html += `<line x1="${abutX}" y1="${lineY + 2}" x2="${abutX + abutW}" y2="${lineY + 2}" stroke="#7a8fa8" stroke-width="2"/>`;
+    html += `<text x="${abutX + abutW + 8}" y="${lineY + 4}" font-size="10" fill="#16a34a" font-family="Noto Sans KR,sans-serif">비평활부 소성변형 완료</text>`;
+  }
+
+  // Torque arrow
+  if (s.arrow) {
+    const cx = screwX + screwW/2, cy = screwY - 8;
+    html += `<path d="M ${cx-18} ${cy} A 18 18 0 0 1 ${cx+18} ${cy}" fill="none" stroke="#dc2626" stroke-width="2.5" marker-end="url(#arrowRed)"/>`;
+    html += `<defs><marker id="arrowRed" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 Z" fill="#dc2626"/></marker></defs>`;
+    html += `<text x="${cx}" y="${cy - 12}" text-anchor="middle" font-size="11" fill="#dc2626" font-weight="bold" font-family="Noto Sans KR,sans-serif">조임 토크</text>`;
+  }
+
+  // Preload arrow (vertical compression)
+  if (s.arrow) {
+    html += `<line x1="${abutX - 18}" y1="${aYpos + 10}" x2="${abutX - 18}" y2="${lineY - 4}" stroke="#1a3a5c" stroke-width="2" marker-end="url(#arrowBlue)" marker-start="url(#arrowBlueRev)"/>`;
+    html += `<defs><marker id="arrowBlue" markerWidth="7" markerHeight="7" refX="3.5" refY="3.5" orient="auto"><path d="M0,0 L7,3.5 L0,7 Z" fill="#1a3a5c"/></marker><marker id="arrowBlueRev" markerWidth="7" markerHeight="7" refX="3.5" refY="3.5" orient="auto-start-reverse"><path d="M0,0 L7,3.5 L0,7 Z" fill="#1a3a5c"/></marker></defs>`;
+    html += `<text x="${abutX - 22}" y="${aYpos + (lineY - aYpos)/2 + 4}" text-anchor="end" font-size="10" fill="#1a3a5c" font-weight="bold" font-family="Noto Sans KR,sans-serif" transform="rotate(-90,${abutX-22},${aYpos+(lineY-aYpos)/2+4})">전하중 (Preload)</text>`;
+  }
+
+  // Labels on right side
+  const labX = implantX + implantW + 20;
+  const stages = [
+    { y: aYpos + 30, color: '#5c7a9e', text: '지대주 (Abutment)' },
+    { y: interfaceY + 30, color: '#c06010', text: '연결부 계면' },
+    { y: implantY + 60, color: '#4a6a8a', text: '임플란트 픽스처' }
+  ];
+  stages.forEach(st => {
+    html += `<text x="${labX}" y="${st.y}" font-size="11" fill="${st.color}" font-family="Noto Sans KR,sans-serif">${st.text}</text>`;
+  });
+
+  // Step indicator
+  const steps = ['조임 전', '조임 직후', '세틀링 이후'];
+  steps.forEach((label, i) => {
+    const bx = 300 + i * 70, by = 240;
+    const active = i === step;
+    html += `<rect x="${bx}" y="${by}" width="64" height="26" rx="13" fill="${active ? '#1a3a5c' : '#eef2f7'}" stroke="${active ? '#1a3a5c' : '#cbd5e1'}" stroke-width="1"/>`;
+    html += `<text x="${bx+32}" y="${by+17}" text-anchor="middle" font-size="10" fill="${active ? '#fff' : '#64748b'}" font-family="Noto Sans KR,sans-serif">${label}</text>`;
+  });
+
+  svg.innerHTML = html;
+}
+
+document.querySelectorAll('.mech-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.mech-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    mechState = parseInt(btn.dataset.step);
+    drawMech(mechState);
+    document.getElementById('mechDesc').innerHTML = mechSteps[mechState].desc;
+  });
+});
+
+drawMech(0);
+
+/* ===================== 2. DONUT CHART ===================== */
+(function() {
+  const canvas = document.getElementById('donutCanvas');
+  const ctx = canvas.getContext('2d');
+  const cx = 100, cy = 100, r = 75, inner = 44;
+  const segments = [
+    { pct: 0.5, color: '#1a3a5c' },
+    { pct: 0.4, color: '#d97706' },
+    { pct: 0.09, color: '#16a34a' }
+  ];
+  let start = -Math.PI / 2;
+  segments.forEach(seg => {
+    const end = start + seg.pct * 2 * Math.PI;
+    ctx.beginPath();
+    ctx.moveTo(cx, cy);
+    ctx.arc(cx, cy, r, start, end);
+    ctx.closePath();
+    ctx.fillStyle = seg.color;
+    ctx.fill();
+    start = end;
+  });
+  ctx.beginPath();
+  ctx.arc(cx, cy, inner, 0, 2 * Math.PI);
+  ctx.fillStyle = '#fff';
+  ctx.fill();
+  ctx.fillStyle = '#1a3a5c';
+  ctx.font = 'bold 13px Noto Sans KR, sans-serif';
+  ctx.textAlign = 'center';
+  ctx.fillText('토크', cx, cy - 4);
+  ctx.fillText('배분', cx, cy + 12);
+})();
+
+/* ===================== 3. TIMELINE ===================== */
+const TL = {
+  none: {
+    points: [
+      {t:0, v:100, label:'조임 완료'},
+      {t:1, v:95, label:'세틀링 (2–10% 손실)'},
+      {t:3, v:93},
+      {t:10, v:90},
+      {t:20, v:82, label:'피로하중 시작'},
+      {t:50, v:72},
+      {t:100, v:65, label:'장기 사용'},
+      {t:200, v:61}
+    ],
+    color: '#dc2626'
+  },
+  '2min': {
+    points: [
+      {t:0, v:100, label:'조임 완료'},
+      {t:1, v:93, label:'세틀링'},
+      {t:2, v:100, label:'2분 재조임'},
+      {t:3, v:98},
+      {t:4, v:100, label:'2차 재조임 plateau'},
+      {t:10, v:98},
+      {t:20, v:92, label:'피로하중 시작'},
+      {t:50, v:83},
+      {t:100, v:76},
+      {t:200, v:72}
+    ],
+    color: '#16a34a'
+  },
+  '10min': {
+    points: [
+      {t:0, v:100, label:'조임 완료'},
+      {t:3, v:92},
+      {t:10, v:90, label:'10분 재조임'},
+      {t:11, v:97},
+      {t:14, v:100, label:'plateau'},
+      {t:20, v:97, label:'피로하중 시작'},
+      {t:50, v:87},
+      {t:100, v:80},
+      {t:200, v:74}
+    ],
+    color: '#2563eb'
+  }
+};
+
+let tlMode = 'none';
+
+function drawTimeline(mode) {
+  const canvas = document.getElementById('timelineCanvas');
+  const ctx = canvas.getContext('2d');
+  const W = canvas.width, H = canvas.height;
+  const pad = {l:50, r:24, t:20, b:40};
+  const gW = W - pad.l - pad.r, gH = H - pad.t - pad.b;
+
+  ctx.clearRect(0, 0, W, H);
+
+  // Grid
+  ctx.strokeStyle = '#e5e0da';
+  ctx.lineWidth = 1;
+  [0,25,50,75,100].forEach(v => {
+    const y = pad.t + gH - (v / 100) * gH;
+    ctx.beginPath(); ctx.moveTo(pad.l, y); ctx.lineTo(pad.l + gW, y); ctx.stroke();
+    ctx.fillStyle = '#6b6b6b';
+    ctx.font = '11px Noto Sans KR, sans-serif';
+    ctx.textAlign = 'right';
+    ctx.fillText(v + '%', pad.l - 6, y + 4);
+  });
+
+  // Danger zone fill (below 80%)
+  const dangerY = pad.t + gH - (80 / 100) * gH;
+  ctx.fillStyle = 'rgba(220,38,38,0.06)';
+  ctx.fillRect(pad.l, dangerY, gW, gH - (dangerY - pad.t));
+  ctx.strokeStyle = 'rgba(220,38,38,0.3)';
+  ctx.setLineDash([4,3]);
+  ctx.beginPath(); ctx.moveTo(pad.l, dangerY); ctx.lineTo(pad.l + gW, dangerY); ctx.stroke();
+  ctx.setLineDash([]);
+  ctx.fillStyle = 'rgba(220,38,38,0.6)';
+  ctx.font = '10px Noto Sans KR,sans-serif';
+  ctx.textAlign = 'left';
+  ctx.fillText('위험 구간 (나사 풀림 위험)', pad.l + 4, dangerY - 4);
+
+  const tMax = 200;
+  function tX(t) { return pad.l + (t / tMax) * gW; }
+  function vY(v) { return pad.t + gH - (v / 100) * gH; }
+
+  // Draw lines for all modes (faded if not active)
+  ['none','2min','10min'].forEach(m => {
+    const d = TL[m];
+    const active = m === mode;
+    ctx.globalAlpha = active ? 1 : 0.15;
+    ctx.strokeStyle = d.color;
+    ctx.lineWidth = active ? 2.5 : 1.5;
+    ctx.beginPath();
+    d.points.forEach((p, i) => {
+      if (i === 0) ctx.moveTo(tX(p.t), vY(p.v));
+      else ctx.lineTo(tX(p.t), vY(p.v));
+    });
+    ctx.stroke();
+
+    if (active) {
+      d.points.forEach(p => {
+        if (p.label) {
+          ctx.fillStyle = d.color;
+          ctx.beginPath();
+          ctx.arc(tX(p.t), vY(p.v), 4, 0, 2*Math.PI);
+          ctx.fill();
+          ctx.fillStyle = d.color;
+          ctx.font = '9.5px Noto Sans KR,sans-serif';
+          ctx.textAlign = 'center';
+          ctx.globalAlpha = 0.85;
+          ctx.fillText(p.label, tX(p.t), vY(p.v) - 9);
+          ctx.globalAlpha = 1;
+        }
+      });
+    }
+  });
+
+  ctx.globalAlpha = 1;
+
+  // X-axis labels
+  ctx.fillStyle = '#6b6b6b';
+  ctx.font = '10.5px Noto Sans KR,sans-serif';
+  ctx.textAlign = 'center';
+  [0,10,30,60,100,200].forEach(t => {
+    const x = tX(t);
+    ctx.fillText(t === 200 ? '200분' : t === 0 ? '0' : t+'', x, pad.t + gH + 18);
+    ctx.strokeStyle = '#e5e0da';
+    ctx.lineWidth = 1;
+    ctx.beginPath();
+    ctx.moveTo(x, pad.t + gH);
+    ctx.lineTo(x, pad.t + gH + 5);
+    ctx.stroke();
+  });
+
+  // Axis labels
+  ctx.fillStyle = '#1a3a5c';
+  ctx.font = 'bold 11px Noto Sans KR,sans-serif';
+  ctx.textAlign = 'center';
+  ctx.fillText('경과 시간 →', pad.l + gW/2, H - 4);
+  ctx.save();
+  ctx.translate(14, pad.t + gH/2);
+  ctx.rotate(-Math.PI/2);
+  ctx.fillText('전하중 유지율 (%)', 0, 0);
+  ctx.restore();
+}
+
+document.querySelectorAll('.tl-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.tl-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    tlMode = btn.dataset.mode;
+    drawTimeline(tlMode);
+  });
+});
+
+drawTimeline('none');
+
+/* ===================== 4. BAR CHART ===================== */
+const connections = [
+  { label: '외부 맞대기 (External Butt-joint)', range: [0.5, 1.0], mid: 0.8, color: '#1a3a5c', ref: 'Kim 2020' },
+  { label: '내부 육각 소형 (Internal Hex small)', range: [10, 11], mid: 10.5, color: '#2563eb', ref: 'Kim 2020' },
+  { label: '내부 팔각 중형 (Internal Octagon mid)', range: [12, 18], mid: 15, color: '#7c3aed', ref: 'Kim 2020' },
+  { label: '모스 테이퍼 8° (Morse Taper 8°)', range: [19, 25.6], mid: 22, color: '#d97706', ref: 'Kim 2020 / Saleh-Saber 2017' }
+];
+
+const maxVal = 26;
+const barWrap = document.getElementById('barWrap');
+connections.forEach(conn => {
+  const pctMid = (conn.mid / maxVal) * 100;
+  const pctMax = (conn.range[1] / maxVal) * 100;
+
+  const row = document.createElement('div');
+  row.className = 'bar-row';
+
+  row.innerHTML = `
+    <div class="bar-label">
+      <span>${conn.label} <span class="ev">${conn.ref}</span></span>
+      <span style="font-weight:700;color:${conn.color}">${conn.range[0]}–${conn.range[1]} µm</span>
+    </div>
+    <div class="bar-track">
+      <div class="bar-fill" style="width:0%;background:${conn.color};opacity:0.3;position:absolute;height:100%;border-radius:6px;" data-target="${pctMax}"></div>
+      <div class="bar-fill" style="width:0%;background:${conn.color};position:absolute;height:100%;border-radius:6px;" data-target="${pctMid}"></div>
+    </div>
+  `;
+  barWrap.appendChild(row);
+});
+
+setTimeout(() => {
+  document.querySelectorAll('.bar-fill').forEach(fill => {
+    fill.style.width = fill.dataset.target + '%';
+  });
+}, 300);
+
+/* ===================== 5. CHECKLIST ===================== */
+const checkItems = [
+  {
+    title: '연결부 완전 건조 및 오염 제거',
+    detail: '혈액·타액 등 오염은 전하중을 유의하게 저하시킴. 3–6면 오염도 영향 있음.',
+    ref: 'Sun 2026',
+    warn: null
+  },
+  {
+    title: '교정된 토크렌치(Calibrated Torque Wrench) 사용',
+    detail: '일반 렌치는 11–29.3% 저달 보고. 주기적 교정 필수.',
+    ref: 'Marenzi 2026',
+    warn: '정기 교정 필수'
+  },
+  {
+    title: '제조사 규정 토크로 조임',
+    detail: 'Ncm 단위 토크값은 제조사 프로토콜 기준. 과조임도 나사 파절 위험.',
+    ref: null,
+    warn: null
+  },
+  {
+    title: '2–10분 후 재조임 1회 시행',
+    detail: '세틀링으로 손실된 전하중 회복. 2분 후 재조임이 10분과 동등 이상의 효과.',
+    ref: 'Varvara 2020',
+    warn: null
+  },
+  {
+    title: '필요 시 2차 재조임 (plateau 확인)',
+    detail: '2회차 재조임에서 plateau 도달 확인. 그 이상은 추가 이득 없음.',
+    ref: 'Saleh-Saber 2017',
+    warn: null
+  },
+  {
+    title: '교합 점검 및 고점 제거',
+    detail: '초기 하중이 연결부에 집중되지 않도록 교합 조정. 편심 하중 최소화.',
+    ref: null,
+    warn: null
+  },
+  {
+    title: '조기 리콜 (1–2주) 및 재조임 확인',
+    detail: '피로하중 축적 전 전하중 상태 확인. 나사 풀림 조기 발견.',
+    ref: null,
+    warn: null
+  }
+];
+
+const cl = document.getElementById('checklist');
+checkItems.forEach((item, i) => {
+  const div = document.createElement('div');
+  div.className = 'check-item';
+  div.innerHTML = `
+    <div class="check-num">${i+1}</div>
+    <div class="check-body">
+      <div class="check-title">${item.title}${item.warn ? `<span class="warn-tag">${item.warn}</span>` : ''}${item.ref ? ` <span class="ev">${item.ref}</span>` : ''}</div>
+      <div class="check-detail">${item.detail}</div>
+    </div>
+  `;
+  div.addEventListener('click', () => div.classList.toggle('done'));
+  cl.appendChild(div);
+});
+</script>
+</body>
+</html>
