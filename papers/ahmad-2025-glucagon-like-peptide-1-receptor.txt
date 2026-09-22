@@ -1,0 +1,22 @@
+PMID: 40348599
+DOI: 10.1111/jre.13410
+Title: Glucagon-Like Peptide 1 Receptor Agonists (GLP-1RAs) Improve Periodontal and Peri-Implant Health in Type 2 Diabetes Mellitus
+Authors: Ahmad P, Estrin N, Farshidfar N, Zhang Y, Miron RJ
+Journal: Journal of Periodontal Research
+Volume: 60, Issue: 5, Pages: 450-465
+Year: 2025
+Published: 2025-05-09
+
+ABSTRACT:
+
+Type 2 diabetes mellitus (T2DM) affects millions globally and is strongly associated with oral health issues, particularly periodontitis. The bidirectional relationship between T2DM and periodontitis is well established, with poorly managed T2DM increasing the risk of inflammation, tissue damage, and dental implant failure. Advances in treatment, such as glucagon-like peptide 1 receptor agonists (GLP-1RAs), have led to better glycemic control and may reduce T2DM-related complications, highlighting their potential in addressing interconnected oral-systemic health challenges.
+
+This narrative review critically evaluates the literature on the impact of GLP-1RAs on periodontal and peri-implant health. 10 in vitro studies, nine preclinical animal studies, and one clinical study were explored to investigate their effects on periodontal regeneration, implant therapy, and related mechanisms.
+
+In vitro research revealed that GLP-1RAs, including exenatide and liraglutide, promoted osteogenic differentiation of periodontal ligament stem cells (PDLSCs) through pathways such as the Wnt/β-catenin and MAPK pathways, even in high glucose or inflammatory conditions. Synergistic effects with stromal cell-derived factor-1 further promoted PDLSC proliferation and bone regeneration.
+
+Animal studies demonstrated that GLP-1RAs mitigated periodontal inflammation, oxidative stress, and alveolar bone resorption while promoting bone remodeling and implant osseointegration, independently of glycemic control. Advanced delivery systems, such as exenatide-loaded chitosan-poly(lactic-co-glycolic acid) microspheres, further increased peri-implant osseointegration in diabetic models.
+
+The sole clinical study, a retrospective cohort study, assessed peri-implant marginal bone loss in peri-implantitis patients treated with different hypoglycemic drugs. Results showed significantly less clinical and radiographic bone loss in the GLP-1RA group compared to insulin and metformin groups (p < 0.01).
+
+Overall, while GLP-1RAs have promising anti-inflammatory, osteoprotective, and pleiotropic properties, their role appears more aligned with preserving periodontal and peri-implant health in T2DM individuals than directly treating periodontitis or peri-implantitis.
