@@ -1,0 +1,464 @@
+TITLE: Relation Between Insertion Torque and Implant Stability Quotient: A Clinical Study
+AUTHORS: do Vale Souza
+João Paulo
+1
+de Moraes Melo Neto
+Clóvis Lamartine
+1
+Piacenza
+Lucas Tavares
+1
+Freitas da Silva
+Emily Vivianne
+1
+de Melo Moreno
+André Luiz
+1
+Penitente
+Paulo Augusto
+1
+Brunetto
+Juliana Lujan
+1
+dos Santos
+Daniela Micheline
+1
+2
+Goiato
+Marcelo Coelho
+1
+2
+
+ABSTRACT:
+Objectives
+This study aimed to assess the relation between the insertion torque and implant stability quotient (ISQ recorded immediately and 6 months after implant placement).
+Materials and Methods
+Twenty-five patients over the age of 18 years were selected for this study. One implant was placed per patient after tooth extraction. All implants had the same size (11.5 × 3.75 mm) and brand (Hexagonal Morse cone, DSP Biomedical). The insertion torque (Ncm) and resonance frequency analysis (ISQ value) (Osstell Mentor) were used to assess the primary stability (on the day of surgery). After 6 months, resonance frequency analysis was used to assess the secondary stability of each implant.
+Statistical Analysis
+The insertion torque data were correlated with ISQ measurements by using Pearson’s correlation. The significance level was 5%.
+Results
+There was a positive correlation between insertion torque and initial ISQ (correlation: 0.457;
+p
+= 0.022); however, no correlation was found between insertion torque and final ISQ (
+p
+= 0.308).
+Conclusion
+The present study demonstrated that there is a positive correlation between the insertion torque and the initial ISQ. Therefore, the higher the insertion torque, the higher the initial ISQ (and vice versa).
+
+BODY:
+Introduction
+The loss of one or more teeth can cause problems for the patient.
+1
+These problems can be functional, due to the masticatory difficulty, and psychological, due to the aesthetic change of the smile.
+1
+Therefore, implants and prostheses on implants are extremely important for patients who have lost their teeth.
+There are three protocols for implant loading: (1) immediate loading, prosthesis may be placed in occlusion up to 72 hours after implant placement; (2) early loading, prosthesis may be placed in occlusion between 1 week and 2 months after implant placement; and (3
+)
+delayed loading, prosthesis may be placed in occlusion from 3 to 8 months after implant placement.
+2
+3
+4
+Obviously, the choice of one of these protocols will depend mainly on the primary stability of the implant (stability that is generated immediately after implant placement).
+5
+6
+The primary stability of the implant is dictated by factors such as bone density, preparation of the implant placement site, and geometry, length and diameter of the implant.
+5
+Adequate primary stability can help prevent implant micromovement, especially in situations of immediate and early loading. Micromovements are one of the main factors for osseointegration failure and implant loss.
+4
+7
+According to Tettamanti et al and Baldi et al, a range of micromovements of the implant from 50 to 150 μm is tolerated
+4
+7
+When the 150 μm threshold is exceeded, there is a possibility that the bone-implant interface is colonized by fibroblasts from the overlying connective tissue, with consequent encapsulation of the implant in fibrous tissue and failure of osseointegration.
+4
+7
+Therefore, primary stability is a necessary condition for obtaining implant osseointegration.
+1
+6
+8
+9
+In addition to primary stability, it is important for the implant to obtain secondary stability, which is achieved after bone production and maturation on the implant body.
+6
+9
+Therefore, the application of tests to evaluate primary and secondary stabilities of the implant is extremely important in dentistry.
+10
+Methods for assessing the implant stability include percussion, radiography, resonance frequency analysis (RFA), reverse torque, insertion torque, and vibration in sonic and ultrasonic ranges.
+1
+10
+11
+The literature does not encourage the isolated use of a single method for assessing implant stability.
+11
+According to da Cunha et al and Degidi et al, RFA and insertion torque are the most efficient,
+1
+reliable,
+8
+indicated,
+1
+and commonly used methods to assess implant stability.
+8
+Insertion torque was developed by Johansson and Strid and improved by Frieberg in the 1990s.
+11
+12
+13
+14
+According to Baldi et al, the insertion torque is applied with a torque wrench, and it is the measure of the frictional resistance encountered by the implant while moving forward apically through a rotatory movement on its axis.
+7
+Thus, this method provides information about bone quality at the implant placement site
+9
+and implant primary stability.
+11
+The RFA was developed in the late 1990s by Meredith.
+11
+15
+16
+The RFA methodology is based on the quantitative assessment of implant micro deflection.
+5
+According to Herrero-Climent et al, the RFA is a noninvasive diagnosis technique that uses a piezoelectric transducer, which emits a sinusoidal signal within a specific frequency, resulting in implant vibration.
+17
+The implant resistance to vibration is measured by the device and transformed into the implant stability quotient (ISQ, within a 0–100 scale; 100 being maximum implant stability).
+17
+Clinically, RFA has been used to assess the implant primary stability and stability over time.
+15
+Therefore, the RFA allows to check and identify the risk of failure of an implant before it occurs.
+10
+In the literature, the relation between ISQ and insertion torque was assessed. However, it is not clear whether these two methods have a correlation or not.
+1
+6
+7
+8
+9
+10
+11
+18
+19
+Based on this situation, the aim of this study was to assess the relation between the insertion torque and ISQ (ISQ recorded immediately and 6 months after implant placement).
+Materials and Methods
+Thirty-seven patients were admitted at the Araçatuba Dental School, São Paulo State University, Brazil. After applying the inclusion and exclusion criteria, 25 participants were included in this study. In this study, each patient was rehabilitated with 1 implant.
+The participants received verbal and written information about the treatment and research, and signed an informed consent form. This research followed the recommendations of the Human Research Ethics Committee (presentation certificate for ethical appreciation: 90278818.5.0000.5420).
+Inclusion Criteria
+Patients with complete or nearly complete dentition.
+Need to extract a single tooth from the anterior region of the maxilla or mandible, due to a longitudinal tooth fracture,
+20
+or tooth root with insufficient length for prosthetic rehabilitation (this criterion is important because the teeth to be extracted would have only one root, and therefore, all dental alveoli would have the same shape).
+20
+After implant placement, the gap between bone and implant must be 1 mm or less. For a gap between bone and implant of 1 mm or less, no bone graft is needed.
+21
+Age over 18 years old.
+Implant site - bone height of approximately 15 mm and bone width (between 2 teeth) of approximately 8 mm.
+ASA (American Society of Anesthesiology) I or ASA II (controlled systemic disease) patients.
+22
+Patients with good oral health and free of periodontal diseases (bone and gingival tissues must be healthy).
+23
+Absence of periapical lesion around the apex of the tooth.
+23
+After the tooth extraction procedure, the dental alveolus must present intact bone walls.
+23
+Exclusion Criteria
+Metabolic bone disease.
+9
+Immunocompromised patients (human immunodeficiency virus infection or chemotherapy in the past 5 years).
+7
+Serious psychiatric problems.
+7
+Plaque index &gt;30% and/or bleeding index &gt;20%.
+7
+Radiotherapy in the head/neck region in the last 24 months.
+7
+Alcohol or drug abuse.
+7
+Pregnancy.
+24
+Smokers who consume more than 10 cigarettes per day.
+24
+Need for bone graft.
+Patients with a recent history of cardiac surgery, heart attack, stroke, recent use of anticoagulant drugs, or long-term use of bisphosphonate.
+7
+25
+Patient who needed immediate or early loading.
+25
+Preoperative
+A detailed clinical examination (anamnesis and physical examination) was performed to assess patients’ systemic conditions. A computed tomography scan was requested for each patient. Patients with systemic problems were referred for medical evaluation. Surgery was only performed after the physician confirmed that the patient was in adequate health conditions (controlled systemic disease) to receive a dental implant. No patient reported allergies to medications.
+All patients received information about the surgery procedure.
+9
+Operative
+Before surgical procedures, the patient’s vital signs were assessed, and then the patient was instructed to rinse his or her mouth with 0.12% chlorhexidine gluconate for 1 minute. All patients had normal vital signs.
+An antibiotic prophylaxis (amoxicillin 1 g) was performed 1 hour before the surgical procedure. Facial antisepsis was performed with 1% povidone iodine on the region of the orbicularis oris muscle.
+Twenty-five titanium implants (11.5 × 3.75 mm; Hexagonal Morse cone, DSP Biomedical, Brazil) were placed by a single experienced operator (M.C.G.). The surgical procedure was similar to the study by Junior et al.
+23
+Anesthesia was performed by using an articaine anesthetic (4% articaine with epinephrine 1: 100,000, DFL, Brazil). The tooth extraction was carefully performed to maintain the integrity of the alveolar bone. Syndesmotomy was performed with a scalpel blade Nº 15 (Embramac, Brazil).
+23
+After the syndesmotomy, when the cervical portion of the tooth was intact, the extraction was performed with forceps (Quinelato, Brazil) or extractors (Quinelato).
+23
+After tooth extraction, the alveolus walls were explored with a Lucas curette (Quinelato) to ensure their integrity.
+23
+The fresh alveolus was prepared with a surgical kit (DSP Biomedical) to receive the implant (all implants were placed according to the manufacturer's protocol). The bone type in which each implant was placed was classified by the operator (M.C.G.), following the classification by Lekholm and Zarb (I–IV)
+26
+27
+28
+(the most popular classification of bone quality).
+27
+This classification was based on radiographic evaluation, sensation of bone resistance experienced by the surgeon during surgery,
+27
+and classification of bone density by Misch.
+26
+28
+The implant was inserted into the dental alveolus using a contra-angle driven by an electric motor with torque control (BLM 600 Plus, Sondador, Brazil). A calibrated torque wrench (DSP Biomedical, Brazil) was used at the end of implant placement. The implant-abutment interface was placed 1 to 2 mm below the bone crest. In addition, immediately after inserting the implant, a resonance frequency device (Osstell Mentor, Sweden) was used.
+The suture was performed using a 4–0 nylon thread (Procare Medical, Brazil). Postoperative instructions and medications were provided to patients. Medications included amoxicillin 500 mg for 1 week and ibuprofen 600 mg for 3 days.
+Classification by Lekholm and Zarb
+Bone types classified according to Lekholm and Zarb based on the amount of cortical versus trabecular bone
+26
+28
+:
+Type 1 is composed of homogenous compact bone.
+26
+28
+Type 2 has a thick layer of cortical bone surrounding dense trabecular bone.
+26
+28
+Type 3 has a thin layer of cortical bone surrounded by dense trabecular bone of favorable strength.
+26
+28
+Type 4 has a thin layer of cortical bone surrounding a core of low density trabecular bone.
+26
+28
+Classifications of Bone Density by Misch
+Misch described four bone densities (D1, D2, D3, and D4) and their typical anatomical locations in the maxilla and mandible:
+D1 bone is primarily dense cortical bone. 28 D1 bone is found in the anterior region of the mandible.
+28
+D2 bone has dense to thick porous cortical bone on the crest and coarse trabecular bone underneath.
+28
+D2 bone is found in the anterior region of the maxilla, and anterior and posterior regions of the mandible.
+28
+D3 bone has a thinner porous cortical crest and fine trabecular bone within.
+28
+D3 bone is found in the anterior and posterior regions of the maxilla, and posterior region of the mandible.
+28
+D4 bone has almost no crestal cortical bone.
+28
+The fine trabecular bone composes almost all of the total volume of bone.
+28
+D4 bone is found in the posterior region of the maxilla (tuberosity region).
+26
+28
+Insertion Torque
+All implants were placed using the same calibrated torque wrench (DSP Biomedical). The maximum value of the insertion torque was recorded in Ncm (Newton centimeter).
+Resonance Frequency Analysis
+The inserted implant was attached to a transducer (SmartPeg). The Osstell rod emitted magnetic pulses stimulating the SmartPeg, and thus the SmartPeg vibrated at a specific frequency depending on the stability level of the implant.
+17
+The Osstell Mentor rod was positioned 1 mm from the transducer. The ISQ value range from 1 to 100.
+17
+To obtain the ISQ value, four SmartPeg points were measured (mesial, distal, buccal, and lingual/palatal), and a mean value was obtained.
+Postoperative
+Sutures were removed after 14 days of surgery. Six months after the surgical procedures, all patients were evaluated with the Osstell device (Osstell Mentor) and periapical radiographs.
+Implant Survival Criteria
+Implant survival after 6 months was assessed according to Albrektsson and Zarb: absence of painful symptoms, absence of mobility, absence of peri-implant radiographic radiolucency, and absence of progressive marginal bone loss.
+9
+29
+In addition, after this period, the final value of the ISQ was used to verify the stability of the implant.
+30
+Statistics Analysis
+Statistical analysis was performed by using a statistical software (IBM SPSS Statistics, v24.0; IBM Corp, United States). Descriptive statistics were performed to analyze demographic data. The data of the ISQ and insertion torque measurements were submitted to normality analysis by using the Kolmogorov–Smirnov test. The dependent Student’s
+t
+-test was performed to compare the initial ISQ with the final ISQ. For the evaluation of ISQ measurements, according to bone type at the implant site, the two-way repeated measures analysis of variance (ANOVA) was performed, followed by the Tukey test. For the assessment of torque, according to the bone type at the implant site, independent Student’s
+t
+-test was performed. The insertion torque data were correlated with the initial and final ISQ measurements by using Pearson’s correlation. Data related to the osseointegration and bone type at the implant site were correlated with the insertion torque and ISQ using Kendall’s correlation. All analyzes were performed with a 5% significance level.
+Results
+Of the 25 patients included in the study, 68% were females and 32% were males, with a mean age of 50 ± 9 years. Regarding the bone type at the implant site, 40% of implants were installed in type I bone (
+n
+= 10), and 60% of them were installed in bone type III (
+n
+= 15). In this study, after 6 months after, placing the 25 implants, only 1 (type III bone) showed osseointegration failure.
+Table 1
+shows that the mean of the ISQ in the final period was statistically higher than in the initial period (
+p
+&lt; 0.001).
+Table 1
+Mean and standard deviation of implant stability quotient measurements in the initial and final periods
+Period
+ISQ
+p
+-Value
+Mean ± SD
+Abbreviations: ISQ, implant stability quotient; SD, standard deviation.
+a
+Denotes a statistically significant difference (dependent Student’s
+t
+-test;
+p
+&lt; 0.05).
+Initial
+48.24 ± 19.28
+&lt;0.001
+a
+Final
+65.96 ± 8.47
+In
+Table 2
+, it is possible to observe that the interaction between bone type and time factors significantly interfered with the ISQ measurements (
+p
+&lt; 0.001). The initial ISQ measurement was statistically lower than the final measurement in type III bone (
+p
+&lt; 0.001). The ISQ measurement was greater for type I bone than for type III bone in the initial and final periods (
+Table 3
+).
+Table 2
+Two-way repeated-measures analysis of variance for implant stability quotient measurements, according to the type of bone at the implant site
+Variation factors
+Sum of squares
+Degrees of freedom
+Mean squares
+F
+p
+-Value
+a
+Denotes a statistically significant difference (
+p
+&lt; 0.05).
+Bone type
+4,218.750
+1
+4,218.750
+38.258
+&lt;0.001
+a
+Between samples
+2,536.250
+23
+110.272
+Time
+2,827.470
+1
+2,827.470
+29.514
+&lt;0.001
+a
+Time × Bone type
+1,685.070
+1
+1,685.070
+17.589
+&lt;0.001
+a
+Intra-samples
+2,203.450
+23
+95.802
+Table 3
+Mean and standard deviation of implant stability quotient measurements, according to the type of bone at the implant site
+Bone type
+ISQ
+Initial
+Final
+Abbreviation: ISQ, implant stability quotient.
+Note: Different lowercase letters horizontally denote a statistically significant difference. Different capital letters vertically denote a statistically significant difference (
+p
+&lt; 0.05, Tukey).
+I
+66.60 ± 3.10
+A,a
+70.10 ± 1.85
+A,a
+III
+36.00 ± 15.16
+B,a
+63.20 ± 10.02
+B,b
+There was a positive correlation between insertion torque and initial ISQ (correlation: 0.457;
+p
+= 0.022); and a negative correlation between type of bone at the implant site and insertion torque (correlation: −0.433;
+p
+= 0.017), and between type of bone at the implant site and initial ISQ (correlation: −0.704;
+p
+&lt; 0.001). There was no correlation between insertion torque and final ISQ (
+p
+= 0.308), presence of osseointegration and insertion torque (
+p
+= 0.394), presence of osseointegration and initial ISQ (
+p
+= 0.164), presence of osseointegration and final ISQ (
+p
+= 0.091), or type of bone of the implant site and final ISQ (
+p
+= 0.135).
+Table 4
+shows that the bone type factor interfered with the insertion torque (
+p
+= 0.018). Therefore, there was statistically significant difference between bones type I (36.50 Ncm ± 3.37) and III (31.20 Ncm ± 5.92).
+Table 4
+Mean and standard deviation of insertion torque values, according to the type of bone at the implant site
+Bone type
+Insertion torque
+p
+-Value
+Mean ± SD
+Abbreviation: SD, standard deviation.
+a
+Denotes a statistically significant difference (independent Student’s
+t
+-test;
+p
+&lt; 0.05).
+I
+36.50 ± 3.37
+0.018
+a
+III
+31,20 ± 5.92
+Discussion
+According to some studies, there is a positive correlation between ISQ and insertion torque,
+7
+8
+10
+11
+while other studies show no correlation.
+1
+18
+19
+This difference in results may be related to the different methodologies used in these studies. The present study showed that there was a positive correlation between insertion torque and initial ISQ (correlation: 0.457;
+p
+= 0.022), so that the greater the insertion torque, the greater the initial ISQ (and vice versa). This result is important, because although these variables (Ncm and ISQ) are independent, indicating two different characteristics of primary stability,
+8
+they “move” together. It is noteworthy that the ISQ value indicates the resistance to bending load, and the insertion torque indicates the frictional resistance.
+7,8
+Based on
+Tables 3
+and
+4
+, it is possible to verify that type I bone generated a significantly greater insertion torque and ISQ value (initial and final) when compared with type III bone (
+p
+&lt; 0.05). These situations possibly occurred due to the higher density of type I bone.
+26
+28
+In addition, in this study, it was possible to verify a negative correlation between bone type and insertion torque or initial ISQ value. Therefore, the higher the insertion torque or the initial ISQ value, the lower the bone type classification, based on the type I and III bones evaluated in this study.
+According to Sarfaraz et al, insertion torque in the range of 30 to 60 Ncm is considered a good indicator of primary stability and this range of torque values suggests that implant osseointegration will occur.
+11
+Therefore, although the insertion torque was significantly higher (
+p
+= 0.018) for type I bone (36.50 Ncm) when compared with type III bone (31.20 Ncm), these values are within the clinically acceptable level for implant osseointegration to occur.
+According to Osstell guidelines and based on a single crown30: (1) For ISQ values below 60 (low stability), the implant should be monitored, because ISQ &lt;60 may suggest the possibility of osseointegration failure.
+5
+30
+In this situation, the delayed loading of the implant is required;30 (2) ISQ values from 60 to 64 (medium-low stability) allow delayed loading of the implant
+30
+; (3) ISQ values from 65 to 69 (medium-high stability) allow early or delayed loading of the implant.
+30
+(4) The ISQ value of 70 or higher (high stability) allows immediate, early or delayed loading of the implant.
+30
+Thus, based on initial ISQ (Table 3), implants placed in type I bone could receive delayed or early loading (if the ISQ value is at least 65 after the period of time necessary to carry out the early loading).
+30
+In contrast, implants placed in type III bone could only receive delayed loading (Table 3).
+According to Trist et al, based on a single crown, the immediate loading may be considered a valid therapeutic choice, even in low-density bone, as long as at least 45 Ncm of insertion torque is reached
+31
+(early loading of an implant may also be recommended when the insertion torque of 45 Ncm or higher is reached).
+2
+31
+32
+Based on this information and
+Table 4
+, it would not be possible to indicate immediate or early loading for the implants placed in this study, regardless of the type of bone evaluated. Therefore, both primary stability assessment methods indicate the delayed loading protocol. Thus, the 2 methods may be used together to help the dentist choose the best treatment option for his or her patient.
+When checking the last paragraphs, it is possible to notice that the insertion torque value (mean value) based on type III bone (Table 4) suggests that the implants will be osseointegrated (&gt;30 Ncm),
+11
+while the initial ISQ suggests the risk of osseointegration failure of the implants (&lt;60 ISQ)5,30 (Table 3). It is worth mentioning that the insertion torque and initial ISQ based on type I bone suggest that osseointegration of the implants will occur (Tables 3 and 4). Therefore, it is interesting to note this difference between these two methods based on the predictability of osseointegration of implants placed in type III bone. Apparently, the insertion torque method suggested a more coherent predictability of osseointegration based on implants placed in type III bone, since, with the exception of 1 implant, all other implants were osseointegrated.
+A limitation of the present study is that only bone types I and III were evaluated. Therefore, studies similar to this one evaluating bone types II and IV are necessary.
+Conclusion
+The present study demonstrated that there is a positive correlation between the insertion torque and the initial ISQ. Therefore, the higher the insertion torque, the higher the initial ISQ (and vice versa).
