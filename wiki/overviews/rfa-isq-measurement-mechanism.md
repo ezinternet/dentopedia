@@ -156,6 +156,9 @@ The `f = (1/2π)√(k/m)` framing and the beam/fulcrum language are **general vi
 - [[implants/isq/chatvaratthana-2017-cortical-bone-crestal-buccolingual-isq]] — crestal cortical r=0.885; nothing at 6/9 mm; cancellous irrelevant at every depth
 - [[implants/isq/nedir-2004-predicting-osseointegration-primary-stability-rfa]] — RFA not reliable for mobility; ISQ ≥47 floor; protocol-specific ISQi cut-offs (DL ≥49 / IL ≥54)
 
+**치유기 ISQ 변화 패턴 (healing-period trajectories)**
+- [[implants/isq/guler-2013-resonance-frequency-analysis-straumann-dental]] — 208 Straumann implants (SLA/SLActive) 치유기 ISQ 상승 확인; 후방 상악 최저, 직경 4.8 mm·남성 유의하게 높음, SLActive는 일시적 우위 후 SLA와 동등; 단일 수치보다 시계열 측정이 진단적 (prospective, 2013)
+
 **측정 신뢰도 (measurement reliability — mechanism-adjacent)**
 - [[implants/isq/zix-2008-osstell-periotest-implant-stability-clinical]] — Osstell ICC 0.99 vs Periotest 0.88; RFA is the more precise of the two
 - [[implants/isq/kastel-2019-smartpeg-torque-isq-rfa]] — SmartPeg torque ≥10 Ncm required; the SmartPeg is part of the measured system, not a neutral probe
