@@ -405,6 +405,10 @@ GentleWave®(GWS)는 광대역 음향주파수 + 근첨 음압 + 연속 유체�
 - [[overviews/endodontics-comprehensive-ladder]] — 근관치료 전체 술식 사다리 중 세정 단계
 - [[overviews/endodontic-access-cavity-decision-tree]] — 접근와동 형성 후 세정으로 진행
 
+### 신규 추가 (2026-09)
+
+- [[endodontics/irrigation/teja-2025-efficacy-gel-solution-endodontic]] — SR (37편): 용액형 세정제가 항균·스미어층 제거·기구 안전성 모든 측면에서 젤형 우위; 젤-NaOCl 슬러지 → 파일 피로파절 위험 증가; 좁은 만곡근관 윤활에는 젤이 유용하나 사용 후 반드시 용액으로 후속 세정 필수; 임상 RCT에서 세균 부하·통증 감소 이점 없음 (sr, 2025)
+
 ## Wiki Coverage Caveat
 
 세정·소독 36편 반영 완료 (2026-07-11 — `endodontics/irrigation/` 33편 + 개념 근거 `endodontics/shaping/siqueira-2018-unprepared-root-canal-surface-areas` 1편 + 실러 침투/결합강도 신규 2편[`endodontics/gomez-gonzalez-2026-...`, `endodontics/kamath-2025-...`]). 추가 PDF 사냥 권장:
