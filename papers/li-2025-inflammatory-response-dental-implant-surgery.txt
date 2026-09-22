@@ -1,0 +1,1037 @@
+Currentlyoral rehabilitation is gradually achieved by placing dental implants. Despite generally good success rates for these implants, research shows that patients with diabetes, especially type 2 diabetes mellitus (T2DM), experience more failures. Therefore, the identification of patients at elevated risk for peri-implant inflammatory complications [, peri-implantitis (PI) and peri-implant mucositis] should be prioritized. This study focuses on analyzing the inflammatory response and contributors to postimplant PI in patients with T2DM, providing evidence for reducing the incidence of PI after dental implant surgery.
+
+INTRODUCTION
+
+Nowadays, the application of dental implants for oral rehabilitation has become increasingly widespread[]. Dental implantation primarily involves placing an implant into the human gum and installing a prosthetic tooth on it once the implant has firmly connected to the gum. This technique is mainly suitable for cases where the dentition is missing or defective. After the procedure, the teeth have a pleasing aesthetic appearance, the implant is highly stable with a long lifespan, and the patient experiences no substantial discomfort. This technology meets the demands of patients and dentists for aesthetics and masticatory function, as well as the increasing objective for minimally invasive solutions with high durability[,]. However, as the number of implants increases, complications become more prevalent[], which is clinically observed as a substantial rise in cases that develop peri-implant soft/hard tissue pathologies and peri-implantitis (PI) after implantation. PI can result in dental implant failure and severely impact the oral health of patients[]. Therefore, effective preventive and treatment measures are required.
+
+Research has confirmed that patients with diabetes, especially those with type 2 diabetes mellitus (T2DM), experience more dental implant failures than healthy patients[]. Diabetes is closely associated with oral health, particularly periodontal health[]. In some patients, the coexistence of diabetes severely impacts tissue-healing ability and body immunity, which results in poor implant-healing outcomes. Moreover, diabetes has long been regarded as a contributor to implant failures[]. While diabetes is generally regarded as a relative contraindication in implant protocols, implant restoration is favored by most patients with diabetes with missing teeth. This is because it inflicts less damage on adjacent teeth and has a lesser effect on the alveolar bone compared with implant-fixed dental bridges and removable prosthetics. In addition, a previous study examined the 40-year trend of tooth loss among patients with and without diabetes over 25 years old in the United States, and it was revealed that patients with diabetes lose almost twice as many teeth as patients without diabetes[]. This finding coincides with the increased demand for implant restoration among patients with diabetes.
+
+Despite the relatively high success rate of implants in conventional surgeries, dentists are required to screen out high-risk candidates who are prone to developing peri-implant complications such as peri-implant mucositis and PI. Given the high incidence of diabetes and the current trend where an increasing number of individuals wish to restore missing teeth through implants, this study focuses on analyzing the inflammatory response after dental implantation in patients with T2DM, as well as the risk factors for PI, thus helping to reduce the incidence of postimplant PI.
+
+MATERIALS AND METHODS
+
+Research participants
+
+This study retrospectively examined the clinical records of patients with T2DM who had dental implants placed at Tianjin Fifth Central Hospital, between September 2021 and September 2023.
+
+(1) Patient age ≥ 40 years old; (2) Patient fulfilled all the diagnostic standards for T2DM; (3) Tissue at the tooth-missing site had healed for ≥ 4 months, and the bone tissue satisfied the requirements for dental implants, with only one implant placed; (4) No acute or chronic infectious diseases before the operation; (5) No disorders related to the heart, brain, kidney, retina,; and (6) Complete clinical data were available.
+
+(1) Patients who had recently undergone periodontal surgery; (2) Patients who had recently received antibacterial therapy, immunosuppressants or anticoagulants; (3) Patients with the tissue at the tooth-missing site healed for < 4 months; (4) Patients with abnormal occlusion; (5) Patients with severe dysfunction of vital organs, such as the liver and kidneys; (6) Patients with mental illness or inability to cooperate in the study; and (7) Patients with incomplete clinical data.
+
+Based on these criteria, 146 patients with T2DM undergoing dental implant procedures were selected as the observation group. In addition, 60 age- and sex-matched individuals with normal blood glucose levels were selected as the control group, whose fasting blood sugar level was < 6.0 mmol/L and glycosylated hemoglobin (HbA1c) was < 6.0%. The remaining inclusion and exclusion criteria for the control group were identical to those of the observation group (Figure).
+
+Figure 1
+
+T2DM: Type 2 diabetes mellitus.
+
+Patient data collection
+
+The patient-related data were collected by dedicated personnelclinical data collation and case system collection, including:
+
+The patients’ gender, age, history of alcohol consumption, smoking history, HbA1c level, tooth-brushing frequency (the Bass brushing technique), tooth-brushing time, as well as the implant site, implantation method, oral hygiene habits, and the presence or absence of postimplant PI were collected.
+
+All patients were re-examined at months 1, 3, and 6 after the completion of dental implant restoration (, after the installation of the superstructure) to evaluate the periodontal condition, including the probing depth (PD), modified sulcus bleeding index (mSBI), and modified plaque index (mPLI). Meanwhile, radiographic evaluation quantified the marginal bone loss (MBL) surrounding the implant.
+
+All patients were re-examined at months 1, 3, and 6 after the completion of dental implant restoration (superstructure installation). Resonance frequency analysis (Osstell) was employed to determine the implant stability quotient (ISQ), and the average value was taken from the three measurements at each measurement point. Elevated ISQ measurements correlate with superior implant fixation and more robust bone-to-implant contact, which are essential for surgical success and functional capacity during mastication. Different ISQ value ranges correspond to different states of implant stability: (1) 0-39: The implant is in a poor state of stability, which may imply infection, bone loss, bone resorption, implant displacement,; (2) 40-69: The implant is in a moderately stable state, which may imply that part of the bone is missing or that inflammation is affecting the peri-implant bone healing; (3) 70-84: The implant is in a good state of stability, which may imply that part of the bone is missing or that inflammation is affecting peri-implant bone healing, and 84: Indicates that the implant is in a good, stable state, and it can generally be assumed that the implant has been successfully placed with good healing around the bone tissue; and (4) 85-100: Indicates that the implant is in a very good, stable state with an intimate biological bonding at the bone-implant junction and a very high success rate.
+
+Preoperative and 24-hour postoperative venous blood draws were performed after an overnight fast, followed by routine blood tests to determine the levels of leukocytes, lymphocytes, and neutrophils using an automatic blood analyzer.
+
+The gingival crevicular fluid (GCF) around the implants was collected during the patients’ follow-up visits at months 1, 3, and 6 after the completion of dental implant restoration (subsequent to the installation of the superstructure). The specific operational procedure was as follows: First, patients rinsed their mouths with clear water, and sterile cotton swabs were used to dry the area in the vicinity of the gingival margin of the implant denture. Next, a sterile filter paper strip (with the specification of 2 mm × 8 mm) was inserted into the gingival sulcus of the implant tooth under examination. After remaining in place for 30 seconds, the strip was transferred to a sterile centrifuge tube and cryopreserved (-80 °C). During the detection process, the sampling cotton swab was retrieved and thawed, followed by dissolution by adding 1 mL of ultrapure water. Subsequently, ELISAs were performed to quantify the tumor necrosis factor (TNF)-α, interleukin (IL)-1β, and IL-6 in the GCF.
+
+All patients underwent screening for PI either during follow-up visits or when they presented with symptoms of discomfort. The diagnostic criteria for postimplant PI were as follows: Bleeding upon periodontal probing, a PD of ≥ 5 mm, purulent exudate from the periodontal pocket within the implant area, and an oral X-ray examination revealing MBL ≥ 2 mm.
+
+Statistical analysis
+
+Sample size calculation was performed using PASS 15.0. The PI incidence, a categorical variable, was the primary measured outcome. Based on previous experience, the estimated incidence of PI was determined to be 40%. The tolerance error δ and α were set at 0.05. The sample size was then calculated using the “confidence intervals for one proportion” option in the software. The results indicated that the required sample size was 143 cases when assuming a dropout rate of 20%. Therefore, a minimum of 143 research subjects were needed.
+
+SPSS 25.0 was used to process the data. Quantitative data are presented as the mean ± SD. Following normality testing, data with a normal distribution were subjected to analysis with-tests (inter-group comparisons) or least significant difference--tests (comparisons among multiple groups); otherwise, the rank-sum test was utilized. Categorical data are presented as percentages and analyzed bytests. Multivariable logistic regression models were constructed to examine associations. Statistical significance was denoted by avalue < 0.05.
+
+RESULTS
+
+Baseline information
+
+The two patient groups did not differ significantly in age, gender, smoking history, drinking history, or implantation-related information (> 0.05). However, the HbA1c level was significantly higher in patients with T2DM than in the controls (< 0.05). The two patient groups were comparable (Table).
+
+Table 1
+
+Comparison of general information between two patient groups
+
+Groups
+
+Observation group (= 146)
+
+Control group (= 60)
+
+/
+
+value
+
+Gender
+
+0.905
+
+0.341
+
+Male
+
+77
+
+36
+
+Female
+
+69
+
+24
+
+Age (years)
+
+55.84 ± 4.67
+
+55.57 ± 3.98
+
+0.391
+
+0.696
+
+Glycosylated hemoglobin (%)
+
+10.08 ± 2.43
+
+4.83 ± 0.53
+
+16.520
+
+< 0.0001
+
+Smoking history
+
+63
+
+21
+
+1.170
+
+0.279
+
+Alcohol consumption history
+
+58
+
+19
+
+1.180
+
+0.277
+
+Implant site
+
+1.171
+
+0.279
+
+Anterior teeth
+
+68
+
+23
+
+Molar teeth
+
+78
+
+37
+
+Bone grafting
+
+2.352
+
+0.125
+
+With
+
+78
+
+25
+
+Without
+
+68
+
+35
+
+Implantation method
+
+0.119
+
+0.730
+
+Submerged
+
+72
+
+28
+
+Non-submerged
+
+74
+
+32
+
+Periodontal indices of the two patient groups
+
+Regarding the periodontal indices, the levels of PD, mSBI, and MBL in the observation groups began to increase significantly 6 months after the completion of dental implant restoration (< 0.05) while PD, mSBI decreased in the control group. In addition, the observation group exhibited significantly higher PD, mSBI, mPLI, and MBL levels than the control group at 6 months after dental implant restoration (< 0.05; Table).
+
+Table 2
+
+Comparison of periodontal indices between two patient groups
+
+Groups
+
+Time points
+
+PD (mm)
+
+mSBI
+
+mPLI
+
+MBL
+
+Observation group (= 146)
+
+1 month after surgery
+
+1.57 ± 0.22
+
+0.61 ± 0.50
+
+0.65 ± 0.59
+
+0.51 ± 0.09
+
+3 months after surgery
+
+1.72 ± 0.24
+
+0.68 ± 0.57
+
+0.75 ± 0.65
+
+0.62 ± 0.12
+
+6 months after surgery
+
+2.33 ± 0.27
+
+1.09 ± 0.72
+
+1.09 ± 0.80
+
+1.04 ± 0.17
+
+Control group (= 60)
+
+1 month after surgery
+
+1.55 ± 0.16
+
+0.60 ± 0.62
+
+0.60 ± 0.56
+
+0.49 ± 0.05
+
+3 months after surgery
+
+1.47 ± 0.14
+
+0.23 ± 0.43
+
+0.68 ± 0.62
+
+0.69 ± 0.09
+
+6 months after surgery
+
+1.17 ± 0.11
+
+0.17 ± 0.38
+
+0.72 ± 0.76
+
+0.72 ± 0.09
+
+a
+
+< 0.05the level at 1 month after surgery in the same group.
+
+b
+
+< 0.05the level at 3 months after surgery in the same group.
+
+c
+
+< 0.05the control group at the same time point.
+
+PD: Probing depth; mSBI: Modified sulcus bleeding index; mPLI: Modified plaque index; MBL: Marginal bone loss.
+
+GCF inflammatory factors in the two patient groups
+
+The baseline leukocyte, lymphocyte, and neutrophil levels were comparable between the two groups (> 0.05). At 24 hours postoperatively, the observation group had notably elevated leukocyte, lymphocyte, and neutrophil counts compared to the control group (< 0.05). The TNF-α, IL-1β, and IL-6 Levels in the GCF of observation group patients increased significantly 3 months after dental implant restoration (< 0.05). At 6 months after dental implant restoration, these inflammatory factors gradually stabilized or decreased in the control group. However, these inflammatory factor levels were elevated in the observation group compared to those of the control group at months 3 and 6 after repair (< 0.05; Tablesand).
+
+Table 3
+
+Comparison of inflammatory factors in gingival crevicular fluid
+
+Groups
+
+Time points
+
+TNF-α (ng/mL)
+
+IL-1β (ng/mL)
+
+IL-6 (ng/mL)
+
+Observation group (= 146)
+
+1 month after surgery
+
+0.71 ± 0.07
+
+0.52 ± 0.06
+
+1.94 ± 0.22
+
+3 months after surgery
+
+1.42 ± 0.12
+
+1.04 ± 0.11
+
+3.07 ± 0.33
+
+6 months after surgery
+
+1.98 ± 0.18
+
+2.08 ± 0.28
+
+4.88 ± 0.47
+
+Control group (= 60)
+
+1 month after surgery
+
+0.74 ± 0.08
+
+0.52 ± 0.08
+
+1.99 ± 0.15
+
+3 months after surgery
+
+0.67 ± 0.16
+
+0.50 ± 0.06
+
+2.03 ± 0.21
+
+6 months after surgery
+
+0.70 ± 0.16
+
+0.43 ± 0.08
+
+1.59 ± 0.08
+
+a
+
+< 0.05the level at 1 month after surgery in the same group.
+
+b
+
+< 0.05the level at 3 months after surgery in the same group.
+
+c
+
+< 0.05the control group at the same time point.
+
+TNF-α: Tumor necrosis factor-α; IL-1β: Interleukin-1β; IL-6: Interleukin-6.
+
+Table 4
+
+Comparison of inflammatory factors in serum
+
+Groups
+
+White blood cells (× 10/L)
+
+Lymphocytes (× 10/L)
+
+Neutrophils (× 10/L)
+
+Before surgery
+
+24 hours after surgery
+
+Before surgery
+
+24 hours after surgery
+
+Before surgery
+
+24 hours after surgery
+
+Observation group (= 146)
+
+6.63 ± 1.44
+
+9.96 ± 2.39
+
+1.72 ± 0.56
+
+3.03 ± 0.43
+
+2.84 ± 0.74
+
+5.41 ± 0.84
+
+Control group (= 60)
+
+6.29 ± 1.73
+
+6.89 ± 1.60
+
+1.87 ± 0.62
+
+1.67 ± 0.51
+
+2.98 ± 0.30
+
+3.05 ± 0.74
+
+t
+
+1.448
+
+9.129
+
+1.637
+
+19.640
+
+1.453
+
+18.890
+
+value
+
+0.149
+
+< 0.0001
+
+0.103
+
+< 0.0001
+
+0.148
+
+< 0.0001
+
+Implant stability
+
+No evident inter-group difference in the ISQ was observed at month 1 after the implantation. However, at months 3 and 6 after implantation, the ISQ presented an upward trend in both cohorts, with higher values in the control group than the observation group (< 0.05; Table).
+
+Table 5
+
+Comparison of implant stability between two patient groups
+
+Groups
+
+Time points
+
+ISQ
+
+Observation group (= 146)
+
+1 month after surgery
+
+55.49 ± 1.34
+
+3 months after surgery
+
+61.07 ± 1.95
+
+6 months after surgery
+
+65.88 ± 2.28
+
+Control group (= 60)
+
+1 month after surgery
+
+55.48 ± 0.93
+
+3 months after surgery
+
+65.62 ± 2.12
+
+6 months after surgery
+
+70.88 ± 3.59
+
+a
+
+< 0.05the level at 1 month after surgery in the same group.
+
+b
+
+< 0.05the level at 3 months after surgery in the same group.
+
+c
+
+< 0.05the control group at the same time point.
+
+ISQ: Implant stability quotient.
+
+General data of the PI and non-PI groups
+
+Sixty-three out of the 146 patients with T2DM developed postimplant PI. A comparison of the relevant factors between patients with and without PI revealed that age, smoking history, HbA1c level, implant site, alveolar bone quality, alveolar bone quality classification, and oral hygiene habits were associated with the occurrence of postimplant PI in patients with T2DM (< 0.05; Table).
+
+Table 6
+
+Comparison of general data between peri-implantitis and non-peri-implantitis groups
+
+Groups
+
+PI group (= 63)
+
+Non-PI group (= 83)
+
+/
+
+value
+
+Gender
+
+0.168
+
+0.682
+
+Male
+
+32
+
+45
+
+Female
+
+31
+
+38
+
+Age (years)
+
+56.78 ± 5.37
+
+55.12 ± 3.98
+
+2.150
+
+0.033
+
+Glycosylated hemoglobin (%)
+
+11.11 ± 2.69
+
+9.23 ± 1.96
+
+4.827
+
+< 0.0001
+
+Smoking history
+
+42
+
+21
+
+24.981
+
+< 0.0001
+
+Alcohol consumption history
+
+21
+
+37
+
+1.891
+
+0.169
+
+Implant site
+
+31.141
+
+< 0.0001
+
+Anterior teeth
+
+46
+
+22
+
+Molar teeth
+
+17
+
+61
+
+Bone grafting
+
+0.2022
+
+0.653
+
+With
+
+35
+
+43
+
+Without
+
+28
+
+40
+
+Implantation method
+
+0.417
+
+0.519
+
+Submerged
+
+33
+
+39
+
+Non-submerged
+
+30
+
+44
+
+Alveolar bone quality classification
+
+8.417
+
+0.015
+
+I
+
+26
+
+21
+
+II
+
+23
+
+19
+
+III
+
+14
+
+34
+
+Oral hygiene habits
+
+Daily tooth-brushing frequency (times)
+
+15.901
+
+< 0.0001
+
+≤ 1
+
+43
+
+29
+
+> 1
+
+20
+
+54
+
+Tooth-brushing after meals
+
+5.370
+
+0.021
+
+Yes
+
+22
+
+45
+
+No
+
+41
+
+38
+
+Tooth-brushing duration (minutes)
+
+51.861
+
+< 0.0001
+
+< 3
+
+49
+
+15
+
+≥ 3
+
+14
+
+68
+
+PI: Peri-implantitis.
+
+Periodontal indices and inflammatory factors in the PI and non-PI groups
+
+Patients with PI exhibited significantly higher levels of PD and MBL, as well as elevated levels of TNF-α, IL-1β, and IL-6 in the GCF, than patients without PI. Moreover, higher ISQ was observed in the non-PI group than in the PI group (< 0.05; Tablesand).
+
+Table 7
+
+Comparison of periodontal indices between peri-implantitis and non-peri-implantitis groups
+
+Groups
+
+PI group (= 63)
+
+Non-PI group (= 83)
+
+t
+
+value
+
+PD (mm)
+
+2.39 ± 0.23
+
+2.28 ± 0.30
+
+2.458
+
+0.015
+
+mSBI
+
+1.19 ± 0.64
+
+1.01 ± 0.77
+
+1.483
+
+0.140
+
+mPLI
+
+1.19 ± 0.78
+
+1.02 ± 0.81
+
+1.248
+
+0.214
+
+MBL
+
+1.09 ± 0.16
+
+1.00 ± 0.17
+
+3.175
+
+0.002
+
+ISQ
+
+64.63 ± 1.90
+
+66.83 ± 2.08
+
+6.605
+
+< 0.0001
+
+PI: Peri-implantitis; PD: Probing depth; mSBI: Modified sulcus bleeding index; mPLI: Modified plaque index; MBL: Marginal bone loss; ISQ: Implant stability quotient.
+
+Table 8
+
+Comparison of inflammatory between peri-implantitis and non-peri-implantitis groups
+
+Groups
+
+PI group (= 63)
+
+Non-PI group (= 83)
+
+t
+
+value
+
+TNF-α (ng/mL)
+
+2.02 ± 0.15
+
+1.95 ± 0.19
+
+2.560
+
+0.012
+
+IL-1β (ng/mL)
+
+2.17 ± 0.22
+
+2.02 ± 0.30
+
+3.526
+
+0.0006
+
+IL-6 (ng/mL)
+
+5.08 ± 0.41
+
+4.73 ± 0.46
+
+4.691
+
+< 0.0001
+
+TNF-α: Tumor necrosis factor-α; IL-1β: Interleukin-1β; IL-6: Interleukin-6; PI: Peri-implantitis.
+
+Analysis of factors influencing the development of PI
+
+Multivariate logistic regression analysis indicated that high HbA1c levels, history of smoking, daily tooth-brushing frequency of < 1, and the anterior tooth as the implant site were independent risk factors for periodontal inflammation in patients with T2DM. Furthermore, a tooth-brushing duration of ≥ 3 minutes was a protective factor (Table).
+
+Table 9
+
+Logistic analysis of factors influencing peri-implantitis
+
+Variable
+
+Assignment
+
+β
+
+SE
+
+Wald
+
+value
+
+HR
+
+95%CI
+
+Constant
+
+-
+
+-6.820
+
+3.899
+
+3.060
+
+0.080
+
+0.001
+
+-
+
+Age
+
+Continuous variable
+
+0.035
+
+0.063
+
+0.317
+
+0.573
+
+1.036
+
+0.916-1.172
+
+Glycosylated hemoglobin
+
+Continuous variable
+
+0.434
+
+0.137
+
+9.979
+
+0.002
+
+1.543
+
+1.179-2.020
+
+Smoking history
+
+0 = none, 1 = yes
+
+1.168
+
+0.578
+
+4.085
+
+0.043
+
+3.214
+
+1.036-9.971
+
+Implant site
+
+0 = posterior teeth, 1 = anterior teeth
+
+2.031
+
+0.592
+
+11.783
+
+0.001
+
+7.619
+
+2.390-24.293
+
+Alveolar bone quality classification (control = I)
+
+(0 = I, 1 = II, 2 = III)
+
+-
+
+-
+
+1.714
+
+0.424
+
+-
+
+-
+
+II
+
+0.168
+
+0.669
+
+0.063
+
+0.802
+
+1.183
+
+0.319-4.389
+
+III
+
+-0.694
+
+0.667
+
+1.082
+
+0.298
+
+0.499
+
+0.135-1.847
+
+Daily tooth-brushing frequency
+
+0 ≥ 1, 1 ≤ 1
+
+1.206
+
+0.559
+
+4.662
+
+0.031
+
+3.340
+
+1.118-9.982
+
+Tooth-brushing after meals
+
+0 = no, 1 = yes
+
+-0.645
+
+0.557
+
+1.344
+
+0.246
+
+0.524
+
+0.176-1.562
+
+Tooth-brushing duration
+
+0 ≤ 3, 1 ≥ 3
+
+-2.746
+
+0.602
+
+20.824
+
+0.000
+
+0.064
+
+0.020-0.209
+
+HR: Hazard ratio.
+
+DISCUSSION
+
+The persistently high blood glucose levels among patients with diabetes can exert a certain degree of influence on the body’s tissue-healing ability and immune function. Moreover, this hyperglycemic state leads to a decline in the rate of bone formation, reducing the speed of implant healing and negatively affecting the peri-implant bone density and the process of osseointegration. As a result, diabetes is regarded as a contraindication in the field of dental implant treatment[]. However, recent research indicates comparable implant success rates between individuals with and without diabetes, thus reclassifying diabetes from an absolute to a relative contraindication status[]. Nevertheless, the control of blood glucose levels is of crucial importance for the complication-free healing of dental implants. This study analyzed the blood inflammation indicators of T2DM and risk factors for the occurrence of PI.
+
+The PD, mSBI, and MBL periodontal indices in the observation groups exhibited significant increases from month 6 after the completion of dental implant restoration. Furthermore, the diabetic group exhibited significantly elevated levels of PD, mSBI, mPLI, and MBL compared to those of the control group after month 6, which is in agreement with previous research. In recent years, MBL, PD, and mSBI have emerged as crucial indicators for identifying peri-implant diseases[]. MBL is a vital factor in assessing the surviving bone quality, as bone loss may result in bone pocket formation[], while PD and mSBI are key parameters for the assessment of peri-implant inflammation. Alterations in these three indices are highly likely to culminate in unfavorable implant outcomes. Previous studies have shown significantly greater bone loss in patients with diabetes compared to healthy controls[-]. Moreover, several other investigations have found higher PD values in patients with diabetes than in the normal blood glucose group[,]. In addition, the GCF TNF-α, IL-1β, and IL-6 contents in the observation groups increased markedly 3 months after the completion of dental implant restoration, with higher levels found in the observation group at 3 and 6 months after restoration compared to the control group. This suggests that T2DM can exacerbate periodontal inflammatory reactions and accelerate the process of peri-implant inflammation after implantation in patients with dentition defects. Thus, inflammatory factor levels gradually decreased over time in patients with normal blood glucose levels, whereas patients in the observation group with hyperglycemia exhibited a more severe inflammatory response after dental implants because of the influence of poor glycemic control. We believe that T2DM can trigger a series of pathological alterations, such as weakened immune responses and vascular endothelial damage. This can give rise to systemic tissue malnutrition and elevated osmotic pressure and potentially cause salivary secretion dysfunction, thereby further influencing the distribution of the oral flora and inducing the development of infections[]. TNF-α is one of the earliest and most important inflammatory mediators that appear during inflammatory responses, activating neutrophils and lymphocytes; it participates in normal inflammatory processes and immune regulation and synergistically regulates other cytokine production, cellular viability, and apoptotic pathways to maintain tissue equilibrium[]. Neutrophils, the most numerous leukocyte cell population in circulation, are the primary defense against bacterial infection and essential regulators of inflammatory homeostasis[]. Systemic neutrophil elevation appears to be type-specific to T2DM, as this does not occur in patients without diabetes and those with type 1 diabetes. Clinical and experimental investigations in human and rodent models consistently demonstrate decreased chemotaxis, phagocytosis, and apoptosis in diabetic neutrophils, along with increased reactive oxygen species secretion, pro-inflammatory cytokine production, and neutrophil extracellular traposis[]. Furthermore, this ultimately activates NF-κB, a transcription factor that modulates multiple cytokines (, IL-1β and TNF-α), many of which are known to play a pathological role in PI[]. Moreover, T2DM can cause disorders in collagen metabolism, driving variations in the structure of periodontal collagen fibers. This, in turn, damages the periodontal connective tissues and weakens the supporting function of the periodontal tissues for dental implants[], ultimately enhancing the PI process.
+
+In addition, by analyzing the factors associated with postimplant PI in patients with T2DM, we identified high HbA1c levels, smoking, daily tooth-brushing frequency of less than once, and the anterior tooth as the implantation site as independent contributors, while a tooth-brushing duration of ≥ 3 minutes was a protective factor. Relevant clinical data confirm that numerous factors influence PI after dental implantation in patients with T2DM, which mainly include periodontal history, blood glucose levels, and oral hygiene status[-]. Smoking constitutes a significant risk factor for various oral diseases. The harmful substances in tobacco, such as nicotine, can prompt the proliferation of highly pathogenic bacteria, thereby promoting the formation of dental plaque[]. In addition, smoking can result in the abnormal constriction of blood vessels in periodontal tissues, substantially increasing the blood viscosity of periodontal tissues and diminishing the ability of these tissues to fight off bacterial invasions. Consequently, implants become susceptible to bacterial infections, which can then trigger PI. Moreover, HbA1c levels are a crucial indicator that reflects the average blood glucose level in patients with T2DM. When a patient’s blood glucose remains persistently above normal levels, hyperglycemic toxicity can lead to pathological changes in periodontal microvessels. This can cause local hemodynamic abnormalities, putting periodontal tissues in a hypoxic or ischemic state, thereby significantly reducing the body’s immune function and creating favorable conditions for the proliferation of pathogenic bacteria, which ultimately induces PI[]. Current guidelines universally emphasize the application of personalized HbA1c targets tailored to the individual patient characteristics. While the American Diabetes Association suggests 7% as appropriate for the general population, the American Association of Clinical Endocrinologists and American College of Endocrinology advocates for a more stringent goal of ≤ 6.5% when safely attainable[]. Furthermore, the anterior tooth as an implant site is also considered a determinant of PI development. The primary reason for this is that the anterior dental zone has a thinner bone structure than the posterior zone, thus making it prone to excessive bone resorption after dental implantation[] and the development of PI. Brushing teeth no more than once a day leads to an insufficient tooth-brushing frequency, failing to remove oral microorganisms in a timely and effective manner, and resulting in poor oral plaque control, thereby also inducing the development of PI. Furthermore, the duration of tooth-brushing was also identified as a vital factor.
+
+This study also has several limitations. First, the retrospective nature of the study required that primary outcomes as well as confounders be identified based solely on electronic records from hospitals. In addition, patient compliance (, blood glucose monitoring frequency and tooth-brushing records) was not assessed, which may influence the interpretation of results. Second, even though retrospective studies are able to reveal associations between events, retrospective analysis has limited applicability for causal inference. This is because of its inability to control for other variables that may have influenced the outcome, such as the inability to determine the temporal relationship between smoking and PI. Finally, being a small-sized, single-center clinical study, the findings obtained need to be validated by a multicenter clinical study with more observation cases included. Therefore, further validation through a well-executed, randomized controlled trial with prospective data recording and sample size expansion is warranted.
+
+CONCLUSION
+
+To sum up, patients with T2DM are at risk of developing PI after dental implantation. In clinical practice, it is crucial to focus on enhancing the capacity to identify the postimplant PI risk factors and emphasize the role of risk prediction, prevention, and control. During the postdischarge period, continuous health education should be vigorously incorporated to encourage and guide patients to consistently use mouthwash to clean the dental implant area. Moreover, it is essential to ensure that they have mastered the correct brushing technique and have an enhanced awareness of oral hygiene to effectively prevent the development of PI. In addition, smoking cessation and blood glucose level control are of vital importance for these patients, as they are essential factors in reducing the risk of developing PI.
