@@ -5,13 +5,16 @@ year: 2026
 date: 2026-06-26
 type: overview
 category: [overviews]
-tags: [hypertension, hemodynamics, blood-pressure, oral-surgery, tooth-extraction, ECG-monitoring, perioperative, implant]
+tags: [hypertension, hemodynamics, blood-pressure, oral-surgery, tooth-extraction, ECG-monitoring, perioperative, implant, antihypertensive, medication-compliance, early-implant-failure]
 source_papers:
   - wiki/implants/survival/hamade-2024-hypertension-dental-implants-sr-ma.md
   - wiki/drug/systemic-disease/kumari-2025-hemodynamic-fluctuations-during-tooth-extraction.md
   - wiki/drug/systemic-disease/liu-2024-perioperative-hypertension-implant-bone-augmentation.md
   - wiki/drug/systemic-disease/perozo-2026-perioperative-hemodynamic-hypertensive-oral-surgery-protocol.md
   - wiki/drug/systemic-disease/yang-2025-tooth-extraction-hypertensive-ecg-monitoring.md
+  - wiki/drug/systemic-disease/masri-2024-early-implant-failure-antihypertensive-medications.md
+  - wiki/drug/systemic-disease/chidiac-2026-antihypertensive-antihyperlipidemic-antidepressant-implant-survival.md
+  - wiki/drug/systemic-disease/carlos-2024-marginal-bone-loss-hypertension-hyperlipidemia-diabetes.md
 evidence_level: synthesis
 source: synthesis
 ---
@@ -20,6 +23,7 @@ source: synthesis
 
 > [!summary] 한국어 핵심요약
 > - 핵심 명제: 고혈압 (Hypertension)은 치과 구강수술 환자에서 가장 흔한 전신질환이며, **기저 혈압 (Blood Pressure, BP) 상태 자체가 수술 중 혈역학 변동의 최대 결정인자**다 (Perozo 2026, eta²=0.33 — 마취제·수술시간·불안보다 영향 큼). 그러나 안정적으로 조절된 고혈압이라도 **장기 임플란트 실패 위험은 정상혈압과 차이 없다** (Hamadé 2024 SR+MA, OR 1.100, p=0.671).
+> - **Hamadé 2024 한계를 채운 후속 2편 (2026-09 추가)**: Hamadé 2024가 명시한 최대 한계 = "포함 연구들의 항고혈압약 복용 여부 미기술". Masri 2024(792환자/2,971임플란트)와 Chidiac 2026(655환자/2,004임플란트, 10yr KM)은 복용 여부로 층화: **복용 고혈압 환자가 정상혈압보다 오히려 낮은 조기실패율** — EIF 2.29% vs 4.33%(p=.01, Masri); HR 0.23(p=0.013, Chidiac). 반면 **미복용 고혈압이 최고위험** — 환자 수준 EIF 28.6%. 스타틴(Statin) HR 0.16(보호), SSRI 포함 항우울제 HR 2.17(위험). 임플란트 계획 시 "혈압약 규칙적 복용 여부" 확인이 "고혈압 진단 여부"보다 더 중요한 예측인자.
 > - 발치 중 혈역학 곡선 (Kumari 2025, 정상혈압 50명): 수축기혈압 (Systolic BP, SBP)·이완기혈압 (Diastolic BP, DBP)·심박수 (Heart Rate, HR)가 마취주사→발치 단계에서 유의 상승(P=0.0001), **발치 시점에 최고치**(HR 80.9→84.6 bpm) 후 술후 5분에 기저치 이하로 회복 — 정상혈압에서 SBP 변동 폭은 ~6 mmHg로 작다.
 > - 고혈압 환자는 곡선이 훨씬 가파르다 (Perozo 2026): 술전 SBP 159 vs 정상혈압 128, 수술 중 최고 170 vs 136 mmHg.
 > - **술전 SBP ≥159 mmHg = 발치 중 혈압강하제 개입 예측 임계값** (Yang 2025, n=2,059, AUC 0.91, 민감도 84%·특이도 89%) — 가장 실용적인 단일 컷오프.
@@ -149,6 +153,14 @@ The **risk-factor profile shifted by augmentation approach** (overall incidence 
 
 **Synthesized implant message**: manage the *intraoperative* spike (older male, long GBR cases are highest risk — monitor, keep <60 min where possible), but reassure the patient the *implant survival* itself is not compromised by their hypertension.
 
+**Medication compliance fills the Hamadé gap.** Hamadé 2024 explicitly flagged poor characterization of antihypertensive control status as a key limitation. Two subsequent retrospective cohorts directly address this by stratifying patients by medication compliance:
+
+- **Masri 2024** (792 pts/2,971 implants, Rabin Medical Center, Israel): EIF (≤12 months), implant level — HTN+medication **2.29%** vs normotensive 4.33% (p=.01); HTN without medication 6.25% — worst group. Patient-level EIF unmedicated: **28.6%**. Multivariate OR 0.618 (p=.059, marginal). Most common antihypertensives: β-blockers 61%, ACEi 41%, ARBs 21%.
+- **Chidiac 2026** (655 pts/2,004 implants, Saint Joseph Univ. Beirut, 10-yr KM): AHT monotherapy failure 1.29% vs non-medicated control 5.12%; HR **0.23** (95% CI 0.07–0.74, p=0.013). Statin monotherapy HR **0.16** (p=0.048) — protective. SSRI-containing antidepressants: failure 12.09%; HR **2.17** (p=0.014) — harmful.
+- **Carlos 2024** (57 pts/165 implants, UNLV; cross-sectional): HTN patients MBL 78.95%, dyslipidemia 73.68%, DM 40.35% (all NS). Polypharmacy confounding limits interpretation.
+
+**Refined clinical message**: hypertensive patients *on their medications* achieve implant survival equal to or better than normotensives — the Hamadé null result (OR 1.100) holds but is now understood as a composite that masks the compliance split. The actionable preoperative question is: **"Are you taking your blood pressure medications regularly?"** Unmedicated hypertensives are the highest-risk subgroup for early osseointegration failure, not hypertension per se.
+
 ---
 
 ## 5. Anesthesia & vasoconstrictor considerations
@@ -166,7 +178,7 @@ The **risk-factor profile shifted by augmentation approach** (overall incidence 
 - **Perozo protocol is a hypothesis-generating pilot** (n=39, two Venezuelan centers, retrospective analysis of prospectively collected data) — explicitly unvalidated; do not adopt as a validated standard. Awaits multicenter prospective testing.
 - **Liu 2024 is abstract-only** (Chinese article, PMC body not retrievable): threshold definitions, anesthesia/sedation protocol, and confounder adjustment are not captured — verify against full text before clinical reliance.
 - **Yang 2025 & Kumari 2025 are single-center** (Yang retrospective; Kumari normotensive-only so hypertensive recommendations are *inferred*, not directly tested, and the study notes low statistical power).
-- **Hamadé 2024 is the highest-evidence node** (SR+MA) but is limited by poor characterization of hypertension control status and unadjusted confounders (diabetes, smoking, bruxism, bisphosphonates).
+- **Hamadé 2024 is the highest-evidence node** (SR+MA) but is limited by poor characterization of hypertension control status and unadjusted confounders (diabetes, smoking, bruxism, bisphosphonates). The medication-compliance gap is now directly addressed by Masri 2024 and Chidiac 2026 (see Section 4).
 - Numbers to refresh as evidence matures: the SBP ≥159 cutoff (single-center), the 26.77% augmentation incidence (single Beijing center), and any future validation of the Perozo tiers.
 
 ---
@@ -178,4 +190,7 @@ The **risk-factor profile shifted by augmentation approach** (overall incidence 
 - [[drug/systemic-disease/kumari-2025-hemodynamic-fluctuations-during-tooth-extraction]] — provides the normotensive reference curve (peak at extraction step, postop dip below baseline) against which the hypertensive response is framed; anxiolysis rationale.
 - [[drug/systemic-disease/liu-2024-perioperative-hypertension-implant-bone-augmentation]] — quantifies perioperative-hypertension incidence (26.77%) and risk factors (male, age ≥60, time >60 min) in implant + bone-augmentation surgery, with risk profile varying by GBR / transalveolar / lateral-window approach (abstract-only caveat).
 - [[implants/survival/hamade-2024-hypertension-dental-implants-sr-ma]] — the durable-outcome anchor: stable hypertension does NOT raise implant failure odds (OR 1.100, NS, 21,066 implants) — separates intraoperative safety from long-term prognosis.
+- [[drug/systemic-disease/masri-2024-early-implant-failure-antihypertensive-medications]] — fills Hamadé's medication-compliance gap: EIF 2.29% (HTN+medicated) vs 4.33% (NT) vs 28.6% patient-level (HTN unmedicated); three-group comparison, 792 pts
+- [[drug/systemic-disease/chidiac-2026-antihypertensive-antihyperlipidemic-antidepressant-implant-survival]] — 10-yr KM: AHT HR 0.23 protective; statin HR 0.16; SSRI HR 2.17 harmful; confirms medication compliance as the key variable
+- [[drug/systemic-disease/carlos-2024-marginal-bone-loss-hypertension-hyperlipidemia-diabetes]] — cross-sectional MBL data in HTN/dyslipidemia/DM; polypharmacy confounding limits interpretation (n=57)
 - [[overviews/drug-systemic-disease-dental-management-overview]] — parent overview on medically compromised dental patients; this page is the cardiovascular/hemodynamic spoke (hypertension intraoperative management).
