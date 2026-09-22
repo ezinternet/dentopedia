@@ -1,0 +1,40 @@
+Title: Impact of Antihypertensive, Antihyperlipidemic, and Mixed Antidepressant Medications on Dental Implant Success: A Retrospective Cohort Study
+Authors: Antony Chidiac, Charbel Kachouh, Richard M Sadaka, Joseph Bassil
+Journal: Cureus, 2026 Mar; 18(3):e104647
+DOI: 10.7759/cureus.104647
+PMID: 41939668
+PMCID: PMC13047346
+
+ABSTRACT
+This study aimed to analyze the influence of antihypertensive, antihyperlipidemic, and mixed antidepressant medications on the failure and survival rates of dental implants.
+
+Out of a total of 2,815 patients who received 5,853 dental implants between 2012 and 2022, 655 patients with 2,004 implants met the inclusion criteria and were retrospectively reviewed. Patients were divided into four groups: control group (n=512 patients with 1,581 implants), antihypertensive group (n=74 patients with 233 implants), antihyperlipidemic group (n=40 patients with 99 implants), and mixed antidepressant group (n=29 patients with 91 implants). Implant failure was defined according to the recommendations of the Pisa Consensus Conference of the International Congress of Oral Implantologists.
+
+Kaplan-Meier analysis over a 10-year follow-up period showed significant differences in implant survival between the control group and all monotherapy groups. Implant survival was higher in patients receiving antihypertensive or antihyperlipidemic therapy and lower in those treated with mixed antidepressants. Log-rank tests confirmed statistically significant differences compared with controls (<0.05). Implant failure rates were 1.29% (n=3/233) for the antihypertensive group, 1.01% (n=1/99) for the antihyperlipidemic group, and 12.09% (n=11/91) for the mixed antidepressant group, compared with 5.12% (n=81/1581) in the control group. Mixed-effects survival analysis demonstrated a reduced risk of implant failure in patients receiving antihypertensive therapy (HR=0.23) and antihyperlipidemic therapy (HR=0.16), while mixed antidepressant medication was associated with a significantly increased risk of failure.
+
+Mixed antidepressant medications are associated with an increased risk of dental implant failure, while antihypertensive and antihyperlipidemic agents appear to have a protective effect, contributing to improved implant survival.
+
+KEY RESULTS
+- Control group failure rate: 5.12% (81/1,581 implants)
+- Antihypertensive group failure rate: 1.29% (3/233) — HR 0.23 (95% CI 0.07-0.74), p=0.013
+- Antihyperlipidemic group failure rate: 1.01% (1/99) — HR 0.16 (95% CI 0.02-1.15), p=0.048
+- Mixed antidepressant failure rate: 12.09% (11/91) — HR 2.17 (95% CI 1.17-4.04), p=0.014
+- Log-rank tests: AHT chi-square=8.406 p=0.004; antiHL chi-square=3.966 p=0.046; antidepressant chi-square=8.467 p=0.004
+- Fixed-effects logistic regression OR: AHT 0.248, antiHL 0.194, antidepressant 2.54
+- Kaplan-Meier: consistently higher survival for AHT and antiHL vs control over 10 years
+- Antihypertensives included: thiazide diuretics, beta-blockers, CCBs, ACEIs, ARBs
+
+METHODS
+- Retrospective cohort study
+- STROBE guidelines; Declaration of Helsinki compliance
+- Ethics: Saint Joseph University of Beirut (CER-2024-245)
+- Database: 2,815 patients, 5,853 implants (2012-2022)
+- Only mono-medicated groups included (single drug class)
+- Exclusions: ASA III/IV, diabetes, cancer, corticosteroids, antiepileptics, smokers, alcoholics
+- Implant failure defined per Pisa Consensus Conference ICOI criteria
+- Statistical: IBM SPSS 25.0; Kaplan-Meier + log-rank; fixed-effects logistic regression; GLMM; Cox regression; Omnibus test
+
+MECHANISTIC BACKGROUND
+- Antihypertensives: beta-blockers block sympathetic osteoclast stimulation; ACEIs/ARBs block RANKL-driven osteoclastogenesis via angiotensin II pathway; thiazides enhance calcium uptake + osteoblast differentiation; CCBs improve microvascular flow
+- Statins: pleiotropic osteoanabolic effects — enhance osteoblast activity, inhibit osteoclastic resorption, promote angiogenesis, improve BIC
+- Mixed antidepressants/SSRIs: increase osteoclast differentiation, reduce osteoblast proliferation, decrease BMD, increase fracture risk
