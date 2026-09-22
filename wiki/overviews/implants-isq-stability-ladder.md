@@ -284,6 +284,11 @@ ISQ와 삽입토크(IT)는 보완 지표(상관 r=0.44, I²>90%, Tisci 2026 SR+M
 **임플란트 디자인(Tapered vs Cylindrical) × IT/ISQ 궤적**
 - [[implants/isq/monje-2025-implant-design-stability-early-healing-rct]] — 병렬 RCT (n=85 임플란트, Straumann BLX vs BL SLActive, 서울 2025): 식립 시 BLX IT 42.35 vs BL 30.63 N·cm (p<0.001); **6주 ISQ는 BL 75.21 vs BLX 72.23 (p=0.02)로 역전** — 초기 IT 우위가 6주 ISQ로 이어지지 않음; tapered-cylindrical 선택 기준을 IT 아닌 ISQ 궤적으로 재정립. 축 3 테이블 추가.
 
+## Related Papers (added 2026-09-22)
+
+**2차 안정성 예측인자 (secondary ISQ predictors)**
+- [[implants/isq/alzoubi-2024-relationship-secondary-implant-stability-quotient]] — 후향적 연구 (305 임플란트, TiUnite oxidized NobelReplace, 쿠웨이트): 다변량 회귀에서 **플랫폼 직경만 유의한 2차 ISQ 예측인자**(B=5.25, p<0.0001, adjusted R²=0.25); 길이·부하 프로토콜·동시 골이식은 유의 불명; 2단계 술식·IT>35 Ncm은 단변량에서 유의하나 다변량에서 탈락 — 연조직 부위에서 더 큰 직경 선택이 2차 안정성 전략의 핵심임을 시사 (retrospective, 2024)
+
 **삽입토크 곡선(PITV) 신뢰도 검증 (insertion torque value classification)**
 - [[implants/isq/rosasdiaz-2026-pitv-classification-repeatability-observational]] — 관찰 연구 (n=1,250 torque 해석, 25명 캘리브레이션 치의사, 스페인): PITV 3등급(High ≥50/Moderate 30–<50/Low <30 Ncm + 곡선 서브타입) — 검사자간 κ=0.84(p<0.001), 예측 AUC=0.69(중등도); **임상 결과 연계 미검증** — loading 결정 도구 아님. 축 1 테이블 추가.
 
