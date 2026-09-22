@@ -116,3 +116,4 @@ The intentionally excluded papers matter too: `lee-2009` (short-implant marginal
 ### 신규 추가 (2026-09) — 역사적 맥락
 
 - [[implants/rawat-2024-per-ingvar-branemark-father-modern-implantology]] — 서술적 역사 리뷰 (Subharti Dental College, 2024): Per-Ingvar Brånemark(1929–2014) 생애와 현대 임플란트치의학의 창시. 1957 토끼 실험 → 1965 첫 사람 하악 구강내 임플란트(Gösta Larsson, 40년 생존) → 1982 토론토 컨퍼런스 후 Nobel Biocare 상용화. BAHA 골전도 보청기 포함 총 100,000명+ 수혜. Schroeder(ITI·TPS)와 이원 창시 학파. 원본 데이터 없는 교육·역사적 검토. (narrative-review, 2024)
+- [[bone-biology/rowe-2023-physiology-bone-remodeling]] — StatPearls 서술 교과서 챕터: 골개조의 기본 생리 — 파골세포(흡수)·조골세포(침착) 결합 사이클, 골세포 기계수용 (Wolff's Law), PTH/에스트로겐/칼시토닌/글루코코르티코이드 조절, RANKL-OPG-RANK 축, 약물 작용점(데노수맙·비스포스포네이트·SERM·칼시토닌). 임상 관련성: 골유착·MRONJ·항흡수제 약물 이해의 생리적 기반. (narrative-review, 2023)
