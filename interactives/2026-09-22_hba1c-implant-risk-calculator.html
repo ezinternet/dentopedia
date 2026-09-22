@@ -1,0 +1,488 @@
+<!--
+---
+title: "HbA1c 임플란트 5년 위험 계산기 — Abichandani 2026 기반"
+type: interactive
+date: 2026-09-22
+status: done
+category: implants/survival
+source_wiki:
+  - wiki/implants/survival/abichandani-2026-time-varying-glycemic-control-long.md
+  - wiki/drug/systemic-disease/ahmad-2025-glucagon-like-peptide-1-receptor.md
+  - wiki/implants/peri-implantitis/li-2025-inflammatory-response-dental-implant-surgery.md
+tags: [HbA1c, diabetes, implant-failure, peri-implantitis, risk-calculator, dose-response]
+notes: |
+  Abichandani & Dutta 2026 (retrospective cohort, n=782, 1312 implants, 5.6yr)
+  HbA1c band별 5년 절대 위험도 시각화 + 복수 임플란트 누적 위험 계산.
+  비의료기기·교육/의사결정 보조 도구.
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>HbA1c 임플란트 5년 위험 계산기</title>
+<style>
+  :root {
+    --bg: #f8f9fa;
+    --surface: #ffffff;
+    --surface2: #f1f3f5;
+    --border: #dee2e6;
+    --text: #212529;
+    --text2: #495057;
+    --text3: #868e96;
+    --accent: #1971c2;
+    --accent-light: #e7f5ff;
+    --green: #2f9e44;
+    --green-light: #ebfbee;
+    --yellow: #e67700;
+    --yellow-light: #fff9db;
+    --red: #c92a2a;
+    --red-light: #fff5f5;
+    --red-dark: #862e2e;
+    --bar-green: #69db7c;
+    --bar-yellow: #ffd43b;
+    --bar-orange: #ff922b;
+    --bar-red: #f03e3e;
+    --radius: 10px;
+    --shadow: 0 2px 8px rgba(0,0,0,.08);
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    font-size: 15px;
+    line-height: 1.6;
+    padding: 24px 16px 48px;
+  }
+  .wrap { max-width: 720px; margin: 0 auto; }
+
+  /* Header */
+  .hdr { margin-bottom: 28px; }
+  .hdr h1 { font-size: 1.3rem; font-weight: 700; color: var(--text); margin-bottom: 4px; }
+  .hdr p { color: var(--text2); font-size: .88rem; }
+  .source-badge {
+    display: inline-block; margin-top: 8px;
+    background: var(--accent-light); color: var(--accent);
+    border-radius: 4px; padding: 2px 10px; font-size: .8rem; font-weight: 600;
+  }
+
+  /* Card */
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 22px 24px;
+    margin-bottom: 20px;
+    box-shadow: var(--shadow);
+  }
+  .card-title {
+    font-size: .8rem; font-weight: 700; text-transform: uppercase;
+    letter-spacing: .06em; color: var(--text3); margin-bottom: 18px;
+  }
+
+  /* Inputs */
+  .input-row { display: flex; gap: 16px; flex-wrap: wrap; margin-bottom: 18px; }
+  .input-group { flex: 1; min-width: 180px; }
+  .input-group label { display: block; font-size: .85rem; font-weight: 600; color: var(--text2); margin-bottom: 6px; }
+  .input-group input[type=number], .input-group select {
+    width: 100%; padding: 9px 12px;
+    border: 1.5px solid var(--border); border-radius: 7px;
+    background: var(--surface2); color: var(--text);
+    font-size: .95rem; font-family: inherit;
+    transition: border-color .15s;
+  }
+  .input-group input[type=number]:focus, .input-group select:focus {
+    outline: none; border-color: var(--accent);
+  }
+  .hint { font-size: .78rem; color: var(--text3); margin-top: 5px; }
+
+  /* Slider */
+  .slider-wrap { margin-bottom: 18px; }
+  .slider-header { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 8px; }
+  .slider-label { font-size: .85rem; font-weight: 600; color: var(--text2); }
+  .slider-val { font-size: 1.5rem; font-weight: 800; color: var(--accent); }
+  .slider-unit { font-size: .85rem; color: var(--text3); margin-left: 2px; }
+  input[type=range] {
+    width: 100%; height: 6px; cursor: pointer;
+    accent-color: var(--accent);
+    border-radius: 3px;
+  }
+  .slider-ticks { display: flex; justify-content: space-between; font-size: .75rem; color: var(--text3); margin-top: 4px; }
+
+  /* Band indicator */
+  .band-bar {
+    display: flex; height: 8px; border-radius: 4px; overflow: hidden;
+    margin-bottom: 6px; position: relative;
+  }
+  .band-bar .seg { flex: 1; }
+  .band-bar .seg.g { background: var(--bar-green); }
+  .band-bar .seg.y { background: var(--bar-yellow); }
+  .band-bar .seg.r { background: var(--bar-red); }
+  .band-cursor {
+    position: absolute; top: -3px; width: 14px; height: 14px;
+    border-radius: 50%; background: var(--text); border: 2px solid #fff;
+    transform: translateX(-50%);
+    transition: left .2s;
+    box-shadow: 0 1px 4px rgba(0,0,0,.3);
+  }
+  .band-labels { display: flex; justify-content: space-between; font-size: .75rem; color: var(--text3); }
+
+  /* Result panel */
+  .result-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; margin-bottom: 18px; }
+  .result-cell {
+    background: var(--surface2);
+    border-radius: 8px; padding: 14px 16px;
+    border-left: 4px solid var(--border);
+  }
+  .result-cell.ok { background: var(--green-light); border-color: var(--green); }
+  .result-cell.warn { background: var(--yellow-light); border-color: var(--yellow); }
+  .result-cell.danger { background: var(--red-light); border-color: var(--red); }
+  .result-cell .rc-label { font-size: .78rem; font-weight: 600; color: var(--text3); margin-bottom: 4px; text-transform: uppercase; letter-spacing: .04em; }
+  .result-cell .rc-val { font-size: 2rem; font-weight: 800; line-height: 1; }
+  .result-cell.ok .rc-val { color: var(--green); }
+  .result-cell.warn .rc-val { color: var(--yellow); }
+  .result-cell.danger .rc-val { color: var(--red); }
+  .result-cell .rc-sub { font-size: .8rem; color: var(--text2); margin-top: 4px; }
+
+  /* Risk bar chart */
+  .chart-wrap { margin-bottom: 6px; }
+  .bar-row { display: flex; align-items: center; gap: 10px; margin-bottom: 8px; }
+  .bar-row .bl { font-size: .8rem; color: var(--text2); width: 90px; flex-shrink: 0; text-align: right; }
+  .bar-outer { flex: 1; background: var(--surface2); border-radius: 4px; height: 20px; overflow: hidden; }
+  .bar-inner { height: 100%; border-radius: 4px; transition: width .4s cubic-bezier(.4,0,.2,1); display: flex; align-items: center; padding-left: 8px; }
+  .bar-inner span { font-size: .78rem; font-weight: 700; color: #fff; white-space: nowrap; }
+  .bar-row .bv { font-size: .82rem; font-weight: 700; width: 50px; flex-shrink: 0; }
+
+  /* Decision box */
+  .decision {
+    border-radius: 9px; padding: 16px 18px; margin-bottom: 6px;
+    border: 1.5px solid;
+  }
+  .decision.go { background: var(--green-light); border-color: var(--green); }
+  .decision.caution { background: var(--yellow-light); border-color: var(--yellow); }
+  .decision.hold { background: var(--red-light); border-color: var(--red); }
+  .decision .d-title { font-size: .95rem; font-weight: 800; margin-bottom: 6px; }
+  .decision.go .d-title { color: var(--green); }
+  .decision.caution .d-title { color: var(--yellow); }
+  .decision.hold .d-title { color: var(--red); }
+  .decision ul { padding-left: 18px; }
+  .decision ul li { font-size: .85rem; color: var(--text); margin-bottom: 3px; }
+
+  /* GLP-1 callout */
+  .glp1-box {
+    background: #f3f0ff; border: 1.5px solid #845ef7;
+    border-radius: 9px; padding: 14px 16px; margin-top: 14px;
+  }
+  .glp1-box .gb-title { font-size: .88rem; font-weight: 700; color: #5f3dc4; margin-bottom: 6px; }
+  .glp1-box p { font-size: .83rem; color: var(--text); }
+
+  /* Multi-implant section */
+  .multi-row { display: flex; align-items: center; gap: 12px; margin-bottom: 14px; flex-wrap: wrap; }
+  .multi-row label { font-size: .85rem; font-weight: 600; color: var(--text2); white-space: nowrap; }
+  .count-ctrl { display: flex; align-items: center; gap: 8px; }
+  .count-btn {
+    width: 30px; height: 30px; border-radius: 50%;
+    border: 1.5px solid var(--border); background: var(--surface2);
+    font-size: 1.1rem; font-weight: 700; cursor: pointer; color: var(--text);
+    display: flex; align-items: center; justify-content: center;
+    transition: background .1s;
+  }
+  .count-btn:hover { background: var(--border); }
+  .count-num { font-size: 1.2rem; font-weight: 800; color: var(--accent); min-width: 24px; text-align: center; }
+  .multi-result { font-size: .9rem; color: var(--text2); }
+  .multi-result strong { color: var(--text); }
+
+  /* Reference table */
+  .ref-table { width: 100%; border-collapse: collapse; font-size: .82rem; }
+  .ref-table th { background: var(--surface2); padding: 7px 10px; text-align: left; font-weight: 700; color: var(--text2); border-bottom: 1px solid var(--border); }
+  .ref-table td { padding: 7px 10px; border-bottom: 1px solid var(--border); color: var(--text); }
+  .ref-table tr:last-child td { border-bottom: none; }
+  .ref-table .cur-row td { background: var(--accent-light); font-weight: 700; }
+
+  /* Footer */
+  .footer { font-size: .78rem; color: var(--text3); text-align: center; margin-top: 24px; line-height: 1.7; }
+  .footer a { color: var(--accent); text-decoration: none; }
+
+  @media (max-width: 500px) {
+    .result-grid { grid-template-columns: 1fr; }
+    .bar-row .bl { width: 70px; font-size: .75rem; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <div class="hdr">
+    <h1>HbA1c 임플란트 5년 위험 계산기</h1>
+    <p>당뇨 환자의 HbA1c 수준에 따른 임플란트 5년 실패율 및 임플란트 주위염(Peri-Implantitis, PI) 발생 위험 추정</p>
+    <span class="source-badge">근거: Abichandani &amp; Dutta 2026 · n=782명 · 1,312개 임플란트 · 평균 5.6년 추적</span>
+  </div>
+
+  <!-- INPUT -->
+  <div class="card">
+    <div class="card-title">환자 정보 입력</div>
+
+    <div class="slider-wrap">
+      <div class="slider-header">
+        <span class="slider-label">당화혈색소 (Glycated Hemoglobin, HbA1c)</span>
+        <span><span class="slider-val" id="hba1c-display">7.0</span><span class="slider-unit">%</span></span>
+      </div>
+      <input type="range" id="hba1c-slider" min="4.0" max="12.0" step="0.1" value="7.0">
+      <div class="slider-ticks">
+        <span>4.0%</span><span>6.0%</span><span>8.0%</span><span>10.0%</span><span>12.0%</span>
+      </div>
+    </div>
+
+    <!-- band bar -->
+    <div class="band-bar" id="band-bar">
+      <div class="seg g" style="flex:3"></div>
+      <div class="seg y" style="flex:1"></div>
+      <div class="seg r" style="flex:4"></div>
+      <div class="band-cursor" id="band-cursor" style="left:37.5%"></div>
+    </div>
+    <div class="band-labels">
+      <span>조절양호 (&lt;7%)</span>
+      <span>경계 (7–8%)</span>
+      <span>고위험 (≥8%)</span>
+    </div>
+
+    <!-- GLP-1RA toggle -->
+    <div style="margin-top:18px; display:flex; align-items:center; gap:12px;">
+      <label style="font-size:.85rem; font-weight:600; color:var(--text2); cursor:pointer; display:flex; align-items:center; gap:8px;">
+        <input type="checkbox" id="glp1-check" style="width:16px;height:16px;cursor:pointer;">
+        GLP-1 수용체 작용제(GLP-1RA) 복용 중 (세마글루타이드·리라글루타이드·엑세나타이드 등)
+      </label>
+    </div>
+    <p class="hint" id="glp1-hint" style="display:none; margin-top:6px; color:#5f3dc4;">
+      ★ Ahmad 2025: GLP-1RA군에서 임플란트 주위 골소실이 인슐린·메트포민 대비 유의하게 적음 (p&lt;0.01). 혈당 독립적 골형성 촉진 기전 확인 (근거 등급: 내러티브 리뷰 + 임상 1건).
+    </p>
+  </div>
+
+  <!-- RESULT -->
+  <div class="card" id="result-card">
+    <div class="card-title">5년 위험 추정</div>
+
+    <div class="result-grid">
+      <div class="result-cell" id="fail-cell">
+        <div class="rc-label">임플란트 실패율</div>
+        <div class="rc-val" id="fail-val">—</div>
+        <div class="rc-sub">5년 누적 실패 (n당)</div>
+      </div>
+      <div class="result-cell" id="pi-cell">
+        <div class="rc-label">임플란트 주위염 발생률</div>
+        <div class="rc-val" id="pi-val">—</div>
+        <div class="rc-sub">5년 누적 PI 발생 (n당)</div>
+      </div>
+    </div>
+
+    <!-- bar chart vs reference -->
+    <div class="chart-wrap">
+      <div class="bar-row">
+        <span class="bl">실패율</span>
+        <div class="bar-outer"><div class="bar-inner" id="fail-bar" style="width:0%"><span id="fail-bar-txt"></span></div></div>
+        <span class="bv" id="fail-bv"></span>
+      </div>
+      <div class="bar-row">
+        <span class="bl">PI 발생률</span>
+        <div class="bar-outer"><div class="bar-inner" id="pi-bar" style="width:0%"><span id="pi-bar-txt"></span></div></div>
+        <span class="bv" id="pi-bv"></span>
+      </div>
+    </div>
+    <p style="font-size:.75rem; color:var(--text3); margin-bottom:14px;">※ 막대 기준선: 실패율 최대 10%, PI 최대 30%</p>
+
+    <!-- decision -->
+    <div class="decision" id="decision-box">
+      <div class="d-title" id="d-title"></div>
+      <ul id="d-list"></ul>
+    </div>
+
+    <!-- GLP-1RA callout (hidden by default) -->
+    <div class="glp1-box" id="glp1-box" style="display:none">
+      <div class="gb-title">💊 GLP-1RA 복용 — 추가 고려사항 (Ahmad 2025)</div>
+      <p>GLP-1RA는 혈당 강하와 <strong>독립적으로</strong> 임플란트 주위 골형성 촉진 효과가 보고됩니다. 임플란트 예후에 우호적으로 작용할 수 있으나, 세마글루타이드 연관 <strong>타액분비 감소(Hyposalivation)</strong>에 주의하세요. 현재 근거는 내러티브 리뷰 + 임상연구 1건 수준으로, 단독 위험 경감 근거로 사용하기에는 미흡합니다.</p>
+    </div>
+  </div>
+
+  <!-- MULTI-IMPLANT -->
+  <div class="card">
+    <div class="card-title">복수 임플란트 누적 위험</div>
+    <div class="multi-row">
+      <label>계획 임플란트 개수</label>
+      <div class="count-ctrl">
+        <button class="count-btn" id="cnt-minus">−</button>
+        <span class="count-num" id="cnt-display">1</span>
+        <button class="count-btn" id="cnt-plus">+</button>
+      </div>
+    </div>
+    <div class="multi-result" id="multi-result"></div>
+  </div>
+
+  <!-- REFERENCE TABLE -->
+  <div class="card">
+    <div class="card-title">HbA1c 구간별 참고 데이터 (Abichandani 2026)</div>
+    <table class="ref-table" id="ref-table">
+      <thead>
+        <tr>
+          <th>HbA1c 구간</th>
+          <th>5년 실패율</th>
+          <th>5년 PI 발생률</th>
+          <th>임상 권고</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr id="row-low">
+          <td>&lt; 7.0% (조절 양호)</td>
+          <td>3.2%</td>
+          <td>12.1%</td>
+          <td>일반 환자 준함</td>
+        </tr>
+        <tr id="row-mid">
+          <td>7.0 – &lt; 8.0% (경계)</td>
+          <td>4.8%</td>
+          <td>17.2%</td>
+          <td>식립 가능 + 모니터링 강화</td>
+        </tr>
+        <tr id="row-high">
+          <td>≥ 8.0% (고위험)</td>
+          <td>8.1%</td>
+          <td>26.0%</td>
+          <td>연기 또는 내과 협진 우선</td>
+        </tr>
+      </tbody>
+    </table>
+    <p style="font-size:.78rem; color:var(--text3); margin-top:10px;">
+      ※ HbA1c ≥8%에서 위험 기울기가 급변하는 비선형 dose-response 패턴. 시간가변(time-varying) HbA1c 모델 기반.
+    </p>
+  </div>
+
+  <div class="footer">
+    근거: Abichandani S &amp; Dutta SR (2026) · <em>Int J Oral Maxillofac Implants</em> · doi:10.11607/jomi.11625<br>
+    GLP-1RA 정보: Ahmad P et al. (2025) · <em>J Periodontal Res</em> · doi:10.1111/jre.13410<br>
+    <strong>교육·임상 의사결정 보조 도구 — 비의료기기. 최종 결정은 임상가 판단에 따릅니다.</strong>
+  </div>
+
+</div>
+
+<script>
+  // --- Data ---
+  const BANDS = [
+    { label: '< 7.0%',   fail: 0.032, pi: 0.121, cls: 'ok',     decision: 'go',
+      title: '✅ 식립 가능 — 일반 환자 준함',
+      items: ['HbA1c 조절 양호: 일반 환자와 유사한 예후', '정기 유지관리(3–4개월) 권고', '술 전 항균 양치(0.12% CHX) 시행'] },
+    { label: '7.0–8.0%', fail: 0.048, pi: 0.172, cls: 'warn',   decision: 'caution',
+      title: '⚠️ 조건부 식립 — 모니터링 강화 필요',
+      items: ['식립 가능하나 위험 상승 구간', '내과 협진으로 HbA1c <7% 달성 후 재평가 고려', '유지관리 주기 단축(2–3개월)', '항균 양치(0.12% CHX) 필수', '흡연·구강위생 동시 관리'] },
+    { label: '≥ 8.0%',   fail: 0.081, pi: 0.260, cls: 'danger', decision: 'hold',
+      title: '🛑 연기 권고 — 내과 협진 우선',
+      items: ['5년 PI 발생률 26%: 4명 중 1명', '비선형 위험 급증 구간 (≥8% 기울기 급변)', 'HbA1c < 7% 목표로 혈당 조절 후 재평가', 'Li 2025: 이 구간에서 TNF-α 2.8×, IL-1β 4.8× 상승', '응급/불가피한 경우에만 조건부 진행 + 집중 추적'] }
+  ];
+
+  function getBandIdx(v) {
+    if (v < 7.0) return 0;
+    if (v < 8.0) return 1;
+    return 2;
+  }
+
+  function pct(v) { return (v * 100).toFixed(1) + '%'; }
+
+  // Elements
+  const slider    = document.getElementById('hba1c-slider');
+  const display   = document.getElementById('hba1c-display');
+  const cursor    = document.getElementById('band-cursor');
+  const failCell  = document.getElementById('fail-cell');
+  const piCell    = document.getElementById('pi-cell');
+  const failVal   = document.getElementById('fail-val');
+  const piVal     = document.getElementById('pi-val');
+  const failBar   = document.getElementById('fail-bar');
+  const piBar     = document.getElementById('pi-bar');
+  const failBarT  = document.getElementById('fail-bar-txt');
+  const piBarT    = document.getElementById('pi-bar-txt');
+  const failBv    = document.getElementById('fail-bv');
+  const piBv      = document.getElementById('pi-bv');
+  const dBox      = document.getElementById('decision-box');
+  const dTitle    = document.getElementById('d-title');
+  const dList     = document.getElementById('d-list');
+  const glp1chk   = document.getElementById('glp1-check');
+  const glp1hint  = document.getElementById('glp1-hint');
+  const glp1box   = document.getElementById('glp1-box');
+  const cntDisp   = document.getElementById('cnt-display');
+  const multiRes  = document.getElementById('multi-result');
+  const rows      = ['row-low','row-mid','row-high'].map(id => document.getElementById(id));
+
+  let implantCount = 1;
+
+  function barColor(idx) {
+    return ['#40c057','#fcc419','#f03e3e'][idx];
+  }
+
+  function updateMulti(band, count) {
+    const pFail = 1 - Math.pow(1 - band.fail, count);
+    const pPi   = 1 - Math.pow(1 - band.pi, count);
+    multiRes.innerHTML =
+      `<strong>${count}개</strong> 임플란트 계획 시 — ` +
+      `5년 내 <strong>1개 이상 실패</strong> 확률: <strong style="color:var(--red)">${pct(pFail)}</strong> / ` +
+      `<strong>1개 이상 PI 발생</strong> 확률: <strong style="color:var(--red)">${pct(pPi)}</strong>` +
+      `<br><span style="font-size:.78rem;color:var(--text3)">(각 임플란트 독립 가정 기준)</span>`;
+  }
+
+  function update() {
+    const v = parseFloat(slider.value);
+    display.textContent = v.toFixed(1);
+
+    // cursor position on band bar (4.0–12.0 range, 3 segments: <7, 7–8, ≥8)
+    // map to 0–100% position
+    const pct100 = (v - 4.0) / (12.0 - 4.0) * 100;
+    cursor.style.left = Math.max(1, Math.min(99, pct100)) + '%';
+
+    const idx = getBandIdx(v);
+    const band = BANDS[idx];
+
+    // Cells
+    [failCell, piCell].forEach(c => { c.className = 'result-cell ' + band.cls; });
+    failVal.textContent = pct(band.fail);
+    piVal.textContent   = pct(band.pi);
+
+    // Bars (max: fail=10%, pi=30%)
+    const fw = Math.min(100, band.fail / 0.10 * 100);
+    const pw = Math.min(100, band.pi   / 0.30 * 100);
+    const bc = barColor(idx);
+    failBar.style.width = fw + '%'; failBar.style.background = bc;
+    piBar.style.width   = pw + '%'; piBar.style.background   = bc;
+    failBarT.textContent = pct(band.fail);
+    piBarT.textContent   = pct(band.pi);
+    failBv.textContent   = pct(band.fail);
+    piBv.textContent     = pct(band.pi);
+
+    // Decision
+    dBox.className = 'decision ' + band.decision;
+    dTitle.textContent = band.title;
+    dList.innerHTML = band.items.map(i => `<li>${i}</li>`).join('');
+
+    // Table highlight
+    rows.forEach((r, i) => { r.className = i === idx ? 'cur-row' : ''; });
+
+    // GLP-1
+    const g = glp1chk.checked;
+    glp1hint.style.display = g ? 'block' : 'none';
+    glp1box.style.display  = g ? 'block' : 'none';
+
+    // Multi
+    updateMulti(band, implantCount);
+  }
+
+  slider.addEventListener('input', update);
+  glp1chk.addEventListener('change', update);
+
+  document.getElementById('cnt-minus').addEventListener('click', () => {
+    if (implantCount > 1) { implantCount--; cntDisp.textContent = implantCount; update(); }
+  });
+  document.getElementById('cnt-plus').addEventListener('click', () => {
+    if (implantCount < 20) { implantCount++; cntDisp.textContent = implantCount; update(); }
+  });
+
+  update();
+</script>
+</body>
+</html>
