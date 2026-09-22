@@ -4,7 +4,7 @@ authors: synthesis (llm-wiki)
 year: 2026
 date: 2026-05-27
 category: [overviews]
-tags: [systemic-disease, diabetes, sjogren, BMS, corticosteroid, drug-drug-interaction, elderly, polypharmacy, local-anesthetic, vasoconstrictor, pregnancy, overview]
+tags: [systemic-disease, diabetes, GLP-1, GLP-1RA, sjogren, BMS, corticosteroid, drug-drug-interaction, elderly, polypharmacy, local-anesthetic, vasoconstrictor, pregnancy, overview]
 source_papers:
   - drug/kim-2000-dental-patients-systemic-disease-general-hospital
   - drug/ghimire-2022-medically-compromised-prosthodontic-patients
@@ -29,6 +29,8 @@ source_papers:
   - drug/karm-2023-clinical-practice-guidelines-diagnostic-procedural-sedation
   - drug/hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry
   - drug/khalilurrahman-2026-raas-inhibitor-statin-periodontal-status-sr-ma
+  - drug/systemic-disease/ahmad-2025-glucagon-like-peptide-1-receptor
+  - implants/survival/abichandani-2026-time-varying-glycemic-control-long
 evidence_level: synthesis
 source: synthesis
 relations:
@@ -44,6 +46,8 @@ agenda: agenda/2026-05-27_drug-overview-split.md
 > - 전신질환 동반률: 한국 일반병원 OMFS 기준 12.2%(Kim 2000, n=3,506). 흔한 순 — 고혈압 > 당뇨 > 심장질환 > 간질환. 고령화로 실제 dental clinic은 더 높음.
 > - 당뇨(Diabetes Mellitus, DM): 조절 DM은 임플란트 금기 아님(정상 환자와 동등, Wagner 2022). 전체 DM 실패 OR 1.78, T1DM은 T2DM 대비 OR 4.48(Al-Ansari 2022 SR-MA 89편). 변연골소실(MBL) +0.776mm, 상악>하악 실패율.
 > - DM 임플란트 의사결정 임계: HbA1c <7.0% 정상 준함 / 7.0–9.0% 식립 가능+모니터링 강화+CHX 양치 / >9.0% 연기·내과 협진 우선.
+> - **HbA1c dose-response 정량화** (Abichandani 2026, n=782, 5.6년): HbA1c ≥8% → 5년 실패율 8.1%(vs <7%=3.2%), 임플란트 주위염(Peri-Implantitis, PI) 26.0%(vs 12.1%) — 8% 이상에서 비선형 위험 급증. 시간가변 HbA1c 모델링으로 근거의 정밀도 향상.
+> - **GLP-1 수용체 작용제(GLP-1 Receptor Agonist, GLP-1RA) 임플란트 함의** (Ahmad 2025 내러티브 리뷰): 엑세나타이드·리라글루타이드가 혈당 강하와 독립적으로 임플란트 주위 골형성 촉진·치주 염증 억제(Wnt/β-catenin). 유일 임상연구: GLP-1RA군 임플란트 주위 골소실 인슐린·메트포민 대비 유의 감소(p<0.01). 세마글루타이드(Semaglutide) 복용 환자 증가 → 타액저하 주의([[drug/systemic-disease/mawardi-2023-semaglutide-associated-hyposalivation-case-series]]).
 > - HbA1c 함정: Hb 변이·빈혈·용혈·수혈·만성신부전(CKD)에서 위양/위음 가능(Chen 2022, Weykamp 2013). HbA1c 단독 신뢰 금지, 공복·random glucose 병행. eAG(mg/dL) = 28.7 × A1C − 46.7(Nathan 2008).
 > - DDI: 고령 환자 DDI 보유율 40.7%, 처방자 인식률 42.7%(Pyo 2026). 대표 major DDI = Epinephrine + β-blocker. Major DDI는 31–60세 + 심혈관(CVD) 환자 집중(Colibasanu 2025).
 > - Vasoconstrictor: 1:200,000 에피네프린이 1:80,000과 진통 동등하면서 혈역학적으로 더 안전(Karm 2017 RCT n=51) → CVD·고혈압·갑상선항진증 포함 1차 선택. 비선택적 β-blocker(Propranolol) 복용 시 희석+용량 minimize+BP/HR 모니터링.
