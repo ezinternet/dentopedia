@@ -129,3 +129,4 @@ Narrative cross-cutting synthesis (no new pooling; the sources are themselves um
 - [[overviews/bone-quality-implant-risk-modification-overview]] — bone-quality risk modification
 - [[overviews/peri-implantitis-risk-assessment-overview]] — peri-implantitis risk assessment
 - [[overviews/diabetic-patient-immediate-implant-decision]] — diabetic immediate-implant decision
+- [[implants/isq/sachelarie-2025-osteoporosis-diabetes-dental-implant]] — 전향 파일럿 코호트(50명; T2DM 21 vs 골다공증 29; 12개월): 6개월 ISQ T2DM 62.10 vs 골다공증 67.04 (p=0.02), 12개월엔 두 군 모두 유의하게 개선; 두 질환이 서로 다른 기전(기계적 안정성 vs 생물학적 치유)으로 골유착에 영향 (prospective, 2025)
