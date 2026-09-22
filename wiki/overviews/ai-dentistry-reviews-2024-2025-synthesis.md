@@ -1,12 +1,12 @@
 ---
-title: "AI in Dentistry and Healthcare — 2024–2025 Review Cluster Synthesis"
-authors: synthesis page (compiled by Claude from 9 wiki entries ingested 2026-05-21)
+title: "AI in Dentistry and Healthcare — Cluster Synthesis (2024–2026)"
+authors: synthesis page (compiled by Claude from 23 wiki entries, last updated 2026-09-22)
 year: 2026
-date: 2026-05-21
-category: overviews
+date: 2026-09-22
+category: [overviews, artificial-intelligence]
 evidence_level: synthesis
 source_collection: internal
-tags: [overview, ai-dentistry, machine-learning, deep-learning, llm, chatgpt, multi-specialty, dental-education, restorative-ai, evidence-quality, claude-synthesis]
+tags: [overview, ai-dentistry, machine-learning, deep-learning, llm, chatgpt, multi-specialty, dental-education, restorative-ai, evidence-quality, treatment-planning-ai, orthodontic-ai, claude-synthesis]
 source: synthesis
 ---
 
@@ -27,6 +27,10 @@ source: synthesis
 > - 영상진단 SR·1차연구 추가(2026-07-01, cluster 7): 방사선 우식검출 SR은 민감도 0.44–0.86·특이도 0.85–0.98·곡선하면적(Area Under the Curve, AUC) 0.84–0.98로 합성곱 신경망(Convolutional Neural Network, CNN)이 약 70% 차지하나 데이터셋이 작고 이질적이라 메타분석 불가(Albano 2024); 병소검출 지도형 SR은 5개 병소·3개 영상양식·14개 아키텍처(U-Net 최다 27.6%)를 정리하되 한 모델이 치근단 병변 49%를 놓친 사례를 경고(Demir 2024).
 > - 파노라마 우식 다단계 검출 1차연구(Pornprasertsuk 2025): 당일 바이트윙을 gold standard로 삼아 파노라마에서 법랑질/상아질/치수 단계별 분할, 구치부 F1 0.85·정확도 0.93·재현율 0.96(가중 κ 0.907–0.981)이나 위양성(519)이 위음성(67)보다 많아 단독 진단이 아닌 결정보조로 자리매김.
 > - 파노라마 AI 상위(umbrella) 리뷰(Turosz 2023, 12편 SR·ROBIS): 과제별 정확도 우식 91.5%·골다공증 89.29%·상악동염 87.5%·치주골소실 93.09%·치아식별 93.67%, 치근단 병소 민감도 99.95%·특이도 92%이나 원천 연구가 적고 이질적이며 AI SR은 빨리 노후화 → 신중 해석. 성인 영상진단 cluster의 "영상 우위 + 근거 품질 경고" 패턴 재확인.
+> - VRF(수직치근파절 Vertical Root Fracture) 파노라마 AI(Mun 2024, n=418): 민감도 90–94%·특이도 53–61%·곡선하면적(AUC) 0.80–0.82 — 고민감도·저특이도 screener 패턴, 단독 확진 불가. 영상 진단 성숙 영역(cluster 7)에 추가.
+> - 치과 진단·치료계획 AI 최대 규모 SR+MA(Alabdulkareem 2026, 27편·6만 장·2025년까지): 풀링 민감도 0.85·특이도 0.94·F1 0.90, GRADE moderate — 제목의 "치료계획"과 달리 27편 중 3편만 실제 치료계획 평가(나머지는 진단 검출); YOLO v5–v12가 치아 검출 최강(mAP>0.96).
+> - 교정 발치 여부 AI 예측 SR+MA(Ziaei 2025, 7편·6,261명): 풀링 민감도 70%·특이도 90%, 극도 이질성(I²=97%); CNN(ResNet/VGG) 서브그룹만 이질성 0% + 최고 성능 — 학습 데이터 이질성이 풀링을 무력화하는 교과서 사례.
+> - ISQ 예측 심층학습 proof-of-concept(Cao 2026, n=100 임플란트): 2단계 노이즈 제거+메타데이터 네트워크, 평균절대오차(Mean Absolute Error, MAE) 1.85·R²=0.91·±3 ISQ 허용 정확도 92% — 단일 중국 기관 소규모, 외부 검증 없음; 공명주파수분석(Resonance Frequency Analysis, RFA) 신호 AI 분석의 초기 proof만.
 > - 공통 공백: AI 도입 vs 미도입을 비교한 환자-결과 RCT 부재, 한국어·한국 인구 검증 부재, 5년 이상 장기 추적 데이터 부재.
 
 ## Three-line Summary
@@ -143,7 +147,9 @@ Clinical takeaway: staged adoption — image-assisted diagnosis now (with regula
 - **Pornprasertsuk 2025 (retrospective, 파노라마 500장·치아 14,997개·우식 1,792개)** — 당일 bitewing을 gold standard로 삼아 파노라마에서 우식을 법랑질/상아질/치수 단계별 분할하는 2단계 파이프라인(YOLOv5s 치아검출 + Attention U-Net 우식분할): 구치부 F1 0.85·정확도 0.93·재현율 0.96, 방사선과 전문의와 가중 κ 0.907–0.981(거의 완벽). 단 위양성 519 > 위음성 67로 healthy tooth 과예측 → 단독 진단 아닌 결정보조. Albano 2024 SR이 집계하는 우식 AI trend의 구체 1차연구 인스턴스(applies-to). [retrospective, single-center, 외부검증 필요]
 - **Turosz 2023 (sr, umbrella/overview of SRs, 12편 SR·ROBIS)** — 파노라마 AI 상위 리뷰: 과제별 최신 정확도 우식 91.5%·골다공증 89.29%·상악동염 87.5%·치주골소실 93.09%·치아식별·번호매김 93.67%, 치근단 병소 민감도 99.95%·특이도 92%. 단 원천 연구가 적고 이질적이며 AI SR은 빨리 노후화 → 신중 해석. cluster 6 과제별 anchor(치주 Khubrani, 우식 Abbott)와 수렴하는 cross-task 정확도 landscape. **abstract-only(전문 미확보)이라 per-review ROBIS·과제별 review 수는 미포착.** [확인]
 
-**Synthesis [미검증]** — 네 편은 cluster 2·6의 이중 명제를 다시 확증한다: (1) 영상 진단 metric은 과제·아키텍처를 가로질러 임상 유용 범위(파노라마 우식 91.5%, 치근단 sens 99.95%, F1 0.85)에 반복 도달하고, (2) 그러나 데이터셋이 작고 이질적이라 메타분석이 반복적으로 좌절되며(Albano 풀링 불가), 한 모델이 병변 49%를 놓치고(Demir), 위양성이 위음성을 초과하며(Pornprasertsuk), umbrella 수준에서도 원천 SR이 적고 빨리 노후화된다(Turosz). 즉 **"진단 정확도는 성숙, 근거 품질·일반화는 미성숙"**이 SR·overview·1차연구 세 층위 모두에서 일관된다. 임상 인용 시 정량 무게중심은 여전히 Sadr 2023(GRADE high)과 Zhang 2025(LLM)에 두고, 본 4편은 영상 진단 성숙도 지형의 폭·깊이를 채운다.
+- **Mun 2024 (retrospective, 200환자·418 파노라마 이미지, VRF vs 정상 1:1)** — 파노라마에서 발치 요구 수직치근파절 (Vertical Root Fracture, VRF)을 3개 합성곱 신경망 (Convolutional Neural Network, CNN: InceptionV3, ResNet50, EfficientNetB0)으로 검출. **모든 모델이 고민감도·저특이도 screener 패턴**: 민감도 90.43–94.26%·특이도 52.63–60.77%·정확도 72.01–75.84%·곡선하면적 (Area Under the Curve, AUC) 0.80–0.82. 임상 함의: VRF 놓침이 위험하므로 screener 역할(missed VRF 최소화)은 정당하나, 특이도 55% 내외라 과진단 관리가 함께 필요. 단일 기관·소규모·외부 검증 없음. [확인]
+
+**Synthesis [미검증]** — 다섯 편(Albano, Demir, Pornprasertsuk, Turosz, Mun)은 cluster 2·6의 이중 명제를 다시 확증한다: (1) 영상 진단 metric은 과제·아키텍처를 가로질러 임상 유용 범위(파노라마 우식 91.5%, 치근단 sens 99.95%, F1 0.85, VRF sens 90–94%)에 반복 도달하고, (2) 그러나 데이터셋이 작고 이질적이라 메타분석이 반복적으로 좌절되며(Albano 풀링 불가), 한 모델이 병변 49%를 놓치고(Demir), 위양성이 위음성을 초과하며(Pornprasertsuk), VRF screener는 특이도 55%에 그친다(Mun). 즉 **"진단 정확도는 성숙, 근거 품질·일반화는 미성숙"**이 SR·overview·1차연구 세 층위 모두에서 일관된다. 임상 인용 시 정량 무게중심은 여전히 Sadr 2023(GRADE high)과 Zhang 2025(LLM)에 두고, 본 5편은 영상 진단 성숙도 지형의 폭·깊이를 채운다.
 
 ## Evidence quality audit (cluster-wide)
 
@@ -244,4 +250,44 @@ Clinical takeaway: staged adoption — image-assisted diagnosis now (with regula
 Talo 2026 (retrospective CBCT, n=704: 477 patent / 227 obstructed; ConvNeXt-Tiny + DeiT gated-MLP hybrid) addressed a specific pre-sinus-lift diagnostic challenge: human inter-observer reliability for ostium patency on CBCT is poor (κ as low as 0.399). The proposed hybrid classifier achieved 95.03% test accuracy, F1 94.18%, MCC 89.67% — substantially better than single-backbone baselines (89.36%), with only 7/141 test images misclassified. The architectural insight: gated fusion of CNN spatial features (ConvNeXt) and ViT global attention (DeiT) was the critical improvement, not backbone depth. This adds a pre-surgical planning AI application to the diagnostic support tools in this overview: clinicians planning transcrestal sinus lifts can use this architecture to standardize pre-surgical ostium assessment and reduce the inter-observer variability that currently complicates surgical planning.
 
 - [[artificial-intelligence/talo-2026-maxillary-sinus-ostium-patency-deep-learning]] — CBCT AI: 95% accuracy for sinus ostium patency; gated CNN+ViT fusion; addresses κ=0.40 inter-observer unreliability.
+
+## Cluster 9 — Treatment Planning & Procedural Decision AI (2026-09-22 addition)
+
+이전 클러스터들이 **진단 보조(이미 있는 병소를 찾는)** AI에 집중했다면, cluster 9는 **치료계획·술식 결정·예후 예측** AI로 범위를 확장한다.
+
+### 9a. Diagnostic detection + treatment planning boundary (Alabdulkareem 2026)
+
+**Alabdulkareem 2026 (sr+ma, PROSPERO CRD420251240547; 27편·60,857장·2025년까지)** — 치과 인공지능(Artificial Intelligence, AI) 진단 검출과 치료계획 의사결정을 동시에 다룬 가장 최신·대규모 SR+MA.
+
+풀링 무작위효과 추정치(13편 이상 풀링): 민감도 0.85 (95% CI 0.76–0.91)·특이도 0.94 (0.86–0.97)·F1 0.90·정밀도 0.88, 분할(segmentation) 주사위유사계수(Dice Similarity Coefficient, DSC) 0.89 (CI 0.13–1.00, n=5, GRADE low). **모든 풀링 지표 GRADE moderate** (I²>95%이지만 방향은 일관). YOLO v5–v12가 치아 검출·분할 최강(민감도 ~99%, 평균정밀도 (mean Average Precision, mAP)>0.96). [확인]
+
+**핵심 경고**: 제목의 "치료계획(treatment planning)"과 달리 27편 중 **3편만** 실제 치료계획 평가(나머지 24편은 진단 검출). 즉 이 SR+MA의 정량 수치는 치료계획이 아니라 **진단 검출 정확도**로 해석해야 한다 — cluster 6 anchor들(Abbott, Sadr, Khubrani, Hendrickx)과 연속선상에 있다.
+
+cluster 6 과제별 anchor들의 **포괄적 업데이트 버전**이자, "AI가 치료계획에 실질적으로 쓰이는가"에 대해 "아직 아님"을 데이터로 보여주는 증거.
+
+### 9b. Orthodontic extraction decision AI (Ziaei 2025)
+
+**Ziaei 2025 (sr+ma, PRISMA/PROSPERO CRD42024582455; 7편·6,261명·2025.6까지)** — 교정 발치 여부를 AI가 예측하는 7개 단면 연구 풀링.
+
+풀링 민감도 70% (95% CI 61–78)·특이도 90% (87–92), 극도 이질성 I²=96.7%·93.7%. 유일한 이질성 0% 서브그룹: **CNN 기반(ResNet, VGG) 모델 전용** — 정확도·AUC 최고, 추론 투명성 없음(XAI 부재). 비교 기준은 "임상가의 실제 발치 결정"이므로 **AI가 임상가 의사결정을 얼마나 모방하는가**를 측정하는 것이지 최적 치료를 측정하는 게 아니다. [확인]
+
+**임상 함의**: 특이도 90%는 발치 불필요 케이스에서 오발치 위험이 낮음을 시사하나, 민감도 70%는 발치 필요 10명 중 3명을 놓친다 — 비발치 편향이 있는 AI를 무비판적 적용 시 저성장 발치 케이스 미처리 위험. 현재는 교정가의 판단 보조 수준. 극도 이질성이 일반화를 가로막는 전형적 사례. [미검증]
+
+### 9c. ISQ prediction deep learning — proof of concept (Cao 2026)
+
+**Cao 2026 (retrospective, 단일 기관·100 임플란트·300 공명주파수분석(Resonance Frequency Analysis, RFA) 신호)** — 2단계 심층학습: (1) 노이즈 제거 합성곱 신경망(CNN)으로 SNR 12.3→22.8 dB(85% 노이즈 감소), (2) 골밀도·삽입토크 메타데이터 포함 임플란트 안정성 지수(Implant Stability Quotient, ISQ) 예측 네트워크.
+
+결과: 평균절대오차(Mean Absolute Error, MAE) 1.85·평균제곱근오차(Root Mean Square Error, RMSE) 2.40·결정계수(R²) 0.91·±3 ISQ 허용 정확도 92% — 기존 신호처리 기준선을 모두 초과. [확인]
+
+**한계**: 단일 기관·100 임플란트·외부 검증 없음·Osstell 장비 한정. Cluster 2의 "예후 모델링(prognostic modeling) = 데이터 규모 장벽"(Feher 2024 분류) 내에 정확히 위치하는 초기 proof-of-concept. 임상 채택 전 다기관 검증 필수.
+
+**Synthesis [미검증]** — Cluster 9 세 편은 "AI가 진단을 넘어 결정에 관여할 수 있는가"라는 질문에 답하려 하지만 아직 부분적이다: Alabdulkareem 2026은 SR+MA 규모로 검출 AI를 집대성하면서 치료계획 AI 공백을 데이터로 확인하고, Ziaei 2025는 교정 발치 예측에서 이질성 장벽을 정량화하며, Cao 2026은 ISQ 예측 proof를 단일 기관 수준에서 확립한다. 세 편 모두 **진단 metric은 성숙, 다기관·다국가 외부 검증은 부재**라는 본 종합의 핵심 이중 명제를 반복한다.
+
+### 신규 ingest — Cluster 9 (2026-09-22)
+- [[artificial-intelligence/alabdulkareem-2026-ai-dental-treatment-planning-decision-making-sr-ma]] — SR+MA 27편·60k장·sens 0.85/spec 0.94/F1 0.90 GRADE moderate; 치료계획 실제 평가는 3/27편만; YOLO 치아검출 최강 (sr+ma, 2026)
+- [[artificial-intelligence/ziaei-2025-ai-orthodontic-extraction-treatment-planning-sr-ma]] — 교정 발치 예측 SR+MA (7편·6,261명; sens 70%·spec 90%·I²=97%; CNN 서브그룹만 이질성 0%) (sr+ma, 2025)
+- [[artificial-intelligence/cao-2026-deep-learning-rfa-isq]] — ISQ 예측 DL proof-of-concept (100 임플란트; MAE 1.85·R²=0.91·±3ISQ 정확도 92%; 단일 기관, 외부검증 없음) (retrospective, 2026)
+
+### 신규 ingest — Cluster 7 추가 (2026-09-22)
+- [[artificial-intelligence/mun-2024-deep-learning-cracked-tooth-extraction-panoramic]] — 파노라마 VRF 검출 DL (200환자·418이미지; sens 90–94%·spec 53–61%·AUC 0.80–0.82; 고민감도 screener, 특이도 낮음) (retrospective, 2024)
 - [[digital-workflow/ucar-2026-llm-performance-zygomatic-implantology]] — prospective rater-blinded evaluation (38 expert questions, 5 raters): ChatGPT-4o, Claude 3.5, Gemini 1.5 Pro showed no clinically meaningful performance difference on zygomatic implantology Q&A (max gap ≤0.5 pts on 5-point scale) — LLM parity signal for a complex surgical subspecialty
