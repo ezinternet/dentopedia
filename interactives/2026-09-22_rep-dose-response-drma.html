@@ -1,0 +1,575 @@
+<title>REP Dose-Response</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,300;0,400;0,500;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+
+<style>
+:root {
+  --bg:       #F1F3F8;
+  --surface:  #FFFFFF;
+  --border:   #DCE1EC;
+  --text:     #17202E;
+  --muted:    #6A7390;
+  --cs:       #1B5DA3;
+  --ac:       #C84A22;
+  --cs-ci:    rgba(27,93,163,0.10);
+  --ac-ci:    rgba(200,74,34,0.10);
+  --gap-fill: rgba(100,110,155,0.05);
+  --grid:     rgba(70,85,120,0.09);
+  --tip-bg:   rgba(16,22,38,0.92);
+  --font:     'IBM Plex Sans', system-ui, -apple-system, sans-serif;
+  --mono:     'IBM Plex Mono', 'Courier New', monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg:       #0F1523;
+    --surface:  #182030;
+    --border:   #253047;
+    --text:     #DDE3F0;
+    --muted:    #7B86A0;
+    --cs:       #5A98EC;
+    --ac:       #E8754A;
+    --cs-ci:    rgba(90,152,236,0.12);
+    --ac-ci:    rgba(232,117,74,0.12);
+    --gap-fill: rgba(180,190,220,0.04);
+    --grid:     rgba(160,175,210,0.07);
+    --tip-bg:   rgba(6,10,22,0.94);
+  }
+}
+:root[data-theme="dark"] {
+  --bg:       #0F1523;
+  --surface:  #182030;
+  --border:   #253047;
+  --text:     #DDE3F0;
+  --muted:    #7B86A0;
+  --cs:       #5A98EC;
+  --ac:       #E8754A;
+  --cs-ci:    rgba(90,152,236,0.12);
+  --ac-ci:    rgba(232,117,74,0.12);
+  --gap-fill: rgba(180,190,220,0.04);
+  --grid:     rgba(160,175,210,0.07);
+  --tip-bg:   rgba(6,10,22,0.94);
+}
+
+* { box-sizing: border-box; }
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font);
+  margin: 0;
+  padding: 0 16px;
+  padding-block: 22px 36px;
+}
+.wrap { max-width: 820px; margin: 0 auto; }
+
+/* Header */
+.eyebrow {
+  font-size: 10.5px; font-weight: 500; letter-spacing: .1em;
+  text-transform: uppercase; color: var(--muted); margin: 0 0 6px;
+}
+h1 {
+  font-size: clamp(17px, 3.5vw, 22px); font-weight: 600; line-height: 1.28;
+  margin: 0 0 8px; text-wrap: balance;
+}
+.sub {
+  font-size: 13px; color: var(--muted); line-height: 1.55;
+  margin: 0 0 22px; max-width: 62ch;
+}
+
+/* Chart card */
+.chart-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 18px 16px 10px;
+  margin-bottom: 14px;
+  position: relative;
+  overflow: hidden;
+}
+.legend {
+  display: flex; gap: 18px; flex-wrap: wrap; margin-bottom: 12px;
+}
+.leg {
+  display: flex; align-items: center; gap: 6px;
+  font-size: 12px; font-weight: 500;
+}
+.leg-line {
+  width: 22px; height: 2.5px; border-radius: 2px;
+}
+.leg-ci {
+  width: 22px; height: 9px; border-radius: 2px;
+}
+svg.chart { display: block; width: 100%; height: auto; overflow: visible; }
+
+/* Tooltip */
+.tip {
+  position: absolute;
+  background: var(--tip-bg);
+  color: #fff;
+  border-radius: 8px;
+  padding: 10px 12px;
+  font-size: 12px;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity .1s;
+  z-index: 20;
+  white-space: nowrap;
+}
+.tip.show { opacity: 1; }
+.tip-head {
+  font-family: var(--mono); font-size: 10.5px;
+  opacity: .65; margin-bottom: 8px;
+  padding-bottom: 7px; border-bottom: 1px solid rgba(255,255,255,.15);
+}
+.tip-row { display: flex; align-items: center; gap: 7px; margin-bottom: 3px; }
+.tip-dot { width: 7px; height: 7px; border-radius: 50%; flex-shrink: 0; }
+.tip-name { flex: 1; font-size: 11px; opacity: .78; }
+.tip-val  { font-family: var(--mono); font-weight: 500; font-size: 13px; }
+.tip-ci   { font-family: var(--mono); font-size: 10px; opacity: .5; margin: 1px 0 6px 14px; }
+
+/* Metric cards */
+.metrics {
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+  gap: 10px;
+  margin-bottom: 14px;
+}
+@media (max-width: 520px) {
+  .metrics { grid-template-columns: repeat(2,1fr); }
+}
+.mc {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 13px 12px;
+}
+.mc-label {
+  font-size: 10px; font-weight: 500; letter-spacing: .07em;
+  text-transform: uppercase; color: var(--muted); margin-bottom: 4px;
+}
+.mc-val {
+  font-size: 26px; font-weight: 600; font-variant-numeric: tabular-nums;
+  line-height: 1; margin-bottom: 2px;
+}
+.mc-ci {
+  font-family: var(--mono); font-size: 10.5px; color: var(--muted);
+}
+.mc-i2 {
+  font-size: 10px; color: var(--muted); margin-top: 5px;
+}
+.bar-track {
+  height: 3px; border-radius: 2px; background: var(--border);
+  overflow: hidden; margin-top: 5px;
+}
+.bar-fill { height: 100%; border-radius: 2px; }
+
+/* Footnote */
+.fn {
+  font-size: 11.5px; color: var(--muted); line-height: 1.65;
+  border-top: 1px solid var(--border); padding-top: 12px;
+}
+</style>
+
+<div class="wrap">
+  <p class="eyebrow">Zhan et al. 2026 · SR+MA + DRMA · Int Dent J · n=508치아</p>
+  <h1>치근첨 직경과 재생근관치료 성과 — Dose-Response</h1>
+  <p class="sub">치근첨 직경 증가에 따라 치근첨 폐쇄율은 유의하게 감소하나, 임상 성공률은 전 직경 범위에서 안정적.
+  임상 성공 ≠ 진성 치수-상아질 재생.</p>
+
+  <div class="chart-card" id="chart-card">
+    <div class="legend">
+      <div class="leg">
+        <div class="leg-line" id="leg-cs"></div>
+        <span id="leg-cs-label">임상 성공률</span>
+      </div>
+      <div class="leg">
+        <div class="leg-line" id="leg-ac"></div>
+        <span id="leg-ac-label">치근첨 폐쇄율</span>
+      </div>
+      <div class="leg">
+        <div class="leg-ci" style="background:rgba(150,160,180,.18); border:1px solid var(--border)"></div>
+        <span style="color:var(--muted)">95% CI</span>
+      </div>
+    </div>
+    <svg class="chart" id="chart" viewBox="0 0 700 310" aria-label="치근첨 직경 vs 결과율 DRMA 차트"></svg>
+    <div class="tip" id="tip"></div>
+  </div>
+
+  <div class="metrics">
+    <div class="mc">
+      <div class="mc-label">임상 성공</div>
+      <div class="mc-val" id="mc-cs-val">90%</div>
+      <div class="mc-ci">83–95%</div>
+      <div class="mc-i2">I² = 40.3%</div>
+      <div class="bar-track"><div class="bar-fill" id="bar-cs" style="width:40.3%"></div></div>
+    </div>
+    <div class="mc">
+      <div class="mc-label">치아 생존율</div>
+      <div class="mc-val" id="mc-sv-val">98%</div>
+      <div class="mc-ci">95–99%</div>
+      <div class="mc-i2">I² = 0%</div>
+      <div class="bar-track"><div class="bar-fill" id="bar-sv" style="width:0%"></div></div>
+    </div>
+    <div class="mc">
+      <div class="mc-label">치근첨 폐쇄</div>
+      <div class="mc-val" id="mc-ac-val">53%</div>
+      <div class="mc-ci">36–70%</div>
+      <div class="mc-i2">I² = 79.6%</div>
+      <div class="bar-track"><div class="bar-fill" id="bar-ac" style="width:79.6%"></div></div>
+    </div>
+    <div class="mc">
+      <div class="mc-label">치수 활력 회복</div>
+      <div class="mc-val" id="mc-pv-val">21%</div>
+      <div class="mc-ci">7–49%</div>
+      <div class="mc-i2">I² = 69.2%</div>
+      <div class="bar-track"><div class="bar-fill" id="bar-pv" style="width:69.2%"></div></div>
+    </div>
+  </div>
+
+  <p class="fn">
+    <strong>출처:</strong> Zhan S et al. <em>Int Dent J</em> 2026; DOI 10.1016/j.identj.2026.109660.
+    10편, 508치아. DRMA: 2-stage GLS, restricted cubic splines (3 knots).
+    <strong>주의:</strong> DRMA 곡선은 논문 결과("치근첨 직경 증가 → 폐쇄율 감소, ~70%→~30%")에 기반한 근사 시각화이며,
+    원 논문의 회귀계수를 재현한 정확한 곡선이 아닙니다. 임상 성공률은 직경과 무관하게 안정적(유의한 용량-반응 관계 없음).
+  </p>
+</div>
+
+<script>
+(function () {
+  // ── chart geometry ──────────────────────────────────────────────
+  const VW = 700, VH = 310;
+  const M = { t: 26, r: 28, b: 42, l: 52 };
+  const PW = VW - M.l - M.r;
+  const PH = VH - M.t - M.b;
+  const D_MIN = 0.4, D_MAX = 2.6;
+  const Y_MIN = 0, Y_MAX = 100;
+
+  function xs(d) { return M.l + (d - D_MIN) / (D_MAX - D_MIN) * PW; }
+  function ys(v) { return M.t + (1 - (v - Y_MIN) / (Y_MAX - Y_MIN)) * PH; }
+
+  // ── data generation ─────────────────────────────────────────────
+  function buildData(N) {
+    const pts = [];
+    for (let i = 0; i <= N; i++) {
+      const t = i / N;
+      const d = D_MIN + t * (D_MAX - D_MIN);
+
+      // Clinical success: nearly flat (no significant dose-response)
+      const cs     = 91.8 - 3.5 * t;
+      const csLo   = Math.max(cs - 7.8, 74);
+      const csHi   = Math.min(cs + 4.2, 99.5);
+
+      // Apical closure: declining (DRMA negative association, RCS approx)
+      // 71% at 0.4 mm → 29% at 2.6 mm
+      const ac     = 71 - 42 * Math.pow(t, 0.60);
+      const ciW    = 14 + 9 * Math.sin(Math.PI * Math.sqrt(t));
+      const acLo   = Math.max(ac - ciW, 0);
+      const acHi   = Math.min(ac + ciW, 97);
+
+      pts.push({ t, d, cs, csLo, csHi, ac, acLo, acHi });
+    }
+    return pts;
+  }
+
+  // ── SVG path helpers ─────────────────────────────────────────────
+  function line(pts, xf, yf) {
+    return pts.map((p, i) =>
+      (i === 0 ? 'M' : 'L') + xf(p).toFixed(1) + ',' + yf(p).toFixed(1)
+    ).join(' ');
+  }
+  function area(pts, xf, yLo, yHi) {
+    const top = pts.map((p, i) =>
+      (i === 0 ? 'M' : 'L') + xf(p).toFixed(1) + ',' + yHi(p).toFixed(1)
+    ).join(' ');
+    const bot = [...pts].reverse().map(p =>
+      'L' + xf(p).toFixed(1) + ',' + yLo(p).toFixed(1)
+    ).join(' ');
+    return top + ' ' + bot + ' Z';
+  }
+  function svgEl(tag, attrs) {
+    const el = document.createElementNS('http://www.w3.org/2000/svg', tag);
+    Object.entries(attrs).forEach(([k, v]) => el.setAttribute(k, v));
+    return el;
+  }
+  function svgTxt(tag, attrs, text) {
+    const el = svgEl(tag, attrs);
+    el.textContent = text;
+    return el;
+  }
+
+  // ── main render ──────────────────────────────────────────────────
+  function render() {
+    const svg = document.getElementById('chart');
+    svg.innerHTML = '';
+
+    const st = getComputedStyle(document.documentElement);
+    const cs  = st.getPropertyValue('--cs').trim();
+    const ac  = st.getPropertyValue('--ac').trim();
+    const csCi = st.getPropertyValue('--cs-ci').trim();
+    const acCi = st.getPropertyValue('--ac-ci').trim();
+    const gapF = st.getPropertyValue('--gap-fill').trim();
+    const grid = st.getPropertyValue('--grid').trim();
+    const muted = st.getPropertyValue('--muted').trim();
+    const font = "'IBM Plex Sans',system-ui,sans-serif";
+    const mono = "'IBM Plex Mono','Courier New',monospace";
+
+    // Apply legend colors
+    const legCs = document.getElementById('leg-cs');
+    const legAc = document.getElementById('leg-ac');
+    if (legCs) { legCs.style.background = cs; document.getElementById('leg-cs-label').style.color = cs; }
+    if (legAc) { legAc.style.background = ac; document.getElementById('leg-ac-label').style.color = ac; }
+    document.getElementById('mc-cs-val').style.color = cs;
+    document.getElementById('mc-sv-val').style.color = cs;
+    document.getElementById('mc-ac-val').style.color = ac;
+    document.getElementById('mc-pv-val').style.color = ac;
+    document.getElementById('bar-cs').style.background = cs;
+    document.getElementById('bar-sv').style.background = cs;
+    document.getElementById('bar-ac').style.background = ac;
+    document.getElementById('bar-pv').style.background = ac;
+
+    const data = buildData(90);
+    const g = svgEl('g', {});
+
+    // Grid lines + Y labels
+    [0, 20, 40, 60, 80, 100].forEach(v => {
+      const y = ys(v);
+      g.appendChild(svgEl('line', {
+        x1: M.l, y1: y, x2: M.l + PW, y2: y,
+        stroke: grid, 'stroke-width': 1
+      }));
+      g.appendChild(svgTxt('text', {
+        x: M.l - 7, y: y + 4,
+        'text-anchor': 'end', 'font-size': 11,
+        fill: muted, 'font-family': mono
+      }, v + '%'));
+    });
+
+    // X-axis ticks + labels
+    [0.5, 1.0, 1.5, 2.0, 2.5].forEach(d => {
+      const x = xs(d);
+      g.appendChild(svgEl('line', {
+        x1: x, y1: M.t + PH, x2: x, y2: M.t + PH + 5,
+        stroke: grid, 'stroke-width': 1.5
+      }));
+      g.appendChild(svgTxt('text', {
+        x, y: M.t + PH + 17,
+        'text-anchor': 'middle', 'font-size': 11,
+        fill: muted, 'font-family': mono
+      }, d.toFixed(1)));
+    });
+
+    // Axis labels
+    g.appendChild(svgTxt('text', {
+      x: M.l + PW / 2, y: VH - 2,
+      'text-anchor': 'middle', 'font-size': 12,
+      fill: muted, 'font-family': font
+    }, '치근첨 직경 (mm)'));
+    const ytxt = svgTxt('text', {
+      x: 13, y: M.t + PH / 2,
+      'text-anchor': 'middle', 'font-size': 12,
+      fill: muted, 'font-family': font,
+      transform: `rotate(-90,13,${M.t + PH / 2})`
+    }, '비율 (%)');
+    g.appendChild(ytxt);
+
+    // Pooled reference lines (dashed)
+    const refCS = ys(90);
+    g.appendChild(svgEl('line', {
+      x1: M.l, y1: refCS, x2: M.l + PW, y2: refCS,
+      stroke: cs, 'stroke-width': 1,
+      'stroke-dasharray': '5,3', opacity: .28
+    }));
+    g.appendChild(svgTxt('text', {
+      x: M.l + PW - 3, y: refCS - 5,
+      'text-anchor': 'end', 'font-size': 10,
+      fill: cs, opacity: .65, 'font-family': mono
+    }, 'pooled 90%'));
+
+    const refAC = ys(53);
+    g.appendChild(svgEl('line', {
+      x1: M.l, y1: refAC, x2: M.l + PW, y2: refAC,
+      stroke: ac, 'stroke-width': 1,
+      'stroke-dasharray': '5,3', opacity: .28
+    }));
+    g.appendChild(svgTxt('text', {
+      x: M.l + PW - 3, y: refAC - 5,
+      'text-anchor': 'end', 'font-size': 10,
+      fill: ac, opacity: .65, 'font-family': mono
+    }, 'pooled 53%'));
+
+    // Gap zone between curves
+    const gapPath = data.map((p, i) =>
+      (i === 0 ? 'M' : 'L') + xs(p.d).toFixed(1) + ',' + ys(p.cs).toFixed(1)
+    ).join(' ')
+    + ' ' + [...data].reverse().map(p =>
+      'L' + xs(p.d).toFixed(1) + ',' + ys(p.ac).toFixed(1)
+    ).join(' ') + ' Z';
+    g.appendChild(svgEl('path', { d: gapPath, fill: gapF }));
+
+    // CI bands
+    g.appendChild(svgEl('path', {
+      d: area(data, p => xs(p.d), p => ys(p.csLo), p => ys(p.csHi)),
+      fill: csCi
+    }));
+    g.appendChild(svgEl('path', {
+      d: area(data, p => xs(p.d), p => ys(p.acLo), p => ys(p.acHi)),
+      fill: acCi
+    }));
+
+    // Main curves
+    g.appendChild(svgEl('path', {
+      d: line(data, p => xs(p.d), p => ys(p.cs)),
+      fill: 'none', stroke: cs, 'stroke-width': 2.5, 'stroke-linejoin': 'round'
+    }));
+    g.appendChild(svgEl('path', {
+      d: line(data, p => xs(p.d), p => ys(p.ac)),
+      fill: 'none', stroke: ac, 'stroke-width': 2.5, 'stroke-linejoin': 'round'
+    }));
+
+    // End-of-curve labels
+    const lastPt = data[data.length - 1];
+    g.appendChild(svgTxt('text', {
+      x: xs(lastPt.d) + 4, y: ys(lastPt.cs) + 4,
+      'font-size': 10.5, fill: cs, 'font-family': font, 'font-weight': 500
+    }, `${lastPt.cs.toFixed(0)}%`));
+    g.appendChild(svgTxt('text', {
+      x: xs(lastPt.d) + 4, y: ys(lastPt.ac) + 4,
+      'font-size': 10.5, fill: ac, 'font-family': font, 'font-weight': 500
+    }, `${lastPt.ac.toFixed(0)}%`));
+
+    // Axis border lines
+    g.appendChild(svgEl('line', {
+      x1: M.l, y1: M.t, x2: M.l, y2: M.t + PH,
+      stroke: grid, 'stroke-width': 1.5
+    }));
+    g.appendChild(svgEl('line', {
+      x1: M.l, y1: M.t + PH, x2: M.l + PW, y2: M.t + PH,
+      stroke: grid, 'stroke-width': 1.5
+    }));
+
+    // Hover elements (initially hidden)
+    const cursor = svgEl('line', {
+      id: 'cursor', x1: 0, y1: M.t, x2: 0, y2: M.t + PH,
+      stroke: muted, 'stroke-width': 1, 'stroke-dasharray': '3,2',
+      opacity: 0, 'pointer-events': 'none'
+    });
+    const dotCS = svgEl('circle', {
+      id: 'dot-cs', cx: 0, cy: 0, r: 5,
+      fill: cs, stroke: 'var(--surface)', 'stroke-width': 2,
+      opacity: 0, 'pointer-events': 'none'
+    });
+    const dotAC = svgEl('circle', {
+      id: 'dot-ac', cx: 0, cy: 0, r: 5,
+      fill: ac, stroke: 'var(--surface)', 'stroke-width': 2,
+      opacity: 0, 'pointer-events': 'none'
+    });
+    g.appendChild(cursor);
+    g.appendChild(dotCS);
+    g.appendChild(dotAC);
+
+    // Invisible overlay for pointer events
+    const overlay = svgEl('rect', {
+      id: 'overlay',
+      x: M.l, y: M.t, width: PW, height: PH,
+      fill: 'transparent', cursor: 'crosshair'
+    });
+    g.appendChild(overlay);
+    svg.appendChild(g);
+
+    // Store data for hover
+    svg._chartData = data;
+  }
+
+  // ── hover interaction ────────────────────────────────────────────
+  function setupHover() {
+    const svg = document.getElementById('chart');
+    const tip = document.getElementById('tip');
+    const card = document.getElementById('chart-card');
+
+    function onMove(clientX, clientY) {
+      const rect = svg.getBoundingClientRect();
+      if (!rect.width) return;
+      const scale = rect.width / VW;
+      const rawX = (clientX - rect.left) / scale;
+      const inPlot = rawX >= M.l && rawX <= M.l + PW;
+
+      const cursor = document.getElementById('cursor');
+      const dotCS = document.getElementById('dot-cs');
+      const dotAC = document.getElementById('dot-ac');
+      if (!cursor || !dotCS || !dotAC) return;
+
+      if (!inPlot) { onLeave(); return; }
+
+      const data = svg._chartData;
+      if (!data) return;
+
+      const d = D_MIN + (rawX - M.l) / PW * (D_MAX - D_MIN);
+      const idx = Math.max(0, Math.min(data.length - 1,
+        Math.round((d - D_MIN) / (D_MAX - D_MIN) * (data.length - 1))
+      ));
+      const p = data[idx];
+      const x = xs(p.d);
+
+      // Update chart elements
+      cursor.setAttribute('x1', x); cursor.setAttribute('x2', x);
+      cursor.setAttribute('opacity', '.5');
+      dotCS.setAttribute('cx', x); dotCS.setAttribute('cy', ys(p.cs));
+      dotCS.setAttribute('opacity', '1');
+      dotAC.setAttribute('cx', x); dotAC.setAttribute('cy', ys(p.ac));
+      dotAC.setAttribute('opacity', '1');
+
+      // Tooltip
+      const st = getComputedStyle(document.documentElement);
+      const csC = st.getPropertyValue('--cs').trim();
+      const acC = st.getPropertyValue('--ac').trim();
+
+      tip.innerHTML =
+        `<div class="tip-head">치근첨 직경&nbsp;&nbsp;<strong>${p.d.toFixed(2)} mm</strong></div>` +
+        `<div class="tip-row"><div class="tip-dot" style="background:${csC}"></div>` +
+        `<span class="tip-name">임상 성공률</span><span class="tip-val">${p.cs.toFixed(1)}%</span></div>` +
+        `<div class="tip-ci">CI ${p.csLo.toFixed(0)}–${p.csHi.toFixed(0)}%</div>` +
+        `<div class="tip-row"><div class="tip-dot" style="background:${acC}"></div>` +
+        `<span class="tip-name">치근첨 폐쇄율</span><span class="tip-val">${p.ac.toFixed(1)}%</span></div>` +
+        `<div class="tip-ci">CI ${p.acLo.toFixed(0)}–${p.acHi.toFixed(0)}%</div>`;
+
+      const cardRect = card.getBoundingClientRect();
+      let tx = clientX - cardRect.left + 14;
+      let ty = clientY - cardRect.top - 16;
+      if (tx + 200 > card.offsetWidth) tx = clientX - cardRect.left - 195;
+      if (ty < 0) ty = 0;
+      tip.style.left = tx + 'px';
+      tip.style.top  = ty + 'px';
+      tip.classList.add('show');
+    }
+
+    function onLeave() {
+      ['cursor', 'dot-cs', 'dot-ac'].forEach(id => {
+        const el = document.getElementById(id);
+        if (el) el.setAttribute('opacity', '0');
+      });
+      tip.classList.remove('show');
+    }
+
+    const overlay = document.getElementById('overlay');
+    if (!overlay) return;
+
+    overlay.addEventListener('mousemove', e => onMove(e.clientX, e.clientY));
+    overlay.addEventListener('mouseleave', onLeave);
+
+    overlay.addEventListener('touchmove', e => {
+      e.preventDefault();
+      onMove(e.touches[0].clientX, e.touches[0].clientY);
+    }, { passive: false });
+    overlay.addEventListener('touchend', onLeave);
+  }
+
+  // ── init + theme reactivity ──────────────────────────────────────
+  render();
+  setupHover();
+
+  const mo = new MutationObserver(render);
+  mo.observe(document.documentElement, { attributes: true, attributeFilter: ['data-theme'] });
+
+  if (window.matchMedia) {
+    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', render);
+  }
+})();
+</script>
