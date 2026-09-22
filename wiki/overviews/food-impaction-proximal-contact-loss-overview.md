@@ -121,3 +121,5 @@ Open contacts raise peri-implant mucositis risk (RR 1.74; Atieh 2026 SR+MA) and 
 - [[food-impaction/liu-2025-open-contacts-posterior-implants-preventive-concepts]] — narrative companion synthesizing etiology + introducing MM-DD concept
 - [[food-impaction/alsaloum-2026-proximal-contact-loss-interproximal-caries-implants-review]] — reframes PCL as a direct interproximal-caries risk factor; infraposition mechanism; Essix prevention
 - [[food-impaction/atieh-2026-open-proximal-contacts-peri-implant-diseases]] — SR+MA outcome anchor: OPC → peri-implant mucositis (RR 1.74), MBL/PPD/peri-implantitis NS
+- [[food-impaction/ma-2025-classification-treatment-food-impaction]] — 서술적 리뷰(참고문헌 92편): 식편압입 분류 4축(원인·방향·범위·접촉관계) + 수직형/수평형 치료 트랙 + 임플란트 특이 섹션; 인접 임플란트 식편압입 >40%, 단일 크라운 수리 후 최대 66.9%; Newell 교합조정 80% 증상 개선, 0.06 mm 간격 기준, 3–6개월 재내원 제시 (narrative-review, 2025)
+- [[food-impaction/yin-2026-digital-quantitative-analysis-biomechanical]] — 전향적 코호트(90 제1대구치 임플란트 지르코니아 크라운): 6개월 식편압입 (Proximal Contact Loss, PCL) 발생률 17.78%; 근접접촉면 면적 변화량(ΔdP)이 핵심 예측인자(OR 1.05/μm); RCS 분석 ΔdP ∈[−13,9]μm 안정, ~30μm 초과 시 PCL; 최초 디지털 정량 한계값 제시 (prospective, 2026)
