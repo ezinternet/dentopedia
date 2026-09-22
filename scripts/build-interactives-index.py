@@ -31,7 +31,8 @@ CATEGORIES = [
     ("implant-stability",      "임플란트 — 안정성·로딩 (ISQ·RFA)"),
     ("implant-placement",      "임플란트 — 식립·드릴링·골질"),
     ("implant-immediate",      "임플란트 — 즉시식립·소켓쉴드"),
-    ("bone-graft",             "골증대·발치와 보존(ARP)·상악동"),
+    ("systemic-disease",       "전신질환·임플란트 위험 (당뇨·골다공증·내과)"),
+    ("bone-graft",             "골증대·발치와 보존(ARP)·상악동·발치"),
     ("soft-tissue",            "연조직·각화점막·치주성형"),
     ("endo",                   "근관치료 — 탐색·세정·파절"),
     ("resto",                  "수복·접착"),
@@ -45,6 +46,7 @@ CATEGORIES = [
     ("ortho",                  "교정"),
     ("imaging",                "영상·방사선·AI"),
     ("patient-ops",            "환자 커뮤니케이션·행동·운영"),
+    ("role-portal",            "역할별 포털 — 원장·위생사·데스크"),
     ("reference",              "레퍼런스·유틸리티"),
     ("meta",                   "메타 · 위키 성장"),
 ]
@@ -56,15 +58,17 @@ CATEGORIES = [
 ALIASES = {
     "implants": "implant-placement",
     "implants/isq": "implant-stability",
+    "implants/survival": "systemic-disease",   # HbA1c·생존율 — 전신질환 버킷
     "implant-prosthesis": "prosth",
     "immediate-implant": "implant-immediate",
     "bone-regeneration": "bone-graft",
     "sinus-lift": "bone-graft",
-    "bone-sinus-soft": "bone-graft",          # 옛 통합 버킷
+    "bone-sinus-soft": "bone-graft",           # 옛 통합 버킷
+    "oral-surgery": "bone-graft",              # 발치·창상치유 → 발치와 보존 버킷
     "periodontics": "perio",
-    "perio-maintenance": "prevention-maintenance",  # 옛 키
+    "perio-maintenance": "prevention-maintenance",
     "endodontics": "endo",
-    "endo-resto": "resto",                    # 옛 통합 버킷
+    "endo-resto": "resto",                     # 옛 통합 버킷
     "post-and-core": "resto",
     "resin-bonding": "resto",
     "dental-materials": "prosth",
@@ -74,8 +78,10 @@ ALIASES = {
     "oral-mucosal-disease": "oral-medicine",
     "drug/analgesics": "drug",
     "drug/antibiotics": "drug",
+    "orthodontics": "ortho",                   # wiki taxonomy 키 흡수
     "artificial-intelligence": "imaging",
     "radiology": "imaging",
+    "practice-management": "role-portal",      # 역할 포털 버킷
     "overviews": "meta",
 }
 
