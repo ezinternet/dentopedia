@@ -862,6 +862,7 @@ tags: []
 - [[endodontics/irrigation/singh-2026-precision-endodontics-nanorobots-targeted-antimicrobial]] — Editorial (JCDE 2026, Shishir Singh): Nanorobot/nanozyme/biodegradable nanoparticle(AgNP·ZnO·chitosan·bioactive glass·PLGA)을 통한 dentinal tubule·apical ramification·isthmus 단위 targeted disinfection 비전; 임상 도달 전 (aspirational), biocompatibility·cytotoxicity·regulatory 미해결.
 - [[endodontics/irrigation/wong-2015-treatment-outcomes-single-visit-versus]] — RCT (n=220): single-visit vs multiple-visit RCT equal in success/pain, single-visit ~31 min faster
 - [[endodontics/irrigation/artaza-2024-outcome-nonsurgical-root-canal-treatment]] — retrospective outcome of nonsurgical RCT/retreatment for large apical periodontitis lesions (89%/79% loose success; ≥10 mm, abscess, sinus tract, CBCT worsen)
+- [[endodontics/irrigation/teja-2025-efficacy-gel-solution-endodontic]] — Teja 2025 · sr(37편) · 용액형 세정제가 젤형보다 항균·스미어층 제거·기구 안전성 전반 우위 — 젤-NaOCl 슬러지가 파일 피로파절 위험 증가; 젤 사용 후 반드시 용액 세정 (DOI 10.14744/eej.2025.97059)
 - [[endodontics/irrigation/asgary-2008-endodontic-treatment-large-periradicular-lesion]] — case report: ~25 mm cyst-like periradicular lesion healed by single-visit non-surgical RCT (9-mo full bony regression)
 - [[endodontics/irrigation/llena-2020-outcome-root-canal-treatments-provided]] — Retrospective (585 teeth, 1–6 yr): coronal restoration quality + preoperative status drive RCT periapical healing (~90.9%)
 
@@ -1508,6 +1509,7 @@ tags: []
 - [[endodontics/regenerative/asgary-2024-immature-teeth-pulp-necrosis-management-umbrella]] — Asgary 2024 · sr(umbrella, 31 SR/MA, PMC 풀텍스트) · 미성숙 치수괴사치 관리: MTA apexification이 Ca(OH)₂보다 근단폐쇄 신속(전체 성공률은 유사), 재생근관치료(RET)가 치근성숙·근단치유에서 apexification 대비 우세 경향 — 표준화 프로토콜 부재로 근거 낮음 (DOI 10.22037/iej.v19i4.46292)
 - [[endodontics/regenerative/lopes-2021-regenerative-endodontic-procedures-umbrella]] — Lopes 2021 · sr(umbrella, SR 29편, PMC 풀텍스트) · 재생근관치료(REP) 방법론 질 평가 — 10편 critically low·3편 low·14편 moderate·2편 high; 근거 질 낮아 표준화 RCT 필요 (DOI 10.3390/ijerph18020754)
 - [[endodontics/regenerative/rojas-gutierrez-2022-regenerative-endodontics-success-factors-umbrella]] — Rojas-Gutiérrez 2022 · sr+ma(umbrella, 13 SR+7 MA, PMC 풀텍스트) · 재생근관치료(RET) 전체 성공률 50–98%, 생존율 94–100% — 증상소실·치유·치근장 증가·상아질비후·감각회복이 성공 지표 (DOI 10.22037/iej.v17i3.32703)
+- [[endodontics/regenerative/zhan-2026-association-apical-maturity-clinical]] — Zhan 2026 · sr+ma(10편, 508치아, DRMA+TSA) · REP 임상성공 90%·생존 98% 치근첨 직경과 무관, 치근첨 폐쇄 53%·활력회복 21%로 낮음 — DRMA: 직경 클수록 폐쇄율 감소 (DOI 10.1016/j.identj.2026.109660)
 
 ## 레진접착 (Resin Bonding)
 - [[resin-bonding/delgado-2025-functional-monomers-dental-adhesive-technology]] — Delgado 2025 · narrative-review · 4-META는 카르복실산계 단량체로 수용액서 4-MET로 가수분해(pKa 2.9), 10-MDP·GPDM보다 결합·가수분해안정성 열세 (DOI 10.3290/j.jad.c_2297)
@@ -1948,6 +1950,7 @@ tags: []
 - [[endodontics/vpt/chailertvanitkul-2014-ch-mta-partial-pulpotomy-rct]] — RCT (IEJ 2014, n=36): Ca(OH)₂ vs MTA 부분 치수절단 — 1년 성공률 Ca(OH)₂ 61% vs MTA 89%; 석회화 교량 MTA 우위
 - [[endodontics/vpt/nowicka-2015-tomographic-reparative-dentin-pulp-capping]] — 전향적 micro-CT (J Endod 2015, n=40): Biodentine vs MTA DPC — 석회화 교량 두께·연속성 동등; Biodentine 수분 존재 하 취급 용이
 - [[endodontics/vpt/jang-2026-vital-pulp-therapy-busan]] — 임상 강의 (부산 2026, 장 원장, 69슬라이드): 바이탈 근관치료 (Vital Pulpectomy) 단계별 프로토콜 — 엔도셈 ≥3mm 배리어, 작업장 길이 근단 2–3mm 단축, NaOCl+초음파 세정, 크랙치아·고령환자 적응증
+- [[endodontics/vpt/cabrera-fernandez-2026-clinical-radiographic-vital-pulp]] — Cabrera-Fernández 2026 · sr+ma(9 RCTs) · TheraCal LC vs NRM-CSM: 90·180·360일 임상성공 동등, 360일 상아교 형성 유의 열등(RR 0.85, 0.76–0.95) — GRADE low (DOI 10.3390/jfb17010032)
 - [[endodontics/vpt/chailertvanitkul-2014-ch-mta-partial-pulpotomy-rct]] — 소아(7–10세) 영구 구치 우식 노출 partial pulpotomy RCT(84개 치아): Ca(OH)₂ vs MTA — MTA 방향성 우위, 소아 VPT 기초 데이터.
 - [[endodontics/vpt/duncan-2019-ese-deep-caries-exposed-pulp-position]] — ESE 2019 position statement: 치수 보존 우선, Biodentine·MTA 1차 재료 권고, Ca(OH)₂ 대체 권고.
 - [[endodontics/vpt/fasoulas-2023-pulpotomy-direct-pulp-capping-sr-ma]] — 우식 치수 노출 DPC/pulpotomy 재료 SR+MA(Ghent Univ): Biodentine·MTA가 Ca(OH)₂ 대비 유의 우위 — Clin Exp Dent Res 2023.
