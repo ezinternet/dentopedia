@@ -2310,6 +2310,8 @@ tags: []
 - [[food-impaction/liang-2020-prevalence-associated-factors-retrospective]] — Liang 2020 (후향, 317명, ~18년): mesial 27% > distal 5%; 다변량 독립인자 기능>5년·치간칫솔 빈용·식편압입
 - [[food-impaction/mehanna-2021-proximal-contact-alterations-prospective]] — Mehanna 2021 (3개월 전향, 43명): 3개월 내 접촉강도 유의 감소; restoration type·implant system 영향
 - [[food-impaction/kim-2025-factors-influencing-proximal-contact-loss]] — Kim 2025 (JKAOMS, 후향 cast model, 293 임플란트): PCL 30.7%, 절반 19.2개월 내; 인접치 기존 interproximal gap 최강 인자(OR 2.7–3.3)
+- [[food-impaction/yin-2026-digital-quantitative-analysis-biomechanical]] — Yin 2026 · prospective · 제1대구치 임플란트 크라운 90개(78명) 전향 코호트 — 교합 전후 근접접촉 간극 변화 ΔdP(ACF 대리지표)만이 6개월 근접접촉 소실(PCL 17.78%)을 예측(OR 1.05/μm, P<0.001), ΔdP ∈ [−13, 9] μm 안정 구간·>30 μm면 PCL(κ=0.59)
+- [[food-impaction/ma-2025-classification-treatment-food-impaction]] — Ma 2025 · narrative-review · 식편압입 분류·치료 서술적 리뷰(92참고문헌) — 분류 4축(원인·방향·범위·접촉관계), 수직형 치료 5방향·수평형 4방향 + 임플란트 예방(나사유지·3–6개월 재검); 인용: 임플란트 인접 식편압입 >40%, 단일크라운 후 최대 66.9%, 수평형 9.7%, Newell 교합조정 80% 개선, 간극 0.06mm 임계
 - 관련: [[implants/kim-2026-proximal-contact-loss-implants-10years]] — Kim 2026 (단면, >10년): PCL 53.7%, mesial 65.6% > distal 28.3% (implants 카테고리)
 
 <!-- BATCH INGEST 2026-05-24: immediate-implant + related FEA -->
