@@ -2,7 +2,7 @@
 title: "Immediate Implant Placement — Evidence Hub: Survival · Timing · Infected Sockets · Loading & Restoration"
 authors: Synthesis (Damian Lee)
 year: 2026
-date: 2026-09-14
+date: 2026-09-22
 doi: N/A
 source: N/A
 category: overviews
@@ -42,6 +42,13 @@ source_wiki:
   - wiki/immediate-implant/infected-socket/li-2025-immediate-implant-periodontitis-short-term-retrospective.md
   - wiki/immediate-implant/loading-protocol/botros-2025-early-conventional-loading-immediate-molar.md
   - wiki/immediate-implant/li-2026-safety-feasibility-immediate-implant-diabetic.md
+  - wiki/immediate-implant/esthetic-soft-tissue/yan-2016-soft-hard-tissue-immediate-placement-restoration-esthetic.md
+  - wiki/immediate-implant/esthetic-soft-tissue/slagter-2014-immediate-placement-esthetic-zone-sr.md
+  - wiki/immediate-implant/esthetic-soft-tissue/rieder-2014-placement-restoration-timing-esthetic-outcome-rct.md
+  - wiki/immediate-implant/loading-protocol/huang-2014-innervation-peri-implant-tissues-placement-loading-sr.md
+  - wiki/immediate-implant/loading-protocol/suarez-2012-timing-restoration-implant-marginal-bone-loss-sr-ma.md
+  - wiki/immediate-implant/loading-protocol/markovic-2024-immediate-vs-early-loading-immediately-placed.md
+  - wiki/immediate-implant/molar-septum/atieh-2010-immediate-placement-loading-molar-implants-sr-ma.md
 relations:
   - type: extends
     target: implant-placement-timing-immediate-early-delayed
@@ -74,7 +81,11 @@ relations:
 > - **치주질환 환자 즉시식립(Li 2025, 후향적 n=95, 234 임플란트, 12개월)**: 전체 생존 97.86%; Stage IV·Grade C에서 생존율 유의 저하(Kaplan-Meier, p<0.05) — 치주염 중증도 자체가 즉시식립 예후에 영향을 미침. 치근단 감염과 구분되는 치주 감염 특이 데이터.
 > - **구치부 즉시식립 후 early vs conventional 부하(Botros 2025, RCT, n=30 임플란트)**: 완전 가이드 플랩리스 즉시 구치부 임플란트에서 6주 early vs 3개월 conventional 부하 — 양군 생존율 100%, ISQ/DCA 무차이(p>0.05); 구치부에서도 early loading이 안전함을 RCT로 확인.
 > - **당뇨 환자 즉시식립(Li 2026, SR+MA, 10편, 1,350명)**: 혈당 조절 여부와 무관하게 즉시식립 생존율 무차이(well-controlled RR=1.00, poorly-controlled RR=0.96, 양쪽 NS); 단 변연골소실(Marginal Bone Loss, MBL)·탐침 출혈(Bleeding on Probing, BOP)은 당뇨군에서 유의하게 높고 혈당 조절 불량할수록 악화(MBL MD=0.39mm, p<0.00001) — 즉시식립 가능하나 철저한 혈당 관리와 장기 monitoring 필수.
-> - **근거 한계**: 20편 중 다수가 초록전용/narrative(특히 이탈리아 컨소시엄 RCT 3편은 abstract-only) — pooled 수치는 확정이 아닌 방향성. 가장 약한 지점이 하필 임상적으로 가장 중요한 곳(즉시 vs 지연 effect size, 감염소켓 프로토콜, 장기 데이터).
+> - **심미부위 SR 기반선(Slagter 2014 SR 34편·Yan 2016 SR+MA 13편)**: 1년 생존율 97.1%·변연골소실(Marginal Bone Loss, MBL) 0.81 mm가 심미부위 즉시식립 인구 기준선; 배치×보철 타이밍 조합 간 MBL·유두·협측 유의차 없음(Yan) — Pommer 2021 무차이 결론을 SR 수준에서 재확인. Rieder 2014 RCT(n=48, 4군)는 조기배치+즉시보철(Early Placement + Immediate Restoration, EPIR)이 PES 유의 최고 — 방향성 신호지만 소규모.
+> - **부하 프로토콜 MBL 중립성 — SR+MA 기반 확인(Suarez 2012)**: 즉시/조기/관행부하 간 MBL 4쌍대비교 전부 유의차 없음 — Shibly 2010·Azarias 2025보다 이른 최초 풀링 확인. 신경지배 촉진(Huang 2014 SR: 부하 임플란트 = 비부하보다 높은 치주인대(Periodontal Ligament, PDL) 신경섬유밀도)이 즉시부하의 점막-치은 경계(Mucogingival Junction, MGJ) 위치 보존의 생물학적 근거.
+> - **구치부 즉시식립·부하 SR+MA(Atieh 2010)**: 즉시식립 99.0%·즉시부하 97.9% (구치부 전용, 2개 별도 분석) — Checchi 2017의 PES·변연골 불이 즉시식립의 생존 축까지 확장되지는 않음. 구치부에서 즉시식립 생존은 안전하나 심미는 별도 판단.
+> - **전악 즉시부하 파일럿 RCT(Markovic 2024)**: 즉시 vs 조기부하 2년 — ISQ 동등(p>0.268)·MBL 1mm 미만·생존 91.7%; 소규모 파일럿이지만 Azarias 2025 서술 합성에 1차 RCT 데이터 추가.
+> - **근거 한계**: 최신 이탈리아 컨소시엄 RCT 다수가 초록전용 — pooled 수치는 방향성으로 해석. 가장 약한 지점이 하필 임상적으로 가장 중요한 곳(즉시 vs 지연 effect size, 감염소켓 프로토콜, 장기 데이터).
 > - **임상 함의**: 생존율 논쟁의 실무 기준은 이제 Gallucci 2026 — Type 1A/1C는 검증된 고생존, **Type 1B(즉시식립+조기부하)는 피하거나 신중히**. 부위 특이성 확인(전치부 표준직경 vs 구치부 광경직경은 반대 결론). 감염소켓은 무외상·debridement·1차안정성 3요소 하에 선택적 시행. 전악 즉시부하는 중등도 안정성으로 가능, 부하 프로토콜은 배치 타이밍과 별개로 판단, 보철재료 선택은 골결과에 영향 없음, 환자 선호는 결정을 주도하지 않는다.
 
 ## Three-line Summary
@@ -125,6 +136,14 @@ Pommer 2021 cross-tabulated placement × loading timing for maxillary single-too
 
 Puisys 2022 (RCT, n=50, maxillary anterior, intact walls) independently confirms the same null-difference pattern at the individual-trial level: immediate placement + immediate provisionalization vs early placement + GBR + delayed loading produced statistically equivalent 1-year PES (12.8 vs 12.5, p=.362) and equivalent crestal bone change at both mesial and distal sites (p>.05); the only significant difference was a small mid-buccal mucosal *gain* for immediate placement (+0.2 mm, p=.047) — directional, not a recession risk. The clinically decisive difference in this trial was operational, not biological: immediate placement cut total chair time roughly in half (127 vs 259 min, p<.001). Read together with Checchi 2017 (Key Contribution 1), the pattern is that anterior single-tooth, intact-wall cases show timing-agnostic esthetics with an efficiency edge for immediate, while molar/wide-diameter cases show a real esthetic and bone-level cost to immediate placement — the site and implant selection, not a universal timing rule, determines which pattern applies.
 
+#### Esthetic zone SR-level anchors (older but foundational)
+
+**Slagter 2014** (SR, 34 studies, MEDLINE/EMBASE/CENTRAL to June 2013) provides the 1-year population-level baseline for esthetic-zone IIP: survival 97.1%, mean MBL 0.81 mm. Pooled regression identified 1° stability (insertion torque) and flapless technique as the two variables most consistently associated with lower complication rates; soft-tissue phenotype, gap grafting strategy, and provisional protocol were insufficiently standardized to pool. This is the anchor against which later RCT esthetic outcomes should be benchmarked. [확인]
+
+**Yan 2016** (SR+MA, 13 RCTs) cross-tabulated placement timing × restoration timing in the esthetic zone and found **no significant differences in MBL (mesial/distal/mean), papilla height, or mid-buccal level** across combinations — consistent with Pommer 2021 and Puisys 2022 at the SR level. Limitation: 13 RCTs is a small SR base for esthetic outcomes, and study heterogeneity was moderate. [확인]
+
+**Rieder 2014** (4-arm RCT, n=48, maxillary incisors) adds within-subject resolution. Early placement + immediate restoration (EPIR) produced **significantly higher PES than the other three groups at final restoration delivery**, suggesting that while the broad null (Yan, Pommer) holds across many combinations, a specific early-placement/immediate-restoration pairing may offer a within-RCT esthetic advantage. Directional, not definitive (small n, single outcome timepoint). [확인]
+
 ### 3. Marginal bone loss: early-then-stabilizing
 
 Zhang 2024 (5-yr, chronic apically infected posterior sites) shows the characteristic pattern: significant early remodeling placement→crown (−0.74 ± 1.03 mm, p<0.05) then a non-significant crawl crown→5 yr (−0.21 ± 0.70 mm, NS). Lang 2012 concurs: MBL mostly <1 mm, predominantly year 1; soft-tissue change concentrated in the first 3 months. Bone loss is not progressive — it is a front-loaded remodeling event.
@@ -146,6 +165,16 @@ The convergence across these five sources — two prospective cohorts, one SR+MA
 - **Azarias 2025** (narrative review, 15 full-arch immediate-loading studies): survival >93%, MBL <2 mm at 1 yr. Synthesized thresholds — immediate full-arch loading works with **moderate** primary stability (insertion torque 30–44 N·cm or ISQ ≥60), lower than the ≥45 N·cm typically asked for single immediately-loaded implants. Bergkvist 2009 loaded at mean ISQ 50.6 yet achieved 98.2% at 3 yr — the ISQ≥60 threshold may be conservative for full-arch splinted cases.
 - **Shibly 2010 (paired RCTs, n=60, periodontally compromised patients)** isolate *loading* protocol as a variable independent of *placement* timing — both papers start from implants already immediately placed into extraction sockets (with allograft + collagen membrane) and randomize only the loading protocol: immediate provisional loading vs conventional loading after 3 months submerged healing. At 1 year: survival 96.6% vs 93.3% (NS, p>0.5), bone gain 0.99 vs 0.75 mm (NS); at 2 years (companion paper, same/overlapping cohort): survival 96.7% vs 93.3%, bone gain 1.19 vs 1.00 mm (NS), papilla index equivalent. The one significant difference across both papers is soft-tissue: mucogingival junction coronal displacement was far more common with conventional (submerged) loading than immediate (transmucosal) loading (65% vs 15% of sites) — plausibly because the submerged protocol's flap/primary-closure step, absent from the transmucosal immediate protocol, drags the MGJ coronally. This is independent evidence, in a comorbid population, that immediate loading is not merely non-inferior but soft-tissue-favorable when the surgeon has already committed to immediate placement — a distinct decision layer from "should I place immediately at all."
 - **Aldebes 2022** (RCT, root-analogue zirconia, immediate flapless): crown material (PFM vs indirect composite) makes **no difference to marginal bone resorption** (all p>0.05; MBR 0.2–1.2 mm). Material choice is not a bone-level lever.
+
+#### Loading protocol MBL evidence — SR+MA-level (Suarez 2012) and molar-specific (Atieh 2010)
+
+**Suarez 2012** (SR+MA, 11 studies — 8 RCTs, 2 CCTs, 1 retrospective; searched to Nov 2011) ran four pairwise comparisons of immediate restoration/loading (IR/IL), early loading (EL), and conventional loading (CL): **none of the four comparisons reached a significant MBL difference** at any follow-up point (WMD all NS). This is the earliest meta-analytic confirmation that loading timing does not drive crestal bone loss, predating and reinforcing Shibly 2010 and Azarias 2025. Small pool, heterogeneous; directional consistency is the value here. [확인]
+
+**Huang 2014** (SR, 10 studies, 7 low / 3 medium quality) shows that **loaded implants consistently have higher peri-implant nerve fibre density** than unloaded implants or fresh extraction sites. Sensory re-innervation is present at both the bone-implant interface and peri-implant mucosa; loading accelerates the process compared with submerged healing. Provides the neurobiological rationale for why loaded implants may achieve better mucogingival positional stability (the Shibly 2010 MGJ finding has a biological correlate in accelerated innervation). [확인]
+
+**Atieh 2010** (SR+MA, two separate analyses on molar sites): immediate placement into fresh molar extraction sockets (9 studies, 1,013 implants) — survival **99.0%**, no significant between-group MBL; immediate restoration/loading of healed molar sites (7 studies, 188 implants) — survival **97.9%**, no significant MBL. Neither protocol produced inferior outcomes versus delayed. **Molar-specific evidence** that the high-survival, MBL-neutral pattern seen in anterior sites also holds for posterior sites — the Checchi 2017 esthetic/bone penalty for wide-diameter immediate placement does not appear to extend to the survival axis. [확인]
+
+**Markovic 2024** (pilot prospective RCT, n=24, 6 full-arch maxillary implants per patient): immediate vs early loading of immediately placed bone-level tapered implants over 2 years — ISQ dynamics equivalent (p>0.268), MBL submillimeter in both groups, cumulative survival 91.7%. Pilot-scale only (n=24); complements Azarias 2025's narrative synthesis with primary RCT data from a full-arch immediate-loading protocol. [확인]
 
 ### 6. Patient-reported outcomes: timing barely registers, except a fading full-arch signal
 
@@ -209,7 +238,13 @@ Narrative synthesis (no new pooling; heterogeneous designs). Base (27): 1 NMA (Q
 - [[immediate-implant/thoma-2026-timing-dental-implant-placement-past]] — Narrative review (Thoma, Jung; University of Zurich): ITI Type 1–4 survival benchmarks (Type 1: 95–98%, Type 2: 96–99%, Type 3: 97–99%, Type 4: >95%) and the shift toward AI + CBCT-guided individualized timing
 - [[immediate-implant/moy-2016-single-implants-dorsal-posterior-areas-sr]] — SR on single implants in posterior areas: survival rates and timing considerations (sr, 2016)
 - [[immediate-implant/molar-septum/atieh-2010-immediate-placement-loading-molar-implants-sr-ma]] — SR+MA on immediate implant placement and loading at molar sites; survival rates and marginal bone loss (sr+ma, 2010)
-- [[immediate-implant/loading-protocol/huang-2014-innervation-peri-implant-tissues-placement-loading-sr]] — SR on peri-implant tissue responses across placement and loading protocols; biological basis for timing decisions (sr, 2014)
+- [[immediate-implant/loading-protocol/huang-2014-innervation-peri-implant-tissues-placement-loading-sr]] — SR (10 studies): loaded implants show higher peri-implant nerve density; biological rationale for mucogingival preservation under immediate loading (sr, 2014)
+- [[immediate-implant/loading-protocol/suarez-2012-timing-restoration-implant-marginal-bone-loss-sr-ma]] — SR+MA (11 studies, 4 pairwise comparisons): IR/IL vs EL vs CL — no significant MBL difference; earliest pooled confirmation of loading-timing MBL neutrality (sr+ma, 2012)
+- [[immediate-implant/loading-protocol/markovic-2024-immediate-vs-early-loading-immediately-placed]] — Pilot RCT (n=24, full-arch maxillary, 2-yr): immediate vs early loading of immediately placed implants — ISQ equivalent, MBL submillimeter, survival 91.7% (rct, 2024)
+- [[immediate-implant/esthetic-soft-tissue/slagter-2014-immediate-placement-esthetic-zone-sr]] — SR (34 studies): esthetic-zone IIP 1-yr survival 97.1%, MBL 0.81 mm; insertion torque + flapless as the two poolable predictors of lower complications (sr, 2014)
+- [[immediate-implant/esthetic-soft-tissue/yan-2016-soft-hard-tissue-immediate-placement-restoration-esthetic]] — SR+MA (13 RCTs): placement × restoration timing combinations in esthetic zone — no significant MBL, papilla, or mid-buccal differences; consistent with Pommer 2021 null (sr+ma, 2016)
+- [[immediate-implant/esthetic-soft-tissue/rieder-2014-placement-restoration-timing-esthetic-outcome-rct]] — RCT (n=48, 4 arms): early placement + immediate restoration (EPIR) yielded significantly highest PES among four timing combinations (rct, 2014)
+- [[immediate-implant/molar-septum/atieh-2010-immediate-placement-loading-molar-implants-sr-ma]] — SR+MA (molar-specific, two analyses): immediate placement 99.0% survival (9 studies, 1,013 implants); immediate loading 97.9% (7 studies, 188 implants); no significant MBL differences — confirms high-survival pattern extends to molars (sr+ma, 2010)
 
 ## Related Overviews
 
