@@ -156,3 +156,4 @@ Both achieve equivalent survival; REP preferred when root elongation is the goal
 - [[endodontics/regenerative/zhou-2022-regenerative-endodontic-immature-teeth-trauma]] — trauma context + approach comparison
 - [[overviews/vital-pulp-therapy-decision-ladder]] — VPT for vital pulp preservation
 - [[overviews/endodontics-comprehensive-ladder]] — broader endodontics overview
+- [[endodontics/regenerative/zhan-2026-association-apical-maturity-clinical]] — SR+MA+DRMA (10편, 508치아): REP 임상성공 90%·생존 98%는 치근첨 성숙도와 무관하나, 치근첨 폐쇄 53%·치수활력 회복 21%로 낮고 DRMA상 직경 클수록 폐쇄율 감소; 임상성공 ≠ 진성 재생임을 강조 (sr-ma, 2026)
