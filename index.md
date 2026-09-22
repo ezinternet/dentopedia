@@ -19,6 +19,7 @@ tags: []
 - [[implants/full-arch/schwarz-2026-global-consensus-edentulous-maxilla-guidelines]] — Schwarz 2026 · consensus(S2k) · 상악 무치악 재활 1차 글로벌 컨센서스 — 34개 핵심결과물(COS: PRO 10/ClinRO 22/주관 2)에 매핑된 36개 권고안, 26국 105명 3라운드 델파이; 환자선정·진단·치료·합병증·유지 전 단계, 골막하·관골 포함, shared decision-making·보철주도 계획·위험기반 유지 · mismatch 접근 (DOI 10.1111/clr.70084)
 - [[implants/full-arch/fiorellini-2026-global-consensus-edentulous-maxilla-group3]] — Fiorellini 2026 · consensus · 상악 무치악 GCCG 그룹3 합의 — 고급 진단영상·증대술·합병증 관리 4개 권고(≥75% 합의, 68-88명 익명투표, S2k 틀), SR 2편+국제설문 기반; schwarz-2026 지침의 companion (DOI 10.1111/clr.70079)
 - [[implants/peri-implantitis/sbricoli-2026-peri-implant-disease-prevalence-type2-diabetes]] — Sbricoli 2026 · cross-sectional · 제2형 당뇨 vs 비당뇨 임플란트주위염 유병률 유의차 없음(51% vs 43%, 검정력 부족·치주병력 교란)
+- [[implants/peri-implantitis/li-2025-inflammatory-response-dental-implant-surgery]] — Li 2025 · retrospective · T2DM 146명 vs 대조 60명: PI 발생률 43.2%; 6개월 GCF TNF-α 2.8배·IL-6 3.1배·ISQ 65.88 vs 70.88; 고HbA1c·흡연·칫솔질 <1회/일 독립 위험인자
 - [[implants/peri-implantitis/smeets-2014-peri-implantitis-definition-etiology-review]] — Smeets 2014, peri-implantitis definition/etiology/prevention/treatment comprehensive review, prevalence up to 56%
 - [[implants/short-narrow/lee-2009-marginal-bone-single-short-implant]] — Lee 2009, short implant (<10mm) marginal bone changes 1-year follow-up, C:I ratio evaluation (n=40)
 - [[implants/survival/esimekara-2022-dental-implants-autoimmune-diseases-sr]] — Esimekara 2022 · sr · **자가면역질환 임플란트** SR(55편/9질환): 생존율 일반인과 동등, 단 2차 Sjögren·미란성 OLP서 peri-mucositis·골소실↑ (DOI 10.1016/j.jormas.2022.01.005)
@@ -1628,6 +1629,7 @@ tags: []
 - [[drug/mronj/koth-2017-clinical-radiographic-haematological-bisphosphonate-therapy]] — Koth 2017 (Dentomaxillofac Radiol) · 후향적: BRONJ vs 비-BRONJ BP 사용자 — ALP·ESR↑, 빈혈/백혈구증가, 흡연·발치력; 방사선상 잔존 발치와·골용해·골경화·하악관 협착; CTX/PTH/Ca/P는 군간차 없음
 - [[drug/systemic-disease/maftei-2021-salivary-markers-hba1c-type2-diabetes-extraction]] — Maftei 2021 (Antioxidants) · case-control(n=86, 건강 45 + T2DM 41): 타액 8종 마커(OPG/RANKL/HGF/TNF-α/IL-18/MMP-9/TOS/TAC) 발치 전·3개월 후 측정 — baseline RANKL/TNF-α/IL-18/MMP-9/TOS/OPG가 HbA1c>6.5% 예측(RANKL AUC 0.999), 발치 후 TOS r=+0.777·TAC r=−0.475; 타액=비침습 혈당/치유 지표
 - [[drug/systemic-disease/enteghad-2024-diabetes-mellitus-periodontal-periimplant-disease-review]] — Enteghad 2024 (narrative, Int Dent J): 당뇨↔치주/임플란트주위 양방향·인과; 중증도가 혈당조절(HbA1c)과 비례; 조절 당뇨서 임플란트 성공 가능
+- [[drug/systemic-disease/ahmad-2025-glucagon-like-peptide-1-receptor]] — Ahmad 2025 · narrative-review · GLP-1RA(엑세나타이드·리라글루타이드)가 혈당 독립적으로 치주 골재생·임플란트 골유착 촉진; Wnt/β-catenin+MAPK 기전; 유일 임상: GLP-1RA군 임플란트주위 골소실 인슐린·메트포민 대비 유의 감소
 - [[drug/systemic-disease/elhusseiny-2024-oral-health-children-chronic]] — Elhusseiny 2024 · narrative-review · 소아 만성콩팥병(CKD)/혈액투석/신이식 구강증상·치과관리 (CKD 신규 sub-topic, 소아 한정) (PMC full text)
 - [[drug/mronj/ufcd-2019-medically-complex-patients-management-guidelines]] — 임상 가이드라인(148쪽): 23개 전신질환 × 치과 관리 프로토콜; ASA 분류; 혈관수축제·항응고제·비스포스포네이트 프로토콜 (UF 치과대학)
 - [[drug/anticoagulants/gupta-2022-dental-management-cardiovascular-disease]] — 서술적 고찰: 고혈압·IHD·MI(30일 금기)·부정맥·IE·심부전·뇌졸중·박동기 치과 관리 + 약물 상호작용 표
@@ -3042,6 +3044,7 @@ tags: []
 ### drug (added 2026-05-28, batch f)
 
 - [[implants/survival/shahi-2026-implant-outcomes-diabetes-mellitus-sr]] — Shahriar Shahi 2026 · sr · BMC Oral Health article-in-press — DM and dental implant outcomes (successor to al-ansari-2022 MA; unedited version, full body pending publication)
+- [[implants/survival/abichandani-2026-time-varying-glycemic-control-long]] — Abichandani 2026 · retrospective · 782명 1312개 5.6년: HbA1c ≥8% → 5년 실패율 8.1%·PI 26.0% (HbA1c <7% 대비 2배); 비선형 dose-response, 8% 이상 기울기 급변
 - [[drug/mronj/kwon-2023-mronj-position-papers-what-changed]] — Tae-Geon Kwon 2023 (대한치과의사협회지) · narrative-review · AAOMS MRONJ 권고안 변천(2007 BRONJ→2014 MRONJ→2022 update) 해설; 2022 핵심 3변경: (1)정의에 면역조절제(Romosozumab) 추가 (2)수술 치료 전 stage(1·2·3) 확대 (3)수술 전 drug holiday 권고 삭제. ruggiero-2022 원문의 한국어 해석 레이어
 
 ### radiology (NEW category, added 2026-05-28, batch f)
@@ -3666,6 +3669,7 @@ tags: []
 
 ### implants/isq
 - [[implants/isq/diehl-2022-narrow-diameter-implant-stability-hyperglycemic]] — Prospective case–control (n=32, 48 narrow-diameter implants, 3 mo): 3.3 mm TiZr SLActive ISQ equivalent in T2DM vs normoglycemic (~64), no HbA1c–ISQ correlation [prospective]
+- [[implants/isq/sachelarie-2025-osteoporosis-diabetes-dental-implant]] — Sachelarie 2025 · prospective pilot · n=50(DM 21/OP 29): 6개월 ISQ DM 62.10 vs OP 67.04 (p=0.02); 12개월에 두 군 모두 유의 개선, ISQ 격차 축소
 - [[implants/isq/rosas-diaz-2023-rfa-mapping-nanostructured-hydroxyapatite]] — Weekly ISQ mapping over 20 wk for nanostructured hydroxyapatite surface (n=21): stability dip wk 2–3, recovery to baseline by wk 8–10 [prospective]
 - [[implants/isq/fu-2023-implant-stability-marginal-bone-level-pilot]] — 2-yr prospective pilot (n=156): bone density & insertion torque dominate MBL prediction; ISQ stabilizes after 6 mo, converges ~74–75 at 24 mo [prospective]
 - [[implants/isq/vilchez-2025-sla-slactive-split-mouth-rct]] — Split-mouth RCT (n=68); modified SLActive vs SLA Bone Level Tapered Roxolid; ISQ equivalent at placement (73.0 vs 72.3) and 8 weeks (75.5 vs 75.9); primary MBL change loading→12m no significant difference (0.04 vs 0.07 mm, p=0.658); 100% survival after loading both groups
