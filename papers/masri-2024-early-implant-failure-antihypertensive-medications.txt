@@ -1,0 +1,44 @@
+Title: Early Implant Failure in Patients Using Antihypertensive Medications: A Retrospective Cohort Study
+Authors: Daya Masri, Dror Bar-Hai, Hiba Masri-Iraqi, Adrian Kahn, Gavriel Chaushu, Liat Chaushu
+Journal: International Dental Journal, 2024; 75(2):1081-1087
+DOI: 10.1016/j.identj.2024.05.003
+PMID: 39030096
+PMCID: PMC11976476
+
+ABSTRACT
+Antihypertensive medications increase osteoblasts differentiation and bone mineral formation. Osseointegration of dental implants depends on new bone formation and remodelling. Consequently, improved osseointegration may be speculated in patients receiving antihypertensive drugs. Aim – Assess the effect of antihypertensive medications on osseointegration of dental implants.
+
+Retrospective cohort study. All individuals (792) who received at least one dental implant during a 6-year period at a single medical centre. The cohort was divided into three groups: normotensive (NT) 74.8% (593), hypertensive using antihypertensives (HTN+med) 23.4% (185), hypertensive NOT using antihypertensives (HTN-med) 1.8% (14). EIF defined as ≤12 months from loading.
+
+HTN-med group most likely to experience EIF: 28.60% (4/14 patients), p=.041. EIF in HTN+med group 9.70% (18/185 patients) significantly lower than NT group 14.50% (86/593), p=.047. Total 2971 implants: EIF 3.84%. HTN-med EIF rate 6.25% (4/64 implants), significantly higher than others (p<.001). HTN+med EIF rate 2.29% (18/784 implants) significantly less than NT group 4.33% (92/2123 implants), p=.01. Controlling age, gender and implant count: OR=0.618 (marginal significance p=.059).
+
+Antihypertensive medications may decrease the EIF rate of dental implants.
+
+KEY RESULTS
+- Total: 792 patients, 2971 implants, 2013-2018
+- Groups: NT 593 patients/2123 implants; HTN+med 185/784; HTN-med 14/64
+- EIF rate (implant level): overall 3.84%
+  - HTN+med: 2.29% vs NT 4.33% (p=.01)
+  - HTN-med: 6.25% (p<.001, highest failure)
+- EIF rate (patient level): HTN+med 9.70% vs NT 14.50% (p=.047)
+- HTN-med patient-level EIF: 28.60% — highest group
+- Multivariate OR for HTN+med vs NT: 0.618 (p=.059, marginal)
+- Most common medications: BB 61%, ACEi 41%, ARBs 21%, CCB 19%
+- Dual interpretation: HTN without medication = highest failure (28.6%); with medication = lowest (2.29%)
+
+METHODS
+- Retrospective cohort, Rabin Medical Center, Israel
+- Ethics: 0674-19 RMC
+- Inclusion: follow-up ≥12 months post-prosthetic loading, specialist OS surgeon
+- Exclusion: head/neck cancer, immune deficiency, heavy smoking (≥10 cig/10yr), ASA 4, malignant HTN
+- All antihypertensive drugs grouped together (BB + thiazides + ACEi + ARBs + CCBs)
+- AHT definition: any AHT medication for ≥1 year prior to implant surgery
+- Statistical: R 4.1.0 + RStudio; chi-square, Kruskal-Wallis, Bonferroni correction, multivariate logistic regression
+
+MECHANISTIC DISCUSSION
+- HTN → abnormal calcium metabolism → parathyroid activation → calcium mobilization from bone
+- AHT medications → positive bone effect (dual benefit): (1) eliminate HTN-induced negative bone effects, (2) directly improve bone metabolism
+- Beta-blockers: propranolol enhances bone healing and implant osseointegration in rat tibiae
+- ARBs: block angiotensin-II → RANKL on osteoblasts → reduces osteoclast activation
+- Thiazides: enhance calcium uptake, suppress PTH, stimulate osteoblast differentiation
+- RAAS inhibitors: reduce periodontal inflammation, increase alveolar bone volume
