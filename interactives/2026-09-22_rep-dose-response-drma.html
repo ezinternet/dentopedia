@@ -1,4 +1,4 @@
-<title>REP Dose-Response</title>
+<title>재생근관치료 치근첨 직경 반응 곡선</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,300;0,400;0,500;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
 
 <style>
@@ -17,36 +17,6 @@
   --tip-bg:   rgba(16,22,38,0.92);
   --font:     'IBM Plex Sans', system-ui, -apple-system, sans-serif;
   --mono:     'IBM Plex Mono', 'Courier New', monospace;
-}
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) {
-    --bg:       #0F1523;
-    --surface:  #182030;
-    --border:   #253047;
-    --text:     #DDE3F0;
-    --muted:    #7B86A0;
-    --cs:       #5A98EC;
-    --ac:       #E8754A;
-    --cs-ci:    rgba(90,152,236,0.12);
-    --ac-ci:    rgba(232,117,74,0.12);
-    --gap-fill: rgba(180,190,220,0.04);
-    --grid:     rgba(160,175,210,0.07);
-    --tip-bg:   rgba(6,10,22,0.94);
-  }
-}
-:root[data-theme="dark"] {
-  --bg:       #0F1523;
-  --surface:  #182030;
-  --border:   #253047;
-  --text:     #DDE3F0;
-  --muted:    #7B86A0;
-  --cs:       #5A98EC;
-  --ac:       #E8754A;
-  --cs-ci:    rgba(90,152,236,0.12);
-  --ac-ci:    rgba(232,117,74,0.12);
-  --gap-fill: rgba(180,190,220,0.04);
-  --grid:     rgba(160,175,210,0.07);
-  --tip-bg:   rgba(6,10,22,0.94);
 }
 
 * { box-sizing: border-box; }
@@ -565,11 +535,5 @@ svg.chart { display: block; width: 100%; height: auto; overflow: visible; }
   render();
   setupHover();
 
-  const mo = new MutationObserver(render);
-  mo.observe(document.documentElement, { attributes: true, attributeFilter: ['data-theme'] });
-
-  if (window.matchMedia) {
-    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', render);
-  }
 })();
 </script>
