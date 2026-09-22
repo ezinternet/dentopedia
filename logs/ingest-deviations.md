@@ -414,3 +414,4 @@ Logged by subagents at deviation time. `deviation-audit.py` flags types with ≥
 | 2026-09-22 | malentacca-2026-cuspal-coverage-direct-resin-composite-cracked | abstract-only | No PMC full text; page built from structured abstract only |
 | 2026-09-22 | wu-2026-prediction-pulpal-sequelae-machine-learning-cracked | abstract-only | No PMC full text; page built from structured abstract only |
 | 2026-09-22 | deng-2026-occlusal-morphology-cracked-teeth-3d-morphometric | abstract-only | No PMC full text; page built from structured abstract only |
+| 2026-09-22 | guler-2013-resonance-frequency-analysis-straumann-dental | abstract-only | subscription journal, built from abstract only (PMID 22103915) |
