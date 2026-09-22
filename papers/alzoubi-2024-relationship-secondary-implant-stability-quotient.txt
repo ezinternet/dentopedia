@@ -1,0 +1,1483 @@
+TITLE: The relationship between the secondary implant stability quotient and oxidized implant-related factors: A retrospective study
+AUTHORS: Alzoubi
+Fawaz
+a
+⁎⁎
+Alhumaidan
+Abdulkareem Abdullah
+b
+AlRumaih
+Hamad Saleh
+c
+Alqarawi
+Firas Khalid
+c
+Omar
+Omar
+d
+⁎
+
+ABSTRACT:
+Abstract
+Objective
+The present retrospective study aimed to determine the relationship between the secondary implant stability quotient and different parameters related to an oxidized implant.
+Methods
+A total of 135 patients (305 oxidized implants) were included. Implant-related factors (length, diameter, surgical and loading protocols, grafting, insertion torque, and primary stability) were used for comparisons and linear regression analyses, using secondary ISQ as the dependent variable.
+Results
+At the patient level, the mean time from implantation to secondary ISQ registration was 20.3 ± 29 weeks, and the mean secondary ISQ was 77.30 ± 7.22. The ISQ did not reveal significant differences regarding implant lengths, loading protocol, and simultaneous grafting. In contrast, platform diameters (3.5, 4.3, and 5.0), surgical protocols (one stage versus two stages), insertion torque (&lt;35 Ncm versus &gt;35 Ncm), and primary stability (achieved versus not achieved) all revealed significant secondary ISQ differences. Nevertheless, the regression analysis demonstrated that the platform diameter was the only variable significantly and positively predicted the secondary ISQ. Similar findings were found with the implant level analysis.
+Conclusions
+Among different implant- and protocol-related parameters, the platform diameter of the oxidized implant appears to be the only significant predictor of high secondary ISQ values at the time of superstructure connection.
+Keywords:
+Resonance frequency analysis, Dental implants, Osseointegration, Implant design, Regression analysis
+
+BODY:
+1.
+Introduction
+Osseointegrated dental implants represent a well-documented and highly successful treatment for edentulous patients [
+[1]
+,
+[2]
+,
+[3]
+]. The definition of osseointegration has evolved from “A direct contact between living bone and implant at the light microscopic level” [
+4
+] – reflecting the histological picture – to “A structural and functional connection between ordered living bone and the surface of load-carrying implant” [
+5
+] – incorporating the loading condition into the definition. Eventually, the definition was revised to “The stable anchorage of an implant achieved by direct bone-to-implant contact” [
+6
+], which attributes the implant stability to the histological picture of a direct interface between an implant and bone.
+Clinically, these definitions translate into an absence of mobility or, in other words, a functionally stable implant in the recipient bone [
+7
+,
+8
+]. Implant stability is further classified into primary and secondary, based on the time from implant installation to the establishment and maintenance of osseointegration [
+9
+,
+10
+]. Primary stability is recorded at the time of installation, and it is considered merely a physical phenomenon comprising the frictional contact between the implant and the recipient bone [
+11
+]. Over time, the osseointegration process evolves, governed by a series of biological events consisting of an initial inflammatory response and consecutive phases of bone formation and remodeling [
+12
+,
+13
+]. These events account for the gradual reduction in primary stability and the subsequent replacement with the secondary biological stability dependent on the deposition and maintenance of a mature bone onto the surface of the titanium implant [
+12
+].
+Over the history of osseointegration, several methods have been used to evaluate implant stability, from the clinical perception of resistance during implant insertion, through judgments based on percussion tests, reverse and insertion torques, and eventually via the application of the damping capacity assessment (periotest) and the resonance frequency analysis [
+9
+,
+14
+]. Among all these, RFA has become the most acceptable and widely used technique for the clinical measurement of oral implant stability, accredited mainly to its objectivity, simplicity, and noninvasiveness [
+15
+,
+16
+]. In principle, RFA-based devices use a piezoelectric transducer emitting magnetic pulses to a magnetic peg that is screwed into the implant to make it vibrate [
+14
+,
+17
+]. The implant resistance to such vibration is converted and expressed as an Implant Stability Quotient (ISQ) on a scale of 1–100, with the higher the values reflecting the higher the stability.
+Resonance frequency analysis applies a bending force and measures the stiffness of the implant-bone junction rather than the level of implant-bone contact [
+18
+,
+19
+]. Hence, RFA is affected mainly by the bone density surrounding the implant, where the denser the recipient bone is, the higher ISQ values of primary stability [
+19
+]. Extensive research explored the effects of implant- and procedure-related factors on the secondary ISQ measurements (secondary stability). These include the implant location and bone quality [
+[20]
+,
+[21]
+,
+[22]
+,
+[23]
+], surgical procedures [
+[24]
+,
+[25]
+,
+[26]
+], insertion torque [
+[27]
+,
+[28]
+,
+[29]
+], loading protocol [
+20
+,
+30
+,
+31
+], need for grafting [
+32
+], and implant surface, design and dimensions [
+20
+,
+[33]
+,
+[34]
+,
+[35]
+,
+[36]
+,
+[37]
+,
+[38]
+]. However, variable and sometimes contradictory results have been reported, suggesting that only some factors may influence the secondary ISQ results. Moreover, a limitation is that most studies have mainly used comparative or simple univariate correlational approaches [
+39
+,
+40
+], which do not consider the confounding effects of the different parameters on the secondary stability. Using implants with variable designs and surfaces represents another consideration, which limits cross-comparisons and generalization of the findings for each specific implant type.
+Nowadays, oral implant surfaces are modified to promote faster and stronger fixation in the recipient bone. Anodic oxidation is a widely used surface modification strategy, which imposes an electrical flow between a titanium specimen and an electrode in an electrolyte, leading to anodic oxidation of the titanium specimen. The anodic oxidation of titanium implants can be conducted at low voltage, below the dielectric breakdown limit (potentiostatic method), or at high voltage (spark anodization), usually above 100 V (galvanostatic method) [
+41
+]. The principal aim of the anodic technique is to remove the native thin oxide layer and associated contaminants and to grow a tailored surface oxide layer with various properties. Hence, by controlling several parameters (including voltage, current, electrolyte, the addition of ions, PH, and temperature), oxidized titanium surfaces are obtained, with different micron and submicron porosities, varied surface oxide thicknesses, crystalline structure, and selected ion contents [
+41
+,
+42
+]. A prime example of commercially available oxidized implants is the TiUnite (NobelBiocare), characterized by a thick oxide layer (1–10 μm) that is moderately rough (Sa 1–1.5 μm), porous (0.06–12 μm surface porosity), crystalline (anatase and rutile phases), and contains phosphorus ion (3–6 At%) [
+[42]
+,
+[43]
+,
+[44]
+]. Previous experimental studies demonstrated that implants with anodically oxidized surfaces attenuate the initial inflammatory response and accelerate and enhance early coupled bone formation and remodeling at the interface [
+12
+,
+13
+,
+44
+,
+45
+]. These surface-driven events resulted in a higher proportion of mature, well-remodeled bone in contact with the surface and a higher degree of biomechanical stability and integration than machined implants [
+44
+,
+45
+]. The above-mentioned experimental findings [
+12
+,
+13
+,
+44
+,
+45
+] corroborate clinical studies in which oxidized implants have been shown to promote successful, faster, and more predictable osseointegration, even under local or systemic bone-compromising conditions [
+[46]
+,
+[47]
+,
+[48]
+,
+[49]
+]. Therefore, an implant with an oxidized surface and a unified geometrical design would provide a standardized system to pinpoint specific factors that may influence the secondary ISQ values, particularly after the early healing period.
+Resonance frequency analysis has been unquestionably unique and instrumental in assessing the primary implant stability and during clinical follow-up after implantation. It has also played an essential role in the decision-making for the immediate versus delayed loading protocol [
+19
+]. However, there is no consensus on the extent to which the factors mentioned above differ in their effect on the secondary ISQ values. This information will be valuable for appropriate case selection, the surgical procedure, and the loading protocol, at least for a specific type of dental implant. This retrospective clinical study aimed to determine the relationship between secondary implant stability, as measured by ISQ, and different parameters related to an oxidized implant. We hypothesized that using a multivariate regression model and a unified implant type would allow us to determine the influential effects of different implant- and protocol-related parameters on the secondary ISQ values while controlling for potential confounding effects among these factors or other patient-related factors.
+2.
+Materials and methods
+The present retrospective study conforms with the Helsinki Declaration for patients participating in clinical studies. The study was conducted under ethical approvals from the Kuwait University Health Sciences Center Ethical Committee (VDR/EC/3676/2020) and the institutional review board (IRB) at Imam Abdulrahman bin Faisal University (IRB-2021-02-494). The study followed the STROBE guidelines for observational cohort studies.
+Electronic charts of patients who received implants at Kuwait University Dental Center from 2016 to 2020 were reviewed. Patients (age between 21 and 90) and implants fulfilling the following inclusion criteria were selected for further evaluation: all implants were placed by the same primary investigator (1st author); all implants were anodically oxidized (Tiunite) and with tapered design (NobelReplace) and conical connection (NobelReplace Conical Connection; Nobel Biocare AG, Zurich, Switzerland); patients categorized as ASA1 and ASA2; non-smoker and smoker (&gt;10 cigarettes/day) as well as normoglycemic (HbA1C value &lt; 5.7 %) or diabetic (but HbA1C value &lt; 8 %) patients were included; patients with no absolute contraindications for implant therapy and patients who received RFA tests at the time of superstructure connection. On the other hand, the following exclusion criteria were used: patients who received extensive bone grafting before implant placement; patients with significant medical conditions that influence the process of healing; patients who did not receive an RFA test at the time of superstructure connection; and patient who were exposed to radiation therapy in the head and neck region.
+All RFA measurements of the secondary implant stability were performed by the PI (1st author) at the time of superstructure connection, using 3rd generation Osstell™ (Osstell IDx; Osstell, Gothenburg, Sweden). Seven implant- and protocol-related factors were investigated in this study: Implant length (8.0 mm; 10.0 mm; 11.5 mm; 13.0 mm), platform diameter (3.5 mm; 4.3 mm; 5.0 mm), loading protocol (immediate loading; delayed loading), surgical protocol (one stage; two stages), need for simultaneous grafting procedure (non-grafted; grafted), achievement of primary stability (absence of detectable mobility upon implant insertion) (achieved; not achieved) [
+50
+] and insertion torque (&lt;35Ncm; &gt;35Ncm) [
+51
+,
+52
+].
+2.1.
+Data management and statistical analysis
+Power and sample sizes were determined based on the standardized mean of ISQ values reported in a previous relevant study [
+53
+], using G∗Power software for sample size calculation (G Power, version 3.1.9.7). For a type I error of 5 %, an effect size of 0.15, and a power of 80 %, a sample size of at least 270 implants (for implant level) and 100 patients (for patient level) was required. The final sample size was increased to 305 implants and 135 patients to account for potential missing data. The differences in the ISQ values were determined using the Mann–Whitney
+U
+test or the Kruskal–Wallis test. A multivariate linear regression model was employed to assess the relationship between the implant-related factors and the ISQ values while adjusting for the recorded patient-related factors (age, gender, smoking, diabetes, healing time, and implantation site). Data was analyzed at the patient level and implant level. For patient-level analysis, one implant was blindly selected from each patient having more than one implant. The blinded selection was performed by masking the ISQ result column in the Excel data file. Hence, our statistical analysis of the patient-level data was not based on the implants’ mean for a patient with more than one implant. Statistics were performed using SPSS 26.0 (IBM Corp., Armonk, NY, USA). Graphical data (frequency charts and boxplots) were generated using GraphPad Prism software, Version 9.0.
+3.
+Results
+A total of 135 patients who had received 305 implants were included, with frequencies and percentages of distribution of implants per patient as follows: single implant (59 patients; 44 %), two implants (38 patients; 28 %), three implants (14 patients; 10 %), four implants (13 patients; 10 %), five implants (3 patients; 2 %), six implants (5 patients; 4 %), seven implants (1 patient; 1 %), 11 implants (1 patient; 1 %) and 13 implants (1 patient; 1 %).
+3.1.
+Patient-level
+Table 1
+presents the demographic characteristics of the study population. The mean follow-up time from implantation to secondary ISQ registration was 20.29 ± 8.83 weeks (median = 18 weeks; range 7–55 weeks) (
+Table 1
+). The population consisted of 63 % females and 37 % males; 18 % were smokers, and 16 % were diabetic (diagnosed diabetes with HbA1C &lt;8 %). About 44 % of the implants were placed in the maxilla, and 81 % were in the posterior location. Among all quadrants, the highest percentage of received implants was in the posterior mandible (50 %), followed by the posterior maxilla (32 %) (
+Table 1
+).
+Table 1
+Study demographics.
+Table 1
+Continuous variables
+Patient-level
+Implant-level
+Mean (STDEV) [Range]
+Mean (STDEV) [Range]
+Age
+47.10 (15.17) [
+[22]
+,
+[23]
+,
+[24]
+,
+[25]
+,
+[26]
+,
+[27]
+,
+[28]
+,
+[29]
+,
+[30]
+,
+[31]
+,
+[32]
+,
+[33]
+,
+[34]
+,
+[35]
+,
+[36]
+,
+[37]
+,
+[38]
+,
+[39]
+,
+[40]
+,
+[41]
+,
+[42]
+,
+[43]
+,
+[44]
+,
+[45]
+,
+[46]
+,
+[47]
+,
+[48]
+,
+[49]
+,
+[50]
+,
+[51]
+,
+[52]
+,
+[53]
+,
+[54]
+,
+[55]
+,
+[56]
+,
+[57]
+,
+[58]
+,
+[59]
+,
+[60]
+,
+[61]
+,
+[62]
+,
+[63]
+,
+[64]
+,
+[65]
+,
+[66]
+,
+[67]
+,
+[68]
+,
+[69]
+,
+[70]
+,
+[71]
+,
+[72]
+,
+[73]
+,
+[74]
+,
+[75]
+,
+[76]
+,
+[77]
+,
+[78]
+,
+[79]
+]
+47.10 (15.17) [
+[22]
+,
+[23]
+,
+[24]
+,
+[25]
+,
+[26]
+,
+[27]
+,
+[28]
+,
+[29]
+,
+[30]
+,
+[31]
+,
+[32]
+,
+[33]
+,
+[34]
+,
+[35]
+,
+[36]
+,
+[37]
+,
+[38]
+,
+[39]
+,
+[40]
+,
+[41]
+,
+[42]
+,
+[43]
+,
+[44]
+,
+[45]
+,
+[46]
+,
+[47]
+,
+[48]
+,
+[49]
+,
+[50]
+,
+[51]
+,
+[52]
+,
+[53]
+,
+[54]
+,
+[55]
+,
+[56]
+,
+[57]
+,
+[58]
+,
+[59]
+,
+[60]
+,
+[61]
+,
+[62]
+,
+[63]
+,
+[64]
+,
+[65]
+,
+[66]
+,
+[67]
+,
+[68]
+,
+[69]
+,
+[70]
+,
+[71]
+,
+[72]
+,
+[73]
+,
+[74]
+,
+[75]
+,
+[76]
+,
+[77]
+,
+[78]
+,
+[79]
+]
+Time
+20.29 (8.83) [
+[7]
+,
+[8]
+,
+[9]
+,
+[10]
+,
+[11]
+,
+[12]
+,
+[13]
+,
+[14]
+,
+[15]
+,
+[16]
+,
+[17]
+,
+[18]
+,
+[19]
+,
+[20]
+,
+[21]
+,
+[22]
+,
+[23]
+,
+[24]
+,
+[25]
+,
+[26]
+,
+[27]
+,
+[28]
+,
+[29]
+,
+[30]
+,
+[31]
+,
+[32]
+,
+[33]
+,
+[34]
+,
+[35]
+,
+[36]
+,
+[37]
+,
+[38]
+,
+[39]
+,
+[40]
+,
+[41]
+,
+[42]
+,
+[43]
+,
+[44]
+,
+[45]
+,
+[46]
+,
+[47]
+,
+[48]
+,
+[49]
+,
+[50]
+,
+[51]
+,
+[52]
+,
+[53]
+,
+[54]
+,
+[55]
+]
+20.32 (9.05) [
+[5]
+,
+[6]
+,
+[7]
+,
+[8]
+,
+[9]
+,
+[10]
+,
+[11]
+,
+[12]
+,
+[13]
+,
+[14]
+,
+[15]
+,
+[16]
+,
+[17]
+,
+[18]
+,
+[19]
+,
+[20]
+,
+[21]
+,
+[22]
+,
+[23]
+,
+[24]
+,
+[25]
+,
+[26]
+,
+[27]
+,
+[28]
+,
+[29]
+,
+[30]
+,
+[31]
+,
+[32]
+,
+[33]
+,
+[34]
+,
+[35]
+,
+[36]
+,
+[37]
+,
+[38]
+,
+[39]
+,
+[40]
+,
+[41]
+,
+[42]
+,
+[43]
+,
+[44]
+,
+[45]
+,
+[46]
+,
+[47]
+,
+[48]
+,
+[49]
+,
+[50]
+,
+[51]
+,
+[52]
+,
+[53]
+,
+[54]
+,
+[55]
+,
+[56]
+,
+[57]
+,
+[58]
+,
+[59]
+,
+[60]
+,
+[61]
+,
+[62]
+,
+[63]
+]
+Dichotomous/categorical variables
+Patient-level
+Implant-level
+N
+(%)
+∗
+n
+(%)
+#
+Gender
+Male
+50 (37 %)
+127 (42 %)
+Female
+85 (63 %)
+178 (58 %)
+Smoking
+No
+111 (82 %)
+228 (75 %)
+Yes
+24 (18 %)
+77 (25 %)
+Diabetes
+No (HbA1C&lt;5.7 %)
+114 (84 %)
+242 (79 %)
+Yes (HbA1C&lt;8 %)
+21 (16 %)
+63 (21 %)
+Jaw
+Maxilla
+60 (44 %)
+134 (44 %)
+Mandible
+75 (56 %)
+171 (56 %)
+Location
+Anterior
+25 (19 %)
+52 (17 %)
+Posterior
+110 (81 %)
+253 (83 %)
+Quadrant
+Anterior maxilla
+17 (13 %)
+34 (11 %)
+Posterior maxilla
+43 (32 %)
+100 (33 %)
+Anterior mandible
+8 (6 %)
+18 (6 %)
+Posterior mandible
+67 (50 %)
+153 (50 %)
+∗
+N
+and percentages (%) refer to number of patients in each dichotomous/categorical variable.
+∗
+n
+and percentages (%) refer to number of implants in each dichotomous/categorical variable.
+Concerning the implant dimensions, the 10.0 mm long implants represented 51 %, whereas the lowest percent was the 13 mm long (4 %) (
+Table 2
+). Implants with a 4.3 mm diameter constituted 36 %, whereas 3.5 mm and 5.0 mm represented 30 % and 35 %, respectively (
+Table 2
+). Regarding the implantation procedure and loading protocol, 72 % were placed using a two-stage procedure, and 73 % had a delayed loading protocol. Simultaneous grafting was used in 59 % of all patients (
+Table 2
+). At the implantation time, 72 % of implants demonstrated an insertion torque &gt;35 Ncm, and primary stability was achieved in 85 % of the patients (
+Table 2
+).
+Table 2
+Implant-related variables and the corresponding Implant Stability Quotient (ISQ) values presented at patient and implant levels. Statistical significance P-value is presented according to the Kruskal-Wallis test (for multiple-group comparisons) and Mann-Whitney
+U
+test (for two-group comparisons).
+Table 2
+Variables
+Patient-level
+Implant-level
+N (%) ∗
+ISQ (SD)
+P-value
+n (%)
+#
+ISQ (SD)
+P-value
+Platform diameter
+3.5 mm
+40 (30 %)
+72.09 (6.46)
+&lt;0.0001
+71 (23 %)
+72.78 (7.72)
+&lt;0.0001
+4.3 mm
+48 (36 %)
+78.00 (6.75)
+141 (46 %)
+77.82 (6.88)
+5.0 mm
+47 (35 %)
+81.01 (5.61)
+93 (31 %)
+79.46 (6.52)
+Implant length
+8.0 mm
+21 (16 %)
+79.98 (6.95)
+0.07
+55 (18 %)
+77.47 (8.15)
+0.59
+10.0 mm
+69 (51 %)
+77.61 (7.02)
+160 (52 %)
+77.18 (7.44)
+11.5 mm
+39 (29 %)
+76.03 (7.35)
+82 (27 %)
+77.12 (6.86)
+13.0 mm
+6 (4 %)
+72.58 (7.17)
+8 (3 %)
+74.56 (7.09)
+Surgical protocol
+One stage
+38 (28 %)
+79.54 (7.39)
+0.006
+87 (29 %)
+78.71 (7.97)
+0.002
+Two stages
+97 (72 %)
+76.42 (6.99)
+218 (71 %)
+76.53 (7.08)
+Loading protocol
+Immediate
+36 (27 %)
+76.93 (5.43)
+0.28
+71 (23 %)
+76.60 (6.08)
+0.12
+Delayed
+99 (73 %)
+77.43 (7.79)
+234 (77 %)
+77.32 (7.76)
+Grafting
+No
+55 (41 %)
+77.79 (7.82)
+0.33
+123 (40 %)
+78.46 (7.31)
+0.01
+Yes
+80 (59 %)
+76.96 (6.80)
+182 (60 %)
+76.27 (7.35)
+Insertion torque
+&lt;35 Ncm
+38 (28 %)
+74.59 (6.89)
+0.001
+94 (31 %)
+76.03 (6.74)
+0.007
+&gt;35 Ncm
+97 (72 %)
+78.36 (7.10)
+211 (69 %)
+77.65 (7.64)
+Primary stability
+Not Achieved
+20 (15 %)
+73.43 (5.70)
+0.001
+43 (14 %)
+74.88 (6.11)
+0.003
+Achieved
+115 (85 %)
+77.97 (7.26)
+262 (86 %)
+77.52 (7.54)
+∗N and percentages (%) refer to number of patients in each dichotomous/categorical variable.
+∗
+n
+and percentages (%) refer to number of implants in each dichotomous/categorical variable.
+The effect of the implant-related factors on secondary ISQ values at the patient level was first evaluated individually using comparative analysis (
+Fig. 1
+,
+Fig. 2
+,
+Fig. 3
+). The mean endpoint ISQ for the 135 patients was 77.30 ± 7.22. There were no significant differences in the ISQ values neither between the different implant lengths (P = 0.07) (
+Fig. 1
+A) nor between the immediate and delayed loading protocols (P = 0.28) (
+Fig. 2
+A). The grafting versus no grafting procedures (
+Fig. 3
+A–E) did not reveal significant difference at the patient level (P = 0.33) (
+Fig. 3
+F). All other evaluated parameters revealed statistically significant differences. The platform diameter demonstrated the most robust significant difference (P &lt; 0.0001) (
+Fig. 1
+B), where the diameter of 3.5 mm had significantly lower ISQ values as compared to 4.3 mm (P = 0.0002) and 5.0 mm (P &lt; 0.0001) diameters. The difference between 4.3 mm and 5.0 mm diameters was insignificant (P = 0.06). Further, the one-stage protocol was associated with significantly higher ISQ as compared to the two-stage protocol (P = 0.006) (
+Fig. 2
+B). Implants that achieved primary stability (
+Fig. 2
+C) and implants that were inserted with &gt;35 Ncm torque (
+Fig. 2
+D) showed significantly higher secondary ISQ compared with implants that did not achieve primary stability (P = 0.001) and implants inserted with &lt;35 Ncm torque (P = 0.001), respectively.
+Fig. 1
+Implant platform diameter and implant length. The graphs show the frequency distribution and the corresponding boxplot of Implant Stability Quotient (ISQ) values regarding (A) the implant lengths (8, 10, 11.5, and 13 mm), and (B) platform diameter (3.5, 4.3, and 5.0 mm), presented at the patient level (N = 135). Statistical comparisons were performed using the Kruskal-Wallis test, followed by the Mann-Whitney
+U
+test. (∗∗∗∗) indicate the statistically significant differences (P &lt; 0.0001); (∗∗∗) indicate the statistically significant differences (P &lt; 0.001); ns: not significant.
+Fig. 1
+Fig. 2
+Protocols and primary stability. The graphs show the frequency distribution and the corresponding boxplot of Implant Stability Quotient (ISQ) values regarding (A) the loading protocol (delayed loading vs. immediate loading), (B) the surgical protocol (one stage vs. two stages), (C) the primary stability (achieved vs. not achieved), and (D) the insertion torque (below 35 Ncm vs. above 35 Ncm), presented at the patient level (N = 135). Statistical comparisons were performed using the Mann-Whitney
+U
+test. (∗∗) indicate the statistically significant differences (P &lt; 0.01); ns: not significant.
+Fig. 2
+Fig. 3
+Grafting procedure. The upper panel shows selected images of implant placement with simultaneous grafting procedure (A) and resonance frequency analysis (RFA) of the same implant after the early healing phase at the time of superstructure connection. The apical radiographs show an example implant placed using a two-stage procedure and delayed loading at the time of placement (C), after the early healing phase (D), and after loading (E). The lower panel graphs show the frequency distribution and the corresponding boxplot of Implant Stability Quotient (ISQ) values regarding the grafting procedure (grafting vs. no grafting), presented at the patient level (N = 135). Statistical comparisons were performed using the Kruskal-Wallis test, followed by the Mann-Whitney
+U
+test. ns: not significant.
+Fig. 3
+A hierarchical multivariate linear regression model was built to determine the most significant predictor(s) for the secondary ISQ values (
+Table 3
+). The hierarchical multivariate regression was performed with two consecutive blocks of variables to adjust for the registered patient-related factors. The first block included the patient-related factors to be adjusted for (age, gender, diabetes, smoking, healing time, and implantation locations). The second block added the implant- and procedure-related factors (implant diameter, implant length, surgical protocol, loading protocol, simultaneous grafting, insertion torque, and primary stability) as the variables of interest and presented the final model after adjustment.
+Table 3
+Multivariate linear regression analysis. The analysis was conducted to determine the relationship between the Implant Stability Quotient (ISQ) as the dependent variable and the analyzed implant-related factors as the independent variables.
+Table 3
+Block
+Variables
+Patient level
+Implant level
+B
+SE
+P
+Adj R
+2
+B
+SE
+P
+Adj R
+2
+1
+age (years)
+−0.06
+0.04
+0.17
+0.12
+−0.01
+0.03
+0.74
+0.06
+Gender (Male; Female)
+1.20
+1.43
+0.40
+0.17
+1.10
+0.87
+Diabetes (No; Yes)
+0.58
+0.74
+0.19
+0.39
+1.13
+0.73
+Smoking (No; Yes)
+−1.66
+0.81
+0.44
+−1.59
+0.77
+0.11
+Healing time (weeks)
+0.10
+0.07
+0.13
+0.09
+0.05
+0.06
+Implant location (Mandible; Maxilla)
+−2.94
+1.21
+0.01
+−2.09
+0.85
+0.01
+Implant location (Anterior; Posterior)
+4.73
+1.61
+0.003
+3.42
+1.16
+0.003
+2
+age (years)
+−0.04
+0.04
+0.32
+0.25
+−0.01
+0.03
+0.80
+0.11
+Gender (Male; Female)
+1.54
+1.36
+0.26
+0.59
+1.13
+0.60
+Diabetes (No; Yes)
+0.73
+1.66
+0.66
+0.59
+1.11
+0.80
+Smoking (No; Yes)
+−1.28
+1.71
+0.96
+−1.18
+1.27
+0.35
+Healing time (weeks)
+0.10
+0.06
+0.11
+0.08
+0.05
+0.09
+Implant location (Mandible; Maxilla)
+−0.39
+1.24
+0.75
+−1.68
+0.85
+0.05
+Implant location (Anterior; Posterior)
+0.45
+1.77
+0.80
+0.84
+1.27
+0.51
+Implant diameter (3.5; 4.3; 5.0)
+5.25
+1.17
+&lt;0.0001
+4.28
+0.87
+&lt;0.0001
+Implant length (8.0; 10.0; 11.5; 13.0)
+−0.12
+0.52
+0.80
+−0.42
+0.33
+0.73
+Surgical protocol (1 stage; 2 stages)
+−1.33
+1.42
+0.35
+−0.83
+1.07
+0.44
+Loading protocol (immediate; delayed)
+0.75
+1.41
+0.59
+0.07
+1.06
+0.50
+Simultaneous grafting (no; yes)
+0.26
+1.33
+0.85
+−0.90
+0.99
+0.36
+Insertion torque (&lt;35Ncm; &gt;35Ncm)
+0.10
+1.74
+0.95
+0.71
+1.15
+0.54
+Primary stability (not achieved; achieved)
+3.07
+2.11
+0.15
+2.54
+1.46
+0.08
+Block 1 presents the patient-related factors (age, gender, diabetes, smoking, healing time, and implantation locations) that were adjusted for, whereas block 2 presents the final model after the adjustment. Significant relationship in the final model is highlighted in bold fonts.
+Based on the regression analysis, the implant platform diameter was the only significant predictor for ISQ (B = 5.25 ± 1.03; P &lt; 0.0001) after adjusting for the patient's related factors. The model's predictability was relatively high at the patient level, with an adjusted R square value of 0.25 (explaining 25 % of the variance in the ISQ values) (
+Table 3
+). The remaining regression analysis data, including the prior bivariate correlation and ANOVA, are provided in the Supplementary Information (
+Supplementary Tables S1, S3, and S4
+).
+3.2.
+Implant-level
+Table 1
+presents the study demographic characteristics at the implant level, showing that 58 % and 42 % of implants were placed in female and male subjects, respectively. Non-smokers and normoglycemic patients received 75 % and 79 % of the total number of implants, respectively. Further, 56 % of all implants were placed in the mandible, and 83 % were placed in the posterior area. The frequency distribution of the implants was as follows: 50 % in the posterior mandible, 33 % in the posterior maxilla, 11 % in the anterior maxilla, and 6 % in the anterior mandible (
+Table 1
+).
+Concerning the implant dimensions, the 10.0 mm long implants represented 52 %, whereas the lowest percentage was the 13 mm long (3 %) (
+Table 2
+). The frequencies of implant platform diameters were 23 %, 46 %, and 31 % for the 3.5-, 4.3- and 5.0-mm diameters, respectively (
+Table 2
+). Regarding the implantation procedure and loading protocol, 71 % were placed using a two-stage procedure, and 77 % had a delayed loading protocol. Simultaneous grafting was used in 60 % of all implants (
+Table 2
+). At the implantation time, 69 % of implants demonstrated an insertion torque &gt;35 Ncm, and the primary stability was achieved in 86 % of the implants (
+Table 2
+).
+The effect of the implant-related factors on secondary ISQ values at the implant level was first evaluated individually using comparative analysis (
+Supplementary Fig. S1-S3
+). The mean endpoint ISQ for the 305 implants was 77.15 ± 7.40. There were no significant differences in the ISQ values between the different implant lengths (P = 0.59) (
+Supplementary Fig. S1A
+) or between the immediate and delayed loading protocols (P = 0.12) (
+Supplementary Fig. S2A
+). All other evaluated parameters revealed statistically significant differences. The grafting versus no grafting procedures revealed a significant difference at the implant level with lower mean ISQ values in the grafted sites (P = 0.01) (
+Supplementary Fig. S1B
+). The platform diameter demonstrated the most robust significant difference (P &lt; 0.0001) (
+Supplementary Fig. S1B
+), where the diameter of 3.5 mm revealed significantly lower ISQ values as compared to 4.3 mm (P &lt; 0.0001) and 5.0 mm (P &lt; 0.0001). The difference between 4.3 mm and 5.0 mm diameters was insignificant (P = 0.09). Further, the one-stage protocol was associated with significantly higher ISQ than the two-stage protocol (P = 0.002) (
+Supplementary Fig. S2B
+). Implants that achieved primary stability (
+Supplementary Fig. S2C
+) and implants that were inserted with &gt;35 Ncm torque (
+Supplementary Fig. S2D
+) showed significantly higher secondary ISQ compared with implants that did not achieve primary stability (P = 0.003) and implants inserted with &lt;35 Ncm torque (P = 0.007), respectively.
+Using the regression analysis adjusted for the patient-related factors (as described above), the implant platform diameter was found to be the only significant predictor for ISQ (B = 4.28 ± 0.3; P &lt; 0.0001) (
+Table 3
+). The model's predictability was lower at the implant level, with an adjusted R square value of 0.11 (explaining 11 % of the variance in the ISQ values) (
+Table 3
+). The remaining regression analysis data, including the prior bivariate correlation and ANOVA, are provided in the Supplementary Tables (
+Supplementary Tables S2, S3, and S4
+).
+4.
+Discussion
+The present study used comparative and correlational approaches to pinpoint which implant-related factor(s) significantly impact the secondary ISQ values (after healing) for a given implant type. We employed a regression model to account for potential confounding effects among the different factors and from patient-related factors. A major finding was that despite modest yet significant differences between several investigated parameters, these variations were omitted in the regression model, revealing that the platform diameter was the only factor that positively influenced the ISQ values for the early healing phase of osseointegration of the oxidized implant.
+First, it is essential to highlight that the mean ISQ of this cohort was about 77 after a mean healing time of about five months. Moreover, the ISQ means remained high after the sub-groupings based on the different parameters, irrespective of being analyzed at the patient or implant levels. These findings support previous documentation of the present oxidized implant, experimentally and clinically, in achieving rapid osseointegration and firm stability in the recipient bone [
+44
+,
+45
+,
+54
+]. Further, the slight variations between the investigated variables do not seem to be of sizeable biological significance, at least within the study's time frame. This assumption is further supported by frequency distribution where the skewness of the data was generally towards the higher ISQ values beyond the means, even for the factors that showed relatively lower ISQ (i.e., implants with lower platform diameter, followed two-stage protocol, needed simultaneous graft, or had lower insertion torque or primary stability).
+The present implant oxidized surface (TiUnite) is produced via spark anodization in an electrolyte containing Sulfuric and phosphoric acids (galvanostatic method), resulting in a thick TiO2 layer that is porous, moderately rough, crystalline and contains phosphorus ion [
+[42]
+,
+[43]
+,
+[44]
+]. The cellular and molecular response to this surface has been investigated in a series of in vivo studies. During the initial 24 h in rat tibia, the oxidized implant, compared to the machined implant, promoted a more significant influx of cells and higher expression of cell recruitment (CXCR4) and adhesion (integrins-β1, -β2 and -αv) markers [
+55
+]. During the period from 1 day to 28 days, the oxidized implant promoted higher expression of bone formation (Runx2, ALP, and OC) and bone remodeling/coupling (TRAP, CATK, RANK, RANKL, and OPG) genes and demonstrated a significant increase in biomechanical stability [
+44
+,
+45
+,
+56
+]. In contrast, the machined implant was associated with higher expression of proinflammatory cytokines (TNF-α and IL-1β) and showed non-significant increases in bone-implant contact and biomechanical stability [
+44
+,
+45
+,
+56
+].
+It has also been shown that the secondary stability of similar oxidized implants can be further enhanced by incorporating magnesium ions in surface oxide [
+57
+]. Recently, it has been suggested that the potential mechanism for the reduced proinflammatory activity at oxidized implant may be related to an enhanced anti-inflammatory macrophage (M2) polarization driven by the oxidized surface [
+13
+]. In line with these findings, experimental implants oxidized at low voltages (potentiostatic method), having a thinner oxide layer but with a nanotubular pattern, promoted the bone formation and osteointegration in rodent models and enhanced the osteogenic differentiation of MSCs and osteoblastic cells in vitro [
+[58]
+,
+[59]
+,
+[60]
+]. Notably, the latter studies provided strong evidence of the role of the anodically oxidized surface with the nanotubular pattern in promoting anti-inflammatory M2 macrophage polarization. Moreover, it has been shown that incorporating ions (Zn, Mg, and Sr) further enhances the oxidized surface effects on osseointegration [
+[61]
+,
+[62]
+,
+[63]
+]. Finally, as previously observed with the oxidized surface produced at high voltage (with a think and microporous oxide layer), oxidized surfaces produced at low voltage (with thin nanotubular oxide layer) also demonstrated the association between the enhanced molecular response and the increased bone contact [
+64
+] and implant stability [
+65
+].
+In the present study, the comparative analysis shows significant differences between the variables in all subgroups except for implant length and loading protocol subgroupings (and the grafting procedure at the patient level). These findings add to the controversial results reported in the literature where only comparative or bivariate correlations were conducted [
+[20]
+,
+[21]
+,
+[22]
+,
+[23]
+,
+[24]
+,
+[25]
+,
+[26]
+,
+[27]
+,
+[28]
+,
+[29]
+,
+[30]
+,
+[31]
+,
+[32]
+,
+[33]
+,
+[34]
+,
+[35]
+,
+[36]
+,
+[37]
+,
+[38]
+,
+[39]
+,
+[40]
+]. On the other hand, applying the multivariate regression model provided several advantages over the simple bivariate comparisons. Firstly, it considered the potential collinearity of the implant-/protocol-related factors, thus excluding factors with the highest variance inflation effect. Further, it allowed the adjustment of the model for the registered patient-related factors that have shown correlations with ISQ values in a preliminary univariate evaluation. For instance, the solely demonstrated predictor, the platform diameter, remained statistically significant after adjusting for the implant location. This finding suggests that the relationship between implant platform diameter and ISQ values is not confounded by the effect of having a higher number of wider implants in denser bone locations such as the anterior mandible. In addition, the regression model would allow for ranking the degree of prediction of each significant predictor in the model. Collectively, the overall significance of the model, based on the ANOVA, was found to be high. However, it only explained 24 % (at the patient level) and 11 % (at the implant level) of the changes in the ISQ values based on adjusted R
+2
+. Moreover, as only the platform diameter factor was found to significantly predict the secondary ISQ, the unstandardized B coefficient indicated that every unit change in the implant platform diameter can predict up to 5.7 units increase in ISQ values.
+In contrast to comparative and correlation studies, fewer studies have employed regression models to determine the most influential factors for secondary ISQ measurement. One retrospective used a multivariate linear regression model to separately evaluate data obtained by three surgeons using either one or two implant types: one is blasted with zirconia beads and acid-etched (SICace implants), and the other is blasted with alumina particle and acid-etched (TSIII implants) [
+66
+]. The two implant types had a relatively varied surface roughness compared to the present oxidized implant, which has an average roughness of around 1.4 μm. According to their manufacturers’ information, the SICace implant has a roughness of 1.0 μm, whereas the TSIII implant conveys a higher roughness of 2.5–3.0 μm. In an almost identical scenario, only the implant platform diameter (3.5, 3.7, 4.0, 4.2, 4.5, 5.0 mm) demonstrated a positive significant prediction of the ISQ values during final restoration [
+66
+]. Otherwise, implant length, surgical protocol, and insertion torque did not reveal significant relationships with the secondary ISQ values [
+66
+]. The same research group in another study focusing only on the SICace implant demonstrated a similar finding of a potent effect of the platform diameter on ISQ values after healing. However, in the latter study, the insertion torque was also a significant positive predictor for RFA after healing [
+67
+]. Nonetheless, the unstandardized B coefficient for the insertion torque contribution was very low (B = 0.05), suggesting a modest prediction of the ISQ values during the final restoration. Notably, the unstandardized B coefficient for the implant platform diameter was found to be very high and comparable between the present (B = 4.45) and the previous (B = 3.5–4.19) [
+66
+,
+67
+] studies.
+Interestingly, the length and the diameter exhibited variable contributions to ISQ measurement. Whereas no significant contribution of the implant length was observed, the width was found to be the most significant contributor, with the higher the diameter, the higher the ISQ. Despite controversial results that have been reported regarding the nominal effect of implant length and width on ISQ values, the present study is in complete agreement with previous studies that had specifically correlated the diameter (3.3, 4.1, and 4.8 mm) and length (6.0, 8.0, 10.0, 12.0 and 14.0 mm) of sandblasted, SLA Straumann implants, with the secondary ISQ (Osstell) as well as the damping capacity assessment (Periotest) over 1–6 years [
+68
+]. In the latter study, all correlational, comparative, and linear regression analyses demonstrated that the secondary ISQ measurement was only affected by the diameter, with higher ISQ values recorded for the wider implant, irrespective of the length [
+68
+]. In this context, the comparison analyses in the present and the previous [
+68
+] studies revealed that the significance was recorded for the lowest platform diameters (3.5 mm and 3.3 mm, respectively) versus the higher diameters in either study. In contrast, no significant difference could be found between the two higher diameters (i.e., 4.3 and 5.0 or 4.1 and 4.8, respectively).
+In contrast, Shiffler and colleagues compared the ISQ values of oxidized implants with different lengths and diameters [
+69
+]. They concluded that no statistical difference exists between the evaluated lengths or diameters at placement and follow-up [
+69
+]. Notably, the implants used in their study were from the same manufacturer and had the same design and surface treatment as those used in our study. Nevertheless, it is noteworthy that in Shiffler et al.’s study, only two diameters were used (4.3 and 5.0) as opposed to our study, which included three diameters (3.5, 4.3, and 5.0). Interestingly, our study revealed the main difference between the implant with a 3.5 mm diameter and the other two with larger diameters, adding to the literature and Shiffler et al.’s study. Finally, Shiffler and colleagues only included two implant lengths, while our study included four, complimenting and adding to their findings. Regarding the implant diameter, the present clinical results, using oxidized implants, are closely similar to recent work in a dog model demonstrating lower ISQ values for sandblasted/acid-etched (SLA) implants with 3.3 mm diameter versus 4.1- and 4.8-mm implants, whereas no difference was found between 4.1- and 4.8-mm implants [
+35
+]. Notably, the latter experimental study revealed that the lower ISQ with the lowest diameter (3.3 mm) implant was persistent from baseline and throughout all study periods (4, 8, and 12 weeks).
+Hitherto, the exact reason for the discrepancy between the implant length and platform diameter in their effect on ISQ remains to be determined. In a recent in vitro study, Gottlow and Sennerby concluded that the length has a stronger ISQ predictability than the diameter for blasted implants in polyurethane blocks with uniform density [
+70
+]. However, in addition to the in vitro nature of the study, the authors warranted further investigation using laminated blocks with graded density mimicking the natural bone [
+70
+]. Hence, it can be assumed that the increase in implant length or diameter would be associated with an increase in implant surface area in juxtaposition with the recipient bone. However, a plausible added effect for the wider implant diameter is that it may provide more contact with the denser bone in the crestal cortical region.
+An outstanding question is what RFA represents concerning the process of osseointegration. From a clinical perspective, RFA remains the most convenient, non-invasive method to judge implant stability at any specific time point after implantation. On the other hand, from a fundamental scientific perspective, RFA has been questioned to be a true representative of the degree of bone-to-implant contact (BIC), which is the hallmark of osseointegration. For instance, experimental correlative studies [
+71
+,
+72
+] and studies that employed a regression model [
+73
+] refuted any significant relationship between the ISQ values and BIC%. In contrast, BIC% was found to be significantly predicted by the removal torque values of that implant [
+73
+]. In line with these histological findings, finite elemental analysis, which modeled a systematic increase in the contact between the implant and bone, showed that above a BIC value of 20 %, the ISQ values do not change significantly, suggesting a lack of sensitivity of RFA to further osseointegration beyond 20 % BIC [
+74
+]. These experimental findings support recent clinical evidence demonstrating a significant correlation between cortical bone contact to the implant and insertion torque [
+75
+]. On the contrary, such a correlation was not found with the secondary ISQ [
+75
+].
+Although ISQ values do not correlate with BIC, they may reflect the degree of stiffness of the bone-implant unit [
+18
+,
+19
+,
+76
+]. Such a theory indicates that rigid continuity between the implant surface and the recipient bone may be responsible for making the bone and implant respond as one unit to the piezoelectric vibration. Although speculative, this assumption is supported by previous ultrastructural analysis of the bone interface with the oxidized implant, revealing, at a high-resolution level, a direct continuity between the implant surface and mineralized bone, filling the micron and sub-micron irregularities of the surface oxide layer [
+44
+,
+45
+]. Those findings may also explain the observed high ISQ values associated with the oxidized implants, which may have omitted any contributions of other factors apart from the implant platform diameter.
+The present study investigated the effect of implant- and protocol-related factors on RFA using the same implant type so that the impact of variations of different implant designs and micron and submicron surface features would be eliminated. Moreover, the same surgeon, an expert in implant dentistry, has conducted all implant procedures, evaluations, and ISQ measurements, thus ensuring better consistency in implant placement and data collection. Nonetheless, a limitation of both aspects can, at least partly, attenuate the generalization of the study findings. Another limitation is the heterogeneity of some variables, such as the discrepancies in the number of patients treated under delayed loading versus immediate loading and the presence of cases treated with simultaneous grafting. In addition, the inclusion of smokers (18 %) and diabetic patients (16 %) poses a third limitation, given the known negative impact of those conditions on osteointegration. While the inclusion of smokers and diabetic patients was mainly to achieve the targeted sample size, studies on the early healing before final restoration (90 days after implantation) revealed that ISQ values were significantly higher in smokers versus non-smokers, especially for the implants with oxidized/TiUnite surface [
+77
+]. Further, considering the theory that RFA provides a direct measurement for bone stiffness [
+19
+], detailed ultrastructural and compositional characterizations of healing alveolar sockets revealed that the bone microstructure and composition of moderate-heavy smokers are comparable to those of never-smokers [
+78
+]. In the same context, the ISQ values for the secondary implant stability (12–16 weeks after implantation) were similarly high for sandblasted/acid-etched (SLA) and sandblasted/acid-etched/saline-stored (SLActive) implants, even in patients with poor glycemic control (type II diabetes) [
+79
+].
+This study shows that wider platforms for the present implant system increase the secondary implant stability prior to final restoration. This effect would help improve implant stability in cases with reduced bone quality (e.g., soft bone). Moreover, predicting the degree of increase in ISQ values can be valuable when a specific ISQ range is sought (65 and above for immediate implant loading). Overall, the present findings would be valuable for appropriate case/implant selection, at least considering the present implant system. Further, as another clinical study using blasted/acid-etched implants demonstrated a similar finding that the implant width is the main predictor for the secondary ISQ, it is of interest to determine if other implant systems or implants with different surfaces would have similar or different predictors and predicting values for the secondary implant stability. Hence, prospective clinical studies are warranted to compare the predicting factors of ISQ for different implant systems using carefully selected inclusion criteria and advanced statistical models.
+Secondary ISQ values of implants with oxidized/TiUnite surfaces appear to be higher when they have a wider platform diameter when placed using a single-stage approach, without grafting, or with insertion torque higher than 35 Ncm. However, considering the potential confounding effects and based on a multivariate regression model, it is concluded that among the different implant-related parameters, the platform diameter of the oxidized implant is the only significant positive predictor of the secondary ISQ values at the time of final restoration.
+CRediT authorship contribution statement
+Fawaz Alzoubi:
+Writing – review &amp; editing, Writing – original draft, Validation, Methodology, Investigation, Conceptualization.
+Abdulkareem Abdullah Alhumaidan:
+Writing – review &amp; editing, Writing – original draft, Validation, Funding acquisition.
+Hamad Saleh AlRumaih:
+Writing – review &amp; editing, Writing – original draft, Validation, Investigation.
+Firas Khalid Alqarawi:
+Writing – review &amp; editing, Writing – original draft, Validation, Investigation.
+Omar Omar:
+Writing – review &amp; editing, Writing – original draft, Visualization, Investigation, Formal analysis.
+5.
+Ethics statement
+The study was conducted under ethical approvals from the Kuwait University Health Sciences Center Ethical Committee (VDR/EC/3676/2020) and the institutional review board (IRB) at Imam Abdulrahman bin Faisal University (IRB-2021-02-494). The obtained IRB approval did not require informed patient consent for this retrospective study.
+Funding
+The authors extend their appreciation to the Deputyship for Research &amp; Innovation, Ministry of Education in Saudi Arabia, for funding this research work through the project number IF-2020-005-Dent at Imam Abdulrahman bin Faisal University/College of Dentistry. The funder had no role in this study's design, data collection, analysis, or reporting.
+Data availability statement
+The data associated with this study has not been deposited into a publicly available repository. All data generated or analyzed during this study are included in this article and its supplementary material files. Further inquiries can be directed to the corresponding authors.
+Declaration of competing interest
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+Footnotes
+Appendix A
+Supplementary data to this article can be found online at
+https://doi.org/10.1016/j.heliyon.2024.e39156
+.
+Contributor Information
+Fawaz Alzoubi, Email: Fawaz.alzoubi@ku.edu.kw.
+Omar Omar, Email: omomar@iau.edu.sa.
+Appendix A.
+Supplementary data
+The following is/are the supplementary data to this article:
+Multimedia component 1
+Multimedia component 1
+References
+1.
+Howe M.S., Keys W., Richards D. Long-term (10-year) dental implant survival: a systematic review and sensitivity meta-analysis. J. Dent. 2019;84:9–21. doi: 10.1016/j.jdent.2019.03.008.
+2.
+Esposito M., Grusovin M.G., Coulthard P., Thomsen P., Worthington H.V. A 5-year follow-up comparative analysis of the efficacy of various osseointegrated dental implant systems: a systematic review of randomized controlled clinical trials. Int. J. Oral Maxillofac. Implants. 2005;20:557–568.
+3.
+Moraschini V., Poubel L.A., Ferreira V.F., Barboza Edos S. Evaluation of survival and success rates of dental implants reported in longitudinal studies with a follow-up period of at least 10 years: a systematic review. Int. J. Oral Maxillofac. Surg. 2015;44:377–388. doi: 10.1016/j.ijom.2014.10.023.
+4.
+Albrektsson T., Branemark P.I., Hansson H.A., Lindstrom J. Osseointegrated titanium implants. Requirements for ensuring a long-lasting, direct bone-to-implant anchorage in man. Acta Orthop. Scand. 1981;52:155–170. doi: 10.3109/17453678108991776.
+5.
+Branemark P.I. In: Tissue- Integrated Prostheses : Osseointegration in Clinical Dentistry. Branemark P.I., Zarb G.A., Albrektsson T., editors. Quintessence Publ. Co. Inc.; Chicago: 1985. Introduction to osseointegration; pp. 350–s.
+6.
+Albrektsson T., Johansson C. Osteoinduction, osteoconduction and osseointegration. Eur. Spine J. 2001;10(Suppl 2):S96–S101. doi: 10.1007/s005860100282.
+7.
+Smith D.E., Zarb G.A. Criteria for success of osseointegrated endosseous implants. J. Prosthet. Dent. 1989;62:567–572. doi: 10.1016/0022-3913(89)90081-4.
+8.
+Liu Z., Li C., Liu Y., Zeng J., Chu H., Chen P., Zhou T., Yin W., Rong M. The clinical significance and application of the peri-implant phenotype in dental implant surgery: a narrative review. Ann. Transl. Med. 2023;11:351. doi: 10.21037/atm-23-1752.
+9.
+Kittur N., Oak R., Dekate D., Jadhav S., Dhatrak P. Dental implant stability and its measurements to improve osseointegration at the bone-implant interface: a review. Mater. Today: Proc. 2021;43:1064–1070.
+10.
+Shim J.S., Kim M.Y., An S.J., Kang E.S., Choi Y.S. Evaluation of implant stability according to implant placement site and duration in elderly patients: a prospective multi-center cohort study. J. Clin. Med. 2023;12 doi: 10.3390/jcm12155087.
+11.
+Kim J.C., Lee M., Yeo I.L. Three interfaces of the dental implant system and their clinical effects on hard and soft tissues. Mater. Horiz. 2022;9:1387–1411. doi: 10.1039/d1mh01621k.
+12.
+Palmquist A., Omar O.M., Esposito M., Lausmaa J., Thomsen P. Titanium oral implants: surface characteristics, interface biology and clinical outcome. J R Soc Interface. 2010;7(Suppl 5):S515–S527. doi: 10.1098/rsif.2010.0118.focus.
+13.
+Omar O., Shah F.A., Ruscsák K., Sayardoust S., Palmquist A., Thomsen P. In: Dental Implants and Bone Grafts. Alghamdi H., Jansen J., editors. Woodhead Publishing; 2020. Chapter 7 - cellular and molecular reactions to dental implants; pp. 183–205.
+14.
+Meredith N., Shagaldi F., Alleyne D., Sennerby L., Cawley P. The application of resonance frequency measurements to study the stability of titanium implants during healing in the rabbit tibia. Clin. Oral Implants Res. 1997;8:234–243. doi: 10.1034/j.1600-0501.1997.080310.x.
+15.
+Charles D.S. In: Current Concepts in Dental Implantology. Dragana G., Marko V., editors. IntechOpen; Rijeka: 2021. RFA and its use in implant dentistry. Ch. 5.
+16.
+Valderrama P., Oates T.W., Jones A.A., Simpson J., Schoolfield J.D., Cochran D.L. Evaluation of two different resonance frequency devices to detect implant stability: a clinical trial. J. Periodontol. 2007;78:262–272. doi: 10.1902/jop.2007.060143.
+17.
+Shah F.A., Thomsen P., Palmquist A. Osseointegration and current interpretations of the bone-implant interface. Acta Biomater. 2019;84:1–15. doi: 10.1016/j.actbio.2018.11.018.
+18.
+Aparicio C., Lang N.P., Rangert B. Validity and clinical significance of biomechanical testing of implant/bone interface. Clin. Oral Implants Res. 2006;17(Suppl 2):2–7. doi: 10.1111/j.1600-0501.2006.01365.x.
+19.
+Sennerby L., Meredith N. Implant stability measurements using resonance frequency analysis: biological and biomechanical aspects and clinical implications. Periodontol. 2000. 2008;47:51–66. doi: 10.1111/j.1600-0757.2008.00267.x.
+20.
+Daher F.I., Abi-Aad H.L., Dimassi H.I., Baba N.Z., Majzoub Z.A. Factors affecting implant stability quotients at immediately and conventionally loaded implants in the posterior maxilla: a split-mouth randomized controlled trial. J. Prosthodont. 2021;30:590–603. doi: 10.1111/jopr.13296.
+21.
+Tanaka K., Sailer I., Iwama R., Yamauchi K., Nogami S., Yoda N., Takahashi T. Relationship between cortical bone thickness and implant stability at the time of surgery and secondary stability after osseointegration measured using resonance frequency analysis. J Periodontal Implant Sci. 2018;48:360–372. doi: 10.5051/jpis.2018.48.6.360.
+22.
+Glauser R., Lundgren A.K., Gottlow J., Sennerby L., Portmann M., Ruhstaller P., Hämmerle C.H. Immediate occlusal loading of Brånemark TiUnite implants placed predominantly in soft bone: 1-year results of a prospective clinical study. Clin. Implant Dent. Relat. Res. 2003;5(Suppl 1):47–56. doi: 10.1111/j.1708-8208.2003.tb00015.x.
+23.
+Ersanli S., Karabuda C., Beck F., Leblebicioglu B. Resonance frequency analysis of one-stage dental implant stability during the osseointegration period. J. Periodontol. 2005;76:1066–1071. doi: 10.1902/jop.2005.76.7.1066.
+24.
+Tallarico M., Vaccarella A., Marzi G.C., Alviani A., Campana V. A prospective case-control clinical trial comparing 1- and 2-stage Nobel Biocare TiUnite implants: resonance frequency analysis assessed by Osstell Mentor during integration. Quintessence Int. 2011;42:635–644.
+25.
+Fontes Pereira J., Costa R., Nunes Vasques M., Relvas M., Braga A.C., Salazar F., Infante da Câmara M. The effectiveness of osseodensification drilling versus the conventional surgical technique on implant stability: a clinical trial. J. Clin. Med. 2024;13 doi: 10.3390/jcm13102912.
+26.
+Baltayan S., Pi-Anfruns J., Aghaloo T., Moy P.K. The predictive value of resonance frequency analysis measurements in the surgical placement and loading of endosseous implants. J. Oral Maxillofac. Surg. 2016;74:1145–1152. doi: 10.1016/j.joms.2016.01.048.
+27.
+do Vale Souza J.P., de Moraes Melo Neto C.L., Piacenza L.T., Freitas da Silva E.V., de Melo Moreno A.L., Penitente P.A., Brunetto J.L., Dos Santos D.M., Goiato M.C. Relation between insertion torque and implant stability quotient: a clinical study. Eur J Dent. 2021;15:618–623. doi: 10.1055/s-0041-1725575.
+28.
+Xing Y., Khandelwal N., Petrov S., Drew H.J., Mupparapu M. Resonance frequency analysis (RFA) and insertional torque (IT) stability comparisons of implants placed using osteotomes versus drilling techniques: a preliminary case study. Quintessence Int. 2015;46:789–798. doi: 10.3290/j.qi.a34453.
+29.
+Cassetta M., Brandetti G., Altieri F. Are the insertion torque value and implant stability quotient correlated, and if so, can insertion torque values predict secondary implant stability? A prospective parallel cohort study. Int. J. Oral Maxillofac. Implants. 2022;37:135–142. doi: 10.11607/jomi.9064.
+30.
+Ostman P.O., Hellman M., Sennerby L. Direct implant loading in the edentulous maxilla using a bone density-adapted surgical protocol and primary implant stability criteria for inclusion. Clin. Implant Dent. Relat. Res. 2005;7(Suppl 1):S60–S69. doi: 10.1111/j.1708-8208.2005.tb00076.x.
+31.
+Bischof M., Nedir R., Szmukler-Moncler S., Bernard J.P., Samson J. Implant stability measurement of delayed and immediately loaded implants during healing. Clin. Oral Implants Res. 2004;15:529–539. doi: 10.1111/j.1600-0501.2004.01042.x.
+32.
+Zumstein T., Sennerby L. A 1-year clinical and radiographic study on hydrophilic dental implants placed with and without bone augmentation procedures. Clin. Implant Dent. Relat. Res. 2016;18:498–506. doi: 10.1111/cid.12329.
+33.
+Barbosa P.P., Oliveira V.X.R., Goulart J.V., Margonar R., Moura M.B., Oliveira G. Effect of different thread configurations on hydrophilic implant stability. A split-mouth RCT. Braz. Dent. J. 2024;35 doi: 10.1590/0103-6440202405632.
+34.
+Barbosa P.P., Cruvinel T.M., Sakakura C.E., Pimentel Lopes de Oliveira G.J., Zuza E.C. Primary and secondary stability of implants with hydrophilic surfaces in the posterior maxilla: a split-mouth randomized controlled clinical trial. Int. J. Oral Maxillofac. Implants. 2021;36:787–792. doi: 10.11607/jomi.8636.
+35.
+Wang Y., Wang H., Chen X., Shi Y., Wang Z. Effects of implant diameter on implant stability and osseointegration in the early stage in a dog model. Int. J. Oral Maxillofac. Implants. 2023;38:757–767. doi: 10.11607/jomi.10089.
+36.
+Yurttutan E., Dereci Ö., Karagöz M.A. Biomechanical and histologic evaluation of osseointegration of titanium dental implants modified by various combinations of sandblasting, acid-etching, hydroxyapatite, and hyaluronic acid coating techniques. Int. J. Oral Maxillofac. Implants. 2023;38:583–590. doi: 10.11607/jomi.9935.
+37.
+Rocci A., Martignoni M., Gottlow J. Immediate loading of Brånemark System TiUnite and machined-surface implants in the posterior mandible: a randomized open-ended clinical trial. Clin. Implant Dent. Relat. Res. 2003;5(Suppl 1):57–63. doi: 10.1111/j.1708-8208.2003.tb00016.x.
+38.
+Karthik S.K., Sreevidya B., T K.R., Bm D., Dedeepya N.R., Kamal Badiyani B., Kumar A. Comparative analysis of surface modification techniques for assessing oral implant osseointegration: an animal study. Cureus. 2024;16 doi: 10.7759/cureus.54014.
+39.
+Balleri P., Cozzolino A., Ghelli L., Momicchioli G., Varriale A. Stability measurements of osseointegrated implants using Osstell in partially edentulous jaws after 1 year of loading: a pilot study. Clin. Implant Dent. Relat. Res. 2002;4:128–132. doi: 10.1111/j.1708-8208.2002.tb00162.x.
+40.
+Dagher M., Mokbel N., Jabbour G., Naaman N. Resonance frequency analysis, insertion torque, and bone to implant contact of 4 implant surfaces: comparison and correlation study in sheep. Implant Dent. 2014;23:672–678. doi: 10.1097/ID.0000000000000155.
+41.
+Alipal J., Lee T.C., Koshy P., Abdullah H.Z., Idris M.I. Evolution of anodised titanium for implant applications. Heliyon. 2021;7 doi: 10.1016/j.heliyon.2021.e07408.
+42.
+Sul Y.T., Byon E., Wennerberg A. Surface characteristics of electrochemically oxidized implants and acid-etched implants: surface chemistry, morphology, pore configurations, oxide thickness, crystal structure, and roughness. Int. J. Oral Maxillofac. Implants. 2008;23:631–640.
+43.
+Jarmar T., Palmquist A., Brånemark R., Hermansson L., Engqvist H., Thomsen P. Characterization of the surface properties of commercially available dental implants using scanning electron microscopy, focused ion beam, and high-resolution transmission electron microscopy. Clin. Implant Dent. Relat. Res. 2008;10:11–22. doi: 10.1111/j.1708-8208.2007.00056.x.
+44.
+Omar O., Lennerås M., Suska F., Emanuelsson L., Hall J., Palmquist A., Thomsen P. The correlation between gene expression of proinflammatory markers and bone formation during osseointegration with titanium implants. Biomaterials. 2011;32:374–386. doi: 10.1016/j.biomaterials.2010.09.011.
+45.
+Lennerås M., Palmquist A., Norlindh B., Emanuelsson L., Thomsen P., Omar O. Oxidized titanium implants enhance osseointegration via mechanisms involving RANK/RANKL/OPG regulation. Clin. Implant Dent. Relat. Res. 2015;17(Suppl 2):e486–e500. doi: 10.1111/cid.12276.
+46.
+Bahat O. Technique for placement of oxidized titanium implants in compromised maxillary bone: prospective study of 290 implants in 126 consecutive patients followed for a minimum of 3 years after loading. Int. J. Oral Maxillofac. Implants. 2009;24:325–334.
+47.
+Friberg B., Jemt T. Rehabilitation of edentulous mandibles by means of osseointegrated implants: a 5-year follow-up study on one or two-stage surgery, number of implants, implant surfaces, and age at surgery. Clin. Implant Dent. Relat. Res. 2015;17:413–424. doi: 10.1111/cid.12116.
+48.
+Raes M., D'Hondt R., Teughels W., Coucke W., Quirynen M. A 5-year randomized clinical trial comparing minimally with moderately rough implants in patients with severe periodontitis. J. Clin. Periodontol. 2018;45:711–720. doi: 10.1111/jcpe.12901.
+49.
+Sayardoust S., Gröndahl K., Johansson E., Thomsen P., Slotte C. Implant survival and marginal bone loss at turned and oxidized implants in periodontitis-susceptible smokers and never-smokers: a retrospective, clinical, radiographic case-control study. J. Periodontol. 2013;84:1775–1782. doi: 10.1902/jop.2013.120608.
+50.
+Rodrigo D., Aracil L., Martin C., Sanz M. Diagnosis of implant stability and its impact on implant survival: a prospective case series study. Clin. Oral Implants Res. 2010;21:255–261. doi: 10.1111/j.1600-0501.2009.01820.x.
+51.
+Schimmel M., Srinivasan M., Herrmann F.R., Müller F. Loading protocols for implant-supported overdentures in the edentulous jaw: a systematic review and meta-analysis. Int. J. Oral Maxillofac. Implants. 2014;29(Suppl):271–286. doi: 10.11607/jomi.2014suppl.g4.4.
+52.
+Darriba I., Seidel A., Moreno F., Botelho J., Machado V., Mendes J.J., Leira Y., Blanco J. Influence of low insertion torque values on survival rate of immediately loaded dental implants: a systematic review and meta-analysis. J. Clin. Periodontol. 2023;50:158–169. doi: 10.1111/jcpe.13733.
+53.
+Turkyilmaz I., McGlumphy E.A. Influence of bone density on implant stability parameters and implant success: a retrospective clinical study. BMC Oral Health. 2008;8:32. doi: 10.1186/1472-6831-8-32.
+54.
+Hao C.P., Cao N.J., Zhu Y.H., Wang W. The osseointegration and stability of dental implants with different surface treatments in animal models: a network meta-analysis. Sci. Rep. 2021;11 doi: 10.1038/s41598-021-93307-4.
+55.
+Omar O., Lennerås M., Svensson S., Suska F., Emanuelsson L., Hall J., Nannmark U., Thomsen P. Integrin and chemokine receptor gene expression in implant-adherent cells during early osseointegration. J. Mater. Sci. Mater. Med. 2010;21:969–980. doi: 10.1007/s10856-009-3915-x.
+56.
+Omar O., Svensson S., Zoric N., Lennerås M., Suska F., Wigren S., Hall J., Nannmark U., Thomsen P. In vivo gene expression in response to anodically oxidized versus machined titanium implants. J. Biomed. Mater. Res. 2010;92:1552–1566. doi: 10.1002/jbm.a.32475.
+57.
+Sul Y.T., Jönsson J., Yoon G.S., Johansson C. Resonance frequency measurements in vivo and related surface properties of magnesium-incorporated, micropatterned and magnesium-incorporated TiUnite, Osseotite, SLA and TiOblast implants. Clin. Oral Implants Res. 2009;20:1146–1155. doi: 10.1111/j.1600-0501.2009.01767.x.
+58.
+Ma Q.L., Zhao L.Z., Liu R.R., Jin B.Q., Song W., Wang Y., Zhang Y.S., Chen L.H., Zhang Y.M. Improved implant osseointegration of a nanostructured titanium surface via mediation of macrophage polarization. Biomaterials. 2014;35:9853–9867. doi: 10.1016/j.biomaterials.2014.08.025.
+59.
+Wang J., Meng F., Song W., Jin J., Ma Q., Fei D., Fang L., Chen L., Wang Q., Zhang Y. Nanostructured titanium regulates osseointegration via influencing macrophage polarization in the osteogenic environment. Int. J. Nanomed. 2018;13:4029–4043. doi: 10.2147/IJN.S163956.
+60.
+Xu W.C., Dong X., Ding J.L., Liu J.C., Xu J.J., Tang Y.H., Yi Y.P., Lu C., Yang W., Yang J.S., Gong Y., Zhou J.L. Nanotubular TiO(2) regulates macrophage M2 polarization and increases macrophage secretion of VEGF to accelerate endothelialization via the ERK1/2 and PI3K/AKT pathways. Int. J. Nanomed. 2019;14:441–455. doi: 10.2147/IJN.S188439.
+61.
+Chen B., You Y., Ma A., Song Y., Jiao J., Song L., Shi E., Zhong X., Li Y., Li C. Zn-incorporated TiO(2) nanotube surface improves osteogenesis ability through influencing immunomodulatory function of macrophages. Int. J. Nanomed. 2020;15:2095–2118. doi: 10.2147/IJN.S244349.
+62.
+Qiao X., Yang J., Shang Y., Deng S., Yao S., Wang Z., Guo Y., Peng C. Magnesium-doped nanostructured titanium surface modulates macrophage-mediated inflammatory response for ameliorative osseointegration. Int. J. Nanomed. 2020;15:7185–7198. doi: 10.2147/IJN.S239550.
+63.
+Wu B., Tang Y., Yao K., Luo X., Feng S., Wang K., Zhou X., Xiang L. Ion-incorporated titanium implants for staged regulation of antibacterial activity and immunoregulation-mediated osteogenesis. Nanoscale. 2024;16:7167–7184. doi: 10.1039/d3nr05858a.
+64.
+von Wilmowsky C., Bauer S., Roedl S., Neukam F.W., Schmuki P., Schlegel K.A. The diameter of anodic TiO2 nanotubes affects bone formation and correlates with the bone morphogenetic protein-2 expression in vivo. Clin. Oral Implants Res. 2012;23:359–366. doi: 10.1111/j.1600-0501.2010.02139.x.
+65.
+Alves-Rezende M.C.R., Capalbo L.C., De Oliveira Limírio J.P.J., Capalbo B.C., Limírio P., Rosa J.L. The role of TiO(2) nanotube surface on osseointegration of titanium implants: biomechanical and histological study in rats. Microsc. Res. Tech. 2020;83:817–823. doi: 10.1002/jemt.23473.
+66.
+Huang H., Xu Z., Shao X., Wismeijer D., Sun P., Wang J., Wu G. Multivariate linear regression analysis to identify general factors for quantitative predictions of implant stability quotient values. PLoS One. 2017;12 doi: 10.1371/journal.pone.0187010.
+67.
+Huang H., Wismeijer D., Shao X., Wu G. Mathematical evaluation of the influence of multiple factors on implant stability quotient values in clinical practice: a retrospective study. Ther Clin Risk Manag. 2016;12:1525–1532. doi: 10.2147/TCRM.S113764.
+68.
+Zix J., Hug S., Kessler-Liechti G., Mericske-Stern R. Measurement of dental implant stability by resonance frequency analysis and damping capacity assessment: comparison of both techniques in a clinical trial. Int. J. Oral Maxillofac. Implants. 2008;23:525–530.
+69.
+Shiffler K., Lee D., Rowan M., Aghaloo T., Pi-Anfruns J., Moy P.K. Effect of length, diameter, intraoral location on implant stability. Oral Surg Oral Med Oral Pathol Oral Radiol. 2016;122:e193–e198. doi: 10.1016/j.oooo.2016.06.016.
+70.
+Gottlow J., Sennerby L. Influence of diameter and length on primary stability in various implant site densities-An in vitro study in polyurethane blocks. Clin. Implant Dent. Relat. Res. 2024;26:327–332. doi: 10.1111/cid.13290.
+71.
+Al-Nawas B., Groetz K.A., Goetz H., Duschner H., Wagner W. Comparative histomorphometry and resonance frequency analysis of implants with moderately rough surfaces in a loaded animal model. Clin. Oral Implants Res. 2008;19:1–8. doi: 10.1111/j.1600-0501.2007.01396.x.
+72.
+Soares P.B., Moura C.C., Claudino M., Carvalho V.F., Rocha F.S., Zanetta-Barbosa D. Influence of implant surfaces on osseointegration: a histomorphometric and implant stability study in rabbits. Braz. Dent. J. 2015;26:451–457. doi: 10.1590/0103-6440201300411.
+73.
+Shah F.A., Johansson M.L., Omar O., Simonsson H., Palmquist A., Thomsen P. Laser-modified surface enhances osseointegration and biomechanical anchorage of commercially pure titanium implants for bone-anchored hearing systems. PLoS One. 2016;11 doi: 10.1371/journal.pone.0157504.
+74.
+Chen S., Rittel D., Shemtov-Yona K. Probing the sensitivity of the resonant frequency analysis to the dental implant-bone condition: a numerical study. J. Mech. Behav. Biomed. Mater. 2022;128 doi: 10.1016/j.jmbbm.2022.105128.
+75.
+Feng L., Chen H., Chen Z., Chen Y., Gu X. Associations between cortical bone-to-implant contact and microstructure derived from CBCT and implant primary stability. Clin. Oral Implants Res. 2023;34:243–253. doi: 10.1111/clr.14037.
+76.
+Pattijn V., Jaecques S.V., De Smet E., Muraru L., Van Lierde C., Van der Perre G., Naert I., Vander Sloten J. Resonance frequency analysis of implants in the Guinea pig model: influence of boundary conditions and orientation of the transducer. Med. Eng. Phys. 2007;29:182–190. doi: 10.1016/j.medengphy.2006.02.010.
+77.
+Sayardoust S., Omar O., Norderyd O., Thomsen P. Clinical, radiological, and gene expression analyses in smokers and non-smokers, Part 2: RCT on the late healing phase of osseointegration. Clin. Implant Dent. Relat. Res. 2017;19:901–915. doi: 10.1111/cid.12514.
+78.
+Shah F.A., Sayardoust S., Omar O., Thomsen P., Palmquist A. Does smoking impair bone regeneration in the dental alveolar socket? Calcif. Tissue Int. 2019;105:619–629. doi: 10.1007/s00223-019-00610-4.
+79.
+Khandelwal N., Oates T.W., Vargas A., Alexander P.P., Schoolfield J.D., Alex McMahan C. Conventional SLA and chemically modified SLA implants in patients with poorly controlled type 2 diabetes mellitus--a randomized controlled trial. Clin. Oral Implants Res. 2013;24:13–19. doi: 10.1111/j.1600-0501.2011.02369.x.
+Associated Data
+Supplementary Materials
+Multimedia component 1
+Multimedia component 1
+Data Availability Statement
+The data associated with this study has not been deposited into a publicly available repository. All data generated or analyzed during this study are included in this article and its supplementary material files. Further inquiries can be directed to the corresponding authors.
