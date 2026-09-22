@@ -1615,6 +1615,9 @@ tags: []
 - [[drug/anticoagulants/tang-2025-chitosan-antibacterial-hemostatic-sponge-extraction]] — Tang 2025 · animal · 항응고 흰쥐 발치 모델에서 4급암모늄화 키토산/폴리도파민 스폰지(QCD)가 젤라틴 스폰지 대비 출혈량 0.011 vs 0.019 g·지혈시간 59.7 vs 87.0초 — 절대차는 혈액 8 mg·27초 수준이고 사람 데이터 없음
 - [[implants/survival/hamade-2024-hypertension-dental-implants-sr-ma]] — Hamadé 2024 · sr+ma · 24편·임플란트 21,066개: 고혈압은 임플란트 실패 위험 증가 없음(OR 1.10, p=0.671)
 - [[drug/systemic-disease/khalilurrahman-2026-raas-inhibitor-statin-periodontal-status-sr-ma]] — Khalilurrahman 2026 · sr+ma(정성 6편·정량 4편) · 심혈관질환 위험군 약물 — RAAS억제제(ACEI/ARB)는 치주상태 비일관적(2편뿐, 판정불가); 스타틴은 BOP -13.4%(p=0.007)·PD -0.38mm(p<0.00001) 유의개선(임상적 유의성은 불확실), CAL 무변화 (PMC full text)
+- [[drug/systemic-disease/chidiac-2026-antihypertensive-antihyperlipidemic-antidepressant-implant-survival]] — Chidiac 2026 · retrospective cohort(655환자/2,004임플란트, 10yr KM) · 항고혈압약 HR 0.23(p=0.013) 보호효과·스타틴 HR 0.16 보호·항우울제(SSRI) HR 2.17 유해; 단독복용군 비교
+- [[drug/systemic-disease/masri-2024-early-implant-failure-antihypertensive-medications]] — Masri 2024 · retrospective cohort(792환자/2,971임플란트, 이스라엘) · 항고혈압약 복용 고혈압: EIF 2.29% vs 정상혈압 4.33%(p=.01); 미복용 고혈압 6.25% — 최악; OR 0.618
+- [[drug/systemic-disease/carlos-2024-marginal-bone-loss-hypertension-hyperlipidemia-diabetes]] — Carlos 2024 · cross-sectional(57환자/165임플란트, UNLV) · 고혈압 MBL 78.95%·고지혈증 73.68%·당뇨 40.35%(NS); 소규모·혼란변수 주의
 - [[drug/systemic-disease/perozo-2026-perioperative-hemodynamic-hypertensive-oral-surgery-protocol]] — Perozo 2026 · retrospective · 고혈압 구강수술 기저혈압이 혈역학 변동 최대인자·출혈 7배↑; 3단계 Perozo 프로토콜 제안(미검증)
 - [[drug/systemic-disease/yang-2025-tooth-extraction-hypertensive-ecg-monitoring]] — Yang 2025 · retrospective · 고혈압 발치 2,059건: 8.0% 혈압강하제 필요(술전 SBP≥159 AUC0.91), 37.2% 일과성 부정맥(전부 비치명적)
 - [[drug/systemic-disease/kumari-2025-hemodynamic-fluctuations-during-tooth-extraction]] — Kumari 2025 · prospective(n=50) · 리도카인+아드레날린 발치 중 SBP/DBP/HR 상승; 코호트는 정상혈압이라 고혈압 권고는 외삽(주의) (PMC full text)
