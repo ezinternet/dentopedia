@@ -1,0 +1,17 @@
+PMID: 41490198
+DOI: 10.11607/jomi.11625
+Title: Effect of Time-Varying Glycemic Control on Long-Term Dental Implant Outcomes: A Retrospective Cohort Study
+Authors: Abichandani SJ, Dutta A
+Journal: The International Journal of Oral & Maxillofacial Implants
+Year: 2026
+Published: 2026-01-05
+
+ABSTRACT:
+
+PURPOSE: To quantify the association between time-varying HbA1c and long-term risks of implant failure and peri-implantitis, and to test for non-linear dose-response and thresholds.
+
+MATERIALS AND METHODS: Adults receiving endosseous implants (2015-2024) in a multi-provider practice network with ≥1 year potential follow-up were included. HbA1c was modeled as a time-updated exposure with a 30-day lag and 90-day carry-forward. Implant-level cause-specific Cox models with robust standard errors (patient clustering) and surgeon frailty estimated adjusted hazard ratios (aHRs). HbA1c was modeled continuously (restricted cubic splines) and categorically (<7.0%, 7.0-<8.0%, ≥8.0%). Competing risks were assessed using Fine-Gray models. Absolute risks were estimated using Kaplan-Meier (failure) and Aalen-Johansen (peri-implantitis).
+
+RESULTS: Among 782 adults (1,312 implants), median follow-up was 5.6 years. A total of 68 failures and 171 peri-implantitis events were recorded. Each 1% higher HbA1c was associated with increased hazards of failure and peri-implantitis. Compared with HbA1c <7.0%, HbA1c ≥8.0% was associated with approximately double the risk of failure and peri-implantitis. Spline models indicated non-linearity, with a steeper gradient beyond ~8.0%. Five-year absolute risks of failure were 3.2%, 4.8%, and 8.1%, and of peri-implantitis 12.1%, 17.2%, and 26.0% across HbA1c bands <7.0%, 7.0-<8.0%, and ≥8.0%, respectively. Findings were consistent in competing-risk and sensitivity analyses.
+
+CONCLUSIONS: Higher time-varying HbA1c levels were associated with a dose-dependent increase in implant failure and peri-implantitis risk, with a steeper rise above ~8.0%. Reporting absolute risks by glycemic category and emphasizing supportive periodontal therapy may improve shared decision-making.
