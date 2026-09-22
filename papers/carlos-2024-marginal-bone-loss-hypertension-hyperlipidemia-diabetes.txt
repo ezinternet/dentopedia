@@ -1,0 +1,41 @@
+Title: Correlation between marginal bone loss around dental implants and various systemic diseases: a cross-sectional study
+Authors: Alicia Carlos, Hassan Ziada, Neamat Hassan Abubakr
+Journal: International Journal of Implant Dentistry, 2024; 10(1):46
+DOI: 10.1186/s40729-024-00566-7
+PMID: 39446189
+PMCID: PMC11502616
+
+ABSTRACT
+Diminished bone levels or the lack of osseointegration can lead to higher rates of failure of dental implants. This study evaluates the correlation between hypertension, diabetes mellitus and hyperlipidemia on marginal bone loss (MBL) surrounding dental implants at UNLV dental clinics.
+
+Cross-sectional study. 1,310 electronic records screened; 57 patients with 165 implants met inclusion criteria. Patients with hypertension (78.95%) or hyperlipidemia (73.68%) had highest MBL prevalence; diabetes (40.35%) had least. HTN+hyperlipidemia combined (29.82%) had highest MBL incidence (p<0.05). HTN medications and statins showed same MBL trend (p<0.001).
+
+KEY RESULTS
+- n=57 patients, 165 implants, UNLV dental clinics 2012-2022
+- Age distribution: 65+ = 79%, 55-64 = 18%; predominantly elderly
+- 45.6% had >4 systemic diseases; 67% on ≥4 prescription medications
+- MBL prevalence:
+  - HTN patients: 78.95% (chi-square=19.105, p<0.001)
+  - Hyperlipidemia: 73.68% (p<0.001)
+  - Diabetes mellitus: 40.35% (p=0.145, NS)
+- Combined HTN+hyperlipidemia: 29.82% had highest MBL (p=0.036)
+- HTN medications: chi-square=30.422, p<0.001 — associated with MBL
+- Statin medications: chi-square=34.381, p<0.001 — associated with MBL
+- Number of systemic diseases correlated with MBL burden
+- Limitations: small sample (n=57), cross-sectional, self-reporting, no CBCT
+
+METHODS
+- Cross-sectional, retrospective record-based study
+- IRB exempt: UNLV #UNLV-2022-256; HIPAA compliant
+- AxiUM dental software for record retrieval + MiPACS imaging
+- Periapical radiographs, long-cone technique, 70kV, 0.16s
+- MBL measured: implant-abutment junction to coronal bone crest (mesial + distal)
+- Intra-examiner kappa=0.85
+- Exclusions: HIV/AIDS, limited radiographs
+- Statistical: Chi-square tests, SPSS v28
+
+MECHANISTIC CONTEXT
+- HTN → impaired calcium metabolism → decreased alveolar bone density, quality, and regeneration; delayed healing
+- Hyperlipidemia → increased osteoclast number → inhibited osteoblastic activity → impaired osseointegration
+- DM less impact on MBL here (possibly due to T2DM with varying glycemic control)
+- Note: MBL associated with medications MAY reflect polypharmacy in multimorbid patients rather than direct drug effects
