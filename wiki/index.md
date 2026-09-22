@@ -8,7 +8,7 @@ category: overviews
 evidence_level: narrative-review
 ---
 
-<p align="center" style="margin:0 0 0.5rem; font-size:0.8rem; color:var(--darkgray);">Last update <!-- LAST_UPDATED -->2026-06-08<!-- /LAST_UPDATED --> &nbsp;·&nbsp; 총 논문자료: <!-- PAPER_COUNT -->2115<!-- /PAPER_COUNT -->편 &nbsp;·&nbsp; 분야별 한눈에 요약: <!-- OVERVIEW_COUNT -->155<!-- /OVERVIEW_COUNT -->개</p>
+<p align="center" style="margin:0 0 0.5rem; font-size:0.8rem; color:var(--darkgray);">Last update <!-- LAST_UPDATED -->2026-09-22<!-- /LAST_UPDATED --> &nbsp;·&nbsp; 총 논문자료: <!-- PAPER_COUNT -->2118<!-- /PAPER_COUNT -->편 &nbsp;·&nbsp; 분야별 한눈에 요약: <!-- OVERVIEW_COUNT -->155<!-- /OVERVIEW_COUNT -->개</p>
 
 <div align="center" style="margin: 0.25rem 0 1.5rem;">
 <svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" role="img" style="width:100%; height:auto; display:block; max-width:1100px; margin:0 auto;">
@@ -108,4 +108,4 @@ evidence_level: narrative-review
 
 ## 전체 논문 카탈로그
 
-<!-- PAPER_COUNT -->2115<!-- /PAPER_COUNT -->편의 한 줄 주석이 달린 전체 카탈로그는 저장소 루트 `index.md`(Obsidian vault home)에 있습니다. 웹 사이트에는 의도적으로 미배포 — 단일 노드가 수천 페이지에 링크되면 그래프 뷰의 force 시뮬레이션이 과부하로 깨지기 때문. 전체 목록 열람·검색은 좌측 탐색기와 상단 검색으로 대체.
+<!-- PAPER_COUNT -->2118<!-- /PAPER_COUNT -->편의 한 줄 주석이 달린 전체 카탈로그는 저장소 루트 `index.md`(Obsidian vault home)에 있습니다. 웹 사이트에는 의도적으로 미배포 — 단일 노드가 수천 페이지에 링크되면 그래프 뷰의 force 시뮬레이션이 과부하로 깨지기 때문. 전체 목록 열람·검색은 좌측 탐색기와 상단 검색으로 대체.
