@@ -31,6 +31,9 @@ source_papers:
   - drug/khalilurrahman-2026-raas-inhibitor-statin-periodontal-status-sr-ma
   - drug/systemic-disease/ahmad-2025-glucagon-like-peptide-1-receptor
   - implants/survival/abichandani-2026-time-varying-glycemic-control-long
+  - drug/systemic-disease/chidiac-2026-antihypertensive-antihyperlipidemic-antidepressant-implant-survival
+  - drug/systemic-disease/masri-2024-early-implant-failure-antihypertensive-medications
+  - drug/systemic-disease/carlos-2024-marginal-bone-loss-hypertension-hyperlipidemia-diabetes
 evidence_level: synthesis
 source: synthesis
 relations:
@@ -50,6 +53,7 @@ agenda: agenda/2026-05-27_drug-overview-split.md
 > - **GLP-1 수용체 작용제(GLP-1 Receptor Agonist, GLP-1RA) 임플란트 함의** (Ahmad 2025 내러티브 리뷰): 엑세나타이드·리라글루타이드가 혈당 강하와 독립적으로 임플란트 주위 골형성 촉진·치주 염증 억제(Wnt/β-catenin). 유일 임상연구: GLP-1RA군 임플란트 주위 골소실 인슐린·메트포민 대비 유의 감소(p<0.01). 세마글루타이드(Semaglutide) 복용 환자 증가 → 타액저하 주의([[drug/systemic-disease/mawardi-2023-semaglutide-associated-hyposalivation-case-series]]).
 > - HbA1c 함정: Hb 변이·빈혈·용혈·수혈·만성신부전(CKD)에서 위양/위음 가능(Chen 2022, Weykamp 2013). HbA1c 단독 신뢰 금지, 공복·random glucose 병행. eAG(mg/dL) = 28.7 × A1C − 46.7(Nathan 2008).
 > - DDI: 고령 환자 DDI 보유율 40.7%, 처방자 인식률 42.7%(Pyo 2026). 대표 major DDI = Epinephrine + β-blocker. Major DDI는 31–60세 + 심혈관(CVD) 환자 집중(Colibasanu 2025).
+> - **항고혈압약(Antihypertensive, AHT)·스타틴(Statin)과 임플란트 결과** (Chidiac 2026·Masri 2024): 복용 고혈압 환자 임플란트 실패율이 정상혈압 대조군보다 **오히려 낮음** — 10년 위험비(Hazard Ratio, HR) 0.23(p=0.013, Chidiac 2026), 조기임플란트실패(Early Implant Failure, EIF) 2.29% vs 정상혈압 4.33%(p=.01, Masri 2024). 스타틴 HR 0.16(보호). **미복용 고혈압 = 최고위험** — 환자수준 EIF 28.6%. SSRI 포함 항우울제 HR 2.17(위험). Carlos 2024(소규모 n=57): 혼란변수 주의.
 > - Vasoconstrictor: 1:200,000 에피네프린이 1:80,000과 진통 동등하면서 혈역학적으로 더 안전(Karm 2017 RCT n=51) → CVD·고혈압·갑상선항진증 포함 1차 선택. 비선택적 β-blocker(Propranolol) 복용 시 희석+용량 minimize+BP/HR 모니터링.
 > - 임신: 1:100,000–200,000 에피네프린만 안전, Felypressin 금기(자궁수축), Levonordefrin 회피(Uritu 2025).
 > - 한국 마취·진정 표준화 비대칭: 진정은 2022 한국 가이드(15 PICO, moderate sedation·비마취과 포함, Karm 2023) 정립됐으나, 국소마취는 한국 표준 가이드 부재(Hwang 2023 proposal) → 클리닉 자체 SOP로 보완.
@@ -275,7 +279,7 @@ NRS (Numeric Rating Scale)를 outcome으로.
 
 ---
 
-## 10. 심혈관질환 약물(RAAS 억제제·스타틴)과 치주 상태
+## 10. 심혈관질환 약물(RAAS억제제·스타틴·항우울제)과 구강 조직
 
 [중간] **Khalilurrahman 2026** (SR+MA, PROSPERO CRD42024583905) — 심혈관질환 위험군(고혈압·고콜레스테롤혈증)이 복용하는 심장 관련 약물이 치주 상태에 미치는 직접 영향:
 
@@ -286,6 +290,29 @@ NRS (Numeric Rating Scale)를 outcome으로.
 - ACEI/ARB 복용 고혈압 환자를 "치주적으로 중립"이라 가정하지 말 것 — 치주염 위험 증가 가능성을 문진·치주평가에 반영.
 - ARB 복용자는 구강건조 동반 여부 확인 ([[drug/systemic-disease/khalilurrahman-2026-raas-inhibitor-statin-periodontal-status-sr-ma]] + 항고혈압제 구강건조 SR 연동).
 - 스타틴 복용 고콜레스테롤혈증 환자는 치주 이득 가능성이 있으나, 이를 근거로 치주 관리를 소홀히 해서는 안 됨(효과 크기 작고 비RCT 근거).
+
+### 10-2. 항고혈압약·스타틴·항우울제와 임플란트 결과
+
+**세 연구 일관된 방향**: 항고혈압약(AHT) 복용이 임플란트 결과에 보호 효과.
+
+- **Chidiac 2026** (Cureus; 655환자/2,004임플란트, 10yr KM; 단독복용군 vs 건강대조): AHT군 실패 1.29% vs 대조 5.12%; **HR 0.23**(95% CI 0.07–0.74, p=0.013). 스타틴군 HR 0.16(p=0.048) — 보호. SSRI 포함 항우울제군 실패 12.09%; **HR 2.17**(95% CI 1.17–4.04, p=0.014) — 유의 위험인자.
+
+- **Masri 2024** (Int Dent J; 792환자/2,971임플란트, 이스라엘, 3군):
+  - EIF(≤12개월) 임플란트 수준: HTN+복용 **2.29%** vs 정상혈압 4.33%(p=.01); 환자 수준: 9.70% vs 14.50%(p=.047)
+  - **미복용 고혈압 EIF 6.25%(임플란트)/28.60%(환자)** — 세 군 중 최악
+  - 다변량 OR 0.618(p=.059); β-blocker 61%·ACEi 41%·ARB 21%
+
+- **Carlos 2024** (Int J Implant Dent; 57환자/165임플란트, UNLV; 횡단): 고혈압 환자 변연골소실(Marginal Bone Loss, MBL) 78.95%, 고지혈증 73.68%, 당뇨 40.35%(모두 NS). 소규모 + 다중약물 혼란변수 → 인과 해석 주의.
+
+**공통 기전**: RAAS 억제 → RANKL 감소 → 파골세포 억제; 티아지드 → 장 Ca 흡수↑ + 조골세포 자극; β-blocker → 교감신경 차단 → 파골세포 활성↓; 스타틴 → HMG-CoA 억제 → 조골세포 분화 촉진. HTN 자체의 Ca 대사 이상을 약물이 상쇄 + 추가 뼈동화 효과 → 복용군이 정상혈압 대조군보다 낮은 실패율 가능.
+
+**SSRI 해악 기전**: 세로토닌 수용체가 조골세포에 존재 → 재흡수 억제 → 파골세포 분화↑·조골세포 증식↓ → 골밀도(Bone Mineral Density, BMD) 감소 → 임플란트 조기 실패.
+
+→ **치과 임상 적용 (임플란트)**:
+- 고혈압 진단만으로 임플란트 금기화 금지 — **복용 여부가 결정적 변수**.
+- 술전 필수 질문: "혈압약을 규칙적으로 복용하고 있습니까?" — 미복용 시 최고위험(EIF 28.6%).
+- 스타틴 복용 환자: 임플란트 예후 양호 가능성.
+- SSRI 복용 환자: 실패율 ~12% — 강화 모니터링, 충분한 골형성 확인 후 최종 보철.
 
 ---
 
@@ -303,6 +330,8 @@ NRS (Numeric Rating Scale)를 outcome으로.
 □ 항생제: prophylaxis 적응증 좁게, IE 고위험군 확인
 □ Corticosteroid: 단기 indication 좁게, 만성 복용자 부신위기 고려
 □ 이식·면역저하: 클리어런스 → 침습적 처치 시기 조정
+□ 임플란트 계획 시 — 항고혈압약 복용 여부 확인: 복용 고혈압 ≤ 정상혈압 실패율; 미복용 고혈압 = 최고위험(EIF 28.6%)
+□ 임플란트 계획 시 — SSRI 복용 여부 확인: HR 2.17 위험인자 → 강화 모니터링 계획
 ```
 
 ---
@@ -326,10 +355,20 @@ NRS (Numeric Rating Scale)를 outcome으로.
 | 한국 치과 국소마취 표준 가이드 부재 (제정 필요) | 낮음 (narrative position) | Hwang 2023 |
 | ACEI/ARB 치주상태 영향 비일관적(정성 2편뿐, 판정불가) | 낮음 (non-RCT 2편) | Khalilurrahman 2026 |
 | 전신 스타틴 → BOP -13.4%, PD -0.38mm 유의개선(임상적 유의성 불확실) | 중간 (MA 4편, non-RCT) | Khalilurrahman 2026 |
+| 항고혈압약 단독복용 → 임플란트 실패 HR 0.23(10yr KM); 스타틴 HR 0.16 | 중간 (retrospective, n=655, 10yr KM) | Chidiac 2026 |
+| SSRI 포함 항우울제 → 임플란트 실패 HR 2.17 | 중간 (retrospective, n=655) | Chidiac 2026 |
+| 복용 고혈압 EIF 2.29% < 정상혈압 4.33%; 미복용 고혈압 EIF 28.6%(최악) | 중간 (retrospective, n=792) | Masri 2024 |
+| 고혈압·고지혈증 환자 MBL 높지만 다중약물 혼란변수 제한 | 낮음 (cross-sectional, n=57) | Carlos 2024 |
 
 ---
 
 ## Related Papers
+
+### 신규 추가 (2026-09) — 항고혈압약·임플란트
+
+- [[drug/systemic-disease/chidiac-2026-antihypertensive-antihyperlipidemic-antidepressant-implant-survival]] — 항고혈압·스타틴·항우울제 복용 임플란트 예후 (retrospective 10yr KM, n=655); AHT HR 0.23 보호·스타틴 HR 0.16 보호·SSRI HR 2.17 위험
+- [[drug/systemic-disease/masri-2024-early-implant-failure-antihypertensive-medications]] — 복용 고혈압 EIF 2.29% vs 정상혈압 4.33%; 미복용 고혈압 28.6% 최악 (retrospective, n=792)
+- [[drug/systemic-disease/carlos-2024-marginal-bone-loss-hypertension-hyperlipidemia-diabetes]] — 고혈압·고지혈증·당뇨 동반 환자 MBL 횡단조사 (cross-sectional, n=57; 소규모·다중약물 혼란변수 주의)
 
 ### 신규 추가 (2026-07)
 
