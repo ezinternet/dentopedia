@@ -171,3 +171,7 @@ All three NMA confirm success rates decline over time regardless of material (Ha
 ### 신규 추가 (2026-06)
 
 - [[endodontics/vpt/jkda-2025-63-2-005]] — Review (NHIS 일산병원 보존과 송민주, JKDA 2025): 미성숙 영구치의 vital pulp therapy … (narrative-review, 2025)
+
+### 신규 추가 (2026-09)
+
+- [[endodontics/vpt/cabrera-fernandez-2026-clinical-radiographic-vital-pulp]] — SR+MA (9 RCTs): TheraCal LC(RM-CSM) 임상·방사선 성공률은 NRM-CSM과 동등(90·180·360일 모두 유의차 없음)이나 360일 상아교 형성 유의 열등(RR 0.85, CI 0.76–0.95); 기전: 레진 단량체(PEGDMA, Bis-GMA) 침출 → 상아모세포 분화 억제; 결론: 조작성 우선 시 RM-CSM 허용, 재생 극대화엔 NRM-CSM (sr-ma, 2026)
