@@ -1146,6 +1146,7 @@ tags: []
 - [[prosthetic-materials/abutment-screw/zhang-2026-bibliometric-implant-abutment-research-2005-2024]] — Zhang 2026 · narrative-review(bibliometric) · 임플란트 지대주 연구 2051편(WoS 2005–2024) 계량서지 지도: 미국·상파울루·취리히 주도, 핵심 저자 Canullo·Sailer, 주제 이동 티타늄(2005–10) → 플랫폼스위칭·FEA(2011–19) → 지르코니아·미생물누출·연결부 안정성(2020–24) — 연구 활동의 지도이지 임상 효과의 근거가 아님 (DOI 10.1016/j.prosdent.2026.03.003)
 - [[prosthetic-materials/toia-2021-fixed-full-arch-maxillary-prostheses]] — 3-year multicentre RCT, 4 vs 6 implants for titanium CAD/CAM-milled maxillary full-arch fixed prostheses: no significant MBL difference, high prosthetic (tooth chipping/fracture) complication rate 47.2% (2021)
 - [[prosthetic-materials/toia-2025-fixed-full-arch-maxillary-prostheses]] — 5-year multicenter RCT: 4 vs 6 implants for maxillary fixed complete dentures, non-inferior MBL, 4-I higher technical complications but lower cost (2025)
+- [[implants/full-arch/alshahrani-2026-full-arch-monolithic-zirconia-prostheses-5year-retrospective]] — 후향적(n=3300 CAFIP, 5년): 단일체 ZrO₂ 전악 보철 5년 생존율 91.67%; 프레임워크 파절 38건(수직 공간 부족 주인); Ti 실린더 실패 0건; 연도별 실패 증가 추이(2→14건)
 - [[prosthetic-materials/abutment-screw/park-2025-cementless-screw-retained-single-implant-rct]] — Park 2025 · rct · 예비 RCT(40임플란트/35명, ~6개월): 완전 디지털 시멘트리스 나사유지(CL-SRP) vs 재래 CSCRP — 총 보철시간 588.79 vs 1363.15초(p<0.001)·조기 MBL 0.47 vs 0.71 mm(p<0.05)로 유의하게 우세; 정확도·연조직 동등, 시멘트리스 나사유지 설계 최초 임상 근거
 
 ## 총의치·가철성보철 (Complete Denture / Removable Prosthodontics — added 2026-06-16)
