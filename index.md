@@ -3367,6 +3367,7 @@ tags: []
 - [[implants/pieralli-2017-clinical-outcomes-zirconia-dental-implants]] — Pieralli 2017 · sr (9편·398 implants): 12개월 생존 95.6%, MBL 0.79mm; 설계·재료·하중방식 MBL 무영향 (→ Mohseni 2024로 부분대체)
 - [[behavioral-dentistry/patient-reported-outcomes/arefnia-2025-patient-reported-outcomes-zirconia-implant]] — Arefnia 2025 · sr (12 controlled): 지르코니아 임플란트 환자 만족도 높음·심미/편안함/저작 개선, PROM 도구 이질성 큼
 - [[implants/shetty-2026-titanium-vs-zirconia-implants-umbrella]] — Shetty 2026 · sr, umbrella review (SR 6편): 티타늄 vs 지르코니아 직접비교, 생존·성공률 티타늄 우세(Duan 2023 MA success RR 0.87) — Mohseni 2024의 설계층화 결론과 긴장관계
+- [[implants/surface/balmer-2026-zirconia-titanium-implants-prosthetic-outcome-rct]] — RCT 1년(n=112, 다기관): ZI vs TI 보철 생존율 동등 100%; 기술적 합병증 군간 NS — 크라운 디자인(베니어 > 단일체)이 임플란트 소재보다 합병증 결정적 영향
 
 #### implants/peri-implantitis
 - [[implants/peri-implantitis/monje-2025-surface-decontamination-reconstructive-peri-implantitis]] — Monje 2025 · rct (multicenter, 58pt): 재건적 주위염 표면제염 전해법(GalvoSurge) vs 과산화수소 — 둘 다 효과적, 우열 없음
