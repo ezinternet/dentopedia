@@ -16,6 +16,7 @@ source_papers:
   - immediate-implant/felice-2016-immediate-immediate-delayed-post-extractive
   - immediate-implant/esposito-2017-immediate-immediate-delayed-post-extractive
   - immediate-implant/checchi-2017-wide-diameter-immediate-post-extractive
+  - immediate-implant/esposito-2026-7mm-5mm-immediate-molar-rct
   - immediate-implant/gap-grafting/el-ebiary-2023-guided-immediate-implant-mixture-autogenous
   - immediate-implant/socket-shield/venkatraman-2023-comparison-soft-tissue-volumetric
   - immediate-implant/yang-2026-immediate-vs-delayed-implants-survival-qol-rct
