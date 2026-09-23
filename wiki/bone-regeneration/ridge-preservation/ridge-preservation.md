@@ -2,7 +2,7 @@
 title: "골재생·치조제보존 — ridge-preservation"
 authors: navigation
 year: 2026
-date: 2026-08-29
+date: 2026-09-23
 doi: N/A
 source: navigation
 category: bone-regeneration/ridge-preservation
@@ -15,26 +15,28 @@ tags: [navigation, category-index, ridge-preservation]
 > [!summary] 한국어 핵심요약
 > - **분야**: 골재생·치조제보존
 > - **범위**: Alveolar ridge preservation (ARP) / socket preservation — post-extraction dimensional changes (Araujo/Tan/Schropp), ARP efficacy SR/MA & Cochrane, grafting materials & sealing/socket-seal, flap vs flapless, biologics/PRF, esthetic-zone ARP, ARP→implant outcomes
-> - **수록 논문**: 80편
+> - **수록 논문**: 88편
 
 ## Three-line Summary
 
 **Scope**: Alveolar ridge preservation (ARP) / socket preservation — post-extraction dimensional changes (Araujo/Tan/Schropp), ARP efficacy SR/MA & Cochrane, grafting materials & sealing/socket-seal, flap vs flapless, biologics/PRF, esthetic-zone ARP, ARP→implant outcomes
-**Indexed papers**: 80 papers in `wiki/bone-regeneration/ridge-preservation/`.
+**Indexed papers**: 88 papers in `wiki/bone-regeneration/ridge-preservation/`.
 
 ## 세줄요약
 
 **분야**: 골재생·치조제보존
-**수록 논문**: 80편
+**수록 논문**: 88편
 **하위 카테고리**: 없음
 
-## Papers in this Category (80)
+## Papers in this Category (88)
 
 | Paper |
 |---|
+| [[abdulkarim-2021-bone-graft-cbct-bone-density-pilot|Effect of Bone Graft on the Correlation between Clinical Bone Quality and CBCT-determined Bone Density: A Pilot Study]] |
 | [[adams-2022-clinical-evidence-alveolar-ridge-preservation|Is there clinical evidence to support alveolar ridge preservation over extraction alone? A review of recent literature and case reports of late graft failure]] |
 | [[alavi-2024-regenerative-grafts-socket-preservation-sr-ma|Regenerative graft materials for socket preservation: SR+MA of RCTs (Alavi 2024)]] |
 | [[alrayyes-2022-prf-socket-preservation-smokers-rct|Soft-Tissue Healing Assessment after Extraction and Socket Preservation Using Platelet-Rich Fibrin (PRF) in Smokers: A Single-Blinded, Randomized, Controlled Clinical Trial]] |
+| [[anitua-2026-prgf-alveolar-ridge-preservation-rct|Plasma rich in growth factors in alveolar ridge preservation: randomized, controlled clinical trial.]] |
 | [[araujo-2005-dimensional-ridge-alterations-tooth-extraction|Dimensional Ridge Alterations Following Tooth Extraction: An Experimental Study in the Dog]] |
 | [[araujo-2009-ridge-alterations-flap-vs-flapless|Ridge alterations following tooth extraction with and without flap elevation: an experimental study in the dog]] |
 | [[arroteia-2025-alveolar-ridge-preservation-posterior-rct|Dimensional Changes After Different Alveolar Ridge Preservation Techniques for Posterior Region: A Randomised Controlled Clinical Trial]] |
@@ -64,10 +66,13 @@ tags: [navigation, category-index, ridge-preservation]
 | [[hartmann-2026-bio-oss-collagen-ridge-preservation-cbct-cohort|Volumetric Analysis of Ridge Preservation Using Bio-Oss Collagen: A Retrospective Cohort Study Based on CBCT and Panoramic Radiographs]] |
 | [[ionescu-2022-open-healing-flapless-ridge-preservation|Open Healing: A Minimally Invasive Protocol with Flapless Ridge Preservation in Implant Patients]] |
 | [[iorio-siciliano-2019-dimensional-changes-following-alveolar-ridge|Dimensional changes following alveolar ridge preservation in the posterior area using bovine-derived xenografts and collagen membrane compared to spontaneous healing: a 6-month randomized controlled clinical trial]] |
+| [[ivanova-2020-bone-density-primary-stability-histomorphometric-maxilla|Association between Bone Density Values, Primary Stability and Histomorphometric Analysis of Dental Implant Osteotomy Sites on the Upper Jaw]] |
 | [[jung-2018-alveolar-ridge-preservation-esthetic-zone|Alveolar ridge preservation in the esthetic zone]] |
 | [[jung-2025-arp-peri-implantitis-isq-preclinical|Correlation between Newly Formed Bone and Progression of Experimental Peri-implantitis with/without Alveolar Ridge Preservation]] |
 | [[kalsi-2019-alveolar-ridge-preservation-why-when|Alveolar ridge preservation: why, when and how]] |
+| [[kamath-2026-ddr2-tooth-extraction-socket-healing|Discoidin Domain Receptor 2 Is Required for Tooth Extraction Socket Healing]] |
 | [[kang-2025-implant-failure-predictors-ridge-preservation|Predictors of implant treatment failure after alveolar ridge preservation]] |
+| [[khehra-2025-arp-xenograft-collagen-membrane-rct|Outcomes of alveolar ridge preservation using a collagenated bovine bone xenograft: A randomized controlled trial]] |
 | [[kim-2020-bmp2-immediate-delayed-damaged-socket-yonsei|Immediate versus delayed application of bone morphogenetic protein-2 solution in damaged extraction sockets: a preclinical in vivo investigation]] |
 | [[kim-2024-advancements-alveolar-bone-grafting-ridge|Advancements in alveolar bone grafting and ridge preservation: a narrative review on materials, techniques, and clinical outcomes]] |
 | [[kim-2024-collagenated-xenograft-arp-rct|Alveolar Ridge Preservation Using a Collagenated Xenograft: A Randomized Clinical Trial]] |
@@ -83,6 +88,7 @@ tags: [navigation, category-index, ridge-preservation]
 | [[mardas-2023-alveolar-ridge-preservation-overtreatment|Is alveolar ridge preservation an overtreatment?]] |
 | [[minetti-2020-alveolar-socket-preservation-autologous-graft|Alveolar Socket Preservation with Different Autologous Graft Materials: Preliminary Results of a Multicenter Pilot Study in Human]] |
 | [[muller-2025-arp-vs-sh-early-implant-3year-rct|Profilometric and radiographic analyses after early implant placement in sites with ridge preservation or spontaneous healing: 3-year follow-up of an exploratory randomized controlled trial]] |
+| [[mun-2024-macrophage-msc-tnf-tooth-extraction|Macrophages modulate mesenchymal stem cell function via tumor necrosis factor alpha in tooth extraction model]] |
 | [[nainoor-2024-enha-dfdba-prf-socket-preservation|Comparison of Clinical and Radiographic Assessment of Efficacy of Eggshell-Derived Nanohydroxyapatite (EnHA) and Demineralized Freeze-Dried Bone Allograft (DFDBA), Both Covered with Platelet-Rich Fibrin (PRF) as a Barrier Membrane in Socket Preservation: A Randomized Controlled Clinical Trial]] |
 | [[nakajima-2026-tooth-root-graft-alveolar-preservation|Tooth Root-Derived Graft Promotes Complete Bone Replacement in Alveolar Ridge Preservation: Comparative Study with a Collagenic Xenograft in Dogs]] |
 | [[nisar-2020-collagen-plug-socket-preservation|Extraction socket preservation using a collagen plug combined with platelet-rich plasma (PRP): A comparative clinico-radiographic study]] |
@@ -108,7 +114,9 @@ tags: [navigation, category-index, ridge-preservation]
 | [[ucer-2023-extraction-socket-augmentation-platelet-rich-fibrin|Extraction Socket Augmentation with Autologous Platelet-Rich Fibrin (PRF): The Rationale for Socket Augmentation]] |
 | [[van-orten-2024-species-specific-collagen-dbbm-arp|Alveolar Ridge Preservation Using a Novel Species-Specific Collagen-Enriched Deproteinized Bovine Bone Mineral: Histological Evaluation of a Prospective Case Series]] |
 | [[vanderweijden-2009-alveolar-bone-dimensional-changes|Alveolar bone dimensional changes of post-extraction sockets in humans: a systematic review]] |
+| [[vora-2025-arp-molar-sites-sr|Is Alveolar Ridge Preservation Necessary in Molar Sites? A Systematic Review.]] |
 | [[wang-2024-simplified-gbr-biocollagen-prf-posterior-ridge|A Simplified GBR Treatment and Evaluation of Posterior Seibert Class I Ridge Defects via Bio-collagen and Platelet-Rich Fibrin: A Retrospective Study]] |
 | [[xu-2026-demineralized-dentin-matrix-versus-xenograft-arp-rct|Clinical, radiographic, and histological evaluation of autogenous demineralized dentin matrix versus xenograft in alveolar ridge preservation: a randomized controlled trial]] |
+| [[yin-2024-biomaterials-therapeutic-strategies-extraction-socket-healing|Biomaterials and therapeutic strategies designed for tooth extraction socket healing.]] |
 | [[yu-2026-bone-particle-size-arp-periodontally-compromised-molars|Impact of Bone Particle Size on Alveolar Ridge Preservation in Periodontally Compromised Molar Extraction Sites]] |
 | [[zhang-2022-ridge-preservation-molar-extraction-periodontitis|Assessment of Soft and Hard Tissue Characteristics of Ridge Preservation at Molar Extraction Sites with Severe Periodontitis: A Randomized Controlled Trial]] |
