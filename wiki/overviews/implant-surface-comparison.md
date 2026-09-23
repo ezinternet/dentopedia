@@ -6,7 +6,9 @@ date: 2026-08-07
 type: overview
 category: [overviews]
 tags: [implant-surface, SLA, SLActive, CA, UV-photofunctionalization, hydroxyapatite, hydrophilic, biological-aging, osseointegration, bone-to-implant-contact, BIC, surface-topography, magnesium-coating, silver-coating, tricalcium-phosphate, implant-neck-topography, peri-implantitis-risk, adventitious-carbon, organic-acid, native-oxide, wavelength-dependent]
-source_papers: 
+source_papers:
+  - wiki/implants/isq/novellino-2017-rfa-posterior-maxilla-surface-treatment.md
+  - wiki/implants/isq/yi-2011-rfa-stability-types-areas.md
 evidence_level: synthesis
 source: synthesis
 relations:
