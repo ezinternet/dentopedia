@@ -610,6 +610,7 @@ tags: []
 - [[immediate-implant/felice-2016-immediate-immediate-delayed-post-extractive]] — 3군 RCT(n=210, 4개월 시점): 즉시·즉시지연(6주)·지연(4개월) 식립 — 실패율 6.0/6.2/1.6%(무의미)나 변연골소실·PES는 지연할수록 유의하게 악화(P=.006/<.001). esposito-2017(같은 코호트 1년 후속보고)과 연계.
 - [[immediate-implant/esposito-2017-immediate-immediate-delayed-post-extractive]] — 위 3군 RCT 1년 후속보고(동일 210명 코호트): 실패율 4개월과 동일(신규실패 없음), 변연골·PES 패턴 그대로 유지(P=.015/<.001) — 즉시·즉시지연 우위가 일시적 아님을 확인.
 - [[immediate-implant/checchi-2017-wide-diameter-immediate-post-extractive]] — RCT(n=100, 구치부): 즉시 광경직경(6-8mm) vs 치조제보존 후 지연 통상직경(4-5mm) — PES는 지연군 유의 우위(4개월 P=.03, 1년 P=.02), 즉시군은 내원·수술횟수 유의하게 적음(P<.001). puisys-2022와 심미 방향 반대(부위·직경 차이로 해석).
+- [[immediate-implant/esposito-2026-7mm-5mm-immediate-molar-rct]] — 다기관 RCT (39명, 5개 센터, 1년): 7mm vs 5mm 즉시 대구치 식립 — 생존율·MBL·PES 차이 없음, 7mm 합병증 유의 더 많음 (21.1% vs 0%, p=0.047). (Esposito 2026)
 - [[immediate-implant/esthetic-soft-tissue/weigl-2016-impact-immediately-placed-restored]] — SR(17편, 626 IIPR): 무피판 65.6%, jump space 1.38–2.25mm, 성공률 97.96%·생존율 98.25%(평균 31.2개월) — 생물형 무관 중안모 점막변화 <0.95mm.
 - [[immediate-implant/gap-grafting/foad-2026-clinical-and-radiographic-evaluation-of]] — 즉시식립 간극에 천연 우골+히알루론산(cerabone plus) 이식 RCT(n=16): 4개월 ISQ 72.25 vs 64.88(p<0.001), 6개월 골밀도 1163.38 vs 1034.13 HU(p=0.016), 협측골 폭 감소 3.88% vs 15.99% — DBB 단독 대조군 부재로 HA 고유효과 미분리(예비적)
 - [[immediate-implant/molar-septum/hassan-2026-implant-stability-following-septal]] — 파일럿 RCT(20명, 1:1): 하악 대구치 즉시식립 치근간격벽 확장에서 압전골수술(PISP, Intralift) vs 골밀도화(OD, Densah) — 1·2차 ISQ 동등(66.75 vs 69.25, 76.75 vs 78.50, p>0.05), PISP 삽입토크 우위(40.33 vs 35.00 Ncm, p=0.004)·VAS 통증 하(단 절삭시간 연장), 합병증 없음
@@ -4514,6 +4515,8 @@ tags: []
 
 ### implants/isq
 - [[implants/isq/venkatesh-2026-three-osteotomy-techniques-posterior-rct]] — Venkatesh 2026 · rct (30명, 후방 상악) · conventional vs Summers' osteotome vs OD ISQ — NS 유의차; 수치적 OD≥conventional>osteotome; 전군 100% 생존 (DOI 10.1186/s12903-026-08858-7)
+- [[implants/isq/novellino-2017-rfa-posterior-maxilla-surface-treatment]] — RCT (64개, 21명, 상악 구치부 16주): 친수성 SAE가 표준 SAE보다 ISQ ≥70 도달 2.24배 빠름 (Cox HR 2.24, CI 1.62–3.11); 8주 이후 ISQ 유의 우위 (ANOVA p<0.01). (Novellino 2017)
+- [[implants/isq/yi-2011-rfa-stability-types-areas]] — 후향적 (206개, 131명, 한국): 3개월 ISQ = 하악 > 상악, 직경 4.8 > 4.1 (SLA), SLA(Straumann) > RBM(Osstem) 특히 하악 구치부(p=0.045)·상악 소구치부(p=0.032). (Yi 2011)
 
 ### implants
 - [[implants/canullo-2026-hybrid-funnel-technique-mbl-3year]] — Canullo 2026 · prospective (3년, 87개) · HFT vs 기존 드릴링: 3년 MBL 0.46 vs 1.34mm(p<0.001); 골삭제법만 MBL 독립예측인자(β=−1.10mm) (DOI 10.1111/cid.70175)
