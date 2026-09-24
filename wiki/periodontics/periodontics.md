@@ -2,7 +2,7 @@
 title: "치주치료 — periodontics"
 authors: navigation
 year: 2026
-date: 2026-09-16
+date: 2026-09-25
 doi: N/A
 source: navigation
 category: periodontics
@@ -16,30 +16,32 @@ tags: [navigation, category-index, periodontics]
 > - **분야**: 치주치료
 > - **범위**: Periodontal disease, classification, regeneration/root-coverage, SPT, periodontal-systemic links, general periodontics not covered by a subcategory.
 > - **하위 카테고리**: [[host-modulation]] · [[non-surgical-instrumentation]] · [[oral-hygiene-instruction]]
-> - **수록 논문**: 69편
+> - **수록 논문**: 77편
 
 ## Three-line Summary
 
 **Scope**: Periodontal disease, classification, regeneration/root-coverage, SPT, periodontal-systemic links, general periodontics not covered by a subcategory.
-**Indexed papers**: 69 papers in `wiki/periodontics/`.
+**Indexed papers**: 77 papers in `wiki/periodontics/`.
 **Sub-categories**: [[host-modulation]], [[non-surgical-instrumentation]], [[oral-hygiene-instruction]]
 
 ## 세줄요약
 
 **분야**: 치주치료
-**수록 논문**: 69편
+**수록 논문**: 77편
 **하위 카테고리**: host-modulation, non-surgical-instrumentation, oral-hygiene-instruction
 
-## Papers in this Category (69)
+## Papers in this Category (77)
 
 | Paper |
 |---|
 | [[abdulkarim-2024-digital-assessment-supracrestal-tissue-attachment|Digital assessment of supracrestal tissue attachment and its correlation with dentogingival components]] |
+| [[abusamak-2026-melatonin-nspt-adjunct-sr-ma|Melatonin as NSPT Adjunct: SR+MA]] |
 | [[aijima-2014-trpv3-oral-epithelial-wound-healing|The thermosensitive TRPV3 channel contributes to rapid wound healing in oral epithelia]] |
 | [[alam-2024-supracrestal-tissue-attachment-biologic-width|Identification, Evaluation, and Correction of Supracrestal Tissue Attachment (Previously Biologic Width) Violation: A Case Presentation With Literature Review]] |
 | [[alharbi-2019-management-acute-periodontal-abscess-mimicking|Management of Acute Periodontal Abscess Mimicking Acute Apical Abscess in the Anterior Lingual Region: A Case Report]] |
 | [[apatzidou-2022-cigarette-smoking-periodontal-implant-review|The role of cigarette smoking in periodontal disease and treatment outcomes of dental implant therapy]] |
 | [[arbildo-vega-2024-periodontal-disease-diabetes-mellitus-umbrella|An Umbrella Review of the Association Between Periodontal Disease and Diabetes Mellitus]] |
+| [[arbildo-vega-2026-periodontal-restorative-nccl-gr-sr|Efficacy of combined periodontal-restorative treatment versus periodontal treatment alone for gingival recession associated with non-carious cervical lesions: a systematic review and meta-analysis]] |
 | [[baeza-2020-effect-periodontal-treatment-patients-periodontitis|Effect of periodontal treatment in patients with periodontitis and diabetes: systematic review and meta-analysis]] |
 | [[barboza-2014-dptfe-membrane-keratinized-tissue-rct|Evaluation of a Dense Polytetrafluoroethylene Membrane to Increase Keratinized Tissue: A Randomized Controlled Clinical Trial]] |
 | [[barootchi-2024-autologous-platelet-concentrates-root-coverage|Autologous platelet concentrates in root coverage procedures]] |
@@ -50,6 +52,7 @@ tags: [navigation, category-index, periodontics]
 | [[corana-2024-salivary-proteomics-novel-biomarkers-periodontitis-sr|Salivary Proteomics for Detecting Novel Biomarkers of Periodontitis: A Systematic Review]] |
 | [[corekci-2025-deepithelialized-gingival-graft-lprf-recession-rct|Root coverage and patient-reported outcomes of de-epithelialized gingival graft with and without leukocyte platelet-rich fibrin in multiple recession defects: a split-mouth randomized trial]] |
 | [[cosin-villanueva-2024-micrornas-gingival-crevicular-fluid-periodontal|Study of microRNAs in Gingival Crevicular Fluid as Periodontal Diseases Biomarkers: Systematic Review]] |
+| [[dannewitz-2026-digital-companion-perio-rct|Digital Companion App (Paro-ComPas) for Periodontal Care: Multicenter RCT]] |
 | [[dasilva-2022-periodontal-status-salivary-leptin-sle|The influence of periodontal status and serum biomarkers on salivary leptin levels in systemic lupus erythematosus patients]] |
 | [[dawes-2003-oral-mucosal-epithelium-turnover-time|Estimates, from salivary analyses, of the turnover time of the oral mucosal epithelium in humans and the number of bacteria in an edentulous mouth]] |
 | [[demolon-2026-periodontitis-bone-loss-signaling-pathways|Inflammatory bone loss and signaling pathways in periodontitis: mechanistic insights and emerging therapeutic strategies]] |
@@ -57,11 +60,13 @@ tags: [navigation, category-index, periodontics]
 | [[dommisch-2026-management-periodontal-abscesses-endodontic-periodontal|Management of Periodontal Abscesses and Endodontic-Periodontal Lesions—A Systematic Review]] |
 | [[drukala-2005-comparison-of-proliferation-and-motile|Comparison of Proliferation and Motile Activity Between Human Keratinocytes Isolated from Skin and Oral Mucosa]] |
 | [[ercoli-2021-fixed-dental-prostheses-restorations-periodontium|The Relationships Between Tooth-Supported Fixed Dental Prostheses and Restorations and the Periodontium]] |
+| [[estrin-2026-prf-vs-emd-nspt-rct|PRF vs EMD Adjuncts to NSPT: Split-Mouth RCT]] |
 | [[fadli-2024-oral-gingival-crevicular-fluid-jawbone-turnover|Oral and Gingival Crevicular Fluid Biomarkers for Jawbone Turnover Diseases: A Scoping Review]] |
 | [[farooqi-2015-periodontal-maintenance-recall-interval-sr|Appropriate Recall Interval for Periodontal Maintenance: A Systematic Review]] |
 | [[fee-2020-recall-intervals-oral-health-primary-care|Recall intervals for oral health in primary care patients]] |
 | [[foroughi-2025-bridging-oral-systemic-health-periodontal|Bridging oral and systemic health: exploring pathogenesis, biomarkers, and diagnostic innovations in periodontal disease]] |
 | [[glim-2013-detrimental-dermal-wound-healing|Detrimental dermal wound healing: What can we learn from the oral mucosa?]] |
+| [[gould-2026-vaping-perio-peri-implant-treatment-sr|Vaping and Periodontal/Peri-Implant Treatment Outcomes: SR]] |
 | [[gualtieri-2025-mcaf-gingival-recession-sr-ma|Modified Coronally Advanced Flaps: A Systematic Review and Meta-Analysis]] |
 | [[hajaj-2025-marginal-tooth-preparation-periodontal-health|Influence of Marginal Tooth Preparation Designs on Periodontal Health and Long-Term Stability: A Narrative Review]] |
 | [[hamasni-2017-biologic-width-restorative-dentistry|Comparison of the Clinical Biological Width with the Published Standard Histologic Mean Values]] |
@@ -81,6 +86,7 @@ tags: [navigation, category-index, periodontics]
 | [[lamichhane-2025-crown-margins-marginal-adaptation-periodontal|Comparison of periodontal status between abutment and non-abutment teeth in patients with fixed dental prosthesis]] |
 | [[lee-2025-prevalence-classification-factors-cemental-tears|Prevalence, Classification and Factors Associated With Cemental Tears—A Retrospective Observational Cross-Sectional Study in a Postgraduate Endodontic Clinic]] |
 | [[liang-2025-cemental-tear-diagnosis-treatment-consensus|Expert consensus on the diagnosis and treatment of cemental tear]] |
+| [[mahintach-2026-ha-vs-emd-intrabony-defects-sr-ma|Hyaluronic Acid vs EMD for Intrabony Defects: SR+MA]] |
 | [[manresa-2018-supportive-periodontal-therapy-cochrane-sr|Supportive periodontal therapy (SPT) for maintaining the dentition in adults treated for periodontitis]] |
 | [[maybodi-2022-periodontal-treatment-sle-disease-activity-rct|Effect of periodontal treatment on serum inflammatory parameters and disease activity in patients with systemic lupus erythematosus: A randomized controlled trial]] |
 | [[mucogingival-surgery-apf-fgg-ctg|치주성형 술식 — APF · FGG · CTG 구분과 적응증]] |
@@ -88,8 +94,10 @@ tags: [navigation, category-index, periodontics]
 | [[nibali-2016-tooth-loss-furcation-involvement-sr-ma|Tooth loss in molars with and without furcation involvement – a systematic review and meta-analysis]] |
 | [[ohshima-2002-egf-saliva-oral-epithelial-migration|Physiologic levels of epidermal growth factor in saliva stimulate cell migration of an oral epithelial cell line, HO-1-N-1]] |
 | [[padilla-avallos-2026-supracrestal-tissue-attachment-biologic-width|Supracrestal Tissue Attachment (Biologic Width) in Clinical Practice: A Narrative Review]] |
+| [[papantonatou-2026-ctg-vs-vcmx-implant-placement-rct|CTG vs VCMX Soft-Tissue Augmentation at Implant Placement: RCT]] |
 | [[papapanou-2018-periodontitis-classification-consensus-2017|Periodontitis: Consensus report workgroup 2, 2017 World Workshop on Classification]] |
 | [[qiao-2020-rheumatoid-arthritis-risk-periodontitis-sr-ma|Rheumatoid arthritis risk in periodontitis patients: A systematic review and meta-analysis]] |
+| [[santamaria-2026-gr-nccl-treatment-decision-tree|An updated evidence-based recommendation for the treatment of gingival recession associated with non-carious cervical lesions]] |
 | [[sanz-2020-treatment-stage-i-iii-periodontitis-efp|Treatment of stage I–III periodontitis—The EFP S3 level clinical practice guideline]] |
 | [[scannapieco-2021-dysbiosis-oral-microbiome-periodontitis|Dysbiosis revisited: Understanding the role of the oral microbiome in the pathogenesis of gingivitis and periodontitis: A critical assessment]] |
 | [[schatzle-2001-restoration-margins-periodontal-tissues-26year|The influence of margins of restorations on the periodontal tissues over 26 years]] |
