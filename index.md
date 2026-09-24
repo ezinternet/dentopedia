@@ -1607,6 +1607,10 @@ tags: []
 - [[resin-bonding/emami-arjomand-2024-chx-ipa-fiber-post-bond]] — Emami Arjomand 2024 in-vitro(Frontiers in Dentistry, PMC full text): TheraCem 합착 전 상아질 전처리로 70% 이소프로필알코올(IA)이 2% 클로르헥시딘(CHX)·무처리 대조군보다 즉시·열순환 후 fiber post PBS 모두 유의하게 높음(P<0.001)
 - [[resin-bonding/parra-2026-pushout-bond-strength-fiberglass-posts]] — Parra 2026 in-vitro(Cureus, PMC full text): TheraCem 합착 fiberglass post의 NaOCl 활성화 방식(초음파 vs 기계식) 비교 — 초음파가 수치상 높으나(13.60 vs 11.62 MPa) 통계적 유의성 없음(p=0.1745); 양군 모두 치근단부 결합강도 최고
 - [[resin-bonding/el-alaoui-2026-dentin-biomodification-resin-composite-umbrella]] — El Alaoui 2026 umbrella review(Int Dent J, PMC full text, PROSPERO CRD42024588804): 9편 SR(7편 MA) 종합 dentin biomodifier 20종 taxonomy(천연/물리/화학) — NTAP 장기 결합강도 향상 최다 근거(SMD 최대 3.28), GSE·chitosan 장기 개선, NaOCl·HOCl은 유의 저하; CCA=1.52%(overall slight) but NTAP 두 SR 간 57.9%(very high) 중복 (DOI 10.1016/j.identj.2026.109446)
+- [[resin-bonding/karaduman-2026-universal-adhesives-etching-modes-sr-nma]] — Karaduman 2026 · SR+네트워크MA (82편, 2013–2025): 22종 범용 접착제 SUCRA 순위 — S-E 최고 G2BU(5.86%), E-R 최고 ZU(6.32%); GPB·FU 전조건 최저; CUBQ·IBU 노화 후 E-R 급락; 제형 전략이 기능성 단량체 종류보다 성능 결정 (DOI 10.1186/s12903-026-08982-4)
+- [[resin-bonding/bourgi-2026-chx-pretreatment-clinical-adhesive-restorations-sr-ma]] — Bourgi 2026 · SR+MA (11 RCT/CCT, 최대 4년): 클로르헥시딘(CHX) 전처리가 접착 수복물 유지율·술후 과민·2차 우식 모두에서 대조군과 무유의차(RD 0.00–0.01, I²=0%); 실험실 MMP억제 효과가 임상 전이 안 됨; 고위험 우식 환자 항균 목적엔 여전히 선택 가능 (DOI 10.3389/fdmed.2026.1746184)
+- [[resin-bonding/liao-2026-collagen-crosslinkers-resin-dentin-interface-sr-ma]] — Liao 2026 · SR+MA (63편 in vitro): 알데히드·키토산·리보플라빈·폴리페놀·카르보디이미드계 가교제 — E&R 전처리 병용 시 가장 일관된 접착력 향상; 키토산·실록산 근거 미확인; GRADE 낮음~매우 낮음 (DOI 10.1016/j.prosdent.2026.07.032)
+- [[resin-bonding/hamdi-2025-surface-pretreatments-sclerotic-dentin-bond-sr]] — Hamdi 2025 · SR (8편 in vitro): NCCL 경화상아질 전처리 — EDTA·NaOCl 효과 없거나 열등; 37% 인산 연장(15–90초) ± 샌드블라스팅이 현재 최선; 증거 낮음 (DOI 10.1016/j.jdent.2025.106123)
 
 ## 전신질환·약물 (Drug / Systemic Medicine)
 - [[drug/anticoagulants/dou-2025-bleeding-dentoalveolar-doac-vka-sr-ma]] — Dou 2025 · sr+ma · 29편/29,212명: 비중단 DOAC가 VKA보다 발치 후 출혈 21%↓(RR 0.79, dabigatran 주도), 둘 다 무항응고 대비 ~3배
