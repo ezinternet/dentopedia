@@ -23,6 +23,7 @@ source_papers:
   - drug/anticoagulants/singh-jolly-2025-chitosan-dressing-deranged-coagulation
   - drug/anticoagulants/kaddah-2024-tranexamic-acid-gelfoam-warfarin
   - drug/anticoagulants/hamid-2024-green-tea-extracts-hemostatic-molar
+  - drug/anticoagulants/kumar-2026-dental-management-hemophilia-sr
 evidence_level: synthesis
 source: synthesis
 ---
@@ -39,12 +40,13 @@ source: synthesis
 > - **③ 근관외과 골소와는 제제군 자체가 다르다**: 에피네프린·황산제이철·알루미늄 클로라이드(AlCl₃)·본 왁스·TXA·콜라겐이 후보이고, 네트워크 메타분석에서 **에피네프린·AlCl₃ > 콜라겐**(P<.05). 결정적으로 **지혈 효능은 근관외과 예후를 예측하지 못했다** — 시야 확보 수단이지 성공률 결정 인자가 아니다. 따라서 비용·안전성으로 골라도 된다.
 > - **TXA는 제형 사다리로 봐야 한다**: 양치액(순응도 의존, 1일 4회 × 7일) / **분쇄정제 분말 250–500 mg + 생리식염수 페이스트**(술자가 발치와에서 끝냄, 10편 전부 항응고 중단 없이 지혈 성공) / 젤라틴 스폰지 병용(관행은 흔하나 이질성 과다로 표준 프로토콜 제시 불가) / 즉시사용 거즈(2.5%가 5%와 동등하나 **전임상 단계**).
 > - **"안 쓰면 어떻게 되는가"의 근거**: Kaya 2025는 봉합·국소지혈제를 의도적으로 배제한 프로토콜에서 직접경구항응고제(Direct Oral Anticoagulant, DOAC) 환자 등급3 출혈이 **8.1% vs 건강 대조군 0%**였다. 이 수치는 통상 진료의 기대값이 아니라 **개입을 뺐을 때의 바닥값**이며, 국소 지혈을 반드시 하라는 근거로 읽어야 한다.
+> - **혈우병(Hemophilia) 맥락 — TXA의 별개 역할**: 응고인자 결핍 환자에서 TXA는 국소 지혈제가 아니라 **항섬유소분해제(Antifibrinolytic)로 전신 경로**로 쓰인다 — 경구 1g TID × 5–10일, IV 20 mg/kg, 또는 5% 양치액·발치와 충전. SR 23편(Kumar 2026)에서 TXA가 응고인자 추가 주사 필요성을 유의하게 줄였다. 인자교정 표준은 30–50%; **침윤마취(Infiltration Anesthesia)는 인자교정 없이 안전, 하치조신경블록(Inferior Alveolar Nerve Block, IANB)은 인자교정 필수**. 이 맥락은 항응고제 복용 환자와 기전이 달라 위의 제형 사다리와 구분해야 한다.
 > - **아직 임상 근거가 아닌 것**: 이상성 황산칼슘 시멘트(교란 5변수·p=0.342), 4급암모늄화 키토란 스폰지(흰쥐), 즉시사용 TXA 거즈(시험관). 검색에서 지혈재로 함께 잡히므로 등급을 명시해 격리한다.
 > - **근거 수준 총평**: 이 분야 최상위가 SR+MA 1편(388치)과 서술적 고찰 1편(51편)이고 나머지는 소규모 임상시험이다. 강한 권고를 지지하는 근거가 아니며, 실제로 He 2026이 "제제 간 차이 없음"을 보고한 것 자체가 **과한 제품 선택 논쟁을 경계하라**는 신호다.
 
 ## Three-line Summary
 
-Synthesis of 11 papers on local hemostatic agents in dentistry, spanning three distinct clinical contexts that the literature routinely conflates: the routine extraction socket, the extraction socket under anticoagulation, and the periapical surgical bone crypt.
+Synthesis of 18 papers on local hemostatic agents in dentistry, spanning three distinct clinical contexts that the literature routinely conflates: the routine extraction socket, the extraction socket under anticoagulation, and the periapical surgical bone crypt.
 
 Agent choice is a second-order decision — the only meta-analysis in this collection (He 2026, 10 RCTs/CCTs, 388 teeth, network MA) found pooled hemostatic efficacy of 63 ± 6.6% with no significant global between-agent difference, and hemostatic efficacy did not predict periapical surgery prognosis; the largest documented effects come from context-appropriate use rather than product selection — tranexamic acid (TXA) reduces bleeding 50–60% as a 4.8% mouthwash and 80% as a topical application in anticoagulated patients, while any conventional socket dressing controls >85% of routine cases.
 
@@ -52,7 +54,7 @@ Where head-to-head data exist they are small but consistent (chitosan > oxidized
 
 ## 세줄요약
 
-치과 국소지혈제 11편 종합 — 문헌이 흔히 뒤섞는 세 임상 맥락을 분리한다: ① 통상 발치와, ② 항응고 환자 발치와, ③ 근관외과 골소와(bone crypt).
+치과 국소지혈제 18편 종합 — 문헌이 흔히 뒤섞는 세 임상 맥락을 분리한다: ① 통상 발치와, ② 항응고 환자 발치와, ③ 근관외과 골소와(bone crypt).
 
 제제 선택은 2차 결정이다 — 이 모음의 유일한 메타분석(He 2026, 10편 388치, 네트워크 메타분석)에서 통합 효능은 63 ± 6.6%이고 **글로벌 분석상 제제 간 유의차가 없었으며** 지혈 효능이 근관외과 예후를 예측하지도 못했다; 효과 크기가 큰 것은 제품이 아니라 맥락에 맞는 사용이다 — 트라넥삼산(Tranexamic Acid, TXA)은 4.8% 양치액으로 출혈 50–60%, 항응고 환자 국소 도포로 80%를 줄이는 반면, 통상 증례는 어느 드레싱이든 85% 이상 잡힌다.
 
@@ -186,6 +188,7 @@ Head-to-head 근거는 작지만 일관된다 — 이중항혈소판요법 환�
 - [[drug/anticoagulants/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]] — SR 25편: TXA 양치액을 1차 국소 지혈제로 규정. (sr, 2024)
 - [[drug/anticoagulants/bergo-2026-topical-tranexamic-acid-powder-dentistry]] — scoping review 10편: 분쇄정제 분말 250–500 mg 페이스트, 전편 항응고 중단 없이 지혈 성공. (sr, 2026)
 - [[drug/anticoagulants/swissdentj-2026-gelatin-sponge-tranexamic-acid-anticoagulated]] — scoping review 16편: 젤라틴 스폰지+TXA 병용, 이질성 과다로 표준 프로토콜 제시 불가. (sr, 2026)
+- [[drug/anticoagulants/kumar-2026-dental-management-hemophilia-sr]] — SR 23편: 혈우병 치과관리에서 TXA(경구·IV·국소)가 응고인자 추가 주사 필요성 감소; 인자교정 표준 30–50%; 침윤마취 안전·IANB는 인자교정 필수. (sr, 2026)
 
 ### 개입 부재의 대조
 - [[drug/anticoagulants/kaya-2025-postoperative-bleeding-pain-doac-extraction]] — 맹검 환자-대조 (DOAC 211 vs 건강 219), 봉합·지혈제 미사용 설계: 등급3 출혈 8.1% vs 0%. (prospective, 2025)
