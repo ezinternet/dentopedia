@@ -1,0 +1,640 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>발치와 지혈 RCT 비교 매트릭스</title>
+<style>
+  :root {
+    --bg: #f8f7f4;
+    --card: #ffffff;
+    --border: #e2ddd8;
+    --text: #1a1916;
+    --muted: #6b6560;
+    --accent: #2563eb;
+    --accent-light: #eff6ff;
+    --green: #16a34a;
+    --green-light: #f0fdf4;
+    --amber: #d97706;
+    --amber-light: #fffbeb;
+    --red: #dc2626;
+    --red-light: #fef2f2;
+    --purple: #7c3aed;
+    --purple-light: #f5f3ff;
+    --shadow: 0 1px 3px rgba(0,0,0,0.08);
+    --shadow-md: 0 4px 6px rgba(0,0,0,0.07);
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+    padding: 24px 16px 48px;
+  }
+  .container { max-width: 900px; margin: 0 auto; }
+
+  .header { text-align: center; margin-bottom: 24px; }
+  .badge {
+    display: inline-block;
+    background: #f1ede8;
+    color: var(--muted);
+    font-size: 0.72rem;
+    font-weight: 600;
+    padding: 2px 8px;
+    border-radius: 999px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+  .header h1 { font-size: 1.45rem; font-weight: 700; margin-bottom: 6px; }
+  .header p { font-size: 0.875rem; color: var(--muted); }
+
+  /* Filters */
+  .filters {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 16px 18px;
+    margin-bottom: 16px;
+    box-shadow: var(--shadow);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+  }
+  .filter-label { font-size: 0.78rem; font-weight: 700; color: var(--muted); text-transform: uppercase; letter-spacing: 0.05em; }
+  .filter-chips { display: flex; flex-wrap: wrap; gap: 6px; }
+  .chip {
+    font-size: 0.78rem;
+    font-weight: 600;
+    padding: 5px 12px;
+    border-radius: 999px;
+    border: 1.5px solid var(--border);
+    background: var(--bg);
+    color: var(--muted);
+    cursor: pointer;
+    transition: all 0.15s;
+    user-select: none;
+  }
+  .chip:hover { border-color: var(--accent); color: var(--accent); }
+  .chip.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+
+  /* Cards */
+  .card-grid { display: flex; flex-direction: column; gap: 14px; }
+
+  .study-card {
+    background: var(--card);
+    border: 1.5px solid var(--border);
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: var(--shadow);
+    transition: box-shadow 0.15s, transform 0.15s;
+  }
+  .study-card:hover { box-shadow: var(--shadow-md); transform: translateY(-1px); }
+  .study-card.hidden { display: none; }
+
+  .card-header {
+    padding: 14px 18px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 12px;
+    cursor: pointer;
+    user-select: none;
+  }
+  .card-header:hover { background: #fafaf8; }
+
+  .study-meta { flex: 1; }
+  .study-title { font-weight: 700; font-size: 0.95rem; margin-bottom: 4px; line-height: 1.35; }
+  .study-authors { font-size: 0.78rem; color: var(--muted); margin-bottom: 6px; }
+  .meta-row { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+
+  .tag {
+    font-size: 0.68rem;
+    font-weight: 700;
+    padding: 2px 7px;
+    border-radius: 999px;
+    letter-spacing: 0.02em;
+  }
+  .tag-healthy { background: #f0fdf4; color: #15803d; }
+  .tag-antiplatelet { background: #eff6ff; color: #1d4ed8; }
+  .tag-anticoag { background: #faf5ff; color: #7c3aed; }
+  .tag-deranged { background: #fff7ed; color: #c2410c; }
+  .tag-natural { background: #f0fdfa; color: #0f766e; }
+  .tag-rct { background: #f0fdf4; color: #166534; border: 1px solid #bbf7d0; }
+  .tag-abstract { background: #fffbeb; color: #92400e; border: 1px solid #fcd34d; }
+  .tag-design { background: #f1f5f9; color: #475569; }
+
+  .expand-btn {
+    font-size: 1rem;
+    color: var(--muted);
+    transition: transform 0.2s;
+    flex-shrink: 0;
+    margin-top: 2px;
+  }
+  .study-card.open .expand-btn { transform: rotate(180deg); }
+
+  /* Key numbers strip */
+  .numbers-strip {
+    background: #fafaf8;
+    border-top: 1px solid var(--border);
+    padding: 12px 18px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  .num-item {}
+  .num-label { font-size: 0.68rem; font-weight: 700; color: var(--muted); text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 2px; }
+  .num-value { font-size: 1rem; font-weight: 800; color: var(--text); line-height: 1.2; }
+  .num-sub { font-size: 0.72rem; color: var(--muted); }
+  .num-green { color: var(--green); }
+  .num-blue { color: var(--accent); }
+  .num-red { color: var(--red); }
+
+  /* Detail panel */
+  .detail-panel {
+    border-top: 1px solid var(--border);
+    padding: 16px 18px;
+    display: none;
+  }
+  .study-card.open .detail-panel { display: block; }
+
+  .detail-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+  @media (max-width: 560px) { .detail-grid { grid-template-columns: 1fr; } }
+
+  .detail-block h4 { font-size: 0.78rem; font-weight: 700; color: var(--muted); text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 6px; }
+  .detail-block ul { list-style: none; }
+  .detail-block ul li { font-size: 0.82rem; color: var(--text); line-height: 1.55; padding-left: 12px; position: relative; margin-bottom: 2px; }
+  .detail-block ul li::before { content: '•'; position: absolute; left: 0; color: var(--muted); }
+
+  /* Comparison bar */
+  .bar-wrap { margin-top: 10px; }
+  .bar-row { display: flex; align-items: center; gap: 8px; margin-bottom: 6px; }
+  .bar-label { font-size: 0.75rem; color: var(--text); min-width: 110px; }
+  .bar-outer { flex: 1; height: 10px; background: #f0ede8; border-radius: 5px; overflow: hidden; }
+  .bar-inner { height: 100%; border-radius: 5px; }
+  .bar-val { font-size: 0.75rem; font-weight: 700; color: var(--muted); min-width: 56px; text-align: right; }
+
+  /* Warning note */
+  .study-note {
+    margin-top: 12px;
+    padding: 10px 12px;
+    border-radius: 8px;
+    font-size: 0.78rem;
+    line-height: 1.5;
+  }
+  .note-amber { background: var(--amber-light); color: #92400e; border: 1px solid #fcd34d; }
+  .note-green { background: var(--green-light); color: #14532d; border: 1px solid #86efac; }
+  .note-blue { background: var(--accent-light); color: #1e3a8a; border: 1px solid #bfdbfe; }
+
+  /* Summary table */
+  .summary-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 18px;
+    margin-top: 16px;
+    box-shadow: var(--shadow);
+  }
+  .summary-title { font-size: 0.8rem; font-weight: 700; color: var(--muted); text-transform: uppercase; letter-spacing: 0.06em; margin-bottom: 12px; }
+
+  table { width: 100%; border-collapse: collapse; font-size: 0.8rem; }
+  th { text-align: left; font-weight: 700; color: var(--muted); font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.05em; padding: 6px 8px; border-bottom: 2px solid var(--border); }
+  td { padding: 8px 8px; border-bottom: 1px solid var(--border); vertical-align: top; line-height: 1.4; }
+  tr:last-child td { border-bottom: none; }
+  tr:hover td { background: #fafaf8; }
+
+  .count-badge {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--accent);
+    color: #fff;
+    font-size: 0.7rem;
+    font-weight: 700;
+    padding: 1px 7px;
+    border-radius: 999px;
+  }
+
+  footer { text-align: center; font-size: 0.72rem; color: var(--muted); margin-top: 24px; }
+</style>
+</head>
+<body>
+<div class="container">
+  <div class="header">
+    <span class="badge">Evidence Matrix</span>
+    <h1>발치와 지혈 RCT 비교 매트릭스</h1>
+    <p>발치와 지혈 관련 RCT 5편 + 주요 기존 연구 비교 — 환자군별 필터 가능</p>
+  </div>
+
+  <!-- Filters -->
+  <div class="filters">
+    <span class="filter-label">환자군</span>
+    <div class="filter-chips">
+      <span class="chip active" data-filter="all">전체 <span class="count-badge" id="cnt-all">8</span></span>
+      <span class="chip" data-filter="healthy">정상</span>
+      <span class="chip" data-filter="antiplatelet">항혈소판</span>
+      <span class="chip" data-filter="anticoag">항응고</span>
+      <span class="chip" data-filter="deranged">응고이상</span>
+      <span class="chip" data-filter="natural">천연물</span>
+    </div>
+  </div>
+
+  <!-- Study Cards -->
+  <div class="card-grid" id="cardGrid">
+
+    <!-- Patil 2025 -->
+    <div class="study-card" data-cats="healthy" id="card-patil">
+      <div class="card-header" onclick="toggle('card-patil')">
+        <div class="study-meta">
+          <div class="study-title">Comparative Evaluation of Local Hemostatic Agents in Minor Oral Surgical Procedures</div>
+          <div class="study-authors">Patil et al. · Cureus 2025 · PMID 40656255</div>
+          <div class="meta-row">
+            <span class="tag tag-rct">RCT · n=60</span>
+            <span class="tag tag-healthy">정상 환자</span>
+            <span class="tag tag-design">5군 병렬 RCT</span>
+          </div>
+        </div>
+        <span class="expand-btn">▼</span>
+      </div>
+
+      <div class="numbers-strip">
+        <div class="num-item"><div class="num-label">1위 Botroclot</div><div class="num-value num-green">0.87분</div><div class="num-sub">±0.33</div></div>
+        <div class="num-item"><div class="num-label">2위 TXA</div><div class="num-value num-blue">0.93분</div><div class="num-sub">±0.39</div></div>
+        <div class="num-item"><div class="num-label">3위 키토산</div><div class="num-value num-blue">1.13분</div><div class="num-sub">±0.27</div></div>
+        <div class="num-item"><div class="num-label">거즈 (대조)</div><div class="num-value num-red">1.80분</div><div class="num-sub">±0.41</div></div>
+        <div class="num-item"><div class="num-label">통계</div><div class="num-value">p=0.001</div><div class="num-sub">F=15.45</div></div>
+      </div>
+
+      <div class="detail-panel">
+        <div class="bar-wrap">
+          <div class="bar-row"><span class="bar-label">Botroclot</span><div class="bar-outer"><div class="bar-inner" style="width:48%;background:var(--green)"></div></div><span class="bar-val">0.87분</span></div>
+          <div class="bar-row"><span class="bar-label">TXA</span><div class="bar-outer"><div class="bar-inner" style="width:52%;background:var(--accent)"></div></div><span class="bar-val">0.93분</span></div>
+          <div class="bar-row"><span class="bar-label">키토산</span><div class="bar-outer"><div class="bar-inner" style="width:63%;background:#60a5fa"></div></div><span class="bar-val">1.13분</span></div>
+          <div class="bar-row"><span class="bar-label">아드레날린</span><div class="bar-outer"><div class="bar-inner" style="width:77%;background:#94a3b8"></div></div><span class="bar-val">1.38분</span></div>
+          <div class="bar-row"><span class="bar-label">거즈 (대조)</span><div class="bar-outer"><div class="bar-inner" style="width:100%;background:var(--red)"></div></div><span class="bar-val">1.80분</span></div>
+        </div>
+        <div class="detail-grid" style="margin-top:14px">
+          <div class="detail-block">
+            <h4>설계</h4>
+            <ul>
+              <li>병렬 RCT, 5군 각 n=12</li>
+              <li>건강 성인 20–50세, 대구치 발치</li>
+              <li>컴퓨터 무작위배정, 평가자·환자 맹검</li>
+              <li>지혈제 압박 없이 수동 적용</li>
+            </ul>
+          </div>
+          <div class="detail-block">
+            <h4>주요 통찰</h4>
+            <ul>
+              <li>Botroclot = TXA = 키토산 (셋 사이 유의차 없음)</li>
+              <li>아드레날린은 거즈와 통계적 차이 없음</li>
+              <li>전 군 재출혈 0건</li>
+              <li>건강 환자 기준점: 세 제제 모두 가용</li>
+            </ul>
+          </div>
+        </div>
+        <div class="study-note note-green">
+          <strong>임상 적용</strong>: 정상 환자에서는 세 제제(Botroclot·TXA·키토산)가 동등하므로 비용·수급으로 선택. 아드레날린은 심혈관 위험 환자 주의.
+        </div>
+      </div>
+    </div>
+
+    <!-- Agrawal 2025 -->
+    <div class="study-card" data-cats="antiplatelet" id="card-agrawal">
+      <div class="card-header" onclick="toggle('card-agrawal')">
+        <div class="study-meta">
+          <div class="study-title">Efficacy of chitosan dressing as a local haemostatic agent in patients on antiplatelet therapy</div>
+          <div class="study-authors">Agrawal et al. · J Oral Biol Craniofac Res 2025 · PMID 41140885</div>
+          <div class="meta-row">
+            <span class="tag tag-rct">RCT · n=100</span>
+            <span class="tag tag-antiplatelet">항혈소판 (SAPT·DAPT)</span>
+            <span class="tag tag-design">전향적 무작위</span>
+          </div>
+        </div>
+        <span class="expand-btn">▼</span>
+      </div>
+
+      <div class="numbers-strip">
+        <div class="num-item"><div class="num-label">키토산</div><div class="num-value num-green">0.67분</div><div class="num-sub">중앙값</div></div>
+        <div class="num-item"><div class="num-label">거즈 (대조)</div><div class="num-value num-red">4.5분</div><div class="num-sub">중앙값</div></div>
+        <div class="num-item"><div class="num-label">3분 내 지혈</div><div class="num-value num-green">100%</div><div class="num-sub">키토산</div></div>
+        <div class="num-item"><div class="num-label">3분 내 지혈</div><div class="num-value num-red">11%</div><div class="num-sub">거즈</div></div>
+        <div class="num-item"><div class="num-label">p값</div><div class="num-value">&lt;0.001</div><div class="num-sub"></div></div>
+      </div>
+
+      <div class="detail-panel">
+        <div class="detail-grid">
+          <div class="detail-block">
+            <h4>설계</h4>
+            <ul>
+              <li>n=100 (SAPT 71%, DAPT 29%)</li>
+              <li>평균 63.8세; 74% 고혈압, 34% 당뇨</li>
+              <li>항혈소판제 중단 없이 시행</li>
+              <li>키토산 스폰지 30–40초 압박 후 제거</li>
+            </ul>
+          </div>
+          <div class="detail-block">
+            <h4>2차 결과</h4>
+            <ul>
+              <li>VAS 통증 7일째 유의 감소 (p&lt;0.001)</li>
+              <li>Landry 치유지수 7일째 유의 향상</li>
+              <li>건소켓: 1% vs 3% (NS)</li>
+              <li>약물 중단 0건</li>
+            </ul>
+          </div>
+        </div>
+        <div class="study-note note-blue">
+          <strong>위키 역할</strong>: 항혈소판 키토산 근거 중 최대 규모 RCT. Guardieiro 2023 (n=소규모, 키토산 vs 산화셀룰로오스) 이후 처음으로 키토산 vs 거즈 direct 비교를 실임상 규모로 확인.
+        </div>
+      </div>
+    </div>
+
+    <!-- Singh Jolly 2025 -->
+    <div class="study-card" data-cats="anticoag deranged" id="card-singh">
+      <div class="card-header" onclick="toggle('card-singh')">
+        <div class="study-meta">
+          <div class="study-title">Chitosan-based dressing vs gauze pressure in patients with deranged coagulation profiles</div>
+          <div class="study-authors">Singh Jolly & Rattan · Arch Craniofac Surg 2025 · PMID 40090379</div>
+          <div class="meta-row">
+            <span class="tag tag-rct">RCT · n=102</span>
+            <span class="tag tag-anticoag">항응고</span>
+            <span class="tag tag-deranged">응고이상 (INR≤4)</span>
+            <span class="tag tag-design">split-mouth</span>
+          </div>
+        </div>
+        <span class="expand-btn">▼</span>
+      </div>
+
+      <div class="numbers-strip">
+        <div class="num-item"><div class="num-label">키토산 평균</div><div class="num-value num-green">15.1분</div><div class="num-sub">±12.88</div></div>
+        <div class="num-item"><div class="num-label">거즈 평균</div><div class="num-value num-red">45.2분</div><div class="num-sub">±20.62</div></div>
+        <div class="num-item"><div class="num-label">10분 지혈</div><div class="num-value num-green">83.1%</div><div class="num-sub">키토산</div></div>
+        <div class="num-item"><div class="num-label">10분 지혈</div><div class="num-value num-red">18.8%</div><div class="num-sub">거즈</div></div>
+        <div class="num-item"><div class="num-label">INR 범위</div><div class="num-value">1.5–4.0</div><div class="num-sub"></div></div>
+      </div>
+
+      <div class="detail-panel">
+        <div class="detail-grid">
+          <div class="detail-block">
+            <h4>코호트 구성</h4>
+            <ul>
+              <li>n=102 / 204 소켓</li>
+              <li>86명 항응고제 (심장 적응증)</li>
+              <li>15명 간경변</li>
+              <li>1명 혈소판감소자반증</li>
+              <li>약물 전원 중단 없음</li>
+            </ul>
+          </div>
+          <div class="detail-block">
+            <h4>지혈 타임라인</h4>
+            <ul>
+              <li>1분: 키토산 58.8% / 거즈 —</li>
+              <li>10분: 83.1% / 18.8%</li>
+              <li>30분: 93.9% / 35.5%</li>
+              <li>60분: 99.8% / 99.5%</li>
+              <li>부종: 3.9% vs 15.7% (p&lt;0.05)</li>
+            </ul>
+          </div>
+        </div>
+        <div class="study-note note-amber">
+          <strong>주의</strong>: 건소켓이 키토산군 5.9% vs 거즈 1.0% — 통계적 비유의(p>0.05)이나 수치 차이 있음. 대규모 추적 필요. INR 4 초과에서는 혈액내과 협진 권장.
+        </div>
+      </div>
+    </div>
+
+    <!-- Kaddah 2024 -->
+    <div class="study-card" data-cats="anticoag" id="card-kaddah">
+      <div class="card-header" onclick="toggle('card-kaddah')">
+        <div class="study-meta">
+          <div class="study-title">Tranexamic acid soaked gelatin sponge vs saline soaked gelatin sponge in warfarin-treated patients</div>
+          <div class="study-authors">Kaddah et al. · BMC Oral Health 2024 · PMID 39112998</div>
+          <div class="meta-row">
+            <span class="tag tag-rct">triple-blind RCT · n=30</span>
+            <span class="tag tag-anticoag">와파린 (INR 2–3.5)</span>
+            <span class="tag tag-design">split-mouth</span>
+          </div>
+        </div>
+        <span class="expand-btn">▼</span>
+      </div>
+
+      <div class="numbers-strip">
+        <div class="num-item"><div class="num-label">지혈 시간</div><div class="num-value">동등</div><div class="num-sub">NS</div></div>
+        <div class="num-item"><div class="num-label">VAS 3일</div><div class="num-value num-green">2.67 vs 3.13</div><div class="num-sub">p=0.005</div></div>
+        <div class="num-item"><div class="num-label">VAS 7일</div><div class="num-value num-green">0.73 vs 1.80</div><div class="num-sub">p&lt;0.001</div></div>
+        <div class="num-item"><div class="num-label">Landry 7일</div><div class="num-value num-green">유의 향상</div><div class="num-sub">p&lt;0.001</div></div>
+        <div class="num-item"><div class="num-label">합병증</div><div class="num-value num-green">0건</div><div class="num-sub">양군 모두</div></div>
+      </div>
+
+      <div class="detail-panel">
+        <div class="detail-grid">
+          <div class="detail-block">
+            <h4>핵심 설계 특징</h4>
+            <ul>
+              <li>Triple-blind (환자·술자·평가자)</li>
+              <li>INR 2.0–3.5 (심장류마티즘·DVT·AF)</li>
+              <li>와파린 중단 없이 시행</li>
+              <li>양측 단근치 발치; 2주 이상 간격</li>
+              <li>봉합 3-0 silk 전 군 동일</li>
+            </ul>
+          </div>
+          <div class="detail-block">
+            <h4>TXA 이점 해석</h4>
+            <ul>
+              <li>지혈 속도: 개선 없음 → Gelfoam이 충분한 스캐폴드</li>
+              <li>통증 감소: 3일↑ 유의 — 항섬유소분해로 혈병 안정화</li>
+              <li>치유 가속: Landry 7·14일 유의</li>
+              <li><em>TXA = 지혈제 X, 치유 보조제 O</em></li>
+            </ul>
+          </div>
+        </div>
+        <div class="study-note note-blue">
+          <strong>패러다임 전환</strong>: TXA-Gelfoam의 주된 이점은 지혈 가속이 아니라 <em>항섬용 → 통증·치유 향상</em>. 의사결정 시 지혈 속도가 아닌 통증 관리 목적으로 TXA를 고려할 것.
+        </div>
+      </div>
+    </div>
+
+    <!-- Hamid 2024 -->
+    <div class="study-card" data-cats="healthy natural" id="card-hamid">
+      <div class="card-header" onclick="toggle('card-hamid')">
+        <div class="study-meta">
+          <div class="study-title">Effects of Green Tea Extracts on Bleeding After Molar Tooth Extraction</div>
+          <div class="study-authors">Hamid et al. · J Coll Physicians Surg Pak 2024 · PMID 39491445</div>
+          <div class="meta-row">
+            <span class="tag tag-rct">RCT · n=64</span>
+            <span class="tag tag-natural">천연물 (녹차 추출물)</span>
+            <span class="tag tag-healthy">정상 환자</span>
+            <span class="tag tag-abstract">abstract only</span>
+          </div>
+        </div>
+        <span class="expand-btn">▼</span>
+      </div>
+
+      <div class="numbers-strip">
+        <div class="num-item"><div class="num-label">탄닌 추출물</div><div class="num-value num-green">5.62분</div></div>
+        <div class="num-item"><div class="num-label">메탄올 추출물</div><div class="num-value num-blue">7.50분</div></div>
+        <div class="num-item"><div class="num-label">수성 추출물</div><div class="num-value num-blue">8.44분</div></div>
+        <div class="num-item"><div class="num-label">식염수 거즈</div><div class="num-value num-red">61.56분</div></div>
+        <div class="num-item"><div class="num-label">p값</div><div class="num-value">&lt;0.001</div></div>
+      </div>
+
+      <div class="detail-panel">
+        <div class="detail-grid">
+          <div class="detail-block">
+            <h4>기전</h4>
+            <ul>
+              <li>탄닌: 단백질 침전 → 피브린 유사 스캐폴드</li>
+              <li>수렴 효과 → 혈관 수축</li>
+              <li>카테킨/EGCG: 혈소판 조절</li>
+              <li>탄닌 농도가 지혈 속도 결정</li>
+            </ul>
+          </div>
+          <div class="detail-block">
+            <h4>한계 (abstract-only)</h4>
+            <ul>
+              <li>61.56분 대조군 — 이례적으로 길어 수동 거즈 의심</li>
+              <li>정상 환자만 — 항응고군 데이터 없음</li>
+              <li>농도·추출법 불명</li>
+              <li>배분은폐·맹검 정보 없음</li>
+            </ul>
+          </div>
+        </div>
+        <div class="study-note note-amber">
+          <strong>주의</strong>: 대조군(61.56분)이 정상 환자 기준으로 매우 이례적으로 길어 압박력 최소화 프로토콜 의심. 절대 시간보다 '방향'이 신뢰 가능한 정보. 전임상 단계로 임상 적용 근거 불충분.
+        </div>
+      </div>
+    </div>
+
+    <!-- Guardieiro 2023 (reference) -->
+    <div class="study-card" data-cats="antiplatelet" id="card-guardieiro">
+      <div class="card-header" onclick="toggle('card-guardieiro')">
+        <div class="study-meta">
+          <div class="study-title">Chitosan vs Oxidized Cellulose Hemostasis in DAPT Patients [Reference]</div>
+          <div class="study-authors">Guardieiro et al. 2023 · wiki/drug/anticoagulants/guardieiro-2023</div>
+          <div class="meta-row">
+            <span class="tag tag-rct">within-person RCT</span>
+            <span class="tag tag-antiplatelet">DAPT</span>
+            <span class="tag tag-design">기존 근거 (참조)</span>
+          </div>
+        </div>
+        <span class="expand-btn">▼</span>
+      </div>
+      <div class="numbers-strip">
+        <div class="num-item"><div class="num-label">결과</div><div class="num-value num-green">키토산 우세</div><div class="num-sub">출혈시간·치유</div></div>
+        <div class="num-item"><div class="num-label">비교</div><div class="num-value">키토산 vs 산화셀룰로오스</div></div>
+      </div>
+      <div class="detail-panel">
+        <p style="font-size:0.82rem;color:var(--muted)">위키 내 기존 anchor 논문. Agrawal 2025가 이 연구를 n=100으로 확장·보강. 자세한 내용은 wiki 페이지 참조.</p>
+      </div>
+    </div>
+
+    <!-- Al-Suliman 2025 (reference) -->
+    <div class="study-card" data-cats="anticoag" id="card-suliman">
+      <div class="card-header" onclick="toggle('card-suliman')">
+        <div class="study-meta">
+          <div class="study-title">Surgicel vs Gelfoam in Anticoagulated Patients [Reference]</div>
+          <div class="study-authors">Al-Suliman et al. 2025 · wiki/drug/anticoagulants/al-suliman-2025</div>
+          <div class="meta-row">
+            <span class="tag tag-rct">분악 prospective · n=40</span>
+            <span class="tag tag-anticoag">항응고 (VKA 포함)</span>
+            <span class="tag tag-design">기존 근거 (참조)</span>
+          </div>
+        </div>
+        <span class="expand-btn">▼</span>
+      </div>
+      <div class="numbers-strip">
+        <div class="num-item"><div class="num-label">결과</div><div class="num-value num-green">Surgicel 우세</div><div class="num-sub">지혈·통증·치유</div></div>
+        <div class="num-item"><div class="num-label">비교</div><div class="num-value">산화셀룰로오스 vs 젤라틴</div></div>
+      </div>
+      <div class="detail-panel">
+        <p style="font-size:0.82rem;color:var(--muted)">항응고 환자에서 Surgicel > Gelfoam 확립한 anchor 연구. Singh Jolly 2025가 이 범위를 INR 4까지 키토산으로 확장. 자세한 내용은 wiki 참조.</p>
+      </div>
+    </div>
+
+  </div><!-- end card-grid -->
+
+  <!-- Summary Table -->
+  <div class="summary-card">
+    <div class="summary-title">지혈제 선택 요약 — 환자군별 1차 선택</div>
+    <table>
+      <thead>
+        <tr>
+          <th>환자군</th>
+          <th>1차 선택</th>
+          <th>예상 지혈 시간</th>
+          <th>근거 수준</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>정상 (약물 없음)</td>
+          <td>거즈 압박 또는 키토산/TXA</td>
+          <td>0.9–1.8분</td>
+          <td>RCT (Patil 2025 n=60)</td>
+        </tr>
+        <tr>
+          <td>SAPT (아스피린)</td>
+          <td><strong>키토산</strong></td>
+          <td>0.67분 (중앙값)</td>
+          <td>RCT (Agrawal 2025 n=100)</td>
+        </tr>
+        <tr>
+          <td>DAPT (이중항혈소판)</td>
+          <td><strong>키토산</strong> > 산화셀룰로오스</td>
+          <td>~5분</td>
+          <td>RCT (Agrawal 2025, Guardieiro 2023)</td>
+        </tr>
+        <tr>
+          <td>와파린 INR 2–3.5</td>
+          <td><strong>키토산</strong> + TXA-Gelfoam (통증 감소 목적)</td>
+          <td>15–25분</td>
+          <td>RCT (Singh Jolly 2025, Kaddah 2024)</td>
+        </tr>
+        <tr>
+          <td>DOAC</td>
+          <td>키토산 또는 Surgicel + TXA 양치액</td>
+          <td>참고치 없음</td>
+          <td>외삽 (VKA/항혈소판 데이터)</td>
+        </tr>
+        <tr>
+          <td>응고이상 (INR≤4, 간경변)</td>
+          <td><strong>키토산</strong></td>
+          <td>15.1분 (mean)</td>
+          <td>RCT (Singh Jolly 2025 n=102)</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <footer>근거 출처: Patil 2025 · Agrawal 2025 · Singh Jolly 2025 · Kaddah 2024 · Hamid 2024 · Guardieiro 2023 · Al-Suliman 2025 · llm-wiki/drug/anticoagulants/</footer>
+</div>
+
+<script>
+function toggle(id) {
+  const card = document.getElementById(id);
+  card.classList.toggle('open');
+}
+
+// Filter logic
+const chips = document.querySelectorAll('.chip[data-filter]');
+chips.forEach(chip => {
+  chip.addEventListener('click', () => {
+    chips.forEach(c => c.classList.remove('active'));
+    chip.classList.add('active');
+    const f = chip.dataset.filter;
+    document.querySelectorAll('.study-card').forEach(card => {
+      if (f === 'all') {
+        card.classList.remove('hidden');
+      } else {
+        const cats = card.dataset.cats || '';
+        if (cats.includes(f)) { card.classList.remove('hidden'); }
+        else { card.classList.add('hidden'); }
+      }
+    });
+  });
+});
+</script>
+</body>
+</html>
