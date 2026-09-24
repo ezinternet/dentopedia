@@ -1084,6 +1084,8 @@ tags: []
 - [[periodontics/srinivasan-2025-pdt-periimplantitis-nonsurgical-sr-ma]] — Srinivasan 2025 · sr+ma · 25편: 임플란트 주위염 PDT 보조 비외과적 치료; 3개월 MD+PDT가 MD 단독 대비 PPD·BOP·MBI 유의 개선 (DOI 10.1016/j.jdent.2025.105680)
 - [[periodontics/duarte-2025-vitamin-d-periimplant-periodontal]] — Duarte 2025 · narrative-review · 비타민 D 결핍이 치주 및 임플란트 주위 치유에 미치는 영향; 결핍 시 골개조·면역반응 저하, 보충요법 근거 제한적 (DOI 10.3390/dj13100448)
 - [[periodontics/non-surgical-instrumentation/gartenmann-2018-comparative-effectiveness-hand-scaling]] — Gartenmann 2018 · prospective (취리히대 치대생 n=123, abstract-only) · 8.5시간 수기 스케일링 교육 후 치면세정률 61.7-79.5%로 향상, 숙련 치위생사(67.4%)와 유의차 없음 (DOI 10.1111/eje.12361)
+- [[periodontics/arbildo-vega-2026-periodontal-restorative-nccl-gr-sr]] — GR+NCCL 복합결손: 치주-수복 복합치료 vs 치주치료 단독 SR+MA, DS만 유의미한 차이(OR=9.25)
+- [[periodontics/santamaria-2026-gr-nccl-treatment-decision-tree]] — GR+NCCL 복합결손 치료 의사결정 알고리즘: A-/A+/B-형 → 치주술 단독, B+/V형 → 복합레진+치주술
 
 ## 보철재료 (Prosthetic Materials)
 - [[prosthetic-materials/leung-2022-update-on-dental-luting]] — Leung 2022 · narrative-review · luting 재료 7종(ZOE·인산아연·폴리카르복실레이트·GIC·RMGIC·CaAl/GI·레진시멘트)을 화학·결합기전·적응증 3축으로 분류한 기반 reference; "이상적 단일 시멘트는 없다"
@@ -1611,6 +1613,13 @@ tags: []
 - [[resin-bonding/bourgi-2026-chx-pretreatment-clinical-adhesive-restorations-sr-ma]] — Bourgi 2026 · SR+MA (11 RCT/CCT, 최대 4년): 클로르헥시딘(CHX) 전처리가 접착 수복물 유지율·술후 과민·2차 우식 모두에서 대조군과 무유의차(RD 0.00–0.01, I²=0%); 실험실 MMP억제 효과가 임상 전이 안 됨; 고위험 우식 환자 항균 목적엔 여전히 선택 가능 (DOI 10.3389/fdmed.2026.1746184)
 - [[resin-bonding/liao-2026-collagen-crosslinkers-resin-dentin-interface-sr-ma]] — Liao 2026 · SR+MA (63편 in vitro): 알데히드·키토산·리보플라빈·폴리페놀·카르보디이미드계 가교제 — E&R 전처리 병용 시 가장 일관된 접착력 향상; 키토산·실록산 근거 미확인; GRADE 낮음~매우 낮음 (DOI 10.1016/j.prosdent.2026.07.032)
 - [[resin-bonding/hamdi-2025-surface-pretreatments-sclerotic-dentin-bond-sr]] — Hamdi 2025 · SR (8편 in vitro): NCCL 경화상아질 전처리 — EDTA·NaOCl 효과 없거나 열등; 37% 인산 연장(15–90초) ± 샌드블라스팅이 현재 최선; 증거 낮음 (DOI 10.1016/j.jdent.2025.106123)
+- [[resin-bonding/omoto-2025-nccl-adhesion-strategies-5year-rct]] — NCCL 접착전략 4종 5년 RCT: SBU·E-SBU·RMGIC·E-RMGIC 생존율 유사; 치아 유형·상아질 경화·치은퇴축이 유지율 영향
+- [[resin-bonding/naupari-villasante-2025-universal-adhesive-7yr-rct]] — 범용 접착제(Futurabond U) 4가지 술식 7.5년 무작위대조시험: SEE·SET·ERDry·ERWet 유지율 유사(72-79%)
+- [[resin-bonding/souza-2026-ewbt-adhesive-systems-6year-rct]] — 에탄올습윤접착술(EWBT) 6년 RCT: 친수성 접착제와 대조군 동등, 소수성 단독(EB) 48.7% 생존율로 열등
+- [[resin-bonding/koc-vural-2024-glass-hybrid-composite-bruxist-nccl-60m]] — 브럭시즘 NCCL에서 유리 혼합형(GH, Equia Forte Fil)·나노도자기CR 60개월 비교: 유지율 유사(73.5% vs 66.7%), TWI가 CR 실패와 상관, 양 재료 임상적으로 허용 가능
+- [[resin-bonding/de-oliveira-correia-2026-bulk-fill-nanofill-nccl-6yr]] — NCCL 벌크필 vs 나노복합레진 6년 RCT: 유지율 동등(91.4%), 교합치은거리(OGD) 영향 없음
+- [[resin-bonding/meral-2025-gic-resin-composite-systemic-disease-nccl-48m]] — 전신질환 환자 NCCL에서 GIC(Fuji Bulk) vs RC(G-ænial) 48개월 RCT: 생존율 유사(82.1% vs 89.3%)
+- [[resin-bonding/forville-2026-air-abrasion-nccl-18m-rct]] — NCCL에서 에어어브레이젼(APA, 50μm Al₂O₃) 전처치 18개월 분구법 RCT: 대조군 96.7% vs APA 90.3%(유의차 없음), 일상적 적용 불필요
 
 ## 전신질환·약물 (Drug / Systemic Medicine)
 - [[drug/anticoagulants/dou-2025-bleeding-dentoalveolar-doac-vka-sr-ma]] — Dou 2025 · sr+ma · 29편/29,212명: 비중단 DOAC가 VKA보다 발치 후 출혈 21%↓(RR 0.79, dabigatran 주도), 둘 다 무항응고 대비 ~3배
@@ -3595,6 +3604,8 @@ tags: []
 - [[nccl/duangthip-2017-occlusal-stress-nccl-abfraction-sr]] — SR(Am J Dent 2017, 69편 임상31·실험38): 81%가 교합응력-NCCL 연관 보고하나 응력 단독원인 입증 임상연구 전무 (abfraction 우호 극점, abstract)
 - [[nccl/dioguardi-2023-nccl-etiopathological-mechanisms-review]] — narrative review(Int J Dent 2023, Foggia): NCCL 병인 이론(erosion·abrasion·abfraction) 비교, 다인성 모델 필요
 - [[nccl/dioguardi-2024-abfraction-theory-controversy-scoping-review]] — scoping review(Curr Oral Health Rep 2024, PRISMA-ScR/ROBINS-I, 1449→6편): 교합부하의 abfraction 병인 역할 확정·반박 모두 불가; Duangthip 2017 재비판 (abfraction 논쟁 최신 근거)
+- [[nccl/giller-2024-occlusal-wear-nccl-ship-cohort]] — 교합 마모와 비우식성 치경부 병소 크기: 횡단면 OR=1.74, 종단면 비유의(16년 SHIP-START 코호트)
+- [[nccl/zimmer-2025-nccl-dentin-hypersensitivity-anxiety]] — NCCL·상아질 과민증·불안 연관: DH 84.7%, NCCL 49.7%; 불안이 DH 위험 상승(횡단면, n=157)
 
 ### Batch ingest (added 2026-06-10) — low-density-bone osteotomy / short-implant-vs-sinus / transcrestal OD / PROM
 
