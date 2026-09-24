@@ -18,6 +18,11 @@ source_papers:
   - drug/anticoagulants/dudek-2026-biphasic-calcium-sulfate-bleeding-anticoagulants
   - drug/anticoagulants/tang-2025-chitosan-antibacterial-hemostatic-sponge-extraction
   - oral-surgery/mahmoudi-2023-gelatin-hemostatic-sponge-extraction-rct
+  - drug/anticoagulants/patil-2025-comparative-evaluation-local-hemostatic
+  - drug/anticoagulants/agrawal-2025-efficacy-chitosan-dressing-antiplatelet
+  - drug/anticoagulants/singh-jolly-2025-chitosan-dressing-deranged-coagulation
+  - drug/anticoagulants/kaddah-2024-tranexamic-acid-gelfoam-warfarin
+  - drug/anticoagulants/hamid-2024-green-tea-extracts-hemostatic-molar
 evidence_level: synthesis
 source: synthesis
 ---
@@ -29,7 +34,7 @@ source: synthesis
 > - **맥락이 셋이고 답이 다르다**: ① 정상 지혈 발치와 ② 항응고 환자 발치와 ③ 근관외과 골소와(bone crypt). 이 셋을 한 표로 묶으면 틀린다.
 > - **① 정상 발치와**: 봉합 + 거즈 압박 30분이 기본, 산화셀룰로오스(Oxidized Cellulose, Surgicel)·젤라틴 스폰지(Gelatin Sponge, Gelfoam)가 표준 증례의 **85% 이상**을 잡는다. 여기서 제제를 고민할 실익은 거의 없다.
 > - **② 항응고 환자 발치와 — 지렛대는 트라넥삼산(Tranexamic Acid, TXA)이다**: 4.8% 양치액이 출혈을 **50–60%** 줄이고, 국소 도포는 항응고 환자에서 출혈 사건을 **80%** 낮춘다. 제제(드레싱) 선택보다 TXA를 쓰느냐가 효과 크기가 크다.
-> - 그 다음이 드레싱 선택이며, 여기서는 head-to-head 근거가 둘 있다: **Surgicel > Gelfoam** (Al-Suliman 2025 분악시험 40명 — 지혈·지연출혈·치유·통증 모두 우수), **키토산 > 산화셀룰로오스** (Guardieiro 2023 이중항혈소판 환자 within-person RCT — 출혈시간·치유 우수). 즉 항응고 맥락의 실용 서열은 **키토산 ≥ 산화셀룰로오스 > 젤라틴 스폰지**.
+> - 그 다음이 드레싱 선택이며, 2025년까지 쌓인 head-to-head 근거가 이제 5편에 달한다: **Surgicel > Gelfoam** (Al-Suliman 2025), **키토산 vs 산화셀룰로오스** (Guardieiro 2023 DAPT), **키토산 vs 거즈** — 항혈소판 환자 0.67 vs 4.5분(Agrawal 2025, n=100) · 응고이상 환자(INR 1.5–4) 15.1 vs 45.2분(Singh Jolly 2025, n=102). **TXA-Gelfoam vs 생리식염수-Gelfoam** — 와파린 환자에서 지혈 시간 차이 없으나 3일차부터 통증 유의 감소(Kaddah 2024). 즉 항응고 맥락의 실용 서열은 **키토산 ≥ 산화셀룰로오스 > 젤라틴 스폰지**이며 TXA 첨가는 지혈보다 **통증·치유 향상** 경로로 이해해야 한다.
 > - **고위험·실패 시**: 피브린 실란트(Fibrin Sealant)가 고위험 항응고 환자에서 **70–90%** 감소, 혈전색전 위험 증가 없이.
 > - **③ 근관외과 골소와는 제제군 자체가 다르다**: 에피네프린·황산제이철·알루미늄 클로라이드(AlCl₃)·본 왁스·TXA·콜라겐이 후보이고, 네트워크 메타분석에서 **에피네프린·AlCl₃ > 콜라겐**(P<.05). 결정적으로 **지혈 효능은 근관외과 예후를 예측하지 못했다** — 시야 확보 수단이지 성공률 결정 인자가 아니다. 따라서 비용·안전성으로 골라도 된다.
 > - **TXA는 제형 사다리로 봐야 한다**: 양치액(순응도 의존, 1일 4회 × 7일) / **분쇄정제 분말 250–500 mg + 생리식염수 페이스트**(술자가 발치와에서 끝냄, 10편 전부 항응고 중단 없이 지혈 성공) / 젤라틴 스폰지 병용(관행은 흔하나 이질성 과다로 표준 프로토콜 제시 불가) / 즉시사용 거즈(2.5%가 5%와 동등하나 **전임상 단계**).
@@ -189,6 +194,11 @@ Head-to-head 근거는 작지만 일관된다 — 이중항혈소판요법 환�
 - [[drug/anticoagulants/sitthikornvanich-2026-tranexamic-acid-gauze-hemostatic-oral-surgery]] — 벤치: 즉시사용 TXA 거즈, 2.5%≡5%, 180일 안정, 임상 팔 없음. (in-vitro, 2026)
 - [[drug/anticoagulants/dudek-2026-biphasic-calcium-sulfate-bleeding-anticoagulants]] — 이상성 황산칼슘, 교란 5변수·p=0.342. (prospective, 2026)
 - [[drug/anticoagulants/tang-2025-chitosan-antibacterial-hemostatic-sponge-extraction]] — 항응고 흰쥐 모델 키토산 스폰지, 사람 데이터 없음. (animal, 2025)
+- [[drug/anticoagulants/patil-2025-comparative-evaluation-local-hemostatic]] — 5군 RCT(n=60 건강 환자): Botroclot(0.87분) > TXA(0.93분) > 키토산(1.13분) > 아드레날린(1.38분) > 거즈(1.80분); 셋이 통계적 동등·거즈보다 유의 빠름(p=0.001). (rct, 2025)
+- [[drug/anticoagulants/agrawal-2025-efficacy-chitosan-dressing-antiplatelet]] — 항혈소판 환자 RCT(n=100): 키토산 0.67분 vs 거즈 4.5분(p<0.001); 3분 내 100% vs 11%; 7일 통증·치유도 우수. (rct, 2025)
+- [[drug/anticoagulants/singh-jolly-2025-chitosan-dressing-deranged-coagulation]] — 응고이상 환자 split-mouth RCT(n=102, INR 1.5–4·간경변): 키토산 15.1분 vs 거즈 45.2분(p<0.001); 10분 내 83.1% vs 18.8%. (rct, 2025)
+- [[drug/anticoagulants/kaddah-2024-tranexamic-acid-gelfoam-warfarin]] — 와파린 triple-blind split-mouth RCT(n=30, INR 2–3.5): TXA-Gelfoam vs 생리식염수-Gelfoam — 지혈 시간 차이 없으나 3일차부터 통증 유의 감소(p<0.001). (rct, 2024)
+- [[drug/anticoagulants/hamid-2024-green-tea-extracts-hemostatic-molar]] — 건강 환자 RCT(n=64): 탄닌 5.62분, 메탄올 7.50분, 수성 8.44분 vs 거즈 61.56분(p<0.001); 위키 첫 천연물 지혈제 RCT(abstract only). (rct, 2024)
 
 ### 인접 overview
 - [[overviews/drug-anticoagulant-antiplatelet-perioperative-overview]] — 항응고제를 **중단할지 말지**의 결정 (이 페이지는 그 다음 단계인 지혈제 선택만 다룸)
