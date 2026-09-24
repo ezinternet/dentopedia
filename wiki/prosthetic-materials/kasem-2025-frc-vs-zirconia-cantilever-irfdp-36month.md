@@ -11,6 +11,11 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/kasem-2025-frc-vs-zirconia-cantilever
 pdf_filename: kasem-2025-frc-vs-zirconia-cantilever-irfdp-36month.pdf
 source_collection: external
 tags: []
+superseded_by: kasem-2026-zirconia-frc-inlay-retained-fdp-5year-rct
+relations:
+  - type: superseded_by
+    target: kasem-2026-zirconia-frc-inlay-retained-fdp-5year-rct
+    note: 5-year extension published 2026; use 5yr data as primary reference
 ---
 
 ## Three-line Summary
