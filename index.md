@@ -1100,7 +1100,11 @@ tags: []
 - [[prosthetic-materials/abutment-screw/tomar-2025-cement-vs-screw-zirconia-crown-sr-ma]] — SR+MA(7편, 334개 지르코니아): 나사형 6개월 MBL 유의하게 낮음(SMD -0.63, p=0.002); 장기 동등; 합병증 46% 감소(RR 0.54)
 - [[prosthetic-materials/abutment-screw/hjerppe-2026-ti-base-custom-abutment-monolithic-zirconia-rct]] — RCT 3년(n=51): 나사유지형 모놀리식 ZrO₂ 단관 — Ti-Base vs 맞춤형 Ti 어버트먼트 MBL 동등(p>0.05); 크라운 소실 0건; 환자 만족도 동등
 - [[prosthetic-materials/hjerppe-2025-minimally-invasive-glassceramic-fullmouth-12year]] — 전향적코호트(n=20, 439 수복물, 최대 12.4년): 5년 생존율 96.6%(수복물)/86.4%(환자); 리튬디실리케이트 79.7%; 환자만족 심미 9.5/기능 9.3
-- [[prosthetic-materials/kasem-2025-frc-vs-zirconia-cantilever-irfdp-36month]] — RCT(n=40, 36mo): 지르코니아 vs FRC 캔틸레버 IR-FDP 생존율 97.5%·성공률 96.6%; 양군 유의차 없음; 최소침습 후방 결손 해결책
+- [[prosthetic-materials/kasem-2025-frc-vs-zirconia-cantilever-irfdp-36month]] — RCT(n=40, 36mo): 지르코니아 vs FRC 캔틸레버 IR-FDP 생존율 97.5%·성공률 96.6%; 양군 유의차 없음; **→ 5년 데이터 kasem-2026으로 대체**
+- [[prosthetic-materials/kasem-2026-zirconia-frc-inlay-retained-fdp-5year-rct]] — RCT(n=47, 60mo): 지르코니아 vs FRC 캔틸레버 IRFDP 3가지 유지체 디자인 — 생존율 91.7%·성공률 81.7%; 지르코니아=연결부 파절, FRC=변형; IR 디자인 LC·OC 대비 열등하지 않음 (kasem-2025 36mo 데이터 대체)
+- [[prosthetic-materials/ma-2026-clinical-outcomes-zirconia-restorations-sr-ma]] — SR+MA(66편, 2008-2025): 지르코니아 SC 92.9–98.7%(10년), IRFPD 89%(10년), RBFPD 97.4%(10–15년), CFPD 50–52%(9–13년); APA+MDP SC 98.6%/IRFPD 98.1%; GRADE 매우 낮음
+- [[prosthetic-materials/boemicke-2025-zirconia-rbfpd-inlay-wing-3year-rct]] — 파일럿 RCT(n=30, 3년): 지르코니아 RBFPD 인레이형(IR) vs 날개형(WR) — IR 100%/WR 93.3% 생존율(P=0.317); 결손 없는 지대치엔 WR 선호; Heidelberg 그룹
+- [[prosthetic-materials/waldecker-2026-multilayer-zirconia-rbfpd-load-bearing]] — 시험관(n=16/군): 다층 3Y-TZP/5Y-PSZ(중심 네스팅)가 최고 하중 지지능; WR>IR; 5Y-PSZ 단독은 신중 사용; 인공 노화 영향 없음
 - [[prosthetic-materials/laumacher-2025-lithium-disilicate-single-crowns-overview-sr]] — 리튬 디실리케이트 단단관 보철 임상 결과 SR 개요 — 5년 생존율 95–98%, 임플란트 지지 LD 근거 증가.
 - [[prosthetic-materials/hosseini-2022-zirconia-metal-implant-premolar-5year-rct]] — 소구치 임플란트 단관 지르코니아 기반 vs 금속 기반 5년 RCT — 생존율·MBL 동등, 지르코니아 칩핑 없음.
 - [[prosthetic-materials/tajti-2023-monolithic-zirconia-metal-ceramic-implant-crowns-sr-ma]] — 구치부 임플란트 단관 단일층 지르코니아 vs 금속도재 SR+MA — 기술적 합병증 OR 0.31(지르코니아 우위).
