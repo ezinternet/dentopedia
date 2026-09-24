@@ -1,0 +1,445 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>발치와 지혈제 선택기</title>
+<style>
+  :root {
+    --bg: #f8f7f4;
+    --card: #ffffff;
+    --border: #e2ddd8;
+    --text: #1a1916;
+    --muted: #6b6560;
+    --accent: #2563eb;
+    --accent-light: #eff6ff;
+    --green: #16a34a;
+    --green-light: #f0fdf4;
+    --amber: #d97706;
+    --amber-light: #fffbeb;
+    --red: #dc2626;
+    --red-light: #fef2f2;
+    --purple: #7c3aed;
+    --purple-light: #f5f3ff;
+    --tag-bg: #f1ede8;
+    --rank1: #15803d;
+    --rank2: #2563eb;
+    --rank3: #6b6560;
+    --shadow: 0 1px 3px rgba(0,0,0,0.08), 0 1px 2px rgba(0,0,0,0.04);
+    --shadow-md: 0 4px 6px rgba(0,0,0,0.07), 0 2px 4px rgba(0,0,0,0.04);
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+    padding: 24px 16px 48px;
+  }
+
+  .container { max-width: 760px; margin: 0 auto; }
+
+  .header {
+    text-align: center;
+    margin-bottom: 28px;
+  }
+  .header h1 { font-size: 1.5rem; font-weight: 700; color: var(--text); margin-bottom: 6px; }
+  .header p { font-size: 0.875rem; color: var(--muted); }
+
+  .badge {
+    display: inline-block;
+    background: var(--tag-bg);
+    color: var(--muted);
+    font-size: 0.72rem;
+    font-weight: 600;
+    padding: 2px 8px;
+    border-radius: 999px;
+    margin-bottom: 12px;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+  }
+
+  .card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 20px;
+    margin-bottom: 16px;
+    box-shadow: var(--shadow);
+  }
+
+  .card-title {
+    font-size: 0.8rem;
+    font-weight: 700;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    margin-bottom: 14px;
+  }
+
+  /* Profile grid */
+  .profile-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+  }
+  @media (max-width: 520px) { .profile-grid { grid-template-columns: 1fr; } }
+
+  .profile-item label {
+    display: block;
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: var(--muted);
+    margin-bottom: 6px;
+  }
+
+  .profile-item select {
+    width: 100%;
+    padding: 9px 12px;
+    border: 1.5px solid var(--border);
+    border-radius: 8px;
+    font-size: 0.875rem;
+    color: var(--text);
+    background: var(--bg);
+    appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%236b6560' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 10px center;
+    cursor: pointer;
+    transition: border-color 0.15s;
+  }
+  .profile-item select:focus {
+    outline: none;
+    border-color: var(--accent);
+  }
+
+  /* INR slider */
+  .inr-block { margin-top: 4px; }
+  .inr-row { display: flex; align-items: center; gap: 12px; }
+  .inr-row input[type=range] {
+    flex: 1;
+    accent-color: var(--accent);
+    cursor: pointer;
+  }
+  .inr-val {
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--accent);
+    min-width: 48px;
+    text-align: right;
+  }
+  .inr-scale {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.68rem;
+    color: var(--muted);
+    margin-top: 4px;
+    padding: 0 2px;
+  }
+
+  /* Results */
+  .results-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 14px;
+  }
+  .results-header .card-title { margin-bottom: 0; }
+  .patient-chip {
+    font-size: 0.75rem;
+    font-weight: 600;
+    background: var(--accent-light);
+    color: var(--accent);
+    padding: 3px 10px;
+    border-radius: 999px;
+  }
+
+  .agent-list { display: flex; flex-direction: column; gap: 10px; }
+
+  .agent-row {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    padding: 14px;
+    border-radius: 10px;
+    border: 1.5px solid transparent;
+    transition: box-shadow 0.15s;
+  }
+  .agent-row:hover { box-shadow: var(--shadow-md); }
+
+  .rank-badge {
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.8rem;
+    font-weight: 800;
+    flex-shrink: 0;
+    margin-top: 1px;
+  }
+  .rank-1 { background: #dcfce7; color: var(--rank1); }
+  .rank-2 { background: #dbeafe; color: var(--rank2); }
+  .rank-3 { background: #f3f4f6; color: var(--rank3); }
+  .rank-na { background: #fef2f2; color: var(--red); }
+
+  .agent-info { flex: 1; }
+  .agent-name { font-weight: 700; font-size: 0.95rem; margin-bottom: 3px; }
+  .agent-time { font-size: 0.82rem; color: var(--muted); margin-bottom: 5px; }
+  .agent-time strong { color: var(--text); }
+  .agent-note { font-size: 0.78rem; color: var(--muted); line-height: 1.45; }
+
+  .agent-tags { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 6px; }
+  .tag {
+    font-size: 0.68rem;
+    font-weight: 600;
+    padding: 2px 7px;
+    border-radius: 999px;
+    letter-spacing: 0.03em;
+  }
+  .tag-rct { background: var(--green-light); color: var(--green); }
+  .tag-animal { background: var(--amber-light); color: var(--amber); }
+  .tag-na { background: #fef2f2; color: var(--red); }
+  .tag-warn { background: var(--amber-light); color: var(--amber); }
+
+  .time-bar-wrap { margin-top: 8px; }
+  .time-bar-bg {
+    height: 6px;
+    background: #f0ede8;
+    border-radius: 3px;
+    overflow: hidden;
+  }
+  .time-bar-fill {
+    height: 100%;
+    border-radius: 3px;
+    transition: width 0.4s ease;
+  }
+  .fill-rank1 { background: var(--green); }
+  .fill-rank2 { background: var(--accent); }
+  .fill-rank3 { background: #9ca3af; }
+  .fill-rankna { background: var(--red); }
+
+  /* Evidence note */
+  .evidence-note {
+    background: var(--amber-light);
+    border: 1px solid #fcd34d;
+    border-radius: 8px;
+    padding: 12px 14px;
+    font-size: 0.78rem;
+    color: #92400e;
+    line-height: 1.5;
+  }
+  .evidence-note strong { color: #78350f; }
+
+  /* Hidden */
+  .hidden { display: none; }
+  .inr-block.hidden { display: none; }
+
+  .divider { border: none; border-top: 1px solid var(--border); margin: 4px 0 10px; }
+
+  footer {
+    text-align: center;
+    font-size: 0.72rem;
+    color: var(--muted);
+    margin-top: 24px;
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <div class="header">
+    <span class="badge">Clinical Decision Support</span>
+    <h1>발치와 지혈제 선택기</h1>
+    <p>환자의 항응고·항혈소판 상태를 입력하면 근거 기반 지혈제 선택 순위를 반환합니다</p>
+  </div>
+
+  <!-- Input -->
+  <div class="card">
+    <div class="card-title">환자 프로파일</div>
+    <div class="profile-grid">
+      <div class="profile-item">
+        <label>항응고·항혈소판 상태</label>
+        <select id="medType" onchange="updateUI()">
+          <option value="healthy">정상 (약물 없음)</option>
+          <option value="sapt">SAPT — 아스피린 단독</option>
+          <option value="dapt">DAPT — 이중 항혈소판</option>
+          <option value="warfarin">와파린 (VKA)</option>
+          <option value="doac">DOAC (리바록사반·아픽사반 등)</option>
+          <option value="deranged">응고이상 (간경변·혈소판감소 등)</option>
+        </select>
+      </div>
+      <div class="profile-item">
+        <label>시술 복잡도</label>
+        <select id="complexity" onchange="updateUI()">
+          <option value="simple">단순 발치 (단근치)</option>
+          <option value="complex">복잡 발치 (다근치·매복)</option>
+        </select>
+      </div>
+    </div>
+
+    <!-- INR slider (warfarin / deranged only) -->
+    <div class="inr-block hidden" id="inrBlock" style="margin-top:14px;">
+      <label style="font-size:0.8rem;font-weight:600;color:var(--muted);display:block;margin-bottom:6px;">INR 값</label>
+      <div class="inr-row">
+        <input type="range" id="inrSlider" min="1.5" max="4.0" step="0.1" value="2.5" oninput="updateINR()">
+        <span class="inr-val" id="inrDisplay">2.5</span>
+      </div>
+      <div class="inr-scale"><span>1.5</span><span>2.0</span><span>2.5</span><span>3.0</span><span>3.5</span><span>4.0+</span></div>
+    </div>
+  </div>
+
+  <!-- Results -->
+  <div class="card">
+    <div class="results-header">
+      <div class="card-title">지혈제 선택 순위</div>
+      <span class="patient-chip" id="patientChip">정상 환자</span>
+    </div>
+    <div class="agent-list" id="agentList"></div>
+    <hr class="divider" style="margin-top:14px;">
+    <div class="evidence-note" id="evidenceNote"></div>
+  </div>
+
+  <footer>근거 출처: Patil 2025 (PMID 40656255) · Agrawal 2025 (41140885) · Singh Jolly 2025 (40090379) · Kaddah 2024 (39112998) · Guardieiro 2023 · Al-Suliman 2025 · wiki/drug/anticoagulants/</footer>
+</div>
+
+<script>
+const DATA = {
+  healthy: {
+    chip: '정상 환자',
+    agents: [
+      { rank: 1, name: '거즈 압박 (30분)', time: '~1.8분', bar: 10, note: '정상 환자에서는 압박 거즈로 충분. 추가 지혈제 불필요.', tags: ['tag-rct'], tagLabels: ['RCT n=60'] },
+      { rank: 2, name: '키토산 (Celox™)', time: '1.1분', bar: 8, note: 'Botroclot·TXA와 통계적으로 동등. 항혈소판 환자로 확장 시 선택.', tags: ['tag-rct'], tagLabels: ['RCT n=60'] },
+      { rank: 2, name: 'TXA 적신 거즈', time: '0.9분', bar: 6, note: '거즈보다 유의하게 빠름(p=0.001). 비용 대비 효과 고려.', tags: ['tag-rct'], tagLabels: ['RCT n=60'] },
+      { rank: 2, name: 'Botroclot (뱀독 지혈)', time: '0.9분', bar: 5, note: '5군 중 수치상 최단. TXA·키토산과 통계적 비차이(p=0.99).', tags: ['tag-rct'], tagLabels: ['RCT n=60'] },
+    ],
+    note: '<strong>정상 환자</strong>: Patil 2025 (n=60) 기준. 아드레날린은 거즈보다 통계적으로 유의하게 빠르지 않음(p>0.05). 단순 발치는 봉합+거즈 압박으로 충분하며 비용을 고려하면 복잡한 지혈제가 필요하지 않습니다.'
+  },
+  sapt: {
+    chip: 'SAPT (아스피린)',
+    agents: [
+      { rank: 1, name: '키토산 (Celox™)', time: '0.7분', bar: 9, note: 'SAPT 환자 중앙값 0.67분. TLR2로 항혈소판 약리 우회 → 거즈의 6.7배 빠름.', tags: ['tag-rct'], tagLabels: ['RCT n=100'] },
+      { rank: 2, name: '산화셀룰로오스 (Surgicel)', time: '참고', bar: 25, note: '항혈소판 환자에서 Gelfoam보다 우수(Al-Suliman). 키토산 없을 시 1차 대안.', tags: ['tag-rct'], tagLabels: ['분악 RCT n=40'] },
+      { rank: 3, name: '거즈 압박', time: '4.5분', bar: 65, note: '효과 있으나 키토산 대비 6.7배 느림. 3분 내 지혈 11%에 불과.', tags: ['tag-warn'], tagLabels: ['열등'] },
+    ],
+    note: '<strong>SAPT (아스피린 단독)</strong>: Agrawal 2025 (n=100, 71% SAPT). 아스피린 중단 불필요. 키토산 3분 내 지혈율 100% — 대기실에서 환자를 돌려보낼 수 있는 수준.'
+  },
+  dapt: {
+    chip: 'DAPT (이중항혈소판)',
+    agents: [
+      { rank: 1, name: '키토산 (Celox™)', time: '~1–5분', bar: 12, note: 'DAPT subgroup: 중앙값 5.34분 — SAPT보다 길지만 거즈(4.5분 기준) 대비 여전히 우위. 3분 내 100% 지혈.', tags: ['tag-rct'], tagLabels: ['RCT n=100', 'RCT DAPT n=29'] },
+      { rank: 2, name: '산화셀룰로오스 (Surgicel)', time: '참고', bar: 30, note: 'Guardieiro 2023: 키토산 > 산화셀룰로오스 (within-person RCT, DAPT).', tags: ['tag-rct'], tagLabels: ['RCT'] },
+      { rank: 3, name: '거즈 압박', time: '4.5분+', bar: 75, note: 'DAPT에서는 더 느리고 지연출혈 위험 증가. 단독 사용 지양.', tags: ['tag-warn'], tagLabels: ['열등'] },
+    ],
+    note: '<strong>DAPT (클로피도그렐·프라수그렐·티카그렐러 + 아스피린)</strong>: 약물 중단 불필요. Guardieiro 2023이 within-person RCT로 키토산 > 산화셀룰로오스를 확인. 봉합 + 키토산 조합이 현재 최강 근거.'
+  },
+  warfarin: {
+    chip: '와파린 (VKA)',
+    agents: [
+      { rank: 1, name: 'TXA + Gelfoam (소켓 충전)', time: '지혈 시간 유사; 통증·치유 우수', bar: 20, note: 'Kaddah 2024: 지혈 속도는 생리식염수-Gelfoam과 차이 없음. 그러나 3일차부터 통증 유의 감소, 치유 가속(p<0.001). Gelfoam 자체가 INR 2–3.5에서 충분한 스캐폴드.', tags: ['tag-rct'], tagLabels: ['triple-blind RCT n=30'] },
+      { rank: 1, name: '키토산 드레싱', time: '15분 (INR 1.5–4)', bar: 22, note: 'Singh Jolly 2025: 와파린 포함 응고이상 환자 10분 내 지혈 83.1% vs 거즈 18.8%. INR 4까지 효과 확인.', tags: ['tag-rct'], tagLabels: ['split-mouth RCT n=102'] },
+      { rank: 2, name: '산화셀룰로오스 (Surgicel)', time: '참고', bar: 35, note: 'Al-Suliman 2025: 항응고 환자에서 Gelfoam보다 지혈·지연출혈·통증 모두 우수.', tags: ['tag-rct'], tagLabels: ['분악 RCT n=40'] },
+      { rank: 3, name: '거즈 압박만', time: '45분+', bar: 90, note: 'Singh Jolly 기준 평균 45.2분. 고위험 발치에서 단독 사용 위험.', tags: ['tag-warn'], tagLabels: ['불충분'] },
+    ],
+    note: '<strong>와파린 (INR 2.0–3.5)</strong>: 약물 중단 불필요. 핵심 통찰 — TXA-Gelfoam의 주된 이점은 지혈 가속이 아니라 항섬유소분해(항섬용)로 인한 통증·치유 향상. Gelfoam 스캐폴드 자체가 이 INR 범위에서 1차 지혈을 담당한다.'
+  },
+  doac: {
+    chip: 'DOAC',
+    agents: [
+      { rank: 1, name: '키토산 드레싱', time: '참고 (항혈소판 데이터 외삽)', bar: 20, note: 'DOAC 전용 RCT는 현재 위키에 없음. 항혈소판 근거(Agrawal 2025)를 외삽 — 메커니즘(TLR2)이 응고인자 경로와 독립적이므로 임상 적용 가능성 높음.', tags: ['tag-warn'], tagLabels: ['외삽'] },
+      { rank: 1, name: '산화셀룰로오스 (Surgicel)', time: '참고', bar: 30, note: '항응고 환자 통합 권고(Al-Suliman 2025, 와파린 포함). DOAC 직접 데이터 제한적.', tags: ['tag-rct'], tagLabels: ['분악 RCT'] },
+      { rank: 2, name: 'TXA 양치액 (4.8%, 2분 × 4회)', time: '전신흡수 최소', bar: 40, note: 'DOAC에서 출혈을 50–60% 줄이는 가장 근거 있는 방법(복수 관찰연구). 술자가 소켓 개입 없이 사용 가능.', tags: ['tag-rct'], tagLabels: ['관찰연구'] },
+      { rank: 3, name: '거즈 압박', time: '참고', bar: 70, note: 'Kaya 2025: 지혈제 미사용 DOAC에서 등급3 출혈 8.1%. 반드시 국소 지혈 보조 사용.', tags: ['tag-warn'], tagLabels: ['불충분'] },
+    ],
+    note: '<strong>DOAC (리바록사반·아픽사반·다비가트란·에독사반)</strong>: 비중단 전략이 표준(Dou 2025 SR+MA). DOAC 특이적 RCT가 부족하므로 키토산은 와파린/항혈소판 데이터 외삽. TXA 양치액은 현재 가장 광범위하게 권장되는 보조.'
+  },
+  deranged: {
+    chip: '응고이상 (고위험)',
+    agents: [
+      { rank: 1, name: '키토산 드레싱', time: '15.1분 (mean)', bar: 18, note: 'Singh Jolly 2025 (n=102): INR 1.5–4 + 간경변 + 혈소판감소 혼합 코호트. 10분 내 83.1% — 거즈 18.8%의 4.4배. 유일한 고위험 전용 RCT.', tags: ['tag-rct'], tagLabels: ['split-mouth RCT n=102'] },
+      { rank: 2, name: 'TXA + Gelfoam 충전 (+ 봉합)', time: '지혈 시간 유사; 통증·치유 우수', bar: 25, note: '고위험 발치에서 Gelfoam 충전 + 봉합 + TXA 조합이 임상적으로 선호. INR 4 이상은 혈액내과 협진 권장.', tags: ['tag-rct'], tagLabels: ['triple-blind RCT n=30'] },
+      { rank: 3, name: '피브린 실란트', time: '고위험 전용', bar: 40, note: '혈전색전 위험 증가 없이 70–90% 출혈 감소(관찰 데이터). 다른 수단 실패 시 또는 수술적 발치에서 검토.', tags: [], tagLabels: [] },
+      { rank: 'na', name: '거즈 압박 단독', time: '45.2분 (mean)', bar: 98, note: 'Singh Jolly 2025 대조군: 10분 내 지혈 18.8%에 불과. 응고이상 환자 거즈 단독 금지.', tags: ['tag-na'], tagLabels: ['불충분 — 사용 금지'] },
+    ],
+    note: '<strong>응고이상 (간경변·혈소판감소·INR >4)</strong>: 위키에서 가장 근거 수준이 높은 상황. Singh Jolly 2025가 INR 4까지 키토산 효과를 확인. INR ≥4 또는 수술적 발치는 혈액내과 협진 + 수술장 준비 권장. 거즈 단독 절대 금지.'
+  }
+};
+
+function updateINR() {
+  const v = parseFloat(document.getElementById('inrSlider').value).toFixed(1);
+  document.getElementById('inrDisplay').textContent = v;
+  render();
+}
+
+function updateUI() {
+  const med = document.getElementById('medType').value;
+  const inrBlock = document.getElementById('inrBlock');
+  if (med === 'warfarin' || med === 'deranged') {
+    inrBlock.classList.remove('hidden');
+  } else {
+    inrBlock.classList.add('hidden');
+  }
+  render();
+}
+
+function render() {
+  const med = document.getElementById('medType').value;
+  const complexity = document.getElementById('complexity').value;
+  const d = DATA[med];
+
+  document.getElementById('patientChip').textContent = d.chip + (complexity === 'complex' ? ' · 복잡 발치' : '');
+
+  const list = document.getElementById('agentList');
+  list.innerHTML = '';
+
+  d.agents.forEach(a => {
+    const isNa = a.rank === 'na';
+    const rankClass = isNa ? 'rank-na' : `rank-${a.rank}`;
+    const fillClass = isNa ? 'fill-rankna' : `fill-rank${a.rank}`;
+    const rowBg = isNa ? 'background:var(--red-light);border-color:#fca5a5;' :
+                  a.rank === 1 ? 'background:var(--green-light);border-color:#bbf7d0;' :
+                  a.rank === 2 ? 'background:var(--accent-light);border-color:#bfdbfe;' :
+                  'background:#f9fafb;border-color:var(--border);';
+
+    const tags = a.tags.map((t, i) => `<span class="tag ${t}">${a.tagLabels[i]}</span>`).join('');
+    const barPct = Math.min(a.bar, 100);
+
+    let rankLabel = isNa ? '✕' : a.rank === 1 ? '1' : a.rank === 2 ? '2' : '3';
+
+    list.innerHTML += `
+      <div class="agent-row" style="${rowBg}">
+        <div class="rank-badge ${rankClass}">${rankLabel}</div>
+        <div class="agent-info">
+          <div class="agent-name">${a.name}</div>
+          <div class="agent-time">지혈 시간: <strong>${a.time}</strong></div>
+          <div class="time-bar-wrap">
+            <div class="time-bar-bg"><div class="time-bar-fill ${fillClass}" style="width:${barPct}%"></div></div>
+          </div>
+          <div class="agent-note" style="margin-top:6px">${a.note}</div>
+          ${tags ? `<div class="agent-tags">${tags}</div>` : ''}
+        </div>
+      </div>`;
+  });
+
+  // Complexity note
+  if (complexity === 'complex') {
+    list.innerHTML += `
+      <div class="agent-row" style="background:#f5f3ff;border-color:#c4b5fd;">
+        <div class="rank-badge" style="background:#ede9fe;color:var(--purple)">⚠</div>
+        <div class="agent-info">
+          <div class="agent-name" style="color:var(--purple)">복잡 발치 추가 고려사항</div>
+          <div class="agent-note" style="margin-top:4px">매복치·다근치는 출혈 면적이 넓어 봉합이 필수적이며, 지혈제 단독으로 커버 어려움. 단계적 접근: 봉합 → 지혈제 충전 → TXA 양치액 처방 → 48시간 추적.</div>
+        </div>
+      </div>`;
+  }
+
+  document.getElementById('evidenceNote').innerHTML = d.note;
+}
+
+// Init
+render();
+</script>
+</body>
+</html>
