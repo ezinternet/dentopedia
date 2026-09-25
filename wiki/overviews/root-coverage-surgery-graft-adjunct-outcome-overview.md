@@ -2,7 +2,7 @@
 title: "치근피개 수술 — 이식재가 피개를 정하고 보조재는 이환율을 정한다 (Root Coverage Surgery: Graft, Adjunct, and What Patients Actually Value)"
 authors: Synthesis (Damian Lee)
 year: 2026
-date: 2026-07-23
+date: 2026-09-25
 doi: N/A
 source: N/A
 category: overviews
@@ -10,13 +10,18 @@ evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
-tags: [gingival-recession, root-coverage, connective-tissue-graft, coronally-advanced-flap, mcaf, platelet-rich-fibrin, patient-reported-outcomes, dentinal-hypersensitivity, esthetics, overview]
+tags: [gingival-recession, root-coverage, connective-tissue-graft, coronally-advanced-flap, mcaf, platelet-rich-fibrin, patient-reported-outcomes, dentinal-hypersensitivity, esthetics, nccl, combined-defect, overview]
+relations:
+  - type: synthesizes
+    target: wiki/periodontics/santamaria-2026-gr-nccl-treatment-decision-tree
+  - type: synthesizes
+    target: wiki/periodontics/arbildo-vega-2026-periodontal-restorative-nccl-gr-sr
 ---
 
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
-> - 핵심 명제 ①: **이식재(graft substrate)가 피개율을 정하고, 보조재(adjunct)는 이환율을 정한다.** 단일·다발 퇴축 모두에서 결합조직이식 (Subepithelial Connective Tissue Graft, sCTG)이 피개와 각화조직 획득을 끌고 가며, 혈소판 농축물은 이식재 위에 더해도 피개를 늘리지 못하고 술후 통증만 줄인다. 논문 4편(SR+NMA 1·SR+MA 1·SR 1·RCT 1) 종합. [확인]
+> - 핵심 명제 ①: **이식재(graft substrate)가 피개율을 정하고, 보조재(adjunct)는 이환율을 정한다.** 단일·다발 퇴축 모두에서 결합조직이식 (Subepithelial Connective Tissue Graft, sCTG)이 피개와 각화조직 획득을 끌고 가며, 혈소판 농축물은 이식재 위에 더해도 피개를 늘리지 못하고 술후 통증만 줄인다. 이 명제는 논문 4편(SR+NMA 1·SR+MA 1·SR 1·RCT 1) 종합이며, 페이지 전체는 복합결손 2편(SR+MA 1·서술적 고찰 1)을 더해 6편. [확인]
 > - 핵심 명제 ②(더 날카로운 쪽): **술자가 최적화하는 지표와 환자가 가치를 두는 지표가 다르다.** 평균 치근피개율 (Mean Root Coverage, MRC%)은 술자 심미점수 (Root Coverage Esthetic Score, RES)와는 유의하게 상관하지만 **환자 심미 만족도(VAS)와는 상관하지 않는다**(Cairo 2025 메타회귀, 50 RCT·1,820명·2,219 결손). mm를 더 벌어도 환자가 더 만족한다는 보장이 없다. [확인]
 > - 그럼 환자는 무엇으로 만족하나 — 세 갈래: (a) **상아질 지각과민 (Dentinal Hypersensitivity) 감소**는 술식 종류와 무관하게 일관되게 발생(Cairo 2025), (b) **술후 통증·불편**은 보조재로 줄일 수 있고(Corekci 2025), (c) **심미 만족**은 피개 mm로 잘 예측되지 않는다. 즉 환자 대화의 초점을 "몇 mm 덮는다"에서 "시린 게 줄고 회복이 덜 아프다"로 옮기는 편이 근거에 맞는다.
 > - 다발 인접 퇴축 (Multiple Adjacent Gingival Recession, MAGR)의 표준은 변형 치관변위판막 (modified Coronally Advanced Flap, mCAF) + sCTG: 완전치근피개 (Complete Root Coverage, CRC) OR 1.70 (95% CI 1.18–2.44, p=0.004), 각화조직폭 증가 (ΔKTW) SMD 0.37 (95% CI 0.11–0.63, p=0.005) — 모든 대안 대비 우월(Gualtieri 2025, SR 17편·MA 9편). [확인]
@@ -27,27 +32,33 @@ tags: [gingival-recession, root-coverage, connective-tissue-graft, coronally-adv
 > - **이식재가 이미 있으면 PRF는 피개를 더 못 올린다**: 탈상피 치은이식 (De-epithelialized Gingival Graft, DGG) 단독 93.30% vs DGG+L-PRF 95.28%, **유의차 없음**(모든 이차 지표도 NS). 유의한 차이는 술후 6–7일 통증과 2·3·5일 불편감 감소뿐 — 진통제 사용량·OHIP-14는 차이 없음(Corekci 2025, split-mouth RCT n=15). [확인]
 > - 종합 규칙: ① 각화조직이 부족하거나 퇴축이 깊으면 **sCTG**(대체재·보조재로 대신하지 말 것), ② 각화조직이 넉넉하고 이식재 채취를 피하고 싶으면 **CAF+PRF**가 합리적 절충(약 +6%p 기대, 그 이상 아님), ③ **이식재를 쓰기로 했으면 PRF를 피개 목적으로 추가하지 말 것** — 이환율 감소 목적이면 정당, ④ 다발 퇴축은 mCAF+sCTG, ⑤ 심미가 목표면 측방 변위 설계를 고려.
 > - 근거 한계: Gualtieri의 장기 근거는 **RCT 단 1편**뿐이고, Corekci는 n=15·6개월 split-mouth 단일 센터, Barootchi의 PRF 이득(+6.12%)은 신뢰구간 하한이 1.83%로 임상적 의미가 작을 수 있다. mCAF+법랑기질단백 (Enamel Matrix Derivative, EMD)·이중날 메스 sCTG는 유망하나 근거 부족. [확인]
+> - **치은퇴축 (Gingival Recession, GR) + 비우식성 치경부 병소 (Non-Carious Cervical Lesion, NCCL) = 복합결손 (Combined Defect, CD)**: GR의 약 50%에 NCCL이 동반된다 — 드문 예외가 아니라 치근피개 환자의 절반이다(Santamaria 2026). [확인]
+> - 복합결손 결정 트리(Santamaria 2026, 서술적 고찰·초록 기반): NCCL은 Pini-Prato 2010 분류(A-, A+, B-, B+), GR은 Cairo 2011 분류 + 치은 표현형 (gingival phenotype). **A-·A+·B- → 치근피개술 단독**, **B+ 또는 V자형 → 복합레진 수복 + 치근피개술**(B+는 복합결손의 약 25%). 수복 여부를 정하는 건 NCCL의 "존재"가 아니라 "중증도"다. [확인]
+> - 이식재는 표현형으로 고른다: **얇은 표현형 → 자가 이식재 (autogenous graft)**, 중간 → 자가 또는 대체재, 두꺼운 → 이식재 불필요할 수 있음(Santamaria 2026). [확인]
+> - 수복을 추가하면 무엇이 달라지나(Arbildo-Vega 2026, SR+MA, RCT 4편): CAF+CTG+수복 vs CAF+CTG 단독에서 GR·임상부착수준 (Clinical Attachment Level, CAL)·각화조직 두께/폭 (KTT/KTW)·완전치근피개 (CRC; 80.4% vs 78.6%, OR 1.09)·심미 **모두 유의차 없음**. 유일한 이득은 **상아질 지각과민 (Dentin Sensitivity, DS)**: OR 9.25 (95% CI 2.39–35.77), 과민 없음 92.1% vs 55.3%. 대가는 탐침깊이 (Probing Depth, PD) +0.47 mm(긴 접합상피, 3 mm 미만 유지). [확인]
+> - 복합결손 임상 규칙: **피개는 CAF+CTG가 하고, 수복은 지각과민 때문에 한다.** B+/V자형은 수복+수술, A-/A+/B-는 수술 단독. 심미가 중요하면 색안정성 좋은 나노필 복합레진 > 레진강화형 글라스아이오노머 (Resin-Modified Glass Ionomer Cement, RMGIC). 이는 위의 "지각과민 완화 = 환자 가치" 명제와 맞물린다. [확인]
+> - 복합결손 근거 한계: Arbildo-Vega의 RCT 4편은 **전부 Santamaria 그룹(브라질)**, 견치·소구치만, 추적 ≤2년, GRADE low~very low — "차이 없음"은 동등성이 아니다. Santamaria 2026 결정 트리는 같은 그룹의 전문가 프레임(초록만 확보)이라 두 근거가 독립적이지 않다. [확인]
 > - **혈소판 농축물 자체의 재생 축(치주 결손·발치와 등) → [[overviews/periodontal-regenerative-platelet-concentrates-overview]] 참조** — 이 페이지는 치근피개 적응증만 다룬다.
 
 ## Three-line Summary
 
-Synthesis of four papers (1 network meta-analysis of 109 RCTs, 1 SR+MA, 1 SR of 50 RCTs, 1 split-mouth RCT) on root coverage surgery, organized around a single structural finding: **the graft substrate determines coverage, while the adjunct determines morbidity**. For multiple adjacent gingival recessions, modified coronally advanced flap (mCAF) plus subepithelial connective tissue graft (sCTG) was superior to every alternative for complete root coverage (OR 1.70, 95% CI 1.18–2.44, p=0.004) and keratinized tissue width gain (SMD 0.37, 95% CI 0.11–0.63, p=0.005), with the sCTG-versus-xenogeneic-acellular-dermal-matrix comparison rated HIGH certainty on both outcomes (Gualtieri 2025); for single defects, bilaminar CAF+sCTG outperformed monolaminar CAF on both clinician and patient esthetic measures (Cairo 2025, 50 RCTs, 1,820 subjects).
+Synthesis of six papers (1 network meta-analysis of 109 RCTs, 2 SR+MA, 1 SR of 50 RCTs, 1 split-mouth RCT, 1 narrative review) on root coverage surgery, organized around a single structural finding: **the graft substrate determines coverage, while the adjunct determines morbidity**. For multiple adjacent gingival recessions, modified coronally advanced flap (mCAF) plus subepithelial connective tissue graft (sCTG) was superior to every alternative for complete root coverage (OR 1.70, 95% CI 1.18–2.44, p=0.004) and keratinized tissue width gain (SMD 0.37, 95% CI 0.11–0.63, p=0.005), with the sCTG-versus-xenogeneic-acellular-dermal-matrix comparison rated HIGH certainty on both outcomes (Gualtieri 2025); for single defects, bilaminar CAF+sCTG outperformed monolaminar CAF on both clinician and patient esthetic measures (Cairo 2025, 50 RCTs, 1,820 subjects).
 
 Platelet concentrates occupy a narrower role than commonly assumed. Added to a bare coronally advanced flap, only PRF significantly increased mean root coverage (+6.12%, 95% CI 1.83–10.42, p=0.02) among PRF, PRP, and CGF, and that benefit was itself moderated by baseline keratinized tissue width (interaction +4.98, p=0.03); no platelet concentrate improved keratinized tissue width or gingival thickness at all (Barootchi 2024, 109 RCTs, 4,712 RT1 recessions). Added on top of a graft that is already present, PRF adds nothing to coverage — de-epithelialized gingival graft alone reached 93.30% versus 95.28% with L-PRF (p>0.05, all secondary parameters non-significant) — and its only significant effect was reduced postoperative pain on days 6–7 and reduced discomfort on days 2, 3, and 5, with no difference in analgesic use or OHIP-14 (Corekci 2025).
 
-The most clinically consequential finding is a dissociation of outcome metrics: Cairo 2025's meta-regression found mean root coverage percentage significantly associated with the clinician-scored Root Coverage Esthetic Score but **not** with patient-reported esthetic satisfaction, while dentinal hypersensitivity was substantially reduced by root coverage surgery regardless of modality. The surgeon's optimization target (millimetres of coverage) predicts the surgeon's esthetic judgement and not the patient's, which reframes both consent conversations and the choice of adjunct: hypersensitivity relief is modality-independent, postoperative comfort is adjunct-modifiable, and esthetic satisfaction is poorly predicted by coverage magnitude.
+The most clinically consequential finding is a dissociation of outcome metrics: Cairo 2025's meta-regression found mean root coverage percentage significantly associated with the clinician-scored Root Coverage Esthetic Score but **not** with patient-reported esthetic satisfaction, while dentinal hypersensitivity was substantially reduced by root coverage surgery regardless of modality. The surgeon's optimization target (millimetres of coverage) predicts the surgeon's esthetic judgement and not the patient's, which reframes both consent conversations and the choice of adjunct: hypersensitivity relief is modality-independent, postoperative comfort is adjunct-modifiable, and esthetic satisfaction is poorly predicted by coverage magnitude. Two further papers extend the page to combined defects (gingival recession plus a non-carious cervical lesion, ~50% of recessions): restoring the NCCL under CAF+CTG adds no root coverage (CRC 80.4% vs 78.6%, OR 1.09) but significantly improves dentin sensitivity (OR 9.25, 92.1% vs 55.3% sensitivity-free; Arbildo-Vega 2026, 4 RCTs, low certainty), and the Santamaria 2026 decision tree reserves restoration for B+ or V-shaped lesions.
 
 ## 세줄요약
 
-논문 4편(네트워크 메타분석 1·SR+MA 1·SR 1·split-mouth RCT 1) 종합 — 하나의 구조적 발견을 축으로 정리: **이식재(graft substrate)가 피개율을 정하고 보조재(adjunct)는 이환율을 정한다.** 다발 인접 치은퇴축 (Multiple Adjacent Gingival Recession, MAGR)에서는 변형 치관변위판막 (modified Coronally Advanced Flap, mCAF) + 결합조직이식 (Subepithelial Connective Tissue Graft, sCTG)이 완전치근피개 (Complete Root Coverage, CRC; 오즈비 1.70, 95% CI 1.18–2.44, p=0.004)와 각화조직폭 증가 (ΔKTW; 표준화평균차 0.37, 95% CI 0.11–0.63, p=0.005)에서 모든 대안 대비 우월했고, sCTG 대 이종 무세포 진피기질 (Xenogeneic Acellular Dermal Matrix, XADM) 비교는 두 지표 모두 **HIGH 근거**(Gualtieri 2025); 단일 결손에서도 이중층 (bilaminar) CAF+sCTG가 단일층 (monolaminar) CAF 단독보다 술자·환자 심미 지표 양쪽에서 우월(Cairo 2025, 50 RCT·1,820명).
+논문 6편(네트워크 메타분석 1·SR+MA 2·SR 1·split-mouth RCT 1·서술적 고찰 1) 종합 — 하나의 구조적 발견을 축으로 정리: **이식재(graft substrate)가 피개율을 정하고 보조재(adjunct)는 이환율을 정한다.** 다발 인접 치은퇴축 (Multiple Adjacent Gingival Recession, MAGR)에서는 변형 치관변위판막 (modified Coronally Advanced Flap, mCAF) + 결합조직이식 (Subepithelial Connective Tissue Graft, sCTG)이 완전치근피개 (Complete Root Coverage, CRC; 오즈비 1.70, 95% CI 1.18–2.44, p=0.004)와 각화조직폭 증가 (ΔKTW; 표준화평균차 0.37, 95% CI 0.11–0.63, p=0.005)에서 모든 대안 대비 우월했고, sCTG 대 이종 무세포 진피기질 (Xenogeneic Acellular Dermal Matrix, XADM) 비교는 두 지표 모두 **HIGH 근거**(Gualtieri 2025); 단일 결손에서도 이중층 (bilaminar) CAF+sCTG가 단일층 (monolaminar) CAF 단독보다 술자·환자 심미 지표 양쪽에서 우월(Cairo 2025, 50 RCT·1,820명).
 
 혈소판 농축물의 자리는 통념보다 좁다. 치관변위판막 단독에 더할 때 혈소판풍부피브린 (Platelet-Rich Fibrin, PRF)만 평균치근피개율 (Mean Root Coverage, MRC)을 유의하게 올렸고(**+6.12%**, 95% CI 1.83–10.42, p=0.02) 혈소판풍부혈장 (PRP)·농축성장인자 (CGF)는 실패했으며, 그 이득조차 기저 각화조직폭이 클수록 커지는 교호작용(+4.98, p=0.03)에 의존했다; 어떤 농축물도 각화조직폭·치은 두께는 개선하지 못했다(Barootchi 2024, 109 RCT·4,712 RT1 결손). 반면 **이식재가 이미 있는 위에 PRF를 더하면 피개 이득은 사라진다** — 탈상피 치은이식 (De-epithelialized Gingival Graft, DGG) 단독 93.30% vs DGG+백혈구 PRF 95.28%(p>0.05, 이차 지표 전부 NS), 유의한 효과는 술후 6–7일 통증과 2·3·5일 불편감 감소뿐이며 진통제 사용·구강건강영향지수 (OHIP-14)는 차이 없음(Corekci 2025).
 
-임상적으로 가장 중요한 발견은 **지표의 해리**다: Cairo 2025 메타회귀에서 평균치근피개율은 술자 심미점수 (Root Coverage Esthetic Score, RES)와는 유의하게 연관되나 **환자 심미 만족도와는 연관되지 않았고**, 상아질 지각과민 (Dentinal Hypersensitivity)은 술식 종류와 무관하게 뚜렷이 감소했다. 술자가 최적화하는 지표(피개 mm)가 예측하는 것은 술자 자신의 심미 판단이지 환자의 만족이 아니며, 이는 동의 설명과 보조재 선택 모두를 재구성한다 — 지각과민 완화는 술식 무관, 술후 편안함은 보조재로 조절 가능, 심미 만족은 피개량으로 잘 예측되지 않는다.
+임상적으로 가장 중요한 발견은 **지표의 해리**다: Cairo 2025 메타회귀에서 평균치근피개율은 술자 심미점수 (Root Coverage Esthetic Score, RES)와는 유의하게 연관되나 **환자 심미 만족도와는 연관되지 않았고**, 상아질 지각과민 (Dentinal Hypersensitivity)은 술식 종류와 무관하게 뚜렷이 감소했다. 술자가 최적화하는 지표(피개 mm)가 예측하는 것은 술자 자신의 심미 판단이지 환자의 만족이 아니며, 이는 동의 설명과 보조재 선택 모두를 재구성한다 — 지각과민 완화는 술식 무관, 술후 편안함은 보조재로 조절 가능, 심미 만족은 피개량으로 잘 예측되지 않는다. 추가 2편은 복합결손 (치은퇴축 + 비우식성 치경부 병소 (NCCL), 퇴축의 ~50%)으로 범위를 넓힌다: CAF+CTG에 NCCL 수복을 더해도 피개는 늘지 않으나(CRC 80.4% vs 78.6%, OR 1.09) 상아질 지각과민은 유의하게 개선되고(OR 9.25, 과민 없음 92.1% vs 55.3%; Arbildo-Vega 2026, RCT 4편, 근거 low), Santamaria 2026 결정 트리는 수복을 B+·V자형 병소에만 배정한다.
 
 ## Summary
 
-Root coverage surgery has an unusually mature evidence base — the four papers here rest on 109, 50, and 17 studies plus a controlled trial — and that maturity makes it possible to separate three questions that are usually blended: what actually produces coverage, what platelet concentrates contribute, and whether coverage is the thing worth producing.
+Root coverage surgery has an unusually mature evidence base — the four core papers here rest on 109, 50, and 17 studies plus a controlled trial, and two 2026 papers extend the synthesis to combined GR+NCCL defects — and that maturity makes it possible to separate three questions that are usually blended: what actually produces coverage, what platelet concentrates contribute, and whether coverage is the thing worth producing.
 
 Key propositions:
 
