@@ -32,6 +32,7 @@ tags: [zirconia, y-tzp, monolithic-zirconia, ltd, low-temperature-degradation, c
 > - **RBFPD 날개형 vs 인레이형 (Bömicke 2025, pilot RCT 3년, n=30)**: 날개형 (Wing-Retained, WR) 93.3% vs 인레이형 (Inlay-Retained, IR) 100% 생존율, P=0.317 유의차 없음; 건강한 지대치 → WR 선호, 지대치 수복 필요 시 → IR.
 > - **캔틸레버 IRFDP 5년 (Kasem 2026, RCT n=47)**: 생존율 91.7%, 성공률 81.7%; 지르코니아=연결부 파절(비수복성), FRC=수복 가능한 변형 — 재료가 실패 모드를 결정, 생존율은 동등.
 > - **실험실 하중 지지능 (Waldecker 2026, in-vitro)**: WR 1,025–1,617 N > IR 684–1,216 N; 3Y-TZP/5Y-PSZ 다층형(중심 네스팅) > 5Y-PSZ 단독; 인공 노화 영향 없음 — 5Y-PSZ 단독 RBFPD는 하중 안전역 낮아 주의.
+> - **임플란트 지지 보철 재료 비교 — 3축 RCT (2026)**: ① Kowar 2026 (3-arm FDP, 1yr, n=63): 모놀리식 지르코니아(Monolithic Zirconia, MZ) 1년 생존 100%·칩핑 0% vs 베니어 지르코니아(Veneered Zirconia, VZ) 95%·5% vs 티타늄-세라믹(Ti-Ceramic, TC) 95%·11.1% — MBL 전 그룹 NS; ② Yi 2026 (split-mouth RCT, 3yr, n=80): 이규산리튬(Lithium Disilicate, LS₂) vs ZrO₂ — MBL 비열등성 확인(차이 0.26 mm, 95% CI -0.17 to 0.70); 크라운 파절·디본딩 0건. 임플란트 지지 단관 수복에서 **LS₂는 ZrO₂의 대등한 대안** — 재료 선택은 심미·비용 기준으로 유연 가능.
 
 ## Three-line Summary
 
@@ -170,6 +171,26 @@ The 10× higher material fracture rate in veneered zirconia (2.1% vs. 0.2%, p=0.
 | SR vs. cementation type (p) | 0.730 (NS) |
 
 Monolithic zirconia eliminates the veneer chipping complication entirely and achieves acceptable short-term survival, but the evidence base is constrained by very short follow-up (mean 1.07 years) and high heterogeneity. Bruxism is the standout patient-level risk factor. The key clinical gap this paper opens: long-term survival beyond 2 years, and the role of LTD in explaining fractures — addressed separately by the Koenig cohort (Leitão 2022).
+
+**Kowar 2026 — 3-arm FDP RCT: Monolithic Zirconia vs Veneered Zirconia vs Ti-Ceramic (1yr, n=49/63 FDPs, Brånemark Clinic Gothenburg):**
+
+| Group | 1-yr survival | Chipping | MBL change (mm) |
+|---|---|---|---|
+| Monolithic Zirconia (MZ) | **100%** | **0%** | -0.18 (NS) |
+| Veneered Zirconia (VZ) | 95% (1 framework Fx) | 5% | -0.45 (NS) |
+| Ti-Ceramic (TC) | 95% (1 extensive chipping) | 11.1% | -0.15 (NS) |
+
+At 1 year, **MZ achieves zero chipping** while TC suffers the highest chipping rate (11.1%) — a pattern consistent with the Pjetursson 2018 metal-ceramic vs veneered zirconia data at longer follow-up. MBL differences were non-significant across all three groups. The trial is powered for 5-year outcomes; the 1-year read is directional rather than definitive (Kowar 2026).
+
+**Yi 2026 — Split-mouth RCT: Zirconia vs Lithium Disilicate implant crowns (3yr, n=40/80 implants, Peking University):**
+
+| Outcome | ZrO₂ | Lithium Disilicate (LS₂) | Significance |
+|---|---|---|---|
+| ΔMBL (mm) | -0.62 | -0.36 | Paired diff 0.26 (95% CI -0.17 to 0.70); non-inferiority of LS₂ confirmed (margin -0.5 mm) |
+| Crown fracture / chipping / debonding | 0 | 0 | — |
+| Biological complications | 5% | 15% | p=0.219 (NS; clinically notable) |
+
+Yi 2026 confirms **lithium disilicate (이규산리튬, LS₂) is non-inferior to zirconia for MBL** over 3 years. The clinically notable 15% vs 5% biological complication rate in LS₂ did not reach significance in this small split-mouth trial but warrants larger study. Material selection between these two materials can be esthetics-driven for most indications (Yi 2026).
 
 ---
 
@@ -339,3 +360,8 @@ When veneered zirconia chips or fractures, intraoral repair is the first-line op
 - [[prosthetic-materials/boemicke-2025-zirconia-rbfpd-inlay-wing-3year-rct]] — pilot RCT n=30, 3yr: IR 100% vs WR 93.3% survival NS; intact abutments → WR preferred
 - [[prosthetic-materials/kasem-2026-zirconia-frc-inlay-retained-fdp-5year-rct]] — RCT n=47, 5yr: cantilever IRFDP 91.7% survival; zirconia=catastrophic fracture, FRC=repairable; inlay-ring most conservative, performs equivalently
 - [[prosthetic-materials/waldecker-2026-multilayer-zirconia-rbfpd-load-bearing]] — in-vitro (Heidelberg group): WR>IR load-bearing; 3Y/5Y multilayer centric best; 5Y-PSZ alone insufficient; aging no effect
+
+### 임플란트 지지 보철 재료 비교 (2026-09)
+
+- [[prosthetic-materials/kowar-2026-monolithic-veneered-zirconia-titanium-ceramic-fdp-rct]] — 3-arm prospective RCT (n=63 FDPs, 1yr): MZ 100%/0% chipping > VZ 95%/5% > TC 95%/11.1%; MBL NS; 5yr data pending
+- [[prosthetic-materials/yi-2026-split-mouth-rct-zirconia-lithium-disilicate]] — split-mouth RCT (n=80 implants, 3yr): LS₂ non-inferior to ZrO₂ for MBL (diff 0.26 mm NS); 0 fractures/chipping/debonding; LS₂ valid esthetic alternative
