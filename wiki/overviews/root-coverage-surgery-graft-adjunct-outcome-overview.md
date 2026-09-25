@@ -74,6 +74,39 @@ Key propositions:
 
 Putting propositions 8 and 9 together reframes the operation. If the patient's esthetic satisfaction does not track coverage millimetres, and hypersensitivity relief arrives regardless of technique, then technique selection should be driven by (a) the biological requirement — keratinized tissue and recession depth, which point to sCTG — and (b) morbidity, where PRF has a defensible role. Promising a specific coverage percentage as the patient-facing goal is not well supported by the patient-reported evidence.
 
+## GR + NCCL Combined Defects
+
+**Prevalence.** [확인] Approximately 50% of gingival recessions have an associated non-carious cervical lesion on the same root surface — a "combined defect" (CD) (Santamaria 2026). This is not an edge case: half the patients who present for root coverage have a root that is not intact, so the restorative question is routine.
+
+**The decision tree (Santamaria 2026, narrative review, abstract-only).** [확인] The NCCL component is classified by Pini-Prato et al. 2010 (A-, A+, B-, B+); the GR component by Cairo et al. 2011 plus gingival phenotype. The operative rule separates cases by NCCL severity, not by NCCL presence:
+
+| NCCL class | Share of CDs | Treatment |
+|---|---|---|
+| A-, A+, B- (shallow) | "most cases" | Root coverage surgery alone; technique dictated by GR characteristics |
+| B+ (deep) | ~25% | Composite restorative protocol + root coverage |
+| V-shaped | not quantified | Composite restorative protocol + root coverage |
+
+| Gingival phenotype | Graft recommendation |
+|---|---|
+| Thin | Autogenous graft usually gives the best results |
+| Moderate | Autogenous or commercial substitute graft |
+| Thick | Graft may not be necessary |
+
+The phenotype rule is consistent with propositions 1–2 above: where tissue is thin, the autogenous graft is the substrate that does the work.
+
+**What restoration adds (Arbildo-Vega 2026, SR+MA of 4 RCTs).** [확인] CAF+CTG plus NCCL restoration (composite resin in 2 trials, RMGIC in 2) versus CAF+CTG alone, 1–2 year follow-up:
+
+- **No difference in any coverage or tissue outcome**: GR (MD 0.24 mm, p=0.47), CAL (p=0.14), KTT (p=0.20), KTW (p=0.84), root coverage (MD 1.61%, p=0.61), complete root coverage (OR 1.09, 95% CI 0.41–2.91; 80.4% vs 78.6%), combined-defect coverage (p=0.08), patient esthetics (VAS, p=0.97) and professional esthetics (MRES, p=0.35).
+- **Dentin sensitivity significantly better with restoration**: OR 9.25 (95% CI 2.39–35.77), p<0.01; 92.1% vs 55.3% of patients sensitivity-free.
+- **Probing depth slightly deeper with restoration**: MD 0.47 mm (95% CI 0.14–0.80, p=0.01), attributed to a long junctional epithelium over the restoration and remaining under 3 mm.
+- Professional esthetics was highly heterogeneous (I² 79%); the authors attribute this to material — RMGIC loses colour match over time, nanofilled composite integrates better (narrative inference, no formal subgroup test).
+
+**How this fits the page's thesis.** The combined-defect evidence repeats the page's central pattern in a new setting. Coverage is produced by CAF+CTG; restoring the NCCL does not change it. What restoration changes is a patient-perceptible outcome — sensitivity — which proposition 9 already identified as the benefit patients actually experience. So the restoration earns its place on patient-reported grounds, not on coverage grounds.
+
+**Clinical implication.** Restore B+ or V-shaped NCCLs together with root coverage, for sensitivity relief and because the lesion morphology calls for it; treat A-, A+ and B- lesions with root coverage surgery alone. Choose a colour-stable material (nanofilled composite over RMGIC) where esthetics matter, and expect a sulcus about 0.5 mm deeper over the restoration.
+
+**Limits specific to this section.** [확인] All four RCTs in Arbildo-Vega 2026 come from the Santamaria group in Brazil, cover canines and premolars only, and follow patients for at most 2 years; every outcome is GRADE low (professional esthetics very low), and "no significant difference" is not equivalence. Santamaria 2026 is a narrative review from the same group, ingested from the abstract only, so the decision tree and the pooled trials are not independent lines of evidence.
+
 ## Evidence Map
 
 | 축(axis) | Spine paper | Type | Key finding |
@@ -82,6 +115,8 @@ Putting propositions 8 and 9 together reframes the operation. If the patient's e
 | 단일 퇴축·심미·환자보고 | [[periodontics/cairo-2025-root-coverage-single-grd-sr]] | sr | 50 RCTs, 1,820 subjects, 2,219 single defects: bilaminar > monolaminar on both RES and patient VAS; lateral flap displacement > coronal for RES; meta-regression shows MRC% associated with RES but NOT with patient esthetic satisfaction; hypersensitivity substantially reduced regardless of modality |
 | 혈소판 농축물 순위(CAF 보조) | [[periodontics/barootchi-2024-autologous-platelet-concentrates-root-coverage]] | sr+ma | Network MA, 109 RCTs, 4,712 RT1 recessions, 3,188 patients: only CAF+PRF significantly increased MRC (+6.12%, 95% CI 1.83–10.42, p=0.02); PRP and CGF null; PRF benefit increases with baseline KTW (interaction +4.98, p=0.03); no APC improved KTW or gingival thickness |
 | 이식재 위 보조재 추가 | [[periodontics/corekci-2025-deepithelialized-gingival-graft-lprf-recession-rct]] | rct | Split-mouth RCT, n=15, 47 vs 48 RT1 teeth, 6 months: DGG 93.30% vs DGG+L-PRF 95.28%, p>0.05, all secondary parameters NS; significantly less pain days 6–7 and less discomfort days 2/3/5; no difference in analgesic use or OHIP-14 |
+| 복합결손 결정 트리 | [[periodontics/santamaria-2026-gr-nccl-treatment-decision-tree]] | narrative-review | ~50% of GRs have an associated NCCL; Pini-Prato A-/A+/B- → root coverage alone, B+ (~25%) or V-shaped → composite restoration + root coverage; thin phenotype → autogenous graft, thick → graft may be unnecessary; abstract-only |
+| 복합결손 수복 추가 효과 | [[periodontics/arbildo-vega-2026-periodontal-restorative-nccl-gr-sr]] | sr+ma | 4 RCTs (all Santamaria group): CAF+CTG+restoration vs CAF+CTG — GR, CAL, KTT, KTW, RC, CRC (OR 1.09; 80.4% vs 78.6%) and esthetics all NS; dentin sensitivity OR 9.25 (95% CI 2.39–35.77; 92.1% vs 55.3%); PD +0.47 mm (p=0.01); GRADE low/very low |
 
 ## Clinical Decision Rules
 
@@ -91,6 +126,7 @@ Putting propositions 8 and 9 together reframes the operation. If the patient's e
 4. **If a graft is being placed, do not add PRF to increase coverage** — it does not. Adding it to reduce early postoperative pain is a defensible, separate indication.
 5. **If esthetics is the primary driver, consider a laterally displaced design** and recognize that the coverage percentage you achieve will predict your own esthetic score better than the patient's.
 6. **Lead the consent conversation with hypersensitivity relief and recovery**, which the evidence supports as consistent and patient-perceptible, rather than with a target coverage percentage, which does not predict patient satisfaction.
+7. **Recession with an NCCL → classify the lesion before planning.** A-, A+ or B- → root coverage surgery alone; B+ or V-shaped → composite restoration plus root coverage (Santamaria 2026). Restoration does not add coverage but does relieve dentin sensitivity (OR 9.25; Arbildo-Vega 2026); prefer nanofilled composite over RMGIC where esthetics matter.
 
 ## Evidence Limits
 
@@ -99,6 +135,7 @@ Putting propositions 8 and 9 together reframes the operation. If the patient's e
 - **Corekci 2025 is small and single-centre.** n=15 patients in a split-mouth design at one institution; the morbidity finding is plausible but not robustly replicated here.
 - **Promising techniques remain under-evidenced.** mCAF+enamel matrix derivative (EMD) and double-blade-scalpel sCTG showed promise in Gualtieri 2025 but lack sufficient supporting studies.
 - **Patient-reported outcome measurement is heterogeneous.** The dissociation between MRC% and patient satisfaction rests on meta-regression across studies using varied VAS instruments; it is a strong signal about metric choice rather than a precise effect estimate.
+- **Combined-defect evidence comes from one research group.** All four RCTs pooled by Arbildo-Vega 2026 and the Santamaria 2026 decision tree originate from the Santamaria group; canines/premolars only, ≤2 years, GRADE low to very low. The decision tree is ingested from the abstract only.
 
 ## 관련 페이지
 
@@ -106,3 +143,6 @@ Putting propositions 8 and 9 together reframes the operation. If the patient's e
 - [[overviews/periodontics-treatment-ladder]] — 치주 치료 단계 전체 사다리에서 점막치은 수술이 놓이는 위치
 - [[periodontics/gualtieri-2025-mcaf-gingival-recession-sr-ma]] — 다발 인접 퇴축 mCAF 보조술식 순위의 1차 출처
 - [[periodontics/cairo-2025-root-coverage-single-grd-sr]] — 단일 퇴축 심미·환자보고 결과의 1차 출처; 지표 해리 소견의 근거
+- [[periodontics/santamaria-2026-gr-nccl-treatment-decision-tree]] — GR+NCCL 복합결손 결정 트리(Pini-Prato × Cairo × 표현형)의 1차 출처
+- [[periodontics/arbildo-vega-2026-periodontal-restorative-nccl-gr-sr]] — 복합결손에서 수복 추가 효과(피개 무차이·지각과민 OR 9.25)의 1차 출처
+- [[nccl/peumans-2020-nccl-treatment-when-why-how]] — NCCL 수복 적응증(수복 vs 관찰) 배경
