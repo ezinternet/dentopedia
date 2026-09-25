@@ -170,7 +170,12 @@
         "SR",
         "MA"
       ],
-      "last_run_edat": "2026/09/21"
+      "last_run_edat": "2026/09/25",
+      "seen_pmids": [
+        "41709259",
+        "42474599"
+      ],
+      "last_run": "2026-09-25T22:48:38"
     },
     "pediatric-dentistry": {
       "query": "(\"primary teeth\"[tiab] OR \"primary molar\"[tiab] OR \"primary molars\"[tiab] OR \"deciduous teeth\"[tiab] OR pulpotomy[tiab] OR \"Hall technique\"[tiab] OR \"stainless steel crown\"[tiab] OR \"paediatric dentistry\"[tiab] OR \"pediatric dentistry\"[tiab])",
@@ -576,7 +581,9 @@
     "6078744",
     "6934913",
     "8534877",
-    "9797056"
+    "9797056",
+    "41709259",
+    "42474599"
   ],
   "screened_out": {
     "42428944": {

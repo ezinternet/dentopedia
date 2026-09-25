@@ -68,6 +68,8 @@ source_papers:
   - wiki/orthodontics/clear-aligner/nakornnoi-2024-aligner-trimline-biomechanics-tooth-movement-sr.md
   - wiki/orthodontics/clear-aligner/nemec-2026-clear-aligner-patient-needs-expectations.md
   - wiki/orthodontics/clear-aligner/nucera-2022-composite-attachments-clear-aligners-sr.md
+  - wiki/orthodontics/clear-aligner/kavasoglu-2026-maa-vs-activator-cbct-volumes.md
+  - wiki/orthodontics/clear-aligner/fialho-2026-flowable-vs-bulkfill-aligner-attachments.md
   - wiki/orthodontics/clear-aligner/oliveira-2026-daily-life-impact-aligners-vs-fixed.md
   - wiki/orthodontics/clear-aligner/panda-2025-clear-aligner-braces-class-iii-comparison.md
   - wiki/orthodontics/clear-aligner/pasaoglu-bozkurt-2024-clear-aligner-biofilm-brand-comparison.md
