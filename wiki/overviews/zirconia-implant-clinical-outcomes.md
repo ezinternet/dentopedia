@@ -9,6 +9,9 @@ source_papers:
   - wiki/implants/surface/pieralli-2017-clinical-outcomes-zirconia-dental-implants.md
   - wiki/behavioral-dentistry/patient-reported-outcomes/arefnia-2025-patient-reported-outcomes-zirconia-implant.md
   - wiki/implants/surface/shetty-2026-titanium-vs-zirconia-implants-umbrella.md
+  - wiki/implants/surface/mehnert-2026-two-piece-zirconia-implant-2year-retrospective.md
+  - wiki/implants/surface/balmer-2026-zirconia-titanium-implants-prosthetic-outcome-rct.md
+  - wiki/implants/full-arch/alshahrani-2026-full-arch-monolithic-zirconia-prostheses-5year-retrospective.md
 tags: [zirconia-implant, survival, marginal-bone-loss, PROM, synthesis]
 relations:
   - type: applies-to
@@ -32,6 +35,9 @@ relations:
 > - 근거 한계: 60개월 초과 연구가 드물고 장기 파절/지대주나사 데이터 부족, 표준화 지르코니아 PROM 도구 부재, 경성종말점 (hard endpoint) 사용 지르코니아 vs 티타늄 직접비교 RCT 제한적. 임상 입장: 지르코니아는 적절 적응증에서 티타늄의 근거 기반 대안 (수정 가능한 위험 레버를 피한다는 전제).
 > - **미생물 축 신규 (Kniha 2026, 분할구 RCT, n=20, 12개월, 16S rRNA)**: 12개월 시점 지르코니아 > 티타늄 알파다양성(p<0.05); 지르코니아에서 Fusobacteria·Proteobacteria·Actinobacteria 감소, 레드 컴플렉스 경향 낮음. 단, 베타다양성(beta diversity) 차이 없음(PERMANOVA NS) → 전체 군집 조성은 동등. 치은연상 샘플링·임상 결과 없음 → 탐색적 데이터, 임상적 우위 단정 불가.
 > - **비교축 신규 (Shetty 2026, umbrella review, SR 6편, 2014–2023)**: 티타늄 vs 지르코니아 직접비교에서 생존·성공률 대체로 티타늄 우세(Duan 2023 메타분석 성공률 RR 0.87, p=0.03; Elnayef 2017 지르코니아 실패위험 89%↑). 단 이 리뷰는 **1-piece/2-piece 설계로 층화하지 않음** — Mohseni 2024가 지목한 진짜 실패 레버(2-piece·드릴가공)를 통제하지 못한 재료단위 비교라 두 논문이 긴장관계. 임상 해석: "지르코니아가 티타늄보다 열등"이 아니라 "설계를 층화하지 않은 오래된 SR 혼합체는 열등해 보이지만, 설계 통제 시(Mohseni) 격차가 사라진다"로 읽어야 함.
+> - **2-piece ATZ 지르코니아 임플란트 2년 생존 100%(Mehnert 2026, 후향적, n=44, Zeramex XT)**: 2-piece ATZ 지르코니아도 올바른 시스템 선택 시 2년 생존 100%, MBL 0.20 mm, BOP 9.1%→1.1%(p=0.002); PEEK 나사 파절 0건. Mohseni 2024의 2-piece 불이익이 일부 시스템에서는 나타나지 않을 수 있음(제조사 재정지원·비교군 없음 한계).
+> - **보철 결과축 신규 RCT(Balmer 2026, 다기관, n=117, 1년)**: 2-piece ZrO₂ vs Ti 임플란트 나사유지형 단관 — 보철 생존율 양군 100%; 기술적 합병증 군간 유의차 없음. **임플란트 재료보다 크라운 디자인(베니어 vs 단일체)이 합병증 예측 인자로 더 강력.** 1년 MBL(1차 종료점)은 별도 보고.
+> - **전악 단일체 ZrO₂ CAFIP 5년 생존율 91.67%(Alshahrani 2026, 기공소 후향적, n=3300)**: 프레임워크 파절 38건(주 원인: 수직 공간 부족), 도재 칩핑 4건(하악 과잉 베니어), Ti 실린더 파절·탈락 0건; 연도별 실패 증가(1→5년 2→14건) — 장기 추적 필요. 수직 공간 확보가 가장 중요한 수정 가능 위험인자.
 
 ## Three-line Summary
 
@@ -102,11 +108,32 @@ The first split-mouth RCT comparing peri-implant microbiome evolution on zirconi
 
 **Why this creates tension with the Thesis above**: Shetty 2026 pools older, heterogeneous SRs (through March 2023) without stratifying by implant design (one-piece vs two-piece) or coronal fabrication method (drill-prepared vs factory-finished) — precisely the two levers Mohseni 2024 identifies as the actual drivers of zirconia failure. Shetty's material-level "Ti > Zr" signal is therefore best read as reflecting an evidence base still dominated by older/two-piece/drill-prepared zirconia systems, not a fixed ceramic-vs-metal ceiling. [[implants/surface/mohseni-2024-clinical-outcomes-zirconia-implants]] is larger (25 studies/4,017 implants vs Shetty's 6 reviews), more recent, and directly stratifies by design — it remains the stronger evidence source for this overview's clinical decision points. Relation logged as `contradicts` on Shetty's page, not `superseded_by` on Mohseni's, since Mohseni is not overturned — the two papers are answering a subtly different question (raw material comparison vs design-controlled comparison).
 
+## Recent Evidence — Prosthetic Axis & Full-Arch
+
+### Two-Piece ATZ ZrO₂ Implants — 2-Year Retrospective (Mehnert 2026)
+[[implants/surface/mehnert-2026-two-piece-zirconia-implant-2year-retrospective]]: Single-center retrospective (31 patients, 44 Zeramex XT ATZ implants; Germany 2017–2021). 100% survival; MBL 0.20 ± 0.66 mm at 24 months (NS across periods); BOP 9.1%→1.1% (p=0.002); success rate 93.2%; VICARBOscrew (PEEK-based, non-metallic) 0 failures. The Mohseni 2024 2-piece disadvantage (p=0.017) may be system-specific — ATZ material + optimized design can achieve 100% short-term survival. **Caveat: industry-funded (CeramTec), no comparator group.**
+
+### ZrO₂ vs Ti Implants — Prosthetic Outcomes RCT (Balmer 2026)
+[[implants/surface/balmer-2026-zirconia-titanium-implants-prosthetic-outcome-rct]]: Prospective multicenter RCT (117 implants, 3 European centers, 1-year FU). Screw-retained all-ceramic crowns on 2-piece ZrO₂ (Ti-base connection) vs Ti implants (4.1 mm Ø). Restoration survival 100% in both groups; overall technical complications NS between groups. **Crown design (veneered vs monolithic) was a stronger complication predictor than implant material** — veneered crowns had significantly higher complications regardless of implant type (p<0.05). Peri-implant soft tissue equivalent. MBL (primary endpoint) reported separately.
+
+| Outcome | ZrO₂ Group | Ti Group | p |
+|---|---|---|---|
+| Restoration survival | 100% | 100% | NS |
+| Technical complications | — | — | NS |
+| Veneered > monolithic complications | Significant | Significant | <0.05 |
+| PI / PBI / PaI | Equivalent | Equivalent | NS |
+
+### Full-Arch Monolithic ZrO₂ CAFIPs — 5-Year Laboratory Study (Alshahrani 2026)
+[[implants/full-arch/alshahrani-2026-full-arch-monolithic-zirconia-prostheses-5year-retrospective]]: Retrospective cross-sectional analysis of 3300 screw-retained 3Y-TZP monolithic ZrO₂ CAFIPs from a Dubai commercial laboratory (2019–2024; maxillary 1900, mandibular 1400). 5-year cumulative survival 91.67% (life-table). Primary failure: framework fractures n=38 (insufficient vertical space); ceramic chipping n=4 (mandibular over-layering); Ti cylinder failures = **0**. Annual failure trend escalating (Year 1: 2 events → Year 5: 14 events).
+
+**Clinical implications**: Adequate vertical prosthetic space is the single most modifiable risk factor for full-arch ZrO₂ CAFIP longevity. Limiting porcelain veneering to the gingival zone eliminates chipping. The screw-retained Ti cylinder interface is mechanically reliable. The escalating failure trend flags need for 10-year follow-up data.
+
 ## Gaps & Future Research
 - Few studies beyond 60 months; long-term fracture/abutment-screw data sparse.
 - No standardized zirconia-implant PROM instrument — prevents meta-analysis.
 - Head-to-head zirconia vs titanium RCTs with hard endpoints still limited; Shetty 2026 shows the existing comparative SR evidence base has not been stratified by implant design, leaving the "true" material-level gap (controlling for one-piece/non-drilled design) empirically unresolved by direct RCT.
 - Microbiome data (Kniha 2026) lacks subgingival sampling and clinical outcomes — dedicated longitudinal studies needed to determine if zirconia's microbiome differences translate to lower peri-implantitis risk.
+- Full-arch ZrO₂ CAFIP: escalating failure trend from Alshahrani 2026 needs confirmation at 10 years; laboratory study limits clinical validity.
 
 ## Related Papers
 - [[implants/surface/mohseni-2024-clinical-outcomes-zirconia-implants]] — largest survival/MBL SR+MA, 10-yr CSR
@@ -114,6 +141,9 @@ The first split-mouth RCT comparing peri-implant microbiome evolution on zirconi
 - [[behavioral-dentistry/patient-reported-outcomes/arefnia-2025-patient-reported-outcomes-zirconia-implant]] — PRO side
 - [[implants/surface/kniha-2026-zirconia-titanium-microbial-anterior-rct]] — split-mouth RCT (n=20, 12mo, 16S rRNA): zirconia higher alpha diversity and fewer pathogenic taxa at 12mo; beta diversity NS; exploratory microbiome baseline
 - [[implants/surface/shetty-2026-titanium-vs-zirconia-implants-umbrella]] — umbrella review (SR 6편, 2014–2023): direct Ti-vs-Zr comparison, survival/success favor Ti but not design-stratified — contradicts Mohseni 2024's design-controlled equivalence finding
+- [[implants/surface/mehnert-2026-two-piece-zirconia-implant-2year-retrospective]] — retrospective (n=44 Zeramex XT ATZ, 2yr): 100% survival, MBL 0.20 mm, BOP 유의 감소; 2-piece ATZ 적절 시스템 선택 시 단기 우수
+- [[implants/surface/balmer-2026-zirconia-titanium-implants-prosthetic-outcome-rct]] — multicenter RCT (n=117, 1yr): ZrO₂/Ti 보철 생존율 100% 동등; 크라운 디자인이 임플란트 재료보다 합병증 예측력 강
+- [[implants/full-arch/alshahrani-2026-full-arch-monolithic-zirconia-prostheses-5year-retrospective]] — lab retrospective (n=3300 CAFIPs, 5yr): 91.67% 생존율, 프레임워크 파절 주원인=수직 공간 부족, Ti 실린더 실패 0건
 - [[overviews/implants-clinical-decision-ladder]] — implant decision framework
 - [[overviews/zirconia-material-clinical-overview]] — sibling overview: zirconia **as a restorative material** (material science, LTD, survival of crowns/FPDs) — distinct from this fixture-focused page
 - [[overviews/zirconia-types-clinical-selection]] — sibling overview: **3Y/4Y/5Y/UHTZ grade selection** for restorations
