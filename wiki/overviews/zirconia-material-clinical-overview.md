@@ -32,7 +32,7 @@ tags: [zirconia, y-tzp, monolithic-zirconia, ltd, low-temperature-degradation, c
 > - **RBFPD 날개형 vs 인레이형 (Bömicke 2025, pilot RCT 3년, n=30)**: 날개형 (Wing-Retained, WR) 93.3% vs 인레이형 (Inlay-Retained, IR) 100% 생존율, P=0.317 유의차 없음; 건강한 지대치 → WR 선호, 지대치 수복 필요 시 → IR.
 > - **캔틸레버 IRFDP 5년 (Kasem 2026, RCT n=47)**: 생존율 91.7%, 성공률 81.7%; 지르코니아=연결부 파절(비수복성), FRC=수복 가능한 변형 — 재료가 실패 모드를 결정, 생존율은 동등.
 > - **실험실 하중 지지능 (Waldecker 2026, in-vitro)**: WR 1,025–1,617 N > IR 684–1,216 N; 3Y-TZP/5Y-PSZ 다층형(중심 네스팅) > 5Y-PSZ 단독; 인공 노화 영향 없음 — 5Y-PSZ 단독 RBFPD는 하중 안전역 낮아 주의.
-> - **임플란트 지지 보철 재료 비교 — 3축 RCT (2026)**: ① Kowar 2026 (3-arm FDP, 1yr, n=63): 모놀리식 지르코니아(Monolithic Zirconia, MZ) 1년 생존 100%·칩핑 0% vs 베니어 지르코니아(Veneered Zirconia, VZ) 95%·5% vs 티타늄-세라믹(Ti-Ceramic, TC) 95%·11.1% — MBL 전 그룹 NS; ② Yi 2026 (split-mouth RCT, 3yr, n=80): 이규산리튬(Lithium Disilicate, LS₂) vs ZrO₂ — MBL 비열등성 확인(차이 0.26 mm, 95% CI -0.17 to 0.70); 크라운 파절·디본딩 0건. 임플란트 지지 단관 수복에서 **LS₂는 ZrO₂의 대등한 대안** — 재료 선택은 심미·비용 기준으로 유연 가능.
+> - **임플란트 지지 보철 재료 비교 — 3축 RCT (2026)**: ① Kowar 2026 (3-arm FDP, 1yr, n=63): 모놀리식 지르코니아(Monolithic Zirconia, MZ) 1년 생존 100%·칩핑 0% vs 베니어 지르코니아(Veneered Zirconia, VZ) 95%·5% vs 티타늄-세라믹(Ti-Ceramic, TC) 95%·11.1% — MBL 전 그룹 NS; ② Yi 2026 (split-mouth RCT, 3yr, n=80): 이규산리튬(Lithium Disilicate, LS₂) vs ZrO₂ — MBL 비열등성 확인(차이 0.26 mm, 95% CI -0.17 to 0.70); 크라운 파절·디본딩 0건; ③ Pachiou 2026 (MonoZR vs 금속-도재 보철(Porcelain-Fused-to-Metal, PFM) 3-unit iFDP RCT, 3yr, n=55/45 완료, Zurich): MZ 칩핑 **0% vs PFM 13%** (p=0.11 표본 부족); 보철 실패 1건/군=임플란트 상실(재료 탓 아님); MBL NS — MonoZR은 **다수치 iFDP에서도 칩핑 없는 PFM 대안** 확인. 임플란트 지지 수복에서 재료 선택은 심미·비용 기준으로 유연 가능.
 
 ## Three-line Summary
 
@@ -191,6 +191,17 @@ At 1 year, **MZ achieves zero chipping** while TC suffers the highest chipping r
 | Biological complications | 5% | 15% | p=0.219 (NS; clinically notable) |
 
 Yi 2026 confirms **lithium disilicate (이규산리튬, LS₂) is non-inferior to zirconia for MBL** over 3 years. The clinically notable 15% vs 5% biological complication rate in LS₂ did not reach significance in this small split-mouth trial but warrants larger study. Material selection between these two materials can be esthetics-driven for most indications (Yi 2026).
+
+**Pachiou 2026 — MonoZR vs PFM posterior 3-unit iFDP RCT (3yr, n=55/45 completing, University of Zurich):**
+
+| Outcome | MonoZR (n=22) | PFM (n=23) | Significance |
+|---|---|---|---|
+| Chipping | **0%** | **13% (3/23)** | p=0.11 (underpowered) |
+| Prosthesis failure | 1 (implant loss) | 1 (implant loss) | NS |
+| MBL change | NS | NS | NS |
+| USPHS criteria | Both acceptable | Both acceptable | — |
+
+Monolithic zirconia iFDPs demonstrated **zero chipping** at 3 years versus 13% in PFM — a numerically meaningful difference that failed to reach significance due to small sample size. Both prosthesis failures were attributable to implant loss, not the restoration material, confirming equivalent prosthesis-level performance. This pattern mirrors the Kowar 2026 FDP data (MZ 0% vs TC 11.1% chipping) and is directionally consistent with the single-crown literature. **MonoZR is supported as a chipping-free alternative to PFM for posterior multi-unit implant restorations at 3 years; longer follow-up needed for fracture risk** (Pachiou 2026).
 
 ---
 
@@ -365,3 +376,4 @@ When veneered zirconia chips or fractures, intraoral repair is the first-line op
 
 - [[prosthetic-materials/kowar-2026-monolithic-veneered-zirconia-titanium-ceramic-fdp-rct]] — 3-arm prospective RCT (n=63 FDPs, 1yr): MZ 100%/0% chipping > VZ 95%/5% > TC 95%/11.1%; MBL NS; 5yr data pending
 - [[prosthetic-materials/yi-2026-split-mouth-rct-zirconia-lithium-disilicate]] — split-mouth RCT (n=80 implants, 3yr): LS₂ non-inferior to ZrO₂ for MBL (diff 0.26 mm NS); 0 fractures/chipping/debonding; LS₂ valid esthetic alternative
+- [[prosthetic-materials/pachiou-2026-monolithic-zirconia-pfm-posterior-ifdp-rct]] — RCT (n=55/45 completing, 3yr, Zurich): MonoZR 0% chipping vs PFM 13% (p=0.11 underpowered); 1 prosthesis failure per group = implant loss; MBL NS; MonoZR chipping-free PFM alternative for multi-unit iFDP
