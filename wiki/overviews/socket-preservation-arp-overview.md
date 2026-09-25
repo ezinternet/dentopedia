@@ -451,6 +451,13 @@ Use Fischer et al. 2022 as the evidence anchor for patient discussion: "ARP will
 - [[bone-regeneration/ridge-preservation/anitua-2026-prgf-alveolar-ridge-preservation-rct]] — RCT n=46, 12-week biopsy, esthetic zone: PRGF vs spontaneous healing; new bone 48.7% vs 36.1% (p=0.024); early pain + soft-tissue benefit days 3–7; extends PRF adjunct axis (Axis 4) with PRGF-specific evidence
 - [[bone-regeneration/ridge-preservation/vora-2025-arp-molar-sites-sr]] — SR (14 studies, 571 molar sites): molar ARP horizontal loss -1.02 to -2.73 mm vs SH -2.36 to -4.44 mm; advanced augmentation 20.8% vs 47.7%; maxillary molar ARP reduces lateral-window sinus lift need; Axis 6 source
 
+### 소켓 치유 생물학·합병증 cluster (2026-09)
+
+- [[bone-regeneration/ridge-preservation/kamath-2026-ddr2-receptor-alveolar-socket-healing]] — mouse KO model (in vivo): DDR2 수용체(Discoidin Domain Receptor 2, DDR2) 결핍 시 소켓 골 치유 지연; BV/TV 57%(1wk)·71%(2wk)·81%(4wk) of wildtype; 세포 증식 ~30% 감소; DDR2-lineage 세포 = 소켓 세포의 최대 60%/1wk — DDR2가 소켓 치유의 핵심 수용체임을 규명
+- [[bone-regeneration/ridge-preservation/mun-2024-macrophage-alveolar-socket-healing]] — 대식세포 결핍 모델(in vivo): 골부피 0.01 vs 0.02 mm³ (p<.0001), 신생골 면적 41.97% vs 54.03%; 종양괴사인자-알파(Tumor Necrosis Factor-alpha, TNF-α)–중간엽줄기세포(Mesenchymal Stem Cell, MSC) 교신; 면역 유전자 15개 상향 조절 — 대식세포가 소켓 치유 면역-골격 축에서 필수적 역할
+- [[bone-regeneration/ridge-preservation/yin-2024-biomaterials-alveolar-socket-healing-review]] — narrative review: 성장인자 전달·면역조절 스캐폴드·항감염 생체재료(anti-infective biomaterial) 3축의 소켓 치유 응용 개요; ARP 생체재료 선택 전략 배경 지식
+- [[bone-regeneration/ridge-preservation/ukwas-2024-non-healing-socket-diagnostic-evaluation]] — 후향 코호트 (n=50 cases, 71 teeth): 비치유 소켓(non-healing socket) 진단; 가장 흔한 최종 진단 = 악성종양(원발+전이) > 약물연관 악골괴사(Medication-Related Osteonecrosis of the Jaw, MRONJ) — 지연 치유 소켓에서 악성 병변·MRONJ를 조기 의심하는 진단 임계치 설정 근거
+
 ## Clinical Quiz
 <!-- quiz_spec -->
 
