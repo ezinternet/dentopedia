@@ -1,6 +1,6 @@
 ---
 title: "Cracked Tooth Syndrome — 분류·진단·치료 결정의 2026 종합 (Korean Clinical Application)"
-authors: synthesis page (compiled by Claude; last updated 2026-09-22, ~32 papers)
+authors: synthesis page (compiled by Claude; last updated 2026-09-25, ~34 papers)
 year: 2026
 date: 2026-09-22
 category: overviews
@@ -31,7 +31,9 @@ relations:
 > - 한국 일차 임상 권장: Kwak의 보수적 framework을 default로 하되, 결정 trigger (자발통·치근단 병변·교두 동요 cuspal mobility) 발생 시 즉시 Kaur/Ferracane 입장으로 전환.
 > - 중증단(split/VRF/치관-치근 파절)의 보존 카드 (Cluster 5, 2026-06 신규): 분류표상 "발치" 디폴트지만, 불완전 VRF·온전 회수 파절편·얕은(≤1–2 mm) 치은연하 연장에 한해 **4-META/MMA-TBB 자가중합 레진(Super-Bond)** 으로 파절편을 접착해 자연치 보존 시도 가능 — TBB 개시제가 수분/공기로 중합 촉진되어 치은연하 오염 파절선에서도 결합 유지. 의도적 재식립+Super-Bond 신호 최량(Corbella 2025 SR, Okaguchi 6/6)·치관-치근 파절 55개월 양호(Li 2025 case report)이나, **근거빈약(전부 case series·n=1)·적응증 협소**라 표준 아님; resin-ionomer/silver-GIC는 전실패라 금기.
 > - **Kakka 2022 포괄 서술고찰 (64편, PMC, Athens+Newcastle)**: 치수생존율 80–93% (NP/RP 직·간접수복), 근관치료 후 크라운 없으면 발치 위험 11배(Nguyen Thi & Jansson). **Iowa Index** (아이오와 지수) = 치근단 진단 + 원심변연융선 균열 + 탐침깊이 ≥5 mm → 이 세 인자 복합 시 예후 불량 경고; 무증상 균열치 모니터링 근거 정량화(23% 증상 감소 vs 10% 악화, 1년).
-> - **2026-09 서베일런스 추가 (10편 신규)**:
+> - **2026-09 서베일런스 추가 (12편 신규)**:
+>   - **직접법 교두피개 (Malentacca 2026, n=321, 5yr)**: 직접 레진 교두 피개(direct resin composite cuspal coverage) 생존율 94.1%; 치주병소 위험 지배적(OR=10.52), 근관치료 OR=2.67; 간접 수복만이 표준이라는 가정에 도전 — 직접법도 단기 실용 대안으로 지지.
+>   - **ML 근관치료 필요도 예측 (Wu 2026, n=593)**: 가역 치수염 균열치에 기계학습(Machine Learning, ML) 적용; 최고 AUC=0.64·PPV=0.76·NPV=0.48; 고령·기존 수복물 = 예측인자; NPV 낮아 근관치료 필요 배제 불가 → **현재 ML은 보조 도구** 수준.
 >   - **장기 예후 (Chan 2025)**: 근관치료 균열치 10년 생존 66% / 15년 55%, 치주탐침깊이(Periodontal Probing Depth, PPD) <4 mm → 76%/64%, PPD ≥6 mm → 발치 위험 3.19×. Iowa Index의 치주 기준 정량 앵커.
 >   - **임상 코호트 (Zhang 2026, 561치)**: 원심변연융선(Distal Marginal Ridge) 파절 위험 최고(실패율 16.81%), 치수염 진행 집중 구간 0–1개월(48.97%)·3–6개월(27.84%); 전관피개 크라운 OR=5.57, 정상치수 OR=4.52 독립 보호인자.
 >   - **진단 신규 SR (Hernando 2026, 12편)**: 광간섭단층촬영(Optical Coherence Tomography, OCT)이 단일 기기 중 정확도 최고, 다중양식 접근이 단일 도구보다 우월 — Cluster 2 정확도 표에 OCT 추가.
@@ -406,7 +408,9 @@ Cluster 3의 합의("cuspal coverage는 standard")는 *무엇으로* 덮을지�
 - [[cracked-tooth/gioti-2026-symptomatic-cracked-tooth-management-survey]] — international clinician survey on management of symptomatic cracked teeth: treatment-decision patterns, inter-clinician variability, and prognostic factor weighting (survey, 2026)
 - [[cracked-tooth/dong-2026-nomogram-cracked-tooth-rct-5year-survival]] — 5-year prospective cohort with validated nomogram predicting tooth survival after RCT + cuspal coverage in cracked teeth; tooth type, crack extension depth, and periodontal pocket depth as key predictors (prospective, 2026)
 
-### 2026-09 서베일런스 신규 추가 (10편)
+### 2026-09 서베일런스 신규 추가 (12편)
+- [[cracked-tooth/malentacca-2026-direct-resin-composite-cuspal-coverage-cracked-teeth-5yr]] — 후향 코호트 (n=321 균열치, 5yr): 직접법 레진 교두피개(direct resin composite cuspal coverage) 생존율 94.1%; 치주병소 OR=10.52 지배적 위험, 근관치료 OR=2.67; 간접 수복만이 필수라는 가정에 도전 — 직접법도 단기 대안
+- [[cracked-tooth/wu-2026-machine-learning-prediction-endodontic-treatment-cracked-teeth]] — 후향 코호트 (n=593 균열치·가역 치수염): ML 기반 근관치료 필요도 예측; 최고 모델(로지스틱 회귀) AUC=0.64·PPV=0.76·NPV=0.48; 고령·기존 수복물 = 예측인자; NPV 낮아 근관치료 필요 배제 불가 — 현재 ML은 **의사결정 지원 보조** 수준
 - [[cracked-tooth/chan-2025-survival-endodontically-treated-cracked-teeth]] — 후향적 코호트 (n=204, 10–15년): 근관치료 균열치 10년 생존 66%/15년 55%; PPD <4mm=76%, ≥6mm HR 3.19× (Cluster 3 장기 예후 앵커)
 - [[cracked-tooth/zhang-2026-clinical-characteristics-prognostic-factors-cracked]] — 후향 코호트 (n=561): 원심변연융선 실패율 최고(16.81%), 치수염 집중 창 0–1mo/3–6mo, 전관피개 OR=5.57 (Cluster 3 임상 코호트)
 - [[cracked-tooth/deng-2026-occlusal-morphology-cracked-teeth-3d-morphometric]] — case-control (n=83+83, 3D scan): 상악 CIS 교두경사 31.87° vs 26.01°, 하악 CIS 교두 높이 OR=8.177 (Cluster 1b 형태학적 위험인자)
