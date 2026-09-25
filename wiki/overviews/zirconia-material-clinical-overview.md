@@ -376,4 +376,4 @@ When veneered zirconia chips or fractures, intraoral repair is the first-line op
 
 - [[prosthetic-materials/kowar-2026-monolithic-veneered-zirconia-titanium-ceramic-fdp-rct]] — 3-arm prospective RCT (n=63 FDPs, 1yr): MZ 100%/0% chipping > VZ 95%/5% > TC 95%/11.1%; MBL NS; 5yr data pending
 - [[prosthetic-materials/yi-2026-split-mouth-rct-zirconia-lithium-disilicate]] — split-mouth RCT (n=80 implants, 3yr): LS₂ non-inferior to ZrO₂ for MBL (diff 0.26 mm NS); 0 fractures/chipping/debonding; LS₂ valid esthetic alternative
-- [[prosthetic-materials/pachiou-2026-monolithic-zirconia-pfm-posterior-ifdp-rct]] — RCT (n=55/45 completing, 3yr, Zurich): MonoZR 0% chipping vs PFM 13% (p=0.11 underpowered); 1 prosthesis failure per group = implant loss; MBL NS; MonoZR chipping-free PFM alternative for multi-unit iFDP
+- [[prosthetic-materials/pachiou-2026-monolithic-zirconia-pfm-implant-fdp-rct]] — RCT (n=55/45 completing, 3yr, Zurich): MonoZR 0% chipping vs PFM 13% (p=0.11 underpowered); 1 prosthesis failure per group = implant loss; MBL NS; MonoZR chipping-free PFM alternative for multi-unit iFDP

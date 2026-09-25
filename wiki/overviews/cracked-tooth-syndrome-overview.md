@@ -409,8 +409,8 @@ Cluster 3의 합의("cuspal coverage는 standard")는 *무엇으로* 덮을지�
 - [[cracked-tooth/dong-2026-nomogram-cracked-tooth-rct-5year-survival]] — 5-year prospective cohort with validated nomogram predicting tooth survival after RCT + cuspal coverage in cracked teeth; tooth type, crack extension depth, and periodontal pocket depth as key predictors (prospective, 2026)
 
 ### 2026-09 서베일런스 신규 추가 (12편)
-- [[cracked-tooth/malentacca-2026-direct-resin-composite-cuspal-coverage-cracked-teeth-5yr]] — 후향 코호트 (n=321 균열치, 5yr): 직접법 레진 교두피개(direct resin composite cuspal coverage) 생존율 94.1%; 치주병소 OR=10.52 지배적 위험, 근관치료 OR=2.67; 간접 수복만이 필수라는 가정에 도전 — 직접법도 단기 대안
-- [[cracked-tooth/wu-2026-machine-learning-prediction-endodontic-treatment-cracked-teeth]] — 후향 코호트 (n=593 균열치·가역 치수염): ML 기반 근관치료 필요도 예측; 최고 모델(로지스틱 회귀) AUC=0.64·PPV=0.76·NPV=0.48; 고령·기존 수복물 = 예측인자; NPV 낮아 근관치료 필요 배제 불가 — 현재 ML은 **의사결정 지원 보조** 수준
+- [[cracked-tooth/malentacca-2026-cuspal-coverage-direct-resin-composite-cracked]] — 후향 코호트 (n=321 균열치, 5yr): 직접법 레진 교두피개(direct resin composite cuspal coverage) 생존율 94.1%; 치주병소 OR=10.52 지배적 위험, 근관치료 OR=2.67; 간접 수복만이 필수라는 가정에 도전 — 직접법도 단기 대안
+- [[cracked-tooth/wu-2026-prediction-pulpal-sequelae-machine-learning-cracked]] — 후향 코호트 (n=593 균열치·가역 치수염): ML 기반 근관치료 필요도 예측; 최고 모델(로지스틱 회귀) AUC=0.64·PPV=0.76·NPV=0.48; 고령·기존 수복물 = 예측인자; NPV 낮아 근관치료 필요 배제 불가 — 현재 ML은 **의사결정 지원 보조** 수준
 - [[cracked-tooth/chan-2025-survival-endodontically-treated-cracked-teeth]] — 후향적 코호트 (n=204, 10–15년): 근관치료 균열치 10년 생존 66%/15년 55%; PPD <4mm=76%, ≥6mm HR 3.19× (Cluster 3 장기 예후 앵커)
 - [[cracked-tooth/zhang-2026-clinical-characteristics-prognostic-factors-cracked]] — 후향 코호트 (n=561): 원심변연융선 실패율 최고(16.81%), 치수염 집중 창 0–1mo/3–6mo, 전관피개 OR=5.57 (Cluster 3 임상 코호트)
 - [[cracked-tooth/deng-2026-occlusal-morphology-cracked-teeth-3d-morphometric]] — case-control (n=83+83, 3D scan): 상악 CIS 교두경사 31.87° vs 26.01°, 하악 CIS 교두 높이 OR=8.177 (Cluster 1b 형태학적 위험인자)
