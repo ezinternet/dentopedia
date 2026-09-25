@@ -10,7 +10,7 @@ evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
-tags: [adhesion, bonding, mdp, silane, saliva-contamination, 3d-printed-crown, clearfil-se-bond, stamp-technique, overview, hybridization-quality, nanoleakage, sem]
+tags: [adhesion, bonding, mdp, silane, saliva-contamination, 3d-printed-crown, clearfil-se-bond, stamp-technique, overview, hybridization-quality, nanoleakage, sem, universal-adhesive, network-meta-analysis]
 source_wiki:
   - wiki/resin-bonding/salvio-2013-hybridization-quality-bond-strength-adhesive-dentin.md
 ---
@@ -27,6 +27,7 @@ source_wiki:
 > - **유니버설/무HEMA 확장(2026-06)**: HEMA/BPA-free 및 2-step 무HEMA 유니버설 접착제는 Clearfil SE Bond 2 수준 내구성 도달 가능(50k thermocycle); 침식 상아질엔 papain 탈단백이 self-etch µTBS 향상·안정화 (Tang 2024, Tsujimoto 2022, Sirirangsee 2025).
 > - **자가접착 레진시멘트**: MDP/CaF 함유 시멘트가 비-MDP보다 지르코니아 결합 우위 (Mahrous 2020).
 > - **임상 ladder**: ①러버댐 격리 1순위(오염이 결합력 결정자) → ②시스템 선택(2-step SE는 오염 내성, 3-step E&R은 장기 µTBS 우위) → ③간접수복 전처리(세라믹 HF+실란, 지르코니아 분사+MDP primer, 3D크라운 분사) → ④오염 시 대응(2-step은 maintain, 1-step은 decontamination).
+> - **유니버설 접착제 브랜드 선택 NMA (Karaduman 2026, SR+NMA 82편, 22종)**: 자가산부식(Self-Etch, S-E) 최고 = G2-Bond Universal (G2BU, 표면적 순위 곡선하 면적 (Surface Under the Cumulative Ranking curve, SUCRA) 5.86%); 산부식(Etch-and-Rinse, E-R) 최고 = Zipbond Universal (ZU, SUCRA 6.32%); 노화 후 최저 = G-Premio Bond (G-Premio Bond, GPB), Futurabond U (FU, 전 모드 최저); Clearfil Universal Bond Quick (CUBQ)는 E-R 노화 후 급락(SUCRA 94.17%) — 단기 S-E는 괜찮지만 장기 E-R 주의.
 > - **혼성층(hybrid layer) 품질 → µTBS 직접 예측**: SEM 나노누출(nanoleakage)이 낮을수록 즉각 결합강도(µTBS) 높음 — 2-step 자가부식(Clearfil SE Bond) 최우수, 1-step E&R(Adper Single Bond)은 완전한 콜라겐 노출에도 불구하고 최대 나노누출·최저 결합강도 (Salvio 2013, in-vitro). 2-step SE 우위의 기계론적 확증.
 > - **확신도**: 축 1·2·3·4·6 = 근거강함(in-vitro 한정); 축 5 stamp = 미검증(case report).
 
@@ -37,6 +38,8 @@ Synthesis of 6 bonding-strategy axes (adhesive fatigue/aging, silane timing & co
 Rubber-dam isolation is first priority; 2-step self-etch (SE, Clearfil SE Bond) is contamination-tolerant and gives the best µTBS with the least SEM nanoleakage; 1-step universal adhesives require decontamination after saliva exposure; 3D-printed crowns require airborne-particle abrasion for milling-equivalent bond strength.
 
 Evidence is strong but in-vitro–limited across all quantitative axes; the stamp technique remains case-report level only; the HEMA/BPA-free universal and 2-step HEMA-free adhesives can approach 2-step SE durability under 50k thermocycles.
+
+Network meta-analysis of 22 universal adhesives (82 studies, Karaduman 2026): G2BU tops self-etch (SUCRA 5.86%, before and after ageing); ZU tops etch-and-rinse (SUCRA 6.32%); GPB and FU consistently worst; CUBQ drops sharply in E-R after ageing (SUCRA 94.17%) — brand choice within the universal adhesive category is a real performance differentiator, with formulation strategy mattering more than functional monomer presence alone.
 
 ## 세줄요약
 
@@ -126,6 +129,31 @@ The fatigue/aging picture is sharper once universal adhesives are compared head-
 
 The 2-step SE arm that wins on hybridization quality, fatigue and contamination tolerance across these axes is the same de facto gold-standard control product detailed in [[resin-bonding/clearfil-se-bond-product-reference]] (Clearfil SE Bond / SE Bond 2, the 10-MDP self-etch reference against which the universal and HEMA-free systems above are benchmarked).
 
+### 축 7 — 유니버설 접착제 NMA: 22종 브랜드 랭킹 (Karaduman 2026)
+
+SR+NMA (82 studies, 2013–2025, 22 universal adhesives): the largest head-to-head network comparison to date; reference comparator = Scotchbond Universal (SBU). Bond outcomes measured as microtensile/shear/microshear bond strength (MPa) on sound dentin, before and after ageing (thermocycling).
+
+**Summary rankings (SUCRA: lower = better):**
+
+| Mode | Before ageing — Top | Before ageing — Bottom | After ageing — Top | After ageing — Bottom |
+|---|---|---|---|---|
+| S-E | G2BU (5.86%) | TUB (90.54%), GPB (80.69%) | G2BU (13.74%) | FU (88.38%), CUBQ (83.74%) |
+| E-R | ZU (6.32%) | FU (93.71%) | ZU (4.21%) | CUBQ (94.17%), IBU (92.07%) |
+
+Key abbreviations: G2BU = G2-Bond Universal (GC); ZU = Zipbond Universal (Kerr); GPB = G-Premio Bond (GC); FU = Futurabond U (VOCO); CUBQ = Clearfil Universal Bond Quick (Kuraray); TUB = Tokuyama Universal Bond (Tokuyama); IBU = iBOND Universal (Heraeus)
+
+**Clinical takeaways:**
+- **S-E mode → G2BU first choice**: top in both short- and long-term; two-step primer+adhesive architecture may explain superiority
+- **E-R mode → ZU first choice**: top before and after ageing; edges SBU in both conditions
+- **Avoid GPB and FU** in all conditions — significantly underperform SBU in both modes
+- **CUBQ trap**: performs acceptably in S-E (short-term) but worst in E-R after ageing (SUCRA 94.17%) — if CUBQ is used, apply in S-E mode only
+- **TUB**: worst in S-E mode; use in E-R mode to avoid its S-E disadvantage
+- **Formulation strategy > functional monomer presence**: having 10-MDP alone does not guarantee high rank — product-level differences in the total formulation drive outcomes
+
+**Evidence caveats**: in vitro only (no clinical outcomes); required SBU comparator introduces selection bias; surface preparation heterogeneity (#180–#4000 grit) affects absolute MPa; 45.7% of studies lacked ageing data → ageing networks smaller and less powered; GRADE equivalents not assessed.
+
+---
+
 ## 임상 ladder (접착 전체)
 
 1. **격리** — Rubber dam 1순위. 오염은 결합력 결정자.
@@ -180,6 +208,10 @@ The functional-monomer rationale underlying steps 2–3 is now spelled out at th
 → 이 근거는 in-vitro 우위(Borouziniat 2024, 지르코니아 SBS)가 **임상 생존율에서도 non-inferiority로 이어짐을 확인**하는 임상적 근거점(clinical anchor). [확인; abstract-only, HR 정밀값 미회수]
 
 ## Related Papers
+
+### 신규 추가 (2026-09)
+
+- [[resin-bonding/karaduman-2026-universal-adhesives-etching-modes-sr-nma]] — SR+NMA (82편, 22종 universal adhesive): S-E 1위 G2BU(SUCRA 5.86%), E-R 1위 ZU(6.32%); GPB·FU 전 조건 최저; CUBQ E-R 노화 후 급락(SUCRA 94.17%); 제형 전략이 단량체 존재보다 성능 결정
 
 ### 신규 추가 (2026-06 이후)
 
