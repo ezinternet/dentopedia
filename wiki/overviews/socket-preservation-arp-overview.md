@@ -34,6 +34,8 @@ tags: [arp, socket-preservation, dbbm, prf, collagen-plug, xenograft, ridge-pres
 > - **임상 takeaway**: ARP의 가치는 "골증대 회피 보장"이 아니라 **결손 복잡도 감소·임플란트 위치 최적화·marginal case에서 GBR 회피**다 — 환자 동의 시 이 틀로 기대치를 설정. 재료 선택은 차원 보존 측면에서 대체로 등가(DBBM ≈ DDM ≈ Bio-Oss Collagen, 입자크기 무관)이며, 생물학적 추가 효과는 rhBMP-2 > L-PRF.
 > - **리보스 가교 콜라겐(RCLC, OSSIXPlus) open-healing**: 1차 봉합 없이 막을 의도적으로 노출시켜도(Friedmann 2020, 파일럿 n=18/20발치와) 4개월 후 100% 추가 증대 없이 임플란트 식립 가능 + 각화점막(keratinized mucosa)이 원위치 유지(관상변위 봉합 대비 ~4mm 변위 회피) — 차원 보존 수치는 기존 ARP 범위 내이나, 수술 단순화·연조직 보존이라는 별개의 임상 이득 제공.
 > - **PRF막이 발치와 봉합을 넘어 능선증대용 차폐막까지 대체 가능**: Wang 2024(후향적 n=44)에서 후방 Seibert Class I 결손에 Bio-collagen+PRF막(단순화 GBR)이 Bio-Oss+Bio-Gide(고전적 GBR) 대비 수평폭경 증가 1.50 vs 1.83mm로 근소하게 낮았으나 윤곽 형태는 오히려 양호한 경향 — Alrayyes 2022의 PRF-대체 주제를 발치와 폐쇄에서 능선증대 적응증으로 확장(단, 이는 엄밀히는 발치 당일 ARP보다 사전 능선증대에 가까운 인접 적응증).
+> - **PRGF ARP RCT — 심미부 신생골 + 조기 연조직 이득 (Anitua 2026, n=46)**: 전치부 ARP에서 혈소판 풍부 성장인자 (Plasma Rich in Growth Factors, PRGF) vs 자연치유 12주 비교 — 신생골 형성 48.7% vs 36.1%, p=0.024; 3일 통증·3/5/7일 연조직 치유 모두 PRGF 우월(p<0.05). PRGF 클래스(BTI 시스템)는 L-PRF와 제조 프로토콜 달라 직접 교환 불가; Alavi 2024 L-PRF null 결과와 상충되는 것처럼 보이나 **제조방식 차이와 관찰 시점(12주 vs 장기 차원) 차이**로 설명 가능.
+> - **대구치 ARP SR — 수술 부담 절반·상악동 거상 감소 (Vora 2025, 14편, 571 부위)**: 대구치 발치와에서 ARP vs 자연치유 비교 — 수평 폭경 손실 ARP -1.02 to -2.73mm vs SH -2.36 to -4.44mm; **고급 골증대 필요율 20.8% vs 47.7%**(절반 수준); 상악 대구치에서 **측방창 상악동 거상 (Lateral-Window Sinus Lift) 필요 감소** — 단일치 근거가 대구치 소켓으로 확장됨을 확인. 이질성 높아 절대수치 해석 주의.
  - **콜라겐화 이종골 ARP에서 비가교 콜라겐막은 두꺼운 협측골 부위에서 추가 이득 없음**: 6개월 RCT(Harvard, n=20, 소구치·견치·절치, 이차치유) — 콜라겐화 우골 이종골(Collagenated Bovine Xenograft, BG) 단독 vs BG + 비가교 콜라겐막(Non-Crosslinked Collagen Membrane, MEM) 비교; 각화조직폭(p=0.999)·수평골폭(p=0.464)·수직골변화(p=0.244)·신생골 조직형태계측(p=0.803) 전부 유의차 없음. 협측골 두꺼운(~1mm) 발치와에서 이미 콜라겐 성분을 포함하는 이종골 자체가 생물학적 장벽 역할을 하므로 별도 막이 불필요함을 시사 — 프로토콜 단순화·비용 절감 근거(Khehra 2025, J Periodontol).
 
 ## Three-line Summary
@@ -273,6 +275,19 @@ Heavy smokers (≥10 cigarettes/day, 40 upper molar sockets) randomized to four 
 
 The implication is practical: in smokers (ST1B–ST2 sockets), substituting A-PRF for the collagen plug closure improves soft-tissue healing without adding operative complexity. Whether this translates to better long-term bone dimensions remains uninvestigated in this study.
 
+#### PRGF in Esthetic Zone ARP: New Bone Formation and Early Soft-Tissue Benefit (Anitua et al. 2026)
+
+Anitua et al. 2026 brings a distinct platelet concentrate — Plasma Rich in Growth Factors (PRGF, Anitua's proprietary BTI system) — into the ARP evidence base with a single-center RCT (n=46, aesthetic zone, PRGF vs. spontaneous healing, 12-week biopsy). Key findings:
+
+| Outcome | PRGF | Spontaneous healing | Significance |
+|---|---|---|---|
+| New bone formation (%) | 48.7 (IQR 31.9–92.3) | 36.1 (IQR 15.8–58.9) | p=0.024 |
+| Pain day 3 | Lower | — | p=0.036 |
+| Soft-tissue healing (days 3/5/7) | Improved | — | p<0.05 |
+| Dimensional stability | Improved (mm values from abstract only) | — | — |
+
+**Clinical significance**: PRGF achieves a statistically significant new bone formation advantage at 12 weeks — extending the PRF/platelet-concentrate bone formation theme confirmed by Caponio 2023 (SMD=1.77) and partially rebutting the Alavi 2024 SR null result for L-PRF on dimensions. The early soft-tissue/pain benefit (days 3–7) is consistent with Alrayyes 2022 and reinforces the growth-factor component as the PRF class's mechanism of action. Caveat: PRGF (BTI) uses a centrifugation protocol distinct from L-PRF and A-PRF — cross-preparation generalization requires caution. Abstract-only source; dimensional data in mm not available from abstract (Anitua 2026).
+
 #### PRF as Membrane Substitute for Ridge Augmentation, Not Just Socket Closure (Wang et al. 2024)
 
 The PRF-adjunct evidence above (Kollati 2019, Alrayyes 2022) concerns PRF layered alongside a collagen plug at socket closure. Wang et al. 2024 tests a related but distinct question: can a **PRF membrane substitute entirely for a resorbable collagen barrier membrane** (Bio-Gide) in a small posterior GBR scenario — specifically **Seibert Class I** ridge defects (horizontal deficiency, normal height), the same defect geometry ARP is designed to prevent when treatment is delayed. This retrospective study (n=44, 22/group) compared:
@@ -333,6 +348,22 @@ Fischer et al. 2022 measures the *millimeter* sufficiency question; Lee et al. 2
 Lee et al. 2021 thus complements Fischer's SR+MA on two fronts: it converts the dimensional benefit into a clinically meaningful endpoint (placement feasibility) with real-world retrospective data, and it specifically rebuts the "ARP is over-treatment" framing for the compromised-socket population — where the downstream benefit is clearest. De Angelis et al. 2022 echoes the same downstream-simplification direction (additional grafting needed 9% ARP vs 26% spontaneous healing) although that trend did not reach significance in its small, non-randomized sample (p=0.11). Strauss et al. 2024 quantifies the same effect prospectively at early placement (additional GBR ~30% with ARP vs 68.4% without), making the feasibility/burden-reduction benefit one of the most consistently reproduced ARP findings across retrospective, RCT, and meta-analytic designs.
 
 A registered RCT in this space — Zhang et al. 2022, a protocol for ARP at severe-periodontitis molar extraction sockets (n=70) — remains in the pipeline with results pending, and will be the first randomized test of ARP benefit specifically in the periodontally-compromised molar socket ([[bone-regeneration/ridge-preservation/zhang-2022-ridge-preservation-molar-extraction-periodontitis]]).
+
+---
+
+### Axis 6 — Molar-Specific ARP: Site Complexity and Sinus Lift Reduction (Vora et al. 2025)
+
+Most ARP trials enroll single-rooted anterior/premolar sites. Vora et al. 2025 addresses the large molar socket directly — a SR of 14 studies (8 RCTs, 2 CCTs, 4 observational; 571 molar sites) comparing ARP vs. spontaneous healing (SH) at molar extraction sockets:
+
+| Outcome | ARP | Spontaneous Healing (SH) | Interpretation |
+|---|---|---|---|
+| Horizontal width loss (mm) | -1.02 to -2.73 | -2.36 to -4.44 | ARP significantly attenuates loss |
+| Need for advanced augmentation | **20.8%** | **47.7%** | ARP halves the rate |
+| Need for lateral-window sinus lift (maxillary molars) | Reduced | Higher | Clinically significant downstream benefit |
+
+**Key finding — sinus lift reduction**: ARP at maxillary molar sites specifically reduces the probability of needing a lateral-window sinus lift (the most invasive augmentation procedure) — a downstream benefit not captured in single-dimensional analysis but clinically decisive for the posterior maxilla. The 20.8% vs. 47.7% advanced augmentation rate (roughly halved by ARP) aligns directionally with Fischer 2022's single-rooted data, confirming the benefit extends to molar sites.
+
+**Site-specific caveat**: The molar socket presents challenges absent from single-rooted sites — furcation anatomy, larger socket volume, more complex buccal anatomy, and common proximity to the maxillary sinus. Outcome variability is higher, and the Vora SR includes heterogeneous study designs. The core message is that ARP's risk-reduction benefit generalizes to molar sites and that the sinus lift reduction endpoint justifies ARP consideration even in posterior maxilla where clinicians sometimes omit it.
 
 ---
 
@@ -417,6 +448,8 @@ Use Fischer et al. 2022 as the evidence anchor for patient discussion: "ARP will
 
 - [[bone-regeneration/ridge-preservation/khehra-2025-arp-xenograft-collagen-membrane-rct]] — 6개월 병행 RCT (n=20, Harvard HSDM, 두꺼운 협측 골 ARP): 콜라겐 이종골 단독 vs 이종골+비교차결합 콜라겐 차단막 비교. KT 폭·수평 골폭·수직 골 변화·조직형태 신생골(25.8% vs 27.9%) 전 항목 통계적 동등. 두꺼운 협측 골 소켓에서는 차단막 추가 이득 없음. (rct, 2025)
 - [[bone-regeneration/caponio-2023-platelet-concentrates-bone-formation-arp]] — SR+MA+TSA (8 RCTs, 255 sockets, 10–24 wk histomorphometry): platelet concentrates (L-PRF/P-PRP) significantly increase new vital bone formation vs spontaneous healing (SMD=1.77, CI 1.47–2.06); no difference between PC types; TSA confirms conclusion definitive. Reinforces the canullo-2021 NMA finding that platelet concentrates rank highest for bone formation in ARP.
+- [[bone-regeneration/ridge-preservation/anitua-2026-prgf-alveolar-ridge-preservation-rct]] — RCT n=46, 12-week biopsy, esthetic zone: PRGF vs spontaneous healing; new bone 48.7% vs 36.1% (p=0.024); early pain + soft-tissue benefit days 3–7; extends PRF adjunct axis (Axis 4) with PRGF-specific evidence
+- [[bone-regeneration/ridge-preservation/vora-2025-arp-molar-sites-sr]] — SR (14 studies, 571 molar sites): molar ARP horizontal loss -1.02 to -2.73 mm vs SH -2.36 to -4.44 mm; advanced augmentation 20.8% vs 47.7%; maxillary molar ARP reduces lateral-window sinus lift need; Axis 6 source
 
 ## Clinical Quiz
 <!-- quiz_spec -->
