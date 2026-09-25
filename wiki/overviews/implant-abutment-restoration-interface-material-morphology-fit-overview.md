@@ -10,7 +10,7 @@ evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
-tags: [implant-abutment, zirconia-abutment, titanium-abutment, hybrid-abutment, emergence-profile, peri-implant-soft-tissue, marginal-gap, keratinized-mucosa, bibliometric, overview]
+tags: [implant-abutment, zirconia-abutment, titanium-abutment, hybrid-abutment, ti-base-abutment, screw-retained-crown, emergence-profile, peri-implant-soft-tissue, marginal-gap, keratinized-mucosa, bibliometric, overview]
 source_wiki:
   - wiki/dental-materials/zirconia/davoudi-2025-zirconia-abutments-biological-mechanical-esthetic.md
   - wiki/prosthetic-materials/sterzenbach-2025-hybrid-abutment-crowns-zirconia-titanium-implants.md
@@ -20,6 +20,7 @@ source_wiki:
   - wiki/prosthetic-materials/zhang-2026-bibliometric-implant-abutment-research-2005-2024.md
   - wiki/implants/soft-tissue/kheder-2026-abutment-materials-peri-implant-tissue-health-sr.md
   - wiki/implants/soft-tissue/tiskratok-2026-tooth-colored-abutment-peri-implant-soft-tissue-sr.md
+  - wiki/prosthetic-materials/abutment-screw/hjerppe-2026-ti-base-custom-abutment-monolithic-zirconia-rct.md
 relations:
   - type: extends
     target: abutment-emergence-profile-peri-implant-tissue-overview
@@ -39,6 +40,7 @@ relations:
 > - **보철 적합도**: Dudley 2025(umbrella, 301 in vitro) — 크라운 종류·재료·제작법(CAD-CAM 80.3 vs 통상 88.0µm) 모두 무차이(전부 120µm 허용한계 내). 문헌 변동의 진짜 원인은 **측정법 artifact**(impression replica가 현미경보다 +37.86µm 과대, p<.001).
 > - **연구동향**: Zhang 2026(bibliometric, 2,051편) — 재료 서사 티타늄→지르코니아→하이브리드 + 디지털 워크플로우 급증; 지르코니아·디지털 키워드 폭증은 **합의가 아닌 미해결 불확실성** 반영.
 > - **아버트먼트 재료 2026 신규 SR(Kheder 2026, 13편 임상 연구; Tiskratok 2026, 136편 SR)**: Ti·ZrO₂·PEEK 직접비교 — Ti는 장기 예측성 최고, ZrO₂는 연조직·심미 우수(전치부), PEEK는 단기 근거만 존재(일상 사용 불가). 두 SR 모두 **ZrO₂ ≈ Ti 연조직 결과(MBL/PPD)** 확인, ZrO₂ 전치부 우선 권고를 지지.
+> - **티 베이스 지대주 vs 맞춤 지대주 (Hjerppe 2026, RCT n=51, 3년)**: 스크루 유지 모놀리식 ZrO₂ 크라운에서 티 베이스 지대주(Ti-Base Abutment) vs 맞춤 제작 티타늄 지대주(Custom Titanium Abutment) — 크라운 탈락 0건·MBL 동등(p>0.05)·소수 칩핑 1건(Ti-Base, 3.6%). 환자 만족도는 맞춤 100% vs Ti-Base 92.9%(NS). **Ti-Base는 맞춤 지대주의 비용 효율적 대안으로 임상적으로 유효**하며, 지대주 선택을 비용·워크플로우 기준으로 유연하게 할 수 있다는 근거를 추가.
 > - **임상 함의**: 지대주 재료·크라운 적합도는 유연·심미 주도 선택 가능(근거상 동등), 그러나 지르코니아 임플란트체·장기 데이터로 넘어가면 확신 급락. 연조직은 형태보다 KM·두께 확보가 관건.
 > - 근거등급: 재료 [확인, 동등], 형태 [1년 무차이], 적합도 [측정 artifact 주의], 지르코니아 임플란트체 [주의 — RCT 비열등 미확인], PEEK [탐색적 — 장기 근거 없음].
 
@@ -73,6 +75,7 @@ Two caveats keep this from being "anything goes": the equivalence is about abutm
 - **Critical caveat — Sterzenbach 2025** (RCT, n=60, 3 yr): hybrid abutment/crown performed comparably (zero crown-attributable failures), but two-piece **zirconia implant bodies** survived 89.3% vs 100% titanium (non-inferiority NOT confirmed; failures were osseointegration, not prosthetic). Do not blur "zirconia abutment ≈ titanium" into "zirconia implant ≈ titanium implant."
 - **Abutment material clinical SR (Kheder 2026, PRISMA, 13 clinical studies, 2019–2026)**: Ti abutments: highest long-term predictability, minimal MBL, stable peri-implant tissue; ZrO₂: comparable biology with **superior soft-tissue response and esthetics** (anterior zones) vs Ti (Savitha 2024 RCT: ZrO₂ significantly lowest PD, BOP, plaque index); PEEK: promising reduced inflammation in 1 pilot study — **insufficient for routine use** (no long-term data).
 - **Tooth-colored abutment SR (Tiskratok 2026, 136 articles)**: ZrO₂ demonstrates enhanced cell attachment, reduced pro-inflammatory cytokines, lower biofilm vs Ti; PEEK mechanically sound but hydrophobicity limits cell adhesion — surface modification required; ZrO₂ is the optimal tooth-colored abutment for peri-implant soft-tissue biology. Both SRs converge: **Ti for posterior/high-load zones; ZrO₂ preferred esthetic zones; PEEK awaits long-term data.**
+- **Ti-Base vs. Custom Titanium Abutment (Hjerppe 2026, RCT, n=51, 3yr, University of Zurich)**: Screw-retained monolithic ZrO₂ crowns randomized to Ti-Base abutment vs. custom CAD/CAM titanium abutment. **Zero crown losses** in either group; MBL comparable at all time points (p>0.05); one minor chipping event in the Ti-Base group (3.6%) vs none in Custom (NS); patient satisfaction 92.9% Ti-Base vs 100% Custom (p>0.05). Conclusion: **Ti-Base abutment is a valid, cost-effective alternative** to custom titanium abutment for screw-retained monolithic zirconia crowns, extending the Davoudi/Bressan "choice is esthetics/workflow-driven" message to the Ti-Base vs. bespoke dimension.
 
 ### Axis 2 — Morphology / emergence profile & soft tissue
 
@@ -111,6 +114,7 @@ Narrative synthesis (no new pooling). Base: 2 umbrella reviews (Davoudi, Dudley)
 - [[prosthetic-materials/abutment-screw/zhang-2026-bibliometric-implant-abutment-research-2005-2024]] — bibliometric; titanium→zirconia→hybrid + digital surge = unresolved uncertainty
 - [[implants/soft-tissue/kheder-2026-abutment-materials-peri-implant-tissue-health-sr]] — SR (PRISMA, 13 clinical studies, 2019–2026): Ti long-term standard; ZrO₂ superior soft tissue/esthetics anterior; PEEK insufficient data
 - [[implants/soft-tissue/tiskratok-2026-tooth-colored-abutment-peri-implant-soft-tissue-sr]] — SR (136 articles): ZrO₂ best cell attachment/lowest biofilm/inflammation; PEEK needs surface modification; ZrO₂ = optimal tooth-colored abutment for peri-implant soft tissue
+- [[prosthetic-materials/abutment-screw/hjerppe-2026-ti-base-custom-abutment-monolithic-zirconia-rct]] — RCT n=51, 3yr; Ti-Base ≈ Custom Ti abutment (0 crown losses, MBL NS); Ti-Base valid cost-effective alternative for screw-retained MZ crowns
 
 ## Related Overviews
 
