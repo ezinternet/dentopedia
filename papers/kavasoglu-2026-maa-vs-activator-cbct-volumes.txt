@@ -1,0 +1,39 @@
+Title: The effect of mandibular advancement with clear aligners compared with activator therapy on maxillary and mandibular volumes: a randomized controlled trial using CBCT
+Authors: Kavasoğlu N, Naiboğlu E
+Journal: BMC Oral Health, 2026;26(1)
+DOI: 10.1186/s12903-026-07924-4
+PMID: 41709259
+PMC: PMC12964786
+
+ABSTRACT:
+Objective: Evaluate effects of Mandibular Advancement Appliance (MAA) on mandibular and maxillary volumes in growing individuals via 3D CBCT, compared with Activator and control.
+Methods: Single-center RCT, n=55, skeletal Class II, CVM stages 2-3. MAA (n=20), Activator (n=20), Control (n=15). Volumetric analysis via CBCT + Mimics 15.0.
+Results: Volumetric increases in both treatment groups but NOT statistically significant (p>0.05). No significant differences vs control.
+Conclusions: MAA and Activator showed similar volumetric effects; Class II correction predominantly positional, not volumetric. MAA may be effective alternative for Class II.
+Trial registration: ClinicalTrials.gov NCT07056829 (registered June 29, 2025; retrospectively).
+
+KEY RESULTS:
+- Mandibular volume change: Activator 419.23 mm3 vs MAA 263.48 mm3 vs Control 874.50 mm3; H=0.128, p=0.938
+- Maxillary volume change: Activator 809.49 mm3 vs MAA 996.59 mm3 vs Control 388.92 mm3; H=1.176, p=0.556
+- ANCOVA adjusted mandibular: F=0.131, p=0.877
+- ANCOVA adjusted maxillary: F=0.049, p=0.952
+- Intragroup MAA maxillary: z=-2.613, p=0.009 (significant within-group increase, but no intergroup difference)
+- Mean treatment duration: MAA 8.15 months, Activator 7.15 months
+- Mean age: 12.5y (MAA), 12.6y (Activator), 12.3y (Control)
+- ICC for segmentation: >0.90 (excellent)
+- Baseline mandibular volume significantly different between groups (p=0.001) — ANCOVA used to adjust
+
+LIMITATIONS:
+- Small n (n=20 per treatment group), high inter-individual growth variability → type II error possible
+- Short observation period (6-8 months); long-term skeletal remodeling requires longer follow-up
+- No objective wear-time monitoring; compliance based on patient/parent report
+- No complementary cephalometric measurements (condylar growth, SNB/ANB)
+- Baseline mandibular volume and inter-scan intervals differed significantly between groups
+- CBCT retrospectively analyzed (clinically indicated scans)
+
+METHODS:
+- CBCT system: i-CAT 3D; segmentation: Mimics 15.0; HU threshold 226-3071
+- MAA: Invisalign MAA, 2mm increments every 8 weeks, follow-up every 5-6 weeks
+- Activator: Projet Bite Wafer, prescribed full-time (24h except meals/sport)
+- Outcome: mandibular and maxillary volumetric changes (primary), overjet and skeletal age (secondary)
+- Stats: Kruskal-Wallis H, Wilcoxon signed-rank, ANCOVA
