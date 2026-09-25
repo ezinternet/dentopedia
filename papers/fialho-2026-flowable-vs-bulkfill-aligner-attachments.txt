@@ -1,0 +1,40 @@
+Title: Comparison between flowable and flowable bulk-fill composites in the manufacture of attachments for orthodontic aligners: a split-mouth randomized clinical trial
+Authors: Fialho T, Angheben CZ, Ohira ETB, Cotrin P, Garib D, Prado E, Freitas KMS, Freitas MR
+Journal: Clinical Oral Investigations, 2026;30(8)
+DOI: 10.1007/s00784-026-07006-3
+PMID: 42474599
+PMC: PMC13385015
+
+ABSTRACT:
+Orthodontic aligner attachments are crucial for dental movements aligners alone cannot achieve. This split-mouth RCT compared conventional and bulk-fill flowable composites in fabricating orthodontic attachments (loss rate and clinical outcomes).
+Methods: Split-mouth RCT, n=50 (21M/29F, mean age 37.86±6.90y), Class I mild crowding. Right vs left: 3M Filtek Supreme Flowable (SF) vs 3M Filtek Bulk Fill Flowable (BF). 10 aligners at 14-day intervals (140 days).
+Results: 150/800 attachments lost (overall failure rate 18.75%). No significant difference SF vs BF (HR=0.84, 95%CI 0.60-1.16, p=0.293).
+Conclusions: Flowable and bulk-fill composites equivalent for attachment survival.
+
+KEY RESULTS:
+- Overall failure rate: 18.75% (150/800 attachments lost and rebonded)
+- Cox regression HR = 0.84 (95%CI 0.60-1.16, p=0.293) — no significant difference
+- Survival at 140 days: BF 80.5%, CF 83.5% (no significant difference)
+- Molar failure > premolar failure in both groups
+- McNemar test per tooth: no significant differences for any individual tooth
+- Only notable: mandibular right second molar SF=8 failures vs BF=4, but p=n.s.
+- 800 total attachments: 4 per quadrant × 50 patients
+- Aligners changed every 14 days (SmartTrack material, Invisalign)
+
+METHODS:
+- Split-mouth design: 1:1 allocation, right/left sides get different materials
+- Group 1 (n=25): right SF, left BF
+- Group 2 (n=25): right BF, left SF
+- Bonding: 37% phosphoric acid + 3M Adper Single Bond 2 + Emitter D curing light
+- Primary outcome: attachment survival rate
+- Secondary: time to failure (Cox regression, Kaplan-Meier)
+- Randomization: blocked via Randomization.com, opaque sealed envelopes
+- Blinding: measurement evaluator blinded to group
+- Setting: private orthodontic practice, Gramado RS Brazil, 2024
+- Ethics: Bauru Dental School, USP (CAAE 71329423.5.0000.54170)
+
+LIMITATIONS:
+- All Class I with mild crowding — may not generalize to complex cases
+- No objective wear-time monitoring
+- No IPR or intermaxillary elastics used in the study setup
+- First study to specifically compare flowable vs bulk-fill flowable for aligner attachments
