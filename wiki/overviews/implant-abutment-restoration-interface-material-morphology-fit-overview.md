@@ -18,6 +18,8 @@ source_wiki:
   - wiki/implants/soft-tissue/bressan-2024-iao-consensus-peri-implant-soft-tissues.md
   - wiki/prosthetic-materials/dudley-2025-determinants-marginal-gap-crowns.md
   - wiki/prosthetic-materials/zhang-2026-bibliometric-implant-abutment-research-2005-2024.md
+  - wiki/implants/soft-tissue/kheder-2026-abutment-materials-peri-implant-tissue-health-sr.md
+  - wiki/implants/soft-tissue/tiskratok-2026-tooth-colored-abutment-peri-implant-soft-tissue-sr.md
 relations:
   - type: extends
     target: abutment-emergence-profile-peri-implant-tissue-overview
@@ -36,8 +38,9 @@ relations:
 > - **형태 vs 연조직**: Barwacz 2024 RCT(n=54) — 경점막 지대주 macro형태(linear divergent vs concave)는 1년 peri-implant 결과에 **측정 가능한 차이 없음**(전 지표 p>0.1). 문헌상 위험인자는 concave-vs-linear가 아니라 **볼록(convex) 과윤곽**(Siegenthaler recession OR 12.6). 진짜 레버는 형태 미세조정이 아니라 **각화점막(KM) ≥2mm·연조직 두께**(IAO: FGG는 폭, CTG는 두께). 두께–MBL 관계는 미해결(합의 실패).
 > - **보철 적합도**: Dudley 2025(umbrella, 301 in vitro) — 크라운 종류·재료·제작법(CAD-CAM 80.3 vs 통상 88.0µm) 모두 무차이(전부 120µm 허용한계 내). 문헌 변동의 진짜 원인은 **측정법 artifact**(impression replica가 현미경보다 +37.86µm 과대, p<.001).
 > - **연구동향**: Zhang 2026(bibliometric, 2,051편) — 재료 서사 티타늄→지르코니아→하이브리드 + 디지털 워크플로우 급증; 지르코니아·디지털 키워드 폭증은 **합의가 아닌 미해결 불확실성** 반영.
+> - **아버트먼트 재료 2026 신규 SR(Kheder 2026, 13편 임상 연구; Tiskratok 2026, 136편 SR)**: Ti·ZrO₂·PEEK 직접비교 — Ti는 장기 예측성 최고, ZrO₂는 연조직·심미 우수(전치부), PEEK는 단기 근거만 존재(일상 사용 불가). 두 SR 모두 **ZrO₂ ≈ Ti 연조직 결과(MBL/PPD)** 확인, ZrO₂ 전치부 우선 권고를 지지.
 > - **임상 함의**: 지대주 재료·크라운 적합도는 유연·심미 주도 선택 가능(근거상 동등), 그러나 지르코니아 임플란트체·장기 데이터로 넘어가면 확신 급락. 연조직은 형태보다 KM·두께 확보가 관건.
-> - 근거등급: 재료 [확인, 동등], 형태 [1년 무차이], 적합도 [측정 artifact 주의], 지르코니아 임플란트체 [주의 — RCT 비열등 미확인].
+> - 근거등급: 재료 [확인, 동등], 형태 [1년 무차이], 적합도 [측정 artifact 주의], 지르코니아 임플란트체 [주의 — RCT 비열등 미확인], PEEK [탐색적 — 장기 근거 없음].
 
 ## Three-line Summary
 
@@ -68,6 +71,8 @@ Two caveats keep this from being "anything goes": the equivalence is about abutm
 - **Davoudi 2025** (umbrella, 14 SRs, 6,456 patients / 10,063 implants): survival Zr 98.6–98.8% vs Ti 98.62–99.4%; MBL 6/10 reviews no difference; mechanical complication RRs 0.87/0.52 (NS, prevalence <7.9%). Bench gap large (fracture resistance Ti 1454 N vs Zr 443.6 N; flexural 2000 vs 900–1200 MPa) → limit Zr to controlled force/angulation (stock ≤15–20°, CAD/CAM ≤30°).
 - **Bressan 2024 (IAO consensus)**: Ti vs Zr no consistent soft-tissue or recession difference; abutment material choice should be **esthetics/phenotype-driven, not evidence-driven**; Ti-vs-Zr crestal bone effect "controversial."
 - **Critical caveat — Sterzenbach 2025** (RCT, n=60, 3 yr): hybrid abutment/crown performed comparably (zero crown-attributable failures), but two-piece **zirconia implant bodies** survived 89.3% vs 100% titanium (non-inferiority NOT confirmed; failures were osseointegration, not prosthetic). Do not blur "zirconia abutment ≈ titanium" into "zirconia implant ≈ titanium implant."
+- **Abutment material clinical SR (Kheder 2026, PRISMA, 13 clinical studies, 2019–2026)**: Ti abutments: highest long-term predictability, minimal MBL, stable peri-implant tissue; ZrO₂: comparable biology with **superior soft-tissue response and esthetics** (anterior zones) vs Ti (Savitha 2024 RCT: ZrO₂ significantly lowest PD, BOP, plaque index); PEEK: promising reduced inflammation in 1 pilot study — **insufficient for routine use** (no long-term data).
+- **Tooth-colored abutment SR (Tiskratok 2026, 136 articles)**: ZrO₂ demonstrates enhanced cell attachment, reduced pro-inflammatory cytokines, lower biofilm vs Ti; PEEK mechanically sound but hydrophobicity limits cell adhesion — surface modification required; ZrO₂ is the optimal tooth-colored abutment for peri-implant soft-tissue biology. Both SRs converge: **Ti for posterior/high-load zones; ZrO₂ preferred esthetic zones; PEEK awaits long-term data.**
 
 ### Axis 2 — Morphology / emergence profile & soft tissue
 
@@ -104,6 +109,8 @@ Narrative synthesis (no new pooling). Base: 2 umbrella reviews (Davoudi, Dudley)
 - [[implants/soft-tissue/bressan-2024-iao-consensus-peri-implant-soft-tissues]] — IAO consensus; KM ≥2 mm & thickness matter, abutment material esthetics-driven
 - [[prosthetic-materials/tooth-preparation/dudley-2025-determinants-marginal-gap-crowns]] — umbrella; marginal gap ~79 µm regardless of type/material/method; measurement artifact dominates
 - [[prosthetic-materials/abutment-screw/zhang-2026-bibliometric-implant-abutment-research-2005-2024]] — bibliometric; titanium→zirconia→hybrid + digital surge = unresolved uncertainty
+- [[implants/soft-tissue/kheder-2026-abutment-materials-peri-implant-tissue-health-sr]] — SR (PRISMA, 13 clinical studies, 2019–2026): Ti long-term standard; ZrO₂ superior soft tissue/esthetics anterior; PEEK insufficient data
+- [[implants/soft-tissue/tiskratok-2026-tooth-colored-abutment-peri-implant-soft-tissue-sr]] — SR (136 articles): ZrO₂ best cell attachment/lowest biofilm/inflammation; PEEK needs surface modification; ZrO₂ = optimal tooth-colored abutment for peri-implant soft tissue
 
 ## Related Overviews
 
