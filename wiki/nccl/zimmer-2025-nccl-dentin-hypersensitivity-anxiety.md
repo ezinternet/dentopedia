@@ -87,5 +87,5 @@ Cross-sectional study (n=157, age 18–45 yr) found 상아질 과민증 (Dentin 
 
 ## Links
 
-- [[nccl/omoto-2025-nccl-adhesion-strategies-5year-rct]]
+- [[resin-bonding/omoto-2025-nccl-adhesion-strategies-5year-rct]]
 - [[nccl/giller-2024-occlusal-wear-nccl-ship-cohort]]
