@@ -10,7 +10,7 @@ evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
-tags: [zirconia, y-tzp, monolithic-zirconia, ltd, low-temperature-degradation, cad-cam, crown-survival, ceramic-repair, overview]
+tags: [zirconia, y-tzp, monolithic-zirconia, ltd, low-temperature-degradation, cad-cam, crown-survival, ceramic-repair, rbfpd, inlay-retained-fdp, overview]
 ---
 
 ## 한국어 핵심요약
@@ -27,6 +27,11 @@ tags: [zirconia, y-tzp, monolithic-zirconia, ltd, low-temperature-degradation, c
 > - 구강 내 세라믹 수리는 교체의 최소침습 대안: 베니어 코어 노출 시 50 µm Al₂O₃ 분사+잔존 도재 HF 부식(9.6%, 60초)+silane+MDP 함유 접착제+복합레진. 모놀리식은 sandblasting+MDP만(HF·silane 무효). 결합강도가 수리 수명의 결정 인자(Alqarawi 2022).
 > - 임상 의사결정: 비이갈이 환자 고하중 구치부 단일관 → 모놀리식 3Y-TZP(최대 강도, 단 LTD 감시), 심미 전치-구치부 → 4Y-PSZ 또는 다층(3Y base+5Y top)이 현 시장 표준. 이갈이 환자는 베니어·모놀리식 모두 위험 상승 → 교합 보호+추적.
 > - chairside 교합 조정 시 grinding mark를 재도입하면 새 응력집중 생성 → 조정 후 반드시 재연마·재유약 후 장착. 단 유약은 LTD 보호가 아니므로 LTD 완화 전략으로 제시 금지.
+> - **RBFPD·IRFPD 군간 비교 (Ma 2026 SR+MA, 66편)**: 레진 결합형 가공의치 (Resin-Bonded FDP, RBFPD) 97.4%(10–15년) > 단관 (Single Crown, SC) 92.9–98.7% ≈ 인레이 유지 가공의치 (Inlay-Retained FDP, IRFPD) 89.0%(10년) ≫ 캔틸레버 가공의치 (Cantilever FDP, CFPD) 50–52%(9–13년); CFPD는 사용 주의.
+> - **접착 표면처리**: 기류 연마 입자 연마 (Airborne-Particle Abrasion, APA) + 인산메타크릴레이트 (10-Methacryloyloxydecyl dihydrogen phosphate, MDP) 프라이머 = SC·IRFPD 생존율 98%+ (Ma 2026).
+> - **RBFPD 날개형 vs 인레이형 (Bömicke 2025, pilot RCT 3년, n=30)**: 날개형 (Wing-Retained, WR) 93.3% vs 인레이형 (Inlay-Retained, IR) 100% 생존율, P=0.317 유의차 없음; 건강한 지대치 → WR 선호, 지대치 수복 필요 시 → IR.
+> - **캔틸레버 IRFDP 5년 (Kasem 2026, RCT n=47)**: 생존율 91.7%, 성공률 81.7%; 지르코니아=연결부 파절(비수복성), FRC=수복 가능한 변형 — 재료가 실패 모드를 결정, 생존율은 동등.
+> - **실험실 하중 지지능 (Waldecker 2026, in-vitro)**: WR 1,025–1,617 N > IR 684–1,216 N; 3Y-TZP/5Y-PSZ 다층형(중심 네스팅) > 5Y-PSZ 단독; 인공 노화 영향 없음 — 5Y-PSZ 단독 RBFPD는 하중 안전역 낮아 주의.
 
 ## Three-line Summary
 
@@ -36,6 +41,8 @@ Synthesis of dental zirconia across 9 studies: evolution from opaque 3Y-TZP core
 
 CAD/CAM milling defects — not intrinsic blank flaws — dominate fracture initiation in as-sintered restorations; in-mouth repair protocol for veneered fractures is Al₂O₃ abrasion + HF + silane + MDP adhesive + composite (monolithic: abrasion + MDP only); bruxism reduces monolithic marginal integrity to 31.6%; clinical selection: monolithic 3Y-TZP for high-load non-bruxist posterior, 4Y-PSZ or multilayer for esthetic anterior-posterior.
 
+For conservative fixed replacements on intact abutments: zirconia RBFPD reaches 97.4% survival at 10–15yr (lowest complication burden, Ma 2026 SR+MA 66 studies); IRFPD 89.0% at 10yr; CFPD (50–52%) should be avoided; APA+MDP surface treatment gives SC and IRFPD ≥98% short-term survival; WR and IR retainer designs are equivalent at 3yr (Bömicke 2025 pilot RCT), and 5yr cantilever IRFDP achieves 91.7% survival with failure mode (not rate) differing by material — zirconia = catastrophic, FRC = repairable (Kasem 2026).
+
 ## 세줄요약
 
 치과용 지르코니아 9편 종합: 불투명 3Y-TZP 코어(900–1200 MPa, 정방→단사정 변태강화·LTD 취약)에서 조성경사 다층 블록까지 진화; 강도 위계 Y-TZP > 이규산리튬(300–500 MPa) > 장석질 도재(70–90 MPa; Warreth 2020); 이트리아 함량↑ = 투명도↑·입방상↑ but 변태강화 약화→강도↓(Cesar 2024).
@@ -43,6 +50,8 @@ CAD/CAM milling defects — not intrinsic blank flaws — dominate fracture init
 5년 생존율은 금속도재관과 유사(베니어 97.6% vs 98.3%, NS)하나 재료 파절은 10배 높고(2.1% vs 0.2%, p=0.001; Pjetursson 2018 SR, 35편), 구강 내 LTD는 6개월부터 확인·5년까지 유의 진행, 유약 보호효과 없음; 5년 교합 tribological 마모에서 나노입자 유출 가능성 신규 우려(Koenig 2024).
 
 CAD/CAM 밀링 결함이 임상 파절의 주된 기원이며, 구강 내 파절 수리는 Al₂O₃ 분사+HF+silane+MDP+복합레진(모놀리식은 분사+MDP만); 이갈이는 모놀리식 마진 완전성을 31.6%로 하락; 비이갈이 후방 고하중 → 모놀리식 3Y-TZP, 심미부 → 4Y-PSZ·다층블록.
+
+건강한 지대치 결손 → RBFPD 97.4%(10–15년) 생존율, 최저 합병증(Ma 2026 SR+MA 66편); CFPD 50–52% 회피; WR≒IR(3년, Bömicke 2025), 캔틸레버 IRFDP 5년 91.7%(Kasem 2026) — 지르코니아=연결부 파절(비수복성), FRC=수복 가능; APA+MDP 프로토콜 표준.
 
 ## Summary
 
@@ -216,6 +225,75 @@ The primary failure mode is inadequate bond strength from technique deviation or
 
 ---
 
+### 축 7 — 지르코니아 RBFPD·IRFPD: 보존적 고정성 수복 옵션
+
+Four papers converge on conservative zirconia fixed prostheses as a clinically viable alternative to implants and full crown preparations when abutments are minimally compromised.
+
+#### Overview (Ma 2026 SR+MA, 66 studies, GRADE: very low)
+
+The largest zirconia clinical SR+MA to date synthesizes all restoration types across 2008–2025:
+
+| Restoration type | Pooled survival | Follow-up | Pooled success |
+|---|---|---|---|
+| Single Crown (SC) | 92.9–98.7% | ≤10 yr | 46.1% (10 yr) |
+| Fixed Dental Prosthesis (FPD) | 77.6% | 10–13 yr | 40.1% |
+| **RBFPD** | **97.4%** | **10–15 yr** | **84.3%** |
+| IRFPD | 89.0% | 10 yr | 70.3% |
+| Cantilever FDP (CFPD) | 50.0–52.6% | 9–13 yr | 12.5–22.6% |
+
+- **RBFPD has the best survival and lowest complication profile** (biological 3.3%, mechanical 8.0% at 10–15yr) — the preferred conservative FDP option when abutment teeth are intact
+- **CFPD should be avoided** — survival halves by 9–13yr, biological complications reach 50%, success barely exceeds 20%
+- **APA+MDP surface treatment** yields superior short-term results: SC 98.6% survival / 97.7% success; IRFPD 98.1% / 70.1% — current recommended protocol for all zirconia adhesive applications
+- GRADE very low: heterogeneity in study designs, cement systems, and follow-up durations — treat as directional signals
+
+#### RBFPD: Retainer design comparison (Bömicke 2025, pilot RCT, n=30, 3yr)
+
+First prospective head-to-head comparison of inlay-retained (IR) vs wing-retained (WR) posterior monolithic zirconia RBFPD (Heidelberg group):
+
+| Outcome | IR | WR | P value |
+|---|---|---|---|
+| 3yr survival | 100% | 93.3% | 0.317 NS |
+| 3yr success | 72.7% | 86.7% | 0.379 NS |
+
+- 1 failure: WR unilateral debonding at 3 months
+- Neither design is superior — pilot sample precludes definitive conclusions
+- **Clinical rule**: intact abutment teeth → WR (more conservative, no cavity); abutment requiring restoration → IR (converts necessary restoration into retainer)
+- Surface treatment used: Rocatec tribochemical silica coating + Clearfil Ceramic Primer (silanization) + Panavia 21 resin cement
+
+#### Cantilever IRFDP: 5-year RCT (Kasem 2026, n=47, 60mo)
+
+Mandibular second premolar cantilever replacement with three retainer designs (inlay ring [IR], lingual coverage [LC], occlusal coverage [OC]) in zirconia vs FRC:
+
+| Parameter | Value |
+|---|---|
+| Overall survival | 91.7% |
+| Overall success | 81.7% |
+| Between-design/material difference | P>0.05 NS |
+
+- **Survival drops from 97.5% (36mo, Kasem 2025) to 91.7% (60mo)** — failures accumulate after the 3-year mark
+- **Material-specific failure modes** (not rates): zirconia = catastrophic connector fractures and debonding (non-repairable); FRC = progressive deformation (partially repairable)
+- **Inlay ring (most conservative)** performs equivalently to more extensive lingual/occlusal coverage at 5yr — supports minimally invasive preparation
+- Connector integrity is the critical zone for zirconia cantilever IRFDPs; generous connector dimensions recommended
+
+#### Lab evidence: material grade and nesting position (Waldecker 2026, in vitro)
+
+Maxillary first molar RBFPD (n=16/group); monolithic zirconia; 3Y-TZP/5Y-PSZ multilayer vs 5Y-PSZ alone; IR vs WR; artificial aging (thermocycling + cyclic loading):
+
+| Design | Material / Nesting | Load-bearing range (N) |
+|---|---|---|
+| WR | 3Y/5Y centric | ~1,025–1,617 (highest) |
+| WR | 5Y alone | lowest WR |
+| IR | 3Y/5Y centric | ~684–1,216 (highest IR) |
+| IR | 5Y alone | ~684 (lowest overall) |
+
+- **WR > IR** in load-bearing for all material groups
+- **3Y-TZP/5Y-PSZ multilayer (centric nesting) > 5Y-PSZ alone** — 5Y-PSZ single material has insufficient safety margin for RBFPD
+- **Artificial aging has no effect** (P≥0.526) — zirconia RBFPD properties are stable under simulated aging
+- **Nesting position within blank matters**: centric > top position for 3Y/5Y material — standardize milling to centric position
+- Recommendation: 3Y-TZP/5Y-PSZ multilayer (centric) can proceed to clinical use; 5Y-PSZ alone should be used with caution for RBFPD
+
+---
+
 ## Clinical Decision Threads
 
 **Thread 1 — Material selection for monolithic posterior crowns (high-load zones)**
@@ -254,3 +332,10 @@ When veneered zirconia chips or fractures, intraoral repair is the first-line op
 - [[dental-materials/ceramic/alqarawi-2022-intraoral-repair-fractured-ceramics-review]] — intraoral ceramic repair protocol by substrate; two-substrate protocol for veneered zirconia; bond strength as critical determinant
 - [[overviews/zirconia-implant-clinical-outcomes]] — complementary overview: zirconia implant (not prosthetic material) survival, marginal bone loss, and patient-reported outcomes
 - [[overviews/zirconia-types-clinical-selection]] — sibling overview: 3Y/4Y/5Y/UHTZ **grade-selection** decision axes (this page = material science overall; that page = which grade for which indication)
+
+### RBFPD·IRFPD cluster (2026-09)
+
+- [[prosthetic-materials/ma-2026-clinical-outcomes-zirconia-restorations-sr-ma]] — SR+MA 66 studies: RBFPD 97.4% survival at 10–15yr; CFPD 50–52% (avoid); APA+MDP surface treatment standard; GRADE very low
+- [[prosthetic-materials/boemicke-2025-zirconia-rbfpd-inlay-wing-3year-rct]] — pilot RCT n=30, 3yr: IR 100% vs WR 93.3% survival NS; intact abutments → WR preferred
+- [[prosthetic-materials/kasem-2026-zirconia-frc-inlay-retained-fdp-5year-rct]] — RCT n=47, 5yr: cantilever IRFDP 91.7% survival; zirconia=catastrophic fracture, FRC=repairable; inlay-ring most conservative, performs equivalently
+- [[prosthetic-materials/waldecker-2026-multilayer-zirconia-rbfpd-load-bearing]] — in-vitro (Heidelberg group): WR>IR load-bearing; 3Y/5Y multilayer centric best; 5Y-PSZ alone insufficient; aging no effect
