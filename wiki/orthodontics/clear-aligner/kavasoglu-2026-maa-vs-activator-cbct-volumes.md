@@ -11,6 +11,8 @@ source: "kavasoglu-2026-maa-vs-activator-cbct-volumes.md"
 category: orthodontics/clear-aligner
 confidence: rct
 source_collection: pubmed-text
+text_path: /Users/oracleneo/llm-wiki/papers/kavasoglu-2026-maa-vs-activator-cbct-volumes.txt
+text_filename: kavasoglu-2026-maa-vs-activator-cbct-volumes.txt
 date: 2026-02-19
 tags:
   - clear-aligner
