@@ -7,6 +7,7 @@ category: resin-bonding
 pdf_path: /Users/oracleneo/llm-wiki/papers/omoto-2025-nccl-adhesion-strategies-4year-rct.pdf
 pdf_filename: omoto-2025-nccl-adhesion-strategies-4year-rct.pdf
 source_collection: external
+superseded_by: omoto-2025-nccl-adhesion-strategies-5year-rct
 ---
 
 ## Why Ingested
