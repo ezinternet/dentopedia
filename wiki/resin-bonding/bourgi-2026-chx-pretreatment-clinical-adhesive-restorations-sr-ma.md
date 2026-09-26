@@ -7,7 +7,7 @@ pmid: 41878562
 pmc: PMC13006674
 category: resin-bonding
 tags: [chlorhexidine, chx, mmp-inhibition, hybrid-layer, dentin-bond-durability, clinical-trial, restoration-retention, systematic-review, meta-analysis]
-evidence_level: systematic-review-meta-analysis
+evidence_level: sr+ma
 relations:
   - type: complements
     target: breschi-2025
