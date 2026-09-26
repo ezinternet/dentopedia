@@ -6,7 +6,7 @@ doi: "10.14744/eej.2025.97059"
 category: [endodontics/irrigation]
 pdf_path: ""
 pdf_filename: ""
-source_collection: pubmed-text
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested
