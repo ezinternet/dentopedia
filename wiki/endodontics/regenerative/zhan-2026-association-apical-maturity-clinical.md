@@ -9,7 +9,7 @@ category: [endodontics/regenerative]
 confidence: sr+ma
 pdf_path: ""
 pdf_filename: ""
-source_collection: pubmed-text
+source_collection: pubmed-abstract
 tags: [regenerative-endodontics, apical-maturity, REP, dose-response, apical-closure, pulp-vitality]
 relations:
   - type: extends
