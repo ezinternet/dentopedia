@@ -6,7 +6,7 @@ doi: 10.1016/j.jdent.2026.106974
 pmid: 42575241
 category: prosthetic-materials
 tags: [zirconia, systematic-review, meta-analysis, clinical-outcomes, inlay-retained-fdp, single-crown, survival-rate]
-evidence_level: systematic-review-meta-analysis
+evidence_level: sr+ma
 relations:
   - type: synthesizes
     target: laumbacher-2021-zirconia-prosthetic-restorations-long-term-sr
