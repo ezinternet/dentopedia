@@ -17,6 +17,10 @@ text_filename: chidiac-2026-antihypertensive-antihyperlipidemic-antidepressant-i
 tags: [antihypertensive, dental-implant, implant-failure, osseointegration, statin, antidepressant, SSRI, kaplan-meier, hypertension]
 ---
 
+## Why Ingested
+
+기존 [[implants/survival/hamade-2024-hypertension-dental-implants-sr-ma]]는 고혈압 자체가 임플란트 실패 위험을 높이지 않는다는 SR+MA 근거를 제공했으나, 약물 계열별(항고혈압제·항고지혈증제·항우울제) 개별 효과는 분리하지 않았다. 본 후향적 코호트(655명/2,004임플란트, 10년 Kaplan-Meier)는 항고혈압제·항고지혈증제 단독 복용군이 오히려 보호적(HR 0.23, 0.16)이고 혼합 항우울제군은 해로움(HR 2.17)을 보여 약물별 위험을 분해한다 — [[drug/systemic-disease/masri-2024-early-implant-failure-antihypertensive-medications]]의 항고혈압제 보호 효과를 재현하되, [[drug/systemic-disease/liu-2024-perioperative-hypertension-implant-bone-augmentation]]의 围术期 혈압 상승 급성 위험 서사와는 대조된다.
+
 ## Summary
 
 Retrospective cohort (STROBE; n=655 patients/2,004 implants from 2,815/5,853 screened; Saint Joseph University Beirut, 2012–2022; 10-yr Kaplan-Meier) comparing mono-medicated antihypertensive (74 pts/233 implants), antihyperlipidemic (40/99), and mixed antidepressant (29/91) groups against a healthy control (512/1,581).
