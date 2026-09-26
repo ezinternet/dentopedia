@@ -6,7 +6,7 @@ doi: 10.1016/j.jdent.2025.106123
 pmid: 40987393
 category: resin-bonding
 tags: [sclerotic-dentin, nccl, non-carious-cervical-lesion, surface-pretreatment, phosphoric-acid, dentin-bond-strength, edta, sodium-hypochlorite, sandblasting, systematic-review, in-vitro]
-evidence_level: systematic-review-meta-analysis
+evidence_level: sr+ma
 relations:
   - type: complements
     target: liao-2026-collagen-crosslinkers-resin-dentin-interface-sr-ma
