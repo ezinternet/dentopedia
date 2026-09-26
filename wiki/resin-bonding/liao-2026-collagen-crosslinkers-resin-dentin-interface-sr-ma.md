@@ -6,7 +6,7 @@ doi: 10.1016/j.prosdent.2026.07.032
 pmid: 42642292
 category: resin-bonding
 tags: [collagen-crosslinker, hybrid-layer, dentin-bond-strength, microtensile-bond-strength, aldehyde, riboflavin, proanthocyanidin, polyphenol, carbodiimide, chitosan, systematic-review, meta-analysis, in-vitro]
-evidence_level: systematic-review-meta-analysis
+evidence_level: sr+ma
 relations:
   - type: complements
     target: zhou-2025-collagen-crosslinkers-naocl-dentin-bond-strength-sr-ma
