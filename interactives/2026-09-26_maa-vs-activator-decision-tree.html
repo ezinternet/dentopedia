@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>II급 치료 선택 — MAA vs Activator</title>
+<style>
+  :root {
+    --bg: #fafafa;
+    --surface: #ffffff;
+    --border: #e2e8f0;
+    --text: #1a202c;
+    --text-muted: #64748b;
+    --accent: #3b82f6;
+    --accent-light: #eff6ff;
+    --green: #16a34a;
+    --green-light: #f0fdf4;
+    --orange: #ea580c;
+    --orange-light: #fff7ed;
+    --red: #dc2626;
+    --red-light: #fef2f2;
+    --purple: #7c3aed;
+    --purple-light: #f5f3ff;
+    --badge-rct: #dbeafe;
+    --badge-rct-text: #1d4ed8;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+    padding: 24px 16px;
+  }
+  .header {
+    max-width: 760px;
+    margin: 0 auto 28px;
+  }
+  .header h1 {
+    font-size: 1.35rem;
+    font-weight: 700;
+    margin-bottom: 6px;
+  }
+  .header p {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+  }
+  .badge {
+    display: inline-block;
+    font-size: 0.72rem;
+    font-weight: 600;
+    padding: 2px 8px;
+    border-radius: 4px;
+    background: var(--badge-rct);
+    color: var(--badge-rct-text);
+    margin-right: 6px;
+  }
+  .container {
+    max-width: 760px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 20px;
+  }
+  .card-title {
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--text-muted);
+    margin-bottom: 14px;
+  }
+  .step-num {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 22px;
+    height: 22px;
+    border-radius: 50%;
+    background: var(--accent);
+    color: white;
+    font-size: 0.72rem;
+    font-weight: 700;
+    margin-right: 8px;
+    flex-shrink: 0;
+  }
+  .question {
+    font-size: 1rem;
+    font-weight: 600;
+    margin-bottom: 12px;
+    display: flex;
+    align-items: flex-start;
+  }
+  .options {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+  }
+  .options.three { grid-template-columns: 1fr 1fr 1fr; }
+  @media (max-width: 480px) {
+    .options, .options.three { grid-template-columns: 1fr; }
+  }
+  .opt-btn {
+    padding: 10px 14px;
+    border: 2px solid var(--border);
+    border-radius: 8px;
+    background: white;
+    font-size: 0.88rem;
+    cursor: pointer;
+    text-align: left;
+    transition: all 0.15s;
+    line-height: 1.4;
+  }
+  .opt-btn:hover { border-color: var(--accent); background: var(--accent-light); }
+  .opt-btn.selected { border-color: var(--accent); background: var(--accent-light); font-weight: 600; }
+  .opt-btn .sub { font-size: 0.75rem; color: var(--text-muted); margin-top: 2px; }
+  .result-box {
+    border-radius: 10px;
+    padding: 20px 22px;
+    margin-top: 4px;
+  }
+  .result-box.maa { background: var(--green-light); border: 2px solid var(--green); }
+  .result-box.activator { background: var(--orange-light); border: 2px solid var(--orange); }
+  .result-box.timing { background: var(--red-light); border: 2px solid var(--red); }
+  .result-box.consider { background: var(--purple-light); border: 2px solid var(--purple); }
+  .result-title {
+    font-size: 1.1rem;
+    font-weight: 700;
+    margin-bottom: 8px;
+  }
+  .result-title.maa { color: var(--green); }
+  .result-title.activator { color: var(--orange); }
+  .result-title.timing { color: var(--red); }
+  .result-title.consider { color: var(--purple); }
+  .result-points {
+    list-style: none;
+    margin: 10px 0;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+  }
+  .result-points li {
+    font-size: 0.88rem;
+    padding-left: 18px;
+    position: relative;
+  }
+  .result-points li::before { content: "•"; position: absolute; left: 4px; }
+  .evidence-note {
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    margin-top: 12px;
+    padding-top: 10px;
+    border-top: 1px solid rgba(0,0,0,0.1);
+  }
+  .reset-btn {
+    margin-top: 14px;
+    padding: 8px 20px;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    background: white;
+    font-size: 0.85rem;
+    cursor: pointer;
+    color: var(--text-muted);
+    transition: all 0.15s;
+  }
+  .reset-btn:hover { border-color: var(--accent); color: var(--accent); }
+  .factor-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    margin-top: 12px;
+  }
+  @media (max-width: 480px) { .factor-grid { grid-template-columns: 1fr; } }
+  .factor-item {
+    font-size: 0.82rem;
+    padding: 8px 12px;
+    background: var(--bg);
+    border-radius: 6px;
+    border: 1px solid var(--border);
+  }
+  .factor-item strong { display: block; font-size: 0.78rem; color: var(--text-muted); margin-bottom: 2px; }
+  .progress-bar {
+    display: flex;
+    gap: 4px;
+    margin-bottom: 20px;
+  }
+  .progress-seg {
+    height: 4px;
+    flex: 1;
+    border-radius: 2px;
+    background: var(--border);
+    transition: background 0.3s;
+  }
+  .progress-seg.done { background: var(--accent); }
+  .hidden { display: none; }
+</style>
+</head>
+<body>
+<div class="header">
+  <h1>II급 부정교합 치료 선택: MAA vs Activator</h1>
+  <p>
+    <span class="badge">RCT</span>
+    Kavasoğlu 2026 (BMC Oral Health, n=55) · 성장기 환자 하악전방유도 치료 선택 지원 도구<br>
+    <span style="font-size:0.78rem; color:#94a3b8;">※ 임상 결정은 반드시 담당의 종합 판단에 따릅니다.</span>
+  </p>
+</div>
+
+<div class="container" id="app">
+
+  <!-- Progress -->
+  <div class="progress-bar" id="progressBar">
+    <div class="progress-seg" id="p0"></div>
+    <div class="progress-seg" id="p1"></div>
+    <div class="progress-seg" id="p2"></div>
+    <div class="progress-seg" id="p3"></div>
+  </div>
+
+  <!-- Step 1: CVM Stage -->
+  <div class="card" id="step1">
+    <div class="card-title">1단계 — 성장 시기 확인</div>
+    <div class="question"><span class="step-num">1</span>측모 세팔로로 평가한 경추 성숙도 (CVM) 단계는?</div>
+    <div class="options three">
+      <button class="opt-btn" onclick="pick('cvm','pre')">
+        CVM 1단계<div class="sub">성장 가속 전 — 아직 이르다</div>
+      </button>
+      <button class="opt-btn" onclick="pick('cvm','peak')">
+        CVM 2–3단계<div class="sub">사춘기 성장 가속기 ✓ 최적</div>
+      </button>
+      <button class="opt-btn" onclick="pick('cvm','post')">
+        CVM 4–6단계<div class="sub">성장 감속·완료</div>
+      </button>
+    </div>
+  </div>
+
+  <!-- Step 2: Overjet -->
+  <div class="card hidden" id="step2">
+    <div class="card-title">2단계 — 오버젯 크기</div>
+    <div class="question"><span class="step-num">2</span>현재 오버젯 (Overjet) 은?</div>
+    <div class="options three">
+      <button class="opt-btn" onclick="pick('oj','mild')">
+        +4 mm 미만<div class="sub">경증</div>
+      </button>
+      <button class="opt-btn" onclick="pick('oj','mod')">
+        +4–+8 mm<div class="sub">중등도 ✓ RCT 기준</div>
+      </button>
+      <button class="opt-btn" onclick="pick('oj','severe')">
+        +8 mm 초과<div class="sub">심한 골격 II급</div>
+      </button>
+    </div>
+  </div>
+
+  <!-- Step 3: Compliance -->
+  <div class="card hidden" id="step3">
+    <div class="card-title">3단계 — 컴플라이언스 예측</div>
+    <div class="question"><span class="step-num">3</span>환자·보호자의 협조도 예상은?</div>
+    <div class="options">
+      <button class="opt-btn" onclick="pick('comp','high')">
+        높음 (매우 적극적)<div class="sub">내원 성실, 스스로 장착 관리 가능</div>
+      </button>
+      <button class="opt-btn" onclick="pick('comp','low')">
+        보통·불확실<div class="sub">이전 치료 이탈력, 어린 연령, 부모 비협조</div>
+      </button>
+    </div>
+  </div>
+
+  <!-- Step 4: Aesthetics Priority -->
+  <div class="card hidden" id="step4">
+    <div class="card-title">4단계 — 심미 우선도</div>
+    <div class="question"><span class="step-num">4</span>환자·보호자의 장치 심미성 요구는?</div>
+    <div class="options">
+      <button class="opt-btn" onclick="pick('aes','high')">
+        높음 — 거의 안 보이길 원함<div class="sub">사회 활동 많은 청소년, 발표·사진 빈번</div>
+      </button>
+      <button class="opt-btn" onclick="pick('aes','low')">
+        보통·무관<div class="sub">장치 외형 크게 신경 안 씀</div>
+      </button>
+    </div>
+  </div>
+
+  <!-- Result -->
+  <div class="card hidden" id="resultCard">
+    <div id="resultContent"></div>
+    <button class="reset-btn" onclick="resetAll()">↩ 다시 평가하기</button>
+  </div>
+
+</div>
+
+<script>
+const state = { cvm: null, oj: null, comp: null, aes: null };
+const stepOrder = ['cvm','oj','comp','aes'];
+const stepIds = ['step1','step2','step3','step4'];
+
+function pick(key, val) {
+  state[key] = val;
+  const idx = stepOrder.indexOf(key);
+
+  // highlight selected
+  const stepEl = document.getElementById(stepIds[idx]);
+  stepEl.querySelectorAll('.opt-btn').forEach(b => b.classList.remove('selected'));
+  event.target.closest('.opt-btn').classList.add('selected');
+
+  // update progress
+  for (let i = 0; i <= idx; i++) {
+    document.getElementById('p'+i).classList.add('done');
+  }
+
+  // early exit: CVM not optimal
+  if (key === 'cvm' && val === 'pre') {
+    showResult('timing', '아직 이른 시기 — 관찰 후 재평가',
+      ['CVM 1단계는 사춘기 성장 가속 이전 — 기능 교정 효과가 미미합니다',
+       'CVM 2단계(하악 성장 급증 시작)까지 6–12개월 간격으로 재평가',
+       '치열 공간 관리(spacer, 발거 시기 판단) 선행 가능'],
+      '성장 모니터링 중심 단계 — 기능 교정 장치 적용 시기가 아닙니다.');
+    return;
+  }
+  if (key === 'cvm' && val === 'post') {
+    showResult('timing', 'CVM 4–6단계 — 성장 가속기 이후',
+      ['골격 성장이 완료 또는 감속 단계 — 기능 교정 효과 제한적',
+       'SNB·ANB 개선을 기대하기 어렵습니다',
+       'camouflage 교정 (발거 + 고정식) 또는 성장 완료 후 교정-외과 계획 검토'],
+      '골격 교정 적기 경과. 치아교정적 보상 또는 외과 교정 상담을 권장합니다.');
+    return;
+  }
+
+  // proceed to next step
+  const nextIdx = idx + 1;
+  if (nextIdx < stepIds.length) {
+    document.getElementById(stepIds[nextIdx]).classList.remove('hidden');
+    document.getElementById(stepIds[nextIdx]).scrollIntoView({behavior:'smooth', block:'nearest'});
+  } else {
+    // all answered — compute result
+    computeFinal();
+  }
+}
+
+function computeFinal() {
+  const { oj, comp, aes } = state;
+
+  // MAA preferred: high compliance + high aesthetics
+  // Activator preferred: lower compliance (fixed-wear schedule) or don't need aesthetics
+  let type, title, points, note;
+
+  if (comp === 'high' && aes === 'high') {
+    type = 'maa';
+    title = 'Invisalign MAA 우선 고려';
+    points = [
+      '높은 컴플라이언스 + 심미 요구 → MAA 최적 조합',
+      '동시 치열 정렬 가능 — II급 교정 중 치아 배열 진행',
+      '하악 절치 경사 더 잘 유지 (MAA vs FA, 기존 메타분석)',
+      '평균 치료 기간 8.15개월 (Kavasoğlu 2026 RCT 기준)',
+      oj === 'severe' ? '오버젯 >8mm: 초기 2mm 전진 후 단계적 증가 필요 — ClinCheck 설계 시 반영' : '오버젯 +4–+8mm: 8주마다 2mm 전진 프로토콜 표준 적용 가능',
+    ];
+    note = 'Kavasoğlu 2026 (n=55): CBCT 용적 변화 MAA=Activator=Control (p>0.05). 단기 II급 교정은 위치적 적응 주도. 장기 골격 효과는 추가 연구 필요 (추적 12–24개월 권장).';
+  } else if (comp === 'low') {
+    type = 'activator';
+    title = 'Activator 우선 고려';
+    points = [
+      '컴플라이언스 불확실 → 탈착 장치(MAA)보다 고정형 프로토콜 유리',
+      'MAA는 환자 스스로 장착·유지 책임 — 이탈 시 치료 효과 급감',
+      'Activator: 전체 착용(식사·운동 외 24시간) — 내원 시 착용 여부 확인 용이',
+      '평균 치료 기간 7.15개월 (Kavasoğlu 2026)',
+      '비용 측면: Activator 장치 비용 < MAA 전체 치료비',
+    ];
+    note = 'Kavasoğlu 2026: 두 군 모두 CBCT 용적 변화 동등. 컴플라이언스를 객관적으로 모니터링하지 않은 한계 있음.';
+  } else {
+    // comp=high, aes=low
+    type = 'consider';
+    title = '컴플라이언스 높음 · 심미 중요도 낮음 — 양쪽 모두 적합';
+    points = [
+      '골격 용적 효과 동등 (Kavasoğlu 2026 ANCOVA 조정 후 p>0.87)',
+      'MAA: 동시 치열 정렬 + 절치 토크 유지 우월',
+      'Activator: 비용 효율, 내원 시 착용 여부 확인 용이',
+      '치료비·치과 접근성·환자 선호도를 추가 고려해 최종 결정',
+      oj === 'severe' ? '오버젯 >8mm: 어느 장치든 단계적 접근 + 장기 추적 계획 필수' : '',
+    ].filter(Boolean);
+    note = '두 장치의 단기 골격 용적 효과는 동등합니다. 치료 목표, 비용, 환자 우선순위에 따라 결정하세요.';
+  }
+
+  showResult(type, title, points, note);
+}
+
+function showResult(type, title, points, note) {
+  const box = `
+    <div class="result-box ${type}">
+      <div class="result-title ${type}">${title}</div>
+      <ul class="result-points">
+        ${points.map(p => `<li>${p}</li>`).join('')}
+      </ul>
+      <div class="evidence-note">📚 근거: ${note}</div>
+    </div>
+  `;
+
+  // factor summary (only for final result)
+  const factors = state.cvm ? `
+    <div class="factor-grid">
+      <div class="factor-item"><strong>CVM 단계</strong>${{pre:'1단계 (이른 시기)', peak:'2–3단계 (최적)', post:'4–6단계 (지남)'}[state.cvm] || '—'}</div>
+      <div class="factor-item"><strong>오버젯 (Overjet)</strong>${state.oj ? {mild:'+4mm 미만', mod:'+4–+8mm (RCT 기준)', severe:'+8mm 초과'}[state.oj] : '—'}</div>
+      <div class="factor-item"><strong>컴플라이언스 예측</strong>${state.comp ? {high:'높음', low:'보통·불확실'}[state.comp] : '—'}</div>
+      <div class="factor-item"><strong>심미 요구도</strong>${state.aes ? {high:'높음', low:'보통·무관'}[state.aes] : '—'}</div>
+    </div>` : '';
+
+  document.getElementById('resultContent').innerHTML = box + factors;
+  const card = document.getElementById('resultCard');
+  card.classList.remove('hidden');
+  card.scrollIntoView({behavior:'smooth', block:'nearest'});
+
+  // mark all progress done
+  for (let i = 0; i < 4; i++) document.getElementById('p'+i).classList.add('done');
+}
+
+function resetAll() {
+  Object.keys(state).forEach(k => state[k] = null);
+  stepIds.forEach((id, i) => {
+    const el = document.getElementById(id);
+    el.querySelectorAll('.opt-btn').forEach(b => b.classList.remove('selected'));
+    if (i > 0) el.classList.add('hidden');
+  });
+  document.getElementById('resultCard').classList.add('hidden');
+  for (let i = 0; i < 4; i++) document.getElementById('p'+i).classList.remove('done');
+  window.scrollTo({top:0, behavior:'smooth'});
+}
+</script>
+</body>
+</html>
