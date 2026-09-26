@@ -1,0 +1,546 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>어태치먼트 탈락률 예측 계산기</title>
+<style>
+  :root {
+    --bg: #fafafa;
+    --surface: #ffffff;
+    --border: #e2e8f0;
+    --text: #1a202c;
+    --text-muted: #64748b;
+    --accent: #3b82f6;
+    --accent-light: #eff6ff;
+    --green: #16a34a;
+    --green-light: #f0fdf4;
+    --yellow: #b45309;
+    --yellow-light: #fffbeb;
+    --red: #dc2626;
+    --red-light: #fef2f2;
+    --badge-rct: #dbeafe;
+    --badge-rct-text: #1d4ed8;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+    padding: 24px 16px;
+  }
+  .header {
+    max-width: 820px;
+    margin: 0 auto 24px;
+  }
+  .header h1 { font-size: 1.35rem; font-weight: 700; margin-bottom: 6px; }
+  .header p { font-size: 0.84rem; color: var(--text-muted); }
+  .badge {
+    display: inline-block;
+    font-size: 0.72rem;
+    font-weight: 600;
+    padding: 2px 8px;
+    border-radius: 4px;
+    background: var(--badge-rct);
+    color: var(--badge-rct-text);
+    margin-right: 6px;
+  }
+  .layout {
+    max-width: 820px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+  }
+  @media (max-width: 580px) { .layout { grid-template-columns: 1fr; } }
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 20px;
+  }
+  .card-title {
+    font-size: 0.78rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--text-muted);
+    margin-bottom: 14px;
+  }
+  /* Tooth chart */
+  .arch-label {
+    font-size: 0.78rem;
+    color: var(--text-muted);
+    font-weight: 600;
+    margin: 10px 0 6px;
+  }
+  .arch {
+    display: flex;
+    gap: 6px;
+    flex-wrap: wrap;
+  }
+  .tooth-btn {
+    width: 42px;
+    height: 52px;
+    border: 2px solid var(--border);
+    border-radius: 8px;
+    background: white;
+    cursor: pointer;
+    font-size: 0.78rem;
+    font-weight: 600;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 2px;
+    transition: all 0.15s;
+    position: relative;
+  }
+  .tooth-btn:hover { border-color: var(--accent); }
+  .tooth-btn.selected { border-color: var(--accent); background: var(--accent-light); }
+  .tooth-btn .tooth-label { font-size: 0.7rem; font-weight: 700; }
+  .tooth-btn .tooth-type { font-size: 0.62rem; color: var(--text-muted); }
+  .tooth-btn.selected .tooth-type { color: var(--accent); }
+  /* risk dot */
+  .risk-dot {
+    width: 8px; height: 8px; border-radius: 50%;
+    margin-bottom: 2px;
+  }
+  .risk-high { background: var(--red); }
+  .risk-mid { background: var(--yellow); }
+  .risk-low { background: var(--green); }
+
+  /* Material selector */
+  .material-row {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 12px;
+  }
+  .mat-btn {
+    flex: 1;
+    padding: 10px;
+    border: 2px solid var(--border);
+    border-radius: 8px;
+    background: white;
+    font-size: 0.85rem;
+    font-weight: 500;
+    cursor: pointer;
+    text-align: center;
+    transition: all 0.15s;
+  }
+  .mat-btn:hover { border-color: var(--accent); }
+  .mat-btn.selected { border-color: var(--accent); background: var(--accent-light); font-weight: 700; }
+  .mat-sub { font-size: 0.72rem; color: var(--text-muted); margin-top: 2px; }
+
+  /* Aligner count */
+  .slider-row {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 4px;
+  }
+  input[type=range] {
+    flex: 1;
+    accent-color: var(--accent);
+  }
+  .slider-val {
+    font-size: 1rem;
+    font-weight: 700;
+    min-width: 32px;
+    text-align: right;
+  }
+
+  /* Result panel */
+  .result-section {
+    grid-column: 1 / -1;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 20px;
+  }
+  .result-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 12px;
+    margin-bottom: 20px;
+  }
+  @media (max-width: 580px) { .result-grid { grid-template-columns: 1fr 1fr; } }
+  .stat-box {
+    background: var(--bg);
+    border-radius: 8px;
+    padding: 14px;
+    text-align: center;
+    border: 1px solid var(--border);
+  }
+  .stat-num {
+    font-size: 1.8rem;
+    font-weight: 800;
+    margin-bottom: 2px;
+  }
+  .stat-label { font-size: 0.75rem; color: var(--text-muted); }
+  .stat-box.warn .stat-num { color: var(--yellow); }
+  .stat-box.danger .stat-num { color: var(--red); }
+  .stat-box.ok .stat-num { color: var(--green); }
+  .stat-box.neutral .stat-num { color: var(--accent); }
+
+  /* Timeline */
+  .timeline {
+    margin-top: 16px;
+  }
+  .timeline-title {
+    font-size: 0.78rem;
+    font-weight: 700;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 10px;
+  }
+  .tl-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 8px;
+    font-size: 0.84rem;
+  }
+  .tl-label { width: 60px; flex-shrink: 0; color: var(--text-muted); font-size: 0.78rem; }
+  .tl-bar-wrap {
+    flex: 1;
+    background: var(--border);
+    border-radius: 4px;
+    height: 16px;
+    position: relative;
+    overflow: hidden;
+  }
+  .tl-bar {
+    height: 100%;
+    border-radius: 4px;
+    transition: width 0.4s;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding-right: 6px;
+    font-size: 0.68rem;
+    color: white;
+    font-weight: 700;
+    white-space: nowrap;
+  }
+  .tl-prem { background: var(--green); }
+  .tl-mol { background: var(--red); }
+  .tl-overall { background: var(--accent); }
+
+  .tooth-breakdown {
+    margin-top: 16px;
+    border-top: 1px solid var(--border);
+    padding-top: 14px;
+  }
+  .tb-title {
+    font-size: 0.78rem;
+    font-weight: 700;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    margin-bottom: 10px;
+  }
+  .tb-rows { display: flex; flex-direction: column; gap: 6px; }
+  .tb-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.82rem;
+    padding: 6px 10px;
+    border-radius: 6px;
+    background: var(--bg);
+  }
+  .tb-row .tooth-id { font-weight: 600; min-width: 80px; }
+  .tb-row .pct { font-weight: 700; }
+  .tb-row.high-risk { background: var(--red-light); }
+  .tb-row.mid-risk { background: var(--yellow-light); }
+
+  .note-box {
+    margin-top: 16px;
+    padding: 12px 14px;
+    border-radius: 8px;
+    border-left: 4px solid var(--accent);
+    background: var(--accent-light);
+    font-size: 0.8rem;
+    color: var(--text);
+    line-height: 1.5;
+  }
+  .legend {
+    display: flex; gap: 14px; flex-wrap: wrap;
+    margin: 10px 0 14px;
+  }
+  .legend-item {
+    display: flex; align-items: center; gap: 5px;
+    font-size: 0.76rem; color: var(--text-muted);
+  }
+  .legend-dot { width: 9px; height: 9px; border-radius: 50%; }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>투명교정 어태치먼트 탈락률 예측</h1>
+  <p>
+    <span class="badge">Split-mouth RCT</span>
+    Fialho 2026 (Clin Oral Investig, n=50, 800 attachments, 140일) 기반<br>
+    <span style="font-size:0.78rem; color:#94a3b8;">Class I 경증 혼잡 기준 수치 — 복잡한 케이스에서는 실제 탈락률이 더 높을 수 있습니다.</span>
+  </p>
+</div>
+
+<div class="layout">
+
+  <!-- Left: Inputs -->
+  <div class="card">
+    <div class="card-title">① 어태치먼트 위치 선택</div>
+    <div class="legend">
+      <div class="legend-item"><div class="legend-dot risk-high"></div> 고위험 (구치)</div>
+      <div class="legend-item"><div class="legend-dot risk-mid"></div> 중위험</div>
+      <div class="legend-item"><div class="legend-dot risk-low"></div> 저위험 (소구치)</div>
+    </div>
+    <div class="arch-label">상악 (Maxilla)</div>
+    <div class="arch" id="upperArch"></div>
+    <div class="arch-label" style="margin-top:14px">하악 (Mandible)</div>
+    <div class="arch" id="lowerArch"></div>
+    <div style="margin-top:12px; font-size:0.78rem; color:var(--text-muted)">
+      <span id="selectedCount">0</span>개 선택됨
+    </div>
+  </div>
+
+  <div style="display:flex; flex-direction:column; gap:16px;">
+    <!-- Material -->
+    <div class="card">
+      <div class="card-title">② 레진 재료</div>
+      <div class="material-row">
+        <button class="mat-btn selected" id="matSF" onclick="selectMat('SF')">
+          일반 플로어블
+          <div class="mat-sub">3M Filtek Supreme Flowable</div>
+        </button>
+        <button class="mat-btn" id="matBF" onclick="selectMat('BF')">
+          벌크필 플로어블
+          <div class="mat-sub">3M Filtek Bulk Fill Flowable</div>
+        </button>
+      </div>
+      <div style="font-size:0.76rem; color:var(--text-muted); background:var(--bg); padding:8px 10px; border-radius:6px;">
+        두 재료 탈락률 동등 (HR=0.84, p=0.293) — 비용 차이만 고려하세요.
+      </div>
+    </div>
+
+    <!-- Aligner count -->
+    <div class="card">
+      <div class="card-title">③ 예상 교환 매수 / 추적 기간</div>
+      <div class="slider-row">
+        <input type="range" min="1" max="30" value="10" id="alignerSlider" oninput="updateSlider()">
+        <div class="slider-val" id="sliderVal">10매</div>
+      </div>
+      <div style="font-size:0.78rem; color:var(--text-muted); margin-top:4px;">
+        ≈ <span id="dayCalc">140</span>일 (14일 교환 기준)
+        &nbsp;|&nbsp; 교환 주기:
+        <select id="changeInterval" style="font-size:0.78rem; border:1px solid var(--border); border-radius:4px; padding:2px 4px;" onchange="updateSlider()">
+          <option value="7">7일</option>
+          <option value="10">10일</option>
+          <option value="14" selected>14일 (RCT 기준)</option>
+        </select>
+      </div>
+    </div>
+  </div>
+
+  <!-- Result -->
+  <div class="result-section">
+    <div class="card-title">예측 결과</div>
+    <div class="result-grid" id="resultGrid"></div>
+    <div class="timeline">
+      <div class="timeline-title">위치별 140일 생존율 비교 (Fialho 2026 기준)</div>
+      <div class="tl-row">
+        <div class="tl-label">소구치</div>
+        <div class="tl-bar-wrap"><div class="tl-bar tl-prem" style="width:92%">92%</div></div>
+      </div>
+      <div class="tl-row">
+        <div class="tl-label">전체 평균</div>
+        <div class="tl-bar-wrap"><div class="tl-bar tl-overall" style="width:81.25%">81.25%</div></div>
+      </div>
+      <div class="tl-row">
+        <div class="tl-label">구치</div>
+        <div class="tl-bar-wrap"><div class="tl-bar tl-mol" style="width:64%">64%</div></div>
+      </div>
+    </div>
+    <div class="tooth-breakdown">
+      <div class="tb-title">선택한 치아별 예상 탈락 건수</div>
+      <div class="tb-rows" id="toothBreakdown"></div>
+    </div>
+    <div class="note-box" id="noteBox"></div>
+  </div>
+
+</div>
+
+<script>
+// Tooth data with failure rates from Fialho 2026
+// Molar rate at 140 days: ~9/25 = 36% failure; Premolar: ~2-3/25 = 9% failure
+const teeth = [
+  // Upper arch: 14,15,16,17 | 24,25,26,27
+  {id:'14', label:'14', type:'소구치', arch:'upper', risk:'low', failRate14day:0.02, failRate140day:0.08},
+  {id:'15', label:'15', type:'소구치', arch:'upper', risk:'low', failRate14day:0.02, failRate140day:0.09},
+  {id:'16', label:'16', type:'구치', arch:'upper', risk:'high', failRate14day:0.05, failRate140day:0.32},
+  {id:'17', label:'17', type:'구치', arch:'upper', risk:'high', failRate14day:0.06, failRate140day:0.36},
+  {id:'24', label:'24', type:'소구치', arch:'upper', risk:'low', failRate14day:0.02, failRate140day:0.08},
+  {id:'25', label:'25', type:'소구치', arch:'upper', risk:'low', failRate14day:0.02, failRate140day:0.09},
+  {id:'26', label:'26', type:'구치', arch:'upper', risk:'high', failRate14day:0.05, failRate140day:0.33},
+  {id:'27', label:'27', type:'구치', arch:'upper', risk:'high', failRate14day:0.06, failRate140day:0.36},
+  // Lower arch: 34,35,36,37 | 44,45,46,47
+  {id:'34', label:'34', type:'소구치', arch:'lower', risk:'low', failRate14day:0.015, failRate140day:0.07},
+  {id:'35', label:'35', type:'소구치', arch:'lower', risk:'low', failRate14day:0.02, failRate140day:0.09},
+  {id:'36', label:'36', type:'구치', arch:'lower', risk:'high', failRate14day:0.05, failRate140day:0.32},
+  {id:'37', label:'37', type:'구치', arch:'lower', risk:'high', failRate14day:0.06, failRate140day:0.36},
+  {id:'44', label:'44', type:'소구치', arch:'lower', risk:'low', failRate14day:0.01, failRate140day:0.06},
+  {id:'45', label:'45', type:'소구치', arch:'lower', risk:'low', failRate14day:0.02, failRate140day:0.09},
+  {id:'46', label:'46', type:'구치', arch:'lower', risk:'mid', failRate14day:0.06, failRate140day:0.38},
+  {id:'47', label:'47', type:'구치', arch:'lower', risk:'high', failRate14day:0.06, failRate140day:0.36},
+];
+
+const selected = new Set();
+let material = 'SF';
+let alignerCount = 10;
+let changeInterval = 14;
+
+function buildArch(archId, archName) {
+  const el = document.getElementById(archId);
+  el.innerHTML = '';
+  teeth.filter(t => t.arch === archName).forEach(t => {
+    const btn = document.createElement('button');
+    btn.className = `tooth-btn${selected.has(t.id) ? ' selected' : ''}`;
+    btn.id = `tooth_${t.id}`;
+    btn.onclick = () => toggleTooth(t.id);
+    const dot = document.createElement('div');
+    dot.className = `risk-dot risk-${t.risk === 'mid' ? 'mid' : t.risk === 'high' ? 'high' : 'low'}`;
+    btn.appendChild(dot);
+    const label = document.createElement('div');
+    label.className = 'tooth-label';
+    label.textContent = t.label;
+    btn.appendChild(label);
+    const type = document.createElement('div');
+    type.className = 'tooth-type';
+    type.textContent = t.type;
+    btn.appendChild(type);
+    el.appendChild(btn);
+  });
+}
+
+function toggleTooth(id) {
+  if (selected.has(id)) selected.delete(id);
+  else selected.add(id);
+  const btn = document.getElementById(`tooth_${id}`);
+  btn.classList.toggle('selected', selected.has(id));
+  document.getElementById('selectedCount').textContent = selected.size;
+  updateResult();
+}
+
+function selectMat(mat) {
+  material = mat;
+  document.getElementById('matSF').classList.toggle('selected', mat === 'SF');
+  document.getElementById('matBF').classList.toggle('selected', mat === 'BF');
+  updateResult();
+}
+
+function updateSlider() {
+  alignerCount = parseInt(document.getElementById('alignerSlider').value);
+  changeInterval = parseInt(document.getElementById('changeInterval').value);
+  const days = alignerCount * changeInterval;
+  document.getElementById('sliderVal').textContent = `${alignerCount}매`;
+  document.getElementById('dayCalc').textContent = days;
+  updateResult();
+}
+
+function getFailureRate(tooth, days) {
+  // Interpolate between known points (14-day and 140-day rates)
+  // Use a simple exponential decay model: F(t) = 1 - (1 - F_14)^(t/14) * correction
+  // Simplified: linear interpolation up to 140 days, then plateau
+  const t = Math.min(days, 140);
+  const rate14 = tooth.failRate14day;
+  const rate140 = tooth.failRate140day;
+  // Piece-wise: proportional between 0 and 140
+  return rate14 + (rate140 - rate14) * (t / 140);
+}
+
+function updateResult() {
+  const days = alignerCount * changeInterval;
+  const selectedTeeth = teeth.filter(t => selected.has(t.id));
+
+  if (selectedTeeth.length === 0) {
+    document.getElementById('resultGrid').innerHTML = '<div style="grid-column:1/-1; color:var(--text-muted); font-size:0.9rem;">치아를 선택하면 예측 결과가 표시됩니다.</div>';
+    document.getElementById('toothBreakdown').innerHTML = '';
+    document.getElementById('noteBox').innerHTML = '';
+    return;
+  }
+
+  // Calculate per-tooth expected failures
+  const teethWithRates = selectedTeeth.map(t => {
+    const rate = getFailureRate(t, days);
+    return { ...t, rate, expected: rate };
+  });
+
+  const totalAttachments = selectedTeeth.length;
+  const totalExpectedFailures = teethWithRates.reduce((sum, t) => sum + t.expected, 0);
+  const overallRate = totalExpectedFailures / totalAttachments;
+
+  const molarTeeth = teethWithRates.filter(t => t.risk === 'high' || t.risk === 'mid');
+  const premolarTeeth = teethWithRates.filter(t => t.risk === 'low');
+
+  const molarRate = molarTeeth.length > 0
+    ? molarTeeth.reduce((s, t) => s + t.expected, 0) / molarTeeth.length : 0;
+  const premolarRate = premolarTeeth.length > 0
+    ? premolarTeeth.reduce((s, t) => s + t.expected, 0) / premolarTeeth.length : 0;
+
+  // Risk classification
+  const riskClass = overallRate < 0.15 ? 'ok' : overallRate < 0.28 ? 'warn' : 'danger';
+  const riskLabel = overallRate < 0.15 ? '저위험' : overallRate < 0.28 ? '중위험' : '고위험';
+
+  document.getElementById('resultGrid').innerHTML = `
+    <div class="stat-box ${riskClass}">
+      <div class="stat-num">${(overallRate * 100).toFixed(1)}%</div>
+      <div class="stat-label">예상 탈락률 (전체)</div>
+    </div>
+    <div class="stat-box neutral">
+      <div class="stat-num">${totalAttachments}</div>
+      <div class="stat-label">총 어태치먼트 수</div>
+    </div>
+    <div class="stat-box ${riskClass}">
+      <div class="stat-num">${totalExpectedFailures.toFixed(1)}</div>
+      <div class="stat-label">예상 탈락 건수</div>
+    </div>
+    <div class="stat-box ${molarRate > 0.3 ? 'danger' : molarRate > 0.15 ? 'warn' : 'ok'}">
+      <div class="stat-num">${(molarRate * 100).toFixed(0)}%</div>
+      <div class="stat-label">구치 탈락률</div>
+    </div>
+  `;
+
+  // Tooth breakdown
+  const sortedTeeth = [...teethWithRates].sort((a, b) => b.rate - a.rate);
+  const breakdownHtml = sortedTeeth.map(t => {
+    const riskClass2 = t.rate > 0.30 ? 'high-risk' : t.rate > 0.15 ? 'mid-risk' : '';
+    return `<div class="tb-row ${riskClass2}">
+      <span class="tooth-id">${t.label} (${t.type})</span>
+      <span class="pct">${(t.rate * 100).toFixed(0)}%</span>
+    </div>`;
+  }).join('');
+  document.getElementById('toothBreakdown').innerHTML = breakdownHtml;
+
+  // Note
+  const daysText = days <= 140 ? `${days}일` : `140일+ (Fialho 2026 추적 기간 초과 — 외삽치)`;
+  const matNote = material === 'SF'
+    ? '일반 플로어블 선택 — 벌크필 대비 탈락률 동등 (HR=0.84, p=0.293). 비용 절감 가능.'
+    : '벌크필 플로어블 선택 — 일반 플로어블 대비 탈락률 동등. 임상 효과 차이 없음.';
+  document.getElementById('noteBox').innerHTML = `
+    <strong>📚 근거 노트</strong> (Fialho 2026, Clin Oral Investig)<br>
+    추적 기간: ${daysText} | 위험 등급: <strong>${riskLabel}</strong><br>
+    ${matNote}<br>
+    구치 탈락률이 소구치보다 일관되게 높음 (재료 무관) — 구치 어태치먼트는 탈락 후 재접착 계획을 미리 안내하세요.
+  `;
+}
+
+// Init
+buildArch('upperArch', 'upper');
+buildArch('lowerArch', 'lower');
+updateResult();
+</script>
+</body>
+</html>
