@@ -6,7 +6,7 @@ doi: "10.3390/jfb17010032"
 category: [endodontics/vpt]
 pdf_path: ""
 pdf_filename: ""
-source_collection: pubmed-text
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested
