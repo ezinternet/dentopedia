@@ -9,7 +9,7 @@ category: [endodontics/irrigation]
 confidence: sr
 pdf_path: ""
 pdf_filename: ""
-source_collection: pubmed-text
+source_collection: pubmed-abstract
 tags: [irrigation, NaOCl, EDTA, CHX, gel-formulation, smear-layer, file-separation, shaping]
 relations:
   - type: extends
