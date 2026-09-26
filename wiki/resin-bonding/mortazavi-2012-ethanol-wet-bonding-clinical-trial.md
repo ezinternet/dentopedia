@@ -12,7 +12,12 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/mortazavi-2012-ethanol-wet-bonding-cl
 pdf_filename: mortazavi-2012-ethanol-wet-bonding-clinical-trial.pdf
 source_collection: external
 tags: [ethanol-wet-bonding, Clearfil-SE-Bond, OptiBond-FL, NCCL, RCT, clinical, 12-month]
+superseded_by: souza-2026-ewbt-adhesive-systems-6year-rct
+superseded_scope: partial
 ---
+
+> [!note] Partially superseded → [[souza-2026-ewbt-adhesive-systems-6year-rct]]
+> This page's EWB arm (100% ethanol + OptiBond FL hydrophobic bond only, no primer) concluded "equal performance" at 12 months (91.67%, NS, n=36 lesions). Souza 2026 (6-year RCT, 148 NCCLs) tested the same concept (EWBT + Scotchbond MP bond only): 48.7% retention vs 88.9% water-wet control (log-rank p=0.008), and EWBT gave no benefit with hydrophilic adhesives either. The EWB bottom line here is overturned. Still useful: 12-month OptiBond FL vs Clearfil SE Bond (both 100%) comparison. (set 2026-09-25)
 
 ## Three-line Summary
 
