@@ -1,14 +1,12 @@
 [
-  "obsidian-linter",
   "dataview",
-  "graphfrontier",
   "obsidian-minimal-settings",
   "omnisearch",
   "obsidian-html-plugin",
-  "lore-graph",
   "file-explorer-note-count",
-  "smart-connections",
   "copilot",
   "smart-lookup",
-  "realclaudian"
+  "obsidian-linter",
+  "smart-connections",
+  "smart-context"
 ]
