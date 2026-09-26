@@ -20,6 +20,7 @@ source_wiki:
   - wiki/prosthetic-materials/ren-2024-morse-taper-abutment-subsidence-locking-force.md
 output_wiki:
   - slides/2026-07-02_seminar_implant-settling-effect.md
+  - interactives/2026-09-22_implant-settling-effect-visualizer.html
 ---
 
 # Goal
@@ -45,6 +46,7 @@ output_wiki:
 # Output
 
 - slides/2026-07-02_seminar_implant-settling-effect.md
+- interactives/2026-09-22_implant-settling-effect-visualizer.html (2026-09-22, 동일 근거로 chairside 인터랙티브 재저작)
 
 각 산출물 frontmatter에 `agenda: agenda/2026-07-02_settling-effect-slides.md` 백링크 박음.
 
