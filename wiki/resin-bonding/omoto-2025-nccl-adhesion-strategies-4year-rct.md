@@ -11,10 +11,15 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/omoto-2025-nccl-adhesion-strategies-4
 pdf_filename: omoto-2025-nccl-adhesion-strategies-4year-rct.pdf
 source_collection: external
 tags: [nccl, universal-adhesive, rmgic, edta, selective-enamel-etching, rct, retention]
+superseded_by: omoto-2025-nccl-adhesion-strategies-5year-rct
+superseded_scope: full
 relations:
   - type: reinforces
     target: peumans-2023-universal-adhesive-nccl-3year-rct
 ---
+
+> [!warning] Superseded (full) → [[omoto-2025-nccl-adhesion-strategies-5year-rct]]
+> This 4-year report has been superseded by the [[resin-bonding/omoto-2025-nccl-adhesion-strategies-5year-rct|5-year follow-up (Omoto 2025)]] which provides extended evidence from the same RCT. At 5 years all four strategies show similar survival, and the 4-year retention advantage of selective enamel etching is no longer reported (E-SBU instead shows more marginal defects vs ionomer groups). (set 2026-09-25)
 
 ## Three-line Summary
 
