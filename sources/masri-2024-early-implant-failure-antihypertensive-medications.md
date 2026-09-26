@@ -17,6 +17,10 @@ text_filename: masri-2024-early-implant-failure-antihypertensive-medications.txt
 tags: [antihypertensive, dental-implant, early-implant-failure, osseointegration, hypertension, beta-blocker, RAAS-inhibitor]
 ---
 
+## Why Ingested
+
+기존 위키는 고혈압 자체가 임플란트 실패 위험을 높이지 않는다는 SR+MA 근거([[implants/survival/hamade-2024-hypertension-dental-implants-sr-ma]])와 围术期 혈압 상승의 급성 위험([[drug/systemic-disease/liu-2024-perioperative-hypertension-implant-bone-augmentation]])은 있었으나, '치료 여부'로 나눈 장기 예후 데이터는 없었다. 본 후향적 코호트(792명/2,971임플란트, EIF ≤12개월)는 항고혈압제 복용군(HTN+med)이 정상혈압군보다도 낮은 조기 실패율을 보이는 반면 미치료 고혈압군(HTN-med)이 가장 나쁜 예후를 보여, liu의 급성 围术期 위험 서사를 장기 예후로 확장(extends)하고 hamade의 '고혈압 자체는 무해' 결론 및 [[drug/systemic-disease/chidiac-2026-antihypertensive-antihyperlipidemic-antidepressant-implant-survival]]의 항고혈압제 보호 효과를 재확인(reinforces)한다.
+
 ## Summary
 
 Retrospective cohort (Rabin Medical Center, Israel, 2013–2018; n=792 patients/2,971 implants) dividing patients into three groups: normotensive (NT, n=593/2,123 implants), hypertensive on antihypertensives (HTN+med, 185/784), hypertensive without medication (HTN-med, 14/64). Primary outcome: early implant failure (EIF) ≤12 months from loading.
