@@ -11,6 +11,8 @@ source: "fialho-2026-flowable-vs-bulkfill-aligner-attachments.md"
 category: orthodontics/clear-aligner
 confidence: rct
 source_collection: pubmed-text
+text_path: /Users/oracleneo/llm-wiki/papers/fialho-2026-flowable-vs-bulkfill-aligner-attachments.txt
+text_filename: fialho-2026-flowable-vs-bulkfill-aligner-attachments.txt
 date: 2026-07-20
 tags:
   - clear-aligner
