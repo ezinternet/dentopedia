@@ -9,7 +9,7 @@ category: [endodontics/vpt]
 confidence: sr+ma
 pdf_path: ""
 pdf_filename: ""
-source_collection: pubmed-text
+source_collection: pubmed-abstract
 tags: [vital-pulp-therapy, TheraCal, resin-modified-CSM, dentin-bridge, calcium-silicate, direct-pulp-capping]
 relations:
   - type: refines
