@@ -7,7 +7,7 @@ pmid: 42321697
 pmc: PMC13527972
 category: resin-bonding
 tags: [universal-adhesive, etching-mode, self-etch, etch-and-rinse, dentin-bond-strength, network-meta-analysis, scotchbond-universal, g2-bond-universal, zipbond-universal, ageing]
-evidence_level: systematic-review-meta-analysis
+evidence_level: sr+ma
 relations:
   - type: extends
     target: hardan-2021-universal-adhesive-dentin-bond-sr-ma
