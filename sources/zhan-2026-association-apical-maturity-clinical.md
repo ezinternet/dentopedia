@@ -6,7 +6,7 @@ doi: "10.1016/j.identj.2026.109660"
 category: [endodontics/regenerative]
 pdf_path: ""
 pdf_filename: ""
-source_collection: pubmed-text
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested
