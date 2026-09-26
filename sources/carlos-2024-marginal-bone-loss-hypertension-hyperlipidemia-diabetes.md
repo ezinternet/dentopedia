@@ -17,6 +17,10 @@ text_filename: carlos-2024-marginal-bone-loss-hypertension-hyperlipidemia-diabet
 tags: [marginal-bone-loss, hypertension, hyperlipidemia, diabetes, dental-implant, systemic-disease, cross-sectional]
 ---
 
+## Why Ingested
+
+기존 위키는 항고혈압제·항고지혈증제 복용이 임플란트 생존/실패율에 미치는 영향([[drug/systemic-disease/chidiac-2026-antihypertensive-antihyperlipidemic-antidepressant-implant-survival]], [[drug/systemic-disease/masri-2024-early-implant-failure-antihypertensive-medications]])을 다루지만, '실패' 대신 '변연골소실(Marginal Bone Loss, MBL)'을 outcome으로 삼은 데이터는 없었다. 본 단면연구(57명/165 임플란트)는 고혈압·고지혈증 및 해당 약물 복용이 MBL과 유의하게 연관됨을 보여 chidiac의 약물-임플란트 상관관계 서사를 보강하되(단, 저자는 이를 다약제(polypharmacy) 교란 효과로 해석해 인과관계로 단정하지 않음), masri가 보고한 '치료된 고혈압군의 더 나은 예후'와는 outcome 지표(생존 vs 골소실)가 달라 반례로 기능한다.
+
 ## Summary
 
 Cross-sectional, record-based study (UNLV dental clinics, 2012–2022; 1,310 records screened → 57 patients/165 implants meeting criteria; predominantly elderly ≥65yr = 79%; IRB exempt). Evaluated MBL correlation with HTN, hyperlipidemia (HL), and diabetes mellitus (DM).
