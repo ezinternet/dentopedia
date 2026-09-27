@@ -32,8 +32,8 @@ The clinical performance of a universal adhesive in NCCL restorations was satisf
 - **Design**: Double-blind split-mouth two-center RCT
 - **Follow-up**: 7.5 years (evaluations at baseline, 6m, 1yr, 3yr, 5yr, 7.5yr)
 
-## 2. Why Ingested
-Longest follow-up (7.5yr) for a universal adhesive (Futurabond U) in NCCLs using four bonding strategies in a rigorous split-mouth multicenter double-blind design; provides key longevity data showing no significant retention difference between SEE, SET, ERDry, and ERWet techniques — directly informs clinical protocol simplification decisions.
+## Why Ingested
+Longest follow-up (7.5yr) for a universal adhesive (Futurabond U) in NCCLs using four bonding strategies in a rigorous split-mouth multicenter double-blind design; provides key longevity data showing no significant retention difference between SEE, SET, ERDry, and ERWet techniques — directly informs clinical protocol simplification decisions. Extends the NCCL adhesive strategy evidence base beyond [[resin-bonding/peumans-2023-universal-adhesive-nccl-3year-rct]] (3yr Futurabond U data) to 7.5-year follow-up.
 
 ## 3. Population & Methods
 - **Participants**: 50 adults with ≥4 NCCLs; split-mouth design (each participant received all 4 strategies)
