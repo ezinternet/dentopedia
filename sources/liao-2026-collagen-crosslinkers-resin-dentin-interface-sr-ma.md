@@ -31,3 +31,8 @@ Efficacy depended on: cross-linker type, application mode, adhesive strategy. Ra
 GRADE evidence: low to very low. Most studies: medium bias. Significant publication bias in aged subgroups of aldehyde- and polyphenol-based pretreatments.
 
 Conclusion: Certain collagen cross-linkers may enhance resin-dentin bonding; effectiveness context-dependent. High heterogeneity and low evidence quality warrant cautious interpretation. Clinical translation premature.
+
+
+## Why Ingested
+
+Most comprehensive SR+MA (63 studies) covering all five major collagen cross-linker classes (aldehyde, chitosan, riboflavin, polyphenol, carbodiimide) and their effect on resin-dentin bond longevity; provides a quantitative synthesis that complements the mechanism-focused narrative of [[resin-bonding/zhou-2025-collagen-crosslinkers-naocl-dentin-bond-strength-sr-ma]] and consolidates the growing cross-linker evidence base in the wiki.
