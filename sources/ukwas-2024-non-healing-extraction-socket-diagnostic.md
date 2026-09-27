@@ -13,6 +13,8 @@ Non-healing extraction sockets are a clinical scenario where the differential di
 
 The findings are directly relevant to clinical triage: distinguishing a benign delayed healing from a socket harboring undiagnosed primary or metastatic malignancy or medication-related osteonecrosis of the jaw (MRONJ) determines whether the clinician proceeds with conservative management or urgently refers. No existing oral-surgery page in the wiki addresses this differential-diagnosis workflow.
 
+— See: [[oral-surgery/ukwas-2024-non-healing-extraction-socket-diagnostic]]
+
 ## Three-line Summary
 
 Narrative review / case-series synthesis of 50 reported non-healing extraction socket cases (28F, 22M; mean age 55.2 years; 71 teeth) identified across five major databases.
