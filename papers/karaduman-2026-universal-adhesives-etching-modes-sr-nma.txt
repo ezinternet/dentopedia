@@ -1,0 +1,540 @@
+Comparison of universal adhesives used in different etching modes on dentin bond strength: a systematic review and network meta-analysis
+
+Authors: Karaduman YD, Ercan M, Bedir F, Karadas M
+Journal: BMC Oral Health 2026;26(1)
+DOI: 10.1186/s12903-026-08982-4 | PMID: 42321697 | PMCID: PMC13527972
+Source: PubMed Central full text, retrieved via PubMed MCP (get_full_text_article).
+
+Background
+
+A primary objective of restorative dentistry is the development of adhesive systems that create a durable seal between the tooth structure and restorative material. Effective adhesives enhance tooth strength and enable more conservative cavity preparation by minimizing unnecessary removal of healthy tissue []. Universal adhesives (UAs) represent the most recent advancement in this field and can be used with self-etch (S-E), selective-etch, or etch-and-rinse (E-R) strategies, allowing clinicians to adapt their use to different clinical conditions and preferences []. These systems offer simplified application and reduced technique sensitivity, and, when applied in S-E mode, may lower the incidence of postoperative sensitivity [,]. Additionally, UAs are compatible with a wide range of substrates, including ceramics, zirconia, and composite materials, regardless of whether silane is used [].
+
+UAs are composed of combinations of hydrophobic and hydrophilic resin monomers, along with photoinitiators, and are formulated as either single-bottle or two-bottle systems. These constituents influence both the resin infiltration and the mechanical properties of the adhesive interface and the hybrid layer [,]. Among these components, acidic functional monomers are particularly important because they contribute to surface wetting, etching capability, and chemical interaction with hydroxyapatite. Notably, 10-methacryloyloxydecyl dihydrogen phosphate (10-MDP) is widely regarded as the benchmark monomer for bonding to enamel and dentin and is therefore incorporated into most UA formulations. The ionic complexes formed between 10-MDP and hydroxyapatite exhibit high hydrolytic stability, which supports durable adhesion over time [,]. A network meta-analysis revealed that the presence of 10-MDP and the overall acidic formulation of S-E adhesives significantly influence the durability and strength of dental bonds, particularly after simulated ageing [].
+
+Although numerous studies have investigated the dentin bonding effectiveness and clinical performance of UAs, the results remain inconsistent regarding the superiority of specific products [,,]. While the contribution of 10-MDP to improved dentin bonding has been strongly emphasized [], this monomer is present in nearly all commercially available UAs, limiting its value as a distinguishing factor [,]. Several investigations suggest that bond strength may be more strongly influenced by the overall material formulation rather than by individual compositional differences [,–]. In clinical practice, dentists generally follow manufacturers’ instructions and base adhesive selection on personal experience or laboratory evidence. Consequently, integrating data from multiple in vitro studies could offer more reliable guidance for clinical decision-making. For this reason, a systematic ranking of the dentin bond strength of UAs using a network meta-analysis would be valuable. To our knowledge, no such study has been reported in the literature.
+
+Network meta-analysis is an extension of conventional meta-analytic methods that allows the simultaneous comparison of multiple interventions within a single analytical framework. By combining direct and indirect evidence through shared comparators, it enables estimation of treatment effects even in the absence of head-to-head trials []. When the assumptions of transitivity and consistency are met, it provides reliable comparative effect estimates and permits hierarchical ranking of interventions. The Surface Under the Cumulative Ranking Curve (SUCRA) is commonly used to quantify the probability that an intervention is the most effective option, thereby enhancing the interpretability of overall treatment rankings beyond traditional pairwise comparisons [–].
+
+The objective of this investigation was to compare the bond strength of UAs to dentin in both the short term (24 h or 1 week) and the long term (after ageing), using a network meta-analysis. The null hypotheses for the study were as follows: there are no significant differences between the bond strength of adhesives in S-E mode (1) or E-R mode (2) before ageing, and in S-E mode (3) or E-R mode (4) after ageing.
+
+Methodology
+
+This systematic review was conducted using the guidelines of the Preferred Reporting Items for Systematic Reviews and Network Meta-Analyses (PRISMA) []. The protocol was registered in PROSPERO (CRD420261279711). The primary research question was formulated using the PICO framework to ensure methodological clarity and consistency. The population (P) comprised sound permanent human teeth in laboratory studies, the intervention (I) was the application of different UAs on dentin, the comparator (C) included a standard adhesive (Scotchbond Universal) or comparisons among adhesives, and the outcome (O) was dentin bond strength under various application modes (S-E or E-R) and testing times. Accordingly, the research question can be stated as: “In laboratory studies using sound permanent human teeth (P), how do different UAs (I), compared with a standard adhesive or each other (C), affect dentin bond strength under different application modes and testing times (O)?”
+
+Literature sources
+
+Records retrieved from PubMed, Scopus, and Web of Science were independently evaluated by two reviewers (F.B. and M.K.). The search strategy was developed using key terms identified from prior literature and was adapted to the indexing requirements of each database (Table). To enhance completeness, reference lists of included experimental and review studies were also hand-searched. The literature search was completed on November 15, 2025, with no restrictions on publication date or language: however, all included studies were published in English.
+
+Table 1
+
+The search methods used in the electronic databases
+
+Database
+
+Final literature searches
+
+Advanced search approach
+
+PubMed
+
+November 15th 2025
+
+(Scotchbond Universal OR Single Bond Universal OR Scotchbond Universal Plus) AND (universal adhesives OR universal adhesive OR multi-mode adhesive OR multimode adhesive OR universal bonding agent)
+
+Web of Science
+
+November 15th 2025
+
+(‘’ Scotchbond Universal’’ OR ‘’ Single Bond Universal’’ OR ‘’ Scotchbond Universal Plus’’) AND (‘’universal adhesive’’ OR ‘’universal adhesives’’ or ‘’multi-mode adhesive’’ OR ‘’multimode adhesive’’ OR ‘’universal bonding agent’’)
+
+Scopus
+
+November 15th 2025
+
+‘’ Scotchbond Universal’’ OR ‘’ Single Bond Universal’’ OR ‘’ Scotchbond Universal Plus’’ AND ‘’universal adhesive’’ OR ‘’universal adhesives’’ or ‘’multi-mode adhesive’’ OR ‘’multimode adhesive’’ OR ‘’universal bonding agent’’
+
+Eligibility criteria
+
+This review focused on in vitro investigations assessing the dentin bond strength of one or more UA systems applied in either S-E or E-R modes, with or without artificial ageing (storage in distilled water or artificial saliva, and thermal or mechanical cycling), and compared with a reference adhesive. To be eligible, studies were required to include Scotchbond Universal, Single Bond Universal, or Scotchbond Universal Plus (SBU) as the control adhesive. Introduced in 2011, this material was the first commercially available multi-mode or UA system and has since been widely used as a reference in comparative studies of UAs. Included articles reported bond strength outcomes in megapascals (MPa) measured using microtensile, microshear, or shear bond strength tests. The tested substrates were limited to human or bovine dentin. Studies involving caries-affected or primary teeth, as well as other substrates such as enamel, ceramics, or composite resins, were excluded from this analysis. Additionally, investigations focused on orthodontic bracket bonding or those using experimental adhesive formulations were excluded.
+
+Data extraction process
+
+All retrieved references were uploaded into EndNote X20.5 (Thomson Reuters) to identify and remove duplicate records. Title and abstract screening were carried out independently by two reviewers (F.B. and M.K.) based on predefined inclusion and exclusion criteria. Any disagreements were resolved through discussion with a third reviewer (Y.D.K), and the reasons for study exclusion were systematically recorded. Agreement between reviewers was high, with Cohen’s kappa values of 0.80 for the initial screening stage and 0.88 for full-text assessment. To promote methodological consistency, a comprehensive operator calibration process was implemented, including standardized training on measurement procedures, guided practice sessions, and regular performance checks. Data extraction was performed independently and in duplicate by two reviewers (F.B. and M.K.) using structured extraction templates to enhance accuracy and reliability.
+
+Following study selection, data were extracted from the full texts of all eligible articles and systematically organized into Microsoft Excel 2016 tables (Microsoft Corporation, Redmond, WA, USA). The extracted variables included the first author, year of publication, country of origin, number of teeth, adhesive system evaluated, predominant failure pattern, bond strength testing method, composite material, ageing procedure, and smear layer preparation (Supplementary Material 1). Bond strength outcomes for S-E and E-R strategies, both before and after ageing, were subsequently compiled for analysis (Supplementary Material 2). When data presented in graphical form were incomplete or unclear, corresponding authors were contacted via email, with a reminder sent after two weeks in the absence of a response. Studies were excluded if the requested information remained unavailable after four weeks. The brand names and chemical composition of the adhesive systems are presented (Table).
+
+Table 2
+
+Content and classification of universal adhesives included in this review
+
+Universal adhesives (Manufacturer)
+
+Content
+
+Classification according to pH
+
+All-Bond Universal (Bisco, Schaumburg, IL, USA)
+
+10-MDP, Bis-GMA, HEMA, water, ethanol
+
+Ultra-mild (pH = 3.2)
+
+Scotchbond or Single Bond Universal or Scotchbond Universal Plus (3 M ESPE, St. Paul, MN, USA)
+
+10-MDP, Bis-GMA, HEMA, dimethacrylate resins, silane, filler, vitrebond copolymer, photoinitiators, ethanol, water
+
+Plus: Does not contain Bis-GMA, instead it contains dimethacrylate resins with radiopaque (BPA derivative-free monomer).
+
+Mild (pH = 2.7)
+
+Prime&Bond Elect (Dentsply Caulk, Milford, DE, USA
+
+UDMA, trimethacrylate resins, dimethacrylate resins, PENTA, photoinitiator, stabilizers, acetone, water
+
+Mild (pH = 2.5)
+
+Prime&Bond Active (Dentsply Caulk, Milford, DE, USA
+
+10-MDP, bisacrylamides, isopropanol, PENTA, camphorquinone, 4-(dimethylamino) benzonitrile, water
+
+Mild (pH = 2.5)
+
+Futurabond U (Voco, Cuxhaven, Germany)
+
+Liquid 1: Bis-GMA, HEMA, UDMA, acidic adhesive monomer, catalyst
+
+Liquid 2: Catalyst, ethanol, initiator
+
+Mild (pH = 2.3)
+
+Tetric N-Bond Universal (Ivoclar Vivadent, Schaan, Liechnstein)
+
+Methacrylate-modified polyacrylic acid, 10-MDP, Bis-GMA, HEMA, UDMA, camphorquinone, water, ethanol, 2-dimethyl aminoethyl methacrylate, silicon dioxide
+
+Mild (pH = 2.5–3.0)
+
+Ambar Universal (FGM Prod. Odontologicos, Joinville, Santa Catarina, Brazil)
+
+10-MDP, UDMA, HEMA, silica, methacrylic monomers, ethanol, water, camphorquinone
+
+Mild (pH = 2.6–3.0)
+
+Clearfil Universal Bond Quick (Kuraray Noritake Dental, Osaka, Japan)
+
+10-MDP, Bis-GMA, HEMA, silane coupling agent, hydrophilic amide monomers, colloidal silica, sodium flüoride, ethanol, camphorquinone, water
+
+Mild (pH = 2.3)
+
+One Coat 7 Universal (Coltene Whaledent, AG, Altstatten, Switzerland)
+
+10-MDP, HEMA, UDMA, methacrylates, photoinitiators, water, ethanol
+
+Mild (pH = 2.8)
+
+G-Premio Bond or Solare Universal Bond
+
+(GC, Tokyo, Japan)
+
+10-MDP, 4-META, MDTP, dimethacrylate, phosphoric acid ester monomer, silicon dioxide, acetone, water, initiators
+
+Intermediately strong (pH = 1.5)
+
+Peak Universal Bond (Ultradent dental Products, South Jordan UT, USA)
+
+HEMA, methacrylic acid, chlorhexidine, ethanol, filler
+
+Mild (pH = 2.2)
+
+Gluma Bond Universal (Heraeus Kulzer, Hanau, Germany)
+
+10-MDP, 4-MET, UDMA, dimethacrylate resins, acetone, fillers, initiators, silane, water
+
+Intermediately strong (pH = 1.5)
+
+OptiBond Universal (Kerr, Orange, USA)
+
+HEMA, GPDM, ethanol, glycero-phosphate dimethacrylate, acetone
+
+Mild (pH = 2.5)
+
+G-2 Bond Universal (GC, Tokyo, Japan)
+
+Primer: 10-MDP, 4-META, MDTP, water, aceton, fillers, initiators
+
+Adhesive: UDMA, dimethacrylate monomer, photoinitiator, filler, butylated hydroxytoluene
+
+Intermediately strong (pH = 1.5)
+
+Ybond Universal (Yller, Pelotas,
+
+RS, Brazil)
+
+Hydrophobic methacrylate monomers, hydrophilic methacrylate monomers, silane, stabilizers, silanized nanoparticles, water, ethanol, initiators
+
+Intermediately strong (pH = 1.5)
+
+Adhese Universal (Ivoclar, Schaan, Liechtenstein)
+
+10-MDP, HEMA, Bis-GMA, dimethacrylate resins, methacrylated carboxylic acid polymer, fillers, initiators, ethanol, water,
+
+Mild (pH = 2.5)
+
+Tokuyama Universal (Tokuyama Dental, Japan)
+
+PrimerA: 3D‑SR monomer, Bis‑GMA, TEGDMA, MTU‑6, HEMA, acetone
+
+PrimerB: Isopropyl alcohol, silane, borate catalyst, peroxide, acetone, water
+
+Mild (pH = 2.8)
+
+Zipbond Universal (SDI, Victoria, Australia)
+
+10-MDP, UDMA, hydrophilic aliphatic monomethacrylate, acidic monomethacrylate, aliphatic dimethacrylate, water, initiator, fluoride, ethanol, butanone
+
+Mild (pH = 2.5)
+
+RE-GEN Universal Adhesive (VISTA I APEX, Inter-Med Inc., Racine, WI, USA)
+
+HEMA, 10-MDP, bioglass 45S5, Bis-Tetraacrylate, propenoic acid, ethanol, acetone, pyromellitic dimethacrylate, ethyl 4-dimethylaminobenzoate, benzoic acid
+
+Not-available
+
+iBOND Universal (Kulzer, Hanau, Germany)
+
+10-MDP, 4-META, methacrylate-monomer, water, acetone, fotoinitiator
+
+Intermediately strong (pH = 1.8)
+
+Beautibond Xtreme Universal (Shofu INC., Kyoto, Japan)
+
+Bis-GMA, TEGDMA, carboxylic acid monomer, organophosphate monomer, silane, water, acetone
+
+Mild (pH = 2.4)
+
+Beautibond Universal (Shofu INC., Kyoto, Japan)
+
+Bis-GMA, TEGDMA, carboxylic acid monomer, phosphonic acid monomer, initiators, water, acetone
+
+Mild (pH = 2.4)
+
+Clearfil Universal Bond (Kuraray Noritake Dental, Osaka, Japan)
+
+10-MDP, HEMA, Bis-GMA, hydrophilic aliphatic dimethacrylate, camphorquinone, colloidal silica, silane, accelerators, initiators, ethanol, water
+
+Mild (pH = 2.3)
+
+10-Methacryloyloxydecyl dihydrogen phosphate,Hydroxyethyl methacrylate,Bisphenol A-glycidyl methacrylate,Dipentaerythritol pentaacrylate phosphate,Urethane dimethacrylate resin,4-Methacryloxyethyl trimellitate anhydride,Thiophosphate ester monomer,Glycero-phosphate dimethacrylate,Triethylene glycol dimethacrylate,6-Methacryloyloxyhexyl 2-thiouracil-5-carboxylate
+
+Study risk of bias assessment
+
+To assess the risk of bias in the included studies, two reviewers (M.K. and F.B.) adapted the Quality Assessment Tool for In Vitro Studies (QUIN) []. The evaluation was performed independently by both researchers. Ten criteria were examined: clearly defined aims or objectives, sample-size justification, thorough methodology description, sampling approach, operator information, blinding, randomization procedures, appropriate statistical analysis, outcome measurement methods, and clarity of results presentation. Each criterion was scored as 2 (low risk/adequately reported), 1 (unclear/insufficient information), or 0 (high risk/not reported). The total score for each study was calculated by summing the scores of all applicable criteria. Studies were classified according to bias risk as low (> 70%), moderate (50–70%), or high (< 50%). The overall percentage score was computed using the formula: (total score × 100) / (2 × total applicable criteria).
+
+Reporting/publication bias assessment
+
+Risk of bias for each relative treatment effect in the network meta-analysis was evaluated using the ROB-MEN tool with random-effects models []. Both within-study bias (from missing outcome data) and across-study bias (from potential publication bias) were first assessed for each pairwise comparison, after which an initial judgment was generated. In the second stage, bias assessments were synthesized across three domains: the contribution of direct evidence to network estimates, small-study effects examined through network meta-regression, and bias due to unobserved treatment comparisons. Adjusted and original estimates were compared using their confidence intervals. The final risk-of-bias judgment for each comparison integrated results from the meta-regression and the other bias domains and was categorized as low risk, some concerns, or high risk. ROB-MEN tables were incorporated into the reporting bias domain of the CINeMA software [,].
+
+Data items and synthesis
+
+In laboratory-based studies, UAs have been used on dentin following either S-E or E-R approaches. To enable a structured analysis, the data were organized according to the application strategy (S-E or E-R) and the timing of bond strength evaluation (prior to or following artificial ageing). Accordingly, four distinct categories were established: (i) S-E application before ageing, (ii) E-R application before ageing, (iii) S-E application after ageing, and (iv) E-R application after ageing.
+
+The retrieved data were systematically examined and organized into tables for descriptive evaluation, allowing assessment of the existing evidence and identification of differences among study designs. Statistical analyses were performed using MetaInsight software (version 6.4.0) within a Bayesian analytical framework []. Network diagrams were generated to depict the structure of direct and indirect comparisons, followed by the construction of forest plots to integrate findings from individual studies, facilitate comparisons between UAs, and present pooled effect estimates against the reference bonding agent. Given the observed heterogeneity across studies, a random-effects model was applied. To further justify this choice, the model fit was compared using the Deviance Information Criterion (DIC). In each treatment group, the DIC values for the random-effects model were lower than those for the fixed-effects model, indicating a better fit for the random-effects specification (Table) []. Network meta-analysis heterogeneity was modeled using a random-effects approach, and the between-study standard deviation (τ) was estimated. In S–E mode, the posterior median of τ was 8.43 (95% CrI: 7.37–9.64) before ageing and 6.37 (95% CrI: 5.14–7.84) after ageing. In E–R mode, the corresponding values were 5.45 (95% CrI: 4.4–6.7) before ageing and 4.44 (95% CrI: 2.7–6.83) after ageing. In all models, the 95% credible intervals did not include zero, indicating the presence of statistically significant heterogeneity across studies []. Effect estimates derived from both direct and indirect evidence were expressed as mean differences with corresponding 95% confidence intervals.
+
+Table 3
+
+Deviance Information Criterion (DIC) values for fixed-effects and random-effects models
+
+Group
+
+Model Type
+
+Mean deviance (D)
+
+Effective parameters (pD)
+
+DIC (D + pD)
+
+Self-etch before ageing
+
+Fixed-effects
+
+2854.724
+
+103.7
+
+2958.425
+
+Random-effects
+
+234.917
+
+221.628
+
+456.545
+
+Self-etch after ageing
+
+Fixed-effects
+
+678.638
+
+67.073
+
+745.711
+
+Random-effects
+
+136.127
+
+121.919
+
+258.045
+
+Etch-and-rinse before ageing
+
+Fixed-effects
+
+666.462
+
+63.326
+
+729.788
+
+Random-effects
+
+134.340
+
+119.438
+
+253.778
+
+Etch-and-rinse after ageing
+
+Fixed-effects
+
+167.560
+
+41.007
+
+208.567
+
+Random-effects
+
+69.074
+
+57.127
+
+126.201
+
+SUCRA was used to establish a performance hierarchy among UAs. SUCRA percentages were interpreted in conjunction with the Forest plots [], as SUCRA reflects the relative ranking probabilities of the interventions, whereas Forest plots illustrate the direction and magnitude of the effect estimates. In the present analysis, effect estimates located on the left side of the forest plot (negative MD values) indicate lower bond strength compared with the control adhesive, whereas estimates on the right side (positive MD values) indicate higher bond strength. Accordingly, SUCRA values should be interpreted in line with the direction of the outcome, where higher SUCRA scores reflect a greater likelihood of being ranked as worse, and lower SUCRA scores (approaching zero) indicate a higher likelihood of being ranked as better within the network.
+
+Assessment of confidence in network meta-analysis
+
+The CINeMA framework offers an open-access methodology for evaluating the certainty of evidence derived from network meta-analyses [,]. Evidence is appraised across six key domains: risk of bias within individual studies, reporting bias, indirectness, imprecision, heterogeneity, and incoherence. Each domain is judged as presenting major concerns, some concerns, or no concerns. These domain-level judgments are then combined to assign an overall confidence rating for each comparative treatment effect, consistent with the standard GRADE classifications of high, moderate, low, or very low certainty [].
+
+Within-study bias denotes systematic errors arising from the design or conduct of individual investigations. Indirectness describes the extent to which the available evidence aligns with the primary research question, particularly in terms of relevance and applicability. Imprecision captures the degree of statistical uncertainty around effect estimates, commonly resulting from small sample sizes or broad confidence intervals. Heterogeneity refers to differences in outcomes across the included studies. Incoherence, also termed inconsistency, reflects discordance between multiple sources of evidence within the network and was evaluated using results from the node-splitting model. Reporting bias assesses whether all pertinent studies have been adequately represented or whether selective omission of findings is present. The clinically important effect size was set at 50 to assist in assessing imprecision, heterogeneity, and inconsistency [].
+
+Sensitivity analysis
+
+Sensitivity analyses were performed on pooled outcomes using the leave-one-out approach. To minimize potential bias, studies identified as having a high risk of bias were excluded in subsequent analyses. Local consistency was evaluated via the Nodesplit method, and global consistency was assessed with the unrelated mean effect model []. This approach allowed for examination of effects across direct, indirect, and mixed evidence. Differences between direct and indirect estimates may suggest inconsistency. After evaluating transitivity and statistical consistency, network diagrams were generated to visualize the various comparisons. Effect sizes were calculated as mean differences with 95% confidence intervals, using SBU adhesive as the reference treatment for comparison with all other adhesives. Finally, SUCRA probabilities were computed for each group and represented using a Litmus Rank-O-Gram plot, which displays the likelihood that an adhesive is the most effective based on superior mean bond strength [].
+
+Results
+
+Search strategy
+
+Figuredepicts the study selection process following the PRISMA guidelines. The initial database search, conducted on 15 November 2025, identified 1677 records. After removing duplicates, 874 records remained for title and abstract screening, of which 754 were excluded for not meeting the eligibility criteria. No additional studies were identified through manual searching of the reference lists of relevant studies or websites. The full texts of 120 articles were then reviewed in detail, resulting in the exclusion of 38 studies for the following reasons: data not available (= 12), evaluation of different substrates (= 2), absence of a control group (= 20), or adhesives not used according to the manufacturer’s instructions (= 4). Ultimately, 82 studies satisfied the inclusion criteria and were incorporated into the review (Supplementary Materials 1–2) [,,,,,–]. No additional relevant studies were identified through manual searches.
+
+Fig. 1
+
+Flow diagram showing study selection based on PRISMA 2020 guidelines
+
+Descriptive analysis
+
+The characteristics and descriptive data of the included studies are summarized in Supplementary Materials 1–2. The studies were published between 2013 and 2025. Microtensile testing was the most commonly used method for evaluating bond strength, comprising 70.3% of the studies, whereas shear and microshear tests were applied in 24.3% and 6.0% of the studies, respectively. Regarding dentin surface preparation prior to bonding, the majority of studies used #600-grit silicon carbide (SiC) abrasive paper (58.5%). Other investigations employed different SiC grit sizes (#180, #240, #320, #400, #500, #1000, or #4000), accounting for 31.7%, while the remaining 9.7% used alternative methods, such as diamond burs with varying grit sizes. SiC abrasive paper was most frequently applied for 60 s to prepare the surface (34.1%), though some studies used shorter durations of 5, 10, 15, or 30 s. In 29.2% of the studies, the surface treatment time was not reported. Fracture types were predominantly adhesive failures (60.9%), followed by adhesive/mixed (21.9%), mixed (7.3%), or adhesive/cohesive failures (2.4%), while 4.8% of studies did not specify the fracture type.
+
+Resin composites from 3 M ESPE were the most commonly used, representing 42.6% of the studies, with Filtek Z350 (13.4%), Filtek Z250 (10.9%), and Filtek Z100 (4.8%) being the most frequently applied. Materials from Kuraray accounted for 25.6% of studies, mainly Clearfil A-PX (21.9%) and then Clearfil Majesty Esthetic (3.6%). Composites from FGM (Opallis) were employed in 9.7% of studies, and two studies (2.4%) did not specify the restorative material. Ageing procedures were applied in 53.6% of studies, with differences in storage medium, temperature, and duration.
+
+All Bond Universal (ABU) was the adhesive most commonly employed. Other adhesives, including Clearfil Universal Bond Quick (CUBQ), Clearfil Universal Bond (CUB), Tetric N-Bond Universal (TNB), G2-Bond Universal (G2BU), G-Premio Bond (GPB), Prime&Bond Active (PBA), Prime&Bond Elect (PBE), Ambar Universal Bond (AUB), OptiBond Universal (OBU), Futurabond U (FU), Peak Universal Bond (PUB), Gluma Bond Universal (GBU), Adhese Universal (AU), Tokuyama Universal (TUB), Zipbond Universal (ZU), and One Coat 7 Universal (O7U) were less frequently used. Ybond Universal (YU), RE-GEN Universal (RUA), iBOND Universal (IBU), Beautibond Xtreme Universal (BXU), and Beautibond Universal (BU) appeared in only one study each (Supplementary Material 1).
+
+Study risk of bias assessment
+
+Several study characteristics demonstrated a low risk of bias, including clearly stated aims and objectives (100%), detailed methodological procedures (97.5%), appropriate statistical analyses (97.6%), thorough description of sampling methods (95.1%), outcome measurement techniques (97.5%), proper randomization (91.4%), and clear presentation of results (100%). Conversely, reporting was limited for sample size calculation (24.3%), blinding (2.4%), and operator details (12.1%). Overall, most studies included in this review were rated as low risk of bias (52.4%), while fewer were classified as moderate (46.4%) or high risk (1.2%) (Supplementary Material 3).
+
+Network geometry analysis
+
+Figureshows the network geometry for the various treatments groups, highlighting their structure and interconnections. The S-E treatment prior to ageing represented the most extensive network meta-analysis, encompassing 22 adhesives and 82 datasets (Fig.a). The mean bond strength values (MPa) were 31.02 for S-E before ageing, 34.68 for E-R before ageing, 28.27 for S-E after ageing, and 34.69 for E-R after ageing. Additional details of the network are summarized in Table.
+
+Fig. 2
+
+Network plots for different treatments:self-etch mode before ageing;etch-and-rinse mode before ageing;self-etch mode after ageing;etch-and-rinse mode after ageing. The color of each node represents its associated risk of bias (red color: high bias; yellow color: unclear bias; green color: low bias). Edge thickness indicates how many studies provided direct comparisons between the adhesives, while edge color reflects the average risk of bias for those comparisons
+
+Table 4
+
+Network characteristics
+
+Self-etch mode before ageing
+
+Etch-and-rinse mode before ageing
+
+Self-etch mode after ageing
+
+Etch-and-rinse mode after ageing
+
+Number of Interventions
+
+22
+
+18
+
+22
+
+18
+
+Number of Studies
+
+77
+
+46
+
+46
+
+24
+
+Total Number of Samples in Network
+
+2580
+
+1755
+
+1452
+
+803
+
+Total Possible Pairwise Comparisons
+
+231
+
+153
+
+231
+
+153
+
+Total Number of Pairwise Comparisons With Direct Data
+
+79
+
+63
+
+68
+
+40
+
+Is the network connected?
+
+TRUE
+
+TRUE
+
+TRUE
+
+TRUE
+
+Number of Two-arm Studies
+
+35
+
+21
+
+19
+
+13
+
+Number of Multi-Arms Studies
+
+42
+
+25
+
+27
+
+11
+
+Average Outcome
+
+31.02
+
+34.68
+
+28.27
+
+34.69
+
+Assessment of reporting/publication bias
+
+All treatment group comparisons demonstrated a low risk of publication bias (Supplementary Materials 4–7). The original estimates and their adjusted values were closely aligned, with credible intervals showing considerable overlap, indicating no evidence of small-study effects.
+
+Assessment of confidence in network meta-analysis
+
+Analysis using the CINeMA tool showed that most interventions across the treatment groups were associated with high confidence, supported by mixed evidence. Some adhesive comparisons within all treatment groups raised concerns about within-study bias, resulting in moderate confidence levels. For the E-R mode before ageing and the S-E mode after ageing, substantial concerns regarding indirect evidence reduced confidence to low or moderate. Among the factors affecting confidence, incoherence had the largest influence, followed by within-study bias. Detailed confidence assessments for each intervention are provided in Supplementary Materials 8–11.
+
+Inconsistency assessment
+
+After excluding study with a high risk of bias based on a sensitivity analysis [], a total of 77 studies were evaluated in the S-E mode before ageing, 46 in the E-R mode before ageing, 46 in the S-E mode after ageing, and 24 in the E-R mode after ageing. Analysis using the Nodesplit model revealed notable inconsistencies (< 0.05) in several study comparisons. Specifically, in the S-E group before ageing, moderate inconsistencies were observed in three comparisons: GPB vs. CUB (= 0.010), FU vs. PUB (= 0.01), and ZU vs. CUBQ (= 0.02). In the E-R group prior to ageing, three pairs displayed moderate to high inconsistencies: ZU vs. CUBQ (= 0.010), FU vs. PUB (= 0.001), and GPB vs. PUB (= 0.006). After ageing, two pairs in the S-E mode (ZU vs. CUBQ,= 0.02; GPB vs. CUB,= 0.04) and one pair in the E-R mode (ZU vs. CUBQ,= 0.01) showed inconsistency.
+
+To investigate the sources of these discrepancies, Leave-One-Out and Baujat plot analyses were conducted, resulting in the exclusion of studies [,,,,,,,] from the respective analyses, without changing the Network meta-analysis outcomes. After addressing transitivity and statistical inconsistency (Supplementary Materials 12–15), forest plots were generated for the different groups and comparisons, with effect sizes expressed as mean differences (MD) and 95% credible intervals (CrI).
+
+Network meta-analysis
+
+In the qualitative analysis, 22 adhesives were evaluated, and their characteristic properties are summarized in Table. Following the sensitivity analysis, the results of the network meta-analysis are presented in Figs.and. Before ageing in the S-E mode, ABU (MD − 8.69, 95% CrI − 11.40 to − 5.96), AU (MD − 8.24, 95% CrI − 13.30 to − 3.21), CUB (MD − 8.07, 95% CrI − 12.30 to − 3.84), FU (MD − 9.36, 95% CrI − 16.30 to − 2.45), GBU (MD − 7.99, 95% CrI − 14.30 to − 1.72), GPB (MD − 10.70, 95% CrI − 13.60 to − 7.83), PBE (MD − 8.20, 95% CrI − 12.60 to − 3.77), and TUB (MD − 13.80, 95% CrI − 19.80 to − 7.86) exhibited significantly lower bond strength compared with SBU (Fig.a). The remaining adhesives (AUB, BXU, CUBQ, G2BU, IBU, O7U, OBU, PBA, PUB, RUA, TNB, YU, and ZU) showed bond strength comparable to SBU (Fig.a). According to the probabilistic ranking (SUCRA), G2BU (5.86%) demonstrated the highest bonding potential, followed by OBU (12.53%) and SBU (17.94%). In contrast, TUB (90.54%) ranked lowest, followed by GPB (80.69%) and YU (75.14%) (Fig.a and Supplementary Material 16).
+
+Fig. 3
+
+Forest plots and SUCRA graphs for network meta-analysis:self-etch mode before ageing;etch-and-rinse mode before ageing
+
+Fig. 4
+
+Forest plots and SUCRA graphs for network meta-analysis:self-etch mode after ageing;etch-and-rinse mode after ageing
+
+Before ageing in the E-R mode, the bonding potential of most adhesives (ABU, AU, AUB, CUB, CUBQ, G2BU, GBU, IBU, PBA, PUB, TNB, TUB, YU, and ZU) was statistically comparable to that of the SBU adhesive (Fig.b). In contrast, FU (MD − 9.74, 95% CrI − 14.60 to − 5.16), GPB (MD − 4.56, 95% CrI − 8.07 to − 0.96), and PBE (MD − 6.79, 95% CrI − 11.40 to − 2.14) exhibited significantly lower bonding potential. According to the SUCRA ranking, ZU (6.32%) demonstrated the highest bonding potential, whereas FU (93.71%) ranked lowest (Fig.b and Supplementary Material 17).
+
+After ageing in the S-E mode, ABU (MD − 3.51, 95% CrI − 6.44 to − 0.65), CUB (MD − 5.03, 95% CrI − 9.55 to − 0.41), CUBQ (MD − 10.70, 95% CrI − 16.10 to − 5.34), FU (MD − 13.10, 95% CrI − 22.20 to − 4.04), GBU (MD − 7.71, 95% CrI − 13.80 to − 1.60), GPB (MD − 7.70, 95% CrI − 11.60 to − 3.88), and TUB (MD − 9.29, 95% CrI − 17.20 to − 1.48) exhibited significantly lower bond strength compared with SBU (Fig.a and Supplementary Material 19). In contrast, the bonding potential of AU, AUB, BU, BXU, G2BU, IBU, OBU, PBA, PBE, PUB, RUA, TNB, YU, and ZU was statistically comparable to that of the SBU adhesive (Fig.a). Based on SUCRA rankings, G2BU (13.74%) demonstrated the highest bonding potential, followed by ZU (18.47%) and SBU (21.03%). Conversely, FU (88.38%) ranked lowest, followed by CUBQ (83.74%) and BU (78.81%) (Fig.a and Supplementary Material 18).
+
+After ageing in the E-R mode, the bonding potential of most adhesives (ABU, AU, AUB, CUB, G2BU, GBU, PBA, PUB, TNB, TUB, YU, and ZU) was statistically comparable to that of the SBU adhesive (Fig.b). In contrast, CUBQ (MD − 15.40, 95% CrI − 21.70 to − 8.85), FU (MD − 6.78, 95% CrI − 13.60 to − 0.03), GPB (MD − 9.54, 95% CrI − 16.20 to − 2.84), and IBU (MD − 15.00, 95% CrI − 24.30 to − 5.77) exhibited significantly lower bonding potential than SBU. According to the SUCRA rankings, ZU (4.21%) demonstrated the highest bonding potential, whereas CUBQ (94.17%) and IBU (92.07%) ranked lowest (Fig.b and Supplementary Material 19).
+
+Discussion
+
+The objective of the present investigation was to systematically compare the bond-strength performance of UAs using a network meta-analytic approach. The bond strength of UAs to dentin has been extensively studied under various treatment conditions. This network meta-analysis focused on data from control groups without dentin pretreatment and from studies in which the adhesives were applied according to the manufacturers’ instructions. The results of the network meta-analysis revealed statistically significant differences in bond strength among the evaluated adhesives when applied in either S-E or E-R modes, both before and after ageing procedures. Thus, all null hypotheses were rejected based on these findings.
+
+Based on SUCRA values, G2BU was the only two-step (primer and adhesive) UA among those tested and showed the highest bond strength in the S-E mode under both ageing conditions. Effective dentin bonding depends on surface wettability, micromechanical retention, and stable chemical interactions. In S-E adhesive systems, bonding mainly occurs through chemical interactions between functional monomers and hydroxyapatite. In two-step S-E adhesives, hydrophilic components improve monomer penetration through the smear layer and partially demineralized dentin, leading to stronger chemical bonding with mineralized tissues. In contrast, single-step S-E adhesives combine etching, priming, and bonding in one step, which may reduce the overall effectiveness of the bonding process [,]. Although UAs usually contain 10-MDP, the success of this interaction depends on sufficient monomer infiltration and the formation of a uniform and stable hybrid layer []. Also, adhesive systems with a primer and an additional hydrophobic layer generally form a thicker adhesive layer, which can buffer stresses at the tooth–adhesive interface and thereby potentially enhance resistance to debonding [].
+
+On the other hand, G2BU showed lower bond strength in the E-R mode, regardless of testing time. It is an acetone-based and HEMA-free adhesive. Previous studies have suggested that the solvent type in adhesive systems can affect bond strength to etched dentin [,]. In acetone-based adhesives, a wet-bonding technique is necessary to prevent collapse of the collagen network due to acetone’s strong water-chasing effect []. The reduced bond strength of G2BU may be explained by inadequate penetration of resin monomers into etched dentin. This is mainly related to acetone’s high volatility and strong water-repellent nature, which can cause collagen fibril collapse and limit uniform monomer infiltration []. In addition, the absence of HEMA reduces the compatibility of adhesive monomers, particularly with moist and etched dentin. This limitation increases the risk of phase separation, water entrapment, and microvoid formation during solvent evaporation. Together, these effects disrupt hybrid layer integrity and reduce micromechanical retention [,]. Similarly, GPB, PBE, and IBU are also acetone-based and HEMA-free adhesives, and they were among the lowest-performing materials (Figs.b andb). However, a clinical study reported that GPB demonstrated comparable performance to SBU in Class II restorations with respect to secondary caries and postoperative sensitivity []. Therefore, despite their comparatively lower in vitro bond strength, these materials may still exhibit acceptable short-term clinical outcomes, and the present findings should be interpreted with caution until confirmed by well-designed long-term clinical trials.
+
+Before ageing, OBU exhibited the highest bond strength among one-step UAs in the S-E mode (Fig.). The morphological characteristics of the adhesive–tooth interface produced by S-E adhesives are largely determined by the interactions between their functional monomers and the dental substrates. In OBU, the functional monomer is glycerol phosphate dimethacrylate (GPDM), which has a strong etching ability comparable to phosphoric acid []. GPDM is more hydrophilic than 10-MDP, resulting in greater wettability and deeper penetration into the substrate, which promotes strong micromechanical interlocking and higher initial bond strength. However, after ageing, OBU exhibited lower performance than 10-MDP-based one-step adhesives (ZU, SBU, AUB, and PBA; Fig.a). It has been shown that GPDM formed fewer ionic bonds with calcium compared to 10-MDP, using X-ray diffraction analyses []. Additionally, the shorter spacer chain and higher hydrophilicity of GPDM may limit the stability of monomer–calcium interactions []. Overall, these factors indicate that GPDM has weaker and less durable chemical bonding than 10-MDP, which likely explains the decrease in bond strength over time.
+
+ZU exhibited the highest bond strength among one-step UAs in S-E mode after ageing. It also outperformed all tested adhesives in E-R mode, regardless of testing time. This performance could be attributed to its ternary solvent system. The system contains a high percentage of ethanol (30–40%), water, and butanone, which provide a balanced combination of viscosity, surface tension, and vapor pressure. These physicochemical properties may promote effective diffusion of resin monomers into dentine. They also help avoid the limitations of highly volatile solvents, thereby enhancing the adhesive–dentine interaction [,]. Additionally, ZU is a HEMA-free adhesive system with fluoride-releasing capability. The exclusion of HEMA reduces the intrinsic hydrophilicity of the adhesive, thereby limiting water sorption and decreasing susceptibility to hydrolytic degradation [,]. Furthermore, the absence of HEMA has been reported to promote the formation of a more stable and well-organized 10-MDP nano-layering at the bonding interface, which contributes to enhanced bonding durability, particularly in S-E mode [,]. Fluoride release from adhesives contributes to dentin–restorative interface stability by inhibiting matrix metalloproteinases (MMP-2 and MMP-9), reducing collagen degradation. This effect is mediated via interference with catalytic metal ions (Zn²⁺, Ca²⁺), which disrupt enzyme conformation or limit substrate access, thereby preserving hybrid layer integrity and long-term bonding potential [,].
+
+Before ageing, TUB in S-E mode and FU in E-R mode showed the lowest bond strength. In addition to compositional factors that may negatively affect S-E bonding efficacy, the lower performance observed for TUB may be related to its self-curing mechanism [,,]. The more superficial interaction produced by the S-E mode, together with limited micromechanical interlocking (submicron hybrid layer) and possible smear layer interference, may explain this outcome. In contrast, the E-R bonding approach provides substantially greater micromechanical interlocking and effectively eliminates smear layer contamination []. The reduced bond strength of TUB in the S-E mode was confirmed by SEM fractographic analysis. This analysis revealed not only a higher incidence of adhesive interfacial failures but also the presence of interfacial voids, which likely weakened the bond and led to failure at lower load levels. The formation of these voids may be attributed to water uptake from the underlying dentin through osmotic processes []. Moreover, the delayed curing protocol for TUB may have prevented immediate stabilization of the adhesive interface, allowing the coalescence of water droplets within the interface [,]. For FU, it was observed gaps, defects, and reduced hybrid layer thickness on etched dentin using SEM/TEM [], which has been linked to the absence of water in the adhesive’s content. Water in the adhesive composition plays a critical role in facilitating the re-expansion of the collagen fibrils [,,].
+
+After ageing, FU in S-E mode and CUBQ in E-R mode exhibited the lowest bond strength. According to the manufacturer, the functional monomer in FU is only identified as a phosphate monomethacrylate. The reduced bond strength of FU may be attributed to the likely absence of 10-MDP, which is not disclosed in the product data sheet []. The manufacturer of CUBQ has suggested that the adhesive does not require a waiting period or vigorous rubbing during application, attributing its purportedly superior bond strength to a lower HEMA content, higher purity of the functional monomer 10-MDP, and the presence of a novel hydrophilic amide monomer compared with conventional HEMA-based systems (). Nevertheless, contrary evidence has shown that a 10-second active rubbing application of CUBQ results in significantly higher dentin bond strength compared with passive application, regardless of the adhesive strategy used []. This improvement was associated with enhanced resin monomer penetration and the formation of a thicker, more uniform hybrid layer.
+
+SBU is extensively evaluated in both in vivo and in vitro studies among UAs. It is a one-step UA that facilitates both chemical and micromechanical bonding due to its formulation, which includes 10-MDP, HEMA, silane, Vitrebond copolymer, filler, and ethanol. The literature indicates that 10-MDP enhances long-term bond strength by forming stable calcium salts with hydroxyapatite, HEMA improves dentin wettability, and Vitrebond copolymer offers additional ionic interactions [,,]. The presence of silane allows for potential chemical bonding with glass ceramics, and its consistent clinical performance across various adhesive strategies (S-E, selective-etch) supports the assertion that this material is among the systems with the most robust scientific evidence []. It is regarded as a reference product among single-step UAs, despite the fact that two-step S-E systems are traditionally considered the “gold standard” [,,]. Therefore, it was used as a control adhesive in this network meta-analysis.
+
+Considerable variability in bond strength was observed, mainly due to differences in study methods. Factors such as dentin surface preparation, testing protocols, composite build-up, and ageing simulations likely contributed to this variation. These methodological differences can limit reproducibility and make it harder to compare results across studies. Therefore, although eligibility criteria and descriptive assessments were applied to enhance methodological consistency, the assumption of transitivity should be interpreted with caution and considered a potential limitation of this analysis. In the network meta-analysis, all pairwise comparisons showed a low risk of publication bias. The systematic literature search likely included studies with negative, non-significant, and positive results, reducing the risk of selective publication. Predefined and transparent inclusion criteria also helped minimize selective outcome reporting. Confidence in the evidence was generally high for direct comparisons, indicating robust and consistent data. In contrast, indirect comparisons were more often rated with some or major concerns, mainly due to incoherence or within-study bias. These issues may stem from small sample sizes and limited data. For example, several adhesives (IBU, YU, RUA, BXU, and BU) were evaluated in only a few studies, which may reduce the reliability of comparative estimates. Despite these limitations, CINeMA assessments mostly rated incoherence as no concern, supporting the overall consistency and reliability of the network.
+
+This systematic review summarized evidence from numerous studies; however, the inclusion of studies with a moderate risk of bias is a limitation. Many in vitro studies on restorative dental materials do not report power analyses or sample size calculations, and sample sizes are often chosen empirically. Typically, 4–12 specimens are used for microtensile bond strength tests, while 10–20 specimens are employed for microshear or shear bond strength evaluations. This limitation is not unique to bond strength studies and is also common in research on other material properties. Future studies should focus on minimizing bias by performing proper sample size calculations, reporting operator-related details, and implementing blinding for investigators and/or outcome assessors. Such methodological improvements could increase the reliability of in vitro findings and facilitate their translation into clinically relevant outcomes.
+
+Conclusions
+
+This review was conducted to assist clinical decision-making in the selection of the most effective bonding adhesives to dentin. Bond strength varied considerably among the evaluated adhesives, with G2BU showing the highest performance in the S-E mode and ZU performing best in the E-R mode, regardless of testing time. Following ageing, CUBQ in the E-R mode and FU in the S-E mode exhibited the lowest bonding potential, while GPB, PBE, and IBU consistently ranked among the poorest-performing adhesives, independent of application strategy or testing time. Based on the available in vitro evidence and indirect comparisons within this network meta-analysis, adhesive performance may be influenced more by overall formulation and application strategy than by the mere presence of specific functional monomers. However, this finding should be interpreted cautiously, as clinical validation is necessary to confirm these trends.
+
+Supplementary Information
+
+Supplementary Material 1.
+
+Supplementary Material 2.
+
+Supplementary Material 3.
+
+Supplementary Material 4.
+
+Supplementary Material 5.
