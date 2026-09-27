@@ -33,3 +33,8 @@ SR+MA on clinical effect of chlorhexidine (CHX) dentin pretreatment on adhesive 
 GRADE: Retention and postoperative sensitivity = moderate certainty (imprecision). Secondary caries = low certainty (very few events, short follow-up).
 
 Conclusion: CHX pretreatment (0.2–2%) does not improve clinical performance of adhesive restorations vs control in terms of retention, sensitivity, or secondary caries. MMP inhibitory effect demonstrated in vitro does not translate to measurable clinical advantage with current etch-and-rinse adhesives. CHX may still be considered for antimicrobial purposes or high-caries-risk patients.
+
+
+## Why Ingested
+
+This SR+MA directly tests whether in vitro MMP-inhibition by CHX translates to clinical advantage in adhesive restorations — a question left open by earlier mechanistic reviews in the wiki. The null result (no benefit for retention, sensitivity, or secondary caries across 11 RCTs) challenges the rationale for routine CHX pretreatment and complements [[resin-bonding/kiuru-2021-mmp-inhibitors-dentin-bonding-sr-ma]], which established the in vitro MMP-inhibitory evidence base this paper now clinically refutes.
