@@ -1,0 +1,100 @@
+Efficacy of chitosan dressing as a local haemostatic agent in the management of dental extractions in patients on antiplatelet therapy. A prospective randomized study
+
+Authors: Agrawal D, Zaheer S, Newaskar V
+Journal: Journal of Oral Biology and Craniofacial Research (J Oral Biol Craniofac Res) 2025;15(6):1715-1720
+DOI: 10.1016/j.jobcr.2025.10.012 | PMID: 41140885 | PMCID: PMC12553043
+Source: PubMed Central full text, retrieved via PubMed MCP (get_full_text_article).
+
+1
+
+Introduction
+
+Tooth extraction is among the most commonly performed procedures in dental practice. In patients receiving antiplatelet therapy, it presents a recognised clinical challenge because of increased postoperative bleeding risk.With a growing number of individuals on long-term antiplatelet regimens—particularly dual antiplatelet therapy (DAPT)—achieving reliable haemostasis is critical.While these agents reduce the risk of thromboembolic events, they complicate perioperative management by impairing clot formation.
+
+Previously, clinicians often altered or discontinued antiplatelet therapy to reduce bleeding risk, a practice now discouraged owing to heightened thrombotic risk.Current guidelines support continuing antiplatelet medication during minor oral surgical procedures, provided effective local haemostatic measures are employed.Nonetheless, a lack of standardised protocols and limited evidence regarding optimal local haemostatic agents in this context remains a concern.
+
+Chitosan, a natural polysaccharide derived from chitin, has demonstrated well-documented haemostatic, antimicrobial, and wound-healing properties.Its polycationic structure allows rapid interaction with negatively charged blood components, promoting clot formation.It also supports tissue regeneration by enhancing fibroblast proliferation, collagen synthesis, and osteoblast activity.These properties make chitosan a potentially valuable alternative to conventional cotton gauze, especially in patients with compromised haemostasis. However, clinical trials evaluating its effectiveness specifically in antiplatelet-treated patients are limited.
+
+This prospective randomised study was designed to compare chitosan dressing with conventional cotton gauze for haemostasis after dental extraction in patients on antiplatelet therapy, with secondary outcomes including pain, socket healing, and complications. Although chitosan has been widely studied, evidence remains sparse in antiplatelet-treated patients, particularly regarding standardized, socket-based comparisons and monitoring of delayed bleeding. Prior studies often lacked rigorous protocols or excluded high-risk groups, leading to inconsistent guidance. Our study addresses these gaps using a standardised approach and systematic follow-up in a real-world, high-risk cohort. The findings aim to provide clear, clinically relevant evidence for managing post-extraction bleeding in this patient population.
+
+2
+
+Methods
+
+This prospective, randomised study was conducted in the Department of Oral and Maxillofacial Surgery at Government College of Dentistry, Indore, an 18-month period (May 2023–October 2024). Ethical approval was granted by the Institutional Ethics Committee (Approval No.: [220/IEC/SS/2024]), and written informed consent was obtained from all participants prior to enrolment.
+
+One hundred patients on single or dual antiplatelet therapy requiring non-surgical dental extraction under local anaesthesia were included based on defined eligibility criteria. Inclusion criteria comprised adult patients with haemoglobin > 9 g/dL, platelet count ≥ 100,000/μL, and uninterrupted antiplatelet therapy. Patients with a history of seafood allergy, congenital bleeding disorders, concomitant anticoagulant use, alcoholism, or any systemic contraindication to extraction were excluded. As combined anticoagulant and antiplatelet therapy substantially increases bleeding risks and involves different mechanism of action, they were excluded. All participants underwent a thorough preoperative evaluation, including cardiac and cerebrovascular history, complete blood count, coagulation profile (bleeding time, clotting time, and INR), random blood glucose levels, and vital signsAntibiotic prophylaxis was administered uniformly to all participants, with additional focus on patients at high risk of infective endocarditis in accordance with American Heart Association guidelines.
+
+: Extraction sites were randomly allocated to two groups. In Group A (study group), extraction sockets received chitosan haemostatic sponge; in Group B (control group), sockets were packed with sterile cotton gauze. Within each patient, comparable tooth types were selected to allow within-subject (split-mouth) comparison whenever possible. The operator could not be blinded, but both patients and the statistician were blinded to dressing allocation; this limitation is acknowledged in the Discussion.
+
+: All procedures were performed by a single experienced surgeon under local anaesthesia (2 % lignocaine with 1:100,000 adrenaline) following a standardised protocol to minimise operator-related variability. Atraumatic extractions were performed using forceps. In Group A, the chitosan dressing (approximately 1 × 1 cm, trimmed to fit snugly at the crestal level) was compressed for 30–40 s and removed with saline irrigation once haemostasis was achieved. In Group B, sterile cotton gauze was applied under biting pressure until bleeding ceased. After initial haemostasis and removal of the dressing, all patients were observed in the clinic for 30 min to monitor for immediate rebleeding. Patients and caregivers received explicit instructions to report any delayed bleeding at home.
+
+: The primary outcome was time to achieve haemostasis, defined as the interval from tooth removal until visible oozing from the peripheries of the dressing completely ceased, measured with a digital stopwatch. Secondary outcomes included postoperative pain using a 10-point visual analogue scale (VAS), socket healing using the Landry Healing Index, and incidence of delayed or secondary bleeding. Clinical follow-up was scheduled at 24 h, 3 days, and 7 days postoperatively under a uniform protocol.
+
+: All patients received amoxicillin 500 mg three times daily, paracetamol 500 mg twice daily, and a multivitamin once daily for three days. NSAIDs were avoided to reduce bleeding risk. Patients were instructed on postoperative care and given emergency contact information.
+
+: Sample size was estimated using G∗Power 3.1.9.7 for a split-mouth (paired) design, assuming a two-tailed paired-test. Based on Seethamsetty et al. (2019), mean hemostasis time was 158.4 ± 0.52 s with PRF versus 70.9 ± 0.38 s with Chitosan (p < 0.001), which we classified as a large effect size (Cohen's d ≈ 0.8 for the purposes of sample size estimation). Using α = 0.05 and 99 % power, the minimum required sample size was 31 patients. To account for potential attrition and ensure adequate power for secondary analyses, we recruited 100 patients.
+
+: Data were analyzed in SPSS version 25.0. Normality was tested with the Kolmogorov–Smirnov test; non-parametric results were reported as median and interquartile ranges. Comparisons between groups were made using the Wilcoxon signed-rank and McNemar's tests, with p < 0.05 considered statistically significant.
+
+3
+
+Results
+
+The mean age of the study population was 63.76 ± 9.14 years (range: 43–85), with males accounting for 75 % of the cohort, consistent with the gender distribution of cardiovascular risk.
+
+Most participants received SAPT with aspirin (71 %, mainly 75 mg), while 29 % were on DAPT with clopidogrel, prasugrel, or ticagrelor (;). Hypertension (74 %), diabetes (34 %), myocardial infarction (31 %), and coronary artery disease (27 %) were common comorbidities. Coagulation profiles were normal, with no significant differences in INR or clotting time, although bleeding time was longer in the DAPT group (median 5.34 min) versus SAPT (median 4.11 min; p < 0.001), indicating stronger platelet inhibition (,).
+
+Patients in the chitosan group (Group A) achieved haemostasis significantly faster than those in the gauze group (Group B). The median haemostasis time in Group A was 0.67 min (IQR 0.59–0.73) compared with 4.5 min (IQR 4.0–5.0) in Group B (p < 0.001) (,).
+
+At 3 min post-extraction, bleeding had ceased in all patients in Group A, whereas 89 % in Group B continued to bleed (p < 0.001). By 10 min, haemostasis was achieved in nearly all patients in both groups (,).
+
+Postoperative pain, assessed using the Visual Analogue Scale (VAS), was significantly lower in Group A. At 24–72 h, median pain scores were similar (3 in both groups), but the IQR was narrower in Group A (2.0–3.75) compared with Group B (3.0–4.0) (p < 0.001). On Day 7, Group A reported significantly lower pain scores (median 1.0, IQR 0–1) than Group B (1.0, IQR 1–2), reflecting a shift towards the lower bound of the scale ().
+
+Healing scores on postoperative Day 7 were significantly higher in Group A (median 5.0, IQR 4–5) compared with Group B (median 4.0, IQR 3–5; p < 0.001), indicating more advanced tissue repair in the chitosan group ().
+
+The incidence of dry socket was low and not statistically different between groups (1 % in Group A vs. 3 % in Group B; p = 0.625). No other postoperative complications were observed in either group (,).
+
+Overall, Group A demonstrated significantly faster haemostasis, less early bleeding, lower pain, and better healing compared with Group B
+
+4
+
+Discussion
+
+Chitosan, a biocompatible polycationic biopolymer derived from chitin, is recognised as a promising local haemostatic adjunct. Its mechanism involves ionic interaction with erythrocyte membranes and platelet adhesion, facilitating rapid clot formation. In our study, chitosan dressings demonstrated significantly faster haemostasis compared with conventional gauze, including in patients on dual antiplatelet therapy (DAPT). These results are consistent with studies by Radhakrishna et al.,Sinha et al.,and Sharma et al..
+
+Beyond dentistry, chitosan has broad applications across medical disciplines. In orthopaedics, it supports bone regeneration through osteoconductive, biodegradable, and scaffold-forming properties.In general and trauma surgery, chitosan-based sponges and hydrogels serve as wound dressings and intraoperative haemostatic materials.In wound care, chitosan has demonstrated antimicrobial efficacy against multidrug-resistant pathogens, attributed to its ability to disrupt bacterial membranes.Advanced formulations such as peptide-loaded chitosan hydrogels and silver-chitosan composites have shown enhanced antibacterial and tissue-regenerative effects.
+
+However, chitosan is not universally advantageous. Pippi et al.reported longer and more variable haemostasis times in patients on aspirin and clopidogrel when using HemCon chitosan dressings compared with other haemostatic sponges. Studies by Gheorghita et al.and Liu et al.also failed to demonstrate significant haemostatic benefits of chitosan in low-risk patients, suggesting its effectiveness may be more pronounced in individuals with impaired haemostasis. Eldibanynoted that overpacking sockets with chitosan plugs may contribute to complications such as alveolar osteitis, underscoring the importance of appropriate application techniques.
+
+Pain assessment in our study revealed significantly lower VAS scores in the chitosan group on both the third and seventh postoperative days, suggesting reduced inflammation and more effective socket protection. These findings are supported by Tejraj et al., Franco et al., and Guardieiro et al..
+
+Healing assessments using Landry's index showed superior outcomes in the chitosan group, with better epithelialisation and granulation tissue formation. These results align with those of Guo et al.,Ezoddini et al.,and Shen et al..Chitosan's antimicrobial activity, fibroblast stimulation, and collagen synthesis capacity are likely contributors to this improved healing profile.
+
+Although the incidence of alveolar osteitis was lower in the chitosan group (1 %) compared with the control group (3 %), the difference was not statistically significant. Nevertheless, the trend aligns with findings by Sultana et al.,Sarkar et al.,and Mahardawi et al.,who reported reduced postoperative infections and complications with chitosan use.
+
+From a clinical perspective, the utility of chitosan as a haemostatic dressing is especially relevant in high-risk patients undergoing dental extractions without antiplatelet therapy interruption. Our findings support the growing consensus that effective local measures, rather than systemic therapy modification, are key to safe practice.
+
+Clinical studies report no significant allergic reactions in dental extractions, including among shellfish-allergic patients. However, rare cases of contact dermatitis and anaphylaxis have been described in other medical applications, highlighting the need for careful history-taking in individuals with severe seafood allergies.,,
+
+: This study has several limitations. It was conducted at a single centre with a moderate sample size, which may limit generalisability. Complete blinding was not feasible because the operator necessarily applied the dressing. Follow-up was limited to seven days, preventing assessment of delayed bleeding or long-term healing. Only simple, non-surgical extractions were included, so findings may not apply to complex surgical procedures. Cost and availability of chitosan dressings compared with gauze were not assessed.
+
+: Further multicentre studies with larger sample sizes and longer observation periods are warranted. Cost-effectiveness analyses should explore the economic feasibility of routine chitosan use. Research on different formulations, optimal dosing and application techniques, and long-term outcomes will help establish evidence-based protocols for broader implementation.
+
+5
+
+Conclusion
+
+Within the limitations of this study, chitosan appears to be a promising adjunct for achieving haemostasis, reducing postoperative discomfort, and promoting early healing after dental extractions in patients on antiplatelet therapy. Larger, well-designed studies are needed to validate these findings and guide clinical protocols.
+
+Ethical approval
+
+The study reviewed and approved by the Institutional Ethics Committee, Government College of Dentistry, Indore (Registration No. ECR/1175/Inst/MP/2019; Approval No. 220/IEC/SS/2024). All procedures were conducted in accordance with the Declaration of Helsinki.
+
+Sources of funding
+
+This research did not receive any external funding.
+
+Declaration of competing interest
+
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
