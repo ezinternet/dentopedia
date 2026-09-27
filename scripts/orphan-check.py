@@ -59,6 +59,24 @@ def _source_collection(fname: str) -> str:
     return ""
 
 
+def _full_text_false(fname: str) -> bool:
+    """sources/{fname}의 full_text 필드가 false면 True.
+
+    source_collection 값은 pubmed-abstract/pubmed/abstract/pubmed/fulltext 등
+    표기가 갈라져 있어(실측: llm-wiki 커밋 이력) 문자열 매칭으로는 abstract-only
+    를 안정적으로 못 걸러낸다. full_text: false는 표기가 갈리지 않는 단일 필드라
+    이걸로 직접 판단한다.
+    """
+    path = os.path.join(SOURCES_DIR, fname)
+    try:
+        with open(path, encoding="utf-8") as f:
+            content = f.read(2000)
+    except OSError:
+        return False
+    m = re.search(r"^full_text:\s*(\S+)$", content, re.MULTILINE)
+    return bool(m) and m.group(1).strip().lower() == "false"
+
+
 def main():
     pdfs = {
         _stem_nfc(f)
@@ -70,12 +88,12 @@ def main():
     # full_text: false 소스도 면제: PDF 없이 인제스트된(abstract/partial) 경우
     # pdf_path가 frontmatter에 있어도 실제 파일이 없는 것이 정상이다.
     all_src_fnames = [f for f in os.listdir(SOURCES_DIR) if f.endswith(".md")]
+    srcs = {_stem_nfc(f) for f in all_src_fnames}
     abstract_only_stems = {
         _stem_nfc(f)
         for f in all_src_fnames
-        if _source_collection(f) == "pubmed-abstract"
+        if _source_collection(f) == "pubmed-abstract" or _full_text_false(f)
     }
-    srcs = {_stem_nfc(f) for f in all_src_fnames} - abstract_only_stems
 
     # CI short-circuit: PDFs are gitignored, so a CI checkout never has the
     # full papers/ set sources/ was ingested against. This holds regardless
@@ -91,7 +109,7 @@ def main():
         return
 
     orphan_pdfs = sorted(pdfs - srcs)   # PDF exists, no source → delete
-    orphan_srcs = sorted(srcs - pdfs)   # Source exists, no PDF → warn
+    orphan_srcs = sorted((srcs - pdfs) - abstract_only_stems)   # Source exists, no PDF, not abstract-only → warn
 
     has_errors = bool(orphan_pdfs or orphan_srcs)
 
