@@ -63,7 +63,7 @@ agenda: agenda/2026-05-27_drug-overview-split.md
 
 ## Three-line Summary
 
-Synthesis of 22 papers on dental management of medically compromised patients across four axes — disease-specific modification, drug-drug-interaction (DDI) screening, local-anesthetic vasoconstrictor safety, and HbA1c interpretation limits; Korean general-hospital OMFS baseline: 12.2% systemic disease comorbidity (Kim 2000, n=3,506), most common hypertension > diabetes > cardiac; controlled diabetes (HbA1c <7.0%) is not an implant contraindication — Wagner 2022 SR; Al-Ansari 2022 SR+MA 89 studies overall DM failure OR 1.78, T1DM vs T2DM OR 4.48, MBL +0.776 mm, maxilla > mandible failure.
+Synthesis of 31 papers on dental management of medically compromised patients across four axes — disease-specific modification, drug-drug-interaction (DDI) screening, local-anesthetic vasoconstrictor safety, and HbA1c interpretation limits; Korean general-hospital OMFS baseline: 12.2% systemic disease comorbidity (Kim 2000, n=3,506), most common hypertension > diabetes > cardiac; controlled diabetes (HbA1c <7.0%) is not an implant contraindication — Wagner 2022 SR; Al-Ansari 2022 SR+MA 89 studies overall DM failure OR 1.78, T1DM vs T2DM OR 4.48, MBL +0.776 mm, maxilla > mandible failure.
 
 1:200,000 epinephrine matches 1:80,000 analgesia while being hemodynamically safer (Karm 2017 RCT n=51) — use as first choice including CVD/hypertension/hyperthyroidism; β-blocker interaction: dilute and minimize dose; DDI prevalence in elderly: 40.7% positive, prescriber awareness 42.7% (Pyo 2026); major DDIs concentrated in 31–60-year-old CVD patients (Colibasanu 2025); Sjögren ACR-EULAR 2016 score ≥4 triggers rheumatology referral (Shiboski 2016); BMS stepwise protocol: habit modification → saliva substitutes → psychological counseling → topical clonazepam → zinc (Lee 2024).
 
@@ -71,7 +71,7 @@ Clinical decision thresholds: HbA1c <7.0% proceed normally; 7.0–9.0% proceed w
 
 ## 세줄요약
 
-전신질환 22편 통합, 4축: (a) 질환별 modification — 당뇨(Diabetes Mellitus, DM) 조절 DM(HbA1c <7.0%)은 임플란트 금기 아님(Wagner 2022); 전체 DM 실패 교차비(Odds Ratio, OR) 1.78·1형 당뇨(T1DM) OR 4.48(Al-Ansari 2022 SR+MA 89편); (b) 약물상호작용(Drug-Drug Interaction, DDI) — 고령 환자 DDI 보유율 40.7%·처방자 인식률 42.7%(Pyo 2026), 대표 주요 DDI = 에피네프린(Epinephrine)+비선택적 베타차단제(β-blocker).
+전신질환 31편 통합, 4축: (a) 질환별 modification — 당뇨(Diabetes Mellitus, DM) 조절 DM(HbA1c <7.0%)은 임플란트 금기 아님(Wagner 2022); 전체 DM 실패 교차비(Odds Ratio, OR) 1.78·1형 당뇨(T1DM) OR 4.48(Al-Ansari 2022 SR+MA 89편); (b) 약물상호작용(Drug-Drug Interaction, DDI) — 고령 환자 DDI 보유율 40.7%·처방자 인식률 42.7%(Pyo 2026), 대표 주요 DDI = 에피네프린(Epinephrine)+비선택적 베타차단제(β-blocker).
 
 (c) 혈관수축제(Vasoconstrictor) 안전성 — 1:200,000 에피네프린이 1:80,000과 진통 동등·혈역학적으로 안전(Karm 2017 RCT n=51); 심혈관질환(Cardiovascular Disease, CVD)·고혈압·갑상선기능항진증 포함 1차 선택; 임신 시 1:100,000–200,000만 허용, felypressin 금기(자궁수축, Uritu 2025 SR). (d) HbA1c 해석 한계 — 헤모글로빈(Hemoglobin, Hb) 변이·빈혈·용혈·만성신부전(Chronic Kidney Disease, CKD)에서 위양/위음; 공복·임의 혈당 병행 필수.
 
