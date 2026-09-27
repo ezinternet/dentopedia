@@ -1,0 +1,152 @@
+Clinical performance of a bulk-fill versus a nanofilled resin composite in non-carious cervical lesions with different extensions: a 6-years randomized, parallel, double-blind clinical trial
+
+Authors: de Oliveira Correia AM, Marques BC, Dos Santos Souza L, Bresciani E, Caneppele TMF
+Journal: Clinical Oral Investigations (Clin Oral Investig) 2026;30(3)
+DOI: 10.1007/s00784-026-06778-y | PMID: 41724882 | PMCID: PMC12926243
+Source: PubMed Central full text, retrieved via PubMed MCP (get_full_text_article).
+
+Introduction
+
+Non-carious cervical lesions (NCCLs) correspond to a loss of tooth structure, usually involving enamel, dentin, and cementum, of non-bacterial origin [,]. Their etiology is multifactorial and resulting from a combination of occlusal stress, friction (endogenous and exogenous mechanical wear), and biocorrosion mechanisms (chemical or electrochemical dental tissue degradation) [–]. Modifying factors such as saliva, diet, and general health issues should also be considered. The reported prevalence of NCCLs among adults is 46.7% with lesion severity generally increasing over time that confirming its importance and clinical relevance []. Age, gender, gastric disease, occlusal interferences, vigorous toothbrushing, and lifestyle habits such as smoking and alcohol consumption, significantly influenced the occurrence and progression of NCCLs [–]. Several clinical situations, including pain or sensitivity, possibility of pulpal exposure and compromised esthetics would warrant a restorative intervention [,].
+
+Restorative procedures of NCCLs are challenging. The largest part of the bonding substrate is dentin, besides in many of these lesions sclerotic dentin is present. This dentin exhibits structural differences, being heterogeneous, non-permeable due to the obliteration of dentinal tubules with sclerotic casts that prevent optimal resin tag formation, acid-resistant hypermineralized surface layer. These characteristics are potential obstacles for primer and resin infiltration that make the adhesive procedure even more difficult and prone to failure [,,]. To maximize adhesion and clinical outcomes, various strategies have been employed, including different adhesion [–] and restorative strategies [–]. The use of bulk-fill resin composite for the restoration in NCCLs can offer a streamlined restoration technique, more compact fillings, and time savings, since thicker increments can be applied [–]. In addition, two characteristics of these materials, such as higher translucency that ensure proper curing at the bottom of thicker layers and reduction the polymerization shrinkage stress may appear advantageous for longevity of clinical protocols compared to the conventional materials [,–]. Despite promising results observed in laboratory settings [–] and short-term clinical studies regarding bulk-fill resin composite [,], clinical recommendations should primarily rely on evidence gathered from long-term clinical studies.
+
+Another factor which could contribute to premature failure of the resin composite restorations is extension of those lesions. Some studies showed that some cavity configurations might favor stress concentration at the bonded interface more than others [–]. These overall findings raising a concern about the performance of NCCLs of different extensions restored with resin composites.
+
+Although many long-term clinical studies have been conducted to evaluate restorative strategies in NCCLs [–,,], long-term clinical evidence remains limited. Many previous clinical trials are characterized by heterogeneous lesion selection, relatively short follow-up periods, and the lack of stratification according to lesion dimensions, which may influence stress distribution and restoration behavior. Consequently, the impact of lesion extension on the long-term clinical performance of regular bulk-fill and regular nanofilled resin composites in NCCLs is still not well established. Therefore, this randomized clinical trial aimed to evaluate the 72-month clinical performance of regular bulk-fill and regular nanofilled resin composites in NCCLs with different occlusogingival distance.
+
+Methods and materials
+
+Ethics approval and protocol registration
+
+The Institutional Review Board approved this study (72995517.4.0000.0077). This clinical study was registered in the Brazilian Clinical Trials Registry (ReBEC-) under the identification number RBR-6w5gwh and was conducted and reported in accordance with the Consolidated Standards of Reporting Trials statement (CONSORT) [].
+
+Trial design, settings, and location of data collection
+
+This was a randomized, controlled, parallel, double-blind (participants and examiners) clinical trial with four study groups and equal allocation ratio. The study was conducted at the clinic of the School of Dentistry. Participant recruitment occurred continuously between September 2016 and July 2018. All restorations were placed during this period by a single calibrated operator.
+
+Due to the restrictions imposed by the COVID-19 pandemic, clinical recalls were temporarily interrupted, resulting in a broader follow-up interval for the 6 years evaluation (66–94 months).
+
+Sample size calculation
+
+The sample size calculation utilized Sealed Envelope online software (Sealed Envelope Ltd. 2012. Power calculator for binary outcome equivalence trial. [Online] Available from:[Accessed May 02 2016], relying on the reported the annual failure rate of 2.2% for two-step self-etch adhesives in NCCLs reported in a systematic review []. To detect a 15% difference among the tested groups, using an alpha of 0.05 and a power of 80%, a minimum sample size was 33 restorations per group. To account for potential dropouts, more than 5% of restorations were added, resulting in a final sample size of 35 restorations per group.
+
+Eligibility criteria
+
+Two calibrated dental students examined a total of 128 participants and determined their eligibility according to the inclusion and exclusion criteria. Participants needed to be in good general and oral health. They should be at minimum 18 years old. They should have an acceptable oral hygiene level with a minimum of 20 teeth in occlusion, in these teeth, the presence of at least one NCCL to be restored that was deeper than 1 mm in vital canines or premolars without mobility, with an opposing and adjacent tooth, and have an OGD of 1.5–3 mm (±10%).
+
+Exclusion criteria encompassed participants with extremely poor oral hygiene severe, individuals suffering from chronic periodontal disease, those using orthodontic appliances, and individuals exhibiting severe bruxism. Smokers or participants undergoing tooth whitening procedures were excluded of the study.
+
+Prior to the measurement of the OGD, a dental screening and dental prophylaxis (rubber cup, pumice, and water) were performed in all participants. Two-step silicone impressions (Express XT Putty Soft þ Express XT Light Body Quick; 3 M/ESPE, St Paul, MN, USA) were made of each tooth with NCCLs that met the inclusion criteria. To better visualize the NCCL margin, gingival retraction cords (Ultrapak #000 and Ultrapak #00; Ultradent Products, Inc, South Jordan, UT, USA) were used. The impressions were disinfected and poured with gypsum (Durone IV; Dentsply Sirona, York, PA, USA) 3 h after removal. The excess of material was removed from all surfaces, and then the cast was scanned with an extraoral scanner (inEos Blue; Dentsply Sirona, Vienna, Austria). The digitalized data were transmitted to a computer-aided design software program (Rhinoceros 4.0; McNeel North America, Seattle, WA. USA) in which the OGD (distance between the most apical point of the gingival margin to the occlusal margin, tracing a line parallel to the long axis of the tooth) of the lesions, was analyzed. Once this step was completed, the restorative treatment was randomly defined according to the generated sequence.
+
+Randomization and allocation concealment
+
+The simple randomization process was performed using a website () by a staff member not involved in the research protocol with an equal allocation ratio for all comparison groups. Details of the allocated groups were recorded on cards contained in sequentially numbered, opaque, and sealed envelopes. To ensure the concealment of the random sequence and prevent selection bias, allocation assignments were revealed by opening the envelope immediately before the restorative procedure. The operator opened a sealed, opaque envelope containing the randomization details to determine the intervention according to the OGD determined previously (1.5–3 mm), using two resin options (nanofilled or bulk-fill). Randomization was performed at the restoration level. When a participant presented more than one eligible lesion, a predefined sequence was used to determine the order of allocation. In cases where lesions presented the same OGD, the tooth located in the quadrant with the lowest numerical order and positioned more mesial within that quadrant was assigned first. This standardized approach was applied to all participants to minimize allocation bias and ensure consistency in group assignment.
+
+Restorative procedures
+
+The methods of restoration placement have already been published [] and it is briefly described below. Before restorative procedures, the lesions were cleaned with pumice and water in a rubber cup to remove the salivary pellicle and any remaining dental plaque, followed by rinsing and drying. Following the American Dental Association guidelines (ADA) [], the operators did not prepare any additional retention or bevel. The relative isolation method was performed in all procedures using gingival retraction cord (Ultrapak #000; Ultradent Products, Inc), cotton rolls, and a saliva aspirator.
+
+The two-step self-etch adhesive Clearfil SE Bond (Kuraray America, Inc, New York, NY, USA) was used according to the manufacturer’s instructions. One coat of primer was applied on the entire lesion surface for 20 s, followed by gentle air for 5 s. Then, the adhesive was applied and light−cured for 10 s at 800 mW/cm(Radii cal, SDI, Victoria, Australia).
+
+An experienced dentist with more than 5 years of dental practice experience restored all NCCLs. The composition of the restorative materials used are described in the previous publications [,]. The resin composite Filtek Bulk Fill Posterior was used for half the lesions according to the predetermined OGD (1.5 mm ±10% and 3 mm±10%). This composite was applied in a single increment and light-cured for 40 s (800 mW/cm, Radii cal, SDI, Victoria, Australia). Filtek Z350 XT was used in up to three increments for cavities with an OGD of 3 mm (± 10%) and in a single increment for cavities with an OGD of 1.5 mm (± 10%). Each increment was light-cured for 20s with an irradiance of 800 mW/cm(Radii cal, SDI, Victoria, Australia). The restorations were finished immediately with 12-fluted tungsten carbide burs (FG Bur; KG Sorensen, Barueri, SP, Brazil). Polishing was performed with a sequence of flexible disks (Soflex, 3 M ESPE, St. Paul, MN, USA) 7 days after placement. This delayed protocol was adopted to allow complete post-polymerization of the resin composite and stabilization of the adhesive interface, thereby reducing the potential influence of early surface manipulation on marginal integrity and surface characteristics.
+
+Calibration procedures
+
+To ensure consistent and reliable assessments, two independent experienced dentists underwent a training process. For this, they observed 10 representative photographs of each score from each evaluation criteria. Also, these examiners assessed 10 patients, not involved in this study, were evaluated over the course of two consecutive days. Before the evaluations of the study participants, an intraexaminer and interexaminer agreement level of at least 85% [].
+
+Blinding
+
+The operator who performed the interventions was not blinded to the procedure. Nevertheless, the two examiners and all participants were blinded to the group allocation during all recalls.
+
+Clinical evaluation
+
+All parameters during the evaluation were recorded using an individual standardized form by each evaluator at each recall time so that evaluators were kept blinded to earlier evaluations during the follow-up recalls. When disagreements occurred, a discussion led to a consensus. The evaluation of the restorations was performed at baseline (one week), and after 6, 12 [], 24, 30 months [], and 6 years (66–94 months) was conducted using.
+
+by the modified United States Public Health Service (USPHS). Due to restrictions imposed by the COVID-19 pandemic, the 6-years recall could not be conducted at a single time point, resulting in a delayed and extended evaluation interval ranging from 66 to 94 months.
+
+Retention/fracture was defined as the primary outcome, as it represents the most clinically relevant parameter for assessing restoration longevity and is widely adopted in NCCLs clinical trials. Other secondary outcomes were also evaluated: marginal staining, marginal adaptation, recurrence of caries, anatomic form, postoperative sensitivity, and surface texture. The postoperative sensitivity was evaluated one week after the restorative procedure, by applying an air stream from a dental syringe positioned 2 mm from the tooth surface and applied for 10s. These variables were ranked according to criteria Alpha, Bravo and Charlie.
+
+Statistical analysis
+
+The statistical analysis followed the intention-to-treat protocol, according to CONSORT’s suggestion [], which involved all teeth initially randomized, including those that were not evaluated at the specified time. These data related to dropout patients were replaced using the score of the last evaluation.
+
+Because USPHS criteria generate ordinal data and normal distribution could not be assumed, nonparametric tests were applied. For the primary outcome fracture and retention, the survival rates of different groups were calculated by the Kaplan–Meier. Statistical analysis was performed individually using the Kruskal-Wallis test for each parameter (marginal staining, marginal adaptation, postoperative sensitivity, recurrence of caries) and considering each period of evaluation. The differences between the ratings of the four groups after 6 years were tested by Friedman’s repeated measures analysis of variance rank. Differences in the ratings of groups at each assessment period were compared using the Wilcoxon signed rank test. In all statistical tests, the significance level was preset at 5% (R statistical language R Studio, version 3.4.4, R Studio Team, Boston, MA, USA).
+
+Results
+
+Characteristics of included participants
+
+Figureshows the CONSORT flowchart detailing the flow of participants throughout the study. Of a total of 128 subjects assessed for eligibility, 51 were not enrolled because they did not fulfill the inclusion criteria. Thus, a total of 77 participants were enrolled in this study. One hundred and forty restorations were placed, 35 for each group. All details relative to the research subjects and characteristics of the restored cavities were described in the previous publications [,].
+
+Fig. 1
+
+Flow diagram with details of study phases; 1.5 mm-C, NCCLs with OGD 1.5 mm restored with Filtek Z350 XT; 1.5 mm-B, NCCLs with OGD 1.5 mm restored with Filtek Bulk Fill Posterior; 3 mm-C, NCCLs with OGD 3 mm restored with Filtek Z350 XT; 3 mm-B, NCCLs with OGD 3 mm restored with Filtek Bulk Fill Posterior. NCCLs, noncarious cervical lesions; np, number of participants; nr, number of restorations; OGD, occlusogingival distance
+
+Three participants did not attend to recall at the 12-month evaluation, 2 participants, to the 18-month recall, 3 participants to the 24-month recall, 6 to the 30-month recall. In this recall (66 until 94-month), 19 participants did not attend giving an overall recall rate of 75.3%. Of these 19 participants lost to follow-up, 2 patients passed away, 11 patients dropped out, 6 patients could not be contacted despite our efforts to reach them through their contact numbers, as well as their registered addresses.
+
+The long-term evaluation originally planned for 6 years was completed over an extended interval (66–94 months) as a consequence of the COVID-19 pandemic. The mean follow-up time was similar among the groups: 1.5 mm-C (76.44 ± 5.6 months), 1.5 mm-B (76.04 ± 5.79 months), 3 mm-C (76.24 ± 5.75 months), and 3 mm-B (76.69 ± 5.57 months), with no statistically significant differences.
+
+All data until 30-month have been described previously [,]. Only the average follow-up period of 6 years data is described here.
+
+Retention/Fracture
+
+The survival rate of the restorations at the 6-year recall was 90,71%, considering as failures charlie scores for retention and fracture criteria. Thirteen restorations were lost after 6 years of clinical evaluation (5 for 1.5 mm-C; 3 for 1.5 mm-B; 3 for 3 mm-C; and 3 for 3 mm-B). The 6 years retention/fracture rates (95% CI) were 85.7% (74.1;97.3) for 1.5 mm-C; 91.4% (82.1;100) for 1.5 mm-B; 91.4% (82.1;100) for 3 mm-C; and 91.4% (82.1;100) for 3 mm-B. The Kaplan-Meier curves did not show any significant differences (Log-rank test,= 0.961) among the cumulative probability of fracture and retention (Fig.).
+
+Fig. 2
+
+Survival curves for all groups (1.5 mm-C, NCCLs with OGD 1.5 mm restored with Filtek Z350 XT; 1.5 mm-B, NCCLs with OGD 1.5 mm restored with Filtek Bulk Fill Posterior; 3 mm-C, NCCLs with OGD 3 mm restored with Filtek Z350 XT; 3 mm-B, NCCLs with OGD 3 mm restored with Filtek Bulk Fill Posterior. NCCLs, noncarious cervical lesions; OGD, occlusogingival distance)
+
+Marginal adaptation
+
+Based on the modified USPHS criteria, after this recall (66 until 94-month), 19 of the restorations (13.57%) were scored as bravo (3 for 1.5 mm-C, 4 for 1.5 mm-B, 6 for 3 mm-C, and 6 for 3 mm-B) showed some marginal discrepancy. The 1.5 mm-B, 3 mm-C and 3 mm-B groups shows an increase in marginal discoloration over time (< 0.01), while 1.5 mm-C group maintained the performance observed over 30 months of follow-up.
+
+Marginal staining
+
+Fifty-eight restorations (41.42%) at the 72-month follow-up showed minor marginal staining (9 for 1.5 mm-C, 14 for 1.5 mm-B, 19 for 3 mm-C, and 16 for 3 mm-B).
+
+When comparing the alpha to bravo scores over time (30-month data vs. the present recall), minor marginal staining was observed in 3 restorations of 1.5 mm-B group, 1 for 3 mm-C, 2 for 3 mm-B. No statistically significant differences were detected among the groups over the follow-up period (> 0.01).
+
+Surface texture
+
+Seventy-two restorations at the 6-year follow-up were scored as Bravo for surface texture (17 for 1.5 mm-C, 17 for 1.5 mm-B, 16 for 3 mm-C, and 22 for 3 mm-B). No significant differences were found among the groups at this recall (> 0.01). When comparing the 30-month and 6 years evaluation results, no significant difference was detected (> 0.01).
+
+Other parameters
+
+No restoration showed evidence of recurrence of caries, postoperative sensitivity, and alteration of anatomic form Thus, they rated as alpha according to the modified USPHS criteria, after 6-year follow-up.
+
+Discussion
+
+In the present study, restorations placed using the regular bulk-fill resin composite showed similar performance to those placed with the regular nanofilled resin composite, regardless of the OGD, after 6 years of clinical evaluation. This makes this study one of the most comprehensive evaluations to date. The retention rate observed was 85.7% for 1.5 mm-C and 91.4% for other groups. When the same two-step self-etch adhesives were applied in NCCL, after 24-months of clinical evaluation, the annual failure rate was 2.2% []. Distinctive results were found for this same follow-up period, Clearfil SE Bond showed 100% retention rates in NCCLs restorations []. Adhesives with a mild pH, such as Clearfil SE Bond, enhance interaction with dental tissues. The functional monomer as 10-methacryloyloxydecyl dihydrogen phosphate (10-MDP) presents in its composition enable the formation of a strong chemical bond with dental substrates and more stability in water than other monomers, even without additional mechanical retention, contributing to high retention rates []. It is important to emphasize that the high retention rate is also correlated to the favorable mechanical properties of the resin composites used. The regular bulk-fill has 76.5 wt% of inorganic fillers, whereas the regular nanofilled resin composite has 78.5 wt%.
+
+In line with these findings, prior studies employing nanofilled resin composites and the same adhesive system (Clearfil SE Bond) for the restoration of NCCLs demonstrate a good clinical effectiveness like those reported in the present study in a short- and long-term follow-ups periods [,–]. Peumans et al. [] reported a success rate of 86% after 13 years, while Van Meerbeek et al. [] found 100% of restorations were successful after 2 years.
+
+Considering these results, the possibility of working with bulk-fill resin composite may be simplify and expedite the restorative process in comparison to the layering technique, reducing chair time while addressing clinicians’ needs []. Studies showed up to 3.67 times faster when the restoration is performed with bulk-fill composite resin [,]. Additionally, the bulk-fill placement technique reduces the number of voids and air bubbles, pulpal gaps, and contamination between increments, making the procedure less prone to technical errors []. From a clinical point of view, the bulk-fill resin composite has shown excellent clinical performance in different cavities with follow-ups ranging from 1 to 10 years [,,–].
+
+At the 30-months of clinical evaluation, the marginal adaptation in all groups was statistically similar []. According to the manufacturer, the investigated regular bulk-fill resin composite presents monomers, such as an aromatic dimethacrylate (AUDMA) and additional fragmentation molecules (AFM), that allows the relaxation of the polymeric network, providing a potential stress relief and consequent decrease the polymerization shrinkage stress generated. Although this stress relief is related fewer marginal discrepancies and consequently decreases the risk of marginal staining compared to incremental resins [], this pattern was not observed in this study during the period evaluated.
+
+A randomized clinical study [] tested self-etching adhesives containing 10-MDP or 2-hydroxyethyl methacrylate (HEMA) in its formulations and showed that Clearfil SE Bond showed the lowest marginal degradation at the 2-year follow-up. In this case, the stable chemical bonding of 10-MDP with the high mineral content of the enamel at the margin of the NCCLs may have contributed to the increase the durability of marginal adaptation. However, for at 6-years follow-up, the 1.5 mm-B, 3 mm-C and 3 mm-B groups presented statistical differences. Clearfil SE Bond has other relevant functional monomers in its composition, such as HEMA, which is highly hydrophilic [–]. This may have assisted to the degradation of the restoration margins over time, justifying the results observed.
+
+Marginal staining was found in about 40% of the restorations after 6 years of clinical functioning, presenting statistical similarity with 30-months follow-up []. Marginal staining may occur due to the degradation of the adhesive systems, mainly for self-etching adhesives systems that contain HEMA or 10-MDP [,]. Even after the adhesive polymerization, HEMA monomer will still exhibit water absorption properties due to the methacrylate groups that remain unreacted [,]. In contrast, 10-MDP monomer forms strong bonds with calcium of the hydroxyapatite presents in enamel and dentin []. This interaction resulting in a salt, which do not dissolve easily and present high longevity, thus providing resistance and stability to the bonding interface even in an aqueous medium. The presence of both monomers in Clearfil Se Bond positively influence the clinical performance of the NCCLs restorations with respect to marginal staining. These marginal discrepancies are clinically acceptable, as they do not require further treatment and just can be addressed through refinishing and re-polishing of the restoration, indicating a very good clinical performance on NCCLs over time.
+
+In this clinical trial, selective enamel etching was not performed. Some studies showed that this step did not have a significant influence on overall clinical performance of the restorations [,–], although there is a minor positive effect on marginal integrity and absence of marginal discoloration [,,]. It is important also emphasized that these changes remain quite stable for medium-term clinical trials, until 5 years [,,].
+
+A previous studies showed that the occlusal forces and functional stress are different for type of tooth, thus influenced the longevity and clinical performance of restorative materials [,,]. In this clinical trial, only premolars were included, as they are more likely to present NCCLs compared to anterior teeth, allowing a more standardized the evaluation of factors, restorative material and OGD.
+
+Although lesion depth and overall geometry may influence stress distribution and restoration behavior, the present study focused exclusively on occlusogingival distance. Future studies incorporating three-dimensional lesion characteristics and finite element analyses may further elucidate their role in NCCL restoration longevity.
+
+It is also worth noting that these results were observed for patients committed to their oral health, who voluntarily chose to participate and to receive oral check-ups at each follow-up. Given that various factors that can influence the longevity of composite restorations, including patient-related risk factors, especially those associated with lifestyle and health choices []. Thus, in a different scenario like limited access to healthcare service or low patient commitment to oral care, more degradation events could be observed, possibly within a shorter follow-up period.
+
+A limitation of this study was the wide interval observed for the 6-year evaluation (66–94 months), mainly due to the COVID-19 pandemic. Although this heterogeneity may affect the uniformity of long-term assessments, the similar mean follow-up times among groups minimize the risk of systematic bias. Another limitation is that operator blinding was not possible due to the distinct handling characteristics and placement techniques required for the bulk-fill (single increment) versus the regular nanofilled resin composite (incremental technique). Considering the excellent results for the materials tested, it is not feasible to generalize these findings. While this follow-up results are promising, continued evaluation is necessary to fully understand the long-term clinical efficacy, durability of these restorations and the influence of the OGD in NCCLs.
+
+Conclusion
+
+The bulk-fill resin composite maintained high survival and acceptable marginal integrity over six years in NCCLs with different OGD, demonstrated similar performance of a regular nanofilled resin composite.
+
+Supplementary Information
+
+Below is the link to the electronic supplementary material.
+
+Supplementary Material 1
+
+Supplementary Material 2
