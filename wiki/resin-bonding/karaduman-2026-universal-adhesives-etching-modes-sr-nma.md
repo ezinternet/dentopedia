@@ -4,6 +4,8 @@ authors: Karaduman M, et al.
 year: 2026
 doi: 10.1186/s12903-026-08982-4
 pmid: 42321697
+source: karaduman-2026-universal-adhesives-etching-modes-sr-nma.md
+source_collection: pubmed-abstract
 pmc: PMC13527972
 category: resin-bonding
 tags: [universal-adhesive, etching-mode, self-etch, etch-and-rinse, dentin-bond-strength, network-meta-analysis, scotchbond-universal, g2-bond-universal, zipbond-universal, ageing]
