@@ -11,6 +11,16 @@ evidence_level: systematic-review-meta-analysis
 full_text: true
 ---
 
+## Three-line Summary
+SR+MA of 11 RCTs/CCTs (900 screened) on CHX dentin pretreatment (0.2–2%) and clinical performance of adhesive restorations, follow-up 1 week–4 years.
+CHX pretreatment showed no benefit over control for retention (RD=0.01), postoperative sensitivity (RD=0.01), or secondary caries (RD=0.00); all I²=0%.
+GRADE moderate for retention/sensitivity; in vitro MMP inhibition does not translate to clinical advantage with current etch-and-rinse adhesives.
+
+## 세줄요약
+레진 접착 수복물(Class I/II/V·NCCLs) 임상 성적에 대한 클로르헥시딘(CHX, 0.2–2%) 상아질 전처리 효과를 평가한 SR+MA (11 RCT/CCT, 900편 스크리닝, 추적 1주–4년).
+접착 유지율(RD=0.01)·술 후 과민증(RD=0.01)·이차우식(RD=0.00) 모두 대조군 대비 유의한 차이 없음(I²=0%); GRADE 중등도(유지율·과민증)–저(이차우식).
+시험관 내 기질금속단백분해효소(MMP) 억제 효과가 임상 이점으로 이어지지 않음; 고위험 우식군·항균 목적에서만 선택적 고려 가능.
+
 SR+MA on clinical effect of chlorhexidine (CHX) dentin pretreatment on adhesive restoration performance. Frontiers in Dental Medicine 2026; PROSPERO CRD420251165239. PubMed/Scopus/WoS/Cochrane searched September 2025.
 
 11 RCTs/CCTs included (900 screened); follow-up 1 week–4 years. CHX concentrations 0.2%–2%, application 15–60 s. Cavity types: Class I, II, V, NCCLs. Both primary (1 study) and permanent teeth. Adhesives: etch-and-rinse (most), self-etch, universal.
