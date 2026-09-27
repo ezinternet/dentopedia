@@ -15,6 +15,8 @@ source_url: https://pubmed.ncbi.nlm.nih.gov/39491445/
 
 The `drug/anticoagulants` hemostasis literature is dominated by synthetic agents (chitosan, TXA, Gelfoam); this is the first RCT in the wiki testing plant-derived tannin-based hemostatics (green tea tannin extract, methanolic extract, aqueous extract) against saline gauze in molar extractions, providing a natural-product datapoint for the hemostatic toolkit.
 
+— See: [[drug/anticoagulants/hamid-2024-green-tea-extracts-hemostatic-molar]]
+
 ## One-line Summary
 
 4-arm parallel RCT (n=64, healthy molar extractions) showing green tea tannin extract reduces hemostasis time from 61.56 min (saline gauze) to 5.62 min, with aqueous (8.44 min) and methanolic (7.50 min) extracts also dramatically superior (p<0.001).
