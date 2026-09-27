@@ -33,6 +33,11 @@ RCT (47명, 60개 IR-FDP, 60개월): 지르코니아 vs 섬유강화복합레진
 
 가장 보존적인 인레이 링(Inlay Ring, IR) 디자인도 피개형(LC·OC) 대비 열등하지 않음
 
+
+## Why Ingested
+
+Longest follow-up (5yr) RCT directly comparing zirconia vs FRC cantilever IRFDPs with three retainer designs; extends [[prosthetic-materials/kasem-2025-frc-vs-zirconia-cantilever-irfdp-36month]] (36-month data from the same trial) with additional survival events and material-specific failure mode characterization (catastrophic connector fractures for zirconia vs repairable deformation for FRC).
+
 ## 1. Document Information
 - **Title**: Five-year outcomes of zirconia and FRC cantilever inlay-retained FDPs with different retainer designs: RCT
 - **Authors**: Kasem AT, Tribst JPM, Abo-Madina M, Al-Zordk W
