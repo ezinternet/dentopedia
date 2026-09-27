@@ -4,6 +4,8 @@ authors: Liao H, Chen H, Huang T, Zhu S
 year: 2026
 doi: 10.1016/j.prosdent.2026.07.032
 pmid: 42642292
+source: liao-2026-collagen-crosslinkers-resin-dentin-interface-sr-ma.md
+source_collection: pubmed-abstract
 category: resin-bonding
 tags: [collagen-crosslinker, hybrid-layer, dentin-bond-strength, microtensile-bond-strength, aldehyde, riboflavin, proanthocyanidin, polyphenol, carbodiimide, chitosan, systematic-review, meta-analysis, in-vitro]
 evidence_level: sr+ma
