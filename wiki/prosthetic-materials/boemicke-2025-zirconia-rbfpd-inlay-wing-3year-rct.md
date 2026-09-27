@@ -4,6 +4,8 @@ authors: Bömicke W, Rathmann F, Rammelsberg P, Zenthöfer A
 year: 2025
 doi: 10.1016/j.jdent.2025.105807
 pmid: 40339895
+source: boemicke-2025-zirconia-rbfpd-inlay-wing-3year-rct.md
+source_collection: pubmed-abstract
 category: prosthetic-materials
 tags: [zirconia, rbfpd, resin-bonded-fdp, inlay-retained, wing-retained, rct, clinical-outcomes, minimally-invasive]
 evidence_level: rct
