@@ -71,6 +71,8 @@ In bruxist patients — typically excluded from NCCL trials — both GH and CR a
 
 First 60-month split-mouth RCT specifically conducted in bruxist NCCL patients comparing glass hybrid (GH, Equia Forte Fil) to nano-ceramic CR. Bruxism is typically an exclusion criterion in NCCL trials, making this study clinically highly relevant for real-world populations where parafunctional loading is common. Demonstrates that GH — despite being a simplified, self-adhesive material — achieves comparable long-term retention to CR under parafunctional stress.
 
+— See: [[resin-bonding/koc-vural-2024-glass-hybrid-composite-bruxist-nccl-60m]]
+
 ## Limitations
 
 - Bruxism diagnosed by clinical signs only (no polysomnography); bruxism severity varies
