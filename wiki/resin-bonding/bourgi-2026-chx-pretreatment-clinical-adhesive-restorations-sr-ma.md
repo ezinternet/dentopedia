@@ -4,6 +4,8 @@ authors: Bourgi R, et al.
 year: 2026
 doi: 10.3389/fdmed.2026.1746184
 pmid: 41878562
+source: bourgi-2026-chx-pretreatment-clinical-adhesive-restorations-sr-ma.md
+source_collection: pubmed-abstract
 pmc: PMC13006674
 category: resin-bonding
 tags: [chlorhexidine, chx, mmp-inhibition, hybrid-layer, dentin-bond-durability, clinical-trial, restoration-retention, systematic-review, meta-analysis]
