@@ -7,7 +7,7 @@ doi: 10.1177/00220345261423834
 source: kamath-2026-ddr2-tooth-extraction-socket-healing.md
 category: [bone-regeneration/ridge-preservation]
 evidence_level: animal
-source_collection: pubmed-text
+source_collection: pubmed-abstract
 tags: [DDR2, discoidin-domain-receptor, extraction-socket, bone-healing, molecular-mechanism, collagen, skeletal-progenitor-cells, GLI1, lineage-tracing, receptor-tyrosine-kinase, alveolar-bone]
 relations:
   - type: extends
