@@ -34,3 +34,8 @@ Key findings:
 High risk of bias in most studies (lack of blinding, inadequate sample size, failure to simulate clinical conditions).
 
 GRADE/evidence quality: low. Recommendation: pretreat sclerotic NCCL dentin with prolonged 37% phosphoric acid (alone or combined with mechanical roughening) to enhance composite bond strength — but evidence base is weak. Further high-quality research needed, including laser pretreatments and clinically simulated conditions.
+
+
+## Why Ingested
+
+Sclerotic dentin in NCCLs represents a clinically distinct bonding substrate where standard adhesive protocols may underperform; this is the first SR specifically mapping surface pretreatment strategies (EDTA, NaOCl, prolonged phosphoric acid, sandblasting) for this substrate. Directly complements [[resin-bonding/assis-2023-acid-etching-universal-adhesive-nccl-sr-ma]], which evaluated etching modes in NCCLs without distinguishing sclerotic vs normal dentin.
