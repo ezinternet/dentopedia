@@ -29,6 +29,11 @@ Recommendation: 3Y-TZP/5Y-PSZ multilayer zirconia suitable for clinical trials; 
 
 임상 추천: 3Y-TZP/5Y-PSZ 다층형은 임상시험 권장 가능; 5Y-PSZ 단독은 RBFPD 적응증에서 신중히 사용
 
+
+## Why Ingested
+
+First in vitro study comparing multilayer zirconia grades (3Y-TZP/5Y-PSZ gradient vs 5Y-PSZ monolith) and retainer designs (WR vs IR) for posterior RBFPD; provides the preclinical mechanical rationale — complementing the 3-year clinical RCT from the same group [[prosthetic-materials/boemicke-2025-zirconia-rbfpd-inlay-wing-3year-rct]] — for choosing multilayer zirconia over homogeneous 5Y-PSZ in RBFPD fabrication.
+
 ## 1. Document Information
 - **Title**: Influence of multilayer zirconia materials on in vitro load-bearing capacity of posterior RBFPDs
 - **Authors**: Waldecker M, Heller MS, Rues S, Rammelsberg P, Bömicke W
