@@ -45,3 +45,8 @@ E-R mode after ageing (mean 34.69 MPa): ZU best (4.21%); CUBQ worst (94.17%), IB
 - No statistical inconsistency invalidating main comparisons
 
 GRADE: mostly high confidence (direct comparisons); moderate/low where incoherence detected (E-R before ageing, S-E after ageing). Negligible publication bias across all networks.
+
+
+## Why Ingested
+
+The most comprehensive NMA to date (82 studies, 22 adhesives in SE / 18 in ER mode) establishing a comparative ranking of universal adhesives by dentin bond strength before and after artificial ageing, using Scotchbond Universal as a common reference. Supersedes single-mode pairwise SRs in the wiki such as [[resin-bonding/hong-2021-universal-adhesive-etching-modes-sr-ma]] by providing simultaneous ranking across both modes and quantifying which adhesives degrade significantly after ageing.
