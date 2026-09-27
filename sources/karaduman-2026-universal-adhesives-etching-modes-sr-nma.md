@@ -11,6 +11,16 @@ evidence_level: systematic-review-meta-analysis
 full_text: true
 ---
 
+## Three-line Summary
+NMA of 82 in vitro studies (1677 screened) comparing 22–18 universal adhesives by S-E and E-R mode dentin bond strength vs Scotchbond Universal (SBU) reference, before and after artificial ageing.
+G2BU (two-step) ranked best in S-E mode; ZU ranked best in E-R mode both pre- and post-ageing; GPB and FU were consistently lowest-ranked; CUBQ/IBU showed marked bond deterioration after ageing in E-R.
+Most adhesives are clinically comparable to SBU; adhesive strategy and formulation outweigh individual functional monomer presence; GRADE mostly high confidence.
+
+## 세줄요약
+82편(1677편 스크리닝)의 NMA — 범용 접착제(Universal Adhesive) 22종(SE)·18종(ER)을 스코치본드 유니버설(SBU) 기준으로 노화 전후 상아질 결합강도 비교.
+자가산부식(SE) 최우수: G2BU(2단계, 프라이머+접착제); 전산부식(ER) 최우수: ZU — 노화 전후 모두; GPB·FU는 모드 무관 최하위; CUBQ·IBU는 ER 노화 후 결합강도 유의 저하.
+대부분의 접착제는 제조사 지시 준수 시 SBU와 동등; 특정 기능성 단량체 존재보다 접착 전략·제형이 결합강도를 좌우; GRADE 대체로 고신뢰.
+
 Systematic review and network meta-analysis comparing bond strength of universal adhesives (UAs) to dentin in S-E and E-R modes. PubMed/Scopus/WoS searched November 2025; PROSPERO CRD420261279711. Control adhesive: Scotchbond Universal (SBU).
 
 82 studies included (from 1677 screened, 2013–2025). 22 adhesives in S-E, 18 in E-R networks. Microtensile bond strength in 70.3% of studies; shear/microshear in 30%. Outcome: bond strength (MPa) at 24 h/1 week (before ageing) and after artificial ageing.
