@@ -28,6 +28,11 @@ SR+MA (66편, 2008-2025): 지르코니아 단관(Single Crown, SC) 생존율 92.
 
 근거 확실성(GRADE): 매우 낮음 — 방향성 신호로만 해석
 
+
+## Why Ingested
+
+Most recent and comprehensive SR+MA (66 studies, 2008–2025) covering survival and complications across all zirconia restoration types (SC, IRFPD, CFPD) in natural teeth; updates [[prosthetic-materials/laumbacher-2021-zirconia-prosthetic-restorations-long-term-sr]] with five additional years of literature and adds quantitative benchmarks for APA+MDP surface treatment protocols that are now standard in the wiki's prosthetic-materials category.
+
 ## 1. Document Information
 - **Title**: Clinical outcomes of zirconia dental restorations: A systematic review and meta-analysis
 - **Authors**: Ma Y, Xuan Y, Cheng W, Zhang S, Fu B
