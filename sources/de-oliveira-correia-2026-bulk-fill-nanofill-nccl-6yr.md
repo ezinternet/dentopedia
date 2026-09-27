@@ -22,6 +22,11 @@ Randomized double-blind RCT (n=77, 140 NCCLs, 6yr) comparing bulk-fill (Filtek B
 
 ---
 
+
+## Why Ingested
+
+First 6-year RCT evaluating bulk-fill vs nanofill specifically in NCCLs stratified by lesion size (occlusogingival distance); demonstrates bulk-fill composite can simplify NCCL restorations without compromising longevity. Adds the longest follow-up for bulk-fill in NCCLs alongside [[resin-bonding/de-oliveira-correia-2026-bulk-fill-nanofill-nccl-6yr]] and contextualizes findings against shorter-term NCCL trials already in the wiki.
+
 ## Study Design
 
 - **Design**: Randomized, parallel, double-blind clinical trial
