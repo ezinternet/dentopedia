@@ -4,6 +4,8 @@ authors: Kasem AT, Tribst JPM, Abo-Madina M, Al-Zordk W
 year: 2026
 doi: 10.1016/j.jdent.2026.106877
 pmid: 42392351
+source: kasem-2026-zirconia-frc-inlay-retained-fdp-5year-rct.md
+source_collection: pubmed-abstract
 category: prosthetic-materials
 tags: [zirconia, frc, inlay-retained-fdp, cantilever, rct, 5-year, clinical-outcomes]
 evidence_level: rct
