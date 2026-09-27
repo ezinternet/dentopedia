@@ -4,6 +4,8 @@ authors: Ma Y, Xuan Y, Cheng W, Zhang S, Fu B
 year: 2026
 doi: 10.1016/j.jdent.2026.106974
 pmid: 42575241
+source: ma-2026-clinical-outcomes-zirconia-restorations-sr-ma.md
+source_collection: pubmed-abstract
 category: prosthetic-materials
 tags: [zirconia, systematic-review, meta-analysis, clinical-outcomes, inlay-retained-fdp, single-crown, survival-rate]
 evidence_level: sr+ma
