@@ -8,13 +8,26 @@ pmid: "41140885"
 pmcid: "PMC12553043"
 source: agrawal-2025-efficacy-chitosan-dressing-antiplatelet.md
 category: [drug/anticoagulants]
-confidence: rct
-source_collection: pmc-fulltext
+evidence_level: rct
+source_collection: pubmed-abstract
 tags: []
 relations:
   - type: extends
     target: guardieiro-2023-chitosan-cellulose-hemostasis-dapt-rct
 ---
+
+## Three-line Summary
+
+Prospective split-mouth RCT (n=100 antiplatelet patients, 71% SAPT/29% DAPT) comparing chitosan hemostatic sponge vs cotton gauze after dental extraction without drug discontinuation.
+Chitosan achieved hemostasis in median 0.67 min vs 4.5 min for gauze (p<0.001); 100% sockets hemostatic by 3 min vs only 11% for gauze; lower VAS pain and higher Landry healing index at day 7.
+Chitosan activates platelets via TLR2 pathway even under antiplatelet pharmacology; dry socket rate not significantly different (1% vs 3%); supports use without antiplatelet discontinuation.
+
+## 세줄요약
+
+항혈소판제 중단 없이 발치를 시행한 환자(n=100, SAPT 71%/DAPT 29%) split-mouth RCT — 키토산 지혈 스폰지 vs 거즈 비교.
+키토산 중앙값 0.67분 vs 거즈 4.5분(p<0.001); 3분 내 지혈 100% vs 11%; 7일째 VAS 통증 및 Landry 치유지수도 키토산군 유의하게 우수.
+키토산은 TLR2 경로로 항혈소판 약물 하에서도 혈소판 활성화 — 건조 소켓률 차이 없어 안전하고 항혈소판제 중단 없이 사용 가능.
+
 
 ## One-line Summary
 
