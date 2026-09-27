@@ -2,7 +2,7 @@
 title: "골재생·치조제보존 — ridge-preservation"
 authors: navigation
 year: 2026
-date: 2026-09-23
+date: 2026-09-27
 doi: N/A
 source: navigation
 category: bone-regeneration/ridge-preservation
