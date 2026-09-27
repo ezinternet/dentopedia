@@ -2,7 +2,7 @@
 title: "레진접착 — resin-bonding"
 authors: navigation
 year: 2026
-date: 2026-09-25
+date: 2026-09-27
 doi: N/A
 source: navigation
 category: resin-bonding
