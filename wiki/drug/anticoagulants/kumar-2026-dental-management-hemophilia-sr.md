@@ -8,8 +8,8 @@ pmid: "41618283"
 pmcid: "PMC12930792"
 source: kumar-2026-dental-management-hemophilia-sr.md
 category: [drug/anticoagulants]
-confidence: sr
-source_collection: pmc-fulltext
+evidence_level: sr
+source_collection: pubmed-abstract
 full_text: true
 tags: [hemophilia, tranexamic-acid, antifibrinolytic, factor-replacement, dental-extraction, oral-surgery, bleeding-disorder, anesthesia-safety, systematic-review]
 relations:
@@ -18,6 +18,19 @@ relations:
   - type: extends
     target: mohamed-rohani-2025-hematological-disorders-bleeding-tendency-dental
 ---
+
+## Three-line Summary
+
+SR of 23 studies (inception–March 2025) on evidence-based dental management for congenital hemophilia (A, B, C) covering anesthesia, extractions, restorations, periodontics, and implants.
+TXA/EACA antifibrinolytics significantly reduce factor infusion requirements; 30–50% factor correction is standard pre-operatively; infiltration anesthesia safe without factor coverage, nerve blocks require factor correction.
+Local hemostatic agents combined with factor replacement enable safe outpatient dental procedures; implant placement feasible with hematologist co-management.
+
+## 세줄요약
+
+선천성 혈우병(A·B·C형) 환자의 치과 치료(마취·발치·수복·치주·임플란트) 근거 기반 관리 전략 SR (23편, 창간–2025년 3월).
+트라넥삼산(TXA)/EACA 항섬유소용해제는 응고인자 투여 요구량 유의하게 감소; 술전 30–50% 인자 보정 표준; 침윤마취는 보정 없이 안전, 신경차단마취는 보정 필요.
+국소 지혈제 + 인자 보충 병용 시 외래 치과 시술 안전; 임플란트는 혈액내과 협진 하에 가능.
+
 
 ## One-line Summary
 
