@@ -8,13 +8,26 @@ pmid: "40090379"
 pmcid: "PMC12061772"
 source: singh-jolly-2025-chitosan-dressing-deranged-coagulation.md
 category: [drug/anticoagulants]
-confidence: rct
-source_collection: pmc-fulltext
+evidence_level: rct
+source_collection: pubmed-abstract
 tags: []
 relations:
   - type: extends
     target: agrawal-2025-efficacy-chitosan-dressing-antiplatelet
 ---
+
+## Three-line Summary
+
+Prospective split-mouth RCT (n=102 patients with deranged coagulation — INR 1.5–4, liver cirrhosis, thrombocytopenic purpura; 204 sockets) comparing chitosan dressing vs gauze after dental extraction without medication alteration.
+Chitosan achieved hemostasis in 83.1% of sockets within 10 min vs 18.8% for gauze; mean hemostasis times 15.10 min vs 45.20 min (p<0.001); largest chitosan dataset in a mixed coagulopathy population.
+Results extend chitosan evidence to genuinely compromised hemostasis beyond antiplatelet patients; within-subject design eliminates inter-individual coagulation variability; no medication discontinuation required.
+
+## 세줄요약
+
+응고 이상 환자(INR 1.5–4·간경변·혈소판감소 자반증, n=102, 204 소켓) split-mouth RCT — 약물 유지 하에 키토산 드레싱 vs 거즈 압박 비교.
+10분 내 지혈: 키토산 83.1% vs 거즈 18.8%; 평균 지혈 시간 15.10분 vs 45.20분(p<0.001); 복합 응고병증 군 최대 키토산 데이터셋.
+항혈소판제 환자를 넘어 실제 응고 장애 환자에 키토산 근거 확장 — 피험자 내 설계로 개인 간 편차 제거; 약물 중단 불필요.
+
 
 ## One-line Summary
 
