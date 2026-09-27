@@ -4,7 +4,7 @@ authors: "Kamath RA et al."
 year: 2026
 doi: 10.1177/00220345261423834
 category: [bone-regeneration/ridge-preservation]
-source_collection: pubmed-text
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested
