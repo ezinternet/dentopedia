@@ -41,7 +41,7 @@ relations:
 
 ## Three-line Summary
 
-Synthesis of 3 papers (1 SR+MA, 2 SRs): zirconia implants achieve high medium-to-long-term survival (Mohseni 2024 SR+MA, 25 studies / 4,017 implants: 10-yr CSR 95.1%; MBL ~0.005 mm/month), with high patient-reported satisfaction in aesthetics, comfort, and chewing (Arefnia 2025 SR, 12 controlled studies), on par with titanium.
+Synthesis of 8 papers (1 SR+MA, 3 SRs, 2 retrospective, 2 RCTs): zirconia implants achieve high medium-to-long-term survival (Mohseni 2024 SR+MA, 25 studies / 4,017 implants: 10-yr CSR 95.1%; MBL ~0.005 mm/month), with high patient-reported satisfaction in aesthetics, comfort, and chewing (Arefnia 2025 SR, 12 controlled studies), on par with titanium.
 
 The residual failure signal concentrates in four modifiable design/execution levers: two-piece design (worse survival, p=0.017), narrow diameter (fracture risk), chairside drill preparation of the coronal part (worse survival, p<0.001), and discontinued/early-generation products — the ceramic material itself is not the limiting factor.
 
@@ -49,7 +49,7 @@ Arch location (maxilla vs mandible) does not significantly affect survival (p=0.
 
 ## 세줄요약
 
-3편 종합(SR+MA 1·SR 2): 지르코니아 임플란트는 중장기 생존율 높음(Mohseni 2024 SR+MA, 25편/4,017개: 10년 누적 95.1%; MBL ~0.005 mm/월), 환자보고결과(PROMs)에서 심미·편안함·저작 유의 향상(Arefnia 2025 SR, 12편), 티타늄과 동등 수준.
+8편 종합(SR+MA 1·SR 3·후향적 2·RCT 2): 지르코니아 임플란트는 중장기 생존율 높음(Mohseni 2024 SR+MA, 25편/4,017개: 10년 누적 95.1%; MBL ~0.005 mm/월), 환자보고결과(PROMs)에서 심미·편안함·저작 유의 향상(Arefnia 2025 SR, 12편), 티타늄과 동등 수준.
 
 잔여 실패 신호는 4가지 수정 가능한 설계·시공 레버에 집중: 2-piece 설계(p=0.017), 협폭경(파절), 의자측 드릴 가공 관상부(p<0.001), 단종·초기세대 제품 — 세라믹 재료 자체가 아닌 설계·시공 문제.
 
