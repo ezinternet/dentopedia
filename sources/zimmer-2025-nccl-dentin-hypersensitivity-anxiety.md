@@ -50,6 +50,8 @@ Cross-sectional study (n=157, age 18–45 yr) found 상아질 과민증 (Dentin 
 
 First study to link anxiety (Beck Anxiety Inventory) to both DH and NCCL prevalence in a clinical sample. Provides novel psychological risk factor angle for NCCL/DH etiology discussion. High prevalence figures (84.7% DH, 49.7% NCCL) in young adults (18–45 yr) serve as epidemiological reference values.
 
+— See: [[nccl/zimmer-2025-nccl-dentin-hypersensitivity-anxiety]]
+
 ## Limitations
 
 - Cross-sectional design: cannot establish causality
