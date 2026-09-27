@@ -8,13 +8,26 @@ pmid: "40656255"
 pmcid: "PMC12247149"
 source: patil-2025-comparative-evaluation-local-hemostatic.md
 category: [drug/anticoagulants]
-confidence: rct
-source_collection: pmc-fulltext
+evidence_level: rct
+source_collection: pubmed-abstract
 tags: []
 relations:
   - type: extends
     target: guardieiro-2023-chitosan-cellulose-hemostasis-dapt-rct
 ---
+
+## Three-line Summary
+
+5-arm parallel-group RCT (n=60 healthy patients, molar extractions) comparing Botroclot (hemocoagulase), chitosan, adrenaline, TXA, and saline gauze as local hemostatic agents under identical conditions.
+Botroclot was fastest (0.87 min), followed by TXA (0.93 min) and chitosan (1.13 min), all significantly faster than gauze (1.80 min; p=0.001); adrenaline showed vasoconstrictive time-dependence but was not significantly different from gauze.
+Chitosan and Botroclot showed mechanism-independent speed (no correlation with baseline bleeding time); first head-to-head 5-arm comparison establishes relative hemostasis speed hierarchy.
+
+## 세줄요약
+
+건강한 환자 대구치 발치(n=60) 5군 병렬 RCT — 보트로클롯·키토산·아드레날린·TXA·거즈 5개 지혈제 직접 비교.
+보트로클롯(0.87분) > TXA(0.93분) > 키토산(1.13분) 순으로 모두 거즈(1.80분) 대비 유의하게 빠름(p=0.001); 아드레날린은 거즈와 유의차 없고 혈관수축 효과는 시간 의존적.
+키토산·보트로클롯은 기저 출혈 시간과 무관한 속도(기전 독립적) — 건강한 환자 기준 지혈 속도 서열 첫 5군 직접 비교.
+
 
 ## One-line Summary
 
