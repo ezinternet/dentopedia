@@ -4,6 +4,8 @@ authors: Waldecker M, Heller MS, Rues S, Rammelsberg P, Bömicke W
 year: 2026
 doi: 10.1111/jerd.70191
 pmid: 42141931
+source: waldecker-2026-multilayer-zirconia-rbfpd-load-bearing.md
+source_collection: pubmed-abstract
 pmc: PMC13471761
 category: prosthetic-materials
 tags: [zirconia, multilayer-zirconia, rbfpd, inlay-retained, wing-retained, in-vitro, load-bearing, 3y-tzp, 5y-psz]
