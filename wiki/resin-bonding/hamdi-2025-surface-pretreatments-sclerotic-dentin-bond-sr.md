@@ -4,6 +4,8 @@ authors: Hamdi K, Zaeneldin A, Samaha AH, Hamama HH
 year: 2025
 doi: 10.1016/j.jdent.2025.106123
 pmid: 40987393
+source: hamdi-2025-surface-pretreatments-sclerotic-dentin-bond-sr.md
+source_collection: pubmed-abstract
 category: resin-bonding
 tags: [sclerotic-dentin, nccl, non-carious-cervical-lesion, surface-pretreatment, phosphoric-acid, dentin-bond-strength, edta, sodium-hypochlorite, sandblasting, systematic-review, in-vitro]
 evidence_level: sr+ma
