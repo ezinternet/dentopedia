@@ -11,6 +11,16 @@ full_text: true
 source_url: https://pubmed.ncbi.nlm.nih.gov/39112998/
 ---
 
+## Three-line Summary
+Triple-blind split-mouth RCT (n=30 warfarin patients, INR 2.0–3.5) comparing TXA 4.8%-soaked Gelfoam vs saline-soaked Gelfoam placed in extraction socket without anticoagulant modification.
+TXA-Gelfoam significantly reduced VAS pain from day 3 (p=0.005) through day 14 (p<0.001) and accelerated socket healing (higher Landry index at days 7 and 14); hemostasis time was not significantly different between groups.
+Results support TXA local delivery via Gelfoam scaffold as a pain-reduction and healing-acceleration strategy in anticoagulated patients; no rebleeding or dry socket in either group.
+
+## 세줄요약
+와파린 복용 환자(INR 2.0–3.5, n=30) triple-blind split-mouth RCT — 항응고제 유지 하에 TXA 4.8% 적신 Gelfoam vs 생리식염수 Gelfoam 소켓 내 거치 비교.
+TXA 군에서 3일째부터(p=0.005) 14일까지(p<0.001) VAS 통증 유의하게 낮고 7·14일째 Landry 치유지수 유의하게 높음; 지혈 시간은 양 군 차이 없음.
+소켓 내 TXA-Gelfoam 전달은 지혈 이상의 효과(통증 감소·치유 가속)를 제공 — 재출혈·건조 소켓 없어 안전; 와파린 중단 불필요.
+
 ## Why Ingested
 
 [[drug/anticoagulants/bergo-2026-tranexamic-acid-anticoagulants-oral-surgery]] covers TXA mouthwash formulations in anticoagulated patients broadly; this study adds a critical surgical-socket delivery format — TXA pre-soaked into Gelfoam placed directly in the socket — tested in a triple-blind split-mouth design specifically in warfarin patients (INR 2.0–3.5), providing head-to-head socket-level pain and healing data absent from rinse-protocol studies.
