@@ -4,7 +4,7 @@ authors: "Mun AY et al."
 year: 2024
 doi: 10.1093/jbmrpl/ziae085
 category: [bone-regeneration/ridge-preservation]
-source_collection: pubmed-text
+source_collection: pubmed-abstract
 ---
 
 ## Why Ingested
