@@ -35,7 +35,7 @@ source: synthesis
 
 ## Three-line Summary
 
-Synthesis of 5 papers on perioperative hypertension in dental/oral surgery: baseline blood pressure (BP) status is the dominant intraoperative hemodynamic determinant (Perozo 2026, eta²=0.33) — hypertensives run ~30 mmHg higher SBP throughout with 7-fold hemorrhage (66.7% vs 9.5%) — yet stable controlled hypertension does not raise long-term implant failure (Hamadé 2024 SR+MA, OR 1.100, NS).
+Synthesis of 8 papers (1 SR+MA, 1 prospective, 5 retrospective, 1 cross-sectional) on perioperative hypertension in dental/oral surgery: baseline blood pressure (BP) status is the dominant intraoperative hemodynamic determinant (Perozo 2026, eta²=0.33) — hypertensives run ~30 mmHg higher SBP throughout with 7-fold hemorrhage (66.7% vs 9.5%) — yet stable controlled hypertension does not raise long-term implant failure (Hamadé 2024 SR+MA, OR 1.100, NS).
 
 Practical triage cutoffs: preoperative SBP ≥159 mmHg predicts need for intraoperative antihypertensive drugs (Yang 2025, n=2,059, AUC 0.91, sensitivity 84%, specificity 89%); defer at ≥180/110 mmHg; transient new ECG abnormalities occur in 37.2% of hypertensive extractions (all non-lethal, 2/2,059 aborted).
 
@@ -43,7 +43,7 @@ Implant + bone-augmentation surgery triggers perioperative hypertension in 26.77
 
 ## 세줄요약
 
-치과 구강수술 주술기 고혈압 5편 종합 — 기저 고혈압(Hypertension) 상태가 수술 중 혈역학 변동의 최대 결정인자(Perozo 2026, eta²=0.33); 고혈압군은 수축기혈압(Systolic Blood Pressure, SBP)이 ~30 mmHg 높고 출혈 7배(66.7% vs 9.5%)이나, 조절된 고혈압의 장기 임플란트 실패 위험은 정상혈압과 동등(Hamadé 2024 SR+MA, OR 1.100, NS).
+치과 구강수술 주술기 고혈압 8편 종합(SR+MA 1·전향적 1·후향적 5·단면 1) — 기저 고혈압(Hypertension) 상태가 수술 중 혈역학 변동의 최대 결정인자(Perozo 2026, eta²=0.33); 고혈압군은 수축기혈압(Systolic Blood Pressure, SBP)이 ~30 mmHg 높고 출혈 7배(66.7% vs 9.5%)이나, 조절된 고혈압의 장기 임플란트 실패 위험은 정상혈압과 동등(Hamadé 2024 SR+MA, OR 1.100, NS).
 
 실용 트리아지 컷오프: 술전 SBP ≥159 mmHg → 수술 중 혈압강하제 필요 예측(Yang 2025, AUC 0.91, 민감도 84%·특이도 89%); 일과성 신규 심전도(Electrocardiogram, ECG) 이상 37.2%(전부 비치명적); 연기 임계값 ≥180/110 mmHg.
 
