@@ -7,7 +7,7 @@ doi: 10.1093/jbmrpl/ziae085
 source: mun-2024-macrophage-msc-tnf-tooth-extraction.md
 category: [bone-regeneration/ridge-preservation]
 evidence_level: animal
-source_collection: pubmed-text
+source_collection: pubmed-abstract
 tags: [macrophage, MSC, TNF-alpha, extraction-socket, bone-healing, inflammation, immunology, RNA-seq, clodronate, osteogenic-differentiation]
 relations:
   - type: extends
