@@ -1,0 +1,556 @@
+Efficacy of topical tranexamic acid soaked absorbable gelfoam in relieving post-extraction pain in warfarin patients: a randomized, triple-blinded, split-mouth, active-controlled clinical trial
+
+Authors: Kaddah M, Alkhouri I, Karkoutly M
+Journal: BMC Oral Health 2024;24(1):905
+DOI: 10.1186/s12903-024-04694-9 | PMID: 39112998 | PMCID: PMC11305017
+Source: PubMed Central full text, retrieved via PubMed MCP (get_full_text_article).
+
+Background
+
+Dental extraction is one of the most common procedures in dental practice. However, the dental extraction process is not without complications, such as pain, inflammation, and infection, which the dentist is responsible for avoiding [,]. Pain following an extraction is the most common complication due to trauma to the bone and surrounding structures, which in turn affects the patient’s quality of life (QoL), especially in the first days following the extraction. Therefore, it is mandatory to look for factors that help relieve pain and improve the patient’s QoL in the post-extraction period [,]. Blood clot formation is crucial for wound healing because it evokes the requested immune response for physiological bony healing. If the blood clot is dislodged, healing may be delayed and extremely painful, especially in the first hours after the extraction []. Gelatin-based hemostatic agents were first introduced as Gelfoam(Pfizer, USA) in 1945, which achieved excellent clot formation []. Tranexamic acid (TXA) is one of the most famous antifibrinolytic agents, as it works to prevent the conversion of plasminogen into plasmin by inhibiting tissue-type plasminogen activator (tPA), which leads to the prevention of fibrinolysis. Thus, a more stable blood clot is formed that fills the alveolar cavity []. Topical application of tranexamic acid can inhibit local fibrinolysis at the extraction site with minimal systemic effects since there is less systemic absorption after topical application [,]. Topical TXA, commonly used as a 4.8% mouthwash in patients on warfarin, effectively preserves blood clotting post-tooth extraction. However, its application necessitates patient compliance due to multiple daily uses over several days, compounded by delayed onset of action, impacting immediate post-operative care []. Previous studies underscore its efficacy but highlight significant challenges. Carter and Goss [] noted stringent patient adherence as crucial for effectiveness, posing practical difficulties. Additionally, Al-Mubarak et al. [] identified delayed onset of action as a drawback affecting immediate hemostatic management post-extraction. These studies reveal practical limitations despite their benefits. To address compliance and timing issues associated with TXA mouthwash, we introduced TXA-soaked absorbable Gelfoam (TXA-Gel). This application bypasses patient cooperation, immediately enhancing treatment efficacy post-tooth extraction. Placing TXA-Gel directly at the extraction site ensures prompt and effective delivery of the hemostatic agent, optimizing immediate post-operative management without requiring repeated patient intervention.
+
+Warfarin is an anticoagulant drug that is used as treatment and prophylaxis of thromboembolic events. Warfarin patients who need dental extraction face the problem of bleeding, which may be difficult to control, and no sufficient hemostasis results in dry socket and postoperative pain []. Patients undergoing treatment with anticoagulants such as warfarin after tooth extraction face complications such as bleeding, dry socket, pain, and delayed healing if effective local hemostatic agents are not applied []. The hours following tooth extraction are extremely important because any dislodge of the blood clot may contribute to significantly delaying healing and may be extremely painful, which is common in patients taking warfarin []. This dislodge of the blood clot is considered one of the most important causes of dry socket following tooth extraction []. It can be overcome by applying an effective local hemostatic agent such as tranexamic acid, which is considered one of the most famous antifibrinolytic agents that works to prevent the conversion of plasminogen to plasmin by inhibiting tissue plasminogen activator (tPA), which in turn leads to preventing fibrinolysis [], which it contributes to controlling bleeding and at the same time can form a stable blood clot, which reflects positively on reducing the incidence of dry socket, which is considered one of the most important causes of pain []. This study aimed to evaluate and compare the efficacy of the topical application of TXA-Gel and saline-soaked absorbable Gelfoam (saline-Gel) in relieving postoperative pain following simple extraction of permanent mandibular molars in warfarin patients. The null hypothesis was that no statistically significant difference would be noted in the efficacy of the topical application TXA-Gel and saline-Gel in relieving postoperative pain following bilateral simple extraction of permanent mandibular molars in warfarin patients.
+
+Materials and methods
+
+Study design and ethical considerations
+
+This was a randomized, triple-blinded, split-mouth, active-controlled clinical trial, which was conducted in full accordance with the Declaration of Helsinki [] and CONSORT statement []. It was performed at the Department of Oral and Maxillofacial Surgery, Faculty of Dentistry, Damascus University, between November 2021 and October 2023. Ethical approval was provided by the Biomedical Research Ethics Committee (N4041) and was retrospectively registered and approved by the ISRCTN registry (ISRCTN71901901) on 29/12/2023. The treatment plan was clarified in detail, and participation was confidential and optional. Patients signed written informed consent before enrollment.
+
+Sample size calculation
+
+Sample size calculation was performed using G*Power version 3.1.9.4 (G*Power 3.1.9, Heinrich Hein Universität Düsseldorf, Düsseldorf, Germany). A sample size of= 60 achieved a medium effect size f (0.36), 80% Power (1 - β err prob), and a significance level of 0.05. A pilot study on 10 samples was conducted to calculate the effect size.
+
+Eligibility criteria and sampling
+
+The inclusion criteria were as follows:
+
+Patients taking warfarin.
+
+International Normalized Ratio (INR) ranges between 2.0 and 3.5.
+
+Patients aged 45–70 years.
+
+Patients requiring bilateral simple extraction of permanent mandibular molars.
+
+Patients with unrestorable permanent mandibular molars.
+
+Severely damaged teeth that are not restorable and not accompanied by periapical lesions.
+
+Periodontal tissue disorders associated with severe tooth mobility.
+
+The exclusion criteria were as follows:
+
+Smoking patients.
+
+Patients with coagulopathies.
+
+Patients with uncontrolled diabetes mellitus.
+
+Patients are allergic to any anesthetic agent.
+
+Patients with temporomandibular joint disorders.
+
+Patients with permanent mandibular molars associated with periapical lesions, including dental granulomas, periradicular cysts, or abscesses.
+
+Patients refused to participate.
+
+The CONSORT flow diagram is illustrated in Fig.. 35 patients who were referred to the Department of Oral and Maxillofacial Surgery were assessed for eligibility by a surgeon. Patients were randomly assigned into two groups according to the topical hemostatic agents after extraction used:
+
+Fig. 1
+
+CONSORT flow diagram
+
+Group 1: control group, Gelfoam sponge (SURGISPON, Aegis Lifesciences, Gujarat, India) soaked in sterile saline solution (SODIUM CHLORIDE 0.9% MIAMED, Miamed Pharmaceutical Industry, Damascus, Syria) (saline-Gel) (= 30).
+
+Group 2: TXA-Gel (Trenekop, Kopran Ltd, Haryana, India) (= 30).
+
+The study employed a controlled clinical trial utilizing a split-mouth design. The sample was divided into two groups: the Study Group, where tooth extractions were performed with the application of TXA-Gel, and the Control Group, where tooth extractions were performed on the same patients using saline-Gel. Before extraction, the selection of the dental socket for the application of TXA-Gel was randomized. All extractions were conducted bilaterally during a single session by the same surgeon. The split-mouth design ensured each participant received both interventions in different areas of the mouth, thereby controlling for variables across participants [].
+
+Blinding and randomization
+
+This was a triple-blinded trial, where the investigator, the study participants, and the outcome assessor were blinded to the treatment allocation. A simple randomization method was performed by flipping a coin.
+
+Procedure
+
+The patient’s baseline demographic data and their medical and dental history were recorded. The clinical and radiological examination was performed. A medical consultation was requested from the patient’s physician to confirm the patient’s health status. Patients who were in unstable medical conditions were excluded. The level of the INR was determined before dental extraction using a self-testing instrument (CoaguChekXS system, Roche Diagnostics, Indiana, USA) to ensure that it is at the appropriate level for minor surgery. Patients achieving an INR of 2-3.5 were included without stopping warfarin before dental extraction []. Local anesthesia was administered at the site of extraction by depositing 2% lidocaine with epinephrine 1:80,000 solution (2% Lidocaine HCL Injection, Huons Co., Ltd, Seongnam, Korea) using a dental carpule syringe (Dental carpule syringe, Dental Laboratorio, Guangdong, China) and a 27-gauge x ¾ inch needle (Disposable Dental Needles, J Morita, Connecticut, United States). Bilateral extraction was carried out with the least possible trauma by a single experienced surgeon at the same appointment. Extraction was performed according to asepsis and antisepsis rules. The sockets were thoroughly irrigated and rinsed to remove follicular tissue and debris after extraction [,]. A Gelfoam sponge sized (10 × 10 × 10 mm) was soaked in tranexamic acid (500 mg/5mL) and then applied immediately after extraction in the sockets of the study group (Fig.). A Gelfoam sponge soaked in sterile saline solution was also applied immediately after extraction in the sockets of the control group (Fig.). Sockets closed by performing figure-of-8 suturing technique using 3.0 silk sutures (TUDORDVR-4942, Champion Biotech & Pharma Corp., Manila, Philippines).
+
+Fig. 2
+
+TXA-Gel placed into the extraction socket
+
+Fig. 3
+
+Saline-Gel placed into the extraction socket
+
+Primary outcome measure
+
+Visual Analogue Scale (VAS).
+
+The intensity of pain was evaluated at the baseline (t) and on the 1st (t), 2nd (t), 3rd (t), 4th (t), 5th (t), 6th (t), and 7th (t) day following extraction and hemostatic agents application. Self-assessment of pain was conducted by the patient in the seven days following the tooth extraction after a detailed explanation to the patient on how to evaluate pain on the VAS scale. The patient was contacted daily during the seven days and was examined clinically on the seventh day of the tooth extraction []. The patient was recommended to take paracetamol 500 mg tablets (Sytamol 500, The Arabian Medical Co - THAMECO, Damascus, Syria) thrice a day (1.5 g) if the pain score exceeded six on the VAS scale, that is when the pain became severe after the patient recorded the pain score for that day and not to take any tablets in the eight hours preceding the new evaluation process the next day, so as not to The value of the VAS scale is affected by the effect of the analgesic []. Emphasizing that paracetamol interacts with warfarin when its daily dose is increased by 4 g []. VAS scores were as follows:
+
+0 = No pain.
+
+1–3 = Mild pain.
+
+4–6 = Moderate pain.
+
+7–9 = Severe pain.
+
+10 = Worst pain possible [].
+
+The Kappa coefficient of intra-examiner reliability was > 0.8.
+
+Statistical analysis
+
+IBM SPSS software version 24 (IBM SPSS Statisticsversion 24, IBM Corp., New York, USA) was used to perform statistical analysis. Descriptive statistics were presented as mean, standard deviation, standard error, minimum, and maximum. Kolmogorov–Smirnov test was applied to check the normality of data, followed by performing a Mann-Whitney U test to compare VAS scores at different time points in two groups. The level of significance was set at 0.05 (< 0.05).
+
+Results
+
+Based on the inclusion criteria, 30 patients were recruited. 60 permanent first mandibular molars which were indicated for simple extraction in 30 warfarin patients. Participants were recruited between January 2023 and October 2023. The baseline demographic and clinical characteristics of study participants are presented in Table. More than half of them were male (= 18; 60%), the mean age was 59.1 years (SD 6.97; range 47–70 years), and the mean INR value was 2.58 (SD 0.31; range 2.1–3.1). Descriptive statistics of mean VAS scores at different time points of study groups are listed in Table. The mean vas scores was 4.17 ± 1.76 at tand decreased to 0.73 ± 0.78 at tin the TXA-Gel group. However, in the Gelfoam group, the mean vas scores was 4.83 ± 2.18 at tand decreased to 1.80 ± 1.00 at t(Fig.). The results of the Mann-Whitney U test for comparison between mean VAS scores at different time points in two groups are presented in Table. The results of the Mann-Whitney U test showed that there was no statistically significant difference between the two groups at t(= 0.929) suggesting that the data was homogenous at the baseline. There was no statistically significant difference between the two groups at t(= 0.236) and t(= 0.155). However, there was a statistically significance difference at the rest time points (< 0.05).
+
+Table 1
+
+Baseline demographic and clinical characteristics of study participants
+
+Characteristics
+
+= 30
+
+Sex
+
+Female n (%)
+
+Male n (%)
+
+12 (40%)
+
+18 (60%)
+
+Age (years)
+
+Mean ± SD
+
+Min – Max
+
+59.1 ± 6.97
+
+47–70
+
+INR value
+
+Mean ± SD
+
+Min – Max
+
+2.58 ± 0.31
+
+2.1–3.1
+
+Table 2
+
+Descriptive statistics of mean VAS scores at different time points of study groups
+
+Group
+
+N
+
+Time point
+
+Median (IQR)
+
+Mean ± SD
+
+SE
+
+Min
+
+Max
+
+TXA-Gel
+
+30
+
+t
+
+3.50 (3.00)
+
+3.47 ± 2.15
+
+0.39
+
+0.00
+
+7.00
+
+t
+
+4.00 (2.00)
+
+4.17 ± 1.76
+
+0.32
+
+2.00
+
+8.00
+
+t
+
+3.00 (1.00)
+
+3.53 ± 163
+
+0.30
+
+1.00
+
+7.00
+
+t
+
+2.00 (1.00)
+
+2.47 ± 1.28
+
+0.23
+
+1.00
+
+6.00
+
+t
+
+2.00 (2.00)
+
+2.13 ± 1.25
+
+0.23
+
+0.00
+
+6.00
+
+t
+
+1.00 (1.00)
+
+1.67 ± 1.12
+
+0.21
+
+0.00
+
+4.00
+
+t
+
+1.00 (2.00)
+
+1.07 ± 0.91
+
+0.17
+
+0.00
+
+3.00
+
+t
+
+1.00 (1.00)
+
+0.73 ± 0.78
+
+0.14
+
+0.00
+
+2.00
+
+Saline-Gel
+
+30
+
+t
+
+3.00 (3.00)
+
+3.57 ± 1.87
+
+0.34
+
+1.00
+
+8.00
+
+t
+
+5.00 (3.00)
+
+4.83 ± 2.18
+
+0.40
+
+2.00
+
+9.00
+
+t
+
+4.00 (3.00)
+
+4.27 ± 2.10
+
+0.38
+
+1.00
+
+9.00
+
+t
+
+4.00 (2.00)
+
+4.03 ± 1.85
+
+0.34
+
+1.00
+
+9.00
+
+t
+
+3.00 (3.00)
+
+3.57 ± 1.61
+
+0.29
+
+1.00
+
+7.00
+
+t
+
+3.00 (2.00)
+
+3.20 ± 1.35
+
+0.25
+
+1.00
+
+6.00
+
+t
+
+2.00 (2.00)
+
+2.37 ± 1.19
+
+0.22
+
+1.00
+
+5.00
+
+t
+
+2.00 (1.00)
+
+1.80 ± 1.00
+
+0.18
+
+0.00
+
+4.00
+
+Fig. 4
+
+Mean VAS scores at different time points in the two study groups
+
+Table 3
+
+Results of Mann-Whitney U test for comparison between mean VAS scores at different time points in two groups
+
+Time point
+
+Groups
+
+Median (IQR)
+
+Mean ± SD
+
+Mann-Whitney U
+
+-value
+
+t
+
+TXA-Gel
+
+3.50 (3.00)
+
+3.47 ± 2.15
+
+456.00
+
+0.929
+
+Saline-Gel
+
+3.00 (3.00)
+
+3.57 ± 1.87
+
+t
+
+TXA-Gel
+
+4.00 (2.00)
+
+4.17 ± 1.76
+
+529.00
+
+0.236
+
+Saline-Gel
+
+5.00 (3.00)
+
+4.83 ± 2.18
+
+t
+
+TXA-Gel
+
+3.00 (1.00)
+
+3.53 ± 163
+
+544.00
+
+0.155
+
+Saline-Gel
+
+4.00 (3.00)
+
+4.27 ± 2.10
+
+t
+
+TXA-Gel
+
+2.00 (1.00)
+
+2.47 ± 1.28
+
+689.50
+
+< 0.001*
+
+Saline-Gel
+
+4.00 (2.00)
+
+4.03 ± 1.85
+
+t
+
+TXA-Gel
+
+2.00 (2.00)
+
+2.13 ± 1.25
+
+690.50
+
+< 0.001*
+
+Saline-Gel
+
+3.00 (3.00)
+
+3.57 ± 1.61
+
+t
+
+TXA-Gel
+
+1.00 (1.00)
+
+1.67 ± 1.12
+
+731.50
+
+< 0.001*
+
+Saline-Gel
+
+3.00 (2.00)
+
+3.20 ± 1.35
+
+t
+
+TXA-Gel
+
+1.00 (2.00)
+
+1.07 ± 0.91
+
+714.00
+
+< 0.001*
+
+Saline-Gel
+
+2.00 (2.00)
+
+2.37 ± 1.19
+
+t
+
+TXA-Gel
+
+1.00 (1.00)
+
+0.73 ± 0.78
+
+707.00
+
+< 0.001*
+
+Saline-Gel
+
+2.00 (1.00)
+
+1.80 ± 1.00
+
+*Significant difference at< 0.05
+
+Discussion
+
+The stable blood clot formed after tooth extraction is crucial to accelerate healing, pain alleviation, and reduced bleeding. Hence, it was imperative to apply factors that facilitate the formation of a stable blood clot []. Tranexamic acid is one of the most well-known anti-fibrinolytic agents, aiding in the formation of a fibrin-rich blood clot. It is distinguished by ideal characteristics such as biocompatibility, ease of use, and acceptable cost. Moreover, the topical application of tranexamic acid can inhibit fibrinolysis with minimal undesired systemic effects [,]. Gelatin sponge functions by aggregating platelets and red blood cells within its porous structure, and it is capable of absorbing 45 times its weight in blood. It possesses characteristics such as biocompatibility and absorbability, making gelatin sponge suitable as a carrier for various pharmaceutical compounds, including tranexamic acid and others []. Numerous studies prove the effectiveness of both tranexamic acid and gelfoam in the hemostasis of patients taking warfarin, as well as in reducing the incidence of dry socket. However, their role in controlling pain is still a matter of controversy [,–]. Therefore, the driving force behind this study was to evaluate the effectiveness of applying a TXA-Gel to protect the blood clot and its role in alleviating post-extraction pain in warfarin patients.
+
+The current study included patients on warfarin, a widely used anticoagulant for several decades in the treatment, and prevention of venous and arterial thrombosis. Warfarin-treated patients face an increased risk of displacement of the blood clot formed in the socket resulting from tooth extraction. This elevates the likelihood of serious complications, including bleeding and impaired clot formation leading to inflammation, pain, and delayed healing, emphasizing the necessity of applying localized pharmacological factors to stabilize blood clot formation and mitigate the risk of such complications [,]. Patients aged between 45 and 70 years were selected, as this age group exhibits a higher susceptibility to cardiovascular diseases and a higher incidence of postoperative complications compared to the middle and younger age groups []. Thus, an increased likelihood of using warfarin. Smokers were excluded from the research sample due to the detrimental effects of smoking on wound healing. Tobacco components, especially nicotine, and carbon monoxide, are considered toxic to cells []. Additionally, smoking is a predisposing factor for the occurrence of dry socket inflammation []. Patients with an INR less than 2.0 or greater than 3.5 were excluded. This decision is based on the observation that patients treated with warfarin have an increased risk of thromboembolic events when INR is less than 2, and the therapeutic range for most indications of warfarin therapy does not exceed 3.5 [] The permanent mandibular molars were chosen because they are usually more susceptible than the maxillary teeth to complications following extraction, including dry socket and pain []. The current study was designed to be a split-mouth study since it reduces the inter-individual variability and compares treatment outcomes within the same subject as each patient acts as their control []. Bilateral extraction was carried out at the same appointment to reduce the effect of the individual factor and thus expose the patient to the same conditions surrounding them, which may have a crucial role in influencing the degree of pain. It is consistent with the study of Ozgul et al. [] when pain was evaluated after bilateral surgical extraction of impacted mandibular third molars to assess the effectiveness of platelet-rich fibrin. Lu et al. [] have suggested that interrupting warfarin (INR < 4.0) and antiplatelet therapy before dental extractions may not be necessary, as effective hemostasis can often be achieved using local measures alone. This approach can mitigate the risks associated with thromboembolism and avoid the inconvenience of bridging anticoagulation with heparin. Performing bilateral extractions during the same appointment aims to reduce individual variability and ensure consistent conditions for the patient. This consistency significantly influences factors affecting pain perception, such as psychological state, stress levels, and overall physical condition, thereby yielding more reliable patient outcomes. Demographic information and medical history were meticulously documented, and each patient underwent thorough clinical and radiological examinations. Additionally, a medical consultation was sought from the patient’s physician to verify their current health status. Patients with unstable medical conditions were excluded from the study to uphold participant safety and maintain data integrity. Consequently, all patients included in the study exhibited good health status post-extraction, with no instances of uncontrolled bleeding recorded.
+
+Recently, there has been an increasing interest in the use of absorbable gelatin sponges soaked in various materials to alleviate postoperative pain following extraction. Patil et al. [] suggested that applying a tetracycline-loaded gelatin sponge after tooth extraction to reduce postoperative pain demonstrated a significant role in pain relief in the post-extraction stage. Additionally, in the Assari et al. [] study, a gelatin sponge soaked in lidocaine was applied to assess its ability to alleviate post-extraction pain. This application significantly contributed to pain reduction, possibly due to the role of lidocaine in preventing the transmission of nerve signals responsible for pain.
+
+The study results revealed a statistically significant difference in pain perception between the two groups. The TXA-Gel group demonstrated superior effectiveness in reducing the incidence of pain, particularly between the 3rd and the 7th day post-extraction. This can be attributed to the ability of tranexamic acid to alleviate pain through two mechanisms. The first mechanism involves its capacity to reduce the incidence of dry socket inflammation, typically occurring around days 2–4 post-extraction, by inhibiting fibrinolysis and preventing the formation of dry sockets, a significant contributor to pain. The second mechanism involves the formation of a stable blood clot that covers the exposed bony surfaces and provides a protective barrier for the extraction site [,,]. This result is in contrast with Mansour et al. [] findings, which suggested that TXA-Gel was not superior to Gelfoam in relieving postoperative pain following dental extraction in warfarin patients. However, postoperative pain was measured using a verbal rating scale (VRS) on the 1st, 3rd, and 7th days post-extraction. Our study results differed from Ausen et al. [] study, which evaluated the impact of topical tranexamic acid on pain after reduction mammoplasty, where no significant effect on pain was observed. This disparity may be attributed to the different nature of surgical procedures between breast reduction surgery and tooth extraction. Furthermore, our results differed from the Wurtz et al. [] study, which applied topical tranexamic acid in total hip arthroplasty and found no significant effect on postoperative pain. This difference may be due to variations in the surgical nature of joint replacement compared to tooth extraction. Our findings align with the Abdullah et al. [] study, where the application of Gelfoam soaked in tranexamic acid after surgical extraction of mandibular third molars in healthy patients had a significant impact on postoperative pain relief. Similarly, Anand et al. [] suggested that the topical use of tranxamic acid was highly effective in reducing the incidence of the alveolar osteitis after the extraction of mandibular molars.
+
+Despite the variety of materials that can be topically applied post-tooth extraction to reduce pain, tranexamic acid remains crucial for bleeding patients due to its effectiveness in both bleeding control and indirect pain relief. Its use in these patients is paramount for its dual capacity to alleviate bleeding and pain simultaneously [].
+
+Conclusions
+
+Based on this study, it can be concluded that the topical application of TXA-Gel played a prominent role in alleviating post-extraction pain in warfarin patients. Moreover, it possesses several advantages, such as acceptable cost and biocompatibility. Therefore, we recommend the adoption of this therapeutic approach.
+
+Electronic supplementary material
+
+Below is the link to the electronic supplementary material.
+
+Supplementary Material 1
