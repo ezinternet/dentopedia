@@ -28,6 +28,11 @@ Cement protocol: tribochemical silica coating + silanization + self-etching resi
 
 접착 프로토콜: 트리보화학적 실리카 코팅 + 실란처리 + 자기 산부식 레진 시멘트
 
+
+## Why Ingested
+
+First pilot RCT directly comparing inlay-retained (IR) vs wing-retained (WR) designs for posterior zirconia RBFPD at 3 years; provides preliminary survival/success data separating retainer geometry from material choice. Extends the clinical evidence base alongside [[prosthetic-materials/waldecker-2026-multilayer-zirconia-rbfpd-load-bearing]] (in vitro load-bearing data from the same group), bridging bench and clinical outcomes for the same RBFPD indication.
+
 ## 1. Document Information
 - **Title**: Three-year performance of inlay-retained or wing-retained zirconia RBFPDs
 - **Authors**: Bömicke W, Rathmann F, Rammelsberg P, Zenthöfer A
