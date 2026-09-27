@@ -6,11 +6,19 @@ doi: "10.1186/s12903-026-07736-6"
 pmid: "41618283"
 pmcid: "PMC12930792"
 category: [drug/anticoagulants]
-pdf_path: ""
-pdf_filename: ""
 source_collection: pmc-fulltext
 full_text: true
 ---
+
+## Three-line Summary
+SR of 23 studies (inception–March 2025) on evidence-based dental management for congenital hemophilia (A, B, C) covering anesthesia, extractions, restorations, periodontics, and implants across multiple countries.
+TXA/EACA antifibrinolytics significantly reduce factor infusion requirements; 30–50% factor correction is standard pre-operatively; infiltration anesthesia is safe without factor coverage, but nerve blocks require factor correction.
+Local hemostatic agents (Gelfoam, oxidized cellulose, chitosan, TXA compress) combined with factor replacement enable safe outpatient dental procedures; implant placement feasible with hematologist co-management.
+
+## 세줄요약
+선천성 혈우병(A·B·C형) 환자의 치과 치료(마취·발치·수복·치주·임플란트)에 관한 근거 기반 관리 전략 SR (23편, 데이터베이스 창간–2025년 3월).
+트라넥삼산(TXA, 트라넥삼산)/EACA 항섬유소용해제는 응고인자 투여 요구량을 유의하게 감소; 술전 30–50% 인자 보정이 표준; 침윤마취는 인자 보정 없이 안전, 신경차단마취는 보정 필요.
+국소 지혈제(Gelfoam·산화셀룰로오스·키토산·TXA 거즈) + 인자 보충 병용 시 외래 치과 시술 안전 가능; 임플란트는 혈액내과 협진 하에 가능.
 
 ## Why Ingested
 
