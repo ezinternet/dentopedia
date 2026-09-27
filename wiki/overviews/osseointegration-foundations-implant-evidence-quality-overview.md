@@ -10,6 +10,12 @@ evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
+source_papers:
+  - implants/surface/buser-2017-modern-implant-dentistry-osseointegration-50years
+  - implants/surface/bosshardt-2017-osseointegration-titanium-zirconia-review
+  - implants/gaviria-2014-current-trends-dental-implants-review
+  - implants/musskopf-2022-minipig-intraoral-implant-model-sr-ma
+  - implants/survival/popelut-2010-sponsorship-implant-failure-rate-sr
 tags: [osseointegration, foundations, history, surface-topography, sla, slactive, bic, titanium-zirconia, minipig-model, sponsorship-bias, evidence-quality, anchor, overview]
 ---
 
