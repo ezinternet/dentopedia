@@ -26,6 +26,8 @@ A split-mouth RCT (n=63, 126 restorations, 18 months) evaluated airborne-particl
 
 First split-mouth RCT evaluating APA (air abrasion, 50 μm Al₂O₃) as dentin pretreatment in NCCLs. Clinically relevant because air abrasion was proposed to remove the sclerotic dentin layer and improve adhesion; result: no benefit over universal adhesive alone at 18 months. Part of an active research program by Loguercio/Reis group on NCCL adhesion strategies.
 
+— See: [[resin-bonding/forville-2026-air-abrasion-nccl-18m-rct]]
+
 ## Study Design
 
 - **Design**: Prospective randomized split-mouth double-blind controlled trial
