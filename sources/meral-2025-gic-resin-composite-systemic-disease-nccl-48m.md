@@ -19,6 +19,8 @@ tags: [gic, glass-ionomer, resin-composite, nccl, systemic-disease, rct, fuji-bu
 
 First 4-year RCT specifically enrolling patients with systemic diseases. Compares GIC (Fuji Bulk) vs resin composite (G-ænial Posterior + universal adhesive, etch-and-rinse) in a clinically vulnerable population where technique sensitivity and cost are practical concerns. Shows GIC as a viable NCCL restoration alternative with comparable survival to composite.
 
+— See: [[resin-bonding/meral-2025-gic-resin-composite-systemic-disease-nccl-48m]]
+
 ## Study Design
 
 - **Design**: Single-center randomized clinical trial, parallel-arm
