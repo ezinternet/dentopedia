@@ -62,5 +62,5 @@ RCT; Ege University, Turkey; n=28 patients, 42 implants; OD (Densahbur, n=22) vs
 
 ## Related Papers
 
-- [[implants/versah-protocols/tomar-2026-osseodensification-conventional-drilling-umbrella]] — OD umbrella review; confirms OD superiority broadly
-- [[implants/isq/marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma]] — OD vs conventional SR+MA
+- [[implants/osseodensification/tomar-2026-osseodensification-conventional-drilling-umbrella]] — OD umbrella review; confirms OD superiority broadly
+- [[implants/osseodensification/marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma]] — OD vs conventional SR+MA
