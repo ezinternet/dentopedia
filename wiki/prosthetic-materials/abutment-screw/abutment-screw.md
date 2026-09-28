@@ -2,7 +2,7 @@
 title: "보철재료·지대주나사 — abutment-screw"
 authors: navigation
 year: 2026
-date: 2026-08-29
+date: 2026-09-28
 doi: N/A
 source: navigation
 category: prosthetic-materials/abutment-screw
@@ -15,20 +15,20 @@ tags: [navigation, category-index, abutment-screw]
 > [!summary] 한국어 핵심요약
 > - **분야**: 보철재료·지대주나사
 > - **범위**: Implant abutment screw & retention biomechanics — preload, removal/insertion torque, screw-loosening, settling effect, retightening, screw coatings, morse-taper/conical connections, screw- vs cement-retention comparisons
-> - **수록 논문**: 32편
+> - **수록 논문**: 37편
 
 ## Three-line Summary
 
 **Scope**: Implant abutment screw & retention biomechanics — preload, removal/insertion torque, screw-loosening, settling effect, retightening, screw coatings, morse-taper/conical connections, screw- vs cement-retention comparisons
-**Indexed papers**: 32 papers in `wiki/prosthetic-materials/abutment-screw/`.
+**Indexed papers**: 37 papers in `wiki/prosthetic-materials/abutment-screw/`.
 
 ## 세줄요약
 
 **분야**: 보철재료·지대주나사
-**수록 논문**: 32편
+**수록 논문**: 37편
 **하위 카테고리**: 없음
 
-## Papers in this Category (32)
+## Papers in this Category (37)
 
 | Paper |
 |---|
@@ -39,6 +39,7 @@ tags: [navigation, category-index, abutment-screw]
 | [[coelho-2024-preload-removal-torque-screw-coatings-laboratory|GapSeal vs PTFE Tape Screw Coatings: Effect on Preload and Removal Torque (In Vitro)]] |
 | [[coelho-2025-screw-coating-ptfe-gapseal-cyclic-load|PTFE Tape vs GapSeal Screw Coating Under Cyclic Loading: RTV Reversal Effect]] |
 | [[hamed-2020-screw-vs-cement-implant-sr|Screw vs Cement-Retained Implant-Supported Reconstructions: A Systematic Review]] |
+| [[hjerppe-2026-ti-base-custom-abutment-monolithic-zirconia-rct|3-Year RCT: Screw-Retained Monolithic ZrO₂ Crown on Ti-Base vs Customized Ti Abutment]] |
 | [[khurshid-2025-screw-vs-cement-crown-complications|Assessment of Prosthodontic Complications in Screw-Retained vs Cement-Retained Implant Crowns]] |
 | [[kim-2019-astra-implant-dissection-solutions|아스트라 임플란트 대해부: 나사 풀림과 픽스쳐 찢어짐의 해결책]] |
 | [[kim-2020-axial-displacements-removal-torque-changes|Axial Displacements and Removal Torque Changes of Five Different Implant-Abutment Connections under Static Vertical Loading]] |
@@ -50,12 +51,16 @@ tags: [navigation, category-index, abutment-screw]
 | [[marenzi-2026-torque-limiting-devices-accuracy-manufacturers|Accuracy of Mechanical Torque-Limiting Devices Provided by Different Dental Implant Manufacturers: An In Vitro Study]] |
 | [[molinero-mourelle-2026-intermediate-abutments-screw-retained|Does the use of intermediate abutments impact screw-retained implant-supported fixed partial prostheses outcomes? A systematic review and meta-analysis of randomized controlled trials]] |
 | [[nithyapriya-2018-factors-loss-preload-dental-implants|Systematic analysis of factors that cause loss of preload in dental implants]] |
+| [[packaeser-2025-effect-resin-composite-filling-thickness|Effect of Resin Composite Filling Thickness in Zirconia Abutment Screw-Access on the Fatigue Behavior of a Cement-Retained Lithium Disilicate Material]] |
 | [[pardal-pelaez-2017-preload-loss-abutment-screws-dynamic-fatigue|Preload loss of abutment screws after dynamic fatigue in single implant-supported restorations. A systematic review.]] |
 | [[park-2022-scrp-vs-crp-upper-premolar|Screw-and-cement-retained prosthesis versus cement-retained prosthesis: Which is more appropriate for the upper premolar area?]] |
+| [[park-2025-cementless-screw-retained-single-implant-rct|A Preliminary Randomized Trial on the Efficiency and Clinical Value of a Cementless Screw-Retained Implant Workflow in Single-Implant Restorations]] |
+| [[pereira-2016-influence-sealing-screw-access-hole|Influence of Sealing of the Screw Access Hole on the Fracture Resistance of Implant-Supported Restorations]] |
 | [[ren-2024-morse-taper-abutment-subsidence-locking-force|Experimental study on implant-abutment locking force and abutment subsidence in a pure Morse taper connection implant system]] |
 | [[sagheb-2023-preload-friction-carbon-coated-abutment-screw|Preload and friction in an implant–abutment–screw complex including a carbon-coated titanium alloy abutment screw: an in vitro study]] |
 | [[saleh-saber-2017-repeated-torque-tightening-abutment-lengths|The effect of repeated torque tightening on total lengths of implant abutments in different internal implant–abutment connections]] |
 | [[selvi-2025-custom-stock-abutment-fatigue-sem|Two Million Cycle Fatigue Performance of Custom and Stock Conical-Hex Abutments: A Removal Torque and SEM Study]] |
+| [[singla-2025-comparative-microbial-assessment-different-screw|Comparative Microbial Assessment of Different Screw Access Hole Plugging Materials in Screw Retained Implants: An In Vivo Study]] |
 | [[sterzenbach-2025-hybrid-abutment-crowns-zirconia-titanium-implants|A Randomised Controlled Trial Evaluating 3-Year Survival Rates and Technical Complications of Screw-Retained Hybrid Abutment Crowns on Two-Piece Zirconia and Titanium Implants]] |
 | [[sun-2026-abutment-contamination-internal-hex-preload|Differential effects of abutment contamination within an internal hexagonal connection on preload formation and load-dependent preload loss]] |
 | [[tomar-2025-cement-vs-screw-zirconia-crown-sr-ma|Cement-Retained vs Screw-Retained Zirconia Implant Crowns: A Systematic Review and Meta-Analysis]] |
