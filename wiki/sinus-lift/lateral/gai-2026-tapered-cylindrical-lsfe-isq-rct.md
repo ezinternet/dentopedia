@@ -60,4 +60,3 @@ Prospective 2-arm RCT; Zhejiang University; n=60 patients, 92 implants (tapered 
 ## Related Papers
 
 - [[implants/isq/tisci-2026-isq-it-mbl-survival-sr-ma]] — RFA/ISQ SR+MA; contextual ISQ-outcome associations
-- [[sinus-lift/lateral/mo-2023-simultaneous-implant-lateral-sinus-elevation]] — simultaneous LSFE outcomes
