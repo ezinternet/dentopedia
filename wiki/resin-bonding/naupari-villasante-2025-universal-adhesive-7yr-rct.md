@@ -16,7 +16,7 @@ relations:
   - target: resin-bonding/assis-2023-acid-etching-universal-adhesive-nccl-sr-ma
     type: consistent_with
     note: "both show comparable performance across bonding strategies in NCCLs; this RCT extends to 7.5yr"
-  - target: resin-bonding/hamdi-2025-surface-pretreatments-sclerotic-dentin-sr
+  - target: resin-bonding/hamdi-2025-surface-pretreatments-sclerotic-dentin-bond-sr
     type: related
     note: "both address adhesive strategy selection for cervical dentin"
 ---
@@ -82,4 +82,4 @@ This double-blind split-mouth two-center RCT enrolled 50 participants with ≥4 
 ## Related Papers
 
 - [[resin-bonding/assis-2023-acid-etching-universal-adhesive-nccl-sr-ma]] — SR+MA (20 RCTs through 2021) showing E&R advantage over SE at medium-term; this 7.5yr RCT suggests equivalence at longer follow-up
-- [[resin-bonding/hamdi-2025-surface-pretreatments-sclerotic-dentin-sr]] — SR on surface pretreatments for sclerotic dentin NCCLs; complementary on adhesive strategy for challenging NCCL substrates
+- [[resin-bonding/hamdi-2025-surface-pretreatments-sclerotic-dentin-bond-sr]] — SR on surface pretreatments for sclerotic dentin NCCLs; complementary on adhesive strategy for challenging NCCL substrates
