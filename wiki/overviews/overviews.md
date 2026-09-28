@@ -2,7 +2,7 @@
 title: "종합 — overviews"
 authors: navigation
 year: 2026
-date: 2026-09-03
+date: 2026-09-28
 doi: N/A
 source: navigation
 category: overviews
@@ -15,30 +15,31 @@ tags: [navigation, category-index, overviews]
 > [!summary] 한국어 핵심요약
 > - **분야**: 종합
 > - **범위**: Synthesis pages spanning multiple categories
-> - **수록 논문**: 286편
+> - **수록 논문**: 294편
 
 ## Three-line Summary
 
 **Scope**: Synthesis pages spanning multiple categories
-**Indexed papers**: 286 papers in `wiki/overviews/`.
+**Indexed papers**: 294 papers in `wiki/overviews/`.
 
 ## 세줄요약
 
 **분야**: 종합
-**수록 논문**: 286편
+**수록 논문**: 294편
 **하위 카테고리**: 없음
 
-## Papers in this Category (286)
+## Papers in this Category (294)
 
 | Paper |
 |---|
 | [[abutment-emergence-profile-peri-implant-tissue-overview|Abutment Design & Emergence Profile → Peri-Implant Tissue Overview (지대주 디자인·출현윤곽 → 임플란트주위 조직 종합)]] |
 | [[abutment-screw-preload-joint-stability-overview|Abutment Screw Preload, Torque Loss & Screw-Joint Stability — preload mechanics, settling, retightening, connection design & fatigue]] |
 | [[adhesive-bonding-strategies-overview|접착·결합 전략 — Universal·SE·E&R·오염 대처·간접수복 본딩 종합]] |
-| [[ai-dentistry-reviews-2024-2025-synthesis|AI in Dentistry and Healthcare — 2024–2025 Review Cluster Synthesis]] |
+| [[ai-dentistry-reviews-2024-2025-synthesis|AI in Dentistry and Healthcare — Cluster Synthesis (2024–2026)]] |
 | [[antibiotics-comprehensive-overview|Dental Antibiotics Comprehensive Overview]] |
 | [[antiseptic-mouthrinse-chlorhexidine-essential-oil-overview|항균 가글 화학적 치면세균막 조절 종합 — 클로르헥시딘 vs 에센셜오일]] |
 | [[apical-patency-endodontic-outcome-overview|Apical Patency — Clinical Evidence & Decision Framework]] |
+| [[arp-cbct-hu-bone-quality-readiness-overview|ARP 후 CBCT 골밀도(HU) 판독 기준 — 이식재 종류별 신뢰도와 임플란트 준비 지표]] |
 | [[autogenous-bone-graft-donor-site-selection-overview|Autogenous Bone Graft Donor Site Selection — Intraoral Hierarchy, Iliac Crest, and the Repurposed-Byproduct Frontier]] |
 | [[autoimmune-disease-dental-treatment-overview|자가면역질환 환자의 치과치료(Autoimmune Disease & Dental Treatment) 종합]] |
 | [[behavioral-dentistry-decision-ladder|Behavioral Dentistry — MI·환자 커뮤니케이션·정기검진 Attendance Decision Ladder]] |
@@ -60,6 +61,7 @@ tags: [navigation, category-index, overviews]
 | [[ceramic-bonding-hf-silane-contamination-overview|세라믹 접착 — HF 처리·실란 선택·오염 제거·대안 시멘트 종합]] |
 | [[ceraseal-bioceramic-sealer-clinical-material-synthesis|Overview: Ceraseal (Premixed Calcium-Silicate Bioceramic Sealer) — Clinical Outcomes × Material/Biocompatibility Synthesis]] |
 | [[cervical-composite-isolation-strategy-overview|치경부 레진 격리 전략: dry field가 목적, 코드는 수단 — 격리·마진위치·열구액 종합]] |
+| [[clear-aligner-adverse-effects-overview|투명교정 부작용 종합 — 자주 보고되는 부작용(AE)과 치근흡수·통증의 정량화]] |
 | [[clear-aligner-indications-limitations|투명교정(Clear Aligner) 적응증·한계 종합]] |
 | [[clear-aligner-patient-experience-brand-overview|Clear Aligner Patient Experience, Compliance & Brand Comparison — Evidence Synthesis]] |
 | [[clinical-principles-100-master-distillation|임상원칙 100 — 182개 Overview 최상위 증류 (100 Clinical Principles You Actually Use — Master Distillation of All Overviews)]] |
@@ -170,6 +172,7 @@ tags: [navigation, category-index, overviews]
 | [[implants-isq-stability-ladder|Implant Stability Quotient (ISQ / RFA) — Measurement·Threshold·Loading Decision Ladder]] |
 | [[implants-soft-tissue-km-augmentation-techniques|Peri-Implant KM Augmentation — Surgical Technique Selection Guide]] |
 | [[interdental-cleaning-devices-synthesis|Interdental Cleaning Devices — Floss vs Interdental Brush vs Water Flosser vs Toothpick Method: Evidence Synthesis]] |
+| [[invisalign-itero-digital-workflow-accuracy-overview|Invisalign + iTero: 디지털 워크플로우와 이동 정확도 종합]] |
 | [[irrigation-activation-comparison|근관세정 (Root Canal Irrigation) 활성화법·세정액·임상결과 종합 — 36편 매트릭스]] |
 | [[isq-loading-threshold|임플란트 안정성 지수 (Implant Stability Quotient, ISQ) 부하 결정 임계값 — Confidence 등급별 매트릭스]] |
 | [[keratinized-mucosa-peri-implant-health-overview|각화점막(KM)과 임플란트주위 건강 — 위험인자·증대술 종합]] |
@@ -177,6 +180,7 @@ tags: [navigation, category-index, overviews]
 | [[lithium-disilicate-inlay-onlay-evidence|리튬디실리케이트 Inlay/Onlay/부분피개 — 임상 근거 종합]] |
 | [[local-anesthesia-category-synthesis-overview|Local Anesthesia in Dentistry — Category Synthesis Overview]] |
 | [[local-hemostasis-agents-overview|Local Hemostatic Agents in Dentistry — Context-Dependent Selection Overview]] |
+| [[low-absent-primary-stability-implant-success-overview|Implants Without (or With Low) Primary Stability — How They Succeed: A Clinical Synthesis]] |
 | [[mandibular-anesthesia-efficacy-ladder|하악 마취 효율 ladder — IANB·articaine 침윤·보충주사·진정 종합]] |
 | [[mandibular-anesthesia-failure-accessory-innervation-overview|왜 하치조신경전달마취(IANB)는 실패하는가 — 해부학적 실패 원인과 부신경지배 지도]] |
 | [[mandibular-canal-nutrient-canal-cbct-anatomy-overview|하악관 변이·영양관 방사선 해부 — 이분/삼분하악관·영양관·전신질환 연관 종합]] |
@@ -225,7 +229,7 @@ tags: [navigation, category-index, overviews]
 | [[pdl-tissue-engineering-biomimetic-implant-overview|PDL Tissue Engineering & Biomimetic Implants — From Ligaplants to Stem Cell Biology]] |
 | [[pdrn-dentistry-evidence-synthesis|PDRN in Dentistry — Mechanism·Evidence Pyramid·Zone-Specific Effect Synthesis]] |
 | [[penicillin-allergy-dental-antibiotic-overview|Penicillin Allergy Countermeasures in Dentistry — The Label, the Cross-Reactivity Myth, and the Fall of Clindamycin]] |
-| [[peri-implant-biologic-width-overview|Peri-implant Biologic Width — Tooth Baseline, Implant Dimension, and Restorative Guardrails (임플란트 주위 생물학적 폭경 종합)]] |
+| [[peri-implant-biologic-width-overview|Peri-implant Biologic Width — Tooth Baseline, Implant Dimension, and Restorative Guardrails (임플란트 주위 생물학적 폭경 — 치아 기준·임플란트 실측·수복 가드레일)]] |
 | [[peri-implant-emergence-profile-soft-tissue-conditioning-overview|임플란트 Emergence Profile 설계·맞춤 연조직 컨디셔닝 종합]] |
 | [[peri-implant-soft-tissue-dehiscence-prevention|Peri-Implant Soft Tissue Dehiscence (PSTD) Prevention & Management — Synthesis]] |
 | [[peri-implantitis-management-overview|임플란트주위염(Peri-implantitis) — 역학·예방·치료 종합]] |
@@ -240,6 +244,7 @@ tags: [navigation, category-index, overviews]
 | [[platform-switching-marginal-bone-preservation-synthesis|Platform Switching — Marginal Bone Preservation Evidence Synthesis (플랫폼 스위칭·변연골 보존 근거 종합)]] |
 | [[post-and-core-fiber-post-decision-overview|Post-and-Core / Fiber Post — Sequential Decision Overview for the Endodontically Treated Tooth (포스트앤코어·파이버포스트 결정 종합)]] |
 | [[posterior-mandible-splinted-loading-short-implant-overview|하악 구치부 스플린팅 조기부하 및 단축임플란트 즉시부하 — 특수 임상 시나리오 종합]] |
+| [[practice-management-overview|Dental Practice Management — Category Synthesis Overview]] |
 | [[primary-molar-caries-pulp-restoration-decision-tree|Carious Primary Molar — Pulp Therapy & Restoration Decision Tree: Evidence Synthesis]] |
 | [[primary-tooth-endodontic-medicament-obturation-equivocal-overview|소아 유치 근관 처치 3축 — 치근단 매복제·충전재·진단 불명확 치수 처치 결정]] |
 | [[professional-biofilm-management-gbt-air-polishing-overview|Overview: Professional Dental Biofilm Management — Guided Biofilm Therapy, Air Polishing, and Mechanical Debridement]] |
@@ -266,6 +271,7 @@ tags: [navigation, category-index, overviews]
 | [[rpd-vs-implant-vs-fpd-selection-overview|RPD vs Implant vs FPD vs SDA — Partially Dentate Selection Decision]] |
 | [[saliva-diagnostics-and-salivary-gland-dysfunction-overview|Saliva & the Salivary Gland: Diagnostic Medium and Secretory Dysfunction — Overview]] |
 | [[schneiderian-membrane-perforation-overview|Schneiderian Membrane Perforation — Occurrence, Predictors, and Outcome After Repair (슈나이더막 천공 — 발생·예측·수복 후 결과 종합)]] |
+| [[screw-access-hole-sealing-protocol-overview|Screw Access Hole Sealing Protocol — Plug Material, Wall Treatment & Composite Thickness (스크류 접근홀 봉쇄 프로토콜 종합)]] |
 | [[severe-atrophy-graftless-rehabilitation-ladder|Overview: Severe Jaw Atrophy — the Graftless Rehabilitation Ladder (숏·경사·관골·골막하 임플란트)]] |
 | [[short-implant-vs-sinus-augmentation-decision|Overview: Short Implant vs Sinus Augmentation in the Atrophic Posterior Maxilla — Decision Synthesis]] |
 | [[single-vs-multivisit-endodontic-outcomes-overview|Single- vs Multiple-Visit Endodontics: Healing & Pain Outcomes — 5-paper synthesis]] |
