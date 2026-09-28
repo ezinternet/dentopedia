@@ -70,6 +70,6 @@ PRISMA 2020; PROSPERO CRD420251139042. Search: MEDLINE + Embase to May 2026. Onl
 ## Related Papers
 
 - [[implants/peri-implantitis/pirc-2026-emergence-profile-angle-peri-implant]] — same first author; narrative review on EP angle and peri-implant health; this MA provides the quantitative confirmation
-- [[implants/peri-implantitis/siegenthaler-2022-convex-emergence-profile-mucosal-recession-rct]] — included primary RCT; reinforces
+- [[implants/soft-tissue/siegenthaler-2022-convex-emergence-profile-mucosal-recession-rct]] — included primary RCT; reinforces
 - [[implants/peri-implantitis/soulami-2022-implant-abutment-emergence-angle-peri-implantitis-sr]] — SR on EP angle and peri-implantitis; contextualizes
-- [[implants/peri-implantitis/misch-2025-abutment-height-emergence-angle-peri-implant-bone-loss]] — extends EP concept to abutment height and MBL
+- [[implants/soft-tissue/misch-2025-abutment-height-emergence-angle-peri-implant-bone-loss]] — extends EP concept to abutment height and MBL
