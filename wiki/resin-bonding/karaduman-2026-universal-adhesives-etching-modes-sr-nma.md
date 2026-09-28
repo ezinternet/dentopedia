@@ -129,5 +129,5 @@ In E-R: CUBQ, FU, GPB, IBU.
 
 - [[hardan-2021-universal-adhesive-dentin-bond-sr-ma]] — prior SR+MA on UA dentin bond (2021)
 - [[hong-2021-universal-adhesive-etching-modes-sr-ma]] — S-E vs E-R comparative SR+MA (2021)
-- [[breschi-2025]] — MMP inhibition and bond durability context
+- [[resin-bonding/breschi-2025-adhesive-dentistry-evolution-review]] — MMP inhibition and bond durability context
 - [[zhou-2025-collagen-crosslinkers-naocl-dentin-bond-strength-sr-ma]] — collagen protection strategies for hybrid layer stability
