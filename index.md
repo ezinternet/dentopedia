@@ -338,6 +338,8 @@ tags: []
 - [[implants/osteotomy-thermal/milone-2026-heat-dental-implant-thermal-analysis]] — in-vitro (n=24, FLIR): 수동 조임+생리식염수 없음+소삭제 = 최고 발열; 윤활이 임플란트 식립 중 온도 유의하게 감소 (2026)
 - [[implants/osseodensification/abdelraouf-2025-implant-stability-posterior-maxilla-clinical]] — 이중맹검 RCT (n=20, Misch D3/D4 상악 구치부): 골밀도화(Osseodensification, OD) vs 기존 드릴링(CD) — OD ISQ 식립 직후 유의 우수(72.7 vs 63.3, p=0.037)·1~4주 유지, CD는 2~3주 stability dip; 생존 9/9 vs 8/10, 삽입 토크·변연골소실 유의차 없음 — mello-machado-2021의 ISQ 동등 결과와 상반(contradicts)
 - [[implants/osseodensification/frizzera-2022-effect-osseodensification-increase-ridge-thickness]] — 무작위 split-mouth in vitro(신선 돼지 하악, n=10/군): OD(Densah)가 CTL 대비 순측 골 결손 높이·폭 유의 감소(0.37 vs 2.5mm), 치조정 순측 능선 확장 유의 증가(0.66 vs 0.18mm), 삽입토크 ↑(49.9 vs 40.4 N·cm) — 협측 결손 예방 기전 근거
+- [[implants/osseodensification/ibrahim-2025-osseodensification-conventional-drilling-dogs-maxilla]] — 잡종견 8마리 분할구강, OD Densah vs 통상 NucleOSS 드릴: 2개월 골면적비 H&E 22.26% vs 11.11% (p<0.001), CBCT 골밀도 협측 1679 vs 920 (p<0.001)
+- [[implants/osteotomy-thermal/kniha-2023-thermal-osteonecrosis-implant-removal-rat]] — 쥐 경골 in vivo: 50°C/60초에서 TEM 비가역 골세포 괴사·EDX 칼슘 유의 증가(p<0.01) → 열폭발적제거(Thermoexplantation) 후보 임계값 확인
 
 ## 임플란트 — 표면처리·골유착 (Implant Surface / Osseointegration)
 - [[implants/surface/koshy-2015-dental-implant-surfaces-overview]] — Koshy 2015, titanium implant surface modification methods (additive/subtractive) narrative overview
