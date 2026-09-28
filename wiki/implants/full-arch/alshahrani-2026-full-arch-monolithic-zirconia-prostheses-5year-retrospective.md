@@ -65,7 +65,7 @@ This retrospective cross-sectional study analyzed laboratory records of 3300 scr
 
 ## Related Papers
 
-- [[implants/full-arch/tomar-2026-prosthetic-complications-complete-arch-umbrella]] — umbrella SR full-arch prosthetic complications across materials (reinforces)
+- [[prosthetic-materials/tomar-2026-prosthetic-complications-complete-arch-umbrella]] — umbrella SR full-arch prosthetic complications across materials (reinforces)
 - [[prosthetic-materials/waltenberger-2025-zirconia-implant-dentistry-guideline]] — S3 guideline ZrO₂ design requirements; framework space guidance (reinforces)
-- [[implants/full-arch/toia-2025-fixed-full-arch-maxillary-prostheses]] — full-arch maxillary prosthesis clinical outcomes (reinforces)
+- [[prosthetic-materials/toia-2025-fixed-full-arch-maxillary-prostheses]] — full-arch maxillary prosthesis clinical outcomes (reinforces)
 - [[prosthetic-materials/kowar-2026-monolithic-veneered-zirconia-titanium-ceramic-fdp-rct]] — 3-arm RCT, framework fracture mechanism in ZrO₂ FDPs (extends)
