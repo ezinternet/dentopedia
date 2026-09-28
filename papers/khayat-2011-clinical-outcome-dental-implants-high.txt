@@ -1,0 +1,47 @@
+Clinical outcome of dental implants placed with high insertion torques (up to 176 Ncm).
+
+Khayat PG, Arnal HM, Tourbah BI, Sennerby L.
+Clinical Implant Dentistry and Related Research (Clin Implant Dent Relat Res). 2013;15(2):227-33 (epub 2011-05-20).
+DOI: 10.1111/j.1708-8208.2011.00351.x
+PMID: 21599832
+PMCID: none (no PMC copy)
+Publication date (PubMed): 2011-05-20
+Language: eng
+Article types: Journal Article
+
+Affiliations:
+- Khayat PG — Department of Restorative Dentistry, School of Dentistry, University of Washington, Seattle, Washington, USA.
+
+MeSH terms: Adult; Aged; Aged, 80 and over; Alveolar Bone Loss; Alveolar Process; Dental Implantation, Endosseous;
+Dental Implants; Dental Prosthesis Design; Dental Prosthesis Retention; Female; Follow-Up Studies; Humans;
+Jaw, Edentulous, Partially; Male; Mandible; Maxilla; Middle Aged; Osseointegration; Prospective Studies; Torque;
+Treatment Outcome
+
+ABSTRACT-ONLY — retrieved from PubMed structured abstract via PubMed MCP (get_article_metadata), 2026-09-28.
+Full text not retrieved (no PMC copy exists).
+
+BACKGROUND
+Primary stability can be improved by using a tapered implant in a slightly underprepared implant site. This may
+lead to high compression forces and elevated insertion torques. It has been postulated that disturbance of the
+local microcirculation may occur, leading to necrosis of the osteocytes and bone resorption.
+
+PURPOSE
+Report on the clinical outcome of 42 implants placed with an insertion torque equal or greater than 70 Ncm and
+evaluate bone levels around these implants.
+
+MATERIALS AND METHODS
+This prospective study included 48 patients treated with 66 4.5 mm diameter Tapered Screw-Vent implants (Zimmer
+Dental, Carlsbad, CA, USA). Maximum insertion torque (MIT) was recorded with an electronic torque measuring device
+(Tohnichi STC200CN, Hitachi, Tokyo, Japan). Nine implants (control group) presented MIT between 30 and 50 Ncm
+(mean = 37.1 Ncm) and 42 implants (experimental group) MIT greater than 70 Ncm (mean = 110.6 Ncm, range:
+70.8-176 Ncm). Marginal bone levels were recorded at the time of loading and 1 year later for the two groups.
+
+RESULTS
+After 2-3 months of non-submerged healing, all implants were clinically stable. Mean marginal bone resorption was
+1.03 mm (SD = 0.44) for the control group (low torque) and 0.72 mm (SD = 0.56) for the experimental group (high
+torque) at time of loading, and 1.09 (SD = 0.62) and 1.24 mm (SD = 0.75), respectively, after 1 year. There were
+no significant differences between the two groups for bone stability and implant success rate.
+
+CONCLUSIONS
+The use of high insertion torques (up to 176 Ncm) did not prevent osseointegration. Marginal bone levels in the
+control and experimental groups were similar both at the time of loading and 1 year later.
