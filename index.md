@@ -1156,6 +1156,9 @@ tags: []
 - [[prosthetic-materials/toia-2025-fixed-full-arch-maxillary-prostheses]] — 5-year multicenter RCT: 4 vs 6 implants for maxillary fixed complete dentures, non-inferior MBL, 4-I higher technical complications but lower cost (2025)
 - [[implants/full-arch/alshahrani-2026-full-arch-monolithic-zirconia-prostheses-5year-retrospective]] — 후향적(n=3300 CAFIP, 5년): 단일체 ZrO₂ 전악 보철 5년 생존율 91.67%; 프레임워크 파절 38건(수직 공간 부족 주인); Ti 실린더 실패 0건; 연도별 실패 증가 추이(2→14건)
 - [[prosthetic-materials/abutment-screw/park-2025-cementless-screw-retained-single-implant-rct]] — Park 2025 · rct · 예비 RCT(40임플란트/35명, ~6개월): 완전 디지털 시멘트리스 나사유지(CL-SRP) vs 재래 CSCRP — 총 보철시간 588.79 vs 1363.15초(p<0.001)·조기 MBL 0.47 vs 0.71 mm(p<0.05)로 유의하게 우세; 정확도·연조직 동등, 시멘트리스 나사유지 설계 최초 임상 근거
+- [[prosthetic-materials/abutment-screw/packaeser-2025-effect-resin-composite-filling-thickness]] — 지르코니아 어버트먼트 스크류 접근홀 봉쇄 레진 두께 인비트로 피로시험: 1.5mm 이상 채워야 피로강도 유의 개선(1426N vs 대조군 1120N, p≤0.05)
+- [[prosthetic-materials/abutment-screw/pereira-2016-influence-sealing-screw-access-hole]] — 나사유지 임플란트 보철물 30개(3군×10) 벤치 실험: 스크류 접근홀(SAH) 실링 유무(SRS vs SRNS) 간 파절저항 유의차 없음, 시멘트유지(CR)군이 파절저항 최고치
+- [[prosthetic-materials/abutment-screw/singla-2025-comparative-microbial-assessment-different-screw]] — SAH 충전재 비교 RCT(35명/45임플란트): PTFE·1%CHX 면 모두 면(cotton) 대비 세균오염 유의하게 낮음(혐기성 양성률 면 95%→PTFE 50%/Co1%CHX 20%), IL-6는 3개월간 유의변화 없음
 
 ## 총의치·가철성보철 (Complete Denture / Removable Prosthodontics — added 2026-06-16)
 - [[complete-denture/refai-2026-occlusion-disocclusion-implant-overdentures-splinted]] — Refai 2026 · rct (n=36, 3군×12, T-Scan) · 즉시부하 2-임플란트 하악 오버덴처 **연결(용접바 IW) vs 비연결(볼 IB) vs 총의치(CD)**: 두 임플란트군 모두 CD보다 교합/이개시간 짧음(OT CD 0.52 vs IB 0.35 vs IW 0.29s, p<0.001), 단 IB≈IW(무유의차) → 임플란트 2개 연결의 교합기능 이점 없음 (DOI 10.1186/s12903-026-08855-w)
