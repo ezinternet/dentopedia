@@ -452,6 +452,11 @@ Choose aligners confidently for **mild-to-moderate, non-extraction, predominantl
 - [[orthodontics/clear-aligner/huang-2026-clear-aligner-therapy-for-adult]] — SR with evidence map and GRADE certainty appraisal: CAT for adult anterior open bite (AOB); dentoskeletal change profiles, vertical control mechanisms, and certainty of evidence for overbite correction; extends AOB indication evidence base. (sr+ma, 2026)
 - [[orthodontics/clear-aligner/kuzminskaite-2026-clinical-efficacy-of-aligners-with]] — SR: aligners with mandibular advancement vs conventional functional appliances for Class II treatment; skeletal and dentoalveolar efficacy comparison, indications for aligner-based Class II management. (sr, 2026)
 
+### 신규 추가 (2026-09-29) — Class II 용적 효과 · 어태치먼트 재료
+
+- [[orthodontics/clear-aligner/kavasoglu-2026-maa-vs-activator-cbct-volumes]] — **RCT (n=55, CVM 2-3, 약 8개월, 3D CBCT 용적 분석)**: Invisalign MAA vs Activator vs 비처치 대조군 — 하악·상악 골 **용적 변화 군간 유의차 없음**; MAA 조내 상악 용적 증가 유의(p=0.009)는 성장 효과로 해석; 단기 II급 교정이 골 용적 성장보다 위치 적응 주도임을 시사. Class II MA 적용 §에서 kuzminskaite-2026 SR과 연계. (rct, 2026)
+- [[orthodontics/clear-aligner/fialho-2026-flowable-vs-bulkfill-aligner-attachments]] — **Split-mouth RCT (n=50, 140일, 800어태치먼트)**: 플로어블 vs 벌크필 플로어블 레진 어태치먼트 생존율 동등(HR 0.84, p=0.293); 전체 탈락률 18.75%; 구치부 탈락률 높음. jedlinski-2023 SR 보완 — 재료 차이 없이 일반 플로어블로 대체 가능, 비용 효율적. (rct, 2026)
+
 ## Related Overviews
 
 - [[overviews/orthodontic-tooth-movement-biology]] — molecular/biomechanical basis of tooth movement underlying aligner force delivery
