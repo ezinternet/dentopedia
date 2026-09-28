@@ -60,7 +60,7 @@ The biologic width concept — historically derived from Gargiulo et al.'s cadav
 
 ## Related Papers
 
-- [[wiki/implants/mbl/salimi-2011-platform-switching-current-results]] — platform switching clinical outcomes review
-- [[wiki/implants/mbl/gupta-2019-platform-switching-crestal-bone-loss-sr]] — SR of platform switching vs matching on crestal bone loss
-- [[wiki/implants/mbl/lazzara-2006-platform-switching-new-concept]] — origin of the platform-switching concept
-- [[wiki/periodontics/padilla-avallos-2026-supracrestal-tissue-attachment-biologic-width]] — modern STA/biologic width management (tooth side)
+- [[implants/mbl/salimi-2011-platform-switching-current-results]] — platform switching clinical outcomes review
+- [[implants/mbl/gupta-2019-platform-switching-crestal-bone-loss-sr]] — SR of platform switching vs matching on crestal bone loss
+- [[implants/mbl/lazzara-2006-platform-switching-new-concept]] — origin of the platform-switching concept
+- [[periodontics/padilla-avallos-2026-supracrestal-tissue-attachment-biologic-width]] — modern STA/biologic width management (tooth side)
