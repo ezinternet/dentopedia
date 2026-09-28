@@ -58,7 +58,7 @@ The supracrestal tissue attachment — the dentogingival unit historically calle
 
 ## Related Papers
 
-- [[wiki/periodontics/hamasni-2017-biologic-width-restorative-dentistry]] — cranial reference for biologic width measurement in restorative dentistry
-- [[wiki/periodontics/alam-2024-supracrestal-tissue-attachment-biologic-width]] — clinical pathway for STA violation (identification → evaluation → surgical correction)
-- [[wiki/periodontics/abdulkarim-2024-digital-assessment-supracrestal-tissue-attachment]] — digital CBCT/scan superimposition measurement of STA dimension
-- [[wiki/periodontics/ercoli-2021-fixed-dental-prostheses-restorations-periodontium]] — prosthetic planning impact on the periodontium
+- [[periodontics/hamasni-2017-biologic-width-restorative-dentistry]] — cranial reference for biologic width measurement in restorative dentistry
+- [[periodontics/alam-2024-supracrestal-tissue-attachment-biologic-width]] — clinical pathway for STA violation (identification → evaluation → surgical correction)
+- [[periodontics/abdulkarim-2024-digital-assessment-supracrestal-tissue-attachment]] — digital CBCT/scan superimposition measurement of STA dimension
+- [[periodontics/ercoli-2021-fixed-dental-prostheses-restorations-periodontium]] — prosthetic planning impact on the periodontium
