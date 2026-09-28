@@ -141,7 +141,18 @@ if quiz_q:
   <p class="quiz-source">출처: {quiz_title_esc}</p>
 </section>"""
 
-html = f"""<!DOCTYPE html>
+html = f"""<!--
+---
+title: "이번 주 핵심 근거 카드 {digest_date}"
+type: interactive
+date: {digest_date}
+status: done
+category: meta
+agenda: agenda/2026-07-15_audit-to-briefing-bridge.md
+source_wiki: []
+---
+-->
+<!DOCTYPE html>
 <html lang="ko">
 <head>
 <meta charset="utf-8">
