@@ -415,3 +415,5 @@ Logged by subagents at deviation time. `deviation-audit.py` flags types with ≥
 | 2026-09-22 | wu-2026-prediction-pulpal-sequelae-machine-learning-cracked | abstract-only | No PMC full text; page built from structured abstract only |
 | 2026-09-22 | deng-2026-occlusal-morphology-cracked-teeth-3d-morphometric | abstract-only | No PMC full text; page built from structured abstract only |
 | 2026-09-22 | guler-2013-resonance-frequency-analysis-straumann-dental | abstract-only | subscription journal, built from abstract only (PMID 22103915) |
+| 2026-09-28 | packaeser-2025-effect-resin-composite-filling-thickness | source-data-issue | INGEST.md Step1 표는 '아티팩트 없음(PMC 초록 직접) → pubmed-text + text_path 생략'이라 적혀 있으나 실제 scripts/lint.py는 그 조합을 MISSING[text_path,text_filename]으로 에러 처리한다. 실제 코드가 요구하는 값은 source_collection: pubmed-abstract (아티팩트 필드 전부 면제). 문서(INGEST.md) 업데이트 필요 — 코드가 SSOT. |
+| 2026-09-28 | pereira-2016-influence-sealing-screw-access-hole | source-data-issue | 동일 문제 (packaeser-2025와 같은 배치) — source_collection: pubmed-text → pubmed-abstract로 수정, INGEST.md 문서 불일치 |
