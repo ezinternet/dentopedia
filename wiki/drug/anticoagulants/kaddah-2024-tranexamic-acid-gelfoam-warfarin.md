@@ -13,7 +13,7 @@ source_collection: pubmed-abstract
 tags: []
 relations:
   - type: reinforces
-    target: bergo-2026-tranexamic-acid-anticoagulants-oral-surgery
+    target: drug/anticoagulants/bergo-2026-topical-tranexamic-acid-powder-dentistry
 ---
 
 ## Three-line Summary
@@ -68,5 +68,5 @@ This triple-blind split-mouth RCT from Alexandria University enrolled 30 warfari
 ## Related Papers
 
 - [[drug/anticoagulants/singh-jolly-2025-chitosan-dressing-deranged-coagulation]] — INR-overlapping patient population (1.5–4); chitosan vs gauze; contrasts with TXA-Gelfoam approach
-- [[drug/anticoagulants/bergo-2026-tranexamic-acid-anticoagulants-oral-surgery]] — broader TXA anticoagulant literature; TXA mouthwash format vs socket placement format
+- [[drug/anticoagulants/bergo-2026-topical-tranexamic-acid-powder-dentistry]] — broader TXA anticoagulant literature; TXA mouthwash format vs socket placement format
 - [[drug/anticoagulants/agrawal-2025-efficacy-chitosan-dressing-antiplatelet]] — antiplatelet patients; contrasts pharmacologic basis (antiplatelet vs anticoagulant management)
