@@ -56,5 +56,5 @@ A Korean review article (Yonsei University, Dept. of Advanced General Dentistry)
 
 ## Related Papers
 
-- [[wiki/periodontics/caton-2018-classification-scheme-periodontal-periimplant-diseases]] — 2017 workshop classification scheme overview (English primary source)
-- [[wiki/periodontics/papapanou-2018-periodontitis-classification-consensus-2017]] — periodontitis workgroup 2 consensus report (English primary source)
+- [[periodontics/caton-2018-classification-scheme-periodontal-periimplant-diseases]] — 2017 workshop classification scheme overview (English primary source)
+- [[periodontics/papapanou-2018-periodontitis-classification-consensus-2017]] — periodontitis workgroup 2 consensus report (English primary source)
