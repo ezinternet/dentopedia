@@ -61,5 +61,5 @@ Insertion torque: not independently associated with MBL in multivariate analysis
 
 ## Related Papers
 
-- [[implants/versah-protocols/tomar-2026-osseodensification-conventional-drilling-umbrella]] — OD (Versah) umbrella review; same bone-preservation osteotomy principle
-- [[implants/isq/marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma]] — OD SR+MA for ISQ/IT
+- [[implants/osseodensification/tomar-2026-osseodensification-conventional-drilling-umbrella]] — OD (Versah) umbrella review; same bone-preservation osteotomy principle
+- [[implants/osseodensification/marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma]] — OD SR+MA for ISQ/IT
