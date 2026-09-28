@@ -103,4 +103,4 @@ Prevention is technique-driven: a modified transcrestal OSFE releasing membrane 
 
 ## Related Overviews
 
-- [[wiki/overviews/transcrestal-maxillary-sinus-augmentation-overview]] — crestal sinus lift technique landscape including tension-release variants
+- [[overviews/transcrestal-maxillary-sinus-augmentation-overview]] — crestal sinus lift technique landscape including tension-release variants
