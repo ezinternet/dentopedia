@@ -335,6 +335,11 @@ T0(식립) 63.8 → T2(3mo) 73.5 → T3(6mo) 74.65 [BBM 이식]
 
 **갱신 메모 (2026-06-28)**: 3편 추가. Huang 2017은 시스템 독립적 ISQ 예측인자를 정량적으로 확인(T1=골이식, T2=직경). Chatvaratthana 2017(crestal/buccolingual)은 ISQ가 3mm 이내 피질골만 반영한다는 명제를 r=0.885로 최강 지지 — 이전 §4의 "심부 6–9mm 무관" 표현을 정확히 보강. Lee 2024는 Anycheck(IST)를 Osstell 대안으로 §5에 공식 추가.
 
+### 신규 추가 (2026-09-29) — 표면처리·부위별 ISQ 기준선
+
+- [[implants/isq/novellino-2017-rfa-posterior-maxilla-surface-treatment]] — reinforces §2.4: 친수성 SAE 임플란트 RCT (n=64, 상악 구치부, 16주). 친수성 SAE가 표준 SAE 대비 ISQ ≥70 도달 속도 **2.24배** 빠름; 8주 이후 ISQ 유의하게 높음 — "표면처리는 임계값 도달 속도를 가속" 명제를 후기 포인트에서 재확인 (rct, 2017).
+- [[implants/isq/yi-2011-rfa-stability-types-areas]] — extends §2.1: 후향적 연구 (n=206, 131명, 한국). 하악 > 상악 ISQ (p<0.001), 직경 4.8mm > 4.1mm (p<0.001, SLA군), SLA(Straumann) > RBM(Osstem) 3개월 시점 특히 구치부 하악·전구치부 상악에서 유의 (p<0.05) — §2.1 부위·직경·표면 기준선 보강 (retrospective, 2011).
+
 ## Related Overviews
 
 - [[overviews/sinus-lift-isq-loading-timing]] — 상악동거상술 술식별 ISQ 궤적과 부하 시기 (이 페이지의 sinus 섹션 확장판)
