@@ -118,7 +118,7 @@ Zero heterogeneity (I²=0%) across all outcomes — remarkable consistency.
 
 ## Links
 
-- [[breschi-2025]] — MMP inhibition and hybrid layer stability (lab/mechanistic basis)
+- [[resin-bonding/breschi-2025-adhesive-dentistry-evolution-review]] — MMP inhibition and hybrid layer stability (lab/mechanistic basis)
 - [[zhou-2025-collagen-crosslinkers-naocl-dentin-bond-strength-sr-ma]] — alternative collagen protection strategies
 - [[liao-2026-collagen-crosslinkers-resin-dentin-interface-sr-ma]] — collagen cross-linkers SR+MA 2026
 - [[karaduman-2026-universal-adhesives-etching-modes-sr-nma]] — UA ranking NMA 2026
