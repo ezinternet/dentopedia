@@ -53,4 +53,4 @@ This multicenter RCT across 5 centres randomised 39 patients (19: 7mm, 20: 5mm B
 - [[immediate-implant/checchi-2017-wide-diameter-immediate-post-extractive]] — extends: earlier Esposito-group wide-diameter molar RCT
 - [[overviews/immediate-implant-evidence-survival-timing-infected-loading-overview]] — survival evidence context for immediate molar placement
 - [[overviews/implant-macrogeometry-length-diameter-primary-stability-overview]] — diameter effect on primary stability
-- [[immediate-implant/mustakim-2023-immediate-implant-maxillary-molar-guidelines]] — molar-specific immediate implant guidelines
+- [[immediate-implant/molar-septum/mustakim-2023-immediate-implant-maxillary-molar-guidelines]] — molar-specific immediate implant guidelines
