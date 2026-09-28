@@ -58,6 +58,7 @@ source_papers:
   - wiki/sinus-lift/transcrestal/dhore-2025-sinus-lifting-procedure-using-osseodensification.md
   - wiki/sinus-lift/transcrestal/shah-2026-implant-stability-elevation-outcomes-crestal.md
   - wiki/implants/osteotomy-thermal/sadek-2025-peri-implant-bone-behavior-after-single.md
+  - wiki/implants/osseodensification/ibrahim-2025-osseodensification-conventional-drilling-dogs-maxilla.md
 evidence_level: synthesis
 source: synthesis
 agenda: agenda/2026-05-25_osseodensification-whole-picture.md
@@ -419,6 +420,10 @@ Living document 원칙으로 명시:
 - [[implants/osseodensification/marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma]] — **CCW-only 인체 SR+MA(555명/685개, PRISMA 2020)**: IT 45.75 vs 38.00 N·cm(P<0.001); **ISQ MD 3.24(95% CI 0.72–5.95, P=0.024) — 인체 SR+MA 최초 유의 (오스테오톰 제외 조건)**; 이전 NS(mohammadi·shilpi)의 기법 혼입 가설; ISQ 효과 크기는 혼입 SR보다 작음
 - [[implants/osseodensification/kalra-2025-implant-stability-crestal-bone-osseodensification-sr-ma]] — **저밀도골 CBL null SR+MA(5편/109명/198개)**: ISQ 기저치·추적 유의↑(P<.05); **CBL 어느 시점도 NS — OD의 1차 안정성 이득이 변연골 보호로 전이 안 됨(CBL-pooling 최초 SR+MA)**; n=198 소규모
 - [[implants/osseodensification/ali-2026-osseodensification-techniques-implant-stability-maxilla]] — **전방 상악 DB vs MM split-mouth RCT(n=7)**: DB ISQ 70.1 vs MM 49.0(p<0.001), 6개월 DB 74.7 vs MM 59.8; DB 순구개측 골판↑; **MM 골절 → 실패**; DB가 얇은 치조제 전방 심미 구역에서 안전 선택
+
+### 신규 추가 (2026-09-29) — 동물 모델 in vivo 근거
+
+- [[implants/osseodensification/ibrahim-2025-osseodensification-conventional-drilling-dogs-maxilla]] — **개 상악 split-mouth in vivo RCT(n=6, 18개, 3·6개월 조직계측·ISQ·BIC)**: OD(CCW+역회전) vs CD — OD군 섬유아세포·혈관형성 우세·미성숙 골 유리형 골형성; CD군 골세포 성숙 우세; **ISQ: OD>CD (3mo 76.17 vs 70.83, 6mo 82.00 vs 79.83, 두 시점 NS**); 조직계측: 두 군 유의차 없음(NS). 기존 벤치·ex vivo 위주 OD 근거의 동물 in vivo 확장; 성숙도 차이는 6개월까지 수렴 가능성 시사. (animal RCT, 2025)
 
 ## Clinical Quiz
 <!-- quiz_spec -->
