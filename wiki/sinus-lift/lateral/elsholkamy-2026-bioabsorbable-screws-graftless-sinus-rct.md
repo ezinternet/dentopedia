@@ -61,7 +61,7 @@ This double-blind RCT tested bioabsorbable screws (Inion FreedomScrews™) as sp
 - All 14 implants: primary stability achieved at 8 months
 
 ## Related Papers
-- [[sinus-lift/lateral/fettouh-2025-graftless-lateral-transcrestal-sinus-rct]] — extends (1-yr graftless RCT, both approaches ISQ ~80)
+- [[sinus-lift/transcrestal/fettouh-2025-graftless-lateral-transcrestal-sinus-rct]] — extends (1-yr graftless RCT, both approaches ISQ ~80)
 - [[sinus-lift/transcrestal/kostakis-2025-graftless-sinus-lift-simultaneous-8year]] — reinforces (graftless 8yr, 97.76% success)
 - [[sinus-lift/lateral/thomas-2026-alloplastic-biologic-grafts-sinus-sr]] — reinforces (xenograft superior volumetric stability, equivalent implant survival)
 - [[sinus-lift/lateral/tian-2026-large-sinus-membrane-perforations-collagen]] — related (collagen membrane use in lateral window)
