@@ -59,5 +59,5 @@ Exact ISQ values not provided in abstract; relative ordering from text.
 
 ## Related Papers
 
-- [[implants/versah-protocols/tomar-2026-osseodensification-conventional-drilling-umbrella]] — umbrella review confirming OD superiority; explains why OD trend here is directionally consistent
-- [[implants/isq/marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma]] — SR+MA with pooled ISQ data (OD significantly superior)
+- [[implants/osseodensification/tomar-2026-osseodensification-conventional-drilling-umbrella]] — umbrella review confirming OD superiority; explains why OD trend here is directionally consistent
+- [[implants/osseodensification/marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma]] — SR+MA with pooled ISQ data (OD significantly superior)
