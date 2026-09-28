@@ -2,7 +2,7 @@
 title: "임플란트·ISQ — isq"
 authors: navigation
 year: 2026
-date: 2026-09-22
+date: 2026-09-28
 doi: N/A
 source: navigation
 category: implants/isq
@@ -15,20 +15,20 @@ tags: [navigation, category-index, isq]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·ISQ
 > - **범위**: ISQ/RFA measurement, stability dip, loading decision thresholds
-> - **수록 논문**: 83편
+> - **수록 논문**: 89편
 
 ## Three-line Summary
 
 **Scope**: ISQ/RFA measurement, stability dip, loading decision thresholds
-**Indexed papers**: 83 papers in `wiki/implants/isq/`.
+**Indexed papers**: 89 papers in `wiki/implants/isq/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·ISQ
-**수록 논문**: 83편
+**수록 논문**: 89편
 **하위 카테고리**: 없음
 
-## Papers in this Category (83)
+## Papers in this Category (89)
 
 | Paper |
 |---|
@@ -73,6 +73,7 @@ tags: [navigation, category-index, isq]
 | [[huang-2020-isq-clinical-significance-literature-review|The Clinical Significance of Implant Stability Quotient (ISQ) Measurements: A Literature Review]] |
 | [[javed-2013-primary-stability-osseointegration-factors-influence|Role of primary stability for successful osseointegration of dental implants: Factors of influence and evaluation]] |
 | [[kastel-2019-smartpeg-torque-isq-rfa|Influence of the Applied Torque on Resonance Frequency Analysis (RFA)-based Implant Stability Measurements]] |
+| [[khayat-2011-clinical-outcome-dental-implants-high|Clinical outcome of dental implants placed with high insertion torques (up to 176 Ncm)]] |
 | [[kim-2009-implant-stability-various-implant-systems-clinical|A comparison of the implant stability among various implant systems: clinical study]] |
 | [[kim-2013-implant-stability-retrospective-rfa-isq|Retrospective study of implant stability according to the implant length, diameter and position]] |
 | [[kim-2026-ist-versus-isq-reliability-inter-examiner|Time- and Cost-Efficient, Minimally Invasive Comparative Assessment of Implant Stability: Reliability and Inter-Examiner Agreement of IST Versus ISQ Across Different Bone Quality Models]] |
@@ -83,6 +84,7 @@ tags: [navigation, category-index, isq]
 | [[lee-2011-isq-loading-protocol-prediction|The relationship between implant stability quotient values and implant insertion variables: A 5-month prospective clinical study]] |
 | [[lee-2024-primary-implant-stability-isq-devices-invitro|Correlation of two different devices for the evaluation of primary implant stability depending on dental implant length and bone density: An in vitro study]] |
 | [[lemos-2020-high-insertion-torque-dental-implants-sr-ma|Clinical Effect of the High Insertion Torque on Dental Implants: A Systematic Review and Meta-Analysis]] |
+| [[manfredini-2025-high-insertion-torque-clinical-implications|High Insertion Torque—Clinical Implications and Drawbacks: A Scoping Review]] |
 | [[marconcini-2018-high-insertion-torque-bone-resorption-rct|Longitudinal Analysis on the Effect of Insertion Torque on Delayed Single Implants: A 3-Year Randomized Clinical Study]] |
 | [[meredith-1996-quantitative-stability-implant-tissue-rfa|Quantitative determination of the stability of the implant-tissue interface using resonance frequency analysis]] |
 | [[mistry-2014-measuring-implant-stability-review-methods|Measuring implant stability: A review of different methods]] |
@@ -90,9 +92,11 @@ tags: [navigation, category-index, isq]
 | [[monje-2025-implant-design-stability-early-healing-rct|Effect of Dental Implant Design on Stability During Early Healing: A Randomised Controlled Trial]] |
 | [[nakashima-2021-laser-rfa-pedicle-screw-stability|Laser resonance frequency analysis of pedicle screw stability: A cadaveric model bone study]] |
 | [[nandini-2022-cylindrical-vs-tapered-implant-isq|Comparative Evaluation of Implant Stability Quotient and Peri-implant Parameters of Cylindrical and Tapered Implants]] |
+| [[nascimento-2024-measurement-bone-deformation-insertion-torque|Measurement of bone deformation and insertion torque during dental implant installation]] |
 | [[naughton-2023-safemount-osstell-transducer-torque-isq|An in vitro study evaluating the efficacy of a novel mount with torque control designed to tighten Osstell® transducers]] |
 | [[nedir-2004-predicting-osseointegration-primary-stability-rfa|Predicting osseointegration by means of implant primary stability: A resonance-frequency analysis study with delayed and immediately loaded ITI SLA implants]] |
 | [[nkenke-2003-implant-stability-histomorphometry-cadaver-correlation|Implant Stability and Histomorphometry: Correlation Study in Human Cadavers (Stepped Cylinder Implants)]] |
+| [[novellino-2017-rfa-posterior-maxilla-surface-treatment|RFA of Dental Implants at Posterior Maxilla Varying Surface Treatment Only: RCT]] |
 | [[oh-2008-comparison-of-initial-implant-stability|Resonance Frequency Analysis를 이용한 임플란트 종류간의 초기 안정성 비교]] |
 | [[pagliani-2013-rfa-lateral-displacement|The relationship between resonance frequency analysis (RFA) and lateral displacement of dental implants: an in vitro study]] |
 | [[parmar-2024-dependability-osstell-isq-measuring|Dependability of Osstell ISQ's for measuring implant stability]] |
@@ -101,6 +105,7 @@ tags: [navigation, category-index, isq]
 | [[rosas-diaz-2023-rfa-mapping-nanostructured-hydroxyapatite|Resonance Frequency Analysis Mapping During Implant Healing Using a Nanostructured Hydroxyapatite Surface]] |
 | [[rosasdiaz-2024-insertion-compression-primary-stability|The Influence of the Degree of Dental Implant Insertion Compression on Primary Stability Measured by Resonance Frequency and Progressive Insertion Torque: In Vitro Study]] |
 | [[rosasdiaz-2026-pitv-classification-repeatability-observational|Repeatability and Reproducibility of a PITV-Based Primary Stability Classification]] |
+| [[sachelarie-2025-osteoporosis-diabetes-dental-implant|The Influence of Osteoporosis and Diabetes on Dental Implant Stability: A Pilot Study]] |
 | [[sennerby-2008-implant-stability-resonance-frequency-analysis|Implant Stability Measurements Using Resonance Frequency Analysis: Biological and Biomechanical Aspects and Clinical Implications]] |
 | [[sennerby-2015-two-different-implant-designs-drilling|Two different implant designs and impact of related drilling protocols on primary stability in different bone densities: an in vitro comparison study]] |
 | [[seol-2017-uv-implant-resonance-frequency-early-loading|Resonance Frequency Analysis and Early Loading of Implants with Sealed UV Treatment System: Case Reports]] |
@@ -114,4 +119,5 @@ tags: [navigation, category-index, isq]
 | [[venkatesh-2026-three-osteotomy-techniques-posterior-rct|Conventional vs Osteotome vs Osseodensification ISQ Comparison: Posterior Maxilla RCT]] |
 | [[vilchez-2025-sla-slactive-split-mouth-rct|Clinical and Radiographic Performance of Two Distinct Sandblasted, Large-Grit, Acid-Etched Implant Surfaces: A Split-Mouth Randomized Clinical Trial]] |
 | [[won-2008-smartpeg-sterilization-rfa-implant-stability|SmartPeg Sterilization Methods and RFA Reliability: In-vitro Study on ISQ Stability After Repeated Use and Disinfection]] |
+| [[yi-2011-rfa-stability-types-areas|ISQ by Implant Types and Areas: Straumann SLA vs Osstem RBM, Retrospective Analysis]] |
 | [[zix-2008-osstell-periotest-implant-stability-clinical|Measurement of Dental Implant Stability by Resonance Frequency Analysis and Damping Capacity Assessment: Comparison of Both Techniques in a Clinical Trial]] |
