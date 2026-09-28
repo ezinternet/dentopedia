@@ -54,7 +54,7 @@ Design: SR. Databases: PubMed/MEDLINE, ScienceDirect, Google Scholar, Cochrane L
 ## Related Papers
 
 - [[orthodontics/clear-aligner/nogueira-matos-2026-refinement-factors-clear-aligner-sr]] — reinforces (compliance and movement limitations as refinement drivers)
-- [[orthodontics/clear-aligner/wafaie-2023-compliance-retainer-audiovisual-reminder]] — extends (compliance intervention strategies)
+- [[orthodontics/wafaie-2023-compliance-retainer-audiovisual-reminder]] — extends (compliance intervention strategies)
 - [[orthodontics/clear-aligner/benedetti-2025-clear-aligner-rotation-accuracy-sr]] — reinforces (rotation as least accurate movement)
 - [[orthodontics/clear-aligner/chong-2025-patient-experiences-cat-scoping-review]] — reinforces (patient experience factors in compliance)
 
