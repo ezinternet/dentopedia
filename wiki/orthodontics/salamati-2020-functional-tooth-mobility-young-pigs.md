@@ -56,6 +56,6 @@ Tooth mobility is a fundamental characteristic used clinically to judge tooth pr
 
 ## Related Papers
 
-- [[wiki/orthodontics/papadopoulou-2013-biomechanical-time-dependency-periodontal-ligament]] — PDL bilinear viscoelastic parameters (FEM + μCT), stress/strain magnitudes
-- [[wiki/orthodontics/keilig-2016-in-vivo-measurements-pdl]] — in-vivo human PDL time-dependent modulus (0.9–1.2 MPa)
-- [[wiki/orthodontics/jepsen-2023-biomechanical-properties-periodontal-tissues-non-periodontitis]] — clinical mobility/stiffness in health vs periodontitis
+- [[orthodontics/papadopoulou-2013-biomechanical-time-dependency-periodontal-ligament]] — PDL bilinear viscoelastic parameters (FEM + μCT), stress/strain magnitudes
+- [[orthodontics/keilig-2016-in-vivo-measurements-pdl]] — in-vivo human PDL time-dependent modulus (0.9–1.2 MPa)
+- [[orthodontics/jepsen-2023-biomechanical-properties-periodontal-tissues-non-periodontitis]] — clinical mobility/stiffness in health vs periodontitis
