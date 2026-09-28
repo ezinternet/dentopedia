@@ -1,0 +1,44 @@
+Heat generation and drill wear during dental implant site preparation: systematic review.
+
+Möhlhenrich SC, Modabber A, Steiner T, Mitchell DA, Hölzle F.
+The British Journal of Oral & Maxillofacial Surgery (Br J Oral Maxillofac Surg). 2015;53(8):679-89.
+DOI: 10.1016/j.bjoms.2015.05.004
+PMID: 26051868
+Publication date: 2015-06-04
+Language: eng
+Article types: Journal Article; Systematic Review
+
+Affiliations:
+- Möhlhenrich SC, Modabber A, Steiner T, Hölzle F — Department of Oral and Maxillofacial
+  Surgery, University Hospital of Aachen University, Pauwelsstraße 30, 52074 Aachen, Germany.
+- Mitchell DA — Department of Oral and Maxillofacial Surgery, Oral and Facial Specialties
+  Mid-Yorkshire Hospitals, Pinderfields Hospital, Aberford Road, Wakefield, West Yorks WF1 4DG,
+  England, UK.
+
+Keywords: Heat generation; Implant site preparation; Infrared thermography; Irrigation methods;
+Osseous models; Thermocouple
+MeSH terms: Animals; Body Temperature; Cattle; Dental Implantation; Dental Implants; Dental
+Instruments; Heating; Humans; Swine; Thermography
+
+SOURCE NOTE: Retrieved via the PubMed MCP (get_article_metadata, PMID 26051868) on 2026-09-28.
+No PubMed Central (PMC) copy exists for this record, so no full text was retrievable — the text
+below is the structured abstract as indexed in PubMed, and is the complete extent of the primary
+material held for this paper. Metadata and abstract courtesy of PubMed;
+DOI: https://doi.org/10.1016/j.bjoms.2015.05.004
+
+=== ABSTRACT (as indexed in PubMed) ===
+
+To identify factors that minimise damage during the drilling of sites for dental implants, we
+reviewed published papers on the amount of heat that is generated. We systematically searched
+English language studies published between January 2000 and February 2014 on MEDLINE/PubMed and
+found 41 articles, of which 27 related to an increase in temperature during preparation of the
+site. We found only basic research with a low level of evidence. Most of the studies were in
+vitro, and osteotomies were usually made in non-vital bone from cows or pigs. To measure heat in
+real time, thermocouples were used in 18 studies and infrared thermographs in 7. Three studies
+reported the use of immunohistochemical analysis to investigate immediate viability of cells. The
+highest temperature measured was 64.4°C and the lowest 28.4°C. Drill wear was reported after
+preparation of 50 sites, and there was a significant increase in temperature and a small change
+in the physiological balance of the proteins in the bone cells. Differences in the study designs
+meant that meta-analysis was not appropriate. For future work, we recommend the use of standard
+variables: an axial load of 2kg, drilling speed of 1500rpm, irrigation, standard artificial bone
+blocks, and the use of infrared thermography.
