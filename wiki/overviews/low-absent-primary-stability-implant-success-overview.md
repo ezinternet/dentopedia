@@ -69,7 +69,7 @@ This page synthesizes the clinical side of the "third regime" — the cases wher
 |---|---|---|---|---|
 | [[implants/survival/cobo-vazquez-2018-effect-lack-primary-stability-survival]] | retrospective, 92/2400, conventional loading | Rodrigo grades B (rotation w/ resistance), C (free rotation), D (rotation + oscillation) | 96.7% (loss 3/92, all grade C) | standardized protocol, healed sites, delayed loading |
 | [[implants/survival/galen-2025-implants-without-primary-stability-private-practice]] | retrospective, 97 implants, 3 systems | IT <10 N·cm and/or spinning | 95.9% (93/97); immediate 100% (23/23) | strict case selection, under-preparation in low-density bone, socket grafting/sealing, two-stage submerged, ~4-mo loading |
-| [[implants/isq/norton-2017-low-insertion-torque-primary-stability]] | prospective, n=30 | all IT ≤20 N·cm (3 spinners <5 N·cm) | 100% osseointegration (29/29 followed) | ISQ≥55 gate for temporization; delayed loading |
+| [[implants/norton-2017-low-insertion-torque-primary-stability]] | prospective, n=30 | all IT ≤20 N·cm (3 spinners <5 N·cm) | 100% osseointegration (29/29 followed) | ISQ≥55 gate for temporization; delayed loading |
 | [[immediate-implant/primary-stability/jang-2025-flapless-immediate-implant-low-primary-stability]] | retrospective, n=16 flapless immediate | ITV <10 N·cm **AND** mean ISQ <55 (6 unmeasurable) | 100% at mean 65.2 mo | one-step undersized drilling, bone graft 15/16, extended healing 6–14 wk when ISQ lags |
 | [[immediate-implant/primary-stability/kim-2016-immediately-placed-implant-without-primary]] | case report | no primary stability at immediate placement | integrated | delayed loading ≥6 mo, gap management, socket preservation |
 | [[implants/loading-protocol/darriba-2023-low-insertion-torque-immediate-loading-sr-ma]] | sr+ma, 7 trials / 326 implants | IT ≤35 vs >35 N·cm, immediate loading | 96% vs 92% (NS) | ≤20 N·cm splinted; >20 N·cm single crowns |
@@ -78,7 +78,7 @@ This page synthesizes the clinical side of the "third regime" — the cases wher
 
 ### Axis 1 — Concept: the initial reading is not the verdict
 
-- **IT measures rotational friction, ISQ measures axial stiffness** — different constructs, confirmed by the held IT–ISQ decoupling literature (SR+MA r=0.44, I²>90%; [[overviews/high-insertion-torque-primary-stability-crestal-bone-overview]] §6). A low initial reading predicts neither failure nor poor secondary stability: [[implants/isq/norton-2017-low-insertion-torque-primary-stability]] (ISQ 67.2→80.0 by loading, Spearman IT-ISQ NS) is the cleanest demonstration.
+- **IT measures rotational friction, ISQ measures axial stiffness** — different constructs, confirmed by the held IT–ISQ decoupling literature (SR+MA r=0.44, I²>90%; [[overviews/high-insertion-torque-primary-stability-crestal-bone-overview]] §6). A low initial reading predicts neither failure nor poor secondary stability: [[implants/norton-2017-low-insertion-torque-primary-stability]] (ISQ 67.2→80.0 by loading, Spearman IT-ISQ NS) is the cleanest demonstration.
 - **Secondary stability rescues what primary did not provide**: the primary→secondary transition is exactly the axis Jang's 100%-survival cohort documents (ISQ 42.2→68.7, 95% CI of gain 17.2–32.9, p<0.01). The clinically meaningful signal is the **rising trajectory**, not the absolute initial value.
 - **Grade matters more than absence**: Cobo-Vázquez's only losses (3/38, 7.89%) were in grade C (free rotation without resistance); grades B (rotation with resistance) and D lost nothing. A spinner that still meets resistance behaves differently from one that spins freely — the free rotation is the red flag, not the low torque per se.
 
@@ -133,7 +133,7 @@ Practical read: undersized drilling as bed protection (stop one drill short, kee
 - [[immediate-implant/primary-stability/jang-2025-flapless-immediate-implant-low-primary-stability]] — the anchor cohort: strict low-stability immediate implants, 100% survival, ISQ trajectory
 - [[implants/survival/galen-2025-implants-without-primary-stability-private-practice]] — largest modern multi-system low-stability cohort (n=97, 95.9%)
 - [[implants/survival/cobo-vazquez-2018-effect-lack-primary-stability-survival]] — the grade (B/C/D) taxonomy and the first controlled quantification of the loss risk
-- [[implants/isq/norton-2017-low-insertion-torque-primary-stability]] — end of the low-IT spectrum: spinners at <5 N·cm still integrate; IT-ISQ construct split
+- [[implants/norton-2017-low-insertion-torque-primary-stability]] — end of the low-IT spectrum: spinners at <5 N·cm still integrate; IT-ISQ construct split
 - [[implants/loading-protocol/darriba-2023-low-insertion-torque-immediate-loading-sr-ma]] — the loading floor from the meta side (≤35 N·cm fine; splint below 20)
 - [[immediate-implant/primary-stability/kim-2016-immediately-placed-implant-without-primary]] — the original case-level proof of concept
 - [[immediate-implant/primary-stability/sierra-rebolledo-2021-undersized-drilling-immediate-tapered-implants-maxilla]] — the RCT that bounds undersizing's ISQ benefit
