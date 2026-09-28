@@ -26,7 +26,7 @@ tags:
   - systematic-review
 relations:
   - type: related
-    target: "[[immediate-implant/loading-protocol/atieh-2010-immediate-placement-loading-molar-implants-sr-ma]]"
+    target: "[[immediate-implant/molar-septum/atieh-2010-immediate-placement-loading-molar-implants-sr-ma]]"
     note: same loading-protocol evidence domain
 ---
 
@@ -112,5 +112,5 @@ The inability to distinguish between timing protocols was attributed to high ris
 
 ## Related Papers
 
-- [[immediate-implant/loading-protocol/atieh-2010-immediate-placement-loading-molar-implants-sr-ma]] — immediate placement and loading in molar sites (same evidence domain; complementary survival outcomes)
+- [[immediate-implant/molar-septum/atieh-2010-immediate-placement-loading-molar-implants-sr-ma]] — immediate placement and loading in molar sites (same evidence domain; complementary survival outcomes)
 - [[oral-surgery/nerve-injury/misch-2010-mandibular-nerve-neurosensory-implant-management]] — IAN neurosensory management in implant context (nerve anatomy and regeneration principles)
