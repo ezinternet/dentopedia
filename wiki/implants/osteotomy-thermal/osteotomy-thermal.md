@@ -2,7 +2,7 @@
 title: "임플란트·골절개·발열 — osteotomy-thermal"
 authors: navigation
 year: 2026
-date: 2026-09-16
+date: 2026-09-28
 doi: N/A
 source: navigation
 category: implants/osteotomy-thermal
@@ -15,20 +15,20 @@ tags: [navigation, category-index, osteotomy-thermal]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·골절개·발열
 > - **범위**: Implant osteotomy preparation & thermal injury — bone-drilling heat generation and thermal-osteonecrosis thresholds, drill design/material/wear, irrigation & cooling (internal/external, CFD modelling), drilling speed and continuous vs intermittent protocols, piezosurgery, undersized preparation & ta…
-> - **수록 논문**: 36편
+> - **수록 논문**: 38편
 
 ## Three-line Summary
 
 **Scope**: Implant osteotomy preparation & thermal injury — bone-drilling heat generation and thermal-osteonecrosis thresholds, drill design/material/wear, irrigation & cooling (internal/external, CFD modelling), drilling speed and continuous vs intermittent protocols, piezosurgery, undersized preparation & tapping, guided-sleeve drilling temperature, histologic/histomorphometric implant-bed studies.
-**Indexed papers**: 36 papers in `wiki/implants/osteotomy-thermal/`.
+**Indexed papers**: 38 papers in `wiki/implants/osteotomy-thermal/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·골절개·발열
-**수록 논문**: 36편
+**수록 논문**: 38편
 **하위 카테고리**: 없음
 
-## Papers in this Category (36)
+## Papers in this Category (38)
 
 | Paper |
 |---|
@@ -57,8 +57,10 @@ tags: [navigation, category-index, osteotomy-thermal]
 | [[marenzi-2018-micromorphological-structure-implant-drills|Clinical Influence of Micromorphological Structure of Dental Implant Bone Drills]] |
 | [[markovic-2016-effect-surgical-drill-guide-irrigans|Effect of surgical drill guide and irrigans temperature on thermal bone changes during drilling implant sites – Thermographic analysis on bovine ribs]] |
 | [[milone-2026-heat-dental-implant-thermal-analysis|Heat Control During Dental Implant Positioning: In Vitro Thermal Analysis]] |
+| [[mohlhenrich-2015-heat-generation-drill-wear-dental|Heat generation and drill wear during dental implant site preparation: systematic review]] |
 | [[raj-2021-analysis-factors-determining-thermal-changes|Analysis of factors determining thermal changes at osteotomy site in dental implant placement - An in-vitro study]] |
 | [[rugova-2024-thermal-evaluation-bone-drilling-sequential|Thermal Evaluation of Bone Drilling: Assessing Drill Bits and Sequential Drilling]] |
+| [[sadek-2025-peri-implant-bone-behavior-after-single|Peri-implant bone behavior after single drilling technique versus undersized drilling technique of immediately loaded implant in posterior maxilla: a one-year prospective study]] |
 | [[saxena-2024-guided-implant-drilling-bone-temperature|Effect of Guided Implant Drilling on Bone Temperature Changes During Implant Osteotomy: A Comprehensive Systematic Review]] |
 | [[sener-2009-effects-irrigation-temperature-heat-control|Effects of irrigation temperature on heat control in vitro at different drilling depths]] |
 | [[slete-2018-histomorphometric-comparison-three-osteotomy-techniques|Histomorphometric Comparison of 3 Osteotomy Techniques]] |
