@@ -3965,6 +3965,7 @@ tags: []
 - [[implants/khaohoen-2023-biomaterials-dental-implants-bone-density-narrative-review]] — Khaohoen 2023 · narrative-review · In low-density (D3–D4) bone, implant material (Ti gold standard), geometry, and surgical technique (osseodensification) jointly govern primary stability and success
 - [[implants/osteotomy-thermal/chen-2022-reverse-drilling-technique-alveolar-ridge-expansion]] — Chen 2022 · in-vitro · Reverse (counter-clockwise) Densah osseodensification drilling expands narrow (6.75 mm) ridges but seats implants shallower from bone stress/rebound
 - [[implants/osteotomy-thermal/einafshar-2024-importance-precision-cortical-bone-drilling]] — 피질골 천공 시 드릴 초기온도 5°C 냉각으로 MT −26.14%, 끝각·스핀들 속도 최적화로 열 괴사 위험 감소 (FEA+실험 통합, 2024)
+- [[implants/osteotomy-thermal/mohlhenrich-2015-heat-generation-drill-wear-dental]] — 임플란트 골절개 발열 체계적고찰(2000-2014, 41편→27편): 온도범위 28.4-64.4°C, 드릴마모 시 유의한 온도상승, 이질적 설계로 메타분석 불가
 - [[implants/osseodensification/guner-2025-osseodensification-ridge-split-implant-stability]] — Guner 2025 · retrospective · OD vs conventional Esset kit in ridge-split (n=268, 65 pts): OD significantly higher ISQ in maxilla & mandibular posterior (all OD ≥65); bone gain equivalent
 - [[implants/osseodensification/mercier-2022-osseodensification-primary-stability-cadavers]] — Mercier 2022 · in-vitro · Cadaveric mandibles (21, 58 implants): OD significantly raised IT (34.9 vs 23.6 Ncm, p=0.036) & bone density (p=0.026); OD IT ≈ Rittipakorn OD IT (34.0)
 - [[implants/osseodensification/koutouzis-2025-osteotomy-preparation-short-implants-stability]] — Koutouzis 2025 · animal · Porcine tibia, 90 short 6mm implants: OD IT benefit only for wide (5.4mm) implants (50.0 vs 28.0 Ncm, p=0.005); narrow (4.2mm) no advantage; histomorphometry unchanged
@@ -4555,6 +4556,9 @@ tags: []
 - [[implants/isq/venkatesh-2026-three-osteotomy-techniques-posterior-rct]] — Venkatesh 2026 · rct (30명, 후방 상악) · conventional vs Summers' osteotome vs OD ISQ — NS 유의차; 수치적 OD≥conventional>osteotome; 전군 100% 생존 (DOI 10.1186/s12903-026-08858-7)
 - [[implants/isq/novellino-2017-rfa-posterior-maxilla-surface-treatment]] — RCT (64개, 21명, 상악 구치부 16주): 친수성 SAE가 표준 SAE보다 ISQ ≥70 도달 2.24배 빠름 (Cox HR 2.24, CI 1.62–3.11); 8주 이후 ISQ 유의 우위 (ANOVA p<0.01). (Novellino 2017)
 - [[implants/isq/yi-2011-rfa-stability-types-areas]] — 후향적 (206개, 131명, 한국): 3개월 ISQ = 하악 > 상악, 직경 4.8 > 4.1 (SLA), SLA(Straumann) > RBM(Osstem) 특히 하악 구치부(p=0.045)·상악 소구치부(p=0.032). (Yi 2011)
+- [[implants/isq/nascimento-2024-measurement-bone-deformation-insertion-torque]] — 인공골(폴리우레탄) 벤치실험: 기계가공 표면 임플란트는 삽입 시 골 저항한계 초과로 균열 발생, 사다리꼴나사+원추형 몸체는 고토크에도 골 무해 — 삽입토크·골변형 직접 측정(strain gauge)으로 Coyac 2019 미세골절 기전의 시간-0 역학적 대응물 제공
+- [[implants/isq/manfredini-2025-high-insertion-torque-clinical-implications]] — 고삽입토크(IT >50 Ncm) 주제범위 문헌고찰(11편): MBL·협측 퇴축 증가(하악 1.53 vs 1.03 mm, −1.40 vs −0.26 mm, 3년), 실패는 D1·D4 골에 집중 — 메타분석 없음·핵심 수치는 단일 RCT 유래로 Lemos 2020 SR+MA의 무의 결론을 대체하지 않음
+- [[implants/isq/khayat-2011-clinical-outcome-dental-implants-high]] — 전향적 연구(48명·66개, Zimmer TSV 4.5 mm): 최대 삽입 토크 (MIT) >70 Ncm군(42개, 평균 110.6, 최대 176 Ncm) vs 30–50 Ncm 대조군(9개); 변연골 소실 (MBL) 부하 시 0.72 vs 1.03 mm, 1년 1.24 vs 1.09 mm로 유의차 없음, 전 임플란트 골유착 — 단 대조군 n=9, 사후 분류, 1년 추적
 
 ### implants
 - [[implants/canullo-2026-hybrid-funnel-technique-mbl-3year]] — Canullo 2026 · prospective (3년, 87개) · HFT vs 기존 드릴링: 3년 MBL 0.46 vs 1.34mm(p<0.001); 골삭제법만 MBL 독립예측인자(β=−1.10mm) (DOI 10.1111/cid.70175)
