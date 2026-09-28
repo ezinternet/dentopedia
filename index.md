@@ -4531,6 +4531,9 @@ tags: []
 - [[overviews/peri-implant-biologic-width-overview]] — **NEW Overview** (4편, 2026-09-16): 임플란트 주위 생물학적 폭경(BW) 종합 — 치아 기준(Gargiulo 2.04·STA 2.73–3.0 mm) vs 임플란트 실측(2-piece>1-piece>치아; Glauser 4–4.5·Kan 6.17/3.63/5.93 mm bone sounding)을 두 축으로 연결. 미세극(microgap)이 임플란트 변연골의 주동인(골정은 미세극 하방 ~2 mm 안정화·ICT는 골정 상방 ~1.0 mm·봉쇄 ~6주 무부하), 플랫폼 스위칭은 폭경 수평 재배치(연조직 ≥3 mm·ICT <90°·Wennström 5년 MBL 0.06). 치아측 STA 관리는 재래식 L2/B·디지털 가이드 L2/B·레이저 L3/C·술전 치주안정화 L1/A; STAD는 만국 2 mm가 아님(평균 2.05·범위 0.02–5.85·하악>상악·얇은 표현형에서 큼, abdulkarim; 임상 bone-sounding은 1.13 vs 조직 2.04, hamasni) — "값 하나"가 아닌 site-specific margin-to-crest 계획.
 - [[overviews/schneiderian-membrane-perforation-overview]] — **NEW Overview** (3편, 2026-09-16): 슈나이더막 천공 3축 종합(발생·예측·결과) — 결과: 수복 천공군 생존 97.1 vs 비천공 97.7% (OR 0.78, CI 0.49–2.23, p=0.28, I²=0%), 동시/지연 식립 RR=1.00, 평균 발생률 29.42%(7–56%) [schiavo-2024 SR+MA]; 예측: 두께 연속형만 유의(MD −0.91 mm, I²=94%)·절단값 2/1.5/1 mm 전부 비유의 → U자형·선별금지 [ke-2024]; 예방: 돔형 큐렛 둔성 박리(임플란트 사이 포함) 수정 OSFE가 RBH<5 mm에서 천공 0건(문헌 ~28% vs)·생존 100% [kang-2022]. 테제=천공은 흔하지만 수복하면 계획 유지(중단 근거 없음), 예방은 긴장해소가 결정.
 
+### overviews (2026-09-28 synthesis)
+- [[overviews/implant-failure-mechanism-xray-differential-overview]] — **NEW Overview** (2026-09-28): 임플란트 실패 기전별 방사선 감별 종합 — X-ray 단독 감별 불가; 핵심 도구는 **타이밍(조기 EIF vs 지연 진행성)** + **BOP·화농·탐침깊이**. 과열 X-ray 특이 소견 없음(Möhlhenrich 2015 SR: 온도만, 임상 방사선 데이터 없음); 과압박은 분화구형 조기 실패(Coyac 2019 쥐·µCT)이나 사람에서는 수년 crestal 골소실로도 발현(Marconcini 2018·Manfredini 2025); 임플란트 주위염(Peri-implantitis)은 BOP/화농 없으면 방사선 골소실만으로 진단 성립 안 됨(Berglundh 2018 합의).
+
 ## Batch ingest (added 2026-09-21) — 페리오 서베일런스 2026-09 (7편 신규)
 
 ### periodontics
