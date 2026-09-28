@@ -58,4 +58,4 @@ Papantonatou et al. (J Clin Periodontol 2026) conducted a 3-arm RCT at the Arist
 
 ## Related Papers
 
-- [[periodontics/elhadidy-2026-fla-vs-prf-vs-ctg-peri-implant-sta-rct]] — FLA vs PRF vs CTG for peri-implant STA; complementary evidence
+- [[implants/peri-implantitis/elhadidy-2026-fla-vs-prf-vs-ctg-peri-implant-sta-rct]] — FLA vs PRF vs CTG for peri-implant STA; complementary evidence
