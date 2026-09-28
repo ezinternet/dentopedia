@@ -1,0 +1,426 @@
+<!--
+---
+title: "SAH 봉쇄 프로토콜 — 체어사이드 인쇄 카드"
+type: interactive
+date: 2026-09-28
+status: done
+category: prosth
+agenda: agenda/2026-09-28_sah-sealing-protocol-card.md
+source_wiki:
+  - wiki/overviews/screw-access-hole-sealing-protocol-overview.md
+  - wiki/prosthetic-materials/abutment-screw/singla-2025-comparative-microbial-assessment-different-screw.md
+  - wiki/prosthetic-materials/abutment-screw/pereira-2016-influence-sealing-screw-access-hole.md
+  - wiki/prosthetic-materials/abutment-screw/packaeser-2025-effect-resin-composite-filling-thickness.md
+output_wiki: []
+tags: [screw-access-hole, SAH, PTFE, chlorhexidine, resin-composite, sealing-protocol, chairside-card, prosth]
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SAH 봉쇄 프로토콜 — 체어사이드 카드</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#f6f4ef;
+    --surface:#ffffff;
+    --surface-2:#efece3;
+    --text:#20211d;
+    --text-muted:#5b5c54;
+    --border:#dcd8cc;
+    --accent:#0f6e63;
+    --accent-soft:#e2f0ec;
+    --warn:#a1580c;
+    --warn-soft:#faedd9;
+    --bad:#9c3b3b;
+    --bad-soft:#f7e6e3;
+    --mono:'IBM Plex Mono',ui-monospace,monospace;
+    --sans:'IBM Plex Sans KR','Apple SD Gothic Neo','Noto Sans KR',-apple-system,sans-serif;
+  }
+
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;}
+  body{
+    background:var(--bg);
+    color:var(--text);
+    font-family:var(--sans);
+    padding-block: 20px 40px;
+  }
+  .sheet{
+    max-width: 780px;
+    margin: 0 auto;
+    padding: 0 16px;
+  }
+  .print-hint{
+    max-width:780px;
+    margin: 0 auto 14px;
+    padding: 0 16px;
+    font-size: 12px;
+    color: var(--text-muted);
+    display:flex;
+    align-items:center;
+    gap:6px;
+  }
+  .print-hint kbd{
+    font-family:var(--mono);
+    font-size:11px;
+    background:var(--surface-2);
+    border:1px solid var(--border);
+    border-radius:4px;
+    padding:1px 6px;
+  }
+
+  .card{
+    background:var(--surface);
+    border:1px solid var(--border);
+    border-radius:10px;
+    padding: 22px 24px;
+  }
+
+  header.top{
+    display:flex;
+    justify-content:space-between;
+    align-items:flex-start;
+    gap:16px;
+    border-bottom:2px solid var(--text);
+    padding-bottom:14px;
+    margin-bottom:16px;
+    flex-wrap:wrap;
+  }
+  .kicker{
+    font-size:11px;
+    letter-spacing:0.08em;
+    color:var(--text-muted);
+    text-transform:uppercase;
+    margin:0 0 4px;
+  }
+  h1{
+    font-size:22px;
+    margin:0 0 4px;
+    letter-spacing:-0.01em;
+    text-wrap:balance;
+  }
+  .subtitle{
+    font-size:13px;
+    color:var(--text-muted);
+    margin:0;
+  }
+  .grade-badge{
+    display:flex;
+    flex-direction:column;
+    align-items:flex-end;
+    gap:4px;
+    flex-shrink:0;
+  }
+  .pill{
+    font-family:var(--mono);
+    font-size:12px;
+    font-weight:600;
+    padding:4px 10px;
+    border-radius:999px;
+    background:var(--warn-soft);
+    color:var(--warn);
+    border:1px solid #d9a76a;
+    white-space:nowrap;
+  }
+  .grade-note{
+    font-size:10.5px;
+    color:var(--text-muted);
+    text-align:right;
+    max-width:180px;
+  }
+
+  .why{
+    background:var(--surface-2);
+    border-radius:8px;
+    padding:10px 14px;
+    font-size:12.5px;
+    margin-bottom:18px;
+    line-height:1.55;
+  }
+  .why b{color:var(--accent);}
+
+  h2.section{
+    font-size:13px;
+    letter-spacing:0.04em;
+    text-transform:uppercase;
+    color:var(--accent);
+    margin:22px 0 10px;
+    padding-top:14px;
+    border-top:1px solid var(--border);
+  }
+  h2.section:first-of-type{border-top:none; padding-top:0;}
+
+  ol.steps{
+    list-style:none;
+    margin:0;
+    padding:0;
+    display:flex;
+    flex-direction:column;
+    gap:9px;
+  }
+  ol.steps li{
+    display:grid;
+    grid-template-columns: 26px 1fr;
+    gap:10px;
+    align-items:start;
+    font-size:12.8px;
+    line-height:1.5;
+  }
+  ol.steps .num{
+    width:26px;height:26px;
+    border-radius:50%;
+    background:var(--accent);
+    color:#fff;
+    display:flex;align-items:center;justify-content:center;
+    font-family:var(--mono);
+    font-size:12px;
+    font-weight:600;
+    flex-shrink:0;
+  }
+  ol.steps b{font-weight:600;}
+  ol.steps .caveat-inline{
+    display:block;
+    font-size:11px;
+    color:var(--warn);
+    margin-top:2px;
+  }
+
+  table{
+    width:100%;
+    border-collapse:collapse;
+    font-size:11.5px;
+  }
+  th,td{
+    text-align:left;
+    padding:6px 8px;
+    border-bottom:1px solid var(--border);
+    vertical-align:top;
+  }
+  thead th{
+    font-size:10.5px;
+    text-transform:uppercase;
+    letter-spacing:0.03em;
+    color:var(--text-muted);
+    border-bottom:1.5px solid var(--text);
+  }
+  td.num, th.num{font-family:var(--mono); font-variant-numeric:tabular-nums; white-space:nowrap;}
+  tr.best td{background:var(--accent-soft);}
+  tr.worst td{background:var(--bad-soft);}
+  .tag{
+    display:inline-block;
+    font-family:var(--mono);
+    font-size:10px;
+    padding:1px 6px;
+    border-radius:4px;
+    background:var(--surface-2);
+    color:var(--text-muted);
+    margin-left:4px;
+  }
+
+  .two-col{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    gap:14px;
+  }
+  .mini-card{
+    background:var(--surface-2);
+    border-radius:8px;
+    padding:12px 14px;
+  }
+  .mini-card h3{
+    font-size:12px;
+    margin:0 0 6px;
+    color:var(--accent);
+  }
+  .mini-card p{
+    font-size:11.5px;
+    line-height:1.55;
+    margin:0;
+    color:var(--text);
+  }
+  .mini-card .num-big{
+    font-family:var(--mono);
+    font-weight:600;
+    color:var(--text);
+  }
+
+  .thickness-box{
+    display:flex;
+    align-items:center;
+    gap:16px;
+    background:var(--accent-soft);
+    border-radius:8px;
+    padding:12px 16px;
+    margin-top:10px;
+  }
+  .thickness-box .big{
+    font-family:var(--mono);
+    font-size:26px;
+    font-weight:600;
+    color:var(--accent);
+    line-height:1;
+  }
+  .thickness-box .desc{font-size:11.5px; line-height:1.5;}
+
+  .warnbox{
+    background:var(--warn-soft);
+    border:1px solid #d9a76a;
+    border-radius:8px;
+    padding:12px 14px;
+    margin-top:8px;
+  }
+  .warnbox h3{
+    font-size:12px;
+    margin:0 0 6px;
+    color:var(--warn);
+    display:flex;align-items:center;gap:6px;
+  }
+  .warnbox ul{
+    margin:0;
+    padding-left:16px;
+    font-size:11.5px;
+    line-height:1.6;
+  }
+
+  footer{
+    margin-top:22px;
+    padding-top:12px;
+    border-top:1px solid var(--border);
+    font-size:10px;
+    color:var(--text-muted);
+    line-height:1.6;
+  }
+  footer .disclaimer{
+    font-weight:600;
+    color:var(--text);
+    margin-bottom:6px;
+  }
+  footer .sources{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap:4px 12px;
+    margin-top:6px;
+  }
+  footer a{color:var(--accent);}
+
+  @media (max-width: 620px){
+    .two-col{grid-template-columns:1fr;}
+    footer .sources{grid-template-columns:1fr;}
+    .grade-badge{align-items:flex-start;}
+    .grade-note{text-align:left;}
+  }
+
+  @media print{
+    body{ background:#fff; padding:0; -webkit-print-color-adjust:exact; print-color-adjust:exact; }
+    .print-hint{display:none;}
+    .card{border:none; padding:0;}
+    .sheet{max-width:100%; padding:0;}
+    h2.section{break-after:avoid;}
+    ol.steps li, .mini-card, .warnbox, table{break-inside:avoid;}
+    @page{ size:A4; margin:14mm; }
+  }
+</style>
+</head>
+<body>
+
+<div class="print-hint">🖨️ 인쇄하려면 <kbd>Ctrl</kbd>+<kbd>P</kbd> (Mac: <kbd>⌘</kbd>+<kbd>P</kbd>) — A4, 여백 보통</div>
+
+<div class="sheet">
+<div class="card">
+
+  <header class="top">
+    <div>
+      <p class="kicker">Chairside Reference · 체어사이드 참조카드</p>
+      <h1>스크류 접근홀 (Screw Access Hole, SAH) 봉쇄 프로토콜</h1>
+      <p class="subtitle">나사유지 임플란트 보철 — 탈락·누출·파절 없이 유지하기</p>
+    </div>
+    <div class="grade-badge">
+      <span class="pill">근거등급 🟠→🟡 Weak–Moderate</span>
+      <span class="grade-note">단일변수 연구 3편 조합 — 통합 프로토콜 자체는 미검증</span>
+    </div>
+  </header>
+
+  <div class="why">
+    나사유지 크라운은 스크류 풀림이 <b>18% vs 4%</b>(시멘트유지 대비, p=0.032)로 흔해 SAH를 리콜마다 반복해서 열고 닫는다 — 일회성 술식이 아니라 <b>매 리콜의 정례 술식</b>이다.
+  </div>
+
+  <h2 class="section">① 체어사이드 프로토콜</h2>
+  <ol class="steps">
+    <li><span class="num">1</span><div><b>나사 토크 확인 후 시작.</b> 나사산에는 PTFE를 감지 않는다 — 예압(Preload) 저하 원인.</div></li>
+    <li><span class="num">2</span><div><b>0.2% 클로르헥시딘(Chlorhexidine, CHX)</b>으로 SAH 세척·소독.</div></li>
+    <li><span class="num">3</span><div>나사머리 위 1차 충전재는 <b>PTFE 테이프</b> 또는 <b>1% CHX 적신 면(Co1%CHX)</b> — <b style="color:var(--bad)">건조 코튼펠렛 단독 금지.</b> 혐기균 관리 우선이면 Co1%CHX, 간편·불활성 선호면 PTFE.</div></li>
+    <li><span class="num">4</span><div>벽 표면처리는 <b>기질별로 다르게</b> — 아래 ③ 표 참조 (도재/LDS ≠ 지르코니아).</div></li>
+    <li><span class="num">5</span><div>레진 콤포지트로 충전, 가능하면 <b>깊이 1.5–2mm 이상</b> 확보 (④ 참조).<span class="caveat-inline">⚠ 얕은 채널이면 충전재 두께를 줄이지 말고 플러그 부피를 줄일 것</span></div></li>
+    <li><span class="num">6</span><div><b>매 리콜마다 동일하게 재시행.</b> 콤포지트 마모가 SAH 오염의 시작점 — 재개봉 시 실링 상태 재점검.</div></li>
+  </ol>
+
+  <h2 class="section">② 1차 충전재 선택 — 세균오염 (Singla 2025, RCT n=35/45)</h2>
+  <table>
+    <thead><tr><th>충전재</th><th class="num">호기성 양성률</th><th class="num">혐기성 양성률</th><th>비고</th></tr></thead>
+    <tbody>
+      <tr class="worst"><td>건조 코튼펠렛</td><td class="num">65–90%</td><td class="num">70–95%</td><td>유기물 스캐폴드 — 단독 사용 지양</td></tr>
+      <tr><td>PTFE 테이프</td><td class="num">40%</td><td class="num">50%</td><td>불활성·회수 용이, 나사산엔 사용 금지</td></tr>
+      <tr class="best"><td>1% CHX 적신 면 (Co1%CHX)</td><td class="num">15%</td><td class="num">20%<span class="tag">vs PTFE p=0.04</span></td><td>혐기균 관리 시 1순위</td></tr>
+    </tbody>
+  </table>
+  <p style="font-size:10.5px;color:var(--text-muted);margin:6px 0 0;">※ 치은열구액 IL-6는 3개월간 두 군 모두 유의 변화 없음 — 미생물학적 이득이 임상 염증지표로는 아직 확인되지 않음.</p>
+
+  <h2 class="section">③ 벽 표면처리 — 기질별 (Pereira 2016 + 위키 지르코니아 근거)</h2>
+  <div class="two-col">
+    <div class="mini-card">
+      <h3>도재 · 리튬디실리케이트 (실리카계)</h3>
+      <p>Al₂O₃ 에어어브레이전 → <span class="num-big">10% HF</span> 에칭 → 실란(Silane) → 본딩제 → 콤포지트<br>봉쇄해도 파절저항 미봉쇄군과 차이 없음(정적하중).</p>
+    </div>
+    <div class="mini-card">
+      <h3>지르코니아 (HF 무효)</h3>
+      <p>에어어브레이전 → <span class="num-big">10-MDP</span> 프라이머/본딩<br>HF는 지르코니아를 에칭하지 못함 — 도재 프로토콜을 그대로 옮기지 말 것.</p>
+    </div>
+  </div>
+
+  <h2 class="section">④ 콤포지트 두께 — 피로강도 (Packaeser 2025, in vitro)</h2>
+  <div class="thickness-box">
+    <div class="big">≥1.5mm</div>
+    <div class="desc">PTFE 위 콤포지트 ≥1.5mm 군 피로파괴하중 <b>1426N·1307N</b> vs ≤1.0mm군 <b>1093–1127N</b> (p≤0.05) — 단회하중에선 무차이, <b>피로시험에서만</b> 드러나는 효과. Singla 임상 프로토콜도 2mm 사용.</div>
+  </div>
+
+  <div class="warnbox">
+    <h3>⚠ 회색지대 — 반드시 알고 적용할 것</h3>
+    <ul>
+      <li><b>통합 프로토콜(①~④ 전체)을 한 번에 검증한 연구는 없음.</b> 3개 단일변수 연구의 조합.</li>
+      <li>1.5mm 기준(Packaeser)의 원 실험은 <b>시멘트유지 크라운 아래 지르코니아 어버트먼트</b>의 나사홀 — 나사유지 크라운 자체의 SAH로는 <b>외삽</b>.</li>
+      <li>Pereira의 HF+실란 프로토콜은 <b>금속-도재(실리카계)</b> 시편 기준 — 지르코니아엔 그대로 적용 불가.</li>
+      <li>Singla의 코튼 vs PTFE/Co1%CHX 비교는 <b>같은 부위 순차 비교</b>(코튼이 항상 먼저)이며, PTFE vs Co1%CHX만 무작위 배정.</li>
+      <li>세균오염 감소가 임상 염증지표(IL-6) 개선으로는 3개월 내 확인되지 않음.</li>
+    </ul>
+  </div>
+
+  <h2 class="section">근거등급 요약</h2>
+  <table>
+    <thead><tr><th>논문</th><th>설계</th><th>담당 변수</th><th>등급</th></tr></thead>
+    <tbody>
+      <tr><td>Singla 2025</td><td>RCT (n=35/45, 전문 확보)</td><td>1차 충전재</td><td>중등도</td></tr>
+      <tr><td>Pereira 2016</td><td>In vitro (n=30, 초록만)</td><td>벽 표면처리·봉쇄 안전성</td><td>약함</td></tr>
+      <tr><td>Packaeser 2025</td><td>In vitro (n=100, 초록만)</td><td>콤포지트 두께</td><td>약함</td></tr>
+    </tbody>
+  </table>
+
+  <footer>
+    <p class="disclaimer">의사결정 지원용 요약 카드 — 최종 임상 판단과 책임은 술자에게 있습니다.</p>
+    <p>출처: <a href="https://ezinternet.github.io/dentopedia/overviews/screw-access-hole-sealing-protocol-overview" target="_blank">wiki/overviews/screw-access-hole-sealing-protocol-overview.md</a> (Synthesis, 2026-09-28) 및 하위 근거 3편.</p>
+    <div class="sources">
+      <span>Singla 2025, Int J Appl Basic Med Res 15(4):265</span>
+      <span>Pereira 2016, Braz Dent J 27(2):148</span>
+      <span>Packaeser 2025, J Biomed Mater Res B 113(10)</span>
+    </div>
+  </footer>
+
+</div>
+</div>
+
+</body>
+</html>
