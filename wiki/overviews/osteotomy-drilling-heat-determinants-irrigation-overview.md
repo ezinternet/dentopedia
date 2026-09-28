@@ -34,6 +34,7 @@ source_papers:
   - wiki/implants/osseodensification/tao-2025-optimizing-osseodensification-drilling-implant.md
   - wiki/implants/osseodensification/de-lima-2026-osseodensification-vs-conventional-drilling-exvivo.md
   - wiki/implants/osteotomy-thermal/milone-2026-heat-dental-implant-thermal-analysis.md
+  - wiki/implants/osteotomy-thermal/kniha-2023-thermal-osteonecrosis-implant-removal-rat.md
 tags: [osteotomy, drilling-heat, thermal-osteonecrosis, irrigation, chilled-saline, drill-wear, guided-surgery, drilling-sequence, osseointegration, bic, 47-degree-threshold]
 relations:
   - type: refines
@@ -195,3 +196,7 @@ Read together: **peck drilling is a compensator for drill geometry that is alrea
 ### 신규 추가 (2026-09-20)
 
 - [[implants/osteotomy-thermal/sadek-2025-peri-implant-bone-behavior-after-single]] — **전향 RCT(n=32, 상악 구치부, 즉시부하 48–72h)**: 축경 드릴링(undersized, n=16) vs HaeNaem One Drill System 단일드릴 기법(n=16) 비교 — 12개월 골유착·MBL·ISQ 추적. "단일드릴 = OD 원리"의 임상 검증 데이터로, 축경과의 직접 head-to-head를 즉시부하 맥락에서 처음 제공. Tier-2(드릴 설계·마모)와 drilling-protocol-dominates 명제의 임상 확장 사례. (prospective RCT, 2025)
+
+### 신규 추가 (2026-09-29) — 열괴사 임계값 in vivo 확인
+
+- [[implants/osteotomy-thermal/kniha-2023-thermal-osteonecrosis-implant-removal-rat]] — **In vivo 쥐 경골(n=48, 12군, EDX + TEM + ISQ + 방사선)**: 50°C/1분에서 EDX 칼슘 유의 증가(25.31 wt%), TEM 거의 완전한 골세포 괴사 및 공 소강 확인 — 47°C 임계값(timon-2019, 섹션 1의 앵커)을 동물 모델에서 처음으로 직접 검증. ISQ 감소 경향 비유의. 비골유착 쥐 모델 한계 있으나 §1 임계값 근거 강화. (Head & Face Medicine 2023)
