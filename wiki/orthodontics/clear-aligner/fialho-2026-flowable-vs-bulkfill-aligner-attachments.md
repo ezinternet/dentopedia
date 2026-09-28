@@ -78,4 +78,4 @@ This split-mouth RCT conducted at a private orthodontic practice in Brazil enrol
 
 - [[orthodontics/clear-aligner/nucera-2022-composite-attachments-clear-aligners-sr]] — SR on composite attachments in clear aligners; this RCT provides direct split-mouth clinical data
 - [[orthodontics/clear-aligner/jedlinski-2023-attachments-orthodontic-aligner-comprehensive-sr]] — comprehensive attachment SR; this RCT fills the direct material comparison gap
-- [[orthodontics/clear-aligner/kaur-2026-aesthetic-restorations-material-attachment-performance]] — aesthetic attachment SR (2026)
+- [[orthodontics/clear-aligner/kaur-2026-evaluation-bonding-clear]] — aesthetic crown-material bonding SR (2026)
