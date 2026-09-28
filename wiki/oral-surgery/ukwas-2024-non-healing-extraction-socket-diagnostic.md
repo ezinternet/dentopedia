@@ -61,5 +61,5 @@ The review found that malignancy (both primary oral cancers and metastatic lesio
 
 ## Related Papers
 
-- [[oral-surgery/chidiac-2026-antihypertensive-antihyperlipidemic-antidepressant-implant-survival]]
-- [[oral-surgery/masri-2024-early-implant-failure-antihypertensive-medications]]
+- [[drug/systemic-disease/chidiac-2026-antihypertensive-antihyperlipidemic-antidepressant-implant-survival]]
+- [[drug/systemic-disease/masri-2024-early-implant-failure-antihypertensive-medications]]
