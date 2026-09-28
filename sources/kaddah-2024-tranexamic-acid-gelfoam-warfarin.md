@@ -23,7 +23,7 @@ TXA 군에서 3일째부터(p=0.005) 14일까지(p<0.001) VAS 통증 유의하�
 
 ## Why Ingested
 
-[[drug/anticoagulants/bergo-2026-tranexamic-acid-anticoagulants-oral-surgery]] covers TXA mouthwash formulations in anticoagulated patients broadly; this study adds a critical surgical-socket delivery format — TXA pre-soaked into Gelfoam placed directly in the socket — tested in a triple-blind split-mouth design specifically in warfarin patients (INR 2.0–3.5), providing head-to-head socket-level pain and healing data absent from rinse-protocol studies.
+[[drug/anticoagulants/bergo-2026-topical-tranexamic-acid-powder-dentistry]] covers TXA mouthwash formulations in anticoagulated patients broadly; this study adds a critical surgical-socket delivery format — TXA pre-soaked into Gelfoam placed directly in the socket — tested in a triple-blind split-mouth design specifically in warfarin patients (INR 2.0–3.5), providing head-to-head socket-level pain and healing data absent from rinse-protocol studies.
 
 ## One-line Summary
 
