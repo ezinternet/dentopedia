@@ -106,5 +106,5 @@ The hybrid layer (HL) is susceptible to collagen degradation by endogenous MMPs 
 
 - [[zhou-2025-collagen-crosslinkers-naocl-dentin-bond-strength-sr-ma]] — parallel SR+MA on NaOCl + crosslinker combination effects
 - [[bourgi-2026-chx-pretreatment-clinical-adhesive-restorations-sr-ma]] — CHX clinical SR+MA 2026
-- [[breschi-2025]] — MMP inhibition and hybrid layer durability
+- [[resin-bonding/breschi-2025-adhesive-dentistry-evolution-review]] — MMP inhibition and hybrid layer durability
 - [[hamdi-2025-surface-pretreatments-sclerotic-dentin-bond-sr]] — surface pretreatment for sclerotic dentin
