@@ -4586,3 +4586,12 @@ tags: []
 - [[orthodontics/clear-aligner/kuzminskaite-2026-clinical-efficacy-of-aligners-with]] — Kuzminskaite 2026 · sr · 성장기 Class II 환자에서 하악전방유도 투명교정 (Clear Aligner Mandibular Advancement, CAMA) vs 기능성장치: 9편 n=412 SR, SNB·ANB·Wits·오버바이트·오버젯 모두 동등 (Huang 2026 SR+MA 독립 지지) (abstract-only, no-doi)
 - [[orthodontics/clear-aligner/kavasoglu-2026-maa-vs-activator-cbct-volumes]] — Kavasoğlu 2026 · rct · Invisalign MAA vs Activator vs 비처치 CBCT 용적 RCT (n=55, CVM 2–3, ~8개월): 하악·상악 용적 변화 군간 차이 없음 (ANCOVA p=0.877/0.952) — 단기 II급 교정은 위치적 적응 주도, 용적 성장 기여 미미
 - [[orthodontics/clear-aligner/fialho-2026-flowable-vs-bulkfill-aligner-attachments]] — Fialho 2026 · rct · 어태치먼트용 플로어블 vs 벌크필 플로어블 레진 split-mouth RCT (n=50, 800어태치먼트, 140일): 탈락률 18.75%, 군간 차이 없음 (HR=0.84, p=0.293) — 일반 플로어블이 벌크필 대비 동등한 비용효율 대안
+
+## Batch ingest (added 2026-09-28) — 과압박 사람 조직학 서베일런스 (3편 신규)
+
+### implants/peri-implantitis
+- [[implants/peri-implantitis/abukraa-2025-peri-implant-bone-necrosis-clinical]] — Abukraa 2025 · case-report (5명 10개, J Oral Implantol) · 임플란트 주변 골 괴사 (PIBN): 조기 3건(과압박)·지연 2건(임플란트주위염); 조직검사 2건 → 빈 골세포소강+비생존 골편+염증세포 확인; 전 증례 임플란트+괴사골 제거로 재발 없이 관리
+- [[implants/peri-implantitis/piattelli-2003-clinical-histologic-aspects-dental-implants]] — Piattelli 2003 · retrospective (51개, J Periodontol) · 동요도로 제거된 임플란트 최대 조직학 시리즈: 전 증례 600–1,100 µm 섬유성 결합조직층+치밀·고석회화 주위골+골개조 희박+세균 없음 → 기계적 과부하의 섬유성 피막 조직 종착점
+
+### implants/osteotomy-thermal
+- [[implants/osteotomy-thermal/piattelli-1998-histologic-evaluation-eight-cases-failed]] — Piattelli 1998 · case-report (8개, Biomaterials) · 과열 추정 실패 임플란트 첫 인간 조직학 시리즈: 전 증례 6개 소견 동일 — 골 격리편·재생 없음·염증 간극·혈병 미조직화·치밀 성숙골·2차 세균 — 드릴 유발 열 괴사의 조직학적 지문 최초 확립
