@@ -1,0 +1,58 @@
+Measurement of bone deformation and insertion torque during dental implant installation.
+
+Nascimento LRXC, Torelly GM, Elias CN.
+Oral and Maxillofacial Surgery. 2024;29(1):19.
+DOI: 10.1007/s10006-024-01294-3
+PMID: 39661169
+Publication date: 2024-12-11
+Language: eng
+Article types: Journal Article
+
+Affiliations:
+- Nascimento LRXC, Torelly GM, Elias CN — Instituto Militar de Engenharia (IME), Rio de Janeiro,
+  Brazil.
+
+SOURCE NOTE: Retrieved via the PubMed MCP (get_article_metadata, PMID 39661169) on 2026-09-28.
+No PubMed Central (PMC) copy exists for this record, so no full text was retrievable — the text
+below is the structured abstract as indexed in PubMed, and is the complete extent of the primary
+material held for this paper. Metadata and abstract courtesy of PubMed;
+DOI: https://doi.org/10.1007/s10006-024-01294-3
+
+=== ABSTRACT (structured; as indexed in PubMed) ===
+
+BACKGROUND
+
+Insertion of dental implants causes bone deformation and induces residual bone compression
+stress, which can lead to implant failure if the bone loss threshold is exceeded.
+
+MATERIALS AND METHODS
+
+Five models of dental implants with different surface treatments (machined and acid etching),
+thread profiles (triangular and trapezoidal), and body shapes (cylindrical and conical) were
+inserted in synthetic bone blocks (polyurethane, D2-equivalent density). Insertion torque was
+quantified using a digital torque driver, and bone deformation during insertion was measured using
+strain gauge extensometry.
+
+RESULTS
+
+Bone deformation and insertion torque increased as insertion turns increased. Trapezoidal-thread
+implants required higher insertion torque than triangular-thread implants. Conical-shaped implants
+required higher torque than cylindrical-shaped implants. Machined-surface implant insertion
+exceeded the synthetic bone's mechanical resistance, causing cracks. Conical implants performed
+better than cylindrical implants. Trapezoidal-thread, conical-body implants induced torque and
+compression that did not harm osseointegration. Machined implants had the worst performance,
+producing cracks in the synthetic bone during insertion.
+
+CONCLUSION
+
+Excessive deformations in peri-implant bone led to bone necrosis and implant failure. Surgeons must
+weigh surface treatment, thread profile, and body shape in relation to their effects on
+osseointegration.
+
+=== END OF RETRIEVED TEXT ===
+
+INGEST CAVEAT: The abstract reports no sample size (n per implant model), no numeric insertion
+torque values (Ncm), no numeric bone deformation/strain values, no statistical tests, and no
+p-values. It does not specify which of the 2x2x2 possible factor combinations correspond to the
+five tested implant models. Any such quantity must NOT be attributed to this paper from the
+holdings below — it is not in the retrieved material.
