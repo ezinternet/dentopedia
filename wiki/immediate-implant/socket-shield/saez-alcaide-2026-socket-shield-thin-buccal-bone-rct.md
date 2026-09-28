@@ -63,8 +63,8 @@ Parallel-arm RCT; 40 patients, 1 tooth per patient; single-rooted extraction sit
 
 ## Related Papers
 
-- [[immediate-implant/gharpure-2022-socket-shield-conventional-implant-sr-ma]] — SR+MA on SST vs conventional; this RCT extends by adding buccal phenotype stratification
-- [[immediate-implant/lin-2022-socket-shield-technique-systematic-review-meta]] — SR on SST outcomes; reinforces
-- [[immediate-implant/lu-2025-socket-shield-conventional-aesthetic-meta]] — 2025 MA on SST aesthetic outcomes; reinforces
-- [[immediate-implant/durrani-2025-socket-shield-conventional-maxillary-rct]] — 2025 RCT on SST (maxillary anterior, non-stratified); extends
-- [[immediate-implant/ji-2025-socket-shield-conventional-network-ma]] — NMA on SST; contextualizes
+- [[immediate-implant/socket-shield/gharpure-2022-socket-shield-conventional-implant-sr-ma]] — SR+MA on SST vs conventional; this RCT extends by adding buccal phenotype stratification
+- [[immediate-implant/socket-shield/lin-2022-socket-shield-technique-systematic-review-meta]] — SR on SST outcomes; reinforces
+- [[immediate-implant/socket-shield/lu-2025-socket-shield-conventional-aesthetic-meta]] — 2025 MA on SST aesthetic outcomes; reinforces
+- [[immediate-implant/socket-shield/durrani-2025-socket-shield-conventional-maxillary-rct]] — 2025 RCT on SST (maxillary anterior, non-stratified); extends
+- [[immediate-implant/socket-shield/ji-2025-socket-shield-conventional-network-ma]] — NMA on SST; contextualizes
