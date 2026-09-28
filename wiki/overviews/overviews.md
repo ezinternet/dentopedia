@@ -15,20 +15,20 @@ tags: [navigation, category-index, overviews]
 > [!summary] 한국어 핵심요약
 > - **분야**: 종합
 > - **범위**: Synthesis pages spanning multiple categories
-> - **수록 논문**: 294편
+> - **수록 논문**: 295편
 
 ## Three-line Summary
 
 **Scope**: Synthesis pages spanning multiple categories
-**Indexed papers**: 294 papers in `wiki/overviews/`.
+**Indexed papers**: 295 papers in `wiki/overviews/`.
 
 ## 세줄요약
 
 **분야**: 종합
-**수록 논문**: 294편
+**수록 논문**: 295편
 **하위 카테고리**: 없음
 
-## Papers in this Category (294)
+## Papers in this Category (295)
 
 | Paper |
 |---|
@@ -152,6 +152,7 @@ tags: [navigation, category-index, overviews]
 | [[implant-bite-force-stability-short-implant-mbl-overview|임플란트 교합 하중·짧은 임플란트 변연골 — 저작력·ISQ 양적 관계 및 단임플란트 C:I 비율 효과]] |
 | [[implant-design-bone-quality-stress-fea|Overview: Implant Macro-Design × Bone Quality → Peri-Implant Stress (FEA Synthesis)]] |
 | [[implant-failure-mbl-risk-factors-overview|Overview: Late/Established Implant Failure & Marginal Bone Loss — Risk Factor Synthesis]] |
+| [[implant-failure-mechanism-xray-differential-overview|Implant Failure Mechanism Radiographic Differential: Overheating, Overcompression, Peri-implantitis]] |
 | [[implant-fpd-retention-material-survival-complications-overview|Overview: Implant-Supported Fixed Prosthesis — Retention Type, Abutment Design, and Material Selection for Survival & Complication Outcomes]] |
 | [[implant-length-selection-why-not-always-short|Overview: Implant Length Selection — Why Not Always Place a Short Implant?]] |
 | [[implant-loading-protocol-prosthesis-type-overview|임플란트 로딩 프로토콜 — 보철 구성·1차 안정성에 따른 즉시·조기·통상 부하 종합]] |
