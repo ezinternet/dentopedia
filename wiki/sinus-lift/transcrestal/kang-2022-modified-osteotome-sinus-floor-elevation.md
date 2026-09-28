@@ -58,6 +58,6 @@ Conventional transcrestal sinus floor elevation is preferred for RBH > 5 mm; bel
 
 ## Related Papers
 
-- [[wiki/sinus-lift/transcrestal/lin-2025-schneiderian-membrane-biomechanical-transcrestal-fea]] — FEA of membrane biomechanics across transcrestal techniques (perforation mechanics)
-- [[wiki/sinus-lift/transcrestal/albash-2023-implant-protrusion-initial-bone-tsfe]] — RBH and implant protrusion as determinants of initial bone gain in transcrestal SFE
-- [[wiki/sinus-lift/transcrestal/gaspar-2025-osseodensification-crestal-maxillary-sinus-elevation-narrative-review]] — crestal sinus elevation technique overview including osseodensification variants
+- [[sinus-lift/transcrestal/lin-2025-schneiderian-membrane-biomechanical-transcrestal-fea]] — FEA of membrane biomechanics across transcrestal techniques (perforation mechanics)
+- [[sinus-lift/transcrestal/albash-2023-implant-protrusion-initial-bone-tsfe]] — RBH and implant protrusion as determinants of initial bone gain in transcrestal SFE
+- [[sinus-lift/transcrestal/gaspar-2025-osseodensification-crestal-maxillary-sinus-elevation-narrative-review]] — crestal sinus elevation technique overview including osseodensification variants
