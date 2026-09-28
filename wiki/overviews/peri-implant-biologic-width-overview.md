@@ -112,5 +112,5 @@ Modern management (STA terminology, tooth side): physiological vertical STA 2.73
 
 ## Related Overviews
 
-- [[wiki/overviews/platform-switching-marginal-bone-preservation-synthesis]] — platform switching as the horizontal-reposition lever for peri-implant biologic width
-- [[wiki/overviews/abutment-emergence-profile-peri-implant-tissue-overview]] — emergence profile as the coronal extension of the soft-tissue seal
+- [[overviews/platform-switching-marginal-bone-preservation-synthesis]] — platform switching as the horizontal-reposition lever for peri-implant biologic width
+- [[overviews/abutment-emergence-profile-peri-implant-tissue-overview]] — emergence profile as the coronal extension of the soft-tissue seal
