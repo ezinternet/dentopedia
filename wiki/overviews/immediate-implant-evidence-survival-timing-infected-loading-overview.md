@@ -49,6 +49,7 @@ source_wiki:
   - wiki/immediate-implant/loading-protocol/suarez-2012-timing-restoration-implant-marginal-bone-loss-sr-ma.md
   - wiki/immediate-implant/loading-protocol/markovic-2024-immediate-vs-early-loading-immediately-placed.md
   - wiki/immediate-implant/molar-septum/atieh-2010-immediate-placement-loading-molar-implants-sr-ma.md
+  - wiki/immediate-implant/esposito-2026-7mm-5mm-immediate-molar-rct.md
 relations:
   - type: extends
     target: implant-placement-timing-immediate-early-delayed
@@ -229,6 +230,7 @@ Narrative synthesis (no new pooling; heterogeneous designs). Base (27): 1 NMA (Q
 - [[immediate-implant/felice-2016-immediate-immediate-delayed-post-extractive]] — 3-arm RCT (n=210): immediate / immediate-delayed (6 weeks) / delayed (4 months) single post-extraction sites; 4-month post-loading report
 - [[immediate-implant/esposito-2017-immediate-immediate-delayed-post-extractive]] — 3-arm RCT (n=210, same cohort as felice-2016): 1-year post-loading follow-up; survival and complication data at extended timepoint
 - [[immediate-implant/checchi-2017-wide-diameter-immediate-post-extractive]] — RCT (n=100, molar sites): wide-diameter (6–8 mm) immediate placement vs ARP + delayed conventional-diameter implants; 1-year post-loading
+- [[immediate-implant/esposito-2026-7mm-5mm-immediate-molar-rct]] — **다기관 RCT (n=39, 5개 센터, 1년)**: 7mm vs 5mm 직경 대구치 즉시 식립 — 생존율·MBL·PES 차이 없음; 7mm에서 경미 합병증 유의 증가(21.1% vs 0%, p=0.047). Checchi 2017(광폭 즉시 식립 위험) 연장선. (rct, 2026)
 - [[immediate-implant/yang-2026-immediate-vs-delayed-implants-survival-qol-rct]] — RCT (n=220, 1-yr): survival equivalent (95.45% vs 92.73%, P=.391); immediate placement superior on OHIP-14, PES, WES, peri-implant health, and VAS patient satisfaction — all P<.05
 - [[immediate-implant/qian-2024-anterior-maxillary-implants-placement-loading-nma]] — NMA (Semmelweis; anterior maxillary single-tooth, all Type 1–4 × loading combos): Type 1A/1B equivalent to conventional under case selection; safest default is Type 2/3 + conventional/early loading; Type 1A requires full Hamilton 2023 ITI criteria
 - [[immediate-implant/infected-socket/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] — SR+MA (22 studies): IIP into sockets with vs without periapical pathology — survival comparable with debridement + antibiotics; acute purulent infection remains contraindication
