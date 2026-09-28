@@ -1,0 +1,64 @@
+Comparative Microbial Assessment of Different Screw Access Hole Plugging Materials in Screw Retained Implants: An In Vivo Study
+
+Shefali Singla, Dhananjay Arora, Mili Gupta, Komal Sehgal, Lalit Kumar, Jyoti Sharma
+
+International Journal of Applied & Basic Medical Research, 2025;15(4):265-270
+DOI: 10.4103/ijabmr.ijabmr_298_25
+PMID: 41510331, PMCID: PMC12778392
+Source: PMC full text (https://pmc.ncbi.nlm.nih.gov/articles/PMC12778392/)
+
+Introduction
+
+Over the past 35 years, dental implants have become the primary treatment for edentulous jaws. Implant failures are due to various mechanical or biological issues, with peri-implant mucositis affecting 50% of implants, often caused by microleakage at the implant-abutment junction (IAJ). Implant-supported restorations can be screw or cement retained. Use of cemented restorations is advocated due to versatility in esthetics and passivity of fit but risks leaving excess cement. Screw-retained restorations are advantageous for their retrievability but may suffer from screw access hole (SAH) microleakage due to wearing of the sealing composite restoration. This causes ingress of saliva and oral flora, creating a niche for proliferation of both aerobic and anaerobic flora. Bacteria and its byproducts can further leak through the IAJ, into the peri-implant area, thus posing a threat of peri-implantitis. Cotton pellet (Co), silicone sealing material, vinyl polysiloxane (PVS), gutta-percha, and polytetrafluoroethylene (PTFE) have been used to plug the SAH, to reduce its microbial contamination. Cotton has been used as a conventional plugging material because of its ready availability and low cost. In comparison to cotton, which may act as an organic scaffold for disease-causing oral flora, PVS and PTFE are supposed to reduce or nullify any microleakage by creating a long-term hermetic seal. 0.12% chlorhexidine (CHX) is commonly used as a decontaminant for implant internal recess. 1% CHX has been successful in treating periimplantitis. These findings suggest that using cotton with 1% CHX can be a potential SAH plugging material.
+
+The microleakage from SAH to the peri-implant area through IAJ may trigger inflammation in the surrounding tissues and may cause subsequent bone destruction. Peri-implant sulcular fluid (PISF) is an important source of such inflammatory markers that signal any inflammatory change around the implant site. Interleukin-6 (IL-6) is one such biomarker which remarkably increases during host inflammatory response in PISF.
+
+Insufficient and conflicting literature on bacterial contamination of the plugging material of the SAH and its microleakage at the IAJ prompted this study. The primary aim of the study was to assess the efficacy of cotton pellet (Co), PTFE tape, cotton dipped in 1% chlorhexidine (Co1%CHX) as a plugging material of SAH of screw retained prosthetic restorations. The secondary aim of the study was to estimate the levels of IL-6 in PISF of the implant site to investigate the effect of microleakage, if any. The research hypothesis of the study was that PTFE and Co1%CHX are better than cotton as SAH plugging materials.
+
+Materials and Methods
+
+Patients reporting to the department of prosthodontics of the institution were examined to select the subjects of the study. Patients requiring one or more single tooth implants and fulfilling the other inclusion and exclusion criteria were chosen over a period of 3 months. Other inclusion criteria were patients having no active caries or any periodontal problems and free from any chronic systemic disease like diabetes mellitus, blood dyscrasias, or any other auto-immune disease. The exclusion criteria included patients requiring implant-supported overdenture or full mouth prosthesis or patients having a removable partial or complete denture opposing the selected implant site. All selected patients were informed about the study, and consent was taken as per Helsinki's declaration. The ethical clearance for the study was taken from the institutional ethics committee vide letter no. PUIEC/2018/127/A-1129/10. Sample size calculation for 85% power of the study came to be 40 implant sites. To cover for loss of patients during the study, 35 patients requiring a total of 45 implants were selected. On subsequent visit, all patients were given suitable diameter implants at the implant site (Megagen, AnyRidge).
+
+Prosthetic rehabilitation of all patients was done during their regular visits. On the day of placement of definitive restoration, the implant internal recess was disinfected with 0.2% CHX, and finished crown was secured onto the implant. As a standard procedure, the SAH was disinfected with 0.2% CHX and plugged with dry autoclaved cotton pellet (Group Cotton) and sealed with 2 mm of composite restoration while maintaining aseptic protocol. The patients were recalled after 1 month of prosthetic loading of the implant. The composite restoration was removed, and cotton pellet was retrieved from the SAH and immediately transferred to a labeled vial containing 200 μl of saline for microbiologic analysis. All implant sites were now divided randomly into two groups using lottery method of randomization, wherein numbered slips corresponding to each group were drawn from a container. This ensured an equal probability of group assignment. SAH was again disinfected with 0.2% CHX. Subgroup PTFE received autoclaved PTFE (quilled into tight rolls) and Subgroup Co1%CHX received autoclaved cotton soaked in 1% CHX as the SAH plugging material, followed by sealing coronally with composite restoration, maintaining aseptic protocol. Implant sites of patients requiring 2 implants were allotted: Group PTFE and Group Co1%CHX each, and patients with single tooth implant received either PTFE or Co1%CHX as SAH plugging material randomly.
+
+After 1 month of the above procedure, all patients were recalled, the composite sealing the SAH was again removed, PTFE tape and Co1%CHX pellets were retrieved and stored in labeled containers for microbiological evaluation. The SAH was re-plugged with respective plugging material in all patients with composite restoration. After appropriate isolation, a disposable microcapillary pipette was used to collect 2 μl of PISF from the implant site for assessment of IL-6 at baseline. The PISF was transferred to storage vial containing phosphate buffer saline, stored at −80°C. After 3 months of this visit, the patients were recalled, and 2 μl of PISF was again collected from the implant site and stored as before. No implant failure was observed in the selected patients.
+
+Out of thirty-five selected patients, four patients were lost during the follow-up visits. For statistical calculations, only data of patients who completed the study were included. Forty implant sites received cotton as primary plugging material, and 20 each received PTFE and Co1%CHX in the next visit.
+
+Microbiological analysis: Samples were cultured on the same day of collection. One blood and one MacConkey's agar plate were used for growth of aerobic organisms, incubated at 37°C for 24 h, and one blood agar plate was used for growth of anaerobic bacteria placed in McIntosh Fildes' jar with a Gas Pak incubated at 37°C for 48 h. Following the incubation period, the plates were removed and assessed for growth of bacterial colonies. A record of colony count was made of each plate using a colony counter. The dominant colony type from each sample was identified by Gram staining and colony morphology.
+
+Biochemical analysis: The IL-6 protein levels in PISF were determined by using IL-6-specific sandwich enzyme-linked immunosorbent assay system (RayBio, GA, USA) as per manufacturer's instructions. The sensitivity of the kit for human IL-6 was 1 pg/ml.
+
+Statistical analysis: All the results were subjected to suitable statistical analysis using SPSS software version 22.0. Normality of the data was ensured by Kolmogorov–Smirnov test. Nonparametric Chi-square test was used for the presence of microorganisms in samples, and parametric t-test for comparing the number of colonies from each plugging material and to compare IL-6 values of the PISF samples at baseline and after 3 months. P < 0.05 was considered statistically significant.
+
+Results
+
+Microbial contamination of SAH plugging material was assessed in patients with cotton as the initial and PTFE or Co1%CHX as the second plugging material. In all patients, the plugging materials were contaminated by aerobic as well as anaerobic bacteria, with colony count for anaerobic bacteria being more than aerobic. Results were highly significant in terms of both the number of positive samples as well as colony count, when samples of 20 patients with cotton as plugging material were compared to the same 20 patients with PTFE as plugging material in the next visit. Similar significant results were obtained on comparing cotton with Co1%CHX as plugging material in the other 20 patients.
+
+Table 1 — Microbial analysis of cotton versus PTFE (aerobic / anaerobic, positive samples % / colony count mean±SD):
+Group Cotton (n=20): Aerobic 18 (90%), 16.10±13.69; Anaerobic 19 (95%), 13.10±23.60
+Group PTFE (n=20): Aerobic 8 (40%), 0.45±0.60; Anaerobic 10 (50%), 0.8±1.20
+P-values: aerobic positive samples 0.01, aerobic colony count 0.000, anaerobic positive samples 0.001, anaerobic colony count 0.03
+
+Table 2 — Microbial analysis of cotton versus Co1%CHX:
+Group Cotton (n=20): Aerobic 13 (65%), 10.45±18.88; Anaerobic 14 (70%), 9.05±20.13
+Group Co1%CHX (n=20): Aerobic 3 (15%), 0.20±0.52; Anaerobic 4 (20%), 0.2±0.41
+P-values: aerobic positive samples 0.001, aerobic colony count 0.02, anaerobic positive samples 0.001, anaerobic colony count 0.05
+
+Table 3 — Microbial analysis of Co1%CHX versus PTFE:
+Group PTFE (n=20): Aerobic 8 (40%), 0.45±0.60; Anaerobic 10 (50%), 0.8±1.20
+Group Co1%CHX (n=20): Aerobic 3 (15%), 0.20±0.52; Anaerobic 4 (20%), 0.2±0.41
+P-values: aerobic positive samples 0.07 (NS), aerobic colony count 0.17 (NS), anaerobic positive samples 0.04, anaerobic colony count 0.04
+(PTFE vs Co1%CHX: not statistically significant for aerobic bacteria; significant for anaerobic bacteria in favor of Co1%CHX)
+
+On comparison of PTFE with Co1%CHX, number of positive samples and mean colony count for aerobic bacteria was higher in PTFE than Co1%CHX but not statistically significant. For anaerobic bacteria, positive samples and colony count were statistically significant in favor of Co1%CHX over PTFE.
+
+IL-6 in PISF: not significantly different in either group. Group PTFE: 256.30±60.94 pg/ml → 261.30±69.50 pg/ml (p=0.79). Group Co1%CHX: 227.06±49.63 pg/ml → 243.99±71.16 pg/ml (p=0.17).
+
+Discussion
+
+SAH is an area of concern as it can act as a bacterial reservoir in screw-retained implant supported prosthesis, contributing to peri-implantitis progression. Cotton, though inexpensive, increases the volume and potency of inflammatory cell infiltrate. PTFE meets requirements of being easily retrievable, pliable, and microbiologically inert. 1% CHX has been successful in decreasing bacterial load in the implant internal recess. Findings are consistent with prior literature: Paranjpe reported 10% of PTFE samples showing microleakage vs 90% of cotton samples; do Nascimento reported PTFE + composite significantly reduces microleakage into peri-implant sulcus; Elter found PTFE on healing abutments significantly reduced biofilm formation vs titanium surfaces. IL-6 levels were insignificantly increased after 3 months with either PTFE or Co1%CHX, suggesting microleakage from either plugging material was not sufficient to raise IL-6 to clinically significant levels during the early phase.
+
+Conclusion
+
+The present study reports significantly less bacterial contamination of PTFE as well as Co1%CHX as compared to cotton as a SAH plugging material, with Co1%CHX showing slightly better results (especially for anaerobic bacteria). However, this contamination and associated microleakage from SAH to peri-implant area may not be significant to raise IL-6 in PISF with either PTFE or Co1%CHX and cause clinical symptoms during the early phase of rehabilitation. Limitations: no qualitative analysis of bacterial species; follow-up limited to 5 months of final restoration. The study advocates using PTFE or cotton dipped in 1% CHX instead of traditional dry cotton pellets as SAH plugging material, to minimize colonization/proliferation of oral flora and likely reduce patient-reported halitosis and cacogeusia (foul taste) following implant treatment.
