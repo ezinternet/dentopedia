@@ -20,6 +20,7 @@ source_wiki:
   - wiki/implants/survival/barros-2021-sjogrens-syndrome-dental-implants.md
   - wiki/implants/survival/hosseini-2024-sjogren-implant-prosthesis-5year-prospective.md
   - wiki/drug/mronj/dahiya-2024-antiresorptive-drugs-osteonecrosis-dental-implants.md
+  - wiki/implants/survival/abichandani-2026-time-varying-glycemic-control-long.md
 relations:
   - type: extends
     target: early-implant-failure-risk-prevention-overview
@@ -90,6 +91,8 @@ Across these umbrella reviews the modal AMSTAR-2 grade is low or critically-low,
 
 D'Ambrosio and Meza-Mauricio converge: **no pooled meta-analysis finds a significant DM failure signal.** The nuance is that (a) primary studies lump all diabetics together rather than stratifying by HbA1c/duration, and (b) peri-implantitis (not osseointegration failure) is where the diabetic signal actually sits — D'Ambrosio cites Ferreira OR 1.9 for peri-implantitis and Tawil's HbA1c ≤7% → 0 peri-implant disease vs 7–9% → 6/141 implants affected. So the correct frame is glycemic-control-stratified surveillance, not blanket caution. This *refines* the peri-implantitis emphasis of [[implants/survival/meza-mauricio-2019-diabetes-implant-failure-peri-implant]].
 
+**Time-varying HbA1c sharpens the dose-response** ([[implants/survival/abichandani-2026-time-varying-glycemic-control-long]]): A retrospective cohort (782 adults, 1,312 implants, median 5.6 yr) that modeled HbA1c as a time-varying exposure — updated at every clinical visit — found a nonlinear dose-response steepening above 8%. Five-year implant failure: HbA1c ≥8% → 8.1% vs HbA1c <7% → 3.2% (~2.5×); peri-implantitis: 26.0% vs 12.1% (~2.1×). This extends the prior signal (single baseline HbA1c) to a dynamic picture: glycemic control *during* the implant's life, not just at placement, is what matters. The practical addition to step 3 of the algorithm: patients who *drift* above HbA1c 8% post-placement deserve closer recall.
+
 ### Sjögren: reassuring, from two independent angles
 
 Barros (SR pooling, 722 implants / 189 SS patients, 95.22% success) and Hosseini (prospective 5-year, 23 pSS vs 24 matched controls, 100% survival in both, MBL −0.04 vs −0.23 mm p=.685) agree that implant *performance* is preserved in Sjögren. What differs is host burden — DMFT, salivary flow, gingival index, OHIP-49 QoL — which tracks the dry mouth, not the implant. The practical message flips a common assumption: Sjögren is a QoL-management challenge, not an implant-survival contraindication.
@@ -115,6 +118,7 @@ Narrative cross-cutting synthesis (no new pooling; the sources are themselves um
 - [[implants/survival/oliveira-neto-2018-risk-bias-systematic-reviews-smokers]] — ROBIS appraisal; 5/6 smoking MAs high/unclear risk of bias
 - [[implants/survival/zarzar-2023-implants-radiotherapy-head-neck]] — umbrella; success 86.2% vs 95.2% irradiated
 - [[implants/survival/meza-mauricio-2019-diabetes-implant-failure-peri-implant]] — umbrella; no significant DM failure signal, peri-implantitis trends up
+- [[implants/survival/abichandani-2026-time-varying-glycemic-control-long]] — retrospective cohort (782명, 1312 임플란트, 5.6yr); time-varying HbA1c ≥8%: 5y failure 8.1% vs <7% 3.2%, peri-implantitis 26.0% vs 12.1%; 비선형 dose-response 8% 이상에서 급등
 - [[implants/survival/dambrosio-2023-systemic-diseases-medications-influence]] — umbrella; SSRI/PPI negative signals, antihypertensive protective, no absolute contraindication except prolonged glucocorticoids
 - [[implants/survival/barros-2021-sjogrens-syndrome-dental-implants]] — umbrella; SS success ≈95%, but SR quality critically-low
 - [[implants/survival/hosseini-2024-sjogren-implant-prosthesis-5year-prospective]] — prospective 5-yr; 100% survival, MBL/PPD = controls, burden is hyposalivation
