@@ -55,5 +55,5 @@ Parallel-arm RCT; 120 teeth with infected root canals and apical periodontitis. 
 
 ## Related Papers
 
-- [[endodontics/obturation/fahmy-2026-polydopamine-gutta-percha-bioceramic-sealer]] — bioceramic sealer properties; reinforces
+- [[endodontics/fahmy-2026-polydopamine-gutta-percha-bioceramic-sealer]] — bioceramic sealer properties; reinforces
 - [[endodontics/almufleh-2025-cbct-nonsurgical-rct-outcomes-srma]] — CBCT-based RCT outcomes for nonsurgical endo; reinforces
