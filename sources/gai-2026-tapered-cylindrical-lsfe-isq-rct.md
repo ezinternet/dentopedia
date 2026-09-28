@@ -8,7 +8,7 @@ source_collection: pubmed-abstract
 ---
 
 ## Why Ingested
-임플란트 1차 안정성 서베일런스 2026-09: 측방 상악동거상술 동시 식립에서 테이퍼드 vs 원통형 임플란트의 ISQ 비교 RCT — 골이식 후 bone-grafted site에서 임플란트 형태가 1·2차 안정성에 미치는 영향을 실측. [[sinus-lift/lateral/mo-2023-simultaneous-implant-lateral-sinus-elevation]] 및 [[implants/isq/tisci-2026-isq-it-mbl-survival-sr-ma]] ISQ 예측 근거와 직접 연결.
+임플란트 1차 안정성 서베일런스 2026-09: 측방 상악동거상술 동시 식립에서 테이퍼드 vs 원통형 임플란트의 ISQ 비교 RCT — 골이식 후 bone-grafted site에서 임플란트 형태가 1·2차 안정성에 미치는 영향을 실측. [[implants/isq/tisci-2026-isq-it-mbl-survival-sr-ma]] ISQ 예측 근거와 직접 연결.
 
 ## One-line Summary
 RCT (J Dent 2026): 60 patients, 92 implants at simultaneous LSFE — tapered implants showed significantly higher ISQ at placement (70.48 vs 55.04) and 6 months (80.83 vs 78.98), with comparable peri-implant bone changes between groups.
