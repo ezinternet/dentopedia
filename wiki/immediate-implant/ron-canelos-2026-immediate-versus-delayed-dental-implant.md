@@ -84,7 +84,7 @@ Context 데이터 (protocol 서문): 단일 즉시임플란트 성공률 96.7–
 - [[immediate-implant/garcia-sanchez-2022-immediate-vs-delayed-implant-placement-sr-ma]] — 이 umbrella가 직접 덮을 SR+MA의 한 축 (생존 차이 없음 계열; [11])
 - [[immediate-implant/patel-2023-immediate-vs-delayed-implant-survival-sr-ma]] — 즉시 vs 지연 생존 RR 0.99 SR+MA; umbrella의 대상 ([12])
 - [[immediate-implant/mello-2017-immediate-fresh-extraction-vs-delayed-healed-socket-sr-ma]] — 신선 소켓 vs 치유 소켓 SR+MA, 지연 생존 우위 계열 ([16]) — "생존 차이" 논쟁의 반대 축
-- [[immediate-implant/espada-salgado-2026-immediate-implant-infected-socket-scoping-review]] — 스코핑 리뷰로 제외 기준(비SR 배제)이 이 계획서 범위를 가르는 예시
+- [[immediate-implant/infected-socket/espada-salgado-2026-immediate-implant-infected-socket-scoping-review]] — 스코핑 리뷰로 제외 기준(비SR 배제)이 이 계획서 범위를 가르는 예시
 - [[immediate-implant/immediate-implant]] — IIP 카테고리 허브: Type I–IV 틀·결정 분기와 연결
 - [[overviews/immediate-implant-decision-ladder]] — 위키의 IIP 5축 결정 사다리; 이 umbrella는 그 근거 계층(SR+MA) 위에 위치
 
