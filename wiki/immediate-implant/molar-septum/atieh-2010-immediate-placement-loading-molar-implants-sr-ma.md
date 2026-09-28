@@ -80,5 +80,5 @@ Both immediate placement (99.0%) and immediate restoration/loading (97.9%) demon
 
 ## Related Papers
 
-- [[molar-septum/aung-2024-tapered-sla-immediate-implant-survival]] — immediate molar implant survival retrospective cohort
+- [[immediate-implant/aung-2024-tapered-sla-immediate-implant-survival]] — immediate molar implant survival retrospective cohort
 - [[immediate-implant/immediate-implant]] — immediate implant foundational overview
