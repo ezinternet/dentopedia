@@ -67,7 +67,7 @@ De novo RCT-level MA. Databases: PubMed, Embase, Scopus, Epistemonikos, Cochrane
 
 ## Related Papers
 
-- [[implants/esposito-2013-loading-times-dental-implants-cochrane]] — earlier Cochrane SR on loading protocols; this de novo MA extends and supplements
-- [[implants/benic-2014-loading-protocols-single-implant-crowns-sr-ma]] — earlier MA on loading protocols; reinforces
-- [[implants/azarias-2025-survival-rate-immediate-loaded-implants]] — recent observational data on immediate loading survival; reinforces
+- [[implants/loading-protocol/esposito-2013-loading-times-dental-implants-cochrane]] — earlier Cochrane SR on loading protocols; this de novo MA extends and supplements
+- [[implants/loading-protocol/benic-2014-loading-protocols-single-implant-crowns-sr-ma]] — earlier MA on loading protocols; reinforces
+- [[immediate-implant/loading-protocol/azarias-2025-survival-rate-immediate-loaded-implants]] — recent observational data on immediate loading survival; reinforces
 - [[implants/casalino-2026-influence-immediate-versus-delayed-loading]] — contemporaneous RCT on loading timing; reinforces
