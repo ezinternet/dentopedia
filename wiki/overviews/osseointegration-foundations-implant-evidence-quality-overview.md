@@ -16,6 +16,9 @@ source_papers:
   - implants/gaviria-2014-current-trends-dental-implants-review
   - implants/musskopf-2022-minipig-intraoral-implant-model-sr-ma
   - implants/survival/popelut-2010-sponsorship-implant-failure-rate-sr
+  - wiki/implants/loading-protocol/heiderich-2020-methodological-quality-loading-time-implants.md
+  - wiki/implants/rawat-2024-per-ingvar-branemark-father-modern-implantology.md
+  - wiki/bone-biology/rowe-2023-physiology-bone-remodeling.md
 tags: [osseointegration, foundations, history, surface-topography, sla, slactive, bic, titanium-zirconia, minipig-model, sponsorship-bias, evidence-quality, anchor, overview]
 ---
 
@@ -36,7 +39,7 @@ tags: [osseointegration, foundations, history, surface-topography, sla, slactive
 
 ## Three-line Summary
 
-Anchor synthesis of 5 papers (3 narrative reviews, 1 SR+MA, 1 SR) across two axes: Axis 1 settles osseointegration foundations — dual founding schools (Brånemark/Schroeder), moderately rough Sa 1–2 µm as master-variable, SLA→SLActive %BIC ladder, TiZr≈cpTi, peri-implantitis and zirconia as open controversies.
+Anchor synthesis of 8 papers (3 narrative reviews, 1 SR+MA, 1 SR) across two axes: Axis 1 settles osseointegration foundations — dual founding schools (Brånemark/Schroeder), moderately rough Sa 1–2 µm as master-variable, SLA→SLActive %BIC ladder, TiZr≈cpTi, peri-implantitis and zirconia as open controversies.
 
 Axis 2 quantifies the evidence-quality discount factor: minipig-model pooled BIC 59.88% carries I²>90% heterogeneity and poor reporting quality (Musskopf 2022), while industry-linked studies report failure at OR 0.21 — ~5× lower than non-industry (Popelut 2010).
 
