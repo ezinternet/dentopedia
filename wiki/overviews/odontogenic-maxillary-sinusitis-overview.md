@@ -5,34 +5,24 @@ category: overviews
 date: 2026-06-12
 evidence_level: synthesis
 source_papers:
-  - wiki/oral-medicine/kim-2019-definition-management-odontogenic-maxillary.md
-  - wiki/oral-medicine/psillas-2020-odontogenic-maxillary-sinusitis-comprehensive-review.md
-  - wiki/oral-medicine/craig-2022-odontogenic-sinusitis-state-art.md
-  - wiki/oral-medicine/de-corso-2022-sinonasal-complications-dental-disease.md
-  - wiki/oral-medicine/lin-2024-odontogenic-maxillary-sinusitis-expert-consensus.md
+  - wiki/oral-medicine/odontogenic-sinusitis/albu-2025-treatment-landscape-odontogenic-sinusitis.md
   - wiki/oral-medicine/bisla-2022-odontogenic-infections-maxillary-sinus-changes.md
+  - wiki/oral-medicine/craig-2022-odontogenic-sinusitis-state-art.md
+  - wiki/sinus-lift/lateral/craig-2024-ent-oral-surgeon-collaboration-sinus-elevation.md
+  - wiki/oral-medicine/de-corso-2022-sinonasal-complications-dental-disease.md
   - wiki/endodontics/diagnosis/dumitrescu-2021-cbct-periapical-lesions-maxillary-sinus.md
-  - wiki/oral-surgery/oliva-2024-oroantral-communication-fistula-treatment-sr-ma.md
+  - wiki/endodontics/diagnosis/karamifar-2020-endodontic-periapical-lesion-an-overview.md
+  - wiki/oral-medicine/kim-2019-definition-management-odontogenic-maxillary.md
+  - wiki/sinus-lift/lateral/kim-2019-maxillary-implants-otolaryngologist-perspective.md
   - wiki/oral-surgery/kwon-2020-closure-oroantral-fistula-local.md
   - wiki/oral-surgery/lazow-1999-oroantral-fistula-flap-procedures.md
-  - wiki/sinus-lift/lateral/lee-2023-impact-sinus-floor-elevation-techniques.md
-  - wiki/sinus-lift/lateral/nemati-2023-membrane-perforation-risk-lateral-sinus.md
-  - wiki/sinus-lift/lateral/ye-2025-rrh-sinus-membrane-perforation-sr-ma.md
-  - wiki/sinus-lift/lateral/wang-2023-smoking-schneiderian-membrane-perforation-sinus.md
-  - wiki/sinus-lift/lateral/henriques-2022-maxillary-sinus-septa-prevalence-sr-ma.md
-  - wiki/sinus-lift/lateral/khiabani-2024-sinus-membrane-thickness-lsfe-mucosal.md
-  - wiki/sinus-lift/lateral/gulbey-2026-osteomeatal-complex-variations-maxillary.md
-  - wiki/sinus-lift/lateral/gulec-2025-psaa-cbct-maxillary-sinus-anatomy.md
-  - wiki/sinus-lift/lateral/abullais-2024-maxillary-sinus-membrane-lateral-wall-cbct.md
-  - wiki/sinus-lift/lateral/sala-2024-sinus-perforation-outcomes-sr-ma.md
-  - wiki/sinus-lift/lateral/kozuma-2017-chronic-sinusitis-sinus-augmentation-infection.md
-  - wiki/sinus-lift/lateral/sakuma-2020-maxillary-sinus-ostium-edema-cbct.md
-  - wiki/sinus-lift/lateral/rocha-2023-sinusitis-rate-sinus-lift-zygomatic-ma.md
-  - wiki/sinus-lift/lateral/suzuki-yamazaki-2020-sinusitis-prevention-sinus-lift-high-risk.md
-  - wiki/sinus-lift/lateral/craig-2024-ent-oral-surgeon-collaboration-sinus-elevation.md
-  - wiki/sinus-lift/lateral/kim-2019-maxillary-implants-otolaryngologist-perspective.md
+  - wiki/oral-medicine/lin-2024-odontogenic-maxillary-sinusitis-expert-consensus.md
+  - wiki/drug/antibiotics/lockhart-2019-antibiotic-pulpal-periapical-pain-swelling.md
   - wiki/sinus-lift/lateral/nam-2014-fess-intraoral-implant-related-sinusitis.md
+  - wiki/oral-surgery/oliva-2024-oroantral-communication-fistula-treatment-sr-ma.md
   - wiki/sinus-lift/lateral/park-2024-surgical-drainage-simultaneous-sinus-floor.md
+  - wiki/oral-medicine/psillas-2020-odontogenic-maxillary-sinusitis-comprehensive-review.md
+  - wiki/drug/antibiotics/teoh-2021-oral-antibiotic-empirical-acute-dentoalveolar-infections.md
 tags: [overview, odontogenic-maxillary-sinusitis, oms, oroantral-fistula, fess, cbct, source-control, sinus-lift, membrane-perforation, prevention, ent-collaboration, felisati-grading]
 ---
 
