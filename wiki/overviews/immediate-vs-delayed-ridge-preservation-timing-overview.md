@@ -14,6 +14,11 @@ source_papers:
   - wiki/immediate-implant/esthetic-soft-tissue/ickroth-2024-immediate-vs-early-implant-esthetic-zone-sr-ma.md
   - wiki/immediate-implant/esthetic-soft-tissue/hicklin-2024-immediate-vs-early-blt-implants-pink-esthetic-pilot-rct.md
   - wiki/immediate-implant/esthetic-soft-tissue/elaskary-2022-vst-immediate-vs-early-contour-augmentation-compromised-sockets-rct.md
+  - wiki/immediate-implant/bineviciute-2024-attitudes-surgeons-immediate-implant-survey.md
+  - wiki/immediate-implant/esthetic-soft-tissue/buser-2017-implant-placement-timing-post-extraction-esthetic.md
+  - wiki/immediate-implant/esthetic-soft-tissue/chen-2014-esthetic-outcomes-immediate-early-implant.md
+  - wiki/immediate-implant/esthetic-soft-tissue/nassani-2025-immediate-vs-delayed-implant-bony-defect-commentary.md
+  - wiki/immediate-implant/infected-socket/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma.md
 tags: [overview, placement-timing, immediate-implant, delayed-implant, ridge-preservation, ARP, ITI-type, decision-framework]
 ---
 
