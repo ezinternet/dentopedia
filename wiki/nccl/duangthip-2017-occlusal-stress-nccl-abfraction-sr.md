@@ -23,6 +23,9 @@ relations:
     target: dioguardi-2024-abfraction-theory-controversy-scoping-review
 ---
 
+> [!note] Partially superseded → [[dioguardi-2024-abfraction-theory-controversy-scoping-review]]
+> Dioguardi 2024 (PRISMA-ScR) re-criticizes this review: restricted to clinical studies alone (only 6 eligible), the positive occlusal-stress conclusion is unsupported — the evidence neither confirms nor refutes an abfraction role. The 81% association figure here is driven by laboratory/FEA studies; do not cite it as clinical proof of causation. (set 2026-09-30)
+
 ## Three-line Summary
 
 Systematic review across PubMed, ISI Web of Science, and EMBASE (keyword "abfraction"; English only; 372 identified → 69 included: 31 clinical + 38 laboratory) evaluating whether occlusal stress is a mechanism in NCCL formation.
