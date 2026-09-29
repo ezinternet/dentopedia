@@ -1,0 +1,180 @@
+A Multicenter Study of Factors Related to Early Implant Failures-Part 2: Patient Factors
+Wåhlberg RD, Stenport VF, Wennerberg A, Hjalmarsson L
+Clinical Implant Dentistry and Related Research 2025 Aug;27(4):e70081
+DOI: 10.1111/cid.70081
+PMCID: PMC12307256
+PMID: 40730516
+Source: PubMed Central full text via PubMed MCP get_full_text_article (retrieved 2026-09-29). Tables 1-3 came through as text; no figures in the retrieved body. Reference numbers stripped by the extractor.
+
+=== ABSTRACT ===
+
+Background: Recent advancements in dental implant materials, designs, and surgery have increased their use, especially for challenging local conditions. As guidelines for individualized risk assessment are increasingly emphasized, implant treatment has become available to patients with diverse medical backgrounds. However, clinical research with large patient groups is needed to investigate the effects of patient-related factors associated with early implant failure.
+
+Purpose: This paper investigates patient factors in two patient cohorts associated with early implant complications and failures.
+
+Materials and Methods: The collected data were analyzed and presented in two studies. Both studies followed the same data collection methodology and compared cohorts treated in 2007 and 2017. The same patient-level dataset was analyzed, although the second study included additional analyses of diseases and allergies. Data were analyzed univariately (p < 0.20) to select variables for the multivariable logistic regression model (p < 0.05), with early implant failures and complications as dependent variables.
+
+Results: In total, 1875 patients with 4670 implants were included. There were 74 (3.7%) dropouts, mainly due to lack of data. The 2007 cohort comprised 799 patients with 2473 implants, and the 2017 cohort comprised 1076 patients with 2287 implants. Differences were observed between the two cohorts for the number of implants per patient, exposed implant threads, and preoperative antibiotics. In the 2007 cohort, 23 (2.9%) patients had early implant failure. In the 2017 cohort, 40 (3.7%) had early implant failure (p > 0.30). Significantly more implants failed in the 2017 cohort (n = 56, 2.4%) than in the 2007 cohort (n = 26, 1.1%) (p < 0.001). Early complications were reported for 56 (7.0%) patients in 2007 and 145 (13.5%) patients in 2017 (p < 0.001). Three patient-related variables were associated with an increased risk of early failure-food allergy, exposed implant threads, and increased number of implants. Seven variables were related to an increased risk of complications: smoking, exposed threads, no preoperative antibiotics, number of implants, sinus perforations, food allergy, and metal allergy.
+
+Conclusions: This study identified three factors associated with early implant failure and seven associated with early complications.
+
+=== FULL TEXT ===
+
+1. Introduction
+
+Dental implant treatment, a widely used and effective method for replacing missing teeth, was initially developed for the rehabilitation of edentulous jaws using full-arch prosthetic restorations. Since then, progress has been made in the dental implant field. Today, dental implant surgery includes implant treatment in partial edentulous patients, which is now the largest patient group. Over time, clinical guidelines have placed greater emphasis on individualized evaluation of the patient's health condition to create a more holistic view of the patient's needs and assess the potential benefit of implant therapy. Research and development of surgical methods, materials, and designs have enabled local management of sites with poor bone quality and insufficient bone volume. Consequently, the indications for implant treatment have expanded lately. As implant treatment is offered to patients with varied medical backgrounds, patient-related risk factors need to be addressed. Future research should focus on long-term predictable results and prevention of early implant failure and complications.
+
+Dental implants, which can immediately activate a foreign body reaction, trigger the immunological system to suppress bone resorption and stimulate bone formation to isolate the implant, resulting in osseointegration. After osseointegration, the implant is covered in bone; however, a few implants are isolated by fibrotic encapsulation. Most implant failures occur during the early healing phase, which is referred to as early implant failures. Early implant failures as the result of unsuccessful osseointegration are often related to patient-related factors that cause an immunological imbalance, resulting in an over activation of the immune system. This effect on the immune system highlights why further investigations that examine systemic health conditions as potential risk factors for implant failure are needed. Although some medical conditions make implant treatment too risky, most systemic conditions are seen as having low relative risks. Conditions such as cardiovascular diseases, osteoporosis, diabetes, and autoimmune diseases warrant careful assessment but do not automatically exclude patients from implant treatment. When potential medical complications are present, a cautious and a well-informed decision-making process is recommended, favoring individualized assessment over the application of absolute contraindications. In a large retrospective case-control study, Olsson Malm et al. identified several anamnestic factors, including systemic diseases, allergies in general, and food allergies specifically, that increased the probability of early implant failure. The influence of patients' general health on early implant failure is poorly understood and therefore needs further study.
+
+Early implant failure has frequently been associated with impaired bone healing and reduced primary stability. Previous studies have shown that smoking and implant sites with poor bone quality or small bone volume are risk factors for early failure. Other local conditions involve implant placement. Most studies show that implants are more prone to fail in the maxillae due to poorer bone quality, challenging sinus anatomy, and often small vertical bone height. Although early implant failure in the maxilla versus mandible has been widely studied, findings remain inconsistent when jaws are divided into different regions.
+
+Although risk factors for early implant failure have been studied, few studies include large patient samples with two cohorts. Systematic immune responses related to a patient's general health and local complications associated with the risk of early implant failure are understudied areas. This study aims to evaluate patient-related factors and early implant failure and complications in one patient cohort treated in 2007 and one patient cohort treated in 2017.
+
+2. Materials and Methods
+
+This retrospective cohort study is based on patient-related information on performed implant surgeries at three specialist centers in the region of Vastra Gotaland in Sweden between 2007 and 2017. Due to the extensive dataset, this multicenter study was structured into two parts. Part I focuses on implant materials, design, and surgical technique and Part II, the present study, focuses on patient-related factors.
+
+2.1 Data
+
+Part I and Part II were conducted using the same underlying dataset. The methodology for data collection was described in Part I. In Part II, data on specific diseases and allergies was analyzed to provide more detailed information on general health conditions, including cardiovascular disease, diabetes, autoimmune disorders, and allergies to food, antibiotics, and metals. The selected conditions were commonly reported and considered clinically relevant, as they may have systemic effects on the foreign body response to implants. Furthermore, descriptive analyses of implant placement by jaw region were conducted in cases of implant failure and complications, as well as analyses of the number of implants placed per surgical procedure.
+
+2.2 Definition
+
+This study defines early implant failures and complications as failures and complications within the first year.
+
+2.3 Statistics
+
+Statistical data analyses were performed in SPSS (IBM SPSS Statistics for Windows, Version 28.0. Armonk, NY: IBM Corp). Descriptive statistics were used for numbers, means, and frequencies. Fisher's exact test and Fisher's permutation test were used to compare the outcome of binary and continuous variables of the two cohorts (p < 0.05). Patients with implants placed in the maxilla were compared with those with implants in the mandible, and similarly, patients with implants in one region were compared with those with implants in other regions, with respect to implant failure and complications. For patients who received implants in both the maxilla and mandible, or across multiple regions, the proportion of implants placed in the maxilla or in each specific region was calculated. All statistical analyses were conducted at the patient level; implant-level data were used solely for descriptive purposes, as shown in Table 2. Furthermore, the number of surgical procedures was described in three categories based on the Swedish coding system: 1, 2 to 3, and 4 or more implants inserted simultaneously per patient per day.
+
+In the univariate analysis in Part II, the same patient-level variables described in Part I were used as the basis for variable selection in the subsequent multivariable logistic regression analysis. Additionally, variables of cardiovascular disease, diabetes, autoimmune disorders, and allergies to food, antibiotics, and metals were included. Early implant failures and complications were classified as dependent variables; all others were classified as independent variables. In the univariate analysis, all variables with a significance level of p < 0.2 were compared for further variable selection and inclusion in the multivariable models. Factors associated with an increased risk of early implant failure and complications were analyzed with a significance level of p < 0.05 in a multivariable logistic regression model.
+
+2.4 Ethical Protection
+
+The study was approved by the Ethical Review Board, Sweden (2019-01330).
+
+3. Results
+
+3.1 Patients Inclusion and Exclusion
+
+Of the 1949 patients treated with implants, 862 patients were from the 2007 cohort and 1087 were from the 2017 cohort. Of these, 74 (3.8%) patients were excluded from the study - 63 patients from 2007 and 11 patients from 2017 - for the following reasons: surgical reports not found (52 patients from 2007 and 8 patients from 2017); and incorrect year entered for treatment (11 patients from 2007 and 3 patients from 2017). Moreover, zygoma implants were excluded due to deviant design and surgical technique (2 implants from 2007). In total, 1875 patients with 4670 implants were included - 799 patients with 2473 implants from 2007 and 1076 patients with 2287 implants from 2017.
+
+3.2 Patient-Related Factors for 2007 and 2017 Cohorts
+
+Information on reported patient characteristics and medical history, bone status, implant jaw placement, and other patient-related variables were compared for the two cohorts (Table 1). Subside analyses were conducted for circulatory diseases, which included hypertension, dyslipidemia, coronary infarction, stroke, angina pectoris, transient ischemic attack (TIA), pulmonary embolism, valve insufficiency, and heart arrhythmia. Subside analysis of autoimmune diseases includes Sjogren's syndrome, rheumatoid arthritis, systemic lupus erythematosus (SLE), spondylitis, Bechterew's disease, psoriasis, ulcerative colitis, Crohn's disease, polymyalgia, multiple sclerosis, thyroid diseases, celiac disease, and diabetes type 1.
+
+In 2017, implant insertions in patients aged 20 to 59 years increased compared with 2007, while treatment in the youngest patients, under 20 years old, and the oldest patients, 60 years or older, decreased. Bone quality was reported as I-IV, ranging from homogenous cortical bone to thin cortical bone with low-density trabeculae, and bone volume was reported as A-E, ranging from minimal to extreme jaw resorption per Lekholm and Zarb's classification system. Primary stability was defined as good, moderate, or poor. These variables were not completely reported by all clinics. No statistical difference was observed for bone quality, bone volume, or primary stability between the cohorts (p < 0.30). More patients had one or more implants with exposed implant threads in 2017 (n = 60, 5.6%) than in 2007 (n = 13, 1.6%) (p < 0.001). Fewer patients received prescribed antibiotics before implant treatment in 2017 (n = 835, 77.6%) than in 2007 (n = 742, 92.9%) (p < 0.001) (Table 1).
+
+Implant surgeries were recorded as 1, 2 to 3, or 4 or more implants per patient per day. The number of performed single implant surgeries was higher in 2017 (n = 853) than in 2007 (n = 390). Likewise, the number of surgeries for two to three implants placed simultaneously was higher in 2017 (n = 340) than in 2007 (n = 308), but fewer four or more implant surgeries were performed in 2017 (n = 146) than in 2007 (n = 276).
+
+Most implants were placed in the maxilla for both the 2007 cohort (n = 1534, 62.0%) and the 2017 cohort (n = 1407, 61.5%) (p < 0.30). More implants were placed in the molar region in 2017 (n = 546, 23.9%) than in 2007 (n = 195, 7.9%) (p > 0.001 [sic]). Conversely, the number of implants placed in the incisor and canine region was lower in 2017 (n = 739, 32.3%) than in 2007 (n = 1107, 44.8%) (p > 0.001 [sic]). Similarly, fewer implants were placed in the premolar region in 2017 (n = 1002, 43.8%) than in 2007 (n = 1171, 47.4%) (p = 0.0067).
+
+TABLE 1. Summary of variables, analyzed at the patient level for each cohort, 2007 and 2017. (2007 | 2017 | two-tailed p; Fisher's exact / permutation test)
+Gender (women), n (%): 443 (55.4) | 596 (55.4) | >0.30
+Age mean +/- SD (min; max): 55.7 +/- 22.1 (16; 96) | 54.0 +/- 18.2 (17; 98) | 0.068
+Age groups n (%): <20: 126 (15.8) | 36 (3.3); 20-39: 86 (10.8) | 185 (17.2); 40-59: 115 (14.4) | 372 (34.6); 60-79: 401 (50.2) | 431 (40.1); >80: 71 (8.9) | 52 (4.8)
+Smoking, n (%): 123 (15.4) | 157 (14.6) | >0.30
+Diseases, n (%): 416 (52.1) | 580 (53.9) | >0.30
+  Subgroup circulatory diseases: 228 (28.5) | 255 (23.7) | 0.019
+  Subgroup diabetes type 1 and 2: 47 (5.9) | 64 (5.9) | >0.30
+  Subgroup autoimmune diseases: 56 (7.0) | 82 (7.6) | >0.30
+Allergies, n (%): 221 (27.7) | 300 (27.9) | >0.30
+  Subgroup antibiotic allergy: 81 (10.1) | 110 (10.2) | >0.30
+  Subgroup food allergy: 37 (4.6) | 58 (5.4) | >0.30
+  Subgroup metal allergy: 17 (2.1) | 22 (2.0) | >0.30
+Bone quality mean +/- SD (min; max): 2.72 +/- 0.59 (1; 4) | 2.67 +/- 0.66 (1; 4) | 0.12; missing data 167 (20.9) | 536 (49.8)
+Bone volume mean +/- SD (min; max): 2.33 +/- 0.62 (1; 4) | 2.34 +/- 0.59 (1; 5) | >0.30; missing data 165 (20.7) | 621 (57.7)
+Primary stability mean +/- SD (min; max): 1.0 +/- 0.1 (1; 3) | 1.0 +/- 0.1 (1; 3) | >0.30; missing data 404 (50.6) | 578 (53.7)
+Number of implants per patient mean +/- SD: 3.1 +/- 2.1 | 2.1 +/- 1.7 | <0.001
+Exposed implant threads, n (%): 13 (1.6) | 60 (5.6) | <0.001
+Bone augmentation, n (%): 92 (11.5) | 152 (14.1) | 0.11
+Sinus perforations, n (%): 6 (0.8) | 7 (0.7) | <0.30
+Implant jaw placement (maxillae), n (%): 495 (62.0) | 675 (62.7) | >0.30
+Preoperative antibiotics: 742 (92.9) | 835 (77.6) | <0.001
+Early implant failure, n (%): 23 (2.9) | 40 (3.7) | >0.30
+Early implant complications, n (%): 56 (7.0) | 145 (13.5) | <0.001
+Notes: bone quality 1-4 ordinal scale, bone volume 1-5 ordinal scale, primary stability 1-3 ordinal scale, each analyzed stepwise per 1-unit difference.
+
+3.3 First Year Implant Loss and Complications
+
+In 2017, 40 (3.7%) patients had implant failure compared with 23 (2.9%) in 2007 (p < 0.3). More implants failed in 2017 (n = 56, 2.4%) than in 2007 (n = 26, 1.1%) (p < 0.001). Complications were more frequently reported at both the patient and implant level in 2017 than in 2007. In 2017, 145 (13.5%) patients with 241 (10.5%) implants had complications; in 2007, 56 (7.0%) patients with 94 (3.8%) implants (p < 0.001) had complications. The cause of early failures and the reported complications are described in the first part of the study.
+
+The following data combines the cohorts. Patients with implant failures had a mean number of 3.7 implants per patient, and patients with no implant failure had a mean number of 2.5 implants per patient (p < 0.001). Implant failures of one implant per patient were more prevalent (n = 51) than multiple implant failures (n = 12). For patients who lost all their implants, 12 patients lost 1 of 1 implant, three patients lost 2 of 2 implants, and one patient lost 6 of 6 implants.
+
+Univariate, patient-level analyses of early failures and complications related to implant placement revealed no statistically significant differences between patients with implants placed in the maxilla versus the mandible (p >= 0.25), or between those with implants placed in a specific region compared with all other regions. Patients with implants in the anterior region reported a higher frequency of early complications (p = 0.086), while failures and complications in other regions were further from statistical significance (p >= 0.28).
+
+In a multivariable logistic regression model, neither jaw placement (maxilla vs. mandible) nor region placement (incisor, premolar, molar) was significantly associated with an increased risk of early implant failure or complications (p >= 0.25). Descriptively, the distribution of implant placement was presented at the implant level (Table 2).
+
+TABLE 2. Description of implant placement in cases with reported early complications and failures, implant level, both cohorts. (implants | failures n (%) | failure % | complications n (%) | complication %)
+Maxillae: 2941 | 59 (72.0) | 2.0 | 217 (64.8) | 7.4
+Mandible: 1819 | 23 (28.0) | 1.3 | 118 (35.2) | 6.5
+Incisor region: 1846 | 38 (46.3) | 2.1 | 144 (43.0) | 7.8
+  Maxillary incisor: 1410 | 30 (36.6) | 2.1 | 111 (33.1) | 7.9
+  Mandible incisor: 436 | 8 (9.8) | 1.8 | 33 (9.9) | 7.6
+Premolar region: 2173 | 34 (41.5) | 1.6 | 144 (43.0) | 6.6
+  Maxillary premolar: 1236 | 25 (30.5) | 2.0 | 85 (25.4) | 6.9
+  Mandible premolar: 937 | 9 (11.0) | 1.0 | 59 (17.6) | 6.3
+Molar region: 741 | 10 (12.2) | 1.3 | 47 (14.0) | 6.3
+  Maxillary molar: 295 | 4 (4.9) | 1.4 | 21 (6.3) | 7.1
+  Mandible molar: 446 | 6 (7.3) | 1.3 | 26 (7.8) | 5.8
+
+3.4 Factors Associated With Early Failure and Complications
+
+The multivariable logistic regression analysis of early failures identified three variables associated with increased risk of early failure: bone perforations and exposed implant threads (OR 3.47; 95% CI [1.56, 7.71]; p < 0.0023), increased number of implants (OR 1.27; 95% CI [1.15, 1.41]; p < 0.001) and food allergy (OR 2.64; 95% CI [1.15, 6.06]; p = 0.022) (Table 3). Regarding early complications, seven variables were found to be associated with an increased risk in the multivariable analysis: smoking (OR 2.30; 95% CI [1.61, 3.29]; p < 0.001), no pre-operative antibiotics (OR 1.92; 95% CI [1.33, 2.78]; p < 0.001), increased number of implants (OR 1.21 95% CI [1.13, 1.30]; p < 0.001), exposed implant threads (OR 4.46; 95% CI [2.59, 7.69]; p < 0.001), sinus perforations (OR 8.19; 95% CI [2.45, 27.35]; p < 0.001), food allergy (OR 1.92; 95% CI [1.08, 3.40]; p = 0.026) and metal allergy (OR 2.45; 95% CI [1.08, 5.57]; p = 0.033) (Table 3).
+
+TABLE 3. Multivariable logistic regression analyses on early implant failure and complications, patient level, both cohorts. OR (95% CI); two-tailed p.
+Early failures:
+  Diseases: 1.46 (0.84, 2.52); 0.18
+  Smoking: 1.61 (0.88, 2.94); 0.12
+  Bone quality: 1.50 (0.91, 2.47); 0.12
+  Numbers of implants per patient: 1.27 (1.15, 1.41); <0.001
+  Bone augmentation: 1.25 (0.63, 2.48); >0.30
+  Exposed threads: 3.47 (1.56, 7.71); 0.0023
+  Sinus perforations: 3.41 (0.68, 16.98); 0.13
+  Diabetes: 1.84 (0.81, 4.19); 0.15
+  Food allergy: 2.64 (1.15, 6.06); 0.022
+  Antibiotic allergy: 1.33 (0.64, 2.77); 0.45
+  Cardiovascular diseases: 1.31 (0.76, 2.25); 0.34
+Early complications:
+  Diseases: 1.25 (0.91, 1.72); 0.17
+  Smoking: 2.30 (1.61, 3.29); <0.001
+  No preoperative antibiotics: 1.92 (1.33, 2.78); <0.001
+  Number of implants per patient: 1.21 (1.13, 1.30); <0.001
+  Bone augmentation: 1.00 (0.64, 1.57); >0.30
+  Exposed threads: 4.46 (2.59, 7.69); <0.001
+  Sinus perforations: 8.19 (2.45, 27.35); <0.001
+  Circulatory diseases: 1.36 (0.97, 1.90); 0.073
+  Food allergy: 1.92 (1.08, 3.40); 0.026
+  Metal allergy: 2.45 (1.08, 5.57); 0.033
+Notes: bone quality 1-4 ordinal scale (per unit); number of implants per patient per 1-implant unit difference.
+
+4. Discussion
+
+This multicenter study investigates factors associated with early implant failure and complications in two patient cohorts. Part I of this study investigates implant material and design and surgical techniques, and Part II of this study identifies patient factors. In Part II, exposure of implant threads, food allergies, and increased numbers of implants per patient were identified as risk factors for early implant failure. Smoking, no use of preoperative antibiotics, increased number of implants, exposed implant threads, sinus perforations, food allergy, and metal allergy were identified as risk factors for early complications as they may influence the healing process and the immunological response. Growing evidence emphasizes the role of the immunological system in the osseointegration process of dental implants. In an in vivo study, Trindade et al. demonstrated that titanium implants activate the immune system. Interestingly, we found that food allergy is associated with an increased risk for early implant failure. Olsson Malm et al., in a large retrospective case-control study, noted that the relation between implant failure and food allergy has not been widely discussed in the literature. However, previous studies have established that food antigens upregulate immunological markers that maintain allergic inflammation. The key cytokines in food allergy - interleukin-4 (IL-4), IL-5, and IL-13 - operate in peripheral tissues upon inflammatory stimuli. Excessive cytokine production in wound repair may delay the process and possibly mediate a fibrotic wound healing. More research is needed to establish the clinical correlation between food allergy and early implant failure; however, upregulated immunological activation can exacerbate the inflammatory response to dental implants and mediate fibrotic encapsulation and affect osseointegration.
+
+The subside analysis showed a correlation between metal allergy (i.e., the implants) and increased risk for early complications, a finding that could be the result of proinflammatory cytokines, an innate immune system response, reacting to the presence of the implants. That is, excessive production of proinflammatory cytokines can increase the inflammatory response to the implants. The proinflammatory cytokines IL-1beta, TNF-alpha, and IL-6 have been used as biomarkers to investigate periimplant diseases and are also produced in pathological allergic contact dermatitis. High levels of these proinflammatory cytokines have been correlated with patient-reported pain during inflammation. In addition, patients who are sensitive to one metal may also be sensitive to other metals. It is possible that individuals reporting any kind of metal allergy are more attentive to postoperative symptoms following titanium implant placement. Although the evidence for titanium allergy is weak, trace amounts of other metals present in titanium implants may cause hypersensitivity reactions. A previous review article concluded that caution should be exercised when considering implant treatment for patients with any history of reported allergies.
+
+More patients received implants but fewer implants were inserted per patient in 2017 (2.1) than in 2007 (3.1) (p < 0.001). Fewer implants were placed in the anterior (p < 0.001) and premolar region (p = 0.0067), but more implants were placed in the molar region (p < 0.001) in 2017 than in 2007. In Sweden, the regulations for government subsidies for implant placement in the molar region were changed 2014. Reduced patient cost for tooth replacement in the molar region may explain higher insertions in that region in 2017. Lower social acceptance for tooth gaps and extended patient inclusion criteria may have increased the demand for restorative treatment in single or minor partial tooth gaps in 2017. Fewer implants were inserted simultaneously in 2017, with fewer surgeries of four or more implants than in 2007. The placement of four or more implants per jaw is commonly used for full jaw replacement, a procedure that has become rare in Sweden as more people have their own teeth later in life.
+
+There were no statistically significant differences between the cohorts regarding the number of patients who experienced early implant failure (p > 0.3) but more implants were lost in 2017 (p < 0.001) than in 2007. Statistically significantly more major and minor postoperative complications were reported in 2017 (p < 0.001) than in 2007. However, there may be an underestimation of reported complications in 2007 as the documentation was less detailed in 2007 than in 2017.
+
+The fundamental background variables, including gender distribution, smoking habits, and the incidence of general diseases and allergies, were comparable between cohorts, with no statistically significant differences observed. Cardiovascular diseases were reported more frequently in 2007. Overall, the similarity in these patient characteristics supports cohort comparability and suggests that other factors account for the increased rate of failures and complications reported in 2017. One notable difference between the cohorts was the incidence of exposed implant threads: more threads were exposed in the 2017 cohort (n = 60, 5.6%) than in the 2007 cohort (n = 13, 1.6%) (p < 0.001). Bone perforations and exposed implant threads significantly increased the risk of early failure and complications. Previous studies found high survival rates for implants with minor dehiscence; however, exposed threads have been shown to increase the risk of vertical bone loss at the buccal aspect of the implant. Higher incidence of exposed threads may indicate implant insertions in implant sites with reduced bone volume. Resorbed ridges and reduced bone height in the posterior maxillae increase the risk of hard tissue defects when implants are not fully embedded in bone. However, at the patient level, the analyses revealed no statistically significant differences in bone volume between the cohorts. Nonetheless, the results for the bone status variables - that is, bone volume, bone quality, and primary stability - must be interpreted carefully as these variables were not fully reported by all clinics. Moreover, single implant surgeries were more frequent in 2017, but the number of full jaw surgeries decreased compared with 2007. Implant surgery in single tooth gaps may pose a greater challenge than surgery for full jaw replacement as the direction and position of own teeth must be considered for successful prosthetic rehabilitation. Implants placed in an advantageous position for prosthetic treatment are more likely to get bone dehiscence. Moreover, implant placement in edentulous jaws may be preceded by reduction of the crestal bone and thin bone irregularities for decreased risk of small bone defects.
+
+Patients with implant failure had a mean number of one more implant per patient compared with patients with no implant failure (p < 0.001). The multivariable logistic analysis showed that increased numbers of implants per patient had a statistically significant increase in the risk for failure (27% per implant). This finding is aligned with findings in other studies. In a large retrospective study of partially edentulous patients, Jemt et al. showed that the risk of implant failure increases by 25% for each additional implant placed during surgery in the first year. It has been suggested that patient-related factors influence the risk of tooth and implant loss in addition to the hazard ratio, which increases with the number of implants inserted.
+
+Most studies have reported higher implant failure rates in the maxilla than in the mandible. Similarly, this study observed a comparable trend, with more failed implants in the maxilla. However, the difference in failure rates at the patient level between those with implants in the maxilla and those with implants in the mandible did not reach statistical significance. Furthermore, no statistically significant differences were found in implant failure or complications related to implants placed in the incisor, premolar, or molar regions. Different implant sites present distinct challenges at implant insertion related to individual bone biology and anatomy. The posterior maxillae have the lowest bone density, and implant failures are often observed in that region due to worse primary stability and greater chewing forces. Moreover, the anatomical structures of the maxillary sinus may complicate the placement of implants in the premolar or molar region. However, findings in previously published studies are diverse. The mandibular anterior region, with its cortical bone and less blood supply, has also been associated with the highest rates of early implant failures. Moreover, a thin buccal plate with a risk for bone resorption or soft tissue recession may be evident for implant placement in the maxillary anterior region. Although not statistically significant, this study observed a potential trend toward more complications in the incisor regions of the maxilla and mandible (p = 0.086). Kahn et al. reported that implant placement in this area may lead to postoperative eating difficulties. This is also an aesthetically sensitive region, as it is visible to the patient. Patients may become more attentive and concerned about postoperative symptoms and defects in this region. This increased sensitivity likely increases the chance of return visits and noted postoperative complications.
+
+A notable decrease in the number of implant insertions was observed in the youngest age group of patients (i.e., younger than 20 years old) in 2017. This decrease may reflect the effect of changed regulations by the Swedish Social Insurance Agency. Dental care was free to patients up to 19 years of age in 2007, but the age limit was extended to 24 years in 2017. As implants inserted in growing jaws may require positional modifications, it may be justified to delay that treatment. Implant treatment in young patients may have been performed earlier in 2007 due to cost regulations, while delayed in 2017 for biological reasons.
+
+Other identified risk variables that may affect the healing process and prolong the recovery time are smoking, sinus membrane perforations, and no preoperative antibiotics. Smoking has been considered a risk factor in many other studies. Cigarette smoking affects both the innate and adaptive immune system, leading to proinflammatory responses and dysfunction of immune cells. Sinus membrane perforation has been associated with postoperative infection and chronic sinusitis as it may induce a bacterial pathway and compromise the stability of graft material. Our study shows a high odds ratio for sinus membrane perforations associated with an increased risk of complications. However, few observations and large confidence intervals mean that these findings should be viewed cautiously. Preoperative antibiotics may help control the inflammatory response and prevent infections by reducing the bacterial load. According to the findings in this study, it can be assumed that compromised patients may benefit from antibiotic prophylaxis; however, the use of preoperative antibiotics is controversial. As antibiotic resistance is a concern, careful use of antibiotics should be maintained.
+
+This study suggests that there is no relationship between cardiovascular diseases, autoimmune diseases, or diabetes and an increased risk for early implant failure or complications. As long as necessary precautions are observed, these diagnoses may not be contraindications to implant treatment. This finding is aligned with other studies, suggesting that medically well-controlled patients do not have an increased risk for early implant failure. However, the extent of underlying medical history is difficult to fully capture in a retrospective study like this, which relies on patient self-reporting and surgeon documentation. Complex variables may be oversimplified when categorized or dichotomized into binary outcomes, and disease severity is not accounted for. Nonetheless, individual assessment before implant treatment based on medical history should be emphasized. As more patients become implant candidates due to increased demand and advancements in the field, the challenge will be to understand how patient-related risk factors may affect early implant failure and complications. Although early implant failure is uncommon, an overly generous approach to implant therapy may result in higher numbers of early implant failures and complications. Further research is needed to investigate the suggested connection between the observed factors and an over activated immune response as a potential cause of early implant failure.
+
+5. Conclusions
+
+The results indicate that patients with food allergy, exposed implant threads, and an increased number of implants tend to have a greater risk of early implant failure and complications.
+
+An association has been observed for seven variables and an increased risk of early complications. Less use of preoperative antibiotics and more incidences of implant thread exposure seem to have contributed to the increased number of patients in the 2017 cohort who reported early complications.
+
+The identified variables underline the importance of being aware of local and systemic conditions and maintaining stringent patient inclusion criteria for implant treatment.
+
+Conflicts of Interest: The authors declare no conflicts of interest.
