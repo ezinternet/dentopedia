@@ -2,7 +2,7 @@
 title: "임플란트·생존율·실패위험 — survival"
 authors: navigation
 year: 2026
-date: 2026-09-29
+date: 2026-09-30
 doi: N/A
 source: navigation
 category: implants/survival
@@ -15,20 +15,20 @@ tags: [navigation, category-index, survival]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·생존율·실패위험
 > - **범위**: Implant survival/failure as the outcome, and what predicts it — long-term cumulative survival cohorts & SR/MA; **habit** risk (smoking level/cessation, tobacco & smoke-free products, bruxism); **systemic/host** risk (diabetes, hypertension, osteoporosis & PTH, Sjögren, autoimmune & systemic sclerosi…
-> - **수록 논문**: 50편
+> - **수록 논문**: 52편
 
 ## Three-line Summary
 
 **Scope**: Implant survival/failure as the outcome, and what predicts it — long-term cumulative survival cohorts & SR/MA; **habit** risk (smoking level/cessation, tobacco & smoke-free products, bruxism); **systemic/host** risk (diabetes, hypertension, osteoporosis & PTH, Sjögren, autoimmune & systemic sclerosis, head-and-neck radiotherapy, medications/polypharmacy affecting osseointegration); early-failure risk-factor studies & failure-rate umbrella reviews; evidence-quality appraisal bound to this literature (sponsorship bias, risk-of-bias in smoker SRs); management of the failed implant (explantation/retrieval technique).
-**Indexed papers**: 50 papers in `wiki/implants/survival/`.
+**Indexed papers**: 52 papers in `wiki/implants/survival/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·생존율·실패위험
-**수록 논문**: 50편
+**수록 논문**: 52편
 **하위 카테고리**: 없음
 
-## Papers in this Category (50)
+## Papers in this Category (52)
 
 | Paper |
 |---|
@@ -47,11 +47,13 @@ tags: [navigation, category-index, survival]
 | [[cobo-vazquez-2018-effect-lack-primary-stability-survival|Effect of the lack of primary stability in the survival of dental implants]] |
 | [[da-silva-2025-gingival-phenotype-implant-survival-sr|The influence of the gingival phenotype on implant survival rate and clinical parameters: a systematic review]] |
 | [[dambrosio-2023-systemic-diseases-medications-influence|Do Systemic Diseases and Medications Influence Dental Implant Osseointegration and Dental Implant Health? An Umbrella Review]] |
+| [[de-bruyn-2025-survival-bone-remodeling-hybrid-surface|Survival and Bone Remodeling in Hybrid Surface Dental Implants Placed with 3 Surgical Protocols up to 5 Years: A Retrospective Practice-Based Cohort Study]] |
 | [[esimekara-2022-dental-implants-autoimmune-diseases-sr|Dental implants in patients suffering from autoimmune diseases: A systematic critical review]] |
 | [[fan-2024-smoking-early-implant-failure-sr-ma|Smoking in relation to early dental implant failure: A systematic review and meta-analysis]] |
 | [[galen-2025-implants-without-primary-stability-private-practice|Success of Dental Implants Placed Without Primary Stability: A Retrospective Study in a Private Practice]] |
 | [[giok-2026-factors-implant-failure-umbrella-review|Factors leading to implant failure: An umbrella review of meta-analyses of observational studies and trials]] |
 | [[guadarrama-bello-2026-bone-healing-implants-diabetes-osteoporosis-review|Bone Healing Around Implants in Normal and Medically Compromised Conditions: Osteoporosis and Diabetes]] |
+| [[guarnieri-2025-analysis-risk-factors-related-early|Analysis of Risk Factors Related to Early Implant Failures in Patients Attending a Private Practice Setting: A Retrospective Study]] |
 | [[gurbanov-2024-implants-grafted-nongrafted-sites-sr|Dental Implants Placed in Grafted and Non-Grafted Sites: A Systematic Review]] |
 | [[hamade-2024-hypertension-dental-implants-sr-ma|Hypertension and Dental Implants: A Systematic Review and Meta-Analysis]] |
 | [[hosseini-2024-sjogren-implant-prosthesis-5year-prospective|Prognosis of Single Implant-Supported Prosthesis in Patients With Primary Sjögren's Syndrome: A Five-Year Prospective Clinical Study]] |
