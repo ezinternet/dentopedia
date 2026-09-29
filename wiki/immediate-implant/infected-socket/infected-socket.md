@@ -15,20 +15,20 @@ tags: [navigation, category-index, infected-socket]
 > [!summary] 한국어 핵심요약
 > - **분야**: 즉시식립·감염치조부
 > - **범위**: IIP into infected/compromised extraction sockets — periapical/endodontic pathology (acute vs chronic) & periodontitis-compromised sites; decontamination + antibiotic protocols, immediate provisionalization in infected zones, survival/MBL/WKG vs non-infected controls; acute-purulent/sinus-perforation…
-> - **수록 논문**: 21편
+> - **수록 논문**: 22편
 
 ## Three-line Summary
 
 **Scope**: IIP into infected/compromised extraction sockets — periapical/endodontic pathology (acute vs chronic) & periodontitis-compromised sites; decontamination + antibiotic protocols, immediate provisionalization in infected zones, survival/MBL/WKG vs non-infected controls; acute-purulent/sinus-perforation contraindication threshold.
-**Indexed papers**: 21 papers in `wiki/immediate-implant/infected-socket/`.
+**Indexed papers**: 22 papers in `wiki/immediate-implant/infected-socket/`.
 
 ## 세줄요약
 
 **분야**: 즉시식립·감염치조부
-**수록 논문**: 21편
+**수록 논문**: 22편
 **하위 카테고리**: 없음
 
-## Papers in this Category (21)
+## Papers in this Category (22)
 
 | Paper |
 |---|
@@ -37,6 +37,7 @@ tags: [navigation, category-index, infected-socket]
 | [[blus-2015-immediate-implants-infected-noninfected-ultrasonic|Immediate Implants Placed in Infected and Noninfected Sites after Atraumatic Tooth Extraction and Placement with Ultrasonic Bone Surgery]] |
 | [[chrcanovic-2015-immediate-placement-implants-infected-sites|Immediate Placement of Implants into Infected Sites: A Systematic Review]] |
 | [[colak-2023-immediate-implant-periapical-pathology-retrospective|Survival rates of immediate implants placed in extraction sockets with chronic periapical pathology]] |
+| [[crippa-2020-laser-therapy-for-infected-sites|Laser Therapy for Infected Sites and Immediate Dental Implants in the Esthetic Zone: A Case Report and Review of Literature]] |
 | [[crippa-2022-immediate-dental-implant-placement-post|Immediate dental implant placement in post-extraction-infected sites decontaminated with Er,Cr:YSGG laser: a retrospective cohort study]] |
 | [[da-silva-2023-short-implant-and-heavy-smokers|Short Implant and Heavy Smokers as Predictors for Failure of Immediate Implants in Infected Sockets: A Retrospective Study]] |
 | [[de-oliveira-neto-2019-immediate-dental-implants-placed-into|Immediate dental implants placed into infected sites present a higher risk of failure than immediate dental implants placed into non-infected sites: Systematic review and meta-analysis]] |
