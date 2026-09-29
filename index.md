@@ -4344,7 +4344,7 @@ tags: []
 - [[sinus-lift/transcrestal/lin-2025-schneiderian-membrane-biomechanical-transcrestal-fea]] — 3D FEA: hydraulic pressure (CAS-Kit) requires 47% less force than large osteotome at 5mm elevation; lowest von Mises stress — biomechanical basis for lower perforation rate (2025)
 - [[sinus-lift/transcrestal/ceruso-2025-crestal-hydraulic-sinus-lift-cas-kit-retrospective]] — Retrospective case series (n=15, 20 implants): CAS-Kit TSFE RBH ≥2mm, bone gain 9.6±2.4mm, 100% survival, 0 complications at 9m (2025)
 - [[sinus-lift/transcrestal/difrischia-2025-crestal-sinus-elevation-below-3mm-cas-kit-case-report]] — Case report (RBH 3.6/2.5mm): CAS-Kit dual-site hydraulic TSFE, bone gain 14.1/11.4mm, 30 Ncm torque, stable 3 years (2025)
-- [[sinus-lift/transcrestal/changrani-2024-evaluation-of-the-efficacy-of]] — ⚠️ RETRACTED — DO NOT CITE. HaeNaem Zero Bone Loss bur kit + OD 간접 상악동 거상 전향적(n=12). 임상 근거 사용 불가. (Cureus 2024)
+- [[sinus-lift/transcrestal/changrani-2024-haenaem-zero-bone-loss-indirect-sinus-lift]] — ⚠️ RETRACTED — DO NOT CITE. HaeNaem Zero Bone Loss bur kit + OD 간접 상악동 거상 전향적(n=12). 임상 근거 사용 불가. (Cureus 2024)
 
 ### sinus-lift/lateral
 - [[sinus-lift/lateral/pignataro-2008-ent-assessment-sinus-lift-candidates]] — ENT pre-operative risk stratification framework for sinus lift candidates (2008)
@@ -4597,3 +4597,15 @@ tags: []
 
 ### implants/osteotomy-thermal
 - [[implants/osteotomy-thermal/piattelli-1998-histologic-evaluation-eight-cases-failed]] — Piattelli 1998 · case-report (8개, Biomaterials) · 과열 추정 실패 임플란트 첫 인간 조직학 시리즈: 전 증례 6개 소견 동일 — 골 격리편·재생 없음·염증 간극·혈병 미조직화·치밀 성숙골·2차 세균 — 드릴 유발 열 괴사의 조직학적 지문 최초 확립
+
+## Batch ingest (added 2026-09-29) — index 누락분 소급 등재 (10편)
+- [[bone-regeneration/ridge-preservation/anitua-2026-prgf-alveolar-ridge-preservation-rct]] — Anitua 2026 · rct (n=46, pubmed-abstract) · 심미부위 발치와 PRGF vs 자연치유: 12주 신생골 48.7% vs 36.1% (p=0.024), 3일차 통증↓, 연조직 치유 지표 개선 (DOI 10.1007/s00784-026-06769-z)
+- [[bone-regeneration/ridge-preservation/vora-2025-arp-molar-sites-sr]] — Vora 2025 · sr (14편/571 구치부 부위, pubmed-abstract) · 구치부 ARP 필요성: 수평 폭 소실 ARP −1.02~−2.73 vs 자연치유 −2.36~−4.44 mm, 추가 증대술 필요 20.8% vs 47.7% (DOI 10.11607/jomi.11561)
+- [[bone-regeneration/ridge-preservation/yin-2024-biomaterials-therapeutic-strategies-extraction-socket-healing]] — Yin 2024 · narrative-review · 발치와 치유 세포·분자생물학 + 성장인자 전달·면역조절 지지체·항감염 생체재료 (비교 임상효능 자료 없음) (DOI 10.1016/j.biomaterials.2024.122975)
+- [[bone-regeneration/ridge-preservation/kamath-2026-ddr2-tooth-extraction-socket-healing]] — Kamath 2026 · animal (마우스 KO) · DDR2 콜라겐 수용체가 발치와 치유에 필수: 1주 BV/TV 57%, GLI1+ 골격 전구세포 경유 (DOI 10.1177/00220345261423834)
+- [[bone-regeneration/ridge-preservation/mun-2024-macrophage-msc-tnf-tooth-extraction]] — Mun 2024 · animal (마우스) · 대식세포 고갈 시 7일 골량↓(신생골 41.97% vs 54.03%); M1 유래 TNF-α–MSC 동원 연관, Clec4e/Gbp6/Cxcl10 억제 시 골분화↑ (DOI 10.1093/jbmrpl/ziae085)
+- [[implants/isq/alzoubi-2024-relationship-secondary-implant-stability-quotient]] — Alzoubi 2024 · retrospective (135명/305개, TiUnite) · 2차 ISQ 예측인자: 다변량에서 식립체 직경만 유의(환자 단위 B=5.25), 평균 2차 ISQ 77.3 (DOI 10.1016/j.heliyon.2024.e39156)
+- [[implants/isq/do-vale-souza-2021-relation-insertion-torque-implant-stability]] — do Vale Souza 2021 · prospective (n=25) · 삽입토크–초기 ISQ 상관 r=0.457 (p=0.022), 6개월 ISQ와는 무관; ISQ는 토크의 보완지표 (DOI 10.1055/s-0041-1725575)
+- [[implants/isq/guler-2013-resonance-frequency-analysis-straumann-dental]] — Guler 2013 · prospective (208 Straumann) · 치유기간 ISQ 유의 상승, 상악 구치부 최저, 길이 무관; ISQ는 단회보다 시간·부위별 반복 측정 (DOI 10.1563/AAID-JOI-D-11-00060)
+- [[implants/osseodensification/nabih-2025-evaluation-of-the-stability-of]] — Nabih 2025 · rct (n=22, D3/D4 상악) · 골밀도화 vs HaeNaem 확장기: 6개월 ISQ 79.6 vs 72.1 (p=0.027), 술전 치조정 폭 불균형 주의 (DOI 10.1186/s12903-025-06918-y)
+- [[oral-surgery/ukwas-2024-non-healing-extraction-socket-diagnostic]] — Ukwas 2024 · narrative-review (50례) · 치유 안 되는 발치와: 악성종양이 최다 진단, 다음 MRONJ — 생검 역치를 낮게 (DOI 10.1038/s41415-024-7895-5)
