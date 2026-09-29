@@ -10,6 +10,10 @@ source_papers:
   - andriakopoulou-2024-oral-mucositis-pediatric-prevention-sr-ma
   - bragues-2024-oral-mucositis-children-cancer-management-sr
   - hassanein-2025-arginine-glutamine-radiation-oral-mucositis-rct
+  - wiki/oral-medicine/mucositis/namuangchan-2023-iodine-mouthwash-oral-mucositis-ccrt-rct.md
+  - wiki/oral-medicine/mucositis/petropoulou-2026-telemedicine-oral-complications-oncology-rct.md
+  - wiki/oral-medicine/mucositis/wang-2023-mouthwash-oral-mucositis-sr-ma.md
+  - wiki/oral-medicine/mucositis/zhang-2025-mouthwash-oral-mucositis-nma.md
 tags: [oral-mucositis, supportive-cancer-care, chemotherapy, radiotherapy, hsct, honey, lllt, palifermin, glutamine, arginine, pediatric, head-and-neck-cancer]
 relations:
   - type: extends
