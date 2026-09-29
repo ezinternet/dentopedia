@@ -4625,3 +4625,4 @@ tags: []
 
 ## Batch ingest (added 2026-09-29) — 흡연·임플란트 조기 실패 서베일런스 (4편)
 - [[implants/survival/zhang-2025-risk-factors-early-failure-simple-taper-implants]] — Zhang 2025 · retrospective (중국 난창, 임플란트 3,533개/환자 1,681명, 중국어 논문·초록만 확보): 조기 실패 1.5%(임플란트)·2.9%(환자); 다변량 흡연 OR 2.148 (P=0.021, 신뢰구간 초록에 없음), 하악 전치부 OR 3.669, 상악 구치부 OR 2.191 (DOI 10.7518/hxkq.2025.2025045)
+- [[implants/survival/stiller-2024-effects-smoking-dental-implant-failure]] — Stiller 2024 · sr (메타분석 없음): 흡연과 임플란트 실패 33편·임플란트 29,519개·환자 18,301명 이상(대부분 후향), 25/33편 유의한 연관; 조기 실패 OR 2.14(한 연구)·조기 소실 2.07 vs 후기 1.48(Nagao), 하루 10개비 초과 시 실패 위험 18.3배(단일 연구); 통합 추정치·GRADE 없음, 논문 내부 불일치 3건 (DOI 10.3390/dj12100311)
