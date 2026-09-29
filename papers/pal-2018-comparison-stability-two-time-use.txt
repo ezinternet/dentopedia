@@ -1,0 +1,49 @@
+Comparison of stability with two-time use of platelet-rich growth factor versus one-time use of platelet-rich growth factor in immediate placement of dental implant in infected socket
+
+Authors: Uma Shankar Pal; Dipti Daga; R K Singh; Lakshya Kumar; Mayank Singh
+Journal: National Journal of Maxillofacial Surgery (Natl J Maxillofac Surg) 2018; 9(2):209-214
+DOI: 10.4103/njms.NJMS_1_18 | PMID: 30546237 | PMCID: PMC6251289
+Source: PubMed / PMC full text. (Table 1 and figure contents not included in the retrieved text.)
+
+=== ABSTRACT ===
+
+Purpose:
+The aim is to evaluate the outcome and compare the stability with two-time use of platelet-rich growth factor (PRGF) versus one-time use of PRGF in immediate placement of dental implant in infected socket.
+
+Materials and Methods:
+This study comprised placement of immediate implant in infected sockets in 100 patients with two-time use of PRGF (Group B) versus one-time use of PRGF (Group A). Proper administration of antibiotics, careful debridement of the socket, and meticulous suturing were done in every case. In Group A, it was placed at the time of immediate implant placement. In Group B, it was placed twice: at the time of placement of implant and 1 month after placement of implant. Clinical assessment of pain and swelling was done. Stability was assessed by radiofrequency analyzer immediately after placement and at follow-up of 2 months and 3 months.
+
+Results:
+The stability of implants with two-time placement of PRGF was more than that with one-time placement of dental implant. All except 14 implants osseointegrated in this study. There was significant decrease of pain and swelling in both the groups from day 1 to week 1 and was nil by 12 weeks.
+
+Conclusion:
+It can be concluded that placement of immediate implant in infected socket with two-time use of PRGF is an effective and better alternative for rehabilitation. However, more studies with longer follow-up and large number of patients are needed to confirm the results of this study.
+
+=== FULL TEXT ===
+
+INTRODUCTION
+
+Immediate placement of dental implants in infected sockets is controversial because of the risk of microbial interference with osseointegration. Plasma rich in growth factors has been proposed to enhance osseous regeneration. The aim of this study was to compare the stability with two-time use of PRGF versus one-time use of PRGF in immediate placement of dental implant in infected socket.
+
+MATERIALS AND METHODS
+
+100 patients; ethical approval and informed consent. Inclusion: patients in need of extraction of one or more teeth with chronic periapical infection of endodontic or endoperiodontal origin as determined by clinical and radiographic evaluation; age older than 18 years; no general medical contraindications. Exclusion: any disease, condition, or medication compromising healing/osseointegration; pathological changes in the jaw bone; chronic rheumatoid disease; steroids >1 month in a year; severe disease with life expectancy <1 year; unwilling to consent or return for follow-up.
+
+Group A (placebo comparator): 50 patients received two-stage endosseous implant with PRGF at the time of placement of immediate dental implant.
+Group B (active comparator): 50 patients received two-stage endosseous implant with PRGF at the time of placement and after 1 month of immediate placement.
+
+PRGF preparation: 8 ml peripheral blood in two tubes with 2 ml 3.2% sodium citrate; centrifuged at 270 g; middle layer (platelet-rich plasma) collected; leukocytes not collected.
+
+Surgery: local anesthesia; full-thickness flap if required; atraumatic extraction; curettage; socket inspection; pilot drill 2 mm, osteotomy extended 2 mm beyond apex; implant dipped into PRGF and placed; remaining gap filled with PRGF and bone graft (if needed); passive suturing. Antibiotics and analgesics prescribed. Group B: PRGF also placed 1 month after implant placement. Stability by radiofrequency analyzer (Ostell, ISQ). After 3 months healing, second-stage surgery with healing abutment, prosthetic rehabilitation. Pain by VAS (0-10); swelling assessed. SPSS 16.0.
+
+RESULTS
+
+100 patients, 63% male and 37% female. Age group 18-35 years: 46% in Group A, 54% in Group B; >50 years: 28% in Group A, 16% in Group B. Implants in maxilla and mandible. Fourteen implants failed to osseointegrate. Significant decrease in pain from day 1 to week 1 in both groups, nil by week 12. Decrease in swelling in both groups from day 1 to week 1, nil by week 12. Implant stability assessed at baseline, 2 months and 3 months; difference between groups clinically significant at 2 and 3 months, with increase in stability in Group B compared to Group A. Less marginal bone loss in Group B than Group A at 3 and 6 months. (Table 1 stability values not included in retrieved text.)
+
+DISCUSSION
+
+Appropriate surgical protocol followed: antibiotics, thorough debridement and irrigation, meticulous passive suturing in every case. Stability difference significant between groups; increased stability with two-time PRGF at 3 months; marginal bone loss less. Pain and swelling decreased in both groups. No additional complications noted.
+
+CONCLUSION
+
+Immediate implant in infected socket with two-time PRGF is a safe and effective alternative; results need confirmation over longer follow-up and larger numbers. No financial support; no conflicts of interest.
