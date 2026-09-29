@@ -1,0 +1,106 @@
+Immediate implant placement in infected sites using the "Roll BMP" technique: a 3-year case report with bioinformatic analysis
+
+Authors: Claudio Sotomayor Julio; Alfredo Torres
+Journal: Frontiers in Dental Medicine (Front Dent Med) 2026; 7:1750133
+DOI: 10.3389/fdmed.2026.1750133 | PMID: 41982745 | PMCID: PMC13070915
+Source: PubMed / PMC full text. (Figures/tables not included in retrieved text; figure legends only.)
+
+=== ABSTRACT ===
+
+Immediate implant placement (IIP) in sites with infection and buccal bone wall deficiency remains a clinical challenge. This case report introduces the "ROLL BMP" technique, a flapless regenerative approach combining absorbable collagen sponge (ACS), biphasic calcium phosphate (BCP), and recombinant human Bone Morphogenetic Protein-2 (rhBMP2) to achieve simultaneous buccal bone reconstruction and soft-tissue preservation in type 2 post-extraction sockets. A healthy 56-year-old female presented with a root fracture and chronic infection at tooth 2.1. After atraumatic extraction and debridement, a 3.5 x 12 mm INNO sub implant (Cowellmedi, Busan, South Korea) was immediately placed. The biomaterial roll was created by layering BCP granules onto hydrated ACS, rolling it, and inserting it between the implant and soft tissue, followed by a 0.1 mL (1.5 mg/mL) rhBMP-2 injection (CowellBMP, Busan, South Korea). No flaps or membranes were required. Follow-ups at months (M) 3, 5, 12, 18, 24, and 36 demonstrated excellent peri-implant soft-tissue stability (Pink Esthetic Score 13 out of 14 at M36) and progressive trabecular bone maturation, accompanied by buccal cortical reconstruction on CBCT. In silico bioinformatic analysis identified BMP2, RUNX2, SPP1, and BGLAP as key osteogenic hub genes underlying bone repair and osseointegration, supporting the biological rationale for this approach. In conclusion, the "ROLL BMP" technique enables predictable, flapless IIP in compromised sockets while preserving both hard and soft tissues.
+
+=== FULL TEXT ===
+
+1 Introduction
+
+Immediate implant placement (IIP) in infected extraction sites with buccal bone wall deficiency presents a significant clinical challenge. Success depends not only on achieving osseointegration but also on reconstructing soft and hard tissue contours that support optimal aesthetic outcomes. These demands are particularly critical in the anterior maxilla, where biological and prosthetic factors converge under often unfavorable local conditions. Traditionally, such scenarios have been associated with higher implant failure rates and compromised esthetics due to bone and soft tissue loss.
+
+Various techniques have been proposed to address these challenges. The "ice-cream cone" method, for instance, uses resorbable membranes to contain graft material in small to moderate dehiscences, but is limited in extensive or irregular defects where space maintenance is difficult. Guided bone regeneration (GBR) remains the gold standard, involving flap elevation, membrane placement, and particulate grafts to reconstruct the vestibular plate. While predictable, these procedures can disrupt the periosteal blood supply, compromise healing, and increase the risk of dehiscence or graft exposure.
+
+Additionally, GBR often requires multiple surgical stages, longer operative times, and delayed implant placement -- factors that increase morbidity and reduce patient acceptance. In infected sockets or thin biotypes, complication rates and aesthetic unpredictability further rise. These limitations have led to growing interest in minimally invasive, biologically driven alternatives that enhance regeneration while preserving vascular integrity. Recombinant human Bone Morphogenetic Protein-2 (rhBMP2) has emerged as a potent osteoinductive factor, capable of recruiting mesenchymal stem cells and promoting osteoblastic differentiation. However, its clinical application in immediate post-extraction sites -- particularly those with infection and buccal bone loss -- remains limited and requires further validation.
+
+Despite extensive evidence supporting BMP2's regenerative potential, no studies have integrated bioinformatic analyses with clinical data in implant dentistry. Predictive bioinformatics presents an opportunity to bridge this gap by identifying key genes, pathways, and biological processes that drive BMP2-induced bone formation and osseointegration.
+
+This case report introduces a flapless, immediate implant placement and regeneration technique -- termed the "Roll BMP Technique" -- for sites with severe vestibular bone loss and chronic infection. The approach combines an absorbable collagen sponge (ACS), biphasic calcium phosphate (BCP), and rhBMP2 to promote predictable regeneration of both hard and soft tissues without the need for membranes or flap elevation. Complemented by a bioinformatic analysis of osteogenic pathways, this report integrates clinical innovation with molecular understanding.
+
+Figure 1 legend: Schematic representation of the Roll-BMP technique for immediate implant placement in type 2 post-extraction sockets. (A) Compromised tooth with buccal plate deficiency and planned immediate implant placement. (B) Intra-alveolar debridement. (C) Implant placement within the prepared osteotomy, ensuring adequate primary stability and ideal three-dimensional positioning. Note the residual buccal gap between the implant surface and the inner aspect of the soft tissue. (D) Preparation of the absorbable collagen sponge (ACS) on a sterile field, over which biphasic calcium phosphate (BCP) granules are evenly distributed. The ACS is then rolled to form a cylindrical graft approximately 7-10 mm wide, enclosing BCP granules within its core, with the collagen surface oriented outward to face the soft tissues. (E) The Roll-BMP graft is packed evenly into the residual buccal gap to support the soft tissues. (F) rhBMP2 is reconstituted with 0.1 mL sterile saline and allowed to hydrate for 10-15 min. The hydrated BMP solution is subsequently injected into the Roll at three levels (coronal, middle, apical) to ensure uniform distribution. (G) Occlusal view of the Roll on the buccal aspect of the implant and soft-tissue closure, which may be achieved by secondary intention or with tension-free 5/0 resorbable sutures if required. (H) Representation of the regenerated buccal bone plate.
+
+2 Case report
+
+This case report has been written in accordance with the CARE guidelines. A 56-year-old female presented with the chief complaint of increased mobility and discomfort in the upper left central incisor (tooth 2.1). No relevant medical or family history was reported. Clinical examination revealed a metal-ceramic single-unit prosthesis supported by a cast post and core in function for five years, showing increased mobility due to partial dislodgment. Gingival inflammation, secondary caries, and signs of vertical root fracture were evident. A baseline (T0) periapical radiograph demonstrated a lack of continuity between the core and remaining dentin, as well as a suggestive radiolucency indicating a periapical lesion and root perforation. Cone-beam computed tomography (CBCT) imaging at baseline (T0) confirmed the absence of the buccal bone plate and the presence of a slight periapical lesion. Notably, the axial inclination of the crown was inconsistent with the root axis, consistent with a vertical root fracture.
+
+After a comprehensive diagnostic workup, including periapical radiographs and CBCT imaging, extraction and IIP were proposed using a novel surgical "ROLL BMP" technique. The patient was fully informed regarding the innovative nature of the treatment, potential risks, and available alternatives. Written informed consent was obtained before treatment, including explicit consent for the use of clinical data and images for research and publication purposes. The procedure and follow-up were carried out in accordance with the principles of the Declaration of Helsinki and followed ethical clinical practice outside the context of a registered clinical trial.
+
+Following the atraumatic extraction of tooth 2.1 and local debridement, an IIP protocol was carried out (D1) using a 3.5 x 12 mm Inno implant, positioned subcrestally with a 4-mm marginal gingival reference, resulting in a subcrestal implant position. The surgical site received a novel socket preservation protocol (Roll BMP technique) utilizing 0.1 g of BCP, 0.1 mg of rhBMP2 (Cowellmedi), and an absorbable collagen sponge (ACS) matrix (Atelocare). Briefly, the Roll BMP construct was prepared by evenly distributing beta-tricalcium phosphate (BCP) granules onto an absorbable collagen sponge (ACS) that had been hydrated with sterile saline. The composite was then gently rolled to form a cylindrical collagen-BCP construct, allowing intimate integration of the particulate graft within the collagen matrix before placement.
+
+The site was covered with a resorbable pad (Oraid), and a composite-retained provisional was bonded to adjacent teeth using Ribbond reinforcement. Postoperative therapy medication regimen included amoxicillin 1 g every 12 h for 7 days, paracetamol 1 g every 12 h for 3 days, and ketoprofen 100 mg every 12 h for 3 days.
+
+Periapical imaging at day (D) 1 confirmed the correct 3D positioning of the implant and provided clear visualization of BCP granules within the socket. Radiographs taken at month (M) 3 revealed early radiolucent signs of bone maturation with loss of visible granules and initial osseous consolidation. By M5, the site exhibited increased radiopacity and advanced trabecular bone maturation. At M12, the radiographic appearance demonstrated stable bone density, evident trabecular patterns around the implant, and remodeling adapted to the prosthetic emergence profile.
+
+CBCT scans at M18, M24, and M36 demonstrated consistent evidence of vestibular bone regeneration. At M18, a newly formed buccal cortical plate was noted, with increased density and thickness compared to the contralateral tooth. At M24-36, this corticalization was sustained and extended up to the crestal level, suggesting long-term stability of the augmented site.
+
+The Pink Esthetic Score (PES) was assessed longitudinally to evaluate peri-implant soft tissue harmony. At M3, a score of 9 indicated early reestablishment of papillae and soft tissue architecture, albeit still maturing. At M5, following definitive prosthetic installation (custom zirconia abutment with lithium disilicate crown), the PES increased to 11 due to enhanced papillary fill and improved soft tissue color and texture. From M12 to M36, the PES remained stable at 13, with full integration of all soft-tissue parameters, except for a minor mesial papilla deficiency. Overall, the PES analysis confirmed a successful long-term aesthetic outcome while acknowledging the multifactorial nature of PES outcomes, which are influenced by baseline tissue conditions, surgical and prosthetic factors, and operator-related variables.
+
+The combination of clinical, radiographic, and PES outcomes supports the efficacy of the "ROLL BMP" technique in promoting stable hard and soft tissue regeneration in IIP protocols, even in sites compromised by infection and buccal bone deficiency.
+
+Figure 2 legend: Clinical sequence -- baseline (T0) gingival inflammation and coronal discoloration with a failing metal-ceramic restoration of 2.1; occlusal view shows caries and root fracture with loss of the buccal plate; D1 post-op with provisional bonded to adjacent teeth; W1; M3 soft tissue maturation with keratinized mucosa; M5 definitive custom zirconia abutment and lithium disilicate crowns at 2.1 and 1.1; M12, M18, M24, M36 harmonious soft tissue integration.
+
+Figure 3 legend: Radiographic and CBCT follow-up. T0 periapical (tooth 2.1 with advanced bone loss and root fracture) and sagittal CBCT (deficient buccal plate); M18 CBCT newly formed buccal cortical plate (17.4 mm vertical measurement from implant apex to coronal level); M24 and M36 CBCT maintained contour and corticalization; D1, M3, M5, M12, M36 periapical radiographs.
+
+3 Bioinformatics analysis
+
+3.1 Identification of predictive coding-genes classification
+
+The GENIE datamining tool was utilized to identify genes with strong predictive associations to the terms "osseointegration" and "bone repair" (accessed March 30, 2025). Only studies based on human data were included, while orthologous and non-human datasets were excluded.
+
+3.2 Protein-protein interaction (PPI) network construction, functional enrichment, and cluster analysis
+
+Functional enrichment analysis was conducted using ShinyGO v0.78. A protein-protein interaction (PPI) network was then generated using the STRING database (accessed March 30, 2025) with a minimum confidence score of greater than 0.4. K-means clustering was applied to group genes with similar functional relationships.
+
+3.3 Identification of hub genes in the key modules
+
+Hub genes were defined as those with the highest intramodular connectivity within each functional cluster. Using Cytoscape and the cytoHubba plugin, the top 10 hub genes were identified for each cluster. Seven nodal centrality algorithms -- maximal clique centrality (MCC), maximum neighborhood component (MNC), degree, edge percolated component (EPC), closeness, radiality, and stress -- were applied. An UpSet diagram was generated to identify genes consistently ranked across algorithms, and the most robust candidates were defined as core hub genes.
+
+3.4 Statistical analysis
+
+Data mining relevance was determined by the statistical prioritization of genes across the MEDLINE corpus. Coding genes showing significant enrichment were identified using a threshold of p < 0.01 at the abstract level and a false discovery rate (FDR) < 0.01 for gene selection. Fisher's exact test was used to evaluate the strength of association between individual genes and the target search terms. Unsupervised k-means clustering was subsequently used to explore gene-gene interaction patterns.
+
+4 Results
+
+4.1 Identification of predictive coding genes, PPI network, biological and molecular functions
+
+Seventy-five protein-coding genes matching the PubMed query "osseointegration" and "bone repair" were found as predictive dataset. The PPI network comprising 75 protein-coding genes was generated using STRING. GO-BP enrichment revealed predominant involvement in ossification, biomineralization, biomineral tissue development, osteoblast differentiation, and regulation of biomineralization. In terms of GO-MF, the genes were mainly associated with growth factor activity, extracellular matrix binding, BMP binding, and hydroxyapatite binding.
+
+4.2 Identification of hub genes
+
+A consensus analysis across all methods revealed four central hub genes: Bone Morphogenetic Protein 2 (BMP2), Runt-related Transcription Factor 2 (RUNX2), Secreted Phosphoprotein 1 (SPP1, osteopontin), and Bone Gamma-Carboxyglutamate Protein (BGLAP, osteocalcin). These genes are well-recognized for their pivotal roles in osteoinduction, matrix mineralization, and osteoblast differentiation.
+
+4.3 Functional enrichment analysis of K-means-derived modules
+
+K-means clustering of the PPI network revealed five significant functional modules; three distinct gene clusters were described. Cluster 1 was primarily associated with pro-inflammatory, angiogenic, and ECM remodeling activities (IL1B, IL6, TGFB1, CXCL12, PDGFB). Cluster 2 included genes related to osteogenic differentiation and matrix organization (BMP2, RUNX2, SPP1, BGLAP). Cluster 3 comprised genes involved in phosphate and mineral regulation (ALPL, BMP2, DMP1, IBSP).
+
+5 Discussion
+
+IIP in infected extraction sockets represents a biologically hostile microenvironment characterized by sustained inflammatory cytokine expression (e.g., IL-1beta, IL-6, TNF-alpha), altered macrophage polarization, and impaired early angiogenesis, which not only compromise osteogenesis but may also translate clinically into accelerated bone resorption and loss of the buccal wall. Conventional protocols recommend staged treatment with decontamination, grafting, and delayed implantation to minimize failure rates. However, advances in biomaterials, biologically active molecules, and minimally invasive approaches have shifted this paradigm toward immediate rehabilitation, even in compromised sites. The present case report introduces the "ROLL BMP" technique, a flapless regenerative approach for type 2 extraction sockets that combines a collagen-based carrier, BCP, and rhBMP2, achieving stable bone and soft-tissue outcomes over three years.
+
+Studies show that, under controlled conditions and with adequate debridement, implants in previously infected sockets can achieve survival rates comparable to those in pristine sites. Key factors are thorough granulation tissue removal, primary stability, and a biologically favorable healing environment. In this case, the implant was placed immediately after atraumatic extraction and meticulous debridement, achieving a subcrestal position to compensate for buccal loss and anticipated remodeling. The flapless approach preserved the periosteal blood supply, minimized trauma, and improved soft-tissue stability.
+
+Several techniques have been proposed for managing anterior defects with absent buccal bone plates, such as the "ice-cream cone" technique and other GBR approaches designed for type 2 or 3 defects. While effective, these techniques often require flap elevation, membrane fixation, or the use of additional stabilization devices. The "ROLL BMP" technique challenges conventional GBR, which relies on flap elevation and membranes to separate healing compartments.
+
+In contrast, the "ROLL BMP" technique represents a biology-guided approach in which spatial control is achieved through graft architecture. It combines a resorbable ACS as a scaffold and carrier with BCP granules for volume stability and support, and a site-specific therapeutic dose of rhBMP-2. The roll configuration positions collagen toward the soft tissue and BCP toward the defect core, promoting dual-phase regeneration -- early soft-tissue stability and progressive bone formation.
+
+The dual-phase BMP2 release -- rapid from ACS and slower from BCP -- ensures sustained local bioactivity during early healing. BMP2 also modulates the immune microenvironment, promoting a Th2-dominant, tissue-reparative response while reducing pro-inflammatory activity. In this case, rhBMP2 was used at a low dose (0.1 mg), following site-specific dosing principles to minimize edema or ectopic bone formation.
+
+The bioinformatic analysis provides mechanistic and hypothesis-supporting insights; these analyses should be interpreted as exploratory rather than predictive.
+
+Soft tissue outcomes were assessed longitudinally using the Pink Esthetic Score (PES) as a within-case descriptive tool.
+
+Regarding clinical significance, the long-term stability observed supports the hypothesis that controlled rhBMP2 delivery from a collagen-BCP scaffold can regenerate hard and soft tissues, even at infected sites. However, as a single case report, the results must be interpreted cautiously. Factors such as defect morphology, infection severity, and host response may influence outcomes. Furthermore, regulatory and cost limitations may restrict clinical use. Controlled trials with histologic validation are required to confirm these findings and optimize dosage parameters.
+
+A formal patient-reported outcome measure (PROM) was not collected, which represents a limitation. However, during follow-up, the patient reported satisfaction with functional and esthetic outcomes and absence of pain or procedure-related adverse events.
+
+Future research should investigate quantitative histomorphometric outcomes, conduct long-term comparisons with GBR techniques, and perform transcriptomic analysis of peri-implant tissues exposed to BMP-based constructs.
+
+6 Conclusion
+
+This three-year case report presents the clinical application of the Roll BMP technique, a biologically informed, minimally invasive regenerative approach for immediate implant placement in infected extraction sites with buccal bone wall loss. The flapless, membrane-free strategy enabled simultaneous management of hard and soft tissues while maintaining peri-implant tissue stability over time. Although limited by its nature as a single case report, these findings suggest that the "ROLL BMP" technique may represent a clinically applicable alternative to conventional staged regenerative approaches in selected compromised sites. Further controlled clinical studies and long-term evaluations are required to validate predictability and refine indications.
