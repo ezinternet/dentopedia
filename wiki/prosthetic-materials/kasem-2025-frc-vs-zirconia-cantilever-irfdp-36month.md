@@ -18,6 +18,9 @@ relations:
     note: 5-year extension published 2026; use 5yr data as primary reference
 ---
 
+> [!warning] Superseded (full) → [[kasem-2026-zirconia-frc-inlay-retained-fdp-5year-rct]]
+> The 5-year extension of the same RCT replaces this 36-month report as the primary reference. Survival fell from 97.5% (36 mo) to 91.7% (60 mo) and success from 96.6% to 81.7% as later failures accrued; the between-material difference stayed non-significant. Cite the 5-year data. (set 2026-09-30)
+
 ## Three-line Summary
 
 RCT (n=32 patients, 40 cantilever IR-FDPs, 36-month follow-up) comparing monolithic zirconia vs fiber-reinforced composite (FRC) for replacing a missing mandibular second premolar with lingual or occlusal coverage designs.
