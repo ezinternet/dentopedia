@@ -1,0 +1,61 @@
+Immediate dental implants: insights into early and late failures from a large-scale Chinese cohort
+Yang Y, Zhou L, Hong X, Ye M, Yang Y, Deng X, Xu M
+BMC Oral Health 2026;26(1)
+DOI: 10.1186/s12903-026-08792-8
+PMCID: PMC13505097
+PMID: 42231271
+Source: PubMed Central full text via PubMed MCP get_full_text_article (tables 1-4 and figures not included in retrieved text; only in-text results available)
+
+=== ABSTRACT ===
+Immediate implant placement (IIP) has emerged as a time-efficient therapeutic approach in dentistry, offering advantages such as reduced treatment duration and improved alveolar bone preservation. However, concerns remain regarding early and late implant failures, and large-scale data on factors associated with IIP failure in Chinese populations are limited. This retrospective observational study aims to identify the factors associated with early and late failure of immediate dental implant.
+
+Patients who underwent immediate implantation at the Second Department of Implantology, Xiamen Stomatological Hospital, between January 2013 to December 2022, were retrospectively included. Cumulative survival rates (CSR) at the implant and patient levels were calculated using the life table method and presented with Kaplan-Meier survival curves. Cox regression analysis was performed to evaluate associations between implant failure and demographic, anatomical, surgical, and implant related variables.
+
+A total of 1513 implants placed in 781 patients were included. Of these, 50 experienced early failure and 36 experienced late failure. The 10-year CSR at implant level was 93.15% and at patient level 89.46%. Mean survival time was 47.34 +/- 34.98 months (range 0-128 months). Mean patient age 53.02 +/- 14.02 years, 46.46% females and 53.54% males. Multivariable analysis showed that male sex (HR = 2.48; 95% CI: 1.31-4.69), maxillary sinus elevation (HR = 2.49; 95% CI: 1.05-5.87), maxillary anterior implant position (HR = 3.15; 95% CI: 1.29-7.69), and maxillary posterior implant position (HR = 2.75; 95% CI: 1.08-6.98) were associated with higher rates of early implant failure, whereas submerged healing was associated with a lower rate of early failure (HR = 0.53; 95% CI: 0.30-0.95). For late implant failure, bone grafting without membrane coverage was associated with increased failure (HR = 3.54; 95% CI: 1.07-11.74), whereas implant diameter of 4.0-4.5 mm was associated with lower late failure compared with <= 3.75 mm implants (HR = 0.30; 95% CI: 0.13-0.69).
+
+In this large retrospective cohort of Chinese patients, IIP demonstrated favorable long-term survival. Several patient-related and surgical variables were associated with implant failure; however, causal inferences cannot be drawn due to the observational study design.
+
+=== FULL TEXT ===
+Introduction
+
+Immediate implant placement (IIP) was defined as implant placement at the time of tooth extraction. [Introduction condensed: IIP shortens treatment time and surgical morbidity, enhances alveolar bone preservation and aesthetics; survival comparable to delayed placement in meta-analyses/RCTs; biological/technical complications remain relevant.]
+
+In this study, implant survival was defined as the implant remaining functional and not removed, whereas implant failure was considered equivalent to implant loss. Early failure was defined as implant loss before prosthetic loading (within 3-6 months after implantation), and late failure was defined as implant loss after prosthetic loading. Early failure is characterized by the inability to achieve osseointegration, resulting in its removal prior to exposure to occlusal loading. Late failure occurs when an initially osseointegrated implant subsequently becomes unstable and is removed after occlusal loading.
+
+Materials and methods
+
+Study design: retrospective cohort; electronic medical records of all patients who underwent dental implant placement in the Second Department of Implantology, Stomatological Hospital of Xiamen Medical College, Jan 1 2013 - Dec 31 2022. IRB approval HS20221207002; STROBE. No a priori sample size calculation.
+
+Eligibility: adults >=18 y with at least one immediate implant placement. Exclusion: (1) contraindications to implant surgery; (2) poor follow-up compliance; (3) incomplete baseline demographic or surgical records; (4) insufficient follow-up information.
+
+Surgery: CBCT at consultation. Three senior surgeons (>=5 years, >2,000 implants) and four junior surgeons. Tooth extracted meticulously; implants placed flapless whenever feasible, 1-2 mm below socket margin. Bone augmentation: 1) no grafting for jumping distance < 2 mm; 2) three- or four-wall intact defects: bone graft (Bio-Oss) only without membrane ("bone graft only"); 3) one- or two-wall defects: GBR with Bio-Oss and resorbable collagen membrane (Bio-Gide). Posterior region: IIP when residual ridge height >= 5 mm, and transcrestal sinus elevation when residual ridge height <= 6 mm.
+
+Healing mode (submerged or non-submerged) was selected based on primary stability. Submerged healing was generally selected when insertion torque was < 20-25 Ncm.
+
+All patients received a 3-day course of antibiotics postoperatively, sutures removed 7-14 days. When implant insertion torque exceeded 35 Ncm, an immediate temporary restoration was placed; otherwise, healing abutments were placed on the implants. Final impressions >= 4 months postoperatively. Follow-up at 3, 6, 12 months after definitive restoration, then annually.
+
+Variables: Patient factors: gender, age, implant position, periodontal status (history from records, confirmed by CBCT bone loss >2 mm from CEJ). Surgical factors: bone grafting method, maxillary sinus floor elevation, healing method, operator experience. Implant system was not significant in preliminary analyses and excluded from final multivariate model. Implant factors: diameter (<=3.75, 4.0-4.5, >4.5 mm) and length (<=10 or >10 mm). Variables with incomplete or unobtainable information were excluded from analysis. Observation ended October 31, 2023.
+
+Statistics: primary outcome early failure; secondary late failure. Life tables/Kaplan-Meier. Univariate and multivariate Cox regression; marginal Cox model (Wei-Lin-Weissfeld) for within-patient clustering; proportional hazards tested with Schoenfeld residuals. Multivariate models adjusted for surgeon experience, implant position, and bone quality. FDR correction applied to univariate p-values. Regression at implant level. R 4.2.2 and MSTATA.
+
+Results
+
+After inclusion/exclusion, 781 patients receiving 1,513 immediate implants were identified from a database of 4,687 patients who received 10,831 implants. Mean age 53.02 +/- 14.02; 46.46% female.
+
+At end of observation, 86 implants (71 patients) were lost. Implant level: 50 early failures (during healing period) and 36 late failures; patient level: 41 and 30. Early failures 58.14% of all failures, late 41.86%. Most early failures occurred within 3 months; nearly 60% of late failures within 2 years. 10-year CSR implant level 93.15%, patient level 89.46%. Mean survival time 47.34 +/- 34.98 months (0-128). Nine patients had two failures, three patients three failures. Implants under observation at 1, 3, 5, 10 years: 1513, 959, 635, 139. Implant-level CSR 95.57% (1 y), 94.85% (3 y), 93.86% (5 y), 93.15% (10 y); patient-level 92.96%, 91.60%, 90.36%, 89.46%.
+
+Factors associated with early failure (multivariable marginal Cox, implant level): male sex HR 2.48 (95% CI 1.31-4.69), maxillary sinus elevation HR 2.49 (1.05-5.87), maxillary anterior position HR 3.15 (1.29-7.69), maxillary posterior position HR 2.75 (1.08-6.98) independently associated with higher early failure. Submerged healing independently associated with lower early failure HR 0.53 (0.30-0.95). No significant associations for age, periodontitis status, implant diameter, implant length, surgeon experience, or bone grafting approach, although bone grafting alone showed a non-significant trend toward increased early failure. (Reference category for position: mandibular posterior sites, per Discussion.)
+
+Factors associated with late failure (exploratory multivariable): bone grafting without membrane HR 3.54 (1.07-11.74); implant diameter 4.0-4.5 mm vs <=3.75 mm HR 0.30 (0.13-0.69). No significant associations for age, sex, periodontitis, implant position, sinus elevation, surgeon experience, healing method, or implant length.
+
+Discussion
+
+Male gender was independently associated with early failure. However, this finding should be interpreted cautiously, as data on behavioral confounders such as smoking and oral hygiene compliance were unavailable. These unmeasured variables, more prevalent in males, may confound the association. Compared with mandibular posterior sites, maxillary anterior and posterior sites exhibited 3.15-fold and 2.75-fold higher failure rates. Simultaneous sinus elevation and non-submerged healing were associated with higher early failure rates. Submerged healing, more commonly used in IIP, was associated with lower early failure rates, consistent with a reported 2% risk reduction. This may be due to reduced fibrous encapsulation and microbial contamination, but further investigation is needed. For late failure, bone grafting without membrane coverage and narrow-diameter implants (<=3.75 mm) were associated with higher failure. Late-failure results limited by incomplete records and small number of late events (n = 36).
+
+Limitations: retrospective design, residual confounding and selection bias; data on smoking, oral hygiene status, bruxism/parafunctional habits, occlusal force, systemic disease severity, and medication history were unavailable; few late failure events (n = 36); secondary outcomes (marginal bone loss, peri-implantitis, esthetics, prosthetic complications) not assessed; single Chinese center.
+
+Conclusion
+
+IIP demonstrated favorable long-term survival. Male sex, maxillary implant site, and sinus elevation were associated with early failure, while submerged healing was associated with lower early failure. Exploratory analyses suggested bone grafting without membrane coverage and narrow implant diameter were associated with late failure. Findings associative, not causal.
+
+[NOTE: Tables 1-4 and Figures 1-6 contents were not present in the retrieved text; the per-factor HRs above are those stated in the running text.]
