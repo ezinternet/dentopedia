@@ -15,7 +15,7 @@ source_collection: external
 
 ## Three-line Summary
 
-Prospective cohort study (BMC Oral Health 2024; n=26 patients, 41 implants, 1-year follow-up; Group I: 13 patients/19 infected Elian Type II maxillary sockets; Group N: 13 patients/21 non-infected sockets; single operator, Alexandria, Egypt) comparing vestibular socket therapy (VST) + 6-day decontamination protocol for immediate implant placement.
+Prospective cohort study (BMC Oral Health 2024; n=26 patients, 41 implants, 1-year follow-up; Group I: 13 patients/19 infected Elian Type II maxillary sockets; Group N: 13 patients/22 non-infected sockets (the abstract says 21; Results text and Table 1 give 22, total 41); single operator, Alexandria, Egypt) comparing vestibular socket therapy (VST) + 6-day decontamination protocol for immediate implant placement.
 
 100% implant survival in both groups; facial bone thickness increased significantly over time in both (apical gain: infected 2.4 mm, non-infected 1.63 mm); no significant between-group differences in bone thickness or mucosal levels, except mesial papilla recession was significantly greater in the non-infected group (p<0.05).
 
@@ -23,7 +23,7 @@ The 6-day protocol (metronidazole irrigation + temporary root reimplantation) ef
 
 ## 세줄요약
 
-줄1: 전향적 코호트 (BMC Oral Health 2024); n=26명·임플란트 41개·1년 추적; 감염군(Group I, 13명/19 sites) vs 비감염군(Group N, 13명/21 sites) 상악 Elian Type II 소켓에서 전정접근 소켓 치료(Vestibular Socket Therapy, VST) + 6-day 소독 프로토콜 즉시 식립.
+줄1: 전향적 코호트 (BMC Oral Health 2024); n=26명·임플란트 41개·1년 추적; 감염군(Group I, 13명/19 sites) vs 비감염군(Group N, 13명/22 sites; 초록은 21이나 본문 Results·Table 1은 22, 합계 41) 상악 Elian Type II 소켓에서 전정접근 소켓 치료(Vestibular Socket Therapy, VST) + 6-day 소독 프로토콜 즉시 식립.
 줄2: 양군 임플란트 생존율 100%; 협측 골두께 양군 모두 유의하게 증가(apical: 감염군 2.4 mm, 비감염군 1.63 mm); 골두께·점막 수준 군간 유의차 없음 — mesial papilla 후퇴만 비감염군에서 유의하게 더 큼(p<0.05).
 줄3: 6-day 프로토콜(메트로니다졸 세척 + 임시 치근 재식립)이 감염 type II 소켓 즉시 식립 전처치에 효과적임을 지지; 소표본·단일 술자·1년 추적·비무작위 코호트 설계로 일반화 제한.
 
@@ -54,7 +54,7 @@ Prospective cohort (n=26 patients, 41 implants, 1 year) comparing VST + 6-day pr
 ## 3. Methodology and Architecture
 
 - Design: Prospective cohort, age·sex matched (STROBE 보고)
-- Population: 26명(41 implants); 감염군(Group I) 13명·19 sites, 비감염군(Group N) 13명·21 sites; 상악 심미 구역, Elian Type II socket
+- Population: 26명(41 implants); 감염군(Group I) 13명·19 sites, 비감염군(Group N) 13명·22 sites (초록 21 vs 본문·Table 1 22 — 논문 내부 불일치, 합계 41은 22와 일치); 상악 심미 구역, Elian Type II socket
 - Inclusion: 성인 ≥18세, 1–5개 비인접 상악 절망 치아, apical bone height ≥3 mm, 초기 안정성 ≥30 Ncm
 - Exclusion: 흡연, 임신, 전신질환, 최근 2년 내 방사선·화학요법
 - 6-day protocol: 비외상적 발치 → 소파·세척(메트로니다졸 용액) → 치근 세척·apical third 절제 → 복합레진 봉쇄 → 6일간 임시 재식립
@@ -80,14 +80,14 @@ Prospective cohort (n=26 patients, 41 implants, 1 year) comparing VST + 6-day pr
 - 1년 추적 — 장기 데이터 없음
 - 비무작위 코호트 — 선택 편향 배제 불가
 - 감염 중증도 이분화(감염/비감염) — 감염 유형·정도 세분화 미흡
-- 맹검 없음 — 술자 및 평가자 동일
+- 참여자·시술자 맹검 없음(감염/비감염 2군 설계상 불가능); 결과 평가는 독립된 눈가림 평가자 2명이 수행(급내상관계수 방사선 0.92·연조직 0.94) — 술자와 평가자가 동일인인지는 논문에서 확인되지 않음 (2026-09-29 PDF 재확인으로 정정: 기존 "맹검 없음 — 술자 및 평가자 동일"은 오기)
 
 ## 6. Related Work
 
 - VST 원 기술 기술: Elaskary (6-day protocol, 초기 기술 논문) — 본 저자 자신의 프로토콜 검증
 - Ebrahim 2026 RCT: modified VST vs open-flap GBR (Type II socket) — 동일 술식의 RCT 비교
-- Kakar et al.: 감염 소켓 즉시 식립 생존율 95.45% (48.75개월 추적, 레이저 소독)
-- 체계적 고찰(인용 [22]): 감염 소켓에서의 실패 위험비 2.99 (95% CI 1.04–8.566)
+- Kakar et al.: 감염 소켓 즉시 식립 생존율 95.45% (48.75개월 추적, 레이저 소독) — Elaskary 논문이 인용한 수치. 위키가 보유한 [[immediate-implant/infected-socket/kakar-2020-immediate-implant-placement-infected-sockets]]는 초록만 확보돼 추적기간(48.75개월)이 검증되지 않았음(95.45%는 초록과 일치)
+- 체계적 고찰(인용 [22]): 감염 소켓에서의 실패 위험비 2.99 (95% CI 1.04–8.566) — 수치가 일치해 [[immediate-implant/infected-socket/de-oliveira-neto-2019-immediate-dental-implants-placed-into]]로 판단(참고문헌 목록은 미확인). Elaskary는 이 값으로 표본 크기(34개, 그룹당 17개)를 계산했으나 실제 결과는 양군 100% 생존이라 그 위험비는 검증되지 않음
 
 ## 7. Glossary
 
