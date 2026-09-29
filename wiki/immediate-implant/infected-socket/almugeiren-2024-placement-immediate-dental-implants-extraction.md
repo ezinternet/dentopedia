@@ -75,6 +75,8 @@ Selected RCT results:
 | Camara | 100 | 12 mo | 100%; no retrograde peri-implantitis |
 | Kakar | 68 | — | 95.45% (laser + alloplastic) |
 
+> Note (2026-09-29): this MA lists Kakar among its 10 RCTs, but the Kakar 2020 paper held here ([[immediate-implant/infected-socket/kakar-2020-immediate-implant-placement-infected-sockets]]) is a retrospective consecutive cohort (68 patients, 126 implants; 105/110 survived). Follow-up is not stated in the abstract. The MA's RCT labelling for this study could not be verified from the abstract-level data we hold.
+
 ## Related Papers
 
 - [[immediate-implant/infected-socket/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] — 2024 SR+MA with broader scope; explicitly mentions acute purulent as contraindication
