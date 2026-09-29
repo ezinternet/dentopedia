@@ -2,7 +2,7 @@
 title: "비니어·라미네이트 — veneers"
 authors: navigation
 year: 2026
-date: 2026-08-11
+date: 2026-09-29
 doi: N/A
 source: navigation
 category: veneers
@@ -15,20 +15,20 @@ tags: [navigation, category-index, veneers]
 > [!summary] 한국어 핵심요약
 > - **분야**: 비니어·라미네이트
 > - **범위**: Ceramic laminate veneers (feldspathic, leucite, lithium disilicate, zirconia), composite veneers — preparation techniques, fabrication (platinum foil vs refractory die), survival/complication rates, incisal coverage, minimally invasive vs conventional, cementation
-> - **수록 논문**: 31편
+> - **수록 논문**: 32편
 
 ## Three-line Summary
 
 **Scope**: Ceramic laminate veneers (feldspathic, leucite, lithium disilicate, zirconia), composite veneers — preparation techniques, fabrication (platinum foil vs refractory die), survival/complication rates, incisal coverage, minimally invasive vs conventional, cementation
-**Indexed papers**: 31 papers in `wiki/veneers/`.
+**Indexed papers**: 32 papers in `wiki/veneers/`.
 
 ## 세줄요약
 
 **분야**: 비니어·라미네이트
-**수록 논문**: 31편
+**수록 논문**: 32편
 **하위 카테고리**: 없음
 
-## Papers in this Category (31)
+## Papers in this Category (32)
 
 | Paper |
 |---|
@@ -58,6 +58,7 @@ tags: [navigation, category-index, veneers]
 | [[mihali-2022-feldspathic-ceramic-veneers-retrospective-7year|Retrospective Long-Term Clinical Outcome of Feldspathic Ceramic Veneers]] |
 | [[morimoto-2016-feldspathic-glass-ceramic-veneer-survival-sr-ma|Main Clinical Outcomes of Feldspathic Porcelain and Glass-Ceramic Laminate Veneers: A Systematic Review and Meta-Analysis of Survival and Complication Rates]] |
 | [[reis-2025-minimally-invasive-feldspathic-laminate-12year-followup|Minimally Invasive Ceramic Laminate Veneers for Maxillary Anterior Esthetic Rehabilitation: A 12+ Years Follow-Up]] |
+| [[rojas-rueda-2025-bonding-protocols-lithium-disilicate-veneers|Bonding Protocols for Lithium Disilicate Veneers: A Narrative Review and Case Study]] |
 | [[sasse-2015-restoration-thickness-bonding-surface-fracture|Influence of restoration thickness and dental bonding surface on the fracture resistance of full-coverage occlusal veneers made from lithium disilicate ceramic]] |
 | [[schlichting-2022-ultrathin-cadcam-occlusal-veneers-dental-erosion|Ultrathin CAD-CAM glass-ceramic and composite resin occlusal veneers for the treatment of severe dental erosion: An up to 3-year randomized clinical trial]] |
 | [[sharma-2026-resin-cement-shade-ceramic-veneers-sr|Influence of resin cement shade on esthetic outcomes in ceramic veneers: a systematic review]] |
