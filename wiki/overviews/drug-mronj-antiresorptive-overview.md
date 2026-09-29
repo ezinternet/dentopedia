@@ -20,6 +20,10 @@ source_papers:
   - drug/koth-2017-clinical-radiographic-haematological-bisphosphonate-therapy
   - drug/mronj/kim-2025-medication-related-osteonecrosis-jaw-evidence
   - drug/mronj/cho-2026-clinical-characteristics-osteonecrosis-jaw-related
+  - wiki/drug/mronj/iwata-2024-what-is-the-appropriate-antibiotic.md
+  - wiki/drug/mronj/masri-2026-therapeutic-window-timing-dentoalveolar.md
+  - wiki/drug/mronj/pereira-santos-2026-mronj-risk-related-to-dental.md
+  - wiki/drug/mronj/wick-2022-risk-factors-associated-with.md
 evidence_level: synthesis
 source: synthesis
 agenda: agenda/2026-05-27_drug-overview-split.md
@@ -48,7 +52,7 @@ relations:
 
 ## Three-line Summary
 
-Synthesis of 14 papers (SR, position papers, cohorts, narrative) on MRONJ/antiresorptive dental management: dental clearance BEFORE starting antiresorptive therapy is the most effective prevention (Baghalipour 2025 4-tier framework); **route, indication, and cumulative dose jointly stratify MRONJ risk** — [unverified, standard-label dosing, not from the cited MRONJ papers] oral BP (alendronate ~3,640 mg/yr, risedronate ~1,820 mg/yr) < Prolia 120 mg/yr < Xgeva ~1,560 mg/yr (~13× Prolia) < romosozumab 2,520 mg total over its fixed 12-month course; denosumab risk is cumulative-dose-driven — MRONJ 31.2% at ≥32 doses in breast-cancer bone metastasis cohort (Yokoo 2025, ROC AUC 0.83); extraction history OR 4.40, each additional dose adds 4.7% odds; AAOMS 2022 expands surgical treatment to all stages (1–3) and drops the drug-holiday and CTX-testing recommendations (Kwon 2023).
+Synthesis of 18 papers (SR, position papers, cohorts, narrative) on MRONJ/antiresorptive dental management: dental clearance BEFORE starting antiresorptive therapy is the most effective prevention (Baghalipour 2025 4-tier framework); **route, indication, and cumulative dose jointly stratify MRONJ risk** — [unverified, standard-label dosing, not from the cited MRONJ papers] oral BP (alendronate ~3,640 mg/yr, risedronate ~1,820 mg/yr) < Prolia 120 mg/yr < Xgeva ~1,560 mg/yr (~13× Prolia) < romosozumab 2,520 mg total over its fixed 12-month course; denosumab risk is cumulative-dose-driven — MRONJ 31.2% at ≥32 doses in breast-cancer bone metastasis cohort (Yokoo 2025, ROC AUC 0.83); extraction history OR 4.40, each additional dose adds 4.7% odds; AAOMS 2022 expands surgical treatment to all stages (1–3) and drops the drug-holiday and CTX-testing recommendations (Kwon 2023).
 
 Korean 2025 position statement (Kim 2025, 5 societies) codifies drug-specific pre-procedural holidays: oral BP extended use → 2-month holiday; IV zoledronate → 6–12-month holiday; denosumab → 3–4 months after last injection; 8-week diagnostic criterion relaxed; Korean national cohort (n=600,000) MRONJ incidence: oral BP 0.10%, denosumab 60 mg 0–0.18%; Xgeva (high-dose denosumab) vs Prolia (60 mg) treatment success 53.8% vs 85.0% (p=0.027; Cho 2026, n=178).
 
