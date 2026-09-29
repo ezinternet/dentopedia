@@ -15,20 +15,20 @@ tags: [navigation, category-index, infected-socket]
 > [!summary] 한국어 핵심요약
 > - **분야**: 즉시식립·감염치조부
 > - **범위**: IIP into infected/compromised extraction sockets — periapical/endodontic pathology (acute vs chronic) & periodontitis-compromised sites; decontamination + antibiotic protocols, immediate provisionalization in infected zones, survival/MBL/WKG vs non-infected controls; acute-purulent/sinus-perforation…
-> - **수록 논문**: 15편
+> - **수록 논문**: 21편
 
 ## Three-line Summary
 
 **Scope**: IIP into infected/compromised extraction sockets — periapical/endodontic pathology (acute vs chronic) & periodontitis-compromised sites; decontamination + antibiotic protocols, immediate provisionalization in infected zones, survival/MBL/WKG vs non-infected controls; acute-purulent/sinus-perforation contraindication threshold.
-**Indexed papers**: 15 papers in `wiki/immediate-implant/infected-socket/`.
+**Indexed papers**: 21 papers in `wiki/immediate-implant/infected-socket/`.
 
 ## 세줄요약
 
 **분야**: 즉시식립·감염치조부
-**수록 논문**: 15편
+**수록 논문**: 21편
 **하위 카테고리**: 없음
 
-## Papers in this Category (15)
+## Papers in this Category (21)
 
 | Paper |
 |---|
@@ -37,13 +37,19 @@ tags: [navigation, category-index, infected-socket]
 | [[blus-2015-immediate-implants-infected-noninfected-ultrasonic|Immediate Implants Placed in Infected and Noninfected Sites after Atraumatic Tooth Extraction and Placement with Ultrasonic Bone Surgery]] |
 | [[chrcanovic-2015-immediate-placement-implants-infected-sites|Immediate Placement of Implants into Infected Sites: A Systematic Review]] |
 | [[colak-2023-immediate-implant-periapical-pathology-retrospective|Survival rates of immediate implants placed in extraction sockets with chronic periapical pathology]] |
+| [[crippa-2022-immediate-dental-implant-placement-post|Immediate dental implant placement in post-extraction-infected sites decontaminated with Er,Cr:YSGG laser: a retrospective cohort study]] |
+| [[da-silva-2023-short-implant-and-heavy-smokers|Short Implant and Heavy Smokers as Predictors for Failure of Immediate Implants in Infected Sockets: A Retrospective Study]] |
 | [[de-oliveira-neto-2019-immediate-dental-implants-placed-into|Immediate dental implants placed into infected sites present a higher risk of failure than immediate dental implants placed into non-infected sites: Systematic review and meta-analysis]] |
 | [[espada-salgado-2026-immediate-implant-infected-socket-scoping-review|Immediate implant placement in infected extraction sockets: A scoping review of case selection, decontamination protocols, clinical outcomes and complications]] |
+| [[kakar-2020-immediate-implant-placement-infected-sockets|Immediate Implant Placement in Infected Sockets: A Consecutive Cohort Study]] |
 | [[lee-2018-comparison-immediate-implant-placement-infected|Comparison of immediate implant placement in infected and non-infected extraction sockets: a systematic review and meta-analysis]] |
 | [[li-2025-immediate-implant-periodontitis-short-term-retrospective|A short-term clinical evaluation of immediate implant placement in periodontitis patients]] |
 | [[munoz-camara-2020-immediate-implants-acute-periapical-infected|Immediate Implants Placed in Infected and Noninfected Sites After Atraumatic Tooth Extraction with Immediate Prosthetic Provisionalization: A 1-Year Prospective Cohort Study]] |
+| [[narad-2016-assessment-primary-stability-implant-placed|Assessment of primary stability of the implant placed in prepared infected extraction sockets]] |
+| [[pal-2018-comparison-stability-two-time-use|Comparison of stability with two-time use of platelet-rich growth factor versus one-time use of platelet-rich growth factor in immediate placement of dental implant in infected socket]] |
 | [[pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma|Comparison of Immediate Implantation into the Socket with and without Periapical Pathology: Systematic Review and Meta-Analysis]] |
 | [[prati-2017-immediate-early-delayed-implants-endodontic-infections|Immediate Early and Delayed Implants: A 2-Year Prospective Cohort Study of 131 Transmucosal Flapless Implants Placed in Sites With Different Pre-extractive Endodontic Infections]] |
+| [[rathi-2025-immediate-implant-placement-chronic-periradicular|Immediate implant placement in a chronic periradicular resorptive lesion: A case report of timely restoration and successful outcomes]] |
 | [[saijeva-2020-immediate-implant-placement-non-infected-sockets|Immediate Implant Placement in Non-Infected Sockets versus Infected Sockets: a Systematic Review and Meta-Analysis]] |
 | [[tabrizi-2020-dental-implant-survival-postoperative-infection|Dental Implant Survival after Postoperative Infection]] |
 | [[zhang-2024-immediate-implant-chronic-apical-infected-posterior|Immediate implantation of simple taper retentive implants in chronic apical infected teeth in the posterior region: a 5-year clinical observation]] |
