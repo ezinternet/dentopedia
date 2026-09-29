@@ -16,7 +16,7 @@ tags: [arp, socket-preservation, dbbm, prf, collagen-plug, xenograft, ridge-pres
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
-> - 이 페이지는 발치와 보존술(Alveolar Ridge Preservation, ARP) 8편을 종합해 분류·재료 선택·치유기전·임플란트 충분성을 정리한다.
+> - 이 페이지는 발치와 보존술(Alveolar Ridge Preservation, ARP) 관련 30여 편을 종합해 분류·재료 선택·치유기전·임플란트 충분성을 정리한다.
 > - **핵심 명제**: ARP는 발치 후 치조제 손실을 줄이지만 **제거하지는 못한다** — 무처치 시 6–12개월 내 수평 ~50%, 수직 30–40% 손실(대부분 비가역, 협측 치관부에 집중).
 > - **다발골(bundle bone)은 발치 후 필연적으로 소실**된다 — 협측 치조정은 다발골로만 구성되고 혈류가 치주인대(PDL)에서 오므로 발치가 이를 끊는다. 즉시식립 단독으로 막지 못함 (Araújo & Lindhe 2005).
 > - **발치 시 협측골 상태가 이식재 선택보다 강한 예후 예측인자** — Socket Type(ST) 분류(ST1A→ST3C)가 술식을 결정. ST1A(두꺼운 온전 골)는 ARP 이득 미미, ST1B부터 개입 필요 (Steigmann 2022).
@@ -36,6 +36,8 @@ tags: [arp, socket-preservation, dbbm, prf, collagen-plug, xenograft, ridge-pres
 > - **PRF막이 발치와 봉합을 넘어 능선증대용 차폐막까지 대체 가능**: Wang 2024(후향적 n=44)에서 후방 Seibert Class I 결손에 Bio-collagen+PRF막(단순화 GBR)이 Bio-Oss+Bio-Gide(고전적 GBR) 대비 수평폭경 증가 1.50 vs 1.83mm로 근소하게 낮았으나 윤곽 형태는 오히려 양호한 경향 — Alrayyes 2022의 PRF-대체 주제를 발치와 폐쇄에서 능선증대 적응증으로 확장(단, 이는 엄밀히는 발치 당일 ARP보다 사전 능선증대에 가까운 인접 적응증).
 > - **PRGF ARP RCT — 심미부 신생골 + 조기 연조직 이득 (Anitua 2026, n=46)**: 전치부 ARP에서 혈소판 풍부 성장인자 (Plasma Rich in Growth Factors, PRGF) vs 자연치유 12주 비교 — 신생골 형성 48.7% vs 36.1%, p=0.024; 3일 통증·3/5/7일 연조직 치유 모두 PRGF 우월(p<0.05). PRGF 클래스(BTI 시스템)는 L-PRF와 제조 프로토콜 달라 직접 교환 불가; Alavi 2024 L-PRF null 결과와 상충되는 것처럼 보이나 **제조방식 차이와 관찰 시점(12주 vs 장기 차원) 차이**로 설명 가능.
 > - **대구치 ARP SR — 수술 부담 절반·상악동 거상 감소 (Vora 2025, 14편, 571 부위)**: 대구치 발치와에서 ARP vs 자연치유 비교 — 수평 폭경 손실 ARP -1.02 to -2.73mm vs SH -2.36 to -4.44mm; **고급 골증대 필요율 20.8% vs 47.7%**(절반 수준); 상악 대구치에서 **측방창 상악동 거상 (Lateral-Window Sinus Lift) 필요 감소** — 단일치 근거가 대구치 소켓으로 확장됨을 확인. 이질성 높아 절대수치 해석 주의.
+> - **소켓 치유의 세포·분자 조절인자는 전임상 단계 (Kamath 2026, Mun 2024, Yin 2024)**: 마우스 모델에서 콜라겐 수용체 DDR2 결핍 시 1주 소켓 골부피(BV/TV)가 야생형의 57%로 감소(GLI1+ 골격 전구세포 경유), 대식세포 고갈 시 7일 신생골 면적 41.97% vs 54.03%(M1 유래 TNF-α–MSC 교신) — 소켓 치유를 조절하는 표적을 시사하나 **동물 연구라 임상 효능 근거가 아니다**. Yin 2024 narrative review는 성장인자 전달·면역조절 지지체·항감염 생체재료의 단계별 틀을 제공하지만 비교 임상자료는 없다.
+> - **비치유 소켓은 ARP 판단 이전에 병리 감별 대상 (Ukwas 2024, 50례 종합)**: 치유 지연 발치와의 최종 진단은 악성종양(원발+전이)이 가장 많고 다음이 약물연관 악골괴사(Medication-Related Osteonecrosis of the Jaw, MRONJ) — 정상 치유 경과를 벗어난 소켓은 재료 선택이 아니라 **생검 역치를 낮추는** 쪽으로 접근한다.
  - **콜라겐화 이종골 ARP에서 비가교 콜라겐막은 두꺼운 협측골 부위에서 추가 이득 없음**: 6개월 RCT(Harvard, n=20, 소구치·견치·절치, 이차치유) — 콜라겐화 우골 이종골(Collagenated Bovine Xenograft, BG) 단독 vs BG + 비가교 콜라겐막(Non-Crosslinked Collagen Membrane, MEM) 비교; 각화조직폭(p=0.999)·수평골폭(p=0.464)·수직골변화(p=0.244)·신생골 조직형태계측(p=0.803) 전부 유의차 없음. 협측골 두꺼운(~1mm) 발치와에서 이미 콜라겐 성분을 포함하는 이종골 자체가 생물학적 장벽 역할을 하므로 별도 막이 불필요함을 시사 — 프로토콜 단순화·비용 절감 근거(Khehra 2025, J Periodontol).
 
 ## Three-line Summary
@@ -135,6 +137,18 @@ Rabbit micro-CT (n=36, sacrifice at 2, 7, 15, 30, 60, 90 days) established a key
 - Empty socket control: −58.1% bone volume change
 
 The ~12-fold volumetric protection after collagen plug resorption demonstrates that the mechanism is **early clot stabilization and vascular scaffolding**, not physical space maintenance. This has a practical implication: the plug's value is exhausted within the first 2 weeks; it cannot substitute for a slowly resorbing graft when the goal is long-term ridge width maintenance.
+
+#### Cellular–Molecular Regulators of Socket Healing: Preclinical Signals (Kamath 2026, Mun 2024; Yin 2024 review)
+
+The two mechanisms above are structural and clot-level. Three later sources add the cellular/molecular layer, but two are mouse studies and one is a narrative review — none supplies clinical efficacy data for ARP.
+
+| Source | Design | Finding | Reading |
+|---|---|---|---|
+| Kamath 2026 | Mouse knockout (global and GLI1-conditional Ddr2 deletion, n=6–10/group, maxillary first molar, 4 wk) | Global Ddr2 deletion: socket BV/TV 57% of wildtype at 1 wk, 71% at 2 wk, 81% at 4 wk; ~30% less proliferation; disrupted collagen fibril organization; DDR2-lineage cells up to 60% of socket cells at 1 wk; conditional (GLI1+) knockout inhibited BV/TV by 33% vs 43% global | DDR2 collagen receptor is required for normal socket bone fill, substantially via GLI1+ skeletal progenitors; its collagen motif is a candidate scaffold-engineering target |
+| Mun 2024 | Mouse extraction model, clodronate macrophage depletion (n=4/group) + in vitro MSC RNA-seq (n=3) | Macrophage depletion: day-7 bone volume 0.01 vs 0.02 mm³ and new bone area 41.97% vs 54.03% (both p<.0001); M1-derived TNF-α correlated with PDGFRα+ MSC recruitment; knockdown of Clec4e, Gbp6, Cxcl10 enhanced MSC osteogenic differentiation in vitro | Early inflammatory (macrophage/TNF-α) signaling shapes MSC recruitment and osteoblast commitment; candidate immune-regulatory targets, not a clinical protocol |
+| Yin 2024 | Narrative review | Growth-factor delivery, immunomodulatory scaffolds, anti-infective biomaterials mapped onto healing phases | Framework for biomaterial selection; lacks comparative clinical data |
+
+**How this connects to Axes 3–4**: the platelet-concentrate and rhBMP-2 findings (Axis 4; Alavi 2024) are the clinical counterpart of the growth-factor/immune-modulation logic that these preclinical papers describe. That link is interpretive — the mouse data do not show that any current ARP material acts through DDR2 or the macrophage–TNF-α axis, and nothing here should be cited as evidence that a given graft or PRF product works.
 
 ---
 
@@ -401,6 +415,10 @@ For the infected socket — mobility, deep probing, or combined endo–perio les
 
 Use Fischer et al. 2022 as the evidence anchor for patient discussion: "ARP will reduce, but probably not eliminate, the chance you need additional bone grafting when the implant is placed. With the best materials, about 1 in 5 patients with a narrow implant can avoid additional grafting. For standard implants, the number is closer to 1 in 7." This frames the goal as defect reduction and risk reduction — not guaranteed augmentation avoidance.
 
+
+**Thread 7 — Extraction socket that is not healing on schedule**
+
+A socket with delayed or absent healing is a diagnostic problem before it is a grafting problem. In a 50-case synthesis (Ukwas 2024; mean age 55.2 years, 71 teeth) the most frequent definitive diagnosis was malignancy (primary and metastatic), followed by MRONJ. Practical consequence: if a socket departs from the expected healing course — especially in an older patient or one on antiresorptive therapy — keep a low threshold for biopsy and do not repeat curettage/grafting on an unexplained non-healing site. The source is a narrative synthesis of published cases, so it supports vigilance, not a prevalence estimate.
 ---
 
 ## Related Papers
@@ -456,7 +474,7 @@ Use Fischer et al. 2022 as the evidence anchor for patient discussion: "ARP will
 - [[bone-regeneration/ridge-preservation/kamath-2026-ddr2-tooth-extraction-socket-healing]] — mouse KO model (in vivo): DDR2 수용체(Discoidin Domain Receptor 2, DDR2) 결핍 시 소켓 골 치유 지연; BV/TV 57%(1wk)·71%(2wk)·81%(4wk) of wildtype; 세포 증식 ~30% 감소; DDR2-lineage 세포 = 소켓 세포의 최대 60%/1wk — DDR2가 소켓 치유의 핵심 수용체임을 규명
 - [[bone-regeneration/ridge-preservation/mun-2024-macrophage-msc-tnf-tooth-extraction]] — 대식세포 결핍 모델(in vivo): 골부피 0.01 vs 0.02 mm³ (p<.0001), 신생골 면적 41.97% vs 54.03%; 종양괴사인자-알파(Tumor Necrosis Factor-alpha, TNF-α)–중간엽줄기세포(Mesenchymal Stem Cell, MSC) 교신; 면역 유전자 15개 상향 조절 — 대식세포가 소켓 치유 면역-골격 축에서 필수적 역할
 - [[bone-regeneration/ridge-preservation/yin-2024-biomaterials-therapeutic-strategies-extraction-socket-healing]] — narrative review: 성장인자 전달·면역조절 스캐폴드·항감염 생체재료(anti-infective biomaterial) 3축의 소켓 치유 응용 개요; ARP 생체재료 선택 전략 배경 지식
-- [[oral-surgery/ukwas-2024-non-healing-extraction-socket-diagnostic]] — 후향 코호트 (n=50 cases, 71 teeth): 비치유 소켓(non-healing socket) 진단; 가장 흔한 최종 진단 = 악성종양(원발+전이) > 약물연관 악골괴사(Medication-Related Osteonecrosis of the Jaw, MRONJ) — 지연 치유 소켓에서 악성 병변·MRONJ를 조기 의심하는 진단 임계치 설정 근거
+- [[oral-surgery/ukwas-2024-non-healing-extraction-socket-diagnostic]] — narrative review / 사례 종합 (50례, 71 teeth, 5개 DB): 비치유 소켓(non-healing socket) 진단; 가장 흔한 최종 진단 = 악성종양(원발+전이) > 약물연관 악골괴사(Medication-Related Osteonecrosis of the Jaw, MRONJ) — 지연 치유 소켓에서 악성 병변·MRONJ를 조기 의심하는 진단 임계치 설정 근거
 
 ## Clinical Quiz
 <!-- quiz_spec -->
