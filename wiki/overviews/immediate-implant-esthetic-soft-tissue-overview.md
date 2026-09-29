@@ -38,6 +38,13 @@ source_papers:
   - wiki/immediate-implant/esthetic-soft-tissue/ickroth-2024-immediate-vs-early-implant-esthetic-zone-sr-ma.md
   - wiki/immediate-implant/esthetic-soft-tissue/hicklin-2024-immediate-vs-early-blt-implants-pink-esthetic-pilot-rct.md
   - wiki/immediate-implant/esthetic-soft-tissue/elaskary-2022-vst-immediate-vs-early-contour-augmentation-compromised-sockets-rct.md
+  - wiki/immediate-implant/esthetic-soft-tissue/asghar-2023-immediate-vs-early-implant-esthetic-zone-sr-ma.md
+  - wiki/immediate-implant/gap-grafting/el-ebiary-2023-guided-immediate-implant-mixture-autogenous.md
+  - wiki/immediate-implant/esthetic-soft-tissue/rieder-2014-placement-restoration-timing-esthetic-outcome-rct.md
+  - wiki/immediate-implant/socket-shield/saez-alcaide-2026-socket-shield-thin-buccal-bone-rct.md
+  - wiki/immediate-implant/esthetic-soft-tissue/slagter-2014-immediate-placement-esthetic-zone-sr.md
+  - wiki/immediate-implant/socket-shield/venkatraman-2023-comparison-soft-tissue-volumetric.md
+  - wiki/immediate-implant/esthetic-soft-tissue/yan-2016-soft-hard-tissue-immediate-placement-restoration-esthetic.md
 tags: [palatal-positioning, sagittal-root-position, emergence-angle, placement-timing, volumetric-analysis, gingival-biotype, socket-grafting]
 ---
 
@@ -61,7 +68,7 @@ tags: [palatal-positioning, sagittal-root-position, emergence-angle, placement-t
 
 ## Three-line Summary
 
-Synthesis of 34 papers on esthetic-zone immediate implant placement: survival is near-universal (>95%) at all placement timings, but Type 1 carries 20–30% risk of >1 mm midfacial recession when unselected (Buser 2017); the three multiplicative risk factors are thin buccal wall (≤1 mm → median 7.5 mm vertical bone loss at 8 weeks; Chappuis 2013), thin biotype, and buccal shoulder position (~3× recession vs palatal; Evans 2008).
+Synthesis of 41 papers on esthetic-zone immediate implant placement: survival is near-universal (>95%) at all placement timings, but Type 1 carries 20–30% risk of >1 mm midfacial recession when unselected (Buser 2017); the three multiplicative risk factors are thin buccal wall (≤1 mm → median 7.5 mm vertical bone loss at 8 weeks; Chappuis 2013), thin biotype, and buccal shoulder position (~3× recession vs palatal; Evans 2008).
 
 The four controllable levers are palatal/deep 3-D positioning (safe zone ≥4 mm below facial margin, gap >2 mm; Cosyn 2026), buccal-gap grafting (>2 mm gap +3.1 PP survival; Hamilton 2023 SR+MA), CTG/SCTG for thin phenotypes (midfacial level −0.74 mm; volumetric loss 5× less vs customized healing abutment alone; Fettouh 2024 RCT), and immediate provisionalization when primary stability is adequate (~97% survival either way; Pitman 2022 SR+MA).
 
@@ -69,7 +76,7 @@ Open healing matches primary closure for midfacial mucosal level (SMD −0.26, N
 
 ## 세줄요약
 
-전치부 즉시식립 34편 종합: 생존율은 모든 시점에서 >95%로 보편적이나 Type 1은 무선별 시 정중협측 퇴축 >1 mm 위험 20–30%(Buser 2017); 3대 위험인자는 협측골 ≤1 mm(8주 수직골 소실 7.5 mm; Chappuis 2013)·얇은 생체형·협측 숄더 위치(퇴축 ~3배; Evans 2008).
+전치부 즉시식립 41편 종합: 생존율은 모든 시점에서 >95%로 보편적이나 Type 1은 무선별 시 정중협측 퇴축 >1 mm 위험 20–30%(Buser 2017); 3대 위험인자는 협측골 ≤1 mm(8주 수직골 소실 7.5 mm; Chappuis 2013)·얇은 생체형·협측 숄더 위치(퇴축 ~3배; Evans 2008).
 
 4가지 조절 레버: 구개측·심부 식립(안전구역 ≥4 mm; Cosyn 2026), 협측간극 이식(>2 mm gap +3.1 PP 생존; Hamilton 2023 SR+MA), 얇은 표현형에 CTG(정중협측 변화 −0.74 mm·부피 손실 5배 감소 vs 맞춤 치유지대주 단독; Fettouh 2024 RCT), 안정성 충분 시 즉시 임시수복(생존율 동등, 연조직 윤곽·유두 보존; Pitman 2022 SR+MA).
 
