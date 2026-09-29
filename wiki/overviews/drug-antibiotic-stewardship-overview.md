@@ -39,6 +39,15 @@ source_papers:
   - drug/antibiotics/low-2026-dental-antibiotic-prescribing-practices-singapore
   - drug/antibiotics/nazari-2026-general-dentists-antibiotic-prescription-endodontic-shiraz
   - drug/antibiotics/goel-2020-antibiotic-prescriptions-in-pediatric-dentistry
+  - wiki/drug/antibiotics/aliabadi-2022-antibiotic-use-endodontic-treatment-pregnancy.md
+  - wiki/drug/antibiotics/almadhoon-2026-antibiotic-prescribing-implant-surgery-sr-ma.md
+  - wiki/drug/antibiotics/baker-2026-dentistry-amr-strategy-perspective.md
+  - wiki/drug/antibiotics/chunduri-2012-bacterial-spectrum-orofacial-infections.md
+  - wiki/drug/antibiotics/dubedout-2025-antibiotic-prophylaxis-early-complications.md
+  - wiki/drug/antibiotics/feldman-2023-metronidazole-disulfiram-reaction-case-control.md
+  - wiki/drug/antibiotics/kinzel-2026-german-dentists-prophylactic-antibacterial-risk-groups.md
+  - wiki/drug/antibiotics/orire-2026-revisiting-disulfiram-reaction-alcohol-metronidazole.md
+  - wiki/drug/antibiotics/vavro-2024-antibiotic-susceptibility-orofacial-infections.md
 evidence_level: synthesis
 source: synthesis
 agenda: agenda/2026-05-27_drug-overview-split.md
