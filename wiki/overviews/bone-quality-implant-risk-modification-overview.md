@@ -28,6 +28,13 @@ source_papers:
   - wiki/bone-biology/palominozorrilla-2024-jawbone-quality-classification-scoping.md
   - wiki/bone-biology/shemtovyona-2021-jawbone-quality-quantitative-meta-analysis.md
   - wiki/bone-biology/baskay-2024-ai-histological-reconstruction-trabecular.md
+  - wiki/implants/isq/al-juboori-2024-cortical-thickness-implant-stability-sr.md
+  - wiki/implants/osteotomy-thermal/di-stefano-2018-undersizing-tapping-bic-primary-stability-bovine-histomorphometric.md
+  - wiki/implants/osteotomy-thermal/el-kholey-2019-drilling-technique-low-density-bone-sr.md
+  - wiki/implants/osteotomy-thermal/gehrke-2021-healing-chambers-macrogeometry-low-density-drilling.md
+  - wiki/implants/isq/heimes-2023-macrogeometry-primary-stability-implants-narrative-review.md
+  - wiki/implants/isq/nkenke-2003-implant-stability-histomorphometry-cadaver-correlation.md
+  - wiki/implants/osteotomy-thermal/tabassum-2021-undersized-axial-compression-primary-stability.md
 relations:
   - type: extends
     target: kindaro-2026-parathyroid-hormone-implant-osseointegration-osteoporosis-sr
