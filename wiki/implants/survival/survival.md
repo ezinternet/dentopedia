@@ -2,7 +2,7 @@
 title: "임플란트·생존율·실패위험 — survival"
 authors: navigation
 year: 2026
-date: 2026-09-16
+date: 2026-09-29
 doi: N/A
 source: navigation
 category: implants/survival
@@ -15,23 +15,24 @@ tags: [navigation, category-index, survival]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·생존율·실패위험
 > - **범위**: Implant survival/failure as the outcome, and what predicts it — long-term cumulative survival cohorts & SR/MA; **habit** risk (smoking level/cessation, tobacco & smoke-free products, bruxism); **systemic/host** risk (diabetes, hypertension, osteoporosis & PTH, Sjögren, autoimmune & systemic sclerosi…
-> - **수록 논문**: 45편
+> - **수록 논문**: 50편
 
 ## Three-line Summary
 
 **Scope**: Implant survival/failure as the outcome, and what predicts it — long-term cumulative survival cohorts & SR/MA; **habit** risk (smoking level/cessation, tobacco & smoke-free products, bruxism); **systemic/host** risk (diabetes, hypertension, osteoporosis & PTH, Sjögren, autoimmune & systemic sclerosis, head-and-neck radiotherapy, medications/polypharmacy affecting osseointegration); early-failure risk-factor studies & failure-rate umbrella reviews; evidence-quality appraisal bound to this literature (sponsorship bias, risk-of-bias in smoker SRs); management of the failed implant (explantation/retrieval technique).
-**Indexed papers**: 45 papers in `wiki/implants/survival/`.
+**Indexed papers**: 50 papers in `wiki/implants/survival/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·생존율·실패위험
-**수록 논문**: 45편
+**수록 논문**: 50편
 **하위 카테고리**: 없음
 
-## Papers in this Category (45)
+## Papers in this Category (50)
 
 | Paper |
 |---|
+| [[abichandani-2026-time-varying-glycemic-control-long|Effect of Time-Varying Glycemic Control on Long-Term Dental Implant Outcomes]] |
 | [[aghaloo-2019-systemic-diseases-medications-implant-osseointegration-sr|The Effects of Systemic Diseases and Medications on Implant Osseointegration: A Systematic Review]] |
 | [[al-ansari-2022-diabetes-mellitus-dental-implants-sr-ma|Diabetes Mellitus and Dental Implants: A Systematic Review and Meta-Analysis]] |
 | [[almeida-2017-dental-implants-sjogren-syndrome-sr|Dental implants in Sjögren's syndrome patients: A systematic review]] |
@@ -71,9 +72,13 @@ tags: [navigation, category-index, survival]
 | [[roccuzzo-2022-implants-periodontitis-history-20year-prospective|Implants in patients with/without periodontitis history: 20-year prospective study]] |
 | [[shahi-2026-implant-outcomes-diabetes-mellitus-sr|Dental implant outcomes in patients with diabetes mellitus: a systematic review]] |
 | [[shenoy-2025-dental-implant-failure-retrieval-techniques-scoping|Dental implant failure and retrieval techniques; a scoping review]] |
+| [[shibli-2024-implant-surface-smoking-human-peri-implant-bone|Impact of Implant Surface and Smoking on Peri-Implant Human Bone: What we Learned from The Last 20 Years?]] |
 | [[solderer-2019-removal-failed-dental-implants-revisited|Removal of failed dental implants revisited: Questions and answers]] |
 | [[song-2021-implant-complications-bruxism-patients|Implant complications in bruxism patients]] |
 | [[song-2024-long-term-clinical-radiographic-outcomes|Long-term clinical and radiographic outcomes of a bone-level, 2-piece, internal connection implant system with coronal microthreads over 10 years of follow-up: a retrospective clinical study]] |
+| [[stiller-2024-effects-smoking-dental-implant-failure|The Effects of Smoking on Dental Implant Failure: A Current Literature Update]] |
 | [[wagner-2022-diabetes-mellitus-dental-implants-sr|Systematic Review on Diabetes Mellitus and Dental Implants: An Update]] |
+| [[wahlberg-2025-multicenter-early-implant-failures-part-2-patient|A Multicenter Study of Factors Related to Early Implant Failures-Part 2: Patient Factors]] |
 | [[yari-2023-risk-factors-early-implant-failure|Risk factors associated with early implant failure: A retrospective review]] |
 | [[zarzar-2023-implants-radiotherapy-head-neck|Effectiveness of dental implants in patients undergoing radiotherapy for head and neck cancer: An umbrella review]] |
+| [[zhang-2025-risk-factors-early-failure-simple-taper-implants|Analysis of risk factors for early failure of simple taper retentive implants]] |
