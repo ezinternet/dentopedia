@@ -4611,7 +4611,7 @@ tags: []
 - [[implants/osseodensification/nabih-2025-evaluation-of-the-stability-of]] — Nabih 2025 · rct (n=22, D3/D4 상악) · 골밀도화 vs HaeNaem 확장기: 6개월 ISQ 79.6 vs 72.1 (p=0.027), 술전 치조정 폭 불균형 주의 (DOI 10.1186/s12903-025-06918-y)
 - [[oral-surgery/ukwas-2024-non-healing-extraction-socket-diagnostic]] — Ukwas 2024 · narrative-review (50례) · 치유 안 되는 발치와: 악성종양이 최다 진단, 다음 MRONJ — 생검 역치를 낮게 (DOI 10.1038/s41415-024-7895-5)
 
-## Batch ingest (added 2026-09-29) — 급성 감염 즉시식립 서베일런스 (PMC/루트 PDF 9편)
+## Batch ingest (added 2026-09-29) — 급성 감염 즉시식립 서베일런스 (PMC/루트 PDF 10편)
 - [[immediate-implant/infected-socket/da-silva-2023-short-implant-and-heavy-smokers]] — da Silva 2023 · retrospective (186명·즉시식립 423개, 단일 술자): 만성 치근단 치주염(CAP) 발치와 생존 88.8% vs 비감염 93.3% 유의차 없음 (보정 OR 2.36, 95% CI 0.70–7.97); 하루 20개비 초과 흡연 (OR 7.66)·짧은 임플란트 6.0–8.5 mm (OR 14.06)가 독립 실패 예측인자; 급성·화농성 감염은 분석 안 함 (DOI 10.4317/jced.60238)
 - [[immediate-implant/infected-socket/narad-2016-assessment-primary-stability-implant-placed]] — Narad 2016 · 증례군 (n=24, 초록만 확보): 소파한 감염 발치와(아급성 치주감염·치주-근관·만성 치근단·낭종·외상성 감염치)에 즉시식립, 24개월 24/24 안정·동요/감염 없음; '아급성' 미정의, 화농 언급 없음, 대조군 없음 (DOI 10.1016/j.jobcr.2016.10.002)
 - [[immediate-implant/infected-socket/pal-2018-comparison-stability-two-time-use]] — Pal 2018 · 비무작위 전향 비교 (n=100, 50/50): 만성 치근단 감염 발치와 즉시식립 시 PRGF 1회 vs 2회(식립 시 + 1개월 후) — 2·3개월 ISQ·3·6개월 변연골 소실이 2회군에 유리(수치는 본문에 없음), 골유착 실패 14개(군별 미보고); 무작위 방법 미기재, 근거 약함 (DOI 10.4103/njms.NJMS_1_18)
@@ -4621,3 +4621,4 @@ tags: []
 - [[immediate-implant/gap-grafting/sotomayor-julio-2026-immediate-implant-placement-infected-sites]] — Sotomayor Julio 2026 · case-report (n=1, 56세 여, 2.1번 수직 치근파절 + 만성 감염): 무판막·무차단막 즉시식립 + 콜라겐 스펀지/BCP 롤 + rhBMP-2 0.1 mg("Roll BMP"), 36개월 PES 13/14; 급성 농양/화농 기술 없음, 술전 항생제·소독 미기재 (DOI 10.3389/fdmed.2026.1750133)
 - [[immediate-implant/esthetic-soft-tissue/jurado-2025-achieving-optimal-esthetics-with-immediate]] — Jurado 2025 · case-report (n=1, 30세 여): 상악 중절치 2개 만성 치근단 농양 → 비외상적 무판 발치 + 3D 가이드 즉시 임플란트 2개 + 구개 연조직 이식 + 장석질 비니어, 3년 추적 이상 소견 없음(정량 결과 없음); 초록의 'purulent exudate'가 본문엔 없음 — 급성 화농 근거로 인용 금지 (DOI 10.3390/biomimetics10020105)
 - [[veneers/rojas-rueda-2025-bonding-protocols-lithium-disilicate-veneers]] — Rojas-Rueda 2025 · narrative-review (증례보고 8편) + 임상 증례 1건: 리튬 디실리케이트(LDS) 비니어 접착 — 세라믹 불산 20초·실란 60초, 치아 37% 인산 15초·접착제·광중합 시멘트, 러버댐 하 접착; 정성적 근거 수준 (DOI 10.3390/biomimetics10030188)
+- [[immediate-implant/infected-socket/crippa-2020-laser-therapy-for-infected-sites]] — Crippa 2020 · case-report (n=1) + 소규모 문헌 검색: 근단 치주염 상악 좌측 측절치(2.2, 근단절제술 실패 후) 발치와를 Er,Cr:YSGG 레이저로 소독 후 즉시식립 (35 N 이상, Bio-Oss + 차단막, 4개월 후 부하), 5년 무합병증 주장(문서화된 수치 없음); 병소 급성/만성 분류·화농 언급 없음, 근거 수준 매우 낮음 (DOI 10.1155/2020/2328398)
