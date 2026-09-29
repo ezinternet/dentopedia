@@ -29,6 +29,10 @@ source_papers:
   - wiki/immediate-implant/gjelvold-2021-immediate-delayed-loading-single-tooth-5year-rct.md
   - wiki/implants/full-arch/scocca-2026-zygomatic-implants-head-neck-cancer-sr-ma.md
   - wiki/implants/mbl/kumar-2021-marginal-bone-level-changes-meta-analysis.md
+  - wiki/implants/canullo-2026-hybrid-funnel-technique-mbl-3year.md
+  - wiki/digital-workflow/mehta-2025-accuracy-assessment-robot-assisted-dental.md
+  - wiki/implants/survival/song-2021-implant-complications-bruxism-patients.md
+  - wiki/digital-workflow/tomar-2025-comparing-clinical-outcomes-guided-freehand.md
 tags: [implant-failure, marginal-bone-loss, risk-factors, smoking, bruxism, tilted-implant, short-implant, radiotherapy, zygomatic-implant, immediate-loading, platform-switching, umbrella-review]
 relations:
   - type: extends
@@ -58,7 +62,7 @@ relations:
 
 ## Three-line Summary
 
-Synthesis of 24 papers on late/established implant failure and marginal bone loss (MBL) — i.e., after successful osseointegration, distinct from early (pre-loading) failure covered in [[overviews/early-implant-failure-risk-prevention-overview]] — built on ten umbrella/synthesis anchors, the primary SR+MA and cohort layer beneath them (since umbrella reviews grade evidence without reporting effect sizes), and, since 2026-08-06, a pooled **reference baseline** (kumar-2021: 0.56 mm 1-year MBL) that gives the risk-factor deltas below a denominator to be read against.
+Synthesis of 28 papers on late/established implant failure and marginal bone loss (MBL) — i.e., after successful osseointegration, distinct from early (pre-loading) failure covered in [[overviews/early-implant-failure-risk-prevention-overview]] — built on ten umbrella/synthesis anchors, the primary SR+MA and cohort layer beneath them (since umbrella reviews grade evidence without reporting effect sizes), and, since 2026-08-06, a pooled **reference baseline** (kumar-2021: 0.56 mm 1-year MBL) that gives the risk-factor deltas below a denominator to be read against.
 
 The broadest umbrella review (giok-2026, 25 meta-analyses/35 associations) finds zero associations reach "convincing" evidence; smoking is the only "highly suggestive" observational risk factor, joined by bruxism (barboza-2026, OR 4.68), radiotherapy (pacheco-2025, 81.52% vs 94.64% survival in irradiated vs non-irradiated bone), and periodontitis/male sex (ting-2017); implant angulation (tilted vs axial) shows a time-dependent MBL penalty (malak-2024: NS short-term, +0.08mm at 3y, +0.18mm long-term) despite equivalent failure risk (RR=1.02).
 
