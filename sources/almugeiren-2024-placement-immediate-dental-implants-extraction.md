@@ -68,7 +68,7 @@ MA (RCT 10편, n=849): 치근단 병소 유무별 즉시식립 결과 비교 (20
 Key individual studies:
 - Crespi (4-yr): 98.9% infected vs 100% non-infected; no MBL differences
 - Camara (1-yr, acutely infected): no retrograde peri-implantitis; IS-BIC 0.35±0.51 vs 0.15±0.87 mm (NS)
-- Kakar (laser decontamination): 95.45% survival (105/110)
+- Kakar (laser decontamination): 95.45% survival (105/110) — listed by this MA among its RCTs, but the held Kakar 2020 paper ([[immediate-implant/infected-socket/kakar-2020-immediate-implant-placement-infected-sockets]]) is a retrospective cohort; RCT labelling unverified (2026-09-29)
 - Jung (5-yr): 100% survival both groups
 
 ## 5. Limitations and Future Work
