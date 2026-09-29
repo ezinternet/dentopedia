@@ -4613,3 +4613,4 @@ tags: []
 
 ## Batch ingest (added 2026-09-29) — 급성 감염 즉시식립 서베일런스 (PMC/루트 PDF 9편)
 - [[immediate-implant/infected-socket/da-silva-2023-short-implant-and-heavy-smokers]] — da Silva 2023 · retrospective (186명·즉시식립 423개, 단일 술자): 만성 치근단 치주염(CAP) 발치와 생존 88.8% vs 비감염 93.3% 유의차 없음 (보정 OR 2.36, 95% CI 0.70–7.97); 하루 20개비 초과 흡연 (OR 7.66)·짧은 임플란트 6.0–8.5 mm (OR 14.06)가 독립 실패 예측인자; 급성·화농성 감염은 분석 안 함 (DOI 10.4317/jced.60238)
+- [[immediate-implant/infected-socket/narad-2016-assessment-primary-stability-implant-placed]] — Narad 2016 · 증례군 (n=24, 초록만 확보): 소파한 감염 발치와(아급성 치주감염·치주-근관·만성 치근단·낭종·외상성 감염치)에 즉시식립, 24개월 24/24 안정·동요/감염 없음; '아급성' 미정의, 화농 언급 없음, 대조군 없음 (DOI 10.1016/j.jobcr.2016.10.002)
