@@ -18,6 +18,9 @@ source_papers:
   - wiki/implants/survival/zhang-2025-risk-factors-early-failure-simple-taper-implants.md
   - wiki/implants/survival/stiller-2024-effects-smoking-dental-implant-failure.md
   - wiki/implants/survival/shibli-2024-implant-surface-smoking-human-peri-implant-bone.md
+  - wiki/immediate-implant/yang-2026-immediate-dental-implants-insights-into.md
+  - wiki/implants/survival/guarnieri-2025-analysis-risk-factors-related-early.md
+  - wiki/implants/survival/de-bruyn-2025-survival-bone-remodeling-hybrid-surface.md
 tags: [early-implant-failure, risk-factors, osseointegration, smoking, immediate-loading, antibiotic-prophylaxis, bone-quality, maxilla, antihypertensive, hypertension, medication-compliance]
 ---
 
@@ -26,6 +29,8 @@ tags: [early-implant-failure, risk-factors, osseointegration, smoking, immediate
 > - 발생률은 낮다: 임플란트 단위 약 1~4%, 환자 단위 약 3~7% (Yari 코호트 4.0%/7.0%, all-on-four 1년 0.4~1.1%).
 > - **숙주 인자**: 흡연이 가장 일관된 가변 위험인자 — 풀링 임플란트 단위 교차비 (Odds Ratio, OR) 2.59 (Fan), 용량 의존적(Naseri, heavy smoker↑), 다변량 보정 후에도 유의 (Yari OR 1.84, Uesugi OR 2.92, Zhang 2025 OR 2.148 — 초록만).
 > - **단, 만장일치는 아니다 (갱신 2026-09-29)**: 스웨덴 다기관 후향 코호트(Wåhlberg 2025, 환자 1,875명·조기 실패 63명)에서는 흡연이 **조기 실패에 비유의**(다변량 OR 1.61, 95% CI 0.88–2.94)였고 **1년 내 조기 합병증**에만 유의(OR 2.30, 1.61–3.29)했다 — 그 코호트의 유의 인자는 노출 나사선 OR 3.47·환자당 임플란트 수 OR 1.27/개·음식 알레르기 OR 2.64. 사건이 63건뿐이라 검정력 부족일 수 있으나, 흡연 효과를 "조기 실패" 하나로 단정하기보다 조기 합병증까지 포함해 읽는 것이 안전하다. 서술적 SR(Stiller 2024, 33편, 메타분석 없음)은 25편이 유의한 연관·조기 실패 OR 2.14 등을 보고하지만 통합 추정치가 없어 Fan 2024의 OR 2.59를 대체하지 못한다.
+> - **치유 프로토콜(매몰 vs 비매몰)은 조기 실패의 교란된 변수 (갱신 2026-09-30)**: Yang 2026(샤먼 단일기관 후향, 즉시식립 1,513개, 조기 실패 50건)에서 **매몰형 치유가 조기 실패를 줄임**(다변량 HR 0.53, 95% CI 0.30–0.95); Guarnieri 2025(개인의원 후향, 930개, 조기 실패 5.8%)도 비매몰형(조직 수준) 치유와 조기 실패가 연관(OR은 표에만 있어 미확보). 그러나 Yang에서는 삽입토크(<20–25 Ncm이면 매몰)로 치유방식을 선택했고, Guarnieri는 임플란트 디자인·브랜드와 얽혀 있어(Laser-Lok 조직 수준 임플란트는 더 양호) **적응증·디자인 교란**을 배제할 수 없다. 저자들의 기전 설명(섬유성 피막·미생물 오염 감소)은 추측이다.
+> - **흡연 × 치유 프로토콜 상호작용은 근거 없음**: Yang은 흡연을 수집하지 않았고, Guarnieri·De Bruyn 2025(101개, 매몰군 없음; 흡연자 3/10 vs 비흡연자 3/91 실패, 사건 3건) 모두 흡연자를 프로토콜별로 나누거나 상호작용을 검정하지 않았다. "흡연자는 매몰이 유리/불리"는 위키 근거로 말할 수 없다 — 직접 단서(Schwartz-Arad 2002, 흡연자 커버스크류 노출 46% vs 31%)는 PMC가 없어 미인제스트.
 > - **기전 근거 (Shibli 2024, 인체 조직학)**: 8주 비부하 치유 미니임플란트에서 흡연자의 골-임플란트 접촉률(BIC)이 약 50% 낮고(p<0.05) 신생골이 감소했다 — 골유착 자체가 늦다는 직접 관찰이다. 니코틴 혈관 수축·일산화탄소 저산소 등은 그 논문이 다른 문헌에서 외삽한 것이며, 한 연구 그룹의 소규모 자료라 임상 조기 실패로의 환산은 불가.
 > - **전신 인자**: 당뇨 상대위험 (Relative Risk, RR) 2.75·두경부 방사선 RR 2.73 (Moy); 골다공증은 경향(Uesugi p=0.051).
 > - **해부·골질 인자**: 후방 상악 (posterior maxilla)·4형 골 (type IV bone)이 반복 검출 — Yari OR 2.96/2.88, Uesugi 상악 OR 3.12.
@@ -37,7 +42,7 @@ tags: [early-implant-failure, risk-factors, osseointegration, smoking, immediate
 
 ## Three-line Summary
 
-Synthesis of 13 papers on early implant failure (EIF — loss of osseointegration before prosthetic loading): incidence is low (≈1–4% implant-level; 4.0%/7.0% patient-level, Yari cohort n=1,323/738; all-on-four 0.4–1.1% at 1 year, Uesugi n=561) but multifactorial; smoking is the most consistent modifiable risk factor (pooled OR 2.59, Fan SR+MA 32 studies, 59,246 implants; dose-dependent, Naseri SR+MA; survives multivariate adjustment Yari OR 1.84, Uesugi OR 2.92); diabetes RR 2.75, head/neck radiation RR 2.73 (Moy 21-year cohort n=4,680).
+Synthesis of 16 papers on early implant failure (EIF — loss of osseointegration before prosthetic loading): incidence is low (≈1–4% implant-level; 4.0%/7.0% patient-level, Yari cohort n=1,323/738; all-on-four 0.4–1.1% at 1 year, Uesugi n=561) but multifactorial; smoking is the most consistent modifiable risk factor (pooled OR 2.59, Fan SR+MA 32 studies, 59,246 implants; dose-dependent, Naseri SR+MA; survives multivariate adjustment Yari OR 1.84, Uesugi OR 2.92); diabetes RR 2.75, head/neck radiation RR 2.73 (Moy 21-year cohort n=4,680).
 
 Posterior maxilla and type IV bone are the most consistently identified non-modifiable site/bone factors (Yari OR 2.96/2.88; Uesugi maxilla OR 3.12); periodontal-extraction sites OR 2.53 and grafted/sinus-augmented sites OR 2.24 add significant risk (Yari; Bonsmann nested case-control, 8 centers, 129 cases/273 controls); immediate provisional/loading was the single strongest predictor in the general-placement cohort (Yari OR 3.42) and defines the high-risk all-on-four scenario.
 
@@ -45,7 +50,7 @@ Routine preoperative antibiotic prophylaxis does NOT meaningfully reduce EIF: RR
 
 ## 세줄요약
 
-조기 임플란트 실패(Early Implant Failure, EIF; 보철 로딩 전 골유착 실패) 13편 통합: 발생률은 낮지만(임플란트 단위 ≈1~4%; Yari 코호트 n=1,323) 다변량 사건 — 흡연이 가장 일관된 가변 위험인자(풀링 교차비(Odds Ratio, OR) 2.59, Fan SR+MA 59,246개; 다변량 보정 후 유의, Yari OR 1.84·Uesugi OR 2.92); 당뇨 상대위험(Relative Risk, RR) 2.75·두경부 방사선 RR 2.73(Moy 21년 코호트).
+조기 임플란트 실패(Early Implant Failure, EIF; 보철 로딩 전 골유착 실패) 16편 통합: 발생률은 낮지만(임플란트 단위 ≈1~4%; Yari 코호트 n=1,323) 다변량 사건 — 흡연이 가장 일관된 가변 위험인자(풀링 교차비(Odds Ratio, OR) 2.59, Fan SR+MA 59,246개; 다변량 보정 후 유의, Yari OR 1.84·Uesugi OR 2.92); 당뇨 상대위험(Relative Risk, RR) 2.75·두경부 방사선 RR 2.73(Moy 21년 코호트).
 
 후방 상악·4형 골이 반복 검출되는 비가변 부위/골질 위험인자(Yari OR 2.96/2.88; Uesugi 상악 OR 3.12); 치주 발치 부위 OR 2.53·증대/상악동 부위 OR 2.24(Yari; Bonsmann 중첩 환자-대조군 8개 기관); 즉시 잠정보철/즉시 로딩(Immediate Provisional/Immediate Loading)이 가장 강한 단일 예측인자(Yari OR 3.42).
 
@@ -70,6 +75,9 @@ EIF is mechanistically distinct from late failure: it reflects a **failure to ac
 | [[implants/survival/zhang-2025-risk-factors-early-failure-simple-taper-implants]] | Retrospective cohort (abstract only, Chinese) | 3,533 implants / 1,681 pts | Early failure 1.5% (implant) / 2.9% (patient); multivariate smoking OR 2.148 (no CI in abstract), anterior mandible 3.669, posterior maxilla 2.191 | retrospective |
 | [[implants/survival/stiller-2024-effects-smoking-dental-implant-failure]] | SR, no meta-analysis (33 studies) | 29,519 implants | 25/33 studies significant; early failure OR 2.14 (single study), 2.07 early vs 1.48 late (Nagao); no pooled estimate, no GRADE | sr |
 | [[implants/survival/shibli-2024-implant-surface-smoking-human-peri-implant-bone]] | Narrative review of human histology (one research group) | 90 pts / 123 micro-implants, 8 wk unloaded | Smokers' BIC ~50% lower (p<0.05); treated surfaces >2× cpTi BIC in smokers; mechanism partly extrapolated | narrative-review |
+| [[immediate-implant/yang-2026-immediate-dental-implants-insights-into]] | Retrospective single-centre cohort (Xiamen, immediate implants) | 781 pts / 1,513 implants (50 early, 36 late failures) | Early failure HR: male 2.48, sinus elevation 2.49, maxillary anterior 3.15, maxillary posterior 2.75; **submerged healing HR 0.53 (0.30–0.95)**; smoking not collected | retrospective |
+| [[implants/survival/guarnieri-2025-analysis-risk-factors-related-early]] | Retrospective single-practice cohort (GEE) | 392 pts / 930 implants | Early failure 5.8%; smoking, non-submerged (tissue-level) healing, posterior maxilla (OR 2.26, 1.32–3.86), male (OR 1.54) significant; smoking and non-submerged ORs only in tables (not retrieved); no smoking × healing interaction | retrospective |
+| [[implants/survival/de-bruyn-2025-survival-bone-remodeling-hybrid-surface]] | Retrospective single-operator cohort | 101 implants, all one-stage with healing abutment | Pre-loading failure 6 (5.9%): smokers 3/10 vs non-smokers 3/91; flapless 96.4% / flap 93.9% / immediate 91.7% (NS); no submerged arm, no stratification | retrospective |
 | [[implants/survival/bonsmann-2025-risk-factors-early-implant-failure-sinus-nested]] | Nested case-control (8 centers) | 129 cases / 273 controls | Risk factors for ≤12-mo failure after sinus augmentation | retrospective |
 | [[implants/survival/moy-2005-dental-implant-failure-rates-risk]] | Cohort (21 y) | 4680 implants | Diabetes RR 2.75, head/neck radiation RR 2.73, smoking RR 1.56; lowest failure anterior mandible (2.89%) | retrospective |
 | [[drug/systemic-disease/masri-2024-early-implant-failure-antihypertensive-medications]] | Retrospective cohort | 792 pts / 2,971 implants | HTN+medication EIF 2.29% vs NT 4.33% (p=.01); HTN-unmedicated worst (6.25% implant-level, 28.60% patient-level); OR 0.618 | retrospective |
@@ -84,11 +92,13 @@ EIF is mechanistically distinct from late failure: it reflects a **failure to ac
 5. **Do NOT default to antibiotic prophylaxis for prevention.** In healthy patients undergoing uncomplicated surgery, routine prophylaxis does not meaningfully reduce EIF (Momand NNT 143); reserve antibiotics for immediate post-extraction/infected sockets, where the signal exists and it is better framed as treatment.
 6. **Surface conditioning (photofunctionalisation) is not yet evidence-backed** for EIF reduction (Uesugi OR 0.51, p=0.25) — promising trend, underpowered.
 7. **Antihypertensive medication compliance is a host-factor predictor.** Hypertensive patients *on* antihypertensives achieve EIF rates *below* normotensive controls (Masri 2024: 2.29% vs 4.33%, p=.01; Chidiac 2026: HR 0.23, p=0.013). Hypertensive patients *not* on medication are the highest-risk group (patient-level EIF 28.6%, Masri 2024). Preoperative question: "Are you taking your blood pressure medications regularly?" Statins are similarly protective (HR 0.16). SSRIs increase failure risk (HR 2.17, Chidiac 2026) — flag for enhanced post-operative monitoring.
+8. **Healing protocol (submerged vs non-submerged) is a confounded variable — do not use it to individualise advice for smokers.** Yang 2026 (HR 0.53 for submerged) and Guarnieri 2025 point the same way, and the baseline SR (Troiano 2018) is not held because it has no open access, but in Yang the protocol was chosen by insertion torque and in Guarnieri it is entangled with implant design. No held paper stratifies smokers by protocol (De Bruyn 2025 has no submerged arm and 3 events), so whether smokers benefit more or less from a buried protocol is unanswered. Mechanistic reasoning that an exposed healing abutment is worse in smokers (impaired mucosal healing, Apatzidou 2022; more early complications, Wåhlberg 2025 OR 2.30) is a hypothesis, not a finding. [미검증]
 
 ## Gaps & Future Research
 
 - Most risk-factor evidence is **retrospective** with low event counts; prospective multivariable models with 95% CIs are scarce.
 - **Smoking's effect on EIF is not uniform across datasets**: pooled OR 2.59 (Fan) and cohort ORs 1.84–2.92 (Yari, Uesugi, Zhang) vs non-significant OR 1.61 (Wåhlberg, 63 failure patients). No held paper explains the gap; differences in early-failure definition (Wåhlberg: any event within the first year), covariates and event counts are candidate explanations, not established ones.
+- **Protocol × host interactions are untested**: healing mode (submerged/non-submerged), flap design and immediate provisionalization are analysed as main effects in retrospective cohorts (Yang, Guarnieri, De Bruyn, Yari), never as modifiers of smoking. A prospective or stratified analysis with smoking status recorded is missing.
 - **Mechanism is thin**: the only human-tissue evidence is Shibli 2024 (one group, micro-implants, 8 weeks, no survival outcome); the vasoconstriction/hypoxia pathway is extrapolated. Cessation-timing evidence for implants is not held beyond Caggiano 2022 (see [[overviews/smoking-tobacco-periodontal-implant-overview]]).
 - Definition of "early failure" is inconsistent (before abutment vs before loading vs within 1 year of loading) — harmonization needed for pooling.
 - Immediate-socket/grafted scenarios are exactly where prophylaxis *might* help but are under-powered in current RCTs.
@@ -106,6 +116,9 @@ EIF is mechanistically distinct from late failure: it reflects a **failure to ac
 - [[implants/survival/zhang-2025-risk-factors-early-failure-simple-taper-implants]] — Chinese single-centre cohort (abstract only): smoking OR 2.148
 - [[implants/survival/stiller-2024-effects-smoking-dental-implant-failure]] — qualitative SR of smoking and implant failure (no pooling)
 - [[implants/survival/shibli-2024-implant-surface-smoking-human-peri-implant-bone]] — human histology: smokers' lower BIC at 8 weeks
+- [[immediate-implant/yang-2026-immediate-dental-implants-insights-into]] — immediate-implant cohort: submerged healing HR 0.53 for early failure (confounded by torque-based selection; smoking not collected)
+- [[implants/survival/guarnieri-2025-analysis-risk-factors-related-early]] — single-practice GEE cohort: smoking and non-submerged healing among seven early-failure factors
+- [[implants/survival/de-bruyn-2025-survival-bone-remodeling-hybrid-surface]] — small one-stage cohort: smokers 3/10 vs 3/91 pre-loading failures
 - [[implants/survival/moy-2005-dental-implant-failure-rates-risk]] — classic long-term risk-factor cohort
 - [[drug/systemic-disease/masri-2024-early-implant-failure-antihypertensive-medications]] — antihypertensive medication as host-factor: EIF 2.29% vs NT 4.33%; unmedicated HTN worst (28.6%)
 - [[drug/systemic-disease/chidiac-2026-antihypertensive-antihyperlipidemic-antidepressant-implant-survival]] — 10yr KM: AHT HR 0.23 protective; statin HR 0.16; SSRI HR 2.17 harmful
