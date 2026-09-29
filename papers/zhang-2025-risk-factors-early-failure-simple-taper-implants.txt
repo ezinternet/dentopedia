@@ -1,0 +1,22 @@
+Analysis of risk factors for early failure of simple taper retentive implants (单纯锥度固位种植体早期失败的危险因素分析)
+
+Authors: Xu Zhang; Zengxuan Wan; Shibo Wei; Fei Yu; Ning Cao; Liangwei Cao; Hao Wu; Shuigen Guo; Hongwu Wei
+Journal: Hua Xi Kou Qiang Yi Xue Za Zhi (West China Journal of Stomatology) 2025 Dec; 43(6):780-788
+DOI: 10.7518/hxkq.2025.2025045 | PMID: 41332402 | PMCID: PMC12680115
+Source: PubMed abstract (English, from PubMed record) + PMC Chinese abstract. PMC get_full_text_article returned an EMPTY full-text body (full text not retrieved; tables/figures not available). Article language: Chinese (PubMed language code chi; English abstract provided).
+
+=== ABSTRACT ===
+
+Objectives: To explore the related risk factors of early failure of simple taper retentive implants, and to provide theoretical guidance for clinical work.
+
+Methods: Collect cases of patients who visited the Department of Stomatology of the Fourth Affiliated Hospital of Nanchang University from January 2021 to June 2024, received simple taper retentive implants, and had complete medical records. Taking the implants as the unit, analyze the influence of patient-related factors (gender, age, smoking history, hypertension history, diabetes history), implant-related factors (implant length, implant diameter, implant surface treatment), and surgical-related factors (implant site, implant timing, simultaneous maxillary sinus floor elevation, simultaneous bone augmentation) on the early failure of implants. Univariate analysis and multivariate analysis were adopted to explore the potential risk factors for early failure of simple taper retentive implants.
+
+Results: A total of 3,533 simple taper retentive implants from 1,681 patients were included during the study period. Among them, 53 implants from 49 patients experienced early failure, with an early failure rate of 2.9% at the patient level and 1.5% at the implant level. Multivariate analysis revealed that smoking (OR=2.148, P=0.021), the anterior mandibular region (OR=3.669, P=0.006), and the posterior maxillary region (OR=2.191, P=0.033) were risk factors for early failure of simple taper retentive implants. In the univariate analysis, simultaneous maxillary sinus floor elevation had a higher risk of early failure, but this effect was no longer significant in the multivariate analysis (P>0.05).
+
+Conclusion: Smoking, the anterior mandibular region, and the posterior maxillary region are risk factors for the early failure of simple taper retentive implants, and could be comprehensively considered in the preoperative treatment plan.
+
+Keywords: early failure; implant; risk factor; simple taper retention
+
+=== FULL TEXT ===
+
+[EMPTY — PMC returned no body text. Full text, tables and figures not retrieved.]
