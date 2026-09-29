@@ -23,6 +23,9 @@ source_papers:
   - wiki/implants/short-narrow/xu-2020-short-standard-single-crown-posterior.md
   - wiki/implants/short-narrow/torres-alemany-2020-clinical-behavior-short-implants.md
   - wiki/implants/short-narrow/lombardo-2022-short-ultrashort-implants-internal-sinus-lift.md
+  - wiki/implants/short-narrow/anitua-2019-short-65mm-implants-fixed-prostheses-premolar-molar.md
+  - wiki/sinus-lift/transcrestal/cho-2024-crestal-sinus-augmentation-limited-bone.md
+  - wiki/sinus-lift/transcrestal/kadkhodazadeh-2024-transcrestal-maxillary-sinus-elevation-sr-ma.md
 ---
 
 ## 한국어 핵심요약
@@ -41,7 +44,7 @@ source_papers:
 
 ## Three-line Summary
 
-Synthesis of 15 papers (6 SR+MAs, 2 umbrella reviews, 1 PROM SR+MA, 1 10-year RCT, 5 additional studies) comparing short implants (4–8 mm, no sinus lift) vs standard/long implants plus sinus augmentation in the atrophic posterior maxilla.
+Synthesis of 19 papers (6 SR+MAs, 2 umbrella reviews, 1 PROM SR+MA, 1 10-year RCT, 5 additional studies) comparing short implants (4–8 mm, no sinus lift) vs standard/long implants plus sinus augmentation in the atrophic posterior maxilla.
 
 Across all 6 independent meta-analyses, survival equivalence is non-significant (representative: Toledano 2022 RR 1.02, p=0.09; Chaware 2021 RR 1.01, I²=0%; Thoma 2024 10-year RCT 96.0% vs 100%, p=0.24); short implants show consistently less marginal bone loss (Mester 2023 WMD −0.29 mm, p=0.005; Alenezi 2025 MD −0.26 mm, p<0.001) and lower biological complication rates (Mester RR 0.46, p=0.03; Alenezi OR 0.39, p=0.02).
 
@@ -49,7 +52,7 @@ The decision shifts from survival to four gates: (1) residual bone height — RB
 
 ## 세줄요약
 
-15편 종합(SR+MA 6편, 우산형 리뷰 2, PROM SR+MA 1, 10년 RCT 1, 기타 5) — 위축된 후방 상악에서 숏 임플란트(4–8 mm, 무거상) vs 표준/장축 임플란트+상악동거상 비교.
+19편 종합(SR+MA 6편, 우산형 리뷰 2, PROM SR+MA 1, 10년 RCT 1, 기타 9) — 위축된 후방 상악에서 숏 임플란트(4–8 mm, 무거상) vs 표준/장축 임플란트+상악동거상 비교.
 
 6개 독립 메타분석 모두 생존율 차이 비유의(Toledano 2022 RR 1.02, p=0.09; Thoma 2024 10년 RCT 96.0% vs 100%, p=0.24); 숏 임플란트는 일관되게 변연골소실(MBL) 적고(Mester 2023 WMD −0.29 mm, p=0.005; Alenezi 2025 MD −0.26 mm, p<0.001) 생물학적 합병증도 낮다(Mester RR 0.46, p=0.03; Alenezi OR 0.39, p=0.02).
 
