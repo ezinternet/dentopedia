@@ -18,7 +18,7 @@ relations:
 
 ## Three-line Summary
 
-Prospective cohort (BMC Oral Health 2024, n=26 patients/41 implants, 1 year): VST + 6-day protocol for immediate implants in infected (Group I, n=19) vs non-infected (Group N, n=21) Elian Type II maxillary sockets.
+Prospective cohort (BMC Oral Health 2024, n=26 patients/41 implants, 1 year): VST + 6-day protocol for immediate implants in infected (Group I, n=19) vs non-infected (Group N, n=22; the abstract says 21, but the Results text and Table 1 give 22 and the total of 41 implants) Elian Type II maxillary sockets.
 
 100% implant survival in both groups; facial bone thickness gain significant over time in both (apical gain I: 2.4 mm, N: 1.63 mm); no significant between-group difference in bone thickness or soft tissue levels, except mesial papilla recession was significantly greater in non-infected group.
 
@@ -26,7 +26,7 @@ Single-operator prospective cohort, 1-year follow-up, small sample (n=26); suppo
 
 ## 세줄요약
 
-전향적 코호트 (BMC Oral Health 2024, n=26/임플란트 41개, 1년): 감염(Group I 19개) vs 비감염(Group N 21개) 상악 Type II 소켓에서 VST + 6-day protocol 즉시 식립.
+전향적 코호트 (BMC Oral Health 2024, n=26/임플란트 41개, 1년): 감염(Group I 19개) vs 비감염(Group N 22개; 초록은 21이나 본문·Table 1은 22, 합계 41) 상악 Type II 소켓에서 VST + 6-day protocol 즉시 식립.
 
 양군 100% 임플란트 생존; 협측 골두께 양군 모두 유의하게 증가 (apical: I 2.4 mm, N 1.63 mm); 골두께·점막 수준 군간 유의차 없음 — 단 mesial papilla 후퇴는 비감염군이 유의하게 더 큼.
 
@@ -54,7 +54,7 @@ This prospective cohort study compared immediate implant placement using Vestibu
 
 ## Methodology
 
-Prospective cohort; n=26 patients, 41 implants; frequency-matched by age and sex; Group I (infected, 13 patients/19 sites) vs Group N (non-infected, 13 patients/21 sites); single operator, single center (Alexandria, Egypt); January–November 2019 recruitment.
+Prospective cohort; n=26 patients, 41 implants; frequency-matched by age and sex; Group I (infected, 13 patients/19 sites) vs Group N (non-infected, 13 patients/22 sites); single operator, single center (Alexandria, Egypt); January–November 2019 recruitment.
 
 **Infection criteria (Group I):** periapical radiolucency (3 sites), fistulae (2 sites), sinus tracts (11 sites), swelling (3 sites).
 
