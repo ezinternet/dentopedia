@@ -2,7 +2,7 @@
 title: "즉시식립·간극이식·GBR — gap-grafting"
 authors: navigation
 year: 2026
-date: 2026-09-15
+date: 2026-09-29
 doi: N/A
 source: navigation
 category: immediate-implant/gap-grafting
@@ -15,20 +15,20 @@ tags: [navigation, category-index, gap-grafting]
 > [!summary] 한국어 핵심요약
 > - **분야**: 즉시식립·간극이식·GBR
 > - **범위**: Jumping-gap/buccal-gap management & GBR at IIP — bone-substitute (xenograft/alloplast/BSM) & collagen gap grafting, PRF/CGF and barrier-membrane/Ti-mesh GBR, buccal-dehiscence/defect correction (SPAL, BioARP, vestibular socket therapy, tuberosity block/IDR), ≥2 mm jump-space grafting thresholds, mem…
-> - **수록 논문**: 19편
+> - **수록 논문**: 20편
 
 ## Three-line Summary
 
 **Scope**: Jumping-gap/buccal-gap management & GBR at IIP — bone-substitute (xenograft/alloplast/BSM) & collagen gap grafting, PRF/CGF and barrier-membrane/Ti-mesh GBR, buccal-dehiscence/defect correction (SPAL, BioARP, vestibular socket therapy, tuberosity block/IDR), ≥2 mm jump-space grafting thresholds, membrane wound-management
-**Indexed papers**: 19 papers in `wiki/immediate-implant/gap-grafting/`.
+**Indexed papers**: 20 papers in `wiki/immediate-implant/gap-grafting/`.
 
 ## 세줄요약
 
 **분야**: 즉시식립·간극이식·GBR
-**수록 논문**: 19편
+**수록 논문**: 20편
 **하위 카테고리**: 없음
 
-## Papers in this Category (19)
+## Papers in this Category (20)
 
 | Paper |
 |---|
@@ -46,6 +46,7 @@ tags: [navigation, category-index, gap-grafting]
 | [[paknejad-2017-flapless-immediate-implant-buccal-gap-rct|Effect of flapless immediate implantation and xenograft filling on buccal bone level: RCT]] |
 | [[sanz-2017-bone-graft-gap-immediate-implant-rct|Effect of placing a bone replacement graft in the gap at immediately placed implants: RCT]] |
 | [[seyssens-2022-immediate-implant-socket-grafting-sr-ma|Immediate implant placement with or without socket grafting: A systematic review and meta-analysis]] |
+| [[sotomayor-julio-2026-immediate-implant-placement-infected-sites|Immediate implant placement in infected sites using the \"Roll BMP\" technique: a 3-year case report with bioinformatic analysis]] |
 | [[stagnaro-borgia-2022-immediate-implant-buccal-defect-tuberosity-rct|Immediate implants with buccal defects: tuberosity autograft vs xenograft — 1-year RCT]] |
 | [[trombelli-2024-bioarp-bone-dehiscence-immediate-implant|Biologically-oriented alveolar ridge preservation to correct bone dehiscence at immediate implant placement]] |
 | [[wang-2021-titanium-mesh-cgf-immediate-implantation-anterior|Short-Term Evaluation of Guided Bone Reconstruction with Titanium Mesh Membranes and CGF Membranes in Immediate Implantation of Anterior Maxillary Tooth]] |
