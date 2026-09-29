@@ -4610,3 +4610,6 @@ tags: []
 - [[implants/isq/guler-2013-resonance-frequency-analysis-straumann-dental]] — Guler 2013 · prospective (208 Straumann) · 치유기간 ISQ 유의 상승, 상악 구치부 최저, 길이 무관; ISQ는 단회보다 시간·부위별 반복 측정 (DOI 10.1563/AAID-JOI-D-11-00060)
 - [[implants/osseodensification/nabih-2025-evaluation-of-the-stability-of]] — Nabih 2025 · rct (n=22, D3/D4 상악) · 골밀도화 vs HaeNaem 확장기: 6개월 ISQ 79.6 vs 72.1 (p=0.027), 술전 치조정 폭 불균형 주의 (DOI 10.1186/s12903-025-06918-y)
 - [[oral-surgery/ukwas-2024-non-healing-extraction-socket-diagnostic]] — Ukwas 2024 · narrative-review (50례) · 치유 안 되는 발치와: 악성종양이 최다 진단, 다음 MRONJ — 생검 역치를 낮게 (DOI 10.1038/s41415-024-7895-5)
+
+## Batch ingest (added 2026-09-29) — 급성 감염 즉시식립 서베일런스 (PMC/루트 PDF 9편)
+- [[immediate-implant/infected-socket/da-silva-2023-short-implant-and-heavy-smokers]] — da Silva 2023 · retrospective (186명·즉시식립 423개, 단일 술자): 만성 치근단 치주염(CAP) 발치와 생존 88.8% vs 비감염 93.3% 유의차 없음 (보정 OR 2.36, 95% CI 0.70–7.97); 하루 20개비 초과 흡연 (OR 7.66)·짧은 임플란트 6.0–8.5 mm (OR 14.06)가 독립 실패 예측인자; 급성·화농성 감염은 분석 안 함 (DOI 10.4317/jced.60238)
