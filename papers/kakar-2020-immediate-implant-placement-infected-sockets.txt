@@ -1,0 +1,22 @@
+Immediate Implant Placement in Infected Sockets: A Consecutive Cohort Study
+
+Authors: Ashish Kakar; Kanupriya Kakar; Minas D Leventis; Gaurav Jain
+Journal: Journal of Lasers in Medical Sciences (J Lasers Med Sci) 2020; 11(2):167-173
+DOI: 10.34172/jlms.2020.28 | PMID: 32273958 | PMCID: PMC7118505
+Source: PubMed / PMC — get_full_text_article returned an EMPTY body; abstract only (full text not retrieved).
+
+=== ABSTRACT ===
+
+Introduction: Immediate placement of implants in a fresh post-extraction socket is an increasingly popular and established treatment option. However, active infection in the extraction site may adversely affect the outcome of this procedure. This study was designed to assess the clinical results of immediate placement of dental implants in infected extraction sockets using a standardized protocol, which included (1) the use of an Er,Cr:YSGG laser for the decontamination of the infected socket prior to implant insertion, and (2) the utilization of an in situ hardening alloplastic bone graft substitute to augment the gap between the implant surface and the labial plate of bone.
+
+Methods: A retrospective record review was used to identify 68 patients who had implants placed as per the described protocol. A total of 126 implants were placed in 68 patients (65 implants in the maxilla, 61 implants in the mandible). The implants were loaded 136 ± 73 days (mean ± standard deviation; range: 37-400 days) after implant placement. Eight patients (16 implants) were subsequently lost to follow up.
+
+Results: 105 of the 110 implants (95.45%) placed immediately in the infected sites using the described protocol survived after prosthetic loading.
+
+Conclusion: Immediate implant placement in previously infected sites using the protocols mentioned in our study with laser decontamination of the socket, grafting with an in situ hardening alloplastic bone graft material and non-submerged healing shows a similar survival rate to the published success rates for immediate implants placed in non-infected sites.
+
+Keywords: Bone grafting; Er-YAG laser; Immediate implants; Infected tooth sockets; Lasers
+
+=== FULL TEXT ===
+
+(not retrieved — PMC body empty)
