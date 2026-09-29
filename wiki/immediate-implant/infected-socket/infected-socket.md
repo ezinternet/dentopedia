@@ -2,7 +2,7 @@
 title: "즉시식립·감염치조부 — infected-socket"
 authors: navigation
 year: 2026
-date: 2026-08-11
+date: 2026-09-29
 doi: N/A
 source: navigation
 category: immediate-implant/infected-socket
@@ -15,20 +15,20 @@ tags: [navigation, category-index, infected-socket]
 > [!summary] 한국어 핵심요약
 > - **분야**: 즉시식립·감염치조부
 > - **범위**: IIP into infected/compromised extraction sockets — periapical/endodontic pathology (acute vs chronic) & periodontitis-compromised sites; decontamination + antibiotic protocols, immediate provisionalization in infected zones, survival/MBL/WKG vs non-infected controls; acute-purulent/sinus-perforation…
-> - **수록 논문**: 14편
+> - **수록 논문**: 15편
 
 ## Three-line Summary
 
 **Scope**: IIP into infected/compromised extraction sockets — periapical/endodontic pathology (acute vs chronic) & periodontitis-compromised sites; decontamination + antibiotic protocols, immediate provisionalization in infected zones, survival/MBL/WKG vs non-infected controls; acute-purulent/sinus-perforation contraindication threshold.
-**Indexed papers**: 14 papers in `wiki/immediate-implant/infected-socket/`.
+**Indexed papers**: 15 papers in `wiki/immediate-implant/infected-socket/`.
 
 ## 세줄요약
 
 **분야**: 즉시식립·감염치조부
-**수록 논문**: 14편
+**수록 논문**: 15편
 **하위 카테고리**: 없음
 
-## Papers in this Category (14)
+## Papers in this Category (15)
 
 | Paper |
 |---|
@@ -37,6 +37,7 @@ tags: [navigation, category-index, infected-socket]
 | [[blus-2015-immediate-implants-infected-noninfected-ultrasonic|Immediate Implants Placed in Infected and Noninfected Sites after Atraumatic Tooth Extraction and Placement with Ultrasonic Bone Surgery]] |
 | [[chrcanovic-2015-immediate-placement-implants-infected-sites|Immediate Placement of Implants into Infected Sites: A Systematic Review]] |
 | [[colak-2023-immediate-implant-periapical-pathology-retrospective|Survival rates of immediate implants placed in extraction sockets with chronic periapical pathology]] |
+| [[de-oliveira-neto-2019-immediate-dental-implants-placed-into|Immediate dental implants placed into infected sites present a higher risk of failure than immediate dental implants placed into non-infected sites: Systematic review and meta-analysis]] |
 | [[espada-salgado-2026-immediate-implant-infected-socket-scoping-review|Immediate implant placement in infected extraction sockets: A scoping review of case selection, decontamination protocols, clinical outcomes and complications]] |
 | [[lee-2018-comparison-immediate-implant-placement-infected|Comparison of immediate implant placement in infected and non-infected extraction sockets: a systematic review and meta-analysis]] |
 | [[li-2025-immediate-implant-periodontitis-short-term-retrospective|A short-term clinical evaluation of immediate implant placement in periodontitis patients]] |
