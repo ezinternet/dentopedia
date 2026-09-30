@@ -18,6 +18,22 @@ SR of 37 studies: solution-based endodontic irrigants are superior to gel-based 
 ## 한줄요약
 SR (37편): 용액형 근관 세정제가 젤형보다 항균·세정·기구 안전성 전반에서 우위 — 젤-NaOCl 슬러지가 기구 피로도·파일 분리 위험 증가; 젤 사용 시 반드시 충분한 용액 세정 후속 필요.
 
+## Three-line Summary
+
+Systematic review of 37 studies (in vitro, ex vivo and clinical) comparing gel-based with solution-based endodontic irrigants, synthesised narratively without pooling.
+
+Solutions gave better smear layer removal, cleaning and antimicrobial activity, whereas gels mixed with dentinal debris into sludge that increased torsional and cyclic fatigue and file separation risk; clinical trials showed no gel advantage in bacterial load or postoperative pain.
+
+Use solution irrigants as the primary irrigant and, if a gel is used for lubrication, follow it with thorough solution irrigation; the evidence is heterogeneous with few high-quality clinical RCTs.
+
+## 세줄요약
+
+젤형과 용액형 근관 세정제를 비교한 37편 (in vitro, ex vivo, 임상)의 체계적 문헌고찰로, 풀링 없이 서술적으로 종합했다.
+
+용액형이 도말층 제거·세정력·항균 효과에서 우수했고, 젤은 상아질 잔사와 섞여 슬러지를 만들어 비틀림·반복 피로와 파일 파절 위험을 높였으며, 임상시험에서 젤은 세균 감소나 술 후 통증에서 이점이 없었다.
+
+용액형을 기본 세정제로 쓰고 윤활 목적으로 젤을 쓰면 반드시 용액 세정을 충분히 이어서 한다; 연구 간 이질성이 크고 고품질 임상 RCT는 적다.
+
 ## 1. Document Information
 - **Journal**: European Endodontic Journal, Vol. 10(6), pp. 447–455, 2025 (Dec)
 - **Publication date**: 2025-Dec
