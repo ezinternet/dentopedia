@@ -18,6 +18,22 @@ Narrative review (10 in vitro, 9 animal, 1 clinical study) showing GLP-1RAs prom
 ## 한줄요약
 GLP-1RA(엑세나타이드·리라글루타이드)가 혈당 강하와 독립적으로 임플란트 주위 골형성과 치주 염증을 개선함을 10개 in vitro·9개 동물·1개 임상 연구로 종합한 내러티브 리뷰.
 
+## Three-line Summary
+
+Narrative review of 20 studies (10 in vitro, 9 animal, 1 clinical) on GLP-1 receptor agonists and peri-implant/periodontal bone.
+
+GLP-1RAs (exenatide, liraglutide) promoted osteogenic differentiation via Wnt/β-catenin and MAPK, enhanced osseointegration in diabetic rats and reduced periodontal bone loss, largely independent of glucose lowering; the single clinical study showed less attachment and radiographic bone loss than insulin or metformin (p<0.01).
+
+The clinical evidence is one retrospective study with no RCT, so the effect is hypothesis-generating; optimal agent, dose and timing relative to placement are unknown.
+
+## 세줄요약
+
+GLP-1 수용체 작용제 (GLP-1 Receptor Agonist, GLP-1RA)가 임플란트 주위 골과 치주골에 미치는 영향을 20편 (in vitro 10, 동물 9, 임상 1)으로 종합한 내러티브 리뷰다.
+
+엑세나타이드·리라글루타이드는 Wnt/β-catenin과 MAPK 경로로 골형성 분화를 촉진하고 당뇨 흰쥐에서 골유착을 강화하며 치주 골소실을 줄였고, 대부분 혈당 강하와 독립적이었다; 유일한 임상 연구에서는 인슐린·메트포르민군보다 부착소실과 방사선 골소실이 적었다 (p<0.01).
+
+임상 근거는 후향적 연구 1편뿐이고 RCT가 없어 가설 수준이다; 최적 약제·용량·식립 대비 투여 시점은 알려져 있지 않다.
+
 ## 1. Document Information
 - Journal: Journal of Periodontal Research, Vol. 60, No. 5, pp. 450–465
 - Published: 2025-05-09
