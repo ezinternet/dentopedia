@@ -4,7 +4,7 @@ authors: Pachiou A, Singh R, Jung RE, Balmer M, Benic GI, Ioannidis A
 year: 2026
 date: 2026-08-21
 doi: 10.1111/clr.70160
-source: sources/pachiou-2026-monolithic-zirconia-pfm-implant-fdp-rct.md
+source: pachiou-2026-monolithic-zirconia-pfm-implant-fdp-rct.md
 category: prosthetic-materials
 evidence_level: rct
 source_collection: pubmed-abstract
