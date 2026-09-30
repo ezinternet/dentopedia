@@ -9,7 +9,7 @@ volume: "26"
 issue: "1"
 source: "kavasoglu-2026-maa-vs-activator-cbct-volumes.md"
 category: orthodontics/clear-aligner
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-text
 text_path: /Users/oracleneo/llm-wiki/papers/kavasoglu-2026-maa-vs-activator-cbct-volumes.txt
 text_filename: kavasoglu-2026-maa-vs-activator-cbct-volumes.txt
