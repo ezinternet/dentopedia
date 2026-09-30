@@ -30,6 +30,12 @@ source_papers:
   - drug/antibiotics/bwire-2025-postoperative-antibiotic-prophylaxis-discontinuation-umbrella-review
   - drug/antibiotics/esposito-2013-antibiotics-dental-implant-placement-cochrane
   - drug/antibiotics/esposito-2026-antibiotics-implant-placement-cochrane-pub5
+  - drug/antibiotics/teoh-2021-oral-antibiotic-empirical-acute-dentoalveolar-infections
+  - drug/antibiotics/shamszadeh-2020-antibiotics-postoperative-endodontic-symptoms-sr
+  - drug/antibiotics/ramsey-2022-penicillin-allergy-perioperative-anaphylaxis
+  - drug/antibiotics/salgado-peralvo-2021-penicillin-allergy-risk-factor-early-implant-failure
+  - drug/antibiotics/salgado-peralvo-2022-consensus-preventive-antibiotic-therapy-dental-implant
+  - drug/antibiotics/ceccon-chianca-2026-oral-streptococci-ie-prophylaxis-resistance
   - drug/antibiotics/kwon-2023-microbial-isolates-antibiotic-sensitivity-odontogenic
   - drug/antibiotics/liu-2024-antibiotic-prophylaxis-surgical-nonsurgical-safety-umbrella-review
   - drug/antibiotics/lockhart-2019-antibiotic-pulpal-periapical-pain-swelling
@@ -78,7 +84,7 @@ agenda: agenda/2026-05-27_drug-overview-split.md
 
 ## Three-line Summary
 
-Synthesis of 41 papers (8 SR+MA, 4 umbrella SR, 3 SR, 2 RCTs, 2 guidelines/consensus, 2 narrative, 3 prescribing-behavior surveys, 2 retrospective/pharmacoepi) on dental antibiotic stewardship: the first principle is restrictive prescribing — infective endocarditis (IE) prophylaxis is limited to the 4 highest-risk cardiac groups (Wilson 2021 AHA; Sperotto 2024 SR+MA n=1.15M); simple extractions in intact dentition need no prophylaxis (Lodi 2021 Cochrane); single perioperative dosing suffices for most oral surgery; >24 h extension raises antimicrobial resistance without reducing infection (Mohammadpour 2025 scoping, 125 papers).
+Synthesis of 49 papers (16 SR+MA incl. umbrella reviews, 6 SR, 2 RCTs, 4 guidelines/consensus, 8 narrative reviews, 6 cross-sectional prescribing surveys, 5 retrospective, 1 prospective, 1 in silico) on dental antibiotic stewardship: the first principle is restrictive prescribing — infective endocarditis (IE) prophylaxis is limited to the 4 highest-risk cardiac groups (Wilson 2021 AHA; Sperotto 2024 SR+MA n=1.15M); simple extractions in intact dentition need no prophylaxis (Lodi 2021 Cochrane); single perioperative dosing suffices for most oral surgery; >24 h extension raises antimicrobial resistance without reducing infection (Mohammadpour 2025 scoping, 125 papers).
 
 Among drug choices, amoxicillin is first-line (adverse-event rate 21.5/million, fatality 0.1/million) and clindamycin should be avoided (fatality 2.9/million, mostly C. difficile — Thornhill 2019 NHS 7-year data); local antibiotic delivery equals 7-day systemic course in periodontal outcomes while minimizing systemic AMR burden (Milinkovic 2025 RCT; Aimetti 2025 RCT NNT=2.73); prescribing-behavior surveys from Singapore, Iran, and Germany (2026) confirm widespread over-prescribing against guidelines — knowledge–performance gap.
 
@@ -86,7 +92,7 @@ Audit-and-feedback (A&F) interventions reduce inappropriate prescribing by 70% (
 
 ## 세줄요약
 
-치과 항생제 25편(SR+MA 7·umbrella SR 4·SR 3·RCT 2·지침·합의 2·narrative 2·처방행태 3·retrospective 2) 통합: 1차 원칙은 제한(restrictive) — 감염성 심내막염(Infective Endocarditis, IE) 예방은 4개 최고위험 심장군만(Wilson 2021·Sperotto 2024 n=1.15M); 단순 발치 예방 처방 효과 없음(Lodi 2021 Cochrane); 구강외과 대부분 술기에 단일 술전 투약으로 충분, 24시간 초과 연장은 항균제 내성(Antimicrobial Resistance, AMR)만 증가(Mohammadpour 2025 125편).
+치과 항생제 49편(SR+MA·umbrella 16·SR 6·RCT 2·지침·합의 4·narrative 8·처방행태 단면조사 6·retrospective 5·prospective 1·in silico 1) 통합: 1차 원칙은 제한(restrictive) — 감염성 심내막염(Infective Endocarditis, IE) 예방은 4개 최고위험 심장군만(Wilson 2021·Sperotto 2024 n=1.15M); 단순 발치 예방 처방 효과 없음(Lodi 2021 Cochrane); 구강외과 대부분 술기에 단일 술전 투약으로 충분, 24시간 초과 연장은 항균제 내성(Antimicrobial Resistance, AMR)만 증가(Mohammadpour 2025 125편).
 
 약물 선택: 아목시실린(Amoxicillin) 1차(부작용 21.5/백만·치명 0.1/백만), 클린다마이신(Clindamycin) 회피(치명 2.9/백만, 대부분 C. difficile; Thornhill 2019 NHS 7년); 치주 깊은 낭에는 국소 전달 항생제(Local Delivery, LD)가 7일 전신 코스와 동등하고 전신 AMR 최소화(Milinkovic 2025·Aimetti 2025 RCT NNT=2.73); 싱가포르·이란·독일 2026 처방 행태 조사 — 가이드라인 대비 과처방 광범위, 지식↔수행 괴리.
 
@@ -155,6 +161,13 @@ Audit-and-feedback (A&F) interventions reduce inappropriate prescribing by 70% (
 - Orire 2026 (focused review, 11편, 1970–2024) — 임상적으로 유의한 disulfiram-유사 반응의 근거 **빈약**; 인과 입증된 사례 드묾. [확인]
 - 임상 함의: 절대 금기라기보다 **근거 약한 통념**. 다만 환자 안심·의무기록 차원에서 치료 중~종료 후 24–48h 음주 자제 안내는 유지 가능. 최종 판단은 처방자 몫. [미검증]
 
+**페니실린 알레르기 환자의 대체 약물 (Penicillin Allergy Alternatives)**
+- 라벨의 신뢰도: Ramsey 2022 (narrative review) — 페니실린 알레르기 보고는 인구의 ~10%이나 대부분 진짜 알레르기가 아니며, 페니실린-세팔로스포린 이중 알레르기는 0.7% (과거 8–10% 수치보다 훨씬 낮음). 수술 전 직접 유발검사로 저위험군 대부분이 라벨 제거 가능. [narrative]
+- 임플란트에서의 결과: Salgado-Peralvo 2021 SR (관찰연구 5편, 메타분석 없음) — 알레르기 환자(Clindamycin 투여)의 조기 실패 24.68% 대 비알레르기(Amoxicillin) 8.03% (RR 3.84). 그러나 5편 중 4편이 자가보고·미확인 알레르기이고 약물과 알레르기가 교락(confounding)되어 **알레르기 자체가 위험인자라고 단정할 수 없다**. [확인]
+- 권고: Salgado-Peralvo 2022 SEI 합의 (전문가 12인, GRADE) — 알레르기 환자는 Clindamycin 회피, 식립 시 Azithromycin 500 mg 술전 1시간 (GRADE C); 즉시 식립·상악동거상술 대체 요법은 GRADE D (근거 수준 낮음). [consensus]
+- 내성 한계: Ceccon-Chianca 2026 (in silico 유전체 분석, 심내막염 Streptococcus 258균주) — 구강 연쇄상구균에서 Amoxicillin 내성 유전자 0건 (1차 IE 예방 요법 타당), 그러나 Azithromycin 내성 예측 24.88%·Doxycycline 16.59% — 두 약 모두 알레르기 대체제라 대체 요법 재평가 필요. 유전자 예측이지 임상 결과가 아님. [in-vitro]
+- 종합: 알레르기 라벨 확인(평가)이 대체 약물 선택보다 먼저이며, 대체제(Azithromycin·Doxycycline) 자체의 내성 부담이 작지 않다.
+
 ---
 
 ## 3. 처치별 항생제 결정 트리
@@ -204,10 +217,11 @@ Audit-and-feedback (A&F) interventions reduce inappropriate prescribing by 70% (
 [확인] De Angelis 2025 SR — 단순 발치에는 효과 미미. **매복·외과적 발치**에 한정 적응. 일관된 prophylaxis 권고는 없음 (수술 침습도·환자 risk factor 통합 판단).
 
 ### 4-3. 임플란트
-[확인] Torof 2023 SR-MA — preoperative **단일 Amoxicillin 2g**가 술후 감염 예방의 표준 권고. 다회 dose·연장 코스는 추가 효과 없음. Esposito 2026 Cochrane pub5 (RCT 15편, 2,874명) — 술전 단일 2g이 임플란트 실패 RR 0.34 (NNT 19, moderate 확실성)로 감소, 단일 = 다회 (low 확실성); 이중맹검 한정 Momand 2024 (RR 0.66, 비유의)와 방향이 갈리므로 예방 효과의 크기는 포함 기준에 민감. Mohammadpour 2025 스코핑 리뷰: 복잡/골이식 임플란트는 perioperative ≤24h 허용; 이후 연장은 불필요.
+[확인] Torof 2023 SR-MA — preoperative **단일 Amoxicillin 2g**가 술후 감염 예방의 표준 권고. 다회 dose·연장 코스는 추가 효과 없음. Esposito 2026 Cochrane pub5 (RCT 15편, 2,874명) — 술전 단일 2g이 임플란트 실패 RR 0.34 (NNT 19, moderate 확실성)로 감소, 단일 = 다회 (low 확실성); 이중맹검 한정 Momand 2024 (RR 0.66, 비유의)와 방향이 갈리므로 예방 효과의 크기는 포함 기준에 민감. Salgado-Peralvo 2022 SEI 합의 — 통상 식립 Amoxicillin 2–3 g 술전 1시간 (GRADE A), 술후·연장 투여 불필요, 단순 증례에서 비처방도 허용 (GRADE B); 보철 단계는 불필요 (GRADE D). Mohammadpour 2025 스코핑 리뷰: 복잡/골이식 임플란트는 perioperative ≤24h 허용; 이후 연장은 불필요.
 
 ### 4-4. 치근단치주염 (Apical Periodontitis, AP)
 [확인] Mendez-Millan 2024 SR-MA — 치과의사의 AP 항생제 처방 과잉처방률 정량. 비적응 케이스에 광범위 항생제 흔함. **근관치료가 1차** (ESE/AAE 입장). 전신 증상 없는 AP에 항생제는 부적절.
+Shamszadeh 2020 SR+MA (RCT 8편 n=690 통증, 4편 n=149 부종) — 괴사치수 근관치료 후 예방적 경구 항생제는 술후 통증·부종을 유의하게 줄이지 못함 (6–72시간 전 시점). Teoh 2021 SR (8편) — 급성 치조농양 경험적 치료에서 스펙트럼과 무관하게 거의 모든 요법이 임상 성공, **배농·원인 제거가 성패의 주 결정 요인**; 건강한 성인은 좁은 스펙트럼 우선, 배농 가능 시 무항생제 관리도 정당. [확인]
 
 ### 4-5. 치주치료 (SRP) 전신 항생제 보조요법
 [확인] Botelho 2025 우산형 고찰 (44 SR, 221 메타분석, 2024년 3월까지) — 전신 항생제의 통계적으로 강력한 CAL 개선 추정치가 있음:
@@ -338,12 +352,26 @@ GRADE 확실성: 항생제의 감염 예방 효과는 **낮음**, 임플란트 �
 | 국소 vs 전신 항생제 치주 동등 | 낮음 (단일 소규모 RCT) | Milinkovic 2025 |
 | 단기 DOX 소아 치아 착색 위험 낮음 | 낮음 (SR+MA, 5편, n=162) | Rajan 2025 |
 | 인공관절 루틴 prophylaxis 권고 안 함 | 합의 (narrative + AAOS·ADA 입장) | Vidovic-Juras 2024 |
+| 임플란트 술전 단일 2g 조기 실패 감소 (Cochrane pub5, NNT 19) | 중간 (SR+MA, RCT 15편) | Esposito 2026 |
+| 근관치료 후 예방 항생제 술후 통증·부종 무효 | 중간 (SR+MA, RCT 8편) | Shamszadeh 2020 |
+| 급성 치조농양은 배농이 핵심·좁은 스펙트럼 충분 | 낮음~중간 (SR 8편) | Teoh 2021 |
+| 페니실린 알레르기가 임플란트 실패 위험인자라는 단정 불가 | 낮음 (SR, 관찰연구 5편, 교락) | Salgado-Peralvo 2021 |
+| 알레르기 라벨 대부분 오류·세팔로스포린 교차반응 ~3% 이하 | 낮음 (narrative) | Ramsey 2022 |
+| 알레르기 대체제(Azithromycin·Doxycycline) 내성 예측 16–25% | 매우 낮음 (in silico) | Ceccon-Chianca 2026 |
 | Amoxicillin 최저 부작용·치명률 | 강함 (NHS 7년 데이터) | Thornhill 2019 |
 | Clindamycin 회피 (C. difficile) | 강함 (NHS 7년 데이터) | Thornhill 2019 |
 
 ---
 
 ## Related Papers
+
+### 신규 통합 cluster — 알레르기 대체제·경험적 치료·술후 증상 (2026-09-30 종합 반영, 6편)
+- [[drug/antibiotics/ramsey-2022-penicillin-allergy-perioperative-anaphylaxis]] — narrative review: 페니실린 알레르기 라벨 ~10% 대부분 오류, 이중 알레르기 0.7%, 세팔로스포린 대체 가능 (narrative, 2022)
+- [[drug/antibiotics/salgado-peralvo-2021-penicillin-allergy-risk-factor-early-implant-failure]] — SR (관찰 5편): Clindamycin 투여 알레르기군 조기 실패 RR 3.84, 그러나 자가보고·교락 (sr, 2021)
+- [[drug/antibiotics/salgado-peralvo-2022-consensus-preventive-antibiotic-therapy-dental-implant]] — SEI 합의 (GRADE): 술전 Amoxicillin 2–3 g, 알레르기 시 Azithromycin 500 mg (consensus, 2022)
+- [[drug/antibiotics/ceccon-chianca-2026-oral-streptococci-ie-prophylaxis-resistance]] — in silico: 구강 연쇄상구균 Amoxicillin 내성 유전자 0건, Azithromycin 24.88%·Doxycycline 16.59% 내성 예측 (in-vitro, 2026)
+- [[drug/antibiotics/shamszadeh-2020-antibiotics-postoperative-endodontic-symptoms-sr]] — SR+MA (RCT 8편): 근관치료 후 예방 항생제 술후 통증·부종 무효 (sr+ma, 2020)
+- [[drug/antibiotics/teoh-2021-oral-antibiotic-empirical-acute-dentoalveolar-infections]] — SR (8편): 급성 치조농양 경험적 항생제, 배농이 핵심 (sr, 2021)
 
 ### 신규 ingest cluster — prophylaxis 중단·임플란트·경험적 선택·안전성 (2026-07-15, 4편)
 
