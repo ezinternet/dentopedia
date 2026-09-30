@@ -4,7 +4,7 @@ authors: Alshahrani FA, (et al.)
 year: 2026
 date: 2026-01-01
 doi: 10.1111/jopr.70123
-source: sources/alshahrani-2026-full-arch-monolithic-zirconia-prostheses-5year-retrospective.md
+source: alshahrani-2026-full-arch-monolithic-zirconia-prostheses-5year-retrospective.md
 category: implants/full-arch
 evidence_level: retrospective
 source_collection: pubmed-abstract
