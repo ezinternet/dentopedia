@@ -29,6 +29,7 @@ source_papers:
   - periodontics/aimetti-2025-doxycycline-local-delivery-periodontal-regeneration-rct
   - drug/antibiotics/bwire-2025-postoperative-antibiotic-prophylaxis-discontinuation-umbrella-review
   - drug/antibiotics/esposito-2013-antibiotics-dental-implant-placement-cochrane
+  - drug/antibiotics/esposito-2026-antibiotics-implant-placement-cochrane-pub5
   - drug/antibiotics/kwon-2023-microbial-isolates-antibiotic-sensitivity-odontogenic
   - drug/antibiotics/liu-2024-antibiotic-prophylaxis-surgical-nonsurgical-safety-umbrella-review
   - drug/antibiotics/lockhart-2019-antibiotic-pulpal-periapical-pain-swelling
@@ -72,12 +73,12 @@ agenda: agenda/2026-05-27_drug-overview-split.md
 > - **ADA 가이드라인 증거 기반 (Lockhart 2019 + Tampi 2019)**: 치수염·치근단통증에 항생제 금지(강한 권고); Tampi 2019 SR+MA — 3개 RCT만 포함, 모든 결과에서 VAS 0-3 기준 MD 0.09-0.39로 임상적 의미 없음; 항생제 내성 연간 23,000명 사망(CDC). [확인]
 > - **근관치료 후 항생제 처방 (Law 2026, 미국 PBRN)**: 153명 치과의사·1,723명 환자 — 19%가 근관치료 후 항생제 복용(가이드라인 대비 과잉); 소수 인종·저학력 환자에게 더 많이 처방(형평성 격차); AP(OR=1.56)·TTP(OR=1.40)가 처방 증가 인자. [확인]
 > - **근관치료 항생제 종합 (Segura-Egea 2017, 유럽 Working Group)**: 60여 년문 종합 — SIP·치수괴사·국소 농양에는 항생제 무효, 배농이 1차; 유럽 치과의사 40-86%가 금기 처방; Amoxicillin 1차, Clindamycin 대체. [확인]
-> - **임플란트 예방 불필요 (Momand 2024 SR+MA)**: 위약대조 이중맹검 RCT 7편만 포함 — RR 0.66(0.30-1.47), NNT 143; 즉시 발치 후 임플란트 제외 시 방향 역전(RR 1.10) → 건강 환자 비복잡 임플란트에 예방 불필요. [확인]
+> - **임플란트 예방 — 근거는 갈린다, 실무 규칙은 술전 단일 2g 유지**: Esposito 2026 Cochrane pub5 (RCT 15편, 2,874명; pub4 2013을 대체) — 술전 Amoxicillin 2g 위약 대비 조기 임플란트 실패 RR 0.34 (95% CI 0.22–0.53), 필요치료수 (Number Needed to Treat, NNT) 19, 보철물 실패·술후 감염도 감소 (전부 moderate 확실성); 단일 투여 = 다회 투여, 술전 vs 술후·Amoxicillin vs Clindamycin 무차이 (low 확실성). 반면 Momand 2024 SR+MA는 위약대조 이중맹검 RCT 7편만 포함해 RR 0.66 (0.30–1.47), NNT 143 비유의, 즉시 발치 후 임플란트 제외 시 방향 역전 (RR 1.10) — 포함 기준(이중맹검 한정)이 다른 두 SR+MA가 반대 방향을 가리키므로 "건강 환자 비복잡 임플란트에 예방 불필요"로 단정할 수 없다. 두 결과가 공통으로 지지하는 것은 **다회·연장 투여는 이득 없음**이며, 처방한다면 술전 단일 2g가 최소 개입이다. [확인]
 > - **소아 항생제 처방 (Goel 2020)**: 소아 치과 항생제 처방 종합 — 적응증·용량·안전성 고려 필요. [확인]
 
 ## Three-line Summary
 
-Synthesis of 40 papers (7 SR+MA, 4 umbrella SR, 3 SR, 2 RCTs, 2 guidelines/consensus, 2 narrative, 3 prescribing-behavior surveys, 2 retrospective/pharmacoepi) on dental antibiotic stewardship: the first principle is restrictive prescribing — infective endocarditis (IE) prophylaxis is limited to the 4 highest-risk cardiac groups (Wilson 2021 AHA; Sperotto 2024 SR+MA n=1.15M); simple extractions in intact dentition need no prophylaxis (Lodi 2021 Cochrane); single perioperative dosing suffices for most oral surgery; >24 h extension raises antimicrobial resistance without reducing infection (Mohammadpour 2025 scoping, 125 papers).
+Synthesis of 41 papers (8 SR+MA, 4 umbrella SR, 3 SR, 2 RCTs, 2 guidelines/consensus, 2 narrative, 3 prescribing-behavior surveys, 2 retrospective/pharmacoepi) on dental antibiotic stewardship: the first principle is restrictive prescribing — infective endocarditis (IE) prophylaxis is limited to the 4 highest-risk cardiac groups (Wilson 2021 AHA; Sperotto 2024 SR+MA n=1.15M); simple extractions in intact dentition need no prophylaxis (Lodi 2021 Cochrane); single perioperative dosing suffices for most oral surgery; >24 h extension raises antimicrobial resistance without reducing infection (Mohammadpour 2025 scoping, 125 papers).
 
 Among drug choices, amoxicillin is first-line (adverse-event rate 21.5/million, fatality 0.1/million) and clindamycin should be avoided (fatality 2.9/million, mostly C. difficile — Thornhill 2019 NHS 7-year data); local antibiotic delivery equals 7-day systemic course in periodontal outcomes while minimizing systemic AMR burden (Milinkovic 2025 RCT; Aimetti 2025 RCT NNT=2.73); prescribing-behavior surveys from Singapore, Iran, and Germany (2026) confirm widespread over-prescribing against guidelines — knowledge–performance gap.
 
@@ -203,7 +204,7 @@ Audit-and-feedback (A&F) interventions reduce inappropriate prescribing by 70% (
 [확인] De Angelis 2025 SR — 단순 발치에는 효과 미미. **매복·외과적 발치**에 한정 적응. 일관된 prophylaxis 권고는 없음 (수술 침습도·환자 risk factor 통합 판단).
 
 ### 4-3. 임플란트
-[확인] Torof 2023 SR-MA — preoperative **단일 Amoxicillin 2g**가 술후 감염 예방의 표준 권고. 다회 dose·연장 코스는 추가 효과 없음. Mohammadpour 2025 스코핑 리뷰: 복잡/골이식 임플란트는 perioperative ≤24h 허용; 이후 연장은 불필요.
+[확인] Torof 2023 SR-MA — preoperative **단일 Amoxicillin 2g**가 술후 감염 예방의 표준 권고. 다회 dose·연장 코스는 추가 효과 없음. Esposito 2026 Cochrane pub5 (RCT 15편, 2,874명) — 술전 단일 2g이 임플란트 실패 RR 0.34 (NNT 19, moderate 확실성)로 감소, 단일 = 다회 (low 확실성); 이중맹검 한정 Momand 2024 (RR 0.66, 비유의)와 방향이 갈리므로 예방 효과의 크기는 포함 기준에 민감. Mohammadpour 2025 스코핑 리뷰: 복잡/골이식 임플란트는 perioperative ≤24h 허용; 이후 연장은 불필요.
 
 ### 4-4. 치근단치주염 (Apical Periodontitis, AP)
 [확인] Mendez-Millan 2024 SR-MA — 치과의사의 AP 항생제 처방 과잉처방률 정량. 비적응 케이스에 광범위 항생제 흔함. **근관치료가 1차** (ESE/AAE 입장). 전신 증상 없는 AP에 항생제는 부적절.
@@ -349,7 +350,8 @@ GRADE 확실성: 항생제의 감염 예방 효과는 **낮음**, 임플란트 �
 이 4편은 stewardship 3대 원칙(① 단일 preop 용량만·연장 금지, ② 적응증 좁히기, ③ 경험적 선택은 지역 감수성 기반)을 각각 실증한다:
 
 - [[drug/antibiotics/bwire-2025-postoperative-antibiotic-prophylaxis-discontinuation-umbrella-review]] — Umbrella + pooled MA (9 reviews, 80,483명): 절개봉합 시점 즉시 중단 vs 24h 이상 지속 = SSI 차이 없음 **RR 1.07 (0.97–1.17), p=0.22**. 술후 연장 예방은 무익 → de-implement 최우선 타깃. (일반외과 근거, AMSTAR-2 0/28 high — 근거질 약함) (sr+ma, 2025)
-- [[drug/antibiotics/esposito-2013-antibiotics-dental-implant-placement-cochrane]] — Cochrane SR+MA (6 RCT, 1,162명): 단일 preop amoxicillin 2–3g가 조기 임플란트 실패 유의 감소 **RR 0.33 (0.16–0.67), NNTB 25**; 그러나 술후 연장은 이득 없음(Nolan 4-arm 무정보), 부작용 신호 없음. 엄격 재분석(momand-2024)은 RR 0.66·NNT 143·비유의로 근거 취약성 노출. Moderate GRADE, amoxicillin only. (sr+ma, 2013)
+- [[drug/antibiotics/esposito-2026-antibiotics-implant-placement-cochrane-pub5]] — Cochrane SR+MA pub5 (15 RCT, 2,874명): 술전 단일 Amoxicillin 2g 조기 임플란트 실패 RR 0.34 (0.22–0.53), NNT 19, moderate 확실성; 단일 = 다회; pub4를 대체하는 현행 Cochrane 기준 (sr+ma, 2026)
+- [[drug/antibiotics/esposito-2013-antibiotics-dental-implant-placement-cochrane]] — *superseded by pub5 (2026)* — Cochrane SR+MA (6 RCT, 1,162명): 단일 preop amoxicillin 2–3g가 조기 임플란트 실패 유의 감소 **RR 0.33 (0.16–0.67), NNTB 25**; 그러나 술후 연장은 이득 없음(Nolan 4-arm 무정보), 부작용 신호 없음. 엄격 재분석(momand-2024)은 RR 0.66·NNT 143·비유의로 근거 취약성 노출. Moderate GRADE, amoxicillin only. (sr+ma, 2013)
 - [[drug/antibiotics/dubedout-2025-antibiotic-prophylaxis-early-complications]] — SR (이중맹검 위약대조 전용 7 RCT, 1,846명): 전 시험에서 임플란트 실패·합병증 유의차 없음(전부 p > 0.05); 유일 유의 결과는 Nolan 7일 통증 감소(p=0.016); 이중맹검 필터 적용 후 momand-2024 결론 독립 재확인 — 건강한 환자 루틴 항생제 예방투여 비권고. AMR·가이드라인(AFSSAPS 2011·EAO 2015·ITI) 부합. (sr, 2025)
 - [[drug/antibiotics/kwon-2023-microbial-isolates-antibiotic-sensitivity-odontogenic]] — 10년 후향 단일센터 한국(n=192, 302 균주): 치성 근막공간 농양 배양 — viridans strep penicillin-G 감수성 **68.4%→52.0%로 하락**, 3세대 cephalosporin ~94–95% 유지, 심경부공간엔 내성 Gram음성(Klebsiella, ampicillin 100% 내성) 증가. Penicillin 단독 경험요법은 입원·중증에 부적절, 배양 필수. (retrospective, 2023)
 - [[drug/antibiotics/liu-2024-antibiotic-prophylaxis-surgical-nonsurgical-safety-umbrella-review]] — Umbrella of RCTs (75 SR, 725 RCT, 163,832명, 78 시나리오): 예방효과는 "clean vs dirty" 직관과 무관하게 시나리오별 상이(119개 중 유의 56.3%, 확실은 34개뿐); **실제 harm 존재**(내성 RR 1.73, 부작용 RR up to 3.32) — routine 아닌 case-by-case. GRADE 70% low/very-low. (sr+ma, 2024)
