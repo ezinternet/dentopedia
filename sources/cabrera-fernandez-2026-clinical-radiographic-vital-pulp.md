@@ -18,6 +18,22 @@ SR+MA of 9 RCTs: RM-CSMs (TheraCal LC) show comparable short-term clinical succe
 ## 한줄요약
 SR+MA (9 RCTs): 레진함유 칼슘실리케이트(RM-CSM, TheraCal LC)는 단기 임상 성공률은 NRM-CSM과 동등하나 360일 상아교 형성이 유의하게 열등(RR 0.85, CI 0.76–0.95) — 조작성 우선 시 RM-CSM 허용, 생물활성 극대화 시 NRM-CSM.
 
+## Three-line Summary
+
+Systematic review and meta-analysis of 9 RCTs comparing resin-modified (RM-CSM, TheraCal LC) with non-resin-modified calcium silicate materials (NRM-CSM) in vital pulp therapy.
+
+Overall clinical success was equivalent at 90 and 180 days (RR 1.01 and 0.97; 360 days RR 0.89, 0.69–1.13, I² 69%), but dentin bridge formation at 360 days was significantly lower with RM-CSM (RR 0.85, 95% CI 0.76–0.95, I² 0%).
+
+RM-CSM is acceptable when handling matters, while NRM-CSM is preferable to maximise bioactive dentin bridging; conclusions apply only to TheraCal LC in permanent teeth with follow-up mostly under 2 years.
+
+## 세줄요약
+
+생활치수치료에서 레진 함유 칼슘실리케이트 (RM-CSM, TheraCal LC)와 비함유 칼슘실리케이트 (NRM-CSM)를 비교한 RCT 9편의 체계적 문헌고찰 및 메타분석 (SR+MA)이다.
+
+전체 임상 성공률은 90일·180일에 동등했으나 (RR 1.01, 0.97; 360일 RR 0.89, 0.69–1.13, I² 69%), 360일 상아교 (dentin bridge) 형성은 RM-CSM에서 유의하게 낮았다 (RR 0.85, 95% CI 0.76–0.95, I² 0%).
+
+조작성이 우선이면 RM-CSM도 허용되지만 생체활성 상아교 형성을 극대화하려면 NRM-CSM이 유리하다; 결론은 영구치의 TheraCal LC에 한정되며 추적기간은 대부분 2년 미만이다.
+
 ## 1. Document Information
 - **Journal**: Journal of Functional Biomaterials, Vol. 17(1), 2026
 - **PMC**: PMC12842132
