@@ -2113,6 +2113,7 @@ tags: []
 - [[oral-medicine/salivary-chemosensory/tsuchiya-2023-covid-19-oral-sequelae-gustatory-saliva]] — Tsuchiya 2023 · narrative-review · 코로나19 완치 후 미각장애 1–45%·침분비저하 2–40% 지속(3주–12개월), 두 증상 상관관계; ACE2/TRPV1 수용체·아연결핍 공통기전 (DOI 10.1159/000531373)
 - [[oral-medicine/salivary-chemosensory/sijan-gobeljic-2020-sjogren-chemosensory-oral-disorders-cross-sectional]] — Šijan Gobeljić 2020 · cross-sectional · 쇼그렌증후군 58명 vs 대조군 55명: 미각이상 dysgeusia 52.6%·설작열감 45.6%·무후각 OR 5.2, 침분비량과의 상관은 약함(별개 염증기전 시사) (DOI 10.1186/s12903-020-01169-5)
 - [[oral-medicine/salivary-chemosensory/kohli-2023-medication-induced-xerostomia-orofacial-pain]] — 약물 유발 구강건조증-구강안면통증 SR(7편, n=1,029): 양의 연관성 보고(구강건조 점수 7.14 vs 5.04, p<0.001), 타액유량-약물 사용 연관성은 없음, RCT 1편뿐이라 근거 수준 낮음
+- [[oral-medicine/salivary-chemosensory/prado-mel-2022-anticholinergic-activity-xerostomia-xerophthalmia-elderly]] — 65세 이상 항콜린 약물 사용·부담과 구강건조증 SR(10편): 4편에서 사용-구강건조증 유의 연관, 구강건조증 유병률 10.6–59.2%, 안구건조증(5.1–34%)은 근거 부족, 유일한 RCT는 4주 후 침 분비 변화 없음
 - [[oral-medicine/salivary-chemosensory/morelli-2023-radiation-dose-taste-alteration-hnscc]] — Morelli 2023 · prospective · 두경부암 IMRT 환자 31명: 급성 미각이상이 미뢰 선량이 아닌 악하선·이하선 선량과 유의상관(각 p=0.05) — 타액선 손상 매개 기전 시사 (DOI 10.1007/s11547-023-01707-5)
 - [[oral-medicine/salivary-chemosensory/kodama-2020-zinc-deficiency-guidelines-taste-disorders]] — Kodama 2020 · consensus · 일본 아연결핍 진단·치료 가이드라인: 혈청아연 <60μg/dL 결핍 기준, 미각장애 폴라프레진크 150mg/일로 50–82% 호전(효과발현 최소 3개월, 4주 13.6%→24주 58.8%) (DOI 10.3390/ijms21082941)
 - [[oral-medicine/salivary-chemosensory/ramirez-martinez-acitores-2020-antihypertensive-xerostomia-salivary-flow-sr]] — Ramírez Martínez-Acitores 2020 · sr · 항고혈압제 13편(RCT 5·환자대조군 8) 종합: 미각/침분비저하 증가라는 확증적 근거 부족(캅토프릴은 오히려 이하선 분비 증가 보고), 약물군별 특정 불가 (DOI 10.3390/ijerph17072478)
@@ -2851,6 +2852,7 @@ tags: []
 - [[geriatric-dentistry/leong-2015-prognostic-value-grip-strength-pure]] — 전향적 코호트 (PURE, n=139,691, 17개국): 악력 (Grip Strength) 5 kg 감소당 전체사망 위험비 (HR) 1.16, 수축기혈압보다 강한 사망 예측인자 — 구강노쇠·신체노쇠 연결 근거
 - [[geriatric-dentistry/celis-morales-2018-grip-strength-cardiovascular-respiratory-cancer]] — UK 바이오뱅크 502,293명 전향적 코호트: 악력 5 kg 감소당 전사망 HR 1.16–1.20, 심혈관·호흡기·암 사망 독립적으로 증가; 신체노쇠 스크리닝 도구로서 악력의 임상 근거
 - [[geriatric-dentistry/cannon-2023-drugs-dry-mouth-systematic-review-older]] — 다약제 복용 노인 구강건조증 SR(9편, 37,459명): 복용 약물 0→5개 시 잔존 자연치아 16→12개, 우울증 유병률 최대 64%, 심리적 결과 연구는 2편뿐
+- [[geriatric-dentistry/srisanoi-2026-associations-between-multimorbidity-polypharmacy-oral]] — 75세 이상 노인 다중이환·다약제복용과 구강상태 SR+MA(23편): 다약제복용(5종 초과)–구강건조 합산 OR 2.05 (95% CI 1.31–3.22, I²=0%), 다중이환은 비유의·이질적, 잔존치·무치악 근거는 불일치
 
 ## 방사선 (Radiology / Dental Imaging)
 - [[overviews/radiology-category-synthesis-overview]] — Category Synthesis (53편, 2026): 5개 클러스터(선량·CBCT진단·아티팩트·해부변이·방사선감별진단) 허브 — 이분하악관 유병률 20.7%(CT/CBCT, Aung 2023 SR+MA), nutrient canal 당뇨 84%·고혈압 66%·치주염 52% vs 정상 20%(Hasan 2022)
@@ -4245,6 +4247,7 @@ tags: []
 - [[drug/mronj/wick-2022-risk-factors-associated-with]] — 데노수맙(Denosumab) MRONJ 위험인자 후향 3군 코호트(n=128): 호르몬요법(오즈비(Odds Ratio, OR) 6.33)·항암치료(OR 2.97)·고혈압(OR 2.96)·유방암(OR 2.83)·의치(OR 2.74)·치주질환(OR 2.46)·치근단염(OR 2.04)·고용량 120 mg(p<0.01)이 위험 인자, BP→데노수맙 전환은 무관(p=0.86), 약물 휴약 시 위험 ~75% 감소(OR 0.24) [retrospective]
 - [[drug/mronj/pereira-santos-2026-mronj-risk-related-to-dental]] — 데노수맙(Denosumab) 치료 골다공증 환자 임플란트 관련 MRONJ 체계적 문헌고찰(Systematic Review, SR; 10편·8,220명, 메타분석 불가): 데노수맙+임플란트군 366명 중 18명 MRONJ 발생(24개 임플란트), 수술 유발(Implant Surgery-Triggered Osteonecrosis, ISTO)보다 임플란트 존재 유발(IPTO) 패턴 우세, BP→데노수맙 전환군에서 발생·재발 모두 증가 [sr]
 - [[drug/mronj/masri-2026-therapeutic-window-timing-dentoalveolar]] — 데노수맙(Denosumab) 골다공증 발치 타이밍 후향 코호트(n=258·수술 185건): MRONJ 5.43%(14/258), 마지막 주사 후 지연이 독립 보호인자(OR 0.35, p=.0089), 주사 후 4개월 이내 전기적 골 수술 회피 권고(최적 4–5개월, ECTS 5–6개월과 균형), ≥4개월 경과 시 MRONJ 0건 [retrospective]
+- [[drug/mronj/suryani-2023-are-medication-induced-salivary-changes]] — 약물유발 타액 변화와 MRONJ SR(메타분석 없음): 관찰연구 10편·MRONJ 272례, 타액 분비 감소 유의(3/4편 유량 측정 연구), IL-6/MMP9 등 바이오마커는 소규모 단일연구 수준, 근거 제한적
 
 ### complete-denture
 - [[complete-denture/sharka-2019-ohrqol-dentures-implant-overdentures]] — Umbrella SR(JBI, 8편: SR 6/SR+MA 1/MA 1, SIGN 1+~1-): 임플란트유지 오버덴처(IROD)가 통상총의치(CCD) 대비 OHRQoL·만족도 우위 [sr, abstract-only]
@@ -4535,6 +4538,7 @@ tags: []
 
 ### drug/systemic-disease
 - [[drug/systemic-disease/jevon-2020-management-anaphylaxis-dental-practice-update]] — Jevon 2020 · narrative-review (BDJ) · 치과 아나필락시스 관리: IM 아드레날린 500 µg(>12y) 대퇴 전외측 중간 1/3, 5분 간격 반복; 유발원 항생제(아목시실린 ~50%)·클로르헥시딘(발치와 세척 영국 사망 2건)·라텍스·LA 첨가제; AAI 공급난으로 앰플+주사기 IM이 GDP 필수역량 (PMC 전문 — 용량 박스·RC UK 알고리즘 figure 미렌더, 현행 Resuscitation Council UK 지침 교차확인 필요)
+- [[drug/systemic-disease/brueckle-2023-amitriptyline-s-anticholinergic-adverse-drug]] — 아미트립틸린 vs 위약 RCT 23편(4217명) SR+MA: 항콜린성 ADR OR 7.41 (NNH 2.89), 구강건조 OR 11.60 (6.42–20.98; 15편), 비항콜린성 ADR 차이 없음, 17/23편 고비뚤림·평균 40세
 
 ### local-anesthesia
 - [[local-anesthesia/cherrez-ojeda-2024-knowledge-attitudes-anaphylaxis-local-anesthetics]] — Cherrez-Ojeda 2024 · cross-sectional (BDJ Open, 라틴아메리카 치과의사 480명): 국소마취제 아나필락시스 대비도 격차 — 호흡곤란 인지 85.2%지만 에피네프린 IM 경로 인지 50.1%·응급키트 에피네프린 보유 43.5%(응급약 전무 22.1%)·관리 자신감 9.6%; 고령·긴 경력이 지식·에피네프린 보유와 역상관 → 실습 응급교육 필요
