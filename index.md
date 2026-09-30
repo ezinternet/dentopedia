@@ -4498,6 +4498,7 @@ tags: []
 - [[periodontics/oral-hygiene-instruction/windhorst-2025-cpc-chx-plaque-gingivitis-sr-ma]] — Windhorst 2025 · sr+ma · 양치 시 CPC와 CHX 치태·치은염 효과 동등 (WMD = 0.04, p = 0.11) (DOI 10.1111/idh.12916)
 - [[periodontics/oral-hygiene-instruction/kwon-2026-effectiveness-virtual-reality-based-toothbrushing]] — Kwon 2026 · rct · 성인 30명 단일맹검: 몰입형 VR 칫솔질 교육 vs 착색제 이용 위생사 교육, 2주 PI 감소 0.44 vs 0.07 (p=0.012), BOP 무변화, 태도·행동 개선, 지식 무변화; 표본 작음·2주 추적·검사자 비눈가림
 - [[periodontics/oral-hygiene-instruction/lin-2025-effectiveness-hands-on-practice-combined]] — Lin 2025 · rct · 고정식 교정 청소년(중국, 분석 113명): 실습+멀티미디어 3회 교육이 1회 구두설명 대비 3개월 PI 1.0 vs 1.7, GI 0.9 vs 1.5, OHIP-14 10.8 vs 16.8 (P<0.001); 접촉시간 약 6배 교란·보고상 의문점으로 낮은 확실성
+- [[periodontics/oral-hygiene-instruction/baumann-2025-effectiveness-hapa-based-oral-hygiene]] — Baumann 2025 · rct · 65세 이상 62명, 12주: HAPA 기반 지도 vs 표준 지도 — GBI 두 군 모두 감소·군간 차이 없음(p=.70), PCR은 HAPA군만 감소(군간 p=.026), 치간칫솔 자가보고 증가(대조군 미측정)
 
 ### periodontics/non-surgical-instrumentation
 - [[periodontics/non-surgical-instrumentation/annisa-2023-chx-gel-chip-srp-sr-ma]] — Annisa 2023 · sr+ma · SRP 후 CHX 칩은 치은지수 우수, 타 항균제는 치주낭 깊이 우수 (MD = 0.58mm, p < 0.00001) (DOI 10.1186/s12903-023-03241-2)
