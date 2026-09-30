@@ -1,0 +1,11 @@
+Source: PubMed PMID 39907806, https://doi.org/10.1007/s10006-025-01348-0 (abstract only; no PMC full text)
+Yefet E, Givol N, Pesis M. Direct oral anticoagulant use in oral surgery: insights from a systematic review. Oral Maxillofac Surg 2025;29(1):51.
+
+The increasing use of direct oral anticoagulants (DOACs) in patients undergoing oral surgery highlights the need for well-defined, evidence-based recommendations on perioperative and postoperative bleeding management. This review aims to evaluate bleeding risks and strategies to optimize the management of patients treated with DOACs undergoing oral surgical procedures.
+
+A systematic review identified 628 articles, of which 17 met the inclusion criteria. These studies focused exclusively on patients treated with DOACs-Dabigatran, Rivaroxaban, Apixaban, and Edoxaban-undergoing oral surgical procedures, such as tooth extractions, dental implants, and soft tissue surgical procedures. Articles involving other anticoagulants or combined therapies were excluded to ensure precision in evaluating DOAC-specific outcomes.
+
+The findings revealed that minor to moderate bleeding events were relatively common, while severe bleeding requiring hospitalization was rare. Bleeding events were effectively managed using standard local hemostatic measures in most cases. This review highlights the importance of scheduling procedures when DOAC levels are at their lowest, as this minimizes the risk of excessive bleeding. Furthermore, the continuation of DOAC therapy during oral surgery was deemed safe, with effective local management strategies mitigating bleeding risks.
+
+This review offers practical, evidence-based recommendations for the management of patients on DOAC therapy undergoing oral surgical procedures. The findings simplify clinical decision-making and improve patient safety by emphasizing the importance of timing and perioperative strategies.
+Keywords: Dental; Direct oral anticoagulants; Oral surgery; Perioperative management; Postoperative bleeding
