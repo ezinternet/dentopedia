@@ -6,7 +6,7 @@ date: 2026-06-26
 doi: "10.11607/jomi.11536"
 source: esposito-2026-7mm-5mm-immediate-molar-rct.md
 category: [immediate-implant]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/esposito-2026-7mm-5mm-immediate-molar-rct.pdf
 pdf_filename: esposito-2026-7mm-5mm-immediate-molar-rct.pdf
 source_collection: external
