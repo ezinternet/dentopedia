@@ -4,7 +4,7 @@ authors: Balmer M, Fischer A, Kühl S, Bernauer SA, Steinwender A, Payer M
 year: 2026
 date: 2026-06-01
 doi: 10.1111/cid.70160
-source: sources/balmer-2026-zirconia-titanium-implants-prosthetic-outcome-rct.md
+source: balmer-2026-zirconia-titanium-implants-prosthetic-outcome-rct.md
 category: implants/surface
 evidence_level: rct
 source_collection: pubmed-abstract
