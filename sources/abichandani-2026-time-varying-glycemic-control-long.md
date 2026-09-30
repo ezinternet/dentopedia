@@ -18,6 +18,22 @@ Retrospective cohort (782 adults, 1,312 implants, 5.6 yr) showing time-varying H
 ## 한줄요약
 782명 1312개 임플란트 5.6년 추적 코호트: HbA1c ≥8%에서 실패율 8.1%, 치주염 발생률 26.0%로 HbA1c <7% 대비 각각 2배 위험 증가, 8% 이상 구간에서 비선형 기울기 급변.
 
+## Three-line Summary
+
+Retrospective cohort (782 adults, 1,312 implants, mean 5.6 years) analysing time-varying HbA1c against implant failure and peri-implantitis.
+
+Five-year failure was 3.2% at HbA1c <7.0%, 4.8% at 7.0–<8.0% and 8.1% at ≥8.0%; peri-implantitis was 12.1%, 17.2% and 26.0%, with aHR ≈ 2.0 for ≥8.0% vs <7.0% and a steeper non-linear gradient above ~8%.
+
+Glycemic control around and after placement, not diabetes status alone, tracks risk; limits are retrospective design, residual confounding, no T1DM/T2DM split and 90-day HbA1c carry-forward.
+
+## 세줄요약
+
+후향적 코호트 (성인 782명, 임플란트 1,312개, 평균 5.6년 추적)로 시간가변 당화혈색소 (HbA1c)와 임플란트 실패·임플란트 주위염 (peri-implantitis)의 관계를 분석했다.
+
+5년 실패율은 HbA1c <7.0% 3.2%, 7.0–<8.0% 4.8%, ≥8.0% 8.1%이고 임플란트 주위염은 각각 12.1%, 17.2%, 26.0%였으며, ≥8.0%의 aHR은 약 2.0이고 8% 부근 이상에서 위험이 비선형으로 가팔라졌다.
+
+당뇨 유무보다 식립 전후의 혈당 조절 상태가 위험을 좌우한다; 한계는 후향적 설계, 잔여 교란, 제1형·제2형 미구분, 90일 HbA1c 이월 방식이다.
+
 ## 1. Document Information
 - Journal: International Journal of Oral & Maxillofacial Implants
 - Published: 2026-01-05
