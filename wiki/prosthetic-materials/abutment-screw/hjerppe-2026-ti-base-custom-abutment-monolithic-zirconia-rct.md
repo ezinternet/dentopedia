@@ -4,7 +4,7 @@ authors: Hjerppe J, Wenk S, Fukuba S, Mühlemann S, Jung RE, Thoma DS
 year: 2026
 date: 2026-08-06
 doi: 10.1111/clr.70165
-source: sources/hjerppe-2026-ti-base-custom-abutment-monolithic-zirconia-rct.md
+source: hjerppe-2026-ti-base-custom-abutment-monolithic-zirconia-rct.md
 category: prosthetic-materials/abutment-screw
 evidence_level: rct
 source_collection: pubmed-abstract
