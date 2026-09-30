@@ -1,0 +1,9 @@
+PMID 35763663 | DOI 10.1080/00016357.2022.2085324 | Acta Odontol Scand 2022;81(2):98-104 | Zou L, Hua L | Published 2022-06-28
+Title: Risk of bleeding with dental implant surgery in patients on anticoagulant or antiplatelet drugs: a systematic review and meta-analysis.
+Source: PubMed abstract only (no PMCID).
+
+Background: A large number of patients under oral anticoagulant (OAC) or antiplatelet (AP) therapy require dental implantation. Evidence on the risk of bleeding after implant placement with continued OAC or AP therapy was systematically reviewed.
+Methods: PubMed, Embase and CENTRAL searched for studies comparing bleeding outcomes after implant placement between OAC/AP therapy vs controls or OAC vs AP therapy.
+Results: Seven studies included. Pooled analysis: no significant difference in bleeding risk with continued OAC therapy vs control (RR 1.81, 95% CI 0.70-4.63; I2 = 14%, P = .22). Subgroup by OAC type: non-significant tendency of increased bleeding with vitamin K antagonists (VKAs) (RR 3.42, 95% CI 1.00-11.67; I2 = 23%, P = .05) but not with direct oral anticoagulants (DOACs) (RR 1.67, 95% CI 0.49-5.70; I2 = 0%, P = .41). Limited data suggest increased bleeding risk with OAC as compared to AP (RR 0.08, 95% CI 0.01-0.76; I2 = 0%, P = .03).
+Conclusions: Continuation of OAC therapy in patients undergoing implant surgery does not increase the risk of bleeding provided local haemostatic measures are used. The indirect comparison suggests bleeding tendency may be higher with VKAs as compared to DOAC.
+Keywords: Haemorrhage; aspirin; dental implants; direct oral anticoagulants; warfarin.
