@@ -6,7 +6,7 @@ date: 2026-06-13
 doi: "10.1016/j.identj.2026.109660"
 source: zhan-2026-association-apical-maturity-clinical.md
 category: [endodontics/regenerative]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: ""
 pdf_filename: ""
 source_collection: pubmed-abstract
