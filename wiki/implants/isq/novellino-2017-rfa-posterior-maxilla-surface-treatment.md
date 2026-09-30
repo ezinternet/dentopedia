@@ -6,7 +6,7 @@ date: 2017-01-01
 doi: "10.1111/cid.12510"
 source: novellino-2017-rfa-posterior-maxilla-surface-treatment.md
 category: [implants/isq]
-confidence: rct
+evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/novellino-2017-rfa-posterior-maxilla-surface-treatment.pdf
 pdf_filename: novellino-2017-rfa-posterior-maxilla-surface-treatment.pdf
 source_collection: external
