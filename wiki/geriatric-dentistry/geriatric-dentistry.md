@@ -2,7 +2,7 @@
 title: "노년치의학 — geriatric-dentistry"
 authors: navigation
 year: 2026
-date: 2026-08-11
+date: 2026-10-01
 doi: N/A
 source: navigation
 category: geriatric-dentistry
@@ -15,23 +15,24 @@ tags: [navigation, category-index, geriatric-dentistry]
 > [!summary] 한국어 핵심요약
 > - **분야**: 노년치의학
 > - **범위**: Oral frailty, xerostomia/hyposalivation, root caries in elderly, professionally applied fluoride, polypharmacy oral effects
-> - **수록 논문**: 10편
+> - **수록 논문**: 11편
 
 ## Three-line Summary
 
 **Scope**: Oral frailty, xerostomia/hyposalivation, root caries in elderly, professionally applied fluoride, polypharmacy oral effects
-**Indexed papers**: 10 papers in `wiki/geriatric-dentistry/`.
+**Indexed papers**: 11 papers in `wiki/geriatric-dentistry/`.
 
 ## 세줄요약
 
 **분야**: 노년치의학
-**수록 논문**: 10편
+**수록 논문**: 11편
 **하위 카테고리**: 없음
 
-## Papers in this Category (10)
+## Papers in this Category (11)
 
 | Paper |
 |---|
+| [[cannon-2023-drugs-dry-mouth-systematic-review-older|From Drugs to Dry Mouth: A Systematic Review Exploring Oral and Psychological Health Conditions Associated with Dry Mouth in Older Adults with Polypharmacy]] |
 | [[celis-morales-2018-grip-strength-cardiovascular-respiratory-cancer|Associations of grip strength with cardiovascular, respiratory, and cancer outcomes and all cause mortality: prospective cohort study of half a million UK Biobank participants]] |
 | [[chan-2022-professionally-applied-fluoride-older-adults|Clinical evidence for professionally applied fluoride therapy to prevent and arrest dental caries in older adults: A systematic review]] |
 | [[dibello-2022-oral-frailty-indicators-adverse-health-outcomes|Oral frailty indicators to target major adverse health-related outcomes in older age: a systematic review]] |
