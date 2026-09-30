@@ -24,6 +24,22 @@ SR+MA of 9 RCTs: TheraCal LC (RM-CSM) achieves comparable clinical-radiographic 
 ## 한줄요약
 SR+MA (9 RCTs): TheraCal LC(RM-CSM)는 90·180·360일 임상·방사선 성공률에서 NRM-CSM과 동등하나, 360일 상아교 형성은 유의하게 열등(RR 0.85, CI 0.76–0.95) — 조작성이 우선인 경우 RM-CSM 허용, 재생 극대화엔 NRM-CSM.
 
+## Three-line Summary
+
+Systematic review and meta-analysis of 9 RCTs comparing resin-modified (RM-CSM, TheraCal LC) with non-resin-modified calcium silicate materials (NRM-CSM) in vital pulp therapy.
+
+Overall clinical success was equivalent at 90 and 180 days (RR 1.01 and 0.97; 360 days RR 0.89, 0.69–1.13, I² 69%), but dentin bridge formation at 360 days was significantly lower with RM-CSM (RR 0.85, 95% CI 0.76–0.95, I² 0%).
+
+RM-CSM is acceptable when handling matters, while NRM-CSM is preferable to maximise bioactive dentin bridging; conclusions apply only to TheraCal LC in permanent teeth with follow-up mostly under 2 years.
+
+## 세줄요약
+
+생활치수치료에서 레진 함유 칼슘실리케이트 (RM-CSM, TheraCal LC)와 비함유 칼슘실리케이트 (NRM-CSM)를 비교한 RCT 9편의 체계적 문헌고찰 및 메타분석 (SR+MA)이다.
+
+전체 임상 성공률은 90일·180일에 동등했으나 (RR 1.01, 0.97; 360일 RR 0.89, 0.69–1.13, I² 69%), 360일 상아교 (dentin bridge) 형성은 RM-CSM에서 유의하게 낮았다 (RR 0.85, 95% CI 0.76–0.95, I² 0%).
+
+조작성이 우선이면 RM-CSM도 허용되지만 생체활성 상아교 형성을 극대화하려면 NRM-CSM이 유리하다; 결론은 영구치의 TheraCal LC에 한정되며 추적기간은 대부분 2년 미만이다.
+
 ## Summary
 This systematic review and meta-analysis compared resin-modified calcium silicate-based materials (RM-CSMs), principally TheraCal LC, against conventional non-resin-modified CSMs (NRM-CSMs: Biodentine, ProRoot MTA, iRoot BP Plus, CEM) for vital pulp therapy (VPT) in permanent teeth. Nine RCTs met inclusion criteria. Pooled clinical-radiographic success showed no significant differences at 90, 180, or 360 days. However, dentin bridge formation at 360 days was significantly lower with TheraCal LC (RR 0.85, 0.76–0.95, p=0.006, I²=0%). This is mechanistically explained by leaching of unpolymerized resin monomers (PEGDMA, Bis-GMA), which impair odontoblast differentiation and cause cellular apoptosis. TheraCal PT had only one eligible RCT and could not be meta-analysed. GRADE certainty was rated low, driven by methodological limitations and imprecision.
 
