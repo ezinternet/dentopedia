@@ -36,6 +36,7 @@ tags: [veneer, laminate-veneer, feldspathic, lithium-disilicate, zirconia, survi
 > - 삭제 대 무삭제(feldspathic) 후향 실증(Mihali 2022, 170개·7년, retrospective): prep vs no-prep 생존곡선 차이 없음(91.77%, p=0.247), 무삭제가 심미·교합마모·재발우식·치주에서 우수; **0.5mm 장석 비니어 파절 0건** vs 두꺼운(>1.5~2mm) 비니어 파절↑ 두께 역설 — Axis 3의 무삭제 동등성에 코호트 근거 추가.
 > - 무삭제(no-prep) 간접 복합레진 실증(Kam-Hepdeniz 2023, prospective): 84개월 91.3%(Kaplan-Meier), 치아파절·이차우식·대합치 마모·과민 0건이나 표면 거칠기(56%)·변연 착색(21%) 잦음 — Axis에서 복합레진이 법랑질 접착 시 세라믹 대안이 될 수 있음을 실측 보강(단 유지 부담).
 > - 하이브리드 레진매트릭스 세라믹(Resin Matrix Ceramic, RMC/PICN·RNC) 수복물별 성능(Alghauli 2025, sr+ma): **비니어·교합면 비니어에선 LDS와 동등**, inlay/onlay는 direct composite보다 우수하나 **크라운에선 합병증↑** — 비니어 적응증에 한해 RMC를 LDS 대안으로 정량 근거화(수복물 형태 의존).
+> - 접착 임상 프로토콜(Rojas-Rueda 2025, narrative review + 1 case): 고찰한 증례보고 8편 모두 세라믹에 불산(HF) 5~10%(20초~1분) → 실란, 치아에 인산 에칭 → 접착제 순서; LDS는 HF 20초(장석 9.5% 2~2.5분, 류사이트 60초). 본 증례(10개, 2년)는 러버댐 하 접착·광중합 시멘트. 근거는 정성적(n=1, 자가보고 만족도)이므로 Axis 5의 in-vitro 수치에 대한 **절차 설명 보완**일 뿐 비교 효능 근거는 아님.
 
 ## Three-line Summary
 
@@ -226,6 +227,8 @@ A second cementation axis is optical, not mechanical: Sharma et al. (2026), an i
 
 The substrate penalty is equally important: composite core yields only 53% of the bond strength of enamel (11.3 vs 21.1 MPa). In heavily restored anterior teeth where composite buildups replace lost tooth structure, this translates mechanistically to the clinical failure rate differential observed for dentin/composite margins.
 
+Rojas-Rueda et al. (2025), a narrative review of 8 case reports (1980–2024, single database, no PRISMA) plus one 2-year clinical case, supplies the chairside procedure behind these numbers. All reviewed reports treat the ceramic with hydrofluoric acid (5–10%, 20 s to 1 min) followed by silane, and the tooth with phosphoric-acid etch and adhesive; the authors tabulate HF times by ceramic (lithium disilicate 20 s, leucite 60 s, feldspathic 9.5% for 2–2.5 min). Their case bonded 10 LDS veneers under rubber dam with HF 20 s, silane 60 s, 29-µm Al2O3 sandblast, 37% phosphoric acid 15 s and light-cured cement, and they advise total (preferably non-latex) isolation and manufacturer-specified times. Evidence is qualitative only (n=1, self-reported satisfaction), so it describes procedure and does not compare protocols; note that the LDS 20 s HF time is for lithium disilicate and should not be transferred to feldspathic, whose optimal time depends on fabrication technique (Axis 4). [narrative-review 한정]
+
 **Critical limitation**: I²=98.2% indicates very high between-study heterogeneity, reflecting diverse surface treatment protocols, test methods, and aging procedures across the 6 studies. All evidence is in-vitro. These bond strength values should guide protocol design, not clinical outcome expectations directly.
 
 ---
@@ -258,6 +261,7 @@ Alghauli et al. (2025), a SR+MA, found that RMC (polymer-infiltrated ceramic net
 - [[veneers/albanesi-2016-incisal-coverage-ceramic-laminate-veneer-sr-ma]] — focused SR+MA on incisal coverage design; OR 1.25 NS; defines the evidence basis for preparation design flexibility
 - [[veneers/lim-2023-resin-composite-laminate-veneer-survival-sr-ma]] — only SR+MA dedicated to composite veneer survival; establishes 88% pooled rate and direct vs indirect gap
 - [[veneers/hajeer-2026-lithium-disilicate-zirconia-veneer-retention-sr-ma]] — in-vitro SR+MA on LDS vs zirconia bond strength under light-cured cement; quantifies the adhesion advantage (25.4 vs 12.1 MPa) and substrate effect (enamel 21.1 vs composite 11.3 MPa)
+- [[veneers/rojas-rueda-2025-bonding-protocols-lithium-disilicate-veneers]] — narrative review of 8 case reports + 1 two-year case; procedural HF/silane/adhesive/rubber-dam bonding sequence for LDS veneers (HF 20 s for LDS); qualitative only, complements Hajeer's in-vitro bond strengths with the clinical step-by-step
 - [[veneers/ali-2023-conventional-minimally-invasive-veneers-sr]] — SR comparing conventional vs minimally invasive preparation; MPV equal or superior by survival; defines the ultra-thin (0.2–0.3 mm) category
 - [[veneers/sorensen-1992-porcelain-veneer-marginal-fidelity-techniques]] — foundational in-vitro study establishing platinum foil's marginal fidelity advantage and demonstrating tooth–cement interface as the microleakage locus
 - [[veneers/sim-1993-porcelain-veneer-fit-fabrication-techniques]] — four-way in-vitro fabrication hierarchy (platinum foil > refractory die > cast ceramic 0.5 mm > cast ceramic 1.0 mm; p < .001)
