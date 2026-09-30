@@ -45,6 +45,12 @@ Split-mouth RCT (25 bruxist patients, 148 NCCLs, 60 months) found no significant
 TWI significantly correlated with CR retention loss but not GH; both materials showed significant marginal changes over time with no between-group difference at 36–60m; zero sensitivity or secondary caries throughout.
 In bruxist NCCL patients, GH and CR are clinically equivalent at 60 months; GH's simplified placement and bioactive properties make it a cost-effective choice, while TWI may help guide material selection.
 
+## 세줄요약
+
+브럭시즘 환자(25명, NCCL 148개)에서 유리 혼합형 수복재(GH, Equia Forte Fil)와 나노도자기 복합레진(CR, Ceram.X One Universal)을 60개월 분구개내 RCT로 비교한 결과, 유지율 CR 73.5% vs GH 66.7% (p=0.464)로 유의한 차이 없음.
+치아 마모 지수(TWI)가 CR 유지 실패와 유의하게 상관(GH는 아님); 두 재료 모두 시간 경과에 따른 변연 적합도 유의한 변화; 전 기간 치아 과민증·이차 우식 없음.
+브럭시즘 환자 NCCL에서 두 재료 모두 임상적으로 허용 가능; GH는 비용 효율적, TWI는 재료 선택 지표로 활용 가능.
+
 ## Study Overview
 
 | Parameter | Value |
