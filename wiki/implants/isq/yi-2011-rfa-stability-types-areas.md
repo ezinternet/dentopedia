@@ -6,7 +6,7 @@ date: 2011-01-01
 doi: "KCI:FI001624540"
 source: yi-2011-rfa-stability-types-areas.md
 category: [implants/isq]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/yi-2011-rfa-stability-types-areas.pdf
 pdf_filename: yi-2011-rfa-stability-types-areas.pdf
 source_collection: external
