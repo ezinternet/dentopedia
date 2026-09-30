@@ -6,7 +6,7 @@ date: 2025-12-01
 doi: "10.14744/eej.2025.97059"
 source: teja-2025-efficacy-gel-solution-endodontic.md
 category: [endodontics/irrigation]
-confidence: sr
+evidence_level: sr
 pdf_path: ""
 pdf_filename: ""
 source_collection: pubmed-abstract
