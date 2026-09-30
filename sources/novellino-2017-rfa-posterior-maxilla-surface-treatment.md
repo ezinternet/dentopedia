@@ -18,6 +18,22 @@ RCT (n=64 implants, 21 patients, posterior maxilla) showing hydrophilic SAE surf
 ## 한줄요약
 상악 구치부 RCT (64개 임플란트, 21명): 친수성 SAE 표면이 일반 SAE보다 ISQ ≥70 도달 2.24배 빠름 (Cox HR 2.24, CI 1.62–3.11).
 
+## Three-line Summary
+
+Split-mouth RCT (64 implants, 21 patients, posterior maxilla) comparing hydrophilic and standard sandblasted acid-etched (SAE) surfaces by resonance frequency analysis over 16 weeks.
+
+Hydrophilic implants had higher ISQ from 8 to 16 weeks (ANOVA p<0.01) and reached ISQ ≥70 2.24 times faster (Cox HR 2.24, 95% CI 1.62–3.11); insertion torque was similar (34.7 vs 36.1 Ncm) and 1-year survival was 100% in both.
+
+A hydrophilic surface may shorten the wait to a stable ISQ in soft posterior maxillary bone, but the study is single-centre and single-surgeon, uses ISQ ≥70 as a surrogate and covers D3/D4 bone with one implant system.
+
+## 세줄요약
+
+상악 구치부에서 친수성과 일반 SAE (sandblasted acid-etched) 표면을 16주간 공진주파수분석 (RFA)으로 비교한 분할구강 RCT (임플란트 64개, 환자 21명)이다.
+
+친수성 임플란트는 8~16주에 ISQ가 더 높았고 (ANOVA p<0.01) ISQ ≥70 도달이 2.24배 빨랐으며 (Cox HR 2.24, 95% CI 1.62–3.11), 식립 토크는 비슷했고 (34.7 대 36.1 Ncm) 1년 생존율은 두 군 모두 100%였다.
+
+무른 상악 구치부 골에서 친수성 표면이 안정 ISQ까지의 대기 기간을 줄일 수 있으나, 단일기관·단일술자 연구이고 ISQ ≥70을 대리 지표로 썼으며 D3/D4 골과 단일 임플란트 시스템에 한정된다.
+
 ## 1. Document Information
 - Journal: Clinical Implant Dentistry and Related Research, 2017;19(5):770–775
 - Published: 2017 (received Feb 2017, accepted May 2017)
