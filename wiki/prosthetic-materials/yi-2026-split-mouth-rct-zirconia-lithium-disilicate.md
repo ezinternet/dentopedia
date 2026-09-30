@@ -4,7 +4,7 @@ authors: Yi X, Wei D, Quan S, Kong Y, Huang X, Jiang X, Lin Y, Di P
 year: 2026
 date: 2026-07-01
 doi: 10.1111/clr.70154
-source: sources/yi-2026-split-mouth-rct-zirconia-lithium-disilicate.md
+source: yi-2026-split-mouth-rct-zirconia-lithium-disilicate.md
 category: prosthetic-materials
 evidence_level: rct
 source_collection: pubmed-abstract
