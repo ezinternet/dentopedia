@@ -1,0 +1,14 @@
+PMID: 38235816 | DOI: 10.4103/jisppd.jisppd_496_23 | J Indian Soc Pedod Prev Dent 2024;41(4):302-308 | PubMed abstract (no PMC full text)
+Title: A comparative evaluation of the learning outcome of toothbrushing in preschoolers by a novel cartoon-based education aid with conventional toothbrushing model education technique: A randomized controlled trial.
+Authors: Saraf T, Hegde R, Shah P (Bharati Vidyapeeth, Navi Mumbai / Pune, India)
+
+The recommendation of toothbrushing which is twice daily for 2 min is well known, but for most parents, getting their children to brush is a stressful task. The barriers are numerous. In this study, we focused on imparting knowledge and motivation to toothbrushing while making it into a playful activity for the child as well as their parents.
+
+The aim of this study was to comparatively evaluate the learning outcome of toothbrushing by a novel cartoon-based education aid with conventional toothbrushing model education technique in preschoolers.
+
+The study included 43 children aged between 3 and 5 years randomly allocated into two groups: Group A received toothbrushing instruction through play with a novel cartoon-based education aid and Group B received instructions through an acrylic brushing model. Both the groups were recalled on the 8th day, and the glass index was used to assess for plaque estimation. The intergroup comparison was done by unpaired t-test and the intragroup analysis by paired t-test.
+
+The comparison of the mean plaque scores in both the groups at the 8th day was not significant statistically (P = 0.965). The intragroup analysis, from baseline to the 8th day, in Group A, with mean difference (0.277 +/- 0.751), was not statistically significant (P = 0.135), whereas in Group B, the mean difference (0.400 +/- 0.598) was statistically significant (P = 0.008).
+
+The reduced mean of plaque scores proves that both the techniques had a positive impact on reducing the plaque scores; however, the comparison between the two groups was not statistically significant.
+MeSH: Single-Blind Method; Parents; Toothbrushing; Dental Plaque Index
