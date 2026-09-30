@@ -22,6 +22,22 @@ Multicenter RCT (n=39, 1 year) comparing 7mm vs 5mm immediate molar implants fou
 ## 한줄요약
 다기관 RCT (39명, 1년): 대구치 즉시 식립 7mm vs 5mm — 생존율·변연골소실·연조직 미관 차이 없으나 7mm에서 경미 합병증 유의하게 더 많음 (21.1% vs 0%, p=0.047).
 
+## Three-line Summary
+
+Multicentre RCT (n=39, 5 centres, 1 year) comparing 7 mm and 5 mm diameter immediate post-extraction molar implants.
+
+Failures were 0/19 vs 1/20 (p=1.000), marginal bone loss 0.83±1.56 vs 0.45±1.19 mm (p=0.396) and pink esthetic score at 1 year was similar (9.16 vs 9.21), but minor complications were significantly higher with 7 mm (21.1% vs 0%, p=0.047).
+
+No advantage of the wider implant was shown and it carried more minor complications; the trial is underpowered with 1-year follow-up and was abstracted from an abstract only.
+
+## 세줄요약
+
+대구치 발치 즉시 식립에서 직경 7 mm와 5 mm 임플란트를 비교한 다기관 RCT (39명, 5개 센터, 1년)이다.
+
+실패는 0/19 대 1/20 (p=1.000), 변연골소실은 0.83±1.56 대 0.45±1.19 mm (p=0.396), 1년 핑크 에스테틱 점수는 9.16 대 9.21로 유사했으나, 경미한 합병증은 7 mm에서 유의하게 많았다 (21.1% 대 0%, p=0.047).
+
+더 넓은 임플란트의 이점은 확인되지 않았고 경미한 합병증만 늘었다; 표본이 작아 검정력이 부족하고 추적은 1년이며 초록만으로 정리되었다.
+
 ## Summary
 This multicenter RCT across 5 centres randomised 39 patients (19: 7mm, 20: 5mm BioHorizons Camlog implants) receiving single immediate post-extraction implants in molar sites. Bone gaps were grafted with bone substitute; definitive zirconia crowns were delivered at 4 months; outcomes assessed at 1 year post-loading. No implant failure occurred in the 7mm group (vs 1 failure in the 5mm group), and no significant differences emerged in marginal bone loss (0.83 vs 0.45mm) or pink esthetic scores. However, the 7mm group experienced significantly more minor complications (4 patients vs 0, p=0.047). Given the small sample, authors caution that these are preliminary data and call for larger RCTs.
 
