@@ -4500,6 +4500,7 @@ tags: []
 - [[periodontics/oral-hygiene-instruction/lin-2025-effectiveness-hands-on-practice-combined]] — Lin 2025 · rct · 고정식 교정 청소년(중국, 분석 113명): 실습+멀티미디어 3회 교육이 1회 구두설명 대비 3개월 PI 1.0 vs 1.7, GI 0.9 vs 1.5, OHIP-14 10.8 vs 16.8 (P<0.001); 접촉시간 약 6배 교란·보고상 의문점으로 낮은 확실성
 - [[periodontics/oral-hygiene-instruction/baumann-2025-effectiveness-hapa-based-oral-hygiene]] — Baumann 2025 · rct · 65세 이상 62명, 12주: HAPA 기반 지도 vs 표준 지도 — GBI 두 군 모두 감소·군간 차이 없음(p=.70), PCR은 HAPA군만 감소(군간 p=.026), 치간칫솔 자가보고 증가(대조군 미측정)
 - [[periodontics/oral-hygiene-instruction/thomassen-2026-exploring-toothbrushing-duration-among]] — Thomassen 2026 · sr · 지도받지 않은 성인의 1회 칫솔질 시간(관찰연구 12편, 1246명): 수동 87.3초 vs 전동 151.1초(2분 권고 대비), 수동 시간은 출판연도에 따라 증가; GRADE 수동 중등도·전동 제한적
+- [[periodontics/oral-hygiene-instruction/jeong-2022-efficacy-of-tooth-brushing-via]] — Jeong 2022 · rct · 학령기 아동 42명: 3D 동작인식 스마트칫솔·거울(STM) 교육 vs 구두 TBI, 전악 치태 감소 40.5% vs 40.57% 동등(p=0.44) — 대체 수단이지 우월하진 않음
 
 ### periodontics/non-surgical-instrumentation
 - [[periodontics/non-surgical-instrumentation/annisa-2023-chx-gel-chip-srp-sr-ma]] — Annisa 2023 · sr+ma · SRP 후 CHX 칩은 치은지수 우수, 타 항균제는 치주낭 깊이 우수 (MD = 0.58mm, p < 0.00001) (DOI 10.1186/s12903-023-03241-2)
