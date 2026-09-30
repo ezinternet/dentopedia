@@ -1,0 +1,11 @@
+PMID 33758999 | DOI 10.1007/s00784-021-03882-z | Clin Oral Investig 2021;25(6):3369-3381 | Calcia TBB, Oballe HJR, de Oliveira Silva AM, Friedrich SA, Muniz FWMG
+Title (PubMed): Is alteration in single drug anticoagulant/antiplatelet regimen necessary in patients who need minor oral surgery? A systematic review with meta-analysis.
+Source: PubMed abstract only (no PMCID).
+
+ABSTRACT
+Objectives: To systematically review literature about the effect of alteration of the pharmacological regimen in adult patients using anticoagulants or antiplatelets who need minor oral surgery.
+Materials and methods: A search strategy was performed in three databases - PubMed-Medline, Scopus, and Embase - and included randomized clinical trials (either parallel or crossover), involving individuals under anticoagulant or antiplatelet therapy who underwent oral surgeries. Studies comprised two groups: those who stopped their medication prior to the dental procedure (control) or those who did not (test). Meta-analyses were conducted for the pooled risk ratio (RR) between the groups. Subgroup analyses were performed for anticoagulant and antiplatelet therapies.
+Results: Thirteen studies were included. It was found that patients who did not stop therapy had 157% higher intraoperative bleeding occurrences (95%CI: 1.40-4.71). In the subgroup analysis, warfarinized patients showed significantly higher occurrences of intraoperative bleeding when compared with the control (RR: 1.79; 95%CI: 1.00-3.21). Conversely, there was no statistically significant difference in postoperative bleeding between the groups (RR: 0.81; 95%CI: 0.54-1.22; p = 0.42).
+Conclusions: Minor oral surgeries can be safely performed in patients under antiplatelets or anticoagulants without drug regimen modification. Because these patients tend to bleed more during procedures, use of local hemostatic measures is strongly advised.
+Clinical relevance: Management of patients under antiplatelet or anticoagulant drugs is still challenging in clinical practice. However, clinicians may perform minor oral surgeries safely without changing the pharmacological regimen. Use of local hemostatic measures is strongly advised during these procedures.
+Keywords: Anticoagulant; Antiplatelet; Bleeding; Hemostatic Measures; Minor oral surgeries; Systematic review
