@@ -22,6 +22,22 @@ Retrospective cohort (146 T2DM vs 60 controls, 6-month follow-up) documenting 43
 ## 한줄요약
 T2DM 146명 vs 대조 60명 코호트(6개월): T2DM의 PI 발생률 43.2%, 6개월 치은열구액 TNF-α 2.8배·IL-6 3.1배·IL-1β 4.8배 높음; ISQ 65.88 vs 70.88; 고 HbA1c·흡연·칫솔질 <1회/일이 독립 위험인자.
 
+## Three-line Summary
+
+Single-centre retrospective cohort of 146 type 2 diabetes (T2DM) patients and 60 controls followed for 6 months after implant surgery.
+
+Peri-implantitis occurred in 43.2% of T2DM patients, with higher gingival crevicular fluid TNF-α (1.98 vs 0.70 ng/mL), IL-6 (4.88 vs 1.59) and IL-1β (2.08 vs 0.43) and lower ISQ at 3 and 6 months (65.88 vs 70.88 at 6 months).
+
+High HbA1c, smoking and brushing less than once a day were independent risk factors and brushing ≥3 min was protective; follow-up is only 6 months and HbA1c was not analysed as a continuous value.
+
+## 세줄요약
+
+임플란트 수술 후 6개월간 제2형 당뇨 (T2DM) 환자 146명과 대조군 60명을 추적한 단일기관 후향적 코호트다.
+
+T2DM군의 임플란트 주위염 발생률은 43.2%였고, 치은열구액 TNF-α (1.98 대 0.70 ng/mL), IL-6 (4.88 대 1.59), IL-1β (2.08 대 0.43)가 더 높았으며 ISQ는 3·6개월에 더 낮았다 (6개월 65.88 대 70.88).
+
+높은 HbA1c, 흡연, 하루 1회 미만 칫솔질이 독립 위험인자였고 3분 이상 칫솔질은 보호인자였다; 추적이 6개월뿐이며 HbA1c를 연속값으로 분석하지 않았다.
+
 ## Summary
 This single-center retrospective cohort study at Tianjin Fifth Central Hospital enrolled 146 T2DM patients who received dental implants (2021–2023) and 60 age/sex-matched normoglycemic controls. Patients were followed at 1, 3, and 6 months post-restoration with periodontal indices, gingival crevicular fluid (GCF) cytokines, and Osstell ISQ measurements. The T2DM group showed significantly higher probing depth, marginal bone loss, and inflammatory cytokine levels from 3–6 months post-restoration. Multivariate logistic regression identified four independent risk factors for peri-implantitis development. The 43.2% PI incidence rate in T2DM patients over just 6 months highlights the urgency of pre-implant glycemic optimization and intensive supportive therapy.
 
