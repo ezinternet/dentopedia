@@ -4,7 +4,7 @@ authors: Tiskratok W, Limraksasin P, Kyawsoewin M, Intapibool P, Jitprasertwong 
 year: 2026
 date: 2026-01-06
 doi: 10.2186/jpr.JPR_D_25_00125
-source: sources/tiskratok-2026-tooth-colored-abutment-peri-implant-soft-tissue-sr.md
+source: tiskratok-2026-tooth-colored-abutment-peri-implant-soft-tissue-sr.md
 category: implants/soft-tissue
 evidence_level: sr
 source_collection: pubmed-abstract
