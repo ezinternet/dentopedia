@@ -1,0 +1,38 @@
+Clinical practice guideline of the Spanish Society of Oral Surgery for oral surgery in patients with coagulation disorders
+
+Authors: Valenzuela-Mencia J; Serrera-Figallo M-Á; Torres-Lagares D; Machuca-Portillo G; Sánchez-Fernández E; Valmaseda-Castellón E; Peñarrocha-Diago M; Fernández-Mosteirín N; Somoza-Martin J-M; Pérez-Jardón A; Chamorro-Petronacci C-M; García-García A
+Journal: Med Oral Patol Oral Cir Bucal 2024; 29(1): e58-e66
+DOI: 10.4317/medoral.26063 | PMID: 37330959 | PMCID: PMC10765342
+Source: PubMed / PMC full text (condensed working copy).
+
+=== ABSTRACT ===
+Background: Coagulation-disorder/anticoagulant patients rising; protocols changed with DOACs; bleeding risk assessment controversial. Objective: evidence-based recommendations for patients with coagulopathies needing dental surgery.
+Methods: Based on the Spanish NHS CPG methodological manual (GuiaSalud); expert group agreed 15 PICO questions (extractions, implants).
+Results: 15 PICO questions answered; evidence limited in most cases (lack of control group). Two PICO questions answered with grade C, the rest grade D.
+Conclusions: need for well-designed clinical trials with control groups and representative sample size.
+
+=== METHODS ===
+- Literature December 2011 to December 2021 (text also says last 10 years); MEDLINE (PubMed) and EMBASE; English/French/Spanish only; PICO questions developed Nov 2019 - Sep 2021, updated via weekly alerts to Dec 2021; preliminary search Sep-Oct 2021; references managed in Mendeley; search strategies reviewed per Sampson peer-review of electronic search strategies.
+- Appraisal: SIGN checklists (RCTs, SR/MA, cohort, case-control, diagnostic, economic); OSTEBA sheets for case series; AGREE for CPGs. Grading of recommendation A/B/C/D via SIGN (Modified SIGN for diagnosis) / Oxford CEBM.
+- Panel: oral surgeons, haematologists/haemotherapy, oral medicine, university researchers; methodological support (methodology expert, health librarian).
+- Intro context: Shi 2017 MA cited - post-op bleeding RR 2.7 vs healthy; VKA RR 3, DOAC RR 1.6. SDCEP: do not alter anticoagulant if INR <4 (INR within 24 h, up to 72 h if stable); Spanish cardiology/epidemiology guideline cites INR 3; target INR 2-3. In Spain acenocoumarol most used coumarin but most literature is warfarin.
+
+=== RESULTS (recommendations by PICO) ===
+1. Coumarin (acenocoumarol/warfarin), extraction: predictable if INR controlled, single tooth, local hemostasis; post-op bleeding risk appears similar to healthy when INR does not exceed 2.2. INR >3 or several extractions: limited evidence -> contact patient's physician for plan (Grade C). Few acenocoumarol studies. Suggest >=7 days follow-up in future studies.
+2. Heparin, extraction: bridging with heparin appears to raise bleeding vs continuing anticoagulant; local hemostatic measures should suffice (Grade D). Evidence limited; not replacing the anticoagulant with SC heparin gives more predictable results.
+3. DOAC, extraction: increased bleeding vs healthy individuals (Grade D); evidence limited, heterogeneous, mostly retrospective; protocols vary (continue, skip dose on day of surgery, suspend up to 5 days).
+4. Coumarin, implants: continuing in simple implant procedures does not significantly increase haemorrhage vs stopping/reducing; suspension not justified (Grade D).
+5. Heparin, implants: no significant increase in simple implant procedures; continuation recommended; substituting oral anticoagulant with heparin offers no benefit, not justified (Grade D).
+6. DOAC, implants: can be treated safely with osseointegrated implants; intraoperative bleeding may be slightly greater, postoperative similar to non-anticoagulated (Grade D). No data on added antiplatelet.
+7. Hereditary coagulopathies: insufficient info; extractions after evaluating severity; severe cases need minimum factor level before extraction; haemophilia with inhibitors = serious. Implants may be fitted (bleeding risk appears lower than extraction) (Grade D). Consider GA/sedation, avoid trunk anaesthesia, 3D CT, local + systemic (factor) measures; individual evaluation with haematology/haemophilia centre. Only case series, case reports, expert documents and one CPG available; no grade 2 evidence.
+8. Coumarin, local hemostatic measures: simple extractions - do not stop anticoagulant, apply local hemostatic measures (Grade C). No local measure shown superior; use those with most evidence: sutures, collagen or cellulose sponges, gauze compression soaked in tranexamic acid (Grade C). Post-op bleeding associated with age - local measures in older patients (Grade C). Future trials should include INR 2-4.
+9. Heparin, local measures: lack of evidence. Thorough anamnesis; know half-life; operate at maximum plasma decrease, then continue anticoagulant; local measures - dry gauze or preferably tranexamic acid-soaked, sutures, sponges/dressings (Grade D).
+10. DOAC, local measures: expert opinion. Know the drug half-life; extract at maximum plasma decrease, delaying the dose at least 4 hours after extraction; local measures as in 9 (Grade D).
+11. Coumarin, pharmacological treatment: expert opinion; continue oral anticoagulant with local measures (sutures, gauze +/- tranexamic acid, sponges); no need for pharmacological treatment to reduce haemorrhagic risk (Grade D).
+12. Heparin, pharmacological treatment: local measures; no need for pharmacological treatment (Grade D).
+(The published text numbers the questions 1-12, 14, 15; no item 13 appears.)
+14. Hereditary coagulopathies, local measures: no article fully addresses; expert opinion (Grade D). Treatment plan after history and haematologist consult; morning and start of week; single session whenever possible.
+15. Hereditary coagulopathies, pharmacological: no conclusive evidence; expert opinion (Grade D). Always via haematologist; more literature on antifibrinolytics in extractions than implants; in case of doubt, hospital setting.
+
+=== DISCUSSION / LIMITATIONS ===
+Aimed at dentists/stomatologists/oral surgeons in university, clinics, primary care, hospitals. Stresses individualising anticoagulated patients and interconsultation. Evidence limited: lack of control groups, small samples, mostly retrospective DOAC studies, few acenocoumarol studies; calls for RCTs with representative samples.
