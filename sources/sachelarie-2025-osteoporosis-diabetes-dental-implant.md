@@ -18,6 +18,22 @@ Prospective pilot cohort (n=50; 21 T2DM, 29 osteoporosis) showing lower ISQ in T
 ## 한줄요약
 T2DM 21명 vs 골다공증 29명 전향 파일럿: 6개월 ISQ 당뇨 62.10 vs 골다공증 67.04 (p=0.02), 12개월에 두 군 모두 개선되나 당뇨 군 Periotest 호전폭 더 유의.
 
+## Three-line Summary
+
+Prospective pilot cohort (n=50: 21 T2DM, 29 osteoporosis) comparing implant stability by ISQ and Periotest over 12 months.
+
+ISQ was lower in T2DM at 6 months (62.10 vs 67.04, p=0.0215) and the gap narrowed by 12 months (65.79 vs 68.93); both groups improved, and Periotest change at 12 months was more pronounced in the diabetic group (p=0.0001).
+
+Both conditions can reach acceptable stability but diabetic implants stabilise later; the small single-centre pilot without blinding or HbA1c data needs confirmation.
+
+## 세줄요약
+
+임플란트 안정성을 12개월간 ISQ와 Periotest로 비교한 전향적 파일럿 코호트 (50명: 제2형 당뇨 21명, 골다공증 29명)다.
+
+6개월 ISQ는 당뇨군이 더 낮았고 (62.10 대 67.04, p=0.0215) 12개월에는 차이가 줄었으며 (65.79 대 68.93), 두 군 모두 호전되었고 12개월 Periotest 변화는 당뇨군에서 더 뚜렷했다 (p=0.0001).
+
+두 질환 모두 허용 가능한 안정성에 도달할 수 있으나 당뇨군은 안정화가 늦다; 소규모 단일기관 파일럿이며 눈가림과 HbA1c 자료가 없어 확인이 필요하다.
+
 ## 1. Document Information
 - Journal: Medicina (Kaunas), Vol. 61, No. 1, Article 74
 - PMC: PMC11766711
