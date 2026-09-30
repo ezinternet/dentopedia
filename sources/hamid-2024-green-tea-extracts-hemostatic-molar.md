@@ -25,6 +25,22 @@ The `drug/anticoagulants` hemostasis literature is dominated by synthetic agents
 
 건강 환자 대구치 발치 RCT (n=64): 녹차 탄닌 추출물(Tannin Extract, TE) 5.62분, 메탄올 추출물(Methanolic Extract, ME) 7.50분, 수성 추출물(Aqueous Extract, AE) 8.44분 vs 식염수 거즈 61.56분으로 모든 녹차 추출물군이 유의하게 지혈 빠름(p<0.001).
 
+## Three-line Summary
+
+Four-arm parallel RCT (n=64, healthy patients, molar extractions) testing green tea extracts as topical haemostatic agents against saline gauze.
+
+Mean haemostasis time was 5.62 min with tannin extract, 7.50 min with methanolic extract and 8.44 min with aqueous extract versus 61.56 min for saline gauze (all p<0.001).
+
+All extracts stopped bleeding far faster than the control, but the control is not standard dry-gauze care, only healthy patients were studied (no anticoagulated data) and the data come from the abstract only.
+
+## 세줄요약
+
+건강한 환자의 대구치 발치 후 녹차 추출물을 국소 지혈제로 식염수 거즈와 비교한 4군 평행 RCT (64명)이다.
+
+평균 지혈 시간은 탄닌 추출물 (Tannin Extract) 5.62분, 메탄올 추출물 7.50분, 수성 추출물 8.44분으로 식염수 거즈 61.56분보다 모두 유의하게 짧았다 (모두 p<0.001).
+
+모든 추출물이 대조군보다 훨씬 빨리 지혈했으나 대조군이 표준 건조 거즈 처치가 아니고, 건강한 환자만 대상이라 항응고제 복용자 자료가 없으며, 초록만으로 정리되었다.
+
 ## 1. Document Information
 
 - **Journal**: Journal of the College of Physicians and Surgeons Pakistan 2024;34(11):1281–1286
