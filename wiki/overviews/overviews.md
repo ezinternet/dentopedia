@@ -2,7 +2,7 @@
 title: "종합 — overviews"
 authors: navigation
 year: 2026
-date: 2026-09-28
+date: 2026-09-30
 doi: N/A
 source: navigation
 category: overviews
@@ -15,20 +15,20 @@ tags: [navigation, category-index, overviews]
 > [!summary] 한국어 핵심요약
 > - **분야**: 종합
 > - **범위**: Synthesis pages spanning multiple categories
-> - **수록 논문**: 295편
+> - **수록 논문**: 296편
 
 ## Three-line Summary
 
 **Scope**: Synthesis pages spanning multiple categories
-**Indexed papers**: 295 papers in `wiki/overviews/`.
+**Indexed papers**: 296 papers in `wiki/overviews/`.
 
 ## 세줄요약
 
 **분야**: 종합
-**수록 논문**: 295편
+**수록 논문**: 296편
 **하위 카테고리**: 없음
 
-## Papers in this Category (295)
+## Papers in this Category (296)
 
 | Paper |
 |---|
@@ -62,6 +62,7 @@ tags: [navigation, category-index, overviews]
 | [[ceraseal-bioceramic-sealer-clinical-material-synthesis|Overview: Ceraseal (Premixed Calcium-Silicate Bioceramic Sealer) — Clinical Outcomes × Material/Biocompatibility Synthesis]] |
 | [[cervical-composite-isolation-strategy-overview|치경부 레진 격리 전략: dry field가 목적, 코드는 수단 — 격리·마진위치·열구액 종합]] |
 | [[clear-aligner-adverse-effects-overview|투명교정 부작용 종합 — 자주 보고되는 부작용(AE)과 치근흡수·통증의 정량화]] |
+| [[clear-aligner-attachments-overview|투명교정 어태치먼트 종합 — 재료·전달 정확도·이동유형별 기여·대구치 원심이동]] |
 | [[clear-aligner-indications-limitations|투명교정(Clear Aligner) 적응증·한계 종합]] |
 | [[clear-aligner-patient-experience-brand-overview|Clear Aligner Patient Experience, Compliance & Brand Comparison — Evidence Synthesis]] |
 | [[clinical-principles-100-master-distillation|임상원칙 100 — 182개 Overview 최상위 증류 (100 Clinical Principles You Actually Use — Master Distillation of All Overviews)]] |
