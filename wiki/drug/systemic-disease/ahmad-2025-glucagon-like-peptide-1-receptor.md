@@ -6,7 +6,7 @@ date: 2025-05-09
 doi: "10.1111/jre.13410"
 source: ahmad-2025-glucagon-like-peptide-1-receptor.md
 category: [drug/systemic-disease]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/ahmad-2025-glucagon-like-peptide-1-receptor.txt
 pdf_filename: ahmad-2025-glucagon-like-peptide-1-receptor.txt
 source_collection: external
