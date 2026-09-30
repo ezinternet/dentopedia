@@ -1,0 +1,17 @@
+PMID: 42379258 | DOI: 10.1016/j.jdent.2026.106869 | J Dent 2026;174:106869 | PubMed abstract (no PMC full text)
+Title: The influence of psychological factors on biofilm-related oral outcomes in adults: A systematic review of prospective studies.
+Authors: Valeriani L, Liguori MG, Giovannini A, Montevecchi M, Covelli V (Bologna / e-Campus / L'Aquila / Zurich)
+
+The present systematic review aimed to determine whether psychological factors are associated with subsequent biofilm-related oral health outcomes in adults.
+
+The review followed PRISMA guidelines. The protocol was registered in PROSPERO (CRD420251119213). Risk of bias was assessed using the NHLBI tool.
+
+MEDLINE, PsycINFO, and Web of Science were searched through May 2026.
+
+Eligible prospective longitudinal studies in adults assessed a broad range of psychological exposures (e.g., depression, anxiety, stress, self-efficacy, health beliefs, personality traits, and sense of coherence) before oral outcomes. Outcomes included periodontal parameters, dental caries, tooth loss, and oral-hygiene behaviours.
+
+Ten prospective studies of fair-to-good quality were included. Findings for cognitive constructs were mixed: self-efficacy was associated with subsequent self-reported oral hygiene behaviours and, following motivation and oral hygiene instruction, clinically assessed plaque control, but not consistently across studies or outcomes; perceived treatment benefits, particularly when combined with perceived susceptibility, and Theory of Reasoned Action variables were associated with subsequent gingival or plaque outcomes. Data on psychopathology were sparse but suggested associations of depression and stress with poorer oral self-care and periodontal outcomes. A small number of studies also indicated possible relationships between personality traits and periodontal and caries outcomes, whereas the only study assessing sense of coherence found no association.
+
+Prospective associations with oral health behaviours or clinical outcomes were observed for several of the psychological constructs examined, although the evidence base remains limited and heterogeneous. More robust longitudinal studies are needed to clarify these relationships across different oral diseases.
+
+Available prospective evidence suggests that psychological factors may play a role in subsequent oral hygiene behaviours, periodontal outcomes, and treatment response. These findings may inform future research on risk assessment and personalised preventive care.
