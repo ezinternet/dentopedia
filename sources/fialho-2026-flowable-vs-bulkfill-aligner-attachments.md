@@ -32,6 +32,14 @@ Split-mouth RCT (n=50, 140 days, 800 attachments): flowable vs. bulk-fill flowab
 ## 한줄요약
 Split-mouth RCT (n=50, 140일, 800어태치먼트): 일반 플로어블과 벌크필 플로어블 레진의 어태치먼트 생존율 동등 (전체 탈락률 18.75%, HR 0.84, p=0.293) — 재료 선택 임상적 자유도 확보.
 
+## Three-line Summary
+
+First split-mouth RCT (n=50 adults, 800 attachments, 140 days) comparing conventional flowable (3M Filtek Supreme Flowable) vs. bulk-fill flowable (3M Filtek Bulk Fill Flowable) composites for aligner attachment fabrication. Overall failure rate was 18.75%; Cox regression showed no significant difference between materials (HR=0.84, 95%CI 0.60–1.16, p=0.293). Molars had higher failure rates than premolars in both groups; regular flowable composites are a cost-effective equivalent to bulk-fill for attachment fabrication.
+
+## 세줄요약
+
+첫 번째 split-mouth RCT (성인 n=50, 어태치먼트 800개, 140일): 일반 플로어블(3M Filtek Supreme Flowable) vs. 벌크필 플로어블(3M Filtek Bulk Fill Flowable) 어태치먼트 비교. 전체 탈락률 18.75%; Cox regression 군간 차이 없음 (HR=0.84, p=0.293). 구치가 소구치보다 탈락률 높음 — 일반 플로어블이 벌크필 대비 동등한 비용효율적 대안.
+
 ## 1. Document Information
 - **Journal**: Clinical Oral Investigations, 2026;30(8)
 - **DOI**: 10.1007/s00784-026-07006-3
