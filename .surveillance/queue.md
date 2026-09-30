@@ -336,3 +336,257 @@ Found by manual PDF discovery (not the original scout search), 2026-07-25 — sa
       "Clinical outcomes of clear aligners in growing children: An umbrella review." — J Indian Soc Pedod Prev Dent
 - [x] PMID 42734614 | SR | OA:none | clear-aligner | edat 2026/07/01
       "Clinical efficacy of aligners with mandibular advancement in treatment of Class II malocclusions compared to conventional functional appliances: A systematic review." — Stomatologija
+- [x] PMID 42144901 | SR/MA | OA:PMC PMC13498933 | geriatric-drug | edat 2026/09/01 — INGESTED 2026-10-01 → wiki/geriatric-dentistry/srisanoi-2026-associations-between-multimorbidity-polypharmacy-oral
+      "Associations Between Multimorbidity, Polypharmacy and Oral Conditions in Older Adults: SR/MA" — Gerodontology
+- [x] PMID 36943673 | SR | OA:none | geriatric-drug | edat 2023/03/01 — INGESTED 2026-10-01 → wiki/geriatric-dentistry/cannon-2023-drugs-dry-mouth-systematic-review-older
+      "From Drugs to Dry Mouth: SR of Oral and Psychological Conditions Associated with Dry Mouth in Older Adults with Polypharmacy" — Drugs Aging
+- [x] PMID 36539885 | SR | OA:PMC PMC9769019 | geriatric-drug | edat 2022/12/01 — INGESTED 2026-10-01 → wiki/oral-medicine/salivary-chemosensory/prado-mel-2022-anticholinergic-activity-xerostomia-xerophthalmia-elderly
+      "Association between anticholinergic activity and xerostomia and/or xerophthalmia in the elderly: SR" — BMC Pharmacol Toxicol
+- [x] PMID 37305957 | SR | OA:PMC PMC10527150 | geriatric-drug | edat 2023/06/01 — INGESTED 2026-10-01 → wiki/oral-medicine/salivary-chemosensory/kohli-2023-medication-induced-xerostomia-orofacial-pain
+      "Association between medication-induced xerostomia and orofacial pain: SR" — Quintessence Int
+- [x] PMID 37720502 | SR | OA:PMC PMC10501800 | geriatric-drug | edat 2023/09/01 — INGESTED 2026-10-01 → wiki/drug/mronj/suryani-2023-are-medication-induced-salivary-changes
+      "Are medication-induced salivary changes the culprit of osteonecrosis of the jaw? SR" — Front Med (Lausanne)
+- [ ] PMID 40696655 | SR/MA | OA:PMC PMC12282823 | geriatric-drug | edat 2025/07/01
+      "Non-surgical treatment of cyclosporin A-induced gingival overgrowth: SR/MA" — Medicine (Baltimore)
+- [ ] PMID 42276936 | SR | OA:none | geriatric-drug | edat 2026/06/01
+      "Preventive Dental Strategies to Minimize Oral Health Complications After Renal Transplantation: SR" — Transplant Proc
+- [ ] PMID 41385468 | SR | OA:none | geriatric-drug | edat 2025/12/01
+      "Prevalence of Oral Diseases and QoL in Geriatric patients with and without comorbidities: SR" — Ig Sanita Pubbl
+- [x] PMID 37018325 | SR/MA | OA:PMC PMC10075391 | geriatric-drug | edat 2023/04/01 — INGESTED 2026-10-01 → wiki/drug/systemic-disease/brueckle-2023-amitriptyline-s-anticholinergic-adverse-drug
+      "Amitriptyline's anticholinergic adverse drug reactions: systematic multiple-indication review and MA" — PLoS One
+- [ ] PMID 34448736 | SR | OA:none | geriatric-drug | edat 2021/09/01
+      "Schizophrenia and Dental Health: SR" — J Nerv Ment Dis
+- [ ] PMID 41393040 | SR/MA | OA:PMC PMC12698406 | geriatric-drug | edat 2025/12/01
+      "Prevalence and influencing factors of oral frailty in older adults with diabetes: SR/MA" — Front Public Health
+- [ ] PMID 34331067 | SR/MA | OA:none | geriatric-drug | edat 2021/07/31
+      "Is teriparatide therapy effective for MRONJ? SR/MA" — Osteoporos Int
+- [ ] PMID 36507770 | SR | OA:none | geriatric-drug | edat 2022/12/01
+      "Efficacy of Adjunctive Photobiomodulation in the Management of MRONJ: SR" — Photobiomodul Photomed Laser Surg
+- [ ] PMID 37330959 | SR|guideline | OA:PMC PMC10765342 | antithrombotic-dental | edat 2024/01/01
+      "Clinical practice guideline of the spanish society of oral surgery for oral surgery in patients with coagulation disorders" — Medicina oral, patologia oral y cirugia bucal
+- [ ] PMID 37864605 | RCT | OA:PMC PMC10713775 | antithrombotic-dental | edat 2023/01/01
+      "Platelet-rich fibrin ensures hemostasis after single-tooth removal under factor Xa inhibitors" — Clinical oral investigations
+- [ ] PMID 36403660 | RCT | OA:none | antithrombotic-dental | edat 2022/01/01
+      "Is Chitosan Dental Dressing Better Than Cotton Gauze in Achieving Hemostasis in Patients on Antithrombotics?" — Journal of oral and maxillofacial surgery
+- [ ] PMID 37279226 | RCT | OA:none | antithrombotic-dental | edat 2023/01/01
+      "Efficacy of Local Hemostatic Management in Implant Surgery in Anticoagulated Patients on Warfarin: A Randomized Clinical Study" — The International journal of oral & maxillofacial implants
+- [ ] PMID 35964704 | guideline | OA:none | antithrombotic-dental | edat 2022/01/01
+      "Perioperative Management of Antithrombotic Therapy: An American College of Chest Physicians Clinical Practice Guideline" — Chest
+- [ ] PMID 33939696 | RCT | OA:PMC PMC8128271 | antithrombotic-dental | edat 2021/01/01
+      "Tranexamic acid and bleeding in patients treated with non-vitamin K oral anticoagulants undergoing dental extraction: The EXTRACT-NOAC randomized clinical trial" — PLoS medicine
+- [ ] PMID 32613433 | RCT | OA:none | antithrombotic-dental | edat 2020/01/01
+      "Evaluation of local hemostatic efficacy after dental extractions in patients taking antiplatelet drugs" — Clinical oral investigations
+- [ ] PMID 39907806 | SR | OA:none | antithrombotic-dental | edat 2025/01/01
+      "Direct oral anticoagulant use in oral surgery: insights from a systematic review" — Oral and maxillofacial surgery
+- [ ] PMID 39387914 | SR | OA:PMC PMC11467017 | antithrombotic-dental | edat 2024/01/01
+      "Platelet-rich fibrin as a hemostatic agent in dental extractions in patients taking anticoagulants or antiplatelet medication" — Clinical oral investigations
+- [ ] PMID 38155005 | SR/MA | OA:none | antithrombotic-dental | edat 2023/01/01
+      "Risk of postoperative bleeding after dental extraction in patients on antiplatelet therapy" — Oral surgery, oral medicine, oral pathology and oral radiology
+- [ ] PMID 38200485 | SR/MA | OA:PMC PMC10782677 | antithrombotic-dental | edat 2024/01/01
+      "The effectiveness of chitosan as a hemostatic in dentistry in patients with antiplatelet/anticoagulant therapy" — BMC oral health
+- [ ] PMID 37821865 | SR | OA:PMC PMC10566068 | antithrombotic-dental | edat 2023/01/01
+      "The Effect of Direct Oral Anticoagulant Therapy (DOACs) on oral surgical procedures: a systematic review" — BMC oral health
+- [ ] PMID 37532770 | network MA | OA:PMC PMC10397210 | antithrombotic-dental | edat 2023/01/01
+      "The effect of different hemostatic agents following dental extraction in patients under oral antithrombotic therapy: a network meta-analysis" — Scientific reports
+- [ ] PMID 37367710 | SR/MA | OA:none | antithrombotic-dental | edat 2023/01/01
+      "The role of hemostatic agents after tooth extractions: A systematic review and meta-analysis" — Journal of the American Dental Association
+- [ ] PMID 37047909 | SR/network MA | OA:PMC PMC10093975 | antithrombotic-dental | edat 2023/01/01
+      "Perioperative Management of Antithrombotic Therapy in Patients Who Undergo Dental Procedures: A Systematic Review and Network Meta-Analysis" — International journal of environmental research and public health
+- [ ] PMID 36100547 | SR | OA:none | antithrombotic-dental | edat 2022/01/01
+      "Impact of direct oral anticoagulants on bleeding tendency and postoperative complications in oral surgery" — Oral surgery, oral medicine, oral pathology and oral radiology
+- [ ] PMID 35763663 | SR/MA | OA:none | antithrombotic-dental | edat 2022/01/01
+      "Risk of bleeding with dental implant surgery in patients on anticoagulant or antiplatelet drugs" — Acta odontologica Scandinavica
+- [ ] PMID 34343502 | SR/MA | OA:none | antithrombotic-dental | edat 2021/01/01
+      "Does Platelet-Rich Fibrin Prevent Hemorrhagic Complications After Dental Extractions in Patients Using Oral Anticoagulant Therapy?" — Journal of oral and maxillofacial surgery
+- [ ] PMID 33971681 | SR | OA:none | antithrombotic-dental | edat 2021/01/01
+      "Risk of Bleeding during Implant Surgery in Patients Taking Antithrombotics: A Systematic Review" — Seminars in thrombosis and hemostasis
+- [ ] PMID 34430994 | SR/MA | OA:PMC PMC8385035 | antithrombotic-dental | edat 2021/01/01
+      "Dental implants and risk of bleeding in patients on oral anticoagulants: a systematic review and meta-analysis" — International journal of implant dentistry
+- [ ] PMID 33994071 | network MA | OA:none | antithrombotic-dental | edat 2021/01/01
+      "Effectiveness of local hemostatic to prevent bleeding in dental patients on anticoagulation: A systematic review and network meta-analysis" — Journal of cranio-maxillo-facial surgery
+- [ ] PMID 33758999 | SR/MA | OA:none | antithrombotic-dental | edat 2021/01/01
+      "Is alteration in single drug anticoagulant/antiplatelet regimen necessary in patients who need minor oral surgery?" — Clinical oral investigations
+- [ ] PMID 41510984 | SR/MA | OA:none | dental-erosion | edat 2026/01/01
+      "Global Prevalence and Patterns of Oral Health Disorders in Athletes" — 
+- [ ] PMID 42174532 | SR | OA:PMC PMC13383145 | dental-erosion | edat 2026/01/01
+      "Proteolytic enzymes in dentin erosion: MMPs and cathepsins" — 
+- [ ] PMID 42113589 | SR/MA | OA:PMC PMC13161764 | dental-erosion | edat 2026/01/01
+      "Dental erosion Linked to Carbonated Drinks in Adolescents" — 
+- [ ] PMID 41147638 | SR/MA | OA:PMC PMC12560117 | dental-erosion | edat 2025/01/01
+      "Plant-Derived Compounds on Tooth Erosion" — 
+- [ ] PMID 39826062 | SR | OA:none | dental-erosion | edat 2025/01/01
+      "GERD/LPR and Dental Erosion" — 
+- [ ] PMID 39670301 | SR/MA | OA:none | dental-erosion | edat 2024/01/01
+      "Worn Dentition With Minimally Invasive Concepts" — 
+- [ ] PMID 39360910 | SR/MA | OA:none | dental-erosion | edat 2024/01/01
+      "Laser and remineralising agents in dental erosion" — 
+- [ ] PMID 39056584 | SR/MA | OA:PMC PMC11788517 | dental-erosion | edat 2024/01/01
+      "Erosive tooth wear in primary dentition" — 
+- [ ] PMID 39940260 | SR | OA:PMC PMC11820644 | dental-erosion | edat 2025/01/01
+      "Erosive Potential of Sports, Energy Drinks, Isotonic Solutions" — 
+- [ ] PMID 39724489 | SR/MA | OA:PMC PMC11671545 | dental-erosion | edat 2024/01/01
+      "Remineralisation of enamel erosive lesions by fluoride" — 
+- [ ] PMID 39433151 | SR/MA | OA:none | dental-erosion | edat 2024/01/01
+      "Eating Disorders and Oral Health" — 
+- [ ] PMID 39387908 | SR | OA:none | dental-erosion | edat 2024/01/01
+      "Erosive tooth wear in risk group patients" — 
+- [ ] PMID 39174162 | SR/MA | OA:none | dental-erosion | edat 2024/01/01
+      "Laser irradiation with fluoride decreasing erosive wear" — 
+- [ ] PMID 38552999 | SR/MA | OA:none | dental-erosion | edat 2024/01/01
+      "Anamnestic risk factors for erosive tooth wear" — 
+- [ ] PMID 38567575 | SR | OA:none | dental-erosion | edat 2024/01/01
+      "Vegetarian diet and oral health" — 
+- [ ] PMID 38200328 | SR/MA | OA:none | dental-erosion | edat 2024/01/01
+      "Role of calcium in preventing erosive tooth wear" — 
+- [ ] PMID 38228408 | SR | OA:none | dental-erosion | edat 2024/01/01
+      "Energy drink consumption and erosive tooth wear in youth" — 
+- [ ] PMID 37975390 | SR | OA:none | dental-erosion | edat 2023/01/01
+      "Dental erosion and role of saliva" — 
+- [ ] PMID 37678744 | SR/MA | OA:none | dental-erosion | edat 2023/01/01
+      "Salivary characteristics and tooth wear" — 
+- [ ] PMID 37764647 | SR | OA:PMC PMC10537257 | dental-erosion | edat 2023/01/01
+      "Prenatal Vitamin D and Enamel Erosion" — 
+- [ ] PMID 37049624 | SR(in-vitro) | OA:none | dental-erosion | edat 2023/01/01
+      "Carbonated Soft Drinks damage on Enamel" — 
+- [ ] PMID 36894675 | SR/MA | OA:none | dental-erosion | edat 2023/01/01
+      "Vegan/vegetarian diet and oral health" — 
+- [ ] PMID 36459238 | SR/MA | OA:none | dental-erosion | edat 2022/01/01
+      "Asthma and oral conditions in children" — 
+- [ ] PMID 35962774 | SR | OA:none | dental-erosion | edat 2022/01/01
+      "Anorexia and bulimia in pediatric dentistry" — 
+- [ ] PMID 36265394 | SR/MA | OA:none | dental-erosion | edat 2022/01/01
+      "Fluoride efficacy preventing enamel erosion" — 
+- [ ] PMID 36389398 | SR | OA:PMC PMC9651041 | dental-erosion | edat 2022/01/01
+      "Treatment for dental erosion" — 
+- [ ] PMID 35917996 | SR/MA | OA:none | dental-erosion | edat 2022/01/01
+      "GERD and dental erosion in children" — 
+- [ ] PMID 40602709 | RCT | OA:none | dental-erosion | edat 2025/01/01
+      "Fluoride solutions+polymer preventing erosion" — 
+- [ ] PMID 40960100 | RCT | OA:none | dental-erosion | edat 2025/01/01
+      "Antitussive Lozenges pH and oral erosion" — 
+- [ ] PMID 39265550 | RCT | OA:none | dental-erosion | edat 2024/01/01
+      "Statherin-derived peptide protects erosion" — 
+- [ ] PMID 39532751 | RCT | OA:none | dental-erosion | edat 2024/01/01
+      "Proteins/peptides in mouthwash control erosion" — 
+- [ ] PMID 38706419 | RCT | OA:none | dental-erosion | edat 2024/01/01
+      "BEWE training for erosive tooth wear diagnosis" — 
+- [ ] PMID 38896700 | RCT | OA:PMC PMC11182625 | dental-erosion | edat 2024/01/01
+      "Oral health program in bariatric surgery patients" — 
+- [ ] PMID 38582434 | RCT | OA:none | dental-erosion | edat 2024/01/01
+      "TiF+chitosan toothpaste vs erosive wear" — 
+- [ ] PMID 38471581 | RCT | OA:none | dental-erosion | edat 2024/01/01
+      "Thermoviscous composite for non-carious cervical lesions" — 
+- [ ] PMID 38367826 | RCT | OA:none | dental-erosion | edat 2024/01/01
+      "Resveratrol tablets increase acid-resistant proteins" — 
+- [ ] PMID 38218598 | guideline | OA:PMC PMC10829352 | dental-erosion | edat 2024/01/01
+      "Tooth Wear guideline" — 
+- [ ] PMID 37890417 | RCT | OA:none | dental-erosion | edat 2023/01/01
+      "TiF/NaF solution preventing erosion" — 
+- [ ] PMID 37985984 | RCT(in-vitro) | OA:PMC PMC10662501 | dental-erosion | edat 2023/01/01
+      "Arginine-fluoride varnish preventing medication erosion" — 
+- [ ] PMID 37757908 | RCT(in-vitro) | OA:none | dental-erosion | edat 2023/01/01
+      "Fluoride varnish with trimetaphosphate" — 
+- [ ] PMID 37672415 | RCT(in-vitro) | OA:none | dental-erosion | edat 2023/01/01
+      "Erosion-abrasion assessment by OCT" — 
+- [ ] PMID 37544352 | RCT(in-vitro) | OA:none | dental-erosion | edat 2023/01/01
+      "Subsurface lesion in erosive tooth wear" — 
+- [ ] PMID 37200261 | RCT(in-vitro) | OA:PMC PMC10194961 | dental-erosion | edat 2023/01/01
+      "Plant extracts+fluoride protecting dentin erosion" — 
+- [ ] PMID 37130893 | RCT(in-vitro) | OA:PMC PMC10154312 | dental-erosion | edat 2023/01/01
+      "Plant extracts dual mechanism against dentin erosion" — 
+- [ ] PMID 35829772 | RCT | OA:none | dental-erosion | edat 2022/01/01
+      "Chitosan gel+CaneCPI-5 against erosive wear" — 
+- [ ] PMID 35850367 | RCT | OA:none | dental-erosion | edat 2022/01/01
+      "Polyphenol treatment enhances pellicle anti-erosion" — 
+- [ ] PMID 35694835 | RCT(in-vitro) | OA:none | dental-erosion | edat 2022/01/01
+      "Remineralizing agents on primary tooth erosion" — 
+- [ ] PMID 35750501 | RCT | OA:none | dental-erosion | edat 2022/01/01
+      "CAD-CAM ceramic/composite for severe erosion" — 
+- [ ] PMID 35886524 | RCT | OA:PMC PMC9317292 | dental-erosion | edat 2022/01/01
+      "Biomimetic hydroxyapatite vs fluoride toothpaste" — 
+- [ ] PMID 36043569 | RCT(in-vitro) | OA:PMC PMC9645180 | dental-erosion | edat 2022/01/01
+      "Fluoride+stannous gel controlling erosion" — 
+- [ ] PMID 34719055 | RCT | OA:none | dental-erosion | edat 2021/01/01
+      "TWES 2.0 Tooth Wear Evaluation System" — 
+- [ ] PMID 34689452 | RCT(in-vitro) | OA:none | dental-erosion | edat 2021/01/01
+      "Sodium fluoride 5000 ppm on dentin erosion" — 
+- [ ] PMID 33853413 | RCT | OA:PMC PMC8474354 | dental-erosion | edat 2021/01/01
+      "3D surface texture of in-situ erosive wear" — 
+- [ ] PMID 34105881 | RCT | OA:PMC PMC8448929 | dental-erosion | edat 2021/01/01
+      "OCT assessment of erosive tooth wear" — 
+- [ ] PMID 42542069 | RCT(in-vivo crossover) | OA:none | dental-erosion | edat 2026/07/28
+      "Proteomic characterization of the acquired enamel pellicle under acidic challenges at early and mature formation stages" — Arch Oral Biol
+- [ ] PMID 42309374 | RCT(in-situ) | OA:none | dental-erosion | edat 2026/06/17
+      "Managing dentine erosion with silver diamine fluoride: An in situ study" — J Dent
+- [ ] PMID 42640333 | RCT | OA:PMC PMC13506505 | dental-erosion | edat 2026/08/25
+      "In vivo assessment of the Optipen optical reflectometer for detecting enamel surface changes following an erosive challenge" — Clin Oral Investig
+- [ ] PMID 41865811 | RCT(in-situ) | OA:none | dental-erosion | edat 2026/03/20
+      "Anti-erosive effect of silver diamine fluoride against enamel erosion: An in situ study" — J Dent
+- [ ] PMID 41350943 | RCT(in-vitro) | OA:none | dental-erosion | edat 2025/12/06
+      "Development of a cycling protocol for in vitro assessment of enamel erosion; fluoridated mouthrinse with trimetaphosphate" — Clin Oral Investig
+- [ ] PMID 40998105 | RCT(in-vivo) | OA:none | dental-erosion | edat 2025/09/23
+      "Proteins and peptide infused in orally disintegrating film to prevent early dental erosion in vivo" — J Dent
+- [ ] PMID 40660670 | RCT(in-situ) | OA:PMC PMC12584298 | dental-erosion | edat 2025/07/14
+      "Gel Containing Catechin and Mesoporous Silica Nanoparticles for Protecting Root Dentin Against Erosion: In Situ" — Microsc Res Tech
+- [ ] PMID 41318444 | RCT(in-vitro) | OA:PMC PMC12702156 | dental-erosion | edat 2025/11/29
+      "Lessening the erosive influence of electrolyte sports drinks on teeth using L-arginine and aqueous Miswak extract" — Head Face Med
+- [ ] PMID 35147483 | SR(in-vitro) | OA:none | dental-erosion | edat 2022/01/01
+      "[title gist] Titanium tetrafluoride fluoride caries erosion" — Acta Odontol Scand
+- [ ] PMID 35219459 | SR/MA(in-vitro) | OA:none | dental-erosion | edat 2021/01/01
+      "[title gist] Titanium tetrafluoride erosion protective effect" — J Evid Based Dent Pract
+- [ ] PMID 34600044 | SR/MA | OA:none | dental-erosion | edat 2021/01/01
+      "[title gist] Socioeconomic status and tooth wear association" — J Dent
+- [ ] PMID 34816902 | SR/MA(in-vitro) | OA:none | dental-erosion | edat 2021/01/01
+      "[title gist] Stannous fluoride dentifrices erosive wear" — Braz Oral Res
+- [ ] PMID 33571021 | SR | OA:none | dental-erosion | edat 2021/01/01
+      "[title gist] GERD dental erosion association" — Expert Rev Gastroenterol Hepatol
+- [ ] PMID 33383100 | SR/MA | OA:none | dental-erosion | edat 2021/01/01
+      "[title gist] Stannous fluoride erosion hypersensitivity" — J Dent
+- [ ] PMID 42458694 | SR | OA:PMC PMC13583377 | masticatory-muscle-pain | edat 2026/01/01
+      "Myofascial Release for TMD-myogenous" — 
+- [ ] PMID 41874803 | SR/MA | OA:none | masticatory-muscle-pain | edat 2026/01/01
+      "Masseter stiffness bruxism and myofascial pain TMD" — 
+- [ ] PMID 42323639 | SR | OA:PMC PMC13536701 | masticatory-muscle-pain | edat 2026/01/01
+      "BoNT-A myogenous TMD duration effects" — 
+- [ ] PMID 41812583 | SR/MA | OA:PMC PMC12994056 | masticatory-muscle-pain | edat 2026/01/01
+      "Electrolytes muscle pain TMD myalgia" — 
+- [ ] PMID 42474260 | SR/MA | OA:none | masticatory-muscle-pain | edat 2026/01/01
+      "Orofacial pain myofascial/TMJ prevalence" — 
+- [ ] PMID 42183669 | SR | OA:none | masticatory-muscle-pain | edat 2026/01/01
+      "Occlusal splint myogenous TMD effectiveness" — 
+- [ ] PMID 41251874 | SR/MA | OA:none | masticatory-muscle-pain | edat 2025/01/01
+      "PBM muscular vs articular TMD" — 
+- [ ] PMID 40716833 | SR | OA:none | masticatory-muscle-pain | edat 2025/01/01
+      "Ozone therapy temporomandibular disorders" — 
+- [ ] PMID 40233599 | SR | OA:none | masticatory-muscle-pain | edat 2025/01/01
+      "Conservative interventions TMD kinesiophobia" — 
+- [ ] PMID 39764930 | SR/MA | OA:none | masticatory-muscle-pain | edat 2024/01/01
+      "Sports-induced trauma TMD myofascial pain" — 
+- [ ] PMID 35311479 | SR | OA:none | masticatory-muscle-pain | edat 2022/01/01
+      "Stabilization splints TMD muscular origin" — 
+- [ ] PMID 38943858 | SR/MA | OA:none | masticatory-muscle-pain | edat 2024/01/01
+      "Genetic factors temporomandibular disorders" — 
+- [ ] PMID 34957937 | SR/MA | OA:none | masticatory-muscle-pain | edat 2021/01/01
+      "MENS masticatory myofascial pain" — 
+- [ ] PMID 38616535 | SR/MA | OA:none | masticatory-muscle-pain | edat 2024/01/01
+      "Psychological treatments temporomandibular pain" — 
+- [ ] PMID 36978070 | SR | OA:PMC PMC10053140 | masticatory-muscle-pain | edat 2023/01/01
+      "Occlusal splint orofacial muscle pain" — 
+- [ ] PMID 36314254 | NMA | OA:none | masticatory-muscle-pain | edat 2022/01/01
+      "Acupuncture DN masticatory muscle pain NMA" — 
+- [ ] PMID 34674093 | NMA | OA:none | masticatory-muscle-pain | edat 2021/01/01
+      "Myogenous TMD treatments hierarchy network" — 
+- [ ] PMID 35398904 | SR/MA | OA:none | masticatory-muscle-pain | edat 2022/01/01
+      "Anxiety depression TMD myofascial pain" — 
+- [ ] PMID 35305839 | SR | OA:none | masticatory-muscle-pain | edat 2021/01/01
+      "Cannabis orofacial pain myofascial" — 
+- [ ] PMID 35775414 | SR | OA:none | masticatory-muscle-pain | edat 2022/01/01
+      "BoNT myofascial pain related TMD" — 
+- [ ] PMID 35213347 | SR/MA | OA:none | masticatory-muscle-pain | edat 2022/01/01
+      "Rehabilitation muscle-related TMD pain" — 
+- [ ] PMID 34967349 | SR/MA | OA:PMC PMC8718212 | masticatory-muscle-pain | edat 2021/01/01
+      "GaAlAs laser TMD myofascial pain" — 
+- [ ] PMID 34104237 | SR | OA:PMC PMC8169142 | masticatory-muscle-pain | edat 2021/01/01
+      "LLLT temporomandibular joint disorders" — 
+- [ ] PMID 30916621 | SR | OA:none | masticatory-muscle-pain | edat 2019/01/01
+      "DN masticatory myofascial pain pressure threshold" — 
