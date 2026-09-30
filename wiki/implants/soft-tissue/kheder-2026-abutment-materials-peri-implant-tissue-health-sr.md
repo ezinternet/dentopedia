@@ -4,7 +4,7 @@ authors: Kheder W, (et al.)
 year: 2026
 date: 2026-01-01
 doi: 10.2340/biid.v13.46210
-source: sources/kheder-2026-abutment-materials-peri-implant-tissue-health-sr.md
+source: kheder-2026-abutment-materials-peri-implant-tissue-health-sr.md
 category: implants/soft-tissue
 evidence_level: sr
 source_collection: pubmed-abstract
