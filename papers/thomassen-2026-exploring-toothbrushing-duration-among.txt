@@ -1,0 +1,122 @@
+Exploring Toothbrushing Duration Among Adults: A Systematic Review
+Thomassen TMJA, Hu YSR, van der Weijden FA, Slot DE. Int J Dent Hyg 2026;24(4):691-701. DOI 10.1111/idh.70048. PMID 41935331. PMCID PMC13622894.
+Source: PubMed Central full text via PubMed MCP get_full_text_article (JATS text; figures/refs stripped by the tool).
+
+ABSTRACT
+
+Aim: There is a need for greater understanding of the average brushing time among individuals. Since the average brushing time remains unclear, this study involves a systematic review to assess this aspect of oral hygiene practices and how it has evolved over the years.
+
+Material and Methods: The PubMed-MEDLINE and Cochrane-CENTRAL databases were searched from their inception until January 22, 2025, to identify relevant studies. Eligible clinical trials included healthy adults who performed self-brushing. The primary outcome was the average duration of a toothbrushing exercise in seconds/min, with an 'a priori' distinction made between PTB and MTB users. A secondary outcome assessed the correlation between publication year and brushing duration. Sub-analyses differentiated between powered toothbrush (PTB) and manual toothbrush (MTB) users.
+
+Results: Twelve eligible papers were retrieved, providing 16 evaluations with considerable variability in clinical and methodological design. Fourteen evaluations involved MTB users, and two involved PTB users. The study found that uninstructed adults (>= 18 years) brush their teeth with an MTB for an average of 87 s. Notably, with moderate strength in the observation, there is a trend that brushing duration among MTB users appears to increase over publication years. PTB users averaged 143 s of brushing time.
+
+Conclusion: Within the limitations of the present study design, there is moderate certainty that the average MTB toothbrushing duration among uninstructed adults is approximately one and a half minutes, with a trend suggesting an increase in brushing duration over the years. This duration falls short of the recommended guidelines, whereas PTB users brush for over 2 min on average.
+
+Trial Registration: PROSPERO CRD42024565180
+
+1 Introduction
+
+Oral diseases rank among the most prevalent diseases worldwide. The Global Burden of Disease 2015 study reports that approximately 3.5 billion people suffer from oral disease conditions, with dental caries and periodontal diseases being the most common. Risk factors for caries encompass physical, biological, environmental, behavioural, and lifestyle-related elements ... The primary strategy for preventing dental caries and periodontal diseases involves effectively removing plaque through proper oral hygiene.
+
+Currently, the primary method for maintaining good oral hygiene is mechanical plaque removal through toothbrushing. This toothbrushing is most effectively accomplished using a manual toothbrush (MTB) or powered toothbrush (PTB). Despite the advancements in modern technology, MBTs remain popular worldwide due to their affordability and widespread availability. MTBs, after a single brushing exercise, achieve an average reduction of 42% in the plaque score index, while PTBs achieve a 46% reduction. Sub-analyses from both reviews indicate that increased brushing time correlates with further improvements in plaque score reductions. Recently it is recommended that teeth should be brushed for a sufficient duration to ensure effective cleaning of all tooth surfaces. Globally, irrespective of the toothbrush used, it is recommended that individuals should brush their teeth with a fluoride toothpaste at least twice a day for 2 min for optimal oral health. This 2 min brushing advice is incorporated as feedback in PTBs with a timer. While the general hypothesis is that all tooth surfaces can be effectively cleaned within 2 min, this overlooks factors such as the number of teeth, the presence of oral diseases, and manual dexterity.
+
+In contrast, research from over two decades ago calculated that the average brushing time in the general population was closer to 45 s. This figure falls significantly short of the most advocated duration of 2 min. Extending brushing time to the widely accepted minimum of 2 min can yield clinically significant oral health benefits and therefore dental care professionals (DCPs) should encourage patients to brush for longer durations. However, there is limited insight into the average brushing time among individuals. This study aims to conduct a systematic review to assess and provide insights into average brushing times for MTB and PTB users separately, thereby contributing to a better understanding of oral hygiene practices. Additionally, these insights can inform recommendations, guide policy implementation to increase brushing duration, and support the adjustment of current guidelines.
+
+2 Materials and Methods
+
+This systematic review was prepared and described in accordance with the Cochrane Handbook for Systematic Reviews of Interventions and the provided guidance via MOOSE, a reporting guideline from Meta-Analysis of Observational Studies in Epidemiology. Additionally, to support Synthesis Without Meta-analysis (SWiM), the SWiM-reporting items were evaluated. The protocol was developed 'a priori'. Registered under PROSPERO CRD42024565180. Approved by the Institutional Review Board of the Academic Center for Dentistry Amsterdam under number 2023-64985.
+
+2.1 Focussed Condition-Context-Population Question
+What is the average duration of a toothbrushing exercise using either an MTB or PTB among uninstructed adult participants? As a secondary outcome, the trend in brushing duration measured in seconds over the years of publication was examined.
+
+2.2 Search Strategy
+MEDLINE-PubMed and Cochrane-CENTRAL. Last electronic search October 15, 2024, updated January 22, 2025. Search: ((toothbrushing [MeSH Terms]) OR (toothbrushing OR toothbrush* OR toothbrush)) AND (time OR duration OR seconds OR minute OR minutes)
+
+2.3 Screening and Selection
+Titles/abstracts screened independently by two reviewers (YSRH & TMJAT) using Rayyan, blinded; disagreements resolved by consensus or third reviewer (DES). References of selected papers checked. Self-reported questionnaires were excluded for the analysis.
+
+2.4 Heterogeneity Assessment
+Clinical and methodological heterogeneity assessed across studies (design; participant/group characteristics, toothbrush design MTB/PTB, regimen and instructions).
+
+2.5 Methodological Quality Assessment
+ROBINS-I (Sterne et al.), two reviewers, third for disagreement.
+
+2.6 Statistical Analysis
+2.6.1 Data Extraction: mean brushing durations and SDs; SE converted to SD (SD = SE x sqrt(N)); data approximation in figures avoided; authors contacted for missing data.
+2.6.2 Data Analysis: A weighted mean based on the number of participants and its SD was calculated, along with a 95% CI for average brushing time. A priori subgroups of manual or powered toothbrush users. A scatter plot and linear regression of brushing duration vs publication year. SPSS 30.0.
+
+2.7 Grading the Body of Evidence
+GRADE system; two reviewers (YSRH & DES).
+
+3 Results
+
+3.1 Search and Selection
+3287 unique papers identified. Screening of titles/abstracts resulted in 52 papers potentially meeting inclusion. Full texts reviewed; 40 papers excluded. Ultimately, 12 studies included. Of these, three contained multiple evaluations, resulting in 16 evaluations for analysis.
+
+3.2 Methodological Heterogeneity
+All included studies were observational. Two studies (VI, VII) employed a cross-over design, nine (I-V, VII, IX, XI) used a cross-sectional design, and one (VIII) used a cohort design. All 12 studies included the use of an MTB, and two of these studies (IX, XII) also used a PTB. All studies that included a PTB utilized models with an oscillating-rotating brush head design.
+
+3.3 Clinical Heterogeneity
+With the exception of one (VIII), all studies were conducted in Europe. The number of participants varied from 14 to 300. In three studies (VII-IX) participants used their own toothbrushes. In seven studies (I, II, IV, VI, X-XII) toothbrushes were provided by the researchers. In two (III, V) unclear. In most studies (I, III, IV, VII, X-XII) participants performed brushing in front of a mirror. One study (II) no mirror; one third of studies (V, VI, VIII, IX) mirror unspecified. In more than half of studies (III, IV, VII, VIII, X, XI) participants were aware of being filmed. In two studies (II, V) participants were unaware of being watched, filmed and/or timed, while four studies (I, VII, IX, XII) did not mention this. In half of the studies, researchers did not provide (XI, XII) or specify (III, VI-VIII) dentifrice during the single brushing exercise. In the other six studies, participants were provided with dentifrice.
+
+3.4 Methodological Quality
+Reporting on blinding procedures was often unclear or inconclusive. Toothbrushing duration was frequently measured while participants and/or outcome assessors were aware of the intervention being delivered. This lack of blinding contributed to the consistent judgment of moderate risk in this domain.
+
+3.5.1 Primary Outcome; Mean Brushing Time
+The shortest average brushing time observed was 33 s, while the longest was 158 s. Weighted mean across all studies totaling 1246 participants was 96.8 s with a 95% CI: [77.10; 116.50]. Sub-analysis: MTB 87.3 s (95% CI [68.50; 106.10]); PTB 151.1 s (95% CI [142.37; 159.83]). The corresponding 95% CIs do not overlap, indicating a statistically significant difference.
+
+TABLE 2a. Mean brushing time in seconds (SD), MTB users.
+I. Rugg-Gunn and Macgregor, 1978; n=30; 39.1 (16.6)
+II. Macgregor and Rugg-Gunn, 1984; n=128; 60.1 (?)
+III. Macgregor et al., 1985; n=60; 33.0 (12.0)
+IV. Macgregor & Rugg-Gunn, 1986; n=50; 32.8 (?)
+V-1. Saxer et al., 1998; n=138; 68.6 (34.0)
+V-2. Saxer et al., 1998; n=68; 83.5 (32.9)
+V-3. Saxer et al., 1998; n=94; 72.8 (35.0)
+VI. Schafer et al., 2003; n=19; 73.4 (31)
+VII. Ganss et al., 2009; n=103; 96.6 (36.0)
+VIII. Hunter et al., 2012; n=14; 54 (?)
+IX. Rosema et al., 2014; n=90; 114.5 (?)
+X. Harnacke et al., 2015; n=70; 100.6 (56.0)
+XI. Winterfield et al., 2015; n=101; 156.0 (71.1)
+XII. Ganss et al., 2018; n=95; 135 (?)
+(? = unknown/not given)
+
+TABLE 2b. Mean brushing time (SD) in seconds, PTB users.
+IV. Rosema et al., 2014; n=91; 157.5 (?)
+X. Ganss et al., 2018; n=95; 145 (?)
+
+TABLE 3. Weighted mean brushing time (SD) and 95% CI.
+MTB: subjects 1060; evaluations 14; 87.3 (35.9); [68.50; 106.10]
+PTB: subjects 186; evaluations 2; 151.1 (6.3); [142.37; 159.83]
+Cumulative/Overall: 1246; 16; 96.8 (40.2); [77.10; 116.50]
+
+3.5.2 Secondary Outcome; Brushing Duration Related to Publication Year
+Scatter plot with linear regression for MTB users. The regression line shows a positive trend over publication year, suggesting that manual brushing time increases as time progresses. The R2 value of 0.522 indicates that approximately 52% of the variability in brushing duration can be explained by the publication year, demonstrating a moderate relationship. A regression analysis on PTB could not be conducted as only two evaluations were included.
+
+3.6 Evidence Profile (GRADE)
+With moderate certainty, the average brushing time of uninstructed adults using an MTB appeared to be approximately one and a half minutes, and for powered toothbrush users more than 2 min.
+TABLE 4: MTB: 12 studies, 14 experiments; design cross-sectional, cross-over, RCT; risk of bias moderate; consistency rather inconsistent; precision rather precise; directness rather generalizable; publication bias possible; body of evidence Moderate. PTB: 2 studies, 2 experiments; cross-sectional; moderate RoB; rather inconsistent; rather precise; rather generalizable; publication bias possible; body of evidence Limited.
+Summary: With moderate certainty the average manual toothbrushing duration among adults is 1.5 min. With moderate certainty the average powered toothbrushing duration among adults is more than 2 min.
+
+4 Discussion
+
+4.1 Key Findings
+Uninstructed individuals aged 18 and older brush their teeth with an MTB for an average of 87 s during a single brushing exercise, which falls short of the recommended 2 min minimum. PTB users brush significantly longer than MTB users on average, surpassing the 2 min recommendation. The difference between MTB and PTB of over a minute seems clinically relevant. Manual toothbrushing time has increased over time.
+
+4.2 Duration and Effectiveness
+Van der Weijden et al. tested five brushing durations (30, 60, 120, 180, 360 s): 2 min of electric toothbrushing achieved similar plaque removal to 6 min of manual brushing; both manual and electric reached an optimal level of plaque-removing efficacy at 2 min. A systematic review by Seuntjens et al. concluded with moderate certainty that 2 min of brushing is more effective than 1 min for plaque removal; extending from two to 3 min seems not to contribute an additional benefit. This evidence points to an optimal brushing duration of 2 min. Effectiveness can be influenced by other variables (toothbrush type, bristle tuft configuration, filament design, technique, instruction, manual dexterity). A recent FDI consensus recommendation stated that teeth should be brushed for long enough to ensure all surfaces are cleaned effectively; it has been suggested that achievement of effective cleaning is more critical than adherence to a specific brushing duration.
+
+4.3 Trends
+Increasing duration over time suggests a gradual shift towards more thorough oral hygiene practices, probably influenced by evolving guidelines and heightened public awareness. A recent PhD study analysing dental care organization websites found inconclusive information regarding recommended brushing times, highlighting the desire for standardized guidelines.
+
+4.4 Limitations
+Only adults included; children need a separate review. Dental care professionals and students excluded. Number of teeth of participants unclear. Age-related dexterity not explored. All but one study conducted in Europe. Mirror presence may affect behaviour. Toothpaste sensorial properties may influence duration. Naturalistic vs best-case scenario brushing distinction. Brushing times had to be measured using a timer, which may introduce Hawthorne effect. Substantial clinical heterogeneity; future research should standardize procedures and preferably use blinded/automated measurement (e.g., smart powered toothbrushes, ROBAS).
+
+5 Conclusions
+Within the limitations of the present study design, there is moderate certainty that the average toothbrushing duration among uninstructed adults when using an MTB is approximately one and a half minutes, with evidence suggesting an increase in brushing duration over the years. This duration falls short of the recommended guidelines, whereas PTB users brush for over 2 min on average.
+
+6 Clinical Relevance
+ADA, FDI and EFP recommend brushing for 2 min 2x daily. Adults brush with a manual toothbrush on average close to 1.5 min. Dental care professionals should emphasize the importance of brushing time, especially for MTB users. Evidence suggests that powered toothbrushes help promote longer brushing durations.
+
+Funding/COI: The research team of Van der Weijden and Slot at ACTA has previously received advisor fees, lecturer fees or research grants from oral health care manufacturers (Colgate, Dentaid, GABA, Lactona, Oral-B, Procter & Gamble, Sara Lee, Sunstar, TePe, Unilever & Water Pik). Prepared to fulfil co-author YSRH's master's degree requirements. Investigators declare no conflicts of interest.
