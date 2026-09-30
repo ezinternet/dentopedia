@@ -32,6 +32,14 @@ RCT (n=55, CVM 2-3, ~8 months): Invisalign MAA and Activator produced equivalent
 ## 한줄요약
 RCT (n=55, 성장기 Class II, 약 8개월): Invisalign MAA와 Activator 모두 비처치군 대비 하악·상악 골 용적 변화에서 유의한 차이 없음 — 단기 II급 교정은 용적 성장보다 위치 변화(위치적 적응) 주도.
 
+## Three-line Summary
+
+RCT (n=55 growing Class II patients, CVM 2–3) comparing Invisalign MAA, Activator, and untreated controls over 8 months using CBCT volumetric analysis. Neither treatment group showed statistically significant differences from controls in mandibular or maxillary volumetric change (ANCOVA adjusted: mandible p=0.877, maxilla p=0.952). Intragroup MAA maxillary increase was significant (p=0.009) but did not translate to an intergroup difference, reinforcing that short-term Class II correction is predominantly positional, not volumetric.
+
+## 세줄요약
+
+성장기 Class II 환자 55명(CVM 2–3) 대상 8개월 RCT — Invisalign MAA, 액티베이터, 비처치 대조군 세 군을 CBCT 용적으로 비교. 하악·상악 용적 변화 모두 군간 유의차 없음 (ANCOVA 조정 후 하악 p=0.877, 상악 p=0.952). MAA 군내 상악 용적 증가는 유의했으나 (p=0.009) 군간 비교에선 차이 없어 — 단기 II급 교정은 위치 적응이 주도, 용적 성장 기여 미미.
+
 ## 1. Document Information
 - **Journal**: BMC Oral Health, 2026;26(1)
 - **DOI**: 10.1186/s12903-026-07924-4
