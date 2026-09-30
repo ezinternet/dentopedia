@@ -4503,6 +4503,7 @@ tags: []
 - [[periodontics/oral-hygiene-instruction/jeong-2022-efficacy-of-tooth-brushing-via]] — Jeong 2022 · rct · 학령기 아동 42명: 3D 동작인식 스마트칫솔·거울(STM) 교육 vs 구두 TBI, 전악 치태 감소 40.5% vs 40.57% 동등(p=0.44) — 대체 수단이지 우월하진 않음
 - [[periodontics/oral-hygiene-instruction/mitani-2024-effectiveness-novel-oral-hygiene-instruction]] — Mitani 2024 · rct · 깊은 치주낭(PD≥4mm) 치태만 세는 agPCR 앱 기반 OHI vs O'Leary PCR 기반 OHI: 5~6개월 PISA가 새 OHI군에서 더 낮게 수렴; 초록만, n·수치 미기재
 - [[periodontics/oral-hygiene-instruction/saraf-2024-comparative-evaluation-learning-outcome-toothbrushing]] — Saraf 2024 · rct · 3~5세 43명: 만화 기반 칫솔질 교육 vs 아크릴 모형 교육, 8일째 치태 군간 차이 없음(P=0.965); 초록만
+- [[periodontics/oral-hygiene-instruction/holloway-2022-pilot-study-evaluate-impact-digital]] — Holloway 2022 · rct(예비, n=22) · 구강내 카메라 영상 병행 구강위생교육이 표준 교육보다 4주 치태 개선 39.4% vs 20.6%(p<0.05), 치은·출혈은 유의 경계; 초록만
 
 ### periodontics/non-surgical-instrumentation
 - [[periodontics/non-surgical-instrumentation/annisa-2023-chx-gel-chip-srp-sr-ma]] — Annisa 2023 · sr+ma · SRP 후 CHX 칩은 치은지수 우수, 타 항균제는 치주낭 깊이 우수 (MD = 0.58mm, p < 0.00001) (DOI 10.1186/s12903-023-03241-2)
