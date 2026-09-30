@@ -8,8 +8,8 @@ A personal knowledge base of dental research papers, following [Karpathy's LLM W
 |---|---|
 | `INGEST.md` | 논문을 위키에 추가 (`인제스트`, `Add this paper`, PDF 경로). Step 0–5, 필드 정의(`evidence_level:`/`superseded_by:`/`relations:`), 페이지 템플릿·세줄요약 규칙, 파일명 규칙, qmd 임베딩 드레인 |
 | `OPERATIONS.md` | `agenda/`·`slides/`·`interactives/`·`peer-review/`·`note-meeting/`에 뭔가를 만들 때. 라우팅·파일명·frontmatter cross-link·agenda 워크플로·interactive 도구 freshness |
-| `AUDITS.md` | 감사 추가/변경, `logs/` 해석. 22개 감사 표·compounding 지표 |
-| `wiki/_meta/categories.md` | 카테고리 선택. 60여 개 목록·서브카테고리 분기 (**여기 이 파일은 목록을 의도적으로 복제하지 않는다** — 두 벌은 반드시 drift한다) |
+| `AUDITS.md` | 감사 추가/변경, `logs/` 해석. 감사 표·compounding 지표 |
+| `wiki/_meta/categories.md` | 카테고리 선택. 전체 목록·서브카테고리 분기 (**여기 이 파일은 목록을 의도적으로 복제하지 않는다** — 두 벌은 반드시 drift한다) |
 | `SOP.md` | 사람이 읽는 운영 절차 |
 
 질문에 답하는 것만이라면 위 문서들은 필요 없다.
@@ -26,7 +26,7 @@ PUBLISH_BASE = https://ezinternet.github.io/dentopedia
 
 These rules prevent hallucination and keep every claim traceable. They apply to **every** response, including overview pages.
 
-1. **Answer only from ingested knowledge.** When *answering a question*, never use `WebSearch`/`WebFetch` to fill gaps — every claim must be grounded in papers we actually hold. This governs *answer generation*, not *acquiring* papers.
+1. **Answer only from ingested knowledge.** When *answering a question*, never use `WebSearch`/`WebFetch` to fill gaps — every claim must be grounded in papers we actually hold. This governs *answer generation*, not *acquiring* papers. **In this repo Rule #1 overrides the global CLAUDE.md "Web Search Policy"** (search-before-answering-facts) — that policy is for other projects.
 2. **Answer from the wiki first.** `sources/` and `wiki/` are the only sources of truth. Retrieve with QMD, never from the web.
 3. **If the wiki is insufficient, re-read the PDF.** Go to `papers/{stem}.pdf`, extract more with `pypdf`, then update the wiki.
 4. **If the wiki has no paper on the topic, say so.** *"I don't have a paper on this — please give me the PDF, or run an ingest sweep."* Do not improvise clinical claims from memory.
@@ -41,13 +41,13 @@ These rules prevent hallucination and keep every claim traceable. They apply to 
 
 **세션 확신도 2태그 (mandatory — `[확인]` / `[미검증]`)**: 사실 주장(factual claim)을 하는 문장마다 이번 세션에 도구로 검증했는지 표시한다.
 
-- `[확인]` — 이번 세션에서 도구로 직접 확인. Read/Bash/grep/qmd 출력에 근거가 있고, 어느 도구·어느 파일인지 즉答 가능.
+- `[확인]` — 이번 세션에서 도구로 직접 확인. Read/Bash/grep/qmd 출력에 근거가 있고, 어느 도구·어느 파일인지 즉답 가능.
 - `[미검증]` — 그 외 **전부**. 기억·추론·훈련지식·확인 없이 인용한 메모리·그럴듯한 일반론.
 - **붙이는 대상**: 수치·상태·파일 내용·시스템 동작 등 검증 가능한 단정. 특히 **메모리·문서를 인용할 때** (읽지 않고 인용하는 것이 최대 위험원).
 - **안 붙이는 대상**: 질문·제안·의견·계획·방금 이 대화에서 오간 내용. 남용하면 신호가 죽는다.
 - 확신이 안 서면 `[미검증]`. 태그 없이 단정하면 사용자가 지적하도록 되어 있다.
 
-*Why*: 검증한 문장과 지어낸 문장이 **똑같은 확신의 톤**으로 나오는 것이 할루시네이션의 전달 경로다. 태그가 그 톤 차이를 강제한다 — `[미검증]`이 붙는 순간 문장이 스스로를 고발하고, 사용자는 "확실해?"(무의미) 대신 "그거 어디서?"(검증 강제)로 물을 수 있다. 2026-07-17에 메모리를 읽지도 않고 인용해 없는 사실을 만들어낸 사고가 근거. `evidence_level:`(논문 연구설계 강도, 위키 필드)과는 **다른 축**이다.
+*Why*: 근거·사고 사례는 `SOP.md` "규칙 근거 (Rationale)" 참조.
 
 **Term notation rule**: 기술·의학 용어는 대화에서 ALWAYS **한국어 (English, 약어)** 형식. 예: 골-임플란트 접촉률 (Bone-to-Implant Contact, BIC), 골밀도화 (Osseodensification, OD), 임플란트 안정성 지수 (Implant Stability Quotient, ISQ). No exceptions.
 
@@ -86,7 +86,7 @@ Collections: `wiki/`, `sources/`, `agenda/`, `note-meeting/` (markdown only; `pa
 
 **손으로 `wiki/`·`sources/`·`agenda/`·`note-meeting/`의 `.md`를 고쳤으면 그날 안에 `qmd update && qmd embed`를 돌린다.** 이 경로엔 자동화가 **없다** — `embed-until-done` launchd 잡은 큰 백로그를 한 번 드레인하고 멈추는 것이지 주기 잡이 아니고, `qmd update`는 어디서도 자동 실행되지 않는다. 인제스트는 예외로 파이프라인이 알아서 한다(`ingest-one.py --finish`). 재색인은 파일별이 아니라 리포 전체라 그날 한 번이면 그날 편집분이 다 쓸려 들어간다.
 
-*Why*: 고쳐도 색인이 옛것을 들고 있으면 **검색은 고치기 전 내용을 계속 내놓는다** — 페이지는 맞는데 답이 틀리는, 감사로 안 잡히는 실패다. 2026-07-17에 철회 논문 페이지를 고쳐놓고 이걸 빠뜨려 10시간 동안 철회 경고 없는 옛 청크가 검색됐다. 실측: 인덱스 대상을 고친 55일 중 23일(42%)이 그날 인제스트가 없어 이 창에 노출됐다.
+*Why*: `SOP.md` "규칙 근거 (Rationale)" 참조.
 
 **`qmd embed`는 exit 0을 내고도 미완료일 수 있다** — 완료 신호는 `All content hashes already have embeddings`뿐이고, 진짜 백로그는 `qmd status`의 `Pending:`이다 (`qmd update`가 찍는 숫자는 전체 파일 수라 거짓). 큰 백로그 드레인 절차는 `INGEST.md` Step 5.
 
@@ -125,7 +125,7 @@ python3 scripts/daily-audit.py     # 26 audits → logs/
 - **3-tier**: Raw PDF (immutable) → sources/*.md → wiki/**/*.md
 - **English only** in wiki content (RAG-friendly; Korean conversation is fine)
 - **Obsidian compatible**: `[[wikilinks]]`, plain markdown (Obsidian은 읽기만 — agent 편집과 충돌 없음)
-- **No web search**: rule #1 above
+- **No web search when answering**: rule #1 above (ingest-time PubMed acquisition is a separate path)
 - **Signal, not gate**: audits surface state; they never block. Quotas and hard gates cause avoidance.
 - **Single source of truth**: categories → `wiki/_meta/categories.md`; ingest·page templates → `INGEST.md`; OPS routing → `OPERATIONS.md`; audits → `AUDITS.md`; publish URL → `PUBLISH_BASE` above. Never a second copy.
 
