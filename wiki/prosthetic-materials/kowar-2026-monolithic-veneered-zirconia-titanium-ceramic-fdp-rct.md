@@ -4,7 +4,7 @@ authors: Kowar J, Turri A, Stenport V, Stervik C, Barkarmo S
 year: 2026
 date: 2026-02-01
 doi: 10.1111/cid.70129
-source: sources/kowar-2026-monolithic-veneered-zirconia-titanium-ceramic-fdp-rct.md
+source: kowar-2026-monolithic-veneered-zirconia-titanium-ceramic-fdp-rct.md
 category: prosthetic-materials
 evidence_level: rct
 source_collection: pubmed-abstract
