@@ -1,0 +1,15 @@
+Risk of postoperative bleeding after dental extraction in patients on antiplatelet therapy: systematic review and meta-analysis.
+
+Authors: AlAgil J, AlDaamah Z, Khan A, Omar O
+Journal: Oral Surg Oral Med Oral Pathol Oral Radiol 2023;137(3):224-242 (published online 2023-10-13)
+PMID 38155005 | DOI 10.1016/j.oooo.2023.10.006
+
+NOTE: abstract-only — full text not retrieved (no PMC deposit). Content below is the PubMed abstract.
+
+To determine the risk of bleeding after minor extraction in patients on different antiplatelet therapy (APT) regimens.
+
+A search was conducted using PubMed and Google Scholar. Thirty-five papers were included in the systematic review, of which 23 papers provided the requisite information for meta-analysis. Subgroups were created based on the controls, as follows: (1) no control, (2) healthy control, and (3) interrupted APT control. In a meta-analysis, the studies were further subdivided into immediate and delayed bleeding.
+
+No immediate or delayed bleeding risk was found in patients treated with aspirin vs healthy controls (relative risk [RR] = 1.26; P = .5 and RR = 2.17; P = .09, respectively). A higher immediate bleeding was recorded for patients on single nonaspirin APT vs those in the healthy population (RR = 3.72; P = .0009). A high risk of bleeding was recorded in patients receiving dual APT compared with healthy controls for immediate (RR = 10.3; P < .0001) and delayed (RR = 7.72; P = .001) bleeding. Dual APT continuation showed a higher risk of immediate bleeding (RR = 2.13) than interrupted APT, but the difference was insignificant (P = .07).
+
+Dental extraction can be performed safely in patients on aspirin monotherapy. In contrast, patients receiving dual APT should be considered at risk for immediate and continued bleeding.
