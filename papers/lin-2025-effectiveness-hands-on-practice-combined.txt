@@ -1,0 +1,34 @@
+# PubMed/PMC text (PMC12650761; PMID 41294020; DOI 10.3290/j.ohpd.c_2325)
+# Retrieved via PubMed MCP get_full_text_article. Saved: Abstract, Methods, Results (with tables), key Discussion/Limitations. Introduction and long Future Directions prose omitted (not used for claims).
+Title: The Effectiveness of Hands-On Practice Combined with Multimedia Education in Oral Hygiene Instruction for Adolescent Orthodontic Patients
+Authors: Lin Q, Zheng Y, Chen Y, Lin Y. Oral Health Prev Dent 2025;23:711-720 (published 2025-11-26)
+
+ABSTRACT
+Purpose: To evaluate the efficacy of a novel educational approach combining hands-on practice with multimedia resources for improving oral hygiene knowledge, attitudes, and behaviours among adolescent orthodontic patients.
+Methods: RCT, 120 adolescents (12-18) in fixed orthodontic treatment, Hospital of Xiamen Medical College. Intervention (n=60): hands-on practice + multimedia; control (n=60): standard verbal instructions + printed pamphlet. Three monthly sessions over 12 weeks, then 3-month follow-up. Primary outcomes: knowledge (20-item questionnaire), attitudes (OHIP-14), plaque index and gingival index. Secondary: satisfaction, practice frequency, multimedia usage.
+Results: Knowledge 12.3 +/- 2.8 -> 17.9 +/- 1.8 (intervention) vs 12.1 +/- 2.9 -> 13.8 +/- 2.5 (control), P<0.001. OHIP-14 18.5 +/- 5.7 -> 10.8 +/- 3.9 vs 18.3 +/- 5.5 -> 16.8 +/- 5.0. PI 2.1 +/- 0.5 -> 1.0 +/- 0.3 vs 2.0 +/- 0.6 -> 1.7 +/- 0.5. GI 1.8 +/- 0.4 -> 0.9 +/- 0.3 vs 1.7 +/- 0.5 -> 1.5 +/- 0.4. 93% satisfaction; brushing >=2x/day 89.5% vs 62.5%; daily interdental aids 77.2% vs 42.9%.
+Conclusion: combination significantly improved oral hygiene outcomes vs traditional instruction.
+
+METHODS
+RCT at Hospital of Xiamen Medical College, 18 months, January 2023 to June 2024. IRB approval and registration in "the Clinical Trials Registry" (no registry number given). 120 adolescents in fixed orthodontic treatment. Inclusion: age 12-18; fixed treatment >=6 months; no systemic disease affecting hygiene; consent from patient and parent. Exclusion: cognitive/physical impairment; concurrent other oral health education programmes; planned relocation.
+Sample size: G*Power 3.1.9.4, from a pilot study, d=0.5, alpha 0.05, power 0.80 -> 51 per group; +15% -> 60 per group.
+Randomisation: computer-generated sequence, stratified by age (12-15, 16-18) and gender; sealed opaque sequentially numbered envelopes. Participants and educators not blinded; dental hygienists doing clinical assessments and the statistician were blinded.
+Intervention: 3 sessions (~60 min each) at baseline, week 4, week 8, over 12 weeks. Session 1: questionnaires, PI/GI baseline, introduction to custom mobile app (3D tooth models with appliances, virtual cleaning practice) and instructional videos; standardised kit (manual orthodontic toothbrush, interdental brushes, floss threaders, fluoride toothpaste). Session 2 (1 month later): hands-on practice in groups of 5-6 on typodont models with fixed appliances, Modified Bass technique and interdental aids, plaque-disclosing solution feedback, hygienist correction, group discussion, app modules assigned. Session 3 (1 month later): reassessment with PI/GI, individual feedback, pair problem-solving workshop, review.
+Control: single 30-min session with a hygienist, verbal instruction on brushing/flossing with braces, printed pamphlet, same kit.
+Outcomes: knowledge (validated 20-item questionnaire); attitudes via OHIP-14 (at baseline, 12 weeks, 3-month follow-up); PI (Silness and Loe) and GI (Loe and Silness) by calibrated hygienists at the same time points; satisfaction (custom questionnaire, intervention group); self-reported practice frequency (daily log); app/video usage analytics.
+Analysis: SPSS 26; t-test or Mann-Whitney; chi-square; repeated measures ANOVA/Friedman; mixed-effects model (group, time, group-by-time; participant random effect). Two-tailed, P<0.05. Cohen's d.
+
+RESULTS
+120 enrolled (60/60); lost to follow-up 3 (intervention) and 4 (control) -> 57 and 56; retention 94.2%.
+Table 1 baseline: age 15.3 +/- 1.8 vs 15.5 +/- 1.7 (P=0.547); male 28 (49.1%) vs 27 (48.2%); treatment duration 14.2 +/- 4.5 vs 13.9 +/- 4.3 months; PI 2.1 +/- 0.5 vs 2.0 +/- 0.6 (P=0.328); GI 1.8 +/- 0.4 vs 1.7 +/- 0.5 (P=0.247); knowledge 12.3 +/- 2.8 vs 12.1 +/- 2.9; OHIP-14 18.5 +/- 5.7 vs 18.3 +/- 5.5.
+Table 2 Knowledge (intervention n=57 vs control n=56): baseline 12.3 +/- 2.8 vs 12.1 +/- 2.9, diff 0.2 (-0.9 to 1.3), P=0.698; 12 wk 18.7 +/- 1.5 vs 14.2 +/- 2.3, diff 4.5 (3.8 to 5.2), P<0.001; 3-mo 17.9 +/- 1.8 vs 13.8 +/- 2.5, diff 4.1 (3.3 to 4.9), P<0.001. Group-by-time F(2,222)=47.62, P<0.001; Cohen's d at 3 months 1.86.
+Table 3 OHIP-14: baseline 18.5 +/- 5.7 vs 18.3 +/- 5.5; 12 wk 11.2 +/- 4.1 vs 17.1 +/- 5.2, diff -5.9 (-7.6 to -4.2); 3-mo 10.8 +/- 3.9 vs 16.8 +/- 5.0, diff -6.0 (-7.6 to -4.4), P<0.001. F(2,222)=31.15, P<0.001; d=1.39.
+Table 4 PI: baseline 2.1 +/- 0.5 vs 2.0 +/- 0.6; 12 wk 1.2 +/- 0.4 vs 1.8 +/- 0.5, diff -0.6 (-0.8 to -0.4); 3-mo 1.0 +/- 0.3 vs 1.7 +/- 0.5, diff -0.7 (-0.9 to -0.5), P<0.001. GI: baseline 1.8 +/- 0.4 vs 1.7 +/- 0.5; 12 wk 1.1 +/- 0.3 vs 1.6 +/- 0.4, diff -0.5 (-0.6 to -0.4); 3-mo 0.9 +/- 0.3 vs 1.5 +/- 0.4, diff -0.6 (-0.7 to -0.5), P<0.001. Interaction PI F(2,222)=53.78, GI F(2,222)=48.92 (both P<0.001); d at 3 months 1.71 (PI), 1.63 (GI).
+Satisfaction (intervention): mean 4.6 +/- 0.5/5; very satisfied 37 (64.9%), satisfied 16 (28.1%), neutral 3 (5.3%), dissatisfied 1 (1.7%), very dissatisfied 0; 93% satisfied or very satisfied.
+Table 6 at 3 months: brushing >=2x daily 51 (89.5%) vs 35 (62.5%), P<0.001; interdental aids >=1x daily 44 (77.2%) vs 24 (42.9%), P<0.001.
+Table 7 usage: weekly app access 5.3 +/- 1.8; video views over 12 weeks 18.7 +/- 4.2; app time 42.5 +/- 15.3 min/week.
+Subgroup: no significant interaction by age group (12-15 vs 16-18) or gender. No adverse events.
+
+DISCUSSION / LIMITATIONS (excerpt)
+Authors describe the approach as novel, integrating typodont hands-on training with a custom mobile application. Limitations stated: 3-month follow-up short relative to orthodontic treatment; single centre; no cost-effectiveness analysis; participants/educators not blinded (assessors blinded); subgroup analyses may be underpowered. Interventions differ in contact time (3 x ~60 min vs 1 x 30 min).
+Ethics: approved by Ethics Committee of Stomatology Hospital of Xiamen Medical College, approval number KS20250507001, written informed consent. Data availability statement: "The simulation experiment data used to support the findings of this study are available from the corresponding author upon request." Funding: none. Conflicts: none.
