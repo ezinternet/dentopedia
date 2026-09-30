@@ -44,6 +44,14 @@ Systematic review following PRISMA guidelines. Six databases searched (Dec 2022)
 - Bonding protocol affects retention during treatment
 - Most evidence from in-vitro/FEA; limited clinical RCTs
 
+## Details Re-read from PDF (2026-09-30)
+
+- **Study mix**: 26 included = 11 FEA, 8 in-vitro, 4 RCTs, 3 cross-sectional; the two RCTs rated medium quality were judged effectively low-quality evidence. Common FEA flaws: no model validation, undescribed boundary loading or model origin.
+- **Transfer tray**: harder, thicker transfer trays gave higher attachment-transfer accuracy; a less rigid tray was associated with easier removal and fewer detachments at first bonding (clinicians' tactile assessment, not instrumented) — an accuracy-vs-detachment trade-off.
+- **Filler content**: more filler → better shear bond strength and transfer accuracy, but no significant further gain above ~72% filler; viscosity did not affect attachment shape/volume; condensable composites lengthen chair time and are harder to use with a rigid tray.
+- **Ceramic restorations**: chemical pretreatment (HF acid or air abrasion, then a dedicated bond) rather than standard composite bonding.
+- **Authors' conclusions**: (1) attachments significantly improve retention and tooth movement; (2) conventional attachments with at least one beveled edge benefit both movement and anchorage; on anterior teeth, lingual/palatal placement is worth considering for both mechanics and esthetics; (3) flowable or orthodontic bonding composites with as much filler as possible, bonded with a rigid transfer tray.
+
 ## Related Papers
 
 - [[orthodontics/clear-aligner/nucera-2022-composite-attachments-clear-aligners-sr]] — related attachment SR
