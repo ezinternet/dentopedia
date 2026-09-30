@@ -1,0 +1,15 @@
+PMID: 38186286 | DOI: 10.1111/jre.13236 | J Periodontal Res 2024;59(3):458-467 | PubMed abstract (no PMC full text)
+Title: Effectiveness of novel oral hygiene instruction avoiding inattentional blindness using an application for unique plaque control record calculation: A randomized clinical trial.
+Authors: Mitani A, Matsuura T, Aino M, Hayashi JI, Nishida E, Hori M, Kikuchi T (Aichi Gakuin University, Nagoya, Japan)
+
+This study was performed to estimate the effectiveness of novel oral hygiene instruction (OHI) focusing on areas with deep periodontal pockets for reduction of periodontal inflammation.
+
+Because stained areas on the plaque chart do not always correspond to the areas with deep periodontal pockets, conventional OHI based on O'Leary's plaque control record (PCR) often provides guidance inconsistent with the target area.
+
+This randomized clinical trial involved two groups: (1) OHI based on the PCR limited in deep pocket sites (novel OHI group) and (2) OHI based on O'Leary's PCR (conventional OHI group). The unique PCR (aggressive target for PCR [agPCR]; only counting the plaque-stained areas with PD at >=4 mm sites) for the novel OHI was calculate by dedicated expression program. The probing depth (PD), bleeding on probing (BOP), and periodontal inflamed surface area (PISA) were obtained at the baseline and 5 to 6 months later.
+
+The approximation curve with PISA before and after instruction indicated that the PISA converged to a lower value after instruction in the novel OHI group. The approximation curve with the improvement rate of the PISA and agPCR showed a positive correlation in the novel OHI group but no correlation in the conventional OHI group.
+
+Control of inflammation was more effective in the novel OHI group. These results suggest that this novel OHI technique using our developed application could be used as a strategy to improve the effectiveness of brushing instruction.
+
+Keywords: free available application for unique PCR calculation; inattentional blindness; novel oral hygiene instruction; periodontal inflamed surface area; probing depth
