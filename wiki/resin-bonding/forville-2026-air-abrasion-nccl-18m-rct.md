@@ -7,7 +7,7 @@ doi: 10.1016/j.jdent.2026.106759
 pmid: "42144228"
 evidence_level: rct
 category: resin-bonding
-source: sources/forville-2026-air-abrasion-nccl-18m-rct.md
+source: forville-2026-air-abrasion-nccl-18m-rct.md
 pdf_path: /Users/oracleneo/llm-wiki/papers/forville-2026-air-abrasion-nccl-18m-rct.pdf
 pdf_filename: forville-2026-air-abrasion-nccl-18m-rct.pdf
 tags:
