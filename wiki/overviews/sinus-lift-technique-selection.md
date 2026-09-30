@@ -324,6 +324,9 @@ CBCT에서 반드시 확인할 항목 (기존 6항목 → 8항목으로 확장, 
 - [[overviews/sinus-lift-isq-loading-timing]] — 술식별 ISQ 궤적·부하 시기
 - [[overviews/isq-loading-threshold]] — ISQ 임계값 종합 매트릭스
 - [[overviews/osseodensification-clinical-applications]] — OD 4 시나리오 (sub-antral 포함)
+- [[overviews/sinus-lift-lateral-2026-synthesis]] — 측방접근 슈나이더막 천공 위험·수복, 이식재 비교 (lateral-window 세부)
+- [[overviews/transcrestal-maxillary-sinus-augmentation-overview]] — 치조정접근 상악동 거상 (Transcrestal Sinus Floor Elevation, TSFE) 세부: 술식·OD·graftless
+- [[overviews/short-implant-vs-sinus-augmentation-decision]] — 짧은 임플란트 vs 상악동 증대 결정 (RBH 낮은 경우 대안 경로)
 - [[overviews/bone-regeneration-protocol-ladder]] — ARP·GBR 인접
 
 ## Wiki Coverage Caveat
