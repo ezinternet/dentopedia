@@ -15,20 +15,20 @@ tags: [navigation, category-index, geriatric-dentistry]
 > [!summary] 한국어 핵심요약
 > - **분야**: 노년치의학
 > - **범위**: Oral frailty, xerostomia/hyposalivation, root caries in elderly, professionally applied fluoride, polypharmacy oral effects
-> - **수록 논문**: 11편
+> - **수록 논문**: 12편
 
 ## Three-line Summary
 
 **Scope**: Oral frailty, xerostomia/hyposalivation, root caries in elderly, professionally applied fluoride, polypharmacy oral effects
-**Indexed papers**: 11 papers in `wiki/geriatric-dentistry/`.
+**Indexed papers**: 12 papers in `wiki/geriatric-dentistry/`.
 
 ## 세줄요약
 
 **분야**: 노년치의학
-**수록 논문**: 11편
+**수록 논문**: 12편
 **하위 카테고리**: 없음
 
-## Papers in this Category (11)
+## Papers in this Category (12)
 
 | Paper |
 |---|
@@ -42,4 +42,5 @@ tags: [navigation, category-index, geriatric-dentistry]
 | [[li-2024-prevalence-oral-frailty-older-adults|The prevalence of oral frailty among older adults: a systematic review and meta-analysis]] |
 | [[ponzo-2024-presbygeusia-narrative-review|Does presbygeusia really exist? An updated narrative review]] |
 | [[silva-2026-oral-health-alzheimers-disease-life-course|Oral Health in Alzheimer's Disease: A Life-Course Perspective on Clinical Management and Caregiver Support]] |
+| [[srisanoi-2026-associations-between-multimorbidity-polypharmacy-oral|Associations Between Multimorbidity, Polypharmacy and Oral Conditions in Older Adults: A Systematic Review and Meta-Analysis]] |
 | [[zhu-2024-prevalence-unfavourable-outcome-oral-frailty|Prevalence and unfavourable outcome of oral frailty in older adult: a systematic review and meta-analysis]] |
