@@ -15,6 +15,7 @@ source_papers:
   - drug/antibiotics/law-2026-antibiotics-after-non-surgical-root
   - oral-surgery/schmidt-2021-pericoronitis-management-antibiotic-prescribing-recommendations
   - drug/antibiotics/momand-2024-antibiotic-prophylaxis-early-implant-failure
+  - drug/antibiotics/esposito-2026-antibiotics-implant-placement-cochrane-pub5
 evidence_level: synthesis
 source: synthesis
 ---
@@ -30,24 +31,24 @@ source: synthesis
 > - **치관주위염 (Pericoronitis)**: Schmidt 2021 SR (11편) — 경증·중등도는 국소 세척·변연제거가 1차; 항생제는 심부공간 감염·전신 증상 동반 시만. 그러나 **치과의사의 ~75%, 환자 코호트의 >50%가 항생제 처방** — 치과 항생제 과처방 1–4위 진단. 주 원인: 진단 불확실성 (47.3%)·시간 압박 (30%). [확인]
 > - **소아 치의학 (Goel 2020)**: 전 지구 항생제 소비량 2000–2015년 65% 증가; 치과의사는 전체 처방의 7–11%. 소아 조기 노출 시 장내 미생물 불균형 (Dysbiosis)·비만·아목시실린으로 인한 법랑질 발달 결손·칸디다 중복감염. 소아에서도 적응증은 성인과 동일: 전신 침범 시에만. [확인]
 > - **실제 진료 격차 (Law 2026, PBRN 전향, n=1,723)**: 비수술적 근관치료 후 환자 5명 중 1명(19%)이 항생제 수령 — 가이드라인 적응증을 크게 초과. 소수 인종·저학력 환자가 더 많이 받음 (임상 필요도 차이 아닌 형평성 격차). [확인]
-> - **임플란트 예방 항생제 재검토 (Momand 2024, SR+MA, 7 RCT, n=1,859)**: 위약대조·이중맹검 RCT만 포함 → 조기 실패 유의 감소 없음 (RR 0.66, CI 0.30–1.47; **NNT=143**); GRADE 중간. 발치 후 즉시 식립에만 효과 가능성. 건강한 환자의 통상 임플란트 수술에 routine 예방 항생제 불필요. [확인]
+> - **임플란트 예방 항생제 재검토 (Momand 2024, SR+MA, 7 RCT, n=1,859)**: 위약대조·이중맹검 RCT만 포함 → 조기 실패 유의 감소 없음 (RR 0.66, CI 0.30–1.47; **NNT=143**); GRADE 중간. 발치 후 즉시 식립에만 효과 가능성. 단, 포함 기준이 넓은 Esposito 2026 Cochrane pub5 (RCT 15편, 2,874명)는 술전 단일 Amoxicillin 2g이 조기 실패를 줄인다고 보고 (RR 0.34, NNT 19, moderate) — 두 SR+MA가 반대 방향이라 "routine 예방 불필요"는 확정이 아니라 **근거가 갈리는 사안**이며, 공통 결론은 다회·연장 투여는 이득 없음. [확인]
 > - **즉시 적용 4룰**: ① 치수염·국소 근단농양 → 항생제 처방 전에 반드시 DCDT 실시 ② 치관주위염 → 국소 세척부터; 항생제는 발열·개구장애 동반 시만 ③ 소아 처방 시 체중 기반 용량 + 최단 기간 ④ 통상 임플란트 수술 → 술전 단일 2g로 충분하되 "통상" 건강 환자에서 생략도 증거 근거 있음 (NNT=143).
 
 ## Three-line Summary
 
-Synthesis of 9 papers (ADA CPG, 3 SR+MA, 2 SR, 3 narrative reviews) on antibiotic use for dental pain, pulpal/periapical conditions, and odontogenic infections: the unifying principle is that pain is not infection — systemic antibiotics are contraindicated for symptomatic irreversible pulpitis, pulp necrosis with localized abscess, and uncomplicated pericoronitis; definitive conservative dental treatment (DCDT: pulpotomy/pulpectomy/RCT/I&D) is invariably first-line, with antibiotics justified only when infection spreads beyond the periodontium with systemic signs (fever ≥38°C, trismus, lymphadenopathy, cellulitis).
+Synthesis of 10 papers (ADA CPG, 4 SR+MA, 2 SR, 3 narrative reviews) on antibiotic use for dental pain, pulpal/periapical conditions, and odontogenic infections: the unifying principle is that pain is not infection — systemic antibiotics are contraindicated for symptomatic irreversible pulpitis, pulp necrosis with localized abscess, and uncomplicated pericoronitis; definitive conservative dental treatment (DCDT: pulpotomy/pulpectomy/RCT/I&D) is invariably first-line, with antibiotics justified only when infection spreads beyond the periodontium with systemic signs (fever ≥38°C, trismus, lymphadenopathy, cellulitis).
 
 Prophylactic antibiotics do not reduce post-endodontic pain or swelling at any time point (Shamszadeh 2020 SR+MA, 8 RCTs, n=690; all SMDs non-significant), and a US PBRN prospective study (Law 2026, n=1,723) found 1-in-5 post-RCT patients received antibiotics anyway — with sociodemographic equity gaps showing minority patients prescribed more, not because of greater clinical need; European surveys document 40–86% inappropriate prescribing for endodontic conditions (Segura-Egea 2017), and pericoronitis drives inappropriate prescribing for ~75% of dentists (Schmidt 2021 SR, 11 studies).
 
-When genuine odontogenic infection warrants antibiotics, narrow-spectrum (amoxicillin) is equally effective as broad-spectrum with drainage established (Teoh 2021 SR, no-antibiotic = broad-spectrum in one study), and routine implant prophylaxis produces NNT=143 in high-quality RCT-only analysis (Momand 2024), making it unjustifiable in uncomplicated healthy-patient surgery; drug selection, pediatric dosing principles (Goel 2020 "4 D's"), and the delayed-prescription option for access-limited settings are covered.
+When genuine odontogenic infection warrants antibiotics, narrow-spectrum (amoxicillin) is equally effective as broad-spectrum with drainage established (Teoh 2021 SR, no-antibiotic = broad-spectrum in one study), and routine implant prophylaxis is contested — NNT=143 in a blinded-RCT-only analysis (Momand 2024) versus NNT=19 in the broader Cochrane pub5 (Esposito 2026) — so only extended or multi-dose courses are clearly unjustified; drug selection, pediatric dosing principles (Goel 2020 "4 D's"), and the delayed-prescription option for access-limited settings are covered.
 
 ## 세줄요약
 
-9편 (ADA CPG·SR+MA 3·SR 2·narrative 3) 종합: 통합 원칙은 **통증 ≠ 감염** — 증상성 비가역적 치수염 (SIP)·치수괴사 + 국소농양·비복잡 치관주위염에 전신 항생제 금기; 결정적 보존 치과치료 (DCDT: 발수·근관치료·근관형성·절개배농)가 불변의 1차 처치; 항생제는 감염이 치주를 넘어 전신 징후 (발열 ≥38°C·개구장애·림프절병증·봉와직염)를 동반할 때만 정당화.
+10편 (ADA CPG·SR+MA 4·SR 2·narrative 3) 종합: 통합 원칙은 **통증 ≠ 감염** — 증상성 비가역적 치수염 (SIP)·치수괴사 + 국소농양·비복잡 치관주위염에 전신 항생제 금기; 결정적 보존 치과치료 (DCDT: 발수·근관치료·근관형성·절개배농)가 불변의 1차 처치; 항생제는 감염이 치주를 넘어 전신 징후 (발열 ≥38°C·개구장애·림프절병증·봉와직염)를 동반할 때만 정당화.
 
 예방 항생제는 근관치료 후 통증·부종을 어느 시점에서도 유의미하게 감소시키지 않으며 (Shamszadeh 2020 SR+MA, 8 RCT, n=690; 전 시점 SMD 비유의), 미국 PBRN 전향 연구 (Law 2026, n=1,723)에서 5명 중 1명이 근관치료 후 항생제를 받았고 — 소수 인종·저학력 환자에게 과처방되는 형평성 격차 존재; 유럽 치과의사의 40–86%가 근관 치료 상태에서 부적절 처방 (Segura-Egea 2017), 치관주위염에서 ~75%가 항생제 처방 (Schmidt 2021 SR, 11편).
 
-실제 감염에 항생제가 필요한 경우에도 배농 확립 시 좁은 스펙트럼 = 광범위 항생제 동일 결과 (Teoh 2021 SR); 임플란트 통상 예방 항생제는 고품질 위약대조 RCT만 분석 시 NNT=143 (Momand 2024 SR+MA, 7 RCT, n=1,859) — 건강 환자 통상 수술에 생략 정당화; 소아 처방은 4 D's 원칙으로 최소화.
+실제 감염에 항생제가 필요한 경우에도 배농 확립 시 좁은 스펙트럼 = 광범위 항생제 동일 결과 (Teoh 2021 SR); 임플란트 통상 예방 항생제는 이중맹검 RCT만 분석 시 NNT=143 (Momand 2024 SR+MA, 7 RCT, n=1,859)이나 포괄적 Cochrane pub5 (Esposito 2026, 15 RCT)는 NNT=19 — 근거가 갈리며 다회·연장 투여만 명확히 불필요; 소아 처방은 4 D's 원칙으로 최소화.
 
 ---
 
@@ -55,7 +56,7 @@ When genuine odontogenic infection warrants antibiotics, narrow-spectrum (amoxic
 
 This overview synthesises the evidence for antibiotic use in settings where dentists most commonly over-prescribe: **dental pain of pulpal/periapical origin, odontogenic infections, pericoronitis, post-endodontic symptoms, and routine implant surgery.** The companion overview [[drug-antibiotic-stewardship-overview]] covers prophylaxis for systemic conditions (IE, joint replacement), extractive procedures, periodontics, sinus-lift, and stewardship interventions. Together they cover the full range of dental antibiotic indications.
 
-The central finding across all 9 papers is consistent: **the most common dental pain scenarios do not require antibiotics — they require dental treatment.** Dentists understand this in principle (91% worry about antibiotic resistance; 93% want updated guidelines; Segura-Egea, Schmidt) yet prescribe inappropriately in 20–86% of situations. The stewardship gap is not knowledge-based but behavioural: diagnostic uncertainty, time pressure, patient expectations, and equity dynamics all drive prescribing beyond the evidence base.
+The central finding across all 10 papers is consistent: **the most common dental pain scenarios do not require antibiotics — they require dental treatment.** Dentists understand this in principle (91% worry about antibiotic resistance; 93% want updated guidelines; Segura-Egea, Schmidt) yet prescribe inappropriately in 20–86% of situations. The stewardship gap is not knowledge-based but behavioural: diagnostic uncertainty, time pressure, patient expectations, and equity dynamics all drive prescribing beyond the evidence base.
 
 ---
 
@@ -217,7 +218,7 @@ aPDT (antimicrobial photodynamic therapy) is a promising adjunct with no resista
 
 ---
 
-## 8. Implant Prophylaxis Revisited — NNT=143 (Momand 2024)
+## 8. Implant Prophylaxis Revisited — NNT=143 (Momand 2024) vs NNT=19 (Cochrane pub5, 2026)
 
 [확인] Momand 2024 SR+MA (BMC Oral Health; PROSPERO CRD42021292610); restricted to **placebo-controlled, double-blinded, low/moderate-RoB RCTs**; 7 trials, 1,859 patients, 3,014 implants:
 
@@ -229,7 +230,7 @@ aPDT (antimicrobial photodynamic therapy) is a promising adjunct with no resista
 
 GRADE certainty: **moderate**. The subgroup excluding immediate post-extraction implants reverses the direction (RR 1.10) — any residual benefit is localised to immediate post-extraction placement, not routine uncomplicated surgery.
 
-**Tension with Torof 2023 and Esposito 2013** (in [[drug-antibiotic-stewardship-overview]]): Earlier SR+MAs recommended preoperative single amoxicillin 2g; Momand 2024 exposes this as artefact of including high-RoB, non-blinded trials. The "NNT=143 with CI to infinity" means routine prophylaxis treats very many healthy patients to prevent one early failure — not justifiable against antibiotic-resistance risk. Immediate post-extraction implants may still warrant prophylaxis given higher failure risk in those subgroups.
+**Tension with Torof 2023 and Esposito 2026** (in [[drug-antibiotic-stewardship-overview]]): Momand 2024 restricts itself to blinded placebo-controlled RCTs and argues that earlier benefit estimates (Torof 2023, Esposito 2013 pub4) partly reflect high-RoB, non-blinded trials. But the Cochrane update **Esposito 2026 pub5** (15 RCTs, 2,874 participants, 8 low / 7 high risk of bias; supersedes pub4) still finds a moderate-certainty benefit of single preoperative amoxicillin 2 g (implant failure RR 0.34, 0.22–0.53; NNT 19) — so the two most recent SR+MAs point in opposite directions and differ mainly in inclusion criteria. Momand's "NNT=143 with CI to infinity" is a wide, non-significant estimate, not proof of no benefit. What both support: single dose = multiple doses, and extended courses add nothing. Immediate post-extraction implants remain the subgroup where prophylaxis is most defensible. Whether to prescribe a single preoperative dose in healthy, uncomplicated placement is a judgement call between a small absolute benefit and antibiotic-resistance/adverse-event cost, not a settled "not needed".
 
 ---
 
@@ -305,7 +306,7 @@ Patient presents with dental pain, swelling, or odontogenic infection
 | Equity gap in post-RCT antibiotic prescribing | Moderate (prospective PBRN, GEE) | Law 2026 |
 | Pediatric: same indications as adults | Consensus (narrative review) | Goel 2020 |
 | Early amoxicillin exposure → enamel defects | Low (narrative, observational) | Goel 2020 |
-| Implant routine prophylaxis: NNT=143 | Moderate (SR+MA, 7 RCT, blinded only) | Momand 2024 |
+| Implant routine prophylaxis: NNT=143 (blinded-only) vs NNT=19 (Cochrane pub5) — contested | Moderate each (SR+MA) | Momand 2024; Esposito 2026 |
 | Implant benefit may be limited to immediate post-extraction | Low (subgroup, 2 RCTs) | Momand 2024 |
 | European dentists 40–86% inappropriate prescribing | Moderate (multi-country surveys) | Segura-Egea 2017 |
 
@@ -334,7 +335,8 @@ Patient presents with dental pain, swelling, or odontogenic infection
 - [[drug/antibiotics/goel-2020-antibiotic-prescriptions-in-pediatric-dentistry]] — pediatric antibiotic prescribing; 4 D's; enamel defects (narrative-review, 2020)
 
 ### Implant prophylaxis
-- [[drug/antibiotics/momand-2024-antibiotic-prophylaxis-early-implant-failure]] — blinded-RCT-only SR+MA; NNT=143; routine prophylaxis not warranted (sr+ma, 2024)
+- [[drug/antibiotics/momand-2024-antibiotic-prophylaxis-early-implant-failure]] — blinded-RCT-only SR+MA; NNT=143; contested by the broader Cochrane pub5 (sr+ma, 2024)
+- [[drug/antibiotics/esposito-2026-antibiotics-implant-placement-cochrane-pub5]] — Cochrane pub5, 15 RCTs: single preop amoxicillin 2 g RR 0.34, NNT 19, moderate; supersedes pub4 (sr+ma, 2026)
 
 ### Overprescribing evidence (endodontic context)
 - [[drug/antibiotics/mendez-millan-2024-antibiotic-overprescription-apical-periodontitis-sr-ma]] — AP overprescribing quantified; complements Law 2026 and Segura-Egea 2017
