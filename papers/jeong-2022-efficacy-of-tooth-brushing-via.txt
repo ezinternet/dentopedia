@@ -1,0 +1,79 @@
+Title: Efficacy of tooth brushing via a three-dimensional motion tracking system for dental plaque control in school children: a randomized controlled clinical trial
+Authors: Jeong JS, Kim KS, Lee JW, Kim KD, Park W
+Journal: BMC Oral Health 2022;22(1):626. DOI 10.1186/s12903-022-02665-6. PMID 36550451. PMCID PMC9773603
+Source: PubMed Central full text via PubMed MCP get_full_text_article (tables and figures not included in retrieved text)
+
+ABSTRACT
+School children are in a developmental period in which permanent teeth replace primary dentition. It is also a period with a high incidence of gingivitis and caries, which can be improved with adequate tooth brushing. Advances in information technology have led to the development of smart health devices that assist in tooth brushing. We compared the effectiveness of computer-assisted toothbrushing using a toothbrush instruction (TBI) method called the smart toothbrush and smart mirror (STM) system with that of conventional TBI (verbal instructions) for plaque control in school children.
+This randomized controlled clinical trial analyzed and compared the reduction of the modified Quigley-Hein plaque index between the two methods in 42 school children. The participants were randomly assigned to the STM system group (n = 21) or conventional-TBI group (n = 21). The plaque indices were evaluated at baseline, immediately after TBI (day 0), and 1 week and 1 month after TBI.
+The STM system and conventional TBI led to an average reduction of 40.50% and 40.57%, respectively, in whole mouth plaque. Reductions in the plaque indices within each tested time period were observed in both groups (P < 0.001), and the mean plaque reduction did not differ between the two groups (P = 0.44).
+Trial registration ClinicalTrials.gov NCT04627324, retrospectively registered 13/11/2020.
+
+FULL TEXT
+Introduction
+
+According to the World Health Organization, oral diseases have a lifelong impact due to pain, discomfort, disfigurement, or even death in some cases. Dental plaque is a biofilm or mass of bacteria that grows on intraoral surfaces. Cariogenic diet and failure to control dental plaque results in dental caries and periodontal diseases, which are common worldwide. Tooth brushing is a safe and efficacious technique for removal and prevention of dental plaque.
+
+During school-age years, new permanent teeth erupt, which are very rugged with deep pits. Given their shape, the teeth are vulnerable to caries. Tooth brushing during this time is difficult due to the presence of shaky and newly erupting teeth, both of which increase the risk for gingivitis.
+
+Parents' management of their child's tooth brushing and the child's cooperation in the process are particularly important during this period. However, parents may not be aware of the adequate tooth brushing technique and may not be able to visit the dentist to learn about this technique. Furthermore, even if they do know the correct technique, it is difficult for parents to supervise their child every time they brush their teeth. In a study of Luciane et al., the importance of regular instruction for children was emphasized.
+
+In recent years, advances in information technology (IT) have motivated the development of many smart health devices that enable more effective health management. In dentistry, electronic sonic toothbrushes and oscillating/pulsating toothbrushes, as well as devices that assist in tooth brushing, such as those that record tooth brushing time, have been developed. Nevertheless, these devices do not evaluate whether the users are brushing their teeth properly and do not teach the users how to brush their teeth. The smart toothbrush and smart mirror (STM) system (XiuSolution, Gyeonggi-do, Korea) is one such smart health device that contains a 3D accelerometer and a magnetic sensor, and gives feedback on positioning and efficiency during toothbrushing.
+
+The aim of this research was to compare the efficacy of a computer-assisted tooth brushing instruction (TBI) method, the STM system, with that of conventional TBI for plaque control in school children. Our hypothesis was that the efficacy of the STM system would be comparable with that of conventional TBI.
+
+Materials and methods
+
+Trial design
+This was a parallel randomized control trial in which participants were assigned to either TBI with the STM system or the control group received conventional TBI (i.e., verbal instructions). The tooth brushing effect was evaluated at baseline, immediately after TBI (day 0), and 1 week and 1 month after TBI with the plaque indices. The trial was organized in accordance with the CONSORT guidelines.
+
+Participants
+This study was part of a larger study that also included adult participants, the data for which have been published. Both studies were approved by the institutional review board of the Yonsei University dental hospital on the same protocol (IRB Number: 2-2008-0005). The researcher posted recruitment posters at the Yonsei University Dental Hospital, and two public health centers in Gangseo-gu and Mapo-gu. The participants were recruited in one of the following three institutes: the Yonsei University Dental Hospital (n = 15) and two public health centers in Gangseo-gu and Mapo-gu (n = 40). Written consent was obtained from the parents or guardians of the children during the first visit.
+
+Participants (age 6-12 years) were required to have at least one of the following symptoms of gingivitis, swollen gums, bright red or purple gums, gums that are tender or painful to the touch, gums that bleed easily when you brush or floss. And a baseline plaque scores > 1.5 (the Turesky Modification of the Quigley-Hein index) was also required. Participants were excluded if they had rampant caries or orthodontic appliances, or were immunocompromised (such as systemic diseases, any adverse medical history, or long-term medication use).
+
+Tooth brushing Instruction System
+The STM system comprises a smart mirror, which is integrated into a computer monitor, and a 3D motion-capture device inside of a modified toothbrush holder. The computer program displays a toothbrushing animation in the mirror. Toothbrush motions detected by sensors embedded inside the holder are captured and sent to the server for analysis. The STM system determines the tooth brushing pattern and provides real-time voice feedback such as "Good," "Very Good," and "Oops." The level of TBI can be adjusted according to the user's tooth brushing ability. Brushing areas are divided into 16 zones (anterior facial and lingual [palatal], right and left posterior occlusal, buccal, and lingual [palatal] for maxillary and mandibular teeth), and the duration of toothbrushing for each area can be set. The user can also select the method of brushing, from rolling, modified bass, or circle (Fones method). The color of the tooth in the mirror gradually changes to white according to the toothbrushing compliance and suitability. On completion, the STM system shows a summary report. In this study, we opted to use the rolling method as recommended by the Korean Dental Association, and the brushing duration of each area was set to 10 s.
+
+Interventions
+Participants were assigned to either TBI with the STM system or the control group received conventional TBI. Both were provided with the same fluoride-containing toothpaste (2080, Aekyung, Korea) and toothbrushes with a flat-trimmed nylon bristle of identical type and length. Both TBIs were formulated by one dental hygienist. Participants had to brush their teeth at home or school for three minutes, three times daily, and after meals, as recommended by the Korean Dental Association.
+
+Outcomes
+The primary outcome was an at least 15% reduction in terms of Q-H plaque index in teeth cleaning effective before and after education, which could be regard as a significant plaque reduction by the American Dental Association (ADA) guideline. Secondary outcome was statistical changes between two groups regarding Q-H plaque index, in terms of whole mouth, buccal and lingual surface, the buccal surface of the maxillary first molars, respectively.
+
+Plaque scoring
+Participants first swished with a disclosing solution (2-Tone Disclosing Agent, Young Dental) for one minute. The Turesky Modification of the Quigley-Hein index was assessed by visual inspection after mouth gargling and confirmed with photography. Plaque examination was scored on the buccal and lingual surface of all the teeth (if a permanent tooth had not erupted yet, the primary tooth in the corresponding area was tested). The index was scored between 0 and 5 (0: no plaque; 1: separate flecks of plaque at the cervical margin of the tooth; 2: a thin continuous band of plaque at the cervical margin of the tooth <= 1 mm; 3: plaque covering up to one-third of the tooth crown; 4: plaque covering between one-third and two-thirds of the tooth crown; and 5: plaque covering >= two-thirds of the tooth crown).
+The examiner was trained and calibrated, exhibiting an intra-rater reliability kappa of 0.81 for the plaque index.
+
+Data collection
+Participants visited the institutes three times. During the initial visit, participants underwent plaque examination and were then instructed using the STM system (used only during the appointment) or conventional TBI, according to their assigned group, followed by a re-evaluation of the plaque index. Subsequent visits were made at approximately 1 week (6-8 days) and 1 month (28-32 days) after the first visit. All participants brushed their teeth at home and did not eat or drink before the plaque index was checked. Forty-two participants completed every visit.
+
+Sample size
+Sample size calculation was based on the mean values and standard deviations of overall plaque scores provided by Kim et al., 2015. A sample size of 21 participants was required per group to ensure a power of 90% (with two-sided alpha = 0.05) or a greater chance of detecting differences of 3.07% plaque reduction between the two groups, assuming 15.94% SD and 10% dropouts after randomization.
+
+Randomization and blinding
+Participants were randomly assigned into two equal-sized groups by flipping a coin. Another dental hygienist who was blinded to the group assignment determined the plaque status twice during the first visit and once during each subsequent visit.
+
+Statistical methods
+IBM SPSS 25. Kolmogorov-Smirnov test for normality. Linear mixed model (LMM) was used for repeated measure data that fit normality, and Mann-Whitney U test for data that did not, and all data were assessed for change over time (baseline, after instruction [day 0], and 1 week and 1 month later). A 15% statistically significant plaque reduction is needed to provide evidence of greater effectiveness in teeth cleaning. Alpha level 0.05.
+
+Results
+Of the 55 Korean children who were assessed, 10 participants did not meet the baselines scores. Therefore, 45 participants were finally recruited in the study, of which 42 completed the protocol and three dropped out for reasons unrelated to the study. Forty-two participants (female 21, male 21; mean age and SD 9.64 and 1.96 years, range 6-12 years) completed the study. The minimum and maximum number of teeth were 12 and 28, respectively (mean 21.93, SD 4.06). Most participants were right-handed (93%).
+
+Primary outcome variable
+The mean whole mouth prebrushing plaque scores for the STM system and conventional TBI groups were 3.31 and 3.21, respectively, and all participants exhibited gingivitis with different status. A linear mixed model revealed a significant effect of time (p < 0.001). The whole mouth plaque index decreased from 3.31 at baseline to 1.88 one month after TBI for the STM system group, and from 3.21 to 1.72 for the same time period for the conventional TBI group. The mean percentage plaque score reductions for the STM system group and conventional TBI group over the entire study period were 40.5% and 40.57%, respectively. The mean percentage plaque score reductions for the STM system group and the conventional TBI group were 46.69% and 43.83%, respectively, for the buccal surfaces, and 31.05% and 33.89%, respectively, for the lingual surfaces.
+
+Secondary outcome variables
+No effect of group (time x group) with respect to whole mouth plaque indices (p = 0.44). There were no statistically significant differences in the effects of plaque removal on either the buccal or lingual sides between the two groups (p = 0.78 and p = 0.25, respectively). A sub-analysis of the buccal surface of the maxillary first molars revealed that although the STM system group tended to show a greater plaque index reduction than the conventional TBI group immediately and 1 month after TBI, these differences failed to reach statistical significance.
+
+Adverse events
+No participant reported any equipment-related physical harm.
+
+Discussion
+The STM system and conventional TBI led to an average reduction of 40.50% and 40.57%, respectively, in whole mouth plaque. Both were effective for teaching children how to brush their teeth. While the plaque index differed significantly across time points for both systems (p < 0.001), there was no significant difference between the two groups (p = 0.44). Both groups showed greater plaque improvement in the buccal than in the lingual region. However, the greater effect on the lingual side in the control group at 1 month was possibly influenced by the Pygmalion effect. For the buccal surface of the maxillary first molars, which is an area often neglected during tooth brushing by children, the STM system was actually more effective than the conventional TBI (authors' statement; sub-analysis did not reach statistical significance per Results). Previous studies regarding the dissemination of TBI via mass media programs, posters, plays, or videos reported unsatisfactory results due to insufficient repetition and reinforcement. Results are consistent with Kim et al. who found a 39.88% reduction in the plaque index using a similar system. Other methods have included leaflet-based and videotape-based TBI, which showed plaque reduction rates of 58% and 37%, respectively. The discrepancy may be due to differences in baseline plaque index or index systems. The STM system is a manual toothbrush connected to a computerized handle that does not vibrate, but only detects movement and gives feedback.
+
+Limitations
+First, this was a short-term study, and the participants used the STM system only during the test visits. Second, further studies may be required to assess the correlation between the summary scores and the degree of dental plaque control achieved. Lastly, the study failed to collect data on SES and parent education, as well as caries rate/DMFS.
+
+Conclusion
+The STM system exhibited efficacy in plaque control and may be a potential alternative for conventional TBI.
