@@ -21,6 +21,24 @@ tags: [marginal-bone-loss, hypertension, hyperlipidemia, diabetes, dental-implan
 
 기존 위키는 항고혈압제·항고지혈증제 복용이 임플란트 생존/실패율에 미치는 영향([[drug/systemic-disease/chidiac-2026-antihypertensive-antihyperlipidemic-antidepressant-implant-survival]], [[drug/systemic-disease/masri-2024-early-implant-failure-antihypertensive-medications]])을 다루지만, '실패' 대신 '변연골소실(Marginal Bone Loss, MBL)'을 outcome으로 삼은 데이터는 없었다. 본 단면연구(57명/165 임플란트)는 고혈압·고지혈증 및 해당 약물 복용이 MBL과 유의하게 연관됨을 보여 chidiac의 약물-임플란트 상관관계 서사를 보강하되(단, 저자는 이를 다약제(polypharmacy) 교란 효과로 해석해 인과관계로 단정하지 않음), masri가 보고한 '치료된 고혈압군의 더 나은 예후'와는 outcome 지표(생존 vs 골소실)가 달라 반례로 기능한다.
 
+## Three-line Summary
+
+Cross-sectional record-based study (UNLV dental clinics, 2012–2022; 1,310 records screened → 57 patients/165 implants; predominantly elderly ≥65yr = 79%; IRB exempt) evaluating MBL correlation with hypertension (HTN), hyperlipidemia (HL), and diabetes mellitus (DM).
+
+MBL prevalence was highest in HTN (78.95%, p<0.001) and HL (73.68%, p<0.001) patients, lowest in DM (40.35%, NS); combined HTN+HL had highest MBL incidence (29.82%, p=0.036); antihypertensive and statin medications themselves showed MBL association (both p<0.001).
+
+The MBL-medication association likely reflects polypharmacy confounding in multimorbid elderly patients rather than direct drug-mediated bone loss — this is a descriptive cross-sectional study with a very small sample (n=57) and cannot establish causation.
+
+## 세줄요약
+
+횡단연구(UNLV 치과클리닉, 2012–2022; 1,310건 스크린→57환자/165임플란트; 65세 이상 79%; IRB 면제) — 고혈압·고지혈증·당뇨와 임플란트 주변 변연골소실(MBL) 상관관계.
+
+MBL 유병률: 고혈압 78.95%(p<0.001), 고지혈증 73.68%(p<0.001) — 최고; 당뇨 40.35%(NS). 고혈압+고지혈증 병존 시 MBL 최고(29.82%, p=0.036); 항고혈압약·스타틴 복용도 MBL과 통계적 연관성(p<0.001).
+
+항고혈압약 자체가 MBL을 야기한다는 해석보다, 다중이환 고령 환자에서의 다약제복용(polypharmacy) 혼란 변수로 보는 것이 적절 — 소규모(n=57) 횡단연구로 인과관계 수립 불가.
+
+---
+
 ## Summary
 
 Cross-sectional, record-based study (UNLV dental clinics, 2012–2022; 1,310 records screened → 57 patients/165 implants meeting criteria; predominantly elderly ≥65yr = 79%; IRB exempt). Evaluated MBL correlation with HTN, hyperlipidemia (HL), and diabetes mellitus (DM).
