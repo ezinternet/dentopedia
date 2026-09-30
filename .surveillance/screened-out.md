@@ -17,3 +17,119 @@
 - PMID 36767768 | implant-iip-loading | edat 2023/01/29 | screened 2026/07/24 | CKD-patient placement-protocol risk stratification, not loading-timing protocol
 - PMID 35763398 | implant-iip-loading | edat 2022/06/28 | screened 2026/07/24 | socket-shield gap-vs-contact technique study; better fit immediate-implant/gap-grafting
 - PMID 30702152 | implant-iip-loading | edat 2019/01/31 | screened 2026/07/24 | GBR effect on crestal bone (functional loading is the follow-up timepoint, not the studied variable); better fit immediate-implant/gap-grafting
+- PMID 42742564 | geriatric-drug | edat 2026/09/01 | screened 2026/10/01 | OAB trospium cognitive safety; non-dental
+- PMID 41159930 | geriatric-drug | edat 2025/10/01 | screened 2026/10/01 | OAB oral meds NMA older adults; dry mouth only as ADR, non-dental
+- PMID 40198627 | geriatric-drug | edat 2025/04/01 | screened 2026/10/01 | mirabegron vs vibegron OAB; non-dental
+- PMID 34731124 | geriatric-drug | edat 2021/11/01 | screened 2026/10/01 | mirabegron vs anticholinergics OAB tolerability; non-dental
+- PMID 34009257 | geriatric-drug | edat 2021/05/01 | screened 2026/10/01 | asthma inhaler therapy; non-dental
+- PMID 41386261 | geriatric-drug | edat 2025/12/01 | screened 2026/10/01 | GBD violence burden; unrelated
+- PMID 40790093 | geriatric-drug | edat 2025/08/12 | screened 2026/10/01 | BP target in >=75y; no oral outcome
+- PMID 41121658 | geriatric-drug | edat 2025/10/01 | screened 2026/10/01 | midazolam pediatric dentistry; not geriatric
+- PMID 39609644 | geriatric-drug | edat 2024/11/28 | screened 2026/10/01 | exercise for hypertension; unrelated
+- PMID 39384143 | geriatric-drug | edat 2024/10/09 | screened 2026/10/01 | aldosterone synthase inhibitors; no oral outcome
+- PMID 39020285 | geriatric-drug | edat 2024/07/17 | screened 2026/10/01 | PPI after PCI cardiovascular; no oral outcome
+- PMID 38564099 | geriatric-drug | edat 2024/04/02 | screened 2026/10/01 | adolescent suicidality umbrella; unrelated
+- PMID 36336115 | geriatric-drug | edat 2022/11/03 | screened 2026/10/01 | statin primary prevention threshold; no oral outcome
+- PMID 34666689 | geriatric-drug | edat 2021/10/20 | screened 2026/10/01 | antihypertensive deprescribing; no oral outcome
+- PMID 35964703 | antithrombotic-dental | edat 2022/01/01 | screened 2026/10/01 | executive summary of 35964704 (ACCP guideline); redundant
+- PMID 36825396 | antithrombotic-dental | edat 2023/01/01 | screened 2026/10/01 | off-topic: oral-cancer anticoagulant research, not dental care
+- PMID 39568788 | antithrombotic-dental | edat 2024/01/01 | screened 2026/10/01 | off-topic: oral-cancer anticoagulant research, not dental care
+- PMID 42225271 | antithrombotic-dental | edat ? | screened 2026/10/01 | haiku screen: not include/borderline (no per-item reason recorded); broad 'dental' term noise
+- PMID 42658178 | antithrombotic-dental | edat ? | screened 2026/10/01 | haiku screen: not include/borderline (no per-item reason recorded); broad 'dental' term noise
+- PMID 40892607 | antithrombotic-dental | edat ? | screened 2026/10/01 | haiku screen: not include/borderline (no per-item reason recorded); broad 'dental' term noise
+- PMID 39792236 | antithrombotic-dental | edat ? | screened 2026/10/01 | haiku screen: not include/borderline (no per-item reason recorded); broad 'dental' term noise
+- PMID 39676120 | antithrombotic-dental | edat ? | screened 2026/10/01 | haiku screen: not include/borderline (no per-item reason recorded); broad 'dental' term noise
+- PMID 39674834 | antithrombotic-dental | edat ? | screened 2026/10/01 | haiku screen: not include/borderline (no per-item reason recorded); broad 'dental' term noise
+- PMID 39019384 | antithrombotic-dental | edat ? | screened 2026/10/01 | haiku screen: not include/borderline (no per-item reason recorded); broad 'dental' term noise
+- PMID 39112998 | antithrombotic-dental | edat ? | screened 2026/10/01 | haiku screen: not include/borderline (no per-item reason recorded); broad 'dental' term noise
+- PMID 35754043 | antithrombotic-dental | edat ? | screened 2026/10/01 | haiku screen: not include/borderline (no per-item reason recorded); broad 'dental' term noise
+- PMID 34773920 | antithrombotic-dental | edat ? | screened 2026/10/01 | haiku screen: not include/borderline (no per-item reason recorded); broad 'dental' term noise
+- PMID 34022169 | antithrombotic-dental | edat ? | screened 2026/10/01 | haiku screen: not include/borderline (no per-item reason recorded); broad 'dental' term noise
+- PMID 32318963 | antithrombotic-dental | edat ? | screened 2026/10/01 | haiku screen: not include/borderline (no per-item reason recorded); broad 'dental' term noise
+- PMID 41725165 | antithrombotic-dental | edat ? | screened 2026/10/01 | haiku screen: not include/borderline (no per-item reason recorded); broad 'dental' term noise
+- PMID 40844745 | antithrombotic-dental | edat ? | screened 2026/10/01 | haiku screen: not include/borderline (no per-item reason recorded); broad 'dental' term noise
+- PMID 42051741 | antithrombotic-dental | edat ? | screened 2026/10/01 | haiku screen: not include/borderline (no per-item reason recorded); broad 'dental' term noise
+- PMID 41298273 | antithrombotic-dental | edat ? | screened 2026/10/01 | haiku screen: not include/borderline (no per-item reason recorded); broad 'dental' term noise
+- PMID 40544386 | antithrombotic-dental | edat ? | screened 2026/10/01 | haiku screen: not include/borderline (no per-item reason recorded); broad 'dental' term noise
+- PMID 40803759 | antithrombotic-dental | edat ? | screened 2026/10/01 | haiku screen: not include/borderline (no per-item reason recorded); broad 'dental' term noise
+- PMID 40543905 | antithrombotic-dental | edat ? | screened 2026/10/01 | haiku screen: not include/borderline (no per-item reason recorded); broad 'dental' term noise
+- PMID 40390370 | antithrombotic-dental | edat ? | screened 2026/10/01 | haiku screen: not include/borderline (no per-item reason recorded); broad 'dental' term noise
+- PMID 39921198 | antithrombotic-dental | edat ? | screened 2026/10/01 | haiku screen: not include/borderline (no per-item reason recorded); broad 'dental' term noise
+- PMID 40910473 | antithrombotic-dental | edat ? | screened 2026/10/01 | haiku screen: not include/borderline (no per-item reason recorded); broad 'dental' term noise
+- PMID 37870599 | antithrombotic-dental | edat ? | screened 2026/10/01 | haiku screen: not include/borderline (no per-item reason recorded); broad 'dental' term noise
+- PMID 39278007 | antithrombotic-dental | edat ? | screened 2026/10/01 | haiku screen: not include/borderline (no per-item reason recorded); broad 'dental' term noise
+- PMID 39019498 | antithrombotic-dental | edat ? | screened 2026/10/01 | haiku screen: not include/borderline (no per-item reason recorded); broad 'dental' term noise
+- PMID 38270783 | antithrombotic-dental | edat ? | screened 2026/10/01 | haiku screen: not include/borderline (no per-item reason recorded); broad 'dental' term noise
+- PMID 38870350 | antithrombotic-dental | edat ? | screened 2026/10/01 | haiku screen: not include/borderline (no per-item reason recorded); broad 'dental' term noise
+- PMID 36427063 | antithrombotic-dental | edat ? | screened 2026/10/01 | haiku screen: not include/borderline (no per-item reason recorded); broad 'dental' term noise
+- PMID 36477292 | antithrombotic-dental | edat ? | screened 2026/10/01 | haiku screen: not include/borderline (no per-item reason recorded); broad 'dental' term noise
+- PMID 36577318 | antithrombotic-dental | edat ? | screened 2026/10/01 | haiku screen: not include/borderline (no per-item reason recorded); broad 'dental' term noise
+- PMID 39077410 | antithrombotic-dental | edat ? | screened 2026/10/01 | haiku screen: not include/borderline (no per-item reason recorded); broad 'dental' term noise
+- PMID 34935068 | antithrombotic-dental | edat ? | screened 2026/10/01 | haiku screen: not include/borderline (no per-item reason recorded); broad 'dental' term noise
+- PMID 33346393 | antithrombotic-dental | edat ? | screened 2026/10/01 | haiku screen: not include/borderline (no per-item reason recorded); broad 'dental' term noise
+- PMID 33284979 | antithrombotic-dental | edat ? | screened 2026/10/01 | haiku screen: not include/borderline (no per-item reason recorded); broad 'dental' term noise
+- PMID 34907794 | antithrombotic-dental | edat ? | screened 2026/10/01 | haiku screen: not include/borderline (no per-item reason recorded); broad 'dental' term noise
+- PMID 34698582 | antithrombotic-dental | edat ? | screened 2026/10/01 | haiku screen: not include/borderline (no per-item reason recorded); broad 'dental' term noise
+- PMID 33184943 | antithrombotic-dental | edat ? | screened 2026/10/01 | haiku screen: not include/borderline (no per-item reason recorded); broad 'dental' term noise
+- PMID 40304072 | dental-erosion | edat 2025/01/01 | screened 2026/10/01 | About tooth wear from mastication/feeding ecology in animals, not erosion
+- PMID 34358808 | dental-erosion | edat 2021/01/01 | screened 2026/10/01 | animal dietary consistency/occlusal change; not erosion
+- PMID 33836485 | dental-erosion | edat 2021/01/01 | screened 2026/10/01 | sleep bruxism in children; attrition, not erosion
+- PMID 42806498 | masticatory-muscle-pain | edat 2026/01/01 | screened 2026/10/01 | general myofascial/neck-shoulder pain, not masticatory/TMD-specific
+- PMID 42626590 | masticatory-muscle-pain | edat 2026/01/01 | screened 2026/10/01 | general myofascial/neck-shoulder pain, not masticatory/TMD-specific
+- PMID 42539573 | masticatory-muscle-pain | edat 2026/01/01 | screened 2026/10/01 | general myofascial/neck-shoulder pain, not masticatory/TMD-specific
+- PMID 42052014 | masticatory-muscle-pain | edat 2026/01/01 | screened 2026/10/01 | general myofascial/neck-shoulder pain, not masticatory/TMD-specific
+- PMID 41961845 | masticatory-muscle-pain | edat 2026/01/01 | screened 2026/10/01 | Knee disorders, not masticatory
+- PMID 41166736 | masticatory-muscle-pain | edat 2025/01/01 | screened 2026/10/01 | general myofascial/neck-shoulder pain, not masticatory/TMD-specific
+- PMID 41859411 | masticatory-muscle-pain | edat 2026/01/01 | screened 2026/10/01 | general myofascial/neck-shoulder pain, not masticatory/TMD-specific
+- PMID 41207644 | masticatory-muscle-pain | edat 2025/01/01 | screened 2026/10/01 | Fibromyalgia systemic, not masticatory muscle
+- PMID 40159109 | masticatory-muscle-pain | edat 2025/01/01 | screened 2026/10/01 | general myofascial/neck-shoulder pain, not masticatory/TMD-specific
+- PMID 41458509 | masticatory-muscle-pain | edat 2025/01/01 | screened 2026/10/01 | general myofascial/neck-shoulder pain, not masticatory/TMD-specific
+- PMID 41316611 | masticatory-muscle-pain | edat 2025/01/01 | screened 2026/10/01 | general myofascial/neck-shoulder pain, not masticatory/TMD-specific
+- PMID 40860981 | masticatory-muscle-pain | edat 2025/01/01 | screened 2026/10/01 | general myofascial/neck-shoulder pain, not masticatory/TMD-specific
+- PMID 40237694 | masticatory-muscle-pain | edat 2025/01/01 | screened 2026/10/01 | general myofascial/neck-shoulder pain, not masticatory/TMD-specific
+- PMID 40203136 | masticatory-muscle-pain | edat 2025/01/01 | screened 2026/10/01 | general myofascial/neck-shoulder pain, not masticatory/TMD-specific
+- PMID 40199184 | masticatory-muscle-pain | edat 2025/01/01 | screened 2026/10/01 | general myofascial/neck-shoulder pain, not masticatory/TMD-specific
+- PMID 40082902 | masticatory-muscle-pain | edat 2025/01/01 | screened 2026/10/01 | general myofascial/neck-shoulder pain, not masticatory/TMD-specific
+- PMID 39716164 | masticatory-muscle-pain | edat 2024/01/01 | screened 2026/10/01 | general myofascial/neck-shoulder pain, not masticatory/TMD-specific
+- PMID 39652213 | masticatory-muscle-pain | edat 2024/01/01 | screened 2026/10/01 | general myofascial/neck-shoulder pain, not masticatory/TMD-specific
+- PMID 39445187 | masticatory-muscle-pain | edat 2024/01/01 | screened 2026/10/01 | general myofascial/neck-shoulder pain, not masticatory/TMD-specific
+- PMID 39593416 | masticatory-muscle-pain | edat 2024/01/01 | screened 2026/10/01 | general myofascial/neck-shoulder pain, not masticatory/TMD-specific
+- PMID 38709332 | masticatory-muscle-pain | edat 2024/01/01 | screened 2026/10/01 | general myofascial/neck-shoulder pain, not masticatory/TMD-specific
+- PMID 38765261 | masticatory-muscle-pain | edat 2024/01/01 | screened 2026/10/01 | general myofascial/neck-shoulder pain, not masticatory/TMD-specific
+- PMID 37950343 | masticatory-muscle-pain | edat 2023/01/01 | screened 2026/10/01 | general myofascial/neck-shoulder pain, not masticatory/TMD-specific
+- PMID 37939115 | masticatory-muscle-pain | edat 2024/01/01 | screened 2026/10/01 | general myofascial/neck-shoulder pain, not masticatory/TMD-specific
+- PMID 37743593 | masticatory-muscle-pain | edat 2023/01/01 | screened 2026/10/01 | LBP etiology, not masticatory muscle pain management
+- PMID 37205742 | masticatory-muscle-pain | edat 2023/01/01 | screened 2026/10/01 | general myofascial/neck-shoulder pain, not masticatory/TMD-specific
+- PMID 38229132 | masticatory-muscle-pain | edat 2024/01/01 | screened 2026/10/01 | Hormone replacement therapy TMD risk, not treatment
+- PMID 38157883 | masticatory-muscle-pain | edat 2023/01/01 | screened 2026/10/01 | Low back pain, not masticatory muscles
+- PMID 37924127 | masticatory-muscle-pain | edat 2023/01/01 | screened 2026/10/01 | general myofascial/neck-shoulder pain, not masticatory/TMD-specific
+- PMID 37986258 | masticatory-muscle-pain | edat 2023/01/01 | screened 2026/10/01 | Lumbar pain, not masticatory
+- PMID 37644424 | masticatory-muscle-pain | edat 2023/01/01 | screened 2026/10/01 | BMI risk factor study, not treatment
+- PMID 37318477 | masticatory-muscle-pain | edat 2023/01/01 | screened 2026/10/01 | Rhomboid shoulder, not masticatory
+- PMID 37173661 | masticatory-muscle-pain | edat 2023/01/01 | screened 2026/10/01 | general myofascial/neck-shoulder pain, not masticatory/TMD-specific
+- PMID 36872769 | masticatory-muscle-pain | edat 2023/01/01 | screened 2026/10/01 | general myofascial/neck-shoulder pain, not masticatory/TMD-specific
+- PMID 36350630 | masticatory-muscle-pain | edat 2022/01/01 | screened 2026/10/01 | general myofascial/neck-shoulder pain, not masticatory/TMD-specific
+- PMID 35962884 | masticatory-muscle-pain | edat 2022/01/01 | screened 2026/10/01 | general myofascial/neck-shoulder pain, not masticatory/TMD-specific
+- PMID 33678438 | masticatory-muscle-pain | edat 2021/01/01 | screened 2026/10/01 | Bruxism etiology/pathology, not muscle pain management
+- PMID 36219747 | masticatory-muscle-pain | edat 2022/01/01 | screened 2026/10/01 | general myofascial/neck-shoulder pain, not masticatory/TMD-specific
+- PMID 36050701 | masticatory-muscle-pain | edat 2022/01/01 | screened 2026/10/01 | general myofascial/neck-shoulder pain, not masticatory/TMD-specific
+- PMID 35796787 | masticatory-muscle-pain | edat 2022/01/01 | screened 2026/10/01 | Pelvic floor myofascial pain, not masticatory
+- PMID 34894759 | masticatory-muscle-pain | edat 2021/01/01 | screened 2026/10/01 | Spinal pain myofascial, not masticatory
+- PMID 35628484 | masticatory-muscle-pain | edat 2022/01/01 | screened 2026/10/01 | general myofascial/neck-shoulder pain, not masticatory/TMD-specific
+- PMID 34114639 | masticatory-muscle-pain | edat 2022/01/01 | screened 2026/10/01 | general myofascial/neck-shoulder pain, not masticatory/TMD-specific
+- PMID 35212282 | masticatory-muscle-pain | edat 2022/01/01 | screened 2026/10/01 | Knee osteoarthritis, not masticatory
+- PMID 35144946 | masticatory-muscle-pain | edat 2022/01/01 | screened 2026/10/01 | general myofascial/neck-shoulder pain, not masticatory/TMD-specific
+- PMID 35051002 | masticatory-muscle-pain | edat 2022/01/01 | screened 2026/10/01 | Pelvic pain, not masticatory
+- PMID 34783743 | masticatory-muscle-pain | edat 2021/01/01 | screened 2026/10/01 | Lower extremity, not masticatory
+- PMID 33722564 | masticatory-muscle-pain | edat 2021/01/01 | screened 2026/10/01 | general myofascial/neck-shoulder pain, not masticatory/TMD-specific
+- PMID 33990485 | masticatory-muscle-pain | edat 2021/01/01 | screened 2026/10/01 | general myofascial/neck-shoulder pain, not masticatory/TMD-specific
+- PMID 34579747 | masticatory-muscle-pain | edat 2021/01/01 | screened 2026/10/01 | general myofascial/neck-shoulder pain, not masticatory/TMD-specific
+- PMID 35282856 | masticatory-muscle-pain | edat 2022/01/01 | screened 2026/10/01 | general myofascial/neck-shoulder pain, not masticatory/TMD-specific
+- PMID 34391253 | masticatory-muscle-pain | edat 2021/01/01 | screened 2026/10/01 | Knee, not masticatory
+- PMID 32962567 | masticatory-muscle-pain | edat 2020/01/01 | screened 2026/10/01 | general myofascial/neck-shoulder pain, not masticatory/TMD-specific
+- PMID 33640993 | masticatory-muscle-pain | edat 2021/01/01 | screened 2026/10/01 | Pelvic floor, not masticatory
+- PMID 33603940 | masticatory-muscle-pain | edat 2021/01/01 | screened 2026/10/01 | general myofascial/neck-shoulder pain, not masticatory/TMD-specific
+- PMID 33383293 | masticatory-muscle-pain | edat 2020/01/01 | screened 2026/10/01 | Fibromyalgia systemic not myofascial management
+- PMID 32520797 | masticatory-muscle-pain | edat 2021/01/01 | screened 2026/10/01 | general myofascial/neck-shoulder pain, not masticatory/TMD-specific
+- PMID 33159004 | masticatory-muscle-pain | edat 2020/01/01 | screened 2026/10/01 | general myofascial/neck-shoulder pain, not masticatory/TMD-specific
+- PMID 32301801 | masticatory-muscle-pain | edat 2021/01/01 | screened 2026/10/01 | Pelvic floor, not masticatory
