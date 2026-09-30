@@ -6,7 +6,7 @@ date: 2025-01-13
 doi: "10.3390/medicina61010074"
 source: sachelarie-2025-osteoporosis-diabetes-dental-implant.md
 category: [implants/isq]
-confidence: prospective
+evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/sachelarie-2025-osteoporosis-diabetes-dental-implant.txt
 pdf_filename: sachelarie-2025-osteoporosis-diabetes-dental-implant.txt
 source_collection: external
