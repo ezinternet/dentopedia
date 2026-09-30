@@ -1,0 +1,13 @@
+PMID: 35114331 | DOI: 10.1016/j.jdent.2022.104053 | J Dent 2022;118:104053 | PubMed abstract (no PMC full text)
+Title: A pilot study to evaluate the impact of digital imaging on the delivery of oral hygiene instruction.
+Authors: Holloway JA, Seong J, Claydon NCA, Davies M, Hellin N, Khan I, West NX (University of Bristol / Warwick, UK)
+
+To determine whether personalised Oral Hygiene Advice (OHA) using an intra-oral-camera (IOC) combined with standard OHA as provided in general dental practice reduces plaque levels after 4 weeks more than the provision of standard OHA.
+
+22 healthy adult participants diagnosed with gingivitis took part in this pilot parallel-designed, randomised, examiner-blind, 2x-treatment, study regarding their home-care oral hygiene habits and attitudes to oral health. An IOC-image was taken and plaque, gingival and bleeding scores were recorded. Test group participants received standard OHA with IOC-images to indicate areas for improvement, control group participants received standard OHA. Questionnaires and plaque, gingival and bleeding scores were repeated after 4 weeks. Plaque was scored from the IOC-images and scores compared to clinical plaque scores.
+
+Lifestyle habits, attitudes to oral health, plaque (0.63vs0.61, control vs test) and bleeding scores (1.17vs0.96, control vs test) were similar at baseline. After 4-weeks, plaque scores improved more in test as compared to control group (39.4vs20.6%, p<0.05, while gingival and bleeding scores approached significance. There was no difference in lifestyle habits between groups, but the test group reported significantly greater confidence in adhering to their bespoke oral health plan. Agreement between the clinical and IOC plaque scores was good.
+
+Use of IOC further personalises the prevailing standard of oral hygiene advice and generates great patient engagement with pictorial reports to facilitate a more in-depth patient explanation of their gingival health, resulting in significant plaque reduction and improved gingival health compared to the standard OHA alone.
+
+Keywords: Behaviour modification; Gingivitis; Intra-oral scanner; Oral hygiene instruction; Pictorial report; Plaque reduction
