@@ -2,7 +2,7 @@
 title: "전신질환·약물·MRONJ — mronj"
 authors: navigation
 year: 2026
-date: 2026-08-29
+date: 2026-10-01
 doi: N/A
 source: navigation
 category: drug/mronj
@@ -15,20 +15,20 @@ tags: [navigation, category-index, mronj]
 > [!summary] 한국어 핵심요약
 > - **분야**: 전신질환·약물·MRONJ
 > - **범위**: MRONJ/ONJ — bisphosphonates, denosumab, antiresorptive/antiangiogenic agents; prevention, staging, management
-> - **수록 논문**: 21편
+> - **수록 논문**: 22편
 
 ## Three-line Summary
 
 **Scope**: MRONJ/ONJ — bisphosphonates, denosumab, antiresorptive/antiangiogenic agents; prevention, staging, management
-**Indexed papers**: 21 papers in `wiki/drug/mronj/`.
+**Indexed papers**: 22 papers in `wiki/drug/mronj/`.
 
 ## 세줄요약
 
 **분야**: 전신질환·약물·MRONJ
-**수록 논문**: 21편
+**수록 논문**: 22편
 **하위 카테고리**: 없음
 
-## Papers in this Category (21)
+## Papers in this Category (22)
 
 | Paper |
 |---|
@@ -49,6 +49,7 @@ tags: [navigation, category-index, mronj]
 | [[moreno-rabie-2023-3d-mronj-risk-oncologic-tooth-extraction|Three-dimensional clinical assessment for MRONJ risk in oncologic patients following tooth extractions]] |
 | [[pereira-santos-2026-mronj-risk-related-to-dental|MRONJ Risk Related to Dental Implants in Osteoporosis Treated With Denosumab: A Systematic Review]] |
 | [[ruggiero-2022-aaoms-mronj-position-paper-update|AAOMS Position Paper on Medication-Related Osteonecrosis of the Jaws — 2022 Update]] |
+| [[suryani-2023-are-medication-induced-salivary-changes|Are medication-induced salivary changes the culprit of osteonecrosis of the jaw? A systematic review]] |
 | [[ufcd-2019-medically-complex-patients-management-guidelines|Management of Medically Complex Patients and Medical Consultation Guidelines]] |
 | [[vidovic-juras-2024-antibiotic-prophylaxis-dental-procedures|Antibiotic Prophylaxis Prior to Dental Procedures]] |
 | [[wick-2022-risk-factors-associated-with|Risk factors associated with onset of medication-related osteonecrosis of the jaw in patients treated with denosumab]] |
