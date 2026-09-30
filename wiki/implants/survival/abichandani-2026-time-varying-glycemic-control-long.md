@@ -6,7 +6,7 @@ date: 2026-01-05
 doi: "10.11607/jomi.11625"
 source: abichandani-2026-time-varying-glycemic-control-long.md
 category: [implants/survival]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/abichandani-2026-time-varying-glycemic-control-long.txt
 pdf_filename: abichandani-2026-time-varying-glycemic-control-long.txt
 source_collection: external
