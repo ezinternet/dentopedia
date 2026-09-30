@@ -2112,6 +2112,7 @@ tags: []
 - [[oral-medicine/salivary-chemosensory/poudel-2026-xerostomia-dental-treatment-outcomes-sr]] — Poudel 2026 · sr · 구강건조증(Sjögren 포함)이 수복물 실패 ~2.6–2.9배(재발우식); 임플란트 생존 >90%(방사선성은 낮음); 16편/1227명 (DOI 10.1186/s12903-026-07815-8)
 - [[oral-medicine/salivary-chemosensory/tsuchiya-2023-covid-19-oral-sequelae-gustatory-saliva]] — Tsuchiya 2023 · narrative-review · 코로나19 완치 후 미각장애 1–45%·침분비저하 2–40% 지속(3주–12개월), 두 증상 상관관계; ACE2/TRPV1 수용체·아연결핍 공통기전 (DOI 10.1159/000531373)
 - [[oral-medicine/salivary-chemosensory/sijan-gobeljic-2020-sjogren-chemosensory-oral-disorders-cross-sectional]] — Šijan Gobeljić 2020 · cross-sectional · 쇼그렌증후군 58명 vs 대조군 55명: 미각이상 dysgeusia 52.6%·설작열감 45.6%·무후각 OR 5.2, 침분비량과의 상관은 약함(별개 염증기전 시사) (DOI 10.1186/s12903-020-01169-5)
+- [[oral-medicine/salivary-chemosensory/kohli-2023-medication-induced-xerostomia-orofacial-pain]] — 약물 유발 구강건조증-구강안면통증 SR(7편, n=1,029): 양의 연관성 보고(구강건조 점수 7.14 vs 5.04, p<0.001), 타액유량-약물 사용 연관성은 없음, RCT 1편뿐이라 근거 수준 낮음
 - [[oral-medicine/salivary-chemosensory/morelli-2023-radiation-dose-taste-alteration-hnscc]] — Morelli 2023 · prospective · 두경부암 IMRT 환자 31명: 급성 미각이상이 미뢰 선량이 아닌 악하선·이하선 선량과 유의상관(각 p=0.05) — 타액선 손상 매개 기전 시사 (DOI 10.1007/s11547-023-01707-5)
 - [[oral-medicine/salivary-chemosensory/kodama-2020-zinc-deficiency-guidelines-taste-disorders]] — Kodama 2020 · consensus · 일본 아연결핍 진단·치료 가이드라인: 혈청아연 <60μg/dL 결핍 기준, 미각장애 폴라프레진크 150mg/일로 50–82% 호전(효과발현 최소 3개월, 4주 13.6%→24주 58.8%) (DOI 10.3390/ijms21082941)
 - [[oral-medicine/salivary-chemosensory/ramirez-martinez-acitores-2020-antihypertensive-xerostomia-salivary-flow-sr]] — Ramírez Martínez-Acitores 2020 · sr · 항고혈압제 13편(RCT 5·환자대조군 8) 종합: 미각/침분비저하 증가라는 확증적 근거 부족(캅토프릴은 오히려 이하선 분비 증가 보고), 약물군별 특정 불가 (DOI 10.3390/ijerph17072478)
@@ -2849,6 +2850,7 @@ tags: []
 - [[geriatric-dentistry/ponzo-2024-presbygeusia-narrative-review]] — Ponzo 2024 · narrative-review · 병리 없는 순수 노화성 미각저하(presbygeusia) 15편 관찰연구 중 12편이 실재 지지, 신맛·쓴맛 위주 저하하나 노인 식이선택 영향은 문화·심리요인이 더 큼 (DOI 10.1007/s40520-024-02739-1)
 - [[geriatric-dentistry/leong-2015-prognostic-value-grip-strength-pure]] — 전향적 코호트 (PURE, n=139,691, 17개국): 악력 (Grip Strength) 5 kg 감소당 전체사망 위험비 (HR) 1.16, 수축기혈압보다 강한 사망 예측인자 — 구강노쇠·신체노쇠 연결 근거
 - [[geriatric-dentistry/celis-morales-2018-grip-strength-cardiovascular-respiratory-cancer]] — UK 바이오뱅크 502,293명 전향적 코호트: 악력 5 kg 감소당 전사망 HR 1.16–1.20, 심혈관·호흡기·암 사망 독립적으로 증가; 신체노쇠 스크리닝 도구로서 악력의 임상 근거
+- [[geriatric-dentistry/cannon-2023-drugs-dry-mouth-systematic-review-older]] — 다약제 복용 노인 구강건조증 SR(9편, 37,459명): 복용 약물 0→5개 시 잔존 자연치아 16→12개, 우울증 유병률 최대 64%, 심리적 결과 연구는 2편뿐
 
 ## 방사선 (Radiology / Dental Imaging)
 - [[overviews/radiology-category-synthesis-overview]] — Category Synthesis (53편, 2026): 5개 클러스터(선량·CBCT진단·아티팩트·해부변이·방사선감별진단) 허브 — 이분하악관 유병률 20.7%(CT/CBCT, Aung 2023 SR+MA), nutrient canal 당뇨 84%·고혈압 66%·치주염 52% vs 정상 20%(Hasan 2022)
