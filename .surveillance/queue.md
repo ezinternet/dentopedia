@@ -362,39 +362,39 @@ Found by manual PDF discovery (not the original scout search), 2026-07-25 — sa
       "Is teriparatide therapy effective for MRONJ? SR/MA" — Osteoporos Int
 - [ ] PMID 36507770 | SR | OA:none | geriatric-drug | edat 2022/12/01
       "Efficacy of Adjunctive Photobiomodulation in the Management of MRONJ: SR" — Photobiomodul Photomed Laser Surg
-- [ ] PMID 37330959 | SR|guideline | OA:PMC PMC10765342 | antithrombotic-dental | edat 2024/01/01
+- [x] PMID 37330959 | SR|guideline | OA:PMC PMC10765342 | antithrombotic-dental | edat 2024/01/01 — INGESTED 2026-10-01 → wiki/drug/anticoagulants/valenzuela-mencia-2024-clinical-practice-guideline-coagulation-disorders
       "Clinical practice guideline of the spanish society of oral surgery for oral surgery in patients with coagulation disorders" — Medicina oral, patologia oral y cirugia bucal
-- [ ] PMID 37864605 | RCT | OA:PMC PMC10713775 | antithrombotic-dental | edat 2023/01/01
+- [x] PMID 37864605 | RCT | OA:PMC PMC10713775 | antithrombotic-dental | edat 2023/01/01 — INGESTED 2026-10-01 → wiki/drug/anticoagulants/kyyak-2023-platelet-rich-fibrin-ensures-hemostasis
       "Platelet-rich fibrin ensures hemostasis after single-tooth removal under factor Xa inhibitors" — Clinical oral investigations
 - [ ] PMID 36403660 | RCT | OA:none | antithrombotic-dental | edat 2022/01/01
       "Is Chitosan Dental Dressing Better Than Cotton Gauze in Achieving Hemostasis in Patients on Antithrombotics?" — Journal of oral and maxillofacial surgery
 - [ ] PMID 37279226 | RCT | OA:none | antithrombotic-dental | edat 2023/01/01
       "Efficacy of Local Hemostatic Management in Implant Surgery in Anticoagulated Patients on Warfarin: A Randomized Clinical Study" — The International journal of oral & maxillofacial implants
-- [ ] PMID 35964704 | guideline | OA:none | antithrombotic-dental | edat 2022/01/01
+- [x] PMID 35964704 | guideline | OA:none | antithrombotic-dental | edat 2022/01/01 — INGESTED 2026-10-01 → wiki/drug/anticoagulants/douketis-2022-perioperative-management-antithrombotic-therapy-accp
       "Perioperative Management of Antithrombotic Therapy: An American College of Chest Physicians Clinical Practice Guideline" — Chest
-- [ ] PMID 33939696 | RCT | OA:PMC PMC8128271 | antithrombotic-dental | edat 2021/01/01
+- [x] PMID 33939696 | RCT | OA:PMC PMC8128271 | antithrombotic-dental | edat 2021/01/01 — INGESTED 2026-10-01 → wiki/drug/anticoagulants/ockerman-2021-tranexamic-acid-bleeding-noac-dental-extraction
       "Tranexamic acid and bleeding in patients treated with non-vitamin K oral anticoagulants undergoing dental extraction: The EXTRACT-NOAC randomized clinical trial" — PLoS medicine
 - [ ] PMID 32613433 | RCT | OA:none | antithrombotic-dental | edat 2020/01/01
       "Evaluation of local hemostatic efficacy after dental extractions in patients taking antiplatelet drugs" — Clinical oral investigations
-- [ ] PMID 39907806 | SR | OA:none | antithrombotic-dental | edat 2025/01/01
+- [x] PMID 39907806 | SR | OA:none | antithrombotic-dental | edat 2025/01/01 — INGESTED 2026-10-01 → wiki/drug/anticoagulants/yefet-2025-direct-oral-anticoagulant-oral-surgery-sr
       "Direct oral anticoagulant use in oral surgery: insights from a systematic review" — Oral and maxillofacial surgery
-- [ ] PMID 39387914 | SR | OA:PMC PMC11467017 | antithrombotic-dental | edat 2024/01/01
+- [x] PMID 39387914 | SR | OA:PMC PMC11467017 | antithrombotic-dental | edat 2024/01/01 — INGESTED 2026-10-01 → wiki/drug/anticoagulants/katz-2024-platelet-rich-fibrin-hemostatic-agent-dental-extractions
       "Platelet-rich fibrin as a hemostatic agent in dental extractions in patients taking anticoagulants or antiplatelet medication" — Clinical oral investigations
-- [ ] PMID 38155005 | SR/MA | OA:none | antithrombotic-dental | edat 2023/01/01
+- [x] PMID 38155005 | SR/MA | OA:none | antithrombotic-dental | edat 2023/01/01 — INGESTED 2026-10-01 → wiki/drug/anticoagulants/alagil-2023-postoperative-bleeding-dental-extraction-antiplatelet
       "Risk of postoperative bleeding after dental extraction in patients on antiplatelet therapy" — Oral surgery, oral medicine, oral pathology and oral radiology
 - [ ] PMID 38200485 | SR/MA | OA:PMC PMC10782677 | antithrombotic-dental | edat 2024/01/01
       "The effectiveness of chitosan as a hemostatic in dentistry in patients with antiplatelet/anticoagulant therapy" — BMC oral health
 - [ ] PMID 37821865 | SR | OA:PMC PMC10566068 | antithrombotic-dental | edat 2023/01/01
       "The Effect of Direct Oral Anticoagulant Therapy (DOACs) on oral surgical procedures: a systematic review" — BMC oral health
-- [ ] PMID 37532770 | network MA | OA:PMC PMC10397210 | antithrombotic-dental | edat 2023/01/01
+- [x] PMID 37532770 | network MA | OA:PMC PMC10397210 | antithrombotic-dental | edat 2023/01/01 — INGESTED 2026-10-01 → wiki/drug/anticoagulants/mahardawi-2023-different-hemostatic-agents-dental-extraction
       "The effect of different hemostatic agents following dental extraction in patients under oral antithrombotic therapy: a network meta-analysis" — Scientific reports
 - [ ] PMID 37367710 | SR/MA | OA:none | antithrombotic-dental | edat 2023/01/01
       "The role of hemostatic agents after tooth extractions: A systematic review and meta-analysis" — Journal of the American Dental Association
-- [ ] PMID 37047909 | SR/network MA | OA:PMC PMC10093975 | antithrombotic-dental | edat 2023/01/01
+- [x] PMID 37047909 | SR/network MA | OA:PMC PMC10093975 | antithrombotic-dental | edat 2023/01/01 — INGESTED 2026-10-01 → wiki/drug/anticoagulants/boccatonda-2023-perioperative-antithrombotic-dental-procedures-network-ma
       "Perioperative Management of Antithrombotic Therapy in Patients Who Undergo Dental Procedures: A Systematic Review and Network Meta-Analysis" — International journal of environmental research and public health
 - [ ] PMID 36100547 | SR | OA:none | antithrombotic-dental | edat 2022/01/01
       "Impact of direct oral anticoagulants on bleeding tendency and postoperative complications in oral surgery" — Oral surgery, oral medicine, oral pathology and oral radiology
-- [ ] PMID 35763663 | SR/MA | OA:none | antithrombotic-dental | edat 2022/01/01
+- [x] PMID 35763663 | SR/MA | OA:none | antithrombotic-dental | edat 2022/01/01 — INGESTED 2026-10-01 → wiki/drug/anticoagulants/zou-2022-risk-bleeding-dental-implant-surgery
       "Risk of bleeding with dental implant surgery in patients on anticoagulant or antiplatelet drugs" — Acta odontologica Scandinavica
 - [ ] PMID 34343502 | SR/MA | OA:none | antithrombotic-dental | edat 2021/01/01
       "Does Platelet-Rich Fibrin Prevent Hemorrhagic Complications After Dental Extractions in Patients Using Oral Anticoagulant Therapy?" — Journal of oral and maxillofacial surgery
@@ -404,7 +404,7 @@ Found by manual PDF discovery (not the original scout search), 2026-07-25 — sa
       "Dental implants and risk of bleeding in patients on oral anticoagulants: a systematic review and meta-analysis" — International journal of implant dentistry
 - [ ] PMID 33994071 | network MA | OA:none | antithrombotic-dental | edat 2021/01/01
       "Effectiveness of local hemostatic to prevent bleeding in dental patients on anticoagulation: A systematic review and network meta-analysis" — Journal of cranio-maxillo-facial surgery
-- [ ] PMID 33758999 | SR/MA | OA:none | antithrombotic-dental | edat 2021/01/01
+- [x] PMID 33758999 | SR/MA | OA:none | antithrombotic-dental | edat 2021/01/01 — INGESTED 2026-10-01 → wiki/drug/anticoagulants/calcia-2021-alteration-single-drug-anticoagulant-antiplatelet
       "Is alteration in single drug anticoagulant/antiplatelet regimen necessary in patients who need minor oral surgery?" — Clinical oral investigations
 - [ ] PMID 41510984 | SR/MA | OA:none | dental-erosion | edat 2026/01/01
       "Global Prevalence and Patterns of Oral Health Disorders in Athletes" — 
