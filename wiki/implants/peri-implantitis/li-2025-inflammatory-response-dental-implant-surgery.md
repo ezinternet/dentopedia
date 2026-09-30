@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: "10.4239/wjd.v16.i10.110140"
 source: li-2025-inflammatory-response-dental-implant-surgery.md
 category: [implants/peri-implantitis]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/li-2025-inflammatory-response-dental-implant-surgery.txt
 pdf_filename: li-2025-inflammatory-response-dental-implant-surgery.txt
 source_collection: external
