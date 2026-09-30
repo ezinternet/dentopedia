@@ -6,7 +6,7 @@ date: 2026-01-07
 doi: "10.3390/jfb17010032"
 source: cabrera-fernandez-2026-clinical-radiographic-vital-pulp.md
 category: [endodontics/vpt]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: ""
 pdf_filename: ""
 source_collection: pubmed-abstract
