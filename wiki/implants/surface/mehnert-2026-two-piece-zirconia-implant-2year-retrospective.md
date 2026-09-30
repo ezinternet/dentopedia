@@ -4,7 +4,7 @@ authors: Mehnert T, (et al.)
 year: 2026
 date: 2026-01-01
 doi: 10.1186/s40729-026-00717-y
-source: sources/mehnert-2026-two-piece-zirconia-implant-2year-retrospective.md
+source: mehnert-2026-two-piece-zirconia-implant-2year-retrospective.md
 category: implants/surface
 evidence_level: retrospective
 source_collection: pubmed-abstract
