@@ -4496,6 +4496,7 @@ tags: []
 ### periodontics/oral-hygiene-instruction
 - [[periodontics/oral-hygiene-instruction/van-swaaij-2019-chx-ads-discoloration-sr-ma]] — Van Swaaij 2019 · sr+ma · CHX 항변색 시스템은 착색을 감소시키고 효능은 유지 (SMD = -3.19, p = 0.0005) (DOI 10.1111/idh.12402)
 - [[periodontics/oral-hygiene-instruction/windhorst-2025-cpc-chx-plaque-gingivitis-sr-ma]] — Windhorst 2025 · sr+ma · 양치 시 CPC와 CHX 치태·치은염 효과 동등 (WMD = 0.04, p = 0.11) (DOI 10.1111/idh.12916)
+- [[periodontics/oral-hygiene-instruction/kwon-2026-effectiveness-virtual-reality-based-toothbrushing]] — Kwon 2026 · rct · 성인 30명 단일맹검: 몰입형 VR 칫솔질 교육 vs 착색제 이용 위생사 교육, 2주 PI 감소 0.44 vs 0.07 (p=0.012), BOP 무변화, 태도·행동 개선, 지식 무변화; 표본 작음·2주 추적·검사자 비눈가림
 
 ### periodontics/non-surgical-instrumentation
 - [[periodontics/non-surgical-instrumentation/annisa-2023-chx-gel-chip-srp-sr-ma]] — Annisa 2023 · sr+ma · SRP 후 CHX 칩은 치은지수 우수, 타 항균제는 치주낭 깊이 우수 (MD = 0.58mm, p < 0.00001) (DOI 10.1186/s12903-023-03241-2)
