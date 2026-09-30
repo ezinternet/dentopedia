@@ -21,6 +21,24 @@ tags: [antihypertensive, dental-implant, implant-failure, osseointegration, stat
 
 기존 [[implants/survival/hamade-2024-hypertension-dental-implants-sr-ma]]는 고혈압 자체가 임플란트 실패 위험을 높이지 않는다는 SR+MA 근거를 제공했으나, 약물 계열별(항고혈압제·항고지혈증제·항우울제) 개별 효과는 분리하지 않았다. 본 후향적 코호트(655명/2,004임플란트, 10년 Kaplan-Meier)는 항고혈압제·항고지혈증제 단독 복용군이 오히려 보호적(HR 0.23, 0.16)이고 혼합 항우울제군은 해로움(HR 2.17)을 보여 약물별 위험을 분해한다 — [[drug/systemic-disease/masri-2024-early-implant-failure-antihypertensive-medications]]의 항고혈압제 보호 효과를 재현하되, [[drug/systemic-disease/liu-2024-perioperative-hypertension-implant-bone-augmentation]]의 围术期 혈압 상승 급성 위험 서사와는 대조된다.
 
+## Three-line Summary
+
+Retrospective cohort (STROBE; 655 patients/2,004 implants from 2,815/5,853 screened; Saint Joseph University Beirut, 2012–2022; 10-yr Kaplan-Meier) comparing mono-medicated antihypertensive, antihyperlipidemic, and mixed antidepressant groups against a non-medicated control (512 patients/1,581 implants).
+
+Antihypertensive therapy: implant failure 1.29% vs control 5.12% — hazard ratio 0.23 (95% CI 0.07–0.74, p=0.013); antihyperlipidemic: 1.01%, HR 0.16 (p=0.048); mixed antidepressants: 12.09%, HR 2.17 (95% CI 1.17–4.04, p=0.014) — all log-rank tests p<0.05.
+
+Antihypertensive and antihyperlipidemic monotherapy confer a significant protective effect on long-term implant survival, while mixed antidepressant (SSRI-containing) regimens significantly increase failure risk.
+
+## 세줄요약
+
+후향코호트(STROBE; 655환자/2,004임플란트; 베이루트 성요셉대, 2012–2022; 10년 Kaplan-Meier) — 단독 항고혈압·항고지혈증·항우울제 복용군 vs 건강대조군(512명/1,581개) 비교.
+
+항고혈압약 실패율 1.29% vs 대조 5.12%; HR 0.23(95% CI 0.07–0.74, p=0.013) — 강력한 보호효과; 항고지혈증약(주로 스타틴) HR 0.16(p=0.048) — 보호; 혼합항우울제(SSRI포함) 실패율 12.09%, HR 2.17(p=0.014) — 유의한 위험인자.
+
+항고혈압약과 항고지혈증약은 장기 임플란트 생존을 유의하게 향상시키며, SSRI 포함 항우울제 복합요법은 실패 위험을 2배 이상 높인다.
+
+---
+
 ## Summary
 
 Retrospective cohort (STROBE; n=655 patients/2,004 implants from 2,815/5,853 screened; Saint Joseph University Beirut, 2012–2022; 10-yr Kaplan-Meier) comparing mono-medicated antihypertensive (74 pts/233 implants), antihyperlipidemic (40/99), and mixed antidepressant (29/91) groups against a healthy control (512/1,581).
