@@ -8,7 +8,7 @@ pmid: "39491445"
 pmcid: ""
 source: hamid-2024-green-tea-extracts-hemostatic-molar.md
 category: [drug/anticoagulants]
-confidence: rct
+evidence_level: rct
 source_collection: pubmed-abstract
 tags: []
 relations:
