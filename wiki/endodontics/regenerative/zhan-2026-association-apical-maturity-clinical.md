@@ -24,6 +24,22 @@ SR+MA (10 studies, 508 teeth) with dose-response meta-analysis: REP achieves 90%
 ## 한줄요약
 SR+MA (10편, 508치아) + DRMA: REP 임상성공 90%·생존 98%는 치근첨 성숙도와 무관하게 안정적이나, 치근첨 폐쇄 53%·치수활력 회복 21%로 낮고 치근첨 직경이 클수록 폐쇄율 감소 — 임상성공 ≠ 진성 치수-상아질 재생.
 
+## Three-line Summary
+
+Systematic review and meta-analysis of 10 studies (508 teeth) of regenerative endodontic procedures (REP), with a dose-response analysis by apical diameter.
+
+Pooled clinical success was 90% (95% CI 83–95%) and tooth survival 98%, but complete apical closure was only 53% (36–70%, I² 79.6%) and pulp vitality recovery only 21% (7–49%, I² 69.2%).
+
+High clinical success does not mean true regeneration; only 2 studies involved mature teeth, follow-up was mostly ≤36 months, and apical diameter and vitality outcome definitions were heterogeneous.
+
+## 세줄요약
+
+재생근관치료 (Regenerative Endodontic Procedure, REP)를 치근단 직경에 따른 용량-반응 분석과 함께 본 10편 (508개 치아)의 체계적 문헌고찰 및 메타분석 (SR+MA)이다.
+
+통합 임상 성공률은 90% (95% CI 83–95%), 치아 생존율은 98%였으나 치근단 완전 폐쇄는 53% (36–70%, I² 79.6%), 치수 활력 회복은 21% (7–49%, I² 69.2%)에 그쳤다.
+
+높은 임상 성공이 진성 재생을 뜻하지는 않는다; 성숙치 연구는 2편뿐이고 추적은 대부분 36개월 이하이며 치근단 직경·활력 판정 기준이 제각각이다.
+
 ## Summary
 This systematic review and meta-analysis examined outcomes of regenerative endodontic procedures (REPs) across varying degrees of root maturity using traditional meta-analysis, dose-response meta-analysis (DRMA), and trial sequential analysis (TSA). Ten studies (508 teeth) were included. Pooled clinical success was 90% and tooth survival 98% — both robust across the full range of apical diameters. However, complete apical closure occurred in only 53% and pulp vitality recovery in only 21% of cases, with substantial heterogeneity. Exploratory DRMA suggested a negative association between apical diameter and closure rate, while clinical success remained stable regardless of maturity. A key interpretive finding: high clinical success and survival should not be equated with true pulp-dentin regeneration, as most REPs achieve periapical healing rather than pulp tissue restoration.
 
