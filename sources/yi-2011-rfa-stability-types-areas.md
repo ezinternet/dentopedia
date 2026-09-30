@@ -18,6 +18,22 @@ Retrospective study (n=206 implants, 131 patients, Korea) comparing ISQ at 3 mon
 ## 한줄요약
 후향적 연구 (206개 임플란트, 131명, 한국): 하악 > 상악, 직경 4.8 > 4.1 (SLA™ 한정), SLA™(Straumann) > SSǎ™(Osstem RBM) — 특히 하악 구치부(p=0.045)와 상악 소구치부(p=0.032)에서.
 
+## Three-line Summary
+
+Retrospective study from Korea (206 implants, 131 patients) comparing ISQ at 3 months by jaw, diameter and surface (Straumann SLA vs Osstem RBM).
+
+ISQ was higher in the mandible than the maxilla (p<0.001), higher with 4.8 mm than 4.1 mm SLA implants (p<0.001), and higher with SLA than RBM at the posterior mandible (p=0.045) and premolar maxilla (p=0.032).
+
+Site and diameter matter for early stability, but surface cannot be isolated because the two systems also differ in macro-geometry; single time point, retrospective, and detailed tables were only partly extractable from the Korean-language text.
+
+## 세줄요약
+
+악골 부위, 직경, 표면 (Straumann SLA 대 Osstem RBM)에 따른 3개월 ISQ를 비교한 한국 후향적 연구 (임플란트 206개, 131명)다.
+
+ISQ는 하악이 상악보다 (p<0.001), SLA 4.8 mm가 4.1 mm보다 (p<0.001) 높았고, SLA가 RBM보다 하악 구치부 (p=0.045)와 상악 소구치부 (p=0.032)에서 높았다.
+
+부위와 직경은 초기 안정성에 영향을 주지만 두 시스템은 매크로 형태도 달라 표면 효과만 분리할 수 없다; 단일 시점의 후향적 연구이며 한국어 본문이라 상세 표는 일부만 추출되었다.
+
 ## 1. Document Information
 - Journal: Korean dental journal (KCI citation ID: FI001624540)
 - Affiliation: Apple Tree Dental Clinic, Bucheon; Seoul National University School of Dentistry, Dept. Preventive & Public Health Dentistry
