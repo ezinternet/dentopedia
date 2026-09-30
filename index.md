@@ -3364,6 +3364,7 @@ tags: []
 ### Behavioral dentistry — MI / behavior change
 - [[behavioral-dentistry/motivational-interviewing/zhan-2024-motivational-interviewing-periodontal-treatment-outcomes]] — Zhan 2024 · sr+ma · 7 RCTs (n=474): no significant MI vs standard-OHI difference in plaque, BoP, gingival inflammation
 - [[behavioral-dentistry/motivational-interviewing/vilar-doceda-2023-behavioral-interventions-periodontitis-patients-improve]] — Vilar Doceda 2023 · sr · 21 studies (16 RCT, 5 NRCT): social-cognitive bundles + CBT/MI may reduce plaque and bleeding
+- [[behavioral-dentistry/motivational-interviewing/valeriani-2026-influence-psychological-factors-biofilm-related]] — Valeriani 2026 · sr · 심리 요인→치면세균막 관련 결과 전향적 연구 10편: 자기효능감·치료이익 인식은 이후 구강위생·치태와 연관되나 비일관적, 우울·스트레스 자료 희박; 초록만
 
 ### Drug — analgesics / antiplatelet
 - [[drug/analgesics/dominiczak-2025-nsaid-alcohol-interaction-review]] — Dominiczak 2025 · narrative-review · NSAIDs-알코올 상호작용 종합 리뷰: CYP2E1 유도·ADH 경쟁(약력학) + 가산적 GI 점막 손상(RR 2.7), 신장독성 강화, 간독성 기여
