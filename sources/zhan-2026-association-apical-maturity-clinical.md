@@ -18,6 +18,22 @@ SR+MA of 10 studies (508 teeth): REP clinical success 90%, tooth survival 98%, b
 ## 한줄요약
 SR+MA (10편, 508치아): REP 임상성공 90%·생존 98%이지만 치근첨 폐쇄 53%·치수활력 회복 21%에 그침 — 임상성공 ≠ 진성 재생.
 
+## Three-line Summary
+
+Systematic review and meta-analysis of 10 studies (508 teeth) of regenerative endodontic procedures (REP), with a dose-response analysis by apical diameter.
+
+Pooled clinical success was 90% (95% CI 83–95%) and tooth survival 98%, but complete apical closure was only 53% (36–70%, I² 79.6%) and pulp vitality recovery only 21% (7–49%, I² 69.2%).
+
+High clinical success does not mean true regeneration; only 2 studies involved mature teeth, follow-up was mostly ≤36 months, and apical diameter and vitality outcome definitions were heterogeneous.
+
+## 세줄요약
+
+재생근관치료 (Regenerative Endodontic Procedure, REP)를 치근단 직경에 따른 용량-반응 분석과 함께 본 10편 (508개 치아)의 체계적 문헌고찰 및 메타분석 (SR+MA)이다.
+
+통합 임상 성공률은 90% (95% CI 83–95%), 치아 생존율은 98%였으나 치근단 완전 폐쇄는 53% (36–70%, I² 79.6%), 치수 활력 회복은 21% (7–49%, I² 69.2%)에 그쳤다.
+
+높은 임상 성공이 진성 재생을 뜻하지는 않는다; 성숙치 연구는 2편뿐이고 추적은 대부분 36개월 이하이며 치근단 직경·활력 판정 기준이 제각각이다.
+
 ## 1. Document Information
 - **Journal**: International Dental Journal, Vol. 76(4), 2026
 - **PMC**: PMC13279176
