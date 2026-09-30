@@ -1,0 +1,98 @@
+---
+title: "Tranexamic acid and bleeding in patients treated with non-vitamin K oral anticoagulants undergoing dental extraction: The EXTRACT-NOAC randomized clinical trial"
+authors: "Anna Ockerman, Isabel Miclotte, Maarten Vanhaverbeke, Thomas Vanassche, Ann Belmans, Jan Vanhove, Joeri Meyns, Nasser Nadjmi, Geert Van Hemelen, Patrick Winderickx, Reinhilde Jacobs, Constantinus Politis, Peter Verhamme"
+year: 2021
+doi: "10.1371/journal.pmed.1003601"
+category: [drug/anticoagulants]
+source_collection: pubmed-text
+full_text: true
+pmid: "33939696"
+pmcid: "PMC8128271"
+source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC8128271/
+text_path: /Users/oracleneo/llm-wiki/papers/ockerman-2021-tranexamic-acid-bleeding-noac-dental-extraction.txt
+text_filename: ockerman-2021-tranexamic-acid-bleeding-noac-dental-extraction.txt
+---
+
+## Why Ingested
+
+Completes the tranexamic acid (TXA) evidence set in the anticoagulant category: [[kim-2024-post-extraction-bleeding-direct-oral-anticoagulants]] and [[izzetti-2024-doac-bleeding-management-tooth-extraction-prospective]] treat TXA as a routine local measure in NOAC patients without a controlled test, while [[kaddah-2024-tranexamic-acid-gelfoam-warfarin]] tested topical TXA only in warfarin patients. This is the placebo-controlled RCT of TXA mouthwash in NOAC patients; its null primary outcome tempers how far those pages' TXA advice can be read as proven.
+
+## Three-line Summary
+
+Randomized, double-blind, placebo-controlled multicenter trial (4 Belgian hospitals; 222 randomized, 218 analyzed) of 10% tranexamic acid (TXA) mouthwash vs placebo in patients on non-vitamin K oral anticoagulants (NOACs) undergoing dental extraction after skipping the morning NOAC dose.
+
+Any oral bleeding up to day 7 was not reduced (28/106, 26.4% vs 32/112, 28.6%; RR 0.92, 95% CI 0.60-1.42, P=0.72), nor was early bleeding (rate ratio 0.76, 0.42-1.37); delayed bleeds (rate ratio 0.32, 0.12-0.89) and bleeds after multiple extractions (rate ratio 0.40, 0.20-0.78) were lower with TXA.
+
+TXA mouthwash is safe but not a general fix for early bleeding in NOAC patients; any benefit is confined to delayed bleeding and multi-tooth extractions (exploratory), and the trial stopped early for futility at 222 of 236 planned patients.
+
+## 세줄요약
+
+벨기에 4개 병원 다기관 이중맹검 위약대조 무작위 임상시험 (Randomized Controlled Trial, RCT): 비타민 K 비의존 경구 항응고제 (Non-vitamin K Oral Anticoagulant, NOAC) 복용 환자의 발치에서, 발치 당일 아침 복용만 생략하고 10% 트라넥삼산 (Tranexamic Acid, TXA) 양치액과 위약 비교 (무작위 배정 222명, 분석 218명).
+
+7일까지 구강 내 출혈 환자 비율은 TXA군 28/106 (26.4%) vs 위약군 32/112 (28.6%)로 차이 없었고 (RR 0.92, 95% CI 0.60-1.42, P=0.72) 조기 출혈도 차이 없었으나 (비율비 0.76, 0.42-1.37), 지연 출혈 (비율비 0.32, 0.12-0.89)과 다수 발치 시 출혈 (비율비 0.40, 0.20-0.78)은 TXA군에서 적었다.
+
+TXA 양치액은 안전하지만 NOAC 환자의 조기 출혈을 막는 만능 해법은 아니며, 이득은 지연 출혈·다수 발치에 한정된 탐색적 결과이고, 계획 236명 중 222명에서 무용성 (futility) 분석으로 조기 종료되어 검정력이 부족하다.
+
+## 1. Document Information
+
+- Journal: PLOS Medicine 2021;18(5):e1003601 (published 2021-05-03). Source: PubMed / PMC, [DOI](https://doi.org/10.1371/journal.pmed.1003601).
+- Registration: ClinicalTrials.gov NCT03413891; EudraCT 2017-001426-17.
+- Institutions: University Hospitals Leuven and University of Leuven; Regional Hospital Heilig Hart Leuven; General Hospital St-Jan Genk; AZ Monica Antwerp.
+
+## 2. Key Contributions
+
+- First randomized double-blind trial of TXA to reduce post-extraction bleeding in NOAC-treated patients (per the authors).
+- Quantifies the baseline bleeding burden after NOAC-skip extraction: more than 1 in 4 patients had any oral bleeding; 28 of 60 bleeding patients bled more than once.
+- Separates early (day 0-1) from delayed (day 2+) bleeding: TXA affected only the latter.
+
+## 3. Methodology and Architecture
+
+- Design: prospective, randomized, double-blind, placebo-controlled, multicenter, investigator-initiated; CONSORT-reported.
+- Population: adults on rivaroxaban, apixaban, edoxaban or dabigatran scheduled for extraction; 222 randomized (108 TXA, 114 placebo); full analysis set 106 vs 112 (3 lost to follow-up, 1 control patient used off-trial TXA).
+- NOAC handling: morning dose skipped on extraction day (optionally evening before; 18-24 h window), resumed the next day unless hemostasis problems.
+- Intervention: 1 g/10 mL (10%) TXA mouthwash vs matched placebo, once before extraction then 3 times/day for 3 days, 1 minute rinse then spit.
+- Follow-up: blinded phone calls day 2 and day 7; blinded adjudication of bleeds.
+- Primary outcome: patients with any oral bleeding; analysis by chi-squared; secondary by logistic / negative binomial regression.
+- Sample size 236 planned (15% absolute difference, 30% control event rate, 80% power); an unplanned DSMB interim analysis in May 2020 led to stopping at 222.
+
+## 4. Key Results and Benchmarks
+
+| Outcome | TXA (n=106) | Placebo (n=112) | Effect (95% CI) |
+|---|---|---|---|
+| Any oral bleeding (patients) | 28 (26.4%) | 32 (28.6%) | RR 0.92 (0.60-1.42), P=0.72 (Table 2 lists 0.93) |
+| Oral bleeds (events) | 46 | 85 | rate ratio 0.57 (0.31-1.05), P=0.07 |
+| Early bleeds (events) | 35 | 49 | rate ratio 0.76 (0.42-1.37) |
+| Delayed bleeds (events) | 11 | 36 | rate ratio 0.32 (0.12-0.89) |
+| Clinically relevant bleeding (patients) | 4 (3.8%) | 10 (8.9%) | RR 0.42 (0.14-1.31) |
+| Unplanned medical contact (patients) | 7 (6.6%) | 18 (16.1%) | RR 0.41 (0.18-0.94) |
+| Reintervention after oral bleeding | 4 (3.8%) | 10 (8.9%) | RR 0.42 (0.13-1.31) |
+| Unplanned NOAC interruption | 6 (5.7%) | 9 (8.0%) | RR 0.70 (0.26-1.91) |
+| Procedural bleeding VAS (0-10) | 4 +- 1.78 | 4 +- 1.82 | P=0.80 |
+
+- Exploratory subgroup, 2 or more teeth extracted: 33 bleeds in 19/61 (31.2%) vs 77 bleeds in 24/57 (42.2%), rate ratio 0.40 (0.20-0.78); age 75 or older: rate ratio 0.35 (0.15-0.79) but interaction P=0.07.
+- No TXA patient had 4 or more oral bleeds vs 10 placebo patients.
+- Safety: thrombotic events 0 vs 1 (a TIA in the placebo arm after NOAC interruption); allergic reactions 2 vs 2 (mouth tingling). One major bleed (placebo arm) required transfusion and 2 days of hospitalization; all other bleeds were managed locally.
+
+## 5. Limitations and Future Work
+
+- Stopped early after a futility analysis at 222 of 236 planned patients (the authors' main limitation).
+- Compliance was self-reported by phone.
+- No fixed NOAC restart time; timing varied and its effect is unclear.
+- Delayed-bleeding, multiple-extraction and age findings are exploratory subgroup/secondary results; the delayed-bleeding patient-level RR CI (0.19-1.01) crosses 1 while only the event-rate ratio excludes 1.
+- Sex imbalance at baseline (76.4% vs 57.1% male).
+- Text and table differ slightly (RR 0.92 in abstract vs 0.93 in Table 2; rate-ratio upper limit 1.05 vs 1.04).
+
+## 6. Related Work
+
+- [[kim-2024-post-extraction-bleeding-direct-oral-anticoagulants]] - retrospective DOAC continuation cohort naming TXA mouthwash among local measures.
+- [[izzetti-2024-doac-bleeding-management-tooth-extraction-prospective]] - prospective DOAC cohort with gauze +/- TXA.
+- [[higashi-2025-tooth-extraction-protocol-doac-clinical-trial]] - trough-timed uninterrupted DOAC extraction feasibility trial.
+- [[kaddah-2024-tranexamic-acid-gelfoam-warfarin]] - TXA-soaked gelatin sponge RCT in warfarin patients.
+
+## 7. Glossary
+
+- NOAC / DOAC: non-vitamin K (direct) oral anticoagulant.
+- TXA: tranexamic acid, an antifibrinolytic applied here as 10% mouthwash.
+- Early / delayed bleeding: day 0-1 / day 2 or later after extraction.
+- Futility analysis: interim assessment of whether the trial is unlikely to show a difference.
+- EHRA: European Heart Rhythm Association, source of the skip-the-morning-dose guidance.
