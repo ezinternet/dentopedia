@@ -410,33 +410,33 @@ Found by manual PDF discovery (not the original scout search), 2026-07-25 — sa
       "Global Prevalence and Patterns of Oral Health Disorders in Athletes" — 
 - [ ] PMID 42174532 | SR | OA:PMC PMC13383145 | dental-erosion | edat 2026/01/01
       "Proteolytic enzymes in dentin erosion: MMPs and cathepsins" — 
-- [ ] PMID 42113589 | SR/MA | OA:PMC PMC13161764 | dental-erosion | edat 2026/01/01
+- [x] PMID 42113589 | SR/MA | OA:PMC PMC13161764 | dental-erosion | edat 2026/01/01 — INGESTED 2026-10-01 → wiki/dental-erosion/juarez-lopez-2026-prevalence-risk-dental-erosion-carbonated
       "Dental erosion Linked to Carbonated Drinks in Adolescents" — 
 - [ ] PMID 41147638 | SR/MA | OA:PMC PMC12560117 | dental-erosion | edat 2025/01/01
       "Plant-Derived Compounds on Tooth Erosion" — 
-- [ ] PMID 39826062 | SR | OA:none | dental-erosion | edat 2025/01/01
+- [x] PMID 39826062 | SR | OA:none | dental-erosion | edat 2025/01/01 — INGESTED 2026-10-01 → wiki/dental-erosion/wang-2025-relationship-laryngopharyngeal-reflux-gastroesophageal-reflux
       "GERD/LPR and Dental Erosion" — 
-- [ ] PMID 39670301 | SR/MA | OA:none | dental-erosion | edat 2024/01/01
+- [x] PMID 39670301 | SR/MA | OA:none | dental-erosion | edat 2024/01/01 — INGESTED 2026-10-01 → wiki/prosthetic-materials/chantler-2024-rehabilitation-worn-dentition-direct-indirect
       "Worn Dentition With Minimally Invasive Concepts" — 
 - [ ] PMID 39360910 | SR/MA | OA:none | dental-erosion | edat 2024/01/01
       "Laser and remineralising agents in dental erosion" — 
-- [ ] PMID 39056584 | SR/MA | OA:PMC PMC11788517 | dental-erosion | edat 2024/01/01
+- [x] PMID 39056584 | SR/MA | OA:PMC PMC11788517 | dental-erosion | edat 2024/01/01 — INGESTED 2026-10-01 → wiki/dental-erosion/marschner-2024-prevalence-anamnestic-risk-factors-erosive
       "Erosive tooth wear in primary dentition" — 
 - [ ] PMID 39940260 | SR | OA:PMC PMC11820644 | dental-erosion | edat 2025/01/01
       "Erosive Potential of Sports, Energy Drinks, Isotonic Solutions" — 
 - [ ] PMID 39724489 | SR/MA | OA:PMC PMC11671545 | dental-erosion | edat 2024/01/01
       "Remineralisation of enamel erosive lesions by fluoride" — 
-- [ ] PMID 39433151 | SR/MA | OA:none | dental-erosion | edat 2024/01/01
+- [x] PMID 39433151 | SR/MA | OA:none | dental-erosion | edat 2024/01/01 — INGESTED 2026-10-01 → wiki/dental-erosion/chan-2024-oral-health-status-eating-disorders
       "Eating Disorders and Oral Health" — 
-- [ ] PMID 39387908 | SR | OA:none | dental-erosion | edat 2024/01/01
+- [x] PMID 39387908 | SR | OA:none | dental-erosion | edat 2024/01/01 — INGESTED 2026-10-01 → wiki/dental-erosion/dallavilla-2024-prevalence-erosive-tooth-wear-risk
       "Erosive tooth wear in risk group patients" — 
 - [ ] PMID 39174162 | SR/MA | OA:none | dental-erosion | edat 2024/01/01
       "Laser irradiation with fluoride decreasing erosive wear" — 
-- [ ] PMID 38552999 | SR/MA | OA:none | dental-erosion | edat 2024/01/01
+- [x] PMID 38552999 | SR/MA | OA:none | dental-erosion | edat 2024/01/01 — INGESTED 2026-10-01 → wiki/dental-erosion/marschner-2024-anamnestic-risk-factors-erosive-tooth-wear
       "Anamnestic risk factors for erosive tooth wear" — 
 - [ ] PMID 38567575 | SR | OA:none | dental-erosion | edat 2024/01/01
       "Vegetarian diet and oral health" — 
-- [ ] PMID 38200328 | SR/MA | OA:none | dental-erosion | edat 2024/01/01
+- [x] PMID 38200328 | SR/MA | OA:none | dental-erosion | edat 2024/01/01 — INGESTED 2026-10-01 → wiki/dental-erosion/chatzidimitriou-2024-role-calcium-prevention-erosive-tooth
       "Role of calcium in preventing erosive tooth wear" — 
 - [ ] PMID 38228408 | SR | OA:none | dental-erosion | edat 2024/01/01
       "Energy drink consumption and erosive tooth wear in youth" — 
@@ -456,7 +456,7 @@ Found by manual PDF discovery (not the original scout search), 2026-07-25 — sa
       "Anorexia and bulimia in pediatric dentistry" — 
 - [ ] PMID 36265394 | SR/MA | OA:none | dental-erosion | edat 2022/01/01
       "Fluoride efficacy preventing enamel erosion" — 
-- [ ] PMID 36389398 | SR | OA:PMC PMC9651041 | dental-erosion | edat 2022/01/01
+- [x] PMID 36389398 | SR | OA:PMC PMC9651041 | dental-erosion | edat 2022/01/01 — INGESTED 2026-10-01 → wiki/dental-erosion/ne-2022-treatment-dental-erosion-systematic-review
       "Treatment for dental erosion" — 
 - [ ] PMID 35917996 | SR/MA | OA:none | dental-erosion | edat 2022/01/01
       "GERD and dental erosion in children" — 
@@ -478,7 +478,7 @@ Found by manual PDF discovery (not the original scout search), 2026-07-25 — sa
       "Thermoviscous composite for non-carious cervical lesions" — 
 - [ ] PMID 38367826 | RCT | OA:none | dental-erosion | edat 2024/01/01
       "Resveratrol tablets increase acid-resistant proteins" — 
-- [ ] PMID 38218598 | guideline | OA:PMC PMC10829352 | dental-erosion | edat 2024/01/01
+- [x] PMID 38218598 | guideline | OA:PMC PMC10829352 | dental-erosion | edat 2024/01/01 — INGESTED 2026-10-01 → wiki/dental-erosion/fdi-2024-tooth-wear-policy-statement
       "Tooth Wear guideline" — 
 - [ ] PMID 37890417 | RCT | OA:none | dental-erosion | edat 2023/01/01
       "TiF/NaF solution preventing erosion" — 
@@ -542,51 +542,51 @@ Found by manual PDF discovery (not the original scout search), 2026-07-25 — sa
       "[title gist] GERD dental erosion association" — Expert Rev Gastroenterol Hepatol
 - [ ] PMID 33383100 | SR/MA | OA:none | dental-erosion | edat 2021/01/01
       "[title gist] Stannous fluoride erosion hypersensitivity" — J Dent
-- [ ] PMID 42458694 | SR | OA:PMC PMC13583377 | masticatory-muscle-pain | edat 2026/01/01
+- [x] PMID 42458694 | SR | OA:PMC PMC13583377 | masticatory-muscle-pain | edat 2026/01/01 — INGESTED 2026-10-01 → wiki/tmj/ferrillo-2026-myofascial-release-soft-tissue-techniques-pain-tmd
       "Myofascial Release for TMD-myogenous" — 
-- [ ] PMID 41874803 | SR/MA | OA:none | masticatory-muscle-pain | edat 2026/01/01
+- [x] PMID 41874803 | SR/MA | OA:none | masticatory-muscle-pain | edat 2026/01/01 — INGESTED 2026-10-01 → wiki/tmj/naralan-2026-masseter-muscle-stiffness-bruxism-myofascial
       "Masseter stiffness bruxism and myofascial pain TMD" — 
-- [ ] PMID 42323639 | SR | OA:PMC PMC13536701 | masticatory-muscle-pain | edat 2026/01/01
+- [x] PMID 42323639 | SR | OA:PMC PMC13536701 | masticatory-muscle-pain | edat 2026/01/01 — INGESTED 2026-10-01 → wiki/botulinum-toxin/desantana-2026-botulinum-toxin-type-myogenous-temporomandibular
       "BoNT-A myogenous TMD duration effects" — 
-- [ ] PMID 41812583 | SR/MA | OA:PMC PMC12994056 | masticatory-muscle-pain | edat 2026/01/01
+- [x] PMID 41812583 | SR/MA | OA:PMC PMC12994056 | masticatory-muscle-pain | edat 2026/01/01 — INGESTED 2026-10-01 → wiki/tmj/patil-2026-role-electrolytes-muscle-pain-syndromes
       "Electrolytes muscle pain TMD myalgia" — 
-- [ ] PMID 42474260 | SR/MA | OA:none | masticatory-muscle-pain | edat 2026/01/01
+- [x] PMID 42474260 | SR/MA | OA:none | masticatory-muscle-pain | edat 2026/01/01 — INGESTED 2026-10-01 → wiki/tmj/zielinski-2026-global-prevalence-orofacial-pain-myofascial-tmj
       "Orofacial pain myofascial/TMJ prevalence" — 
-- [ ] PMID 42183669 | SR | OA:none | masticatory-muscle-pain | edat 2026/01/01
+- [x] PMID 42183669 | SR | OA:none | masticatory-muscle-pain | edat 2026/01/01 — INGESTED 2026-10-01 → wiki/tmj/boulatar-2026-effectiveness-occlusal-stabilization-splint-myogenous
       "Occlusal splint myogenous TMD effectiveness" — 
-- [ ] PMID 41251874 | SR/MA | OA:none | masticatory-muscle-pain | edat 2025/01/01
+- [x] PMID 41251874 | SR/MA | OA:none | masticatory-muscle-pain | edat 2025/01/01 — INGESTED 2026-10-01 → wiki/tmj/candido-do-prado-2025-differential-effectiveness-photobiomodulation-muscular-articular
       "PBM muscular vs articular TMD" — 
-- [ ] PMID 40716833 | SR | OA:none | masticatory-muscle-pain | edat 2025/01/01
+- [x] PMID 40716833 | SR | OA:none | masticatory-muscle-pain | edat 2025/01/01 — INGESTED 2026-10-01 → wiki/tmj/machado-2025-role-ozone-therapy-treatment-temporomandibular
       "Ozone therapy temporomandibular disorders" — 
-- [ ] PMID 40233599 | SR | OA:none | masticatory-muscle-pain | edat 2025/01/01
+- [x] PMID 40233599 | SR | OA:none | masticatory-muscle-pain | edat 2025/01/01 — INGESTED 2026-10-01 → wiki/tmj/dinsdale-2025-effectiveness-conservative-interventions-temporomandibular-disorder
       "Conservative interventions TMD kinesiophobia" — 
-- [ ] PMID 39764930 | SR/MA | OA:none | masticatory-muscle-pain | edat 2024/01/01
+- [x] PMID 39764930 | SR/MA | OA:none | masticatory-muscle-pain | edat 2024/01/01 — INGESTED 2026-10-01 → wiki/tmj/saini-2024-evaluating-influence-sports-induced-trauma
       "Sports-induced trauma TMD myofascial pain" — 
-- [ ] PMID 35311479 | SR | OA:none | masticatory-muscle-pain | edat 2022/01/01
+- [x] PMID 35311479 | SR | OA:none | masticatory-muscle-pain | edat 2022/01/01 — INGESTED 2026-10-01 → wiki/tmj/honnef-2022-stabilization-splints-signs-symptoms-muscular-tmd
       "Stabilization splints TMD muscular origin" — 
-- [ ] PMID 38943858 | SR/MA | OA:none | masticatory-muscle-pain | edat 2024/01/01
+- [x] PMID 38943858 | SR/MA | OA:none | masticatory-muscle-pain | edat 2024/01/01 — INGESTED 2026-10-01 → wiki/tmj/alshahrani-2024-association-genetic-factors-temporomandibular-disorders
       "Genetic factors temporomandibular disorders" — 
-- [ ] PMID 34957937 | SR/MA | OA:none | masticatory-muscle-pain | edat 2021/01/01
+- [x] PMID 34957937 | SR/MA | OA:none | masticatory-muscle-pain | edat 2021/01/01 — INGESTED 2026-10-01 → wiki/tmj/bavarian-2021-efficacy-microcurrent-electrical-nerve-stimulation
       "MENS masticatory myofascial pain" — 
-- [ ] PMID 38616535 | SR/MA | OA:none | masticatory-muscle-pain | edat 2024/01/01
+- [x] PMID 38616535 | SR/MA | OA:none | masticatory-muscle-pain | edat 2024/01/01 — INGESTED 2026-10-01 → wiki/tmj/christidis-2024-psychological-treatments-temporomandibular-disorder-pain
       "Psychological treatments temporomandibular pain" — 
-- [ ] PMID 36978070 | SR | OA:PMC PMC10053140 | masticatory-muscle-pain | edat 2023/01/01
+- [x] PMID 36978070 | SR | OA:PMC PMC10053140 | masticatory-muscle-pain | edat 2023/01/01 — INGESTED 2026-10-01 → wiki/tmj/orzeszek-2023-efficiency-occlusal-splint-therapy-orofacial
       "Occlusal splint orofacial muscle pain" — 
-- [ ] PMID 36314254 | NMA | OA:none | masticatory-muscle-pain | edat 2022/01/01
+- [x] PMID 36314254 | NMA | OA:none | masticatory-muscle-pain | edat 2022/01/01 — INGESTED 2026-10-01 → wiki/tmj/al-moraissi-2022-acupuncture-dry-needling-effective-management
       "Acupuncture DN masticatory muscle pain NMA" — 
-- [ ] PMID 34674093 | NMA | OA:none | masticatory-muscle-pain | edat 2021/01/01
+- [x] PMID 34674093 | NMA | OA:none | masticatory-muscle-pain | edat 2021/01/01 — INGESTED 2026-10-01 → wiki/tmj/al-moraissi-2021-hierarchy-different-treatments-myogenous-temporomandibular
       "Myogenous TMD treatments hierarchy network" — 
-- [ ] PMID 35398904 | SR/MA | OA:none | masticatory-muscle-pain | edat 2022/01/01
+- [x] PMID 35398904 | SR/MA | OA:none | masticatory-muscle-pain | edat 2022/01/01 — INGESTED 2026-10-01 → wiki/tmj/reis-2022-distribution-anxiety-depression-different-subtypes
       "Anxiety depression TMD myofascial pain" — 
-- [ ] PMID 35305839 | SR | OA:none | masticatory-muscle-pain | edat 2021/01/01
+- [x] PMID 35305839 | SR | OA:none | masticatory-muscle-pain | edat 2021/01/01 — INGESTED 2026-10-01 → wiki/tmj/grossman-2021-cannabis-orofacial-pain-systematic-review
       "Cannabis orofacial pain myofascial" — 
-- [ ] PMID 35775414 | SR | OA:none | masticatory-muscle-pain | edat 2022/01/01
+- [x] PMID 35775414 | SR | OA:none | masticatory-muscle-pain | edat 2022/01/01 — INGESTED 2026-10-01 → wiki/botulinum-toxin/ramos-herrada-2022-botulinum-toxin-myofascial-pain-temporomandibular
       "BoNT myofascial pain related TMD" — 
-- [ ] PMID 35213347 | SR/MA | OA:none | masticatory-muscle-pain | edat 2022/01/01
+- [x] PMID 35213347 | SR/MA | OA:none | masticatory-muscle-pain | edat 2022/01/01 — INGESTED 2026-10-01 → wiki/tmj/ferrillo-2022-efficacy-rehabilitation-reducing-pain-muscle
       "Rehabilitation muscle-related TMD pain" — 
-- [ ] PMID 34967349 | SR/MA | OA:PMC PMC8718212 | masticatory-muscle-pain | edat 2021/01/01
+- [x] PMID 34967349 | SR/MA | OA:PMC PMC8718212 | masticatory-muscle-pain | edat 2021/01/01 — INGESTED 2026-10-01 → wiki/tmj/wu-2021-effectiveness-low-level-gallium-aluminium
       "GaAlAs laser TMD myofascial pain" — 
-- [ ] PMID 34104237 | SR | OA:PMC PMC8169142 | masticatory-muscle-pain | edat 2021/01/01
+- [x] PMID 34104237 | SR | OA:PMC PMC8169142 | masticatory-muscle-pain | edat 2021/01/01 — INGESTED 2026-10-01 → wiki/tmj/ahmad-2021-low-level-laser-therapy-temporomandibular
       "LLLT temporomandibular joint disorders" — 
-- [ ] PMID 30916621 | SR | OA:none | masticatory-muscle-pain | edat 2019/01/01
+- [x] PMID 30916621 | SR | OA:none | masticatory-muscle-pain | edat 2019/01/01 — INGESTED 2026-10-01 → wiki/tmj/tesch-2019-effectiveness-dry-needling-local-pressure
       "DN masticatory myofascial pain pressure threshold" — 
