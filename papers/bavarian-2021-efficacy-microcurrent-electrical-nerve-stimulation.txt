@@ -1,0 +1,8 @@
+Source: PubMed PMID 34957937 (abstract only). DOI 10.1080/08869634.2021.2020006
+Title: The efficacy of microcurrent electrical nerve stimulation in treating masticatory myofascial pain: A systematic review and meta-analysis.
+Journal: Cranio 2021;42(5):555-561 (published 2021-12-27)
+Authors: Bavarian R, Khawaja SN, Ajisafe AH, Sultan AS
+
+ABSTRACT:
+To assess the efficacy of microcurrent electrical nerve stimulation (MENS) therapy in treating myofascial pain of the masticatory muscles. In this systematic review and meta-analysis, the efficacy of MENS was evaluated, with the primary outcome being the reduction in pain on palpation of the masticatory muscles. Four independent comparisons based on three studies were included in the meta-analysis (n = 140). In comparison to placebo and other therapies, treatment with MENS showed an improved mean reduction in pain of -0.57 points (CI: -0.91 to -0.23 points, I = 83.7%). Evidence from this meta-analysis shows that MENS is an effective non-invasive treatment that can be used to reduce pain in patients with myofascial pain of the masticatory muscle; however, the study was limited by the small number of articles relevant to the research question as well as variability between the selected studies.
+Keywords: MENS; Masticatory myalgia; TENS; microcurrent electric nerve stimulation; myofascial pain; temporomandibular disorder; transcutaneous electrical nerve stimulation
