@@ -2,7 +2,7 @@
 title: "보툴리눔 독소 — botulinum-toxin"
 authors: navigation
 year: 2026
-date: 2026-08-11
+date: 2026-10-01
 doi: N/A
 source: navigation
 category: botulinum-toxin
@@ -15,20 +15,20 @@ tags: [navigation, category-index, botulinum-toxin]
 > [!summary] 한국어 핵심요약
 > - **분야**: 보툴리눔 독소
 > - **범위**: Botulinum toxin type A (BoNT-A) for bruxism, TMD/myogenous pain, gummy smile, lip aesthetics; injection landmarks, dosing, longevity
-> - **수록 논문**: 26편
+> - **수록 논문**: 28편
 
 ## Three-line Summary
 
 **Scope**: Botulinum toxin type A (BoNT-A) for bruxism, TMD/myogenous pain, gummy smile, lip aesthetics; injection landmarks, dosing, longevity
-**Indexed papers**: 26 papers in `wiki/botulinum-toxin/`.
+**Indexed papers**: 28 papers in `wiki/botulinum-toxin/`.
 
 ## 세줄요약
 
 **분야**: 보툴리눔 독소
-**수록 논문**: 26편
+**수록 논문**: 28편
 **하위 카테고리**: 없음
 
-## Papers in this Category (26)
+## Papers in this Category (28)
 
 | Paper |
 |---|
@@ -42,6 +42,7 @@ tags: [navigation, category-index, botulinum-toxin]
 | [[de-la-torre-canales-2024-botulinum-toxin-a-myogenous|Botulinum Toxin-A for the Treatment of Myogenous Temporomandibular Disorders: An Umbrella Review of Systematic Reviews]] |
 | [[de-souza-nobre-2024-temporalis-muscle-changes-following|Temporalis Muscle Changes Following Botulinum Toxin A Injections in Masseter Hypertrophy Patients: A Randomized Triple-Blinded Trial]] |
 | [[deng-2023-osseointegration-titanium-implants-botox-induced|Osseointegration of Titanium Implants in a Botox-Induced Muscle Paralysis Rat Model Is Sensitive to Surface Topography and Semaphorin 3A Treatment]] |
+| [[desantana-2026-botulinum-toxin-type-myogenous-temporomandibular|Botulinum Toxin Type A for Myogenous Temporomandibular Disorders, Focusing on the Duration of Clinical Effects and Dosage Parameters: A Systematic Review]] |
 | [[eberlikose-2026-botulinum-toxin-mandibular-bone-bruxism|Impact of BoNT-A on Mandibular Bone Parameters in Bruxism: Radiographic Evidence]] |
 | [[ergezen-2025-botulinum-toxin-sleep-quality-bruxism|Effects of Botulinum Toxin Type A on Sleep Quality in Patients with Awake and Sleep Bruxism]] |
 | [[fatani-2023-approach-gummy-smile-treatment-botulinum|An Approach for Gummy Smile Treatment Using Botulinum Toxin A: A Narrative Review of the Literature]] |
@@ -53,6 +54,7 @@ tags: [navigation, category-index, botulinum-toxin]
 | [[minston-2025-effect-pain-following-botulinum-toxin|Effect on Pain Following One Session of Botulinum Toxin Type A in Patients With Jaw Myalgia: A Randomised Double-Blind Controlled Multicentre Pilot Study]] |
 | [[nobre-2024-exploring-botulinum-toxin-impact-masseter|Exploring botulinum toxin's impact on masseter hypertrophy: a randomized, triple-blinded clinical trial]] |
 | [[raafa-2025-novel-fully-guided-technique-botulinum|A novel fully guided technique for botulinum toxin injection in lateral pterygoid muscle using muscle segmentation for TMJ disc displacement with reduction: a randomized controlled trial]] |
+| [[ramos-herrada-2022-botulinum-toxin-myofascial-pain-temporomandibular|Effects of botulinum toxin in patients with myofascial pain related to temporomandibular joint disorders: A systematic review]] |
 | [[rojo-sanchis-2023-non-surgical-management-gingival-smile|Non-Surgical Management of the Gingival Smile with Botulinum Toxin A—A Systematic Review and Meta-Analysis]] |
 | [[sahin-2024-comparison-effectiveness-botulinum-toxin-dry|Comparison of the effectiveness of botulinum toxin, dry needling, pharmacological treatment, and manual therapy for bruxism-induced myalgia: a prospective randomized study]] |
 | [[serrera-figallo-2020-botulinum-toxin-orofacial-review|Use of Botulinum Toxin in Orofacial Clinical Practice]] |
