@@ -1,0 +1,16 @@
+PMID: 39764930
+DOI: 10.1016/j.archoralbio.2024.106168
+Source: PubMed abstract (no PMCID)
+Title: Evaluating the influence of sports-induced trauma on temporomandibular disorders: A systematic review and meta-analysis.
+Authors: Saini RS, Okshah A, Haneef M, Quadri SA, Chaturvedi M, Mosaddad SA, Heboyan A
+Journal: Arch Oral Biol 2025;172:106168 (epub 2024-12-26)
+
+OBJECTIVE: The main aim of this study was to identify the existing literature on the association between sporting activities and temporomandibular disorders and to critically appraise evidence of this association through a systematic review and meta-analysis.
+
+METHODS: A comprehensive search was conducted using PubMed, ScienceDirect, Dimensions, Google Scholar, Cochrane Library, and the Education Resources Information Centre (ERIC). Articles were selected using pre-specified eligibility criteria. In addition, the quality of eligible studies was assessed using the National Institutes of Health (NIH) for observational cohort and cross-sectional studies. Data were systematically extracted and analyzed.
+
+RESULTS: Temporomandibular disorder symptoms, such as myofascial pain, clicking sounds, and musculoskeletal symptoms, were comparably prevalent among athletes and non-athletes, with some studies reporting contrasting results. However, meta-analyses of the comparisons demonstrated statistically insignificant differences between athletes and non-athletes. Additionally, there was a significant reduction in temporomandibular disorder symptoms when mouthguards were used.
+
+CONCLUSIONS: This comprehensive analysis of existing evidence highlights the various symptoms and clinical manifestations of TMD among athletes, including myofascial pain, clicking sounds, and musculoskeletal symptoms. This study established different prevalence rates in different sports.
+
+Keywords: Athletes; Athletic Injuries; Myofascial pain syndromes; Physical trauma; Sports; Temporomandibular disorders
