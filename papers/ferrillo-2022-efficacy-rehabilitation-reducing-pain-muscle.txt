@@ -1,0 +1,17 @@
+PMID: 35213347
+DOI: 10.3233/BMR-210236
+Title: Efficacy of rehabilitation on reducing pain in muscle-related temporomandibular disorders: A systematic review and meta-analysis of randomized controlled trials.
+Authors: Ferrillo M, Ammendolia A, Paduano S, Calafiore D, Marotta N, Migliario M, Fortunato L, Giudice A, Michelotti A, de Sire A
+Journal: J Back Musculoskelet Rehabil 2022;35(5):921-936
+Source: PubMed abstract (no PMCID; full text not retrieved)
+
+BACKGROUND: Patients with temporomandibular disorders (TMD) mostly suffer from muscle-related pain. Several conservative interventions have been suggested as treatments for TMD in the last years.
+
+OBJECTIVE: The aim of this systematic review with meta-analysis was to assess the efficacy of rehabilitative approaches in reducing pain in patients with muscle-related TMD.
+
+METHODS: PubMed, Scopus, and Web of Science were systematically searched from inception until April 28th, 2021 to identify randomized controlled trials (RCTs) presenting: patients with painful muscle-related TMD; rehabilitative approaches as interventions; placebo or sham treatment as comparisons; pain intensity, using visual analogue scale as outcome. A meta-analysis was performed to evaluate the overall effect on painful muscle-related TMD patients. PROSPERO registration number of this systematic review is CRD42021251904.
+
+RESULTS: Out of 1997 papers suitable for title/abstract screening, 189 articles were assessed for eligibility. Sixteen RCTs were included and most of them (n= 6, 37.5%) investigated the effects of the laser therapy. The meta-analysis revealed that rehabilitative interventions had a significant overall effect size (ES) of 1.44 (p< 0.0001) in decreasing pain in patients with muscle-related disorders.
+
+CONCLUSIONS: Findings of this systematic review with meta-analysis suggested that rehabilitative approaches might be effective in reducing pain in muscle-related TMD patients. However, the low number of RCTs evaluating conservative approaches might impair the synthesis of evidence regarding the different techniques, calling for caution in the interpretation of these results.
+Keywords: Temporomandibular disorders; myofascial pain; pain; physical therapy; rehabilitation
