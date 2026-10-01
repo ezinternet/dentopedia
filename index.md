@@ -2297,6 +2297,15 @@ tags: []
 - [[tmj/orzeszek-2023-efficiency-occlusal-splint-therapy-orofacial]] — 근육통·근막통 교합장치(splint) RCT 13편(589명) SR: 전부 비뚤림 위험 높음, 메타분석 불가, 침·레이저·물리치료·상담 대비 우월성 근거 불충분 (교육군 자발통 감소 더 큼 p=0.034)
 - [[tmj/ahmad-2021-low-level-laser-therapy-temporomandibular]] — Ahmad 2021 · sr · LLLT RCT 37편(2000~2020, DB 2개) 서술적 종합: 통증 효과 18편/위약·대조와 동등 12편/엇갈림 4편, 통합 효과크기 없음·레이저 파라미터 이질성 큼
 - [[tmj/wu-2021-effectiveness-low-level-gallium-aluminium]] — 근막통형 TMD 저출력 GaAlAs 레이저 RCT 8편(181명) SR+MA: 치료 종료 시 VAS 차이 경계 수준(WMD -0.76, 95% CI -1.51~0.01, P=.046), 3-4주 후 소실, 최대개구량 무변화; 초록은 근거 불충분으로 결론
+- [[tmj/abrahamsson-2020-treatment-of-temporomandibular-joint-luxation]] — Abrahamsson 2020 · SR · 악관절 탈구 치료 RCT-only SR (8편·338명): 급성 1차 성공 손목축법 97%>구강내 87%>외인법 67%(p<0.01); 재발성 자가혈액+IMF 재발 0/16; 수술 RCT 0편·덱스트로스 위약 비우위
+- [[tmj/prechel-2018-the-treatment-of-temporomandibular-joint]] — Prechel 2018 · SR+지침 · 독일 DGMKG 악관절 탈구 진료지침 (136편): 급성 즉시 수동복원, 손목축법=히포크라테스 동등, 편측 외구복원 96.7%; 재발 22%, 만성 30%, ABI 12개월 80% 성공
+- [[tmj/stolbizer-2020-anterior-dislocation-of-the-temporomandibular]] — Stolbizer 2020 · 후향 n=42 · 부에노스아이레스 응급실 무마취 수동복원 100% 성공; 타원 히포크라테스 실패 후 전원 55%, 소요 1.5–7분(난치 최대 15분)
+- [[tmj/okoje-2017-managing-temporomandibular-joint-dislocation-in]] — Okoje 2017 · 후향 n=11 · 나이지리아 10년 코호트: 전방 양측성 91%, 원인 과도 개구 55%, 히포크라테스 단독 45%, 개방수술 1례; 추적 이탈 64%
+- [[tmj/tarhio-2023-causes-and-treatment-of-temporomandibular]] — Tarhio 2023 · 후향 n=260 · 헬싱키 14년 코호트: 재발성 61.9%, 자발성 40.0%, 수동복원 91.9%(무약물 69.2%), 수술 1.9%; 전신질환 시 재발 위험 1.57배(p<0.001)
+- [[tmj/lin-2026-rapid-reduction-of-temporomandibular-joint]] — Lin 2026 · 후향 n=83 · 응급실 환자자가유도복원(PGR) 전원 성공, 평균 150±52초, 히포크라테스 2회 이상 실패 난치 12예도 전부 성공, 의인성 손상 0
+- [[tmj/hoppe-2025-management-of-recurrent-temporomandibular-joint]] — Hoppe 2025 · SR · 소아 재발성 탈구 (9편, Oxford LoE 3–5): BoNT-A·자가혈액 주사 최다 보고, 수술 2편에서 마지막 수단으로만; 근거 질 전반 낮음
+- [[tmj/hoppe-2026-peri-and-intraarticular-injections-with]] — Hoppe 2026 · 매핑 리뷰 · 악관절 탈구 주사 치료 (5편): ABI(관절강내+관절주변)·50%덱스트로스·sodium morrhuate 3가지만 근거, 방법론 질 전반 낮음
+- [[tmj/tummings-2023-an-inexpensive-biomechanical-model-to]] — Tummings 2023 · 기술문 · 수동복원 교육용 저비용 생역학 모델($67): 손목축법·외인법 실습 훈련 가능; 임상 성과 검증 없음
 
 ## 보툴리눔 톡신 — 약물 (Botulinum Toxin / BTX-A)
 - [[botulinum-toxin/de-la-torre-canales-2024-botulinum-toxin-a-myogenous]] — Umbrella review (Drugs 2024, 18 SR): BoNT-A vs M-TMD — 위약보다는 우월·표준치료엔 비우월; 근육·골 부작용 위험으로 "last option" 권고
