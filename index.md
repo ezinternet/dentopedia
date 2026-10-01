@@ -2306,6 +2306,7 @@ tags: []
 - [[tmj/hoppe-2025-management-of-recurrent-temporomandibular-joint]] — Hoppe 2025 · SR · 소아 재발성 탈구 (9편, Oxford LoE 3–5): BoNT-A·자가혈액 주사 최다 보고, 수술 2편에서 마지막 수단으로만; 근거 질 전반 낮음
 - [[tmj/hoppe-2026-peri-and-intraarticular-injections-with]] — Hoppe 2026 · 매핑 리뷰 · 악관절 탈구 주사 치료 (5편): ABI(관절강내+관절주변)·50%덱스트로스·sodium morrhuate 3가지만 근거, 방법론 질 전반 낮음
 - [[tmj/tummings-2023-an-inexpensive-biomechanical-model-to]] — Tummings 2023 · 기술문 · 수동복원 교육용 저비용 생역학 모델($67): 손목축법·외인법 실습 훈련 가능; 임상 성과 검증 없음
+- [[tmj/neff-2021-the-estmjs-european-society-of]] — Neff 2021 · ESTMJS 국제 합의 권고안 · 수정 델파이법 12개국 전문가 22명, 230편 문헌 기반 24개 권고: 히포크라테스법 우선·외사선 엄지 거치; 재발성은 ABI(LoE Ib)→BTX(허가외 잠재 적응증)→수술; GoR A 단 1개(비수술 먼저). 손목축법은 LoE Ib에도 학회 경험 부족으로 미채택
 
 ## 보툴리눔 톡신 — 약물 (Botulinum Toxin / BTX-A)
 - [[botulinum-toxin/de-la-torre-canales-2024-botulinum-toxin-a-myogenous]] — Umbrella review (Drugs 2024, 18 SR): BoNT-A vs M-TMD — 위약보다는 우월·표준치료엔 비우월; 근육·골 부작용 위험으로 "last option" 권고
