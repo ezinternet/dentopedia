@@ -14,24 +14,25 @@ tags: [navigation, category-index, tmj]
 
 > [!summary] 한국어 핵심요약
 > - **분야**: 턱관절·악관절장애
-> - **범위**: TMD diagnosis & management — arthrocentesis, splint therapy, pharmacotherapy, chronic pain, TMJ osteoarthritis, sleep bruxism
-> - **수록 논문**: 106편
+> - **범위**: TMD diagnosis & management — arthrocentesis, splint therapy, pharmacotherapy, chronic pain, TMJ osteoarthritis, sleep bruxism; **관절탈구·탈위 (luxation & dislocation)** — acute anterior TMJ dislocation reduction technique & manual/closed/extraoral approaches, anaesthesia & sedation for reduction, recurre…
+> - **수록 논문**: 115편
 
 ## Three-line Summary
 
-**Scope**: TMD diagnosis & management — arthrocentesis, splint therapy, pharmacotherapy, chronic pain, TMJ osteoarthritis, sleep bruxism
-**Indexed papers**: 106 papers in `wiki/tmj/`.
+**Scope**: TMD diagnosis & management — arthrocentesis, splint therapy, pharmacotherapy, chronic pain, TMJ osteoarthritis, sleep bruxism; **관절탈구·탈위 (luxation & dislocation)** — acute anterior TMJ dislocation reduction technique & manual/closed/extraoral approaches, anaesthesia & sedation for reduction, recurrence-prevention injections, chronic/long-standing dislocation algorithm & surgical treatment, discipline consensus (e.g.
+**Indexed papers**: 115 papers in `wiki/tmj/`.
 
 ## 세줄요약
 
 **분야**: 턱관절·악관절장애
-**수록 논문**: 106편
+**수록 논문**: 115편
 **하위 카테고리**: 없음
 
-## Papers in this Category (106)
+## Papers in this Category (115)
 
 | Paper |
 |---|
+| [[abrahamsson-2020-treatment-of-temporomandibular-joint-luxation|Treatment of temporomandibular joint luxation: a systematic literature review]] |
 | [[aggarwal-2026-third-molar-extraction-tmj-pain|To do or not to do extraction in temporomandibular joint pain: a systematic review background and rationale]] |
 | [[ahmad-2021-low-level-laser-therapy-temporomandibular|Low-level laser therapy in temporomandibular joint disorders: a systematic review]] |
 | [[aiello-2025-tmj-arthritis-rheumatic-diseases-rehabilitative-pain-relief-sr|Temporomandibular joint arthritis in rheumatic diseases patients: which are the effective rehabilitative approaches for pain relief? A systematic review]] |
@@ -76,6 +77,8 @@ tags: [navigation, category-index, tmj]
 | [[guzman-2025-tmj-replacement-customized-prostheses|Functional outcomes of total temporomandibular joint replacement with customized prostheses: a clinical case series]] |
 | [[haggman-henrikson-2017-pharmacological-orofacial-pain-sr-ma|Pharmacological treatment of oro-facial pain – health technology assessment including a systematic review with network meta-analysis]] |
 | [[honnef-2022-stabilization-splints-signs-symptoms-muscular-tmd|Effects of stabilization splints on the signs and symptoms of temporomandibular disorders of muscular origin: A systematic review]] |
+| [[hoppe-2025-management-of-recurrent-temporomandibular-joint|Management of Recurrent Temporomandibular Joint Dislocation in Children: A Systematic Review]] |
+| [[hoppe-2026-peri-and-intraarticular-injections-with|Peri- and Intraarticular Injections with Isolable Treatment Effects in Recurrent Mandibular Dislocation: A Mapping Review of the Current Evidence]] |
 | [[ijoms-2023-arthrocentesis-conservative-tmd-sr-ma|A systematic review and meta-analysis of randomized controlled trials comparing arthrocentesis with conservative management for painful temporomandibular joint disorder]] |
 | [[jeon-2024-chewing-difficulty-tmd-tooth-loss|A comparative analysis of older patients with chewing difficulties due to temporomandibular disorders and tooth loss]] |
 | [[jiang-2024-orofacial-pain-sleep-biobank|Relationships between orofacial pain and sleep: Analysis of UK biobank and genome-wide association studies data]] |
@@ -85,6 +88,7 @@ tags: [navigation, category-index, tmj]
 | [[kim-2012-diagnosis-treatment-temporomandibular-disorder|Diagnosis and Treatment of Temporomandibular Disorder]] |
 | [[kim-2023-treatment-tmj-osteoarthritis|Treatment of TMJ Osteoarthritis]] |
 | [[koole-2019-spray-stretch-technique-mouth-opening|Spray and stretch technique and its effects on mouth opening]] |
+| [[lin-2026-rapid-reduction-of-temporomandibular-joint|Rapid reduction of temporomandibular joint dislocation with a modified and optimized patient-guided technique: a retrospective case series]] |
 | [[liu-2026-monoblock-vs-twinblock-splint-addwr-rct|Effectiveness of a Novel Mono-Block Splint Versus a Twin-Block Splint for Anterior Disc Displacement With Reduction: A Randomised Controlled Trial]] |
 | [[ma-2022-condyle-position-chewing-side-preference-cbct|A comparative study of condyle position in temporomandibular disorder patients with chewing side preference using cone-beam computed tomography]] |
 | [[ma-2025-tmd-tinnitus-chewing-side-preference-correlation|Preliminary study on the correlation between clinical symptoms of TMD with tinnitus and chewing-side preference]] |
@@ -99,6 +103,7 @@ tags: [navigation, category-index, tmj]
 | [[naralan-2026-masseter-muscle-stiffness-bruxism-myofascial|Masseter Muscle Stiffness in Bruxism and Myofascial Pain-Related Temporomandibular Disorders: A Systematic Review and Meta-Analysis of Quantitative Ultrasound Elastography Studies]] |
 | [[nemani-2024-tmj-pain-treatment-modalities-cervical|Evaluation of the Effect of Different Kinds of Treatment Modalities for Temporomandibular Joint Pain and Its Relevance to Chronic Cervical Pain: A Randomized Controlled Trial]] |
 | [[nowak-2021-intramuscular-injections-dry-needling-masticatory-sr|Intramuscular Injections and Dry Needling within Masticatory Muscles in Management of Myofascial Pain. Systematic Review of Clinical Trials]] |
+| [[okoje-2017-managing-temporomandibular-joint-dislocation-in|Managing Temporomandibular Joint Dislocation in Ibadan: A Review of 11 Cases]] |
 | [[orzeszek-2023-efficiency-occlusal-splint-therapy-orofacial|Efficiency of occlusal splint therapy on orofacial muscle pain reduction: a systematic review]] |
 | [[pal-2014-trends-management-myofascial-pain|Trends in management of myofacial pain]] |
 | [[park-2024-dextrose-prolotherapy-tmd|Efficacy of Dextrose Prolotherapy on Temporomandibular Disorder: A Retrospective Study]] |
@@ -106,6 +111,7 @@ tags: [navigation, category-index, tmj]
 | [[pawlaczyk-kamienska-2026-facial-asymmetry-mandibular-hypomobility-jia-tmj|Facial asymmetry and mandibular hypomobility as early indicators of temporomandibular joint involvement in juvenile idiopathic arthritis]] |
 | [[pereira-2024-condylar-mandibular-movements-mad-osa-cbct|Evaluation of condylar and mandibular movements on the upper airway during the use of mandibular advancement device for obstructive sleep apnea treatment]] |
 | [[pigozzi-2021-quality-of-life-tmd-sr-ma|Quality of life in young and middle age adult temporomandibular disorders patients and asymptomatic subjects: a systematic review and meta-analysis]] |
+| [[prechel-2018-the-treatment-of-temporomandibular-joint|The Treatment of Temporomandibular Joint Dislocation]] |
 | [[radej-2023-condylar-displacement-malocclusion-cr-mip-sr|The Role of Maxillofacial Structure and Malocclusion on Condylar Displacement in Maximum Intercuspation and Centric Relation in Patients Seeking Orthodontic Treatment—A Scoping Review]] |
 | [[ralli-2017-somatosensory-tinnitus-current-evidence-future|Somatosensory tinnitus: Current evidence and future perspectives]] |
 | [[ravelo-2025-tmj-replacement-degenerative-disease-sr|TMJ Replacement in Degenerative Disease: A Systematic Review]] |
@@ -118,8 +124,11 @@ tags: [navigation, category-index, tmj]
 | [[santana-mora-2021-asymmetry-chewing-chronic-tmd|Asymmetry of dental or joint anatomy or impaired chewing function contribute to chronic temporomandibular joint disorders]] |
 | [[singh-2024-occlusal-interventions-tmd-cochrane-sr|Occlusal interventions for managing temporomandibular disorders]] |
 | [[song-2023-understanding-tmj-osteoarthritis-pathophysiology|Understanding of Temporomandibular joint osteoarthritis: pathophysiology, epidemiology and diagnosis]] |
+| [[stolbizer-2020-anterior-dislocation-of-the-temporomandibular|Anterior dislocation of the temporomandibular joint: a simplified non-traumatic manual technique]] |
+| [[tarhio-2023-causes-and-treatment-of-temporomandibular|Causes and treatment of temporomandibular luxation—a retrospective analysis of 260 patients]] |
 | [[tenorio-2026-ultrasonography-tmj-rheumatoid-arthritis-scoping-review|Mapping the evidence on ultrasonography for temporomandibular joint evaluation in rheumatoid arthritis: a scoping review]] |
 | [[tesch-2019-effectiveness-dry-needling-local-pressure|Effectiveness of dry needling on the local pressure pain threshold in patients with masticatory myofascial pain. Systematic review and preliminary clinical trial.]] |
+| [[tummings-2023-an-inexpensive-biomechanical-model-to|An Inexpensive Biomechanical Model to Help Teach and Learn Newer Mandible Reduction Techniques]] |
 | [[ustun-2024-dry-needling-cold-spray-stretching-rct|Comparison of Dry Needling and Cold-Spray-Stretching Treatments by Ultrasonography and Electrophysiology: Prospective, Randomized Controlled Trial]] |
 | [[valenzuela-fuenzalida-2026-arthrocentesis-vs-other-modalities-tmd-sr-ma|Effectiveness of arthrocentesis versus other therapeutic modalities in patients with temporomandibular disorders. A systematic review and meta-analysis]] |
 | [[valesan-2021-tmd-prevalence-sr-ma|Prevalence of temporomandibular joint disorders: a systematic review and meta-analysis]] |
