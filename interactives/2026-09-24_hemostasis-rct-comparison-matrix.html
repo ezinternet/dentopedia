@@ -3,6 +3,7 @@
 title: "발치와 지혈 RCT 비교 매트릭스"
 type: interactive
 date: 2026-09-24
+updated: 2026-10-01
 status: done
 category: drug/anticoagulants
 agenda: agenda/2026-09-24_hemostasis-interactives.md
@@ -11,8 +12,16 @@ source_wiki:
   - wiki/drug/anticoagulants/agrawal-2025-efficacy-chitosan-dressing-antiplatelet.md
   - wiki/drug/anticoagulants/kaddah-2024-tranexamic-acid-gelfoam-warfarin.md
   - wiki/drug/anticoagulants/singh-jolly-2025-chitosan-dressing-deranged-coagulation.md
+  - wiki/drug/anticoagulants/ockerman-2021-tranexamic-acid-bleeding-noac-dental-extraction.md
+  - wiki/drug/anticoagulants/kyyak-2023-platelet-rich-fibrin-ensures-hemostasis.md
+  - wiki/drug/anticoagulants/mahardawi-2023-different-hemostatic-agents-dental-extraction.md
+  - wiki/drug/anticoagulants/boccatonda-2023-perioperative-antithrombotic-dental-procedures-network-ma.md
+  - wiki/drug/anticoagulants/valenzuela-mencia-2024-clinical-practice-guideline-coagulation-disorders.md
+  - wiki/drug/anticoagulants/alagil-2023-postoperative-bleeding-dental-extraction-antiplatelet.md
+  - wiki/drug/anticoagulants/calcia-2021-alteration-single-drug-anticoagulant-antiplatelet.md
+  - wiki/drug/anticoagulants/katz-2024-platelet-rich-fibrin-hemostatic-agent-dental-extractions.md
 output_wiki: []
-tags: [hemostasis, anticoagulants, antiplatelet, rct, interactive, 2026-09]
+tags: [hemostasis, anticoagulants, antiplatelet, rct, nma, guideline, doac, interactive, 2026-09, updated-2026-10]
 ---
 -->
 <!DOCTYPE html>
@@ -143,6 +152,8 @@ tags: [hemostasis, anticoagulants, antiplatelet, rct, interactive, 2026-09]
   .tag-rct { background: #f0fdf4; color: #166534; border: 1px solid #bbf7d0; }
   .tag-abstract { background: #fffbeb; color: #92400e; border: 1px solid #fcd34d; }
   .tag-design { background: #f1f5f9; color: #475569; }
+  .tag-new { background: #eff6ff; color: #1d4ed8; border: 1px solid #bfdbfe; }
+  .tag-synth { background: #f5f3ff; color: #6d28d9; border: 1px solid #ddd6fe; }
 
   .expand-btn {
     font-size: 1rem;
@@ -243,24 +254,180 @@ tags: [hemostasis, anticoagulants, antiplatelet, rct, interactive, 2026-09]
   <div class="header">
     <span class="badge">Evidence Matrix</span>
     <h1>발치와 지혈 RCT 비교 매트릭스</h1>
-    <p>발치와 지혈 관련 RCT 5편 + 주요 기존 연구 비교 — 환자군별 필터 가능</p>
+    <p>발치와 지혈 근거 비교 — 시험(RCT) + 종합(SR·NMA)·진료지침 — 환자군별 필터 가능 · <strong>2026-10-01 갱신</strong>: DOAC RCT 2편, 지혈제 NMA, 중단·유지 근거 추가</p>
   </div>
 
   <!-- Filters -->
   <div class="filters">
     <span class="filter-label">환자군</span>
     <div class="filter-chips">
-      <span class="chip active" data-filter="all">전체 <span class="count-badge" id="cnt-all">8</span></span>
+      <span class="chip active" data-filter="all">전체 <span class="count-badge" id="cnt-all">0</span></span>
       <span class="chip" data-filter="healthy">정상</span>
       <span class="chip" data-filter="antiplatelet">항혈소판</span>
       <span class="chip" data-filter="anticoag">항응고</span>
       <span class="chip" data-filter="deranged">응고이상</span>
       <span class="chip" data-filter="natural">천연물</span>
+      <span class="chip" data-filter="doac">DOAC</span>
+      <span class="chip" data-filter="synthesis">종합·지침</span>
     </div>
   </div>
 
   <!-- Study Cards -->
   <div class="card-grid" id="cardGrid">
+
+    <div class="study-card" data-cats="anticoag doac" id="card-ockerman">
+      <div class="card-header" onclick="toggle('card-ockerman')">
+        <div class="study-meta">
+          <div class="study-title">Tranexamic acid and bleeding in patients treated with non-vitamin K oral anticoagulants undergoing dental extraction (EXTRACT-NOAC)</div>
+          <div class="study-authors">Ockerman et al. · PLoS Med 2021 · PMID 33939696 · wiki/drug/anticoagulants/ockerman-2021</div>
+          <div class="meta-row"><span class="tag tag-new">2026-10 추가</span><span class="tag tag-rct">RCT · n=222</span><span class="tag tag-anticoag">NOAC/DOAC</span><span class="tag tag-design">이중맹검 위약대조 · 전문</span></div>
+        </div>
+        <span class="expand-btn">▼</span>
+      </div>
+      <div class="numbers-strip"><div class="num-item"><div class="num-label">7일 내 출혈</div><div class="num-value num-red">26.4% vs 28.6%</div><div class="num-sub">RR 0.92 (0.60–1.42), P=0.72</div></div><div class="num-item"><div class="num-label">지연 출혈</div><div class="num-value num-blue">비율비 0.32</div><div class="num-sub">0.12–0.89 · 탐색적</div></div><div class="num-item"><div class="num-label">발치 2개 이상</div><div class="num-value num-blue">비율비 0.40</div><div class="num-sub">0.20–0.78 · 탐색적</div></div><div class="num-item"><div class="num-label">혈전 사건</div><div class="num-value ">TXA 0 · 위약 1 (TIA)</div><div class="num-sub"></div></div></div>
+      <div class="detail-panel">
+        <div class="detail-grid">
+          <div class="detail-block"><h4>설계·한계</h4><ul><li>벨기에 4개 병원 다기관, 10% TXA 양치액 vs 위약, 발치 당일 아침 NOAC만 생략</li><li>무작위 222명(분석 218명) — 계획 236명 중 무용성(futility) 분석으로 조기 종료</li><li>자가보고 순응도, NOAC 재복용 시점 비고정, 하위군 분석은 탐색적, 성별 불균형(남 76.4% vs 57.1%)</li></ul></div>
+          <div class="detail-block"><h4>주요 통찰</h4><ul><li><strong>1차 결과는 중립</strong> — TXA 양치액이 NOAC 환자의 조기 출혈을 줄인다는 근거는 없음</li><li>조기 출혈(비율비 0.76, 0.42–1.37)도 차이 없음</li><li>임상적으로 의미 있는 출혈 4명(3.8%) vs 10명(8.9%), RR 0.42 (0.14–1.31) — 유의하지 않음</li><li>한 건의 주요 출혈(수혈 필요)은 위약군. 나머지는 국소 처치로 해결</li></ul></div>
+        </div>
+        <div class="study-note note-amber"><strong>임상 적용</strong>: 이전 판의 &quot;TXA 양치액이 DOAC 출혈을 50–60% 줄인다(관찰연구)&quot;는 서술은 이 RCT로 뒷받침되지 않음. 안전하지만 만능 해법이 아니며, 이득은 지연 출혈·다수 발치에 한정된 <em>가설 생성</em> 수준.</div>
+      </div>
+    </div>
+
+    <div class="study-card" data-cats="anticoag doac" id="card-kyyak">
+      <div class="card-header" onclick="toggle('card-kyyak')">
+        <div class="study-meta">
+          <div class="study-title">Platelet-rich fibrin ensures hemostasis after tooth removal under factor Xa inhibitors: split-mouth study vs gelatine sponge</div>
+          <div class="study-authors">Kyyak et al. · Clin Oral Investig 2023 · PMID 37864605 · wiki/drug/anticoagulants/kyyak-2023</div>
+          <div class="meta-row"><span class="tag tag-new">2026-10 추가</span><span class="tag tag-rct">RCT · n=21 (42소켓)</span><span class="tag tag-anticoag">Xa 억제제</span><span class="tag tag-design">이중맹검 분할구강 · 전문</span></div>
+        </div>
+        <span class="expand-btn">▼</span>
+      </div>
+      <div class="numbers-strip"><div class="num-item"><div class="num-label">경미한 스며나옴</div><div class="num-value ">28/42 (67%)</div><div class="num-sub"></div></div><div class="num-item"><div class="num-label">30분 내 지혈</div><div class="num-value num-blue">24건</div><div class="num-sub">최장 1.5시간</div></div><div class="num-item"><div class="num-label">출혈 합병증</div><div class="num-value num-green">0건</div><div class="num-sub">지연 출혈 없음</div></div><div class="num-item"><div class="num-label">PRF vs 젤라틴</div><div class="num-value ">차이 없음</div><div class="num-sub">모두 p>0.05</div></div></div>
+      <div class="detail-panel">
+        <div class="detail-grid">
+          <div class="detail-block"><h4>설계·한계</h4><ul><li>Mainz 단일 기관, FXa 억제제 복용 21명, 항응고제 중단 없음, 양군 봉합 병행</li><li>약제 혼합 분석, 하위군 5–9명, 지혈제 미사용 대조군 없음</li><li>후방·하악 소켓에서 스며나옴이 유의하게 많았음(하악 vs 상악 p=0.0008 t-검정, 0.02 Kruskal-Wallis)</li></ul></div>
+          <div class="detail-block"><h4>주요 통찰</h4><ul><li>PRF와 젤라틴 스펀지는 <strong>동등하게 허용 가능</strong>한 소켓 충전재</li><li>Xa 억제제를 단순 발치에서 중단할 필요가 없다는 방향과 일치</li><li>n=21이라 동등성 입증이 아니라 &quot;큰 차이 없음&quot; 수준</li></ul></div>
+        </div>
+        <div class="study-note note-amber"><strong>임상 적용</strong>: 소규모. DOAC 환자에서 PRF가 젤라틴 스펀지보다 낫다는 근거는 없음. 대조군(지혈제 없음)이 없어 &quot;젤라틴이 효과 있다&quot;도 말할 수 없음.</div>
+      </div>
+    </div>
+
+    <div class="study-card" data-cats="antiplatelet anticoag synthesis" id="card-mahardawi">
+      <div class="card-header" onclick="toggle('card-mahardawi')">
+        <div class="study-meta">
+          <div class="study-title">Effect of different hemostatic agents following dental extraction in patients under oral antithrombotic therapy — network meta-analysis</div>
+          <div class="study-authors">Mahardawi et al. · Sci Rep 2023 · PMID 37532770 · wiki/drug/anticoagulants/mahardawi-2023</div>
+          <div class="meta-row"><span class="tag tag-new">2026-10 추가</span><span class="tag tag-synth">NMA · RCT 23편</span><span class="tag tag-anticoag">항응고 14 · 항혈소판 6</span><span class="tag tag-design">전문</span></div>
+        </div>
+        <span class="expand-btn">▼</span>
+      </div>
+      <div class="numbers-strip"><div class="num-item"><div class="num-label">TXA 출혈 사건</div><div class="num-value num-green">OR 0.27</div><div class="num-sub">0.10–0.69 · 중등도 확실성</div></div><div class="num-item"><div class="num-label">항응고 환자 TXA</div><div class="num-value num-green">OR 0.24</div><div class="num-sub">0.08–0.77</div></div><div class="num-item"><div class="num-label">키토산 지혈 시간</div><div class="num-value num-blue">SMD −9.78</div><div class="num-sub">−12.78~−6.78</div></div><div class="num-item"><div class="num-label">키토산·콜라겐</div><div class="num-value num-red">출혈 사건 최하위</div><div class="num-sub">속도≠재출혈</div></div></div>
+      <div class="detail-panel">
+        <div class="detail-grid">
+          <div class="detail-block"><h4>설계·한계</h4><ul><li>PROSPERO CRD42023408207, 검색 2023-03까지, 11종 국소 지혈제 vs 거즈·솜 압박(± 봉합)</li><li>지혈 시간 이질성 I² 98.3%, 확실성 낮음~매우 낮음. 출혈 사건 16편 I² 12.5%</li><li>편향: 낮음 8·우려 14·높음 1. <strong>항혈소판 단독 분석 없음</strong>, 시아노아크릴레이트 추정치 불안정(OR 0.03, P=0.051)</li></ul></div>
+          <div class="detail-block"><h4>주요 통찰</h4><ul><li><strong>TXA가 출혈 사건을 유의하게 줄인 유일한 지혈제</strong> (모든 환자 OR 0.27, 단순 발치 OR 0.12)</li><li>키토산·콜라겐 플러그는 가장 빨리 지혈하지만 이후 출혈 오즈는 가장 높음(거즈보다도 불리)</li><li>항응고 환자 분석에서 젤라틴 스펀지는 기존 처치보다 불리</li></ul></div>
+        </div>
+        <div class="study-note note-amber"><strong>임상 적용</strong>: &quot;지혈 시간이 가장 짧은 제제&quot;와 &quot;이후 출혈을 줄이는 제제&quot;는 다른 문제. 키토산을 쓰더라도 봉합·48시간 추적을 생략하지 말 것. 이 NMA의 TXA는 양치·거즈·충전 등 여러 형태를 합친 것이라 NOAC 양치액 RCT(Ockerman)의 중립 결과와 함께 읽어야 함.</div>
+      </div>
+    </div>
+
+    <div class="study-card" data-cats="anticoag synthesis" id="card-boccatonda">
+      <div class="card-header" onclick="toggle('card-boccatonda')">
+        <div class="study-meta">
+          <div class="study-title">Perioperative antithrombotic management in dental procedures: systematic review and network meta-analysis (coumarin RCTs)</div>
+          <div class="study-authors">Boccatonda et al. · IJERPH 2023 · PMID 37047909 · wiki/drug/anticoagulants/boccatonda-2023</div>
+          <div class="meta-row"><span class="tag tag-new">2026-10 추가</span><span class="tag tag-synth">NMA · RCT 8편</span><span class="tag tag-anticoag">쿠마린(VKA)</span><span class="tag tag-design">전문</span></div>
+        </div>
+        <span class="expand-btn">▼</span>
+      </div>
+      <div class="numbers-strip"><div class="num-item"><div class="num-label">2일 중단 vs 지속</div><div class="num-value num-blue">OR 0.30</div><div class="num-sub">0.09–0.97 (출혈 위험)</div></div><div class="num-item"><div class="num-label">저용량 쿠마린</div><div class="num-value ">OR 0.58</div><div class="num-sub">유의차 없음</div></div><div class="num-item"><div class="num-label">LMWH</div><div class="num-value ">OR 0.79</div><div class="num-sub">유의차 없음</div></div><div class="num-item"><div class="num-label">혈전색전</div><div class="num-value num-green">0건</div><div class="num-sub"></div></div></div>
+      <div class="detail-panel">
+        <div class="detail-grid">
+          <div class="detail-block"><h4>설계·한계</h4><ul><li>검색 2022-10-29까지, <strong>DOAC 시험은 포함되지 않음</strong></li><li>이질성·불명확한 편향·저위험 시험 소수로 확신도 제한</li><li>저자 결론(중단해도 추가 출혈 없음)이 자체 결과(2일 중단이 출혈 낮음)와 어긋남 — 페이지에 기록됨</li></ul></div>
+          <div class="detail-block"><h4>주요 통찰</h4><ul><li>국소 지혈제 중에서는 <strong>거즈 + 트라넥삼산이 가장 효과적</strong></li><li>출혈은 대부분 경미하고 국소 처치로 조절</li><li>&quot;와파린은 중단 불필요&quot; 서술과 긴장 관계 — 가이드라인(Valenzuela)·Calcia와 함께 비교 필요</li></ul></div>
+        </div>
+        <div class="study-note note-amber"><strong>임상 적용</strong>: 와파린 환자에서 유지 vs 단기 중단의 결론은 아직 열려 있음. INR이 안정적이면 유지+국소 지혈이 가이드라인 입장이나, 이 NMA는 단기 중단 쪽 신호를 보임(저확신).</div>
+      </div>
+    </div>
+
+    <div class="study-card" data-cats="anticoag doac synthesis" id="card-valenzuela">
+      <div class="card-header" onclick="toggle('card-valenzuela')">
+        <div class="study-meta">
+          <div class="study-title">Clinical practice guideline of the Spanish Society of Oral Surgery for oral surgery in patients with coagulation disorders</div>
+          <div class="study-authors">Valenzuela-Mencía et al. · Med Oral Patol Oral Cir Bucal 2024 · PMID 37330959 · wiki/drug/anticoagulants/valenzuela-mencia-2024</div>
+          <div class="meta-row"><span class="tag tag-new">2026-10 추가</span><span class="tag tag-synth">진료지침 · 15 PICO</span><span class="tag tag-design">등급 C 2개 · 나머지 D · 전문</span></div>
+        </div>
+        <span class="expand-btn">▼</span>
+      </div>
+      <div class="numbers-strip"><div class="num-item"><div class="num-label">권고 등급</div><div class="num-value num-red">C ×2 · D ×13</div><div class="num-sub">대부분 전문가 의견</div></div><div class="num-item"><div class="num-label">쿠마린</div><div class="num-value num-blue">INR ≤2.2</div><div class="num-sub">건강인과 유사한 출혈 위험</div></div><div class="num-item"><div class="num-label">INR >3·다수 발치</div><div class="num-value num-red">의사 협진</div><div class="num-sub">등급 C</div></div><div class="num-item"><div class="num-label">DOAC 발치</div><div class="num-value num-red">출혈↑</div><div class="num-sub">등급 D</div></div></div>
+      <div class="detail-panel">
+        <div class="detail-grid">
+          <div class="detail-block"><h4>설계·한계</h4><ul><li>MEDLINE·EMBASE 2011-12~2021-12, SIGN 체크리스트로 평가</li><li>아세노쿠마롤·DOAC 연구 부족, 후향 연구 위주, 대조군 없는 자료 많음</li><li>항혈소판제 별도 섹션은 확보 본문에 없음</li></ul></div>
+          <div class="detail-block"><h4>주요 통찰</h4><ul><li>단순 발치·임플란트에서는 <strong>항응고제 유지 + 국소 지혈</strong>이 핵심 권고</li><li>DOAC은 건강인 대비 출혈 증가(등급 D) · 최대 혈중농도 저하 시점에 발치, 발치 후 최소 4시간 뒤 복용(전문가 의견, 등급 D)</li><li>임플란트: 쿠마린·헤파린 유지 또는 중단/대체가 정당화되지 않음(등급 D)</li></ul></div>
+        </div>
+        <div class="study-note note-blue"><strong>임상 적용</strong>: 유지 전략의 가이드라인 근거이나 증거 수준이 낮음. INR&gt;3이거나 여러 개 발치면 주치의·혈액내과 협진.</div>
+      </div>
+    </div>
+
+    <div class="study-card" data-cats="antiplatelet synthesis" id="card-alagil">
+      <div class="card-header" onclick="toggle('card-alagil')">
+        <div class="study-meta">
+          <div class="study-title">Postoperative bleeding after dental extraction in patients on antiplatelet therapy — systematic review and meta-analysis</div>
+          <div class="study-authors">Alagil et al. · Oral Surg Oral Med Oral Pathol Oral Radiol 2023 · PMID 38155005 · wiki/drug/anticoagulants/alagil-2023</div>
+          <div class="meta-row"><span class="tag tag-new">2026-10 추가</span><span class="tag tag-abstract">초록만</span><span class="tag tag-synth">SR+MA · 35편(MA 23편)</span><span class="tag tag-antiplatelet">아스피린·DAPT</span></div>
+        </div>
+        <span class="expand-btn">▼</span>
+      </div>
+      <div class="numbers-strip"><div class="num-item"><div class="num-label">아스피린 vs 정상</div><div class="num-value num-green">RR 1.26</div><div class="num-sub">즉시 P=.5 · 지연 RR 2.17 P=.09</div></div><div class="num-item"><div class="num-label">DAPT vs 정상(즉시)</div><div class="num-value num-red">RR 10.3</div><div class="num-sub">P<.0001</div></div><div class="num-item"><div class="num-label">DAPT vs 정상(지연)</div><div class="num-value num-red">RR 7.72</div><div class="num-sub">P=.001</div></div><div class="num-item"><div class="num-label">DAPT 유지 vs 중단</div><div class="num-value num-blue">RR 2.13</div><div class="num-sub">P=.07, 비유의</div></div></div>
+      <div class="detail-panel">
+        <div class="detail-grid">
+          <div class="detail-block"><h4>설계·한계</h4><ul><li>PubMed·Google Scholar, 하위군: 정상 대조·약물 중단 대조·대조 없음</li><li>초록만 확보 — 신뢰구간, I², 편향 평가, 지혈 프로토콜은 확인 불가</li></ul></div>
+          <div class="detail-block"><h4>주요 통찰</h4><ul><li>아스피린 단독은 정상 대비 유의한 출혈 증가가 없음 → 발치 안전</li><li><strong>DAPT는 정상 대비 출혈 위험이 크게 높음</strong>(즉시·지연 모두)</li><li>그러나 DAPT를 유지 vs 중단한 비교는 유의하지 않아, 지금 근거로 &quot;중단하면 안전해진다&quot;도 입증되지 않음</li></ul></div>
+        </div>
+        <div class="study-note note-amber"><strong>임상 적용</strong>: DAPT 환자는 &quot;중단 불필요&quot;로 일축하지 말고 <em>고위험군</em>으로 취급(봉합·국소 지혈·추적). 유지 vs 중단 결정은 이 자료만으로 내릴 수 없음.</div>
+      </div>
+    </div>
+
+    <div class="study-card" data-cats="antiplatelet anticoag synthesis" id="card-calcia">
+      <div class="card-header" onclick="toggle('card-calcia')">
+        <div class="study-meta">
+          <div class="study-title">Is alteration in single drug anticoagulant/antiplatelet regimen necessary in patients who need minor oral surgery? SR/MA of RCTs</div>
+          <div class="study-authors">Calcia et al. · Clin Oral Investig 2021 · PMID 33758999 · wiki/drug/anticoagulants/calcia-2021</div>
+          <div class="meta-row"><span class="tag tag-new">2026-10 추가</span><span class="tag tag-abstract">초록만</span><span class="tag tag-synth">SR+MA · RCT 13편</span><span class="tag tag-design">단일 약제 지속 vs 중단</span></div>
+        </div>
+        <span class="expand-btn">▼</span>
+      </div>
+      <div class="numbers-strip"><div class="num-item"><div class="num-label">술중 출혈(지속)</div><div class="num-value num-red">+157%</div><div class="num-sub">95% CI 1.40–4.71 (초록 표현)</div></div><div class="num-item"><div class="num-label">와파린 하위군</div><div class="num-value num-red">RR 1.79</div><div class="num-sub">1.00–3.21</div></div><div class="num-item"><div class="num-label">술후 출혈</div><div class="num-value num-green">RR 0.81</div><div class="num-sub">0.54–1.22, p=0.42</div></div><div class="num-item"><div class="num-label">결론</div><div class="num-value ">약제 변경 불필요</div><div class="num-sub">국소 지혈 강력 권고</div></div></div>
+      <div class="detail-panel">
+        <div class="detail-grid">
+          <div class="detail-block"><h4>설계·한계</h4><ul><li>PubMed-Medline·Scopus·Embase, 성인 소수술(발치 한정 아님)</li><li>초록만 확보 — 비뚤림·이질성 검증 불가, 157% 수치는 초록 표현 그대로</li></ul></div>
+          <div class="detail-block"><h4>주요 통찰</h4><ul><li>지속 시 <strong>술중 출혈은 증가하나 술후 출혈은 차이 없음</strong></li><li>단일 약제 복용자 대상 — 이중 항혈소판(DAPT)에는 적용 불가</li></ul></div>
+        </div>
+        <div class="study-note note-blue"><strong>임상 적용</strong>: 단일 약제는 유지 가능. 단 술중 출혈이 더 많으므로 국소 지혈 준비가 전제.</div>
+      </div>
+    </div>
+
+    <div class="study-card" data-cats="antiplatelet anticoag doac synthesis" id="card-katz">
+      <div class="card-header" onclick="toggle('card-katz')">
+        <div class="study-meta">
+          <div class="study-title">Platelet-rich fibrin as a hemostatic agent in dental extractions in patients on anticoagulant or antiplatelet medication — systematic review</div>
+          <div class="study-authors">Katz et al. · Clin Oral Investig 2024 · PMID 39387914 · wiki/drug/anticoagulants/katz-2024</div>
+          <div class="meta-row"><span class="tag tag-new">2026-10 추가</span><span class="tag tag-synth">SR (메타분석 없음)</span><span class="tag tag-design">임상연구 11편 · 864명 · 전문</span></div>
+        </div>
+        <span class="expand-btn">▼</span>
+      </div>
+      <div class="numbers-strip"><div class="num-item"><div class="num-label">PRF 대 봉합만·마른 거즈·셀룰로오스</div><div class="num-value num-green">PRF 우수</div><div class="num-sub"></div></div><div class="num-item"><div class="num-label">PRF 대 키토산·TXA·젤라틴</div><div class="num-value ">출혈 차이 없음</div><div class="num-sub"></div></div><div class="num-item"><div class="num-label">지혈 속도</div><div class="num-value num-blue">키토산보다 느림</div><div class="num-sub">양군 2–3분 내</div></div><div class="num-item"><div class="num-label">DOAC</div><div class="num-value num-red">소규모 RCT 1편</div><div class="num-sub">Kyyak 2023</div></div></div>
+      <div class="detail-panel">
+        <div class="detail-grid">
+          <div class="detail-block"><h4>설계·한계</h4><ul><li>PROSPERO CRD42024562289 · RCT 7·비무작위 1·비대조 시리즈 3</li><li>PRF 제조 프로토콜 이질적, 발치 범위 분석 없음, 메타분석 불가</li></ul></div>
+          <div class="detail-block"><h4>주요 통찰</h4><ul><li>PRF는 자가유래 옵션으로 실현 가능, 모든 연구에서 경미~중등도 출혈만 보고</li><li>초록·본문 사이 수치·분류 불일치가 페이지에 기록됨(789 vs 1782편 등)</li></ul></div>
+        </div>
+        <div class="study-note note-blue"><strong>임상 적용</strong>: DOAC 환자에서 PRF 효과는 아직 정량화 불가. 키토산·TXA·젤라틴과 출혈 차이가 없다는 정도로만 사용.</div>
+      </div>
+    </div>
+
+    <!-- ===== 이전(2026-09-24) 카드 ===== -->
 
     <!-- Patil 2025 -->
     <div class="study-card" data-cats="healthy" id="card-patil">
@@ -593,27 +760,27 @@ tags: [hemostasis, anticoagulants, antiplatelet, rct, interactive, 2026-09]
         </tr>
         <tr>
           <td>SAPT (아스피린)</td>
-          <td><strong>키토산</strong></td>
+          <td><strong>키토산</strong> (지혈 속도) · 재출혈 억제는 TXA 근거<sup>†</sup></td>
           <td>0.67분 (중앙값)</td>
-          <td>RCT (Agrawal 2025 n=100)</td>
+          <td>RCT (Agrawal 2025 n=100) · NMA (Mahardawi 2023) · 아스피린 단독은 정상 대비 출혈 증가 없음(Alagil 2023, 초록)</td>
         </tr>
         <tr>
           <td>DAPT (이중항혈소판)</td>
-          <td><strong>키토산</strong> > 산화셀룰로오스</td>
+          <td><strong>키토산</strong> > 산화셀룰로오스 + 봉합·추적 (고위험군)</td>
           <td>~5분</td>
-          <td>RCT (Agrawal 2025, Guardieiro 2023)</td>
+          <td>RCT (Agrawal 2025, Guardieiro 2023) · DAPT는 정상 대비 출혈 RR 10.3(즉시), 유지 vs 중단은 비유의(RR 2.13, P=.07) (Alagil 2023, 초록)</td>
         </tr>
         <tr>
           <td>와파린 INR 2–3.5</td>
-          <td><strong>키토산</strong> + TXA-Gelfoam (통증 감소 목적)</td>
+          <td><strong>키토산</strong> + TXA-Gelfoam (통증 감소 목적) · 거즈 + TXA가 NMA 최우수 국소제</td>
           <td>15–25분</td>
-          <td>RCT (Singh Jolly 2025, Kaddah 2024)</td>
+          <td>RCT (Singh Jolly 2025, Kaddah 2024) · NMA (Boccatonda 2023: 2일 중단 시 출혈↓ OR 0.30, 저확신) · 가이드라인 유지 권고(등급 C/D)</td>
         </tr>
         <tr>
           <td>DOAC</td>
-          <td>키토산 또는 Surgicel + TXA 양치액</td>
+          <td>봉합 + 소켓 충전(젤라틴 스펀지 또는 PRF) + 압박 · 키토산·Surgicel은 외삽 · TXA 양치액은 1차 결과 중립</td>
           <td>참고치 없음</td>
-          <td>외삽 (VKA/항혈소판 데이터)</td>
+          <td>RCT 2편: Ockerman 2021 (TXA 양치액 n=222, RR 0.92 중립) · Kyyak 2023 (PRF vs 젤라틴 n=21, 차이 없음) · 지혈제는 외삽</td>
         </tr>
         <tr>
           <td>응고이상 (INR≤4, 간경변)</td>
@@ -625,10 +792,15 @@ tags: [hemostasis, anticoagulants, antiplatelet, rct, interactive, 2026-09]
     </table>
   </div>
 
-  <footer>근거 출처: Patil 2025 · Agrawal 2025 · Singh Jolly 2025 · Kaddah 2024 · Hamid 2024 · Guardieiro 2023 · Al-Suliman 2025 · llm-wiki/drug/anticoagulants/</footer>
+  <div class="study-note note-amber" style="margin-top:14px">
+    <strong>† 읽는 법 — 지혈 속도와 재출혈은 다른 결과</strong>: 키토산은 지혈 시간이 가장 짧지만(Agrawal·Singh Jolly RCT), 항혈전제 환자 NMA(Mahardawi 2023)에서는 출혈 <em>사건</em> 순위가 가장 낮고 TXA만 출혈 사건을 유의하게 줄였다(OR 0.27, 중등도 확실성). 항혈소판 단독 분석은 없고, NOAC 환자의 TXA 양치액 RCT(Ockerman 2021)는 1차 결과가 중립이었다. 세 결과를 한 가지로 합치지 말고, 봉합·48시간 추적과 함께 쓸 것.
+  </div>
+  <footer>근거 출처: Patil 2025 · Agrawal 2025 · Singh Jolly 2025 · Kaddah 2024 · Hamid 2024 · Guardieiro 2023 · Al-Suliman 2025 · Ockerman 2021 · Kyyak 2023 · Mahardawi 2023 · Boccatonda 2023 · Valenzuela-Mencía 2024 · Alagil 2023 · Calcia 2021 · Katz 2024 · llm-wiki/drug/anticoagulants/ · 2026-10-01 갱신</footer>
 </div>
 
 <script>
+document.getElementById('cnt-all').textContent = document.querySelectorAll('.study-card').length;
+
 function toggle(id) {
   const card = document.getElementById(id);
   card.classList.toggle('open');
