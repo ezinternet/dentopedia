@@ -1,0 +1,32 @@
+SOURCE: PubMed / PMC13536701 (PMID 42323639), DOI 10.1186/s13005-026-00637-7. Condensed working copy.
+Title: Botulinum Toxin Type A for Myogenous Temporomandibular Disorders, Focusing on the Duration of Clinical Effects and Dosage Parameters: A Systematic Review
+Authors: de Santana IHG, Pereira KC, Leite SEM, de Carvalho Batista FR, Ferreira AJ, Costa BSL, Guimaraes CC, Rodrigues TLC, Paiva MDEB. Head Face Med 2026;22(1). Published 2026-06-20.
+
+ABSTRACT: Ten RCTs included; qualitative synthesis (no meta-analysis) due to heterogeneity. PRISMA 2020, PROSPERO (CRD420251178977). Databases: PubMed/MEDLINE, Embase, Scopus, Web of Science, LILACS (search 22 Dec 2025). RoB-2. In placebo-controlled trials BoNT-A did not consistently show superiority over saline. Greater pain reduction in refractory myofascial pain. Function improved in both BoNT-A and control groups. Effects generally persisted 8-24 weeks. Evidence insufficient for dose-response. AEs mostly mild-moderate, transient. Not first-line; consider in selected refractory cases after failed conservative therapy.
+
+METHODS: PICOS - adults/any age with myogenous TMD by RDC/TMD or DC/TMD; intramuscular BoNT-A into masticatory muscles; comparators placebo, conservative therapy or none; primary outcomes pain (VAS/NRS) and duration of clinical effect (time to relapse); secondary MMO, tenderness, AEs; RCTs only. Two reviewers independently (Rayyan). RoB-2. GRADE by outcome (pain, function, duration, dose-response, AEs); pooling not appropriate; GRADE judgments on direction/consistency; full GRADE and SoF in Supplementary Material 2 (not in text).
+
+RESULTS: 179 records (Embase 36, MEDLINE 31, Scopus 77, WoS 29, LILACS 6); 24 duplicates removed; 155 screened; 119 excluded; 36 full texts; 26 excluded; 10 RCTs included.
+
+TABLE 2 (one line per trial: author year, country, design, n, TMD type, muscles, product, dose/muscle, total dose, comparator, follow-up, main result, effect duration, AEs)
+Foscaldo 2025 | Brazil | single-blind RCT | 40 | DC/TMD awake bruxism | masseter, temporal | Xeomin | M15U, T5U | 40U | EMG biofeedback | 6 mo | bruxism reduced only in biofeedback; no pain difference | not reported | none
+Yurttutan 2019 | Turkey | single-blind RCT | 73 | RDC/TMD myogenic with bruxism | masseter, temporal | Botox | M30U, T15U | 90U | occlusal splint | 6 mo | pain down in all groups; BoNT-A groups superior to splint alone | maintained 6 mo | asymmetric smile (1)
+De la Torre Canales 2024 | Brazil/Sweden/Portugal | double-blind RCT | 28 | DC/TMD refractory myofascial pain | masseter, temporal | Botox | M30U, T10U | 80U | saline | 6 mo | ~50% pain reduction, higher PPT vs placebo | maintained 6 mo | muscle weakness (10), asymmetry (2), dysphagia (1)
+De la Torre Canales 2021 | Brazil | single-blind RCT | 54 | RDC/TMD refractory myofascial pain (100% female) | masseter, temporal | Botox | M30U, T10U | 80U | acupuncture; saline | 1 mo | pain down in all groups; only BoNT-A raised PPT | 1 mo | edema, injection pain; marked EMG reduction
+Minston 2024 | Sweden | multicenter RCT | 45 | DC/TMD myalgia | masseter, temporal | Botox | M30U, T20U | 100U | saline | 2 mo | numerical reduction in pain days, NS vs placebo | 2 mo | fatigue, headache, nausea
+Sitnikova 2024 | Finland | crossover RCT | 57 | DC/TMD myogenic | masseter, temporal | Xeomin | M16.7U, T8.3U | 50U | saline | 32 wk | pain improved in both groups; no BoNT-A superiority | up to 16 wk | smile asymmetry, headache
+Montes-Carmona 2021 | Spain | RCT | 60 | DC/TMD myofascial | masseter, temporal, pterygoids | Botox | T24, M24-30, P8 U | 100-150U | lidocaine; saline | 6 mo | pain and function superior to lidocaine and saline | maintained 180 d | local pain, hematoma
+Reeve 2024 | USA | multicenter RCT | 75 | DC/TMD myalgia | masseter, temporal | onabotulinumtoxinA | M37.5U, T12.5U | 100U | saline | 3 mo | both groups reduced pain; similar (needling effect suggested) | 3 mo | increased pain (4), headache (1), weakness (1)
+De la Torre Canales 2022 | Brazil/Portugal/Sweden | RCT | 80 | RDC/TMD persistent myofascial (100% female, 18-45) | masseter, temporal | Botox | 40, 70 or 100U total | - | saline | 180 d | improved mandibular movements vs placebo at 180 d regardless of dose | 6 mo | not reported
+Kim 2023 | South Korea | pilot RCT | 21 | DC/TMD myogenic + headache | masseter, temporal, SCM, trapezius | Botulax | 10U/point | max 150U | saline | 12 wk | reduced pain, tender points, headache vs placebo | 12 wk | none
+
+Risk of bias (RoB-2): most low for missing data (D3); some concerns in D2, D4, D5 (blinding, self-reported outcomes, no preregistered protocols); most trials overall "some concerns", fewer low; none high.
+
+SUMMARY OF RESULTS
+Pain: all trials measured pain (VAS, CPI, NRS). Reduced in both BoNT-A and control arms (saline, splint, acupuncture, biofeedback). Placebo-controlled trials: no significant BoNT-A vs saline difference "across all included studies" (per Results text); refractory myofascial pain populations showed greater reduction with BoNT-A, maintained through follow-up. Versus splint/acupuncture/biofeedback: pain reduced in both without consistent differences.
+Function: MMO, excursions, JFLS. Improved in BoNT-A and control arms; similar to saline in placebo trials.
+Duration: effects described over 8 to 24 weeks; crossover differences mainly weeks 8-16; up to six-month follow-up trials reported outcomes through final time point. Peak effects 8-16 weeks then gradual decline (Discussion). Longer sustained effects only in observational/case reports (not extrapolable).
+Dose-response: total doses 40-100 U across regimens; similar improvements, no consistent superiority of higher doses; insufficient evidence; units formulation-specific, not interchangeable.
+AEs: transient muscle weakness, smile asymmetry, headache, fatigue, reduced EMG activity; isolated mild dysphagia and temporary mimetic paralysis; no serious or permanent AEs. Related to total dose, number of muscles, repeated application.
+
+CONCLUSION: does not support routine first-line use; adjunct/second-line in selected refractory patients within multimodal care; calls for standardized, preregistered RCTs with long follow-up.
