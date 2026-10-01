@@ -1,0 +1,13 @@
+Chan CCK, Chen AM, Lam PPY. Oral health status of individuals with eating disorders: Systematic review and meta-analysis. J Dent 2024;151:105427. doi:10.1016/j.jdent.2024.105427. PMID 39433151. (PubMed abstract only; no PMCID)
+
+This systematic review and meta-analysis evaluates the oral health status of individuals diagnosed with eating disorders (EDs) compared to healthy controls.
+
+Electronic database search was conducted in five databases. Two independent reviewers carried out screening, data extraction, risk of bias assessment, sensitivity analysis, subgroup analysis (by type of eating disorder), and certainty of evidence grading with GRADE. Assessed oral health outcomes included dental caries, erosion, oral hygiene, periodontal status, salivary flow, pH and composition, myofascial pain, bruxism, malocclusion, oral lesions, dentine hypersensitivity, and oral health-related quality of life (OHRQoL).
+
+The literature search yielded 2,322 articles. Thirty-three articles were included in the present review.
+
+Individuals with EDs had poorer oral health outcomes compared to healthy controls, although the effect estimates are uncertain due to very low certainty of evidence. Dental caries and gingival inflammation severity, and prevalence of dental erosion, myofascial pain, malocclusion, oral lesions, and dentine sensitivity were higher amongst individuals with EDs compared to healthy controls. They also had lower salivary flow and pH, which are risk factors for oral diseases. No significant difference in bruxism was noted and inconclusive results were obtained for oral hygiene and periodontal status. Dental professionals may identify signs of EDs during routine appointments and may play an important role in the early referral and prompt management of patients with EDs.
+
+Clinical Significance: With growing awareness of the interconnectedness between oral and psychological health, this article reviews various oral health outcomes in individuals with eating disorders compared to controls. The findings highlight the importance of interdisciplinary collaboration as dentists may be among the first to detect these issues during routine appointments.
+
+MeSH: Oral Health; Feeding and Eating Disorders; Tooth Erosion; Dental Caries; Bruxism; Malocclusion; Dentin Sensitivity. Article types: Systematic Review; Meta-Analysis.
