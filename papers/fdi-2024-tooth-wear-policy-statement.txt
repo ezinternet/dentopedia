@@ -1,0 +1,21 @@
+Source: PubMed Central PMC10829352 via PubMed MCP (condensed working copy). DOI https://doi.org/10.1016/j.identj.2023.10.007
+FDI World Dental Federation policy statement "Tooth Wear". Int Dent J 2024 Feb;74(1):163-164. PMID 38218598. Article type: Practice Guideline.
+NOTE: PMC body returned narrative paragraphs only; the term labels of the Definitions list and the bulleted "FDI recommends:" list were NOT present in the retrieved text. Abstract not available.
+
+Context: Tooth wear can be the result of several mechanisms including dental erosion, dental attrition, dental abrasion and potentially dental abfraction occurring independently or in association with one another. These mechanisms may come from exposure to acids (of non-bacterial origin) and non-physiological mechanical forces from tooth brushing, malocclusion and parafunctional activity. Low salivary flow rate and buffering capacity can be important modifying factors. Erosive tooth wear (dental erosion) may also be the symptom of an underlying general pathology such as GERD or eating disorders such as bulimia nervosa. Prevalence of tooth wear has been reported to be geographically related and as high as 80%. Successful management is dependent on accurate diagnosis and understanding of aetiological factors.
+
+Scope: guidance regarding loss of tooth surface structure from mechanisms that are non-carious. Ability of oral health providers to recognize these mechanisms, especially at early stages, could have a direct impact on preservation of the natural dentition.
+
+Definitions (labels missing in retrieved text):
+- The cumulative surface loss of mineralized tooth substance due to physical or chemo-physical processes not related to dental caries. [tooth wear]
+- Physical loss of mineralized tooth substance caused by objects other than teeth. In the cervical area, it may present as tooth notching. [abrasion]
+- Physical loss of mineralized tooth substance caused by tooth-to-tooth contact. [attrition]
+- Cervical notching induced by chronic traumatic occlusal forces. (Use of this term has been questioned, considering the level of current supportive clinical evidence to consider it as a separate process). [abfraction]
+- Chemical-mechanical process resulting in a cumulative loss of hard dental tissue not caused by bacteria. [erosive tooth wear]
+- Acid derived from dietary, environmental and/or drug sources. [extrinsic acid]
+- Acid derived from gastric fluids. [intrinsic acid]
+
+Principles: Progression of tooth wear can be controlled or prevented if the aetiology is recognized and relevant measures are undertaken. Such preventive measures include focusing on the local situation in the oral cavity, changing behaviours (e.g., pattern of eating, drinking and toothbrushing habits) and cooperating with other medical specialists for treatment in cases of GERD or eating disorders that include frequent vomiting (e.g., bulimia nervosa). Eventually, after the underlying aetiology has been addressed, proper restorative intervention may be critical to the long-term preservation of tooth structure.
+
+Policy: "FDI recommends:" (list not retrieved).
+Disclaimer: based on the best scientific evidence available at the time; may be interpreted to reflect prevailing cultural sensitivities and socio-economic constraints.
