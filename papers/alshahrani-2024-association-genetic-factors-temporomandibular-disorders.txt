@@ -1,0 +1,11 @@
+Source: PubMed PMID 38943858 (abstract only; no PMCID). DOI https://doi.org/10.1016/j.archoralbio.2024.106032
+Title: The association between genetic factors and temporomandibular disorders: A systematic literature review.
+Authors: Alshahrani AA, Saini RS, Okshah A, Alshadidi AAF, Kanji MA, Vyas R, Binduhayyim RIH, Ahmed N, Mosaddad SA, Heboyan A.
+Journal: Arch Oral Biol 2024;166:106032 (published 2024-06-19). Article types: Journal Article, Systematic Review, Meta-Analysis.
+Keywords: Gene; Genetic factors; Polymorphism; Temporomandibular disorders.
+
+ABSTRACT
+Objective: to investigate the correlation between genetic factors and the occurrence and progression of temporomandibular disorders (TMDs) using a comprehensive review and meta-analysis.
+Methods: Search of ScienceDirect, PubMed, Cochrane Library, Dimensions, and Emerald. A reviewer selected studies using modified PICO criteria: human subjects with TMDs, comparing different genetic factors among TMD and non-TMD patients, reporting TMD signs and symptoms as outcomes. Methodological quality assessed with the Joanna Briggs Institute (JBI) Critical Appraisal Checklist for Non-randomized Experimental Investigations.
+Results: The search yielded 851 articles, 19 included. Genetic factors such as polymorphisms and gene differences significantly influenced development of TMD signs and symptoms such as myofascial pain, chronic pain, and disc displacement. Gene polymorphism significantly influenced TMD development, with an odds ratio of 2.46 (1.93-3.14) and p of 0.00001.
+Conclusions: Genetic factors significantly influenced TMD signs and symptoms, and genetic polymorphisms significantly influenced TMD onset and progression. Further research should be conducted in diverse settings with larger sample sizes.
