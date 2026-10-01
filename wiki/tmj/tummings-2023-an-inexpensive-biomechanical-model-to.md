@@ -40,7 +40,7 @@ Educational/technical letter describing an inert physical bench model (no living
 - Feasibility demonstrated in an authors' practice session.
 
 ## Related Papers
-- [[tmj/prechel-2018-the-treatment-of-temporomandibular-joint.md]] — Technique comparison (Hippocratic/wrist pivot/extraoral) with success rates; complements with practical training tool.
-- [[tmj/lin-2026-rapid-reduction-of-temporomandibular-joint.md]] — Patient-guided reduction technique; contrasts procedural approaches.
-- [[tmj/stolbizer-2020-anterior-dislocation-of-the-temporomandibular.md]] — Describes a simplified manual technique; alternative manual approach.
-- [[tmj/abrahamsson-2020-treatment-of-temporomandibular-joint-luxation.md]] — Systematic review on TMJ luxation treatment outcomes.
+- [[tmj/prechel-2018-the-treatment-of-temporomandibular-joint]] — Technique comparison (Hippocratic/wrist pivot/extraoral) with success rates; complements with practical training tool.
+- [[tmj/lin-2026-rapid-reduction-of-temporomandibular-joint]] — Patient-guided reduction technique; contrasts procedural approaches.
+- [[tmj/stolbizer-2020-anterior-dislocation-of-the-temporomandibular]] — Describes a simplified manual technique; alternative manual approach.
+- [[tmj/abrahamsson-2020-treatment-of-temporomandibular-joint-luxation]] — Systematic review on TMJ luxation treatment outcomes.
