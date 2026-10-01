@@ -41,7 +41,7 @@ GRADE certainty was very low with substantial heterogeneity, so elastography sho
 
 This SR/MA (Oral Radiology 2026; PubMed PMID 41874803, [DOI](https://doi.org/10.1007/s11282-026-00914-w)) asks whether masseter stiffness, measured quantitatively by ultrasound elastography, differs between people with bruxism and/or myofascial pain-related TMD and healthy controls. Seven observational studies (8 datasets, n = 392) were pooled. Stiffness was higher in patients (Hedges g = 1.485), with a consistent kPa-scale difference of 6.16 kPa. Heterogeneity was substantial (I2 ~84%) and GRADE certainty very low, so the finding supports a direction of effect but not absolute reference values or diagnostic thresholds.
 
-What it adds versus the closest held page: [[wiki/tmj/chan-2022-myogenous-tmd-diagnosis-treatment-review]] (narrative review) relies on palpation-based DC/TMD diagnosis; this paper contributes the first pooled, objective imaging-based difference in muscle stiffness. It does not evaluate treatment; treatment-related masseter elasticity change is covered separately in [[wiki/botulinum-toxin/yan-2025-masseter-elasticity-botulinum-toxin-ultrasound]] (a BoNT-A longitudinal study). No held page is superseded.
+What it adds versus the closest held page: [[tmj/chan-2022-myogenous-tmd-diagnosis-treatment-review]] (narrative review) relies on palpation-based DC/TMD diagnosis; this paper contributes the first pooled, objective imaging-based difference in muscle stiffness. It does not evaluate treatment; treatment-related masseter elasticity change is covered separately in [[botulinum-toxin/yan-2025-masseter-elasticity-botulinum-toxin-ultrasound]] (a BoNT-A longitudinal study). No held page is superseded.
 
 ## Key Contributions
 
@@ -67,6 +67,6 @@ What it adds versus the closest held page: [[wiki/tmj/chan-2022-myogenous-tmd-di
 
 ## Related Papers
 
-- [[wiki/tmj/chan-2022-myogenous-tmd-diagnosis-treatment-review]] — palpation-based myogenous TMD diagnosis that this objective stiffness measure could complement
-- [[wiki/botulinum-toxin/yan-2025-masseter-elasticity-botulinum-toxin-ultrasound]] — masseter elasticity after BoNT-A; different question (treatment effect vs disease-control difference)
-- [[wiki/tmj/minakuchi-2022-sleep-bruxism-management-sr]] — sleep bruxism management context
+- [[tmj/chan-2022-myogenous-tmd-diagnosis-treatment-review]] — palpation-based myogenous TMD diagnosis that this objective stiffness measure could complement
+- [[botulinum-toxin/yan-2025-masseter-elasticity-botulinum-toxin-ultrasound]] — masseter elasticity after BoNT-A; different question (treatment effect vs disease-control difference)
+- [[tmj/minakuchi-2022-sleep-bruxism-management-sr]] — sleep bruxism management context
