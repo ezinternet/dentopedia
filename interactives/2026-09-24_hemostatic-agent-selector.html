@@ -3,6 +3,7 @@
 title: "발치와 지혈제 선택기"
 type: interactive
 date: 2026-09-24
+updated: 2026-10-01
 status: done
 category: drug/anticoagulants
 agenda: agenda/2026-09-24_hemostasis-interactives.md
@@ -11,8 +12,16 @@ source_wiki:
   - wiki/drug/anticoagulants/agrawal-2025-efficacy-chitosan-dressing-antiplatelet.md
   - wiki/drug/anticoagulants/kaddah-2024-tranexamic-acid-gelfoam-warfarin.md
   - wiki/drug/anticoagulants/singh-jolly-2025-chitosan-dressing-deranged-coagulation.md
+  - wiki/drug/anticoagulants/ockerman-2021-tranexamic-acid-bleeding-noac-dental-extraction.md
+  - wiki/drug/anticoagulants/kyyak-2023-platelet-rich-fibrin-ensures-hemostasis.md
+  - wiki/drug/anticoagulants/mahardawi-2023-different-hemostatic-agents-dental-extraction.md
+  - wiki/drug/anticoagulants/boccatonda-2023-perioperative-antithrombotic-dental-procedures-network-ma.md
+  - wiki/drug/anticoagulants/valenzuela-mencia-2024-clinical-practice-guideline-coagulation-disorders.md
+  - wiki/drug/anticoagulants/alagil-2023-postoperative-bleeding-dental-extraction-antiplatelet.md
+  - wiki/drug/anticoagulants/calcia-2021-alteration-single-drug-anticoagulant-antiplatelet.md
+  - wiki/drug/anticoagulants/katz-2024-platelet-rich-fibrin-hemostatic-agent-dental-extractions.md
 output_wiki: []
-tags: [hemostasis, anticoagulants, antiplatelet, decision-tool, interactive, 2026-09]
+tags: [hemostasis, anticoagulants, antiplatelet, doac, decision-tool, interactive, 2026-09, updated-2026-10]
 ---
 -->
 <!DOCTYPE html>
@@ -270,7 +279,7 @@ tags: [hemostasis, anticoagulants, antiplatelet, decision-tool, interactive, 202
   <div class="header">
     <span class="badge">Clinical Decision Support</span>
     <h1>발치와 지혈제 선택기</h1>
-    <p>환자의 항응고·항혈소판 상태를 입력하면 근거 기반 지혈제 선택 순위를 반환합니다</p>
+    <p>환자의 항응고·항혈소판 상태를 입력하면 근거 기반 지혈제 선택 순위를 반환합니다<br><strong>2026-10-01 갱신</strong>: DOAC RCT 2편·지혈제 NMA·중단/유지 근거 반영 — 순위는 &quot;지혈 시간&quot; 중심이며 재출혈 억제 근거와 다를 수 있음</p>
   </div>
 
   <!-- Input -->
@@ -319,7 +328,7 @@ tags: [hemostasis, anticoagulants, antiplatelet, decision-tool, interactive, 202
     <div class="evidence-note" id="evidenceNote"></div>
   </div>
 
-  <footer>근거 출처: Patil 2025 (PMID 40656255) · Agrawal 2025 (41140885) · Singh Jolly 2025 (40090379) · Kaddah 2024 (39112998) · Guardieiro 2023 · Al-Suliman 2025 · wiki/drug/anticoagulants/</footer>
+  <footer>근거 출처: Patil 2025 (PMID 40656255) · Agrawal 2025 (41140885) · Singh Jolly 2025 (40090379) · Kaddah 2024 (39112998) · Guardieiro 2023 · Al-Suliman 2025 · Ockerman 2021 · Kyyak 2023 · Mahardawi 2023 · Boccatonda 2023 · Valenzuela-Mencía 2024 · Alagil 2023 · Calcia 2021 · Katz 2024 · wiki/drug/anticoagulants/ · 2026-10-01 갱신</footer>
 </div>
 
 <script>
@@ -337,20 +346,22 @@ const DATA = {
   sapt: {
     chip: 'SAPT (아스피린)',
     agents: [
-      { rank: 1, name: '키토산 (Celox™)', time: '0.7분', bar: 9, note: 'SAPT 환자 중앙값 0.67분. TLR2로 항혈소판 약리 우회 → 거즈의 6.7배 빠름.', tags: ['tag-rct'], tagLabels: ['RCT n=100'] },
+      { rank: 1, name: '키토산 (Celox™)', time: '0.7분', bar: 9, note: 'SAPT 환자 중앙값 0.67분. TLR2로 항혈소판 약리 우회 → 거즈의 6.7배 빠름. 단, 항혈전제 NMA(Mahardawi 2023)에서는 지혈 시간은 최단이나 출혈 <em>사건</em> 순위는 최하위 — 속도 ≠ 재출혈 예방.', tags: ['tag-rct', 'tag-warn'], tagLabels: ['RCT n=100', 'NMA와 상충'] },
+      { rank: 2, name: 'TXA (적신 거즈·소켓 충전·양치)', time: '참고 (속도 근거 없음)', bar: 28, note: 'Mahardawi 2023 NMA(RCT 23편, 항혈전제 환자): 출혈 사건을 유의하게 줄인 유일한 지혈제(OR 0.27, 0.10–0.69, 중등도 확실성). 항혈소판 단독 분석은 없어 SAPT에는 간접 근거.', tags: ['tag-rct', 'tag-warn'], tagLabels: ['NMA 23 RCT', '간접'] },
       { rank: 2, name: '산화셀룰로오스 (Surgicel)', time: '참고', bar: 25, note: '항혈소판 환자에서 Gelfoam보다 우수(Al-Suliman). 키토산 없을 시 1차 대안.', tags: ['tag-rct'], tagLabels: ['분악 RCT n=40'] },
       { rank: 3, name: '거즈 압박', time: '4.5분', bar: 65, note: '효과 있으나 키토산 대비 6.7배 느림. 3분 내 지혈 11%에 불과.', tags: ['tag-warn'], tagLabels: ['열등'] },
     ],
-    note: '<strong>SAPT (아스피린 단독)</strong>: Agrawal 2025 (n=100, 71% SAPT). 아스피린 중단 불필요. 키토산 3분 내 지혈율 100% — 대기실에서 환자를 돌려보낼 수 있는 수준.'
+    note: '<strong>SAPT (아스피린 단독)</strong>: Agrawal 2025 (n=100, 71% SAPT). 아스피린 단독은 정상 대비 출혈 증가가 없고(Alagil 2023, RR 1.26 · 초록 기준) 단일 약제를 유지해도 술후 출혈 차이가 없어(Calcia 2021, RR 0.81, 0.54–1.22) 중단 불필요. 키토산 3분 내 지혈율 100%(Agrawal)는 <em>즉시 지혈</em> 지표이며 이후 재출혈은 NMA에서 키토산이 불리 — 봉합과 48시간 추적을 생략하지 말 것.'
   },
   dapt: {
     chip: 'DAPT (이중항혈소판)',
     agents: [
-      { rank: 1, name: '키토산 (Celox™)', time: '~1–5분', bar: 12, note: 'DAPT subgroup: 중앙값 5.34분 — SAPT보다 길지만 거즈(4.5분 기준) 대비 여전히 우위. 3분 내 100% 지혈.', tags: ['tag-rct'], tagLabels: ['RCT n=100', 'RCT DAPT n=29'] },
+      { rank: 1, name: '키토산 (Celox™)', time: '~1–5분', bar: 12, note: 'DAPT subgroup: 중앙값 5.34분 — SAPT보다 길지만 거즈(4.5분 기준) 대비 여전히 우위. 3분 내 100% 지혈.', tags: ['tag-rct', 'tag-rct', 'tag-warn'], tagLabels: ['RCT n=100', 'RCT DAPT n=29', '재출혈은 NMA 불리'] },
+      { rank: 2, name: 'TXA (적신 거즈·소켓 충전·양치)', time: '참고 (속도 근거 없음)', bar: 32, note: 'Mahardawi 2023 NMA: 항혈전제 환자에서 출혈 사건을 줄인 유일한 지혈제(OR 0.27). 항혈소판 단독·DAPT 분석은 없어 간접 근거.', tags: ['tag-rct', 'tag-warn'], tagLabels: ['NMA', '간접'] },
       { rank: 2, name: '산화셀룰로오스 (Surgicel)', time: '참고', bar: 30, note: 'Guardieiro 2023: 키토산 > 산화셀룰로오스 (within-person RCT, DAPT).', tags: ['tag-rct'], tagLabels: ['RCT'] },
       { rank: 3, name: '거즈 압박', time: '4.5분+', bar: 75, note: 'DAPT에서는 더 느리고 지연출혈 위험 증가. 단독 사용 지양.', tags: ['tag-warn'], tagLabels: ['열등'] },
     ],
-    note: '<strong>DAPT (클로피도그렐·프라수그렐·티카그렐러 + 아스피린)</strong>: 약물 중단 불필요. Guardieiro 2023이 within-person RCT로 키토산 > 산화셀룰로오스를 확인. 봉합 + 키토산 조합이 현재 최강 근거.'
+    note: '<strong>DAPT (클로피도그렐·프라수그렐·티카그렐러 + 아스피린)</strong>: 정상 대비 출혈 위험이 크게 높음 — 즉시 RR 10.3, 지연 RR 7.72(Alagil 2023, 초록 기준) → <em>고위험군</em>으로 취급. DAPT 유지 vs 중단은 유의하지 않아(RR 2.13, P=.07) 현재 근거로는 "중단하면 안전"도 "유지해도 안전"도 입증되지 않음. Guardieiro 2023 within-person RCT: 키토산 > 산화셀룰로오스. 봉합 + 국소 지혈 + 추적이 가장 방어 가능한 조합.'
   },
   warfarin: {
     chip: '와파린 (VKA)',
@@ -358,29 +369,31 @@ const DATA = {
       { rank: 1, name: 'TXA + Gelfoam (소켓 충전)', time: '지혈 시간 유사; 통증·치유 우수', bar: 20, note: 'Kaddah 2024: 지혈 속도는 생리식염수-Gelfoam과 차이 없음. 그러나 3일차부터 통증 유의 감소, 치유 가속(p<0.001). Gelfoam 자체가 INR 2–3.5에서 충분한 스캐폴드.', tags: ['tag-rct'], tagLabels: ['triple-blind RCT n=30'] },
       { rank: 1, name: '키토산 드레싱', time: '15분 (INR 1.5–4)', bar: 22, note: 'Singh Jolly 2025: 와파린 포함 응고이상 환자 10분 내 지혈 83.1% vs 거즈 18.8%. INR 4까지 효과 확인.', tags: ['tag-rct'], tagLabels: ['split-mouth RCT n=102'] },
       { rank: 2, name: '산화셀룰로오스 (Surgicel)', time: '참고', bar: 35, note: 'Al-Suliman 2025: 항응고 환자에서 Gelfoam보다 지혈·지연출혈·통증 모두 우수.', tags: ['tag-rct'], tagLabels: ['분악 RCT n=40'] },
+      { rank: 2, name: '거즈 + TXA', time: '참고', bar: 30, note: 'Boccatonda 2023 NMA(쿠마린 RCT 8편): 국소 지혈제 중 가장 효과적. 효과 크기는 확보 본문에 없음.', tags: ['tag-rct'], tagLabels: ['NMA 8 RCT'] },
       { rank: 3, name: '거즈 압박만', time: '45분+', bar: 90, note: 'Singh Jolly 기준 평균 45.2분. 고위험 발치에서 단독 사용 위험.', tags: ['tag-warn'], tagLabels: ['불충분'] },
     ],
-    note: '<strong>와파린 (INR 2.0–3.5)</strong>: 약물 중단 불필요. 핵심 통찰 — TXA-Gelfoam의 주된 이점은 지혈 가속이 아니라 항섬유소분해(항섬용)로 인한 통증·치유 향상. Gelfoam 스캐폴드 자체가 이 INR 범위에서 1차 지혈을 담당한다.'
+    note: '<strong>와파린 (INR 2.0–3.5)</strong>: 가이드라인(Valenzuela-Mencía 2024, 등급 C/D)은 단순 발치·임플란트에서 유지 + 국소 지혈, INR ≤2.2에서 출혈 위험이 정상과 유사, INR &gt;3 또는 다수 발치는 주치의·혈액내과 협진(등급 C). 반면 쿠마린 RCT NMA(Boccatonda 2023)는 2일 중단이 지속보다 출혈 위험이 낮았고(OR 0.30, 0.09–0.97, 혈전색전 0건; 저확신, 저자 결론과 어긋남) — <strong>유지 vs 단기 중단은 아직 열려 있음</strong>. 핵심 통찰 — TXA-Gelfoam의 주된 이점은 지혈 가속이 아니라 항섬유소분해(항섬용)로 인한 통증·치유 향상. Gelfoam 스캐폴드 자체가 이 INR 범위에서 1차 지혈을 담당한다.'
   },
   doac: {
     chip: 'DOAC',
     agents: [
-      { rank: 1, name: '키토산 드레싱', time: '참고 (항혈소판 데이터 외삽)', bar: 20, note: 'DOAC 전용 RCT는 현재 위키에 없음. 항혈소판 근거(Agrawal 2025)를 외삽 — 메커니즘(TLR2)이 응고인자 경로와 독립적이므로 임상 적용 가능성 높음.', tags: ['tag-warn'], tagLabels: ['외삽'] },
-      { rank: 1, name: '산화셀룰로오스 (Surgicel)', time: '참고', bar: 30, note: '항응고 환자 통합 권고(Al-Suliman 2025, 와파린 포함). DOAC 직접 데이터 제한적.', tags: ['tag-rct'], tagLabels: ['분악 RCT'] },
-      { rank: 2, name: 'TXA 양치액 (4.8%, 2분 × 4회)', time: '전신흡수 최소', bar: 40, note: 'DOAC에서 출혈을 50–60% 줄이는 가장 근거 있는 방법(복수 관찰연구). 술자가 소켓 개입 없이 사용 가능.', tags: ['tag-rct'], tagLabels: ['관찰연구'] },
+      { rank: 1, name: '봉합 + 소켓 충전 (젤라틴 스펀지 또는 PRF) + 압박', time: '30분 내 지혈 24/42 · 최장 1.5시간', bar: 35, note: 'Kyyak 2023 (FXa 억제제 21명, 분할구강 RCT): PRF와 젤라틴 스펀지 모두 출혈 합병증 없음, 두 군 차이 없음(p>0.05). 소규모·무처치 대조 없음. PRF SR(Katz 2024)도 DOAC 근거는 이 RCT 1편뿐.', tags: ['tag-rct', 'tag-warn'], tagLabels: ['RCT n=21', '소규모'] },
+      { rank: 2, name: '키토산 드레싱', time: '참고 (항혈소판 데이터 외삽)', bar: 30, note: 'DOAC 대상 지혈제 비교 RCT는 없음. 항혈소판 근거(Agrawal 2025)를 외삽 — 메커니즘(TLR2)이 응고인자 경로와 독립적이라는 추정. 단 NMA에서 키토산은 재출혈 순위가 불리하므로 속도만 보고 고르지 말 것.', tags: ['tag-warn'], tagLabels: ['외삽'] },
+      { rank: 2, name: '산화셀룰로오스 (Surgicel)', time: '참고', bar: 30, note: '항응고 환자 통합 권고(Al-Suliman 2025, 와파린 포함). DOAC 직접 데이터 제한적.', tags: ['tag-rct', 'tag-warn'], tagLabels: ['분악 RCT', '외삽'] },
+      { rank: 3, name: 'TXA 양치액 (10% — Ockerman 시험 용량)', time: '1차 결과 중립', bar: 55, note: 'Ockerman 2021 RCT(NOAC 222명): 7일 내 출혈 26.4% vs 28.6%, RR 0.92 (0.60–1.42) — 차이 없음. 지연 출혈(비율비 0.32)·다수 발치(0.40)는 탐색적 이득. 안전(혈전 사건 0 vs 위약 1 TIA). NMA(Mahardawi 2023)의 TXA 이득은 DOAC 한정 근거가 아님.', tags: ['tag-rct', 'tag-warn'], tagLabels: ['RCT 중립', '탐색적 이득'] },
       { rank: 3, name: '거즈 압박', time: '참고', bar: 70, note: 'Kaya 2025: 지혈제 미사용 DOAC에서 등급3 출혈 8.1%. 반드시 국소 지혈 보조 사용.', tags: ['tag-warn'], tagLabels: ['불충분'] },
     ],
-    note: '<strong>DOAC (리바록사반·아픽사반·다비가트란·에독사반)</strong>: 비중단 전략이 표준(Dou 2025 SR+MA). DOAC 특이적 RCT가 부족하므로 키토산은 와파린/항혈소판 데이터 외삽. TXA 양치액은 현재 가장 광범위하게 권장되는 보조.'
+    note: '<strong>DOAC (리바록사반·아픽사반·다비가트란·에독사반)</strong>: 비중단 전략이 표준(Dou 2025 SR+MA). 가이드라인(Valenzuela-Mencía 2024): DOAC 발치는 정상 대비 출혈 증가(등급 D), 최대 혈중농도 저하 시점에 시술하고 발치 후 최소 4시간 뒤 복용(전문가 의견, 등급 D). DOAC 환자에서 지혈제를 비교한 RCT는 소규모(Kyyak n=21)뿐이고 TXA 양치액 RCT는 1차 결과 중립 — 어떤 제제가 확실히 낫다고 말할 근거는 없으며, 봉합·압박·충전과 추적이 기본이다. <em>이전 판의 \"TXA 양치액이 출혈 50–60% 감소(관찰연구)\"는 이 RCT로 뒷받침되지 않아 삭제함.</em>'
   },
   deranged: {
     chip: '응고이상 (고위험)',
     agents: [
-      { rank: 1, name: '키토산 드레싱', time: '15.1분 (mean)', bar: 18, note: 'Singh Jolly 2025 (n=102): INR 1.5–4 + 간경변 + 혈소판감소 혼합 코호트. 10분 내 83.1% — 거즈 18.8%의 4.4배. 유일한 고위험 전용 RCT.', tags: ['tag-rct'], tagLabels: ['split-mouth RCT n=102'] },
+      { rank: 1, name: '키토산 드레싱', time: '15.1분 (mean)', bar: 18, note: 'Singh Jolly 2025 (n=102): INR 1.5–4 + 간경변 + 혈소판감소 혼합 코호트. 10분 내 83.1% — 거즈 18.8%의 4.4배. 유일한 고위험 전용 RCT. 지혈 <em>속도</em> 근거이며 재출혈은 NMA(Mahardawi 2023)에서 키토산이 불리 — 봉합·추적 병행.', tags: ['tag-rct', 'tag-warn'], tagLabels: ['split-mouth RCT n=102', '재출혈은 NMA 불리'] },
       { rank: 2, name: 'TXA + Gelfoam 충전 (+ 봉합)', time: '지혈 시간 유사; 통증·치유 우수', bar: 25, note: '고위험 발치에서 Gelfoam 충전 + 봉합 + TXA 조합이 임상적으로 선호. INR 4 이상은 혈액내과 협진 권장.', tags: ['tag-rct'], tagLabels: ['triple-blind RCT n=30'] },
       { rank: 3, name: '피브린 실란트', time: '고위험 전용', bar: 40, note: '혈전색전 위험 증가 없이 70–90% 출혈 감소(관찰 데이터). 다른 수단 실패 시 또는 수술적 발치에서 검토.', tags: [], tagLabels: [] },
       { rank: 'na', name: '거즈 압박 단독', time: '45.2분 (mean)', bar: 98, note: 'Singh Jolly 2025 대조군: 10분 내 지혈 18.8%에 불과. 응고이상 환자 거즈 단독 금지.', tags: ['tag-na'], tagLabels: ['불충분 — 사용 금지'] },
     ],
-    note: '<strong>응고이상 (간경변·혈소판감소·INR >4)</strong>: 위키에서 가장 근거 수준이 높은 상황. Singh Jolly 2025가 INR 4까지 키토산 효과를 확인. INR ≥4 또는 수술적 발치는 혈액내과 협진 + 수술장 준비 권장. 거즈 단독 절대 금지.'
+    note: '<strong>응고이상 (간경변·혈소판감소·INR >4)</strong>: 위키에서 가장 근거 수준이 높은 상황. Singh Jolly 2025가 INR 4까지 키토산 효과를 확인. INR &gt;3 또는 다수 발치는 가이드라인(Valenzuela-Mencía 2024, 등급 C)도 주치의·혈액내과 협진을 권고하며, INR ≥4 또는 수술적 발치는 협진 + 수술장 준비 권장. 거즈 단독 절대 금지.'
   }
 };
 
@@ -447,7 +460,7 @@ function render() {
         <div class="rank-badge" style="background:#ede9fe;color:var(--purple)">⚠</div>
         <div class="agent-info">
           <div class="agent-name" style="color:var(--purple)">복잡 발치 추가 고려사항</div>
-          <div class="agent-note" style="margin-top:4px">매복치·다근치는 출혈 면적이 넓어 봉합이 필수적이며, 지혈제 단독으로 커버 어려움. 단계적 접근: 봉합 → 지혈제 충전 → TXA 양치액 처방 → 48시간 추적.</div>
+          <div class="agent-note" style="margin-top:4px">매복치·다근치는 출혈 면적이 넓어 봉합이 필수적이며, 지혈제 단독으로 커버 어려움. 단계적 접근: 봉합 → 지혈제 충전 → TXA 적용(양치액은 NOAC 환자에서 1차 결과 중립 — 지연 출혈·다수 발치 목적의 선택 사항) → 48시간 추적.</div>
         </div>
       </div>`;
   }
