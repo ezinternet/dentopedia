@@ -65,16 +65,16 @@ Per-technique estimates, I2 and risk of bias were not available from the abstrac
 
 ## What this adds versus the closest held pages
 
-- [[wiki/tmj/demelo-2020-manual-therapy-myofascial-pain-tmd-sr]]: that SR (5 RCTs, manual therapy only, no meta-analysis) found MT not superior to counseling or botulinum toxin. This paper differs in design: any rehabilitative approach, sham/placebo comparators only, and a pooled ES. It answers "does rehabilitation beat sham", not "which active treatment is best".
-- [[wiki/tmj/calixtre-2015-manual-therapy-tmd-pain-rom-sr]]: technique-stratified, GRADE-rated, no pooling; this paper pools across modalities and has no technique-level certainty in the abstract.
-- [[wiki/tmj/gonzalez-sanchez-2023-tmj-physiotherapy-treatment-sr]]: narrative conclusion that all physiotherapy modalities reduce pain; this paper supplies a pooled number pointing the same direction.
+- [[tmj/demelo-2020-manual-therapy-myofascial-pain-tmd-sr]]: that SR (5 RCTs, manual therapy only, no meta-analysis) found MT not superior to counseling or botulinum toxin. This paper differs in design: any rehabilitative approach, sham/placebo comparators only, and a pooled ES. It answers "does rehabilitation beat sham", not "which active treatment is best".
+- [[tmj/calixtre-2015-manual-therapy-tmd-pain-rom-sr]]: technique-stratified, GRADE-rated, no pooling; this paper pools across modalities and has no technique-level certainty in the abstract.
+- [[tmj/gonzalez-sanchez-2023-tmj-physiotherapy-treatment-sr]]: narrative conclusion that all physiotherapy modalities reduce pain; this paper supplies a pooled number pointing the same direction.
 
 No supersession: this abstract-only paper does not overturn any held page, and its technique-level evidence is thinner than the held technique-stratified SRs.
 
 ## Related Papers
 
-- [[wiki/tmj/demelo-2020-manual-therapy-myofascial-pain-tmd-sr]] — manual therapy SR; extended here with sham-controlled pooling
-- [[wiki/tmj/calixtre-2015-manual-therapy-tmd-pain-rom-sr]] — technique-stratified MT SR
-- [[wiki/tmj/gonzalez-sanchez-2023-tmj-physiotherapy-treatment-sr]] — physiotherapy SR, same direction of effect
-- [[wiki/tmj/ferrillo-2026-myofascial-release-soft-tissue-techniques-pain-tmd]] — same first author; later MFR-specific SR with MCID benchmarking
-- [[wiki/tmj/desai-2021-low-level-laser-therapy-tmj-pain]] — laser therapy, the most-studied intervention here
+- [[tmj/demelo-2020-manual-therapy-myofascial-pain-tmd-sr]] — manual therapy SR; extended here with sham-controlled pooling
+- [[tmj/calixtre-2015-manual-therapy-tmd-pain-rom-sr]] — technique-stratified MT SR
+- [[tmj/gonzalez-sanchez-2023-tmj-physiotherapy-treatment-sr]] — physiotherapy SR, same direction of effect
+- [[tmj/ferrillo-2026-myofascial-release-soft-tissue-techniques-pain-tmd]] — same first author; later MFR-specific SR with MCID benchmarking
+- [[tmj/desai-2021-low-level-laser-therapy-tmj-pain]] — laser therapy, the most-studied intervention here
