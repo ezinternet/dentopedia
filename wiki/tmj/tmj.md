@@ -15,20 +15,20 @@ tags: [navigation, category-index, tmj]
 > [!summary] 한국어 핵심요약
 > - **분야**: 턱관절·악관절장애
 > - **범위**: TMD diagnosis & management — arthrocentesis, splint therapy, pharmacotherapy, chronic pain, TMJ osteoarthritis, sleep bruxism; **관절탈구·탈위 (luxation & dislocation)** — acute anterior TMJ dislocation reduction technique & manual/closed/extraoral approaches, anaesthesia & sedation for reduction, recurre…
-> - **수록 논문**: 115편
+> - **수록 논문**: 116편
 
 ## Three-line Summary
 
 **Scope**: TMD diagnosis & management — arthrocentesis, splint therapy, pharmacotherapy, chronic pain, TMJ osteoarthritis, sleep bruxism; **관절탈구·탈위 (luxation & dislocation)** — acute anterior TMJ dislocation reduction technique & manual/closed/extraoral approaches, anaesthesia & sedation for reduction, recurrence-prevention injections, chronic/long-standing dislocation algorithm & surgical treatment, discipline consensus (e.g.
-**Indexed papers**: 115 papers in `wiki/tmj/`.
+**Indexed papers**: 116 papers in `wiki/tmj/`.
 
 ## 세줄요약
 
 **분야**: 턱관절·악관절장애
-**수록 논문**: 115편
+**수록 논문**: 116편
 **하위 카테고리**: 없음
 
-## Papers in this Category (115)
+## Papers in this Category (116)
 
 | Paper |
 |---|
@@ -101,6 +101,7 @@ tags: [navigation, category-index, tmj]
 | [[michiels-2023-somatosensory-tinnitus-diagnosis-treatment|Somatosensory Tinnitus: Recent Developments in Diagnosis and Treatment]] |
 | [[minakuchi-2022-sleep-bruxism-management-sr|Managements of sleep bruxism in adult: A systematic review]] |
 | [[naralan-2026-masseter-muscle-stiffness-bruxism-myofascial|Masseter Muscle Stiffness in Bruxism and Myofascial Pain-Related Temporomandibular Disorders: A Systematic Review and Meta-Analysis of Quantitative Ultrasound Elastography Studies]] |
+| [[neff-2021-the-estmjs-european-society-of|The ESTMJS Consensus and Evidence-Based Recommendations on Management of Condylar Dislocation]] |
 | [[nemani-2024-tmj-pain-treatment-modalities-cervical|Evaluation of the Effect of Different Kinds of Treatment Modalities for Temporomandibular Joint Pain and Its Relevance to Chronic Cervical Pain: A Randomized Controlled Trial]] |
 | [[nowak-2021-intramuscular-injections-dry-needling-masticatory-sr|Intramuscular Injections and Dry Needling within Masticatory Muscles in Management of Myofascial Pain. Systematic Review of Clinical Trials]] |
 | [[okoje-2017-managing-temporomandibular-joint-dislocation-in|Managing Temporomandibular Joint Dislocation in Ibadan: A Review of 11 Cases]] |
