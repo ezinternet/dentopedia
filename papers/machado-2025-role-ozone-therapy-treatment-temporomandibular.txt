@@ -1,0 +1,11 @@
+PMID 40716833 | DOI 10.1016/j.jebdp.2025.102127 | Source: PubMed (abstract only; no PMCID)
+Machado TT, Machado ACS, Poluha RL, Proenca LS, Christidis N, Parada CA, Canales GT, Tambeli CH.
+The role of ozone therapy in the treatment of temporomandibular disorders: a systematic review.
+J Evid Based Dent Pract 2025;25(3):102127. Published 2025-02-22.
+Keywords: myofascial pain syndrome; ozone therapy; systematic review; temporomandibular disorders.
+
+ABSTRACT
+Temporomandibular disorders (TMD) refer to a range of conditions affecting the temporomandibular joints (TMJ), masticatory muscles, and related structures, bothering around 12% of the population. This systematic review aims to answer whether ozone therapy effectively reduces TMD-related symptoms.
+A systematic electronic search of 6 databases was conducted on July 15th, 2021, and updated on November 17th, 2023. Only clinical trials published in Portuguese, English, or Spanish were selected, with no restriction to the year of publication. Animal studies, retrospective studies, case reports, review papers, meta-analysis, and ozone therapy applications outside the orofacial region were excluded. The risk of bias analysis was performed following the Cochrane Collaboration tool, RoB 2.
+Of the 315 articles identified in the search, only 7 studies were included in this review. Two studies were considered low risk of bias, 2 with some concerns, and 3 as high risk of bias. Ozone therapy, applied to both articular and muscular TMDs, has been shown to reduce pain intensity and palpatory pain, and improve pressure pain thresholds and mandibular range of motion.
+Ozone therapy emerges as a potential therapy for reducing TMD-related symptoms. However, the current evidence lacks robustness, and further high-quality randomized controlled trials are necessary to enhance the existing evidence base.
