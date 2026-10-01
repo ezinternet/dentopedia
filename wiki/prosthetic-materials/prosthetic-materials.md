@@ -2,7 +2,7 @@
 title: "보철재료 — prosthetic-materials"
 authors: navigation
 year: 2026
-date: 2026-09-27
+date: 2026-10-01
 doi: N/A
 source: navigation
 category: prosthetic-materials
@@ -16,27 +16,28 @@ tags: [navigation, category-index, prosthetic-materials]
 > - **분야**: 보철재료
 > - **범위**: Zirconia/ceramic crown survival, full-arch prosthetics, luting cements, provisional materials, general prosthetic-materials not covered by a subcategory.
 > - **하위 카테고리**: [[abutment-screw]] · [[tooth-preparation]]
-> - **수록 논문**: 34편
+> - **수록 논문**: 35편
 
 ## Three-line Summary
 
 **Scope**: Zirconia/ceramic crown survival, full-arch prosthetics, luting cements, provisional materials, general prosthetic-materials not covered by a subcategory.
-**Indexed papers**: 34 papers in `wiki/prosthetic-materials/`.
+**Indexed papers**: 35 papers in `wiki/prosthetic-materials/`.
 **Sub-categories**: [[abutment-screw]], [[tooth-preparation]]
 
 ## 세줄요약
 
 **분야**: 보철재료
-**수록 논문**: 34편
+**수록 논문**: 35편
 **하위 카테고리**: abutment-screw, tooth-preparation
 
-## Papers in this Category (34)
+## Papers in this Category (35)
 
 | Paper |
 |---|
 | [[alammar-2022-zirconia-bonding-durability-clinical-outcomes-sr|Bonding Durability Between Zirconia and Different Types of Tooth or Implant Abutments—A Systematic Review. Part II: Outcomes of Clinical Studies]] |
 | [[boemicke-2025-zirconia-rbfpd-inlay-wing-3year-rct|Zirconia RBFPD: inlay-retained vs wing-retained, 3-year pilot RCT]] |
 | [[chan-2026-fea-cad-cam-zirconia-3d-printed-hybrid|Comparative finite element analysis of stress distribution of different implant-supported crown and abutment materials]] |
+| [[chantler-2024-rehabilitation-worn-dentition-direct-indirect|Rehabilitation of the Worn Dentition With Direct and Indirect Minimally Invasive Concepts-A Systematic Review and Meta-Analysis]] |
 | [[dasilva-2026-maxillary-lateral-incisor-agenesis-zirconia|Rehabilitation in Cases of Maxillary Lateral Incisor Agenesis Using Zirconia Implant and Abutment: Finite Element Analysis and Systematic Review]] |
 | [[ghodsi-2023-resin-cement-partial-coverage-sr|Resin cement selection for different types of fixed partial coverage restorations: A narrative systematic review]] |
 | [[givens-2007-marginal-adaptation-color-stability-provisional|Marginal adaptation and color stability of four provisional materials]] |
