@@ -2,7 +2,7 @@
 title: "종합 — overviews"
 authors: navigation
 year: 2026
-date: 2026-09-30
+date: 2026-10-01
 doi: N/A
 source: navigation
 category: overviews
@@ -15,20 +15,20 @@ tags: [navigation, category-index, overviews]
 > [!summary] 한국어 핵심요약
 > - **분야**: 종합
 > - **범위**: Synthesis pages spanning multiple categories
-> - **수록 논문**: 296편
+> - **수록 논문**: 297편
 
 ## Three-line Summary
 
 **Scope**: Synthesis pages spanning multiple categories
-**Indexed papers**: 296 papers in `wiki/overviews/`.
+**Indexed papers**: 297 papers in `wiki/overviews/`.
 
 ## 세줄요약
 
 **분야**: 종합
-**수록 논문**: 296편
+**수록 논문**: 297편
 **하위 카테고리**: 없음
 
-## Papers in this Category (296)
+## Papers in this Category (297)
 
 | Paper |
 |---|
@@ -187,6 +187,7 @@ tags: [navigation, category-index, overviews]
 | [[mandibular-anesthesia-failure-accessory-innervation-overview|왜 하치조신경전달마취(IANB)는 실패하는가 — 해부학적 실패 원인과 부신경지배 지도]] |
 | [[mandibular-canal-nutrient-canal-cbct-anatomy-overview|하악관 변이·영양관 방사선 해부 — 이분/삼분하악관·영양관·전신질환 연관 종합]] |
 | [[mandibular-third-molar-management-overview|Mandibular Third Molar — Impaction Pathology, Extraction Indication & Management (하악 사랑니 — 매복 병리·발치 적응증·관리 종합)]] |
+| [[masticatory-muscle-pain-evidence-synthesis-2026|Masticatory (Myogenous) Muscle Pain — 2026 Evidence Update Layer over the Existing TMD Ladders (24 SR/MA/NMA)]] |
 | [[maxillary-molar-palatal-root-socket-iip|Maxillary Molar Immediate Implant — Palatal Root Socket Anchorage (Decision Synthesis)]] |
 | [[maxillary-sinus-incidental-cbct-pathology-overview|Overview: Incidental Maxillary Sinus Pathology on CBCT — Prevalence Spectrum, Antrolith Deep-Dive, and Implant/Sinus-Lift Triage]] |
 | [[mb2-detection-strategy|상악 대구치 MB2 탐지 전략 지도 — 인구집단별 유병률 × 탐지 기법 매트릭스]] |
