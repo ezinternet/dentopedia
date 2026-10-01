@@ -1,0 +1,9 @@
+Tesch RS, Macedo LCSP, Fernandes FS, Goffredo Filho GS, Goes CPQF. Effectiveness of dry needling on the local pressure pain threshold in patients with masticatory myofascial pain. Systematic review and preliminary clinical trial. Cranio 2019;39(2):171-179. PMID 30916621. DOI 10.1080/08869634.2019.1588518. Source: PubMed (abstract only; no PMCID).
+
+ABSTRACT (as returned by PubMed; section labels were stripped in the feed)
+Objective: To systematically review the literature to identify controlled clinical trials evaluating the effectiveness of deep dry needling (DDN) in the treatment of patients with chronic masticatory myofascial pain (MMP).
+Methods: The sample size for a clinical trial was calculated and involved five patients who consecutively presented for treatment of MMP. The percentage of change in the means of three consecutive measurements of the pressure pain threshold (PPT) of myofascial trigger points (MTPs) was calculated and the statistical significance of this difference evaluated using the Wilcoxon test.
+Results: Twenty-five studies were considered for inclusion based on title and abstract. Only 2 studies met the inclusion criteria and were used to calculate the sample size. DDN significantly increased (p = 0.04) the PPT in MTP (44.6%) compared with sham procedure (-5.5%).
+Conclusion: Patients with chronic MMP treated with DDN of MTPs showed an increase in PPT measurements on the experimental side.
+Keywords: dry needling; myofascial pain; myofascial trigger point; pressure pain threshold; temporomandibular disorder; DC/TMD; CGRP; Substance P; SciELO; LILACS.
+MeSH: Clinical Trials as Topic; Dry Needling; Humans; Myofascial Pain Syndromes; Pain; Pain Measurement; Pain Threshold; Trigger Points.
