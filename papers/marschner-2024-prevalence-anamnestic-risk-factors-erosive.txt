@@ -1,0 +1,36 @@
+Marschner F, Kanzow P, Wiegand A. Systematic review and meta-analysis on prevalence and anamnestic risk factors for erosive tooth wear in the primary dentition. Int J Paediatr Dent 2024;35(2):389-404. DOI 10.1111/ipd.13250. PMID 39056584. PMC11788517. (Source: PubMed / PMC full text; condensed working copy.)
+
+ABSTRACT: SR+MA, PRISMA, PROSPERO CRD42023397767. Searched PubMed, Embase, Scopus, WoS (Feb 2023) + gray literature. 26 sources / 23 observational (cross-sectional) studies, 16,777 participants, age 2-7 y. Prevalence 35.6% (95% CI 24.8-48.1). GERD OR 1.98 (1.37-2.87; p=.008 adj); acidic food OR 5.14 (3.56-7.42); acidic drinks OR 6.90 (4.64-10.25); holding drinks in mouth OR 1.82 (1.26-2.63; p=.035); regular snacking OR 1.58 (1.18-2.10; p=.041).
+
+METHODS: PECO: children <=7 y primary dentition; cross-sectional observational studies (English/German). Exclusions: permanent dentition, insufficient data, case reports, reviews, prevalence-only studies, no anamnestic risk factors. Two independent reviewers. Random-effects throughout (high heterogeneity); fixed-effects sensitivity analysis; Bonferroni-Holm adjustment; funnel plot + Egger. Quality: modified Newcastle-Ottawa for cross-sectional (max 10 stars). GRADE for evidence.
+
+RESULTS: 1934 records -> 64 full-text -> 42 excluded; +4 manual. 11 Asia, 7 Europe, 4 South America, 1 Oceania. Indices: O'Brien and modified 34.78%, TWI/modified 30.43%, BEWE 5 studies, O'Sullivan, SEPRS. Quality: most good; 11 sources high, 1 satisfactory. Prevalence meta-regression: continent (Oceania vs Europe est -4.536, p=.043; single study with 0% prevalence) and number of participants (est -0.002, p<.001; larger studies lower prevalence) significant; index, publication year, partial vs full-mouth not significant. No relevant publication bias for prevalence. 52 anamnestic risk factors documented; 9 meta-analyses, 29 risk factors as subgroups; gender (95.65% of studies) and age (69.57%) most often investigated; leisure factors not comparable.
+Pooled ORs (Table 3; unadjusted p / Holm-adjusted p):
+Gender male vs female (13 studies) OR 1.12 (0.97-1.29) NS
+Place of residence rural vs urban (2) OR 1.01 (0.60-1.71) NS
+Medical conditions (2) OR 1.56 (0.92-2.62) NS; Diabetes (2) 3.61 (0.15-89.00) NS
+GERD (5) OR 1.98 (1.37-2.87), p<.001 / adj .008; absolute +63 per 1000 (25-114)
+Digestive disorders (1) 1.07 (0.63-1.82) NS
+Vomiting (5) OR 1.36 (1.09-1.70), p=.007 / adj .139 (NS after adjustment)
+Asthma (2) 1.26 (0.69-2.28) NS; Asthma inhaler (2) 1.00 (0.50-2.00) NS
+Bruxism/TMD symptoms (1) 1.48 (0.74-2.98) NS
+Use of medication (4) 1.56 (0.97-2.52) NS
+Vitamin C preparations (3) 1.88 (1.05-3.35), p=.033 / adj .665 NS
+Dental visits last year (2) 0.95 (0.72-1.26) NS
+Fluoride toothpaste use (2) 1.09 (0.70-1.70) NS
+Acidic food (2) OR 5.14 (3.56-7.42), p<.001/<.001; +279 per 1000 (238-311); 61.0% vs 87.4%
+Fruit consumption (4) OR 0.66 (0.54-0.81), adj p=.002 (protective); -94 per 1000
+Sweets (2) 0.92 (0.52-1.61) NS; Milk (4) 0.79 (0.52-1.18) NS; Yoghurt (1) 2.06 (0.83-5.11) NS
+Acidic drinks (1) OR 6.90 (4.64-10.25), p<.001/<.001; 54.1% vs 89.0%; +350 per 1000 (304-383)
+Lemonades/lemon drinks (4) 1.03 (0.35-2.99) NS
+Fruit juice (8) OR 1.69 (0.84-3.43) NS (random); fixed-effects OR 1.44 (1.26-1.66) p<.001, I2 88%
+Carbonated drinks (6) OR 1.64 (0.85-3.16) NS
+Water (3) OR 0.10 (0.01-1.47) NS (random); fixed-effects OR 0.20 (0.16-0.26), I2 97%
+Snacking regularly (2) OR 1.58 (1.18-2.10), p=.002 / adj .041; +113 per 1000
+Holding drinks in mouth (2) OR 1.82 (1.26-2.63), p=.002 / adj .035; +138 per 1000
+Bottle feeding (4) 1.30 (0.92-1.84) NS
+Drinking with straw (3) OR 0.58 (0.42-0.80), p<.001 / adj .019 (protective)
+Publication bias: only general-health domain had serious risk. Sensitivity (fixed vs random) confirmed random-effects results.
+GRADE: prevalence and most domains very low certainty (inconsistency, imprecision, observational design); oral hygiene domain low; leisure domain no data.
+
+DISCUSSION/LIMITATIONS: Prevalence 35.6% slightly lower than a recent MA of children <7 y (39.6%). Only dichotomous factors could be pooled; age, toothbrushing frequency not standardized, raw data not provided; socioeconomic and oral-hygiene domains underrepresented; few studies per subgroup (many n=1-2); high heterogeneity; acidic drinks estimate from a single study. Fruit protective association likely reflects inability to distinguish acidic vs non-acidic fruits; timing of acid intake may matter. Straw effect explained by avoiding direct tooth contact. Authors call for standardized questionnaires and raw data sharing. Funding: none; no COI.
