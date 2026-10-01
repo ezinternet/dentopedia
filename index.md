@@ -2275,6 +2275,28 @@ tags: []
 - [[tmj/yuan-2026-distinct-mural-cells-fibroblasts-drive]] — 돼지 편측 ADD scRNA-seq: 후방조직 적응성 재형성의 세포기전 — 전구 섬유아세포 FB2 증식 + 혈관주위세포 유래 신규 벽세포 MC4 출현, MC4→FB2 FGF2/BMP5→ERK1/2·SMAD1/5/9로 섬유연골화; zaprinast(PDE5억제제)가 시험관·랫드에서 적응 촉진(동물)
 - [[tmj/coombs-2017-structure-function-relationships-temporomandibular-retrodiscal]] — 돼지 후방조직 20검체 인장시험 + SHG현미경: 영률 생리범위 <1 MPa(50% 변형서야 2.9 MPa) — 후방조직은 병적 전방 원판변위를 저지할 만큼 뻣뻣하지 않음, 고전적 "후방 제동" 모델 반박(abstract-only)
 - [[tmj/donahue-2023-characterization-temporomandibular-joint-disc-complex]] — 유카탄 미니피그 후방 부착부 특성화: 후하방(PIA)이 후상방(PSA)보다 강성 2.13배·콜라겐 1.93배 — 뻣뻣한 PIA는 원판을 과두에 고정, 무른 PSA는 관절융기 활주 허용; 조직공학 설계기준(abstract-only)
+- [[tmj/zielinski-2026-global-prevalence-orofacial-pain-myofascial-tmj]] — 구안면통증 세계 유병률 SR+MA (초록만): 근막통 20.6%, 근막+TMJ통증 11.95% (31편, 522,056건), TMJ통증 단독 9.51%; 방법론적 이질성 큼
+- [[tmj/naralan-2026-masseter-muscle-stiffness-bruxism-myofascial]] — 초음파 탄성영상 SR/MA (7편, 환자 190·대조 202): 이갈이/근막통 TMD에서 교근 강성 증가 (Hedges g 1.485, MD 6.16 kPa), 이질성 I² 84%·GRADE 매우 낮음 (초록만)
+- [[tmj/machado-2025-role-ozone-therapy-treatment-temporomandibular]] — 오존 치료 TMD 체계적 문헌고찰 (임상시험 7편, 저위험 2·고위험 3): 통증·PPT·ROM 개선 보고되나 근거 불충분, 메타분석 없음 (초록 기반)
+- [[tmj/boulatar-2026-effectiveness-occlusal-stabilization-splint-myogenous]] — 근육성 TMD 교합안정장치 SR (RCT 10편·539명·6개월): 통증·개구량·두통·삶의 질 기저치 대비 호전, 근거 질 낮음(비뚤림 위험·소표본), 검색 2022-05 종료 (초록만)
+- [[tmj/candido-do-prado-2025-differential-effectiveness-photobiomodulation-muscular-articular]] — 광생체조절치료 (PBM) 근육성 vs 관절성 TMD SR+MA, RCT 18편 (n=1038): 통증 SMD −0.84 (−1.18~−0.51), 기능 SMD 0.72 (0.38~1.05), 관절성 아형에서 가장 균질한 효과 (초록만)
+- [[tmj/dinsdale-2025-effectiveness-conservative-interventions-temporomandibular-disorder]] — TMD 보존 치료의 운동공포·통증 파국화 효과 SR (12편, 815명; CBT·PNE+운동·수기치료가 파국화 감소 가능, 확신도 낮음~매우 낮음; 최면·교합안정장치는 효과 없어 보임) [초록만]
+- [[tmj/alshahrani-2024-association-genetic-factors-temporomandibular-disorders]] — TMD의 유전 요인 SR/MA (19편): 유전자 다형성과 TMD 발생 통합 OR 2.46 (95% CI 1.93-3.14), 근막통·만성통증·관절원판 변위와 연관 (초록 기반)
+- [[tmj/saini-2024-evaluating-influence-sports-induced-trauma]] — 운동선수 vs 비선수 TMD 증상(근막통·관절음) 합산 차이 유의하지 않음, 마우스가드 사용 시 TMD 증상 유의 감소 (SR+MA, 초록 기준·수치 미확보)
+- [[tmj/honnef-2022-stabilization-splints-signs-symptoms-muscular-tmd]] — 근원성 TMD 안정화 스플린트 SR(10편, 스플린트 n=160 vs 타 치료 n=209): 타 치료와 동등 보고, 근거 확실성 매우 낮음(GRADE) → 효과 확인도 반박도 불가 (초록만)
+- [[tmj/patil-2026-role-electrolytes-muscle-pain-syndromes]] — 전해질 보충 근경련·근육통 SR+MA (RCT 13편, 마그네슘 10편): 임신 중 경련 빈도 감소 (RR 1.35, 95% CI 1.05-1.74), 성인 야간·지속성 경련은 효과 없음; TMD 환자 대상 시험 없음, 간접 외삽
+- [[tmj/ferrillo-2026-myofascial-release-soft-tissue-techniques-pain-tmd]] — 근육형 TMD 통증 근막이완술·연조직 기법 RCT 7편(n=359) SR(메타분석 없음); 대부분 통계적으로 유의했으나 MCID 15-22 mm 초과는 일부뿐, GRADE 통증·개구 낮음·삶의 질 매우 낮음
+- [[tmj/bavarian-2021-efficacy-microcurrent-electrical-nerve-stimulation]] — 저작근 근막통 미세전류 자극(MENS) SR+MA: 3편 4비교 (n=140), 통증 평균 -0.57점 (95% CI -0.91~-0.23), I2=83.7%, 근거 소규모·이질성 높음 (초록만)
+- [[tmj/christidis-2024-psychological-treatments-temporomandibular-disorder-pain]] — 통증성 TMD 심리치료 SR+MA(RCT 18편 서술종합, 6편 메타분석): 표준치료와 동등, 심리+표준+수기 병행이 상담+표준보다 통증 감소 우월(매우 낮은 근거 확실성); 초록 수준
+- [[tmj/reis-2022-distribution-anxiety-depression-different-subtypes]] — TMD 아형별 불안·우울 SR+MA(24편, 메타 20편, 3678명): 근막통군에서 불안·우울 더 빈번(p=.001), 비근막통 TMD는 더 경미(p≤.01); 초록 수준
+- [[tmj/grossman-2021-cannabis-orofacial-pain-systematic-review]] — 칸나비노이드 구강안면통 SR(초록 기준): 국소 칸나비디올(CBD) 근막통증 통증↓·근기능↑, 경구 합성 작용제는 제3대구치 발치 후 유의한 진통효과 없음; 구강안면 문헌 희소
+- [[tmj/al-moraissi-2022-acupuncture-dry-needling-effective-management]] — Al-Moraissi 2022 · sr+ma(NMA) · 저작근 통증에서 침술·건침이 능동/비활성 위약 대비 통증·PPT 차이 없음(p>.05), 건침만 MMO 증가(근거 매우 낮음); 위약효과가 대부분이라고 결론 (초록 수준)
+- [[tmj/ferrillo-2022-efficacy-rehabilitation-reducing-pain-muscle]] — 근육성 TMD 통증 재활 중재 vs 위약/가짜치료 16 RCT SR+MA, 통합 효과크기 1.44 (p<0.0001), 레이저 6편(37.5%) 최다; 초록만 확보
+- [[tmj/al-moraissi-2021-hierarchy-different-treatments-myogenous-temporomandibular]] — 근육성 TMD 52 RCT 네트워크 메타분석(초록만): 단기 도수치료 83.5%(낮음)>오존>상담·교합장치(중간), 6개월 이상 BTX-A 85.8%(매우 낮음)>상담 80%; 저자 결론 도수치료 최선, 신중 해석
+- [[tmj/tesch-2019-effectiveness-dry-needling-local-pressure]] — 저작근 근막통 심부 건침술 SR+예비시험(n=5, 2019): 대조시험 25편 중 2편만 적격, 압통역치 +44.6% vs 가짜 -5.5% (p=0.04), 초록만
+- [[tmj/orzeszek-2023-efficiency-occlusal-splint-therapy-orofacial]] — 근육통·근막통 교합장치(splint) RCT 13편(589명) SR: 전부 비뚤림 위험 높음, 메타분석 불가, 침·레이저·물리치료·상담 대비 우월성 근거 불충분 (교육군 자발통 감소 더 큼 p=0.034)
+- [[tmj/ahmad-2021-low-level-laser-therapy-temporomandibular]] — Ahmad 2021 · sr · LLLT RCT 37편(2000~2020, DB 2개) 서술적 종합: 통증 효과 18편/위약·대조와 동등 12편/엇갈림 4편, 통합 효과크기 없음·레이저 파라미터 이질성 큼
+- [[tmj/wu-2021-effectiveness-low-level-gallium-aluminium]] — 근막통형 TMD 저출력 GaAlAs 레이저 RCT 8편(181명) SR+MA: 치료 종료 시 VAS 차이 경계 수준(WMD -0.76, 95% CI -1.51~0.01, P=.046), 3-4주 후 소실, 최대개구량 무변화; 초록은 근거 불충분으로 결론
 
 ## 보툴리눔 톡신 — 약물 (Botulinum Toxin / BTX-A)
 - [[botulinum-toxin/de-la-torre-canales-2024-botulinum-toxin-a-myogenous]] — Umbrella review (Drugs 2024, 18 SR): BoNT-A vs M-TMD — 위약보다는 우월·표준치료엔 비우월; 근육·골 부작용 위험으로 "last option" 권고
@@ -2302,6 +2324,8 @@ tags: []
 - [[botulinum-toxin/aldosari-2026-occlusal-splints-vs-botulinum-sleep-bruxism-sr-ma]] — **SR+MA** (36 studies, Cranio 2026): OS vs BTX-A for adult sleep bruxism — no significant pain difference at intermediate follow-up; BTX-A faster short-term; OS preferred for mechanical protection
 - [[botulinum-toxin/yan-2025-masseter-elasticity-botulinum-toxin-ultrasound]] — Prospective self-controlled (n=14, USE, Aesthetic Plast Surg 2025): BoNT-A — masseter thickness ↓28.9-31.5% at 1-3mo; elasticity (shear wave velocity) fully returned to baseline by 6mo; thickness and elasticity recovery uncorrelated
 - [[botulinum-toxin/ergezen-2025-botulinum-toxin-sleep-quality-bruxism]] — Prospective (n=40F, awake+sleep bruxism, IJOMS 2025): 30U masseter+20U temporalis BTX — good sleep (PSQI≤5) 17.5%→60% (p<0.001); all 7 PSQI subscales improved
+- [[botulinum-toxin/ramos-herrada-2022-botulinum-toxin-myofascial-pain-temporomandibular]] — 불응성 TMD 근막통증 보툴리눔 독소 SR (RCT 8편, n=314, 저용량 효과적이나 RoB 2.0 7편 일부 우려·GRADE 중등도~낮음; 초록만)
+- [[botulinum-toxin/desantana-2026-botulinum-toxin-type-myogenous-temporomandibular]] — 근육성 TMD BoNT-A RCT 10편 질적 SR(메타분석 없음): 위약 대비 일관된 우월성 없음(난치성 근막통 시험만 약 50% 통증 감소), 효과 8~24주, 40~100 U 용량-반응 불명, 1차 치료 비권고
 
 ## 우식 (Caries)
 - [[caries/zyla-2015-black-stain-dental-caries-review]] — Żyła 2015 · narrative-review · 흑색착색(Black Stain, BS) 정의·역학(유병률 2.4–18%, 성별 동등)·원인(Actinomyces, 철/구리-황 복합체)·우식 역상관 관계 종합 (DOI 10.1155/2015/469392)
@@ -3540,6 +3564,15 @@ tags: []
 - [[dental-erosion/souza-2020-citrus-sweets-enamel-erosion-invitro]] — In-vitro profilometry (n=90 bovine enamel): citrus sweets (pH 2.6–3.5) cause 1.3–2.4 μm wear; dual-acid sweets as erosive as 0.1% citric acid and more than Coca-Cola (2020)
 - [[dental-erosion/west-2014-enamel-mineral-loss]] — Narrative review integrating chemical, biological, and host factors of enamel mineral loss from caries and erosion, with evidence-based prevention frameworks (2014)
 - [[dental-erosion/kanzow-2016-etiology-pathogenesis-dental-erosion]] — Concise narrative review defining erosion as acid-related non-microbial tooth-structure loss, classifying extrinsic (dietary) vs intrinsic (GERD) aetiology and severity-modifying factors (2016)
+- [[dental-erosion/marschner-2024-anamnestic-risk-factors-erosive-tooth-wear]] — 침식성 치아마모 문진 위험인자 SR+MA (87편/71연구, 초록만): 산성식품 OR 2.40, 역류 2.27, 소화기질환 1.81, 탄산음료 1.43, 남성 1.30; GERD 증상·식이 우선 선별
+- [[dental-erosion/chan-2024-oral-health-status-eating-disorders]] — 섭식장애 환자 vs 대조군 구강건강 SR+MA(33편, GRADE, 초록만): 침식·우식·치은염증·지각과민 유병률 높고 타액 분비량·pH 낮음, 이갈이 차이 없음, 전 추정치 근거 확실성 매우 낮음
+- [[dental-erosion/dallavilla-2024-prevalence-erosive-tooth-wear-risk]] — 침식성 치아마모 위험군 7종 유병률 SR+MA(관찰연구 148편, 초록만): 약물복용 30%~약물·알코올 67%, GERD 54.1%, 섭식장애 65%
+- [[dental-erosion/wang-2025-relationship-laryngopharyngeal-reflux-gastroesophageal-reflux]] — 성인 GERD/후두인두역류 (LPR)와 치아침식 SR (1382편 중 22편, 초록만): 역류 환자에서 침식 유병률 유의하게 높고 침식 환자에서도 역류 유병률 높음(양방향, 효과크기 없음)
+- [[dental-erosion/fdi-2024-tooth-wear-policy-statement]] — FDI 치아 마모(Tooth Wear) 정책 성명: 침식·교모·마모·abfraction(잠정)을 포괄하는 비우식성 치질 소실 정의, 원인 교정 후 수복, 유병률 최대 80%; 공식 권고 목록·등급은 확보 본문에 없음
+- [[dental-erosion/chatzidimitriou-2024-role-calcium-prevention-erosive-tooth]] — 칼슘 제제의 침식마모 예방 in situ RCT 21편 SR+MA(초록만): 칼슘 첨가 주스에서 법랑질 손실 감소(블랙커런트 vs 오렌지 2.6배, I²=89%), CPP-ACP 껌 미세경도 차이 없음(p=0.31), 우유·페이스트는 상반
+- [[dental-erosion/juarez-lopez-2026-prevalence-risk-dental-erosion-carbonated]] — 청소년 탄산음료·치아침식 SR+MA (관찰연구 24편, 21,541명): 침식 합산 유병률 37.6% (95%CI 26.3-49.7), 탄산음료 하루 1회 초과 OR 1.98 (1.42-2.77; I2 80%, 합산 5편뿐)
+- [[dental-erosion/marschner-2024-prevalence-anamnestic-risk-factors-erosive]] — Marschner 2024 · sr+ma (횡단연구 23편, 2-7세 16,777명): 유치열 침식성 치아마모 (ETW) 통합 유병률 35.6% (95% CI 24.8-48.1); 위험인자 산성 음료 OR 6.90·산성 음식 OR 5.14·GERD OR 1.98, 보호인자 빨대 OR 0.58·과일 OR 0.66; GRADE 매우 낮음-낮음
+- [[dental-erosion/ne-2022-treatment-dental-erosion-systematic-review]] — 치아 침식 치료 SR (in vitro 4편만, 522편 검색): 불소 치약 2편은 효과 불분명, CPP-ACP 2편은 미세경도 +13.27% vs +2.53%·마모 유의 감소 p<0.001; 비뚤림 위험 3편 낮음·1편 높음
 
 ### batch j — additions to existing categories (added 2026-06-07)
 **periodontics**
@@ -4199,6 +4232,7 @@ tags: []
 
 ### prosthetic-materials
 - [[prosthetic-materials/tooth-preparation/dudley-2025-determinants-marginal-gap-crowns]] — 우산연구(SR 17편, in vitro 301건): 크라운 종류·재료·CAD-CAM 여부는 변연간극(79.4±22.8µm)에 무영향, 측정기구가 과대평가 원인, 120µm 기준 재확인 [sr+ma]
+- [[prosthetic-materials/chantler-2024-rehabilitation-worn-dentition-direct-indirect]] — 마모 치열 최소침습 직접·간접 수복 SR+MA(14편, 초록만): 직접 vs 간접 수동제작 복합레진 생존 차이 없음(OR 1.79, 95% CI 0.64-5.05), 리튬 디실리케이트 실패 1.8%
 
 ### implants/peri-implantitis
 - [[implants/peri-implantitis/quirynen-2025-peri-implantitis-risk-assessment-pira]] — 후향연구(460명·임플란트 1,432개), 임플란트 주위염 술전 예측모델(PiRA), 부분무치악군 민감도 90.2%/특이도 55.0%, 무료 온라인 도구 배포 [retrospective]
