@@ -1,0 +1,12 @@
+Source: PubMed PMID 36314254 (abstract only; no PMCID). DOI 10.1111/joor.13382
+Al-Moraissi EA, Goddard G, Christidis N. Are acupuncture and dry needling effective in the management of masticatory muscle pain: A network meta-analysis of randomised clinical trials. J Oral Rehabil. 2022;50(1):87-97. Epub 2022-11-03.
+
+Several studies have shown that both acupuncture and dry needling are effective in the treatment of musculoskeletal pains. Therefore, the aim of this network meta-analysis (NMA) was to investigate the treatment outcome of acupuncture and dry-needling for masticatory muscle pain (TMD-M) and to compare with active and inactive placebo.
+
+An electronic search was performed to identify randomised controlled trials (RCTs) published until September 2019, comparing dry-needling, acupuncture, and inactive as well as active placebo in patients with TMD-M. Outcome variables were post-treatment pain intensity, pressure pain threshold (PPT), and maximum mouth opening (MMO). The quality of evidence was rated according to Cochrane's tool for assessing the risk of bias. Mean difference was used to analyse via frequentist NMA using STATA-software.
+
+Both NMA and direct pairwise meta-analysis have shown that there was no difference between active treatment with either acupuncture or dry-needling when compared to active and inactive placebo in patients with TMD-M with respect to pain intensity, and PPT (p > .05). However, there was a significant increase in MMO following dry-needling when compared to the placebo (very low-quality evidence).
+
+Despite the short-term positive effect of MMO by dry-needling, this NMA could not show any pain-reducing effect in patients with TMD-M by acupuncture or dry-needling when compared to an active or inactive placebo. Taken together, this NMA indicates that it is the placebo effect that accounts for the majority of the treatment effect of TMD-M, rather than a real therapeutic effect of acupuncture/dry-needling.
+
+Keywords: acupuncture; dry-needling; network meta analysis; muscular TMDs; myogenous TMDs. MeSH: Dry Needling; Acupuncture Therapy; Masticatory Muscles; Myalgia.
