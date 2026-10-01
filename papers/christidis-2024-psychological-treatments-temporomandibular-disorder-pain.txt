@@ -1,0 +1,11 @@
+Christidis N, Al-Moraissi EA, Al-Ak'hali MS, Minarji N, Zerfu B, Grigoriadis A, Schibbye R, Christidis M. Psychological treatments for temporomandibular disorder pain - A systematic review. J Oral Rehabil 2024;51(7):1320-1336. PMID 38616535. DOI 10.1111/joor.13693. Source: PubMed abstract (no PMC full text).
+
+Background: TMD are common; affect daily tasks and psychological aspects. In addition to standard treatment, psychological treatments have been suggested. Aim: investigate effects of psychological treatments on patients with painful TMD in short- and long-term perspective.
+
+Methods: Electronic search in MEDLINE, CINAHL, EMBASE, Cochrane CENTRAL, Web of Science for RCTs reporting psychological interventions for TMD. Registered in PROSPERO (CRD42022320106). 18 RCTs included; six RCTs usable in the meta-analysis, all 18 in narrative synthesis. Risk of bias: Cochrane tool; certainty of evidence: GRADE.
+
+Results: Narrative synthesis indicates psychological treatment options seem equivalent to standard treatment for painful TMD. Meta-analysis showed that a combination of psychological treatment and standard treatment and manual treatment (very low-quality evidence) are significantly better in pain reduction than just counselling and standard treatments of TMD.
+
+Conclusions: Psychological treatments seem to reduce pain intensity in painful TMD, effect seems equally good as standard treatment; combination of psychological and standard treatments seems to have an even better effect. Promising as an additional treatment approach.
+
+Keywords: anxiety, craniomandibular disorders, psychological treatment, stress, systematic review, treatment. MeSH: Cognitive Behavioral Therapy; Psychotherapy. Article types: Systematic Review, Meta-Analysis.
