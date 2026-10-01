@@ -1,0 +1,15 @@
+Source: PubMed PMID 39387908 (abstract only; no PMCID). DOI 10.1007/s00784-024-05963-1
+Title: Prevalence of erosive tooth wear in risk group patients: systematic review.
+Authors: Dallavilla GG, da Silva Martins D, Peralta-Mamani M, Santiago Junior JF, Rios D, Honorio HM
+Journal: Clin Oral Investig 2024;28(11):588. Published 2024-10-10.
+
+This systematic review investigates the prevalence of erosive tooth wear (ETW) in individuals classified as risk groups (gastroesophageal reflux disease, eating disorders, special diets, acidic beverage, drugs and alcohol, legal drugs and medications, and occupational or sports).
+
+The research was conducted in nine databases (PubMed/MEDLINE, Embase, Cochrane Library, LILACS/BVS, SciELO, Scopus, Science Direct, Open Grey, and Web of Science) up to April 2024 (PROSPERO CRD42021270150), along with a manual search of grey literature. Observational studies involving children and adults from these risk groups, which provided data on ETW prevalence, were included without date or language restrictions. Methodological quality was evaluated using the Joanna Briggs Institute's Prevalence Data Critical Appraisal Tool. General and subgroup data were meta-analyzed using a random-effects model.
+
+Overall, 4403 studies were retrieved, out of which 148 met the inclusion criteria. Each risk group showed higher prevalences of ETW in these patients in general and subgroup analysis; although subgroup analysis was not possible for all risk groups due to the heterogeneity of the indices found.
+
+The Legal drugs and Medications risk group showed lower overall prevalence values (30%), while the Drugs and Alcohol risk group obtained higher values (67%). Prevalence rates for other groups were: Gastroesophageal reflux disease (54.1%), Eating Disorders (65%), Special Diets (65.9%), Acidic Beverages (40%), Occupational and Sports (51%).
+
+Conclusion: risk groups are at significant risk for the development of ETW; greater preventive care and dental monitoring are needed.
+Keywords: Epidemiology; Risk factors; Tooth erosion; Tooth wear
