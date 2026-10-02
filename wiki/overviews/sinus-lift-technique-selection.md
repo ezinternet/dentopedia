@@ -28,6 +28,7 @@ source_papers:
   - wiki/sinus-lift/lateral/motimath-2026-xenograft-prf-sinus-histomorphometric.md
   - wiki/sinus-lift/lateral/estrin-2025-extended-prf-lateral-window-sinus.md
   - wiki/sinus-lift/lateral/allurkar-2025-implant-stability-residual-bone-macrodesign.md
+  - wiki/sinus-lift/transcrestal/kafadar-gurbuz-2026-od-vs-osteotome-tsfe-isq-rct.md
 evidence_level: synthesis
 source: synthesis
 ---
@@ -39,7 +40,7 @@ source: synthesis
 > - 핵심 임계값: 잔존골높이 (Residual Bone Height, RBH) ≥5mm = 경치조골 거상 (Transcrestal/TSFE) 1순위, <5mm = 측방창 (Lateral/LSA) 1순위 — 5mm가 critical threshold이며, 골밀도화 (Osseodensification, OD) 도입 시 4mm까지 TSFE 영역 확장. [확인]
 > - 모든 술식의 임플란트 생존율은 97–99%로 동등하다 — 신규(Shah 2022 SR+MA, 17편/1,259개): 직접법(측방창) 96.9% vs 간접법(치조정 등) 97.0%, 최초의 formal head-to-head 검증(유의차 없음). [확인]
 > - **신규(Derbishi 2026 SR+MA)**: 상악동거상술 후 임플란트 장기 생존 >97% 재확인; 경치조골 실패율이 측방창보다 낮은 경향은 **환자선택 편향으로 명시 귀속** — RBH 낮은 케이스가 측방창으로 분류되기 때문이며 기법 우위 근거 아님; 근거 확실성 낮음. [확인]
-> - 경치조골 내부 술기: OD가 오스테오톰 (osteotome) 대비 식립·지대주 연결 시 ISQ 유의하게 높고 (66.17 vs 54.83), 수술시간·합병증·진통제 모두 감소 — 단 SR+MA GRADE는 낮음 (Starch-Jensen 2025). [확인]
+> - 경치조골 내부 술기: OD가 오스테오톰 (osteotome) 대비 식립·지대주 연결 시 ISQ 유의하게 높고 (66.17 vs 54.83), 수술시간·합병증·진통제 모두 감소 — 단 SR+MA GRADE는 낮음 (Starch-Jensen 2025). **[2026-10-02 신규] Kafadar-Gürbüz 2026 RCT(n=28 pts, 42 impl., Ege Univ. Turkey)** OD vs Summers' osteotome 단독 RCT에서 동일 방향 재확인: ISQ 75.09 vs 67.50 (p=.013), 삽입토크 (IT) 32.95 vs 26.25 Ncm (p=.008), 진통제·OHIP 개선; MBL 동등, 양군 100% 생존. [확인]
 > - 천공의 결정 원리: 천공 자체가 결과를 좌우하지 않고 봉합 가능 여부가 결정 — 적절히 봉합된 천공 생존율 97.68% vs 무손상 98.88% (유의차 없음, Diaz-Olivares 2021). [확인]
 > - 천공 위험 신호: 격벽 (septa) 존재 (OR >2), 측벽 두께 >2mm, 그리고 협구개 상악동 폭 (sinus width) >12mm (넓은 동, 천공 16.1% vs 좁은 동 1.1%, 조기실패까지 독립 예측, Stacchi 2022).
 > - **신규(Ye 2025 SR+MA)**: 잔존치조골 높이 (Residual Ridge Height, RRH) <4mm가 측방창 슈나이더막 천공 독립 위험인자로 SR+MA 수준 확인 — 10편/1,601명/1,809술, 통합 천공률 19.2%; RRH <4mm OR 4.68 (이상값 제거 후, p<0.05); 이질성 높음(I²=88–90%) — 술전 CBCT에서 RRH <4mm 시 피에조 전환·봉합재 준비 권장. [확인]
@@ -139,8 +140,9 @@ CBCT RBH 측정
 | **rct(n=11)** | [[sinus-lift/transcrestal/el-ghobashy-osseodensification-vs-osteotome-transcrestal-sinus]] | OD 식립 시 ISQ 66.17 vs 오스테오톰 54.83 (p=0.043); 시간 단축 (p=0.002) | RBH 5–8mm |
 | **prospective(n=16)** | [[sinus-lift/transcrestal/shalash-2023-crestal-sinus-elevation-densah-oblique]] | OD로 경사 동저 RBH 4–7mm에서도 1년 100% | 천공 1/16 (6.25%) |
 | **narrative-review** | [[sinus-lift/transcrestal/gaspar-2025-osseodensification-crestal-maxillary-sinus-elevation-narrative-review]] | OD 기전: 골을 측방으로 압축 → 자가골 효과·천공 위험↓ | — |
+| **rct (n=28 pts, 42 implants)** | [[sinus-lift/transcrestal/kafadar-gurbuz-2026-od-vs-osteotome-tsfe-isq-rct]] | **[2026-10-02 신규] OD(Densahbur) vs Summers' osteotome TSFE 동시식립 RCT**: ISQ 75.09 vs 67.50 (p=.013), 식립토크(Insertion Torque, IT) 32.95 vs 26.25 Ncm (p=.008); 진통제 소비 감소(p=.016), OHIP 개선(p=.008); MBL 동등; 양군 100% 생존 — Starch-Jensen 2025 SR+MA의 6-RCT 합성에 추가되는 독립 RCT 재확인 | RBH 4–8mm, 1yr, Ege Univ. Turkey |
 
-**결론** [확인]: TSFE에서 OD가 ISQ·합병증·수술시간 양면 우위. 다만 SR+MA GRADE = low.
+**결론** [확인]: TSFE에서 OD가 ISQ·삽입토크·합병증·수술시간 양면 우위 — Starch-Jensen 2025(SR+MA 6 RCT, GRADE low)에 kafadar-gurbuz-2026(RCT) 재확인 추가. ISQ 우위 효과 크기(+7.59 포인트, Kafadar 2026; +11.34 포인트, el-Ghobashy)는 임상적으로 의미 있는 차이.
 
 ### 2.2 비이식 TSFE (No Graft)
 
