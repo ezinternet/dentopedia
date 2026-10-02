@@ -15,20 +15,20 @@ tags: [navigation, category-index, osteotomy-thermal]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·골절개·발열
 > - **범위**: Implant osteotomy preparation & thermal injury — bone-drilling heat generation and thermal-osteonecrosis thresholds, drill design/material/wear, irrigation & cooling (internal/external, CFD modelling), drilling speed and continuous vs intermittent protocols, piezosurgery, undersized preparation & ta…
-> - **수록 논문**: 39편
+> - **수록 논문**: 42편
 
 ## Three-line Summary
 
 **Scope**: Implant osteotomy preparation & thermal injury — bone-drilling heat generation and thermal-osteonecrosis thresholds, drill design/material/wear, irrigation & cooling (internal/external, CFD modelling), drilling speed and continuous vs intermittent protocols, piezosurgery, undersized preparation & tapping, guided-sleeve drilling temperature, histologic/histomorphometric implant-bed studies.
-**Indexed papers**: 39 papers in `wiki/implants/osteotomy-thermal/`.
+**Indexed papers**: 42 papers in `wiki/implants/osteotomy-thermal/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·골절개·발열
-**수록 논문**: 39편
+**수록 논문**: 42편
 **하위 카테고리**: 없음
 
-## Papers in this Category (39)
+## Papers in this Category (42)
 
 | Paper |
 |---|
@@ -71,3 +71,6 @@ tags: [navigation, category-index, osteotomy-thermal]
 | [[timon-2019-thermal-osteonecrosis-bone-drilling-orthopedic|Thermal Osteonecrosis Caused by Bone Drilling in Orthopedic Surgery: A Literature Review]] |
 | [[woods-2022-does-irrigating-while-drilling-decrease|Does Irrigating While Drilling Decrease Bone Damage?]] |
 | [[yu-2022-primary-implant-stability-alternative-site-preparation-sr-ma|Primary Implant Stability Based on Alternative Site Preparation Techniques: A Systematic Review and Meta-Analysis]] |
+| [[gedik-2025-four-drill-systems-ceramic-heat-osteotomy|Four Drill Systems Heat Comparison: Ceramic Drills Generate Significantly More Heat and Take Longer]] |
+| [[gokce-uckun-2025-guided-surgery-cold-irrigation-temperature|Cold Irrigation (10°C) Most Effective for Guided Implant Surgery Thermal Control; Low-Speed Without Irrigation is NOT Safer]] |
+| [[tur-2025-scais-cip-guided-conventional-drill-diameter-heat|S-CAIS vs CIP Heat: Significant Differences Only at 3.5mm Drills; Irrigation Essential for Both Techniques]] |
