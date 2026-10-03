@@ -1,0 +1,11 @@
+TITLE: Roles of osteoclasts in alveolar bone remodeling.
+
+AUTHORS: Omi M, Mishina Y
+
+JOURNAL: Genesis 2022;60(8-9):e23490
+
+PMID: 35757898
+DOI: 10.1002/dvg.23490
+
+--- ABSTRACT ---
+Osteoclasts are large multinucleated cells from hematopoietic origin and are responsible for bone resorption. A balance between osteoclastic bone resorption and osteoblastic bone formation is critical to maintain bone homeostasis. The alveolar bone, also called the alveolar process, is the part of the jawbone that holds the teeth and supports oral functions. It differs from other skeletal bones in several aspects: its embryonic cellular origin, the form of ossification, and the presence of teeth and periodontal tissues; hence, understanding the unique characteristic of the alveolar bone remodeling is important to maintain oral homeostasis. Excessive osteoclastic bone resorption is one of the prominent features of bone diseases in the jaw such as periodontitis. Therefore, inhibiting osteoclast formation and bone resorptive process has been the target of therapeutic intervention. Understanding the mechanisms of osteoclastic bone resorption is critical for the effective treatment of bone diseases in the jaw. In this review, we discuss basic principles of alveolar bone remodeling with a specific focus on the osteoclastic bone resorptive process and its unique functions in the alveolar bone. Lastly, we provide perspectives on osteoclast-targeted therapies and regenerative approaches associated with bone diseases in the jaw.
