@@ -1,0 +1,11 @@
+TITLE: Soft Tissue Alterations in Esthetic Postextraction Sites: A 3-Dimensional Analysis.
+
+AUTHORS: Chappuis V, Engel O, Shahim K, Reyes M, Katsaros C, Buser D
+
+JOURNAL: J Dent Res 2015;94(9 Suppl):187S-93S
+
+PMID: 26130259
+DOI: 10.1177/0022034515592869
+
+--- ABSTRACT ---
+Dimensional alterations of the facial soft and bone tissues following tooth extraction in the esthetic zone play an essential role to achieve successful outcomes in implant therapy. This prospective study is the first to investigate the interplay between the soft tissue dimensions and the underlying bone anatomy during an 8-wk healing period. The analysis is based on sequential 3-dimensional digital surface model superimpositions of the soft and bone tissues using digital impressions and cone beam computed tomography during an 8-wk healing period. Soft tissue thickness in thin and thick bone phenotypes at extraction was similar, averaging 0.7 mm and 0.8 mm, respectively. Interestingly, thin bone phenotypes revealed a 7-fold increase in soft tissue thickness after an 8-wk healing period, whereas in thick bone phenotypes, the soft tissue dimensions remained unchanged. The observed spontaneous soft tissue thickening in thin bone phenotypes resulted in a vertical soft tissue loss of only 1.6 mm, which concealed the underlying vertical bone resorption of 7.5 mm. Because of spontaneous soft tissue thickening, no significant differences were detected in the total tissue loss between thin and thick bone phenotypes at 2, 4, 6, and 8 wk. More than 51% of these dimensional alterations occurred within 2 wk of healing. Even though the observed spontaneous soft tissue thickening in thin bone phenotypes following tooth extraction conceals the pronounced underlying bone resorption pattern by masking the true bone deficiency, spontaneous soft tissue thickening offers advantages for subsequent bone regeneration and implant therapies in sites with high esthetic demand (Clinicaltrials.gov NCT02403700).
