@@ -16,8 +16,8 @@ source: synthesis
 > [!summary] 한국어 핵심요약
 > - 핵심 명제: Type-1 즉시식립 (Immediate Implant Placement)은 생존율 95–98%로 안전하나, **심미 위험이 가장 높은 타이밍**이다. immediate-implant 24편 통합.
 > - 3대 위험인자 (Chen 2009 ITI consensus, 91편): ① 얇은 협측벽 (≤1mm), ② 협측·근심 임플란트 위치, ③ 얇은 생체형 (biotype). 누적 시 type-2 (4–8주 지연)로 전환.
-> - 생리적 기초: 다발골 (bundle bone) 완전 소실은 즉시식립으로 막을 수 없다 (Araujo 2005 동물). 얇은 협측벽 (≤1mm)은 수직 소실 7.5mm vs 두꺼운 벽 1.1mm (Chappuis 2013). 전치부 90%가 협측벽 <1mm.
-> - 사전 콘빔CT (CBCT) 5항목 평가: 협측벽 두께·완전성·잔존 치근첨~비강/상악동 거리·인접치 골수준 (유두 (papilla) 보존)·생체형.
+> - 생리적 기초: 다발골 (bundle bone) 완전 소실은 즉시식립으로 막을 수 없다 (Araujo 2005 동물). 얇은 협측벽 (≤1mm)은 수직 소실 7.5mm vs 두꺼운 벽 1.1mm (Chappuis 2013). 발치 후 박벽형에서 연조직이 약 7배 두꺼워져 7.5mm 골소실을 감추므로 **연조직 윤곽이 양호해도 골부족 판단 불가** (Chappuis 2015). 전치부 90%가 협측벽 <1mm.
+> - 사전 콘빔CT (CBCT) 5항목 평가: ① 협측벽 두께 — 전치부 50%가 ≤0.5mm (Januário 2011, n=250), 발치 시 87%가 ≤1mm·3%만 ≥2mm (Huynh-Ba 2010, n=93), micro-CT에선 0–9mm 전 구간 협측이 <0.5mm·bundle bone만·1/3에서 fenestration (Todorovic 2023) ② 협측벽 완전성 ③ 치근첨~비강/상악동 거리 ④ 인접치 골수준 (유두 (papilla) 보존) ⑤ 생체형.
 > - 수술 프로토콜 4요소: ① 협측 gap ≥2mm는 이종골/자가골 충전 (Sanz 2017 RCT, 흡수 유의 감소), ② 즉시 임시치관 (비기능부하 원칙, 연조직 안정성 유리), ③ 연조직 관리 (경+연조직 복합이식 시 분홍심미점수 (Pink Esthetic Score, PES) 최고, Rondone 2024), ④ 소켓실드는 보류 (합병증 9.5–17%).
 > - 부하 결정: 발치와에서 임플란트 안정성 지수 (Implant Stability Quotient, ISQ)는 인공적으로 낮으므로 (발치와 57.6 vs 치유골 72.9), 삽입토크 (Insertion Torque, IT) ≥35 Ncm을 1차 기준으로. 즉시부하는 IT ≥35 Ncm + ISQ ≥70 양조건 (Wittneben 2023).
 > - 타이밍 비교: 생존은 Type 1~4 모두 95% 이상, 차이는 심미. Type 1은 치료기간 단축 이득 vs 심미 위험 (20–30% 점막 퇴축, Buser 2017)의 trade-off.
