@@ -2,7 +2,7 @@
 title: "임플란트·생존율·실패위험 — survival"
 authors: navigation
 year: 2026
-date: 2026-09-30
+date: 2026-10-03
 doi: N/A
 source: navigation
 category: implants/survival
@@ -15,20 +15,20 @@ tags: [navigation, category-index, survival]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·생존율·실패위험
 > - **범위**: Implant survival/failure as the outcome, and what predicts it — long-term cumulative survival cohorts & SR/MA; **habit** risk (smoking level/cessation, tobacco & smoke-free products, bruxism); **systemic/host** risk (diabetes, hypertension, osteoporosis & PTH, Sjögren, autoimmune & systemic sclerosi…
-> - **수록 논문**: 52편
+> - **수록 논문**: 53편
 
 ## Three-line Summary
 
 **Scope**: Implant survival/failure as the outcome, and what predicts it — long-term cumulative survival cohorts & SR/MA; **habit** risk (smoking level/cessation, tobacco & smoke-free products, bruxism); **systemic/host** risk (diabetes, hypertension, osteoporosis & PTH, Sjögren, autoimmune & systemic sclerosis, head-and-neck radiotherapy, medications/polypharmacy affecting osseointegration); early-failure risk-factor studies & failure-rate umbrella reviews; evidence-quality appraisal bound to this literature (sponsorship bias, risk-of-bias in smoker SRs); management of the failed implant (explantation/retrieval technique).
-**Indexed papers**: 52 papers in `wiki/implants/survival/`.
+**Indexed papers**: 53 papers in `wiki/implants/survival/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·생존율·실패위험
-**수록 논문**: 52편
+**수록 논문**: 53편
 **하위 카테고리**: 없음
 
-## Papers in this Category (52)
+## Papers in this Category (53)
 
 | Paper |
 |---|
@@ -71,6 +71,7 @@ tags: [navigation, category-index, survival]
 | [[oliveira-neto-2018-risk-bias-systematic-reviews-smokers|Risk of bias assessment of systematic reviews regarding dental implant placement in smokers: An umbrella systematic review]] |
 | [[pacheco-2025-dental-implant-survival-irradiated|Survival of dental implants in irradiated head and neck cancer patients compared to non-irradiated patients: An umbrella review]] |
 | [[popelut-2010-sponsorship-implant-failure-rate-sr|Relationship between Sponsorship and Failure Rate of Dental Implants: A Systematic Approach]] |
+| [[ramesh-2024-compression-necrosis-cause-concern-early|\"Compression Necrosis\" – A Cause of Concern for Early Implant Failure? Case Report and Review of Literature]] |
 | [[roccuzzo-2022-implants-periodontitis-history-20year-prospective|Implants in patients with/without periodontitis history: 20-year prospective study]] |
 | [[shahi-2026-implant-outcomes-diabetes-mellitus-sr|Dental implant outcomes in patients with diabetes mellitus: a systematic review]] |
 | [[shenoy-2025-dental-implant-failure-retrieval-techniques-scoping|Dental implant failure and retrieval techniques; a scoping review]] |
