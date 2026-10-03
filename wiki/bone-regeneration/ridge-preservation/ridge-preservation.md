@@ -15,20 +15,20 @@ tags: [navigation, category-index, ridge-preservation]
 > [!summary] 한국어 핵심요약
 > - **분야**: 골재생·치조제보존
 > - **범위**: Alveolar ridge preservation (ARP) / socket preservation — post-extraction dimensional changes (Araujo/Tan/Schropp), ARP efficacy SR/MA & Cochrane, grafting materials & sealing/socket-seal, flap vs flapless, biologics/PRF, esthetic-zone ARP, ARP→implant outcomes
-> - **수록 논문**: 89편
+> - **수록 논문**: 90편
 
 ## Three-line Summary
 
 **Scope**: Alveolar ridge preservation (ARP) / socket preservation — post-extraction dimensional changes (Araujo/Tan/Schropp), ARP efficacy SR/MA & Cochrane, grafting materials & sealing/socket-seal, flap vs flapless, biologics/PRF, esthetic-zone ARP, ARP→implant outcomes
-**Indexed papers**: 89 papers in `wiki/bone-regeneration/ridge-preservation/`.
+**Indexed papers**: 90 papers in `wiki/bone-regeneration/ridge-preservation/`.
 
 ## 세줄요약
 
 **분야**: 골재생·치조제보존
-**수록 논문**: 89편
+**수록 논문**: 90편
 **하위 카테고리**: 없음
 
-## Papers in this Category (89)
+## Papers in this Category (90)
 
 | Paper |
 |---|
@@ -58,6 +58,7 @@ tags: [navigation, category-index, ridge-preservation]
 | [[domic-2023-hyaluronic-acid-tooth-extraction-sr-ma|Hyaluronic Acid in Tooth Extraction: A Systematic Review and Meta-Analysis of Preclinical and Clinical Trials]] |
 | [[el-sioufi-2023-clinical-evaluation-different-alveolar|Clinical evaluation of different alveolar ridge preservation techniques after tooth extraction: a randomized clinical trial]] |
 | [[elizalde-mota-2024-bartee-bio-col-ridge-preservation-xenograft|Histomorphometric Evaluation of New Bone Formation, Dimensional Changes, and Residual Particles in Alveolar Ridge Preservation Techniques Using InterOss® Anorganic Cancellous Bone Graft: A Longitudinal Study]] |
+| [[fan-2021-ridge-preservation-novel-extraction-socket|Ridge preservation of a novel extraction socket applying Bio-Oss collagen: An experimental study in dogs]] |
 | [[feng-2024-autogenous-particulated-dentin-graft-arp|Efficacy of autogenous particulated dentin graft for alveolar ridge preservation: A systematic review and meta-analysis of randomized controlled trials]] |
 | [[fischer-2022-bone-envelope-arp-dbbm-sr-ma|Bone envelope for implant placement after alveolar ridge preservation: a systematic review and meta-analysis]] |
 | [[fok-2024-alveolar-socket-healing-evolving-knowledge|Learn, unlearn, and relearn post-extraction alveolar socket healing: Evolving knowledge and practices]] |
