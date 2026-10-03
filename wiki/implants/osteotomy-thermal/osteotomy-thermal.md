@@ -2,7 +2,7 @@
 title: "임플란트·골절개·발열 — osteotomy-thermal"
 authors: navigation
 year: 2026
-date: 2026-09-28
+date: 2026-10-03
 doi: N/A
 source: navigation
 category: implants/osteotomy-thermal
@@ -15,20 +15,20 @@ tags: [navigation, category-index, osteotomy-thermal]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·골절개·발열
 > - **범위**: Implant osteotomy preparation & thermal injury — bone-drilling heat generation and thermal-osteonecrosis thresholds, drill design/material/wear, irrigation & cooling (internal/external, CFD modelling), drilling speed and continuous vs intermittent protocols, piezosurgery, undersized preparation & ta…
-> - **수록 논문**: 42편
+> - **수록 논문**: 44편
 
 ## Three-line Summary
 
 **Scope**: Implant osteotomy preparation & thermal injury — bone-drilling heat generation and thermal-osteonecrosis thresholds, drill design/material/wear, irrigation & cooling (internal/external, CFD modelling), drilling speed and continuous vs intermittent protocols, piezosurgery, undersized preparation & tapping, guided-sleeve drilling temperature, histologic/histomorphometric implant-bed studies.
-**Indexed papers**: 42 papers in `wiki/implants/osteotomy-thermal/`.
+**Indexed papers**: 44 papers in `wiki/implants/osteotomy-thermal/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·골절개·발열
-**수록 논문**: 42편
+**수록 논문**: 44편
 **하위 카테고리**: 없음
 
-## Papers in this Category (42)
+## Papers in this Category (44)
 
 | Paper |
 |---|
@@ -44,14 +44,17 @@ tags: [navigation, category-index, osteotomy-thermal]
 | [[di-stefano-2018-undersizing-tapping-bic-primary-stability-bovine-histomorphometric|Effect of Undersizing and Tapping on Bone-to-Implant Contact and Primary Stability: Histomorphometric Study on Bovine Ribs]] |
 | [[einafshar-2024-importance-precision-cortical-bone-drilling|On the importance of precision in cortical bone drilling: Integrating experimental validation and computational modeling]] |
 | [[el-kholey-2019-drilling-technique-low-density-bone-sr|Does the Drilling Technique for Implant Site Preparation Enhance Implant Success in Low-Density Bone? A Systematic Review]] |
+| [[gedik-2025-four-drill-systems-ceramic-heat-osteotomy|Four Drill Systems Heat Comparison: Ceramic Drills Generate Significantly More Heat and Take Longer]] |
 | [[gehrke-2020-technique-drill-design-osteotomy|Effects of the technique and drill design used during the osteotomy on the thermal and histological stimulation]] |
 | [[gehrke-2021-healing-chambers-macrogeometry-low-density-drilling|Effects of the Healing Chambers in Implant Macrogeometry Design in a Low-Density Bone Using Conventional and Undersized Drilling]] |
+| [[gokce-uckun-2025-guided-surgery-cold-irrigation-temperature|Cold Irrigation (10°C) Most Effective for Guided Implant Surgery Thermal Control; Low-Speed Without Irrigation is NOT Safer]] |
 | [[heuzeroth-2021-thermal-exposure-osteotomy-osseointegration|Thermal exposure of implant osteotomies and its impact on osseointegration—A preclinical in vivo study]] |
 | [[hu-2019-evaluation-fluid-distribution-implant-site|An evaluation of fluid distribution at the implant site during implant placement by using a computational fluid dynamics model]] |
 | [[jain-2024-heat-generation-pain-piezosurgery-drilling|Heat Generation and Pain Assessment in Piezosurgery Versus Conventional Drilling for Implant Placement: A Systematic Review]] |
 | [[jung-2021-heat-development-medical-drilling-influencing|Heat Development During Medical Drilling: Influencing Factors and Examination Methods – Overview and First Results]] |
 | [[kapse-2022-thermal-effect-operatory-room-temperature-surgical|Thermal Effect of Operatory Room Temperature, Surgical Drill Diameter, and Temperature of Irrigants at Different Depths of Implant Site Preparation – Thermographic Analysis on Goat Mandible]] |
 | [[kim-2019-double-spiral-condensing-screw-implant|Condensing Screw for Implant Surgery with a Double-Spiral Structure (이중 스파이럴 구조의 임플란트 시술용 콘덴싱 스크류)]] |
+| [[kniha-2023-thermal-osteonecrosis-implant-removal-rat|Results of thermal osteonecrosis for implant removal on electron microscopy, implant stability, and radiographic parameters – a rat study]] |
 | [[kosior-2025-comparative-analysis-histological-characteristics|Comparative Analysis of the Histological Characteristics of Bone Tissue Following Implant Drill Preparation Under Various Parameters: An In Vitro Study]] |
 | [[kosior-2025-histological-histomorphometric-implant-bed-preparation|Histological and Histomorphometric Insights into Implant Bed Preparation: A Systematic Review]] |
 | [[marenzi-2018-micromorphological-structure-implant-drills|Clinical Influence of Micromorphological Structure of Dental Implant Bone Drills]] |
@@ -66,11 +69,10 @@ tags: [navigation, category-index, osteotomy-thermal]
 | [[sener-2009-effects-irrigation-temperature-heat-control|Effects of irrigation temperature on heat control in vitro at different drilling depths]] |
 | [[slete-2018-histomorphometric-comparison-three-osteotomy-techniques|Histomorphometric Comparison of 3 Osteotomy Techniques]] |
 | [[sorgato-2025-drill-bit-wear-temperature|Impact of drill bit wear on temperature increase in dental implant osteotomy: an in vitro study]] |
+| [[stoilov-2025-influence-drilling-protocol-primary-implant|Influence of Drilling Protocol on Primary Implant Stability Depending on Different Bone Qualities and Implant Macro-Designs, Lengths, and Diameters]] |
 | [[stubinger-2015-piezosurgery-implant-dentistry|Piezosurgery in implant dentistry]] |
 | [[tabassum-2021-undersized-axial-compression-primary-stability|Combined effect of undersized surgical technique and axial compression on the primary implant stability and host bone architecture]] |
 | [[timon-2019-thermal-osteonecrosis-bone-drilling-orthopedic|Thermal Osteonecrosis Caused by Bone Drilling in Orthopedic Surgery: A Literature Review]] |
+| [[tur-2025-scais-cip-guided-conventional-drill-diameter-heat|S-CAIS vs CIP Heat: Significant Differences Only at 3.5mm Drills; Irrigation Essential for Both Techniques]] |
 | [[woods-2022-does-irrigating-while-drilling-decrease|Does Irrigating While Drilling Decrease Bone Damage?]] |
 | [[yu-2022-primary-implant-stability-alternative-site-preparation-sr-ma|Primary Implant Stability Based on Alternative Site Preparation Techniques: A Systematic Review and Meta-Analysis]] |
-| [[gedik-2025-four-drill-systems-ceramic-heat-osteotomy|Four Drill Systems Heat Comparison: Ceramic Drills Generate Significantly More Heat and Take Longer]] |
-| [[gokce-uckun-2025-guided-surgery-cold-irrigation-temperature|Cold Irrigation (10°C) Most Effective for Guided Implant Surgery Thermal Control; Low-Speed Without Irrigation is NOT Safer]] |
-| [[tur-2025-scais-cip-guided-conventional-drill-diameter-heat|S-CAIS vs CIP Heat: Significant Differences Only at 3.5mm Drills; Irrigation Essential for Both Techniques]] |
