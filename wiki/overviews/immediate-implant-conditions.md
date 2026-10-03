@@ -67,12 +67,13 @@ LLM-Wiki `immediate-implant/` 24편 합성. SR+MA 4편 · SR 2편 · RCT 4편 ·
 | **prospective** | [[immediate-implant/esthetic-soft-tissue/chappuis-2013-ridge-alterations-post-extraction-esthetic]] | **얇은 협측벽 (≤1mm) 수직 소실 7.5mm vs 두꺼운 벽 1.1mm** | CBCT, n=39 |
 | **prospective(n=50)** | [[immediate-implant/covani-2010-alveolar-ridge-remodelling-single-tooth]] | 협측 중간부 흡수 39.1% (근원심의 2배); 치조정 56–65% 설측 이동 | ≥6mo |
 | **narrative-review** | [[immediate-implant/esthetic-soft-tissue/chappuis-2017-dimensional-bone-soft-tissue-post-extraction]] | **전방 상악 90%에서 협측골 <1mm**; 2/3가 3개월 내 흡수 | — |
+| **prospective** | [[immediate-implant/esthetic-soft-tissue/chappuis-2015-soft-tissue-alterations]] | 연조직이 7배 두꺼워지며 골소실 7.5mm를 가림 — 연조직 윤곽 양호해도 골 부족 판단 불가 | 박벽형 ST 0.7→~5mm, 8wk |
 
-**핵심** [확인]: bundle bone 완전 소실은 즉시식립 자체가 막을 수 없다. **얇은 협측벽 (≤1mm)이 가장 강력한 위험인자**.
+**핵심** [확인]: bundle bone 완전 소실은 즉시식립 자체가 막을 수 없다. **얇은 협측벽 (≤1mm)이 가장 강력한 위험인자**. 연조직 평가 단독으로는 골 상태 판단 불가 (Chappuis 2015).
 
 ### 1.2 발치 전 CBCT 평가 5항목 [확인]
 
-1. **협측벽 두께** (전치부 90%가 <1mm — Chappuis 2017)
+1. **협측벽 두께** — 전치부 90%가 <1mm (Chappuis 2017), 50%는 ≤0.5mm (Januário 2011 CBCT n=250), 87%의 전치부 협측이 ≤1mm (Huynh-Ba 2010 발치시 직접계측 n=93), micro-CT에서는 거의 모든 전치부가 <0.5mm이고 1/3에서 fenestration (Todorovic 2023)
 2. **협측벽 완전성** — 결손 여부
 3. **잔존 치근첨부터 비강·상악동 거리**
 4. **인접치 골 수준** — 유두 (papilla) 유지 가능성
