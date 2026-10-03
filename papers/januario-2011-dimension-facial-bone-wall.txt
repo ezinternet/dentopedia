@@ -1,0 +1,17 @@
+TITLE: Dimension of the facial bone wall in the anterior maxilla: a cone-beam computed tomography study.
+
+AUTHORS: Januário AL, Duarte WR, Barriviera M, Mesti JC, Araújo MG, Lindhe J
+
+JOURNAL: Clin Oral Implants Res 2011;22(10):1168-1171
+
+PMID: 21320168
+DOI: 10.1111/j.1600-0501.2010.02086.x
+
+--- ABSTRACT ---
+**OBJECTIVE:** To determine the thickness of the facial bone wall in the anterior dentition of the maxilla and at different locations apical to the cemento-enamel junction (CEJ).
+
+**MATERIAL AND METHODS:** Two-hundred and fifty subjects, aged between 17 and 66 years, with all maxillary front teeth present were included. Written informed consents were obtained. Cone-beam computed tomography scans were performed with the iCAT unit. This examination included all tooth and edentulous sites in the dentition. The images were acquired by means of the iCAT software and processed by a computer. Measurements of the (i) distance between the CEJ and the facial bone crest and (ii) the thickness of the facial bone wall were performed. The bone wall dimensions were assessed at three different positions in relation to the facial bone crest, i.e., at distances of 1, 3, and 5 mm apical to the crest.
+
+**RESULTS:** The measurements demonstrated that (i) the distance between the CEJ and the facial bone crest varied between 1.6 and 3 mm and (ii) the facial bone wall in most locations in all tooth sites examined was ≤1 mm thick and that close to 50% of sites had a bone wall thickness that was ≤0.5 mm.
+
+**CONCLUSION:** Most tooth sites in the anterior maxilla have a thin facial bone wall. Such a thin bone wall may undergo marked dimensional diminution following tooth extraction. This fact must be considered before tooth removal and the planning of rehabilitation in the anterior segment of the dentition in the maxilla.
