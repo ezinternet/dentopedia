@@ -10,8 +10,16 @@ evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/trombelli-2008-modeling-remodeling-human-extraction-sockets.pdf
 pdf_filename: trombelli-2008-modeling-remodeling-human-extraction-sockets.pdf
 source_collection: external
+full_text: false
 tags: []
 ---
+
+> [!warning] Abstract-only page — full text was NOT retrieved
+> The local PDF (`papers/trombelli-2008-...pdf`) is the **Wiley landing-page capture** — title page,
+> structured abstract, and reference list only. There is no body text, table, figure, or statistic in it.
+> Every claim on this page is sourced from the structured abstract; no quantitative or p-value data was available.
+> Note: the local PDF's author list (Trombelli, Farina, Marzola, Bozzi, Liljenberg, Lindhe) is authoritative —
+> some citation managers wrongly attribute this DOI to Trombelli/Covani/Marchetti/Parazzoli/Majeti/Cortellini.
 
 ## Three-line Summary
 
