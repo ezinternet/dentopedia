@@ -1,0 +1,17 @@
+TITLE: Buccal and palatal alveolar bone dimensions in the anterior maxilla: A micro-CT study.
+
+AUTHORS: Todorovic VS, Postma TC, Hoffman J, van Zyl AW
+
+JOURNAL: Clin Implant Dent Relat Res 2023;25(2):261-270
+
+PMID: 36596566
+DOI: 10.1111/cid.13175
+
+--- ABSTRACT ---
+**OBJECTIVE:** Anterior maxillary immediate implant placement has become a popular procedure. It has aesthetic and functional risks. A prerequisite for success is sufficient alveolar bone for primary stability. Many cone-beam computed tomography (CBCT) studies have assessed alveolar bone dimensions in the anterior maxilla, with varying results. More accurate information on the alveolar bone dimensions in the anterior maxilla is required. The objective of the present study was to evaluate bone dimensions in the anterior maxilla using micro-CT, a high-resolution imaging tool.
+
+**MATERIALS AND METHODS:** Seventy-two human skulls were scanned using micro-CT at the South African Nuclear Energy Corporation. Specialized software was used for 3-D rendering, segmentation, and visualization of the reconstructed volume data. Axial planes were created over each alveolus/tooth from canine to canine. Buccal and palatal bone dimensions were measured at crestal, 3 mm, 6 mm, and 9 mm levels.
+
+**RESULTS:** Buccal bone rarely exceeded 0.5 mm, consisting of bundle bone only for all investigated teeth at all levels. Up to a third of teeth showed buccal fenestrations. Alveolar bone on the palatal side was thicker than buccal and increased from <1 mm at crestal level up to 3.77 mm, 4.56 mm, and 5.43 mm for centrals, laterals, and canines at the 9 mm level, respectively.
+
+**CONCLUSIONS:** Immediate implants in the anterior maxillae has anatomical risks. Alveolar bone on the buccal aspect is very thin, with fenestrations in certain positions. Therefore, a thorough planning and individual approach are needed to avoid possible complications and achieve stable aesthetic and functional results in the long-term.
