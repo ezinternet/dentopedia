@@ -256,6 +256,7 @@ ARP 가 부족한 시나리오 — 이미 흡수된 ridge 재건 (수평 부족)
 |---|---|---|
 | [[bone-biology/kondo-2022-current-perspectives-residual-ridge]] | narrative-review | **Residual Ridge Resorption(RRR)은 pathological process** — 구강 barrier tissue lymphocyte 매개 osteoclast 활성화; 단순 disuse atrophy 모형의 한계 |
 | [[bone-biology/tokavanich-2025-control-alveolar-bone-development]] | animal (mouse, conditional KO) | SIK2/SIK3 (PTH/PTHrP signaling 하부) — 치조골 osteoblast maturation·BV/TV·발치 후 socket 치유 조절 |
+| [[bone-biology/omi-2022-roles-osteoclasts-alveolar-bone]] | narrative-review | **파골세포(osteoclast)가 치조골 재형성의 중심 effector** — 치조골은 배아세포기원·골화형태·치주조직 존재에서 일반 골격골과 구별; 과도한 파골흡수 = 치주염 등 턱골질환의 주요 기전; 파골세포 형성 억제가 치료 표적 |
 
 **임상 함의 (추가)**:
 - RRR이 pathological이라는 시각은 ARP의 합리화를 보강 — barrier function 회복 + lymphocyte 매개 osteoclast 차단 관점에서 ARP의 의의 재해석 가능. [미검증]
