@@ -2,7 +2,7 @@
 title: "임플란트 — implants"
 authors: navigation
 year: 2026
-date: 2026-09-07
+date: 2026-10-03
 doi: N/A
 source: navigation
 category: implants
@@ -16,21 +16,21 @@ tags: [navigation, category-index, implants]
 > - **분야**: 임플란트
 > - **범위**: Implant macrogeometry/thread & design, osseointegration biology, abutment & connection, bone quality/density, FEA stress analysis, failure risk factors & systemic-condition effects, flapless vs flapped surgery, zirconia vs titanium implants, prosthesis misfit — topics without their own subcategory.
 > - **하위 카테고리**: [[full-arch]] · [[isq]] · [[loading-protocol]] · [[mbl]] · [[osseodensification]] · [[osteotomy-thermal]] · [[peri-implantitis]] · [[short-narrow]] · [[soft-tissue]] · [[surface]] · [[survival]] · [[vertical-ridge-augmentation]] · [[vitamin-d]]
-> - **수록 논문**: 62편
+> - **수록 논문**: 67편
 
 ## Three-line Summary
 
 **Scope**: Implant macrogeometry/thread & design, osseointegration biology, abutment & connection, bone quality/density, FEA stress analysis, failure risk factors & systemic-condition effects, flapless vs flapped surgery, zirconia vs titanium implants, prosthesis misfit — topics without their own subcategory.
-**Indexed papers**: 62 papers in `wiki/implants/`.
+**Indexed papers**: 67 papers in `wiki/implants/`.
 **Sub-categories**: [[full-arch]], [[isq]], [[loading-protocol]], [[mbl]], [[osseodensification]], [[osteotomy-thermal]], [[peri-implantitis]], [[short-narrow]], [[soft-tissue]], [[surface]], [[survival]], [[vertical-ridge-augmentation]], [[vitamin-d]]
 
 ## 세줄요약
 
 **분야**: 임플란트
-**수록 논문**: 62편
+**수록 논문**: 67편
 **하위 카테고리**: full-arch, isq, loading-protocol, mbl, osseodensification, osteotomy-thermal, peri-implantitis, short-narrow, soft-tissue, surface, survival, vertical-ridge-augmentation, vitamin-d
 
-## Papers in this Category (62)
+## Papers in this Category (67)
 
 | Paper |
 |---|
@@ -40,6 +40,8 @@ tags: [navigation, category-index, implants]
 | [[ayoub-2024-abutment-bending-guide-one-piece-implant|Innovative Approach in Dental Implantology: A Case Study of Abutment Bending Verification Guide for One-Piece Compressive Implants]] |
 | [[bajaj-2023-ligaplants-pdl-tissue-engineering-implant|Ligaplants: Uprising Regimen in the Glebe of Implant Dentistry]] |
 | [[baldassarri-2012-mechanical-properties-plateau-root-form|Mechanical properties of human bone surrounding plateau root form implants retrieved after 0.3–24 years of function]] |
+| [[canullo-2026-hybrid-funnel-technique-mbl-3year|Hybrid Funnel Technique vs Conventional Drilling: 3-Year Marginal Bone Loss Trial]] |
+| [[casalino-2026-influence-immediate-versus-delayed-loading|Influence of Immediate Versus Delayed Loading on Peri-Implant Bone Healing: A Comparative FEA Study of Titanium Threaded and Scaffold Dental Implants]] |
 | [[ceddia-2025-crestal-position-splinted-implant-fea|Effect of Crestal Position on Bone–Implant Stress Interface of Three-Implant Splinted Prostheses: A Finite Element Analysis]] |
 | [[chang-2024-optimization-implant-design-bone-quality-fea|Optimization Approach to Dental Implant Design in Three Bone Qualities: A Finite Element Analysis]] |
 | [[chi-2024-customized-angled-abutment-tooth-inclination-fea|Design and Biomechanical Analysis of a Customized Angled Abutment Based on Tooth Inclination for Immediate Implant Placement in the Anterior Maxilla]] |
@@ -53,6 +55,7 @@ tags: [navigation, category-index, implants]
 | [[gallucci-2026-current-state-of-evidence-for|Current State of Evidence for Implant Placement and Loading in Partially Edentulous Patients: A Systematic Review.]] |
 | [[gaviria-2014-current-trends-dental-implants-review|Current trends in dental implants]] |
 | [[gehrke-2024-implant-dentistry-review-2024|Contemporary aspects of implant dentistry: a narrative review]] |
+| [[gehrke-2026-influence-reduced-cortical-bone-compression|Influence of Reduced Cortical Bone Compression by Implant Macrogeometry on Peri-Implant Bone Healing: An In Vitro and In Vivo Experimental Study]] |
 | [[hussein-2019-thread-depth-implant-shape-stress-mandible-fea|Thread Depth and Implant Shape on Stress Distribution in the Mandible: A Finite Element Analysis]] |
 | [[james-2025-future-dental-implants-trends-technologies|The Future of Dental Implants: A Narrative Review of Trends, Technologies, and Patient Considerations]] |
 | [[jokstad-2014-3d-misfit-implant-prosthesis-long-term|New 3D technologies applied to assess the long-term clinical effects of misfit of the full jaw fixed prosthesis on dental implants]] |
@@ -74,6 +77,7 @@ tags: [navigation, category-index, implants]
 | [[musskopf-2022-minipig-intraoral-implant-model-sr-ma|The minipig intraoral dental implant model: A systematic review and meta-analysis]] |
 | [[norton-2017-low-insertion-torque-primary-stability|Low Insertion Torque: Primary Stability, Survival, and Marginal Bone Levels]] |
 | [[ozturk-2026-stress-distribution-anterior-implant-fea|Stress distribution of an anteriorly placed single implant in different clinical scenarios: a 3D finite element analysis]] |
+| [[pachiou-2026-immediate-loading-single-implants-ma|De Novo RCT-Level MA: Immediate vs Early or Conventional Loading of Single Implants (1–5 Years)]] |
 | [[padhye-2020-quantitative-edentulous-posterior-maxilla|Quantitative Assessment of the Edentulous Posterior Maxilla for Implant Therapy: A Retrospective Cone Beam Computed Tomographic Study]] |
 | [[park-2024-dental-implant-utilization-nhis-korea|Analysis of the utilization rate of claimed dental implants and related factors]] |
 | [[park-2025-ari-implant-severely-resorbed-ridges|The Clinical Application of the ARi® Implant System in Severely Resorbed Anterior Alveolar Ridges: A Case Report]] |
@@ -90,6 +94,7 @@ tags: [navigation, category-index, implants]
 | [[seong-2016-external-internal-implant-connection-system|External vs internal implant connection system]] |
 | [[singh-2024-influence-implant-design-length-stress|Influence of implant design and length on stress distribution in immediately loaded implants in posterior maxilla – A two-dimensional finite element analysis]] |
 | [[spinelli-2023-tissue-level-laser-lok-flapless-4year|Tissue-Level Laser-Lok Implants Placed with a Flapless Technique: A 4-Year Clinical Study]] |
+| [[srikanth-2025-treatment-planning-single-tooth-implant|Treatment Planning for Single-Tooth Implant: A Clinical Guide and Literature Review]] |
 | [[stilwell-2024-occlusal-considerations-implant-maintenance|Occlusal considerations in maintaining health of implants and their restorations]] |
 | [[tarpara-2025-flapless-flapped-clinical-outcomes-cohort|Comparative Assessment of Clinical Outcomes in Flapless and Flapped Implant Surgical Techniques: A Prospective Cohort Study]] |
 | [[yang-2024-implant-diameter-tapered-stress-insertion|Effects of Dental Implant Diameter and Tapered Body Design on Stress Distribution During Insertion]] |
