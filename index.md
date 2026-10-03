@@ -4706,3 +4706,8 @@ tags: []
 - [[implants/survival/guarnieri-2025-analysis-risk-factors-related-early]] — Guarnieri 2025 · retrospective (개인의원, 392명·930개, 2000–2020, GEE): 조기 실패(지대주 연결 전/시점) 5.8%; 흡연·비매몰형(조직 수준) 치유·상악 구치부(OR 2.26, 95% CI 1.32–3.86)·남성(OR 1.54) 등 7요인 유의(흡연·비매몰 OR은 표에만 있어 미확보); 임플란트 디자인과 교란, 흡연×치유방식 교호작용 미검정 (DOI 10.3390/jcm14186546)
 - [[implants/survival/de-bruyn-2025-survival-bone-remodeling-hybrid-surface]] — De Bruyn 2025 · retrospective (네덜란드 1인 술자, 단일 하이브리드 표면 임플란트 101개, 12–62개월): 전부 치유지대주 동반 1단계 식립(매몰군 없음), 판막 49·무판막 28·즉시 24; 부하 전 실패 6개(5.9%), 흡연자 3/10(30%) vs 비흡연자 3/91(3.3%)이나 사건 3건뿐이고 술식별 흡연 층화·검정 없음 (DOI 10.3390/jcm14217699)
 - [[immediate-implant/yang-2026-immediate-dental-implants-insights-into]] — Yang 2026 · retrospective (중국 샤먼 단일기관, 즉시식립 1,513개·781명): 조기 실패 50·후기 36, 10년 생존 93.15%(환자단위 89.46%); 조기 실패 HR 남성 2.48·상악동거상 2.49·상악 전치부 3.15·구치부 2.75, **매몰형 치유 HR 0.53 (0.30–0.95)**; 매몰/비매몰은 삽입토크(<20–25 vs >35 Ncm)로 선택돼 교란, **흡연 미수집** (DOI 10.1186/s12903-026-08792-8)
+
+## Batch ingest (added 2026-10-03) — 오버히팅 × 임플란트 초기 실패 (PMC 전문 1편)
+
+### implants/survival
+- [[implants/survival/ramesh-2024-compression-necrosis-cause-concern-early]] — Ramesh 2024 · case-report (n=1, 33세 비흡연·비당뇨 여성, 하악 좌측 구치부 #19, 3.5×11.5mm, PMC 전문) · 언더사이징 드릴링(최종 3.2mm 드릴) + **무프리태핑** + 35–50 Ncm을 D2-D3 골에 적용 → 6주 IOPAR에서 임플란트 절반 길이까지 골소실(50%)·동요, fixture removal kit으로 제거; 재수술 채취골(0.3×0.15×0.05cm) 조직에서 **무염증(asceptic) 골괴사** 확인(골성 소주 + 골아세포 테두리 부재 + 생존골 전무 + 빈 골세포소강); **과열은 생리식염수 관주로 배제**(47°C/1분 임계 인용), 감염·전신은 임상·혈액(CBC·ESR·바이러스 표지 전부 정상)으로 배제 → 과압박 유력; 예방 4조(정밀 술식·제조사 권장 토크 상한·1/4회전 역회전·밀골 프리태핑), 논문 자체 내부 불일치 2건(1개월 이내 실패 vs 실제 6주 / 35 Ncm 안전 상한 vs 실제 35–50 Ncm) 명기 (DOI 10.2147/CCIDE.S453798)
