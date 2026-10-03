@@ -2,7 +2,7 @@
 title: "보철재료·지대주나사 — abutment-screw"
 authors: navigation
 year: 2026
-date: 2026-09-28
+date: 2026-10-03
 doi: N/A
 source: navigation
 category: prosthetic-materials/abutment-screw
@@ -15,29 +15,31 @@ tags: [navigation, category-index, abutment-screw]
 > [!summary] 한국어 핵심요약
 > - **분야**: 보철재료·지대주나사
 > - **범위**: Implant abutment screw & retention biomechanics — preload, removal/insertion torque, screw-loosening, settling effect, retightening, screw coatings, morse-taper/conical connections, screw- vs cement-retention comparisons
-> - **수록 논문**: 37편
+> - **수록 논문**: 39편
 
 ## Three-line Summary
 
 **Scope**: Implant abutment screw & retention biomechanics — preload, removal/insertion torque, screw-loosening, settling effect, retightening, screw coatings, morse-taper/conical connections, screw- vs cement-retention comparisons
-**Indexed papers**: 37 papers in `wiki/prosthetic-materials/abutment-screw/`.
+**Indexed papers**: 39 papers in `wiki/prosthetic-materials/abutment-screw/`.
 
 ## 세줄요약
 
 **분야**: 보철재료·지대주나사
-**수록 논문**: 37편
+**수록 논문**: 39편
 **하위 카테고리**: 없음
 
-## Papers in this Category (37)
+## Papers in this Category (39)
 
 | Paper |
 |---|
 | [[aalaei-2017-segmented-nonsegmented-abutment-fea|Stress distribution pattern of screw-retained restorations with segmented vs. non-segmented abutments: A finite element analysis]] |
 | [[angermair-2024-microgap-abutment-displacement-implant-connection|In vitro assessment of internal implant-abutment connections with different cone angles under static loading using synchrotron-based radiation]] |
 | [[arul-2026-comparative-evaluation-of-abutment-screw|Comparative evaluation of abutment screw loosening with two different thread lockers under cyclic loading: An in vitro study]] |
+| [[aydin-2026-torque-accuracy-spring-style-dental-torque|Torque Accuracy of Spring-Style Dental Torque Wrenches After Repeated Mechanical Loading and Sterilization: An In Vitro Study]] |
 | [[bulaqi-2015-dynamic-nature-abutment-screw-retightening|Dynamic nature of abutment screw retightening: finite element study of the effect of retightening on the settling effect]] |
 | [[coelho-2024-preload-removal-torque-screw-coatings-laboratory|GapSeal vs PTFE Tape Screw Coatings: Effect on Preload and Removal Torque (In Vitro)]] |
 | [[coelho-2025-screw-coating-ptfe-gapseal-cyclic-load|PTFE Tape vs GapSeal Screw Coating Under Cyclic Loading: RTV Reversal Effect]] |
+| [[fayaz-2014-effect-sterilization-number-use-accuracy|The effect of sterilization and number of use on the accuracy of friction-style mechanical torque limiting devices for dental implants]] |
 | [[hamed-2020-screw-vs-cement-implant-sr|Screw vs Cement-Retained Implant-Supported Reconstructions: A Systematic Review]] |
 | [[hjerppe-2026-ti-base-custom-abutment-monolithic-zirconia-rct|3-Year RCT: Screw-Retained Monolithic ZrO₂ Crown on Ti-Base vs Customized Ti Abutment]] |
 | [[khurshid-2025-screw-vs-cement-crown-complications|Assessment of Prosthodontic Complications in Screw-Retained vs Cement-Retained Implant Crowns]] |
