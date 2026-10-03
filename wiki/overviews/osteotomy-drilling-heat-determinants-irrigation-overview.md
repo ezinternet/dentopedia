@@ -69,7 +69,7 @@ relations:
 
 ## Three-line Summary
 
-Synthesis of 28 papers on implant osteotomy drilling heat, reorganized from "list of factors" into an evidence-weighted ranking of *what to actually control*: the 47°C/1-min necrosis threshold (Timon 2019 cross-specialty; ~50°C orthopedic), a multifactorial framing (Chauhan 2018 SR 34 studies; Jung 2021 internal-vs-external taxonomy), and the biological endpoint (Heuzeroth 2021 in vivo minipig, n=36; Kosior 2025 histologic bone-bed scoring).
+Synthesis of 36 papers on implant osteotomy drilling heat, reorganized from "list of factors" into an evidence-weighted ranking of *what to actually control*: the 47°C/1-min necrosis threshold (Timon 2019 cross-specialty; ~50°C orthopedic), a multifactorial framing (Chauhan 2018 SR 34 studies; Jung 2021 internal-vs-external taxonomy), and the biological endpoint (Heuzeroth 2021 in vivo minipig, n=36; Kosior 2025 histologic bone-bed scoring).
 
 Across studies that pitted determinants against each other, **irrigation temperature is the single most reproducible lever** — the only significant factor when four were tested head-to-head (Kapse 2022), with chilled 5–10°C saline consistently outperforming room temperature (Sener 2009, Raj 2021, Markovic 2016, Woods 2022 in vivo) and irrigation *volume* plateauing near 60 mL/min (Hu 2019 CFD; Aquilanti 2023 found temperature dominant over volume); **drill wear is the second-tier independent driver** (Sorgato 2025, Bernabeu-Mira 2020, Marenzi 2018 — replace on schedule, design twisted<straight), while **guided-surgery sleeves add cortical-entrance heat by blocking irrigation** (Markovic entrance-only rho=0.868; Saxena 2024 SR), **sequential drilling is not automatically protective** (Rugova 2024, no-irrigation extreme), and operatory room temperature, drill diameter, drilling depth, feed rate, and drill *material* are low-priority (Kapse NS; Hu feed-rate NS; Chakraborty 2024 SR inconclusive on material with wear the only consistent signal — zirconia the lone pooled exception, Bento 2023, still in vitro).
 
@@ -79,7 +79,7 @@ Most in-vitro absolute temperatures overstate clinical risk because they omit ir
 
 ## 세줄요약
 
-임플란트 골절제 드릴링 발열 28편을 "요인 나열"이 아니라 **무엇을 실제로 통제할지의 근거가중 순위**로 재구성: 47°C/1분 괴사 역치(Timon 2019 교차검증; 정형외과 ~50°C), 다인자 프레이밍(Chauhan 2018 SR 34편; Jung 2021 내부·외부 인자 분류), 생물학적 endpoint(Heuzeroth 2021 in vivo 미니피그 n=36; Kosior 2025 조직학적 골상 점수).
+임플란트 골절제 드릴링 발열 36편을 "요인 나열"이 아니라 **무엇을 실제로 통제할지의 근거가중 순위**로 재구성: 47°C/1분 괴사 역치(Timon 2019 교차검증; 정형외과 ~50°C), 다인자 프레이밍(Chauhan 2018 SR 34편; Jung 2021 내부·외부 인자 분류), 생물학적 endpoint(Heuzeroth 2021 in vivo 미니피그 n=36; Kosior 2025 조직학적 골상 점수).
 
 여러 결정인자를 맞대결시킨 연구에서 **관주 온도가 가장 재현성 높은 지렛대** — 4개 요인 동시비교에서 유일하게 유의(Kapse 2022), 냉각 5–10°C saline이 상온보다 일관되게 우수(Sener 2009, Raj 2021, Markovic 2016, Woods 2022 in vivo), 관주 유량은 ~60 mL/min에서 임계점(Hu 2019 CFD; Aquilanti 2023은 유량보다 온도 지배); **드릴 마모가 2순위 독립 인자**(Sorgato 2025, Bernabeu-Mira 2020, Marenzi 2018 — 교체주기 준수, 설계 twisted<straight), **가이드 슬리브는 외부관주 차단으로 피질골 입구 발열 증가**(Markovic 입구부 rho=0.868; Saxena 2024 SR), **순차드릴링은 자동 안전장치 아님**(Rugova 2024, 무관주 극단), 실온·드릴직경·깊이·feed rate·**재질**은 하위 우선순위(Kapse NS; Hu feed-rate NS; Chakraborty 2024 SR 재질 결론불가·마모만 일관 — 지르코니아만 pooled 예외 Bento 2023, 여전히 in vitro).
 
