@@ -22,7 +22,7 @@ relations:
 
 > [!summary] 한국어 핵심요약
 > - 이 페이지의 핵심 명제: 치조제 보존술(Alveolar Ridge Preservation, ARP)은 보편 권고가 아니라 **시나리오 의존적 개입**이며, "언제 안 해도 되나·왜 실패하나·무엇을 더할 수 있나"를 다루는 do-ARP의 짝(counterpoint) 페이지다.
-> - 발치 후 협측골 흡수는 다발골(bundle bone) 의존성 때문에 **생물학적으로 불가피** — 즉시식립 단독으로도 막지 못한다 (Araujo 2005, 개 조직학). [확인]
+> - 발치 후 협측골 흡수는 다발골(bundle bone) 의존성 때문에 **생물학적으로 불가피** — 즉시식립 단독으로도 막지 못한다 (Araujo 2005, 개 조직학). 파골세포(osteoclast)는 이 흡수의 중심 effector이며, 치조골은 배아세포기원·골화형태·치주조직 존재에서 일반 골격골과 구별됨 — 과도한 파골흡수가 치주염 등 턱골질환의 주요 기전 (Omi & Mishina 2022 narrative review). [확인]
 > - 자연 치유 1년 동안 협설폭(buccolingual width) ~50% 감소, 그 중 2/3가 첫 3개월에 발생 (Schropp 2003, 인간 전향). ARP·즉시식립 timing 임계값.
 > - ARP를 **하지 말아야 할** 시나리오: ①후방부 두꺼운 협측 골벽(BBT ≥ 1.5 mm) + 식립 예정 ②즉시식립 가능 부위 ③이미 GBR 예정인 큰 결손 ④임플란트 계획 없는 가철식/FPD (심미부위 예외).
 > - ARP 후 임플란트 실패의 단일 유의 예측인자는 **순수골 결합(Pristine Bone Engagement, PBE) < 1.1 mm → HR 2.50** (Kang 2025, n=528). 임플란트 길이가 graft zone보다 ≥1.1 mm 더 native bone에 박히도록 계획.
