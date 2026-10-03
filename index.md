@@ -159,6 +159,7 @@ tags: []
 - [[implants/casalino-2026-influence-immediate-versus-delayed-loading]] — Casalino 2026 · in-vitro FEA+mechanobiology (나사형 vs 다공성 64.26% 임플란트, IL/DL): 즉시부하에서 다공성 임플란트가 피질골 응력 88→32.5 MPa(63%↓)·가골 자극 ~2.5→20.5~31.6 MPa로 증대, P-H 자극 예측상 미성숙·성숙골 84.8%(vs 46.7%)·연골 14.5%(vs 50.4%) → 즉시부하 초기 치유·응력 차폐 감소에 유리 (DOI 10.3390/ma19081607)
 - [[implants/survival/alrowis-2025-factors-affecting-dental-implant-failure-retrospective]] — 후향적 환자대조연구 (King Saud대, 사우디; 2017–2022 적출 실패 임플란트 132개): 적출 사유 골유착 부족 36.4%·초기고정(일차안정성) 부재 22.4% 2위·주변임플란트염(Peri-implantitis) 14.0%; 생존의 유의 예측인자는 임플란트 유형(p=0.004)·보철 유형(p=0.001, OD 3.44배·크라운 2.42배 실패 위험↑); 성별(p=0.001)·전신질환·흡연(p=0.004)이 실패 기전과 연관, 실패 환자의 63.6%가 정기관리(메인터넌스) 미이행 (DOI 10.3390/healthcare13121356)
 - [[implants/survival/multicenter-2024-survival-analysis-private-practice-prospective]] — Li 2024 · prospective · 민간 2곳 다기관 전향적 코호트 (80명, 166개 Avinent 임플란트, 2015–2017, 24개월): 누적생존율 97.44%(95%CI 93.30–99.03), 실패 4건(2.41%); 일차안정성(Primary Stability) 부재 HR 23.54·이갈이(Bruxism) HR 96.62 (p<0.001, 단변량); 넓은 CI 주의 (DOI 10.4317/jced.61457)
+- [[implants/srikanth-2025-treatment-planning-single-tooth-implant]] — 보철지향적 단일치 임플란트 치료계획 서술적 고찰: 근원심 6–7 mm·협순골 ≥6 mm(모든 면 ≥1.5 mm 잔존골)·교합 간 5–7 mm 보편 기준과 4부위별 우선순위(상악 전치 D3 platform 3–4 mm 아피칼 / 상악 후치 D4 언더드릴 ~0.5 mm·수직골 ≥10 mm·치유 >4–6개월 / 하악 전치 D1–D2 3–4개월 / 하악 후치 D2 하악관 2 mm·mental foramen 5 mm·크라운:임플란트 1:1·성공률 >95%), triangle of bone 배치 개념
 
 ## 임플란트 — 표면처리·골유착 심화 (Osseointegration Theory)
 - [[implants/albrektsson-1981-osseointegrated-titanium-implants-requirements]] — 랜드마크(1981): 골유착을 직접 골-임플란트 접촉으로 정의(최초 인체 TEM)+6대 전제(재료·디자인·표면·골상태·술식·부하조건)
@@ -340,6 +341,8 @@ tags: []
 - [[implants/osseodensification/frizzera-2022-effect-osseodensification-increase-ridge-thickness]] — 무작위 split-mouth in vitro(신선 돼지 하악, n=10/군): OD(Densah)가 CTL 대비 순측 골 결손 높이·폭 유의 감소(0.37 vs 2.5mm), 치조정 순측 능선 확장 유의 증가(0.66 vs 0.18mm), 삽입토크 ↑(49.9 vs 40.4 N·cm) — 협측 결손 예방 기전 근거
 - [[implants/osseodensification/ibrahim-2025-osseodensification-conventional-drilling-dogs-maxilla]] — 잡종견 8마리 분할구강, OD Densah vs 통상 NucleOSS 드릴: 2개월 골면적비 H&E 22.26% vs 11.11% (p<0.001), CBCT 골밀도 협측 1679 vs 920 (p<0.001)
 - [[implants/osteotomy-thermal/kniha-2023-thermal-osteonecrosis-implant-removal-rat]] — 쥐 경골 in vivo: 50°C/60초에서 TEM 비가역 골세포 괴사·EDX 칼슘 유의 증가(p<0.01) → 열폭발적제거(Thermoexplantation) 후보 임계값 확인
+- [[implants/osteotomy-thermal/stoilov-2025-influence-drilling-protocol-primary-implant]] — PU 폼(10/15/25/35 PCF) 벤치 연구(N=2340)에서 드릴링 프로토콜이 삽입토크에 유의한 영향을 미쳤으나(4개 골밀도 모두 p<0.001) 밀도별로 상반 — D1은 과대직경 준비(5.2 mm는 80 Ncm 초과), D2는 소직경에 언더사이즈, D4(10 PCF)는 어떤 프로토콜도 적정범위 25–50 Ncm 도달 실패(0/10)
+- [[implants/gehrke-2026-influence-reduced-cortical-bone-compression]] — 치유챔버 거시형태가 삽입토크를 5.70 vs 8.01 Ncm로 낮췄음에도(p<0.0001) 오히려 21일 토끼 경골 C2·C3에서 골-임플란트 접촉률이 높았음(C2 59.30% vs 40.30%, C3 42.10% vs 17.90%, p=0.0002) — 낮출수록 잘 치유되는 역방향 관계(체외+체내 결합 전임상)
 
 ## 임플란트 — 표면처리·골유착 (Implant Surface / Osseointegration)
 - [[implants/surface/koshy-2015-dental-implant-surfaces-overview]] — Koshy 2015, titanium implant surface modification methods (additive/subtractive) narrative overview
@@ -1162,6 +1165,8 @@ tags: []
 - [[prosthetic-materials/abutment-screw/packaeser-2025-effect-resin-composite-filling-thickness]] — 지르코니아 어버트먼트 스크류 접근홀 봉쇄 레진 두께 인비트로 피로시험: 1.5mm 이상 채워야 피로강도 유의 개선(1426N vs 대조군 1120N, p≤0.05)
 - [[prosthetic-materials/abutment-screw/pereira-2016-influence-sealing-screw-access-hole]] — 나사유지 임플란트 보철물 30개(3군×10) 벤치 실험: 스크류 접근홀(SAH) 실링 유무(SRS vs SRNS) 간 파절저항 유의차 없음, 시멘트유지(CR)군이 파절저항 최고치
 - [[prosthetic-materials/abutment-screw/singla-2025-comparative-microbial-assessment-different-screw]] — SAH 충전재 비교 RCT(35명/45임플란트): PTFE·1%CHX 면 모두 면(cotton) 대비 세균오염 유의하게 낮음(혐기성 양성률 면 95%→PTFE 50%/Co1%CHX 20%), IL-6는 3개월간 유의변화 없음
+- [[prosthetic-materials/abutment-screw/fayaz-2014-effect-sterilization-number-use-accuracy]] — 마찰식 토크제한장치(F-S MTLD) 15개를 증기 멸균 100주기 노화 모사한 in vitro 연구: 초기엔 개체별 ±10% 내 유지했으나 반복 후 체계적 과소전달 발생 — 최대 절대오차 BioHorizons 7.75 Ncm(목표 30 Ncm 대비 25.83%, 측정치 76%가 10% 초과), Astra Tech 3.35 Ncm(13.4%), Dr. Idhe 3.75 Ncm(12.5%); 제조사 간 절대오차 유의한 차이(P<0.05)로 교정 주기 일률 적용 불가
+- [[prosthetic-materials/abutment-screw/aydin-2026-torque-accuracy-spring-style-dental-torque]] — 스프링식 기계식 토크제한장치(MTLD) 9개를 40회 반복 하중+134°C 소균 후 제조사별 정확도 비교한 in vitro 연구; 평균 백분율 편차 Astra Tech 3.33%·Implance 11.43%·DIO 16.67%, ±10% 허용범위 초과율 5%/60%/95%(χ²=99.241, p<0.001) — 스프링식 설계만으로는 정확도 보장 안 되므로 식재(35 Ncm)·나사체결(25 Ncm) 개별 토크값에서 MTLD-임플란트 조합 검증 필요
 
 ## 총의치·가철성보철 (Complete Denture / Removable Prosthodontics — added 2026-06-16)
 - [[complete-denture/refai-2026-occlusion-disocclusion-implant-overdentures-splinted]] — Refai 2026 · rct (n=36, 3군×12, T-Scan) · 즉시부하 2-임플란트 하악 오버덴처 **연결(용접바 IW) vs 비연결(볼 IB) vs 총의치(CD)**: 두 임플란트군 모두 CD보다 교합/이개시간 짧음(OT CD 0.52 vs IB 0.35 vs IW 0.29s, p<0.001), 단 IB≈IW(무유의차) → 임플란트 2개 연결의 교합기능 이점 없음 (DOI 10.1186/s12903-026-08855-w)
