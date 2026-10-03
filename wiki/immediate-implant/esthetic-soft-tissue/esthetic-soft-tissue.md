@@ -2,7 +2,7 @@
 title: "즉시식립·심미연조직 — esthetic-soft-tissue"
 authors: navigation
 year: 2026
-date: 2026-09-29
+date: 2026-10-03
 doi: N/A
 source: navigation
 category: immediate-implant/esthetic-soft-tissue
@@ -15,20 +15,20 @@ tags: [navigation, category-index, esthetic-soft-tissue]
 > [!summary] 한국어 핵심요약
 > - **분야**: 즉시식립·심미연조직
 > - **범위**: Immediate implant esthetic & soft-tissue outcomes — immediate provisionalization, connective-tissue/soft-tissue grafting (SCTG/CTG), midfacial recession & papilla, pink esthetic score, buccal-dehiscence esthetic, esthetic-zone selection criteria
-> - **수록 논문**: 68편
+> - **수록 논문**: 69편
 
 ## Three-line Summary
 
 **Scope**: Immediate implant esthetic & soft-tissue outcomes — immediate provisionalization, connective-tissue/soft-tissue grafting (SCTG/CTG), midfacial recession & papilla, pink esthetic score, buccal-dehiscence esthetic, esthetic-zone selection criteria
-**Indexed papers**: 68 papers in `wiki/immediate-implant/esthetic-soft-tissue/`.
+**Indexed papers**: 69 papers in `wiki/immediate-implant/esthetic-soft-tissue/`.
 
 ## 세줄요약
 
 **분야**: 즉시식립·심미연조직
-**수록 논문**: 68편
+**수록 논문**: 69편
 **하위 카테고리**: 없음
 
-## Papers in this Category (68)
+## Papers in this Category (69)
 
 | Paper |
 |---|
@@ -43,6 +43,7 @@ tags: [navigation, category-index, esthetic-soft-tissue]
 | [[buser-2017-implant-placement-timing-post-extraction-esthetic|Implant placement post extraction in esthetic single tooth sites: when immediate, when early, when late?]] |
 | [[chan-2019-randomized-controlled-trial-compare-aesthetic|A randomized controlled trial to compare aesthetic outcomes of immediately placed implants with and without immediate provisionalization]] |
 | [[chappuis-2013-ridge-alterations-post-extraction-esthetic|Ridge Alterations Post-extraction in the Esthetic Zone: A 3D Analysis with CBCT]] |
+| [[chappuis-2015-soft-tissue-alterations|Soft Tissue Alterations in Esthetic Postextraction Sites: A 3-Dimensional Analysis]] |
 | [[chappuis-2017-dimensional-bone-soft-tissue-post-extraction|Clinical relevance of dimensional bone and soft tissue alterations post-extraction in esthetic sites]] |
 | [[chen-2009-clinical-esthetic-outcomes-implants-postextraction|Clinical and Esthetic Outcomes of Implants Placed in Postextraction Sites]] |
 | [[chen-2014-esthetic-outcomes-immediate-early-implant|Esthetic Outcomes Following Immediate and Early Implant Placement in the Anterior Maxilla — A Systematic Review]] |
