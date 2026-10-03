@@ -2,7 +2,7 @@
 title: "골재생·치조제보존 — ridge-preservation"
 authors: navigation
 year: 2026
-date: 2026-10-03
+date: 2026-10-04
 doi: N/A
 source: navigation
 category: bone-regeneration/ridge-preservation
@@ -15,20 +15,20 @@ tags: [navigation, category-index, ridge-preservation]
 > [!summary] 한국어 핵심요약
 > - **분야**: 골재생·치조제보존
 > - **범위**: Alveolar ridge preservation (ARP) / socket preservation — post-extraction dimensional changes (Araujo/Tan/Schropp), ARP efficacy SR/MA & Cochrane, grafting materials & sealing/socket-seal, flap vs flapless, biologics/PRF, esthetic-zone ARP, ARP→implant outcomes
-> - **수록 논문**: 88편
+> - **수록 논문**: 89편
 
 ## Three-line Summary
 
 **Scope**: Alveolar ridge preservation (ARP) / socket preservation — post-extraction dimensional changes (Araujo/Tan/Schropp), ARP efficacy SR/MA & Cochrane, grafting materials & sealing/socket-seal, flap vs flapless, biologics/PRF, esthetic-zone ARP, ARP→implant outcomes
-**Indexed papers**: 88 papers in `wiki/bone-regeneration/ridge-preservation/`.
+**Indexed papers**: 89 papers in `wiki/bone-regeneration/ridge-preservation/`.
 
 ## 세줄요약
 
 **분야**: 골재생·치조제보존
-**수록 논문**: 88편
+**수록 논문**: 89편
 **하위 카테고리**: 없음
 
-## Papers in this Category (88)
+## Papers in this Category (89)
 
 | Paper |
 |---|
@@ -98,6 +98,7 @@ tags: [navigation, category-index, ridge-preservation]
 | [[pickert-2022-cbct-evaluation-dimensional-hard-tissue|Cone-beam computed tomographic evaluation of dimensional hard tissue changes following alveolar ridge preservation techniques of different bone substitutes: a systematic review and meta-analysis]] |
 | [[poli-2017-socket-preservation-dbbm-collagen-matrix-histology|Healing of post-extraction sockets following alveolar ridge preservation with demineralised bovine bone mineral and collagen matrix]] |
 | [[razi-2024-prf-fdba-peri-implant-ridge-preservation|Impact of Platelet-Rich Fibrin (PRF) Versus Freeze-Dried Bone Allograft (FDBA) on Peri-Implant Soft and Hard Tissue in Alveolar Ridge Preservation]] |
+| [[saliba-2020-collagen-xenograft-bovine-bone-inserted|Collagen Versus Xenograft Bovine Bone Inserted Into Extraction Sockets: Healing and Pain Management]] |
 | [[sanchez-perez-2025-dbbm-alveolar-ridge-preservation-histologic|The Efficacy of a Deproteinized Bovine Bone Mineral Graft for Alveolar Ridge Preservation: A Histologic Study in Humans]] |
 | [[scheyer-2016-alveolar-ridge-preservation-multicentre-rct|A randomized, controlled, multicentre clinical trial of post-extraction alveolar ridge preservation]] |
 | [[schropp-2003-bone-healing-soft-tissue|Bone healing and soft tissue contour changes following single-tooth extraction: a clinical and radiographic 12-month prospective study]] |
