@@ -12,7 +12,13 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/stoilov-2023-macrodesign-length-diame
 pdf_filename: stoilov-2023-macrodesign-length-diameter-bone-quality-isq.pdf
 source_collection: external
 tags: [ISQ, macro-design, tapered, diameter, length, bone-quality, PU-foam, primary-stability, in-vitro]
+superseded_by: stoilov-2025-influence-drilling-protocol-primary-implant
+superseded_scope: partial
 ---
+
+> [!note] Partially superseded → [[implants/osteotomy-thermal/stoilov-2025-influence-drilling-protocol-primary-implant]]
+> 이 페이지의 **드릴링 프로토콜 권고(Clinical Takeaway #3)** 와 **테이퍼형 일관 우위(#2)** 가 2025년 후속 연구에서 뒤집혔다. 같은 저자·같은 벤치 모델(PU 폼)의 후속 논문으로, 본 논문이 "향후 연구 과제"로만 남겨둔 under-/over-preparation를 실제로 시험했다: **D1(35 PCF, 가장 치밀한 골)에서는 과대직경 준비(overpreparation)가 압박괴사를 막는 올바른 방향**이며(저자들은 D1에 과대직경 프로토콜만 적용), 반대로 본 논문 Discussion이 인용해 권고했던 "경골에서는 언더사이즈"는 D1에서 시험조차 되지 않았다. 또한 매크로지오메트리는 D4에서 "minor role"이고 평행형이 테이퍼형에 뒤지지 않았다.
+> **이 페이지가 여전히 유효한 부분**: **직경 > 길이** 결론은 2025년 논문에서 그대로 확인되었다("primarily influenced by bone density and implant diameter, with implant length playing a minor role"). 2023 논문은 ISQ/공진주파수(RFA)를 함께 측정해 이 축의 유일한 근거이며, 2025 논문은 삽입토크(IT)만 썼다 — 즉 **ISQ 축의 근거는 여전히 이 페이지다**. (set 2026-10-03)
 
 ## Three-line Summary
 
@@ -47,11 +53,12 @@ In vitro study using PU foam blocks at 4 densities (D1–D4 analog: 35/25/15/10 
 - Tapered optimal IT: 13 Ncm (D1 35PCF) to 40 Ncm (D2 25PCF)
 
 ## Clinical Takeaway
-1. **Prioritize diameter over length** when choosing implant dimensions for soft bone
-2. **Tapered design** provides significantly better primary ISQ in all bone types
-3. **Adapt drilling protocol to bone quality** — under-preparation in hard bone, no over-preparation in soft bone
+1. **Prioritize diameter over length** when choosing implant dimensions for soft bone — *유효함: 2025 후속 연구에서 그대로 확인됨*
+2. ~~**Tapered design** provides significantly better primary ISQ in all bone types~~ — *부분 폐기: 2025 후속 연구에서 매크로지오메트리는 D4에서 "minor role", 평행형이 뒤지지 않음. 단 본 논문의 ISQ 측정 축 자체는 여전히 유효*
+3. ~~**Adapt drilling protocol to bone quality** — under-preparation in hard bone, no over-preparation in soft bone~~ — **방향이 뒤집힘**: D1(가장 치밀한 골)에서는 **과대직경 준비(overpreparation)** 가 압박괴사 방지 목적상 옳고, D2에서는 소직경에 언더사이즈가 유일한 방법, D4에서는 어떤 조정도 실패. 본 논문은 이 축을 시험하지 않았고, 논문 자체가 Discussion에서 "향후 연구 과제"로 남겨둔 바 있다 — [[implants/osteotomy-thermal/stoilov-2025-influence-drilling-protocol-primary-implant]] 참조
 
 ## Related Papers
+- [[implants/osteotomy-thermal/stoilov-2025-influence-drilling-protocol-primary-implant]] — **후속 연구(supersedes, partial)**: 같은 저자·같은 PU 폼 모델, 본 논문이 남겨둔 드릴링 프로토콜 과제를 실제 시험 — 위 Takeaway #2·#3 반전 근거
 - [[implants/isq/nandini-2022-cylindrical-vs-tapered-implant-isq]] — in vivo confirmation: tapered > cylindrical ISQ
 - [[sinus-lift/lateral/allurkar-2025-implant-stability-residual-bone-macrodesign]] — sinus-specific: tapered macro-design advantage at RBH 6-9mm
 - [[implants/isq/huang-2020-isq-clinical-significance-literature-review]] — literature framework: diameter and macro-design as top-ranked ISQ factors
