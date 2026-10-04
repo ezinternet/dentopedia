@@ -2,7 +2,7 @@
 title: "임플란트 — implants"
 authors: navigation
 year: 2026
-date: 2026-10-03
+date: 2026-10-04
 doi: N/A
 source: navigation
 category: implants
@@ -15,22 +15,22 @@ tags: [navigation, category-index, implants]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트
 > - **범위**: Implant macrogeometry/thread & design, osseointegration biology, abutment & connection, bone quality/density, FEA stress analysis, failure risk factors & systemic-condition effects, flapless vs flapped surgery, zirconia vs titanium implants, prosthesis misfit — topics without their own subcategory.
-> - **하위 카테고리**: [[full-arch]] · [[isq]] · [[loading-protocol]] · [[mbl]] · [[osseodensification]] · [[osteotomy-thermal]] · [[peri-implantitis]] · [[short-narrow]] · [[soft-tissue]] · [[surface]] · [[survival]] · [[vertical-ridge-augmentation]] · [[vitamin-d]]
-> - **수록 논문**: 67편
+> - **하위 카테고리**: [[full-arch]] · [[isq]] · [[loading-protocol]] · [[mbl]] · [[osseodensification]] · [[osteotomy-thermal]] · [[peri-implantitis]] · [[ridge-augmentation]] · [[short-narrow]] · [[soft-tissue]] · [[surface]] · [[survival]] · [[vertical-ridge-augmentation]] · [[vitamin-d]]
+> - **수록 논문**: 71편
 
 ## Three-line Summary
 
 **Scope**: Implant macrogeometry/thread & design, osseointegration biology, abutment & connection, bone quality/density, FEA stress analysis, failure risk factors & systemic-condition effects, flapless vs flapped surgery, zirconia vs titanium implants, prosthesis misfit — topics without their own subcategory.
-**Indexed papers**: 67 papers in `wiki/implants/`.
-**Sub-categories**: [[full-arch]], [[isq]], [[loading-protocol]], [[mbl]], [[osseodensification]], [[osteotomy-thermal]], [[peri-implantitis]], [[short-narrow]], [[soft-tissue]], [[surface]], [[survival]], [[vertical-ridge-augmentation]], [[vitamin-d]]
+**Indexed papers**: 71 papers in `wiki/implants/`.
+**Sub-categories**: [[full-arch]], [[isq]], [[loading-protocol]], [[mbl]], [[osseodensification]], [[osteotomy-thermal]], [[peri-implantitis]], [[ridge-augmentation]], [[short-narrow]], [[soft-tissue]], [[surface]], [[survival]], [[vertical-ridge-augmentation]], [[vitamin-d]]
 
 ## 세줄요약
 
 **분야**: 임플란트
-**수록 논문**: 67편
-**하위 카테고리**: full-arch, isq, loading-protocol, mbl, osseodensification, osteotomy-thermal, peri-implantitis, short-narrow, soft-tissue, surface, survival, vertical-ridge-augmentation, vitamin-d
+**수록 논문**: 71편
+**하위 카테고리**: full-arch, isq, loading-protocol, mbl, osseodensification, osteotomy-thermal, peri-implantitis, ridge-augmentation, short-narrow, soft-tissue, surface, survival, vertical-ridge-augmentation, vitamin-d
 
-## Papers in this Category (67)
+## Papers in this Category (71)
 
 | Paper |
 |---|
@@ -68,10 +68,12 @@ tags: [navigation, category-index, implants]
 | [[lee-2018-unilateral-mastication-bone-density-alveolus|Effect of Unilateral Mastication on Bone Density of Alveolus]] |
 | [[lee-2024-characteristics-impacts-implant-displacement-maxillary-sinus|Characteristics and impacts of dental implant displacement into the maxillary sinus]] |
 | [[liu-2019-early-loading-splinted-implants-posterior-mandible-3year|Early loading of splinted implants in posterior mandible: Three-year results of a prospective multicenter study]] |
+| [[liu-2021-clinical-radiographic-performance-one-piece|Clinical and radiographic performance of one-piece and two-piece implant: a systematic review and meta-analysis]] |
 | [[mahmood-hashemi-2024-causes-implant-migration-maxillary-sinus-case-series|The Causes of Dental Implant Migration into the Maxillary Sinus: A Case Series Study from 25 Years of Experience]] |
 | [[mathew-2020-biomimetic-pdl-cementum-dental-implants|Biomimetic Properties of Engineered Periodontal Ligament/Cementum in Dental Implants]] |
 | [[morales-schwarz-2025-1mm-interimplant-distance-10year-case|The impact of a 1 mm interimplant distance on the interproximal crestal bone height: a case report with a 10-year follow-up and literature review]] |
 | [[mourao-2025-tapered-vs-cylindrical-implants-early-healing-rct|Do tapered implants offer clinical advantages over cylindrical implants in early healing?]] |
+| [[moustafa-ali-2018-submerged-vs-nonsubmerged-implant|Effect of Submerged vs Nonsubmerged Implant Placement Protocols on Implant Failure and Marginal Bone Loss: A Systematic Review and Meta-Analysis]] |
 | [[munjal-2015-implants-low-density-bone-d3d4|Evaluation of specifically designed implants placed in the low-density jaw bones: A clinico-radiographical study]] |
 | [[munoz-2025-1mm-3mm-abutments-7year-rct|Long-Term Impact of 1-mm Versus 3-mm Definitive Abutments on Marginal Bone Loss and Peri-Implant Disease: A 7-Year Randomised Clinical Trial]] |
 | [[musskopf-2022-minipig-intraoral-implant-model-sr-ma|The minipig intraoral dental implant model: A systematic review and meta-analysis]] |
@@ -97,6 +99,8 @@ tags: [navigation, category-index, implants]
 | [[srikanth-2025-treatment-planning-single-tooth-implant|Treatment Planning for Single-Tooth Implant: A Clinical Guide and Literature Review]] |
 | [[stilwell-2024-occlusal-considerations-implant-maintenance|Occlusal considerations in maintaining health of implants and their restorations]] |
 | [[tarpara-2025-flapless-flapped-clinical-outcomes-cohort|Comparative Assessment of Clinical Outcomes in Flapless and Flapped Implant Surgical Techniques: A Prospective Cohort Study]] |
+| [[walter-2022-two-types-two-piece-dental-implants|Randomized controlled clinical study comparing two types of two‐piece dental implants supporting fixed restorations—Results at 8 years of loading]] |
+| [[wu-2018-submerged-nonsubmerged-internal-hexagonal|Clinical and Radiologic Outcomes of Submerged and Nonsubmerged Bone-Level Implants with Internal Hexagonal Connections in Immediate Implantation: A 5-Year Retrospective Study]] |
 | [[yang-2024-implant-diameter-tapered-stress-insertion|Effects of Dental Implant Diameter and Tapered Body Design on Stress Distribution During Insertion]] |
 | [[yook-2025-single-implant-effects-antagonistic-adjacent-teeth|Retrospective study on pathological effects of single implant-supported fixed prosthesis on antagonistic and adjacent teeth]] |
 | [[zhang-2021-tissue-level-bone-level-fresh-extraction-sockets-dogs|Peri-implant tissue alteration around tissue-level and bone-level implants in fresh extraction sockets: a histomorphometric study in dogs]] |
@@ -111,6 +115,7 @@ tags: [navigation, category-index, implants]
 - [[osseodensification|osseodensification]]
 - [[osteotomy-thermal|osteotomy-thermal]]
 - [[peri-implantitis|peri-implantitis]]
+- [[ridge-augmentation|ridge-augmentation]]
 - [[short-narrow|short-narrow]]
 - [[soft-tissue|soft-tissue]]
 - [[surface|surface]]
