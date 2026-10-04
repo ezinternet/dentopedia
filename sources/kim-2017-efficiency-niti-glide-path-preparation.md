@@ -8,6 +8,7 @@ pdf_path: "/Users/oracleneo/llm-wiki/papers/kda-2017-vol55-no10.pdf"
 pdf_filename: "kda-2017-vol55-no10.pdf"
 source_collection: "kda-journal"
 page_range: "688-689"
+full_text: false
 ---
 
 ## Why Ingested
