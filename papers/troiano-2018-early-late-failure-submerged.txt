@@ -1,0 +1,45 @@
+1. J Clin Periodontol. 2018 May;45(5):613-623. doi: 10.1111/jcpe.12890.
+
+Early and late implant failure of submerged versus non-submerged implant 
+healing: A systematic review, meta-analysis and trial sequential analysis.
+
+Troiano G(1), Lo Russo L(1), Canullo L(2), Ciavarella D(1), Lo Muzio L(1), Laino 
+L(3).
+
+Author information:
+(1)Department of Clinical and Experimental Medicine, University of Foggia, 
+Foggia, Italy.
+(2)Private Practitioner, Roma, Italy.
+(3)Multidisciplinary Department of Medical-Surgical and Dental Specialties, 
+University of Campania - Luigi Vanvitelli, Naples, Italy.
+
+INTRODUCTION: The aim of this systematic review was to analyse current evidence 
+regarding differences in early and late implant failure as well as in marginal 
+bone level (MBL) changes between submerged and non-submerged healed dental 
+implants.
+METHODS: PUBMED, SCOPUS, EMBASE and Web of Science databases were searched for 
+prospective randomized and non-randomized controlled studies addressing direct 
+comparison between submerged and non-submerged implant healing, without 
+performing immediate loading. Early and late implant failure (before or after 
+6 months from implant placement, respectively) together with MBL were the 
+investigated outcomes. Risk of bias assessment was performed using the Cochrane 
+Collaboration Tool for Randomized clinical trials. Meta-analysis was performed 
+and the power of the meta-analytic findings determined by trial sequential 
+analysis (TSA).
+RESULTS: Eleven studies met the inclusion criteria and were included in the 
+review. Results of this systematic review revealed a small higher rate (2%) of 
+early implant failure when a non-submerged healing approach is performed. Late 
+implant failure appears not to be different in submerged or non-submerged 
+healing, but the power of evidence, as determined by TSA, is not high. If we 
+consider MBL changes at 1 year from implant load, it seems that non-submerged 
+healing may better preserve marginal bone, although with a small effect size 
+(0.13 mm).
+CONCLUSIONS: Implants placed with a non-submerged technique have a higher risk 
+(2%) of early failure. The power of the evidence about the effects on MBL is 
+low, but present results seem to favour non-submerged healing, although with a 
+very small effect size.
+
+© 2018 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/jcpe.12890
+PMID: 29574852 [Indexed for MEDLINE]
