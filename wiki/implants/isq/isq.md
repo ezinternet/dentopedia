@@ -2,7 +2,7 @@
 title: "임플란트·ISQ — isq"
 authors: navigation
 year: 2026
-date: 2026-09-28
+date: 2026-10-05
 doi: N/A
 source: navigation
 category: implants/isq
@@ -15,23 +15,24 @@ tags: [navigation, category-index, isq]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·ISQ
 > - **범위**: ISQ/RFA measurement, stability dip, loading decision thresholds
-> - **수록 논문**: 89편
+> - **수록 논문**: 92편
 
 ## Three-line Summary
 
 **Scope**: ISQ/RFA measurement, stability dip, loading decision thresholds
-**Indexed papers**: 89 papers in `wiki/implants/isq/`.
+**Indexed papers**: 92 papers in `wiki/implants/isq/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·ISQ
-**수록 논문**: 89편
+**수록 논문**: 92편
 **하위 카테고리**: 없음
 
-## Papers in this Category (89)
+## Papers in this Category (92)
 
 | Paper |
 |---|
+| [[ADOH.MS.ID.555605|The Relationship Between Resonance Frequency Analysis (RFA) and Insertion Torque of Dental Implants: an in Vitro Study]] |
 | [[al-ahmari-2022-osseodensification-conventional-low-density-jaw|Osseo-densification versus conventional surgical technique in low density jaw bone: A split mouth in vivo study]] |
 | [[al-jetaily-2010-osstell-periotest-implant-stability-in-vitro|Assessment of Osstell and Periotest Systems in Measuring Dental Implant Stability (In Vitro Study)]] |
 | [[al-juboori-2024-cortical-thickness-implant-stability-sr|Cortical Bone Thickness and Primary/Secondary Dental Implant Stability: A Systematic Review]] |
@@ -48,6 +49,7 @@ tags: [navigation, category-index, isq]
 | [[barikani-2013-implant-length-diameter-primary-stability|The Effect of Implant Length and Diameter on the Primary Stability in Different Bone Types]] |
 | [[bavetta-2019-insertion-torque-isq-immediate-loading-extraction-socket|Insertion Torque and Implant Stability Quotient as Stability Parameters for Immediate Loading in the Posterior Maxilla and Mandible: Fresh Extraction Sockets]] |
 | [[bavetta-2024-isq-osstell-osseo-device-comparison|Assessment of Implant Stability Using Two Different Devices: A Prospective Clinical Study]] |
+| [[bayarchimeg-2013-evaluation-correlation-insertion-torque-primary|Evaluation of the correlation between insertion torque and primary stability of dental implants using a block bone test]] |
 | [[bhandarkar-2023-rfa-mathematical-modeling-implant-stability|A two-degree of freedom mathematical modelling of a dental implant to estimate frequency and micro-displacement using electromagnetic RFA]] |
 | [[bhattacharya-2025-macrogeometry-implant-stability-bone-markers-split-mouth-rct|Impact of Macrogeometry on Primary Stability and Bone Markers of Dental Implants: A Prospective, Controlled, Randomized, Split-Mouth Clinical Study]] |
 | [[brizuela-velasco-2015-insertion-torque-isq-micromobility|Relationship Between Insertion Torque and Resonance Frequency Measurements, Performed by Resonance Frequency Analysis, in Micromobility of Dental Implants: An In Vitro Study]] |
@@ -114,6 +116,7 @@ tags: [navigation, category-index, isq]
 | [[song-2026-tapered-straight-implants-immediate-loading-3year|Immediate Loading on Tapered Versus Straight Multiple Implants: A 3-Year Follow-Up of a Randomized Clinical Trial]] |
 | [[stoilov-2023-macrodesign-length-diameter-bone-quality-isq|The Influence of Implant Macro-Design, Length, Diameter, and Bone Quality on Primary Implant Stability]] |
 | [[tisci-2026-isq-it-mbl-survival-sr-ma|Resonance Frequency Analysis and Clinical Outcomes in Implant Dentistry: A Systematic Review and Meta-Analysis]] |
+| [[trisi-2009-implant-micromotion-related-peak|Implant micromotion is related to peak insertion torque and bone density]] |
 | [[trisi-2011-high-low-implant-torque-histology-sheep|High versus Low Implant Insertion Torque: A Histologic, Histomorphometric, and Biomechanical Study in the Sheep Mandible]] |
 | [[turkyilmaz-2008-bone-density-implant-stability-success|Influence of bone density on implant stability parameters and implant success: a retrospective clinical study]] |
 | [[venkatesh-2026-three-osteotomy-techniques-posterior-rct|Conventional vs Osteotome vs Osseodensification ISQ Comparison: Posterior Maxilla RCT]] |
