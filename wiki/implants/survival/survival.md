@@ -2,7 +2,7 @@
 title: "임플란트·생존율·실패위험 — survival"
 authors: navigation
 year: 2026
-date: 2026-10-03
+date: 2026-10-04
 doi: N/A
 source: navigation
 category: implants/survival
@@ -15,20 +15,20 @@ tags: [navigation, category-index, survival]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·생존율·실패위험
 > - **범위**: Implant survival/failure as the outcome, and what predicts it — long-term cumulative survival cohorts & SR/MA; **habit** risk (smoking level/cessation, tobacco & smoke-free products, bruxism); **systemic/host** risk (diabetes, hypertension, osteoporosis & PTH, Sjögren, autoimmune & systemic sclerosi…
-> - **수록 논문**: 53편
+> - **수록 논문**: 54편
 
 ## Three-line Summary
 
 **Scope**: Implant survival/failure as the outcome, and what predicts it — long-term cumulative survival cohorts & SR/MA; **habit** risk (smoking level/cessation, tobacco & smoke-free products, bruxism); **systemic/host** risk (diabetes, hypertension, osteoporosis & PTH, Sjögren, autoimmune & systemic sclerosis, head-and-neck radiotherapy, medications/polypharmacy affecting osseointegration); early-failure risk-factor studies & failure-rate umbrella reviews; evidence-quality appraisal bound to this literature (sponsorship bias, risk-of-bias in smoker SRs); management of the failed implant (explantation/retrieval technique).
-**Indexed papers**: 53 papers in `wiki/implants/survival/`.
+**Indexed papers**: 54 papers in `wiki/implants/survival/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·생존율·실패위험
-**수록 논문**: 53편
+**수록 논문**: 54편
 **하위 카테고리**: 없음
 
-## Papers in this Category (53)
+## Papers in this Category (54)
 
 | Paper |
 |---|
@@ -80,6 +80,7 @@ tags: [navigation, category-index, survival]
 | [[song-2021-implant-complications-bruxism-patients|Implant complications in bruxism patients]] |
 | [[song-2024-long-term-clinical-radiographic-outcomes|Long-term clinical and radiographic outcomes of a bone-level, 2-piece, internal connection implant system with coronal microthreads over 10 years of follow-up: a retrospective clinical study]] |
 | [[stiller-2024-effects-smoking-dental-implant-failure|The Effects of Smoking on Dental Implant Failure: A Current Literature Update]] |
+| [[troiano-2018-early-late-failure-submerged|Early and late implant failure of submerged versus non-submerged implant healing: A systematic review, meta-analysis and trial sequential analysis]] |
 | [[wagner-2022-diabetes-mellitus-dental-implants-sr|Systematic Review on Diabetes Mellitus and Dental Implants: An Update]] |
 | [[wahlberg-2025-multicenter-early-implant-failures-part-2-patient|A Multicenter Study of Factors Related to Early Implant Failures-Part 2: Patient Factors]] |
 | [[yari-2023-risk-factors-early-implant-failure|Risk factors associated with early implant failure: A retrospective review]] |
