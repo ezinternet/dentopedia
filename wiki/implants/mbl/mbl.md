@@ -2,7 +2,7 @@
 title: "임플란트·변연골소실 — mbl"
 authors: navigation
 year: 2026
-date: 2026-09-16
+date: 2026-10-04
 doi: N/A
 source: navigation
 category: implants/mbl
@@ -15,23 +15,24 @@ tags: [navigation, category-index, mbl]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·변연골소실
 > - **범위**: Marginal bone loss (MBL) / crestal bone loss — platform switching (PS vs PM), bone-level vs tissue-level MBL, implant-tooth proximity bone loss, emergence angle, inter-implant distance, risk-factor umbrella SRs
-> - **수록 논문**: 38편
+> - **수록 논문**: 41편
 
 ## Three-line Summary
 
 **Scope**: Marginal bone loss (MBL) / crestal bone loss — platform switching (PS vs PM), bone-level vs tissue-level MBL, implant-tooth proximity bone loss, emergence angle, inter-implant distance, risk-factor umbrella SRs
-**Indexed papers**: 38 papers in `wiki/implants/mbl/`.
+**Indexed papers**: 41 papers in `wiki/implants/mbl/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·변연골소실
-**수록 논문**: 38편
+**수록 논문**: 41편
 **하위 카테고리**: 없음
 
-## Papers in this Category (38)
+## Papers in this Category (41)
 
 | Paper |
 |---|
+| [[al-amri-2016-crestal-bone-loss-submerged|Crestal bone loss around submerged and nonsubmerged dental implants: A systematic review]] |
 | [[alrabeah-2016-effect-platform-switching-metal-ion|The effect of platform switching on the levels of metal ion release from different implant-abutment couples]] |
 | [[attia-2025-influence-platform-switching-marginal-bone|The influence of platform switching and platform matching on marginal bone loss in immediately inserted dental implants: a retrospective clinical study]] |
 | [[bhatt-2025-effect-platform-switching-peri-implant|Effect of Platform Switching on Peri-implant Bone Preservation: A 12-Month Clinical Trial]] |
@@ -56,6 +57,7 @@ tags: [navigation, category-index, mbl]
 | [[ng-2018-implant-tooth-proximity-bone-loss|Peri-implant inflammation and marginal bone level changes around dental implants in relation to proximity with and bone level of adjacent teeth]] |
 | [[raabe-2026-crestal-bone-loss-peri-implant|Crestal Bone Loss and Peri-Implant Conditions at Tissue-Level Implants: Influence of Prosthesis Type After 25 Years]] |
 | [[rocha-2016-platform-switching-crestal-bone-3year-rct|Effect of platform switching on crestal bone levels around implants in the posterior mandible: 3 years results from a multicentre randomized clinical trial]] |
+| [[rodrigues-2023-clinical-performance-internal-conical|Is the clinical performance of internal conical connection better than internal non-conical connection for implant-supported restorations? A systematic review with meta-analysis of randomized controlled trials]] |
 | [[rodriguez-ciurana-2009-interimplant-distance-platform-switched-bone-crest|The effect of interimplant distance on the height of the interimplant bone crest when using platform-switched implants]] |
 | [[rossi-2015-randomized-clinical-investigation-titanium-implants|Randomized Clinical Investigation of Titanium Implants with and without Platform Switching: Six Months' Radiographic and Clinical Outcome]] |
 | [[sahabi-2013-biomechanical-effects-platform-switching-two|Biomechanical effects of platform switching in two different implant systems: a three-dimensional finite element analysis.]] |
@@ -70,3 +72,4 @@ tags: [navigation, category-index, mbl]
 | [[ting-2017-surgical-patient-factors-affecting-marginal|Surgical and Patient Factors Affecting Marginal Bone Levels Around Dental Implants: A Comprehensive Overview of Systematic Reviews]] |
 | [[wach-2026-emergence-angle-marginal-bone-loss|Emergence Angle, Marginal Bone Loss, and Radiographic Corticalization Around MIS Implants: A 5-Year Retrospective Study of Single, Splinted, and Bridge Restorations]] |
 | [[yadav-2025-finite-element-analysis-platform-switching|Finite Element Analysis of Platform Switching Effects on Stress Distribution in Posterior Implants Placed in Different Bone Types Under Axial and Oblique Loading Conditions]] |
+| [[yu-2020-internal-tapered-vs-nontapered-connection|Is an internal tapered connection more efficient than an internal nontapered connection? A systematic review and meta-analysis]] |
