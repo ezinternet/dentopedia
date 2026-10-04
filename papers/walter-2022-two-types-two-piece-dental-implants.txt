@@ -1,0 +1,168 @@
+PMID: 35060200 | PMCID: PMC9303227 | DOI: 10.1111/clr.13893 | Clin Oral Implants Res 2022 Mar;33(3):333-341
+(source: PMC JATS full text via NCBI efetch db=pmc)
+
+pmc Clin Oral Implants Res Clin Oral Implants Res 379 blackwellopen 9105713 CLR Clinical Oral Implants Research 0905-7161 1600-0501 pmc-is-collection-domain yes pmc-collection-title Wiley Open Access Collection PMC9303227 PMC9303227.1 9303227 9303227 35060200 10.1111/clr.13893 CLR13893 1 Original Article Original Articles Randomized controlled clinical study comparing two types of two‐piece dental implants supporting fixed restorations—Results at 8 years of loading WALTER et al. Walter Prisca Pirc Miha https://orcid.org/0000-0003-0831-8905 miha.pirc@zzm.uzh.ch Ioannidis Alexis https://orcid.org/0000-0002-2110-3645 alexis.ioannidis@zzm.uzh.ch Hüsler Jürg Jung Ronald E. https://orcid.org/0000-0003-2055-1320 Hämmerle Christoph H. F. https://orcid.org/0000-0002-8280-7347 Thoma Daniel S. https://orcid.org/0000-0002-1764-7447 daniel.thoma@zzm.uzh.ch 
+ 1 
+ Clinic of Reconstructive Dentistry 
+ Center for Dental Medicine 
+ University of Zurich 
+ Zurich 
+ Switzerland 
+ 2 
+ Department of Periodontology 
+ Research Institute for Periodontal Regeneration 
+ College of Dentistry 
+ Yonsei University 
+ Seoul 
+ Korea 
+ * 
+ Correspondence 
+Prof. Dr. Med. Dent. Daniel S. Thoma, Clinic of Reconstructive Dentistry, Center for Dental Medicine, University of Zurich, Plattenstrasse 11, CH‐8032 Zurich, Switzerland. 
+Email: daniel.thoma@zzm.uzh.ch 
+ 03 2 2022 3 2022 33 3 412875 10.1111/clr.v33.3 333 341 17 11 2021 05 2 2021 04 1 2022 21 07 2022 22 07 2022 05 08 2026 © 2022 The Authors. Clinical Oral Implants Research published by John Wiley &amp; Sons Ltd. https://creativecommons.org/licenses/by-nc/4.0/ This is an open access article under the terms of the http://creativecommons.org/licenses/by-nc/4.0/ License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes. Abstract Objectives To assess clinical, technical, biological, and radiographic outcomes of implants supporting fixed restorations using two types of dental implants with non‐matching implant–abutment junctions at 8 years. Materials and methods Sixty‐four patients were randomly assigned to receive one of two implant systems (S1 or S2) and eventually fixed restorations. Patients were examined at loading (T L ), one (T 1 ), three (T 3 ), five (T 5 ), and eight years (T 8 ). Outcome measures included implant and restoration survival, technical and biological complications, and radiographic bone levels. All data were analyzed on the implant and patient level. Results Ninety‐eight implants were inserted in 64 patients and loaded with fixed restorations. At 8 years, 49 patients with 42 (S1) and 36 (S2) implants (25 in group S1 and 24 in group S2 on the patient level) were re‐examined. The survival rates on the patient level were 97.6% (S1) and 97.2% (S2). The marginal bone levels (the primary endpoint) amounted to a gain of 0.21 mm (Q1: −0.11 mm; Q3: 0.5 mm) (S1) ( p  = .007) and to a loss of 0.24 mm (Q1: −0.79 mm; Q3: 0.05 mm) (S2) ( p  = .001) between baseline (T L ) and T 8 (intergroup p  &lt; .001). The technical complication rates were 28% (S1) and 12.5% (S2) (intergroup p  = .289). Peri‐implant mucositis was observed in 24% (S1) and 50% (S2) of the implants on the patient level (intergroup p  = .792). The respective figures for peri‐implantitis were 0% (S1) and 12.5% (S2) (intergroup p  = .11). Conclusions Dental implants with non‐matching implant–abutment junctions supporting fixed restorations resulted in high survival rates independent of the system used. Differences, mainly observed in terms of technical complications (in favor of S2), biological complications (in favor of S1), and marginal bone‐level changes (in favor of group S1), appear to be clinically negligible. biological complications dental implants marginal bone level survival technical complications Universitat Zurich pmc-status-qastatus 0 pmc-status-live yes pmc-status-embargo no pmc-status-released yes pmc-prop-open-access yes pmc-prop-olf no pmc-prop-manuscript no pmc-prop-legally-suppressed no pmc-prop-has-pdf yes pmc-prop-has-supplement yes pmc-prop-pdf-only no pmc-prop-suppress-copyright no pmc-prop-is-real-version no pmc-prop-is-scanned-article no pmc-prop-preprint no pmc-prop-in-epmc yes pmc-license-ref CC BY-NC source-schema-version-number 2.0 cover-date March 2022 details-of-publishers-convertor Converter:WILEY_ML3GV2_TO_JATSPMC version:6.1.7 mode:remove_FC converted:21.07.2022 
+ Walter , P. 
+ , 
+ Pirc , M. 
+ , 
+ Ioannidis , A. 
+ , 
+ Hüsler , J. 
+ , 
+ Jung , R. E. 
+ , 
+ Hämmerle , C. H. F. 
+ , &amp; 
+ Thoma , D. S. 
+ ( 2022 ). Randomized controlled clinical study comparing two types of two‐piece dental implants supporting fixed restorations—Results at 8 years of loading . Clinical Oral Implants Research , 33 , 333 – 341 . 10.1111/clr.13893 
+ 35060200 PMC9303227 
+ Walter Prisca and Pirc Miha should be considered joint first authors. 1 INTRODUCTION Replacing lost or missing teeth with dental implants is considered a scientifically well‐documented treatment to re‐establish function and esthetics in the oral cavity (Jung et al., ; Pjetursson et al., ). Implant therapy has shifted from a therapeutic option limited to specialists to one performed by an increasing number of general dentists with different surgical skills and education (Dragan et al., ). Clinicians have to select from numerous implant types and systems available on the market. Dental implants predominantly differ in design and surface and can be historically divided into one‐ and two‐piece implants (with matching or non‐matching implant–abutment junction). Among those, implants with a non‐matching implant–abutment connection demonstrated to result in a more favorable maintenance of the marginal bone compared to implants with a matching implant–abutment connection (Annibali et al., ; Santiago et al., ). This may be explained by an increased distance between the bone and the microgap and fewer micromovements due to the internal conical connection between the implant and the abutment (Abrahamsson et al., ; Hansson, ). Apart from the long‐term implant survival rates, additional outcome measures are important from a scientific point of view, as well as for clinicians choosing one over the other implant brand. This includes technical, biological, and esthetic complications, as well as implant failures (Jung et al., ; Papaspyridakos et al., ). Based on systematic reviews (Jung et al., ; Pjetursson et al., ), the most common complications reached 5.1%–15% (technical), 4.4%–11.3% (biological), and 3.6%–13.6% (esthetic) over 5 years. One of the systems used in the current study has been studied extensively as it has been on the market for several years (S1; OsseoSpeed TX, Astra Tech Implant System, Dentsply Sirona). On the contrary, there were very minimal data available for the second system (S2; Straumann Bone Level Implants, SLActive; Straumann AG), as it was relatively new at the time when the study was initiated. Previous data for both systems present stable marginal bone levels; however, data available for follow‐ups longer than 5 years are scarce (Laurell &amp; Lundgren, ; Norton &amp; Astrom, ). Even though various manufacturers offer two‐piece dental implants with a non‐matching implant–abutment junction, scientific longer‐term data including clinical, radiographic, biological, and technical outcomes are scarce (Messias et al., ). Moreover, it has been recommended to perform long‐term randomized controlled clinical trials to report potential differences between different types of implants (Annibali et al., ; Esposito et al., ; Santiago et al., ). The aim of the present study was therefore to assess clinical, technical, biological, and radiographic outcomes of implants supporting fixed restorations using two types of dental implants with non‐matching implant–abutment junctions at 8 years. 2 MATERIALS AND METHODS 2.1 Study design The study was designed as a randomized controlled clinical trial approved by the local ethics committee (Kantonale Ethikkommission Kanton Zürich, Ref. Nr. KEK‐ZH‐Nr. 2013‐0121) and was conducted according to the principles outlined in the World's Medical Association's Declaration of Helsinki on experimentation involving human subjects (“World Medical Association Declaration of Helsinki: ethical principles for medical research involving human subjects,” 2013). Sixty‐four patients in need of dental implant therapy with fixed dental restorations were treated at the Clinic of Reconstructive Dentistry, University of Zurich, Switzerland, and were consecutively included in the study, following the written informed consent. All patients were randomly allocated using a computer‐generated randomization to receive two‐piece dental implants from one of two manufacturers: S1 (OsseoSpeed TX 3.0‐5.0 S, TX 4.5; Astra Tech Implant System, Dentsply Sirona) or S2 (Straumann Bone Level Implants 3.3, 4.1, 4.8 mm, SLActive; Straumann AG). The specific surgical procedure, prosthetic protocol, and inclusion and exclusion criteria were already reported in previous publications (Ebler et al., ; Ioannidis et al., ). In brief, surgical procedures were performed applying the standard protocol of the clinic and based on the manufacturers’ recommendations. Generally, implants were placed with the implant shoulder at the bone crest in both groups; only in some cases, the sink depth was increased due to prosthetic reasons, and the thickness of the mucosa was left to surgeon's decision. The apico‐coronal implant position was therefore not standardized. In case of a dehiscence or a fenestration defect, a guided bone regeneration (GBR) was performed using xenogeneic or synthetic bone grafting materials and resorbable membranes. The prosthetic procedures were made according to the guidelines of the respective implant systems. Screw‐retained or cemented restorations were used based on the clinical situation and the clinician's preference. The day of the insertion of the final restoration was defined as baseline. An individual maintenance program with regular dental hygiene sessions was designed for every patient at the baseline appointment. The follow‐up appointments were scheduled at 1, 3, 5, and 8 years. The primary outcome of the study was marginal bone‐level changes, and the secondary outcomes were the survival and the clinical, biological, and technical outcomes. 2.2 Outcome measures At the follow‐up examinations, clinical measurements were taken at six sites per implant (mesiobuccal, buccal, distobuccal, distolingual, lingual, and mesiolingual), at neighboring teeth/implant(s), and contralateral tooth or implant sites using a periodontal probe (UNC‐15; Hu‐Friedy). The following variables were assessed:
+ Probing depth (PD, mm) Bleeding on Probing (BOP, %) (Ainamo &amp; Bay, ) Plaque control record (PCR, %) (O'Leary et al., ) 
+ Outcome measures were recorded at 6 different time points:
+ T i : immediately after implant insertion T L : 1–3 weeks after loading T 1 : 1 year after loading T 3 : 3 years after loading T 5 : 5 years after loading T 8 : 8 years after loading 
+ Intraoral radiographs of all implants were taken at T i and all the follow‐up time points (T L , T 1 , T 3 , T 5 , and T 8 ), using a standardized paralleling technique with Rinn holders. This device consists of film holder into which the dental radiograph fits, a plastic plate, which the patients bite on, and a ring that allows parallel alignment of the X‐ray tube in order to position X‐ray tube and radiograph film at 90°. Marginal bone‐level (MBL) changes over time were assessed using open‐source software (ImageJ; National Institutes of Health) at a magnification of 10–15×. The known distance between two implant threads and the determination of the exact magnification of the images were used for calibration purposes. The marginal bone level was assessed at the mesial and distal implant surface of each dental implant by measuring the distance from the flat top of the implant shoulder to the bone crest using a scale divided into 0.1‐mm steps (distance implant bone, DIB). MBL changes were then calculated as differences between the time points. 2.3 Statistical analysis As the primary outcome for this investigation, the mean marginal bone‐level change at patient level from T L to T 8 was defined. One implant per patient was already randomly selected for data extraction for the patient‐level analysis in the earlier publication. The metric variables were described with mean, standard deviations, median, quartiles, minimum, and maximum. On the patient level, the primary endpoint was analyzed with the Wilcoxon signed‐rank test for the intragroup comparison and the Wilcoxon rank sum test for the intergroup comparison with the Bonferroni correction of the three tests. For the primary outcome, nonparametric 95% confidence intervals are presented for the median changes and for the nonparametric Hodges–Lehmann estimate of the difference of the groups. For the secondary endpoints, the Wilcoxon rank sum test or the chi‐squared test (if needed with exact derivation of the p ‐value) was used on the patient level, since the clustering was eliminated. Implant and restoration survival rates, and biological and technical complication rates (adverse events) for implants and restorations were calculated at the implant and patient level as secondary endpoints. Additionally, as supporting analyses, the group comparisons were analyzed on the implant level with parametric mixed models because of the dependence of the data within a patient with time and group as factors with their interaction, as well as mixed models with only the factor group for each time point separately. The multiple testing is controlled only for the primary endpoint, not for testing of the secondary outcomes. 3 RESULTS 3.1 Demographic data Sixty‐four patients enrolled in the study and received a total of 98 implants (67 upper jaw and 31 lower jaw), as well as fixed restorations at the Clinic of Reconstructive Dentistry, University of Zurich, between February and December 2009. The baseline characteristics of the study cohort are presented in Table . 
+[TABLE]
+ At 8 years (mean 7.9 ± 0.4), 49 patients with a mean age of 64.3 years (SD ± 12.0) were re‐examined. Reasons for dropout were passing away, moving abroad, or not willing to come to the follow‐up visit (dropout rate: 23%). The implant‐level analysis was based on 42 (S1) and 36 (S2) implants at T 8 . The respective figures for the patient level, based on a random preselection of one implant per patient, were 25 (S1) and 24 (S2) implants at T 8 . 3.2 Types of restorations Table provides an overview of the restorations being in situ at T 8 . 
+[TABLE]
+ 3.3 Radiographic data (primary endpoint) All radiographic data are presented in Table (implant‐level analysis) and Table (patient‐level analysis). Positive values indicate the implant shoulder to be located more apically relative to the bone crest. 
+[TABLE]
+[TABLE]
+ On the patient level, the median changes of the marginal bone levels between baseline (T L ) and T 8 (the primary endpoint) amounted to a gain of 0.21 mm (Q1: −0.11 mm; Q3: 0.50 mm) for group S1 (intragroup p  = .007, 95% CI for the median change [0.051, 0.384]) and to a loss of 0.24 mm (Q1: −0.79 mm; Q3: 0.05 mm) for group S2 (intragroup p  = .001, 95% CI for the median change [−0.954, −0.107]) (intergroup comparison test, p &lt;  .001, 95% confidence interval for median difference between S1 and S2: [0.27, 0.88]). On the patient level at T 8 , the median relative distances between the implant shoulder and the bone crest were 0.00 mm (Q1: −0.32 mm; Q3: 0.23 mm) in group S1 and −0.31 mm (Q1: −0.79 mm; O3: −0.12 mm) in group S2 (intergroup comparison, p  = .010 with a 95% confidence interval for the difference group 2 vs. group 1 of the medians: [−0.75; −0.11]). At the implant level, the interaction between time and group was significant ( p  = .009) in the mixed model analysis, confirming the above results of the patient‐level data analysis. 3.4 Survival rates Two implants were lost during the 8‐year follow‐up resulting in a mean survival rate of 97.4% (97.6% for group S1 and 97.2% for group S2) (mixed model, intergroup comparison, p  = .930). One implant in group S1 was lost due to technical complications and a subsequent fracture of the implant. One implant in group S2 was lost due to biological complications (peri‐implantitis). On the patient level, all implants survived in both groups rendering the survival rates of 100% (Figure ). FIGURE A1 Flow diagram of the study 3.5 Technical and biological complications on the implant level 35.7% (15 of 42 implants) and 16.7% (6 of 36 implants) in group S1 and group S2, respectively, exhibited technical complications during the observation period of 8 years (mixed model, intergroup comparison, p  = .1413). The prevalence of peri‐implant mucositis was 21.4% in group S1 (affecting 9 implants) and 55.6% in group S2 (20 implants) (mixed model, intergroup comparison, p  = .038) at T 8 . Additionally, the prevalence of peri‐implantitis was 0.0% in group S1 (affecting none implant) and 8.3% in group S2 (3 implants) (intergroup comparison not applicable) at T 8 . 3.6 Technical and biological complications on the patient level On the patient level, technical complications were observed in 28% of the implants in group S1 (7 of 25 implants) and 12.5% in group S2 (3 of 24 implants) (intergroup comparison, p  = .289) during the observation period of 8 years. The prevalence of peri‐implant mucositis was 24% (6 of 24 implants) in group S1 and 50.0% (12 of 25 implants) in group S2 (intergroup comparison, p  = .792) at T 8 . The respective prevalence of peri‐implantitis amounted to 0% in group S1 and 12.5% (3 of 24 implants) in group S2 (intergroup comparison, p  = .110) at T8. 3.7 Clinical outcome measures Clinical outcome measures and data (PD; BOP, PCR) on the patient level at the different follow‐up time points are presented in Table . 
+[TABLE]
+ At T 8 , the median probing depth value was 3.2 mm (Q1: 2.7 mm, Q3: 3.3 mm) in group S1 and 3.3 mm (Q1: 2.8 mm, Q3: 3.8 mm) in group S2 (intergroup p  = .071). The median value of BOP amounted to 0.2 (Q1: 0.2, Q3: 0.3) in group S1 and to 0.3 (Q1: 0.0, Q3: 0.7) in group S2 (intergroup p  = .350). For PCR, the median value at T 8 amounted to 0.3 (Q1: 0.0, Q3: 0.4) in group S1 and to 0.0 (Q1: 0.0, Q3: 0.2) in group S2 (intergroup p  = .021). 4 DISCUSSION The present study comparing two types of dental implants with non‐matching implant–abutment junctions supporting fixed restorations at 8 years of loading predominantly revealed: (i) high survival rates for both types of dental implants, (ii) stable marginal bone levels, (iii) higher rate of technical complications in group S1, and (iv) a higher rate of peri‐implant mucositis in group S2. The survival rate in the present study on the implant level was 97% and 100% on the patient level. The reported data are in line with recent systematic reviews reporting survival rates of dental implants to range between 93.8.% and 97.5% over an observation period of 10 years (Howe et al., ) (Hjalmarsson et al., ; Jung et al., ). Specific implant survival rate data for the two systems applied in the present study range between 90.9% and 100% (S1) and between 96.5% and 99.3% (S2) over observation periods of 1–10 years (Astrand et al., ; Calvo‐Guirado et al., ; French et al., ; Gotfredsen, ; Kim et al., ; Rasmusson et al., ; Vigolo et al., ; Yoon et al., ; Zhang et al., ). Two‐piece dental implants with a non‐matching implant–abutment junction are reported to maintain the marginal bone close to the implant shoulder (Annibali et al., ; Santiago et al., ; Strietzel et al., ). In the present study, the mean level of the marginal bone was 0.04 mm (SD ± 0.67) in group S1 and −0.58 mm (SD ± 0.78) at 8 years. Although statistically significant, the clinical relevance of such a difference remains questionable. The data provided in the present study also reflect all changes in the MBL since the day of implant placement. It is noteworthy that the mean MBL at implant placement was −1.30 ± 1.00 for group S1 and −1.26 ± 1.22, thereby reflecting an increased sink depth at implant placement (out of biological and/or prosthetic reasons), followed by physiologic remodeling processes eventually leading to a bone level close to the implant shoulder once final restorations were inserted. Between loading and 8 years, changes within the two systems were clinically negligible (&lt;0.3 mm). One implant system demonstrated a higher rate of technical complications (28% in group S1 vs. 12.5% in group S2). Screw loosening was the predominantly observed complication, followed by chipping and fractures of screws/abutments. These three complications accounted for 75% of all technical complications in group S1. Minor complications such as chipping of the veneering ceramic did not differ substantially between the two groups. The rate of technical complications, predominantly in group S1, is higher than reported in the literature exhibiting a range between 5% and 15% over 5 years for implant‐supported single crowns (Jung et al., ) and 4.6% for FDPs after 5% and 19.9% after 10 years, respectively (Pjetursson et al., ). The high rate of technical complications was not associated with the restoration material (porcelain‐fused to metal), the type of restoration (single crown, cantilever, multi‐unit restoration, splinted single crowns), but rather with the type of retention. Only a minority of all restorations was cemented, whereas &gt;90% were screw‐retained. Systematic reviews comparing the two types of retention revealed more favorable technical outcomes for cemented restoration (complication rate 11.9%) compared with screw‐retained restorations (complication rate 24.4%) (Sailer et al., ). The exact reason for the observed differences between the two systems is unknown. According to recent systematic reviews, the prevalence of peri‐implant mucositis and peri‐implantitis ranges between 19% and 65%, and 1% and 47%, respectively (Derks &amp; Tomasi, ; Heitz‐Mayfield &amp; Salvi, ; Salvi et al., ; Schwarz et al., ). The prevalence of peri‐implant mucositis in the present study amounted to 21% in group S1 and 56% in group S2, whereas the figures for peri‐implantitis were 0% (S1) and 8% (S2), thereby well in line with recently published systematic reviews. The low rate of peri‐implantitis is certainly due to an individually designed maintenance program and good oral hygiene, which, in the majority of the patients, remained high during the entire observation period (PCR at the baseline was 0.1 ± 0.1 and at FU‐8 0.3 ± 0.3 in group S1 and 0.1 ± 0.2 in group S2 at both time points). The majority of data for the prevalence of peri‐implant mucositis and peri‐implantitis is derived from observational studies. This fact could explain the differences in the rate of biological complications compared with the present study being of prospective nature. Moreover, it is worth mentioning that the definitions of peri‐implant mucositis and peri‐implantitis are not consistent in the published literature (Natto et al., ). One of the limitations of the current study is the lack of sample size calculation. Historically, and of scientific interest at that time, marginal bone‐level changes were considered as primary outcome. At the time this study was initiated, data on S2 were not available; therefore, a convenience sample was taken as the required number of patients. The outcomes of the present study are thought to represent data of a general practice. This is mainly due to wide inclusion criteria only limited by fixed restorations. In contrast, such wide inclusion criteria might be considered a drawback. No limitations were made for the location of the site (maxilla, mandible, anterior, posterior), the necessity of GBR procedures, the type of healing (submerged, transmucosal), the time of loading, the type of retention and the type and material of the restoration. 5 CONCLUSION Implant therapy using dental implants with non‐matching implant–abutment junctions supporting fixed restorations resulted in high survival rates independent of the system used. Marginal bone levels were close to the implant shoulder and change over 8 years minimally in both groups, although in favor of group S1. Technical complications were more often observed in group S1. Peri‐implant mucositis was more prevalent in group S2. CONFLICT OF INTEREST The authors report no conflict of interests related to the outcomes of the study. AUTHOR CONTRIBUTIONS 
+ Prisca Walter: Data curation (lead); Investigation (lead); Writing – review &amp; editing (lead). Miha Pirc: Formal analysis (supporting); Validation (supporting); Writing – original draft (supporting). Ioannidis Alexis: Formal analysis (supporting); Writing – review &amp; editing (supporting). Ronald Ernst Jung: Data curation (equal); Funding acquisition (equal); Resources (equal); Supervision (equal). Christoph H.F. Hämmerle: Conceptualization (equal); Funding acquisition (equal); Methodology (equal); Resources (equal); Supervision (equal); Validation (equal); Writing – review &amp; editing (equal). Daniel S Thoma: Conceptualization (lead); Funding acquisition (lead); Investigation (lead); Methodology (lead); Project administration (lead); Resources (lead); Supervision (lead); Validation (lead); Writing – original draft (lead); Writing – review &amp; editing (lead). Supporting information Supplementary Material Click here for additional data file. ACKNOWLEDGMENT The study was fully funded by the Clinic of Reconstructive Dentistry. Dr. Ioannidis, Jung, Hämmerle and Thoma received research support and lecture fees from Institute Straumann AG and Dentsply Sirona. Open Access Funding provided by Universitat Zurich. REFERENCES 
+ Abrahamsson , I. 
+ , 
+ Berglundh , T. 
+ , 
+ Sekino , S. 
+ , &amp; 
+ Lindhe , J. 
+ ( 2003 ). Tissue reactions to abutment shift: An experimental study in dogs . Clinical Implant Dentistry and Related Research , 5 ( 2 ), 82 – 88 . 10.1111/j.1708-8208.2003.tb00188.x 
+ 14536042 
+ Ainamo , J. 
+ , &amp; 
+ Bay , I. 
+ ( 1975 ). Problems and proposals for recording gingivitis and plaque . International Dental Journal , 25 ( 4 ), 229 – 235 . https://www.ncbi.nlm.nih.gov/pubmed/1058834 
+ 1058834 
+ Annibali , S. 
+ , 
+ Bignozzi , I. 
+ , 
+ Cristalli , M. P. 
+ , 
+ Graziani , F. 
+ , 
+ La Monaca , G. 
+ , &amp; 
+ Polimeni , A. 
+ ( 2012 ). Peri‐implant marginal bone level: A systematic review and meta‐analysis of studies comparing platform switching versus conventionally restored implants . Journal of Clinical Periodontology , 39 ( 11 ), 1097 – 1113 . 10.1111/j.1600-051X.2012.01930.x 
+ 22931292 
+ Astrand , P. 
+ , 
+ Engquist , B. 
+ , 
+ Dahlgren , S. 
+ , 
+ Grondahl , K. 
+ , 
+ Engquist , E. 
+ , &amp; 
+ Feldmann , H. 
+ ( 2004 ). Astra Tech and Branemark system implants: A 5‐year prospective study of marginal bone reactions . Clinical Oral Implants Research , 15 ( 4 ), 413 – 420 . 10.1111/j.1600-0501.2004.01028.x 
+ 15248875 
+ Calvo‐Guirado , J. L. 
+ , 
+ Gomez‐Moreno , G. 
+ , 
+ Delgado‐Ruiz , R. A. 
+ , 
+ Sanchez , M. 
+ , 
+ de Val , J. E. 
+ , 
+ Negri , B. 
+ , &amp; 
+ Ramirez Fernandez , M. P. 
+ ( 2014 ). Clinical and radiographic evaluation of osseotite‐expanded platform implants related to crestal bone loss: A 10‐year study . Clinical Oral Implants Research , 25 ( 3 ), 352 – 358 . 10.1111/clr.12134 
+ 23425107 
+ Derks , J. 
+ , &amp; 
+ Tomasi , C. 
+ ( 2015 ). Peri‐implant health and disease. A systematic review of current epidemiology . Journal of Clinical Periodontology , 42 
+ Suppl 16 , S158 – 171 . 10.1111/jcpe.12334 
+ 25495683 
+ Dragan , I. F. 
+ , 
+ Pirc , M. 
+ , 
+ Rizea , C. 
+ , 
+ Yao , J. 
+ , 
+ Acharya , A. 
+ , &amp; 
+ Mattheos , N. 
+ ( 2019 ). A global perspective on implant education: Cluster analysis of the “first dental implant experience” of dentists from 84 nationalities . European Journal of Dental Education , 23 ( 3 ), 251 – 265 . 10.1111/eje.12426 
+ 30710398 
+ Ebler , S. 
+ , 
+ Ioannidis , A. 
+ , 
+ Jung , R. E. 
+ , 
+ Hammerle , C. H. 
+ , &amp; 
+ Thoma , D. S. 
+ ( 2016 ). Prospective randomized controlled clinical study comparing two types of two‐piece dental implants supporting fixed reconstructions—Results at 1 year of loading . Clinical Oral Implants Research , 27 ( 9 ), 1169 – 1177 . 10.1111/clr.12721 
+ 26459570 
+ Esposito , M. 
+ , 
+ Ardebili , Y. 
+ , &amp; 
+ Worthington , H. V. 
+ ( 2014 ). Interventions for replacing missing teeth: Different types of dental implants . The Cochrane Database of Systematic Reviews , ( 7 ), CD003815 . 10.1002/14651858.CD003815.pub4 
+ 25048469 
+ French , D. 
+ , 
+ Larjava , H. 
+ , &amp; 
+ Ofec , R. 
+ ( 2015 ). Retrospective cohort study of 4591 Straumann implants in private practice setting, with up to 10‐year follow‐up. Part 1: Multivariate survival analysis . Clinical Oral Implants Research , 26 ( 11 ), 1345 – 1354 . 10.1111/clr.12463 
+ 25134415 
+ Gotfredsen , K. 
+ ( 2012 ). A 10‐year prospective study of single tooth implants placed in the anterior maxilla . Clinical Implant Dentistry and Related Research , 14 ( 1 ), 80 – 87 . 10.1111/j.1708-8208.2009.00231.x 
+ 19673954 
+ Hansson , S. 
+ ( 2003 ). A conical implant‐abutment interface at the level of the marginal bone improves the distribution of stresses in the supporting bone. An axisymmetric finite element analysis . Clinical Oral Implants Research , 14 ( 3 ), 286 – 293 . 10.1034/j.1600-0501.2003.140306.x 
+ 12830797 
+ Heitz‐Mayfield , L. J. A. 
+ , &amp; 
+ Salvi , G. E. 
+ ( 2018 ). Peri‐implant mucositis . Journal of Periodontology , 89 ( Suppl 1 ), S257 – S266 . 10.1002/JPER.16-0488 
+ 29926954 
+ Hjalmarsson , L. 
+ , 
+ Gheisarifar , M. 
+ , &amp; 
+ Jemt , T. 
+ ( 2016 ). A systematic review of survival of single implants as presented in longitudinal studies with a follow‐up of at least 10 years . European Journal of Oral Implantology , 9 ( Suppl 1 )
