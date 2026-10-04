@@ -1,0 +1,40 @@
+1. J Prosthodont Res. 2021 Feb 24;65(1):56-66. doi: 10.2186/jpr.JPOR_2019_436.
+Epub  2020 Sep 9.
+
+Clinical and radiographic performance of one-piece and two-piece implant:a 
+systematic review and meta-analysis.
+
+Liu M(1), He L(1), Wang H(1).
+
+Author information:
+(1)State Key Laboratory of Oral Diseases & National Clinical Research Center for 
+Oral Diseases & Department of prosthodontics, West China Hospital of 
+Stomatology, Sichuan University.
+
+PURPOSE: The aim of this system review was to evaluate clinical and radiographic 
+performance of one-piece implant (OPI) and two-piece implant (TPI).
+METHODS: Electronic database searches were performed in MEDLINE, EMBASE, 
+Cochrane Central Register of Controlled Trials and OpenGrey databases up to May 
+2019. Two authors individually screened the related literatures according to the 
+inclusion and exclusion criteria. Main clinical outcomes included failure and 
+complication rates. Radiographic outcomes were peri-implant bone loss between 
+baseline and last available follow-up.
+RESULTS: Finally, 11 articles reporting 10 different studies were included in 
+this review. No statistically significant difference (P = 0.22) in risk of 
+failure was found between the two types of implants (RR: 0.49, 95% CI: 
+0.16-1.53). Peri-implantitis accounted for most failures and complications and 
+there was no statistically significant difference in risk of peri-implantitis no 
+matter after 1 year follow-up (RR: 1.15, 95% CI: 0.37-3.53, P = 0.81) or at 2-3 
+years (RR: 1.95, 95% CI: 0.23-16.63, P = 0.54). With regard to the marginal bone 
+loss (MBL) around implants, subgroup meta-analysis by platform switching versus 
+platform matching showed a significant MBL-reducing effect for TPI when compared 
+to OPI (WMD: 0.21mm, 95% CI: 0.07-0.36mm, P = 0.004) in the platform-switching 
+subgroup, while no significant difference in MBL was observed between the two 
+groups in the platform-matching subgroup (P = 0.67).
+CONCLUSIONS: The results of this review suggested that OPI and TPI showed 
+similar short-term survival rates and incidences of complications. Nevertheless, 
+TPI with platform switching may be a better option to reduce peri-implant bone 
+loss.
+
+DOI: 10.2186/jpr.JPOR_2019_436
+PMID: 32938870 [Indexed for MEDLINE]
