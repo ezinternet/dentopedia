@@ -2,7 +2,7 @@
 title: "임플란트 — implants"
 authors: navigation
 year: 2026
-date: 2026-10-04
+date: 2026-10-05
 doi: N/A
 source: navigation
 category: implants
@@ -16,21 +16,21 @@ tags: [navigation, category-index, implants]
 > - **분야**: 임플란트
 > - **범위**: Implant macrogeometry/thread & design, osseointegration biology, abutment & connection, bone quality/density, FEA stress analysis, failure risk factors & systemic-condition effects, flapless vs flapped surgery, zirconia vs titanium implants, prosthesis misfit — topics without their own subcategory.
 > - **하위 카테고리**: [[full-arch]] · [[isq]] · [[loading-protocol]] · [[mbl]] · [[osseodensification]] · [[osteotomy-thermal]] · [[peri-implantitis]] · [[ridge-augmentation]] · [[short-narrow]] · [[soft-tissue]] · [[surface]] · [[survival]] · [[vertical-ridge-augmentation]] · [[vitamin-d]]
-> - **수록 논문**: 71편
+> - **수록 논문**: 74편
 
 ## Three-line Summary
 
 **Scope**: Implant macrogeometry/thread & design, osseointegration biology, abutment & connection, bone quality/density, FEA stress analysis, failure risk factors & systemic-condition effects, flapless vs flapped surgery, zirconia vs titanium implants, prosthesis misfit — topics without their own subcategory.
-**Indexed papers**: 71 papers in `wiki/implants/`.
+**Indexed papers**: 74 papers in `wiki/implants/`.
 **Sub-categories**: [[full-arch]], [[isq]], [[loading-protocol]], [[mbl]], [[osseodensification]], [[osteotomy-thermal]], [[peri-implantitis]], [[ridge-augmentation]], [[short-narrow]], [[soft-tissue]], [[surface]], [[survival]], [[vertical-ridge-augmentation]], [[vitamin-d]]
 
 ## 세줄요약
 
 **분야**: 임플란트
-**수록 논문**: 71편
+**수록 논문**: 74편
 **하위 카테고리**: full-arch, isq, loading-protocol, mbl, osseodensification, osteotomy-thermal, peri-implantitis, ridge-augmentation, short-narrow, soft-tissue, surface, survival, vertical-ridge-augmentation, vitamin-d
 
-## Papers in this Category (71)
+## Papers in this Category (74)
 
 | Paper |
 |---|
@@ -52,11 +52,13 @@ tags: [navigation, category-index, implants]
 | [[dambrosio-2026-clinical-risk-medico-legal-implications|Clinical Risk and Medico-Legal Implications in Zygomatic Implant Rehabilitation: An Umbrella Review of Systematic Reviews]] |
 | [[elchaar-2021-tapered-self-cutting-tissue-level-minipig|A novel fully tapered, self-cutting tissue-level implant: non-inferiority study in minipigs]] |
 | [[erdogdu-2024-abutment-angle-bone-quality-fatigue-fea|Assessment of the Impact of Bone Quality and Abutment Configuration on the Fatigue Performance of Dental Implant Systems Using Finite Element Analysis (FEA)]] |
+| [[esposito-2009-1-vs-2-stage-implant-placement-cochrane|Interventions for replacing missing teeth: 1- versus 2-stage implant placement]] |
 | [[gallucci-2026-current-state-of-evidence-for|Current State of Evidence for Implant Placement and Loading in Partially Edentulous Patients: A Systematic Review.]] |
 | [[gaviria-2014-current-trends-dental-implants-review|Current trends in dental implants]] |
 | [[gehrke-2024-implant-dentistry-review-2024|Contemporary aspects of implant dentistry: a narrative review]] |
 | [[gehrke-2026-influence-reduced-cortical-bone-compression|Influence of Reduced Cortical Bone Compression by Implant Macrogeometry on Peri-Implant Bone Healing: An In Vitro and In Vivo Experimental Study]] |
 | [[hussein-2019-thread-depth-implant-shape-stress-mandible-fea|Thread Depth and Implant Shape on Stress Distribution in the Mandible: A Finite Element Analysis]] |
+| [[irandoust-2020-interplay-bone-healing-remodeling-dental|The interplay between bone healing and remodeling around dental implants]] |
 | [[james-2025-future-dental-implants-trends-technologies|The Future of Dental Implants: A Narrative Review of Trends, Technologies, and Patient Considerations]] |
 | [[jokstad-2014-3d-misfit-implant-prosthesis-long-term|New 3D technologies applied to assess the long-term clinical effects of misfit of the full jaw fixed prosthesis on dental implants]] |
 | [[joshi-2025-implant-tooth-proximity-sr-ma|The Clinical Impact of Dental Implant Placement in Close Proximity to Natural Teeth: A Systematic Review and Meta-Analysis]] |
@@ -91,6 +93,7 @@ tags: [navigation, category-index, implants]
 | [[rios-santos-2020-one-abutment-one-time-rct|One Abutment One Time: A Multicenter, Prospective, Controlled, Randomized Study]] |
 | [[rosa-2024-do-dental-implants-bone-types|Do dental implants installed in different types of bone (I, II, III, IV) have different success rates? A systematic review and meta-analysis]] |
 | [[ruhstorfer-2024-customized-vs-conventional-healing-abutments-sr|Systematic review of peri-implant conditions and aesthetic outcomes of customized versus conventional healing abutments]] |
+| [[s41598-021-90142-5|The limit of tolerable micromotion for implant osseointegration: a systematic review]] |
 | [[sahoo-2024-finite-element-analysis-influence-implant|Finite Element Analysis of the Influence of Implant Tilting and the Direction of Loading on the Displacement and Micromotion of Immediately Loaded Implants]] |
 | [[seijas-naya-2025-concave-straight-abutment-bone-rct|Influence of Abutment Shape on Implant Marginal Bone Remodeling: A Double-Blind, Randomized 24-Month Clinical Study]] |
 | [[seong-2016-external-internal-implant-connection-system|External vs internal implant connection system]] |
