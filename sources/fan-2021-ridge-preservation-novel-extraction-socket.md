@@ -10,7 +10,7 @@ source_collection: external
 ---
 
 ## Why Ingested
-This experimental dog study evaluates a novel extraction socket model with thin buccal wall and the effect of Bio-Oss collagen for ridge preservation, comparing dimensional and histological outcomes to untreated sockets.
+This experimental dog study evaluates a novel extraction socket model with thin buccal wall and the effect of Bio-Oss collagen for ridge preservation, comparing dimensional and histological outcomes to untreated sockets. See [[fan-2021-ridge-preservation-novel-extraction-socket]].
 
 ## Three-line Summary
 Line 1: Experimental study in dogs using a novel extraction socket model (very thin buccal wall) comparing Bio-Oss collagen (BC) vs untreated control (CT).
