@@ -1,0 +1,49 @@
+1. J Prosthodont. 2023 Jun;32(5):382-391. doi: 10.1111/jopr.13655. Epub 2023 Feb 
+14.
+
+Is the clinical performance of internal conical connection better than internal 
+non-conical connection for implant-supported restorations? A systematic review 
+with meta-analysis of randomized controlled trials.
+
+Rodrigues VVM(1), Faé DS(2), Rosa CDDRD(3), Bento VAA(3), Lacerda MFLS(1), 
+Pellizzer EP(3), Lemos CAA(1).
+
+Author information:
+(1)Department of Dentistry, Federal University of Juiz de Fora (UFJF), Campus 
+Avançado Governador Valadares, Governador Valadares, Minas Gerais, Brazil.
+(2)Postgraduate Program in Applied Health Sciences (PPGCAS), Federal University 
+of Juiz de Fora (UFJF), Campus Avançado Governador Valadares, Governador 
+Valadares, Minas Gerais, Brazil.
+(3)Department of Dental Materials and Prosthodontics, Aracatuba Dental School, 
+UNESP-Univ Estadual Paulista, Araçatuba, São Paulo, Brazil.
+
+PURPOSE: To evaluate bone loss, prosthodontics and biological complications, and 
+implant survival rates of internal conical connections (ICC) compared with 
+internal non-conical connection (INCC) implants.
+METHODS: The systematic review was registered on PROSPERO (CRD42021237170). 
+Meta-analysis was performed using standardized mean difference (SMD) for bone 
+loss and risk ratio (RR) for implant survival and complication rates. Risk of 
+bias analysis was evaluated using RoB 2.0, whereas the GRADE tool was used to 
+evaluate the certainty of evidence. A systematic search of the PubMed, Web of 
+Science, Embase, Cochrane, and ProQuest databases was performed independently by 
+two reviewers for articles published up to March 2022. The search criteria had 
+no language or publication date restrictions. Handsearching analysis was 
+performed in the reference list of potential articles.
+RESULTS: Twelve randomized clinical trials, including 678 patients and 1006 
+implants (ICC [n = 476]; INCC [n = 530]), were included. Meta-analysis revealed 
+that ICC demonstrated a lower risk for marginal bone loss (SMD: -0.80 mm; 
+p = 0.004) and prosthodontics complications (RR: 0.16; p = 0.01) than INCC. 
+However, both internal connections demonstrated no significant difference in 
+implant survival rates (RR: 0.54; p = 0.10) and biological complications (RR: 
+0.90; p = 0.82). The overall risk of bias revealed some concerns and a low risk 
+of bias for most of the included studies. However, the certainty of evidence of 
+outcomes was considered low to moderate.
+CONCLUSION: ICC may be considered a more favorable treatment option than INCC 
+owing to greater preservation of peri-implant bone tissue and a lower 
+probability of prosthodontics complications. However, well-conducted studies 
+with long-term follow-up are warranted.
+
+© 2023 by the American College of Prosthodontists.
+
+DOI: 10.1111/jopr.13655
+PMID: 36700461 [Indexed for MEDLINE]
