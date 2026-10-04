@@ -12,6 +12,7 @@ tags: []
 ---
 
 ## 임플란트 — 디자인·생존율·실패위험 (Implants: Design / Survival / Risk)
+- [[implants/s41598-021-90142-5]] — Kohli 2021 · sr · **마이크로모션 허용 한계 SR** (25 in vivo 연구, 1 인간+24 동물): 골유착 112±176 µm vs 비골유착 349±231 µm(p<0.001)이나 범위 15–750 µm로 광범위 겹침 → **보편적 150 µm 임계값 없음**; HA코팅·큰나사·사각공극·저빈도부하·휴지기·≥9주 관찰이 고마이크로모션서도 골유착 허용 (DOI 10.1038/s41598-021-90142-5)
 - [[implants/surendra-2025-flapless-versus-flapped-crestal-bone]] — Surendra 2025 · rct · 하악 구치부 healed-ridge 단일치 (n=40): flapless가 flapped보다 치조정 골소실 유의하게 적음 (6개월 0.48 vs 0.82 mm, p<0.001), 생존율 100% (DOI 10.4103/jpbs.jpbs_1368_25)
 - [[implants/tarpara-2025-flapless-flapped-clinical-outcomes-cohort]] — Tarpara 2025 · prospective · 단일 구치부 임플란트 비무작위 코호트 (n=20, 12개월): flapless가 술후 통증·6개월 탐침깊이는 낮으나 치조정 골높이는 차이 없음 — Surendra RCT와 상충 (DOI 10.7759/cureus.82547)
 - [[implants/full-arch/koyama-2025-single-vs-two-implant-mandibular-overdenture-sr-ma]] — Koyama 2025 · sr+ma · 하악 1 vs 2 임플란트 오버덴쳐: 생존율 5년까지 동등, 의치 파절·재제작·하우징 재부착은 1-IOD에서 ~2배 (DOI 10.1186/s40729-025-00647-1)
@@ -126,7 +127,9 @@ tags: []
 - [[implants/mahmood-hashemi-2024-causes-implant-migration-maxillary-sinus-case-series]] — 후향 케이스 시리즈 (J Dent Shiraz 2024, 테헤란 의대, 25년 39명): 상악동 변위 원인의 단계별 분포(식립 중 22/39 — 잔존골부족·과드릴링 각11, 폐쇄형 sinus lift 6, 즉시식립 3; 술후 힐링어버트먼트 5·보철 3) + 전부 Caldwell-Luc로 제거, 2–10년 무합병증; 잔존골<5mm→sinus lift 예방, 변위 후 31/39 재치료 거부.
 - [[overviews/failed-implant-removal-sinus-retrieval-overview]] — **NEW Overview** (5편, 2026-07-06): 실패/변위 임플란트 제거 종합 — 일반 explantation은 CTRT(4mm/>200Ncm 임계값) 1차 선택, 지르코니아는 예외(파괴인성 4–18 vs Ti 77 MPa·m^0.5), peri-implantitis가 제거원인 ~82%, 재식립 71–100%; 상악동 변위는 시점(post-loading↑opacification·osteitis)이 예후 결정, Caldwell-Luc/FESS/확장 골창 즉시제거 + 잔존골<5mm sinus lift 예방.
 - [[overviews/implant-removal-criteria-overview]] — **NEW Overview** (6편, 2026-08-30): 임플란트 발거 기준 종합 — 절대기준: 동요(Mobility)·골절(Fracture)·골소실≥⅔ 임플란트 길이(PI-X, Cafferata 2025); 상대기준: 비외과→외과 치료 불응성 주위염(Hong 2024 플로우차트); 고위험 인자(구치부 OR=3.21·화농 OR=4.51·피개의치 OR=3.59, Zhou 2026); 근거 공백 — 정밀 역치 RCT 없음, 치료 무반응성이 실제 트리거; 기법 선택은 failed-implant-removal-sinus-retrieval-overview 참조.
+- [[implants/loading-protocol/esposito-2009-interventions-replacing-missing-teeth]] — Cochrane SR+MA (5 RCT, 239명, 761 임플란트, search to Jan 2009): 1단계(비침지) vs 2단계(침지) 식립 비교 — 보철/임플란트 실패·변연골소실·합병증·연조직 퇴축 모두 유의차 없음(RR 1.87/1.39, GRADE 보통); 부분무치악은 1단계 유리(2차수술 회피·치료단축), 완전무치악·초기고정 미흡·GBR 차폐막·가철성 임시보철 과부하 시 2단계 권장.
 - [[implants/loading-protocol/arghami-2021-immediate-early-loading-hydroxyapatite-coated]] — 전향적 RCT 7년 (n=50, LSU): HA 코팅 임플란트 (Zimmer Tapered Screw-Vent) 즉시부하 vs 조기(3주) 부하 — 누적 생존율 98.0% (즉시 100%/조기 95.5%); 2yr↔7yr MBL 차이 없음.
+- [[implants/loading-protocol/jcm-10-01077]] — 5년 RCT (n=50, 상악 심미부 15–25번 단일치): 즉시 vs 지연 부하 생존(100% vs 95.8%)·MBL(−0.50 vs −0.54mm)·유두·PES·WES 모두 동등; 흡연만 유의 골소실 증가(p=0.021) (DOI 10.3390/jcm10051077)
 - [[implants/soft-tissue/tavelli-2025-soft-tissue-dehiscences-implant-sites-ao-aap]] — AO/AAP SR+meta-regression (221 연구, JPER 2025;96:562): peri-implant soft tissue dehiscence (PSTD) prevalence 46.2%, MREC 23.1%; 위험인자 (thin biotype·KT 부족·협측 위치·즉시식립·흡연) vs 보호인자 (≥2 mm KT·CTG·emergence profile).
 - [[implants/soft-tissue/dadlani-2024-efficacy-xenogeneic-collagen-matrices-augmenting]] — Dadlani 2024 (SR+MA, 9편/MA 6편, Clin Exp Dent Res): bone graft 없는 임플란트 연조직 증대 XCM vs 자가이식; KMW·STT 자가이식 우위 (KMW 통합 MD −0.96mm), 심미 동등·XCM 술시간/통증 우위 (2024)
 - [[implants/soft-tissue/rios-osorio-2025-xcm-vs-ctg-fgg-implant-soft-tissue-sr-ma]] — 17편 RCT SR+MA: 임플란트 부위 연조직 증대 시 비가교 XCM < CTG(MT), 가교형 VCMX = CTG(MT), FGG > XCM*(KMW 1.47mm 우위)
@@ -160,6 +163,7 @@ tags: []
 - [[implants/survival/alrowis-2025-factors-affecting-dental-implant-failure-retrospective]] — 후향적 환자대조연구 (King Saud대, 사우디; 2017–2022 적출 실패 임플란트 132개): 적출 사유 골유착 부족 36.4%·초기고정(일차안정성) 부재 22.4% 2위·주변임플란트염(Peri-implantitis) 14.0%; 생존의 유의 예측인자는 임플란트 유형(p=0.004)·보철 유형(p=0.001, OD 3.44배·크라운 2.42배 실패 위험↑); 성별(p=0.001)·전신질환·흡연(p=0.004)이 실패 기전과 연관, 실패 환자의 63.6%가 정기관리(메인터넌스) 미이행 (DOI 10.3390/healthcare13121356)
 - [[implants/survival/multicenter-2024-survival-analysis-private-practice-prospective]] — Li 2024 · prospective · 민간 2곳 다기관 전향적 코호트 (80명, 166개 Avinent 임플란트, 2015–2017, 24개월): 누적생존율 97.44%(95%CI 93.30–99.03), 실패 4건(2.41%); 일차안정성(Primary Stability) 부재 HR 23.54·이갈이(Bruxism) HR 96.62 (p<0.001, 단변량); 넓은 CI 주의 (DOI 10.4317/jced.61457)
 - [[implants/srikanth-2025-treatment-planning-single-tooth-implant]] — 보철지향적 단일치 임플란트 치료계획 서술적 고찰: 근원심 6–7 mm·협순골 ≥6 mm(모든 면 ≥1.5 mm 잔존골)·교합 간 5–7 mm 보편 기준과 4부위별 우선순위(상악 전치 D3 platform 3–4 mm 아피칼 / 상악 후치 D4 언더드릴 ~0.5 mm·수직골 ≥10 mm·치유 >4–6개월 / 하악 전치 D1–D2 3–4개월 / 하악 후치 D2 하악관 2 mm·mental foramen 5 mm·크라운:임플란트 1:1·성공률 >95%), triangle of bone 배치 개념
+- [[implants/esposito-2009-1-vs-2-stage-implant-placement-cochrane]] — Esposito 2009 · sr (Cochrane, search to Jan 2009): 1-stage vs 2-stage implant placement — only 1 RCT (Barber 1996, n=40) included; no failure difference at 1y. **Withdrawn 2018** (out-of-date, below current Cochrane standards). Superseded by Moustafa Ali 2018, Troiano 2018, Al Amri 2016. (DOI 10.1002/14651858.CD006698.pub3)
 - [[implants/moustafa-ali-2018-submerged-vs-nonsubmerged-implant]] — Moustafa Ali 2018 · sr+ma (RCT 6편/8편 식별, MEDLINE·Cochrane): submerged vs nonsubmerged 치유에서 임플란트·보철 실패 차이 없음, 그러나 침습식의 변연골소실(MBL)이 유의하게 더 큼(MD 0.12 mm, 95% CI 0.00–0.24, I²=0%, P=.04) — 저자 스스로 임상적 의미 없음·검정력 부족·고위험편향 4/6 한정 [abstract-only]
 - [[implants/survival/troiano-2018-early-late-failure-submerged]] — Troiano 2018 · sr+ma + 시험순차분석(TSA), 11편: 비매몰형 치유에서 조기 실패 2% 증가, 만기 실패 차이 없음(TSA 검정력 낮음), MBL 0.13 mm는 비매몰형 유리하나 효과크기 매우 작음 — Moustafa Ali와 골수치 0.01 mm 내 수렴·실패 결론만 상충 [abstract-only]
 - [[implants/mbl/al-amri-2016-crestal-bone-loss-submerged]] — Al Amri 2016 · sr (13편=인체 6+동물 7, 인체 n=8–84·추적 1–5년): submerged vs nonsubmerged 간 치조정골소실(CBL) 차이 없음(인체 6편 중 5편 무차이, 시험부 0.17–0.9 mm vs 대조부 0.02–1.4 mm), PS 연구 제외·동물 비율·효과크기 미산출이 한계 [abstract-only]
@@ -280,6 +284,8 @@ tags: []
 - [[implants/isq/baldi-2018-insertion-torque-isq-tapered-knife-edge]] — prospective (n=75 Anyridge): IT-ISQ 상관관계 중간토크에서만 유의(ρ=0.481), 양쪽 실패 모두 고토크군 (2018)
 - [[implants/isq/rosasdiaz-2026-pitv-classification-repeatability-observational]] — cross-sectional (n=1250): PITV 분류 거의 완벽한 신뢰도(k=0.84), 중등도 예측 타당도(AUC=0.69) (2026)
 - [[implants/isq/elkattan-2026-insertion-torque-isq-bone-level]] — 파일럿 RCT(21명·90개: BL 44/TL 46): ITV(36.0 vs 38.0 Ncm, p=.381)·기저 ISQ 군간 차이 없음, 90일 수평 ISQ만 TL 우세(66.5 vs 57.1, p=.029), ITV–기저 ISQ 상관 r=.493(p<.001)이나 90일 ISQ와 무관 — 이차 안정성은 초기 토크가 아닌 골유착 의존
+- [[implants/isq/ADOH.MS.ID.555605]] — Gil 2016 · in-vitro · 140 implants in 10 bovine ribs (type II bone): thread initiator ↓ insertion torque (24.4 vs 35.3 N, p<0.05) without ↓ ISQ (69.1 vs 72.2); IT-ISQ correlation meaningful only with thread initiator (r=0.587, p<0.05 vs r=0.193, p=0.11) — IT and ISQ reflect distinct biomechanical aspects (shear vs bending resistance) (DOI 10.19080/ADOH.2016.02.555605)
+- [[implants/isq/trisi-2009-implant-micromotion-related-peak]] — Trisi 2009 · in-vitro · 120 Ti-Bone implants in bovine bone (H/N/S density), 5 torque levels (20–100 N/cm): τ=-0.54 (P<0.001) torque vs micromotion; soft bone max 35 N/cm (spinning), hard/normal plateau at 45 N/cm; micromotion >90 μm in soft bone even at max torque — caution for immediate loading in low-density bone.
 
 ## 임플란트 — Osteotomy·Drill·발열 (Osteotomy / Drill / Thermal)
 - [[overviews/dental-research-units-reference-overview]] — **NEW Overview** (레퍼런스, 2026-07-14): 치과 논문에 자주 쓰이는 단위 빈도순 정리 — 5계열(거리·힘/토크·재료강도·방사선량·무차원지수)로 수렴, 각 단위에 대표 임계값 짝지음(MBL <1.5mm, IT ≥35Ncm, ISQ ≥70, CBCT µSv, HbA1c <7%, 불소 ppm). 빈도 mm≫mg>N>µm≈MPa>Ncm; 환산은 ×1000 3개(mm↔µm·MPa↔GPa·mSv↔µSv)+MPa=N/mm². 단위=저장고, 임계값=열쇠.
@@ -528,7 +534,6 @@ tags: []
 - [[immediate-implant/primary-stability/vandenbogaerde-2016-two-surfaces-fresh-sockets-immediately-loaded]] — split-mouth RCT(11명, 22 Neoss, 상악 발치와 즉시부하): 친수성 proactive 표면 12주 ISQ 유의 우수(+3.5 vs −0.3, p=0.021), 3년 MBL·생존 95.5% 동등
 - [[immediate-implant/molar-septum/matsuda-2016-3d-alveolar-bone-maxillary-first-molar-cbct]] — CBCT(150 상악 1대구치): 구개치근 첨부가 상악동에 가장 깊이(−2.2mm), 협/구개 골판 1.58/1.34mm, 치근분지-동저 6.51mm; 3등급 IIP 적합도 틀(~32% 금기)
 - [[immediate-implant/patel-2023-immediate-vs-delayed-implant-survival-sr-ma]] — SR+MA(10편, 700 implants): 즉시 vs 지연 식립 생존율 차이 없음(RR 0.99, 95%CI 0.96–1.02, I²=0%; ~97%)
-- [[immediate-implant/loading-protocol/gjelvold-2021-immediate-delayed-loading-single-tooth-5year-rct]] — 5년 RCT(n=50, 상악 심미부 단일치): 즉시 vs 지연 부하 생존(100 vs 95.8%)·MBL(−0.50 vs −0.54mm)·심미 동등; 골소실은 흡연이 구동(p=0.021)
 - [[immediate-implant/botticelli-2004-immediate-implant-hard-tissue]] — in-vivo (18 subjects, 21 implants, 4mo re-entry): buccal bone resorbed 56%, lingual/palatal 30%; no membrane/graft; immediate implant does NOT preserve ridge
 - [[immediate-implant/araujo-2005-ridge-alterations-immediate-implant-dog]] — Animal (beagle, SLA, 3mo histology): buccal BIC 2.6mm apical to SLA margin; bundle bone completely resorbs; buccal > lingual resorption; immediate implant cannot prevent ridge remodeling
 - [[immediate-implant/esthetic-soft-tissue/chappuis-2017-dimensional-bone-soft-tissue-post-extraction]] — Narrative review (Periodontol 2000 2017): facial wall <1mm in 90% anterior maxilla; bundle bone completely resorbs; 2mm wall required to maintain dimensions; 2/3 resorption within 3 months
@@ -4306,6 +4311,7 @@ tags: []
 - [[implants/liu-2019-early-loading-splinted-implants-posterior-mandible-3year]] — Liu 2019 · prospective multicenter(n=40, 92임플란트, 3년) · 조기부하 스플린팅 하악 구치부 100% 생존, MBL +0.23mm 골증가(p=0.00061)
 - [[implants/survival/barros-2021-sjogrens-syndrome-dental-implants]] — Sjögren 임플란트 우산리뷰(SR 4편/722 implants/189명): 성공률 95.22%이나 AMSTAR-2 3편 critically-low·1편 low quality [sr+ma, abstract-only]
 - [[implants/loading-protocol/heiderich-2020-methodological-quality-loading-time-implants]] — 다중 임플란트 로딩시기 SR 21편 방법론적 질·비뚤림위험 umbrella review(AMSTAR/ROBIS): 8편 high risk of bias, low-risk 12편만 봐도 로딩시기 간 유의차 없음 [sr]
+- [[implants/loading-protocol/chidagam-2017-immediate-versus-delayed-loading-implant]] — Chidagam 2017 · rct (n=20, 20 임플란트) · 하악 제1대구치 단일치 즉시부하(≤2일) vs 지연부하(3개월) 6년 추적: 생존율 100% vs 100%, MBL 6개월 0.1~0.15mm, 탐침깊이 즉시군 유의감소(1.8→1.2mm, p=0.028), 주위임플란트 방사선투과도 0% — 즉시부하가 지연부하와 동등한 장기 결과 [rct]
 - [[implants/survival/zarzar-2023-implants-radiotherapy-head-neck]] — Umbrella review(SR 15편, 임플란트 24,996개): 방사선치료군 성공률 86.2% vs 비치료군 95.2%, AMSTAR2 high quality 1/15편 (partially superseded by pacheco-2025) [sr]
 - [[implants/full-arch/merli-2018-implant-prosthetic-rehabilitation-bone-atrophy]] — 우산리뷰(SR 12편, RCT 기반, ROBIS 저위험 8/12): 짧은 임플란트(≤8mm)는 골증대 동반 긴 임플란트 대비 합병증 뚜렷이 감소 [sr, abstract-only]
 
@@ -4559,6 +4565,7 @@ tags: []
 - [[implants/mbl/alrabeah-2016-effect-platform-switching-metal-ion]] — Alrabeah 2016 · in-vitro(가속부식, 1% 젖산) · PM이 PS보다 V·Al·Co·Cr·Mo 금속이온 방출 약 2배 많음(p<0.05) — 부식 기전을 PS 골보존 효과의 새 축으로 추가
 - [[implants/mbl/chien-2016-effect-platform-switching-periimplant-crevicular]] — Chien 2016 · prospective(split-mouth 14명, 초기치유 1·2·4·6주 PICF 사이토카인) · PD·IL-6·MIP-1β는 양군 유사, 단 TNF-α는 PS가 1주차에 오히려 3배 높음(p=0.005) — 염증침윤 거리이동 가설에 대한 반례성 소견
 - [[implants/mbl/rossi-2015-randomized-clinical-investigation-titanium-implants]] — Rossi 2015 · rct(PS 21 vs 표준 18, 6개월) · PS와 표준 임플란트 간 변연골수준 유의차 없음 — PS 이점을 못 찾은 소수 RCT 중 하나, juan-montesinos-2022 SR+MA와 contradicts
+- [[implants/mbl/verma-2024-comparison-bone-loss-submerged-nonsubmerged]] — Verma 2024 · rct(하악 구치부 30임플란트/16명, 3개월) · submerged(커버스크류) 0.18mm vs non-submerged anatomical 힐링어버트먼트 0.34mm(p<0.001) vs esthetic 힐링어버트먼트 0.21mm(NS vs submerged) · 초기 골유착기 submerged 치유가 변연골소실 최소화에 유리, esthetic 디자인이 anatomical보다 우월 (DOI 10.4103/njms.njms_116_22)
 
 ## Batch ingest (added 2026-08-15) — DeepSeek 하이브리드 인제스트 (15편 신규: 감염관리·구강점막염·구강미생물·치주·우식·구강외과)
 
