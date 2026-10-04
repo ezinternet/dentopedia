@@ -590,3 +590,25 @@ Found by manual PDF discovery (not the original scout search), 2026-07-25 — sa
       "LLLT temporomandibular joint disorders" — 
 - [x] PMID 30916621 | SR | OA:none | masticatory-muscle-pain | edat 2019/01/01 — INGESTED 2026-10-01 → wiki/tmj/tesch-2019-effectiveness-dry-needling-local-pressure
       "DN masticatory myofascial pain pressure threshold" — 
+- [x] PMID 29316568 | MA/SR | OA:none | implant-submerged-fixture | edat 2018/01/01 — INGESTED 2026-10-04 → wiki/implants/moustafa-ali-2018-submerged-vs-nonsubmerged-implant
+      "Effect of Submerged vs Nonsubmerged Implant Placement Protocols on Implant Failure and Marginal Bone Loss: A Systematic Review and Meta-Analysis" — The International journal of prosthodontics
+- [x] PMID 29574852 | MA/SR | OA:none | implant-submerged-fixture | edat 2018/05/01 — INGESTED 2026-10-04 → wiki/implants/survival/troiano-2018-early-late-failure-submerged
+      "Early and late implant failure of submerged versus non-submerged implant healing: A systematic review, meta-analysis and trial sequential analysis" — Journal of clinical periodontology
+- [x] PMID 26794700 | SR | OA:none | implant-submerged-fixture | edat 2016/05/01 — INGESTED 2026-10-04 → wiki/implants/mbl/al-amri-2016-crestal-bone-loss-submerged
+      "Crestal bone loss around submerged and nonsubmerged dental implants: A systematic review" — The Journal of prosthetic dentistry
+- [x] PMID 29143389 | comparative study | OA:none | implant-submerged-fixture | edat 2018/02/01 — INGESTED 2026-10-04 → wiki/implants/wu-2018-submerged-nonsubmerged-internal-hexagonal
+      "Clinical and Radiologic Outcomes of Submerged and Nonsubmerged Bone-Level Implants with Internal Hexagonal Connections in Immediate Implantation: A 5-Year Retrospective Study" — Journal of prosthodontics : official journal of the American College of Prosthodontists
+- [x] PMID 35060200 | RCT | OA:PMC PMC9303227 | implant-internal-connection | edat 2022/03/01 — INGESTED 2026-10-04 → wiki/implants/walter-2022-two-types-two-piece-dental-implants
+      "Randomized controlled clinical study comparing two types of two-piece dental implants supporting fixed restorations-Results at 8 years of loading" — Clinical oral implants research
+- [x] PMID 32938870 | MA/SR | OA:none | implant-internal-connection | edat 2021/02/24 — INGESTED 2026-10-04 → wiki/implants/liu-2021-clinical-radiographic-performance-one-piece
+      "Clinical and radiographic performance of one-piece and two-piece implant:a systematic review and meta-analysis" — Journal of prosthodontic research
+- [x] PMID 36700461 | MA/SR | OA:none | implant-internal-connection | edat 2023/06/01 — INGESTED 2026-10-04 → wiki/implants/mbl/rodrigues-2023-clinical-performance-internal-conical
+      "Is the clinical performance of internal conical connection better than internal non-conical connection for implant-supported restorations? A systematic review with meta-analysis of randomized controlled trials" — Journal of prosthodontics : official journal of the American College of Prosthodontists
+- [x] PMID 31862145 | MA/SR | OA:none | implant-internal-connection | edat 2020/10/01 — INGESTED 2026-10-04 → wiki/implants/mbl/yu-2020-internal-tapered-vs-nontapered-connection
+      "Is an internal tapered connection more efficient than an internal nontapered connection? A systematic review and meta-analysis" — The Journal of prosthetic dentistry
+- [ ] PMID 34830709 | journal article | OA:PMC PMC8621760 | implant-internal-connection | edat 2021/11/20
+      "Marginal Bone Loss around Implants with Internal Hexagonal and Internal Conical Connections: A 12-Month Randomized Pilot Study" — Journal of clinical medicine
+- [ ] PMID 36382704 | journal article | OA:none | implant-internal-connection | edat 2022/01/01
+      "Implant-Abutment Connections: A Structured Review" — Journal of long-term effects of medical implants
+- [ ] PMID 37654392 | journal article | OA:PMC PMC10466507 | implant-internal-connection | edat 2023/07/01
+      "Radiographic and Clinical Evaluation of Implant Prosthetic Treatment with One Piece versus Two Piece Dental Implants: A Comparative Prospective Study" — Journal of pharmacy & bioallied sciences

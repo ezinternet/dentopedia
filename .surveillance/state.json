@@ -203,6 +203,24 @@
         "MA"
       ],
       "last_run_edat": "2026/07/14"
+    },
+    "implant-submerged-fixture": {
+      "query": "(\"submerged implant\"[tiab] OR \"submerged implants\"[tiab] OR \"non-submerged\"[tiab] OR \"nonsubmerged\"[tiab] OR \"submerged healing\"[tiab] OR \"submerged placement\"[tiab] OR \"submerged technique\"[tiab] OR \"submerged approach\"[tiab]) AND (\"dental implant\"[tiab] OR \"dental implants\"[tiab] OR \"oral implant\"[tiab] OR \"oral implants\"[tiab] OR \"implant fixture\"[tiab] OR \"implant fixtures\"[tiab] OR osseointegration[tiab])",
+      "ptyp": [
+        "RCT",
+        "SR",
+        "MA"
+      ],
+      "last_run_edat": "2026/10/04"
+    },
+    "implant-internal-connection": {
+      "query": "(\"internal connection\"[tiab] OR \"internal connections\"[tiab] OR \"internal hex\"[tiab] OR \"internal hexagon\"[tiab] OR \"internal hexagonal\"[tiab] OR \"internal tapered\"[tiab] OR \"internal torque\"[tiab] OR \"internal screw\"[tiab]) AND (\"dental implant\"[tiab] OR \"dental implants\"[tiab] OR \"implant abutment\"[tiab] OR \"implant abutments\"[tiab] OR \"implant fixture\"[tiab] OR \"dental implant-abutment\"[tiab])",
+      "ptyp": [
+        "RCT",
+        "SR",
+        "MA"
+      ],
+      "last_run_edat": "2026/10/04"
     }
   },
   "seen_pmids": [
@@ -228,14 +246,18 @@
     "25615637",
     "26669545",
     "26701351",
+    "26794700",
     "27314123",
     "27861657",
     "28358121",
     "28517971",
     "28736605",
+    "29143389",
     "29179971",
     "292031",
     "29240793",
+    "29316568",
+    "29574852",
     "29770236",
     "30328194",
     "30328205",
@@ -249,12 +271,14 @@
     "31223070",
     "31292983",
     "31846073",
+    "31862145",
     "31955269",
     "32395387",
     "3248362",
     "32542725",
     "32593704",
     "32613433",
+    "32938870",
     "33028052",
     "33141935",
     "33155455",
@@ -286,11 +310,13 @@
     "34719055",
     "3477408",
     "34816902",
+    "34830709",
     "34957937",
     "34967349",
     "349689",
     "35033725",
     "35055811",
+    "35060200",
     "35147483",
     "35213347",
     "35219459",
@@ -322,6 +348,7 @@
     "36265394",
     "36314254",
     "36321621",
+    "36382704",
     "36389398",
     "36403660",
     "36410582",
@@ -331,6 +358,7 @@
     "36511914",
     "36539885",
     "36543651",
+    "36700461",
     "36732751",
     "36894675",
     "36943673",
@@ -351,6 +379,7 @@
     "37508716",
     "37532770",
     "37544352",
+    "37654392",
     "37672415",
     "37678744",
     "37720502",

@@ -256,3 +256,61 @@ ingest 라우팅: 치실/치간칫솔/구강세정기 효능 RCT·SR → `period
 (toothpaste[tiab] OR dentifrice[tiab] OR dentifrices[tiab])
 ```
 **초고volume**(RCT/SR/MA만 1700+편) — sweep는 newest-first로 받아 **하위 테마별 1~2편**만 선별. 주요 축: 불소/항우식(고불소·아르기닌·NaF), 지각과민(SnF₂·바이오글라스·NovaMin·아르기닌), 항침식(stannous), 미백(blue covarine·과산화물), 치석(SnF₂+zinc), 천연/허브, 의치세정. DH(지각과민) RCT가 특히 많아 중복 주의. 라우팅: 항우식→`caries`, 지각과민→`dentin-hypersensitivity`, 침식→`dental-erosion`, 미백/연마→`dental-materials`.
+
+---
+
+### implant-submerged-fixture (매몰식 vs 비매몰식 식립 / fixture 프로토콜)
+
+```
+("submerged implant"[tiab] OR "submerged implants"[tiab] OR "non-submerged"[tiab] OR "nonsubmerged"[tiab] OR "submerged healing"[tiab] OR "submerged placement"[tiab] OR "submerged technique"[tiab] OR "submerged approach"[tiab]) AND ("dental implant"[tiab] OR "dental implants"[tiab] OR "oral implant"[tiab] OR "oral implants"[tiab] OR "implant fixture"[tiab] OR "implant fixtures"[tiab] OR osseointegration[tiab])
+```
+
+**목적**: fixture 매몰 여부(submerged vs non-submerged healing, 2차 수술 유무)가 생존율·크레스탈 골소실·연조직 치유에 미치는 영향. `implant` 상위 토픽과 `implant-primary-stability` 사이의 중간 해상도 축.
+
+**노이즈 실측 (2026-10-04 시드 sweep)**:
+- 코어 쿼리(위 문장 그대로) = **411편** 전 기간, `+RCT/SR/MA` = **57편** → ptyp 켜면 triage 물량이manageable.
+- 6쿼리 합집합 스윕(761 unique PMID, 쿼리별 retmax 200 상한)에서 **대량 노이즈는 3군데에 집중**: ① 2-piece zirconia 임플란트 시트(zirconia는 통상 `submerged`(피복)·`two-piece`와 짝지어 서술됨) ② whole-arch / full-arch fixed prosthesis 리뷰 ③ peri-implantitis 치료·.Diagnostics. 셋 다 `[tiab]` 앵커로 걸러지지 않으므로 **abstract 단계에서 dental fixture 프로토콜 비교인지부터 확인**할 것.
+- **ptyp를 비우면 411편 전체가 살아난다** — Brånemark 원형 2단계 코호트, Albrektsson 원격 교부 등 **고전 submerged 1차 논문**이 여기 실려 있다. 매몰식 프로토콜의 원론을 다시 잡아야 할 때는 ptyp 빈 토픽을 임시로 쓴 뒤 되돌릴 것.
+
+**주요 변수 축** (ingest 우선순위):
+1. 매몰식 vs 비매몰식 × **생존율** 및 조기실패(early failure) / 만기실패(late failure) 분리
+2. 매몰식 vs 비매몰식 × **크레스탈 골소실(MBL)** — 이 축이 논문 간 불일치 최대 지점(§tension 참조)
+3. 연결형태(internal hexagonal / conical / tapered)가 매몰식 효과에 미치는 **교차축**(두 토픽의 접합점)
+4. 매몰식 vs 비매몰식 × 연조직 치유·점막염·미용적 결과
+5. 2차 수술(second-stage surgery) 시점·방식(closed/open, flap vs flapless)
+
+**라우팅**: 실패·생존율 → `implants/survival`, 골소실 → `implants/mbl`, 프로토콜·임상성능 → `implants`. 선행 근거: `kim-2022-abutment-connection-mbl-survival`(연결형태→MBL)이 `implants/mbl`에 있음.
+
+**현황 (2026-10-04)**: ingest 4편 — `moustafa-ali-2018`(SR+MA), `troiano-2018`(SR+MA+TSA, `implants/survival`), `al-amri-2016`(SR, `implants/mbl`), `wu-2018`(5년 회고적, internal hexagonal).
+
+**tension (파일에 이미 기록)**: MBL 축에서 세 편이 서로 어긋난다 — Moustafa Ali는 submerged에서 **유의한 증가**(MD 0.12 mm), Al Amri는 **무차이**, Troiano은 **비매몰형이 유리**(0.13 mm). 조기실패는 Troiano만 비매몰형에 +2% 페널티. 단일 "정답"을 내지 말고 축별로 쪼개 참조할 것.
+
+---
+
+### implant-internal-connection (내부형 연결 / internal connection · conical · hex · tapered)
+
+```
+("internal connection"[tiab] OR "internal connections"[tiab] OR "internal hex"[tiab] OR "internal hexagon"[tiab] OR "internal hexagonal"[tiab] OR "internal tapered"[tiab] OR "internal torque"[tiab] OR "internal screw"[tiab]) AND ("dental implant"[tiab] OR "dental implants"[tiab] OR "implant abutment"[tiab] OR "implant abutments"[tiab] OR "implant fixture"[tiab] OR "dental implant-abutment"[tiab])
+```
+
+**목적**: fixture–abutment **연결 설계**(internal conical vs internal tapered vs internal hexagonal vs non-tapered vs external hex)의 임상·방사사·기계적 결과. `implant-submerged-fixture`의 형제축이며, 두 토픽의 교차점(내부 hex 임플란트에 매몰식 vs 비매몰식 비교)이 `wu-2018`로 이미 기보유.
+
+**노이즈 실측 (2026-10-04 시드 sweep)**:
+- 코어 쿼리 = **457편** 전 기간, `+RCT/SR/MA` = **44편**.
+- `internal connection`은 fixture 종류에 구애되지 않고 **수술 가이드·유인치·부하요법· abutment 색인 문헌**까지 모인다 — 반드시 `dental implant OR implant abutment OR implant fixture` 앵커를 유지할 것(앵커 제거 시 치과 외 문헌이 압도).
+- `internal torque`·`internal screw`는 대개 **기계적 micromotion·유격 시험(in vitro)**이라 clinical evidence tier가 낮다. `design[tiab]` 결합으로 clinical-only 축을 더 좁힐 수도 있음.
+- **ptyp 비우면 고전 코호트가 열린다** — 수정체 원판 스크류 유지형 코호트, 구형 internal hex 설계의 5~10년 생존 코호트가 여기 실려 있다.
+
+**주요 변수 축** (ingest 우선순위):
+1. internal conical vs **non-conical**(내부 평측 / butt-joint) — MBL·생존율
+2. internal **tapered** vs internal **nontapered** — 미세변위·Retainer loosening·MBL
+3. internal **hexagonal**(모서리 유닛 수) vs internal **conical** — 콜스탈 크림프, AOF 증가 여부
+4. 연결형태 × 매몰식/비매몰식(2차 수술 존재가 미seal을 바꾸므로)
+5. 연결형태 × **점막염·연조직 seal** 및 생물학적 실패
+6. one-piece(연결 자체가 없음) vs two-piece(내부 연결) — `liu-2021`↔`pirc-2026`이 이 축에서 서로 반대 결론
+
+**라우팅**: MBL·치주 기준 → `implants/mbl`, 연결 생존·실패 → `implants/survival`, 설계 비교·임상성능 → `implants`.
+
+**현황 (2026-10-04)**: ingest 4편 — `rodrigues-2023`(SR+MA), `yu-2020`(SR+MA), `walter-2022`(RCT, PMC 전문 — 두 2-piece 시스템 8년 추적), `liu-2021`(SR+MA, one-piece vs two-piece). 큐 잔여 3편: `34830709`(PMID, J Clin Med RCT pilot, PMC8621760), `36382704`(structured review), `37654392`(PMID, PMC10466507, one- vs two-piece).
+
+**주의**: `walter-2022` 출판사 초록은 분모 오타(6/24, 12/25)가 있고 본문(PMC9303227)은 35.7% vs 16.7% 임플란트 레벨 기술적 합병증을 보고 — 분모를 인용할 때 항상 PMC 전문 값 사용.
