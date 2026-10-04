@@ -1,0 +1,30 @@
+1. Int J Prosthodont. 2018 Jan/Feb;31(1):15-22. doi: 10.11607/ijp.5315.
+
+Effect of Submerged vs Nonsubmerged Implant Placement Protocols on Implant 
+Failure and Marginal Bone Loss: A Systematic Review and Meta-Analysis.
+
+Moustafa Ali RM, Alqutaibi AY, El-Din Gomaa AS, Abdallah MF.
+
+PURPOSE: To compare prosthesis and implant failures and marginal bone loss (MBL) 
+resulting from submerged vs nonsubmerged dental implant protocols.
+MATERIALS AND METHODS: Electronic and manual searches of two databases (MEDLINE 
+[PubMed] and Cochrane) were conducted to identify randomized controlled trials 
+(RCTs) comparing submerged to nonsubmerged dental implant protocols. Data were 
+independently extracted by two reviewers, and meta-analyses were performed for 
+the included RCTs. The Cochrane Risk of Bias tool was used to assess the quality 
+of included studies.
+RESULTS: Eight RCTs were identified, and six were included. Four of the included 
+studies were considered to be at high risk of bias, one at unclear risk, and one 
+at low risk. The meta-analysis for studies reporting MBL revealed significantly 
+more bone loss around submerged implants (I2 = 0%, P = .04; mean difference: 
+0.12; 95% confidence interval: 0.00, 0.24); however, there were no differences 
+in implant or prosthesis failures between the two interventions.
+CONCLUSION: Two conclusions were made: (1) There were no differences between the 
+two interventions regarding implant or prosthesis failures, and (2) submerged 
+implants exhibited statistically significantly more MBL, but this difference was 
+not clinically relevant. These conclusions should be interpreted with caution, 
+since the present review is underpowered and the included RCTs were considered 
+to be at high risk of bias.
+
+DOI: 10.11607/ijp.5315
+PMID: 29316568 [Indexed for MEDLINE]
