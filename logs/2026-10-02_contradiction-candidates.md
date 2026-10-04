@@ -1,4 +1,4 @@
-# 논쟁 레이더 백필 후보 — 2026-09-30
+# 논쟁 레이더 백필 후보 — 2026-10-02
 
 명시적 충돌 표현이 있으나 그 쌍에 `relations:` 타입 엣지(어떤 타입이든)도 `superseded_by:` 포인터도 없는 후보. **이 목록은 신호일 뿐 — 두 페이지를 읽고 판단해 엣지를 단다.**
 
@@ -6,9 +6,9 @@
 
 **대상은 키워드에 가장 가까운 링크로 특정한다.** 같은 줄의 나머지 링크는 충돌 표현의 대상이라는 근거가 없어 Tier 2(`AMBIG→`)로 강등된다 — 버리지 않으니 진짜 대상이 강등됐다면 Tier 2에서 찾을 수 있다.
 
-- Tier 1 (대상 지목됨, actionable): **4**
-- Tier 2 (대상 불명/soft, review): **81**
-- (억제됨) 이미 typed 엣지·supersession 포인터가 있어 제외: **316** · 부정문 제외: **128** · 검토·불필요 대장: **444** · 동일 줄 비최근접으로 Tier 2 강등: **0**
+- Tier 1 (대상 지목됨, actionable): **5**
+- Tier 2 (대상 불명/soft, review): **98**
+- (억제됨) 이미 typed 엣지·supersession 포인터가 있어 제외: **316** · 부정문 제외: **144** · 검토·불필요 대장: **444** · 동일 줄 비최근접으로 Tier 2 강등: **0**
 
 ## Tier 1 — 판단 후 엣지 달 후보 (page → 지목된 target)
 
@@ -18,6 +18,14 @@
   - **근거 문장**: - [[drug/antibiotics/momand-2024-antibiotic-prophylaxis-early-implant-failure]] — contradicts; double-blind-only subgroup shows no benefit (RR 0.66)
   - ▸ 출발(`esposito-2026-antibiotics-implant-placement-cochrane-pub5`) 세줄: 코크란 SR+MA pub5 (2025년 11월까지): 15편 RCT, 2874명 — pub4(2013) 대비 RCT 약 3배, 참여자 약 2.5배 확대. 예방적 항생제(주로 술전 아목시실린 2g 단일 투여)가 임플란트 실패(RR 0.34; NNT=19)·보철물 실패·술후 감염을 아마 감소(전부 moderate certainty). 단일 투여 = 다중 투여; 술전 vs 술후, 아목시실린 vs 클린다마이신 간 유의차 없음 — 최적 요법 미확정.
   - ▸ 대상(`momand-2024-antibiotic-prophylaxis-early-implant-failure`) 세줄: 위약대조 이중맹검 RCT 7편만 포함한 SR+MA(환자 1859명/임플란트 3014개; PROSPERO CRD42021292610): 기존 SR+MA들이 비맹검·고위험-비뚤림 연구를 포함해 상충된 결론을 낸 한계를 방법론적으로 극복. 술전 항생제 예방이 조기 임플란트 실패를 유의하게 줄이지 못함(RR 0.66, 95% CI 0.30–1.47; 위험차 −0.007; NNT 143); GRADE 중간; 즉시 발치 후 임플란트 제외 분석에서 방향 역전(RR 1.10) → 항생제 효과는 발치 후 즉시 식
+
+
+### drug/anticoagulants
+
+- `kyyak-2023-platelet-rich-fibrin-ensures-hemostasis`  —[contradict · 반박·충돌]→  **`xiang-2026-continuous-interrupted-doac-minimal-bleeding-sr-ma`**
+  - **근거 문장**: - [[drug/anticoagulants/xiang-2026-continuous-interrupted-doac-minimal-bleeding-sr-ma]] — SR+MA on continuing vs interrupting DOACs; consistent with the conclusion here. No supersession or contradiction: this small RCT neither overturns nor conflicts with existing pages.
+  - ▸ 출발(`kyyak-2023-platelet-rich-fibrin-ensures-hemostasis`) 세줄: 전향적 이중맹검 무작위 분할구강 시험(마인츠, Xa 인자 억제제 복용 환자 21명, 발치와 42개)으로, 항응고제를 중단하지 않고 혈소판풍부피브린 (Platelet-Rich Fibrin, PRF)과 젤라틴 스펀지 (Gelatine Sponge, GS)를 비교했다. 42부위 중 28부위(67%)에서 경미한 스며나옴이 있었고 24건은 거즈 압박 30분 내, 최장 1.5시간 내 지혈되었으며, 출혈 합병증이나 지연 출혈은 없었고 PRF와 GS 간 차이도 없었다(모두 p>0.05). PRF와 GS 모두 봉
+  - ▸ 대상(`xiang-2026-continuous-interrupted-doac-minimal-bleeding-sr-ma`) 세줄: PROSPERO 등록 SR+MA(24편, n=8,663; 심장 절제술 13·박동기 4·치과 4편; 대부분 심방세동으로 DOAC 복용): minimal bleeding-risk 시술에서 DOAC 지속 vs 중단 비교. 전체 풀에서 continuous DOAC이 대출혈(OR 0.57)·혈전(OR 0.54)을 줄였으나, RCT 8편만 분석하면 모든 차이 소실(대출혈 OR 0.82, 혈전 OR 0.53 — 모두 NS): 관찰 데이터의 selection bias 시사; GRADE very low~low. 
 
 
 ### immediate-implant/infected-socket
@@ -86,6 +94,26 @@
   - **근거 문장**: > - 지식 공백: 비조혈계 세포(특히 조골세포) 대상 기전 연구 부족, 혈청형·균주별 이질성으로 인한 상충 결과 다수
   - ▸ 출발(`herbert-2016-aggregatibacter-actinomycetemcomitans-immunoregulator-periodontal`) 세줄: 응집간균 (Aggregatibacter actinomycetemcomitans, Aa)은 백혈구독소 (LtxA), 세포독성팽창독소 (CDT), LPS를 이용해 비조혈계(치은 상피·섬유아세포)와 조혈계(골수계·림프계) 세포 구획 전반에서 숙주 면역을 회피하고 치주 미세환경의 병적 염증을 유발한다. Aa는 여러 세포 유형에서 MAPK/NF-κB, NLRP3 인플라마좀, RANKL/OPG 신호 축을 활성화해 TNF-α·IL-1β·IL-6·IL-17 등 전염증성 사이토카인을 급증시키고, 파골세포 (Ost
 
+- `ne-2022-treatment-dental-erosion-systematic-review` [dental-erosion] (HIGH-no-target, '뒤집' · 뒤집음)
+  - **근거 문장**: 포함 연구가 4편이고 방법이 이질적이며 물만 쓴 음성대조군과 획득피막 (acquired pellicle)이 없어 CPP-ACP 신호는 가설 수준이고, '불소는 효과 없음'으로 일반화하면 안 된다. 스태너스불화물 치약을 우위로 본 상위 수준 우산 리뷰 (umbrella review)를 뒤집지 못한다.
+  - ▸ 출발(`ne-2022-treatment-dental-erosion-systematic-review`) 세줄: 체계적 문헌고찰 (Systematic Review, SR; 메타분석 없음): 인간 영구치에 국소 항침식제를 적용하고 인공타액 (artificial saliva) 대조군과 비교한 실험실 연구 (in vitro) 4편만 포함 (표본 n = 35, 150, 40, 36; 522편 검색), 비뚤림 위험 (risk of bias) 3편 낮음·1편 높음. 불소 치약 2편은 인공타액 대비 뚜렷한 항침식 효과가 없었고 (브라질 연구에서 Sensodyne Pronamel과 Elmex Erosion Protecti
+
+- `chatzidimitriou-2024-role-calcium-prevention-erosive-tooth` [dental-erosion] (HIGH-no-target, 'contradict' · 반박·충돌)
+  - **근거 문장**: Calcium added to juice drinks reduced enamel loss (blackcurrant vs orange juice: 2.6 times less enamel loss, p = 0.0001, I2 = 89%); chewing gum with vs without CPP-ACP showed no significant difference in surface microhardness (p = 0.31, I2 = 71%); results for milk and CPP-ACP pastes were contradictory.
+  - ▸ 출발(`chatzidimitriou-2024-role-calcium-prevention-erosive-tooth`) 세줄: 치아 침식마모 (Erosive Tooth Wear, ETW) 예방에 대한 칼슘 제제를 평가한 in situ 무작위대조시험 체계적 고찰 및 메타분석 (PROSPERO CRD42021229819)으로, 869편 중 21편이 선정되었다. 주스에 칼슘을 첨가하면 법랑질 손실이 감소했고(블랙커런트 주스가 오렌지 주스 대비 2.6배 적은 손실, p = 0.0001, I2 = 89%), 카제인 포스포펩타이드-비정질 인산칼슘 (Casein Phosphopeptide-Amorphous Calcium Phospha
+
+- `chatzidimitriou-2024-role-calcium-prevention-erosive-tooth` [dental-erosion] (HIGH-no-target, '상반되' · 상반)
+  - **근거 문장**: 주스에 칼슘을 첨가하면 법랑질 손실이 감소했고(블랙커런트 주스가 오렌지 주스 대비 2.6배 적은 손실, p = 0.0001, I2 = 89%), 카제인 포스포펩타이드-비정질 인산칼슘 (Casein Phosphopeptide-Amorphous Calcium Phosphate, CPP-ACP) 함유 껌은 유무 간 표면 미세경도 차이가 없었으며(p = 0.31, I2 = 71%), 우유와 CPP-ACP 페이스트의 결과는 상반되었다.
+  - ▸ 출발(`chatzidimitriou-2024-role-calcium-prevention-erosive-tooth`) 세줄: 치아 침식마모 (Erosive Tooth Wear, ETW) 예방에 대한 칼슘 제제를 평가한 in situ 무작위대조시험 체계적 고찰 및 메타분석 (PROSPERO CRD42021229819)으로, 869편 중 21편이 선정되었다. 주스에 칼슘을 첨가하면 법랑질 손실이 감소했고(블랙커런트 주스가 오렌지 주스 대비 2.6배 적은 손실, p = 0.0001, I2 = 89%), 카제인 포스포펩타이드-비정질 인산칼슘 (Casein Phosphopeptide-Amorphous Calcium Phospha
+
+- `chatzidimitriou-2024-role-calcium-prevention-erosive-tooth` [dental-erosion] (HIGH-no-target, 'contradict' · 반박·충돌)
+  - **근거 문장**: Of 869 retrieved studies, 21 were eligible. Calcium-fortified acidic drinks showed the clearest benefit, whereas CPP-ACP chewing gum did not differ from control gum on microhardness and milk and CPP-ACP pastes gave contradictory results. Clinical weight is therefore limited: the signal supports calcium as a dietary-acid modifier, not a proven restorative or clinical ETW-arresting treatment.
+  - ▸ 출발(`chatzidimitriou-2024-role-calcium-prevention-erosive-tooth`) 세줄: 치아 침식마모 (Erosive Tooth Wear, ETW) 예방에 대한 칼슘 제제를 평가한 in situ 무작위대조시험 체계적 고찰 및 메타분석 (PROSPERO CRD42021229819)으로, 869편 중 21편이 선정되었다. 주스에 칼슘을 첨가하면 법랑질 손실이 감소했고(블랙커런트 주스가 오렌지 주스 대비 2.6배 적은 손실, p = 0.0001, I2 = 89%), 카제인 포스포펩타이드-비정질 인산칼슘 (Casein Phosphopeptide-Amorphous Calcium Phospha
+
+- `chatzidimitriou-2024-role-calcium-prevention-erosive-tooth` [dental-erosion] (HIGH-no-target, 'contradict' · 반박·충돌)
+  - **근거 문장**: - Milk and CPP-ACP pastes: contradictory.
+  - ▸ 출발(`chatzidimitriou-2024-role-calcium-prevention-erosive-tooth`) 세줄: 치아 침식마모 (Erosive Tooth Wear, ETW) 예방에 대한 칼슘 제제를 평가한 in situ 무작위대조시험 체계적 고찰 및 메타분석 (PROSPERO CRD42021229819)으로, 869편 중 21편이 선정되었다. 주스에 칼슘을 첨가하면 법랑질 손실이 감소했고(블랙커런트 주스가 오렌지 주스 대비 2.6배 적은 손실, p = 0.0001, I2 = 89%), 카제인 포스포펩타이드-비정질 인산칼슘 (Casein Phosphopeptide-Amorphous Calcium Phospha
+
 - `greenstein-2018-need-replace-missing-second-molar` [occlusion] (HIGH-no-target, 'refut' · 반증)
   - **근거 문장**: - Synthesizes the paradox that super-eruption is common but occlusal interference is not a predictable downstream consequence, refuting reflexive replacement.
   - ▸ 출발(`greenstein-2018-need-replace-missing-second-molar`) 세줄: 제2대구치 (Second Molar) 결손 후 임플란트 (Implant) 수복 여부를 평가한 서술적 문헌고찰 — 저작효율 (Masticatory Efficiency)·과맹출·교합간섭 (Occlusal Interference) 데이터 종합. 제1대구치 교합만으로 저작효율 약 90% 달성; 대합치 없는 구치의 약 20%가 ≥2 mm 정출 (Supraeruption)하나, 정출 정도와 교합간섭 발생은 강한 상관이 없음. 수복 여부는 환자 선호 (Patient Preference)에 따름 — 저작 불편감
@@ -153,6 +181,14 @@
 - `high-insertion-torque-primary-stability-crestal-bone-overview` [overviews] (HIGH-no-target, 'refut' · 반증)
   - **근거 문장**: Lemos's pooled null is absence of evidence rather than evidence of absence — RR 0.51 (95% CI 0.06–4.06) and MBL MD 0.15 mm (95% CI −0.14–0.44) across only 6 studies, averaging populations whose effect sign is opposite; critically, **all human primary studies held — the three above plus Khayat 2011 (up to 176 Ncm, 1-y MBL null), added 2026-09-30 with Manfredini 2025 and Nascimento 2024 — classified
   - ▸ 출발(`high-insertion-torque-primary-stability-crestal-bone-overview`) 세줄: 고삽입토크(IT) 5편은 서로 어긋나 보이지만 — Trisi 2011(양 분할구강 조직학, 40개, 110 vs 10 Ncm), Marconcini 2018(RCT, 치유부위 단일 116개, 3년), Aldahlawi 2018(후향, NobelActive 113개), Faot 2019(전향, 위축 무치악 하악 세경 ø2.9mm 62개, 1년), Lemos 2020(SR+MA, 6편/651개) — IT를 *투여한 용량*이 아니라 *저항한 골을 읽은 값*으로 보면 정합적으로 풀린다. 2026-07-1
+
+- `tmj-dislocation-reduction-recurrence-overview` [overviews] (HIGH-no-target, 'contradict' · 반박·충돌)
+  - **근거 문장**: Nothing in this chain is a contradiction of fact. The consensus did not find contrary data; it declined to recommend a technique its voters could not perform. That is a legitimate guideline decision — a recommendation to use an unfamiliar manoeuvre in an emergency is a recommendation to fail at it — but it has a clear corollary for the wiki: **the technique with the best randomized support is the 
+  - ▸ 출발(`tmj-dislocation-reduction-recurrence-overview`) 세줄: 악관절 탈구 10편은 문헌이 뒤섞어 다루는 두 임상 문제로 깔끔히 갈린다 — 과두를 되돌리는 **복원 (reduction)** 과 다시 빠지지 않게 하는 **재발 방지 (recurrence prevention)**. 10편 중 메타분석은 0편이므로 이 근거 기반 어디에도 통합 추정치는 없다. 임상 부담이 큰 쪽은 두 번째다: 헬싱키 260명에서 평생 2회 이상 탈구가 **61.9%** 이고, 저자들은 재발성 탈구의 급성 복원을 "일시적 처치"로 규정한다. 술기 축에서 유일한 3군 무작위 비교는 *
+
+- `tmj-dislocation-reduction-recurrence-overview` [overviews] (HIGH-no-target, 'contradict' · 반박·충돌)
+  - **근거 문장**: ### 2.2 Dextrose prolotherapy — a real contradiction, resolved by comparator
+  - ▸ 출발(`tmj-dislocation-reduction-recurrence-overview`) 세줄: 악관절 탈구 10편은 문헌이 뒤섞어 다루는 두 임상 문제로 깔끔히 갈린다 — 과두를 되돌리는 **복원 (reduction)** 과 다시 빠지지 않게 하는 **재발 방지 (recurrence prevention)**. 10편 중 메타분석은 0편이므로 이 근거 기반 어디에도 통합 추정치는 없다. 임상 부담이 큰 쪽은 두 번째다: 헬싱키 260명에서 평생 2회 이상 탈구가 **61.9%** 이고, 저자들은 재발성 탈구의 급성 복원을 "일시적 처치"로 규정한다. 술기 축에서 유일한 3군 무작위 비교는 *
 
 - `penicillin-allergy-dental-antibiotic-overview` [overviews] (HIGH-no-target, 'contradict' · 반박·충돌)
   - **근거 문장**: 5. **The sinus-lift allergy recommendation is internally contradictory in the wiki** (ciprofloxacin per SEI 2022 vs clindamycin per Díaz 2025), and neither rests on outcome data in penicillin-allergic sinus-lift patients. A paper measuring infection outcomes by agent in this subgroup would resolve a real chairside question.
@@ -259,6 +295,10 @@
   - ▸ 출발(`nsaid-hypersensitivity-analgesic-selection-overview`) 세줄: 보고된 "NSAID 알러지"·"아스피린 알러지"는 하나의 진단이 아니라 표현형(phenotype) 질문이다 — 병력 3문항과, 애매하면 경구 아스피린 유발검사로 표현형을 정하고, 그 표현형이 다른 NSAID·선택적 COX-2 억제제·아세트아미노펜 중 무엇이 치과 진통에 안전한지를 결정한다. 결정적 갈림길은 교차반응형(화학적으로 무관한 NSAID 2종 이상 반응, 또는 천식·비용종·만성두드러기 환자의 반응 — COX-1 억제·비IgE 기전으로 모든 강력 COX-1 억제제 금기)과 약물특이형(한 가지
   - ▸ 대상(`nsaid-aspirin-antiplatelet-interaction-overview`) 세줄: 5편(건강인 약력학 RCT 1편, OA+IHD 환자 RCT 1편, 9종 NSAID 인비트로 스크린 1편, 피라졸리논 인비트로 1편, 아스피린 State-of-the-Art 종설 1편) 종합: 특정 NSAID는 혈소판 COX-1 소수성 통로를 경쟁적으로 점유해 아스피린의 비가역적 Ser-529/530 아세틸화를 차단함으로써 항혈소판 효과를 소실시킨다. 이 상호작용은 복용 순서 의존적 — 아스피린 먼저(NSAID 2시간 전)면 완전 보존, NSAID 먼저면 차단; 이부프로펜이 최대 방해자(인비트로 4
 
+- `masticatory-muscle-pain-evidence-synthesis-2026` [overviews] (HIGH-no-target, '뒤집' · 뒤집음)
+  - **근거 문장**: > - **결론(thesis)**: 24편은 사다리 순서를 뒤집지 않는다 — 능동치료(도수치료(Manual Therapy, MT)·운동·심리행동) 우선, 장치·전기물리는 보조, 보툴리눔독소 A(Botulinum Toxin Type A, BoNT-A)는 불응 시. 바뀌는 것은 **확실성 수준과 개별 모달리티의 등급**이다.
+  - ▸ 출발(`masticatory-muscle-pain-evidence-synthesis-2026`) 세줄: 새 사다리가 아닌 업데이트 층: 근육형 저작근 통증 SR/MA/NMA 24편(전문 6·초록만 18)을 기존 TMD overview 4편과 대조 — 능동치료 우선 순서는 확인(MT는 치료 NMA 3편 모두 상위 2위)되나, MFR 전용 GRADE는 낮음이고 스플린트·레이저·건침·BoNT-A는 하향 또는 단서 추가. 핵심 충돌은 진짜 모순이 아니라 비교군·대상군 차이: MT 1위(Al-Moraissi 2021, 위약 대조, ~2018) vs PBM 1위(Zhang 2026, 통상치료 대조, ~2025
+
 - `clear-aligner-indications-limitations` [overviews] (HIGH-no-target, '상충' · 상충)
   - **근거 문장**: > - **상악확장**: 성장기서 CAT 확장은 가능하나 conventional expander 대비 유의 적음(Fonseca-Planells 2026), 확장은 주로 **치조성(dentoalveolar)**, 골격엔 conventional 우위. 성인 예측성 후향코호트(de la Rosa-Gay 2025, 98명·multilevel GLMM) — Invisalign 확장 **오차 0.92 mm·과소확장 72.2%**, 상악·구치·crossbite·대량 계획확장일수록 악화. 성인 SR+MA 최초(xianggang 2026, 6편·233명, GRADE 포함) — 부위별 예측성: **1소구치 80.73%(GRADE high·최고)** > 2소구치 78.74%(GRADE moderate) > 1대구치 71.57%
   - ▸ 출발(`clear-aligner-indications-limitations`) 세줄: 투명교정(Clear Aligner Therapy, CAT) 위키 78편을 효율(착용 프로토콜·개방교합 기전·제품라인별 예측성 포함)·이동특이 한계(발치 Roller Coaster Effect·스피 곡선 성형 실패·전치 3D 정확도·구치 근원심 SR·발치 공간폐쇄 SR+MA 포함)·Class II 전략·Class III camouflage/성장기 증례(수술 후 CAT SR 포함)·생체역학/설계(attachment 재료과학·실측 force/moment·브랜드 VTS 비교 포함)·확장(혼합치열 2년 안
@@ -307,6 +347,42 @@
 - `hamdi-2025-surface-pretreatments-sclerotic-dentin-bond-sr` [resin-bonding] (HIGH-no-target, 'conflicting result' · 상충 결과)
   - **근거 문장**: **Inconsistency**: studies reported conflicting results even within the same pretreatment category.
   - ▸ 출발(`hamdi-2025-surface-pretreatments-sclerotic-dentin-bond-sr`) 세줄: SR (8편, in vitro): NCCL 경화상아질 전처리 — EDTA·NaOCl 효과 없거나 열등; 37% 인산 연장(15–90초) ± 샌드블라스팅 잠재적 향상. 증거 수준 낮음, 대부분 높은 비뚤림 위험 — 가이드라인 수립 불충분. 현재 최선 권고: NCCL 경화상아질 → 37% 인산 연장 적용 ± 기계적 거칠기 부여 후 복합레진 접착. ---
+
+- `al-moraissi-2021-hierarchy-different-treatments-myogenous-temporomandibular` [tmj] (HIGH-far→zhang-2026-nonpharmacological-myogenic-tmd-nma, 'contradict' · 반박·충돌)
+  - **근거 문장**: [[tmj/zhang-2026-nonpharmacological-myogenic-tmd-nma]] (41 RCTs, search to Oct 2025, nonpharmacological only) ranks photobiomodulation first for pain (SUCRA 88.9%), manual therapy second (79.9%), and finds occlusal splint and exercise not significant versus conventional care. This 2021 NMA differs in three ways: it includes injections, BTX-A, ozone and hypnosis; its search ended in 2018, before mu
+  - ▸ 출발(`al-moraissi-2021-hierarchy-different-treatments-myogenous-temporomandibular`) 세줄: 체계적 문헌고찰 + 빈도론적 네트워크 메타분석 (Network Meta-Analysis, NMA) 52개 RCT, 성인 근육성 측두하악장애 (Myogenous Temporomandibular Disorders, M-TMD) — 상담치료, 교합장치, 도수치료, 레이저, 건침, 국소마취제 (Local Anesthesia, LA)·보툴리눔독소 A (Botulinum Toxin-A, BTX-A) 주사, 근이완제, 최면·이완, 오존, 위약/무치료 비교 (검색 2018년 8월까지). 대부분의 치료가 위약보다
+
+- `honnef-2022-stabilization-splints-signs-symptoms-muscular-tmd` [tmj] (HIGH-no-target, 'refut' · 반증)
+  - **근거 문장**: A positive splint effect on muscular TMD could be neither confirmed nor refuted; splints are not shown to be superior to alternatives.
+  - ▸ 출발(`honnef-2022-stabilization-splints-signs-symptoms-muscular-tmd`) 세줄: 근원성 측두하악장애 (Temporomandibular Disorders, TMD)에서 안정화 스플린트 (Stabilization Splint)를 다른 치료와 비교한 체계적 문헌고찰 (Systematic Review, SR); 6개 데이터베이스와 회색문헌 검색, 10편 포함 (초록에 메타분석 언급 없음). 스플린트군 (n = 160)은 압통역치·저작 시 통증·개구량·자발통·촉진통에서 다른 치료군 (n = 209)과 동등하다고 보고됨; 비뚤림위험 낮음 5편·일부 우려 5편; 모든 결과에서 근거 확실성
+
+- `honnef-2022-stabilization-splints-signs-symptoms-muscular-tmd` [tmj] (HIGH-no-target, '반박' · 반박)
+  - **근거 문장**: 스플린트의 긍정적 효과는 확인도 반박도 불가하며, 다른 치료 대비 우월성은 입증되지 않음.
+  - ▸ 출발(`honnef-2022-stabilization-splints-signs-symptoms-muscular-tmd`) 세줄: 근원성 측두하악장애 (Temporomandibular Disorders, TMD)에서 안정화 스플린트 (Stabilization Splint)를 다른 치료와 비교한 체계적 문헌고찰 (Systematic Review, SR); 6개 데이터베이스와 회색문헌 검색, 10편 포함 (초록에 메타분석 언급 없음). 스플린트군 (n = 160)은 압통역치·저작 시 통증·개구량·자발통·촉진통에서 다른 치료군 (n = 209)과 동등하다고 보고됨; 비뚤림위험 낮음 5편·일부 우려 5편; 모든 결과에서 근거 확실성
+
+- `honnef-2022-stabilization-splints-signs-symptoms-muscular-tmd` [tmj] (HIGH-no-target, 'refut' · 반증)
+  - **근거 문장**: This systematic review (Cranio 2022; [DOI](https://doi.org/10.1080/08869634.2022.2047510); source: PubMed, PMID 35311479) asked whether stabilization splints improve signs and symptoms of muscular-origin TMD compared with other treatments. Ten articles were included after searching six databases and gray literature. Splints (n = 160) were reported to be as effective as other treatments (n = 209) a
+  - ▸ 출발(`honnef-2022-stabilization-splints-signs-symptoms-muscular-tmd`) 세줄: 근원성 측두하악장애 (Temporomandibular Disorders, TMD)에서 안정화 스플린트 (Stabilization Splint)를 다른 치료와 비교한 체계적 문헌고찰 (Systematic Review, SR); 6개 데이터베이스와 회색문헌 검색, 10편 포함 (초록에 메타분석 언급 없음). 스플린트군 (n = 160)은 압통역치·저작 시 통증·개구량·자발통·촉진통에서 다른 치료군 (n = 209)과 동등하다고 보고됨; 비뚤림위험 낮음 5편·일부 우려 5편; 모든 결과에서 근거 확실성
+
+- `boulatar-2026-effectiveness-occlusal-stabilization-splint-myogenous` [tmj] (HIGH-no-target, 'contradict' · 반박·충돌)
+  - **근거 문장**: No supersession and no contradiction: the positive but low-certainty conclusion is consistent with the held conditional-adjunct view.
+  - ▸ 출발(`boulatar-2026-effectiveness-occlusal-stabilization-splint-myogenous`) 세줄: 근육성 측두하악장애 (Myogenous Temporomandibular Disorders, TMD)에서 교합안정장치 (Stabilization Splint) 효과를 본 체계적 문헌고찰 (PRISMA; MEDLINE·Web of Science, 최종 검색 2022년 5월), RCT 10편·539명·평균 추적 6개월. 대부분의 시험이 통증(10편)·개구량(5편)·두통(2편)·삶의 질(4편)에서 기저치 대비 호전을 보고했으나, 초록에는 통합 효과추정치가 없고 근거 질은 낮음 (중등도-높은 비뚤림 위험,
+
+- `ahmad-2021-low-level-laser-therapy-temporomandibular` [tmj] (HIGH-no-target, 'contradict' · 반박·충돌)
+  - **근거 문장**: Trial verdicts were split: 18 studies showed LLLT efficacious for pain, 12 showed similar efficacy to placebo, controls, or other interventions, and 4 showed varied effects. Secondary outcomes responded variably. The authors conclude that LLLT appears efficient in diminishing TMD pain, is non-invasive and reversible with few adverse effects, yet also concede that no conclusive validation exists fo
+  - ▸ 출발(`ahmad-2021-low-level-laser-therapy-temporomandibular`) 세줄: 측두하악장애 (Temporomandibular Disorders, TMD) 환자에서 저출력레이저치료 (Low-Level Laser Therapy, LLLT)를 평가한 무작위대조시험 (Randomized Controlled Trial, RCT) 37편(2000~2020년 6월, PubMed·Science Direct 2개 DB)의 메타분석 없는 체계적 문헌고찰 (Systematic Review, SR; J Med Life 2021). 18편은 LLLT가 TMD 통증에 효과적, 12편은 위약·대조군과
+
+- `christidis-2024-psychological-treatments-temporomandibular-disorder-pain` [tmj] (HIGH-no-target, 'overturn' · 결론 뒤집음)
+  - **근거 문장**: No supersession: no held page's bottom line is overturned. No contradiction identified.
+  - ▸ 출발(`christidis-2024-psychological-treatments-temporomandibular-disorder-pain`) 세줄: 유병 통증성 측두하악장애 (Temporomandibular Disorders, TMD)에 대한 심리 치료를 다룬 체계적 문헌고찰·메타분석 (PROSPERO CRD42022320106): 서술적 종합 RCT 18편, 메타분석 RCT 6편. 서술적 종합에서는 심리 치료가 표준 치료와 통증 면에서 동등해 보였고, 메타분석에서는 심리+표준+수기 치료 병행이 상담+표준 치료보다 통증 감소가 유의하게 컸다 (매우 낮은 근거 확실성). 심리 치료는 대체가 아닌 유망한 추가 치료이며, 메타분석 신호는 RCT 6
+
+- `abrahamsson-2020-treatment-of-temporomandibular-joint-luxation` [tmj] (HIGH-no-target, 'Refut' · 반증)
+  - **근거 문장**: - **Refutes the prolotherapy-for-luxation claim on controlled evidence**: across three placebo-armed trials (Mustafa 2018, Cömert Kiliç 2016, Refai 2011) dextrose was not consistently superior to placebo for mouth opening, pain or luxation frequency, and no concentration outperformed another.
+  - ▸ 출발(`abrahamsson-2020-treatment-of-temporomandibular-joint-luxation`) 세줄: 메타분석 없는 체계적 리뷰 (systematic review without meta-analysis) — 무작위대조시험 (randomized controlled trial, RCT)만 포함하고 PubMed·Cochrane Library·Web of Science를 inception부터 2018년 3월 26일까지 검색, 초록 113건 → 전문 9편 → 최종 **RCT 8편·환자 338명**(급성 수동복원 3편 185명 / 재발성 탈구 주사 5편 153명). **수술 기법을 평가한 RCT는 0편**이
+
+- `dinsdale-2025-effectiveness-conservative-interventions-temporomandibular-disorder` [tmj] (HIGH-no-target, 'overturn' · 결론 뒤집음)
+  - **근거 문장**: - No supersession: no held page's bottom line is overturned.
+  - ▸ 출발(`dinsdale-2025-effectiveness-conservative-interventions-temporomandibular-disorder`) 세줄: 성인 측두하악장애 (Temporomandibular Disorder, TMD)에서 비약물 보존 치료가 운동공포 (Kinesiophobia)와 통증 파국화 (Pain Catastrophizing)에 미치는 효과를 본 체계적 문헌고찰 (메타분석 없음; 12편, 815명, 평균 42.2세, 여성 85%, 대부분 근막·통증형 TMD). 인지행동치료 (Cognitive Behavioural Therapy, CBT), 통증 신경과학 교육 (Pain Neuroscience Education, PNE)+운동, 
 
 - `miroshnychenko-2023-analgesics-acute-dental-pain` [drug/analgesics] (SOFT→di-spirito-2022-endodontic-pain-management-overview, 'unlike' · 다름)
   - **근거 문장**: - [[drug/analgesics/di-spirito-2022-endodontic-pain-management-overview]] — endodontic pain pharmacologic management overview; complementary adult context where pulpitis pain IS covered, unlike this pediatric review's extraction-only evidence.
