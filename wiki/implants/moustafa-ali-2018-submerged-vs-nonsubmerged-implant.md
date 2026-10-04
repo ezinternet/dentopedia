@@ -17,6 +17,8 @@ tags: [submerged, nonsubmerged, two-stage, one-stage, marginal-bone-loss, MBL, i
 relations:
   - type: contradicts
     target: giok-2026-factors-implant-failure-umbrella-review
+  - type: contradicts
+    target: al-amri-2016-crestal-bone-loss-submerged
   - type: refines
     target: pirc-2026-one-piece-two-piece-implants-15year-rct
   - type: extends

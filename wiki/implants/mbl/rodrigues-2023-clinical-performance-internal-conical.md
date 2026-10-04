@@ -17,6 +17,8 @@ tags: [internal-conical-connection, implant-abutment-connection, marginal-bone-l
 relations:
   - type: reinforces
     target: kim-2022-abutment-connection-mbl-survival
+  - type: reinforces
+    target: yu-2020-internal-tapered-vs-nontapered-connection
   - type: extends
     target: seong-2016-external-internal-implant-connection-system
 ---
