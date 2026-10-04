@@ -7,6 +7,7 @@ category: [implants]
 pdf_path: /Users/oracleneo/llm-wiki/papers/CD006698.pdf
 pdf_filename: CD006698.pdf
 source_collection: external
+full_text: false
 ---
 
 ## Why Ingested
