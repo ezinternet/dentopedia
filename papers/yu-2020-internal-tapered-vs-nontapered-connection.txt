@@ -1,0 +1,51 @@
+1. J Prosthet Dent. 2020 Oct;124(4):431-438. doi: 10.1016/j.prosdent.2019.07.018.
+ Epub 2019 Dec 18.
+
+Is an internal tapered connection more efficient than an internal nontapered 
+connection? A systematic review and meta-analysis.
+
+Yu X(1), Han Y(1), Wang J(2).
+
+Author information:
+(1)Graduate student, Department of Prosthodontics, Hubei-MOST KLOS & KLOBM, 
+School and Hospital of Stomatology, Wuhan University, Wuhan, PR China.
+(2)Professor, Department of Prosthodontics, Hubei-MOST KLOS & KLOBM, School and 
+Hospital of Stomatology, Wuhan University, Wuhan, PR China. Electronic address: 
+wb000238@whu.edu.cn.
+
+STATEMENT OF PROBLEM: The internal connection is a widely used implant-abutment 
+connection. However, a meta-analysis comparing the internal tapered and 
+nontapered connection systems is lacking.
+PURPOSE: The purpose of this systematic review and meta-analysis was to assess 
+whether the internal tapered connection performs better than the internal 
+nontapered connection in terms of implant survival, marginal bone loss, probing 
+depths, and complications.
+MATERIAL AND METHODS: The following specific question was formulated based on 
+the Population, Intervention, Control, and Outcome (PICO) model: Do patients 
+receiving internal tapered connection implants show better prognosis than those 
+receiving the internal nontapered connection in terms of implant survival, 
+marginal bone loss, probing depths, and complications? An electronic systematic 
+literature search was conducted in the Cochrane Library databases, MEDLINE 
+(PubMed), and Embase for relevant studies published in English without time 
+restrictions. A manual search was also conducted. In vivo randomized controlled 
+trials (RCTs) and prospective cohort studies were included.
+RESULTS: A total of 592 studies were collected from the electronic and manual 
+searches. After independent screening by 2 reviewers, 5 RCTs and 2 prospective 
+cohort studies were included. No significant difference was observed in implant 
+survival rates (P=.47; RR: 1.01; 95% CI: 0.98, 1.05). Regarding marginal bone 
+loss, the internal tapered connection presented better results than the 
+nontapered connection (P=.003; MD: -0.43 mm; 95% CI: -0.73, -0.14). The internal 
+tapered connection also exhibited lower probing depths than the nontapered one 
+(P=.002; MD: -0.24 mm; 95% CI: -0.39, -0.09). No significant difference was 
+observed in complication rates (P=.47; RR: 1.21; 95% CI: 0.72, 2.04).
+CONCLUSIONS: Within the limitations of this systematic review and meta-analysis, 
+the internal tapered connection and nontapered connection were comparable in 
+terms of implant survival rates and complication rates. In contrast to the 
+internal nontapered connection, marginal bone loss and probing depths in the 
+tapered connection were significantly lower.
+
+Copyright © 2019 Editorial Council for the Journal of Prosthetic Dentistry. 
+Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.prosdent.2019.07.018
+PMID: 31862145 [Indexed for MEDLINE]
