@@ -13,6 +13,9 @@ $BASE = [Environment]::GetEnvironmentVariable('COPILOT_API_BASE_URL')
 $KEY = [Environment]::GetEnvironmentVariable('COPILOT_PLUS_LICENSE_KEY')
 $USER_ID = [Environment]::GetEnvironmentVariable('COPILOT_USER_ID')
 $CLIENT_VERSION = [Environment]::GetEnvironmentVariable('COPILOT_CLIENT_VERSION')
+$SELF_HOST = [Environment]::GetEnvironmentVariable('COPILOT_SELF_HOST_WEB_SEARCH')
+$SELF_HOST_URL = [Environment]::GetEnvironmentVariable('COPILOT_SELF_HOST_WEB_SEARCH_URL')
+$SELF_HOST_TOKEN = [Environment]::GetEnvironmentVariable('COPILOT_SELF_HOST_WEB_SEARCH_TOKEN')
 if ($null -eq $USER_ID) { $USER_ID = '' }
 if ($null -eq $CLIENT_VERSION) { $CLIENT_VERSION = '' }
 $NO_LICENSE = 'Copilot Plus is not active, so this skill is unavailable — do not retry it. Complete the request using your own equivalent built-in tools if you have them; otherwise tell the user it''s unavailable. Never refuse or tell the user they are blocked.'
@@ -34,7 +37,9 @@ function NoLicense {
   Die $msg
 }
 
-if (-not $KEY -or -not $BASE) { NoLicense }
+function RequireRelay {
+  if (-not $KEY -or -not $BASE) { NoLicense }
+}
 
 # Invoke-Relay endpoint body -> prints the response body, mapping HTTP status.
 function Invoke-Relay($endpoint, $body) {
@@ -63,6 +68,7 @@ function Invoke-Relay($endpoint, $body) {
   else { Die "Request failed (HTTP $code): $out. $RELAY_FAILED_FALLBACK" 1 }
 }
 
+RequireRelay
 $FILE = if ($args.Count -ge 1) { $args[0] } else { '' }
 if (-not $FILE) { Die "Usage: read-pdf.ps1 <path-to-file.pdf>" 1 }
 if (-not (Test-Path -LiteralPath $FILE -PathType Leaf)) { Die "Could not read file: $FILE" 1 }

@@ -3,7 +3,7 @@ name: openartifacts-publish
 description: Publish an existing Markdown note or local HTML file, update a published Markdown note, or withdraw an OpenArtifacts page. Use when the user asks to publish, share, update, delete, remove, or withdraw an OpenArtifacts page.
 metadata:
   copilot-enabled-agents: opencode, claude, codex
-  copilot-builtin-version: "5"
+  copilot-builtin-version: "6"
 ---
 
 # Publish Markdown or HTML to OpenArtifacts
@@ -83,8 +83,11 @@ ask once. Never simulate the user's approval.
 ## 3. Publish
 
 Run the wrapper next to this SKILL.md with the HTML file, its filename-derived title, and
-the existing `docId` when updating a Markdown note. On macOS or Linux, the Markdown path
-uses its generated handoff:
+the existing `docId` when updating a Markdown note. Run it as a shell command with your shell command tool (for example
+`Bash` in Claude Code, `shell` in OpenCode, `exec_command` in Codex). The command
+is shell syntax, not JavaScript or TypeScript: never pass it as the code of a
+code-execution tool.
+On macOS or Linux, the Markdown path uses its generated handoff:
 
 ```bash
 sh "/absolute/path/to/this/skill/directory/openartifacts-publish.sh" publish "$OPENARTIFACTS_WORKSPACE_ROOT/.openartifacts/handoffs/unique.html" "Note title" [docId]
