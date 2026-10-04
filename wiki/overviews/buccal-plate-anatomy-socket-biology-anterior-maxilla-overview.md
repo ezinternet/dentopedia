@@ -36,7 +36,7 @@ sources:
 
 ## Three-line Summary
 
-Synthesis of 9 papers spanning buccal plate morphometry (Januário 2011, Huynh-Ba 2010, Todorovic 2023), extraction socket healing biology (Araújo & Lindhe 2005, Cardaropoli 2003, Trombelli 2008, Omi & Mishina 2022), and post-extraction esthetic outcomes (Chappuis 2013, 2015): the anterior maxillary buccal plate is almost always ≤1 mm thick and composed entirely of bundle bone — a tissue structurally condemned to resorb when the periodonal ligament is lost, with osteoclasts as the central effector of an alveolar bone whose biology is distinct from the rest of the skeleton.
+Synthesis of 12 papers spanning buccal plate morphometry (Januário 2011, Huynh-Ba 2010, Altarawneh 2018, Todorovic 2023), extraction socket healing biology (Araújo & Lindhe 2005, Cardaropoli 2003, Trombelli 2008, Omi & Mishina 2022), post-extraction esthetic outcomes (Chappuis 2013, 2015, 2017), and buccal-gap management (Greenstein 2013): the anterior maxillary buccal plate is almost always ≤1 mm thick and composed entirely of bundle bone — a tissue structurally condemned to resorb when the periodonal ligament is lost, with osteoclasts as the central effector of an alveolar bone whose biology is distinct from the rest of the skeleton.
 
 The downstream consequence is quantified by Chappuis 2013: thin-wall (≤1 mm) sites lose a median 7.5 mm of vertical bone by 8 weeks vs 1.1 mm for thick-wall sites (~3.5×), and this massive bone loss is masked by spontaneous soft-tissue thickening (~7-fold in thin-phenotype sites) that makes the ridge look clinically acceptable while concealing the deficit — more than 51% of the dimensional change occurs within 2 weeks (Chappuis 2015).
 
@@ -44,7 +44,7 @@ The palatal wall is the structural opposite and the actual source of primary sta
 
 ## 세줄요약
 
-9편 종합 — 협측판 형태계측(Januário 2011, Huynh-Ba 2010, Todorovic 2023)·발치와 치유 생물학(Araújo & Lindhe 2005, Cardaropoli 2003, Trombelli 2008, Omi & Mishina 2022)·발치 후 심미부 결과(Chappuis 2013, 2015): 전치부 상악의 협측판(buccal plate)은 거의 항상 ≤1 mm이고 전체가 다발골(bundle bone)로만 구성 — 치주인대(PDL) 소실 시 파골세포(osteoclast) 매개로 생물학적으로 흡수가 예정된 조직이며, 치조골은 일반 골격골과 발생학적으로 구별됨.
+12편 종합 — 협측판 형태계측(Januário 2011, Huynh-Ba 2010, Altarawneh 2018, Todorovic 2023)·발치와 치유 생물학(Araújo & Lindhe 2005, Cardaropoli 2003, Trombelli 2008, Omi & Mishina 2022)·발치 후 심미부 결과(Chappuis 2013, 2015, 2017)·협측 간격 관리(Greenstein 2013): 전치부 상악의 협측판(buccal plate)은 거의 항상 ≤1 mm이고 전체가 다발골(bundle bone)로만 구성 — 치주인대(PDL) 소실 시 파골세포(osteoclast) 매개로 생물학적으로 흡수가 예정된 조직이며, 치조골은 일반 골격골과 발생학적으로 구별됨.
 
 그 결과를 정량화한 것이 Chappuis 2013: 박벽형(≤1 mm) 부위는 발치 후 8주에 수직골 중앙값 7.5 mm 소실 vs 후벽형 1.1 mm (~3.5배)이고, 이 막대한 골소실은 박벽형에서만 나타나는 연조직 자발 두꺼워짐(약 7배)이 가려버려 임상적으로 능선이 양호해 보이게 위장하며, 변화의 51% 이상이 발치 후 2주 이내 발생(Chappuis 2015).
 
@@ -54,7 +54,7 @@ The palatal wall is the structural opposite and the actual source of primary sta
 
 ## Summary
 
-This overview synthesizes nine papers that, taken together, explain *why* the anterior maxillary buccal plate fails so consistently after extraction and what that failure looks like clinically. The papers cluster into three mutually reinforcing axes: the morphometric reality of how thin the buccal wall is before any intervention, the biological machinery that drives its loss, and the clinical evidence quantifying the consequences — including a soft-tissue masking effect that makes the outcome look better than it is.
+This overview synthesizes twelve papers that, taken together, explain *why* the anterior maxillary buccal plate fails so consistently after extraction and what that failure looks like clinically. The papers cluster into three mutually reinforcing axes: the morphometric reality of how thin the buccal wall is before any intervention, the biological machinery that drives its loss, and the clinical evidence quantifying the consequences — including a soft-tissue masking effect that makes the outcome look better than it is.
 
 ### Axis 1 — The buccal plate is nearly never adequate to begin with
 
