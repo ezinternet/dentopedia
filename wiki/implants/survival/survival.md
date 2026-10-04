@@ -2,7 +2,7 @@
 title: "임플란트·생존율·실패위험 — survival"
 authors: navigation
 year: 2026
-date: 2026-10-04
+date: 2026-10-05
 doi: N/A
 source: navigation
 category: implants/survival
@@ -15,20 +15,20 @@ tags: [navigation, category-index, survival]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·생존율·실패위험
 > - **범위**: Implant survival/failure as the outcome, and what predicts it — long-term cumulative survival cohorts & SR/MA; **habit** risk (smoking level/cessation, tobacco & smoke-free products, bruxism); **systemic/host** risk (diabetes, hypertension, osteoporosis & PTH, Sjögren, autoimmune & systemic sclerosi…
-> - **수록 논문**: 54편
+> - **수록 논문**: 55편
 
 ## Three-line Summary
 
 **Scope**: Implant survival/failure as the outcome, and what predicts it — long-term cumulative survival cohorts & SR/MA; **habit** risk (smoking level/cessation, tobacco & smoke-free products, bruxism); **systemic/host** risk (diabetes, hypertension, osteoporosis & PTH, Sjögren, autoimmune & systemic sclerosis, head-and-neck radiotherapy, medications/polypharmacy affecting osseointegration); early-failure risk-factor studies & failure-rate umbrella reviews; evidence-quality appraisal bound to this literature (sponsorship bias, risk-of-bias in smoker SRs); management of the failed implant (explantation/retrieval technique).
-**Indexed papers**: 54 papers in `wiki/implants/survival/`.
+**Indexed papers**: 55 papers in `wiki/implants/survival/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·생존율·실패위험
-**수록 논문**: 54편
+**수록 논문**: 55편
 **하위 카테고리**: 없음
 
-## Papers in this Category (54)
+## Papers in this Category (55)
 
 | Paper |
 |---|
@@ -38,6 +38,7 @@ tags: [navigation, category-index, survival]
 | [[almeida-2017-dental-implants-sjogren-syndrome-sr|Dental implants in Sjögren's syndrome patients: A systematic review]] |
 | [[alrowis-2025-factors-affecting-dental-implant-failure-retrospective|Factors Affecting Dental Implant Failure: A Retrospective Analysis]] |
 | [[andrade-2021-survival-rate-peri-implant-evaluation|Survival rate and peri-implant evaluation of immediately loaded dental implants in individuals with type 2 diabetes mellitus: a systematic review and meta-analysis]] |
+| [[astrand-2002-nonsubmerged-submerged-implants-treatment-partially|Nonsubmerged and Submerged Implants in the Treatment of the Partially Edentulous Maxilla]] |
 | [[banerjee-2024-success-rate-dental-implants-smokers|Evidence-Based Critical Assessment of the Success Rate of Dental Implants in Smokers: An Umbrella Systematic Review]] |
 | [[barboza-2026-bruxism-implant-failure-umbrella-review|An umbrella review of the role of bruxism in the failure of implant-supported prostheses]] |
 | [[barros-2021-sjogrens-syndrome-dental-implants|Is Sjogren's syndrome a risk factor/contraindication for dental implants? An umbrella review.]] |
