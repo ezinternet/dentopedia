@@ -2,7 +2,7 @@
 title: "임플란트·변연골소실 — mbl"
 authors: navigation
 year: 2026
-date: 2026-10-04
+date: 2026-10-05
 doi: N/A
 source: navigation
 category: implants/mbl
@@ -15,20 +15,20 @@ tags: [navigation, category-index, mbl]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·변연골소실
 > - **범위**: Marginal bone loss (MBL) / crestal bone loss — platform switching (PS vs PM), bone-level vs tissue-level MBL, implant-tooth proximity bone loss, emergence angle, inter-implant distance, risk-factor umbrella SRs
-> - **수록 논문**: 41편
+> - **수록 논문**: 43편
 
 ## Three-line Summary
 
 **Scope**: Marginal bone loss (MBL) / crestal bone loss — platform switching (PS vs PM), bone-level vs tissue-level MBL, implant-tooth proximity bone loss, emergence angle, inter-implant distance, risk-factor umbrella SRs
-**Indexed papers**: 41 papers in `wiki/implants/mbl/`.
+**Indexed papers**: 43 papers in `wiki/implants/mbl/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·변연골소실
-**수록 논문**: 41편
+**수록 논문**: 43편
 **하위 카테고리**: 없음
 
-## Papers in this Category (41)
+## Papers in this Category (43)
 
 | Paper |
 |---|
@@ -45,6 +45,7 @@ tags: [navigation, category-index, mbl]
 | [[dhir-2012-significance-clinical-relevance-biologic-width|Significance and clinical relevance of biologic width to implant dentistry]] |
 | [[di-girolamo-2016-platform-switching-matching-sr-ma|Bone level changes around platform switching and platform matching implants: a systematic review with meta-analysis]] |
 | [[enkling-2013-platform-switching-bone-level-3year-rct|Influence of Platform Switching on Bone-level Alterations: A Three-year Randomized Clinical Trial]] |
+| [[gheisari-2017-comparison-marginal-bone-loss-one-stage|Comparison of the Marginal Bone Loss in One-stage versus Two-stage Implant Surgery]] |
 | [[gupta-2019-platform-switching-crestal-bone-loss-sr|Platform Switching Technique and Crestal Bone Loss around the Dental Implants: A Systematic Review]] |
 | [[hurzeler-2007-peri-implant-bone-level-platform-switched|Peri-implant bone level around implants with platform-switched abutments: Preliminary data from a prospective study]] |
 | [[juan-montesinos-2022-platform-switching-conventional-sr-ma|Comparative Study by Systematic Review and Meta-Analysis of the Peri-Implant Effect of Two Types of Platforms: Platform-Switching versus Conventional Platforms]] |
@@ -70,6 +71,7 @@ tags: [navigation, category-index, mbl]
 | [[tajti-2024-less-marginal-bone-loss|Less marginal bone loss around bone-level implants restored with long abutments: A systematic review and meta-analysis]] |
 | [[tarnow-2000-inter-implant-distance-crestal-bone-height|The effect of inter-implant distance on the height of inter-implant bone crest]] |
 | [[ting-2017-surgical-patient-factors-affecting-marginal|Surgical and Patient Factors Affecting Marginal Bone Levels Around Dental Implants: A Comprehensive Overview of Systematic Reviews]] |
+| [[verma-2024-comparison-bone-loss-submerged-nonsubmerged|Comparison of bone loss around submerged and non-submerged implants during osseointegration phase]] |
 | [[wach-2026-emergence-angle-marginal-bone-loss|Emergence Angle, Marginal Bone Loss, and Radiographic Corticalization Around MIS Implants: A 5-Year Retrospective Study of Single, Splinted, and Bridge Restorations]] |
 | [[yadav-2025-finite-element-analysis-platform-switching|Finite Element Analysis of Platform Switching Effects on Stress Distribution in Posterior Implants Placed in Different Bone Types Under Axial and Oblique Loading Conditions]] |
 | [[yu-2020-internal-tapered-vs-nontapered-connection|Is an internal tapered connection more efficient than an internal nontapered connection? A systematic review and meta-analysis]] |
