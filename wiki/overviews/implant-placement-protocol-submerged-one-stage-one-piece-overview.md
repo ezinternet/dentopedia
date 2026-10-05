@@ -93,6 +93,7 @@ Clinical use: choose the protocol on soft-tissue, esthetic and handling grounds;
 - [[implants/survival/astrand-2002-nonsubmerged-submerged-implants-treatment-partially]] — Split-mouth RCT (28 patients, 56 sites): ITI nonsubmerged vs Brånemark submerged FPDs in partially edentulous maxilla; no survival or MBL difference at 1-year loading; crater-form bone destruction at 18% of ITI implants signals importance of radiographic monitoring in nonsubmerged systems (rct, 2002)
 - [[implants/mbl/gheisari-2017-comparison-marginal-bone-loss-one-stage]] — RCT (310 Astra Tech implants, 140 patients): one-stage vs two-stage; MBL 0.760 mm vs 0.842 mm at 6 months post-loading (NS, p>0.05); supports one-stage as equivalent to two-stage with reduced patient burden (rct, 2017)
 - [[implants/esposito-2009-1-vs-2-stage-implant-placement-cochrane]] — Cochrane SR+MA (5 RCTs, 761 implants, last updated 2009, withdrawn 2018): 1-stage (non-submerged) vs 2-stage (submerged) placement; no significant difference in prosthesis failure, implant failure, MBL, complications, or soft-tissue recession; GRADE moderate — the highest-level evidence anchor for the 1- vs 2-stage equivalence claim (sr+ma, 2009)
+- [[implants/loading-protocol/esposito-2009-interventions-replacing-missing-teeth]] — Cochrane SR pub2 (2007 original, superseded by pub3 above): earlier version with fewer RCTs; included for evidence-trail completeness
 
 ## Related
 
