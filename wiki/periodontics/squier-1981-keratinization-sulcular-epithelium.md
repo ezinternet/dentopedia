@@ -6,7 +6,7 @@ date: 1981-08-01
 doi: "10.1902/jop.1981.52.8.426"
 source: squier-1981-keratinization-sulcular-epithelium.md
 category: [periodontics]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: pubmed-abstract
@@ -17,6 +17,22 @@ relations:
   - type: extends
     target: squier-1991-permeability-oral-mucosa
 ---
+
+## Three-line Summary
+
+Narrative review (Journal of Periodontology, 1981; 4 pages) challenging the prevailing clinical hypothesis that keratinizing sulcular/junctional epithelium (JE) would strengthen its barrier against bacterial antigens — argument based on theoretical synthesis of available permeability and attachment biology, no original experimental data.
+
+Non-keratinized epithelia can resist penetration of certain substances independently of cornification, so keratinization is not a prerequisite for impermeability; more critically, epithelial attachment to the tooth surface is a property of undifferentiated (non-keratinized) epithelial cells — inducing keratinization would likely cause loss of epithelial attachment, a biologically counterproductive outcome.
+
+JE's non-keratinized, permeable state is therefore a biological necessity, not a deficiency; this 1981 conceptual framework predates molecular characterization of the IRX1/PITX1 cascade and the JE stem cell niche but remains valid and foundational for modern understanding of why JE maintains its unique undifferentiated phenotype.
+
+## 세줄요약
+
+내러티브 리뷰 (J Periodontol, 1981; 4쪽) — 열구/접합상피 (Sulcular/Junctional Epithelium) 를 각화시키면 세균 항원 장벽이 강화된다는 당시 통설을 반박; 이용 가능한 투과성·부착 생물학 문헌 종합, 자체 실험 데이터 없음.
+
+비각화 상피도 일부 물질에 대한 저항성이 있어 각화가 불투과성의 필수조건이 아님; 더 중요하게는 치아부착 (Epithelial Attachment) 이 미분화(비각화) 세포의 특성이므로, 각화 유도 시 부착 상실이 예상됨 — 생물학적으로 역효과.
+
+접합상피의 비각화·투과성 상태는 생물학적 필수 조건이지 결함이 아님; IRX1/PITX1 분자기전·JE 줄기세포 틈새 (Niche) 발견 이전의 개념이나, 접합상피가 고유한 미분화 표현형을 유지하는 이유에 대한 현대적 이해의 기초로 남음.
 
 ## One-line Summary
 
