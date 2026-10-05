@@ -996,6 +996,7 @@ tags: []
 - [[interdental-cleaning/almoharib-2024-water-jet-interdental-flossing-orthodontic]] — AlMoharib 2024 · rct (단일맹검 병렬, 고정성 교정장치 환자 n=30, 사우디) — 워터젯 플로싱(water jet, n=18) vs 치실(interdental flossing, n=12) 2주 비교: 두 군 모두 치태·출혈지수 유의 감소하나 군간 유의차 없음(PI p=0.279, BI p=0.172) — 교정환자 보조도구로 동등 (DOI 10.1186/s12903-024-04166-0)
 
 ## 치주치료 (Periodontics)
+- [[periodontics/squier-1981-keratinization-sulcular-epithelium]] — Squier 1981 · narrative-review · 열구/접합상피 각화 유도는 투과장벽 강화에 불필요하며 상피부착 상실 위험; 비각화 상피도 투과 저항성 보유 — JE 미분화 상태가 기능적 필수 (DOI 10.1902/jop.1981.52.8.426)
 - [[periodontics/bandiaky-2026-resveratrol-periodontal-disease-systematic-review]] — Bandiaky 2026 · sr (22편: 16 전임상+6 임상 RCT, PRISMA) · **레스베라트롤** 치주 보조요법; 동물서 치조골소실 7.09–60.60%↓·염증/산화지표 개선, 임상은 PPD·BOP·PI·CAL 가변적 개선(소표본·이질성·단기), 인간 방사선골소실 데이터 없음 → 비수술 치주치료 보조 후보(특히 급진성) (DOI 10.3290/j.ohpd.c_2752)
 - [[periodontics/he-2023-demystifying-connection-between-periodontal]] — He 2023 · sr (18편 SR 엄브렐라 리뷰, JBI+PRISMA 2020, PROSPERO) · 만성콩팥병(CKD)-치주질환 양방향 관계; 치주치료가 CKD 예후 개선 가능성, 근거 이질성 큼; 초록기반(PMC 풀텍스트 없음) (DOI 10.1111/jre.13161)
 - [[periodontics/liang-2025-cemental-tear-diagnosis-treatment-consensus]] — Liang 2025 · consensus (Int J Oral Sci 전문가 합의) · 시멘트질 열개(cemental tear) 진단·감별(VRF/근관/치주)·위치기반 치료 결정트리; torn fragment 완전제거 원칙, CBCT 1차·조직병리 확진, 완전제거 후 1년 94% 잔존 (DOI 10.1038/s41368-025-00381-9)
@@ -1834,6 +1835,9 @@ tags: []
 - [[drug/antibiotics/liu-2024-antibiotic-prophylaxis-surgical-nonsurgical-safety-umbrella-review]] — Liu 2024 (Int J Surg) · sr+ma · 우산리뷰(75 SR·725 RCT·119개 결과지표·163,832명, 78개 임상시나리오): 항생제 예방투여(AP) 56.3% 유의 이득이나 70%가 low~very-low 확실성; 창상 청결도와 효능은 대체로 무관, 방광경·화학요법후 무열성 호중구감소증은 내성/부작용 유의 증가 → 루틴 적용보다 케이스별 판단 필요
 
 ## 구강외과 (Oral Surgery)
+- [[oral-surgery/overmiller-2024-reprogramming-epidermal-keratinocytes]] — Overmiller 2024 · animal (형질전환 마우스 scRNA-Seq + Xenium 공간전사체학) · PITX1 — 구강 케라티노사이트 정체성 결정 전사인자; 표피 이소발현 시 구강 유사 전사 상태·증식·이동 증가·창상 치유 가속화 (DOI 10.1172/jci.insight.182844)
+- [[oral-surgery/su-2025-irx1-mechanisms-oral-epithelial]] — Su 2025 · animal (생쥐 치은 창상 모델 + 계보추적) · IRX1 — 치은 기저줄기세포층 표지자; 반접합자 마우스서 재상피화 3–7일 지연; IRX1→SOX9→EPGN/EGF 신호 경로 확립 (DOI 10.1172/jci.insight.179815)
+- [[oral-surgery/squier-1991-permeability-oral-mucosa]] — Squier 1991 · narrative-review · 구강점막 투과성 부위별 차이: 각화상피(치은·경구개) 최저, 비각화 피복점막 최고 — 세포간 지질 장벽 조성 차이 규명; 국소/전신 약물전달 임상 의의 (DOI 10.1177/10454411910020010301)
 - [[oral-surgery/hammerle-2014-biology-soft-tissue-wound-healing]] — Hämmerle 2014 · consensus (10차 EWP) · 구강 연조직 창상 치유 4단계(지혈→염증→증식→성숙); 가피(fibrin clot) = 세포이동 기질; 치아 부위 재상피화 7–14일, 임플란트 연조직 성숙 6–8주 (DOI 10.1111/jcpe.12221)
 - [[oral-surgery/smith-2014-gingival-wound-healing-aging]] — Smith 2014 · narrative-review · 노화가 치은 창상 치유 전 단계 손상(인테그린↓·성장인자↓·MMP↑·줄기세포 저하); 정상 상피이동·과립조직·리모델링 분자 기전 역조명 (DOI 10.1177/0022034514563750)
 - [[oral-surgery/latimer-2026-biological-principles-alveolar-bone-soft-tissue]] — Latimer 2026 · narrative-review · 치조골·연조직·치주 재생 생물학; 4단계 창상치유 + 구강 미생물·기계·면역 중첩 조절; 면역공학(M1→M2)·바이오프린팅 차세대 전략 (DOI 10.1111/jre.70068)
