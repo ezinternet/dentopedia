@@ -386,6 +386,8 @@ tags: []
 - [[implants/vitamin-d/dulinska-2025-vitamin-d3-soft-tissue-bone-preservation]] — Dulinska-Litewka 2025 · retrospective · 환자 72명/임플란트 115개, 비타민 D 결핍군 주위 골소실 유의 증가 + 연조직 두께는 비타민 D 상태와 무관하게 변연골 보존에 독립적 영향 (DOI 10.17219/dmp/179004)
 
 ## 골재생 (Bone Regeneration / Ridge Preservation)
+- [[bone-regeneration/haugen-2026-bone-grafts-everything-you-need]] — Haugen 2026 · review · 골 이식재 전 스펙트럼(자가골/동종골/이종골/합성골/복합체/CAD-CAM)을 골형성/골유도/골전도 삼각 구도로 비교; 치조제 보존·상악동 거상·GBR·치주재생·임플란트주위염별 권장 재료 매핑; 복합 전략(자가골 칩+느린흡수 이종골/합성골+막/메시) 윤곽 안정성↑; 미래: 정밀 생체모방(스마트 전달·맞춤형·QC)
+- [[bone-regeneration/yang-2025-sticky-bone-advances-and-applications]] — Yang 2025 · review · 스티키 본(AFG/i-PRF+골 이식재) 종설: 조성·제조법(AFG/i-PRF/셀프폴딩 i-PRF)·생물학적 특성·기전(성장인자 지속 방출·MSC 모집·M2 극성화)·임상 적용(치조제 보존·상악동 거상·주위염 GBR·치주 골내 결손) 정리; 인체 RCT 증거 제한적
 - [[bone-regeneration/lee-2025-longitudinal-comparative-osteogenic-collagenated-xenografts]] — Lee 2025 · animal(beagle) · OCS-B Collagen®(NIBEC, 한국) vs Bio-Oss® Collagen 비글견 GBR 직접비교: BV·BV/TV·BIC·ISQ 전 지표 동등 → 한국산 DBBM-C 비열등성 확인 [PMC전문]
 - [[bone-regeneration/ridge-preservation/xu-2026-demineralized-dentin-matrix-versus-xenograft-arp-rct]] — Xu 2026 · rct · 탈회상아질기질(DDM) vs 이종골 ARP(n=50): DDM 초기흡수 빠르나 6개월 차원안정성 동등·조직통합 우수
 - [[bone-regeneration/ridge-preservation/yu-2026-bone-particle-size-arp-periodontally-compromised-molars]] — Yu 2026 · retrospective · 중증치주염 대구치 DBBM ARP(96): 대입자(1–2mm) 중심골높이 비유의 증가경향(P=.077), 입자크기보다 소켓무결성 중요
