@@ -7,7 +7,7 @@
 **대상은 키워드에 가장 가까운 링크로 특정한다.** 같은 줄의 나머지 링크는 충돌 표현의 대상이라는 근거가 없어 Tier 2(`AMBIG→`)로 강등된다 — 버리지 않으니 진짜 대상이 강등됐다면 Tier 2에서 찾을 수 있다.
 
 - Tier 1 (대상 지목됨, actionable): **7**
-- Tier 2 (대상 불명/soft, review): **101**
+- Tier 2 (대상 불명/soft, review): **103**
 - (억제됨) 이미 typed 엣지·supersession 포인터가 있어 제외: **323** · 부정문 제외: **153** · 검토·불필요 대장: **444** · 동일 줄 비최근접으로 Tier 2 강등: **0**
 
 ## Tier 1 — 판단 후 엣지 달 후보 (page → 지목된 target)
@@ -295,6 +295,10 @@
   - **근거 문장**: 5. **노출 축이 층위 상충을 설명한다**: 위험 신호를 낸 코호트의 노출은 **용량·기간·식립 대비 타이밍이 보고되지 않은 상용 NSAID 사용**이고(Chatzopoulos 2025, abstract-only), 저해가 관찰된 동물 실험은 **장기(6주·60일)**였다. **단기 노출을 직접 본 층위(동물 2주·인체 7일 RCT·7일 파일럿)는 예외 없이 무영향**이다. 한편 임플란트·치주 수술 특화 SR+MA는 선제진통의 통증 감소 효과를 지지한다 — Gousias 2025. 즉 두 축은 "단기"에서 충돌하지 않는다. [해석 명제 — 노출 미보고에 근거한 귀속 불가 논증이며, 단기 안전을 입증한 것은 아님]
   - ▸ 출발(`nsaid-osseointegration-impairment-overview`) 세줄: 8편(SR+메타분석 1·SR 3(우산고찰 1 포함)·서술적 고찰 1·파일럿 RCT 1·대규모 후향코호트 1·동물 1) 종합: NSAID의 골유착 저해 신호는 in vitro·동물에선 강하나 인체 임상에선 약하고 상충한다 — 근거 사다리로 재배열. 기전상 COX-2 억제가 초기 임플란트 주위 골형성에 필요한 PGE2를 낮추며, 범인은 COX-2(COX-1 억제는 무해), 효과는 용량·기간·선택성 의존(동물서 장기·고용량 COX-2만 저해); 인체 층위는 갈린다 — 49,997 임플란트 코호트는 ib
 
+- `dental-erosion-epidemiology-risk-factors-management-overview` [overviews] (HIGH-no-target, 'contradict' · 반박·충돌)
+  - **근거 문장**: **Calcium-enriched acidic beverages**: Chatzidimitriou's 2024 SR+MA (21 in situ RCTs) found calcium-enriched orange juice caused 2.6-fold less enamel surface loss than plain acidic equivalent. Calcium-enriched products effectively neutralize the proton-driven dissolution by saturating the oral fluid with calcium ions near the enamel surface. CPP-ACP chewing gum showed no statistically significant 
+  - ▸ 출발(`dental-erosion-epidemiology-risk-factors-management-overview`) 세줄: 9편(SR+MA 5, SR 1, in situ SR+MA 1, 정책 1, GERD SR 1) 종합: ETW 유병률 유치열 35.6%~성인 80%; 고위험군은 섭식장애 65%, GERD 54.1%로 급격히 높아져 위험인자 계층화가 필수 — 치과 진료실이 섭식장애·역류 첫 발견 기회. 정량 위험인자: 성인에서 산성식품 OR 2.40·역류 OR 2.27·소화기 장애 OR 1.81; 유치열에서 산성음료 OR 6.90·GERD OR 1.98; 빨대 보호 OR 0.58; 취침 전 탄산음료 OR 7.8(단일 
+
 - `antibiotics-comprehensive-overview` [overviews] (HIGH-no-target, '상충' · 상충)
   - **근거 문장**: [확인] Torof 2023 SR+MA: 단일 술전 Amoxicillin 2g이 조기 실패 유의 감소(Momand과 상충 → 방법론 차이).
   - ▸ 출발(`antibiotics-comprehensive-overview`) 세줄: 근관치료·치주치료·구강외과·임플란트를 아우르는 21편 종합: 항생제는 전신 증상 동반 감염에만 적응, 염증성 치수염(SIP)에는 금지 (Lockhart 2019 ADA CPG, Tampi 2019 SR+MA). 치주치료 보조 전신 항생제는 CAL 0.3-0.4mm 개선이나 근거 질 "약함" (Botelho 2025 우산형 고찰); 술전 단일 Amoxicillin 2g이 구강외과 표준, 24시간 초과 연장은 AMR만 증가. 약물 선택: Amoxicillin 1차(치명 0.1/million), Cli
@@ -311,6 +315,10 @@
 - `masticatory-muscle-pain-evidence-synthesis-2026` [overviews] (HIGH-no-target, '뒤집' · 뒤집음)
   - **근거 문장**: > - **결론(thesis)**: 24편은 사다리 순서를 뒤집지 않는다 — 능동치료(도수치료(Manual Therapy, MT)·운동·심리행동) 우선, 장치·전기물리는 보조, 보툴리눔독소 A(Botulinum Toxin Type A, BoNT-A)는 불응 시. 바뀌는 것은 **확실성 수준과 개별 모달리티의 등급**이다.
   - ▸ 출발(`masticatory-muscle-pain-evidence-synthesis-2026`) 세줄: 새 사다리가 아닌 업데이트 층: 근육형 저작근 통증 SR/MA/NMA 24편(전문 6·초록만 18)을 기존 TMD overview 4편과 대조 — 능동치료 우선 순서는 확인(MT는 치료 NMA 3편 모두 상위 2위)되나, MFR 전용 GRADE는 낮음이고 스플린트·레이저·건침·BoNT-A는 하향 또는 단서 추가. 핵심 충돌은 진짜 모순이 아니라 비교군·대상군 차이: MT 1위(Al-Moraissi 2021, 위약 대조, ~2018) vs PBM 1위(Zhang 2026, 통상치료 대조, ~2025
+
+- `implant-placement-drilling-torque-compression-overview` [overviews] (HIGH-no-target, '반박' · 반박)
+  - **근거 문장**: > - **치유챔버 거시형태 (Healing Chamber Macrogeometry)**: 동일 골절개에서 치유챔버 디자인이 IT를 29% 낮춤(5.70 vs 8.01 Ncm)에도 21일 후 중간·심부 골-임플란트 접촉률 (BIC)이 유의하게 높음 — C2 59.30% vs 40.30%, C3 42.10% vs 17.90% (Gehrke 2026 토끼 경골). **낮은 IT = 나쁜 결과'라는 직관을 반박** — IT와 BIC가 해리될 수 있음.
+  - ▸ 출발(`implant-placement-drilling-torque-compression-overview`) 세줄: 7편(증례+문헌고찰 1·in vitro 2·전임상 in vivo 1·내러티브 리뷰 3) 종합: 골 압박 괴사는 35-50 Ncm에서도 D2 골+프리태핑 없음+언더사이즈 드릴링 조합에서 발생 가능하며 조직학적으로 확인(Ramesh 2024); 드릴링 프로토콜이 IT를 골밀도별로 고도 유의하게 변화시키나 D4에서는 효과 소진(Stoilov 2025); 치유챔버 거시형태는 IT 29% 낮추면서도 BIC 59.30% vs 40.30% 달성 — IT≠BIC 해리 중요 (Gehrke 2026). 토크 렌치는
 
 - `clear-aligner-indications-limitations` [overviews] (HIGH-no-target, '상충' · 상충)
   - **근거 문장**: > - **상악확장**: 성장기서 CAT 확장은 가능하나 conventional expander 대비 유의 적음(Fonseca-Planells 2026), 확장은 주로 **치조성(dentoalveolar)**, 골격엔 conventional 우위. 성인 예측성 후향코호트(de la Rosa-Gay 2025, 98명·multilevel GLMM) — Invisalign 확장 **오차 0.92 mm·과소확장 72.2%**, 상악·구치·crossbite·대량 계획확장일수록 악화. 성인 SR+MA 최초(xianggang 2026, 6편·233명, GRADE 포함) — 부위별 예측성: **1소구치 80.73%(GRADE high·최고)** > 2소구치 78.74%(GRADE moderate) > 1대구치 71.57%
