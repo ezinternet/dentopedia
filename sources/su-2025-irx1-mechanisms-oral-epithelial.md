@@ -8,7 +8,7 @@ pmid: "39782692"
 pmcid: "PMC11721312"
 category: [oral-surgery]
 source_collection: pubmed-text
-full_text: true
+full_text: false
 source_url: https://pubmed.ncbi.nlm.nih.gov/39782692/
 ---
 
