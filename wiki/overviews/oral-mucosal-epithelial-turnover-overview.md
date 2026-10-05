@@ -11,13 +11,25 @@ pdf_path: N/A
 pdf_filename: N/A
 source_collection: training-knowledge
 tags: [oral-mucosa, epithelial-turnover, desquamation, basal-cell, junctional-epithelium, keratinized-mucosa, nonkeratinized-mucosa, wound-healing, gingiva, buccal-mucosa, cell-migration, oral-histology, overview]
-source_papers: []
+source_papers:
+  - wiki/oral-surgery/overmiller-2024-reprogramming-epidermal-keratinocytes.md
+  - wiki/oral-surgery/su-2025-irx1-mechanisms-oral-epithelial.md
+  - wiki/oral-surgery/squier-1991-permeability-oral-mucosa.md
+  - wiki/periodontics/squier-1981-keratinization-sulcular-epithelium.md
 note: >
-  This page is seeded from training knowledge only — no histology papers are
-  currently ingested in this wiki. All factual claims are [미검증] until backed
-  by ingested source papers (e.g., Nanci Ten Cate's Oral Histology; Squier &
-  Kremer 2001 Periodontol 2000; Presland & Dale 2000). Ingest to upgrade.
-relations: []
+  Turnover rate figures (site-specific times) remain [미검증] — derived from
+  training knowledge pending Nanci Ten Cate's Oral Histology and Squier & Kremer
+  2001 ingest. Molecular mechanisms (PITX1, IRX1, permeability gradient) are now
+  backed by ingested papers.
+relations:
+  - type: applies-to
+    target: overmiller-2024-reprogramming-epidermal-keratinocytes
+  - type: applies-to
+    target: su-2025-irx1-mechanisms-oral-epithelial
+  - type: applies-to
+    target: squier-1991-permeability-oral-mucosa
+  - type: applies-to
+    target: squier-1981-keratinization-sulcular-epithelium
 ---
 
 ## 한국어 핵심요약
@@ -185,16 +197,26 @@ The GI epithelium turns over even faster (intestinal villi: 3–5 days; esophagu
 
 ## 7. Evidence Gaps & Ingest Candidates
 
-> **This overview is currently seeded from training knowledge only.** The following sources would upgrade all [미검증] claims to [확인]:
+### Ingested (2026-10-05)
+
+| Paper | DOI | What it supports |
+|---|---|---|
+| Overmiller 2024 (JCI Insight) | [10.1172/jci.insight.182844](https://doi.org/10.1172/jci.insight.182844) | PITX1 as molecular driver of oral KC faster proliferation/migration vs skin |
+| Su 2025 (JCI Insight) | [10.1172/jci.insight.179815](https://doi.org/10.1172/jci.insight.179815) | IRX1 in JE/GE basal stem cell niche; SOX9/EPGN/EGF cascade for gingival re-epithelialization |
+| Squier 1991 (Crit Rev Oral Biol Med) | [10.1177/10454411910020010301](https://doi.org/10.1177/10454411910020010301) | Keratinized vs non-keratinized permeability gradient; lipid intercellular barrier |
+| Squier 1981 (J Periodontol) | [10.1902/jop.1981.52.8.426](https://doi.org/10.1902/jop.1981.52.8.426) | JE non-keratinized state is biologically necessary; keratinization ≠ better barrier |
+
+### Still Needed to Upgrade Turnover Rate Numbers
+
+> The **site-specific turnover times** (JE 1–6d, buccal 5–6d, gingiva 10–12d, palate ~24d) remain **[미검증]** — these figures come from classic histology textbooks and cell-kinetics studies not yet ingested:
 
 | Priority | Source | Why Needed |
 |---|---|---|
 | 1 | Nanci A. *Ten Cate's Oral Histology* 8th ed. | Primary reference for all site-specific turnover times |
-| 2 | Squier CA & Kremer MJ (2001). *Periodontol 2000*, 27:55–71 | JE biology and permeability |
+| 2 | Squier CA & Kremer MJ (2001). *Periodontol 2000*, 27:55–71 | JE biology and permeability (updated Squier) |
 | 3 | Presland RB & Dale BA (2000). *Crit Rev Oral Biol Med*, 11(4):383–408 | Keratinocyte differentiation and desquamation |
 | 4 | Mackenzie IC (1987). *J Dent Res*, 66(8):1471–6 | Cell kinetics and proliferation rates by site |
-| 5 | Hatakeyama S (2011). *Mucosal Immunol*, 4:33–40 | JE immunological renewal |
 
 ---
 
-*Page seeded 2026-10-05. Upgrade by ingesting the sources above — then convert [미검증] tags to [확인] and remove this notice.*
+*Page seeded 2026-10-05. Molecular mechanisms (§4, §5 partial) now backed by ingested papers. Turnover rate figures (§2) still [미검증] pending textbook ingest.*
