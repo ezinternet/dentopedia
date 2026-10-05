@@ -7,6 +7,7 @@ category: implants/loading-protocol
 pdf_path: /Users/oracleneo/llm-wiki/papers/esposito-2009-interventions-replacing-missing-teeth.pdf
 pdf_filename: esposito-2009-interventions-replacing-missing-teeth.pdf
 source_collection: external
+superseded_by: esposito-2009-1-vs-2-stage-implant-placement-cochrane
 tags:
   - cochrane
   - systematic-review
