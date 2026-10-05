@@ -9,7 +9,7 @@ category: [oral-surgery]
 confidence: narrative-review
 pdf_path: N/A
 pdf_filename: N/A
-source_collection: pubmed-text
+source_collection: pubmed-abstract
 tags: [oral-mucosa, permeability, keratinized-mucosa, nonkeratinized-mucosa, lipid-barrier, drug-delivery, buccal-mucosa, hard-palate, gingiva, epithelial-barrier, oral-histology]
 relations:
   - type: reinforces
