@@ -16,6 +16,22 @@ source_url: https://pubmed.ncbi.nlm.nih.gov/39480496/
 
 Ingested to support the training-knowledge-seeded [[overviews/oral-mucosal-epithelial-turnover-overview]] page, which lists PITX1 as a key molecular driver of the faster oral keratinocyte proliferation and migration that underlies site-specific turnover rate differences. This paper provides the first in-depth mechanistic characterization of PITX1 as a transcriptional determinant of oral keratinocyte identity, directly underpinning the clinical claim that oral mucosa heals faster than skin.
 
+## Three-line Summary
+
+Transgenic mouse study (n=8+8, ectopic epidermal PITX1 expression via Tet-On induction) with scRNA-Seq and Xenium spatial transcriptomics (331,572 cells) demonstrates that PITX1 reshapes keratinocytes, fibroblasts, and immune cells toward a buccal-mucosa-like tissue state, establishing it as a master transcriptional determinant of oral keratinocyte (KC) identity.
+
+PITX1 directly binds and activates KRT6A, KRT16, S100A8/A9, and ALDH1A3 promoters (CUT&Tag-Seq), increases KC proliferation and migration in vitro, and accelerates full-thickness wound closure at days 2–8 via neutrophil-mediated inflammatory priming — without increased fibrosis at day 35; PITX1 is necessary and sufficient for the oral KC phenotype.
+
+Irreversible alopecia occurred as a side-effect of PITX1 overexpression (hair follicle stem cell loss); findings suggest PITX1 modulation could enhance wound healing outside the oral cavity but require targeted delivery to avoid follicular toxicity, and mechanistically explain why oral mucosa heals faster than skin.
+
+## 세줄요약
+
+형질전환 마우스 (n=8+8, Tet-On 유도 표피 PITX1 이소발현), 단세포 RNA-Seq (scRNA-Seq) + Xenium 공간전사체학 (33만 세포) — 케라티노사이트 (Keratinocyte)·섬유아세포·면역세포 전체가 협점막 (Buccal Mucosa) 유사 조직 상태로 전환; PITX1이 구강 KC 정체성의 마스터 전사 결정인자임을 확립.
+
+PITX1은 KRT6A/KRT16/S100A8-9/ALDH1A3 프로모터 직접 결합·활성화 (CUT&Tag-Seq), in vitro KC 증식·이동 증가, 전층 창상 2–8일차 치유 가속 (중성구 (Neutrophil) 매개 염증성 프라이밍); 35일차 섬유화 증가 없음; PITX1은 구강 KC 표현형의 필요충분 조건.
+
+비가역적 탈모 (Alopecia) 부작용 (모낭 줄기세포 손실); 비구강 부위 창상 치유 가속 가능성 시사하나 정밀 전달 방식 필요; 구강점막이 피부보다 빨리 치유되는 이유를 분자 수준에서 설명.
+
 ## One-line Summary
 
 Transgenic mouse scRNA-Seq + Xenium spatial transcriptomics study (n=8+8 mice) showing that ectopic PITX1 expression in skin keratinocytes drives an oral-like gene-expression state, increases proliferation and migration, and accelerates full-thickness wound closure via neutrophil-mediated inflammatory priming.
