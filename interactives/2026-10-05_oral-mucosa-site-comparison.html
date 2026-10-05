@@ -1,0 +1,363 @@
+<title>구강점막 부위별 비교</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;600;700&display=swap">
+<style>
+/* Single-theme light design — no dark blocks (operations-lint rule) */
+:root {
+  --bg:       #f3f7fc;
+  --surface:  #ffffff;
+  --surface2: #e9f0f8;
+  --border:   #c6d4e2;
+  --fg:       #192636;
+  --muted:    #5a6d80;
+  --faint:    #8ea2b4;
+  --accent:   #1560a0;
+  --ke:       #1d6b50;
+  --ke-bg:    #e5f2ed;
+  --nk:       #5e3a9a;
+  --nk-bg:    #ece6f8;
+  --ok:       #1a7840;
+  --ok-bg:    #e4f1eb;
+  --un:       #7a5200;
+  --un-bg:    #fdf3df;
+}
+*,*::before,*::after { box-sizing: border-box; margin: 0; padding: 0 }
+body {
+  background: var(--bg);
+  color: var(--fg);
+  font-family: 'Noto Sans KR', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 14px;
+  line-height: 1.65;
+  padding: 0 20px;
+  padding-block: 28px;
+  max-width: 860px;
+  margin: 0 auto;
+}
+
+/* ── Header ── */
+.hdr { margin-bottom: 22px }
+.hdr h1 { font-size: 1.25rem; font-weight: 700; letter-spacing: -0.02em; text-wrap: balance }
+.hdr .sub { color: var(--muted); font-size: 0.82rem; margin-top: 3px }
+
+/* ── Legend ── */
+.legend {
+  display: flex; flex-wrap: wrap; gap: 10px 18px;
+  margin-bottom: 18px; font-size: 0.78rem; align-items: center;
+}
+.leg { display: flex; align-items: center; gap: 5px }
+.dot { width: 9px; height: 9px; border-radius: 50%; flex-shrink: 0 }
+.dot-nk { background: var(--nk) }
+.dot-ke { background: var(--ke) }
+.dot-ref { background: #94a8bc }
+.badge {
+  display: inline-block;
+  padding: 1px 7px; border-radius: 3px;
+  font-size: 0.7rem; font-weight: 600;
+  letter-spacing: 0.02em;
+}
+.badge-ke  { background: var(--ke-bg);  color: var(--ke) }
+.badge-nk  { background: var(--nk-bg);  color: var(--nk) }
+.badge-ok  { background: var(--ok-bg);  color: var(--ok) }
+.badge-un  { background: var(--un-bg);  color: var(--un) }
+.badge-ref { background: var(--surface2); color: var(--muted) }
+
+/* ── Sort controls ── */
+.sort-row {
+  display: flex; gap: 7px; flex-wrap: wrap; align-items: center;
+  margin-bottom: 14px;
+}
+.sort-row span { font-size: 0.75rem; color: var(--muted) }
+.sbtn {
+  padding: 4px 13px; border: 1.5px solid var(--border);
+  background: var(--surface); border-radius: 20px;
+  font-size: 0.76rem; font-family: inherit; color: var(--muted);
+  cursor: pointer; transition: all .15s;
+}
+.sbtn.active {
+  border-color: var(--accent); background: #deeaf8; color: var(--accent); font-weight: 600;
+}
+.sbtn:hover:not(.active) { border-color: #9ab5cc; color: var(--fg) }
+
+/* ── Site rows ── */
+#sites { display: flex; flex-direction: column; gap: 5px }
+
+.row { cursor: pointer }
+.row-main {
+  background: var(--surface);
+  border: 1.5px solid var(--border);
+  border-radius: 8px;
+  padding: 13px 16px;
+  display: grid;
+  grid-template-columns: 210px 1fr 100px;
+  gap: 14px;
+  align-items: center;
+  transition: border-color .15s, box-shadow .15s;
+}
+@media (max-width: 600px) {
+  .row-main {
+    grid-template-columns: 1fr 90px;
+    grid-template-rows: auto auto;
+  }
+  .col-bar { grid-column: 1 / 3 }
+  .col-perm { grid-column: 2; grid-row: 1; text-align: right }
+}
+.row:hover .row-main { box-shadow: 0 2px 10px rgba(0,0,0,0.07) }
+.row.open .row-main { border-color: var(--accent); border-bottom-left-radius: 0; border-bottom-right-radius: 0; box-shadow: 0 0 0 2px rgba(21,96,160,.14) }
+
+/* Name cell */
+.abbr-pill {
+  display: inline-flex; align-items: center; justify-content: center;
+  width: 30px; height: 30px; border-radius: 50%;
+  font-size: 0.6rem; font-weight: 700; letter-spacing: 0;
+  margin-right: 8px; flex-shrink: 0; vertical-align: middle;
+}
+.pill-nk { background: var(--nk-bg); color: var(--nk) }
+.pill-ke { background: var(--ke-bg); color: var(--ke) }
+.pill-ref { background: var(--surface2); color: var(--muted) }
+.name-ko { font-weight: 600; font-size: 0.88rem }
+.name-en { font-size: 0.72rem; color: var(--muted) }
+
+/* Bar column */
+.col-bar { min-width: 0 }
+.track {
+  background: var(--surface2); border-radius: 4px; height: 9px;
+  position: relative; overflow: hidden; margin-bottom: 4px;
+}
+.fill { height: 100%; border-radius: 4px; transition: width .5s ease }
+.fill-nk { background: var(--nk) }
+.fill-ke { background: var(--ke) }
+.fill-ref { background: #94a8bc }
+.bar-meta { display: flex; gap: 6px; align-items: center; font-size: 0.7rem; color: var(--muted); font-variant-numeric: tabular-nums }
+
+/* Permeability dots */
+.col-perm { text-align: right }
+.perm-dots { display: flex; gap: 4px; justify-content: flex-end; margin-bottom: 3px }
+.pd { width: 8px; height: 8px; border-radius: 50% }
+.pd.on { background: var(--accent) }
+.pd.off { background: var(--surface2); border: 1px solid var(--border) }
+.perm-lbl { font-size: 0.69rem; color: var(--muted) }
+
+/* Detail panel */
+.row-detail {
+  display: none;
+  background: var(--surface2);
+  border: 1.5px solid var(--accent);
+  border-top: none;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+  padding: 16px 20px;
+  font-size: 0.82rem;
+  line-height: 1.7;
+}
+.row.open .row-detail { display: block }
+
+.detail-grid {
+  display: grid; grid-template-columns: 1fr 1fr; gap: 18px;
+}
+@media (max-width: 540px) { .detail-grid { grid-template-columns: 1fr } }
+.dh {
+  font-size: 0.68rem; font-weight: 700; letter-spacing: 0.07em;
+  text-transform: uppercase; color: var(--muted); margin-bottom: 5px;
+}
+.dm { white-space: pre-line; color: var(--fg) }
+.detail-foot { margin-top: 10px; font-size: 0.72rem; color: var(--muted); border-top: 1px solid var(--border); padding-top: 8px }
+
+/* Axis ruler below sort controls */
+.axis { display: flex; margin-bottom: 4px; padding: 0 16px; font-size: 0.67rem; color: var(--faint) }
+.axis-seg { flex: 1; border-left: 1px dashed var(--border); padding-left: 3px }
+.axis-seg:last-child { border-right: 1px dashed var(--border) }
+
+/* Source note */
+.src-note {
+  margin-top: 22px; padding: 12px 16px;
+  background: var(--surface); border-radius: 7px;
+  border: 1px solid var(--border); font-size: 0.76rem;
+  color: var(--muted); line-height: 1.65;
+}
+.src-note strong { color: var(--fg) }
+
+/* axis x-label */
+.axis-title { font-size: 0.68rem; color: var(--faint); margin-bottom: 2px; padding: 0 16px }
+</style>
+
+<div class="hdr">
+  <h1>구강점막 부위별 상피 비교 <span style="font-size:.78em;font-weight:400;color:var(--muted)">Oral Mucosa Site Comparison</span></h1>
+  <p class="sub">각화 유형 · 턴오버 시간 · 투과성 (Squier 1991 [확인]) · 분자기전 | 클릭하면 상세 보기</p>
+</div>
+
+<div class="legend">
+  <span class="leg"><span class="dot dot-nk"></span>비각화 (Non-keratinized)</span>
+  <span class="leg"><span class="dot dot-ke"></span>각화 (Keratinized)</span>
+  <span class="leg"><span class="dot dot-ref"></span>피부 기준 (Reference)</span>
+  <span class="leg"><span class="badge badge-ok">확인</span> 인제스트 논문 검증</span>
+  <span class="leg"><span class="badge badge-un">미검증</span> 교과서 인제스트 전</span>
+</div>
+
+<div class="sort-row">
+  <span>정렬:</span>
+  <button class="sbtn active" onclick="sort('turnover')">턴오버 빠른 순</button>
+  <button class="sbtn" onclick="sort('perm')">투과성 높은 순</button>
+  <button class="sbtn" onclick="sort('type')">각화 유형</button>
+</div>
+
+<div class="axis-title">← 빠름 &nbsp; 턴오버 시간 (기준: 피부 ~28일 = 100%) &nbsp; 느림 →</div>
+<div class="axis" id="axis-ruler">
+  <div class="axis-seg">0</div>
+  <div class="axis-seg">7d</div>
+  <div class="axis-seg">14d</div>
+  <div class="axis-seg">21d</div>
+  <div class="axis-seg">28d</div>
+</div>
+
+<div id="sites"></div>
+
+<div class="src-note">
+  <strong>근거:</strong>
+  턴오버 시간 수치 <span class="badge badge-un">미검증</span> — 출처: Nanci <em>Ten Cate's Oral Histology</em> (미인제스트), Squier &amp; Kremer 2001 (미인제스트).
+  투과성 계층구조 <span class="badge badge-ok">확인</span> — Squier 1991 DOI 10.1177/10454411910020010301.
+  분자기전 <span class="badge badge-ok">확인</span> — IRX1/JE: Su 2025 DOI 10.1172/jci.insight.179815; PITX1/oral&gt;skin: Overmiller 2024 DOI 10.1172/jci.insight.182844.
+  JE 비각화 필수성 <span class="badge badge-ok">확인</span> — Squier 1981 DOI 10.1902/jop.1981.52.8.426.
+</div>
+
+<script>
+const SITES = [
+  {
+    id:'je', name:'접합상피', en:'Junctional Epithelium', abbr:'JE',
+    type:'nk', mid:3.5, min:1, max:6, label:'1–6일',
+    perm:3, permLbl:'중상', permNote:'GCF 통과 허용 — 루슨한 세포간 결합',
+    permEv:'un',
+    keratinization:'비각화 (Non-keratinized)', location:'치아-연조직 계면 / 치은열구',
+    molecular:'IRX1 기저세포층 발현 → SOX9·EPGN/EGF 신호 활성화 [확인] (Su 2025)\nIrx1 반접합자: 재상피화 3–7일 지연; WT 1 dpi 근접 폐쇄 [확인]\nSquier 1981: 비각화 상태는 치아부착 유지에 생물학적 필수 [확인]',
+    clinical:'• 구강점막 중 최빠른 전환 — 세균 방어 기전 [확인]\n• 수술 후 수일 내 재형성 시작 [확인] (Su 2025)\n• 각화 유도 시 치아부착 상실 위험 [확인] (Squier 1981)\n• 치주 수술 후 LJE 형성 = 판막 재부착 기전\n• 치주 재생술 시 막/바이오로직으로 JE 배제 필요',
+    turnEv:'un'
+  },
+  {
+    id:'buccal', name:'협점막', en:'Buccal Mucosa', abbr:'BM',
+    type:'nk', mid:5.5, min:5, max:6, label:'5–6일',
+    perm:5, permLbl:'높음', permNote:'비각화 피복점막; 가장 높은 투과성',
+    permEv:'ok',
+    keratinization:'비각화 (Non-keratinized)', location:'볼 안쪽',
+    molecular:'PITX1 발현 (구강 특이적 TF; 피부 미발현) [확인] (Overmiller 2024)\n핵 보유 KCs 탈락 → 세포진 검사 최적',
+    clinical:'• 구강 세포진 검사 최적 부위 [확인]\n• 약물 전달 최적 (buccal tablets, films) [확인] (Squier 1991)\n• 새 투명교정 트레이: 5–6일 주기 → 대부분 1주 내 적응\n• 단순 구내염: 7–14일 내 재상피화 (턴오버 주기 기반)',
+    turnEv:'un'
+  },
+  {
+    id:'gingiva', name:'치은 구강상피', en:'Gingival Oral Epithelium', abbr:'GE',
+    type:'ke', mid:11, min:10, max:12, label:'10–12일',
+    perm:2, permLbl:'낮음', permNote:'각화층 존재 → 낮은 투과성',
+    permEv:'ok',
+    keratinization:'각화 / 반각화 (Keratinized / Parakeratinized)', location:'치경부 치은 구강 상피면',
+    molecular:'IRX1 기저층 발현; SOX9 발현 = TA층 표지 [확인] (Su 2025)\nPITX1 발현 [확인] (Overmiller 2024)',
+    clinical:'• 각화층으로 인해 물리적 압력 저항 ↑\n• IRX1 발현 → 구강점막 중 상대적으로 빠른 상처 치유 [확인]\n• 치은 판막 수술 후 7–10일 표면 폐쇄 (CTG 공여부 제외)\n• 각화 상피 보존이 임플란트 주위 건강에 유리',
+    turnEv:'un'
+  },
+  {
+    id:'floor', name:'구강저', en:'Floor of Mouth', abbr:'FM',
+    type:'nk', mid:14, min:14, max:14, label:'~14일',
+    perm:5, permLbl:'높음', permNote:'얇은 비각화 상피 → 높은 투과성',
+    permEv:'ok',
+    keratinization:'비각화 (Non-keratinized)', location:'혀 아래',
+    molecular:'— (현재 인제스트된 논문 내 구체 데이터 없음)',
+    clinical:'• 설하 투여(sublingual) 약물 최적 흡수 경로 [확인] (Squier 1991)\n• 얇은 상피 → 구강저암 높은 침습성 (임상 중요)\n• 구강저 수술 후 2주 내 표면 재상피화',
+    turnEv:'un'
+  },
+  {
+    id:'soft', name:'연구개', en:'Soft Palate', abbr:'SP',
+    type:'nk', mid:15, min:14, max:16, label:'14–16일',
+    perm:4, permLbl:'중상', permNote:'비각화 피복점막 — 중간 투과성',
+    permEv:'ok',
+    keratinization:'비각화 (Non-keratinized)', location:'구개 후방 (이동성)',
+    molecular:'— (현재 인제스트된 논문 내 구체 데이터 없음)',
+    clinical:'• 수면무호흡 수술(uvulopalatoplasty) 후 2–3주 치유\n• 구개열 재건 후 연조직 타임라인 참고\n• 완전 틀니 구개 피개부: 2주 주기 점막 교체',
+    turnEv:'un'
+  },
+  {
+    id:'hp', name:'경구개', en:'Hard Palate', abbr:'HP',
+    type:'ke', mid:24, min:24, max:24, label:'~24일',
+    perm:1, permLbl:'최저', permNote:'두꺼운 각화층 → 구강 내 최저 투과성',
+    permEv:'ok',
+    keratinization:'각화 (Keratinized)', location:'구개 전방 (경부)',
+    molecular:'— (현재 인제스트된 논문 내 구체 데이터 없음)',
+    clinical:'• CTG(결합조직이식) 구개 공여부: 3–4주 재상피화\n• 약물 전달 최악 경로 (두꺼운 각질층) [확인] (Squier 1991)\n• 구강세포진 검사 세포 수율 낮음',
+    turnEv:'un'
+  },
+  {
+    id:'skin', name:'피부 표피', en:'Skin Epidermis (Reference)', abbr:'피부',
+    type:'ref', mid:28, min:28, max:28, label:'~28일',
+    perm:1, permLbl:'최저', permNote:'Stratum corneum 각질층 장벽',
+    permEv:'un',
+    keratinization:'각화 (Keratinized)', location:'(비교 기준)',
+    molecular:'PITX1 미발현 [확인] (Overmiller 2024)\nIRX1 미발현 (피부 상피; HF bulge에는 존재) [확인] (Su 2025)',
+    clinical:'• 구강점막 전반이 피부보다 2–5× 빠른 치유 [확인] (Overmiller 2024)\n• 구강 특이적 TF(PITX1, IRX1) 부재가 느린 치유의 분자 기전\n• 풀층 상처: 구강 2–8일 차에 현저히 빠른 폐쇄 [확인]',
+    turnEv:'un'
+  }
+];
+const MAX=28;
+let openId=null;
+
+function pct(v){ return (v/MAX*100).toFixed(1)+'%' }
+
+function pillCls(t){ return t==='ke'?'pill-ke':t==='nk'?'pill-nk':'pill-ref' }
+function fillCls(t){ return t==='ke'?'fill-ke':t==='nk'?'fill-nk':'fill-ref' }
+
+function dots(n,max=5){
+  return Array.from({length:max},(_,i)=>
+    `<span class="pd ${i<n?'on':'off'}"></span>`).join('')
+}
+
+function render(list){
+  document.getElementById('sites').innerHTML='';
+  list.forEach(s=>{
+    const typLbl = s.type==='ke'?'각화':s.type==='nk'?'비각화':'기준';
+    const typBdg = s.type==='ke'?'badge-ke':s.type==='nk'?'badge-nk':'badge-ref';
+    const el=document.createElement('div');
+    el.className='row'+(openId===s.id?' open':'');
+    el.dataset.id=s.id;
+    el.innerHTML=`
+      <div class="row-main">
+        <div>
+          <span class="abbr-pill ${pillCls(s.type)}">${s.abbr}</span><span class="name-ko">${s.name}</span><br>
+          <span class="name-en" style="padding-left:38px">${s.en}</span>
+          ${s.type!=='ref'?`<span class="badge ${typBdg}" style="margin-left:38px;margin-top:3px;display:inline-block">${typLbl}</span>`:''}
+        </div>
+        <div class="col-bar">
+          <div class="track"><div class="fill ${fillCls(s.type)}" style="width:${pct(s.mid)}"></div></div>
+          <div class="bar-meta">
+            ${s.label}&ensp;<span class="badge badge-${s.turnEv}">${s.turnEv==='ok'?'확인':'미검증'}</span>
+          </div>
+        </div>
+        <div class="col-perm">
+          <div class="perm-dots">${dots(s.perm)}</div>
+          <div class="perm-lbl">투과성 ${s.permLbl}</div>
+          <div><span class="badge badge-${s.permEv}" style="font-size:.67rem">${s.permEv==='ok'?'확인':'미검증'}</span></div>
+        </div>
+      </div>
+      <div class="row-detail">
+        <div class="detail-grid">
+          <div><div class="dh">분자기전 / 생물학</div><div class="dm">${s.molecular}</div></div>
+          <div><div class="dh">임상 적용</div><div class="dm">${s.clinical}</div></div>
+        </div>
+        <div class="detail-foot">위치: ${s.location} &nbsp;·&nbsp; 각화: ${s.keratinization} &nbsp;·&nbsp; 투과성 메모: ${s.permNote}</div>
+      </div>`;
+    el.querySelector('.row-main').addEventListener('click',()=>{
+      openId=(openId===s.id)?null:s.id;
+      render(currentList);
+    });
+    document.getElementById('sites').appendChild(el);
+  });
+}
+
+let currentList=[...SITES];
+function sort(by){
+  document.querySelectorAll('.sbtn').forEach(b=>b.classList.remove('active'));
+  document.querySelector(`[onclick="sort('${by}')"]`).classList.add('active');
+  if(by==='turnover') currentList=[...SITES].sort((a,b)=>a.mid-b.mid);
+  else if(by==='perm') currentList=[...SITES].sort((a,b)=>b.perm-a.perm);
+  else currentList=[...SITES].sort((a,b)=>{
+    const o={nk:0,ke:1,ref:2};
+    return o[a.type]-o[b.type];
+  });
+  render(currentList);
+}
+
+sort('turnover');
+</script>
