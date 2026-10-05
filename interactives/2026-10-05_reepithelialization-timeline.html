@@ -1,0 +1,398 @@
+<title>재상피화 타임라인</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;600;700&display=swap">
+<style>
+/* Single-theme light — no dark blocks (operations-lint rule) */
+:root {
+  --bg:       #f3f7fc;
+  --surface:  #ffffff;
+  --surface2: #e8f0f8;
+  --border:   #c4d2e0;
+  --fg:       #192636;
+  --muted:    #5a6d80;
+  --faint:    #8ea2b4;
+  --accent:   #1560a0;
+  --p1:       #e07a20;  /* Phase 1 — hemostasis/initial */
+  --p1-bg:    #fef0e3;
+  --p2:       #1d8a5c;  /* Phase 2 — re-epithelialization */
+  --p2-bg:    #e4f4ed;
+  --p3:       #3a72b8;  /* Phase 3 — maturation */
+  --p3-bg:    #e5eef8;
+  --ok:       #1a7840;
+  --ok-bg:    #e4f1eb;
+  --un:       #7a5200;
+  --un-bg:    #fdf3df;
+}
+*,*::before,*::after { box-sizing:border-box; margin:0; padding:0 }
+body {
+  background:var(--bg);
+  color:var(--fg);
+  font-family:'Noto Sans KR',-apple-system,BlinkMacSystemFont,sans-serif;
+  font-size:14px; line-height:1.65;
+  padding: 0 20px;
+  padding-block: 28px;
+  max-width: 820px;
+  margin: 0 auto;
+}
+
+.hdr { margin-bottom: 22px }
+.hdr h1 { font-size:1.2rem; font-weight:700; letter-spacing:-0.02em; text-wrap:balance }
+.hdr .sub { color:var(--muted); font-size:0.82rem; margin-top:3px }
+
+.badge {
+  display:inline-block; padding:1px 7px; border-radius:3px;
+  font-size:0.7rem; font-weight:600; letter-spacing:0.02em;
+}
+.badge-ok { background:var(--ok-bg); color:var(--ok) }
+.badge-un { background:var(--un-bg); color:var(--un) }
+.badge-p1 { background:var(--p1-bg); color:var(--p1) }
+.badge-p2 { background:var(--p2-bg); color:var(--p2) }
+.badge-p3 { background:var(--p3-bg); color:var(--p3) }
+
+/* Procedure selector */
+.proc-grid {
+  display:grid;
+  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+  gap:9px;
+  margin-bottom:24px;
+}
+.pcard {
+  background:var(--surface);
+  border:1.5px solid var(--border);
+  border-radius:8px;
+  padding:12px 14px;
+  cursor:pointer;
+  transition: border-color .15s, box-shadow .15s;
+}
+.pcard:hover { box-shadow:0 2px 8px rgba(0,0,0,.07) }
+.pcard.sel { border-color:var(--accent); background:#eaf2fb; box-shadow:0 0 0 2.5px rgba(21,96,160,.15) }
+.pcard-icon { font-size:1.3rem; margin-bottom:5px }
+.pcard-name { font-weight:600; font-size:0.88rem; margin-bottom:2px }
+.pcard-site { font-size:0.75rem; color:var(--muted) }
+
+/* Timeline output */
+#output { display:none }
+#output.show { display:block }
+
+.tl-header {
+  background:var(--surface);
+  border:1.5px solid var(--border);
+  border-radius:10px 10px 0 0;
+  padding:16px 20px 14px;
+  border-bottom:none;
+}
+.tl-header h2 { font-size:1.05rem; font-weight:700; margin-bottom:2px }
+.tl-header .site-tag { font-size:0.78rem; color:var(--muted) }
+
+/* Timeline chart */
+.tl-chart {
+  background:var(--surface);
+  border:1.5px solid var(--border);
+  padding:18px 20px;
+  border-top:none;
+}
+
+.tl-label-row {
+  display:flex; gap:12px; margin-bottom:10px; flex-wrap:wrap;
+}
+.phase-tag {
+  display:flex; align-items:center; gap:5px; font-size:0.76rem;
+}
+.ph-dot { width:10px; height:10px; border-radius:50%; flex-shrink:0 }
+.ph-dot-1 { background:var(--p1) }
+.ph-dot-2 { background:var(--p2) }
+.ph-dot-3 { background:var(--p3) }
+
+/* The visual timeline bar */
+.tl-track {
+  position:relative;
+  height:38px;
+  border-radius:5px;
+  background:var(--surface2);
+  overflow:visible;
+  margin-bottom:8px;
+}
+.tl-seg {
+  position:absolute; height:100%;
+  border-radius:0;
+  display:flex; align-items:center; justify-content:center;
+  font-size:0.68rem; font-weight:600; color:#fff;
+  overflow:hidden; white-space:nowrap;
+  transition:width .5s, left .5s;
+}
+.tl-seg:first-child { border-radius:5px 0 0 5px }
+.tl-seg:last-child { border-radius:0 5px 5px 0 }
+.tl-seg.only { border-radius:5px }
+.seg-1 { background:var(--p1) }
+.seg-2 { background:var(--p2) }
+.seg-3 { background:var(--p3) }
+
+/* Day axis */
+.day-axis {
+  display:flex; font-size:0.67rem; color:var(--faint);
+  border-top:1px dashed var(--border);
+  padding-top:4px;
+}
+.day-tick { flex:1; border-left:1px dashed var(--border); padding-left:3px }
+.day-tick:last-child { border-right:1px dashed var(--border) }
+
+/* Milestone markers */
+.milestones {
+  margin-top:14px; display:flex; flex-direction:column; gap:7px;
+}
+.ms {
+  display:grid; grid-template-columns:80px 1fr;
+  gap:10px; align-items:start; font-size:0.82rem;
+}
+.ms-day {
+  font-weight:700; color:var(--accent); font-variant-numeric:tabular-nums;
+  padding-top:2px;
+}
+.ms-desc { color:var(--fg) }
+
+/* Notes section */
+.tl-notes {
+  background:var(--surface);
+  border:1.5px solid var(--border);
+  border-top:none;
+  border-radius:0 0 10px 10px;
+  padding:14px 20px;
+}
+.notes-grid { display:grid; grid-template-columns:1fr 1fr; gap:16px }
+@media (max-width:520px) { .notes-grid { grid-template-columns:1fr } }
+.nh { font-size:0.68rem; font-weight:700; letter-spacing:0.07em; text-transform:uppercase; color:var(--muted); margin-bottom:5px }
+.nb { font-size:0.81rem; line-height:1.7; white-space:pre-line }
+
+/* Evidence strip */
+.ev-strip { display:flex; gap:8px; flex-wrap:wrap; margin-top:8px; font-size:0.75rem; color:var(--muted) }
+
+/* Source note */
+.src-note {
+  margin-top:22px; padding:11px 15px;
+  background:var(--surface); border-radius:7px;
+  border:1px solid var(--border); font-size:0.75rem;
+  color:var(--muted); line-height:1.65;
+}
+.src-note strong { color:var(--fg) }
+</style>
+
+<div class="hdr">
+  <h1>재상피화 타임라인 예측기 <span style="font-size:.75em;font-weight:400;color:var(--muted)">Re-epithelialization Timeline</span></h1>
+  <p class="sub">술식 / 부위 선택 → 예상 치유 단계별 타임라인 출력 &nbsp; | &nbsp; 수치 <span class="badge badge-un">미검증</span> 분자기전 <span class="badge badge-ok">확인</span></p>
+</div>
+
+<div class="proc-grid" id="proc-grid"></div>
+
+<div id="output">
+  <div class="tl-header">
+    <h2 id="out-title"></h2>
+    <div class="site-tag" id="out-site"></div>
+  </div>
+
+  <div class="tl-chart">
+    <div class="tl-label-row">
+      <span class="phase-tag"><span class="ph-dot ph-dot-1"></span>Phase 1 초기 / 지혈</span>
+      <span class="phase-tag"><span class="ph-dot ph-dot-2"></span>Phase 2 재상피화</span>
+      <span class="phase-tag"><span class="ph-dot ph-dot-3"></span>Phase 3 성숙</span>
+    </div>
+    <div class="tl-track" id="tl-track"></div>
+    <div class="day-axis" id="day-axis"></div>
+    <div class="milestones" id="milestones"></div>
+  </div>
+
+  <div class="tl-notes">
+    <div class="notes-grid">
+      <div><div class="nh">임상 고려사항</div><div class="nb" id="out-clinical"></div></div>
+      <div><div class="nh">근거 수준</div><div class="nb" id="out-evidence"></div></div>
+    </div>
+  </div>
+</div>
+
+<div class="src-note">
+  <strong>근거:</strong>
+  재상피화 시간 수치 <span class="badge badge-un">미검증</span> — 교과서 및 임상 문헌 인제스트 전 수치.
+  분자기전 <span class="badge badge-ok">확인</span>: JE/GE 빠른 재상피화 = Su 2025 (DOI 10.1172/jci.insight.179815); oral &gt; skin = Overmiller 2024 (DOI 10.1172/jci.insight.182844).
+  투과성 = Squier 1991 (DOI 10.1177/10454411910020010301). JE 비각화 필수 = Squier 1981 (DOI 10.1902/jop.1981.52.8.426).
+</div>
+
+<script>
+const PROCS = [
+  {
+    id:'buccal-ulcer',
+    icon:'🫦',
+    name:'구강 궤양 / 외상 (협점막)',
+    site:'Non-keratinized · Buccal mucosa',
+    totalDays:21,
+    phases:[
+      {label:'초기·지혈', cls:'seg-1', from:0, to:2},
+      {label:'재상피화', cls:'seg-2', from:2, to:14},
+      {label:'성숙', cls:'seg-3', from:14, to:21}
+    ],
+    milestones:[
+      {day:'0–2일', desc:'혈전·피브린 가교 형성; 염증 반응 시작'},
+      {day:'3–5일', desc:'협점막 기저세포 이동 시작; PITX1 활성화 [확인]'},
+      {day:'7일', desc:'표면 재상피화 대부분 완료 (단순 궤양)'},
+      {day:'14일', desc:'상피 전층 복원; 기능 정상화'},
+      {day:'14–21일', desc:'상피 성숙·각화 패턴 정상화'}
+    ],
+    clinical:'• 단순 아프타: 통상 7–10일 자연 치유\n• 협점막 기증(free gingival graft 확인 절개): 7–14일\n• 반복 외상 지속 시 → 재상피화 미완료; 원인 제거 필수\n• 재발성 아프타: 치유 주기 정상이나 개시 반복',
+    evidence:'턴오버 시간 [미검증]\n협점막 빠른 치유 분자기전 [확인] (Overmiller 2024)\n협점막 투과성 높음 [확인] (Squier 1991)'
+  },
+  {
+    id:'frenectomy',
+    icon:'✂️',
+    name:'소대절제술 / 생검 (구강점막)',
+    site:'Non-keratinized · Buccal/labial mucosa',
+    totalDays:21,
+    phases:[
+      {label:'초기', cls:'seg-1', from:0, to:3},
+      {label:'재상피화', cls:'seg-2', from:3, to:14},
+      {label:'성숙', cls:'seg-3', from:14, to:21}
+    ],
+    milestones:[
+      {day:'0–3일', desc:'초기 상처 수축·피브린 망 형성'},
+      {day:'4–7일', desc:'협점막/순점막 재상피화 진행; 봉합 제거 가능'},
+      {day:'10–14일', desc:'표면 상피 전층 복원'},
+      {day:'14–21일', desc:'상피 성숙; 반흔 최소 (구강 특성)'}
+    ],
+    clinical:'• 협·순점막 생검 부위: 7–14일 재상피화 완료\n• 봉합 제거: 통상 7–10일\n• 레이저 vs 메스: 재상피화 속도 유사\n• 협측 소대: 비각화→비각화 치유, 성인 1–2주',
+    evidence:'턴오버 시간 [미검증]\n구강 > 피부 치유 [확인] (Overmiller 2024)\n협점막 투과성 [확인] (Squier 1991)'
+  },
+  {
+    id:'ctg-palate',
+    icon:'🦷',
+    name:'CTG 구개 공여부',
+    site:'Keratinized · Hard palate',
+    totalDays:42,
+    phases:[
+      {label:'초기·지혈', cls:'seg-1', from:0, to:5},
+      {label:'재상피화', cls:'seg-2', from:5, to:28},
+      {label:'성숙', cls:'seg-3', from:28, to:42}
+    ],
+    milestones:[
+      {day:'0–5일', desc:'구개 공여부 수축; 혈전 안정화'},
+      {day:'7–10일', desc:'표면 상피화 시작 (두꺼운 각화층으로 느림)'},
+      {day:'14–21일', desc:'부분 재상피화; 통증 감소'},
+      {day:'21–28일', desc:'경구개 재상피화 대부분 완료'},
+      {day:'28–42일', desc:'상피 성숙; 각화 패턴 회복'}
+    ],
+    clinical:'• 경구개 ~24일 턴오버 → 공여부 3–4주 소요 [미검증]\n• 술 후 1–2주: 구개 보호 스텐트 착용 권장\n• 봉합 유지: 10–14일\n• 2차 절개(trap door) vs envelope: 경구개 치유 동일\n• 공여부 크기 > 4cm²: 치유 지연 위험',
+    evidence:'경구개 ~24일 턴오버 [미검증]\n구강 > 피부 치유 [확인] (Overmiller 2024)\n경구개 투과성 최저 [확인] (Squier 1991)'
+  },
+  {
+    id:'perio-flap',
+    icon:'🔬',
+    name:'치주 판막 수술 (JE 재형성)',
+    site:'Junctional Epithelium reformation',
+    totalDays:42,
+    phases:[
+      {label:'JE 초기 재형성', cls:'seg-1', from:0, to:7},
+      {label:'LJE 성숙', cls:'seg-2', from:7, to:28},
+      {label:'결합조직 성숙', cls:'seg-3', from:28, to:42}
+    ],
+    milestones:[
+      {day:'1일 (WT)', desc:'JE 기저세포 이동 시작; 뮤린 WT 1 dpi 근접 폐쇄 [확인]'},
+      {day:'2–3일', desc:'JE 재형성 시작 (임상 관찰)'},
+      {day:'7–10일', desc:'LJE 조직학적 인식 가능; 봉합 제거'},
+      {day:'3–4주', desc:'Long JunctionalEpithelium (LJE) 완성'},
+      {day:'4–6주', desc:'JE 완전 구조 성숙; 치조골 연조직 성숙'}
+    ],
+    clinical:'• JE 빠른 재형성 = 치주 재생술 실패 원인\n  → 차단막·biologics로 JE 배제 필수\n• IRX1 발현이 JE 빠른 재형성 분자 기전 [확인] (Su 2025)\n• LJE: 생체 재부착이지만 결합조직 부착 < 진성 재부착\n• Osseous surgery: 치은 치유 7–10일, JE 재형성 2–4주',
+    evidence:'JE 재형성 속도 [미검증] (임상 관찰)\nJE 기저층 IRX1 발현 [확인] (Su 2025)\nJE 비각화 상태 필수 [확인] (Squier 1981)'
+  },
+  {
+    id:'implant-tissue',
+    icon:'🔩',
+    name:'임플란트 주위 연조직',
+    site:'Peri-implant mucosal seal',
+    totalDays:56,
+    phases:[
+      {label:'점막 폐쇄', cls:'seg-1', from:0, to:14},
+      {label:'각화조직 적응', cls:'seg-2', from:14, to:28},
+      {label:'결합조직 성숙', cls:'seg-3', from:28, to:56}
+    ],
+    milestones:[
+      {day:'3–5일', desc:'점막 초기 폐쇄 (비각화 점막)'},
+      {day:'7–14일', desc:'점막봉합 (mucosal seal) 형성; 임시보철 연결 가능'},
+      {day:'14–28일', desc:'각화조직 적응·치은 형성'},
+      {day:'4–8주', desc:'결합조직부착 (collagen fibers) 성숙'},
+      {day:'3–6개월', desc:'점막 안정화; 최종 인상 채득 적합'}
+    ],
+    clinical:'• 각화 조직 최소 2mm 유지 → 임플란트 주위 건강 유리\n• 각화 조직 부족 시: FGG로 보강 후 임플란트 식립\n• 즉시 임시 보철: 점막 치유 유도에 유리 (profile)\n• 치유 지대주 교체 시 점막 재응력 → 추가 1–2주',
+    evidence:'점막 치유 시간 [미검증]\n각화 조직 생물학 [미검증]\n구강 > 피부 연조직 치유 [확인] (Overmiller 2024)'
+  },
+  {
+    id:'extraction',
+    icon:'🦷',
+    name:'발치 후 연조직 폐쇄',
+    site:'Gingival / socket epithelium',
+    totalDays:42,
+    phases:[
+      {label:'초기 혈전', cls:'seg-1', from:0, to:3},
+      {label:'치은 재상피화', cls:'seg-2', from:3, to:21},
+      {label:'성숙·각화', cls:'seg-3', from:21, to:42}
+    ],
+    milestones:[
+      {day:'0–3일', desc:'혈전 안정화; 염증 피크'},
+      {day:'3–7일', desc:'치은 가장자리 재상피화 시작'},
+      {day:'7–14일', desc:'발치와 상부 표면 상피화'},
+      {day:'14–21일', desc:'연조직 연속성 회복; 치은 형태 일부 회복'},
+      {day:'3–6주', desc:'치은 각화 상피 성숙; 골 치유 진행 중'}
+    ],
+    clinical:'• 봉합: 5–7일 제거 (비흡수성); 치은 치유 4–7일\n• Dry socket: 혈전 손실 → 재상피화 지연 1–2주\n• 즉시 임플란트: 치은 치유 2–3주 후 최종 형태\n• 골이식 발치와: 연조직 폐쇄 14–21일 → 지연 식립',
+    evidence:'연조직 치유 시간 [미검증]\n치은 각화 상피 생물학 [미검증]\n구강 > 피부 치유 [확인] (Overmiller 2024)'
+  }
+];
+
+function buildAxis(totalDays){
+  const ticks = [];
+  const step = totalDays <= 21 ? 7 : totalDays <= 28 ? 7 : 14;
+  for(let d=0; d<=totalDays; d+=step) ticks.push(d+'일');
+  return ticks.map(t=>`<div class="day-tick">${t}</div>`).join('');
+}
+
+function buildTrack(phases, totalDays){
+  return phases.map((p,i)=>{
+    const left = (p.from/totalDays*100).toFixed(1)+'%';
+    const width = ((p.to-p.from)/totalDays*100).toFixed(1)+'%';
+    const only = phases.length===1 ? ' only' : '';
+    const isFirst = i===0;
+    const isLast = i===phases.length-1;
+    let radius = '';
+    if(isFirst && isLast) radius=' only';
+    else if(isFirst) radius=' style="border-radius:5px 0 0 5px"';
+    else if(isLast) radius=' style="border-radius:0 5px 5px 0"';
+    return `<div class="tl-seg ${p.cls}"${radius} style="left:${left};width:${width}">${p.label}</div>`;
+  }).join('');
+}
+
+function select(id){
+  document.querySelectorAll('.pcard').forEach(c=>c.classList.toggle('sel', c.dataset.id===id));
+  const p = PROCS.find(x=>x.id===id);
+  if(!p) return;
+
+  document.getElementById('out-title').textContent = p.name;
+  document.getElementById('out-site').textContent = '부위: '+p.site;
+  document.getElementById('tl-track').innerHTML = buildTrack(p.phases, p.totalDays);
+  document.getElementById('day-axis').innerHTML = buildAxis(p.totalDays);
+  document.getElementById('milestones').innerHTML = p.milestones.map(m=>
+    `<div class="ms"><div class="ms-day">${m.day}</div><div class="ms-desc">${m.desc}</div></div>`
+  ).join('');
+  document.getElementById('out-clinical').textContent = p.clinical;
+  document.getElementById('out-evidence').textContent = p.evidence;
+  document.getElementById('output').classList.add('show');
+  document.getElementById('output').scrollIntoView({behavior:'smooth', block:'nearest'});
+}
+
+// Build selector cards
+const grid = document.getElementById('proc-grid');
+PROCS.forEach(p=>{
+  const card = document.createElement('div');
+  card.className='pcard'; card.dataset.id=p.id;
+  card.innerHTML=`<div class="pcard-icon">${p.icon}</div><div class="pcard-name">${p.name}</div><div class="pcard-site">${p.site}</div>`;
+  card.addEventListener('click',()=>select(p.id));
+  grid.appendChild(card);
+});
+
+// Default selection
+select('buccal-ulcer');
+</script>
