@@ -87,6 +87,13 @@ Clinical use: choose the protocol on soft-tissue, esthetic and handling grounds;
 3. For immediate loading, treat micromotion as a controllable variable (primary stability, rest period, loading frequency) instead of applying a single threshold.
 4. When counselling one-piece designs, weigh the technical-complication burden reported in the long-term RCT [[implants/pirc-2026-one-piece-two-piece-implants-15year-rct]] against the null survival data here.
 
+## Related Papers
+
+- [[implants/mbl/al-amri-2016-crestal-bone-loss-submerged]] — SR (13 studies: 6 human + 7 animal; 1986–Oct 2015): no significant difference in CBL between submerged and nonsubmerged implants in 5 of 6 human studies (follow-up 1–5 yr, CBL 0.17–0.9 mm vs 0.02–1.4 mm); corroborates the null finding in Moustafa Ali 2018 (sr, 2016)
+- [[implants/survival/astrand-2002-nonsubmerged-submerged-implants-treatment-partially]] — Split-mouth RCT (28 patients, 56 sites): ITI nonsubmerged vs Brånemark submerged FPDs in partially edentulous maxilla; no survival or MBL difference at 1-year loading; crater-form bone destruction at 18% of ITI implants signals importance of radiographic monitoring in nonsubmerged systems (rct, 2002)
+- [[implants/mbl/gheisari-2017-comparison-marginal-bone-loss-one-stage]] — RCT (310 Astra Tech implants, 140 patients): one-stage vs two-stage; MBL 0.760 mm vs 0.842 mm at 6 months post-loading (NS, p>0.05); supports one-stage as equivalent to two-stage with reduced patient burden (rct, 2017)
+- [[implants/loading-protocol/esposito-2009-interventions-replacing-missing-teeth]] — Cochrane SR+MA (5 RCTs, 761 implants): 1-stage (non-submerged) vs 2-stage (submerged) placement; no significant difference in prosthesis failure, implant failure, MBL, complications, or soft-tissue recession; GRADE moderate — the highest-level evidence anchor for the 1- vs 2-stage equivalence claim (sr+ma, 2009)
+
 ## Related
 
 - [[overviews/tissue-level-vs-bone-level-implant-outcomes]] — contains the one-piece/two-piece framing and Pirc RCT evidence table.
