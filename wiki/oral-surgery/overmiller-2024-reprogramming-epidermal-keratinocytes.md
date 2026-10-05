@@ -9,7 +9,7 @@ category: [oral-surgery]
 confidence: animal
 pdf_path: N/A
 pdf_filename: N/A
-source_collection: pubmed-text
+source_collection: pubmed-abstract
 tags: [pitx1, oral-keratinocyte, wound-healing, skin-oral-comparison, keratinocyte-identity, scRNA-seq, spatial-transcriptomics, proliferation, migration, neutrophil, oral-epithelial-biology]
 relations:
   - type: reinforces
