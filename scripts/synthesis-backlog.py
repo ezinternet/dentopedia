@@ -37,10 +37,11 @@ def extract_stem(wikilink_target: str) -> str:
          'jung-2023-foo' → 'jung-2023-foo'
     """
     t = wikilink_target.strip()
-    # Strip any extension
-    if "." in os.path.basename(t):
-        t = os.path.splitext(t)[0]
-    return os.path.basename(t)
+    # Strip only .md extension; don't strip other dots (e.g. ADOH.MS.ID.555605)
+    base = os.path.basename(t)
+    if base.endswith(".md"):
+        base = base[:-3]
+    return base
 
 
 def collect_overview_links() -> set[str]:
