@@ -3515,6 +3515,7 @@ tags: []
 - [[oral-microbiology/buskermolen-2018-saliva-derived-biofilms-gingiva-model]] — Buskermolen 2018 · in-vitro: organotypic 치은 모델 — 타액유래 공생/병원성 바이오필름이 서로 다른 숙주 염증반응 유도(항균제 스크리닝 플랫폼)
 
 ### Overviews (added 2026-06-07)
+- [[overviews/bone-tissue-types-classification-overview]] — 피질골·해면골·섬유골·층판골 두 축 분류: 성숙도(woven↔lamellar) × 위치/밀도(cortical↔trabecular), 임플란트 BIC 성숙 및 D1–D4 밀도 분류와 연결 (2026)
 - [[overviews/robotic-vs-navigation-implant-accuracy]] — 로봇 vs 동적내비게이션 vs static guide 정확도 종합: 로봇은 각도 편차만 일관 개선, 동일 tracker 통제 시 선형 편차 동등(Wei RCT)
 - [[overviews/zirconia-implant-clinical-outcomes]] — 지르코니아 임플란트 생존(10yr CSR 95.1%)·MBL·PRO 종합: 잔여 실패는 2-piece·협폭경·드릴가공·단종제품에 집중
 
