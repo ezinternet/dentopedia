@@ -100,6 +100,8 @@ So the misfit→bone-loss story across these three: **associated and dose-depend
 - [[implants/mbl/wach-2026-emergence-angle-marginal-bone-loss]] — Retrospective 5-yr (n=155); crown emergence angle not reliably associated with MBL for single/splinted crowns, reinforcing Raabe 2026's null finding for prosthetic emergence geometry.
 - [[implants/survival/song-2024-long-term-clinical-radiographic-outcomes]] — Retrospective 10-yr Korean-journal (JPIS, Yonsei) cohort (n=872 implants); companion long-term MBL dataset — implant length (≤8 mm), not prosthetic design, was the dominant risk factor here, consistent with this overview's "patient/implant biology over prosthetic micromechanics" thesis.
 - [[overviews/abutment-screw-preload-joint-stability-overview]] — Companion overview on screw preload and joint stability; complements the mechanical (screw-complication) limb of the misfit story established here.
+- [[implants/mbl/rodrigues-2023-clinical-performance-internal-conical]] — SR+MA (12 RCTs, 1006 implants, PROSPERO CRD42021237170): internal conical connection → lower MBL (SMD −0.80 mm, p=0.004) and fewer prosthetic complications (RR 0.16, p=0.01) vs non-conical; no survival difference — confirms connection geometry as an independent early bone-remodeling lever consistent with Kim 2022 (sr+ma, 2023)
+- [[implants/mbl/yu-2020-internal-tapered-vs-nontapered-connection]] — SR+MA (7 studies — 5 RCTs + 2 prospective cohorts): internal tapered vs nontapered; no survival or complication difference; tapered → lower MBL (MD −0.43 mm, P=.003) and probing depth (MD −0.24 mm, P=.002) — second independent SR supporting the "tapered/conical geometry reduces early MBL" signal (sr+ma, 2020)
 
 ## Clinical Quiz
 <!-- quiz_spec -->
