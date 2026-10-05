@@ -143,6 +143,7 @@ The mechanistic read fits this overview's thesis directly: if the rate-limiting 
 
 ## Related Papers
 
+- [[implants/ridge-augmentation/song-2017-local-ridge-augmentation-bone-patch]] — Split-mouth animal study (dogs, n=6): bone patch (composite bone substitute + collagen membrane) vs conventional GBR (fixed/unfixed) at peri-implant dehiscence defects; histologic new bone formation and micro-CT bone volume equivalent between bone patch and conventional GBR; bone patch significantly shorter surgical time — supports simplified GBR materials for dehiscence management (animal, 2017)
 - [[overviews/gbr-barrier-membrane-overview]] — extends (membrane classification and crosslinking chemistry; this page takes membrane choice as settled and asks what else moves the outcome)
 - [[overviews/gbr-barrier-membrane-exposure-axis]] — extends (exposure as failure mode; complementary — exposure is the soft-tissue failure, graft displacement is the hard-tissue one)
 - [[overviews/bone-graft-material-selection-matrix-overview]] — reinforces (graft material classes; converges on the same conclusion that material rarely separates outcomes)
