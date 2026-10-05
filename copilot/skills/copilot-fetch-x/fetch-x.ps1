@@ -41,6 +41,13 @@ function RequireRelay {
   if (-not $KEY -or -not $BASE) { NoLicense }
 }
 
+# Decode a response body as UTF-8 whatever its header says: Windows PowerShell 5.1
+# decodes .Content as ISO-8859-1 when the server names no charset, mojibaking
+# every non-ASCII character. https://github.com/logancyang/obsidian-copilot/issues/3398
+function Read-Utf8Body($resp) {
+  [System.Text.Encoding]::UTF8.GetString($resp.RawContentStream.ToArray())
+}
+
 # Invoke-Relay endpoint body -> prints the response body, mapping HTTP status.
 function Invoke-Relay($endpoint, $body) {
   $json = $body | ConvertTo-Json -Compress -Depth 5
@@ -53,7 +60,7 @@ function Invoke-Relay($endpoint, $body) {
       -Headers @{ Authorization = "Bearer $KEY"; 'X-Client-Version' = $CLIENT_VERSION } `
       -Body $bytes -UseBasicParsing
     $code = [int]$resp.StatusCode
-    $out = $resp.Content
+    $out = Read-Utf8Body $resp
   } catch {
     # A non-2xx makes Invoke-WebRequest throw; recover the response to map status.
     $r = $null
