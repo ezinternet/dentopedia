@@ -6,7 +6,7 @@ date: 2024-11-01
 doi: "10.1172/jci.insight.182844"
 source: overmiller-2024-reprogramming-epidermal-keratinocytes.md
 category: [oral-surgery]
-confidence: animal
+evidence_level: animal
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: pubmed-abstract
@@ -17,6 +17,22 @@ relations:
   - type: applies-to
     target: oral-mucosal-epithelial-turnover-overview
 ---
+
+## Three-line Summary
+
+Transgenic mouse study (n=8+8, ectopic epidermal PITX1 expression via Tet-On induction) combined with scRNA-Seq and Xenium spatial transcriptomics (331,572 cells) demonstrates that PITX1 reshapes not only keratinocytes but fibroblasts and immune cells toward a buccal-mucosa-like tissue state, establishing it as a master transcriptional determinant of oral keratinocyte (KC) identity.
+
+PITX1 is necessary and sufficient for the oral KC phenotype: it directly binds and activates KRT6A, KRT16, S100A8/A9, and ALDH1A3 promoters (CUT&Tag-Seq), increases KC proliferation and migration in vitro, and accelerates full-thickness wound closure at days 2–8 via neutrophil-mediated inflammatory priming — without increased fibrosis at day 35.
+
+As a side-effect, irreversible alopecia occurred due to hair follicle stem cell loss; findings suggest PITX1 modulation could enhance wound healing in non-oral tissues but require targeted delivery to avoid follicular toxicity, and they directly explain at the molecular level why oral mucosa heals faster than skin.
+
+## 세줄요약
+
+형질전환 마우스 (n=8+8, Tet-On 유도 표피 PITX1 이소발현), 단세포 RNA-Seq (scRNA-Seq) + Xenium 공간전사체학 (33만 세포) — 케라티노사이트 (Keratinocyte) 뿐 아니라 섬유아세포·면역세포 전체가 협점막 (Buccal Mucosa) 유사 조직 상태로 전환됨; PITX1이 구강 KC 정체성의 마스터 전사 결정인자임을 확립.
+
+PITX1은 구강 KC 표현형의 필요충분 조건 — KRT6A/KRT16/S100A8-9/ALDH1A3 프로모터 직접 결합·활성화 (CUT&Tag-Seq), in vitro KC 증식·이동 증가, 전층 창상 2–8일차 치유 가속 (중성구 (Neutrophil) 매개 염증성 프라이밍); 35일차 섬유화 증가 없음.
+
+비가역적 탈모 (Alopecia) 부작용 — 모낭 줄기세포 손실; 비구강 부위 창상 치유 가속 가능성 시사하나 정밀 전달 방식 필요; 구강점막이 피부보다 빨리 치유되는 이유를 분자 수준에서 설명.
 
 ## One-line Summary
 
