@@ -16,6 +16,22 @@ source_url: https://pubmed.ncbi.nlm.nih.gov/39782692/
 
 Ingested to provide mechanistic evidence for gingival epithelial basal stem cell biology underlying the site-specific turnover rate data in [[overviews/oral-mucosal-epithelial-turnover-overview]]. IRX1 is expressed in the gingival epithelial basal cell layer (JE + GE) and its haploinsufficiency delays re-epithelialization — directly verifying the claim that JE/gingival epithelium relies on a dedicated stem cell niche for its rapid renewal.
 
+## Three-line Summary
+
+In vivo mouse gingival wound model (ø0.75 mm punch biopsy, Irx1 heterozygous knockout vs WT, n=3–7/group at 1/3/7 dpi) with Krt14CreERT2 lineage tracing, RNA-Seq at 3 dpi, and two human gingival samples reveals IRX1 as a primed basal-layer transcription factor in junctional epithelium (JE) and gingival epithelium (GE) that is absent in skin epidermis.
+
+IRX1 activates SOX9 via direct promoter binding (ChIP/luciferase assay), driving KC proliferation and migration through the EPGN/EGF signaling axis; Irx1 Het wounds were 4× larger at 1 dpi (0.31 vs 0.08 mm²), incompletely closed at 7 dpi, with ectopic KRT6A expression and absent terminal differentiation marker Loricrin at the re-epithelialization front.
+
+Exogenous EPGN fully rescued KC migration in vitro when IRX1 was inhibited, confirming IRX1→SOX9→EPGN as a druggable cascade; results establish that JE/GE rapid renewal depends on a dedicated IRX1+ stem cell niche, with direct implications for why periodontal treatment temporarily disrupts this regenerative compartment.
+
+## 세줄요약
+
+생쥐 치은 창상 모델 (ø0.75mm 펀치, Irx1 헤테로 결손 (Het) vs WT, n=3–7/군, 1/3/7 dpi), Krt14CreERT2 계통추적 + 3 dpi RNA-Seq, 인간 치은 n=2 — IRX1이 접합상피 (JE)·치은상피 (GE) 기저층에 기저발현(primed)되고 표피에는 없는 전사인자임을 규명.
+
+IRX1은 SOX9 프로모터 직접 결합 (ChIP/루시퍼라제) → EPGN/EGF 신호 → KC 증식·이동 구동; Het 창상은 1 dpi에서 4배 크고 (0.31 vs 0.08 mm²) 7 dpi에 불완전 치유 — KRT6A 이소발현 지속·재상피화 전선(RF) 최종분화 마커 Loricrin 소실.
+
+In vitro에서 EPGN 투여로 IRX1 억제 시 이동 완전 구제 → IRX1→SOX9→EPGN 축이 치료 표적; 접합상피 (JE)/치은상피 (GE) 의 빠른 재생이 IRX1+ 줄기세포 틈새 (Niche) 에 의존함을 입증.
+
 ## One-line Summary
 
 In vivo mouse gingival wound-healing study (n=3–7 per group, n=2 human gingiva) showing IRX1 is a primed basal-layer transcription factor in gingival epithelium that drives KC proliferation and migration via SOX9 activation and EPGN/EGF signaling; Irx1 haploinsufficiency delays wound closure by 3–7 days.
