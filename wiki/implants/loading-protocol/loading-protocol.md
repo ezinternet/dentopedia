@@ -42,7 +42,7 @@ tags: [navigation, category-index, loading-protocol]
 | [[esposito-2013-loading-times-dental-implants-cochrane|Interventions for replacing missing teeth: different times for loading dental implants]] |
 | [[gallucci-2018-implant-placement-loading-protocols-partially|Implant placement and loading protocols in partially edentulous patients: A systematic review]] |
 | [[heiderich-2020-methodological-quality-loading-time-implants|Methodological quality and risk of bias of systematic reviews about loading time of multiple dental implants in totally or partially edentulous patients: An umbrella systematic review]] |
-| [[jcm-10-01077|A Randomized Clinical Trial Comparing Immediate Loading and Delayed Loading of Single-Tooth Implants: 5-Year Results]] |
+| [[gjelvold-2021-immediate-delayed-loading-single-tooth-5year-rct|A Randomized Clinical Trial Comparing Immediate Loading and Delayed Loading of Single-Tooth Implants: 5-Year Results]] |
 | [[ko-2021-immediate-loading-protocols-increase-risk|Immediate loading protocols increase the risk of failure of implants placed by fully guided surgery in partially edentulous jaws: A randomized clinical trial]] |
 | [[ravindran-2010-flapless-implant-surgery-soft-tissue|The efficacy of flapless implant surgery on soft-tissue profile comparing immediate loading implants to delayed loading implants]] |
 | [[rismanchian-2025-immediate-nonimmediate-loading-umbrella-review|Long-Term Clinical Outcomes of Immediate Loading versus Nonimmediate Loading in Single-Implant Restorations: An Umbrella Review]] |
