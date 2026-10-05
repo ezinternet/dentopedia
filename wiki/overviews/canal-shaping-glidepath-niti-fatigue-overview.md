@@ -105,5 +105,9 @@ ProTaper Gold는 여러 연구에서 "비교군 하한" 역할을 한다. Khalil
 - [[endodontics/shaping/almohareb-2023-cyclic-fatigue-niti-autoclave]] — ETP/PTG/TN fatigue + autoclave (축 4·5)
 - [[endodontics/shaping/ozyurek-2017-protaper-cyclic-fatigue-sterilization]] — PTU/PTN/PTG 세대 비교 + 멸균 강화 (축 5)
 
+### 신규 추가 (2026-10)
+
+- [[endodontics/glide-path/kim-2017-efficiency-niti-glide-path-preparation]] — In-vitro preliminary (artificial teeth, MB2 canals): ProGlider > PathFile = OneG in dentin removal (weight loss, p<0.05); no significant difference in maximum torque or total stress during WaveOne shaping across glide-path instruments — glide-path instrument geometry affects dentin removal efficiency but does not translate to measurable torsional load reduction in this model; small n and canal-size variability limit conclusions (in-vitro, 2017)
+
 ## Related overviews
 - [[endodontics/irrigation/shalavi-2021-qmix-root-canal-irrigation-overview]] — 근관 세정 단계(shaping 후속 단계)
