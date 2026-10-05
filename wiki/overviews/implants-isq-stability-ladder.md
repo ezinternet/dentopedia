@@ -292,6 +292,13 @@ ISQ와 삽입토크(IT)는 보완 지표(상관 r=0.44, I²>90%, Tisci 2026 SR+M
 **삽입토크 곡선(PITV) 신뢰도 검증 (insertion torque value classification)**
 - [[implants/isq/rosasdiaz-2026-pitv-classification-repeatability-observational]] — 관찰 연구 (n=1,250 torque 해석, 25명 캘리브레이션 치의사, 스페인): PITV 3등급(High ≥50/Moderate 30–<50/Low <30 Ncm + 곡선 서브타입) — 검사자간 κ=0.84(p<0.001), 예측 AUC=0.69(중등도); **임상 결과 연계 미검증** — loading 결정 도구 아님. 축 1 테이블 추가.
 
+## Related Papers (added 2026-10)
+
+**IT–ISQ 관계 및 마이크로모션 (insertion torque, primary stability, micromotion)**
+- [[implants/isq/bayarchimeg-2013-evaluation-correlation-insertion-torque-primary]] — In-vitro (polyurethane foam #10–#50, n=20/group): IT–ISQ correlation strong in homogeneous bone (r=0.82, P<0.001) but weakens when cortical thickness, cancellous density, or drill diameter vary independently — directly supports 축 3 "primary stability is multifactorial; IT alone cannot predict ISQ" (in-vitro, 2013)
+- [[implants/isq/ADOH.MS.ID.555605]] — In-vitro (n=140 implants, bovine rib type-II bone): thread initiator reduces mean IT (24.4 vs 35.3 Ncm) without significantly affecting ISQ (69.1 vs 72.2); IT–ISQ correlation moderate with thread initiator (r=0.587, P<0.05) vs weak without (r=0.193, NS) — IT and ISQ reflect different aspects of primary stability; thread initiator lowers IT without compromising stability (in-vitro, unknown)
+- [[implants/isq/trisi-2009-implant-micromotion-related-peak]] — In-vitro biomechanical (120 implants, 3 bone densities, 5 torque levels, 1800 measurements): Spearman ρ=−0.54 (P<0.001) — higher IT reduces micromotion; effect plateaus at 45 Ncm in hard/normal bone; soft bone max achievable torque 35 Ncm with micromotion >90 µm even at ceiling — supports immediate loading contraindication in soft bone (in-vitro, 2009)
+
 ## Related interactives
 
 - [[interactives/2026-06-02_isq-rfa-loading-simulator-v1]] — ISQ·RFA 통합 시뮬레이터 (측정 → 궤적 → 부하결정)
