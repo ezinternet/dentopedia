@@ -43,7 +43,7 @@ relations:
 > - **임상 takeaway 2 — 투명교정·구내 장치**: 협점막 자극 후 새 세포 교체까지 약 1주 → 초기 불편감의 자연 감소 타임라인.
 > - **임상 takeaway 3 — 세포진 검사 (Cytology)**: 탈락 세포 채취는 협점막이 최적 — 빠른 턴오버로 표면 세포 풍부.
 > - **임상 takeaway 4 — 치주 수술 후**: JE 재형성은 술 후 수일 내 시작; 전층 재형성까지 약 2–4주.
-> - **⚠️ 중요**: 이 페이지의 수치는 **모두 [미검증]** — 조직학 교과서(Nanci) 및 Squier & Kremer 2001 인제스트 후 검증 필요.
+> - **⚠️ 수치 [미검증]**: 부위별 턴오버 시간(JE 1–6일, 협점막 5–6일 등)은 조직학 교과서(Nanci) 인제스트 전까지 미검증. **분자기전·투과성 계층구조는 [확인]**: PITX1/IRX1 발현(Overmiller 2024, Su 2025), 투과성 계층구조(Squier 1991), JE 비각화 필수성(Squier 1981).
 
 ## Three-line Summary
 
@@ -105,7 +105,7 @@ In **keratinized / parakeratinized** epithelium (attached gingiva, hard palate),
 
 ---
 
-## 3. Junctional Epithelium — A Special Case [미검증]
+## 3. Junctional Epithelium — A Special Case
 
 The junctional epithelium (JE) is the fastest-renewing oral epithelium (1–6 days) and is structurally unique:
 
@@ -123,12 +123,13 @@ The junctional epithelium (JE) is the fastest-renewing oral epithelium (1–6 da
 1. Constant microbial challenge from the subgingival biofilm — rapid cell replacement is a defense mechanism.
 2. Loose cell junctions allow GCF (Gingival Crevicular Fluid, 치은열구액) to flow through, mechanically detaching cells faster.
 3. The reduced adhesion forces relative to oral epithelium mean cells transit the layer quickly despite strong basal-lamina attachment (β4-integrin).
+4. **IRX1** (Iroquois Homeobox 1) is expressed in the JE and GE basal cell layer and mesenchymal stroma, driving KC proliferation and migration via the SOX9→EPGN/EGF cascade; Irx1 haploinsufficiency delays murine gingival re-epithelialization 3–7 days [확인] (Su 2025).
 
-After periodontal surgery, JE begins re-formation within **days** and is histologically recognizable within ~1 week; full structural maturation takes 4–6 weeks.
+After periodontal surgery, JE begins re-formation within **days** (murine WT models show near-complete closure within 24 h; wound area 0.08 mm² vs 0.31 mm² in Irx1-Het mice at 1 dpi [확인]; Su 2025) and is histologically recognizable within ~1 week; full structural maturation takes 4–6 weeks.
 
 ---
 
-## 4. Keratinized vs Non-Keratinized — Comparative Biology [미검증]
+## 4. Keratinized vs Non-Keratinized — Comparative Biology
 
 | Feature | Keratinized (치은, 경구개) | Non-Keratinized (협점막, 구강저) |
 |---|---|---|
@@ -139,7 +140,7 @@ After periodontal surgery, JE begins re-formation within **days** and is histolo
 | Cytology yield | Lower surface cell shedding | Higher (best: buccal) |
 | Response to trauma | Slower initial re-epithelialization | Faster |
 
-This divergence explains why the buccal mucosa is the **preferred site for transmucosal drug delivery** (faster absorption due to high permeability and no keratin barrier) and for **oral cytology brushings** (abundant, freshly shed nucleated cells).
+This divergence explains why the buccal mucosa is the **preferred site for transmucosal drug delivery** (faster absorption due to high permeability and no keratin barrier [확인]; Squier 1991) and for **oral cytology brushings** (abundant, freshly shed nucleated cells).
 
 ---
 
@@ -148,7 +149,7 @@ This divergence explains why the buccal mucosa is the **preferred site for trans
 ### 5.1 Wound Healing & Ulceration [미검증]
 
 - **Simple aphthous ulcers / traumatic ulcers** on buccal mucosa: re-epithelialization theoretically completes within 7–14 days, consistent with the observed clinical course of minor aphthae (typically heal in 7–10 days without scarring).
-- **Post-surgical healing** (e.g., frenectomy, biopsy site): buccal and floor-of-mouth wounds close faster than palatal donor sites — aligns with the faster non-keratinized turnover.
+- **Post-surgical healing** (e.g., frenectomy, biopsy site): buccal and floor-of-mouth wounds close faster than palatal donor sites — aligns with the faster non-keratinized turnover; oral mucosa heals faster than skin in matched wound models [확인] (Overmiller 2024).
 - **Palatal donor sites** after connective tissue graft: slower re-epithelialization (~3–4 weeks for full surface coverage) matches the ~24-day palatal turnover.
 
 ### 5.2 Periodontal Surgery [미검증]
@@ -173,7 +174,7 @@ This divergence explains why the buccal mucosa is the **preferred site for trans
 ### 5.5 Transmucosal Drug Delivery [미검증]
 
 Turnover rate indirectly affects drug delivery:
-- Fast-turning non-keratinized sites (buccal, sublingual) have high permeability → preferred for sublingual/buccal tablets, films
+- Fast-turning non-keratinized sites (buccal, sublingual) have high permeability → preferred for sublingual/buccal tablets, films [확인] (Squier 1991)
 - The palate — thick keratin, slow turnover — is a poor delivery site
 - **Sublingual** (구강저) area is fastest-clearing but also fastest-absorbing
 
