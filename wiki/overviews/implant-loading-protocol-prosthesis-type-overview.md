@@ -114,6 +114,9 @@ Clinical bottom line: prosthesis configuration and primary stability — not loa
 - [[implants/loading-protocol/aiquel-2021-timing-placement-loading-multiple-unit-sr-ma]] — 다수 임플란트 지지 고정성 국소의치 로딩 타이밍 SR+MA (ITI S5 동반 논문)
 - [[implants/loading-protocol/esposito-2013-loading-times-dental-implants-cochrane]] — Cochrane SR+MA (26 RCT, 2013): 즉시/조기 vs 통상 부하 cross-prosthesis 종합; 삽입토크 ≥35 Ncm 전제 하 차이 없음, GRADE 매우 낮음
 - [[implants/loading-protocol/ravindran-2010-flapless-implant-surgery-soft-tissue]] — 전치부 무판막 IL vs DL prospective (n=20, 180일): papilla day-60 IL 우위 후 DL 추격 — Gjelvold의 "papilla 차이는 시간에 따라 수렴" 패턴의 초기·소규모 선행 근거
+- [[implants/loading-protocol/jcm-10-01077]] — Prospective RCT (50 patients, 25 IL vs 25 DL): single-tooth implants maxillary esthetic zone, 5-year follow-up; survival 100% IL vs 95.8% DL; MBL −0.50 mm vs −0.54 mm (NS, p=0.782); no differences in papilla index, PES, or WES; smoking significantly increased MBL (p=0.021) — corroborates Benic SR for single-crown esthetic zone (rct, 2021)
+- [[implants/loading-protocol/devi-2026-immediate-vs-delayed-implant-loading]] — Narrative review (post-2015 RCTs + SR+MAs): across single-tooth, posterior partial, mandibular overdenture, full-arch maxilla; IL comparable to DL when primary stability high + occlusal control appropriate; short implants posterior maxilla show higher MBL with IL; DL preferred when primary stability uncertain, parafunction, poor bone quality, or elevated systemic risk (narrative-review, 2026)
+- [[implants/loading-protocol/chidagam-2017-immediate-versus-delayed-loading-implant]] — RCT (n=20, 6-year follow-up): single-tooth mandibular first molar; 100% survival both groups; MBL 0.1–0.15 mm at 6 months; probing depth significantly decreased in IL group (1.8→1.2 mm, p=0.027); IL equivalent to DL for posterior mandibular single crown — extends the Benic + JCM equivalence finding to the posterior mandible (rct, 2017)
 
 ## Related Overviews
 
