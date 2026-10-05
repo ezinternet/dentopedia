@@ -71,3 +71,9 @@ quartz/.quartz-cache/
 
 # Copilot conversation logs — AI 대화 로그, 결정 맥락은 Why Ingested에 보존
 copilot/copilot-conversations/
+
+# OpenCode — auto-generated tool configuration (local only)
+.opencode/
+
+# Ingest queue backup
+.ingest-queue.bak
