@@ -9,7 +9,7 @@ category: [oral-surgery]
 confidence: animal
 pdf_path: N/A
 pdf_filename: N/A
-source_collection: pubmed-text
+source_collection: pubmed-abstract
 tags: [irx1, gingival-epithelium, junctional-epithelium, basal-stem-cell, wound-healing, reepithelialization, sox9, epgn, egf-signaling, keratinocyte-differentiation, oral-epithelial-biology]
 relations:
   - type: reinforces
