@@ -196,18 +196,22 @@ The GI epithelium turns over even faster (intestinal villi: 3–5 days; esophagu
 
 ---
 
-## 7. Evidence Gaps & Ingest Candidates
+## 7. Evidence Map
 
-### Ingested (2026-10-05)
+### Molecular Identity — Oral KC vs Skin
 
-| Paper | DOI | What it supports |
-|---|---|---|
-| Overmiller 2024 (JCI Insight) | [10.1172/jci.insight.182844](https://doi.org/10.1172/jci.insight.182844) | PITX1 as molecular driver of oral KC faster proliferation/migration vs skin |
-| Su 2025 (JCI Insight) | [10.1172/jci.insight.179815](https://doi.org/10.1172/jci.insight.179815) | IRX1 in JE/GE basal stem cell niche; SOX9/EPGN/EGF cascade for gingival re-epithelialization |
-| Squier 1991 (Crit Rev Oral Biol Med) | [10.1177/10454411910020010301](https://doi.org/10.1177/10454411910020010301) | Keratinized vs non-keratinized permeability gradient; lipid intercellular barrier |
-| Squier 1981 (J Periodontol) | [10.1902/jop.1981.52.8.426](https://doi.org/10.1902/jop.1981.52.8.426) | JE non-keratinized state is biologically necessary; keratinization ≠ better barrier |
+- [[oral-surgery/overmiller-2024-reprogramming-epidermal-keratinocytes]] — transgenic mouse scRNA-Seq + Xenium (n=8+8); PITX1 is necessary and sufficient for oral KC identity (KRT6A, KRT16, S100A8/A9, ALDH1A3); PITX1 skin heals full-thickness wounds faster at days 2–8 via ↑KC migration + neutrophil priming; confirms oral-type proliferative advantage is PITX1-driven (confidence: animal)
 
-### Still Needed to Upgrade Turnover Rate Numbers
+### Gingival Stem Cell Niche — JE/GE Rapid Renewal
+
+- [[oral-surgery/su-2025-irx1-mechanisms-oral-epithelial]] — mouse gingival wound model (n=3–7/group, n=2 human GE); IRX1 is primed in JE/GE basal layer; IRX1→SOX9→EPGN/EGF cascade drives KC proliferation and migration; Irx1 Het: wound area 0.31 mm² vs WT 0.08 mm² at 1 dpi (3× delay); EPGN rescue restores migration — mechanistic basis for JE's exceptional renewal speed (confidence: animal)
+
+### Permeability Architecture — Keratinized vs Non-Keratinized
+
+- [[oral-surgery/squier-1991-permeability-oral-mucosa]] — narrative review; lipid-rich intercellular barrier of keratinized sites (gingiva, hard palate) restricts drug permeation; non-keratinized sites (buccal, floor of mouth) lack this barrier → higher permeability, higher turnover; underpins §4 comparative biology and §5.5 drug delivery (confidence: narrative-review; abstract-only)
+- [[periodontics/squier-1981-keratinization-sulcular-epithelium]] — narrative review; JE non-keratinized state is biologically obligate, not a deficiency — keratinization would block GCF flow and impair microbial defense; directly supports §3 JE special-case rationale (confidence: narrative-review; abstract-only)
+
+### Still Needed — Turnover Rate Numbers
 
 > The **site-specific turnover times** (JE 1–6d, buccal 5–6d, gingiva 10–12d, palate ~24d) remain **[미검증]** — these figures come from classic histology textbooks and cell-kinetics studies not yet ingested:
 
