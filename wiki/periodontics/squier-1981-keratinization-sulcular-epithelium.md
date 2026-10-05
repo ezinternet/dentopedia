@@ -9,7 +9,7 @@ category: [periodontics]
 confidence: narrative-review
 pdf_path: N/A
 pdf_filename: N/A
-source_collection: pubmed-text
+source_collection: pubmed-abstract
 tags: [junctional-epithelium, sulcular-epithelium, keratinization, epithelial-attachment, gingival-sulcus, periodontal-disease, permeability, barrier-function, oral-histology]
 relations:
   - type: reinforces
