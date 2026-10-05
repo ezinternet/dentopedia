@@ -188,6 +188,10 @@ PRF: 초기 2–3개월 통증 −66%·연조직 +75%·골충전 +85%, 6개월 �
 
 - [[oral-surgery/chiarella-2007-iatrogenic-bppv-dental-maxillofacial-surgery]] — ENT-perspective narrative review + case series (abstract-only): iatrogenic benign paroxysmal positional vertigo (BPPV) after dental/maxillofacial surgery, attributed to post-traumatic otoconia displacement; no incidence data, temporal association only. Generalizes the BPPV-as-surgical-complication mechanism beyond sinus-lift-specific reporting (cf. [[sinus-lift/transcrestal/stacchi-2022-transcrestal-sinus-complications-low-rbh]], 0.5% in a 430-implant TSFE cohort) — single paper, not yet a full axis; candidate for a future "vestibular/BPPV complication" axis if more papers accumulate. (case-report, 2007)
 
+### 신규 추가 (2026-10) — 악골 골절 접근법
+
+- [[oral-surgery/trauma/hallym-2017-retromandibular-subcondylar-fracture-parotid-fistula]] — Case report: retromandibular approach for subcondylar ORIF + parotid fistula management; retromandibular approach gives good exposure with minimal facial nerve risk; parotid fistula complication managed conservatively first (압박 드레싱·항생제·항콜린제), then surgically if persistent — adds a surgical approach axis and rare complication profile to the oral surgery decision ladder (case-report, 2017)
+
 ### 신규 추가 (2026-09) — 최소침습 발치 기구
 
 - [[oral-surgery/chenchev-2024-benex-minimally-invasive-extraction]] — Crossover RCT (n=56, Medical University Plovdiv): Benex 수직 발치 시스템 vs 통상 겸자. Benex 협측 피질판 보존 95% vs 71.8%(p<0.05); 10일째 상처 치유 유의 개선(100% vs 78.6% Very Good/Excellent). ARP 전 소켓 보존에 유리; 실근관치료 치아·다근치는 실패 위험↑. (rct, 2024)
