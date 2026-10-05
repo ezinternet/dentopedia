@@ -17,6 +17,22 @@ abstract-only — full text not retrieved (PubMed abstract; Crit Rev Oral Biol M
 
 Classic review paper directly cited as evidence for the keratinized vs non-keratinized barrier differences in [[overviews/oral-mucosal-epithelial-turnover-overview]]. Squier 1991 is the canonical reference for the **lipid intercellular permeability barrier** mechanism that accounts for why non-keratinized sites (buccal, floor of mouth) have higher permeability and faster turnover, while keratinized sites (gingiva, hard palate) are least permeable.
 
+## Three-line Summary
+
+Narrative review (Critical Reviews in Oral Biology and Medicine, 1991; Dows Institute, University of Iowa) synthesizing animal and in vitro permeability studies available through 1991 on site-specific variation in oral mucosal permeability — no original experimental data; comprehensive review covering barrier mechanisms, drug delivery implications, and disease susceptibility patterns.
+
+Oral mucosal permeability is markedly region-dependent: keratinized sites (gingiva, hard palate) are least permeable due to lipid-type intercellular barrier in superficial epithelial layers; non-keratinized lining mucosa (buccal, floor of mouth, soft palate) is most permeable, correlating with faster turnover rates and greater susceptibility to mucosal diseases at those sites.
+
+High-permeability non-keratinized sites are most suitable for transmucosal drug delivery; the molecular cascade (PITX1, IRX1) driving these permeability differences was not yet discovered in 1991, but the intercellular lipid barrier architecture established here remains the foundational framework for modern oral mucosal biology and pharmacology.
+
+## 세줄요약
+
+내러티브 리뷰 (Critical Reviews Oral Biol Med, 1991; 아이오와대 Dows 치과연구소) — 1991년까지 이용 가능한 동물·in vitro 투과성 연구 종합; 자체 실험 데이터 없음; 장벽 기전·약물 전달·질환 감수성 전반을 포괄.
+
+구강점막 투과성 (Oral Mucosal Permeability) 은 부위별로 현저히 다름: 각화 부위 (치은·경구개) 는 표층 세포간 지질 (Intercellular Lipid) 장벽으로 최소 투과; 비각화 피복점막 (협점막·구강저·연구개) 은 최대 투과 — 빠른 교대율·점막 질환 감수성 증가와 상관.
+
+임상적으로 고투과 비각화 부위가 경점막 약물 전달 (Transmucosal Drug Delivery) 에 최적; PITX1·IRX1 분자기전은 당시 미발견이나 세포간 지질 장벽 구조는 현대 구강점막 생물학·약리학의 기초 프레임워크로 남음.
+
 ## One-line Summary
 
 Narrative review explaining that oral mucosa shows site-specific regional variation in permeability, with keratinized gingiva and hard palate being least permeable due to a lipid-type intercellular barrier, and non-keratinized lining mucosa being most permeable.
