@@ -15,20 +15,20 @@ tags: [navigation, category-index, full-arch]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·전악수복
 > - **범위**: Full-arch / edentulous-jaw implant rehabilitation — All-on-4/-6, tilted vs axial distal implants, immediate full-arch loading & flapless full-arch, implant overdentures (single/two-implant, CAD-CAM bar), framework & load-direction FEA, severely atrophic-jaw solutions (zygomatic, customized subperios…
-> - **수록 논문**: 27편
+> - **수록 논문**: 28편
 
 ## Three-line Summary
 
 **Scope**: Full-arch / edentulous-jaw implant rehabilitation — All-on-4/-6, tilted vs axial distal implants, immediate full-arch loading & flapless full-arch, implant overdentures (single/two-implant, CAD-CAM bar), framework & load-direction FEA, severely atrophic-jaw solutions (zygomatic, customized subperiosteal).
-**Indexed papers**: 27 papers in `wiki/implants/full-arch/`.
+**Indexed papers**: 28 papers in `wiki/implants/full-arch/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·전악수복
-**수록 논문**: 27편
+**수록 논문**: 28편
 **하위 카테고리**: 없음
 
-## Papers in this Category (27)
+## Papers in this Category (28)
 
 | Paper |
 |---|
@@ -43,6 +43,7 @@ tags: [navigation, category-index, full-arch]
 | [[de-araujo-nobre-2026-maxillary-all-on-four-15-20yr|Immediate Full-Arch Maxillary Rehabilitation Supported by Four Implants: A Retrospective Study with 15 to 20 Years of Follow-Up]] |
 | [[del-fabbro-2022-full-arch-tilted-axial-implants-sr-ma|Outcomes of Fixed Full-Arch Rehabilitations Supported by Tilted and Axially Placed Implants: A Systematic Review and Meta-Analysis]] |
 | [[eskan-2020-tapered-implants-full-arch-immediate-function|Tapered BLT Implants for Full-Arch Immediate Function: 55-Month Retrospective]] |
+| [[figueiredo-2025-all-on-four-overview-sr|Rehabilitation of edentulous jaws using the 'All-on-Four' treatment concept: an overview of systematic reviews]] |
 | [[fiorellini-2026-global-consensus-edentulous-maxilla-group3|Consensus Report of Group 3 of the 1st Global Consensus for Clinical Guidelines for the Rehabilitation of the Edentulous Maxilla: Advanced Diagnostic Imaging, Augmentation Techniques, and Management of Complications]] |
 | [[kern-2018-single-implants-edentulous-mandible-immediate|Single Mandibular Midline Implants — Immediate vs Delayed Loading: A Randomized Controlled Trial]] |
 | [[koyama-2025-single-vs-two-implant-mandibular-overdenture-sr-ma|Single versus two implant-supported mandibular overdentures: a systematic review and meta-analysis of implant survival and prosthetic complications]] |
