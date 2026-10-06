@@ -1,0 +1,52 @@
+J Esthet Restor Dent J Esthet Restor Dent 379 blackwellopen 101096515 JERD Journal of Esthetic and Restorative Dentistry 1496-4155 1708-8240 pmc-is-collection-domain yes pmc-collection-title Wiley Open Access Collection PMC13377280 PMC13377280.1 13377280 13377280 42010974 10.1111/jerd.70166 JERD70166 1268243 1 Research Article Research Article Clinical and Prosthetic Outcomes of Titanium Zirconium Versus  PEEK  Composite Maxillary Fixed Prostheses Opposing Distal Extension Partial Dentures: Comparative Clinical Study Aboelez Marwa Ahmed https://orcid.org/0000-0002-5617-5390 
+ 1 
+ 
+ 2 
+ m_abouelezz@asu.edu.jo Gad Reem Salah Abdelrasoul 
+ 2 
+ Sapri Ahmed Mohammed Saaduddin 
+ 3 
+ 
+ 4 
+ Elsyad Moustafa Abdou https://orcid.org/0000-0001-9514-6931 
+ 2 
+ 
+ 
+ 
+ 1 
+ Department of Preventive and Resorative Dentistry, Faculty of Dentistry 
+ Applied Science Private University 
+ Amman 
+ Jordan 
+ 
+ 
+ 
+ 2 
+ Department of Prosthodontics, Faculty of Dentistry 
+ Mansoura University 
+ Al‐Dakahliya 
+ Egypt 
+ 
+ 
+ 
+ 3 
+ Department of Oral and Maxillofacial Surgery, Faculty of Dentistry 
+ Mansoura University 
+ Mansoura 
+ Egypt 
+ 
+ 
+ 
+ 4 
+ Division of Oral and Maxillofacial Surgery, Clinical Dental Science Department, Dentistry Program 
+ Batterjee Medical College 
+ Jeddah 
+ Saudi Arabia 
+ 
+ * 
+ Correspondence: 
+ 
+Marwa Ahmed Aboelez ( m_abouelezz@asu.edu.jo ) 
+ 20 4 2026 8 2026 38 8 517845 10.1111/jerd.v38.8 1534 1544 23 3 2026 04 2 2026 07 4 2026 17 07 2026 18 07 2026 19 08 2026 © 2026 Wiley Periodicals LLC. ABSTRACT Objectives Titanium and zirconia are commonly used materials for implant frameworks. The selection of prosthetic material influences the load‐bearing capacity of fixed dental prostheses and plays a critical role in the longevity of implant‐supported fixed dental prostheses (ISFDPs) by affecting stress transmission during the chewing cycle. Purpose To evaluate clinical results, prosthetic results, and patient satisfaction associated with fixed prostheses fabricated from polyetheretherketone and titanium–zirconia, supported by six maxillary implants and opposed by mandibular distal extension removable partial dentures. Materials and Methods Thirty patients with an edentulous maxilla and mandibular distal‐extension ridges received six implants in the maxillary regions of 12, 14, 16, 22, 24, and 26, with lengths of 10–14 mm and diameters of 3.6–4.5 mm. Patients were randomly classified into two equal groups: (G1) PEEK composite frameworks, and (G2) titanium–zirconia frameworks. Plaque score, gingival score, pocket depth, implant mobility, and vertical bone loss (VBL) were assessed at the time of fixed complete‐arch implant prosthesis placement (T0), and at six (T6) and twelve (T12) months after delivery. Patient satisfaction (VAS) and prosthetic complications were evaluated after 1 year. Results G2 showed significantly higher plaque scores, pocket depth, and VBL than G1 at 6 and 12 months. G2 revealed a significantly higher patient satisfaction with maxillary prostheses compared to natural teeth and appearance than G1. Compared to G2, G1 showed noticeably greater patient satisfaction with relation to cleaning and ease of chewing than G2. G2 revealed a significantly higher incidence of prosthetic complications regarding veneer fracture or separation and prosthetic screw loosening than G1. Conclusions PEEK composite and titanium zirconia fixed implant restorations for an edentulous maxilla opposed by distal extension mandibular ridges can be effectively used to rehabilitate patients using the maxillary All‐on‐Six concept. 
+ Trial registration: 
+ ClinicalTrials.gov  identifier:  NCT06111391 clinical outcomes implant supported fixed restoration patient satisfaction PEEK composite (PC) prosthetic complications titanium–zirconia pmc-status-qastatus 0 pmc-status-live yes pmc-status-embargo no pmc-status-released yes pmc-prop-open-access no pmc-prop-olf no pmc-prop-manuscript no pmc-prop-legally-suppressed no pmc-prop-has-pdf yes pmc-prop-has-supplement no pmc-prop-pdf-only no pmc-prop-suppress-copyright no pmc-prop-is-real-version no pmc-prop-is-scanned-article no pmc-prop-preprint no pmc-prop-in-epmc yes source-schema-version-number 2.0 cover-date August 2026 details-of-publishers-convertor Converter:WILEY_ML3GV2_TO_JATSPMC version:6.8.4 mode:remove_FC converted:17.07.2026
