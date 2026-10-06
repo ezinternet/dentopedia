@@ -1,0 +1,18 @@
+Source: PubMed Abstract PMID 41616108
+PMID: 41616108
+PMCID: ~
+DOI: 10.11607/ijp.9088
+Title: Effect of Zirconia Height on the Fracture Resistance of Cantilever Full-Arch Implant-Supported Prostheses: An In-Vitro Study
+Authors: Cuello de Garcia O, Payer M, Heschl A, Maier C, Kqiku L
+Journal: Int J Prosthodont. 2026;39(1):51-59
+Retrieved: 2026-10-06 via PubMed abstract
+
+== ABSTRACT ==
+
+PURPOSE: To evaluate the effect of zirconia height (2, 4, and 6 mm) on the fracture resistance of cantilever full-arch implant-supported prostheses mounted on a titanium framework.
+
+MATERIALS AND METHODS: Forty-five specimens representing full-arch implant-supported prostheses with a distal cantilever were fabricated. Three groups were formed based on the height of the zirconia veneering material over the titanium framework: 2 mm (n=15), 4 mm (n=15), and 6 mm (n=15). All specimens were subjected to cyclic loading (1.2 million cycles at 200 N) followed by static loading until fracture. The failure mode and fracture resistance values were recorded.
+
+RESULTS: The mean fracture resistance values were 849±142 N (2 mm group), 862±158 N (4 mm group), and 871±133 N (6 mm group). No statistically significant differences were found among the three groups (P>.05). The most common failure mode in all groups was prosthetic screw fracture (86.7% of all failures), followed by zirconia fracture (13.3%). No titanium framework fractures were observed.
+
+CONCLUSIONS: Zirconia height (2 to 6 mm) had no significant effect on the fracture resistance of cantilever full-arch implant-supported prostheses on a titanium framework. Prosthetic screw fracture was the predominant failure mode, suggesting that future research should focus on screw design and fixation protocols rather than veneering material height.
