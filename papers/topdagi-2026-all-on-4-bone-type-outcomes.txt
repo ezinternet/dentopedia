@@ -1,0 +1,13 @@
+PMID: 42472808
+DOI: 10.1186/s12903-026-09299-y
+Title: Medium-term clinical outcomes of the all-on-4 system in different bone types: a retrospective analysis
+Authors: Topdagi B, Kurum M, Guler CC, Oktay F, Yuce O
+Journal: BMC Oral Health. 2026
+Published: 2026-07-20
+Source: PubMed abstract only — no PMC full text available (PMCID not found)
+
+ABSTRACT:
+
+This study aimed to determine the independent influence of bone quality and prosthetic material on medium-term implant survival, peri-implant complications, prosthetic complications, and patient-reported outcomes following All-on-4 rehabilitation. This retrospective, observational, multicenter cohort study included 250 edentulous patients (125 maxillary and 125 mandibular cases) who received All-on-4 implant-supported full-arch prostheses between September 2018 and September 2021. Patients were categorized by bone type (Types 1-4) according to the Lekholm and Zarb classification. Clinical parameters, insertion torque, implant stability quotient (ISQ), peri-implant and prosthetic complications, and patient satisfaction (VAS score) were recorded and analyzed. Prosthetic materials used were either metal-acrylic or monolithic zirconia prostheses. A total of 1,000 implants were evaluated over a mean follow-up period of 3.6 ± 0.4 years. The overall implant survival rate was 94.8%, with significantly lower survival in Type 4 bone (89.1%) compared to Type 1 (98.3%) (p < 0.05). Peri-implant complications, particularly peri-implantitis and screw loosening, were significantly more frequent in lower-density bone types. Prosthetic complications were analyzed at the prosthesis level and were more frequent in the metal-acrylic group (26.9%) than in the zirconia group (8.9%) (p < 0.001). Despite these differences, patient satisfaction scores were high across all bone types (Mean VAS: 8.7 ± 1.2). The All-on-4 concept demonstrated predictable medium-term clinical outcomes, with high implant survival and favorable patient satisfaction in completely edentulous patients. However, poorer bone quality, particularly Type 4 bone, was independently associated with lower implant survival, reduced primary stability, and a higher frequency of peri-implant complications. In addition, monolithic zirconia prostheses were associated with fewer mechanical complications than metal-acrylic prostheses. These findings highlight the importance of individualized treatment planning that integrates bone quality assessment and prosthetic material selection to optimize medium-term clinical outcomes.
+
+Keywords: All-on-4; Bone quality; Implant survival; Metal-acrylic prosthesis; Monolithic zirconia prosthesis; Patient satisfaction; Prosthetic complications
