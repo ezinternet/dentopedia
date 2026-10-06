@@ -2,7 +2,8 @@
 ---
 title: "드릴 발열 프로토콜 선택기 (Drill Thermal Protocol Selector)"
 type: interactive
-date: 2026-09-20
+date: 2026-10-06
+updated: 2026-10-06  # add ibrahim-2025 animal in vivo (개 상악, ISQ NS) — IT↑/ISQ NS 해리 in vivo 재확인 as OD ref
 status: draft
 verified: 2026-07-21
 category: implant-placement
@@ -22,6 +23,7 @@ source_wiki:
   - wiki/implants/osseodensification/de-agostinho-neto-2026-in-vitro-evaluation-different-implant-systems.md
   - wiki/bone-regeneration/lopez-valverde-2025-bone-expansion-compaction-densification-narrow-crests-sr-ma.md
   - wiki/implants/coyac-2019-preclinical-model-links-osseo-densification-misfit.md
+  - wiki/implants/osseodensification/ibrahim-2025-osseodensification-conventional-drilling-dogs-maxilla.md
 tags: [implants, drilling, thermal, osseointegration, osseodensification, chairside-calculator, hygienist-tool]
 notes: |
   단일 HTML. drill thermal stress 위험 평가 + OD 전환 권고.
@@ -225,7 +227,7 @@ function calculate(e){
   else if (useRatio >= 0.4) score += 5;
 
   // Method
-  if (method === 'od') { score -= 10; refs.push('Marzorati 2026 SR+MA (CCW-only 인체, 555명/685개): IT 45.75 vs 38.00 N·cm(P<0.001); ISQ MD 3.24(P=0.024) 인체 최초 유의 — 단 CCW Densah 전용 조건, CI 하한 0.72(작음)'); refs.push('Soldatos 2024: OD bur 23회+ 재사용 + 800/1200 RPM 시 ΔT가 47°C 초과; 1000 RPM 최저 발열'); refs.push('de Lima 2026 ex vivo (Type IV, 1000rpm+관수): OD 최고온도 28–31°C로 conventional과 NS (p=0.087)·47°C 임계 한참 미만 — OD thermal 비열등 재확인'); refs.push('⚠️ 과잉 OD 천장: Coyac 2019(쥐 전임상, 초록 전용) — 고미스핏 배정 시 골밀도화→미세골절→골세포 사멸→조기 실패("excessive osseo-densification → osseo-destruction"). 크기 미상이나 Rizk 2024 임상 실패 3건이 독립 확인. IT·발열이 올라갈수록 ceiling 의심'); refs.push('de Agostinho Neto 2026 in vitro (소 늑골 극저밀도, n=5–8): 3개 시스템(SIN/VERSAH/MAXIMUS) 모든 지표 NS — "유용성 한계점(threshold of utility)" 가능성, 검정력 부족 유력'); if (use >= 23) { score += 10; flags.push('<span class="flag">OD bur 23회+ 재사용 — Soldatos 2024 47°C 초과 위험</span>'); } }
+  if (method === 'od') { score -= 10; refs.push('Marzorati 2026 SR+MA (CCW-only 인체, 555명/685개): IT 45.75 vs 38.00 N·cm(P<0.001); ISQ MD 3.24(P=0.024) 인체 최초 유의 — 단 CCW Densah 전용 조건, CI 하한 0.72(작음)'); refs.push('Soldatos 2024: OD bur 23회+ 재사용 + 800/1200 RPM 시 ΔT가 47°C 초과; 1000 RPM 최저 발열'); refs.push('de Lima 2026 ex vivo (Type IV, 1000rpm+관수): OD 최고온도 28–31°C로 conventional과 NS (p=0.087)·47°C 임계 한참 미만 — OD thermal 비열등 재확인'); refs.push('⚠️ 과잉 OD 천장: Coyac 2019(쥐 전임상, 초록 전용) — 고미스핏 배정 시 골밀도화→미세골절→골세포 사멸→조기 실패("excessive osseo-densification → osseo-destruction"). 크기 미상이나 Rizk 2024 임상 실패 3건이 독립 확인. IT·발열이 올라갈수록 ceiling 의심'); refs.push('de Agostinho Neto 2026 in vitro (소 늑골 극저밀도, n=5–8): 3개 시스템(SIN/VERSAH/MAXIMUS) 모든 지표 NS — "유용성 한계점(threshold of utility)" 가능성, 검정력 부족 유력'); refs.push('Ibrahim 2025 동물 RCT(개 상악 in vivo, n=18): ISQ OD>CD trend NS (3mo 76.17 vs 70.83 · 6mo 82.00 vs 79.83) — IT↑/ISQ NS 해리 in vivo 재확인'); if (use >= 23) { score += 10; flags.push('<span class="flag">OD bur 23회+ 재사용 — Soldatos 2024 47°C 초과 위험</span>'); } }
   else if (method === 'guided') { score += 8; flags.push('<span class="flag">Guided sleeve가 irrigation 방해 — Saxena 2024</span>'); refs.push('Saxena 2024: guided + sleeve heat dispersion 방해'); }
   else if (method === 'piezo') { score -= 5; refs.push('Jain 2024: piezo 통증·heat 저감'); }
 
