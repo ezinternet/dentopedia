@@ -1,0 +1,18 @@
+Source: PubMed Abstract PMID 40471456 (PMC open access: PMC12141106)
+PMID: 40471456
+PMCID: PMC12141106
+DOI: 10.1007/s00784-025-06409-y
+Title: Clinical outcome and technical complications of bimaxillary full-arch implant-supported metal-resin fixed dental prostheses with or without ceramic molars: 5-year results
+Authors: Krennmair S, Weinländer M, Postl L, Malek M, Forstner T, Hulla H, Krennmair G
+Journal: Clin Oral Investig. 2025 Jun 5;29(6):335. Epub 2025 Jun 5. Erratum: 2025 Jun 27;29(7):361
+Retrieved: 2026-10-06 via PubMed abstract
+
+== ABSTRACT ==
+
+PURPOSE: To evaluate the prevalence of prosthetic-related technical complications (PRTC) for bimaxillary implant-supported fixed complete metal-resin prostheses (ISFP) with (Zrm-ISFP) or without (r-ISFP) occlusal support by incorporation of zirconium molars.
+
+MATERIALS AND METHODS: Two cohorts of patients with bimaxillary ISFP subdivided into test group (TG; Zrm-ISFP) and control group (CG, r-ISFP) providing a 5-year follow-up program were retrospectively analyzed. For both groups the prevalence of PRTC was assessed and compared including evaluation of their occurrence in different time periods (-1 year, >1-3-years; >3-5-years post-loading). Additionally, implant/prosthesis survival-rates, peri-implant-marginal bone loss (MBL) and implant-related-technical complications were evaluated and compared.
+
+RESULTS: For the 29 patients with bimaxillary ISFP subdivided into 14 TG [Zrm-ISFP] and 15 CG [r-ISFP] and followed-up for 5 years no implant and denture loss was seen (survival 100%). However, the prevalence of PRTC such as acrylic-tooth fracture (p<0.001) and acrylic-tooth repair (p=0.015) differed significantly between TG (Zrm-ISFP) and CG (r-ISFP). For the CG, an evidently higher time-related ongoing increase (-1yr: n=9; >1-3yrs: n=23; >3-5yrs: n=34) of the prevalence of PRTC was noted compared to TG (-1yr: n=2; >1-3yrs: n=3; >3-5yrs: n=7). In contrast, PRTC such as denture rebasing/reduction, denture cleaning, screw hole repair and implant-related-technical complications and peri-implant MBL did not differ between TG and CG.
+
+CONCLUSIONS: The modified metal-resin ISFPs incorporating zirconium molars/quadrants used for bimaxillary ISFP reduce the prevalence of PRTC and combine beneficial effects such as cost effectiveness and reparability of metal-resin and occlusal stability and reduced wear of complete zirconium prostheses.
