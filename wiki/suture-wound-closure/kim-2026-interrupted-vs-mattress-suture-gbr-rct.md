@@ -5,7 +5,7 @@ year: 2026
 doi: "10.5051/jpis.2504900245"
 source: "sources/kim-2026-interrupted-vs-mattress-suture-gbr-rct.md"
 category: suture-wound-closure
-evidence_level: RCT
+evidence_level: rct
 pdf_path: ""
 pdf_filename: ""
 date: "2026-01-01"
