@@ -1703,6 +1703,10 @@ tags: []
 - [[drug/systemic-disease/enteghad-2024-diabetes-mellitus-periodontal-periimplant-disease-review]] — Enteghad 2024 (narrative, Int Dent J): 당뇨↔치주/임플란트주위 양방향·인과; 중증도가 혈당조절(HbA1c)과 비례; 조절 당뇨서 임플란트 성공 가능
 - [[drug/systemic-disease/ahmad-2025-glucagon-like-peptide-1-receptor]] — Ahmad 2025 · narrative-review · GLP-1RA(엑세나타이드·리라글루타이드)가 혈당 독립적으로 치주 골재생·임플란트 골유착 촉진; Wnt/β-catenin+MAPK 기전; 유일 임상: GLP-1RA군 임플란트주위 골소실 인슐린·메트포민 대비 유의 감소
 - [[drug/systemic-disease/elhusseiny-2024-oral-health-children-chronic]] — Elhusseiny 2024 · narrative-review · 소아 만성콩팥병(CKD)/혈액투석/신이식 구강증상·치과관리 (CKD 신규 sub-topic, 소아 한정) (PMC full text)
+- [[drug/systemic-disease/kale-2023-blood-disorders-dental-caries]] — Kale 2023 · narrative-review · 10개 혈액질환(β-지중해빈혈·SCD·IDA·혈우병·백혈병·PVS·Fanconi·호중구감소증·ALL) 구강 발현·치아우식 기전·치과위생 지침 (PMC full text)
+- [[drug/systemic-disease/hong-2023-sickle-cell-dental-extraction-crisis]] — Hong 2023 · narrative-review · 겸상세포빈혈 발치 중 VOC 발생 시나리오·예방·응급 대처; 불안 관리=VOC 예방 안전장치 (Dent Clin North Am, abstract-only)
+- [[drug/systemic-disease/temelci-2023-thalassemia-titanium-implant-wettability-pilot]] — Temelci 2023 · in-vitro pilot(n=126) · β-지중해빈혈 혈액 Grade 5 Ti 임플란트 습윤성 = 정상인 동등(p>0.05); 골질·지연치유가 실제 임플란트 장벽 (PMC full text)
+- [[drug/systemic-disease/oren-2021-thalassemia-3d-subperiosteal-implant-case]] — Oren 2021 · case-report · β-지중해빈혈 중증 악안면기형; 피질골 소실로 일반 임플란트 불가 → 3D 프린팅 맞춤 골막하임플란트+상악절제 성공, 3년 추적 (PMC full text)
 - [[drug/mronj/ufcd-2019-medically-complex-patients-management-guidelines]] — 임상 가이드라인(148쪽): 23개 전신질환 × 치과 관리 프로토콜; ASA 분류; 혈관수축제·항응고제·비스포스포네이트 프로토콜 (UF 치과대학)
 - [[drug/anticoagulants/gupta-2022-dental-management-cardiovascular-disease]] — 서술적 고찰: 고혈압·IHD·MI(30일 금기)·부정맥·IE·심부전·뇌졸중·박동기 치과 관리 + 약물 상호작용 표
 - [[drug/mronj/ghimire-2022-medically-compromised-prosthodontic-patients]] — 서술적 고찰: 관절염·CVD·당뇨·비스포스포네이트·방사선골괴사·CKD·간경화 등 보철과 특화 수정 지침
