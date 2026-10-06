@@ -1,0 +1,13 @@
+Title: Rehabilitation of edentulous jaws using the 'All-on-Four' treatment concept: an overview of systematic reviews
+Authors: Figueiredo CE, de Oliveira NE, Cassimiro G, de Andrade Vieira W, de Paula Santos GP, Paranhos LR, Sotto-Maior BS
+Journal: Oral and Maxillofacial Surgery. 2025;30(1):6
+Year: 2025
+Publication date: 2025-12-11
+DOI: 10.1007/s10006-025-01492-7
+PMID: 41372686
+PROSPERO: CRD42023471446
+Article type: Overview of systematic reviews (umbrella review)
+Keywords: Dental Implant, Dental Prosthesis, Implant-Supported, Osseointegrated Implants
+
+Abstract:
+This overview aimed to answer the following research question: What is the current knowledge regarding the performance of the 'All-on-Four' technique compared to other full-arch implant rehabilitation methods based on evidence from systematic reviews? This overview assessed the performance of the 'All-on-Four' concept versus other implant-supported full-arch rehabilitation techniques. Outcomes included implant number, loading protocol, marginal bone loss (MBL), and cumulative survival rate (CSR). The protocol was prospectively registered in PROSPERO (CRD42023471446). A comprehensive search was performed across ten databases, including grey literature. Methodological quality was assessed using AMSTAR-2, and risk of bias was evaluated with ROBIS. Two reviewers independently conducted all steps, with a narrative synthesis of results. A total of 4,468 records were identified, and eight systematic reviews published between 2013 and 2021 were included. For the 'All-on-Four' technique, CSR ranged from 94.8% to 99.3%, and mean MBL ranged from 1.1 mm to 1.5 mm. None of the reviews reported statistically significant differences suggesting the 'All-on-Four' protocol is inferior to approaches with more implants. However, most reviews showed a high risk of bias and low methodological quality. 'All-on-Four' technique demonstrates clinical outcomes comparable to conventional full-arch rehabilitations, but evidence is limited by methodological weaknesses.
