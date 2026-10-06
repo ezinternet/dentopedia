@@ -1,0 +1,18 @@
+Source: PubMed Abstract PMID 40879617
+PMID: 40879617
+PMCID: ~
+DOI: 10.11607/jomi.11316
+Title: Incidence of Complications in Immediate Loading Conometric Versus Screw-Retained Full-Arch Prostheses: Retrospective Study on 1,356 Implants
+Authors: Biscaro L, Canullo L, Spanu O, Zuffanti A, Pesce P, Menini M
+Journal: Int J Oral Maxillofac Implants. 2026 Apr 2;41(2):207-217
+Retrieved: 2026-10-06 via PubMed abstract
+
+== ABSTRACT ==
+
+PURPOSE: To analyze the clinical complications and compare immediately loaded complete rehabilitations with screw-retained versus conometric implant prostheses.
+
+MATERIALS AND METHODS: A total of 203 patients treated with immediately loaded complete prostheses were evaluated and rehabilitated with a total of 1,356 implants supporting 261 fixed prostheses (65 conometric retention and 196 screw-retained). Implant survival, prosthesis success rate, and technical and biologic complications were evaluated. Chi-square test was performed to evaluate possible statistically significant differences between the two implant prosthesis types.
+
+RESULTS: During the follow-up period (mean = 28.5 months; range = 12 to 80 months), 27 implants failed (2%) and the global prosthetic success rate was 89.3%. No statistically significant differences were found in implant survival and prosthesis success between the two groups. Screw loosening was the most frequent complication (4.2% of cases), followed by chipping or fracture of the veneering material. Prosthesis loss of retention (detachment) occurred in 9.2% of the conometric prostheses.
+
+CONCLUSIONS: Both conometric and screw-retained immediately loaded complete rehabilitations presented a high prosthesis success rate and low incidence of complications, with the most frequent complication being screw loosening. Conometric prostheses showed a significantly greater incidence of prosthesis detachment.
