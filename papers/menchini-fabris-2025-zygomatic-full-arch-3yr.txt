@@ -1,0 +1,17 @@
+Source: PubMed Abstract PMID 40067143 (no PMC full text available)
+PMID: 40067143
+DOI: 10.23736/S2724-6329.24.05058-7
+Title: Clinical and radiographic retrospective examination of data from patients who received endosseous zygomatic dental implants to support maxillary full-arch prostheses
+Authors: Menchini-Fabris GB, Toti P, Grandi T, Paoleschi C, Paoleschi L, Covani U, Di Cosola M
+Journal: Minerva Dental and Oral Science, 2025 Feb; 74(1):1-11
+Retrieved: 2026-10-06 via PubMed abstract (full text not open access)
+
+== ABSTRACT ==
+
+BACKGROUND: In recent decades, implant dentistry has evolved to become a highly predictable treatment modality in the rehabilitation of different types of edentulism. The present retrospective analysis aimed to report the middle-term outcome of severely atrophic jaws rehabilitated with extra-maxillary zygomatic implants placed in conjunction with standard implants.
+
+METHODS: Thirty-one patients were included in the present study with 62 zygomatic implants and 90 standard implants positioned. Outcome measures were prosthetic success/survival, implant success/survival, complications, modified Plaque Index (mPLI), modified Bleeding Index (mBI), mucosal seal efficacy evaluation (MSEE) >4 mm, and zygomatic implants classification level (ZICL).
+
+RESULTS: No implant and no prosthesis were lost; one patient had mucositis at one zygomatic implant; implant and prosthetic cumulative success rates at more than 3 years were respectively 98.4% and 87% using implant and patient as units of analysis. Mechanical and biological complications occurred in seven patients; all resolved. Eighty percent of the patients practiced proper hygiene and 77% of patients suffered absent or minor mucosal bleeding. Distribution of the variable "mucosal seal efficacy evaluation" led to 81% of sites with values less than 4, and 19% of sites with values higher than 4. In more than 80% of cases, the zygomatic implants clinical level showed a level 1 at the end of the survey.
+
+CONCLUSIONS: With 100% survival rates, zygomatic bilateral prosthetic configurations were an effective therapeutic option for individuals with highly reabsorbed maxillae undergoing initial full-arch fixed rehabilitation.
