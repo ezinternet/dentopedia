@@ -1,0 +1,17 @@
+Source: PubMed Abstract PMID 40358434 (no PMC full text available)
+PMID: 40358434
+DOI: (not retrieved — Int J Oral Implantol 2025)
+Title: Indications, techniques and complications associated with full-arch rehabilitation using trans-sinus implants: A systematic review and prevalence meta-analysis
+Authors: Gianfreda F, Antonacci D, Mastrangelo F, Raffone C, Mancini L, Scarpati Cioffari di Castiglione M, Caponio VCA, Bollero P
+Journal: International Journal of Oral Implantology (Berlin), 2025 May 13; 18(2):105-116
+Retrieved: 2026-10-06 via PubMed abstract (full text not open access)
+
+== ABSTRACT ==
+
+PURPOSE: To evaluate the failure rate of trans-sinus implants for full-arch rehabilitation in atrophic maxillae, comparing their outcomes to those achieved with axial and tilted implants.
+
+MATERIALS AND METHODS: The review followed the Preferred Reporting Items for Systematic reviews and Meta-Analyses guidelines, including studies where patients underwent rehabilitation with trans-sinus implants alone or in combination with axial or zygomatic implants. The review was registered on the International Prospective Register of Systematic Reviews (ID: CRD42024537320). A meta-analysis using Haldane and hybrid corrections compared failure rates between implant types.
+
+RESULTS: Out of 2,359 articles, 10 studies employing trans-sinus implants were selected. In the meta-analysis, the trans-sinus group was composed of 232 implants, 5 of which failed, compared to 5 of the 675 implants in the axial/tilted group. There were no statistically significant differences in failure rate between the groups (RRHaldane = 2.80, 95% confidence interval 0.89 to 8.77, P = 0.076; RRHybrid = 2.74, 95% confidence interval 0.91 to 8.17, P = 0.070). The pooled analysis indicated a comparable success rate.
+
+CONCLUSIONS: Trans-sinus implants represent a viable alternative, in terms of survival rate, to axial/tilted implants for rehabilitation of the atrophic maxilla, minimising the need for invasive procedures such as extensive bone grafting; however, further controlled clinical trials with longer follow-up periods are needed to confirm these results.
