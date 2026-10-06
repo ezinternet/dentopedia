@@ -12,11 +12,30 @@ pdf_filename: N/A
 source_collection: synthesis
 agenda: agenda/2026-10-05_overview-implants.md
 tags: [implants, submerged, non-submerged, one-stage, two-stage, one-piece, two-piece, micromotion, overview]
+source_wiki:
+  - wiki/implants/moustafa-ali-2018-submerged-vs-nonsubmerged-implant.md
+  - wiki/implants/wu-2018-submerged-nonsubmerged-internal-hexagonal.md
+  - wiki/implants/esposito-2009-1-vs-2-stage-implant-placement-cochrane.md
+  - wiki/implants/liu-2021-clinical-radiographic-performance-one-piece.md
+  - wiki/implants/walter-2022-two-types-two-piece-dental-implants.md
+  - wiki/implants/s41598-021-90142-5.md
+  - wiki/implants/irandoust-2020-interplay-bone-healing-remodeling-dental.md
+  - wiki/implants/mbl/al-amri-2016-crestal-bone-loss-submerged.md
+  - wiki/implants/survival/astrand-2002-nonsubmerged-submerged-implants-treatment-partially.md
+  - wiki/implants/mbl/gheisari-2017-comparison-marginal-bone-loss-one-stage.md
+  - wiki/implants/esposito-2009-interventions-replacing-missing-teeth.md
+  - wiki/implants/mbl/verma-2024-comparison-bone-loss-submerged-nonsubmerged.md
+  - wiki/implants/survival/troiano-2018-early-late-failure-submerged.md
+  - wiki/implants/pirc-2026-one-piece-two-piece-implants-15year-rct.md
 relations:
   - type: refines
     target: moustafa-ali-2018-submerged-vs-nonsubmerged-implant
   - type: refines
     target: liu-2021-clinical-radiographic-performance-one-piece
+  - type: partially_conflicts
+    target: verma-2024-comparison-bone-loss-submerged-nonsubmerged
+  - type: partially_conflicts
+    target: pirc-2026-one-piece-two-piece-implants-15year-rct
 ---
 
 ## 한국어 핵심요약
