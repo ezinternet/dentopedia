@@ -1,0 +1,18 @@
+Source: PubMed Abstract PMID 42129020 (PMC open access: PMC13172220)
+PMID: 42129020
+PMCID: PMC13172220
+DOI: 10.1186/s40729-026-00689-z
+Title: Technical and biological complications of implant-supported fixed complete dentures: a retrospective cohort study with up to 17 years of follow-up
+Authors: Pelser D, Schepers M, Abou-Ayash S, Bjelopavlovic M, Bremer MK, Grander L, Wentaschek S
+Journal: Int J Implant Dent. 2026 May 13;12(1):22
+Retrieved: 2026-10-06 via PubMed abstract
+
+== ABSTRACT ==
+
+PURPOSE: To retrospectively evaluate biological and technical complication rates of implant-supported fixed complete dentures (IFCDs) in edentulous jaws and to identify factors associated with complications over long-term follow-up.
+
+METHODS: Between 2003 and 2023, 91 IFCDs supported by 498 implants were placed in 72 patients. Mean observation period was 6.8 years (0.5-17). Biological and technical complications were compared between materials. Time until first complication was estimated using Kaplan-Meier analysis and risk factors for recurrent complications were assessed through multivariable Andersen-Gill Cox regression.
+
+RESULTS: Seven IFCDs failed, corresponding to a cumulative overall IFCD survival of 92.3%. Twenty-one of 498 implants (4.2%) were explanted. Overall prosthesis survival of resin veneered (RV) and ceramic veneered (CV) IFCDs did not differ (p=0.85), whereas veneer fracture-free survival was significantly higher for CV IFCDs (p=0.0094). In total, 169 complications were recorded, including recurrent events, whereas 49.5% of prostheses remained complication-free. Technical complications predominated, with veneer fractures representing the most frequent event. Biological complications such as peri-implantitis and implant loss occurred less frequently. Compared to base metal alloy-ceramic IFCDs, titanium-resin IFCDs exhibited a significantly higher overall complication risk (HR 4.25, p=0.0015), particularly for veneer fractures (HR 7.11, p=0.0029).
+
+CONCLUSIONS: Within the limitations of this long-term retrospective cohort study, IFCDs demonstrated high prosthesis and implant survival rates, but a considerable number of predominantly technical complications. The choice of framework and veneering material appears to influence long-term complication risk and should be carefully considered during treatment planning.
