@@ -15,20 +15,20 @@ tags: [navigation, category-index, full-arch]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·전악수복
 > - **범위**: Full-arch / edentulous-jaw implant rehabilitation — All-on-4/-6, tilted vs axial distal implants, immediate full-arch loading & flapless full-arch, implant overdentures (single/two-implant, CAD-CAM bar), framework & load-direction FEA, severely atrophic-jaw solutions (zygomatic, customized subperios…
-> - **수록 논문**: 40편
+> - **수록 논문**: 41편
 
 ## Three-line Summary
 
 **Scope**: Full-arch / edentulous-jaw implant rehabilitation — All-on-4/-6, tilted vs axial distal implants, immediate full-arch loading & flapless full-arch, implant overdentures (single/two-implant, CAD-CAM bar), framework & load-direction FEA, severely atrophic-jaw solutions (zygomatic, customized subperiosteal).
-**Indexed papers**: 40 papers in `wiki/implants/full-arch/`.
+**Indexed papers**: 41 papers in `wiki/implants/full-arch/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·전악수복
-**수록 논문**: 40편
+**수록 논문**: 41편
 **하위 카테고리**: 없음
 
-## Papers in this Category (40)
+## Papers in this Category (41)
 
 | Paper |
 |---|
@@ -70,5 +70,6 @@ tags: [navigation, category-index, full-arch]
 | [[scocca-2026-zygomatic-implants-head-neck-cancer-sr-ma|Zygomatic implants for rehabilitation of head and neck cancer patients: a systematic review and meta-analysis]] |
 | [[shao-2026-all-on-four-vs-all-on-six-sr-ma|All-on-4 and All-on-6 implant-supported fixed prostheses for the edentulous jaw: a systematic review and meta-analysis]] |
 | [[szabo-2022-all-on-four-tilted-distal-implants-mbl|Distally Tilted Implants in All-on-Four: 3.5-Year Retrospective MBL Study]] |
+| [[tirone-2025-cad-parameters-cantilever-fracture|Relation between CAD dimensional parameters and framework fracture in zirconia full arch implant rehabilitation: An observational cohort study]] |
 | [[topdagi-2026-all-on-4-bone-type-outcomes|Medium-term clinical outcomes of the all-on-4 system in different bone types: a retrospective analysis]] |
 | [[uesugi-2024-risk-factors-early-failure-all-on-four|Associated Risk Factors for Early Failure and the Effect of Photofunctionalisation in Full-Arch Immediate Loading (All-on-Four)]] |
