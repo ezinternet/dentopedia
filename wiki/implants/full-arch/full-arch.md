@@ -15,20 +15,20 @@ tags: [navigation, category-index, full-arch]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·전악수복
 > - **범위**: Full-arch / edentulous-jaw implant rehabilitation — All-on-4/-6, tilted vs axial distal implants, immediate full-arch loading & flapless full-arch, implant overdentures (single/two-implant, CAD-CAM bar), framework & load-direction FEA, severely atrophic-jaw solutions (zygomatic, customized subperios…
-> - **수록 논문**: 41편
+> - **수록 논문**: 42편
 
 ## Three-line Summary
 
 **Scope**: Full-arch / edentulous-jaw implant rehabilitation — All-on-4/-6, tilted vs axial distal implants, immediate full-arch loading & flapless full-arch, implant overdentures (single/two-implant, CAD-CAM bar), framework & load-direction FEA, severely atrophic-jaw solutions (zygomatic, customized subperiosteal).
-**Indexed papers**: 41 papers in `wiki/implants/full-arch/`.
+**Indexed papers**: 42 papers in `wiki/implants/full-arch/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·전악수복
-**수록 논문**: 41편
+**수록 논문**: 42편
 **하위 카테고리**: 없음
 
-## Papers in this Category (41)
+## Papers in this Category (42)
 
 | Paper |
 |---|
@@ -38,6 +38,7 @@ tags: [navigation, category-index, full-arch]
 | [[alshahrani-2026-zirconia-full-arch-3300-5yr|Five-year survival and failure patterns of complete arch fixed implant-supported monolithic zirconia prostheses: A retrospective analysis of 3300 laboratory cases]] |
 | [[baki-2025-all-on-4-trefoil-five-implant-fea|Biomechanical evaluation of three full-arch immediate loading protocols in the mandible via finite element analysis: All-on-4, Trefoil, and Five-implant design]] |
 | [[bilgi-ozyetim-2025-biomechanical-comparison-implant-inclinations|Biomechanical comparison of various implant inclinations and abutment types in a bendable implant system]] |
+| [[biscaro-2026-conometric-vs-screw-full-arch|Incidence of Complications in Immediate Loading Conometric Versus Screw-Retained Full-Arch Prostheses: Retrospective Study on 1,356 Implants]] |
 | [[bishti-2026-veneering-design-full-arch-sr|Systematic Review Evaluating the Influence of Veneering Design on the Clinical Outcome of All-Ceramic Implant-Supported 3-4 Units and Full Arch Fixed Dental Prostheses]] |
 | [[cabbarova-2026-all-on-four-six-framework-fea|All-on-Four vs All-on-Six Framework Materials: FEA Biomechanical Comparison]] |
 | [[chappuis-chocano-2023-cadcam-bar-implant-overdenture-sr-ma|Systematic review and meta-analysis of the clinical performance of implant-supported overdentures retained by CAD-CAM bars]] |
