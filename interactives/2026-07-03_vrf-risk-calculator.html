@@ -2,9 +2,9 @@
 ---
 title: "수직치근파절(VRF) 위험도 계산기 — 근관치료 대구치"
 type: interactive
-date: 2026-09-09
+date: 2026-10-06
 status: done
-verified: 2026-09-09
+verified: 2026-10-06
 category: endo
 agenda: agenda/2026-07-03_vrf-risk-calculator-interactive.md
 source_wiki:
@@ -14,23 +14,16 @@ source_wiki:
   - wiki/cracked-tooth/patel-2025-position-statement-longitudinal-cracks-fractures.md
   - wiki/overviews/cracked-tooth-syndrome-overview.md
 notes: |
-  2026-09-21 재검증: cracked-tooth-syndrome-overview 2026-09-21 갱신(gioti-2026·dong-2026 추가).
-  gioti-2026 — 국제 임상가 서베이, 증상성 균열치 관리 의사결정 패턴·변동성: 이 계산기의 OR 모델(진단)과 무관, 반영 대상 아님.
-  dong-2026 — 5년 코호트(n=295) + 노모그램: RCT 후 균열치 5년 생존율 89.9%; LASSO+로지스틱회귀 3인자 확인: ①치주탐침깊이(Probing Depth, PD) >5mm (OR 2.99), ②크라운 보철(OR 0.28, 보호적), ③단회 방문 RCT(연관) → 하단에 예후 보완 카드 추가.
-  Lee 2026 OR 모델(VRF 진단)과 dong-2026 노모그램(RCT 후 생존 예후)은 다른 임상 질문 — OR 수치 변경 없음.
-  2026-09-09 재동기화: cracked-tooth-syndrome-overview 2026-08-31 기준 업데이트.
-  추가 ①: Mun 2024 AI CNN — 파노라마 VRF 발치 적응증 예측 AUC 0.82, 민감도 90–94%·
-  특이도 53–61%, screening/triage 등급으로 근거논문 표에 추가.
-  추가 ②: Corbella 2025 SR (Cluster 5) — 불완전 VRF에서 Super-Bond(4-META/MMA-TBB)
-  파절편 접착 보존 옵션; resin-ionomer/silver-GIC 전실패·근거빈약이나 보존 카드 주석 추가.
-  2026-09-02 재검증: cracked-tooth-syndrome-overview 2026-08-31 갱신(kakka-2022 통합, 21편)
-  — Iowa Index(치근단 진단 불량 + 원심변연융선 균열 + 치주탐침 ≥5mm → 예후불량), 치수생존율
-  80–93%, 무증상 균열치 모니터링 정량화(1년 증상 감소 23% vs 악화 10%)가 추가됨.
-  검토: 이 계산기의 OR 곱 모델은 Lee 2026 환자-대조(44 VRF vs 92 대조, 통합 AUC 0.940)에서
-  추출한 4인자(치근단부 상아질 과소실 OR 12.9 · 치아종류 · reRCT 병력 · pRCT 경과기간) 고정 —
-  Iowa Index는 별도 프레임(균열치 예후, VRF 환자-대조 아님)이라 OR 수치를 바꾸지 않는다.
-  다만 두 인자(치근단 진단·심부 탐침)가 수렴하므로 하단에 convergent-evidence 주석 추가.
-  로직·수치 변경 없음.
+  2026-10-06 재검증: cracked-tooth-syndrome-overview 2026-09-25 기준 재확인.
+  2026-09 서베일런스 12편 추가분 검토:
+  - Malentacca 2026 (n=321, 5yr): 직접 레진 교두피개 생존율 94.1%, 치주병소 OR=10.52 — 수복 결정과 관련, VRF OR 모델과 분리된 질문.
+  - Wu 2026 ML (n=593): AUC=0.64·PPV=0.76·NPV=0.48 — 근관치료 필요도 예측, VRF 진단 모델(AUC 0.94)보다 약함. 계산기 OR 수치 변경 없음.
+  - Chan 2025 (10yr 생존 66%, 15yr 55%): 장기 예후 — VRF 진단 OR 모델과 분리, 단 PPD ≥6mm → 발치 위험 3.19× 는 Iowa Index와 수렴.
+  - Zhang 2026 (561치): 원심변연융선 파절 실패율 16.81%, 전관피개 크라운 OR=5.57 보호 — 수복 결정 근거 추가.
+  - Hernando 2026 (SR 12편): OCT 단일 기기 정확도 최고 — Alkhani 2026 OCT 계산기 근거와 수렴, 별도 반영 불필요.
+  - Wu 2026, Pryles 2025, Deng 2026 등 나머지: VRF 진단 OR 모델(Lee 2026 기반)과 다른 질문 — 수치 변경 없음.
+  기존 비고 유지: 2026-09-21 dong-2026(치주탐침 >5mm OR 2.99·크라운 보호적), Mun 2024 AI AUC 0.82, Corbella 2025 Super-Bond, Iowa Index 수렴 증거.
+  로직·OR 수치 변경 없음.
 ---
 -->
 <!DOCTYPE html>
@@ -258,7 +251,8 @@ notes: |
 
   <div class="footnote">
     출처: [[endodontics/shaping/lee-2026-residual-pericervical-apical-dentine-vertical]] · [[endodontics/shaping/rathke-2024-ex-vivo-minimally-invasive-endodontic]] · [[endodontics/diagnosis/alkhani-2026-optical-coherence-tomography-detection-dental]] · [[artificial-intelligence/mun-2024-deep-learning-cracked-tooth-extraction-panoramic]] · [[resin-bonding/corbella-2025-surgical-techniques-vertical-root-fractures-sr]] · [[overviews/cracked-tooth-syndrome-overview]] · [[cracked-tooth/dong-2026-nomogram-cracked-tooth-rct-5year-survival]]<br>
-    이 도구는 단일 근거 연구 기반 참고 자료이며 진단검사를 대체하지 않습니다. Agenda: agenda/2026-07-03_vrf-risk-calculator-interactive.md
+    ★ 2026-09 서베일런스 신규 근거 (OR 모델 수치 변경 없음): Malentacca 2026 직접 레진 교두피개 5yr 생존 94.1% · Wu 2026 ML 근관치료 필요도 AUC 0.64 · Chan 2025 균열치 10yr 생존 66%/15yr 55% · Zhang 2026 원심변연융선 실패율 최고 · Hernando 2026 OCT 단일 기기 정확도 최고 (Alkhani 2026 수렴)<br>
+    이 도구는 단일 근거 연구 기반 참고 자료이며 진단검사를 대체하지 않습니다. 2026-10-06 갱신. Agenda: agenda/2026-07-03_vrf-risk-calculator-interactive.md
   </div>
 </div>
 
