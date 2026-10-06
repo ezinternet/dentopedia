@@ -1,0 +1,20 @@
+Source: PubMed Abstract PMID 40419078
+PMID: 40419078
+PMCID: ~
+DOI: 10.1016/j.jdent.2025.105851
+Title: Relation between CAD dimensional parameters and framework fracture in zirconia full arch implant rehabilitation: An observational cohort study
+Authors: Tirone F, Salzano S, Rolando E, Pirja DA, Rodi D
+Journal: J Dent. 2025 Sep;160:105851. Epub 2025 May 24
+Retrieved: 2026-10-06 via PubMed abstract
+
+== ABSTRACT ==
+
+OBJECTIVES: To evaluate the influence of different dimensional parameters on the incidence of framework fractures in a large sample of 151 implant-supported, screw-retained monolithic zirconia fixed complete dental prostheses (IFCDPs).
+
+METHODS: This retrospective observational study evaluated all patients rehabilitated with screw-retained zirconia IFCDPs at a private practice between October 2021 and May 2023. Inclusion criteria required a documented minimum follow-up period of 12 months after occlusal loading. Cantilever length (CL), distal cross-sectional connector area (CSCA), and screw access opening length (SAOL) were digitally measured on a computer-aided designed digital wax-up before framework milling. If the parameter ratios were below previously established cut-off values (CL/CSCA<0.51; CL/SAOL<1.48), the prostheses were produced; otherwise, the digital design was modified, and the ratios were recalculated. All prostheses were digitally produced using monolithic zirconia veneered on the gingival portion only. The primary outcome investigated was framework type II fractures (fractures of the distal cantilever).
+
+RESULTS: A total of 151 prostheses delivered to 117 patients were analyzed. No type II fractures occurred. Two implants failed in two patients during the temporary phase, and two failed after delivery of the definitive prosthesis. Six prostheses failed (3.97% prosthetic failure rate): one due to implant failure and five due to type I fractures (fractures occurring between, but not involving, the two most posterior SAOs). In one case, implant failure did not result in prosthetic failure.
+
+CONCLUSIONS: In this study, no cantilever fractures were observed in patients restored with zirconia IFCDPs manufactured following specific parameters. Further studies are needed to confirm this positive outcome.
+
+CLINICAL SIGNIFICANCE STATEMENT: This study provides prosthetic dimensional parameters that may help prevent cantilever fractures in IFCDPs. In addition to CL, both CSCA and SAOL should be considered during framework digital design. In this study, no cantilever fractures were observed during the follow-up period when the cut-off values (CL/CSCA<0.51; CL/SAOL<1.48) were met.
