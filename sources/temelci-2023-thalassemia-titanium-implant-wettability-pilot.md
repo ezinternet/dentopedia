@@ -4,8 +4,8 @@ authors: "Ali Temelci, Hasan Güney Yılmaz, Gürkan Ünsal, Lokman Onur Uyanik,
 year: 2023
 doi: "10.3390/biomimetics8010025"
 category: [drug/systemic-disease]
-pdf_path: /Users/oracleneo/llm-wiki/papers/temelci-2023-thalassemia-titanium-implant-wettability-pilot.txt
-pdf_filename: temelci-2023-thalassemia-titanium-implant-wettability-pilot.txt
+text_path: /Users/oracleneo/llm-wiki/papers/temelci-2023-thalassemia-titanium-implant-wettability-pilot.txt
+text_filename: temelci-2023-thalassemia-titanium-implant-wettability-pilot.txt
 source_collection: pubmed-text
 full_text: true
 pmid: "36648811"
