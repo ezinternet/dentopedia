@@ -1,0 +1,9 @@
+Title: All-on-4 and All-on-6 implant-supported fixed prostheses for the edentulous jaw: a systematic review and meta-analysis
+Authors: Shao W-H, Chen R, Wang S, Duan S-Y, Zhang X-D, Tang Y-L
+Journal: Int J Oral Maxillofac Surg. 2026;55(9):1098-1112
+DOI: 10.1016/j.ijom.2026.04.002
+PMID: 42031576
+Source: PubMed abstract (full text not available via PMC)
+
+ABSTRACT:
+This study compare the clinical outcomes of All-on-4 and All-on-6 implant surgeries in edentulous patients. The two techniques were evaluated by analysing implant survival rates, marginal bone loss, and complications. This systematic review included 55 studies identified in the PubMed, Web of Science, Embase, and Cochrane Library databases. At short-term follow-up (1 year), the pooled survival rate was 99.20% for All-on-4 implants and 100% for All-on-6 implants. Mid-term follow-up (1-5 years) pooled survival rates were 99.66% for All-on-4 and 98.55% for All-on-6. Regarding long-term follow-up (≥5 years), pooled survival rates were 98.14% for All-on-4 and 97.50% for All-on-6. The pooled short-term marginal bone loss was 0.77 mm for All-on-4 and 0.85 mm for All-on-6, with long-term loss (5 years) reaching 1.28 mm and 0.94 mm, respectively. The pooled mechanical complications rate was 5.91% in the All-on-4 group and 6.64% in the All-on-6 group, while the pooled biological complication rates were 6.54% and 7.41%, respectively. Mechanical complications may be reduced with zirconia prostheses. The difference between guided surgery and freehand surgery requires further validation with a larger sample size. Overall, both techniques showed similar outcomes, although the conclusions should be interpreted with caution due to the high heterogeneity among studies.
