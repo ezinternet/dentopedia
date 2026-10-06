@@ -34,6 +34,10 @@ source_papers:
   - drug/systemic-disease/chidiac-2026-antihypertensive-antihyperlipidemic-antidepressant-implant-survival
   - drug/systemic-disease/masri-2024-early-implant-failure-antihypertensive-medications
   - drug/systemic-disease/carlos-2024-marginal-bone-loss-hypertension-hyperlipidemia-diabetes
+  - drug/systemic-disease/kale-2023-blood-disorders-dental-caries
+  - drug/systemic-disease/hong-2023-sickle-cell-dental-extraction-crisis
+  - drug/systemic-disease/temelci-2023-thalassemia-titanium-implant-wettability-pilot
+  - drug/systemic-disease/oren-2021-thalassemia-3d-subperiosteal-implant-case
 evidence_level: synthesis
 source: synthesis
 relations:
@@ -437,6 +441,13 @@ NRS (Numeric Rating Scale)를 outcome으로.
 > **모범답안**: 에피네프린은 사용 가능하나 **희석(1:200,000)과 용량 최소화**가 필요하고, 시술 중 혈압·맥박 모니터링이 필수다. 이 오버뷰는 1:200,000 에피네프린이 1:80,000과 진통 효과는 동등하면서 혈역학적으로 더 안전하다고 명시(Karm 2017 RCT). 비선택적 β-blocker 복용 시 에피네프린이 α-효과로 혈압 급상승을 유발할 수 있으므로 희석·소량·BP 모니터링을 병행한다. Felypressin은 임신 환자에서 금기이며, 이 케이스에서는 해당 없다.
 
 ## Related Papers
+
+### 신규 추가 (2026-10) — 혈액질환(빈혈) 환자 발치·임플란트
+
+- [[drug/systemic-disease/kale-2023-blood-disorders-dental-caries]] — Cureus 2023 narrative-review: 10개 혈액질환(β-지중해빈혈·SCD·IDA·혈우병·백혈병·PVS·Fanconi·호중구감소증·ALL) 구강 발현·우식 기전·치과위생 지침; 공통 기전 = 타액기능 저하→완충능↓→탈회
+- [[drug/systemic-disease/hong-2023-sickle-cell-dental-extraction-crisis]] — Dent Clin N Am 2023 임상 리뷰(abstract-only): SCD 환자 발치 중 혈관폐쇄 위기(VOC) 예방·응급 프로토콜; 치과 불안→교감신경→탈산소화→HbS 낫모양화→VOC 경로; 치료 전 신경·장기 평가 필수
+- [[drug/systemic-disease/temelci-2023-thalassemia-titanium-implant-wettability-pilot]] — Biomimetics 2023 in vitro pilot(n=126): β-지중해빈혈 혈액 Grade 5 Ti 임플란트 표면 습윤성 = 정상인 동등(p>0.05); 골질 저하·지연 창상치유가 실질 임플란트 장벽
+- [[drug/systemic-disease/oren-2021-thalassemia-3d-subperiosteal-implant-case]] — J Med Case Rep 2021 증례: β-지중해빈혈 중증 39세; 피질골 소실로 일반 임플란트 불가 → DMLS 3D프린팅 맞춤형 골막하임플란트+상악절제, 3년 합병증 없음
 
 ### 신규 추가 (2026-09) — 아나필락시스 응급 관리
 
