@@ -1,0 +1,104 @@
+Title: Immediate Full-Arch Maxillary Rehabilitation Supported by Four Implants: A Retrospective Study with 15 to 20 Years of Follow-Up
+Authors: de Araújo Nobre M, Lopes A, Ferro A, Moura Guedes C, Almeida R, Nunes M, Gouveia M, Santos D, Vitor I
+Journal: Journal of Clinical Medicine. 2026;15(2):446
+DOI: 10.3390/jcm15020446
+PMID: 41598384
+PMCID: PMC12842169
+Published: 2026-01-06
+
+Source: PMC full text via PubMed MCP (get_full_text_article)
+
+---
+
+1. Introduction
+
+Edentulism is a major problem for oral health, causing biological, psychological and social disorders. The estimated global average prevalence of edentulism in 2019 was almost 7%, with more than 350 million cases worldwide. Among the WHO regions, the highest rate is estimated for the European Region (31.3%), with about 88 million cases occurring in people aged 20 years or more. Considering the prevalence and burden of edentulism, implant-supported fixed prostheses emerge as the only reliable solution for the resolution and maintenance of function in the long term.
+
+Immediate full-arch maxillary fixed prosthetic rehabilitations supported by four implants (two axial anterior implants and two tilted posterior implants), as in the All-on-4 concept (Nobel Biocare AB, Gothenburg, Sweden), consists of a treatment alternative to rehabilitate edentulous patients. Based on the insertion of two anterior implants in an axial position and two posterior implants tilted distally, following the anterior wall of the maxillary sinus, it is possible to provide support and function for a full-arch prosthesis immediately, on the same day, while avoiding more complex, time consuming and invasive procedures such as bone grafting. This is of particular importance for maxillary rehabilitations, where often low bone density and quantity represent a common finding, and where this immediate full-arch concept provided good outcomes during short-, medium-, and long-term follow-up. The possibility of using tilted implants in distal areas provided good anchorage in areas of poor bone quality and quantity and enabled both good anterior-posterior spread and cantilever reduction for increased prosthetic load balance and reduced mechanical stress in peri-implant bone. Furthermore, previous systematic reviews registered good outcomes for immediate implant-supported restorations for the edentulous rehabilitation of the maxilla using four implants and distal implant tilting in the two posterior implants. In a previous study, high cumulative survival rates were reported for implants (94.7%) and prostheses (99.2%), together with an incidence of biological and mechanical complications of 7.8% and 58.8%, respectively, with up to 13 years of follow-up. Nevertheless, studies evaluating the very long-term outcome of full-arch maxillary restorations supported by implants in immediate function are scarce, limiting the validity of this treatment alternative. This study aimed was to investigate the outcome between 15 and 20 years of immediate implant-supported rehabilitations using four implants and posterior implant tilting.
+
+2. Materials and Methods
+
+This article was written following the STROBE guidelines for observational studies. This retrospective study was performed at a private rehabilitation center (Maló Clinic, Lisbon, Portugal) and approved by an independent ethics committee (Ethical Committee for Health; Authorization nº 002/2025). The present study was performed in agreement with the Declaration of Helsinki of 1964, as revised in 2013. Patient treatment occurred between November 2002 and December 2008. The inclusion criteria comprised patients requiring fixed full-arch maxillary prosthetic rehabilitation supported by implants in immediate function, due to edentulism or the presence of hopeless teeth, as well as patients with immediate full-arch rehabilitations using four implants and posterior implant treatment for the rehabilitation of the edentulous maxilla, who completed the rehabilitation process at the clinic. Exclusion criteria for performing the rehabilitations included patients in active chemotherapy or radiotherapy, existence of posterior teeth with a healthy status and sufficient bone height allowing implant insertion in the posterior section for partial restorations. The mere presence of a systemic condition or smoking habit was not considered as an exclusion criterion.
+
+For each patient, medical history was assessed, followed by clinical examinations and radiographic assessments (orthopantomography and computerized tomography scan). All procedures were performed under local anesthesia with mepivacaine hydrochloride and epinephrine 1:100,000 (Scandinibsa 2%; Inibsa Laboratory, Barcelona, Spain). Patients received preoperative diazepam and antibiotic prophylaxis (amoxicillin/clavulanic acid 875/125 mg) starting 1 h before surgery and continued for 6 days postoperatively. A tapering corticosteroid regimen with prednisone was prescribed for 4 days, followed by ibuprofen from postoperative days 4 to 7.
+
+When indicated, teeth were extracted intraoperatively prior to implant placement. A mucoperiosteal flap was then elevated along the ridge crest. A small lateral window was created using a round bur to identify the anterior wall of the maxillary sinus. Implant placement followed standard protocols, with intentional under-preparation of the osteotomies to achieve insertion torque values between 30 and 50 Ncm. The two posterior implants were placed first, tilted 30-45° relative to the occlusal plane and positioned along the anterior wall of the maxillary sinus. Angulated 30° multi-unit abutments (Nobel Biocare AB) were connected to the posterior implants, while straight (0°) or 17° angulated multi-unit abutments were placed on the anterior implants.
+
+A provisional prosthesis of high-density acrylic resin was delivered on the same day of surgery. Definitive prostheses were delivered no earlier than 6 months postoperatively.
+
+Patients were enrolled in a standardized maintenance program including oral hygiene instructions. The recall regimen was set at 10 days; 2, 4, and 6 months; 1 year; and every 6 months thereafter, including prosthesis removal, diagnosis, professional prophylaxis, and reinforcement of oral hygiene measures.
+
+Primary outcome measures included prosthetic success and implant survival/success. Secondary outcomes included marginal bone loss (MBL) as well as the incidence of mechanical and biological complications. MBL was assessed using periapical radiographs obtained at implant placement and at 15 and 20 years acquired with the parallel technique.
+
+Mechanical complications evaluated in this study were fracture or loosening of any prosthetic components, while biological complications assessed included infections, chronic peri-implant disease (pockets over 5 mm, bleeding upon probing, and concurrent presence of marginal bone loss and clinical attachment loss), fistula or abscess formation.
+
+Descriptive statistics were calculated for prosthetic survival, implant survival/success, and marginal bone loss. Life tables were used to estimate cumulative survival rates. Multivariate regression models were used to identify risk indicators. Cox proportional hazards models were applied for implant failure. Binary logistic regression models were used for MBL > 3 mm, biological complications, and mechanical complications.
+
+3. Results
+
+3.1. Sample
+
+This study included 740 patients (440 women and 300 men), with an average age of 55.3 years (ranging between 20 and 88 years). There were 286 patients presenting systemic conditions; 216 patients (29.2%) presented a single systemic condition, 70 patients (9.5%) > one condition, and 222 patients were smokers (30%). 197 patients were judged to have bruxism (26.6%). 287 patients (38.8%) with 1148 implants (38.8%) were lost to follow-up. 42 patients (168 implants) were deceased, while 246 patients (984 implants) became unreachable. Patients lost to follow-up were significantly older (p < 0.001, Mann-Whitney U test).
+
+3.2. Prostheses and Implants
+
+A total of 740 restorations were attached in the maxilla, supported by 2960 implants—17 Brånemark System Mk III implants [n = 2 failures], 92 Brånemark System Mk IV implants [n = 11 failures], 2851 NobelSpeedy Groovy implants [n = 157 failures]—with widths ranging between 3.3 and 5 mm and lengths ranging from 8.5 to 18 mm, all with anodically oxidized surface.
+
+3.3. Prosthetic Success, Implant Survival/Success and Risk Indicators for Implant Failure
+
+13 patients (1.8%) lost their prostheses: 9 patients (1.2%) due to implant failures, and 4 patients (0.5%) fractured the prosthesis, rendering a 98.1% prosthetic success rate after up to 20 years.
+
+A total of 170 implants (5.7%) in 101 patients (13.6%) failed, with 140 implants lost in the first 180 months and 30 implants lost between 181 and 240 months, resulting in:
+- Implant cumulative survival rate (CSurR): 94.1% at 15 years; 90.7% at 20 years
+- Implant cumulative success rate (CSucR): 89.4% at 15 years; 84.6% at 20 years
+
+Sensitivity analysis: best case 93.1%, worst case 59.4% at 20 years cumulative implant survival.
+
+Multivariate analysis (Cox proportional hazards):
+- Smoking: HR = 1.93, risk indicator for implant failure
+- Biological complications: HR = 2.18, risk indicator for implant failure
+
+3.4. Marginal Bone Loss and Risk Indicators for MBL > 3 mm
+
+- MBL at 15 years: 1.07 mm ± 1.38 mm (mean ± SD)
+- MBL at 20 years: 1.46 mm ± 1.56 mm (mean ± SD)
+
+63 patients with 95 implants exceeded MBL of 3 mm at 15 years; 8 patients with 14 implants at 20 years.
+
+Multivariate analysis (binary logistic regression):
+- Smoking: OR = 3.60 for MBL > 3 mm
+- Biological complications: OR = 3.70 for MBL > 3 mm
+- Mechanical complications: OR = 0.26 (protective effect for MBL > 3 mm)
+
+3.5. Mechanical Complications
+
+Mechanical complications: 581 patients (78.5%):
+- Provisional prostheses: 448 patients (60.5%)
+- Definitive prostheses: 374 patients (50.5%)
+- 144 patients accumulated complications in both prostheses
+
+No significant risk indicators identified for mechanical complications.
+
+3.6. Biological Complications
+
+Biological complications: 449 implants (15.2%) in 260 patients (35.1%)
+- Implant infections during first year: 117 implants in 81 patients → 7 failures
+- Chronic peri-implant disease: 332 implants in 199 patients → 54 failures
+
+Multivariate analysis (binary logistic regression):
+- Age (OR = 0.48, patients over 60 years at decreased risk)
+- Smoking (OR = 1.78, increased risk)
+
+4. Discussion
+
+This study registered the longest follow-up time (up to 20 years) for immediate full-arch implant-supported maxillary rehabilitations using four implants. The results extend previous publications including a 13-year study (99.2% prosthetic success, 94.7% implant survival). Comparison with two-stage surgical approaches in 20-25 year follow-ups showed implant survival rates between 71.05% and 99.2%; our results fall within this range despite more comprehensive inclusion criteria.
+
+Biological complications and smoking habits were identified as the two most clinically significant risk indicators, present in three models simultaneously (implant failure, marginal bone loss, biological complications). The protective effect of mechanical complications on MBL may be explained by the increased maintenance appointments required, acting as a "second intention pseudo-maintenance protocol."
+
+MBL trend showed stability building from previous publications: 0.9-1.2 mm at 1 year, 1.18 mm at 5 years, 1.67 mm at 10 years, and 1.07-1.46 mm at 15-20 years.
+
+Study limitations: single-center, retrospective design, 38.8% loss to follow-up, single outcome assessor, 26% and 7% ineligible radiographs at 15 and 20 years respectively.
+
+5. Conclusions
+
+Full-arch fixed prosthetic maxillary rehabilitations supported by four implants (two posterior implants tilted distally and two anterior implants axially oriented) is a viable treatment option in the long term. The high implant and prosthetic survival rates at 20 years and the low marginal bone loss support this conclusion. Patients susceptible to biological complications and with smoking habits warrant special vigilance.
