@@ -7,7 +7,7 @@
 **대상은 키워드에 가장 가까운 링크로 특정한다.** 같은 줄의 나머지 링크는 충돌 표현의 대상이라는 근거가 없어 Tier 2(`AMBIG→`)로 강등된다 — 버리지 않으니 진짜 대상이 강등됐다면 Tier 2에서 찾을 수 있다.
 
 - Tier 1 (대상 지목됨, actionable): **8**
-- Tier 2 (대상 불명/soft, review): **113**
+- Tier 2 (대상 불명/soft, review): **114**
 - (억제됨) 이미 typed 엣지·supersession 포인터가 있어 제외: **332** · 부정문 제외: **159** · 검토·불필요 대장: **444** · 동일 줄 비최근접으로 Tier 2 강등: **2**
 
 ## Tier 1 — 판단 후 엣지 달 후보 (page → 지목된 target)
@@ -135,6 +135,10 @@
 - `greenstein-2018-need-replace-missing-second-molar` [occlusion] (HIGH-no-target, 'refut' · 반증)
   - **근거 문장**: - Synthesizes the paradox that super-eruption is common but occlusal interference is not a predictable downstream consequence, refuting reflexive replacement.
   - ▸ 출발(`greenstein-2018-need-replace-missing-second-molar`) 세줄: 제2대구치 (Second Molar) 결손 후 임플란트 (Implant) 수복 여부를 평가한 서술적 문헌고찰 — 저작효율 (Masticatory Efficiency)·과맹출·교합간섭 (Occlusal Interference) 데이터 종합. 제1대구치 교합만으로 저작효율 약 90% 달성; 대합치 없는 구치의 약 20%가 ≥2 mm 정출 (Supraeruption)하나, 정출 정도와 교합간섭 발생은 강한 상관이 없음. 수복 여부는 환자 선호 (Patient Preference)에 따름 — 저작 불편감
+
+- `squier-1981-keratinization-sulcular-epithelium` [periodontics] (HIGH-no-target, '반박' · 반박)
+  - **근거 문장**: 내러티브 리뷰 (J Periodontol, 1981; 4쪽) — 열구/접합상피 (Sulcular/Junctional Epithelium) 를 각화시키면 세균 항원 장벽이 강화된다는 당시 통설을 반박; 이용 가능한 투과성·부착 생물학 문헌 종합, 자체 실험 데이터 없음.
+  - ▸ 출발(`squier-1981-keratinization-sulcular-epithelium`) 세줄: 내러티브 리뷰 (J Periodontol, 1981; 4쪽) — 열구/접합상피 (Sulcular/Junctional Epithelium) 를 각화시키면 세균 항원 장벽이 강화된다는 당시 통설을 반박; 이용 가능한 투과성·부착 생물학 문헌 종합, 자체 실험 데이터 없음. 비각화 상피도 일부 물질에 대한 저항성이 있어 각화가 불투과성의 필수조건이 아님; 더 중요하게는 치아부착 (Epithelial Attachment) 이 미분화(비각화) 세포의 특성이므로, 각화 유도 시 부착 상실이 예상됨 — 생물학
 
 - `ron-canelos-2026-immediate-versus-delayed-dental-implant` [immediate-implant] (HIGH-no-target, '상충' · 상충)
   - **근거 문장**: 즉시식립 vs 지연식립 논쟁을 겨냥한 최초 등록 우산논문으로, 생존·성공·실패·합병증·환자보고결과(PROM)·수술시간을 서술적으로 종합해 위키가 보유한 상충적 SR 결과(생존 차이 없음 vs IIP 실패↑)를 한 층 위에서 맥락화할 계획.
