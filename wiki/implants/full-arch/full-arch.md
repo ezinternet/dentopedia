@@ -2,7 +2,7 @@
 title: "임플란트·전악수복 — full-arch"
 authors: navigation
 year: 2026
-date: 2026-08-11
+date: 2026-10-06
 doi: N/A
 source: navigation
 category: implants/full-arch
@@ -15,24 +15,25 @@ tags: [navigation, category-index, full-arch]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·전악수복
 > - **범위**: Full-arch / edentulous-jaw implant rehabilitation — All-on-4/-6, tilted vs axial distal implants, immediate full-arch loading & flapless full-arch, implant overdentures (single/two-implant, CAD-CAM bar), framework & load-direction FEA, severely atrophic-jaw solutions (zygomatic, customized subperios…
-> - **수록 논문**: 20편
+> - **수록 논문**: 24편
 
 ## Three-line Summary
 
 **Scope**: Full-arch / edentulous-jaw implant rehabilitation — All-on-4/-6, tilted vs axial distal implants, immediate full-arch loading & flapless full-arch, implant overdentures (single/two-implant, CAD-CAM bar), framework & load-direction FEA, severely atrophic-jaw solutions (zygomatic, customized subperiosteal).
-**Indexed papers**: 20 papers in `wiki/implants/full-arch/`.
+**Indexed papers**: 24 papers in `wiki/implants/full-arch/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·전악수복
-**수록 논문**: 20편
+**수록 논문**: 24편
 **하위 카테고리**: 없음
 
-## Papers in this Category (20)
+## Papers in this Category (24)
 
 | Paper |
 |---|
 | [[abdunabi-2019-immediately-loaded-maxillary-full-arch-sr|Impact of immediately loaded implant-supported maxillary full-arch dental prostheses: a systematic review]] |
+| [[alshahrani-2026-full-arch-monolithic-zirconia-prostheses-5year-retrospective|5-Year Survival and Failure Patterns of Full-Arch Monolithic Zirconia CAFIPs: 3300 Laboratory Cases]] |
 | [[baki-2025-all-on-4-trefoil-five-implant-fea|Biomechanical evaluation of three full-arch immediate loading protocols in the mandible via finite element analysis: All-on-4, Trefoil, and Five-implant design]] |
 | [[bilgi-ozyetim-2025-biomechanical-comparison-implant-inclinations|Biomechanical comparison of various implant inclinations and abutment types in a bendable implant system]] |
 | [[cabbarova-2026-all-on-four-six-framework-fea|All-on-Four vs All-on-Six Framework Materials: FEA Biomechanical Comparison]] |
@@ -40,6 +41,7 @@ tags: [navigation, category-index, full-arch]
 | [[cosola-2026-customized-3d-printed-titanium-subperiosteal-implants-sr-ma|Clinical Outcomes, Survival, and Complications of Customized Computer-Aided Design and Manufacturing 3-Dimensional–Printed Titanium Subperiosteal Implants]] |
 | [[del-fabbro-2022-full-arch-tilted-axial-implants-sr-ma|Outcomes of Fixed Full-Arch Rehabilitations Supported by Tilted and Axially Placed Implants: A Systematic Review and Meta-Analysis]] |
 | [[eskan-2020-tapered-implants-full-arch-immediate-function|Tapered BLT Implants for Full-Arch Immediate Function: 55-Month Retrospective]] |
+| [[fiorellini-2026-global-consensus-edentulous-maxilla-group3|Consensus Report of Group 3 of the 1st Global Consensus for Clinical Guidelines for the Rehabilitation of the Edentulous Maxilla: Advanced Diagnostic Imaging, Augmentation Techniques, and Management of Complications]] |
 | [[kern-2018-single-implants-edentulous-mandible-immediate|Single Mandibular Midline Implants — Immediate vs Delayed Loading: A Randomized Controlled Trial]] |
 | [[koyama-2025-single-vs-two-implant-mandibular-overdenture-sr-ma|Single versus two implant-supported mandibular overdentures: a systematic review and meta-analysis of implant survival and prosthetic complications]] |
 | [[la-monaca-2022-immediate-flapless-full-arch-rehabilitation|Immediate Flapless Full-Arch Rehabilitation of Edentulous Jaws on 4 or 6 Implants According to the Prosthetic-Driven Planning and Guided Implant Surgery: A Retrospective Study on Clinical and Radiographic Outcomes up to 10 Years of Follow-Up]] |
@@ -49,6 +51,8 @@ tags: [navigation, category-index, full-arch]
 | [[merli-2018-implant-prosthetic-rehabilitation-bone-atrophy|Implant prosthetic rehabilitation in partially edentulous patients with bone atrophy. An umbrella review based on systematic reviews of randomised controlled trials.]] |
 | [[murat-2025-all-on-4-implant-angulation-load-direction-fea|Predictive mathematical modeling of biomechanical behavior in all-on-4 implants design: effects of distal implant and occlusal load angulation using RSM based on FEA]] |
 | [[pandey-2023-comparison-all-on-four-all-on-six|Comparison between All-on-Four and All-on-Six Treatment Concepts on Stress Distribution for Full-Mouth Rehabilitation Using Three-Dimensional Finite Element Analysis: A Biomechanical Study]] |
+| [[schwarz-2026-global-consensus-edentulous-maxilla-guidelines|First Global Consensus for Clinical Guidelines: Structured Recommendations (S2k-Level Guideline Framework) for the Rehabilitation of the Edentulous Maxilla Based on Core Outcome Sets]] |
 | [[scocca-2026-zygomatic-implants-head-neck-cancer-sr-ma|Zygomatic implants for rehabilitation of head and neck cancer patients: a systematic review and meta-analysis]] |
+| [[shao-2026-all-on-four-vs-all-on-six-sr-ma|All-on-4 and All-on-6 implant-supported fixed prostheses for the edentulous jaw: a systematic review and meta-analysis]] |
 | [[szabo-2022-all-on-four-tilted-distal-implants-mbl|Distally Tilted Implants in All-on-Four: 3.5-Year Retrospective MBL Study]] |
 | [[uesugi-2024-risk-factors-early-failure-all-on-four|Associated Risk Factors for Early Failure and the Effect of Photofunctionalisation in Full-Arch Immediate Loading (All-on-Four)]] |
