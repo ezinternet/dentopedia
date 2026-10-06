@@ -1,0 +1,18 @@
+Source: PubMed Abstract PMID 41839752 (PMC open access: PMC13350299)
+PMID: 41839752
+PMCID: PMC13350299
+DOI: 10.1111/jopr.70123
+Title: Five-year survival and failure patterns of complete arch fixed implant-supported monolithic zirconia prostheses: A retrospective analysis of 3300 laboratory cases
+Authors: Alshahrani FA, Alshehri A, Chaban A, Taymour N
+Journal: J Prosthodont. 2026 Jul;35(6):870-875. Epub 2026 Mar 16
+Retrieved: 2026-10-06 via PubMed abstract
+
+== ABSTRACT ==
+
+PURPOSE: To evaluate the five-year survival rate and complication spectrum of complete arch fixed implant-supported zirconia prostheses (CAFIPs) fabricated by a commercial dental laboratory in Dubai, UAE, aiming to identify principal modes of failure and technical challenges.
+
+MATERIALS AND METHODS: This retrospective, cross-sectional study analyzed 3300 screw-retained, 3Y-TZP monolithic zirconia CAFIPs, with veneered porcelain limited to the gingival area, manufactured using standardized protocols between August 2019 and August 2024. Data on maxillary (n=1900) and mandibular (n=1400) prostheses, complications, reason for lab returns, and failure events were extracted from digital laboratory records. Remakes due only to technical or material failure were included. Survival analysis employed a life table approach, strictly excluding clinician- or patient-driven interventions to ensure unbiased outcomes.
+
+RESULTS: The five-year cumulative survival rate was 91.67%. The life span table analysis revealed a concerning trend of 2 events in year one increasing to 14 events in year five. Framework fractures (n=38) were the leading failure cause, especially in prostheses with insufficient vertical space, while ceramic chipping (n=4) affected mainly mandibular prostheses with excessive ceramic layering. Importantly, no cases of titanium cylinder debonding or fracture were observed, indicating mechanical reliability. Minor prosthetic complications included localized veneer chipping. Enhanced framework design and material handling were identified as improvement targets for long-term performance.
+
+CONCLUSIONS: Full-arch fixed implant-supported zirconia prostheses exhibited excellent five-year durability. Most failures were related to framework issues or ceramic chipping, while technical problems with titanium components were absent. Continued improvements in design, manufacturing, and clinical protocols are needed to optimize longevity and patient outcomes.
