@@ -7,8 +7,8 @@ doi: "10.7759/cureus.47159"
 source: kale-2023-blood-disorders-dental-caries.md
 category: [drug/systemic-disease]
 confidence: narrative-review
-pdf_path: /Users/oracleneo/llm-wiki/papers/kale-2023-blood-disorders-dental-caries.txt
-pdf_filename: kale-2023-blood-disorders-dental-caries.txt
+text_path: /Users/oracleneo/llm-wiki/papers/kale-2023-blood-disorders-dental-caries.txt
+text_filename: kale-2023-blood-disorders-dental-caries.txt
 source_collection: pubmed-text
 pmid: "38021750"
 pmcid: "PMC10651806"

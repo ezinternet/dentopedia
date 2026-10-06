@@ -4,8 +4,8 @@ authors: "Gayatri Kale, Vidya Maheswari Nelakurthi, Priyanka Paul"
 year: 2023
 doi: "10.7759/cureus.47159"
 category: [drug/systemic-disease]
-pdf_path: /Users/oracleneo/llm-wiki/papers/kale-2023-blood-disorders-dental-caries.txt
-pdf_filename: kale-2023-blood-disorders-dental-caries.txt
+text_path: /Users/oracleneo/llm-wiki/papers/kale-2023-blood-disorders-dental-caries.txt
+text_filename: kale-2023-blood-disorders-dental-caries.txt
 source_collection: pubmed-text
 full_text: true
 pmid: "38021750"
