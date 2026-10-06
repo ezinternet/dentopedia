@@ -1,0 +1,18 @@
+Source: PubMed Abstract PMID 42434215 (PMC open access: PMC13354045)
+PMID: 42434215
+PMCID: PMC13354045
+DOI: 10.4317/jced.63882
+Title: Prosthetic and Biological Complications of Metal-Zirconia versus Metal-Acrylic Implant-Supported Screw-Retained Complete-Arch Prostheses: A Systematic Review and Meta-Analysis
+Authors: Marinkovic D, Gutiérrez R, Frey M, Collao F, Moreno Y, Miranda C
+Journal: J Clin Exp Dent. 2026 Apr 25;18(5):e704-e715
+Retrieved: 2026-10-06 via PubMed abstract
+
+== ABSTRACT ==
+
+BACKGROUND: Full-arch implant-supported screw-retained prostheses are widely used for the rehabilitation of edentulous patients. Conventional metal-acrylic hybrid prostheses have demonstrated acceptable clinical outcomes, however, mechanical complications, prosthetic wear, and biological issues remain concerns. Monolithic zirconia prostheses with a metallic substructure have been proposed as an alternative, potentially improving long-term clinical performance.
+
+MATERIAL AND METHODS: A systematic review and meta-analysis were conducted following predefined eligibility criteria. A comprehensive search of CENTRAL, PubMed, Embase, and Epistemonikos databases was performed for studies published between 2000 and 2025. Non-randomized clinical studies with a minimum follow-up of 1 year comparing full-arch implant-supported screw-retained metal-zirconia prostheses with metal-acrylic prostheses were included. Fully monolithic zirconia restorations, partial fixed prostheses, and non-full-arch rehabilitations were excluded. Risk of bias was assessed using the ROBINS-I tool, and the certainty of evidence was evaluated according to the GRADE approach. Quantitative synthesis was conducted when appropriate.
+
+RESULTS: Twelve studies fulfilled the inclusion criteria, with eleven included in the meta-analysis. Metal-zirconia prostheses showed significantly lower prosthetic wear (RR=0.29; 95% CI, 0.14-0.59) and a reduced risk of peri-implantitis (RR=0.67; 95% CI, 0.47-0.96). Marginal bone loss favored metal-zirconia prostheses (SMD=0.36). Trends toward improved prosthesis survival (RR=1.05) and reduced prosthesis loss (RR=0.09) were observed. No significant differences were found regarding implant survival, framework fractures, esthetics, or speech. Most studies exhibited moderate to critical risk of bias, mainly due to confounding factors.
+
+CONCLUSIONS: Within the limitations of predominantly non-randomized evidence, metal-zirconia implant-supported screw-retained complete-arch prostheses demonstrate a more favorable clinical profile than metal-acrylic prostheses, particularly in terms of prosthetic wear, peri-implantitis, and marginal bone loss. Although overall survival rates were comparable, trends toward improved prosthesis longevity were observed. Well-designed randomized clinical trials with long-term follow-up are required to confirm these findings.
