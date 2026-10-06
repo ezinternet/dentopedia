@@ -2,7 +2,7 @@
 title: "임플란트·변연골소실 — mbl"
 authors: navigation
 year: 2026
-date: 2026-10-05
+date: 2026-10-06
 doi: N/A
 source: navigation
 category: implants/mbl
@@ -15,20 +15,20 @@ tags: [navigation, category-index, mbl]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·변연골소실
 > - **범위**: Marginal bone loss (MBL) / crestal bone loss — platform switching (PS vs PM), bone-level vs tissue-level MBL, implant-tooth proximity bone loss, emergence angle, inter-implant distance, risk-factor umbrella SRs
-> - **수록 논문**: 43편
+> - **수록 논문**: 44편
 
 ## Three-line Summary
 
 **Scope**: Marginal bone loss (MBL) / crestal bone loss — platform switching (PS vs PM), bone-level vs tissue-level MBL, implant-tooth proximity bone loss, emergence angle, inter-implant distance, risk-factor umbrella SRs
-**Indexed papers**: 43 papers in `wiki/implants/mbl/`.
+**Indexed papers**: 44 papers in `wiki/implants/mbl/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·변연골소실
-**수록 논문**: 43편
+**수록 논문**: 44편
 **하위 카테고리**: 없음
 
-## Papers in this Category (43)
+## Papers in this Category (44)
 
 | Paper |
 |---|
@@ -56,6 +56,7 @@ tags: [navigation, category-index, mbl]
 | [[messias-2019-platform-switching-mbl-5year-rct|Peri-implant marginal bone loss reduction with platform-switching components: 5-Year post-loading results of an equivalence randomized clinical trial]] |
 | [[mortazavi-2021-bone-loss-tissue-bone-level-implants|Bone Loss in Tissue-Level vs. Bone-Level Implants: Systematic Review]] |
 | [[ng-2018-implant-tooth-proximity-bone-loss|Peri-implant inflammation and marginal bone level changes around dental implants in relation to proximity with and bone level of adjacent teeth]] |
+| [[prati-2026-cover-screw-vs-healing-abutment-rct|Clinical Parameters of Implants with Cover Screw vs Healing Abutment: 6-Month RCT]] |
 | [[raabe-2026-crestal-bone-loss-peri-implant|Crestal Bone Loss and Peri-Implant Conditions at Tissue-Level Implants: Influence of Prosthesis Type After 25 Years]] |
 | [[rocha-2016-platform-switching-crestal-bone-3year-rct|Effect of platform switching on crestal bone levels around implants in the posterior mandible: 3 years results from a multicentre randomized clinical trial]] |
 | [[rodrigues-2023-clinical-performance-internal-conical|Is the clinical performance of internal conical connection better than internal non-conical connection for implant-supported restorations? A systematic review with meta-analysis of randomized controlled trials]] |
