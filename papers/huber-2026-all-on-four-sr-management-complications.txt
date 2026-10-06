@@ -1,0 +1,154 @@
+Title: All-on-Four Rehabilitation: A Systematic Review of Clinical Management, Workflow and Complications
+Authors: Huber BR, Walser N, Gamma T, Metzler P
+Journal: Dentistry Journal (Basel). 2026;14(9)
+PMID: 42782928
+PMC: PMC13605651
+DOI: 10.3390/dj14090541
+Year: 2026
+Publication date: 2026-08-31
+Article type: Systematic Review
+Source: PubMed Central (PMC) full text
+
+---
+
+1. Introduction
+
+Severe tooth loss up to complete edentulism affects approximately 267 million individuals worldwide. The resulting impairment of mastication, aesthetics, and phonetics, combined with reduced self-esteem and associated social limitations, leads to a significant decrease in quality of life.
+
+Oral rehabilitation therefore plays a crucial role in restoring patients' former lifestyle and substantially improving their quality of life. For completely edentulous patients, several prosthetic treatment approaches are available, including conventional complete dentures, removable implant-supported prostheses, and fixed implant-supported prostheses with more than four implants (FDP4+). Compared to oral rehabilitations without implants, FDP4+ results in improved denture stability and masticatory performance, while also reducing the load on the alveolar ridge and enhancing patients' quality of life. Nevertheless, rehabilitation with FDP4+ may, depending on the clinical situation, necessitate bone augmentation procedures (e.g., grafting or sinus elevation), multiple surgical interventions, and prolonged treatment duration. Such requirements can reduce patient acceptance and lead to a preference for less invasive non-implant solutions. Accordingly, there remains an unmet clinical need for innovative fixed implant-supported prostheses that minimize surgical complexity while improving patient acceptance.
+
+Such a concept is represented by the All-on-Four approach (Nobel Biocare, Zurich, Switzerland), which was first described by Maló et al. in 2003. This concept of fixed implant-supported rehabilitation, commonly known as the All-on-Four approach, is based on a prosthesis supported by four implants. In cases with limited bone availability, particularly posterior to the premolar region, this approach offers the advantage of avoiding extensive augmentation procedures. Following extraction of non-restorable teeth, four implants are placed immediately (two anterior and two posteriors, axially or tilted), and a provisional prosthesis of 10–14 teeth made of polymethylmethacrylate (PMMA) is delivered either on the same day or shortly thereafter, allowing early functional loading. After approximately six months of healing to ensure complete osseointegration and soft tissue maturation, the definitive prosthesis can be delivered.
+
+For patients seeking a fixed full-arch prosthesis with a minimal number of implants, no augmentation procedures, and rapid rehabilitation, such a concept represents a suitable option. The Association of the Scientific Medical Societies (AWMF) S3 guideline does not recommend routine placement of more than four implants in edentulous jaws when adequate stability and prosthetic support can be achieved. The reduced number of implants and the possibility of performing the procedure on an outpatient basis help to lower treatment costs.
+
+The aim of this systematic review was to address the following focused question: in adult patients with edentulous jaws undergoing fixed implant-supported full-arch rehabilitation (P), how does the All-on-Four concept (I) compare with fixed implant-supported prostheses on more than four implants (FDP4+) (C) with respect to implant survival, prosthesis survival, marginal bone loss, and biological and technical complications (O)?
+
+2. Materials and Methods
+
+2.1. Protocol and Reporting Guidelines
+
+This systematic review was conducted in accordance with the recommendations of the PRISMA 2020 Statement. The review protocol was registered in the PROSPERO international prospective register of systematic reviews (registration number CRD420261352454).
+
+Amendments made between the initial registration and the final review methodology: At the start of the review (31 October 2025), the information sources were restricted to MEDLINE/PubMed and EMBASE; additional databases, including Scopus and the Cochrane Library, had been considered in the initial protocol. Although quantitative meta-analysis was initially planned, a narrative synthesis was adopted on 25 March 2026, after full-text screening and data extraction. This amendment was made because substantial clinical and methodological heterogeneity in prosthetic materials, implant loading protocols, follow-up periods, and definitions of technical and biological complications precluded meaningful statistical pooling.
+
+2.2. Eligibility Criteria and Search Terms
+
+The eligibility criteria were defined according to the PICO framework. The population consisted of adult patients (≥18 years) with edentulous jaws undergoing implant-supported full-arch rehabilitation. The search was limited to publications written in English or German and published between January 2000 and January 2026. Both databases were last searched on 17 March 2026. The intervention of interest was the All-on-Four concept, while the comparison included alternative fixed implant-supported rehabilitations, such as All-on-Six or other fixed full-arch implant prostheses.
+
+Studies were considered eligible if they evaluated implant-supported full-arch rehabilitations in edentulous jaws and were designed as clinical studies. Only studies including adult patients with a minimum follow-up period of four years and reporting surgical outcomes, prosthetic outcomes, implant survival rates, or biological and technical complications were included.
+
+Studies involving partial prostheses, removable or hybrid removable prostheses, pediatric populations (<18 years), preclinical or in vitro investigations, conference abstracts, pilot studies, and systematic reviews were excluded.
+
+2.3. Information Sources and Search Strategy
+
+Two independent reviewers performed a systematic literature search in the electronic databases MEDLINE/PubMed and EMBASE (Elsevier). Title and abstract screening and subsequent full-text assessment were carried out independently by two reviewers (B.R.H. and N.W.), who applied the predefined eligibility criteria without knowledge of one another's decisions.
+
+2.4. Selection Process
+
+Following the selection process, twenty studies were included in the final analysis: eleven PIO studies (All-on-Four) and nine PCO studies (alternative concepts). Two studies conducted by La Monaca et al. and Toia et al. compared the All-on-4 concept with All-on-6 rehabilitations.
+
+2.5. Data Extraction
+
+The primary outcomes were defined as implant survival and prosthesis (reconstruction) survival. The secondary outcomes were marginal bone loss, biological complications (e.g., peri-implant mucositis and peri-implantitis), and technical complications (e.g., veneer chipping and prosthetic fracture).
+
+2.6. Risk of Bias Assessment
+
+The methodological quality of the included studies was assessed using the Newcastle–Ottawa Scale, which evaluates non-randomized studies across three domains: selection of study groups, comparability of cohorts, and assessment of outcomes. A maximum of nine stars could be awarded: up to four stars for selection, two for comparability, and three for outcome assessment. Studies scoring 7–9 stars were considered to have a low risk of bias, those with 4–6 stars a moderate risk, and those with 0–3 stars a high risk of bias.
+
+3. Results
+
+3.1. Study Selection
+
+The systematic search identified 27 publications related to the All-on-Four concept (PIO) and 66 publications related to alternative rehabilitation approaches (PCO). After removal of five duplicate records, titles and abstracts were screened for relevance. Consequently, eleven publications addressing the All-on-Four concept and nine publications addressing alternative rehabilitation approaches were included in the qualitative analysis, for a total of 20 studies.
+
+3.2. Study Characteristics
+
+The included studies investigated different aspects of implant-supported full-arch rehabilitation in edentulous jaws. The risk of bias assessment using the Newcastle–Ottawa Scale demonstrated that the majority of included studies presented a moderate and low risk of bias. The methodological quality of the included studies can be considered low-moderate.
+
+3.3. Patient: Indications and Contraindication for All-on-Four
+
+The indication for All-on-Four treatment in the included studies was primarily the rehabilitation of completely edentulous maxillae and/or mandibles in patients seeking a fixed implant-supported prosthetic solution. In addition, several studies included patients presenting with terminal dentition, severe periodontal disease, extensive caries, or advanced bone resorption.
+
+Common contraindications included heavy smoking (>15 cigarettes/day), pregnancy or lactation, poor patient compliance, and insufficient bone volume. Furthermore, patients with metabolic bone diseases, a history of bisphosphonate therapy, or previous radiotherapy or chemotherapy in the head and neck region were frequently excluded.
+
+3.4. Bone: Quantity and Quality
+
+Adequate bone availability was commonly reported as an inclusion criterion, requiring sufficient bone volume and density in the anterior jaw region extending to the first or second premolar area. Specifically, a minimum horizontal bone width of >4 mm and a vertical bone height of >8 mm were considered necessary to achieve proper implant placement and primary stability.
+
+3.5. Surgical Procedure: Implant Insertion and Implant Type
+
+Several studies reported immediate implant placement in All-on-Four rehabilitations, with five-year implant survival rates ranging from 94.5% to 99.6% and ten-year survival rates between 89.7% and 97.9%. Alternative fixed implant-supported prostheses with more than four implants (FDP4+) placed using delayed implantation protocols showed five-year survival rates ranging from 89.7% to 95.1%. FDP4+ rehabilitations with immediate loading reported implant survival rates of 98.9–99.0%.
+
+Most included studies investigating the All-on-Four concept applied immediate loading protocols. Five-year implant survival rates associated with immediate loading ranged from 94.5% to 99.6%.
+
+Distal implants in All-on-Four rehabilitations were most frequently positioned in the second premolar region, with insertion angles ranging from 30° to 45°. No significant differences were reported between axial and tilted implants regarding implant survival rates or marginal bone loss (MBL).
+
+Most studies investigating the All-on-Four concept reported implant placement with a minimum insertion torque of 30 Ncm, whereas two studies reported a minimum insertion torque of 35 Ncm.
+
+Two long-term studies reported lower survival rates for restorations supported by four implants (90% after 25 years) compared with restorations supported by five or six implants, which showed survival rates of 98.9% after 20 years.
+
+3.6. Prosthetic Procedure
+
+Prosthesis survival for the All-on-Four concepts (85.0–100%) and FDP4+ restorations (88.2–100%) was comparable over similar follow-up periods. The most commonly fabricated temporary prostheses are made from PMMA. These prostheses exhibited a wide range of mechanical complications, ranging from 9.1% to 81.9%.
+
+Most definitive prostheses were fabricated with a titanium framework and PMMA veneering. These metal–PMMA prostheses exhibited fracture rates ranging from 7.3% to 36.7% over a seven- to eleven-year follow-up period.
+
+Several studies reported metal–ceramic prostheses, which exhibited lower fracture rates compared to metal–PMMA restorations (7.27–18.20%). Metal–zirconia prostheses demonstrated fracture rates ranging from 5.36% to 29.7%.
+
+3.7. Biological Complications
+
+Marginal bone loss (MBL) generally remained within clinically acceptable ranges for both All-on-Four and FDP4+. In the All-on-Four group, reported MBL values after five years ranged from approximately 1.18 mm to 1.9 mm, while studies with follow-up periods exceeding seven years demonstrated MBL values between 1.3 mm and 2.5 mm and 1.67 mm to 1.98 mm after ten years. Studies evaluating FDP4+ demonstrated comparable biological outcomes, with MBL values generally ranging between 1.18 mm to 1.60 mm after five years, and up to 2.9 mm in some comparators. Long-term data by Maló et al. demonstrated an MBL of 2.23 mm after 15 years for the All-on-Four concept.
+
+In three studies, marginal bone loss was nearly the same for axial implants (1.0 mm to 1.34 mm after five years) compared to angulated implants (1.10 mm to 1.27 mm after five years).
+
+Peri-implant diseases, including peri-implant mucositis and peri-implantitis, represent relevant biological complications. The highest number of implant infections was reported by Maló et al. (2019) with 203 cases among 1072 patients.
+
+4. Discussion
+
+4.1. Patient Indications and Contraindications
+
+Fixed implant-supported prostheses may provide improved patient-reported satisfaction and oral health-related quality of life compared with removable prostheses in appropriately selected patients. One of the principal indications for the All-on-Four concept is the presence of insufficient posterior bone volume that would otherwise require extensive augmentation procedures.
+
+Systemic conditions substantially influence implant treatment outcomes. Patients with previous head and neck radiotherapy, bone metastases, or high-dose antiresorptive therapy are associated with an increased risk of osteoradionecrosis or medication-related osteonecrosis of the jaw.
+
+Periodontitis, uncontrolled diabetes (OR 1.65), smoking (OR 1.65–3.03), and bruxism (OR 2.71–8.70) have consistently been associated with increased risks of implant failure as well as biological and technical complications.
+
+4.2. Bone Quantity and Quality
+
+Bone quantity appears to be an important determinant of long-term treatment outcomes. Maló et al. demonstrated that greater residual alveolar bone volume was associated with improved implant survival and fewer mechanical complications. After five years, the highest implant survival rate (92.47%) was observed in patients with bone extending to the first premolar region, while bone extending to the second premolar significantly reduced the risk of mechanical complications (OR 0.22).
+
+4.3. Surgical Procedure
+
+One of the principal advantages of the All-on-Four concept is the possibility of immediate implant placement and immediate loading. Tealdo et al. reported no significant difference in implant survival between immediately loaded prostheses (93.9%) and conventionally loaded prostheses (95.9%).
+
+Primary stability represents a prerequisite for immediate loading. According to the AWMF S3 guideline, an insertion torque between 30 and 50 Ncm is recommended before immediate loading is considered.
+
+4.4. Prosthetic Procedure
+
+Material selection plays a decisive role in long-term prosthesis performance. Patients with bruxism demonstrate a significantly increased risk of prosthetic complications, particularly fractures, with reported odds ratios up to 8.7.
+
+Maló et al. compared ceramic veneering with zirconia-based crowns and reported fewer complications in the zirconia group. In the ceramic crown group, the presence of a metal–ceramic implant-supported prosthesis in the opposing arch was identified as a significant risk factor for mechanical complications (OR = 2.04) and crown chipping (OR = 1.97).
+
+A staged approach involving a PMMA provisional prosthesis followed by a zirconia–ceramic definitive restoration may represent a clinically reliable treatment strategy.
+
+4.5. Biological Complications
+
+Marginal bone loss (MBL) is an important surrogate outcome parameter in implant dentistry. Comparative studies by Toia et al. and La Monaca et al. evaluating the All-on-Four and All-on-Six concepts reported slightly higher MBL values for the All-on-Four approach after five years (0.24 mm and 1.56 mm, respectively) compared with the All-on-Six concept (0.15 mm and 1.20 mm). Both studies failed to demonstrate statistically significant differences between treatment concepts.
+
+Tilted implants represent another characteristic feature of the All-on-Four concept. Several studies demonstrated comparable MBL values between tilted and axially placed implants after five and ten years, respectively.
+
+4.6. Supportive Maintenance and Recall
+
+Current clinical guidelines recommend individualized recall intervals based on patient-specific risk factors, prosthetic design, and oral hygiene capabilities. According to the AWMF S3 guidelines, recall intervals of three to twelve months may be considered for patients with fixed implant-supported prostheses.
+
+4.7. Risk of Bias
+
+The methodological quality of the included studies was assessed using the Newcastle–Ottawa Scale and was predominantly classified as moderate. Future investigations should focus on standardized outcome reporting, prospective controlled study designs, and long-term follow-up to improve comparability and strengthen the evidence base.
+
+5. Conclusions
+
+Current evidence indicates that the All-on-Four concept represents a clinically established treatment option for carefully selected patients with severe posterior alveolar resorption who seek fixed implant-supported rehabilitation while avoiding extensive augmentation procedures. Implant survival and prosthetic outcomes appear comparable to alternative full-arch rehabilitation concepts; however, outcomes are strongly influenced by patient-related risk factors, anatomical conditions, implant stability, and prosthetic design.
+
+Immediate placement and loading protocols may provide favourable outcomes when adequate primary stability and appropriate patient selection are achieved. Nevertheless, the current evidence remains limited by the predominance of observational studies, heterogeneous treatment protocols, and inconsistent outcome reporting.
+
+Within the limitations of the available literature, the All-on-Four concept can be considered a valid treatment option for selected patients with advanced alveolar atrophy, provided that individualized risk assessment, appropriate surgical planning, and long-term maintenance are ensured.
