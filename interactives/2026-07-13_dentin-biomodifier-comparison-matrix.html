@@ -2,10 +2,11 @@
 ---
 title: "Dentin Biomodifier 20종 비교 매트릭스"
 type: interactive
-date: 2026-07-13
+date: 2026-10-06
 status: done
 category: resto
 agenda: agenda/2026-07-13_dentin-biomodifier-comparison-matrix.md
+updated: 2026-10-06  # resin-dentin overview 업데이트 반영 — Souza 2026(EWBT 6yr RCT: EB 48.7% 실패 → EWBT 임상 금기), Forville 2026(Air Abrasion 18mo RCT: 임상 이점 없음), Bourgi 2026(CHX 임상 null), Liao 2026(crosslinker SR+MA 63편)
 source_wiki:
   - wiki/resin-bonding/el-alaoui-2026-dentin-biomodification-resin-composite-umbrella.md
   - wiki/overviews/resin-dentin-bond-durability-degradation-overview.md
@@ -94,8 +95,9 @@ tags: [resin-bonding, dentin-biomodification, comparison-matrix]
 
 <div class="bottom-line">
   <b>Bottom line:</b> 천연 agent는 전부 <b>무해하거나 이로움</b>(포도씨추출물·chitosan·리보플라빈이 장기 결합강도 개선)이나 임상 승인 전 단계.
-  물리적 agent 중 <b>scrubbing·air abrasion만 오늘 chairside 적용 가능</b>하고 NTAP는 가장 강력하지만 장비 제한.
-  화학적 agent는 대부분 해로움 — 특히 <b>NaOCl·HOCl은 상아질 전처치로 권장되지 않음</b>. 에탄올 습윤접착만 예외적으로 유리.
+  물리적 agent 중 <b>scrubbing만 오늘 chairside 권장</b>; Air Abrasion은 in-vitro 이점이 임상 RCT(Forville 2026, 18mo)에서 전이되지 않아 일상 추가 비권장.
+  화학적 agent는 대부분 해로움 — <b>NaOCl·HOCl은 상아질 전처치로 권장 안 됨</b>.
+  ★ <b>에탄올 습윤접착(EWBT) 임상 금기로 등급 하향 (Souza 2026, 6년 RCT)</b>: 소수성 본드 단독 병용 시 6년 유지율 48.7%(대조 88.9% 대비 log-rank p=0.008), 친수성 접착제 병용도 77–81%로 이점 없음 — 일상 NCCL 접착에 EWBT 추가 금지, 프라이머 없는 소수성 본드 단독 사용 금지.
 </div>
 
 <div class="caveat">
@@ -194,11 +196,11 @@ tags: [resin-bonding, dentin-biomodification, comparison-matrix]
       <td class="ready">✅ chairside 가능</td>
       <td class="note">즉시·중기 모두 유의 개선, 별도 장비 불필요 — 오늘 적용 가능한 2대 물리 기법 중 하나</td>
     </tr>
-    <tr data-cat="physical" data-ready="ready">
+    <tr data-cat="physical" data-ready="investigational">
       <td><b>Air Abrasion</b></td><td><span class="tag physical">물리</span></td>
       <td><span class="eff mix">◆ 불확실</span></td><td><span class="eff nodata">—</span></td><td><span class="eff nodata">—</span></td>
-      <td class="ready">✅ chairside 가능</td>
-      <td class="note">SMD −0.75이나 95%CI가 0을 포함(−1.79~0.29, I²92%) — 효과크기는 불확실하나 저렴·상용 장비로 적용 가능</td>
+      <td class="ready">⚠ 일상 추가 비권장</td>
+      <td class="note">In-vitro SMD −0.75이나 95%CI 0 포함(−1.79~0.29, I²92%). ★ Forville 2026 18mo RCT(경화 상아질 NCCL): 유지율 90.3% vs 대조 96.7%, HR=3.03(해로운 방향, ns, 검정력 부족) — in-vitro 우위가 임상으로 전이되지 않음. 일상 전처치로 추가 비권장.</td>
     </tr>
     <tr data-cat="physical" data-ready="investigational">
       <td><b>LASER (Er:YAG / Er,Cr:YSGG)</b></td><td><span class="tag physical">물리</span></td>
@@ -236,11 +238,11 @@ tags: [resin-bonding, dentin-biomodification, comparison-matrix]
       <td class="ready">⚠ 접착방식 의존적</td>
       <td class="note">etch-and-rinse는 장기 안정성 개선(용량비의존), self-etch는 논란; 천연 추출물 침투 용매로도 활용 가능</td>
     </tr>
-    <tr data-cat="chemical" data-ready="ready">
+    <tr data-cat="chemical" data-ready="not-recommended">
       <td><b>Ethanol Wet Bonding</b></td><td><span class="tag chemical">화학</span></td>
-      <td><span class="eff pos">▲ 개선</span></td><td><span class="eff nodata">—</span></td><td><span class="eff nodata">—</span></td>
-      <td class="ready">✅ chairside 가능</td>
-      <td class="note">즉시 SMD −1.41(저이질성) — 특수 장비 불필요, 기존 임상 술식으로 이미 적용 중</td>
+      <td><span class="eff pos">▲ 개선</span></td><td><span class="eff nodata">—</span></td><td><span class="eff neg">▼ 저하</span></td>
+      <td class="ready">⛔ 임상 금기 (Souza 2026)</td>
+      <td class="note">In-vitro 즉시 SMD −1.41(저이질성) 이점 있으나, <b>6년 RCT(Souza 2026, NCCL 148개)</b>: 소수성 본드 단독 병용(EB군) 6년 유지율 <b>48.7%</b> — 대조(88.9%) 대비 log-rank p=0.008, 6개월부터 열등. 친수성 접착제 병용군도 77.8–81.1% vs 88.9% 이점 없음. <b>일상 NCCL 접착에 EWBT 추가 금지, 프라이머 없는 소수성 본드 단독 사용 절대 금지.</b></td>
     </tr>
     <tr data-cat="chemical" data-ready="not-recommended">
       <td><b>Hypochlorous Acid (HOCl)</b></td><td><span class="tag chemical">화학</span></td>
@@ -266,7 +268,8 @@ tags: [resin-bonding, dentin-biomodification, comparison-matrix]
 <div class="foot">
   근거: <code>wiki/resin-bonding/el-alaoui-2026-dentin-biomodification-resin-composite-umbrella.md</code> (El Alaoui 2026, umbrella review, PROSPERO CRD42024588804)
   및 <code>wiki/overviews/resin-dentin-bond-durability-degradation-overview.md</code> §7.
-  이 표는 in vitro 근거의 chairside 빠른 조회용 요약이며, 임상 적용 전 각 agent의 규제 승인 상태를 반드시 확인할 것. 임상 판단을 대체하지 않음.
+  ★ 2026-10-06 갱신: Souza 2026(EWBT 6yr RCT) · Forville 2026(Air Abrasion 18mo RCT) · Bourgi 2026(CHX 임상 null) · Liao 2026(crosslinker SR+MA) 반영 — 기존 in-vitro 우위가 임상에서 전이 실패한 agent 등급 하향.
+  이 표는 in vitro 근거 기반 chairside 빠른 조회용 요약이며, 임상 적용 전 각 agent의 규제 승인 상태를 반드시 확인할 것. 임상 판단을 대체하지 않음.
 </div>
 
 </div>
