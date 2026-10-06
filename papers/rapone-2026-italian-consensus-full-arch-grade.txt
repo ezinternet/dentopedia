@@ -1,0 +1,126 @@
+Source: PubMed Central PMC13207077 / PMID 42194656
+DOI: 10.3390/jcm15103695
+Retrieved via PubMed MCP get_full_text_article
+
+1. Introduction
+
+Full-arch implant-supported rehabilitations are widely adopted for the management of complete edentulism and are associated with improvements in oral function and patient-reported outcomes when compared with conventional removable prostheses. Over the last decades, clinical protocols have progressively shifted toward simplified, standardized approaches that aim to reduce surgical morbidity and overall treatment time while maintaining long-term predictability. Within this context, the All-on-4 concept has been extensively disseminated as a clinically relevant protocol, and long-term observational data have been reported for full-arch immediate-function rehabilitations. Despite broad clinical adoption, evidence supporting full-arch rehabilitation strategies remains heterogeneous, and several decision points continue to generate variability across clinicians and centers. These include the optimal number of implants (particularly in complete-arch fixed prostheses), the selection of axial versus tilted implant configurations, and the appropriate indications for adjunctive surgical procedures in compromised sites. Recent systematic evidence suggests that, in the maxilla, four- versus six-implant designs may show comparable survival outcomes, although differences in marginal bone loss have been reported across groups and study designs. Comparable findings have also emerged for mandibular full-arch rehabilitations, as detailed in Statement 3. Similarly, the use of tilted posterior implants to avoid anatomical structures and reduce cantilevers remains a key topic. A recent umbrella review with meta-analysis reported no significant differences in implant failure between tilted and axial implants supporting full-arch prostheses, while small but statistically significant differences in marginal bone loss may emerge at longer follow-up intervals in some datasets. From a prosthetic standpoint, material selection has become increasingly central to long-term outcomes. Updated evidence indicates that full-arch implant-supported monolithic zirconia prostheses exhibit high short-term success in systematic reviews. Recent clinical data on monolithic zirconia full-arch prostheses also report high survival over mid-term follow-up, supporting their use while underscoring the relevance of technical complication profiles and design parameters. In parallel, biological complications—particularly peri-implant diseases—represent a major determinant of long-term success and are strongly influenced by preventive strategies and supportive care. Contemporary guideline and consensus documents emphasize structured, risk-informed supportive peri-implant care as a cornerstone of prevention and management. Observational evidence in patients not enrolled in regular supportive therapy reports clinically relevant peri-implantitis prevalence ranges and identifies patient- and site-related risk indicators, reinforcing the need for maintenance protocols tailored to individual risk profiles. Therefore, the present consensus statement was developed to provide structured, evidence-based recommendations for full-arch implant rehabilitations, addressing key surgical, prosthetic, and maintenance-related decisions. Recommendations were formulated through a formal consensus methodology and supported by systematic evidence appraisal according to AGREE II principles and the GRADE framework for certainty of evidence and strength of recommendations.
+
+2. Materials and Methods
+
+2.1. Consensus Panel Composition
+
+The expert panel was established according to predefined eligibility criteria to ensure appropriate clinical expertise, scientific competence, and methodological balance. The final panel consisted of 29 experts, including 20 implant surgeons/prosthodontists, 4 academic researchers, 1 dental hygienist with expertise in periodontal medicine, and 5 dental technicians, reflecting a multidisciplinary approach encompassing surgical, prosthetic, and preventive perspectives.
+
+2.2. Literature Search and GRADE Assessment
+
+A comprehensive literature review was conducted to identify the most relevant evidence on full-arch implant-supported rehabilitations. Electronic databases including PubMed/MEDLINE, Cochrane Central Register of Controlled Trials (CENTRAL), Embase, and Scopus were screened for studies published between January 2015 and January 2026. Priority was given to systematic reviews with meta-analysis, randomized controlled trials, and high-quality prospective cohort studies. The certainty of evidence was evaluated using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) framework, categorizing evidence as High, Moderate, Low, or Very Low. The strength of recommendations was classified as Strong or Conditional.
+
+2.3. Consensus Process
+
+Consensus development was conducted using a modified Delphi methodology, structured into three iterative voting rounds. The Consensus Conference titled "Digital Full-Arch State of the Art: Clinical Consensus" was held on 7–8 February 2026, in Falcade (Belluno, Italy). All 29 panel members participated in each voting round (100% response rate). Agreement was quantified using a 9-point Likert scale. Consensus was predefined as ≥90% of participants scoring each statement within the 7–9 range.
+
+Statement 1: Periodontal Risk Assessment
+
+Validated risk assessment systems include PRA, 2017/2018 Staging and Grading framework, and IDRA.
+Certainty of Evidence: High. Strength of Recommendation: Strong. Consensus Agreement: 96%.
+
+Rationale: Patients with a history of periodontitis present an approximately 4-fold increased risk of peri-implantitis (RR = 4.09; 95% CI: 1.93–8.58). In a 20-year prospective cohort study, Roccuzzo et al. reported an overall implant survival rate of 93%, with non-compliant patients exhibiting a markedly higher risk of implant loss (OR = 14.59; 95% CI: 1.30–164.29).
+
+Operational Criteria for Periodontal Stability:
+- In partially edentulous candidates: FMBS < 15%; FMPS < 20%; absence of residual sites with PD ≥ 5 mm with BoP; no radiographic progression of alveolar bone loss.
+- In fully edentulous candidates: biological readiness concept — smoking cessation or ≤10 cigarettes/day, HbA1c < 7.5%, assessment of mucosal phenotype.
+- Tools: PRA model, 2017/2018 Staging and Grading (Grade C = progression-prone phenotype), IDRA (8 weighted vectors, validated at 5-year follow-up).
+
+3. Results
+
+3.1. Statement 2: Guided Bone Regeneration
+
+Implants placed in sites treated with GBR may achieve survival outcomes comparable to those placed in native bone, although augmentation procedures are associated with increased surgical complexity and risk of post-operative complications. GBR should be performed only when prosthetically driven implant placement cannot be achieved in pristine bone and requires strict adherence to regenerative principles.
+
+Certainty of Evidence: Moderate. Strength of Recommendation: Strong. Consensus Agreement: 90%.
+
+Note: Strong recommendation despite moderate certainty based on consistency of findings, clear benefit-harm balance, and high clinical relevance of avoiding unnecessary surgical morbidity.
+
+Timing:
+- Simultaneous GBR indicated when insertion torque ≥ 35 Ncm or ISQ ≥ 70, and peri-implant defect ≤ 2 mm without dehiscence beyond apical third.
+- Staged GBR (6-month healing) indicated when horizontal defects exceed 2 mm, when dehiscence would compromise primary stability, or in anatomically complex sites.
+
+3.2. Statement 3: Number of Implants—Mandible
+
+In mandibular full-arch implant-supported rehabilitations, four implants may be sufficient in the majority of standard clinical scenarios, with implant survival outcomes comparable to six-implant configurations. In a large retrospective cohort study (943 patients; 5989 implants; mean follow-up 5.0 ± 3.2 years), mandibular 5-year cumulative implant survival rates were 98.6% for four-implant designs and 99.4% for six-implant designs, with no statistically significant difference (p = 0.136). Placement of six implants may be preferred in patients presenting increased biomechanical or anatomical risk (e.g., severe mandibular ridge atrophy, documented bruxism, high occlusal forces, systemic conditions potentially affecting healing).
+
+Certainty of Evidence: High. Strength of Recommendation: Strong. Consensus Agreement: 94%.
+
+Implant geometry for four-implant mandibular design: minimum length 10 mm and minimum diameter 4 mm for terminal implants. When minimum geometry cannot be achieved, six-implant configuration is biomechanically preferable.
+
+3.3. Statement 4: Tilted vs. Axial Implants
+
+In full-arch implant-supported rehabilitations, tilted posterior implants (30–45°) should be considered an acceptable alternative to axial implants, demonstrating equivalent clinical outcomes, with no clinically relevant differences in short-term marginal bone loss (MD = 0.00 mm; 95% CI −0.01 to 0.02; p = 0.75), although small differences may emerge at longer follow-up.
+
+Certainty of Evidence: High. Strength of Recommendation: Strong. Consensus Agreement: 94%.
+
+Computer-aided implant surgery (CAIS):
+- Static CAIS: mean linear deviation 1.11 mm coronal, 1.40 mm apical, 3.51° angular.
+- Dynamic CAIS (navigation): comparable accuracy, better intraoperative adaptability.
+- Robotic CAIS: lowest deviations (~0.6 mm coronal, 0.7 mm apical, 1.6° angular), still evolving.
+
+Implant-abutment connection: conical connections (Morse-taper/platform-switched) preferred — mean MBL at 2–5yr: 1.03 mm external hex, 0.73 mm flat-to-flat, 0.45 mm narrow-cone (<45°).
+
+Cantilever design: distal cantilever should not exceed 1.5× anteroposterior spread; maximum 15 mm mandible, 10 mm maxilla. Absolute contraindications include definite bruxism with natural antagonist, prosthetic vertical dimension <10 mm with zirconia, A-P spread <5 mm.
+
+3.4. Statement 5: Prosthetic Materials
+
+For full-arch implant-supported fixed rehabilitations, zirconia-based frameworks—particularly monolithic zirconia—show high prosthesis survival and low rates of major technical complications. Narrative review: average prosthesis survival 97.23% over mean follow-up of 49.7 months, average complication rate 2.25%. Veneered zirconia chipping rates: 15–54%.
+
+Certainty of Evidence: High. Strength of Recommendation: Strong. Consensus Agreement: 91%.
+
+Bruxism assessment: three-tier system (possible/probable/definite). Bruxism OR for implant failure = 2.189 (95% CI 1.337–3.583; p = 0.002) from meta-analysis of 27 studies, 12,369 implants. In definite bruxism: monolithic zirconia preferred, avoid/limit cantilevers, prefer six implants, use conical connections, hard occlusal splint, 3-month maintenance recall.
+
+3.5. Statement 6: Maintenance Protocols
+
+Systematic supportive maintenance programs are essential. Meta-analytic evidence: approximately 75% risk reduction in peri-implantitis in patients enrolled in structured maintenance protocols. Risk-based recall intervals: low-risk = 6 months; moderate-risk = 4 months; high-risk = 3 months. Non-compliant patients: OR = 14.59 for implant loss (Roccuzzo et al., 20-year follow-up).
+
+Certainty of Evidence: High. Strength of Recommendation: Strong. Consensus Agreement: 98%.
+
+Each visit: peri-implant probing at 6 sites/implant, bleeding on probing, full-mouth plaque score, professional biofilm removal, home care reinforcement, occlusal screening. Radiographs: annually (low-risk), every 12–18 months (moderate-risk), every 6–12 months (high-risk).
+
+Intervention thresholds: PD ≥ 5 mm with BoP → non-surgical debridement + antiseptic + 2-month re-evaluation. Persistence or PD ≥ 6 mm → adjunctive antimicrobials + surgical referral. Radiographic MBL ≥ 2 mm → surgical re-evaluation.
+
+3.6. Statement 7: Systemic Risk Stratification
+
+Full-arch implant rehabilitation must be preceded by structured systemic risk stratification. Absolute and relative contraindications, perioperative antibiotic prophylaxis, and the specific risk of MRONJ must be systematically assessed and documented.
+
+Certainty of Evidence: Moderate. Strength of Recommendation: Strong. Consensus Agreement: 94%.
+
+Absolute contraindications: active/untreated malignancy of oral/maxillofacial region; high-dose head and neck radiotherapy (>50–60 Gy); ongoing HD-BMA therapy for bone metastases without feasible drug holiday; acute severe immunosuppression (ANC < 1000/mm³, active chemotherapy, transplant within 6 months); uncontrolled bleeding disorders; severe uncontrolled mental health conditions.
+
+Relative contraindications: HbA1c ≥ 7.5%; heavy smoking >10 cigarettes/day; history of HN radiotherapy at lower doses or >12 months post-completion; LD-BMA therapy for osteoporosis; antiangiogenic therapy; active autoimmune disease; chronic corticosteroids (prednisone-equivalent ≥10 mg/day ≥3 months); Sjögren syndrome/severe xerostomia. Advanced age alone is NOT a contraindication.
+
+MRONJ risk (Italian SIPMO-SICMF stratification):
+- HD-BMA R0 (therapy planned not started): complete dental treatment before BMA initiation.
+- HD-BMA R+ and R++: elective full-arch implant placement generally contraindicated.
+- LD-BMA Rx (osteoporosis): feasible with multidisciplinary consultation, elimination of local infectious risk factors, informed consent.
+
+Antibiotic prophylaxis (IAO 2021 framework):
+- Pre-op chlorhexidine 0.20% mouthwash 60 s within 2 hours of surgery.
+- Single pre-op amoxicillin 2–3 g orally 1 hour before (or clindamycin 600 mg in penicillin allergy).
+- Post-op amoxicillin 1 g every 12 h for up to 6 days only when simultaneous GBR/sinus elevation/extensive grafting.
+- Post-op chlorhexidine 0.20% twice daily for 14 days in all cases.
+
+4. Discussion
+
+Key methodological strengths: multidisciplinary panel (29 experts), 100% participation rate, ≥90% consensus threshold, transparent GRADE assessment. High agreement across all statements (90–98%). Aligns with EFP S3 guideline, 2017 World Workshop, ITI 6th Consensus Conference, AO/AAP 2025 Consensus.
+
+Limitations: evidence heterogeneity precluded formal meta-analysis for some questions; predominantly Italian panel (generalizability); short- to mid-term evidence for prosthetic materials (Statement 5); PROMs not addressed; cost-effectiveness beyond scope; limited evidence in systemically compromised patients.
+
+5. Conclusions
+
+Seven evidence-based consensus statements for full-arch implant rehabilitation:
+1. Individualized periodontal risk assessment using validated tools (PRA, Staging/Grading, IDRA).
+2. Four mandibular implants provide equivalent outcomes to six-implant configurations (5yr survival 98.6% vs 99.4%, p=0.136).
+3. GBR achieves predictable outcomes with technique-specific indications.
+4. Tilted and axial implants demonstrate equivalent performance (MBL MD=0.00 mm).
+5. Monolithic zirconia is the material of choice (97.23% survival, 2.25% complication rate).
+6. Risk-stratified maintenance intervals reduce peri-implantitis by approximately 75%.
+7. Systemic risk stratification mandatory: absolute/relative contraindications, MRONJ, antibiotic prophylaxis.
