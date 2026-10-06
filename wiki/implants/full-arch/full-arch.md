@@ -15,26 +15,27 @@ tags: [navigation, category-index, full-arch]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·전악수복
 > - **범위**: Full-arch / edentulous-jaw implant rehabilitation — All-on-4/-6, tilted vs axial distal implants, immediate full-arch loading & flapless full-arch, implant overdentures (single/two-implant, CAD-CAM bar), framework & load-direction FEA, severely atrophic-jaw solutions (zygomatic, customized subperios…
-> - **수록 논문**: 39편
+> - **수록 논문**: 40편
 
 ## Three-line Summary
 
 **Scope**: Full-arch / edentulous-jaw implant rehabilitation — All-on-4/-6, tilted vs axial distal implants, immediate full-arch loading & flapless full-arch, implant overdentures (single/two-implant, CAD-CAM bar), framework & load-direction FEA, severely atrophic-jaw solutions (zygomatic, customized subperiosteal).
-**Indexed papers**: 39 papers in `wiki/implants/full-arch/`.
+**Indexed papers**: 40 papers in `wiki/implants/full-arch/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·전악수복
-**수록 논문**: 39편
+**수록 논문**: 40편
 **하위 카테고리**: 없음
 
-## Papers in this Category (39)
+## Papers in this Category (40)
 
 | Paper |
 |---|
 | [[abdunabi-2019-immediately-loaded-maxillary-full-arch-sr|Impact of immediately loaded implant-supported maxillary full-arch dental prostheses: a systematic review]] |
 | [[acar-2026-full-arch-bruxism-complications-4-10yr|Long-term outcomes and complications of full-arch implant-supported fixed prostheses: a 4–10 year retrospective study]] |
 | [[alshahrani-2026-full-arch-monolithic-zirconia-prostheses-5year-retrospective|5-Year Survival and Failure Patterns of Full-Arch Monolithic Zirconia CAFIPs: 3300 Laboratory Cases]] |
+| [[alshahrani-2026-zirconia-full-arch-3300-5yr|Five-year survival and failure patterns of complete arch fixed implant-supported monolithic zirconia prostheses: A retrospective analysis of 3300 laboratory cases]] |
 | [[baki-2025-all-on-4-trefoil-five-implant-fea|Biomechanical evaluation of three full-arch immediate loading protocols in the mandible via finite element analysis: All-on-4, Trefoil, and Five-implant design]] |
 | [[bilgi-ozyetim-2025-biomechanical-comparison-implant-inclinations|Biomechanical comparison of various implant inclinations and abutment types in a bendable implant system]] |
 | [[bishti-2026-veneering-design-full-arch-sr|Systematic Review Evaluating the Influence of Veneering Design on the Clinical Outcome of All-Ceramic Implant-Supported 3-4 Units and Full Arch Fixed Dental Prostheses]] |
