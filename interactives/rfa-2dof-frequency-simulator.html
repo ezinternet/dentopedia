@@ -2,7 +2,8 @@
 ---
 title: "RFA 2-DOF 시뮬레이터 — 강성·공진주파수·미세변위"
 type: interactive
-date: 2026-08-18
+date: 2026-10-06
+updated: 2026-10-06  # guler-2013: 208 Straumann implants, 후방상악 최저, 직경 4.8mm 유의 높음, SLActive 일시 우위 후 동등
 status: done
 agenda: agenda/2026-08-18_rfa-2dof-frequency-simulator.md
 category: implant-stability
@@ -215,7 +216,9 @@ canvas { display: block; width: 100%; height: auto; border-radius: 6px; }
 
   <div class="footer">
     <strong>이론 시뮬레이션</strong> — Bhandarkar 2023의 2-DOF 수학 모델(FEA 도출 k·c, 5–15 kHz MATLAB FFT)을 단순화한 개념 시각화입니다.
-    ISQ 추정값은 Debruyne 2017 측정 범위(~5.0–8.6 kHz = 대략 ISQ 40–85)를 선형 매핑한 근사값입니다.
+    ISQ 추정값은 Debruyne 2017 측정 범위(~5.0–8.6 kHz = 대략 ISQ 40–85)를 선형 매핑한 근사값입니다.<br>
+    <strong>[신규 근거 2026-09-22]</strong> Güler 2013 (전향, 208 Straumann SLA/SLActive): 치유기 ISQ 상승 확인;
+    <strong>후방 상악 ISQ 최저</strong>, 직경 4.8mm &gt; 3.3mm (유의), SLActive 초기 일시적 우위 후 SLA와 동등 — 강성·주파수 모두 부위·직경에 지배됨을 임상 데이터로 재확인.
     임상 수치로 직접 사용하지 마세요.
   </div>
 </div>
