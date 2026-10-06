@@ -2,7 +2,8 @@
 ---
 title: "ISQ·RFA 통합 시뮬레이터 v1 — 측정 → 궤적 → 부하결정"
 type: interactive
-date: 2026-06-02
+date: 2026-10-06
+updated: 2026-10-06  # stoilov-2023 부분 supersede (테이퍼 우위 D4 폐기, ISQ축 유효); novellino-2017 표면처리 속도 추가
 status: done
 category: implant-stability
 agenda: agenda/2026-06-02_isq-rfa-simulation.md
@@ -34,6 +35,9 @@ notes: |
     - Bavetta 2024 (prosp, 80 임플란트): Osstell≡Osseo (r>0.95, 계통오차 없음) / D1-D2 ≫ D3-D4 전구간
         ※ 구버전 계산기의 "Osseo -3 보정"은 원문에 없는 가정 → 제거함
     - Stoilov 2023 (in-vitro PU foam): 직경>길이, tapered>parallel 모든 밀도
+      ※ 2026-10-03 부분 폐기: 테이퍼 일관 우위는 stoilov-2025(동 저자·동 모델)에서 D4에서 "minor role"로 반전;
+        D1에서는 overpreparation이 올바른 방향. 단 ISQ 측정 축·직경>길이 결론은 여전히 유효(2025 후속은 IT만 측정).
+    - Novellino 2017 (RCT n=64, 상악 구치부): 친수성 SAE 임플란트가 ISQ ≥70 도달 속도 2.24× 빠름 (wiki isq-loading-threshold §2.4)
     - Konuklu 2026 (RCT n=100): 식립 baseline ISQ>80, IT>30Ncm; 300rpm T4 최고
     - Bergamo 2021 (dip 3주 최저 / 6주 회복). DOI 10.1111/cid.13007
   비의료기기 · 교육/의사결정 보조 · 최종판단 원장.
@@ -192,12 +196,14 @@ notes: |
   <div class="evid">
     Bavetta 2024 [<span class="tag consensus">합의수준</span>]: D1–D2가 전 시점 D3–D4보다 유의하게 높은 ISQ, 양 군 점진 상승. ·
     Bergamo 2021 [<span class="tag consensus">합의수준</span>]: 1·2차 안정성 전환기 ISQ는 약 3주 최저 → 6주 회복(연질골일수록 dip 깊고 회복 지연). ·
+    Stoilov 2023 [<span class="tag">in-vitro</span>]: 직경>길이(ISQ 축); <b>테이퍼 일관 우위는 D4에서 폐기됨</b>(stoilov-2025 동저자 후속). ISQ 축·직경>길이 결론은 여전히 유효. ·
+    Novellino 2017 [<span class="tag">RCT n=64</span>]: 친수성 SAE 표면이 ISQ ≥70 도달 속도 <b>2.24×</b> 빠름 — 표면처리는 임계값을 낮추는 것이 아니라 도달 속도를 가속함. ·
     곡선 절댓값은 wiki 추세를 반영한 보간치 [<span class="tag claude">claude해석</span>].
   </div>
 </div>
 
 <div class="footer">
-  통합 시뮬레이터 v1 · 2026-06-02 · 단일 HTML / 오프라인 · 비의료기기 교육·의사결정 보조 도구 · 최종 판단은 원장
+  통합 시뮬레이터 v1 · 2026-06-02 (갱신 2026-10-06) · 단일 HTML / 오프라인 · 비의료기기 교육·의사결정 보조 도구 · 최종 판단은 원장
 </div>
 
 <script>
