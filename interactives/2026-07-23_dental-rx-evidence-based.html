@@ -2,9 +2,10 @@
 ---
 title: "치과 처방전 Rx-pad (근거기반) — 발치·임플란트·근관"
 type: interactive
-date: 2026-09-14
+date: 2026-10-06
 status: done
 verified: 2026-09-09
+updated: 2026-10-06  # 페니실린 알레르기 대체 ev-note 3탭(Ceccon-Chianca 2026 Azithromycin 내성 24.88%·Salgado-Peralvo 2022) + 발치탭 SCD VOC 주의 ev-note(Hong 2023)
 category: drug
 agenda: agenda/2026-07-22_prescription-master-reference.md
 notes: |
@@ -21,6 +22,7 @@ notes: |
   변경하지 않음 — 다른 축). Maurice-Szamburski 2025 IV NSAID는 경구 Rx-pad 도구 scope
   밖이라 반영 대상 아님 확인.
   verified 2026-09-21: drug-antibiotic-stewardship-overview 2026-09-21 갱신(baker-2026·almadhoon-2026) — 임플란트 Rx-pad 처방 논리(술전 단회 2g) 임상적 무변화 재확인; almadhoon SR+MA 전세계 과처방 61.3% 근거 추가가 이 도구의 처방 기준 강화.
+  updated 2026-10-06: 항생제 스튜어드십 2026-09-30 신규 cluster 반영 — 3개 탭(발치·임플란트·근관) 클린다마이신 행 아래 페니실린 알레르기 대체 ev-note 추가: Salgado-Peralvo 2022(Azithromycin 500mg GRADE C)·Ceccon-Chianca 2026(Azithromycin 내성 24.88%). 발치 탭: SCD 혈관폐쇄 위기(VOC) 주의 ev-note 추가(Hong 2023). frontmatter date → 2026-10-06.
   updated 2026-09-03: wilson-2021-ie-prophylaxis-aha-scientific-statement 2026-09-02 갱신
   반영 — 발치·임플란트·근관 탭 클린다마이신 행(3개소)에 "IE 예방 목적 사용 불가 (Wilson 2021
   AHA)" 경고 추가. 구강내 감염 치료 적응은 계속 유효.
@@ -400,6 +402,12 @@ body{
       <div class="ev-note">
         ℹ 단순발치 · 감염징후 없는 건강 환자: 예방적 항생제 불필요 (항생제 스튜어드십 권고)
       </div>
+      <div class="ev-note" style="border-left-color:#d97706">
+        ⚠ 페니실린 알레르기 대체 (신규 2026): 클린다마이신보다 <b>Azithromycin 500mg 술전 단회</b> 권장 (Salgado-Peralvo 2022 SEI GRADE C). 임플란트에서 클린다마이신 대체군 조기 실패 RR 3.84 (Salgado-Peralvo 2021 SR). ⚠ Azithromycin 내성 <b>in silico 24.88%</b> (Ceccon-Chianca 2026) — QT 연장·내성 동시 고려.
+      </div>
+      <div class="ev-note" style="border-left-color:#dc2626">
+        ⚠ 혈액질환(SCD · 겸상적혈구빈혈) 환자 발치: 혈관폐쇄 위기(VOC) 위험 — 치과 불안 최소화, 충분한 산소화 유지, 시술 전 혈액내과 협진 필수 (Hong 2023 Dent Clin N Am)
+      </div>
     </div>
 
     <div class="cat">
@@ -553,6 +561,9 @@ body{
         </div>
         <div class="dsig">고위험군만</div>
         <div class="dday"><input value="7" type="number" min="1" max="14" onclick="event.stopPropagation()"><span>일</span></div>
+      </div>
+      <div class="ev-note" style="border-left-color:#d97706">
+        ⚠ 페니실린 알레르기 대체 (신규 2026): 클린다마이신보다 <b>Azithromycin 500mg 술전 단회</b> 권장 (Salgado-Peralvo 2022 SEI GRADE C). 클린다마이신 대체 시 임플란트 조기 실패 RR 3.84 (Salgado-Peralvo 2021 SR). ⚠ Azithromycin 내성 <b>in silico 24.88%</b> (Ceccon-Chianca 2026) — QT 연장·내성 동시 고려.
       </div>
     </div>
 
@@ -788,6 +799,9 @@ body{
         </div>
         <div class="dsig">급성감염 시</div>
         <div class="dday"><input value="5" type="number" min="1" max="14" onclick="event.stopPropagation()"><span>일</span></div>
+      </div>
+      <div class="ev-note" style="border-left-color:#d97706">
+        ⚠ 페니실린 알레르기 대체 (신규 2026): 클린다마이신보다 <b>Azithromycin 500mg 술전 단회</b> 권장 (Salgado-Peralvo 2022 SEI GRADE C). ⚠ Azithromycin 내성 <b>in silico 24.88%</b> (Ceccon-Chianca 2026) — QT 연장·내성 동시 고려.
       </div>
     </div>
 
