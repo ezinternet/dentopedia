@@ -2,10 +2,11 @@
 ---
 title: "조기 임플란트 실패 툴킷 — 보철 로딩 전"
 type: interactive
-date: 2026-06-22
+date: 2026-10-06
 status: done
 category: implant-placement
 agenda: agenda/2026-06-22_early-implant-failure-interactives.md
+updated: 2026-10-06  # overview 2026-09-22~30 업데이트 반영 — Masri 2024+Chidiac 2026(항고혈압제 전신인자), Wåhlberg 2025(흡연 비일관성), Yang 2026+Guarnieri 2025(치유방식 교란), Stiller 2024+Shibli 2024(기전 근거)
 source_wiki:
   - wiki/overviews/early-implant-failure-risk-prevention-overview.md
   - wiki/implants/survival/yari-2023-risk-factors-early-implant-failure.md
@@ -13,7 +14,11 @@ source_wiki:
   - wiki/drug/antibiotics/momand-2024-antibiotic-prophylaxis-early-implant-failure.md
   - wiki/implants/survival/fan-2024-smoking-early-implant-failure-sr-ma.md
   - wiki/implants/survival/moy-2005-dental-implant-failure-rates-risk.md
-verified: 2026-07-13
+  - wiki/drug/systemic-disease/masri-2024-early-implant-failure-antihypertensive-medications.md
+  - wiki/drug/systemic-disease/chidiac-2026-antihypertensive-antihyperlipidemic-antidepressant-implant-survival.md
+  - wiki/implants/survival/wahlberg-2025-multicenter-early-implant-failures-part-2-patient.md
+  - wiki/immediate-implant/yang-2026-immediate-dental-implants-insights-into.md
+verified: 2026-10-06
 ---
 -->
 <!-- 검증 메모 (2026-07-13): fan-2024-smoking-early-implant-failure-sr-ma.md가 2026-07-08에 staleness 신호로 잡혔으나,
@@ -113,7 +118,7 @@ verified: 2026-07-13
 <div class="wrap">
   <header>
     <h1>조기 임플란트 실패 툴킷</h1>
-    <p class="sub">보철 로딩 전(EIF) 위험인자·예방 · 근거: Yari 2023 · Uesugi 2024 · Momand 2024 SR+MA · Fan 2024 · Moy 2005 · <a href="/dentopedia/overviews/early-implant-failure-risk-prevention-overview">overview</a></p>
+    <p class="sub">보철 로딩 전(EIF) 위험인자·예방 · 근거: Yari 2023 · Uesugi 2024 · Momand 2024 SR+MA · Fan 2024 · Moy 2005 · Wåhlberg 2025 · Masri 2024 · Chidiac 2026 · Yang 2026 · <a href="/dentopedia/overviews/early-implant-failure-risk-prevention-overview">overview (16편)</a></p>
   </header>
 
   <div class="tabs">
@@ -133,7 +138,7 @@ verified: 2026-07-13
       <div class="band b-low" id="riskBand">기준 위험</div>
       <div style="font-size:.78rem;color:var(--muted);margin-top:8px;">누적 OR ×<span id="orProd">1.00</span> · 기준 EIF ≈3% (코호트 환자 단위)</div>
     </div>
-    <div class="note">OR 출처: Yari 2023 다변량(즉시잠정보철 3.42·후방상악 2.96·4형골 2.88·치주발치 2.53·증대부위 2.24·흡연 1.84). 당뇨·방사선은 Moy 2005 RR(다른 연구·RR≈OR 근사). 실제 인자는 독립 곱셈으로 검증되지 않았으므로 절대 % 아닌 <b>상대적 가중</b>으로만 해석.</div>
+    <div class="note">OR 출처: Yari 2023 다변량(즉시잠정보철 3.42·후방상악 2.96·4형골 2.88·치주발치 2.53·증대부위 2.24·흡연 1.84). 당뇨·방사선은 Moy 2005 RR(RR≈OR 근사). 항고혈압제는 Masri 2024+Chidiac 2026 범위를 대표값 2.0으로 사용. ★ <b>흡연 비일관성 주의</b>: Wåhlberg 2025 다기관 코호트(1,875명)에서 흡연은 조기 <em>실패</em>에 비유의(OR 1.61, 0.88–2.94)이나 조기 <em>합병증</em>에는 유의(OR 2.30). Fan SR+MA(OR 2.59)는 여전히 가장 강한 풀링 근거이나 단독으로 결론 내리기보다 상대 가중으로만 해석. ★ <b>치유 방식</b>: Yang 2026(즉시식립 1,513개)에서 매몰 치유 HR 0.53(보호적)이나 삽입토크 선택 교란 불배제 — 임상 결정의 독립 변수로 사용 주의.</div>
   </div>
 
   <!-- TOOL 2 -->
@@ -177,7 +182,7 @@ verified: 2026-07-13
     <p class="src" style="margin-top:12px;">RR≈OR는 저빈도 결과에서 근사. 흡연은 세 연구에서 일관(보정 후에도 유의). 항생제 예방은 RR 0.66이나 비유의(보호인자 아님).</p>
   </div>
 
-  <footer>LLM Wiki · 교육·임상참고용, 개별 진단 대체 불가 · 2026-06-22</footer>
+  <footer>LLM Wiki · 교육·임상참고용, 개별 진단 대체 불가 · 2026-10-06 (2026-09 항고혈압제·흡연 비일관성·치유방식 추가)</footer>
 </div>
 
 <script>
@@ -196,9 +201,10 @@ const FACTORS=[
   {k:'b4',  l:'4형 골 (저밀도)', s:'Yari OR 2.88', or:2.88},
   {k:'perio',l:'치주문제로 발치한 부위', s:'Yari OR 2.53', or:2.53},
   {k:'aug', l:'기존 골증대 / 이식 부위', s:'Yari OR 2.24', or:2.24},
-  {k:'smoke',l:'흡연', s:'Yari adj 1.84 · Fan pooled 2.59', or:1.84},
+  {k:'smoke',l:'흡연', s:'Yari adj 1.84 · Fan pooled 2.59 (단, Wåhlberg 2025 다기관은 다변량 NS)', or:1.84},
   {k:'dm',  l:'당뇨 (조절 불량)', s:'Moy RR 2.75 (별도 연구)', or:2.75},
   {k:'rad', l:'두경부 방사선 기왕력', s:'Moy RR 2.73 (별도 연구)', or:2.73},
+  {k:'antihtn',l:'항고혈압제 복용 (ACE억제제·ARB·β차단제·CCB)', s:'Masri 2024 HR 1.4–4.4 · Chidiac 2026 OR ~2.0 (신규, 2026-09)', or:2.0},
 ];
 const BASE=0.03, baseOdds=BASE/(1-BASE);
 const fc=document.getElementById('factors');
@@ -274,6 +280,7 @@ const M=[
   ['흡연','OR 2.59','hi','Fan 2024 SR+MA (32편, 59,246 임플란트)'],
   ['흡연 (보정 후)','OR 1.84','md','Yari 2023 다변량'],
   ['흡연 (all-on-four)','OR 2.92','hi','Uesugi 2024 다변량'],
+  ['흡연 — 다기관 코호트','OR 1.61 (NS)','ns','Wåhlberg 2025 n=1,875 — 조기실패 비유의; 조기합병증은 OR 2.30 유의 ★ 비일관성'],
   ['즉시 잠정보철/로딩','OR 3.42','hi','Yari 2023 다변량'],
   ['후방 상악','OR 3.12','hi','Uesugi 2024 (Yari 2.96)'],
   ['4형 골 (저밀도)','OR 2.88','hi','Yari 2023 다변량'],
@@ -281,8 +288,10 @@ const M=[
   ['기존 골증대 부위','OR 2.24','md','Yari 2023 다변량'],
   ['당뇨','RR 2.75','hi','Moy 2005 코호트 (21년)'],
   ['두경부 방사선','RR 2.73','hi','Moy 2005 코호트'],
+  ['항고혈압제 (ACE·ARB·β·CCB)','HR 1.4–4.4','hi','Masri 2024 (신규 2026-09) — 전신인자; Chidiac 2026도 확인'],
   ['항생제 예방 (보호?)','RR 0.66','ns','Momand 2024 SR+MA — 비유의'],
   ['광기능화 (보호?)','OR 0.51','ns','Uesugi 2024 — 비유의 (p=0.25)'],
+  ['매몰 치유 (보호 경향)','HR 0.53','md','Yang 2026 즉시식립(n=1,513) — 삽입토크 교란 불배제, 단독 결정인자로 사용 주의'],
 ];
 document.getElementById('matrix').innerHTML=M.map(([f,v,c,s])=>
   `<tr><td>${f}</td><td><span class="v ${c}">${v}</span></td><td class="src">${s}</td></tr>`).join('');
