@@ -27,6 +27,7 @@ source_wiki:
   - wiki/implants/mbl/verma-2024-comparison-bone-loss-submerged-nonsubmerged.md
   - wiki/implants/survival/troiano-2018-early-late-failure-submerged.md
   - wiki/implants/pirc-2026-one-piece-two-piece-implants-15year-rct.md
+  - wiki/implants/mbl/prati-2026-cover-screw-vs-healing-abutment-rct.md
 relations:
   - type: refines
     target: moustafa-ali-2018-submerged-vs-nonsubmerged-implant
@@ -41,8 +42,9 @@ relations:
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
-> - 7편(SR+MA 2, SR 2[1편은 withdrawn], RCT 1, 후향 코호트 1, 컴퓨터 시뮬레이션 1)을 종합: 식립 프로토콜 선택(침습식 vs 비침습식, 1단계 vs 2단계, 원-피스 vs 투-피스)은 **생존율을 바꾼다는 근거가 없다** — 모든 비교에서 실패 차이 비유의.
+> - 8편(SR+MA 2, SR 2[1편은 withdrawn], RCT 2, 후향 코호트 1, 컴퓨터 시뮬레이션 1)을 종합: 식립 프로토콜 선택(침습식 vs 비침습식, 1단계 vs 2단계, 원-피스 vs 투-피스)은 **생존율을 바꾼다는 근거가 없다** — 모든 비교에서 실패 차이 비유의.
 > - 침습식(Submerged) vs 비침습식(Nonsubmerged): RCT 6편 SR+MA에서 실패·보철 실패 차이 없음, 변연골소실(Marginal Bone Loss, MBL)은 침습식이 MD 0.12 mm 더 큼(95% CI 0.00–0.24, P=.04, I²=0%) — 저자 스스로 임상적 의의 없음으로 판단, 6편 중 4편 high risk of bias (Moustafa Ali 2018).
+> - 신규 RCT(Prati 2026, n=66임플란트/45명, 6개월): 피개나사(Cover Screw, CS) vs 치유지대주(Healing Abutment, HA) — 생존율 양군 100%, 변연골소실(MBL) 6개월 시 동등; HA군에서 보철시 출혈(Bleeding upon Prosthetic Abutment application, BuPA) 75% 없음(p<0.001), 2차 재개방 불필요 — 연조직 건강·시술 단순성에서 비침습식 유리.
 > - 단일 시스템 후향 코호트(XiVE S plus 114개, 즉시식립, 5년): CSR 침습식 94% vs 비침습식 96%, MBL 유의차 없음 — 단 MBL 수치·p값·군별 n 부재, 비무작위 (Wu 2018).
 > - 1단계 vs 2단계 코크란 SR(Esposito 2009)은 적격 RCT 1편(n=40)뿐이고 2018년 철회(withdrawn) — 결론은 "근거 불충분"이며 현재 판단 근거로 쓰지 말 것.
 > - 원-피스(OPI) vs 투-피스(TPI): 10개 연구 SR+MA에서 실패 RR 0.49(0.16–1.53), 주위염 1년 RR 1.15(0.37–3.53) — 모두 비유의이나 CI가 매우 넓어 underpowered (Liu 2021). 플랫폼 스위칭 하위군에서만 TPI의 MBL이 0.21 mm 적음(95% CI 0.07–0.36, P=.004).
@@ -54,7 +56,7 @@ relations:
 
 ## Three-line Summary
 
-Seven held papers (2 SR+MA, 2 SR, 1 RCT, 1 retrospective cohort, 1 computational model) converge on a null for survival: submerged vs non-submerged (implant/prosthesis failure no difference), 1- vs 2-stage (one RCT, review withdrawn 2018) and one-piece vs two-piece (RR 0.49, 95% CI 0.16–1.53) show no demonstrated survival advantage, but nearly all nulls are underpowered rather than proof of equivalence.
+Eight held papers (2 SR+MA, 2 SR, 2 RCTs, 1 retrospective cohort, 1 computational model) converge on a null for survival: submerged vs non-submerged (implant/prosthesis failure no difference; the new Prati 2026 RCT, n=66, confirms null MBL at 6 months and shows less peri-implant bleeding with non-submerged healing abutments), 1- vs 2-stage (one RCT, review withdrawn 2018) and one-piece vs two-piece (RR 0.49, 95% CI 0.16–1.53) show no demonstrated survival advantage, but nearly all nulls are underpowered rather than proof of equivalence.
 
 Marginal bone loss is the only repeatedly signalled outcome and its drivers are connection geometry and early micromotion rather than the protocol label: submerged MD 0.12 mm (95% CI 0.00–0.24) with 4/6 high-risk-of-bias RCTs, platform-switching two-piece WMD 0.21 mm less loss (95% CI 0.07–0.36), micromotion 112±176 vs 349±231 µm with no universal threshold.
 
@@ -62,7 +64,7 @@ Clinical use: choose the protocol on soft-tissue, esthetic and handling grounds;
 
 ## 세줄요약
 
-7편(SR+MA 2, SR 2, RCT 1, 후향 코호트 1, 컴퓨터 모델 1) 종합: 생존율에서는 모든 비교(침습식 vs 비침습식, 1단계 vs 2단계, 원-피스 vs 투-피스)가 비유의이며 대부분 검정력 부족이라 동등성의 증거가 아니다.
+8편(SR+MA 2, SR 2, RCT 2, 후향 코호트 1, 컴퓨터 모델 1) 종합: 생존율에서는 모든 비교(침습식 vs 비침습식, 1단계 vs 2단계, 원-피스 vs 투-피스)가 비유의이며 대부분 검정력 부족이라 동등성의 증거가 아니다; 신규 RCT(Prati 2026, n=66)는 6개월 MBL 동등을 재확인하고 비침습식 치유지대주(HA)에서 보철시 출혈(BuPA)이 적음을 보였다.
 
 반복 확인되는 신호는 변연골소실(MBL) 하나이며, 그 결정 요인은 프로토콜 라벨이 아니라 연결 구조(플랫폼 스위칭 TPI WMD 0.21 mm)와 초기 micromotion이다; 침습식 MD 0.12 mm는 high-risk RCT 4/6에 기반.
 
@@ -74,6 +76,7 @@ Clinical use: choose the protocol on soft-tissue, esthetic and handling grounds;
 |---|---|---|---|---|
 | Submerged vs non-submerged | [[implants/moustafa-ali-2018-submerged-vs-nonsubmerged-implant]] | SR+MA, 6 RCTs | Failure: no difference; MBL MD 0.12 mm (0.00–0.24), P=.04, I² 0% | Moderate; 4/6 high RoB, underpowered |
 | Submerged vs non-submerged | [[implants/wu-2018-submerged-nonsubmerged-internal-hexagonal]] | Retrospective, 114 implants, 5 y | CSR 94% vs 96%; MBL n.s. (no magnitude) | Low; abstract-only, no p-values |
+| Submerged vs non-submerged | [[implants/mbl/prati-2026-cover-screw-vs-healing-abutment-rct]] | RCT, 66 implants/45 pts, 6 mo, digital workflow | 100% survival; MBL comparable (n.s.); BuPA absent ~75% HA group (p<0.001); re-entry avoided | Moderate; short follow-up (6 mo), abstract-only |
 | 1- vs 2-stage | [[implants/esposito-2009-1-vs-2-stage-implant-placement-cochrane]] | Cochrane SR, 1 RCT (n=40) | No failure difference at 1 y; insufficient evidence | Superseded; withdrawn 2018 |
 | One-piece vs two-piece | [[implants/liu-2021-clinical-radiographic-performance-one-piece]] | SR+MA, 10 studies | Failure RR 0.49 (0.16–1.53); PS subgroup WMD 0.21 mm (0.07–0.36) | Moderate; wide CIs, search to May 2019 |
 | Two-piece vs two-piece | [[implants/walter-2022-two-types-two-piece-dental-implants]] | RCT, 8 y, 98 implants | ISR 97.6% vs 97.2%; MBL change p<.001, judged negligible | Moderate; no sample-size calc, 23% dropout |
@@ -82,7 +85,7 @@ Clinical use: choose the protocol on soft-tissue, esthetic and handling grounds;
 
 ## Synthesis
 
-**Survival is protocol-independent on current evidence.** Every direct comparison in the set reports no significant difference in failure: submerged vs non-submerged (Moustafa Ali 2018; Wu 2018), one-piece vs two-piece (Liu 2021), and two platform-switched two-piece systems (Walter 2022). The honest reading is "difference not shown", not "equivalent": Liu's peri-implantitis CI at 2–3 years spans 0.23–16.63, Moustafa Ali's authors call their own analysis underpowered, and Wu reports no p-values or group sizes.
+**Survival is protocol-independent on current evidence.** Every direct comparison in the set reports no significant difference in failure: submerged vs non-submerged (Moustafa Ali 2018; Wu 2018), one-piece vs two-piece (Liu 2021), and two platform-switched two-piece systems (Walter 2022). The honest reading is "difference not shown", not "equivalent": Liu's peri-implantitis CI at 2–3 years spans 0.23–16.63, Moustafa Ali's authors call their own analysis underpowered, and Wu reports no p-values or group sizes. Prati 2026 (RCT, n=66, 6 months) replicates null survival and MBL equivalence in a fully digital prosthetic workflow, and adds a soft-tissue signal: the non-submerged (healing abutment) group showed substantially less bleeding during prosthetic procedures (~75% no BuPA, p<0.001), confirming that protocol choice affects peri-implant tissue health even when bone outcomes are equivalent.
 
 **The 1- vs 2-stage question has no usable primary evidence here.** The only Cochrane review rests on a single RCT (n=40) and was withdrawn in 2018 as out-of-date. Its useful role is as an evidence trail; the submerged/non-submerged SR+MA (Moustafa Ali 2018) is the operative replacement for the same clinical question.
 
@@ -101,7 +104,7 @@ Clinical use: choose the protocol on soft-tissue, esthetic and handling grounds;
 
 ## Clinical takeaways for chairside
 
-1. Do not expect a survival or bone-preservation advantage from choosing submerged, non-submerged, one-stage or two-stage per se; decide on flap/soft-tissue management, esthetics, immediate-loading intent and patient factors.
+1. Do not expect a survival or bone-preservation advantage from choosing submerged, non-submerged, one-stage or two-stage per se; decide on flap/soft-tissue management, esthetics, immediate-loading intent and patient factors. Where bone outcomes are equal, non-submerged healing abutments also reduce peri-implant bleeding at prosthetic appointments and avoid a re-entry surgery (Prati 2026).
 2. If a two-piece system is used, platform-switched connections carry the only consistently significant MBL benefit in this set (WMD 0.21 mm).
 3. For immediate loading, treat micromotion as a controllable variable (primary stability, rest period, loading frequency) instead of applying a single threshold.
 4. When counselling one-piece designs, weigh the technical-complication burden reported in the long-term RCT [[implants/pirc-2026-one-piece-two-piece-implants-15year-rct]] against the null survival data here.
@@ -110,6 +113,7 @@ Clinical use: choose the protocol on soft-tissue, esthetic and handling grounds;
 
 - [[implants/mbl/al-amri-2016-crestal-bone-loss-submerged]] — SR (13 studies: 6 human + 7 animal; 1986–Oct 2015): no significant difference in CBL between submerged and nonsubmerged implants in 5 of 6 human studies (follow-up 1–5 yr, CBL 0.17–0.9 mm vs 0.02–1.4 mm); corroborates the null finding in Moustafa Ali 2018 (sr, 2016)
 - [[implants/survival/astrand-2002-nonsubmerged-submerged-implants-treatment-partially]] — Split-mouth RCT (28 patients, 56 sites): ITI nonsubmerged vs Brånemark submerged FPDs in partially edentulous maxilla; no survival or MBL difference at 1-year loading; crater-form bone destruction at 18% of ITI implants signals importance of radiographic monitoring in nonsubmerged systems (rct, 2002)
+- [[implants/mbl/prati-2026-cover-screw-vs-healing-abutment-rct]] — RCT (66 PrimeTaper implants/45 pts, digital workflow, 6 mo): cover screw vs healing abutment — 100% survival, MBL equivalent; HA reduces bleeding on prosthetic procedures (~75% no BuPA, p<0.001) and avoids re-entry; direct RCT evidence supporting non-submerged for soft-tissue and workflow reasons (rct, 2026)
 - [[implants/mbl/gheisari-2017-comparison-marginal-bone-loss-one-stage]] — RCT (310 Astra Tech implants, 140 patients): one-stage vs two-stage; MBL 0.760 mm vs 0.842 mm at 6 months post-loading (NS, p>0.05); supports one-stage as equivalent to two-stage with reduced patient burden (rct, 2017)
 - [[implants/esposito-2009-1-vs-2-stage-implant-placement-cochrane]] — Cochrane SR+MA (5 RCTs, 761 implants, last updated 2009, withdrawn 2018): 1-stage (non-submerged) vs 2-stage (submerged) placement; no significant difference in prosthesis failure, implant failure, MBL, complications, or soft-tissue recession; GRADE moderate — the highest-level evidence anchor for the 1- vs 2-stage equivalence claim (sr+ma, 2009)
 - [[implants/loading-protocol/esposito-2009-interventions-replacing-missing-teeth]] — Cochrane SR pub2 (2007 original, superseded by pub3 above): earlier version with fewer RCTs; included for evidence-trail completeness
