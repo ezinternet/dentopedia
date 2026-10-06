@@ -37,13 +37,41 @@ relations:
     target: grandi-2025-zygomatic-hybrid-full-arch-1yr
   - type: extends
     target: menchini-fabris-2025-zygomatic-full-arch-3yr
-tags: [full-arch, all-on-four, all-on-six, fixed-complete-denture, implant-number, marginal-bone-level, survival, finite-element-analysis, framework-material, cantilever, cost-effectiveness, technical-complications, biological-complications, global-consensus, screw-retained, edentulous, maxilla, mandible, bone-quality, monolithic-zirconia, long-term, maintenance, bruxism, zygomatic-implant, trans-sinus, atrophic-maxilla]
+  - type: extends
+    target: marinkovic-2026-metal-zirconia-vs-acrylic-full-arch-sr-ma
+  - type: extends
+    target: bishti-2026-veneering-design-full-arch-sr
+  - type: extends
+    target: lan-2025-four-implant-overdenture-vs-fixed-sr-ma
+  - type: reinforces
+    target: pelser-2026-ifcd-long-term-complications-17yr
+  - type: extends
+    target: papaspyridakos-2026-zirconia-full-arch-140-jaws-8yr
+  - type: extends
+    target: alshahrani-2026-zirconia-full-arch-3300-5yr
+  - type: extends
+    target: tirone-2025-cad-parameters-cantilever-fracture
+  - type: extends
+    target: biscaro-2026-conometric-vs-screw-full-arch
+  - type: extends
+    target: krennmair-2025-metal-resin-zirconia-molars-5yr
+  - type: reinforces
+    target: midha-2026-implant-positioning-prosthetic-failure-case-control
+  - type: reinforces
+    target: garza-2026-arch-morphology-marginal-bone-remodeling
+  - type: extends
+    target: jacotti-2026-conometric-vs-screw-operative-time-in-vitro
+  - type: extends
+    target: mijiritsky-2026-segmented-full-arch-digital-workflow-mandible
+  - type: extends
+    target: cuello-de-garcia-2026-zirconia-height-cantilever-fracture-in-vitro
+tags: [full-arch, all-on-four, all-on-six, fixed-complete-denture, implant-number, marginal-bone-level, survival, finite-element-analysis, framework-material, cantilever, cost-effectiveness, technical-complications, biological-complications, global-consensus, screw-retained, edentulous, maxilla, mandible, bone-quality, monolithic-zirconia, long-term, maintenance, bruxism, zygomatic-implant, trans-sinus, atrophic-maxilla, conometric, overdenture, veneering, CAD-design, segmented-prosthesis, arch-morphology, implant-positioning, zirconia-height]
 ---
 
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
-> - **갱신 2026-10-06 (서베일런스 +11편 → 총 19편)**: Tier A 7편(생존·재료·합의·초장기) + Tier B 4편(브룩시즘 합병증 4–10년·경유 상악동 SR+MA·접합골 혼합형 1년·3년) 추가. 핵심 결론은 유지되나 실질적 갱신 4가지 — ① 4개 vs 6개 생존 동등성 SR+MA(55편) 수준 확인, ② 초장기(20–25년) 궤도 확보, ③ 보철 재료 4개 독립 출처 수렴, ④ **위축 상악의 대안 경로**(경유 상악동·접합골) 3편 추가.
+> - **갱신 2026-10-06 (서베일런스 2차 +14편 → 총 33편)**: Tier A 9편(재료 SR+MA·베니어 SR·보철 유형 SR+MA·장기 합병증·지르코니아 CAD 임계값·코노메트릭·재료 비교) + Tier B 5편(식립 파라미터·악궁형태·술기 시간·분절형 디지털·지르코니아 높이) 추가. 핵심 결론은 유지되나 실질적 갱신 5가지 — ① 재료 근거 SR+MA 수준 확립(Marinkovic 2026), ② 구체적 CAD 설계 임계값 수치화(Papaspyridakos, Tirone), ③ 코노메트릭 유지 옵션 임상 근거 확보(Biscaro), ④ 임시 vs 최종 보철의 보철 유형(고정 vs 피개의치) SR+MA 비교(Lan 2025), ⑤ 악궁 형태·식립 파라미터의 계획 변수화(Garza, Midha).
 > - **무치악 고정성 풀아치 수복에서 임플란트 4개 vs 6개 결정**을 임상 성적(생존·변연골·합병증), 생체역학(유한요소분석, Finite Element Analysis, FEA), 2개 컨센서스 프로세스로 종합. 핵심 긴장: **생존율은 4개 ≈ 6개, 그러나 합병증·생체역학·합의는 5–6개 쪽**. 기본값은 **"해부학이 허락하면 5–6개, 4개는 근거가 받쳐주는 최소치"**.
 > - **SR+MA 수준 확인 (Shao 2026, 55편)**: 단기(1년) 생존율 All-on-4 99.20% / All-on-6 100%; 장기(≥5년) 98.14% / 97.50% — 모두 비열등. 단 장기 변연골소실(MBL) All-on-4 1.28 mm vs All-on-6 0.94 mm로 5년 이후 분기.
 > - **산형 리뷰(umbrella review, Figueiredo 2025, 8 SR)**: All-on-4 누적생존율(Cumulative Survival Rate, CSR) 94.8–99.3%; 포함 SR 대부분 낮은 질·높은 비뚤림 위험.
@@ -56,22 +84,31 @@ tags: [full-arch, all-on-four, all-on-six, fixed-complete-denture, implant-numbe
 > - **위축 상악 대안 경로 — 경유 상악동(Trans-Sinus) SR+MA (Gianfreda 2025, 10편)**: 경유 상악동(Trans-Sinus Implant, TSI) vs 수직·경사 실패율 RR=2.80, p=0.076 (NS) — 생존율 동등; 대규모 골이식 없는 전악수복 대안.
 > - **위축 상악 대안 경로 — 접합골(Zygomatic Implant) 혼합형 (Grandi 2025 1년 / Menchini-Fabris 2025 >3년)**: 동일 연구진(이탈리아) 동일 접근법, 임플란트 생존율 100% 유지; Grandi 1년 보철 94.3%, Menchini-Fabris >3년 보철 100%·성공 87%; 접합골 임플란트 분류(Zygomatic Implant Classification Level, ZICL) 1이 80–95%로 양호.
 > - **결정 규칙 (2026-10-06 갱신)**: 해부학이 무증대로 5–6개 가능 → 5–6개. 해부학 부족 + 골이식 불가 → 경유 상악동 또는 접합골 혼합형 경로. 4개 선택 시 골 유형 1–3 우선·나사유지 강성 프레임(Ti/CoCr/모놀리식 지르코니아)·캔틸레버 최소화·**구조화 유지관리**. **유지관리는 치료다** — Rapone OR=14.59, Acar 실측.
+> - **재료 SR+MA 수준 확립 (Marinkovic 2026)**: 금속-지르코니아(Metal-Zirconia) vs 금속-아크릴(Metal-Acrylic) — 마모(Wear) RR=0.29, 임플란트 주위염(Peri-implantitis) RR=0.67. 금속-지르코니아가 명확한 우위.
+> - **베니어 설계 (Bishti 2026 SR)**: 전악 3년 성공률 75.56%; 연간 칩핑(Chipping) 6.9%; 교합 접촉은 지르코니아 표면 우선 권고.
+> - **장기 합병증 궤도 (Pelser 2026, 17년)**: Ti-레진(Ti-Resin) HR=4.25(총 합병증), HR=7.11(베니어 파절); 49.5%만 합병증 없이 생존. **재료 선택은 단기 생존뿐 아니라 17년 합병증 누적에 결정적**.
+> - **피개의치 vs 고정성 SR+MA (Lan 2025)**: 임플란트 고정성 피개의치(Implant-supported Overdenture, IOD) ISR 94.5% vs 고정성(Implant-supported Fixed Prosthesis, IFR) 98.5%; 보철 생존율 IOD 85% vs IFR 99.9% — 환자 선호·비용 등 이유로 IOD 선택 시 낮은 보철 생존율 감수해야.
+> - **CAD 설계 임계값 수치화**: Papaspyridakos 2026 — 교차단면적(Cross-Sectional Support Area, CSSA) ≥80mm², 높이 >10mm. Tirone 2025 — 캔틸레버 길이/CSCA 비(CL/CSCA) <0.51, 캔틸레버 길이/원심 임플란트 거리(CL/SAOL) <1.48 → 캔틸레버 골절 0건. **지르코니아 높이 2–6mm 파절 저항력 동등(Cuello de Garcia 2026), 나사 골절 86.7% 지배 → 나사 설계에 집중**.
+> - **코노메트릭(Conometric) 유지 옵션 (Biscaro 2026 + Jacotti 2026)**: 임상 — 코노메트릭 탈부착 9.2% vs 나사 풀림(Screw Loosening) 4.2%, 생존율 동등. 인비트로 — 전달 시간 나사가 빠름, 체크업 시간 코노메트릭이 빠름(All-on-4 30초 vs 9분). **임시보철=나사, 최종보철=코노메트릭 고려**.
+> - **악궁 형태 계획 변수 (Garza 2026)**: V형 하악 MBR 0.91mm vs U형 0.81mm; 하악 임플란트 간격↑=MBR↓(r=−0.70). V형 하악에서 임플란트 간격 최대화 더욱 중요.
+> - **식립 파라미터 임계값 (Midha 2026)**: 실패군 C/AP 비 1.42 vs 대조 0.89; 캔틸레버 14.2 vs 10.4mm; 근원심 각도(Mesiodistal Angulation) 18.4° vs 12.1° — CBCT 기반 보철 주도 계획(Prosthetically Driven Placement)의 근거.
+> - **분절형 디지털 워크플로(Segmented Digital Workflow) (Mijiritsky 2026)**: 14명, 119 임플란트, 3년 ISR/PSR 100%, 생역학 합병증 0건 — 분절형 설계의 응력 분산 가능성.
 
 ## Three-line Summary
 
-Synthesis of 19 papers on the four-vs-six implant decision for edentulous fixed full-arch rehabilitation across five dimensions: clinical outcomes (2 RCTs + 4 retrospective cohorts + 1 SR+MA + 1 SR + 1 umbrella review), biomechanics (2 FEA), two independent consensus processes (2026 Global Consensus; Italian Delphi GRADE 2026), a bone-type modifier, and an atrophic-maxilla alternative pathway (trans-sinus SR+MA + zygomatic hybrid 1yr and 3yr+ data).
+Synthesis of 33 papers on edentulous fixed full-arch implant rehabilitation spanning six axes: clinical outcomes (2 RCTs + retrospective cohorts + 3 SR+MAs + 2 SRs + 1 umbrella review), prosthetic material and design (SR+MA + SR + large retrospectives + in vitro), CAD design thresholds (CSSA, CL/CSCA, CL/SAOL, zirconia height), retention systems (conometric vs screw: clinical + in vitro), biomechanics (FEA), and two independent consensus processes plus an atrophic-maxilla alternative pathway.
 
-Survival equivalence confirmed at SR+MA level (Shao 2026, 55 studies: ≥5yr 98.14% vs 97.50%); bruxism real-world impact quantified (Acar 2026: prosthesis survival 5yr 80%, 10yr 60%; complication-free success 5yr 14.7%; chipping p=0.049); very-long-term data shows 20-year viability (maxillary 90.7%, mandibular 90%); for severely atrophic maxillae, trans-sinus implants show comparable survival to axial/tilted (RR=2.80, NS, Gianfreda 2025) and zygomatic hybrid configurations achieve 100% implant survival at 1yr and >3yr.
+Core findings: survival 4 ≈ 6 at SR+MA level (Shao 2026: ≥5yr 98.14% vs 97.50%); prosthetic material evidence now at SR+MA level (Marinkovic 2026: metal-zirconia wear RR=0.29, peri-implantitis RR=0.67); 17-year complication trajectory confirms Ti-resin as worst-performing material (HR=4.25); CAD thresholds quantified (CSSA ≥80mm²; CL/CSCA<0.51; CL/SAOL<1.48); conometric retention is a viable maintenance-reducing option for permanent prostheses; V-shaped mandible and inter-implant distance are plannable MBR modifiers.
 
-Decision rule: four is the evidence-backed minimum — place five to six when anatomy allows without augmentation; trans-sinus or zygomatic hybrid is the pathway when conventional placement is insufficient; for any configuration, structured lifelong maintenance is a primary survival variable (non-compliance OR=14.59; 100% of patients experience minor complications over 4–10yr).
+Decision rule: six implants where anatomy allows; four is the evidence-backed minimum with rigid zirconia/Ti framework, minimal cantilever within CAD thresholds, and structured lifelong maintenance (non-compliance OR=14.59; 100% minor complications by 4–10yr); for severe maxillary atrophy, trans-sinus or zygomatic hybrid pathway; implant positioning (C/AP <1.0, cantilever <11mm, angulation <15°) and arch morphology (V-shaped mandible) are actionable pre-operative planning variables.
 
 ## 세줄요약
 
-무치악 고정성 풀아치 임플란트 4개 vs 6개 결정을 임상 성적 축(RCT 2편+후향 4편+SR+MA 1편+SR 1편+산형 리뷰 1편)·생체역학 축(FEA 2편)·합의 축(글로벌+이탈리아 2편+보고서 1편)·골질 변수 1편·위축 상악 대안 3편으로 종합한 19편.
+무치악 고정성 풀아치 임플란트 전악 재건을 임상 성적·재료·CAD 설계 임계값·유지 방식·생체역학·합의 6축으로 종합한 33편; 피개의치 vs 고정성, 코노메트릭 유지, 악궁형태, 식립 파라미터 포함.
 
-생존 동등성 SR+MA 수준 확인(Shao 2026, ≥5년 98.14% vs 97.50%); 이갈이 합병증 실측(Acar 2026: 보철 생존 5년 80%·10년 60%, 100% 소합병증); 초장기(20–25년) 궤도 확보; 경유 상악동(RR=2.80 NS)·접합골 혼합형(임플란트 100%, >3년) 위축 상악 대안 경로 3편 추가.
+생존 동등성 SR+MA 수준 확인(Shao 2026); 재료 SR+MA — 금속-지르코니아 마모 RR=0.29(Marinkovic 2026); CAD 임계값 수치화(CSSA ≥80mm², CL/CSCA<0.51); 코노메트릭 임상 근거(Biscaro 2026); 17년 장기 — Ti-레진 HR=4.25(Pelser 2026); V형 하악 MBR 차이 전향 확인(Garza 2026).
 
-결정 규칙(2026-10-06 갱신): 4개는 최소치 — 무증대 5–6개 가능 시 5–6개; 해부학 부족 시 경유 상악동·접합골 경로; 어느 구성이든 생애 유지관리 필수(OR=14.59, 실측 100%).
+결정 규칙: 6개 우선, 4개는 CAD 임계값 준수+지르코니아 프레임+유지관리 패키지로 허용; 중증 위축 상악 → 경유 상악동·접합골 경로; 식립 계획 시 C/AP·캔틸레버·악궁형태 계획 변수로 통합.
 
 ## Summary
 
@@ -290,9 +327,157 @@ Second independent international consensus (modified Delphi, 3 rounds, ≥90% th
 
 ---
 
-## Reconciling the five dimensions (decision rule, revised 2026-10-06 Tier B)
+---
 
-The dimensions are compatible once framed correctly. **Equivalent survival in the strongest clinical designs (RCT + SR+MA) means four implants stay within physiological bone-loading limits in standard cases**, so the FEA stress difference is a **safety-margin difference, not a failure-rate difference**. But a safety margin is exactly what absorbs the outcomes that *do* differ — technical complications (Toia 5-yr; Acar 2026: all major failures in bruxers), MBL divergence at ≥5 years (Shao 2026: 0.34 mm more with All-on-4), possibly biological complications (La Monaca), and overload in low-quality bone (Topdagi: Type 4 89.1%). Two independent consensus processes price that margin in by preferring five to six whenever anatomy permits.
+## Axis 4 — Prosthetic Material: Evidence Now at SR+MA Level
+
+### Marinkovic 2026 (SR+MA, metal-zirconia vs metal-acrylic)
+**Source**: [[implants/full-arch/marinkovic-2026-metal-zirconia-vs-acrylic-full-arch-sr-ma]]
+First SR+MA directly comparing metal-zirconia vs metal-acrylic frameworks for full-arch prostheses. Key findings:
+- **Wear RR=0.29** (95% CI not available from abstract) — metal-zirconia dramatically lower wear
+- **Peri-implantitis RR=0.67** — metal-zirconia significantly lower biological complication risk
+- **Chipping RR favors metal-zirconia** over metal-acrylic
+
+### Bishti 2026 (SR, veneering design)
+**Source**: [[implants/full-arch/bishti-2026-veneering-design-full-arch-sr]]
+SR of veneering design factors for full-arch prostheses:
+- 3-year prosthesis success **75.56%** — lower than commonly assumed in short-term retrospective data
+- Annual chipping rate **6.9%**
+- Occlusal contacts on zirconia surface (rather than veneering material) recommended
+
+### Pelser 2026 (retrospective, 17yr complication trajectory)
+**Source**: [[implants/full-arch/pelser-2026-ifcd-long-term-complications-17yr]]
+Largest long-term single-center retrospective on implant-supported fixed complete dentures (IFCDs) with 17-year follow-up:
+- Ti-resin framework: **HR=4.25 for total complications**, **HR=7.11 for veneer fracture** vs metal-ceramic/zirconia
+- Only **49.5%** of patients were complication-free throughout follow-up
+- Material selection is the primary modifiable long-term complication driver
+
+### Krennmair 2025 (prospective, bimaxillary 3–5yr, hybrid Zrm vs acrylic)
+**Source**: [[implants/full-arch/krennmair-2025-metal-resin-zirconia-molars-5yr]]
+29 patients bimaxillary comparison of resin-acrylic (r-ISFP) vs hybrid metal-zirconia molar (Zrm-ISFP):
+- **100% survival both groups**
+- Prosthesis-related technical complications (PRTC): r-ISFP 34 events vs Zrm-ISFP 7 events (p<0.001)
+- Zrm-ISFP (hybrid zirconia at molar positions) reduces complications without full-arch zirconia cost
+
+### Alshahrani 2026 (3300 lab cases, 5yr)
+**Source**: [[implants/full-arch/alshahrani-2026-zirconia-full-arch-3300-5yr]]
+Laboratory retrospective, 3300 zirconia full-arch cases, 5yr:
+- **91.67% survival**; 38 framework fractures — all associated with **insufficient vertical prosthetic space**
+- Zero titanium cylinder failures — Ti-zirconia interface is robust
+- Confirms Papaspyridakos 2026 (CSSA ≥80mm²) as a hard design requirement
+
+**Axis-4 material verdict:** The evidence pyramid for full-arch prosthetic materials is now anchored by an SR+MA (Marinkovic 2026). Metal-zirconia is the reference standard. Ti-resin is contraindicated for final prostheses (HR=4.25 total complications at 17yr; Pelser 2026). Metal-acrylic is acceptable only as a provisional with planned upgrade. Hybrid approaches (Zrm-ISFP) offer an intermediate option. Insufficient vertical space is the primary zirconia framework failure cause (Alshahrani 2026) — CAD thresholds below address this.
+
+---
+
+## Axis 5 — CAD Design Thresholds: Quantified Failure Prevention
+
+### Papaspyridakos 2026 (140 jaws, 8yr zirconia — cross-sectional support area)
+**Source**: [[implants/full-arch/papaspyridakos-2026-zirconia-full-arch-140-jaws-8yr]]
+140 jaws, 8yr follow-up, monolithic zirconia full-arch; 95.7% survival:
+- **CSSA (Cross-Sectional Support Area) ≥80mm²** — threshold below which fracture risk increases substantially
+- **Prosthetic height >10mm** — minimum for adequate zirconia cross-section
+- Both thresholds were derived from failed cases and are now actionable pre-delivery design checks
+
+### Tirone 2025 (151 prostheses — cantilever CAD ratios)
+**Source**: [[implants/full-arch/tirone-2025-cad-parameters-cantilever-fracture]]
+151 prostheses, retrospective CAD analysis identifying fracture-free cantilever parameter zones:
+- **CL/CSCA < 0.51** (cantilever length / cross-sectional area at implant level) → zero cantilever fractures
+- **CL/SAOL < 1.48** (cantilever length / sum of axial implant offsets) → zero cantilever fractures
+- 5 Type I fractures remained outside these thresholds — confirming their discriminative value
+
+### Midha 2026 (implant positioning — case-control)
+**Source**: [[implants/full-arch/midha-2026-implant-positioning-prosthetic-failure-case-control]]
+30 failure cases vs 60 matched controls, CBCT-measured positioning parameters:
+- Failure group: **C/AP ratio 1.42 vs 0.89; cantilever 14.2 vs 10.4mm; mesiodistal angulation 18.4° vs 12.1°** (all p<0.001)
+- A-P spread and inter-implant distance are protective
+- Inferred safe targets: C/AP <1.0, cantilever <11mm, angulation <15°
+
+### Cuello de Garcia 2026 (zirconia height — in vitro, null finding)
+**Source**: [[implants/full-arch/cuello-de-garcia-2026-zirconia-height-cantilever-fracture-in-vitro]]
+45 specimens, zirconia height 2/4/6mm over Ti framework:
+- **Fracture resistance 849/862/871N — no significant difference (P>.05)**
+- Dominant failure mode: **prosthetic screw fracture 86.7%** >> zirconia fracture 13.3% >> Ti framework fracture 0%
+- Implication: zirconia height ≥2mm is structurally sufficient; design focus should shift to screw engineering and fixation protocols
+
+**Axis-5 CAD verdict:** A complete design checklist now exists: (1) CSSA ≥80mm² (Papaspyridakos), (2) prosthetic height >10mm (Papaspyridakos), (3) CL/CSCA <0.51 (Tirone), (4) CL/SAOL <1.48 (Tirone), (5) C/AP ratio <1.0 and cantilever <11mm (Midha), (6) mesiodistal angulation <15° (Midha). These are complementary, not redundant — Papaspyridakos addresses support area, Tirone addresses the cantilever-to-structure ratio, and Midha addresses implant positioning geometry. Zirconia height ≥2mm is adequate; screw failure prevention is more important than veneering thickness.
+
+---
+
+## Axis 6 — Retention Systems: Conometric vs Screw
+
+### Biscaro 2026 (clinical retrospective, 1356 implants)
+**Source**: [[implants/full-arch/biscaro-2026-conometric-vs-screw-full-arch]]
+Largest single-center clinical comparison of conometric vs screw-retained retention in full-arch prostheses:
+- **Conometric detachment 9.2% vs screw loosening 4.2%** — screw-retained has lower maintenance events per appointment
+- **Implant and prosthesis survival equivalent** between systems
+- Conometric detachments are easily resolved (patient-chair time minimal); screw loosening requires torque access
+
+### Jacotti 2026 (in vitro, operative time)
+**Source**: [[implants/full-arch/jacotti-2026-conometric-vs-screw-operative-time-in-vitro]]
+In-vitro time comparison (Orbit/Bionica system), All-on-4 and All-on-6:
+- **Screw-retained faster at delivery**: All-on-4 6min vs 14min; All-on-6 8min vs 19min
+- **Conometric faster at check-up**: All-on-4 0.5min vs 9min; All-on-6 0.7min vs 13min
+- Optimal conometric activation torque: **15Ncm** (no coping deformation)
+- Conometric less operator-experience dependent
+
+| Phase | Faster system | Practical implication |
+|---|---|---|
+| Initial delivery (provisional) | Screw-retained | Prefer screw for provisional phase |
+| 6-monthly check-up (maintenance) | Conometric | Prefer conometric for permanent phase |
+| Operator variability | Conometric | More standardized across staff |
+
+**Axis-6 retention verdict:** Conometric is a clinically validated alternative to screw-retained retention for full-arch prostheses. The clinical data (Biscaro 2026) shows equivalent survival with slightly higher maintenance events (9.2% vs 4.2%); the in-vitro data (Jacotti 2026) explains the compensating advantage: dramatically faster check-up time (~17× faster per arch). A two-stage protocol — screw-retained provisional → conometric permanent — combines the strengths of each system. This is a new option not addressed in either consensus document.
+
+---
+
+## Axis 7 — Treatment Modality: Overdenture vs Fixed Full-Arch
+
+### Lan 2025 (SR+MA, implant overdenture vs fixed)
+**Source**: [[implants/full-arch/lan-2025-four-implant-overdenture-vs-fixed-sr-ma]]
+SR+MA directly comparing four-implant overdenture (IOD) vs four-implant fixed restoration (IFR) across all available studies:
+
+| Outcome | IOD | IFR |
+|---|---|---|
+| Implant survival (ISR) | 94.5% | **98.5%** |
+| Prosthesis survival (PSR) | 85% | **99.9%** |
+| Patient satisfaction | Comparable | Comparable |
+
+- Fixed restoration has higher implant and prosthesis survival at every time point
+- IOD remains valid for patients where cost, dexterity limitations, or reversibility are priorities
+- **Prosthesis survival gap (85% vs 99.9%) is substantial** — patient counselling must include realistic PSR expectations
+
+**Axis-7 verdict:** If implant and prosthesis survival are the primary outcomes, fixed is the evidence-based default. IOD is not inferior for patient satisfaction — the trade-off is structural reliability. When planning four-implant cases, the IOD vs fixed decision should precede implant number discussions; both axes are now covered by SR+MA-level evidence.
+
+---
+
+## Planning Variables — Arch Morphology and Segmented Design
+
+### Garza 2026 (prospective, arch morphology and MBR)
+**Source**: [[implants/full-arch/garza-2026-arch-morphology-marginal-bone-remodeling]]
+40 patients, 49 monolithic zirconia full-arch prostheses, 12mo; V- vs U-shaped mandible classification by CBCT:
+- Mandibular MBR 0.86mm vs maxillary 0.73mm (β=0.13mm, p<0.001)
+- **V-shaped mandible MBR 0.91mm vs U-shaped 0.81mm** (diff=0.10mm, p<0.001)
+- **Inter-implant distance r=−0.70** with mandibular MBR (p<0.001) — larger spacing reduces bone stress
+- Both chipping events in V-shaped mandibles
+
+**Implication:** V-shaped mandible patients warrant maximized inter-implant distance and minimized cantilever as primary design targets. The r=−0.70 correlation provides a concrete, modifiable planning variable.
+
+### Mijiritsky 2026 (prospective consecutive, segmented design + digital workflow, 3yr)
+**Source**: [[implants/full-arch/mijiritsky-2026-segmented-full-arch-digital-workflow-mandible]]
+14 patients, 119 implants, segmented mandibular ISFCDs with full digital workflow (intraoral scan, digital design, milling/printing), mean 36mo:
+- **ISR 100%, PSR 100%**
+- **Zero biomechanical complications** (no framework fractures, screw loosening, or chipping)
+- MBL 0.71mm; peri-implantitis 0.84%
+- Segmented design may reduce single-beam stress concentration; digital manufacturing reduces fit error
+
+**Implication:** Segmented full-arch prostheses combined with digital workflow represent a promising alternative to one-piece monolithic designs, particularly for cases where stress distribution is a concern. The 3-year zero-complication result is encouraging but insufficient without longer follow-up or a control group.
+
+---
+
+## Reconciling the six dimensions (decision rule, revised 2026-10-06 surveillance 2)
+
+The six dimensions are compatible once framed correctly. **Equivalent survival in the strongest clinical designs (RCT + SR+MA) means four implants stay within physiological bone-loading limits in standard cases**, so the FEA stress difference is a **safety-margin difference, not a failure-rate difference**. But a safety margin is exactly what absorbs the outcomes that *do* differ — technical complications (Toia 5-yr; Acar 2026: all major failures in bruxers), MBL divergence at ≥5 years (Shao 2026: 0.34 mm more with All-on-4), possibly biological complications (La Monaca), and overload in low-quality bone (Topdagi: Type 4 89.1%). Two independent consensus processes price that margin in by preferring five to six whenever anatomy permits. The new Axes 4–7 add: a definitive material hierarchy (metal-zirconia ≫ metal-acrylic ≫ Ti-resin), specific CAD design numbers to hit before delivery, a retention system option (conometric for permanent phase), a modality choice (fixed ≫ IOD for prosthesis survival), and two actionable planning variables (arch morphology, implant positioning).
 
 | | Four implants | Five to six implants |
 |---|---|---|
@@ -354,6 +539,30 @@ The dimensions are compatible once framed correctly. **Equivalent survival in th
 - [[implants/full-arch/gianfreda-2025-trans-sinus-full-arch-sr-ma]] — SR+MA (10 studies): trans-sinus vs axial/tilted RR=2.80 p=0.076 (NS); comparable survival; bone-graft-sparing alternative
 - [[implants/full-arch/grandi-2025-zygomatic-hybrid-full-arch-1yr]] — zygomatic hybrid 1yr (35pts): implant 100%, prosthesis 94.3%; ZICL0-1 95%; abutment angle no effect
 - [[implants/full-arch/menchini-fabris-2025-zygomatic-full-arch-3yr]] — zygomatic hybrid >3yr (31pts): implant 100%, prosthesis 100%, success 98.4%/87%
+
+**Prosthetic material axis:**
+- [[implants/full-arch/marinkovic-2026-metal-zirconia-vs-acrylic-full-arch-sr-ma]] — SR+MA: metal-zirconia wear RR=0.29, peri-implantitis RR=0.67 vs metal-acrylic
+- [[implants/full-arch/bishti-2026-veneering-design-full-arch-sr]] — SR veneering design: 3yr success 75.56%, annual chipping 6.9%
+- [[implants/full-arch/pelser-2026-ifcd-long-term-complications-17yr]] — 17yr retrospective: Ti-resin HR=4.25, 49.5% complication-free
+- [[implants/full-arch/krennmair-2025-metal-resin-zirconia-molars-5yr]] — bimaxillary 5yr: Zrm-ISFP PRTC 7 vs r-ISFP 34 (p<0.001); 100% survival both
+- [[implants/full-arch/alshahrani-2026-zirconia-full-arch-3300-5yr]] — 3300 lab cases 5yr: 91.67% survival; 38 fractures from insufficient space
+
+**CAD design thresholds:**
+- [[implants/full-arch/papaspyridakos-2026-zirconia-full-arch-140-jaws-8yr]] — 140 jaws 8yr: CSSA ≥80mm², height >10mm
+- [[implants/full-arch/tirone-2025-cad-parameters-cantilever-fracture]] — 151 prostheses: CL/CSCA<0.51, CL/SAOL<1.48 → zero cantilever fractures
+- [[implants/full-arch/midha-2026-implant-positioning-prosthetic-failure-case-control]] — case-control: C/AP 1.42 vs 0.89; cantilever 14.2 vs 10.4mm; angulation 18.4° vs 12.1°
+- [[implants/full-arch/cuello-de-garcia-2026-zirconia-height-cantilever-fracture-in-vitro]] — in vitro: zirconia height 2–6mm no difference (P>.05); screw fracture 86.7% dominant
+
+**Retention systems:**
+- [[implants/full-arch/biscaro-2026-conometric-vs-screw-full-arch]] — clinical 1356 implants: conometric 9.2% vs screw loosening 4.2%; survival equivalent
+- [[implants/full-arch/jacotti-2026-conometric-vs-screw-operative-time-in-vitro]] — in vitro: delivery screw faster, check-up conometric faster (0.5 vs 9min); 15Ncm activation
+
+**Treatment modality:**
+- [[implants/full-arch/lan-2025-four-implant-overdenture-vs-fixed-sr-ma]] — SR+MA: IOD ISR 94.5% vs IFR 98.5%; IOD PSR 85% vs IFR 99.9%
+
+**Planning variables:**
+- [[implants/full-arch/garza-2026-arch-morphology-marginal-bone-remodeling]] — prospective 12mo: V-shaped mandible MBR 0.91 vs U-shaped 0.81mm; inter-implant distance r=−0.70
+- [[implants/full-arch/mijiritsky-2026-segmented-full-arch-digital-workflow-mandible]] — prospective 3yr: segmented digital 100% ISR/PSR; 0 biomechanical complications
 
 **Related overviews:**
 - [[overviews/tilted-axial-implant-angled-abutment-overview]] — tilted-implant biomechanics underlying All-on-4
