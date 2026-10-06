@@ -1,0 +1,75 @@
+Source: PubMed Central PMC13231756
+PMID: 41826858
+DOI: 10.1186/s12903-026-08074-3
+Title: Long-term outcomes and complications of full-arch implant-supported fixed prostheses: a 4–10 year retrospective study
+Authors: Acar M, Koçak-Büyükdere A
+Journal: BMC Oral Health, 2026 Mar 14; 26(1)
+Retrieved: 2026-10-06 via PubMed Central (full text)
+
+== ABSTRACT ==
+
+Background: Edentulism has significant functional and psychosocial consequences, and full-arch implant-supported fixed dental prostheses (FDPs) have become one of the most reliable rehabilitation options. However, long-term outcomes of prostheses due to prosthesis-related and patient-related risk factors remain limited. This study aimed to evaluate the long-term clinical performance and complication rates of full-arch implant-supported FDPs over a 4-10-year follow-up period. The potential influence of patient- and prostheses-related risk factors—particularly bruxism, opposing arch type, retention system, and cantilever configuration—was assessed.
+
+Methods: Retrospective study, 24 patients (13 males, 11 females; aged 39–77) treated 2015–2020. 180 implants in 34 edentulous arches; 24 implants angled posteriorly. 18 arches cement-retained, 16 screw-retained. Standardized clinical and radiographic examinations at follow-ups.
+
+Results: Cumulative prosthesis survival 80% at 5yr, 60% at 10yr. Cumulative success probability (complication-free) 61.8% at 1yr, 26.5% at 3yr, 14.7% at 5yr. By year 6, all prostheses (100%) had experienced at least one minor complication; median complication-free time 3 years. "Probable" bruxism significantly associated with chipping (p=0.049) and higher minor complications in mandible (p=0.015). No significant correlation between cantilever length or prosthetic material and marginal bone loss (p>0.05).
+
+Conclusions: Full-arch implant-supported FDPs demonstrate stable performance over 4–10 years with manageable technical complications. Bruxism may increase likelihood of certain technical complications. Conservative cantilever lengths appear to support marginal bone stability.
+
+== FULL TEXT KEY SECTIONS ==
+
+STUDY POPULATION:
+- 24 patients; mean age 58.17 ± 9.73 years; mean follow-up ~5.21 ± 1.56 yr (range 4–9yr)
+- 45.8% active smokers; 45.8% probable bruxers; 16.7% DM; 54.2% periodontal history
+- 34 edentulous arches (20 maxilla / 14 mandible); 180 implants (107 maxilla / 73 mandible)
+- 24 angled implants (12 maxilla / 12 mandible) — All-on-4 concept
+- Materials: metal-ceramic 66.7%, zirconia-ceramic 29.2%, metal-acrylic 4.2%
+- Retention: cemented 62.5%, screw-retained 37.5%
+- 37 cantilever units; cantilever length 5–7.5 mm
+
+IMPLANT SURVIVAL:
+- 1 implant lost (peri-implantitis) — implant survival ~99.4%
+
+PROSTHESIS SURVIVAL (Kaplan–Meier):
+- 95.8% at 3yr; 80% at 5yr; 60% at 10yr
+
+PROSTHESIS SUCCESS (complication-free, Kaplan–Meier):
+- 61.8% at 1yr; 26.5% at 3yr; 14.7% at 5yr; 11.8% at 6yr
+- 100% of prostheses experienced at least one minor complication
+- Median complication-free survival time: 3 years
+
+MAJOR COMPLICATION-FREE SURVIVAL:
+- 91.2% at 3yr; 91.2% at 5yr; 58.1% at 10yr; median 9 years (95% CI 6.90–11.1)
+
+COMPLICATIONS (per prosthesis level):
+Minor biological: gingival recession (10 arches); inflammation (15 arches)
+Minor technical: chipping/fracture (25 arches); screw loosening (3 arches); decementation (10 arches)
+Major biological: late implant failure (1); peri-implantitis (4 arches)
+Major technical: screw fracture (2 arches); prosthesis fracture (3 arches); abutment fracture (1)
+
+BRUXISM ANALYSIS:
+- Chipping in 25 arches; 16 of these in "probable" bruxers
+- Bruxism → chipping: p=0.049 (borderline significant)
+- Bruxism → more minor complications in mandible: p=0.015
+- Screw fracture, prosthesis fracture, abutment fracture, and 1 late implant failure all involved bruxers
+- No statistically significant difference for major complications (small n)
+
+CANTILEVER AND MBL:
+- Cantilever lengths 5–7.5 mm; no significant correlation with MBL or complications (p>0.05)
+- All patients <2 mm crestal bone loss in first year; 13 patients showed further loss but within accepted limits
+
+MATERIAL AND RETENTION:
+- No statistically significant differences in complication rates between zirconia vs metal-ceramic (p>0.05)
+- No statistically significant differences for screw vs cement retention (p>0.05)
+- 10 decementation events; 6 in patients with poor oral hygiene/periodontitis history
+
+RADIOGRAPHIC:
+- MBL defined as distance from implant-abutment interface to first visible bone-to-implant contact
+- Periapical radiographs (parallel technique, Rinn-plus film holder); panoramic at baseline/loading/1-3-5yr+
+- One patient (DM + smoking) lost implant (peri-implantitis); bone loss >3mm
+
+LIMITATIONS:
+- Small sample (n=24); exploratory, not definitive
+- Bruxism diagnosed as "probable" (no polysomnography)
+- Heterogeneous follow-up durations (4–10yr)
+- Retrospective; no standardized BOP protocol
