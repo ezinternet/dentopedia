@@ -7,7 +7,7 @@ doi: 10.1007/s10006-025-01492-7
 pmid: "41372686"
 source: figueiredo-2025-all-on-four-overview-sr.md
 category: [implants/full-arch]
-evidence_level: umbrella-review
+evidence_level: sr
 source_collection: pubmed-text
 full_text: false
 text_path: /Users/oracleneo/llm-wiki/papers/figueiredo-2025-all-on-four-overview-sr.txt
