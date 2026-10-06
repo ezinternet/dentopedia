@@ -1,0 +1,569 @@
+pmc Clin Implant Dent Relat Res Clin Implant Dent Relat Res 379 blackwellopen 100888977 CID Clinical Implant Dentistry and Related Research 1523-0899 1708-8208 pmc-is-collection-domain yes pmc-collection-title Wiley Open Access Collection PMC11789837 PMC11789837.1 11789837 11789837 39506255 10.1111/cid.13416 CID13416 CID-24-177.R1 1 Original Article Original Article Evaluation of Internal and External Hexagon Connections in Immediately Loaded Full‐Arch Rehabilitations: A Multicenter Randomized Split‐Mouth Controlled Trial With a 6‐Year Follow‐Up Bagnasco Francesco 
+ 1 
+ Menini Maria 
+ 1 
+ Pesce Paolo https://orcid.org/0000-0001-8726-4145 
+ 1 
+ Gibello Umberto 
+ 2 
+ Carossa Massimo https://orcid.org/0000-0001-9495-1832 
+ 2 
+ massimo.carossa@unito.it Pera Francesco 
+ 2 
+ 
+ 
+ 
+ 1 
+ Department of Surgical Sciences (DISC), Division of Prosthodontics and Implant Prosthodontics Dentistry 
+ University of Genoa 
+ Genoa 
+ Italy 
+ 
+ 
+ 
+ 2 
+ C.I.R. Dental School, Department of Surgical Sciences 
+ University of Turin 
+ Turin 
+ Italy 
+ 
+ * 
+ Correspondence: 
+ 
+Massimo Carossa ( massimo.carossa@unito.it ) 
+ 06 11 2024 2 2025 27 1 481060 10.1111/cid.v27.1 e13416 30 9 2024 04 5 2024 23 10 2024 03 02 2025 04 02 2025 07 06 2026 © 2024 The Author(s).  Clinical Implant Dentistry and Related Research  published by Wiley Periodicals LLC. https://creativecommons.org/licenses/by-nc-nd/4.0/ This is an open access article under the terms of the  http://creativecommons.org/licenses/by-nc-nd/4.0/  License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non‐commercial and no modifications or adaptations are made. ABSTRACT Background Full‐arch immediate loading rehabilitations are now a widely used rehabilitation method that guarantees predictable medium‐ and long‐term results. Numerous factors can influence its success and stability in the medium and long term. Among these the implant‐abutment connection seems to play an important role, however there is still little information on which is the most suitable in this type of treatment. Purpose The aim of the present multicenter split‐mouth controlled trial is to evaluate whether external hexagonal connections (EHC) and internal hexagonal connections (IHC) can influence success, bone resorption and peri‐implant parameters in immediate‐load full‐arch rehabilitations. Materials and Methods Twenty patients were rehabilitated with immediately loaded fixed full‐arch rehabilitations. All the implants presented the same macro‐ and micro‐topography but different implant‐abutment connection. IHC were used in one randomly selected side of the jaw and EHC was used in the other side. Outcome measures were implant survival rate, peri‐implant marginal bone loss (MBL), plaque index (PI), probing depth (PD), and bleeding on probing (BoP) evaluated at 3, 6, 12, 36, and 72‐month post‐loading. Technical and biological complications were recorded. Results In 20 patients, 43 EHC and 40 IHC implants were placed. Between 32 and 72 months of follow‐up two patients withdrew (died) and no implants were lost. The cumulative survival rate (CSR) was 97.44% for EHC implants and 97.22% for IHC implants. The MBL presented a resorption of 2 mm in the EHC group and 1.9 mm in the IHC group. No statistically significant differences were found between the two groups for any of the parameters at any time. No biological or technical complications were detected between the 36th and 72nd month of follow‐up. Conclusions After 72 months in function, both internal and external hexagon connections provided good clinical outcomes and were not associated with any significant difference in the clinical outcomes. dental implants full‐arch rehabilitation immediate loading implant‐abutment connection split‐mouth study Sweden and Martina
+ 10.13039/501100008417 pmc-status-qastatus 0 pmc-status-live yes pmc-status-embargo no pmc-status-released yes pmc-prop-open-access yes pmc-prop-olf no pmc-prop-manuscript no pmc-prop-legally-suppressed no pmc-prop-has-pdf yes pmc-prop-has-supplement no pmc-prop-pdf-only no pmc-prop-suppress-copyright no pmc-prop-is-real-version no pmc-prop-is-scanned-article no pmc-prop-preprint no pmc-prop-in-epmc yes pmc-license-ref CC BY-NC-ND source-schema-version-number 2.0 cover-date February 2025 details-of-publishers-convertor Converter:WILEY_ML3GV2_TO_JATSPMC version:6.5.3 mode:remove_FC converted:03.02.2025 
+ Funding:  This work was supported by Sweden and Martina. Francesco Bagnasco and Maria Menini share the first authorship. Massimo Carossa and Francesco Pera share the last authorship. 
+ 
+ Summary Box What Is Known: In implant dentistry, the external hexagon (EHC) was the first implant/abutment connection to be introduced. EHC revealed issues with force distribution, screw loosening, and microbiological leakage. What This Study Adds: This study compared the EHC with an internal hexagon connection (IHC) in immediate loading full‐arch rehabilitation over a 6‐year observational period. Even though in vitro studies showed more beneficial outcomes utilizing IHC (reduced microbial leakage, less screw loosening), no differences were highlighted between the two groups. 1 Introduction Immediately loaded full‐arch rehabilitations allow aesthetic, phonetic, masticatory, and social functions to be re‐established in 24–48 h, with high patient satisfaction [ 1 ,  2 ]. Research has demonstrated the effectiveness and long‐term sustainability of this treatment modality for the rehabilitation of completely edentulous jaws or jaws with severely compromised dentition [ 3 ,  4 ,  5 ,  6 ]. In a longitudinal study, the cumulative success rate of implants placed with the all‐on‐4 treatment was reported to be 91.7% up to a follow‐up period of 18 years [ 3 ]. Another 10‐year longitudinal study shows a cumulative success rate of 93.25% [ 7 ]. The success criteria for implant‐prosthetic rehabilitations have evolved over time. Initially, implant survival was considered the main success criterion of implant‐prosthetic rehabilitations [ 8 ]. To date, the criteria for success of an implant‐prosthetic rehabilitation are diverse and can be influenced by multiple factors. Although osseointegration remains the predominant parameter to be considered in implant dentistry, marginal bone loss (MBL) is certainly the factor that has gained in importance [ 9 ]. However, successful osseointegration and bone maintenance over time can't be considered the sole determinants of a successful rehabilitation. Periodontal parameters as well as incidence of complications and patients' satisfaction must be taken in consideration. Despite the high predictability of success in the medium and long term, immediate‐load full‐arch treatment is associated with several biological and mechanical complications [ 10 ,  11 ]. A review of the literature revealed that several factors influence load transfer at the interface between bone and implant [ 11 ]. The type of implant‐abutment connection plays a crucial role in load transfer, which in turn affects bone remodeling. Although implant‐abutment connection systems are not risk factors that lead directly to implant failure, they exert a significant influence on the incidence of mechanical and biological complications [ 12 ]. The external hexagon implant was the first implant connection system used by Brånemark [ 13 ]. It has now been ascertained by the scientific community that, under high occlusal loads, the outer hexagon can allow movements of the abutment, thus causing instability of the implant‐abutment or implant‐prosthesis connection that can result in loosening of the abutment screw or even fatigue fracture, which can lead to peri‐implant bone resorption and prosthetic complications [ 14 ]. To overcome these problems, internal connections were introduced with the aim of reducing or eliminating these mechanical complications and decreasing the stress transferred to the crestal bone [ 15 ,  16 ]. Over the years, internal connections have evolved and changed depending on the manufacturer, and for this it is therefore difficult to define whether the reduction of complications and peri‐implant stress can be valid for all types of internal connections or only for some of them, because many differences depending on the type of connection have been described in the literature [ 17 ,  18 ]. To date, internal versus external connections appear to reduce mechanical and biological complications, mainly in single and partial rehabilitations [ 19 ]. The aim of the present study is to evaluate whether in the medium and long term, internal and external hexagon connections can influence the clinical outcomes of full‐arch immediate loading rehabilitations. This would seem not to be true for full‐arch rehabilitations where, the splinting of the implants through a rigid framework, seem to reduce the prosthetic and biological complications due to the connection [ 2 ]. Two previously published studies by the same team of authors showed excellent biological and prosthetic results with no statistically significant difference between internal and external hexagon connections in full‐arch immediate loading rehabilitations at both the 12‐ and the 36‐month follow‐up visit [ 2 ,  20 ]. In the present study, the aim was to provide clinical outcomes with a longer follow‐up period (72‐month) for the same sample of patients. The null hypothesis tested was that no differences are present between the two different connections in terms of implant survival, peri‐implant health parameters, and incidence of mechanical and biological complications at the 72‐month follow‐up. 2 Materials And Methods The present study with a 6‐years follow‐up was designed as a split‐mouth multicenter controlled trial. Between September 2015 and July 2017, 20 patients with compromised residual dentition (6 women, 14 men), with an average age of 67 years (women: 61.6; men: 72.4), were treated with full‐arch screw‐retained fixed prostheses supported by 4–5 immediately loaded post‐extractive implants at the lower (9 patients) or upper jaw (11 patients). The sample size was defined by analyzing the sample size of similar studies in the literature [ 21 ]. Ten patients were treated at the Division of Prosthodontics and Implant Prosthodontics (Department of Surgical Sciences, DISC) of the University of Genoa and 10 patients at the Division of Prosthodontics of the C.I.R. Dental School (Department of Surgical Sciences) of the University of Turin. All subjects treated in this study, which was approved by the Scientific Ethical Committee of the University of Genoa (protocol approval number: 527), signed an informed consent before the start of the study. The study was conducted in accordance with the Declaration of Helsinki. This research is reported according to the CONSORT Statement for Quality Improvement in Reporting ( www.consort‐statement.org/ ). All the patients with hopeless dentition and requiring a fixed implant supported full‐arch immediate loading rehabilitation of the upper or lower jaw with sufficient residual bone to insert at least 4 implants with no need of bone grafting and with no contraindications to oral surgery were recruited. No completely edentulous patients were included. The inclusion criteria for subjects recruitment, which are described in details in a previously published paper [ 2 ], were the following: Age ≥ 18; patients with terminal dentition in either maxilla or mandibular arch; patients demanding an immediate and fixed implant rehabilitation; general good medical health with no contraindications to the implant surgery. Exclusion criteria were: patients requiring bone tissue augmentation (bone grafting) in order to place the implants; patients presenting with medical conditions or drug assumption possible interfering with bone or soft tissue healing such as current or previous treatment with intravenous aminobisphosphonates, irradiation of the head and neck area, immunosuppressed or immunocompromised subjects. All patients were rehabilitated with immediately loaded full‐arch rehabilitation according to the Columbus Bridge Protocol [ 1 ,  2 ,  4 ]. Implants were inserted immediately after extraction. The study was performed following a split‐mouth method: two or three implants with a conical morphology, a ZirTi surface (sandblasted and etched) and an EHC (Syra, Sweden & Martina, Due Carrare, Padua, Italy) were placed in a randomly chosen hemiarch, and two or three implants with the same morphology but with an internal hexagonal connection (Shelta, Sweden & Martina) were inserted in the contralateral hemiarch. Randomization was performed by using a pre‐generated random sequence (Random number generation pro 1.91 for Windows, Segobit software; Segobit, Moscow, Russia,  http://www.segobit.com ). The minimum insertion torque value for each implant was 40 Ncm. A free‐hand open flap surgery was performed. Immediately after surgery, multi‐unit conical abutments (MUAs: 0°, 15°, 30° PAD, Sweden and Martina) were screwed onto the implants and a pick‐up plaster impression was taken (BF‐plaster Dental, Turin, Italy). Screw‐retained fixed prostheses endowed with a metal framework and composite resin veneering material were delivered within 48 h. The prostheses had a natural bridge design (no hybrid prostheses) with no distal cantilevers. Control times and prosthetic analyses values are available in a previous publication [ 2 ]. 2.1 Outcome Measures Primary outcome measures were:
+ 
+ Cumulative implant survival rate (iCSR): Implant success was assessed by the maintenance of stable and functional implants during follow‐up appointments. Mobility and consequently removal of implants were considered as failures. Cumulative prosthesis success rate (pCSR): Prosthesis success was defined as an unmodified original prosthetic treatment plan. The success criteria were derived from Zarb et al. [ 8 ] Biological and technical complications: The evaluation of complications was performed according to traditional protocols [ 8 ]. During all follow‐up appointments, all prostheses were unscrewed and the nature and number of complications, such as fracture of the framework and lining material, repair of the prosthesis and framework, replacement of the prosthesis, and loosening of the screws, were evaluated. Secondary outcomes were peri‐implant health parameters:
+ 
+ Mean MBL: Peri‐implant bone resorption calculated using intraoral digital peri‐apical radiographs with a long parallel cone technique. Radiographs were taken from implant placement at all follow‐ups up to 72 months. Bone resorption was assessed by taking the implant‐abutment interface as a reference point and evaluating the distance between this point and the most coronal point of contact between bone and implant on both the mesial and distal side of each implant. Digital software (OrisWin DG, FONA‐Dental, Assago, Italy) was used to perform the measurements. The software was calibrated for each image using the implant diameter as reference. Periodontal indices (plaque index, PI; probing depth, PD; bleeding on probing, BOP) assessed with a UNC 15 probe after unscrewing the prosthesis. BOP was defined as the presence of bleeding (yes/no) assessed at four locations for each implant (mesial, distal, buccal and lingual) using a non‐metallic probe. PI was defined as the presence of plaque (yes/no) on the same four points . Therefore, for PI and BoP, values from 0 to 4 were recorded for each implant site. PD was assessed at six points for each implant. Details regarding the recording of peri‐implant health parameters have been defined in previously published work [ 2 ,  20 ]. 2.2 Statistical Analysis Mean with SD were reported for quantitative characteristics. For analysis on implant failure at patient level the Poisson regression model with number of failures as dependent variable was used to estimate confidence intervals and define statistical differences. Kaplan–Meier has been performed to assess the survival probability for both IHC and EHC implants, and to compare their survival distributions. Longitudinal assessment of bone resorption (mean MBL), PD, BOP, and PI during follow‐up was performed using a linear mixed model with random intercept after visual inspection of their probability distribution. In all these regression models, the dependent variable was the outcome and the independent variables were the time indexes, the treatment group, and their interaction. Screw‐loosed abutments were evaluated with the chi‐square test. Nonparametric  U  Mann–Whitney test was used to assess the putative statistical difference between EHC and IHC techniques between Genoa and Turin groups. All the analyses have been performed with SAS Software 9.4, considering a significance level of 5%. 3 Results Twenty patients were included in the present study (67 ± 9 years; range: 50–82 years; 14 males, 70%) and 83 implants (43 EHC and 40 IHC) were inserted. All the patients received four implants each except for 3 patients who received five implants each supporting 11 upper jaw prostheses and 9 lower jaw prostheses. Two patients dropped out from the study since they were not able to attend the 72‐month follow‐appointment. These patients were considered deceased and were not included in the evaluation of implant survival rate. Two posterior implants (one IHC and one EHC) failed respectively after 3 and 6 months in two different patients. Failed implants were immediately re‐inserted, a new impression was taken, and the original framework was cut and welded with a new part including the replaced implant. When survival between 6 and 72 months of follow‐up was analyzed, it remained almost unchanged throughout the follow‐ up period, with a value of 97.44% and 97.22% for the EHC and IHC implants respectively. This differs slightly from that reported in the article at 36 months (97.7% for EHC and 97.5% IHC) however this discrepancy results from a change in sample size during the statistical calculation. However, despite this, no statistically significant difference ( p  = 0.9697) was found between the two groups with regard to CSR (Figure  1 ). FIGURE 1 Survival function plot (Kaplan–Meier curves). The periodontal parameters between 0 and 72 months of follow‐up presented constant values over time, without showing any significant increase. Probing depth (PD) remained almost constant throughout the follow‐up period reaching a mean value of 2 and 1.9 mm for EHC and IHC respectively at 72 months. While PD remained constant, bleeding on probing (BOP) and plaque index (PI) slightly increased over time reaching BOP values of 1.7 and 1.6 and PI values of 2.2 and 2.2 for EHC and IHC, respectively at 72 months. The main periodontal indices are shown in Table  1 . TABLE 1 Peri‐implant health parameters (BOP, MBL, PI, and PD) in the two groups at different time point (months, m). Mean (SD). EHC IHC 
+ p 
+ MBL 3 m −1.1 mm (0.7) −1.1 mm (0.8) 0.868 MBL 6 m −1.3 mm (0.8) −1.4 mm (0.8) 0.541 MBL 12 m −1.6 mm (0.8) −1.7 mm (0.8) 0.565 MBL 36 m −1.7 mm (0.7) −1.9 mm (0.7) 0.355 MBL 72 m −2.0 mm (0.8) −1.9 mm (0.7) 0.608 PD 3 m 2.1 mm (0.8) 2.1 mm (0.7) 0.710 PD 6 m 2.2 mm (0.7) 2.2 mm (0.7) 0.914 PD 12 m 2.2 mm (0.5) 2.1 mm (0.3) 0.135 PD 36 m 2.2 mm (0.6) 2.3 mm (0.5) 0.304 PD 72 m 2.0 mm (1.2) 1.9 mm (1.0) 0.836 BOP 3 m 1.0 (1.3) 0.9 (1.0) 0.681 BOP 6 m 1.1 (1.0) 0.9 (1.2) 0.494 BOP 12 m 0.8 (0.9) 1.0 (1.2) 0.416 BOP 36 m 1.3 (1.1) 1.1 (0.9) 0.255 BOP 72 m 1.7 (0.9) 1.6 (1.1) 0.732 PI 3 m 1.4 (1.7) 1.3 (1.5) 0.652 PI 6 m 1.7 (1.6) 1.9 (1.6) 0.611 PI 12 m 2.1 (1.5) 1.9 (1.6) 0.714 PI 36 m 2.5 (1.3) 2.0 (1.3) 0.095 PI 72 m 2.2 (1.2) 2.2 (1.3) 0.878 No statistically significant differences were found between the two groups at any time point. MBL had a gradual increase throughout the follow‐up period. Between 0 and 12 months it increased slightly to a value of 1.6 mm for EHC and 1.7 for IHC. This value increased slightly to a resorption of 2 mm in the EHC group and 1.9 mm in the IHC group at 72 months of follow‐up (Figure  2 ) (Figure  3 ), with a slight non‐significant difference ( p  > 0.05). FIGURE 2 Left: (A) Clinical image of a upper full‐arch rehabilitation at the 1‐month follow‐up with provisional prosthesis; (B) peri‐apical x‐rays of the same patient at the 1‐month follow‐up. Right: (A) Clinical image of the same patient at the last 6‐year follow‐up; (B) peri‐apical x‐rays of the same patient at the last 6‐year follow‐up. FIGURE 3 Peri‐implant bone loss over time (mm). A non‐statistically significant difference was found. EHC implants showed lower average bone loss values than IHC implants from the 6‐month follow‐up visit up to 50 months. Between 50 and 72 months of follow‐up the internal hexagon (IH) implants showed reduced mean bone resorption compared to the external hexagon implants (EH). During the 36–72‐month follow‐up period, no biological nor prosthetic complications were identified. Based on the definitions of the 2017 World Workshop no implants developed perimplantitis [ 22 ]. Wilcoxon Signed‐Rank Test has been performed and no significant differences in survival probability were observed by comparing IHC and EHC implants. Furthermore, clinical outcomes recorded at the two clinical centers (University of Genoa and University of Turin) have been compared for both IHC and EHC implants. No statistically significant difference was shown between the two centers for any parameter between 36 and 72 months of follow‐up. No differences have been identified for other parameters. 4 Discussion The aim of the present clinical trial was to compare implants with different implant/abutment connections (EHC vs. IHC) used in full‐arch immediate loading rehabilitations with a 6‐year follow‐up. Implant‐prosthetic connections have been reported to play a key role in peri‐implant bone remodeling, peri‐implant soft tissue healing and maintenance and in the incidence of complications. As reported in the literature, masticatory loads can lead to a reduction in the fixation stability between the implant platform and the abutment, resulting in an increase in bacterial infiltration and a pumping effect, which can in turn lead to an increase in the peri‐implant inflammatory process and lead to an increase in bone resorption [ 23 ]. Several biomechanical studies in the literature have shown that this problem is less present in rehabilitations with internal hex implants than with externally connected implants because the forces exerted during masticatory and transverse loads are dissipated in internal hex implants more along the major axis of the implant with greater lateral stability [ 24 ]. However, in the present study no statistically significant differences in the clinical outcomes were found between internal and external hexagon connections in full‐arch immediate loading rehabilitations over a 72‐month follow‐up. In the present study, the full‐arch prostheses realized following the Columbus bridge protocol were endowed with a metal framework, which allowed solidarization of the implants, increasing their stability and decreasing the possibility of micromovements, unscrewing, and related complications [ 25 ,  26 ]. This aspect can be considered one of the main limitations of the study: The implants were splinted in the same prosthesis, and this might have reduced the potential effects of the two different connections. In the present study PD remained almost constant throughout the 72 months of follow‐up, while BoP and PI increased, reaching mean values of PI above 50% at the last follow‐up appointment. However, this did not correlate with either an increase in PD nor of bone resorption. This, based on the definitions of the 2017 World Workshop [ 22 ], make us assume that although increased plaque accumulation had induced a reversible mucositis it did not lead to peri‐implantitis, as already found in a previous study on a similar patient population [ 27 ]. Most likely, the presence of the MUAs allowed the prosthetic emergence to be distanced from the bone crest and prevented the inflammatory process on some implants from evolving into peri‐implantitis. Bone resorption increased slightly during all 72 months of follow‐up. During the first 12 months after implant insertion bone loss was higher, but in line with what has been reported in the literature, due to normal bone remodeling after immediate post‐extractive implantation and loading. Bone loss gradually and slightly increased during subsequent years reaching at 72 months the values of 2 mm for implants with EHC and 1.9 mm for implants with internal connection, without statistically significant differences between the two connection types in any follow‐up period. In addition, bone resorption evaluated in the Genoa group was slightly lower than in the Turin group at the 6‐year follow‐up for both IHC and EHC implants but without any statistically significant difference between the two centers. A study by Tealdo et al. [ 1 ] conducted with the same surgical‐prosthodontic protocol showed a mean bone resorption of 1.6 mm at 6‐year follow‐up which is slightly lower than the one reported in the present study, however it is considered clinically insignificant by the authors. A systematic literature review by Caricasulo et al. [ 28 ] reported that three studies by Gultekin et al. [ 29 ], Pozzi et al. [ 30 ] and Cooper et al. [ 31 ] had a lower MBL on implants with an internal connection than on those with an external hexagon. A study by Arnhart et al. [ 32 ] on 325 implants found no statistically significant difference in bone resorption between internal and external hexagon implants that had undergone immediate loading, with values in line with those reported in this study. However, it has to be considered that no full‐arch rehabilitations with external hexagon implants but only with internal connection were used in the study [ 32 ]. In two other studies by Crespi et al. [ 33 ] and Esposito et al. [ 34 ], no statistically significant differences were found between systems with external connections and other connection types. However, it has to be taken into consideration that all these studies were performed on single or partial rehabilitations and not on full arches and with follow‐ups of less than 5 years. Natalia Palacios‐Garzón et al. [ 35 ] in a systematic review they showed that in studies with longer follow‐ups and larger sample sizes, external connection showed no significant differences compared to internal connection, indicating that the literature is not sufficiently clear to conclude that one connection is better than the other in terms of MBL. In the same review, it was emphasized that due to the heterogeneity between studies to assess whether the MBL differs significantly between the two connections, more homogeneous clinical studies with identical implant characteristics, larger samples and longer follow‐up periods were required. Such study design was implemented in the present split‐mouth study where the two different implants were identical except for the connection. To the best of the authors' knowledge, this is the first multicenter randomized clinical trial investigating the influence of connections with a follow‐up of more than 5 years. In addition, despite two implant failures during the first 6 months after implant insertion, the fixed prostheses were always maintained in situ, supported by the remaining implants and/or by the newly placed implants and no further complications occurred after the 72‐month follow‐up appointment. For this reason, the proposed treatment rehabilitation might be considered predictable and can provide high patients' satisfaction and comfort in the medium term follow‐up. While seven mechanical complications were identified in the results at 36 months, with no statistically significant difference between the two groups, no prosthetic complications were found between 36 and 72 months of follow‐up. It should be emphasized that the use of MUAs has greatly reduced the possible influence that connections could have on both biological and prosthetic complications. Despite the limitations of the present research, such as small number of patients included and single‐blind approach, its merits include that it was performed as a randomized, split‐mouth, multicenter clinical trial in order to reduce the risk of sample heterogeneity as much as possible and eliminate intra‐patient variables. According to this research, implant survival rate, peri‐implant bone resorption and prosthesis success are not influenced by the implant/abutment connection in full‐arch immediate loading rehabilitations. The present outcomes at the 72‐month follow‐up confirm the preliminary results with 1 [ 2 ]‐ and 3‐year [ 19 ] follow‐up and, therefore, the null hypothesis was not rejected. 5 Conclusion Based on the outcomes of the present multicenter split‐mouth randomized study, clinical outcomes of full‐arch immediate loading rehabilitations on a reduced number of implants are not significantly affected by different implant‐abutment connections. Author Contributions F.B.: concept/design, data acquisition and interpretation, statistical analysis, drafting the paper and final approval. M.M.: concept/design, data acquisition and interpretation, statistical analysis, drafting the paper, revising it critically and final approval. P.P.: concept/design, data acquisition and interpretation, statistical analysis, drafting the paper and final approval. U.G.: data acquisition and interpretation, statistical analysis, drafting the paper and final approval. M.C.: concept/design, data acquisition and interpretation, drafting the paper and final approval. F.P.: concept/design, data acquisition and interpretation, drafting the paper and final approval. All the authors gave a substantial contribution to the conception or design of the work; or the acquisition, analysis, or interpretation of data for the work. Conflicts of Interest The authors declare no conflicts of interest. Acknowledgments Open Access Funding provided by Università degli Studi di Torino within the CRUI‐CARE Agreement. Data Availability Statement The data that support the findings of this study are available from the corresponding author upon reasonable request. References 1 
+ 
+ ,  T. 
+ Tealdo 
+ 
+ ,  M. 
+ Menini 
+ 
+ , et al., “ M. 
+ Bevilacqua 
+ Immediate Versus Delayed Loading of Dental Implants in Edentulous patients' Maxillae: A 6‐Year Prospective Study ,”  International Journal of Prosthodontics 
+ 27 , no.  3  ( 2014 ):  207 – 214 . 24905260 
+ 10.11607/ijp.3569 2 
+ 
+ ,  M. 
+ Menini 
+ 
+ ,  P. 
+ Pesce 
+ 
+ ,  F. 
+ Bagnasco 
+ 
+ ,  M. 
+ Carossa 
+ 
+ , and  F. 
+ Mussano 
+ 
+ , “ F. 
+ Pera 
+ Evaluation of Internal and External Hexagon Connections in Immediately Loaded Full‐Arch Rehabilitations: A Within‐Person Randomised Split‐Mouth Controlled Trial ,”  International Journal of Oral Implantology 
+ 12 , no.  2  ( 2019 ):  169 – 179 . 31090748 
+ 3 
+ 
+ ,  P. 
+ Malo 
+ 
+ , and  B. 
+ Rangert 
+ 
+ , “ M. 
+ Nobre 
+ "All‐on‐Four" Immediate‐Function Concept With Branemark System Implants for Completely Edentulous Mandibles: A Retrospective Clinical Study ,”  Clinical Implant Dentistry and Related Research 
+ 5 , no.  1  ( 2003 ):  2 – 9 . 12691645 
+ 10.1111/j.1708-8208.2003.tb00010.x 4 
+ 
+ ,  B. R. 
+ Chrcanovic 
+ 
+ , and  T. 
+ Albrektsson 
+ 
+ , “ A. 
+ Wennerberg 
+ Tilted Versus Axially Placed Dental Implants: A Meta‐Analysis ,”  Journal of Dentistry 
+ 43 , no.  2  ( 2015 ):  149 – 170 . 25239770 
+ 10.1016/j.jdent.2014.09.002 5 
+ 
+ ,  P. 
+ Papaspyridakos 
+ 
+ ,  C. J. 
+ Chen 
+ 
+ , and  S. K. 
+ Chuang 
+ 
+ , “ H. P. 
+ Weber 
+ Implant Loading Protocols for Edentulous Patients With Fixed Prostheses: A Systematic Review and Meta‐Analysis ,”  International Journal of Oral & Maxillofacial Implants 
+ 29  ( 2014 ):  256 – 270 . 24660202 
+ 10.11607/jomi.2014suppl.g4.3 6 
+ 
+ ,  M. 
+ Del Fabbro 
+ 
+ ,  A. 
+ Pozzi 
+ 
+ ,  D. 
+ Romeo 
+ 
+ , and  N. M. 
+ de Araujo 
+ 
+ , “ E. 
+ Agliardi 
+ Outcomes of Fixed Full‐Arch Rehabilitations Supported by Tilted and Axially Placed Implants: A Systematic Review and Meta‐Analysis ,”  International Journal of Oral & Maxillofacial Implants 
+ 37 , no.  5  ( 2022 ):  1003 – 1025 . 36170316 
+ 10.11607/jomi.9710 7 
+ 
+ ,  P. 
+ Pera 
+ 
+ ,  M. 
+ Menini 
+ 
+ ,  P. 
+ Pesce 
+ 
+ ,  M. 
+ Bevilacqua 
+ 
+ , and  F. 
+ Pera 
+ 
+ , “ T. 
+ Tealdo 
+ Immediate Versus Delayed Loading of Dental Implants Supporting Fixed Full‐Arch Maxillary Prostheses: A 10‐Year Follow‐Up Report ,”  International Journal of Prosthodontics 
+ 32 , no.  1  ( 2019 ):  27 – 31 . 30677109 
+ 10.11607/ijp.5804 8 
+ 
+ ,  T. 
+ Albrektsson 
+ 
+ ,  G. 
+ Zarb 
+ 
+ , and  P. 
+ Worthington 
+ 
+ , “ A. R. 
+ Eriksson 
+ The Long‐Term Efficacy of Currently Used Dental Implants: A Review and Proposed Criteria of Success ,”  International Journal of Oral & Maxillofacial Implants 
+ 1 , no.  1  ( 1986 ):  11 – 25 . 3527955 
+ 9 
+ 
+ ,  P. 
+ Papaspyridakos 
+ 
+ ,  C. J. 
+ Chen 
+ 
+ ,  M. 
+ Singh 
+ 
+ , and  H. P. 
+ Weber 
+ 
+ , “ G. O. 
+ Gallucci 
+ Success Criteria in Implant Dentistry: A Systematic Review ,”  Journal of Dental Research 
+ 91 , no.  3  ( 2012 ):  242 – 248 . 22157097 
+ 10.1177/0022034511431252 10 
+ 
+ ,  R. S. 
+ Pessoa 
+ 
+ ,  R. M. 
+ Sousa 
+ 
+ , et al., “ L. M. 
+ Pereira 
+ Bone Remodeling Around Implants With External Hexagon and Morse‐Taper Connections: A Randomized, Controlled, Split‐Mouth, Clinical Trial ,”  Clinical Implant Dentistry and Related Research 
+ 19 , no.  1  ( 2017 ):  97 – 110 . 27353076 
+ 10.1111/cid.12437 11 
+ 
+ ,  M. 
+ Carossa 
+ 
+ ,  F. 
+ Pera 
+ 
+ , et al., “ M. 
+ Alovisi 
+ Implant Survival Rate and Marginal Bone Loss of 174 Implants With Different Variables Associated Over a Minimum Observational Period of 20 Years: A Retrospective Study ,”  Journal of Prosthodontics 
+ 33  ( 2024 ):  764 – 773 . 38517983 
+ 10.1111/jopr.13848 12 
+ 
+ ,  A. 
+ Zembic 
+ 
+ ,  S. 
+ Kim 
+ 
+ , and  M. 
+ Zwahlen 
+ 
+ , “ J. R. 
+ Kelly 
+ Systematic Review of the Survival Rate and Incidence of Biologic, Technical, and Esthetic Complications of Single Implant Abutments Supporting Fixed Prostheses ,”  International Journal of Oral & Maxillofacial Implants 
+ 29  ( 2014 ):  99 – 116 . 24660193 
+ 10.11607/jomi.2014suppl.g2.2 13 
+ 
+ ,  R. 
+ Adell 
+ 
+ ,  U. 
+ Lekholm 
+ 
+ , and  B. 
+ Rockler 
+ 
+ , “ P. I. 
+ Branemark 
+ A 15‐Year Study of Osseointegrated Implants in the Treatment of the Edentulous Jaw ,”  International Journal of Oral Surgery 
+ 10 , no.  6  ( 1981 ):  387 – 416 . 6809663 
+ 10.1016/s0300-9785(81)80077-4 14 
+ 
+ ,  R. 
+ Adell 
+ 
+ ,  B. 
+ Eriksson 
+ 
+ ,  U. 
+ Lekholm 
+ 
+ , and  P. I. 
+ Branemark 
+ 
+ , “ T. 
+ Jemt 
+ Long‐Term Follow‐Up Study of Osseointegrated Implants in the Treatment of Totally Edentulous Jaws ,”  International Journal of Oral & Maxillofacial Implants 
+ 5 , no.  4  ( 1990 ):  347 – 359 . 2094653 
+ 15 
+ 
+ ,  B. R. 
+ Merz 
+ 
+ , and  S. 
+ Hunenbart 
+ 
+ , “ U. C. 
+ Belser 
+ Mechanics of the Implant‐Abutment Connection: An 8‐Degree Taper Compared to a Butt Joint Connection ,”  International Journal of Oral & Maxillofacial Implants 
+ 15 , no.  4  ( 2000 ):  519 – 526 . 10960985 
+ 16 
+ 
+ ,  I. M. 
+ Finger 
+ 
+ ,  P. 
+ Castellon 
+ 
+ , and  M. 
+ Block 
+ 
+ , “ N. 
+ Elian 
+ The Evolution of External and Internal Implant/Abutment Connections ,”  Practical Procedures & Aesthetic Dentistry 
+ 15 , no.  8  ( 2003 ):  625 – 632 . 14618767 
+ 17 
+ 
+  and  T. 
+ Tsuge 
+ 
+ , “ Y. 
+ Hagiwara 
+ Influence of Lateral‐Oblique Cyclic Loading on Abutment Screw Loosening of Internal and External Hexagon Implants ,”  Dental Materials Journal 
+ 28 , no.  4  ( 2009 ):  373 – 381 . 19721272 
+ 10.4012/dmj.28.373 18 
+ 
+ ,  C. P. 
+ Lin 
+ 
+ ,  Y. T. 
+ Shyu 
+ 
+ ,  Y. L. 
+ Wu 
+ 
+ ,  M. H. 
+ Tsai 
+ 
+ , and  H. S. 
+ Chen 
+ 
+ , “ A. Y. 
+ Wu 
+ Effects of Marginal Bone Loss Progression on Stress Distribution in Different Implant‐Abutment Connections and Abutment Materials: A 3D Finite Element Analysis Study ,”  Materials 
+ 15 , no.  17  ( 2022 ):  5866 . 36079245 
+ 10.3390/ma15175866 PMC9457366 19 
+ 
+ ,  C. 
+ Mangano 
+ 
+ ,  F. 
+ Iaculli 
+ 
+ , and  A. 
+ Piattelli 
+ 
+ , “ F. 
+ Mangano 
+ Fixed Restorations Supported by Morse‐Taper Connection Implants: A Retrospective Clinical Study With 10‐20 Years of Follow‐Up ,”  Clinical Oral Implants Research 
+ 26 , no.  10  ( 2015 ):  1229 – 1236 . 24954285 
+ 10.1111/clr.12439 20 
+ 
+ ,  F. 
+ Pera 
+ 
+ ,  M. 
+ Menini 
+ 
+ ,  F. 
+ Bagnasco 
+ 
+ ,  F. 
+ Mussano 
+ 
+ , and  G. 
+ Ambrogio 
+ 
+ , “ P. 
+ Pesce 
+ Evaluation of Internal and External Hexagon Connections in Immediately Loaded Full‐Arch Rehabilitations: A Within‐Person Randomized Split‐Mouth Controlled Trial With a 3‐Year Follow‐Up ,”  Clinical Implant Dentistry and Related Research 
+ 23 , no.  4  ( 2021 ):  562 – 567 . 34219356 
+ 10.1111/cid.13029 PMC8457096 21 
+ 
+ ,  A. 
+ Legg 
+ 
+ , and  K. 
+ Hare 
+ 
+ , “ C. 
+ Campbell 
+ Immediately Loaded Full Arch Implant Rehabilitation and Oral Health‐Related Quality of Life: A Retrospective Cohort Study From Primary Dental Care ,”  Clinical Implant Dentistry and Related Research 
+ 25 , no.  6  ( 2023 ):  1103 – 1111 . 37524507 
+ 10.1111/cid.13254 22 
+ 
+ ,  S. 
+ Renvert 
+ 
+ ,  G. R. 
+ Persson 
+ 
+ , and  F. Q. 
+ Pirih 
+ 
+ , “ P. M. 
+ Camargo 
+ Peri‐Implant Health, Peri‐Implant Mucositis, and Peri‐Implantitis: Case Definitions and Diagnostic Considerations ,”  Journal of Periodontology 
+ 89 , no.  1  ( 2018 ):  S304 – S312 . 29926953 
+ 10.1002/JPER.17-0588 23 
+ 
+ ,  S. K. 
+ Mishra 
+ 
+ , and  R. 
+ Chowdhary 
+ 
+ , “ S. 
+ Kumari 
+ Microleakage at the Different Implant Abutment Interface: A Systematic Review ,”  Journal of Clinical and Diagnostic Research 
+ 11 , no.  6  ( 2017 ):  ZE10 – ZE15 . 28764310 
+ 10.7860/JCDR/2017/28951.10054 PMC5535497 24 
+ 
+ ,  C. A. A. 
+ Lemos 
+ 
+ ,  F. R. 
+ Verri 
+ 
+ ,  E. A. 
+ Bonfante 
+ 
+ , and  J. F. 
+ Santiago Junior 
+ 
+ , “ E. P. 
+ Pellizzer 
+ Comparison of External and Internal Implant‐Abutment Connections for Implant Supported Prostheses. A Systematic Review and Meta‐Analysis ,”  Journal of Dentistry 
+ 70  ( 2018 ):  14 – 22 . 29221955 
+ 10.1016/j.jdent.2017.12.001 25 
+ 
+ ,  F. 
+ Delucchi 
+ 
+ ,  E. 
+ De Giovanni 
+ 
+ , et al., “ P. 
+ Pesce 
+ Framework Materials for Full‐Arch Implant‐Supported Rehabilitations: A Systematic Review of Clinical Studies ,”  Materials 
+ 14 , no.  12  ( 2021 ):  3251 . 34204681 
+ 10.3390/ma14123251 PMC8231547 26 
+ 
+  and  K. 
+ Fischer 
+ 
+ , “ T. 
+ Stenberg 
+ Prospective 10‐Year Cohort Study Based on a Randomized, Controlled Trial (RCT) on Implant‐Supported Full‐Arch Maxillary Prostheses. Part II: Prosthetic Outcomes and Maintenance ,”  Clinical Implant Dentistry and Related Research 
+ 15 , no.  4  ( 2013 ):  498 – 508 . 21834863 
+ 10.1111/j.1708-8208.2011.00383.x 27 
+ 
+ ,  M. 
+ Menini 
+ 
+ ,  P. 
+ Setti 
+ 
+ ,  P. 
+ Pera 
+ 
+ , and  F. 
+ Pera 
+ 
+ , “ P. 
+ Pesce 
+ Peri‐Implant Tissue Health and Bone Resorption in Patients With Immediately Loaded, Implant‐Supported ,”  International Journal of Prosthodontics 
+ 31 , no.  4  ( 2018 ):  327 – 333 . 29953561 
+ 10.11607/ijp.5567 28 
+ 
+ ,  R. 
+ Caricasulo 
+ 
+ ,  L. 
+ Malchiodi 
+ 
+ ,  P. 
+ Ghensi 
+ 
+ , and  G. 
+ Fantozzi 
+ 
+ , “ A. 
+ Cucchi 
+ The Influence of Implant‐Abutment Connection to Peri‐Implant Bone Loss: A Systematic Review and Meta‐Analysis ,”  Clinical Implant Dentistry and Related Research 
+ 20 , no.  4  ( 2018 ):  653 – 664 . 29761902 
+ 10.1111/cid.12620 29 
+ 
+ ,  B. A. 
+ Gultekin 
+ 
+ ,  P. 
+ Gultekin 
+ 
+ ,  B. 
+ Leblebicioglu 
+ 
+ , and  C. 
+ Basegmez 
+ 
+ , “ S. 
+ Yalcin 
+ Clinical Evaluation of Marginal Bone Loss and Stability in Two Types of Submerged Dental Implants ,”  International Journal of Oral & Maxillofacial Implants 
+ 28 , no.  3  ( 2013 ):  815 – 823 . 23748314 
+ 10.11607/jomi.3087 30 
+ 
+ ,  A. 
+ Pozzi 
+ 
+ ,  E. 
+ Agliardi 
+ 
+ , and  M. 
+ Tallarico 
+ 
+ , “ A. 
+ Barlattani 
+ Clinical and Radiological Outcomes of Two Implants With Different Prosthetic Interfaces and Neck Configurations: Randomized, Controlled, Split‐Mouth Clinical Trial ,”  Clinical Implant Dentistry and Related Research 
+ 16 , no.  1  ( 2014 ):  96 – 106 . 22672713 
+ 10.1111/j.1708-8208.2012.00465.x 31 
+ 
+ ,  L. F. 
+ Cooper 
+ 
+ ,  G. 
+ Reside 
+ 
+ , et al., “ C. 
+ Stanford 
+ A Multicenter Randomized Comparative Trial of Implants With Different Abutment Interfaces to Replace Anterior Maxillary Single Teeth ,”  International Journal of Oral & Maxillofacial Implants 
+ 30 , no.  3  ( 2015 ):  622 – 632 . 26009913 
+ 10.11607/jomi.3772 32 
+ 
+ ,  C. 
+ Arnhart 
+ 
+ ,  A. M. 
+ Kielbassa 
+ 
+ , et al., “ R. 
+ Martinez‐de Fuentes 
+ Comparison of Variable‐Thread Tapered Implant Designs to a Standard Tapered Implant Design After Immediate Loading. A 3‐Year Multicentre Randomised Controlled Trial ,”  European Journal of Oral Implantology 
+ 5 , no.  2  ( 2012 ):  123 – 136 . 22866289 
+ 33 
+ 
+ ,  R. 
+ Crespi 
+ 
+ , and  P. 
+ Cappare 
+ 
+ , “ E. 
+ Gherlone 
+ Radiographic Evaluation of Marginal Bone Levels Around Platform‐Switched and Non‐platform‐Switched Implants Used in an Immediate Loading Protocol ,”  International Journal of Oral & Maxillofacial Implants 
+ 24 , no.  5  ( 2009 ):  920 – 926 . 19865633 
+ 34 
+ 
+ ,  M. 
+ Esposito 
+ 
+ ,  H. 
+ Maghaireh 
+ 
+ , et al., “ R. 
+ Pistilli 
+ Dental Implants With Internal Versus External Connections: 5‐Year Post‐Loading Results From a Pragmatic Multicenter Randomised Controlled Trial ,”  European Journal of Oral Implantology 
+ 9 , no.  2  ( 2016 ):  129 – 141 . 27314118 
+ 35 
+ 
+ ,  N. 
+ Palacios‐Garzon 
+ 
+ ,  E. 
+ Mauri‐Obradors 
+ 
+ ,  L. X. 
+ Rosello 
+ 
+ ,  A. 
+ Estrugo‐Devesa 
+ 
+ , and  E. 
+ Jane‐Salas 
+ 
+ , “ J. 
+ Lopez‐Lopez 
+ Comparison of Marginal Bone Loss Between Implants With Internal and External Connections: A Systematic Review ,”  International Journal of Oral & Maxillofacial Implants 
+ 33 , no.  3  ( 2018 ):  580 – 589 . 29763496 
+ 10.11607/jomi.6190
