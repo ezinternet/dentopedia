@@ -4331,6 +4331,19 @@ tags: []
 - [[implants/loading-protocol/chidagam-2017-immediate-versus-delayed-loading-implant]] — Chidagam 2017 · rct (n=20, 20 임플란트) · 하악 제1대구치 단일치 즉시부하(≤2일) vs 지연부하(3개월) 6년 추적: 생존율 100% vs 100%, MBL 6개월 0.1~0.15mm, 탐침깊이 즉시군 유의감소(1.8→1.2mm, p=0.028), 주위임플란트 방사선투과도 0% — 즉시부하가 지연부하와 동등한 장기 결과 [rct]
 - [[implants/survival/zarzar-2023-implants-radiotherapy-head-neck]] — Umbrella review(SR 15편, 임플란트 24,996개): 방사선치료군 성공률 86.2% vs 비치료군 95.2%, AMSTAR2 high quality 1/15편 (partially superseded by pacheco-2025) [sr]
 - [[implants/full-arch/merli-2018-implant-prosthetic-rehabilitation-bone-atrophy]] — 우산리뷰(SR 12편, RCT 기반, ROBIS 저위험 8/12): 짧은 임플란트(≤8mm)는 골증대 동반 긴 임플란트 대비 합병증 뚜렷이 감소 [sr, abstract-only]
+- [[implants/full-arch/pellicer-chover-2013-single-blind-randomized-clinical-trial]] — Pellicer-Chover 2013 · RCT · 무치악 하악 즉시부하에서 4개 임플란트 식립·조기부하(≤14일) vs 지연부하(3-4개월) 3년 RCT: 생존율·MBL 동등, 환자 만족도 동등 (DOI 10.4317/medoral.19536)
+- [[implants/full-arch/cappare-2019-conventional-versus-digital-impressions-for]] — Cappare 2019 · RCT · 상악 전악 나사고정 보철에서 기존(석고) vs 디지털(IOS) 인상 정확도 비교: 3차원 편차 유의차 없음, 디지털이 임상적으로 수용 가능 (DOI 10.3390/ijerph16050829)
+- [[implants/full-arch/gracher-2021-full-arch-rehabilitation-in-patients]] — Gracher 2021 · SR · 위축 상악에서 관골임플란트(ZI) 이용 전악 재건 42편 SR: 생존율 93-100%, ZI가 무이식 대안으로 유효 (DOI 10.1186/s40729-021-00297-z)
+- [[implants/full-arch/fernandez-ruiz-2021-evaluation-of-quality-of-life]] — Fernandez-Ruiz 2021 · RCT · 위축 상악에서 관골 고정보철 vs All-on-4 QoL 전향 RCT: ZI군에서 기능·심리 영역 유의 우위, 생존율 동등 (DOI 10.3390/ijerph18073426)
+- [[implants/full-arch/cattoni-2021-digital-smile-designed-computer-aided]] — Cattoni 2021 · RCT · All-on-4에서 디지털 스마일 디자인 가이드 수술 vs 전통 워크플로우 4년 RCT: 디지털군이 정확도·심미·환자만족도 우위 (DOI 10.3390/ijerph18073449)
+- [[implants/full-arch/gaonkar-2021-survival-rates-of-axial-and]] — Gaonkar 2021 · SR · 무치악 악궁 재건에서 axial vs tilted 임플란트 생존율 SR: tilted가 생존율·MBL 동등하거나 우위, all-on-4 개념 지지 (DOI 10.4103/jips.jips_100_20)
+- [[implants/full-arch/rossi-2021-two-year-follow-up-of]] — Rossi 2021 · RCT · 상악 전악 고정보철에서 4mm 초단임플란트(원위 지지) vs 10mm+양측 상악동거상술 2년 split-mouth RCT: 생존 100% vs 100%, MBL −0.28 vs −0.54mm (p=0.128), 4mm 비열등 (DOI 10.3390/ijerph18073846)
+- [[implants/full-arch/pera-2021-evaluation-of-internal-and-external]] — Pera 2021 · RCT · 전악 즉시부하에서 external hex vs internal hex 연결 3년 멀티센터 split-mouth RCT: 생존 97.7% vs 97.5%, MBL 1.7 vs 1.9mm, 차이 무의미 (DOI 10.1111/cid.13029)
+- [[implants/full-arch/storelli-2021-use-of-narrow-diameter-implants]] — Storelli 2021 · SR · 완전무치악에서 narrow diameter implant(2.5-3.5mm) 전악 보철 SR: 5년 생존 92.25%, MBL 1.40mm, 가철성 오버덴처 한정 (DOI 10.1155/2021/5571793)
+- [[implants/full-arch/bagnasco-2024-evaluation-of-internal-and-external]] — Bagnasco 2024 · RCT · 즉시부하 전악에서 internal vs external hex 연결 6년 멀티센터 RCT: 생존 100% vs 100%, MBL ~2mm 양군 동등 (DOI 10.1111/cid.13416)
+- [[implants/full-arch/pozzi-2025-photogrammetry-versus-intraoral-scanning-in]] — Pozzi 2025 · SR+MA · 전악 디지털 인상에서 포토그래메트리(SPG) vs IOS 정확도 SR+MA: 13편 중 10편 SPG 우위, 메타분석 SPG 유리 (DOI 10.1111/cid.70059)
+- [[implants/full-arch/emam-2025-evaluation-of-the-marginal-gap]] — Emam 2025 · RCT · 전악 임플란트 보철에서 지르코니아 vs PEEK 서브스트럭처 비교 RCT: 지르코니아 마진갭(42 vs 59μm)·트루니스(28 vs 42μm) 우위 (DOI 10.1186/s12903-025-07206-5)
+- [[implants/full-arch/aboelez-2026-clinical-and-prosthetic-outcomes-of]] — Aboelez 2026 · RCT · 상악 All-on-Six에서 PEEK 복합 vs Ti-Zr 프레임 비교 RCT: PEEK가 주위조직 건강 우위, Ti-Zr가 심미 만족도 우위 (DOI 10.1111/jerd.70166)
 
 ### implants/surface
 - [[implants/surface/beckwith-2024-implant-coatings-affect-healing]] — Do Implant Coatings Affect Healing of Placed Implants? An Umbrella Review (Beckwith & Devlin, 2024) — 우산리뷰(SR 11편): 코팅이 골유착 개선/MBL 감소시킨다는 근거는 약함 [sr, abstract-only]
