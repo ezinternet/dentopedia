@@ -15,20 +15,20 @@ tags: [navigation, category-index, full-arch]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·전악수복
 > - **범위**: Full-arch / edentulous-jaw implant rehabilitation — All-on-4/-6, tilted vs axial distal implants, immediate full-arch loading & flapless full-arch, implant overdentures (single/two-implant, CAD-CAM bar), framework & load-direction FEA, severely atrophic-jaw solutions (zygomatic, customized subperios…
-> - **수록 논문**: 42편
+> - **수록 논문**: 43편
 
 ## Three-line Summary
 
 **Scope**: Full-arch / edentulous-jaw implant rehabilitation — All-on-4/-6, tilted vs axial distal implants, immediate full-arch loading & flapless full-arch, implant overdentures (single/two-implant, CAD-CAM bar), framework & load-direction FEA, severely atrophic-jaw solutions (zygomatic, customized subperiosteal).
-**Indexed papers**: 42 papers in `wiki/implants/full-arch/`.
+**Indexed papers**: 43 papers in `wiki/implants/full-arch/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·전악수복
-**수록 논문**: 42편
+**수록 논문**: 43편
 **하위 카테고리**: 없음
 
-## Papers in this Category (42)
+## Papers in this Category (43)
 
 | Paper |
 |---|
@@ -54,6 +54,7 @@ tags: [navigation, category-index, full-arch]
 | [[huber-2026-all-on-four-sr-management-complications|All-on-Four Rehabilitation: A Systematic Review of Clinical Management, Workflow and Complications]] |
 | [[kern-2018-single-implants-edentulous-mandible-immediate|Single Mandibular Midline Implants — Immediate vs Delayed Loading: A Randomized Controlled Trial]] |
 | [[koyama-2025-single-vs-two-implant-mandibular-overdenture-sr-ma|Single versus two implant-supported mandibular overdentures: a systematic review and meta-analysis of implant survival and prosthetic complications]] |
+| [[krennmair-2025-metal-resin-zirconia-molars-5yr|Clinical outcome and technical complications of bimaxillary full-arch implant-supported metal-resin fixed dental prostheses with or without ceramic molars: 5-year results]] |
 | [[la-monaca-2022-immediate-flapless-full-arch-rehabilitation|Immediate Flapless Full-Arch Rehabilitation of Edentulous Jaws on 4 or 6 Implants According to the Prosthetic-Driven Planning and Guided Implant Surgery: A Retrospective Study on Clinical and Radiographic Outcomes up to 10 Years of Follow-Up]] |
 | [[lan-2025-four-implant-overdenture-vs-fixed-sr-ma|Long-Term Comprehensive Results of Four-Implant-Supported Overdentures and Fixed Complete Dentures: A Systematic Review and Meta-analysis]] |
 | [[lin-2018-clinical-performance-tilted-versus-axial|Clinical performance of intentionally tilted implants versus axially positioned implants: A systematic review]] |
