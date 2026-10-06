@@ -44,7 +44,7 @@ tags: [navigation, category-index, full-arch]
 | [[bishti-2026-veneering-design-full-arch-sr|Systematic Review Evaluating the Influence of Veneering Design on the Clinical Outcome of All-Ceramic Implant-Supported 3-4 Units and Full Arch Fixed Dental Prostheses]] |
 | [[cabbarova-2026-all-on-four-six-framework-fea|All-on-Four vs All-on-Six Framework Materials: FEA Biomechanical Comparison]] |
 | [[cappare-2019-conventional-versus-digital-impressions-for|Cappare 2019 — RCT: Conventional vs Digital Impressions for Full-Arch Maxillary Rehabilitation]] |
-| [[cattoni-2021-digital-smile-designed-computer-aided|cattoni-2021-digital-smile-designed-computer-aided]] |
+| [[cattoni-2021-digital-smile-designed-computer-aided|Digital Smile Designed Computer-Aided Surgery versus Traditional Workflow in All-on-4 Rehabilitations: A Randomized Clinical Trial with 4-Years Follow-Up]] |
 | [[chappuis-chocano-2023-cadcam-bar-implant-overdenture-sr-ma|Systematic review and meta-analysis of the clinical performance of implant-supported overdentures retained by CAD-CAM bars]] |
 | [[cosola-2026-customized-3d-printed-titanium-subperiosteal-implants-sr-ma|Clinical Outcomes, Survival, and Complications of Customized Computer-Aided Design and Manufacturing 3-Dimensional–Printed Titanium Subperiosteal Implants]] |
 | [[cuello-de-garcia-2026-zirconia-height-cantilever-fracture-in-vitro|Effect of Zirconia Height on the Fracture Resistance of Cantilever Full-Arch Implant-Supported Prostheses: An In-Vitro Study]] |
@@ -55,7 +55,7 @@ tags: [navigation, category-index, full-arch]
 | [[eskan-2020-tapered-implants-full-arch-immediate-function|Tapered BLT Implants for Full-Arch Immediate Function: 55-Month Retrospective]] |
 | [[figueiredo-2025-all-on-four-overview-sr|Rehabilitation of edentulous jaws using the 'All-on-Four' treatment concept: an overview of systematic reviews]] |
 | [[fiorellini-2026-global-consensus-edentulous-maxilla-group3|Consensus Report of Group 3 of the 1st Global Consensus for Clinical Guidelines for the Rehabilitation of the Edentulous Maxilla: Advanced Diagnostic Imaging, Augmentation Techniques, and Management of Complications]] |
-| [[gaonkar-2021-survival-rates-of-axial-and|gaonkar-2021-survival-rates-of-axial-and]] |
+| [[gaonkar-2021-survival-rates-of-axial-and|Survival Rates of Axial and Tilted Implants in the Rehabilitation of Edentulous Jaws Using the All-on-Four Concept: A Systematic Review]] |
 | [[garza-2026-arch-morphology-marginal-bone-remodeling|Arch- and Morphology-Related Variation in Early Marginal Bone Remodeling of Monolithic Zirconia Full-Arch Prostheses: An Exploratory Prospective Cohort Study]] |
 | [[gianfreda-2025-trans-sinus-full-arch-sr-ma|Indications, techniques and complications associated with full-arch rehabilitation using trans-sinus implants: A systematic review and prevalence meta-analysis]] |
 | [[gracher-2021-full-arch-rehabilitation-in-patients|Gracher 2021 — Systematic Review: Zygomatic Implants for Atrophic Maxilla Full-Arch Rehabilitation]] |
