@@ -15,20 +15,20 @@ tags: [navigation, category-index, full-arch]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·전악수복
 > - **범위**: Full-arch / edentulous-jaw implant rehabilitation — All-on-4/-6, tilted vs axial distal implants, immediate full-arch loading & flapless full-arch, implant overdentures (single/two-implant, CAD-CAM bar), framework & load-direction FEA, severely atrophic-jaw solutions (zygomatic, customized subperios…
-> - **수록 논문**: 34편
+> - **수록 논문**: 35편
 
 ## Three-line Summary
 
 **Scope**: Full-arch / edentulous-jaw implant rehabilitation — All-on-4/-6, tilted vs axial distal implants, immediate full-arch loading & flapless full-arch, implant overdentures (single/two-implant, CAD-CAM bar), framework & load-direction FEA, severely atrophic-jaw solutions (zygomatic, customized subperiosteal).
-**Indexed papers**: 34 papers in `wiki/implants/full-arch/`.
+**Indexed papers**: 35 papers in `wiki/implants/full-arch/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·전악수복
-**수록 논문**: 34편
+**수록 논문**: 35편
 **하위 카테고리**: 없음
 
-## Papers in this Category (34)
+## Papers in this Category (35)
 
 | Paper |
 |---|
@@ -54,6 +54,7 @@ tags: [navigation, category-index, full-arch]
 | [[la-monaca-2022-immediate-flapless-full-arch-rehabilitation|Immediate Flapless Full-Arch Rehabilitation of Edentulous Jaws on 4 or 6 Implants According to the Prosthetic-Driven Planning and Guided Implant Surgery: A Retrospective Study on Clinical and Radiographic Outcomes up to 10 Years of Follow-Up]] |
 | [[lin-2018-clinical-performance-tilted-versus-axial|Clinical performance of intentionally tilted implants versus axially positioned implants: A systematic review]] |
 | [[liu-2021-immediate-delayed-loading-overdenture-mbl-sr-ma|Effects of immediate and delayed loading protocols on marginal bone loss around implants in unsplinted mandibular implant-retained overdentures: a systematic review and meta-analysis]] |
+| [[marinkovic-2026-metal-zirconia-vs-acrylic-full-arch-sr-ma|Prosthetic and Biological Complications of Metal-Zirconia versus Metal-Acrylic Implant-Supported Screw-Retained Complete-Arch Prostheses: A Systematic Review and Meta-Analysis]] |
 | [[mehta-2021-tilted-axial-implants-edentulous-maxilla-sr-ma|Clinical success between tilted and axial implants in edentulous maxilla: A systematic review and meta-analysis]] |
 | [[menchini-fabris-2025-zygomatic-full-arch-3yr|Clinical and radiographic retrospective examination of data from patients who received endosseous zygomatic dental implants to support maxillary full-arch prostheses]] |
 | [[merli-2018-implant-prosthetic-rehabilitation-bone-atrophy|Implant prosthetic rehabilitation in partially edentulous patients with bone atrophy. An umbrella review based on systematic reviews of randomised controlled trials.]] |
