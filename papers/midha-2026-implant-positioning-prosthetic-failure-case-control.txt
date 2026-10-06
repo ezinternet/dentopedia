@@ -1,0 +1,18 @@
+Source: PubMed Abstract PMID 42403794 (PMC open access: PMC13330793)
+PMID: 42403794
+PMCID: PMC13330793
+DOI: 10.7759/cureus.110180
+Title: Association Between Implant Positioning Parameters and Prosthetic Failure in Full-Arch Fixed Implant-Supported Prostheses: A Retrospective Matched Case-Control Study
+Authors: Midha S, Jamdar SF, Singla S, Kaur J, Eppala J, Gohil J, Mahajan A
+Journal: Cureus. 2026 Jun 3;18(6):e110180
+Retrieved: 2026-10-06 via PubMed abstract
+
+== ABSTRACT ==
+
+INTRODUCTION: Successful full-arch rehabilitation depends not only on implant survival but also on long-term prosthetic stability and biomechanical harmony. Despite advancements in implant dentistry, prosthetic complications remain a significant challenge in full-arch fixed implant-supported prostheses. Implant positioning parameters, such as implant angulation, anteroposterior spread, and cantilever extension, may influence the stress distribution and contribute to prosthetic failure. This study aimed to evaluate the association between implant positioning parameters and prosthetic failure in full-arch fixed implant-supported prostheses.
+
+MATERIALS AND METHODS: This retrospective matched case-control study was conducted in the Department of Prosthodontics and Crown and Bridge, using archived patient records from January 2020 to December 2024. Ninety participants were included, comprising 30 patients with prosthetic failure and 60 matched controls without complications. Cone-beam computed tomography (CBCT) records were evaluated to assess the mesiodistal angulation, buccolingual angulation, vertical implant position, anteroposterior spread, distal cantilever length, cantilever-to-anteroposterior spread ratio, and inter-implant distance. Statistical analysis was performed, with a p-value less than 0.05, which was considered statistically significant.
+
+RESULTS: Repeated screw loosening was the most common prosthetic complication and was observed in 13 (43.3%) patients, followed by framework fracture in 11 (36.7%) patients and catastrophic veneering material fracture in 6 (20.0%) patients. The case group demonstrated significantly greater mesiodistal angulation (18.4±4.2° versus 12.1±3.8°), buccolingual angulation (15.7±5.1° versus 10.3±3.6°), vertical implant position (3.8±1.4 mm versus 2.9±0.9 mm), distal cantilever length (14.2±3.1 mm versus 10.4±2.6 mm), and cantilever-to-anteroposterior spread ratio (1.42±0.31 versus 0.89±0.22) compared with controls (p<0.001). Greater anteroposterior spread and inter-implant distance demonstrated protective effects against prosthetic failure.
+
+CONCLUSIONS: Implant positioning parameters significantly influence prosthetic outcomes in full-arch fixed implant-supported prostheses. Increased implant angulation and cantilever extension are associated with a higher prosthetic failure risk, whereas greater anteroposterior spread and inter-implant distance improve biomechanical stability. Accurate prosthetically driven implant placement may reduce technical complications and improve the long-term prosthetic success.
