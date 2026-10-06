@@ -2,7 +2,8 @@
 ---
 title: "삽입토크 & 안정성 임상 해석기"
 type: interactive
-date: 2026-09-19
+date: 2026-10-06
+updated: 2026-10-06  # khayat-2011(176Ncm 전부골유착), manfredini-2025(하악 MBL 1.53 vs 1.03mm), nascimento-2024(표면이 해악, 토크 수치 아님)
 status: done
 category: implant-stability
 agenda: agenda/2026-08-31_it-stability-clinical-tool.md
@@ -322,6 +323,9 @@ input[type=range]{flex:1;height:6px;accent-color:var(--accent);cursor:pointer;}
     <p class="src">kwon-2026 — RCT n=54, MDT 깊은 나사산: IT↑ but ISQ/MBL 차이 없음, 각도편차 유의 악화</p>
     <p class="src">bhattacharya-2025 — split-mouth RCT n=18: 치유챔버 → IT↓ ISQ 동등 TNF-α↓</p>
     <p class="src">ayub-2025 — in vitro n=36: 삼중나사(Zimmer TSV) 최고 IT, 이중나사(Dentium Superline) 최고 ISQ</p>
+    <p class="src"><b>[신규 2026-09-30]</b> khayat-2011 — 전향적 n=66, MIT &gt;70 Ncm (평균 110.6·최대 176 Ncm): 전부 골유착, 1년 MBL 1.24 vs 1.09 mm (NS vs 30–50 Ncm, n=9). 고토크에서도 단기 무의 — 단 추세선은 Marconcini 후기 소실 방향; 역시 사후 분류·대조군 9개</p>
+    <p class="src"><b>[신규 2026-09-30]</b> manfredini-2025 — 주제범위 고찰 n=11편: 하악 3년 MBL 1.53 vs 1.03 mm (고vs저 IT), 협측 퇴축 −1.40 vs −0.26 mm; 실패 D1·D4 집중, D2–D3 안전구간 — 수치가 Marconcini 단일 RCT 유래로 독립 확증 아님</p>
+    <p class="src"><b>[신규 2026-09-30]</b> nascimento-2024 — 벤치(D2 폴리우레탄, 변형 측정): 사다리꼴 나사·원추형 몸체는 IT↑에도 골상 무손상; <b>기계가공 표면이 균열 유발</b> — 해악은 토크 수치가 아니라 형상·표면 따름; 수치 미보고(초록만)</p>
   </div>
 </div>
 
@@ -339,10 +343,10 @@ const ZONES = [
     note:'Baldi 2018 (n=75): 이 구간에서만 IT-ISQ 상관 유의 (ρ=0.481). 표준 임상 목표 범위. Song 2026 (3년 MBL): IT ≥ 30 Ncm = 즉시부하 기준선.',
     load:'표준 로딩 프로토콜 적용. IT ≥ 30 Ncm이면 즉시부하 검토 가능 (Song 2026). ISQ 독립 측정으로 검증 권장 (r²<0.25).' },
   { max: 65, cls:'warn', label:'고토크  (45–65 Ncm)',
-    note:'Baldi 2018: 두 임플란트 실패 모두 이 구간. 치조정 피질골 손상 위험 증가 (high-IT overview). Monje 2025 (BLX vs BL): tapered BLX IT 42.35 Ncm > cylindrical BL 30.63 Ncm — 그러나 6주 ISQ는 BL > BLX (IT-ISQ 탈동조화).',
+    note:'Baldi 2018: 두 임플란트 실패 모두 이 구간. 치조정 피질골 손상 위험 증가 (high-IT overview). Monje 2025 (BLX vs BL): tapered BLX IT 42.35 Ncm > cylindrical BL 30.63 Ncm — 그러나 6주 ISQ는 BL > BLX (IT-ISQ 탈동조화). Manfredini 2025 (scoping review, 11편): IT >50 Ncm 하악 3년 MBL 1.53 vs 1.03 mm, 실패 D1·D4 집중 — 고토크 해악은 치밀 피질골 부위와 분리 불가.',
     load:'⚠ 치밀 피질골(D1, 하악구치부) 주의. 치조정 방사선 추적 권장. IT ≠ 안정성. Tapered 고토크가 ISQ 우위를 보장하지 않음.' },
   { max:100, cls:'bad',  label:'초고토크 (>65 Ncm)',
-    note:'Marconcini 2018·Aldahlawi 2018: 치조정 골소실·생존율 저하 신호. Coyac 2019: 미세골절·골세포사멸 기전(전임상, 수치 미보고).',
+    note:'Marconcini 2018·Aldahlawi 2018: 치조정 골소실·생존율 저하 신호. Coyac 2019: 미세골절·골세포사멸 기전(전임상, 수치 미보고). Khayat 2011 (전향, n=66, 최대 176 Ncm): 전부 골유착·1년 MBL NS — 단 추세는 후기 소실 방향, 대조군 n=9·1년 추적이 한계. Nascimento 2024 (벤치): 기계가공 표면이 균열 — 해악은 토크 수치 아닌 형상·표면.',
     load:'⛔ 즉시 부하 금지. ISQ 독립 측정 필수. 치조정 방사선 필수 추적.' },
 ];
 
