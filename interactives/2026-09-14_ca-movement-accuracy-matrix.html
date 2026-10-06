@@ -2,7 +2,7 @@
 ---
 title: "투명교정 이동 정확도 매트릭스"
 type: interactive
-date: 2026-09-14
+date: 2026-10-06
 status: done
 category: orthodontics
 agenda: agenda/2026-09-14_surveillance-interactives-batch.md
@@ -10,6 +10,7 @@ source_wiki:
   - wiki/overviews/clear-aligner-indications-limitations.md
 updated: 2026-09-20  # link-fix bump — overview의 mathew-2026 wikilink backslash alias 수정; 정확도 데이터 변경 없음
 verified: 2026-09-21  # clear-aligner-indications-limitations 2026-09-21 갱신(huang-2026 AOB SR+MA·kuzminskaite-2026 Class II SR) — 두 신규 논문은 적응증/효능에 관한 것으로 이 도구가 인코딩하는 이동 정확도 수치(회전·토크·압하 등)와 무관. 정확도 매트릭스 데이터 변경 없음 재확인.
+updated: 2026-10-06  # 수평 확장 행: Serafin 2026 SR+MA(23편) + Xianggang 2026 SR+MA(6편) 기반 72–81% 정량치 갱신 (기존 '낮음'→부위별 정량 — 1소구치 80.73% GRADE high 최고, 대구치 71-73% 최저)
 ---
 -->
 <title>CA 이동 정확도</title>
@@ -423,13 +424,13 @@ const DATA = [
     tier: 'low'
   },
   {
-    name_ko: '수평 확장',
-    name_en: 'Transverse expansion',
-    bar_fill: 38, accuracy_display: '낮음', range_lo: null, range_hi: null,
-    ranked: true, deviation: false,
-    evidence: 'SR', source: 'Nogueira Matos 2026', doi: '10.1016/j.ortho.2026.101211', n: 20,
-    note: '리파인먼트의 주요 유발 요인 중 하나로 확인. 성인 영구 치열에서 특히 낮은 예측도. 성장기 혼합 치열에서 상대적으로 유리 (별도 확장 SR 근거).',
-    tier: 'low'
+    name_ko: '수평 확장 (상악)',
+    name_en: 'Transverse expansion — maxillary',
+    bar_fill: 75, accuracy_display: '72–81%', range_lo: 71, range_hi: 81,
+    ranked: false, deviation: false,
+    evidence: 'SR+MA', source: 'Serafin 2026 · Xianggang 2026', doi: '10.3390/app16062493', n: 23,
+    note: '부위별 예측성: 1소구치 80.73%(GRADE high, 최고) > 2소구치 78.74%(moderate) > 견치 72.01%(GRADE low) > 1대구치 71.57%(moderate). 하악: 2소구치 88%(최고)·2대구치 73%(최저). SmartTrack vs EX30 +32.7%(p<0.001). 계획 1mm당 0.72–0.81mm 달성 — 과교정 필수. 리파인먼트 주요 유발 인자 중 하나(Nogueira Matos 2026, 20편).',
+    tier: 'high'
   },
   {
     name_ko: '발치 공간 폐쇄 (전치 후퇴)',
