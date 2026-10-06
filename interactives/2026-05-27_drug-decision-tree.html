@@ -2,7 +2,8 @@
 ---
 title: "약물 결정 트리 — Chairside (drug 5축 통합)"
 type: interactive
-date: 2026-09-14
+date: 2026-10-06
+updated: 2026-10-06  # (1) 페니실린 알레르기 대체 cluster(Ceccon-Chianca 2026 Azithromycin 내성 24.88%·Salgado-Peralvo 2022 SEI 합의) 축 3 반영; (2) 혈액질환(SCD·지중해빈혈) 체크박스·축 5 VOC 권고 신설
 status: draft
 verified: 2026-08-11
 category: drug
@@ -27,6 +28,7 @@ notes: |
   updated 2026-08-25: ADA 2024 CPG (Carrasco-Labra, JADA 155:102-117) 반영 — 단순 발치 후 오피오이드 사용 반대·코르티코스테로이드 진통 보조 반대 공식 권고. 축4 ref에 ADA 2024 추가, simple_ext 분기 신설.
   updated 2026-08-30: MRONJ 오버뷰 반영 — 한국구강악안면외과학회 2025 입장문(경구 BP 2mo·IV zole 6–12mo·Dmab 3–4mo 휴약 권장, AAOMS 2022와 상반) + Cho 2026(Xgeva vs Prolia 53.8% vs 85.0%, n=178) 축2 반영. Momand 2024(건강 환자 임플란트 예방적 항생제 불필요) 축3 반영.
   verified 2026-09-21: drug-antibiotic-stewardship-overview 2026-09-21 갱신(baker-2026 perspective·almadhoon-2026 SR+MA) — almadhoon: 임플란트 수술 항생제 처방 유병률 61.3%(가이드라인 준수 1–28%, 감소 추세), 술전 단회 투여로 충분하다는 기존 권고 보강; baker: 국가 AMR 전략 내 치과 역할 perspective. 이 도구 5축 임상 임계값 무변화.
+  updated 2026-10-06: (1) 항생제 스튜어드십 오버뷰 2026-09-30 신규 통합(페니실린 알레르기 대체 cluster 6편) 반영 — Ramsey 2022(알레르기 라벨 ~10% 실제 알레르기, 이중 알레르기 0.7%)·Salgado-Peralvo 2021 SR(Clindamycin 대체 시 임플란트 조기 실패 RR 3.84)·Salgado-Peralvo 2022 SEI 합의(알레르기 대체: Azithromycin 500mg 술전)·Ceccon-Chianca 2026(Azithromycin 내성 in silico 24.88%) 근거를 축 3 페니실린 알레르기 분기에 반영. (2) 전신질환 오버뷰 2026-10 신규 추가(혈액질환 4편) 반영 — 카드 3에 혈액질환(SCD·지중해빈혈) 체크박스 신설·축 5에 VOC 예방 권고(Hong 2023·Oren 2021) 추가.
   updated 2026-08-11: 진통제 오버뷰 2026-08-09 추가분 중 Beaudart 2025 celecoxib umbrella
   review(GI 궤양 RR 0.22 moderate, CV·신장 비열등 low certainty) → 축4 진통제 avoidNSAID
   사유 문구에 GI 병력 대안(비-임플란트 한정)으로 반영. 동시 추가된 Maurice-Szamburski 2025
@@ -174,6 +176,7 @@ notes: |
       <label><input type="checkbox" id="immuno"> 면역저하·이식</label>
       <label><input type="checkbox" id="penAllergy"> 페니실린 알레르기</label>
       <label><input type="checkbox" id="ulcer"> 위궤양·GI 출혈력</label>
+      <label><input type="checkbox" id="bloodDis"> 혈액질환 (SCD·지중해빈혈)</label>
     </div>
   </div>
 
@@ -246,6 +249,7 @@ function calculate(e){
   const immuno = document.getElementById('immuno').checked;
   const penAllergy = document.getElementById('penAllergy').checked;
   const ulcer = document.getElementById('ulcer').checked;
+  const bloodDis = document.getElementById('bloodDis').checked;
   const proc = document.getElementById('procedure').value;
   const painExp = document.getElementById('painExp').value;
 
@@ -314,7 +318,7 @@ function calculate(e){
 
   // ===== 축 3 — 항생제 =====
   {
-    let lvl='green', title='항생제', rec='', why='', ref='Wilson AHA 2021 · Sperotto 2024 SR-MA · Lodi 2021 Cochrane · Thornhill 2019';
+    let lvl='green', title='항생제', rec='', why='', ref='Wilson AHA 2021 · Sperotto 2024 SR-MA · Lodi 2021 Cochrane · Thornhill 2019 · Salgado-Peralvo 2021 SR · Salgado-Peralvo 2022 SEI 합의 · Ceccon-Chianca 2026 · Ramsey 2022';
     const drug = penAllergy ? 'Cephalexin 2g 또는 Azithromycin 500mg' : 'Amoxicillin';
     if (ie) {
       lvl='green'; rec=`${drug} 2g 술전 1h prophylaxis`;
@@ -342,7 +346,7 @@ function calculate(e){
     if (highRiskAntires_check(antires) && proc !== 'simple_ext') {
       lvl=(lvl==='red'?'red':'yellow'); why += ' IV BP·Denosumab(암)·Antiangiogenic — 침습적 처치 전 prophylaxis 적응.';
     }
-    if (penAllergy) { why += ' 페니실린 알레르기 — Clindamycin 회피 (Thornhill 2019 치명률 2.9/M).'; }
+    if (penAllergy) { why += ' 페니실린 알레르기 — Clindamycin 회피 (Thornhill 2019 치명률 2.9/M). 현행 대체: Azithromycin 500mg 술전 단회 (Salgado-Peralvo 2022 SEI GRADE C 합의). 임플란트 Clindamycin 대체군 조기실패 RR 3.84 (Salgado-Peralvo 2021 SR — 교락 있으나 Azithromycin 전환 근거). ⚠ Azithromycin 내성 in silico 24.88% (Ceccon-Chianca 2026 구강 연쇄상구균 유전체) — 내성 가능성 감안. 알레르기 라벨 ~10% 실제 알레르기, 이중 알레르기 0.7% — 가능하면 알레르기 확인(유발검사) 우선 (Ramsey 2022).'; }
     blocks.push(axis(lvl, '축 3 — 항생제', rec, why, ref));
   }
 
@@ -410,6 +414,7 @@ function calculate(e){
       why='Karm 2017 RCT: 일반 환자에 1:200,000 epinephrine이 합리적 1차 선택.';
     }
     if (cv) why += ' Colibasanu 2025: Epinephrine + 비선택적 β-blocker가 major DDI 대표 — 추가 1:200,000 희석 + 용량 minimize + BP·HR 모니터.';
+    if (bloodDis) { lvl=(lvl==='red'?'red':'yellow'); why += ' 혈액질환(겸상적혈구빈혈, Sickle Cell Disease, SCD·지중해빈혈) — 발치 시 혈관폐쇄 위기(Vaso-Occlusive Crisis, VOC) 위험: 치과 불안→교감신경→탈산소화→HbS 낫모양화→VOC 경로. 시술 전 혈액내과 협진·치과 불안 최소화·충분한 산소화 유지 필수 (Hong 2023). 지중해빈혈 중증(β-Thalassemia): 피질골 소실로 일반 임플란트 어려울 수 있음 — 3D 프린팅 맞춤 골막하 임플란트 증례 보고(Oren 2021). 표준 골이식 임플란트 시 Ti 표면 습윤성은 정상인 동등이나 골질 저하·지연 창상치유가 실질 장벽 (Temelci 2023).'; }
     blocks.push(axis(lvl, '축 5 — 국소마취·DDI', rec, why, ref));
   }
 
