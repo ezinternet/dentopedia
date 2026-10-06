@@ -15,20 +15,20 @@ tags: [navigation, category-index, full-arch]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·전악수복
 > - **범위**: Full-arch / edentulous-jaw implant rehabilitation — All-on-4/-6, tilted vs axial distal implants, immediate full-arch loading & flapless full-arch, implant overdentures (single/two-implant, CAD-CAM bar), framework & load-direction FEA, severely atrophic-jaw solutions (zygomatic, customized subperios…
-> - **수록 논문**: 37편
+> - **수록 논문**: 38편
 
 ## Three-line Summary
 
 **Scope**: Full-arch / edentulous-jaw implant rehabilitation — All-on-4/-6, tilted vs axial distal implants, immediate full-arch loading & flapless full-arch, implant overdentures (single/two-implant, CAD-CAM bar), framework & load-direction FEA, severely atrophic-jaw solutions (zygomatic, customized subperiosteal).
-**Indexed papers**: 37 papers in `wiki/implants/full-arch/`.
+**Indexed papers**: 38 papers in `wiki/implants/full-arch/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·전악수복
-**수록 논문**: 37편
+**수록 논문**: 38편
 **하위 카테고리**: 없음
 
-## Papers in this Category (37)
+## Papers in this Category (38)
 
 | Paper |
 |---|
@@ -62,6 +62,7 @@ tags: [navigation, category-index, full-arch]
 | [[merli-2018-implant-prosthetic-rehabilitation-bone-atrophy|Implant prosthetic rehabilitation in partially edentulous patients with bone atrophy. An umbrella review based on systematic reviews of randomised controlled trials.]] |
 | [[murat-2025-all-on-4-implant-angulation-load-direction-fea|Predictive mathematical modeling of biomechanical behavior in all-on-4 implants design: effects of distal implant and occlusal load angulation using RSM based on FEA]] |
 | [[pandey-2023-comparison-all-on-four-all-on-six|Comparison between All-on-Four and All-on-Six Treatment Concepts on Stress Distribution for Full-Mouth Rehabilitation Using Three-Dimensional Finite Element Analysis: A Biomechanical Study]] |
+| [[pelser-2026-ifcd-long-term-complications-17yr|Technical and biological complications of implant-supported fixed complete dentures: a retrospective cohort study with up to 17 years of follow-up]] |
 | [[rapone-2026-italian-consensus-full-arch-grade|Consensus Statement on Full-Arch Implant Rehabilitations: Evidence-Based Recommendations from the Italian Consensus Conference]] |
 | [[schwarz-2026-global-consensus-edentulous-maxilla-guidelines|First Global Consensus for Clinical Guidelines: Structured Recommendations (S2k-Level Guideline Framework) for the Rehabilitation of the Edentulous Maxilla Based on Core Outcome Sets]] |
 | [[scocca-2026-zygomatic-implants-head-neck-cancer-sr-ma|Zygomatic implants for rehabilitation of head and neck cancer patients: a systematic review and meta-analysis]] |
