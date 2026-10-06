@@ -2,7 +2,7 @@
 title: "고정성 풀아치: 임플란트 4개 vs 6개 — 임상·생체역학 종합"
 authors: Synthesis (Damian Lee)
 year: 2026
-date: 2026-07-13
+date: 2026-10-06
 doi: N/A
 source: N/A
 category: overviews
@@ -15,43 +15,61 @@ relations:
     target: toia-2025-fixed-full-arch-maxillary-prostheses
   - type: extends
     target: cabbarova-2026-all-on-four-six-framework-fea
-tags: [full-arch, all-on-four, all-on-six, fixed-complete-denture, implant-number, marginal-bone-level, survival, finite-element-analysis, framework-material, cantilever, cost-effectiveness, technical-complications, biological-complications, global-consensus, screw-retained, edentulous, maxilla, mandible]
+  - type: extends
+    target: shao-2026-all-on-four-vs-all-on-six-sr-ma
+  - type: reinforces
+    target: de-araujo-nobre-2025-mandibular-all-on-four-20-25yr
+  - type: reinforces
+    target: de-araujo-nobre-2026-maxillary-all-on-four-15-20yr
+  - type: reinforces
+    target: rapone-2026-italian-consensus-full-arch-grade
+  - type: reinforces
+    target: figueiredo-2025-all-on-four-overview-sr
+  - type: reinforces
+    target: huber-2026-all-on-four-sr-management-complications
+  - type: extends
+    target: topdagi-2026-all-on-4-bone-type-outcomes
+tags: [full-arch, all-on-four, all-on-six, fixed-complete-denture, implant-number, marginal-bone-level, survival, finite-element-analysis, framework-material, cantilever, cost-effectiveness, technical-complications, biological-complications, global-consensus, screw-retained, edentulous, maxilla, mandible, bone-quality, monolithic-zirconia, long-term, maintenance]
 ---
 
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
-> - 무치악 고정성 풀아치 수복에서 **임플란트 4개 vs 6개** 결정을 세 축 — 임상 성적(생존·변연골·합병증), 생체역학(유한요소분석, Finite Element Analysis, FEA), 2026 글로벌 컨센서스(Global Consensus) — 으로 종합한 8편 페이지. 핵심 긴장: **생존율은 4개 ≈ 6개, 그러나 합병증·생체역학·합의는 5–6개 쪽**. 2026-09-13 갱신으로 결정 규칙의 기본값이 "4개"에서 **"해부학이 허락하면 5–6개, 4개는 근거가 받쳐주는 최소치"**로 이동했다.
-> - **임상 축 — 생존율·변연골소실 (Marginal Bone Level, MBL) 은 4개 = 6개**: Toia 3년 다기관 RCT (n=56, 280 임플란트) — 생존 4개 100% vs 6개 99%, 3년 MBL 군간 유의차 없음; Toia 5년 RCT (n=47) — 생존 4개 100% vs 6개 99.3%, MBL 유의차 없음, 양군 임플란트주위염 0. [RCT 근거]
-> - **대규모 후향 재확인**: Caramés 2025 (943명·5,989 즉시부하 임플란트·2,431 사분악, 평균 5년) — 2년 생존 98.6% vs 98.8% (p=0.362), 5년 98.4% vs 98.7% (p=0.343). 임플란트 개수·치조골위축 분류가 아니라 **악궁(상악 위험비 HR 1.815)·연령(HR 1.026/년)이 실패 예측인자**. [후향 대규모]
-> - **반대 신호 (La Monaca 2022)**: 단일기관 후향·비무작위(술자 판단 배정), 28명·보철 32개·164 임플란트, 평균 6.5년, 가이드 무피판 즉시부하 — 임플란트 생존 **all-on-4 89.7% vs all-on-6 99.0%**, 생물학적 합병증 **10.3% vs 1.0% (p=0.014)**; MBL은 군간 차이 없음(p=0.104). 소규모·선택편향 가능성 때문에 RCT·대규모 코호트의 생존 동등성을 뒤집지는 못하지만, "4개의 대가"를 기술적 합병증에서 생물학적 합병증·임플란트 1개 상실의 여유 부족까지 넓히는 신호.
-> - **4개의 실제 이득 = 비용·무증대**: 골증대 회피 + 초기·총 치료비 낮음 (Toia). **대가 = 기술적 합병증↑** (Toia 5년: 4개 16.6% vs 6개 0%) — 주로 보철 chipping/파절. 풀아치 보철 합병증은 개수 무관하게 흔함 (Toia 3년 FCD 47.2% chipping/fracture; La Monaca 무수정 보철 성공률 51.5%).
-> - **생체역학 축 — FEA는 일관되게 6개 우위**: Pandey 2023 (하악 FEA) — All-on-Six가 피질골·임플란트 최대 주응력 현저히 낮음 (경사하중 시 피질골 5.47 vs 139.85 MPa, 임플란트 35.51 vs 244.43 MPa); All-on-Four는 원심 캔틸레버가 응력 집중 증폭.
-> - **프레임워크 재료가 응력을 좌우 (Cabbarova 2026 FEA, 6개 재료 비교)**: All-on-Six + 강성 프레임(티타늄·지르코니아)이 생체역학 최적; **PEEK/PEKK는 저탄성계수→변형↑→하중전달↑라 풀아치 프레임 금기**; 섬유강화복합 (Trilor/Trinia) 은 중간 성능. All-on-Four의 원심 캔틸레버는 재료 무관하게 응력 집중.
-> - **글로벌 컨센서스 축 (Schwarz 2026, S2k 지침, 26개국 105명, 상악 무치악)**: 고정성 풀아치는 **최소 4개, 해부학이 허락하면 5–6개 선호** — 지지·안정성↑, 과부하·기술적 합병증 위험↓, 캔틸레버 단축 (WG1_Rec4). 최종 보철은 **나사유지 (screw-retained) 강력 권고** (WG4_Rec9), 프레임은 Ti/CoCr 금속+레이어드 세라믹 또는 모놀리식 지르코니아 + 최소 캔틸레버 (WG4_Rec10), 이갈이 (bruxism) 환자는 경질 아크릴 나이트가드 (WG4_Rec12) — Cabbarova FEA의 재료 결론과 독립적으로 수렴.
-> - **그룹 3 설문 (Fiorellini 2026)**: 전방 상악골이 충분하면 전문가 **50.0%가 전방부 한정·무이식 식립** 선호; 심한 위축에선 55.1%가 짧은·관골 임플란트보다 표준 길이 + 상악동 증대/골이식 선호 — "무증대 4개"는 해부학이 5–6개를 막는 상황의 합리적 선택지로 합의 틀 안에 남는다.
-> - **결정 규칙 (2026-09-13 갱신)**: 해부학이 무증대로 5–6개를 허락 → **5–6개** (합의·FEA 안전여유·기술적 합병증↓). 5–6개가 골증대를 요구하거나 비용이 결정적 → **4개** (생존 비열등은 RCT 근거) + 강성 프레임(Ti/CoCr/모놀리식 지르코니아, PEEK/PEKK 금지)·캔틸레버 최소화·나사유지·유지관리 상담. 이갈이·저골질·긴 캔틸레버·강한 대합 교합력·상악은 5–6개 쪽으로 더 기울인다.
-> - **악궁 차이 주의**: Toia RCT·Schwarz 합의는 **상악**, Pandey/Cabbarova FEA는 **하악**, Caramés·La Monaca는 양악. 하악 전용 개수 합의는 보유 논문에 없음 — 하악에선 Caramés(개수 무관 생존)가 4개를 여전히 합리적 선택지로 두고, FEA는 고부하 증례에서 6개를 지지.
+> - **갱신 2026-10-06 (서베일런스 +7편 → 총 15편)**: 임상 축 4편→11편, 합의 축 2편→3편으로 확장. 핵심 결론은 유지되나 근거 밀도가 크게 높아졌고 세 가지 실질적 갱신이 생겼다 — ① 4개 vs 6개 생존 동등성이 SR+MA(55편) 수준에서 확인됨, ② 초장기(very long-term) 20–25년 궤도가 처음 확보됨, ③ 보철 재료(Prosthetic Material) 선택이 4개 독립 출처에서 수렴됨.
+> - **무치악 고정성 풀아치 수복에서 임플란트 4개 vs 6개 결정**을 임상 성적(생존·변연골·합병증), 생체역학(유한요소분석, Finite Element Analysis, FEA), 2개 컨센서스 프로세스로 종합. 핵심 긴장: **생존율은 4개 ≈ 6개, 그러나 합병증·생체역학·합의는 5–6개 쪽**. 기본값은 "4개"에서 **"해부학이 허락하면 5–6개, 4개는 근거가 받쳐주는 최소치"**로 이동.
+> - **SR+MA 수준 확인 (Shao 2026, 55편)**: 단기(1년) 생존율 All-on-4 99.20% / All-on-6 100%; 중기(1–5년) 99.66% / 98.55%; 장기(≥5년) 98.14% / 97.50% — 세 구간 모두 비열등. 단 장기 변연골소실(MBL) All-on-4 1.28 mm vs All-on-6 0.94 mm로 5년 이후 분기. 지르코니아 보철(Zirconia Prosthesis)에서 기계적 합병증(Mechanical Complication) 감소.
+> - **산형 리뷰(umbrella review, Figueiredo 2025, 8 SR)**: All-on-4 누적생존율(Cumulative Survival Rate, CSR) 94.8–99.3%, MBL 1.1–1.5 mm; 포함 SR 대부분 AMSTAR-2 낮은 질·ROBIS 높은 비뚤림 위험 — 결론 강도 약함.
+> - **체계적 문헌고찰(Huber 2026, 20편, vs FDP4+)**: All-on-4 보철 생존율 85–100% vs FDP4+(임플란트 >4개) 88.2–100% — 통계적 차이 없음; 금속-도재(metal-ceramic) 파절률 7.27–18.2%로 금속-아크릴(metal-acrylic) 7.3–36.7%보다 낮음 → **최종 보철에 금속-도재 권장**.
+> - **초장기 — 하악 20–25년 (de Araújo Nobre 2025, 181명/724개)**: 임플란트/보철 CSR **90%/92%** (25년); MBL 20년 1.71 mm·25년 2.28 mm; 기계적 합병증 70.7% (환자 기준) — 빈도 높으나 프로토콜 위협 수준 아님. 55.2% 추적소실 주의.
+> - **초장기 — 상악 15–20년 (de Araújo Nobre 2026, 740명/2960개)**: 임플란트 생존율(CSurR) **90.7%** (20년); MBL 20년 1.46 mm; 기계적 합병증 78.5%; **흡연 HR=1.93, 생물학적 합병증 HR=2.18**이 임플란트 실패 예측인자. 38.8% 추적소실 — 최선 93.1% / 최악 59.4%.
+> - **이탈리아 합의 (Rapone 2026, 29명, GRADE, 3라운드 Delphi)**: 하악 4개 vs 6개 5년 생존율 동등 98.6% vs 99.4% (p=0.136); 경사 vs 직립 MBL MD=0.00 mm; 모놀리식 지르코니아(Monolithic Zirconia) 보철 생존율 97.23%; **구조화 유지관리 → 치근단주위염(Peri-implantitis) 위험 ~75% 감소**; 비순응 환자 OR=14.59; 이갈이(Bruxism) OR=2.189.
+> - **골 유형 변수 (Topdagi 2026, 250명/1000개, Type 1–4)**: Type 4 골(저밀도 해면골) CSR **89.1% vs Type 1 골 98.3%** (p<0.05); 보철 합병증 금속-아크릴 **26.9% vs 단일체 지르코니아 8.9%** (p<0.001) — 약 3배 차이.
+> - **보철 재료 수렴 (4개 독립 출처)**: Shao 2026(SR+MA)·Topdagi 2026(후향)·Huber 2026(SR)·Rapone 2026(합의) — 전부 모놀리식 지르코니아 또는 금속 기반 보철이 기계적 합병증 감소·생존율 유지에 우위. PEEK/PEKK는 FEA 근거로 여전히 금기.
+> - **임상 축 기존 결론 유지**: Toia 5년 RCT (n=47, 상악) — 4개 100% vs 6개 99.3% 생존, MBL 차이 없음, 4개에서 기술적 합병증 16.6% vs 0%; Caramés 2025 (943명, 5년) — 악궁·연령이 실패 예측, 개수 아님; La Monaca 2022 (소규모 비무작위) — 4개 생존 89.7% vs 6개 99.0%, 생물학적 합병증 10.3% vs 1.0%.
+> - **생체역학 (FEA) 결론 유지**: All-on-Six가 피질골·임플란트 응력 현저히 낮음; PEEK/PEKK 금기; Ti/지르코니아 최적; 원심 캔틸레버(Distal Cantilever)가 재료 무관 응력 집중원.
+> - **결정 규칙 (2026-10-06 갱신)**: 해부학이 무증대로 5–6개 가능 → **5–6개** (합의·FEA·기술적 합병증↓). 5–6개가 골증대 요구 또는 비용 결정적 → **4개** — 단 골 유형(Type 1–3 우선; Type 4는 강화 모니터링), 나사유지 강성 프레임(Ti/CoCr/모놀리식 지르코니아), 캔틸레버 최소화, **구조화 유지관리**. 흡연·이갈이·저골질·긴 캔틸레버·상악은 5–6개 쪽으로 더 기울인다. 상악이 하악보다 위험(Caramés HR 1.815).
 
 ## Three-line Summary
 
-Synthesis of 8 papers on the four-vs-six implant decision for edentulous fixed full-arch rehabilitation across three axes that do not fully agree (2 RCTs + 2 retrospective cohorts on clinical outcomes, 2 FEA studies on biomechanics, and the 2026 Global Consensus guideline with its Working Group 3 report).
+Synthesis of 15 papers on the four-vs-six implant decision for edentulous fixed full-arch rehabilitation across four dimensions: clinical outcomes (2 RCTs + 3 retrospective cohorts + 1 SR+MA + 1 SR + 1 umbrella review), biomechanics (2 FEA), two independent consensus processes (2026 Global Consensus; Italian Delphi GRADE 2026), and a bone-type modifier.
 
-Survival is largely number-independent in the strongest designs (Toia 3- and 5-yr RCTs ~100% both; Caramés 2025, 943 patients/5,989 implants, 5-yr 98.4% vs 98.7%, with jaw and age rather than number predicting loss), although a small non-randomized cohort found lower all-on-4 survival (89.7% vs 99.0%) and more biological complications (10.3% vs 1.0%; La Monaca 2022); four implants carry more technical complications (Toia 5-yr 16.6% vs 0%), FEA consistently favors six (Pandey: oblique-load cortical stress 5.47 vs 139.85 MPa; Cabbarova: distal cantilever amplifies stress, rigid Ti/Zr frameworks optimal, PEEK/PEKK contraindicated), and the Global Consensus requires a minimum of four with five to six preferred when anatomy allows (Schwarz 2026, WG1_Rec4).
+Survival equivalence is now confirmed at SR+MA level (Shao 2026, 55 studies: ≥5yr 98.14% vs 97.50%); very-long-term data shows viability at 15–25 years (mandibular CSR 90%/92% at 25yr, MBL 2.28mm; maxillary CSurR 90.7% at 20yr, MBL 1.46mm); bone quality adds a planning modifier (Type 4 bone CSR 89.1% vs Type 1 98.3%; Topdagi 2026); four independent sources converge on monolithic zirconia or metal-ceramic as the optimal prosthetic framework.
 
-Decision rule (revised 2026-09-13): four is the evidence-backed minimum rather than the default — place five to six when anatomy allows without augmentation, and reserve four for cases where more implants would require grafting or cost is decisive, compensating with a rigid screw-retained framework (metal-based or monolithic zirconia), a minimal cantilever, and counselling that prosthetic maintenance is likely.
+Decision rule (revised 2026-10-06): four is the evidence-backed minimum — place five to six when anatomy allows without augmentation; reserve four with bone types 1–3, rigid screw-retained framework (metal-based or monolithic zirconia), minimal cantilever, and structured maintenance (compliance reduces peri-implantitis risk ~75%; non-compliance OR=14.59; Rapone 2026).
 
 ## 세줄요약
 
-무치악 고정성 풀아치 임플란트 4개 vs 6개 결정을 임상 성적 축(RCT 2편+후향 코호트 2편)·생체역학 축(FEA 2편)·2026 글로벌 컨센서스 축(지침+그룹 3 보고서 2편)으로 종합한 8편.
+무치악 고정성 풀아치 임플란트 4개 vs 6개 결정을 임상 성적 축(RCT 2편+후향 3편+SR+MA 1편+SR 1편+산형 리뷰 1편)·생체역학 축(FEA 2편)·합의 축(글로벌+이탈리아 2편+보고서 1편)·골질 변수 1편으로 종합한 15편.
 
-생존은 강한 설계에서 대체로 개수 무관(Toia 3·5년 RCT 양군 ~100%; Caramés 2025 943명/5,989 임플란트 5년 98.4% vs 98.7%, 개수가 아니라 악궁·연령이 실패 예측)이나 소규모 비무작위 코호트는 all-on-4 생존 89.7% vs 99.0%·생물학적 합병증 10.3% vs 1.0%(La Monaca 2022); 4개는 기술적 합병증↑(Toia 5년 16.6% vs 0%), FEA는 일관되게 6개 우위(Pandey 경사하중 피질골 5.47 vs 139.85 MPa; Cabbarova 원심 캔틸레버 응력집중·강성 Ti/Zr 최적·PEEK/PEKK 금기), 글로벌 컨센서스는 최소 4개·해부학 허락 시 5–6개 선호(Schwarz 2026, WG1_Rec4).
+생존 동등성이 SR+MA 수준(Shao 2026, 55편; ≥5년 98.14% vs 97.50%)에서 확인됨; 초장기(20–25년) 궤도 처음 확보(하악 CSR 90%/92%@25년, MBL 2.28mm; 상악 CSurR 90.7%@20년, MBL 1.46mm); 골질이 독립 예측인자(Type 4 89.1% vs Type 1 98.3%); 모놀리식 지르코니아/금속 기반 프레임이 4개 독립 출처에서 수렴.
 
-결정 규칙(2026-09-13 갱신): 4개는 기본값이 아니라 근거가 받쳐주는 최소치 — 무증대로 5–6개가 가능하면 5–6개, 더 많은 식립이 골증대를 요구하거나 비용이 결정적이면 4개를 쓰되 나사유지 강성 프레임(금속 기반·모놀리식 지르코니아)·캔틸레버 최소화·보철 유지관리 상담으로 보상.
+결정 규칙(2026-10-06 갱신): 4개는 근거가 받쳐주는 최소치 — 무증대로 5–6개 가능하면 5–6개; 4개 선택 시 골 유형 1–3 우선·나사유지 강성 프레임(Ti/CoCr/모놀리식 지르코니아)·캔틸레버 최소화·구조화 유지관리로 보상.
 
 ## Summary
 
-For the edentulous jaw restored with an implant-supported fixed complete denture (FCD, "All-on-X"), one of the most consequential planning choices is **how many implants** to place. Marketing and convention offer both "All-on-Four" (cost, no augmentation) and "All-on-Six" (more support). This overview reads the evidence as **three axes** — clinical outcomes, biomechanics, and the 2026 Global Consensus — that disagree on emphasis, and the disagreement is the useful part. An earlier version of this page (2026-07-13) resolved the clinical-vs-biomechanical tension in favor of four as the default; integrating La Monaca 2022 and the Global Consensus (2026-09-13) moves that default.
+For the edentulous jaw restored with an implant-supported fixed complete denture (FCD, "All-on-X"), one of the most consequential planning choices is **how many implants** to place. Marketing and convention offer both "All-on-Four" (cost, no augmentation) and "All-on-Six" (more support). This overview reads the evidence as **four dimensions** — clinical outcomes, biomechanics, two independent consensus processes, and a bone-quality modifier — that converge more strongly than before on the same direction, but with important new nuances.
+
+An earlier version (2026-07-13) resolved the clinical-vs-biomechanical tension in favor of four as the default; integrating La Monaca 2022 and the Global Consensus (2026-09-13) moved that default. This 2026-10-06 update adds 7 surveillance papers (Shao SR+MA, Figueiredo umbrella, Huber SR, de Araújo Nobre mandible/maxilla 20-25yr, Rapone Italian consensus, Topdagi bone-type), bringing the total to 15 papers.
 
 ---
 
@@ -75,10 +93,87 @@ The strongest design in the cluster — the same trial reported at 3 and 5 years
 - **Implant survival 89.7% (all-on-4, 7 failures) vs 99.0% (all-on-6, 1 failure)**; prosthesis survival 88.2% vs no failures (NS).
 - **Biological complications 10.3% (all-on-4; peri-implantitis in 2 subjects) vs 1.0% (all-on-6; 1 mucositis), p=0.014.**
 - MBL did not differ by configuration (p=0.104) or tilted-vs-axial (p=0.385); opposing natural dentition increased 5-yr MBL (1.70 vs 1.01 mm, p=0.017).
-- Prosthesis success (free of any modification) was only 51.5% overall — the maintenance burden of full-arch prostheses again appears regardless of number.
-- Caveat: small, single-center and non-randomized, so the survival gap conflicts with two stronger designs and may reflect case selection. It is best read as a tolerance signal: in a four-implant arch, one lost implant removes a quarter of the support.
+- Prosthesis success (free of any modification) was only 51.5% overall — the maintenance burden of full-arch prostheses appears regardless of number.
+- Caveat: small, single-center and non-randomized; the survival gap conflicts with two stronger designs and may reflect case selection. Best read as a tolerance signal: in a four-implant arch, one lost implant removes a quarter of the support.
 
-**Axis-1 verdict:** for survival and marginal bone, the two strongest designs show **four implants non-inferior to six**; the only dissenting survival signal comes from a small non-randomized cohort. The consistent cost of choosing four is **complications** — technical in the RCT, biological in La Monaca — and its benefit is *lower cost and augmentation avoidance*. The dominant survival driver in the large cohort is the jaw (maxilla worse), not the count.
+### Shao 2026 (SR+MA, 55 studies, both jaws)
+**Source**: [[implants/full-arch/shao-2026-all-on-four-vs-all-on-six-sr-ma]]
+The first large-scale SR+MA (55 studies, PubMed/WoS/Embase/Cochrane) directly pooling All-on-4 vs All-on-6 across three follow-up horizons:
+
+| Follow-up | All-on-4 | All-on-6 |
+|---|---|---|
+| Short-term (~1 yr) | 99.20% | 100% |
+| Mid-term (1–5 yr) | 99.66% | 98.55% |
+| Long-term (≥5 yr) | 98.14% | 97.50% |
+
+- **Long-term MBL diverges:** All-on-4 1.28 mm vs All-on-6 0.94 mm at ≥5 years (short-term 0.77 vs 0.85 mm — nearly identical early).
+- Mechanical complications 5.91% vs 6.64%; biological 6.54% vs 7.41% — **no statistically significant difference in either complication type**.
+- **Zirconia prostheses associated with reduced mechanical complications** — first SR+MA-level confirmation.
+- Caveat: high heterogeneity across all included studies limits confidence in every pooled estimate.
+
+### Figueiredo 2025 (umbrella review, 8 SRs)
+**Source**: [[implants/full-arch/figueiredo-2025-all-on-four-overview-sr]]
+Umbrella review (PROSPERO CRD42023471446) synthesizing 8 SRs published 2013–2021; dual quality appraisal with AMSTAR-2 + ROBIS:
+- All-on-4 **CSR 94.8–99.3%; MBL 1.1–1.5 mm** across all 8 included SRs.
+- None of the 8 SRs identified statistically significant inferiority of All-on-4.
+- Caveat: most included SRs rated low methodological quality (AMSTAR-2) and high risk of bias (ROBIS) — the conclusion carries a wide uncertainty band. SRs included only go to 2021; Shao 2026 provides the more current pooled estimate.
+
+### Huber 2026 (SR, All-on-Four vs FDP4+)
+**Source**: [[implants/full-arch/huber-2026-all-on-four-sr-management-complications]]
+PRISMA-2020 SR (PROSPERO CRD420261352454), 20 studies (11 All-on-4, 9 FDP4+), minimum 4-year follow-up, up to 20 years; narrative synthesis (heterogeneity precluded meta-analysis):
+- **Prosthesis survival comparable:** All-on-4 85.0–100% vs FDP4+ (fixed prosthesis on >4 implants) 88.2–100%.
+- **Implant survival All-on-4 89.7–97.9%** (10yr) vs FDP4+ 98.9–99.0%.
+- MBL at 5 years: All-on-4 up to 1.9 mm vs FDP4+ up to 2.9 mm — both within acceptable limits.
+- **Prosthetic material fracture:** metal-ceramic 7.27–18.2% vs metal-acrylic 7.3–36.7% — **metal-ceramic fracture rate lower**; recommends metal-ceramic as the preferred final prosthesis.
+- Immediate loading vs delayed: no significant survival difference when insertion torque 30–50 Ncm is achieved (93.9% vs 95.9%).
+- Bruxism OR 2.71–8.70 for complications; smoking OR 1.65–3.03.
+
+### Very long-term trajectories (de Araújo Nobre 2025 & 2026, 15–25 years)
+
+The same group (Malo Clinic, Lisbon) provides the only paired very-long-term dataset for the All-on-4 concept, covering both jaws:
+
+**Mandible — 20 to 25 years (de Araújo Nobre 2025)**  
+**Source**: [[implants/full-arch/de-araujo-nobre-2025-mandibular-all-on-four-20-25yr]]
+- 181 patients, 724 implants, mean follow-up 264 months (range 240–321); 100/181 lost to follow-up.
+- **Implant CSR 90%; prosthesis survival 92%** at up to 25 years.
+- **MBL: 1.71 ± 1.98 mm at 20 years; 2.28 ± 2.07 mm at 25 years.**
+- Mechanical complications 70.7% of patients; biological complications 24.9% patients / 11.6% implants.
+- Risk indicators (multivariable): implant failure ← biological complications + restorative material type; mechanical complications ← male sex; biological complications ← smoking + adjacent implant failure.
+- Caveat: 55.2% loss to follow-up introduces survivor bias; 25-year data rests on only 3 patients.
+
+**Maxilla — 15 to 20 years (de Araújo Nobre 2026)**  
+**Source**: [[implants/full-arch/de-araujo-nobre-2026-maxillary-all-on-four-15-20yr]]
+- 740 patients, 2,960 implants (predominately NobelSpeedy Groovy), single center; treatment 2002–2008; STROBE-compliant.
+- **Implant CSurR 90.7% at 20 years** (94.1% at 15yr); CSucR 84.6% at 20yr; prosthetic success 98.1%.
+- **MBL: 1.07 ± 1.38 mm at 15 years; 1.46 ± 1.56 mm at 20 years** — stable trajectory.
+- Mechanical complications 78.5% patients; biological complications 35.1% patients / 15.2% implants.
+- Cox regression: **smoking (HR=1.93) and biological complications (HR=2.18)** are risk indicators for implant failure across three simultaneous models.
+- Paradox: mechanical complications had a *protective* effect on MBL (OR=0.26) — more maintenance visits triggered by prosthetic issues may buffer peri-implant bone.
+- Sensitivity (38.8% loss to follow-up): best-case 93.1% / worst-case 59.4% — wide uncertainty, warrants cautious interpretation.
+
+**Long-term verdict:** MBL remains within physiological limits even at 20 years (maxilla ~1.5 mm; mandible ~2.3 mm at 25yr). Complications are high but manageable and do not stop the prosthesis from functioning. Smoking and biological complications are the dominant modifiable risk factors for implant failure — both jaws.
+
+---
+
+### Bone quality as a planning variable — Topdagi 2026
+
+**Source**: [[implants/full-arch/topdagi-2026-all-on-4-bone-type-outcomes]]
+Retrospective multicenter cohort, 250 edentulous patients (125 maxillary + 125 mandibular), 1,000 implants, Lekholm & Zarb bone type stratification, mean follow-up 3.6 ± 0.4 years:
+
+| Bone type | Implant survival (CSR) |
+|---|---|
+| Type 1 (dense cortical) | 98.3% |
+| Type 4 (sparse low-density trabecular) | **89.1%** (p<0.05 vs Type 1) |
+
+- Peri-implant complications (peri-implantitis + screw loosening) significantly more frequent in lower-density bone types.
+- **Prosthetic complication rate: metal-acrylic 26.9% vs monolithic zirconia 8.9% (p<0.001)** — approximately 3× difference.
+- Patient satisfaction (Visual Analogue Scale, VAS) high across all bone types (8.7 ± 1.2) despite complication burden.
+
+**Bone-type verdict:** Bone quality independently predicts All-on-4 survival and complication rates. Type 4 bone is not a contraindication, but it narrows the safety margin and intensifies the case for a monolithic zirconia framework and closer maintenance intervals.
+
+---
+
+**Axis-1 overall verdict:** Across seven clinical studies and one SR+MA, **survival is number-independent in four of the six direct comparisons**, and the SR+MA (55 studies) closes the case at meta-analytic level. The consistent cost of choosing four is complications — technical in the RCT, biological in La Monaca, long-term MBL divergence in Shao — and its benefit is *lower cost and augmentation avoidance*. Bone quality (Type 4) and smoking materially narrow the safety margin. The dominant survival driver in the large cohort is the jaw (maxilla worse), not the count.
 
 ---
 
@@ -97,11 +192,11 @@ All-on-Four vs All-on-Six across titanium, zirconia, PEEK, PEKK, Trilor, Trinia 
 - **Titanium/zirconia distribute stress most favorably**; FRC composites (Trilor/Trinia) are intermediate, clinically acceptable if esthetics/weight demand.
 - **All-on-Four's distal cantilever amplifies stress regardless of material.**
 
-**Axis-2 verdict:** more implants and a **rigid framework** both reduce stress; six implants provide a larger biomechanical safety margin, and the cantilever is the recurring villain.
+**Axis-2 verdict:** more implants and a **rigid framework** both reduce stress; six implants provide a larger biomechanical safety margin, and the cantilever is the recurring villain. The clinical finding that long-term MBL diverges for All-on-4 at ≥5 years (Shao 2026: 1.28 vs 0.94 mm) is consistent with the FEA stress pattern — a slightly greater bone-loading over time.
 
 ---
 
-## Axis 3 — Global Consensus on the edentulous maxilla (2026): minimum 4, prefer 5–6
+## Axis 3 — Consensus: minimum 4, prefer 5–6
 
 ### Schwarz 2026 (S2k guideline, 105 experts / 26 countries, 36 recommendations)
 **Source**: [[implants/full-arch/schwarz-2026-global-consensus-edentulous-maxilla-guidelines]]
@@ -116,31 +211,49 @@ All-on-Four vs All-on-Six across titanium, zirconia, PEEK, PEKK, Trilor, Trinia 
 - Expert survey: with adequate anterior maxillary bone, **50.0% preferred implants confined to the anterior region without grafting**; in severe atrophy, **55.1% favored standard-length implants with sinus augmentation or grafting** over short or zygomatic implants.
 - Recommendations cover rigid fixation of graft and membrane in vertical augmentation (WG3_Rec2) and soft-tissue grafting for insufficient keratinized mucosa (WG3_Rec3) — the surgical costs a five-to-six plan incurs when anatomy does *not* allow it.
 
-**Axis-3 verdict:** the consensus sides with the biomechanical axis on *preference* (five to six) while accepting the clinical axis on *sufficiency* (four is an acceptable minimum). Its framework recommendations — rigid metal-based or monolithic zirconia, minimal cantilever, screw retention — converge independently with Cabbarova's FEA ranking.
+### Rapone 2026 (Italian Consensus Conference, 29 experts, GRADE)
+**Source**: [[implants/full-arch/rapone-2026-italian-consensus-full-arch-grade]]
+Second independent international consensus (modified Delphi, 3 rounds, ≥90% threshold, 100% participation, GRADE framework, literature 2015–2026); 7 statements, 5 at High certainty / 2 Moderate, all Strong recommendation. Aligns with EFP S3, ITI 6th Consensus, Schwarz 2026:
+
+- **Statement 3 — mandibular implant number (High, 94%):** 4 vs 6 implants showed **equivalent 5-year survival: 98.6% vs 99.4% (p=0.136, n=943 patients/5,989 implants)**. Terminal implants minimum 10 mm length and 4 mm diameter. Bruxism, severe atrophy, or systemic risk factors → 6 implants recommended.
+- **Statement 4 — tilted vs axial (High, 94%):** short-term MBL MD=0.00 mm (95% CI −0.01 to 0.02); distal cantilever maximum 1.5× anteroposterior spread (mandible 15 mm; maxilla 10 mm); conical connection preferred (MBL 0.45 mm vs external hexagon 1.03 mm at 2–5yr).
+- **Statement 5 — prosthetic material (High, 91%):** monolithic zirconia prosthesis survival **97.23%** (~50 months); veneered zirconia fracture 15–54%; bruxism OR=2.189 for implant failure → **bruxism protocol: monolithic zirconia + no cantilever + 6 implants + conical connection + night guard + 3-month maintenance**.
+- **Statement 6 — maintenance (High, 98%):** structured maintenance reduces peri-implantitis risk **~75%**; intervals: low-risk 6 months, moderate-risk 4 months, high-risk 3 months. Non-compliance OR=14.59 for implant loss (Roccuzzo 20-yr data).
+- **Statement 7 — systemic risk (Moderate, 94%):** absolute contraindications include active malignancy, high-dose head-neck irradiation (>50–60 Gy), high-dose bone-modifying agents (HD-BMA); osteoporosis + low-dose BMA feasible with multidisciplinary consultation.
+
+**Axis-3 verdict:** Two independent international consensus processes now converge identically — minimum four implants, five to six preferred when anatomy allows; rigid screw-retained metal-based or monolithic zirconia framework; bruxism warrants six implants and monolithic zirconia as a package. Maintenance compliance is not optional — non-compliance OR=14.59 for implant loss.
 
 ---
 
-## Reconciling the three axes (the decision rule, revised 2026-09-13)
+## Reconciling the four dimensions (decision rule, revised 2026-10-06)
 
-The axes are compatible once framed correctly. **Equivalent survival in the strongest clinical designs means four implants stay within physiological bone-loading limits in standard cases**, so the FEA stress difference is a **safety-margin difference, not a failure-rate difference**. But a safety margin is exactly what absorbs the outcomes that *do* differ — technical complications (Toia 5-yr), possibly biological complications and single-implant loss (La Monaca), and overload (FEA) — and the 2026 consensus prices that margin in by preferring five to six whenever anatomy permits. The earlier version of this page defaulted to four; the consensus and La Monaca move the default, while the RCT keeps four as a legitimate option.
+The dimensions are compatible once framed correctly. **Equivalent survival in the strongest clinical designs (RCT + SR+MA) means four implants stay within physiological bone-loading limits in standard cases**, so the FEA stress difference is a **safety-margin difference, not a failure-rate difference**. But a safety margin is exactly what absorbs the outcomes that *do* differ — technical complications (Toia 5-yr), MBL divergence at ≥5 years (Shao 2026: 0.34 mm more with All-on-4), possibly biological complications (La Monaca), and overload in low-quality bone (Topdagi: Type 4 89.1%). Two independent consensus processes price that margin in by preferring five to six whenever anatomy permits.
 
 | | Four implants | Five to six implants |
 |---|---|---|
-| Survival / MBL (standard case) | Non-inferior (RCT + large retrospective); lower in one small non-randomized cohort | Reference |
+| Survival / MBL (standard case, short-medium term) | Non-inferior (RCT + large retrospective + SR+MA) | Reference |
+| MBL at ≥5 years | Slightly greater (1.28 vs 0.94 mm; Shao 2026) | Lower |
+| Very long-term (15–25yr) | Viable: maxilla 90.7%@20yr, mandible 90%@25yr | No data in this wiki |
 | Technical complications | Higher (Toia 5-yr: 16.6% vs 0%) | Lower |
 | Biological complications | Higher in one small cohort (La Monaca: 10.3% vs 1.0%) | Lower |
+| Bone quality Type 4 | CSR 89.1% (Topdagi) — intensified monitoring needed | Preferred in Type 4 bone |
 | Cost / augmentation | Lower cost, augmentation-avoiding | Higher; may require grafting |
 | Biomechanical safety margin | Smaller; cantilever-sensitive | Larger (FEA) |
 | Global Consensus (maxilla) | Acceptable minimum (WG1_Rec4) | Preferred when anatomy allows |
-| Best fit | More implants would require augmentation; cost decisive | Anatomy allows; bruxism, low bone quality, long cantilever, heavy opposing load, maxilla |
+| Italian Consensus (mandible) | Equivalent at 5yr (98.6% vs 99.4%) | Preferred with bruxism/atrophy/systemic risk |
+| Prosthetic material | Monolithic zirconia / metal-ceramic — 4 independent sources | Same |
+| Maintenance | Critical: non-compliance OR=14.59 (Rapone) | Same |
+| Best fit | Anatomy precludes 5–6 without augmentation; cost decisive; bone type 1–3 | Anatomy allows; bruxism; low bone quality; long cantilever; heavy opposing load; maxilla |
 
 **Decision rule:**
-- **Anatomy allows five to six without augmentation → place five to six** (Schwarz WG1_Rec4; larger FEA safety margin; fewer technical complications in Toia's 5-year data).
-- **More implants would require grafting, or cost is decisive → four is an evidence-backed option** (survival non-inferior in the RCT and the large cohort; half of consensus experts prefer anterior-only graftless placement when anterior bone is adequate) — but **counsel that prosthetic maintenance is likely**, use a **rigid framework (Ti/Co–Cr metal-based or monolithic zirconia; never PEEK/PEKK)**, **minimize the distal cantilever**, and screw-retain.
-- **Lean further toward five to six** with **bruxism/parafunction** (and provide a night guard, WG4_Rec12), **low bone quality**, **a long required cantilever**, **a heavily loaded opposing dentition** (opposing natural teeth also raised MBL in La Monaca), or **the maxilla**.
-- **Watch the jaw, not just the number:** the maxilla is the consistent risk signal (Caramés HR 1.815).
+- **Anatomy allows five to six without augmentation → place five to six** (both consensus processes; FEA safety margin; fewer technical complications in Toia 5-yr data; Rapone confirms equivalent outcomes with 6 even in mandible).
+- **More implants would require grafting, or cost is decisive → four is an evidence-backed option** (survival non-inferior at SR+MA level; half of consensus experts prefer anterior-only graftless placement when bone is adequate) — but **counsel that prosthetic maintenance is likely** (VAS satisfaction stays high; Rapone maintenance compliance OR=14.59), use a **rigid framework (Ti/Co–Cr metal-based or monolithic zirconia; never PEEK/PEKK)**, **minimize the distal cantilever (≤15 mm mandible / ≤10 mm maxilla)**, screw-retain, and assess bone type pre-operatively.
+- **Lean further toward five to six** with **bruxism/parafunction** (Rapone: monolithic zirconia + no cantilever + 6 implants + night guard as a package; bruxism OR 2.189), **Type 4 bone** (Topdagi: CSR 89.1% vs 98.3%), **a long required cantilever**, **a heavily loaded opposing dentition** (opposing natural teeth raised MBL in La Monaca), or **the maxilla** (Caramés HR 1.815; Schwarz consensus built on maxillary data).
+- **Watch the jaw, not just the number:** the maxilla is the consistent risk signal across all designs.
 
-**Cross-arch caveat:** Toia's RCTs and the Global Consensus are **maxillary**; Pandey/Cabbarova FEA are **mandibular**; Caramés and La Monaca span both jaws. No mandible-specific consensus on implant number is held in this wiki — in the mandible, the number-independent survival in Caramés keeps four a reasonable choice, with FEA favoring six for high-load cases. The maxilla's lower bone quality likely widens the benefit of both extra implants and rigid frameworks.
+**Maintenance as treatment:** Structured maintenance is not an afterthought — it is a primary survival variable. Rapone 2026 (Statement 6, consensus 98%): risk-based recall every 3–6 months; ~75% reduction in peri-implantitis risk; non-compliance OR=14.59. The de Araújo Nobre maxillary data even found mechanical complications protective for MBL (more maintenance visits), reinforcing the mechanism.
+
+**Cross-arch caveat:** Toia RCTs and the Global Consensus are **maxillary**; Pandey/Cabbarova FEA are **mandibular**; Caramés, La Monaca, Topdagi, and Shao span both or are unspecified. The Italian Consensus explicitly addresses the **mandible** (Statement 3). No mandible-specific survival RCT for 4 vs 6 is held in this wiki.
 
 ---
 
@@ -150,15 +263,24 @@ The axes are compatible once framed correctly. **Equivalent survival in the stro
 - [[prosthetic-materials/toia-2021-fixed-full-arch-maxillary-prostheses]] — 3-yr RCT; 4-I non-inferior MBL, prosthetic complications 47.2%
 - [[prosthetic-materials/toia-2025-fixed-full-arch-maxillary-prostheses]] — 5-yr RCT; 4-I non-inferior, more technical complications, lower cost
 - [[complete-denture/carames-2025-four-vs-six-implant]] — 943-patient retrospective; jaw/age predict loss, not number
-- [[implants/full-arch/la-monaca-2022-immediate-flapless-full-arch-rehabilitation]] — Retrospective cohort (28 pts/164 implants, mean 6.5 y, guided flapless immediate loading): all-on-6 survival 99.0% vs all-on-4 89.7%, biological complications 1.0% vs 10.3% (p=0.014) — non-randomized dissent to survival parity
+- [[implants/full-arch/la-monaca-2022-immediate-flapless-full-arch-rehabilitation]] — small non-randomized retrospective (28 pts/164 implants, mean 6.5yr): all-on-6 survival 99.0% vs all-on-4 89.7%, biological complications 1.0% vs 10.3% (p=0.014)
+- [[implants/full-arch/shao-2026-all-on-four-vs-all-on-six-sr-ma]] — SR+MA (55 studies): ≥5yr survival 98.14% vs 97.50%; long-term MBL 1.28 vs 0.94 mm; zirconia reduces mechanical complications
+- [[implants/full-arch/figueiredo-2025-all-on-four-overview-sr]] — umbrella review (8 SRs, 2013–2021): CSR 94.8–99.3%; evidence base methodologically weak
+- [[implants/full-arch/huber-2026-all-on-four-sr-management-complications]] — SR (20 studies, vs FDP4+): prosthesis survival comparable; metal-ceramic < metal-acrylic for fractures; MBL up to 1.9 mm at 5yr
+- [[implants/full-arch/de-araujo-nobre-2025-mandibular-all-on-four-20-25yr]] — mandibular All-on-4, 20–25yr (181pts/724 implants): CSR 90%/92%; MBL 2.28mm@25yr; mech compl 70.7%
+- [[implants/full-arch/de-araujo-nobre-2026-maxillary-all-on-four-15-20yr]] — maxillary All-on-4, 15–20yr (740pts/2960 implants): CSurR 90.7%; MBL 1.46mm@20yr; smoking HR=1.93
+
+**Bone quality modifier:**
+- [[implants/full-arch/topdagi-2026-all-on-4-bone-type-outcomes]] — bone type 1–4 (n=1,000 implants): Type 4 CSR 89.1% vs Type 1 98.3%; monolithic zirconia 8.9% vs metal-acrylic 26.9% complications
 
 **Biomechanical axis:**
 - [[implants/full-arch/pandey-2023-comparison-all-on-four-all-on-six]] — FEA mandible; All-on-Six markedly lower cortical/implant stress
 - [[implants/full-arch/cabbarova-2026-all-on-four-six-framework-fea]] — FEA + 6 framework materials; Ti/Zr optimal, PEEK/PEKK contraindicated
 
 **Consensus axis:**
-- [[implants/full-arch/schwarz-2026-global-consensus-edentulous-maxilla-guidelines]] — S2k guideline (Delphi, 105 experts, 26 countries; 36 recommendations mapped to a 34-outcome Core Outcome Set): minimum four implants with five to six preferred when anatomy allows (WG1_Rec4); screw-retained metal-based or monolithic zirconia framework with minimal cantilever (WG4_Rec9–10)
-- [[implants/full-arch/fiorellini-2026-global-consensus-edentulous-maxilla-group3]] — Working Group 3 report (68–88 voters): imaging, augmentation and complication recommendations; survey — 50.0% prefer anterior-only graftless placement when anterior bone is adequate
+- [[implants/full-arch/schwarz-2026-global-consensus-edentulous-maxilla-guidelines]] — S2k guideline (Delphi, 105 experts, 26 countries): minimum four implants with five to six preferred when anatomy allows; screw-retained metal-based or monolithic zirconia framework with minimal cantilever
+- [[implants/full-arch/fiorellini-2026-global-consensus-edentulous-maxilla-group3]] — Working Group 3 report: imaging, augmentation and complication recommendations
+- [[implants/full-arch/rapone-2026-italian-consensus-full-arch-grade]] — Italian Delphi GRADE consensus (29 experts): 4 vs 6 equivalent@5yr; monolithic zirconia survival 97.23%; maintenance ~75% peri-implantitis risk reduction; non-compliance OR=14.59
 
 **Related overviews:**
 - [[overviews/tilted-axial-implant-angled-abutment-overview]] — tilted-implant biomechanics underlying All-on-4
