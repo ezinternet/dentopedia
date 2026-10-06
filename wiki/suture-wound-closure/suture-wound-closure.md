@@ -2,7 +2,7 @@
 title: "봉합·창상폐쇄 — suture-wound-closure"
 authors: navigation
 year: 2026
-date: 2026-08-11
+date: 2026-10-06
 doi: N/A
 source: navigation
 category: suture-wound-closure
@@ -15,20 +15,20 @@ tags: [navigation, category-index, suture-wound-closure]
 > [!summary] 한국어 핵심요약
 > - **분야**: 봉합·창상폐쇄
 > - **범위**: Suture techniques/patterns & biomechanics, primary vs secondary closure, sutureless surgery, tissue adhesives, flap design for tension-free primary closure (PASS, periosteal releasing, advancement flaps)
-> - **수록 논문**: 26편
+> - **수록 논문**: 28편
 
 ## Three-line Summary
 
 **Scope**: Suture techniques/patterns & biomechanics, primary vs secondary closure, sutureless surgery, tissue adhesives, flap design for tension-free primary closure (PASS, periosteal releasing, advancement flaps)
-**Indexed papers**: 26 papers in `wiki/suture-wound-closure/`.
+**Indexed papers**: 28 papers in `wiki/suture-wound-closure/`.
 
 ## 세줄요약
 
 **분야**: 봉합·창상폐쇄
-**수록 논문**: 26편
+**수록 논문**: 28편
 **하위 카테고리**: 없음
 
-## Papers in this Category (26)
+## Papers in this Category (28)
 
 | Paper |
 |---|
@@ -36,10 +36,12 @@ tags: [navigation, category-index, suture-wound-closure]
 | [[attia-2023-coronally-advanced-lingual-flap-titanium-mesh|Clinical Evaluation of the Coronally Advanced Lingual Flap Technique for Maintaining Primary Wound Closure Over Titanium Mesh After Guided Bone Regeneration: A Randomized Control Trial]] |
 | [[bahaa-2022-evaluation-bone-gain-horizontal-ridge|Evaluation of bone gain in horizontal ridge augmentation using titanium mesh in combination with different flap advancement techniques: a randomized clinical trial]] |
 | [[hur-2025-modified-periosteal-releasing-incision-mpri|Modified Periosteal Releasing Incision (MPRI) for Primary Closure: Visualization of the Mental Nerve]] |
+| [[im-2026-suture-free-wound-closure-healing-abutment-rct|Dimensional Changes of the Peri-Implant Mucosa Applying a Suture-Free Wound Closure Using a Healing Abutment Attachment]] |
 | [[iwanaga-2019-releasing-incisions-buccal-periosteum-adjacent|Releasing incisions of the buccal periosteum adjacent to the lower molar teeth can injure the facial artery: an anatomical study]] |
 | [[jeevitha-2025-tissue-adhesives-vs-sutures-periodontal-flap-sr-ma|Comparison of clinical effectiveness between tissue adhesives and sutures for wound closure in periodontal flap surgery: a systematic review and meta-analysis]] |
 | [[kim-2015-clinical-study-flap-advancement-without-vertical|Clinical Study of a Flap Advancement Technique Without Vertical Incision for Guided Bone Regeneration]] |
 | [[kim-2017-palatal-releasing-incision-soft-tissue-closure|Simple Palatal Releasing Incision for Minimally Invasive Soft Tissue Closure: Case Report]] |
+| [[kim-2026-interrupted-vs-mattress-suture-gbr-rct|Interrupted vs Interrupted+Mattress Suture in GBR: No Significant Difference in Wound Dehiscence]] |
 | [[knoell-2011-basic-lattice-stitch-quantitative-efficacy|Structure and Quantitative Efficacy of the Basic Lattice Stitch]] |
 | [[kumar-2022-suture-versus-sutureless-third-molar-impactions|Comparative Evaluation of Suture Versus Sutureless Surgery in Mandibular Third Molar Impactions]] |
 | [[lee-2026-clinical-and-histological-outcomes|Clinical and histological outcomes of allogenic amnion–chorion membrane for palatal donor site healing]] |
