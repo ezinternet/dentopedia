@@ -1,0 +1,607 @@
+<!--
+---
+title: "SCD·지중해빈혈 환자 발치/임플란트 전 결정 트리"
+type: interactive
+date: 2026-10-06
+status: done
+category: drug/systemic-disease
+agenda: agenda/2026-10-06_scd-thalassemia-extraction-decision-tree.md
+source_wiki:
+  - wiki/drug/systemic-disease/hong-2023-sickle-cell-dental-extraction-crisis.md
+  - wiki/drug/systemic-disease/kale-2023-blood-disorders-dental-caries.md
+  - wiki/drug/systemic-disease/oren-2021-thalassemia-3d-subperiosteal-implant-case.md
+  - wiki/drug/systemic-disease/temelci-2023-thalassemia-titanium-implant-wettability-pilot.md
+tags: [sickle-cell-disease, thalassemia, anemia, dental-extraction, implant, decision-tree, chairside]
+notes: |
+  근거: Hong 2023(VOC 경로·발치 전 평가), Kale 2023(혈액질환 구강 발현),
+  Oren 2021(BTM 수술 전 혈액 지원), Temelci 2023(Ti 습윤성 동등).
+  외부 CDN 없음. 라이트 배경 고정, 다크 모드 없음.
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SCD·지중해빈혈 발치/임플란트 전 결정 트리</title>
+<style>
+  :root {
+    --bg: #fafbfc;
+    --surface: #ffffff;
+    --border: #dde1e7;
+    --text: #1f2933;
+    --text-sub: #5c6773;
+    --blue: #1a6faf;
+    --blue-light: #e8f2fb;
+    --red: #c0392b;
+    --red-light: #fdf2f1;
+    --orange: #c97a1f;
+    --orange-light: #fef8ec;
+    --green: #2e7d52;
+    --green-light: #eaf5ee;
+    --yellow: #7d6c1f;
+    --yellow-light: #fffbe8;
+    --radius: 8px;
+    --shadow: 0 1px 3px rgba(0,0,0,0.07);
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: -apple-system, "Apple SD Gothic Neo", "Noto Sans KR", system-ui, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.6;
+    padding: 16px;
+    max-width: 900px;
+    margin: 0 auto;
+  }
+
+  header { margin-bottom: 20px; }
+  header h1 { font-size: 20px; font-weight: 700; color: var(--text); margin-bottom: 4px; }
+  header p { font-size: 13px; color: var(--text-sub); }
+
+  .step-wrap { display: none; }
+  .step-wrap.active { display: block; }
+
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 16px 18px;
+    margin-bottom: 14px;
+    box-shadow: var(--shadow);
+  }
+
+  .card-title {
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--text-sub);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    margin-bottom: 10px;
+  }
+
+  .btn-group { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 6px; }
+
+  button.choice {
+    padding: 10px 18px;
+    border: 1.5px solid var(--border);
+    border-radius: 6px;
+    background: var(--surface);
+    font-size: 14px;
+    color: var(--text);
+    cursor: pointer;
+    transition: border-color 0.15s, background 0.15s;
+    font-family: inherit;
+  }
+  button.choice:hover { border-color: var(--blue); background: var(--blue-light); }
+  button.choice.selected { border-color: var(--blue); background: var(--blue-light); color: var(--blue); font-weight: 600; }
+
+  .checklist { list-style: none; padding: 0; }
+  .checklist li {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 9px 0;
+    border-bottom: 1px solid #f0f2f5;
+    font-size: 14px;
+  }
+  .checklist li:last-child { border-bottom: none; }
+  .checklist li input[type=checkbox] {
+    margin-top: 3px;
+    width: 16px; height: 16px;
+    flex-shrink: 0;
+    cursor: pointer;
+    accent-color: var(--blue);
+  }
+  .checklist li label { cursor: pointer; flex: 1; }
+  .checklist li.checked label { color: var(--text-sub); text-decoration: line-through; }
+
+  .chip {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 12px;
+    font-size: 11px;
+    font-weight: 600;
+    margin-left: 6px;
+    vertical-align: middle;
+  }
+  .chip-red { background: var(--red-light); color: var(--red); }
+  .chip-orange { background: var(--orange-light); color: var(--orange); }
+  .chip-green { background: var(--green-light); color: var(--green); }
+
+  .alert {
+    border-radius: var(--radius);
+    padding: 12px 14px;
+    margin-bottom: 10px;
+    font-size: 13.5px;
+    line-height: 1.55;
+  }
+  .alert-red { background: var(--red-light); border-left: 3px solid var(--red); color: var(--red); }
+  .alert-orange { background: var(--orange-light); border-left: 3px solid var(--orange); color: #7a4a00; }
+  .alert-green { background: var(--green-light); border-left: 3px solid var(--green); color: var(--green); }
+  .alert-blue { background: var(--blue-light); border-left: 3px solid var(--blue); color: var(--blue); }
+  .alert-yellow { background: var(--yellow-light); border-left: 3px solid #c9a81f; color: var(--yellow); }
+
+  .alert strong { font-weight: 700; }
+  .alert ul { margin: 6px 0 0 16px; }
+  .alert ul li { margin-bottom: 3px; }
+
+  .result-section { margin-bottom: 14px; }
+  .result-section h3 { font-size: 14px; font-weight: 700; margin-bottom: 8px; color: var(--text); }
+
+  .nav-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 16px;
+    gap: 8px;
+  }
+
+  button.btn-back {
+    padding: 9px 16px;
+    background: var(--surface);
+    border: 1.5px solid var(--border);
+    border-radius: 6px;
+    font-size: 13px;
+    color: var(--text-sub);
+    cursor: pointer;
+    font-family: inherit;
+  }
+  button.btn-next {
+    padding: 9px 20px;
+    background: var(--blue);
+    border: none;
+    border-radius: 6px;
+    font-size: 13px;
+    font-weight: 600;
+    color: #fff;
+    cursor: pointer;
+    font-family: inherit;
+  }
+  button.btn-next:disabled { background: #b0c4d8; cursor: not-allowed; }
+  button.btn-reset {
+    padding: 9px 20px;
+    background: var(--surface);
+    border: 1.5px solid var(--blue);
+    border-radius: 6px;
+    font-size: 13px;
+    color: var(--blue);
+    cursor: pointer;
+    font-family: inherit;
+  }
+
+  .progress {
+    display: flex;
+    gap: 5px;
+    margin-bottom: 18px;
+  }
+  .progress-dot {
+    width: 8px; height: 8px;
+    border-radius: 50%;
+    background: var(--border);
+    transition: background 0.2s;
+  }
+  .progress-dot.done { background: var(--blue); }
+  .progress-dot.active { background: var(--blue); box-shadow: 0 0 0 2px var(--blue-light); }
+
+  .ref-note {
+    font-size: 11px;
+    color: #9aa5b4;
+    margin-top: 14px;
+    padding-top: 10px;
+    border-top: 1px solid #edf0f4;
+    line-height: 1.5;
+  }
+
+  .step-label {
+    font-size: 12px;
+    color: var(--text-sub);
+    margin-bottom: 8px;
+  }
+
+  .inline-link {
+    color: var(--blue);
+    text-decoration: none;
+    border-bottom: 1px dotted var(--blue);
+    font-size: 12px;
+  }
+
+  @media (max-width: 600px) {
+    .btn-group { flex-direction: column; }
+    button.choice { width: 100%; text-align: left; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>빈혈 환자 발치·임플란트 전 결정 트리</h1>
+  <p>SCD(겸상세포빈혈, Sickle Cell Disease) · β-지중해빈혈 (β-Thalassemia) — 시술 전 단계별 평가</p>
+</header>
+
+<!-- 진행 표시 -->
+<div class="progress" id="progressBar">
+  <div class="progress-dot active" id="dot0"></div>
+  <div class="progress-dot" id="dot1"></div>
+  <div class="progress-dot" id="dot2"></div>
+  <div class="progress-dot" id="dot3"></div>
+  <div class="progress-dot" id="dot4"></div>
+</div>
+
+<!-- ── STEP 0: 질환 선택 ── -->
+<div class="step-wrap active" id="step0">
+  <div class="card">
+    <div class="card-title">Step 1 — 질환 선택</div>
+    <div class="step-label">환자의 혈액질환을 선택하세요</div>
+    <div class="btn-group" id="diseaseGroup">
+      <button class="choice" onclick="selectDisease('scd', this)">SCD (겸상세포빈혈)</button>
+      <button class="choice" onclick="selectDisease('btm', this)">β-지중해빈혈 중증 (BTM)</button>
+      <button class="choice" onclick="selectDisease('bim', this)">β-지중해빈혈 경증 (BIM/특성형)</button>
+    </div>
+  </div>
+  <div class="nav-row">
+    <span></span>
+    <button class="btn-next" id="nextStep0" onclick="goTo(1)" disabled>다음 →</button>
+  </div>
+</div>
+
+<!-- ── STEP 1: 시술 선택 ── -->
+<div class="step-wrap" id="step1">
+  <div class="card">
+    <div class="card-title">Step 2 — 시술 선택</div>
+    <div class="step-label">계획 중인 시술을 선택하세요</div>
+    <div class="btn-group" id="procGroup">
+      <button class="choice" onclick="selectProc('extraction', this)">발치 (Dental Extraction)</button>
+      <button class="choice" onclick="selectProc('implant', this)">임플란트 식립 (Implant Placement)</button>
+    </div>
+  </div>
+  <div class="nav-row">
+    <button class="btn-back" onclick="goTo(0)">← 이전</button>
+    <button class="btn-next" id="nextStep1" onclick="goTo(2)" disabled>다음 →</button>
+  </div>
+</div>
+
+<!-- ── STEP 2: 전신 평가 ── -->
+<div class="step-wrap" id="step2">
+  <div class="card">
+    <div class="card-title">Step 3 — 전신 평가 <span style="font-size:11px;color:#9aa5b4;font-weight:400;text-transform:none">(중단 기준 포함)</span></div>
+    <div id="generalEvalContent"></div>
+  </div>
+  <div class="nav-row">
+    <button class="btn-back" onclick="goTo(1)">← 이전</button>
+    <button class="btn-next" id="nextStep2" onclick="goTo(3)">다음 →</button>
+  </div>
+</div>
+
+<!-- ── STEP 3: 진료실 준비 ── -->
+<div class="step-wrap" id="step3">
+  <div class="card">
+    <div class="card-title">Step 4 — 진료실 준비 체크리스트</div>
+    <div id="clinicPrepContent"></div>
+  </div>
+  <div class="nav-row">
+    <button class="btn-back" onclick="goTo(2)">← 이전</button>
+    <button class="btn-next" onclick="goTo(4)">결과 보기 →</button>
+  </div>
+</div>
+
+<!-- ── STEP 4: 결과 ── -->
+<div class="step-wrap" id="step4">
+  <div id="resultContent"></div>
+  <div class="nav-row">
+    <button class="btn-back" onclick="goTo(3)">← 이전</button>
+    <button class="btn-reset" onclick="resetAll()">↺ 처음부터</button>
+  </div>
+  <div class="ref-note" id="refNote"></div>
+</div>
+
+<script>
+  var disease = null;
+  var proc = null;
+  var totalSteps = 5;
+
+  function updateProgress(step) {
+    for (var i = 0; i < totalSteps; i++) {
+      var dot = document.getElementById('dot' + i);
+      if (!dot) continue;
+      dot.className = 'progress-dot';
+      if (i < step) dot.classList.add('done');
+      else if (i === step) dot.classList.add('active');
+    }
+  }
+
+  function goTo(step) {
+    document.querySelectorAll('.step-wrap').forEach(function(el) {
+      el.classList.remove('active');
+    });
+    var target = document.getElementById('step' + step);
+    if (target) target.classList.add('active');
+    updateProgress(step);
+    if (step === 2) renderGeneralEval();
+    if (step === 3) renderClinicPrep();
+    if (step === 4) renderResult();
+    window.scrollTo(0, 0);
+  }
+
+  function selectDisease(d, btn) {
+    disease = d;
+    document.querySelectorAll('#diseaseGroup .choice').forEach(function(b) {
+      b.classList.remove('selected');
+    });
+    btn.classList.add('selected');
+    document.getElementById('nextStep0').disabled = false;
+  }
+
+  function selectProc(p, btn) {
+    proc = p;
+    document.querySelectorAll('#procGroup .choice').forEach(function(b) {
+      b.classList.remove('selected');
+    });
+    btn.classList.add('selected');
+    document.getElementById('nextStep1').disabled = false;
+  }
+
+  function renderGeneralEval() {
+    var el = document.getElementById('generalEvalContent');
+
+    var stopItems = [];
+    var checkItems = [];
+
+    if (disease === 'scd') {
+      stopItems = [
+        '현재 활성 감염 (Active Infection) — 치과치료 중 VOC 유발 가능<span class="chip chip-red">→ 감염 치료 후 재평가</span>',
+        '신경학적 결손 징후 (두통·시야장애·편측 마비) — 뇌졸중 선행 여부<span class="chip chip-red">→ 신경과 의뢰 후 진행</span>',
+        '다장기 침범 징후 (흉통·호흡곤란·황달·복통) — 급성 흉부 증후군 등<span class="chip chip-red">→ 혈액내과 의뢰 후 진행</span>',
+        '최근 4주 내 VOC 발작 이력<span class="chip chip-red">→ 4주 이상 안정 후 재평가</span>'
+      ];
+      checkItems = [
+        'Hb 수치 확인 (수술 전 혈액내과와 최적화 여부 협의)',
+        '예방적 항생제 필요 여부 — 혈액내과 지시에 따름',
+        '산소포화도 (SpO₂) 기저치 측정',
+        '마지막 수혈 시기 및 현재 수혈 프로그램 여부 확인'
+      ];
+    } else if (disease === 'btm') {
+      stopItems = [
+        '활성 감염 — 수술 중 출혈 위험 증가<span class="chip chip-red">→ 치료 후 진행</span>',
+        '비보정 응고 장애 (PT/INR 크게 상승) — 간경변 동반 가능<span class="chip chip-red">→ 혈액내과 협진 필수</span>',
+        '페리틴 > 2,500 ng/mL + 심부전 징후 — 철 과부하 합병증<span class="chip chip-red">→ 내과 안정화 후 진행</span>'
+      ];
+      checkItems = [
+        'Hb 수치 확인 — BTM 수술 전 목표 Hb 혈액내과와 조율',
+        'PT/INR, 혈소판 수치 확인 (간 기능 저하 동반 여부)',
+        '철 킬레이션 치료 현황 확인 (Desfenioxamine 등)',
+        '최근 수혈 일정 확인'
+      ];
+      if (proc === 'implant') {
+        checkItems.push('CT 판독: 피질골 두께·골수강 확장 여부 → 일반 임플란트 가능 여부 사전 평가');
+        checkItems.push('피질골 소실 의심 시 — 3D 프린팅 맞춤 골막하임플란트 계획 수립 검토 (Oren 2021)');
+      }
+    } else {
+      // BIM
+      stopItems = [
+        '활성 감염<span class="chip chip-red">→ 치료 후 진행</span>',
+        '예상치 못한 심한 빈혈 (Hb < 8 g/dL)<span class="chip chip-orange">→ 혈액내과 확인</span>'
+      ];
+      checkItems = [
+        'Hb 수치 확인 — BIM은 대개 보상성 빈혈로 수술 가능',
+        '가족력으로 BTM 자녀 위험성 존재 — 유전상담 언급 여부',
+        'CBC, PT/INR 기본 확인'
+      ];
+    }
+
+    var html = '';
+
+    html += '<p style="font-size:13px;color:#c0392b;font-weight:600;margin-bottom:8px;">🛑 중단 기준 — 하나라도 해당하면 해당 조치 후 재평가</p>';
+    html += '<ul class="checklist" id="stopList">';
+    stopItems.forEach(function(item, i) {
+      html += '<li id="stop_' + i + '">' +
+        '<input type="checkbox" id="stopCb_' + i + '" onchange="toggleCheck(\'stop_\' + ' + i + ')">' +
+        '<label for="stopCb_' + i + '">' + item + '</label></li>';
+    });
+    html += '</ul>';
+
+    html += '<p style="font-size:13px;color:#1a6faf;font-weight:600;margin:14px 0 8px;">✓ 확인 항목 — 진행 전 필수 정보</p>';
+    html += '<ul class="checklist" id="checkList">';
+    checkItems.forEach(function(item, i) {
+      html += '<li id="check_' + i + '">' +
+        '<input type="checkbox" id="checkCb_' + i + '" onchange="toggleCheck(\'check_\' + ' + i + ')">' +
+        '<label for="checkCb_' + i + '">' + item + '</label></li>';
+    });
+    html += '</ul>';
+
+    el.innerHTML = html;
+  }
+
+  function toggleCheck(id) {
+    var li = document.getElementById(id);
+    if (!li) return;
+    var cb = li.querySelector('input[type=checkbox]');
+    if (cb.checked) li.classList.add('checked');
+    else li.classList.remove('checked');
+  }
+
+  function renderClinicPrep() {
+    var el = document.getElementById('clinicPrepContent');
+    var items = [];
+
+    if (disease === 'scd') {
+      items = [
+        '최단 약속 시간 배정 — 장시간 개구·피로 = VOC 유발 인자',
+        '불안 관리 계획 수립 (구두 안심, 필요 시 진정 약물) — 치과 불안 → 교감신경 → 탈산소화 → HbS 낫모양화 경로 차단',
+        'Vasoconstrictor 함유 국소마취제 (에피네프린 2% 리도카인) 사용 시: 조직 저산소 가능성 고려 — 소량 사용 또는 vasoconstrictor 없는 제형 검토',
+        '산소포화도 모니터 (Pulse oximeter) 술 전·술 중 부착',
+        '보충 O₂ 공급 장비 준비 (비강 캐뉼라)',
+        'IV 수화 라인 접근 경로 확인 (장시간 시술 시)',
+        '응급 키트 확인: 보충 O₂ · IV 수액 · 진통제 · 119 연락처'
+      ];
+      if (proc === 'implant') {
+        items.push('임플란트 시술 전 반드시 혈액내과와 심층 협진 — 수술 시간 길어 VOC 위험 증가');
+        items.push('혈액내과 지시 하 수술 전 Hb 최적화 여부 확인');
+      }
+    } else if (disease === 'btm') {
+      items = [
+        'BTM 수술 전 혈액 지원 계획 — 혈액내과 처방에 따름',
+        '필요 시 수술 전 수혈 (Packed RBC) — Oren 2021: 2 units',
+        '신선냉동혈장 (FFP) 준비 — Oren 2021: 2 units (응고인자 보충)',
+        '트라넥삼산 (Tranexamic Acid, TXA) 1g IV 준비 (출혈 억제)',
+        '세파로스포린 2g IV (예방적 항생제) 준비',
+        '국소 지혈제 준비 (gelatin sponge·산화셀룰로오스)',
+        '술 후 Hb 추적 계획 — Oren 2021: 술 후 9.8 g/dL, 추가 수혈 1 unit'
+      ];
+      if (proc === 'implant') {
+        items.push('피질골 소실 케이스: 3D CT → CAD/CAM 골막하임플란트 계획 시 전신마취·입원 계획 포함');
+        items.push('Grade 5 Ti (Ti-6Al-4V) 임플란트: BTM 혈액에서도 표면 습윤성 정상 동등 — 재료 선택 시 참고 (Temelci 2023)');
+      }
+    } else {
+      items = [
+        'Hb 8 g/dL 이상이면 일반적 치과 시술 가능',
+        '출혈 경향 체크: IDA는 혈소판 증가 경향(반응성 혈소판증가증) — 혈전 위험 주의',
+        '국소마취제·epinephrine 사용 특별 금기 없음',
+        '5세 미만 IDA 아동: 초기 우식(ECC) 고위험 — 불소·식이 상담 병행'
+      ];
+    }
+
+    var html = '<ul class="checklist" id="prepList">';
+    items.forEach(function(item, i) {
+      html += '<li id="prep_' + i + '">' +
+        '<input type="checkbox" id="prepCb_' + i + '" onchange="toggleCheck(\'prep_\' + ' + i + ')">' +
+        '<label for="prepCb_' + i + '">' + item + '</label></li>';
+    });
+    html += '</ul>';
+    el.innerHTML = html;
+  }
+
+  function renderResult() {
+    var el = document.getElementById('resultContent');
+    var ref = document.getElementById('refNote');
+
+    var diseaseLabel = disease === 'scd' ? 'SCD (겸상세포빈혈)' :
+                       disease === 'btm' ? 'β-지중해빈혈 중증 (BTM)' : 'β-지중해빈혈 경증 (BIM)';
+    var procLabel = proc === 'extraction' ? '발치' : '임플란트 식립';
+
+    var html = '<div class="card" style="border-color:#1a6faf;">';
+    html += '<div class="card-title" style="color:#1a6faf;">평가 완료 — ' + diseaseLabel + ' · ' + procLabel + '</div>';
+
+    if (disease === 'scd') {
+      html += '<div class="result-section">';
+      html += '<div class="alert alert-orange"><strong>핵심 위험: VOC (혈관폐쇄 위기, Vaso-Occlusive Crisis)</strong><br>';
+      html += '치과 불안 → 교감신경 활성 → 산소소비↑ → HbS 탈산소화 → 낫모양화 → 모세혈관 폐색 → 허혈·통증<br>';
+      html += '<strong>예방 = 불안 차단 + 단시간 시술 + 산소포화도 모니터링</strong></div>';
+      html += '</div>';
+
+      if (proc === 'extraction') {
+        html += '<div class="result-section"><h3>발치 시 핵심 주의사항</h3>';
+        html += '<div class="alert alert-blue"><ul>';
+        html += '<li>Vasoconstrictor 소량 사용 또는 epinephrine-free 제형 검토</li>';
+        html += '<li>술 중 SpO₂ 지속 모니터링 — 95% 미만 시 즉시 보충 O₂</li>';
+        html += '<li>장시간 시술 피하기 — 필요 시 분할 진행</li>';
+        html += '<li>VOC 징후: 갑작스러운 사지·등·복부 통증, 황달, SpO₂ 하락</li>';
+        html += '</ul></div></div>';
+      } else {
+        html += '<div class="result-section"><h3>임플란트 시 추가 고려사항</h3>';
+        html += '<div class="alert alert-orange"><strong>SCD + 임플란트 = 고위험 — 혈액내과 심층 협진 필수</strong><br>';
+        html += '수술 시간 길어 VOC 위험 크게 증가. 혈액내과 Hb 최적화·수혈 계획 확인 후 진행.</div></div>';
+      }
+
+      html += '<div class="result-section"><h3>🚨 VOC 응급 프로토콜 (술 중 발생 시)</h3>';
+      html += '<div class="alert alert-red"><ul>';
+      html += '<li><strong>즉시 시술 중단</strong></li>';
+      html += '<li>보충 O₂ 투여 (비강 캐뉼라 2–4 L/min)</li>';
+      html += '<li>IV 수화 개시</li>';
+      html += '<li>진통제 투여</li>';
+      html += '<li><strong>119 즉시 호출</strong></li>';
+      html += '</ul></div></div>';
+
+    } else if (disease === 'btm') {
+      html += '<div class="result-section">';
+      html += '<div class="alert alert-orange"><strong>핵심 위험: 출혈 + 골 부족</strong><br>';
+      html += 'BTM = 수혈 의존성 빈혈 + 간 기능 저하 동반 가능 → 응고 장애 + 출혈 경향.<br>';
+      html += '피질골 소실(골수 적혈구 과형성으로 피질골 팽창·소실) → 일반 임플란트 고정력 부족 가능.</div>';
+      html += '</div>';
+
+      if (proc === 'extraction') {
+        html += '<div class="result-section"><h3>발치 시 핵심 주의사항</h3>';
+        html += '<div class="alert alert-blue"><ul>';
+        html += '<li>수술 전 혈액 지원 확인 (혈액내과 처방): RBC · FFP · TXA</li>';
+        html += '<li>국소 지혈 철저: TXA 가글·지혈제 충전·봉합</li>';
+        html += '<li>술 후 Hb 추적, 추가 수혈 필요 여부 모니터링</li>';
+        html += '<li>간 기능 저하 시 응고인자 생산↓ → 술 전 PT/INR 필수</li>';
+        html += '</ul></div></div>';
+      } else {
+        html += '<div class="result-section"><h3>임플란트 결정 분기</h3>';
+        html += '<div class="alert alert-yellow"><strong>CT 판독으로 피질골 상태 먼저 확인</strong></div>';
+        html += '<div class="alert alert-green"><strong>피질골 정상 or 경미한 소실:</strong><br>';
+        html += 'Grade 5 Ti 임플란트 사용 가능 — BTM 혈액의 Ti 표면 습윤성 = 정상인 동등 (Temelci 2023, p>0.05).<br>';
+        html += '수술 전 혈액 지원 + 국소 지혈 계획 필수.</div>';
+        html += '<div class="alert alert-orange"><strong>피질골 소실 (근적혈구 과형성으로 확장·소실):</strong><br>';
+        html += '일반 임플란트 초기 고정력 확보 불가 가능.<br>';
+        html += '3D DMLS 맞춤형 골막하임플란트 (Subperiosteal Implant) 검토 (Oren 2021, 3년 추적 성공).<br>';
+        html += '전신마취·입원 계획 + 더 강화된 혈액 지원 필요.</div>';
+        html += '</div>';
+      }
+
+    } else {
+      // BIM
+      html += '<div class="result-section">';
+      html += '<div class="alert alert-green"><strong>BIM (β-지중해빈혈 경증): 일반적 치과 시술 가능</strong><br>';
+      html += 'Hb 8 g/dL 이상이면 대부분 시술 허용. 수술 전 CBC 확인 권장.</div>';
+      html += '</div>';
+      html += '<div class="result-section"><h3>추가 주의사항</h3>';
+      html += '<div class="alert alert-blue"><ul>';
+      html += '<li>BTM과 달리 수혈 비의존성이나 빈혈 정도 개인차 큼 — Hb 확인 필수</li>';
+      html += '<li>DMFT 증가 경향 (β-지중해빈혈 공통) — 예방 처치 강화</li>';
+      html += '<li>가족력으로 BTM 자녀 가능성 → 유전상담 언급</li>';
+      html += '</ul></div></div>';
+    }
+
+    html += '</div>'; // card 닫기
+    el.innerHTML = html;
+
+    // 참고문헌
+    ref.innerHTML = '📚 근거: ';
+    if (disease === 'scd') {
+      ref.innerHTML += 'Hong WW et al. Dent Clin North Am 2023 (PMID 37714623) — VOC 예방·응급 프로토콜 | ';
+      ref.innerHTML += 'Kale SS et al. Cureus 2023 (PMID 38021750) — 혈액질환 구강 발현';
+    } else if (disease === 'btm') {
+      ref.innerHTML += 'Oren D et al. J Med Case Rep 2021 (PMID 33845912) — BTM DMLS 골막하임플란트 3년 추적 | ';
+      ref.innerHTML += 'Temelci A et al. Biomimetics 2023 (PMID 36648811) — Ti 표면 습윤성 동등 | ';
+      ref.innerHTML += 'Kale SS et al. Cureus 2023 (PMID 38021750) — 혈액질환 구강 발현';
+    } else {
+      ref.innerHTML += 'Kale SS et al. Cureus 2023 (PMID 38021750) — 혈액질환 구강 발현 (IDA·지중해빈혈)';
+    }
+    ref.innerHTML += '<br>⚠ 이 도구는 위키 근거 요약입니다. 임상 결정은 담당 혈액내과·구강악안면외과와 협의하세요.';
+  }
+
+  function resetAll() {
+    disease = null;
+    proc = null;
+    document.querySelectorAll('.choice').forEach(function(b) { b.classList.remove('selected'); });
+    document.getElementById('nextStep0').disabled = true;
+    document.getElementById('nextStep1').disabled = true;
+    goTo(0);
+  }
+</script>
+</body>
+</html>
