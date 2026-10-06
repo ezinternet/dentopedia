@@ -15,20 +15,20 @@ tags: [navigation, category-index, full-arch]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·전악수복
 > - **범위**: Full-arch / edentulous-jaw implant rehabilitation — All-on-4/-6, tilted vs axial distal implants, immediate full-arch loading & flapless full-arch, implant overdentures (single/two-implant, CAD-CAM bar), framework & load-direction FEA, severely atrophic-jaw solutions (zygomatic, customized subperios…
-> - **수록 논문**: 45편
+> - **수록 논문**: 46편
 
 ## Three-line Summary
 
 **Scope**: Full-arch / edentulous-jaw implant rehabilitation — All-on-4/-6, tilted vs axial distal implants, immediate full-arch loading & flapless full-arch, implant overdentures (single/two-implant, CAD-CAM bar), framework & load-direction FEA, severely atrophic-jaw solutions (zygomatic, customized subperiosteal).
-**Indexed papers**: 45 papers in `wiki/implants/full-arch/`.
+**Indexed papers**: 46 papers in `wiki/implants/full-arch/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·전악수복
-**수록 논문**: 45편
+**수록 논문**: 46편
 **하위 카테고리**: 없음
 
-## Papers in this Category (45)
+## Papers in this Category (46)
 
 | Paper |
 |---|
@@ -53,6 +53,7 @@ tags: [navigation, category-index, full-arch]
 | [[gianfreda-2025-trans-sinus-full-arch-sr-ma|Indications, techniques and complications associated with full-arch rehabilitation using trans-sinus implants: A systematic review and prevalence meta-analysis]] |
 | [[grandi-2025-zygomatic-hybrid-full-arch-1yr|Hybrid Full-Arch Rehabilitation Using Conventional And Zygomatic Implants: A Short-Term Retrospective Analysis]] |
 | [[huber-2026-all-on-four-sr-management-complications|All-on-Four Rehabilitation: A Systematic Review of Clinical Management, Workflow and Complications]] |
+| [[jacotti-2026-conometric-vs-screw-operative-time-in-vitro|Comparison Between Screw-Retained and Conometric Technique in Full-Arch Implant Prosthetic Rehabilitation Regarding Operative Time: An In-Vitro Study]] |
 | [[kern-2018-single-implants-edentulous-mandible-immediate|Single Mandibular Midline Implants — Immediate vs Delayed Loading: A Randomized Controlled Trial]] |
 | [[koyama-2025-single-vs-two-implant-mandibular-overdenture-sr-ma|Single versus two implant-supported mandibular overdentures: a systematic review and meta-analysis of implant survival and prosthetic complications]] |
 | [[krennmair-2025-metal-resin-zirconia-molars-5yr|Clinical outcome and technical complications of bimaxillary full-arch implant-supported metal-resin fixed dental prostheses with or without ceramic molars: 5-year results]] |
