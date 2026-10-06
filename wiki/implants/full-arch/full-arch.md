@@ -15,20 +15,20 @@ tags: [navigation, category-index, full-arch]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·전악수복
 > - **범위**: Full-arch / edentulous-jaw implant rehabilitation — All-on-4/-6, tilted vs axial distal implants, immediate full-arch loading & flapless full-arch, implant overdentures (single/two-implant, CAD-CAM bar), framework & load-direction FEA, severely atrophic-jaw solutions (zygomatic, customized subperios…
-> - **수록 논문**: 35편
+> - **수록 논문**: 36편
 
 ## Three-line Summary
 
 **Scope**: Full-arch / edentulous-jaw implant rehabilitation — All-on-4/-6, tilted vs axial distal implants, immediate full-arch loading & flapless full-arch, implant overdentures (single/two-implant, CAD-CAM bar), framework & load-direction FEA, severely atrophic-jaw solutions (zygomatic, customized subperiosteal).
-**Indexed papers**: 35 papers in `wiki/implants/full-arch/`.
+**Indexed papers**: 36 papers in `wiki/implants/full-arch/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·전악수복
-**수록 논문**: 35편
+**수록 논문**: 36편
 **하위 카테고리**: 없음
 
-## Papers in this Category (35)
+## Papers in this Category (36)
 
 | Paper |
 |---|
@@ -37,6 +37,7 @@ tags: [navigation, category-index, full-arch]
 | [[alshahrani-2026-full-arch-monolithic-zirconia-prostheses-5year-retrospective|5-Year Survival and Failure Patterns of Full-Arch Monolithic Zirconia CAFIPs: 3300 Laboratory Cases]] |
 | [[baki-2025-all-on-4-trefoil-five-implant-fea|Biomechanical evaluation of three full-arch immediate loading protocols in the mandible via finite element analysis: All-on-4, Trefoil, and Five-implant design]] |
 | [[bilgi-ozyetim-2025-biomechanical-comparison-implant-inclinations|Biomechanical comparison of various implant inclinations and abutment types in a bendable implant system]] |
+| [[bishti-2026-veneering-design-full-arch-sr|Systematic Review Evaluating the Influence of Veneering Design on the Clinical Outcome of All-Ceramic Implant-Supported 3-4 Units and Full Arch Fixed Dental Prostheses]] |
 | [[cabbarova-2026-all-on-four-six-framework-fea|All-on-Four vs All-on-Six Framework Materials: FEA Biomechanical Comparison]] |
 | [[chappuis-chocano-2023-cadcam-bar-implant-overdenture-sr-ma|Systematic review and meta-analysis of the clinical performance of implant-supported overdentures retained by CAD-CAM bars]] |
 | [[cosola-2026-customized-3d-printed-titanium-subperiosteal-implants-sr-ma|Clinical Outcomes, Survival, and Complications of Customized Computer-Aided Design and Manufacturing 3-Dimensional–Printed Titanium Subperiosteal Implants]] |
