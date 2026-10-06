@@ -1,0 +1,18 @@
+Source: PubMed Abstract PMID 42104738 (PMC open access: PMC13472035)
+PMID: 42104738
+PMCID: PMC13472035
+DOI: 10.1111/jerd.70177
+Title: Systematic Review Evaluating the Influence of Veneering Design on the Clinical Outcome of All-Ceramic Implant-Supported 3-4 Units and Full Arch Fixed Dental Prostheses
+Authors: Bishti S, Wolfart S, Zwahlen M, Waltenberger L
+Journal: J Esthet Restor Dent. 2026 Sep;38(9):1691-1707. Epub 2026 May 9
+Retrieved: 2026-10-06 via PubMed abstract
+
+== ABSTRACT ==
+
+OBJECTIVE: To systematically assess survival, failure, and complication rates of all-ceramic implant-supported monolithic and micro-veneered FDPs (i-FDPs) in partially/completely edentulous patients compared to veneered restorations.
+
+MATERIALS AND METHODS: An electronic search identified prospective clinical studies on all-ceramic i-FDPs with at least one inter-implant pontic and a minimal follow-up of 1 year, with no restrictions in language and publication date.
+
+RESULTS: Only studies on posterior 3-4-unit and full-arch i-FDPs were identified. Twelve studies assessing monolithic, fully veneered, and micro-veneered restorations were included. Regardless of veneering design, the meta-analysis indicated a 3-year success rate of 89.36% for 3-4-unit and 75.56% for full-arch i-FDPs, and an estimated 3-year survival rate of 98.64% and 96.45%, respectively. Analyzing veneering design influence was feasible only for 3-4-unit i-FDPs. Monolithic and micro-veneered 3-4-unit restorations showed significantly lower chipping incidence than fully veneered ones (p < 0.0001). The estimated annual chipping rate was 2.1% for 3-4-unit i-FDPs and 6.9% for full-arch restorations.
+
+CONCLUSION: Monolithic/micro-veneered designs are preferred for short-span i-FDPs to minimize chipping, whereas full-arch all-ceramic restorations require caution due to limited evidence and high complication rates. Current findings are based solely on high-strength 3Y-TZP zirconia (> 1000 MPa). No conclusions can be drawn for multilayer zirconia or other ceramics.
