@@ -15,20 +15,20 @@ tags: [navigation, category-index, full-arch]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·전악수복
 > - **범위**: Full-arch / edentulous-jaw implant rehabilitation — All-on-4/-6, tilted vs axial distal implants, immediate full-arch loading & flapless full-arch, implant overdentures (single/two-implant, CAD-CAM bar), framework & load-direction FEA, severely atrophic-jaw solutions (zygomatic, customized subperios…
-> - **수록 논문**: 46편
+> - **수록 논문**: 47편
 
 ## Three-line Summary
 
 **Scope**: Full-arch / edentulous-jaw implant rehabilitation — All-on-4/-6, tilted vs axial distal implants, immediate full-arch loading & flapless full-arch, implant overdentures (single/two-implant, CAD-CAM bar), framework & load-direction FEA, severely atrophic-jaw solutions (zygomatic, customized subperiosteal).
-**Indexed papers**: 46 papers in `wiki/implants/full-arch/`.
+**Indexed papers**: 47 papers in `wiki/implants/full-arch/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·전악수복
-**수록 논문**: 46편
+**수록 논문**: 47편
 **하위 카테고리**: 없음
 
-## Papers in this Category (46)
+## Papers in this Category (47)
 
 | Paper |
 |---|
@@ -66,6 +66,7 @@ tags: [navigation, category-index, full-arch]
 | [[menchini-fabris-2025-zygomatic-full-arch-3yr|Clinical and radiographic retrospective examination of data from patients who received endosseous zygomatic dental implants to support maxillary full-arch prostheses]] |
 | [[merli-2018-implant-prosthetic-rehabilitation-bone-atrophy|Implant prosthetic rehabilitation in partially edentulous patients with bone atrophy. An umbrella review based on systematic reviews of randomised controlled trials.]] |
 | [[midha-2026-implant-positioning-prosthetic-failure-case-control|Association Between Implant Positioning Parameters and Prosthetic Failure in Full-Arch Fixed Implant-Supported Prostheses: A Retrospective Matched Case-Control Study]] |
+| [[mijiritsky-2026-segmented-full-arch-digital-workflow-mandible|Segmented Full-Arch Digital Workflow for Mandibular Implant-Supported Fixed Complete Dentures: 3-Year Results]] |
 | [[murat-2025-all-on-4-implant-angulation-load-direction-fea|Predictive mathematical modeling of biomechanical behavior in all-on-4 implants design: effects of distal implant and occlusal load angulation using RSM based on FEA]] |
 | [[pandey-2023-comparison-all-on-four-all-on-six|Comparison between All-on-Four and All-on-Six Treatment Concepts on Stress Distribution for Full-Mouth Rehabilitation Using Three-Dimensional Finite Element Analysis: A Biomechanical Study]] |
 | [[papaspyridakos-2026-zirconia-full-arch-140-jaws-8yr|Zirconia full-arch implant-supported prostheses: An up to 8-year retrospective study with 140 jaws from private practice]] |
