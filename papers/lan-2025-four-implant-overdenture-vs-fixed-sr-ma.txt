@@ -1,0 +1,18 @@
+Source: PubMed Abstract PMID 40279380
+PMID: 40279380
+PMCID: ~
+DOI: 10.11607/jomi.11175
+Title: Long-Term Comprehensive Results of Four-Implant-Supported Overdentures and Fixed Complete Dentures: A Systematic Review and Meta-analysis
+Authors: Lan R, Gul M, Jiang X, Wu Y, Wang F
+Journal: Int J Oral Maxillofac Implants. 2025;40(6):751-765
+Retrieved: 2026-10-06 via PubMed abstract
+
+== ABSTRACT ==
+
+PURPOSE: To integrate the medium-term outcomes of four-implant-supported overdentures (IODs) and full-arch fixed restorations (IFRs) in the maxilla.
+
+MATERIALS AND METHODS: The search was performed in PubMed, Embase, and Cochrane databases, complemented by manual search. The inclusion criteria were at least 10 maxillary edentulous patients restored by IOD or IFR with at least 5 years of follow-up. Risk of bias (RoB) 2 and Newcastle-Ottawa Scale (NOS) tools were used to assess RoB. The implant survival rate (ISR) was calculated as the primary outcome. Prosthesis survival rate, marginal bone loss (MBL), and complications were the secondary outcomes.
+
+RESULTS: A total of 16 studies with 5,568 implants met the criteria (9 implants on IODs, 7 implants on IFRs). The weighted ISR of IODs was 94.5% (95% CI [92.1%, 96.9%]; I2 = 84.22%), and subgroup analysis was performed on the attachment system and study type. The weighted ISR of IFRs was 98.5% (95% CI [97.4%, 99.5%]; I2 = 77.88%). For prosthesis survival, the rate of 85.0% in IODs was lower than that of 99.9% in IFRs. MBL after 5 years was -0.27 ± 1.31 mm in IODs and -1.20 ± 0.76 mm in IFRs. Retention loss (0.34 per patient) and dislodgment/fracture of the acrylic teeth (0.09 per patient) were the most common complications in IODs and IFRs, respectively.
+
+CONCLUSIONS: Despite the variance of baseline, IFRs had a relatively higher implant and prosthesis survival rate than IODs, whereas IODs had less MBL at the 5th year and a higher incidence of complications. Both maxillary IODs and IFRs have predictable medium-term clinical results.
