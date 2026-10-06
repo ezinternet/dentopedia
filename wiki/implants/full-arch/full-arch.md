@@ -15,20 +15,20 @@ tags: [navigation, category-index, full-arch]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·전악수복
 > - **범위**: Full-arch / edentulous-jaw implant rehabilitation — All-on-4/-6, tilted vs axial distal implants, immediate full-arch loading & flapless full-arch, implant overdentures (single/two-implant, CAD-CAM bar), framework & load-direction FEA, severely atrophic-jaw solutions (zygomatic, customized subperios…
-> - **수록 논문**: 36편
+> - **수록 논문**: 37편
 
 ## Three-line Summary
 
 **Scope**: Full-arch / edentulous-jaw implant rehabilitation — All-on-4/-6, tilted vs axial distal implants, immediate full-arch loading & flapless full-arch, implant overdentures (single/two-implant, CAD-CAM bar), framework & load-direction FEA, severely atrophic-jaw solutions (zygomatic, customized subperiosteal).
-**Indexed papers**: 36 papers in `wiki/implants/full-arch/`.
+**Indexed papers**: 37 papers in `wiki/implants/full-arch/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·전악수복
-**수록 논문**: 36편
+**수록 논문**: 37편
 **하위 카테고리**: 없음
 
-## Papers in this Category (36)
+## Papers in this Category (37)
 
 | Paper |
 |---|
@@ -53,6 +53,7 @@ tags: [navigation, category-index, full-arch]
 | [[kern-2018-single-implants-edentulous-mandible-immediate|Single Mandibular Midline Implants — Immediate vs Delayed Loading: A Randomized Controlled Trial]] |
 | [[koyama-2025-single-vs-two-implant-mandibular-overdenture-sr-ma|Single versus two implant-supported mandibular overdentures: a systematic review and meta-analysis of implant survival and prosthetic complications]] |
 | [[la-monaca-2022-immediate-flapless-full-arch-rehabilitation|Immediate Flapless Full-Arch Rehabilitation of Edentulous Jaws on 4 or 6 Implants According to the Prosthetic-Driven Planning and Guided Implant Surgery: A Retrospective Study on Clinical and Radiographic Outcomes up to 10 Years of Follow-Up]] |
+| [[lan-2025-four-implant-overdenture-vs-fixed-sr-ma|Long-Term Comprehensive Results of Four-Implant-Supported Overdentures and Fixed Complete Dentures: A Systematic Review and Meta-analysis]] |
 | [[lin-2018-clinical-performance-tilted-versus-axial|Clinical performance of intentionally tilted implants versus axially positioned implants: A systematic review]] |
 | [[liu-2021-immediate-delayed-loading-overdenture-mbl-sr-ma|Effects of immediate and delayed loading protocols on marginal bone loss around implants in unsplinted mandibular implant-retained overdentures: a systematic review and meta-analysis]] |
 | [[marinkovic-2026-metal-zirconia-vs-acrylic-full-arch-sr-ma|Prosthetic and Biological Complications of Metal-Zirconia versus Metal-Acrylic Implant-Supported Screw-Retained Complete-Arch Prostheses: A Systematic Review and Meta-Analysis]] |
