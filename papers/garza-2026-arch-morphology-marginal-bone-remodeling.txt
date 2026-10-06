@@ -1,0 +1,12 @@
+Source: PubMed Abstract PMID 42649822 (PMC open access: PMC13510003)
+PMID: 42649822
+PMCID: PMC13510003
+DOI: 10.3390/bioengineering13080933
+Title: Arch- and Morphology-Related Variation in Early Marginal Bone Remodeling of Monolithic Zirconia Full-Arch Prostheses: An Exploratory Prospective Cohort Study
+Authors: Garza LC, Crooke E, Vallés M, Soliva J, Rodríguez X, Roig M
+Journal: Bioengineering (Basel). 2026 Aug 18;13(8):933
+Retrieved: 2026-10-06 via PubMed abstract
+
+== ABSTRACT ==
+
+Whether arch-specific anatomical configuration affects early peri-implant bone behavior in monolithic zirconia full-arch prostheses is unclear. This prospective cohort study evaluated 40 edentulous patients with 49 monolithic zirconia full-arch prostheses (25 maxillary, 24 mandibular; 308 implants). MBR and patient-reported outcomes were recorded at baseline and 12 months; mandibular morphology (U- vs. V-shaped) was classified on CBCT, and inter-implant distance and cantilever length were measured on CAD designs. Because 9 of 40 patients contributed both arches, the primary MBR comparison used a linear mixed-effects model; morphology and geometry associations were exploratory (ANOVA; Pearson correlation). Implant and prosthetic survival were 99.4% and 97.9%. Mean MBR was higher in the mandibular (0.86 ± 0.06 mm) than the maxillary arches (0.73 ± 0.02 mm); the mixed-effects model estimated this difference as β = 0.13 mm (95% CI: 0.10-0.16; p < 0.001). V-shaped mandibles (0.91 ± 0.04 mm) showed higher MBR than U-shaped mandibles (0.81 ± 0.04 mm; mean difference 0.10 mm; p < 0.001), and inter-implant distance correlated negatively with MBR in the mandible (r = -0.70, p < 0.001) but not in the maxilla (r = 0.01, p = 0.97). Patient-reported outcomes improved markedly in both arches; two minor chipping events occurred, both in V-shaped mandibles. Monolithic zirconia full-arch prostheses showed favorable short-term outcomes in both arches. Arch- and mandibular-morphology-related differences in early MBR were statistically robust and highly consistent in standardized effect size, although the absolute differences were numerically modest; these findings suggest an association between anatomical configuration and early bone remodeling under rigid, full-arch monolithic zirconia frameworks that warrants further confirmation.
