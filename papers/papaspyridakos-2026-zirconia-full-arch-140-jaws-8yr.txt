@@ -1,0 +1,18 @@
+Source: PubMed Abstract PMID 42750068
+PMID: 42750068
+PMCID: ~
+DOI: 10.1111/jopr.70232
+Title: Zirconia full-arch implant-supported prostheses: An up to 8-year retrospective study with 140 jaws from private practice
+Authors: Papaspyridakos P, Bidra AS, Bedrossian A, Kanikicharla S, Barmak AB, Ntovas P, Brecht L, Notturno M, Chochlidakis K
+Journal: J Prosthodont. 2026 Sep 16. doi: 10.1111/jopr.70232. Online ahead of print
+Retrieved: 2026-10-06 via PubMed abstract
+
+== ABSTRACT ==
+
+PURPOSE: To assess the survival and complication rates of 140 monolithic zirconia implant-supported full-arch fixed complete dental prostheses (IFCDPs) with an up to 8-year follow-up at a private practice setting.
+
+MATERIALS AND METHODS: A total of 140 edentulous jaws underwent complete-arch fixed implant treatment with a digital workflow and were rehabilitated with monolithic zirconia IFCDPs. The primary outcome was to assess survival and complication rates, whereas the secondary outcome was to measure the cross-sectional surface area (CSSA) dimensions (prosthetic space) of those 140 monolithic zirconia IFCDPs and to correlate potential technical complications with the prosthetic space dimensions.
+
+RESULTS: Out of the 140 zirconia IFCDPs, six fractured, yielding a 95.7% survival rate up to 8-year follow-up. Out of these, three fractures were located in the maxilla and three in the mandible. Non-fractured maxillary IFCDPs had a mean CSSA of 80.5 mm2, whereas fractured ones measured 62.5 mm2. The connector CSSA of the non-fractured maxillary IFCDPs was 17.9 mm2 greater and was statistically significant (p < 0.001). Non-fractured mandibular IFCDPs averaged 79.4 mm2, whereas fractured ones measured 54 mm2. The connector CSSA of the non-fractured mandibular IFCDPs was 25.4 mm2 greater, and the difference was statistically significant (p < 0.001). Non-fractured maxillary IFCDPs had a mean posterior linear height measurement (prosthetic space) of 10.58 mm, whereas fractured ones measured 9 mm. The 1.58 mm difference was statistically significant (p = 0.018). Non-fractured mandibular IFCDPs had a mean posterior prosthetic space of 11.89 mm, compared to 9.55 mm in fractured ones. The 2.34 mm difference was statistically significant (p < 0.001).
+
+CONCLUSIONS: Monolithic zirconia IFCDPs yielded a 95.7% survival rate after a mean observation period of 3 years (range of 1-8 years). Within the limitations of this study, the maxillary and mandibular connector CSSA should be at least 80 mm2, and the linear measurements should be more than 10 mm during CAD design of the final prosthesis to ensure zirconia prosthesis strength against fracture.
