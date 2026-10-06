@@ -1,0 +1,18 @@
+Source: PubMed Abstract PMID 41720288
+PMID: 41720288
+PMCID: ~
+DOI: 10.1016/j.jdent.2026.105595
+Title: Segmented full-arch digital workflow for mandibular implant-supported fixed complete dentures: 3-year results
+Authors: Mijiritsky E, Negru D, Yeremenko N, Shpirer I, Mangano FG
+Journal: J Dent. 2026 Mar;146:105595
+Retrieved: 2026-10-06 via PubMed abstract
+
+== ABSTRACT ==
+
+OBJECTIVES: To clinically and radiographically evaluate a digital workflow for manufacturing segmented mandibular implant-supported fixed complete dentures (ISFCDs) after 3 years of follow-up.
+
+METHODS: Fourteen consecutive patients (mean age 62.3±8.4 years) who received segmented mandibular ISFCDs with a fully digital workflow were included. A total of 119 implants and 14 prostheses (segmented ISFCDs) were placed and followed up for an average of 36±6 months (range 24-48 months). All prostheses were fabricated using a fully digital workflow including intraoral scanning, digital design, and milling/printing. The primary outcomes were implant survival rate (ISR), prosthesis survival rate (PSR), and marginal bone loss (MBL). Secondary outcomes included biological and technical complications.
+
+RESULTS: No implants or prostheses were lost during the follow-up period, yielding an ISR and PSR of 100%. The mean MBL was 0.71±0.24 mm. Biological complications were rare: peri-implant mucositis was diagnosed in 5 implants (4.20%), and peri-implantitis in 1 implant (0.84%). No biomechanical complications (framework fractures, screw loosening, or chipping) were observed. Patient-reported outcome measures (PROMs) were high, with patients rating their overall satisfaction at 9.2/10 (VAS).
+
+CONCLUSIONS: Segmented mandibular ISFCDs fabricated with a fully digital workflow showed favorable outcomes after 3 years, with 100% implant and prosthesis survival, minimal marginal bone loss, low biological complication rates, and no biomechanical complications. The segmented design combined with digital manufacturing appears to be a reliable approach for mandibular full-arch rehabilitation.
