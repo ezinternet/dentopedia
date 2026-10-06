@@ -4,8 +4,8 @@ authors: "Daniel Oren, Amiel A Dror, Tania Bramnik, Eyal Sela, Igal Granot, Same
 year: 2021
 doi: "10.1186/s13256-021-02741-5"
 category: [drug/systemic-disease]
-pdf_path: /Users/oracleneo/llm-wiki/papers/oren-2021-thalassemia-3d-subperiosteal-implant-case.txt
-pdf_filename: oren-2021-thalassemia-3d-subperiosteal-implant-case.txt
+text_path: /Users/oracleneo/llm-wiki/papers/oren-2021-thalassemia-3d-subperiosteal-implant-case.txt
+text_filename: oren-2021-thalassemia-3d-subperiosteal-implant-case.txt
 source_collection: pubmed-text
 full_text: true
 pmid: "33845912"
