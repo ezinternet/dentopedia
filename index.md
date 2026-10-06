@@ -170,6 +170,7 @@ tags: []
 - [[implants/liu-2021-clinical-radiographic-performance-one-piece]] — Liu 2021 · sr+ma (11편 논문=10개 연구, 2019.5까지 검색): 원-피스(OPI) vs 투-피스(TPI) — 실패 위험(RR 0.49, P=0.22)·임플란트주위염(1년 RR 1.15, 2–3년 RR 1.95) 모두 무차이, MBL은 플랫폼 스위칭 아군에서만 TPI 우위(WMD 0.21 mm, P=0.004), 플랫폼 매칭 아군은 무차이(P=0.67) [abstract-only]
 - [[implants/mbl/rodrigues-2023-clinical-performance-internal-conical]] — Rodrigues 2023 · sr+ma (RCT 12편, 678명/1006개, PROSPERO CRD42021237170): 내부 원뿔 연결이 변연골흡수(SMD −0.80 mm, p=0.004)·보철적 합병증(RR 0.16, p=0.01)은 감소하나 생존율(RR 0.54, p=0.10)·생물학적 합병증(RR 0.90, p=0.82)은 무차이 — GRADE low~moderate [abstract-only]
 - [[implants/mbl/yu-2020-internal-tapered-vs-nontapered-connection]] — Yu 2020 · sr+ma (5 RCT+2 전향코호트, 592건에서 선별): 내부 테이퍼 vs 비테이퍼 연결 — 생존(RR 1.01, P=.47)·합병증(RR 1.21, 95% CI 0.72–2.04, P=.47) 동등, 변연골흡수(MD −0.43 mm, P=.003)·탐침깊이(MD −0.24 mm, P=.002)는 테이퍼 연결에서 유의하게 낮음 [abstract-only]
+- [[implants/mbl/prati-2026-cover-screw-vs-healing-abutment-rct]] — 피개나사 vs 치유지대주: MBL 동등, 치유지대주군 출혈 감소(75% BuPA 없음), 재개방 불필요 (Oral Maxillofac Surg 2026, RCT n=66)
 - [[implants/wu-2018-submerged-nonsubmerged-internal-hexagonal]] — Wu 2018 · retrospective (골수준 내부 육각형 임플란트 114개·환자 72명, 즉시식립, 5년): submerged vs nonsubmerged 5년 누적 생존율 94% vs 96%, MBL·GBR 적용·식립 부위·길이 모두 무차이 — 단일 시스템(XiVE) 비무작위 후향 연구로 SR+MA 대비 근거등급 낮음 [abstract-only]
 - [[implants/walter-2022-two-types-two-piece-dental-implants]] — Walter/Pirc/Thoma 2022 · rct (환자 64명, 임플란트 98개) 8년 추적 — 비매칭 원뿔 접합부 2피스 시스템 2종(OsseoSpeed TX vs Straumann BL SLActive) 비교: 생존율 97.6% vs 97.2%(동등), 1차 평가지표 MBL 변화 S1 골 증가 0.21 mm vs S2 골 소실 0.24 mm(군간 p<.001)이나 <0.3 mm로 임상적으로 무시할 수준, 기술적 합병증은 S2 우위(임플란트 레벨 16.7% vs 35.7%)·점막염은 S1 우위(21.4% vs 55.6%, p=.038) — 지표가 엇갈려 우자 시스템 없음 [PMC full text]
 
@@ -3308,6 +3309,8 @@ tags: []
 - [[suture-wound-closure/iwanaga-2019-releasing-incisions-buccal-periosteum-adjacent]] — Iwanaga 2019 · in-vitro · 사체연구(n=7): 하악 골막이완절개 시 안면동맥 분지가 제1·2대구치 부위에서 골막에 최근접(평균직경 2.72mm) — 골막 하방 침범 금지가 안전핵심 (abstract-only)
 - [[suture-wound-closure/stankovic-2018-use-acellular-collagen-matrix-closure]] — Stankovic 2018 · case-report · GBR 창상을 콜라겐매트릭스(Mucograft)로 덮어 골막이완절개 자체를 생략하는 기법 제안 (abstract-only, 정량결과 없음)
 - [[suture-wound-closure/jeevitha-2025-tissue-adhesives-vs-sutures-periodontal-flap-sr-ma]] — Jeevitha 2025 · sr+ma (PMC full text) · 치주판막수술 조직접착제 vs 봉합 SR+MA(RCT 10편/255명) — 통합 창상치유지수 유의차 없음(SMD −0.50, p=0.29, I²=94%)이나 통증·심미성은 접착제가 일관 우세; 카테고리 최초 SR+MA
+- [[suture-wound-closure/im-2026-suture-free-wound-closure-healing-abutment-rct]] — 치유지대주 부착(HAA)을 이용한 봉합없는 창상폐쇄: KTW 감소 억제(−0.46 vs −1.23 mm), 수술시간 4.5배 단축 (J Clin Periodontol 2026, RCT n=30)
+- [[suture-wound-closure/kim-2026-interrupted-vs-mattress-suture-gbr-rct]] — GBR에서 수평매트리스봉합 추가의 창상열개 억제 효과 없음: 발생률 60% vs 55% (p>0.05), 예비 RCT n=40 (J Periodontal Implant Sci 2026)
 
 ## 임플란트 — 수직 골증대술 (Implants: Vertical Ridge Augmentation)
 - [[implants/vertical-ridge-augmentation/alshikh-2026-titanium-mesh-peek-mesh-horizontal-ridge-rct]] — Alshikh 2026 · rct · 수평골증대(14명/28부위) prebent Ti vs 맞춤 PEEK 메시: 선형증대 동등, PEEK 골량·흡수량↑(비율흡수 ~동일)
