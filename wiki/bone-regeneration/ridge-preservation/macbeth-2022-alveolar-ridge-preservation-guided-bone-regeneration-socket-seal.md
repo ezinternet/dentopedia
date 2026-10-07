@@ -11,6 +11,7 @@ category: bone-regeneration/ridge-preservation
 evidence_level: rct
 pdf_path: ""
 pdf_filename: ""
+source_collection: pubmed-abstract
 tags:
   - alveolar-ridge-preservation
   - socket-seal
