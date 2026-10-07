@@ -1,0 +1,131 @@
+---
+title: "1st Global Consensus for Clinical Guidelines for the Rehabilitation of the Edentulous Maxilla: A Single-Round Survey on Sinus Lift and Alveolar Bone Augmentation Techniques"
+authors: "Giulia Brunello, Franz J Strauss, Iva Milinkovic, Ina Kopp, Frank Schwarz, Hom-Lay Wang"
+year: 2026
+date: 2026-02-24
+doi: "10.1111/clr.70018"
+source: "Clinical Oral Implants Research"
+category: bone-regeneration
+evidence_level: consensus
+pdf_path: /Users/oracleneo/llm-wiki/papers/brunello-2026-global-consensus-maintenance.pdf
+pdf_filename: brunello-2026-global-consensus-maintenance.pdf
+tags: [global-consensus, edentulous-maxilla, sinus-lift, bone-augmentation, maintenance, gbr, survey, expert-consensus, gccg]
+---
+
+## Three-line Summary
+
+Single-round online survey (217 experts invited, 116 completed, 53.5% response) for 1st Global Consensus for Clinical Guidelines (GCCG) 2025 on edentulous maxilla rehabilitation with sinus lift/alveolar bone augmentation. 94 statements across 16 domains; 44 (46.8%) reached consensus (>75% agreement), 4 (4.3%) strong consensus (>95%). Maintenance section: consensus on annual full-mouth pocket charts (85.4%, median 6) and intraoral radiographs (78.5%, median 6); disagreement on routine CBCT (77.7%, median 2); no consensus on panoramic radiographs. Strong consensus on importance of surgical/prosthetic/biological complications and marginal bone loss as fundamental outcomes for future studies.
+
+## 세줄요약
+
+2025년 제1차 글로벌 임상 가이드라인 합의(GCCG) 사전 설문조사: 43개국 217명 전문가 대상, 116명 완료(응답률 53.5%). 무치악 상악 재건(상악동거상/골증대 포함) 94개 진술 중 44개(46.8%) 합의, 4개(4.3%) 강력 합의 도출. 유지관리 섹션: 연 1회 전악 포켓 차트(85.4%)와 치근단 방사선(78.5%) 합의, 루틴 CBCT는 반대(77.7%), 파노라마 방사선은 합의 불성립. 향후 연구 필수 아웃컴으로 수술/보철/생물학적 합병증과 변연골소실 강력 합의.
+
+## Summary
+
+The 1st Global Consensus for Clinical Guidelines (GCCG) 2025 conducted a single-round online survey of 116 international experts (from 217 invited, 53.5% response, 43 countries) to gather opinions on edentulous maxilla rehabilitation involving sinus lift and alveolar bone augmentation. The 33-item questionnaire covered 16 domains with 94 Likert-scale statements. Consensus was defined as >75% agreement/disagreement; strong consensus as >95%. Key findings: CT/CBCT deemed essential for planning (94.7%); delayed implant placement favored for terminal dentition with insufficient bone (76.7%); xenogeneic grafts preferred for sinus lifts; membrane fixation consensus for vertical GBR; immediate loading opposed for non-splinted restorations (85.4% disagreement). **Maintenance section**: annual full-mouth pocket charts (85.4%, median 6) and intraoral radiographs (78.5%, median 6) justified; routine CBCT not justified (77.7% disagreement, median 2); panoramic radiographs no consensus. Implant longevity >10 years expected for native bone (87.1%), sinus lifts (76.7–78.4%); GBR (65.5%) and bone blocks (59.5%) no consensus. **Strong consensus** on fundamental ClinROs for future studies: surgical/prosthetic/biological complications and marginal bone loss. The maintenance consensus reflects a conservative, patient-centered approach emphasizing low-risk, high-yield diagnostics, with future research needed to refine individualized intervals and imaging strategies.
+
+## Key Contributions
+
+- First global consensus initiative (GCCG) for edentulous maxilla with augmentation (116 experts, 43 countries)
+- Structured survey methodology with defined consensus thresholds (>75% / >95%)
+- **Maintenance consensus**: Annual pocket charts + intraoral radiographs ✓; Routine CBCT ✗; Panoramic ✓/✗
+- Planning: CT/CBCT essential (94.7%); photographic/impression/wax-up/mock-up consensus
+- Biomaterials: Xenogeneic for sinus lifts; membrane fixation mandatory for vertical GBR; biologics only with bone substitutes
+- Timing: Delayed placement favored (76.7%); waiting time 2–10mo no consensus
+- Loading: Non-splinted immediate loading opposed (85.4%); splinted no consensus
+- Longevity expectations: Native bone/sinus lift >10yr consensus; GBR/bone blocks no consensus
+- **Strong consensus ClinROs**: Surgical + prosthetic + biological complications + marginal bone loss
+
+## Methodology
+
+- **Design**: Single-round online survey (Microsoft Forms) for GCCG 2025 workshop preparation
+- **Ethics**: University of Düsseldorf Ethical Committee (Protocol 2024-2973)
+- **Participants**: 217 experts invited via EAO Office (AO, EAO, ITI, Osteology Foundation); 116 completed (53.5%)
+- **Specialties**: Periodontics 62.1%, Oral surgery 25%, OMFS 17.2%, Prosthodontics 5.2%, GP 4.3%
+- **Settings**: Private clinic 71.6%, University 56.0%
+- **Survey period**: Oct 3–25, 2024 (3 weeks, 1 reminder Oct 19)
+- **Questionnaire**: 33 items, 94 Likert statements across 16 domains
+- **Consensus definition**: >75% agreement = consensus; >95% = strong consensus
+- **Analysis**: Descriptive stats, median/IQR (RAND guidelines), STATA v18, GraphPad Prism v10
+
+## Results
+
+### Maintenance Consensus (Item 22)
+| Procedure | Agreement | Median (IQR) | Consensus |
+|---|---|---|---|
+| Full-mouth pocket charts annually | 85.4% | 6 (5–7) | **Yes** |
+| Intraoral radiographs annually | 78.5% | 6 (5–7) | **Yes** |
+| CBCT routinely annually | 22.3% (disagree 77.7%) | 2 (1–3) | **No (disagreement)** |
+| Panoramic radiographs annually | — | — | **No consensus** |
+
+**Interpretation**: "Conservative, patient-centered approach emphasizing low-risk, high-yield diagnostics; future research needed to refine follow-up intervals and imaging strategies tailored to individual risk profiles and case complexity" (Discussion §4.5).
+
+### Planning Consensus (Items 4–7)
+| Tool | Agreement | Median (IQR) | Consensus |
+|---|---|---|---|
+| CT/CBCT | 94.7% | 7 (7–7) | **Yes** |
+| Photographic documentation | Consensus | — | **Yes** |
+| Impressions (conventional/digital) | Consensus | — | **Yes** |
+| Wax-ups / Mock-ups | Consensus | — | **Yes** |
+| Panoramic radiographs | 68.1% | 6 (4–7) | No consensus |
+| Facial scanning | 43.1% | 4 (4–5) | No consensus |
+
+- CT/CBCT fundamental for sinus anatomy: lateral 91.3%, crestal 4%
+
+### Biomaterials & GBR (Items 8, 12–16)
+| Statement | Agreement/Consensus |
+|---|---|
+| Xenogeneic preferred for lateral/crestal sinus lift + simultaneous implant | Highest response (pattern) |
+| Combination biomaterials for sinus lift delayed + other grafting | Pattern |
+| Membrane fixation always for vertical GBR (pins/sutures) | **Consensus** (median 7, IQR 6–7) |
+| Ti mesh/non-resorbable membranes negative impact on GBR | **Consensus** |
+| Resorbable membrane exposure detrimental impact | **No consensus** (divided) |
+| Biologics alone as barrier/for socket/sinus lift | **No consensus** (disagreement) |
+| Biologics + bone substitutes | 60.3% agreement (trend) |
+
+### Timing & Loading (Items 9–11)
+| Statement | Agreement | Consensus |
+|---|---|---|
+| Delayed implant placement favored (terminal dentition + insufficient bone) | 76.7% | **Yes** |
+| Waiting time 2–10 months (6mo 43.1%, 4mo 19%) | — | No consensus |
+| Immediate loading non-splinted secure | 14.6% (disagree 85.4%) | **No (disagreement)** |
+| Immediate loading splinted secure | — | No consensus |
+
+### Implant Longevity (Item 28)
+| Scenario | >10yr Agreement | Consensus |
+|---|---|---|
+| Native bone | 87.1% | **Yes** |
+| Lateral sinus lift | 76.7% | **Yes** |
+| Crestal sinus lift | 78.4% | **Yes** |
+| GBR | 65.5% | No consensus |
+| Bone blocks | 59.5% | No consensus |
+
+### Fundamental Outcomes for Future Studies (Items 32–33) — **Strong Consensus**
+| ClinRO | Strong Consensus |
+|---|---|
+| Surgical complications | **Yes** |
+| Prosthetic complications | **Yes** |
+| Biological complications | **Yes** |
+| Marginal bone loss | **Yes** |
+| All PROMs (except micro-aesthetics) | **Yes** |
+
+## Limitations
+
+- Single-round survey (no Delphi iteration); consensus thresholds arbitrary
+- Expert selection via organizations — potential selection bias
+- Anonymity prevented geographic response analysis
+- Consensus reflects expert opinion where evidence lacking, not evidence-based guideline
+- Systematic reviews not integrated at survey stage (planned for GCCG workshop)
+- Maintenance section limited to frequency justification; no risk-based intervals addressed
+- Panoramic radiograph role unclear
+- GBR/augmentation-specific maintenance protocols not differentiated from general implant maintenance
+
+## Related Papers
+
+- [[overviews/supportive-peri-implant-therapy-maintenance-overview]] — SPiT framework: risk-based recall 3–12mo (probing≤0.15N + BOP + radiographs), individualized; full-arch 6mo OH + ≥annual prosthesis removal
+- [[overviews/gbr-barrier-membrane-overview]] — GBR membrane taxonomy, PASS principles, defect-type selection, complication prevention
+- [[overviews/bone-regeneration-protocol-ladder]] — ARP/GBR decision ladder by socket defect; membrane/flap/seal combinations
+- [[bone-regeneration/cucchi-2019-iti-gbr-consensus]] — ITI GBR consensus: membrane removal timing, Fontana complication classification, soft-tissue management
+- [[implants/survival/jung-2021-gbr-22-24-year-maintenance-cohort]] — 23.5-year GBR cohort: 5yr structured recalls → private maintenance
+- [[bone-regeneration/jepsen-2019-efp-bone-regeneration-consensus]] — EFP 15th Workshop Group 4 consensus on alveolar ridge defects
+- [[overviews/sinus-lift-technique-selection]] — Sinus lift technique selection by RBH; lateral vs crestal consensus
