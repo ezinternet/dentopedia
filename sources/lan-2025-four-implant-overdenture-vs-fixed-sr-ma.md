@@ -14,6 +14,7 @@ pmcid: ~
 
 No held SR+MA directly compared 4-implant-supported overdentures (IODs) vs full-arch fixed restorations (IFRs) specifically in the maxilla with ≥5yr follow-up and quantified implant survival, prosthesis survival, MBL, and complication profiles separately. This provides the key IOD vs IFR decision-making evidence base for maxillary edentulous treatment planning.
 
+[[implants/full-arch/lan-2025-four-implant-overdenture-vs-fixed-sr-ma]]
 ## Three-line Summary
 
 SR+MA of 16 studies (5,568 implants) comparing 4-implant-supported overdentures (IODs, n=9 studies) vs full-arch fixed restorations (IFRs, n=7 studies) in maxillary edentulous patients with ≥5yr follow-up; PubMed, Embase, Cochrane; RoB2 and NOS; primary outcome implant survival rate.
