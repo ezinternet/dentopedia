@@ -15,6 +15,7 @@ text_filename: cuello-de-garcia-2026-zirconia-height-cantilever-fracture-in-vitr
 
 No held paper directly tested whether varying the zirconia veneering height (2, 4, 6mm) on a titanium framework affects cantilever fracture resistance. This addresses a specific clinical design question: does increasing zirconia height provide additional structural benefit? The finding that it does not — and that screw fracture dominates — redirects clinical attention to screw design and fixation protocols.
 
+[[implants/full-arch/cuello-de-garcia-2026-zirconia-height-cantilever-fracture-in-vitro]]
 ## Three-line Summary
 
 In-vitro bench study, 45 specimens (3 groups n=15 each: 2mm, 4mm, 6mm zirconia height over Ti framework) representing cantilever full-arch prostheses; cyclic loading 1.2M cycles at 200N followed by static loading to fracture; failure mode and fracture resistance recorded.
