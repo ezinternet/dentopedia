@@ -14,6 +14,7 @@ pmcid: "PMC13354045"
 
 No held SR+MA directly compared metal-zirconia (metallic substructure + monolithic zirconia superstructure) vs metal-acrylic full-arch screw-retained prostheses with quantitative pooled estimates for wear, peri-implantitis, and marginal bone loss. This fills the material-comparison gap with Level I evidence.
 
+[[implants/full-arch/marinkovic-2026-metal-zirconia-vs-acrylic-full-arch-sr-ma]]
 ## Three-line Summary
 
 Systematic review and meta-analysis of 12 studies (11 in MA) comparing metal-zirconia vs metal-acrylic full-arch implant-supported screw-retained prostheses; ROBINS-I bias assessment; GRADE certainty evaluation; search 2000–2025 across CENTRAL, PubMed, Embase, Epistemonikos.
