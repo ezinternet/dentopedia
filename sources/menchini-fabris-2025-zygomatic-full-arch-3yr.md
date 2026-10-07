@@ -14,6 +14,7 @@ pmcid: ~
 
 No held paper specifically reported >3yr middle-term outcomes for extra-maxillary zygomatic + standard implant hybrid full-arch configurations with ZICL and MSEE indices, from the same Italian research group (Menchini-Fabris, Grandi, Toti, Covani) that conducted the 1yr companion study (Grandi 2025). This provides middle-term follow-up data filling the gap between short-term (1yr) and long-term (>5yr) zygomatic hybrid outcomes.
 
+[[implants/full-arch/menchini-fabris-2025-zygomatic-full-arch-3yr]]
 ## Three-line Summary
 
 Retrospective middle-term study (>3yr) of 31 severely atrophic maxilla patients with hybrid full-arch rehabilitation using 62 zygomatic + 90 standard implants (extramaxillary technique); survival, success, complications, mPLI, mBI, MSEE, and ZICL assessed.
