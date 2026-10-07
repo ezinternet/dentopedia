@@ -14,6 +14,7 @@ pmcid: ~
 
 No held paper specifically analyzed angled abutment zygomatic implants (45°/52.5°/60°) in a hybrid full-arch protocol with 1-year outcomes including ZICL classification and mucosal health indices. Prior zygomatic papers either lack abutment angle comparison or use different protocols. This retrospective fills the gap on whether abutment angulation affects clinical outcomes in the extrasinus approach.
 
+[[implants/full-arch/grandi-2025-zygomatic-hybrid-full-arch-1yr]]
 ## Three-line Summary
 
 Retrospective 1-year analysis of hybrid full-arch maxillary rehabilitation in 35 patients using 98 straight + 81 zygomatic implants (extrasinus approach) with angled abutments at 45°, 52.5°, and 60°; biological and prosthetic outcomes plus ZICL and mucosal indices assessed.
