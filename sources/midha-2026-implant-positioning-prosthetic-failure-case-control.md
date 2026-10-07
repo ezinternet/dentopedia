@@ -14,6 +14,7 @@ pmcid: "PMC13330793"
 
 No held paper provided CBCT-measured implant positioning parameters (angulation, A-P spread, cantilever-to-A-P ratio, inter-implant distance) directly correlated with prosthetic failure in a matched case-control design. This fills the biomechanical placement parameter gap with quantified thresholds: failed cases showed 14.2mm cantilever vs 10.4mm controls, and C/AP ratio 1.42 vs 0.89.
 
+[[implants/full-arch/midha-2026-implant-positioning-prosthetic-failure-case-control]]
 ## Three-line Summary
 
 Retrospective matched case-control study (30 failure vs 60 controls), CBCT assessment of mesiodistal angulation, buccolingual angulation, vertical position, A-P spread, cantilever length, C/AP ratio, inter-implant distance in full-arch fixed implant-supported prostheses.
