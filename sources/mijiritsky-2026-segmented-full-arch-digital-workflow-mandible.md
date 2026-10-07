@@ -15,6 +15,7 @@ text_filename: mijiritsky-2026-segmented-full-arch-digital-workflow-mandible.txt
 
 No held paper evaluated segmented full-arch designs combined with a fully digital workflow for mandibular ISFCDs. Segmented prostheses distribute mechanical stress differently than monolithic frameworks; this provides 3-year survival and complication data for a clinically relevant alternative to one-piece monolithic full-arch construction.
 
+[[implants/full-arch/mijiritsky-2026-segmented-full-arch-digital-workflow-mandible]]
 ## Three-line Summary
 
 Prospective consecutive series of 14 patients (119 implants, 14 segmented mandibular ISFCDs) fabricated using fully digital workflow (intraoral scan, digital design, milling/printing); followed 24–48 months (mean 36mo); primary outcomes: ISR, PSR, MBL; secondary: biological/technical complications and PROMs.
