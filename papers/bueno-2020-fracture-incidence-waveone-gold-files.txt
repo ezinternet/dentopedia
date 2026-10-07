@@ -1,0 +1,55 @@
+Fracture incidence of WaveOne Gold files: a prospective clinical study
+Authors: Clóvis Stephano Pereira Bueno, Daniel Pinto de Oliveira, Rina Andréa Pelegrine, et al.
+Year: 2020
+DOI: 10.1111/iej.13349
+Journal: International Endodontic Journal
+PMID: 32573799
+
+Abstract:
+Aim: This prospective clinical study evaluated the incidence of instrument fracture observed after single-file root canal treatment of molars using WaveOne Gold instruments.
+
+Methodology: Three standardized, experienced and calibrated specialists treated 750 maxillary and mandibular molars with curvatures less than 45° (2691 root canals) over a 12-month period. All the treatments were performed in a single session. A total of 1104 WaveOne Gold instruments were used, including 38 small, 750 primary, 228 medium and 88 large instruments.
+
+Results: The fracture incidence data is reported in the full text. This prospective study by experienced specialists using WaveOne Gold single-file system for molar treatment.
+
+Keywords: WaveOne Gold, reciprocating, single-file, fracture incidence, prospective clinical study, molar
+
+Methods:
+Prospective clinical study. 3 experienced, calibrated specialists. 750 maxillary and mandibular molars. Curvatures <45° (Schneider method). 2691 root canals. 12-month period. Single-session treatments. 1104 WaveOne Gold instruments used:
+- Small: 38
+- Primary: 750
+- Medium: 228
+- Large: 88
+All treatments in single session. Standardized protocol.
+
+Results (from abstract/scite.ai):
+- Prospective design with experienced operators
+- Single-file reciprocating system (WaveOne Gold)
+- Molar teeth only (maxillary and mandibular)
+- Curvature <45° inclusion criterion
+- 12-month follow-up period
+- 3 calibrated specialists (reduces operator variability)
+
+Discussion (inferred from scite.ai citations):
+- Cited 23 times, 40 citation statements
+- Supporting citations: 1, Mentioning: 38, Contrasting: 0
+- Referenced in discussions of heat-treated NiTi clinical performance
+- Mechanical performance of heat-treated vs conventional NiTi
+- Low fracture rates reported for heat-treated reciprocating systems
+- Clinical studies reporting low fracture rates (24,25) for heat-treated instruments
+- Longer cyclic fatigue life of martensitic NiTi alloys vs austenitic
+
+Limitations:
+- Experienced specialists only (not generalizable to students/general practitioners)
+- Single file system (WaveOne Gold)
+- Curvature <45° (excludes severe curvatures)
+- Single-session treatments only
+- No control group (other systems)
+- Fracture incidence numbers not in abstract (need full text)
+
+Clinical implications:
+- WaveOne Gold single-file system for molars
+- Experienced operators, standardized protocol
+- Heat-treated reciprocating file (gold-wire technology)
+- Prospective design strengthens evidence
+- Need full text for exact fracture incidence numbers
