@@ -64,3 +64,4 @@ Clinical implications:
 - Operator training more important than kinematics choice
 - Molars require extra caution
 - File reuse protocols should consider case complexity
+[[endodontics/shaping/gomes-2021-clinical-fracture-incidence-rotary-reciprocating]]
