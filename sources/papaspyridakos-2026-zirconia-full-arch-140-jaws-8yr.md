@@ -14,6 +14,7 @@ pmcid: ~
 
 No held paper provided CSSA (Cross-Sectional Surface Area) threshold values for predicting fracture risk in monolithic zirconia full-arch prostheses from a large private practice dataset. This fills the critical design-parameter gap with statistically significant connector CSSA and posterior prosthetic space thresholds (≥80mm², >10mm height) for fracture prevention.
 
+[[implants/full-arch/papaspyridakos-2026-zirconia-full-arch-140-jaws-8yr]]
 ## Three-line Summary
 
 Retrospective study of 140 monolithic zirconia full-arch IFCDPs (digital workflow, private practice), up to 8yr follow-up; survival assessment plus CSSA and posterior linear height measurement correlated with fracture occurrence; 6 fractures (3 maxilla, 3 mandible).
