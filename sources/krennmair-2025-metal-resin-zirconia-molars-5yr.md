@@ -14,6 +14,7 @@ pmcid: "PMC12141106"
 
 No held paper evaluated the "hybrid modification" of metal-resin prostheses with zirconia molars/quadrants (Zrm-ISFP) as a cost-effective middle ground between full metal-resin and full zirconia full-arch prostheses. This provides 5-year RCT-quality comparative evidence showing that adding zirconia molars significantly reduces acrylic tooth fractures while maintaining the repairability and cost benefits of metal-resin design.
 
+[[implants/full-arch/krennmair-2025-metal-resin-zirconia-molars-5yr]]
 ## Three-line Summary
 
 Retrospective comparison of 29 bimaxillary ISFP patients (14 Zrm-ISFP with zirconia molars, 15 r-ISFP without) over 5 years; PRTC incidence, implant/prosthesis survival, MBL, and temporal distribution of complications (−1yr, 1–3yr, 3–5yr) compared.
