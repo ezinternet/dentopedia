@@ -8,6 +8,7 @@ category: "implants/mbl"
 evidence_level: rct
 pdf_path: ""
 pdf_filename: ""
+source_collection: pubmed-abstract
 date: "2026-01-01"
 tags: [cover-screw, healing-abutment, submerged, non-submerged, MBL, RCT, implant-protocol, BuSP, BuPA, digital-workflow, zirconia]
 relations:
