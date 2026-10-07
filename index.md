@@ -387,6 +387,7 @@ tags: []
 - [[implants/vitamin-d/dulinska-2025-vitamin-d3-soft-tissue-bone-preservation]] — Dulinska-Litewka 2025 · retrospective · 환자 72명/임플란트 115개, 비타민 D 결핍군 주위 골소실 유의 증가 + 연조직 두께는 비타민 D 상태와 무관하게 변연골 보존에 독립적 영향 (DOI 10.17219/dmp/179004)
 
 ## 골재생 (Bone Regeneration / Ridge Preservation)
+- [[bone-regeneration/jepsen-2019-efp-bone-regeneration-consensus]] — Jepsen 2019 · consensus · EFP 15차 워크샵 그룹4: 수평 골증대술(예지성 확립), 수직 골증대술(효과적·합병증↑), 치주염성 골결손 GBR(방사선학적 이득만), 측방접근 상악동 거상(장기 신뢰 가능) — 4개 SR 기반 20인 전문가 합의
 - [[bone-regeneration/haugen-2026-bone-grafts-everything-you-need]] — Haugen 2026 · review · 골 이식재 전 스펙트럼(자가골/동종골/이종골/합성골/복합체/CAD-CAM)을 골형성/골유도/골전도 삼각 구도로 비교; 치조제 보존·상악동 거상·GBR·치주재생·임플란트주위염별 권장 재료 매핑; 복합 전략(자가골 칩+느린흡수 이종골/합성골+막/메시) 윤곽 안정성↑; 미래: 정밀 생체모방(스마트 전달·맞춤형·QC)
 - [[bone-regeneration/yang-2025-sticky-bone-advances-and-applications]] — Yang 2025 · review · 스티키 본(AFG/i-PRF+골 이식재) 종설: 조성·제조법(AFG/i-PRF/셀프폴딩 i-PRF)·생물학적 특성·기전(성장인자 지속 방출·MSC 모집·M2 극성화)·임상 적용(치조제 보존·상악동 거상·주위염 GBR·치주 골내 결손) 정리; 인체 RCT 증거 제한적
 - [[bone-regeneration/lee-2025-longitudinal-comparative-osteogenic-collagenated-xenografts]] — Lee 2025 · animal(beagle) · OCS-B Collagen®(NIBEC, 한국) vs Bio-Oss® Collagen 비글견 GBR 직접비교: BV·BV/TV·BIC·ISQ 전 지표 동등 → 한국산 DBBM-C 비열등성 확인 [PMC전문]
@@ -3147,6 +3148,10 @@ tags: []
 - [[endodontics/shaping/ishizaki-2026-clinical-significance-anatomical-considerations-apical-patency]] — 근단 개통성(Apical Patency) 종합 리뷰: 술후 통증 완화 가능(메타분석), CBCT로 MB2 확인 필수, "해부학적 개통성" vs "시술적 개통성" 구분 제시
 - [[endodontics/shaping/kuzhanchinathan-2024-influence-apical-patency-endodontic-treatment]] — 근단 개통성(Apical Patency) 유지가 장기 추적에서 치유율 약 2배 증가 (5편, 4370 root, 체계적 문헌고찰)
 - [[endodontics/shaping/machado-2018-incidence-protaper-universal-system]] — Machado 2018 · retrospective · ProTaper Universal 파절률 후향적 연구 (1031치아/2355근관, 5년, 브라질 수련생) — 치아당 4.4%·근관당 1.9%, 하악궁 66.7%(P<0.01)·첨단부 84.4%(P<0.01), 하악 대구치 8.8–9.6% 최다, 수련생 월 1회 임상이 고율 원인
+- [[endodontics/shaping/fernandezpazos-2018-fracture-deformation-protaper-next]] — Fernández-Pazos 2018 · prospective · ProTaper Next(M-Wire) 571개 분석: X1 17.04 파절률 19.87%, 전체 결함률 31.67%, 파절 79%가 순환피로 기전 → 소형 파일 일회용 권장
+- [[endodontics/shaping/eskibaglar-2023-fracture-prevalence-instruments-used]] — Eskibağlar 2023 · prospective · 2,168개 치아(4·5학년·대학원생): 전체 파절 3.6%(79개), NiTi 왕복 파일이 수기 파일 3배, 대구치 6.9%·근단 3분의 1 72.1%, 교육 수준 간 차이 없음(p=0.051), 만곡도 중등도·심각 82% → 근단 파절 방치 84%
+- [[endodontics/shaping/gomes-2021-clinical-fracture-incidence-rotary-reciprocating]] — Gomes 2021 · sr+ma · 회전 vs 왕복 NiTi 임상 파절률 메타회귀: 전체 2.27%(회전 2.43%, 왕복 1.0%), 운동학 차이 무의미, 치아 수·술자 미숙련·대구치가 유의 위험인자
+- [[endodontics/shaping/bueno-2020-fracture-incidence-waveone-gold-files]] — Bueno 2020 · prospective · WaveOne Gold 단일파일 시스템으로 750개 대구치(2691개 근관) 12개월 전향적 치료, 1104개 기구 사용 시 45° 미만 만곡에서 낮은 파절 발생률 보고
 - [[overviews/apical-patency-endodontic-outcome-overview]] — **NEW Overview** (2편 spine + 4편 인접, 2026-08-27): 근단 개통성(Apical Patency, AP) 종합 — 테제는 **"추구할 가치는 있으나 힘으로는 아니다"**. Ishizaki 2026의 **해부학적 개통성 vs 시술적 개통성** 구분이 결정 축(전자 우선, 후자는 근첨공 transportation 위험만 있고 이득 미입증); Kuzhanchinathan 2024 SR(5편·4370근관, PROSPERO CRD42022374966) 장기 치유율 **2배**·5편 중 3편 유의하나 RCT 1편뿐이라 메타분석 불가. **통증 축 반전**: "AP가 통증을 악화시킨다"는 통념은 더 이상 방어하기 어려움 — 다만 umbrella 2편(Zamparini 2026 25 SR+MA; Abraham 2025 8 SR) 어디에도 AP가 노출변수가 아니어서 **기전 수렴이지 직접근거가 아님**(POP를 실제로 움직인 건 NaOCl 농도·세정 활성화·냉요법 등 세정 축). 활주로 벤치근거: 수동 K-file은 근단 3·9mm transportation 유의하게 큼(Aflaki 2020, p<0.05), 근단 세균압출은 3개 키네마틱스 전부 발생(Pui Yii 2021) → 압출은 개통성 고유의 벌칙이 아니라 기구조작 자체의 속성. 임상: AP 미달성이 곧 실패는 아니며, 저항을 만나면 ledge·석회화·만곡을 의심하고 CBCT — 밀어붙이면 시술적 개통성으로 전환.
 
 ### endodontics/visit-protocol (NEW subcategory, added 2026-06-13)
