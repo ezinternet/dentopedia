@@ -1,12 +1,14 @@
 ---
 source_collection: pubmed-text
-text_path: papers/gomes-2021-clinical-fracture-incidence-rotary-reciprocating.txt
+text_path: /Users/oracleneo/llm-wiki/papers/gomes-2021-clinical-fracture-incidence-rotary-reciprocating.txt
 text_filename: gomes-2021-clinical-fracture-incidence-rotary-reciprocating.txt
 evidence_level: sr+ma
+year: 2021
 date: 2021-01-07
 doi: 10.1111/aej.12484
 pmid: 33410578
 journal: Australian Endodontic Journal
+source: gomes-2021-clinical-fracture-incidence-rotary-reciprocating.md
 authors: MS Gomes, RM Vieira, DE Böttcher, G Plotino, RK Celeste, G Rossi-Fedele
 title: "Clinical fracture incidence of rotary and reciprocating NiTi files: a systematic review and meta-regression"
 category: endodontics/shaping
