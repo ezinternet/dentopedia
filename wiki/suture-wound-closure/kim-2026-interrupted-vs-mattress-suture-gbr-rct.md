@@ -8,6 +8,7 @@ category: suture-wound-closure
 evidence_level: rct
 pdf_path: ""
 pdf_filename: ""
+source_collection: pubmed-abstract
 date: "2026-01-01"
 tags: [GBR, suture, mattress-suture, wound-dehiscence, primary-closure, RCT, bone-regeneration]
 relations:
