@@ -16,6 +16,7 @@ text_filename: huber-2026-all-on-four-sr-management-complications.txt
 
 The wiki holds individual long-term studies on the All-on-Four concept (de-araujo-nobre series) and an umbrella review (figueiredo-2025), but lacked a recent PRISMA-2020/PROSPERO-registered SR that (a) explicitly compares All-on-Four versus FDP4+ across all outcomes (implant survival, prosthesis survival, MBL, biological and technical complications) and (b) covers prosthetic material choice (metal-ceramic vs metal-acrylic fracture rates). This 2026 SR fills that gap with 20 primary studies and up to 20 years of follow-up.
 
+[[implants/full-arch/huber-2026-all-on-four-sr-management-complications]]
 ## Three-line Summary
 
 PRISMA-2020 systematic review (PROSPERO CRD420261352454) comparing All-on-Four with FDP4+ (>4 implants) in edentulous adults; 20 primary studies included (11 PIO + 9 PCO); Newcastle–Ottawa Scale quality assessment; narrative synthesis after heterogeneity precluded meta-analysis.
