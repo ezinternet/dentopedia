@@ -1,0 +1,60 @@
+Investigation of fracture prevalence of instruments used in root canal treatments at a faculty of dentistry: a prospective study
+Authors: Mehmet Eskibağlar, Merve Yeniçeri Özata, Mevlüt Sinan Ocak, Faruk Öztekin
+Year: 2023
+DOI: 10.5395/rde.2023.48.e38
+Journal: Restorative Dentistry & Endodontics
+PMCID: PMC10695725
+PMID: 38053782
+
+Abstract:
+The aim of this study was to examine the use of hand or rotary files by pre-graduation (fourth- and fifth-year) and postgraduate students in endodontic treatments and to determine the incidence of file fracture and the management of cases with broken instruments.
+
+A total of 2,168 teeth undergoing primary endodontic treatment were included in this study. It was determined that 79 of these teeth resulted in broken tools. In the case of broken tools, the education level of the treating clinician, the tooth that was being treated, the canal and fracture level, the curvature of the tooth and the management of the broken instrument were recorded. Periapical radiographs of the patients were used to calculate curvature following the Schneider method.
+
+Results:
+There was no significant difference in the incidence of broken tools according to education level (p > 0.05). The incidence of file fracture in molar teeth (73.4%) was higher than in other teeth (p < 0.05). More files were broken in the mandibular molar MB canal (20.25%) and in the apical third of the canals (72.1%). The risk of instrument fracture was high in teeth with moderate (44.3%) and severe (38%) curvature canals. The management of apically broken (80%) files mostly involved leaving (p < 0.05).
+
+Conclusions:
+There was no statistically significant difference between fourth-year students, fifth-year students and postgraduate students in terms of instrument fracture.
+
+Keywords: Endodontic file, File fracture, File fracture management, Separate file
+
+Methods:
+Prospective study, ethical approval 2022/12-29 Fırat University. Patients Oct 2022 - Feb 2023. 2168 teeth (permanent incisors, premolars, molars). Retreatments and primary teeth excluded. 66 fourth-year, 72 fifth-year, 16 postgraduate students. Postgraduate: 1205 teeth, 4th year: 373, 5th year: 590. Data recorded: operator level, tooth type, instrument type (hand/rotary), fracture location, fracture length. Hand file: K-file (Mani). Rotary: Endoart Expert Gold reciprocating (İnci Dental). Endoart WISMY endomotor. Manufacturer claims high cutting efficiency and fracture strength due to heat treatment. Postgrad: manual glide path #10/15 K-file then Endoart Expert Gold #25. 4th/5th year: apical prep to #20 K-file then Endoart Expert Gold #25. Balanced force for manual. Periapical radiographs, curvature via Schneider method (AutoCAD). Curvature groups: mild (<10°), moderate (≥10, <25°), severe (≥25, <45°), ultra-severe (≥45°). Microscope (Zumax) for localization. Ultrasonic tips for retrieval.
+
+Results detail:
+- Total fractures: 79 (59 NiTi reciprocating, 20 hand files)
+- 20 cases from 4th/5th year referred to specialist clinic
+- Broken file length: incisor 2.42mm, premolar 3.4mm, molar 3.63mm (avg)
+- By education level (p=0.051):
+  - Postgraduate: 38/1205 = 3.2%
+  - 4th year: 9/373 = 2.4%
+  - 5th year: 32/590 = 5.4%
+- By arch (p=0.922): Maxilla 39 (3.6%), Mandible 40 (3.7%)
+- By tooth type (p<0.001):
+  - Incisor: 0.9% (6/654)
+  - Premolar: 2.2% (15/677)
+  - Molar: 6.9% (58/837) - significantly higher
+- Fracture management by level (p<0.001):
+  - Apical: retrieval 0%, bypass 15.8%, left 84.2%
+  - Middle: retrieval 5.3%, bypass 31.6%, left 63.2%
+  - Coronal: retrieval 66.7%, bypass 33.3%, left 0%
+- By canal (p=0.125): Man-MB 76.2% left, Max-MB 66.7% left
+- By curvature (p=0.028):
+  - Mild: bypass 41.7%, left 50%
+  - Moderate: bypass 28.6%, left 65.7%
+  - Severe: bypass 3.3%, left 96.7%
+  - Ultra-severe: bypass 0%, left 100%
+- Curvature distribution: moderate 44.3%, severe 38%, mild, ultra-severe
+- NiTi reciprocating fracture rate 3x hand files
+- Postgrad students treated avg 75.31 cases/person, 5th year 8.19, 4th year 5.65
+
+Discussion:
+NiTi fracture rate higher than hand files (consistent with literature). NiTi: flexural/torsional loading; hand: excessive apical pressure. Operator ability most important factor (various studies). No statistical difference between education levels but postgrads treated more cases with lower fracture rate. Postgrads did manual glide path which reduces stress on NiTi. Molars more fractures due to anatomy (more roots, curvature). Mandibular mesial root: distal curvature + bucco-lingual curvature not seen radiographically. Moderate curvature most fractures (vs Mtwo study where ultra-severe most). Apical third most fractures due to smaller dimensions + curvature. Files in coronal part more accessible, easier to remove/bypass. Small fragments (0.5-1.5 mm) may go unnoticed. Files should be examined before/after use with magnification.
+
+Limitations:
+- Single faculty (Fırat University, Turkey)
+- Student operators (varying experience)
+- Single reciprocating system (Endoart Expert Gold, heat-treated)
+- No long-term outcome data
+- Curvature measurement via 2D radiographs (Schneider method)
