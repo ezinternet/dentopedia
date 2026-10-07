@@ -314,3 +314,35 @@ ingest 라우팅: 치실/치간칫솔/구강세정기 효능 RCT·SR → `period
 **현황 (2026-10-04)**: ingest 4편 — `rodrigues-2023`(SR+MA), `yu-2020`(SR+MA), `walter-2022`(RCT, PMC 전문 — 두 2-piece 시스템 8년 추적), `liu-2021`(SR+MA, one-piece vs two-piece). 큐 잔여 3편: `34830709`(PMID, J Clin Med RCT pilot, PMC8621760), `36382704`(structured review), `37654392`(PMID, PMC10466507, one- vs two-piece).
 
 **주의**: `walter-2022` 출판사 초록은 분모 오타(6/24, 12/25)가 있고 본문(PMC9303227)은 35.7% vs 16.7% 임플란트 레벨 기술적 합병증을 보고 — 분모를 인용할 때 항상 PMC 전문 값 사용.
+
+---
+
+### all-on-x (All-on-4/6/X · full-arch 임플란트 고정성 보철)
+
+```
+(("all-on-four"[tiab] OR "all on four"[tiab] OR "allonfour"[tiab] OR "all-on-4"[tiab] OR "all on 4"[tiab] OR "allon4"[tiab] OR "all-on-six"[tiab] OR "all-on-6"[tiab] OR "allon six"[tiab] OR "all-on-x"[tiab] OR "allonx"[tiab]) OR (("full-arch"[tiab] OR "full arch"[tiab] OR "full-mouth"[tiab] OR "full mouth"[tiab]) AND implant*[tiab]))
+```
+
+**목적**: 무치악 고정성 풀아치 임플란트 보철(all-on-four/six, 경사 임플란트, 전악 즉시부하)의 RCT·SR·MA 추적. 기존 `implant` 상위 토픽에서 "full-arch/prosthesis 문헌이 노이즈"로 걸러져 왔던 축을 전용 토픽으로 승격 — `wiki/implants/full-arch/` 폴더 및 `full-arch-fixed-four-vs-six-implants-overview`와 1:1 대응.
+
+**노이즈 실측 (2026-10-07 시드 sweep)**:
+- 전 기간 `+RCT/SR/MA` = **159편** (코어 all-on-4/6/x 구문 19 + full-arch×implant 122 + full-mouth×implant 27, 합집합). full-arch×implant 문헌이 대다수 — orthodontic mini-implant "full arch" 문헌·full-arch fixed prosthesis(치아지지) 리뷰 등이 섞이므로 **abstract 단계 topical 확인 필수**.
+- `"all-on-x"[tiab]` phrase는 PubMed에서 0건 — 하이픈/숫자 변형(all-on-four/4/6·allonfour 등)을 나열해야 잡힌다.
+- ptyp를 RCT/SR/MA로 고정해야 물량이 manageable. 생존 코호트(Caramés 943명, La Monaca 등)는 COHORT를 별도로 켜야 열린다 — 필요 시 ptyp 임시 변경.
+
+**주요 변수 축** (ingest 우선순위):
+1. all-on-4 vs all-on-6 vs all-on-x — 생존율·합병증·MBL (overview `full-arch-fixed-four-vs-six-implants-overview`의 임상 축 보강)
+2. 경사 원위 임플란트(tilted) vs 축방향 — MBL·응력·생존 (szabo-2022 기보유)
+3. 즉시부하 vs 조기/지연부하 × full-arch
+4. 제로 캔틸레버·개수 최소화(4개 vs 5~6개) 전략·2026 컨센서스 갱신
+5. full-arch 재건 생체역학(FEA·프레임워크 재료) — 단, in-vitro는 낮은 근거등급
+
+**라우팅**: 생존·실패 → `implants/full-arch/`, 개수 결정 → `full-arch-fixed-four-vs-six-implants-overview`, FEA/생체역학 → `implants/full-arch/`(in-vitro 태깅), 보철 설계 → `implants/prosthodontics`.
+
+**현황 (2026-10-07 시드 sweep + 코호트 sweep + 1·2차 ingest 완료)**: 
+- **시드 sweep (RCT/SR/MA)**: 159편 검색 → dedup(seen 5·screened 1 제외, 153) → DOI 교차로 기보유 9편 제외 → 144편 topical 스크리닝(분대 4개 병렬) → **include 80** (OA:PMC 13) 큐 적립 + **exclude 64** screened-out(유지관리·점막염 중재·일반 임플란트 SR 등, `restore-screened`로 복구 가능).
+- **코호트 sweep (2023~ Cohort, 2026-10-07)**: 120편 검색 → 20편 상세 확인 → **include 18** (OA:PMC 6: 42397653, 41839752, 42129020, 41826858, 41482737, 42668365) 큐 적립 + **exclude 2** screened-out(peri-implantitis 치료·case report).
+- **1차 ingest 완료 (시드 sweep OA:PMC 13편)**: pellicer-chover-2013, cappare-2019, gracher-2021, fernandez-ruiz-2021, cattoni-2021, gaonkar-2021, rossi-2021, pera-2021, storelli-2021, bagnasco-2024, pozzi-2025, emam-2025, aboelez-2026 → `wiki/implants/full-arch/` + `sources/` 생성, qmd embed 완료.
+- **2차 ingest 완료 (코호트 sweep OA:PMC 6편)**: kernen-gintaute-2026, uesugi-2026, alshahrani-2026, pelser-2026, fan-2026, acar-2026 → `wiki/implants/full-arch/` + `sources/` + index.md + git push + qmd update 완료, **qmd embed 백그라운드 진행 중**.
+- **큐 현황**: all-on-x 총 92편 대기 (OA:PMC 13, OA:none 79). 잔여 PDF 확보(Unpaywall·저자 요청·RISS 등) 후 3차 ingest 예정.
+- 기보유 all-on-x 관련 페이지: murat-2025, la-monaca-2022, pandey-2023, szabo-2022, uesugi-2024, baki-2025, cabbarova-2026, yaghmai-2025 등 (`index.md` 참조).
