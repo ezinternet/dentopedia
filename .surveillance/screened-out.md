@@ -133,3 +133,69 @@
 - PMID 32520797 | masticatory-muscle-pain | edat 2021/01/01 | screened 2026/10/01 | general myofascial/neck-shoulder pain, not masticatory/TMD-specific
 - PMID 33159004 | masticatory-muscle-pain | edat 2020/01/01 | screened 2026/10/01 | general myofascial/neck-shoulder pain, not masticatory/TMD-specific
 - PMID 32301801 | masticatory-muscle-pain | edat 2021/01/01 | screened 2026/10/01 | Pelvic floor, not masticatory
+- PMID 42126492 | all-on-x | edat 2026/ | screened 2026/10/07 | 치근단 방사선 사진의 AI 진단 SR로 임플란트·풀아치와 무관한 비치과적 주제
+- PMID 41761442 | all-on-x | edat 2026/ | screened 2026/10/07 | 임플란트 주위점막염의 비외과적 기구 처치 RCT로 풀아치 보철 개념과 무관한 유지관리 연구
+- PMID 41146170 | all-on-x | edat 2025/ | screened 2026/10/07 | 무치악 상악 재건에서 완전/부분 가이드 임플란트 식립 정확도 RCT — 전악 임플란트지만 고정성 풀아치 보철 개념 자체는 아님
+- PMID 38096448 | all-on-x | edat 2024/ | screened 2026/10/07 | 수포성 표피박리증 환자의 구강 보철 재건 SR로 무치악 풀아치 임플란트와 무관
+- PMID 38764386 | all-on-x | edat 2024/ | screened 2026/10/07 | 짧은 vs 긴 임플란트 비교 SR/MA로 임플란트 길이 일반 주제이며 풀아치 특이적이지 않음
+- PMID 34677005 | all-on-x | edat 2022/ | screened 2026/10/07 | 과염소산계 세정제의 임플란트 주위점막염 중재 RCT로 풀아치 보철과 무관한 유지관리 주제
+- PMID 34726849 | all-on-x | edat 2021/ | screened 2026/10/07 | 임플란트 지지 풀아치 보철의 에어폴리싱 유지관리 RCT — 풀아치 보철이지만 개념·생존·재료가 아닌 위생관리 측면
+- PMID 34352130 | all-on-x | edat 2021/ | screened 2026/10/07 | 아노다이징 표면 임플란트의 부하 프로토콜 SR/MA로 표면·로딩 일반 주제이고 풀아치 한정 아님
+- PMID 32938869 | all-on-x | edat 2021/ | screened 2026/10/07 | 무치악 위축 악궁 풀아치 임플란트 수복의 상부구조 탈거 유무와 세균감소 RCT — 풀아치 보철이지만 유지관리 측면
+- PMID 31659571 | all-on-x | edat 2019/ | screened 2026/10/07 | 수포성 표피박리증 환자의 임플란트 SR로 희귀 전신질환 환자 일반 주제이고 풀아치와 무관
+- PMID 30232627 | all-on-x | edat 2019/ | screened 2026/10/07 | 유지관리 시 임플란트 비외과적 세정법 RCT로 풀아치 여부 불명이고 보철 개념과 무관
+- PMID 31090751 | all-on-x | edat 2019/?? | screened 2026/10/07 | 상악동 거상 술식의 피판 비교 RCT로 임플란트 수술 처치 일반 주제이며 풀아치와 무관
+- PMID 27596805 | all-on-x | edat 2017/ | screened 2026/10/07 | 디지털 vs 관례 임플란트 인상의 시간·난이도 RCT로 일반 임플란트 인상이고 풀아치 한정 아님
+- PMID 24917174 | all-on-x | edat 2015/ | screened 2026/10/07 | 수복 유형별 즉시 vs 관례 부하 SR/MA — 풀아치를 포함하나 전 유형을 아우르는 일반 주제라 경계
+- PMID 25433139 | all-on-x | edat 2015/ | screened 2026/10/07 | 신선 발치와 vs 치유 부위 임플란트 식립 SR/MA로 식립 시기 일반 주제이며 풀아치와 무관
+- PMID 21219391 | all-on-x | edat 2011/ | screened 2026/10/07 | 전치부 단일 임플란트 크라운의 연조직 변화 RCT로 단일 임플란트 주제
+- PMID 19024258 | all-on-x | edat 2008/ | screened 2026/10/07 | 타이타늄 임플란트 표면의 치태 형성 RCT로 표면 일반 주제이고 풀아치와 무관
+- PMID 16836167 | all-on-x | edat 2006/ | screened 2026/10/07 | 즉시부하 임플란트 생존률 SR로 풀아치 수복을 포함하나 전체 재건 유형을 아우르는 일반 주제라 경계
+- PMID 42144881 | all-on-x | edat 2026/ | screened 2026/10/07 | 노인 치아상실 보철 재활 전반의 기능적 결과 SR — 가철 포함 가능, 고정성 풀아치 한정 아님
+- PMID 39360638 | all-on-x | edat 2025/ | screened 2026/10/07 | 임플란트 거시형태·친수성 표면 성능 비교가 주 연구질문(표면·거시형태 단독 비교)
+- PMID 38659293 | all-on-x | edat 2024/ | screened 2026/10/07 | 점막염 비수술 치료 중재(erythritol air-polishing RCT)
+- PMID 38627712 | all-on-x | edat 2024/ | screened 2026/10/07 | 임플란트 표면 코팅(SBTC) 성능 비교 RCT
+- PMID 37605296 | all-on-x | edat 2023/ | screened 2026/10/07 | 치아상실·보철 환자 근활성 SR — 가철 포함 가능, 고정성 풀아치 한정 아님
+- PMID 35656668 | all-on-x | edat 2022/ | screened 2026/10/07 | screw-retained 임플란트 일반 MBL SR — 풀아치·무치악 한정 아님
+- PMID 34919620 | all-on-x | edat 2021/?? | screened 2026/10/07 | 점막염 비수술 치료 중재(0.12% CHX 가글 — 항세정제 RCT)
+- PMID 31705683 | all-on-x | edat 2020/ | screened 2026/10/07 | 치주염 비수술 치료 중재(프로바이오틱 RCT)
+- PMID 30151705 | all-on-x | edat 2019/ | screened 2026/10/07 | 점막염 비수술 치료 중재(프로바이오틱 RCT)
+- PMID 30306680 | all-on-x | edat 2018/ | screened 2026/10/07 | 임플란트 지지 보철의 디지털 vs 재래식 제작 효율 일반 SR — 풀아치 한정 아님
+- PMID 29509293 | all-on-x | edat 2018/ | screened 2026/10/07 | 근관재료(MTA/Biodentine) 치주조직 반응 조직학 연구 — 치과 임플란트 재건과 무관
+- PMID 27996179 | all-on-x | edat 2017/ | screened 2026/10/07 | splinted vs nonsplinted 인접 임플란트 변연골 SR — 부분 무치악 포함, 풀아치 한정 아님
+- PMID 27389963 | all-on-x | edat 2016/ | screened 2026/10/07 | 점막염 비수술 치료 중재(CHX — 항세정제 RCT)
+- PMID 26586300 | all-on-x | edat 2016/ | screened 2026/10/07 | 풀아치 즉시부하 환자 대상이지만 중재는 통증·부종 관리(PEMF)
+- PMID 20128831 | all-on-x | edat 2010/ | screened 2026/10/07 | 점막염 비수술 치료 중재(full-mouth disinfection — 전악 소독 프로토콜 비교)
+- PMID 18672991 | all-on-x | edat 2008/ | screened 2026/10/07 | 임플란트 내부 세균오염 제거(CHX gel) RCT — 풀아치 개념과 무관
+- PMID 41980492 | all-on-x | edat 2026/ | screened 2026/10/07 | 교정용 미니임플란트(TAD) 전치 구개부 식립 가이드 SR로 명백히 다른 주제
+- PMID 41732071 | all-on-x | edat 2026/ | screened 2026/10/07 | 상악 임플란트 오버덴처(가철성) PRO SR — 고정성 풀아치가 아님
+- PMID 39889227 | all-on-x | edat 2025/ | screened 2026/10/07 | 임플란트 직경별 보철 합병증 SR/MA로 풀아치/all-on-x 한정이 아님
+- PMID 39853624 | all-on-x | edat 2025/ | screened 2026/10/07 | peri-implant mucositis Er:YAG vs 초음파 치료 RCT로 풀아치와 무관
+- PMID 38317375 | all-on-x | edat 2024/ | screened 2026/10/07 | peri-implant mucositis 글리신 공기연마 RCT — full mouth는 세정 범위 의미뿐
+- PMID 34752255 | all-on-x | edat 2021/ | screened 2026/10/07 | 교정 고정장치 환자 전동칫솔 비교 RCT로 명백히 다른 주제
+- PMID 33939193 | all-on-x | edat 2021/ | screened 2026/10/07 | peri-implantitis 비수술 치료 항생제 병용 RCT로 풀아치와 무관
+- PMID 33314332 | all-on-x | edat 2021/ | screened 2026/10/07 | 임플란트 collar 설계별 골유착·주변골 반응 25년 RCT — 풀아치와 무관
+- PMID 32360852 | all-on-x | edat 2020/ | screened 2026/10/07 | 흡연자 peri-implant mucositis PDT RCT로 풀아치와 무관
+- PMID 30202836 | all-on-x | edat 2018/?? | screened 2026/10/07 | fixture 표면 산부식·machined collar 골치유 장기 RCT로 풀아치와 무관
+- PMID 28944368 | all-on-x | edat 2017/?? | screened 2026/10/07 | 단일 크라운·고정성 부분의치 보철 재료별 생존 SR/MA로 풀아치가 아님
+- PMID 25580846 | all-on-x | edat 2015/ | screened 2026/10/07 | 지르코니아 FDP 성공률 SR — implant 풀아치 다수 포함하나 tooth-supported도 혼재
+- PMID 23062142 | all-on-x | edat 2012/ | screened 2026/10/07 | cemented vs screw-retained 임플란트 보철 생존·합병증 SR로 풀아치에 한정되지는 않음
+- PMID 20393961 | all-on-x | edat 2010/ | screened 2026/10/07 | 치아교정 초기 호선(arch wire) Cochrane SR로 명백히 다른 주제
+- PMID 15248875 | all-on-x | edat 2004/ | screened 2026/10/07 | Astra vs Brånemark 시스템 MBL 5년 비교로 풀아치 고정브릿지 사용이지만 시스템 비교가 초점
+- PMID 40877324 | all-on-x | edat 2025/ | screened 2026/10/07 | 교정용 미니임플란트(TAD) 가이드 정확도 RCT — 'full arch'는 서지컬 가이드 디자인 명칭일 뿐 풀아치 보철과 무관
+- PMID 39865359 | all-on-x | edat 2025/ | screened 2026/10/07 | 임플란트 주위 점막염 CHX 치료 RCT — 풀아치/무치악 재건과 무관한 일반 임플란트 문헌
+- PMID 38501398 | all-on-x | edat 2024/ | screened 2026/10/07 | 풀아치 임플란트 보철의 지지적 주위관리 제거 주기 SR — 보철 자체는 대상이나 유지관리 주제로 핵심 범위 밖
+- PMID 36807939 | all-on-x | edat 2023/ | screened 2026/10/07 | 조직/골레벨 임플란트의 점막염 회복 비교 — 풀아치·무치악 재건과 무관
+- PMID 34775624 | all-on-x | edat 2022/ | screened 2026/10/07 | 치아지지 vs 임플란트지지 풀아치 가철성 의치 SR — 고정성이 아닌 removable 보철 비교로 주제 밖
+- PMID 34808006 | all-on-x | edat 2022/ | screened 2026/10/07 | 임플란트 주위염 수술 중 erythritol air polishing RCT — 풀아치와 무관
+- PMID 34604936 | all-on-x | edat 2021/ | screened 2026/10/07 | 레이저 마이크로그루브 임플란트/어버트먼트 표면 골소실 RCT — 풀아치·무치악 재건과 무관
+- PMID 33844373 | all-on-x | edat 2021/ | screened 2026/10/07 | 임플란트 주위염 비수술 erythritol air polishing RCT — 풀아치와 무관
+- PMID 31286118 | all-on-x | edat 2019/?? | screened 2026/10/07 | 풀아치 고정 임플란트 보철의 바이오필름 제거(위생법) 비교 — 보철 대상은 맞으나 유지관리 주제로 핵심 범위 밖
+- PMID 30231106 | all-on-x | edat 2018/?? | screened 2026/10/07 | 풀아치 임플란트 수술 환자의 진통제 프로토콜 RCT — 수술 대상은 풀아치이나 비교 축이 통증관리라 재건 주제와 간접적
+- PMID 27483210 | all-on-x | edat 2018/ | screened 2026/10/07 | 고정 보철 전반의 디지털 vs 전통 인상 리뷰 — 풀아치 임플란트에 특정되지 않은 일반 고정 보철 주제
+- PMID 26061615 | all-on-x | edat 2015/ | screened 2026/10/07 | CAD/CAM 임플란트 지지 수복물 일반 SR — 단일·부분·풀아치 전반을 아우러 풀아치 특정성 낮음
+- PMID 25615920 | all-on-x | edat 2015/?? | screened 2026/10/07 | 고정 임플란트 보철의 유지방식(나사 vs 시멘트)·보철 유형 합병증 SR — 풀아치만 특정하지 않은 일반 고정 보철
+- PMID 24660192 | all-on-x | edat 2014/?? | screened 2026/10/07 | 나사 vs 시멘트 유지 고정 임플란트 재건 성적 SR — 풀아치만 특정하지 않은 일반 고정 재건
+- PMID 19663948 | all-on-x | edat 2009/ | screened 2026/10/07 | CAD/CAM vs 전통 제작 임플란트 지지 재건 생존 SR — 풀아치만 특정하지 않은 일반 재건
+- PMID 42492913 | all-on-x | edat 2026/10 | screened 2026/10/07 | peri-implantitis treatment study, not full-arch rehabilitation
+- PMID 41711000 | all-on-x | edat 2026/09 | screened 2026/10/07 | case report (not cohort evidence)

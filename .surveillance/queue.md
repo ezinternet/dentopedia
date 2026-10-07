@@ -612,3 +612,199 @@ Found by manual PDF discovery (not the original scout search), 2026-07-25 — sa
       "Implant-Abutment Connections: A Structured Review" — Journal of long-term effects of medical implants
 - [ ] PMID 37654392 | journal article | OA:PMC PMC10466507 | implant-internal-connection | edat 2023/07/01
       "Radiographic and Clinical Evaluation of Implant Prosthetic Treatment with One Piece versus Two Piece Dental Implants: A Comparative Prospective Study" — Journal of pharmacy & bioallied sciences
+- [ ] PMID 15214221 | RCT | OA:none | all-on-x | edat 2004/??
+      "Early loading of ITI implants supporting a maxillary full-arch prosthesis: 1-year data of a prospective, randomized study." — Int J Oral Maxillofac Implants
+- [ ] PMID 16634495 | RCT | OA:none | all-on-x | edat 2006/??
+      "Three-year data from a randomizd, controlled study of early loading of single-stage dental implants supporting maxillary full-arch prostheses." — Int J Oral Maxillofac Implants
+- [ ] PMID 18371094 | RCT | OA:none | all-on-x | edat 2008/
+      "Five-year results from a randomized, controlled trial on early and delayed loading of implants supporting full-arch prosthesis in the edentulous maxilla." — Clin Oral Implants Res
+- [ ] PMID 20467650 | RCT | OA:none | all-on-x | edat 2008/??
+      "Immediate versus early loading of flapless-placed implants supporting maxillary full-arch prostheses: a randomised controlled clinical trial." — Eur J Oral Implantol
+- [ ] PMID 21435016 | RCT | OA:none | all-on-x | edat 2011/
+      "Comparison of two early loading protocols in full arch reconstructions in the edentulous maxilla using the Cresco prosthetic system: a three-arm parallel group randomized-controlled trial." — Clin Oral Implants Res
+- [ ] PMID 21716965 | RCT | OA:none | all-on-x | edat 2011/??
+      "Immediate versus delayed loading of dental implants in edentulous maxillae: a 36-month prospective study." — Int J Prosthodont
+- [ ] PMID 21834863 | RCT | OA:none | all-on-x | edat 2013/
+      "Prospective 10-year cohort study based on a randomized, controlled trial (RCT) on implant-supported full-arch maxillary prostheses. part II: prosthetic outcomes and maintenance." — Clin Implant Dent Relat Res
+- [ ] PMID 22008715 | RCT | OA:none | all-on-x | edat 2012/
+      "Prospective 10-year cohort study based on a randomized controlled trial (RCT) on implant-supported full-arch maxillary prostheses. Part 1: sandblasted and acid-etched implants and mucosal tissue." — Clin Implant Dent Relat Res
+- [ ] PMID 22043465 | RCT | OA:none | all-on-x | edat 2011/??
+      "Immediate loading of 2 (all-on-2) versus 4 (all-on-4) implants placed with a flapless technique supporting mandibular cross-arch fixed prostheses: preliminary results from a pilot randomised controlled trial." — Eur J Oral Implantol
+- [ ] PMID 22442784 | RCT | OA:none | all-on-x | edat 2012/??
+      "A clinical study of edentulous patients rehabilitated according to the "all on four" immediate function protocol." — Int J Oral Maxillofac Implants
+- [ ] PMID 22762251 | RCT | OA:none | all-on-x | edat 2013/
+      "Long-term evaluation of Astra Tech and Brånemark implants in patients treated with full-arch bridges. Results after 12-15 years." — Clin Oral Implants Res
+- [ ] PMID 22804816 | RCT | OA:none | all-on-x | edat 2013/
+      "Comparison of plaque accumulation and soft-tissue blood flow with the use of full-arch implant-supported fixed prostheses with mucosal surfaces of different materials: a randomized clinical study." — Clin Oral Implants Res
+- [ ] PMID 22851285 | MA | OA:none | all-on-x | edat 2012/
+      "Tilted implants in the immediate loading rehabilitation of the maxilla: a systematic review." — J Dent Res
+- [ ] PMID 23062144 | SR | OA:none | all-on-x | edat 2012/
+      "What is the optimal number of implants for fixed reconstructions: a systematic review." — Clin Oral Implants Res
+- [ ] PMID 23311617 | SR | OA:none | all-on-x | edat 2014/
+      "Implant and prosthodontic survival rates with implant fixed complete dental prostheses in the edentulous mandible after at least 5 years: a systematic review." — Clin Implant Dent Relat Res
+- [ ] PMID 23560986 | SR | OA:none | all-on-x | edat 2014/
+      "The all-on-four treatment concept: a systematic review." — Clin Implant Dent Relat Res
+- [ ] PMID 23926584 | RCT | OA:none | all-on-x | edat 2013/??
+      "Immediate loading of 2(all-on-2) versus 4 (all-on-4) implants placed with a flapless technique supporting mandibular cross-arch fixed prostheses: 1-year results from a pilot randomised controlled trial." — Eur J Oral Implantol
+- [ ] PMID 24316712 | RCT | OA:PMC PMC4048120 | all-on-x | edat 2014/
+      "Single-blind randomized clinical trial to evaluate clinical and radiological outcomes after one year of immediate versus delayed implant placement supporting full-arch prostheses." — Med Oral Patol Oral Cir Bucal
+- [ ] PMID 24975989 | SR | OA:none | all-on-x | edat 2014/
+      "Systematic review of short- (5-10 years) and long-term (10 years or more) survival and success of full-arch fixed dental hybrid prostheses and supporting implants." — J Dent
+- [ ] PMID 24977252 | MA | OA:none | all-on-x | edat 2014/??
+      "The fate of marginal bone around axial vs. tilted implants: a systematic review." — Eur J Oral Implantol
+- [ ] PMID 25238031 | RCT | OA:none | all-on-x | edat 2015/
+      "A randomized controlled trial comparing interim acrylic prostheses with and without cast metal base for immediate loading of dental implants in the edentulous mandible." — Clin Oral Implants Res
+- [ ] PMID 25397803 | RCT | OA:none | all-on-x | edat 2014/??
+      "Immediate occlusal loading of full-arch rehabilitations: screw-retained versus cement-retained prosthesis. An 8-year clinical evaluation." — Int J Oral Maxillofac Implants
+- [ ] PMID 25790741 | MA | OA:none | all-on-x | edat 2015/
+      "Implant survival rates, marginal bone level changes, and complications in full-mouth rehabilitation with flapless computer-guided surgery: a systematic review and meta-analysis." — Int J Oral Maxillofac Surg
+- [ ] PMID 26446912 | RCT | OA:none | all-on-x | edat 2016/
+      "Five-Year Results of a Randomized Controlled Trial Comparing Patients Rehabilitated with Immediately Loaded Maxillary Cross-Arch Fixed Dental Prosthesis Supported by Four or Six Implants Placed Using Guided Surgery." — Clin Implant Dent Relat Res
+- [ ] PMID 27004280 | RCT | OA:none | all-on-x | edat 2016/??
+      "Conventional Versus Digital Impressions for "All-on-Four" Restorations." — Int J Oral Maxillofac Implants
+- [ ] PMID 27023410 | SR | OA:none | all-on-x | edat 2016/
+      "Fixed Rehabilitation of Edentulous Mandibles Using 2 to 4 Implants: A Systematic Review." — Implant Dent
+- [ ] PMID 28944358 | RCT | OA:none | all-on-x | edat 2017/??
+      "Ceramic vs composite veneering of full arch implant-supported zirconium frameworks: assessing patient preference and satisfaction. A crossover double-blind randomised controlled trial." — Eur J Oral Implantol
+- [ ] PMID 28944367 | SR | OA:none | all-on-x | edat 2017/??
+      "Clinical outcomes of full arch fixed implant-supported zirconia prostheses: A systematic review." — Eur J Oral Implantol
+- [ ] PMID 30024995 | SR | OA:none | all-on-x | edat 2018/??
+      "Impact of Implant Number on Mandibular Implant-Supported Profile Prostheses: A Systematic Review." — Int J Oral Maxillofac Implants
+- [ ] PMID 30039905 | RCT | OA:none | all-on-x | edat 2018/
+      ""Simpli5y" a noval concept for fixed rehabilitation of completely edentulous maxillary and mandibular edentulous arches: A 3-year randomized clinical trial, supported by a numerical analysis." — Clin Implant Dent Relat Res
+- [ ] PMID 30306694 | MA | OA:none | all-on-x | edat 2018/
+      "Clinical outcomes of partial and full-arch all-ceramic implant-supported fixed dental prostheses. A systematic review and meta-analysis." — Clin Oral Implants Res
+- [ ] PMID 30306700 | MA | OA:none | all-on-x | edat 2018/
+      "Biological and technical complications of tilted implants in comparison with straight implants supporting fixed dental prostheses. A systematic review and meta-analysis." — Clin Oral Implants Res
+- [ ] PMID 30768659 | MA | OA:none | all-on-x | edat 2019/??
+      "Fixed and Removable Full-Arch Restorations Supported by Short (≤ 8-mm) Dental Implants In the Mandible: A Systematic Review and Meta-Analysis." — Int J Oral Maxillofac Implants
+- [ ] PMID 30866465 | RCT | OA:PMC PMC6427545 | all-on-x | edat 2019/
+      "Conventional versus Digital Impressions for Full Arch Screw-Retained Maxillary Rehabilitations: A Randomized Clinical Trial." — Int J Environ Res Public Health
+- [ ] PMID 30871937 | MA | OA:none | all-on-x | edat 2019/
+      "The influence of prosthetic material on implant and prosthetic survival of implant-supported fixed complete dentures: a systematic review and meta-analysis." — J Prosthodont Res
+- [ ] PMID 31090746 | RCT | OA:none | all-on-x | edat 2019/??
+      "Immediate fixed rehabilitation of severe maxillary atrophies using trans-sinus tilted implants with or without sinus bone grafting: One-year results from a randomised controlled trial." — Int J Oral Implantol (Berl)
+- [ ] PMID 31090748 | RCT | OA:none | all-on-x | edat 2019/??
+      "Evaluation of internal and external hexagon connections in immediately loaded full-arch rehabilitations: A within-person randomised split-mouth controlled trial." — Int J Oral Implantol (Berl)
+- [ ] PMID 31433096 | SR | OA:none | all-on-x | edat 2019/
+      "A Systematic Review of Clinical Outcomes on Patients Rehabilitated with Complete-Arch Fixed Implant-Supported Prostheses According to the Time of Loading." — J Prosthodont
+- [ ] PMID 31441527 | MA | OA:none | all-on-x | edat 2020/
+      "Biological and mechanical complications of angulated abutments connected to fixed dental prostheses: A systematic review with meta-analysis." — J Oral Rehabil
+- [ ] PMID 31605405 | RCT | OA:none | all-on-x | edat 2020/
+      "6-mm-short and 11-mm-long implants compared in the full-arch rehabilitation of the edentulous mandible: A 3-year multicenter randomized controlled trial." — Clin Oral Implants Res
+- [ ] PMID 32186285 | MA | OA:none | all-on-x | edat 2020/??
+      "Complications of screw- and cement-retained implant-supported full-arch restorations: a systematic review and meta-analysis." — Int J Oral Implantol (Berl)
+- [ ] PMID 32406659 | RCT | OA:none | all-on-x | edat 2020/??
+      "Masticatory Efficiency in Implant-Supported Fixed Complete Dentures Compared with Conventional Dentures: A Randomized Clinical Trial by Color-Mixing Analysis Test." — Int J Oral Maxillofac Implants
+- [ ] PMID 32893938 | SR | OA:none | all-on-x | edat 2021/
+      "Is the Fixed Mandibular 3-Implant Retained Prosthesis Safe and Predicable for Full-Arch Mandibular Prostheses? A Systematic Review." — J Prosthodont
+- [ ] PMID 33571325 | SR | OA:none | all-on-x | edat ????/??
+      "Prevalence of Peri-implant Diseases in Patients with Full-Arch Implant-Supported Restorations: A Systematic Review." — Int J Prosthodont
+- [ ] PMID 33571327 | SR | OA:none | all-on-x | edat ????/??
+      "Different Interventions for Rehabilitation of the Edentulous Maxilla with Implant-Supported Prostheses: An Overview of Systematic Reviews." — Int J Prosthodont
+- [ ] PMID 33571328 | SR | OA:none | all-on-x | edat ????/??
+      "A Comparison Between Fixed and Removable Mandibular Implant-Supported Full-Arch Prostheses: An Overview of Systematic Reviews." — Int J Prosthodont
+- [ ] PMID 33634393 | SR | OA:PMC PMC7907402 | all-on-x | edat 2021/
+      "Full arch rehabilitation in patients with atrophic upper jaws with zygomatic implants: a systematic review." — Int J Implant Dent
+- [ ] PMID 33806189 | RCT | OA:PMC PMC8037824 | all-on-x | edat 2021/
+      "Evaluation of Quality of Life and Satisfaction in Patients with Fixed Prostheses on Zygomatic Implants Compared with the All-on-Four Concept: A Prospective Randomized Clinical Study." — Int J Environ Res Public Health
+- [ ] PMID 33810379 | RCT | OA:PMC PMC8037328 | all-on-x | edat 2021/
+      "Digital Smile Designed Computer-Aided Surgery versus Traditional Workflow in "All on Four" Rehabilitations: A Randomized Clinical Trial with 4-Years Follow-Up." — Int J Environ Res Public Health
+- [ ] PMID 33835063 | SR | OA:PMC PMC8061444 | all-on-x | edat 2021/??
+      "Survival rates of axial and tilted implants in the rehabilitation of edentulous jaws using the All-on-four™ concept: A systematic review." — J Indian Prosthodont Soc
+- [ ] PMID 33917587 | RCT | OA:PMC PMC8038839 | all-on-x | edat 2021/
+      "Two-Year Follow-Up of 4-mm-Long Implants Used as Distal Support of Full-Arch FDPs Compared to 10-mm Implants Installed after Sinus Floor Elevation. A Randomized Clinical Trial." — Int J Environ Res Public Health
+- [ ] PMID 34006068 | SR | OA:none | all-on-x | edat 2021/
+      "Full-arch implant-supported monolithic zirconia fixed dental prostheses: An updated systematic review." — Int J Oral Implantol (Berl)
+- [ ] PMID 34006079 | SR | OA:none | all-on-x | edat 2021/
+      "Accuracy of full-arch digital implant impressions taken using intraoral scanners and related variables: A systematic review." — Int J Oral Implantol (Berl)
+- [ ] PMID 34219356 | RCT | OA:PMC PMC8457096 | all-on-x | edat 2021/
+      "Evaluation of internal and external hexagon connections in immediately loaded full-arch rehabilitations: A within-person randomized split-mouth controlled trial with a 3-year follow-up." — Clin Implant Dent Relat Res
+- [ ] PMID 34239926 | SR | OA:PMC PMC8241526 | all-on-x | edat 2021/??
+      "Use of Narrow-Diameter Implants in Completely Edentulous Patients as a Prosthetic Option: A Systematic Review of the Literature." — Biomed Res Int
+- [ ] PMID 34455503 | RCT | OA:none | all-on-x | edat 2022/
+      "Evaluation of immediately loaded mandibular four vertical versus tilted posterior implants supporting fixed detachable restorations without versus with posterior cantilevers." — Oral Maxillofac Surg
+- [ ] PMID 34647147 | SR | OA:none | all-on-x | edat 2022/
+      "Oral health-related quality of life and satisfaction in edentulous patients rehabilitated with implant-supported full dentures all-on-four concept: a systematic review." — Clin Oral Investig
+- [ ] PMID 34761399 | MA | OA:none | all-on-x | edat 2022/
+      "Efficacy of rehabilitation with different approaches of implant-supported full-arch prosthetic designs: A systematic review." — J Clin Periodontol
+- [ ] PMID 34761430 | SR | OA:none | all-on-x | edat 2022/
+      "Efficacy of rehabilitation of stage IV periodontitis patients with full-arch fixed prostheses: Tooth-supported versus Implant-supported-A systematic review." — J Clin Periodontol
+- [ ] PMID 34937085 | RCT | OA:none | all-on-x | edat 2022/
+      "Immediate Vs Early Loading of Bone Level Tapered Dental Implants With Hydrophilic Surface in Rehabilitation of Fully Edentulous Maxilla: Clinical and Patient Centered Outcomes." — J Oral Implantol
+- [ ] PMID 35029097 | RCT | OA:none | all-on-x | edat 2021/
+      "Time Efficiency of Immediate Loading of Full-arch Implant Reconstructions Using Prefabricated Prostheses Located by an Anchor Pin: a Pilot Study." — Chin J Dent Res
+- [ ] PMID 35322650 | RCT | OA:none | all-on-x | edat 2022/
+      "Clinical influence of digital vs analog impressions in all-on-4 implant prostheses: a randomized controlled trial." — Int J Comput Dent
+- [ ] PMID 35679127 | RCT | OA:none | all-on-x | edat 2022/
+      "Within-patient evaluation of chewing efficiency and maximum bite force of conventional dentures, fixed prostheses, and milled bar overdentures used for All-on-4 implant rehabilitation of atrophied mandibular ridges: A short-term randomized trial." — Clin Implant Dent Relat Res
+- [ ] PMID 35815423 | SR | OA:none | all-on-x | edat 2023/
+      "Rehabilitation of full-arch edentulism with fixed or removable dentures retained by root-form dental implants: A systematic review of outcomes and outcome measures used in clinical research in the last 10 years." — Clin Oral Implants Res
+- [ ] PMID 35815425 | SR | OA:none | all-on-x | edat 2023/
+      "Rehabilitation of full-arch edentulism with fixed or removable dentures retained by root-form dental implants: A systematic review of outcomes and outcome measures used in clinical research in the last 10 years." — J Clin Periodontol
+- [ ] PMID 36069239 | SR | OA:none | all-on-x | edat 2023/
+      "Implants in the pterygoid region: An updated systematic review of modern roughened surface implants." — J Prosthodont
+- [ ] PMID 36461704 | RCT | OA:none | all-on-x | edat 2023/
+      "6 mm short versus 11 mm long inter-foraminal implants in the full-arch rehabilitation of edentulous non-atrophic mandibles: 5-year results from a multicenter randomized controlled trial." — Clin Oral Implants Res
+- [ ] PMID 37171039 | RCT | OA:none | all-on-x | edat 2023/
+      "Plaque accumulation on the fitting surface of full-arch implant-supported fixed prostheses with contact or noncontact pontics: A split mouth randomized controlled trial." — J Esthet Restor Dent
+- [ ] PMID 38514411 | RCT | OA:none | all-on-x | edat 2024/
+      "Evaluation of Quality of Life and Satisfaction with Fixed Prostheses on Zygomatic Implants vs All-on-Four Concept: A Randomized Clinical Study." — J Contemp Dent Pract
+- [ ] PMID 38517069 | RCT | OA:none | all-on-x | edat 2025/
+      "Clinical assessment of maxillary screw-retained implant prostheses fabricated from digital versus conventional full-arch implant impressions. A randomized controlled clinical trial." — Int J Comput Dent
+- [ ] PMID 38517307 | MA | OA:none | all-on-x | edat 2024/
+      "Does intra-oral scan improve the impression accuracy of full-arch implant-supported prostheses: A systematic review and meta-analysis." — Clin Implant Dent Relat Res
+- [ ] PMID 38727015 | RCT | OA:none | all-on-x | edat 2024/
+      "Accuracy of digital and conventional implant-level impression techniques for maxillary full-arch screw-retained prosthesis: A crossover randomized trial." — Clin Implant Dent Relat Res
+- [ ] PMID 39134687 | SR | OA:none | all-on-x | edat 2024/
+      "The accuracy of conventional versus digital (intraoral scanner or photogrammetry) impression techniques in full-arch implant-supported prostheses: a systematic review." — Evid Based Dent
+- [ ] PMID 39506255 | RCT | OA:PMC PMC11789837 | all-on-x | edat 2025/
+      "Evaluation of Internal and External Hexagon Connections in Immediately Loaded Full-Arch Rehabilitations: A Multicenter Randomized Split-Mouth Controlled Trial With a 6-Year Follow-Up." — Clin Implant Dent Relat Res
+- [ ] PMID 40263044 | SR | OA:none | all-on-x | edat 2025/
+      "Virtual surgical planning and customized subperiosteal implants: a systematic review." — Int J Oral Maxillofac Surg
+- [ ] PMID 40358434 | MA | OA:none | all-on-x | edat 2025/
+      "Indications, techniques and complications associated with full-arch rehabilitation using trans-sinus implants: A systematic review and prevalence meta-analysis." — Int J Oral Implantol (Berl)
+- [ ] PMID 40481748 | MA | OA:PMC PMC12144927 | all-on-x | edat 2025/
+      "Photogrammetry Versus Intraoral Scanning in Complete-Arch Digital Implant Impression: A Systematic Review and Meta-Analysis." — Clin Implant Dent Relat Res
+- [ ] PMID 40660725 | MA | OA:none | all-on-x | edat 2026/
+      "Comparative analyses of accuracy between digital and conventional impressions for complete-arch implant-supported fixed dental prostheses-A systematic review and meta-analysis." — J Prosthodont
+- [ ] PMID 41316174 | RCT | OA:PMC PMC12703893 | all-on-x | edat 2025/
+      "Evaluation of the marginal gap and the three-dimensional trueness of suprastructures generated from scanning two different substructure framework materials for full arch implant-supported restorations." — BMC Oral Health
+- [ ] PMID 42010974 | RCT | OA:PMC PMC13377280 | all-on-x | edat 2026/
+      "Clinical and Prosthetic Outcomes of Titanium Zirconium Versus PEEK Composite Maxillary Fixed Prostheses Opposing Distal Extension Partial Dentures: Comparative Clinical Study." — J Esthet Restor Dent
+- [ ] PMID 42612962 | cohort | OA:none | all-on-x | edat 2026/
+      "Accuracy and feasibility of robot-assisted implant surgery in edentulous patients: A retrospective case series." — J Dent
+- [ ] PMID 40907029 | cohort | OA:none | all-on-x | edat 2026/
+      "The Orofacial Somatosensory Changes of the Edentulous Mandible After Full-Arch Implant Surgery: A 6-Month Follow-up." — Int J Oral Maxillofac Implants
+- [ ] PMID 41687019 | cohort | OA:none | all-on-x | edat 2026/
+      "Partial and Complete-Arch Implant-Supported Fixed Dental Prostheses in Fully Digital Workflow Using Neuromuscular and Jaw- Tracking Systems." — Int J Prosthodont
+- [ ] PMID 42668365 | cohort | OA:PMC PMC13526298 | all-on-x | edat 2026/
+      "Digital workflow for implant-supported restorations in the mandible including reverse scan bodies: a feasibility study." — BMC Oral Health
+- [ ] PMID 42397653 | cohort | OA:PMC PMC13601380 | all-on-x | edat 2026/
+      "Investigation of the long-term prognosis (3-13 Years) of full mouth implant prosthetics combining zygomatic implants based on the all-on-four concept." — Int J Implant Dent
+- [ ] PMID 41839752 | cohort | OA:PMC PMC13350299 | all-on-x | edat 2026/
+      "Five-year survival and failure patterns of complete arch fixed implant-supported monolithic zirconia prostheses: A retrospective analysis of 3300 laboratory cases." — J Prosthodont
+- [ ] PMID 41742006 | cohort | OA:none | all-on-x | edat 2026/
+      "AI-Powered Intraoperative Navigation Photogrammetry for Complete-Arch Implant Impression and Immediate Loading With a 3D-Printed Temporary Prosthesis: A Prospective Clinical Study." — J Esthet Restor Dent
+- [ ] PMID 41934826 | cohort | OA:none | all-on-x | edat 2026/
+      "Hybrid implant-supported rehabilitation of severely atrophic jaws using custom-made subperiosteal and conventional endosseous implants: A retrospective case series." — J Craniomaxillofac Surg
+- [ ] PMID 42129020 | cohort | OA:PMC PMC13172220 | all-on-x | edat 2026/
+      "Technical and biological complications of implant-supported fixed complete dentures: a retrospective cohort study with up to 17 years of follow-up." — Int J Implant Dent
+- [ ] PMID 39808533 | cohort | OA:none | all-on-x | edat 2026/
+      "Immediate Full-Arch Restorations Supported by Conventional Implants Plus Unilateral or Bilateral Zygomatic Implants: A 3- to 5-Year Retrospective Radiologic and Clinical Comparison." — Int J Periodontics Restorative Dent
+- [ ] PMID 41720288 | cohort | OA:none | all-on-x | edat 2026/
+      "Retrospective preliminary clinical study on mandibular full-arch segmented implant-borne fixed dental prostheses developed via digital workflow: A 3-year follow-up of 14 patients." — J Dent
+- [ ] PMID 40879617 | cohort | OA:none | all-on-x | edat 2026/
+      "Incidence of Complications in Immediate Loading Conometric Versus Screw-Retained Full-Arch Prostheses: Retrospective Study on 1,356 Implants." — Int J Oral Maxillofac Implants
+- [ ] PMID 41776670 | cohort | OA:none | all-on-x | edat 2026/
+      "Dynamic Occlusal Design Using Jaw Motion Data for Maxillary Full-Arch Implant Rehabilitation: A Retrospective Study." — Clin Implant Dent Relat Res
+- [ ] PMID 41482737 | cohort | OA:PMC PMC13051408 | all-on-x | edat 2026/
+      "Rescue Therapy With Quad Zygoma After Failure of Full-Arch Implant Rehabilitation: A Retrospective Study With a Mean Follow-Up of 8 Years." — Clin Oral Implants Res
+- [ ] PMID 41826858 | cohort | OA:PMC PMC13231756 | all-on-x | edat 2026/
+      "Long-term outcomes and complications of full-arch implant-supported fixed prostheses: a 4-10 year retrospective study." — BMC Oral Health
+- [ ] PMID 41785025 | cohort | OA:none | all-on-x | edat 2026/
+      "Comparing the accuracy of three digital impression techniques with conventional impression technique for implant-supported fixed full-arch restorations: A prospective clinical study." — Am J Dent
+- [ ] PMID 41562420 | cohort | OA:none | all-on-x | edat 2026/
+      "A Retrospective Study of Clinical Risk Factors and Patient-Reported Outcomes of Full-Arch Implant-Supported Prostheses." — Clin Implant Dent Relat Res
+- [ ] PMID 41354261 | cohort | OA:none | all-on-x | edat 2026/
+      "Immediate full-arch mandibular rehabilitation supported by four implants: A retrospective study with 20 to 25 years of follow-up." — J Dent

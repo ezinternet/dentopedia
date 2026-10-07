@@ -65,34 +65,34 @@
     "last": "2026-09-02"
   },
   "bone-quality-implant-risk-modification-overview::q2": {
-    "box": 1,
-    "due": "2026-07-29",
-    "last": null
+    "box": 2,
+    "due": "2026-10-09",
+    "last": "2026-10-06"
   },
   "bone-quality-implant-risk-modification-overview::q3": {
-    "box": 1,
-    "due": "2026-07-29",
-    "last": null
+    "box": 2,
+    "due": "2026-10-09",
+    "last": "2026-10-06"
   },
   "bone-regeneration-protocol-ladder::q1": {
-    "box": 1,
-    "due": "2026-07-29",
-    "last": null
+    "box": 2,
+    "due": "2026-10-09",
+    "last": "2026-10-06"
   },
   "bone-regeneration-protocol-ladder::q2": {
     "box": 1,
-    "due": "2026-07-29",
-    "last": null
+    "due": "2026-10-07",
+    "last": "2026-10-06"
   },
   "bone-regeneration-protocol-ladder::q3": {
     "box": 1,
-    "due": "2026-07-29",
-    "last": null
+    "due": "2026-10-07",
+    "last": "2026-10-06"
   },
   "bruxism-muscle-overload-axis::q1": {
     "box": 1,
-    "due": "2026-07-29",
-    "last": null
+    "due": "2026-10-07",
+    "last": "2026-10-06"
   },
   "bruxism-muscle-overload-axis::q2": {
     "box": 1,
