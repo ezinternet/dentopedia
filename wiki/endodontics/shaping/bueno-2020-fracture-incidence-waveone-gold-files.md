@@ -7,8 +7,8 @@ doi: "10.1111/iej.13349"
 source: "bueno-2020-fracture-incidence-waveone-gold-files.md"
 category: "endodontics/shaping"
 evidence_level: "prospective"
-pdf_path: /Users/oracleneo/llm-wiki/papers/bueno-2020-fracture-incidence-waveone-gold-files.txt
-pdf_filename: "bueno-2020-fracture-incidence-waveone-gold-files.txt"
+text_path: /Users/oracleneo/llm-wiki/papers/bueno-2020-fracture-incidence-waveone-gold-files.txt
+text_filename: bueno-2020-fracture-incidence-waveone-gold-files.txt
 source_collection: "pubmed-text"
 tags: ["WaveOne Gold", "reciprocating", "single-file", "fracture incidence", "prospective clinical study", "molar", "heat-treated NiTi"]
 ---
