@@ -14,6 +14,7 @@ pmcid: "PMC13172220"
 
 No held paper provided ≥15yr follow-up for IFCDs with Kaplan-Meier complication-free survival, Andersen-Gill recurrent event analysis, and material-specific HR comparisons (Ti-resin vs ceramic veneered). This fills the long-term complication profile gap with the longest follow-up available (up to 17yr) and quantified material HR differences.
 
+[[implants/full-arch/pelser-2026-ifcd-long-term-complications-17yr]]
 ## Three-line Summary
 
 Retrospective cohort study of 91 IFCDs (498 implants, 72 patients, 2003–2023), mean follow-up 6.8yr (range 0.5–17yr); Kaplan-Meier for time-to-first-complication; Andersen-Gill Cox regression for recurrent complications; material comparison (RV vs CV, base-metal-ceramic vs Ti-resin).
