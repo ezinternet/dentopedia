@@ -1,0 +1,44 @@
+Clinical fracture incidence of rotary and reciprocating NiTi files: a systematic review and meta-regression
+Authors: MS Gomes, RM Vieira, DE Böttcher, G Plotino, RK Celeste, G Rossi-Fedele
+Year: 2021
+DOI: 10.1111/aej.12484
+Journal: Australian Endodontic Journal
+PMID: 33410578
+
+Abstract:
+The overall incidence of files fracture was 2.27%, with a trend for higher incidence with rotary motion (2.43%) than with reciprocating (1.0%), though without significant differences. Factors such as the number of teeth treated and operator proficiency were associated with higher fracture rates, but no significant difference between kinematics.
+
+This systematic review investigates the clinical incidence of fracture of nickel-titanium (NiTi) endodontic files used in rotary versus reciprocating motions. The overall incidence of file fracture was found to be 2.27%, with a slightly higher incidence in rotary motion (2.43%) compared to reciprocating (1.0%), although the differences were not statistically significant. Factors such as the number of teeth treated and operator proficiency were associated with higher fracture rates, but no significant difference between rotary and reciprocating kinematics.
+
+Methods:
+Systematic review and meta-regression (PRISMA). Databases: PubMed, Scopus, Web of Science, Cochrane. Search up to 2020. Inclusion: clinical studies (prospective/retrospective) reporting NiTi file fracture incidence. Exclusion: in vitro, case reports, reviews. Quality assessment: Newcastle-Ottawa Scale. Meta-analysis: random-effects model. Meta-regression: study-level covariates (year, sample size, operator experience, tooth type, kinematics).
+
+Results:
+- Overall fracture incidence: 2.27% (95% CI)
+- Rotary motion: 2.43%
+- Reciprocating motion: 1.0%
+- Difference not statistically significant
+- Meta-regression findings:
+  - Number of teeth treated: positive association with fracture rate
+  - Operator proficiency: less experienced operators higher fracture rates
+  - Tooth type: molars higher fracture rates
+  - Kinematics (rotary vs reciprocating): not significant predictor
+- Included studies: multiple clinical studies (prospective/retrospective)
+- Heterogeneity assessed (I²)
+
+Discussion:
+First meta-regression on clinical NiTi fracture incidence. Rotary vs reciprocating kinematics not significantly different for fracture incidence. Operator experience and case complexity (molars) are stronger predictors. Reciprocating files may have advantage in cyclic fatigue resistance but clinical fracture rates similar. Single-file reciprocating systems reduce file changes but not fracture incidence. Need for standardized reporting of fracture incidence (per file, per canal, per tooth, per case).
+
+Limitations:
+- Heterogeneity across included studies
+- Different file systems, operators, protocols
+- Retrospective studies subject to recall bias
+- Publication bias possible
+- Meta-regression limited by number of studies
+- Kinematics confounded with file design, alloy, protocol
+
+Clinical implications:
+- Fracture incidence low overall (~2%)
+- Operator training more important than kinematics choice
+- Molars require extra caution
+- File reuse protocols should consider case complexity
