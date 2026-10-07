@@ -14,6 +14,7 @@ pmcid: ~
 
 No held SR+MA directly compared trans-sinus (경유 상악동) implant failure rates against axial/tilted implants in full-arch rehabilitation of the atrophic maxilla. Prior zygomatic-related papers address angled implants broadly; trans-sinus implants are a distinct technique (transalveolar sinus floor penetration without lateral window). This SR+MA provides the first meta-analytic failure-rate comparison for this approach.
 
+[[implants/full-arch/gianfreda-2025-trans-sinus-full-arch-sr-ma]]
 ## Three-line Summary
 
 Systematic review and meta-analysis of 10 studies (2,359 screened, 10 included) evaluating trans-sinus implants for full-arch rehabilitation of the atrophic maxilla, comparing failure rates against axial/tilted implants; PROSPERO CRD42024537320.
