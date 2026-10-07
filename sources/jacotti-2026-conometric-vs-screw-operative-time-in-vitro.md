@@ -15,6 +15,7 @@ text_filename: jacotti-2026-conometric-vs-screw-operative-time-in-vitro.txt
 
 No held paper measured operative time differences between screw-retained and conometric retention for full-arch prostheses. This in-vitro study provides the first time-comparison data, identifying that the two systems have inverse efficiency profiles: screw-retained is faster for delivery (provisional preference), conometric is faster for maintenance check-ups (permanent preference). Relevant for clinical workflow planning and recall scheduling.
 
+[[implants/full-arch/jacotti-2026-conometric-vs-screw-operative-time-in-vitro]]
 ## Three-line Summary
 
 In-vitro comparison of screw-retained vs conometric technique (Orbit, Bionica system) for All-on-4 and All-on-6 full-arch prostheses; activation phase established 15Ncm as the optimal torque for conometric coping activation without deformation; time phase compared delivery and check-up times across operators with different experience levels.
