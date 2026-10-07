@@ -14,6 +14,7 @@ pmcid: "PMC13350299"
 
 No held paper provided a large-scale (N=3300) laboratory-based failure mode analysis for monolithic zirconia full-arch prostheses with life table survival analysis over 5 years. This fills the population-level fracture incidence gap, distinguishing framework fracture (N=38, insufficient vertical space) from ceramic chipping (N=4) and confirming titanium cylinder reliability.
 
+[[implants/full-arch/alshahrani-2026-zirconia-full-arch-3300-5yr]]
 ## Three-line Summary
 
 Retrospective cross-sectional analysis of 3300 screw-retained 3Y-TZP monolithic zirconia CAFIPs (1900 maxillary, 1400 mandibular) from a commercial Dubai laboratory (August 2019–2024); life table survival analysis; failure modes from digital lab records.
