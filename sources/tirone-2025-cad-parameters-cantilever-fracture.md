@@ -14,6 +14,7 @@ pmcid: ~
 
 No held paper provided specific CAD ratio cut-off values (CL/CSCA and CL/SAOL) that prospectively prevent cantilever (type II) fractures in zirconia full-arch prostheses. This fills the actionable design parameter gap: zero cantilever fractures observed when CL/CSCA<0.51 and CL/SAOL<1.48 criteria were met during digital design.
 
+[[implants/full-arch/tirone-2025-cad-parameters-cantilever-fracture]]
 ## Three-line Summary
 
 Retrospective observational cohort of 151 screw-retained monolithic zirconia IFCDPs (117 patients, private practice Oct 2021–May 2023, ≥12mo follow-up); CAD parameters—cantilever length (CL), distal cross-sectional connector area (CSCA), and screw access opening length (SAOL)—measured pre-milling; cut-offs applied prospectively (CL/CSCA<0.51; CL/SAOL<1.48).
