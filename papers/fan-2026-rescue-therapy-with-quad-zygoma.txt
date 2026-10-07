@@ -1,0 +1,641 @@
+pmc Clin Oral Implants Res Clin Oral Implants Res 379 blackwellopen 9105713 CLR Clinical Oral Implants Research 0905-7161 1600-0501 pmc-is-collection-domain yes pmc-collection-title Wiley Open Access Collection PMC13051408 PMC13051408.1 13051408 13051408 41482737 10.1111/clr.70086 CLR70086 COIR-May-25-OGA-11466.R1 1 Original Article Original Article Rescue Therapy With Quad Zygoma After Failure of Full‐Arch Implant Rehabilitation: A Retrospective Study With a Mean Follow‐Up of 8 Years Fan Shengchi https://orcid.org/0000-0003-0231-7151 
+ 1 
+ 
+ 2 
+ fanshengchi@outlook.com Zhou Wenjie https://orcid.org/0000-0001-8158-253X 
+ 3 
+ Al‐Nawas Bilal https://orcid.org/0000-0002-8665-5803 
+ 2 
+ Valmaseda‐Castellón Eduard https://orcid.org/0000-0001-9669-3187 
+ 1 
+ Davó Rubén https://orcid.org/0000-0003-0361-8351 
+ 4 
+ rdavo@vithas.es 
+ 
+ 
+ 1 
+ Oral Surgery and Implantology, Faculty of Medicine and Health Sciences 
+ University of Barcelona 
+ Barcelona 
+ Spain 
+ 
+ 
+ 
+ 2 
+ Department of Oral and Maxillofacial Surgery, Plastic Operations 
+ University Medical Center Mainz 
+ Mainz 
+ Germany 
+ 
+ 
+ 
+ 3 
+ Second Dental Center, Ninth People's Hospital 
+ Shanghai Jiao Tong University, School of Medicine 
+ Shanghai 
+ China 
+ 
+ 
+ 
+ 4 
+ Department of Implantology and Maxillofacial Surgery 
+ Vithas Davó, Hospital Medimar Internacional 
+ Alicante 
+ Spain 
+ 
+ * 
+ Correspondence: 
+ 
+Shengchi Fan ( fanshengchi@outlook.com ) 
+Rubén Davó ( rdavo@vithas.es ) 
+ 02 1 2026 4 2026 37 4 510987 10.1111/clr.v37.4 413 425 19 8 2025 02 5 2025 08 12 2025 06 04 2026 07 04 2026 07 04 2026 © 2026 The Author(s).  Clinical Oral Implants Research  published by John Wiley & Sons Ltd. https://creativecommons.org/licenses/by-nc/4.0/ This is an open access article under the terms of the  http://creativecommons.org/licenses/by-nc/4.0/  License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes. ABSTRACT Objectives To evaluate the long‐term clinical outcomes of quad zygomatic implants (ZIs) as a rescue therapy for patients with failed full‐arch implant rehabilitation in the maxilla due to advanced peri‐implantitis. Material and Methods This was a retrospective cohort study of all patients treated with the Quad Zygoma Protocol. Primary outcomes included the ZI survival and success rates, and secondary outcomes, the prosthetic success rate and complications. Results The study population included 28 consecutive patients who received 112 ZIs between 2006 and 2024, with a mean follow‐up of 8.2 ± 4.1 years. In 23 patients, a total of 113 failed conventional implants were removed, and 48 ZIs were immediately placed into the explantation sites. The ZI survival rate was 98.2%, with two ZIs requiring removal due to late complications. The implant success rate was 93.5%, and prosthetic success was achieved in 96.4% of cases. Sinusitis was diagnosed in 8 patients (28.5%) at a mean of 5.92 years postoperatively; all cases were successfully managed medically without implant loss. Soft tissue recession occurred in 9.8% of cases, while oroantral fistula and facial fistula were each observed in 0.9% of implants. Conclusions The Quad Zygoma Protocol may represent a reliable and predictable option for the rescue of failed maxillary full‐arch implant rehabilitations. Despite a relatively high prevalence of sinusitis, favorable long‐term clinical outcomes were achieved with appropriate management. atrophic maxilla complication peri‐implantitis survival zygomatic implant pmc-status-qastatus 0 pmc-status-live yes pmc-status-embargo no pmc-status-released yes pmc-prop-open-access yes pmc-prop-olf no pmc-prop-manuscript no pmc-prop-legally-suppressed no pmc-prop-has-pdf yes pmc-prop-has-supplement no pmc-prop-pdf-only no pmc-prop-suppress-copyright no pmc-prop-is-real-version no pmc-prop-is-scanned-article no pmc-prop-preprint no pmc-prop-in-epmc yes pmc-license-ref CC BY-NC source-schema-version-number 2.0 cover-date April 2026 details-of-publishers-convertor Converter:WILEY_ML3GV2_TO_JATSPMC version:6.7.3 mode:remove_FC converted:06.04.2026 1 Introduction Zygomatic implants (ZIs) for the treatment of edentulous patients has undergone significant advances and refinement over the past two decades (Parel et al.  2002 ). The use of the zygomatic bone as a primary anchorage site for implants arose from the clinical need to achieve predictable rehabilitation of severely atrophic or defected maxillae, offering a more effective alternative to conventional grafting techniques (Davó and Fan  2025a ). The primarily indications for ZIs are patients with a completely atrophic maxilla, especially those with the history of failed implant therapy or unsuccessful bone augmentation procedures (Polido et al.  2023 ). Conventional implant‐supported full‐arch restorations have shown high reliability, with implant survival rates exceeding 98% after 5 years of follow‐up (Ramanauskaite et al.  2022 ). However, edentulous patients restored with either fixed or removable prostheses are frequently affected by peri‐implant disease, with a prevalence of peri‐implantitis ranging between 1.5% and 29.7% (Ramanauskaite et al.  2021 ). When implant failure is associated with advanced peri‐implantitis and bone resorption, retreatment in the implant site is usually unfeasible without additional massive bone grafting procedures. This is especially relevant in the edentulous maxilla, where the presence of pneumatized maxillary sinuses and limited anterior bone volume further complicate implant replacement. Moreover, the survival rate of replacement implants has also been reported to be notably lower than that of initial implants (Zhou et al.  2016 ; Gareb et al.  2025 ). Long‐term studies consistently report high survival rates of ZIs, with stable outcomes maintained beyond 5–10 years of follow‐up (Lan et al.  2021 ; Brennand Roper et al.  2023 ; Davó et al.  2013 ). The zygomatic bone appears to remain largely unaffected by the resorptive processes that typically compromise the maxillary bone, whether in the presence or absence of implants (Malevez et al.  2003 ). Furthermore, clinical observations have shown that the zygomatic bone exhibits minimal resorption around ZIs even after 10 years of functional loading (Duarte et al.  2025 ). Thus, the use of four ZIs, in the so‐called Quad Zygoma Protocol (QZP) (Davó and David  2021 ), may be a valuable therapeutic option in patients with failure of full‐arch implant rehabilitation. Advantages of quad ZIs in these patients include avoiding extensive bone grafting, shortening the treatment timeline, and enabling immediate functional prosthetic restoration (Al‐Nawas et al.  2023 ). However, there is limited evidence of survival and complications of implantation of quad ZIs as rescue therapy after failure of full‐arch implant rehabilitation. Hence, the primary objective of this retrospective study was to evaluate the long‐term results of the QZP in patients in whom full‐arch implant rehabilitation in the maxilla had failed. It was hypothesized that the QZP is a useful treatment approach in the presence of failure of full‐arch implant rehabilitation caused by peri‐implantitis. The possibility of using the QZP in this setting has relevant clinical implications given that other conventional implant‐based treatment modalities are inapplicable in these patients. 2 Materials and Methods 2.1 Study Design and Participants The principles outlined in the Declaration of Helsinki on clinical research were adhered to, and approval from the committee board of Health Centers, Services and Establishments, Hospital Vithas Medimar (number 80, approval date April 15, 2025) to use human data for the study was obtained. Written informed consent was obtained from all patients. This was a retrospective cohort study of all consecutive patients who underwent full‐arch rehabilitation in the edentulous maxilla with the QZP at the Department of Implantology and Maxillofacial Surgery of Medimar International Hospital in Alicante (Spain) between 2006 and 2024. The Strengthening the Reporting of Observational Studies (STROBE) in Epidemiology guidelines were followed (Vandenbroucke et al.  2007 ). The inclusion criteria were as follows: (a) presence of a failed full‐arch implant‐supported restoration in the maxilla caused by peri‐implantitis, defined as progressive bone loss ≥ 3 mm combined with bleeding on probing (BOP) and/or suppuration with a probing depth of ≥ 6 mm (Stoker et al.  2012 ; Schwarz et al.  2018 ); (b) severe alveolar bone loss in the anterior and posterior maxillary area (class V‐VI) (Cawood and Howell  1988 ) preventing the use of regular diameter implants without additional massive bone grafting or insufficient bone height even with a tilted approach (Davó et al.  2008 ); and (c) a minimum of 15 mm zygomatic bone vertical width to allow placement of two ZIs. Exclusion criteria were current smoking (> 20 cigarettes/day); restricted mouth opening (< 3 cm); untreated maxillary acute or chronic sinusitis; and contraindications for implant surgery. Examples of implants fulfilling the inclusion criteria are shown in Figures  1a,b ,  2a,b , and  3a,b . FIGURE 1 (a) The patient had received an All‐on‐6 rehabilitation that remained in function for 13 years. Panoramic radiography revealed advanced bone loss surrounding all maxillary implants, along with severe periodontitis involving the mandibular dentition. (b) All implants exhibited clear mobility, and the prosthetic bridge was removed intraoperatively along with the implants as a single unit. FIGURE 2 (a) The patient had received full‐arch rehabilitation in both jaws, which remained in function for 11 years. A panoramic radiograph showed that 4 implants had already been lost prior to referral, while the remaining 6 implants exhibited advanced peri‐implant bone loss. (b) Intraoral examination revealed exposed implant threads with biofilm accumulation on all implants (Davó and Fan  2025b ). FIGURE 3 (a) The patient had received a maxillary All‐on‐6 rehabilitation that remained in function for 15 years. A panoramic radiograph revealed that three implants had already been lost prior to referral, while the remaining three implants exhibited severe mobility, rendering prosthetic support no longer feasible. (b) Intraoral examination revealed exposed implant threads and significant implant mobility in the absence of a prosthesis. Conventional implant failure was defined by at least one of the following: pain during function, implant mobility, radiographic bone loss exceeding 50% of the implant length, or persistent and uncontrolled exudate (Monje et al.  2019 ; Misch et al.  2008 ). Failed implants were removed, as well as those supporting a functionally compromised or unusable prosthesis despite not fulfilling implant failure criteria. 2.2 Preoperative Evaluation A clinical examination and baseline radiographies were required to diagnose the peri‐implantitis and the success of implants and prostheses. In patients with implants, in which the failure criteria were met, a panoramic and computed tomography (CT) or core beam CT (CBCT) scans were taken to assess the degree of maxillary resorption and for planning QZP utilizing software based on three‐dimensional CBCT imaging (Nobel Clinician, Nobel Biocare AB, Göteborg, Sweden) (Figure  4 ). Preoperative planning used CT or CBCT with Nobel Clinician software to assess maxillary resorption and confirm ≥ 15 mm zygomatic bone width before placement of two ZIs per side. If the implant did not meet the failure criteria, and the prosthesis was functional, then peri‐implantitis was planned to be treated through open flap surgical approaches. Prior to ZI placement, prophylactic antimicrobials were administered to minimize the risk of postoperative infection. FIGURE 4 The Quad Zygoma Protocol was planned to remove failed implants and immediately place four ZIs, utilizing software based on three‐dimensional CBCT imaging. 2.3 Surgical Protocol All ZIs were placed by the same experienced surgeon (R.D.) and patients were operated on under general anesthesia. The zygomatic region was accessed through a mid‐crestal or palatal incision, combined with vertical releasing incisions extending along the posterior infra‐zygomatic crest and anterior to the surgical site. When the failed implant remained stable, minimally invasive implant removal was performed using a dedicated wrench, applying a removal torque of less than 100 Ncm. In cases where a high degree of osseointegration at the apical portion was present, additional instruments such as trephines (Nobel Biocare AB), elevators, and forceps were employed. Thorough site decontamination was carried out by meticulously removing granulation tissue with a surgical curette. Following implant explantation, bone irregularities around the explanted site were removed to optimize the recipient site for subsequent ZI placement. The intraoral coronal entry points for the anterior and posterior ZIs were positioned in the lateral incisor/canine region and the second premolar/first molar region, respectively. The extraoral apical endpoints of the implants were located on the surface of the zygomatic bone, with care taken to maintain contactless placement with surrounding anatomical structures. ZI placement followed the Anatomical Guided Approach (AGA), using one of three trajectories depending on the relationship between the implant body and the sinus wall: intra‐sinus, extra‐sinus, or a pathway along the lateral wall of the maxilla (Davó and David  2021 ; Kämmerer et al.  2023 ). In cases where the path involved the sinus cavity or wall, a lateral window was created for drilling and placement; sinus membrane management was performed as much as possible during the surgery. A total of 4 ZI systems were used in this study, including the Nobel Brånemark system zygoma TiUnite (Nobel Biocare AB), Nobel Zygoma 45 (Nobel Biocare AB), Straumann ZAGA Zygomatic Implant (Straumann, Switzerland), and Nobel Zygoma 45 TiUltra system (Nobel Biocare AB). A standardized drilling protocol was followed to prepare the osteotomy through both the alveolar process and the zygomatic bone (Davó et al.  2024 ). A depth indicator was used to determine the appropriate implant length. The drilling sequence consisted of three burs: a 2.9 mm spherical bur, followed by 2.9 mm cylindrical burs (used for Nobel Biocare and Straumann), and a 3.5 mm cylindrical bur (used exclusively for Nobel Biocare). All drilling procedures were performed under continuous water irrigation to prevent thermal damage to the surrounding bone. Implant insertion was primarily performed using a surgical handpiece, with final adjustments completed manually to ensure optimal positioning (Figure  5 ). Simple interrupted 4–0 resorbable sutures (Vicryl, Ethicon FS‐2, Johnson & Johnson, New Brunswick, NJ, USA) were used for wound closure. FIGURE 5 The Quad Zygoma procedure was performed with immediate implant placement on the right side at the explantation site, and conventional placement on the left side in the edentulous alveolar ridge (Davó and Fan  2025b ). Postoperatively, patients received oral antimicrobial prophylaxis with amoxicillin/clavulanic acid (875/125 mg) twice daily for 1 week or clindamycin (300 mg daily) in cases of penicillin allergy. Analgesia included ibuprofen, 600 mg four times daily for 1 week, although it was recommended to stop analgesia in the absence of pain. Other medications included xylometazoline hydrochloride nasal spray, 1 mg (5 drops) twice daily for 2 weeks and 0.2% chlorhexidine mouth rinses twice daily for 2 weeks. A soft diet was recommended for the first 2 weeks postoperatively. 2.4 Provisional/Definitive Prostheses and Follow‐Up Multi‐unit abutments, either straight or angulated, were connected to the implants immediately after placement using a torque of 20 Ncm. Following suturing, impressions for the fabrication of the immediate‐loading prosthesis were made using standard impression copings secured to the abutments, and a silicone impression material (Aquasil Monophase Ultra, Dentsply DeTrey, Konstanz, Germany). Provisional prostheses were fabricated with acrylic resin (Lucitone, Dentsply DeTrey) reinforced with metal wire (Remanium, Dentaurum, Ispringen, Germany), and were delivered within 24 to 48 h postoperatively (Figure  6a,b ). After of loading the provisional prosthesis, patients were followed at 1 week and at 1, 3, and 6 months, and then annually. At each visit, implant/prosthesis function and stability were evaluated, as well as the presence of signs of infection/inflammation. Panoramic radiographs were also taken. Additionally, standard CT or CBCT were obtained in patients with orofacial pain, swelling, local inflammation or infection, or sinus‐related symptoms. At the 6‐month follow‐up, a new impression was taken to initiate the fabrication of the definitive implant‐supported fixed prosthesis. In selected cases, the existing acrylic bridge was relined and adapted for use as a long‐term definitive prosthesis. Following delivery of the definitive prosthesis, patients were followed annually, with Radiographic evaluations were conducted on a case‐by‐case basis at the discretion of the treating clinician. The prosthesis was demounted annually or earlier if the patient presented with any complication. Hygiene maintenance included annual prosthesis removal and professional cleaning, oral hygiene instructions, and chlorhexidine rinses when indicated. FIGURE 6 (a) A panoramic radiograph was obtained, and an immediately loaded prosthesis was delivered to the patient within 48 h. (b) The patient received an immediately loaded prosthesis, achieving both functional and esthetic rehabilitation. 2.5 Outcome Measures The primary outcome of the study was the ZI survival rate. Secondary outcomes were the ZI success rate, prosthesis success rate, and biological and mechanical complications. Implant failure included removal of the implant due to persistent sinusitis, oroantral communication, loss or failure of osseointegration, rotational movement with loss of stability, infection, pain, and/or implant fracture. Implant success criteria (Davó et al.  2013 ) included radiographic confirmation of individual implant anchorage in the zygomatic bone, as verified by anteroposterior cranial radiograph or occipitomental projection; the implant served as stable anchorage for a functional prosthesis (i.e., with favorable prosthetic positioning); absence of suppuration, pain, or any ongoing pathological condition at the maxillary or zygomatic level, including peri‐implant mucositis, bleeding, progressive mucosal recession, or extraoral infection; and clinically confirmed implant stability. A successful prosthesis was defined as one that functioned as intended throughout the follow‐up. Failure was recorded if the prosthesis was non‐functional for over 2 weeks or if any of the supporting implants were lost. 2.6 Statistical Methods Categorical data are expressed as frequencies and percentages and continuous data as mean and standard deviation (± SD). Descriptive statistics are presented. 3 Results 3.1 Participants and Pre‐Operative Data The initial cohort included 34 consecutive patients who underwent 136 ZIs placements during the study period. However, 6 patients were excluded because they were lost to follow‐up ( n  = 3) or died ( n  = 3). Therefore, the study population included 28 patients (11 men, 17 women) with a mean age of 58.5 ± 8.0 years. The general demographic, clinical characteristics, details of previous treatment, and current ZI placement are summarized in Table  1 . All patients presented with an atrophic maxilla at the time of initial evaluation. There were 27 edentulous patients and 1 partially edentulous patient. A total of 18 patients had previously received a maxillary implant‐supported or implant‐retained prosthesis and 1 patient had a partially implant‐supported restoration, with the remaining four teeth exhibiting severe mobility. Among the 9 edentulous patients, 3 patients had lost all their implants ( n  = 18), 4 patients had experienced partial implant loss ( n  = 18) with the remaining 8 implants present but non‐functional, and 2 patients had retained all implants ( n  = 15) but with severe mobility, making prosthetic rehabilitation impossible. In total, 60 implants in 16 patients had already failed or been removed prior to referral. Regarding the mandible, 18 patients (12 completely edentulous and 6 partially edentulous) had previously been treated with implant‐supported restorations, involving the placement of a total of 75 conventional implants. Also, there were 2 patients with sinusitis, one of which received medical treatment and the other underwent functional endoscopic sinus surgery (FESS) before placement of ZIs. TABLE 1 Clinical characteristics of patients and implants. Characteristics Number (%) Patients 28 (100) Sex Men 11 (39.2) Women 17 (60.8) Patients resource Outpatients 4 (14.2) Referred 24 (85.8) Health history Hypertension 2 (7.2) Hypothyroidism 1 (3.6) Cancer 1 (3.6) Ischemic heart disease 1 (3.6) Sinusitis 
+ 
+ a 
+ 2 (7.2) Smoking status Yes 10 (35.7) No 18 (64.3) Pathologic occlusion Yes 4 (14.2) No 24 (85.8) History of periodontitis Yes 28 (100) Bone atrophy (Cawood and Howell) Class IV 5 (17.8) Class V and VI 23 (82.2) Follow‐up period Less than 5 years 9 (32.1) 5–10 years 10 (35.7) 10–15 years 5 (17.8) More than 15 years 4 (14.4) Previously treatment information (Patient level) 28 (100) Previously denture type Full‐arch implant support fixed‐restoration 15 (53.7) Full‐arch implant retained overdenture 3 (10.7) Hybrid 1 (3.5) Total edentulous (no loaded implant) 9 (32.1) Previously implant numbers in the maxilla 3 implants 1 (3.5) 4 implants 2 (7.0) 5 implants 2 (7.0) 6 implants 16 (58.0) 7 implants 1 (3.5) 8 implants 2 (7.0) 9 implants 1 (3.5) 10 implants 2 (7.0) 11 implants 1 (3.5) Previous bone grafting experience Yes 9 (32.1) No 19 (67.9) Previously mandibular status Partially edentulous 6 (21.4) Full dentition with periodontitis 4 (14.4) Full‐arch implant restoration 12 (42.8) Hybrid 6 (21.4) Previously treatment information (Implant level) No. of implant Implant removed timing Before Referred 60 Extraction Prior ZI surgery 113 Implant Remained 7 Severity of peri‐implantitis bone defects 
+ 
+ b 
+ Grade S 5 Grade M 12 Grade A 45 Implant with Mobility 58 Removed‐implant's length length ≥ 8 mm 111 length < 8 mm 2 Removed‐implant's design Thread 107 No thread 4 Screw 2 Previously amount of remained teeth 
+ 
+ c 
+ 15 1 16 1 17 1 18 3 27 1 28 4 Remained implant status Submerged 6 Splint and Loaded with ZI 1 Zygomatic implant 112 (100) ZI system Nobel Brånemark TiUnite 52 (46.4) Nobel Zygoma 45 36 (32.1) Straumann ZAGA 20 (17.8) Nobel Zygoma TiUltra 4 (3.7) ZI length (mm) 35.0 10 (8.9) 37.5 7 (6.2) 40.0 21 (18.9) 42.5 14 (12.5) 45.0 14 (12.5) 47.5 14 (12.5) 50.0 14 (12.5) 52.5 13 (11.6) 55.0 5 (4.4) ZI placed location Explantation socket 48 (42.8) Healed alveolar 64 (57.2) Loading protocol Immediate 112 (100) Insertion stability > 35 Ncm 106 (94.7) 25–35 Ncm 6 (5.3) Definitive prosthesis 28 (100) Prosthesis type Fixed 27 (96.4) Overdenture 1 (3.6) Prosthesis material Hybrid bridge with metal/titanium framework 20 (71.4) Acrylic with metal wire 8 (28.6) Mandibular status Partially edentulous 4 (14.2) Full dentition with periodontitis 1 (3.6) Full‐arch implant restoration 19 (68.0) Hybrid 4 (14.2) 
+ a 
+ Medical treatment in 1 patient, functional endoscopic nasosinus surgery before ZI placement in 1 patient. 
+ b 
+ Each implant was classified to defect severity based upon the defect depth from the implant neck and ratio of bone loss/total implant length: Grade S: Slight: 3–4 mm/< 25% of the implant length; Grade M: Moderate: 4–5 mm/≥ 25%–50% of the implant length; Grade A: Advanced: > 6 mm/> 50% of the implant length. 
+ c 
+ All remaining teeth were extracted at the time of ZI surgery due to either severe periodontitis or the presence of non‐functional third molars. 3.2 Operative and Post‐Operative Data A total of 112 ZIs were placed in 28 patients, including 48 implants in 17 patients that were immediately inserted into explantation sites following the removal of failed implants. The mean ZI length was 45.3 ± 5.7 mm (range 35.0–55.0 mm), comprising Nobel Brånemark zygoma system TiUnite ( n  = 52), Nobel Zygoma 45° ( n  = 36), Straumann ZAGA Zygomatic Implant ( n  = 20), and Nobel Zygoma 45 TiUltra ( n  = 4). During ZI surgery, 113 conventional implants in 23 patients were removed. Among these, 45 implants were classified as Grade A (Monje et al.  2019 ) indicating more than 6 mm or > 50% bone loss relative to implant length, while 58 implants exhibited clear clinical mobility. Additionally, one implant was removed due to implant fracture. Furthermore, 7 implants that did not meet the defined failure criteria were retained in 5 patients. Among these, only 1 implant was functionally splinted with 4 ZIs to support the prosthesis, while the remaining 6 implants were left submerged and unloaded due to unfavorable positioning or implant design. During the removal, 1 implant fractured in the anterior maxilla, leaving the apical fragment retained in the bone. However, this did not interfere with the placement of the ZI. Regarding the mandible, 15 patients were diagnosed with peri‐implantitis affecting a total of 37 implants. Among these, 14 implants failed in 6 patients during the observation period and were subsequently removed, with bone loss classified as Grade A (Monje et al.  2019 ). In addition, 7 patients diagnosed with advanced periodontitis underwent extraction of the remaining compromised teeth, resulting in a total of 19 patients receiving full‐arch implant‐supported restorations in the mandible. All patients received immediate loading with a cross‐arch stabilized acrylic prosthesis within the first 48 h after surgery, including 48 ZIs placed in explantation sites. Among these, 6 ZIs exhibited insertion torque values below 35 Ncm, ranging from 20 to 35 Ncm. The mean follow‐up duration was 8.16 ± 4.11 years (range 0.5 to 17.5 years). The length of follow‐up was less than 5 years in 9 (32.1%) patients, between 5 and 10 years in 10 (35.7%), between 11 and 15 years in 5 (17.9%), and over 15 years in 4 (14.3%). 3.3 Implant Survival and Implant and Prosthesis Success The overall implant survival rate was 98.2% ( n  = 110). Two posterior ZIs failed in 2 patients and required removal because of fracture after 4.3 years of functional loading in one case, and loss of osseointegration with mobility and rotational instability after 5.1 years of functional loading in the other case. The fractured ZI was replaced with a tuberosity implant, which was splinted to three remaining ZIs to support a new fixed prosthesis. In the other case, the failed ZI due to loss of osseointegration was replaced with a pterygoid implant (Sun et al.  2023 ). Additionally, the anterior ZI on the same side exhibited slight lateral mobility without rotation, which was associated with infection and a diagnosed sinusitis. As part of the revised surgical plan, two anterior conventional implants with grafting were placed to establish a six‐implant‐supported fixed prosthesis. These two patients were followed for a mean of 2.8 and 7.4 years, respectively, and no complications were recorded. The assessment of ZI success included 108 ZIs with a minimum follow‐up of 1 year. The overall success rate was 93.5% ( n  = 101), with 2 ZIs classified as failures and 5 ZIs presenting with progressive soft tissue recession. In the overall population of 28 patients, the prosthesis success rate was 96.4% ( n  = 27) with 1 failed prosthesis in the patient with a failed ZI failed case. Most patients (96.4%) received implant‐supported fixed prostheses. Only 1 patient received ZI retained‐overdenture. In relation to the material of restoration, 20 patients received hybrid bridge with metal/titanium frameworks and 8 received acrylic bridges. 3.4 Complications Sinusitis was diagnosed in 8 patients (28.5%) at a mean of 5.2 ± 4.7 years after surgery (range 0.9 to 16.5 years). Seven patients had received immediate ZIs placement after the removal of the failed implants ( n  = 36) and the remaining patient had lost all implants ( n  = 6) before surgery. Six patients were successfully treated with anti‐inflammatory agents and the remaining 2 patients required FESS, but recovery was uneventful in all patients. Among the 8 patients diagnosed with sinusitis, 6 patients (21.4%) developed localized orofacial inflammation concurrently with acute sinusitis, presenting with pain and facial swelling. All 6 cases were successfully managed with anti‐inflammatory medication, resulting in complete resolution of symptoms. The treatment protocol followed the approach described by Davó et al. ( 2024 ). Soft tissue recession (Figure  7 ) was observed in 11 out of 112 ZIs (9.8%) and occurred in 8 patients. Six ZIs (5.4%) in 4 patients showed buccal soft tissue recession ranging from 1 to 3 mm, which remained stable and maintained firm attachment to the underlying bone or implant surface. In contrast, 5 ZIs (4.5%) in 4 patients showed progressive soft tissue recession exceeding 3 to 5 mm, along with a lack of firm soft tissue attachment to the implant surface. In these cases, implantoplasty was successfully performed to flatten and smoothen the exposed buccal threads. FIGURE 7 A zygomatic implant with soft tissue recession. Other complications included one case of oroantral fistula and one case of cutaneous fistula. The oroantral fistula presented in 1 ZI (0.9%) with a fistulous communication at the abutment level 5.1 years after implant placement, and was successfully treated with a palatal connective tissue grafting procedure. The cutaneous fistula was found in 1 ZI (0.9%) at the level of the zygoma region at 10 months after surgery. The apex of the ZI, which was protruding approximately 3.5 mm beyond the zygomatic bone surface, was surgically removed under local anesthesia, and the fistula healed with a minimal residual scar remaining. Finally, mechanical complications occurred in 5 patients (17.9%), and included fracture of prosthetic screws, framework fractures, and veneering material chipping in the posterior region. During the repair phase, the immediate prosthesis was temporarily reinserted and occlusally adjusted to maintain function and fit. All complications were successfully resolved through either prosthesis repair or remanufacturing. A summary of patient‐related and ZI‐related complications is shown in Table  2 . TABLE 2 Complications and treatment. Complications Number (%) Treatment ZIs,  n  = 112 ZI Fractured 1 (0.8) ZI removal and replaced 1 conventional implant in the tuberosity area Facial fistula 1 (0.8) Removed ZI apex protruding zygoma bone Loss of osseointegration 1 (0.8) ZI removal and replaced 1 pterypgoid implant and 2 anterior implants Orosinusal fistula 1 (0.8) Palatal connective tissue grafting but failed to repair. ZI removal and replaced 1 pterypgoid implant and 2 anterior implants Mucosal recession 11 (9.8) Oral hygiene education, implantoplasty if the threads explored Patients,  n  = 28 Sinusitis 8 (28.5) Medical treatment with/without FESS Local orofacial inflammation 6 (21.4) Medical treatment Mechanical 5 (17.8) Repair or remanufacturing Abbreviations: FESS, functional endoscopic sinus surgery; ZI, zygomatic implant. 4 Discussion Zygoma fixture introduced by P.‐I. Brånemark in the late 1980s, has become a well‐established alternative for rehabilitating the severely atrophic maxilla (Brånemark et al.  2004 ). The indications of ZIs for the rehabilitation of edentulous and severely resorbed maxillae are well documented (Polido et al.  2023 ; Fan et al.  2025 ; Barcellos et al.  2025 ), but the possibility of using ZIs as a rescue or salvage option following the failure of implant‐supported rehabilitations, particularly those compromised by peri‐implantitis has not been previously investigated. The present findings in a cohort of 28 patients followed for a mean of 8 years provide evidence of the efficacy of ZIs in this challenging clinical scenario, with favorable long‐term outcomes in patients who transitioned from failed full‐arch conventional implant restoration to full‐arch prostheses supported by quad zygoma anchorage. In fact, the use of ZIs as a rescue therapy is not a novel concept and dates back to the original innovation by Brånemark and co‐workers in 2004. However, over the past two decades, only a limited number of cases have been reported in which ZIs were used to manage failures of posterior implants within the All‐on‐4 treatment concept (Bedrossian  2011 ). This ZI approach offers a feasible treatment when the atrophic posterior maxilla does not allow for the placement of additional regular or tilted implants to achieve optimal full‐arch support. In such cases, ZIs can be anchored in the zygomatic bone and combined with existing functional anterior implants in a hybrid rehabilitation strategy. By contrast, the present study addresses a much more difficult problem, in which all or most implants had failed due to advanced peri‐implantitis, resulting in a completely atrophic edentulous maxilla for which the use of a Quad Zygoma approach is adequate. Notably, 42.8% of ZIs underwent immediate placement following the remodeling and decontamination of explantation sites. This clinical scenario differs from conventional full‐arch treatments in periodontally compromised patients, as the local environment of peri‐implantitis is commonly more complex and heavily contaminated. The microbial flora in peri‐implantitis includes a broader and more aggressive spectrum of pathogens, including  
+ , Pseudomonas spp., and non‐oral opportunistic bacteria, which are less commonly found in periodontitis‐related edentulism (Sahrmann et al.  Staphylococcus aureus 
+ 2020 ). Moreover, the dimensions and morphology of the explantation socket are often irregular and unfavorable for immediate ZI placement. Thorough debridement, socket remodeling, and alveolar ridge flattening prior to ZI site preparation are therefore critical steps to optimizing implant trajectory. For ZI trajectories that pass through the maxillary sinus cavity or along the sinus wall, a lateral window is typically created to facilitate both drilling and implant placement (Zhao et al.  2018 ; Davó et al.  2024 ). In these cases, the risk of postoperative sinus infections may be increased due to several contributing factors, including disruption of the Schneiderian membrane, reduced mucociliary clearance, and the potential introduction of oral or opportunistic pathogens during the surgical procedure. This risk is further enhanced in patients with pre‐existing sinus pathology, poor sinus drainage, or extensive peri‐implantitis given a positive correlation between maxillary sinusitis and peri‐implant infectious diseases (Lușan et al.  2023 ). Although none of the patients presented postoperative sinus infections, the overall prevalence of sinusitis was 28.5%, somewhat higher than the average range of 14% to 21% reported in systematic reviews and meta‐analysis (Brennand Roper et al.  2023 ; Rocha et al.  2024 ). This rate is also higher than 12% reported by Lan et al. ( 2021 ) in a systematic review and meta‐analysis of quad ZIs. Importantly, following appropriate medical interventions, sinusitis did not lead to the loss of any ZIs, which is consistent with the findings of International Team for Implantology (ITI) consensus report by Al‐Nawas et al. ( 2023 ). The risk of sinusitis associated with ZIs early placement as a rescue therapy compared with that of ZI immediate placement should be investigated in further studies. The long‐term implant survival and success rates of 98.2% and 93.5%, respectively, are key indicators of the value of the QZP as rescue therapy in patients with failed full‐arch implant rehabilitation. Moreover, the prosthesis success rate was 96.4%. Criteria for ZI success including fulfillment of its purported support function, anchorage in the zygomatic bone, implant stability, and no signs of pain and infection (Davó et al.  2008 ,  2013 ; Maló et al.  2015 ; Aparicio et al.  2020 ) are different than those based on the absence of progressive marginal bone loss exceeding 2 mm after the first year of loading, and less than 0.2 mm annually thereafter (Albrektsson et al.  1986 ). These conventional assessment methods are not applicable to ZIs. Clinical probing around ZIs is inherently unreliable and non‐reproducible, as the transmucosal portion of the implant frequently bypasses the thin alveolar crest, with a platform shift and an angulation between 40° and 60°. These unique anatomical and prosthetic characteristics are crucial factor limiting the validity of traditional peri‐implant parameters. The clinical applicability of the QZP as rescue therapy for the rehabilitation of edentulous patients is expected to expand in the future, given the increasing aging of the population and the widespread adoption of dental implants as a standard treatment modality for older adults who are completely edentulous. The burden of oral disorders including edentulism, inability to chew one of more foods, and oral pain in older populations has been extensively reported in the literature (Locker  1992 ; Al‐Rafee  2020 ). Immediate functional loading following placement of the four ZIs without the need of bone grafting, fewer of surgical procedures, and shorter of the duration of treatment (Davó et al.  2008 ; Davó and David  2021 ) are substantial clinical and patient‐centered advantages of the QZP as a rescue approach in the management of failed full‐arch implant rehabilitation due to peri‐implantitis. The integration of computer‐assisted implant surgery has significantly improved the accuracy of ZI placement, allowing for the incorporation of restorative planning into the surgical decision‐making process to optimize prosthetic outcomes (Wu et al.  2019 ; Fan et al.  2023 ; Traboulsi‐Garet et al.  2025 ). By combining 3D imaging with real‐time visualization in navigation‐assisted surgery, clinicians can comprehensively assess the remaining bone volume after extraction of failed implants, thereby avoiding critical anatomical risks such as placement nearby oroantral fistula sites or penetration into the orbital cavity. The use of at least 6 to 8 invasive bone‐anchorage screws is considered essential for accurate registration in the edentulous maxilla (Fan et al.  2019 ). In rescue therapy scenarios, stable failed implants may be utilized as anatomical landmark prior to extraction, thereby minimizing additional trauma during the registration process. Additionally, the integration of bone reduction planning around the explantation sites further enhances surgical accuracy and safety, allowing for more precise execution of the overall procedure (Magic et al.  2021 ). Limitations of the study include the retrospective design and the small study population. Also, other factors potentially affecting the outcome of the QZP (e.g., smoking status) were not analyzed, but the length of follow‐up is an important strength of the study findings. 5 Conclusion In this study, the QZP was a reliable and predictable rescue therapy for patients with failed full‐arch implant‐based rehabilitations due to advanced peri‐implantitis, with high implant and prosthesis success rates in the long‐term. Although the prevalence of sinusitis may be higher than in cases involving completely atrophic edentulous maxillae, such complication was manageable and did not compromise implant survival. Further studies are needed especially randomized trials to confirm the efficacy of ZI therapy as a rescue approach for previously failed implant‐supported restorations. Author Contributions 
+ Shengchi Fan:  conceptualization, data curation, investigation, project administration, writing – original draft, methodology.  Wenjie Zhou:  investigation, writing – original draft.  Bilal Al‐Nawas:  supervision, writing – review and editing.  Eduard Valmaseda‐Castellón:  supervision, writing – review and editing.  Rubén Davó:  conceptualization, methodology, data curation, investigation, writing – original draft. Funding The authors received not specific funding for this work. Ethics Statement The study was approved by the Clinical Research Ethics Committee (CEIC) of Hospital Medimar Internacional (code 80, approval date April 15, 2015), Alicante (Spain). Consent All patients provided written informed consent. Conflicts of Interest E. Valmaseda‐Castellón is a recipient of grants, including non‐financial support, and/or personal fees from MozoGrau, Inibsa Dental, Dentaid SL, BioHorizons Iberica, Laboratorios Silanes, Geistlich Pharma AG, and Mundipharma. R. Davó is an advisor and global speaker for Nobel Biocare. The remaining authors declare no conflicts of interest. Acknowledgements The authors thank Ignacio Martin Dalmau for his help with data collection, Marta Pulido, MD, PhD, and Ewa Bednarek, PhD, for editing the manuscript and editorial assistance. Data Availability Statement The data that support the findings of this study are available from the corresponding authors upon request. References 
+ 
+ ,  Albrektsson ,  T. 
+ 
+ ,  G. 
+ Zarb 
+ 
+ , and  P. 
+ Worthington 
+ 
+ .  A. R. 
+ Eriksson 
+ 1986 . “ The Long‐Term Efficacy of Currently Used Dental Implants: A Review and Proposed Criteria of Success .”  International Journal of Oral & Maxillofacial Implants 
+ 1 :  11 – 25 . 3527955 
+ 
+ 
+ ,  Al‐Nawas ,  B. 
+ 
+ ,  T. 
+ Aghaloo 
+ 
+ , et al.  C. 
+ Aparicio 
+ 2023 . “ ITI Consensus Report on Zygomatic Implants: Indications, Evaluation of Surgical Techniques and Long‐Term Treatment Outcomes .”  International Journal of Implant Dentistry 
+ 9 :  28 .  10.1186/s40729-023-00489-9 . 37698775 
+ PMC10497463 
+ 
+ 
+ Al‐Rafee ,  M. A. 
+ 2020 . “ The Epidemiology of Edentulism and the Associated Factors: A Literature Review .”  Journal of Family Medicine and Primary Care 
+ 9 :  1841 – 1843 .  10.4103/jfmpc.jfmpc_1181_19 . PMC7346915 32670928 
+ 
+ ,  Aparicio ,  C. 
+ 
+ , and  R. 
+ López‐Piriz 
+ 
+ .  T. 
+ Albrektsson 
+ 2020 . “ ORIS Criteria of Success for the Zygoma‐Related Rehabilitation: The (Revisited) Zygoma Success Code .”  International Journal of Oral & Maxillofacial Implants 
+ 35 :  366 – 378 .  10.11607/jomi.7488 . 32142574 
+ 
+ 
+ ,  Barcellos ,  B. M. 
+ 
+ ,  S. 
+ Fan 
+ 
+ ,  B. 
+ Al‐Nawas 
+ 
+ , and  P. 
+ Kämmerer 
+ 
+ .  J. 
+ Heider 
+ 2025 . “ Zygomatic Implant Rehabilitation in Patients With Cleft Lip and Palate: A Narrative Review of Clinical Outcomes and Indication Criteria Validation .”  Cleft Palate‐Craniofacial Journal ,  10556656251318854 . online ahead of print.  10.1177/10556656251318854 . 39936358 
+ 
+ 
+ Bedrossian ,  E. 
+ 2011 . “ Rescue Implant Concept: The Expanded Use of the Zygoma Implant in the Graftless Solutions .”  Dental Clinics of North America 
+ 55 :  745 – 777 .  10.1016/j.cden.2011.07.009 . 21933731 
+ 
+ 
+ ,  Brånemark ,  P. I. 
+ 
+ ,  K. 
+ Gröndahl 
+ 
+ , et al.  L. O. 
+ Ohrnell 
+ 2004 . “ Zygoma Fixture in the Management of Advanced Atrophy of the Maxilla: Technique and Long‐Term Results .”  Scandinavian Journal of Plastic and Reconstructive Surgery and Hand Surgery 
+ 38 :  70 – 85 .  10.1080/02844310310023918 . 15202664 
+ 
+ 
+ ,  Brennand Roper ,  M. 
+ 
+ ,  A. 
+ Vissink 
+ 
+ , et al.  T. 
+ Dudding 
+ 2023 . “ Long‐Term Treatment Outcomes With Zygomatic Implants: A Systematic Review and Meta‐Analysis .”  International Journal of Implant Dentistry 
+ 5 :  21 .  10.1186/s40729-023-00479-x . PMC10322814 37405545 
+ 
+ , and  Cawood ,  J. I. 
+ 
+ .  R. A. 
+ Howell 
+ 1988 . “ A Classification of the Edentulous Jaws .”  International Journal of Oral and Maxillofacial Surgery 
+ 17 :  232 – 236 .  10.1016/s0901-5027(88)80047-x . 3139793 
+ 
+ 
+ , and  Davó ,  R. 
+ 
+ .  L. 
+ David 
+ 2021 . “ Quad Zygoma Protocol .”  Atlas of the Oral and Maxillofacial Surgery Clinics 
+ 29 :  243 – 251 .  10.1016/j.cxom.2021.04.003 . 34325811 
+ 
+ , and  Davó ,  R. 
+ 
+ .  S. 
+ Fan 
+ 2025a . “ 20 Years of Clinical Evolution in Zygomatic Implant Rehabilitation: Long‐Term Outcomes and Current States .”  Oral and Maxillofacial Surgical Clinics of North America 
+ 37 :  149 – 161 .  10.1016/j.coms.2024.08.006 . 39244495 
+ 
+ , and  Davó ,  R. 
+ 
+ .  S. 
+ Fan 
+ 2025b . “ Zygomatic Implant Rehabilitation: A Dialog Between the Pioneer and the Futurist .” In  Sixty Years of Clinical Experience with Nobel Biocare Osseointegrated Implants , edited by  
+  and  
+ 
+ B. 
+ Chrcanovic 
+ 
+ ,  
+ 
+ T. 
+ Albrektsson 
+ 61 – 78 .  Quintessence Publishing . 
+ 
+ ,  Davó ,  R. 
+ 
+ ,  S. 
+ Fan 
+ 
+ , and  F. 
+ Wang 
+ 
+ .  Y. 
+ Wu 
+ 2024 . “ Long‐Term Survival and Complications of Quad Zygoma Protocol With Anatomy‐Guided Approach in Severely Atrophic Maxilla: A Retrospective Follow‐Up Analysis of up to 17 Years .”  Clinical Implant Dentistry and Related Research 
+ 26 :  343 – 355 .  10.1111/cid.13296 . 38084831 
+ 
+ 
+ ,  Davó ,  R. 
+ 
+ , and  C. 
+ Malevez 
+ 
+ .  O. 
+ Pons 
+ 2013 . “ Immediately Loaded Zygomatic Implants: A 5‐Year Prospective Study .”  European Journal of Oral Implantology 
+ 6 :  39 – 47 . 23513201 
+ 
+ 
+ ,  Davó ,  R. 
+ 
+ ,  C. 
+ Malevez 
+ 
+ ,  J. 
+ Rojas 
+ 
+ , and  J. 
+ Rodríguez 
+ 
+ .  J. 
+ Regolf 
+ 2008 . “ Clinical Outcome of 42 Patients Treated With 81 Immediately Loaded Zygomatic Implants: A 12‐ to 42‐Month Retrospective Study .”  European Journal of Oral Implantology 
+ 9 :  141 – 150 . 20467651 
+ 
+ 
+ ,  Duarte ,  F. 
+ 
+ ,  C. 
+ Ramos 
+ 
+ ,  J. 
+ Santos‐Marino 
+ 
+ ,  N. 
+ Martínez‐Rodriguez 
+ 
+ , and  C. 
+ Barona‐Dorado 
+ 
+ .  J. M. 
+ Martínez‐González 
+ 2025 . “ Bone Resorption Assessment Following Zygomatic Implants Surgery Over 10 Years of Follow‐Up .”  Journal of Clinical Medicine 
+ 14 :  989 .  10.3390/jcm14030989 . 39941659 
+ PMC11818683 
+ 
+ ,  Fan ,  S. 
+ 
+ ,  R. 
+ Davo 
+ 
+ , and  B. 
+ Al‐Nawas 
+ 
+ .  E. 
+ Valmaseda‐Castellón 
+ 2025 . “ The Rehabilitation of Partially Edentulous Maxilla With Unilateral Zygomatic Implants: A Retrospective Study up to 23 Years Follow‐Up .”  Clinical Oral Implants Research 
+ 36 :  228 – 238 .  10.1111/clr.14377 . 39545437 
+ PMC11810560 
+ 
+ ,  Fan ,  S. 
+ 
+ ,  K. 
+ Hung 
+ 
+ ,  M. M. 
+ Bornstein 
+ 
+ ,  W. 
+ Huang 
+ 
+ , and  F. 
+ Wang 
+ 
+ .  Y. 
+ Wu 
+ 2019 . “ The Effect of the Configurations of Fiducial Markers on Accuracy of Surgical Navigation in Zygomatic Implant Placement: An in Vitro Study .”  International Journal of Oral and Maxillofacial Implants 
+ 34 :  85 – 90 .  10.11607/jomi.6821 . 30521651 
+ 
+ 
+ ,  Fan ,  S. 
+ 
+ ,  G. 
+ Sáenz‐Ravello 
+ 
+ , et al.  L. 
+ Diaz 
+ 2023 . “ The Accuracy of Zygomatic Implant Placement Assisted by Dynamic Computer‐Aided Surgery: A Systematic Review and Meta‐Analysis .”  Journal of Clinical Medicine 
+ 12 :  5418 .  10.3390/jcm12165418 . 37629460 
+ PMC10455221 
+ 
+ ,  Gareb ,  B. 
+ 
+ ,  A. 
+ Vissink 
+ 
+ ,  H. 
+ Terheyden 
+ 
+ , and  H. J. A. 
+ Meijer 
+ 
+ .  G. M. 
+ Raghoebar 
+ 2025 . “ Outcomes of Implants Placed in Sites of Previously Failed Implants: A Systematic Review and Meta‐Analysis .”  International Journal of Oral and Maxillofacial Surgery 
+ 54 :  268 – 280 .  10.1016/j.ijom.2024.10.006 . 39490354 
+ 
+ 
+ ,  Kämmerer ,  P. W. 
+ 
+ ,  S. 
+ Fan 
+ 
+ , et al.  C. 
+ Aparicio 
+ 2023 . “ Evaluation of Surgical Techniques in Survival Rate and Complications of Zygomatic Implants for the Rehabilitation of the Atrophic Edentulous Maxilla: A Systematic Review .”  International Journal of Implant Dentistry 
+ 9 :  11 .  10.1186/s40729-023-00478-y . 37198345 
+ PMC10192488 
+ 
+ ,  Lan ,  K. 
+ 
+ ,  F. 
+ Wang 
+ 
+ ,  W. 
+ Huang 
+ 
+ , and  R. 
+ Davó 
+ 
+ .  Y. 
+ Wu 
+ 2021 . “ Quad Zygomatic Implants: A Systematic Review and Meta‐Analysis on Survival and Complications .”  International Journal of Oral & Maxillofacial Implants 
+ 36 :  21 – 29 .  10.11607/jomi.8417 . 33600519 
+ 
+ 
+ 
+ Locker ,  D. 
+ 1992 . “ The Burden of Oral Disorders in a Population of Older Adults .”  Community Dental Health 
+ 9 :  109 – 124 . 1504877 
+ 
+ 
+ ,  Lușan ,  S. A. L. 
+ 
+ ,  C. 
+ Costache 
+ 
+ , et al.  O. P. 
+ Lucaciu 
+ 2023 . “ Albu S. Correlations Between Dental Implant Infectious Pathologies and Maxillary Sinusitis: A Review Article .”  Journal of Clinical Medicine 
+ 12 :  5059 .  10.3390/jcm12155059 . 37568461 
+ PMC10419797 
+ 
+ ,  Magic ,  M. 
+ 
+ ,  F. 
+ Wang 
+ 
+ , and  S. 
+ Fan 
+ 
+ .  Y. 
+ Wu 
+ 2021 . “ Dynamic Navigation Guidance for Bone Reduction in Maxilla: Case Report .”  International Journal of Oral and Maxillofacial Implants 
+ 36 :  e1 – e6 .  10.11607/jomi.8555 . 33600540 
+ 
+ ,  Malevez ,  C. 
+ 
+ ,  P. 
+ Daelemans 
+ 
+ , and  P. 
+ Adriaenssens 
+ 
+ .  F. 
+ Durdu 
+ 2003 . “ Use of Zygomatic Implants to Deal With Resorbed Posterior Maxillae .”  Periodontology 2000 
+ 33 :  82 – 89 .  10.1046/j.0906-6713.2002.03307.x . 12950843 
+ 
+ 
+ ,  Maló ,  P. 
+ 
+ ,  M. 
+ de Araújo Nobre 
+ 
+ ,  A. 
+ Lopes 
+ 
+ , and  A. 
+ Ferro 
+ 
+ .  S. 
+ Moss 
+ 2015 . “ Extramaxillary Surgical Technique: Clinical Outcome of 352 Patients Rehabilitated With 747 Zygomatic Implants With a Follow‐Up Between 6 Months and 7 Years .”  Clinical Implant Dentistry and Related Research 
+ 17 , no.  1 :  e153 – e162 .  10.1111/cid.12147 . 24004279 
+ 
+ 
+ ,  Misch ,  C. E. 
+ 
+ ,  M. L. 
+ Perel 
+ 
+ , et al.  H. L. 
+ Wang 
+ 2008 . “ Implant Success, Survival, and Failure: The International Congress of Oral Implantologists (ICOI) Pisa Consensus Conference .”  Implant Dentistry 
+ 17 :  5 – 15 .  10.1097/ID.0b013e3181676059 . 18332753 
+ 
+ 
+ ,  Monje ,  A. 
+ 
+ ,  R. 
+ Pons 
+ 
+ ,  A. 
+ Insua 
+ 
+ ,  J. 
+ Nart 
+ 
+ , and  H. L. 
+ Wang 
+ 
+ .  F. 
+ Schwarz 
+ 2019 . “ Morphology and Severity of Peri‐Implantitis Bone Defects .”  Clinical Implant Dentistry and Related Research 
+ 21 :  635 – 643 .  10.1111/cid.12791 . 31087457 
+ 
+ 
+ ,  Parel ,  S. M. 
+ 
+ ,  P. I. 
+ Brånemark 
+ 
+ , and  L. O. 
+ Ohrnell 
+ 
+ .  B. 
+ Svensson 
+ 2002 . “ Remote Implant Anchorage for the Rehabilitation of Maxillary Defects .”  Journal of Prosthetic Dentistry 
+ 86 :  377 – 381 .  10.1067/mpr.2001.118874 . 11677531 
+ 
+ ,  Polido ,  W. D. 
+ 
+ ,  A. 
+ Machado‐Fernandez 
+ 
+ , and  W. S. 
+ Lin 
+ 
+ .  T. 
+ Aghaloo 
+ 2023 . “ Indications for Zygomatic Implants: A Systematic Review .”  International Journal of Implant Dentistry 
+ 9 :  17 .  10.1186/s40729-023-00480-4 . 37391575 
+ PMC10313639 
+ 
+ ,  Ramanauskaite ,  A. 
+ 
+ ,  K. 
+ Becker 
+ 
+ ,  S. 
+ Wolfart 
+ 
+ , and  F. 
+ Lukman 
+ 
+ .  F. 
+ Schwarz 
+ 2022 . “ Efficacy of Rehabilitation With Different Approaches of Implant‐Supported Full‐Arch Prosthetic Designs: A Systematic Review .”  Journal of Clinical Periodontology 
+ 49 , no.  Suppl 24 :  272 – 290 .  10.1111/jcpe.13540 . 34761399 
+ 
+ 
+ ,  Ramanauskaite ,  A. 
+ 
+ ,  M. E. 
+ Galarraga‐Vinueza 
+ 
+ ,  K. 
+ Obreja 
+ 
+ , and  R. 
+ Sader 
+ 
+ .  F. 
+ Schwarz 
+ 2021 . “ Prevalence of Peri‐Implant Diseases in Patients With Full‐Arch Implant‐Supported Restorations: A Systematic Review .”  International Journal of Prosthodontics 
+ 34 :  s27 – s45 .  10.11607/ijp.6488 . 33571325 
+ 
+ 
+ ,  Rocha ,  R. S. 
+ 
+ ,  C. P. 
+ Vianna 
+ 
+ ,  L. C. 
+ Trojan 
+ 
+ , and  L. E. M. 
+ Padovan 
+ 
+ .  M. C. G. L. 
+ Dos Santos 
+ 2024 . “ Comparison of Sinusitis Rate After Sinus Lift Procedure and Zygomatic Implant Surgery: A Meta‐Analysis .”  Oral and Maxillofacial Surgery 
+ 28 :  63 – 77 .  10.1007/s10006-023-01159-1 . 37266797 
+ 
+ 
+ ,  Sahrmann ,  P. 
+ 
+ ,  F. 
+ Gilli 
+ 
+ ,  D. B. 
+ Wiedemeier 
+ 
+ ,  T. 
+ Attin 
+ 
+ , and  P. R. 
+ Schmidlin 
+ 
+ .  L. 
+ Karygianni 
+ 2020 . “ The Microbiome of Peri‐Implantitis: A Systematic Review and Meta‐Analysis .”  Microorganisms 
+ 8 :  661 .  10.3390/microorganisms8050661 . 32369987 
+ PMC7284896 
+ 
+ ,  Schwarz ,  F. 
+ 
+ ,  J. 
+ Derks 
+ 
+ , and  A. 
+ Monje 
+ 
+ .  H. L. 
+ Wang 
+ 2018 . “ Peri‐Implantitis .”  Journal of Clinical Periodontology 
+ 45 , no.  Suppl 20 :  S246 – S266 .  10.1111/jcpe.12954 . 29926484 
+ 
+ 
+ ,  Stoker ,  G. 
+ 
+ , and  R. 
+ van Waas 
+ 
+ .  D. 
+ Wismeijer 
+ 2012 . “ Long‐Term Outcomes of Three Types of Implant‐Supported Mandibular Overdentures in Smokers .”  Clinical Oral Implants Research 
+ 23 :  925 – 929 .  10.1111/j.1600-0501.2011.02237.x . 21722193 
+ 
+ 
+ ,  Sun ,  Y. 
+ 
+ ,  C. 
+ Xu 
+ 
+ , et al.  N. 
+ Wang 
+ 2023 . “ Virtual Pterygoid Implant Planning in Maxillary Atrophic Patients: Prosthetic‐Driven Planning and Evaluation .”  International Journal of Implant Dentistry 
+ 27 :  9 .  10.1186/s40729-023-00472-4 . PMC10043104 36971973 
+ 
+ ,  Traboulsi‐Garet ,  B. 
+ 
+ ,  A. 
+ Jorba‐García 
+ 
+ , et al.  J. 
+ Bara‐Casaus 
+ 2025 . “ Accuracy of Freehand Surgery, Static and Dynamic Computer Assisted Surgery on Zygomatic Implant Placement: A Systematic Review and Meta‐Analyses .”  Journal of Craniofacial Surgery 
+ 53 :  301 – 311 .  10.1016/j.jcms.2024.12.002 . 39709308 
+ 
+ ,  Vandenbroucke ,  J. P. 
+ 
+ ,  E. 
+ von Elm 
+ 
+ , et al.  D. G. 
+ Altman 
+ 2007 . “ Strengthening the Reporting of Observational Studies in Epidemiology (STROBE): Explanation and Elaboration .”  PLoS Medicine 
+ 4 :  e297 .  10.1371/journal.pmed.0040297 . 17941715 
+ PMC2020496 
+ 
+ ,  Wu ,  Y. 
+ 
+ ,  F. 
+ Wang 
+ 
+ , and  W. 
+ Huang 
+ 
+ .  S. 
+ Fan 
+ 2019 . “ Real‐Time Navigation in Zygomatic Implant Placement: Workflow .”  Oral and Maxillofacial Surgery Clinics of North America 
+ 31 :  357 – 367 .  10.1016/j.coms.2019.03.001 . 31113696 
+ 
+ 
+ ,  Zhao ,  K. 
+ 
+ ,  M. 
+ Lian 
+ 
+ ,  S. 
+ Fan 
+ 
+ ,  W. 
+ Huang 
+ 
+ , and  F. 
+ Wang 
+ 
+ .  Y. 
+ Wu 
+ 2018 . “ Long‐Term Schneiderian Membrane Thickness Changes Following Zygomatic Implant Placement: A Retrospective Radiographic Analysis Using Cone Beam Computed Tomography .”  Clinical Oral Implants Research 
+ 29 , no.  7 :  679 – 687 .  10.1111/clr.13259 . 29774595 
+ 
+ 
+ ,  Zhou ,  W. 
+ 
+ ,  F. 
+ Wang 
+ 
+ ,  A. 
+ Monje 
+ 
+ ,  B. 
+ Elnayef 
+ 
+ , and  W. 
+ Huang 
+ 
+ .  Y. 
+ Wu 
+ 2016 . “ Feasibility of Dental Implant Replacement in Failed Sites: A Systematic Review .”  International Journal of Oral & Maxillofacial Implants 
+ 31 :  535 – 545 .  10.11607/jomi.4312 . 27183062 
