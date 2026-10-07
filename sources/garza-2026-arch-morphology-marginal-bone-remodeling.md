@@ -14,6 +14,7 @@ pmcid: "PMC13510003"
 
 No held paper examined whether arch type (maxillary vs mandibular) and mandibular morphology (U- vs V-shaped) affect early marginal bone remodeling (MBR) under rigid monolithic zirconia full-arch frameworks. This provides the first prospective data quantifying MBR differences by arch and mandibular shape, relevant for risk stratification in treatment planning.
 
+[[implants/full-arch/garza-2026-arch-morphology-marginal-bone-remodeling]]
 ## Three-line Summary
 
 Exploratory prospective cohort of 40 edentulous patients (49 monolithic zirconia full-arch prostheses: 25 maxillary, 24 mandibular; 308 implants); MBR measured at baseline and 12mo; mandibular morphology (CBCT), CAD geometry (inter-implant distance, cantilever length) assessed; linear mixed-effects model for arch comparison.
