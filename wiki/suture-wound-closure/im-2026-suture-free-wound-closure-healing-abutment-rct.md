@@ -8,6 +8,7 @@ category: suture-wound-closure
 evidence_level: rct
 pdf_path: ""
 pdf_filename: ""
+source_collection: pubmed-abstract
 date: "2026-01-01"
 tags: [suture-free, healing-abutment, wound-closure, keratinized-tissue, soft-tissue, RCT]
 relations:
