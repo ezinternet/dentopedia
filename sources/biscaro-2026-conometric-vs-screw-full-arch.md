@@ -14,6 +14,7 @@ pmcid: ~
 
 No held paper provided a large-scale direct comparison of conometric (friction-fit) vs screw-retained retention for immediately loaded full-arch prostheses with quantified complication rates. This fills the retention-system comparison gap: screw loosening (4.2%) vs conometric detachment (9.2%) — clinically important trade-off for prosthesis maintenance planning.
 
+[[implants/full-arch/biscaro-2026-conometric-vs-screw-full-arch]]
 ## Three-line Summary
 
 Retrospective study of 203 immediately loaded complete-arch prostheses (1,356 implants, 261 prostheses: 65 conometric, 196 screw-retained), mean 28.5mo follow-up (12–80mo); implant survival, prosthesis success, and complication comparison (chi-square).
