@@ -14,6 +14,7 @@ pmcid: "PMC13231756"
 
 No held paper specifically analyzed the effect of bruxism on long-term complication patterns in full-arch implant-supported FDPs with 4–10 year follow-up. Prior full-arch pages (de Araújo Nobre 2025/2026, Huber 2026 SR) mention bruxism as a risk factor but without prosthesis-level complication breakdowns. This single-center retrospective provides detailed complication profiles stratified by bruxism, retention type, cantilever, and prosthetic material over a real-world 4–10yr period.
 
+[[implants/full-arch/acar-2026-full-arch-bruxism-complications-4-10yr]]
 ## Three-line Summary
 
 Retrospective study of 24 patients (34 arches, 180 implants, mean follow-up 5yr, range 4–9yr) with full-arch implant-supported FDPs; assessed prosthesis survival and success, complication types, and patient-related risk indicators including bruxism, smoking, DM, and prosthetic design variables.
