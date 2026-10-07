@@ -7,8 +7,8 @@ doi: 10.4317/jced.54910
 source: fernandezpazos-2018-fracture-deformation-protaper-next.md
 category: endodontics/shaping
 evidence_level: prospective
-pdf_path: /Users/oracleneo/llm-wiki/papers/fernandezpazos-2018-fracture-deformation-protaper-next.pdf
-pdf_filename: fernandezpazos-2018-fracture-deformation-protaper-next.pdf
+text_path: /Users/oracleneo/llm-wiki/papers/fernandezpazos-2018-fracture-deformation-protaper-next.txt
+text_filename: fernandezpazos-2018-fracture-deformation-protaper-next.txt
 source_collection: pubmed-text
 tags: [ProTaper Next, M-Wire, cyclic fatigue, fracture, deformation, single-use, clinical study]
 ---
