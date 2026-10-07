@@ -14,6 +14,7 @@ pmcid: "PMC13472035"
 
 No held systematic review specifically compared veneering design (monolithic vs micro-veneered vs fully veneered) outcomes for all-ceramic full-arch implant-supported prostheses, with quantitative chipping incidence and success/survival estimates. This provides the critical 3-year benchmark for full-arch all-ceramic complications stratified by ceramic design type.
 
+[[implants/full-arch/bishti-2026-veneering-design-full-arch-sr]]
 ## Three-line Summary
 
 Systematic review of 12 studies on all-ceramic implant-supported FDPs (3-4-unit and full-arch), comparing monolithic, micro-veneered, and fully veneered designs; prospective clinical studies, ≥1yr, no language/date restrictions.
