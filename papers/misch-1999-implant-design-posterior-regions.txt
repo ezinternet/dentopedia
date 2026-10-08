@@ -1,0 +1,8 @@
+Title: Implant design considerations for the posterior regions of the mouth.
+PMID: 10709483
+DOI: 10.1097/00008505-199904000-00008
+Journal: Implant Dentistry 1999;8(4):376-86
+Article type: Journal Article; Review
+
+ABSTRACT (PubMed)
+The posterior regions of the mouth sustain greater forces, yet often present poorer bone density. A biomechanical approach, often presented to decrease risk factors in such regions, is to increase implant surface area. Most manufacturers provide implants in various lengths. The longest implants are typically inserted into the anterior regions of the mouth, where forces of less magnitude and superior bone quality are present. A finite element analysis supports the hypothesis that implant length is a secondary parameter for stress distribution. A common approach is to enhance implant surface area in the posterior regions primarily by focusing on diameter. However, this increases surface area by only 30% for conventional thread designs despite the fact that forces increase by > 300% in the posterior regions. A change in implant diameter and thread design may increase surface area by > 300%. Such increases in surface area may decrease stresses to the crestal bone regions and reduce both crestal bone loss and early loading implant failure.
