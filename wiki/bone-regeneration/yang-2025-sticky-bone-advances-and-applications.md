@@ -3,7 +3,7 @@ title: "Sticky Bone: Advances and Applications"
 authors: "Yang Z, Zhai S, Liu Y, Wu Y, He T, Shi X, Chu S"
 year: 2025
 doi: "10.2147/IJN.S524115"
-source: "yang-2025-sticky-bone-advances-and-applications"
+source: yang-2025-sticky-bone-advances-and-applications.md
 category: "bone-regeneration"
 evidence_level: "narrative-review"
 pdf_path: /Users/oracleneo/llm-wiki/papers/yang-2025-sticky-bone-advances-and-applications.pdf
