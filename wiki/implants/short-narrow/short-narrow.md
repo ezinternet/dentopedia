@@ -2,7 +2,7 @@
 title: "임플란트·단폭경(짧은·좁은) — short-narrow"
 authors: navigation
 year: 2026
-date: 2026-08-11
+date: 2026-10-08
 doi: N/A
 source: navigation
 category: implants/short-narrow
@@ -15,20 +15,20 @@ tags: [navigation, category-index, short-narrow]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·단폭경(짧은·좁은)
 > - **범위**: Implants defined by reduced **dimension** — short (≤8 mm) and extra-short (4–6 mm) implants vs standard-length-plus-augmentation/sinus-elevation alternatives, narrow-diameter implants (NDI, ≤3.3 mm) & one- vs two-piece narrow designs, titanium-zirconium narrow implants, diameter/length outcome distr…
-> - **수록 논문**: 32편
+> - **수록 논문**: 33편
 
 ## Three-line Summary
 
 **Scope**: Implants defined by reduced **dimension** — short (≤8 mm) and extra-short (4–6 mm) implants vs standard-length-plus-augmentation/sinus-elevation alternatives, narrow-diameter implants (NDI, ≤3.3 mm) & one- vs two-piece narrow designs, titanium-zirconium narrow implants, diameter/length outcome distributions, survival & MBL of reduced-dimension implants.
-**Indexed papers**: 32 papers in `wiki/implants/short-narrow/`.
+**Indexed papers**: 33 papers in `wiki/implants/short-narrow/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·단폭경(짧은·좁은)
-**수록 논문**: 32편
+**수록 논문**: 33편
 **하위 카테고리**: 없음
 
-## Papers in this Category (32)
+## Papers in this Category (33)
 
 | Paper |
 |---|
@@ -48,6 +48,7 @@ tags: [navigation, category-index, short-narrow]
 | [[lin-2026-ten-year-outcomes-short-dental|Ten-year outcomes of short dental implants (≤6 mm): a systematic review and sensitivity meta-analysis]] |
 | [[lombardi-2025-bone-level-tissue-level-short-implants-maxilla|Clinical Outcomes of Bone-Level and Tissue-Level Short Implants Placed in Posterior Maxilla: A Case–Control Study]] |
 | [[lombardo-2022-short-ultrashort-implants-internal-sinus-lift|Short and Ultra-Short Implants, in Association with Simultaneous Internal Sinus Lift in the Atrophic Posterior Maxilla: A Five-Year Retrospective Study]] |
+| [[misch-2005-short-dental-implants-literature-review|Short dental implants: a literature review and rationale for use]] |
 | [[pachiou-2025-narrow-diameter-implants-fixed-posterior|Narrow-diameter implants for treatment with fixed restorations in the posterior region: A systematic review and meta-analysis]] |
 | [[pachiou-2026-narrow-diameter-implants-immediate-loading-sr-ma|Survival and complications of narrow-diameter implants supporting fixed restorations under immediate versus early or delayed loading: A systematic review and meta-analysis]] |
 | [[park-2023-narrow-regular-diameter-mandibular-overdentures|Narrow-diameter versus regular-diameter dental implants for mandibular overdentures: A systematic review and meta-analysis]] |
