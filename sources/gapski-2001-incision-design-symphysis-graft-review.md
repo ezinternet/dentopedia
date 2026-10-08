@@ -16,7 +16,7 @@ text_filename: gapski-2001-incision-design-symphysis-graft-review.txt
 
 ## Why Ingested
 
-Symphysis (chin) bone harvest is a common autogenous graft source for implant sites, and the `bone-regeneration` folder has no source on the soft-tissue side of that procedure. This Gapski et al. 2001 review compares the three horizontal incision designs and the clinical findings that should guide the choice.
+Symphysis (chin) bone harvest is a common autogenous graft source for implant sites, and the `bone-regeneration` folder has no source on the soft-tissue side of that procedure. This Gapski et al. 2001 review compares the three horizontal incision designs and the clinical findings that should guide the choice. Related wiki pages: [[overviews/autogenous-bone-graft-donor-site-selection-overview]], [[bone-regeneration/misch-1995-mandibular-symphysis-graft-severe-ridge-defects]].
 
 ## Three-line Summary
 
