@@ -3,7 +3,7 @@ title: "Bone Grafts: Everything You Need to Know"
 authors: "Haugen HJ, Sanz J, Perale G, Saiz AM, Romandini M, Rahmati M"
 year: 2026
 doi: "unknown"
-source: "Journal of Periodontal Research"
+source: haugen-2026-bone-grafts-everything-you-need.md
 category: "bone-regeneration"
 evidence_level: "narrative-review"
 pdf_path: /Users/oracleneo/llm-wiki/papers/haugen-2026-bone-grafts-everything-you-need.pdf
