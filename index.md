@@ -12,6 +12,9 @@ tags: []
 ---
 
 ## 임플란트 — 디자인·생존율·실패위험 (Implants: Design / Survival / Risk)
+- [[implants/survival/misch-2008-implant-success-survival-failure-icoi-pisa]] — Misch 2008 · consensus · ICOI Pisa: 임플란트 성공·생존·실패 정의와 "Health Scale"(초록만)
+- [[implants/misch-2006-crown-height-space-guidelines-part2]] — Misch 2006 · consensus · ICOI 크라운 높이 공간 지침 2부 (대부분 쟁점 합의 미도달, 초록만)
+- [[implants/misch-2005-crown-height-space-guidelines-part1]] — Misch 2005 · consensus · ICOI 크라운 높이 공간 지침 1부 (초록만)
 - [[implants/s41598-021-90142-5]] — Kohli 2021 · sr · **마이크로모션 허용 한계 SR** (25 in vivo 연구, 1 인간+24 동물): 골유착 112±176 µm vs 비골유착 349±231 µm(p<0.001)이나 범위 15–750 µm로 광범위 겹침 → **보편적 150 µm 임계값 없음**; HA코팅·큰나사·사각공극·저빈도부하·휴지기·≥9주 관찰이 고마이크로모션서도 골유착 허용 (DOI 10.1038/s41598-021-90142-5)
 - [[implants/surendra-2025-flapless-versus-flapped-crestal-bone]] — Surendra 2025 · rct · 하악 구치부 healed-ridge 단일치 (n=40): flapless가 flapped보다 치조정 골소실 유의하게 적음 (6개월 0.48 vs 0.82 mm, p<0.001), 생존율 100% (DOI 10.4103/jpbs.jpbs_1368_25)
 - [[implants/tarpara-2025-flapless-flapped-clinical-outcomes-cohort]] — Tarpara 2025 · prospective · 단일 구치부 임플란트 비무작위 코호트 (n=20, 12개월): flapless가 술후 통증·6개월 탐침깊이는 낮으나 치조정 골높이는 차이 없음 — Surendra RCT와 상충 (DOI 10.7759/cureus.82547)
@@ -1366,6 +1369,7 @@ tags: []
 - [[glass-ionomer/mummery-2022-gic-fissure-sealant-case-series]] — case series(BDJ Open 2022): 고우식위험 소아 GIC fissure sealant 평균 77% 유지
 
 ## 디지털 워크플로우 (Digital Workflow)
+- [[digital-workflow/benavides-2012-cbct-implant-dentistry-icoi-consensus]] — Benavides 2012 · consensus · ICOI CBCT 합의문: 선형계측·3차원 치조제·수술가이드 지지, 개별 필요 기반 정당화·최소 FOV
 - [[digital-workflow/singh-2025-intraoral-scanners-accuracy-umbrella-review]] — Umbrella review (10 SRs, 30+ IOS): TRIOS 3 & Primescan top full-arch accuracy; IOS saves time & improves comfort; limited accuracy in edentulous arches; only 2/10 reviews high AMSTAR-2 quality
 - [[digital-workflow/vankos-2026-digital-conventional-implant-impressions-edentulous]] — sr+ma(MDPI Dentistry 2026, Semmelweis, 34 in-vitro, PROSPERO): 무치악 전악 임플란트 인상 디지털 vs 전통 — RMS 기준 유의차 없음; IOS 전악 무치악 정확도 여전히 논쟁; 전통 인상 유효
 - [[digital-workflow/revilla-leon-2021-artificial-intelligence-implant-dentistry-sr]] — sr(J Prosthet Dent 2023;129:293, 17편): AI 임플란트 3영역 — 종류인식 93.8–98%·성공예측 62.4–80.5%·설계최적화; 전 분야 임상검증 부족; 개발 단계
