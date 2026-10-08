@@ -16,7 +16,7 @@ text_filename: steigenga-2003-dental-implant-design-long-term-success.txt
 
 ## Why Ingested
 
-Implant macrogeometry and thread design are general design questions with no dedicated subcategory in `implants`. This Steigenga 2003 review links design elements to osseointegration quality and long-term success, and the wiki needs it as the design-level companion to the bone-quality sources.
+Implant macrogeometry and thread design are general design questions with no dedicated subcategory in `implants`. This Steigenga 2003 review links design elements to osseointegration quality and long-term success, and the wiki needs it as the design-level companion to the bone-quality sources. Related wiki pages: [[overviews/implant-macrogeometry-clinical-outcomes-overview]].
 
 ## Three-line Summary
 
