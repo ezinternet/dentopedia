@@ -2,7 +2,7 @@
 title: "임플란트 — implants"
 authors: navigation
 year: 2026
-date: 2026-10-05
+date: 2026-10-08
 doi: N/A
 source: navigation
 category: implants
@@ -16,21 +16,21 @@ tags: [navigation, category-index, implants]
 > - **분야**: 임플란트
 > - **범위**: Implant macrogeometry/thread & design, osseointegration biology, abutment & connection, bone quality/density, FEA stress analysis, failure risk factors & systemic-condition effects, flapless vs flapped surgery, zirconia vs titanium implants, prosthesis misfit — topics without their own subcategory.
 > - **하위 카테고리**: [[full-arch]] · [[isq]] · [[loading-protocol]] · [[mbl]] · [[osseodensification]] · [[osteotomy-thermal]] · [[peri-implantitis]] · [[ridge-augmentation]] · [[short-narrow]] · [[soft-tissue]] · [[surface]] · [[survival]] · [[vertical-ridge-augmentation]] · [[vitamin-d]]
-> - **수록 논문**: 74편
+> - **수록 논문**: 76편
 
 ## Three-line Summary
 
 **Scope**: Implant macrogeometry/thread & design, osseointegration biology, abutment & connection, bone quality/density, FEA stress analysis, failure risk factors & systemic-condition effects, flapless vs flapped surgery, zirconia vs titanium implants, prosthesis misfit — topics without their own subcategory.
-**Indexed papers**: 74 papers in `wiki/implants/`.
+**Indexed papers**: 76 papers in `wiki/implants/`.
 **Sub-categories**: [[full-arch]], [[isq]], [[loading-protocol]], [[mbl]], [[osseodensification]], [[osteotomy-thermal]], [[peri-implantitis]], [[ridge-augmentation]], [[short-narrow]], [[soft-tissue]], [[surface]], [[survival]], [[vertical-ridge-augmentation]], [[vitamin-d]]
 
 ## 세줄요약
 
 **분야**: 임플란트
-**수록 논문**: 74편
+**수록 논문**: 76편
 **하위 카테고리**: full-arch, isq, loading-protocol, mbl, osseodensification, osteotomy-thermal, peri-implantitis, ridge-augmentation, short-narrow, soft-tissue, surface, survival, vertical-ridge-augmentation, vitamin-d
 
-## Papers in this Category (74)
+## Papers in this Category (76)
 
 | Paper |
 |---|
@@ -73,6 +73,8 @@ tags: [navigation, category-index, implants]
 | [[liu-2021-clinical-radiographic-performance-one-piece|Clinical and radiographic performance of one-piece and two-piece implant: a systematic review and meta-analysis]] |
 | [[mahmood-hashemi-2024-causes-implant-migration-maxillary-sinus-case-series|The Causes of Dental Implant Migration into the Maxillary Sinus: A Case Series Study from 25 Years of Experience]] |
 | [[mathew-2020-biomimetic-pdl-cementum-dental-implants|Biomimetic Properties of Engineered Periodontal Ligament/Cementum in Dental Implants]] |
+| [[misch-2005-crown-height-space-guidelines-part1|Consensus conference panel report: crown-height space guidelines for implant dentistry-part 1]] |
+| [[misch-2006-crown-height-space-guidelines-part2|Consensus conference panel report: crown-height space guidelines for implant dentistry-part 2]] |
 | [[morales-schwarz-2025-1mm-interimplant-distance-10year-case|The impact of a 1 mm interimplant distance on the interproximal crestal bone height: a case report with a 10-year follow-up and literature review]] |
 | [[mourao-2025-tapered-vs-cylindrical-implants-early-healing-rct|Do tapered implants offer clinical advantages over cylindrical implants in early healing?]] |
 | [[moustafa-ali-2018-submerged-vs-nonsubmerged-implant|Effect of Submerged vs Nonsubmerged Implant Placement Protocols on Implant Failure and Marginal Bone Loss: A Systematic Review and Meta-Analysis]] |
