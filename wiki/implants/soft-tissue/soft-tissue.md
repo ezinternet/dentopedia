@@ -2,7 +2,7 @@
 title: "임플란트·연조직 — soft-tissue"
 authors: navigation
 year: 2026
-date: 2026-09-16
+date: 2026-10-08
 doi: N/A
 source: navigation
 category: implants/soft-tissue
@@ -15,20 +15,20 @@ tags: [navigation, category-index, soft-tissue]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·연조직
 > - **범위**: Peri-implant soft tissue augmentation — keratinized mucosa (KM) width/thickness, buccal dehiscence (PSTD), soft tissue substitutes (xenogeneic collagen matrix vs autograft FGG/CTG), second-stage surgery, vestibuloplasty
-> - **수록 논문**: 42편
+> - **수록 논문**: 45편
 
 ## Three-line Summary
 
 **Scope**: Peri-implant soft tissue augmentation — keratinized mucosa (KM) width/thickness, buccal dehiscence (PSTD), soft tissue substitutes (xenogeneic collagen matrix vs autograft FGG/CTG), second-stage surgery, vestibuloplasty
-**Indexed papers**: 42 papers in `wiki/implants/soft-tissue/`.
+**Indexed papers**: 45 papers in `wiki/implants/soft-tissue/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·연조직
-**수록 논문**: 42편
+**수록 논문**: 45편
 **하위 카테고리**: 없음
 
-## Papers in this Category (42)
+## Papers in this Category (45)
 
 | Paper |
 |---|
@@ -47,6 +47,8 @@ tags: [navigation, category-index, soft-tissue]
 | [[jensen-2023-iti-consensus-bone-dimensions-soft-tissue|Group 1 ITI Consensus Report: The role of bone dimensions and soft tissue augmentation procedures on the stability of clinical, radiographic, and patient-reported outcomes of implant treatment]] |
 | [[jung-2021-flap-folding-suture-soft-tissue-implant|3D analysis of soft tissue around implant after flap folding suture]] |
 | [[kadkhodazadeh-2018-junctional-epithelium-epithelial-attachment-implant|Junctional Epithelium or Epithelial Attachment around Implant: Which Term is Desirable?: A Review]] |
+| [[kazor-2004-implant-plastic-surgery-review|Implant plastic surgery: a review and rationale]] |
+| [[kheder-2026-abutment-materials-peri-implant-tissue-health-sr|SR: Influence of Ti vs ZrO₂ vs PEEK Abutment Materials on Peri-implant Tissue Health (13 Clinical Studies)]] |
 | [[kim-2009-blood-vessels-peri-implant-mucosa|Blood Vessels of the Peri-Implant Mucosa: A Comparison Between Flap and Flapless Procedures]] |
 | [[kim-2015-hard-soft-tissue-esthetic-zone|Hard and soft tissue management in esthetic zone: A Case Report]] |
 | [[le-2022-aesthetic-contour-graft-peri-implant|The Aesthetic Contour Graft - Enhancing peri-implant soft tissue contours and pontic sites with guided bone regeneration]] |
@@ -69,6 +71,7 @@ tags: [navigation, category-index, soft-tissue]
 | [[thoma-2014-soft-tissue-augmentation-implant-sr|Efficacy of soft tissue augmentation around dental implants and in partially edentulous areas: a systematic review]] |
 | [[thoma-2018-soft-tissue-augmentation-periimplant-health|Effects of Soft Tissue Augmentation Procedures on Peri-implant Health or Disease: A Systematic Review and Meta-analysis]] |
 | [[thoma-2021-soft-tissue-management-implants-eao-consensus|Soft tissue management at implants: Summary and consensus statements of group 2. The 6th EAO Consensus Conference 2021]] |
+| [[tiskratok-2026-tooth-colored-abutment-peri-implant-soft-tissue-sr|SR: Peri-implant Soft-tissue Responses to Tooth-colored Abutment Materials (ZrO₂ vs PEEK vs Ti)]] |
 | [[valles-2022-soft-tissue-augmentation-tissue-thickening-implants-sr-ma|Efficacy of soft tissue augmentation procedures on tissue thickening around dental implants: A systematic review and meta-analysis]] |
 | [[wang-2024-mrarf-modified-roll-envelope-apf-implant|Modified Roll Envelope Technique Combined With Apically Repositioned Flap (MRARF) for Peri-Implant Soft Tissue Augmentation-A Case Series]] |
 | [[yadav-2025-soft-tissue-substitutes-patient-reported-outcomes-commentary|Soft tissue substitutes improve patient-reported outcomes in peri-implant soft tissue augmentation]] |
