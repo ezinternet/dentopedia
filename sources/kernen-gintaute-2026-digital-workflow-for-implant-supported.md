@@ -19,6 +19,14 @@ tags: [digital-workflow, reverse-scan-body, intraoral-scanner, TRIOS, verificati
 - All-on-x cohort sweep: full-arch digital workflow accuracy with reverse scan bodies in edentulous mandible
 - Connects to existing wiki pages on digital workflow accuracy: [[implants/full-arch/mijiritsky-2026-segmented-full-arch-digital-workflow-mandible]] (segmented mandible workflow), [[implants/full-arch/pozzi-2025-photogrammetry-versus-intraoral-scanning-in]] (IOS vs photogrammetry accuracy), [[implants/full-arch/papaspyridakos-2024-reverse-scan-body-double-full-arch-zirconia]] (reverse scan body workflow)
 
+## Three-line Summary
+
+Single-patient prospective feasibility study (BMC Oral Health 2026) assessing model-free digital implant impressions using reverse scan bodies in a two-implant edentulous mandible; ten intraoral scans (TRIOS 4) produced ten titanium verification bars (VBs) all achieving passive fit (Sheffield test), with IOS-to-VB mean linear deviation of only 12 µm. Intraoral splinting of sectioned VBs introduced significant additional error (50 µm linear, 0.79° angular, p<0.001), while new VBs fabricated with reverse scan bodies recovered accuracy close to original VBs. The study supports model-free fabrication via reverse scan bodies while cautioning against accuracy degradation from intraoral re-splinting.
+
+## 세줄요약
+
+단일 환자 전향적 타당성 연구(BMC Oral Health 2026) — 2개 임플란트 완전 무치악 하악에서 역방향 스캔 바디를 이용한 모델 불필요 디지털 임플란트 인상 정확도 평가. 구강내 스캔 10회로 제작된 검증 바(VB) 10개 전부 수동적 적합(Sheffield 검사) 달성; IOS→VB 편차 평균 12µm. 구강내 분절·재부목(SVB)은 선형 50µm·각도 0.79° 유의 오류 추가(p<0.001); 역방향 스캔 바디 신보철(NVB)은 정확도 회복 — 구강내 재부목은 정확도 저하 경고.
+
 ## Abstract
 
 This single-patient prospective clinical feasibility evaluation assessed the accuracy of digital impressions of one edentulous mandible with two implants placed in the canine regions by fabricating and clinically evaluating titanium verification bars (VBs). Ten intraoral scans (IOS) were captured using a TRIOS 4 scanner with scan bodies remaining in situ. VBs were designed and manufactured via a fully digital CAD/CAM workflow (Exocad, PowerMill) with titanium bases adhesively cemented without a physical model. All ten VBs demonstrated clinically passive fit (Sheffield test). To investigate the effect of intraoral splinting, VBs were sectioned and re-splinted intraorally (SVB) and compared to new VBs (NVB) with reverse scan bodies. Linear and angular deviations were measured using metrology software (Geomagic Control X).
