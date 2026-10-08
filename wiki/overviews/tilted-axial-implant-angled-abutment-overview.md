@@ -150,3 +150,4 @@ When the implant (or the tooth being replaced) is inclined, an **angled abutment
 - [[implants/full-arch/eskan-2020-tapered-implants-full-arch-immediate-function]] — BLT full-arch 55 mo: MBL 0.15 mm; lowest in literature; tilted = axial MBL; NDI 0 fractures.
 - [[implants/short-narrow/coskunses-2021-narrow-diameter-implants-full-arch-fixed]] — NDI Ti-Zr 2 yr: CSR 99.4%; NDI MBL higher than standard; 6-implant < 4-implant MBL.
 - [[implants/full-arch/cabbarova-2026-all-on-four-six-framework-fea]] — FEA: All-on-6 vs All-on-4 × 6 materials; eliminating cantilever > material choice; PEEK/PEKK contraindicated.
+- [[implants/full-arch/gaonkar-2021-survival-rates-of-axial-and]] — SR: survival rates of axial vs tilted implants in All-on-4 rehabilitation; equivalent survival
