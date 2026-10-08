@@ -6,7 +6,7 @@ date: 2023-06-18
 doi: "10.1016/j.cden.2023.05.015"
 source: hong-2023-sickle-cell-dental-extraction-crisis.md
 category: [drug/systemic-disease]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/hong-2023-sickle-cell-dental-extraction-crisis.txt
 pdf_filename: hong-2023-sickle-cell-dental-extraction-crisis.txt
 source_collection: pubmed-abstract
