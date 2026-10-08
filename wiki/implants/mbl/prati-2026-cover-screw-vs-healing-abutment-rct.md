@@ -3,7 +3,7 @@ title: "Clinical Parameters of Implants with Cover Screw vs Healing Abutment: 6-
 authors: "Prati C et al."
 year: 2026
 doi: "10.1007/s10006-025-01499-0"
-source: "sources/prati-2026-cover-screw-vs-healing-abutment-rct.md"
+source: "prati-2026-cover-screw-vs-healing-abutment-rct.md"
 category: "implants/mbl"
 evidence_level: rct
 pdf_path: ""
