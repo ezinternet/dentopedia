@@ -16,6 +16,8 @@ tags: [infected-socket, immediate-implant, chronic-apical-periodontitis, smoking
 relations:
   - type: reinforces
     target: colak-2023-immediate-implant-periapical-pathology-retrospective
+  - type: contradicts
+    target: de-oliveira-neto-2019-immediate-dental-implants-placed-into
 ---
 
 ## Three-line Summary
