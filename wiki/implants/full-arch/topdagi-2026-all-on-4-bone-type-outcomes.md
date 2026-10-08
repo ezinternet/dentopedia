@@ -103,6 +103,6 @@ The study's central finding is that bone quality independently predicts All-on-4
 
 - [[implants/full-arch/figueiredo-2025-all-on-four-overview-sr]] — All-on-4 overview SR; this study extends by adding bone-type stratification
 - [[implants/full-arch/shao-2026-all-on-four-vs-all-on-six-sr-ma]] — SR+MA noting zirconia associated with fewer mechanical complications in All-on-4
-- [[implants/full-arch/alshahrani-2026-full-arch-monolithic-zirconia-prostheses-5year-retrospective]] — zirconia full-arch CAFIP 5-year failure data
+- [[implants/full-arch/alshahrani-2026-zirconia-full-arch-3300-5yr]] — zirconia full-arch CAFIP 5-year failure data
 - [[implants/munjal-2015-implants-low-density-bone-d3d4]] — implant behavior in D3/D4 low-density bone; converging evidence
 - [[implants/full-arch/de-araujo-nobre-2025-mandibular-all-on-four-20-25yr]] — long-term mandibular All-on-4 survival and complication data
