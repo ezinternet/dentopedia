@@ -18,6 +18,14 @@ relations:
     target: mohamed-rohani-2025-hematological-disorders-bleeding-tendency-dental
 ---
 
+## Three-line Summary
+
+Narrative review (Cureus 2023) synthesizing oral manifestations and dental caries risk mechanisms across 10 hematological disorders including β-thalassemia, sickle cell disease (SCD), iron deficiency anemia (IDA), hemophilia, Plummer-Vinson syndrome (PVS), and leukemia. Salivary hypofunction (reduced flow, impaired buffering) is identified as the shared cariogenic pathway; IDA-driven early childhood caries (ECC) and post-radiation leukemia (DMFT 7.13 vs controls 1.8) represent the highest documented caries burdens. Clinical oral hygiene guidelines are provided per disorder.
+
+## 세줄요약
+
+Cureus 2023 서술적 종합 리뷰 — β-지중해빈혈·겸상세포빈혈(SCD)·철결핍성빈혈(IDA)·혈우병·Plummer-Vinson 증후군 등 10개 혈액질환의 구강 발현과 치아우식 위험 기전 종합. 타액 기능 저하(분비 감소·완충능 저하)가 공통 우식 발생 경로로 규명; 철결핍성빈혈 유발 조기유아우식(ECC)과 방사선 후 백혈병(우식경험지수 DMFT 7.13 vs 대조군 1.8)이 최고 우식 부담. 혈액질환별 맞춤 구강위생 지침 제시.
+
 ## One-line Summary
 Narrative review (Cureus 2023) of oral manifestations and dental caries risk mechanisms across 10 hematological disorders — including β-thalassemia, SCD, IDA, hemophilia, and ALL — with clinical oral hygiene guidelines.
 
