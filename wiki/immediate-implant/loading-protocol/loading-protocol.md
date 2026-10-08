@@ -2,7 +2,7 @@
 title: "즉시식립·부하프로토콜 — loading-protocol"
 authors: navigation
 year: 2026
-date: 2026-09-21
+date: 2026-10-08
 doi: N/A
 source: navigation
 category: immediate-implant/loading-protocol
@@ -15,20 +15,20 @@ tags: [navigation, category-index, loading-protocol]
 > [!summary] 한국어 핵심요약
 > - **분야**: 즉시식립·부하프로토콜
 > - **범위**: Loading timing/protocol for immediately-placed implants — immediate vs early vs conventional/delayed loading, primary-stability thresholds for immediate loading (IT ≥35 Ncm, ISQ ≥70), single-tooth & full-arch/edentulous immediate-loading survival & MBL, PROMs in loading-timing trials. Distinct from …
-> - **수록 논문**: 12편
+> - **수록 논문**: 13편
 
 ## Three-line Summary
 
 **Scope**: Loading timing/protocol for immediately-placed implants — immediate vs early vs conventional/delayed loading, primary-stability thresholds for immediate loading (IT ≥35 Ncm, ISQ ≥70), single-tooth & full-arch/edentulous immediate-loading survival & MBL, PROMs in loading-timing trials.
-**Indexed papers**: 12 papers in `wiki/immediate-implant/loading-protocol/`.
+**Indexed papers**: 13 papers in `wiki/immediate-implant/loading-protocol/`.
 
 ## 세줄요약
 
 **분야**: 즉시식립·부하프로토콜
-**수록 논문**: 12편
+**수록 논문**: 13편
 **하위 카테고리**: 없음
 
-## Papers in this Category (12)
+## Papers in this Category (13)
 
 | Paper |
 |---|
@@ -39,6 +39,7 @@ tags: [navigation, category-index, loading-protocol]
 | [[huang-2014-innervation-peri-implant-tissues-placement-loading-sr|A systematic review on the innervation of peri-implant tissues with special emphasis on the influence of implant placement and loading protocols]] |
 | [[huynh-ba-2018-immediate-loading-vs-early-conventional|Immediate loading vs. early/conventional loading of immediately placed implants in partially edentulous patients from the patients' perspective: A systematic review]] |
 | [[markovic-2024-immediate-vs-early-loading-immediately-placed|Immediate versus early loading of immediately placed bone-level tapered dental implants with hydrophilic surface in full arch maxillary rehabilitation: A pilot randomized clinical trial with 2-year follow-up]] |
+| [[misch-2004-rationale-immediate-load-implant-part2|Rationale for the application of immediate load in implant dentistry: part II]] |
 | [[pannuti-2026-loading-timing-edentulous-maxilla-pro|Patient- and Clinician-Reported Outcomes and Outcome Measures Evaluating Timing of Implant Loading in the Edentulous Maxilla: A Systematic Review of Prospective Studies]] |
 | [[shibly-2010-bone-regeneration-around-implants-in|Bone Regeneration Around Implants in Periodontally Compromised Patients: A Randomized Clinical Trial of the Effect of Immediate Implant With Immediate Loading]] |
 | [[shibly-2010-immediate-implants-immediate-loading-conventional|Immediate Implants with Immediate Loading vs. Conventional Loading: 1-Year Randomized Clinical Trial]] |
