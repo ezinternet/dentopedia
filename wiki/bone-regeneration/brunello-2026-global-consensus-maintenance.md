@@ -4,7 +4,7 @@ authors: "Giulia Brunello, Franz J Strauss, Iva Milinkovic, Ina Kopp, Frank Schw
 year: 2026
 date: 2026-02-24
 doi: "10.1111/clr.70018"
-source: "Clinical Oral Implants Research"
+source: brunello-2026-global-consensus-maintenance.md
 category: bone-regeneration
 evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/brunello-2026-global-consensus-maintenance.pdf
