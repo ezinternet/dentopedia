@@ -17,6 +17,8 @@ relations:
   - type: complements
     target: zhou-2025-collagen-crosslinkers-naocl-dentin-bond-strength-sr-ma
     note: alternative collagen protection strategies — CHX vs cross-linkers
+  - type: contradicts
+    target: kiuru-2021-mmp-inhibitors-dentin-bonding-sr-ma
 ---
 
 ## 한국어 핵심요약
