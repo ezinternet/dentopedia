@@ -346,6 +346,7 @@ Three reviews/SR specifically cover lateral-window SFE *without* any grafting ma
 - [[sinus-lift/lateral/jue-2025-maxillary-sinus-floor-augmentation-autogenous-bone]] — multicenter split-mouth RCT (n=50, 198 implants): autogenous ramus block vs BBM+25% local bone; 12-month survival 92.9% vs 93.9% (OR 0.85, p=0.777), all outcomes NS; autograft non-inferior but ramus harvest adds temporary lower-lip dysesthesia risk (4/50 patients)
 - [[sinus-lift/lateral/thouveny-2026-volumetric-analysis-bone-resorption-rate]] — retrospective 41 sinuses; graft volume groups <10% to ≥50%; overall resorption p=0.06 (underpowered); membrane perforation (36.6%) does not affect volume if managed; principal drivers are sinus morphology (palato-vestibular angle) + initial graft volume (PCA)
 - [[sinus-lift/lateral/gai-2026-tapered-cylindrical-lsfe-isq-rct]] — RCT: tapered vs cylindrical implant design in lateral window sinus floor elevation; ISQ and primary stability outcomes at placement and loading (rct, 2026)
+- [[bone-regeneration/brunello-2026-global-consensus-maintenance]] — 1st Global Consensus (single-round Delphi survey): clinical guidelines for edentulous maxilla rehabilitation including sinus lift and alveolar bone augmentation techniques
 
 ## Clinical Quiz
 <!-- quiz_spec -->
