@@ -3,7 +3,7 @@ title: "Interrupted vs Interrupted+Mattress Suture in GBR: No Significant Differ
 authors: "Kim GJ et al."
 year: 2026
 doi: "10.5051/jpis.2504900245"
-source: "sources/kim-2026-interrupted-vs-mattress-suture-gbr-rct.md"
+source: "kim-2026-interrupted-vs-mattress-suture-gbr-rct.md"
 category: suture-wound-closure
 evidence_level: rct
 pdf_path: ""
