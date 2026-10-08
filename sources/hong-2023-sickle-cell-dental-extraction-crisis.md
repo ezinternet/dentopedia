@@ -23,6 +23,14 @@ abstract-only — full text not retrieved (Dent Clin North Am 2023, no PMC)
 ## Why Ingested
 겸상세포빈혈(Sickle Cell Disease, SCD) 환자에서 발치 도중 혈관폐쇄 위기(Vaso-Occlusive Crisis, VOC) 발생 시나리오와 치과 진료실 대처법을 집중적으로 다루는 임상 리뷰. [[drug/systemic-disease/kale-2023-blood-disorders-dental-caries]]가 SCD 구강 발현의 개요를 제공한다면, 이 논문은 발치 직전·중·후 SCD 위기 예방과 대처의 실제 임상 프로토콜을 구체화한다. SCD 환자 발치 진료 시 반드시 참고해야 할 시나리오 기반 리뷰다.
 
+## Three-line Summary
+
+Abstract-only clinical review (Dent Clin North Am 2023) on preventing and managing vaso-occlusive sickle cell crisis (VOC) triggered in the dental setting. Dental anxiety is identified as a physiological VOC trigger (sympathetic activation → increased O₂ demand → HbS polymerization), and the review provides pre-procedure evaluation, short-procedure planning, and emergency response protocol. No RCT evidence; evidence level is expert opinion and observational data.
+
+## 세줄요약
+
+초록만 확보된 임상 리뷰(Dent Clin North Am 2023) — 치과 진료 중 발생하는 겸상세포빈혈(SCD) 혈관폐쇄 위기(VOC) 예방과 응급 대처. 치과 불안이 교감신경 활성→산소 소비 증가→HbS 중합이라는 VOC 유발 경로의 핵심으로 규명되며, 술 전 평가·단시간 술식·응급 프로토콜 제시. RCT 없음; 전문가 의견·관찰 연구 수준.
+
 ## One-line Summary
 Clinical review (Dent Clin North Am 2023) on managing sickle cell disease in the dental chair — emphasizing pre-procedure evaluation, vaso-occlusive crisis (VOC) prevention, anxiety management, and emergency response when a patient enters crisis during dental extraction.
 
