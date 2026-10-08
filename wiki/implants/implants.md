@@ -16,21 +16,21 @@ tags: [navigation, category-index, implants]
 > - **분야**: 임플란트
 > - **범위**: Implant macrogeometry/thread & design, osseointegration biology, abutment & connection, bone quality/density, FEA stress analysis, failure risk factors & systemic-condition effects, flapless vs flapped surgery, zirconia vs titanium implants, prosthesis misfit — topics without their own subcategory.
 > - **하위 카테고리**: [[full-arch]] · [[isq]] · [[loading-protocol]] · [[mbl]] · [[osseodensification]] · [[osteotomy-thermal]] · [[peri-implantitis]] · [[ridge-augmentation]] · [[short-narrow]] · [[soft-tissue]] · [[surface]] · [[survival]] · [[vertical-ridge-augmentation]] · [[vitamin-d]]
-> - **수록 논문**: 76편
+> - **수록 논문**: 83편
 
 ## Three-line Summary
 
 **Scope**: Implant macrogeometry/thread & design, osseointegration biology, abutment & connection, bone quality/density, FEA stress analysis, failure risk factors & systemic-condition effects, flapless vs flapped surgery, zirconia vs titanium implants, prosthesis misfit — topics without their own subcategory.
-**Indexed papers**: 76 papers in `wiki/implants/`.
+**Indexed papers**: 83 papers in `wiki/implants/`.
 **Sub-categories**: [[full-arch]], [[isq]], [[loading-protocol]], [[mbl]], [[osseodensification]], [[osteotomy-thermal]], [[peri-implantitis]], [[ridge-augmentation]], [[short-narrow]], [[soft-tissue]], [[surface]], [[survival]], [[vertical-ridge-augmentation]], [[vitamin-d]]
 
 ## 세줄요약
 
 **분야**: 임플란트
-**수록 논문**: 76편
+**수록 논문**: 83편
 **하위 카테고리**: full-arch, isq, loading-protocol, mbl, osseodensification, osteotomy-thermal, peri-implantitis, ridge-augmentation, short-narrow, soft-tissue, surface, survival, vertical-ridge-augmentation, vitamin-d
 
-## Papers in this Category (76)
+## Papers in this Category (83)
 
 | Paper |
 |---|
@@ -40,6 +40,7 @@ tags: [navigation, category-index, implants]
 | [[ayoub-2024-abutment-bending-guide-one-piece-implant|Innovative Approach in Dental Implantology: A Case Study of Abutment Bending Verification Guide for One-Piece Compressive Implants]] |
 | [[bajaj-2023-ligaplants-pdl-tissue-engineering-implant|Ligaplants: Uprising Regimen in the Glebe of Implant Dentistry]] |
 | [[baldassarri-2012-mechanical-properties-plateau-root-form|Mechanical properties of human bone surrounding plateau root form implants retrieved after 0.3–24 years of function]] |
+| [[bidez-1992-force-transfer-implant-dentistry-basic-concepts|Force transfer in implant dentistry: basic concepts and principles]] |
 | [[canullo-2026-hybrid-funnel-technique-mbl-3year|Hybrid Funnel Technique vs Conventional Drilling: 3-Year Marginal Bone Loss Trial]] |
 | [[casalino-2026-influence-immediate-versus-delayed-loading|Influence of Immediate Versus Delayed Loading on Peri-Implant Bone Healing: A Comparative FEA Study of Titanium Threaded and Scaffold Dental Implants]] |
 | [[ceddia-2025-crestal-position-splinted-implant-fea|Effect of Crestal Position on Bone–Implant Stress Interface of Three-Implant Splinted Prostheses: A Finite Element Analysis]] |
@@ -53,6 +54,7 @@ tags: [navigation, category-index, implants]
 | [[elchaar-2021-tapered-self-cutting-tissue-level-minipig|A novel fully tapered, self-cutting tissue-level implant: non-inferiority study in minipigs]] |
 | [[erdogdu-2024-abutment-angle-bone-quality-fatigue-fea|Assessment of the Impact of Bone Quality and Abutment Configuration on the Fatigue Performance of Dental Implant Systems Using Finite Element Analysis (FEA)]] |
 | [[esposito-2009-1-vs-2-stage-implant-placement-cochrane|Interventions for replacing missing teeth: 1- versus 2-stage implant placement]] |
+| [[fish-2000-mandibular-bone-growth-hydroxyapatite-subperiosteal-case|Mandibular bone growth induced by a hydroxylapatite-coated subperiosteal implant: a case report]] |
 | [[gallucci-2026-current-state-of-evidence-for|Current State of Evidence for Implant Placement and Loading in Partially Edentulous Patients: A Systematic Review.]] |
 | [[gaviria-2014-current-trends-dental-implants-review|Current trends in dental implants]] |
 | [[gehrke-2024-implant-dentistry-review-2024|Contemporary aspects of implant dentistry: a narrative review]] |
@@ -60,6 +62,7 @@ tags: [navigation, category-index, implants]
 | [[hussein-2019-thread-depth-implant-shape-stress-mandible-fea|Thread Depth and Implant Shape on Stress Distribution in the Mandible: A Finite Element Analysis]] |
 | [[irandoust-2020-interplay-bone-healing-remodeling-dental|The interplay between bone healing and remodeling around dental implants]] |
 | [[james-2025-future-dental-implants-trends-technologies|The Future of Dental Implants: A Narrative Review of Trends, Technologies, and Patient Considerations]] |
+| [[jividen-2000-reverse-torque-testing-early-loading-failures|Reverse torque testing and early loading failures: help or hindrance?]] |
 | [[jokstad-2014-3d-misfit-implant-prosthesis-long-term|New 3D technologies applied to assess the long-term clinical effects of misfit of the full jaw fixed prosthesis on dental implants]] |
 | [[joshi-2025-implant-tooth-proximity-sr-ma|The Clinical Impact of Dental Implant Placement in Close Proximity to Natural Teeth: A Systematic Review and Meta-Analysis]] |
 | [[katsoulis-2017-misfit-implant-prosthesis-clinical-outcomes-sr|Misfit of implant prostheses and its impact on clinical outcomes. Definition, assessment and a systematic review of the literature]] |
@@ -73,6 +76,9 @@ tags: [navigation, category-index, implants]
 | [[liu-2021-clinical-radiographic-performance-one-piece|Clinical and radiographic performance of one-piece and two-piece implant: a systematic review and meta-analysis]] |
 | [[mahmood-hashemi-2024-causes-implant-migration-maxillary-sinus-case-series|The Causes of Dental Implant Migration into the Maxillary Sinus: A Case Series Study from 25 Years of Experience]] |
 | [[mathew-2020-biomimetic-pdl-cementum-dental-implants|Biomimetic Properties of Engineered Periodontal Ligament/Cementum in Dental Implants]] |
+| [[misch-1998-bone-quality-based-implant-system-stage-1-2|A bone quality-based implant system: a preliminary report of stage I & stage II]] |
+| [[misch-1999-implant-design-posterior-regions|Implant design considerations for the posterior regions of the mouth]] |
+| [[misch-2001-bioengineered-implant-predetermined-bone-response|A bioengineered implant for a predetermined bone cellular response to loading forces: a literature review and case report]] |
 | [[misch-2005-crown-height-space-guidelines-part1|Consensus conference panel report: crown-height space guidelines for implant dentistry-part 1]] |
 | [[misch-2006-crown-height-space-guidelines-part2|Consensus conference panel report: crown-height space guidelines for implant dentistry-part 2]] |
 | [[morales-schwarz-2025-1mm-interimplant-distance-10year-case|The impact of a 1 mm interimplant distance on the interproximal crestal bone height: a case report with a 10-year follow-up and literature review]] |
@@ -102,6 +108,7 @@ tags: [navigation, category-index, implants]
 | [[singh-2024-influence-implant-design-length-stress|Influence of implant design and length on stress distribution in immediately loaded implants in posterior maxilla – A two-dimensional finite element analysis]] |
 | [[spinelli-2023-tissue-level-laser-lok-flapless-4year|Tissue-Level Laser-Lok Implants Placed with a Flapless Technique: A 4-Year Clinical Study]] |
 | [[srikanth-2025-treatment-planning-single-tooth-implant|Treatment Planning for Single-Tooth Implant: A Clinical Guide and Literature Review]] |
+| [[steigenga-2003-dental-implant-design-long-term-success|Dental implant design and its relationship to long-term implant success]] |
 | [[stilwell-2024-occlusal-considerations-implant-maintenance|Occlusal considerations in maintaining health of implants and their restorations]] |
 | [[tarpara-2025-flapless-flapped-clinical-outcomes-cohort|Comparative Assessment of Clinical Outcomes in Flapless and Flapped Implant Surgical Techniques: A Prospective Cohort Study]] |
 | [[walter-2022-two-types-two-piece-dental-implants|Randomized controlled clinical study comparing two types of two‐piece dental implants supporting fixed restorations—Results at 8 years of loading]] |
