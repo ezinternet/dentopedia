@@ -12,6 +12,16 @@ tags: []
 ---
 
 ## 임플란트 — 디자인·생존율·실패위험 (Implants: Design / Survival / Risk)
+- [[implants/short-narrow/misch-2005-short-dental-implants-literature-review]] — Misch 2005 · review · 단축 임플란트의 생체역학 근거 (초록만)
+- [[implants/soft-tissue/kazor-2004-implant-plastic-surgery-review]] — Kazor 2004 · review · 임플란트 주위 연조직 높이를 위한 치주 성형수술 (초록만)
+- [[implants/steigenga-2003-dental-implant-design-long-term-success]] — Steigenga 2003 · review · 임플란트 설계와 골유착·장기 성공 (초록만)
+- [[implants/mbl/oh-2002-causes-early-implant-bone-loss]] — Oh 2002 · review · 초기 임플란트 골소실의 6가지 가설 원인 (초록만)
+- [[implants/misch-2001-bioengineered-implant-predetermined-bone-response]] — Misch 2001 · case report · 변형률 기반 골 반응을 노린 생체공학 임플란트, 2례 1년 (초록만)
+- [[implants/jividen-2000-reverse-torque-testing-early-loading-failures]] — Jividen 2000 · review · 역토크 검사가 초기 부하 실패의 원인일 수 있다는 비판 (초록만)
+- [[implants/fish-2000-mandibular-bone-growth-hydroxyapatite-subperiosteal-case]] — Fish 2000 · case report · HA 코팅 하악 골막하 임플란트 (단일 증례, 초록만)
+- [[implants/misch-1999-implant-design-posterior-regions]] — Misch 1999 · review · 구치부 임플란트: 길이보다 표면적 (초록만)
+- [[implants/misch-1998-bone-quality-based-implant-system-stage-1-2]] — Misch 1998 · prospective · 골질 기반 임플란트 시스템 예비 보고, 364개 생존율 98.9% (초록만)
+- [[implants/bidez-1992-force-transfer-implant-dentistry-basic-concepts]] — Bidez 1992 · primer · 임플란트 힘 전달 기초 개념 (초록만)
 - [[implants/survival/misch-2008-implant-success-survival-failure-icoi-pisa]] — Misch 2008 · consensus · ICOI Pisa: 임플란트 성공·생존·실패 정의와 "Health Scale"(초록만)
 - [[implants/misch-2006-crown-height-space-guidelines-part2]] — Misch 2006 · consensus · ICOI 크라운 높이 공간 지침 2부 (대부분 쟁점 합의 미도달, 초록만)
 - [[implants/misch-2005-crown-height-space-guidelines-part1]] — Misch 2005 · consensus · ICOI 크라운 높이 공간 지침 1부 (초록만)
@@ -391,6 +401,9 @@ tags: []
 - [[implants/vitamin-d/dulinska-2025-vitamin-d3-soft-tissue-bone-preservation]] — Dulinska-Litewka 2025 · retrospective · 환자 72명/임플란트 115개, 비타민 D 결핍군 주위 골소실 유의 증가 + 연조직 두께는 비타민 D 상태와 무관하게 변연골 보존에 독립적 영향 (DOI 10.17219/dmp/179004)
 
 ## 골재생 (Bone Regeneration / Ridge Preservation)
+- [[bone-regeneration/gapski-2001-incision-design-symphysis-graft-review]] — Gapski 2001 · review · 턱끝 골이식 절개 설계 3종 비교 (초록만)
+- [[bone-regeneration/misch-1995-mandibular-symphysis-graft-severe-ridge-defects]] — Misch 1995 · review · 심한 국소 치조제 결손의 하악 결합부 블록 골이식 (초록만)
+- [[bone-regeneration/misch-1993-bone-grafting-materials-implant-dentistry]] — Misch 1993 · review · 골이식재의 작용 기전 분류 (자가·동종·합성) (초록만)
 - [[bone-regeneration/jepsen-2019-efp-bone-regeneration-consensus]] — Jepsen 2019 · consensus · EFP 15차 워크샵 그룹4: 수평 골증대술(예지성 확립), 수직 골증대술(효과적·합병증↑), 치주염성 골결손 GBR(방사선학적 이득만), 측방접근 상악동 거상(장기 신뢰 가능) — 4개 SR 기반 20인 전문가 합의
 - [[bone-regeneration/haugen-2026-bone-grafts-everything-you-need]] — Haugen 2026 · review · 골 이식재 전 스펙트럼(자가골/동종골/이종골/합성골/복합체/CAD-CAM)을 골형성/골유도/골전도 삼각 구도로 비교; 치조제 보존·상악동 거상·GBR·치주재생·임플란트주위염별 권장 재료 매핑; 복합 전략(자가골 칩+느린흡수 이종골/합성골+막/메시) 윤곽 안정성↑; 미래: 정밀 생체모방(스마트 전달·맞춤형·QC)
 - [[bone-regeneration/yang-2025-sticky-bone-advances-and-applications]] — Yang 2025 · review · 스티키 본(AFG/i-PRF+골 이식재) 종설: 조성·제조법(AFG/i-PRF/셀프폴딩 i-PRF)·생물학적 특성·기전(성장인자 지속 방출·MSC 모집·M2 극성화)·임상 적용(치조제 보존·상악동 거상·주위염 GBR·치주 골내 결손) 정리; 인체 RCT 증거 제한적
@@ -520,6 +533,7 @@ tags: []
 - [[pdrn/chmielewski-2024-aprf-oral-maxillofacial-surgery-sr]] — SR (38 articles, PRISMA): A-PRF reduces postoperative pain, enhances graft integration, improves epithelialization; growth factor release up to 10 days; large blinded RCTs lacking
 
 ## 즉시식립 (Immediate Implant)
+- [[immediate-implant/loading-protocol/misch-2004-rationale-immediate-load-implant-part2]] — Misch 2004 · review · 즉시부하의 생체역학 근거 (임시수복 응력 조절, 2부, 초록만)
 - [[immediate-implant/xing-2024-accuracy-immediate-implantation-digital-guided]] — SR + single-arm MA (7 studies, 215 immediate implants): digital-template-guided IIP accuracy — pooled coronal 0.74 mm, apical 1.01 mm, depth 0.50 mm, angular 2.34°; timing (immediate vs delayed) NS (2024)
 - [[immediate-implant/esthetic-soft-tissue/zadikian-2026-open-healing-immediate-implant-mucosa]] — SR+MA (12 studies, 438 implants): membrane-free open healing during immediate implant placement gives midfacial mucosa stability (MML SMD −0.26, NS) and comparable papilla/MBL/survival vs primary flap closure (2026)
 - [[immediate-implant/loading-protocol/pannuti-2026-loading-timing-edentulous-maxilla-pro]] — SR of 5 prospective studies (121 patients, 724 implants) on immediate vs early/delayed loading in the edentulous maxilla; VAS dominant PROM (80%, 7 PROs) + OHIP/McGill, but 12 clinician-reported outcomes unstandardized — PROM/CROM reporting standardization needed (2026)
@@ -1009,6 +1023,7 @@ tags: []
 - [[interdental-cleaning/almoharib-2024-water-jet-interdental-flossing-orthodontic]] — AlMoharib 2024 · rct (단일맹검 병렬, 고정성 교정장치 환자 n=30, 사우디) — 워터젯 플로싱(water jet, n=18) vs 치실(interdental flossing, n=12) 2주 비교: 두 군 모두 치태·출혈지수 유의 감소하나 군간 유의차 없음(PI p=0.279, BI p=0.172) — 교정환자 보조도구로 동등 (DOI 10.1186/s12903-024-04166-0)
 
 ## 치주치료 (Periodontics)
+- [[periodontics/avila-2009-tooth-retention-or-extraction-decision-chart]] — Avila 2009 · narrative · 치아 보존 vs 발치 6단계 색상 의사결정 차트 (검증 없음, 초록만)
 - [[periodontics/squier-1981-keratinization-sulcular-epithelium]] — Squier 1981 · narrative-review · 열구/접합상피 각화 유도는 투과장벽 강화에 불필요하며 상피부착 상실 위험; 비각화 상피도 투과 저항성 보유 — JE 미분화 상태가 기능적 필수 (DOI 10.1902/jop.1981.52.8.426)
 - [[periodontics/bandiaky-2026-resveratrol-periodontal-disease-systematic-review]] — Bandiaky 2026 · sr (22편: 16 전임상+6 임상 RCT, PRISMA) · **레스베라트롤** 치주 보조요법; 동물서 치조골소실 7.09–60.60%↓·염증/산화지표 개선, 임상은 PPD·BOP·PI·CAL 가변적 개선(소표본·이질성·단기), 인간 방사선골소실 데이터 없음 → 비수술 치주치료 보조 후보(특히 급진성) (DOI 10.3290/j.ohpd.c_2752)
 - [[periodontics/he-2023-demystifying-connection-between-periodontal]] — He 2023 · sr (18편 SR 엄브렐라 리뷰, JBI+PRISMA 2020, PROSPERO) · 만성콩팥병(CKD)-치주질환 양방향 관계; 치주치료가 CKD 예후 개선 가능성, 근거 이질성 큼; 초록기반(PMC 풀텍스트 없음) (DOI 10.1111/jre.13161)
@@ -2359,6 +2374,7 @@ tags: []
 - [[tmj/neff-2021-the-estmjs-european-society-of]] — Neff 2021 · ESTMJS 국제 합의 권고안 · 수정 델파이법 12개국 전문가 22명, 230편 문헌 기반 24개 권고: 히포크라테스법 우선·외사선 엄지 거치; 재발성은 ABI(LoE Ib)→BTX(허가외 잠재 적응증)→수술; GoR A 단 1개(비수술 먼저). 손목축법은 LoE Ib에도 학회 경험 부족으로 미채택
 
 ## 보툴리눔 톡신 — 약물 (Botulinum Toxin / BTX-A)
+- [[botulinum-toxin/dastoor-2007-botulinum-toxin-facial-macroesthetics-review]] — Dastoor 2007 · review · 안면 거시심미를 위한 보툴리눔 톡신: 근육 과기능 주름에만 반응 (초록만)
 - [[botulinum-toxin/de-la-torre-canales-2024-botulinum-toxin-a-myogenous]] — Umbrella review (Drugs 2024, 18 SR): BoNT-A vs M-TMD — 위약보다는 우월·표준치료엔 비우월; 근육·골 부작용 위험으로 "last option" 권고
 - [[botulinum-toxin/coelho-2025-botulinum-toxin-bruxism-overview]] — Overview (Toxins 2025, 14 SR): BoNT-A bruxism — 통증·이갈이 빈도·교합력 감소 보고 多, 13/14가 AMSTAR-2 "critically low", CCA 10.11% 중복 — 단정 불가
 - [[botulinum-toxin/sahin-2024-comparison-effectiveness-botulinum-toxin-dry]] — 4-arm RCT (JOFPH 2024, n=80, 12주, NCT06583551): bruxism myalgia BoNT-A·DN·PT·MT 모두 VAS/MMO/OHIP-14 군간 차이 없음
@@ -2838,6 +2854,9 @@ tags: []
 - [[overviews/nccl-etiology-diagnosis-management-overview]] — 비우식성 치경부 병소(NCCL) 종합 (2026-06-07 신설, 16편): 병인=stress·friction·biocorrosion 다인성(Grippo 2012 schema·Roberts 2022 demineralization), abfraction 단독원인설 미입증(Nascimento 2016) but SEM microfracture 일부 관찰(Worawongvasu 2021); 무증상 ≥6mo monitoring 원칙; 수복 시 유지력=접착·산부식 단계 의존 — universal adhesive E&R≈SEE(Peumans 2023 RCT 251), selective enamel etching 유리(Omoto 2025 RCT 200), self-adhesive flowable 6mo 33% 실패(Celik 2015). 병인·진단·관찰vs수복 의사결정 ladder.
 - [[overviews/treatment-planning-decision-variability-overview]] — **Overview** (11편, 2026-07-18 신설·같은 날 3편 확장): 치료계획 편차 종합 — **이 위키의 182개 결정 사다리가 전부 전제하는 것("술자는 근거대로 결정한다")을 되묻는 메타 페이지**. 테제: 치아의 운명은 치아보다 **술자**로 더 잘 예측된다 — 근관치료 후 근단주위염 표준 방사선사진에서 일반의 발치 17.03% vs 근관전문의 5.3%(OR 4.37, p<0.001), 별도 데이터셋도 5.63 vs 14.69%로 **약 3배 격차 독립 재현**. 중등도 병소 **OR 7.26**이 일반의만 밀고 전문의는 병소크기에 무반응. **"전문의가 옳다"는 이 위키의 근거로 지탱 안 됨**: 보존 정당화로 인용된 의도적 재식 "88–98%"가 현행 SR+MA 실측(성공 **0.78**, 39편 중 **31편 high RoB·low 0편**, 8년 생존 **0.63**)과 어긋남 — 양쪽 다 불확실. 보존 대안 실수치: IR 0.78/0.89, 자가이식 95%/92%·흡수 16%(**둘 다 임플란트 비교 없음**). **AI는 구조적으로 중재 불가** — 발치 결정 민감도 70%인데 기준표준이 "임상의의 관행적 판단"이라 순환; 'AI 치료계획' 27편 중 실제 계획 근거 **3편뿐**; 탐지(0.85)≫결정(0.70); 유일한 건설적 경로는 **합의 조율자**로서의 AI(κ +0.12~0.19). **⭐ 확장으로 논지가 한 층 깊어짐 — 근거는 약한 게 아니라 낙관 쪽으로 잘려 있을 수 있다**: 임플란트 술자 150명에서 중등도 결과를 임상 성공으로 인정 65–71% vs **출판 가능 40–49%**(우수·불량은 두 답 일치) → 문헌으로 기대치를 보정하면 **가운데가 걷힌 표본**으로 보정하는 셈이고, "88–98%" 오인용도 개인 부주의가 아니라 문헌 구조의 산물로 읽힘(**단 태도를 잰 것이지 실제 편향 크기를 잰 것 아님**). 편차의 **기전도 무지가 아님**: 보존술식 채택은 **직접 시행 경험**(OR 2.51)이 높이고 **장벽 인지**(OR 0.29)가 더 강하게 막으며 학년·관찰경험은 무의미 → 지렛대는 정보 배포가 아니라 마찰 제거. **SDM 대안도 막힘**: 경험 적을수록 "SDM은 내 전문성을 의심하게 만든다"(OR 4.20). 공백: **편차↔환자 결과 연구 0편**·**출판 문턱이 실제 성공률을 얼마나 부풀리는지 미측정**·보존vs대체 head-to-head 0편·SDM 개입과 편차 감소를 연결한 시험 0편.
 ## 교합 (Occlusion)
+- [[occlusion/misch-2005-occlusal-trauma-peri-implant-bone-loss-literature]] — Misch 2005 · narrative · 교합 과부하와 임플란트 주위 골소실 (정성적, 초록만)
+- [[occlusion/kim-2005-occlusal-considerations-implant-therapy-guidelines]] — Kim 2005 · guideline · 임플란트 교합 가이드라인 (근거 기반 임플란트 교합 개념 부재 명시, 초록만)
+- [[occlusion/misch-1994-implant-protected-occlusion-biomechanical-rationale]] — Misch 1994 · rationale · "임플란트 보호 교합" 생체역학 근거 (초록만)
 
 ### occlusion — CR / CO / MICP(ICP) 기준위 논쟁 (added 2026-06-26)
 - [[occlusion/kattadiyil-2021-relationship-centric-occlusion-maximal-intercuspal]] — Kattadiyil 2021 · consensus(BECS, abstract-only) · 유치악·부분유치악 대부분 CO와 MIP 불일치; 전악수복은 중심교합(CO)으로 회복 권고; CO–MIP 불일치는 교합불안정·TMD와 연관 (DOI 10.1111/jopr.13316)
