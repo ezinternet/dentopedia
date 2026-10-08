@@ -18,6 +18,14 @@ relations:
     target: kale-2023-blood-disorders-dental-caries
 ---
 
+## Three-line Summary
+
+In vitro pilot study (Biomimetics 2023, n=126: 42 BTM patients, 42 carriers, 42 healthy controls) measuring blood contact angles on Grade 5 titanium (RBM/SBM surface) collected immediately before scheduled transfusion. Despite confirmed significant differences in RBC, hemoglobin (BTM ~10 vs healthy ~14 g/dL), and platelets (BTM ~500 vs healthy ~320 ×10³/µL), no significant between-group difference was found for any contact angle metric (theta-mean BTM 89.98° vs healthy 87.59°, p>0.05). Implant surface characteristics dominate blood rheology in determining initial wettability, removing one theoretical barrier to implant use in BTM while leaving wound healing and bone quality as remaining concerns.
+
+## 세줄요약
+
+인 비트로 파일럿(Biomimetics 2023, n=126: BTM 42명·보인자 42명·정상 42명) — 수혈 직전 Grade 5 티타늄(RBM/SBM 표면)에 대한 혈액 접촉각 측정. BTM 환자는 적혈구·혈색소·혈소판 수치 모두 정상인과 유의하게 다름에도 접촉각(theta-mean) 세 그룹 간 유의차 없음(BTM 89.98° vs 정상 87.59°, p>0.05). 티타늄 표면 특성이 혈액 유변학보다 임플란트 초기 습윤성을 지배함 확인; 혈액학적 장벽은 제거되나 창상 치유 지연·골질 저하는 여전히 고려 필요.
+
 ## One-line Summary
 In vitro pilot study (Biomimetics 2023, n=126) showing no significant difference in blood wettability on Grade 5 titanium implant surfaces between beta-thalassemia major patients, carriers, and healthy controls — suggesting implant surface characteristics dominate over blood rheology differences.
 
