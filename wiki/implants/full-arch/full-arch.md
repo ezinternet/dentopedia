@@ -36,8 +36,6 @@ tags: [navigation, category-index, full-arch]
 | [[aboelez-2026-clinical-and-prosthetic-outcomes-of|Clinical and Prosthetic Outcomes of Titanium Zirconium Versus PEEK Composite Maxillary Fixed Prostheses Opposing Distal Extension Partial Dentures: Comparative Clinical Study]] |
 | [[acar-2026-full-arch-bruxism-complications-4-10yr|Long-term outcomes and complications of full-arch implant-supported fixed prostheses: a 4–10 year retrospective study]] |
 | [[acar-2026-long-term-outcomes-and-complications|Long-term outcomes and complications of full-arch implant-supported fixed prostheses: a 4–10 year retrospective study]] |
-| [[alshahrani-2026-five-year-survival-and-failure|Five-year survival and failure patterns of complete arch fixed implant-supported monolithic zirconia prostheses: A retrospective analysis of 3300 laboratory cases]] |
-| [[alshahrani-2026-full-arch-monolithic-zirconia-prostheses-5year-retrospective|5-Year Survival and Failure Patterns of Full-Arch Monolithic Zirconia CAFIPs: 3300 Laboratory Cases]] |
 | [[alshahrani-2026-zirconia-full-arch-3300-5yr|Five-year survival and failure patterns of complete arch fixed implant-supported monolithic zirconia prostheses: A retrospective analysis of 3300 laboratory cases]] |
 | [[bagnasco-2024-evaluation-of-internal-and-external|Evaluation of Internal and External Hexagon Connections in Immediately Loaded Full-Arch Rehabilitations: A Multicenter Randomized Split-Mouth Controlled Trial With a 6-Year Follow-Up]] |
 | [[baki-2025-all-on-4-trefoil-five-implant-fea|Biomechanical evaluation of three full-arch immediate loading protocols in the mandible via finite element analysis: All-on-4, Trefoil, and Five-implant design]] |
@@ -84,7 +82,6 @@ tags: [navigation, category-index, full-arch]
 | [[papaspyridakos-2026-zirconia-full-arch-140-jaws-8yr|Zirconia full-arch implant-supported prostheses: An up to 8-year retrospective study with 140 jaws from private practice]] |
 | [[pellicer-chover-2013-single-blind-randomized-clinical-trial|Pellicer-Chover 2013 — Single-blind RCT: Immediate vs Delayed Implants for Full-Arch Mandibular Rehabilitation]] |
 | [[pelser-2026-ifcd-long-term-complications-17yr|Technical and biological complications of implant-supported fixed complete dentures: a retrospective cohort study with up to 17 years of follow-up]] |
-| [[pelser-2026-technical-and-biological-complications-of|Technical and biological complications of implant-supported fixed complete dentures: a retrospective cohort study with up to 17 years of follow-up]] |
 | [[pera-2021-evaluation-of-internal-and-external|Evaluation of internal and external hexagon connections in immediately loaded full-arch rehabilitations: A within-person randomized split-mouth controlled trial with a 3-year follow-up]] |
 | [[pozzi-2025-photogrammetry-versus-intraoral-scanning-in|Photogrammetry Versus Intraoral Scanning in Complete-Arch Digital Implant Impression: A Systematic Review and Meta-Analysis]] |
 | [[rapone-2026-italian-consensus-full-arch-grade|Consensus Statement on Full-Arch Implant Rehabilitations: Evidence-Based Recommendations from the Italian Consensus Conference]] |
