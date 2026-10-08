@@ -20,6 +20,8 @@ relations:
     target: izzetti-2024-doac-bleeding-management-tooth-extraction-prospective
   - type: extends
     target: swissdentj-2026-gelatin-sponge-tranexamic-acid-anticoagulated
+  - type: reinforces
+    target: xiang-2026-continuous-interrupted-doac-minimal-bleeding-sr-ma
 ---
 
 ## Three-line Summary
