@@ -16,7 +16,7 @@ text_filename: misch-2001-bioengineered-implant-predetermined-bone-response.txt
 
 ## Why Ingested
 
-The wiki's bone-quality and strain-related pages need the bioengineering rationale behind a load-tuned implant design. This Misch et al. 2001 paper combines a strain-based review with a two-implant, one-year case report, and it is the source for the claim that implant design can set the bone's remodeling response at the interface.
+The wiki's bone-quality and strain-related pages need the bioengineering rationale behind a load-tuned implant design. This Misch et al. 2001 paper combines a strain-based review with a two-implant, one-year case report, and it is the source for the claim that implant design can set the bone's remodeling response at the interface. Related wiki pages: [[overviews/implant-design-bone-quality-stress-fea]], [[overviews/bone-quality-implant-risk-modification-overview]].
 
 ## Three-line Summary
 
