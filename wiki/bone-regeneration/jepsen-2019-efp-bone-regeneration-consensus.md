@@ -5,7 +5,7 @@ year: 2019
 date: 2019-06-01
 doi: 10.1111/jcpe.13121
 pmid: 31038223
-source: sources/jepsen-2019-efp-bone-regeneration-consensus.md
+source: jepsen-2019-efp-bone-regeneration-consensus.md
 category: bone-regeneration
 evidence_level: consensus
 source_collection: pubmed-abstract
