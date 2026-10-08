@@ -93,7 +93,7 @@ Bone quality assessment and prosthetic material selection are independent determ
 
 - [[wiki/implants/full-arch/figueiredo-2025-all-on-four-overview-sr]] — overview SR with pooled All-on-4 CSR 94.8–99.3%; this study adds bone-type stratification
 - [[wiki/implants/full-arch/shao-2026-all-on-four-vs-all-on-six-sr-ma]] — SR+MA noting zirconia fewer mechanical complications than acrylic
-- [[wiki/implants/full-arch/alshahrani-2026-full-arch-monolithic-zirconia-prostheses-5year-retrospective]] — zirconia CAFIP 5-year laboratory data
+- [[wiki/implants/full-arch/alshahrani-2026-zirconia-full-arch-3300-5yr]] — zirconia CAFIP 5-year laboratory data
 - [[wiki/implants/munjal-2015-implants-low-density-bone-d3d4]] — implant behavior in D3/D4 low-density bone
 
 ## 7. Glossary
