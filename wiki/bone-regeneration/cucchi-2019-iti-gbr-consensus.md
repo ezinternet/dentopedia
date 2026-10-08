@@ -4,7 +4,7 @@ authors: "Alessandro Cucchi, Andrea Chierico, Filippo Fontana, Fabio Mazzocco, C
 year: 2019
 date: 2019-01-01
 doi: "10.1097/ID.0000000000000909"
-source: "Implant Dentistry"
+source: cucchi-2019-iti-gbr-consensus.md
 category: bone-regeneration
 evidence_level: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/cucchi-2019-iti-gbr-consensus.pdf
