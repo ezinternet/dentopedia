@@ -2,7 +2,7 @@
 title: "보툴리눔 독소 — botulinum-toxin"
 authors: navigation
 year: 2026
-date: 2026-10-01
+date: 2026-10-08
 doi: N/A
 source: navigation
 category: botulinum-toxin
@@ -15,20 +15,20 @@ tags: [navigation, category-index, botulinum-toxin]
 > [!summary] 한국어 핵심요약
 > - **분야**: 보툴리눔 독소
 > - **범위**: Botulinum toxin type A (BoNT-A) for bruxism, TMD/myogenous pain, gummy smile, lip aesthetics; injection landmarks, dosing, longevity
-> - **수록 논문**: 28편
+> - **수록 논문**: 29편
 
 ## Three-line Summary
 
 **Scope**: Botulinum toxin type A (BoNT-A) for bruxism, TMD/myogenous pain, gummy smile, lip aesthetics; injection landmarks, dosing, longevity
-**Indexed papers**: 28 papers in `wiki/botulinum-toxin/`.
+**Indexed papers**: 29 papers in `wiki/botulinum-toxin/`.
 
 ## 세줄요약
 
 **분야**: 보툴리눔 독소
-**수록 논문**: 28편
+**수록 논문**: 29편
 **하위 카테고리**: 없음
 
-## Papers in this Category (28)
+## Papers in this Category (29)
 
 | Paper |
 |---|
@@ -39,6 +39,7 @@ tags: [navigation, category-index, botulinum-toxin]
 | [[angelo-2026-incobotulinumtoxina-standardized-protocol-myogenous-tmd|IncobotulinumtoxinA Using a Standardized Protocol for Myogenous TMD: 12-Month Retrospective Observational Study]] |
 | [[bae-2025-ultrasonographic-assessment-lateral-pterygoid-muscle|Ultrasonographic assessment of the lateral pterygoid muscle for BoNT-A injection]] |
 | [[coelho-2025-botulinum-toxin-bruxism-overview|Botulinum Toxin for Bruxism: An Overview]] |
+| [[dastoor-2007-botulinum-toxin-facial-macroesthetics-review|Botulinum toxin (Botox) to enhance facial macroesthetics: a literature review]] |
 | [[de-la-torre-canales-2024-botulinum-toxin-a-myogenous|Botulinum Toxin-A for the Treatment of Myogenous Temporomandibular Disorders: An Umbrella Review of Systematic Reviews]] |
 | [[de-souza-nobre-2024-temporalis-muscle-changes-following|Temporalis Muscle Changes Following Botulinum Toxin A Injections in Masseter Hypertrophy Patients: A Randomized Triple-Blinded Trial]] |
 | [[deng-2023-osseointegration-titanium-implants-botox-induced|Osseointegration of Titanium Implants in a Botox-Induced Muscle Paralysis Rat Model Is Sensitive to Surface Topography and Semaphorin 3A Treatment]] |
