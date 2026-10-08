@@ -16,7 +16,7 @@ text_filename: fish-2000-mandibular-bone-growth-hydroxyapatite-subperiosteal-cas
 
 ## Why Ingested
 
-The wiki has few sources on subperiosteal implants, which are an alternative for severely atrophic jaws (see the full-arch and bone-quality pages). This Fish and Misch 2000 paper gives the design history of the tripodal mandibular subperiosteal implant and a case of apparent bone growth around a hydroxylapatite-coated version, and it is ingested for that historical and case-level record.
+The wiki has few sources on subperiosteal implants, which are an alternative for severely atrophic jaws (see the full-arch and bone-quality pages). This Fish and Misch 2000 paper gives the design history of the tripodal mandibular subperiosteal implant and a case of apparent bone growth around a hydroxylapatite-coated version, and it is ingested for that historical and case-level record. Related wiki pages: [[overviews/severe-atrophy-graftless-rehabilitation-ladder]].
 
 ## Three-line Summary
 
