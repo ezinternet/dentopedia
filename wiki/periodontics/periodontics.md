@@ -2,7 +2,7 @@
 title: "치주치료 — periodontics"
 authors: navigation
 year: 2026
-date: 2026-09-25
+date: 2026-10-08
 doi: N/A
 source: navigation
 category: periodontics
@@ -16,21 +16,21 @@ tags: [navigation, category-index, periodontics]
 > - **분야**: 치주치료
 > - **범위**: Periodontal disease, classification, regeneration/root-coverage, SPT, periodontal-systemic links, general periodontics not covered by a subcategory.
 > - **하위 카테고리**: [[host-modulation]] · [[non-surgical-instrumentation]] · [[oral-hygiene-instruction]]
-> - **수록 논문**: 77편
+> - **수록 논문**: 79편
 
 ## Three-line Summary
 
 **Scope**: Periodontal disease, classification, regeneration/root-coverage, SPT, periodontal-systemic links, general periodontics not covered by a subcategory.
-**Indexed papers**: 77 papers in `wiki/periodontics/`.
+**Indexed papers**: 79 papers in `wiki/periodontics/`.
 **Sub-categories**: [[host-modulation]], [[non-surgical-instrumentation]], [[oral-hygiene-instruction]]
 
 ## 세줄요약
 
 **분야**: 치주치료
-**수록 논문**: 77편
+**수록 논문**: 79편
 **하위 카테고리**: host-modulation, non-surgical-instrumentation, oral-hygiene-instruction
 
-## Papers in this Category (77)
+## Papers in this Category (79)
 
 | Paper |
 |---|
@@ -42,6 +42,7 @@ tags: [navigation, category-index, periodontics]
 | [[apatzidou-2022-cigarette-smoking-periodontal-implant-review|The role of cigarette smoking in periodontal disease and treatment outcomes of dental implant therapy]] |
 | [[arbildo-vega-2024-periodontal-disease-diabetes-mellitus-umbrella|An Umbrella Review of the Association Between Periodontal Disease and Diabetes Mellitus]] |
 | [[arbildo-vega-2026-periodontal-restorative-nccl-gr-sr|Efficacy of combined periodontal-restorative treatment versus periodontal treatment alone for gingival recession associated with non-carious cervical lesions: a systematic review and meta-analysis]] |
+| [[avila-2009-tooth-retention-or-extraction-decision-chart|A novel decision-making process for tooth retention or extraction]] |
 | [[baeza-2020-effect-periodontal-treatment-patients-periodontitis|Effect of periodontal treatment in patients with periodontitis and diabetes: systematic review and meta-analysis]] |
 | [[barboza-2014-dptfe-membrane-keratinized-tissue-rct|Evaluation of a Dense Polytetrafluoroethylene Membrane to Increase Keratinized Tissue: A Randomized Controlled Clinical Trial]] |
 | [[barootchi-2024-autologous-platelet-concentrates-root-coverage|Autologous platelet concentrates in root coverage procedures]] |
@@ -104,6 +105,7 @@ tags: [navigation, category-index, periodontics]
 | [[sharma-2014-endodontic-periodontal-microsurgery-for-combined|Endodontic-periodontal microsurgery for combined endodontic-periodontal lesions: An overview]] |
 | [[simpson-2022-treatment-periodontitis-glycaemic-control-people|Treatment of periodontitis for glycaemic control in people with diabetes mellitus]] |
 | [[solderer-2019-chlorhexidine-rinses-periodontal-surgery|Efficacy of chlorhexidine rinses after periodontal or implant surgery: a systematic review]] |
+| [[squier-1981-keratinization-sulcular-epithelium|Keratinization of the sulcular epithelium--a pointless pursuit?]] |
 | [[srimaneepong-2022-fixed-prosthetic-restorations-periodontal-health|Fixed Prosthetic Restorations and Periodontal Health: A Narrative Review]] |
 | [[stahli-2024-clinical-evaluation-novel-protocol-supportive|Clinical evaluation of a novel protocol for supportive periodontal care: A randomized controlled clinical trial]] |
 | [[tsilingaridis-2026-biofilm-induced-gingivitis-children-adolescents|Dental Biofilm–Induced Gingivitis in Children and Adolescents Without Known Systemic Involvement: A Systematic Review]] |
