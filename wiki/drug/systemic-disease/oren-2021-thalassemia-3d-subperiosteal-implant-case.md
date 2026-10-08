@@ -20,6 +20,14 @@ relations:
     target: temelci-2023-thalassemia-titanium-implant-wettability-pilot
 ---
 
+## Three-line Summary
+
+Case report (J Med Case Rep 2021) of a 39-year-old beta-thalassemia major (BTM) patient with near-complete cortical bone loss from erythroid marrow hyperplasia, treated with full-mouth extraction, maxillary bone resection, and CAD/CAM-designed DMLS-printed Ti-6Al-4V custom subperiosteal implants. Three-year follow-up demonstrated no implant complications, stable occlusion, and restored masticatory and phonetic function, establishing a surgical pathway where conventional endosseous implants are impossible. Perioperative hematological preparation (2 units RBC + 2 units FFP + tranexamic acid + prophylactic antibiotics) was essential given BTM-associated coagulopathy.
+
+## 세줄요약
+
+J Med Case Rep 2021 증례 — 39세 β-지중해빈혈 중증(BTM) 환자에서 적혈구 조혈 과형성으로 피질골 소실로 일반 골내 임플란트 불가, 전악 발치·상악골 절제 후 CAD/CAM DMLS 3D 프린팅 맞춤형 Ti-6Al-4V 골막하임플란트 삽입. 3년 추적에서 임플란트 합병증 없음, 저작·발음 기능 성공적 회복. BTM 환자 수술 시 혈액 전처치(수혈·FFP·트라넥삼산·예방적 항생제) 필수 확인.
+
 ## One-line Summary
 Case report (J Med Case Rep 2021) demonstrating successful rehabilitation of a 39-year-old beta-thalassemia major patient using DMLS-printed custom subperiosteal titanium implants after full-mouth extraction and maxillary resection, with 3-year complication-free follow-up.
 
