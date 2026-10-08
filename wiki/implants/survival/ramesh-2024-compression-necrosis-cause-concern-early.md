@@ -26,6 +26,10 @@ relations:
     target: early-implant-failure-risk-prevention-overview
   - type: reinforces
     target: implant-failure-mechanism-xray-differential-overview
+  - type: counterpoint
+    target: trisi-2011-high-low-implant-torque-histology-sheep
+  - type: counterpoint
+    target: khayat-2011-clinical-outcome-dental-implants-high
 ---
 
 ## Three-line Summary
