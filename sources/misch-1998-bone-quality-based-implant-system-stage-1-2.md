@@ -16,7 +16,7 @@ text_filename: misch-1998-bone-quality-based-implant-system-stage-1-2.txt
 
 ## Why Ingested
 
-Bone-density-specific implant design is a recurring question in the wiki's bone-quality and primary-stability pages. This Misch et al. 1998 report is the early bone-quality-based implant system (four density categories, compression-oriented thread), and its clinical survival figure is the one the wiki needs to see with its limits.
+Bone-density-specific implant design is a recurring question in the wiki's bone-quality and primary-stability pages. This Misch et al. 1998 report is the early bone-quality-based implant system (four density categories, compression-oriented thread), and its clinical survival figure is the one the wiki needs to see with its limits. Related wiki pages: [[overviews/bone-quality-implant-risk-modification-overview]].
 
 ## Three-line Summary
 
