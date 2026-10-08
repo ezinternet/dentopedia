@@ -1,0 +1,8 @@
+Title: A bone quality-based implant system: a preliminary report of stage I & stage II.
+PMID: 9588972
+DOI: 10.1097/00008505-199804000-00004
+Journal: Implant Dentistry 1998;7(1):35-42
+Article type: Journal Article; Review
+
+ABSTRACT (PubMed)
+A system is introduced in which dental implants are specifically designed for containment within four different categories of bone densities. The sizes and the textured surfaces that accompany the gradations of lengths and diameters are standardized for each bone type. A modified thread design focuses on compression of bone rather than on shear, and the geometry of the entire implant body reflects features that are concurrent with a "platform effect." Having been tested by means of finite element analysis and initial animal studies, the results are provided herein for the placement of 364 consecutive implants in five clinical centers on human patients, with surgical survival results of 98.9 percent overall. The initial clinical report of these implants indicates that all bone densities may have similar initial survival rates.
