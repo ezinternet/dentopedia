@@ -12,6 +12,8 @@ tags: [antibiotic-prophylaxis, implant-placement, cochrane, amoxicillin, peri-im
 relations:
   - type: extends
     target: esposito-2013-antibiotics-dental-implant-placement-cochrane
+  - type: contradicts
+    target: momand-2024-antibiotic-prophylaxis-early-implant-failure
 superseded_by: ""
 ---
 
