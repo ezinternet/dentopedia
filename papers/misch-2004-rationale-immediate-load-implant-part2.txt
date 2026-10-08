@@ -1,0 +1,8 @@
+Title: Rationale for the application of immediate load in implant dentistry: part II.
+PMID: 15591992
+DOI: 10.1097/01.id.0000148556.73137.24
+Journal: Implant Dentistry 2004;13(4):310-21
+Article type: Journal Article; Review
+
+ABSTRACT (PubMed)
+Immediate loading of an implant interface has been used for completely and partially edentulous patients. A biomechanical rationale to decrease the initial risk of overload is reasonable, because implant failure and overload has been well established. This article addresses methods to decrease stress to the transitional restoration. Forces may be influenced by patient factors, implant position, cantilever forces, occlusal load direction, occlusal contact intensity, and diet. The surface area of load distribution may be increased by implant size, implant design, and surface condition of the implant body. A blend of these factors affects the amount of stress to the developing implant interface and hence may affect the risk of immediate occlusal loading for implant prostheses.
