@@ -22,6 +22,9 @@ tags:
   - non-submerged
 ---
 
+> [!warning] Superseded (full) → [[implants/loading-protocol/esposito-2009-1-vs-2-stage-implant-placement-cochrane]]
+> 동일 코크란 리뷰의 개정판(pub3). 임상 판단은 최신 페이지를 참조하세요.
+
 ## Three-line Summary
 
 Cochrane SR+MA (5 RCTs, n=239 patients, 761 implants) comparing 1-stage (non-submerged) vs 2-stage (submerged) implant placement with ≥6-month follow-up after loading.
