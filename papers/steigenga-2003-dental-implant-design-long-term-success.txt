@@ -1,0 +1,8 @@
+Title: Dental implant design and its relationship to long-term implant success.
+PMID: 14752967
+DOI: 10.1097/01.id.0000091140.76130.a1
+Journal: Implant Dentistry 2003;12(4):306-17
+Article type: Journal Article; Research Support, Non-U.S. Gov't; Review
+
+ABSTRACT (PubMed)
+The purpose of this review is to evaluate the effects of the biomechanical aspects of dental implant design on the quality and strength of osseointegration, the bone-implant interface, and their relationships to the long-term success of dental implants. The engineering design of implants is based on many interrelated factors, including the geometry of the implant, mechanical properties, and the initial and long-term stability of the implant-tissue interface. There is no one "optimal" design criterion. However, implants can be engineered to maximize strength, interfacial stability, and load transfer by using different materials, surfaces, and thread designs. Limited information is currently available in addressing how implant thread design influences the overall implant success. Therefore, this article reviews and discusses design elements of various dental implant systems currently in use as they affect the quality of osseointegration and their relationship to overall long-term success patterns.
