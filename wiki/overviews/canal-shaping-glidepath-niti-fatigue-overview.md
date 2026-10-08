@@ -109,5 +109,13 @@ ProTaper Gold는 여러 연구에서 "비교군 하한" 역할을 한다. Khalil
 
 - [[endodontics/glide-path/kim-2017-efficiency-niti-glide-path-preparation]] — In-vitro preliminary (artificial teeth, MB2 canals): ProGlider > PathFile = OneG in dentin removal (weight loss, p<0.05); no significant difference in maximum torque or total stress during WaveOne shaping across glide-path instruments — glide-path instrument geometry affects dentin removal efficiency but does not translate to measurable torsional load reduction in this model; small n and canal-size variability limit conclusions (in-vitro, 2017)
 
+### 임상 파절률 (2026-10)
+
+- [[endodontics/shaping/gomes-2021-clinical-fracture-incidence-rotary-reciprocating]] — SR+meta-regression: clinical NiTi fracture incidence rotary vs reciprocating; pooled rates and predictor analysis
+- [[endodontics/shaping/machado-2018-incidence-protaper-universal-system]] — retrospective clinical study: ProTaper Universal fracture incidence in clinical use
+- [[endodontics/shaping/fernandezpazos-2018-fracture-deformation-protaper-next]] — clinical study: ProTaper Next fracture and deformation after clinical use
+- [[endodontics/shaping/bueno-2020-fracture-incidence-waveone-gold-files]] — prospective clinical study: WaveOne Gold fracture incidence
+- [[endodontics/shaping/eskibaglar-2023-fracture-prevalence-instruments-used]] — prospective faculty study: fracture prevalence of NiTi instruments used in root canal treatment
+
 ## Related overviews
 - [[endodontics/irrigation/shalavi-2021-qmix-root-canal-irrigation-overview]] — 근관 세정 단계(shaping 후속 단계)
