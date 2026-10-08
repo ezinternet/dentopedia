@@ -6,7 +6,7 @@ date: 2021-04-12
 doi: "10.1186/s13256-021-02741-5"
 source: oren-2021-thalassemia-3d-subperiosteal-implant-case.md
 category: [drug/systemic-disease]
-confidence: case-report
+evidence_level: case-report
 text_path: /Users/oracleneo/llm-wiki/papers/oren-2021-thalassemia-3d-subperiosteal-implant-case.txt
 text_filename: oren-2021-thalassemia-3d-subperiosteal-implant-case.txt
 source_collection: pubmed-text
