@@ -3,7 +3,7 @@ title: "Comparison of bone loss around submerged and non-submerged implants duri
 authors: ["Verma M", "Pathak AK", "Verma UP", "Patil RK", "Yadav L", "Tiwari AK"]
 year: 2024
 doi: "10.4103/njms.njms_116_22"
-source: "National Journal of Maxillofacial Surgery"
+source: verma-2024-comparison-bone-loss-submerged-nonsubmerged.md
 category: "implants/mbl"
 evidence_level: "rct"
 pdf_path: /Users/oracleneo/llm-wiki/papers/verma-2024-comparison-bone-loss-submerged-nonsubmerged.pdf
