@@ -6,7 +6,7 @@ date: 2023-01-07
 doi: "10.3390/biomimetics8010025"
 source: temelci-2023-thalassemia-titanium-implant-wettability-pilot.md
 category: [drug/systemic-disease]
-confidence: in-vitro
+evidence_level: in-vitro
 text_path: /Users/oracleneo/llm-wiki/papers/temelci-2023-thalassemia-titanium-implant-wettability-pilot.txt
 text_filename: temelci-2023-thalassemia-titanium-implant-wettability-pilot.txt
 source_collection: pubmed-text
