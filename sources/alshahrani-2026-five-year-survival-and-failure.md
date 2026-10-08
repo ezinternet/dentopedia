@@ -19,6 +19,14 @@ tags: [zirconia, monolithic, framework-fracture, 3Y-TZP, failure-mode, laborator
 - All-on-x cohort sweep: largest single-source laboratory dataset (n=3300) for full-arch monolithic zirconia survival
 - Connects to existing zirconia full-arch wiki pages: [[implants/full-arch/alshahrani-2026-zirconia-full-arch-3300-5yr]] (existing abstract/partial entry), [[implants/full-arch/papaspyridakos-2026-zirconia-full-arch-140-jaws-8yr]] (CSSA ≥80mm² threshold), [[implants/full-arch/tirone-2025-cad-parameters-cantilever-fracture]] (cantilever CAD parameters), [[implants/full-arch/bishti-2026-veneering-design-full-arch-sr]] (chipping SR), [[implants/full-arch/pelser-2026-ifcd-long-term-complications-17yr]] (17-yr complication profile)
 
+## Three-line Summary
+
+Retrospective cross-sectional study (J Prosthodont 2026, n=3300 monolithic zirconia complete arch fixed implant-supported prostheses, 5-year life table) from a single Dubai commercial dental laboratory. Five-year cumulative survival was 91.67%, with escalating annual failures (2→14 events/year); framework fractures comprised 90.5% of all failures, with 89.5% associated with vertical prosthetic space deficiency (CSSA <80 mm² or posterior space <10 mm). Ti cylinder debonding and fracture were zero, and ceramic chipping occurred only with occlusal veneering.
+
+## 세줄요약
+
+후향적 단면 연구(J Prosthodont 2026, 두바이 단일 기공소, n=3300개 모놀리식 지르코니아 전악 고정성 보철, 5년 생명표). 5년 누적 생존율 91.67%, 연간 실패 건수 2→14건으로 가속화; 프레임워크 파절이 전체 실패의 90.5%, 파절의 89.5%에서 수직 보철 공간 부족(CSSA <80mm² 또는 후방 <10mm) 확인. Ti 실린더 탈착·파절은 0건, 파절은 교합면 비니어링 시에만 발생.
+
 ## Abstract
 
 This retrospective cross-sectional study analyzed 3300 screw-retained 3Y-TZP monolithic zirconia complete arch fixed implant-supported prostheses (CAFIPs) from a Dubai commercial dental laboratory (August 2019–August 2024). Maxillary n=1900, mandibular n=1400. Porcelain veneering limited to gingival zone. Life table survival analysis excluding clinician/patient-driven remakes. 5-year cumulative survival 91.67%. Escalating failure trend: Year 1: 2 events → Year 5: 14 events. Framework fractures n=38 (90.5% of failures), 89.5% associated with insufficient vertical space (<10mm posterior, CSSA <80mm²). Ceramic chipping n=4 (mandibular, excessive veneering). Zero Ti cylinder debonding/fracture. Screw loosening n=12, fracture n=2 (maintenance events).
