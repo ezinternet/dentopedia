@@ -1,0 +1,16 @@
+Title: Use of cone beam computed tomography in implant dentistry: the International Congress of Oral Implantologists consensus report.
+PMID: 22382748
+DOI: 10.1097/ID.0b013e31824885b5
+Journal: Implant Dentistry 2012;21(2):78-86
+Article type: Consensus Statement
+
+ABSTRACT (PubMed)
+The International Congress of Oral Implantologists has supported the development of this consensus report involving the use of Cone Beam Computed Tomography (CBCT) in implant dentistry with the intent of providing scientifically based guidance to clinicians regarding its use as an adjunct to traditional imaging modalities.
+
+The literature regarding CBCT and implant dentistry was systematically reviewed. A PubMed search that included studies published between January 1, 2000, and July 31, 2011, was conducted. Oral presentations, in conjunction with these studies, were given by Dr. Erika Benavides, Dr. Scott Ganz, Dr. James Mah, Dr. Myung-Jin Kim, and Dr. David Hatcher at a meeting of the International Congress of Oral Implantologists in Seoul, Korea, on October 6-8, 2011.
+
+The studies published could be divided into four main groups: diagnostics, implant planning, surgical guidance, and postimplant evaluation.
+
+The literature supports the use of CBCT in dental implant treatment planning particularly in regards to linear measurements, three-dimensional evaluation of alveolar ridge topography, proximity to vital anatomical structures, and fabrication of surgical guides. Areas such as CBCT-derived bone density measurements, CBCT-aided surgical navigation, and postimplant CBCT artifacts need further research.
+
+ICOI RECOMMENDATIONS: All CBCT examinations, as all other radiographic examinations, must be justified on an individualized needs basis. The benefits to the patient for each CBCT scan must outweigh the potential risks. CBCT scans should not be taken without initially obtaining thorough medical and dental histories and performing a comprehensive clinical examination. CBCT should be considered as an imaging alternative in cases where the projected implant receptor or bone augmentation site(s) are suspect, and conventional radiography may not be able to assess the true regional three-dimensional anatomical presentation. The smallest possible field of view should be used, and the entire image volume should be interpreted.
