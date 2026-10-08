@@ -84,15 +84,19 @@ def main():
         if f.endswith(".pdf") or f.endswith(".txt")
     }
 
-    # pubmed-abstract sources는 로컬 아티팩트(PDF/txt)가 없는 초록 전용 인제스트 — 1:1 체크 면제.
-    # full_text: false 소스도 면제: PDF 없이 인제스트된(abstract/partial) 경우
-    # pdf_path가 frontmatter에 있어도 실제 파일이 없는 것이 정상이다.
+    # PDF 없이 인제스트된 소스는 1:1 체크 면제:
+    #   pubmed-abstract: 초록 전용
+    #   pubmed-text: PubMed 전문텍스트 (PDF 미다운로드)
+    #   pmc: PMC 전문텍스트 (PDF 미다운로드)
+    #   external: Obsidian Copilot 등 로컬 모델 인제스트
+    #   full_text: false: abstract/partial 인제스트
+    NO_PDF_COLLECTIONS = {"pubmed-abstract", "pubmed-text", "pmc", "external"}
     all_src_fnames = [f for f in os.listdir(SOURCES_DIR) if f.endswith(".md")]
     srcs = {_stem_nfc(f) for f in all_src_fnames}
     abstract_only_stems = {
         _stem_nfc(f)
         for f in all_src_fnames
-        if _source_collection(f) == "pubmed-abstract" or _full_text_false(f)
+        if _source_collection(f) in NO_PDF_COLLECTIONS or _full_text_false(f)
     }
 
     # CI short-circuit: PDFs are gitignored, so a CI checkout never has the
