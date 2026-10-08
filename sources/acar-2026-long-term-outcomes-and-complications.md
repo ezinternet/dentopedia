@@ -26,3 +26,11 @@ ingested_date: "2026-10-07"
   - [[wiki/implants/full-arch/topdagi-2026-all-on-4-bone-type-outcomes]] — material comparison: monolithic zirconia 8.9% vs metal-acrylic 26.9% prosthetic complications; zirconia superior
   - [[wiki/implants/full-arch/de-araujo-nobre-2026-maxillary-all-on-four-15-20yr]] — maxillary All-on-4 20yr: mechanical complications in 78.5%, biological in 35.1% — long-term complication burden context
   - [[implants/full-arch/shao-2026-all-on-four-vs-all-on-six-sr-ma]] — SR+MA: complications ~6% each for AoF vs Ao6 at pooled level (vs much higher rates here — population and definition differences)
+
+## Three-line Summary
+
+Retrospective cohort study (BMC Oral Health 2026, n=24 patients, 34 arches, 180 implants, mean follow-up ~5 years) evaluating full-arch implant-supported FDP outcomes over 4–10 years. Cumulative prosthesis survival was 80% at 5 years and 60% at 10 years; complication-free success dropped to 14.7% by year 5 with a median complication-free time of 3 years. Probable bruxism was significantly associated with chipping (p=0.049) and higher minor complication rate in the mandible (p=0.015), while cantilever length and material type did not significantly influence marginal bone loss.
+
+## 세줄요약
+
+후향적 코호트(BMC Oral Health 2026, n=24명, 34악, 180개 임플란트, 평균 추적 ~5년) — 전악 임플란트 지지 고정성 보철물(FDP) 4–10년 장기 결과 평가. 보철 누적 생존율 5년 80%·10년 60%; 합병증 없는 성공률은 5년 14.7%로 저하, 중앙 합병증 무발생 기간 3년. 이갈이(추정)는 보철재 파절(p=0.049)·하악 경미 합병증 발생률(p=0.015)과 유의하게 연관; 캔틸레버 길이·소재 종류는 변연골 소실에 유의미한 영향 없음.
