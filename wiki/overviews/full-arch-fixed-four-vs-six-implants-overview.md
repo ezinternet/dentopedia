@@ -572,13 +572,13 @@ The six dimensions are compatible once framed correctly. **Equivalent survival i
 **Survival and complications (long-term):**
 - [[implants/full-arch/gaonkar-2021-survival-rates-of-axial-and]] — SR: axial vs tilted implants in All-on-4; equivalent survival
 - [[implants/full-arch/acar-2026-long-term-outcomes-and-complications]] — retrospective 4–10yr: full-arch long-term outcomes and complications
-- [[implants/full-arch/pelser-2026-technical-and-biological-complications-of]] — retrospective ≤17yr: technical and biological complications of implant-supported fixed complete dentures [alt stem]
+- [[implants/full-arch/pelser-2026-ifcd-long-term-complications-17yr]] — retrospective ≤17yr: technical and biological complications of implant-supported fixed complete dentures (→ see Axis 4 for detailed analysis)
 
 **Prosthetic material — connection design:**
 - [[implants/full-arch/pera-2021-evaluation-of-internal-and-external]] — split-mouth RCT 3yr: internal vs external hex connections in immediately loaded full-arch; comparable outcomes
 - [[implants/full-arch/bagnasco-2024-evaluation-of-internal-and-external]] — multicenter split-mouth RCT 6yr: internal vs external hex; no clinically relevant difference
 - [[implants/full-arch/aboelez-2026-clinical-and-prosthetic-outcomes-of]] — comparative clinical study: TiZr vs PEEK composite maxillary fixed prostheses opposing partial denture
-- [[implants/full-arch/alshahrani-2026-five-year-survival-and-failure]] — 3300 lab cases 5yr: monolithic zirconia complete arch 91.67% survival; fracture risk → insufficient space [alt stem]
+- [[implants/full-arch/alshahrani-2026-zirconia-full-arch-3300-5yr]] — 3300 lab cases 5yr: monolithic zirconia complete arch 91.67% survival; fracture risk → insufficient space (→ see Axis 4 for detailed analysis)
 
 **Digital impression and workflow:**
 - [[implants/full-arch/cappare-2019-conventional-versus-digital-impressions-for]] — RCT: conventional vs digital impressions for full-arch maxillary rehabilitation; digital non-inferior
