@@ -6,7 +6,7 @@ date: 2022-06-22
 doi: 10.1111/clr.13933
 pmid: 35488477
 pmcid: PMC9541021
-source: sources/macbeth-2022-alveolar-ridge-preservation-guided-bone-regeneration-socket-seal.md
+source: macbeth-2022-alveolar-ridge-preservation-guided-bone-regeneration-socket-seal.md
 category: bone-regeneration/ridge-preservation
 evidence_level: rct
 pdf_path: ""
