@@ -2,7 +2,7 @@
 title: "디지털워크플로우 — digital-workflow"
 authors: navigation
 year: 2026
-date: 2026-09-04
+date: 2026-10-08
 doi: N/A
 source: navigation
 category: digital-workflow
@@ -15,20 +15,20 @@ tags: [navigation, category-index, digital-workflow]
 > [!summary] 한국어 핵심요약
 > - **분야**: 디지털워크플로우
 > - **범위**: IOS accuracy, CBCT, CAD/CAM, guided surgery
-> - **수록 논문**: 48편
+> - **수록 논문**: 49편
 
 ## Three-line Summary
 
 **Scope**: IOS accuracy, CBCT, CAD/CAM, guided surgery
-**Indexed papers**: 48 papers in `wiki/digital-workflow/`.
+**Indexed papers**: 49 papers in `wiki/digital-workflow/`.
 
 ## 세줄요약
 
 **분야**: 디지털워크플로우
-**수록 논문**: 48편
+**수록 논문**: 49편
 **하위 카테고리**: 없음
 
-## Papers in this Category (48)
+## Papers in this Category (49)
 
 | Paper |
 |---|
@@ -36,6 +36,7 @@ tags: [navigation, category-index, digital-workflow]
 | [[alkadi-2023-intraoral-scanner-accuracy-factors|A Comprehensive Review of Factors That Influence the Accuracy of Intraoral Scanners]] |
 | [[altalhi-2023-artificial-intelligence-impact-dental-implantology|The Impact of Artificial Intelligence on Dental Implantology: A Narrative Review]] |
 | [[aminoshariae-2024-ai-endodontic-education-scoping|Artificial Intelligence in Endodontic Education]] |
+| [[benavides-2012-cbct-implant-dentistry-icoi-consensus|Use of cone beam computed tomography in implant dentistry: the International Congress of Oral Implantologists consensus report]] |
 | [[buhl-2025-intraoral-scanner-full-arch-accuracy-invitro|Accuracy of current IOS for full-arch impressions: in vitro study]] |
 | [[chen-2025-robot-assisted-dynamic-navigation-accuracy|Accuracy of a Semi-Autonomous Robot vs Dynamic Navigation for Implant Placement: A Retrospective Study]] |
 | [[chi-2026-deep-learning-periapical-radiograph-quality|Deep learning-based assessment of periapical radiographic image quality]] |
