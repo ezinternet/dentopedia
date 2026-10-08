@@ -3,7 +3,7 @@ title: "Dimensional Changes of the Peri-Implant Mucosa Applying a Suture-Free Wo
 authors: "Im S et al."
 year: 2026
 doi: "10.1111/jcpe.70200"
-source: "sources/im-2026-suture-free-wound-closure-healing-abutment-rct.md"
+source: "im-2026-suture-free-wound-closure-healing-abutment-rct.md"
 category: suture-wound-closure
 evidence_level: rct
 pdf_path: ""
