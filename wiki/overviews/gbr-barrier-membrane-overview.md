@@ -432,6 +432,12 @@ Conventional membranes have a ~26% pooled complication rate (Liu 2026). Current 
 - [[bone-regeneration/li-2025-application-of-collagen-in-bone]] — Narrative review; Type I collagen structure/degradation biology and composite-scaffold strategies underlying the collagen membrane class; rhBMP-2/ACS as the key FDA-approved precedent (Axis 8)
 - [[bone-regeneration/park-2022-collagen-membrane-fixation-ridge-volume]] — Animal study (8 beagles, split-mouth); membrane fixation does not improve total augmented volume for either of two non-cross-linked collagen membranes tested, but shows a membrane-type-dependent coronal-width effect — fixation is not universally necessary (Axis 8)
 
+### 신규 추가 (2026-10)
+
+- [[bone-regeneration/cucchi-2019-iti-gbr-consensus]] — ITI GBR consensus (Bologna 2016): statements and recommendations for GBR; membrane selection, space maintenance, staged vs simultaneous placement
+- [[bone-regeneration/jepsen-2019-efp-bone-regeneration-consensus]] — EFP 15th Workshop consensus: alveolar ridge defect regeneration; evidence-based recommendations across defect types
+- [[implants/survival/jung-2021-gbr-22-24-year-maintenance-cohort]] — prospective controlled trial 22–24yr: implants placed with simultaneous GBR using resorbable vs non-resorbable membranes; long-term clinical and radiographic outcomes
+
 ### Related overviews
 
 - [[overviews/gbr-barrier-membrane-exposure-axis]] — sibling overview; the complementary **failure-mode-centric** synthesis. Where this page organizes membranes by material/classification/space-maintenance and the bioactive/synthetic frontier, that page centers on membrane **exposure** as the dominant GBR complication and the flap-design/closure strategies (PASS, periosteal release, advancement flaps) that prevent it. Son 2026's zero-exposure 3D-PLGA result and the PASS "P" principle (Axis 3) are the natural bridges between the two.
