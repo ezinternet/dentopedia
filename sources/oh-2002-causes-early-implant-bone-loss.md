@@ -16,7 +16,7 @@ text_filename: oh-2002-causes-early-implant-bone-loss.txt
 
 ## Why Ingested
 
-The `implants/mbl` folder asks what drives early crestal bone loss, and this Oh et al. 2002 review ranks six hypothesized causes. It is the earliest source in the wiki that sets out the competing etiologies (surgical trauma, occlusal overload, peri-implantitis, microgap, biologic width, crest module), and later MBL papers should be read against it.
+The `implants/mbl` folder asks what drives early crestal bone loss, and this Oh et al. 2002 review ranks six hypothesized causes. It is the earliest source in the wiki that sets out the competing etiologies (surgical trauma, occlusal overload, peri-implantitis, microgap, biologic width, crest module), and later MBL papers should be read against it. Related wiki pages: [[implants/mbl/mbl]], [[overviews/implant-failure-mbl-risk-factors-overview]].
 
 ## Three-line Summary
 
