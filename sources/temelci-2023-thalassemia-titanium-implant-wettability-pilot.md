@@ -22,6 +22,14 @@ relations:
 ## Why Ingested
 β-지중해빈혈(Beta-Thalassemia Major, BTM) 환자에서 임플란트 성공을 위협하는 생물학적 요인(혈색소 감소→조직 산소화 저하, 혈소판 증가→혈류 관류 장애)이 티타늄 표면 습윤성에 영향을 주는지 검증한 첫 파일럿 연구. [[drug/systemic-disease/kale-2023-blood-disorders-dental-caries]]에서 개요적으로 언급된 BTM 임플란트 위험을 in vitro 실험으로 부분 반증하며, BTM 환자 임플란트 의사결정에 중요한 기초 데이터를 제공한다.
 
+## Three-line Summary
+
+In vitro pilot study (Biomimetics 2023, n=126: 42 BTM patients, 42 carriers, 42 healthy controls) measuring blood contact angles on Grade 5 titanium (RBM/SBM surface) collected immediately before scheduled transfusion. Despite confirmed significant differences in RBC, hemoglobin (BTM ~10 vs healthy ~14 g/dL), and platelets (BTM ~500 vs healthy ~320 ×10³/µL), no significant between-group difference was found for any contact angle metric (theta-mean BTM 89.98° vs healthy 87.59°, p>0.05). Implant surface characteristics dominate blood rheology in determining initial wettability, removing one theoretical barrier to implant use in BTM while leaving wound healing and bone quality as remaining concerns.
+
+## 세줄요약
+
+인 비트로 파일럿(Biomimetics 2023, n=126: BTM 42명·보인자 42명·정상 42명) — 수혈 직전 Grade 5 티타늄(RBM/SBM 표면)에 대한 혈액 접촉각 측정. BTM 환자는 적혈구·혈색소·혈소판 수치 모두 정상인과 유의하게 다름에도 접촉각(theta-mean) 세 그룹 간 유의차 없음(BTM 89.98° vs 정상 87.59°, p>0.05). 티타늄 표면 특성이 혈액 유변학보다 임플란트 초기 습윤성을 지배함 확인; 혈액학적 장벽은 제거되나 창상 치유 지연·골질 저하는 여전히 고려 필요.
+
 ## One-line Summary
 Pilot study (Biomimetics 2023, n=42 BTM + 42 carriers + 42 healthy) finding no significant difference in blood wettability on Grade 5 titanium implant surfaces between beta-thalassemia major patients and healthy controls (p > 0.05 for all contact angle metrics).
 
