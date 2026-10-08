@@ -16,7 +16,7 @@ text_filename: bidez-1992-force-transfer-implant-dentistry-basic-concepts.txt
 
 ## Why Ingested
 
-The implant biomechanics pages in the wiki need a primer on force, moment and stress-strain concepts. This Bidez and Misch 1992 primer is the basic-concept source that the later design and overload sources assume, so it is ingested as the foundational biomechanics reference for `implants`.
+The implant biomechanics pages in the wiki need a primer on force, moment and stress-strain concepts. This Bidez and Misch 1992 primer is the basic-concept source that the later design and overload sources assume, so it is ingested as the foundational biomechanics reference for `implants`. Related wiki pages: [[overviews/implant-occlusion-loading-biomechanics-overview]].
 
 ## Three-line Summary
 
