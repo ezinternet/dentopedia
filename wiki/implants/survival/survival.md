@@ -15,20 +15,20 @@ tags: [navigation, category-index, survival]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·생존율·실패위험
 > - **범위**: Implant survival/failure as the outcome, and what predicts it — long-term cumulative survival cohorts & SR/MA; **habit** risk (smoking level/cessation, tobacco & smoke-free products, bruxism); **systemic/host** risk (diabetes, hypertension, osteoporosis & PTH, Sjögren, autoimmune & systemic sclerosi…
-> - **수록 논문**: 57편
+> - **수록 논문**: 58편
 
 ## Three-line Summary
 
 **Scope**: Implant survival/failure as the outcome, and what predicts it — long-term cumulative survival cohorts & SR/MA; **habit** risk (smoking level/cessation, tobacco & smoke-free products, bruxism); **systemic/host** risk (diabetes, hypertension, osteoporosis & PTH, Sjögren, autoimmune & systemic sclerosis, head-and-neck radiotherapy, medications/polypharmacy affecting osseointegration); early-failure risk-factor studies & failure-rate umbrella reviews; evidence-quality appraisal bound to this literature (sponsorship bias, risk-of-bias in smoker SRs); management of the failed implant (explantation/retrieval technique).
-**Indexed papers**: 57 papers in `wiki/implants/survival/`.
+**Indexed papers**: 58 papers in `wiki/implants/survival/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·생존율·실패위험
-**수록 논문**: 57편
+**수록 논문**: 58편
 **하위 카테고리**: 없음
 
-## Papers in this Category (57)
+## Papers in this Category (58)
 
 | Paper |
 |---|
@@ -65,6 +65,7 @@ tags: [navigation, category-index, survival]
 | [[kindaro-2026-parathyroid-hormone-implant-osseointegration-osteoporosis-sr|The impact of parathyroid hormone supplementation on dental implant osseointegration in osteoporotic subjects: A systematic review]] |
 | [[marty-2024-implant-treated-periodontitis-sr-ma|Implant Health in Treated Periodontitis Patients: A Systematic Review and Meta-Analysis]] |
 | [[meza-mauricio-2019-diabetes-implant-failure-peri-implant|An Umbrella Review on the Effects of Diabetes on Implant Failure and Peri-Implant Diseases]] |
+| [[misch-1998-implant-quality-scale-health-disease-continuum|The implant quality scale: a clinical assessment of the health--disease continuum]] |
 | [[misch-2008-implant-success-survival-failure-icoi-pisa|Implant success, survival, and failure: the International Congress of Oral Implantologists (ICOI) Pisa Consensus Conference]] |
 | [[mosaddad-2023-dental-implants-systemic-sclerosis-sr|Oral rehabilitation with dental implants in patients with systemic sclerosis: A systematic review]] |
 | [[moy-2005-dental-implant-failure-rates-risk|Dental Implant Failure Rates and Associated Risk Factors (Moy 2005)]] |
