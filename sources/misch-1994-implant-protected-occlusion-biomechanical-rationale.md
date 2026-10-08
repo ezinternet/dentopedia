@@ -16,7 +16,7 @@ text_filename: misch-1994-implant-protected-occlusion-biomechanical-rationale.tx
 
 ## Why Ingested
 
-The occlusion folder needs the implant-specific occlusal schema that Misch proposed, which sits alongside the controversy and guideline sources. This Misch and Bidez 1994 paper sets out "implant-protected occlusion" as a biomechanical occlusal philosophy, so the wiki can show the origin of the schema before the later critiques.
+The occlusion folder needs the implant-specific occlusal schema that Misch proposed, which sits alongside the controversy and guideline sources. This Misch and Bidez 1994 paper sets out "implant-protected occlusion" as a biomechanical occlusal philosophy, so the wiki can show the origin of the schema before the later critiques. Related wiki pages: [[occlusion/kim-2005-occlusal-considerations-implant-therapy-guidelines]], [[occlusion/occlusion]].
 
 ## Three-line Summary
 
