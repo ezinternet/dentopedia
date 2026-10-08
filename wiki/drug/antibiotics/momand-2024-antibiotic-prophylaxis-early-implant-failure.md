@@ -19,6 +19,8 @@ relations:
     target: torof-2023-antibiotic-dental-implant-procedures-sr-ma
   - type: refines
     target: yari-2023-risk-factors-early-implant-failure
+  - type: contradicts
+    target: esposito-2026-antibiotics-implant-placement-cochrane-pub5
 ---
 
 ## Three-line Summary
