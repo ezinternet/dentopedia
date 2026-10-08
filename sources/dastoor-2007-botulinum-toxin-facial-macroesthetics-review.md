@@ -16,7 +16,7 @@ text_filename: dastoor-2007-botulinum-toxin-facial-macroesthetics-review.txt
 
 ## Why Ingested
 
-The wiki's botulinum-toxin folder covers clinical uses of botulinum toxin, and this Dastoor, Misch and Wang 2007 review is the implant-practice source on facial macroesthetic indications. It is ingested as the esthetic-adjunct counterpart to dental-implant esthetics, scoped to the abstract.
+The wiki's botulinum-toxin folder covers clinical uses of botulinum toxin, and this Dastoor, Misch and Wang 2007 review is the implant-practice source on facial macroesthetic indications. It is ingested as the esthetic-adjunct counterpart to dental-implant esthetics, scoped to the abstract. Related wiki pages: [[botulinum-toxin/botulinum-toxin]].
 
 ## Three-line Summary
 
