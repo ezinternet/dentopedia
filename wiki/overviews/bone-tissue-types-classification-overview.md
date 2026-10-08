@@ -9,6 +9,9 @@ source_papers:
   - wiki/bone-regeneration/ridge-preservation/trombelli-2008-modeling-remodeling-human-extraction-sockets.md
   - wiki/implants/raghavan-2025-bone-density-implant-dentistry-review.md
   - wiki/implants/surface/bosshardt-2017-osseointegration-titanium-zirconia-review.md
+  - wiki/bone-biology/chang-2021-osteon-structure-turnover-regeneration.md
+  - wiki/bone-biology/franchi-2005-peri-implant-osteogenesis-health-osteoporosis.md
+  - wiki/implants/osseodensification/stauber-2024-trabecular-bone-osseodensification-sheep.md
 tags: [bone-biology, cortical-bone, trabecular-bone, woven-bone, lamellar-bone, osseointegration, bone-remodeling]
 ---
 
@@ -45,6 +48,9 @@ The four bone tissue types represent two orthogonal classification dimensions. T
 | [[bone-regeneration/ridge-preservation/trombelli-2008-modeling-remodeling-human-extraction-sockets]] | Human histology (n=27) | Early socket = woven bone with vital osteoblasts; progressive lamellar replacement over 12–24 wk | Woven → lamellar sequence in vivo |
 | [[implants/raghavan-2025-bone-density-implant-dentistry-review]] | Narrative review | D1 >1250 HU = cortical-dominant; D4 = trabecular-dominant; HU thresholds map to Misch classification | Cortical vs trabecular (HU/CBCT) |
 | [[implants/surface/bosshardt-2017-osseointegration-titanium-zirconia-review]] | Review | Stability dip minimized by balanced cortical/trabecular ratio; secondary stability = new bone apposition (lamellar BIC) | Cortical/trabecular balance, lamellar BIC |
+| [[bone-biology/chang-2021-osteon-structure-turnover-regeneration]] | Narrative review (Tissue Eng Part B) | Osteon diameter 100–300 μm; 10–30 lamellae/osteon; BMU cycle 4–6 months; annual cortical turnover 2–5% young adults; LCN mechanosensing drives BMU activation | Cortical bone microstructure, lamellar organization, BMU cycle |
+| [[bone-biology/franchi-2005-peri-implant-osteogenesis-health-osteoporosis]] | Narrative review (Micron) | Day 1: afibrillar calcified layer; Days 3–7: woven bone; Weeks 1–2: reparative trabecular; Weeks 6–12: lamellar; 1 mm peri-implant turnover persists lifelong | Woven → trabecular → lamellar sequence with timeline |
+| [[implants/osseodensification/stauber-2024-trabecular-bone-osseodensification-sheep]] | Animal (sheep, n=12) | %BIC 30.87% (trabecular present) vs 11.42% (absent) at 3 wk (p=0.009); histological woven→lamellar advancement confirmed at 12 wk | Woven vs lamellar bone in vivo quantification; trabecular bone role |
 
 ## Clinical Decision Points
 
@@ -83,3 +89,6 @@ Irandoust-2020 computational data: thread-region bone (lowest shear stimulus) is
 - [[implants/raghavan-2025-bone-density-implant-dentistry-review]] — cortical vs trabecular density mapped to Misch D1–D4 and CBCT HU
 - [[implants/surface/bosshardt-2017-osseointegration-titanium-zirconia-review]] — cortical/trabecular balance and stability dip; lamellar BIC as osseointegration endpoint
 - [[bone-biology/bone-biology]] — bone biology category index
+- [[bone-biology/chang-2021-osteon-structure-turnover-regeneration]] — cortical bone osteon structure detail; BMU turnover parameters; LCN mechanosensing
+- [[bone-biology/franchi-2005-peri-implant-osteogenesis-health-osteoporosis]] — histological timeline of woven→lamellar transition around implants; contact vs distant osteogenesis
+- [[implants/osseodensification/stauber-2024-trabecular-bone-osseodensification-sheep]] — in vivo quantification of trabecular bone's role in woven→lamellar progression with osseodensification
