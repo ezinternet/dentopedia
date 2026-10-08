@@ -18,6 +18,8 @@ tags: [matrix-metalloproteinase, chlorhexidine, hybrid-layer, dentin-bond-durabi
 relations:
   - type: reinforces
     target: breschi-2025-adhesive-dentistry-evolution-review
+  - type: contradicts
+    target: bourgi-2026-chx-pretreatment-clinical-adhesive-restorations-sr-ma
 ---
 
 ## Three-line Summary
