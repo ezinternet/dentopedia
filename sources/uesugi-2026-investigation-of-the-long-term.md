@@ -19,6 +19,14 @@ tags: [zygomatic-implants, all-on-four, long-term, survival, sinusitis, platform
 - All-on-x cohort sweep: largest long-term (3-13 yr) zygomatic + conventional implant cohort (203 patients, 923 implants)
 - Connects to existing zygomatic/all-on-4 wiki pages: [[implants/full-arch/scocca-2026-zygomatic-implants-head-neck-cancer-sr-ma]] (zygomatic SR), [[implants/full-arch/menchini-fabris-2025-zygomatic-full-arch-3yr]] (3-yr zygomatic), [[implants/full-arch/uesugi-2024-risk-factors-early-failure-all-on-four]] (earlier Uesugi early failure paper), [[implants/full-arch/grandi-2025-zygomatic-hybrid-full-arch-1yr]] (hybrid zygomatic), [[implants/full-arch/gianfreda-2025-trans-sinus-full-arch-sr-ma]] (trans-sinus SR)
 
+## Three-line Summary
+
+Retrospective cohort study (Int J Implant Dent 2026, n=203 Japanese patients, 323 zygomatic + 600 conventional implants, mean follow-up 8.3 years, range 3–13) evaluating long-term outcomes of combined zygomatic-conventional full-arch rehabilitation on the All-on-4 concept. Zygomatic implant (ZI) survival (95.9%) was significantly lower than conventional implant (CI) survival (98.7%) at the implant level (p=0.0178); sinusitis was the dominant ZI failure mode (6/9 failure cases, 66.7%). Palatal platform position (HR=18.2, p=0.026) and presence of systemic disease (HR=14.9, p=0.012) were the strongest independent risk factors in multivariable Cox regression.
+
+## 세줄요약
+
+후향적 코호트(Int J Implant Dent 2026, 일본인 n=203명, 광대뼈 임플란트 323개+일반 임플란트 600개, 평균 추적 8.3년, 범위 3–13년) — All-on-4 개념 기반 전악 복합 임플란트 재활 장기 예후 평가. 광대뼈 임플란트(ZI) 생존율(95.9%)이 일반 임플란트(CI, 98.7%)보다 임플란트 레벨에서 유의하게 낮음(p=0.0178); 부비동염이 ZI 실패 증례의 66.7% 차지. 구개 쪽 플랫폼 위치(HR=18.2, p=0.026)와 전신질환(HR=14.9, p=0.012)이 다변량 Cox 회귀에서 최강 독립적 위험 인자.
+
 ## Abstract
 
 This retrospective cohort study investigated the long-term prognosis (3–13 years) of full-mouth implant prosthetics combining zygomatic implants (ZIs) and conventional implants (CIs) based on the all-on-four concept in 203 Japanese patients. A total of 323 ZIs and 600 CIs were placed. Immediate loading with provisional restoration was performed. Final prostheses were titanium frameworks with ceramic or acrylic crowns at 6 months. Follow-up was every 3–6 months. Cumulative survival rates were estimated via Kaplan-Meier. Risk factors analyzed at implant and patient levels using log-rank and Cox regression.
