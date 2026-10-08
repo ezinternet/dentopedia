@@ -16,7 +16,7 @@ text_filename: misch-1993-bone-grafting-materials-implant-dentistry.txt
 
 ## Why Ingested
 
-The `bone-regeneration` folder needs the classical classification of graft materials by mode of action (osteogenic, osteoinductive, osteoconductive), and this Misch and Dietsh 1993 review is the foundational source for that taxonomy. It is ingested as the reference that later graft-material pages can cite for definitions.
+The `bone-regeneration` folder needs the classical classification of graft materials by mode of action (osteogenic, osteoinductive, osteoconductive), and this Misch and Dietsh 1993 review is the foundational source for that taxonomy. It is ingested as the reference that later graft-material pages can cite for definitions. Related wiki pages: [[bone-regeneration/bone-regeneration]], [[overviews/bone-graft-material-selection-matrix-overview]].
 
 ## Three-line Summary
 
