@@ -2,7 +2,7 @@
 title: "교합 — occlusion"
 authors: navigation
 year: 2026
-date: 2026-08-29
+date: 2026-10-08
 doi: N/A
 source: navigation
 category: occlusion
@@ -15,20 +15,20 @@ tags: [navigation, category-index, occlusion]
 > [!summary] 한국어 핵심요약
 > - **분야**: 교합
 > - **범위**: Occlusal analysis (digital/T-Scan vs articulating paper), implant occlusion, occlusal overload, occlusal scheme/adjustment
-> - **수록 논문**: 64편
+> - **수록 논문**: 67편
 
 ## Three-line Summary
 
 **Scope**: Occlusal analysis (digital/T-Scan vs articulating paper), implant occlusion, occlusal overload, occlusal scheme/adjustment
-**Indexed papers**: 64 papers in `wiki/occlusion/`.
+**Indexed papers**: 67 papers in `wiki/occlusion/`.
 
 ## 세줄요약
 
 **분야**: 교합
-**수록 논문**: 64편
+**수록 논문**: 67편
 **하위 카테고리**: 없음
 
-## Papers in this Category (64)
+## Papers in this Category (67)
 
 | Paper |
 |---|
@@ -64,6 +64,7 @@ tags: [navigation, category-index, occlusion]
 | [[jimenez-silva-2017-centric-relation-intercuspal-position-discrepancy|Centric relation-intercuspal position discrepancy and its relationship with temporomandibular disorders. A systematic review]] |
 | [[kattadiyil-2021-relationship-centric-occlusion-maximal-intercuspal|The Relationship Between Centric Occlusion and The Maximal Intercuspal Position and Their Use as Treatment Positions for Complete Mouth Rehabilitation: Best Evidence Consensus Statement]] |
 | [[kiliaridis-2000-vertical-position-rotation-tipping-molars|Vertical position, rotation, and tipping of molars without antagonists]] |
+| [[kim-2005-occlusal-considerations-implant-therapy-guidelines|Occlusal considerations in implant therapy: clinical guidelines with biomechanical rationale]] |
 | [[kuriakose-2024-occlusal-schemes-implant-supported-overdentures|Impact of Occlusal Schemes on Implant-Supported Overdentures]] |
 | [[kwak-2024-masticatory-positioning-occlusal-stability-full-mouth|Effect of masticatory positioning on long-term occlusal stability in patients who underwent full mouth rehabilitation: a 10-year follow-up]] |
 | [[leone-2026-occlusal-overload-and-periodontitis-integrating|Occlusal Overload and Periodontitis: Integrating Mechanisms, Clinical Evidence, and Emerging Perspectives—A Scoping Review]] |
@@ -71,6 +72,8 @@ tags: [navigation, category-index, occlusion]
 | [[livas-2016-fixed-retention-unopposed-molar-overeruption|Does fixed retention prevent overeruption of unopposed mandibular second molars in maxillary first molar extraction cases?]] |
 | [[mao-2024-occlusal-changes-implant-supported-single-crowns|Occlusal changes on implant-supported single crowns with one year follow-up after loading: A systematic review and meta-analysis]] |
 | [[mei-2022-scanning-strategies-virtual-interocclusal-registration|Three-dimensional Analysis of the Outcome of Different Scanning Strategies in Virtual Interocclusal Registration]] |
+| [[misch-1994-implant-protected-occlusion-biomechanical-rationale|Implant-protected occlusion: a biomechanical rationale]] |
+| [[misch-2005-occlusal-trauma-peri-implant-bone-loss-literature|A positive correlation between occlusal trauma and peri-implant bone loss: literature support]] |
 | [[mojaver-2025-occlusal-overload-peri-implant-health-sr|Under pressure: Unraveling the impact of occlusal overload on peri-implant health – A systematic review]] |
 | [[morsy-2024-intraoral-scanner-maximal-intercuspation-border-positions|Recording maximal intercuspation and border positions of the mandible with intraoral scanner using the acquisition software's multi-occlusion function]] |
 | [[nicolae-2025-cross-sectional-study-occlusal|Cross-Sectional Study of Occlusal Loading and Periodontal Status of Teeth with Deflective Occlusal Contacts]] |
