@@ -16,7 +16,7 @@ text_filename: kim-2005-occlusal-considerations-implant-therapy-guidelines.txt
 
 ## Why Ingested
 
-Occlusion for implants is a core clinical decision, and the wiki's occlusion folder lacks an implant-specific guideline source. This Kim et al. 2005 review offers clinical guidelines with a biomechanical rationale, and it states explicitly that no evidence-based, implant-specific occlusal concept exists. That statement should be recorded beside the other occlusion sources.
+Occlusion for implants is a core clinical decision, and the wiki's occlusion folder lacks an implant-specific guideline source. This Kim et al. 2005 review offers clinical guidelines with a biomechanical rationale, and it states explicitly that no evidence-based, implant-specific occlusal concept exists. That statement should be recorded beside the other occlusion sources. Related wiki pages: [[occlusion/occlusion]], [[overviews/implant-occlusion-loading-biomechanics-overview]].
 
 ## Three-line Summary
 
