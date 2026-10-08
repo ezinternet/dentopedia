@@ -564,6 +564,37 @@ The six dimensions are compatible once framed correctly. **Equivalent survival i
 - [[implants/full-arch/garza-2026-arch-morphology-marginal-bone-remodeling]] — prospective 12mo: V-shaped mandible MBR 0.91 vs U-shaped 0.81mm; inter-implant distance r=−0.70
 - [[implants/full-arch/mijiritsky-2026-segmented-full-arch-digital-workflow-mandible]] — prospective 3yr: segmented digital 100% ISR/PSR; 0 biomechanical complications
 
+**Timing and loading:**
+- [[implants/full-arch/pellicer-chover-2013-single-blind-randomized-clinical-trial]] — single-blind RCT: immediate vs delayed implants for full-arch mandibular rehabilitation; comparable outcomes
+- [[implants/full-arch/rossi-2021-two-year-follow-up-of]] — 2yr RCT: 4mm distal implants vs sinus lift for full-arch FDP distal support; non-inferior
+- [[implants/full-arch/cattoni-2021-digital-smile-designed-computer-aided]] — RCT 4yr: digital smile design all-on-4 vs traditional workflow; comparable survival and complication rates
+
+**Survival and complications (long-term):**
+- [[implants/full-arch/gaonkar-2021-survival-rates-of-axial-and]] — SR: axial vs tilted implants in All-on-4; equivalent survival
+- [[implants/full-arch/acar-2026-long-term-outcomes-and-complications]] — retrospective 4–10yr: full-arch long-term outcomes and complications
+- [[implants/full-arch/pelser-2026-technical-and-biological-complications-of]] — retrospective ≤17yr: technical and biological complications of implant-supported fixed complete dentures [alt stem]
+
+**Prosthetic material — connection design:**
+- [[implants/full-arch/pera-2021-evaluation-of-internal-and-external]] — split-mouth RCT 3yr: internal vs external hex connections in immediately loaded full-arch; comparable outcomes
+- [[implants/full-arch/bagnasco-2024-evaluation-of-internal-and-external]] — multicenter split-mouth RCT 6yr: internal vs external hex; no clinically relevant difference
+- [[implants/full-arch/aboelez-2026-clinical-and-prosthetic-outcomes-of]] — comparative clinical study: TiZr vs PEEK composite maxillary fixed prostheses opposing partial denture
+- [[implants/full-arch/alshahrani-2026-five-year-survival-and-failure]] — 3300 lab cases 5yr: monolithic zirconia complete arch 91.67% survival; fracture risk → insufficient space [alt stem]
+
+**Digital impression and workflow:**
+- [[implants/full-arch/cappare-2019-conventional-versus-digital-impressions-for]] — RCT: conventional vs digital impressions for full-arch maxillary rehabilitation; digital non-inferior
+- [[implants/full-arch/pozzi-2025-photogrammetry-versus-intraoral-scanning-in]] — SR+MA: photogrammetry vs IOS for complete-arch implant impression
+- [[implants/full-arch/emam-2025-evaluation-of-the-marginal-gap]] — marginal gap and trueness for full-arch suprastructures from different substructure frameworks
+- [[implants/full-arch/kernen-gintaute-2026-digital-workflow-for-implant-supported]] — feasibility study: digital workflow with reverse scan bodies for mandibular implant-supported restorations
+
+**Zygomatic — atrophic maxilla:**
+- [[implants/full-arch/gracher-2021-full-arch-rehabilitation-in-patients]] — SR: zygomatic implants for atrophic maxilla full-arch rehabilitation
+- [[implants/full-arch/uesugi-2026-investigation-of-the-long-term]] — 3–13yr: full-mouth implant prosthetics combining zygomatic implants (All-on-4 concept)
+- [[implants/full-arch/fan-2026-rescue-therapy-with-quad-zygoma]] — retrospective 8yr: quad zygoma rescue after failed full-arch rehabilitation
+- [[implants/full-arch/storelli-2021-use-of-narrow-diameter-implants]] — SR: narrow-diameter implants for completely edentulous patients as prosthetic alternative
+
+**Patient-reported outcomes:**
+- [[fernandez-ruiz-2021-evaluation-of-quality-of-life]] — RCT: QoL and satisfaction in zygomatic implants vs All-on-4; zygomatic non-inferior PROMs
+
 **Related overviews:**
 - [[overviews/tilted-axial-implant-angled-abutment-overview]] — tilted-implant biomechanics underlying All-on-4
 - [[overviews/supportive-peri-implant-therapy-maintenance-overview]] — maintenance for full-arch prostheses
