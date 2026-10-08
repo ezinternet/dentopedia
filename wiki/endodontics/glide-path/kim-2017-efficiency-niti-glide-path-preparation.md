@@ -3,7 +3,7 @@ title: "Efficiency of the nickel-titanium rotary instruments for glide path prep
 authors: "Hyeon-Cheol Kim, Sang Won Kwak, Jung-Hong Ha"
 year: 2017
 doi: "unknown"
-source: "The Journal of the Korean Dental Association (대한치과의사협회지)"
+source: kim-2017-efficiency-niti-glide-path-preparation.md
 category: "endodontics/glide-path"
 evidence_level: "in-vitro"
 pdf_path: /Users/oracleneo/llm-wiki/papers/kda-2017-vol55-no10.pdf
