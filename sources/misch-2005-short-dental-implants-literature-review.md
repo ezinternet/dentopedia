@@ -16,7 +16,7 @@ text_filename: misch-2005-short-dental-implants-literature-review.txt
 
 ## Why Ingested
 
-The `implants/short-narrow` folder needs a biomechanical rationale for short posterior implants, and this Misch 2005 review gives the mechanism-first argument (crown height, bite force, bone density, load reduction by design). It is ingested as the rationale-level source for that subcategory.
+The `implants/short-narrow` folder needs a biomechanical rationale for short posterior implants, and this Misch 2005 review gives the mechanism-first argument (crown height, bite force, bone density, load reduction by design). It is ingested as the rationale-level source for that subcategory. Related wiki pages: [[implants/short-narrow/short-narrow]], [[overviews/implant-bite-force-stability-short-implant-mbl-overview]].
 
 ## Three-line Summary
 
