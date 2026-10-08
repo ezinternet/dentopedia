@@ -22,6 +22,8 @@ relations:
     target: saijeva-2020-immediate-implant-placement-non-infected-sockets
   - type: contradicts
     target: pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma
+  - type: contradicts
+    target: da-silva-2023-short-implant-and-heavy-smokers
 ---
 
 > [!note] Partially superseded → [[immediate-implant/infected-socket/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]]
