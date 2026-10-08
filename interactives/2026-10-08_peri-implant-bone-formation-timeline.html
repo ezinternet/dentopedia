@@ -1,0 +1,452 @@
+<!--
+---
+title: "임플란트 주위 골형성 타임라인"
+type: interactive
+date: 2026-10-08
+status: done
+category: bone-biology
+source_wiki:
+  - wiki/bone-biology/franchi-2005-peri-implant-osteogenesis-health-osteoporosis.md
+  - wiki/bone-biology/chang-2021-osteon-structure-turnover-regeneration.md
+  - wiki/implants/osseodensification/stauber-2024-trabecular-bone-osseodensification-sheep.md
+  - wiki/implants/surface/bosshardt-2017-osseointegration-titanium-zirconia-review.md
+  - wiki/overviews/bone-tissue-types-classification-overview.md
+tags: [woven-bone, lamellar-bone, peri-implant-osteogenesis, osseointegration, bone-healing, timeline, interactive]
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>임플란트 골형성 타임라인</title>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;600&family=Inter:wght@400;500;600&display=swap">
+<style>
+/* LIGHT ONLY — project policy: no dark mode blocks in interactives/ */
+:root {
+  color-scheme: light;
+  --bg: #f0ede8;
+  --surface: #ffffff;
+  --fg: #1c2030;
+  --fg-2: #48566a;
+  --fg-3: #8899aa;
+  --border: #ddd6cc;
+  --shadow: 0 1px 3px rgba(28,32,48,.06), 0 4px 14px rgba(28,32,48,.08);
+  --c1:#952318; --c1-bg:#fef2ef; --c1-ring:rgba(149,35,24,.15);
+  --c2:#b05208; --c2-bg:#fef5ec; --c2-ring:rgba(176,82,8,.15);
+  --c3:#9a6e00; --c3-bg:#fdfaeb; --c3-ring:rgba(154,110,0,.15);
+  --c4:#186838; --c4-bg:#ecf8f2; --c4-ring:rgba(24,104,56,.15);
+  --c5:#0e3f99; --c5-bg:#edf3fd; --c5-ring:rgba(14,63,153,.15);
+  --s:var(--c1); --s-bg:var(--c1-bg); --s-ring:var(--c1-ring);
+}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html{font-size:14px}
+body{background:var(--bg);color:var(--fg);font-family:'Inter',system-ui,sans-serif;line-height:1.6;padding:0 16px;-webkit-font-smoothing:antialiased}
+.page{max-width:880px;margin:0 auto;padding-block:24px 48px}
+
+/* Header */
+.eyebrow{font-size:10.5px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:var(--fg-3);margin-bottom:3px}
+h1{font-family:'Noto Serif KR',Georgia,serif;font-size:21px;font-weight:600;color:var(--fg);line-height:1.25;margin-bottom:2px}
+.hdr-en{font-size:13px;color:var(--fg-3);font-weight:400;margin-bottom:18px}
+
+/* Timeline nav */
+.tl-wrap{background:var(--surface);border-radius:14px;box-shadow:var(--shadow);padding:14px 16px 18px;margin-bottom:14px}
+.tl-row{display:flex;align-items:flex-start;position:relative}
+.tl-row::before{content:'';position:absolute;top:18px;left:18px;right:18px;height:2px;background:var(--border)}
+.tl-fill{position:absolute;top:18px;left:18px;height:2px;background:var(--s);transition:width .35s ease,background .3s;border-radius:1px;width:0}
+.sbtn{flex:1;display:flex;flex-direction:column;align-items:center;gap:7px;background:none;border:none;cursor:pointer;padding:0;position:relative;z-index:1;min-width:0}
+.sdot{width:36px;height:36px;border-radius:50%;background:var(--surface);border:2px solid var(--border);display:flex;align-items:center;justify-content:center;font-size:13px;font-weight:600;color:var(--fg-3);transition:all .2s;box-shadow:0 1px 3px rgba(0,0,0,.07)}
+.sbtn.active .sdot{background:var(--s);border-color:var(--s);color:#fff;box-shadow:0 0 0 4px var(--s-ring),0 2px 8px rgba(0,0,0,.15);transform:scale(1.08)}
+.sbtn:focus-visible .sdot{outline:2px solid var(--s);outline-offset:3px}
+.sname{font-size:11px;font-weight:500;color:var(--fg-3);text-align:center;line-height:1.25;max-width:72px;transition:color .2s}
+.stime{font-size:10px;color:var(--fg-3);text-align:center}
+.sbtn.active .sname{color:var(--s);font-weight:600}
+
+/* Main two-column */
+.main{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-bottom:14px}
+@media(max-width:580px){.main{grid-template-columns:1fr}}
+
+/* Diagram */
+.diagram{background:var(--surface);border-radius:14px;box-shadow:var(--shadow);overflow:hidden;aspect-ratio:4/3;position:relative}
+#cvs{display:block;width:100%;height:100%}
+.leg{position:absolute;bottom:8px;right:8px;background:rgba(255,255,255,.92);backdrop-filter:blur(6px);border:1px solid var(--border);border-radius:8px;padding:6px 8px;display:flex;flex-direction:column;gap:3px}
+.litem{display:flex;align-items:center;gap:5px;font-size:10px;color:var(--fg-2)}
+.lsw{width:10px;height:10px;border-radius:2px;flex-shrink:0}
+
+/* Detail panel */
+.detail{background:var(--surface);border-radius:14px;box-shadow:var(--shadow);padding:18px;display:flex;flex-direction:column;gap:11px;min-width:0}
+.badge{display:inline-flex;align-items:center;background:var(--s-bg);color:var(--s);font-size:10px;font-weight:700;letter-spacing:.07em;text-transform:uppercase;padding:3px 9px;border-radius:20px;width:fit-content;transition:background .3s,color .3s}
+.terms{display:flex;flex-direction:column;gap:2px}
+.tko{font-family:'Noto Serif KR',Georgia,serif;font-size:19px;font-weight:600;color:var(--fg);line-height:1.2}
+.ten{font-size:12px;color:var(--fg-3);font-weight:400}
+.tab{font-size:11px;color:var(--s);font-weight:500;transition:color .3s}
+.rule{height:1px;background:var(--border)}
+.ev-head{font-size:10px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--fg-3);margin-bottom:5px}
+.ev-list{list-style:none;display:flex;flex-direction:column;gap:4px}
+.ev-list li{display:flex;gap:7px;font-size:12.5px;color:var(--fg-2);line-height:1.4;min-width:0}
+.ev-list li::before{content:'▸';color:var(--s);flex-shrink:0;font-size:10px;margin-top:3px;transition:color .3s}
+.clin{background:var(--s-bg);border-left:3px solid var(--s);border-radius:0 8px 8px 0;padding:8px 10px;font-size:12px;color:var(--fg-2);line-height:1.5;transition:background .3s,border-color .3s}
+.clin strong{color:var(--s);font-weight:600;transition:color .3s}
+
+/* Osteoporosis bar */
+.osteo{background:var(--surface);border-radius:14px;box-shadow:var(--shadow);padding:14px 16px;display:flex;gap:14px;align-items:flex-start;margin-bottom:14px}
+.ot-lbl{display:flex;align-items:center;gap:8px;flex-shrink:0;cursor:pointer}
+.sw{position:relative;width:38px;height:22px;flex-shrink:0}
+.sw input{position:absolute;opacity:0;width:0;height:0}
+.sw-track{position:absolute;inset:0;border-radius:22px;background:var(--border);cursor:pointer;transition:background .2s}
+.sw-track::after{content:'';position:absolute;left:3px;top:3px;width:16px;height:16px;border-radius:50%;background:#fff;box-shadow:0 1px 3px rgba(0,0,0,.2);transition:transform .2s}
+.sw input:checked+.sw-track{background:#b05208}
+.sw input:checked+.sw-track::after{transform:translateX(16px)}
+.ot-name{font-size:12px;font-weight:600;color:var(--fg-2);white-space:nowrap}
+.ot-text{font-size:12px;color:var(--fg-2);line-height:1.5}
+.ot-text strong{color:var(--fg);font-weight:600}
+
+/* Source */
+.src{font-size:11px;color:var(--fg-3);text-align:right}
+</style>
+</head>
+<body>
+<div class="page">
+  <p class="eyebrow">Bone Biology · Osseointegration</p>
+  <h1>임플란트 주위 골형성 타임라인</h1>
+  <p class="hdr-en">Peri-Implant Bone Formation Timeline</p>
+
+  <div class="tl-wrap">
+    <div class="tl-row" id="tl-row">
+      <div class="tl-fill" id="tl-fill"></div>
+      <button class="sbtn active" data-s="0"><div class="sdot">1</div><span class="sname">혈전·<br>피브린</span><span class="stime">0일</span></button>
+      <button class="sbtn" data-s="1"><div class="sdot">2</div><span class="sname">비섬유성<br>석회화층</span><span class="stime">1일</span></button>
+      <button class="sbtn" data-s="2"><div class="sdot">3</div><span class="sname">섬유골<br>(우븐본)</span><span class="stime">3–7일</span></button>
+      <button class="sbtn" data-s="3"><div class="sdot">4</div><span class="sname">수복성<br>소주골</span><span class="stime">1–2주</span></button>
+      <button class="sbtn" data-s="4"><div class="sdot">5</div><span class="sname">층판골<br>(라멜라본)</span><span class="stime">6–12주</span></button>
+    </div>
+  </div>
+
+  <div class="main">
+    <div class="diagram">
+      <canvas id="cvs"></canvas>
+      <div class="leg" id="leg"></div>
+    </div>
+    <div class="detail">
+      <div class="badge" id="badge"></div>
+      <div class="terms">
+        <div class="tko" id="tko"></div>
+        <div class="ten" id="ten"></div>
+        <div class="tab" id="tab"></div>
+      </div>
+      <div class="rule"></div>
+      <div>
+        <div class="ev-head">주요 세포·조직 사건</div>
+        <ul class="ev-list" id="evlist"></ul>
+      </div>
+      <div class="clin" id="clin"></div>
+    </div>
+  </div>
+
+  <div class="osteo">
+    <label class="ot-lbl">
+      <div class="sw"><input type="checkbox" id="ot"><div class="sw-track"></div></div>
+      <span class="ot-name">골다공증 비교</span>
+    </label>
+    <p class="ot-text" id="otxt"></p>
+  </div>
+
+  <p class="src">근거: Franchi et al. 2005 (Micron) · Stauber et al. 2024 (Biomimetics) · Chang &amp; Liu 2021 (Tissue Eng B) · Bosshardt 2017 (Periodontology 2000)</p>
+</div>
+
+<script>
+const STAGES=[
+  {badge:'1단계 · 지혈',ko:'혈전·피브린 기질',en:'Blood Clot / Fibrin Matrix',abbr:'',
+   clr:'#952318',bg:'#fef2ef',ring:'rgba(149,35,24,.15)',
+   events:['혈소판 (Platelet) 활성화 → 피브린 (Fibrin) 응고','성장인자 (PDGF, TGF-β, FGF) 방출','임플란트 gap 충전 — 골형성 scaffold 역할','염증 반응 (Inflammatory Phase) 개시'],
+   clin:'<strong>BIC = 0%.</strong> 혈전 기질이 모든 골형성의 출발점 — 임플란트 표면 처리가 혈소판·단백질 부착을 결정',
+   off:'<strong>건강:</strong> 정상 혈소판 응집 및 피브린 형성. 성장인자 충분 방출.',
+   on:'<strong>골다공증:</strong> 항응고제 사용 빈도 ↑ → 피브린 기질 불완전. 성장인자 농도 감소 가능.',
+   leg:[{c:'#d04040',l:'혈구 (RBC)'},{c:'#9a3030',l:'피브린 (Fibrin)'}]},
+  {badge:'2단계 · 부착',ko:'비섬유성 석회화층',en:'Afibrillar Calcified Layer',abbr:'(Lamina limitans 유사체)',
+   clr:'#b05208',bg:'#fef5ec',ring:'rgba(176,82,8,.15)',
+   events:['임플란트 표면에 콜라겐 없는 석회화층 형성 (24시간 내)','중간엽 전조세포 (Mesenchymal Precursor) 표면 부착','오스테오이드 (Osteoid) 콜라겐 피브릴 침착 시작','생체 내외(in vivo/in vitro) 모두 동일하게 발생'],
+   clin:'<strong>초기 계면 형성.</strong> 이 층이 골전구세포 부착을 유도 — 표면 조도(Ra)가 부착 속도를 결정',
+   off:'<strong>건강:</strong> 빠른 세포 부착 및 초기 석회화.',
+   on:'<strong>골다공증:</strong> 골전구세포 수 감소 → 부착 지연·석회화층 불완전 형성.',
+   leg:[{c:'#e8d090',l:'석회화층 (ACL)'},{c:'#c08840',l:'전조골세포'}]},
+  {badge:'3단계 · 초기 골',ko:'섬유골 (우븐본)',en:'Woven Bone',abbr:'(Fibrous / Primary Bone)',
+   clr:'#9a6e00',bg:'#fdfaeb',ring:'rgba(154,110,0,.15)',
+   events:['무질서한 콜라겐 (Collagen) 배열 — 빠른 형성이 목적','접촉 골형성 (Contact Osteogenesis): 임플란트→숙주골 방향','원거리 골형성 (Distant Osteogenesis): 숙주골→임플란트 방향','두 방향 동시 진행 → BIC (Bone-to-Implant Contact) 형성 시작'],
+   clin:'<strong>초기 BIC 시작.</strong> 섬유골이 BIC를 형성하나 층판골 아님 — 이 시점의 ISQ는 1차 안정성 (Primary Stability) 반영',
+   off:'<strong>건강:</strong> 3–7일 내 풍부한 섬유골 형성.',
+   on:'<strong>골다공증:</strong> 조골세포 (Osteoblast) 활성 감소 → 섬유골 형성 지연·양 감소.',
+   leg:[{c:'#d4a030',l:'섬유골 기질'},{c:'#a87020',l:'조골세포'}]},
+  {badge:'4단계 · 소주골',ko:'수복성 소주골',en:'Reparative Trabecular Bone',abbr:'',
+   clr:'#186838',bg:'#ecf8f2',ring:'rgba(24,104,56,.15)',
+   events:['섬유골 → 소주 (Trabecula) 구조로 조직화','골수강 (Marrow Space) 형성 — 혈관·중간엽세포 풍부','활성 혈관신생 (Angiogenesis)','⚠ 이 단계 하중 부여 금기 — 안정성 최저 구간 (Stability Dip, ~3–4주)'],
+   clin:'<strong>안정성 최저 구간.</strong> 혈관화 골수강이 후속 리모델링 공간 제공 — 1차→2차 안정성 (Secondary Stability) 전환기',
+   off:'<strong>건강:</strong> 활성 혈관신생 + 골수강 형성.',
+   on:'<strong>골다공증:</strong> 소주 수 감소·골수강 확대 → Stability Dip 심화 및 연장.',
+   leg:[{c:'#6aaa70',l:'소주 골편'},{c:'#e07070',l:'혈관'}]},
+  {badge:'5단계 · 성숙',ko:'층판골 (라멜라본)',en:'Lamellar Bone',abbr:'(Secondary / Mature Bone)',
+   clr:'#0e3f99',bg:'#edf3fd',ring:'rgba(14,63,153,.15)',
+   events:['콜라겐 평행 배열 (Parallel Lamellae) → 기계적 강도 최대','골세포 (Osteocyte) 라쿠나 (Lacuna) 내 매립 → LCN 형성','성숙 BIC = 골유착 (Osseointegration) 완성','임플란트 1mm 이내 BMU 리모델링 평생 지속 (Chang 2021)'],
+   clin:'<strong>진정한 골유착.</strong> 층판골 BIC가 최종 상태 — BMU 주기(4–6개월)로 임플란트 표면 주기적 재노출 (정상)',
+   off:'<strong>건강:</strong> 층판골 전환 완료 및 충분한 BIC.',
+   on:'<strong>골다공증:</strong> 층판골 전환 지연·최종 BIC 감소 → 임플란트 실패율 ↑ (Franchi 2005).',
+   leg:[{c:'#6090d0',l:'층판 (Lamellae)'},{c:'#3060a0',l:'골세포 라쿠나'}]}
+];
+
+const cvs=document.getElementById('cvs');
+const ctx=cvs.getContext('2d');
+let dpr=1,W=0,H=0,IW=0,cur=0,osteoOn=false;
+
+function rng(seed){
+  let s=(seed*69069+1)>>>0;
+  return()=>{s^=s<<13;s^=s>>7;s^=s<<17;return(s>>>0)/0xFFFFFFFF};
+}
+
+function setupCanvas(){
+  const rc=cvs.parentElement.getBoundingClientRect();
+  dpr=window.devicePixelRatio||1;
+  W=rc.width; H=rc.height; IW=Math.round(W*.2);
+  cvs.width=Math.round(W*dpr); cvs.height=Math.round(H*dpr);
+  cvs.style.width=W+'px'; cvs.style.height=H+'px';
+  ctx.setTransform(1,0,0,1,0,0); ctx.scale(dpr,dpr);
+  draw();
+}
+
+function draw(){
+  if(!W||!H)return;
+  ctx.clearRect(0,0,W,H);
+  drawTissue(cur);
+  drawImplant();
+}
+
+function drawImplant(){
+  ctx.fillStyle='#38383f';
+  ctx.fillRect(0,0,IW,H);
+  ctx.save();
+  ctx.beginPath(); ctx.rect(0,0,IW,H); ctx.clip();
+  ctx.strokeStyle='rgba(70,70,80,.4)'; ctx.lineWidth=.8;
+  for(let i=-H;i<IW+H;i+=9){ctx.beginPath();ctx.moveTo(i,0);ctx.lineTo(i+H,H);ctx.stroke()}
+  ctx.restore();
+  // Thread grooves
+  ctx.strokeStyle='rgba(12,12,16,.5)'; ctx.lineWidth=1.2;
+  for(let y=0;y<H;y+=16){
+    ctx.beginPath();ctx.moveTo(2,y);ctx.lineTo(IW-1,y);ctx.stroke();
+    if(y+8<H){ctx.beginPath();ctx.moveTo(IW-1,y);ctx.lineTo(IW+3,y+8);ctx.stroke()}
+  }
+  // Surface glint
+  const g=ctx.createLinearGradient(IW-5,0,IW+5,0);
+  g.addColorStop(0,'rgba(120,130,148,0)');g.addColorStop(.5,'rgba(185,195,210,.45)');g.addColorStop(1,'rgba(120,130,148,0)');
+  ctx.fillStyle=g; ctx.fillRect(IW-5,0,10,H);
+  // Label
+  ctx.save();ctx.translate(Math.round(IW/2),Math.round(H/2));ctx.rotate(-Math.PI/2);
+  ctx.font=`${Math.max(8,Math.round(W*.024))}px Inter,system-ui,sans-serif`;
+  ctx.fillStyle='rgba(155,165,180,.5)';ctx.textAlign='center';ctx.textBaseline='middle';
+  ctx.fillText('IMPLANT',0,0);ctx.restore();
+}
+
+function drawTissue(si){
+  const r=rng(si*31337+19801);
+  const d=osteoOn?.5:1;
+  if(si===0)s0(r,d);
+  else if(si===1)s1(r,d);
+  else if(si===2)s2(r,d);
+  else if(si===3)s3(r,d);
+  else s4(r,d);
+}
+
+function s0(r,d){
+  const bg=ctx.createLinearGradient(IW,0,W,0);
+  bg.addColorStop(0,'#fde8e5');bg.addColorStop(1,'#fef6f4');
+  ctx.fillStyle=bg;ctx.fillRect(IW,0,W-IW,H);
+  // Fibrin strands
+  for(let i=0;i<Math.round(40*d);i++){
+    const x1=IW+r()*(W-IW),y1=r()*H,x2=IW+r()*(W-IW),y2=r()*H;
+    const cx=(x1+x2)/2+(r()-.5)*60,cy=(y1+y2)/2+(r()-.5)*40;
+    ctx.strokeStyle=`rgba(140,35,25,${.25+r()*.35})`;ctx.lineWidth=.7+r()*1.1;
+    ctx.beginPath();ctx.moveTo(x1,y1);ctx.quadraticCurveTo(cx,cy,x2,y2);ctx.stroke();
+  }
+  // RBCs
+  for(let i=0;i<Math.round(28*d);i++){
+    const x=IW+10+r()*(W-IW-20),y=8+r()*(H-16),a=4+r()*3,b=2.5+r()*2,ang=r()*Math.PI;
+    ctx.save();ctx.translate(x,y);ctx.rotate(ang);
+    ctx.beginPath();ctx.ellipse(0,0,a,b,0,0,2*Math.PI);
+    ctx.fillStyle=`rgba(200,50,40,${.5+r()*.3})`;ctx.fill();ctx.restore();
+  }
+  // Platelets
+  for(let i=0;i<Math.round(16*d);i++){
+    const x=IW+8+r()*(W-IW-16),y=8+r()*(H-16);
+    ctx.beginPath();ctx.arc(x,y,2+r()*1.5,0,2*Math.PI);
+    ctx.fillStyle=`rgba(175,70,60,${.55+r()*.3})`;ctx.fill();
+  }
+}
+
+function s1(r,d){
+  const bg=ctx.createLinearGradient(IW,0,W,0);
+  bg.addColorStop(0,'#fdefd8');bg.addColorStop(.3,'#fef8f0');bg.addColorStop(1,'#fffcf8');
+  ctx.fillStyle=bg;ctx.fillRect(IW,0,W-IW,H);
+  // Residual fibrin
+  for(let i=0;i<Math.round(16*d);i++){
+    const x1=IW+20+r()*(W-IW-30),y1=r()*H,x2=IW+20+r()*(W-IW-30),y2=r()*H;
+    ctx.strokeStyle='rgba(180,120,70,.15)';ctx.lineWidth=.7;
+    ctx.beginPath();ctx.moveTo(x1,y1);ctx.lineTo(x2,y2);ctx.stroke();
+  }
+  // Calcified layer stripe
+  const lg=ctx.createLinearGradient(IW,0,IW+10,0);
+  lg.addColorStop(0,'rgba(230,215,150,.7)');lg.addColorStop(.55,'rgba(240,225,162,.95)');lg.addColorStop(1,'rgba(230,215,150,0)');
+  ctx.fillStyle=lg;ctx.fillRect(IW,0,12,H);
+  // Adhering cells
+  const nc=Math.round(7*d);
+  for(let i=0;i<nc;i++){
+    const cy=H/(nc+1)*(i+1)+(r()-.5)*8,cx=IW+13+r()*3;
+    const rw=5+r()*2.5,rh=8+r()*4;
+    ctx.save();ctx.translate(cx,cy);
+    ctx.beginPath();ctx.ellipse(0,0,rw,rh,0,0,2*Math.PI);
+    ctx.fillStyle='rgba(175,115,45,.75)';ctx.fill();
+    ctx.beginPath();ctx.arc(0,-1,Math.max(2,rw*.42),0,2*Math.PI);
+    ctx.fillStyle='rgba(95,55,18,.72)';ctx.fill();ctx.restore();
+  }
+  ctx.font='9px Inter,system-ui,sans-serif';ctx.fillStyle='rgba(150,100,40,.55)';
+  ctx.textAlign='left';ctx.textBaseline='top';ctx.fillText('ACL',IW+14,6);
+}
+
+function s2(r,d){
+  const bg=ctx.createLinearGradient(IW,0,W,0);
+  bg.addColorStop(0,'#fdf3d5');bg.addColorStop(1,'#fefcee');
+  ctx.fillStyle=bg;ctx.fillRect(IW,0,W-IW,H);
+  // Disorganized collagen
+  for(let i=0;i<Math.round(220*d);i++){
+    const ang=r()*Math.PI,len=10+r()*18;
+    const x=IW+5+r()*(W-IW-10),y=r()*H;
+    ctx.strokeStyle=`rgba(150,98,12,${.2+r()*.45})`;ctx.lineWidth=.6+r()*1.5;
+    ctx.beginPath();ctx.moveTo(x,y);ctx.lineTo(x+Math.cos(ang)*len,y+Math.sin(ang)*len);ctx.stroke();
+  }
+  // Osteoblasts
+  const nb=Math.round(6*d);
+  for(let i=0;i<nb;i++){
+    const cy=H/(nb+1)*(i+1)+(r()-.5)*6,cx=IW+8+r()*4;
+    ctx.save();ctx.translate(cx,cy);
+    ctx.beginPath();ctx.ellipse(0,0,7,5,.2,0,2*Math.PI);
+    ctx.fillStyle='rgba(155,100,18,.8)';ctx.fill();
+    ctx.beginPath();ctx.arc(0,-1,2.5,0,2*Math.PI);
+    ctx.fillStyle='rgba(88,48,8,.8)';ctx.fill();ctx.restore();
+  }
+  ctx.font='9px Inter,system-ui,sans-serif';ctx.fillStyle='rgba(130,85,10,.5)';
+  ctx.textAlign='left';ctx.textBaseline='bottom';ctx.fillText('CO →',IW+14,H-6);
+  ctx.textAlign='right';ctx.fillText('← DO',W-6,H-6);
+}
+
+function s3(r,d){
+  ctx.fillStyle='#edf8f2';ctx.fillRect(IW,0,W-IW,H);
+  // Trabecular struts
+  const cols=osteoOn?3:4,rows=osteoOn?2:3;
+  const nodes=[];
+  for(let ri=0;ri<=rows;ri++)for(let ci=0;ci<=cols;ci++){
+    const bx=IW+(W-IW)*(ci/cols),by=H*(ri/rows);
+    nodes.push({x:bx+(r()-.5)*14,y:by+(r()-.5)*14});
+  }
+  const sc=osteoOn?'rgba(100,160,100,.75)':'rgba(70,155,90,.85)';
+  ctx.strokeStyle=sc;ctx.lineCap='round';
+  for(let ri=0;ri<=rows;ri++)for(let ci=0;ci<=cols;ci++){
+    const i=ri*(cols+1)+ci;
+    if(ci<cols&&r()>.15){
+      const j=i+1;
+      ctx.lineWidth=osteoOn?3+r()*2:5+r()*3;
+      ctx.beginPath();ctx.moveTo(nodes[i].x,nodes[i].y);
+      const mx=(nodes[i].x+nodes[j].x)/2+(r()-.5)*18,my=(nodes[i].y+nodes[j].y)/2+(r()-.5)*18;
+      ctx.quadraticCurveTo(mx,my,nodes[j].x,nodes[j].y);ctx.stroke();
+    }
+    if(ri<rows&&r()>.2){
+      const j=i+(cols+1);
+      ctx.lineWidth=osteoOn?3+r()*2:4+r()*3;
+      ctx.beginPath();ctx.moveTo(nodes[i].x,nodes[i].y);
+      const mx=(nodes[i].x+nodes[j].x)/2+(r()-.5)*18,my=(nodes[i].y+nodes[j].y)/2+(r()-.5)*18;
+      ctx.quadraticCurveTo(mx,my,nodes[j].x,nodes[j].y);ctx.stroke();
+    }
+  }
+  // Blood vessels
+  for(let i=0;i<Math.round(6*d);i++){
+    const x=IW+30+r()*(W-IW-60),y=20+r()*(H-40),rv=4+r()*4;
+    ctx.beginPath();ctx.arc(x,y,rv,0,2*Math.PI);
+    ctx.fillStyle=`rgba(200,70,70,${.5+r()*.3})`;ctx.fill();
+    ctx.strokeStyle='rgba(160,40,40,.4)';ctx.lineWidth=1.5;ctx.stroke();
+  }
+  ctx.font='9px Inter,system-ui,sans-serif';ctx.fillStyle='rgba(184,82,8,.6)';
+  ctx.textAlign='right';ctx.textBaseline='bottom';ctx.fillText('⚠ Stability Dip',W-6,H-4);
+}
+
+function s4(r,d){
+  const bg=ctx.createLinearGradient(IW,0,W,0);
+  bg.addColorStop(0,'#e6eefa');bg.addColorStop(1,'#f0f5fe');
+  ctx.fillStyle=bg;ctx.fillRect(IW,0,W-IW,H);
+  // Lamellae
+  const cnt=osteoOn?10:16,gap=H/cnt;
+  for(let i=0;i<cnt;i++){
+    const y=gap*(i+.5)+(r()-.5)*1.5,maj=(i%3===0);
+    ctx.strokeStyle=maj?'rgba(30,65,155,.35)':'rgba(55,85,175,.18)';
+    ctx.lineWidth=maj?1.5:.8;
+    ctx.beginPath();ctx.moveTo(IW,y);ctx.lineTo(W,y);ctx.stroke();
+  }
+  // Osteocyte lacunae
+  for(let i=0;i<Math.round(20*d);i++){
+    const x=IW+15+r()*(W-IW-30),y=8+r()*(H-16);
+    ctx.save();ctx.translate(x,y);ctx.rotate(r()*Math.PI*.3-.15);
+    ctx.beginPath();ctx.ellipse(0,0,4,2.5,0,0,2*Math.PI);
+    ctx.strokeStyle='rgba(28,58,140,.5)';ctx.lineWidth=1;ctx.stroke();
+    ctx.beginPath();ctx.arc(0,0,1.5,0,2*Math.PI);
+    ctx.fillStyle='rgba(28,58,140,.4)';ctx.fill();ctx.restore();
+  }
+  // Osteon (Haversian system)
+  const ox=W*.72,oy=H*.5,orad=Math.min(W,H)*.12;
+  for(let ri=orad;ri>4;ri-=orad/5){
+    ctx.beginPath();ctx.arc(ox,oy,ri,0,2*Math.PI);
+    ctx.strokeStyle=`rgba(28,58,150,.13)`;ctx.lineWidth=1;ctx.stroke();
+  }
+  ctx.beginPath();ctx.arc(ox,oy,5,0,2*Math.PI);
+  ctx.fillStyle='rgba(175,198,240,.75)';ctx.fill();
+  ctx.strokeStyle='rgba(38,68,158,.5)';ctx.lineWidth=1.2;ctx.stroke();
+  ctx.font='8.5px Inter,system-ui,sans-serif';ctx.fillStyle='rgba(28,58,140,.5)';
+  ctx.textAlign='center';ctx.textBaseline='top';ctx.fillText('Osteon',ox,oy+orad+3);
+}
+
+function setStage(si){
+  cur=si;
+  const s=STAGES[si];
+  const r=document.documentElement;
+  r.style.setProperty('--s',s.clr);
+  r.style.setProperty('--s-bg',s.bg);
+  r.style.setProperty('--s-ring',s.ring);
+  document.querySelectorAll('.sbtn').forEach((b,i)=>b.classList.toggle('active',i===si));
+  // Progress bar
+  const fill=document.getElementById('tl-fill');
+  const row=document.getElementById('tl-row');
+  const usable=row.offsetWidth-36;
+  fill.style.width=(si===0?0:usable*si/4)+'px';
+  fill.style.background=s.clr;
+  // Detail
+  document.getElementById('badge').textContent=s.badge;
+  document.getElementById('tko').textContent=s.ko;
+  document.getElementById('ten').textContent=s.en;
+  const ta=document.getElementById('tab');
+  ta.textContent=s.abbr; ta.style.display=s.abbr?'':'none';
+  document.getElementById('evlist').innerHTML=s.events.map(e=>`<li>${e}</li>`).join('');
+  document.getElementById('clin').innerHTML=s.clin;
+  document.getElementById('leg').innerHTML=s.leg.map(item=>`<div class="litem"><div class="lsw" style="background:${item.c}"></div><span>${item.l}</span></div>`).join('');
+  updateOsteo(); draw();
+}
+
+function updateOsteo(){
+  document.getElementById('otxt').innerHTML=osteoOn?STAGES[cur].on:STAGES[cur].off;
+}
+
+document.querySelectorAll('.sbtn').forEach(b=>b.addEventListener('click',()=>setStage(+b.dataset.s)));
+document.getElementById('ot').addEventListener('change',e=>{osteoOn=e.target.checked;updateOsteo();draw();});
+document.addEventListener('keydown',e=>{
+  if(e.key==='ArrowRight'||e.key==='ArrowDown'){e.preventDefault();setStage(Math.min(4,cur+1));}
+  else if(e.key==='ArrowLeft'||e.key==='ArrowUp'){e.preventDefault();setStage(Math.max(0,cur-1));}
+});
+new ResizeObserver(()=>setupCanvas()).observe(cvs.parentElement);
+setupCanvas(); setStage(0);
+</script>
+</body>
+</html>
