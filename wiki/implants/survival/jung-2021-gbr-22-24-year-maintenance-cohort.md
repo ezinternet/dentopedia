@@ -4,7 +4,7 @@ authors: "Ronald E Jung, Lily V Brügger, Stefan P Bienz, Jürg Hüsler, Christo
 year: 2021
 date: 2021-10-03
 doi: "10.1111/clr.13845"
-source: "Clinical Oral Implants Research"
+source: jung-2021-gbr-22-24-year-maintenance-cohort.md
 category: implants/survival
 evidence_level: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/jung-2021-gbr-22-24-year-maintenance-cohort.pdf
