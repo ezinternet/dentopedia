@@ -2,7 +2,7 @@
 title: "임플란트·생존율·실패위험 — survival"
 authors: navigation
 year: 2026
-date: 2026-10-05
+date: 2026-10-08
 doi: N/A
 source: navigation
 category: implants/survival
@@ -15,20 +15,20 @@ tags: [navigation, category-index, survival]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·생존율·실패위험
 > - **범위**: Implant survival/failure as the outcome, and what predicts it — long-term cumulative survival cohorts & SR/MA; **habit** risk (smoking level/cessation, tobacco & smoke-free products, bruxism); **systemic/host** risk (diabetes, hypertension, osteoporosis & PTH, Sjögren, autoimmune & systemic sclerosi…
-> - **수록 논문**: 55편
+> - **수록 논문**: 57편
 
 ## Three-line Summary
 
 **Scope**: Implant survival/failure as the outcome, and what predicts it — long-term cumulative survival cohorts & SR/MA; **habit** risk (smoking level/cessation, tobacco & smoke-free products, bruxism); **systemic/host** risk (diabetes, hypertension, osteoporosis & PTH, Sjögren, autoimmune & systemic sclerosis, head-and-neck radiotherapy, medications/polypharmacy affecting osseointegration); early-failure risk-factor studies & failure-rate umbrella reviews; evidence-quality appraisal bound to this literature (sponsorship bias, risk-of-bias in smoker SRs); management of the failed implant (explantation/retrieval technique).
-**Indexed papers**: 55 papers in `wiki/implants/survival/`.
+**Indexed papers**: 57 papers in `wiki/implants/survival/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·생존율·실패위험
-**수록 논문**: 55편
+**수록 논문**: 57편
 **하위 카테고리**: 없음
 
-## Papers in this Category (55)
+## Papers in this Category (57)
 
 | Paper |
 |---|
@@ -59,11 +59,13 @@ tags: [navigation, category-index, survival]
 | [[hamade-2024-hypertension-dental-implants-sr-ma|Hypertension and Dental Implants: A Systematic Review and Meta-Analysis]] |
 | [[hosseini-2024-sjogren-implant-prosthesis-5year-prospective|Prognosis of Single Implant-Supported Prosthesis in Patients With Primary Sjögren's Syndrome: A Five-Year Prospective Clinical Study]] |
 | [[james-2024-success-rates-of-dental-implants|Success Rates of Dental Implants in Patients With Diabetes: A Systematic Review]] |
+| [[jung-2021-gbr-22-24-year-maintenance-cohort|Clinical and radiographical performance of implants placed with simultaneous guided bone regeneration using resorbable and nonresorbable membranes after 22–24 years, a prospective, controlled clinical trial]] |
 | [[kate-2016-implant-failure-a-dentists-nightmare|Implant failure: A dentist's nightmare]] |
 | [[kim-2026-dental-implant-osteoporosis-osteosclerosis|Dental Implant with Osteoporosis / Osteosclerosis (골다공증 및 골경화증에서 치과 임플란트: 종설)]] |
 | [[kindaro-2026-parathyroid-hormone-implant-osseointegration-osteoporosis-sr|The impact of parathyroid hormone supplementation on dental implant osseointegration in osteoporotic subjects: A systematic review]] |
 | [[marty-2024-implant-treated-periodontitis-sr-ma|Implant Health in Treated Periodontitis Patients: A Systematic Review and Meta-Analysis]] |
 | [[meza-mauricio-2019-diabetes-implant-failure-peri-implant|An Umbrella Review on the Effects of Diabetes on Implant Failure and Peri-Implant Diseases]] |
+| [[misch-2008-implant-success-survival-failure-icoi-pisa|Implant success, survival, and failure: the International Congress of Oral Implantologists (ICOI) Pisa Consensus Conference]] |
 | [[mosaddad-2023-dental-implants-systemic-sclerosis-sr|Oral rehabilitation with dental implants in patients with systemic sclerosis: A systematic review]] |
 | [[moy-2005-dental-implant-failure-rates-risk|Dental Implant Failure Rates and Associated Risk Factors (Moy 2005)]] |
 | [[multicenter-2024-survival-analysis-private-practice-prospective|Survival analysis of dental implants placed in a private practice: A multicenter prospective cohort study]] |
