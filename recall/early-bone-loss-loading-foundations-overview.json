@@ -1,0 +1,49 @@
+{
+  "overview": "early-bone-loss-loading-foundations-overview",
+  "date": "2026-10-09",
+  "title": "초기 골소실·하중 역학 기초 고찰 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/early-bone-loss-loading-foundations-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "Oh 2002가 초기 치조정 골소실의 여섯 가설 중 가장 유력하다고 본 원인 묶음은?",
+      "opts": [
+        "수술 외상 단독",
+        "생물학적 폭 재형성·골능선 이하 미세간극·교합 과부하·크레스트 모듈",
+        "주위염 하나만 원인으로 확정됨",
+        "여섯 가설이 모두 효과 크기로 확정됨"
+      ],
+      "ans": 1,
+      "rat": "Oh 2002 리뷰는 생물학적 폭 재형성, 골능선 이하 미세간극, 교합 과부하, 크레스트 모듈을 가장 유력하다고 보았고, 수술 외상과 주위염은 기여 요인으로 두었다. 원인은 미해결이며 효과 크기는 없고 무작위 대조 시험을 요청했다.",
+      "cite": "overviews/early-bone-loss-loading-foundations-overview"
+    },
+    {
+      "id": "q2",
+      "q": "Kumar 2021 메타분석의 하중 후 1년 pooled 변연골 소실 값과 이질성은?",
+      "opts": [
+        "0.2 mm/년 (모든 연도 동일)",
+        "1.67 mm (기존 연결 방식 평균)",
+        "0.56 mm, I² = 99.8% (혼합 시스템 평균)",
+        "이질성이 너무 커서 측정할 수 없음"
+      ],
+      "ans": 2,
+      "rat": "Kumar 2021(SR+MA, 5편·525 임플란트)의 하중 후 1년 pooled MBL은 0.56 mm이며 I² = 99.8%다. 0.2 mm/년은 1년 이후 Albrektsson 기준이므로 1년차 기준선으로 쓰지 않는다. 1.67 mm는 연결 방식 비교의 기존 연결 평균이다.",
+      "cite": "overviews/early-bone-loss-loading-foundations-overview"
+    },
+    {
+      "id": "q3",
+      "q": "Jividen 2000이 역토크 검사에 제기한 비판의 핵심은?",
+      "opts": [
+        "역토크 검사는 초기 부하 실패를 완벽히 예측한다",
+        "전단 하중이 저밀도 골에서 초기 골소실·실패를 일으킬 수 있고, 골밀도·미세회전·설계가 평가되지 않았다",
+        "역토크는 골밀도와 무관하다",
+        "리뷰가 정량 실패율을 제시해 검사를 승인했다"
+      ],
+      "ans": 1,
+      "rat": "Jividen 2000은 역토크 검사의 전단 하중이 저밀도 골에서 초기 치조정 골소실과 실패를 일으킬 수 있다고 주장했고, 골밀도·미세회전·크기와 설계가 평가되지 않았다고 지적했다. 초록에 정량 실패 자료는 없다. 이 비판을 검증한 보유 논문은 확인되지 않았다.",
+      "cite": "overviews/early-bone-loss-loading-foundations-overview"
+    }
+  ]
+}
