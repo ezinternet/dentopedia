@@ -179,3 +179,7 @@ A final observation, offered as a hypothesis rather than a finding: the human an
 
 - [[behavioral-dentistry/communication-relationship/elwyn-2025-shared-decision-making-primer-clinicians]] — SDM process; this overview supplies its strongest justification (an unstable clinician anchor)
 - [[behavioral-dentistry/communication-relationship/asaad-2019-shared-decision-making-sdm-dentistry]] — SDM in dentistry specifically
+
+**A decision chart that has not been validated.**
+
+- [[periodontics/avila-2009-tooth-retention-or-extraction-decision-chart]] — six-level colour-coded chart for retaining versus extracting a compromised tooth, built from peer-reviewed literature and book sources and set against implant replacement. The paper reports no validation of the chart, so its level thresholds should not be cited as tested cut-offs (narrative review, 2009).
