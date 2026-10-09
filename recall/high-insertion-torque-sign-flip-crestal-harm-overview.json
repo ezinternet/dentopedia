@@ -1,0 +1,49 @@
+{
+  "overview": "high-insertion-torque-sign-flip-crestal-harm-overview",
+  "date": "2026-10-09",
+  "title": "고삽입토크 부호 반전·치조정 손상 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/high-insertion-torque-sign-flip-crestal-harm-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "같은 삽입 토크 값이 Faot(위축 하악)과 Aldahlawi·Marconcini(치유된 치밀골)에서 갖는 의미는?",
+      "opts": [
+        "항상 같은 안정성 지표",
+        "Faot에서는 좋은 뼈의 표지이고, 치밀골에서는 이미 적절한 뼈에 가한 치조정 압박 용량이다",
+        "항상 해로운 용량",
+        "항상 이로운 용량"
+      ],
+      "ans": 1,
+      "rat": "Faot에서 ≥45 Ncm는 뜻밖에 좋은 뼈를 만났다는 표지(G4 생존 95%)이고, Aldahlawi·Marconcini에서 50–55 Ncm 초과는 이미 적절한 뼈에 압박을 강제한 용량이다(MBL 0.95 vs 0.18 mm). 풀링 분석은 부호가 뒤집히는 값을 평균낸다.",
+      "cite": "overviews/high-insertion-torque-sign-flip-crestal-harm-overview"
+    },
+    {
+      "id": "q2",
+      "q": "Faot G3 역설은 무엇을 보여 주는가?",
+      "opts": [
+        "생존율이 토크에 따라 단조 증가한다",
+        "30–45 Ncm 구간 생존율이 64.3%로 양쪽 구간(81.3%, 95%)보다 낮아 단조 용량-반응으로 설명되지 않는다",
+        "생존율이 토크에 따라 단조 감소한다",
+        "모든 구간 생존율이 같다"
+      ],
+      "ans": 1,
+      "rat": "Faot에서 12개월 생존은 <10 Ncm 75%, 10–30 Ncm 81.3%, 30–45 Ncm 64.3%, ≥45 Ncm 95%였다. 단조 패턴이 아니므로 토크는 원인이 아닌 상관 지표로 읽히지만, G3는 n=14, 실패 5건이라 과해석하지 않는다.",
+      "cite": "overviews/high-insertion-torque-sign-flip-crestal-harm-overview"
+    },
+    {
+      "id": "q3",
+      "q": "Lemos 2020 SR+MA의 무효 결과(생존 RR 0.51, 95% CI 0.06–4.06)를 어떻게 읽어야 하는가?",
+      "opts": [
+        "고삽입토크가 안전하다는 증거",
+        "신뢰구간이 20배 보호부터 4배 해로움까지 걸쳐 있어 아무것도 배제하지 못하는 증거 부재",
+        "고삽입토크가 해롭다는 증거",
+        "결과가 보고되지 않았다"
+      ],
+      "ans": 1,
+      "rat": "Lemos의 RR 0.51(CI 0.06–4.06)은 신뢰구간이 매우 넓고, MBL 상한도 0.44 mm로 Aldahlawi의 0.95 mm와 같은 수준이며, 부호가 뒤집히는 모집단을 풀링했다. 증거 부재이지 안전의 증거가 아니다.",
+      "cite": "overviews/high-insertion-torque-sign-flip-crestal-harm-overview"
+    }
+  ]
+}
