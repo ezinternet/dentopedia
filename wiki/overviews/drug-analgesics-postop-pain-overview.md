@@ -133,285 +133,62 @@ Single-dose NSAID adverse-event ranking is largely nocebo — plain placebo rank
 
 ---
 
+## Sub-overviews
+
+아래 절은 이 페이지에 요약으로 남기고 전체 내용은 세 하위 오버뷰에 있다. 절 번호는 바꾸지 않았다.
+
+- [[overviews/postop-analgesic-first-line-guideline-opioid-route-overview]] — 1절(1차 처방), 2절(투약 패턴), 2-bis(ADA 2024 지침), 3절(오피오이드 회피), 3-ter(정맥투여 NSAID)
+- [[overviews/postop-analgesic-preemptive-steroid-endo-pediatric-overview]] — 4절(선제 진통), 4-bis(코르티코스테로이드), 5절(근관치료 통증), 5-bis(소아)
+- [[overviews/postop-analgesic-nsaid-safety-hypersensitivity-overview]] — 6절(NSAID 안전성 6-0~6-7), 8절(피린계 과민반응)
+
 ## 1. 1차 처방 — Ibuprofen + Acetaminophen 병용
 
-[확인] **Miroshnychenko 2023 Network MA** (82 RCTs, n=9,095, dental extraction pain):
-
-| Intervention | NNT |
-|---|---|
-| **Ibuprofen 200–400mg + Acetaminophen 500–1000mg** | **가장 효과적 (lowest NNT)** |
-| Ibuprofen 400mg 단독 | NNT ~2.5 |
-| Acetaminophen 1000mg 단독 | NNT ~3.5 |
-| Oxycodone 5mg | placebo와 동등 |
-| Codeine 60mg | placebo와 동등 |
-| Tramadol 37.5mg + APAP | placebo와 동등 |
-
-[확인] **Moore 2015 Cochrane overview** — 단일 dose 진통제 NNT 비교에서 동일 결론: **Ibuprofen 400mg + APAP 1000mg NNT ~1.5**.
-
-[확인] **Bailey 2013 Cochrane SR** (7 RCT, n=2,241, third molar pain) — Ibuprofen 400mg이 Paracetamol 1000mg보다 6h 시점에서 ≥50% 통증완화 비율 유의 우월(RR 1.47, 95% CI 1.28–1.69, high-quality evidence). 단일정 병용제(Nuromol; 시험 arm은 파라세타몰/이부프로펜 250/100·500/200·1,000/400mg)가 단독 약물보다 추가효과(RR 1.77, 95% CI 1.32–2.39, 2 trials only). 이 Cochrane 리뷰는 third molar pain model에서 ibuprofen>paracetamol 결론의 원출처 — Miroshnychenko 2023 Network MA와 Moore 2015 overview의 핵심 근거 중 하나.
-
-[확인] **Altuhafy 2026 SR** (9 RCT, 정성 종합, I²=62–89%로 meta 불가) — oxicam 계열 **tenoxicam 20mg 1일 1회**는 위약 우월, ibuprofen·diclofenac·flurbiprofen·meloxicam·methylprednisolone과 동등~우월, rofecoxib보다는 열등(단 rofecoxib는 GI 부작용 더 많음). 1일 1회 투여 편의성·긴 반감기·GI 내약성이 장점. 1차 ibuprofen 불내성·복약 순응도 문제 환자의 대체 NSAID 옵션(근거 moderate, 표본 작고 지역 편중).
-
-[확인] **Dose reconciliation — acetaminophen 500 mg vs 1,000 mg in the combination (added 2026-09-13).** The combination ranked best in the network MA spans ibuprofen 200–400 mg + acetaminophen 500–1,000 mg, and the NNT ~1.5 figure refers to ibuprofen 400 mg + acetaminophen 1,000 mg (Moore 2015). The ADA 2024 CPG, however, standardizes the combination at **NSAID + acetaminophen 500 mg** (Rec 1.1/2.1) and reserves the **1,000 mg full dose for acetaminophen used alone** when NSAIDs are contraindicated (Rec 1.4/2.2), with cumulative acetaminophen ≤4,000 mg/day. The RESPITE patient handouts ([[drug/analgesics/ada-2024-respite-patient-guide-tooth-removed]], [[drug/analgesics/ada-2024-respite-patient-guide-toothache]]) carry the same ladder and ceilings, including naproxen sodium 440 mg (max 1,100 mg/day) as the alternative NSAID.
-
-[확인] **Why combine rather than escalate — the analgesic ceiling** ([[drug/analgesics/becker-2010-pain-management-part-1]], Becker 2010, narrative CE review). Ibuprofen reaches its analgesic ceiling at 400 mg and aspirin/acetaminophen at 1,000 mg; higher NSAID doses add anti-inflammatory rather than analgesic effect. In the third-molar data it cites, oxycodone 5 mg alone was no better than placebo while ibuprofen 400 mg clearly relieved pain — the direction the later network MA quantified. The review predates the guideline era, so it explains the mechanism rather than setting doses.
-
-[확인] **Ibuprofen onset and formulation** ([[drug/analgesics/pozzi-2011-pain-management-dentists-ibuprofen]], Pozzi 2011, narrative review). Half-life ~2.1 h; peak plasma concentration in <15 min with granules versus ~2 h with tablets, and analgesic onset ~20 min with soluble formulations — relevant to Becker's advice to dose before local anesthesia wears off. The Bailey 2013 Cochrane results also exist as a practitioner-facing BDJ summary ([[drug/analgesics/bailey-2014-ibuprofen-paracetamol-wisdom-bdj-summary]]: ibuprofen 400 mg vs paracetamol 1,000 mg RR 1.47; single-tablet combination RR 1.77 vs paracetamol from two trials, with combination arms of paracetamol/ibuprofen 250/100, 500/200 and 1,000/400 mg); cite the primary Cochrane review, which supersedes it.
-
-[확인] **Etoricoxib as an alternative NSAID** ([[drug/analgesics/franco-de-la-torre-2021-analgesic-efficacy-etoricoxib-following-third]], Franco-de la Torre 2021, SR+MA; 8 high-quality trials, 6 pooled). Etoricoxib 120 mg reduced the number of patients needing rescue analgesia versus nonselective NSAIDs (p=0.0004) and versus ibuprofen 400 mg (p=0.00001), with no difference in adverse effects; total rescue consumption did not differ significantly (single study). As a selective COX-2 inhibitor it inherits the implant-patient caution in §6-4, so its niche is non-implant surgery such as third-molar extraction.
-
-→ 임상 처방: **Ibuprofen 400mg + Acetaminophen 500mg (ADA 2024 기본 병용; §2 alternate 방식에선 APAP 1,000mg), 술후 48–72h, APAP 누적 ≤4,000mg/일**.
-
----
+Ibuprofen plus acetaminophen is the most effective non-opioid regimen after dental extraction (network MA of 82 RCTs; ibuprofen 400 mg + acetaminophen 1,000 mg NNT about 1.5). The ADA 2024 guideline standardizes the combination at NSAID + acetaminophen 500 mg with a 4,000 mg/day ceiling, and oxycodone, codeine, and tramadol combinations were no better than placebo. Full synthesis: [[overviews/postop-analgesic-first-line-guideline-opioid-route-overview]].
 
 ## 2. 투약 패턴 — Alternate > Concurrent
 
-[확인] **Gaballah 2025 RCT** (n=56, third molar 발치):
-
-| 투약 패턴 | Rescue medication 필요율 |
-|---|---|
-| **Alternate** Ibuprofen 400mg / Paracetamol 1000mg every 4h × 48h | **15%** |
-| Concurrent Ibuprofen 400mg + Paracetamol 1000mg every 8h | 53% |
-
-p=0.002, 명확한 차이.
-
-→ 임상 처방 (alternate):
-- **t=0** Ibuprofen 400mg
-- **t=4h** Acetaminophen 1000mg
-- **t=8h** Ibuprofen 400mg
-- **t=12h** Acetaminophen 1000mg ... × 48h
-
-각 약물 단일 dose 간격이 8h로 유지되면서 4h마다 진통이 들어가는 구조.
-
----
+Alternating ibuprofen 400 mg and paracetamol 1,000 mg every 4 hours for 48 hours needed rescue medication in 15% of patients versus 53% for concurrent dosing every 8 hours (Gaballah 2025, n=56). Full synthesis: [[overviews/postop-analgesic-first-line-guideline-opioid-route-overview]].
 
 ## 2-bis. ADA 2024 공식 CPG — 정책 틀과 처방 알고리즘
 
-[확인] **Carrasco-Labra 2024 CPG** (JADA 2024;155(2):102-117) — 최초 체계적 ADA 진료지침. FDA 의회 위임 연구비, 4개 위탁 SR+MA, GRADE 방법론. 두 시나리오:
-
-**Scenario A — 발치(단순·외과) 후 통증:**
-
-| 발치 유형 | 1선 | 2선 | 오피오이드 |
-|---|---|---|---|
-| **단순 발치** | NSAID 단독 또는 + APAP 500 mg | — | **반대 권고** *(Conditional, Low)* |
-| **외과 발치** | NSAID 단독 또는 + APAP 500 mg | NSAID 불충분 시에만: APAP 325 + APAP-opioid 병합*(최소용량·≤3일)* | 불충분 시 허용(rare instances) |
-
-- 코르티코스테로이드를 표준 진통요법에 **추가하지 말 것** *(Conditional, Very Low)* — ⚠️ 항염·항부종(trismus, 안면부종, 감염) 목적과 정맥투여(IV)는 이 권고의 **범위 밖(out of scope)** → Tamgadge 2025 §4와 모순 없음
-- 퇴실 직전 장시간 국소마취제(0.5% bupivacaine 또는 4% articaine) 선택 보조 *(Conditional, Low)*
-
-**Scenario B — 확정 치료 즉시 불가 시 치통 잠정관리:**
-
-임시 다리(bridge until pulpectomy/RCT/발치/의뢰, 2–3일): 내원 중 단시간 작용 국소마취제 → 선택적 벤조카인 10–20% 도포 → 귀가 후 NSAID±APAP 1선 → 불충분 시에만 APAP + 오피오이드 병합 2선.
-
-**공통 안전 원칙 (Good Practice Statements):**
-- 최소유효용량, just-in-case 오피오이드 처방 금지
-- PDMP(처방 모니터링 프로그램) 확인
-- APAP 총 일일 용량 ≤4,000 mg (병합정의 APAP 누적 포함)
-- 오피오이드 처방 시 informed consent 필수
-- **12–<17세 극도 주의** — 단 1회 처방 후에도 opioid misuse·SUD 위험 증가; tramadol·codeine 일부 청소년 금기(FDA)
-- gabapentinoids·CNS-active 약물·이미 오피오이드 복용 중 환자에게는 오피오이드 병합 제공 금지
-
-**Patient communication — RESPITE handouts (ADA 2024):** [[drug/analgesics/ada-2024-respite-patient-guide-tooth-removed]] (extraction) and [[drug/analgesics/ada-2024-respite-patient-guide-toothache]] (toothache) render the same medication ladder and daily maxima at patient reading level for three age bands (12–<17, 17–<65, ≥65). What they add is presentational: a 0–10 pain scale for self-report, a days-of-recovery timeline (extraction) or an UNTIL TREATED banner (toothache), per-option hours-of-relief bars, and pictographic side-effect warnings with a liver-damage flag on acetaminophen and an adolescent misuse flag on opioids. They carry no outcome data, so efficacy is cited to the CPG and network MA. For Korean practice the transferable content is the non-opioid ladder and the communication design, not the US opioid steps.
-
-[미검증] **ADA 2024 vs 기존 §4 코르티코스테로이드 비교 — 범위(scope)가 다름**:
-- ADA CPG Rec 1.5: 진통(analgesic) 목적으로 코르티코스테로이드 **추가 반대** → 근거 Tamgadge 2025의 "술후 VAS 통증 개선" 데이터가 이 반대 권고에 포함될 수 있음
-- §4 Tamgadge 2025 권장 근거: 통증+**부종+개구제한** 복합 항염증 효과 — ADA CPG 자체가 "trismus·facial swelling·infection용 스테로이드는 out of scope"로 명시
-- 실무 결론: **진통만 목적이면 ADA 반대 권고 따름; 제3대구치 수술 후 부종·개구제한 우려가 있으면 Dexamethasone 4mg IM 술전 1회는 항염 목적으로 여전히 합리적 선택**
-
----
+The ADA 2024 clinical practice guideline recommends an NSAID alone or with acetaminophen 500 mg first, opposes opioids after simple extraction, allows a minimum-dose acetaminophen–opioid combination for at most three days only when non-opioids fail after surgical extraction, and advises against adding corticosteroids for analgesia alone. Full synthesis: [[overviews/postop-analgesic-first-line-guideline-opioid-route-overview]].
 
 ## 3. Opioid는 회피
 
-[확인] **Feldman 2024 RCT** (Multisite, n=1,815, third molar 발치):
-
-| Intervention | Day 1–2 통증 |
-|---|---|
-| **Ibuprofen 400mg + APAP 500mg** | **우월** |
-| Hydrocodone 5mg + APAP 300mg | 열등 |
-
-전 timepoint에서 opioid가 비-opioid를 능가한 적 없음. 비-opioid 만족도 더 높음.
-
-[확인] **Watson 2022 SR-MA** — Acetaminophen 600 + Codeine 60 vs Ibuprofen 400 비교, Ibuprofen 단독이 동등 또는 우수.
-
-[확인] **ADA 2024 공식 CPG** — 단순 발치는 오피오이드 **반대 권고**; 외과 발치는 비오피오이드 1선, 불충분 시에만 APAP + 오피오이드 병합 2선(최소용량·최소 정수·거의 3일 이내). Just-in-case 선제 처방 금지. 이 CPG가 **ADA opioid-sparing 정책의 1차 출처** — 이전에 인용하던 "ADA 2022 가이드라인"이 이 2024년 공식 지침으로 대체됨.
-
-→ Opioid 처방은:
-- 비-opioid 실패 후 rescue medication에 한정 (외과 발치에서만)
-- 단기 (≤3일, 거의 예외 없이)
-- 환자 history 확인 (substance use disorder, 동시 benzodiazepine·SSRI·gabapentinoid 등)
-- 단순 발치 후는 처방 자체가 ADA 반대 권고 대상
-
-[확인] **Opioid pharmacology that matters when one is prescribed** (Becker 2010): codeine is a prodrug whose analgesia depends on CYP2D6 demethylation to morphine (~10%), with 5–10% poor and 1–7% ultra-rapid metabolizers among Caucasians, so its effect is unpredictable in both directions; oxycodone acts almost entirely as the parent drug and is the more predictable choice under CYP2D6 inhibition (e.g., fluoxetine, paroxetine). Opioids should not be added for patients on physician-managed chronic opioid therapy, and fixed opioid–acetaminophen products should not be stacked on a separate acetaminophen prescription (4 g/day cap).
-
-[미검증] 한국 치과는 미국 대비 opioid 처방 비율 낮음 (Tramadol 정도). 그래도 ADA opioid-sparing 원칙은 동일 적용. Tramadol도 Network MA에서 placebo 동등 — 처방 정당화 어려움.
-
----
+Opioids did not outperform ibuprofen plus acetaminophen at any time point (Feldman 2024, n=1,815), so opioid prescribing is limited to rescue after surgical extraction. Full synthesis: [[overviews/postop-analgesic-first-line-guideline-opioid-route-overview]].
 
 ## 3-ter. 정맥투여(IV) NSAIDs — 경구 불가 시
 
-[근거중간] **Maurice-Szamburski 2025 Narrative Review** (최근 10년 문헌, 유럽 승인·임상 중심) — 전신마취·진정 하 시술처럼 경구 투여가 불가능한 상황에서 IV NSAID가 opioid-sparing 대안이 된다:
-
-- **술후 opioid 사용량 20–60% 감소** (다수 메타분석 pooled).
-- **IV Ibuprofen이 가장 유리한 프로파일** — IV Paracetamol 대비 여러 수술 맥락에서 동등~우수한 진통(예: VAS 24h 1±1.05 vs 2±2.25, p=0.006), 이상반응은 유사(13.7% vs 14.5%).
-- **Preemptive IV Ibuprofen이 24h opioid 사용 45% 감소** (위약 대비, p<0.001) — 본 overview §4의 "Third molar preemptive NSAID 무효"(Costa 2015, 경구)와 상충하는 것처럼 보이나, 전신마취 하 대수술(비-치과 general surgery) 데이터가 대부분이라 third molar에 직접 외삽 불가 — **투여 경로(IV vs 경구) 자체의 약동학 차이**(빠른 혈중농도 도달)가 두 결과의 방향 차이를 설명할 가능성.
-- IV Ibuprofen+Paracetamol 고정용량 병용이 단독보다 우수(SPID48 23.4 vs 9.5mm, p<0.001) — §1의 경구 Ibuprofen+APAP 병용 원칙과 일관.
-- 소아(6세 미만)·직접비교 RCT 데이터는 여전히 부족.
-
-→ 임상 적용 [미검증]: **경구 섭취가 불가능한 경우**(전신마취 하 다수 발치, 진정 시술, 수술 직후 오심)에 한해 IV NSAID(주로 병원 기반 치과)를 opioid 대신 고려. 일반 외래 치과 시술은 대부분 경구 투여가 가능하므로 §1의 경구 프로토콜이 여전히 1차. 국내 IV NSAID 제형 허가 범위는 처방 전 확인 필요.
-
----
+IV NSAIDs are an opioid-sparing option only when oral dosing is impossible, such as general anesthesia or sedation; ordinary outpatient care stays on the oral protocol. Full synthesis: [[overviews/postop-analgesic-first-line-guideline-opioid-route-overview]].
 
 ## 4. Preemptive Analgesia — 시술별 효과 차이
 
-[확인] **Costa 2015 Meta** (third molar, 6 RCTs, n=420) — preemptive **NSAID** 효과 **유의하지 않음** (P=0.2227).
-
-[근거중간] **Tamgadge 2025 RCT** (split-mouth single-blind, n=60, 양측 매복 하악 제3대구치) — preemptive **corticosteroid는 third molar에 명확히 유효**. 술전 dexamethasone 4mg 근육주사 1회가 위약 대비 day2·day7 통증(VAS day7 0.4 vs 1.6, p<0.001), 개구량(3.5 vs 2.7 cm, p<0.001), day7 부종(2.1 vs 2.8 cm, p=0.04) 모두 개선, 이상반응 없음. **NSAID-preemptive 무효(Costa)와의 핵심 차이** — 제3대구치 술전 약제는 NSAID가 아니라 corticosteroid가 정답. (Abusamak 2025 약동학 설명과 일치: dexamethasone 발현 3–4h이므로 술전 투여해야 술후 peak를 cover.)
-
-[확인] **Gousias 2025 SR-MA** (J Clin Periodontol, 18 RCT, n=1,995) — **치주·임플란트 수술**에서 preemptive analgesia 일부 시점(1·3·6·8·24·72h)에서 유의한 통증 감소.
-
-[확인] **Abusamak 2025 SR-MA** (6 RCT, n=262) — 치주수술 후 NSAIDs vs 코르티코스테로이드(SAIDs) 직접 비교: NSAIDs가 초기 통증(0–6h)에 우월, SAIDs가 48h 통증에 우월하며 부종·rescue 복용은 동등 (근거 중등도-낮음). 약동학적 설명: NSAIDs(ibuprofen 발현 30–60분)는 빠르고 SAIDs(dexamethasone 발현 3–4h)는 느려 술전 1일 전~1–2h 투여해야 perioperative coverage 확보. GBR·연조직증대 등 복합/성형 치주수술엔 무장력 치유 위해 SAIDs 선호.
-
-[미검증] 시술별 차이의 가능성:
-- Third molar: 술중 통증 자체가 낮고, 술후 통증의 peak가 12–24h라 술전 dose가 그 시점까지 작용 못함.
-- 치주·임플란트: 술중 trauma가 술후 통증의 트리거. 술전 NSAID가 inflammatory cascade를 차단.
-
-→ 임상 적용:
-- Third molar: 술전 preemptive 정당화 약함, **술후 즉시 first dose**가 합리.
-- 임플란트·치주: **술전 30–60min Ibuprofen 400mg** 처방 합리.
-
----
+Preemptive NSAIDs do not help after third-molar surgery (Costa 2015), while a single preoperative dexamethasone 4 mg IM dose improves pain, swelling, and mouth opening (Tamgadge 2025); for periodontal and implant surgery, a preoperative NSAID gives early relief. Full synthesis: [[overviews/postop-analgesic-preemptive-steroid-endo-pediatric-overview]].
 
 ## 4-bis. Corticosteroids for Pain — Analgesic Intent vs Anti-inflammatory Intent
 
-The corticosteroid question splits by intent, and the two intents have different evidence. The anti-edema/anti-trismus evidence — drug hierarchy, timing, route and schedule — is synthesized in [[overviews/drug-corticosteroids-perioperative-dentistry-overview]]; this section keeps only what bears on analgesic prescribing.
-
-| Source | Design | Pain finding |
-|---|---|---|
-| [[drug/analgesics/miroshnychenko-2023-corticosteroids-third-molar-acute-pain-sr-ma]] | SR+MA, 40 RCTs (ADA-commissioned) | vs placebo −8.79 at 6 h (low certainty) and −8.89 at 24 h (very low) on a 0–100 VAS — both below the pre-specified 10-point triviality threshold; no difference in infection or alveolar osteitis |
-| [[drug/analgesics/canellas-2022-corticosteroids-third-molar-nma]] | NMA, 61 RCTs, 3,561 subjects (abstract-only page) | Only dexamethasone 8 mg submucosal reduced pain on days 1 and 2 (−30.95 and −15.25 VAS units); other agents/doses/routes NS; no serious adverse effects |
-| [[drug/analgesics/markiewicz-2008-corticosteroids-reduce-postoperative-morbidity-after-third-molar-surgery]] | SR+MA, 12 RCTs — superseded by Canellas 2022 | Pain NS (edema and trismus reduced) |
-| [[drug/analgesics/almeida-2019-efficacy-corticosteroids-versus-placebo-impacted]] | SR+MA, 10 pooled — superseded by Miroshnychenko 2023 | Pain MD −17.38 (p=0.002) |
-| [[drug/analgesics/dan-2010-corticosteroid-administration-oral-orthognathic-surgery]] | SR+MA (abstract-only page) | Oral-surgery pain reduced (P<.0001); infection RR 1.004 |
-| [[drug/analgesics/singh-2023-dexamethasone-vs-methylprednisolone-third-molar-sr-ma]] · [[drug/analgesics/liborio-2025-methylprednisolone-third-molar-sr-ma]] | SR+MA | Dexamethasone = methylprednisolone for pain; methylprednisolone pain NS (p=0.85 at 24 h) — both drugs' advantage lies in trismus |
-| [[drug/analgesics/larsen-2021-methylprednisolone-doses-split-mouth-rct]] · [[drug/analgesics/gholami-2021-methylprednisolone-masseter-gluteal-third-molar-rct]] | RCTs (n=52; n=60) | Methylprednisolone 20–40 mg IM (masseter or gluteal): pain NS |
-| [[drug/analgesics/buyukkurt-2006-prednisolone-diclofenac-third-molar-rct]] | RCT (n=45) | Prednisolone + diclofenac better than prednisolone alone and control for 6 h pain |
-| [[drug/analgesics/ibikunle-2016-prednisolone-qol-third-molar-rct]] · [[drug/analgesics/bakri-2024-prednisolone-prescribing-styles-third-molar]] | RCTs (n=186; n=15) | Prednisolone improved OHIP-14 quality of life (submucosal > oral); taper vs single dose: pain no different |
-
-**Reading the two current syntheses together:** they do not conflict. Pooled across agents, the pain benefit is real but below what patients would notice, which is why ADA Rec 1.5 advises against adding a corticosteroid *for analgesia*; separated by agent, dose and route, the pain signal concentrates in dexamethasone 8 mg submucosal, the same agent family as the Tamgadge 2025 preoperative dexamethasone 4 mg IM result in §4. Practical consequence: prescribe the NSAID ± acetaminophen regimen for pain, and give dexamethasone when swelling or trismus is the concern — treating any pain reduction as a secondary benefit rather than a reason to omit the NSAID (steroid + NSAID was additive in Buyukkurt 2006).
-
----
+For analgesia alone the corticosteroid benefit is real but below what patients notice, and the signal concentrates in dexamethasone 8 mg submucosal; prescribe the NSAID regimen for pain and dexamethasone when swelling or trismus is the concern. Full synthesis: [[overviews/postop-analgesic-preemptive-steroid-endo-pediatric-overview]].
 
 ## 5. Endodontic Pain — 특수 고려사항
 
-[확인] **Pak 2011 SR-MA** (72편) — 근관치료 통증 prevalence:
-- **술전: 81%**
-- 24h 후: 40%
-- 1주 후: 11%
-
-근관치료는 술전 통증 prevalence가 매우 높음 → 술전 진통제 + 술후 진통제 모두 고려.
-
-[확인] **Smith 2017 SR-MA** — 술전 통증 동반 근관치료 환자에서 Ibuprofen 600mg이 위약 대비 6h 유효. Ibuprofen + Acetaminophen 병용도 위약보다 우수하나 ibuprofen 단독과 유의차 없음 (단일 dose 한정 결과).
-
-[확인] **Samani 2025 Network MA** (16 RCT, n=2,021) — NSAIDs·corticosteroid가 비외과적 근관치료 후 8–72h 통증 유의 감소. 이질성 높아 최적 약제 결론 유보.
-
-[확인] **Wells 2011 RCT** (n=71, 응급 endodontic 치수괴사 환자) — Ibuprofen 600 vs Ibuprofen 600 + APAP 1000, **병용군이 통증·rescue 사용 감소 trend**.
-
-[확인] **Vatankhah 2023 RCT** — 비가역적 치수염 1대구치 환자에서 **Diclofenac potassium 50mg이 Ibuprofen 400mg보다 우수**. Diclofenac이 옵션.
-
-[확인] **Kelidari 2026 Network MA** (10 RCT 정성·5 정량, n=347, **단회투여만** 한정) — 근관치료 후 단회 경구 진통제는 **시간대 의존**:
-- **즉각(6–8h)**: Diclofenac+Acetaminophen 최강(MD −6.28 vs placebo), 이어 Novafen(ibuprofen+APAP+caffeine), Ibuprofen+APAP.
-- **지속(12–24h)**: Novafen·Naproxen이 standout(24h MD 각 −2.89, −2.48); 24h 전구간 일관성은 이 둘이 최고.
-- **소실**: Diclofenac+APAP·Ibuprofen+APAP는 12h에 유의성 소실, Diclofenac+APAP는 24h엔 위약 수준(+0.50, p=0.93)으로 역전 → 장기 통증엔 재투여나 장시간형 필요.
-- Tramadol은 작동하나 opioid 부작용 동반; alprazolam은 진통이 아닌 항불안 효과뿐 → 보조 진통제로 권장 안 함.
-
-[확인] **Ping 2026 SR-MA** (7 RCT, 5 pooled) — endo 후 통증에서 **Ketorolac은 6h에 비교 진통제(dexamethasone·ibuprofen·tapentadol·etodolac·prednisolone) 대비 유의 우수**(SMD −0.82, p<0.00001)하고 **rescue medication 필요를 절반**으로(RR 0.50, I²=0%); 단 12·24h엔 차이 소실(ketorolac ~6h 반감기). 빠른 발현(IM/IV ~10분, oral 30–60분)이 6h 우위를, 짧은 반감기가 12h 수렴을 설명. **intranasal ketorolac(Sprix)**은 유일한 비강 NSAID 옵션(비침습).
-
-[확인] **Di Spirito 2022 Overview of SRs** — 근관 술후통증에서 NSAIDs 1차, **corticosteroid 보조 유효**, 술전투여 병용이 최적. 기구 조작 범위·세정·폐쇄도 통증에 영향.
-
-→ 임상 처방 (근관치료):
-- 술전 통증 있으면 술전 Ibuprofen 600mg (Smith 2017 protocol)
-- 비가역 치수염 응급 시 Diclofenac potassium 50mg 고려
-- **빠른 6–8h 진통이 필요하면 Diclofenac+APAP 또는 Ketorolac** (Kelidari·Ping 2026); **24h 지속 cover엔 Naproxen 또는 Novafen**으로 전환/병용
-- 술후 Ibuprofen 600 + Acetaminophen 1000 q6h × 2–3일
-- 심한 통증 동반 시 corticosteroid 보조 (단기, 처방의 협의)
-
----
+Endodontic pain is highest before treatment (81%) and falls to 11% at one week; drug choice depends on the time window, with diclofenac plus acetaminophen or ketorolac for the first 6–8 hours and naproxen or Novafen for 24 hours. Full synthesis: [[overviews/postop-analgesic-preemptive-steroid-endo-pediatric-overview]].
 
 ## 5-bis. Pediatric Patients (≤12 years)
 
-[확인] [[drug/analgesics/miroshnychenko-2023-analgesics-acute-dental-pain]] (Miroshnychenko 2023, SR+MA of 6 RCTs, mean age 5.5–9.3 years; the evidence base for the ADA pediatric guideline — not the adult network MA of the same year and first author). All trials addressed pain after extraction; none addressed irreversible pulpitis.
-
-- Ibuprofen and acetaminophen both beat placebo and differ from each other only trivially at 4 h (pain intensity MD 0.27, low certainty).
-- **Ibuprofen 5 mg/kg + acetaminophen 15 mg/kg** reduced pain intensity importantly more than acetaminophen alone (MD −0.75 on a 1–4 scale, moderate certainty) and only trivially versus ibuprofen alone (MD −0.01).
-- Acetaminophen 240 mg + codeine 24 mg gave only trivial gains over ibuprofen, acetaminophen or placebo (low certainty); codeine and tramadol have carried FDA restrictions in this age group since April 2017.
-- Adverse-effect evidence is very low certainty in every comparison, so pediatric safety conclusions rest on indirect data.
-
-→ Clinical application: weight-based ibuprofen first (the combination adds little over ibuprofen alone), adding acetaminophen when ibuprofen alone is insufficient or contraindicated; no codeine or tramadol. Adolescents 12–<17 fall under the ADA 2024 CPG band with extreme caution on any opioid step (§2-bis).
-
----
+In children, weight-based ibuprofen comes first with acetaminophen added when needed; the combination adds little over ibuprofen alone, and codeine and tramadol are excluded. Full synthesis: [[overviews/postop-analgesic-preemptive-steroid-endo-pediatric-overview]].
 
 ## 6. NSAID 안전성 — 처방 전 점검
 
-### 6-0. 단회투여 이상반응은 대부분 nocebo (만성 위해와 구분)
-[근거중간] **Magesty 2026 Network MA** (28 RCT, n=5,306, 하악 제3대구치, 단회 경구) — SUCRA 안전성 순위에서 **NSAID 단독이 가장 위험(86.5%)이나 위약이 2위(81.7%)**. 약리적으로 불활성인 위약이 진짜 약물 AE를 낼 수 없으므로, 저자는 이 패턴을 **노세보(nocebo) 효과**(동의서 위험고지로 증폭된 부정적 기대 + 수술성 prostaglandin 오심을 약물 탓으로 오인)로 해석. 유의한 pairwise는 NSAID 단독 > 타 비-opioid(RR 1.82)·opioid 단독(RR 0.61) 정도이며 확실성은 매우 낮음~낮음. **가장 안전한 조합은 NSAID+비-opioid+opioid 3제(SUCRA 15.5%)**이나 이는 효능 맥락 없는 AE-only ranking.
+The NSAID safety checks before prescribing are summarized here; the full evidence for each is in [[overviews/postop-analgesic-nsaid-safety-hypersensitivity-overview]].
 
-→ 임상 적용 [미검증]: 이 확률적 안전성 수치로 **NSAID를 1차에서 내리지 말 것**. 단회 NSAID AE는 경미·일시적 오심 수준이고 효능 우위(NNT 1.5–3)가 이를 압도. 본 절의 나머지(6-1~6-4)는 **만성·고위험 환자**의 진짜 장기 위해(신·심혈관·골유착)이며 단회 치과 처방에 직접 외삽하면 안 됨.
-
-### 6-1. 신기능
-[확인] **Gomes 2025** ICU 후향(n=1,157) — NSAID 사용이 급성신손상(Acute Kidney Injury, AKI) 독립 위험(OR 1.98). Stage 3 AKI는 2년 생존율 악화(aHR 1.42).
-
-→ 임상 적용: eGFR <60 환자, 고령(>75), 탈수·이뇨제 동시 복용, NSAID 장기 복용 환자에서 **NSAID 회피**. Acetaminophen 단독 또는 Tramadol 단기 대안.
-
-### 6-2. 심혈관·항혈소판
-[미검증] NSAID는 일반 인구에서 CV 위험을 약간 증가시키지만, Aspirin 복용 심혈관 환자에서는 **Aspirin 항혈소판 효과 차단**이 더 큰 임상 이슈 → [[drug-anticoagulant-antiplatelet-perioperative-overview]] 4절 참조.
-
-[확인] **Zingel 2025** narrative — 염증성 관절염(RA·AS) 환자에서 NSAIDs가 CV 위험을 증가시키지 않으며 오히려 전신염증 억제로 심보호 가능성 시사. RA 환자 치과 처치 시 NSAID 처방 안전성 참고. **단, MRONJ 위험인자**이기도 함 → [[drug-mronj-antiresorptive-overview]].
-
-[근거낮음] **Beaudart 2025 Umbrella Review** (16개 SR, 전부 RCT 기반, OA·RA·강직성척추염) — Celecoxib(선택적 COX-2)를 정량적으로 평가: **위장관 안전성이 비선택적 NSAID보다 명확히 우수**(위십이지장궤양 RR 0.22, 95% CI 0.15–0.32, moderate certainty — 이 리뷰의 유일한 moderate 등급 결과), **심혈관 사망률도 오히려 낮음**(RR 0.75 vs 비선택적 NSAID, p=0.04 — Zingel 2025의 "NSAID가 RA/AS에서 CV 위험 증가 안 함" 방향과 일관), **신장 이상반응도 위약보다 낮음**(RR 0.79). 단 **포함된 16개 SR 중 14개가 AMSTAR-2 critically low 품질**로, GI 궤양을 제외한 모든 결과는 GRADE low certainty — 방향성은 참고하되 확정적 결론으로 취급 금지.
-
-→ 임상 적용 [미검증]: Celecoxib이 위장관 위험 환자(위궤양 병력·고령)에선 비선택적 NSAID보다 유리한 선택지일 수 있으나(근거: moderate), 이는 근골격계(비-치과) 인구 데이터이며 §6-4의 **임플란트 골유착 저해 우려(Etikala 2019)는 그대로 적용** — GI 안전성 이점과 골유착 위험은 서로 다른 축이므로 임플란트 환자에서 celecoxib을 GI 이유로 선택하지 말 것.
-
-### 6-3. 위장관
-[확인] **Rainsford 2009** — Ibuprofen OTC dose(800–1,200mg/day)는 처방 dose(1,800–2,400mg/day) 대비 위장관 부작용 낮음. 단기 사용 (≤7일)에서 위험 매우 낮음.
-
-→ 임상 적용: 치과 술후 진통은 보통 ≤7일 → 위장관 위험은 일반 인구에서 무시 가능. **위궤양 history·warfarin·corticosteroid 동시 복용 환자**에서만 PPI 동반 또는 Acetaminophen으로 전환.
-
-### 6-4. 임플란트·골유착 (COX-2 + 비선택적 NSAID)
-[확인] **Etikala 2019** narrative — 선택적 **COX-2 억제제(Celecoxib·etoricoxib)는 골형성 억제 → 임플란트 골유착 저해 가능성** 보고. 임상 근거 부족으로 결론 유보.
-
-[확인] **Chatzopoulos 2025** ([[drug/analgesics/chatzopoulos-2025-nsaid-early-dental-implant-failure-cohort]]) 대규모 후향코호트 (n=12,943명, 49,997개 임플란트) — 비선택적 NSAID와 조기 임플란트 실패(식립 6개월 내 제거)의 연관성:
-
-| 약물 | 임플란트 수준 OR (95% CI) | 환자 수준 OR (95% CI) |
-|---|---|---|
-| 이부프로펜 (Ibuprofen) | 2.29 (1.48–3.55) | 2.87 (1.83–4.51) |
-| 나프록센 (Naproxen) | 2.65 (1.22–5.75) | 유의하지 않음 |
-
-보정변수: 연령·성별·당뇨·골다공증. **후향 설계 + 적응증 교란 한계**: NSAID군이 더 고령(62.8 vs 58.7세)·당뇨(22% vs 17%)·골다공증(11% vs 7%) 비율 높아 잔류 교란 가능 — 인과관계 미확정.
-
-[확인] **Kumchai 2025** ([[drug/analgesics/kumchai-2025-naproxen-implant-osseointegration-pilot-rct]]) 최초 인체 무작위대조시험 (Randomized Controlled Trial, RCT) 파일럿 (n=12, 상악 임플란트) — 나프록센 220mg q8h ×7일 vs 위약(양군 아세트아미노펜 병용):
-- 임플란트 안정성 지수 (ISQ) 증가: 4주 +1% vs +41%, 16주 +34% vs +67% (모두 미유의)
-- 변연골소실 (Marginal Bone Loss, MBL): 4주 ~55%, 16주 ~52% 더 많음 (모두 미유의)
-- 진통 효과 확인: 구제 진통제 필요율 14.3% vs 80%
-- 검정력 권고: ISQ 확정 시험엔 군당 ≥64명, MBL 기준엔 7–10명이면 충분
-
-→ 임상 적용: ①COX-2 selective 회피(Etikala 2019), ②비선택적 Ibuprofen·Naproxen도 대규모 코호트에서 조기 실패 위험 연관(Chatzopoulos 2025) — 인과 미확정이나 **임플란트 식립 후 진통은 APAP 단독 또는 APAP + NSAID 최단기(≤48h)로 제한; 7일 초과 NSAID 연장 자제**.
-
-### 6-5. Alcohol use
-[확인] **Dominiczak 2025** narrative review ([[drug/analgesics/dominiczak-2025-nsaid-alcohol-interaction-review]]) — alcohol and NSAIDs damage the gastric mucosa by complementary mechanisms (barrier disruption plus COX-1 prostaglandin suppression), and chronic alcohol induces CYP2E1 and competes for alcohol dehydrogenase. The review cites a case-control study (Kaufman 1999, N=4,169; not held in this wiki) in which regular ibuprofen users who drank any alcohol had ~2.7-fold upper-GI bleeding risk, and describes enhanced NSAID nephrotoxicity (AKI/CKD) with alcohol, particularly with dehydration or pre-existing renal impairment — the same kidney axis as Gomes 2025 (§6-1).
-
-→ 임상 적용: ask about alcohol intake when prescribing an NSAID and counsel avoidance for the course. Switching a heavy drinker to acetaminophen does not remove the problem: Becker 2010 lowers the acetaminophen maximum from 4 g/day to **2 g/day in chronic alcoholism** because of hepatotoxicity.
-
-### 6-6. Pregnancy
-[확인] **NSAIDs — avoid in the third trimester** (premature closure of the ductus arteriosus; acetaminophen as the alternative — Kotowska-Rodziewicz 2023 contraindication table). [[drug/antibiotics/aliabadi-2022-antibiotic-use-endodontic-treatment-pregnancy]] (narrative review) likewise names acetaminophen the first-line analgesic for odontogenic pain in pregnancy, and [[oral-medicine/acog-2013-oral-health-care-during-pregnancy]] (ACOG Committee Opinion) endorses dental care — including local anesthesia and most medications — as safe across all trimesters.
-
-[근거중간] **Acetaminophen and offspring neurodevelopment** — [[drug/analgesics/prada-2025-acetaminophen-prenatal-neurodevelopmental-disorders-sr]] (Prada 2025, Navigation Guide SR, 46 studies, qualitative): 27 positive associations, 9 null, 4 negative, with higher-quality studies more often positive. The evidence is observational; in the largest cohort (Ahlqvist 2024, Sweden) modest associations attenuated to the null in sibling-controlled analysis, which the authors dispute on exposure-ascertainment grounds. The abstract advises limiting acetaminophen, but the discussion's final recommendation is judicious use — lowest effective dose, shortest duration, under medical guidance — because untreated maternal fever and pain carry their own risks.
-
-→ 임상 적용 [미검증]: in the pregnant patient, remove the pain source first (treatment is safe in every trimester) and rely on local anesthesia for procedural pain; when an analgesic is still needed, use acetaminophen at the lowest effective dose for the shortest duration and avoid NSAIDs in the third trimester. No held paper addresses NSAID use specifically in the first or second trimester — coordinate with the obstetric team rather than extrapolating.
-
-### 6-7. Drug interactions to screen for
-[확인] Pozzi 2011 lists ibuprofen interactions with aspirin, ACE inhibitors, lithium, methotrexate and warfarin; Becker 2010 gives bleeding-risk multiples of two- to threefold with clopidogrel and four- to fivefold with warfarin, and notes the aspirin–ibuprofen competition handled by 1–2 h separation (→ [[overviews/nsaid-aspirin-antiplatelet-interaction-overview]]); Kotowska-Rodziewicz 2023 flags reduced antihypertensive effect with ACE inhibitors and diuretics (monitor blood pressure or use acetaminophen) and prefers acetaminophen in aspirin-exacerbated respiratory disease, CKD (GFR <30) and anticoagulant therapy. For prior NSAID hypersensitivity, see [[overviews/nsaid-hypersensitivity-analgesic-selection-overview]].
-
----
+- **6-0. Single-dose adverse events**: mostly nocebo, so they are no reason to withhold the first-line NSAID.
+- **6-1. Renal**: avoid NSAIDs with eGFR below 60, age over 75, dehydration, or diuretic use.
+- **6-2. Cardiovascular and antiplatelet**: aspirin blockade matters more than baseline cardiovascular risk, and celecoxib's GI advantage does not remove its implant caution.
+- **6-3. GI**: risk is very low for courses of 7 days or less; use a PPI or acetaminophen for ulcer history, warfarin, or corticosteroids.
+- **6-4. Implants and osseointegration**: avoid COX-2 inhibitors; after placement use acetaminophen alone or an NSAID for at most 48 hours.
+- **6-5. Alcohol**: ask about intake; the acetaminophen maximum falls to 2 g/day in chronic alcoholism.
+- **6-6. Pregnancy**: avoid NSAIDs in the third trimester and use acetaminophen at the lowest effective dose.
+- **6-7. Drug interactions**: aspirin, ACE inhibitors, lithium, methotrexate, warfarin, and clopidogrel.
 
 ## 7. 처치별 처방 매트릭스
 
@@ -432,21 +209,7 @@ The corticosteroid question splits by intent, and the two intents have different
 
 ## 8. 피린계(pyrazolone) 과민반응 — SJS/TEN 주의
 
-[근거중간] **Breidung 2025** 단일기관 후향연구 (17년, n=68 조직검사 확진 SJS/TEN, 독일 화상센터):
-
-- **메타미졸(metamizole, 피린계)이 단일 최다 원인약물 (8/68건)** — 알로푸리놀(7건)보다 많음.
-- 전체 사망률 **51%**. SJS/TEN은 가장 치명적인 중증피부이상반응(Severe Cutaneous Adverse Reaction, SCAR)이다.
-- 피질골 소실·아령형·설측 위치(코르티코스테로이드 섹션 참고)와 달리, 피린계 과민반응은 단순 두드러기부터 SJS/TEN까지 스펙트럼이 있으며 **임상적으로 유병률을 과소평가하기 쉬움**.
-- CHAID 분류트리(COPD·성별·혈색소·base excess, AUC 0.88)가 SCORTEN(0.61)보다 사망 예측 우수 — 아직 단일 센터이므로 실제 임상 적용 전 외부 검증 필요.
-
-> ⚠️ **지역 편중 주의**: 이 논문의 메타미졸 高비율은 독일의 피린계 처방 관행을 반영. 메타미졸·디피론·메탐피론·설피린(sulpyrine) 등의 피린계 약물이 SJS/TEN의 전국적 주요 원인인지는 국가별 처방 데이터로 판단.
-
-**임상 적용**:
-- 문진에서 "피린계(피린) 알레르기" 병력 청취 시 **경미한 두드러기가 아닐 수 있음** — 과거 SJS/TEN 유사 반응 여부 구분 필요.
-- 피린계 과민 반응력 있는 환자 → 아세트아미노펜(acetaminophen) 또는 비선택적 NSAID(이부프로펜)로 대체.
-- 한국에서 메타미졸은 "설피린" 상품명으로 일부 복합제에 포함 → 처방 전 성분 확인.
-
----
+Metamizole (a pyrazolone) was the single most common cause of SJS/TEN in a 17-year German burn-center series (8 of 68 cases, overall mortality 51%). A history of pyrine allergy may not be mild urticaria, so substitute acetaminophen or ibuprofen. Full synthesis: [[overviews/postop-analgesic-nsaid-safety-hypersensitivity-overview]].
 
 ## 8-ter. 페니실린·항생제 알레르기 환자 (참고)
 
