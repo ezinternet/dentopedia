@@ -83,330 +83,39 @@ DBBM 기반 ARP는 폭경 평균 +1.13 mm 개선하나 추가 골증대 없는 �
 
 ---
 
+## Sub-overviews
+
+The axes below are summarized here and treated in full in three sub-overviews. Axis numbering is unchanged.
+
+- [[overviews/socket-preservation-classification-healing-biology-overview]] — Axes 1–2: socket classification, anatomical predictors, and healing biology
+- [[overviews/socket-preservation-graft-material-dimensional-outcomes-overview]] — Axis 3: graft material selection and dimensional outcomes
+- [[overviews/socket-preservation-prf-biologics-implant-sufficiency-overview]] — Axes 4–6: PRF, biologics, implant sufficiency, and molar sites
+
 ## Results
 
 ### Axis 1 — Socket Classification and Anatomical Predictors
 
-#### ST Classification (Steigmann et al. 2022)
-
-The Socket Type (ST) classification stratifies extraction sockets by three buccal bone parameters — thickness, fenestration presence, and dehiscence height — and links each to the most conservative effective ARP technique:
-
-| Socket Type | Definition | Recommended ARP |
-|---|---|---|
-| ST1A | Intact buccal bone ≥1 mm thick | None required; optional collagen matrix |
-| ST1B | Intact buccal bone <1 mm thick | Bone graft + collagen plug (cross-suture); no membrane |
-| ST2 | Buccal bone fenestration (any thickness) | Absorbable membrane ± bone graft ± flap elevation |
-| ST3A | Dehiscence <1/3 buccal height | Absorbable membrane + bone graft + flap elevation |
-| ST3B | Dehiscence 1/3–2/3 buccal height | Non-resorbable/reinforced membrane + bone graft + mandatory flap |
-| ST3C | Dehiscence >2/3 buccal height | Ti-mesh/PTFE + bone graft + full flap elevation |
-
-The clinical emphasis: ARP provides the **greatest yield in ST1B and ST2** (moderate defect, intact or near-intact buccal bone), where simple graft + collagen plug can achieve comparable results to more invasive protocols. ST3B and ST3C represent true GBR territory requiring full flap management.
-
-Pre-extraction CBCT is recommended for ST2+ cases; bone sounding provides adequate chair-side screening for ST1A/B differentiation.
-
-#### CBCT Bone Concavity Predictors (Gan et al. 2023)
-
-In 28 patients undergoing delayed anterior maxillary implant + simultaneous GBR (DBBM Bio-Oss + collagen membrane Bio-Gide), mean graft resorption rate (RRGB) at 6 months was 49.78%. Two pre-operative CBCT morphologic parameters predicted significantly lower resorption:
-
-| CBCT Predictor | Threshold | Correlation (r) | p |
-|---|---|---|---|
-| Bone concavity depth (BCD) | ≥1.03 mm → lower RRGB | −0.872 | <0.001 |
-| Bone concavity angulation (BCA) | <155.30° → lower RRGB | 0.686 | <0.001 |
-
-The biologic logic: deeper BCD provides a tent-effect mechanical support that reduces membrane collapse; narrower BCA (more contained defect geometry) limits graft dispersal under soft tissue pressure. Both effects are independent of patient demographics, implant brand, or material — only geometry counts.
-
-These thresholds complement the ST system: ST1B/ST2 sites with favorable BCD and BCA morphology can reasonably be managed with simpler ARP without expecting disproportionate graft loss.
-
----
+Sockets are classified by buccal bone thickness, fenestration, and dehiscence height (ST1A–ST3C; Steigmann 2022), and ARP yields the most in ST1B and ST2 sites. CBCT concavity depth ≥1.03 mm and angle <155.3° predict lower graft resorption (Gan 2023). Full synthesis: [[overviews/socket-preservation-classification-healing-biology-overview]].
 
 ### Axis 2 — Healing Biology: Bundle Bone Loss and Collagen Plug Mechanism
 
-#### Bundle Bone Loss After Extraction (Araújo & Lindhe 2005)
-
-The foundational biology of post-extraction resorption follows two sequential phases:
-
-- **Phase 1 — Bundle bone loss**: The buccal crest in anterior and premolar teeth is composed exclusively of bundle bone. Extraction severs its PDL-derived blood supply, triggering rapid osteoclast-mediated resorption within days to weeks. This loss is irreversible and is not prevented by immediate implant placement.
-- **Phase 2 — External-surface resorption**: Osteoclastic activity continues on the buccal and lingual outer surfaces, producing additional horizontal and vertical dimensional loss driven by disuse atrophy and reduced vascularity.
-
-The buccal plate loses more than the lingual because it is thinner and more reliant on bundle bone composition. This asymmetry is the biological origin of the ST classification's emphasis on buccal bone parameters.
-
-#### Collagen Plug Mechanism: Clot Stabilization, Not Space Maintenance (Covani et al. 2022)
-
-Rabbit micro-CT (n=36, sacrifice at 2, 7, 15, 30, 60, 90 days) established a key mechanistic insight: the collagen plug resorbs by approximately day 15, yet volumetric protection persists through day 90. At 90 days:
-
-- Collagen plug group: −4.6% bone volume change
-- Empty socket control: −58.1% bone volume change
-
-The ~12-fold volumetric protection after collagen plug resorption demonstrates that the mechanism is **early clot stabilization and vascular scaffolding**, not physical space maintenance. This has a practical implication: the plug's value is exhausted within the first 2 weeks; it cannot substitute for a slowly resorbing graft when the goal is long-term ridge width maintenance.
-
-#### Cellular–Molecular Regulators of Socket Healing: Preclinical Signals (Kamath 2026, Mun 2024; Yin 2024 review)
-
-The two mechanisms above are structural and clot-level. Three later sources add the cellular/molecular layer, but two are mouse studies and one is a narrative review — none supplies clinical efficacy data for ARP.
-
-| Source | Design | Finding | Reading |
-|---|---|---|---|
-| Kamath 2026 | Mouse knockout (global and GLI1-conditional Ddr2 deletion, n=6–10/group, maxillary first molar, 4 wk) | Global Ddr2 deletion: socket BV/TV 57% of wildtype at 1 wk, 71% at 2 wk, 81% at 4 wk; ~30% less proliferation; disrupted collagen fibril organization; DDR2-lineage cells up to 60% of socket cells at 1 wk; conditional (GLI1+) knockout inhibited BV/TV by 33% vs 43% global | DDR2 collagen receptor is required for normal socket bone fill, substantially via GLI1+ skeletal progenitors; its collagen motif is a candidate scaffold-engineering target |
-| Mun 2024 | Mouse extraction model, clodronate macrophage depletion (n=4/group) + in vitro MSC RNA-seq (n=3) | Macrophage depletion: day-7 bone volume 0.01 vs 0.02 mm³ and new bone area 41.97% vs 54.03% (both p<.0001); M1-derived TNF-α correlated with PDGFRα+ MSC recruitment; knockdown of Clec4e, Gbp6, Cxcl10 enhanced MSC osteogenic differentiation in vitro | Early inflammatory (macrophage/TNF-α) signaling shapes MSC recruitment and osteoblast commitment; candidate immune-regulatory targets, not a clinical protocol |
-| Yin 2024 | Narrative review | Growth-factor delivery, immunomodulatory scaffolds, anti-infective biomaterials mapped onto healing phases | Framework for biomaterial selection; lacks comparative clinical data |
-
-**How this connects to Axes 3–4**: the platelet-concentrate and rhBMP-2 findings (Axis 4; Alavi 2024) are the clinical counterpart of the growth-factor/immune-modulation logic that these preclinical papers describe. That link is interpretive — the mouse data do not show that any current ARP material acts through DDR2 or the macrophage–TNF-α axis, and nothing here should be cited as evidence that a given graft or PRF product works.
-
----
+Post-extraction loss starts with irreversible bundle-bone resorption, and the collagen plug protects through early clot stabilization rather than space maintenance (−4.6% vs −58.1% bone volume at 90 days; Covani 2022). The cellular studies are preclinical only. Full synthesis: [[overviews/socket-preservation-classification-healing-biology-overview]].
 
 ### Axis 3 — Graft Material Selection and Dimensional Outcomes
 
-#### Collagen Plug: Height ✓, Width ✗ (Nisar et al. 2020)
-
-Split-mouth prospective study (n=30, bilateral matched extractions):
-
-| Outcome | 3 months | 6 months | p |
-|---|---|---|---|
-| Crestal bone height (RVG) | Significantly preserved vs control | Maintained | <0.001 |
-| Ridge width (caliper, 3 levels) | No significant difference | No significant difference | >0.05 (NS) |
-
-The ceiling of collagen plug + PRP is crestal height preservation. Horizontal resorption proceeds equally in treated and untreated sockets. This means plug-only ARP is appropriate only when vertical preservation is sufficient — chiefly in posterior single-tooth sites with adequate residual ridge width, or as part of a staged strategy where width will be addressed at implant placement.
-
-#### Xenograft + PRF: Bidimensional Preservation (Kollati et al. 2019)
-
-Split-mouth RCT (n=25, Cerabone + PRF matrix + collagen plug vs extraction alone):
-
-| Outcome | Cerabone + PRF | Control |
-|---|---|---|
-| Ridge width loss at 6 months | 1.47 ± 1.44 mm | 2.75 ± 1.49 mm |
-| Radiographic bone fill | +2.31 mm (+8.7% gain) | reference |
-
-By adding a slowly resorbing bovine hydroxyapatite particulate (Cerabone, naturally derived, non-sintered), the treatment extends benefit from vertical-only to bidimensional. The particulate occupies the lateral socket volume and prevents buccal-lingual collapse during the remodeling period.
-
-#### Ribose Cross-Linked Collagen (RCLC) Open Healing: No Primary Closure Required (Friedmann et al. 2020)
-
-A pilot prospective series (n=18 patients, 20 sockets: 10 contained, 10 non-contained) tests a distinct surgical philosophy — **open healing** with a ribose cross-linked collagen (RCLC, OSSIXPlus) membrane, deliberately leaving the membrane exposed rather than achieving tension-free primary closure:
-
-| Outcome | Value |
-|---|---|
-| Implants placed without additional augmentation (4 mo) | 20/20 (100%) |
-| Soft tissue closure by 4 weeks | 20/20 (100%) |
-| Vertical ridge height change | 0.45 mm (NS, p=0.450) |
-| Cross-sectional area change | −9.60 mm² (~9.75%, NS overall) |
-| Muco-gingival junction position | maintained at original level in all 20 sites |
-
-Non-contained sockets received a bone substitute (calcium sulfate or bovine xenograft) first to prevent membrane collapse — the same graft-support principle as Axis 2's collagen-plug mechanism, but paired here with a membrane engineered to resist collagenase long enough to survive intentional exposure. Histology confirmed new woven bone with RCLC residues and no inflammatory infiltrate ("perimembranous osteogenesis"), consistent with ribose crosslinking's favorable biocompatibility profile.
-
-**Relevance to this overview's thesis**: RCLC open healing is a technique variant, not a new dimensional claim — its measured height/width preservation (0.45 mm vertical change, ~10% area change) sits within the same range as other ARP protocols in Axis 3, and 100% of sites were implant-placeable without augmentation at 4 months, comparable to Hartmann et al. 2026's 78/80 (98%) rate. The distinguishing benefit is procedural: no coronal flap advancement (simpler surgery), and keratinized mucosa is preserved at its original position rather than displaced apically (~4 mm displacement is typical with coronal advancement) — an advantage not captured by the dimensional-preservation metrics that dominate Axis 3. This reframes "membrane exposure" from a complication (as in the general-GBR literature) into an intentional, controlled strategy specific to crosslinked collagen's collagenase resistance.
-
-#### DBBM-C (Collagenated Xenograft) ± FGG Seal: Late-Phase Volume Maintenance (Kim et al. 2024)
-
-Three-arm single-blind RCT (n=50 completed, Seoul National University):
-
-| Group | Volume Δ at 3 mm below crest (84–180 days) | Crestal 1 mm horizontal |
-|---|---|---|
-| Spontaneous healing | −2.10% ± 8.37% | reference |
-| DBBM-C (open healing) | +0.72% (maintained) | reference |
-| DBBM-C + FGG seal | maintained | −73.67% ± 32.53% reduction (p=0.049) |
-
-Late-phase (84–180 day) subperiod analysis favored DBBM-C groups (p=0.026). The FGG seal's additional benefit is localized to the crestal 1 mm horizontal dimension — the zone most clinically critical for esthetic anterior implant positioning. All groups achieved ISQ ≥70 at 180-day implant placement, confirming ARP method does not impair osseointegration.
-
-Key practical distinction: DBBM-C (collagen-containing mouldable block/syringe form) can be placed without a separate membrane (open healing), simplifying the surgical protocol compared to loose particulate + resorbable membrane.
-
-#### GBR vs Socket Seal (Collagen Matrix): Head-to-Head RCT (MacBeth et al. 2022)
-
-The only RCT directly comparing **GBR** (Bio-Oss + Bio-Gide membrane, no primary closure) vs **Socket Seal** (Bio-Oss + Mucograft Seal collagen matrix, interrupted sutures) vs **unassisted healing** in the anterior maxilla. Single-centre, stratified-block randomised, single-blind (n=42; 14/group; military adults mean 32 y; moderate-to-thick phenotype; 4-month CBCT):
-
-| Outcome (4 months) | GBR | Socket Seal | Control | GBR vs Ctrl | SS vs Ctrl |
-|---|---|---|---|---|---|
-| Mid-BARH change (mm) | +0.07 ± 0.83 | +0.65 ± 1.10 | −0.52 ± 0.80 | p = 0.04 | p = 0.005 |
-| Mid-PARH change (mm) | +0.86 ± 1.37 | +0.65 ± 1.42 | −0.43 ± 0.83 | p = 0.02 | n.s. |
-| Mid-CARW change (mm) | −2.17 ± 0.84 | −2.36 ± 2.76 | −2.30 ± 1.11 | n.s. | n.s. |
-| Mid-socket area (SA) Δ | −4% | −1% | **−13%** | p = 0.01 | n.s. |
-| Dehiscence at implant placement | 57% | 64% | **85%** | p = 0.03 | n.s. |
-
-**Key findings for this overview:**
-
-1. **Both ARP techniques preserve vertical height; GBR is superior for socket area and implant dehiscence.** GBR's collagen membrane provides superior containment (SA loss −4% vs control −13%, p=0.01; dehiscence reduction statistically significant). SS's higher numerical BARH gain (+0.65 vs +0.07 mm) comes with greater variance and higher complication rate — the predictability cost of an open-healing scaffold without a rigid membrane.
-
-2. **Horizontal width loss is NOT mitigated by either ARP technique.** Mid-CARW reduction ~2.2 mm across all three groups with no significant inter-group difference (p=0.89). This converges with Kim et al. 2024 (open healing DBBM-C alone) and Nisar et al. 2020 (collagen plug alone) — horizontal preservation consistently requires something beyond graft fill alone (FGG seal, Strauss: simultaneous GBR at implant).
-
-3. **Socket Seal complication rate is substantial.** Collagen matrix partial breakdown before suture removal: 43% (6/14). Complete seal loss: 7%. This is relevant when choosing between GBR and SS — SS is technically simpler (no flap elevation) but less reliable in the early healing phase. The lower complication rate of GBR's membrane-based containment correlates with its superior dimensional outcomes.
-
-4. **All sockets remained implant-placeable.** 100% prosthetically driven implant placement with adequate primary stability across all three groups, despite 57–85% dehiscence rates — ARP reduces rather than eliminates the need for secondary augmentation, consistent with Fischer 2022's SR+MA thesis (Axis 5).
-
-**Positioning relative to Kim 2024**: Kim et al. used DBBM-C + FGG seal (a soft-tissue graft over an already-collagen-integrated xenograft block) and showed late-phase volume maintenance with crestal horizontal benefit. MacBeth 2022's SS arm uses a **collagen matrix** (Mucograft Seal, not autogenous FGG) — procedurally simpler but with higher early complication rates. GBR in MacBeth 2022 used loose Bio-Oss + Bio-Gide without primary closure (cross-mattress sutures only), which is a less aggressive version than the full coronal flap advancement in some GBR protocols; its 57% dehiscence rate is high by membrane-GBR standards, likely reflecting this partial-closure approach.
-
-**Note on phenotype selection bias**: MacBeth 2022 enrolled only moderate-to-thick phenotype patients (military adults, predominantly male). This biases toward better outcomes in all groups and toward less horizontal loss than the general population (Tsigarida average buccal thickness < this cohort's 1.04 mm at 5 mm). The horizontal null result may partially reflect this — thin-phenotype patients might show greater inter-group differences.
-
-#### Xenograft + Resorbable Membrane: CBCT Volumetric Confirmation (De Angelis et al. 2022)
-
-A retrospective comparative study (n=45 single-tooth sites; 23 spontaneous healing vs 22 ARP with cortico-spongious bovine granules + resorbable pericardium membrane) adds **3D volumetric quantification** to the linear-only ARP picture, using CBCT superimposition of pre-extraction (T0) and 6-month (T1) digital models:
-
-| Outcome (6 mo) | Spontaneous healing | ARP | p |
-|---|---|---|---|
-| Horizontal width loss at 1 mm | 2.03 ± 0.54 mm | 0.86 ± 0.49 mm | <0.001 |
-| Horizontal width loss at 3 mm | 1.35 ± 0.50 mm | 0.55 ± 0.42 mm | <0.001 |
-| Horizontal width loss at 5 mm | 0.94 ± 0.46 mm | 0.46 ± 0.37 mm | <0.001 |
-| Volumetric loss | 106.41 ± 24.32 mm³ | 62.66 ± 17.50 mm³ | 0.004 |
-| Buccal vertical loss | 0.9 ± 0.7 mm | 0.31 ± 0.1 mm | <0.05 |
-
-ARP roughly **halved** both crestal horizontal shrinkage (0.86 vs 2.03 mm at 1 mm) and total volumetric loss (62.66 vs 106.41 mm³). The benefit gradient is steepest at the crestal 1 mm level — converging with Kim et al. 2024's finding that the FGG seal's advantage concentrates at the same crestal zone. De Angelis et al. 2022 also surfaces two phenotype modifiers (thick FSTT and thick buccal bone independently predict less HW-1 loss) and a procedural one: in the spontaneous-healing group, **flapless** management preserved more width than flap elevation (p<0.001) — a caution that flap reflection itself contributes to resorption. The soft-tissue/esthetic layer is covered below (PES improvement); 1-year implant survival was 100% in both arms.
-
-#### Volumetric Confirmation of Residual Loss: Collagenated Xenograft (Hartmann et al. 2026)
-
-A German private-practice retrospective CBCT cohort (n=80; comparative subset n=60) is one of the few human studies reporting **volumetric (mm³)** rather than linear ARP outcome, using 3D Slicer segmentation of pre-extraction root volume (surrogate for "ideal" alveolar volume) versus post-ARP alveolar volume after Bio-Oss Collagen grafting of posterior sockets:
-
-| Site (pre → post, mm³) | Residual volume loss |
-|---|---|
-| Maxillary premolar (195.20 → 192.07) | ~3% (best) |
-| Maxillary molar (470.41 → 381.96) | ~18% (worst) |
-| Subset mean (451.64 → 394.86, p<0.001) | significant decrease |
-
-The dual message reinforces the overview thesis exactly: ARP does **not** fully prevent resorption (~3–18% residual loss, site-dependent, p<0.008), yet this is far below the ~40–60% horizontal / 10–20% vertical loss expected without grafting, and **78/80 sockets received an implant without additional augmentation** (Hartmann et al. 2026). No patient/treatment covariate independently predicted preservation once tooth type/defect size were accounted for — geometry/site, not demographics, governs the outcome (converging with Gan 2023 and Steigmann 2022). Caveat: the root-volume surrogate excludes PDL/periapical lesions and may overestimate ARP success.
-
-#### Autogenous Demineralized Dentin Matrix vs DBBM (Xu et al. 2026)
-
-A single-center single-blind RCT (n=50; DDM 25 vs DBBM 25, single premolar/molar) directly compares **autogenous demineralized dentin matrix (DDM)** — chairside-processed from the patient's own extracted tooth (400–800 µm particles) — against gold-standard DBBM (Bio-Oss), both with Bio-Gide membrane + crisscross sutures, CBCT at 3/6 months plus 6-month core biopsies:
-
-| Outcome | DDM | DBBM | p |
-|---|---|---|---|
-| 3-mo mid-socket (50%) horizontal loss | 0.77 ± 0.59 mm | 0.44 ± 0.45 mm | 0.006 (DDM worse) |
-| 6-mo dimensional (all levels H + V) | — | — | all NS |
-| Histology | active remodeling, particle-bone fusion, Ki-67/SATB2+, osteoclastic lacunae | quiescent osteoconductive scaffold, no particle resorption | — |
-
-DDM contracts faster early (creeping substitution, not failure) but **matches DBBM at 6 months on every dimension**, and its histology shows superior osteogenic integration versus the inert xenograft scaffold (Xu et al. 2026). All sockets were preserved adequately for implant placement with satisfactory primary stability. Clinical positioning: DDM is a biologically viable, autogenous, low-cost ("waste-to-resource") ARP alternative — graft-material choice is largely equivalent for dimension, so the lever shifts to cost, biology, and patient preference. This complements Kim et al. 2024 (collagenated xenograft) by establishing the autogenous-dentin arm of the graft-material menu.
-
-#### DBBM Particle Size in Compromised Molar Sockets: A Minor Lever (Yu et al. 2026)
-
-A single-center retrospective cohort (n=96 stage III/IV periodontitis molar sockets, each with a dehiscence over >50% of root length; small-particle 0.25–1 mm vs large-particle 1–2 mm DBBM + Bio-Gide, flapless, secondary-intention healing) is the first to test **DBBM particle size** in the high-prevalence but under-studied periodontally-compromised molar scenario:
-
-| Determinant of vertical central height (VC) | Effect | p |
-|---|---|---|
-| Particle size (LP 8.54 vs SP 7.76 mm) | non-significant trend | .077 |
-| Socket integrity (per wall ≥5 mm) | +1.027 mm | <.001 |
-| Jaw (mandible 8.844 vs maxilla 7.394 mm) | favors mandible | .007 |
-
-The reframing: graft **particle size is a minor lever** — alveolar dimensions were maintained regardless of size, and in multivariate regression baseline **socket integrity and jaw dominate** the central-height outcome (Yu et al. 2026). Volume gain (LP 369 vs SP 239 mm³) and augmentation need (P=.500) did not differ by size. Critically, **73% of these compromised molar sites still allowed standard implant placement (LIPD Level I) after ARP** — converging with Lee 2021 (Axis 5) that ARP is feasible, not merely safe, in severe periodontitis. This adds a within-DBBM variable to the graft-selection picture and echoes the open-healing overview's conclusion that micro-technique is largely equivalent while site anatomy sets the ceiling.
-
-#### Early-Placement Esthetic Zone: ARP Reduces But GBR Drives Contour (Strauss et al. 2024)
-
-A radiographic-and-profilometric secondary analysis of a three-arm parallel RCT (n=75, 1:1:1; 55 datasets at 1 year) isolates a distinction the dimensional studies above cannot: **ARP at extraction vs additional GBR at implant placement**. Failing single anterior-maxillary teeth were randomized to ARP with DBBM-C sealed by a collagen matrix (ARP-CM) or a free palatal graft (ARP-PG), versus unassisted healing (control); all arms received **early (type-2) implant placement at 8 weeks**, with simultaneous GBR when the residual ridge required it.
-
-| Outcome | ARP-CM | ARP-PG | Control |
-|---|---|---|---|
-| Additional GBR needed at placement | 31.6% | 29.4% | 68.4% |
-
-ARP roughly halved the proportion of sites needing additional GBR at placement (~30% vs 68.4%). But the 1-year facial-contour message is the caveat: restored **buccal convexity** was driven not by whether ARP was done but by whether **GBR was performed at placement** — convexity reached 72.7% (8/11) in ARP sites that also received GBR vs only 36.0% (9/25) in ARP-only sites (p=0.042). Residual buccal bone height and additional GBR were the significant adjusted predictors; profilometric (STL surface-scan) outcomes agreed with the CBCT picture. The lesson for the esthetic zone: ARP attenuates ridge change and lowers the GBR burden, but **early placement with simultaneous GBR yields the best contour regardless of whether ARP preceded it** — reinforcing the overview thesis that ARP reduces rather than eliminates the augmentation requirement.
-
----
+Collagen plugs preserve crestal height but not width, whereas particulate grafts with a membrane or sealing extend preservation to both dimensions; no technique prevents all horizontal loss, and residual volume loss runs about 3–18% by site (Hartmann 2026). Graft type, particle size, and open versus closed healing are largely equivalent levers next to socket integrity. Full synthesis: [[overviews/socket-preservation-graft-material-dimensional-outcomes-overview]].
 
 ### Axis 4 — PRF Adjunct: Role and Limits
 
-#### PRF in Standard Population (Kollati et al. 2019)
-
-PRF membrane serves as an autologous growth factor reservoir (PDGF, TGF-β, VEGF) layered over the xenograft, with the collagen plug sealing the socket orifice. This combination achieved meaningful width preservation (1.47 mm loss vs 2.75 mm) without requiring a separate barrier membrane or flap elevation — a procedure-simplifying advantage.
-
-#### PRF in Smokers: Partial Compensation (Alrayyes et al. 2022)
-
-Heavy smokers (≥10 cigarettes/day, 40 upper molar sockets) randomized to four arms:
-
-| Group | Soft-tissue closure (28 days) | Healing index |
-|---|---|---|
-| A-PRF alone | Significantly superior (p=0.012) | p<0.0001 |
-| A-PRF + sticky bone (FDBA + fibrin glue) | Significantly superior (p=0.012) | p<0.0001 |
-| FDBA + crosslinked collagen membrane | Intermediate | Intermediate |
-| Resorbable collagen plug alone | Worst | Least favorable |
-
-**Critical finding**: Sticky bone (FDBA + A-PRF) was not superior to A-PRF alone. The growth-factor component of PRF — not the additional graft volume — drives soft-tissue healing benefit in smokers. Collagen plug alone is insufficient in the smoking context; PRF substitution is warranted. Radiographic bone outcomes were not reported at 28 days.
-
-The implication is practical: in smokers (ST1B–ST2 sockets), substituting A-PRF for the collagen plug closure improves soft-tissue healing without adding operative complexity. Whether this translates to better long-term bone dimensions remains uninvestigated in this study.
-
-#### PRGF in Esthetic Zone ARP: New Bone Formation and Early Soft-Tissue Benefit (Anitua et al. 2026)
-
-Anitua et al. 2026 brings a distinct platelet concentrate — Plasma Rich in Growth Factors (PRGF, Anitua's proprietary BTI system) — into the ARP evidence base with a single-center RCT (n=46, aesthetic zone, PRGF vs. spontaneous healing, 12-week biopsy). Key findings:
-
-| Outcome | PRGF | Spontaneous healing | Significance |
-|---|---|---|---|
-| New bone formation (%) | 48.7 (IQR 31.9–92.3) | 36.1 (IQR 15.8–58.9) | p=0.024 |
-| Pain day 3 | Lower | — | p=0.036 |
-| Soft-tissue healing (days 3/5/7) | Improved | — | p<0.05 |
-| Dimensional stability | Improved (mm values from abstract only) | — | — |
-
-**Clinical significance**: PRGF achieves a statistically significant new bone formation advantage at 12 weeks — extending the PRF/platelet-concentrate bone formation theme confirmed by Caponio 2023 (SMD=1.77) and partially rebutting the Alavi 2024 SR null result for L-PRF on dimensions. The early soft-tissue/pain benefit (days 3–7) is consistent with Alrayyes 2022 and reinforces the growth-factor component as the PRF class's mechanism of action. Caveat: PRGF (BTI) uses a centrifugation protocol distinct from L-PRF and A-PRF — cross-preparation generalization requires caution. Abstract-only source; dimensional data in mm not available from abstract (Anitua 2026).
-
-#### PRF as Membrane Substitute for Ridge Augmentation, Not Just Socket Closure (Wang et al. 2024)
-
-The PRF-adjunct evidence above (Kollati 2019, Alrayyes 2022) concerns PRF layered alongside a collagen plug at socket closure. Wang et al. 2024 tests a related but distinct question: can a **PRF membrane substitute entirely for a resorbable collagen barrier membrane** (Bio-Gide) in a small posterior GBR scenario — specifically **Seibert Class I** ridge defects (horizontal deficiency, normal height), the same defect geometry ARP is designed to prevent when treatment is delayed. This retrospective study (n=44, 22/group) compared:
-
-| Outcome (6 mo, CBCT) | Simplified GBR (Bio-collagen + PRF membrane) | Classical GBR (Bio-Oss + Bio-Gide) |
-|---|---|---|
-| Horizontal width (HW) gain | 1.50 mm | 1.83 mm |
-| Buccal contour Type A (good) | 14/22 (64%) | 11/22 (50%) |
-| Buccal contour Type C (poor) | 1/22 (5%) | 3/22 (14%) |
-
-Both groups achieved statistically significant augmentation; the 0.33 mm HW gap favoring classical GBR is numerically small and the simplified-GBR group trended toward *better* contour quality (fewer Type C outcomes). This reinforces the PRF-substitution theme already established for socket closure (Alrayyes 2022's smoker data: A-PRF ≈ or > collagen plug) but extends it to a lateral, non-socket ridge-augmentation indication — suggesting PRF's barrier-membrane-substitute role is not confined to fresh extraction sockets. Caveat: abstract-only retrieval (full text not obtained), retrospective design, small per-group n, and this is a **pre-implant ridge augmentation** study rather than a same-day socket-preservation study — it sits adjacent to, not squarely inside, the ARP indication this overview otherwise covers, and no implant-placement or long-term outcomes were reported.
-
----
+PRF improves soft-tissue healing, including in smokers, but does not preserve ridge dimension on its own (Alrayyes 2022; Alavi 2024). Full synthesis: [[overviews/socket-preservation-prf-biologics-implant-sufficiency-overview]].
 
 ### Axis 5 — Implant Sufficiency After ARP: SR+MA Evidence (Fischer et al. 2022)
 
-The sobering meta-analytic perspective from 9 RCTs (177 ARP-DBBM vs 130 spontaneous healing implant sites):
-
-**Mean ridge width gain**: 1.13 mm (95% CI 0.28–1.98; I²=68%; p<0.01) — statistically significant but clinically modest.
-
-**Probability of augmentation-free implant placement** (≥2 mm circumferential bone, no additional GBR):
-
-| Implant Diameter | Probability | Risk Difference |
-|---|---|---|
-| 3.25 mm (narrow) | 19% | RD 0.19 (CI 0.06–0.32) |
-| 4.0 mm (standard) | 14% | RD 0.14 (CI 0.05–0.23) |
-| 5.0 mm (wide) | 6% | RD 0.06 (CI 0.00–0.12; NS) |
-
-**Interpretation**: Roughly 4 in 5 patients who undergo DBBM-based ARP will still require additional bone augmentation at implant placement, or the ARP will have been performed unnecessarily (the ridge would have been adequate anyway). ARP's clinical value in this framing is:
-
-1. **Defect complexity reduction**: When augmentation is needed, smaller residual defect = simpler GBR at stage 2
-2. **Implant positioning optimization**: Better bone envelope enables prosthetically driven implant angulation
-3. **Avoiding major grafting**: In marginal-width situations, 1.13 mm can tip a "need GBR" case to "no GBR needed"
-
-High heterogeneity (I²=68%) was driven by DBBM formulation variation (plain granules vs collagenated), membrane use, healing duration, and measurement methods — suggesting meta-analysis pooling across protocol variants may underestimate best-case ARP outcomes with optimized protocols (e.g., DBBM-C + FGG seal per Kim et al. 2024).
-
-#### Biologic Materials SR+MA: rhBMP-2 Works, L-PRF Does Not Preserve Dimension (Alavi et al. 2024)
-
-Where Fischer et al. 2022 pools DBBM-graft trials, Alavi et al. 2024 supplies the **biologics layer** — a SR+MA of 29 RCTs (1,068 patients, 2010–2023) of blood-derived growth-factor preparations, L-PRF, and rhBMP-2 for socket preservation:
-
-| Agent vs comparator | Horizontal (width) | Vertical (height) |
-|---|---|---|
-| Blood-derived preparations vs control | NS | p = .001 |
-| L-PRF vs natural healing | NS | NS |
-| rhBMP-2 vs control | p = .01 | p < .0008 |
-| rhBMP-2 vs L-PRF | p < .0001 (rhBMP-2 better) | p = .057 (NS) |
-
-**rhBMP-2 is the only agent that significantly preserves both dimensions** (Alavi et al. 2024). L-PRF alone did not differ from natural healing in either dimension — its clinical justification is autologous origin and cost, not dimensional superiority. This recontextualizes the PRF adjunct (Axis 4): PRF's documented benefit in this overview is concentrated in soft-tissue healing (Kollati 2019, Alrayyes 2022 in smokers), not in hard-tissue dimension preservation — consistent with Alavi's null L-PRF result. Caveat: 15/29 included RCTs carried high risk of bias, tempering certainty across all conclusions. The clinical takeaway for biologic selection: reserve rhBMP-2 for cases where the dimensional gain justifies cost/regulatory burden; treat L-PRF as a soft-tissue/cost adjunct rather than a dimension-preserving graft substitute.
-
-#### Real-World Feasibility: ARP Lowers Implant-Placement Infeasibility (Lee et al. 2021)
-
-Fischer et al. 2022 measures the *millimeter* sufficiency question; Lee et al. 2021 reframes it as a *binary clinical* one — can the implant be placed at all? — and extends the evidence into the **periodontally/endodontically compromised (infected) socket** subgroup that dominates real-world extractions but is largely absent from the intact-socket ARP trials. This single-center retrospective cohort (418 compromised extraction sites in 287 patients; 247 ARP via immediate GBR + resorbable membrane, secondary-intention healing, vs 171 no-ARP) found:
-
-- **Implant-placement infeasibility**: ARP **0.8%** vs no-ARP **4.7%** — a ~6-fold reduction in the chance the site could not receive an implant.
-- **Augmentation severity attenuated, not just feasibility**: on multivariable logistic regression, *absence* of ARP was an independent predictor of greater horizontal, vertical, and total bone-augmentation need at implant placement (alongside location and sex).
-- **Safety in infected sockets** (linked prior cohort): 2.7% infection, 0.7% reinfection requiring biomaterial removal — confirming ARP with debridement + systemic antibiotics is defensible even in non-intact sockets.
-
-Lee et al. 2021 thus complements Fischer's SR+MA on two fronts: it converts the dimensional benefit into a clinically meaningful endpoint (placement feasibility) with real-world retrospective data, and it specifically rebuts the "ARP is over-treatment" framing for the compromised-socket population — where the downstream benefit is clearest. De Angelis et al. 2022 echoes the same downstream-simplification direction (additional grafting needed 9% ARP vs 26% spontaneous healing) although that trend did not reach significance in its small, non-randomized sample (p=0.11). Strauss et al. 2024 quantifies the same effect prospectively at early placement (additional GBR ~30% with ARP vs 68.4% without), making the feasibility/burden-reduction benefit one of the most consistently reproduced ARP findings across retrospective, RCT, and meta-analytic designs.
-
-A registered RCT in this space — Zhang et al. 2022, a protocol for ARP at severe-periodontitis molar extraction sockets (n=70) — remains in the pipeline with results pending, and will be the first randomized test of ARP benefit specifically in the periodontally-compromised molar socket ([[bone-regeneration/ridge-preservation/zhang-2022-ridge-preservation-molar-extraction-periodontitis]]).
-
----
+ARP adds only about 1.13 mm of ridge width (Fischer 2022), so most patients still need augmentation at placement; its value lies in reducing defect complexity and placement infeasibility (0.8% vs 4.7%, Lee 2021). rhBMP-2 is the only biologic shown to preserve both dimensions (Alavi 2024). Full synthesis: [[overviews/socket-preservation-prf-biologics-implant-sufficiency-overview]].
 
 ### Axis 6 — Molar-Specific ARP: Site Complexity and Sinus Lift Reduction (Vora et al. 2025)
 
-Most ARP trials enroll single-rooted anterior/premolar sites. Vora et al. 2025 addresses the large molar socket directly — a SR of 14 studies (8 RCTs, 2 CCTs, 4 observational; 571 molar sites) comparing ARP vs. spontaneous healing (SH) at molar extraction sockets:
-
-| Outcome | ARP | Spontaneous Healing (SH) | Interpretation |
-|---|---|---|---|
-| Horizontal width loss (mm) | -1.02 to -2.73 | -2.36 to -4.44 | ARP significantly attenuates loss |
-| Need for advanced augmentation | **20.8%** | **47.7%** | ARP halves the rate |
-| Need for lateral-window sinus lift (maxillary molars) | Reduced | Higher | Clinically significant downstream benefit |
-
-**Key finding — sinus lift reduction**: ARP at maxillary molar sites specifically reduces the probability of needing a lateral-window sinus lift (the most invasive augmentation procedure) — a downstream benefit not captured in single-dimensional analysis but clinically decisive for the posterior maxilla. The 20.8% vs. 47.7% advanced augmentation rate (roughly halved by ARP) aligns directionally with Fischer 2022's single-rooted data, confirming the benefit extends to molar sites.
-
-**Site-specific caveat**: The molar socket presents challenges absent from single-rooted sites — furcation anatomy, larger socket volume, more complex buccal anatomy, and common proximity to the maxillary sinus. Outcome variability is higher, and the Vora SR includes heterogeneous study designs. The core message is that ARP's risk-reduction benefit generalizes to molar sites and that the sinus lift reduction endpoint justifies ARP consideration even in posterior maxilla where clinicians sometimes omit it.
-
----
+At molar sites ARP roughly halves the need for advanced augmentation (20.8% vs 47.7%) and reduces lateral-window sinus lift in the maxilla (Vora 2025). Full synthesis: [[overviews/socket-preservation-prf-biologics-implant-sufficiency-overview]].
 
 ## Clinical Decision Threads [미검증 — Claude 해석]
 
