@@ -1,0 +1,49 @@
+{
+  "overview": "dbbm-core-properties-hybrids-collagen-overview",
+  "date": "2026-10-09",
+  "title": "DBBM 핵심 특성·하이브리드·콜라겐 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/dbbm-core-properties-hybrids-collagen-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "DBBM 단독의 임상 상악동 생검(6–9개월)에서 잔존 이식재 비율과 그 의미는?",
+      "opts": [
+        "약 5%, 거의 모두 흡수된다",
+        "38–44%, 거의 영구적으로 남아 가치가 체적·공간 유지에 있다",
+        "약 90%, 흡수되지 않는다",
+        "측정되지 않았다"
+      ],
+      "ans": 1,
+      "rat": "Almutairi 2025와 Motimath 2026의 6–9개월 생검에서 DBBM 단독의 잔존 이식재는 38–44%였다. DBBM의 가치는 생물학적 자극이 아니라 체적·공간 유지다.",
+      "cite": "overviews/dbbm-core-properties-hybrids-collagen-overview"
+    },
+    {
+      "id": "q2",
+      "q": "Alkandari 2025 RCT 풀링에서 BCP가 DBBM보다 보인 조직계측 차이는?",
+      "opts": [
+        "신생골 +3.48%, 잔존 이식재 −8.41%, 연조직 +6.01%",
+        "신생골 −3.48%, 잔존 +8.41%",
+        "모든 항목 차이 없음",
+        "임플란트 생존율 차이만 보고"
+      ],
+      "ans": 0,
+      "rat": "Alkandari 2025(RCT 10편, n=328)에서 BCP는 신생골 +3.48%, 잔존 이식재 −8.41%, 연조직 +6.01%였다. 잔존 이식재의 I² 86%는 BCP 제형 차이를 반영한다.",
+      "cite": "overviews/dbbm-core-properties-hybrids-collagen-overview"
+    },
+    {
+      "id": "q3",
+      "q": "Lee 2025 비글 연구에서 두 콜라겐 이종골(OCS-B Collagen, Bio-Oss Collagen)의 비교 결과는?",
+      "opts": [
+        "가교 방식 때문에 OCS-B가 우월했다",
+        "두 제품은 무이식보다 우수했고, 제품 간 BMD·BV/TV·BIC·ISQ 차이는 없었다",
+        "Bio-Oss Collagen이 우월했다",
+        "두 제품 모두 무이식과 차이가 없었다"
+      ],
+      "ans": 1,
+      "rat": "Lee 2025에서 두 콜라겐 이종골 모두 무이식보다 BV와 BV/TV가 유의하게 컸지만(p<0.0001), 두 제품 간 차이는 없었다. 콜라겐 가교 방식은 결과를 바꾸지 않았다.",
+      "cite": "overviews/dbbm-core-properties-hybrids-collagen-overview"
+    }
+  ]
+}
