@@ -1,0 +1,49 @@
+{
+  "overview": "misch-papers-overview",
+  "date": "2026-10-09",
+  "title": "Misch 논문 종합 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/misch-papers-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "2025 후향 연구에서 MBL과 임플란트주위염 위험이 가장 컸던 지대주·출현각 조합은?",
+      "opts": [
+        "긴 지대주 + 좁은 출현각",
+        "짧은 지대주(TmAH <2 mm) + 넓은 출현각(≥30°)",
+        "짧은 지대주 + 좁은 출현각",
+        "지대주 높이는 MBL과 무관"
+      ],
+      "ans": 1,
+      "rat": "짧은 지대주+넓은 각 조합이 Long/Narrow 대비 MBL +0.48 mm(p<0.001), 임플란트주위염 OR 4.19(p=0.013). 192개 임플란트·119명·평균 7.4년 후향 방사선 분석(Misch 2025). 단, 이는 골 수준(bone level) 방사선 결과이지 생존율이 아니다.",
+      "cite": "overviews/misch-papers-overview"
+    },
+    {
+      "id": "q2",
+      "q": "2025 연구에서 TmAH가 1 mm 증가할 때 MBL 발생 odds에 미친 효과는?",
+      "opts": [
+        "odds 37% 증가",
+        "odds 37% 감소 (OR 0.63)",
+        "odds 변화 없음",
+        "odds 63% 감소 (OR 0.37)"
+      ],
+      "ans": 1,
+      "rat": "TmAH 1 mm 증가마다 MBL odds 37% 감소(OR 0.63, p=0.003). 이것이 이 묶음에서 유일한 정량 임계값 근거(TmAH 2 mm 기준)이며, 단일 센터 자료다.",
+      "cite": "overviews/misch-papers-overview"
+    },
+    {
+      "id": "q3",
+      "q": "2005 단축 구치부 임플란트(<10 mm) 리뷰가 하중 감소 수단으로 권고한 것은?",
+      "opts": [
+        "측방 접촉·캔틸레버를 늘리고 임플란트 수를 줄인다",
+        "측방 접촉·캔틸레버를 제거하고, 임플란트 수를 늘리며, 직경·표면을 키우고, 고정(splinting)한다",
+        "교합력을 최대화해 골유착을 촉진한다",
+        "단축 임플란트는 하중 관리가 필요 없다"
+      ],
+      "ans": 1,
+      "rat": "단축 임플란트는 크라운 높이·교합력·낮은 골밀도 때문에 하중 관리가 필요하다(Misch 2005 short implants). 권고는 측방 접촉·캔틸레버 제거, 임플란트 추가, 직경·표면 확대, 고정이다. 초록의 99% 생존율은 인용된 원 연구 수치이지 이 리뷰의 결과가 아니다.",
+      "cite": "overviews/misch-papers-overview"
+    }
+  ]
+}
