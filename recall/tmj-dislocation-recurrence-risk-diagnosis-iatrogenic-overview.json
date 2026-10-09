@@ -1,0 +1,49 @@
+{
+  "overview": "tmj-dislocation-recurrence-risk-diagnosis-iatrogenic-overview",
+  "date": "2026-10-09",
+  "title": "TMJ 탈구 재발 위험·진단·의인성 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/tmj-dislocation-recurrence-risk-diagnosis-iatrogenic-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "Helsinki 코호트(n=260)에서 재발을 예측한 요인은?",
+      "opts": [
+        "노령과 여성",
+        "어떤 일반 질환이든 있으면 RR 1.57, 신경질환이 있으면 RR 1.34이며 노령과 여성은 예측하지 못했다",
+        "심혈관 질환만",
+        "외상 병력"
+      ],
+      "ans": 1,
+      "rat": "Helsinki 코호트에서 일반 질환 RR 1.57(p<0.001), 신경질환 RR 1.34(p=0.003)였고 노령(p=0.655), 여성(p=0.365), 심혈관 질환(p=0.954)은 예측하지 못했다. 재발군에서는 자발성 탈구가 71.2%였다.",
+      "cite": "overviews/tmj-dislocation-recurrence-risk-diagnosis-iatrogenic-overview"
+    },
+    {
+      "id": "q2",
+      "q": "외상 제시에서 정복 전 영상에 관한 규칙은?",
+      "opts": [
+        "영상은 항상 불필요하다",
+        "정복 전 CT나 MRI가 필수이며, 환자 유도 정복은 골절이 의심되거나 확진된 경우 권고되지 않는다",
+        "영상은 정복 후에만 찍는다",
+        "MRI는 금기다"
+      ],
+      "ans": 1,
+      "rat": "Lin 2026의 규칙으로, 외상 제시에서는 정복 전 CT나 MRI가 필수이고 환자 유도 정복은 골절 의심 시 권고되지 않는다. 83명 중 12명(14.5%)은 영상 없이 치료했고 정복 후 CT로 확인했다.",
+      "cite": "overviews/tmj-dislocation-recurrence-risk-diagnosis-iatrogenic-overview"
+    },
+    {
+      "id": "q3",
+      "q": "의인성 탈구에 대해 독일 지침과 ESTMJS가 갈린 점은?",
+      "opts": [
+        "둘 다 같은 권고를 했다",
+        "독일 지침(GoR B)은 전신마취 전 이전 탈구를 묻고 삽관 전후 턱 기능을 확인하라고 했지만, ESTMJS는 이를 마취과 소관이라며 삭제했다",
+        "ESTMJS가 더 강한 권고를 했다",
+        "둘 다 의인성을 언급하지 않았다"
+      ],
+      "ans": 1,
+      "rat": "의인성은 Helsinki 코호트 기전의 10.8%, Lin의 83명 중 10명이었다. 치과 지식 기반에서는 발치와 긴 치료가 명시된 처치이고 선별 질문이 비용이 들지 않으므로 독일 입장을 유지한다.",
+      "cite": "overviews/tmj-dislocation-recurrence-risk-diagnosis-iatrogenic-overview"
+    }
+  ]
+}
