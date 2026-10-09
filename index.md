@@ -2161,6 +2161,7 @@ tags: []
 - [[overviews/oral-hygiene-instruction-overview]] — 구강위생교육 종합 (35편, 2026-09-30): 전동칫솔(oscillating-rotating) SUCRA 89.2% 1위(Luo 2026 NMA); 수동 칫솔질 기법 간 우열 없음; 전동칫솔 3개월 이상 치은염 유의 감소
 - [[overviews/screw-access-hole-sealing-protocol-overview]] — **NEW Overview** (Synthesis 2026-09-28, 3편): 나사유지 스크류 접근홀(SAH) 봉쇄 3변수 종합 — 건조 코튼 대신 PTFE 또는 1% CHX 코튼 사용(혐기성균 양성률 코튼 95%→PTFE 50%, Co1%CHX 20%, Singla RCT); 벽 처리는 도재·LDS면 HF+실란, 지르코니아면 에어어브레이전+MDP(Pereira, 위키 기존근거); 콤포지트는 1.5mm 이상 확보(피로하중 1426 vs 대조군 1120N, Packaeser, 시멘트유지 어버트먼트 홀에서 외삽). 통합 프로토콜 자체를 검증한 연구는 없음 — 근거 약~중등도
 - [[overviews/misch-papers-overview]] — **NEW Overview** (Synthesis 2026-10-09, 15편, Misch 1993–2025): 골이식·골질 기반 설계·교합 하중·크라운 높이·생존 정의·신경 관리를 "응력을 어떻게 나눌 것인가" 한 질문으로 묶음 — 정량 근거는 2025 후향 지대주 연구 한 편(짧은 지대주+넓은 출현각 MBL +0.48 mm, OR 4.19), 나머지는 원칙·합의·증례 수준
+- [[overviews/early-bone-loss-loading-foundations-overview]] — **NEW Overview** (Synthesis 2026-10-09, 5편, 1992–2005 Misch 공저 고찰): 힘 전달 어휘·역토크 검사 비판·초기 골소실 여섯 가설·설계 절충·교합 가이드라인을 기초 질문으로 묶음 — 전 5편 서술적·초록만, 공저라 독립 확인 아님; 기준선은 Kumar 2021 1년 pooled MBL 0.56 mm(I² 99.8%)와 구분해서 읽을 것
 
 ## 구강내과 — 구강점막질환 (Oral Medicine: OPMD / OLP / BMS / RAS)
 - [[oral-medicine/trigeminal-neuralgia/khan-2023-trigeminal-neuralgia-therapeutic-approach-sr]] — Khan 2023 · sr · 삼차신경통 약물 사다리, 1차 카르바마제핀·옥스카르바제핀, 2차 라모트리진·바클로펜, 난치성 BoNT-A·MVD (DOI 10.3390/biomedicines11102606)
