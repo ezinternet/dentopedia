@@ -1,0 +1,49 @@
+{
+  "overview": "clear-aligner-patient-consent-pro-overview",
+  "date": "2026-10-09",
+  "title": "투명교정 환자 기대·동의·PRO·순응도 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/clear-aligner-patient-consent-pro-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "술 전 설문(Nemec 2026, n=82)에서 환자가 기대한 투명교정의 예측성과 고정장치 대비 동등성 점수는?",
+      "opts": [
+        "예측성 5.0/10, 동등성 6.0/10",
+        "예측성 8.6/10, 동등성 9.5/10",
+        "예측성 9.5/10, 동등성 8.6/10",
+        "점수가 측정되지 않았다"
+      ],
+      "ans": 1,
+      "rat": "Nemec 2026(n=82)에서 환자는 예측성 8.6/10, 고정장치와의 결과 동등성 9.5/10을 기대했다. 결과 품질을 기간·비용과 맞바꾸려는 의지는 낮았다(≤2.6/10).",
+      "cite": "overviews/clear-aligner-patient-consent-pro-overview"
+    },
+    {
+      "id": "q2",
+      "q": "Chong 2025 scoping review(37편)가 보고한 완전 순응 비율과 순응도와 만족도의 관계는?",
+      "opts": [
+        "완전 순응 36%, 순응도가 높을수록 만족도도 높았다",
+        "완전 순응 36%, 순응도는 만족도와 무관했다",
+        "완전 순응 80%, 순응도가 낮으면 만족도가 낮았다",
+        "순응도는 측정되지 않았다"
+      ],
+      "ans": 1,
+      "rat": "Chong 2025는 완전 순응(하루 22시간 이상)이 36%뿐이었지만, 순응도는 치료 만족도와 무관했다. 따라서 만족도는 착용 순응의 대리지표가 아니다.",
+      "cite": "overviews/clear-aligner-patient-consent-pro-overview"
+    },
+    {
+      "id": "q3",
+      "q": "RCT만 모은 SR+MA(Lalli 2026, n=74)가 보고한 투명교정의 OHRQoL 우위는 어느 영역에 있는가?",
+      "opts": [
+        "전반적 삶의 질 전 영역",
+        "심리적 불편과 심리적 장애 영역 (기능적 장애 영역은 동등)",
+        "기능적 장애 영역에서만",
+        "모든 영역에서 고정장치 우위"
+      ],
+      "ans": 1,
+      "rat": "Lalli 2026 TSA 포함 SR+MA는 심리적 불편(WMD −1.28)과 심리적 장애(WMD −1.63)에서 투명교정 우위를 보고했고, 장애 영역은 동등했다. 우위는 심리·사회 영역에 국한된다.",
+      "cite": "overviews/clear-aligner-patient-consent-pro-overview"
+    }
+  ]
+}
