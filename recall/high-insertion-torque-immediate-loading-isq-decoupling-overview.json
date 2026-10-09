@@ -1,0 +1,49 @@
+{
+  "overview": "high-insertion-torque-immediate-loading-isq-decoupling-overview",
+  "date": "2026-10-09",
+  "title": "고삽입토크 즉시 부하·ISQ 분리 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/high-insertion-torque-immediate-loading-isq-decoupling-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "즉시 부하에서 Bavetta 2019와 Song 2026이 보여 준 삽입 토크 기준은?",
+      "opts": [
+        "가능한 한 높은 토크가 필요하다",
+        "약 30–35 Ncm의 적당한 하한(Bavetta ≥35 Ncm, Song ≥30 Ncm)으로 충분했다",
+        "토크 기준이 필요 없다",
+        "70 Ncm 이상만 가능하다"
+      ],
+      "ans": 1,
+      "rat": "Bavetta 2019는 IT ≥35 Ncm만으로 즉시 부하한 41개가 모두 생존했고, Song 2026은 ≥30 Ncm 기준으로 3년 MBL이 ~0.23 vs 0.50 mm(비유의)였다. 필요한 것은 최대가 아니라 충분한 토크다.",
+      "cite": "overviews/high-insertion-torque-immediate-loading-isq-decoupling-overview"
+    },
+    {
+      "id": "q2",
+      "q": "Tisci 2026 SR+MA가 IT–ISQ 관계와 ISQ의 예측력에 대해 보고한 것은?",
+      "opts": [
+        "강하고 균질한 상관(r>0.8)이며 ISQ가 MBL을 독립적으로 예측한다",
+        "r=0.44(I²>90%)의 약하고 이질적인 상관이며, ISQ를 MBL이나 생존의 독립 예측인자로 확립하지 못했다",
+        "상관이 없다(r=0)",
+        "IT가 ISQ를 완전히 대체한다"
+      ],
+      "ans": 1,
+      "rat": "Tisci 2026(48편 중 20편 메타분석)에서 IT–ISQ 풀링 상관은 r=0.44(95% CI 0.32–0.55)이고 I²>90%였다. ISQ는 MBL이나 생존의 독립 예측인자로 확립되지 않았다.",
+      "cite": "overviews/high-insertion-torque-immediate-loading-isq-decoupling-overview"
+    },
+    {
+      "id": "q3",
+      "q": "Rosas-Díaz 2024 in vitro 실험에서 언더밀링을 늘렸을 때 일어난 일은?",
+      "opts": [
+        "ITV와 ISQ가 함께 크게 올랐다",
+        "ITV는 25.1 → 63.2 Ncm로 크게 올랐지만 ISQ는 67.6 → 65.7(p=0.166)로 변하지 않았다",
+        "ITV가 내려갔다",
+        "ISQ만 올랐다"
+      ],
+      "ans": 1,
+      "rat": "Rosas-Díaz 2024(n=120)에서 압박 프로토콜이 ITV 분산의 63.9%를 설명했지만 ISQ는 통계적으로 변하지 않았다. 표면 압박으로 올린 토크가 공명 주파수 안정성 상승은 아니다.",
+      "cite": "overviews/high-insertion-torque-immediate-loading-isq-decoupling-overview"
+    }
+  ]
+}
