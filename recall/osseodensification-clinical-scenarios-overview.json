@@ -1,0 +1,49 @@
+{
+  "overview": "osseodensification-clinical-scenarios-overview",
+  "date": "2026-10-09",
+  "title": "골밀도화 4개 적용 시나리오 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/osseodensification-clinical-scenarios-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "López-Valverde 2025 SR+MA(좁은 치조정)에서 견고했던 결과와 취약했던 결과는?",
+      "opts": [
+        "치조정 확장과 ISQ가 견고하고 골밀도는 취약",
+        "골밀도(SMD −0.71, I²=0%)만 견고하고 치조정 확장·ISQ는 출판편향 위험이 높아 취약",
+        "세 결과 모두 견고",
+        "세 결과 모두 비유의"
+      ],
+      "ans": 1,
+      "rat": "López-Valverde 2025는 골밀도(I²=0%)만 견고했고, 치조정 확장은 민감도 분석 전에 비유의였으며 ISQ는 I²=96%였다. 또한 세 기법을 합친 실험군 대 대조군이어서 OD 대 골 확장의 직접 비교가 아니다.",
+      "cite": "overviews/osseodensification-clinical-scenarios-overview"
+    },
+    {
+      "id": "q2",
+      "q": "경치조골 상악동 거상에서 OD의 천공 관련 위험 인자와 비교 결과는?",
+      "opts": [
+        "천공률 약 40%, RBH와 무관",
+        "천공률 7.31%이고 잔존 골 높이 ≤3 mm가 독립 위험인자이며, 경치조골에서 합병증은 OD 2.78% vs osteotome 14.32%",
+        "천공이 전혀 없다",
+        "천공률이 osteotome보다 높다"
+      ],
+      "ans": 1,
+      "rat": "Mazor 2024(670부위)에서 OD 기반 TSFE 슈나이더막 천공률은 7.31%이고 RBH ≤3 mm가 독립 위험인자였다. Cobo-Vázquez 2025에서 경치조골 합병증은 OD 2.78%, osteotome 14.32%였으나 OD가 더 높은 골에 적용되었다.",
+      "cite": "overviews/osseodensification-clinical-scenarios-overview"
+    },
+    {
+      "id": "q3",
+      "q": "HaeNaem CW-OD 임상근거로 인용하면 안 되는 논문은 왜 그런가?",
+      "opts": [
+        "표본이 작아서",
+        "Changrani 2024 전향 연구가 이후 철회되었기 때문",
+        "대조군이 있어서",
+        "언어가 달라서"
+      ],
+      "ans": 1,
+      "rat": "Changrani 2024(Cureus, 전향적 단일군 n=12)는 이후 철회(retracted)되었으므로 그 수치는 근거로 사용할 수 없다. 현재 HaeNaem CW-OD에 대한 유효한 전향 임상 근거는 없다.",
+      "cite": "overviews/osseodensification-clinical-scenarios-overview"
+    }
+  ]
+}
