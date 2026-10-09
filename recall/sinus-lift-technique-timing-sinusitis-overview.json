@@ -1,0 +1,49 @@
+{
+  "overview": "sinus-lift-technique-timing-sinusitis-overview",
+  "date": "2026-10-09",
+  "title": "상악동 거상 술식·시점·부비동염 예방 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/sinus-lift-technique-timing-sinusitis-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "술 전 만성 부비동염이 측방 거상 후 감염과 임플란트 손실에 미치는 관계는?",
+      "opts": [
+        "영향이 없었다",
+        "감염과 임플란트 손실 모두에서 1순위 독립 예측인자(p=0.007)였다",
+        "임플란트 손실에만 영향을 주었다",
+        "감염에만 영향을 주었다"
+      ],
+      "ans": 1,
+      "rat": "Kozuma 2017(109명, 121 상동)에서 술 전 만성 부비동염은 감염(p=0.007)과 임플란트 손실(p=0.007) 모두의 1순위 독립 예측인자였다. 합병증 8건 전부가 이 군에서 나왔다.",
+      "cite": "overviews/sinus-lift-technique-timing-sinusitis-overview"
+    },
+    {
+      "id": "q2",
+      "q": "Rocha 2023 SR+MA(27편)가 보고한 부비동염 빈도에서 측방창과 치조정 접근, 관골 임플란트 기법의 차이는?",
+      "opts": [
+        "측방창 1.35%, 치조정 0.00%, 관골 sinus-slot 21.62%, extrasinus 0.00%",
+        "모든 술식이 동일하게 0%",
+        "측방창이 가장 낮다",
+        "관골 임플란트만 측정되었다"
+      ],
+      "ans": 0,
+      "rat": "Rocha 2023은 측방창 1.35%, 치조정 0.00%를 보고했고, 관골 임플란트에서는 sinus-slot 21.62%, extrasinus 0.00%였다. 세부 기법이 술식 범주보다 위험을 더 결정했다.",
+      "cite": "overviews/sinus-lift-technique-timing-sinusitis-overview"
+    },
+    {
+      "id": "q3",
+      "q": "Park 2023(n=103)이 보고한 측방과 치조정 거상의 3년 흡수 비교 결과는?",
+      "opts": [
+        "측방이 3년 흡수가 훨씬 크다",
+        "초기 이득은 측방이 크지만(12.0 vs 8.07 mm) 3년 흡수는 같다(0.95 vs 0.98 mm)",
+        "치조정이 초기 이득도 더 크다",
+        "비교되지 않았다"
+      ],
+      "ans": 1,
+      "rat": "Park 2023에서 측방 거상의 초기 이득은 12.0 mm로 치조정 8.07 mm보다 컸지만, 3년 흡수는 0.95 vs 0.98 mm로 같았다. 잔존 골 높이가 결정 변수다.",
+      "cite": "overviews/sinus-lift-technique-timing-sinusitis-overview"
+    }
+  ]
+}
