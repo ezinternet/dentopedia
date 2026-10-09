@@ -1436,6 +1436,10 @@ tags: []
 ### 투명교정 (Clear Aligner) — 적응증·한계 (`orthodontics/clear-aligner`)
 - [[overviews/clear-aligner-indications-limitations]] — **종합 오버뷰** (20편): 투명교정 적응증·한계 — 효율(경중등도 OK·중증/torque/rotation 열등)·Class II(distalization·MA)·생체역학(attachment·trimline)·안전성(치근흡수)·치주·저작/TMJ·가속·biofilm
 - [[overviews/clear-aligner-class-ii-iii-expansion-overview]] — **하위 오버뷰** (모체 clear-aligner-indications-limitations 2·3·5절 분리): 투명교정 골격 Class II(distalization·MA)·Class III(증례 수준 86% 4–5등급)·상악 확장(치아성 한계, 부위별 예측성 65–81%)
+- [[overviews/clear-aligner-efficacy-accelerated-overview]] — **하위 오버뷰** (모체 1·9절 분리): 투명교정 vs 고정장치 등가 경계, 이동별 정확도(토크 최저·압출 역전·회전 ~65%), 발치 증례 누적 penalty, 가속 보조 무효
+- [[overviews/clear-aligner-design-materials-overview]] — **하위 오버뷰** (모체 4·10절 분리): 부착물 게이트·트림라인·TM vs DTP 재료·부착물 형태·최적화 부착물 임상 이득 없음·브랜드 예측성 비교
+- [[overviews/clear-aligner-safety-periodontal-tmj-overview]] — **하위 오버뷰** (모체 6·7·8절 분리): 뿌리 흡수 미미·치조골은 이동 벡터·발치 프로토콜, 치주 단기 우위 크기 작음, 칫솔은 부착물 주변 기술이 관건, 저작근·TMJ 중립
+- [[overviews/clear-aligner-patient-consent-pro-overview]] — **하위 오버뷰** (모체 11·12절 분리): 환자 기대 과대(예측성 8.6/10)·동의 조정, OHRQoL 이점은 초기·심리 영역에 국한, 완전 순응 36%, 만족도는 순응 대리지표 아님
 - [[overviews/invisalign-itero-digital-workflow-accuracy-overview]] — **종합 오버뷰** (12편): Invisalign·iTero 디지털 워크플로우 정확도 종합 — IOS vs 기존인상 정확도·예측성(투명교정 이동 달성률)·스캐너별 성능 비교·임상 의사결정 프레임워크
 - [[overviews/clear-aligner-adverse-effects-overview]] — **종합 오버뷰** (6편): 투명교정 부작용 종합 — 통증(24h 정점→1wk 최소)·치근흡수(EARR: CBCT−0.56mm/RCT 3D−0.72mm/−0.33mm, 심각 >20%는 치아 3.7–6.3%만)·플라크·WSL 고정식 대비 우위·수동/전동 칫솔 무차이; 동의서 체크리스트 + 측정 렌즈(절대vs비교·3Dvs2D)별 수치 조정
 - [[overviews/clear-aligner-patient-experience-brand-overview]] — **NEW Overview** (10편, 2026-08-24): 투명교정 환자경험·순응도·브랜드 비교 종합 — OHRQoL(OHIP-14·PIDAQ·VAS) 고정식 대비 CA 우위·통증 초기 집중 후 감소; compliance 65–80% 불완전·예측불가; 브랜드별 색안정성·바이오필름·VTS 차이; 환자 기대치 극히 높고 경직적(Nemec). 임상 takeaway: 장기 미용 우위이나 복잡 증례 함정과 기대 관리가 핵심.
