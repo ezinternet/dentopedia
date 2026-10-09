@@ -1,0 +1,49 @@
+{
+  "overview": "cr-co-micp-measurement-chain-verification-overview",
+  "date": "2026-10-09",
+  "title": "CR/CO-MIP 측정 사슬·치료 제약 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/cr-co-micp-measurement-chain-verification-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "Rovira-Lastra 2026에서 교합지(articulating paper)가 보인 참양성·거짓양성 비율과 기준 변경의 효과는?",
+      "opts": [
+        "참양성 100%, 거짓양성 0%",
+        "참양성 81%, 거짓양성 15%; 양악 교합 일치를 요구하면 거짓양성이 2.0%로 떨어졌다",
+        "참양성 50%, 거짓양성 50%",
+        "측정되지 않았다"
+      ],
+      "ans": 1,
+      "rat": "Rovira-Lastra 2026(32명 자연치열)에서 교합지는 접촉점 수준 참양성 81%, 거짓양성 15%였다. 200 µm 교합지가 100 µm보다 거짓양성이 적었고(9.4% vs 20.6%), 양악 교합 일치를 요구하면 2.0%로 떨어졌다.",
+      "cite": "overviews/cr-co-micp-measurement-chain-verification-overview"
+    },
+    {
+      "id": "q2",
+      "q": "Rani 2024가 보고한 wax와 탄성체의 차이에 대해, 근거가 뒷받침하지 못하는 것은?",
+      "opts": [
+        "wax가 탄성체보다 약 6배 나쁘다는 것",
+        "탄성체 세 종 중 polyether가 최선이라는 결론(세 탄성체는 p=0.90–0.99로 구별되지 않았고, 단위도 밝혀지지 않았다)",
+        "wax와 탄성체의 차이 방향",
+        "측정 재료의 존재"
+      ],
+      "ans": 1,
+      "rat": "Rani 2024는 wax가 탄성체보다 약 6배 나쁘다고 보고했지만, 세 탄성체는 Tukey 검정에서 구별되지 않았고(p=0.90–0.99) 단위도 밝히지 않았다. 따라서 polyether가 최선이라는 저자 결론은 뒷받침되지 않는다.",
+      "cite": "overviews/cr-co-micp-measurement-chain-verification-overview"
+    },
+    {
+      "id": "q3",
+      "q": "Singh 2024 Cochrane SR이 교합 조정과 비가역 교합 변경에 대해 내린 결론은?",
+      "opts": [
+        "교합 조정은 TMD에 효과가 있으므로 권장된다",
+        "교합 조정은 효과가 없고, 비가역 교합 변경은 근거 없이 위험이 있어 강한 비권고다",
+        "스플린트가 교합 조정보다 효과가 명확하다",
+        "근거가 없어 결론을 내리지 않았다"
+      ],
+      "ans": 1,
+      "rat": "Singh 2024 Cochrane은 교합 조정이 효과가 없고, 안정화 스플린트는 매우 낮은 확실성의 작은 효과만 있으며, 비가역 교합 변경은 근거가 없고 위험이 있어 강한 비권고를 내렸다. 따라서 CR–MIP 편차는 조정 지시가 아니라 진단 정보다.",
+      "cite": "overviews/cr-co-micp-measurement-chain-verification-overview"
+    }
+  ]
+}
