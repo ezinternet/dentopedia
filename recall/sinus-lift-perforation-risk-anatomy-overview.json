@@ -1,0 +1,49 @@
+{
+  "overview": "sinus-lift-perforation-risk-anatomy-overview",
+  "date": "2026-10-09",
+  "title": "상악동 거상 천공 위험 — 해부·행동 인자 리콜",
+  "source_wiki": [
+    "wiki/overviews/sinus-lift-perforation-risk-anatomy-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "Henriques 2022 SR+MA가 보고한 상악동당 중격 유병률과 방향 분포는?",
+      "opts": [
+        "상동당 약 10%, 대부분 종방향",
+        "상동당 33.2%, 약 86%가 횡방향",
+        "상동당 70%, 대부분 사선",
+        "측정되지 않았다"
+      ],
+      "ans": 1,
+      "rat": "Henriques 2022(62편, 22,460 상동)는 상동당 중격 유병률 33.2%, 환자당 41.0%를 보고했고, 중격의 86%가 횡방향이라 측방창 절개선과 교차한다.",
+      "cite": "overviews/sinus-lift-perforation-risk-anatomy-overview"
+    },
+    {
+      "id": "q2",
+      "q": "Nemati 2023 다변량 모델에서 천공의 해부 예측인자로 가장 강했던 것은?",
+      "opts": [
+        "중격(HR 8.07)",
+        "막 낭종(MRC, HR 27.75)",
+        "흡연(HR 25.00)만 해당",
+        "잔존 치조능 높이"
+      ],
+      "ans": 1,
+      "rat": "Nemati 2023 다변량 모델에서 막 낭종 HR은 27.75(95% CI 8.73–88.23)로 중격 HR 8.07보다 강한 해부 예측인자였다. 흡연 HR 25는 고위험 코호트의 값이다.",
+      "cite": "overviews/sinus-lift-perforation-risk-anatomy-overview"
+    },
+    {
+      "id": "q3",
+      "q": "흡연과 측방창 천공의 연관성에서, 일반화에 더 적합한 추정치는?",
+      "opts": [
+        "Nemati 2023의 HR 25.00",
+        "Wang 2023 SR+MA의 OR 1.58(9편, n=1,424)",
+        "두 값이 정반대라서 결론 불가",
+        "흡연은 천공과 무관하다"
+      ],
+      "ans": 1,
+      "rat": "Wang 2023 SR+MA(9편, n=1,424)는 OR 1.58(95% CI 1.10–2.25, I²=5%)을 보고했다. Nemati 2023 HR 25는 RBH <5 mm의 고위험 코호트 값이라 일반화 가능성이 낮다.",
+      "cite": "overviews/sinus-lift-perforation-risk-anatomy-overview"
+    }
+  ]
+}
