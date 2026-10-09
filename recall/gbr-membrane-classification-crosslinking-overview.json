@@ -1,0 +1,49 @@
+{
+  "overview": "gbr-membrane-classification-crosslinking-overview",
+  "date": "2026-10-09",
+  "title": "GBR 막 분류·가교화 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/gbr-membrane-classification-crosslinking-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "GBR(골 증대)과 GTR(치주 재생)에 필요한 막의 장벽 기능 기간은?",
+      "opts": [
+        "GBR 4–6주, GTR 16–24주",
+        "GBR 16–24주, GTR 4–6주",
+        "둘 다 2주",
+        "둘 다 1년"
+      ],
+      "ans": 1,
+      "rat": "Sasaki 2021은 GTR에 4–6주, GBR에 16–24주의 장벽 기능이 필요하다고 정리했다. 생분해성 여부를 넘어서는 근거 기반 막 선택 지침은 없다.",
+      "cite": "overviews/gbr-membrane-classification-crosslinking-overview"
+    },
+    {
+      "id": "q2",
+      "q": "Park 2015 토끼 두개골 연구에서 EDC 가교 막 단독군에서 관찰된 것은?",
+      "opts": [
+        "2주에 중앙부가 붕괴되었고, 이식재가 있어야 공간이 유지되었다",
+        "8주에도 중앙부가 완벽히 유지되었다",
+        "이물 반응이 심했다",
+        "신생골이 전혀 없었다"
+      ],
+      "ans": 0,
+      "rat": "Park 2015에서 EDC 막(Rapigide)은 2주에 막을 통과하는 혈관 신생과 8주 형태 유지를 보였지만 막 단독군은 2주에 중앙부가 붕괴되었다. 결과 순위는 BCP + EDC 막 > BCP 단독 > EDC 막 단독 > sham으로, 막은 이식재 지지 없이는 공간을 유지하지 못한다.",
+      "cite": "overviews/gbr-membrane-classification-crosslinking-overview"
+    },
+    {
+      "id": "q3",
+      "q": "Friedmann 2022 비글 연구에서 리보스 가교 막(Ossix Plus)이 보인 결과는?",
+      "opts": [
+        "천연 콜라겐 막과 핀 고정을 한 군보다 신생골이 유의하게 많았다(p=0.001)",
+        "핀 고정이 반드시 필요했다",
+        "천연 콜라겐 막보다 신생골이 적었다",
+        "결과가 보고되지 않았다"
+      ],
+      "ans": 0,
+      "rat": "Friedmann 2022(비글 5마리)에서 DBBM + 리보스 가교 막(핀 없음)은 DBBM + 천연 콜라겐 막(Bio-Gide, 핀 4개)보다 신생골이 유의하게 많았다(p=0.001). 가교 막은 충분한 자체 안정성이 있으면 핀 고정이 필요 없을 수 있다.",
+      "cite": "overviews/gbr-membrane-classification-crosslinking-overview"
+    }
+  ]
+}
