@@ -1,0 +1,89 @@
+---
+title: "고삽입토크 — 즉시 부하 예외·ISQ 비대리성·토크를 읽을 수 없는 영역 종합 (Immediate-Loading Exception, IT–ISQ Decoupling & the No-Torque Regime)"
+authors: Synthesis (Damian Lee)
+year: 2026
+date: 2026-10-09
+doi: N/A
+source: N/A
+category: overviews
+evidence_level: synthesis
+pdf_path: N/A
+pdf_filename: N/A
+source_collection: synthesis
+tags: [insertion-torque, primary-stability, sub-overview, immediate-loading, isq, micromotion, tapered, no-torque]
+relations:
+  - type: extends
+    target: high-insertion-torque-primary-stability-crestal-bone-overview
+---
+
+> [!summary] 한국어 핵심요약
+> - 범위: 모체의 Key Contributions 5–7(즉시 부하 예외, IT가 ISQ 대리가 아닌 이유, 토크를 읽을 수 없는 세 번째 영역)을 분리한 하위 종합. 번호는 모체 기준을 유지한다. [확인]
+> - 즉시 부하 예외: Lemos 데이터에서 신호가 보이는 하위군은 즉시 부하이고 낮은 IT가 더 나빴다. 해로움은 지연 부하(Marconcini, Faot는 3개월 부하) 결과다. 즉시 부하된 고IT 임플란트의 3년 치조정 골을 측정한 보유 논문은 없고, 이것이 모체에서 가장 의사결정에 중요한 공백이다. [확인]
+> - 문턱은 최대가 아니라 충분한 값이다. Bavetta 2019(41개, 발치와 22 vs 치유 부위 19): 발치와 ISQ 57.6 vs 72.9(p<0.001)였는데도 IT ≥35 Ncm만으로 즉시 부하한 41개가 모두 생존했다. Song 2026(RCT 61개, 3년): 기준 ≥30 Ncm, MBL ~0.23 vs 0.50 mm(비유의), 늦은 실패 0. [확인]
+> - Darriba 2023 SR+MA(7 시험, 326개, 평균 24개월): ≤35 Ncm 생존 96% vs 그 이상 92%(IRR 1.05, 95% CI 0.79–1.39, p=.175, I²=0%). ≤20 Ncm는 연결 보철, >20 Ncm는 단일 크라운으로 성공해 35 Ncm는 생존선이 아니라 보철 설계 결정선이다. [확인]
+> - IT는 ISQ의 대리가 아니다. Faot의 IT–ISQ Kendall τ=0.252, Trisi에서 RFA/ISQ가 7일째 안정성 저하를 감지하지 못했다. Tisci 2026(48편 중 20편 메타분석)의 풀링 상관은 r=0.44(95% CI 0.32–0.55)이고 I²>90%이며, ISQ는 MBL이나 생존의 독립 예측인자로 확립되지 않았다. [확인]
+> - 실험적 분리: Rosas-Díaz 2024(in vitro n=120)에서 언더밀링으로 ITV가 25.1 → 63.2 Ncm 올라도 ISQ는 67.6 → 65.7(p=0.166)로 변하지 않았다. Brizuela-Velasco 2015에서는 ISQ가 미세운동을 IT보다 잘 예측했고(r=0.91), IT–미세운동 곡선에 약 30–34 Ncm 문턱이 있었다. [확인]
+> - RCT 확인: Konuklu 2026(n=100, 5군)에서 800 rpm이 가장 높은 IT를 냈지만 3개월 ISQ는 300 rpm이 우위였다. Kwon 2026(n=54)에서 깊은 나사산은 ≥40 Ncm 달성이 14/18 vs 8/18이었지만 ISQ와 12개월 MBL은 같았고 각도 정확도가 나빴다. [확인]
+> - 테이퍼의 토크 역전(Charoenniwassakul 2025, RCT 85개): BLX 테이퍼가 최대 삽입 토크는 높았지만(42.35 vs 30.63 N·cm) 6주 ISQ는 원통형 BL이 높았다(75.21 vs 72.23, p=0.02). 마찰 이득이 리모델링으로 소실된다는 해석과 일치한다. [확인]
+> - 토크를 읽을 수 없는 영역: 골 형성이 과대하면 뼈가 저항하지 않아 토크 값이 나오지 않는다. Andersen 2023(sawbone, 칼슘 인산 접착 시멘트)에서 15분 경화 후 모든 구성이 제거 토크 32 Ncm를 넘었다. 치유와 골유착이 없는 벤치 모델이고 35 Ncm 삽입 토크 하한과 같은 지표가 아니므로 임상에 옮기지 않는다. [확인]
+> - 종합 한 줄: "55 Ncm까지 넣었으니 안정성은 충분하다"는 직관은 두 번 틀린다. 토크는 ISQ를 예측하지 못하고, ISQ는 치조정 리모델링을 보지 못한다. [미검증]
+
+## Three-line Summary
+
+This sub-overview holds the last three key contributions of the parent high-insertion-torque synthesis: the immediate-loading exception, why insertion torque is not an ISQ proxy, and the regime in which there is no torque to read.
+For immediate loading the evidence supports a moderate floor of about 30–35 Ncm rather than maximal torque, while no held paper measures three-year crestal bone in immediately loaded high-torque implants.
+Insertion torque and ISQ decouple in vitro and in vivo, ISQ does not independently predict marginal bone loss or survival, and an adhesive-cement bench study offers a candidate answer for oversized sites that must not be carried to the chair.
+
+## 세줄요약
+
+이 하위 종합은 모체 고삽입토크 종합의 마지막 세 가지 핵심 기여를 담는다: 즉시 부하 예외, 삽입 토크가 ISQ의 대리가 아닌 이유, 읽을 토크가 없는 영역.
+즉시 부하에서는 최대 토크가 아니라 약 30–35 Ncm의 적당한 하한이 근거로 지지되며, 즉시 부하된 고토크 임플란트의 3년 치조정 골을 측정한 보유 논문은 없다.
+삽입 토크와 ISQ는 in vitro와 in vivo 모두에서 분리되고, ISQ는 MBL이나 생존을 독립적으로 예측하지 못하며, 접착 시멘트 벤치 연구는 과대 형성에 대한 후보 답일 뿐 임상에 옮겨서는 안 된다.
+
+## Scope
+
+Key Contributions 5, 6 and 7 of the parent, moved verbatim from [[overviews/high-insertion-torque-primary-stability-crestal-bone-overview]]. The parent keeps a stub for each. "§N" and "Rule N" references inside the text follow the parent's numbering: §1–§4 are in [[overviews/high-insertion-torque-sign-flip-crestal-harm-overview]], and the Rules are in the parent's Results section. Related ISQ context: [[overviews/isq-loading-threshold]] and [[overviews/implant-macrogeometry-length-diameter-primary-stability-overview]].
+
+### 5. The immediate-loading exception runs the other way
+
+Within Lemos's data the one subgroup with a visible signal is immediate loading, where **low** IT performed worse. This is the mirror image of the crestal-harm axis and it is decision-relevant: when the alternative to high torque is an implant that lacks the mechanical stability to survive being loaded, the crestal cost is a trade you may rationally accept. The harm axis (Marconcini, Aldahlawi) is a delayed/conventional-loading finding — Marconcini loaded at 3 months, Faot at 3 months. **No held paper measures 3-year crestal bone in immediately loaded high-IT implants.** That is the single most decision-relevant gap in this cluster.
+
+**Bavetta 2019** (retrospective, 41 tapered implants immediately loaded — 22 fresh extraction sockets vs 19 healed sites) supplies a concrete threshold for exactly this trade-off, and independently corroborates why torque, not ISQ, should govern the immediate-loading decision. Fresh-socket implants started with significantly lower placement-day ISQ than healed sites (57.6 vs 72.9, p<0.001) — below the conventional ≥70 "safe to load" threshold — yet **all 41 implants survived using IT ≥35 Ncm as the sole loading criterion**, with ISQ converging between groups by 4 months. Read alongside Faot and Lemos, this reframes the "chase high torque for immediate loading" rule: the load-bearing threshold in this cluster is not "as high as possible" but a **specific, moderate floor (≥35 Ncm)** — high enough to safely load a fresh socket whose ISQ would otherwise look alarming, without requiring the ≥50 Ncm range where Marconcini and Aldahlawi's crestal harm signal begins. This narrows Rule 5 below from "take the torque" to "take *enough* torque, not maximal torque."
+
+**Song 2026** (RCT, 61 implants in 28 patients, posterior maxilla and mandible, 3-year follow-up; tapered SLActive vs straight SLA under immediate loading) partially addresses the most clinically urgent gap on this page: crestal bone outcomes at 3 years for immediately loaded implants. MBL was minimal and equivalent between tapered and straight groups at 3 years (~0.23 vs 0.50 mm, NS), and zero late failures occurred in either group after the first year — all implant losses were early (osseointegration phase). The loading gate used was IT ≥30 Ncm (two straight implants failed to qualify; zero tapered did), placing this threshold slightly below Bavetta 2019's ≥35 Ncm with concordant outcomes. Read together, the two studies now bracket a moderate floor — not "as high as possible," but enough to secure immediate loading safely. **This does not fully close Gap #4**: Song 2026 did not isolate "high IT" cases nor compare high vs low IT within the immediately loaded group, so the specific question of *whether high IT imposes a crestal cost under immediate loading over 3 years* remains unanswered. What it does establish is that immediate loading per se — in a well-selected ≥30 Ncm cohort — does not impose severe 3-year crestal bone loss even in posterior healed-site implants.
+
+SR+MA-level evidence now directly tests the ≤35 vs >35 Ncm comparison in the immediately loaded population: [[implants/loading-protocol/darriba-2023-low-insertion-torque-immediate-loading-sr-ma]] (7 intervention trials, 326 implants, mean 24 months) found **96% survival at low IT (≤35 Ncm) vs 92% at higher IT** (IRR 1.05, 95% CI 0.79–1.39, p=.175, I²=0.0%) — the difference was not significant and the low-IT group numerically outperformed the higher-IT group. The subgroup finding maps directly to Rule 5's threshold logic: implants with ≤20 Ncm survival was supported with **splinted prostheses**; those >20 Ncm succeeded as **single crowns** — confirming that the ≥35 Ncm floor is not a survival line but a prosthesis-design decision gate, and that even low-IT immediately loaded implants survive acceptably with appropriate load distribution. This completes a bracket for Rule 5 from both ends: Bavetta's ≥35 Ncm threshold (100% survival fresh sockets) from above, Darriba's ≤35 Ncm survival rate (96%) from below — the moderate floor holds.
+
+### 6. High IT is not an ISQ proxy — and is doubly misleading
+
+- **Faot**: IT ↔ primary ISQ Kendall τ=0.252 (p=0.01). Statistically present, practically weak — high torque does not buy you a high ISQ.
+- **Trisi**: RFA/ISQ **failed to detect** the day-7 stability drop in the HT group, and could not differentiate bone apposition levels between HT and LT. ISQ is blind to precisely the early interface dynamics the torque debate is about.
+- **Tisci 2026** (SR+MA, 48 studies, 20 meta-analyzed — the current best-evidence anchor for this question, superseding the smaller Lages 2018 SR of 12 studies which found r=0.366, NS): pooled IT–ISQ correlation is Pearson r=0.44 (95% CI 0.32–0.55, p<0.001) — statistically real but **I²>90%**, heterogeneity too high to treat the pooled number as a stable clinical constant. More decisively for this page's argument, **Tisci 2026 could not establish ISQ as an independent predictor of MBL or implant survival at all** — surviving implants trended toward higher baseline ISQ (MD=10.22) but this did not reach significance, and quantitative synthesis of ISQ↔MBL and ISQ↔success was not feasible from the included studies. This is now the class-level confirmation of what Faot's single-study τ=0.252 and Trisi's missed 7-day dip suggested individually: ISQ is a real but weak, high-heterogeneity, non-independent-predictive complementary metric — not a substitute readout for either torque or crestal outcome.
+- **Cappare 2015** (in vivo, instantaneous torque-measuring micromotor) adds the mechanistic complement from the opposite direction: the intraoperative torque/depth integral correlates with initial bone-to-implant contact (BIC) — i.e. torque itself, measured continuously through the osteotomy rather than as a single peak Ncm reading, is a real-time physical readout of the bone quality the implant is seating into. This directly supports this page's central reframing (§ Summary: "IT is not an applied dose, it is a measurement of the bone that resisted it") from the instrumentation side, independent of the ISQ question.
+
+**Rosas-Díaz 2024** (in vitro, n=120 implants, polyurethane type II-A blocks, 4 diameters × 5 lengths, 3 under-milling levels: 0.2 / 0.5 / 0.8 mm) provides the cleanest controlled experimental demonstration of IT–ISQ decoupling. Escalating under-milling raised ITV dramatically (25.1 → 63.2 Ncm, p<0.001) — compression protocol explained 63.9% of ITV variance — while ISQ remained statistically unchanged (67.6 → 65.7, p=0.166, η²<0.01). Implant diameter explained 27.0% and length 12.1% of combined ITV+ISQ variance, with no interaction effects. In other words, a surgeon who doubles the inserted torque via aggressive under-milling in type II-A bone has not moved ISQ at all. This is the in-vitro experimental proof of the clinically observed τ=0.252 and r=0.44 decoupling documented above — high torque from surgical compression is not a resonance-frequency stability upgrade.
+
+**Brizuela-Velasco 2015** (in vitro, n=19 implants, fresh cow ribs, direct micromotion measured under 100 N via Questar microscope at 2 µm resolution) adds the mechanical interpretation: ISQ predicted micromotion more strongly than IT (perpendicular r=0.91, R²≈0.83 vs IT exponential R²=0.78), and the IT–micromotion curve showed a clear threshold at ~30–34 Ncm below which micromotion escalated steeply. This provides the biomechanical rationale for the ≥35 Ncm loading floor documented by Bavetta 2019, and confirms that ISQ — not peak torque — is the more faithful real-time proxy for mechanical interface quality. Below ~34 Ncm, torque still holds threshold predictive value (the micromotion cliff); above it, ISQ must be consulted independently.
+
+**Konuklu 2026** (5-arm parallel RCT, n=100, 3 months, all same macrodesign implant) adds the in-vivo RCT complement: the osteotomy protocol that generated the highest initial IT — high-speed 800 rpm in dense bone — did not yield the best 3-month ISQ. Moderate-speed 300 rpm was superior at T4 (Bonferroni p<0.05), and bone condensation showed progressive ISQ decline. This is the first RCT to pit five protocols head-to-head on an ISQ trajectory, and it directly demonstrates in a living patient that maximizing initial IT via an aggressive osteotomy does not translate to the best long-term stability — the opposite of what the naive IT-as-proxy reading would predict.
+
+**Kwon 2026** (single-blinded 3-arm RCT, n=54, Yonsei University Dental Hospital, 12 months; fully guided flapless immediate extraction-socket placement) isolates thread depth as a macro-design variable in the hardest clinical test for primary stability: the immediate socket. Deeper threads (MDT) achieved ≥40 Ncm in 14/18 implants vs 8/18 for the bone-level tapered reference arm (BLT), confirming thread geometry's torque-raising effect. Yet at no time point did ISQ or ISV diverge across arms (all p>0.30), and 12-month MBL was identical across all three designs (p=0.65). The deeper-thread arm paid a significant angular accuracy penalty (MST vs MDT p=0.029), with all four largest deviations concentrated in MDT mandibular molar sites. This is the clinical counterpart of Rosas-Díaz 2024 (in vitro, under-milling) and Konuklu 2026 (osteotomy rpm): a completely different source of extra torque — thread engagement geometry in immediate sockets — still fails to move the ISQ trajectory, while exacting a different cost (angular drift).
+
+**Charoenniwassakul 2025** (parallel-arm RCT, 85 implants in 66 patients, Chulalongkorn University, 8 time-point ISQ/IST monitoring over 6 weeks; published in JCPE 2025; wiki source stem monje-2025) compared Straumann BLX (tapered, Roxolid SLActive) vs BL (cylindrical, Roxolid SLActive) in healed edentulous sites. BLX's tapered geometry generated significantly higher maximum insertion torque at placement (42.35 vs 30.63 N·cm, p<0.001), mirroring the compression mechanism in Rosas-Díaz and Kwon. The 6-week outcome reversed: cylindrical BL achieved higher ISQ (75.21 vs 72.23, p=0.02) and IST. No intermediate time points differed. Read alongside the page's central reframing (§ Summary: torque is a readout of the bone that resisted, not a stability deposit), this reversal is mechanistically coherent: tapered compression raises frictional primary-stability at placement, then the subsequent biologically-driven remodeling phase erodes that friction advantage — so the design that generates *more* torque achieves *less* secondary stability by 6 weeks. Both designs remained clinically safe with high-stability ISQ throughout. This is the closest extant RCT to a direct clinical test of the IT-ISQ decoupling axis using implant macro-design as the variable.
+
+So the intuition "I pushed to 55 Ncm, so stability must be excellent" is wrong twice over: the torque does not predict the ISQ (now confirmed at SR+MA scale in vivo, with substantial unexplained heterogeneity, and directly demonstrated in vitro by Rosas-Díaz 2024 via surgical compression), and neither instrument sees the crestal remodeling that will actually decide the 3-year result — indeed Tisci 2026 shows ISQ cannot even independently predict MBL or survival with current evidence, so it is not a fallback proxy either. This independently converges with the wider ISQ↔IT decoupling documented in [[overviews/isq-loading-threshold]] and [[overviews/implant-macrogeometry-length-diameter-primary-stability-overview]].
+
+### 7. The third regime — when there is no torque to read (2026-08-31)
+
+Everything above assumes a torque reading exists. [[implants/andersen-2023-primary-stability-adhesive-cement-oversized]] (in vitro, sawbone blocks, five Straumann TL/TLX configurations, calcium-phosphate adhesive cement) occupies the case this page's own thesis implies but never states: if insertion torque is *a reading of the bone that resisted it* (§6), then in an oversized osteotomy the bone does not resist, no reading is produced, and both the ceiling of §1–§3 and the floor of Rule 5 become inapplicable at once. Andersen's answer is to stop seating and start bonding. After 15 min curing, every configuration exceeded 32 Ncm removal torque irrespective of cement gap (0.5–3 mm); the dominant predictors were implant **surface area and diameter**, not gap size; and failure occurred at the cement–implant interface, with the cement–bone interface holding.
+
+This extends the floor from the far side of where [[implants/norton-2017-low-insertion-torque-primary-stability]] left it. Norton showed IT ≤20 Ncm — including three spinners below 5 Ncm — still osseointegrates at 1 year, because secondary stability compensates for a weak mechanical seat. Andersen addresses the cases where there is no seat at all to be weak.
+
+The limits are large enough that the finding must not be carried to the chair. Sawbone is not jawbone; there is no healing period, no osseointegration endpoint, and no bone-remodeling response in the model. Removal torque after cement cure is a bench surrogate, and its "> 32 Ncm" is **not** interchangeable with the ~35 Ncm *insertion*-torque loading floor Rule 5 sets from Bavetta 2019 — one measures a cured adhesive joint's resistance to unscrewing, the other measures live bone resisting a seating implant. Read this as evidence that a third regime exists and has a candidate answer, not as a technique. [미검증 — in vitro, sawbone, n/a healing]
+
+## Related Overviews
+
+- [[overviews/high-insertion-torque-primary-stability-crestal-bone-overview]] — parent synthesis
+- [[overviews/isq-loading-threshold]] — ISQ loading threshold (existing sibling)
+- [[overviews/implant-macrogeometry-length-diameter-primary-stability-overview]] — macrogeometry and primary stability (existing sibling)
+- [[overviews/implant-primary-stability-arp-macrogeometry-low-density-overview]] — primary stability in low-density bone (existing sibling)
