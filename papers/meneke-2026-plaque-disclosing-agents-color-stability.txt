@@ -1,0 +1,125 @@
+TITLE: Effect of plaque disclosing agents on the color stability of different restorative materials: in vitro study
+AUTHORS: Menekşe İnci, Efes Ümit Begüm
+JOURNAL: European Oral Research
+ID[pmcid]: PMC13322142
+ID[pmcid-ver]: PMC13322142.1
+ID[pmcaid]: 13322142
+ID[pmcaiid]: 13322142
+ID[pmid]: 42388572
+ID[doi]: 10.26650/eor.20261729238
+ID[publisher-id]: article-1782242000071
+
+## ABSTRACT
+PurposeThe aim of this study was to evaluate the effect of two plaque disclosing agents on the color stability of four different restorative materials.
+Materials and MethodsTwenty disc-shaped specimens (8 mm diameter, 2 mm thickness) were prepared for each material: Z250 (3M ESPE), Charisma Diamond (Heraeus Kulzer), Estelite Universal Flow Medium (Tokuyama Dental Corporation Inc.), and Beautifil II (Shofu Inc.). Baseline color measurements were conducted using the VITA Easyshade Compact after numbering the specimens and immersing them in distilled water at 37°C for 24 hours. Two plaque disclosing agents were applied to the specimens: Mira-2-Ton (Hager & Werken) to 10 specimens and ProPind plaque indicator gel (Promida Co.), containing erythrosin dye, to the remaining 10 specimens. Ten seconds after the application, each specimen was rinsed under running water for 30 seconds and air-dried. Color changes in the specimens were calculated using the CIEDE2000 formula. Statistical analysis was performed using One-way ANOVA, Kruskal-Wallis, and Mann-Whitney U tests (p<0.05).
+ResultsThe color changes were perceptible (ΔE00 > 0.8) in all experimental groups. Clinically unacceptable color changes (ΔE00 >1.8) were observed in all groups following Mira-2-Ton application, with Charisma Diamond exhibiting the highest color change (7.18 ± 2.65) and Z250 the lowest (2.98 ± 1.13). In contrast, all groups stained with ProPind gel showed clinically acceptable color changes (ΔE00 <1.8), with no statistically significant differences among materials (p>0.05).
+ConclusionPlaque disclosing agents can significantly impact the color stability of restorative materials. Understanding the chemical composition of plaque disclosing agents is essential for clinicians to ensure the long term aesthetic stability of restorative materials. Further in vitro and in vivo studies are needed to assess the underlying mechanisms of discoloration caused by disclosing agents.
+
+## Introduction
+
+Dental plaque is a biofilm formed by the accumulation of bacteria on teeth surfaces, mucosa, or other solid surfaces such as restorations (1). Given the presence of over 700 different bacterial species in the oral cavity (2), plaque is a major cause of periodontal diseases and an important contributory factor in dental caries (3). Thus, the removal of dental plaque by regular oral hygiene practices and professional procedures are crucial to maintain good oral health. Dental plaque is a translucent, whitish substance, making it difficult to identify with bare eye (4). The visualization of plaque can be achieved by the use of plaque disclosing agents or computer-based technologies such as fluorescence imaging (5).
+
+Plaque disclosing agents are colouring chemical compounds that bind to the biofilm on the teeth, revealing areas where dental plaque is present (6). These agents work by staining the dental plaque due to the interaction resulting from the polarity differences between the plaque components and the dyes (7). Since the early 20th century, substances like iodine, bismarck brown, erythrosine, methylene blue, crystal violet, gentian violet, basic fuchsin and two-tone solutions have been used as plaque disclosing agents (7, 8, 9). Plaque disclosing agents are available in different forms such as tablets, gels, and solutions, allowing patients to monitor their oral hygiene (5, 7, 9). Integrating these agents with a plaque index provides a scoring system that can motivate patients to improve their oral care through better hygiene practices (3). The use of plaque-disclosing solutions before toothbrushing allows the patient to visualize the amount of plaque accumulated since the last brushing session, providing an opportunity for self-assessment of their brushing performance. In later stages of plaque control, the application of plaque-disclosing solutions after brushing helps the patient identify areas that require additional cleaning efforts, offering personalized instructions for improved oral hygiene (6, 10).
+
+Plaque disclosing agents have the potential to cause staining not only on tooth surfaces but also on adjacent structures such as the gingiva and restorative materials (11). Such effects may serve as a significant consideration in the assessment of color stability and long-term aesthetic performance of dental restorations.
+
+Patients categorized as having a high risk of dental caries often require restorative care due to ongoing lesion formation (12). Given that dental caries is a preventable disease (13), integrating plaque disclosing agents into individual preventive programs may effectively reduce caries incidence in these patients. In the presence of multiple restorations in the oral cavity, clinicians should be aware of the staining potential of plaque disclosing agents. Only a few studies in the literature address the effect of dental plaque disclosing agents on the color stability of restorative materials (11, 14).
+
+Therefore, the aim of this laboratory study is to evaluate the effects of two different plaque disclosing solutions on the color parameters of three different resin composites and one giomer. The null hypothesis was that plaque disclosing agents do not lead to a significant discoloration of the four materials tested and there was no difference between the effects of two plaque disclosing agents.
+
+## Materials and Methods
+
+### Specimen preparation
+
+In this study three different resin composites (Z250 (3M ESPE, USA), Charisma Diamond (Heraeus Kulzer, Germany), Estelite Universal Flow Medium (Tokuyama Dental Corporation Inc., Japan),) and a giomer (Beautifil II (Shofu Inc., Japan),) were evaluated, all with the A2 shade selected for each brand. The characteristics of the materials including manufacturer, type, and composition are described in Table 1 based on the manufacturers' declaration.
+
+### Sample size estimation
+
+The sample size was determined using G*Power software version 3.1.9.4. with an effect size of 0.45, a significance level of 0.05 and 0.80 as the study power. Following the power analysis results, a total of 80 disc-shaped (8 mm in diameter and 2 mm in thickness) specimens, 20 from each material, were prepared using a stainless steel mold.
+
+### Sample preparation
+
+The materials were placed in the mold and compressed between two glass slides, each covered with a Mylar strip, to expel excess materials and obtain a smooth surface. According to the manufacturer's instructions, light curing was performed on the top surface of all specimens using light curing unit LED B (Woodpecker, China) for 20 seconds. A radiometer (Hilux, Benlioğlu Dental Inc., Ankara, Turkey) was used during specimen preparation to ensure the curing light's intensity was at least 1,200 mW/cm². After the polymerization process, the specimens were removed from the mold and the polishing procedure was performed using Sof-Lex discs (3M ESPE, St. Paul, MN, USA). The polishing procedure proceeded sequentially through medium, fine, and superfine grit levels, using a new disc for each specimen (15). Each polishing step was carried out for 20s per specimen by a single operator with a slow speed handpiece. After each polishing step, the specimen surface was rinsed and then gently air-dried for 10s before proceeding to the next grit level. Then, all specimens were numbered and kept in distilled water for 24 hours at 37°C before baseline color measurement.
+
+### Plaque disclosing agent application
+
+Two-tone plaque disclosing solution Mira-2-Ton (Hager & Werken, Duisburg, Germany) was applied by a micro brush to the surface of 10 specimens of each group and ProPind plaque indicator gel (Promida Co., Eskişehir, Turkey), based on erythrosin dye, was applied to the surface of the other 10 specimens according to manufacturers' instructions. Ten seconds after the plaque disclosing agents were applied, each specimen was rinsed under running water for 30 seconds and air-dried. Table 2 summarizes the features of the plaque disclosing agents, including their manufacturer, composition, and form.
+
+### Color measurements
+
+Baseline colors of the specimens were measured with a spectrophotometer (Vita Easyshade Compact, Vita Zahnfabrik, Bad Säckingen, and Germany). After the plaque disclosing agents applied and removed from the specimens' surface, color measurements were made for the second time. All color measurements were performed three times under standard lighting against a white background. In our study, the use of a standardized white background (16, 17, 18) was essential to simulate clinical scenarios where dental restorations are adjacent to natural tooth structures. This approach aimed to replicate clinical conditions where restorations are in contact with natural tooth surfaces, thereby providing a more accurate representation of color stability in such settings (19). The Vita Easyshade Compact was calibrated before each measurement using its calibration block supplied by the manufacturer and centered on the surfaces to make accurate measurements.
+
+After values were recorded using the Commission International de l' Eclairage L*a*b color system, the mean values and the changes in CIE L*, a*, and b* values ΔL*, Δa*, Δb*) were calculated. CIELAB provides a three-dimensional color space with L* indicating lightness, a* representing red-green component and b* referring to yellow-blue component (20).
+
+In order to enhance the correction between computed and perceived color differences of CIELAB formula, advanced color difference formulations such as CIEDE2000 have been introduced. Considering that the CIEDE2000 formula demonstrated superior concordance over the CIELAB formula for both perceptibility and acceptability (21), color changes (ΔE₀₀) were calculated using the CIEDE2000 formula according to the following equation (22, 23) (Figure 1):
+In the formula ΔL', ΔC', and ΔH' represent the differences in lightness, chroma and hue between the two measurements. kL, kC, and kL are the parametric factors, while SL, SC, and SH are the weighting functions. Additionally, RT accounts for the rotation function that indicates the interaction between chroma and hue variations in the blue region (22, 23). In this study, ΔE00 was interpreted based on perceptibility and acceptability thresholds, which were defined as 0.8 units and 1.8 units, respectively (24, 25).
+
+### Statistical analysis
+
+Statistical analyses were conducted using IBM SPSS Statistics software, version 27.0 (IBM Corp., Armonk, NY, USA). Descriptive statistics such as mean, standard deviation of CIE L*a*b* values were calculated. The normal distribution of data was examined using the Kolmogorov-Smirnov test. To evaluate the differences between the restorative materials, the normally distributed data were analysed using Oneway Analysis of Variance (ANOVA) with post-hoc Tukey test. For data that did not follow a normal distribution, the Kruskal-Wallis test was applied. The non-parametric Mann-Whitney U test was used to assess differences between the two plaque disclosing agents groups. The statistical significance level was set at p <0.05.
+
+[TABLE] Materials used in this study
+Z250 | 3M ESPE, St. Paul, MN, USA | Micro-hybrid composite | Matrix: Bis-GMA,UDMA, Bis-EMA Filler Type: Zirconia/silica | A2
+Charisma Diamond | Heraeus Kulzer, GmbH, Hanau, Germany | Nanohybrid composite | Matrix: TCD‑DI‑HEA, UDMA Filler Type: Barium aluminum fluoride glass | A2
+Estelite Universal Flow Medium | Tokuyama Dental Corporation Inc., Tokyo, Japan | Supra-nano filled flowable composite | Matrix: Bis-GMA, Bis-MPEPP, TEGDMA, UDMA, Filler Type: Spherical silica-zirconia | A2
+Beautifil II | Shofu Inc., Kyoto, Japan | Giomer | Matrix: Bis-GMA, TEGDMA Filler Type: S-PRG based on F-Br-Al-Si glass | A2
+
+[TABLE] Plaque disclosing agents used in this study
+Mira-2-Ton | Hager & Werken, Duisburg, Germany | aqua, sodium benzoate, potassium sorbate, C.I. 45410, C.I. 42090 | fluid
+ProPind | Promida Co., Eskişehir, Turkey | water, stabilizer, gliserin, erythrosine | gel
+
+[FIGURE] color changes (ΔE₀₀) were calculated using the CIEDE2000 formula according to the following equation
+
+## Results
+
+The means and standard deviations of ΔL, Δa and Δb values for each restorative material after application of disclosing agents were summarized in Table 3. Additionally, the results of the color changes ΔE00 of each material were shown in Table 4.
+
+After the application of Mira-2-Ton solution, the highest color change ΔE00 was observed in Charisma Diamond (7.18 ± 2.65), while the lowest was observed in Z250 (2.98 ± 1.13) with a statistically significant difference (p<0.05). Z250, Estelite Universal Flow Medium and Beautifil II showed no statistically significant difference between color change values after the discoloration with Mira-2-Ton solution (p>0.05). Perceptible (ΔE00 > 0.8) and clinically unacceptable (ΔE00 > 1.8) color changes were observed in all groups.
+
+All material groups stained with ProPind plaque indicator gel showed perceptible (ΔE00 > 0.8) but clinically acceptable discoloration (ΔE00 < 1.8) with no statistically significant difference between ΔE00 values (p>0.05).
+
+Furthermore, Mann Whitney - U test showed that the color changes in specimens applied with Mira-2-Ton solution was found to be statistically significantly higher compared to those applied with ProPind plaque indicator gel (p<0.05).
+
+[TABLE] Means ± standard deviation of ΔL , Δa and Δb values for each restorative material after application of disclosing agents
+ | DL | Da | Db | DL | Da | Db
+Z250 | -1.03 ± 0.68 | 2.35 ± 0.87 | -1.52 ± 0.86 | -0.26 ± 0.54 | 1.06 ± 0.27 | -1.18 ± 0.53
+Charisma Diamond | -2.49 ± 0.87 | 6.06 ± 2.33 | -3.91 ± 1.36 | -0.64 ± 0.43 | 1.04 ± 0.3 | -0.89 ± 0.72
+Estelite Universal Flow Medium | -1.9 ± 0.67 | 2.9 ± 1.83 | -2.29 ± 1.43 | -1.72 ± 0.99 | 1.15 ± 0.38 | -0.19 ± 0.58
+Beautifil II | -2.33 ± 1.39 | 5.16 ± 2.93 | -3.18 ± 1.71 | -0.38 ± 1.07 | 1.44 ± 0.59 | -0.21 ± 0.86
+
+[TABLE] Means ± standard deviation of color change ΔE00 for each restorative material after application of disclosing agents
+ | DE00 | DE00
+Z250 | 2.98 ± 1.13 a | 1.42 ± 0.21 A
+Charisma Diamond | 7.18 ± 2.65 bc | 1.35 ± 0.38 A
+Estelite Universal Flow Medium | 3.26 ± 1.87 a | 1.63 ± 0.46 A
+Beautifil II | 5.36 ± 3.03 ac | 1.49 ± 0.48 A
+
+## Discussion
+
+The discoloration of tooth-colored restorations, resulting from both intrinsic discoloration and extrinsic staining, remains a significant concern in clinical dentistry, impacting not only the long-term durability of restorations but also patient satisfaction. A comprehensive understanding of the mechanisms underlying discoloration, including the influence of material composition and environmental factors such as staining agents and plaque accumulation, is essential for ensuring the aesthetic longevity of restorative materials (26, 27).
+
+Considering that dental plaque disclosing agents are among the external factors contributing to discoloration, the objective of this study was to evaluate the effect of two distinct plaque disclosing agents on the color stability of four different restorative materials. In our study, color change values of all groups were above the perceptibility threshold (ΔE00 > 0.8). A significant difference was observed between the two plaque disclosing agent groups, as clinically unacceptable color changes (ΔE00 > 1.8) were evident in all groups treated with two-tone plaque solution (Mira-2-Ton), whereas no clinically relevant discoloration (ΔE00 < 1.8) was observed in the groups stained with plaque indicator gel containing erythrosine dye (ProPind). Thus, the null hypothesis was rejected.
+
+In our study, after the application of the Mira-2-Ton solution, the highest color change (ΔE00) was observed in Charisma Diamond, with a significant difference compared to the color change values of Z250 and Estelite Universal Flow Medium.There was no statistically significant difference between ΔE00 values of the tested four materials after the application of ProPind plaque indicator gel. Charisma Diamond is characterized by the presence of TCD-DI-HEA monomer that provides low polymerization shrinkage and low viscosity according to its manufacturer. As the staining behaviour of composites can be influenced by the resin matrix (28), the affinity of Mira-2-Ton solution colorants for this component may explain the observed discoloration. Also studies in the literature have reported discoloration of restorations containing TCD-DI-HEA monomer (19).
+
+Studies reveal that the hydrophilic resin matrix and water absorption in composite materials are associated with their potential for discoloration (29, 30). It has been reported that TEGDMA exhibits higher water sorption values compared to Bis-EMA, Bis-GMA, and UDMA (31). Considering the monomer contents of the materials, the discoloration of Beautifil II after Mira-2-Ton application may be attributed to the presence of TEGDMA in its formulation. In contrast, Bis-EMA as a hydrophobic monomer in Z250 exhibits lower water sorption due to its structure, resulting in Z250 showing the lowest discoloration among all tested materials in our study (32, 33). Kawaguchi et al. (34) indicated that the viscosity of Bis-MPEPP monomers is lower than that of Bis-GMA. Furthermore, Bis-MPEPP does not contain hydroxyl groups, which are associated with water absorption (35). It can be considered that due to the presence of Bis-MPEPP in the structure Estelite Universal Flow Medium, the proportion of TEGDMA is lower, and therefore, after the Mira-2-Ton application, the least discoloration occurred in this flowable composite group following Z250 (36, 37).
+
+Another aspect worth discussing is the surface roughness although the roughness of the materials weren't measured in our study. Surface roughness can cause increased plaque accumulation capacity and consequently result in discoloration of materials (38). The shape and size of the inorganic fillers play a key role in surface characteristics, as the removal of filler particles leave small or large defects, depending on their size (39). Charisma Diamond is a nanohybrid composite resin containing inorganic filler particles ranging from 5 µm to 20 µm in size. According to previous studies (39), the removal of these heterogeneous filler particles of varying sizes during finishing and polishing procedures may contribute to increased surface roughness, thereby enhancing the material's susceptibility to staining in our study. Similarly, it has been reported that the fluoride releasing ability of giomers may lead more surface vacancies and their larger particle size can elevate surface roughness values, thereby contributing to reduced color stability (40, 41).
+
+The literature has indicated that various factors, including beverage type, pigment amount, molecular weight and pH level of colorants, influence the degree of coloration observed (42, 43, 44).
+
+In our study, Mira-2-Ton plaque solution contains colorants CI 45410 (phloxine O) and CI 42090 (brilliant blue), while the ProPind plaque indicator gel contains only erythrosine as a dye. The molecular weight comparison shows that erythrosine has a higher molecular weight (879.9 g/mol) than the other two colorants (45, 46, 47).
+
+Ahlberg et al. (44) utilized toluidine blue and methylene blue dyes in their research, highlighting that these dyes' capacity to penetrate tooth structures, owing to their low molecular weights, contributes significantly to the color changes they induce.
+
+In another study involving methylene blue, toluidine blue, and indocyanine green the authors stated that low molecular weight dyes such as toluidine blue and methylene blue penetrate deeper into the composite structure compared to high molecular weight indocyanine green dye leading to greater color change (48). In our study, the Mira-2-Ton plaque solution contains two distinct colorants, CI 45410 and CI 42090, with molecular weights of 785.7 g/mol and 797.9 g/mol, respectively (45, 46). These lower molecular weights, compared to erythrosine in ProPind gel, may contribute to its greater staining effect on the restorative materials tested.
+
+Mazzitelli et al. (11) studied the color stability of a composite material and glass- ionomer cement after using different plaque detector agents and noted that the results varied according to the different delivery forms of plaque disclosing agents, with mouthwash and indicator liquid causing higher discoloration than tablet forms. In our study, the discoloration of the plaque solution was found to be statistically significantly higher compared to the plaque indicator gel in all material groups. Nishinari (49) defined a gel as an intermediate state between liquid-like and solid-like rheological behaviours. In a solution, molecular chains or colloidal particles diffuse, while in a gel, this movement is restricted due to its chemical structure. The restricted particle diffusion within the gel may limit the staining of restoration surfaces, thereby contributing to the lower discoloration of the gel form compared to the solution in our study. It was also indicated in the same study that the polishing performed after the second application of plaque detectors reduced the color changes but did not recover the initial color.
+
+In another study, in which Mira-2-Ton solution was used to investigate the discoloration of surface sealants by plaque disclosing solutions, surface sealants exhibited clinically relevant discoloration following exposure to the plaque disclosing solution. The authors also observed that despite the observed reduction in color changes following polishing, staining remained visible on both surface sealants (14). The limitation of our study was that the disclosing agents were applied only once and no polishing procedure was conducted afterwards. The decision not to perform polishing was based on the consideration that these agents would be used not only in professional dental procedures in the clinic but also as a part of the regular at-home oral hygiene practices, where patients would be unable to carry out polishing procedures beyond brushing.
+
+A further limitation of our study is the exclusion of natural or artificial saliva immersion during the direct application of the plaque disclosing agents onto the restorative materials. In the oral environment, the salivary pellicle serves as a matrix facilitating the deposition of extrinsic stains, potentially leading to the discoloration (11). However, the primary objective of our short-term in vitro protocol was to evaluate the immediate or short-term direct chemical staining potential of plaque detector agents on material surfaces, independent of any biologically formed interface. Uchimura et al. (50) reported that composite specimens stored in artificial saliva exhibited no statistical significant differences in color change compared to those stored dry after 14 days. Therefore, considering the limited impact of short-term saliva exposure on color change and the brief duration of our protocol, it is hypothesized that excluding saliva exposure minimally influenced our results. Future studies with extended durations are needed to assess these effects. Additionally, considering the interaction between glycoproteins, the salivary pellicle, and staining agents in the oral environment, future in vivo clinical studies are necessary to provide a comprehensive understanding of the effects and mechanisms by which these agents lead to discoloration of restorative materials.
+
+## Conclusion
+
+The application of two different plaque disclosing agents resulted in ProPind plaque indicator gel being clinically acceptable, while Mira-2-Ton disclosing solution led to clinically unacceptable color changes in restorative materials. Clinicians are strongly advised to critically select plaque disclosing agents, being well-informed about their delivery forms and the types of dyes used in their composition. To better understand the variations in discoloration and the underlying mechanisms, further research is needed that investigates the application of plaque disclosing agents in different delivery forms and those containing various coloring pigments in the oral environment.
