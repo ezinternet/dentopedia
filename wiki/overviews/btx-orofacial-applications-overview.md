@@ -162,6 +162,10 @@ Clinical takeaway: short-term symptom relief and sleep quality gains are real, b
 - [ ] `wiki/overviews/btx-pre-implant-bruxer-protocol.md` — 임플란트 환자 BTX 사용 결정.
 - [ ] `wiki/overviews/masseter-atrophy-recovery-timeline.md` — 위축 회복 시계열.
 
+## Related Papers
+
+- [[botulinum-toxin/dastoor-2007-botulinum-toxin-facial-macroesthetics-review]] — botulinum toxin A for dynamic facial wrinkles (perioral, glabellar, forehead). Response is expected only where wrinkles come from hyperfunctional muscles; wrinkles from aging, gravity, photodamage, trauma or scarring are not amenable. Case selection, dosing and complication management are decisive; no numeric outcomes (narrative review, 2007). Facial macroesthetics is outside this page's orofacial scope, so it is held here as a reference rather than a synthesis thread.
+
 ## Related overviews
 
 - [[overviews/tmd-management-evidence-ladder]] — TMD 1·2차 통합 (BTX는 2차)
