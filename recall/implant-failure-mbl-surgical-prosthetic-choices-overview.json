@@ -1,0 +1,49 @@
+{
+  "overview": "implant-failure-mbl-surgical-prosthetic-choices-overview",
+  "date": "2026-10-09",
+  "title": "후기 임플란트 실패·MBL 외과·보철 선택 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/implant-failure-mbl-surgical-prosthetic-choices-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "경사 임플란트의 MBL 불이익은 시간에 따라 어떻게 변하는가(Malak 2024)?",
+      "opts": [
+        "처음부터 크고 시간이 지나면 사라진다",
+        "단기에는 없고 3년에 +0.08 mm, 장기에 +0.18 mm로 커져서, 배치 결정이 아니라 모니터링 간격을 바꿔야 한다",
+        "경사와 축 임플란트는 항상 같다",
+        "실패 위험도 크게 증가한다"
+      ],
+      "ans": 1,
+      "rat": "Malak 2024는 경사 임플란트의 MBL 불이익이 단기에는 없고 3년에 +0.08 mm, 장기에 +0.18 mm로 커진다고 보고했다. 실패 위험은 경사와 축이 같았다(RR 1.02). 해부 때문에 경사 식립은 하되 모니터링을 늘린다.",
+      "cite": "overviews/implant-failure-mbl-surgical-prosthetic-choices-overview"
+    },
+    {
+      "id": "q2",
+      "q": "Benic 2014 SR+MA가 즉시 부하와 일반 부하의 동등성을 입증한 범위는?",
+      "opts": [
+        "모든 상황에서 동등",
+        "삽입 토크 ≥20–45 Ncm 또는 ISQ ≥60–65이고 동시 골증대가 없는 범위 안에서만",
+        "토크와 무관하게 동등",
+        "동시 골증대가 있을 때만 동등"
+      ],
+      "ans": 1,
+      "rat": "Benic 2014(RCT 11편)는 생존(1년 OR 0.75)과 MBL(SMD −0.05 mm)의 동등성을 입증했지만 삽입 토크 ≥20–45 Ncm 또는 ISQ ≥60–65이고 동시 골증대가 없는 범위 안에서만이다. 위험은 시점이 아니라 안정성 관문과 환자다.",
+      "cite": "overviews/implant-failure-mbl-surgical-prosthetic-choices-overview"
+    },
+    {
+      "id": "q3",
+      "q": "Lin 2026과 Arbildo-Vega 2025가 단축 임플란트 생존에서 충돌하지 않는 이유는?",
+      "opts": [
+        "같은 연구 설계라서",
+        "Lin은 엄격한 ≤6 mm 정의와 ≥10년 추적, Arbildo-Vega는 넓은 단축 범위와 모든 추적 기간이라 범위가 다르다",
+        "둘 다 같은 방향이라서",
+        "둘 다 생존을 측정하지 않아서"
+      ],
+      "ans": 1,
+      "rat": "Lin 2026은 ≤6 mm와 ≥10년에서 생존 결핍(RR 0.920)을 보고했고, Arbildo-Vega 2025(60개 SR umbrella)는 넓은 단축 범위와 모든 추적 기간에서 생존이 같고 MBL이 적다고 보고한다. 결핍은 가장 짧은 길이와 가장 긴 추적에서만 나타난다.",
+      "cite": "overviews/implant-failure-mbl-surgical-prosthetic-choices-overview"
+    }
+  ]
+}
