@@ -1,0 +1,49 @@
+{
+  "overview": "implant-failure-mbl-host-site-risk-factors-overview",
+  "date": "2026-10-09",
+  "title": "후기 임플란트 실패·MBL 숙주·부위 위험인자 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/implant-failure-mbl-host-site-risk-factors-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "Fan 2024 SR+MA의 흡연 OR 2.59가 이 페이지의 후기 실패 질문에 직접 해당하지 않는 이유는?",
+      "opts": [
+        "관찰 연구가 아니어서",
+        "종결점이 조기(부하 전) 실패여서 후기 실패만 따로 풀링한 보유 논문은 없다",
+        "표본이 작아서",
+        "흡연이 위험 요인이 아니어서"
+      ],
+      "ans": 1,
+      "rat": "Fan 2024(32편, 59,246 임플란트)의 OR 2.59(2.08–3.23)는 조기 실패 종결점이다. 후기 구간에서는 Moy 2005의 RR 1.56과 Gjelvold 2021의 5년 MBL(흡연 −1.90 vs 비흡연 −0.40 mm, p=0.021)이 더 직접적이다.",
+      "cite": "overviews/implant-failure-mbl-host-site-risk-factors-overview"
+    },
+    {
+      "id": "q2",
+      "q": "Pacheco 2025가 보고한 조사된 뼈의 임플란트 생존과 그 근거의 한계는?",
+      "opts": [
+        "94.64%로 비조사와 같다",
+        "81.52%(비조사 94.64%)로 낮고, 11개 리뷰가 AMSTAR-2 critically low라 방향은 믿을 수 있으나 크기는 정확하지 않다",
+        "50% 미만",
+        "측정되지 않았다"
+      ],
+      "ans": 1,
+      "rat": "Pacheco 2025(73,674 임플란트)에서 조사된 뼈의 생존은 81.52%, 비조사는 94.64%였고 조사된 상악이나 이식골에서 더 나빴다. 풀링된 11개 SR이 모두 AMSTAR-2 critically low였다.",
+      "cite": "overviews/implant-failure-mbl-host-site-risk-factors-overview"
+    },
+    {
+      "id": "q3",
+      "q": "Moy 2005 코호트가 이 페이지에 더한 비위험 인자(non-significant)는?",
+      "opts": [
+        "당뇨",
+        "고혈압, 심장질환, 스테로이드 치료",
+        "두경부 방사선",
+        "폐경 후 호르몬 요법"
+      ],
+      "ans": 1,
+      "rat": "Moy 2005(4,680 임플란트, 단일 술자, 21년)에서 고혈압, 심장질환, 스테로이드 치료는 비유의였다. 위험 인자는 당뇨 RR 2.75, 폐경 후 HRT RR 2.55, 연령 60–79 RR 2.24, 두경부 방사선 RR 2.73이었다.",
+      "cite": "overviews/implant-failure-mbl-host-site-risk-factors-overview"
+    }
+  ]
+}
