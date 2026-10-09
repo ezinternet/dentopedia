@@ -1,0 +1,49 @@
+{
+  "overview": "peri-implantitis-etiology-prevalence-risk-factors-overview",
+  "date": "2026-10-09",
+  "title": "임플란트주위염 병인·유병률·위험인자 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/peri-implantitis-etiology-prevalence-risk-factors-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "Cafferata 2025가 임플란트주위염 병소에서 보인 조절 T세포(Treg) 소견은?",
+      "opts": [
+        "Treg가 거의 없다",
+        "FOXP3와 IL-35는 증가하지만 NRP-1과 TGF-β1은 감소해, Treg가 모였으나 억제 기능은 상실되었다",
+        "Treg 기능이 정상이다",
+        "NRP-1과 TGF-β1이 함께 증가했다"
+      ],
+      "ans": 1,
+      "rat": "Cafferata 2025에서 FOXP3는 3.8배, IL-35는 2.3배 올랐지만 NRP-1과 TGF-β1은 줄었다. Treg는 모였으나 억제 기능은 상실된 보상적 반응이며 probing depth가 깊을수록 격차가 커진다.",
+      "cite": "overviews/peri-implantitis-etiology-prevalence-risk-factors-overview"
+    },
+    {
+      "id": "q2",
+      "q": "Reis 2025 SR+MA(2017 World Workshop 기준)가 보고한 환자 수준 유병률은?",
+      "opts": [
+        "점막염 25.0%, 임플란트주위염 63.0%",
+        "점막염 63.0%, 임플란트주위염 25.0%",
+        "둘 다 약 10%",
+        "둘 다 약 50%"
+      ],
+      "ans": 1,
+      "rat": "Reis 2025(20편)는 환자 수준 점막염 63.0%, 임플란트주위염 25.0%(임플란트 수준 18.0%)를 보고했다. 비흡연자의 임플란트 수준 임플란트주위염은 5.2%였고 50%가 high RoB였다.",
+      "cite": "overviews/peri-implantitis-etiology-prevalence-risk-factors-overview"
+    },
+    {
+      "id": "q3",
+      "q": "Monje 2025 AO/AAP SR(34편)에서 가장 강한 외과 위험인자와 설계·브랜드의 위치는?",
+      "opts": [
+        "임플란트 브랜드가 가장 강한 위험인자",
+        "임플란트 3D malposition(OR 2.6–48.2, 임플란트주위염에만)이 가장 강하고 설계·표면·브랜드는 일관된 우위가 없다",
+        "임플란트 표면이 가장 강한 위험인자",
+        "외과 위험인자는 확인되지 않았다"
+      ],
+      "ans": 1,
+      "rat": "Monje 2025에서 3D malposition이 가장 강한 외과 위험이었고(OR 2.6–48.2), 임플란트 간 거리 3 mm 미만, 깊이 6 mm 이상, 수복 변연-치조정 1.5 mm 미만도 위험이었다. 설계·표면·브랜드의 일관된 우위는 없었다.",
+      "cite": "overviews/peri-implantitis-etiology-prevalence-risk-factors-overview"
+    }
+  ]
+}
