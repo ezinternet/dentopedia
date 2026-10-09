@@ -1,0 +1,49 @@
+{
+  "overview": "dbbm-allograft-particle-size-long-term-safety-overview",
+  "date": "2026-10-09",
+  "title": "DBBM 동종골·입자 크기·장기 안전성 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/dbbm-allograft-particle-size-long-term-safety-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "Rao 2026 파일럿 RCT에서 동종골 플러그가 DBBM과 달랐던 지표는?",
+      "opts": [
+        "생활골이 유의하게 많았다",
+        "잔존 이식재가 유의하게 적었다(11.18 vs 19.80%, p=0.006)이고 생활골은 비슷했다",
+        "상악동 높이 증가가 유의하게 컸다",
+        "치조능 폭이 유의하게 컸다"
+      ],
+      "ans": 1,
+      "rat": "Rao 2026에서 잔존 이식재는 11.18 vs 19.80%(p=0.006)로 동종골이 낮았지만 생활골은 38.84 vs 32.18%(p=0.105)로 비슷했다. 낮은 잔존은 더 많은 골이 아니라 더 빠른 재료 교체다.",
+      "cite": "overviews/dbbm-allograft-particle-size-long-term-safety-overview"
+    },
+    {
+      "id": "q2",
+      "q": "Li 2023 SR+MA에서 DBBM 입자 크기(큰 입자 vs 작은 입자)가 조직계측에 미친 영향은?",
+      "opts": [
+        "큰 입자가 신생골을 유의하게 늘렸다",
+        "신생골, 연결조직, 잔존 이식재 모두 유의한 차이가 없었다",
+        "작은 입자가 신생골을 유의하게 늘렸다",
+        "측정되지 않았다"
+      ],
+      "ans": 1,
+      "rat": "Li 2023(RCT 4편, n=94)에서 신생골(p=0.132), 연결조직(p=0.117), 잔존 이식재(p=0.353) 모두 유의한 차이가 없었다. 입자 크기는 술식 편의에 맞춰 고른다.",
+      "cite": "overviews/dbbm-allograft-particle-size-long-term-safety-overview"
+    },
+    {
+      "id": "q3",
+      "q": "Inchingolo 2025 SR이 DBBM의 장기 안전성에 대해 내린 근거 수준 구분은?",
+      "opts": [
+        "단기 생존과 장기 합병증 모두 GRADE 높음",
+        "단기·중기 생존은 GRADE 중등도, 장기 합병증은 GRADE 낮음이며 2–13년 후 보고된 사례가 있다",
+        "장기 합병증은 보고되지 않았다",
+        "단기 생존이 GRADE 낮음"
+      ],
+      "ans": 1,
+      "rat": "Inchingolo 2025는 단기·중기 임플란트 생존과 이식재 통합을 GRADE 중등도, 장기 합병증(입자 이동, 만성 염증, 상악동 병변)을 GRADE 낮음으로 평가했다. 이식 후 2–13년에 나타난 사례가 있다.",
+      "cite": "overviews/dbbm-allograft-particle-size-long-term-safety-overview"
+    }
+  ]
+}
