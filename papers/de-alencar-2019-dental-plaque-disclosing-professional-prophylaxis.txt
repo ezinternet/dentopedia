@@ -1,0 +1,136 @@
+TITLE: Dental Plaque Disclosing as an Auxiliary Method for Professional Dental Prophylaxis in Early Childhood
+AUTHORS: de Alencar Catarina RB, de Oliveira Gabriela C, Tripodi Celso DV, Gonçalves Priscilla SP, Ionta Franciny Q, Honorio Heitor M, Oliveira Thais M, Rios Daniela
+JOURNAL: International Journal of Clinical Pediatric Dentistry
+ID[pmcid]: PMC6811946
+ID[pmcid-ver]: PMC6811946.1
+ID[pmcaid]: 6811946
+ID[pmcaiid]: 6811946
+ID[pmid]: 31708613
+ID[doi]: 10.5005/jp-journals-10005-1617
+
+## ABSTRACT
+ABSTRACT
+AimThis study aimed to clarify whether dental plaque disclosing before professional prophylaxis would improve the visualization of dental plaque, therefore optimizing the procedure.
+Materials and methodsThe sample comprised both the smooth and occlusal surfaces of the teeth of 25 children from 18 to 36 months. A randomized crossover clinical trial was conducted with two groups: GI—with disclosing and GII—without disclosing (washout/1 month). The teeth were stained with 1% malachite green solution to assess the amount of dental plaque on smooth and occlusal surfaces.
+ResultsDental plaque removal was more effective and statistically faster (391.27 seconds ±142.2) in GI. The plaque index and the prophylaxis duration were inversely related in GI. The child's behavior did not affect the plaque removal effectiveness, regardless of plaque disclosure (p > 0.05).
+ConclusionDental plaque disclosing in young children is an effective and less time-consuming method that improves the quality of the professional dental prophylaxis.
+Clinical significanceBiofilm control is important for the success of programs for prevention of early childhood caries (ECC) and considering the particularities inherent to the dental care of infants, it is necessary that periodic professional prophylaxis is effective in eliminating the oral biofilm, ideally reducing chair time. Although dental plaque disclosing has been traditionally performed on educational basis during oral hygiene instruction, this resource can be safely employed to help professional prophylaxis in infants.
+How to cite this articlede Alencar CRB, de Oliveira GC, et al. Dental Plaque Disclosing as an Auxiliary Method for Professional Dental Prophylaxis in Early Childhood. Int J Clin Pediatr Dent 2019;12(3):189–193.
+
+## INTRODUCTION
+
+Early childhood caries (ECC) is defined as the presence of one or more decayed (non-cavitated or cavitated lesions), missing (because of caries), or filled tooth surfaces in any primary tooth in a child aged 71 months or younger.1 Additionally, the term ECC reflects the multifactorial etiologic process2,3 that has been influenced by many social and behavioral factors, including diet, oral hygiene procedures, and fluoride exposure.4 At an advanced stage, ECC may result in infection and pain,5 in addition to alterations in mastication, speech, and breathing,6 which can affect the general health, therefore jeopardizing the quality of life,7 growth, and development8 of children with deep caries lesions.
+
+Given this context, prevention is the procedure of choice that should be ideally executed before the course of the disease,9 since it is cost-saving, compared with surgical treatment.10 In the first year of the child's life, the preventive measurements aim to instruct and teach the parents/legal guardians.11 Notwithstanding, instructions on oral hygiene and dietary habits alone are not enough to assure effectiveness.12 Although most of the parents understand that hygiene is important to maintain oral health, it is common that they have difficulty in executing tooth brushing of the infants and preschool children at home.13 Thus, a dentist can help to control dental plaque through periodic professional dental prophylaxis.14
+
+Considering its important role in ECC prevention, it is mandatory that professional dental prophylaxis is capable of removing dental plaque effectively, thus enabling the counterbalance of oral hygiene performed at home. Within this context, the dental plaque visualization by disclosing solutions could be an auxiliary method for dental prophylaxis in young children, improving the procedure quality, although it has not been described in the literature. Taking these aspects into account, this study aimed to clarify whether dental plaque disclosing before professional prophylaxis would improve the visualization of dental plaque, therefore optimizing the procedure.
+
+## MATERIALS AND METHODS
+
+### Ethical Approval
+
+All procedures performed in this study involving human participants were in accordance with the ethical standards of the institutional and/or national research committee and with the 1964 Helsinki declaration and its later amendments or comparable ethical standards. Informed consent was obtained from all individual participants included in this study.
+
+### Selection of the Sample
+
+The labial/buccal and lingual/palatal (smooth surfaces) and occlusal surfaces of the teeth of all children (n = 25) enrolled in the program for ECC prevention of the Baby Clinic of the School of Dentistry of Bauru/University of São Paulo composed the convenience sampling. Inclusion criteria comprised the absence of caries lesions and the presence of at least four teeth fully erupted. The ages of the children who participated in this investigation ranged from 18 to 36 months.
+
+### Study Design
+
+A randomized crossover clinical trial was conducted in which the same child (n = 25) was evaluated under the two studied conditions, after a washout period of 1 month. After the agreement in participating in the study, informed consent was obtained from all parents or legal guardians of the minors. Children had their teeth dried with gauze and stained with 1% malachite green solution for the habitual plaque index record by the examiner. Thereafter, the children were randomized into two groups. For this purpose, an opaque black envelope contained cards with numbers #1 and #2 to indicate the group in which the child would be allocated at the beginning of the study. The study conditions were disclosing of dental plaque before professional prophylaxis (GI—disclosing) and professional prophylaxis without dental plaque disclosing (GII—control). The amount of dental plaque was verified through the following indexes: Greene and Vermillion15—smooth surfaces and Mestrinho, Carvalho, and Figueiredo16—occlusal surfaces (Fig. 1).
+
+A single operator executed all professional dental prophylaxis procedures. After a previous calibration (evaluation of the plaque indexes in 10 children; reassessment after 15–30 minutes; intraexaminer agreement = κ 87%), a different dentist examined the children. During the dental prophylaxis execution, the examiner stayed outside the clinic room, with no contact with the patients. After dental prophylaxis, the examiner recorded the plaque indexes through simple blind assessment, that is, without knowing the group to which the child belongs.
+
+### Clinical Procedure
+
+On a different appointment from the agreement in participating in the study, the patients were randomly assigned to GI, and had their teeth dried with gauze and stained with 1% malachite green solution using cotton swabs. Next, the dentist (operator) executed dental prophylaxis and the examiner (another dentist) stained the teeth with the disclosing solution and recorded the plaque index. In GII, the operator executed dental prophylaxis and after that the examiner stained the teeth with the disclosing solution and recorded the plaque index. Dental prophylaxis involved the use of a low-speed contra-angle hand piece, bristle brush, and prophylactic paste. After 1 month interval, all procedures were repeated by changing the groups in which the patient was previously assigned.
+
+### Assessment of Prophylaxis Duration
+
+A third dentist sets the digital stopwatch at the moment the operator begins the procedure and stopped it when the hand piece returned to the equipment. In GI, initial dental plaque disclosing was considered as part of the procedure. The dental prophylaxis duration was recorded in seconds.
+
+### Behavioral Evaluation
+
+The behavior of the patients was recorded as:
+
+Positive: when the child had no problems in accepting the procedure, answering the orders given by the operator. The child could use delaying tactics, but he/she showed willingness to cooperate.Negative: the child showed problems in accepting the procedure by crying and showing nervousness or fear. The child could present outbreaks of temper tantrums attempting to escape.
+
+### Classification of the Procedure Difficulty
+
+After the ending of prophylaxis, the operator classified its difficulty, regardless of the behavior (positive or negative) presented by the patient. The following criteria were adopted:
+
+1/mild: (a) lack of difficulty in accessing the patient's teeth, the child almost did not move the head; (b) difficulty in accessing the patient's teeth because of lot of body and head motion; however, the child did not bite the hand piece/brush.2/major: lot of body and head motion; the child bits the hand piece, hindering the access to the teeth.
+
+### Statistical Analysis
+
+The following nonparametric tests were applied: the Wilcoxon test for the analysis of plaque presence with or without disclosing according to the tooth surface—smooth or occlusal; the Mann–Whitney test for the analysis of the child behavior with or without disclosing within each surface in each studied group; and the Spearman correlation test for the association between the plaque index and difficulty or prophylaxis duration, in each studied group. The level of significance adopted was of 5%.
+
+[FIGURE] Indexes used to measure the amount of dental plaque present in the tooth surface during study: Greene and Vermillion—smooth surfaces; Mestrinho, Carvalho, and Figueiredo—occlusal surfaces
+
+## RESULTS
+
+The mean habitual dental plaque index at the beginning of the study was 1.49 (±0.86) for smooth surfaces and 1.77 (±0.65) for occlusal surfaces.
+
+The data regarding the dental plaque index on the smooth surfaces (Wilcoxon test) and on the labial/buccal and lingual/palatal surfaces separately are shown in Figure 2. On the smooth surface (labial/buccal + lingual/palatal), GI (with disclosing) resulted in statistically significant less dental plaque compered to GII (without disclosing). Considering only labial/buccal surfaces, this difference was also observed. However, on the lingual/palatal surfaces, there were no statistically significant differences between GI (with disclosing) and GII (without disclosing) (p > 0.05).
+
+Table 1 shows that there were statistically significant differences between GI (with disclosing) and GII (without disclosing), when analyzing the dental plaque index on the occlusal surfaces (Wilcoxon test). Thus, data indicated that dental plaque removal was more effective when both surfaces (smooth and occlusal) had been previously stained.
+
+Prophylaxis duration assessment showed that the procedure was statistically faster when the surfaces were stained before the procedure (Table 2). Additionally, the dental plaque index was correlated with the prophylaxis duration with or without previous disclosing of the dental plaque and with the degree of difficulty in performing the prophylaxis (Spearman correlation) and the results are seen in Table 3.
+
+In the case of prophylaxis duration, when considering GI (with disclosing), there was an inverse correlation between the dental plaque index and prophylaxis duration, that is, the longer the procedure duration, the smaller the amount of remaining dental plaque on teeth, for smooth and occlusal surfaces. On the contrary, for GII (without disclosing), the association between these factors was not found (p > 0.05), indicating that in those cases, the longest duration of the procedure did not necessarily imply in a better quality of the prophylaxis.
+
+[FIGURE] Percentage of dental plaque present in the tooth, according to the scores and the tooth surface
+
+[TABLE] Distribution of the residual dental plaque index on occlusal surfaces after prophylaxis with and without disclosing
+With disclosing | 126 | 0 | 0 | 1
+Without disclosing | 126 | 1 | 0 | 1
+
+[TABLE] Prophylaxis duration in seconds of GI (with disclosing) and GII (without disclosing)
+With disclosing | 391.27 (±142.2)*
+Without disclosing | 436.51 (±128.4)*
+
+[TABLE] Prophylaxis duration of the smooth and occlusal surfaces in relation to the plaque amount and difficulty reported by the operator for the prophylaxis on smooth and occlusal surfaces, in GI (with disclosing) and GII (without disclosing)
+Prophylaxis duration—with disclosing GI
+Smooth surface | −0.0801 | 0.024
+Occlusal surface | −0.186 | 0.037
+Prophylaxis duration—without disclosing GII
+Smooth surface | −0.042 | 0.235
+Occlusal surface | −0.003 | 0.965
+Difficulty in prophylaxis—with disclosing GI
+Smooth surface | −0.0668 | 0.0598
+Occlusal surface | 0.186 | 0.0376
+Difficulty in prophylaxis—without disclosing GII
+Smooth surface | −0.05 | 0.159
+Occlusal surface | 0.311 | 0.000
+
+In both the studied groups, there was a positive correlation between the difficulty and dental plaque index on the occlusal surfaces. Thus, regardless of the disclosing, the greater the difficulty in executing the prophylaxis, the greater the amount of remaining dental plaque on the occlusal surfaces after prophylaxis. An association was not found between difficulty in prophylaxis and remaining dental plaque for the smooth surfaces after prophylaxis (p > 0.05).
+
+The patient's behavior assessment demonstrated that crying, nervousness, and fear did not affect the dental plaque indexes (Mann–Whitney, p > 0.05) for both the groups under study and for both the surfaces (smooth and occlusal).
+
+## DISCUSSION
+
+Dental prophylaxis is an important method to eliminate dental plaque formed onto teeth.17 Currently, the direct visualization of dental plaque is considered the most effective mechanism to perform prophylaxis.18,19 However, important limiting factors for the final result and quality of prophylaxis,4 which are the accessibility and visibility of the dental plaque/tooth, might be hampered by the child's behavior.8 Under these special conditions, the dental plaque disclosure might favor a better visibility, making dental plaque removal simple, enhancing prophylaxis effectiveness,19,20 especially in early childhood.
+
+There are many dental plaque disclosing solutions in the market with similar clinical behavior regarding patient's oral hygiene motivation. Among them, methylene blue, malachite green, and gentian violet provide easier assessment of the dental plaque index and better contrast against gingival and tooth tissues.21 The present study employed malachite green with the aid of propylene glycol as a vehicle, which resulted in a good flavor acceptance by the children.
+
+The results showed that dental plaque removal by prophylaxis was more effective when the smooth and occlusal surfaces had been stained. Thus, dental plaque visualization makes its removal easy, because it is possible to identify the areas requiring attention during the cleaning of tooth surfaces.22
+
+The smooth surfaces are potentially easier to clean by tooth brushing at home than the occlusal surfaces because they have fewer morphological grooves. However, the lingual/palatal surfaces are greatly susceptible to dental plaque accumulation because there is a difficult access to these areas,23,24 mainly in children. The buccal/labial surfaces, on the contrary, are more accessible and therefore allow better hygiene. Accordingly, the dental plaque index of the GI labial/buccal surfaces (with previous disclosing) was significantly smaller than that of GII (without previous disclosing). Notwithstanding, there was no statistically significant difference between the groups for the lingual/palatal surfaces. This result suggests that even the dental plaque disclosing of the lingual/palatal surfaces did not eliminate the difficulty in visualizing the dental plaque and its removal through prophylaxis. In addition, the prophylaxis onto the lingual/palatal surfaces of children is difficult, because at this age, the child is unable to keep the mouth opened for an adequate time period to perform the prophylaxis properly. Moreover, it is common that children show the reflex of biting the brush, thus hindering its use onto these surfaces.
+
+Taking into account that the sample of the present study was composed of young children, it was necessary to evaluate the influence of child's behavior on the dental prophylaxis effectiveness. Data pointed out that the positive/negative behavior did not affect the dental plaque indexes and this result could have occurred because the operator is specialized in infancy care, having skills for dealing with the child who cries and refuses treatment. On the contrary, in case dental prophylaxis is executed by a general dentist, the quality of the procedure might be compromised by crying and body and head motions of the child, in addition to the mother's anxiety.
+
+This study also evaluated the degree of operator difficulty in executing the dental prophylaxis. In both the groups (with and without disclosing), there was a positive correlation between the difficulty and dental plaque index onto the occlusal surfaces. Accordingly, regardless of the disclosing, the greater the difficulty in performing prophylaxis, the greater the amount of the remaining dental plaque. However, this correlation was not found for the smooth surfaces. Probably, the operator difficulty is mainly to access the posterior area of the mouth.
+
+A previous disclosing promoted an inverse correlation between the prophylaxis duration and dental plaque index for the smooth and occlusal surfaces. On the contrary, when the teeth were not disclosed, there was no association between these factors, indicating that a longer duration did not necessarily imply in a better quality of the procedure. The rationale behind this would be that despite executing a more time-consuming procedure, the dentist wastes time in areas without dental plaque accumulation due to the difficulty in identifying the tooth surfaces with dental plaque. Accordingly, the prophylaxis duration was statistically shorter when the dental plaque had been previously disclosed. Therefore, although plaque disclosure adds another operative step (drying with gauze and application of the solution), it contributes to a more precise procedure.
+
+The comparison of the findings of this study with those in the literature is hampered because of the lack of studies on: (1) disclosing solutions, especially for infants; (2) the evaluation of dental plaque disclosing as a possible resource to improve prophylaxis quality; and (3) the dental plaque index, behavior influence, and the procedure difficulty itself in young children.
+
+The approach proposed by this study is that the dental plaque disclosing directly helps the dentist during prophylaxis execution and is an important educational resource, since the child's parents/guardians can also visualize the dental plaque that was not properly removed by tooth brushing at home. However, considering the low mean habitual dental plaque index of this study's sample, further studies comprising a sample that is not part of the preventive program are necessary. This would allow assessing the dental plaque disclosing before professional dental prophylaxis in children having dietary and hygiene habits favoring greater biofilm accumulation at higher risk for developing dental caries.
+
+## CONCLUSION
+
+Based on the results, it is concluded that dental plaque disclosing in infants is an effective and less time-consuming method that improves the quality of the professional dental prophylaxis.
+
+## CLINICAL SIGNIFICANCE
+
+Biofilm control is important for the success of programs for the prevention of ECC and considering the particularities inherent to the dental care of infants, it is necessary that periodic professional prophylaxis is effective in eliminating oral biofilm, ideally reducing chair time. Although dental plaque disclosing has been traditionally performed on educational basis during oral hygiene instruction, this resource can be safely employed to help professional prophylaxis in infants.
