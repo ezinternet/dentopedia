@@ -1,0 +1,49 @@
+{
+  "overview": "dbbm-platelet-adjuncts-bcp-bmp2-overview",
+  "date": "2026-10-09",
+  "title": "DBBM 혈소판 보조제·BCP·BMP2 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/dbbm-platelet-adjuncts-bcp-bmp2-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "Zhang 2025 SR+MA(16편)에서 혈소판 농축제 유형별로 유의했던 것은?",
+      "opts": [
+        "PRP만 유의",
+        "PRF와 PRGF에서 잔존 이식재 감소가 유의했고 PRP는 비유의",
+        "세 유형 모두 동일하게 유의",
+        "세 유형 모두 비유의"
+      ],
+      "ans": 1,
+      "rat": "Zhang 2025는 잔존 이식재 감소가 PRF(MD −4.32)와 PRGF(−1.89)에서 유의하고 PRP는 비유의라고 보고했다. 신생골의 단독 이득도 PRF에서만 유의했다.",
+      "cite": "overviews/dbbm-platelet-adjuncts-bcp-bmp2-overview"
+    },
+    {
+      "id": "q2",
+      "q": "혈소판 농축제를 DBBM에 더했을 때 조직계측 이득과 임플란트 수준 결과의 관계는?",
+      "opts": [
+        "조직계측과 ISQ·생존이 모두 개선되었다",
+        "조직계측은 개선되었지만 ISQ·생존은 달라지지 않았다",
+        "조직계측은 나빠지고 ISQ는 개선되었다",
+        "모두 측정되지 않았다"
+      ],
+      "ans": 1,
+      "rat": "Almutairi 2025(ISQ MD −2.25, p=0.56)와 Zhang 2025(RFA 비유의, 생존 RR 1.03, p=0.252) 모두 조직계측 이득이 ISQ와 생존 개선으로 이어지지 않았다.",
+      "cite": "overviews/dbbm-platelet-adjuncts-bcp-bmp2-overview"
+    },
+    {
+      "id": "q3",
+      "q": "Jiang 2020 BioCaP 동물 연구에서 DBB 군의 안전성 신호는?",
+      "opts": [
+        "신생골 감소",
+        "치근 흡수가 빈 대조군의 1.87배",
+        "치주 인대 확장",
+        "교정 이동 속도 증가"
+      ],
+      "ans": 1,
+      "rat": "Jiang 2020(비글 n=9)에서 DBB 군의 치근 흡수는 빈 대조의 1.87배였다. 딱딱한 DBB 입자가 교정 압축력 아래 치근-PDL-이식재 계면에 응력을 집중시키는 것으로 해석된다. 사람 자료는 없다.",
+      "cite": "overviews/dbbm-platelet-adjuncts-bcp-bmp2-overview"
+    }
+  ]
+}
