@@ -1,0 +1,49 @@
+{
+  "overview": "tmj-dislocation-recurrence-prevention-overview",
+  "date": "2026-10-09",
+  "title": "TMJ 탈구 재발 예방 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/tmj-dislocation-recurrence-prevention-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "Hegab 2013 무작위 시험에서 재발이 0/16이었던 군은?",
+      "opts": [
+        "ABI 단독",
+        "고정(IMF) 단독",
+        "ABI + 4주 고정",
+        "대조군"
+      ],
+      "ans": 2,
+      "rat": "Hegab 2013(군당 n=16)에서 ABI + 4주 IMF는 재발 0/16이었고, ABI 단독은 8/16, IMF 단독은 3/16이었다. 효과가 분리 가능한 연구만 포함하는 기준(isolable-effect gate)은 이 연구를 제외했으므로, ABI는 고정과 함께 주는 조합이 실제로 검증된 것이다.",
+      "cite": "overviews/tmj-dislocation-recurrence-prevention-overview"
+    },
+    {
+      "id": "q2",
+      "q": "덱스트로스 프롤로테라피의 근거 양상은?",
+      "opts": [
+        "위약 대조 시험 3건 모두 양성",
+        "모든 양성 수치는 비통제 시리즈이고 위약 대조 시험 3건은 모두 위약보다 우월하지 않았다",
+        "대규모 RCT로 입증되었다",
+        "근거가 전혀 없다"
+      ],
+      "ans": 1,
+      "rat": "Abrahamsson 2020 RCT 한정 SR은 위약 대조 시험 3건에서 개구, 통증, 탈구 빈도 모두 위약보다 우월하지 않았다고 보고했다. 91% 같은 양성 수치는 비통제 시리즈에서 나왔다.",
+      "cite": "overviews/tmj-dislocation-recurrence-prevention-overview"
+    },
+    {
+      "id": "q3",
+      "q": "재발성 탈구에서 수술 근거의 현황은?",
+      "opts": [
+        "여러 대규모 RCT가 있다",
+        "약 50년 동안 수술 기법을 평가한 무작위 시험이 하나도 없다",
+        "eminectomy가 RCT로 입증되었다",
+        "수술은 금기다"
+      ],
+      "ans": 1,
+      "rat": "RCT 한정 리뷰는 약 50년 문헌에서 수술 기법을 평가한 시험을 찾지 못했다. ESTMJS의 유일한 GoR A는 중재 전에 비수술 방법이 실패해야 한다는 진술이며, 소아에서 침습 치료 2편은 재발이 없어 나이만으로 수술 금기가 아니다.",
+      "cite": "overviews/tmj-dislocation-recurrence-prevention-overview"
+    }
+  ]
+}
