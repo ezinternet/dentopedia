@@ -1,0 +1,49 @@
+{
+  "overview": "socket-preservation-graft-material-dimensional-outcomes-overview",
+  "date": "2026-10-09",
+  "title": "발치와 보존술 이식재·치수 결과 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/socket-preservation-graft-material-dimensional-outcomes-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "Nisar 2020 분할구강 연구에서 콜라겐 플러그의 효과는?",
+      "opts": [
+        "폭과 높이 모두 보존",
+        "치조정 높이는 보존하지만 폭은 보존하지 못한다",
+        "폭은 보존하지만 높이는 보존하지 못한다",
+        "효과가 없다"
+      ],
+      "ans": 1,
+      "rat": "Nisar 2020(n=30)에서 콜라겐 플러그는 3·6개월 치조정 높이를 유의하게 보존했지만 폭 차이는 비유의였다(p>0.05). 플러그만으로는 수평 보존이 부족하다.",
+      "cite": "overviews/socket-preservation-graft-material-dimensional-outcomes-overview"
+    },
+    {
+      "id": "q2",
+      "q": "MacBeth 2022 RCT에서 GBR과 소켓 실 모두에 대해 확인된 것은?",
+      "opts": [
+        "두 술식 모두 수평 폭 손실을 의미 있게 줄였다",
+        "두 술식 모두 수평 폭 손실(약 2.2 mm)을 줄이지 못했다",
+        "소켓 실만 폭을 보존했다",
+        "GBR이 폭을 완전히 보존했다"
+      ],
+      "ans": 1,
+      "rat": "MacBeth 2022(n=42)에서 중간 수평 폭 감소는 세 군 모두 약 2.2 mm로 차이가 없었다. GBR은 소켓 면적(−4% vs −13%)과 열개에서 우수했고, 소켓 실 콜라겐 매트릭스는 43%가 부분 분해되었다.",
+      "cite": "overviews/socket-preservation-graft-material-dimensional-outcomes-overview"
+    },
+    {
+      "id": "q3",
+      "q": "Strauss 2024 심미부 조기 식립 연구에서 1년 협측 볼록성을 좌우한 요인은?",
+      "opts": [
+        "ARP 시행 여부",
+        "식립 시 GBR 시행 여부(72.7% vs 36.0%)",
+        "환자 연령",
+        "임플란트 직경"
+      ],
+      "ans": 1,
+      "rat": "Strauss 2024에서 ARP는 추가 GBR 필요 비율을 약 30%로 낮췄지만(대조 68.4%), 협측 볼록성은 식립 시 GBR 시행 여부가 좌우했다(72.7% vs 36.0%, p=0.042).",
+      "cite": "overviews/socket-preservation-graft-material-dimensional-outcomes-overview"
+    }
+  ]
+}
