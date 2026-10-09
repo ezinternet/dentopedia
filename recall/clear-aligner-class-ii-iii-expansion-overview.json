@@ -1,0 +1,49 @@
+{
+  "overview": "clear-aligner-class-ii-iii-expansion-overview",
+  "date": "2026-10-09",
+  "title": "투명교정 골격 Class II·III·상악 확장 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/clear-aligner-class-ii-iii-expansion-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "투명교정으로 구치를 원심이동할 때 예상되는 주요 부작용은?",
+      "opts": [
+        "구치 원심이동은 전치부 고정에 영향을 주지 않는다",
+        "최대 약 2 mm 원심이동이 가능하지만 전치부 고정 소실(anterior anchorage loss)이 매우 가능성이 높다",
+        "원심이동 예측성은 항상 90% 이상이다",
+        "골격 고정원 없이도 예측성이 가장 높다"
+      ],
+      "ans": 1,
+      "rat": "Bhate 2025 SR은 투명교정 구치 원심이동을 최대 약 2 mm, 예측/달성 36–78%로 보고하고 전치부 고정 소실이 매우 가능성이 높다고 정리한다. TAD와 IPR 병용 하이브리드가 예측성을 높인다(Inchingolo 2023).",
+      "cite": "overviews/clear-aligner-class-ii-iii-expansion-overview"
+    },
+    {
+      "id": "q2",
+      "q": "Rutili 2026 narrative review(128편)가 보고한 Class III 위장술 근거 수준의 기저선은?",
+      "opts": [
+        "근거의 86%가 무작위 대조 시험 이상이다",
+        "근거의 86%가 4–5등급(증례 보고·소규모 시리즈)이며, 투명교정만의 공백이 아니라 분야 전체의 기저선이다",
+        "투명교정 근거만 86%가 4–5등급이다",
+        "Class III 위장술에 증례 보고가 없다"
+      ],
+      "ans": 1,
+      "rat": "Rutili 2026(SANRA narrative review, 128편: 증례 보고·시리즈 110 + 관찰 18)에서 모든 방식의 Class III 위장술 근거 86%가 4–5등급이다. 투명교정 Class III 증례 근거의 약점은 분야 전체의 기저선으로 읽어야 한다.",
+      "cite": "overviews/clear-aligner-class-ii-iii-expansion-overview"
+    },
+    {
+      "id": "q3",
+      "q": "Invisalign First 혼합치열 확장에서 Serafin 2026 SR+MA가 보고한 계획량과 예측성의 관계는?",
+      "opts": [
+        "계획 확장량이 클수록 예측성이 뚜렷하게 떨어진다",
+        "계획 확장량과 예측성 사이에 용량-반응 관계가 없었다",
+        "예측성은 계획량이 클수록 올라간다",
+        "확장량은 예측성과 측정되지 않았다"
+      ],
+      "ans": 1,
+      "rat": "Serafin 2026(9편, 이질적 예비 합산)은 상악 65%·하악 71%의 예측성을 보고하면서 계획 확장량과 예측성 사이에 용량-반응 관계가 없다고 했다. 성인에서는 계획량이 클수록 예측성이 떨어지는 패턴(de-la-rosa-gay 2025)과 대비된다.",
+      "cite": "overviews/clear-aligner-class-ii-iii-expansion-overview"
+    }
+  ]
+}
