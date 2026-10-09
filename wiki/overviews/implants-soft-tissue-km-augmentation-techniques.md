@@ -225,6 +225,7 @@ Han 2021 prospectively studied 79 patients (203 implants) receiving full-thickne
 | Thoma 2014 | Systematic Review (EAO consensus) | 9+11 studies | SR (no MA possible) |
 | Han 2021 | Prospective comparative study | 79 pts, 203 implants | Prospective |
 | Jung 2021 | Pilot RCT | 15 pts, 18 implants | RCT (underpowered) |
+| Kazor 2004 | Narrative review | — | Narrative (no success rates in abstract) |
 | Bruschi 2014 | Prospective 4-year | 85 pts, 131 implants | Prospective |
 | Wang 2024 | Case series | 4 pts | Case series |
 | De Greef 2023 | Case series | 2 pts | Case series |
@@ -250,3 +251,4 @@ Han 2021 prospectively studied 79 patients (203 implants) receiving full-thickne
 - [[periodontics/papantonatou-2026-ctg-vs-vcmx-implant-placement-rct]] — RCT: CTG vs volume-stable xenogeneic collagen matrix (VCMX) at implant placement; soft-tissue volume and KM outcomes (rct, 2026)
 - [[implants/peri-implantitis/elhadidy-2026-fla-vs-prf-vs-ctg-peri-implant-sta-rct]] — RCT: full-thickness flap advancement vs PRF vs CTG for peri-implant soft-tissue augmentation; keratinized mucosa width and tissue thickness outcomes (rct, 2026)
 - [[implants/soft-tissue/thoma-2014-soft-tissue-augmentation-implant-sr]] — EAO 2014 SR evidence foundation
+- [[implants/soft-tissue/kazor-2004-implant-plastic-surgery-review]] — periodontal plastic-surgery review for creating and maintaining peri-implant soft-tissue height in esthetic cases. Case selection and planning are the emphasis; the abstract reports no success rates (narrative review, 2004).
