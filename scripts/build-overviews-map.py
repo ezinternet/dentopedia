@@ -41,55 +41,57 @@ SITE_BASE = "/dentopedia"
 DOMAINS = [
     # ── 임플란트: 진료 하위분류 5장 ──
     ("임플란트 · 1차안정성 · ISQ · 부하", [
-        "isq", "implant-loading"]),
+        "isq", "implant-loading", "high-insertion-torque", "posterior-mandible-splinted", "low-absent-primary"]),
     ("임플란트 · 표면처리 · 골유착", [
         "implant-surface", "plasma-surface", "photofunctionalization",
         "osseointegration", "vitamin-d"]),
     ("임플란트 · 디자인 · 매크로지오메트리 · 재료", [
         "implant-design", "implant-macrogeometry", "macrogeometry", "implant-length",
-        "narrow-diameter", "tissue-level", "zirconia-implant"]),
+        "narrow-diameter", "tissue-level", "zirconia-implant", "implant-abutment-restoration", "implant-prosthesis-misfit", "implant-spacing", "tilted-axial", "pdl-tissue", "platform-switching"]),
     ("임플란트 · 식립술기 · 골밀도화 · 내비게이션", [
-        "osseodensification", "versah", "robotic-vs-navigation", "navigation"]),
+        "osseodensification", "versah", "robotic-vs-navigation", "navigation", "dense-bone-osteotomy", "flapless", "implant-placement-drilling-torque", "implant-placement-direction", "implant-placement-protocol", "primary-vs-secondary-implant-healing"]),
     ("임플란트 · 골질 · 실패위험 · 교합", [
         "bone-quality-implant", "implant-failure", "implant-occlusion",
         "implants-clinical", "implants-"]),
+    ("임플란트 · 실패 · 제거 · 전신 위험인자", ["failed-implant", "implant-removal", "systemic-host", "early-bone-loss", "implant-bite-force", "misch-papers"]),
     ("즉시식립 · 타이밍", [
-        "immediate-implant", "placement-timing", "socket-shield", "type-1a", "socket-iip"]),
+        "immediate-implant", "placement-timing", "socket-shield", "type-1a", "socket-iip", "ridge-preservation-timing"]),
     ("임플란트주위 연조직", [
         "keratinized-mucosa", "peri-implant-soft", "peri-implantitis", "peri-implant",
         "emergence-profile", "supportive-peri-implant"]),
     ("골재생 · GBR · ARP", [
         "bone-regeneration", "dbbm", "gbr-", "open-healing-arp",
-        "socket-preservation", "vertical-ridge", "ridge-split"]),
+        "socket-preservation", "vertical-ridge", "ridge-split", "autogenous-bone-graft", "bone-graft-material", "bone-tissue-types", "buccal-plate", "extraction-socket-biologic", "severe-atrophy"]),
     ("상악동거상술", [
-        "sinus-lift", "short-implant-vs-sinus", "odontogenic-maxillary"]),
+        "sinus-lift", "short-implant-vs-sinus", "odontogenic-maxillary", "transcrestal-maxillary", "schneiderian"]),
     # ── 근관치료: 메가카드(14)를 술식 단계 3장으로 분할 ──
     ("근관 · 해부 · 성형 · 근관장", [
         "c-shaped", "mb2", "canal-shaping", "access-cavity", "eal-working",
-        "endodontics-comprehensive", "rct-protocol"]),
+        "endodontics-comprehensive", "rct-protocol", "apical-patency", "root-canal-morphology"]),
     ("근관 · 세정 · 소독 · 실러", [
-        "irrigation", "cold-plasma", "ceraseal", "bioceramic-sealer", "endotoxin"]),
+        "irrigation", "cold-plasma", "ceraseal", "bioceramic-sealer", "endotoxin", "gp-cone", "obturation", "primary-tooth-endodontic"]),
     ("근관 · 진단 · 생활치수 · 재생 · 내원", [
-        "pulp-periapical", "vital-pulp", "regenerative-endodontics", "single-vs-multivisit"]),
+        "pulp-periapical", "vital-pulp", "regenerative-endodontics", "single-vs-multivisit", "endodontic-flare-up", "endodontic-postoperative-pain", "endodontic-umbrella", "pdl-periapical", "pulpal-neurogenic", "rep-scaffold"]),
     ("치주 · 교합외상", [
         "periodontics", "occlusal-trauma", "toothpick", "toothbrush", "watanabe",
         "plaque-control", "oral-hygiene", "interdental-cleaning", "interdental",
-        "periodontal", "biofilm-management", "gbt", "air-polishing"]),
+        "periodontal", "biofilm-management", "gbt", "air-polishing", "dental-recall-spt", "gingival-crevicular-fluid", "root-coverage"]),
     ("교합 · TMJ · 이갈이", [
         "bruxism", "tmd-", "unilateral-mastication", "overeruption", "unopposed-tooth",
         "cr-co-micp", "centric", "reference-position",
-        "occlusal-contact", "articulating-paper"]),
+        "occlusal-contact", "articulating-paper", "masticatory-muscle", "tooth-wear-vdo", "trismus"]),
+    ("TMJ · 관절 · 탈구 · 염증", ["tmj-"]),
     # ── 보철·수복: 메가카드(20)를 3장으로 분할(보철↔세라믹↔레진접착) ──
     ("보철 · 의치 · 교합기록", [
         "complete-denture", "gothic-arch", "jaw-relation", "prosthetic-materials",
         "abutment-screw", "screw-preload", "crown-preparation", "post-and-core",
-        "food-impaction"]),
+        "food-impaction", "healing-abutment", "implant-fpd", "prosthesis-retention", "rpd-vs", "screw-access", "provisional-pediatric-crown", "worn-dentition"]),
     ("세라믹 · 지르코니아 · 심미수복", [
         "zirconia-material", "zirconia-types", "veneer", "lithium-disilicate",
-        "dental-materials", "tooth-whitening"]),
+        "dental-materials", "tooth-whitening", "implant-supported-prosthesis-ceramic"]),
     ("레진 · 접착", [
         "resin-dentin", "ceramic-bonding", "immediate-dentin", "adhesive-bonding",
-        "direct-resin", "reis-2024"]),
+        "direct-resin", "reis-2024", "cervical-composite", "direct-restorative", "resin-bonding", "resin-light-curing", "resin-polymerization"]),
     # ── 우식↔비우식경조직 분리 ──
     ("우식 · 예방 · 불소", [
         "caries", "glass-ionomer"]),
@@ -97,30 +99,30 @@ DOMAINS = [
         "dental-erosion", "nccl", "dentin-hypersensitivity", "cracked-tooth"]),
     # ── 외과↔마취 분리 ──
     ("구강외과 · 발치 · 봉합 · 외상", [
-        "oral-surgery", "third-molar", "suture-wound", "dental-trauma"]),
+        "oral-surgery", "third-molar", "suture-wound", "dental-trauma", "ian-nerve", "local-hemostasis"]),
     ("국소마취 · 진정", [
-        "buffered-modified", "mandibular-anesthesia", "topical-anesthetic", "local-anesthetic"]),
-    ("약물 · 전신질환", ["drug-", "autoimmune", "systemic-disease", "hypertension", "hemodynamic"]),
+        "buffered-modified", "mandibular-anesthesia", "topical-anesthetic", "local-anesthetic", "computerized-needle-free", "local-anesthesia-category"]),
+    ("약물 · 전신질환", ["drug-", "autoimmune", "systemic-disease", "hypertension", "hemodynamic", "antibiotics", "antibiotic", "penicillin", "nsaid", "analgesic", "doac", "perioperative-pharmacology"]),
     # ── 구강내과 메가카드(6)를 점막↔미생물↔노년 3장으로 분할 ──
     ("구강내과 · 점막 · 구강안면통증", [
-        "oral-medicine", "bms", "orofacial-pain", "mucositis"]),
+        "oral-medicine", "bms", "orofacial-pain", "mucositis", "aphthous", "immune-mediated-mucosal", "lichen-planus", "oral-mucosal", "opmd", "saliva", "taste-salivary", "trigeminal"]),
     ("구강미생물 · 구취", [
-        "oral-microbiome", "halitosis"]),
+        "oral-microbiome", "halitosis", "antiseptic"]),
     ("노년치의학", ["oral-frailty", "geriatric"]),
     ("교정", ["miniscrew", "orthodontic-tooth", "clear-aligner", "aligner", "myofunctional", "elastodontic"]),
     # ── 방사선↔디지털/AI 분리 ──
-    ("방사선 · CBCT · 선량", ["cbct", "dental-imaging"]),
+    ("방사선 · CBCT · 선량", ["cbct", "dental-imaging", "radiographic", "radiology-category", "handheld-mobile-xray"]),
     ("디지털 · AI", ["digital-workflow", "ai-dentistry"]),
     # ── 행동/커뮤니케이션↔경영 분리 ──
-    ("행동치의학 · 커뮤니케이션", ["behavioral-dentistry", "patient-consultation"]),
+    ("행동치의학 · 커뮤니케이션", ["behavioral-dentistry", "patient-consultation", "dental-anxiety"]),
     ("경영 · 운영 · 민원 · 번아웃", [
         "korean-dental-practice", "complaint-management", "dentist-burnout",
         "no-show", "patient-recall", "teledentistry", "workforce-delegation",
-        "patient-safety-culture", "health-economics"]),
+        "patient-safety-culture", "health-economics", "infection-control", "practice-management", "treatment-planning"]),
     # ── PDRN↔BTX 분리(이질) ──
     ("PDRN", ["pdrn"]),
     ("보툴리눔독소 · BTX", ["btx-"]),
-    ("근거평가 · 통계", ["evidence-appraisal", "statistical-abbrev"]),
+    ("근거평가 · 통계", ["evidence-appraisal", "statistical-abbrev", "evidence-practice-gap", "clinical-principles", "dental-research-units"]),
     ("장비 · 핸드피스 · 절삭기구", ["handpiece", "dental-bur", "bur-selection", "rotary-cutting"]),
 ]
 FALLBACK_LABEL = "기타 · 미분류"
@@ -150,6 +152,9 @@ def collect():
     for f in sorted(OVDIR.glob("*.md")):
         stem = f.stem
         fm = parse_frontmatter(f.read_text(encoding="utf-8"))
+        # 종합 페이지가 아닌 네비게이션(카테고리 인덱스) 페이지는 카드에서 제외한다.
+        if fm.get("source") == "navigation" or "category-index" in fm.get("tags", ""):
+            continue
         title = fm.get("title") or stem
         d = fm.get("date") or (fm.get("year", "") + "-01-01" if fm.get("year") else "")
         buckets[classify(stem)].append({"s": stem, "t": title, "d": d})
