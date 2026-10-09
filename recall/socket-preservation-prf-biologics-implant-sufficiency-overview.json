@@ -1,0 +1,49 @@
+{
+  "overview": "socket-preservation-prf-biologics-implant-sufficiency-overview",
+  "date": "2026-10-09",
+  "title": "발치와 보존술 PRF·생물제제·충분성 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/socket-preservation-prf-biologics-implant-sufficiency-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "Fischer 2022 SR+MA(RCT 9편)에서 ARP가 만든 평균 폭 증가와 그 임상 의미는?",
+      "opts": [
+        "평균 3 mm 이상으로 거의 모든 환자가 증대 없이 식립",
+        "평균 1.13 mm로 통계적으로 유의하지만 임상적으로 작아 대부분 식립 시 증대가 여전히 필요",
+        "증가가 없다",
+        "측정되지 않았다"
+      ],
+      "ans": 1,
+      "rat": "Fischer 2022에서 평균 폭 증가는 1.13 mm(95% CI 0.28–1.98, I²=68%)였고, 증대 없는 식립 확률은 직경 3.25 mm 19%, 4.0 mm 14%, 5.0 mm 6%(비유의)였다. 약 5명 중 4명은 증대가 필요하다.",
+      "cite": "overviews/socket-preservation-prf-biologics-implant-sufficiency-overview"
+    },
+    {
+      "id": "q2",
+      "q": "Alavi 2024 SR+MA(RCT 29편)에서 수평·수직 치수를 모두 유의하게 보존한 제제는?",
+      "opts": [
+        "L-PRF",
+        "blood-derived 제제 전체",
+        "rhBMP-2",
+        "모든 제제가 동일"
+      ],
+      "ans": 2,
+      "rat": "Alavi 2024에서 rhBMP-2만 수평(p=.01)과 수직(p<.0008)을 모두 유의하게 보존했고, L-PRF는 자연 치유와 차이가 없었다. 29편 중 15편이 비뚤림 위험이 높았다.",
+      "cite": "overviews/socket-preservation-prf-biologics-implant-sufficiency-overview"
+    },
+    {
+      "id": "q3",
+      "q": "Vora 2025 SR(14편, 571 대구치)가 보고한 추가 증대 필요 비율은?",
+      "opts": [
+        "ARP 20.8% vs 자연 치유 47.7%",
+        "ARP 47.7% vs 자연 치유 20.8%",
+        "두 군 모두 약 30%",
+        "측정되지 않았다"
+      ],
+      "ans": 0,
+      "rat": "Vora 2025에서 고급 증대 필요 비율은 ARP 20.8%, 자연 치유 47.7%로 약 절반이었고, 상악 대구치에서 측방창 상악동 거상 필요도 줄었다.",
+      "cite": "overviews/socket-preservation-prf-biologics-implant-sufficiency-overview"
+    }
+  ]
+}
