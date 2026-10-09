@@ -1,0 +1,49 @@
+{
+  "overview": "sinus-lift-membrane-material-perforation-repair-overview",
+  "date": "2026-10-09",
+  "title": "상악동 거상 막 물성·천공 수복 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/sinus-lift-membrane-material-perforation-repair-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "Zhai 2018 사체 연구에서 슈나이데리안 막의 천공 탄성계수와 신장 탄성계수의 관계는?",
+      "opts": [
+        "천공 탄성계수가 신장 탄성계수의 약 절반",
+        "천공 탄성계수(53.6 MPa)가 신장 탄성계수(27.1 MPa)의 약 2배",
+        "두 값이 같다",
+        "천공 탄성계수는 측정되지 않았다"
+      ],
+      "ans": 1,
+      "rat": "Zhai 2018에서 천공 탄성계수는 53.6 MPa, 신장 탄성계수는 27.1 MPa로 약 2배다. 따라서 측면 전단이 같은 크기의 수직 압입보다 위험하다.",
+      "cite": "overviews/sinus-lift-membrane-material-perforation-repair-overview"
+    },
+    {
+      "id": "q2",
+      "q": "Soares 2024 SR+MA(130편)가 보고한, 천공을 적절히 수복했을 때의 임플란트 손실률은?",
+      "opts": [
+        "약 20%",
+        "약 4%(95% CI 2–8%), 천공 크기는 손실을 예측하지 않았다",
+        "약 40%, 천공이 클수록 손실이 증가",
+        "측정되지 않았다"
+      ],
+      "ans": 1,
+      "rat": "Soares 2024는 적절히 수복한 천공의 임플란트 손실을 4%(95% CI 2–8%)로 보고했고, 천공 크기는 손실을 예측하지 않았다(p=0.86).",
+      "cite": "overviews/sinus-lift-membrane-material-perforation-repair-overview"
+    },
+    {
+      "id": "q3",
+      "q": "Lee 2023 NMA가 보고한 천공률과 임플란트 생존의 관계는?",
+      "opts": [
+        "천공률이 10% 오르면 생존 odds가 55% 떨어진다(OR 0.45)",
+        "천공률은 생존과 무관하다",
+        "천공률이 10% 오르면 생존 odds가 55% 오른다",
+        "천공률은 기구 선택과 무관하게 측정되지 않았다"
+      ],
+      "ans": 0,
+      "rat": "Lee 2023 NMA(85편, 5,551 SFE)는 천공률 10% 증가마다 임플란트 생존 odds가 55% 감소한다고 보고했다(OR 0.45, 95% CrI 0.21–0.71).",
+      "cite": "overviews/sinus-lift-membrane-material-perforation-repair-overview"
+    }
+  ]
+}
