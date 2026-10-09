@@ -1,0 +1,49 @@
+{
+  "overview": "clear-aligner-design-materials-overview",
+  "date": "2026-10-09",
+  "title": "투명교정 설계·부착물·재료·브랜드 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/clear-aligner-design-materials-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "트림라인 압출(extrusion) 설계에서 Baik 2024 bench 연구가 보인 전제 조건은?",
+      "opts": [
+        "트림라인 설계가 가장 중요하며 부착물은 필요 없다",
+        "부착물이 없으면 8가지 트림라인 설계 모두 압출 대신 압입 힘이 발생했다",
+        "연장형 트림라인은 부착물과 무관하게 압출을 보장한다",
+        "두께가 두꺼운 트림라인이 항상 우수하다"
+      ],
+      "ans": 1,
+      "rat": "Baik 2024는 부착물이 없으면 8가지 트림라인 설계 모두 원하는 압출 대신 압입 힘을 만들었다고 보고했다. 부착물 존재가 관문이고 트림라인 기하는 미세 조정이다.",
+      "cite": "overviews/clear-aligner-design-materials-overview"
+    },
+    {
+      "id": "q2",
+      "q": "최적화(3D 베벨) 부착물과 기존 부착물의 임상 정확도 비교(Muthuswamy Pandian 2025 SR+MA, n=526)에서 얻은 결론은?",
+      "opts": [
+        "최적화 부착물이 견치 derotation에서 유의하게 우수",
+        "통계적으로 유의한 정확도 차이는 없었다",
+        "기존 부착물이 압출에서 유의하게 우수",
+        "두 부착물 모두 예측 이동을 100% 달성"
+      ],
+      "ans": 1,
+      "rat": "Muthuswamy Pandian 2025는 견치 derotation(SMD −0.31, p=0.06)과 전치 압출(SMD 0.14, p=0.60)에서 최적화 부착물과 기존 부착물의 유의한 차이가 없다고 보고했다. 두 방식 모두 예측 이동에 못 미쳤다.",
+      "cite": "overviews/clear-aligner-design-materials-overview"
+    },
+    {
+      "id": "q3",
+      "q": "Algarni 2026 두 브랜드 비교(n=76)에서 수직 이동의 신뢰도 분류는?",
+      "opts": [
+        "Eon Aligner가 \"신뢰하기 어려움\"",
+        "Invisalign이 \"신뢰하기 어려움\"으로 분류되었고 Eon은 변동이 있었다",
+        "두 브랜드 모두 신뢰할 만했다",
+        "수직 이동은 측정되지 않았다"
+      ],
+      "ans": 1,
+      "rat": "Algarni 2026에서 Invisalign은 수직 이동이 \"신뢰하기 어려움\"으로 분류되었고, Eon은 첫 소구치를 제외하고 정확도가 변동했다. 횡경은 두 브랜드 차이가 없었고, 회전과 수평 이동은 Eon이 우위였다.",
+      "cite": "overviews/clear-aligner-design-materials-overview"
+    }
+  ]
+}
