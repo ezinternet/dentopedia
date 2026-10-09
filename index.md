@@ -4025,6 +4025,9 @@ tags: []
 ### overviews — bone-regeneration + dental-materials (added 2026-06-16)
 - [[overviews/zirconia-material-clinical-overview]] — 치과용 지르코니아 세대분류(3Y→5Y TZP)·LTD·CAD/CAM 결함·생존율·파절수리 종합 (9편 신규)
 - [[overviews/gbr-barrier-membrane-overview]] — GBR 차폐막 분류·가교화 전략·PASS 원칙·차세대 programmable membrane 종합 (7편 신규)
+- [[overviews/gbr-membrane-classification-crosslinking-overview]] — **하위 오버뷰** (모체 축 1–2): 비분해성 vs 생분해성 분류, GBR 장벽 16–24주, EDC 선호·GA legacy·리보스 임상 사용, 막 단독은 이식재 없이 공간 유지 못함
+- [[overviews/gbr-clinical-application-additive-value-overview]] — **하위 오버뷰** (모체 축 3·4·8): PASS 원칙, 수평=콜라겐+복합 이식재·수직=비흡수성, 작은 포함 결손에서 막은 격납 역할, Esposito 짧은 임플란트 대 수직 증대, ≥10년 생존 근거 3편, 고정 효과는 막 의존
+- [[overviews/gbr-next-generation-synthetic-membranes-overview]] — **하위 오버뷰** (모체 축 5–7): 프로그래머블 인터페이스(M1→M2), 전임상 Cur-Sr 막, 광물화 콜라겐 이득 없음, 합성 흡수성 PLGA 막 획득률 87.2%·노출 0건, 범주 근거 7편
 - [[overviews/socket-preservation-arp-overview]] — 발치와 보존술(ARP) 소켓 분류·bundle bone 기전·이식재 선택·PRF·임플란트 충분성 종합 (8편 신규)
 - [[overviews/socket-preservation-classification-healing-biology-overview]] — **하위 오버뷰** (모체 축 1–2): ST1A~ST3C 소켓 분류(ARP 이득 최대 ST1B·ST2), CBCT 골 오목 지표(BCD ≥1.03 mm), 번들골 소실, 콜라겐 플러그는 혈병 안정화(−4.6% vs −58.1%)
 - [[overviews/socket-preservation-graft-material-dimensional-outcomes-overview]] — **하위 오버뷰** (모체 축 3): 플러그는 높이만, 입자 이식재는 높이·폭, 어떤 술식도 수평 손실을 완전히 막지 못함, 잔존 체적 손실 약 3–18%, 입자 크기·재료는 대체로 동등
