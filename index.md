@@ -4020,6 +4020,9 @@ tags: []
 - [[overviews/zirconia-material-clinical-overview]] — 치과용 지르코니아 세대분류(3Y→5Y TZP)·LTD·CAD/CAM 결함·생존율·파절수리 종합 (9편 신규)
 - [[overviews/gbr-barrier-membrane-overview]] — GBR 차폐막 분류·가교화 전략·PASS 원칙·차세대 programmable membrane 종합 (7편 신규)
 - [[overviews/socket-preservation-arp-overview]] — 발치와 보존술(ARP) 소켓 분류·bundle bone 기전·이식재 선택·PRF·임플란트 충분성 종합 (8편 신규)
+- [[overviews/socket-preservation-classification-healing-biology-overview]] — **하위 오버뷰** (모체 축 1–2): ST1A~ST3C 소켓 분류(ARP 이득 최대 ST1B·ST2), CBCT 골 오목 지표(BCD ≥1.03 mm), 번들골 소실, 콜라겐 플러그는 혈병 안정화(−4.6% vs −58.1%)
+- [[overviews/socket-preservation-graft-material-dimensional-outcomes-overview]] — **하위 오버뷰** (모체 축 3): 플러그는 높이만, 입자 이식재는 높이·폭, 어떤 술식도 수평 손실을 완전히 막지 못함, 잔존 체적 손실 약 3–18%, 입자 크기·재료는 대체로 동등
+- [[overviews/socket-preservation-prf-biologics-implant-sufficiency-overview]] — **하위 오버뷰** (모체 축 4–6): PRF는 연조직 치유 보조, rhBMP-2만 치수 보존 입증, ARP 평균 폭 증가 1.13 mm, 식립 불가능성 0.8% vs 4.7%, 대구치 고급 증대 20.8% vs 47.7%
 - [[overviews/arp-cbct-hu-bone-quality-readiness-overview]] — **Overview** (4편 종합, 2026-09-05): ARP 후 CBCT 하운스필드 단위(HU) 판독 기준 — 이종골(Xenograft) ARP는 HU 신뢰 불가(Abdulkarim 2021); FDBA/PRF는 중등도 신뢰 가능(Ivanova 2020, r≈0.40↔ISQ, r=0.776↔신생골%); 미슈 분류(Misch D1–D4)는 비이식골 기준; BCD/BCA 형태지표가 더 이식재-독립적
 - [[overviews/dbbm-bone-substitute-overview]] — DBBM·골대체재 흡수특성·BCP vs DBBM·PRF 보조·BMP2/BioCaP 종합 (9편 신규)
 - [[overviews/c-shaped-canal-anatomy-prevalence-overview]] — **NEW Overview**: C형 근관 유병률·지역·성별 매트릭스 종합 (12편). 하악 2대구치 17.3% 최다(Yousefi 101-study SR+MA), 상악 1대구치 0.8% 최저; 여성·아시아 우세, Fan C2 dominant; song-2008 박층 협측벽 천공 위험·isthmus 소독 임상 함의 (2026)
