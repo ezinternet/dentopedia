@@ -1,0 +1,49 @@
+{
+  "overview": "socket-preservation-classification-healing-biology-overview",
+  "date": "2026-10-09",
+  "title": "발치와 보존술 분류·치유 생물학 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/socket-preservation-classification-healing-biology-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "Steigmann 2022 ST 분류에서 ARP의 이득이 가장 큰 소켓 유형은?",
+      "opts": [
+        "ST1A와 ST3C",
+        "ST1B와 ST2",
+        "ST3A와 ST3B만",
+        "모든 유형에서 동일"
+      ],
+      "ans": 1,
+      "rat": "Steigmann 2022 ST 분류에서 ARP의 이득이 가장 큰 곳은 ST1B(협측골 1 mm 미만의 온전한 소켓)와 ST2(열창)다. ST3B·ST3C는 전층 판막이 필요한 GBR 영역이다.",
+      "cite": "overviews/socket-preservation-classification-healing-biology-overview"
+    },
+    {
+      "id": "q2",
+      "q": "Covani 2022 토끼 micro-CT가 보인 콜라겐 플러그의 보호 기전은?",
+      "opts": [
+        "장기간 공간을 유지하여 보호한다",
+        "플러그는 약 15일에 흡수되지만 초기 혈병 안정화와 혈관 지지로 90일 보호가 유지된다(−4.6% vs −58.1%)",
+        "플러그 자체가 골로 치환된다",
+        "보호 효과가 없다"
+      ],
+      "ans": 1,
+      "rat": "Covani 2022에서 콜라겐 플러그는 약 15일에 흡수되었지만 90일 골 체적 변화는 −4.6%로 빈 발치와 −58.1%보다 훨씬 작았다. 기전은 공간 유지가 아니라 초기 혈병 안정화와 혈관 지지다.",
+      "cite": "overviews/socket-preservation-classification-healing-biology-overview"
+    },
+    {
+      "id": "q3",
+      "q": "Gan 2023에서 이식재 흡수율을 낮춘 CBCT 골 오목 지표는?",
+      "opts": [
+        "골 오목 깊이 ≥1.03 mm, 오목 각도 <155.30°",
+        "골 오목 깊이 <1 mm, 오목 각도 >180°",
+        "환자 연령과 임플란트 브랜드",
+        "협측골 두께만"
+      ],
+      "ans": 0,
+      "rat": "Gan 2023(n=28)에서 골 오목 깊이(BCD) ≥1.03 mm와 오목 각도(BCA) <155.30°일 때 이식재 흡수율이 낮았다(r −0.872, 0.686). 환자 특성·임플란트·재료가 아니라 기하가 결정했다.",
+      "cite": "overviews/socket-preservation-classification-healing-biology-overview"
+    }
+  ]
+}
