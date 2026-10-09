@@ -206,6 +206,7 @@ Clinical error patterns to avoid: placing UHTZ in posterior high-load sites; "zi
 
 - [[overviews/dental-materials-decision-ladder]] — 부모 페이지 (본 sub-overview 의 parent)
 - [[overviews/zirconia-material-clinical-overview]] — 자매 오버뷰: 지르코니아 **재료과학·세대분류·생존율·LTD·파절수리** (본 페이지=등급 선택, 저 페이지=재료 전반)
+- [[overviews/zirconia-block-overview]] — 자매 오버뷰: **블록(CAD/CAM blank) 제조·결함·소결·네스팅** (본 페이지=어떤 grade, 저 페이지=그 grade가 어떤 블록으로 만들어지고 왜 파절하는가)
 - [[overviews/zirconia-implant-clinical-outcomes]] — 자매 오버뷰: **지르코니아 임플란트** 임상 성적 (보철 재료가 아닌 fixture)
 - [[interactives/2026-05-25_zirconia-inlay-bonding]] — chairside 분기형 의사결정 트리
 

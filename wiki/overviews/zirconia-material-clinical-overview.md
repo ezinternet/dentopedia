@@ -364,6 +364,7 @@ When veneered zirconia chips or fractures, intraoral repair is the first-line op
 - [[dental-materials/ceramic/alqarawi-2022-intraoral-repair-fractured-ceramics-review]] — intraoral ceramic repair protocol by substrate; two-substrate protocol for veneered zirconia; bond strength as critical determinant
 - [[overviews/zirconia-implant-clinical-outcomes]] — complementary overview: zirconia implant (not prosthetic material) survival, marginal bone loss, and patient-reported outcomes
 - [[overviews/zirconia-types-clinical-selection]] — sibling overview: 3Y/4Y/5Y/UHTZ **grade-selection** decision axes (this page = material science overall; that page = which grade for which indication)
+- [[overviews/zirconia-block-overview]] — sibling overview: the **CAD/CAM blank** manufacturing unit behind every milled restoration — fabrication workflow, yttria chemistry, composition-gradient multilayer, blank/milling defects, sintering, and nesting (this page = material science + clinical survival; that page = how the block is made and why it fractures)
 
 ### RBFPD·IRFPD cluster (2026-09)
 
