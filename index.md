@@ -2892,6 +2892,8 @@ tags: []
 - [[occlusion/jimenez-silva-2017-centric-relation-intercuspal-position-discrepancy]] — Jiménez-Silva 2017 · sr(20편 관찰연구, NOS 평균 3.36 low) · CR–ICP 불일치(중심 활주)는 다수 연구서 근육·관절장애와 연관되나 이질성·낮은 질로 TMD 인과 확정 불가 (DOI 10.1080/00016357.2017.1340667)
 - [[occlusion/qadeer-2023-occlusal-contacts-maximum-intercuspation-dentate]] — Qadeer & Türp 2023 · sr(systematised, 18편/40년) · 유치악 성인 MICP 교합접촉 수 11–70로 광범위; 검출지시재(교합지·shimstock·디지털)·집단·기법에 좌우 → 단일 "정상치" 없음 (DOI 10.1111/joor.13451)
 - [[overviews/cr-co-micp-reference-position-debate]] — **NEW Overview (2026-06-26, 9편)**: CR/CO vs MIP/ICP 기준위 논쟁 종합 — CO≠MIP가 정상·정상활주<2mm; 전악수복=재현가능 CR/CO, 안정·무증상 소량활주=기존 MIP 수용, 불안정 과두=근육유도 ICP+과두모니터링; 4-노드 결정 트리 + interactive (agenda/2026-06-26_cr-co-micp-reference-position-decision-tree.md)
+- [[overviews/cr-co-micp-positions-orthodontic-axis-overview]] — **하위 오버뷰** (모체 Thesis 4–10): 신경근육 위치는 MIP·CR과 독립된 세 번째 위치이나 분산이 커서 보철 기록 비권고(Utz 2026, n=81, 최대 7.89 mm), 추적된 기능 위치는 신뢰 가능(Kwak 2025), Yu 2024 결정 트리(초록), 교정 후 CR 교합 조정 RCT는 음성(Jahanbin 2026)
+- [[overviews/cr-co-micp-measurement-chain-verification-overview]] — **하위 오버뷰** (모체 Thesis 11–15 + 기록·검증 표): 2 mm 기준은 손 조작 링크만 통과, 교합지 참양성 81%·거짓양성 15%(Rovira-Lastra 2026), 교합 조정은 효과 없음(Singh 2024 Cochrane), CR–MIP 편차는 진단 정보
 
 - [[occlusion/fukushima-2016-controversy-with-respect-occlusion]] — Fukushima 2016 · narrative-review · 변형·불안정 과두 환자에선 중심위(CR) 신뢰 불가; 조기접촉 없이 습관성 폐구운동(HCM)이 종료되는 안정적 교두감합위(ICP)를 근육 유도 하악위로 확보(증례 25년 추적) (DOI 10.1016/j.jdsr.2016.02.001)
 - [[occlusion/jahanbin-2026-occlusal-adjustment-post-orthodontic-tscan-rct]] — Jahanbin 2026 · rct · 디본딩 후 교합조정해도 T-Scan 교합접촉 강도·개수 6개월까지 유의차 없음(n=30)
