@@ -1,0 +1,49 @@
+{
+  "overview": "tmj-dislocation-acute-reduction-overview",
+  "date": "2026-10-09",
+  "title": "TMJ 탈구 급성 정복 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/tmj-dislocation-acute-reduction-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "독일 S3 지침이 보고한 구강외 정복 술기의 편측과 양측 성공률은?",
+      "opts": [
+        "편측 54.5%, 양측 96.7%",
+        "편측 96.7%, 양측 54.5%",
+        "둘 다 약 90%",
+        "둘 다 약 50%"
+      ],
+      "ans": 1,
+      "rat": "독일 S3 지침은 구강외 술기가 편측에서 96.7%, 양측에서 54.5%라고 보고한다. 따라서 구강외 술기는 약한 술기가 아니라 편측에 특이적인 술기이며, 다수가 양측인 코호트에서 풀링 성공률이 낮게 나온다.",
+      "cite": "overviews/tmj-dislocation-acute-reduction-overview"
+    },
+    {
+      "id": "q2",
+      "q": "손목 피벗 역설이란?",
+      "opts": [
+        "손목 피벗이 가장 성공률이 낮아 권고되지 않는다",
+        "무작위 3군 비교에서 가장 높은 성공률(97%)인데 유럽 합의는 위원들이 경험이 없어 Hippocratic을 권고해, 증거 문제가 아니라 훈련 문제임을 보여 준다",
+        "손목 피벗이 합병증이 많다",
+        "합의가 손목 피벗을 1차 권고했다"
+      ],
+      "ans": 1,
+      "rat": "Ardehali 2016(n=90)에서 손목 피벗은 97%로 가장 높았지만, 2021 유럽 합의는 ESTMJS 위원이 대안 술기 경험이 없고 예비 투표에서 20명 중 2명만 지지해 Hippocratic을 권고했다.",
+      "cite": "overviews/tmj-dislocation-acute-reduction-overview"
+    },
+    {
+      "id": "q3",
+      "q": "한 번 아팠던 Hippocratic 시도가 실패한 뒤 권장되는 대응은?",
+      "opts": [
+        "같은 술기를 더 세게 반복한다",
+        "패러다임을 바꾼다: 환자 유도 정복, 약물·진정, 편측이면 구강외 술기",
+        "시도를 중단하고 즉시 수술한다",
+        "아무것도 하지 않는다"
+      ],
+      "ans": 1,
+      "rat": "Stolbizer가 설명한 기전은 아팠던 시도 뒤 환자의 방어적 긴장이 다음 시도를 실패하기 쉽게 만든다는 것이다. 같은 술기를 반복하는 것은 이 기전에 반하며, 독일 지침은 3–4주 후에는 도수 정복이 대체로 실패해 수술 정복을 고려하라고 한다.",
+      "cite": "overviews/tmj-dislocation-acute-reduction-overview"
+    }
+  ]
+}
