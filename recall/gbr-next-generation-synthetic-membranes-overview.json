@@ -1,0 +1,49 @@
+{
+  "overview": "gbr-next-generation-synthetic-membranes-overview",
+  "date": "2026-10-09",
+  "title": "GBR 차세대·합성 흡수성 막 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/gbr-next-generation-synthetic-membranes-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "Liu 2026이 제시한 프로그래머블 인터페이스 막의 핵심 면역 목표는?",
+      "opts": [
+        "대식세포를 M2에서 M1으로 바꾼다",
+        "대식세포를 M1에서 M2로 극성 전환해 염증을 줄이고 재생을 촉진한다",
+        "면역 반응을 완전히 차단한다",
+        "림프구 증식을 높인다"
+      ],
+      "ans": 1,
+      "rat": "Liu 2026은 GBR 합병증 약 26%와 발치 후 12개월 폭 손실 최대 50%를 동기로, 대식세포 M1→M2 극성 전환을 프로그래머블 인터페이스의 중심 목표로 제시했다.",
+      "cite": "overviews/gbr-next-generation-synthetic-membranes-overview"
+    },
+    {
+      "id": "q2",
+      "q": "Son 2026 3D 예비성형 PLGA 막 임상 연구의 핵심 결과와 한계는?",
+      "opts": [
+        "노출률이 Ti 메시보다 높았다",
+        "경조직 획득률 87.2%와 노출·감염·열개 0건이었으나 단일군·5개월·조직학 없음·콜라겐 막 병용이다",
+        "무작위 대조 시험으로 Ti 메시와 비교했다",
+        "10년 추적을 보고했다"
+      ],
+      "ans": 1,
+      "rat": "Son 2026(20명/21부위)은 수평 증대 2.99±1.15 mm, 경조직 획득률 87.2%(Ti 메시 기준 80% 초과, p<0.001), 노출·감염·열개 0건을 보고했다. 단일군이고 5개월이며 조직학이 없고 콜라겐 막을 병용했다.",
+      "cite": "overviews/gbr-next-generation-synthetic-membranes-overview"
+    },
+    {
+      "id": "q3",
+      "q": "Seiler 2026 SR이 합성 흡수성 스캐폴드 범주 전체에 대해 보고한 가장 큰 공백은?",
+      "opts": [
+        "임플란트 생존율이 낮았다",
+        "사람 연구가 7편뿐이고 분해 동역학을 보고한 연구가 0/7이라 흡수 속도와 골 치유 시기의 불일치가 미연구로 남았다",
+        "이식재 종류가 너무 많았다",
+        "환자 만족도 자료가 없었다"
+      ],
+      "ans": 1,
+      "rat": "Seiler 2026은 3,704건 중 사람 연구 7편(39명, 45부위, RCT 1편)만 찾았고 메타분석이 불가능했다. 분해 동역학을 보고한 연구가 0/7이어서 폴리머 흡수와 골 치유 시기의 불일치가 가장 큰 공백이다.",
+      "cite": "overviews/gbr-next-generation-synthetic-membranes-overview"
+    }
+  ]
+}
