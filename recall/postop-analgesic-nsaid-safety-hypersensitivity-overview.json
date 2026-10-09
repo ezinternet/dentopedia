@@ -1,0 +1,49 @@
+{
+  "overview": "postop-analgesic-nsaid-safety-hypersensitivity-overview",
+  "date": "2026-10-09",
+  "title": "술후 진통 NSAID 안전성·피린계 과민반응 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/postop-analgesic-nsaid-safety-hypersensitivity-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "Magesty 2026 네트워크 MA가 NSAID 단회 투여 이상반응의 안전성 순위에서 보인 패턴과 해석은?",
+      "opts": [
+        "NSAID 단독이 가장 안전하고 위약이 가장 위험",
+        "NSAID 단독이 가장 위험(SUCRA 86.5%)했지만 위약이 2위(81.7%)여서 노세보 효과로 해석되며, 이 수치로 NSAID를 1차에서 내리지 않는다",
+        "위약이 가장 안전",
+        "이상반응은 측정되지 않았다"
+      ],
+      "ans": 1,
+      "rat": "Magesty 2026(RCT 28편, n=5,306)에서 NSAID 단독이 가장 위험한 순위였지만 위약이 2위였다. 불활성 위약이 약물 이상반응을 낼 수 없으므로 노세보 효과로 해석되며, 효능 우위(NNT 1.5–3)가 이를 압도한다.",
+      "cite": "overviews/postop-analgesic-nsaid-safety-hypersensitivity-overview"
+    },
+    {
+      "id": "q2",
+      "q": "임플란트 식립 후 진통에서 Chatzopoulos 2025 코호트가 보고한 연관과 실무 제한은?",
+      "opts": [
+        "ibuprofen이 임플란트 실패를 줄였다",
+        "ibuprofen(OR 2.29)과 naproxen(OR 2.65)이 조기 임플란트 실패와 연관되었고 인과는 미확정이며, 식립 후는 APAP 단독 또는 NSAID ≤48시간으로 제한한다",
+        "NSAID는 임플란트에 영향이 없다",
+        "celecoxib이 가장 안전하다"
+      ],
+      "ans": 1,
+      "rat": "Chatzopoulos 2025(12,943명, 49,997 임플란트)에서 ibuprofen 임플란트 수준 OR 2.29(1.48–3.55), naproxen 2.65(1.22–5.75)였다. NSAID군이 더 고령·당뇨·골다공증이라 인과는 미확정이며, 선택적 COX-2는 회피한다.",
+      "cite": "overviews/postop-analgesic-nsaid-safety-hypersensitivity-overview"
+    },
+    {
+      "id": "q3",
+      "q": "Breidung 2025 SJS/TEN 후향 연구(독일 단일기관 17년, 68건)에서 단일 최다 원인약물과 사망률은?",
+      "opts": [
+        "알로푸리놀, 사망률 5%",
+        "메타미졸(8/68건), 전체 사망률 51%",
+        "ibuprofen, 사망률 10%",
+        "acetaminophen, 사망률 1%"
+      ],
+      "ans": 1,
+      "rat": "Breidung 2025에서 메타미졸이 단일 최다 원인약물(8/68)이었고 알로푸리놀(7건)보다 많았으며 전체 사망률은 51%였다. 독일의 처방 관행을 반영한 지역 편중이 있어 국가별 처방 자료로 판단해야 한다.",
+      "cite": "overviews/postop-analgesic-nsaid-safety-hypersensitivity-overview"
+    }
+  ]
+}
