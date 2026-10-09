@@ -1,0 +1,49 @@
+{
+  "overview": "postop-analgesic-first-line-guideline-opioid-route-overview",
+  "date": "2026-10-09",
+  "title": "술후 진통 1차 처방·ADA 2024·오피오이드 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/postop-analgesic-first-line-guideline-opioid-route-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "발치 후 통증 네트워크 MA(Miroshnychenko 2023, RCT 82편)에서 가장 효과적이었던 요법과 오피오이드의 위치는?",
+      "opts": [
+        "oxycodone 5 mg가 가장 효과적",
+        "ibuprofen 200–400 mg + acetaminophen 500–1,000 mg 병용이 가장 효과적이고, oxycodone·codeine·tramadol 병용은 위약과 같았다",
+        "acetaminophen 단독이 가장 효과적",
+        "모든 약물이 위약과 같았다"
+      ],
+      "ans": 1,
+      "rat": "Miroshnychenko 2023 네트워크 MA(RCT 82편, n=9,095)에서 ibuprofen + acetaminophen 병용이 가장 효과적이었고 ibuprofen 400 mg 단독 NNT는 약 2.5였다. oxycodone 5 mg, codeine 60 mg, tramadol 37.5 mg + APAP는 위약과 같았다.",
+      "cite": "overviews/postop-analgesic-first-line-guideline-opioid-route-overview"
+    },
+    {
+      "id": "q2",
+      "q": "Gaballah 2025 RCT(n=56)에서 교대 투약과 동시 병용의 구제 약물 필요율은?",
+      "opts": [
+        "교대 53%, 동시 15%",
+        "교대 15%, 동시 53%(p=0.002)",
+        "두 군 모두 30%",
+        "교대 투약은 측정되지 않았다"
+      ],
+      "ans": 1,
+      "rat": "Gaballah 2025에서 ibuprofen 400 mg과 paracetamol 1,000 mg을 4시간마다 교대로 48시간 쓴 군의 구제 약물 필요율은 15%였고, 8시간마다 동시 병용한 군은 53%였다(p=0.002).",
+      "cite": "overviews/postop-analgesic-first-line-guideline-opioid-route-overview"
+    },
+    {
+      "id": "q3",
+      "q": "ADA 2024 지침의 단순 발치 후 오피오이드 권고와 acetaminophen 병용 용량 표준은?",
+      "opts": [
+        "오피오이드를 1선으로 권고, APAP 1,000 mg 병용",
+        "오피오이드에 반대하고, NSAID 단독 또는 NSAID + acetaminophen 500 mg을 1선으로 하며 누적 APAP는 하루 4,000 mg 이하",
+        "오피오이드와 NSAID를 항상 함께 처방",
+        "진통제를 권고하지 않음"
+      ],
+      "ans": 1,
+      "rat": "Carrasco-Labra 2024 ADA CPG는 단순 발치 후 오피오이드에 반대(Conditional, Low)하고 NSAID 단독 또는 NSAID + APAP 500 mg을 1선으로 한다. 누적 APAP는 하루 4,000 mg 이하이며 1,000 mg 전량은 NSAID를 못 쓸 때 APAP 단독에 남긴다.",
+      "cite": "overviews/postop-analgesic-first-line-guideline-opioid-route-overview"
+    }
+  ]
+}
