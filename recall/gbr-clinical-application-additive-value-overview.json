@@ -1,0 +1,49 @@
+{
+  "overview": "gbr-clinical-application-additive-value-overview",
+  "date": "2026-10-09",
+  "title": "GBR 임상 적용·막의 부가 가치 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/gbr-clinical-application-additive-value-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "Darby 2024 개 연구(5×3 mm 협측 열개)에서 막 + DBBM과 DBBM 단독을 비교한 결과는?",
+      "opts": [
+        "막이 신생골과 협측 골 두께를 유의하게 늘렸다",
+        "신생골·협측 골 두께·첫 골-임플란트 접촉에 차이가 없었고, 막의 기능은 이식재 격납에 가깝다",
+        "막이 없는 쪽이 유의하게 좋았다",
+        "측정되지 않았다"
+      ],
+      "ans": 1,
+      "rat": "Darby 2024에서 막 + DBBM은 DBBM 단독 대비 fBIC, 협측 골 두께, 신생골 면적에서 차이가 없었고, 이식재 유지율에만 p=0.052 추세가 있었다. 작은 자가 포함 결손의 결과이므로 큰 결손으로 일반화할 수 없다.",
+      "cite": "overviews/gbr-clinical-application-additive-value-overview"
+    },
+    {
+      "id": "q2",
+      "q": "Esposito 2009 Cochrane SR이 위축된 하악에서 수직 증대와 짧은 임플란트를 비교해 얻은 결론은?",
+      "opts": [
+        "수직 증대가 합병증이 더 적다",
+        "수직 증대는 합병증이 유의하게 많았고(OR 4.97) 실패도 경계 수준으로 많았다(OR 5.74, p=0.06)",
+        "두 방법이 같다",
+        "짧은 임플란트가 금기다"
+      ],
+      "ans": 1,
+      "rat": "Esposito 2009(RCT 13편)에서 수직 증대의 합병증 OR은 4.97(95% CI 1.31–18.8)이었고 실패 OR은 5.74(95% CI 0.94–35.0, p=0.06)였다. 증대를 할지 말지가 막 선택보다 앞선 결정이다.",
+      "cite": "overviews/gbr-clinical-application-additive-value-overview"
+    },
+    {
+      "id": "q3",
+      "q": "Gurbanov 2024 SR이 증대 부위의 ≥10년 임플란트 생존에 대해 보고한 것과 한계는?",
+      "opts": [
+        "연구 30편의 메타분석으로 이식 부위가 우월함을 입증했다",
+        "전 세계에서 기준을 통과한 연구는 3편뿐이고, 메타분석 없이 이식 96–100% vs 비이식 91.6–94%를 병기해 방향성 안심만 준다",
+        "증대 부위가 명확히 나쁜 임플란트 베드임을 입증했다",
+        "연구가 한 편도 없었다"
+      ],
+      "ans": 1,
+      "rat": "Gurbanov 2024는 900건 중 3편만 ≥10년 기준을 통과했다. 메타분석이 없고 모두 비무작위라 이식 부위가 나쁜 베드라는 신호가 없다는 정도의 방향성 안심일 뿐 동등성은 확립되지 않았다.",
+      "cite": "overviews/gbr-clinical-application-additive-value-overview"
+    }
+  ]
+}
