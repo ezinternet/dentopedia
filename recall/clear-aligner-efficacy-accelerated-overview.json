@@ -1,0 +1,49 @@
+{
+  "overview": "clear-aligner-efficacy-accelerated-overview",
+  "date": "2026-10-09",
+  "title": "투명교정 효능·이동 정확도·가속 보조 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/clear-aligner-efficacy-accelerated-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "단순 비발치 부정교합에서 RCT만 모은 SR+MA(Baneshi 2024, 21편, n=970)가 보고한 교합 결과 차이는?",
+      "opts": [
+        "투명교정이 ABO-OGS·PAR에서 유의하게 우수",
+        "통계적으로 유의한 차이 없음; 플라크·치은 지표는 투명교정 우위",
+        "투명교정이 고정장치보다 전 지표에서 열세",
+        "발치 증례에서만 차이가 나타남"
+      ],
+      "ans": 1,
+      "rat": "Baneshi 2024 RCT-only SR+MA(21편, n=970)는 단순 비발치 증례에서 ABO-OGS·Little 지수·PAR 차이가 유의하지 않다고 보고했다. 플라크·치은·출혈 지표와 6개월 삶의 질은 투명교정 우위였다.",
+      "cite": "overviews/clear-aligner-efficacy-accelerated-overview"
+    },
+    {
+      "id": "q2",
+      "q": "회전(rotation) 정확도를 치아 종류별로 보면 가장 예측 가능하고 가장 어려운 치아는?",
+      "opts": [
+        "가장 예측 가능: 견치 / 가장 어려움: 구치",
+        "가장 예측 가능: 구치(74–85%) / 가장 어려움: 견치(36–58%)",
+        "가장 예측 가능: 소구치 / 가장 어려움: 절치",
+        "치아 종류에 따른 차이는 없었다"
+      ],
+      "ans": 1,
+      "rat": "Benedetti 2025 SR(12편)은 회전 정확도 전체 약 65%, 구치 74–85%, 소구치 54–83%, 견치 36–58%(잔여 오차 약 4.5°)를 보고한다. 견치가 가장 어려운 치아다.",
+      "cite": "overviews/clear-aligner-efficacy-accelerated-overview"
+    },
+    {
+      "id": "q3",
+      "q": "Saif 2026 후향 연구(480개 전치)에서 가장 정확도가 낮았던 이동 유형은?",
+      "opts": [
+        "협설 경사(buccolingual tipping)",
+        "회전(rotation)",
+        "압입(intrusion), 상악 절치에서 특히 낮음 (23.1%)",
+        "근원심 경사(mesiodistal tipping)"
+      ],
+      "ans": 2,
+      "rat": "Saif 2026은 전치부 전체 평균 정확도 50.3%를 보고했고, 압입이 23.1%로 가장 낮았다(상악 절치 압입이 최악). 협설 경사는 가장 신뢰할 만했다(하악 설측 75.52%).",
+      "cite": "overviews/clear-aligner-efficacy-accelerated-overview"
+    }
+  ]
+}
