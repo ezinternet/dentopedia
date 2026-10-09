@@ -22,6 +22,7 @@ tags: []
 - [[implants/misch-1999-implant-design-posterior-regions]] — Misch 1999 · review · 구치부 임플란트: 길이보다 표면적 (초록만)
 - [[implants/misch-1998-bone-quality-based-implant-system-stage-1-2]] — Misch 1998 · prospective · 골질 기반 임플란트 시스템 예비 보고, 364개 생존율 98.9% (초록만)
 - [[implants/bidez-1992-force-transfer-implant-dentistry-basic-concepts]] — Bidez 1992 · primer · 임플란트 힘 전달 기초 개념 (초록만)
+- [[implants/survival/misch-1998-implant-quality-scale-health-disease-continuum]] — Misch 1998 · clinical-review · 임플란트 품질 척도(health-to-disease continuum): 통증·동요도 중심 기준으로 제거 지표 정의
 - [[implants/survival/misch-2008-implant-success-survival-failure-icoi-pisa]] — Misch 2008 · consensus · ICOI Pisa: 임플란트 성공·생존·실패 정의와 "Health Scale"(초록만)
 - [[implants/misch-2006-crown-height-space-guidelines-part2]] — Misch 2006 · consensus · ICOI 크라운 높이 공간 지침 2부 (대부분 쟁점 합의 미도달, 초록만)
 - [[implants/misch-2005-crown-height-space-guidelines-part1]] — Misch 2005 · consensus · ICOI 크라운 높이 공간 지침 1부 (초록만)
@@ -2159,6 +2160,7 @@ tags: []
 - [[overviews/non-surgical-periodontal-therapy-overview]] — 비수술 치주치료 종합 (29편, 2026-08-18): SRP 1차 강력 권고(PPD 1–2mm↓, CAL 0.5–1mm↑); 전신항생제 보조 루틴 금지; GBT 환자 편의 우위이나 임상결과 동등(GRADE very low)
 - [[overviews/oral-hygiene-instruction-overview]] — 구강위생교육 종합 (35편, 2026-09-30): 전동칫솔(oscillating-rotating) SUCRA 89.2% 1위(Luo 2026 NMA); 수동 칫솔질 기법 간 우열 없음; 전동칫솔 3개월 이상 치은염 유의 감소
 - [[overviews/screw-access-hole-sealing-protocol-overview]] — **NEW Overview** (Synthesis 2026-09-28, 3편): 나사유지 스크류 접근홀(SAH) 봉쇄 3변수 종합 — 건조 코튼 대신 PTFE 또는 1% CHX 코튼 사용(혐기성균 양성률 코튼 95%→PTFE 50%, Co1%CHX 20%, Singla RCT); 벽 처리는 도재·LDS면 HF+실란, 지르코니아면 에어어브레이전+MDP(Pereira, 위키 기존근거); 콤포지트는 1.5mm 이상 확보(피로하중 1426 vs 대조군 1120N, Packaeser, 시멘트유지 어버트먼트 홀에서 외삽). 통합 프로토콜 자체를 검증한 연구는 없음 — 근거 약~중등도
+- [[overviews/misch-papers-overview]] — **NEW Overview** (Synthesis 2026-10-09, 15편, Misch 1993–2025): 골이식·골질 기반 설계·교합 하중·크라운 높이·생존 정의·신경 관리를 "응력을 어떻게 나눌 것인가" 한 질문으로 묶음 — 정량 근거는 2025 후향 지대주 연구 한 편(짧은 지대주+넓은 출현각 MBL +0.48 mm, OR 4.19), 나머지는 원칙·합의·증례 수준
 
 ## 구강내과 — 구강점막질환 (Oral Medicine: OPMD / OLP / BMS / RAS)
 - [[oral-medicine/trigeminal-neuralgia/khan-2023-trigeminal-neuralgia-therapeutic-approach-sr]] — Khan 2023 · sr · 삼차신경통 약물 사다리, 1차 카르바마제핀·옥스카르바제핀, 2차 라모트리진·바클로펜, 난치성 BoNT-A·MVD (DOI 10.3390/biomedicines11102606)
