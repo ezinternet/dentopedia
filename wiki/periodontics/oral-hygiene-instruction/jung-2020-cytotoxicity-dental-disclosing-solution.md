@@ -7,6 +7,7 @@ doi: 10.1002/cre2.321
 source: jung-2020-cytotoxicity-dental-disclosing-solution.md
 category: [periodontics/oral-hygiene-instruction]
 evidence_level: in-vitro
+source_collection: pubmed-text
 pmid: "32743893"
 pmcid: "PMC7745081"
 source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC7745081/
