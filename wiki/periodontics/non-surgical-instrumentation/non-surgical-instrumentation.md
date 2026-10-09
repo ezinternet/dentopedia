@@ -2,7 +2,7 @@
 title: "치주치료·비외과적기구처치 — non-surgical-instrumentation"
 authors: navigation
 year: 2026
-date: 2026-08-29
+date: 2026-10-10
 doi: N/A
 source: navigation
 category: periodontics/non-surgical-instrumentation
@@ -15,20 +15,20 @@ tags: [navigation, category-index, non-surgical-instrumentation]
 > [!summary] 한국어 핵심요약
 > - **분야**: 치주치료·비외과적기구처치
 > - **범위**: Professional non-surgical periodontal instrumentation — scaling & root planing (SRP), guided biofilm therapy (GBT), air-polishing, hand vs ultrasonic/piezoelectric scaling & instrument biomechanics/ergonomics, subgingival irrigation/reinstrumentation, SRP treatment guidelines
-> - **수록 논문**: 31편
+> - **수록 논문**: 33편
 
 ## Three-line Summary
 
 **Scope**: Professional non-surgical periodontal instrumentation — scaling & root planing (SRP), guided biofilm therapy (GBT), air-polishing, hand vs ultrasonic/piezoelectric scaling & instrument biomechanics/ergonomics, subgingival irrigation/reinstrumentation, SRP treatment guidelines
-**Indexed papers**: 31 papers in `wiki/periodontics/non-surgical-instrumentation/`.
+**Indexed papers**: 33 papers in `wiki/periodontics/non-surgical-instrumentation/`.
 
 ## 세줄요약
 
 **분야**: 치주치료·비외과적기구처치
-**수록 논문**: 31편
+**수록 논문**: 33편
 **하위 카테고리**: 없음
 
-## Papers in this Category (31)
+## Papers in this Category (33)
 
 | Paper |
 |---|
@@ -37,6 +37,7 @@ tags: [navigation, category-index, non-surgical-instrumentation]
 | [[cyris-2024-guided-biofilm-therapy-versus-conventional|Guided biofilm therapy versus conventional protocol—clinical outcomes in non-surgical periodontal therapy]] |
 | [[dang-2024-effect-novel-ergonomic-sheath-dental|Effect of a Novel Ergonomic Sheath on Dental Device-Related Muscle Work, Fatigue and Comfort-A Pilot Clinical Study.]] |
 | [[dasilveira-2026-subgingival-irrigation-chemical-agents-nspt-sr-ma|Efficacy of subgingival irrigation with chemical agents as adjuvants to non-surgical periodontal therapy: a systematic review and meta-analysis]] |
+| [[de-alencar-2019-dental-plaque-disclosing-professional-prophylaxis|Dental Plaque Disclosing as an Auxiliary Method for Professional Dental Prophylaxis in Early Childhood]] |
 | [[deepthi-2020-ozone-therapy-periodontics-meta-analysis|Ozone Therapy in Periodontics: A Meta-analysis]] |
 | [[donertas-2026-gbt-subgingival-debridement-gcf-biomarkers|Analysis of the impact of contemporary subgingival debridement techniques on immunological biomarkers in gingival crevicular fluid]] |
 | [[dvorska-2026-mechanical-instrumentation-hard-tissue-sr|The Effect of Mechanical Instrumentation on Dental Hard Tissue In Vitro: A Systematic Review]] |
@@ -48,6 +49,7 @@ tags: [navigation, category-index, non-surgical-instrumentation]
 | [[khattri-2020-adjunctive-systemic-antimicrobials-non-surgical-treatment|Adjunctive systemic antimicrobials for the non-surgical treatment of periodontitis]] |
 | [[laleman-2022-instrumentation-during-second-stage|Instrumentation during the second stage of periodontal therapy: a European survey.]] |
 | [[lamont-2018-routine-scale-and-polish-periodontal-health|Routine scale and polish for periodontal health in adults]] |
+| [[lei-2025-plaque-disclosing-agent-guided-biofilm-therapy|Plaque disclosing agent as a plaque control guide for oral hygiene in chronic periodontitis based on guided biofilm therapy: A retrospective cohort study]] |
 | [[lin-2023-novel-ergonomic-curette-design-reduces|A Novel Ergonomic Curette Design Reduces Dental Prophylaxis-Induced Muscle Work and Fatigue.]] |
 | [[lodigkeit-2026-periodontal-instrumentation-enamel-cementum-review|The Impact of Periodontal Instrumentation on Enamel and Cementum: A Narrative Review]] |
 | [[matthews-2024-dental-scaling-polishing-adults-rapid-review|Benefits of Dental Scaling and Polishing in Adults: A Rapid Review and Evidence Synthesis]] |
