@@ -1,0 +1,49 @@
+{
+  "overview": "clear-aligner-safety-periodontal-tmj-overview",
+  "date": "2026-10-09",
+  "title": "투명교정 안전성·치주·저작근·TMJ — 리콜",
+  "source_wiki": [
+    "wiki/overviews/clear-aligner-safety-periodontal-tmj-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "CBCT 메타분석(Butsabul 2024)이 보고한 투명교정 외부 치근단 흡수의 특징은?",
+      "opts": [
+        "흡수가 심해 고정장치보다 위험이 크다",
+        "흡수는 미미했고 상악 중절치가 가장 많이 영향을 받았다",
+        "하악 구치에서 가장 심했다",
+        "흡수는 발치 여부와 무관하게 측정되지 않았다"
+      ],
+      "ans": 1,
+      "rat": "Butsabul 2024 CBCT 메타분석(9편)에서 외부 치근단 흡수는 미미했고(절치 치근 길이 MD −0.56 mm), 상악 중절치가 가장 많이 영향을 받았다.",
+      "cite": "overviews/clear-aligner-safety-periodontal-tmj-overview"
+    },
+    {
+      "id": "q2",
+      "q": "Di Spirito 2023 umbrella review가 치주 지표에서 내린 결론은?",
+      "opts": [
+        "장기적으로도 투명교정이 명확히 우수하다",
+        "단기 우위는 통계적으로 유의하지만 대부분 1 mm 또는 1 지수점 미만이며, 장기 차이는 비유의하여 \"비슷하다\"",
+        "고정장치가 모든 시점에서 우수하다",
+        "치주 지표는 비교되지 않았다"
+      ],
+      "ans": 1,
+      "rat": "Di Spirito 2023 umbrella review(SR 4편, 2,042명)는 단기 우위를 보고했지만 크기가 1 mm 또는 1 지수점 미만이었고, 장기 차이는 비유의했다. 저자 결론은 \"비슷하다\"다.",
+      "cite": "overviews/clear-aligner-safety-periodontal-tmj-overview"
+    },
+    {
+      "id": "q3",
+      "q": "Arslan-Carpar 2026 교차 RCT(n=14)에서 부착물 주변 칫솔질에 관한 결과는?",
+      "opts": [
+        "전동 칫솔이 수동 칫솔보다 유의하게 우수했다",
+        "전동과 수동 칫솔의 플라크 감소가 동등했고, 부착물의 원심·치은 면이 가장 닦기 어려웠다",
+        "칫솔 종류가 중요하지만 결과가 측정되지 않았다",
+        "부착물 주변은 칫솔질로 닦이지 않았다"
+      ],
+      "ans": 1,
+      "rat": "Arslan-Carpar 2026에서 전동과 수동 칫솔의 플라크 감소는 통계적으로 동등했다. 칫솔 종류와 무관하게 부착물의 원심·치은 면이 가장 닦기 어려운 부위였다.",
+      "cite": "overviews/clear-aligner-safety-periodontal-tmj-overview"
+    }
+  ]
+}
