@@ -66,307 +66,48 @@ Peri-implantitis (임플란트주위염) is a plaque-associated pathological con
 
 ---
 
+## Sub-overviews
+
+The sections below are summarized here and treated in full in two sub-overviews.
+
+- [[overviews/peri-implantitis-etiology-prevalence-risk-factors-overview]] — Etiology & Immunopathogenesis, Prevalence, Prosthetic Design, Surgical-Positional & Anatomic Risk Factors
+- [[overviews/peri-implantitis-treatment-modalities-overview]] — Mucositis prevention, non-surgical adjuncts, surgical decontamination, implantoplasty & protocol selection, reconstructive surgery
+
 ## Etiology & Immunopathogenesis
 
-Three papers, read together, trace a mechanistic arc from the disease's foundational definition down to the cellular and molecular reasons a peri-implantitis lesion fails to resolve on its own.
-
-**Smeets 2014 (narrative review) — the definitional and etiological framework:**
-- Establishes the field's working **dual-entity model**: mucositis (reversible, soft-tissue-confined inflammation, up to 80% prevalence) vs peri-implantitis (progressive, irreversible bone destruction, 28–56% prevalence; 20% of patients / 10% of implants by Mombelli's re-analysis).
-- Histological basis for the peri-implant tissue's vulnerability: **reduced vascularity and parallel (rather than perpendicular) collagen fiber orientation** compared to the natural periodontium — a structurally weaker defense than gingiva around teeth.
-- Microbial etiology is **polymicrobial anaerobic infection** (P. intermedia, P. nigrescens, S. constellatus, A. actinomycetemcomitans, P. gingivalis, T. denticola, T. forsythia), with **Staphylococcus aureus carrying 80% positive / 90% negative predictive value** for peri-implantitis and 71.7% antimicrobial resistance in one 120-patient cohort.
-- Risk hierarchy: **smoking** is the leading modifiable risk factor (+0.16 mm/year bone loss; **4.7× risk when combined with periodontitis history**), followed by periodontitis history itself (6× increased incidence, strongest non-smoking factor), poor oral hygiene, systemic disease, and iatrogenic factors (cement remnants, poor soft-tissue quality).
-- Molecular signal of tissue destruction: **MMP-8 elevated up to 971%** in peri-implant vs healthy tissue, alongside increased VEGF, nitric oxide, lymphocytes, leukocytes, and Ki-67 — establishing that the lesion is not merely infected tissue but an actively destructive inflammatory process. This 2014 framework is the historical anchor beneath the newer cellular/molecular papers below. [narrative-review]
-
-**Galarraga-Vinueza 2020 (cross-sectional immunohistochemistry, 20 patients) — innate-immune (macrophage) dysregulation:**
-- Directly interrogates the destructive-inflammation process Smeets describes at the cellular level: granulation tissue curetted from human peri-implantitis intrabony defects shows macrophages occupying **14.36% of the inflammatory connective tissue** — higher than earlier reports (5–11%), attributed to greater lesion severity and to sampling intrabony (rather than supracrestal) tissue.
-- At **advanced** lesions (MBL >50% of implant length), the pro-inflammatory **M1 (CD80) phenotype significantly exceeds the reparative M2 (CD206) phenotype** (mean M1/M2 ratio 1.56, p=0.01), while slight/moderate lesions show no M1/M2 difference.
-- Both CD68 (pan-macrophage) and M1 expression **correlate with probing depth** (CD68 R=0.77; M1 R=0.57) — linking the M1-skewed macrophage response quantitatively to clinical disease severity.
-- Interpretation: an unresolved, M1-dominant ("destructive") macrophage program accompanies deeper, more advanced lesions; shifting the balance toward M2 may be a prerequisite for repair — a plausible innate-immune reason why mechanical decontamination alone (Baima 2022, below) often fails to fully resolve established disease. [cross-sectional, n=20, proof-of-principle]
-
-**Cafferata 2025 (retrospective histological/molecular, PI n=23 / PI-explant n=23 / healthy n=20) — adaptive-immune (Treg) failure:**
-- Provides the adaptive-immunity counterpart to Galarraga-Vinueza's innate-immunity findings, using tissue from the **same research group and same lesion type**.
-- Finds a **dissociated, functionally impaired Treg signature**: the Treg master transcription factor **FOXP3 is up-regulated 3.8-fold** and the immunosuppressive cytokine **IL-35 is up-regulated 2.3-fold** in disease, yet **neuropilin-1 (NRP-1)** — which stabilizes Treg suppressive function — and **TGF-β1** (crevicular fluid) are both **down-regulated** (p<0.001 / p=0.026 / p<0.001 respectively).
-- In plain terms: FOXP3⁺ regulatory T cells accumulate in the lesion, but the machinery that would make them actually suppressive is lost — a compensatory rather than an effective regulatory response, plausibly destabilized by the IL-6-rich pro-inflammatory microenvironment that the M1-skewed macrophages (above) help sustain.
-- Molecular severity gradient: NRP-1 and TGF-β1 **fall** as probing depth and vertical defect depth **rise**, while FOXP3 and IL-35 **climb** with probing depth and bleeding on probing — mirroring the CD68/M1-vs-PD correlation seen in Galarraga-Vinueza and reinforcing that both innate and adaptive arms track clinical severity in parallel.
-- Clinical implication: this **host-side immune-failure explanation** is a candidate reason mechanical/antimicrobial therapy alone (Baima 2022) frequently fails to fully resolve peri-implantitis, and nominates NRP-1/IL-35/TGF-β1 restoration as a future adjunctive immunomodulatory target alongside decontamination. [retrospective, n=23/23/20]
-
-**Kotsakis 2025 (JDR Critical Review) — the biomaterial arm: titanium as an abiotic exposome:**
-- Adds the third, non-host axis the immune papers above imply but do not name. Reframes pathogenesis from the plaque-only ("periodontitis of the implant") model to a **host–microbiome–biomaterial (H-M-B) triangle**, arguing the implant material is itself co-etiologic — the biological reason peri-implantitis diverges from periodontitis.
-- **Implant-derived titanium particles (i-TiPs)** are detected in **75–100% of peri-implantitis** tissue/plaque samples and are rare in peri-implant health. Particles range from submicron to ~10 µm — within the size window for cellular internalization.
-- Three release mechanisms: **biocorrosion** (biological-fluid breakdown), **tribocorrosion** (corrosion + mechanical wear at the implant–abutment microgap), and **iatrogenic corrosion** (clinician-caused, e.g., abrasive titanium-brush cleaning).
-- Mechanistically, internalized i-TiPs trigger endosomal-lysosomal activation, ROS/oxidative stress, and **inflammasome, TLR, and C3-complement signaling independent of bacterial LPS** — a **second, abiotic inflammatory driver** that periodontitis around teeth lacks, and a direct explanation for why antimicrobial-only therapy achieves **<50% disease resolution** (vs high success around single-rooted teeth).
-- Titanium concentration **inversely correlates with peri-implant microbiome alpha-diversity**, with dose-dependent enrichment of *Veillonella parvula* (Daubert 2018) — evidence that titanium actively *shapes* the dysbiotic community rather than passively marking inflammation. Meta-transcriptomics (Ganesan 2022) shows 4–200× upregulation of microbial biofilm/heme/membrane genes correlating with host inflammation genes.
-- **Clinical caveat (RCT-validated, Daubert 2023):** abrasive mechanical implant cleaning (titanium brushes) *increased* plaque titanium at 8 weeks post-treatment while non-abrasive nylon-brush cleaning did not — a decontamination method meant to treat the disease can perpetuate it. (Reinforces the surface-safety emphasis in [[overviews/professional-biofilm-management-gbt-air-polishing-overview]].)
-- Future direction: because antimicrobial monotherapy cannot neutralize an abiotic danger signal, **host-modulatory therapy** (e.g., C3-complement inhibitor **AMY-101**) is nominated as an adjunct used *alongside*, not instead of, biofilm control. [narrative/critical review — cross-sectional human i-TiP data + in-vitro corrosion + orthopedic wear-particle precedent + 1 RCT]
-
-**Synthesis**: Smeets' 2014 framework defines *what* peri-implantitis is (irreversible, polymicrobial, smoking/periodontitis-history-driven bone destruction) and *why* the tissue is structurally vulnerable (poor vascularity, parallel collagen). Galarraga-Vinueza (2020) and Cafferata (2025) — from the same later research program — supply one *mechanistic why-it-doesn't-resolve-on-its-own* answer on the host side: an M1-skewed, destructive innate macrophage response (2020) paired with a present-but-non-functional adaptive Treg response (2025), both worsening in lockstep with probing depth and defect depth. Kotsakis (2025) supplies the complementary **biomaterial-side** answer: implant-derived titanium particles act as an abiotic, LPS-independent inflammatory driver (inflammasome/TLR/C3-complement) that antimicrobial therapy cannot address. Read together as a **triangle** — destructive innate immunity + failed adaptive regulation + a persistent titanium danger signal — they give biological grounding for the recurring clinical observations elsewhere in this overview: why no single surgical decontamination protocol reliably resolves established disease (Baima 2022), why antimicrobial-only/adjunctive therapy tops out near 50% resolution (Bai 2024, below), and why Hakkers' reconstructed sites achieved radiographic bone fill without matching clinical inflammatory resolution (the radiographic-clinical paradox, below) — the immune milieu *and the biomaterial*, not just the biofilm or the graft material, may be the limiting factors.
-
----
+Peri-implantitis is an irreversible, polymicrobial, bone-destroying process (Smeets 2014) whose lesions resist resolution for three host and material reasons: an M1-skewed macrophage response (Galarraga-Vinueza 2020), regulatory T cells that accumulate but lose suppressive function (Cafferata 2025), and implant-derived titanium particles that act as an abiotic, LPS-independent inflammatory driver (Kotsakis 2025). Full synthesis: [[overviews/peri-implantitis-etiology-prevalence-risk-factors-overview]].
 
 ## Prevalence
 
-**Reis 2025 (SR+MA, 20 studies — first SR+MA restricted to 2017 World Workshop criteria):**
-- Peri-implant mucositis: **63.0% patient-level** (CI 57.6–68.2%); 59.2% implant-level
-- Peri-implantitis: **25.0% patient-level** (CI 21.1–29.3%); 18.0% implant-level
-- Non-smoker implant-level: mucositis 38.2%, peri-implantitis 5.2% — markedly lower than the overall estimate
-- Continental variation: significant for both diseases (p<0.05)
-- The higher mucositis estimate vs earlier reports (43% from Derks & Tomasi 2015) reflects the 2017 WW criteria's broader mucositis inclusion; the peri-implantitis estimate (25%) is higher than Diaz 2022 (19.53%) and Jepsen/Derks (22%), likely due to strict standardized case definition application
-- Risk of bias: 50% high — prevalence figures remain imprecise but this is the most internally consistent current estimate [확인]
-
-**Diaz 2022 (SR+MA, 57 studies — mixed definitions):**
-- Patient-level: 19.53% (95% CI 12.87–26.19)
-- Implant-level: 12.53% (95% CI 11.67–13.39)
-- Definition dependence: PD threshold increases prevalence (24.69% with PD criterion vs 17.56% without; NS difference — diagnostic criteria, not biology, drive the spread)
-- Function time: not significantly associated with prevalence (p=0.82 patient-level) [확인]
-
-**Jepsen 2015 (European Workshop consensus, citing Derks & Tomasi 2015):**
-- Mucositis (점막염): weighted mean 43% (CI 32–54%)
-- Peri-implantitis: 22% (CI 14–30%)
-- Note: older pooled estimates using mixed definitions; Derks & Tomasi 2015 is fully superseded by Reis 2025 for prevalence estimates (Reis applies the standardized 2017 WW criteria that Derks 2015 itself called for). [확인]
-
-**Sbricoli 2026 (cross-sectional, 70 subjects/227 implants; 35 T2DM vs 35 non-DM) — diabetes as a prevalence modifier:**
-- No statistically significant difference in peri-implant disease (80% vs 77%, p=0.99), mucositis (51% vs 63%, p=0.47), or peri-implantitis (51% vs 43%, p=0.63) between well-controlled T2DM and non-diabetic patients, at either subject or implant level (implant-level peri-implantitis 34% vs 35%, p=0.91)
-- **Contradicts** the conventional framing of diabetes as a major independent peri-implantitis risk factor — but the study was **underpowered** (observed ~50% peri-implantitis prevalence in both arms vs an 8% planning assumption) and a very high history-of-periodontitis rate in both groups (83% diabetic, 94% non-DM) likely confounded/masked any T2DM-specific effect
-- Reframes the clinical message toward **quality of metabolic control** rather than the T2DM diagnosis itself; plaque index, longer loading time, and cement retention (vs screw) were the operative correlates of disease in this cohort [cross-sectional, underpowered — treat as hypothesis-generating, not a refutation of diabetes risk]
-
----
+Under the 2017 World Workshop criteria, patient-level prevalence is 63.0% for mucositis and 25.0% for peri-implantitis (Reis 2025); the spread between meta-analyses reflects diagnostic definitions rather than biology, and well-controlled type 2 diabetes did not change prevalence in one underpowered study. Full synthesis: [[overviews/peri-implantitis-etiology-prevalence-risk-factors-overview]].
 
 ## Primary Prevention: Mucositis Management
 
-The single most important strategic message: **managing peri-implant mucositis IS the primary prevention of peri-implantitis** (Jepsen 2015).
-
-Key principles:
-- Bleeding on probing (BoP) is the primary clinical sign differentiating healthy vs inflamed peri-implant tissue
-- Absence of regular supportive therapy (SPT) increases progression risk
-- Mucositis is reversible; peri-implantitis is not
-
-**Mauriello 2026 (narrative review, 9 RCTs, n=414):**
-- Professional mechanical plaque removal (PMPR) is the gold standard for mucositis management
-- Adjunctive agents (CHX, local antibiotics, NaOCl, probiotics, bioactive agents): within-group improvement but NO consistent statistically significant added benefit over PMPR alone
-- Clinical bottom line: establish PMPR protocol first; adjunctives do not substitute for mechanical removal [확인]
-
-**Brunello 2026 (systematic review, 21 studies — 19 RCTs + 2 NRCTs, n=1068):** reinforces Mauriello with systematic evidence — all non-surgical protocols *including mechanical debridement alone* reduced BoP; mucositis resolution ranged 9%–100% across studies; adjuncts gave only minor 6-month gains; only one-third of studies had low risk of bias and heterogeneity precluded a network meta-analysis. Same conclusion: mechanical debridement is the backbone, adjuncts add little. [근거중간]
-
-> **How to remove the biofilm** (powder/instrument choice, erythritol vs glycine, surface-safety, and the air-polishing emphysema caveat) is detailed in [[overviews/professional-biofilm-management-gbt-air-polishing-overview]]. For *early peri-implantitis*, Eraydın-Tüfek 2026 (5-arm RCT, 80 implants) found glycine powder air abrasion numerically best but with no statistically significant superiority over mechanical instrumentation.
-
----
+Managing peri-implant mucositis is the primary prevention of peri-implantitis; professional mechanical plaque removal is the backbone and adjuncts add no consistent benefit (Mauriello 2026; Brunello 2026). Full synthesis: [[overviews/peri-implantitis-treatment-modalities-overview]].
 
 ## Non-surgical Adjunctive Therapy: Ranking Across Modalities
 
-**Bai 2024 (network meta-analysis, 33 RCTs) — the first head-to-head SUCRA ranking of 7 non-surgical adjuncts + mechanical debridement (MD):**
-
-The seven adjuncts (each combined with MD, vs MD alone): laser, photobiomodulation (PBMT), photodynamic therapy (PDT), systemic antibiotics (SA), probiotics, local antimicrobials (LA), air-powder polishing (APP). The core message matches the mucositis evidence above — **no single adjunct dominates; the best choice depends on which outcome matters and on disease stage (peri-implantitis PI vs mucositis PM)**:
-
-| Disease | Outcome | Top-ranked adjunct (SUCRA) | Significant vs MD alone? |
-|---|---|---|---|
-| PI | PPD reduction | PBMT+MD (75.3%) | PBMT arm underpowered; SA+MD & LA+MD sig. |
-| PI | CAL gain | SA+MD (87.4%) | Yes (SMD 2.20) |
-| PI | MBL | SA+MD (99.9%) | Yes (SMD 3.92) |
-| PM | PPD reduction | Probiotics+MD (100%) | **No** — top-ranked but NS |
-| PM | BoP reduction | SA+MD (88.1%) | Yes |
-| PM | PLI reduction | Probiotics+MD (83.2%) | No pairwise sig. |
-
-- **Two guideline-relevant tensions.** (1) **SA+MD is the strongest performer for hard-tissue/attachment outcomes (CAL, MBL) in PI and for BoP in PM — yet the EFP S3 guideline (Herrera 2023) recommends *against* routine systemic antibiotics** for peri-implant disease (antimicrobial-stewardship/patient risk). Bai's authors explicitly flag this and advise prioritizing other adjuncts, especially for PM and mild PI. (2) **Probiotics+MD ranks #1 by SUCRA for PM soft-tissue outcomes but does not reach statistical significance for PPD** — a top rank on a network graph is not the same as a proven clinical effect.
-- **Convergence with the mucositis evidence:** the "best" PM adjunct being top-ranked-but-non-significant is the same signal Mauriello 2026 and Brunello 2026 report — mechanical debridement is the backbone and adjuncts add little *consistent, significant* benefit. Bai adds the quantitative ranking layer without overturning that bottom line. [sr+ma / network MA, 33 RCTs — 10 low-RoB, low publication bias]
-
----
+No single non-surgical adjunct dominates: systemic antibiotics rank highest for bone outcomes in a network meta-analysis but the EFP S3 guideline recommends against routine use, and the top-ranked mucositis adjunct (probiotics) is not statistically significant (Bai 2024). Full synthesis: [[overviews/peri-implantitis-treatment-modalities-overview]].
 
 ## Surgical Treatment: Surface Decontamination
 
-**Baima 2022 (SR+MA, 16 RCTs, 22 manuscripts):**
-- Compared mechanical, chemical, and physical (laser, etc.) implant surface decontamination during surgical peri-implantitis treatment
-- **No single protocol demonstrated clear superiority** on clinical or radiographic outcomes
-- EFP S3 guideline's "cannot recommend a specific decontamination method" position is quantitatively supported by this analysis [확인]
-
-Adjunctive aPDT (antimicrobial photodynamic therapy):
-- Jervoe-Storm 2024 (Cochrane SR): low certainty evidence; modest short-term benefit trend; does not replace mechanical debridement [확인]
-
----
+No surgical implant-surface decontamination protocol shows clear superiority (Baima 2022), and adjunctive photodynamic therapy has low-certainty, modest short-term benefit. Full synthesis: [[overviews/peri-implantitis-treatment-modalities-overview]].
 
 ## Surgical Treatment: Implantoplasty & Protocol Selection
 
-Three 2025–2026 studies directly address which surgical *technique* to use and whether protocol choice matters — a gap that older decontamination-focused SR+MAs could not fill.
-
-### Implantoplasty vs Titanium Brush — Park 2025 (RCT, n=30, Yonsei)
-
-First head-to-head RCT comparing rotating titanium brush vs implantoplasty for peri-implantitis surgical decontamination (resective setting; osseous recontouring for crater defects; 12-month follow-up).
-
-| Outcome | Titanium Brush | Implantoplasty | p |
-|---|---|---|---|
-| PPD reduction (mm) | −3.6 ± 1.5 | −3.3 ± 1.2 | NS — non-inferior |
-| MBL change 12 mo (mm) | **0.0 ± 0.6** | **+0.7 ± 1.2** | **0.03** |
-| Implant loss | 0 | 2 | — |
-| Decontamination time | 3 min 1 s | 5 min 27 s | **0.006** |
-| Disease resolution (composite) | 40.0% | 26.7% | 0.70 (NS) |
-
-**Key message**: Titanium brush is non-inferior to implantoplasty for PPD reduction while preserving marginal bone (0 vs +0.7 mm) and halving surface decontamination time. Implantoplasty's irreversible thread grinding carries a MBL cost in the resective setting that brushes do not.
-
-Pocket-closure failure predictors: higher baseline PPD (p=0.044) and **adjacent implant with peri-implantitis** (p=0.033 — novel finding; possible cross-contamination or extended surgical time). [rct, n=15/arm, single operator, underpowered for composite primary outcome]
-
-### Full vs Partial Implantoplasty — Monje 2026 (quasi-RCT, n=40 implants, Spain)
-
-First controlled comparison of implantoplasty *extent* in combined (resective + reconstructive) peri-implantitis surgery: FLIP (full-length: supracrestal + intrabony) vs PLIP (partial: supracrestal only; intrabony treated with NiTi brush + H₂O₂ + tetracycline).
-
-| Outcome | PLIP | FLIP | p |
-|---|---|---|---|
-| PPD reduction (mm) | 3.53 ± 2.02 | 3.83 ± 1.45 | 0.42 (NS) |
-| mSBI reduction | −1.73 | −2.19 | **0.003** |
-| MBL gain (mm) | 1.62 ± 1.27 | **2.42 ± 1.20** | **0.009** (adjusted) |
-| Mucosal recession (mm) | +0.71 → 1.33 | +1.73 → 1.84 | **0.006** (FLIP worse) |
-| Disease resolution | 64.6% | 90.4% | — |
-| Dehiscence | 4.8% | 21.1% | — |
-
-**Adjusted disease resolution**: OR=14, p=0.13 (NS) — FLIP trend is strong but the study is underpowered for this endpoint. Smoking independently predicts failure (OR=0.01; p=0.013) regardless of implantoplasty extent.
-
-**Key message**: When combined surgery is chosen, extending implantoplasty into the intrabony compartment (FLIP) yields better MBL gain and mSBI reduction, but at the cost of ~50% more mucosal recession. The esthetic zone trade-off is clinically meaningful. **COI note**: primary author (Monje) owns royalties on the burs used and receives SigmaGraft funding — treat as estimation data pending a powered confirmatory RCT. [quasi-rct, n=40, 1yr, single-center]
-
-### OFD vs Implantoplasty vs Reconstructive vs Combined — Zhou 2026 (retrospective cohort, n=406 implants, Frankfurt)
-
-Largest single-centre retrospective comparing all four surgical protocol categories, with standardised titanium brush decontamination across all groups, four trained surgeons, mean follow-up 30.80 months.
-
-**1-year treatment success (max PD ≤5 mm + BOP ≤1 site + no suppuration):**
-
-| Protocol | n | Success |
-|---|---|---|
-| OFD | 37 | 62.5% |
-| Implantoplasty | 39 | 58.3% |
-| Reconstructive | 241 | 55.4% |
-| Combined | 89 | 48.3% |
-| **Overall** | **406** | **54.7%** |
-
-Group differences: **not significant** (FDR-adjusted). **Post-hoc power: 27%** — cannot interpret as equivalence.
-
-**Multivariable predictors — treatment success:**
-
-| Predictor | OR | p |
-|---|---|---|
-| Pre-operative antibiotics | 3.54 | 0.04 |
-| Pre- + post-operative antibiotics | 4.49 | 0.02 |
-| Surgeon experience | 0.12 | 0.003 |
-
-**Key message**: Protocol choice (OFD vs Implantoplasty vs Reconstructive vs Combined) was not a significant predictor of 1-year success in real-world practice. **Systemic antibiotics and surgeon experience outperformed protocol selection** as predictors — highlighting that execution quality and adjuvant decisions matter more than the protocol label. Implant loss was numerically highest in the Combined group (16.9%), consistent with this being applied to the most complex defects. Long-term success rates decline substantially: ~55% at 1 year → ~27–42% at 5 years across outcome criteria. [retrospective, 27% power, observational confounding]
-
-### Synthesis Across Three Studies
-
-| Question | Answer |
-|---|---|
-| Titanium brush vs implantoplasty (resective)? | Ti brush non-inferior for PPD, superior MBL preservation, faster — favour brush (Park 2025 RCT) |
-| Implantoplasty extent in combined surgery? | FLIP better MBL gain; weigh against recession in esthetic zones; avoid in aesthetically sensitive sites (Monje 2026) |
-| Does protocol selection predict real-world success? | No — systemic antibiotics + surgeon experience dominate; 54.7% success regardless of protocol (Zhou 2026) |
-| Why do all approaches plateau at 44–55% at 1 yr? | Consistent with immunopathological resistance (M1 macrophage bias, Treg dysfunction, titanium abiotic driver) rather than protocol failure alone |
-
----
+A titanium brush is non-inferior to implantoplasty for probing depth and preserves marginal bone; full-length implantoplasty gains more bone at the cost of recession; and in practice systemic antibiotics and surgeon experience predict one-year success better than protocol choice (Park 2025; Monje 2026; Zhou 2026). Full synthesis: [[overviews/peri-implantitis-treatment-modalities-overview]].
 
 ## Reconstructive Surgery: GBR for Intrabony Defects
 
-**Ramanauskaite 2023 (NMA):**
-- GBR reconstructive therapy for contained peri-implantitis intrabony defects shows favorable defect fill and bone level gains vs non-reconstructive
-- Indication: contained (circumferential) intrabony component
-- Quantitative SUCRA rankings: full-text extraction recommended [미검증]
-
-Reconstruction goals: defect fill, re-osseointegration, soft-tissue recession limitation.
-
-**Hakkers 2026 (single-blind RCT, n=52 patients/63 implants, 1 year — defect-morphology subgroup data):**
-
-Single-blind RCT (Groningen, Netherlands) comparing reconstructive surgery (autogenous bone + Bio-Oss xenograft 1:1 + Bio-Gide membrane) vs open-flap debridement (OFD) in 3- and 4-wall peri-implantitis defects that failed prior non-surgical treatment.
-
-Key findings:
-- **MBL (radiographic bone level)**: Reconstruction significantly superior at all timepoints — β = −1.65 mm at 12 months (95% CI −2.54 to −0.77, p<0.001); benefit increases progressively T3→T12
-- **Mid-buccal recession**: Reconstruction significantly less recession — β = −1.68 mm at 12 months (p<0.001); clinically meaningful soft-tissue preservation
-- **PPD, BoP, SoP, disease resolution**: NO significant differences between groups at any timepoint
-- **Disease resolution rate at 12 months**: Test 43.8% vs Control 44.4% — virtually identical
-- **Radiographic-clinical paradox**: Sustained radiographic bone fill without improved clinical inflammatory resolution — challenges use of radiographic endpoints alone as success criteria; xenograft radiopacity may confound MBL readings
-- **Adverse events**: Reconstruction group had significantly more pain, mouth dryness, metal taste, and headache (all p<0.05) — should factor into patient counseling given equivalent disease resolution
-
-**Defect morphology subgroup (exploratory, post hoc):**
-
-| Defect type | Reconstruction advantage | Timing |
-|---|---|---|
-| 3-walled defects | MBL (p=0.03 at T3, p=0.01 at T6); disease resolution at T6: 58.3% vs 16.7% (p=0.045) | Early benefit (T3–T6) |
-| 4-walled defects | MBL at T12 only: test 2.5 vs control 3.0 mm (p=0.04) | Late benefit (T12 only) |
-
-**Clinical implication**: 3-wall defects respond earlier and more robustly to reconstruction than 4-wall defects. The key decision driver is NOT defect morphology alone (3 vs 4 wall) but rather that **radiographic gain does not equate to clinical disease resolution** in either defect type. Reconstruction offers a soft-tissue and radiographic advantage; the patient must also accept a higher adverse event burden for no improvement in composite disease resolution. [rct, n=52, 1yr — methodologically rigorous]
-
-**Su 2026 (narrative review) — mechanistic and material context for GBR:**
-- Confirms the GBR-favors-xenogenic-over-autogenous pattern seen in this section: meta-analytic evidence cited by Su favors **xenogenic bone substitutes over autogenous bone or non-GBR treatment** for inflammation reduction and radiographic bone gain — consistent with Ramanauskaite's favorable GBR-vs-non-reconstructive verdict above.
-- Adds mechanistic nuance often missing from RCT-level reporting: peri-implant biofilm on titanium is compositionally and antibiotic-resistance-wise **distinct from periodontal biofilm**, and **titanium corrosion/ion release** compounds local inflammation and bone loss — relevant background for why Hakkers' reconstructed sites still showed persistent inflammatory signs (BoP/SoP) despite bone fill.
-- **CBCT** is framed as the diagnostic gold standard for 3D defect morphology (superior to periapical radiography for dehiscence/infrabony lesions) — a methodological note relevant to how defect morphology (3-wall vs 4-wall, per Hakkers) should be characterized pre-surgically.
-- Extends the materials landscape beyond collagen membrane + xenograft (the Hakkers protocol): **biodegradable magnesium (Mg) membranes** offer mechanical stability with resorption timed to bone healing, and **customized 3D-printed titanium mesh** improves precision for complex ridge augmentation but carries mesh-exposure risk — candidate next-generation alternatives to the standard collagen-membrane GBR protocol.
-- Echoes Hakkers' adverse-event finding: short-term postoperative pain increase with resorbable GBR membranes, reinforcing the need for patient counseling.
-- Flags **machine learning** risk-prediction models (demographic + clinical + surgical variables) as an emerging direction for personalized peri-implantitis/implant-failure risk stratification. [narrative-review — non-systematic, synthesizes existing meta-analyses/RCTs/case series]
-
----
+Reconstruction improves radiographic bone fill and limits recession but does not improve clinical disease resolution (43.8% vs 44.4%) and carries more postoperative adverse events; 3-wall defects respond earlier than 4-wall defects (Hakkers 2026; Ramanauskaite 2023). Full synthesis: [[overviews/peri-implantitis-treatment-modalities-overview]].
 
 ## Prosthetic Design: Modifiable MBL Levers
 
-**Lin 2025 (AO/AAP SR+MA, 93 studies) — factors that significantly reduce MBL:**
-
-| Prosthetic factor | p | Direction |
-|---|---|---|
-| Nonsplinted vs splinted | 0.04 | nonsplinted lower MBL |
-| Platform-switched vs matched | <0.0001 | switched lower MBL |
-| Conical internal connection | <0.0001 | lower MBL |
-| Abutment height ≥2 mm | <0.0001 | lower MBL |
-| One-abutment-one-time | <0.0001 | lower MBL |
-| Emergence angle <30° | 0.05 | lower peri-implantitis risk |
-| Concave/straight emergence profile | 0.03 | lower peri-implantitis risk |
-
-**Neutral (no significant MBL effect):**
-| Factor | p |
-|---|---|
-| Screw vs cement retention | 0.51 |
-| Crown-to-implant ratio | 0.32 |
-
-[확인] — The platform switching, conical connection, abutment height, and one-abutment-one-time findings carry strong statistical support from a 93-study meta-analysis.
-
----
+Non-splinted, platform-switched, conical-connection restorations with abutment height of 2 mm or more and one-abutment-one-time protocols show lower marginal bone loss, while screw versus cement retention and crown-to-implant ratio make no difference (Lin 2025). Full synthesis: [[overviews/peri-implantitis-etiology-prevalence-risk-factors-overview]].
 
 ## Surgical-Positional, Prosthetic & Anatomic Risk Factors
 
-Beyond the implant-component MBL levers above, several studies isolate **modifiable/assessable surgical, design, and host factors** that feed peri-implantitis risk — they complement (rather than overlap with) the biofilm-management and surgical-treatment evidence by acting at the planning/placement/restorative and soft-tissue level.
-
-**Monje 2025 (AO/AAP systematic review, 34 studies — companion to the Wang 2025 AO/AAP consensus) — surgical 3D positioning outranks implant selection:**
-- Split into 21 surgical-factor and 13 implant-factor studies; qualitative synthesis (heterogeneity precluded meta-analysis). The single most robust surgical risk factor is **implant malposition** (3D position error relative to the bone envelope and adjacent implants/teeth), associated with **peri-implantitis but not mucositis**, with effect sizes spanning **OR 2.6–48.2** across independent cohorts (strongest: Canullo OR=48.2, 95% CI 11.4–204.1).
-- Other confirmed positional risks: **implant-to-implant distance <3 mm** (OR 2.98–8.6), **apico-coronal depth ≥6 mm from adjacent CEJ** (OR 8.5), subcrestal position amplified by periodontitis history (OR 5.33), and immediate-vs-delayed placement in specific contexts (OR 1.9–2.6).
-- **Restorative-margin-to-crestal-bone distance <1.5 mm → OR 2.29** for peri-implantitis — an independent confirmation, at the *same* 1.5 mm cut-point, of Basak 2024's RM-AC finding (OR 3.42 for MBL). Two studies, two designs, one threshold.
-- **Implant macro-/micro-design, surface, and brand show no consistent superiority** for peri-implantitis resistance across comparative RCTs/cohorts (a few outlier signals: anodized/fluoride surface OR ~3.6–3.8 vs SLA; brand OR 3.5–3.7 in Derks 2016 — but not reproduced as a class effect). Clinically this **contradicts single-brand/single-surface marketing claims** and relocates the prevention lever from *which implant* to *where and how it is placed*.
-- Bottom line for planning: correct 3D positioning, adequate inter-implant spacing, avoidance of excessive subcrestal depth, and RM-AC >1.5 mm matter far more than implant selection. [sr, 34 studies, qualitative]
-
-The remaining studies below act at the restorative/soft-tissue level.
-
-**Soulami 2022 (SR, 3 studies, 168–349 implants each) — emergence angle & profile:**
-- Implant-abutment emergence angle (EA) >30° → significantly higher peri-implantitis prevalence vs EA <30° (prevalence 16.7% and 24.8% in two studies); a third study showed smaller MBL when EA ~20°–40°.
-- Convex emergence profile (EP) → higher peri-implantitis prevalence (one study; another only when combined with EA >30°).
-- Effect clearest in **bone-level** implants. Only 3 eligible studies → associations, not proven causation. [근거제한]
-- Clinical: bias toward smaller emergence angles (<30°) and concave/straight profiles to ease hygiene access and limit MBL.
-
-**Basak 2024 (retrospective, 77 patients / 202 platform-switched bone-level implants) — restoration margin-to-bone distance (IDRA):**
-- Restoration-margin-to-alveolar-crest (RM-AC) distance **≤1.5 mm → 3.42× MBL incidence** vs >1.5 mm — clinical validation of the IDRA (Implant Disease Risk Assessment) RM-AC threshold as a genuine, measurable risk factor.
-- Dominant co-drivers: periodontitis **Stage 4 vs Stage 2 → 26.31× MBL**; greater implant **diameter → 6.10×**, greater **length → 5.02×**.
-- Clinical: aim for RM-AC >1.5 mm (adequate supracrestal tissue / abutment height); weigh implant macro-geometry and periodontal history in risk assessment. Supports post-loading radiographic prosthetic risk assessment as a complement to surgical-phase IDRA. [후향]
-
-**da Silva 2025 (SR, 8 studies) — gingival phenotype (indirect risk):**
-- Implant success **>91% at up to 5 years for BOTH thin and thick** phenotypes — phenotype does NOT directly determine survival, and the direct effect of tissue thickness on marginal bone level is inconclusive.
-- The **thin phenotype is a principal risk factor for additional bone loss** and is associated with higher peri-implantitis risk — its effect on survival is **indirect, mediated via peri-implantitis/MBL**.
-- A flapless protocol gave better short-term esthetics.
-- Clinical: preserve/augment a thin phenotype not to "save" the implant per se, but to reduce downstream peri-implantitis/MBL risk. [근거제한]
-
-| Surgical/prosthetic/anatomic factor | Effect on risk | Evidence | Source |
-|---|---|---|---|
-| Implant 3D malposition | strongest surgical factor; OR 2.6–48.2 (peri-implantitis only) | AO/AAP SR, 34 studies | [[implants/peri-implantitis/monje-2025-surgical-implant-factors-peri-implant-diseases]] |
-| Implant-to-implant distance <3 mm | OR 2.98–8.6 | AO/AAP SR | [[implants/peri-implantitis/monje-2025-surgical-implant-factors-peri-implant-diseases]] |
-| Apico-coronal depth ≥6 mm from CEJ | OR 8.5 | AO/AAP SR | [[implants/peri-implantitis/monje-2025-surgical-implant-factors-peri-implant-diseases]] |
-| RM-to-crest <1.5 mm | OR 2.29 (independent of Basak) | AO/AAP SR | [[implants/peri-implantitis/monje-2025-surgical-implant-factors-peri-implant-diseases]] |
-| Implant design/surface/brand | no consistent superiority | AO/AAP SR | [[implants/peri-implantitis/monje-2025-surgical-implant-factors-peri-implant-diseases]] |
-| Emergence angle >30° (bone-level) | higher peri-implantitis/MBL | SR, 3 studies | [[implants/peri-implantitis/soulami-2022-implant-abutment-emergence-angle-peri-implantitis-sr]] |
-| Convex emergence profile | higher peri-implantitis prevalence | SR, 3 studies | [[implants/peri-implantitis/soulami-2022-implant-abutment-emergence-angle-peri-implantitis-sr]] |
-| RM-AC ≤1.5 mm (IDRA) | 3.42× MBL | retrospective, 202 implants | [[implants/peri-implantitis/basak-2024-restoration-margin-alveolar-bone-distance-implant]] |
-| Periodontitis Stage 4 vs 2 | 26.31× MBL | retrospective | [[implants/peri-implantitis/basak-2024-restoration-margin-alveolar-bone-distance-implant]] |
-| Implant diameter (larger) | 6.10× MBL | retrospective | [[implants/peri-implantitis/basak-2024-restoration-margin-alveolar-bone-distance-implant]] |
-| Implant length (greater) | 5.02× MBL | retrospective | [[implants/peri-implantitis/basak-2024-restoration-margin-alveolar-bone-distance-implant]] |
-| Thin gingival phenotype | indirect ↑ bone-loss/peri-implantitis risk (survival >91% regardless) | SR, 8 studies | [[implants/survival/da-silva-2025-gingival-phenotype-implant-survival-sr]] |
-
----
+Surgical 3D malposition is the strongest modifiable risk factor for peri-implantitis (OR 2.6–48.2), together with inter-implant distance under 3 mm, excessive depth, and a restoration margin within 1.5 mm of crestal bone, whereas implant design, surface, and brand show no consistent superiority (Monje 2025). Full synthesis: [[overviews/peri-implantitis-etiology-prevalence-risk-factors-overview]].
 
 ## Decision Framework
 
