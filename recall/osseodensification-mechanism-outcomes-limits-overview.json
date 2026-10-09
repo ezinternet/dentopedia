@@ -1,0 +1,49 @@
+{
+  "overview": "osseodensification-mechanism-outcomes-limits-overview",
+  "date": "2026-10-09",
+  "title": "골밀도화 메커니즘·결과·한계 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/osseodensification-mechanism-outcomes-limits-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "골밀도화(OD)가 일관되게 올리는 지표와 인체에서 불확실한 지표는?",
+      "opts": [
+        "ISQ는 일관되게 오르고 삽입 토크는 불확실하다",
+        "삽입 토크는 일관되게 오르고, ISQ와 변연골 보호는 인체에서 불확실하다",
+        "모든 지표가 일관되게 오른다",
+        "모든 지표가 불확실하다"
+      ],
+      "ans": 1,
+      "rat": "삽입 토크는 사체·동물·벤치·인체 임상·인체 SR+MA(Marzorati 2026 45.75 vs 38.00 N·cm, P<0.001)에서 재현된다. ISQ는 Mohammadi 2025와 Shilpi 2025에서 비유의였고, Kalra 2025에서 CBL 변화도 차이가 없었다.",
+      "cite": "overviews/osseodensification-mechanism-outcomes-limits-overview"
+    },
+    {
+      "id": "q2",
+      "q": "Soldatos 2024 사체 경골 연구가 보인 OD 발열 안전 규칙은?",
+      "opts": [
+        "rpm이 높을수록 안전하다",
+        "버를 23회 이상 재사용하고 800/1200 rpm이면 ΔT가 47°C를 넘을 수 있고, 1000 rpm이 가장 낮았다",
+        "발열은 버 재사용과 무관하다",
+        "관수는 발열을 키운다"
+      ],
+      "ans": 1,
+      "rat": "Soldatos 2024(360 osteotomy)는 CCW 모드에서 3.0/4.0 버를 23회 이상 재사용하고 800/1200 rpm이면 ΔT가 골괴사 임계 47°C를 넘는다고 보고했다. 1000 rpm이 두 모드 모두 가장 낮았다.",
+      "cite": "overviews/osseodensification-mechanism-outcomes-limits-overview"
+    },
+    {
+      "id": "q3",
+      "q": "Coyac 2019 쥐 연구가 과잉 밀도화에 대해 보여 준 것과 한계는?",
+      "opts": [
+        "천장이 없다는 것을 보였다",
+        "고미스핏이 미세골절·골세포 사멸·흡수 우세로 이어졌지만, 초록에 n·토크·미스핏 크기가 없어 천장이 어디인지는 알 수 없다",
+        "천장이 정확히 50 Ncm임을 보였다",
+        "OD 일반이 해롭다는 것을 보였다"
+      ],
+      "ans": 1,
+      "rat": "Coyac 2019는 고미스핏 배정이 미세골절, 골세포 사멸, 흡수 우세 환경, 신생골 부재로 이어짐을 보였다. 초록만 있어 n·토크·크기가 없으므로 천장이 있다는 것만 말하고 위치는 말하지 않는다. 쥐 발치와와 misfit은 버 매개 OD가 아니다.",
+      "cite": "overviews/osseodensification-mechanism-outcomes-limits-overview"
+    }
+  ]
+}
