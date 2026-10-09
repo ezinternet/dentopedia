@@ -1,0 +1,49 @@
+{
+  "overview": "sinus-lift-graft-material-prf-overview",
+  "date": "2026-10-09",
+  "title": "상악동 거상 이식재·PRF·용량 — 리콜",
+  "source_wiki": [
+    "wiki/overviews/sinus-lift-graft-material-prf-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "Almutairi 2025 SR+MA(L-PRF + DBBM, RCT 5편)가 보고한 신생골 차이와 ISQ 결과는?",
+      "opts": [
+        "신생골 +7.07%, 부하 시 ISQ 차이 없음",
+        "신생골 감소, ISQ 크게 증가",
+        "신생골 차이 없음, ISQ 차이 있음",
+        "PRF 효과가 측정되지 않았다"
+      ],
+      "ans": 0,
+      "rat": "Almutairi 2025는 L-PRF + DBBM에서 신생골 +7.07%, 잔존 이식재 −7.93%를 보고했다. 부하 시 ISQ 차이는 없었다(p=0.56).",
+      "cite": "overviews/sinus-lift-graft-material-prf-overview"
+    },
+    {
+      "id": "q2",
+      "q": "Alkandari 2025 SR+MA(BCP vs DBBM, RCT 10편)가 밝히지 못한 것은?",
+      "opts": [
+        "신생골 차이",
+        "잔존 이식재 차이",
+        "임플란트 생존 자료(조직계측만 다룸)",
+        "BCP의 HA:TCP 비율"
+      ],
+      "ans": 2,
+      "rat": "Alkandari 2025는 BCP가 신생골(+3.48%)과 잔존 이식재(−8.41%)에서 우위였다고 보고했지만, 임플란트 생존 자료는 없었다. 조직계측 근거다.",
+      "cite": "overviews/sinus-lift-graft-material-prf-overview"
+    },
+    {
+      "id": "q3",
+      "q": "Paetnukroh 2024 RCT(dpDTM vs DBBM, n=24)의 근심 이식재 높이 결과와 그 해석은?",
+      "opts": [
+        "dpDTM이 명확히 우수했다",
+        "근심 높이 감소 차이 −1.08 vs −0.58 mm(p=0.04)는 0.5 mm 차이이며 검출력이 부족해 가설로만 읽는다",
+        "차이가 없었다",
+        "근심 높이는 측정되지 않았다"
+      ],
+      "ans": 1,
+      "rat": "Paetnukroh 2024에서 근심 높이 감소는 dpDTM −1.08 mm, DBBM −0.58 mm(p=0.04)였다. 차이가 0.5 mm이고 군당 12상동이라, 가설로만 읽고 DBBM 선호의 근거로 쓰지 않는다.",
+      "cite": "overviews/sinus-lift-graft-material-prf-overview"
+    }
+  ]
+}
