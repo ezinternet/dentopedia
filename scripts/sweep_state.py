@@ -11,7 +11,7 @@ PubMed MCP 호출은 Claude(MCP)가 담당하고, 이 스크립트는 상태 파
                      seen·screened·큐에 없는 신규 PMID만 JSON. water-mark 옵션은
                      max(seen) PMID 초과분만 신규로 컷(죽은 edat 필터 대체).
   enqueue          --json FILE   →  후보를 queue.md에 append, seen·last_run 갱신
-  screen-out       --json FILE   →  Haiku가 탈락시킨 후보를 screened_out 버킷에 기록
+  screen-out       --json FILE   →  Sonnet이 탈락시킨 후보를 screened_out 버킷에 기록
   review-screened  [--older-than D] [--topic T]  →  재심 대상 screened_out 출력
   restore-screened --pmids a,b,c →  screened_out 에서 빼내 다음 sweep 때 재부상
   status           토픽별 신규/누적, screened, 큐 총량 요약
@@ -19,7 +19,7 @@ PubMed MCP 호출은 Claude(MCP)가 담당하고, 이 스크립트는 상태 파
 세 가지 PMID 상태(불변식):
   · unseen       → sweep 에서 부상해야 함
   · seen_pmids   → 이미 ingest 결정 (영구 재부상 금지)
-  · screened_out → Haiku 탈락 (별도 버킷·복구 가능; 루틴 재부상 금지, review 로 재심)
+  · screened_out → Sonnet 탈락 (별도 버킷·복구 가능; 루틴 재부상 금지, review 로 재심)
 경계선(borderline) 판정은 어느 버킷에도 넣지 않는다 — 그 sweep 안에서 상위 모델이 직접 판정.
 """
 
@@ -235,7 +235,7 @@ def cmd_enqueue(args):
 
 
 def cmd_screen_out(args):
-    """Haiku 관련성 스크리닝에서 exclude 판정된 후보를 screened_out 버킷에 기록.
+    """Sonnet 관련성 스크리닝에서 exclude 판정된 후보를 screened_out 버킷에 기록.
 
     입력 JSON 항목: {pmid, topic, edat, reason, verdict?, screened_by?}
     이미 seen(=ingest 결정)이거나 이미 screened 된 PMID 는 건너뛴다.
@@ -259,7 +259,7 @@ def cmd_screen_out(args):
             "edat": e.get("edat", "?"),
             "reason": e.get("reason", ""),
             "verdict": e.get("verdict", "exclude"),
-            "screened_by": e.get("screened_by", "haiku"),
+            "screened_by": e.get("screened_by", "sonnet"),
             "screened_on": today(),
         }
         added += 1
@@ -313,7 +313,7 @@ def cmd_review_screened(args):
 def cmd_restore_screened(args):
     """screened_out 에서 PMID 를 빼낸다. seen 에는 없으므로 다음 dedup 때 재부상한다.
 
-    Haiku 오탈락(false negative)을 상위 모델이 재심에서 뒤집을 때 사용.
+    Sonnet 오탈락(false negative)을 상위 모델이 재심에서 뒤집을 때 사용.
     """
     base = Path(args.base)
     state = load_state(base)
