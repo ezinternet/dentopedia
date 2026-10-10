@@ -30,7 +30,7 @@ sweep마다 두 모드 중 하나를 고른다. **잘못 고르면 과설계 또
 | | **루틴 증분 sweep** (기본) | **심층 백필 sweep** |
 |---|---|---|
 | 언제 | edat 최근 2~4주, 토픽당 신규 0~10건 예상 | 넓게 캐스팅(토픽당 수백 hit), 신규 토픽 최초 백필, ptyp 완화 |
-| 관련성 스크리닝 | 상위 모델(이 세션)이 인라인으로 초록 훑음 | **Haiku 토픽 분대**가 병렬 스크리닝, 상위는 통과분만 종합 |
+| 관련성 스크리닝 | 상위 모델(이 세션)이 인라인으로 초록 훑음 | **Sonnet 토픽 분대**가 병렬 스크리닝, 상위는 통과분만 종합 |
 | 병렬화 | 안 함 | 토픽 fan-out (concurrency 캡 필수) |
 | screened_out | 거의 안 씀 | **필수** — 탈락분을 복구가능 버킷에 적립 |
 
@@ -101,22 +101,22 @@ python3 scripts/sweep_state.py status
 ```
 화면에 토픽별 신규 N건, OA/유료 분포, 큐 총량 요약. Claude는 이를 산문 1~2문단으로 정리해 보고(신규 핵심 논문 제목 몇 개 강조).
 
-## 심층 sweep 모드 (Haiku 토픽 분대 + 스크리닝)
+## 심층 sweep 모드 (Sonnet 토픽 분대 + 스크리닝)
 
 토픽당 hit이 수백에 이르면 상위 모델이 초록을 전부 읽는 건 낭비다("비싼 모델은 판단 자리에만"). 이때만 다음 fan-out을 쓴다.
 
 ### 원칙 (어기면 지식 유실 또는 차단)
 
-1. **Haiku는 관련성만, 근거등급은 안 본다.** ptyp는 이미 PubMed 쿼리(`[Publication Type]`)에서 걸러졌다. 분대원의 임무는 오직 "이 논문이 이 토픽에 topical하게 맞는가"뿐.
+1. **Sonnet은 관련성만, 근거등급은 안 본다.** ptyp는 이미 PubMed 쿼리(`[Publication Type]`)에서 걸러졌다. 분대원의 임무는 오직 "이 논문이 이 토픽에 topical하게 맞는가"뿐.
 2. **판정은 3분법 — include / exclude / borderline. 불확실하면 무조건 borderline, 절대 exclude 금지.** 서베일런스에서 false-negative는 "영원히 놓침"이라 일반 검색보다 훨씬 비싸다. borderline 쪽으로 편향시킨다.
 3. **concurrency 캡 ≤ 4.** PubMed MCP는 결국 NCBI eutils(키 없이 3 req/s, 키 있어도 10 req/s)를 때린다. 23개 분대원 동시 발사는 throttle/차단. 한 번에 최대 4개 토픽만 병렬로 돌리고 나머지는 큐잉. eutils API 키가 있으면 캡을 8까지 올려도 된다.
 
 ### 프로토콜
 
-**Step D1 — 토픽 분대 fan-out (상위 모델이 Agent 호출).** 심층 대상 토픽마다 Haiku 서브에이전트 1개. 동시 실행은 ≤4개씩 배치.
+**Step D1 — 토픽 분대 fan-out (상위 모델이 Agent 호출).** 심층 대상 토픽마다 Sonnet 서브에이전트 1개. 동시 실행은 ≤4개씩 배치.
 
 ```
-Agent(subagent_type="general-purpose", model="haiku",
+Agent(subagent_type="general-purpose", model="sonnet",
       description="<topic> 관련성 스크리닝",
       prompt=<아래 임무명세서>)
 ```
@@ -140,7 +140,7 @@ Agent(subagent_type="general-purpose", model="haiku",
 
 ### 복구 루프 (false-negative 되돌리기 — 정기)
 
-Haiku 오탈락은 되돌릴 수 있어야 감시 시스템이다. 월 1회 정도:
+Sonnet 오탈락은 되돌릴 수 있어야 감시 시스템이다. 월 1회 정도:
 
 ```bash
 python3 scripts/sweep_state.py review-screened --older-than 90   # 90일+ 묵은 탈락분
@@ -152,7 +152,7 @@ python3 scripts/sweep_state.py review-screened --older-than 90   # 90일+ 묵은
 python3 scripts/sweep_state.py restore-screened --pmids 38123456,38234567
 ```
 
-→ screened_out에서 빠지고 seen에도 없으므로 다음 sweep 때 재부상한다. `status`의 `screened_by_topic`으로 특정 토픽 탈락률이 비정상적으로 높으면(=쿼리나 Haiku 룹이 과잉 배제) 쿼리식을 조인다.
+→ screened_out에서 빠지고 seen에도 없으므로 다음 sweep 때 재부상한다. `status`의 `screened_by_topic`으로 특정 토픽 탈락률이 비정상적으로 높으면(=쿼리나 Sonnet 룹이 과잉 배제) 쿼리식을 조인다.
 
 ## 큐 포맷과 ingest 체이닝
 
@@ -170,12 +170,12 @@ python3 scripts/sweep_state.py restore-screened --pmids 38123456,38234567
   "seen_pmids": ["38123456", "..."],
   "screened_out": {
     "38999999": {"topic":"implant","edat":"2026/06/10","reason":"off-topic: orthopedic implant",
-                 "verdict":"exclude","screened_by":"haiku","screened_on":"2026/07/14"}
+                 "verdict":"exclude","screened_by":"sonnet","screened_on":"2026/07/14"}
   }
 }
 ```
 - **`seen_pmids`** = 이미 ingest 결정(영구 재부상 금지). set 조회라 수천 단위여도 부담 없음.
-- **`screened_out`** = Haiku 탈락 버킷. seen과 **분리** — 루틴 재부상은 막되 `review-screened`/`restore-screened`로 복구 가능. 이 분리가 false-negative 영구소실을 막는 스키마적 장치다(프롬프트 룰만으론 불충분).
+- **`screened_out`** = Sonnet 탈락 버킷. seen과 **분리** — 루틴 재부상은 막되 `review-screened`/`restore-screened`로 복구 가능. 이 분리가 false-negative 영구소실을 막는 스키마적 장치다(프롬프트 룰만으론 불충분).
 - 큐(`queue.md`)와 상태(`state.json`)도 분리 — 큐는 사람이 읽고 ingest가 소비, state는 기계 상태. `screened-out.md`는 탈락 사람이 읽는 로그(append-only).
 - 하위호환: 기존 state.json에 `screened_out` 키가 없어도 모든 커맨드가 `.get(...,{})`로 안전; 키는 첫 `screen-out` 때 생긴다.
 
@@ -188,4 +188,4 @@ python3 scripts/sweep_state.py restore-screened --pmids 38123456,38234567
 
 - 이 skill은 **무엇을 ingest할지 고르는** 단계까지만. PDF 다운로드·위키 항목 작성은 llm-wiki-ingest / dental-wiki-entry 소관.
 - OA 접근경로 전체 탐색(Unpaywall→preprint→author request→RISS 등)은 ingest 단계. 여기선 PMC 유무만 빠르게 태깅.
-- 필터 계층: ptyp·신규성(쿼리/dedup) → [심층 모드 한정] Haiku **topical 관련성** → 상위 모델(borderline·include 종합). **임상적 가치 판단(이 논문이 정말 중요한가)은 여전히 큐 적립 후 사람 몫** — Haiku도 상위도 "주제 적합성"까지만 본다.
+- 필터 계층: ptyp·신규성(쿼리/dedup) → [심층 모드 한정] Sonnet **topical 관련성** → 상위 모델(borderline·include 종합). **임상적 가치 판단(이 논문이 정말 중요한가)은 여전히 큐 적립 후 사람 몫** — Sonnet도 상위도 "주제 적합성"까지만 본다.
