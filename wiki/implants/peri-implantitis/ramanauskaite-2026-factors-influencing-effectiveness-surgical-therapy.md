@@ -14,6 +14,13 @@ source_url: https://pubmed.ncbi.nlm.nih.gov/42670722/
 text_path: /Users/oracleneo/llm-wiki/papers/ramanauskaite-2026-factors-influencing-effectiveness-surgical-therapy.txt
 text_filename: ramanauskaite-2026-factors-influencing-effectiveness-surgical-therapy.txt
 tags: [peri-implantitis, surgical-therapy, reconstructive-surgery, intrabony-defect, keratinized-mucosa, macrophage-polarization, supportive-care, narrative-review]
+relations:
+  - type: contradicts
+    target: su-2026-peri-implantitis-bone-defects-regenerative-strategies
+  - type: refines
+    target: zhou-2026-surgical-protocols-peri-implantitis-cohort
+  - type: refines
+    target: ramanauskaite-2023-guided-bone-regeneration-periimplantitis-defects-nma
 ---
 
 > **Abstract-only ingest** — full text not retrieved (no PMC ID; PubMed lists it as not open access). Built from the PubMed abstract and the user-supplied first page. Treat as a framing synthesis; effect sizes are not available here.
