@@ -25,22 +25,22 @@ relations:
 > - 수술 표면 오염 제거(Baima 2022 SR+MA, RCT 16편): 기계적, 화학적, 물리적 프로토콜 중 우월한 것이 없다. 항균 광역동 요법은 확실성이 낮고 단기 이득이 작으며 기계적 제거를 대체하지 못한다(Jervoe-Storm 2024 Cochrane). [확인]
 > - 티타늄 브러시 vs 임플란트플라스티(Park 2025 RCT, n=30, 12개월): PPD 감소는 동등했고(−3.6 vs −3.3 mm), 12개월 MBL은 브러시 0.0 vs 임플란트플라스티 +0.7 mm(p=0.03), 시간은 3분 1초 vs 5분 27초(p=0.006)였으며, 임플란트 상실은 0 vs 2였다. 인접 임플란트의 임플란트주위염이 pocket 폐쇄 실패를 예측했다(p=0.033). [확인]
 > - 완전 vs 부분 임플란트플라스티(Monje 2026, quasi-RCT, 40개): 완전 길이(FLIP)가 MBL 이득이 더 컸다(2.42 vs 1.62 mm, p=0.009). 점막 퇴축도 더 컸다(1.84 vs 1.33 mm, p=0.006). 흡연이 독립적 실패 예측이었고, 저자가 사용한 버의 로열티를 받는 이해충돌이 있어 추정 자료로 본다. [확인]
-> - 실제 진료(Zhou 2026, 후향 406개): 1년 성공률은 OFD 62.5%, 임플란트플라스티 58.3%, 재건 55.4%, 복합 48.3%, 전체 54.7%로 군 간 유의하지 않았다(검정력 27%). 수술 전 항생제(OR 3.54)와 집도의 경험이 프로토콜 선택보다 예측력이 컸다. 5년에는 성공률이 약 27–42%로 떨어진다. [확인]
+> - 실제 진료(Zhou 2026, 후향 406개): 1년 성공률은 OFD 62.5%, 임플란트플라스티 58.3%, 재건 55.4%, 복합 48.3%, 전체 54.7%로 군 간 유의하지 않았다(검정력 27%). 집도의 경험과 수술 전 항생제(OR 3.54)가 프로토콜 선택보다 예측력이 컸다. 다만 항생제 쪽은 단일 후향 코호트 결과이고, 같은 항생제 변수가 임플란트 상실도 예측해(OR 3.13) 적응증 교란 (Confounding by Indication) 가능성이 있다. Ramanauskaite 2026 리뷰는 전신 항생제의 이득을 미결로 본다. 5년에는 성공률이 약 27–42%로 떨어진다. [확인]
 > - 재건(Ramanauskaite 2023 NMA): 격납형 골내 결손에서 비재건보다 결손 충전과 골 수준 이득이 있다. Hakkers 2026(단일맹검 RCT, 52명/63개): 재건이 MBL(β −1.65 mm)과 협측 퇴축에서 우월했지만 PPD, BoP, 해소율은 같았다(43.8% vs 44.4%). 방사선 골 충전과 임상 염증 해소가 분리되는 역설이며, 재건군에서 통증·구강건조·금속 맛·두통이 더 많았다. 3벽 결손은 T3–T6에, 4벽 결손은 T12에만 이득이 보였다. [확인]
 > - 서술 고찰(Su 2026): 이종골이 자가골보다 선호되는 경향이다. 생분해성 Mg 막, 맞춤 3D 티타늄 메시, 기계학습 위험 예측이 후보로 거론되지만 근거는 서술 수준이다. [확인]
-> - 종합 한 줄: 어떤 접근이든 1년 해소율이 약 44–55%에서 정체하는 것은 프로토콜 실패보다 면역병리적 저항과 일치한다. 프로토콜 라벨보다 항생제 결정과 집도의 숙련이 더 중요하다. [미검증]
+> - 종합 한 줄: 어떤 접근이든 1년 해소율이 약 44–55%에서 정체하는 것은 프로토콜 실패보다 면역병리적 저항과 일치한다. 프로토콜 라벨보다 집도의 숙련이 더 중요해 보이며, 전신 항생제의 기여는 단일 후향 코호트 근거라 아직 미확정이다. [미검증]
 
 ## Three-line Summary
 
 This sub-overview holds the mucositis-prevention, non-surgical adjunct, surgical decontamination, implantoplasty, and reconstruction sections of the parent peri-implantitis synthesis.
 Mechanical debridement is the backbone for mucositis and adjuncts add no consistent benefit, no surgical decontamination protocol is superior, a titanium brush is non-inferior to implantoplasty, and in practice one-year success is about 55% whatever the protocol.
-Reconstruction improves radiographic bone fill and recession but not clinical disease resolution, and antibiotics and surgeon experience predict success better than protocol choice.
+Reconstruction improves radiographic bone fill and recession but not clinical disease resolution, and surgeon experience predicts success better than protocol choice; the systemic-antibiotic association comes from a single retrospective cohort open to confounding by indication and is judged undetermined by a 2026 narrative review.
 
 ## 세줄요약
 
 이 하위 종합은 모체 임플란트주위염 종합의 점막염 예방, 비수술 보조 요법, 수술 표면 오염 제거, 임플란트플라스티, 재건 절을 담는다.
 점막염에서는 기계적 제거가 중심이고 보조제는 일관된 이득이 없으며, 우월한 수술 오염 제거 프로토콜은 없고, 티타늄 브러시는 임플란트플라스티에 뒤지지 않으며, 실제 진료의 1년 성공률은 프로토콜과 무관하게 약 55%다.
-재건은 방사선 골 충전과 퇴축은 개선하지만 임상 해소율은 개선하지 않고, 항생제와 집도의 경험이 프로토콜 선택보다 성공을 더 잘 예측한다.
+재건은 방사선 골 충전과 퇴축은 개선하지만 임상 해소율은 개선하지 않고, 집도의 경험이 프로토콜 선택보다 성공을 더 잘 예측한다. 전신 항생제의 연관성은 적응증 교란 (Confounding by Indication) 가능성이 있는 단일 후향 코호트 근거라 미확정이다.
 
 ## Scope
 
@@ -159,7 +159,7 @@ Group differences: **not significant** (FDR-adjusted). **Post-hoc power: 27%** �
 | Pre- + post-operative antibiotics | 4.49 | 0.02 |
 | Surgeon experience | 0.12 | 0.003 |
 
-**Key message**: Protocol choice (OFD vs Implantoplasty vs Reconstructive vs Combined) was not a significant predictor of 1-year success in real-world practice. **Systemic antibiotics and surgeon experience outperformed protocol selection** as predictors — highlighting that execution quality and adjuvant decisions matter more than the protocol label. Implant loss was numerically highest in the Combined group (16.9%), consistent with this being applied to the most complex defects. Long-term success rates decline substantially: ~55% at 1 year → ~27–42% at 5 years across outcome criteria. [retrospective, 27% power, observational confounding]
+**Key message**: Protocol choice (OFD vs Implantoplasty vs Reconstructive vs Combined) was not a significant predictor of 1-year success in real-world practice. **Surgeon experience and systemic antibiotics were stronger predictors than protocol selection** in this cohort. The surgeon-experience finding is echoed by the Ramanauskaite 2026 narrative review ([[implants/peri-implantitis/ramanauskaite-2026-factors-influencing-effectiveness-surgical-therapy]]), which lists surgeon experience among factors associated with effectiveness. The antibiotic signal is weaker than it looks: it comes from a single retrospective cohort, the same pre- + post-operative antibiotic variable also predicted implant loss (OR 3.13, p=0.02), which the authors attribute to antibiotics being prescribed for more complex or suppurative cases (confounding by indication), and Ramanauskaite 2026 classes the benefit of systemic antibiotics in surgical therapy as undetermined. Treat it as a hypothesis, not as evidence that adjuvant antibiotics matter more than the protocol label. Implant loss was numerically highest in the Combined group (16.9%), consistent with this being applied to the most complex defects. Long-term success rates decline substantially: ~55% at 1 year → ~27–42% at 5 years across outcome criteria. [retrospective, 27% power, observational confounding]
 
 ### Synthesis Across Three Studies
 
@@ -167,7 +167,7 @@ Group differences: **not significant** (FDR-adjusted). **Post-hoc power: 27%** �
 |---|---|
 | Titanium brush vs implantoplasty (resective)? | Ti brush non-inferior for PPD, superior MBL preservation, faster — favour brush (Park 2025 RCT) |
 | Implantoplasty extent in combined surgery? | FLIP better MBL gain; weigh against recession in esthetic zones; avoid in aesthetically sensitive sites (Monje 2026) |
-| Does protocol selection predict real-world success? | No — systemic antibiotics + surgeon experience dominate; 54.7% success regardless of protocol (Zhou 2026) |
+| Does protocol selection predict real-world success? | No — surgeon experience dominated; systemic antibiotics also predicted success, but in a single retrospective cohort with likely confounding by indication (antibiotics also predicted implant loss), and Ramanauskaite 2026 calls the antibiotic benefit undetermined; 54.7% success regardless of protocol (Zhou 2026) |
 | Why do all approaches plateau at 44–55% at 1 yr? | Consistent with immunopathological resistance (M1 macrophage bias, Treg dysfunction, titanium abiotic driver) rather than protocol failure alone |
 
 ---
@@ -203,7 +203,7 @@ Key findings:
 **Clinical implication**: 3-wall defects respond earlier and more robustly to reconstruction than 4-wall defects. The key decision driver is NOT defect morphology alone (3 vs 4 wall) but rather that **radiographic gain does not equate to clinical disease resolution** in either defect type. Reconstruction offers a soft-tissue and radiographic advantage; the patient must also accept a higher adverse event burden for no improvement in composite disease resolution. [rct, n=52, 1yr — methodologically rigorous]
 
 **Su 2026 (narrative review) — mechanistic and material context for GBR:**
-- Confirms the GBR-favors-xenogenic-over-autogenous pattern seen in this section: meta-analytic evidence cited by Su favors **xenogenic bone substitutes over autogenous bone or non-GBR treatment** for inflammation reduction and radiographic bone gain — consistent with Ramanauskaite's favorable GBR-vs-non-reconstructive verdict above.
+- **Graft type and inflammation — conflicting evidence.** Meta-analytic evidence cited by Su favors **xenogenic bone substitutes over autogenous bone or non-GBR treatment** for inflammation reduction and radiographic bone gain. The graft-type and radiographic part agrees with the Ramanauskaite 2026 narrative review ([[implants/peri-implantitis/ramanauskaite-2026-factors-influencing-effectiveness-surgical-therapy]]), which reports that slowly resorbing substitutes may outperform autogenous bone, and with Ramanauskaite 2023's favorable defect-fill and bone-level verdict above. The inflammation part conflicts with the other held pages: Ramanauskaite 2026 finds no clear benefit of reconstructive adjuncts in resolving clinical inflammation; Hakkers 2026 (autogenous + xenograft + membrane vs OFD) found no between-group difference in BoP, SoP, PPD or disease resolution; and Soldini 2025 found equal disease resolution (about 44% in both arms) and no difference in clinical variables despite about three times more bone fill. Read Su's inflammation-reduction claim as unconfirmed: the radiographic benefit of reconstruction is consistent, the inflammatory benefit is not.
 - Adds mechanistic nuance often missing from RCT-level reporting: peri-implant biofilm on titanium is compositionally and antibiotic-resistance-wise **distinct from periodontal biofilm**, and **titanium corrosion/ion release** compounds local inflammation and bone loss — relevant background for why Hakkers' reconstructed sites still showed persistent inflammatory signs (BoP/SoP) despite bone fill.
 - **CBCT** is framed as the diagnostic gold standard for 3D defect morphology (superior to periapical radiography for dehiscence/infrabony lesions) — a methodological note relevant to how defect morphology (3-wall vs 4-wall, per Hakkers) should be characterized pre-surgically.
 - Extends the materials landscape beyond collagen membrane + xenograft (the Hakkers protocol): **biodegradable magnesium (Mg) membranes** offer mechanical stability with resorption timed to bone healing, and **customized 3D-printed titanium mesh** improves precision for complex ridge augmentation but carries mesh-exposure risk — candidate next-generation alternatives to the standard collagen-membrane GBR protocol.
