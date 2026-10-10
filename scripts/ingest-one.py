@@ -82,7 +82,10 @@ def commit_file(rel_path: str, message: str):
     if rc != 0:
         print(f"  [warn] git add {rel_path}: {err}")
         return
-    rc, out, err = git(["commit", "-m", message + "\n\nCo-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>"])
+    # 트레일러는 실제로 작업한 모델을 적어야 한다. 스크립트는 모델을 알 수 없으므로
+    # 호출 측이 INGEST_COAUTHOR로 지정한다 (예: "Claude Haiku 5.5 <noreply@anthropic.com>").
+    coauthor = os.environ.get("INGEST_COAUTHOR", "Claude <noreply@anthropic.com>")
+    rc, out, err = git(["commit", "-m", message + f"\n\nCo-Authored-By: {coauthor}"])
     if rc != 0 and "nothing to commit" not in err and "nothing to commit" not in out:
         print(f"  [warn] git commit {rel_path}: {err or out}")
     else:
