@@ -80,6 +80,7 @@ llm-wiki의 800+ 임상 paper 대부분이 SR+MA / RCT / retrospective cohort. �
 
 ### 축 3 — 검정 선택 (어느 test가 옳은가)
 - [[evidence-appraisal/nam-2012-statistical-methods-medical-studies]] — 한국어 검정 선택 flowchart.
+- [[evidence-appraisal/fisher-exact-test-p-value-interpretation]] — **spoke**: 2×2 피셔 정확검정의 p값을 읽는 법 (p = 0.05의 정확한 의미·문턱 근처·단측/양측·기대빈도 <5·사건 수 부족 시 CI). 이 축의 한 줄("binary 2×2 → chi-square/Fisher")을 해석까지 확장.
 
 **flowchart 요약**:
 - 종속변수 연속 + 두 군 독립 → t-test (정규분포) / Mann-Whitney U (비모수).
