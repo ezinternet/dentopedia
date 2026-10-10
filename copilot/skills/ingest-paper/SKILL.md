@@ -18,30 +18,30 @@ Full pipeline to add a dental research PDF into the LLM Wiki knowledge base.
 
 ## Step 0 — Model routing (fixed — do not ask the user)
 
-모든 작업은 아래 **3축 판단 원칙**으로 모델을 자율 결정한다. 표에 없는 작업도 이 원칙으로 판단한다.
+**기본값은 Sonnet** (2026-10-10 결정 — `CLAUDE.md` Model Routing과 동일). 전사·정형 작업도 Sonnet으로 돌리고, Opus는 추론·종합에만, Haiku는 단가가 지배적인 대량 병렬 전사에만 쓴다. 표에 없는 작업도 이 원칙으로 판단한다.
 
-### 3축 판단 원칙
+### 판단 원칙
 
 | 축 | 모델 | 판단 기준 |
 |---|---|---|
-| **전사·정형** | **Haiku** | 답이 입력에 이미 있다. 수치 옮기기, 링크 고치기, 로그 읽기, 파일 복사, frontmatter 채우기, 스크립트 실행 결과 해석 — 추론 없이 기계적으로 완료 가능한 작업 |
-| **표현·품질** | **Sonnet** | 문장을 새로 써야 한다. 위키 본문, 세줄요약, 카테고리 정리 결정, 임상 insights 작성 — 입력을 이해해 좋은 문장으로 변환해야 하는 작업 |
+| **전사·정형 + 표현·품질** | **Sonnet (기본)** | 수치 옮기기, 링크 고치기, 로그 읽기, 파일 복사, frontmatter 채우기, 스크립트 결과 해석, `sources/` 작성 + 위키 본문, 세줄요약, 카테고리 정리 결정, 임상 insights 작성 |
 | **추론·종합** | **Opus** | 여러 논문·페이지를 비교해 판단해야 한다. supersession, 카테고리 경계, overview 종합, 논문 간 관계 결정 — 오판이 위키 구조에 누적되는 작업 |
+| **대량 병렬 전사** | **Haiku (예외)** | 수십 건 이상 fan-out 스크리닝·전사처럼 건당 단가가 지배적일 때만 |
 
-**자율 결정 규칙**: 작업을 시작하기 전 이 세 축 중 어디에 속하는지 먼저 판단하고 모델을 선택한다. 판단이 애매하면 한 축 위로 올린다(Haiku→Sonnet, Sonnet→Opus).
+**자율 결정 규칙**: 작업을 시작하기 전 추론·종합(Opus)에 해당하는지 먼저 판단한다. 판단이 애매하면 한 축 위로 올린다(Sonnet→Opus). Sonnet이 낸 숫자 집계는 `grep -c` 등으로 재검증한다.
 
 ### 주요 작업 매핑 (참고용 — 원칙이 우선)
 
 | 작업 | 모델 |
 |---|---|
-| 텍스트 추출, PDF 복사, dedup, lint, qmd, 로그 읽기, 링크 수정 | **Haiku** |
-| `sources/` 작성 (Step 5) | **Haiku** |
+| 텍스트 추출, PDF 복사, dedup, lint, qmd, 로그 읽기, 링크 수정 | **Sonnet** |
+| `sources/` 작성 (Step 5) | **Sonnet** |
 | `wiki/` 페이지 본문 (Step 6), 카테고리 정리 결정 | **Sonnet** |
 | supersession 판단, 카테고리 경계 분류, `wiki/overviews/` 작성 | **Opus** |
 
-**Serial 모드**: Steps 1–5 후 `/model sonnet` 전환 안내. Supersession/boundary/overview 직전 `/model opus` 안내.
+**Serial 모드**: 메인 세션은 Sonnet 그대로 Steps 1–6 진행. Supersession/boundary/overview 직전에만 `/model opus` 안내.
 
-**Batch 모드 서브에이전트**: 1a파도 `model: haiku`(Steps 2–5), 1b파도 `model: sonnet`(Step 6). Boundary/supersession 케이스는 1b를 `model: opus`로 교체.
+**Batch 모드 서브에이전트**: 단일 파도 `model: sonnet`(Steps 2–6). Boundary/supersession 케이스는 `model: opus`로 교체.
 
 If multiple PDFs are being ingested in one go, this is a **batch** — note the count. A batch of **2+ papers takes the parallel path (§ Batch mode)**, which changes both execution shape (fan-out) and finalize (PHASE 2's `ingest-one.py --finish` per paper, not the manual Step 10 block — see Step 10's batch note).
 
@@ -81,10 +81,10 @@ Dispatch **all papers at once** — one `Agent` call per paper, in a **single me
 - The subagent **RETURNS** a compact record: `{stem, category, evidence_level, index_line, status: ok|skip:<reason>}`.
 
 Model routing per subagent (from Step 0 table):
-- **Haiku+Sonnet 분리 선택 시**: Phase 1을 두 파도로 나눈다.
+- **기본 (Sonnet 전체)**: 단일 파도 `model: sonnet` + `effort: high`. boundary/supersession 케이스는 `model: opus`.
+- **Haiku+Sonnet 분리 (예외 — 수십 건 이상 대량 배치로 단가가 지배적일 때만)**: Phase 1을 두 파도로 나눈다.
   - **1a파도** (`model: haiku`): Steps 2–5만 수행 (텍스트 추출, dedup, PDF 복사, 카테고리, sources/ 작성). wiki/는 건드리지 않음.
   - **1b파도** (`model: sonnet` + `effort: high`): 1a파도 완료 후 sources/{stem}.md를 읽고 Step 6(wiki/ 페이지)만 작성. supersession/boundary 케이스는 `model: opus`로 에스컬레이션.
-- **Sonnet 전체 선택 시**: 단일 파도 `model: sonnet` + `effort: high`. boundary/supersession 케이스는 `model: opus`.
 - Overviews are never authored inside a fan-out.
 
 ### PHASE 2 — finalize (serial, parent only)
@@ -109,22 +109,22 @@ If invoked in a context where you cannot spawn subagents (already inside one), f
 
 ---
 
-### Model routing — 3단 고정 분리
+### Model routing — Sonnet 기본, Opus 에스컬레이션
 
 Step 0 표가 최종 권위다. 아래는 실행 시 판단 기준:
 
 | Sub-step | 모델 | 판단 기준 |
 |---|---|---|
-| 텍스트 추출, stem, PDF 복사, lint, qmd | **Haiku** | 정형 작업, 추론 불필요 |
-| `sources/` 작성 (Step 5) | **Haiku** | 수치 전사·섹션 분류 — Haiku 충분 |
+| 텍스트 추출, stem, PDF 복사, lint, qmd | **Sonnet** | 정형 작업, 추론 불필요 (기본값 통일) |
+| `sources/` 작성 (Step 5) | **Sonnet** | 수치 전사·섹션 분류 — 숫자 집계는 재검증 |
 | `wiki/` 페이지 본문 (Step 6) | **Sonnet** | 세줄요약·임상 insights 품질 중요 |
 | 카테고리 boundary 판단 (Step 4) | **Opus** | 오분류는 구조적으로 누적됨 |
 | `superseded_by` + `relations:` 판단 (Step 6) | **Opus** | 논문 간 추론 — 전사 아닌 판단 |
 | `wiki/overviews/` 종합·한국어 핵심요약 | **Opus** | 크로스-페이퍼 종합, 절대 Sonnet 불가 |
 
 How to escalate in practice:
-- **Main session**: Steps 1–5 진행 중 boundary/supersession 징후 발견 시 `/model opus` 전환을 사용자에게 안내. Step 6 시작 시 `/model sonnet` 안내.
-- **Subagent ingest**: 1a파도 `model: haiku`(Steps 2–5), 1b파도 `model: sonnet`(Step 6). Boundary/supersession 확인된 논문은 1b 서브에이전트를 `model: opus`로 교체. Overviews are authored in a separate Opus session, never inside a fan-out.
+- **Main session**: Sonnet으로 Steps 1–6 진행. boundary/supersession 징후 발견 시에만 `/model opus` 전환을 사용자에게 안내.
+- **Subagent ingest**: 단일 파도 `model: sonnet`(Steps 2–6). Boundary/supersession 확인된 논문은 `model: opus`로 교체. 대량 배치 예외로만 1a `haiku` + 1b `sonnet` 분리. Overviews are authored in a separate Opus session, never inside a fan-out.
 
 ---
 
