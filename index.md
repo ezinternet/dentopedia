@@ -3571,6 +3571,7 @@ tags: []
 - [[implants/peri-implantitis/park-2025-implantoplasty-vs-titanium-brushes-peri-implantitis-rct]] — Park 2025 · rct (n=30, 연세대): 임플란토플라스티 vs 회전 티타늄 브러시 비열등성 RCT — 티타늄 브러시 PPD 비열등(-3.6 vs -3.3mm), MBL 보존 유리(0.0 vs +0.7mm, p=0.03), 표면처리 시간 45% 단축(DOI 10.1111/jcpe.70056)
 - [[implants/peri-implantitis/monje-2026-flip-vs-plip-implantoplasty-extent-peri-implantitis-rct]] — Monje 2026 · quasi-rct (n=40임플란트, 스페인): FLIP(전장) vs PLIP(부분) 임플란토플라스티 병합수술 — FLIP MBL 획득 우세(2.42 vs 1.62mm, p=0.009), 질환해소 90.4% vs 64.6%, 단 치은퇴축 더 큼; 흡연=독립실패인자, COI 주의(DOI 10.1111/cid.70144)
 - [[implants/peri-implantitis/zhou-2026-surgical-protocols-peri-implantitis-cohort]] — Zhou 2026 · retrospective-cohort (n=406임플란트/223명, 프랑크푸르트): OFD·임플란토플라스티·재건·병합 4군 비교, 전군 티타늄브러시 — 1년 성공 54.7%, 군간 유의차 없음(검정력 27%); 항생제·술자경험이 성공 최강 예측(DOI 10.1111/jcpe.70115)
+- [[implants/peri-implantitis/ramanauskaite-2026-factors-influencing-effectiveness-surgical-therapy]] — Ramanauskaite 2026 · narrative-review (Periodontol 2000, abstract-only): 외과치료 성공 요인 — 재건술 이득은 3·4벽 골내결손에 국한되고 임상 염증 해소엔 명확한 이득 없음, 서방출 골대체재 > 자가골; 술자 경험·초기 중증도·각화점막·지지요법 순응도가 결과 좌우 (정량 추정치 없음, DOI 10.1111/prd.70052)
 
 #### implants/surface — review
 - [[implants/surface/jadhav-2026-dental-implant-surface-review]] — Jadhav 2026 · narrative-review: 임플란트 표면개질 전반 + 반응성 코팅·오믹스·AI 신경향, 면역반응·in vivo 검증 과소
