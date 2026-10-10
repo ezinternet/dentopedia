@@ -10,12 +10,14 @@ find-supersession-candidates.py
 3. 같은 카테고리 내 고근거 논문들 사이에서 날짜 차이 >= min_gap인 쌍 추출
 4. 이미 relations 엣지로 연결된 쌍 제외
 5. 날짜 차이 내림차순 정렬 → 상위 max_pairs 후보 출력
-6. --judge: 각 쌍의 세줄요약을 Opus에 넘겨 supersession 판단 요청
+6. --judge: 각 쌍의 세줄요약을 로컬 Ollama 모델(기본 qwen2.5:3b)에 넘겨 1차 판단.
+   이 판단은 Opus가 아니다 — 3B 모델이라 거짓 양성이 많다. 최종 supersession 판단은
+   Opus 세션에서 사람이 페이지를 읽고 내린다 (SOP §1-ter).
 
 Usage
 -----
     python3 scripts/find-supersession-candidates.py              # 목록만 (즉시)
-    python3 scripts/find-supersession-candidates.py --judge      # Opus 판단 포함
+    python3 scripts/find-supersession-candidates.py --judge      # 로컬 모델 1차 판단 포함
     python3 scripts/find-supersession-candidates.py --min-gap 3  # 3년 이상만
     python3 scripts/find-supersession-candidates.py --new-window 30  # 최근 30일 인제스트된 신형만
 """
@@ -214,7 +216,7 @@ def find_candidates(pages: dict[str, dict], min_gap: float, max_pairs: int,
     return candidates[:max_pairs]
 
 
-# ─── Opus judgment ──────────────────────────────────────────────────────────
+# ─── local-model first-pass judgment (Ollama, not Opus) ─────────────────────
 
 JUDGE_PROMPT = """\
 두 치과학 논문 페이지를 비교해 supersession 여부를 판단한다.
@@ -287,7 +289,7 @@ def render_report(candidates: list[dict], args) -> str:
             conf = verdict.get("confidence", "?")
             reason = verdict.get("reason", "")
             emoji = {"full": "🔴", "partial": "🟡", "no": "⚪", "counterpoint": "🔵"}.get(v, "❓")
-            v_str = f"\n**Opus 판단**: {emoji} `{v}` ({conf}) — {reason}"
+            v_str = f"\n**로컬 1차 판단**: {emoji} `{v}` ({conf}) — {reason}"
 
         lines += [
             f"## {i}. [{c['cat']}] {c['old_stem']} → {c['new_stem']}",
@@ -305,7 +307,7 @@ def render_report(candidates: list[dict], args) -> str:
 
     if not args.judge:
         lines += ["---",
-                  "Opus 판단 추가: `python3 scripts/find-supersession-candidates.py --judge`"]
+                  "로컬 1차 판단 추가: `python3 scripts/find-supersession-candidates.py --judge` (Opus 판단 아님 — 최종 판단은 Opus 세션에서)"]
     return "\n".join(lines) + "\n"
 
 
