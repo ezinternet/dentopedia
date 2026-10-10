@@ -102,15 +102,17 @@ python3 scripts/daily-audit.py     # 26 audits → logs/
 
 4 hard guard + 1 rationale은 error(block), 나머지 21은 **signal — 절대 block하지 않는다.** 감사는 거울이다: ingest 압력은 gate가 아니라 가시성으로 self-correct한다 (gate는 임상 워크플로에서 번아웃·회피를 유발). 개별 감사 설명·compounding 지표는 `AUDITS.md`.
 
-## Model Routing (3축 원칙 — 표에 없는 작업도 이 원칙으로 판단)
+## Model Routing (Sonnet 기본 — 표에 없는 작업도 이 원칙으로 판단)
+
+**기본값은 Sonnet.** 전사·정형 작업도 Sonnet으로 돌린다 (2026-10-10 실측: 같은 로그 집계에서 Sonnet이 Haiku보다 빠르고 토큰도 적었다 — n=1, 읽기·집계 한정). Opus는 추론·종합 축에만, Haiku는 단가가 중요한 대량 병렬 처리에만 쓴다.
 
 | 축 | 모델 | 판단 기준 |
 |---|---|---|
-| **전사·정형** | **Haiku** | 답이 입력에 이미 있다 — 수치 옮기기, 링크 수정, 로그 읽기, 파일 복사, 스크립트 결과 해석 |
-| **표현·품질** | **Sonnet** | 문장을 새로 써야 한다 — 위키 본문, 세줄요약, 카테고리 정리, 임상 insights |
+| **전사·정형 + 표현·품질** | **Sonnet (기본)** | 수치 옮기기, 링크 수정, 로그 읽기, 파일 복사, 스크립트 결과 해석, `sources/` 작성 + 위키 본문, 세줄요약, 카테고리 정리, 임상 insights |
 | **추론·종합** | **Opus** | 여러 논문·페이지를 비교해 판단해야 한다 — supersession, 카테고리 경계, overview 종합 |
+| **대량 병렬 전사** | **Haiku (예외)** | 수십 건 이상 fan-out 스크리닝·전사처럼 건당 단가가 지배적일 때만 |
 
-애매할 때는 한 축 위로 올린다 (Haiku→Sonnet, Sonnet→Opus). 세부 매핑은 `ingest-paper` SKILL.md Step 0 참조.
+애매할 때는 한 축 위로 올린다 (Sonnet→Opus). Sonnet의 숫자 집계는 `grep -c` 등으로 재검증한다 (같은 실측에서 합산 오류 1건). 세부 매핑은 `ingest-paper` SKILL.md Step 0 참조.
 
 ## Knowledge Compounding
 
