@@ -195,7 +195,7 @@ python3 scripts/deepseek-split.py <dump.md>                    # 리포트: 검�
 python3 scripts/deepseek-split.py <dump.md> --category <cat> --pdf <원본.pdf>   # 두 파일 쓰기 + papers/ 복사 + PDF 팩트체크
 ```
 
-Claude가 이어서 하는 것만 남는다: `## Why Ingested`, `## Related Papers`, `relations:`, supersession, Step 4–5. 스크립트는 지어낸 `[[wikilink]]`·stem 불일치·필수 필드 누락에서 **exit 1로 중단**한다 (경고 아님). 프롬프트·역할분담 전문은 `deepseek-ingest-prompt 1.md`. 구분자 없는 구형(v1, `---METADATA---`) dump는 exit 2 — 그건 종전대로 Claude가 조립한다.
+Claude가 이어서 하는 것만 남는다: `## Why Ingested`, `## Related Papers`, `relations:`, supersession, Step 4–5. 스크립트는 지어낸 `[[wikilink]]`·stem 불일치·필수 필드 누락에서 **exit 1로 중단**한다 (경고 아님). 프롬프트·역할분담 전문은 `deepseek-ingest-prompt.md`. 구분자 없는 구형(v1, `---METADATA---`) dump는 exit 2 — 그건 종전대로 Claude가 조립한다.
 
 **PDF 팩트체크 (2026-08-04 사고 이후 필수)** — 위 구조 검증은 dump의 *형식*만 본다, DeepSeek이 논문을 *제대로 읽었는지*는 안 본다. `maurice-szamburski-2025-intravenous-nsaids-perioperative-pain-narrative-review` 건에서 구조 검증은 전부 통과했는데도 DeepSeek은 DOI 숫자 두 자리를 바꿔치기했고(`pharmacy13010108` vs 실제 `pharmacy13010018`) 제목도 verbatim 대신 의역해서 냈다 — 둘 다 아무도 PDF 원문을 안 읽어서 놓쳤다. `--pdf`를 넘기면 이제 자동으로:
 
