@@ -7,7 +7,7 @@ PDF attachment): the PROMPT B category-list preamble + the live category list +
 PROMPT A.
 
 Why a script instead of a saved paste-file: both halves have a single source of
-truth already — the prompt text lives in `deepseek-ingest-prompt 1.md`, the
+truth already — the prompt text lives in `deepseek-ingest-prompt.md`, the
 category list in `wiki/_meta/categories.md`. A second copy of either would
 drift silently, and a stale category list is exactly the failure that sends
 DeepSeek's CATEGORY_CANDIDATES to a folder that no longer exists.
@@ -26,7 +26,7 @@ import re
 import sys
 
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-PROMPT_DOC = os.path.join(REPO, "deepseek-ingest-prompt 1.md")
+PROMPT_DOC = os.path.join(REPO, "deepseek-ingest-prompt.md")
 CATEGORIES = os.path.join(REPO, "wiki", "_meta", "categories.md")
 
 CAT_ROW = re.compile(r"^\|\s*`([^`]+)`\s*\|\s*([^|]+?)\s*\|")
