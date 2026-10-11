@@ -15,20 +15,20 @@ tags: [navigation, category-index, evidence-appraisal]
 > [!summary] 한국어 핵심요약
 > - **분야**: 근거평가·통계방법론
 > - **범위**: EBM/EBD critical appraisal, SR/MA methodology, biostatistics (p-value/CI/OR/RR/HR/NNT), common mistakes
-> - **수록 논문**: 15편
+> - **수록 논문**: 16편
 
 ## Three-line Summary
 
 **Scope**: EBM/EBD critical appraisal, SR/MA methodology, biostatistics (p-value/CI/OR/RR/HR/NNT), common mistakes
-**Indexed papers**: 15 papers in `wiki/evidence-appraisal/`.
+**Indexed papers**: 16 papers in `wiki/evidence-appraisal/`.
 
 ## 세줄요약
 
 **분야**: 근거평가·통계방법론
-**수록 논문**: 15편
+**수록 논문**: 16편
 **하위 카테고리**: 없음
 
-## Papers in this Category (15)
+## Papers in this Category (16)
 
 | Paper |
 |---|
@@ -40,6 +40,7 @@ tags: [navigation, category-index, evidence-appraisal]
 | [[darrigo-2024-common-mistakes-biostatistics|Common mistakes in biostatistics]] |
 | [[fisher-exact-test-p-value-interpretation|통계 렌즈 — 피셔 정확검정의 p값 해석 (Fisher's exact test: what p = 0.05 means)]] |
 | [[flechner-2011-pvalues-confidence-intervals-number-needed|Understanding results: P-values, confidence intervals, and number need to treat]] |
+| [[habibzadeh-2024-reinterpretation-results-randomized-clinical-trials|Reinterpretation of the results of randomized clinical trials]] |
 | [[isq-survival-andersson-vs-roccuzzo-clustering-appraisal|통계 렌즈 — 임플란트 생존 코호트의 군집·효과크기 (andersson 2019 vs roccuzzo 2022)]] |
 | [[kiriakou-2014-evidence-based-dentistry-skills-interpret|Developing evidence-based dentistry skills: how to interpret randomized clinical trials and systematic reviews]] |
 | [[monaghan-2021-odds-ratios-relative-risk-absolute|Foundational Statistical Principles in Medical Research: A Tutorial on Odds Ratios, Relative Risk, Absolute Risk, and Number Needed to Treat]] |
