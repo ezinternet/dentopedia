@@ -131,6 +131,8 @@ Reconstruction carried a significantly higher adverse event burden (pain, mouth 
 
 *Composite criterion: PPD ≤5 mm + no BoP >1/6 sites + no SoP.*
 
+> **Source caution — T12 resolution rates are internally inconsistent in the original.** Checked against the PMC full text (2026-10-11): Table 3 is labelled "% patients", but the test-group 43.8% fits neither the 26 patients nor the 33 implants listed at T12 (it needs a denominator of 16 or 32), and it also fits neither intention-to-treat denominator (27 patients, 34 implants). Only the control figure reconciles (44.4% = 12/27), and only as implants, matching the pooled 3- and 4-wall counts in Table 5; the text itself says "implants". Other Table 3 cells (test T9, control T3 and T9) do not reconcile either, and most pooled Table 5 counts disagree with Table 3. Read the two rates as about 44% in both arms and do not cite 43.8% or 44.4% as exact. The model-based comparison (OR −0.14, p = 0.96) reports no significant difference.
+
 ### Descriptive Clinical Trajectory
 
 | Parameter | Test T0 → T12 | Control T0 → T12 |
