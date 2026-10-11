@@ -2086,6 +2086,7 @@ tags: []
 - [[overviews/statistical-abbreviations-cheatsheet]] — 통계 약자 치트시트 (synthesis, 2026-05-23): descriptive·inferential·effect size·diagnostic·meta-analysis·regression·survival·agreement·trial set 9개 카테고리 + 5대 오용 패턴 (OR↔RR, p<0.05=임상유의, CI 폭, SD↔SE, ITT↔PP)
 - [[evidence-appraisal/choi-2015-statistical-validity-insadol-clinical-effectiveness]] — 고려대·Mayo Clinic 비판분석 (대한치과의사협회지 2015, 53권 7호): 인사돌 (옥수수 불검화 정량추출물, Zea mays L. unsaponifiable) 임상효능 근거 4건 시험 (1982·1988·1991·1994) — 무작위배정 실패·표본수 근거 부재·부적절 통계검정·맹검 불명확 등 통계적 타당성 결여; 1994 이후 20년 추가 시험 부재 — Insadol 마케팅 근거 비판
 - [[evidence-appraisal/al-abedalla-2022-unusual-findings-trials-evaluating-adjuncts]] — CONSORT + trial-registration audit of 32 SRP-adjunct RCTs from a single group; low reporting quality, registration discrepancies, implausible timelines → distrust the unusually large effects
+- [[evidence-appraisal/habibzadeh-2024-reinterpretation-results-randomized-clinical-trials]] — Habibzadeh 2024 PLOS ONE · 코크란(Cochrane) RCT 22,500편 재해석: p<0.05 유의 28.5% → p<0.005 14.2% → 유연 문턱(α≤0.05·검정력≥80%) 9.9% (기존 유의 RCT의 약 2/3가 비유의 전환); 문턱을 낮추면 거짓음성↑, 최적 문턱은 사후 분산 필요 → 빈도주의 한계·베이즈 제안 (DOI 10.1371/journal.pone.0305575)
 
 ## 골생물학 (Bone Biology — Molecular / Cellular)
 - [[bone-biology/chen-2023-occlusal-force-alveolar-bone-type-h-angiogenesis]] — Mouse + in-vitro 기전 연구(J Dent Res 2023): 교합력 소실이 일으키는 치조골 폐용성 골다공증(ABDO) 기전 — PDL의 type H 혈관(CD31^high/EMCN^high)·OSX⁺ 골전구세포 감소가 핵심; PIEZO1/Ca²⁺/HIF-1α/SLIT3 회로, 재조합 SLIT3 국소주사로 부분 회복
