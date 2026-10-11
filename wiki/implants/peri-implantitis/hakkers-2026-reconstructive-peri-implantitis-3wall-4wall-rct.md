@@ -1,6 +1,6 @@
 ---
 title: "Surgical Reconstructive Peri-Implantitis Treatment for 3- and 4-Wall Bone Defects: A Single-Blind Randomised Controlled Trial With a 1-Year Follow-Up"
-authors: Hakkers J, Meijer HJA, Glas B, de Waal YCM, Raghoebar GM
+authors: Hakkers J, de Waal YCM, Gareb B, Meijer HJA, Raghoebar GM
 year: 2026
 date: 2026-01-01
 doi: 10.1111/jcpe.70123
