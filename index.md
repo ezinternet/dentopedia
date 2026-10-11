@@ -934,6 +934,7 @@ tags: []
 
 ## 구취 (Halitosis)
 - [[halitosis/szalai-2023-organoleptic-halitometric-assessments-do-not]] — SR+MA (76 studies, n=14,635) showing Halimeter and OralChroma correlate only moderately (r=0.65–0.69) with organoleptic test; no current halitometer can replace subjective assessment
+- [[halitosis/kumbargere-2019-interventions-managing-halitosis]] — Kumbargere Nagraj 2019 · Cochrane SR · 구취 관리 중재 44개 RCT(1,809명) — **모든 비교 '낮음~매우 낮음 확실성'(GRADE ⊕⊝⊝⊝~⊕⊕⊝⊝)**, 혀 클리닝/껌/전신제/국소제/치약/구강세척제/복합요법 어떤 것도 우월성 입증 안 됨, 환자보고 결과·부작용 데이터 거의 없음 (DOI 10.1002/14651858.CD012213.pub2)
 - [[halitosis/wang-2022-clinical-efficacy-photodynamic-therapy]] — SR+MA of 8 RCTs (n=345): PDT reduces H2S immediately post-treatment vs. tongue scraper alone, but benefit does not persist at 7–90-day follow-up
 - [[halitosis/silva-2017-estimated-prevalence-halitosis-sr]] — SR+MA (13 studies) estimating global halitosis prevalence at 31.8% (95% CI 24.6–39.0%), with year of publication and country socioeconomic status as heterogeneity drivers
 - [[halitosis/silva-2017-periodontitis-associated-with-halitosis]] — SR+MA (5 studies, OR 3.16) confirming periodontitis is associated with 3× higher odds of halitosis; measurement criteria explain majority of heterogeneity ⚠️ superseded by wang-2024
@@ -2220,6 +2221,7 @@ tags: []
 - [[oral-medicine/burning-mouth-syndrome/canfora-2026-burning-mouth-syndrome-management-review]] — BMS 포괄적 관리 전략 — clonazepam 국소 1차 치료, CBT, 저용량 TCA 다학제 접근.
 - [[oral-medicine/burning-mouth-syndrome/gupta-2016-burning-mouth-syndrome-review]] — BMS 정의·역학(폐경 후 여성 0.7–4.6%)·병인·치료 기초 고찰.
 - [[oral-medicine/burning-mouth-syndrome/chmieliauskaite-2020-burning-mouth-syndrome-icd11-rename-delphi]] — BMS → BMD(Burning Mouth Disorder) 명칭 변경 + ICD-11 기준 개선 국제 Delphi 합의.
+- [[oral-medicine/burning-mouth-syndrome/mcmillan-2016-interventions-treating-burning-mouth]] — McMillan 2016 · Cochrane SR · BMS 치료 23개 RCT(1,121명) vs 위약 — **모든 중재 '매우 낮은 질'(GRADE ⊕⊝⊝⊝) 근거만**, 단기: 전자기파/국소 클로나제팜/물리적차단/가바펜틴, 장기: 심리치료/캡사이신/국소 클로나제팜 신호, 전체적으로 어떤 치료도 지지/반박 불가 (DOI 10.1002/14651858.CD002779.pub3)
 - [[oral-medicine/aphthous-stomatitis/manfredini-2021-recurrent-aphthous-stomatitis-treatment]] — 재발성 아프타 구내염(RAS) 치료 고찰 — 국소 스테로이드 1차, 콜히친·탈리도마이드 중증 적응증.
 - [[oral-medicine/aphthous-stomatitis/belenguer-guallar-2014-recurrent-aphthous-stomatitis-review]] — RAS 치료 문헌 고찰 — 국소 스테로이드·항균제·NSAIDs·LLLT 효과 비교.
 - [[oral-medicine/aphthous-stomatitis/mills-2017-aphthous-stomatitis-oral-medicine-review]] — RAS 임상양상·병인론(면역·유전·영양·스트레스)·치료 단계적 접근 고찰.
@@ -2570,6 +2572,7 @@ tags: []
 - [[oral-surgery/cebrian-carretero-2014-free-flap-implant-guided-surgery]] — José-Luis Cebrian-Carretero 2014 · narrative-review · Predictable dental rehabilitation in maxillomandibular reconstruction with free flaps. The role of implant guided surgery
 - [[oral-surgery/fernandes-2015-immunologic-glycemic-postextraction-t2dm]] — Fernandes KS et al. 2015 · prospective · Immunologic parameters and glycemic control vs postextraction complications in T2DM patients: no increased complications without antibiotics
 - [[oral-surgery/andrade-2021-dental-extractions-hemodialysis-ckf]] — Andrade NS et al. 2021 · prospective · Dental extractions in CKF/hemodialysis patients (pilot): bleeding >30min 18.5%, delayed epithelialization at 21d, no postop infection without antibiotics
+- [[oral-surgery/kumbargere-2018-interventions-treating-post-extraction-bleeding]] — Kumbargere Nagraj 2018 · Cochrane SR · 발치 후 출혈(PEB) 치료 중재 — **RCT 0편 포함(근거 전무)**, 국소지혈제/봉합/전신약물/복합요법 모두 RCT 근거 없음, 임상가 경험 의존·CONSORT 준수 RCT 긴급 필요 (DOI 10.1002/14651858.CD011930.pub3)
 - [[oral-surgery/trauma/hallym-2017-retromandibular-subcondylar-fracture-parotid-fistula]] — Hallym Univ. 2017 · case-report (KDA Vol.55 No.10) · 하악두하 골절 후하악 접근법 수술 후 이하선 누공 발생 → 보존적 치료 실패 후 이하선관 결찰로 치유; 안면신경 보존과 이하선 손상 위험 트레이드오프 논의 [case-report]
 
 
@@ -4719,6 +4722,7 @@ tags: []
 
 ### oral-surgery/third-molar
 - [[oral-surgery/third-molar/canellas-2020-intrasocket-ao-third-molar-sr-nma]] — Canellas 2020 · sr+ma · 치조내 중재로 사랑니 발치 후 건성치조 예방 (RR = 0.39, p < 0.0001) (DOI 10.1016/j.jcms.2020.06.012)
+- [[oral-surgery/third-molar/ghaeminia-2020-surgical-removal-retention-asymptomatic-impacted-wisdom]] — Ghaeminia 2020 · Cochrane SR · 무증상 매복 사랑니 발치 vs 보존 — **증거 극히 빈약(2편/493명)**, 뼈성 매복 보존 시 제2대구치 치주염 위험 시사(RR 0.32, 매우 낮은 질), 중첩 예방 발치 근거 없음, QoL·비용·합병증 모두 미측정 — 공유 의사결정 권고 (DOI 10.1002/14651858.CD003879.pub5)
 
 ## Batch ingest (added 2026-08-18) — implants FEA / biomechanics
 
