@@ -16,7 +16,7 @@ tags: [gbr, barrier-membrane, collagen, edc-crosslink, ptfe, titanium-mesh, prog
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
-> - 골유도재생술 (Guided Bone Regeneration, GBR) 차폐막을 17편 (서술적 고찰 6 + 동물실험 6 + 임상 전향 1 + 체계적 고찰 3 + 벤치 1) 으로 종합 — 흡수성/비흡수성이라는 단일 상류 변수가 1차 임상 분기점이다.
+> - 골유도재생술 (Guided Bone Regeneration, GBR) 차폐막을 20편 (서술적 고찰 6 + 동물실험 6 + 임상 전향 2 + 체계적 고찰 3 + 벤치 1 + 합의문 2) 으로 종합 — 흡수성/비흡수성이라는 단일 상류 변수가 1차 임상 분기점이다.
 > - Benic 2014의 결손 분류(Class 1–5)가 이 페이지 전체 축의 상위 라우팅 표다: Class 1–2(소형·골벽 지지)는 흡수성 이식재+막, Class 3(골벽 지지 없음)는 DBBM+티타늄강화 e-PTFE, Class 5(수직 결손)는 자가골 블록. Esposito 2009 Cochrane SR(13 RCT)은 이 프레임을 임플란트 레벨 근거로 뒷받침: 위축 하악에서 수직증대보다 단축 임플란트가 실패(OR=5.74)·합병증(OR=4.97, p<0.05) 모두 적고, 골대체재가 자가골보다 환자 선호도 우위(장골 자가골 대비 OR=0.03) — "막을 잘 고르는 것"보다 "애초에 증대를 피할 수 있는가"가 상위 결정임을 시사.
 > - **한 단계 뒤의 질문은 다르다** — Esposito 2009이 "증대를 할 것인가"(시술 선택)라면, Gurbanov 2024는 "이미 이식했다면 그 자리의 임플란트가 10년 뒤에도 버티는가"(장기 결과 안심)를 묻는다: 임플란트 생존율 (Implant Survival Rate, ISR) 이식부 96–100% vs 비이식부 91.6–94%로 열등하지 않으나, **10년 이상 기준을 통과한 연구가 전 세계 3편뿐**이고 메타분석 불가·전부 비무작위 (OCEBM Level 3–4) ·검정력 산정 없음 — 방향성 안심이지 동등성 입증이 아니다. [확인]
 > - GBR은 끊김 없는 16–24주 차단 기능이 필요 — 치주재생술 (GTR) 의 4–6주보다 3~6배 길며, 가교화 안 된 천연 콜라겐막은 2–4주에 흡수되어 critically 부족하다 (Sasaki 2021). 이 시간 격차가 가교화 (crosslinking) 전략의 핵심 동기.
@@ -35,7 +35,7 @@ tags: [gbr, barrier-membrane, collagen, edc-crosslink, ptfe, titanium-mesh, prog
 
 ## Three-line Summary
 
-Synthesis of 17 papers (6 narrative reviews, 6 animal studies, 1 prospective trial, 3 SRs, 1 bench study): GBR barrier membranes divide by a single upstream variable — resorbability — with crosslinking chemistry determining whether a collagen membrane meets the 16–24-week GBR barrier-function threshold (native collagen only lasts 2–4 weeks; EDC and ribose crosslinking extend this adequately).
+Synthesis of 20 papers (6 narrative reviews, 6 animal studies, 2 prospective studies, 3 SRs, 1 bench study, 2 consensus reports): GBR barrier membranes divide by a single upstream variable — resorbability — with crosslinking chemistry determining whether a collagen membrane meets the 16–24-week GBR barrier-function threshold (native collagen only lasts 2–4 weeks; EDC and ribose crosslinking extend this adequately).
 
 Space maintenance requires graft support in all cases (membrane-alone collapses at 2 weeks; Park 2015), defect type governs membrane resorbability choice (horizontal → crosslinked collagen; vertical → non-resorbable), and for dehiscence defects the membrane's primary role may be graft containment rather than osteogenesis induction.
 
@@ -43,7 +43,7 @@ Next-generation "programmable interface" membranes targeting macrophage M1→M2 
 
 ## 세줄요약
 
-17편(서술적 고찰 6·동물 6·임상 전향 1·SR 3·벤치 1) 종합: 골유도재생술(Guided Bone Regeneration, GBR) 차폐막은 흡수성/비흡수성이라는 단일 상류 변수로 분기하며, 가교화(crosslinking) 전략이 콜라겐막의 16–24주 차단기능 충족 여부를 결정한다(천연 콜라겐은 2–4주에 흡수되어 부족, EDC·리보스 가교화가 해법).
+20편(서술적 고찰 6·동물 6·임상 전향 2·SR 3·벤치 1·합의문 2) 종합: 골유도재생술(Guided Bone Regeneration, GBR) 차폐막은 흡수성/비흡수성이라는 단일 상류 변수로 분기하며, 가교화(crosslinking) 전략이 콜라겐막의 16–24주 차단기능 충족 여부를 결정한다(천연 콜라겐은 2–4주에 흡수되어 부족, EDC·리보스 가교화가 해법).
 
 공간 유지는 모든 경우에 이식재가 필수(막 단독군은 2주에 함몰; Park 2015), 결손 유형이 막 선택을 결정하며(수평 → 가교화 콜라겐, 수직 → 비흡수성), 작은 이개열 결손에서 막의 역할은 골형성 촉진이 아닌 이식재 봉쇄일 수 있다.
 
