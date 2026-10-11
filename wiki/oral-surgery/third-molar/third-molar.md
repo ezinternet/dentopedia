@@ -2,7 +2,7 @@
 title: "구강외과·제3대구치(사랑니) — third-molar"
 authors: navigation
 year: 2026
-date: 2026-08-29
+date: 2026-10-11
 doi: N/A
 source: navigation
 category: oral-surgery/third-molar
@@ -15,20 +15,20 @@ tags: [navigation, category-index, third-molar]
 > [!summary] 한국어 핵심요약
 > - **분야**: 구강외과·제3대구치(사랑니)
 > - **범위**: Third molar (wisdom tooth) extraction — surgical indications/technique (flap design, bone removal, sectioning), coronectomy, pericoronitis, extraction complications (mandibular fracture, dry socket/alveolar osteitis), postop adjuncts (PRF/CGF, LLLT, cooled irrigation, pain management)
-> - **수록 논문**: 25편
+> - **수록 논문**: 26편
 
 ## Three-line Summary
 
 **Scope**: Third molar (wisdom tooth) extraction — surgical indications/technique (flap design, bone removal, sectioning), coronectomy, pericoronitis, extraction complications (mandibular fracture, dry socket/alveolar osteitis), postop adjuncts (PRF/CGF, LLLT, cooled irrigation, pain management)
-**Indexed papers**: 25 papers in `wiki/oral-surgery/third-molar/`.
+**Indexed papers**: 26 papers in `wiki/oral-surgery/third-molar/`.
 
 ## 세줄요약
 
 **분야**: 구강외과·제3대구치(사랑니)
-**수록 논문**: 25편
+**수록 논문**: 26편
 **하위 카테고리**: 없음
 
-## Papers in this Category (25)
+## Papers in this Category (26)
 
 | Paper |
 |---|
@@ -43,6 +43,7 @@ tags: [navigation, category-index, third-molar]
 | [[di-spirito-2025-re-intervention-rate-timing-indications|Re-Intervention Rate, Timing, and Indications Following Coronectomy of the Mandibular Third Molar: A Systematic Review of Systematic Reviews]] |
 | [[firoozi-2022-nonpharmacological-interventions-third-molar-pain-sr|Nonpharmacological Complementary Interventions for the Management of Pain after Third Molar Surgery: An Umbrella Review of Current Meta-Analyses]] |
 | [[garola-2021-clinical-management-alveolar-osteitis-systematic|Clinical management of alveolar osteitis. A systematic review]] |
+| [[ghaeminia-2020-surgical-removal-retention-asymptomatic-impacted-wisdom|Surgical removal versus retention for the management of asymptomatic disease-free impacted wisdom teeth]] |
 | [[gonzalez-2025-low-level-laser-third-molar-complications-sr-ma|Effectiveness of Low-Level Diode Laser in the Management of Complications After Third-Molar Surgical Extraction: Systematic Review and Meta-analysis]] |
 | [[guillaumet-claure-2022-iatrogenic-mandibular-fracture-third-molar-sr|Prevalence of intraoperative and postoperative iatrogenic mandibular fractures after lower third molar extraction: A systematic review]] |
 | [[hajibagheri-2025-prf-alveolar-osteitis-post-extraction-sr|Platelet-Rich Fibrin for Post-Extraction Complications Including Alveolar Osteitis: A Systematic Review]] |
