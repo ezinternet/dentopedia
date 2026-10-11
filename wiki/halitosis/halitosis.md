@@ -2,7 +2,7 @@
 title: "구취 — halitosis"
 authors: navigation
 year: 2026
-date: 2026-08-11
+date: 2026-10-11
 doi: N/A
 source: navigation
 category: halitosis
@@ -15,20 +15,20 @@ tags: [navigation, category-index, halitosis]
 > [!summary] 한국어 핵심요약
 > - **분야**: 구취
 > - **범위**: Halitosis etiology (VSC, bacteria, systemic), prevalence, measurement (organoleptic/halitometric), management (oral hygiene, probiotics, PDT), systemic associations (periodontitis, H. pylori, OHRQoL)
-> - **수록 논문**: 14편
+> - **수록 논문**: 15편
 
 ## Three-line Summary
 
 **Scope**: Halitosis etiology (VSC, bacteria, systemic), prevalence, measurement (organoleptic/halitometric), management (oral hygiene, probiotics, PDT), systemic associations (periodontitis, H.
-**Indexed papers**: 14 papers in `wiki/halitosis/`.
+**Indexed papers**: 15 papers in `wiki/halitosis/`.
 
 ## 세줄요약
 
 **분야**: 구취
-**수록 논문**: 14편
+**수록 논문**: 15편
 **하위 카테고리**: 없음
 
-## Papers in this Category (14)
+## Papers in this Category (15)
 
 | Paper |
 |---|
@@ -36,6 +36,7 @@ tags: [navigation, category-index, halitosis]
 | [[cassiano-2021-halitosis-ohrqol-systematic-review-meta|The association between halitosis and oral-health-related quality of life: A systematic review and meta-analysis]] |
 | [[dou-2016-halitosis-helicobacter-pylori-meta-analysis|Halitosis and Helicobacter pylori infection: A meta-analysis]] |
 | [[huang-2022-efficacy-of-probiotics-in|Efficacy of probiotics in the management of halitosis: a systematic review and meta-analysis]] |
+| [[kumbargere-2019-interventions-managing-halitosis|Interventions for managing halitosis]] |
 | [[lopez-valverde-2022-role-probiotics-halitosis|Role of Probiotics in Halitosis of Oral Origin: A Systematic Review and Meta-Analysis of Randomized Clinical Studies]] |
 | [[memon-2022-aetiology-associations-halitosis-systematic|Aetiology and associations of halitosis: A systematic review]] |
 | [[mortazavi-2020-drug-related-halitosis-systematic|Drug-related Halitosis: A Systematic Review]] |
