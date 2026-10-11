@@ -7,7 +7,10 @@ category: [implants/peri-implantitis]
 pdf_path: /Users/oracleneo/llm-wiki/papers/soldini-2025-reconstructive-therapy-peri-implantitis-rct.pdf
 pdf_filename: soldini-2025-reconstructive-therapy-peri-implantitis-rct.pdf
 source_collection: external
+full_text: false
 ---
+
+> **Abstract-only** — publisher landing/abstract page saved as PDF (abstract and references only); full text not retrieved. Figures below are those reported in the abstract.
 
 ## Why Ingested
 
@@ -41,7 +44,7 @@ RCT(환자 34명): 비수술치료 후 재건수술과 지지치료만 비교 �
 - Intrabony defects ≥3 mm. Primary: mean radiographic bone change at 12 mo (Mann–Whitney). PROs assessed.
 
 ## 4. Key Results and Benchmarks
-- Disease resolution: NRG 8/18 (44.4%) vs RG 7/16 (43.8%), no significant difference.
+- Disease resolution: NRG 8 patients (44.4%) vs RG 7 patients (43.8%), no significant difference (abstract). Group sizes of 18 and 16 are inferred from the percentages and the 34 completers; the abstract does not state them.
 - Radiographic bone fill ~3× greater in RG: 1.21 ± 0.92 mm vs 0.36 ± 0.59 mm (significant).
 - No significant difference in clinical variables.
 
