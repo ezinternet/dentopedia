@@ -10,11 +10,14 @@ evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/soldini-2025-reconstructive-therapy-peri-implantitis-rct.pdf
 pdf_filename: soldini-2025-reconstructive-therapy-peri-implantitis-rct.pdf
 source_collection: external
+full_text: false
 tags: [peri-implantitis, reconstructive, bone-fill, RCT]
 relations:
   - type: reinforces
     target: monje-2025-surface-decontamination-reconstructive-peri-implantitis
 ---
+
+> **Abstract-only** — publisher landing/abstract page saved as PDF (abstract and references only); full text not retrieved. Figures below are those reported in the abstract.
 
 ## Three-line Summary
 
