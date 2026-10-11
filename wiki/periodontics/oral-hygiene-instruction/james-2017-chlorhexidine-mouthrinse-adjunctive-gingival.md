@@ -9,73 +9,65 @@ pmcid: "PMC6464488"
 source: james-2017-chlorhexidine-mouthrinse-adjunctive-gingival.md
 category: [periodontics/oral-hygiene-instruction]
 evidence_level: sr+ma
-source_collection: pubmed-text
-text_path: /Users/oracleneo/llm-wiki/papers/james-2017-chlorhexidine-mouthrinse-adjunctive-gingival.txt
-text_filename: james-2017-chlorhexidine-mouthrinse-adjunctive-gingival.txt
-full_text: false
+source_collection: external
+pdf_path: /Users/oracleneo/llm-wiki/papers/james-2017-chlorhexidine-mouthrinse-adjunctive-gingival.pdf
+pdf_filename: james-2017-chlorhexidine-mouthrinse-adjunctive-gingival.pdf
 tags: [chlorhexidine, mouthwash, gingivitis, plaque, cochrane]
 ---
 
 ## Three-line Summary
 
-Cochrane SR+MA (51 RCTs, n=5,345) evaluating CHX mouthrinse as an adjunct to mechanical oral hygiene in adults, assessing plaque, gingivitis, tooth staining, and adverse effects.
+Cochrane SR+MA of 51 parallel-group RCTs (5,345 participants analysed in the relevant arms) testing chlorhexidine (CHX) mouthrinse used for at least 4 weeks as an adjunct to mechanical oral hygiene in children and adults; 50 of 51 trials were at high risk of bias.
 
-CHX mouthrinse produced large plaque reduction (SMD −1.45, high certainty) and modest gingivitis reduction (GI −0.21, high certainty) at 4–6 weeks; tooth staining was large and consistent (SMD +1.07, moderate certainty); no evidence that any concentration (0.05%, 0.12%, 0.2%) was more effective than another.
+At 4 to 6 weeks CHX reduced plaque by SMD 1.45 (95% CI 1.00 to 1.90; high certainty) and the Gingival Index (GI, 0 to 3) by 0.21 (95% CI 0.11 to 0.31; high certainty) in people with mild gingivitis (mean GI about 1), a reduction the authors judge not clinically important, while extrinsic tooth staining increased (SMD 1.07, 95% CI 0.80 to 1.34; moderate certainty).
 
-CHX is a well-supported adjunct for plaque/gingivitis control, but tooth staining at any concentration should be discussed with patients, and concentration choice can be guided by tolerability rather than efficacy.
+CHX suits particular clinical situations for short periods: no concentration or rinse frequency was shown to be better, the effect in moderate to severe gingivitis (mean GI 1.1 to 3) is unknown, and staining, taste and mucosal adverse effects must be weighed against benefit.
 
 ## 세줄요약
 
-코크란 SR+MA (51 RCT, 5,345명) — 기계적 구강위생 보조제로서 CHX 가글의 치태·치은염·착색·부작용 평가.
+코크란 체계적 문헌고찰·메타분석 (Systematic Review and Meta-Analysis, SR+MA): 소아·성인에서 기계적 구강위생의 보조제로 4주 이상 쓴 클로르헥시딘 (Chlorhexidine, CHX) 가글 평행군 무작위 대조 임상시험 (Randomized Controlled Trial, RCT) 51편 (해당 군 5,345명); 50편이 높은 비뚤림 위험 (risk of bias).
 
-치태 대폭 감소(SMD −1.45, 고품질), 치은지수(GI) 소폭 감소(−0.21, 고품질); 치아 착색 일관되게 증가(SMD +1.07, 중등도 품질); 0.05%·0.12%·0.2% 농도 간 효능 차이 없음.
+4~6주에서 치태 (plaque) SMD 1.45 감소 (95% CI 1.00~1.90; 고확실성), 치은지수 (Gingival Index, GI, 0~3) 0.21 감소 (95% CI 0.11~0.31; 고확실성)였으나 평균 GI 약 1의 경도 염증군이라 저자들은 임상적으로 중요하지 않다고 평가; 외인성 치아 착색 (extrinsic tooth staining)은 SMD 1.07 증가 (중등도 확실성).
 
-CHX는 치태·치은염에 근거 충분한 보조요법이나, 모든 농도에서 착색 발생하므로 환자 상담 시 부작용 고지 필요; 농도 선택은 효능 아닌 내약성 기준으로 가능.
+CHX는 특정 임상 상황에서 단기간 사용이 적합하며, 농도·사용 빈도 간 우열은 입증되지 않았고, 중등도~중증 치은염 (평균 GI 1.1~3)의 효과는 불명이며, 착색·미각 이상·점막 이상반응과 이득을 저울질해야 한다.
 
 ## Summary
 
-클로로헥시딘 (Chlorhexidine, CHX) 가글은 치과에서 가장 널리 사용되는 화학적 항균 adjunct다. 이 Cochrane SR+MA는 51 RCT, 5,345명을 분석해 고품질 근거를 제시했다.
-
-**효능 요약**:
-- **치태 감소**: SMD −1.45 (95% CI −1.00 to −1.90) at 4–6 weeks — 대폭 감소, 고품질 근거
-- **치은염 감소**: GI −0.21 (CI −0.11 to −0.31) — 통계적 유의하나 임상적 중요성은 낮음 (경도 염증 기준)
-- **6개월 지속 사용**: 4–6주와 유사한 효과 크기 유지
-
-**핵심 결론 — 농도별 차이 없음**: 데이터 부족으로 0.05%/0.12%/0.2% 간 효능 차이를 결정할 수 없다. "There is no evidence that one concentration of chlorhexidine rinse is more effective than another."
-
-**부작용**:
-- 치아 착색: SMD +1.07 (CI 0.80–1.34) — 대폭 증가; 4주 이상 사용 시 일관됨
-- 미각 이상 (11 studies), 구강점막 염증·궤양·각질박리 (13 studies), 구강작열감 (9 studies)
-- 치석(calculus) 형성 효과: 불명확
+Chlorhexidine (CHX) is the most widely used chemical antiplaque agent in dentistry. This Cochrane review (Issue 3, 2017; searched to 28 September 2016; status "Stable" after the 2021 note) pooled 51 parallel-group RCTs (6,995 participants overall, 5,345 in the arms relevant to the question). After 4 to 6 weeks of use CHX lowered plaque by a large margin (SMD 1.45) and the Gingival Index by 0.21 unit; a similar effect (about 0.20) held at 6 months. Because the pooled GI data come from people with mild inflammation (control mean 0.93), the authors do not consider the gingivitis change clinically relevant, and no conclusion can be drawn for mean GI 1.1 to 3. Gingival bleeding showed a moderate effect (a 7% reduction in bleeding sites at 4 to 6 weeks, 4% at 6 months). Extrinsic staining was large and consistent, calculus was inconclusive at 1 to 3 months but higher at 6 months, and taste disturbance, mucosal soreness or desquamation and burning sensation were reported in 11, 13 and 9 trials. No concentration (0.2% in 10 trials, 0.12% in 29, 0.1% in 2, 0.05% to 0.06% in 4) or frequency was shown to be better, and the low-concentration evidence on gingivitis was unclear.
 
 ## Key Contributions
 
-1. **고품질 근거** — Cochrane 방법론, 51 RCT 통합
-2. **농도 임계값 부재** — 0.05%·0.12%·0.2% 모두 효과적이라는 근거로 사용 가능
-3. **중등·중증 치은염(GI 1.1–3)에 대한 데이터 부족** — 효과 불명확, 추가 연구 필요
-4. **착색 부작용 객관화** — SMD 1.07 수치로 임상 상담 근거 제공
+1. **Plaque**: high-certainty large reduction at 4 to 6 weeks (SMD 1.45) and 6 months; about 0.5 unit on the 0 to 3 Plaque Index and 0.75 unit on the 0 to 5 Turesky-Quigley-Hein index.
+2. **Gingivitis**: GI -0.21 (95% CI -0.31 to -0.11) at 4 to 6 weeks, high certainty but not clinically important at mean GI about 1; evidence for moderate or severe gingivitis is insufficient.
+3. **Concentration and frequency**: no evidence that one concentration or once versus twice daily rinsing differs; only five trials tested 0.05% or 0.06%, with a clear plaque effect but an unclear gingivitis effect.
+4. **Adverse effects quantified**: staining SMD 1.07 (moderate certainty; RR 5.41, 95% CI 2.03 to 14.47 in two trials with dichotomous data); calculus SMD 0.60 (95% CI 0.24 to 0.96) at 6 months versus placebo or control.
+5. **Practice position**: indicated for particular situations for short periods; prolonged use in people with special care needs who cannot clean mechanically must be carefully weighed against adverse effects.
 
 ## Methodology
 
-- **Selection**: ≥4주 CHX 가글 + 기계적 구강위생 RCTs
-- **Participants**: 아동·성인; 치은염·치주염·건강인·전신질환자 포함
-- **Comparators**: 위약/대조 가글 or 기계적 구강위생 단독
-- **Analysis**: Random-effects; MD (동일 척도), SMD (다중 척도)
+- **Eligibility**: RCTs of CHX mouthrinse for at least 4 weeks as an adjunct to mechanical oral hygiene, versus mechanical hygiene alone or placebo or control rinse; children and adults, with gingivitis, periodontitis, healthy, or with medical conditions or special care needs.
+- **Searches**: Cochrane Oral Health Trials Register, CENTRAL, MEDLINE, Embase and CINAHL to 28 September 2016, plus ClinicalTrials.gov and WHO ICTRP; no language or date limits.
+- **Review process**: independent duplicate screening, extraction and risk-of-bias assessment; MD or SMD for continuous outcomes, RR for dichotomous outcomes; random-effects models; GRADE.
+- **Trials**: 6 in children (8 to 16 years), adults 17 to 94 years; follow-up 4 weeks to 24 months (most 6 months or less); 36 trials gave a baseline prophylaxis; rinsing was unsupervised in 38; 19 industry-funded.
 
 ## Results
 
-| Outcome | Effect | Quality |
-|---|---|---|
-| Plaque (4–6 wks) | SMD −1.45 (CI −1.00 to −1.90) | High |
-| Gingivitis/GI (4–6 wks) | MD −0.21 (CI −0.11 to −0.31) | High |
-| Tooth staining | SMD +1.07 (CI 0.80–1.34) | Moderate |
-| Concentration effect | Insufficient data | — |
-| Frequency effect (1x vs 2x/day) | Insufficient data | — |
+| Outcome | Effect | Studies / participants | Certainty |
+|---|---|---|---|
+| Gingival Index 4 to 6 weeks | MD -0.21 (95% CI -0.31 to -0.11) | 10 / 805 | High |
+| Plaque 4 to 6 weeks | SMD -1.45 (95% CI -1.90 to -1.00) | 12 / 950 | High |
+| Tooth staining 4 to 6 weeks | SMD +1.07 (95% CI 0.80 to 1.34) | 8 / 415 | Moderate |
+| Calculus 6 months | SMD +0.60 (95% CI 0.24 to 0.96) vs placebo/control | 3 / 232 | Not graded |
+| Calculus 4 to 6 weeks | SMD 0.02 (95% CI -0.09 to 0.14), inconclusive | 2 / 102 | Not graded |
+| Concentration; rinse frequency | insufficient evidence of any difference | — | — |
+
+- Effect sizes at 6 months were similar to those at 4 to 6 weeks for plaque and GI.
+- 50 of 51 trials were at high risk of bias (82% for blinding, because staining makes masking unlikely; 37 for selective reporting). GRADE was not downgraded for this for gingivitis and plaque on the authors' judgement that more research will not change the estimate; staining was downgraded one level.
 
 ## Related Papers
 
-- [[periodontics/solderer-2019-chlorhexidine-rinses-periodontal-surgery]] — 수술 후 CHX; 0.12% 권장
-- [[periodontics/oral-hygiene-instruction/figuero-2019-adjunctive-antiplaque-chemical-agents-gingivitis]] — NMA; 에센셜오일 > CHX ≥0.10%
-- [[periodontics/oral-hygiene-instruction/escribano-2010-low-concentration-chlorhexidine-periodontitis]] — 0.05% CHX + CPC RCT
-- [[periodontics/oral-hygiene-instruction/basudan-2023-chlorhexidine-salvadora-mouthwash-periodontal]] — 0.12% CHX vs SPM RCT
-- [[periodontics/non-surgical-instrumentation/dasilveira-2026-subgingival-irrigation-chemical-agents-nspt-sr-ma]] — 화학적 세정제 adjunct SR
+- [[periodontics/solderer-2019-chlorhexidine-rinses-periodontal-surgery]] — CHX after periodontal surgery
+- [[periodontics/oral-hygiene-instruction/figuero-2019-adjunctive-antiplaque-chemical-agents-gingivitis]] — network meta-analysis of chemical agents; essential oils versus CHX
+- [[periodontics/oral-hygiene-instruction/escribano-2010-low-concentration-chlorhexidine-periodontitis]] — 0.05% CHX with CPC RCT, the low-concentration question this review left open
+- [[periodontics/oral-hygiene-instruction/basudan-2023-chlorhexidine-salvadora-mouthwash-periodontal]] — 0.12% CHX versus Salvadora persica mouthwash RCT
+- [[periodontics/non-surgical-instrumentation/dasilveira-2026-subgingival-irrigation-chemical-agents-nspt-sr-ma]] — chemical irrigants as adjuncts to non-surgical therapy
