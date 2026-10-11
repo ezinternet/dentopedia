@@ -96,7 +96,7 @@ tags: [full-arch, all-on-four, all-on-six, fixed-complete-denture, implant-numbe
 
 ## Three-line Summary
 
-Synthesis of 33 papers on edentulous fixed full-arch implant rehabilitation spanning six axes: clinical outcomes (2 RCTs + retrospective cohorts + 3 SR+MAs + 2 SRs + 1 umbrella review), prosthetic material and design (SR+MA + SR + large retrospectives + in vitro), CAD design thresholds (CSSA, CL/CSCA, CL/SAOL, zirconia height), retention systems (conometric vs screw: clinical + in vitro), biomechanics (FEA), and two independent consensus processes plus an atrophic-maxilla alternative pathway.
+Synthesis of 50 papers on edentulous fixed full-arch implant rehabilitation spanning six axes: clinical outcomes (2 RCTs + retrospective cohorts + 3 SR+MAs + 2 SRs + 1 umbrella review), prosthetic material and design (SR+MA + SR + large retrospectives + in vitro), CAD design thresholds (CSSA, CL/CSCA, CL/SAOL, zirconia height), retention systems (conometric vs screw: clinical + in vitro), biomechanics (FEA), and two independent consensus processes plus an atrophic-maxilla alternative pathway.
 
 Core findings: survival 4 ≈ 6 at SR+MA level (Shao 2026: ≥5yr 98.14% vs 97.50%); prosthetic material evidence now at SR+MA level (Marinkovic 2026: metal-zirconia wear RR=0.29, peri-implantitis RR=0.67); 17-year complication trajectory confirms Ti-resin as worst-performing material (HR=4.25); CAD thresholds quantified (CSSA ≥80mm²; CL/CSCA<0.51; CL/SAOL<1.48); conometric retention is a viable maintenance-reducing option for permanent prostheses; V-shaped mandible and inter-implant distance are plannable MBR modifiers.
 
@@ -104,7 +104,7 @@ Decision rule: six implants where anatomy allows; four is the evidence-backed mi
 
 ## 세줄요약
 
-무치악 고정성 풀아치 임플란트 전악 재건을 임상 성적·재료·CAD 설계 임계값·유지 방식·생체역학·합의 6축으로 종합한 33편; 피개의치 vs 고정성, 코노메트릭 유지, 악궁형태, 식립 파라미터 포함.
+무치악 고정성 풀아치 임플란트 전악 재건을 임상 성적·재료·CAD 설계 임계값·유지 방식·생체역학·합의 6축으로 종합한 50편; 피개의치 vs 고정성, 코노메트릭 유지, 악궁형태, 식립 파라미터 포함.
 
 생존 동등성 SR+MA 수준 확인(Shao 2026); 재료 SR+MA — 금속-지르코니아 마모 RR=0.29(Marinkovic 2026); CAD 임계값 수치화(CSSA ≥80mm², CL/CSCA<0.51); 코노메트릭 임상 근거(Biscaro 2026); 17년 장기 — Ti-레진 HR=4.25(Pelser 2026); V형 하악 MBR 차이 전향 확인(Garza 2026).
 
