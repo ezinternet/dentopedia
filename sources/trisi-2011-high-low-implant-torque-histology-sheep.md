@@ -5,8 +5,8 @@ year: 2011
 doi: ""
 pmid: "21841994"
 category: implants/isq
-pdf_path: ""
-pdf_filename: ""
+pdf_path: 
+pdf_filename: 
 full_text: false
 source_collection: pubmed-abstract
 ---
