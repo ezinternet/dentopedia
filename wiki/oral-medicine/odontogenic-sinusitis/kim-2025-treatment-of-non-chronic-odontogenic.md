@@ -54,6 +54,22 @@ This retrospective case series from the Department of Oral and Maxillofacial Sur
 - **Intervention**: CBCT-guided removal of the causative tooth/implant; intentional perforation with a 19-gauge needle; saline irrigation; immediate empiric antibiotics, then culture-and-sensitivity-guided antibiotics.
 - **Endpoint**: resolution of pus discharge, symptoms and radiographic sinusitis signs; recurrence prompted otolaryngology referral.
 
+## Protocol Detail (as written in the full text)
+1. **Work-up**: CBCT (plus initial radiographs, CT and Waters' view in some patients) to identify the causative tooth/implant; unilateral disease only. Teeth were removed when judged non-restorable after endodontic or periodontal therapy.
+2. **Removal + perforation (same visit, local anesthesia)**: extract the tooth or remove the implant, then intentionally perforate the sinus through the socket with a 19-gauge needle so the sinus drains into the mouth. A large pus discharge followed in the illustrated case.
+3. **Culture**: microbial culture and sensitivity were taken (in the illustrated case at the perforation visit).
+4. **Irrigation**: saline through the drainage route. Patient **upright**, **pus pan under the chin**, and told to say **"Ah"** during irrigation to lower aspiration risk, because discharge can pass out through the nose into the throat.
+5. **Antibiotics**: empiric antibiotic started immediately after extraction; changed to culture-guided therapy. Illustrated case: cephalexin 1 g bid x 5 days, then ciprofloxacin 500 mg bid x 7 days after penicillin resistance (Viridans streptococcus, Candida albicans, Staphylococcus aureus).
+6. **Repeat irrigations**: every 3 days to 2 weeks, depending on patient cooperation and amount of discharge (illustrated case: every 2 weeks, with discharge falling markedly).
+7. **Endpoint**: stop when pus discharge, symptoms and radiographic sinusitis signs have resolved. If symptoms recur, consult otolaryngology. Stop rule: no irrigation flow or no drainage improvement after 2-3 irrigations leads to a search for non-odontogenic causes and ENT collaboration.
+8. **Patency check**: saline injected via the socket was seen emerging from the nose in all patients, taken as evidence the natural ostium was patent.
+
+Design choice stated by the authors: a sutured indwelling drainage tube is possible but carries a significant oroantral-fistula risk, so repeated syringe irrigation was used instead (no fistula in this series).
+
+**Not specified in the retrieved text** (do not infer): irrigation volume per session, irrigant temperature or additives, needle entry point and angle in the socket, syringe/cannula type, how the 19-gauge needle was connected for irrigation, and whether a needle was left in place. Table 1 and Figures 1-3 were not available.
+
+Antibiotic background cited by the authors (from other literature, not their own data): at least 14 days or 7 days beyond symptom resolution, some advocating up to 28 days; amoxicillin first-line for most acute cases; broader anaerobic cover with a beta-lactamase inhibitor (amoxicillin/clavulanate) or clindamycin, metronidazole in combination; levofloxacin, tetracyclines or moxifloxacin in refractory cases. Their Case 2 resolved with lavage alone and no specific antibiotics, from which they speculate mechanical lavage may outperform antibiotics alone (single observation).
+
 ## Results
 | Outcome | Result |
 |---|---|
