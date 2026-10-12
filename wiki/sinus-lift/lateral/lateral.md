@@ -2,7 +2,7 @@
 title: "상악동거상술·측방 — lateral"
 authors: navigation
 year: 2026
-date: 2026-09-16
+date: 2026-10-12
 doi: N/A
 source: navigation
 category: sinus-lift/lateral
@@ -15,20 +15,20 @@ tags: [navigation, category-index, lateral]
 > [!summary] 한국어 핵심요약
 > - **분야**: 상악동거상술·측방
 > - **범위**: Lateral window approach, membrane, grafting materials
-> - **수록 논문**: 96편
+> - **수록 논문**: 99편
 
 ## Three-line Summary
 
 **Scope**: Lateral window approach, membrane, grafting materials
-**Indexed papers**: 96 papers in `wiki/sinus-lift/lateral/`.
+**Indexed papers**: 99 papers in `wiki/sinus-lift/lateral/`.
 
 ## 세줄요약
 
 **분야**: 상악동거상술·측방
-**수록 논문**: 96편
+**수록 논문**: 99편
 **하위 카테고리**: 없음
 
-## Papers in this Category (96)
+## Papers in this Category (99)
 
 | Paper |
 |---|
@@ -51,10 +51,12 @@ tags: [navigation, category-index, lateral]
 | [[elsholkamy-2026-bioabsorbable-screws-graftless-sinus-rct|Clinical, radiographic and histomorphometry evaluation of the osteogenic potential of Schneiderian membrane after graftless maxillary sinus augmentation: a randomized controlled clinical trial]] |
 | [[estrin-2025-extended-prf-lateral-window-sinus|Extended Platelet-Rich Fibrin as a Membrane for Lateral Window Sinus Lifts: A Case Series]] |
 | [[felisati-2012-late-recovery-foreign-body-sinusitis|Late recovery from foreign body sinusitis after maxillary sinus floor augmentation]] |
+| [[gai-2026-tapered-cylindrical-lsfe-isq-rct|Tapered vs Cylindrical Implants at Simultaneous Lateral Sinus Elevation: ISQ RCT]] |
 | [[gulbey-2026-osteomeatal-complex-variations-maxillary|Association Between Osteomeatal Complex Variations and Maxillary Sinus Membrane Thickness: A CBCT Study]] |
 | [[gulec-2025-psaa-cbct-maxillary-sinus-anatomy|Evaluation of maxillary sinus pathologies and the posterior superior alveolar artery canal using cone-beam computed tomography]] |
 | [[hegde-2016-sinus-augmentation-membrane-elevation-sr|Maxillary sinus augmentation using sinus membrane elevation without grafts - A Systematic Review]] |
 | [[henriques-2022-maxillary-sinus-septa-prevalence-sr-ma|Prevalence of maxillary sinus septa: systematic review and meta-analysis]] |
+| [[hong-2017-novel-approach-to-the-maxillary|Novel approach to the maxillary sinusitis after sinus graft]] |
 | [[jelusic-2014-assessment-implant-stability-sinus-lift|Assessment of Implant Stability Following Sinus Lift Procedures with Different Grafting Materials]] |
 | [[jue-2025-maxillary-sinus-floor-augmentation-autogenous-bone|Maxillary Sinus Floor Augmentation With Autogenous Bone Versus Bovine Bone Mineral Mixed With 25% Autogenous Bone: A 1-Year Multicenter, Split-Mouth, Randomized Controlled Trial]] |
 | [[kashi-2023-accessory-maxillary-ostium-sinusitis-cbct|Frequency of Accessory Maxillary Ostium in Patients With/Without Sinusitis, and Its Correlation with Anatomical Variations of Paranasal Sinuses: A Cone Beam Computed Tomography Study]] |
@@ -63,6 +65,7 @@ tags: [navigation, category-index, lateral]
 | [[khalil-2024-posterior-maxillary-teeth-sinus-mucosal-thickening|The Impact of Posterior Maxillary Teeth on Maxillary Sinus: Insights From Cone-Beam Computed Tomography Analysis]] |
 | [[khiabani-2024-sinus-membrane-thickness-lsfe-mucosal|Changes in the Maxillary Sinus Membrane Thickness and Sinus Health Following Lateral Sinus Floor Elevation: Comparing Preoperative Mucosal Thicknesses of < 5 mm and > 5 mm]] |
 | [[kim-2007-maxillary-sinus-volume-ct-graft-placement|CT-based maxillary sinus volume measurement for graft material estimation (case-control)]] |
+| [[kim-2010-diagnosis-and-treatment-of-maxillary|Diagnosis and treatment of maxillary sinusitis after implant placement]] |
 | [[kim-2019-maxillary-implants-otolaryngologist-perspective|Points to consider before the insertion of maxillary implants: the otolaryngologist's perspective]] |
 | [[kim-2023-sinus-mucosal-thickness-change-otolaryngologists|Change in Maxillary Sinus Mucosal Thickness in Patients with Preoperative Maxillary Sinus Mucosal Thickening as Assessed by Otolaryngologists: A Retrospective Study]] |
 | [[kim-2026-collagen-membrane-fibrin-sinus-perforation|Resorbable Collagen Membrane and Fibrin Glue Application with a Handle Design for Repairing Sinus Membrane Perforation]] |
