@@ -70,7 +70,7 @@ all-on-x 서베일런스 첫 백필(2026-10-07)에서 큐 적립. 전악 즉시�
 | PI 36mo | 2.5±1.3 | 2.0±1.3 | 0.095 |
 | Loose abutment screws | 2 | 5 | 0.394 |
 
-- **Implant failures**: 2개(1 EHC 3개월, 1 IHC 6개월) — 즉시 재식립·보철 수리 후 계속
+- **Implant failures**: 2개(1 IHC 3개월, 1 EHC 6개월) — 즉시 재식립·보철 수리 후 계속
 - **Biologic complications**: 0건
 - **Technical complications**: 나사풀림 7건(절반 이하), 레진 비니어 파절 1건(이갈이 환자, 24개월)
 - **Center effect**: 제노바군 IHC에서 MBL 유의하게 더 큼(p<0.001), 토리노군 BoP 유의하게 더 높음(p=0.008)
