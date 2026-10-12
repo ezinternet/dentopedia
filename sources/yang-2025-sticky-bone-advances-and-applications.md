@@ -4,8 +4,8 @@ authors: "Yang Z, Zhai S, Liu Y, Wu Y, He T, Shi X, Chu S"
 year: 2025
 doi: "10.2147/IJN.S524115"
 category: "bone-regeneration"
-pdf_path: "/papers/yang-2025-sticky-bone-advances-and-applications.pdf"
-pdf_filename: "yang-2025-sticky-bone-advances-and-applications.pdf"
+pdf_path: /papers/yang-2025-sticky-bone-advances-and-applications.pdf
+pdf_filename: yang-2025-sticky-bone-advances-and-applications.pdf
 ---
 
 ## Why Ingested
