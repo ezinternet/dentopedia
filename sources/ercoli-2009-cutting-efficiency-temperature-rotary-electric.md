@@ -4,8 +4,8 @@ authors: "Ercoli C, Rotella M, Funkenbusch PD, Russell S, Feng C"
 year: 2009
 doi: "10.1016/S0022-3913(09)60064-0"
 category: [dental-handpiece]
-pdf_path: ""
-pdf_filename: ""
+pdf_path: 
+pdf_filename: 
 source_collection: pubmed-abstract
 ---
 
