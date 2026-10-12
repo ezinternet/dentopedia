@@ -13,8 +13,8 @@ ptypes: ["Randomized Controlled Trial"]
 evidence_level: "rct"
 source_collection: "pubmed-text"
 full_text: true
-text_path: "/Users/oracleneo/llm-wiki/papers/cattoni-2021-digital-smile-designed-computer-aided.txt"
-text_filename: "cattoni-2021-digital-smile-designed-computer-aided.txt"
+text_path: /Users/oracleneo/llm-wiki/papers/cattoni-2021-digital-smile-designed-computer-aided.txt
+text_filename: cattoni-2021-digital-smile-designed-computer-aided.txt
 ---
 
 ## Why Ingested
