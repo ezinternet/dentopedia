@@ -67,6 +67,14 @@ At 1-year follow-up: complete resolution of sinus opacification, 100% implant su
 **Case 1**: rhinogenous CMS (59M, smoker, edentulous maxilla); 3 implants (Ø3.8 × 10 mm); nasal polyp at middle meatus blocking ostium
 **Case 2**: odontogenic CMS (55M, smoker, hypertension); 4-tooth extraction simultaneous; 3 implants + 1 additional at uncovering; peri-implant defects covered with resorbable collagen membrane
 
+## Protocol Detail (full-text re-read)
+- **Why an incision, not a needle**: the authors cite an earlier study that drained through a 21-gauge aspiration needle in the centre of the elevated membrane. Here a long incision in the upper third of the exposed membrane (#15 blade) was chosen so the suction tip could reach freely in every direction and drainage could be thorough.
+- **Order matters**: drain and irrigate first, then elevate the membrane away from the perforation. Elevation relieved membrane tension, so the perforation shrank and moved buccally with mucosal folding; no repair or collagen barrier was used on it, and a Prichard elevator covered it during graft packing.
+- **Endpoint of irrigation**: saline "until inflammatory exudates and residues were no longer identified" (no volume given).
+- **Case differences**: Case 1 (rhinogenous, edentulous, polyp blocking the ostium) had no extraction; Case 2 had 4 teeth extracted at the same visit and implants placed 1.0-2.0 mm subcrestal with peri-implant gaps grafted and covered by a collagen membrane (the lateral window was not covered). Case 1 had transient nasal bleeding, facial swelling and hematoma.
+- **Authors' cautions**: drainage cannot widen the natural ostium or treat nasal polyps directly; there is no endoscopic view to control drainage; not suitable for routine use without experience (graft displacement through the perforation, graft contamination, persisting sinusitis); mild symptoms and infection limited to the maxillary sinus are the intended case selection.
+- **Not specified**: irrigation volume or device, whether the pus was cultured, ostial patency measured after surgery (it is inferred from polyp shrinkage in Case 1), follow-up beyond 1 year after loading.
+
 ## Results
 
 | Outcome | Case 1 | Case 2 |
