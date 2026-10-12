@@ -8,8 +8,8 @@ pmcid: PMC9541021
 source_collection: pmc
 full_text: true
 category: bone-regeneration/ridge-preservation
-pdf_path: ""
-pdf_filename: ""
+pdf_path: 
+pdf_filename: 
 ---
 
 ## Why Ingested
