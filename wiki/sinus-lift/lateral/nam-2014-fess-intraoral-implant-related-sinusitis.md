@@ -57,6 +57,12 @@ At 1-week follow-up, radiopacity decreased markedly though mucosal thickening pe
 - **Postoperative care**: Polyvinyl acetal nasal packing ×1 week
 - **Follow-up intervals**: 1 week, 10 months
 
+## Protocol Detail (full-text re-read)
+- **Irrigation endpoint**: after the natural ostium was surgically enlarged and the hyperplastic mucosa enucleated, the sinus was irrigated with normal saline until no free-floating particles remained; the sinus mucosa was not stripped.
+- **Why combined**: the authors judged an intraoral approach alone insufficient to remove the mucocele and possibly scattered graft particles; FESS cannot remove an implant protruding into the sinus, and intraoral surgery cannot repair ostiomeatal obstruction.
+- **Prior failed medical treatment**: 4 weeks of empiric penicillin and clindamycin, NSAIDs, expectorants and antihistamines without improvement.
+- **Not specified**: irrigation volume or route (the irrigation is part of the endoscopic procedure, not a serial bedside lavage), antibiotic after surgery.
+
 ## Results
 
 | Timepoint | Findings |
