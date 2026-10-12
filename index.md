@@ -4860,3 +4860,4 @@ tags: []
 ## Batch ingest (added 2026-10-12) — 상악동 세척술(lavage/irrigation) PubMed 서베일런스 (7편)
 - [[oral-medicine/odontogenic-sinusitis/kim-2025-treatment-of-non-chronic-odontogenic]] — 급성·아급성 치성 상악동염 7명(case-report): 발치/임플란트 제거 후 발치와 경유 상악동 세척(19G 천공+식염수+배양 기반 항생제), 평균 2.7±1.3회 세척으로 증상 해소·OAF 0건·FESS 회피 보고 (대조군 없음)
 - [[oral-medicine/odontogenic-sinusitis/jaiswal-2024-sinus-irrigation-as-an-adjunctive]] — 치성 상악동염 21명 후향 증례군: 소형 측방창 상악동 세척 후 CBCT 불투명도 16/21(76.1%) 감소, 증상 17/21(80.9%) 호전·악화 0 (대조군 없음)
+- [[oral-medicine/odontogenic-sinusitis/gang-2021-comparing-the-efficacy-of-sinus]] — 상악동 침범 대형 치성낭종 낭종적출술 후 카테터 상악동 세척 vs 칼드웰-뤽 RCT(n=40): 술후 1일 VAS 2.50 vs 4.15, 술후 2일 발열 5% vs 40%, 양군 전원 치유·36개월 재발 없음
