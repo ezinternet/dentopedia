@@ -8,8 +8,8 @@ source_collection: clear-aligner-pro-surveillance-2026-07
 full_text: true
 pmid: "41749653"
 source_url: "https://pubmed.ncbi.nlm.nih.gov/41749653/"
-text_path: "papers/gazzani-2026-mixed-dentition-2year-stability.txt"
-text_filename: "gazzani-2026-mixed-dentition-2year-stability.txt"
+text_path: papers/gazzani-2026-mixed-dentition-2year-stability.txt
+text_filename: gazzani-2026-mixed-dentition-2year-stability.txt
 ---
 
 ## Why Ingested
