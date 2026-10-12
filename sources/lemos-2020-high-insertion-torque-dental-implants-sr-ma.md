@@ -5,8 +5,8 @@ year: 2020
 doi: "10.1016/j.prosdent.2020.06.012"
 pmid: "32917400"
 category: implants/isq
-pdf_path: ""
-pdf_filename: ""
+pdf_path: 
+pdf_filename: 
 full_text: false
 source_collection: pubmed-abstract
 ---
