@@ -4,8 +4,8 @@ authors: "Lalli E, Caramaschi E, Nieri A, Vitale S, Ledda M, Porcu G, Delogu PL,
 year: 2026
 doi: "10.3390/medicina62061090"
 category: orthodontics/clear-aligner
-pdf_path: ""
-pdf_filename: ""
+pdf_path: 
+pdf_filename: 
 source_collection: pubmed-abstract
 ---
 
