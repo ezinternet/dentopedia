@@ -55,6 +55,17 @@ This trial from Fujian Medical University compared two ways of managing the maxi
 - **Group B (CDL)**: diseased and inflamed sinus membranes stripped; sinus packed for hemostasis.
 - **Outcomes and tests**: facial swelling day 2 (Wilcoxon rank sum), VAS pain day 1 (t-test), temperature elevation day 2 (chi-squared), CT clearance, recurrence, nasal obstruction and paresthesia to 36 months. Exact P values are not reported (P<0.05).
 
+## Protocol Detail (full-text re-read)
+1. **Pre-op**: non-vital involved teeth endodontically treated first. Anesthesia: intravenous-inhalation (general).
+2. **Cyst surgery**: gingival-fold or intrasulcular incision with vertical releasing cuts; enucleate the cyst together with the sinus membrane that cannot be separated; keep the remaining sinus mucosa as far as possible; secure hemostasis.
+3. **Drainage route**: inferior meatal antrostomy (IMA) with an antrostomy knife, entry at the thinnest bony portion of the cyst wall as judged on CT.
+4. **Catheter**: an epidural catheter passed through the antrostomy into the cyst cavity and fixed with sutures near the base of the nose; intraoral incision closed with absorbable sutures.
+5. **Antibiotic**: cefazolin 2000 mg IV twice daily for 3 days; sinus precautions for 2 weeks.
+6. **Irrigation**: 100 mL normal saline with a 20-mL syringe through the catheter, **twice a day**, patient's head lowered so fluid leaves through the nose; catheter removed 2 weeks after surgery.
+7. **Expected sequelae**: rhinorrhea with postnasal drip in all patients, usually gone within 2 weeks; swelling fell from day 3 and resolved within 1 week.
+
+**Not specified in the text**: irrigation pressure, who performed the irrigation (patient or staff, inpatient or home), antibiotic after day 3, how closure of the antrostomy was managed (the authors cite 82% of 367 antrostomies closed by 3 months from other literature), catheter-related problems. The conclusion's "restoration of the mucosa" was not measured objectively; outcomes were swelling, VAS, temperature, CT clearance and recurrence. The catheter lies in the cyst cavity, so this is postoperative cavity irrigation after cyst surgery, not irrigation of an odontogenic sinusitis without a cyst. Planned future work: place the catheter through the natural ostium with FESS.
+
 ## Results
 
 | Outcome | Group A (irrigation, n=20) | Group B (CDL, n=20) |
