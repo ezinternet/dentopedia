@@ -1,0 +1,49 @@
+{
+  "overview": "odontogenic-maxillary-sinus-lavage-overview",
+  "date": "2026-10-12",
+  "title": "상악동 세척(Sinus Lavage/Irrigation) — 리콜",
+  "source_wiki": [
+    "wiki/overviews/odontogenic-maxillary-sinus-lavage-overview.md"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "q": "보유 근거에서 상악동 세척(lavage)의 위치로 옳은 것은?",
+      "opts": [
+        "세척은 원인치 제거 없이 단독으로 치성 상악동염을 치료한다",
+        "보유한 모든 세척 프로토콜은 같은 회차에 감염원(원인치·임플란트·이식재·낭종)을 제거하며, 세척은 그 위에 얹는 배액 경로로 FESS·Caldwell-Luc와 경쟁한다",
+        "세척은 FESS보다 우월함이 RCT로 입증되었다",
+        "세척은 항생제 단독보다 우월함이 대조연구로 입증되었다"
+      ],
+      "ans": 1,
+      "rat": "Kim 2025(원인치/임플란트 제거)·Jaiswal 2024(염증 점막·이물 제거)·Hong 2017(임플란트·감염 이식재 제거)·Gang 2021(낭종적출)·Nahlieli(농 배출) 모두 감염원 제거와 같은 회차에 세척. 세척 vs FESS, 세척 vs 항생제 단독 비교 논문은 보유하지 않는다. 유일한 대조 비교는 Gang 2021(낭종 집단, Caldwell-Luc 대비).",
+      "cite": "overviews/odontogenic-maxillary-sinus-lavage-overview"
+    },
+    {
+      "id": "q2",
+      "q": "발치와 세척(Kim 2025, n=7)의 프로토콜로 옳은 것은?",
+      "opts": [
+        "전신마취 하 측방창을 열고 1회만 세척한다",
+        "국소마취 하 원인치/임플란트 제거 → 19G 바늘로 발치와 통해 상악동 천공 → 직립·턱 밑 농반·'아' 발성하며 생리식염수 세척 → 3일–2주 간격 반복; 식염수가 코로 나오면 자연공 개존, 2–3회 무반응이면 ENT",
+        "봉합 고정한 유치 배액관을 2주간 둔다",
+        "요오드 용액 100 mL를 하루 2회 주입한다"
+      ],
+      "ans": 1,
+      "rat": "Kim 2025: 평균 2.7±1.3회(중앙값 3, IQR 2–4)로 해소, 구강상악동루(OAF) 0건. 유치 배액관은 OAF 위험 때문에 피하고 반복 주사기 세척 사용. 세척량·바늘 진입 위치/각도·해당 증례군의 항생제 기간·추적 기간은 미기술.",
+      "cite": "overviews/odontogenic-maxillary-sinus-lavage-overview"
+    },
+    {
+      "id": "q3",
+      "q": "Gang 2021(RCT n=40) 하비도 개창 카테터 세척에 관한 옳은 설명은?",
+      "opts": [
+        "치성 상악동염 일반에서 FESS와 비교했다",
+        "대형 치성낭종 적출 후 경막외 카테터로 생리식염수 100 mL를 하루 2회 2주간 세척 — Caldwell-Luc 대비 술후 1일 VAS 2.50 vs 4.15, 발열 1/20 vs 8/20, 중증부종 2/20 vs 6/20, 치유율은 동일; 무작위화·배정은폐·눈가림 미기술",
+        "세척군이 치유율에서 우월했다",
+        "카테터 관련 합병증과 하비도 개창 개존율을 상세히 보고했다"
+      ],
+      "ans": 1,
+      "rat": "비교 대상은 FESS가 아닌 Caldwell-Luc이며 낭종 상황 한정. 전례 비루·후비루(대개 2주 내 소실). 양군 모두 치유, 8–12주 CT 소실, 36개월 낭종 재발 없음. 카테터 문제·개창 개존은 미보고(82%/367 폐쇄는 타 문헌 인용).",
+      "cite": "overviews/odontogenic-maxillary-sinus-lavage-overview"
+    }
+  ]
+}
