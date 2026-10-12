@@ -4,8 +4,8 @@ authors: "Cristian Martu, Maria-Alexandra Martu, George-Alexandru Maftei, Diana 
 year: 2022
 doi: "10.3390/diagnostics12071600"
 category: "oral-medicine/odontogenic-sinusitis"
-pdf_path: "/Users/oracleneo/llm-wiki/papers/martu-2022-odontogenic-sinusitis-diagnosis-treatment-narrative-review.pdf"
-pdf_filename: "martu-2022-odontogenic-sinusitis-diagnosis-treatment-narrative-review.pdf"
+pdf_path: /Users/oracleneo/llm-wiki/papers/martu-2022-odontogenic-sinusitis-diagnosis-treatment-narrative-review.pdf
+pdf_filename: martu-2022-odontogenic-sinusitis-diagnosis-treatment-narrative-review.pdf
 source_collection: "external"
 ---
 
