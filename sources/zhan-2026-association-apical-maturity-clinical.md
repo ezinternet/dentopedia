@@ -4,8 +4,8 @@ authors: "Zhan S, Yan Q, Zhang Y"
 year: 2026
 doi: "10.1016/j.identj.2026.109660"
 category: [endodontics/regenerative]
-pdf_path: ""
-pdf_filename: ""
+pdf_path: 
+pdf_filename: 
 source_collection: pubmed-abstract
 ---
 
