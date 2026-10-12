@@ -56,6 +56,14 @@ This case report describes a 47-year-old patient referred with foul odor, right 
 - **Drugs**: amoxicillin 500 mg, pseudoephedrine hydrochloride 60 mg, carbocisteine 750 mg and NSAIDs, three times daily for 21 days.
 - **Follow-up**: CT at 3.5 months.
 
+## Protocol Detail (full-text re-read)
+- **Access rationale**: the canine fossa is described as the thinnest part of the anterior sinus wall and easily accessed; antrostomy through it under (claimed) local anesthesia, office-based.
+- **Step order**: aspirate pus with a syringe and culture it; remove remaining infected graft with a suction-irrigation tip inserted through the window, "lightly irrigating" with saline; place a tube drain sutured to the gingiva; insert a flexible silastic suction tip into the right nostril toward the ostiomeatal complex; then irrigate copiously through the oral drain. The nostril tip is there to stop saline flowing out of the nose and mouth.
+- **Schedule**: four irrigation sessions 4 days apart; the oral drain was removed on the day of the last session.
+- **Contrast with Kim 2025**: [[oral-medicine/odontogenic-sinusitis/kim-2025-treatment-of-non-chronic-odontogenic]] deliberately avoided an indwelling oral drain because of oroantral-fistula risk and used repeated syringe irrigation. This case used a sutured drain, in place until the fourth session (about 12 days, inferred from four sessions 4 days apart), and does not report fistula status afterwards (neither fistula nor its absence is stated).
+- **Technique limits stated by the authors**: blind irrigation that needs accurate sinus anatomy knowledge. The advantages claimed over Caldwell-Luc and ESS (office-based, local anesthesia, lower cost) are not tested in this single case.
+- **Not specified**: irrigation volume per session, saline temperature or additives, drain caliber and material, anesthesia actually used, sex of the patient, follow-up beyond 3.5 months.
+
 ## Results
 
 | Outcome | Result |
