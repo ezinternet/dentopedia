@@ -8,8 +8,8 @@ source_collection: pubmed-abstract
 full_text: false
 category: bone-regeneration
 evidence_level: consensus
-pdf_path: ""
-pdf_filename: ""
+pdf_path: 
+pdf_filename: 
 ---
 
 ## Why Ingested
