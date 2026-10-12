@@ -7,8 +7,8 @@ doi: "10.3390/diagnostics12071600"
 source: "martu-2022-odontogenic-sinusitis-diagnosis-treatment-narrative-review.md"
 category: "oral-medicine/odontogenic-sinusitis"
 evidence_level: "narrative-review"
-pdf_path: "/Users/oracleneo/llm-wiki/papers/martu-2022-odontogenic-sinusitis-diagnosis-treatment-narrative-review.pdf"
-pdf_filename: "martu-2022-odontogenic-sinusitis-diagnosis-treatment-narrative-review.pdf"
+pdf_path: /Users/oracleneo/llm-wiki/papers/martu-2022-odontogenic-sinusitis-diagnosis-treatment-narrative-review.pdf
+pdf_filename: martu-2022-odontogenic-sinusitis-diagnosis-treatment-narrative-review.pdf
 source_collection: "external"
 tags: ["odontogenic-sinusitis", "narrative-review", "diagnosis", "treatment", "FESS", "Caldwell-Luc", "CBCT", "iatrogenic", "microbiology", "oroantral-fistula"]
 ---
