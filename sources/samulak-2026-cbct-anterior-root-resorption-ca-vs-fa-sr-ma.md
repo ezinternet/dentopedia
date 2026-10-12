@@ -4,8 +4,8 @@ authors: "Samulak R, Tomasik M, Tao N, Górski B, Mularczyk M, Machoy M"
 year: 2026
 doi: "10.17219/dmp/207333"
 category: [orthodontics/clear-aligner]
-pdf_path: ""
-pdf_filename: ""
+pdf_path: 
+pdf_filename: 
 source_collection: pubmed-abstract
 ---
 
