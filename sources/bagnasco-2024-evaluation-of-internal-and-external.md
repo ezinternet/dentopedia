@@ -28,20 +28,20 @@ Purpose: The aim of the present multicenter split-mouth controlled trial is to e
 
 Materials and Methods: Twenty patients were rehabilitated with immediately loaded fixed full-arch rehabilitations. All the implants presented the same macro- and micro-topography but different implant-abutment connection. IHC were used in one randomly selected side of the jaw and EHC was used in the other side. Outcome measures were implant survival rate, peri-implant marginal bone loss (MBL), plaque index (PI), probing depth (PD), and bleeding on probing (BoP) evaluated at 3, 6, 12, 36, and 72-month post-loading. Technical and biological complications were recorded.
 
-Results: In 20 patients, 43 EHC and 40 IHC implants were placed. Between 32 and 72 months of follow-up two patients withdrew (died) and no implants were lost. The cumulative implant survival rate was 100% for both groups. Mean MBL at 72 months was -2.0 mm (SD 0.8) for EHC and -1.9 mm (SD 0.7) for IHC (p=0.608). No statistically significant differences were found between the two groups at any time point for MBL, PD, BoP, or PI. MBL had a gradual increase throughout the follow-up period. Between 0 and 12 months it increased slightly to a value of 1.6 mm for EHC and 1.7 for IHC. This value increased slightly to a resorption of 2 mm in the EHC group and 1.9 mm in the IHC group at 72 months of follow-up.
+Results: In 20 patients, 43 EHC and 40 IHC implants were placed. Between 32 and 72 months of follow-up two patients withdrew (died) and no implants were lost. The cumulative implant survival rate was 97.44% for EHC implants and 97.22% for IHC implants (the only two failures — one IHC at 3 months, one EHC at 6 months — occurred early and were immediately re-inserted). Mean MBL at 72 months was -2.0 mm (SD 0.8) for EHC and -1.9 mm (SD 0.7) for IHC (p=0.608). No statistically significant differences were found between the two groups at any time point for MBL, PD, BoP, or PI. MBL had a gradual increase throughout the follow-up period. Between 0 and 12 months it increased slightly to a value of 1.6 mm for EHC and 1.7 for IHC. This value increased slightly to a resorption of 2 mm in the EHC group and 1.9 mm in the IHC group at 72 months of follow-up.
 
 Conclusions: Both external and internal hexagonal connections showed excellent and comparable clinical outcomes in immediately loaded full-arch rehabilitations over a 6-year follow-up period. The type of implant-abutment connection did not significantly influence implant survival, marginal bone loss, or peri-implant health parameters.
 
 ## Three-line Summary
 
 - 멀티센터 split-mouth RCT (n=20, 83개 임플란트), 즉시부하 전악에서 external hex(EHC) vs internal hex(IHC) 연결 6년 비교.
-- 6년 생존율 100% 양군, 72개월 MBL EHC 2.0mm vs IHC 1.9mm (p=0.608), PD/BoP/PI 모든 시점 무의미.
+- 6년 누적 생존율 EHC 97.44% / IHC 97.22%(초기 2개 탈락·즉시 재식립), 72개월 MBL EHC 2.0mm vs IHC 1.9mm (p=0.608), PD/BoP/PI 모든 시점 무의미.
 - 즉시부하 전악 프로토콜에서 연결 타입(EHC vs IHC)이 임상 결과에 유의한 영향 없음; 단일 시스템·소규모·분할구강 한계.
 
 ## 세줄요약
 
 - 멀티센터 split-mouth RCT (n=20, 83개 임플란트), 즉시부하 전악에서 external hex(EHC) vs internal hex(IHC) 연결 6년 비교.
-- 6년 생존율 100% 양군, 72개월 MBL EHC 2.0mm vs IHC 1.9mm (p=0.608), PD/BoP/PI 모든 시점 무의미.
+- 6년 누적 생존율 EHC 97.44% / IHC 97.22%(초기 2개 탈락·즉시 재식립), 72개월 MBL EHC 2.0mm vs IHC 1.9mm (p=0.608), PD/BoP/PI 모든 시점 무의미.
 - 즉시부하 전악 프로토콜에서 연결 타입(EHC vs IHC)이 임상 결과에 유의한 영향 없음; 단일 시스템·소규모·분할구강 한계.
 
 ## Introduction
@@ -89,7 +89,7 @@ Intraoral digital periapical radiographs with long parallel cone technique. Impl
 - No implant losses in either group
 
 ### Implant Survival
-- **Cumulative implant survival rate: 100% for both EHC and IHC at 72 months**
+- **Cumulative implant survival rate: EHC 97.44%, IHC 97.22% at 72 months** (p=0.9697; the 2 deceased patients' implants excluded from the denominator). The only 2 failures (1 IHC at 3 mo, 1 EHC at 6 mo, same as the 3-yr report) were immediately re-inserted; no further implant lost between 36 and 72 mo.
 - No statistically significant difference (Kaplan-Meier)
 
 ### Marginal Bone Loss (MBL)
@@ -121,7 +121,7 @@ Intraoral digital periapical radiographs with long parallel cone technique. Impl
 
 ## Discussion
 
-Both EHC and IHC demonstrated excellent long-term outcomes (100% survival at 6 years) in immediately loaded full-arch rehabilitations. The lack of significant difference in MBL (2.0 vs 1.9 mm at 6 years) suggests connection type does not critically influence bone remodeling in this clinical scenario.
+Both EHC and IHC demonstrated excellent long-term outcomes (CSR 97.44% vs 97.22% at 6 years; no implant lost after the first 6 months) in immediately loaded full-arch rehabilitations. The lack of significant difference in MBL (2.0 vs 1.9 mm at 6 years) suggests connection type does not critically influence bone remodeling in this clinical scenario.
 
 Previous in vitro studies favored IHC for reduced microbial leakage and screw loosening, but this clinical trial did not translate those findings into significant clinical differences. The split-mouth design controlled for patient-level confounders. MBL progression pattern (rapid first year, then gradual) aligns with literature.
 
@@ -129,12 +129,12 @@ Limitations: Small sample size (n=20), single implant system (Sweden & Martina),
 
 ## Conclusions
 
-In immediately loaded full-arch rehabilitations, both external and internal hexagonal connections yield comparable and excellent clinical outcomes over 6 years: 100% implant survival, similar MBL (~2 mm), and comparable peri-implant health. Connection type does not appear to be a determining factor for success in this protocol.
+In immediately loaded full-arch rehabilitations, both external and internal hexagonal connections yield comparable and excellent clinical outcomes over 6 years: CSR 97.4% vs 97.2% (two early failures, re-inserted), similar MBL (~2 mm), and comparable peri-implant health. Connection type does not appear to be a determining factor for success in this protocol.
 
 ## Key Points
 - RCT, split-mouth, 20 patients, 6-year follow-up
 - 43 EHC vs 40 IHC implants, same topography
-- 100% survival both groups at 72 months
+- CSR EHC 97.44% / IHC 97.22% at 72 months (2 early failures, immediately re-inserted)
 - MBL at 72 mo: EHC 2.0 mm, IHC 1.9 mm (p=0.608)
 - No differences in PD, BoP, PI at any time
 - No peri-implantitis; technical complications similar
