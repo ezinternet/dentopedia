@@ -4,8 +4,8 @@ authors: "Asgary S, Hosseini M, Baghban AA"
 year: 2026
 doi: "10.1186/s12903-026-07945-z"
 category: [endodontics]
-pdf_path: ""
-pdf_filename: ""
+pdf_path: 
+pdf_filename: 
 source_collection: pubmed-abstract
 ---
 
