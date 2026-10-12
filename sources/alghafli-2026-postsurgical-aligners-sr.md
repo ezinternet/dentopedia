@@ -8,8 +8,8 @@ source_collection: clear-aligner-pro-surveillance-2026-07
 full_text: true
 pmid: "41658753"
 source_url: "https://pubmed.ncbi.nlm.nih.gov/41658753/"
-text_path: "papers/alghafli-2026-postsurgical-aligners-sr.txt"
-text_filename: "alghafli-2026-postsurgical-aligners-sr.txt"
+text_path: papers/alghafli-2026-postsurgical-aligners-sr.txt
+text_filename: alghafli-2026-postsurgical-aligners-sr.txt
 ---
 
 ## Why Ingested
