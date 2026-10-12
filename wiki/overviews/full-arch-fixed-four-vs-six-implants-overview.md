@@ -71,6 +71,7 @@ tags: [full-arch, all-on-four, all-on-six, fixed-complete-denture, implant-numbe
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
+> - **갱신 2026-10-11 (미종합 16편 본문 편입 → 총 49편)**: 식립 시기·원위 지지(축 8), 연결부·PEEK 프레임워크(축 9), 디지털 인상(축 10)을 신설하고 관골 임플란트 4편·Gaonkar·Storelli를 기존 축에 편입. 결정 규칙은 불변이나 3가지 보완 — ① 관골 임플란트 장기(평균 8.3년) 임플란트 수준 생존율 95.9% vs 일반 98.7%(Uesugi 2026, p=0.0178), 부비동염이 주된 실패 양상(Fan 2026 28.5%), 구개측 플랫폼 HR 18.2; ② PEEK 프레임워크는 1년·30명 RCT에서 주위 조직 지표가 좋았으나(Aboelez 2026) 적합도는 불량(Emam 2025) — '강성 프레임워크 우선' 원칙 유지; ③ 축성 vs 경사 임플란트 생존율 동등(Gaonkar 2021). Pera 2021·Bagnasco 2024는 동일 코호트의 3년·6년 보고이며 임플란트 탈락 수가 서로 어긋나 생존율 수치 인용은 보류.
 > - **갱신 2026-10-06 (서베일런스 2차 +14편 → 총 33편)**: Tier A 9편(재료 SR+MA·베니어 SR·보철 유형 SR+MA·장기 합병증·지르코니아 CAD 임계값·코노메트릭·재료 비교) + Tier B 5편(식립 파라미터·악궁형태·술기 시간·분절형 디지털·지르코니아 높이) 추가. 핵심 결론은 유지되나 실질적 갱신 5가지 — ① 재료 근거 SR+MA 수준 확립(Marinkovic 2026), ② 구체적 CAD 설계 임계값 수치화(Papaspyridakos, Tirone), ③ 코노메트릭 유지 옵션 임상 근거 확보(Biscaro), ④ 임시 vs 최종 보철의 보철 유형(고정 vs 피개의치) SR+MA 비교(Lan 2025), ⑤ 악궁 형태·식립 파라미터의 계획 변수화(Garza, Midha).
 > - **무치악 고정성 풀아치 수복에서 임플란트 4개 vs 6개 결정**을 임상 성적(생존·변연골·합병증), 생체역학(유한요소분석, Finite Element Analysis, FEA), 2개 컨센서스 프로세스로 종합. 핵심 긴장: **생존율은 4개 ≈ 6개, 그러나 합병증·생체역학·합의는 5–6개 쪽**. 기본값은 **"해부학이 허락하면 5–6개, 4개는 근거가 받쳐주는 최소치"**.
 > - **SR+MA 수준 확인 (Shao 2026, 55편)**: 단기(1년) 생존율 All-on-4 99.20% / All-on-6 100%; 장기(≥5년) 98.14% / 97.50% — 모두 비열등. 단 장기 변연골소실(MBL) All-on-4 1.28 mm vs All-on-6 0.94 mm로 5년 이후 분기.
@@ -96,15 +97,15 @@ tags: [full-arch, all-on-four, all-on-six, fixed-complete-denture, implant-numbe
 
 ## Three-line Summary
 
-Synthesis of 50 papers on edentulous fixed full-arch implant rehabilitation: 33 are synthesized in the body across seven axes — clinical outcomes (2 RCTs + retrospective cohorts + 3 SR+MAs + 2 SRs + 1 umbrella review), biomechanics (FEA), consensus (two independent processes plus an Italian GRADE conference), prosthetic material and design (SR+MA + SR + large retrospectives + in vitro), CAD design thresholds (CSSA, CL/CSCA, CL/SAOL, zirconia height), retention systems (conometric vs screw: clinical + in vitro), and treatment modality (overdenture vs fixed SR+MA) — together with an atrophic-maxilla pathway (zygomatic/trans-sinus) and planning variables (arch morphology, segmented digital workflow). The other 17 are catalogued with one-line findings in Related Papers but not yet synthesized: timing/loading, long-term survival and complications, connection design, digital impression workflow, zygomatic/narrow-diameter alternatives, and patient-reported outcomes.
+Synthesis of 49 papers on edentulous fixed full-arch implant rehabilitation across ten axes: clinical outcomes (RCTs, retrospective cohorts, SR+MAs, an umbrella review; axial vs tilted), an atrophic-maxilla pathway (trans-sinus and zygomatic implants, including long-term and rescue series and one QoL RCT), biomechanics (FEA), consensus (two independent processes plus an Italian GRADE conference), prosthetic material, CAD design thresholds, retention systems (conometric vs screw), treatment modality (overdenture vs fixed; narrow-diameter implants as an overdenture-only boundary), planning variables (arch morphology, segmented digital workflow), surgical timing and distal support, connection design and PEEK vs zirconia frameworks, and digital impression workflow.
 
-Core findings: survival 4 ≈ 6 at SR+MA level (Shao 2026: ≥5yr 98.14% vs 97.50%); prosthetic material evidence now at SR+MA level (Marinkovic 2026: metal-zirconia wear RR=0.29, peri-implantitis RR=0.67); 17-year complication trajectory confirms Ti-resin as worst-performing material (HR=4.25); CAD thresholds quantified (CSSA ≥80mm²; CL/CSCA<0.51; CL/SAOL<1.48); conometric retention is a viable maintenance-reducing option for permanent prostheses; V-shaped mandible and inter-implant distance are plannable MBR modifiers.
+Core findings: survival 4 ≈ 6 at SR+MA level (Shao 2026: ≥5yr 98.14% vs 97.50%); prosthetic material evidence now at SR+MA level (Marinkovic 2026: metal-zirconia wear RR=0.29, peri-implantitis RR=0.67); 17-year complication trajectory confirms Ti-resin as worst-performing material (HR=4.25); CAD thresholds quantified (CSSA ≥80mm²; CL/CSCA<0.51; CL/SAOL<1.48); conometric retention is a viable maintenance-reducing option for permanent prostheses; V-shaped mandible and inter-implant distance are plannable MBR modifiers. Supplementary evidence (2026-10-11) is non-inferiority-consistent: axial vs tilted, immediate vs delayed placement, 4-mm distal implants vs sinus lift, external vs internal hex, and digital vs conventional impression all show equivalent short-to-medium-term outcomes; zygomatic implants are high-performing but below conventional implants at 8 years (95.9% vs 98.7%) with sinusitis the main failure mode; PEEK frameworks show better 1-year peri-implant readings (n=30) but poorer fit and remain unproven.
 
 Decision rule: six implants where anatomy allows; four is the evidence-backed minimum with rigid zirconia/Ti framework, minimal cantilever within CAD thresholds, and structured lifelong maintenance (non-compliance OR=14.59; 100% minor complications by 4–10yr); for severe maxillary atrophy, trans-sinus or zygomatic hybrid pathway; implant positioning (C/AP <1.0, cantilever <11mm, angulation <15°) and arch morphology (V-shaped mandible) are actionable pre-operative planning variables.
 
 ## 세줄요약
 
-무치악 고정성 풀아치 임플란트 전악 재건 50편: 본문에서 종합한 33편은 임상 성적·생체역학·합의·재료·CAD 설계 임계값·유지 방식·치료 방식(피개의치 vs 고정성)의 7축과 위축 상악 대안 경로(관골·경유 상악동), 계획 변수(악궁형태·분절형 디지털 워크플로)를 다루고, 나머지 17편(식립·부하 시기, 장기 생존·합병증, 연결부 디자인, 디지털 인상, 관골·협경 임플란트, 환자보고결과)은 Related Papers에 한 줄 요약으로만 정리됨(미종합).
+무치악 고정성 풀아치 임플란트 전악 재건 49편을 임상 성적·위축 상악 대안 경로(관골·경유 상악동)·생체역학·합의·재료·CAD 임계값·유지 방식·치료 방식·계획 변수·식립 시기/원위 지지·연결부/PEEK 프레임워크·디지털 인상의 10축으로 종합.
 
 생존 동등성 SR+MA 수준 확인(Shao 2026); 재료 SR+MA — 금속-지르코니아 마모 RR=0.29(Marinkovic 2026); CAD 임계값 수치화(CSSA ≥80mm², CL/CSCA<0.51); 코노메트릭 임상 근거(Biscaro 2026); 17년 장기 — Ti-레진 HR=4.25(Pelser 2026); V형 하악 MBR 차이 전향 확인(Garza 2026).
 
@@ -239,6 +240,12 @@ Retrospective multicenter cohort, 250 edentulous patients (125 maxillary + 125 m
 
 **Bone-type verdict:** Bone quality independently predicts All-on-4 survival and complication rates. Type 4 bone is not a contraindication, but it narrows the safety margin and intensifies the case for a monolithic zirconia framework and closer maintenance intervals.
 
+### Gaonkar 2021 (SR, axial vs tilted implants in All-on-4)
+**Source**: [[implants/full-arch/gaonkar-2021-survival-rates-of-axial-and]]
+- 25 clinical studies (14 prospective, 11 retrospective), follow-up 72–132 months.
+- Cumulative implant survival **94–98%**; **no significant difference axial vs tilted, or maxilla vs mandible**; prosthesis survival 99–100% at 12 months; mean MBL 1.3 ± 0.4 mm.
+- Relevance here: it removes implant *inclination* as a hidden confounder in the 4-vs-6 comparison — the four-implant concept is not carried by the tilted distal implants alone. Caveat: authors call for RCT-level confirmation.
+
 ---
 
 **Axis-1 overall verdict:** Across eight clinical studies and one SR+MA, **survival is number-independent in four of the six direct comparisons**, and the SR+MA (55 studies) closes the case at meta-analytic level. The consistent cost of choosing four is complications — technical in the RCT, biological in La Monaca, long-term MBL divergence in Shao, and bruxism-driven fracture in Acar 2026 (all major technical failures in bruxers). The benefit of four is *lower cost and augmentation avoidance*. Bone quality (Type 4) and smoking materially narrow the safety margin. The dominant survival driver in the large cohort is the jaw (maxilla worse), not the count.
@@ -276,6 +283,33 @@ Same Italian research group (Grandi, Toti, Covani, Menchini-Fabris); companion m
 | Menchini-Fabris 2025 | >3yr | 31 | **100%** | 100% |
 
 **Atrophic-maxilla pathway verdict:** For severely atrophic maxillae where conventional tilted/axial implants are not feasible, both trans-sinus implants and zygomatic hybrid configurations provide bone-graft-sparing full-arch rehabilitation with comparable short-to-medium term survival. The 1yr → 3yr trajectory from the same Italian group shows maintained 100% implant survival. The evidence base remains limited (small retrospectives; 1 SR+MA of low-powered observational studies), and these approaches are complementary to — not competitive with — conventional All-on-4/6 planning when anatomy allows standard placement.
+
+### Gracher 2021 (SR, zygomatic implants for atrophic-maxilla full-arch rehabilitation)
+**Source**: [[implants/full-arch/gracher-2021-full-arch-rehabilitation-in-patients]]
+- PRISMA SR, 42 studies (2003–2019), 1247 patients, 2919 zygomatic implants (ZIs).
+- **Overall ZI survival 98.22%** (52 failures; follow-up 1–228 months): intrasinusal 98.3% (23 studies), extrasinusal 99.1% (11 studies), sinus slot 97.7% (4 studies). **Sinusitis** was the commonest complication (39 cases).
+- Technique choice should follow anatomy and operator experience; no RCTs and industry funding limit the evidence.
+
+### Uesugi 2026 (retrospective, All-on-4 with zygomatic implants, 3–13 yr)
+**Source**: [[implants/full-arch/uesugi-2026-investigation-of-the-long-term]]
+- 203 patients, 923 implants (323 ZIs + 600 conventional), mean follow-up 8.3 yr; Kaplan–Meier + Cox regression.
+- **ZI implant-level survival 95.9% vs conventional 98.7% (p=0.0178)**; patient-level 94.5% vs 97.9% (p=0.16, NS).
+- **Palatal ZI platform: 92.5% survival (HR 18.2, p=0.026)** vs vestibular 98.6% and ridge 96.9%; systemic disease raised patient-level risk (HR 14.9, p=0.012) but not implant-level risk.
+- ZI failures: 11 implants, sinusitis in 6 of 9 failure cases (platform-related: palatal/ridge) — sinusitis is the principal failure mode.
+
+### Fan 2026 (retrospective, quad zygoma as rescue therapy)
+**Source**: [[implants/full-arch/fan-2026-rescue-therapy-with-quad-zygoma]]
+- 28 consecutive patients, 112 ZIs placed to rescue failed maxillary full-arch rehabilitations (2006–2024), mean follow-up 8.2 ± 4.1 yr; 113 failed conventional implants removed; 48 ZIs placed immediately into explantation sockets; all immediately loaded.
+- ZI survival 98.2% (2 late removals); implant success 93.5%; prosthetic success 96.4%.
+- **Sinusitis 28.5%** (8 patients, mean 5.9 yr post-op; all medically managed, no implant loss); soft-tissue recession 9.8%; oroantral and facial fistula 0.9% each.
+
+### Fernández-Ruiz 2021 (RCT, patient-reported QoL, zygomatic vs All-on-4 — sources-only)
+**Source**: [[fernandez-ruiz-2021-evaluation-of-quality-of-life]]
+- RCT, n=80 (40:40), atrophic edentulous maxilla: ZI + anterior implants vs All-on-4 fixed prosthesis; primary outcome OHIP-14.
+- **OHIP-14 total 18.48 ± 3.42 (ZI) vs 30.43 ± 4.37 (All-on-4), p<0.001** (lower = better), all seven domains favoring ZI; "very satisfied" 77.5% vs 0%. Survival and peri-implantitis rates were reported as equivalent.
+- This paper has no wiki page (source summary only); treat the QoL signal as a single-trial finding.
+
+**Verdict update (2026-10-11, +4 papers):** The earlier 1-yr and >3-yr Italian series (100% implant survival) are the *optimistic end* of the zygomatic literature. With longer follow-up the picture is **high but not equal to conventional implants**: ZI implant-level survival 95.9% vs 98.7% at mean 8.3 yr (Uesugi), pooled SR survival 98.2% (Gracher) but with sinusitis as the dominant complication (28.5% in the rescue series, Fan). Platform position (palatal worst) and systemic disease are the modifiable/identifiable risks. Where anatomy forces the pathway, the single RCT (Fernández-Ruiz) favors ZI over All-on-4 on QoL — but the comparator is All-on-4 *in atrophic bone*, not in standard anatomy. Lifelong sinus surveillance belongs in the counselling.
 
 ---
 
@@ -449,6 +483,12 @@ SR+MA directly comparing four-implant overdenture (IOD) vs four-implant fixed re
 
 **Axis-7 verdict:** If implant and prosthesis survival are the primary outcomes, fixed is the evidence-based default. IOD is not inferior for patient satisfaction — the trade-off is structural reliability. When planning four-implant cases, the IOD vs fixed decision should precede implant number discussions; both axes are now covered by SR+MA-level evidence.
 
+### Storelli 2021 (SR, narrow-diameter implants in edentulous patients — boundary case)
+**Source**: [[implants/full-arch/storelli-2021-use-of-narrow-diameter-implants]]
+- 9 clinical studies, 885 narrow-diameter implants (2.5–3.5 mm), search to March 2019, follow-up ≥6 months.
+- **5-yr estimated survival 92.25%** (95% CI 90.87–100%); 5-yr MBL 1.40 mm (95% CI 0.55–2.03).
+- **All included studies used removable overdentures — zero fixed full-arch data.** Narrow-diameter implants are therefore an overdenture option only; they cannot be used to justify reducing implant diameter in fixed All-on-x protocols from this evidence.
+
 ---
 
 ## Planning Variables — Arch Morphology and Segmented Design
@@ -472,6 +512,77 @@ SR+MA directly comparing four-implant overdenture (IOD) vs four-implant fixed re
 - Segmented design may reduce single-beam stress concentration; digital manufacturing reduces fit error
 
 **Implication:** Segmented full-arch prostheses combined with digital workflow represent a promising alternative to one-piece monolithic designs, particularly for cases where stress distribution is a concern. The 3-year zero-complication result is encouraging but insufficient without longer follow-up or a control group.
+
+---
+
+## Axis 8 — Surgical Timing and Distal Support
+
+### Pellicer-Chover 2013 (single-blind RCT, immediate vs delayed placement, mandible)
+**Source**: [[implants/full-arch/pellicer-chover-2013-single-blind-randomized-clinical-trial]]
+- 15 patients, 144 implants (68 immediate post-extraction vs 76 placed after 6 months), all immediately loaded with full-arch screw-retained prostheses.
+- 12-month MBL 0.54 ± 0.39 mm (immediate) vs 0.66 ± 0.25 mm (delayed), p=0.201; **100% survival in both groups**; no significant difference in any peri-implant health parameter.
+- Immediate placement is equivalent at 1 yr and shortens treatment time; small sample, short follow-up, mandible only.
+
+### Rossi 2021 (RCT, split-mouth, 4-mm distal implants vs sinus lift, maxilla)
+**Source**: [[implants/full-arch/rossi-2021-two-year-follow-up-of]]
+- n=15 (11 followed to 2 yr): 4-mm implants as distal support vs 10-mm implants + bilateral sinus augmentation for full-arch fixed prostheses.
+- 2-yr survival 100% in both arms; MBL change −0.28 ± 0.37 mm (short) vs −0.54 ± 0.49 mm (control), p=0.128 (only the 12-month difference reached p=0.023); OHIP-20E favored the short-implant side.
+- A graft-sparing distal-support option for the maxilla, parallel to the trans-sinus/zygomatic pathway — but n=11 at 2 yr.
+
+**Axis-8 verdict:** Both trials argue for the *less invasive* option being non-inferior (immediate placement; short implants without sinus lift). Both are very small (n=15), so they support the option rather than establish equivalence.
+
+---
+
+## Axis 9 — Connection Design and Framework Material Details
+
+### Pera 2021 → Bagnasco 2024 (split-mouth RCT, external vs internal hex, 3 → 6 yr)
+**Sources**: [[implants/full-arch/pera-2021-evaluation-of-internal-and-external]] · [[implants/full-arch/bagnasco-2024-evaluation-of-internal-and-external]]
+- Same multicenter split-mouth design (n=20 patients, 83 implants: 43 external hex [EHC], 40 internal hex [IHC]; same implant system) reported at 3 yr (Pera) and 6 yr (Bagnasco) — treat them as **one trial, not two independent studies**.
+- 3 yr: survival EHC 97.7% vs IHC 97.5% (p=0.952); MBL 1.7 vs 1.9 mm (p=0.355); screw loosening 2 vs 5 (NS). 6 yr: MBL 2.0 vs 1.9 mm (p=0.608); no difference in probing depth, bleeding on probing or plaque.
+- **Connection type did not measurably affect outcomes**; choice can follow operator experience. Single implant system, small sample.
+- **Reporting discrepancy:** the 3-yr paper lists 2 implant failures (1 EHC at 3 months, 1 IHC at 6 months, re-placed), whereas the 6-yr paper reports no implants lost and 100% survival in both groups. The two are not reconcilable from the held summaries; cite the MBL and "no difference" findings, and avoid quoting either survival figure as definitive until the full texts are compared.
+
+### Aboelez 2026 (RCT, PEEK composite vs titanium-zirconia, maxillary All-on-Six)
+**Source**: [[implants/full-arch/aboelez-2026-clinical-and-prosthetic-outcomes-of]]
+- n=30 (15:15), maxillary All-on-Six opposed by mandibular distal-extension removable partial dentures; 12-month follow-up.
+- **PEEK was biologically better:** vertical bone loss 0.42 ± 0.18 vs 0.89 ± 0.31 mm; probing depth 2.1 vs 3.4 mm; plaque score 0.8 vs 1.6 (all p<0.001).
+- **Ti-Zr had more prosthetic complications:** veneer fracture/separation 26.7% vs 0%; screw loosening 20% vs 6.7%; but better esthetic VAS. 1-yr implant and prosthesis survival 100% in both arms.
+- **Tension with the rest of this page:** the decision rule below advises against PEEK/PEKK frameworks (Axis 4/5 FEA and cantilever evidence). This is a 12-month, n=30 trial in an unusual opposing arch (RPD, i.e. light occlusal load); it does not overturn the rigid-framework rule, but it shows PEEK's drawback may be mechanical-load-dependent rather than universal.
+
+### Emam 2025 (RCT, zirconia vs PEEK substructure — scan accuracy and fit)
+**Source**: [[implants/full-arch/emam-2025-evaluation-of-the-marginal-gap]]
+- 20 edentulous patients (10:10), digital impressions (Medit i700); micro-CT measurement.
+- **Marginal gap: zirconia 42.3 ± 12.7 µm vs PEEK 58.9 ± 15.3 µm (p=0.003); 3-D trueness 28.4 vs 41.7 µm (p=0.001)**; scanning time 142 vs 168 s. Both gaps are < 100 µm (clinically acceptable).
+- The opaque zirconia surface scans better than translucent PEEK; delivery-time data only, single scanner, no long-term stability.
+
+**Axis-9 verdict:** Connection type is not a decision variable (one trial, small). PEEK shows a trade-off — better soft-tissue/bone readings (Aboelez, 1 yr) but looser fit/scan accuracy (Emam) and more mechanical risk elsewhere on this page — so rigid zirconia/metal remains the default and PEEK stays a research-grade alternative.
+
+---
+
+## Axis 10 — Digital Impression and Workflow
+
+### Cappare 2019 (RCT, conventional vs digital impression, maxillary All-on-Six)
+**Source**: [[implants/full-arch/cappare-2019-conventional-versus-digital-impressions-for]]
+- 50 patients, 300 implants, immediate-loaded screw-retained maxillary prostheses on six implants; conventional pick-up vs intraoral scanner with splinted scan bodies.
+- 24-month MBL 1.07 ± 0.66 vs 1.11 ± 0.54 mm (NS); 100% implant and prosthesis survival in both arms; **impression time 8:59 vs 16:45 min (p<0.05)**; rescans 7 vs 2 (each faster).
+
+### Cattoni 2021 (RCT, digital smile design + guided flapless surgery vs traditional, All-on-4, 4 yr)
+**Source**: [[implants/full-arch/cattoni-2021-digital-smile-designed-computer-aided]]
+- n=50, single center. **MBL 0.83 vs 1.12 mm at 4 yr (p<0.0001) favoring the digital workflow**; implant survival 100% vs 96–98%; no fixture fractures; better patient satisfaction reported.
+- The only 4-yr RCT here to show a *bone-level advantage* for a digital/guided protocol; confounded by guided flapless surgery (not the impression alone) and single-center.
+
+### Pozzi 2025 (SR+MA, photogrammetry vs intraoral scanning, complete arch)
+**Source**: [[implants/full-arch/pozzi-2025-photogrammetry-versus-intraoral-scanning-in]]
+- 13 studies (3 in vivo, 10 in vitro). **Stereophotogrammetry (SPG) was more accurate in 10 of 13 studies**: angular trueness Cohen's d = 1.20 (p=0.02); surface-deviation trueness and precision also favored SPG (p<0.05).
+- Heterogeneity very high (I² > 94%) and only 3 clinical studies; one trial found comparable results for IOS with prefabricated aids. In-vitro accuracy has not been shown to change clinical outcome.
+
+### Kernen / Gintaute 2026 (single-patient feasibility study, model-free workflow, mandible)
+**Source**: [[implants/full-arch/kernen-gintaute-2026-digital-workflow-for-implant-supported]]
+- One patient with two canine implants (not a full-arch case): 10 intraoral scans → CAD/CAM titanium verification bars without a physical model; all 10 clinically passive (Sheffield test).
+- Intraoral splinting was the main accuracy-degrading step (linear 50 µm, p=0.001; angular 0.79°, p=0.01); a new bar with reverse scan bodies restored accuracy (linear 26 µm, NS).
+- Hypothesis-generating only (n=1, two implants).
+
+**Axis-10 verdict:** A digital impression is **at least non-inferior** to the conventional pick-up at 2 yr and halves chairside impression time (Cappare); photogrammetry is the accuracy leader in vitro (Pozzi); and intraoral splinting is the weak link in a model-free chain (Kernen). The better-bone result of Cattoni comes from the *whole guided protocol*, not the scan.
 
 ---
 
@@ -502,6 +613,12 @@ The six dimensions are compatible once framed correctly. **Equivalent survival i
 - **Anatomy insufficient for conventional placement (severe atrophy) → atrophic maxilla pathway:** trans-sinus implants (statistically equivalent survival, less invasive; Gianfreda 2025 SR+MA) or zygomatic + conventional hybrid (100% implant survival at 1yr and >3yr; Grandi 2025, Menchini-Fabris 2025). Note: Global Consensus (Fiorellini WG3) still favors augmentation + standard implants in severe atrophy by a small margin (55.1%); the zygomatic/trans-sinus pathway is a legitimate alternative, not the consensus-preferred default.
 - **Lean further toward five to six** with **bruxism/parafunction** (Rapone: monolithic zirconia + no cantilever + 6 implants + night guard as a package; Acar 2026: all major technical failures in bruxers), **Type 4 bone** (Topdagi: CSR 89.1% vs 98.3%), **a long required cantilever**, **a heavily loaded opposing dentition** (opposing natural teeth raised MBL in La Monaca), or **the maxilla** (Caramés HR 1.815; Schwarz consensus built on maxillary data).
 - **Watch the jaw, not just the number:** the maxilla is the consistent risk signal across all designs.
+
+**Supplementary-evidence implications (added 2026-10-11, 16 papers; none changes the decision rule):**
+- **Material rule needs a footnote, not a reversal:** Aboelez 2026 (PEEK, 12 months, n=30, light opposing load) found better peri-implant readings than Ti-Zr; Emam 2025 found worse fit and scan accuracy for PEEK. "Never PEEK/PEKK" stands as the default for loaded full-arch cases (rigid framework), with PEEK remaining unproven beyond 1 year.
+- **Zygomatic pathway — add long-term counselling:** the 100% survival figures above come from 1–3-yr series; at mean 8.3 yr ZI implant-level survival was 95.9% vs 98.7% for conventional implants (Uesugi), with palatal platform and systemic disease as risk markers and sinusitis as the main failure mode (Fan 28.5%).
+- **Tilting is not the issue:** axial vs tilted implants show equivalent survival (Gaonkar), so the four-implant concept is not penalized by the tilted distal implants.
+- **Workflow choices are non-inferior:** immediate placement (Pellicer), 4-mm distal implants instead of sinus lift (Rossi), either hex connection (Pera/Bagnasco) and a digital instead of conventional impression (Cappare) all gave equivalent short-to-medium-term outcomes — pick by operator experience and patient burden. Narrow-diameter implants are validated only for overdentures (Storelli).
 
 **Maintenance as treatment:** Structured maintenance is not an afterthought — it is a primary survival variable. Rapone 2026 (Statement 6, consensus 98%): risk-based recall every 3–6 months; ~75% reduction in peri-implantitis risk; non-compliance OR=14.59. Acar 2026 real-world data confirms: 100% of prostheses experienced at least one minor complication within the follow-up period; median complication-free time only 3 years. The de Araújo Nobre maxillary data even found mechanical complications protective for MBL (more maintenance visits), reinforcing the mechanism. **Maintenance is not an outcome of treatment — it is an integral part of it.**
 
@@ -564,36 +681,35 @@ The six dimensions are compatible once framed correctly. **Equivalent survival i
 - [[implants/full-arch/garza-2026-arch-morphology-marginal-bone-remodeling]] — prospective 12mo: V-shaped mandible MBR 0.91 vs U-shaped 0.81mm; inter-implant distance r=−0.70
 - [[implants/full-arch/mijiritsky-2026-segmented-full-arch-digital-workflow-mandible]] — prospective 3yr: segmented digital 100% ISR/PSR; 0 biomechanical complications
 
-**Timing and loading:**
+**Timing and loading** (→ Axis 8):
 - [[implants/full-arch/pellicer-chover-2013-single-blind-randomized-clinical-trial]] — single-blind RCT: immediate vs delayed implants for full-arch mandibular rehabilitation; comparable outcomes
 - [[implants/full-arch/rossi-2021-two-year-follow-up-of]] — 2yr RCT: 4mm distal implants vs sinus lift for full-arch FDP distal support; non-inferior
-- [[implants/full-arch/cattoni-2021-digital-smile-designed-computer-aided]] — RCT 4yr: digital smile design all-on-4 vs traditional workflow; comparable survival and complication rates
+- [[implants/full-arch/cattoni-2021-digital-smile-designed-computer-aided]] — RCT 4yr: digital smile design all-on-4 vs traditional workflow; less marginal bone loss (0.83 vs 1.12 mm, p<0.0001) and survival 100% vs 96–98% favoring digital
 
-**Survival and complications (long-term):**
+**Survival and complications (long-term)** (→ Axis 1, Gaonkar; Acar/Pelser are in the main axes):
 - [[implants/full-arch/gaonkar-2021-survival-rates-of-axial-and]] — SR: axial vs tilted implants in All-on-4; equivalent survival
-- [[implants/full-arch/acar-2026-long-term-outcomes-and-complications]] — retrospective 4–10yr: full-arch long-term outcomes and complications
 - [[implants/full-arch/pelser-2026-ifcd-long-term-complications-17yr]] — retrospective ≤17yr: technical and biological complications of implant-supported fixed complete dentures (→ see Axis 4 for detailed analysis)
 
-**Prosthetic material — connection design:**
+**Prosthetic material — connection design** (→ Axis 9):
 - [[implants/full-arch/pera-2021-evaluation-of-internal-and-external]] — split-mouth RCT 3yr: internal vs external hex connections in immediately loaded full-arch; comparable outcomes
 - [[implants/full-arch/bagnasco-2024-evaluation-of-internal-and-external]] — multicenter split-mouth RCT 6yr: internal vs external hex; no clinically relevant difference
 - [[implants/full-arch/aboelez-2026-clinical-and-prosthetic-outcomes-of]] — comparative clinical study: TiZr vs PEEK composite maxillary fixed prostheses opposing partial denture
 - [[implants/full-arch/alshahrani-2026-zirconia-full-arch-3300-5yr]] — 3300 lab cases 5yr: monolithic zirconia complete arch 91.67% survival; fracture risk → insufficient space (→ see Axis 4 for detailed analysis)
 
-**Digital impression and workflow:**
+**Digital impression and workflow** (→ Axis 10):
 - [[implants/full-arch/cappare-2019-conventional-versus-digital-impressions-for]] — RCT: conventional vs digital impressions for full-arch maxillary rehabilitation; digital non-inferior
 - [[implants/full-arch/pozzi-2025-photogrammetry-versus-intraoral-scanning-in]] — SR+MA: photogrammetry vs IOS for complete-arch implant impression
 - [[implants/full-arch/emam-2025-evaluation-of-the-marginal-gap]] — marginal gap and trueness for full-arch suprastructures from different substructure frameworks
 - [[implants/full-arch/kernen-gintaute-2026-digital-workflow-for-implant-supported]] — feasibility study: digital workflow with reverse scan bodies for mandibular implant-supported restorations
 
-**Zygomatic — atrophic maxilla:**
+**Zygomatic — atrophic maxilla** (→ Atrophic-maxilla pathway; Storelli → Axis 7):
 - [[implants/full-arch/gracher-2021-full-arch-rehabilitation-in-patients]] — SR: zygomatic implants for atrophic maxilla full-arch rehabilitation
 - [[implants/full-arch/uesugi-2026-investigation-of-the-long-term]] — 3–13yr: full-mouth implant prosthetics combining zygomatic implants (All-on-4 concept)
 - [[implants/full-arch/fan-2026-rescue-therapy-with-quad-zygoma]] — retrospective 8yr: quad zygoma rescue after failed full-arch rehabilitation
 - [[implants/full-arch/storelli-2021-use-of-narrow-diameter-implants]] — SR: narrow-diameter implants for completely edentulous patients as prosthetic alternative
 
-**Patient-reported outcomes:**
-- [[fernandez-ruiz-2021-evaluation-of-quality-of-life]] — RCT: QoL and satisfaction in zygomatic implants vs All-on-4; zygomatic non-inferior PROMs
+**Patient-reported outcomes** (→ Atrophic-maxilla pathway):
+- [[fernandez-ruiz-2021-evaluation-of-quality-of-life]] — RCT (n=80): OHIP-14 18.48 vs 30.43 (p<0.001) favoring zygomatic over All-on-4 in atrophic maxilla; survival and peri-implantitis equivalent
 
 **Related overviews:**
 - [[overviews/tilted-axial-implant-angled-abutment-overview]] — tilted-implant biomechanics underlying All-on-4
