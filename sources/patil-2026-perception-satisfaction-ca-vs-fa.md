@@ -8,8 +8,8 @@ source_collection: clear-aligner-pro-surveillance-2026-07
 full_text: true
 pmid: "42109316"
 source_url: "https://pubmed.ncbi.nlm.nih.gov/42109316/"
-text_path: "papers/patil-2026-perception-satisfaction-ca-vs-fa.txt"
-text_filename: "patil-2026-perception-satisfaction-ca-vs-fa.txt"
+text_path: papers/patil-2026-perception-satisfaction-ca-vs-fa.txt
+text_filename: patil-2026-perception-satisfaction-ca-vs-fa.txt
 ---
 
 ## Why Ingested
