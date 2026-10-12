@@ -6,8 +6,8 @@ doi: "10.1186/s40510-026-00642-1"
 pmid: "42709287"
 pmcid: "PMC13554008"
 category: [orthodontics/clear-aligner]
-pdf_path: ""
-pdf_filename: ""
+pdf_path: 
+pdf_filename: 
 source_collection: pubmed-abstract
 ---
 
