@@ -4,8 +4,8 @@ authors: "Jorge JO, Bergo BR, Montalvany-Antonucci CC, Figueiredo NC, Andrade I,
 year: 2026
 doi: "10.1093/ejo/cjag036"
 category: orthodontics/clear-aligner
-pdf_path: ""
-pdf_filename: ""
+pdf_path: 
+pdf_filename: 
 full_text: false
 source_collection: pubmed-abstract
 ---
