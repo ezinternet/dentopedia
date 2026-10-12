@@ -55,6 +55,17 @@ This retrospective series from Pusan National University Dental Hospital reviewe
 - **Measurement**: CBCT (ProMax, Planmeca; 110 kVp, 4.0 mA, 1-mm slices); opaque volume V = sum(S x h); severity = opaque volume / total sinus volume (Vt0/Vs); symptoms assessed postoperatively.
 - **Statistics**: SPSS 16.0; t-test for sex differences in age, chi-square for etiology associations; p < 0.05.
 
+## Protocol Detail (full-text re-read)
+1. **Selection**: antibiotic-refractory OMS. All patients had antibiotics for 1 week; if improving, another week; if no improvement, surgery to remove the odontogenic cause and irrigate the sinus. Where a dental cause was removed, primary closure was done and the sinus irrigated (Discussion).
+2. **Access**: vestibular or intrasulcular incision with vertical releasing cuts, periosteum detached. The conventional window site is the thinnest lateral area below the infraorbital foramen on CBCT; here it was placed at least 10 mm above the alveolar crest with a 3-mm round bur, to avoid limiting later implant surgery or grafting.
+3. **Debridement + irrigation**: inflamed membrane and foreign bodies removed, then the cavity irrigated with **saline or iodine solution** (not stated which patients got which), then **packed for hemostasis**; antibiotics prescribed afterwards.
+4. **Anesthesia**: general with nasotracheal intubation in 16, monitored in 2, local in 3 (Table 1). Oroantral fistula present in 7.
+5. **Irrigation timing**: the text describes irrigation at surgery, before packing. It does not describe serial postoperative irrigation sessions.
+
+**Not specified in the text**: irrigant volume, iodine concentration, irrigation device or pressure, antibiotic agent/dose/duration after surgery, when and how the packing was removed, timing of the postoperative CBCT beyond the 2-month minimum follow-up. Because membrane and foreign-body removal accompanied irrigation, the effect of irrigation alone cannot be isolated.
+
+Authors' explanation for cases that did not clear: in implant- and bone-graft-related sinusitis, opacity could rise because bone particles were not easily washed away and stayed in place.
+
 ## Results
 
 | Outcome | Result |
