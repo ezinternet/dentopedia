@@ -4,8 +4,8 @@ authors: "Dept. of Oral and Maxillofacial Surgery, Hallym University Sacred Hear
 year: 2017
 doi: "unknown"
 category: "oral-surgery/trauma"
-pdf_path: "/Users/oracleneo/llm-wiki/papers/kda-2017-vol55-no10.pdf"
-pdf_filename: "kda-2017-vol55-no10.pdf"
+pdf_path: /Users/oracleneo/llm-wiki/papers/kda-2017-vol55-no10.pdf
+pdf_filename: kda-2017-vol55-no10.pdf
 source_collection: "kda-journal"
 page_range: "696-"
 full_text: false
