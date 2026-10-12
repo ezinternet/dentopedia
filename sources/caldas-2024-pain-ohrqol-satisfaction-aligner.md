@@ -8,8 +8,8 @@ source_collection: clear-aligner-pro-surveillance-2026-07
 full_text: true
 pmid: "38679672"
 source_url: "https://pubmed.ncbi.nlm.nih.gov/38679672/"
-text_path: "papers/caldas-2024-pain-ohrqol-satisfaction-aligner.txt"
-text_filename: "caldas-2024-pain-ohrqol-satisfaction-aligner.txt"
+text_path: papers/caldas-2024-pain-ohrqol-satisfaction-aligner.txt
+text_filename: caldas-2024-pain-ohrqol-satisfaction-aligner.txt
 ---
 
 ## Why Ingested
