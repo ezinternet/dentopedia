@@ -8,8 +8,8 @@ source_collection: clear-aligner-pro-surveillance-2026-07
 full_text: true
 pmid: "40237388"
 source_url: "https://pubmed.ncbi.nlm.nih.gov/40237388/"
-text_path: "papers/chong-2025-patient-experiences-cat-scoping-review.txt"
-text_filename: "chong-2025-patient-experiences-cat-scoping-review.txt"
+text_path: papers/chong-2025-patient-experiences-cat-scoping-review.txt
+text_filename: chong-2025-patient-experiences-cat-scoping-review.txt
 ---
 
 ## Why Ingested
