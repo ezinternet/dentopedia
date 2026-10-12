@@ -154,6 +154,20 @@ Oroantral fistula (OAF) closure follows a size-and-timing decision tree: <3 mm s
 
 Two previously held pages sit next to these routes. [[sinus-lift/lateral/park-2024-surgical-drainage-simultaneous-sinus-floor]] (n=2) drains and irrigates through an intentional membrane incision during a lateral-window lift (see §6 above). [[sinus-lift/lateral/ohyama-2022-novel-management-severe-odontogenic-maxillary]] (n=1, severe OMS spreading to the frontal sinus) uses Caldwell-Luc access with mucosa preservation, intraoperative saline irrigation and a large inferior-meatus nasoantral window, with recovery and a patent window at 2 years. It is a drainage-route argument rather than a serial-lavage protocol.
 
+### Socket-lavage step sequence (Kim 2025, the only fully described protocol)
+
+Source: [[oral-medicine/odontogenic-sinusitis/kim-2025-treatment-of-non-chronic-odontogenic]] full text (n=7; not validated beyond that series).
+
+1. CBCT identifies the causative tooth/implant; unilateral acute (≤4 weeks) or subacute (4–12 weeks) disease, no prior sinus treatment.
+2. Same visit, local anesthesia: remove the tooth/implant, then intentionally perforate the sinus through the socket with a **19-gauge needle** so it drains orally; send culture and sensitivity.
+3. Irrigate with **saline** with the patient **upright**, a **pus pan under the chin**, and the patient saying **"Ah"** (aspiration precaution; discharge can run out the nose to the throat).
+4. Start empiric antibiotic immediately; switch to culture-guided therapy (illustrated case: cephalexin 1 g bid x 5 days, then ciprofloxacin 500 mg bid x 7 days for penicillin resistance).
+5. Repeat irrigation every **3 days to 2 weeks** (patient cooperation and discharge volume decide; the illustrated case used every 2 weeks).
+6. **Check:** saline entering via the socket should emerge from the nose, read as a patent ostium. **Stop** when pus, symptoms and radiographic signs resolve. If there is no flow or no improvement after **2–3 sessions**, look for non-odontogenic causes and involve ENT; recurrence also prompts ENT consultation.
+7. The authors avoided a sutured indwelling oral drain because of oroantral-fistula risk; none occurred with syringe irrigation.
+
+**Not specified in the text and so not held:** volume per session, needle entry point/angle, syringe or cannula type, whether the needle stays in place, antibiotic duration for this series. The authors quote 14 days or 7 days beyond symptom resolution (up to 28 days) from other literature, not from their own data. The trial's own antibiotic dose and duration are given only for the illustrated case.
+
 ### Indications as reported (not validated)
 
 - **Acuity is not a shared criterion.** Kim 2025 enrolled only acute (≤4 weeks) or subacute (4–12 weeks) OMS and excluded prior ENT sinus treatment, bilateral disease and prior FESS. Hong 2017 describes acute sinusitis 10 days after a sinus lift, and Kim 2010's conclusion is framed for acute post-implant sinusitis. The Nahlieli series, by contrast, treated *chronic recurrent* rhinosinusitis. "Lavage is for non-chronic disease" is Kim 2025's position, not a conclusion across the cluster.
