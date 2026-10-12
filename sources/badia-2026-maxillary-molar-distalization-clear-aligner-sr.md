@@ -4,8 +4,8 @@ authors: "Badía I Martí P, Bellot-Arcís C, Tarazona-Álvarez B, Paredes-Galla
 year: 2026
 doi: "10.3390/jcm15145568"
 category: [orthodontics/clear-aligner]
-pdf_path: ""
-pdf_filename: ""
+pdf_path: 
+pdf_filename: 
 source_collection: pubmed-abstract
 ---
 
