@@ -9,8 +9,8 @@ full_text: false
 pmid: "41833315"
 pmcid: "PMC13277327"
 source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC13277327/
-pdf_path: ""
-pdf_filename: ""
+pdf_path: 
+pdf_filename: 
 ---
 
 ## Why Ingested
