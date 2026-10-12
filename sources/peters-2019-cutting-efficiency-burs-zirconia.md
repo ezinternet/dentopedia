@@ -4,8 +4,8 @@ authors: "Peters OA, Du D, Ho MY, Chu R, Moule A"
 year: 2019
 doi: "10.1111/aej.12350"
 category: [dental-handpiece]
-pdf_path: ""
-pdf_filename: ""
+pdf_path: 
+pdf_filename: 
 source_collection: pubmed-abstract
 ---
 
