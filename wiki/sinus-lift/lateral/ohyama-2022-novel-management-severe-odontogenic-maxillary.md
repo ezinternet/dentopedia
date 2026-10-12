@@ -55,6 +55,12 @@ This report presents "conservative maxillary sinus management" (CMSM, developed 
 - **Patient/diagnosis**: 54-year-old man referred from otolaryngology; pain radiating cheek→forehead; cheek tenderness without swelling. Teeth #25/#26 (FDI) previously root-canal-treated but **underfilled**, apices exposed to the sinus on panoramic; CT showed opacification from the maxillary sinus extending to the **frontal sinus**. Endodontic re-treatment + long-term antibiotics failed.
 - **CMSM procedure**: general anesthesia; 5–10 mm gingivobuccal-fold incision; mucoperiosteal flap; canine-fossa cortical bone removed for sinus access. MSM over the protruding #25/#26 apices removed → **apicoectomy**; missing filling in the buccal-distal canal of #26 → **retrograde filling with 4-META/MMA-TBB resin**. Saline irrigation; the remaining **thickened MSM preserved**. **Large nasoantral window** cut in the inferior meatus (saw and hammer atraumatically, then enlarged with bone forceps). Acromycin (tetracycline) gauze packed via the window, removed at 1 week; **clarithromycin for 1 month** postoperatively.
 
+## Protocol Detail (full-text re-read)
+- **Sequence**: general anesthesia; 5-10 mm gingivobuccal-fold incision, flap, cortical bone around the canine fossa removed for access; sinus mucosa over the #25/#26 root apices removed and apicoectomy performed; retrograde filling of the buccal distal root canal of #26 with 4-META/MMA-TBB resin (its root filling could not be found); saline irrigation; the remaining thickened mucosa preserved; a large inferior-meatus nasoantral window made with a saw and hammer in the raised part of the inner wall after removing surrounding mucosa, positioned using the palatal wall as a guide, then enlarged with bone forceps.
+- **Postoperative**: gauze with an antibiotic ointment (named "acromycin" in the text) inserted into the sinus from the nose through the window and removed at one week; clarithromycin for one month.
+- **Rationale given**: pus pools toward the inferior meatus by gravity, so a large inferior-meatus window secures drainage and avoids nasolacrimal duct injury; ESS via the natural ostium is described as prone to reclosure. This is an argument from pathophysiology, not tested here.
+- **Not specified**: window dimensions, irrigation volume, and any serial postoperative irrigation (none is described; irrigation was intraoperative).
+
 ## Results
 
 - At **2 years**: recovery from OMS; maxillary sinus **anatomy and function completely restored**; nasoantral window **open**; causative teeth **preserved**.
