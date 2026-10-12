@@ -13,8 +13,8 @@ ptypes: ["Systematic Review"]
 evidence_level: "sr"
 source_collection: "pubmed-text"
 full_text: true
-text_path: "/Users/oracleneo/llm-wiki/papers/gaonkar-2021-survival-rates-of-axial-and.txt"
-text_filename: "gaonkar-2021-survival-rates-of-axial-and.txt"
+text_path: /Users/oracleneo/llm-wiki/papers/gaonkar-2021-survival-rates-of-axial-and.txt
+text_filename: gaonkar-2021-survival-rates-of-axial-and.txt
 ---
 
 ## Why Ingested
