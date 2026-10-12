@@ -25,20 +25,20 @@ relations:
 ## Three-line Summary
 
 1. **Study Type & Context**: Multicenter randomized split-mouth controlled trial (20 patients, 83 implants) comparing external (EHC) vs internal (IHC) hexagonal connections in immediately loaded fixed full-arch rehabilitations; 6-year follow-up.
-2. **Key Numerical Results**: 100% cumulative implant survival for both groups at 72 months. MBL at 72 months: EHC 2.0 mm (SD 0.8), IHC 1.9 mm (SD 0.7), p=0.608. No significant differences in PD, BoP, or PI at any time point.
+2. **Key Numerical Results**: Cumulative implant survival 97.44% (EHC) and 97.22% (IHC) at 72 months (p=0.9697); the only two failures occurred early (≤6 months) and were immediately re-inserted. MBL at 72 months: EHC 2.0 mm (SD 0.8), IHC 1.9 mm (SD 0.7), p=0.608. No significant differences in PD, BoP, or PI at any time point.
 3. **Clinical Implication & Limitation**: Connection type (EHC vs IHC) does not significantly influence outcomes in immediate-load full-arch protocols. Both show excellent 6-year results. Limited to single implant system (Sweden & Martina), small sample (n=20), split-mouth design.
 
 ## 세줄요약
 
 1. **연구 유형·맥락**: 즉시 부하 고정성 전악 재활에서 외부(EHC) vs 내부(IHC) 헥사곤 연결 비교 다기관 무작위 분할구강 대조군 시험(환자 20명, 임플란트 83개), 6년 추적.
-2. **핵심 수치**: 두 군 모두 72개월 누적 생존율 100%. 72개월 MBL: EHC 2.0 mm, IHC 1.9 mm (p=0.608). PD, BoP, PI 모두 시점별 유의차 없음.
+2. **핵심 수치**: 72개월 누적 생존율 EHC 97.44%, IHC 97.22% (p=0.9697; 2개 초기 탈락 후 즉시 재식립). 72개월 MBL: EHC 2.0 mm, IHC 1.9 mm (p=0.608). PD, BoP, PI 모두 시점별 유의차 없음.
 3. **임상적 함의·한계**: 즉시 부하 전악 프로토콜에서 연결 타입(EHC vs IHC)은 임상 성적에 유의한 영향 없음. 단일 임플란트 시스템, 소규모 표본, 분할구강 설계 한계 존재.
 
 ## Summary
 
 Bagnasco et al. (2024) conducted a multicenter, randomized, split-mouth controlled trial comparing external hexagonal connections (EHC) versus internal hexagonal connections (IHC) in immediately loaded fixed full-arch rehabilitations. Twenty patients received full-arch prostheses with immediate loading protocol; one side randomly assigned EHC implants, the contralateral side IHC implants. All implants shared identical macro- and micro-topography (Sweden & Martina). Follow-up at 3, 6, 12, 36, and 72 months assessed implant survival, marginal bone loss (MBL), plaque index (PI), probing depth (PD), and bleeding on probing (BoP).
 
-**Primary finding**: No statistically significant differences between EHC and IHC at any time point for any outcome. **100% cumulative implant survival** in both groups at 6 years. MBL progressed gradually: ~1.6-1.7 mm at 12 months, reaching ~2.0 mm (EHC) and ~1.9 mm (IHC) at 72 months (p=0.608). Peri-implant parameters (PD, BoP, PI) remained stable and comparable throughout.
+**Primary finding**: No statistically significant differences between EHC and IHC at any time point for any outcome. **Cumulative implant survival 97.44% (EHC) vs 97.22% (IHC)** at 6 years (two early failures, ≤6 months, immediately re-inserted; none thereafter). MBL progressed gradually: ~1.6-1.7 mm at 12 months, reaching ~2.0 mm (EHC) and ~1.9 mm (IHC) at 72 months (p=0.608). Peri-implant parameters (PD, BoP, PI) remained stable and comparable throughout.
 
 ## Key Contributions
 
@@ -66,9 +66,10 @@ Bagnasco et al. (2024) conducted a multicenter, randomized, split-mouth controll
 ## Results
 
 ### Implant Survival
-- **EHC: 100%** (43/43 at placement, 0 failures at 72 mo)
-- **IHC: 100%** (40/40 at placement, 0 failures at 72 mo)
-- 2 patients died (unrelated) between 32-72 mo; their implants censored
+- **EHC: 97.44%** (1 failure at 6 mo, immediately re-inserted; none after)
+- **IHC: 97.22%** (1 failure at 3 mo, immediately re-inserted; none after)
+- 2 patients died between 32-72 mo; their implants are excluded from the survival denominator
+- Between-group comparison p=0.9697
 - Kaplan-Meier: no difference in survival distribution
 
 ### Marginal Bone Loss (Mean ± SD, mm)
@@ -107,7 +108,7 @@ Bagnasco et al. (2024) conducted a multicenter, randomized, split-mouth controll
 
 ## Clinical Takeaway
 
-> **For immediately loaded full-arch (all-on-x) rehabilitations, the choice between external hex (EHC) and internal hex (IHC) connections does not affect 6-year outcomes.** Both deliver 100% survival and ~2 mm MBL. Clinicians can select based on prosthetic workflow preference, component availability, or cost—not on presumed biological superiority.
+> **For immediately loaded full-arch (all-on-x) rehabilitations, the choice between external hex (EHC) and internal hex (IHC) connections does not affect 6-year outcomes.** Both deliver ~97% cumulative survival (two early failures, re-inserted) and ~2 mm MBL. Clinicians can select based on prosthetic workflow preference, component availability, or cost—not on presumed biological superiority.
 
 ## Research Gaps
 
