@@ -67,7 +67,7 @@ relations:
 | PI 36mo | 2.5±1.3 | 2.0±1.3 | 0.095 |
 | Loose screws | 2 | 5 | 0.394 |
 
-- **Implant failures**: 2개(EHC 1개 3개월, IHC 1개 6개월) — 즉시 재식립·보철 수리
+- **Implant failures**: 2개(IHC 1개 3개월, EHC 1개 6개월) — 즉시 재식립·보철 수리
 - **Biologic complications**: 0건
 - **Technical**: 나사풀림 7건, 레진 비니어 파절 1건(이갈이 환자)
 - **Center effect**: 제노바 IHC MBL 유의하게 큼(p<0.001), 토리노 BoP 유의하게 높음(p=0.008)
