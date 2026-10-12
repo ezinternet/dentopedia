@@ -6,8 +6,8 @@ doi: "10.1155/2019/8132520"
 pmid: "31275984"
 pmcid: "PMC6582836"
 category: implants/isq
-pdf_path: ""
-pdf_filename: ""
+pdf_path: 
+pdf_filename: 
 full_text: true
 source_collection: pubmed-abstract
 ---
