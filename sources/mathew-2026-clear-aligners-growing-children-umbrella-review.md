@@ -5,8 +5,8 @@ year: 2026
 doi: "10.4103/jisppd.jisppd_225_26"
 pmid: "42641088"
 category: orthodontics/clear-aligner
-pdf_path: ""
-pdf_filename: ""
+pdf_path: 
+pdf_filename: 
 source_collection: pubmed-abstract
 ---
 
