@@ -4,8 +4,8 @@ authors: "Haugen HJ, Sanz J, Perale G, Saiz AM, Romandini M, Rahmati M"
 year: 2026
 doi: "unknown"
 category: "bone-regeneration"
-pdf_path: "/papers/haugen-2026-bone-grafts-everything-you-need.pdf"
-pdf_filename: "haugen-2026-bone-grafts-everything-you-need.pdf"
+pdf_path: /papers/haugen-2026-bone-grafts-everything-you-need.pdf
+pdf_filename: haugen-2026-bone-grafts-everything-you-need.pdf
 ---
 
 ## Why Ingested
