@@ -166,7 +166,17 @@ Source: [[oral-medicine/odontogenic-sinusitis/kim-2025-treatment-of-non-chronic-
 6. **Check:** saline entering via the socket should emerge from the nose, read as a patent ostium. **Stop** when pus, symptoms and radiographic signs resolve. If there is no flow or no improvement after **2–3 sessions**, look for non-odontogenic causes and involve ENT; recurrence also prompts ENT consultation.
 7. The authors avoided a sutured indwelling oral drain because of oroantral-fistula risk; none occurred with syringe irrigation.
 
-**Not specified in the text and so not held:** volume per session, needle entry point/angle, syringe or cannula type, whether the needle stays in place, antibiotic duration for this series. The authors quote 14 days or 7 days beyond symptom resolution (up to 28 days) from other literature, not from their own data. The trial's own antibiotic dose and duration are given only for the illustrated case.
+### Small-lateral-window irrigation (Jaiswal 2024) and inferior-meatal catheter irrigation (Gang 2021)
+
+Sources: [[oral-medicine/odontogenic-sinusitis/jaiswal-2024-sinus-irrigation-as-an-adjunctive]] (n=21) and [[oral-medicine/odontogenic-sinusitis/gang-2021-comparing-the-efficacy-of-sinus]] (RCT, n=40).
+
+**Jaiswal 2024 — lateral window, irrigation inside one operation.** Selected after antibiotics failed (1 week, extended 1 more week if improving). Vestibular or intrasulcular incision with vertical releasing cuts; window with a 3-mm round bur **at least 10 mm above the alveolar crest** (not the conventional thinnest area below the infraorbital foramen), chosen to leave room for later implant surgery or grafting. Remove inflamed membrane and foreign bodies, irrigate with **saline or iodine solution**, **pack for hemostasis**, give postoperative antibiotics. Anesthesia was general in 16, monitored in 2, local in 3. This is one intraoperative irrigation combined with debridement, not a serial-lavage schedule, so irrigation cannot be separated from membrane and foreign-body removal. Opacity persisted or rose in some implant- and graft-related cases, which the authors attribute to bone particles not washed out.
+
+**Gang 2021 — catheter irrigation after cyst surgery.** Enucleate the cyst with its non-separable sinus membrane, keep other sinus mucosa, then make an inferior meatal antrostomy with an antrostomy knife at the thinnest bony point of the cyst wall (per CT). Pass an **epidural catheter** through it into the cyst cavity and suture it near the base of the nose. Give cefazolin 2000 mg IV twice daily for 3 days. Irrigate **100 mL saline with a 20-mL syringe twice a day**, head lowered so fluid exits through the nose; remove the catheter at 2 weeks. Rhinorrhea and postnasal drip occurred in all patients and usually cleared within 2 weeks. Pre-op: non-vital teeth were root-treated first.
+
+**Not specified in either paper:** irrigation pressure and device (Jaiswal), iodine concentration, postoperative antibiotic agent and duration (Jaiswal), packing-removal timing (Jaiswal), who irrigates and where (Gang), antrostomy closure management (Gang).
+
+**Not specified in the Kim 2025 text and so not held:** volume per session, needle entry point/angle, syringe or cannula type, whether the needle stays in place, antibiotic duration for this series. The authors quote 14 days or 7 days beyond symptom resolution (up to 28 days) from other literature, not from their own data. The trial's own antibiotic dose and duration are given only for the illustrated case.
 
 ### Indications as reported (not validated)
 
