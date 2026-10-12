@@ -4,8 +4,8 @@ authors: "Falatah AM, AlQari AA, Alrwiali MA, Altalhi L, Alanazi NM, Bin Othman 
 year: 2025
 doi: "10.7759/cureus.98601"
 category: [endodontics]
-pdf_path: ""
-pdf_filename: ""
+pdf_path: 
+pdf_filename: 
 source_collection: pubmed-abstract
 ---
 
