@@ -4,8 +4,8 @@ authors: "Kaur K, Quadri SA, Saini RS, Alarcón-Sánchez MA, Heboyan A"
 year: 2026
 doi: "10.1038/s41405-026-00450-z"
 category: orthodontics/clear-aligner
-pdf_path: ""
-pdf_filename: ""
+pdf_path: 
+pdf_filename: 
 source_collection: pubmed-abstract
 ---
 
