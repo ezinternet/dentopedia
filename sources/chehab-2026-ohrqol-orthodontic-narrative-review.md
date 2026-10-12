@@ -8,8 +8,8 @@ source_collection: clear-aligner-pro-surveillance-2026-07
 full_text: true
 pmid: "42074775"
 source_url: "https://pubmed.ncbi.nlm.nih.gov/42074775/"
-text_path: "papers/chehab-2026-ohrqol-orthodontic-narrative-review.txt"
-text_filename: "chehab-2026-ohrqol-orthodontic-narrative-review.txt"
+text_path: papers/chehab-2026-ohrqol-orthodontic-narrative-review.txt
+text_filename: chehab-2026-ohrqol-orthodontic-narrative-review.txt
 ---
 
 ## Why Ingested
