@@ -4,8 +4,8 @@ authors: "Cabrera-Fernández A, Dominguez-Dominguez L, Pérez-Pérez A, Santos J
 year: 2026
 doi: "10.3390/jfb17010032"
 category: [endodontics/vpt]
-pdf_path: ""
-pdf_filename: ""
+pdf_path: 
+pdf_filename: 
 source_collection: pubmed-abstract
 ---
 
