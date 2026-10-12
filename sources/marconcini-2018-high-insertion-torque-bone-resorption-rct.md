@@ -5,8 +5,8 @@ year: 2018
 doi: "10.1111/cid.12586"
 pmid: "29359880"
 category: implants/isq
-pdf_path: ""
-pdf_filename: ""
+pdf_path: 
+pdf_filename: 
 full_text: false
 source_collection: pubmed-abstract
 ---
