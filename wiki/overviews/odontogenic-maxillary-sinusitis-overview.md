@@ -23,7 +23,15 @@ source_papers:
   - wiki/sinus-lift/lateral/park-2024-surgical-drainage-simultaneous-sinus-floor.md
   - wiki/oral-medicine/psillas-2020-odontogenic-maxillary-sinusitis-comprehensive-review.md
   - wiki/drug/antibiotics/teoh-2021-oral-antibiotic-empirical-acute-dentoalveolar-infections.md
-tags: [overview, odontogenic-maxillary-sinusitis, oms, oroantral-fistula, fess, cbct, source-control, sinus-lift, membrane-perforation, prevention, ent-collaboration, felisati-grading]
+  - wiki/oral-medicine/odontogenic-sinusitis/kim-2025-treatment-of-non-chronic-odontogenic.md
+  - wiki/oral-medicine/odontogenic-sinusitis/jaiswal-2024-sinus-irrigation-as-an-adjunctive.md
+  - wiki/oral-medicine/odontogenic-sinusitis/gang-2021-comparing-the-efficacy-of-sinus.md
+  - wiki/oral-medicine/odontogenic-sinusitis/nahlieli-2020-trans-implant-treatment-of-chronic.md
+  - wiki/oral-medicine/odontogenic-sinusitis/nahlieli-2018-transimplant-antral-lavage-as-minimally.md
+  - wiki/sinus-lift/lateral/hong-2017-novel-approach-to-the-maxillary.md
+  - wiki/sinus-lift/lateral/kim-2010-diagnosis-and-treatment-of-maxillary.md
+  - wiki/sinus-lift/lateral/ohyama-2022-novel-management-severe-odontogenic-maxillary.md
+tags: [overview, odontogenic-maxillary-sinusitis, oms, oroantral-fistula, fess, cbct, source-control, sinus-lift, membrane-perforation, prevention, ent-collaboration, felisati-grading, sinus-irrigation, sinus-lavage]
 ---
 
 ## 한국어 핵심요약
@@ -41,21 +49,22 @@ tags: [overview, odontogenic-maxillary-sinusitis, oms, oroantral-fistula, fess, 
 > - **ENT 협진의 적응증 정밀화**: 점막비후·점액낭종(MRC)을 "병적 부비동염"으로 오인한 과잉 협진이 흔함 — Felisati 5등급 체계로 **3등급 이상(골구내강 폐쇄·명백한 부비동염·진균증)만 협진**, 점막비후 단독(>2–6 mm)은 협진 불요(Craig 2024). 이비인후과 관점의 핵심 결정 변수는 점막두께가 아니라 **자연공(natural ostium) 개존** — 이식재가 자연공을 막으면 부비동염, 막천공과는 별개 기전(Kim 2019). 술후 만성 부비동염은 상악 임플란트의 ~5%.
 > - **의인성 상악동염의 외과적 해소**: 임플란트가 상악동저에서 **>4 mm 돌출**하면 부비동염 위험 — 자연공 폐쇄·사골동 동반 침범 시 FESS 단독으로 부족하고 **FESS + 구강내 접근(이완 임플란트 제거·구강상악동루 폐쇄) 병용**이 필요(Nam 2014, 증례 10개월 완전 회복). FESS는 점막 보존하며 자연공을 넓혀 점막섬모수송(MCC)을 복원 — Caldwell-Luc 대비 입원·이환↓.
 > - **FESS 거부 시 대안**: 만성 상악동염 + 완전 혼탁 환자에서 측방창 거상술 중 **의도적 슈나이더막 절개(#15 blade)로 구강내 배액·세척 후 동시 이식·식립** 시도 — 천공은 배액 후 긴장 해소로 자가 정복되어 별도 봉합 불요, 1년 추적 임플란트 100% 생존·부비동염 0건·자연공 개존 회복(Park 2024, n=2 흡연자). source-control-first 명제를 거상술 한 세션 안에 통합한 사례.
+> - **상악동 세척(Sinus Irrigation/Lavage) 축**: 세척은 감염원 제거를 *대체*하지 않고 그 위에 얹는 **배액 경로**다 — 보고된 경로는 발치와(Kim 2025: 급성·아급성 n=7, 평균 2.7±1.3회로 해소, OAF 0)·측방 소창(Jaiswal 2024: n=21, CBCT 혼탁 감소 16/21·증상 호전 17/21, 내부 수치 불일치 있음)·견치와 개창(Hong 2017, n=1)·하비도 개창 카테터(Gang 2021)·임플란트 내부 포트(Nahlieli 2018/2020, 초록만). 유일한 대조 비교는 Gang 2021(RCT n=40, 무작위화 미기술): 낭종적출 후 세척이 칼드웰-뤽(Caldwell-Luc, CDL) 대비 조기 통증·발열·부종↓, 치유율 동일. **세척 vs 내시경 부비동수술(FESS) 직접 비교는 없음** → 실전 적용은 "급성·아급성 + 원인치/임플란트 제거로 발치와 접근 가능 + 세척액이 코로 나옴(자연공 개존)"에 한정하고, 2–3회 무반응 시 ENT 의뢰.
 > - **주의**: 예방축은 채워졌으나 대부분 관측연구이고 통합 위험점수의 예측 타당도를 검증한 RCT는 없음 — 점수화는 의사결정 보조이지 확정 도구 아님.
 
 ## Three-line Summary
 
-Synthesis of 18 papers establishing that odontogenic maxillary sinusitis (OMS) is a source-control disease: OMS is under-recognised (30–40% of chronic maxillary sinusitis, 45–72% of unilateral sinus opacification is odontogenic), now predominantly iatrogenic (~55% from implants/extractions/sinus lifts, ~45% from odontogenic lesions per De Corso 2022), and diagnosed by dual confirmation (imaging + dental source) where periodontal bone loss is a stronger CBCT mucosal-thickening predictor than periapical lesions (OR 2.2, Bisla 2022).
+Synthesis of 26 papers establishing that odontogenic maxillary sinusitis (OMS) is a source-control disease: OMS is under-recognised (30–40% of chronic maxillary sinusitis, 45–72% of unilateral sinus opacification is odontogenic), now predominantly iatrogenic (~55% from implants/extractions/sinus lifts, ~45% from odontogenic lesions per De Corso 2022), and diagnosed by dual confirmation (imaging + dental source) where periodontal bone loss is a stronger CBCT mucosal-thickening predictor than periapical lesions (OR 2.2, Bisla 2022).
 
-Antibiotics alone fail for treatable odontogenic lesions; 90–100% resolution requires concurrent dental source removal (RCT/extraction/periodontal treatment/foreign-body removal) ± FESS — FESS independently achieves 96.5% success but is adjunctive, not a substitute for source control; one-stage dental+ESS achieves ~97% success with recurrence <1–6%.
+Antibiotics alone fail for treatable odontogenic lesions; 90–100% resolution requires concurrent dental source removal (RCT/extraction/periodontal treatment/foreign-body removal) ± FESS — FESS independently achieves 96.5% success but is adjunctive, not a substitute for source control; one-stage dental+ESS achieves ~97% success with recurrence <1–6%. Sinus lavage/irrigation (via extraction socket, lateral or canine-fossa window, inferior-meatal catheter, or implant port) is reported only as a drainage route on top of source control; the sole controlled study (Gang 2021, weakly reported RCT, n=40) shows less early morbidity than Caldwell-Luc after cyst enucleation, and no held paper compares lavage with FESS.
 
 Oroantral fistula (OAF) closure follows a size-and-timing decision tree: <3 mm self-healing → <5 mm primary closure → ≥5 mm flap → >10 mm palatal rotation flap; buccal fat pad (BFP) is superior for medium-large defects (NMA OR 15 vs buccal advancement/palatal flap, Oliva 2024); acute primary closure achieves ~95% vs chronic secondary closure ~67% (Lazow 1999) — timing is the dominant outcome driver.
 
 ## 세줄요약
 
-치성 상악동염(Odontogenic Maxillary Sinusitis, OMS) 18편 종합: OMS는 과소진단(만성 상악동염의 30–40%, 단측 혼탁의 45–72%가 치성)되고 있으며 현재는 약 55%가 의인성(임플란트·발치·상악동거상술), 45%가 치성 병변(De Corso 2022); 이중확인 진단(부비동 영상 + 치성 원인)이 필수이고 치주골소실이 치근단병소보다 점막비후의 강한 예측인자(OR 2.2, Bisla 2022).
+치성 상악동염(Odontogenic Maxillary Sinusitis, OMS) 26편 종합: OMS는 과소진단(만성 상악동염의 30–40%, 단측 혼탁의 45–72%가 치성)되고 있으며 현재는 약 55%가 의인성(임플란트·발치·상악동거상술), 45%가 치성 병변(De Corso 2022); 이중확인 진단(부비동 영상 + 치성 원인)이 필수이고 치주골소실이 치근단병소보다 점막비후의 강한 예측인자(OR 2.2, Bisla 2022).
 
-항생제 단독 실패; 치과적 감염원 제거(근관치료·발치·치주처치·이물 제거) 병행 시에만 90–100% 해소 — FESS(내시경 부비동수술)는 단독 96.5% 성공이나 어디까지나 보조 수단이며, 치과+ESS 동시 진행은 성공률 ~97%(재발률 <1–6%).
+항생제 단독 실패; 치과적 감염원 제거(근관치료·발치·치주처치·이물 제거) 병행 시에만 90–100% 해소 — FESS(내시경 부비동수술)는 단독 96.5% 성공이나 어디까지나 보조 수단이며, 치과+ESS 동시 진행은 성공률 ~97%(재발률 <1–6%). 상악동 세척(Sinus Irrigation/Lavage — 발치와·측방/견치와 창·하비도 카테터·임플란트 포트)은 감염원 제거 위에 얹는 배액 경로로만 보고되며, 유일한 대조 연구(Gang 2021, 보고 부실 RCT n=40)는 낭종적출 후 칼드웰-뤽(Caldwell-Luc) 대비 조기 이환↓를 보였고 세척 vs FESS 비교 논문은 없다.
 
 구강상악동루(Oroantral Fistula, OAF) 폐쇄는 크기+타이밍 결정: <3 mm 자연치유 / <5 mm 단순봉합 / ≥5 mm 피판; 중대형엔 협측지방패드(BFP) 우위(NMA OR 15, Oliva 2024); 급성 1차 폐쇄 ~95% vs 만성 지연 ~67%(Lazow 1999) — 타이밍이 결과를 좌우한다.
 
@@ -67,7 +76,7 @@ Oroantral fistula (OAF) closure follows a size-and-timing decision tree: <3 mm s
 
 2. **진단(Dual confirmation)** — 단일 신호로 OMS를 단정하면 안 된다. ENT 관점의 핵심은 **이중확인** — 부비동 영상 소견 + 명확한 치성 원인(치근단/치주/의인성)을 함께 확인해야 한다(Craig 2022). CBCT가 그 연결고리다: 치근단병소 인접 치아는 상악동 점막두께가 유의하게 두껍고(3.95 vs 1.23 mm, Dumitrescu 2021), 더 중요하게 **치주골소실이 치근단병소보다 점막비후의 강한 예측인자**(OR 2.2, Bisla 2022)라는 점은 "치근단만 보던" 통념을 교정한다. 즉 CBCT는 부비동 평가이자 동시에 원인치 탐색 도구다.
 
-3. **치료(Source control first, FESS as adjunct)** — 항생제 단독은 치료 가능한 치성 병변에 실패한다(Craig 2022). **치과적 감염원 제거(근관치료·발치·치주처치·의인성 이물 제거)와 부비동 처치를 병행할 때 90–100% 해소**된다(Craig 2022). 내시경 부비동수술(FESS)은 그 자체로 96.5% 성공·SNOT-22 급속 개선(De Corso 2022)을 보이지만, 어디까지나 **원인 제거 위에 얹는 보조**이며 — 증상 부담이 큰 경우 1차 ESS도 유효한 선택지가 된다(Craig 2022). 최신 종합 리뷰도 이 명제를 재확인한다 — Albu 2025(narrative review, 6 SR + 24 임상연구)는 경험적 amoxicillin/amox-clav를 1차로 두되 항생제는 비치료적 보조이고, 치과 원인 제거 + ESS를 **한 번에(one-stage) 병행할 때 ~97% 성공**(recurrence <1–6%)이라고 정리한다.
+3. **치료(Source control first, FESS as adjunct)** — 항생제 단독은 치료 가능한 치성 병변에 실패한다(Craig 2022). **치과적 감염원 제거(근관치료·발치·치주처치·의인성 이물 제거)와 부비동 처치를 병행할 때 90–100% 해소**된다(Craig 2022). 내시경 부비동수술(FESS)은 그 자체로 96.5% 성공·SNOT-22 급속 개선(De Corso 2022)을 보이지만, 어디까지나 **원인 제거 위에 얹는 보조**이며 — 증상 부담이 큰 경우 1차 ESS도 유효한 선택지가 된다(Craig 2022). 최신 종합 리뷰도 이 명제를 재확인한다 — Albu 2025(narrative review, 6 SR + 24 임상연구)는 경험적 amoxicillin/amox-clav를 1차로 두되 항생제는 비치료적 보조이고, 치과 원인 제거 + ESS를 **한 번에(one-stage) 병행할 때 ~97% 성공**(recurrence <1–6%)이라고 정리한다. 상악동 세척(sinus irrigation/lavage) 근거는 이 명제를 바꾸지 않는다 — 보고된 모든 세척 프로토콜이 원인 제거와 같은 회차에 시행되므로, 세척은 "감염원 제거 *대신*"이 아니라 FESS·Caldwell-Luc와 경쟁하는 **배액 경로의 하나**다(근거는 대부분 비대조 증례군; 아래 Lavage / Irrigation Axis).
 
 마지막으로, OMS의 가장 흔한 의인성 후유증인 **구강상악동루(OAF)**의 폐쇄는 별도 결정 트리를 따른다: 결손 크기 기반 선택(작으면 자연치유/단순봉합, 커지면 피판)과 **타이밍이 결과를 좌우** — 급성 1차 폐쇄 ~95% vs 만성 2차 폐쇄 최저 67%(Lazow 1999). 피판 선택에서는 네트워크 메타분석상 **협측지방패드(BFP)가 협측전진피판·구개회전피판보다 우월**(OR 15, Oliva 2024)하다.
 
@@ -75,16 +84,24 @@ Oroantral fistula (OAF) closure follows a size-and-timing decision tree: <3 mm s
 
 | Paper | 축 | Design | Key finding | Confidence |
 |---|---|---|---|---|
-| Kim 2019 | 인식·기전 | narrative review | OMS = 만성 상악동염의 30–40%; 다균·생물막; CLP/FESS/MESS 비교 | narrative-review |
-| Psillas 2020 | 인식·개요 | narrative review | 단측 상악동염 ~30% 치성; 발치·치성감염·OAF 주원인; 치과+ESS 병행 표준 | narrative-review |
-| Lin 2024 | 진단·분류 | expert consensus | 단측 상악동 혼탁 45–72% 치성; 표준 분류·다학제 알고리즘 | consensus |
-| Craig 2022 | 진단·치료 | narrative review (ENT) | 이중확인 진단; 항생제 한계; 치과+ESS 90–100% 해소; 1차 ESS 옵션 | narrative-review |
-| De Corso 2022 | 치료(FESS) | retrospective (n=262) | FESS 96.5% 성공; 55% 의인성 vs 45% 치성; 동시 처치 58% | retrospective |
-| Bisla 2022 | 진단(CBCT) | cross-sectional (n=213/404동) | 치주골소실(OR 2.2) > 치근단병소 점막비후 예측; 점막변화 49.5% | cross-sectional |
-| Dumitrescu 2021 | 진단(CBCT) | prospective (n=50/328치) | 근단병소 인접 점막 3.95 vs 1.23 mm; 육아종 50%·낭종 40% | prospective |
-| Oliva 2024 | OAF 폐쇄 | SR + NMA (9편, n=519) | BFP > 협측전진피판(OR 15)·구개회전피판(OR 15.29) | sr+ma |
-| Kwon 2020 | OAF 폐쇄 | narrative + case series | 크기 기반 알고리즘(<3mm 자연·<5mm 봉합·≥5mm 피판·>10mm 구개) | narrative-review |
-| Lazow 1999 | OAF 폐쇄 | narrative review | 4단계 크기별 피판 프로토콜; 급성 ~95% vs 만성 67% | narrative-review |
+| [[oral-medicine/odontogenic-sinusitis/kim-2019-definition-management-odontogenic-maxillary]] | 인식·기전 | narrative review | OMS = 만성 상악동염의 30–40%; 다균·생물막; CLP/FESS/MESS 비교 | narrative-review |
+| [[oral-medicine/odontogenic-sinusitis/psillas-2020-odontogenic-maxillary-sinusitis-comprehensive-review]] | 인식·개요 | narrative review | 단측 상악동염 ~30% 치성; 발치·치성감염·OAF 주원인; 치과+ESS 병행 표준 | narrative-review |
+| [[oral-medicine/odontogenic-sinusitis/lin-2024-odontogenic-maxillary-sinusitis-expert-consensus]] | 진단·분류 | expert consensus | 단측 상악동 혼탁 45–72% 치성; 표준 분류·다학제 알고리즘 | consensus |
+| [[oral-medicine/odontogenic-sinusitis/craig-2022-odontogenic-sinusitis-state-art]] | 진단·치료 | narrative review (ENT) | 이중확인 진단; 항생제 한계; 치과+ESS 90–100% 해소; 1차 ESS 옵션 | narrative-review |
+| [[oral-medicine/odontogenic-sinusitis/de-corso-2022-sinonasal-complications-dental-disease]] | 치료(FESS) | retrospective (n=262) | FESS 96.5% 성공; 55% 의인성 vs 45% 치성; 동시 처치 58% | retrospective |
+| [[oral-medicine/odontogenic-sinusitis/bisla-2022-odontogenic-infections-maxillary-sinus-changes]] | 진단(CBCT) | cross-sectional (n=213/404동) | 치주골소실(OR 2.2) > 치근단병소 점막비후 예측; 점막변화 49.5% | cross-sectional |
+| [[endodontics/diagnosis/dumitrescu-2021-cbct-periapical-lesions-maxillary-sinus]] | 진단(CBCT) | prospective (n=50/328치) | 근단병소 인접 점막 3.95 vs 1.23 mm; 육아종 50%·낭종 40% | prospective |
+| [[oral-surgery/oliva-2024-oroantral-communication-fistula-treatment-sr-ma]] | OAF 폐쇄 | SR + NMA (9편, n=519) | BFP > 협측전진피판(OR 15)·구개회전피판(OR 15.29) | sr+ma |
+| [[oral-surgery/kwon-2020-closure-oroantral-fistula-local]] | OAF 폐쇄 | narrative + case series | 크기 기반 알고리즘(<3mm 자연·<5mm 봉합·≥5mm 피판·>10mm 구개) | narrative-review |
+| [[oral-surgery/lazow-1999-oroantral-fistula-flap-procedures]] | OAF 폐쇄 | narrative review | 4단계 크기별 피판 프로토콜; 급성 ~95% vs 만성 67% | narrative-review |
+| [[oral-medicine/odontogenic-sinusitis/kim-2025-treatment-of-non-chronic-odontogenic]] | 세척(발치와) | retrospective case series (n=7) | 급성·아급성 OMS, 원인치/임플란트 제거 후 발치와 19G 천공 세척; 2.7±1.3회로 해소, OAF 0, 전례 코로 세척액 유출(자연공 개존) | case-report |
+| [[oral-medicine/odontogenic-sinusitis/jaiswal-2024-sinus-irrigation-as-an-adjunctive]] | 세척(측방 소창) | retrospective (n=21) | CBCT 혼탁 감소 16/21(76.1%), 증상 호전 17/21(80.9%); 발치 5/5 > 임플란트·이식 5/7; 대조군 없음·내부 불일치 | retrospective |
+| [[oral-medicine/odontogenic-sinusitis/gang-2021-comparing-the-efficacy-of-sinus]] | 세척 vs Caldwell-Luc | RCT (n=40, 무작위화 미기술) | 낭종적출 후 하비도 카테터 세척: 술후 1일 VAS 2.50 vs 4.15, 발열 1/20 vs 8/20, 중증부종 2/20 vs 6/20; 치유율 동일 | rct |
+| [[oral-medicine/odontogenic-sinusitis/nahlieli-2018-transimplant-antral-lavage-as-minimally]] | 세척(임플란트 포트) | uncontrolled series (n=11), abstract-only | 만성 비부비동염(CRS), 내부 포트 임플란트 경유 세척 + hydrocortisone; 30일 9/11 증상 완해 | in-vivo |
+| [[oral-medicine/odontogenic-sinusitis/nahlieli-2020-trans-implant-treatment-of-chronic]] | 세척(임플란트 포트) | retrospective (n=31), abstract-only | 만성 재발성 상악동염; 30일 28/31(90%) 완해, 임플란트 27개 사용 중·1개 실패; 동일 그룹·중복 가능 | retrospective |
+| [[sinus-lift/lateral/hong-2017-novel-approach-to-the-maxillary]] | 세척(견치와) | case report (n=1) | 치조정접근 거상 10일 후 급성 상악동염; 임플란트·이식재 제거 + 견치와 개창 세척 4회; 3.5개월 CT 회복 | case-report |
+| [[sinus-lift/lateral/kim-2010-diagnosis-and-treatment-of-maxillary]] | 세척(측방벽) | case report (n=2), abstract-only | 임플란트 후 급성 상악동염: 측방벽 소파 + 항생제 + 정기 세척으로 호전 | case-report |
+| [[sinus-lift/lateral/ohyama-2022-novel-management-severe-odontogenic-maxillary]] | 배액 경로(하비도 창) | case report (n=1) | 점막 보존 Caldwell-Luc + 하비도 대형 비상악동창 + 치근단절제; 2년 회복·창 개존; 자연공 기반 ESS의 해부학적 부적합 주장 | case-report |
 
 ## Clinical Decision Path
 
@@ -101,9 +118,17 @@ Oroantral fistula (OAF) closure follows a size-and-timing decision tree: <3 mm s
         • 의인성: 이물·과충전재·이주 임플란트 제거
         • 항생제 단독은 부적절(Craig) — 보조일 뿐
         │
+        ├─ 급성·아급성 + 원인치/임플란트 제거로 발치와 접근 가능 + 자연공 개존 추정
+        │   → 발치와 세척(socket lavage) 고려(Kim 2025, n=7 증례군 — 가설 수준)
+        │     • 19G 바늘 천공 + 생리식염수 반복 세척 + 배양 기반 항생제
+        │     • 세척액이 코로 나오면 자연공 개존의 bedside 확인
+        │     • 2–3회에도 세척 불가·배농 무호전 → 비치성 원인 탐색 + ENT 의뢰
+        │
         ├─ 부비동 잔존/증상 부담 ↑ → FESS 병행(96.5% 성공, De Corso)
         │                          또는 1차 ESS(고증상, Craig)
         │   → 치과+부비동 병행 시 90–100% 해소(Craig)
+        │   (만성·자연공 폐쇄·사골동 침범 → FESS ± 구강내 병용, Nam 2014;
+        │    세척 근거는 이 영역을 대조 비교로 다루지 않음)
         │
 4) OAF 동반 시 — 크기·타이밍 기반 폐쇄
         • <3 mm: 자연치유 기대 / <5 mm: 단순봉합 / ≥5 mm: 피판
@@ -111,6 +136,51 @@ Oroantral fistula (OAF) closure follows a size-and-timing decision tree: <3 mm s
         • >10 mm: 구개회전피판 고려(Kwon)
         • 급성 즉시 폐쇄(~95%) ≫ 만성 지연(67%) → 가능한 한 조기 폐쇄(Lazow)
 ```
+
+## Lavage / Irrigation Axis — sinus irrigation as a drainage adjunct
+
+**Scope.** Eight held papers describe maxillary sinus lavage/irrigation (상악동 세척, sinus irrigation/lavage) as part of OMS or sinusitis-after-dental-procedure management. None tests lavage *instead of* source control: in every OMS series the irrigation is paired with removal of the cause (tooth, implant, infected graft, foreign body, cyst). Lavage is therefore read here as a **drainage route layered on source control** — a possible alternative to *how* the sinus is drained (FESS/ESS or Caldwell-Luc), not to *whether* the dental source is treated. This keeps the overview's source-control-first thesis intact.
+
+### Routes reported
+
+| Route | Paper(s) | Design / n | Protocol as reported | Reported outcome | Main caveat |
+|---|---|---|---|---|---|
+| Extraction socket, after tooth/implant removal | [[oral-medicine/odontogenic-sinusitis/kim-2025-treatment-of-non-chronic-odontogenic]] | retrospective case series, n=7 | 19-gauge needle perforation through the socket; repeated saline syringe irrigation every 3 days to 2 weeks; local anesthesia; empiric then culture-guided antibiotics | 2.7±1.3 sessions to resolution (median 3, IQR 2–4); no oroantral fistula (OAF); saline passed out through the nose in all patients | no control; follow-up duration not stated |
+| Small lateral window (≥10 mm above the crest) | [[oral-medicine/odontogenic-sinusitis/jaiswal-2024-sinus-irrigation-as-an-adjunctive]] | retrospective, n=21, ≥2 months follow-up | antibiotic-refractory, mostly iatrogenic OMS; 3-mm round bur window; inflamed membrane and foreign bodies removed; saline or iodine irrigation at surgery; general anesthesia in 16/21 | CBCT opacity decreased in 16/21 (76.1%), mean reduction 40.15%; symptoms improved in 17/21 (80.9%), none worse; radiographic decrease extraction 5/5 vs implant 5/7 vs sinus graft 5/7; etiology vs improvement p=0.29 | no control; concurrent membrane/foreign-body removal confounds the irrigation effect; internal inconsistencies (implant subgroup composition 3+3+1 in prose vs 4+2+1 in Table 2; unit of the 40.15% undefined) |
+| Canine-fossa antrostomy with tube drain | [[sinus-lift/lateral/hong-2017-novel-approach-to-the-maxillary]] | case report, n=1 | acute sinusitis 10 days after crestal osteotome lift + graft + implant; implant and infected graft removed; 4 irrigation sessions 4 days apart; 21 days of amoxicillin/decongestant/mucolytic/NSAID | no pus after 4 sessions; CT at 3.5 months read as recovered | single case; blind technique; claimed advantages over Caldwell-Luc/ESS not tested |
+| Lateral-wall opening with curettage | [[sinus-lift/lateral/kim-2010-diagnosis-and-treatment-of-maxillary]] | case report, n=2, abstract-only | curettage via the lateral wall + antibiotics + regular in-hospital irrigation for post-implant sinusitis | symptoms improved (abstract: "after 2 weeks of the operation") | no quantitative data; abstract only |
+| Inferior meatal antrostomy + catheter | [[oral-medicine/odontogenic-sinusitis/gang-2021-comparing-the-efficacy-of-sinus]] | RCT (self-described), n=40 (20 vs 20) | after enucleation of large odontogenic cysts (median ~44 mm) with unilateral sinusitis; mucosa preserved; 100 mL saline twice daily via epidural catheter for 2 weeks vs Caldwell-Luc stripping and packing | day-1 VAS 2.50 vs 4.15; fever >38.0 °C on day 2 in 1/20 vs 8/20; severe swelling 2/20 vs 6/20; all cured, CT clear at 8–12 weeks in both arms; no cyst recurrence to 36 months | randomization, allocation concealment and blinding not described; exact P values not reported; cyst scenario only |
+| Trans-implant internal port | [[oral-medicine/odontogenic-sinusitis/nahlieli-2018-transimplant-antral-lavage-as-minimally]], [[oral-medicine/odontogenic-sinusitis/nahlieli-2020-trans-implant-treatment-of-chronic]] | uncontrolled series, n=11 and n=31 (retrospective), both abstract-only | sinus floor punctured through an implant with an internal port; saline lavage (+100 mg hydrocortisone in 2018); 2020 protocol: 3 lavage sessions, 4 CBCT, 4 transnasal endoscopies, review at days 30 and 60 | 2018: 9/11 complete relief of most symptoms at day 30. 2020: 28/31 (90%) by day 30; 27 implants osseointegrated in prosthetic use, 1 failure (poor bone quality); no recurrence reported | chronic (recurrent) rhinosinusitis cohorts with odontogenic vs rhinogenic etiology not stated; same group, patient overlap not stated; follow-up duration not stated |
+
+Two previously held pages sit next to these routes. [[sinus-lift/lateral/park-2024-surgical-drainage-simultaneous-sinus-floor]] (n=2) drains and irrigates through an intentional membrane incision during a lateral-window lift (see §6 above). [[sinus-lift/lateral/ohyama-2022-novel-management-severe-odontogenic-maxillary]] (n=1, severe OMS spreading to the frontal sinus) uses Caldwell-Luc access with mucosa preservation, intraoperative saline irrigation and a large inferior-meatus nasoantral window, with recovery and a patent window at 2 years. It is a drainage-route argument rather than a serial-lavage protocol.
+
+### Indications as reported (not validated)
+
+- **Acuity is not a shared criterion.** Kim 2025 enrolled only acute (≤4 weeks) or subacute (4–12 weeks) OMS and excluded prior ENT sinus treatment, bilateral disease and prior FESS. Hong 2017 describes acute sinusitis 10 days after a sinus lift, and Kim 2010's conclusion is framed for acute post-implant sinusitis. The Nahlieli series, by contrast, treated *chronic recurrent* rhinosinusitis. "Lavage is for non-chronic disease" is Kim 2025's position, not a conclusion across the cluster.
+- **Ostial patency is the stated precondition for socket lavage.** Kim 2025 infers ostial patency from saline exiting the nose during irrigation, and gives a stop rule: no irrigation flow or no drainage improvement after 2–3 sessions leads to a search for non-odontogenic causes and ENT involvement. This matches the ENT view that natural-ostium patency is the key decision variable ([[sinus-lift/lateral/kim-2019-maxillary-implants-otolaryngologist-perspective]]). It also matches Nam 2014, where an obstructed ostium with ethmoid involvement needed FESS plus intraoral surgery ([[sinus-lift/lateral/nam-2014-fess-intraoral-implant-related-sinusitis]]).
+- **Tension on the drainage route itself.** Ohyama 2022 argues that OMS pus pools below the natural ostium, so ostium-based ESS drainage is anatomically mismatched and prone to reclosure. It favours an inferior-meatus window, which is the same route Gang 2021 used for its catheter. The ostium-centred algorithms (Lin 2024, Kim 2019 ENT) put ESS at the drainage step. No held paper compares these drainage philosophies head-to-head.
+- **Etiology signal (weak).** In Jaiswal 2024, extraction-related cases cleared radiographically most often (5/5), and implant- and graft-related cases less often (5/7 each). The authors attribute persistent opacity partly to bone particles that irrigation did not wash out. The etiology difference was not significant (p=0.29, n=21).
+
+### Comparators — what is and is not controlled
+
+- **Only one controlled comparison exists, and it is not against FESS.** Gang 2021 compares catheter irrigation with Caldwell-Luc after cyst enucleation. Early morbidity was lower (pain, fever, swelling), with equal cure and CT clearance. This fits the Caldwell-Luc morbidity profile listed in [[oral-medicine/odontogenic-sinusitis/kim-2019-definition-management-odontogenic-maxillary]] (postoperative maxillary cyst, paresthesia, wall sclerosis). However, the trial's randomization is undocumented and its population is cyst-specific.
+- **No held paper compares lavage with FESS/ESS or with antibiotics alone.** Kim 2025's argument that socket lavage "may spare FESS" rests on background FESS-need rates the authors quote from *other* studies. Its own series has no comparator. [[oral-medicine/odontogenic-sinusitis/albu-2025-treatment-landscape-odontogenic-sinusitis]] reports that implant-related odontogenic sinusitis frequently needs ESS (~79%; possibly the same underlying cohort as the "79% of 19 post-implant patients" Kim 2025 quotes, so not independent) and that one-stage dental treatment + ESS gives ~97% success. These two sources are compatible only if lavage candidates are a selected subgroup (acute/subacute, patent ostium, source already removed). That selection is a hypothesis, not a demonstrated finding.
+- **Consensus position.** As held, [[oral-medicine/odontogenic-sinusitis/lin-2024-odontogenic-maxillary-sinusitis-expert-consensus]] places sinus drainage via ESS inside its multidisciplinary algorithm. Our page records no lavage route in it. Lavage is therefore an option *outside* the consensus algorithm, supported by uncontrolled series.
+
+### Evidence strength — honest ledger
+
+- 1 small RCT with weak reporting (Gang 2021, cyst population); 2 retrospective case series with full text (Jaiswal 2024 n=21; Kim 2025 n=7); 2 abstract-only uncontrolled series from one group (Nahlieli 2018/2020, possible overlap; do not add their n together); 4 case reports (Hong 2017 n=1, Kim 2010 n=2 abstract-only, Park 2024 n=2, Ohyama 2022 n=1).
+- Outcomes are heterogeneous: sessions to resolution, CBCT opaque volume, symptom relief, early morbidity. Pooling is therefore not meaningful, and no recurrence rate for socket or window lavage can be stated. Gang 2021 reports 36-month freedom from *cyst* recurrence; Nahlieli reports "no recurrence" over unstated follow-up.
+- Irrigant and schedule are not standardized: saline in all, iodine as an option (Jaiswal), hydrocortisone (Nahlieli 2018). Intervals range from every 3 days–2 weeks (Kim 2025) to 4 days (Hong) to twice daily via catheter (Gang).
+
+### Decision-oriented takeaway (reasoning from held papers)
+
+1. **Source control first, lavage second.** Every held lavage protocol removes the cause in the same episode. Lavage without source removal has no held support.
+2. **Best-supported niche: acute/subacute OMS where the causative tooth or implant is being removed anyway.** The socket already gives chairside access under local anesthesia (Kim 2025). Use saline outflow through the nose as a patency check. Apply the 2–3-session stop rule, then refer to ENT. Kim 2025 chose repeated needle irrigation over an indwelling oral drain because of fistula risk, and observed no OAF in its series.
+3. **No socket access (post-graft or post-implant sinusitis):** a canine-fossa or lateral-window route with graft/implant removal is described (Hong 2017, Kim 2010, Jaiswal 2024). Most of Jaiswal's window procedures were done under general anesthesia, so the window route is not necessarily an "office" procedure. Implant- and graft-related cases cleared less consistently on CBCT.
+4. **Chronic disease, obstructed ostium, or spread beyond the maxillary sinus:** the held lavage evidence does not cover this with comparative data. Follow the FESS ± intraoral route (Nam 2014; Lin 2024; Kim 2019 ENT), or a mucosa-preserving inferior-meatus window in severe cases (Ohyama 2022, n=1). The trans-implant CRS series (Nahlieli) are abstract-only and etiology-unspecified, so they should not be used to justify placing implants into an infected sinus.
+5. **After enucleation of a large cyst that involves the sinus:** catheter irrigation through an inferior meatal antrostomy is the only lavage option with a concurrent comparator. It shows lower early morbidity than Caldwell-Luc with equal cure (Gang 2021), which is supportive but not definitive.
+6. **Named gaps:** no lavage-vs-FESS comparison; no lavage-vs-antibiotics-alone comparison; no long-term recurrence data for socket or window lavage; no held data on socket lavage in chronic OMS; no validated selection criteria beyond Kim 2025's bedside patency check.
 
 ## 예방축 — 상악동거상술(SFE)에서 천공·OMS 예방
 
@@ -170,6 +240,8 @@ OMS의 원인 구성에서 **의인성(임플란트·SFE)이 약 55%로 1위**(D
 
 → 종합하면 §6은 OMS 본 명제를 거상술 맥락으로 번역한다: **점막비후 ≠ 협진 사유(Felisati ≥3·자연공 폐쇄가 진짜 기준)**, 그리고 의인성 부비동염은 **FESS ± 구강내 병용** 또는 (FESS 거부 시) **의도적 막절개 동시 배액**으로 source control을 달성하되 — 가능하면 증대·식립과 한 세션에 통합한다.
 
+> 세척(lavage/irrigation)을 독립 관리 선택지로 본 근거 — 경로·적응증·비교군·근거 강도 — 는 위 "Lavage / Irrigation Axis" 섹션 참조.
+
 ### 예방 종합 — chairside 위험 점수화
 
 위 인자를 술전에 한 화면에서 채점하도록 인터랙티브로 구현했다 — RRH·점막두께·중격·흡연(+PSAA·OMC) 입력 → 위험등급 + 창 디자인 권고: [[interactives/2026-06-12_sinus-perforation-risk-calculator]].
@@ -178,6 +250,7 @@ OMS의 원인 구성에서 **의인성(임플란트·SFE)이 약 55%로 1위**(D
 
 - **예방축 근거는 채워졌으나 대부분 관측연구다.** §1–5의 핵심 수치는 SR+MA(Lee·Ye·Wang·Henriques·Rocha·Sala) + 전향코호트(Nemati·Khiabani)로 비교적 단단하지만, 통합 위험점수의 *예측 타당도*를 검증한 RCT는 아직 없다 — 점수화는 의사결정 보조이지 확정 도구가 아니다.
 - **근거 등급의 비대칭.** OAF 피판 우열은 NMA(Oliva)로 비교적 단단하나, 진단·치료 핵심 주장(이중확인·90–100% 해소)은 narrative/retrospective 기반이라 RCT 수준 근거는 부족.
+- **세척(lavage) 축은 근거가 가장 얇은 치료 축이다.** 8편 중 대조군을 가진 것은 Gang 2021 하나(무작위화 미기술, 낭종 집단, 비교 대상은 FESS가 아닌 Caldwell-Luc)뿐이고, 나머지는 비대조 증례군·증례보고이며 3편(Nahlieli 2018/2020, Kim 2010)은 초록만 확보됐다. Jaiswal 2024는 본문 내 수치 불일치(임플란트 하위군 구성, 40.15%의 단위 미정의)가 있어 수치 인용 시 그 페이지의 caveat를 함께 옮길 것. 세척 vs FESS, 세척 vs 항생제 단독, 발치와 세척의 장기 재발률은 모두 미보유.
 - **의인성 증가 추세**(De Corso 55%)는 임플란트·SFE 보급의 그림자 — 시술 전 CBCT 부비동 평가와 치주상태 확인이 예방의 출발점.
 
 ## Related Pages
@@ -203,3 +276,11 @@ OMS의 원인 구성에서 **의인성(임플란트·SFE)이 약 55%로 1위**(D
 - [[sinus-lift/lateral/kim-2019-maxillary-implants-otolaryngologist-perspective]] — ENT 관점 술전 평가; 자연공 개존이 핵심 결정 변수; 술후 만성부비동염 ~5%; CT 기반 관리 플로차트
 - [[sinus-lift/lateral/nam-2014-fess-intraoral-implant-related-sinusitis]] — 임플란트 >4 mm 돌출·자연공 폐쇄 부비동염; FESS + 구강내 병용 협동 수술; 10개월 완전 회복
 - [[sinus-lift/lateral/park-2024-surgical-drainage-simultaneous-sinus-floor]] — FESS 거부 시 대안: 의도적 막절개 동시 배액 + 동시 증대·식립; 1년 100% 생존·부비동염 0건
+- [[oral-medicine/odontogenic-sinusitis/kim-2025-treatment-of-non-chronic-odontogenic]] — 급성·아급성 OMS 발치와 세척(n=7); 2.7±1.3회로 해소, OAF 0; 자연공 개존 bedside 확인 + 2–3회 stop rule
+- [[oral-medicine/odontogenic-sinusitis/jaiswal-2024-sinus-irrigation-as-an-adjunctive]] — 측방 소창 세척(n=21); CBCT 혼탁 감소 16/21, 증상 호전 17/21; 대조군 없음·내부 불일치
+- [[oral-medicine/odontogenic-sinusitis/gang-2021-comparing-the-efficacy-of-sinus]] — 낭종적출 후 하비도 카테터 세척 vs Caldwell-Luc RCT(n=40); 조기 이환↓·치유 동일; 무작위화 미기술
+- [[oral-medicine/odontogenic-sinusitis/nahlieli-2018-transimplant-antral-lavage-as-minimally]] — 임플란트 내부 포트 경유 세척 예비 보고(n=11, 초록만)
+- [[oral-medicine/odontogenic-sinusitis/nahlieli-2020-trans-implant-treatment-of-chronic]] — 임플란트 내부 포트 세척 31례(초록만); 30일 90% 완해; 동일 그룹·중복 가능
+- [[sinus-lift/lateral/hong-2017-novel-approach-to-the-maxillary]] — 거상술 후 상악동염, 견치와 개창 세척 4회(n=1)
+- [[sinus-lift/lateral/kim-2010-diagnosis-and-treatment-of-maxillary]] — 임플란트 후 급성 상악동염, 측방벽 소파 + 정기 세척(n=2, 초록만)
+- [[sinus-lift/lateral/ohyama-2022-novel-management-severe-odontogenic-maxillary]] — 점막 보존 Caldwell-Luc + 하비도 비상악동창(n=1); 자연공 기반 ESS 배액의 해부학적 한계 주장
