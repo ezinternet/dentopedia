@@ -4,8 +4,8 @@ authors: "Pegg JE, Lothamer C, Rawlinson JE"
 year: 2019
 doi: "10.1177/0898756419892635"
 category: [dental-handpiece]
-pdf_path: ""
-pdf_filename: ""
+pdf_path: 
+pdf_filename: 
 source_collection: pubmed-abstract
 ---
 
