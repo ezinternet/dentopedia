@@ -57,6 +57,7 @@ Irrigation appears to cause less postoperative morbidity than Caldwell–Luc wit
 - **Group B**: standard CDL — diseased and inflamed sinus membranes enucleated and stripped; sinus cavity packed for hemostasis.
 - **Common**: intraoral incision closed with absorbable sutures; cefazolin 2000 mg intravenously twice daily for 3 days; sinus precautions for 2 weeks.
 - **Outcomes**: facial swelling (day 2), pain by VAS (day 1), temperature elevation (day 2), rhinorrhea/postnasal drip, nasal obstruction, paresthesia, CT clearance of chronic maxillary sinusitis, cyst recurrence; longest follow-up 36 months.
+- **Protocol gaps (full-text re-read 2026-10-12)**: not stated — irrigation pressure, who irrigated and where (inpatient vs home), antibiotic after day 3, antrostomy closure management (82% of 367 antrostomies closed at 3 months is quoted from other literature), catheter-related problems. The catheter sits in the cyst cavity (cyst-surgery scenario). "Restoration of the mucosa" in the conclusion was not measured. Future plan: catheter via the natural ostium with FESS.
 - **Statistics**: Wilcoxon rank sum test (swelling), t-test (VAS), chi-squared test (temperature); cyst diameter reported by quartile method because non-normal. Exact P values are not given (only P<0.05).
 
 ## 4. Key Results and Benchmarks
