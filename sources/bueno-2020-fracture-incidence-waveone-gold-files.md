@@ -6,7 +6,7 @@ doi: "10.1111/iej.13349"
 category: "endodontics/shaping"
 source_collection: "pubmed-text"
 text_path: /Users/oracleneo/llm-wiki/papers/bueno-2020-fracture-incidence-waveone-gold-files.txt
-text_filename: "bueno-2020-fracture-incidence-waveone-gold-files.txt"
+text_filename: bueno-2020-fracture-incidence-waveone-gold-files.txt
 pmid: "32573799"
 full_text: true
 ---
