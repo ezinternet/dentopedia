@@ -15,32 +15,36 @@ tags: [navigation, category-index, odontogenic-sinusitis]
 > [!summary] 한국어 핵심요약
 > - **분야**: 구강내과·치성상악동염
 > - **범위**: Odontogenic maxillary sinusitis (ODS) — maxillary sinusitis of dental origin (periapical/periodontal infection, oroantral communication, iatrogenic implant/graft/endodontic causes), diagnosis (CBCT unilateral opacification, odontogenic vs rhinogenic differentiation), sinonasal complications of denta…
-> - **수록 논문**: 12편
+> - **수록 논문**: 16편
 
 ## Three-line Summary
 
 **Scope**: Odontogenic maxillary sinusitis (ODS) — maxillary sinusitis of dental origin (periapical/periodontal infection, oroantral communication, iatrogenic implant/graft/endodontic causes), diagnosis (CBCT unilateral opacification, odontogenic vs rhinogenic differentiation), sinonasal complications of dental disease, multidisciplinary dental–ENT management (dental source removal, FESS, antibiotics), state-of-art reviews & expert consensus
-**Indexed papers**: 12 papers in `wiki/oral-medicine/odontogenic-sinusitis/`.
+**Indexed papers**: 16 papers in `wiki/oral-medicine/odontogenic-sinusitis/`.
 
 ## 세줄요약
 
 **분야**: 구강내과·치성상악동염
-**수록 논문**: 12편
+**수록 논문**: 16편
 **하위 카테고리**: 없음
 
-## Papers in this Category (12)
+## Papers in this Category (16)
 
 | Paper |
 |---|
 | [[albu-2025-treatment-landscape-odontogenic-sinusitis|Navigating the Treatment Landscape of Odontogenic Sinusitis: Current Trends and Future Directions]] |
 | [[bisla-2022-odontogenic-infections-maxillary-sinus-changes|Evaluation of relationship between odontogenic infections and maxillary sinus changes: A Cone Beam Computed Tomography-based study]] |
+| [[chong-2016-saline-irrigation-chronic-rhinosinusitis|Saline irrigation for chronic rhinosinusitis]] |
 | [[craig-2022-odontogenic-sinusitis-state-art|Odontogenic sinusitis: A state-of-the-art review]] |
 | [[de-corso-2022-sinonasal-complications-dental-disease|Real-Life Experience in the Management of Sinonasal Complications of Dental Disease or Treatments]] |
 | [[gang-2021-comparing-the-efficacy-of-sinus|Comparing the efficacy of sinus irrigation with traditional Caldwell–Luc procedure following odontogenic cyst surgery involving the maxillary sinus]] |
+| [[gnanasekaran-2024-nasal-irrigation-postoperative-fess|Evaluating the efficacy of nasal irrigation in postoperative functional endoscopic sinus surgery patients: a systematic review and meta-analysis]] |
 | [[jaiswal-2024-sinus-irrigation-as-an-adjunctive|Sinus irrigation as an adjunctive therapy for odontogenic maxillary sinusitis — an in-depth analysis]] |
 | [[kim-2019-definition-management-odontogenic-maxillary|Definition and management of odontogenic maxillary sinusitis]] |
 | [[kim-2025-treatment-of-non-chronic-odontogenic|Treatment of non-chronic odontogenic sinusitis: maxillary sinus lavage via extraction socket after tooth or implant removal]] |
 | [[lin-2024-odontogenic-maxillary-sinusitis-expert-consensus|Expert consensus on odontogenic maxillary sinusitis multi-disciplinary treatment]] |
+| [[martu-2022-odontogenic-sinusitis-diagnosis-treatment-narrative-review|Odontogenic Sinusitis: From Diagnosis to Treatment Possibilities—A Narrative Review of Recent Data]] |
 | [[nahlieli-2018-transimplant-antral-lavage-as-minimally|Transimplant antral lavage as minimally invasive treatment of chronic rhinosinusitis: Preliminary report of 11 consecutive cases.]] |
 | [[nahlieli-2020-trans-implant-treatment-of-chronic|Trans-implant treatment of chronic recurrent maxillary sinusitis via dynamic implants with an internal port: Experience with 31 cases]] |
 | [[psillas-2020-odontogenic-maxillary-sinusitis-comprehensive-review|Odontogenic maxillary sinusitis: A comprehensive review]] |
+| [[tait-2018-budesonide-saline-irrigation-chronic-rhinosinusitis|Effect of Budesonide Added to Large-Volume, Low-pressure Saline Sinus Irrigation for Chronic Rhinosinusitis: A Randomized Clinical Trial]] |
