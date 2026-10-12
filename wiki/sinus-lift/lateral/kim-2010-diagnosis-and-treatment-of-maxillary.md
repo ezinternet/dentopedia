@@ -43,6 +43,9 @@ Case report, n=2 patients. Clinical (oral) and radiographic features were descri
 | Quantitative outcomes | Not reported in the abstract |
 | Authors' conclusion | Acute maxillary sinusitis: direct lateral-wall approach, regular in-hospital irrigation, antibiotics |
 
+## Citation Note
+[[oral-medicine/odontogenic-sinusitis/jaiswal-2024-sinus-irrigation-as-an-adjunctive]] cites "Kim et al." as a report of lateral sinus irrigation in two post-implant sinusitis patients, with CBCT opacity falling markedly 2 weeks later. This may be the present paper, but it is unconfirmed: Jaiswal's retrieved text has no reference list, and this paper's abstract gives no CBCT figures.
+
 ## Related Papers
 - [[sinus-lift/lateral/nam-2014-fess-intraoral-implant-related-sinusitis]] — implant-related sinusitis treated by FESS plus an intraoral approach; endoscopic alternative to the direct lateral-wall route described here (both n≤2 case-level evidence)
 - [[sinus-lift/lateral/kim-2019-maxillary-implants-otolaryngologist-perspective]] — ENT perspective centred on natural-ostium patency, with FESS as the standard route
