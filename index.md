@@ -4863,3 +4863,4 @@ tags: []
 - [[oral-medicine/odontogenic-sinusitis/gang-2021-comparing-the-efficacy-of-sinus]] — 상악동 침범 대형 치성낭종 낭종적출술 후 카테터 상악동 세척 vs 칼드웰-뤽 RCT(n=40): 술후 1일 VAS 2.50 vs 4.15, 술후 2일 발열 5% vs 40%, 양군 전원 치유·36개월 재발 없음
 - [[oral-medicine/odontogenic-sinusitis/nahlieli-2020-trans-implant-treatment-of-chronic]] — 내부 포트 임플란트 경유 만성 재발성 상악동염 후향 31례(초록만): 30일째 28/31(90%) 주요 증상 소실, 임플란트 27개 골유착·1개 실패, 재발 보고 없음
 - [[oral-medicine/odontogenic-sinusitis/nahlieli-2018-transimplant-antral-lavage-as-minimally]] — 만성 비부비동염 11명 연속 증례, 내부 포트 임플란트(DIVA) 경유 상악동 세척: 30일째 9/11명 증상 대부분 해소, 임플란트 전부 골유착 (초록만, 비대조 예비보고)
+- [[sinus-lift/lateral/hong-2017-novel-approach-to-the-maxillary]] — 치조정접근 상악동거상 10일 후 급성 상악동염 1례: 임플란트·이식재 제거 + 견치와 개창 관류 4회(4일 간격)로 농 소실·3.5개월 CT 회복 (n=1)
