@@ -49,7 +49,7 @@ tags: [overview, odontogenic-maxillary-sinusitis, oms, oroantral-fistula, fess, 
 > - **ENT 협진의 적응증 정밀화**: 점막비후·점액낭종(MRC)을 "병적 부비동염"으로 오인한 과잉 협진이 흔함 — Felisati 5등급 체계로 **3등급 이상(골구내강 폐쇄·명백한 부비동염·진균증)만 협진**, 점막비후 단독(>2–6 mm)은 협진 불요(Craig 2024). 이비인후과 관점의 핵심 결정 변수는 점막두께가 아니라 **자연공(natural ostium) 개존** — 이식재가 자연공을 막으면 부비동염, 막천공과는 별개 기전(Kim 2019). 술후 만성 부비동염은 상악 임플란트의 ~5%.
 > - **의인성 상악동염의 외과적 해소**: 임플란트가 상악동저에서 **>4 mm 돌출**하면 부비동염 위험 — 자연공 폐쇄·사골동 동반 침범 시 FESS 단독으로 부족하고 **FESS + 구강내 접근(이완 임플란트 제거·구강상악동루 폐쇄) 병용**이 필요(Nam 2014, 증례 10개월 완전 회복). FESS는 점막 보존하며 자연공을 넓혀 점막섬모수송(MCC)을 복원 — Caldwell-Luc 대비 입원·이환↓.
 > - **FESS 거부 시 대안**: 만성 상악동염 + 완전 혼탁 환자에서 측방창 거상술 중 **의도적 슈나이더막 절개(#15 blade)로 구강내 배액·세척 후 동시 이식·식립** 시도 — 천공은 배액 후 긴장 해소로 자가 정복되어 별도 봉합 불요, 1년 추적 임플란트 100% 생존·부비동염 0건·자연공 개존 회복(Park 2024, n=2 흡연자). source-control-first 명제를 거상술 한 세션 안에 통합한 사례.
-> - **상악동 세척(Sinus Irrigation/Lavage) 축**: 세척은 감염원 제거를 *대체*하지 않고 그 위에 얹는 **배액 경로**다 — 보고된 경로는 발치와(Kim 2025: 급성·아급성 n=7, 평균 2.7±1.3회로 해소, OAF 0)·측방 소창(Jaiswal 2024: n=21, CBCT 혼탁 감소 16/21·증상 호전 17/21, 내부 수치 불일치 있음)·견치와 개창(Hong 2017, n=1)·하비도 개창 카테터(Gang 2021)·임플란트 내부 포트(Nahlieli 2018/2020, 초록만). 유일한 대조 비교는 Gang 2021(RCT n=40, 무작위화 미기술): 낭종적출 후 세척이 칼드웰-뤽(Caldwell-Luc, CDL) 대비 조기 통증·발열·부종↓, 치유율 동일. **세척 vs 내시경 부비동수술(FESS) 직접 비교는 없음** → 실전 적용은 "급성·아급성 + 원인치/임플란트 제거로 발치와 접근 가능 + 세척액이 코로 나옴(자연공 개존)"에 한정하고, 2–3회 무반응 시 ENT 의뢰.
+> - **상악동 세척(Sinus Irrigation/Lavage) 축**: 세척은 감염원 제거를 *대체*하지 않고 그 위에 얹는 **배액 경로**다 — 보고된 경로는 발치와(Kim 2025: 급성·아급성 n=7, 평균 2.7±1.3회로 해소, OAF 0)·측방 소창(Jaiswal 2024: n=21, CBCT 혼탁 감소 16/21·증상 호전 17/21, 내부 수치 불일치 있음)·견치와 개창(Hong 2017, n=1)·하비도 개창 카테터(Gang 2021)·임플란트 내부 포트(Nahlieli 2018/2020, 초록만). 유일한 대조 비교는 Gang 2021(RCT n=40, 무작위화 미기술): 낭종적출 후 세척이 칼드웰-뤽(Caldwell-Luc, CDL) 대비 조기 통증·발열·부종↓, 치유율 동일. **세척 vs 내시경 부비동수술(FESS) 직접 비교는 없음** → 실전 적용은 "급성·아급성 + 원인치/임플란트 제거로 발치와 접근 가능 + 세척액이 코로 나옴(자연공 개존)"에 한정하고, 2–3회 무반응 시 ENT 의뢰. 경로별 단계·공백표 상세는 [[overviews/odontogenic-maxillary-sinus-lavage-overview]].
 > - **주의**: 예방축은 채워졌으나 대부분 관측연구이고 통합 위험점수의 예측 타당도를 검증한 RCT는 없음 — 점수화는 의사결정 보조이지 확정 도구 아님.
 
 ## Three-line Summary
@@ -139,7 +139,9 @@ Oroantral fistula (OAF) closure follows a size-and-timing decision tree: <3 mm s
 
 ## Lavage / Irrigation Axis — sinus irrigation as a drainage adjunct
 
-**Scope.** Eight held papers describe maxillary sinus lavage/irrigation (상악동 세척, sinus irrigation/lavage) as part of OMS or sinusitis-after-dental-procedure management. None tests lavage *instead of* source control: in every OMS series the irrigation is paired with removal of the cause (tooth, implant, infected graft, foreign body, cyst). Lavage is therefore read here as a **drainage route layered on source control** — a possible alternative to *how* the sinus is drained (FESS/ESS or Caldwell-Luc), not to *whether* the dental source is treated. This keeps the overview's source-control-first thesis intact.
+> Dedicated deeper page: [[overviews/odontogenic-maxillary-sinus-lavage-overview]] — route-by-route step-level protocols, indications/exclusions, complications, evidence ledger and a "Not specified in held papers" gap table. This section is the short version; numbers here match that page.
+
+**Scope.** Seven held papers describe a maxillary sinus lavage/irrigation route, and two more (Park 2024, Ohyama 2022) irrigate inside another drainage operation (상악동 세척, sinus irrigation/lavage), as part of OMS or sinusitis-after-dental-procedure management. None tests lavage *instead of* source control: in every OMS series the irrigation is paired with removal of the cause (tooth, implant, infected graft, foreign body, cyst). Lavage is therefore read here as a **drainage route layered on source control** — a possible alternative to *how* the sinus is drained (FESS/ESS or Caldwell-Luc), not to *whether* the dental source is treated. This keeps the overview's source-control-first thesis intact.
 
 ### Routes reported
 
@@ -274,7 +276,7 @@ OMS의 원인 구성에서 **의인성(임플란트·SFE)이 약 55%로 1위**(D
 
 - **예방축 근거는 채워졌으나 대부분 관측연구다.** §1–5의 핵심 수치는 SR+MA(Lee·Ye·Wang·Henriques·Rocha·Sala) + 전향코호트(Nemati·Khiabani)로 비교적 단단하지만, 통합 위험점수의 *예측 타당도*를 검증한 RCT는 아직 없다 — 점수화는 의사결정 보조이지 확정 도구가 아니다.
 - **근거 등급의 비대칭.** OAF 피판 우열은 NMA(Oliva)로 비교적 단단하나, 진단·치료 핵심 주장(이중확인·90–100% 해소)은 narrative/retrospective 기반이라 RCT 수준 근거는 부족.
-- **세척(lavage) 축은 근거가 가장 얇은 치료 축이다.** 8편 중 대조군을 가진 것은 Gang 2021 하나(무작위화 미기술, 낭종 집단, 비교 대상은 FESS가 아닌 Caldwell-Luc)뿐이고, 나머지는 비대조 증례군·증례보고이며 3편(Nahlieli 2018/2020, Kim 2010)은 초록만 확보됐다. Jaiswal 2024는 본문 내 수치 불일치(임플란트 하위군 구성, 40.15%의 단위 미정의)가 있어 수치 인용 시 그 페이지의 caveat를 함께 옮길 것. 세척 vs FESS, 세척 vs 항생제 단독, 발치와 세척의 장기 재발률은 모두 미보유.
+- **세척(lavage) 축은 근거가 가장 얇은 치료 축이다.** 세척 경로 7편(+ 인접 배액 수술 내 세척 2편) 중 대조군을 가진 것은 Gang 2021 하나(무작위화 미기술, 낭종 집단, 비교 대상은 FESS가 아닌 Caldwell-Luc)뿐이고, 나머지는 비대조 증례군·증례보고이며 3편(Nahlieli 2018/2020, Kim 2010)은 초록만 확보됐다. Jaiswal 2024는 본문 내 수치 불일치(임플란트 하위군 구성, 40.15%의 단위 미정의)가 있어 수치 인용 시 그 페이지의 caveat를 함께 옮길 것. 세척 vs FESS, 세척 vs 항생제 단독, 발치와 세척의 장기 재발률은 모두 미보유.
 - **의인성 증가 추세**(De Corso 55%)는 임플란트·SFE 보급의 그림자 — 시술 전 CBCT 부비동 평가와 치주상태 확인이 예방의 출발점.
 
 ## Related Pages
