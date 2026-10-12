@@ -89,6 +89,9 @@ Swelling started to decrease from day 3 and resolved within 1 week; rhinorrhea w
 - They cite a report that the inferior meatal antrostomy was closed in 82% of 367 cases at 3 months, and a rabbit study in which the nasal antral window did not redirect mucociliary clearance; this trial itself does not report antrostomy patency.
 - Reasoning only from our held pages: this trial's mucosa-preserving principle (preserve lining, add an inferior-meatus window) matches the single-case mucosa-preserving approach in [[sinus-lift/lateral/ohyama-2022-novel-management-severe-odontogenic-maxillary]] and addresses the CLP morbidity listed in [[oral-medicine/odontogenic-sinusitis/kim-2019-definition-management-odontogenic-maxillary]]. Because the trial's randomization is undocumented and it is small and single-center, treat it as supportive rather than definitive.
 
+## Citation Note
+[[oral-medicine/odontogenic-sinusitis/jaiswal-2024-sinus-irrigation-as-an-adjunctive]] cites Gang et al. as showing sinusitis healed within 8-12 weeks of "Caldwell-Luc followed by sinus irrigation". That misstates this trial: irrigation and Caldwell-Luc were separate arms, and both arms were cured with CT clearance at 8-12 weeks. Use this page, not Jaiswal's Discussion, for Gang 2021's design and results.
+
 ## Related Papers
 
 - [[oral-medicine/odontogenic-sinusitis/kim-2019-definition-management-odontogenic-maxillary]] — narrative review listing CLP morbidity (postoperative maxillary cyst, paresthesia, sinus wall sclerosis) and FESS/MESS alternatives; this trial offers a catheter-irrigation alternative with early morbidity data.
