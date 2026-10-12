@@ -87,8 +87,8 @@ CBCT 불투명도(radiopacity)는 21명 중 16명(76.1%)에서 감소(2명 불�
 ## 6. Related Work
 
 - Kim SM 2019 (single-author narrative review, in wiki): compares Caldwell-Luc, FESS and MESS; this paper adds irrigation-specific outcome data.
-- Gang et al. (cited in the Discussion): chronic maxillary sinusitis healed within 8–12 weeks of Caldwell-Luc followed by irrigation, no major complications at 36 months.
-- Kim et al. case report (cited): opaque images decreased significantly at 2 weeks after lateral irrigation in two post-implant patients.
+- Gang et al. (cited in the Discussion): chronic maxillary sinusitis healed within 8–12 weeks of Caldwell-Luc followed by irrigation, no major complications at 36 months. **[Citation error — verified against the Gang 2021 full text 2026-10-12]**: Gang 2021 compared an irrigation arm with a Caldwell-Luc arm (not Caldwell-Luc followed by irrigation); both arms were cured with CT clearance at 8–12 weeks. Do not reuse this sentence as Gang's finding.
+- Kim et al. case report (cited): opaque images decreased significantly at 2 weeks after lateral irrigation in two post-implant patients. **[Unverified]**: possibly kim-2010-diagnosis-and-treatment-of-maxillary (n=2, lateral-wall curettage + irrigation), but no reference list was retrieved and Kim 2010's abstract has no CBCT figures.
 - Matthias 2015 (cited, 174 cases): oroantral fistula after extraction the most common cause (60 cases, 34.5%), peri-implantitis 9 (5.2%), sinus lift 4 (2.3%); contrasts with this series where sinus graft was jointly most common (33.3%).
 - Kim et al. (cited, n=27): implant-related 10 (37%) and extraction-related 8 (29.6%).
 
