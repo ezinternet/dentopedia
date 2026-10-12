@@ -4,8 +4,8 @@ authors: "Young Woo Song, So-Ra Yoon, Jae-Kook Cha, Jung-Seok Lee, Seong-Ho Choi
 year: 2017
 doi: "unknown"
 category: "implants/ridge-augmentation"
-pdf_path: "/Users/oracleneo/llm-wiki/papers/kda-2017-vol55-no10.pdf"
-pdf_filename: "kda-2017-vol55-no10.pdf"
+pdf_path: /Users/oracleneo/llm-wiki/papers/kda-2017-vol55-no10.pdf
+pdf_filename: kda-2017-vol55-no10.pdf
 source_collection: "kda-journal"
 page_range: "676-677"
 full_text: false
