@@ -4,8 +4,8 @@ authors: "Fan Y, Sun F, Zhu Q, Wang J, Wang P, Zhou Y, Gao Y, Shou Y, Feng M, Hu
 year: 2025
 doi: "10.1016/j.identj.2025.104021"
 category: [endodontics]
-pdf_path: ""
-pdf_filename: ""
+pdf_path: 
+pdf_filename: 
 source_collection: pubmed-abstract
 ---
 
