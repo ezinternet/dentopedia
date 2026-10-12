@@ -8,8 +8,8 @@ source_collection: clear-aligner-pro-surveillance-2026-07
 full_text: true
 pmid: "41538529"
 source_url: "https://pubmed.ncbi.nlm.nih.gov/41538529/"
-text_path: "papers/oliveira-2026-daily-life-impact-aligners-vs-fixed.txt"
-text_filename: "oliveira-2026-daily-life-impact-aligners-vs-fixed.txt"
+text_path: papers/oliveira-2026-daily-life-impact-aligners-vs-fixed.txt
+text_filename: oliveira-2026-daily-life-impact-aligners-vs-fixed.txt
 ---
 
 ## Why Ingested
