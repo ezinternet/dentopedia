@@ -4,8 +4,8 @@ authors: "Mushtaq A, Alsanafi S, Elmsmari F, González JA, Garcia-Font M, Abella
 year: 2026
 doi: "10.1038/s41598-026-37936-7"
 category: [endodontics/obturation]
-pdf_path: ""
-pdf_filename: ""
+pdf_path: 
+pdf_filename: 
 source_collection: pubmed-abstract
 ---
 
