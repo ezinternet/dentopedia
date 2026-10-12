@@ -8,8 +8,8 @@ source_collection: clear-aligner-pro-surveillance-2026-07
 full_text: true
 pmid: "42145383"
 source_url: "https://pubmed.ncbi.nlm.nih.gov/42145383/"
-text_path: "papers/hamid-2026-complex-cases-aligners-ohip14.txt"
-text_filename: "hamid-2026-complex-cases-aligners-ohip14.txt"
+text_path: papers/hamid-2026-complex-cases-aligners-ohip14.txt
+text_filename: hamid-2026-complex-cases-aligners-ohip14.txt
 ---
 
 ## Why Ingested
