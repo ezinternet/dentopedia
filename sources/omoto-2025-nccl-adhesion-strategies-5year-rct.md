@@ -7,8 +7,8 @@ pmid: "41165258"
 pmcid: "PMC12577456"
 category: resin-bonding
 evidence_level: rct
-pdf_path: ""
-pdf_filename: ""
+pdf_path: 
+pdf_filename: 
 source_collection: pubmed-abstract
 full_text: false
 source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12577456/
