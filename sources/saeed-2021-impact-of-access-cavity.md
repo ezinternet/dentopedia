@@ -4,8 +4,8 @@ authors: "Musab Saeed, Mona Al-Obadi, Asma Salim, Alaa Y Alsawaf, Karrar Hadi"
 year: 2021
 doi: "10.2147/CCIDE.S287995"
 category: "endodontics/anatomy"
-pdf_path: "/Users/oracleneo/llm-wiki/papers/saeed-2021-impact-of-access-cavity.pdf"
-pdf_filename: "saeed-2021-impact-of-access-cavity.pdf"
+pdf_path: /Users/oracleneo/llm-wiki/papers/saeed-2021-impact-of-access-cavity.pdf
+pdf_filename: saeed-2021-impact-of-access-cavity.pdf
 source_collection: external
 ---
 
