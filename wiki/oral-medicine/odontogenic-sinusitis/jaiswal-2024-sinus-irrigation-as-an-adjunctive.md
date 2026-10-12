@@ -83,6 +83,10 @@ Authors' explanation for cases that did not clear: in implant- and bone-graft-re
 
 **Caveats from the text itself**: the prose lists implant cases as 3 perforation + 3 fixture removal + 1 peri-implantitis, whereas Table 2 gives 4 + 2 + 1; the "other" group description is partly contradictory. The authors suggest opacity rose in some implant and graft cases because bone particles were not easily washed out. Limitations named by the authors: retrospective, small sample, short long-term follow-up.
 
+## Citation Notes (secondary-citation errors in this paper)
+- **Gang 2021 is mis-described.** The Discussion says Gang et al. showed chronic maxillary sinusitis healed within 8-12 weeks of Caldwell-Luc "followed by sinus irrigation". Gang 2021 is a two-arm comparison: one arm had sinus irrigation after cyst enucleation, the other had Caldwell-Luc, and both arms were cured with CT clearance at 8-12 weeks (see [[oral-medicine/odontogenic-sinusitis/gang-2021-comparing-the-efficacy-of-sinus]]). Do not read Jaiswal's sentence as support for irrigation added to Caldwell-Luc, and do not use it as evidence about Gang's results.
+- **"Kim et al." two-patient report is unverified.** The Discussion cites a case report of lateral sinus irrigation in two post-implant sinusitis patients with CBCT opacity falling markedly 2 weeks later. [[sinus-lift/lateral/kim-2010-diagnosis-and-treatment-of-maxillary]] (n=2, lateral-wall curettage + irrigation, improvement "after 2 weeks of the operation") may be the same paper, but the retrieved text has no reference list and Kim 2010's abstract reports no CBCT figures, so the match is not confirmed.
+
 ## Related Papers
 
 - [[oral-medicine/odontogenic-sinusitis/kim-2019-definition-management-odontogenic-maxillary]] — narrative review comparing Caldwell-Luc, FESS and MESS; this series adds irrigation-specific outcome data (extends)
