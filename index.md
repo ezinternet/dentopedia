@@ -4856,3 +4856,6 @@ tags: []
 
 ### implants/survival
 - [[implants/survival/ramesh-2024-compression-necrosis-cause-concern-early]] — Ramesh 2024 · case-report (n=1, 33세 비흡연·비당뇨 여성, 하악 좌측 구치부 #19, 3.5×11.5mm, PMC 전문) · 언더사이징 드릴링(최종 3.2mm 드릴) + **무프리태핑** + 35–50 Ncm을 D2-D3 골에 적용 → 6주 IOPAR에서 임플란트 절반 길이까지 골소실(50%)·동요, fixture removal kit으로 제거; 재수술 채취골(0.3×0.15×0.05cm) 조직에서 **무염증(aseptic) 골괴사** 확인(골성 소주 + 골아세포 테두리 부재 + 생존골 전무 + 빈 골세포소강); **과열은 생리식염수 관주로 배제**(47°C/1분 임계 인용), 감염·전신은 임상·혈액(CBC·ESR·바이러스 표지 전부 정상)으로 배제 → 과압박 유력; 예방 4조(정밀 술식·제조사 권장 토크 상한·1/4회전 역회전·밀골 프리태핑), 논문 자체 내부 불일치 2건(1개월 이내 실패 vs 실제 6주 / 35 Ncm 안전 상한 vs 실제 35–50 Ncm) 명기 (DOI 10.2147/CCIDE.S453798)
+
+## Batch ingest (added 2026-10-12) — 상악동 세척술(lavage/irrigation) PubMed 서베일런스 (7편)
+- [[oral-medicine/odontogenic-sinusitis/kim-2025-treatment-of-non-chronic-odontogenic]] — 급성·아급성 치성 상악동염 7명(case-report): 발치/임플란트 제거 후 발치와 경유 상악동 세척(19G 천공+식염수+배양 기반 항생제), 평균 2.7±1.3회 세척으로 증상 해소·OAF 0건·FESS 회피 보고 (대조군 없음)
