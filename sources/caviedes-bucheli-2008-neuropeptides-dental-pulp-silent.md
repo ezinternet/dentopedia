@@ -8,8 +8,8 @@ doi: "10.1016/S0099-2399(08)00257-4"
 evidence_level: narrative-review
 source_collection: abstract-only
 full_text: false
-pdf_path: "papers/caviedes-bucheli-2008-neuropeptides-dental-pulp-silent.pdf"
-pdf_filename: "caviedes-bucheli-2008-neuropeptides-dental-pulp-silent.pdf"
+pdf_path: papers/caviedes-bucheli-2008-neuropeptides-dental-pulp-silent.pdf
+pdf_filename: caviedes-bucheli-2008-neuropeptides-dental-pulp-silent.pdf
 ---
 
 # Source Summary: Neuropeptides in Dental Pulp: The Silent Protagonists
