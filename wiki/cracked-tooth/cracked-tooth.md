@@ -2,7 +2,7 @@
 title: "균열치 증후군 — cracked-tooth"
 authors: navigation
 year: 2026
-date: 2026-09-22
+date: 2026-10-14
 doi: N/A
 source: navigation
 category: cracked-tooth
@@ -15,23 +15,24 @@ tags: [navigation, category-index, cracked-tooth]
 > [!summary] 한국어 핵심요약
 > - **분야**: 균열치 증후군
 > - **범위**: Cracked tooth syndrome — classification (Ellis/Baird), diagnosis, prognosis, restoration design, FEA stress analysis
-> - **수록 논문**: 31편
+> - **수록 논문**: 34편
 
 ## Three-line Summary
 
 **Scope**: Cracked tooth syndrome — classification (Ellis/Baird), diagnosis, prognosis, restoration design, FEA stress analysis
-**Indexed papers**: 31 papers in `wiki/cracked-tooth/`.
+**Indexed papers**: 34 papers in `wiki/cracked-tooth/`.
 
 ## 세줄요약
 
 **분야**: 균열치 증후군
-**수록 논문**: 31편
+**수록 논문**: 34편
 **하위 카테고리**: 없음
 
-## Papers in this Category (31)
+## Papers in this Category (34)
 
 | Paper |
 |---|
+| [[alaugaily-2022-cbct-patterns-bone-loss-clinical|CBCT Patterns of Bone Loss and Clinical Predictors for the Diagnosis of Cracked Teeth and Teeth with Vertical Root Fracture]] |
 | [[chan-2025-survival-endodontically-treated-cracked-teeth|Survival of Endodontically Treated Cracked Teeth: A 10- to 15-Year Retrospective Study]] |
 | [[deng-2026-occlusal-morphology-cracked-teeth-3d-morphometric|Association of Occlusal Morphology with Cracked Teeth: A 3D Morphometric Comparative Clinical Study]] |
 | [[dong-2026-nomogram-cracked-tooth-rct-5year-survival|Nomogram for 5-Year Tooth-Loss Prediction After RCT in Cracked Teeth with Irreversible Pulpitis]] |
@@ -48,9 +49,11 @@ tags: [navigation, category-index, cracked-tooth]
 | [[kaur-2026-cracked-tooth-syndrome-umbrella-review|Saving the split: An umbrella review on therapeutic approaches for cracked tooth syndrome]] |
 | [[kindaro-2025-diagnostic-accuracy-detect-cracked-teeth|Diagnostic Accuracy of Methods Used to Detect Cracked Teeth]] |
 | [[li-2021-cracked-tooth-syndrome-etiology-review|Review of Cracked Tooth Syndrome: Etiology, Diagnosis, Management, and Prevention]] |
+| [[liao-2021-vertical-root-fracture-non-endodontically-treated|Vertical Root Fracture in Non-Endodontically and Endodontically Treated Teeth: Current Understanding and Future Challenge]] |
 | [[lin-2026-biomimetic-adhesive-cracked-tooth-single-visit|A Biomimetic Adhesive Approach for Restoring a Cracked Tooth in a Single Visit: A Case Report]] |
 | [[liu-2025-restorative-design-materials-stress-cracked-teeth-fea|Effect of different restorative design and materials on stress distribution in cracked teeth: a finite element analysis study]] |
 | [[malentacca-2026-cuspal-coverage-direct-resin-composite-cracked|Cuspal Coverage Direct Resin Composite Restorations for Cracked Teeth: A Five-Year Clinical Study]] |
+| [[patel-2022-present-status-future-directions-vertical|Present status and future directions: vertical root fractures in root filled teeth]] |
 | [[patel-2025-position-statement-longitudinal-cracks-fractures|Position statement on longitudinal cracks and fractures of teeth]] |
 | [[pryles-2025-preventive-endodontics-crack-development-tooth-loss|Preventive Endodontics: Understanding Crack Development and Preventing Tooth Loss]] |
 | [[raj-2025-cracked-tooth-syndrome-diagnostic-dilemma|Cracked tooth syndrome: a diagnostic dilemma - a mini review]] |
