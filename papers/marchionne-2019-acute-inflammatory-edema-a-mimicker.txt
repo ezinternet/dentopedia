@@ -1,0 +1,18 @@
+TITLE: Acute inflammatory edema: A mimicker of cellulitis in critically ill patients.
+AUTHORS: Marchionne Elizabeth M ; McCalmont Timothy H ; Pincus Laura B ; LeBoit Philip E ; Fox Lindy P
+JOURNAL: Journal of the American Academy of Dermatology 81(4):931-936 (2019-06-01)
+ID[pmid]: 31163234
+ID[doi]: 10.1016/j.jaad.2019.05.083
+FULL_TEXT: false (abstract only; no PMC record)
+KEYWORDS: acute inflammatory edema; cellulitis; fluid overload; inpatient dermatology; lymphatic return; pseudocellulitis
+
+## ABSTRACT
+Inpatient dermatology consultations for treatment-refractory or atypical cellulitis are common. In critically ill patients, differentiating cellulitis from its mimickers can be challenging.
+
+We describe acute inflammatory edema, a likely underrecognized variant of pseudocellulitis.
+
+We reviewed the charts of 15 patients with this diagnosis, seen by the inpatient dermatology consultation service at the University of California at San Francisco between 2009 and 2017.
+
+The cohort consisted of 9 women and 6 men with an age range of 52-73 years. Acute inflammatory edema presents as bilateral, erythematous, and edematous plaques, most commonly involving the thighs and lower abdomen, sparing areas of increased pressure on the skin. There is a predilection for patients with high body mass index and those with clinical or quantitative findings of fluid overload.
+
+We propose a 3-part pathogenesis of acute inflammatory edema: 1) acute-onset volume overload 2) in patients with impaired lymphatic return 3) leads to dermal edema, microtears in connective tissue, and an influx of inflammation.
