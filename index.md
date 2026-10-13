@@ -1908,6 +1908,12 @@ tags: []
 - [[oral-surgery/jeffers-2024-what-is-the-utility-of]] — 증거요약(SR/MA 4편 기반, 응급의학, 초록만): 연부조직 농양 vs 봉와직염 POCUS 감별 유용 — 수치 없음, 치과 외 근거
 - [[oral-surgery/long-2021-diagnosis-and-management-of-cellulitis]] — 서술적 리뷰(응급의학, 초록만): 봉와직염은 페니실린/세팔로스포린, 농양은 절개배농(loop drainage 선호); 치과 외 근거
 - [[oral-surgery/taub-2017-controversies-in-the-management-of]] — 서술적 리뷰(구강악안면외과, 초록만): 치성감염 처치 시점·술식 논란 틀만 제시, 구체 권고 없음
+- [[oral-surgery/cranendonk-2017-cellulitis-current-insights-into-pathophysiology]] — 서술적 리뷰(초록만, 하지 중심): 봉와직염 = 피부장벽·면역·순환 방어 손상 시 발생; 당뇨·비만·고령 소인, 재발은 림프 손상; 치과 외 근거
+- [[oral-surgery/rrapi-2021-cellulitis-a-review-of-pathogenesis]] — 서술적 리뷰(피부과, 초록만): 금표준 진단검사 없음, 경계 불분명한 일측 홍반·열감·압통; 치과 외 근거
+- [[oral-surgery/ogle-2017-odontogenic-infections]] — 서술적 리뷰(초록만): 치성감염 다균성·혐기균 우세, 치근단 감염 최다, 심부 근막공간 확산·합병증; 원인 제거가 핵심
+- [[oral-surgery/bakathir-2009-factors-contributing-to-the-spread]] — 전향 파일럿(n=25, 스코틀랜드, 초록만): 확산성 치성감염 흡연 80%·취약계층 72%, 절대혐기균 우세, 배농 없는 선행 항생제 흔함
+- [[oral-surgery/obaitan-2016-failure-of-antibiotics-in-cellulitis]] — SR+MA(초록만, 20개 연구 3,935명): 봉와직염 항생제 실패율 6–37%, 통합 18%(ITT)·12%; 유사질환 혼동 시사; 치과 외 근거
+- [[oral-surgery/marchionne-2019-acute-inflammatory-edema-a-mimicker]] — 후향 증례군(n=15, 초록만): 중환자 급성 염증성 부종(가성봉와직염), 체액과다+림프 환류 손상 3단계 기전; 치과 외 근거
 - [[oral-surgery/al-maawi-2021-prf-extraction-socket-healing-sr]] — SR (20 RCTs): PRF reduces pain (66.6%), improves soft tissue healing at 1 wk (75%), reduces bone loss at 8–15 wk but NOT at 6 mo, improves socket fill (85%); benefit limited to early 2–3 months
 - [[oral-surgery/yang-2022-wound-healing-diabetes-tooth-extraction]] — Narrative review (Front Endocrinol 2022): 당뇨 발치와 지연 치유의 기전(AGE·MMP·M1/M2·BMP-4·neuropeptide·miRNA) + 임상 중재표(PRGF/L-PRF/A-PRF/HA/LLLT); 잘 조절된 DM은 비DM과 치유 차이 없음
 - [[oral-surgery/ruggiero-2024-hyaluronic-acid-diabetic-socket-rct]] — Split-mouth RCT (T2DM 36명): HA겔이 D7/D14 치유지수·폐쇄 유의 개선; **D21에 두 군 모두 완전 상피 폐쇄**; 합병증·항생제 불필요 → 21일이 T2DM 발치와 상피 폐쇄 외부 경계값
