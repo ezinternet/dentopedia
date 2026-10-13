@@ -1,0 +1,10 @@
+TITLE: Cellulitis: current insights into pathophysiology and clinical management.
+AUTHORS: Cranendonk D R ; Lavrijsen A P M ; Prins J M ; Wiersinga W J
+JOURNAL: The Netherlands journal of medicine 75(9):366-378 (2017-Nov-)
+ID[pmid]: 29219814
+ID[doi]: None
+FULL_TEXT: false (abstract only; no PMC record)
+KEYWORDS: 
+
+## ABSTRACT
+Cellulitis is a bacterial skin and soft tissue infection which occurs when the physical skin barrier, the immune system and/or the circulatory system are impaired. Diabetes, obesity and old age are associated with defects in all of these areas and as a result are major predisposing factors for cellulitis. In this review, we summarise current insights into the pathophysiology of cellulitis and place the Dutch guidelines on the clinical management of cellulitis of the lower extremities in perspective. Recent evidence on diagnostic strategies is discussed, the importance of which is underscored by findings that venous insufficiency, eczema, deep vein thrombosis and gout are frequently mistaken for cellulitis. Empiric antibiotic choices are designed against the background of a low prevalence of multi-resistant Staphylococcus aureus. Novel antimicrobial agents registered for cellulitis are also discussed. Relapses occur frequently due to a high prevalence of risk factors associated with cellulitis in combination with the ccurrence of persistent post-inflammatory lymphatic damage. Lastly, we identify knowledge gaps which, if addressed, will advance our understanding of the pathophysiology of cellulitis and improve its clinical management.
