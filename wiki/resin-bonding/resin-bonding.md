@@ -2,7 +2,7 @@
 title: "레진접착 — resin-bonding"
 authors: navigation
 year: 2026
-date: 2026-09-27
+date: 2026-10-14
 doi: N/A
 source: navigation
 category: resin-bonding
@@ -15,20 +15,20 @@ tags: [navigation, category-index, resin-bonding]
 > [!summary] 한국어 핵심요약
 > - **분야**: 레진접착
 > - **범위**: Adhesive systems, bonding mechanisms, dentin adhesion
-> - **수록 논문**: 96편
+> - **수록 논문**: 98편
 
 ## Three-line Summary
 
 **Scope**: Adhesive systems, bonding mechanisms, dentin adhesion
-**Indexed papers**: 96 papers in `wiki/resin-bonding/`.
+**Indexed papers**: 98 papers in `wiki/resin-bonding/`.
 
 ## 세줄요약
 
 **분야**: 레진접착
-**수록 논문**: 96편
+**수록 논문**: 98편
 **하위 카테고리**: 없음
 
-## Papers in this Category (96)
+## Papers in this Category (98)
 
 | Paper |
 |---|
@@ -83,6 +83,7 @@ tags: [navigation, category-index, resin-bonding]
 | [[li-2024-zirconia-surface-treatments-monomers-nma|Different surface treatments and adhesive monomers for zirconia-resin bonds: A systematic review and network meta-analysis]] |
 | [[li-2025-crown-root-fracture-super-bond-case-report|Crown-Root Fracture Treated With Super-Bond—A Case Report With 55 Months Clinical Follow-Up]] |
 | [[li-2025-curing-modes-dual-cure-dentin|Curing modes affects micro-tensile bond strength and durability of dual curing resin cements to dentin]] |
+| [[li-2025-laboratory-study-on-reattachment-of|Laboratory study on reattachment of vertical root fractures using 4-META/MMA-TBB resin]] |
 | [[liao-2026-collagen-crosslinkers-resin-dentin-interface-sr-ma|Collagen cross-linkers on resin-dentin interface: SR + MA]] |
 | [[liu-2011-limitations-bonding-dentin-bond-degradation-review|Limitations in Bonding to Dentin and Experimental Strategies to Prevent Bond Degradation]] |
 | [[loguercio-2015-isolation-method-operative-field-gingival|Influence of Isolation Method of the Operative Field on Gingival Damage, Patients' Preference, and Restoration Retention in Noncarious Cervical Lesions]] |
@@ -107,6 +108,7 @@ tags: [navigation, category-index, resin-bonding]
 | [[salvio-2013-hybridization-quality-bond-strength-adhesive-dentin|Hybridization quality and bond strength of adhesive systems according to interaction with dentin]] |
 | [[samartzi-2021-immediate-dentin-sealing-review|Immediate Dentin Sealing: A Literature Review]] |
 | [[sharifian-2023-tbs-er-se-modes-superficial-deep-dentin|Microtensile Bond Strength of Different Bonding Agents to Superficial and Deep Dentin in Etch-and-Rinse and Self-Etch Modes]] |
+| [[shimizu-2021-evaluation-of-restorative-techniques-for|Evaluation of Restorative Techniques for Vertically Fractured Roots]] |
 | [[simasetha-2021-surface-treatment-lithium-disilicate-bond-strength|Surface Treatment Effect on Shear Bond Strength between Lithium Disilicate Glass-Ceramic and Resin Cement]] |
 | [[sirirangsee-2025-papain-deproteinization-eroded-dentin|Deproteinization with Papain enzyme improves the bonding performance of self-etch adhesives to eroded dentin]] |
 | [[souza-2026-ewbt-adhesive-systems-6year-rct|Clinical performance of the ethanol-wet bonding technique with different adhesive systems in noncarious cervical lesion restorations: a 6-year randomized clinical trial]] |
