@@ -16,21 +16,21 @@ tags: [navigation, category-index, oral-surgery]
 > - **분야**: 구강외과
 > - **범위**: Extractions, surgical complications not covered by a subcategory (oroantral fistula, hemostasis, deep neck infection, free flap).
 > - **하위 카테고리**: [[nerve-injury]] · [[third-molar]] · [[trauma]]
-> - **수록 논문**: 37편
+> - **수록 논문**: 40편
 
 ## Three-line Summary
 
 **Scope**: Extractions, surgical complications not covered by a subcategory (oroantral fistula, hemostasis, deep neck infection, free flap).
-**Indexed papers**: 37 papers in `wiki/oral-surgery/`.
+**Indexed papers**: 40 papers in `wiki/oral-surgery/`.
 **Sub-categories**: [[nerve-injury]], [[third-molar]], [[trauma]]
 
 ## 세줄요약
 
 **분야**: 구강외과
-**수록 논문**: 37편
+**수록 논문**: 40편
 **하위 카테고리**: nerve-injury, third-molar, trauma
 
-## Papers in this Category (37)
+## Papers in this Category (40)
 
 | Paper |
 |---|
@@ -49,12 +49,14 @@ tags: [navigation, category-index, oral-surgery]
 | [[ghali-2021-fascial-space-odontogenic-infections-ultrasonography|Fascial space odontogenic infections: Ultrasonography as an alternative to magnetic resonance imaging]] |
 | [[hammerle-2014-biology-soft-tissue-wound-healing|Biology of soft tissue wound healing and regeneration -- consensus report of Group 1 of the 10th European Workshop on Periodontology]] |
 | [[heng-2007-smoking-postextraction-complications-female-inmates|The Relationship of Cigarette Smoking to Postoperative Complications from Dental Extractions Among Female Inmates]] |
+| [[jeffers-2024-what-is-the-utility-of|What is the Utility of Point-of-Care Ultrasound for Diagnosis of Soft Tissue Abscess vs. Cellulitis?]] |
 | [[kim-2019-bone-collector-drill-assembly|Bone Collector Drill Assembly (본콜렉터용 드릴조립체)]] |
 | [[kumbargere-2018-interventions-treating-post-extraction-bleeding|Interventions for treating post-extraction bleeding]] |
 | [[kwon-2020-closure-oroantral-fistula-local|Closure of oroantral fistula: a review of local flap techniques]] |
 | [[latimer-2026-biological-principles-alveolar-bone-soft-tissue|Biological Principles for Success in Alveolar Bone, Soft Tissue, and Periodontal Regeneration]] |
 | [[lazow-1999-oroantral-fistula-flap-procedures|Surgical Management of the Oroantral Fistula: Flap Procedures]] |
 | [[lewis-2014-facing-the-danger-zone-the|Facing the Danger Zone: The Use of Ultrasound to Distinguish Cellulitis from Abscess in Facial Infections]] |
+| [[long-2021-diagnosis-and-management-of-cellulitis|Diagnosis and Management of Cellulitis and Abscess in the Emergency Department Setting: An Evidence-Based Review]] |
 | [[mahmoudi-2023-gelatin-hemostatic-sponge-extraction-rct|Efficacy of a New Hemostatic Dental Sponge in Controlling Bleeding, Pain, and Dry Socket Following Mandibular Posterior Teeth Extraction—A Split-Mouth Randomized Double-Blind Clinical Trial]] |
 | [[mozzati-2013-prgf-diabetic-extraction-socket|Efficacy of plasma-rich growth factor in the healing of postextraction sockets in patients affected by insulin-dependent diabetes mellitus]] |
 | [[oliva-2024-oroantral-communication-fistula-treatment-sr-ma|The Treatment and Management of Oroantral Communications and Fistulas: A Systematic Review and Network Metanalysis]] |
@@ -66,6 +68,7 @@ tags: [navigation, category-index, oral-surgery]
 | [[smith-2014-gingival-wound-healing-aging|Gingival wound healing: an essential response disturbed by aging]] |
 | [[squier-1991-permeability-oral-mucosa|The permeability of oral mucosa]] |
 | [[su-2025-irx1-mechanisms-oral-epithelial|Irx1 mechanisms for oral epithelial basal stem cell plasticity during reepithelialization after injury]] |
+| [[taub-2017-controversies-in-the-management-of|Controversies in the Management of Oral and Maxillofacial Infections]] |
 | [[ukwas-2024-non-healing-extraction-socket-diagnostic|Non-healing extraction socket: a diagnostic challenge for general dental practitioners.]] |
 | [[van-der-merwe-2023-aminoglycosides-ludwigs-angina-63-cases|The Empirical Use of Aminoglycosides in Ludwig's Angina Based on Bacterial Analysis of 63 Cases]] |
 | [[walton-2026-beyond-re-epithelialization-prolonged-remodeling|Beyond re-epithelialization: prolonged remodeling re-establishes epithelial homeostasis in oral mucosa]] |
