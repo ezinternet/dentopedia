@@ -170,6 +170,8 @@ print(text[:12000])
 
 PubMed MCP `get_full_text_article`로 전문을 받은 경우 PDF가 없다. PDF 복사 대신 받은 전문을 `papers/{stem}.txt`로 저장하고, 그 텍스트로 Step 2·3을 작성한다. PMC 전문은 JATS 기반이라 pypdf 추출본보다 깨끗한 경우가 많다.
 
+전문 저장은 `python3 scripts/pubmed-fetch-fulltext.py <PMID> [<PMID> ...]`로 한 번에 된다 — PMC 기록이 있는 PMID마다 `papers/{stem}.txt`(stem 규칙 포함)를 쓰고, PMC 기록이 없는 PMID는 파일을 만들지 않는다(그 경우 아래 `full_text: false` 초록 전용으로 직접 `.txt`를 만든다).
+
 sources/·wiki/ frontmatter는 Step 2·3과 동일하되 아티팩트 필드만 교체:
 
 ```yaml
