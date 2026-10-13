@@ -1,0 +1,16 @@
+TITLE: Failure of antibiotics in cellulitis trials: a systematic review and meta-analysis.
+AUTHORS: Obaitan Itegbemie ; Dwyer Richard ; Lipworth Adam D ; Kupper Thomas S ; Camargo Carlos A ; Hooper David C ; Murphy George F ; Pallin Daniel J
+JOURNAL: The American journal of emergency medicine 34(8):1645-52 (2016-05-26)
+ID[pmid]: 27344098
+ID[doi]: 10.1016/j.ajem.2016.05.064
+FULL_TEXT: false (abstract only; no PMC record)
+KEYWORDS: 
+
+## ABSTRACT
+The objectives of the study are to quantify trial-to-trial variability in antibiotic failure rates, in randomized clinical trials of cellulitis treatment and to provide a point estimate for the treatment failure rate across trials.
+
+We conducted a structured search for clinical trials evaluating antibiotic treatment of cellulitis, indexed in PubMed by August 2015. We included studies published in English and excluded studies conducted wholly outside of developed countries because the pathophysiology of cellulitis is likely to be different in such settings. Two authors reviewed all abstracts identified for possible inclusion. Of studies identified initially, 5% met the selection criteria. Two reviewers extracted data independently, and data were pooled using the Freeman-Tukey transformation under a random-effects model. Our primary outcome was the summary estimate of treatment failure across intent-to-treat and clinically evaluable participants.
+
+We included 19 articles reporting data from 20 studies, for a total of 3935 patients. Treatment failure was reported in 6% to 37% of participants in the 9 trials reporting intent-to-treat results, with a summary point estimate of 18% failing treatment (95% confidence interval, 15%-21%). In the 15 articles evaluating clinically evaluable participants, treatment failure rates ranged from 3% to 42%, and overall, 12% (95% confidence interval, 10%-14%) were designated treatment failures.
+
+Treatment failure rates vary widely across cellulitis trials, from 6% to 37%. This may be due to confusion of cellulitis with its mimics and perhaps problems with construct validity of the diagnosis of cellulitis. Such factors bias trials toward equivalence and, in routine clinical care, impair quality and antibiotic stewardship. Objective diagnostic tools are needed.
