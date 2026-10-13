@@ -1,0 +1,10 @@
+TITLE: Odontogenic Infections.
+AUTHORS: Ogle Orrett E
+JOURNAL: Dental clinics of North America 61(2):235-252 (2017-Apr-)
+ID[pmid]: 28317564
+ID[doi]: 10.1016/j.cden.2016.11.004
+FULL_TEXT: false (abstract only; no PMC record)
+KEYWORDS: Dental abscess; Dental infections; Microbiota of dental infections
+
+## ABSTRACT
+The pathogenesis of odontogenic infection is polymicrobial, consisting of various facultative and strict anaerobes. The dominant isolates are strictly anaerobic gram-negative rods and gram-positive cocci. The periapical infection is the most common form of odontogenic infection. Although odontogenic infections are usually confined to the alveolar ridge vicinity, they can spread into deep fascial spaces. Cavernous sinus thrombosis, brain abscess, airway obstruction, and mediastinitis are possible complications of dental infections. The most important element in treating odontogenic infections is elimination of the primary source of the infection with antibiotics as adjunctive therapy.
