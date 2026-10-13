@@ -7,19 +7,19 @@ doi: 10.1016/j.ijom.2020.01.025
 source: nahlieli-2020-trans-implant-treatment-of-chronic.md
 category: [oral-medicine/odontogenic-sinusitis]
 evidence_level: retrospective
-source_collection: pubmed-text
+source_collection: external
 full_text: false
 pmid: "32061430"
 source_url: https://pubmed.ncbi.nlm.nih.gov/32061430/
-text_path: /Users/oracleneo/llm-wiki/papers/nahlieli-2020-trans-implant-treatment-of-chronic.txt
-text_filename: nahlieli-2020-trans-implant-treatment-of-chronic.txt
+pdf_path: /Users/oracleneo/llm-wiki/papers/nahlieli-2020-trans-implant-treatment-of-chronic.pdf
+pdf_filename: nahlieli-2020-trans-implant-treatment-of-chronic.pdf
 tags: [chronic-sinusitis, trans-implant-lavage, internal-port-implant, sinus-irrigation, sinus-elevation, nasal-endoscopy, CBCT]
 relations:
   - type: extends
     target: nahlieli-2018-transimplant-antral-lavage-as-minimally
 ---
 
-abstract-only — full text not retrieved
+abstract-only — publisher landing/abstract page saved as PDF, full text not retrieved
 
 ## Three-line Summary
 
@@ -62,6 +62,9 @@ Retrospective study, n=31 CRS patients. 28 patients (referred for sinus elevatio
 | Remaining 30 cases: implant stability / CRS recurrence | Stable clinically and radiologically; no CRS recurrence during follow-up |
 
 Caveats: abstract-level data only; denominators for the implant outcomes and the follow-up duration are not stated; uncontrolled design; etiology (odontogenic vs rhinogenic) not stated.
+
+- Presenting symptoms (publisher landing-page snippet): nasal discharge 31/31 (100%), obstruction 28/31 (90%), post-nasal drip 15/31 (48%), hyposmia/anosmia 13/31 (42%), facial pain 14/31 (45%).
+- Disclosure: the senior author is a clinical advisor to Upheal Dental Ltd (Israel); no funding reported.
 
 ## Related Papers
 
