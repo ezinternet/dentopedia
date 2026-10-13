@@ -4,15 +4,15 @@ authors: Nahlieli O, Dar RA, Dror AA, Abba M, Sela E, Srouji S
 year: 2020
 doi: 10.1016/j.ijom.2020.01.025
 category: [oral-medicine/odontogenic-sinusitis]
-source_collection: pubmed-text
+source_collection: external
 full_text: false
 pmid: "32061430"
 source_url: https://pubmed.ncbi.nlm.nih.gov/32061430/
-text_path: /Users/oracleneo/llm-wiki/papers/nahlieli-2020-trans-implant-treatment-of-chronic.txt
-text_filename: nahlieli-2020-trans-implant-treatment-of-chronic.txt
+pdf_path: /Users/oracleneo/llm-wiki/papers/nahlieli-2020-trans-implant-treatment-of-chronic.pdf
+pdf_filename: nahlieli-2020-trans-implant-treatment-of-chronic.pdf
 ---
 
-abstract-only — full text not retrieved
+abstract-only — publisher landing/abstract page saved as PDF, full text not retrieved
 
 ## Why Ingested
 
@@ -61,11 +61,14 @@ The proposed protocol (pus drainage via the punctured sinus floor, 3 lavage sess
 - Follow-up nasal endoscopy: no evidence of active sinus disease.
 - Implants: 27 well-osseointegrated and in prosthetic use; 1 implantation failed because of poor bone quality.
 - Remaining 30 cases: clinical and radiological results showed implant stability and no CRS recurrence over the whole follow-up period.
+- Presenting symptoms (publisher-page results snippet): nasal discharge 31/31 (100%), nasal obstruction 28/31 (90%), post-nasal drip 15/31 (48%), hyposmia/anosmia 13/31 (42%), facial pain (maxillary/orbital/frontal) 14/31 (45%). Patients reported improvement almost immediately after the first procedure.
 - Conclusion (abstract): an implant with an internal central port and integral sealing screw may be used for drainage, irrigation, observation, and further treatment of the maxillary sinus in CRS.
 
 ## 5. Limitations and Future Work
 
-- Abstract-only: follow-up duration, definitions of "relief", endoscopic/radiologic criteria, and denominators for implant outcomes are not available.
+- **Disclosure (from the landing page):** the senior author (Nahlieli) is a clinical advisor to Upheal Dental Ltd (Israel); no funding reported. Ethics approval from two Israeli medical centers (Barzilai, Galil), retrospective.
+
+- Publisher landing page only (abstract + section snippets); full Methods/Results/Discussion not available: follow-up duration, definitions of "relief", endoscopic/radiologic criteria, and denominators for implant outcomes are not available.
 - Retrospective and uncontrolled (no comparison with FESS, drainage-only, or sinus augmentation without lavage).
 - Etiology of the CRS (odontogenic vs rhinogenic) is not stated in the abstract.
 - Description of the device as "dynamic implants with an internal port" is from the title; manufacturer and design details are not available.
