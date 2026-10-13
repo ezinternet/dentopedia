@@ -1,0 +1,10 @@
+TITLE: Cellulitis: A Review of Pathogenesis, Diagnosis, and Management.
+AUTHORS: Rrapi Renajd ; Chand Sidharth ; Kroshinsky Daniela
+JOURNAL: The Medical clinics of North America 105(4):723-735 (2021-Jul-)
+ID[pmid]: 34059247
+ID[doi]: 10.1016/j.mcna.2021.04.009
+FULL_TEXT: false (abstract only; no PMC record)
+KEYWORDS: Antibiotic; Cellulitis; Diagnosis; Purulence; Skin and soft tissue infection; Treatment
+
+## ABSTRACT
+Cellulitis is a common skin infection resulting in increasing hospitalizations and health care costs. There is no gold standard diagnostic test, making cellulitis a potentially challenging condition to distinguish from other mimickers. Physical examination typically demonstrates poorly demarcated unilateral erythema with warmth and tenderness. Thorough history and clinical examination can narrow the differential diagnosis of cellulitis and minimize unnecessary hospitalization. Antibiotic selection is determined by patient history and risk factors, severity of clinical presentation, and the most likely microbial culprit.
