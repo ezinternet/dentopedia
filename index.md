@@ -2779,6 +2779,7 @@ tags: []
 - [[cracked-tooth/patel-2022-present-status-future-directions-vertical]] — 근관치료치 수직치근파절(VRF) 서술적 문헌고찰: VRF 발치치의 86-97%가 근관치료치(유병률 4-32%), CBCT는 파절선 아닌 치근주위 골소실 양상만 확인, 발치가 가장 예측 가능한 치료 (IEJ 2022)
 - [[cracked-tooth/liao-2021-vertical-root-fracture-non-endodontically-treated]] — 내러티브 리뷰(106편): 수직치근파절 근관치료치 vs 비근관치료치 비교, 유병률 2–25%, 깊고 좁은 치주낭 64–93%·치관측 누공 35–42%, 수복 재식립 생존율 12개월 88.5%→60개월 59.3% (J Pers Med 2021)
 - [[overviews/cracked-tooth-syndrome-overview]] — Synthesis (8편, 2026): longitudinal fracture 5-type 분류·multi-modal 진단(bite·transillumination·CBCT·QLF)·치료 tension(Kaur 2026 endo+full coverage vs 보존적 입장). 한국 적용 framework
+- [[overviews/vertical-root-fracture-overview]] — Synthesis (37편, 2026): 수직치근파절 (VRF) 정의·역학(분모별 유병률)·위험인자(재근관치료·근단 과삭제, 포스트 상충)·영상 정확도 사다리(PA→소FOV CBCT→내시경)·AI·처치(발치 기본, 보존술은 증례 시리즈 수준)
 
 ## Batch ingest (added 2026-09-21) — cracked-tooth 서베일런스 2026-09 (2편 신규)
 ### cracked-tooth
