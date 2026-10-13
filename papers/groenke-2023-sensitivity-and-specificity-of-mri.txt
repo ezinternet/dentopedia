@@ -1,0 +1,116 @@
+TITLE: Sensitivity and Specificity of MRI Versus CBCT to Detect Vertical Root Fractures Using MicroCT as a Reference Standard
+AUTHORS: Groenke Beth R., Idiyatullin Djaudat, Gaalaas Laurence, Petersen Ashley, Law Alan, Barsness Brian, Royal Mathew, Fok Alex, Nixdorf Donald R.
+JOURNAL: Journal of endodontics
+ID[pmcid]: PMC10330038
+ID[pmcid-ver]: PMC10330038.1
+ID[pmcaid]: 10330038
+ID[pmcaiid]: 10330038
+ID[manuscript-id]: NIHMS1886846
+ID[pmid]: 36972896
+ID[doi]: 10.1016/j.joen.2023.03.011
+ID[manuscript-id-alternative]: NIHMS1886846
+ID[manuscript-id-alternative]: NIHPA1886846
+
+## ABSTRACT
+INTRODUCTION:Vertical root fracture (VRF) in root-canal-treated teeth frequently results in tooth loss, partly because VRFs are difficult to diagnose and when detected the fracture is often beyond the point of preservation with surgical intervention. Nonionizing magnetic resonance imaging (MRI) has demonstrated the ability to detect small VRFs, but it is unknown how its diagnostic capabilities compare to the current imaging standard for VRF detection, cone-beam computed tomography (CBCT). This investigation aims to compare the sensitivity and specificity between MRI and CBCT for detecting VRF, using micro-computed tomography (microCT) as a reference.
+METHODS:One hundred twenty extracted human tooth roots were root canal treated using common techniques, and VRFs were mechanically induced in a proportion. Samples were imaged using MRI, CBCT, and microCT. Axial MRI and CBCT images were examined by three board-certified endodontists, who evaluated VRF status (yes/no) and gave a confidence assessment for that decision, from which an ROC curve was generated. Intra- and inter-rater reliability were calculated, sensitivity and specificity, and AUC.
+RESULTS:Intra-rater reliability was 0.29-0.48 for MRI and 0.30-0.44 for CBCT. Inter-rater reliability for MRI was 0.37 and for CBCT 0.49. Sensitivity was 0.66 (95% CI: 0.53-0.78) and 0.58 (95% CI: 0.45-0.70), and specificity 0.72 (95% CI: 0.58-0.83) and 0.87 (95% CI: 0.75-0.95) for MRI and CBCT, respectively. AUC was 0.74 (95% CI: 0.65-0.83) for MRI and 0.75 (95% CI: 0.66-0.84) for CBCT.
+CONCLUSIONS:There was no significant difference in sensitivity or specificity between MRI and CBCT in detecting VRF, despite MRI’s early-stage development.
+
+## INTRODUCTION
+
+Vertical root fractures (VRFs) within endodontically treated teeth often result in tooth loss (1).
+
+Clinical indications of VRF are not pathognomonic, and clinicians often rely on surgical visualization for confirmation (2–6). Although no definitive standard has been agreed upon, cone-beam computed tomography (CBCT) is generally favored over 2D-radiography for non-invasive detection of VRF (7–11); but may also have shortcomings (12–16). CBCT is susceptible to beam-hardening artifacts (8, 13, 17), and identification of VRF often occurs late in the disease process when fracture is extensive, or following loss of adjacent periodontium (5–7, 11, 16, 18–20).
+
+Magnetic resonance imaging (MRI) has been studied for its ability to detect VRF (21–23) and shown to be able to detect VRFs 26-64μm wide due to good signal contrast and lack of artifacts around endodontic materials (23). However, it is unknown how the sensitivity and specificity of MRI in detecting VRF compare to those of CBCT.
+
+Our study’s goal was to compare the sensitivity, specificity, and assess levels of agreement (i.e., intra- and inter-rater reliability) of MRI for detecting small VRF in extracted, endodontically treated teeth to those of CBCT, using micro-computed tomography (microCT) as the reference standard. We hypothesized MRI would be more sensitive and specific than CBCT in detecting VRF in extracted, endodontically treated root samples.
+
+## MATERIALS AND METHODS
+
+### Materials and Sample Preparation
+
+The University of Minnesota’s Institutional Review Board exempted this research from oversight.
+
+The sample size was chosen to provide adequate precision in quantifying VRF detection sensitivity for MRI (i.e., sufficiently narrow confidence interval [CI]) vs. powering for differences in detection between MRI and CBCT. Based on preliminary data, which suggested that MRI had a VRF detection sensitivity of 0.80, a sample size of 60 VRF with 40 controls was selected to provide an expected CI width of 0.20. We prepared an additional 20 samples to allow margin of error.
+
+Samples were prepared as described by Groenke et al. (23). Following root canal treatment (RCT), samples were inspected with optical coherence tomography (Santec IVS-2000 F80, Nenjozaka, Japan) to rule out VRF induced during RCT. Samples without VRF were assigned as controls; other samples were assigned to have VRF mechanically induced.
+
+One hundred twenty roots were prepared with de-coronation, root-tip amputation, and RCT. After removing samples with catastrophic failure and identifiable anatomy, final sample distribution was 62 roots with VRF (55 with 1 canal; 7 with 2 canals) and 53 controls (44 with 1 canal; 9 with 2 canals).
+
+### Imaging of Samples
+
+Reference imaging was obtained using microCT (XT H 225; Nikon Metrology, Brighton, MI), and MRI images were obtained using a 4.0-Tesla whole-body MRI scanner (90 cm bore, Oxford Magnet, Oxford UK) with an Agilent DirectDrive console (Palo Alto, CA) and a custom intraoral coil (24), as described by Groenke et al. (23). CBCT imaging was performed with a clinical small FOV Carestream scanner (Carestream–CS 9000, Rochester, NY). Imaging parameters were: 70 kV, 8.0 mA, 10.8 s, voxel size = 0.08 mm. Both the MRI and CBCT images were acquired using a purpose-built phantom that mimicked the human head and held the samples.
+
+### Image Processing and Correlation
+
+MRI and CBCT images were scaled to appear twice the size of the actual root and cropped to include only the glass vial and sample.
+
+Initial MRI images exhibited off-resonance blurring that varied in position throughout each sample. Using ImageJ™ (software version 1.52t, National Institutes of Health, USA), focused image stacks were constructed for all MRI samples, similar to that done automatically in clinical imaging programs.
+
+RadiAnt DICOM (64-bit) Viewer (software version 5.5.1.23267, Medixant, Poznan, Poland) was used to evaluate and crop CBCT images to the region of interest.
+
+MicroCT image stacks were scaled and correlated to MRI image stacks as described in Groenke et al. (23).
+
+### Rater Training and Calibration
+
+All 3 raters were board-certified endodontists, accustomed with 3D imaging, and had cumulative clinical experience of 60+ years. Three calibration sessions were held to achieve the desired 80% inter-rater agreement threshold. Ratings were performed over 5 sessions, lasting less than 2 hours each, spanning a maximum of 27 days. Sixty image sets were reviewed each session, 30 MRI and 30 CBCT, arranged in alternating sets of 10 samples, with the starting set of images randomly assigned. All training and rating sessions occurred in the UMN School of Dentistry’s Oral Radiology interpretation clinic using standardized diagnostic workstations. Monitor calibration was confirmed prior to each session using the AAPM TG18-QC test image. Raters used ImageJ™ (v1.52a) to view all images. Raters could scroll through axial stacks but were not permitted to make other adjustments.
+
+Raters determined if a VRF was present, based on criteria outlined by Groenke et al (23), using a “Yes”/“No” response with a 4-point Likert scale confidence rating (1=“not confident,” 2=“somewhat confident,” 3=“confident,” and 4=“very confident”). We omitted a neutral category to avoid the expected tendency of selecting this category under uncertain conditions.
+
+### Statistical Analyses
+
+Intra-rater reliability was assessed using Cohen’s kappa with raters re-assessing a random resampling of 30% of images. Inter-rater reliability among all 3 raters was assessed using Fleiss’ kappa on all samples. We set agreement levels at: <0.00 poor, 0.00-0.20 slight, 0.21-0.40 fair, 0.41-0.60 moderate, 0.61-0.80 substantial, and 0.81-1.00 excellent based on Landis and Koch’s work (25). Statistical analyses were performed using R, version 3.6.1 (R Foundation for Statistical Computing, Vienna, Austria).
+
+Using microCT as a reference standard, sensitivity and specificity calculations for the consensus VRF rating (i.e., assessment of “Yes”/“No” indicated by 2 or more raters) for MRI and CBCT, and subset sensitivity and specificity analyses between sessions and raters, were performed. McNemar’s test was used to test for differences in the sensitivities and specificities between MRI and CBCT. Area under the curve (AUC) was calculated using receiver operating characteristic (ROC) curves based on the consensus VRF identification rater confidence, which was calculated as the mean of the individual raters’ confidence ratings. DeLong’s test for correlated ROC curves was used to compare AUCs. To assess raters’ use of the confidence scale, we plotted the percentage of teeth with VRF for each confidence rating by modality.
+
+## RESULTS
+
+### Intra- and Inter-rater Reliability
+
+Intra-rater reliability ranged from fair to moderate for both MRI and CBCT: k = 0.29 to 0.48 and k = 0.30 to 0.44, respectively. Inter-rater reliability for MRI was fair (k = 0.37) and moderate for CBCT (k = 0.49). Cohen’s kappa was used to sub-analyze the reliability between individual rater pairs. There was similar inter-rater reliability between all pairs of raters, indicating no single rater over-influenced the results (Table 1).
+
+### Sensitivity and Specificity
+
+Sensitivity for MRI and CBCT were 0.66 (95% CI: 0.53-0.78) and 0.58 (95% CI: 0.45-0.70), respectively. Specificity for MRI was 0.72 (95% CI: 0.58-0.83) and 0.87 (95% CI: 0.75-0.95) for CBCT (Table 2). There was no statistically significant difference between MRI and CBCT in sensitivity (p = 0.27) or specificity (p = 0.12) using McNemar’s test, although the limited sample size of this preliminary work widened the associated confidence intervals.
+
+Subset sensitivity and specificity analyses between rating sessions and raters found no significant trends to indicate drift over time or rater differences significantly impacting outcomes.
+
+### Confidence Scoring
+
+No consensus ratings ever “very confidently” stated there was no VRF for either modality and overall confidence was lower for ruling out VRF for both CBCT and MRI than for identifying VRF. Conversely, when raters reported they were “very confident” there was a VRF, they were correct 100% of the time for CBCT and correct 80% of the time for MRI (Table 3). Figure 1 shows the same data in graphical format.
+
+Example images with associated confidence levels are depicted in Figure 2. Although there were instances when raters identified VRF using one modality and not the other, in general, when raters correctly identified VRF, they rated both modalities with similar confidence levels. The one exception to this where VRF was rated as “very confident” with MRI and “not confident” with CBCT is also shown below (Figure 2). Overall, confidence levels increased as median VRF size increased (Table 3).
+
+### ROC Curve
+
+For the ROC curve of fracture detection (Figure 3), the AUC was 0.75 (95% CI: 0.66-0.84) for CBCT and 0.74 (95% CI: 0.65-0.83) for MRI. DeLong’s test did not show any statistically significant difference in the AUCs between CBCT and MRI (p = 0.88).
+
+## DISCUSSION
+
+Our study found no significant difference in sensitivity or specificity between MRI and CBCT in detecting VRF in extracted, endodontically treated tooth roots using microCT as the reference standard.
+
+Our team has previously explored similar measures. Schuurmans et al. compared sensitivity and specificity between MRI and CBCT in extracted teeth diagnosed with a cracked root or VRF. Extracted VRF teeth were frequency matched to non-fractured controls, and rated using MRI and CBCT scans. Staining with visual inspection was used as the reference standard (21).
+
+### Intra- and Inter-Rater Reliability
+
+Schuurmans et al. reported fair-to-excellent intra-rater reliability (k = 0.38 to 1.0) for MRI and moderate-to-excellent (k = 0.66 to 1.0) for CBCT. Inter-rater reliability in the same study was reported to be fair (0.21) for MRI and moderate (0.45) for CBCT. Inter-rater reliability improved in the present study for both modalities, possibly due to rater training and familiarity with the system, as two raters were part of the previous study. Lower Intra-rater reliability in the present study could be attributed to longer periods of data collection, and/or increased difficulty in detecting very small VRF versus those large enough to warrant extraction.
+
+Lower intra- and inter-rater reliability values widen the confidence intervals, indicating a larger sample size may reveal differences between MRI’s and CBCT’s diagnostic accuracy. However, other CBCT studies on VRF in the presence of gutta percha (GP; no MRI comparison available) have reported similar values, emphasizing the difficulty of consistently identifying VRF. For instance, Patel et al. placed GP in 20 whole, but unrestored, samples with induced VRFs 50 to 110μm wide. They categorized results as complete or incomplete VRF and found intra-rater agreement of 0.27-0.55 and inter-rater agreement of 0.005 (14). Patel’s study used a human mandible phantom, and raters included less experienced endodontic residents, possibly contributing to variability. Another study using decoronated specimens used transillumination to distinguish between complete and incomplete VRF in 30 RCT samples. Effects of intra-canal posts and GP on CBCT diagnosis were explored using different imaging settings. For the subset with VRF+GP, intra-rater agreement was 0.76-0.87 and inter-rater agreement was 0.35-0.56 (13). The raters were 5 radiologists, which may explain the better intra-rater agreement. Moudi et al. explored CBCT’s accuracy to detect VRF in the presence of GP on whole, but unrestored samples, and found intra-rater reliability of 0.77-0.90 and inter-rater reliability of 0.94 (26). This study also used radiologists who reviewed axial and multiplanar reformation views in addition to adjustment of magnification; whereas, our raters were only allowed to scroll axial stacks, likely decreasing reliability. This explains the wide range of reliabilities reported in similar studies.
+
+### Confidence Scoring
+
+Raters used the spectrum of confidence levels. When they gave a “very confident” rating for detecting VRF using CBCT they were 100% correct; with MRI they were 80% correct, indicating that when rater-confidence was high in identifying VRF, they were frequently correct. VRFs with a “very confident” rating were often larger in dimension and/or oblique in character. There was no consensus score for “very confident no VRF” assigned for CBCT or MRI, possibly due to the small fractures used in this study. The result reflects the difficult clinical task of definitively ruling out VRF. Overall, raters consistently applied the confidence assessment scale for MRI and CBCT, while being more confident when identifying larger VRF.
+
+### Sensitivity and Specificity
+
+Schuurmans et al. showed MRI sensitivity of 0.59 and specificity of 0.83, as opposed to 0.66 and 0.72 in the present study (21). Our current study optimized MRI image resolution to the highest extent presently achievable; however, this resulted in more image noise, observed as graininess. The increased sensitivity and decreased specificity in the present study could be attributed to false-positive responses resulting from this noise being mistaken for very small VRF. For CBCT, the prior study reported a sensitivity and specificity of 0.59 and 0.90, respectively, vs. our findings of 0.58 and 0.87.
+
+### ROC Curve
+
+Area under the curve has been calculated for four similar in vitro studies using CBCT to detect VRF in filled canals (13, 14, 19, 27); however, comparison studies were not available for MRI. Patel’s study reported an AUC of 0.45 for both groups, lower than our AUC of 0.75 for CBCT (14). They utilized PowerPoint® to show raters images and had endodontic residents and endodontists as raters versus only board-certified endodontists in our study, which may affect accuracy. Neves et al., in evaluating effects of intra-canal posts and GP on CBCT diagnosis, reported AUC values of 0.47-0.57 for incompletely separated samples and 0.77-0.88 for completely separated samples, depending on CBCT imaging mode (13). The lower values for incomplete fractures could be due to their use of a dried human mandible as a phantom versus an agar and plastic phantom in our study. Another study looking at intra-canal materials in decoronated root samples and CBCT voxel size for larger FOVs, reported CBCT accuracy of 0.65-0.95 for GP-filled samples and voxel sizes 0.2-0.4mm, with the higher accuracy correlating to higher resolution (27). Our CBCT had a voxel size of 0.08mm, and results may have differed due to our scanner’s limited FOV and subsequent effects on the signal-to-noise ratio (SNR). A final study exploring fractures of 50-150μm and ≥150μm in decoronated samples reported mean accuracy of 0.71 and 0.97, respectively (19). The accuracy for detecting fractures similar to those in our study was comparable. No direct AUC comparison data was available for MRI. However, because MRI and CBCT accuracy were not significantly different in our study and our CBCT AUC data is similar to that published under similar conditions, it can be extrapolated that the diagnostic capabilities of MRI fall within the range of imaging systems currently used clinically for identifying small VRFs.
+
+Similar to the technological advancements that led to the adoption of CBCT for dentistry from medicine, as technology progresses, it is expected that dentists will also have the ability to use MRI more readily. The purpose of this study was to push the boundaries of current MRI technology for detecting VRF and to compare its performance against CBCT. To do so, we decreased voxel size as much as possible to generate high-resolution images capable of showing very small fractures (22). However, this resulted in less signal per voxel, which reduced overall SNR. Because signal is directly proportional to the square root of background noise, relatively minor changes in signal resulted in visually appreciable reduction in image quality. This lower SNR led to grainy images, which the clinician raters found harder to interpret. We attempted to mitigate some of the effects of poor SNR through training and calibration; however, it may have been insufficient and contributed to variation in overall study results and rater agreement. Future studies should further explore the trade-offs between voxel size and SNR for VRF detection and its perceived impact on clinical interpretation.
+
+In conclusion, although our study found no significant difference in sensitivity or specificity in detecting VRF in extracted, endodontically-treated sample roots between MRI and CBCT, with microCT being a reference standard, MRI for dental applications is in its infancy. Research in areas such as: image post-processing (28), artifact reduction (29, 30), specialized coil design (24, 31–33), and pulse sequences tailored for dentistry (34, 35) are underway, which will continue to improve the available technology. The current study demonstrates MRI has potential as a future clinical modality to detect VRF, despite its early-stage development.
