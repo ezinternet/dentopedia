@@ -1,0 +1,111 @@
+TITLE: Fascial space odontogenic infections: Ultrasonography as an alternative to magnetic resonance imaging
+AUTHORS: Ghali Sreenivasarao, Katti Girish, Shahbaz Syed, Chitroda Parita K, V Anukriti, Divakar Darshan Devang, Khan Aftab Ahmed, Naik Sachin, Al-Kheraif Abdulaziz A, Jhugroo Chitra
+JOURNAL: World Journal of Clinical Cases
+ID[pmcid]: PMC7829733
+ID[pmcid-ver]: PMC7829733.1
+ID[pmcaid]: 7829733
+ID[pmcaiid]: 7829733
+ID[pmid]: 33553395
+ID[doi]: 10.12998/wjcc.v9.i3.573
+ID[other]: jWJCC.v9.i3.pg573
+
+## ABSTRACT
+BACKGROUNDThe introduction of modern diagnostic tools has transformed the field of maxillofacial radiology. Odontogenic infection and fascial space involvement have been evaluated with many diagnostic tools, including ultrasonography (USG) and magnetic resonance imaging (MRI).
+AIMTo explore USG as an alternative model to MRI in the detection of fascial space spread of odontogenic infections.
+METHODSAmong 20 patients, 50 fascial spaces were clinically diagnosed with odontogenic infection and included in this prospective study. Fascial space infection involvement was examined by USG and MRI. Results were compared for both and confirmed by microbiological testing.
+RESULTSUltrasonography identified 42 (84%) of 50 involved fascial spaces. Whereas MRI identified all 50 (100%). USG could stage the infections from edematous change to cellulitis to complete abscess formation.
+CONCLUSIONMRI was superior in recognizing deep fascial space infections compared to USG. However, USG is a significant addition and has a definite role in prognosticating the stage of infection and exact anatomic location in superficial space infections.
+
+## INTRODUCTION
+
+The pathology of odontogenic infections originates from the pulp and periodontal structures. Once the infection spreads from the dentoalveolar structure, it may further infect fascial faces and lead to cellulitis or abscess formation[1]. Among the various fascial spaces, the first to be involved in odontogenic infection is the submandibular space. Similar to the masticatory space, the involvement of the submandibular space leads to severe symptoms such as trismus, neck rigidity, respiratory distress, dysphagia, sialorrhea, and pyrexia[2]. The introduction of ultrasonography (USG), magnetic resonance imaging (MRI), and computed tomography (CT) has transformed the field of maxillofacial radiology, reducing the therapeutic predicament for dental surgeons. Humans are affected by various diseases involving the maxillofacial region, many including the odontogenic infections commonly encountered in hospital practice. These infections are difficult to detect by the clinician and at times lead to life-threatening complications[3,4]. Some authors have suggested that abscesses should be drained and cellulitis treated with antibiotics, but others have suggested draining for both. Clinical diagnosis of both conditions is often difficult, and delayed diagnosis and treatment may lead to emergency complications and greater expense[5]. Odontogenic infections have been evaluated with various diagnostic tools, including routinely employed conventional radiographs. However, their role in confirming the exact anatomical location and spread of infection is questionable. In such circumstances, USG is a fast-emerging effective imaging modality. Its advantage is its sensitivity in detecting fluid collection and repeated follow-up examinations, along with no radiation exposure to the patient. MRI has proven to be the standard imaging tool in the diagnosis of maxillofacial fascial space infection. The important benefit of MRI is its superior tissue contrast and portraiture of all anatomic planes without moving the patient. The major drawback of MRI is its extended time for image procurement, with its high static magnetic field posing more danger for patients with cardiac pacemakers or neurostimulator units. It can be used for diagnosing odontogenic infections[6] but is costly and not widely accessible. However, USG is readily available, inexpensive, and accurate. Hence, it could be useful in detecting the fascial spread of odontogenic infection[4]. The present study was conducted to assess and explore the potential of USG as an alternative to MRI in analyzing odontogenic infections spreading to fascial spaces.
+
+## MATERIALS AND METHODS
+
+The patients were selected from the Department of Oral Medicine and Radiology, Al-Badar Dental College and Hospital, Kalaburagi-585102, Karnataka, India. The inclusion criteria were male and female patients of all ages with acute fascial swellings due to odontogenic infections involving the fascial spaces. The sample group consisted of 20 patients with clinically and radiographically diagnosed odontogenic infections spreading to the fascial spaces. Ethical approval was obtained from the Al-Badar Dental College ethical committee. The patients’ consent was obtained before they underwent USG and MRI. Cases other than odontogenic infections were excluded from the study. A USG machine with a linear array probe of 9 MHz was used. The linear array probe was applied over the skin by covering the suspected area in transverse and axial sections to determine the appearance of fluid collection and its anatomical area. All greyscale USG was measured and estimated using on-screen calipers. The USG echogenicity was described in comparison with neighboring tissues as hyperechoic (brighter), isoechoic (equal), hypoechoic (darker), anechoic (no internal echoes), or mixed. Cellulitis and abscess stages were diagnosed depending on this echogenicity, categorized from acute infection to abscess formation: (1) Edematous changes: Isoechoic echogenicity resembles normal regions but with more fluid; (2) Cellulitis: Higher hyperechoic areas because of more inflammation; (3) Pre-abscess stage: Mixed hyperechoic and hypoechoic areas, because of the last stages of cellulitis and early stages of abscess; and (4) Abscess stage: Anechoic because of abscess orifices. May be single or multiple[4].
+
+After USG, cases were analyzed by MRI, with all patients scanned using a 1.5-t unit (Siemens). The imaging protocol included the axial and coronal planes. By comparison with the non-infected side, the shape and signal intensities of spreading infections were determined. Confirmative microbiological tests were performed on specimens collected by percutaneous aspiration, incision, and drainage. The data were analyzed using SPSS software.
+
+## RESULTS
+
+The study sample consisted of 20 patients with odontogenic infections spreading to the fascial spaces. All 20 patients were assessed through clinical examination, USG, and MRI. The USG was able to identify 42 involved fascial spaces (84%), whereas MRI identified all 50 fascial spaces (100%). In detecting superficial fascial spaces such as the canine, buccal, infraorbital, submandibular, submental, and submasseteric spaces, both machines showed the same results. Compared to USG, MRI was superior in the detection of infections deeply located in fascial spaces such as the parapharyngeal, retropharyngeal, masticator, and sublingual spaces. Among the 50 involved fascial spaces, 15 (30%) included the buccal space, the most common space involvement. The submasseteric space was involved in 14 cases (28%), which was the second most common. This was followed by involvement of the canine space in seven fascial spaces (14%), submandibular space in six (12%), masticatory space in four (8%), sublingual space in three (6%), and parapharyngeal space in one (2%). USG showed an anechoic area with the surrounding wall for buccal space infection, and T2 axial-weighted MRI with high signal intensity showed the involvement of buccal space (Figure 1). In USG the infected space showed hyperechoic areas with increased subcutaneous thickness inversion recovery compared to normal and MRI showing obliteration of adjacent fat planes with stranding (Figure 2). USG identified the superficial spaces involved and MRI showed the involvement of buccal, submandibular and pharyngeal spaces (Figure 3). Both USG and MRI showed the same results in identification of superficial fascial space infections, but MRI was superior in detecting the extent and spread of infection in deep fascial spaces (Table 1 and Figure 4). A comparison between USG and MRI findings in diagnosing the stages of infection showed the same results (Table 2). The detailed distribution of infection by age and sex was determined, and comparison was performed between the various spaces identified by USG and MRI. USG identified 42 (84%) out of 50 fascial spaces and detected all 40 superficial spaces (100%); deep spaces are difficult to identify by USG. In the present study USG has revealed 84% sensitivity, 100% specificity, positive predictive value (PPV) 90% and negative predictive (NPV) value 100% in identifying fascial spaces. The MRI revealed 100% sensitivity and 100% specificity, PPV and NPV 100% in detecting fascial space infection.
+
+[FIGURE] Comparison of ultrasonography and magnetic resonance images in case of the abscess. A: The infected space showing the anechoic area with the surrounding wall. B: T2 axial-weighted magnetic resonance images with high signal intensity showing the involvement of buccal space.
+
+[FIGURE] Comparison of ultrasonography and magnetic resonance imaging in case of cellulitis. A: Ultrasonography showing the infected space showing hyperechoic areas with increased subcutaneous thickness; B: Inversion recovery magnetic resonance imaging showing obliteration of adjacent fat planes with stranding.
+
+[FIGURE] Identification of spaces by ultrasonography and magnetic resonance imaging. A: Ultrasonography has identified the superficial spaces involved; B: STIR sequence of magnetic resonance imaging showing the involvement of buccal, submandibular and pharyngeal spaces.
+
+[FIGURE] Various fascial spaces identified by ultrasonography and magnetic resonance imaging. B: Buccal space; C: Canine space; Sma: Submandibular space; Smn: Submental space; Sl: Sublingual space; Ma: Massetric space; P: Pharyngeal space; USG: Ultrasonography; MRI: Magnetic resonance imaging.
+
+[TABLE] Fascial spaces identified by ultrasonography and magnetic resonance imaging
+Fascial spaces | USG | MRI | Type of fascial space
+No | % | No | %
+Buccal | 15 | 30 | 15 | 30 | Superficial
+Canine | 7 | 14 | 7 | 14 | Superficial
+Sub masseteric | 14 | 28 | 14 | 28 | Superficial
+Submandibular | 6 | 12 | 6 | 12 | Superficial
+Sublingual | 0 | 0 | 3 | 6 | Deep
+Masticatory | 0 | 0 | 4 | 8 | Deep
+Pharyngeal | 0 | 0 | 1 | 2 | Deep
+Total | 42 | 84 | 50 | 100 | 
+
+[TABLE] Ultrasonography and magnetic resonance imaging in detection of cellulitis and abscess
+ | USG (number) | % | MRI (number) | %
+Cellulitis | 16 | 80 | 16 | 80
+Abscess | 4 | 20 | 4 | 20
+Total | 20 | 100 | 20 | 100
+
+## DISCUSSION
+
+The healthy body lives in balance with normal flora, but at times pathogens can invade and initiate an infectious process. Odontogenic infections contribute to a high level of maxillofacial diseases, usually originating from dental caries or periodontal diseases. Pathogens can also be introduced into deeper oral tissues by trauma during dental procedures. The treatment consists of removal of the source of infection, systemic antibiotics, and area drainage[4,7,8].
+
+According to previous studies, conventional imaging techniques have limitations in distinguishing bacterial infection from sterile inflammation. The ability to non- invasive identification of infection and more sensitively and specifically would aid in the diagnosis of infection[9,10]. Delayed diagnosis of odontogenic infections can allow their spread to neighboring head and neck regions. This may be intense and rapid, potentially leading to obstruction of the airway, which needs emergency treatment. Because of the complex anatomy of the head and neck, diagnosing fascial space diseases by clinical examination alone is very difficult[4,11].
+
+Examination of such inflammatory swelling is largely restricted to the clinical techniques of evaluation and routinely employed conventional radiographs. However, their role in confirming the exact anatomical location and stages of infection remains unclear, at times causing problems to dental surgeons in adapting a treatment protocol. With the advent of advanced diagnostic equipment such as USG, CT, and MRI, the issue of diagnosing and treating these devastating infections has been diminished[4,12].
+
+High-resolution USG has been more effective in diagnosing superficial fascial space abscesses and has high predictability in determining the stages of infection. MRI is a powerful imaging modality that employs non-ionizing radiation and is considered the gold standard technique in assessing fascial space infections. It is excellent in soft-tissue contrast, depth, and resolution of anatomy. However, this technique is time-consuming, expensive, and not readily available. A better alternative to MRI is USG, which is readily available, comparatively low-cost, noninvasive, and a real-time imaging technique[4,13-15].
+
+As per the guidelines, USG images were interpreted by a single observer. MRI scanning was performed with the imaging protocol including the axial and coronal planes. Results were interpreted from T1- and T2-weighted images[8,16]. High-resolution ultrasound has been demonstrated as a useful method to pre-operatively determine any fluid collection or abscess in the superficial fascial spaces. According to previous studies, USG has been successfully demonstrated as a tool to diagnose abscess formation in superficial space infections, in agreement with the present study[8]. Previous studies have involved differentiating cellulitis from abscesses by clinical examination and USG. The diagnosis was correct 68% of the time with clinical examination alone and 70% of the time using clinical examination plus USG[5,17].
+
+In the present study, 50 fascial spaces were detected among 20 patients. USG recognized 42 fascial spaces (84%), and MRI detected all 50 (100%). Analysis with SPSS software found that USG precisely distinguished 84% of all included fascial spaces and 100% of included superficial spaces. These results were in near approximation to previous studies[4,5,18,19]. One previous study showed a significant association between histological findings and ultrasonography of oral maxillofacial swelling[20]. USG is inexpensive, fast, more available, and has less risk of radiation exposure to patients[21].
+
+In the present study USG has revealed 84% sensitivity, 100% specificity, Further, no deep spaces were identified by USG. These results were similar to the findings of previous studies. Those study results concluded that USG could not produce reliable data in detecting deep space infections, but could be used for preliminary diagnosis of superficial space infections and predicting stage of infection, also agreeing with our study[13,16,22,23]. One study showed sonography could define the border and depth of the abscess cavity more accurately, with nonspecific similar results for cellulitis[23].
+
+Odontogenic infections are commonly encountered in routine practice. Even though clinical examination and radiographs are the standard, this approach commonly leads to delays in appropriate surgical treatment, antibiotic therapy, and supportive care. This can be easily overcome in the era of sophisticated imaging. MRI was better than USG in evaluating deep fascial space infections such as in the parapharyngeal and masseteric spaces. The present study showed that USG is a valuable addition and has a definite role in rendering prompt and accurate treatment for the patient by predicting the phase of the disease and definite anatomic area in superficial space infections[23,24].
+
+After confirmation of the diagnosis, the patients were treated according to the stage of infection. For example, all four cases that were diagnosed as space infection with abscess formation were drained, and in all cases, pus and purulent discharge were used to verify the findings of USG and MRI, before appropriate antibiotics were administered. The 16 patients diagnosed with cellulitis were treated with antibiotics alone. The collected pus and purulent material were sent for culture sensitivity testing to determine the causative organisms. The culture report showed more growth of aerobic (65.7%) than anaerobic bacteria. According to findings of the previous culture studies, gram-positive cocci and gram-negative rods have greater percentage growth. Similarly in our study, bacteriological patterns were polymicrobial[25].
+
+## CONCLUSION
+
+Ultrasonography successfully detected 42 involved fascial spaces (84%), whereas MRI identified all 50 (100%). Both showed the same results in identifying all 42 superficial fascial space infections (100%). MRI is superior to USG in identifying deep fascial space infections. Nevertheless, USG is a readily available, noninvasive, low-cost diagnostic tool that has a clear role in predicting the phase of infection and precise anatomic area in superficial space infections.
+
+## ARTICLE HIGHLIGHTS
+
+### Research background
+
+Modern diagnostic tools have improved maxillofacial radiology. Ultrasonography (USG) is easily available and cost-effective compared to magnetic resonance imaging (MRI).
+
+### Research motivation
+
+Odontogenic infections not treated in early stages may lead to life-threatening infection. Considering readily available and cost-effective tools is necessary to diagnose such infections.
+
+### Research objectives
+
+The study aimed to explore USG as an alternative model to MRI in detecting the fascial space spread of odontogenic infections.
+
+### Research methods
+
+Patients with acute facial swellings were included in the study. The 20 patients with 50 odontogenic infections were clinically examined, and USG and MRI were performed. The diagnosis was based on echogenicity, and the cellulitis and abscess stage was determined.
+
+### Research results
+
+Both USG and MRI were accurate in identifying superficial space infections, but MRI was better in identifying the extent and depth of the infection.
+
+### Research conclusions
+
+MRI was superior in diagnosing deep fascial infections, but the ultrasound could detect superficial space infections and is readily available, noninvasive, and low cost.
+
+### Research perspectives
+
+This study indicates the use of a convenient diagnosing tool such as USG for diagnosing the odontogenic spread of fascial infections.
