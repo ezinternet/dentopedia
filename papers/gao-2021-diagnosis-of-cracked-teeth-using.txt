@@ -1,0 +1,12 @@
+TITLE: Diagnosis of cracked teeth using cone-beam computed tomography: literature review and clinical experience
+AUTHORS: Gao Antian, Cao Dantong, Lin Zitong
+JOURNAL: Dentomaxillofacial Radiology
+ID[pmcid]: PMC8231684
+ID[pmcid-ver]: PMC8231684.1
+ID[pmcaid]: 8231684
+ID[pmcaiid]: 8231684
+ID[pmid]: 33237813
+ID[doi]: 10.1259/dmfr.20200407
+
+## ABSTRACT
+Cone-beam computed tomography (CBCT) has been widely used in diagnosis of vertical root fractures (VRFs) in recent years. According to the American Association of Endodontists (AAE) classification, there are five types of cracked teeth and VRF is one of them. Due to the variability and overlapping of the cracks and fractures, some narrow fractures on the roots of VRFs could not be detected by CBCT, and some wide cracks on the crown of cracked teeth could be detected by CBCT. In this review, we firstly discussed the value of CBCT in the diagnosis of the AAE five types of cracked teeth and presented CBCT manifestations of some typical cases. Secondly, we summarized the factors influencing the diagnosis of cracks/fractures using CBCT, namely, CBCT device-related factors, patient-related factors, and evaluator-related factors. The possible strategies to improve the diagnostic accuracy in the clinic practice are also discussed in this part. Finally, we compared the differences of root fractures with lateral canals and external root resorption on CBCT images.
