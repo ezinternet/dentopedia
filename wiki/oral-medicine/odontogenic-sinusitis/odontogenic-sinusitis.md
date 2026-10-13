@@ -2,7 +2,7 @@
 title: "구강내과·치성상악동염 — odontogenic-sinusitis"
 authors: navigation
 year: 2026
-date: 2026-10-12
+date: 2026-10-14
 doi: N/A
 source: navigation
 category: oral-medicine/odontogenic-sinusitis
@@ -15,20 +15,20 @@ tags: [navigation, category-index, odontogenic-sinusitis]
 > [!summary] 한국어 핵심요약
 > - **분야**: 구강내과·치성상악동염
 > - **범위**: Odontogenic maxillary sinusitis (ODS) — maxillary sinusitis of dental origin (periapical/periodontal infection, oroantral communication, iatrogenic implant/graft/endodontic causes), diagnosis (CBCT unilateral opacification, odontogenic vs rhinogenic differentiation), sinonasal complications of denta…
-> - **수록 논문**: 16편
+> - **수록 논문**: 17편
 
 ## Three-line Summary
 
 **Scope**: Odontogenic maxillary sinusitis (ODS) — maxillary sinusitis of dental origin (periapical/periodontal infection, oroantral communication, iatrogenic implant/graft/endodontic causes), diagnosis (CBCT unilateral opacification, odontogenic vs rhinogenic differentiation), sinonasal complications of dental disease, multidisciplinary dental–ENT management (dental source removal, FESS, antibiotics), state-of-art reviews & expert consensus
-**Indexed papers**: 16 papers in `wiki/oral-medicine/odontogenic-sinusitis/`.
+**Indexed papers**: 17 papers in `wiki/oral-medicine/odontogenic-sinusitis/`.
 
 ## 세줄요약
 
 **분야**: 구강내과·치성상악동염
-**수록 논문**: 16편
+**수록 논문**: 17편
 **하위 카테고리**: 없음
 
-## Papers in this Category (16)
+## Papers in this Category (17)
 
 | Paper |
 |---|
@@ -39,6 +39,7 @@ tags: [navigation, category-index, odontogenic-sinusitis]
 | [[de-corso-2022-sinonasal-complications-dental-disease|Real-Life Experience in the Management of Sinonasal Complications of Dental Disease or Treatments]] |
 | [[gang-2021-comparing-the-efficacy-of-sinus|Comparing the efficacy of sinus irrigation with traditional Caldwell–Luc procedure following odontogenic cyst surgery involving the maxillary sinus]] |
 | [[gnanasekaran-2024-nasal-irrigation-postoperative-fess|Evaluating the efficacy of nasal irrigation in postoperative functional endoscopic sinus surgery patients: a systematic review and meta-analysis]] |
+| [[iikubo-2002-nonsurgical-treatment-for-odontogenic-maxillary|Nonsurgical Treatment for Odontogenic Maxillary Sinusitis Using Irrigation through the Root Canal: Preliminary Case Report]] |
 | [[jaiswal-2024-sinus-irrigation-as-an-adjunctive|Sinus irrigation as an adjunctive therapy for odontogenic maxillary sinusitis — an in-depth analysis]] |
 | [[kim-2019-definition-management-odontogenic-maxillary|Definition and management of odontogenic maxillary sinusitis]] |
 | [[kim-2025-treatment-of-non-chronic-odontogenic|Treatment of non-chronic odontogenic sinusitis: maxillary sinus lavage via extraction socket after tooth or implant removal]] |
