@@ -2774,6 +2774,9 @@ tags: []
 - [[cracked-tooth/jkda-2024-62-1-003]] — Review (연세대+강남세브란스 보존과, JKDA 2024): 균열치 진단 — 단일 도구 한계·다중 검사 종합 framework. JKDA 균열치 특집 1번
 - [[cracked-tooth/jkda-2024-62-1-004]] — Clinical review (부산대 보존과 손성애, JKDA 2024): QLF (Quantitative Light-Induced Fluorescence) 균열치 진단 적용 — 비침습 시각화·기존 도구 보완
 - [[cracked-tooth/kakka-2022-treatment-cracked-teeth-comprehensive-narrative]] — Kakka 2022 · narrative-review (64편, Athens+Newcastle, CEDR, PMC fulltext) · 모니터링(무증상 80% 3y 안정)·생활치 치수생존 80–93%·RCT 후 crownless 발치 11배 ↑ — 치료 결과 포괄 서술고찰, Iowa Index 제시 (DOI 10.1002/cre2.617, PMC9562569)
+- [[cracked-tooth/alaugaily-2022-cbct-patterns-bone-loss-clinical]] — 후향적 95치아(초록만): CBCT가 PA 대비 종축 파절 골결손 검출 odds 4.4배; VRF=J형 결손·치주낭>6mm·피질골판 소실, 균열치=각형 결손·치주낭<6mm (J Endod 2022)
+- [[cracked-tooth/patel-2022-present-status-future-directions-vertical]] — 근관치료치 수직치근파절(VRF) 서술적 문헌고찰: VRF 발치치의 86-97%가 근관치료치(유병률 4-32%), CBCT는 파절선 아닌 치근주위 골소실 양상만 확인, 발치가 가장 예측 가능한 치료 (IEJ 2022)
+- [[cracked-tooth/liao-2021-vertical-root-fracture-non-endodontically-treated]] — 내러티브 리뷰(106편): 수직치근파절 근관치료치 vs 비근관치료치 비교, 유병률 2–25%, 깊고 좁은 치주낭 64–93%·치관측 누공 35–42%, 수복 재식립 생존율 12개월 88.5%→60개월 59.3% (J Pers Med 2021)
 - [[overviews/cracked-tooth-syndrome-overview]] — Synthesis (8편, 2026): longitudinal fracture 5-type 분류·multi-modal 진단(bite·transillumination·CBCT·QLF)·치료 tension(Kaur 2026 endo+full coverage vs 보존적 입장). 한국 적용 framework
 
 ## Batch ingest (added 2026-09-21) — cracked-tooth 서베일런스 2026-09 (2편 신규)
@@ -4877,5 +4880,6 @@ tags: []
 - [[oral-medicine/odontogenic-sinusitis/gang-2021-comparing-the-efficacy-of-sinus]] — 상악동 침범 대형 치성낭종 낭종적출술 후 카테터 상악동 세척 vs 칼드웰-뤽 RCT(n=40): 술후 1일 VAS 2.50 vs 4.15, 술후 2일 발열 5% vs 40%, 양군 전원 치유·36개월 재발 없음
 - [[oral-medicine/odontogenic-sinusitis/nahlieli-2020-trans-implant-treatment-of-chronic]] — 내부 포트 임플란트 경유 만성 재발성 상악동염 후향 31례(초록만): 30일째 28/31(90%) 주요 증상 소실, 임플란트 27개 골유착·1개 실패, 재발 보고 없음
 - [[oral-medicine/odontogenic-sinusitis/nahlieli-2018-transimplant-antral-lavage-as-minimally]] — 만성 비부비동염 11명 연속 증례, 내부 포트 임플란트(DIVA) 경유 상악동 세척: 30일째 9/11명 증상 대부분 해소, 임플란트 전부 골유착 (초록만, 비대조 예비보고)
+- [[oral-medicine/odontogenic-sinusitis/iikubo-2002-nonsurgical-treatment-for-odontogenic-maxillary]] — 근관 경유 상악동 세척 증례 (n=1, 치성 상악동염): 1회 세척(생리식염수 15 ml + 공기 15 ml) 후 2일 내 증상 소실, 1주 CT 점막비후 거의 소실, 12개월 재발 없음 (발치·수술 없이 치아 보존)
 - [[sinus-lift/lateral/hong-2017-novel-approach-to-the-maxillary]] — 치조정접근 상악동거상 10일 후 급성 상악동염 1례: 임플란트·이식재 제거 + 견치와 개창 관류 4회(4일 간격)로 농 소실·3.5개월 CT 회복 (n=1)
 - [[sinus-lift/lateral/kim-2010-diagnosis-and-treatment-of-maxillary]] — 임플란트 식립 후 상악동염 2례(초록만): 측방벽 소파술+항생제+상악동 세척으로 호전, 급성 상악동염은 측방벽 직접접근+정기 세척 권고
