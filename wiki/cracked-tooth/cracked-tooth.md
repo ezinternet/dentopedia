@@ -15,20 +15,20 @@ tags: [navigation, category-index, cracked-tooth]
 > [!summary] 한국어 핵심요약
 > - **분야**: 균열치 증후군
 > - **범위**: Cracked tooth syndrome — classification (Ellis/Baird), diagnosis, prognosis, restoration design, FEA stress analysis
-> - **수록 논문**: 50편
+> - **수록 논문**: 51편
 
 ## Three-line Summary
 
 **Scope**: Cracked tooth syndrome — classification (Ellis/Baird), diagnosis, prognosis, restoration design, FEA stress analysis
-**Indexed papers**: 50 papers in `wiki/cracked-tooth/`.
+**Indexed papers**: 51 papers in `wiki/cracked-tooth/`.
 
 ## 세줄요약
 
 **분야**: 균열치 증후군
-**수록 논문**: 50편
+**수록 논문**: 51편
 **하위 카테고리**: 없음
 
-## Papers in this Category (50)
+## Papers in this Category (51)
 
 | Paper |
 |---|
@@ -64,6 +64,7 @@ tags: [navigation, category-index, cracked-tooth]
 | [[liu-2025-restorative-design-materials-stress-cracked-teeth-fea|Effect of different restorative design and materials on stress distribution in cracked teeth: a finite element analysis study]] |
 | [[luo-2026-vertical-root-fracture-in-endodontically|Vertical Root Fracture in Endodontically Treated Teeth: Risk Factors and Future Directions]] |
 | [[malentacca-2026-cuspal-coverage-direct-resin-composite-cracked|Cuspal Coverage Direct Resin Composite Restorations for Cracked Teeth: A Five-Year Clinical Study]] |
+| [[mizuhashi-2022-diagnosis-of-vertical-root-fractures|Diagnosis of Vertical Root Fractures in Endodontically Treated Teeth by Cone-Beam Computed Tomography]] |
 | [[patel-2022-present-status-future-directions-vertical|Present status and future directions: vertical root fractures in root filled teeth]] |
 | [[patel-2025-position-statement-longitudinal-cracks-fractures|Position statement on longitudinal cracks and fractures of teeth]] |
 | [[pryles-2025-preventive-endodontics-crack-development-tooth-loss|Preventive Endodontics: Understanding Crack Development and Preventing Tooth Loss]] |
