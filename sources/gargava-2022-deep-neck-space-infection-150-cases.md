@@ -62,7 +62,7 @@ care hospital in India; odontogenic source in 42.66%, Ludwig's angina most commo
 - **Management**:
   - I&D (surgical drainage): 38% of cases
   - Conservative (IV antibiotics alone): remainder where no fluctuant collection
-  - Emergency tracheostomy: performed in cases with airway compromise (approximately 10–12% of Ludwig's angina cases)
+  - Emergency tracheostomy: performed in cases with airway compromise (12% of all 150 cases per the abstract; not broken down by Ludwig's angina)
 - **Complications**: Mediastinitis, aspiration pneumonia, airway obstruction
 - **Mortality**: Low overall; higher in cases with mediastinal extension
 
