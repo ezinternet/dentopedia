@@ -1,0 +1,15 @@
+TITLE: Factors Contributing to the Spread of Odontogenic Infections
+AUTHORS: Bakathir Abdulaziz A, Moos Khursheed F, Ayoub Ashraf F, Bagg Jeremy
+JOURNAL: Sultan Qaboos University Medical Journal
+ID[pmcid]: PMC3074787
+ID[pmcid-ver]: PMC3074787.1
+ID[pmcaid]: 3074787
+ID[pmcaiid]: 3074787
+ID[pmid]: 21509313
+ID[publisher-id]: squmj-09-296
+
+## ABSTRACT
+Objectives:Spreading odontogenic infections (SOI) are the commonest type of serious infections encountered in the orofacial region. A prospective multi-centre study was conducted in the West of Scotland to investigate the contributing role of social, systemic and microbial factors in the pathogenesis of SOI.
+Methods:Twenty-five patients with severe odontogenic infections were recruited over a period of six months. At admission, clinical assessment included temperature rise, haematological and biochemical investigations. Demographic data, social and past medical histories were obtained. Microbiology samples were collected to identify causative microorganisms and the clinical management of each infection was recorded.
+Results:Most infections were associated with teeth or roots. Eighty percent of the patients were tobacco smokers and 72% came from deprived areas. Five patients were intravenous drug users, four admitted chronic alcohol abuse, six had underlying systemic disorders and two were at high risk of malnutrition. A raised C-reactive protein at admission was a useful indicator of the severity of infection. Inappropriate prior antibiotic treatment in the absence of surgical drainage was common. Microbiology results showed a predominance of strict anaerobes, notably anaerobic streptococci, Prevotella and Fusobacterium species.
+Conclusion:SOIs remain surprisingly common and our present pilot study showed a particular association with social deprivation and tobacco smoking. Further elucidation of the role of malnutrition in SOI would be of interest. Molecular characterisation of the microflora associated with SOI may help to highlight whether bacterial factors play a role in converting a localised dentoalveolar abscess into a serious, spreading odontogenic infection.
