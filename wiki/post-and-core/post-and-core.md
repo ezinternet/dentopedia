@@ -2,7 +2,7 @@
 title: "포스트앤코어 — post-and-core"
 authors: navigation
 year: 2026
-date: 2026-08-11
+date: 2026-10-14
 doi: N/A
 source: navigation
 category: post-and-core
@@ -15,20 +15,20 @@ tags: [navigation, category-index, post-and-core]
 > [!summary] 한국어 핵심요약
 > - **분야**: 포스트앤코어
 > - **범위**: Restoration of endodontically treated teeth — post-vs-no-post decision, fiber vs metal/cast post survival, ferrule effect, endocrown alternative, post length/material/cementation, failure mode (root fracture vs repairable).
-> - **수록 논문**: 24편
+> - **수록 논문**: 25편
 
 ## Three-line Summary
 
 **Scope**: Restoration of endodontically treated teeth — post-vs-no-post decision, fiber vs metal/cast post survival, ferrule effect, endocrown alternative, post length/material/cementation, failure mode (root fracture vs repairable).
-**Indexed papers**: 24 papers in `wiki/post-and-core/`.
+**Indexed papers**: 25 papers in `wiki/post-and-core/`.
 
 ## 세줄요약
 
 **분야**: 포스트앤코어
-**수록 논문**: 24편
+**수록 논문**: 25편
 **하위 카테고리**: 없음
 
-## Papers in this Category (24)
+## Papers in this Category (25)
 
 | Paper |
 |---|
@@ -45,6 +45,7 @@ tags: [navigation, category-index, post-and-core]
 | [[lenz-2023-endocrown-core-crown-biomechanical-sr|Biomechanical performance of endocrown and core-crown restorations: A systematic review]] |
 | [[mously-2024-anterior-endocrowns-alternative-core-crown|Anterior Endocrowns as An Alternative to Core Crown restorations: A Systematic Review]] |
 | [[naumann-2017-ferrule-first-post-second-systematic-review|Ferrule Comes First. Post Is Second!" Fake News and Alternative Facts? A Systematic Review]] |
+| [[oulghazi-2024-factors-influencing-vertical-radicular-fractures|Factors Influencing Vertical Radicular Fractures in Teeth Supported by Metallic Dental Core: A Scoping Review]] |
 | [[phengudom-2021-survival-fracture-endodontic-anterior|Survival Rates of Unrestorable Fracture of Endodontically Treated Anterior Teeth Restored with Resin Composites or Crowns: A Retrospective Cohort Study]] |
 | [[reeh-1989-reduction-tooth-stiffness-result-endodontic|Reduction in tooth stiffness as a result of endodontic and restorative procedures]] |
 | [[rezaei-2010-comparison-stresses-fiber-parapost-casting|Photoelastic stress: fiber post vs ParaPost vs cast post]] |
