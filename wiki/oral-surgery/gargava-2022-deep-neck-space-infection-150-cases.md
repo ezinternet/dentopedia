@@ -65,7 +65,7 @@ This prospective observational study (Indian J Otolaryngol Head Neck Surg 2022;7
 - **Management**:
   - I&D: 38%
   - Conservative (IV antibiotics): remainder without drainable collection
-  - Emergency tracheostomy: performed in airway-compromised patients (~10–12% of Ludwig's angina)
+  - Emergency tracheostomy: performed in airway-compromised patients (12% of all 150 cases per the abstract; not broken down by Ludwig's angina)
 - **Complications**: Mediastinitis, aspiration pneumonia, airway obstruction
 - **Mortality**: Low overall; highest in mediastinitis cases
 
