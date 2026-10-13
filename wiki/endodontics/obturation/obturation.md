@@ -2,7 +2,7 @@
 title: "근관치료·충전 — obturation"
 authors: navigation
 year: 2026
-date: 2026-08-29
+date: 2026-10-14
 doi: N/A
 source: navigation
 category: endodontics/obturation
@@ -15,20 +15,20 @@ tags: [navigation, category-index, obturation]
 > [!summary] 한국어 핵심요약
 > - **분야**: 근관치료·충전
 > - **범위**: Root canal obturation — gutta-percha & GP cone handling (contamination/disinfection), sealers (bioceramic/CaSi: CeraSeal/NeoSealer/BioRoot; epoxy: AH Plus), single-cone vs carrier-based, sealer cytotoxicity/bioactivity/wettability, retreatment/sealer removal, pediatric pulpectomy materials (Vitapex/…
-> - **수록 논문**: 21편
+> - **수록 논문**: 23편
 
 ## Three-line Summary
 
 **Scope**: Root canal obturation — gutta-percha & GP cone handling (contamination/disinfection), sealers (bioceramic/CaSi: CeraSeal/NeoSealer/BioRoot; epoxy: AH Plus), single-cone vs carrier-based, sealer cytotoxicity/bioactivity/wettability, retreatment/sealer removal, pediatric pulpectomy materials (Vitapex/ZOE), post-obturation pain
-**Indexed papers**: 21 papers in `wiki/endodontics/obturation/`.
+**Indexed papers**: 23 papers in `wiki/endodontics/obturation/`.
 
 ## 세줄요약
 
 **분야**: 근관치료·충전
-**수록 논문**: 21편
+**수록 논문**: 23편
 **하위 카테고리**: 없음
 
-## Papers in this Category (21)
+## Papers in this Category (23)
 
 | Paper |
 |---|
@@ -42,6 +42,8 @@ tags: [navigation, category-index, obturation]
 | [[gaafar-2025-inflammatory-response-neosealer-ceraseal-fibroblasts|Comparative analysis of the inflammatory response of human gingival fibroblasts to NeoSEALER Flo and CeraSeal bioceramic sealers: an in vitro study]] |
 | [[kumar-2022-cytotoxicity-bioc-ceraseal-mtafillapex-ahplus|Cytotoxicity evaluation of Bio-C, CeraSeal, MTA-Fillapex, and AH Plus root canal sealers by microscopic and MTT assay]] |
 | [[kunam-2024-wettability-ahplus-ceraseal-guttaflow|Comparative evaluation of wettability of AH plus, Ceraseal and Guttaflow bioseal root canal sealers on root canal dentin: An in vitro study]] |
+| [[lee-2026-ortho-mta-iii-vs-gp-infected-canals-rct|Ortho MTA III Versus GP+AH Plus for Infected Canals: RCT]] |
+| [[li-2024-comparative-assessment-of-vertical-fracture|Comparative assessment of vertical fracture resistance in endodontically treated roots with different obturating systems and techniques: a systematic review and network meta-analysis of in vitro studies]] |
 | [[maharti-2024-calcium-silicate-apatite-deposition-ph|Calcium Silicate-Based Sealers: Apatite Deposition on Root Canal Dentin and pH Variation Analysis]] |
 | [[mushtaq-2026-obturation-techniques-endodontic-outcomes-srma|Effect of root canal filling techniques and materials on endodontic treatment outcomes: a systematic review and meta-analysis]] |
 | [[najjar-2019-caoh2-iodoform-vitapex-vs-zoe-pulpectomy-sr-ma|A comparison of calcium hydroxide/iodoform paste and zinc oxide eugenol as root filling materials for pulpectomy in primary teeth: A systematic review and meta-analysis]] |
