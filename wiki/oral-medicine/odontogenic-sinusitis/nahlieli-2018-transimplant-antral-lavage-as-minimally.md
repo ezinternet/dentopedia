@@ -7,16 +7,16 @@ doi: 10.3290/j.qi.a39742
 source: nahlieli-2018-transimplant-antral-lavage-as-minimally.md
 category: [oral-medicine/odontogenic-sinusitis]
 evidence_level: in-vivo
-source_collection: pubmed-text
+source_collection: external
 full_text: false
 pmid: "29363675"
 source_url: https://pubmed.ncbi.nlm.nih.gov/29363675/
-text_path: /Users/oracleneo/llm-wiki/papers/nahlieli-2018-transimplant-antral-lavage-as-minimally.txt
-text_filename: nahlieli-2018-transimplant-antral-lavage-as-minimally.txt
+pdf_path: /Users/oracleneo/llm-wiki/papers/nahlieli-2018-transimplant-antral-lavage-as-minimally.pdf
+pdf_filename: nahlieli-2018-transimplant-antral-lavage-as-minimally.pdf
 tags: [transimplant-lavage, DIVA, chronic-rhinosinusitis, maxillary-sinus, implant-port, sinus-irrigation, case-series]
 ---
 
-abstract-only — full text not retrieved
+abstract-only — publisher landing/abstract page saved as PDF, full text not retrieved
 
 ## Three-line Summary
 
