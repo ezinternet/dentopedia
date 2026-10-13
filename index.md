@@ -2791,6 +2791,16 @@ tags: []
 - [[cracked-tooth/pryles-2025-preventive-endodontics-crack-development-tooth-loss]] — Harvard narrative review: preventive endodontics framework for crack management — early protective restoration + bruxism control + timely endo interrupts crack→tooth-loss cascade (2025)
 - [[cracked-tooth/eraslan-2026-artificial-intelligence-cracked-tooth-diagnosis]] — AI LLM benchmark (50 CTS scenarios): better on classic presentations, weaker on atypical — AI viable as decision-support, not standalone diagnosis (2026)
 - [[cracked-tooth/shimizu-2026-enamel-crack-orofacial-pain-differential-diagnosis]] — Prospective 3yr: enamel crack produces distinct OFP patterns; multimodal criteria required to differentiate from TMD and neuropathic pain (2026)
+- [[cracked-tooth/gao-2021-diagnosis-of-cracked-teeth-using]] — 균열치 AAE 5유형별 콘빔CT(CBCT) 진단 가치 내러티브 리뷰 (초록만; 좁은 VRF 파절선은 CBCT로 안 보일 수 있고 넓은 치관 균열은 보임, 수치 없음)
+- [[cracked-tooth/luo-2026-vertical-root-fracture-in-endodontically]] — 근관치료치 수직치근파절 위험인자 내러티브 리뷰(초록만): 치료 관련(미세균열·상아질 용적·파절저항성) vs 교합 요인 2축, 교합력 측정 연구 부족, 수치 결과 없음
+- [[cracked-tooth/salihu-2024-review-of-approaches-to-the]] — 수직치근파절 보존 중심 관리 내러티브 리뷰: 근관치료치 VRF 4-32%, 80%가 증상 후 2년 내 발견, 접착+의도적 재식립은 증례 수준(통합 성공률 없음) (corbella-2025에 일부 대체)
+- [[cracked-tooth/kim-2024-developing-evidence-based-clinical-imaging]] — 한국 임상영상진료지침(K-CIG) 적응·델파이: VRF 의심 시 치근단방사선사진 1차(권고1 등급 A), 불충분할 때만 소조사야 CBCT(권고2 등급 B); 근관충전치 CBCT 민감도 72.76% (2024)
+- [[cracked-tooth/garcaguerrero-2021-vertical-root-fractures-a-time]] — 중첩 환자-대조군(콜롬비아, VRF 90례 vs 대조 270): 재근관치료 OR 12.19(1–5년)·4.28(6–10년), 수산화칼슘은 10년 초과에서만 OR 8.55, 포스트는 보호 OR 0.22·0.26, 53.3%가 5년 이내
+- [[cracked-tooth/shokri-2024-is-cone-beam-computed-tomography]] — VRF 검출 CBCT vs 치근단방사선사진 SR+MA(23편): 민감도 0.708 vs 0.518 (P=0.011), 특이도 차이 없음, 근관충전치에서 CBCT 민감도 0.911→0.758; 대부분 체외·I² 70–87%
+- [[cracked-tooth/ek-2023-prevalence-of-vertical-root-fractures]] — 대학 21,156명·개인의원 7,209건 후향 조사: VRF 유병률 합산 2.01%, COVID-19 기간 1.72%→3.82%이나 확진 증가는 0.65%→1.01%로 작고 의심 사례가 주도
+- [[cracked-tooth/hsiao-2020-analysis-of-clinical-associated-factors]] — 대만 미세수술 359치 후향 코호트: VRF 18.7%, 50세 초과 보정 OR 3.20·대구치 4.31·소구치 2.61 유의, 성별·근관치료 이력·수복물·포스트는 무효
+- [[cracked-tooth/de-2025-exploring-diagnostic-reliability-of-cbct]] — VRF CBCT 진단정확도 체외 SR+MA(100편, 5808치): 완전 VRF 민감도 0.749 vs 불완전 0.522, 금속 포스트 시 민감도 0.560·특이도 0.719(빈 근관 0.763/0.841); 전 항목 GRADE 매우 낮음
+- [[cracked-tooth/habibzadeh-2023-diagnostic-efficacy-of-cone-beam]] — 근관치료치 VRF CBCT 진단 SR(20편, 대부분 체외): 포스트 없음 민감도 71.5%·특이도 75.6%, 생체 내 민감도 58.5%·발거치 특이도 46.8% — 임상·방사선 병용 진단 권고
 ## 치과 역사 (Dental History)
 - [[dental-history/jkda-2025-63-8-006]] — Historical article (Goodface Mi 치과 변웅래, JKDA 2025): 함석태(1889-?) — 첫 한국인 정규 치과대학 졸업자·등록 치과의사·한성치과의사회 창립(일본 단체 대항). 일제강점기 한국 치과 자주성 anchor
 - [[dental-history/choi-2026-opening-future-innovation-convergence-oral-health]] — Choi 2026 · narrative-review · 대한예방치과·구강보건학회장 사설로 학술지 비전과 3대 학술 방향(예방연구 확장, 인재 양성, 융합·글로벌 네트워크)을 제시 (DOI 10.11149/jkaoh.2026.50.2.55)
@@ -4457,6 +4467,7 @@ tags: []
 ### artificial-intelligence
 - [[artificial-intelligence/mathur-2026-artificial-intelligence-dental-implant]] — AI 임플란트 식별·계획·성공예측 우산리뷰(SR 10편/261건 중 선정): CNN 정확도 >90%, 골유착예측 5/10편만 보고, 딥러닝>전통ML [sr, abstract-only]
 - [[artificial-intelligence/cao-2026-deep-learning-rfa-isq]] — 딥러닝 2단계 프레임워크(잡음제거 CNN + 메타데이터 인식 예측망)로 RFA 신호 처리 및 ISQ 예측; MAE 1.85·R² 0.91·±3 ISQ 허용정확도 92% (n=100 임플란트, 개념증명)
+- [[artificial-intelligence/alshahrani-2026-use-of-artificial-intelligence-in]] — VRF AI 진단 SR(10편, 메타분석 불가): CBCT 기반 정확도 91.4–97.8%·특이도 90.7–100%(GRADE 중간), 파노라마 최저; 근거 대부분 ex vivo·외부검증 없음, 확진은 CBCT
 
 ### drug/mronj
 - [[drug/mronj/dahiya-2024-antiresorptive-drugs-osteonecrosis-dental-implants]] — Umbrella review(SR 10편, 2014-2024, PROSPERO): 실패 임플란트 524개 중 MRONJ 2-17%; IV 비스포스포네이트 ≥45-60개월 최고위험; AMSTAR2 high 0% [sr+ma]
@@ -4520,6 +4531,7 @@ tags: []
 ### post-and-core
 - [[post-and-core/shah-2021-effect-of-fibre-reinforced-composite-as]] — 체계적 문헌고찰(25개 논문): 섬유보강 복합레진 코어가 근관치료 치아의 파절저항성 증가(건전치 수준 미달); 폴리에틸렌·단섬유형 > 유리섬유형
 - [[post-and-core/selvaraj-2023-fracture-resistance-of-endodontically]] — SR 18 in-vitro 연구: FRC (EverX, Ribbond)가 통상 하이브리드 복합레진 대비 파절저항성 강한 근거 우위 (15/16편); 인레이·파이버포스트 대비 중등도 근거; 엔도크라운 대비 근거 없음
+- [[post-and-core/oulghazi-2024-factors-influencing-vertical-radicular-fractures]] — 금속 포스트-코어 VRF 인자 범위 문헌고찰(18편: FEA 8·RCT 1): 2 mm 페룰 시 파절저항 유의 증가, 유일 RCT 연간 실패율 금속 1.2% vs 파이버 1.7%(치근파절 유의차 없음), 근거 대부분 FEA·시험관
 
 ### overviews (2026-07-23 synthesis batch)
 - [[overviews/conservative-access-cavity-biomechanics-overview]] — **NEW Overview** (9편, 2026-07-23): 보존적 접근와동(CEC)의 생역학 — 풀링 MA는 이득 보고(Motiwala 2022 SUCRA 51.4 vs TEC 15.3%, ~562N; Mrinalini 2024 SMD 2.61)하는데 가장 통제된 체외연구 3편은 차이 없음(Barbosa/Lima/Rover, P>0.05)인 **모순을 해소**: 이득은 **변연능선이 모두 온전할 때만** 유의하고 1개라도 소실되면 소멸(Ballester 2021, 33편) — 반면 미형성 근관면·충전 공극·근관 미발견이라는 **대가는 무조건부·재현적**. 수복만으로 건전치 강도 ~72% 회복(Saeed 2021)이 무효과 3편을 설명. 임상 레버는 접근구 크기가 아니라 ①능선 보존 여부 ②DOM+초음파 ③FRC 코어. 전부 in vitro, 임상 RCT 0편.
