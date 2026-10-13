@@ -16,31 +16,33 @@ tags: [navigation, category-index, oral-surgery]
 > - **분야**: 구강외과
 > - **범위**: Extractions, surgical complications not covered by a subcategory (oroantral fistula, hemostasis, deep neck infection, free flap).
 > - **하위 카테고리**: [[nerve-injury]] · [[third-molar]] · [[trauma]]
-> - **수록 논문**: 40편
+> - **수록 논문**: 46편
 
 ## Three-line Summary
 
 **Scope**: Extractions, surgical complications not covered by a subcategory (oroantral fistula, hemostasis, deep neck infection, free flap).
-**Indexed papers**: 40 papers in `wiki/oral-surgery/`.
+**Indexed papers**: 46 papers in `wiki/oral-surgery/`.
 **Sub-categories**: [[nerve-injury]], [[third-molar]], [[trauma]]
 
 ## 세줄요약
 
 **분야**: 구강외과
-**수록 논문**: 40편
+**수록 논문**: 46편
 **하위 카테고리**: nerve-injury, third-molar, trauma
 
-## Papers in this Category (40)
+## Papers in this Category (46)
 
 | Paper |
 |---|
 | [[al-maawi-2021-prf-extraction-socket-healing-sr|Efficacy of platelet-rich fibrin in promoting the healing of extraction sockets: a systematic review]] |
 | [[andrade-2021-dental-extractions-hemodialysis-ckf|Complications related to dental extractions in patients with chronic kidney failure undergoing hemodialysis: a pilot study]] |
+| [[bakathir-2009-factors-contributing-to-the-spread|Factors Contributing to the Spread of Odontogenic Infections: A prospective pilot study]] |
 | [[bertollo-2011-drilling-bone-practicality-limitations-complications|Drilling of Bone: Practicality, Limitations and Complications Associated with Surgical Drill-Bits]] |
 | [[bodner-2012-cutaneous-sinus-tract-dental|Cutaneous Sinus Tract of Dental Origin in Children — A Report of 28 New Cases]] |
 | [[cebrian-carretero-2014-free-flap-implant-guided-surgery|Predictable dental rehabilitation in maxillomandibular reconstruction with free flaps. The role of implant guided surgery]] |
 | [[chenchev-2024-benex-minimally-invasive-extraction|Minimally Invasive Extraction System Benex — Clinical Evaluation and Comparison]] |
 | [[chiarella-2007-iatrogenic-bppv-dental-maxillofacial-surgery|Iatrogenic benign paroxysmal positional vertigo: review and personal experience in dental and maxillo-facial surgery]] |
+| [[cranendonk-2017-cellulitis-current-insights-into-pathophysiology|Cellulitis: current insights into pathophysiology and clinical management]] |
 | [[dinkova-2025-local-hemostasis-oral-surgery-review|Biomaterial-Based and Surgical Approaches to Local Hemostasis in Contemporary Oral Surgery: A Narrative Review]] |
 | [[fernandes-2015-immunologic-glycemic-postextraction-t2dm|Association between immunologic parameters, glycemic control, and postextraction complications in patients with type 2 diabetes]] |
 | [[ferrer-valdivia-2022-complications-simple-exodontia-sr|Complications post simple exodontia: A systematic review]] |
@@ -58,10 +60,14 @@ tags: [navigation, category-index, oral-surgery]
 | [[lewis-2014-facing-the-danger-zone-the|Facing the Danger Zone: The Use of Ultrasound to Distinguish Cellulitis from Abscess in Facial Infections]] |
 | [[long-2021-diagnosis-and-management-of-cellulitis|Diagnosis and Management of Cellulitis and Abscess in the Emergency Department Setting: An Evidence-Based Review]] |
 | [[mahmoudi-2023-gelatin-hemostatic-sponge-extraction-rct|Efficacy of a New Hemostatic Dental Sponge in Controlling Bleeding, Pain, and Dry Socket Following Mandibular Posterior Teeth Extraction—A Split-Mouth Randomized Double-Blind Clinical Trial]] |
+| [[marchionne-2019-acute-inflammatory-edema-a-mimicker|Acute inflammatory edema: A mimicker of cellulitis in critically ill patients]] |
 | [[mozzati-2013-prgf-diabetic-extraction-socket|Efficacy of plasma-rich growth factor in the healing of postextraction sockets in patients affected by insulin-dependent diabetes mellitus]] |
+| [[obaitan-2016-failure-of-antibiotics-in-cellulitis|Failure of antibiotics in cellulitis trials: a systematic review and meta-analysis]] |
+| [[ogle-2017-odontogenic-infections|Odontogenic Infections]] |
 | [[oliva-2024-oroantral-communication-fistula-treatment-sr-ma|The Treatment and Management of Oroantral Communications and Fistulas: A Systematic Review and Network Metanalysis]] |
 | [[overmiller-2024-reprogramming-epidermal-keratinocytes|Reprogramming of epidermal keratinocytes by PITX1 transforms the cutaneous cellular landscape and promotes wound healing]] |
 | [[pujarern-2026-minimally-invasive-extraction-socket|Minimally Invasive Tooth Extraction: Socket Healing Biology & Preservation Strategies]] |
+| [[rrapi-2021-cellulitis-a-review-of-pathogenesis|Cellulitis: A Review of Pathogenesis, Diagnosis, and Management]] |
 | [[ruggiero-2024-hyaluronic-acid-diabetic-socket-rct|Hyaluronic Acid Treatment of Post-Extraction Tooth Socket Healing in Subjects with Diabetes Mellitus Type 2: A Randomized Split-Mouth Controlled Study]] |
 | [[shandilya-2025-saline-irrigation-oral-cancer-surgery|Effectiveness of Normal Saline Irrigation in Reducing Wound Contamination during Oral Cancer Surgery: A Cytological Analysis]] |
 | [[sharma-2022-periotome-piezotome-endodontic-extraction|Minimally Traumatic Extraction Techniques in Nonrestorable Endodontically Treated Teeth: A Comparative Study]] |
