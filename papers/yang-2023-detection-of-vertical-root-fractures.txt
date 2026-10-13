@@ -1,0 +1,15 @@
+TITLE: Detection of vertical root fractures by cone-beam computed tomography based on deep learning
+AUTHORS: Yang Pan, Guo Xiaolong, Mu Chuangchuang, Qi Senrong, Li Gang
+JOURNAL: Dentomaxillofacial Radiology
+ID[pmcid]: PMC9944014
+ID[pmcid-ver]: PMC9944014.1
+ID[pmcaid]: 9944014
+ID[pmcaiid]: 9944014
+ID[pmid]: 36802858
+ID[doi]: 10.1259/dmfr.20220345
+
+## ABSTRACT
+Objectives:This study aims to evaluate the performance of ResNet models in the detection of in vitro and in vivo vertical root fractures (VRF) in Cone-beam Computed Tomography (CBCT) images.
+Methods:A CBCT image dataset consisting of 28 teeth (14 intact and 14 teeth with VRF, 1641 slices) from 14 patients, and another dataset containing 60 teeth (30 intact and 30 teeth with VRF, 3665 slices) from an in vitro model were used for the establishment of VRFconvolutional neural network (CNN) models. The most popular CNN architecture ResNet with different layers was fine-tuned for the detection of VRF. Sensitivity, specificity, accuracy, PPV (positive predictive value), NPV (negative predictive value), and AUC (the area under the receiver operating characteristic curve) of the VRF slices classified by the CNN in the test set were compared. Two oral and maxillofacial radiologists independently reviewed all the CBCT images of the test set, and intraclass correlation coefficients (ICCs) were calculated to assess the interobserver agreement for the oral maxillofacial radiologists.
+Results:The AUC of the models on the patient data were: 0.827(ResNet-18), 0.929(ResNet-50), and 0.882(ResNet-101). The AUC of the models on the mixed data get improved as:0.927(ResNet-18), 0.936(ResNet-50), and 0.893(ResNet-101). The maximum AUC were: 0.929 (0.908–0.950, 95% CI) and 0.936 (0.924–0.948, 95% CI) for the patient data and mixed data from ResNet-50, which is comparable to the AUC (0.937 and 0.950) for patient data and (0.915 and 0.935) for the mixed data obtained from the two oral and maxillofacial radiologists, respectively.
+Conclusions:Deep-learning models showed high accuracy in the detection of VRF using CBCT images. The data obtained from the in vitro VRF model increases the data scale, which is beneficial to the training of deep-learning models.
