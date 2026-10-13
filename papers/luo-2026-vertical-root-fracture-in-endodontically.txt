@@ -1,0 +1,15 @@
+TITLE: Vertical Root Fracture in Endodontically Treated Teeth: Risk Factors and Future Directions
+AUTHORS: Luo Xuhui, Zhang Wenxi, Han Nuo, Xue Bin, Lin Zitong
+JOURNAL: Australian Endodontic Journal
+ID[pmcid]: PMC13436163
+ID[pmcid-ver]: PMC13436163.1
+ID[pmcaid]: 13436163
+ID[pmcaiid]: 13436163
+ID[pmid]: 42178859
+ID[doi]: 10.1111/aej.70090
+ID[publisher-id]: AEJ70090
+ID[other]: 7732034
+
+## ABSTRACT
+ABSTRACT
+This article provides a narrative review of risk factors of vertical root fractures (VRFs) in endodontically treated teeth, focusing on treatment‐related factors and occlusal factors. Studies on treatment‐related risk factors include experimental studies on the formation of dentinal microcracks caused by different root canal preparation instruments, as well as experimental studies on the variations in dentine volume and fracture resistance resulting from different access cavity and root canal preparation instruments. Studies on occlusal risk factors encompass high‐risk occlusal forces, stress distribution alterations on root due to crown morphology changes and crown restoration. Currently, occlusal analysis techniques and force measurement methods remain limited, with far fewer studies available compared to those on treatment‐related risk factors. Finally, this narrative review offers a prospect on occlusal risk factors exploration based on flexible sensor technology.
