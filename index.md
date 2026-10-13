@@ -2031,6 +2031,7 @@ tags: []
 - [[endodontics/sarilaksmi-2026-intact-mta-sealer-gutta-percha-surface-modification]] — Sarilaksmi 2026 · in-vitro · Plasma+CPC surface treatment hydrophilizes gutta-percha (contact angle 113°→22°) to enable additive-free intact MTA as a sealer, sealing ability comparable to ZnO reference
 - [[endodontics/fahmy-2026-polydopamine-gutta-percha-bioceramic-sealer]] — Fahmy 2026 · in-vitro · Polydopamine-coated gutta-percha + bioceramic sealer lowers apical dye penetration (3.04 vs 4.30mm), eliminates SEM interfacial gaps by day 28, and improves wettability (28.8° vs 77.4°) vs uncoated gutta-percha
 - [[endodontics/obturation/lee-2026-ortho-mta-iii-vs-gp-infected-canals-rct]] — Lee 2026 · rct (IEJ, 120치, 감염근관+근단주위염, 30개월 추적) · Ortho MTA III vs GP+AH Plus 성공률 동등(완화기준 88.24% vs 83.02%; strict 64.71% vs 58.49%); 실패 예측인자: 고령·병소크기·PAI점수 — bioceramic 폐쇄재 장기 동등성 RCT
+- [[endodontics/obturation/li-2024-comparative-assessment-of-vertical-fracture]] — 충전 시스템·술식별 VRF 저항성 NMA(체외 48편, 치근 2,724개): SUCRA Resilon 80.8% > iRoot SP 55.5% > AH Plus 47.4% > ZOE 12.3%, 칼슘실리케이트 vs 레진 실러·술식 간 유의차 없음; 체외 한정
 
 ## 근관치료 — GP 콘 소독·교차오염 (Endodontics: GP Cone Decontamination / Cross-infection)
 - [[endodontics/aucinaite-2025-naocl-chx-gutta-percha-cone-decontamination-sr]] — NaOCl vs CHX for gutta-percha cone decontamination (SR, 7 in vitro studies)
@@ -2801,6 +2802,13 @@ tags: []
 - [[cracked-tooth/hsiao-2020-analysis-of-clinical-associated-factors]] — 대만 미세수술 359치 후향 코호트: VRF 18.7%, 50세 초과 보정 OR 3.20·대구치 4.31·소구치 2.61 유의, 성별·근관치료 이력·수복물·포스트는 무효
 - [[cracked-tooth/de-2025-exploring-diagnostic-reliability-of-cbct]] — VRF CBCT 진단정확도 체외 SR+MA(100편, 5808치): 완전 VRF 민감도 0.749 vs 불완전 0.522, 금속 포스트 시 민감도 0.560·특이도 0.719(빈 근관 0.763/0.841); 전 항목 GRADE 매우 낮음
 - [[cracked-tooth/habibzadeh-2023-diagnostic-efficacy-of-cone-beam]] — 근관치료치 VRF CBCT 진단 SR(20편, 대부분 체외): 포스트 없음 민감도 71.5%·특이도 75.6%, 생체 내 민감도 58.5%·발거치 특이도 46.8% — 임상·방사선 병용 진단 권고
+- [[cracked-tooth/scardini-2025-diagnosis-approaches-and-clinical-management]] — 브라질 온라인 설문(치과의사 517명): VRF 의심 시 좁고 깊은 치주낭 71.8%·J형/후광 투과상 59.3%, CBCT 의뢰 85.7%, CBCT 후 발치 59.6% vs 외과적 노출 17.2%; 근관치료 전문의가 검사 수 더 많음
+- [[cracked-tooth/baageel-2016-vertical-root-fracture-biological-effects]] — VRF 영상진단 SR(비풀링, 22편): 12편 CBCT 우수·5편 차이 없음·5편 비비교, AAE/AAOMR 2015에 따라 임상검사·방사선사진 후 신중 사용 (shokri-2024 SR+MA로 부분 대체)
+- [[cracked-tooth/groenke-2023-sensitivity-and-specificity-of-mri]] — 발거 치근 115개(VRF 62) 체외: MRI vs 콘빔CT 민감도 0.66 vs 0.58, 특이도 0.72 vs 0.87, AUC 0.74 vs 0.75 유의차 없음 (판독자 일치도 kappa 0.29-0.49 낮음)
+- [[cracked-tooth/sun-2024-a-novel-surgical-treatment-approach]] — 상악 소구치 완전 VRF 1례: 접착레진 + iRoot BP Plus 이중층 수복 후 의도적 재식립(구외 약 15분, 4주 고정), 24개월 무증상·탐침 약 3 mm(술전 8-10 mm)·골재생 (n=1, 증례보고)
+- [[cracked-tooth/yang-2025-role-of-periodontal-endoscopy-in]] — CBCT 음성 VRF 의심치 112치아에 치주내시경 적용(prospective): VRF 70개 중 59개 검출(민감도 84.3%, 특이도·PPV 100%, NPV 79.3%, AUC 0.92), 계획된 판막수술 64.3%·근관 (재)치료 42.2% 회피; 단일기관·편의표본
+- [[cracked-tooth/leal-2026-photon-counting-ct-for-diagnosing]] — 광자계수 CT(PCCT) vs CBCT 4종, 금속 포스트 치아 VRF 체외 진단(치아 18개, 270회 촬영): Ni-Cr 포스트 민감도 PCCT 0.65 vs Accuitomo 0.22·Veraview 0.10, AUC 0.48-0.76 (중등도)
+- [[cracked-tooth/mizuhashi-2022-diagnosis-of-vertical-root-fractures]] — 근관치료치 VRF 36건(발거 확인) 후향: 소구치·협설 파절 우세(소구치 76.2%), CBCT 검출 협설 91.7%·근원심 100% vs 구내 방사선사진 25%·0%, 금속 아티팩트로 협설 2건 누락
 ## 치과 역사 (Dental History)
 - [[dental-history/jkda-2025-63-8-006]] — Historical article (Goodface Mi 치과 변웅래, JKDA 2025): 함석태(1889-?) — 첫 한국인 정규 치과대학 졸업자·등록 치과의사·한성치과의사회 창립(일본 단체 대항). 일제강점기 한국 치과 자주성 anchor
 - [[dental-history/choi-2026-opening-future-innovation-convergence-oral-health]] — Choi 2026 · narrative-review · 대한예방치과·구강보건학회장 사설로 학술지 비전과 3대 학술 방향(예방연구 확장, 인재 양성, 융합·글로벌 네트워크)을 제시 (DOI 10.11149/jkaoh.2026.50.2.55)
@@ -3527,6 +3535,8 @@ tags: []
 - [[resin-bonding/loguercio-2015-isolation-method-operative-field-gingival]] — Loguercio 2015 · rct (split-mouth, examiner-blind, 30명/60수복물, Oper Dent) · NCCL 접착수복 러버댐 vs 코튼롤/견인사: 18개월 유지율 73% vs 73%(NS), 치은손상·환자선호·시술시간 모두 유의차 없음 — 손상은 1주 내 가역적 (DOI 10.2341/14-089-C)
 - [[resin-bonding/dhawan-2026-bonding-total-self-etch-fiberpost]] — in vitro(n=60 하악 소구치): 글래스 파이버 포스트 접착 시 self-etch 131 N > total-etch 115 N > self-adhesive 75 N (push-out, p=0.001); SE 계열 권장 (DOI 10.4103/JCDE.JCDE_249_26)
 - [[resin-bonding/elhaddad-2026-cervical-margin-relocation-periodontal-restorative]] — ElHaddad 2026 · sr+ma (Quintessence Int, abstract-only): 치경부 변연 재위치(CMR/DME) 첫 SR+MA — 치주 건강 해치지 않음(PD −0.96mm, BOP −0.52), 변연 적합도는 접착 전략·재료에 좌우(접착성 글라스세라믹 최적) (DOI 10.3290/j.qi.b6881272)
+- [[resin-bonding/shimizu-2021-evaluation-of-restorative-techniques-for]] — 소 치아 VRF 접착수복 in vitro(군당 n=16): 10-3 용액+UB+EC 군 μTBS 46.43 MPa vs Super-Bond 대조 39.36 MPa (p=0.0092), 인산 전처리만 미세누출 증가; 저작 1개월 모사라 임상 근거 아님
+- [[resin-bonding/li-2025-laboratory-study-on-reattachment-of]] — VRF 재접착 4-META/MMA-TBB 레진 in vitro(소 치근): 세포독성 iRoot BP Plus와 유사, 파절저항 220.9 N(건전 79.3%) vs GIC 53.2 N, 염료침투 0.63 mm vs 1.44·2.08 mm; 벤치 근거만
 
 ### Resin / inlay — direct & indirect restorations
 - [[resin/wolff-2024-direct-composite-restorations-permanent-teeth]] — Wolff 2024 · consensus · German S3/GRADE guideline: direct composite recommended for Class I–V, cusp replacement, preferred over indirect inlays posteriorly
@@ -4468,6 +4478,8 @@ tags: []
 - [[artificial-intelligence/mathur-2026-artificial-intelligence-dental-implant]] — AI 임플란트 식별·계획·성공예측 우산리뷰(SR 10편/261건 중 선정): CNN 정확도 >90%, 골유착예측 5/10편만 보고, 딥러닝>전통ML [sr, abstract-only]
 - [[artificial-intelligence/cao-2026-deep-learning-rfa-isq]] — 딥러닝 2단계 프레임워크(잡음제거 CNN + 메타데이터 인식 예측망)로 RFA 신호 처리 및 ISQ 예측; MAE 1.85·R² 0.91·±3 ISQ 허용정확도 92% (n=100 임플란트, 개념증명)
 - [[artificial-intelligence/alshahrani-2026-use-of-artificial-intelligence-in]] — VRF AI 진단 SR(10편, 메타분석 불가): CBCT 기반 정확도 91.4–97.8%·특이도 90.7–100%(GRADE 중간), 파노라마 최저; 근거 대부분 ex vivo·외부검증 없음, 확진은 CBCT
+- [[artificial-intelligence/yang-2023-detection-of-vertical-root-fractures]] — CBCT VRF 딥러닝 검출(초록만): 환자 14명 28치+in vitro 60치, ResNet-50 AUC 0.929(환자)·0.936(혼합), 방사선과 전문의 2명(0.915–0.950)과 비슷
+- [[artificial-intelligence/hu-2022-diagnosis-of-in-vivo-vertical]] — 근관치료 안 된 276치(VRF 138 vs 대조 138) CBCT로 CNN 3종 학습: ResNet50 수동 ROI 정확도 97.8%·민감도 97.0%·특이도 98.5%·AUC 0.99, 자동 치아선택 91.4%·AUC 0.96 (후향, 판독자 라벨 기준)
 
 ### drug/mronj
 - [[drug/mronj/dahiya-2024-antiresorptive-drugs-osteonecrosis-dental-implants]] — Umbrella review(SR 10편, 2014-2024, PROSPERO): 실패 임플란트 524개 중 MRONJ 2-17%; IV 비스포스포네이트 ≥45-60개월 최고위험; AMSTAR2 high 0% [sr+ma]
