@@ -1,0 +1,10 @@
+TITLE: Controversies in the Management of Oral and Maxillofacial Infections
+AUTHORS: Taub Daniel, Yampolsky Andrew, Diecidue Robert, Gold Lionel
+JOURNAL: Oral and maxillofacial surgery clinics of North America 29(4):465-473 (2017-08-18)
+ID[pmid]: 28823889
+ID[doi]: 10.1016/j.coms.2017.06.004
+FULL_TEXT: false (abstract only; no PMC record)
+KEYWORDS: Abscess; Antibiotics; Biofilm; Cellulitis; Deep neck space infection; Head and neck infection; Imaging; Infection
+
+## ABSTRACT
+The management and treatment of odontogenic infection, and its frequent extension into the head and neck, remains an important section of oral and maxillofacial surgical practice. This area of maxillofacial expertise is widely recognized by the medical community and an essential component to the hospital referral system. Although the general principles of infection management have not changed, there have been modifications in the timing of treatment sequences and treatment techniques. These modifications are influenced by the development of diagnostic methods and advances in bacterial genetics and antibiotic usage. This article reviews treatment considerations and controversies surrounding this subject.
