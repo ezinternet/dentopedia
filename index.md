@@ -1902,6 +1902,9 @@ tags: []
 - [[oral-surgery/third-molar/pires-2017-late-mandibular-fracture-third-molar-sr]] — SR (Int J OMS 2017;46:46-53, 124증례): 발치 후 지연성 하악 골절 피크 1–3주; 하악각 부위; 수평매복·Pell-Gregory III/C·얇은 설측판이 주요 위험인자
 - [[oral-surgery/van-der-merwe-2023-aminoglycosides-ludwigs-angina-63-cases]] — 후향적(n=63, 남아공): 루드비히 앙기나 균배양 = 연쇄구균 우세(아미노글리코사이드 내성); 경험적 아미노글리코사이드 사용 미생물학적 근거 부족; β-lactam 기반 요법 권장
 - [[oral-surgery/gargava-2022-deep-neck-space-infection-150-cases]] — 전향적(n=150, 인도): 심경부 감염 치성 42.66%, 루드비히 앙기나 24.66%, 연쇄구균 31.33%; 절개배농 38%, 응급기관절개술 일부
+- [[oral-surgery/frid-2025-diagnostic-accuracy-and-clinical-impact]] — 전향 코호트(n=90 분석, 소아 치성감염, 이스라엘): 휴대용 POCUS 농양 vs 봉와직염 감별 민감도 73.0%·특이도 73.6%·NPV 79.6%; 도입 후 입원 60→19.5건/년(연관성), 검증편향 가능
+- [[oral-surgery/ghali-2021-fascial-space-odontogenic-infections-ultrasonography]] — 전향(n=20, 근막공간 50개, 인도): 초음파 42/50(84%) vs MRI 50/50; 표재 공간은 일치, 심부 공간은 초음파 전부 놓침; 초음파 병기(부종→봉와직염→농양 전→농양)
+- [[oral-surgery/lewis-2014-facing-the-danger-zone-the]] — 증례보고(n=1, 응급실): 조영 CT는 격막전 봉와직염만, 침상 초음파가 안구 인접 소농양 발견; 위험 삼각부 농양 배제의 중요성(치성 기원 미명시)
 - [[oral-surgery/al-maawi-2021-prf-extraction-socket-healing-sr]] — SR (20 RCTs): PRF reduces pain (66.6%), improves soft tissue healing at 1 wk (75%), reduces bone loss at 8–15 wk but NOT at 6 mo, improves socket fill (85%); benefit limited to early 2–3 months
 - [[oral-surgery/yang-2022-wound-healing-diabetes-tooth-extraction]] — Narrative review (Front Endocrinol 2022): 당뇨 발치와 지연 치유의 기전(AGE·MMP·M1/M2·BMP-4·neuropeptide·miRNA) + 임상 중재표(PRGF/L-PRF/A-PRF/HA/LLLT); 잘 조절된 DM은 비DM과 치유 차이 없음
 - [[oral-surgery/ruggiero-2024-hyaluronic-acid-diabetic-socket-rct]] — Split-mouth RCT (T2DM 36명): HA겔이 D7/D14 치유지수·폐쇄 유의 개선; **D21에 두 군 모두 완전 상피 폐쇄**; 합병증·항생제 불필요 → 21일이 T2DM 발치와 상피 폐쇄 외부 경계값
