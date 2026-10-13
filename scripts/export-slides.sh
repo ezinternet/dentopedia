@@ -40,7 +40,8 @@ print(json.dumps({
   duration=$(python3 -c "import json,sys; print(json.loads(sys.argv[1])['duration'])" "$meta")
   agenda=$(python3 -c "import json,sys; print(json.loads(sys.argv[1])['agenda'] or '-')" "$meta")
 
-  npx --yes @marp-team/marp-cli "$f" -o "${out}.tmp" --html --theme-set scripts/marp-theme.css
+  # stdin 닫기: 비대화형 실행에서 Marp CLI가 stdin 대기로 간헐적으로 멈춘다 (2026-10-13 실측, < /dev/null로 해소)
+  npx --yes @marp-team/marp-cli "$f" -o "${out}.tmp" --html --theme-set scripts/marp-theme.css < /dev/null
   {
     printf '<!--\n---\ntitle: "%s"\ntype: lecture\ndate: %s\nstatus: %s\naudience: "%s"\nduration: "%s"\nagenda: %s\nnote: "Marp deck export — source: %s. Regenerate: bash scripts/export-slides.sh"\n---\n-->\n' \
       "$title" "$date" "$status" "$audience" "$duration" "$agenda" "$f"
