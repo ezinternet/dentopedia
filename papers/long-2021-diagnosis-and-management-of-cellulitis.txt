@@ -1,0 +1,15 @@
+TITLE: Diagnosis and Management of Cellulitis and Abscess in the Emergency Department Setting: An Evidence-Based Review
+AUTHORS: Long Brit, Gottlieb Michael
+JOURNAL: The Journal of emergency medicine 62(1):16-27 (2021-10-14)
+ID[pmid]: 34657784
+ID[doi]: 10.1016/j.jemermed.2021.09.015
+FULL_TEXT: false (abstract only; no PMC record)
+
+## ABSTRACT
+Cellulitis and abscess are a common reason for presentation to the emergency department, although there are several nuances to the care of these patients.
+
+The purpose of this narrative review article was to provide a summary of the background, pathophysiology, diagnosis, and management of cellulitis and abscesses with a focus on emergency clinicians.
+
+The most common bacteria causing cellulitis are Staphylococcus aureus, Streptococcus pyogenes, and other β-hemolytic streptococci, and methicillin-resistant S. aureus is most common in abscesses. The history and physical examination are helpful in differentiating cellulitis and abscess in many cases, and point-of-care ultrasound can be a useful tool in unclear cases. Treatment for cellulitis typically involves a penicillin or cephalosporin, and treatment of abscesses is incision and drainage. Loop drainage is preferred over the traditional incision and drainage technique, and adjunctive antibiotics can be considered. Most patients can be managed as outpatient.
+
+It is essential for emergency physicians to be aware of the current evidence regarding the diagnosis and management of patients with cellulitis and abscess.
