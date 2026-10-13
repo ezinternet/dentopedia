@@ -2,7 +2,7 @@
 title: "구강외과 — oral-surgery"
 authors: navigation
 year: 2026
-date: 2026-10-11
+date: 2026-10-13
 doi: N/A
 source: navigation
 category: oral-surgery
@@ -16,21 +16,21 @@ tags: [navigation, category-index, oral-surgery]
 > - **분야**: 구강외과
 > - **범위**: Extractions, surgical complications not covered by a subcategory (oroantral fistula, hemostasis, deep neck infection, free flap).
 > - **하위 카테고리**: [[nerve-injury]] · [[third-molar]] · [[trauma]]
-> - **수록 논문**: 34편
+> - **수록 논문**: 37편
 
 ## Three-line Summary
 
 **Scope**: Extractions, surgical complications not covered by a subcategory (oroantral fistula, hemostasis, deep neck infection, free flap).
-**Indexed papers**: 34 papers in `wiki/oral-surgery/`.
+**Indexed papers**: 37 papers in `wiki/oral-surgery/`.
 **Sub-categories**: [[nerve-injury]], [[third-molar]], [[trauma]]
 
 ## 세줄요약
 
 **분야**: 구강외과
-**수록 논문**: 34편
+**수록 논문**: 37편
 **하위 카테고리**: nerve-injury, third-molar, trauma
 
-## Papers in this Category (34)
+## Papers in this Category (37)
 
 | Paper |
 |---|
@@ -44,7 +44,9 @@ tags: [navigation, category-index, oral-surgery]
 | [[dinkova-2025-local-hemostasis-oral-surgery-review|Biomaterial-Based and Surgical Approaches to Local Hemostasis in Contemporary Oral Surgery: A Narrative Review]] |
 | [[fernandes-2015-immunologic-glycemic-postextraction-t2dm|Association between immunologic parameters, glycemic control, and postextraction complications in patients with type 2 diabetes]] |
 | [[ferrer-valdivia-2022-complications-simple-exodontia-sr|Complications post simple exodontia: A systematic review]] |
+| [[frid-2025-diagnostic-accuracy-and-clinical-impact|Diagnostic Accuracy and Clinical Impact of Handheld Point-of-Care Ultrasound in Pediatric Odontogenic Infections: A Prospective Cohort Study]] |
 | [[gargava-2022-deep-neck-space-infection-150-cases|Deep Neck Space Infection: A Study of 150 Cases at Tertiary Care Hospital]] |
+| [[ghali-2021-fascial-space-odontogenic-infections-ultrasonography|Fascial space odontogenic infections: Ultrasonography as an alternative to magnetic resonance imaging]] |
 | [[hammerle-2014-biology-soft-tissue-wound-healing|Biology of soft tissue wound healing and regeneration -- consensus report of Group 1 of the 10th European Workshop on Periodontology]] |
 | [[heng-2007-smoking-postextraction-complications-female-inmates|The Relationship of Cigarette Smoking to Postoperative Complications from Dental Extractions Among Female Inmates]] |
 | [[kim-2019-bone-collector-drill-assembly|Bone Collector Drill Assembly (본콜렉터용 드릴조립체)]] |
@@ -52,6 +54,7 @@ tags: [navigation, category-index, oral-surgery]
 | [[kwon-2020-closure-oroantral-fistula-local|Closure of oroantral fistula: a review of local flap techniques]] |
 | [[latimer-2026-biological-principles-alveolar-bone-soft-tissue|Biological Principles for Success in Alveolar Bone, Soft Tissue, and Periodontal Regeneration]] |
 | [[lazow-1999-oroantral-fistula-flap-procedures|Surgical Management of the Oroantral Fistula: Flap Procedures]] |
+| [[lewis-2014-facing-the-danger-zone-the|Facing the Danger Zone: The Use of Ultrasound to Distinguish Cellulitis from Abscess in Facial Infections]] |
 | [[mahmoudi-2023-gelatin-hemostatic-sponge-extraction-rct|Efficacy of a New Hemostatic Dental Sponge in Controlling Bleeding, Pain, and Dry Socket Following Mandibular Posterior Teeth Extraction—A Split-Mouth Randomized Double-Blind Clinical Trial]] |
 | [[mozzati-2013-prgf-diabetic-extraction-socket|Efficacy of plasma-rich growth factor in the healing of postextraction sockets in patients affected by insulin-dependent diabetes mellitus]] |
 | [[oliva-2024-oroantral-communication-fistula-treatment-sr-ma|The Treatment and Management of Oroantral Communications and Fistulas: A Systematic Review and Network Metanalysis]] |
