@@ -2,7 +2,7 @@
 title: "종합 — overviews"
 authors: navigation
 year: 2026
-date: 2026-10-09
+date: 2026-10-13
 doi: N/A
 source: navigation
 category: overviews
@@ -15,20 +15,20 @@ tags: [navigation, category-index, overviews]
 > [!summary] 한국어 핵심요약
 > - **분야**: 종합
 > - **범위**: Synthesis pages spanning multiple categories
-> - **수록 논문**: 348편
+> - **수록 논문**: 350편
 
 ## Three-line Summary
 
 **Scope**: Synthesis pages spanning multiple categories
-**Indexed papers**: 348 papers in `wiki/overviews/`.
+**Indexed papers**: 350 papers in `wiki/overviews/`.
 
 ## 세줄요약
 
 **분야**: 종합
-**수록 논문**: 348편
+**수록 논문**: 350편
 **하위 카테고리**: 없음
 
-## Papers in this Category (348)
+## Papers in this Category (350)
 
 | Paper |
 |---|
@@ -60,6 +60,7 @@ tags: [navigation, category-index, overviews]
 | [[caries-biomimetic-remineralization-orthodontic-pediatric-crown-overview|교정 처치 주변 재광화 및 소아 전치부 크라운 선택 — 바이오마임틱 HA·교정장치 부위·지르코니아 크라운 종합]] |
 | [[caries-detection-remineralization-overview|우식 탐지·백색반점·재광화·근관거리(root caries) 종합]] |
 | [[cbct-diagnostic-performance-overview|CBCT 진단 성능 및 임상 적용 지침 종합]] |
+| [[cellulitis-vs-abscess-odontogenic-overview|봉와직염(Cellulitis) vs 농양(Abscess) — 치성감염에서의 감별·처치 분기·병리 근거 종합]] |
 | [[ceramic-bonding-hf-silane-contamination-overview|세라믹 접착 — HF 처리·실란 선택·오염 제거·대안 시멘트 종합]] |
 | [[ceraseal-bioceramic-sealer-clinical-material-synthesis|Overview: Ceraseal (Premixed Calcium-Silicate Bioceramic Sealer) — Clinical Outcomes × Material/Biocompatibility Synthesis]] |
 | [[cervical-composite-isolation-strategy-overview|치경부 레진 격리 전략: dry field가 목적, 코드는 수단 — 격리·마진위치·열구액 종합]] |
@@ -235,6 +236,7 @@ tags: [navigation, category-index, overviews]
 | [[occlusal-splint-tmd-value-adjunct-prediction-overview|교합 안정장치(스플린트)의 TMD 내 실제 위치 — 부가가치·병용·반응예측 종합]] |
 | [[occlusal-trauma-periodontitis-overview|Overview: Occlusal Trauma & Periodontitis]] |
 | [[occlusal-veneer-tooth-wear-erosion-overview|교합면 비니어(Table-top) — 마모·침식 수복: 재료·두께·접착·수리 종합]] |
+| [[odontogenic-maxillary-sinus-lavage-overview|Overview: Maxillary Sinus Lavage / Irrigation — Routes, Step-Level Protocols, Indications and Evidence Limits]] |
 | [[odontogenic-maxillary-sinusitis-overview|Overview: Odontogenic Maxillary Sinusitis (OMS) — Diagnosis → Source Control → FESS Sequencing → OAF Closure]] |
 | [[open-healing-arp-technique-variables-overview|Open-Healing 치조제 보존술(ARP) — 술기 변수(판막·봉합·막·압축력) vs 큰 그림 종합]] |
 | [[opmd-malignant-transformation-risk-stratification-overview|구강잠재악성질환 (OPMD) 악성전환 위험 층화 — 병소 유형별 종합]] |
