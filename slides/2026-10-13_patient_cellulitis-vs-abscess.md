@@ -1,5 +1,5 @@
 ---
-title: "봉와직염이란? — 고름이 고인 것과 무엇이 다른가요"
+title: "봉와직염 (Cellulitis)이란? — 고름이 고인 것(농양, Abscess)과 무엇이 다른가요"
 type: slides
 date: 2026-10-13
 status: draft
@@ -19,9 +19,9 @@ lang: ko
 
 <!-- _class: lead -->
 
-# 봉와직염이란?
+# 봉와직염 (Cellulitis)이란?
 
-## 고름이 고인 것(농양)과 무엇이 다른가요
+## 고름이 고인 것(농양, Abscess)과 무엇이 다른가요
 
 환자분 설명용
 
