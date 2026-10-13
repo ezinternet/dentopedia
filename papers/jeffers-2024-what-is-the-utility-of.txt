@@ -1,0 +1,15 @@
+TITLE: What is the Utility of Point-of-Care Ultrasound for Diagnosis of Soft Tissue Abscess vs. Cellulitis?
+AUTHORS: Jeffers Kristine, Keim Samuel M, Long Brit, Gottlieb Michael, Adhikari Srikar R
+JOURNAL: The Journal of emergency medicine 72:121-128 (2024-11-26)
+ID[pmid]: 40274497
+ID[doi]: 10.1016/j.jemermed.2024.11.012
+FULL_TEXT: false (abstract only; no PMC record)
+
+## ABSTRACT
+Skin and soft tissue infections (SSTIs) including cellulitis and abscess are common conditions managed in the emergency department, but differentiating these on history and physical examination alone can be challenging. Point-of-care ultrasound (POCUS) has been proposed as a tool to distinguish abscess from cellulitis.
+
+What is the utility of POCUS for diagnosing soft tissue abscess vs. cellulitis?
+
+Studies retrieved included four systematic reviews and meta-analyses evaluating the use of POCUS for diagnosing abscess. These studies provide estimates of the potential utility of POCUS in differentiating abscess and cellulitis.
+
+Based upon the available literature, POCUS can reliably differentiate abscess and cellulitis and assist with management of SSTIs.
