@@ -14,7 +14,7 @@ text_filename: fernandezpazos-2018-protaper-next-fracture-deformation.txt
 ---
 
 ## Why Ingested
-Prospective clinical study (12 months, 571 ProTaper Next files) quantifying fracture/deformation rates by file size in specialist endodontic practice. Directly extends [[endodontics/shaping/plotino-2019-protaper-next-cyclic-fatigue]] and [[endodontics/shaping/bui-2018-protaper-next-cyclic-fatigue]] (in-vitro cyclic fatigue) with real-world clinical data, and informs single-use recommendations for smaller files (X1 17.04).
+Prospective clinical study (12 months, 571 ProTaper Next files) quantifying fracture/deformation rates by file size in specialist endodontic practice. Directly extends [[endodontics/shaping/ozyurek-2017-protaper-cyclic-fatigue-sterilization]] (in-vitro ProTaper Next cyclic fatigue) and parallels the ProTaper Universal clinical fracture incidence in [[endodontics/shaping/machado-2018-incidence-protaper-universal-system]] with real-world clinical data, and informs single-use recommendations for smaller files (X1 17.04).
 
 ## Three-line Summary
 Prospective 12-month cohort study in a university endodontics clinic; 571 ProTaper Next (M-Wire) files discarded after clinical use by 6 specialist endodontists using X-Smart motors (300 rpm, 4-5.2 Ncm).
@@ -75,8 +75,8 @@ Smaller ProTaper Next files (especially X1 17.04) show high clinical fracture/de
 - Exact number of uses per file not tracked (only maximum recommended limits)
 
 ## 6. Related Work
-- **Plotino et al. 2019** ([[endodontics/shaping/plotino-2019-protaper-next-cyclic-fatigue]]): In-vitro cyclic fatigue comparison; ProTaper Next superior to WaveOne Gold and ProTaper Universal
-- **Bui et al. 2018** ([[endodontics/shaping/bui-2018-protaper-next-cyclic-fatigue]]): In-vitro cyclic fatigue resistance of ProTaper Next vs other systems
+- **Plotino et al. 2019** (plotino-2019-protaper-next-cyclic-fatigue): In-vitro cyclic fatigue comparison; ProTaper Next superior to WaveOne Gold and ProTaper Universal
+- **Bui et al. 2018** (bui-2018-protaper-next-cyclic-fatigue): In-vitro cyclic fatigue resistance of ProTaper Next vs other systems
 - **Al-Hadlaq et al. 2010**: M-Wire alloy has better cyclic fatigue resistance than conventional NiTi
 - **Shen et al. 2009**: Small files should be single-use
 - **Inan et al.**: Mtwo study showing smaller instruments more prone to distortion/separation
