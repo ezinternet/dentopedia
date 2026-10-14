@@ -23,7 +23,7 @@ notes: "PMC full text available via PMC7907402; PROSPERO CRD42020144836"
 
 ## Why Ingested
 
-This systematic review aggregates 42 clinical studies (1247 patients, 2919 zygomatic implants) on full-arch rehabilitation of atrophic maxillae — a key all-on-x alternative for severely resorbed jaws. Provides comprehensive survival data by surgical technique (intrasinusal, extrasinusal, sinus slot). Complements existing wiki pages on zygomatic implants such as [[implants/full-arch/malo-2008-extramaxillary-zygomatic-implants]] and [[implants/full-arch/aparicio-2014-zygomatic-implants-indications-techniques]].
+This systematic review aggregates 42 clinical studies (1247 patients, 2919 zygomatic implants) on full-arch rehabilitation of atrophic maxillae — a key all-on-x alternative for severely resorbed jaws. Provides comprehensive survival data by surgical technique (intrasinusal, extrasinusal, sinus slot). Complements existing wiki pages on zygomatic implants such as [[implants/full-arch/grandi-2025-zygomatic-hybrid-full-arch-1yr]] and [[implants/full-arch/menchini-fabris-2025-zygomatic-full-arch-3yr]].
 
 ## Abstract
 
