@@ -23,7 +23,7 @@ notes: "PMC full text available via PMC4048120"
 
 ## Why Ingested
 
-This RCT directly compares immediate vs delayed implant placement for full-arch rehabilitation in edentulous mandibles — a core all-on-x clinical question. It provides 1-year randomized data on marginal bone loss and peri-implant health parameters. Complements existing wiki pages on immediate loading protocols such as [[implants/full-arch/malo-2007-all-on-four-immediate-function]] and [[implants/full-arch/chen-2019-systematic-review-immediate-loading]].
+This RCT directly compares immediate vs delayed implant placement for full-arch rehabilitation in edentulous mandibles — a core all-on-x clinical question. It provides 1-year randomized data on marginal bone loss and peri-implant health parameters. Complements existing wiki pages on immediate loading protocols such as [[immediate-implant/heimes-2025-immediate-implant-full-arch-rehabilitation]] and [[implants/full-arch/la-monaca-2022-immediate-flapless-full-arch-rehabilitation]].
 
 ## Abstract
 
