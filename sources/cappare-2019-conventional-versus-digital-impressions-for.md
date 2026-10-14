@@ -23,7 +23,7 @@ notes: "PMC full text available via PMC6427545"
 
 ## Why Ingested
 
-This RCT compares conventional vs digital impression workflows for full-arch maxillary rehabilitations — a core all-on-x digital dentistry question. It provides 2-year randomized data on marginal bone loss, procedural time, and prosthetic accuracy. Complements existing wiki pages on full-arch workflows such as [[implants/full-arch/gh erlone-2016-conventional-versus-digital-all-on-four]] and [[implants/full-arch/papaspyridakos-2017-digital-workflow-fixed-implant-rehab]].
+This RCT compares conventional vs digital impression workflows for full-arch maxillary rehabilitations — a core all-on-x digital dentistry question. It provides 2-year randomized data on marginal bone loss, procedural time, and prosthetic accuracy. Complements existing wiki pages on full-arch workflows such as [[implants/full-arch/kernen-gintaute-2026-digital-workflow-for-implant-supported]] and the digital-impression accuracy review [[prosthetic-materials/mikulas-2025-digital-impression-accuracy-peri-implant-emergence-profile-sr]].
 
 ## Abstract
 
