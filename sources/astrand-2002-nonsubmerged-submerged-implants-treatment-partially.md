@@ -10,7 +10,7 @@ source_collection: external
 ---
 
 ## Why Ingested
-Classic split-mouth RCT directly comparing one-stage (ITI nonsubmerged) vs two-stage (Brånemark submerged) implant protocols in the partially edentulous maxilla — a frequent clinical decision point. Extends [[implants/survival/astrand-2000-nonsubmerged-implants-edentulous-upper-jaw]] (edentulous maxilla ITI-only 1-year data) and provides a head-to-head survival/MBL comparison missing from prior single-system cohorts.
+Classic split-mouth RCT directly comparing one-stage (ITI nonsubmerged) vs two-stage (Brånemark submerged) implant protocols in the partially edentulous maxilla — a frequent clinical decision point. Extends astrand-2000-nonsubmerged-implants-edentulous-upper-jaw (edentulous maxilla ITI-only 1-year data) and provides a head-to-head survival/MBL comparison missing from prior single-system cohorts. Synthesized in [[overviews/implant-placement-protocol-submerged-one-stage-one-piece-overview]]; compare the osseointegration-phase bone-loss data in [[implants/mbl/verma-2024-comparison-bone-loss-submerged-nonsubmerged]].
 
 ## Three-line Summary
 Split-mouth RCT (28 patients, 56 implant sites) comparing ITI nonsubmerged (one-stage) vs Brånemark submerged (two-stage) implants supporting fixed partial bridges in the partially edentulous maxilla, with 1-year loading follow-up.
@@ -58,7 +58,7 @@ ITI 임플란트 18%에서 분화구형 골파괴(주위염 의심) 관찰되었
 - Single-center, single-surgeon context limits generalizability
 
 ## 6. Related Work
-- Åstrand et al. 2000: Nonsubmerged implants in edentulous maxilla (ITI only, 1-yr) — [[implants/survival/astrand-2000-nonsubmerged-implants-edentulous-upper-jaw]]
+- Åstrand et al. 2000: Nonsubmerged implants in edentulous maxilla (ITI only, 1-yr) — astrand-2000-nonsubmerged-implants-edentulous-upper-jaw
 - Buser et al. 1997: Long-term ITI nonsubmerged survival (8-yr, 2359 implants) — foundational ITI survival data
 - Lekholm et al. 1999: Brånemark survival in partially edentulous jaws (multicenter) — comparator cohort
 - Moberg et al. 2001: Brånemark vs ITI in edentulous mandible (3-yr RCT) — similar comparative design
