@@ -19,6 +19,7 @@ source_wiki:
   - wiki/halitosis/yoo-2017-effect-probiotics-on-halitosis.md
   - wiki/halitosis/wang-2022-clinical-efficacy-photodynamic-therapy.md
   - wiki/halitosis/mortazavi-2020-drug-related-halitosis-systematic.md
+  - wiki/halitosis/kumbargere-2019-interventions-managing-halitosis.md
 tags: [halitosis, VSC, organoleptic, probiotics, PDT, periodontitis, OHRQoL, H-pylori, drug-induced, epidemiology]
 ---
 
@@ -32,11 +33,12 @@ tags: [halitosis, VSC, organoleptic, probiotics, PDT, periodontitis, OHRQoL, H-p
 > - **광역동요법(Photodynamic Therapy, PDT)**: 즉시 H₂S 감소(MD −34.49; Wang 2022)에 유의하나 7일 이후 혀클리너 대비 차이 소실. 재집락화로 인한 지속 효과 없음 → 술전·단기 처치에 적합.
 > - **삶의 질(OHRQoL)**: 성인에서 구취가 있으면 구강건강관련삶의질(OHRQoL) 유의하게 저하(SMD 0.51; Cassiano 2021). 청소년에서는 유의한 연관 없음. 청소년·젊은 성인에서도 불안·우울·사회적 고립과 일관된 연관(Briceag 2023).
 > - **화학감각(Chemosensory) 문제**: 후각 둔화 환자는 자신의 구취를 스스로 인지하지 못해 자가보고 기반 유병률이 과소 또는 과대 추정될 수 있음(Schertel Cassiano 2023).
+> - **관리 근거의 천장 (Cochrane, Kumbargere 2019)**: 구강 원인 구취 개입 RCT 44편(1,809명)을 GRADE로 보면 **모든 비교가 낮음~매우 낮음 확실성**이고 어느 개입도 우월성이 입증되지 않았다 — 혀 세정 vs 무세정 OLT 차이 −0.20(2편, 46명), CHX+아연 가글 −0.20, 세틸피리디늄 가글 추가 −0.48, 0.3% 트리클로산 치약 −3.48(1편, 81명). 대부분 1–4주 단기·고위험 비뚤림. 혀 세정을 1차로 두는 것은 기전적 논리와 관행이지 비교 우위가 입증돼서가 아니다.
 > - **임상 핵심**: 구취 평가 시 ① 설태 제거 + 구강위생 지도, ② 치주 검사, ③ 약물력·전신질환 확인, ④ 지속 시 H. pylori 검사 고려, ⑤ 심리적 부담(할리토포비아 포함) 스크리닝 순으로 접근한다.
 
 ## Three-line Summary
 
-Synthesis of 14 halitosis papers: halitosis affects ~31.8% of adults globally (Silva 2017, n=13 population-based studies); 80–90% is intra-oral (coated tongue, periodontal disease — OR 4.05–4.52 for periodontitis; Wang 2024, Silva 2017), and H. pylori infection raises halitosis risk 2.85× with eradication reducing it 83% (RR 0.17; Dou 2016); halitometer instruments correlate only moderately with the gold-standard organoleptic test (r=0.65–0.76; Szalai 2023) and cannot replace it.
+Synthesis of 15 halitosis papers: halitosis affects ~31.8% of adults globally (Silva 2017, n=13 population-based studies); 80–90% is intra-oral (coated tongue, periodontal disease — OR 4.05–4.52 for periodontitis; Wang 2024, Silva 2017), and H. pylori infection raises halitosis risk 2.85× with eradication reducing it 83% (RR 0.17; Dou 2016); halitometer instruments correlate only moderately with the gold-standard organoleptic test (r=0.65–0.76; Szalai 2023) and cannot replace it.
 
 Probiotics produce short-term VSC and organoleptic score reductions (SMD −0.58/−0.26; Huang 2022) but the benefit disappears beyond 4 weeks, and a 4-RCT meta-analysis found the overall effect nonsignificant (p=0.53; López-Valverde 2022); photodynamic therapy (PDT) significantly reduces H₂S immediately (MD −34.49; Wang 2022) but no lasting benefit over tongue scraper after 7 days — neither replaces mechanical oral hygiene as sustained first-line management.
 
@@ -44,7 +46,7 @@ Halitosis significantly impairs adult OHRQoL (SMD 0.51; Cassiano 2021) and is co
 
 ## 세줄요약
 
-14편 종합: 구취(Halitosis)는 전 세계 성인 약 31.8%에서 발생하고(Silva 2017, 인구기반 13연구), 80–90%는 구강내(설태·치주염 — OR 4.05–4.52; Wang 2024·Silva 2017), H. pylori 감염 시 위험 2.85배 증가·제균 후 83% 감소(RR 0.17; Dou 2016); 할리미터(halitometer)는 표준 관능검사(Organoleptic Test, OLT)와 중등도 상관(r=0.65–0.76; Szalai 2023)에 불과해 대체 불가.
+15편 종합: 구취(Halitosis)는 전 세계 성인 약 31.8%에서 발생하고(Silva 2017, 인구기반 13연구), 80–90%는 구강내(설태·치주염 — OR 4.05–4.52; Wang 2024·Silva 2017), H. pylori 감염 시 위험 2.85배 증가·제균 후 83% 감소(RR 0.17; Dou 2016); 할리미터(halitometer)는 표준 관능검사(Organoleptic Test, OLT)와 중등도 상관(r=0.65–0.76; Szalai 2023)에 불과해 대체 불가.
 
 프로바이오틱스(Probiotics)는 단기(≤4주) VSC·OLT 감소(SMD −0.58/−0.26; Huang 2022)가 있으나 4주 이후 효과 소실, 4편 메타분석에서 전체 비유의(p=0.53; López-Valverde 2022); 광역동요법(Photodynamic Therapy, PDT)은 즉시 H₂S 유의 감소(MD −34.49; Wang 2022)이나 7일 후 혀클리너 대비 차이 없음 — 두 요법 모두 기계적 구강위생을 대체하지 못한다.
 
@@ -175,7 +177,9 @@ The age-stratified divergence between Cassiano 2021 (no OHRQoL effect in childre
 
 ### Mechanical Oral Hygiene (First-line)
 
-Tongue cleaning (tongue scraper or tongue brush) targeting the dorsal tongue coating is the single highest-yield intervention for intra-oral halitosis. Combined with twice-daily toothbrushing and interdental cleaning, it addresses the primary substrate for VSC-producing anaerobes. All pharmacological and adjunctive interventions in the literature are compared against mechanical hygiene as the comparator (Wang 2022 PDT trials use tongue scraper as control; probiotic trials use standard oral hygiene as background).
+Tongue cleaning (tongue scraper or tongue brush) targeting the dorsal tongue coating is the conventional first-line intervention for intra-oral halitosis, because the dorsal tongue is the main VSC substrate — a mechanistic rationale rather than a demonstrated comparative advantage (see the Cochrane certainty ceiling below). Combined with twice-daily toothbrushing and interdental cleaning, it addresses the primary substrate for VSC-producing anaerobes. All pharmacological and adjunctive interventions in the literature are compared against mechanical hygiene as the comparator (Wang 2022 PDT trials use tongue scraper as control; probiotic trials use standard oral hygiene as background).
+
+**The certainty ceiling across all management options.** [[halitosis/kumbargere-2019-interventions-managing-halitosis]] (Cochrane SR, first publication 2019; 44 RCTs, 1,809 participants aged 17–77) pooled every intervention class for halitosis of oral origin — mechanical tongue cleaning, chewing gums, systemic deodorising agents, topical agents, toothpastes, mouth rinses, tablets and combinations. Every comparison was **low to very low certainty** (GRADE), and no single intervention or concentration was shown superior. Representative effects: mechanical tongue cleaning vs none MD −0.20 OLT (2 RCTs, 46 participants); 0.6% eucalyptus gum vs placebo −0.10 OLT (1 RCT, 65); 0.3% triclosan toothpaste vs control −3.48 OLT (1 RCT, 81); CHX + zinc acetate rinse vs placebo −0.20 OLT (1 RCT, 44); brushing + cetylpyridinium rinse vs brushing alone −0.48 OLT (1 RCT, 70); hinokitiol gel −0.27 OLT (1 RCT, 18); champignon extract −1.07 VAS (1 RCT, 40). Most trials ran 1–4 weeks with high or unclear risk of bias. The probiotic and PDT findings below sit inside this same ceiling: short-term signals, no durable comparative advantage. Practically, the management sequence in Section 6 should be read as a reasoned default ordered by mechanism and safety, not as a ranking proven by head-to-head trials (my judgment).
 
 ### Probiotics
 
@@ -313,3 +317,4 @@ Step 1: OLT (organoleptic) score ≥2 (Rosenberg scale, standardized conditions)
 - [[halitosis/yoo-2017-effect-probiotics-on-halitosis]] — probiotics SR+MA (3 RCTs)
 - [[halitosis/wang-2022-clinical-efficacy-photodynamic-therapy]] — PDT SR+MA (8 RCTs)
 - [[halitosis/mortazavi-2020-drug-related-halitosis-systematic]] — drug-induced SR (10 drug groups)
+- [[halitosis/kumbargere-2019-interventions-managing-halitosis]] — Cochrane SR (44 RCTs, 1,809 pts): all halitosis interventions low/very-low certainty; no single intervention superior
