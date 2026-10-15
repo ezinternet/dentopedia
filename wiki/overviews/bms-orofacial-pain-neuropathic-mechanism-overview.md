@@ -21,6 +21,7 @@ source_papers:
   - wiki/orofacial-pain/korczeniewska-2022-pathophysiology-post-traumatic-trigeminal-neuropathic.md
   - wiki/oral-medicine/burning-mouth-syndrome/canfora-2025-burning-mouth-syndrome-pathogenesis-review.md
   - wiki/oral-medicine/burning-mouth-syndrome/canfora-2026-burning-mouth-syndrome-management-review.md
+  - wiki/oral-medicine/burning-mouth-syndrome/mcmillan-2016-interventions-treating-burning-mouth.md
 relations:
   - type: extends
     target: price-2009-chloride-regulation-pain-pathway
@@ -56,6 +57,7 @@ relations:
 > - 기전→치료 다리: 국소 clonazepam(GABA-A 작용제)의 말초형 반응성은 "탈억제 회복" 논리(price-2009)와 직접 연결되고, T-type/neurosteroid 축은 BMS의 새 표적 후보를 시사한다 — 단 말초 Cl⁻·T-type 표적 진통제는 아직 전임상 단계.
 > - 2025 병인 통합: canfora-2025는 소섬유 신경병증·삼차신경로 중추감작·에스트로겐 감소·심리 동반질환을 하나의 다인자 모델로 묶고, ICD-11 기반 진단 알고리즘(이차성 원인 체계적 배제 후 1차성 라벨)을 제안한다. 완전한 장기 관해를 달성하는 치료는 현재 없음.
 > - 현행 관리 근거(canfora-2026): 국소 클로나제팜 (Topical Clonazepam) rinse-and-spit이 가장 강한 무작위대조임상시험 (Randomized Controlled Trial, RCT) 근거; 인지행동치료 (Cognitive Behavioral Therapy, CBT)는 심리적 고통 감소; 저용량 삼환계항우울제 (Tricyclic Antidepressant, TCA)·가바펜티노이드는 신경병성 성분 표적. 다학제 병합·아형 맞춤이 가장 효과적.
+> - **근거 확실성 경고 (Cochrane, mcmillan-2016)**: RCT 23편(1,121명)을 GRADE로 평가하면 국소 클로나제팜을 포함한 **모든 개입의 근거가 매우 낮음(⊕⊝⊝⊝)** — 18/23편이 고위험 비뚤림, 대부분 소표본. 단기 이득 신호는 국소 benzodiazepine/clonazepam(2편, 111명)·가바펜틴(1편, 100명) 등, 장기 이득 신호는 국소 clonazepam(1편, 66명)·심리치료(1편, 30명)·캡사이신 가글(1편, 18명). "가장 강한 근거"는 상대적 순위일 뿐 절대적 확실성은 낮다.
 > - 근거 등급: 임상 substrate는 SR 1편(kouri-2024)·권위 리뷰(jaaskelainen-2018)·2025 병인 통합 리뷰(canfora-2025)로 비교적 견고, 분자 기전 3편은 narrative review·동물실험이라 [미검증]으로 임상 외삽은 가설 수준. BMS 관리 근거는 canfora-2026에 정리(국소 clonazepam > CBT > TCA 순). BMS 진단·치료 결정은 [[oral-medicine-decision-ladder]]를 1차로 본다.
 
 ## Three-line Summary
@@ -112,6 +114,7 @@ Its unifying hypothesis: in postmenopausal women, decline in neuroprotective gon
 - **Marker convergence**: the Nav1.7/TRPV1/P2X3 gains (kouri-2024) are exactly the nociceptor excitability machinery whose Cl⁻-channel context wilke-2020 describes — same neuron, complementary channels.
 - **Hormonal axis**: neurosteroid loss (pathirathna-2005 substrate) ↔ postmenopausal vulnerability (jaaskelainen-2018) suggests T-type/neurosteroid modulation as a candidate target — but peripheral Cl⁻- and T-type-targeting analgesics remain **preclinical**.
 - **Management synthesis** ([[oral-medicine/burning-mouth-syndrome/canfora-2026-burning-mouth-syndrome-management-review]]): across RCT evidence, **topical clonazepam rinse-and-spit** carries the strongest pharmacological evidence for pain reduction — coherent with the GABA-A/disinhibition logic (Sections 1–2). **CBT** reduces psychological distress and catastrophizing. **Low-dose TCAs** (amitriptyline) and **gabapentinoids** address the neuropathic component. No single agent achieves complete remission; multimodal, subtype-tailored treatment is most effective.
+- **Certainty check** ([[oral-medicine/burning-mouth-syndrome/mcmillan-2016-interventions-treating-burning-mouth]], Cochrane SR, 23 RCTs, 1,121 participants, 83% female): when the same trial base is graded with GRADE, **every intervention — topical clonazepam included — is very low certainty (⊕⊝⊝⊝)**, driven by high risk of bias in 18/23 trials and small samples. Short-term benefit signals: electromagnetic radiation (1 RCT, 58), topical benzodiazepines/clonazepam (2 RCTs, 111), physical barriers (1 RCT, 50), gabapentin (1 RCT, 100). Long-term signals: psychological therapy (1 RCT, 30), capsaicin rinse (1 RCT, 18), topical clonazepam (1 RCT, 66). The Cochrane conclusion is insufficient evidence to support or refute any intervention. Read together with canfora-2026: clonazepam's "strongest evidence" is a *relative* ranking within a very-low-certainty base, not an established effect (my judgment). The 2016 search date predates canfora-2026, so newer trials may shift individual grades.
 
 ## 6. The central relay — trigeminal circuit anatomy
 
@@ -128,7 +131,7 @@ Only **~3% of trigeminal nerve injuries progress to PTNP** (3.3% after facial fr
 ## 8. Evidence grading & gaps
 
 - **Clinical substrate** (peripheral SFN in BMS): relatively firm — 1 PRISMA SR (kouri-2024) + NeuPSIG review (jaaskelainen-2018) + 2025 multifactorial pathogenesis synthesis (canfora-2025). Still observational/cross-sectional; no causal proof, no meta-analytic pooling.
-- **Management evidence** (canfora-2026, narrative review): topical clonazepam holds the strongest RCT evidence for symptom reduction; CBT and low-dose TCA have supporting data; complete remission not achievable with any current agent.
+- **Management evidence** (canfora-2026, narrative review): topical clonazepam holds the strongest RCT evidence for symptom reduction; CBT and low-dose TCA have supporting data; complete remission not achievable with any current agent. The Cochrane SR (mcmillan-2016) grades all intervention evidence very low certainty — so "strongest" is relative, and counselling should say so.
 - **Molecular mechanism** (Sections 1–3): two narrative reviews (price-2009, wilke-2020) + one animal study (pathirathna-2005). Extrapolating these to human BMS therapy is **[미검증]** — a plausible mechanistic scaffold, not clinical evidence.
 - **Circuit anatomy & PTNP cascade** (Sections 6–7): two narrative reviews (kim-2024, korczeniewska-2022), no primary data in kim-2024, and korczeniewska-2022 is largely extrapolated from non-trigeminal (spinal/DRG) injury models by the authors' own admission. Treat both as a plausible mechanistic scaffold connecting Sections 1–3 to a concrete circuit and a post-traumatic clinical entity, not as direct clinical evidence.
 - **Translational gap**: subtype assignment needs neurophysiologic testing unavailable in most dental settings; peripheral Cl⁻/T-type analgesics are not clinically available.
@@ -145,6 +148,7 @@ Only **~3% of trigeminal nerve injuries progress to PTNP** (3.3% after facial fr
 - [[orofacial-pain/korczeniewska-2022-pathophysiology-post-traumatic-trigeminal-neuropathic]] — peripheral PTNP cascade (chemokines, ion channels, SGC activation); Cav3.2/miR-32-5p link back to Section 3's T-type axis.
 - [[oral-medicine/burning-mouth-syndrome/canfora-2025-burning-mouth-syndrome-pathogenesis-review]] — 2025 multifactorial pathogenesis synthesis (SFN + central sensitization + estrogen + psychological); ICD-11 diagnostic algorithm; no complete remission with current treatments.
 - [[oral-medicine/burning-mouth-syndrome/canfora-2026-burning-mouth-syndrome-management-review]] — BMS management narrative review; topical clonazepam highest RCT evidence; CBT + low-dose TCA + gabapentinoids; multimodal subtype-tailored approach.
+- [[oral-medicine/burning-mouth-syndrome/mcmillan-2016-interventions-treating-burning-mouth]] — Cochrane SR (23 RCTs, 1,121 pts): all BMS interventions very low certainty (GRADE); clonazepam/gabapentin short-term, psychological therapy/capsaicin/clonazepam long-term signals only.
 - [[oral-medicine-decision-ladder]] — clinical BMS diagnosis/treatment ladder (this page is its mechanistic backbone).
 
 ## Clinical Quiz
