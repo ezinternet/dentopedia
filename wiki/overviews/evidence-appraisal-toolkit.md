@@ -62,6 +62,7 @@ llm-wiki의 800+ 임상 paper 대부분이 SR+MA / RCT / retrospective cohort. �
 
 ### 축 2 — 효과측정치 (숫자가 무엇을 말하는가)
 - [[evidence-appraisal/flechner-2011-pvalues-confidence-intervals-number-needed]] — p-value, 95% CI, NNT.
+- [[evidence-appraisal/habibzadeh-2024-reinterpretation-results-randomized-clinical-trials]] — **p 문턱값은 고정 상수가 아니다**: Cochrane 22,500 RCT 재분석에서 p<0.05 유의 28.5% → p<0.005로 낮추면 14.2%, 1종·2종 오류 가중합을 최소화하는 유연 문턱(α≤0.05·power≥80% 제약)에선 9.9% — 통상 "유의"한 RCT의 약 2/3가 비유의로 바뀜. 문턱을 낮추면 위양성은 줄지만 위음성이 늘어 가상 RCT에서는 0.005의 가중 오류가 0.05보다 컸다. 최적 문턱은 군별 분산이 있어야 정해지는데 이는 사후에만 알 수 있어 미리 고정 불가 → 저자는 베이지안 접근을 주장 (t-test·등분산 가정 한정).
 - [[evidence-appraisal/monaghan-2021-odds-ratios-relative-risk-absolute]] — OR, RR, AR, NNT.
 - [[evidence-appraisal/barraclough-2011-hazard-ratios-clinicians-biostatistics-primer]] — HR, KM curve, proportional hazards.
 
@@ -105,7 +106,7 @@ llm-wiki의 800+ 임상 paper 대부분이 SR+MA / RCT / retrospective cohort. �
 - [[evidence-appraisal/darrigo-2024-common-mistakes-biostatistics]] — 10대 biostatistics 오류, 2024년 현재 정리판.
 
 **치과 paper에서 자주 보이는 오류 7가지**:
-1. **p > 0.05를 "효과 없음"으로 해석** — power가 약해서 못 잡았을 가능성 무시.
+1. **p > 0.05를 "효과 없음"으로 해석** — power가 약해서 못 잡았을 가능성 무시. 반대 방향도 같은 오류다: p가 0.05 바로 아래인 소표본 RCT 결과를 확정 효과로 읽는 것 — 문턱을 0.005나 오류 최적화 기준으로 바꾸면 통상 유의 RCT의 약 2/3가 비유의가 된다 (Habibzadeh 2024). p값 하나로 판정하지 말고 CI 폭·표본 크기를 같이 볼 것.
 2. **HR을 예후 정확도로 오해** — HR은 두 군의 비교이지, 어느 환자가 실패할지를 알려주지 않는다.
 3. **Subgroup hunting** — pre-specified가 아닌 subgroup 유의성은 hypothesis-generating일 뿐.
 4. **상관 ≠ 인과** — retrospective cohort에서 시간 역전·confounding 확인.
@@ -171,6 +172,7 @@ llm-wiki의 800+ 임상 paper 대부분이 SR+MA / RCT / retrospective cohort. �
 ### 신규 추가 (2026-06)
 
 - [[evidence-appraisal/al-abedalla-2022-unusual-findings-trials-evaluating-adjuncts]] — Methodological quality assessment (CONSORT + trial-registration audit) of 32 RCTs on SRP adjuncts published 2010–2017 by a single research group (GDCR … (sr, 2022)
+- [[evidence-appraisal/habibzadeh-2024-reinterpretation-results-randomized-clinical-trials]] — Meta-research (22,500 Cochrane RCTs): significant 28.5% at p<0.05, 14.2% at p<0.005, 9.9% under an error-minimizing flexible threshold; the optimal threshold needs a-posteriori variance, so the author argues for Bayesian methods. (cross-sectional, 2024)
 - [[evidence-appraisal/singh-2026-is-your-research-statistically-significant]] — Editorial (J Conserv Dent Endod) arguing that statistical significance does not equal clinical significance … (narrative-review, 2026)
 
 ## Clinical Quiz
