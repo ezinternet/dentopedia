@@ -31,6 +31,8 @@ source_papers:
   - wiki/sinus-lift/lateral/hong-2017-novel-approach-to-the-maxillary.md
   - wiki/sinus-lift/lateral/kim-2010-diagnosis-and-treatment-of-maxillary.md
   - wiki/sinus-lift/lateral/ohyama-2022-novel-management-severe-odontogenic-maxillary.md
+  - wiki/oral-medicine/odontogenic-sinusitis/martu-2022-odontogenic-sinusitis-diagnosis-treatment-narrative-review.md
+  - wiki/oral-medicine/orlandi-2016-international-consensus-statement-allergy-rhinology.md
 tags: [overview, odontogenic-maxillary-sinusitis, oms, oroantral-fistula, fess, cbct, source-control, sinus-lift, membrane-perforation, prevention, ent-collaboration, felisati-grading, sinus-irrigation, sinus-lavage]
 ---
 
@@ -38,7 +40,8 @@ tags: [overview, odontogenic-maxillary-sinusitis, oms, oroantral-fistula, fess, 
 
 > [!summary] 한국어 핵심요약
 > - **핵심 명제**: 치성 상악동염(Odontogenic Maxillary Sinusitis, OMS)은 "치아(감염원)를 다루지 않으면 낫지 않는 부비동염"이다 — 인식·진단·치료 세 축이 이를 떠받친다.
-> - **인식**: OMS는 흔하고 과소진단됨 — 만성 상악동염의 30–40%, 단측 상악동 혼탁의 45–72%가 치성이며, 무증상 인구 절반(49.5%)에서 점막 변화가 보인다.
+> - **인식**: OMS는 흔하고 과소진단됨 — 만성 상악동염의 30–40%, 단측 상악동 혼탁의 45–72%가 치성이며, 무증상 인구 절반(49.5%)에서 점막 변화가 보인다. 단 **유병률은 분모에 따라 크게 달라진다**: 상악동염 전체 기준 10–14%(의뢰 집단 최대 40%)·단측 상악동염의 75%(Martu 2022), 급성 부비동염 기준 역사적 10–15%(ICAR:RS, Orlandi 2016) — "30–40%"는 만성·의뢰 집단 수치로 읽어야 한다.
+> - **일반 비부비동염 지침의 위치**: 국제합의문 ICAR:RS(Orlandi 2016, 전문가 75명·140+ 주제)는 치성 급성 부비동염을 별도 항목으로 다루지만 근거등급 **C**(저수준)이고, 구강상악동루(OAF)를 유일한 독립 예측인자로 든다. 일반 만성 부비동염의 비강 스테로이드(A)·식염수 세척(B) 권고는 치성 원인에서 검증된 것이 아니다.
 > - **원인 구성의 전환**: 과거 치성 감염 중심에서 현재는 약 55%가 의인성(임플란트·발치·상악동거상술), 45%가 치성 병변 — 치과 시술 자체가 1위 원인군 (De Corso 2022).
 > - **진단(이중확인)**: 부비동 영상 + 명확한 치성/의인성 원인을 함께 확인 (Craig 2022). CBCT에서 **치주골소실이 치근단병소보다 점막비후의 강한 예측인자**(OR 2.2, Bisla 2022) — "치근단만 보던" 통념 교정.
 > - **치료(감염원 우선)**: 항생제 단독은 실패하며, 치과적 감염원 제거(근관치료·발치·치주처치·이물 제거) + 부비동 처치를 **병행할 때 90–100% 해소** (Craig 2022).
@@ -54,7 +57,7 @@ tags: [overview, odontogenic-maxillary-sinusitis, oms, oroantral-fistula, fess, 
 
 ## Three-line Summary
 
-Synthesis of 26 papers establishing that odontogenic maxillary sinusitis (OMS) is a source-control disease: OMS is under-recognised (30–40% of chronic maxillary sinusitis, 45–72% of unilateral sinus opacification is odontogenic), now predominantly iatrogenic (~55% from implants/extractions/sinus lifts, ~45% from odontogenic lesions per De Corso 2022), and diagnosed by dual confirmation (imaging + dental source) where periodontal bone loss is a stronger CBCT mucosal-thickening predictor than periapical lesions (OR 2.2, Bisla 2022).
+Synthesis of 28 papers establishing that odontogenic maxillary sinusitis (OMS) is a source-control disease: OMS is under-recognised (30–40% of chronic maxillary sinusitis, 45–72% of unilateral sinus opacification is odontogenic), now predominantly iatrogenic (~55% from implants/extractions/sinus lifts, ~45% from odontogenic lesions per De Corso 2022), and diagnosed by dual confirmation (imaging + dental source) where periodontal bone loss is a stronger CBCT mucosal-thickening predictor than periapical lesions (OR 2.2, Bisla 2022).
 
 Antibiotics alone fail for treatable odontogenic lesions; 90–100% resolution requires concurrent dental source removal (RCT/extraction/periodontal treatment/foreign-body removal) ± FESS — FESS independently achieves 96.5% success but is adjunctive, not a substitute for source control; one-stage dental+ESS achieves ~97% success with recurrence <1–6%. Sinus lavage/irrigation (via extraction socket, lateral or canine-fossa window, inferior-meatal catheter, or implant port) is reported only as a drainage route on top of source control; the sole controlled study (Gang 2021, weakly reported RCT, n=40) shows less early morbidity than Caldwell-Luc after cyst enucleation, and no held paper compares lavage with FESS.
 
@@ -62,7 +65,7 @@ Oroantral fistula (OAF) closure follows a size-and-timing decision tree: <3 mm s
 
 ## 세줄요약
 
-치성 상악동염(Odontogenic Maxillary Sinusitis, OMS) 26편 종합: OMS는 과소진단(만성 상악동염의 30–40%, 단측 혼탁의 45–72%가 치성)되고 있으며 현재는 약 55%가 의인성(임플란트·발치·상악동거상술), 45%가 치성 병변(De Corso 2022); 이중확인 진단(부비동 영상 + 치성 원인)이 필수이고 치주골소실이 치근단병소보다 점막비후의 강한 예측인자(OR 2.2, Bisla 2022).
+치성 상악동염(Odontogenic Maxillary Sinusitis, OMS) 28편 종합: OMS는 과소진단(만성 상악동염의 30–40%, 단측 혼탁의 45–72%가 치성)되고 있으며 현재는 약 55%가 의인성(임플란트·발치·상악동거상술), 45%가 치성 병변(De Corso 2022); 이중확인 진단(부비동 영상 + 치성 원인)이 필수이고 치주골소실이 치근단병소보다 점막비후의 강한 예측인자(OR 2.2, Bisla 2022).
 
 항생제 단독 실패; 치과적 감염원 제거(근관치료·발치·치주처치·이물 제거) 병행 시에만 90–100% 해소 — FESS(내시경 부비동수술)는 단독 96.5% 성공이나 어디까지나 보조 수단이며, 치과+ESS 동시 진행은 성공률 ~97%(재발률 <1–6%). 상악동 세척(Sinus Irrigation/Lavage — 발치와·측방/견치와 창·하비도 카테터·임플란트 포트)은 감염원 제거 위에 얹는 배액 경로로만 보고되며, 유일한 대조 연구(Gang 2021, 보고 부실 RCT n=40)는 낭종적출 후 칼드웰-뤽(Caldwell-Luc) 대비 조기 이환↓를 보였고 세척 vs FESS 비교 논문은 없다.
 
@@ -74,7 +77,7 @@ Oroantral fistula (OAF) closure follows a size-and-timing decision tree: <3 mm s
 
 1. **인식(Recognition)** — OMS는 흔하고 과소진단된다. 만성 상악동염의 30–40%(Kim 2019), 단측 상악동 혼탁의 45–72%가 치성(Lin 2024)이며, 점막 변화 자체는 무증상 인구의 절반(49.5%, Bisla 2022)에서 보인다. 더 결정적으로 **원인 구성이 바뀌었다** — 과거의 치성 감염 중심에서 현재는 약 55%가 의인성(임플란트·발치·상악동거상술), 45%가 치성 병변(De Corso 2022)으로, 치과 시술 자체가 1위 원인군이 됐다.
 
-2. **진단(Dual confirmation)** — 단일 신호로 OMS를 단정하면 안 된다. ENT 관점의 핵심은 **이중확인** — 부비동 영상 소견 + 명확한 치성 원인(치근단/치주/의인성)을 함께 확인해야 한다(Craig 2022). CBCT가 그 연결고리다: 치근단병소 인접 치아는 상악동 점막두께가 유의하게 두껍고(3.95 vs 1.23 mm, Dumitrescu 2021), 더 중요하게 **치주골소실이 치근단병소보다 점막비후의 강한 예측인자**(OR 2.2, Bisla 2022)라는 점은 "치근단만 보던" 통념을 교정한다. 즉 CBCT는 부비동 평가이자 동시에 원인치 탐색 도구다.
+2. **진단(Dual confirmation)** — 단일 신호로 OMS를 단정하면 안 된다. 영상 선택 자체도 결과를 바꾼다 — CBCT는 치성 원인을 67%에서 찾지만 치근단 방사선사진은 14%에 그친다(Martu 2022, narrative review 인용 수치). ENT 관점의 핵심은 **이중확인** — 부비동 영상 소견 + 명확한 치성 원인(치근단/치주/의인성)을 함께 확인해야 한다(Craig 2022). CBCT가 그 연결고리다: 치근단병소 인접 치아는 상악동 점막두께가 유의하게 두껍고(3.95 vs 1.23 mm, Dumitrescu 2021), 더 중요하게 **치주골소실이 치근단병소보다 점막비후의 강한 예측인자**(OR 2.2, Bisla 2022)라는 점은 "치근단만 보던" 통념을 교정한다. 즉 CBCT는 부비동 평가이자 동시에 원인치 탐색 도구다.
 
 3. **치료(Source control first, FESS as adjunct)** — 항생제 단독은 치료 가능한 치성 병변에 실패한다(Craig 2022). **치과적 감염원 제거(근관치료·발치·치주처치·의인성 이물 제거)와 부비동 처치를 병행할 때 90–100% 해소**된다(Craig 2022). 내시경 부비동수술(FESS)은 그 자체로 96.5% 성공·SNOT-22 급속 개선(De Corso 2022)을 보이지만, 어디까지나 **원인 제거 위에 얹는 보조**이며 — 증상 부담이 큰 경우 1차 ESS도 유효한 선택지가 된다(Craig 2022). 최신 종합 리뷰도 이 명제를 재확인한다 — Albu 2025(narrative review, 6 SR + 24 임상연구)는 경험적 amoxicillin/amox-clav를 1차로 두되 항생제는 비치료적 보조이고, 치과 원인 제거 + ESS를 **한 번에(one-stage) 병행할 때 ~97% 성공**(recurrence <1–6%)이라고 정리한다. 상악동 세척(sinus irrigation/lavage) 근거는 이 명제를 바꾸지 않는다 — 보고된 모든 세척 프로토콜이 원인 제거와 같은 회차에 시행되므로, 세척은 "감염원 제거 *대신*"이 아니라 FESS·Caldwell-Luc와 경쟁하는 **배액 경로의 하나**다(근거는 대부분 비대조 증례군; 아래 Lavage / Irrigation Axis).
 
@@ -86,6 +89,8 @@ Oroantral fistula (OAF) closure follows a size-and-timing decision tree: <3 mm s
 |---|---|---|---|---|
 | [[oral-medicine/odontogenic-sinusitis/kim-2019-definition-management-odontogenic-maxillary]] | 인식·기전 | narrative review | OMS = 만성 상악동염의 30–40%; 다균·생물막; CLP/FESS/MESS 비교 | narrative-review |
 | [[oral-medicine/odontogenic-sinusitis/psillas-2020-odontogenic-maxillary-sinusitis-comprehensive-review]] | 인식·개요 | narrative review | 단측 상악동염 ~30% 치성; 발치·치성감염·OAF 주원인; 치과+ESS 병행 표준 | narrative-review |
+| [[oral-medicine/odontogenic-sinusitis/martu-2022-odontogenic-sinusitis-diagnosis-treatment-narrative-review]] | 인식·진단·치료 | narrative review | 상악동염의 10–14%(최대 40%)·단측의 75%가 치성; 의인성 55.97%; CBCT 67% vs 치근단 14%; FESS 96.5% | narrative-review |
+| [[oral-medicine/orlandi-2016-international-consensus-statement-allergy-rhinology]] | 범위 경계(일반 RS 지침) | international consensus (ICAR:RS) | 치성 ARS 근거등급 C, OAF 유일 독립 예측인자; 일반 CRS: 비강 스테로이드 A·식염수 세척 B | consensus |
 | [[oral-medicine/odontogenic-sinusitis/lin-2024-odontogenic-maxillary-sinusitis-expert-consensus]] | 진단·분류 | expert consensus | 단측 상악동 혼탁 45–72% 치성; 표준 분류·다학제 알고리즘 | consensus |
 | [[oral-medicine/odontogenic-sinusitis/craig-2022-odontogenic-sinusitis-state-art]] | 진단·치료 | narrative review (ENT) | 이중확인 진단; 항생제 한계; 치과+ESS 90–100% 해소; 1차 ESS 옵션 | narrative-review |
 | [[oral-medicine/odontogenic-sinusitis/de-corso-2022-sinonasal-complications-dental-disease]] | 치료(FESS) | retrospective (n=262) | FESS 96.5% 성공; 55% 의인성 vs 45% 치성; 동시 처치 58% | retrospective |
@@ -297,6 +302,8 @@ OMS의 원인 구성에서 **의인성(임플란트·SFE)이 약 55%로 1위**(D
 - [[oral-surgery/oliva-2024-oroantral-communication-fistula-treatment-sr-ma]]
 - [[oral-surgery/kwon-2020-closure-oroantral-fistula-local]]
 - [[oral-surgery/lazow-1999-oroantral-fistula-flap-procedures]]
+- [[oral-medicine/odontogenic-sinusitis/martu-2022-odontogenic-sinusitis-diagnosis-treatment-narrative-review]] — 2022 내러티브 리뷰; 유병률 10–14%(최대 40%)·단측 75%, 의인성 55.97%로 De Corso 2022(55%)와 일치, CBCT 67% vs 치근단 14%, FESS 96.5%
+- [[oral-medicine/orlandi-2016-international-consensus-statement-allergy-rhinology]] — ICAR:RS 국제합의문; 치성 ARS 근거등급 C·OAF 유일 독립 예측인자, 일반 CRS 권고(스테로이드 A·식염수 B)는 치성 원인 미검증 — 범위 경계
 - [[oral-medicine/odontogenic-sinusitis/albu-2025-treatment-landscape-odontogenic-sinusitis]] — 2025 종합 리뷰; 항생제 비치료적·치과+ESS 병행 ~97% 성공으로 source-control-first 명제 재확인
 - [[sinus-lift/lateral/craig-2024-ent-oral-surgeon-collaboration-sinus-elevation]] — Felisati 5등급 ENT 협진 적응증; ≥3등급(OMC 폐쇄·부비동염·진균)만 협진, 점막비후·MRC 단독은 불요
 - [[sinus-lift/lateral/kim-2019-maxillary-implants-otolaryngologist-perspective]] — ENT 관점 술전 평가; 자연공 개존이 핵심 결정 변수; 술후 만성부비동염 ~5%; CT 기반 관리 플로차트
