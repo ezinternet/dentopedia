@@ -4824,6 +4824,9 @@ tags: []
 - [[sinus-lift/transcrestal/wolff-2022-two-year-followup-bicortical-unicortical-ise-posterior-maxilla]] — Hsu 2016 RCT 2년 추적 (n=32/37개): 2년 PTV 3군 동등(p=0.76); ISE > 쌍겹질 상악동 내 수평 골형성(1.99 vs 1.47 mm, p=0.03)
 - [[sinus-lift/transcrestal/malo-2014-bicortical-anchorage-posterior-maxilla-7year]] — 후향 7년 (n=88/124개, 즉시기능): 생존율 94.2%, 보철 100%; 5년 MBL 1.56 mm; 브럭시즘이 기계적 합병증 지배
 - [[sinus-lift/transcrestal/ahn-2012-implant-stability-preparation-methods-bicortical-monocortical]] — 체외 2×3 요인 (n=60): 표준 준비에서만 쌍겹질 > 단겹질 ISQ(p=0.039); 오스테오톰 쌍겹질은 ISQ 이득 없음
+- [[sinus-lift/transcrestal/lombardi-2024-bone-level-tissue-level-short-implants-posterior-maxilla]] — 전향 다기관 (n=71, 5–7 mm 단기): 쌍겹질 고정→삽입토크 예측(다변량)이나 ISQ·PBR에 무의미; 조직-레벨 PBR < 뼈-레벨 (T1: 0.11 vs 0.34 mm, p=0.004); 점막두께≤2 mm가 PBR 지배
+- [[sinus-lift/transcrestal/zheng-2025-ultrashort-implants-posterior-maxilla-bicortical-osfe-fea]] — FEA 14모델 (초단기 3–6 mm × 단겹질/쌍겹질/OSFE, RBH 3–5 mm): 6 mm+OSFE 최적; 쌍겹질이 단겹질보다 취소골 변형률 3.3–3.4배 감소
+- [[sinus-lift/transcrestal/yan-2015-implant-apex-sinus-floor-resonance-frequency-fea]] — FEA 10모델 (골 높이·피질골 두께 변화): 쌍겹질→치조정 응력 경감+축방향 RF 선형 증가; 협설 RF(=ISQ 방향)는 무반응 — ISQ 과소평가 기전 설명
 
 ### implants/isq
 - [[implants/isq/venkatesh-2026-three-osteotomy-techniques-posterior-rct]] — Venkatesh 2026 · rct (30명, 후방 상악) · conventional vs Summers' osteotome vs OD ISQ — NS 유의차; 수치적 OD≥conventional>osteotome; 전군 100% 생존 (DOI 10.1186/s12903-026-08858-7)
