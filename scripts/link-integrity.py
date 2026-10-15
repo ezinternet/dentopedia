@@ -44,6 +44,9 @@ SKIP_PAGE_FILES = {"index.md"}
 # SKIP_DIRS에 넣으면 [[_meta/categories]] 같은 링크가 broken으로 잡힌다).
 # wiki/_meta/ 는 카테고리 라우팅 등 에이전트용 참조 문서이지 독자용 콘텐츠 페이지가 아니다.
 INDEX_EXEMPT_DIRS = {"_meta"}
+# 카테고리 랜딩 페이지(wiki/{cat}/{cat}.md, frontmatter `authors: navigation`)도 등재 면제 —
+# 논문 목록이 아니라 자동 생성되는 폴더 내비게이션이다 (2026-10-15: 미등록 178 중 122건이 이것).
+NAV_AUTHORS_RE = re.compile(r"^authors:\s*navigation\s*$", re.M)
 
 WIKILINK_RE = re.compile(r"\[\[([^\]]+)\]\]")
 
@@ -182,6 +185,7 @@ def main() -> int:
         s for s, p in pages.items()
         if s not in index_stems
         and not any(part in INDEX_EXEMPT_DIRS for part in p.parts)
+        and not NAV_AUTHORS_RE.search(p.read_text(encoding="utf-8")[:600])
     )
     # index는 wiki 페이지뿐 아니라 interactives(.html) 등도 참조 → known 기준으로 판정
     index_points_nowhere = sorted(s for s in index_stems if s not in known)
