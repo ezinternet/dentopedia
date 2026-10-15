@@ -24,6 +24,7 @@ source_papers:
   - drug/anticoagulants/kaddah-2024-tranexamic-acid-gelfoam-warfarin
   - drug/anticoagulants/hamid-2024-green-tea-extracts-hemostatic-molar
   - drug/anticoagulants/kumar-2026-dental-management-hemophilia-sr
+  - oral-surgery/kumbargere-2018-interventions-treating-post-extraction-bleeding
 evidence_level: synthesis
 source: synthesis
 ---
@@ -41,12 +42,13 @@ source: synthesis
 > - **TXA는 제형 사다리로 봐야 한다**: 양치액(순응도 의존, 1일 4회 × 7일) / **분쇄정제 분말 250–500 mg + 생리식염수 페이스트**(술자가 발치와에서 끝냄, 10편 전부 항응고 중단 없이 지혈 성공) / 젤라틴 스폰지 병용(관행은 흔하나 이질성 과다로 표준 프로토콜 제시 불가) / 즉시사용 거즈(2.5%가 5%와 동등하나 **전임상 단계**).
 > - **"안 쓰면 어떻게 되는가"의 근거**: Kaya 2025는 봉합·국소지혈제를 의도적으로 배제한 프로토콜에서 직접경구항응고제(Direct Oral Anticoagulant, DOAC) 환자 등급3 출혈이 **8.1% vs 건강 대조군 0%**였다. 이 수치는 통상 진료의 기대값이 아니라 **개입을 뺐을 때의 바닥값**이며, 국소 지혈을 반드시 하라는 근거로 읽어야 한다.
 > - **혈우병(Hemophilia) 맥락 — TXA의 별개 역할**: 응고인자 결핍 환자에서 TXA는 국소 지혈제가 아니라 **항섬유소분해제(Antifibrinolytic)로 전신 경로**로 쓰인다 — 경구 1g TID × 5–10일, IV 20 mg/kg, 또는 5% 양치액·발치와 충전. SR 23편(Kumar 2026)에서 TXA가 응고인자 추가 주사 필요성을 유의하게 줄였다. 인자교정 표준은 30–50%; **침윤마취(Infiltration Anesthesia)는 인자교정 없이 안전, 하치조신경블록(Inferior Alveolar Nerve Block, IANB)은 인자교정 필수**. 이 맥락은 항응고제 복용 환자와 기전이 달라 위의 제형 사다리와 구분해야 한다.
+> - **이미 난 출혈을 멈추는 치료(rescue)는 RCT 근거가 0편이다** (Kumbargere 2018, Cochrane 2차 업데이트): 발치 후 출혈(Post-Extraction Bleeding, PEB)이 *발생한 뒤* 쓰는 국소 지혈제·봉합·전신 약제·병용 중 어느 것도 포함 기준을 충족한 RCT가 없었다. 이 페이지의 수치는 거의 전부 *예방적* 사용(발치 직후 충전) 근거이며, 재출혈 환자 처치는 임상 경험에 의존한다는 뜻이다.
 > - **아직 임상 근거가 아닌 것**: 이상성 황산칼슘 시멘트(교란 5변수·p=0.342), 4급암모늄화 키토란 스폰지(흰쥐), 즉시사용 TXA 거즈(시험관). 검색에서 지혈재로 함께 잡히므로 등급을 명시해 격리한다.
 > - **근거 수준 총평**: 이 분야 최상위가 SR+MA 1편(388치)과 서술적 고찰 1편(51편)이고 나머지는 소규모 임상시험이다. 강한 권고를 지지하는 근거가 아니며, 실제로 He 2026이 "제제 간 차이 없음"을 보고한 것 자체가 **과한 제품 선택 논쟁을 경계하라**는 신호다.
 
 ## Three-line Summary
 
-Synthesis of 18 papers on local hemostatic agents in dentistry, spanning three distinct clinical contexts that the literature routinely conflates: the routine extraction socket, the extraction socket under anticoagulation, and the periapical surgical bone crypt.
+Synthesis of 19 papers on local hemostatic agents in dentistry, spanning three distinct clinical contexts that the literature routinely conflates: the routine extraction socket, the extraction socket under anticoagulation, and the periapical surgical bone crypt.
 
 Agent choice is a second-order decision — the only meta-analysis in this collection (He 2026, 10 RCTs/CCTs, 388 teeth, network MA) found pooled hemostatic efficacy of 63 ± 6.6% with no significant global between-agent difference, and hemostatic efficacy did not predict periapical surgery prognosis; the largest documented effects come from context-appropriate use rather than product selection — tranexamic acid (TXA) reduces bleeding 50–60% as a 4.8% mouthwash and 80% as a topical application in anticoagulated patients, while any conventional socket dressing controls >85% of routine cases.
 
@@ -54,7 +56,7 @@ Where head-to-head data exist they are small but consistent (chitosan > oxidized
 
 ## 세줄요약
 
-치과 국소지혈제 18편 종합 — 문헌이 흔히 뒤섞는 세 임상 맥락을 분리한다: ① 통상 발치와, ② 항응고 환자 발치와, ③ 근관외과 골소와(bone crypt).
+치과 국소지혈제 19편 종합 — 문헌이 흔히 뒤섞는 세 임상 맥락을 분리한다: ① 통상 발치와, ② 항응고 환자 발치와, ③ 근관외과 골소와(bone crypt).
 
 제제 선택은 2차 결정이다 — 이 모음의 유일한 메타분석(He 2026, 10편 388치, 네트워크 메타분석)에서 통합 효능은 63 ± 6.6%이고 **글로벌 분석상 제제 간 유의차가 없었으며** 지혈 효능이 근관외과 예후를 예측하지도 못했다; 효과 크기가 큰 것은 제품이 아니라 맥락에 맞는 사용이다 — 트라넥삼산(Tranexamic Acid, TXA)은 4.8% 양치액으로 출혈 50–60%, 항응고 환자 국소 도포로 80%를 줄이는 반면, 통상 증례는 어느 드레싱이든 85% 이상 잡힌다.
 
@@ -139,6 +141,8 @@ Head-to-head 근거는 작지만 일관된다 — 이중항혈소판요법 환�
 
 > **이 수치의 올바른 용도.** 8.1%는 통상 진료의 출혈률이 아니라 *개입을 뺐을 때의 바닥값*이다. 항응고 환자의 예상 출혈률로 인용하면 과대평가가 되고, 반대로 **"국소 지혈을 생략하면 이렇게 된다"의 근거**로 쓰면 정확하다. 이 위키에서 지혈제 사용을 지지하는 가장 직접적인 대조 근거가 이것이다.
 
+**예방과 치료(rescue)는 다른 질문이다.** Kaya 2025와 이 페이지의 head-to-head 시험들은 모두 발치 *직후* 예방적으로 쓰는 지혈을 본다. 출혈이 *이미 발생한* 환자를 무엇으로 멈추는가에 대해서는 [[oral-surgery/kumbargere-2018-interventions-treating-post-extraction-bleeding]] (Cochrane SR, 2018 업데이트)이 국소 지혈제·봉합·전신 약제·병용을 모두 대상으로 검색했지만 **포함 기준을 충족한 RCT가 0편**이었다. 따라서 재내원한 출혈 환자에게 거즈 재압박 → 국소 지혈제 충전 → 봉합 순으로 올라가는 실제 처치 순서는 이 위키의 어떤 논문도 비교 검증하지 않은 임상 관행이다 (제 판단). 예방 근거를 rescue 상황에 그대로 옮기는 것은 외삽이다.
+
 ---
 
 ## 6. 아직 임상 근거가 아닌 재료 (격리)
@@ -166,6 +170,7 @@ Head-to-head 근거는 작지만 일관된다 — 이중항혈소판요법 환�
 | DAPT: 키토산 > 산화셀룰로오스 | 낮음 (within-person RCT, 효과크기 미보유) | Guardieiro 2023 |
 | TXA 분말(250–500 mg)로 중단 없이 지혈 | 낮음 (scoping review 10편, 단독효과 미정량) | Bergo 2026 |
 | 젤라틴 스폰지+TXA 병용은 표준화 불가 | 낮음 (scoping review 16편) | Swiss Dent J 2026 |
+| 발생한 PEB의 치료(rescue) 개입 효과 | **RCT 0편** (Cochrane SR, 포함 연구 없음) | Kumbargere 2018 |
 | 국소 지혈 생략 시 DOAC 등급3 출혈 8.1% | 낮음~중간 (맹검 환자-대조 n=430, 개입 배제 설계) | Kaya 2025 |
 | 이상성 황산칼슘·동물 키토산·TXA 거즈 | **권고 근거 아님** (교란·동물·시험관) | Dudek 2026, Tang 2025, Sitthikornvanich 2026 |
 
@@ -178,6 +183,7 @@ Head-to-head 근거는 작지만 일관된다 — 이중항혈소판요법 환�
 - [[endodontics/he-2026-hemostatic-agents-periapical-surgery-sr-ma]] — SR+MA 10편 388치 + 네트워크 메타분석: 근관외과 6종 제제, 통합 63±6.6%, 제제 간 global 유의차 없음, NMA상 에피네프린·AlCl₃ > 콜라겐, 지혈 효능↔예후 무관. **이 모음의 최상위 근거.** (sr+ma, 2026)
 
 ### 일반 발치와 (루틴)
+- [[oral-surgery/kumbargere-2018-interventions-treating-post-extraction-bleeding]] — Cochrane SR (2018 업데이트): 발생한 발치 후 출혈의 치료 개입(국소 지혈제·봉합·전신 약제·병용)을 평가한 RCT **0편** — rescue 처치는 근거 공백. (sr, 2018)
 - [[oral-surgery/mahmoudi-2023-gelatin-hemostatic-sponge-extraction-rct]] — 분구강 이중맹검 RCT(n=26): 신규 가교 젤라틴 스폰지 vs Gelfoam, 하악 대구치; 출혈(흡혈 가제 중량 3.97 vs 6.32 g)·통증·dry socket 모두 신규 스폰지 우위. 루틴 발치와에서 젤라틴 스폰지 간 head-to-head 희귀 데이터. (rct, 2023)
 
 ### Head-to-head 비교 (항응고)
