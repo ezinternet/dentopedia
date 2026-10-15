@@ -4816,6 +4816,11 @@ tags: []
 
 ### sinus-lift/transcrestal
 - [[sinus-lift/transcrestal/kafadar-gurbuz-2026-od-vs-osteotome-tsfe-isq-rct]] — Kafadar-Gürbüz 2026 · rct (28명 42개, TSFE) · OD ISQ 75.09 vs osteotome 67.50(p=.013); IT 32.95 vs 26.25 Ncm(p=.008); 진통제·OHIP OD 우위; MBL·생존율 동등 (DOI 10.11607/jomi.11566)
+- [[sinus-lift/transcrestal/bhave-2023-unicortical-bicortical-anchorage-posterior-maxilla]] — 전향적 분리구강 (n=15/42개), OSFE 쌍겹질 vs 단겹질: 3개월 ISQ 71.1 vs 65.7 (p<0.001), 변연골소실 동등 → 위축 후방 상악 쌍겹질 고정 지지
+- [[sinus-lift/transcrestal/rues-2020-bone-quality-primary-stability-bicortical-sinus]] — 체외 돼지 견갑골 (n=17), μCT + 비틀림 미세운동: 총 골두께 무상관(p=0.827), BMD·피질골 침투 ≥2 mm + BMD>1.0 g/cm³ → 미세운동 최저 ~4 μm
+- [[sinus-lift/transcrestal/han-2016-primary-stability-bicortical-posterior-maxilla]] — 체외 폴리우레탄 2요인 ANOVA (n=80), 쌍겹질 B8 ISQ 81.03(최고); IT역설(M3 IT↑ but ISQ↓); ISQ-PTV r=-0.97, ISQ-IT r=0.58
+- [[sinus-lift/transcrestal/ng-2018-bicortical-engagement-atrophic-posterior-maxillae]] — 후향 코호트 (n=53, 1–5년): 쌍겹질 생존율 100% vs 단겹질 6 mm 소집단 51.85%; 쌍겹질군에서만 상악동 내 신생골 형성
+- [[sinus-lift/transcrestal/hsu-2016-bicortical-fixation-indirect-sinus-unicortical]] — RCT 3군 (n=38/45개, RBH 7–11 mm): 1차 ISQ 쌍겹질 71.4 vs ISE 75.9 vs 단겹질 69.6 (p=0.13 NS); 2차 ISQ 3군 ~80 동등; 쌍겹질이 간단·경제적 최선 권고
 
 ### implants/isq
 - [[implants/isq/venkatesh-2026-three-osteotomy-techniques-posterior-rct]] — Venkatesh 2026 · rct (30명, 후방 상악) · conventional vs Summers' osteotome vs OD ISQ — NS 유의차; 수치적 OD≥conventional>osteotome; 전군 100% 생존 (DOI 10.1186/s12903-026-08858-7)
