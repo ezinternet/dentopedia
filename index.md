@@ -4907,3 +4907,90 @@ tags: []
 - [[oral-medicine/odontogenic-sinusitis/iikubo-2002-nonsurgical-treatment-for-odontogenic-maxillary]] — 근관 경유 상악동 세척 증례 (n=1, 치성 상악동염): 1회 세척(생리식염수 15 ml + 공기 15 ml) 후 2일 내 증상 소실, 1주 CT 점막비후 거의 소실, 12개월 재발 없음 (발치·수술 없이 치아 보존)
 - [[sinus-lift/lateral/hong-2017-novel-approach-to-the-maxillary]] — 치조정접근 상악동거상 10일 후 급성 상악동염 1례: 임플란트·이식재 제거 + 견치와 개창 관류 4회(4일 간격)로 농 소실·3.5개월 CT 회복 (n=1)
 - [[sinus-lift/lateral/kim-2010-diagnosis-and-treatment-of-maxillary]] — 임플란트 식립 후 상악동염 2례(초록만): 측방벽 소파술+항생제+상악동 세척으로 호전, 급성 상악동염은 측방벽 직접접근+정기 세척 권고
+
+## Batch ingest (added 2026-10-15) — index 누락분 소급 등재 (57편)
+
+### bone-regeneration/ridge-preservation
+- [[bone-regeneration/ridge-preservation/fan-2021-ridge-preservation-novel-extraction-socket]] — Fan 2021 · animal · 개 실험 연구 — 협측골 벽이 매우 얇은 발치와 모델에서 Bio-Oss collagen과 미처치 대조군 비교. (DOI 10.1016/j.jds.2021.03.005)
+- [[bone-regeneration/ridge-preservation/saliba-2020-collagen-xenograft-bovine-bone-inserted]] — Saliba 2020 · prospective · 분할구강 임상연구(n=13명, 환자당 발치치아 2개 이상) — 콜라겐 플러그(Collaplug) vs Bio-Oss + Surgicel 비교. (DOI 10.1007/s12663-020-01411-1)
+
+### dental-materials
+- [[dental-materials/meneke-2026-plaque-disclosing-agents-color-stability]] — Meneke 2026 · in-vitro · In vitro 실험실 연구 — 4종 수복재료(레진 복합체 3종 + 자이오머 1종), 재료당 20개·착색제당 10개의 원반 시편(n=80)에 단회 착색제를 도포한 직후 CIEDE2000로 색변화 측정. (DOI 10.26650/eor.20261729238)
+
+### implants/full-arch
+- [[implants/full-arch/acar-2026-full-arch-bruxism-complications-4-10yr]] — Acar 2026 · retrospective · 후향적 단일기관 연구, 24명/34악궁/180개 임플란트, 평균 추적 5.2년(4–9년); 전악수복 FDP; 이갈이·흡연·DM·설계 변수별 합병증 평가. (DOI 10.1186/s12903-026-08074-3)
+- [[implants/full-arch/biscaro-2026-conometric-vs-screw-full-arch]] — Biscaro 2026 · retrospective · 후향적, 203명, 1356 임플란트, 즉시하중 전악, 코노메트릭 65 vs 나사 196, 평균 28.5개월. (DOI 10.11607/jomi.11316)
+- [[implants/full-arch/bishti-2026-veneering-design-full-arch-sr]] — Bishti 2026 · sr · SR, 12편, 전향적, all-ceramic i-FDP(3-4유닛·전악), 단일체·마이크로·전체 베니어 비교; 3Y-TZP >1000 MPa 한정. (DOI 10.1111/jerd.70177)
+- [[implants/full-arch/cuello-de-garcia-2026-zirconia-height-cantilever-fracture-in-vitro]] — Cuello De Garcia 2026 · cross-sectional · 인비트로, 45 시편, 지르코니아 높이 2/4/6mm × Ti 프레임워크, 전악 캔틸레버, 120만 회 순환 + 파절 하중. (DOI 10.11607/ijp.9088)
+- [[implants/full-arch/de-araujo-nobre-2025-mandibular-all-on-four-20-25yr]] — De Araujo Nobre 2025 · retrospective · 하악 전악 All-on-4 즉시하중 회고적 코호트 (181명, 724개 임플란트, 평균 추적 264개월, 범위 240–321개월). (DOI 10.1016/j.jdent.2025.106286)
+- [[implants/full-arch/de-araujo-nobre-2026-maxillary-all-on-four-15-20yr]] — De Araujo Nobre 2026 · retrospective · 후향적 연구 (환자 740명, 임플란트 2960개, 단일기관) — 상악 All-on-4 즉시전악수복 (전방 2개 직립 + 후방 2개 경사 임플란트), 최장 20년 추적 (현존 최장 데이터). (DOI 10.3390/jcm15020446)
+- [[implants/full-arch/figueiredo-2025-all-on-four-overview-sr]] — Figueiredo 2025 · sr · All-on-Four 대(對) 다중 임플란트 전악 수복을 비교한 SR 8편에 대한 산형 리뷰(umbrella review); 4,468건 스크리닝; PROSPERO 사전 등록. (DOI 10.1007/s10006-025-01492-7)
+- [[implants/full-arch/garza-2026-arch-morphology-marginal-bone-remodeling]] — Garza 2026 · prospective · 전향적 탐색, 40명, 49 지르코니아 전악, 308 임플란트, 12개월; 악궁·하악형태 vs MBR. (DOI 10.3390/bioengineering13080933)
+- [[implants/full-arch/gianfreda-2025-trans-sinus-full-arch-sr-ma]] — Gianfreda 2025 · sr+ma · 체계적 문헌고찰+메타분석, 10편 포함(2,359편 선별), 경유 상악동(Trans-Sinus) 임플란트 전악수복 실패율 vs 수직·경사 임플란트 비교; PROSPERO CRD42024537320.
+- [[implants/full-arch/grandi-2025-zygomatic-hybrid-full-arch-1yr]] — Grandi 2025 · retrospective · 후향적 연구, 35명 상악 무치악, 수직 98개+접합골 81개, 경사 어버트먼트 45°/52.5°/60°; 혼합형 전악수복 1년 추적. (DOI 10.1922/EJPRD_2773Grandi13)
+- [[implants/full-arch/huber-2026-all-on-four-sr-management-complications]] — Huber 2026 · sr · PRISMA-2020·PROSPERO 등록 체계적 문헌고찰 — 20편(All-on-Four 11편, FDP4+ 9편), 최대 20년 추적; NOS 질 평가; 이질성으로 서술적 종합. (DOI 10.3390/dj14090541)
+- [[implants/full-arch/jacotti-2026-conometric-vs-screw-operative-time-in-vitro]] — Jacotti 2026 · cross-sectional · 인비트로 비교, Orbit/Bionica 코노메트릭 vs 나사, All-on-4/6 전악; 코노메트릭 활성화 15Ncm(코핑 무변형). (DOI 10.23736/S2724-6329.26.05287-3)
+- [[implants/full-arch/krennmair-2025-metal-resin-zirconia-molars-5yr]] — Krennmair 2025 · retrospective · 후향적, 29명 양악, Zrm-ISFP(지르코니아 구치부 추가) 14 vs r-ISFP 15, 5년; PRTC 시기별 비교. (DOI 10.1007/s00784-025-06409-y)
+- [[implants/full-arch/lan-2025-four-implant-overdenture-vs-fixed-sr-ma]] — Lan 2025 · sr+ma · SR+MA, 16편, 5,568 임플란트, 상악 4임플란트 IOD vs IFR, ≥5년 추적. (DOI 10.11607/jomi.11175)
+- [[implants/full-arch/marinkovic-2026-metal-zirconia-vs-acrylic-full-arch-sr-ma]] — Marinkovic 2026 · sr+ma · SR+MA, 12편, metal-zirconia vs metal-acrylic 전악 나사고정 보철, 2000–2025 4개 DB, ROBINS-I·GRADE. (DOI 10.4317/jced.63882)
+- [[implants/full-arch/menchini-fabris-2025-zygomatic-full-arch-3yr]] — Menchini Fabris 2025 · retrospective · 후향적 연구, 31명 심한 위축 상악, 접합골 62개+표준 90개, 혼합형 전악수복 >3년 추적. (DOI 10.23736/S2724-6329.24.05058-7)
+- [[implants/full-arch/midha-2026-implant-positioning-prosthetic-failure-case-control]] — Midha 2026 · retrospective · 후향적 매칭 케이스-컨트롤, 30 실패 vs 60 대조, CBCT 7개 식립 파라미터 측정. (DOI 10.7759/cureus.110180)
+- [[implants/full-arch/mijiritsky-2026-segmented-full-arch-digital-workflow-mandible]] — Mijiritsky 2026 · prospective · 전향적 연속 케이스, 14명, 119 임플란트, 하악 분절형 ISFCD, 완전 디지털, 평균 36개월. (DOI 10.1016/j.jdent.2026.105595)
+- [[implants/full-arch/papaspyridakos-2026-zirconia-full-arch-140-jaws-8yr]] — Papaspyridakos 2026 · retrospective · 후향적, 개인 개원, 140 단일체 지르코니아 전악, 디지털 워크플로, 최대 8년 추적. (DOI 10.1111/jopr.70232)
+- [[implants/full-arch/rapone-2026-italian-consensus-full-arch-grade]] — Rapone 2026 · consensus · 이탈리아 합의회의 (전문가 29명, 수정 델파이, 3라운드, ≥90% 기준, GRADE, 문헌 2015–2026) — 전악수복 임플란트 7개 근거기반 권고: 치주위험, GBR, 임플란트 수, 경사형, 보철재료, 유지관리, 전신위험. (DOI 10.3390/jcm15103695)
+- [[implants/full-arch/shao-2026-all-on-four-vs-all-on-six-sr-ma]] — Shao 2026 · sr+ma · 55편 체계적문헌고찰·메타분석; 무치악 환자에서 All-on-4 대 All-on-6 임플란트 고정성 보철물의 단기·중기·장기 임상결과 비교. (DOI 10.1016/j.ijom.2026.04.002)
+- [[implants/full-arch/tirone-2025-cad-parameters-cantilever-fracture]] — Tirone 2025 · retrospective · 후향적 코호트, 151 지르코니아 전악, 117명, ≥12개월; CAD CL/CSCA·CL/SAOL 컷오프 전향 적용. (DOI 10.1016/j.jdent.2025.105851)
+- [[implants/full-arch/topdagi-2026-all-on-4-bone-type-outcomes]] — Topdagi 2026 · retrospective · 후향적 다기관 코호트, 완전 무치악 250명(상·하악 각 125명), 임플란트 1,000개, All-on-4 보철; Lekholm & Zarb 골 유형 분류 Type 1–4 층화; 평균 추적 3.6 ± 0.4년(2018.09–2021.09). (DOI 10.1186/s12903-026-09299-y)
+
+### implants
+- [[implants/irandoust-2020-interplay-bone-healing-remodeling-dental]] — Irandoust 2020 · in-vitro · 메카노-조절 세포분화 모델로 즉시부하 임플란트 주위 골치유(30일)와 골리모델링(15,000일)을 연속 시뮬레이션 — 초기 마이크로모션 5, 10, 20 μm 조건 비교. (DOI 10.1038/s41598-020-60735-7)
+
+### implants/isq
+- [[implants/isq/bayarchimeg-2013-evaluation-correlation-insertion-torque-primary]] — Bayarchimeg 2013 · in-vitro · 인공 골블록(폴리우레탄 폼 #10~#50) 5개 실험군(n=20/군)에서 골밀도·드릴 직경·피질골 두께·해면골 밀도별 삽입토크(IT)와 ISQ 상관관계 분석 (DOI 10.5051/jpis.2013.43.1.30)
+
+### implants/loading-protocol
+- [[implants/loading-protocol/devi-2026-immediate-vs-delayed-implant-loading]] — Devi 2026 · narrative-review · 2015년 이후 RCT와 고품질 SR/MA를 중심으로 단일치아·후방 부분 무치악·하악 오버덴처·상악 전악 재건 등 적응증별 즉시 부하(IL)와 지연 부하(DL)를 비교한 종설. (DOI 10.18231/j.aprd.66643.1790839663)
+
+### implants/mbl
+- [[implants/mbl/gheisari-2017-comparison-marginal-bone-loss-one-stage]] — Gheisari 2017 · rct · 무작위 임상시험으로 아스트라 테크 임플란트 310개(140명)를 one-stage(170개, 90명) vs two-stage(140개, 50명) 수술법으로 나누고, 기능적 부하 6개월 후 평행 근단파노라마 방사선사진으로 근위/원위면 변연골소실(MBL) 비교.
+
+### implants/osteotomy-thermal
+- [[implants/osteotomy-thermal/gedik-2025-four-drill-systems-ceramic-heat-osteotomy]] — Gedik 2025 · in-vitro · 인비트로 (이스탄불대, 160 와위) — CS(스테인리스), VD(벨로드릴), CD(세라믹), BE(골증강) 4가지 드릴 시스템 비교; 800rpm·50mL/min 식염수·적외선 열화상. (DOI 10.1186/s12903-025-06860-z)
+- [[implants/osteotomy-thermal/gokce-uckun-2025-guided-surgery-cold-irrigation-temperature]] — Gokce Uckun 2025 · in-vitro · 양 장골능 엑스비보(n=40, D3, 696 HU, 총 192 와위) — 3군 비교: A군(900rpm/24°C 세척), B군(300–600rpm/세척없음), C군(900rpm/10°C 냉세척); K형 열전대 100ms 샘플링. (DOI 10.1186/s12903-025-06620-z)
+- [[implants/osteotomy-thermal/tur-2025-scais-cip-guided-conventional-drill-diameter-heat]] — Tur 2025 · in-vitro · 인비트로 (빈의과대, 240 와위, CNC 장치) — S-CAIS vs CIP, 3가지 직경(2.2/2.8/3.5mm) × 2 깊이(10/12mm) × 세척 유무 × 기법 2종; K형 열전대 다층 배열(3/6/9/12/15mm 깊이). (DOI 10.3390/ma18061277)
+
+### implants/survival
+- [[implants/survival/astrand-2002-nonsubmerged-submerged-implants-treatment-partially]] — Astrand 2002 · rct · 분할구강 RCT (28명, 56개 부위)로 ITI 비침수형(1단계) 대 Brånemark 침수형(2단계) 임플란트를 부분 무치악 상악고정가교로 비교, 1년 부하 후 추적. (DOI 10.1111/j.1708-8208.2002.tb00161.x)
+
+### oral-medicine/odontogenic-sinusitis
+- [[oral-medicine/odontogenic-sinusitis/chong-2016-saline-irrigation-chronic-rhinosinusitis]] — Chong 2016 · sr+ma · 코크란 체계적 문헌고찰·메타분석 (RCT 2편, 성인 116명): 비강 생리식염수 세척(대용량 고장성 vs 통상치료; 소용량 네뷸라이저 vs 비강 스테로이드)을 만성 부비동염(폴립 유무 무관)에 비교. (DOI 10.1002/14651858.CD011995.pub2)
+- [[oral-medicine/odontogenic-sinusitis/gnanasekaran-2024-nasal-irrigation-postoperative-fess]] — Gnanasekaran 2024 · sr+ma · 기능적 내시경 부비동 수술(FESS) 후 만성 비부비동염 환자 14개 RCT를 대상으로 다양한 비강 세척액(생리식염수, 부데소나이드, 고장성 식염수, 포비돈요오드 등)을 체계적 문헌고찰 및 메타분석으로 비교. (DOI 10.1007/s00405-024-08535-x)
+- [[oral-medicine/odontogenic-sinusitis/martu-2022-odontogenic-sinusitis-diagnosis-treatment-narrative-review]] — Martu 2022 · narrative-review · 치성 상악동염(OS) 역학·원인·미생물·진단·치료를 아우르는 2022년 내러티브 리뷰. OS는 상악동염의 10–14%(최대 40%), 단측 상악동염의 75%를 차지하며 현재 의인성 원인(55.97%: 상악동거상술·임플란트·발치 등)이 감염성 원인을 넘어섬. CBCT가 진단 금표준(치과 병소 탐지율 67% vs 근단방사선 14%); 치료는 치과적 감염원 제거 ± 항생제 ± 내시경 부비동수술(FESS, 96.5% 성공·Caldwell-Luc 대비 저이환) 원칙. (DOI 10.3390/diagnostics12071600)
+- [[oral-medicine/odontogenic-sinusitis/tait-2018-budesonide-saline-irrigation-chronic-rhinosinusitis]] — Tait 2018 · rct · 이중맹검 위약대조 RCT (무작위 80명, 완료 61명)로 만성부비동염 환자에게 30일간 대용량 저압 생리식염수 세척에 부데소니드 1mg/일을 추가한 효과 평가. SNOT-22 평균 개선도 부데소니드군 20.7점 vs 식염수군 13.6점, 평균 차이 7점 (95% CI −2∼16, Cohen d=0.39). 임상적 의미 있는 개선(MCID ≥9점) 달성률 부데소니드 79% vs 식염수 59% (차이 20%, 95% CI −2.5%∼42.5%), 내시경 점수도 3.4 vs 2.7점 개선. (DOI 10.1001/jamaoto.2018.0667)
+
+### oral-medicine
+- [[oral-medicine/orlandi-2016-international-consensus-statement-allergy-rhinology]] — Orlandi 2016 · consensus · 전 세계 75명의 비과 전문가가 참여한 국제합의문서(ICAR:RS)로, 140개 이상의 주제에 대해 근거기반 리뷰 및 권고(EBRR)를 수행해 급성/만성/재발성/소아 비강부비동염 전체를 아우른다. (DOI 10.1002/alr.21695)
+
+### overviews
+- [[overviews/buccal-plate-anatomy-socket-biology-anterior-maxilla-overview]] — overview · 12편 종합 — 협측판 형태계측(Januário 2011, Huynh-Ba 2010, Altarawneh 2018, Todorovic 2023)·발치와 치유 생물학(Araújo & Lindhe 2005, Cardaropoli 2003, Trombelli 2008, Omi & Mishina 2022)·발치 후 심미부 결과(Chappuis 2013, 2015, 2017)·협측 간격 관리(Greenstein 2013): 전치부 상악의 협측판(buccal plate)은 거의 항상 ≤1 mm이고 전체가 다발골(bundle bone)로만 구성 — 치주인대(PDL) 소실 시 파골세포(osteoclast) 매개로 생물학적으로 흡수가 예정된 조직이며, 치조골은 일반 골격골과 발생학적으로 구별됨.
+- [[overviews/clear-aligner-root-resorption-cbct-evidence-risk-overview]] — overview · CBCT 기반 SR+MA 3편 수렴: CA 유발 EARR 평균 −0.56 mm (상악 중절치 −0.74 mm; 심각 흡수 3.7–6.3%만), FA 대비 유의하게 적음 (MD −0.47~−0.50 mm, p<0.001); 임상적으로 일상 증례에선 비의미.
+- [[overviews/clear-aligner-treatment-predictability-tooth-movement-accuracy-overview]] — overview · 이동 유형별 정확도 서열 일관 — 협설 경사(최고) > 근원심 경사 > 회전·압하·확장(최저); 수직 이동은 두 브랜드 모두 신뢰불가; 횡적 폭경은 임상적 유의성 기준 이내 (Algarni 2026, n=80).
+- [[overviews/dental-erosion-epidemiology-risk-factors-management-overview]] — overview · 9편(SR+MA 5, SR 1, in situ SR+MA 1, 정책 1, GERD SR 1) 종합: ETW 유병률 유치열 35.6%~성인 80%; 고위험군은 섭식장애 65%, GERD 54.1%로 급격히 높아져 위험인자 계층화가 필수 — 치과 진료실이 섭식장애·역류 첫 발견 기회.
+- [[overviews/doac-perioperative-decision-hemostatic-agents-overview]] — overview · 11편(SR+MA 3, NMA 2, RCT 2, SR 2, 지침 2) 종합: 단일 항응고제·항혈소판제 복용 환자는 단순 발치·임플란트 시 약 유지가 원칙 — 술후 출혈은 중단군과 유의차 없고(Calcia 2021), 아스피린 단독은 건강인 대비 출혈 위험 없으나 DAPT는 즉시 출혈 RR 10.3(Alagil 2023)으로 별도 결정 범주.
+- [[overviews/drug-induced-xerostomia-polypharmacy-oral-consequences-overview]] — overview · 6편(SR+MA 2·SR 3·SR+MA 1) 종합: 5종 이상 다약제복용 → 구강건조 OR 2.05(Srisanoi SR+MA), 아미트립틸린 최대 단일약제 신호 dry mouth OR 11.60·NNH 2.89(Brueckle SR+MA 23 RCT); 항콜린 부담 높을수록 연관 뚜렷, 중등도 부담은 불명확(Prado-Mel SR).
+- [[overviews/extraction-socket-biologic-agents-prf-collagen-rhbmp2-healing-overview]] — overview · 발치와 생물제제의 기전 목표는 다르다: PRF·콜라겐은 조기 연조직(1–3일 통증, 1주 창상 75% 개선)에 특이; rhBMP-2는 수평·수직 골 차원 보존 모두 유의(p=0.01·p<0.0008) — L-PRF는 자연치유 대비 차원 우위 없음 (Alavi 2024 SR+MA, 29 RCT, n=1,068).
+- [[overviews/implant-placement-drilling-torque-compression-overview]] — overview · 7편(증례+문헌고찰 1·in vitro 2·전임상 in vivo 1·내러티브 리뷰 3) 종합: 골 압박 괴사는 35-50 Ncm에서도 D2 골+프리태핑 없음+언더사이즈 드릴링 조합에서 발생 가능하며 조직학적으로 확인(Ramesh 2024); 드릴링 프로토콜이 IT를 골밀도별로 고도 유의하게 변화시키나 D4에서는 효과 소진(Stoilov 2025); 치유챔버 거시형태는 IT 29% 낮추면서도 BIC 59.30% vs 40.30% 달성 — IT≠BIC 해리 중요 (Gehrke 2026).
+- [[overviews/oral-mucosal-epithelial-turnover-overview]] — overview · 구강점막 상피세포 (Oral Mucosal Epithelial Cell) 의 턴오버 시간은 부위마다 크게 다르다: 접합 상피 (Junctional Epithelium, JE) 1–6일, 협점막 (Buccal Mucosa) 5–6일, 치은 구강 상피 10–12일, 구개 (Palate) ~24일 — 피부 (~28일) 보다 모두 빠름. 비각화 상피는 각질층 (Stratum Corneum) 형성 단계가 없어 더 빠르고, JE는 세균 노출과 느슨한 세포간 결합으로 특히 빠르다. 임상적으로 이 속도들은 상처 치유 타임라인·장치 내성·세포진 검사 수율을 예측하는 근거가 된다.
+- [[overviews/plaque-disclosing-agents-efficacy-safety-overview]] — overview · 치태착색제(PDA) 5편 종합(RCT 1 + 전향 단일군 1 + 증례 1 + 단면 1 + in-vitro 1) — 유일한 대조 RCT(치대생 124명)는 표준 교육 대비 추가 이득이 없었고(ΔPI 군간차 0.09, 95% CI −0.05~0.24), 비대조 연구(아동 9명, 증례 1례)에서는 개선이 보고됨.
+- [[overviews/worn-dentition-rehabilitation-direct-indirect-strategy-overview]] — overview · 두 편의 SR+MA (Chantler 2024: 14편, Hardan 2022: 16편) — 마모 치열에서 직접 vs 간접 수복의 생존율 우열 없음; 직접 복합레진은 수리 가능 파절, 금속도재관은 비가역적 탈락 — 수리 가능성이 직접 우선 선택 핵심 근거.
+
+### periodontics/non-surgical-instrumentation
+- [[periodontics/non-surgical-instrumentation/de-alencar-2019-dental-plaque-disclosing-professional-prophylaxis]] — De Alencar 2019 · rct · 무작위 교차 임상시험(18~36개월 아동 25명, 우식조기예방(ECC) 프로그램, Bauru/상파울루) — 전문가 치아 prophylaxis 전 1% 말라카이트 그린(malachite green) 치태 착색군(GI)과 미착색 대조군(GII)을 1개월 washout 후 비교. (DOI 10.5005/jp-journals-10005-1617)
+- [[periodontics/non-surgical-instrumentation/lei-2025-plaque-disclosing-agent-guided-biofilm-therapy]] — Lei 2025 · retrospective · 만성 치주염 환자 220명(등록; 15명 탈락 → 최종 103명 대조군 vs 102명 관찰군)을 3개월간 전통적 구강위생교육과 가이드 바이오필름 치료(Guided Biofilm Therapy, GBT) 개념 기반 구강위생지도(oral hygiene guidance, OHG)로 나눈 후향 코호트 연구(단 논문 2장은 스스로 "case-control reporting guidelines"라 서술해 설계 표기가 불일치). (DOI 10.1097/MD.0000000000042782)
+
+### periodontics/oral-hygiene-instruction
+- [[periodontics/oral-hygiene-instruction/balli-akgol-2026-plaque-disclosing-agents-biofilm-removal]] — Balli Akgol 2026 · rct · 단일기관 평행군 무작위 임상시험(1:1, NCT06080672; n=124, 이스탄불 메디폴대학교 4학년 치대생)으로 Modified Bass 칫솔질 전 치태착색제(PDA, Mira 2-tone) 추가가 표준 구강위생교육 단독 대비 1차 결과인 기저선→1주 치태지수 변화량(ΔPI)에 미치는 영향을 평가. (DOI 10.1186/s13005-026-00596-z)
+- [[periodontics/oral-hygiene-instruction/fasoulas-2019-detection-dental-plaque-disclosing-agents]] — Fasoulas 2019 · cross-sectional · 2017~2018학년도 그리스 북부 농촌지역 공립학교 아동 588명(남 295/여 293, 4–18세)을 대상으로 츄잉식 이중 착색 정제(two-tone disclosing tablet)로 치면세균막 검출 부위를 매핑한 단면연구이다. (DOI 10.1016/j.heliyon.2019.e02064)
+- [[periodontics/oral-hygiene-instruction/jung-2020-cytotoxicity-dental-disclosing-solution]] — Jung 2020 · in-vitro · 배양 인간 치은 상피세포와 마우스 두경부 조직·돼지 피부를 이용한 in-vitro 연구로 에리트로신 함유 2-Tone(Blue-Violet) 치태 착색제의 세포독성을 200×·100×·50× 희석에서 평가했다. (DOI 10.1002/cre2.321)
+- [[periodontics/oral-hygiene-instruction/kamra-2024-oral-hygiene-instruction-plaque-disclosing-agents]] — Kamra 2024 · case-report · 증례보고(case report): 17세 남성 1례에서 2색 치태착색제(two-tone plaque-disclosing agent)를 사용한 구강위생교육으로 자가 치태제거 정도를 추적. (DOI 10.7759/cureus.72205)
+- [[periodontics/oral-hygiene-instruction/nagashima-2018-self-check-plaque-disclosing-solution]] — Nagashima 2018 · prospective · 일본의 아동양육시설(children's home)에 거주하며 미처치 우식이 없는 학령기 아동 9명(여아 6명, 1~6학년)을 대상으로, 집단·개별 교육과 3개월간 주 1회 치태착색용액 자가검진을 결합한 전향적 단일군(전후비교) 5개월 구강보건 프로그램. (DOI 10.1186/s13690-018-0296-y)
