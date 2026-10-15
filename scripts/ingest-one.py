@@ -85,7 +85,11 @@ def commit_file(rel_path: str, message: str):
     # 트레일러는 실제로 작업한 모델을 적어야 한다. 스크립트는 모델을 알 수 없으므로
     # 호출 측이 INGEST_COAUTHOR로 지정한다 (예: "Claude Haiku 5.5 <noreply@anthropic.com>").
     coauthor = os.environ.get("INGEST_COAUTHOR", "Claude <noreply@anthropic.com>")
-    rc, out, err = git(["commit", "-m", message + f"\n\nCo-Authored-By: {coauthor}"])
+    # pathspec(`-- rel_path`)은 필수다. 없으면 인덱스에 스테이징된 무관한 파일까지
+    # 함께 커밋되고 push되어, 공개 리포에 의도치 않은 내용이 영구히 남는다.
+    rc, out, err = git(
+        ["commit", "-m", message + f"\n\nCo-Authored-By: {coauthor}", "--", rel_path]
+    )
     if rc != 0 and "nothing to commit" not in err and "nothing to commit" not in out:
         print(f"  [warn] git commit {rel_path}: {err or out}")
     else:
