@@ -1,0 +1,10 @@
+{
+  // OpenCode가 이 리포의 행동 규칙(CLAUDE.md)을 자동으로 로드하게 한다.
+  //
+  // 왜 필요한가: OpenCode V2는 AGENTS.md만 자동 로드하고 CLAUDE.md는
+  // fallback으로 읽지 않는다. AGENTS.md §0이 "CLAUDE.md를 읽어라"고
+  // 지시하지만, 이 한 줄이 있으면 지시를 건너뛸 여지 없이 매 세션 로드된다.
+  // (특히 Rule #1 — 답변은 인제스트된 지식에서만 — 이 빠지지 않게 한다.)
+  "$schema": "https://opencode.ai/config.json",
+  "instructions": ["CLAUDE.md"],
+}
