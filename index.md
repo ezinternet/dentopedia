@@ -4827,6 +4827,8 @@ tags: []
 - [[sinus-lift/transcrestal/lombardi-2024-bone-level-tissue-level-short-implants-posterior-maxilla]] — 전향 다기관 (n=71, 5–7 mm 단기): 쌍겹질 고정→삽입토크 예측(다변량)이나 ISQ·PBR에 무의미; 조직-레벨 PBR < 뼈-레벨 (T1: 0.11 vs 0.34 mm, p=0.004); 점막두께≤2 mm가 PBR 지배
 - [[sinus-lift/transcrestal/zheng-2025-ultrashort-implants-posterior-maxilla-bicortical-osfe-fea]] — FEA 14모델 (초단기 3–6 mm × 단겹질/쌍겹질/OSFE, RBH 3–5 mm): 6 mm+OSFE 최적; 쌍겹질이 단겹질보다 취소골 변형률 3.3–3.4배 감소
 - [[sinus-lift/transcrestal/yan-2015-implant-apex-sinus-floor-resonance-frequency-fea]] — FEA 10모델 (골 높이·피질골 두께 변화): 쌍겹질→치조정 응력 경감+축방향 RF 선형 증가; 협설 RF(=ISQ 방향)는 무반응 — ISQ 과소평가 기전 설명
+- [[sinus-lift/transcrestal/moriwaki-2016-implant-length-diameter-bicortical-anchorage-sinus-augmentation-fea]] — FEA 골 형태 A·C: 골 형태 C에서 5 mm × 6 mm 쌍겹질 << 4 mm × 13 mm + 상악동 거상; 직경 증가가 핵심 공변수
+- [[sinus-lift/transcrestal/seker-2014-bicortical-short-graft-long-tilted-fpd-fea-posterior-maxilla]] — FEA CT 기반 FPD 3시나리오: 쌍겹질 단기 219.63 MPa(최저) vs 45° 경사 499.50 MPa(최고); 이식재 응력흡수 불량(0.049 MPa)
 
 ### implants/isq
 - [[implants/isq/venkatesh-2026-three-osteotomy-techniques-posterior-rct]] — Venkatesh 2026 · rct (30명, 후방 상악) · conventional vs Summers' osteotome vs OD ISQ — NS 유의차; 수치적 OD≥conventional>osteotome; 전군 100% 생존 (DOI 10.1186/s12903-026-08858-7)
