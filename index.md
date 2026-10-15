@@ -3634,6 +3634,7 @@ tags: []
 - [[overviews/bone-tissue-types-classification-overview]] — 피질골·해면골·섬유골·층판골 두 축 분류: 성숙도(woven↔lamellar) × 위치/밀도(cortical↔trabecular), 임플란트 BIC 성숙 및 D1–D4 밀도 분류와 연결 (2026)
 - [[overviews/robotic-vs-navigation-implant-accuracy]] — 로봇 vs 동적내비게이션 vs static guide 정확도 종합: 로봇은 각도 편차만 일관 개선, 동일 tracker 통제 시 선형 편차 동등(Wei RCT)
 - [[overviews/zirconia-implant-clinical-outcomes]] — 지르코니아 임플란트 생존(10yr CSR 95.1%)·MBL·PRO 종합: 잔여 실패는 2-piece·협폭경·드릴가공·단종제품에 집중
+- [[overviews/bicortical-fixation-posterior-maxilla]] — 쌍겹질 고정 (Bicortical Fixation) 13편 종합: 생존율 100% vs 단겹질 51.85% (6mm); 7년 94.2%; ISQ는 쌍겹질 이점 과소평가 (축방향 RF vs 협설방향 RF); FEA 계층 OSFE>쌍겹질>단겹질
 
 ### immediate-implant batch (added 2026-06-07)
 
