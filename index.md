@@ -4821,6 +4821,9 @@ tags: []
 - [[sinus-lift/transcrestal/han-2016-primary-stability-bicortical-posterior-maxilla]] — 체외 폴리우레탄 2요인 ANOVA (n=80), 쌍겹질 B8 ISQ 81.03(최고); IT역설(M3 IT↑ but ISQ↓); ISQ-PTV r=-0.97, ISQ-IT r=0.58
 - [[sinus-lift/transcrestal/ng-2018-bicortical-engagement-atrophic-posterior-maxillae]] — 후향 코호트 (n=53, 1–5년): 쌍겹질 생존율 100% vs 단겹질 6 mm 소집단 51.85%; 쌍겹질군에서만 상악동 내 신생골 형성
 - [[sinus-lift/transcrestal/hsu-2016-bicortical-fixation-indirect-sinus-unicortical]] — RCT 3군 (n=38/45개, RBH 7–11 mm): 1차 ISQ 쌍겹질 71.4 vs ISE 75.9 vs 단겹질 69.6 (p=0.13 NS); 2차 ISQ 3군 ~80 동등; 쌍겹질이 간단·경제적 최선 권고
+- [[sinus-lift/transcrestal/wolff-2022-two-year-followup-bicortical-unicortical-ise-posterior-maxilla]] — Hsu 2016 RCT 2년 추적 (n=32/37개): 2년 PTV 3군 동등(p=0.76); ISE > 쌍겹질 상악동 내 수평 골형성(1.99 vs 1.47 mm, p=0.03)
+- [[sinus-lift/transcrestal/malo-2014-bicortical-anchorage-posterior-maxilla-7year]] — 후향 7년 (n=88/124개, 즉시기능): 생존율 94.2%, 보철 100%; 5년 MBL 1.56 mm; 브럭시즘이 기계적 합병증 지배
+- [[sinus-lift/transcrestal/ahn-2012-implant-stability-preparation-methods-bicortical-monocortical]] — 체외 2×3 요인 (n=60): 표준 준비에서만 쌍겹질 > 단겹질 ISQ(p=0.039); 오스테오톰 쌍겹질은 ISQ 이득 없음
 
 ### implants/isq
 - [[implants/isq/venkatesh-2026-three-osteotomy-techniques-posterior-rct]] — Venkatesh 2026 · rct (30명, 후방 상악) · conventional vs Summers' osteotome vs OD ISQ — NS 유의차; 수치적 OD≥conventional>osteotome; 전군 100% 생존 (DOI 10.1186/s12903-026-08858-7)
