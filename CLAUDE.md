@@ -53,6 +53,12 @@ These rules prevent hallucination and keep every claim traceable. They apply to 
 
 **Language policy**: 위키 본문은 영어 (RAG-friendly, 용어 보존). 대화는 아무 언어나 (한국어 포함). 모든 wiki·source 페이지는 이중언어 세줄요약(`## Three-line Summary` + `## 세줄요약`) 필수 — 포맷 규칙은 `INGEST.md`.
 
+**환자 식별 표기 (mandatory)**: 환자·보호자·직원의 **성명을 응답·산출물 어디에도 쓰지 않는다.** 식별이 필요하면 **차트번호**로 한다. 생년월일·연락처·주민등록번호·이메일도 동일하게 취급한다.
+
+- **범위 분리**: 차트번호 허용은 *커밋되지 않는* 로컬 작업·대화 한정. `git`이 추적하는 파일(`wiki/`·`note-meeting/`·`interactives/`·`slides/`)에서는 차트번호도 금지 → `환자 A`/`59세 여` (근거: `note-meeting/_template.md`, `scripts/pii-guard.py`의 `CHART` 규칙).
+- **왜 코드가 아니라 규칙인가**: pii-guard는 주민번호·전화·이메일·차트번호만 잡고 **성명은 못 잡는다**(한국어 이름은 결정론적 패턴 매칭 불가). 이름 금지는 정규식으로 강제할 수 없으므로 이 규칙이 유일한 방어선이다.
+- 이 규칙은 `AGENTS.md` §1에 동일하게 있다 — **OpenCode V2는 `CLAUDE.md`를 읽지 않으므로 의도적 미러**다. 수정 시 양쪽을 함께 고칠 것.
+
 **Overview Korean digest (mandatory for `wiki/overviews/`)**: 영어 본문은 한국어로 훑기엔 너무 빽빽하므로, 모든 overview/synthesis 페이지는 **`## 한국어 핵심요약` 블록을 최상단**(frontmatter 바로 아래, `## Three-line Summary` 위)에 싣는다. Obsidian callout `> [!summary] 한국어 핵심요약` 형식, **~10 bullets**(더 길어도 됨): 결론/thesis, 핵심 수치, 주요 분기·결정 지점, 대비·예외, 임상 takeaway. bullet 안에서도 term notation rule 적용. 영어 본문은 그대로 둔다 (RAG 정책 불변) — 이건 위에 얹는 한국어 독해 보조다.
 
 ---
