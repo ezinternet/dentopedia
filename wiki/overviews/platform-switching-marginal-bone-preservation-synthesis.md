@@ -2,9 +2,9 @@
 title: "Platform Switching — Marginal Bone Preservation Evidence Synthesis (플랫폼 스위칭·변연골 보존 근거 종합)"
 authors: synthesis (llm-wiki)
 year: 2026
-date: 2026-08-15
+date: 2026-10-17
 category: [overviews]
-tags: [platform-switching, marginal-bone-loss, crestal-bone, biologic-width, implant-abutment-junction, peri-implant, FEA, overview]
+tags: [platform-switching, marginal-bone-loss, crestal-bone, biologic-width, implant-abutment-junction, peri-implant, FEA, oaot, one-abutment-one-time, supracrestal-tissue-height, overview]
 source_papers:
   - implants/mbl/lazzara-2006-platform-switching-new-concept
   - implants/mbl/salimi-2011-platform-switching-current-results
@@ -28,6 +28,12 @@ source_papers:
   - implants/mbl/chien-2016-effect-platform-switching-periimplant-crevicular
   - implants/mbl/sahabi-2013-biomechanical-effects-platform-switching-two
   - implants/mbl/yadav-2025-finite-element-analysis-platform-switching
+  - implants/mbl/stacchi-2023-marginal-bone-changes-platform-switched-conical
+  - implants/mbl/abayov-2026-one-abutment-one-time-versus
+  - implants/mbl/calatrava-2024-effect-one-time-placement-definitive-abutment
+  - implants/mbl/sanz-sanchez-2024-effect-one-time-abutment-placement-5year
+  - implants/mbl/nunes-2025-final-prosthetic-abutment-insertion-time-oaot
+  - implants/mbl/terzioglu-2024-effect-supracrestal-tissue-height-marginal
 evidence_level: synthesis
 source: synthesis
 relations:
@@ -52,6 +58,8 @@ relations:
 > - **[2026-08-15 추가] 유한요소분석(FEA) 원저 2편 — 골 응력은 내려가지만 부품 응력은 올라간다**: Sahabi 2013(2개 시스템)·Yadav 2025(D2·D3 골질, 200N 축·30° 사면하중) 모두 PS가 치조정 피질골·해면골의 최대 von Mises 응력을 낮추는 대신, **임플란트·지대주·지대주 나사로 응력을 옮긴다**고 보고. 사면하중에서 특히 두드러진다. 골보존의 대가가 보철 부품 쪽 기계적 부담일 수 있다 — 탐침깊이 신호에 이은 **두 번째 trade-off**다.
 > - **[2026-08-15 추가] 즉시식립 근거 일부 확보**: Attia 2025(후향, 37명, 최장 23년)에서 즉시식립 임플란트도 **근심 변연골소실이 PS에서 유의하게 적었다**(0.26 vs 0.75mm, p=0.044; 회귀 β=2.11, p=0.039). 단 **원심은 유의차 없음** — 근심/원심 비대칭은 기존 문헌이 다루지 않던 관찰이다.
 > - **[2026-08-15 추가] 미세간극 수직 위치라는 별개 축**: Schwarz 2013(Camlog 재단 합의보고서)은 PS와 별도로 **기계가공 칼라를 치조정 상방(supracrestal)에 두면 하방(subcrestal)보다 골소실이 적고**, 치조정 하방 1mm 이상이면 리모델링은 늘지만 거친 표면의 골 피개는 더 잘 유지된다고 정리. 연결부 형태(내측/외측·원추/버트조인트)의 영향은 "근거 부족". PS는 *수평* 오프셋, 미세간극 위치는 *수직* 축 — 혼동 금지.
+> - **[2026-10-17 추가] OAOT 프로토콜 — 어버트먼트 재연결 횟수가 MBL에 영향**: PS 임플란트에서 최종 어버트먼트를 1회만 연결하는 1어버트먼트-1회(OAOT, One-Abutment-One-Time) 프로토콜이 반복 탈착 대비 MBL을 추가 감소 — Abayov 2026 SR+MA(7 RCT, 645개, MD −0.23mm 유의), Nunes 2025 SR+MA(11 RCT, 699개) 수렴. 가장 강한 단일 RCT Calatrava 2024(Δ=0.48mm, p=0.008); 5년 Sanz-Sánchez 2024는 수치 차이(Δ=0.44mm) NS. **PS 여부뿐 아니라 어버트먼트 교체 횟수도 MBL 결정 인자다.** 단, 반복 탈착군의 MBL이 이미 PS 범주 안(0.5~1.0mm)에 있어 추가 이득의 임상 의미는 제한적.
+> - **[2026-10-17 추가] STH × 식립깊이 상호작용**: Terzioglu 2024 RCT(60개, 3군)에서 초치조정 조직 높이(STH, Supracrestal Tissue Height) ≤3mm + 치조정 식립(equicrestal)이 최대 MBL; 두꺼운 STH(>3mm) 또는 하방 식립이 얇은 조직 부위의 MBL을 보완. STH는 PS 임플란트 MBL의 독립 예측 인자 — 얇은 연조직 부위에서 치조정 PS 단독으로는 골소실이 충분히 억제되지 않음. Stacchi 2023 crossover RCT(102개 PS 원뿔 연결, 1mm vs 2mm 하방)에서 2mm 하방이 1년 임플란트 표면 노출 0% vs 11.8%(1mm) — MBL 차이는 NS지만 표면 피개 면에서 우위.
 > - **[2026-08-10 추가] 얼마나 벌려야 하나(offset magnitude)**: 기존 9편은 전부 "PS 했다/안 했다"만 비교했지 오프셋 크기 자체는 다루지 않았음 — 신규 4편(Hürzeler 2007·Canullo & Rasperini 2007·Rodríguez-Ciurana 2009·이들을 엮은 Gupta 2019 리뷰)이 실제 편측 미스매치 수치를 공급. Hürzeler 2007: **편측 0.45mm 축소가 골소실 방지에 "충분"**하다는, 이 위키에서 가장 구체적인 임계값 주장(단, 소규모·비무작위·단일 오프셋 시험). Canullo 2007은 1.0mm(가장 큰 값)도 효과 있었음을 보고(대조군 없는 증례군). 그러나 어느 연구도 오프셋 크기를 독립변수로 통제한 용량-반응 시험은 아니므로, **검증된 최소 임계값이나 dose-response 곡선은 여전히 확립되지 않음**. Rodríguez-Ciurana 2009는 별개로 임플란트 간 거리(<3mm 근접배치에서도 PS가 골첨부 보존) 데이터도 제공 — 오프셋 크기 질문과 혼동 금지.
 
 ## Three-line Summary
@@ -104,6 +112,12 @@ Platform switching is one of the more strongly convergent implant design questio
 | [[implants/mbl/attia-2025-influence-platform-switching-marginal-bone]] | retrospective (immediate implants, 6mo–23yr) | 37 patients (21 PS/16 PM) | Mesial 0.26 mm | Mesial 0.75 mm | Mesial p=0.044 (regression β=2.11, p=0.039); **distal NS**; success scores NS |
 | [[implants/mbl/salamanca-2017-dental-implant-marginal-bone-level]] | retrospective (12mo, bone-*gap* framing) | 51 patients, 60 implants (30/30) | Vertical gap reduction 0.93 ± 1 mm | 0.23 ± 0.58 mm | p<0.05 vertical; horizontal 0.50 vs 0.22 mm NS; 100% survival both |
 | [[implants/mbl/schwarz-2013-implant-abutment-connection-platform-switching]] | consensus (Camlog Foundation, 2 SRs) | — | Evidence trends favor PS; no negative PS effects published as of 2013 | — | Also: supracrestal collar < subcrestal bone loss; connection type "lacks documentation" |
+| [[implants/mbl/abayov-2026-one-abutment-one-time-versus]] | **sr+ma (7 RCTs, 2020–2024) — OAOT** | 645 implants (395 patients) | OAOT: less MBL | Multiple disconnections | **MD −0.23 mm (95% CI −0.44 to −0.02), p<0.05; I²=77%**; survival >94% both groups; PD NS |
+| [[implants/mbl/nunes-2025-final-prosthetic-abutment-insertion-time-oaot]] | sr+ma (11 RCTs) — OAOT, all connection types | 699 implants | OAOT: less MBL | Multiple disconnections | Pooled MD favoring OAOT (exact values not in abstract); independent convergence with Abayov 2026 |
+| [[implants/mbl/calatrava-2024-effect-one-time-placement-definitive-abutment]] | rct (12mo, posterior jaw, OAOT) | 80 implants (40 patients) | −0.13 mm | −0.61 mm | **Δ=0.48 mm, p=0.008**; also: KT width and BOP significantly better in OAOT; survival 100% |
+| [[implants/mbl/sanz-sanchez-2024-effect-one-time-abutment-placement-5year]] | rct (5yr, posterior, Ankylos PS, OAOT) | 60 implants (30 patients) | 0.53 mm DIB | 0.97 mm DIB | **Δ=0.44 mm, p=0.063 (NS)**; survival 100%; soft tissue comparable at 5yr |
+| [[implants/mbl/stacchi-2023-marginal-bone-changes-platform-switched-conical]] | rct (1yr post-loading, crossover, PS conical) | 102 implants | 2mm subcrestal: 0.49±0.32mm | 1mm subcrestal: 0.46±0.35mm | **p=0.66 NS**; surface exposure: 0% (2mm) vs 11.8% (1mm); periodontitis = independent predictor |
+| [[implants/mbl/terzioglu-2024-effect-supracrestal-tissue-height-marginal]] | rct (1yr post-loading, 3 groups: STH×depth) | 60 implants | STH>3mm equicrestal or STH≤3mm subcrestal: lower MBL | STH≤3mm equicrestal: **highest MBL** | STH independent predictor of MBL in PS implants; subcrestal compensates thin tissue |
 
 ## Offset Magnitude — How Much Mismatch Is Needed?
 
@@ -130,10 +144,34 @@ Platform switching is one of the more strongly convergent implant design questio
 | [[implants/mbl/yadav-2025-finite-element-analysis-platform-switching]] | in-vitro FEA (D2 mandible / D3 maxilla, 200N axial / 200N at 30°) | biomechanical | Same direction, wider conditions: PS reduces crestal bone stress especially under oblique loading, while **raising stress on implant, abutment, and abutment screw** — worst in maxilla under axial and mandible under oblique load |
 | [[implants/mbl/alrabeah-2016-effect-platform-switching-metal-ion]] | in-vitro accelerated corrosion (42 specimens, ICP-MS, ISO 10271) | corrosion (new layer) | Platform-matched couples released ~2x more V, Al (Ti abutments) and Co, Cr, Mo (CoCr abutments), p<0.05; Co/Cr/Mo reduction **proportional to mismatch magnitude**; SEM showed pitting at all interfaces, worst at platform outer borders |
 | [[implants/mbl/chien-2016-effect-platform-switching-periimplant-crevicular]] | prospective split-mouth, 14 patients, PICF cytokines at 1/2/4/6 wk | inflammatory | **Does not support the standard story**: profiles broadly similar; PD deeper in PM only at week 1; TNF-α ~3x *higher* in PS at week 1 (p=0.005), left unexplained by the authors |
+| [[implants/mbl/stacchi-2023-marginal-bone-changes-platform-switched-conical]] | crossover RCT, 51 patients, 102 PS conical-connection implants, 1yr post-loading | subcrestal depth × PS | No MBL difference between 1mm and 2mm subcrestal depths (0.46 vs 0.49mm, p=0.66); but 2mm subcrestal → 0% surface exposure vs 11.8% at 1mm; periodontitis history = independent predictor of bone loss |
+| [[implants/mbl/terzioglu-2024-effect-supracrestal-tissue-height-marginal]] | prospective RCT, 60 implants, 3 groups (STH ≤3mm equicrestal / STH ≤3mm subcrestal / STH >3mm equicrestal), 1yr post-loading | STH × placement depth | STH ≤3mm + equicrestal = **highest MBL**; thick STH (>3mm) or subcrestal placement compensated for thin-tissue deficit; STH identified as **independent MBL predictor** in PS implants |
 
 **Reading these together.** The biomechanical layer is now the best-supported: two independent FEA studies, different implant systems, different bone qualities, different load angles, same directional result. The corrosion layer is new, single-study, in vitro, and mechanistically appealing precisely because its effect scales with mismatch magnitude — the one dose-response signal anywhere in this cluster, though it is a *corrosion* dose-response, not a bone-loss one. The inflammatory layer — historically the headline explanation, repeated in every narrative review here — is the layer with the only direct human biomarker measurement, and that measurement does not confirm it. This does not mean PLS fails to preserve bone; the clinical data are clear enough. It means **the wiki should stop stating the microgap-inflammation mechanism as settled fact** and present it as the least-verified of the three proposed pathways.
 
 **The trade-off both FEA studies agree on.** Stress removed from crestal bone reappears on the prosthetic components. Neither study tested cyclic fatigue, screw loosening, or long-term component fracture, so the clinical significance is unknown — but it is a concrete, replicated prediction that this wiki holds no clinical data against. See Gaps.
+
+## OAOT Protocol — Abutment Reconnection Frequency as an Independent MBL Variable
+
+**[Added 2026-10-17, 4 papers]** The 22-paper synthesis above compares PS vs PM abutment *width*. A parallel question — how many times an abutment is disconnected and replaced after initial connection — is now addressed by four studies, with two SR+MA as the summary layer.
+
+[[implants/mbl/abayov-2026-one-abutment-one-time-versus]] is the highest-level synthesis: a PRISMA SR+MA of 7 RCTs (645 implants, 395 patients, 2020–2024) specifically in bone-level, platform-switched, conical-connection implants. Pooled random-effects analysis (6 parallel-group RCTs, 603 implants) favored one-abutment-one-time (OAOT) over repeated disconnections: MD −0.23 mm (95% CI −0.44 to −0.02), p<0.05, I²=77%. Probing depth did not differ significantly. Implant survival exceeded 94% in both groups across all included RCTs. [[implants/mbl/nunes-2025-final-prosthetic-abutment-insertion-time-oaot]] independently replicates the direction in a broader analysis (11 RCTs, 699 implants, all connection types), confirming OAOT's bone preservation advantage is not confined to conical-connection systems.
+
+The two best individual RCTs in this cluster give a sense of the range. [[implants/mbl/calatrava-2024-effect-one-time-placement-definitive-abutment]] (80 implants, 40 patients, Camlog ConelogScrew-Line, posterior jaw, 12 months) showed the largest clean signal: OAOT −0.13 mm vs repeated-disconnection −0.61 mm (Δ=0.48 mm, p=0.008). OAOT also yielded significantly greater keratinized tissue width and lower bleeding on probing — the only OAOT study in this wiki that reports soft-tissue co-benefits. [[implants/mbl/sanz-sanchez-2024-effect-one-time-abutment-placement-5year]] (60 implants, 30 patients, Ankylos C/X PS implants, posterior, 5 years) provides the only long-term anchor: OAOT DIB 0.53 mm vs 0.97 mm conventional (Δ=0.44 mm) at 5 years, p=0.063. The difference is numerically consistent across all time-points but fails significance at 5 years — either the effect attenuates over time, or the study was underpowered for long-term follow-up.
+
+**How OAOT relates to PS.** Both mechanisms act on the same IAJ biology but through different paths. PS shifts the IAJ *location* (horizontally inward) so it starts further from the crestal bone. OAOT reduces IAJ *disturbance frequency*: each disconnection disrupts the emerging periimplant seal, re-exposes the implant shoulder to the oral environment, and may reset the biologic-width remodeling cycle — a disruption PS's shifted IAJ reduces but does not eliminate. The Abayov 2026 meta-analysis includes only PS conical-connection implants, so the OAOT effect here is additive to the PS benefit, not an alternative to it. The optimal strategy, where the system allows it, is therefore PS + OAOT together.
+
+**Limits of this cluster.** The 0.23 mm pooled OAOT advantage is statistically significant but clinically modest — smaller than the 0.25–0.5 mm PS vs PM advantage across the older SR+MA cluster. I² was 77%, indicating substantial between-study heterogeneity that the meta-analysis could not fully explain. The 5-year NS result (Sanz-Sánchez 2024) introduces uncertainty about long-term durability. No study yet links the OAOT-prevented bone loss to reduced peri-implantitis incidence or implant failure.
+
+## STH × Placement Depth in Platform-Switched Implants
+
+**[Added 2026-10-17, 2 papers]** Schwarz 2013 (§ Mechanism table above) established the conceptual distinction between PS (horizontal offset) and microgap vertical positioning — but that consensus report was not an RCT and offered no STH-specific numbers. Two RCTs now provide primary data on what happens inside the PS implant family when tissue height and placement depth are varied.
+
+[[implants/mbl/terzioglu-2024-effect-supracrestal-tissue-height-marginal]] (60 implants, three groups: STH ≤3mm + equicrestal, STH ≤3mm + subcrestal, STH >3mm + equicrestal; 1-year post-loading radiographic follow-up) is the cleanest test. The key finding: STH ≤3mm + equicrestal placement produced the greatest MBL. Both alternative conditions — thick STH (>3mm) at equicrestal or thin STH with subcrestal compensation — yielded significantly less bone loss. STH emerged as an independent predictor in multivariable analysis. The practical implication: in thin-tissue sites, equicrestal placement alone (even with PS) does not re-establish adequate biological space; subcrestal positioning is needed to provide enough supracrestal soft tissue above the IAJ.
+
+[[implants/mbl/stacchi-2023-marginal-bone-changes-platform-switched-conical]] (51 patients, 102 PS conical-connection implants, crossover design; 1mm vs 2mm subcrestal; radiographic follow-up through 1 year post-loading) tests deeper subcrestal positioning within the PS family. MBL did not differ significantly between depths (0.46 ± 0.35 mm at 1mm vs 0.49 ± 0.32 mm at 2mm; p=0.66). However, implant surface exposure — the fraction of implant surface visible on radiograph above the crest — was 0% in the 2mm group vs 11.8% in the 1mm group at 1 year. History of periodontitis was independently associated with greater MBL across both groups.
+
+**Reading these together with the existing PS evidence.** Terzioglu 2024 adds a tissue-height threshold to the PS decision: PS alone is insufficient protection in thin-tissue sites placed equicrestally. Stacchi 2023 suggests that within the subcrestal range, going 2mm rather than 1mm does not further reduce bone loss but does provide better implant surface coverage — a relevant difference in esthetic zones or where implant surface contamination risk matters long-term. Both studies confine themselves to PS implants; neither provides a PM control arm, so these are *within-PS* optimization data, not PS-vs-PM comparisons.
 
 ## Clinical Decision Points
 
@@ -145,6 +183,8 @@ Platform switching is one of the more strongly convergent implant design questio
 6. **[Added 2026-08-15] Do not assume the removed bone stress disappeared** — both FEA studies here show it transfers to the implant, abutment, and abutment screw, worst under oblique loading. In high-load posterior sites, steep cusp inclines, or parafunction, treat component selection (abutment material, screw specification, retrievability) as part of the platform-switching decision rather than an unrelated choice. No clinical data in this wiki quantifies this risk — this is a precaution derived from replicated in-vitro prediction, not a demonstrated failure mode.
 7. **[Added 2026-08-15] Keep the vertical axis separate from the horizontal one** — Schwarz 2013's consensus concerns *where the microgap sits relative to the crest* (supracrestal machined collar showed less bone loss than subcrestal; a subcrestal microgap ≥1mm caused more remodeling but better rough-surface bone coverage). Platform switching is a horizontal-offset decision. The two interact but are separately decided, and evidence for one should not be cited for the other.
 8. **[Added 2026-08-15] Expect less benefit where the baseline design is already good** — Rossi 2015's null result came from an implant whose standard configuration already stabilized bone ~1mm below the shoulder. Meta-analytic averages pool across implant designs and cannot show this; the marginal gain from PS is plausibly smaller on already-optimized platforms.
+9. **[Added 2026-10-17] Use OAOT where the restorative protocol allows it** — OAOT reduces MBL by an additional ~0.23 mm in PS conical-connection implants (Abayov 2026 SR+MA, Calatrava 2024 strongest RCT). Place the final abutment at or immediately after second-stage surgery and avoid provisional-to-final exchanges. Where a provisional phase is unavoidable, minimize the number of abutment changes. The 5-year data (Sanz-Sánchez 2024) shows the effect is numerically persistent but failed significance — do not overstate long-term certainty.
+10. **[Added 2026-10-17] Thin STH (≤3 mm) at a PS implant site requires subcrestal placement** — equicrestal positioning alone does not re-establish adequate biological space in thin-tissue sites, even with PS (Terzioglu 2024). Measure STH pre-operatively. If STH ≤3mm, plan 1–2mm subcrestal placement. If STH >3mm, equicrestal is acceptable. In esthetic zones, 2mm subcrestal also reduces implant surface exposure regardless of STH (Stacchi 2023).
 
 ## Gaps & Future Research
 
@@ -157,6 +197,10 @@ Platform switching is one of the more strongly convergent implant design questio
 - The probing-depth trade-off signal (Juan-Montesinos 2022) rests on one meta-analysis with a non-significant primary estimate; needs independent replication before treating it as a real cost of PLS.
 - Mechanism is inferred from computational, corrosion, and radiographic evidence, not directly confirmed by histology in any paper this wiki holds; the corrosion pathway (Alrabeah 2016) is single-study and in vitro, and no study links measured ion release to measured bone loss in the same subjects.
 - Heterogeneous MBL magnitude reporting across meta-analyses (0.255 mm to ~0.5 mm difference) makes it hard to state a single "expected benefit" number for patient counseling; use ranges, not point estimates.
+- **[New 2026-10-17] OAOT at 5+ years**: Sanz-Sánchez 2024 is the only 5-year OAOT data point and it failed significance (p=0.063). Whether the OAOT benefit persists at long follow-up, or attenuates, cannot be determined from what the wiki now holds.
+- **[New 2026-10-17] OAOT + MBL beyond 12 months for PM implants**: The OAOT literature is currently confined to PS conical-connection implants. Whether OAOT provides the same bone preservation benefit in platform-matched implant systems is not tested by any paper this wiki holds (Nunes 2025 included all connection types but exact breakdown is not available from the abstract).
+- **[New 2026-10-17] STH threshold confirmation**: Terzioglu 2024 identifies ≤3mm as the thin-tissue cutoff, but this comes from a single 60-implant RCT. No power calculation-confirmed replication study exists in this wiki; the 3mm figure should be treated as a clinical guide, not a validated threshold.
+- **[Partially closed 2026-10-17] Stacchi 2023 closes part of the "1mm vs 2mm subcrestal" gap**: MBL is not different, but surface exposure is. The question of whether reduced surface exposure translates to lower long-term peri-implantitis incidence is not addressed by the 1-year data — it remains an open question.
 
 ## Related Papers
 
@@ -186,6 +230,15 @@ Platform switching is one of the more strongly convergent implant design questio
 - [[implants/mbl/chien-2016-effect-platform-switching-periimplant-crevicular]] — split-mouth crevicular-fluid cytokine study that **complicates the inflammatory mechanism**: broadly similar profiles, TNF-α ~3x higher in PS at week 1
 - [[implants/mbl/sahabi-2013-biomechanical-effects-platform-switching-two]] — primary FEA across two implant systems: lower crestal bone stress under PS, higher implant-abutment interface stress (below yield strength)
 - [[implants/mbl/yadav-2025-finite-element-analysis-platform-switching]] — primary FEA across D2/D3 bone under axial and 30° oblique loading: same directional finding, with explicit call for more durable abutment components under oblique function
+
+**[Added 2026-10-17, 6 papers]**
+
+- [[implants/mbl/stacchi-2023-marginal-bone-changes-platform-switched-conical]] — crossover RCT (102 PS conical implants, 1mm vs 2mm subcrestal): MBL NS between depths; 2mm → 0% surface exposure vs 11.8% for 1mm; periodontitis history = independent MBL predictor
+- [[implants/mbl/abayov-2026-one-abutment-one-time-versus]] — **SR+MA OAOT**: 7 RCTs, 645 implants in PS conical implants; OAOT MD −0.23mm (95% CI −0.44 to −0.02), p<0.05; I²=77%; survival >94% both groups
+- [[implants/mbl/calatrava-2024-effect-one-time-placement-definitive-abutment]] — OAOT RCT (12mo, Camlog PS): Δ=0.48mm (p=0.008); soft-tissue co-benefits (KT width, BOP); strongest individual OAOT signal
+- [[implants/mbl/sanz-sanchez-2024-effect-one-time-abutment-placement-5year]] — OAOT RCT 5-year (Ankylos PS): Δ=0.44mm DIB (p=0.063 NS); longest OAOT follow-up; anchors Abayov 2026 pool
+- [[implants/mbl/nunes-2025-final-prosthetic-abutment-insertion-time-oaot]] — independent OAOT SR+MA (11 RCTs, 699 implants, all connection types): confirms OAOT direction, broader scope than Abayov 2026
+- [[implants/mbl/terzioglu-2024-effect-supracrestal-tissue-height-marginal]] — STH × placement depth RCT (60 implants, 3 groups): STH ≤3mm + equicrestal = worst MBL; subcrestal or thick STH compensates; STH as independent MBL predictor in PS implants
 
 ## Related Overviews
 
