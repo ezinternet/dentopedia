@@ -2,9 +2,10 @@
 title: "Overview: Early Implant Failure (before prosthetic loading) — Risk Factors & Prevention"
 type: synthesis
 category: overviews
-date: 2026-06-22
+date: 2026-10-17
 evidence_level: synthesis
 source_papers:
+  - wiki/implants/survival/fouda-2020-impact-alveolar-bone-sites.md
   - wiki/implants/survival/yari-2023-risk-factors-early-implant-failure.md
   - wiki/implants/full-arch/uesugi-2024-risk-factors-early-failure-all-on-four.md
   - wiki/drug/antibiotics/momand-2024-antibiotic-prophylaxis-early-implant-failure.md
@@ -21,6 +22,16 @@ source_papers:
   - wiki/immediate-implant/yang-2026-immediate-dental-implants-insights-into.md
   - wiki/implants/survival/guarnieri-2025-analysis-risk-factors-related-early.md
   - wiki/implants/survival/de-bruyn-2025-survival-bone-remodeling-hybrid-surface.md
+  - wiki/implants/survival/krisam-2019-factors-affecting-the-early-failure.md
+  - wiki/implants/survival/chrcanovic-2016-factors-influencing-early-dental-implant.md
+  - wiki/implants/survival/borba-2017-risk-factors-for-implant-failure.md
+  - wiki/implants/survival/grisar-2017-retrospective-analysis-of-dental-implants.md
+  - wiki/implants/survival/van-steenberghe-2002-relative-impact-local-endogenous-patient.md
+  - wiki/implants/survival/antoun-2017-retrospective-study-1592-consecutively-performed.md
+  - wiki/implants/short-narrow/olate-2010-influence-of-diameter-and-length.md
+  - wiki/implants/short-narrow/pommer-2011-impact-of-dental-implant-length.md
+  - wiki/sinus-lift/transcrestal/shi-2016-survival-of-implants-using-the.md
+  - wiki/implants/survival/manzano-2016-risk-factors-in-early-implant.md
 tags: [early-implant-failure, risk-factors, osseointegration, smoking, immediate-loading, antibiotic-prophylaxis, bone-quality, maxilla, antihypertensive, hypertension, medication-compliance]
 ---
 
@@ -33,7 +44,8 @@ tags: [early-implant-failure, risk-factors, osseointegration, smoking, immediate
 > - **흡연 × 치유 프로토콜 상호작용은 근거 없음**: Yang은 흡연을 수집하지 않았고, Guarnieri·De Bruyn 2025(101개, 매몰군 없음; 흡연자 3/10 vs 비흡연자 3/91 실패, 사건 3건) 모두 흡연자를 프로토콜별로 나누거나 상호작용을 검정하지 않았다. "흡연자는 매몰이 유리/불리"는 위키 근거로 말할 수 없다 — 직접 단서(Schwartz-Arad 2002, 흡연자 커버스크류 노출 46% vs 31%)는 PMC가 없어 미인제스트.
 > - **기전 근거 (Shibli 2024, 인체 조직학)**: 8주 비부하 치유 미니임플란트에서 흡연자의 골-임플란트 접촉률(BIC)이 약 50% 낮고(p<0.05) 신생골이 감소했다 — 골유착 자체가 늦다는 직접 관찰이다. 니코틴 혈관 수축·일산화탄소 저산소 등은 그 논문이 다른 문헌에서 외삽한 것이며, 한 연구 그룹의 소규모 자료라 임상 조기 실패로의 환산은 불가.
 > - **전신 인자**: 당뇨 상대위험 (Relative Risk, RR) 2.75·두경부 방사선 RR 2.73 (Moy); 골다공증은 경향(Uesugi p=0.051).
-> - **해부·골질 인자**: 후방 상악 (posterior maxilla)·4형 골 (type IV bone)이 반복 검출 — Yari OR 2.96/2.88, Uesugi 상악 OR 3.12.
+> - **부위별 절대 조기 임플란트 실패율 (Fouda 2020 SR+MA, 78,230개)**: 전방 상악 (anterior maxilla) **6.2%** (최고) > 후방 하악 (posterior mandible) ~4.2% > 후방 상악 (posterior maxilla) ~1.9% > 전방 하악 (anterior mandible) **2.5%** (최저). **핵심**: 후방 상악 vs 후방 하악은 유의차 없음 (RR 1.07, p=0.68) — 상악·하악 격차는 전방 상악이 전부 만들어낸다. "하악은 안전하다"는 단순화는 후방 하악의 실제 위험(~4.2%)을 가린다.
+> - **해부·골질 인자**: 후방 상악 (posterior maxilla)·4형 골 (type IV bone)이 반복 검출 — Yari OR 2.96/2.88, Uesugi 상악 OR 3.12. 절대율은 Fouda 2020: 전방 상악 6.2%, 전방 하악 2.5%.
 > - **부위 이력 인자**: 치주문제로 발치한 부위 (OR 2.53)·기존 골증대 부위 (OR 2.24)·부비동 증대 후 (Bonsmann nested case-control).
 > - **술식 인자**: 즉시 잠정보철/즉시로딩 (immediate provisional) — Yari에서 가장 강한 단일 예측인자 (OR 3.42); all-on-four 고위험 시나리오.
 > - **예방 — 항생제는 거의 무효**: 위약대조 이중맹검 RCT만 모은 SR+MA(Momand)에서 술전 항생제 예방이 EIF를 유의하게 못 줄임 — RR 0.66 (비유의), 치료필요수 (Number Needed to Treat, NNT) 143, GRADE 중간. 단 즉시 발치와 식립만은 예외 신호.
@@ -78,6 +90,17 @@ EIF is mechanistically distinct from late failure: it reflects a **failure to ac
 | [[immediate-implant/yang-2026-immediate-dental-implants-insights-into]] | Retrospective single-centre cohort (Xiamen, immediate implants) | 781 pts / 1,513 implants (50 early, 36 late failures) | Early failure HR: male 2.48, sinus elevation 2.49, maxillary anterior 3.15, maxillary posterior 2.75; **submerged healing HR 0.53 (0.30–0.95)**; smoking not collected | retrospective |
 | [[implants/survival/guarnieri-2025-analysis-risk-factors-related-early]] | Retrospective single-practice cohort (GEE) | 392 pts / 930 implants | Early failure 5.8%; smoking, non-submerged (tissue-level) healing, posterior maxilla (OR 2.26, 1.32–3.86), male (OR 1.54) significant; smoking and non-submerged ORs only in tables (not retrieved); no smoking × healing interaction | retrospective |
 | [[implants/survival/de-bruyn-2025-survival-bone-remodeling-hybrid-surface]] | Retrospective single-operator cohort | 101 implants, all one-stage with healing abutment | Pre-loading failure 6 (5.9%): smokers 3/10 vs non-smokers 3/91; flapless 96.4% / flap 93.9% / immediate 91.7% (NS); no submerged arm, no stratification | retrospective |
+| [[implants/survival/chrcanovic-2016-factors-influencing-early-dental-implant]] | Retrospective specialist-clinic cohort (34 y, logistic + GEE) | 10,096 implants / 2,670 pts (176 early failures) | EIF to abutment connection 1.74% (pt 5.21%); MV smoking OR 3.27 (pt) / 2.12 (implant); antidepressants OR 2.44 (pt) | retrospective |
+| [[implants/survival/manzano-2016-risk-factors-in-early-implant]] | SR+MA (9 studies; abstract only) | 18,171 implants | Smoking OR 1.7 (1.3–2.3), length <10 mm OR 1.6 (1.2–2.2), maxilla OR 1.3 (1.0–1.6) | sr+ma |
+| [[implants/survival/grisar-2017-retrospective-analysis-of-dental-implants]] | Retrospective university-hospital cohort (abstract only) | 1,139 implants / 509 pts | EIF 4.6% (pt 6.5%); smoking, male sex, edentulism, diameter, augmentation associated | retrospective |
+| [[implants/survival/antoun-2017-retrospective-study-1592-consecutively-performed]] | Retrospective private referral clinic (abstract only) | 3,082 implants / 1,017 pts | Early inflammation 2.1% of operations; smoking and surgeon experience associated with early failure | retrospective |
+| [[implants/survival/borba-2017-risk-factors-for-implant-failure]] | Retrospective teaching clinic (GEE) | 774 implants / 202 pts | EIF 2.84% (pre-provisional); maxilla significant, augmentation trend (P=0.054) | retrospective |
+| [[implants/survival/van-steenberghe-2002-relative-impact-local-endogenous-patient]] | Consecutive cohort, machined Brånemark (abstract only) | 1,263 implants / 399 pts | Success to abutment stage 97.8%; heavy smoking, chemo + poor bone, radiotherapy, asepsis breach | retrospective |
+| [[implants/short-narrow/olate-2010-influence-of-diameter-and-length]] | Retrospective, submerged implants (abstract only) | 1,649 implants / 650 pts | Early loss short 9.9% vs medium 3.0% / long 3.4%; diameter and bone quality NS | retrospective |
+| [[implants/short-narrow/pommer-2011-impact-of-dental-implant-length]] | MA of 54 prospective observational studies (abstract only) | 19,083 implants | No length effect in mandible; short machined implants in maxilla OR 5.4 (ant) / 3.4 (post) | sr+ma |
+| [[sinus-lift/transcrestal/shi-2016-survival-of-implants-using-the]] | SR, osteotome sinus elevation (abstract only) | 3,119 implants / 34 studies | 84/102 failures within 1 y of loading; graft 95.89% vs nongraft 97.30% survival | sr |
+| [[implants/survival/fouda-2020-impact-alveolar-bone-sites]] | SR+MA (21 studies) | 78,230 implants (39,468 maxilla; 38,762 mandible) | Absolute EIF by quadrant: ant. maxilla **6.2%**, ant. mandible **2.5%** (RR 2.44, p<0.00001); **post. maxilla vs post. mandible NS** (1.9% vs 1.46%, RR 1.07, p=0.68); post. mandible ~4.2% > post. maxilla ~1.9% within mandible; overall maxilla 3.14% vs mandible 1.96%, RR 1.41 (I²=58%) | sr+ma |
+| [[implants/survival/krisam-2019-factors-affecting-the-early-failure]] | Retrospective single-practice cohort (Germany, mixed models) | 186 implants / 106 pts (9 failures) | Early failure 4.8% (pre-final-prosthesis); augmentation OR 5.5 (1.4–21.7), length <10 mm OR 5.8 (1.3–26.4); all failures posterior, 8/9 maxilla; smoking NS (OR 1.7, underpowered). Source of the oft-quoted "2–6%" EIF range (intro background, refs 10–18) | retrospective |
 | [[implants/survival/bonsmann-2025-risk-factors-early-implant-failure-sinus-nested]] | Nested case-control (8 centers) | 129 cases / 273 controls | Risk factors for ≤12-mo failure after sinus augmentation | retrospective |
 | [[implants/survival/moy-2005-dental-implant-failure-rates-risk]] | Cohort (21 y) | 4680 implants | Diabetes RR 2.75, head/neck radiation RR 2.73, smoking RR 1.56; lowest failure anterior mandible (2.89%) | retrospective |
 | [[drug/systemic-disease/masri-2024-early-implant-failure-antihypertensive-medications]] | Retrospective cohort | 792 pts / 2,971 implants | HTN+medication EIF 2.29% vs NT 4.33% (p=.01); HTN-unmedicated worst (6.25% implant-level, 28.60% patient-level); OR 0.618 | retrospective |
@@ -86,7 +109,7 @@ EIF is mechanistically distinct from late failure: it reflects a **failure to ac
 ## Clinical Decision Points
 
 1. **Host optimization first.** Smoking is the most consistent *modifiable* driver (Fan OR 2.59; dose-dependent in Naseri; survives adjustment in Yari/Uesugi and, in abstract-level data, Zhang 2025 OR 2.148) — but not in every cohort: Wåhlberg 2025 found smoking non-significant for early *failure* (OR 1.61, 0.88–2.94) and significant only for early *complications* (OR 2.30). Counsel smokers on complication risk as well as failure. Smoking-cessation counseling and glycemic control (diabetes RR 2.75, Moy) precede surgical decisions.
-2. **Site/bone-aware planning.** Posterior maxilla and type IV bone repeatedly elevate EIF (Yari OR ~2.9-3.0; Uesugi maxilla OR 3.12). In low-density bone, favor protocols that protect primary stability and defer loading.
+2. **Site/bone-aware planning.** Posterior maxilla and type IV bone repeatedly elevate EIF (Yari OR ~2.9-3.0; Uesugi maxilla OR 3.12). Absolute rates by quadrant (Fouda 2020 SR+MA, 78,230 implants): **anterior maxilla 6.2%** (highest), posterior mandible ~4.2%, posterior maxilla ~1.9%, **anterior mandible 2.5%** (lowest). Key nuance: posterior maxilla vs posterior mandible is NOT significantly different (RR 1.07, p=0.68) — the maxilla–mandible gap is driven entirely by the anterior maxilla. Do not assume posterior mandible is "safe." In low-density bone, favor protocols that protect primary stability and defer loading.
 3. **Loading protocol is a choice, not a constant.** Immediate provisional/loading was the strongest single predictor in Yari (OR 3.42) and frames the high-risk all-on-four scenario (Uesugi). Reserve immediate loading for favorable host/bone/torque profiles.
 4. **Compromised/grafted sites carry extra risk.** Periodontal-extraction sites, previously augmented bone, and sinus-augmented sites raise EIF (Yari; Bonsmann) — informed consent and staging matter.
 5. **Do NOT default to antibiotic prophylaxis for prevention.** In healthy patients undergoing uncomplicated surgery, routine prophylaxis does not meaningfully reduce EIF (Momand NNT 143); reserve antibiotics for immediate post-extraction/infected sockets, where the signal exists and it is better framed as treatment.
@@ -100,12 +123,13 @@ EIF is mechanistically distinct from late failure: it reflects a **failure to ac
 - **Smoking's effect on EIF is not uniform across datasets**: pooled OR 2.59 (Fan) and cohort ORs 1.84–2.92 (Yari, Uesugi, Zhang) vs non-significant OR 1.61 (Wåhlberg, 63 failure patients). No held paper explains the gap; differences in early-failure definition (Wåhlberg: any event within the first year), covariates and event counts are candidate explanations, not established ones.
 - **Protocol × host interactions are untested**: healing mode (submerged/non-submerged), flap design and immediate provisionalization are analysed as main effects in retrospective cohorts (Yang, Guarnieri, De Bruyn, Yari), never as modifiers of smoking. A prospective or stratified analysis with smoking status recorded is missing.
 - **Mechanism is thin**: the only human-tissue evidence is Shibli 2024 (one group, micro-implants, 8 weeks, no survival outcome); the vasoconstriction/hypoxia pathway is extrapolated. Cessation-timing evidence for implants is not held beyond Caggiano 2022 (see [[overviews/smoking-tobacco-periodontal-implant-overview]]).
-- Definition of "early failure" is inconsistent (before abutment vs before loading vs within 1 year of loading) — harmonization needed for pooling.
+- Definition of "early failure" is inconsistent (before abutment vs before loading vs within 1 year of loading) — harmonization needed for pooling. The widely quoted "2–6% of implants" EIF range (e.g., Krisam 2019 introduction) is itself a span across such heterogeneous definitions and populations, not a pooled estimate.
 - Immediate-socket/grafted scenarios are exactly where prophylaxis *might* help but are under-powered in current RCTs.
 - Photofunctionalisation and other surface/host adjuncts (e.g., vitamin D status — see [[overviews/vitamin-d-osseointegration-implant-overview]]) need adequately powered trials with EIF as a primary endpoint.
 
 ## Related Papers
 
+- [[implants/survival/fouda-2020-impact-alveolar-bone-sites]] — site-specific absolute EIF rates SR+MA (78,230 implants; anterior maxilla 6.2% highest, anterior mandible 2.5% lowest; posterior maxilla vs posterior mandible NS)
 - [[implants/survival/yari-2023-risk-factors-early-implant-failure]] — general-placement multivariable risk model (anchor)
 - [[implants/full-arch/uesugi-2024-risk-factors-early-failure-all-on-four]] — immediate-loading full-arch cohort
 - [[drug/antibiotics/momand-2024-antibiotic-prophylaxis-early-implant-failure]] — prevention (antibiotic prophylaxis null result)
@@ -119,6 +143,16 @@ EIF is mechanistically distinct from late failure: it reflects a **failure to ac
 - [[immediate-implant/yang-2026-immediate-dental-implants-insights-into]] — immediate-implant cohort: submerged healing HR 0.53 for early failure (confounded by torque-based selection; smoking not collected)
 - [[implants/survival/guarnieri-2025-analysis-risk-factors-related-early]] — single-practice GEE cohort: smoking and non-submerged healing among seven early-failure factors
 - [[implants/survival/de-bruyn-2025-survival-bone-remodeling-hybrid-surface]] — small one-stage cohort: smokers 3/10 vs 3/91 pre-loading failures
+- [[implants/survival/krisam-2019-factors-affecting-the-early-failure]] — general-practice cohort: EIF 4.8%; augmentation and <10 mm implants ~5–6× odds; cited source of the 2–6% EIF benchmark (background statement)
+- [[implants/survival/chrcanovic-2016-factors-influencing-early-dental-implant]] — large specialist-clinic cohort: EIF 1.74%; smoking and antidepressants (Krisam ref 10)
+- [[implants/survival/manzano-2016-risk-factors-in-early-implant]] — pooled EIF risk factors: smoking, <10 mm, maxilla (Krisam ref 18)
+- [[implants/survival/grisar-2017-retrospective-analysis-of-dental-implants]] — university-hospital cohort: EIF 4.6% (Krisam ref 11)
+- [[implants/survival/antoun-2017-retrospective-study-1592-consecutively-performed]] — private referral clinic: early inflammation and failures (Krisam ref 13)
+- [[implants/survival/borba-2017-risk-factors-for-implant-failure]] — teaching-clinic GEE cohort: EIF 2.84%, maxilla risk (Krisam ref 15)
+- [[implants/survival/van-steenberghe-2002-relative-impact-local-endogenous-patient]] — machined Brånemark cohort: 2.2% failure to abutment stage (Krisam ref 12)
+- [[implants/short-narrow/olate-2010-influence-of-diameter-and-length]] — short implants and early loss (Krisam ref 14)
+- [[implants/short-narrow/pommer-2011-impact-of-dental-implant-length]] — length effect by jaw and surface (Krisam ref 16)
+- [[sinus-lift/transcrestal/shi-2016-survival-of-implants-using-the]] — osteotome sinus elevation: failures cluster in year 1 (Krisam ref 17)
 - [[implants/survival/moy-2005-dental-implant-failure-rates-risk]] — classic long-term risk-factor cohort
 - [[drug/systemic-disease/masri-2024-early-implant-failure-antihypertensive-medications]] — antihypertensive medication as host-factor: EIF 2.29% vs NT 4.33%; unmedicated HTN worst (28.6%)
 - [[drug/systemic-disease/chidiac-2026-antihypertensive-antihyperlipidemic-antidepressant-implant-survival]] — 10yr KM: AHT HR 0.23 protective; statin HR 0.16; SSRI HR 2.17 harmful
