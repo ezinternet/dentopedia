@@ -172,6 +172,13 @@ tags: []
 - [[implants/norton-2017-low-insertion-torque-primary-stability]] — prospective (n=30, IT≤20 Ncm): 100% 생존, ISQ 67→80 (3개월), 스피너 3개 전원 골융합 — 저토크 단독으로 실패 예측 불가 (2017)
 - [[implants/survival/cobo-vazquez-2018-effect-lack-primary-stability-survival]] — 코호트(2,400개 중 초기고정 부재 92개, 일반식립, ≥12개월): 상실 3/92(3.26%) 전부 유리회전 C군(7.89%), 안정성 등급 p=0.149·나이 p=0.658·브랜드 p=0.09 모두 NS — 초기고정 부재는 통계적 실패 예측인자 아님, 완전 유리회전(C)만 조기상실 경향 (DOI 10.4317/jced.54441, PMC full text)
 - [[implants/survival/galen-2025-implants-without-primary-stability-private-practice]] — Galen 2025 · retrospective · 민간병원에서 초기고정 없는(IT <10 N·cm 또는 수술 중 회전) 임플란트 97개(Neodent/Biotem/MegaGen 3시스템, 63명): 전체 성공률 95.9%(93/97, p=0.91 시스템 간 무차), 즉시식립 100%(23/23) vs 지연식립 94.6%(70/74), 실패 4건 전부 지연식립·후방부·≤4주, ISQ 모니터링 없는 후향 단일술자 (DOI 10.31661/gmj.v14iSP1.4114)
+- [[implants/survival/krisam-2019-factors-affecting-the-early-failure]] — Krisam 2019 · retrospective (독일 단일 개원, 임플란트 186개/환자 106명): 최종 보철 전 조기 실패 4.8%(9개); 골증대 OR 5.5 (1.4–21.7)·10 mm 미만 OR 5.8 (1.3–26.4); 실패 전부 구치부·8/9 상악; 흡연·당뇨 NS. 서론의 "조기 실패 2–6%"는 참고문헌 10–18의 배경 서술 (DOI 10.1186/s12903-019-0900-8)
+- [[implants/survival/chrcanovic-2016-factors-influencing-early-dental-implant]] — Chrcanovic 2016 · retrospective (스웨덴 전문 클리닉 1980–2014, 임플란트 10,096개): 2차 수술 전 조기 실패 1.74%(환자 5.21%); 다변량 흡연 OR 3.27(환자)·2.12(임플란트 GEE), 항우울제 OR 2.44 (DOI 10.1177/0022034516646098)
+- [[implants/survival/borba-2017-risk-factors-for-implant-failure]] — Borba 2017 · retrospective (브라질 대학원 진료실, 임플란트 774개/환자 202명): 조기 실패 2.84%; GEE 상악 유의(P=0.014), 골증대 경향(P=0.054) (DOI 10.1590/1807-3107bor-2017.vol31.0069)
+- [[implants/survival/grisar-2017-retrospective-analysis-of-dental-implants]] — Grisar 2017 · retrospective (벨기에 루벤 대학병원, 임플란트 1,139개): 조기 실패 4.6%(환자 6.5%); 흡연·남성·무치악·직경·골증대 관련 (초록만) (DOI 10.11607/jomi.5332)
+- [[implants/survival/van-steenberghe-2002-relative-impact-local-endogenous-patient]] — van Steenberghe 2002 · retrospective (루벤 치주과, 브로네마르크 1,263개): 2차 수술까지 성공 97.8%; 다량 흡연·항암+불량 골질·방사선·골량 부족·무균 위반 (초록만) (DOI 10.1034/j.1600-0501.2002.130607.x)
+- [[implants/survival/antoun-2017-retrospective-study-1592-consecutively-performed]] — Antoun 2017 · retrospective (민간 의뢰 클리닉 1곳, 수술 1,592건/임플란트 3,082개): 조기 염증 2.1%(치주염 병력 OR 3.91, 2회법 3.70, 하악 4.73); 조기 실패는 흡연·술자 경험과 관련 (초록만) (DOI 10.1111/cid.12477)
+- [[implants/survival/manzano-2016-risk-factors-in-early-implant]] — Manzano 2016 · sr+ma (9편, 임플란트 18,171개): 조기 실패 위험인자 흡연 OR 1.7·10 mm 미만 1.6·상악 1.3 (초록만) (DOI 10.1097/id.0000000000000386)
 - [[implants/survival/james-2024-success-rates-of-dental-implants]] — 당뇨 임플란트 성공률 고찰(4편 SR/MA 종합, PRISMA): HbA1c <8% 조절 양호 시 생존율 비당뇨와 동등(1년 96.1–97.3%, 5년 87.3–96.1%, RR 1.00), 조절 불량(>8%)은 변연골소실·탐침깊이 용량-반응적 악화 — 당뇨는 금기 아님, HbA1c <8% 유지 권고 (DOI 10.1016/j.cureus.76361)
 - [[implants/casalino-2026-influence-immediate-versus-delayed-loading]] — Casalino 2026 · in-vitro FEA+mechanobiology (나사형 vs 다공성 64.26% 임플란트, IL/DL): 즉시부하에서 다공성 임플란트가 피질골 응력 88→32.5 MPa(63%↓)·가골 자극 ~2.5→20.5~31.6 MPa로 증대, P-H 자극 예측상 미성숙·성숙골 84.8%(vs 46.7%)·연골 14.5%(vs 50.4%) → 즉시부하 초기 치유·응력 차폐 감소에 유리 (DOI 10.3390/ma19081607)
 - [[implants/survival/alrowis-2025-factors-affecting-dental-implant-failure-retrospective]] — 후향적 환자대조연구 (King Saud대, 사우디; 2017–2022 적출 실패 임플란트 132개): 적출 사유 골유착 부족 36.4%·초기고정(일차안정성) 부재 22.4% 2위·주변임플란트염(Peri-implantitis) 14.0%; 생존의 유의 예측인자는 임플란트 유형(p=0.004)·보철 유형(p=0.001, OD 3.44배·크라운 2.42배 실패 위험↑); 성별(p=0.001)·전신질환·흡연(p=0.004)이 실패 기전과 연관, 실패 환자의 63.6%가 정기관리(메인터넌스) 미이행 (DOI 10.3390/healthcare13121356)
@@ -4170,6 +4177,7 @@ tags: []
 - [[post-and-core/lane-2024-survival-success-rates-endodontically-treated]] — Lane 2024 · sr(11편, narrative-only) · 근관치료 구치 수복: 전장관 vs 교두피개 온레이 생존/성공률 비교 — 온레이가 단기~중기 유리(치질보존+유사 생존율); 3/11편 비뚤림 위험 심각 (DOI 10.1922/EJPRD_2547Lane11)
 
 ## 임플란트·약물 — 조기 임플란트 실패 (Early Implant Failure, 보철 로딩 전) surveillance batch (added 2026-06-22)
+- [[implants/survival/fouda-2020-impact-alveolar-bone-sites]] — Fouda 2020 · sr+ma(21편, 78,230개) · 사분면별 절대 조기 임플란트 실패 (Early Implant Failure, EIF)율: 전방상악 6.2% 최고, 전방하악 2.5% 최저; 후방상악 vs 후방하악 유의차 없음(RR 1.07, p=0.68); 상악 전체 3.14% vs 하악 1.96%(RR 1.41, p<0.0001) (DOI 10.5125/jkaoms.2020.46.3.162)
 - [[implants/survival/yari-2023-risk-factors-early-implant-failure]] — Yari 2023 · retrospective(임플란트 1323개/환자 738명, 조기실패 53건) · 보철 로딩 전 조기 실패 다변량 위험인자: 즉시잠정보철 OR 3.42·후방상악 2.96·4형골 2.88·치주발치부위 2.53·증대부위 2.24·흡연 1.84 (abstract-only) (DOI 10.1016/j.jormas.2023.101749)
 - [[implants/full-arch/uesugi-2024-risk-factors-early-failure-all-on-four]] — Uesugi 2024 · retrospective(환자 561명/임플란트 2364개, all-on-four 즉시로딩) · 1년 생존 상악 98.9% vs 하악 99.6%; 다변량 위험인자 상악 OR 3.12·흡연 2.92, 광기능화 OR 0.51(NS) (DOI 10.3390/bioengineering11030223)
 - [[drug/antibiotics/momand-2024-antibiotic-prophylaxis-early-implant-failure]] — Momand 2024 · sr+ma(위약대조 이중맹검 RCT 7편, 환자 1859명/임플란트 3014개) · 술전 항생제 예방이 조기 실패 못 줄임 RR 0.66(NS)·NNT 143·GRADE 중간 — 통상 예방 근거 부족 (DOI 10.1186/s12903-024-04611-0)
@@ -4640,6 +4648,8 @@ tags: []
 
 ### implants/short-narrow
 - [[implants/short-narrow/lombardo-2022-short-ultrashort-implants-internal-sinus-lift]] — 5-year retrospective: short/ultra-short implants with simultaneous internal sinus lift in atrophic maxilla (2022)
+- [[implants/short-narrow/olate-2010-influence-of-diameter-and-length]] — Olate 2010 · retrospective (임플란트 1,649개): 조기 생존 96.2%; 짧은(6–9 mm) 조기 실패 9.9% vs 중간 3.0%·긴 3.4%; 직경·골질 무관 (초록만) (DOI 10.1016/j.joms.2009.10.002)
+- [[implants/short-narrow/pommer-2011-impact-of-dental-implant-length]] — Pommer 2011 · sr+ma (54편, 임플란트 19,083개): 하악은 길이 영향 없음; 상악 기계가공 짧은 임플란트 실패 전치부 OR 5.4·구치부 3.4 (초록만) (DOI 10.1111/j.1600-051x.2011.01750.x)
 
 ### implants
 - [[implants/cunha-2008-implant-location-mandibular-rpd-fea]] — FEA: implant location in mandibular distal-extension RPD affects stress distribution and displacement (2008)
@@ -4846,6 +4856,7 @@ tags: []
 - [[sinus-lift/transcrestal/yan-2015-implant-apex-sinus-floor-resonance-frequency-fea]] — FEA 10모델 (골 높이·피질골 두께 변화): 쌍겹질→치조정 응력 경감+축방향 RF 선형 증가; 협설 RF(=ISQ 방향)는 무반응 — ISQ 과소평가 기전 설명
 - [[sinus-lift/transcrestal/moriwaki-2016-implant-length-diameter-bicortical-anchorage-sinus-augmentation-fea]] — FEA 골 형태 A·C: 골 형태 C에서 5 mm × 6 mm 쌍겹질 << 4 mm × 13 mm + 상악동 거상; 직경 증가가 핵심 공변수
 - [[sinus-lift/transcrestal/seker-2014-bicortical-short-graft-long-tilted-fpd-fea-posterior-maxilla]] — FEA CT 기반 FPD 3시나리오: 쌍겹질 단기 219.63 MPa(최저) vs 45° 경사 499.50 MPa(최고); 이식재 응력흡수 불량(0.049 MPa)
+- [[sinus-lift/transcrestal/shi-2016-survival-of-implants-using-the]] — Shi 2016 · sr (34편, 임플란트 3,119개): 오스테오톰 거상 누적 생존 무이식 97.30% vs 이식 95.89%; 실패 102개 중 84개가 부하 1년 내; 8 mm 미만·이식군 RBH<5 mm 불량 (초록만) (DOI 10.11607/jomi.4321)
 
 ### implants/isq
 - [[implants/isq/venkatesh-2026-three-osteotomy-techniques-posterior-rct]] — Venkatesh 2026 · rct (30명, 후방 상악) · conventional vs Summers' osteotome vs OD ISQ — NS 유의차; 수치적 OD≥conventional>osteotome; 전군 100% 생존 (DOI 10.1186/s12903-026-08858-7)
