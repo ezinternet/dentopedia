@@ -4735,6 +4735,10 @@ tags: []
 - [[implants/mbl/nunes-2025-final-prosthetic-abutment-insertion-time-oaot]] — Nunes 2025 · sr+ma(11 RCT, 699개) · OAOT vs 반복탈착: MBL 유의 감소(exact MD pending); Abayov 2026과 독립적 분석, 넓은 포함 기준에서 방향 재확인 [abstract-only]
 - [[implants/mbl/terzioglu-2024-effect-supracrestal-tissue-height-marginal]] — Terzioglu 2024 · rct(60개) · STH ≤3mm+치조정 식립=최대 MBL; 두꺼운 STH 또는 하방 식립이 보상; STH가 PS 임플란트 MBL 독립 예측인자 [abstract-only]
 - [[implants/mbl/sun-2023-clinical-radiographic-results-crestal-subcrestal]] — Sun 2023 · rct(split-mouth, 25명/50개, 3년) · 1mm 하방 vs 치조정: MBL 1년 0.24 vs 0.41mm(p<0.001), 3년 0.29 vs 0.48mm(p<0.001); 연조직 차이 없음 [abstract-only]
+- [[implants/mbl/atieh-2023-emergence-angle-contour-marginal-bone-loss-sr-ma]] — Atieh 2023 · sr+ma(4편, 912개, 최대 10.9년) · 출현각도 >30° vs ≤30°: 전체 MBL 차이 NS(MD 0.80mm); 볼록 윤곽 → 임플란트주위염 RR 2.32(p=0.02) [abstract-only]
+- [[implants/mbl/liu-2025-abutment-shape-marginal-bone-loss-crestal-bone-remodeling]] — Liu 2025 · sr+ma of RCT(7편, 283개) · 볼록 vs 오목 어버트먼트: 전체 MBL 차이 NS; EA>30° 서브그룹 MBL +0.190mm(p<0.001); 볼록→CBR +0.560mm(p=0.001) [abstract-only]
+- [[implants/mbl/vamos-2024-nicotine-containing-products-peri-implant-network-ma]] — Vámos 2024 · network sr+ma(32편) · CS +1.34mm, WP +1.58mm, ST +2.53mm, EC +0.52mm(NS) MBL vs 비흡연; 위험 순서 ST>WP>CS>EC>NS [abstract-only]
+- [[implants/mbl/bangiev-2025-smoking-ecigarette-peri-implant-outcomes-sr-ma]] — Bangiev 2025 · sr+ma · CS +2.16mm, WP +1.90mm, EC +0.83mm MBL vs 비흡연; BOP 역설적 감소(혈관수축); 전자담배도 유의한 MBL 위험 [abstract-only]
 
 ## Batch ingest (added 2026-08-15) — DeepSeek 하이브리드 인제스트 (15편 신규: 감염관리·구강점막염·구강미생물·치주·우식·구강외과)
 
