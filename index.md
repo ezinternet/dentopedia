@@ -4728,6 +4728,13 @@ tags: []
 - [[implants/mbl/al-zahrani-2018-stability-bone-loss-submerged-nonsubmerged-diabetic]] — Al Zahrani 2018 · prospective(submerged vs non-submerged × T2DM vs NT2DM, 35명/118개, 7년) · 비매몰형에서 T2DM 환자 PIBL이 2·3·7년 전 시점 유의하게 높음(p<0.05); ISQ 프로토콜 간 차이 없음 — "당뇨 환자 예외 신호": 전반적 NS 결론에 대한 당뇨 층화 반증 (Brazilian Oral Research)
 - [[implants/mbl/scognamiglio-2026-influence-implant-type-clinical-radiologic]] — Scognamiglio 2026 · retrospective(사설 의원 TL 73 vs BLX 73, 87명, 3년) · TL 생존율 100% vs BLX 98%; TL 3년 근심골 우위 Δ=0.21mm(p=0.041); BLX 원심 골소실 0.15mm(p=0.038); 합병증 전부 BLX 군; KM>2mm BLX 보호 — IAJ 위치 가설의 BLX 특이적 사설의원 근거 (Clin Exp Dent Res 2026)
 - [[implants/mbl/munoz-2025-long-term-impact-abutment-height-marginal]] — Muñoz 2025 · rct(7년, 37명/63개, 1mm vs 3mm 지대주, 하방 1.5mm 식립) · 3mm 군에서 7년 총 MBL 유의 감소(근심 -0.27 vs -0.42mm p<0.001; 원심 p<0.001); 임플란트주위염 기술적 감소(3.2% vs 18.2%, p=0.158 NS); KM<2mm 양군 질환 위험 증가 — TL IAJ 위치 가설의 최장기 RCT 기전 증거 (J Clin Periodontol)
+- [[implants/mbl/abayov-2026-one-abutment-one-time-versus]] — Abayov 2026 · sr+ma(7 RCT, 645개, 2020–2024) · OAOT vs 반복 탈착: MBL MD −0.23mm(95%CI −0.44~−0.02, I²=77%); PD 차이 없음; PS+원뿔 연결 임플란트 한정 분석 [PMC full text]
+- [[implants/mbl/stacchi-2023-marginal-bone-changes-platform-switched-conical]] — Stacchi 2023 · rct(multicenter crossover, 51명/102개) · 1mm vs 2mm 하방 식립 MBL 차이 없음(0.46 vs 0.49mm, p=0.66); 2mm에서 임플란트면 노출 0% vs 1mm 11.8%; 치주염 과거력 유의 예측인자 [abstract-only]
+- [[implants/mbl/calatrava-2024-effect-one-time-placement-definitive-abutment]] — Calatrava 2024 · rct(80개/40명, Camlog) · OAOT MBL −0.13mm vs 반복탈착 −0.61mm(6mo, p=0.008; Δ=0.48mm); KT폭·PD·BOP도 OAOT 유의 우세 — Abayov 2026 SR+MA 중 최강 단일 신호 [abstract-only]
+- [[implants/mbl/sanz-sanchez-2024-effect-one-time-abutment-placement-5year]] — Sanz-Sánchez 2024 · rct(5년, 60개/30명, Ankylos C/X) · OAOT DIB 0.53 vs 대조 0.97mm(p=0.063, NS); 연조직 5년 무차이; 생존율 100% — OAOT 문헌 최장 추적, Abayov SR+MA 앵커 [abstract-only]
+- [[implants/mbl/nunes-2025-final-prosthetic-abutment-insertion-time-oaot]] — Nunes 2025 · sr+ma(11 RCT, 699개) · OAOT vs 반복탈착: MBL 유의 감소(exact MD pending); Abayov 2026과 독립적 분석, 넓은 포함 기준에서 방향 재확인 [abstract-only]
+- [[implants/mbl/terzioglu-2024-effect-supracrestal-tissue-height-marginal]] — Terzioglu 2024 · rct(60개) · STH ≤3mm+치조정 식립=최대 MBL; 두꺼운 STH 또는 하방 식립이 보상; STH가 PS 임플란트 MBL 독립 예측인자 [abstract-only]
+- [[implants/mbl/sun-2023-clinical-radiographic-results-crestal-subcrestal]] — Sun 2023 · rct(split-mouth, 25명/50개, 3년) · 1mm 하방 vs 치조정: MBL 1년 0.24 vs 0.41mm(p<0.001), 3년 0.29 vs 0.48mm(p<0.001); 연조직 차이 없음 [abstract-only]
 
 ## Batch ingest (added 2026-08-15) — DeepSeek 하이브리드 인제스트 (15편 신규: 감염관리·구강점막염·구강미생물·치주·우식·구강외과)
 
