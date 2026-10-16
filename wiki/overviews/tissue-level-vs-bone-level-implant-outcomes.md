@@ -32,6 +32,8 @@ relations:
 > - 핵심 예측인자: 얇은 임플란트 주위 점막(≤2mm)이 TL·BL 모두에서 초기 MBL의 최강 예측인자로 흡연·치주염·삽입토크·ISQ를 능가(Lombardi 2025).
 > - 신형 TL 거시설계(tapered self-cutting, Laser-Lok collar, convergent neck)는 치은연상 microgap + 추가 치조정 보존 기전 결합 → 전향 코호트에서 100% 생존·거의 0 주위염(Spinelli 2023).
 > - 임상 bottom line: 생존엔 사실상 호환 가능, IAJ를 치은연상에 두는 것(TL 또는 tall transmucosal + 플랫폼 스위칭 BL)이 치조정골을 0.25–0.66mm 보호 — 얇은 조직형·상악 구치부 단축 임플란트에서 가장 의미 있음; BL에선 플랫폼 스위칭·모스 테이퍼(Morse taper)가 최강 MBL 조절 레버.
+> - **Scognamiglio 2026 추가 (사설의원 TL vs BLX, 3년 후향적, 87명/146개)**: TL 100% vs BLX 98%; 3년 근심 변연골 소실 (Marginal Bone Loss, MBL) TL이 Δ=0.21mm 우위 (p=0.041); BLX 원심 골소실 0.15mm (p=0.038); 합병증 전부 BLX 군. 기저치 혼란 주의 (BLX 군에 GBR 56/17, 즉시 식립 24개 전부 BLX).
+> - **Muñoz 2025 추가 (7년 RCT, 1mm vs 3mm 지대주, 37명/63개)**: 3mm 지대주 군에서 총 MBL 유의 감소 (근심 -0.27 vs -0.42mm, p<0.001); 임플란트 주위염 (Peri-implantitis) 기술적 감소 (3.2% vs 18.2%) 이나 통계 유의 미달 (p=0.158, 소표본 power 부족); IAJ 위치(=지대주 높이) 가설에 대한 현재까지 최장기 RCT 기전 증거.
 
 ## Three-line Summary
 
@@ -100,11 +102,15 @@ The central paradox of this literature: the **highest-evidence studies find no s
 | RCT (15–17 yr) | 1-piece MBL 0.08 vs 2-piece 1.53 mm (p<0.001); 1-piece tech complication 6×; survival 95% both | Pirc 2026 |
 | Prospective / case-control (matched) | TL consistently 0.25–0.66 mm less MBL; thin mucosa = key predictor | Lombardi 2025; Spinelli 2023; Agustín-Panadero 2021 |
 | Retrospective | TL MBL 0.93–1.04 mm (1–3 yr); smoking and jaw significant | Solderer 2025 |
+| Retrospective (private practice, TL vs BLX) | TL 100% vs BLX 98%; TL mesial Δ=0.21mm better (p=0.041); BLX distal loss 0.15mm (p=0.038); baseline confounds present | [[implants/mbl/scognamiglio-2026-influence-implant-type-clinical-radiologic]] |
+| RCT 7yr (abutment height mechanism) | 3mm abutment: less total MBL (mesial p<0.001); peri-implantitis 3.2% vs 18.2% (NS, p=0.158); KM<2mm = disease risk both groups | [[implants/mbl/munoz-2025-long-term-impact-abutment-height-marginal]] |
 | Animal (pre-clinical) | No vertical bone difference at immediate sites (dog); TLX BIC ≥ SP, fBIC superior (minipig) | Zhang 2021; Elchaar 2021 |
 
 ## Clinical Bottom Line
 
 TL and BL implants are clinically interchangeable for survival across virtually all placement scenarios — the choice of implant type alone does not predict failure. The consistent clinical signal is that placing the implant-abutment junction supragingivally (TL design, or equivalently a BL implant with tall transmucosal component and platform-switching) protects crestal bone by 0.25–0.66 mm in head-to-head comparisons, with the absolute difference most meaningful in thin-tissue phenotypes (≤2 mm vertical mucosa) and posterior maxilla short-implant situations where every 0.25 mm of crestal bone is clinically consequential. For BL implants specifically, platform-switching and Morse-taper connections are the strongest modifiers of MBL (reducing conventional-connection bone loss from 0.7–2.5 mm to 0.12–0.29 mm) and represent the BL-side lever most analogous to the TL supracrestal junction position. Peri-implantitis risk reduction for TL remains promising (RR 0.59) but is underpowered in current SR+MA evidence and should not be the primary selection criterion until larger RCTs are available.
+
+Two new papers (2025–2026) reinforce the IAJ position mechanism. Muñoz 2025 (7-yr RCT, n=63 implants) provides the strongest long-term mechanistic evidence: subcrestally placed BL implants with 3-mm abutments accumulated significantly less total MBL than 1-mm abutments (mesial: -0.27 vs -0.42 mm, p<0.001), and the peri-implantitis rate was descriptively lower (3.2% vs 18.2%, p=0.158 — underpowered). This directly tests and confirms the biological width / IAJ distance hypothesis. Scognamiglio 2026 adds private-practice real-world data: TL Straumann versus BLX (fully-tapered modern platform) at 3 years showed TL superiority in mesial bone (Δ=0.21 mm, p=0.041) and zero complications versus 7 in the BLX group; baseline confounds (more GBR and immediate placements in BLX) limit causal attribution. KM width ≥2 mm consistently emerges as a modifiable protective factor for BL/BLX implants across both new papers.
 
 ## Related Papers
 
@@ -118,3 +124,5 @@ TL and BL implants are clinically interchangeable for survival across virtually 
 - [[implants/spinelli-2023-tissue-level-laser-lok-flapless-4year]] — Prospective (41 Laser-Lok TL, 4 yr, flapless): 100% survival, 0 peri-implantitis, MBL −1.10 mm at 48 mo; 4.6 mm diameter outperforms 3.8 mm; single-arm but strong natural history of TL Laser-Lok design
 - [[implants/zhang-2021-tissue-level-bone-level-fresh-extraction-sockets-dogs]] — Dog histomorphometric (24 implants, 6 mo, fresh sockets): neck design NS for vertical bone resorption; BL at −1 mm subcrestal produces wider lingual biologic width (p=0.009); immediate placement context
 - [[implants/elchaar-2021-tapered-self-cutting-tissue-level-minipig]] — Minipig pre-clinical (48 implants, 12 wk): TLX BIC non-inferior to Standard Plus; fBIC superior (small-diameter p=0.047); insertion torque 4–5× higher; supports TLX for low-density / immediate indications
+- [[implants/mbl/scognamiglio-2026-influence-implant-type-clinical-radiologic]] — Retrospective private practice (87 pts, 146 implants, 73 TL vs 73 BLX, 3yr): TL 100% vs BLX 98% survival; TL mesial bone Δ=0.21mm (p=0.041); BLX distal bone loss 0.15mm (p=0.038); 0 TL complications vs 7 BLX; KM>2mm protective for BLX; note baseline confounds (56 vs 17 GBR, all 24 immediate placements in BLX)
+- [[implants/mbl/munoz-2025-long-term-impact-abutment-height-marginal]] — 7-yr RCT (UIC Barcelona, 37 subjects/63 implants; 1-mm vs 3-mm abutments, subcrestal 1.5mm): 3-mm abutments had significantly less total MBL at 7yr (mesial: -0.27 vs -0.42mm, p<0.001; distal p<0.001); peri-implantitis 3.2% vs 18.2% (p=0.158 NS — underpowered); KM<2mm = higher disease risk both groups; strongest RCT mechanistic support for IAJ position hypothesis
