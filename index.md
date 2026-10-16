@@ -4726,6 +4726,8 @@ tags: []
 - [[implants/mbl/aal-2025-marginal-bone-loss-single]] — Aal 2025 · rct(SIRMO 4군, 80명/55명 완료, 2년) · submerged 0.43 vs non-submerged 0.27mm(p=0.6); ball 0.28 vs CM-LOC 0.38mm(p=0.3) — 두 치유 프로토콜 모두 생리적 범위, 비매몰형 수치 우위; BS군 최고 MBL(0.49mm), 나이 교란 존재
 - [[implants/mbl/flores-guillen-2017-five-year-outcomes-submerged-transmucosal]] — Flores-Guillen 2017 · rct(bone-level 단일치아 비구치부, 40명→30명 완료, 5년) · 양군 생존율 100%; submerged MBL 0.59±0.92 mm vs transmucosal 0.78±1.03 mm(NS) — 프로토콜 차이 없음, 5년 최장기 직접비교 RCT (J Clin Periodontol)
 - [[implants/mbl/al-zahrani-2018-stability-bone-loss-submerged-nonsubmerged-diabetic]] — Al Zahrani 2018 · prospective(submerged vs non-submerged × T2DM vs NT2DM, 35명/118개, 7년) · 비매몰형에서 T2DM 환자 PIBL이 2·3·7년 전 시점 유의하게 높음(p<0.05); ISQ 프로토콜 간 차이 없음 — "당뇨 환자 예외 신호": 전반적 NS 결론에 대한 당뇨 층화 반증 (Brazilian Oral Research)
+- [[implants/mbl/scognamiglio-2026-influence-implant-type-clinical-radiologic]] — Scognamiglio 2026 · retrospective(사설 의원 TL 73 vs BLX 73, 87명, 3년) · TL 생존율 100% vs BLX 98%; TL 3년 근심골 우위 Δ=0.21mm(p=0.041); BLX 원심 골소실 0.15mm(p=0.038); 합병증 전부 BLX 군; KM>2mm BLX 보호 — IAJ 위치 가설의 BLX 특이적 사설의원 근거 (Clin Exp Dent Res 2026)
+- [[implants/mbl/munoz-2025-long-term-impact-abutment-height-marginal]] — Muñoz 2025 · rct(7년, 37명/63개, 1mm vs 3mm 지대주, 하방 1.5mm 식립) · 3mm 군에서 7년 총 MBL 유의 감소(근심 -0.27 vs -0.42mm p<0.001; 원심 p<0.001); 임플란트주위염 기술적 감소(3.2% vs 18.2%, p=0.158 NS); KM<2mm 양군 질환 위험 증가 — TL IAJ 위치 가설의 최장기 RCT 기전 증거 (J Clin Periodontol)
 
 ## Batch ingest (added 2026-08-15) — DeepSeek 하이브리드 인제스트 (15편 신규: 감염관리·구강점막염·구강미생물·치주·우식·구강외과)
 
