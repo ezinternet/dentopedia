@@ -28,6 +28,7 @@ source_wiki:
   - wiki/implants/survival/troiano-2018-early-late-failure-submerged.md
   - wiki/implants/pirc-2026-one-piece-two-piece-implants-15year-rct.md
   - wiki/implants/mbl/prati-2026-cover-screw-vs-healing-abutment-rct.md
+  - wiki/implants/mbl/aal-2025-marginal-bone-loss-single.md
 relations:
   - type: refines
     target: moustafa-ali-2018-submerged-vs-nonsubmerged-implant
@@ -77,6 +78,7 @@ Clinical use: choose the protocol on soft-tissue, esthetic and handling grounds;
 | Submerged vs non-submerged | [[implants/moustafa-ali-2018-submerged-vs-nonsubmerged-implant]] | SR+MA, 6 RCTs | Failure: no difference; MBL MD 0.12 mm (0.00–0.24), P=.04, I² 0% | Moderate; 4/6 high RoB, underpowered |
 | Submerged vs non-submerged | [[implants/wu-2018-submerged-nonsubmerged-internal-hexagonal]] | Retrospective, 114 implants, 5 y | CSR 94% vs 96%; MBL n.s. (no magnitude) | Low; abstract-only, no p-values |
 | Submerged vs non-submerged | [[implants/mbl/prati-2026-cover-screw-vs-healing-abutment-rct]] | RCT, 66 implants/45 pts, 6 mo, digital workflow | 100% survival; MBL comparable (n.s.); BuPA absent ~75% HA group (p<0.001); re-entry avoided | Moderate; short follow-up (6 mo), abstract-only |
+| Submerged vs non-submerged (SIRMO) | [[implants/mbl/aal-2025-marginal-bone-loss-single]] | RCT, 80 edentulous/55 completers, 2yr, SIRMO | N 0.27 vs S 0.43 mm (p=0.6); ball 0.28 vs CM-LOC 0.38 mm (p=0.3); both protocols within physiological limits; non-submerged numerically favored | Moderate; SIRMO-specific; age confound in BS group |
 | 1- vs 2-stage | [[implants/esposito-2009-1-vs-2-stage-implant-placement-cochrane]] | Cochrane SR, 1 RCT (n=40) | No failure difference at 1 y; insufficient evidence | Superseded; withdrawn 2018 |
 | One-piece vs two-piece | [[implants/liu-2021-clinical-radiographic-performance-one-piece]] | SR+MA, 10 studies | Failure RR 0.49 (0.16–1.53); PS subgroup WMD 0.21 mm (0.07–0.36) | Moderate; wide CIs, search to May 2019 |
 | Two-piece vs two-piece | [[implants/walter-2022-two-types-two-piece-dental-implants]] | RCT, 8 y, 98 implants | ISR 97.6% vs 97.2%; MBL change p<.001, judged negligible | Moderate; no sample-size calc, 23% dropout |
@@ -114,6 +116,7 @@ Clinical use: choose the protocol on soft-tissue, esthetic and handling grounds;
 - [[implants/mbl/al-amri-2016-crestal-bone-loss-submerged]] — SR (13 studies: 6 human + 7 animal; 1986–Oct 2015): no significant difference in CBL between submerged and nonsubmerged implants in 5 of 6 human studies (follow-up 1–5 yr, CBL 0.17–0.9 mm vs 0.02–1.4 mm); corroborates the null finding in Moustafa Ali 2018 (sr, 2016)
 - [[implants/survival/astrand-2002-nonsubmerged-submerged-implants-treatment-partially]] — Split-mouth RCT (28 patients, 56 sites): ITI nonsubmerged vs Brånemark submerged FPDs in partially edentulous maxilla; no survival or MBL difference at 1-year loading; crater-form bone destruction at 18% of ITI implants signals importance of radiographic monitoring in nonsubmerged systems (rct, 2002)
 - [[implants/mbl/prati-2026-cover-screw-vs-healing-abutment-rct]] — RCT (66 PrimeTaper implants/45 pts, digital workflow, 6 mo): cover screw vs healing abutment — 100% survival, MBL equivalent; HA reduces bleeding on prosthetic procedures (~75% no BuPA, p<0.001) and avoids re-entry; direct RCT evidence supporting non-submerged for soft-tissue and workflow reasons (rct, 2026)
+- [[implants/mbl/aal-2025-marginal-bone-loss-single]] — RCT (SIRMO 4-arm, 80 edentulous/55 at 2yr): submerged 0.43 vs non-submerged 0.27 mm (p=0.6); ball 0.28 vs CM-LOC 0.38 mm (p=0.3); non-submerged numerically favored at all time points, both protocols within physiological limits; SIRMO-specific context (rct, 2025)
 - [[implants/mbl/gheisari-2017-comparison-marginal-bone-loss-one-stage]] — RCT (310 Astra Tech implants, 140 patients): one-stage vs two-stage; MBL 0.760 mm vs 0.842 mm at 6 months post-loading (NS, p>0.05); supports one-stage as equivalent to two-stage with reduced patient burden (rct, 2017)
 - [[implants/esposito-2009-1-vs-2-stage-implant-placement-cochrane]] — Cochrane SR+MA (5 RCTs, 761 implants, last updated 2009, withdrawn 2018): 1-stage (non-submerged) vs 2-stage (submerged) placement; no significant difference in prosthesis failure, implant failure, MBL, complications, or soft-tissue recession; GRADE moderate — the highest-level evidence anchor for the 1- vs 2-stage equivalence claim (sr+ma, 2009)
 - [[implants/loading-protocol/esposito-2009-interventions-replacing-missing-teeth]] — Cochrane SR pub2 (2007 original, superseded by pub3 above): earlier version with fewer RCTs; included for evidence-trail completeness
