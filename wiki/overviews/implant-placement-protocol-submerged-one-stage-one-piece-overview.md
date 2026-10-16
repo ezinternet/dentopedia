@@ -2,7 +2,7 @@
 title: "임플란트 식립 프로토콜 — submerged vs non-submerged, 1-stage vs 2-stage, one-piece vs two-piece 및 micromotion 종합"
 authors: Synthesis (Damian Lee)
 year: 2026
-date: 2026-10-05
+date: 2026-10-16
 doi: N/A
 source: N/A
 category: overviews
