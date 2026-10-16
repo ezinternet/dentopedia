@@ -4723,6 +4723,7 @@ tags: []
 - [[implants/mbl/chien-2016-effect-platform-switching-periimplant-crevicular]] — Chien 2016 · prospective(split-mouth 14명, 초기치유 1·2·4·6주 PICF 사이토카인) · PD·IL-6·MIP-1β는 양군 유사, 단 TNF-α는 PS가 1주차에 오히려 3배 높음(p=0.005) — 염증침윤 거리이동 가설에 대한 반례성 소견
 - [[implants/mbl/rossi-2015-randomized-clinical-investigation-titanium-implants]] — Rossi 2015 · rct(PS 21 vs 표준 18, 6개월) · PS와 표준 임플란트 간 변연골수준 유의차 없음 — PS 이점을 못 찾은 소수 RCT 중 하나, juan-montesinos-2022 SR+MA와 contradicts
 - [[implants/mbl/verma-2024-comparison-bone-loss-submerged-nonsubmerged]] — Verma 2024 · rct(하악 구치부 30임플란트/16명, 3개월) · submerged(커버스크류) 0.18mm vs non-submerged anatomical 힐링어버트먼트 0.34mm(p<0.001) vs esthetic 힐링어버트먼트 0.21mm(NS vs submerged) · 초기 골유착기 submerged 치유가 변연골소실 최소화에 유리, esthetic 디자인이 anatomical보다 우월 (DOI 10.4103/njms.njms_116_22)
+- [[implants/mbl/aal-2025-marginal-bone-loss-single]] — Aal 2025 · rct(SIRMO 4군, 80명/55명 완료, 2년) · submerged 0.43 vs non-submerged 0.27mm(p=0.6); ball 0.28 vs CM-LOC 0.38mm(p=0.3) — 두 치유 프로토콜 모두 생리적 범위, 비매몰형 수치 우위; BS군 최고 MBL(0.49mm), 나이 교란 존재
 
 ## Batch ingest (added 2026-08-15) — DeepSeek 하이브리드 인제스트 (15편 신규: 감염관리·구강점막염·구강미생물·치주·우식·구강외과)
 
