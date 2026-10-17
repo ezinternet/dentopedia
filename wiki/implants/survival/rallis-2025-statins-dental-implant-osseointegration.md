@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.14712/18059694.2026.3
 source: rallis-2025-statins-dental-implant-osseointegration.md
 category: [implants/survival]
-evidence_level: review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: false
 pmid: "41873920"
