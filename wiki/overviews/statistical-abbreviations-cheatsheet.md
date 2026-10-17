@@ -164,6 +164,9 @@ Darrigo 2024 catalogs the recurring biostatistics mistakes in the dental literat
 
 ## Related Pages
 
+- [[overviews/study-design-primer-dental-research]] — 설계 유형 정의·근거 위계·편향 분류 (약자보다 먼저 읽을 입문 가이드)
+- [[overviews/critical-appraisal-checklists-dental]] — 디자인별 7문항 체크리스트·GRADE·임상 임계값
+- [[overviews/evidence-appraisal-toolkit]] — 5축 통계 도구상자 (I²·OR/RR/HR 수식·검정 선택·흔한 오류)
 - [[evidence-appraisal/flechner-2011-pvalues-confidence-intervals-number-needed]] — p-values, CIs, NNT primer
 - [[evidence-appraisal/monaghan-2021-odds-ratios-relative-risk-absolute]] — OR vs RR vs ARR for clinicians
 - [[evidence-appraisal/barraclough-2011-hazard-ratios-clinicians-biostatistics-primer]] — HR interpretation
