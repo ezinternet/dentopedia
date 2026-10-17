@@ -1,0 +1,18 @@
+Title: Evaluation of the Efficacy of Simvastatin in Bone Regeneration after Surgical Removal of Bilaterally Impacted Third Molars-A Split-Mouth Randomized Clinical Trial
+Authors: Degala S, Bathija NA
+Journal: Journal of oral and maxillofacial surgery
+Year: 2018
+DOI: 10.1016/j.joms.2018.04.035
+PMID: 29859160
+
+ABSTRACT:
+
+Simvastatin has been reported to promote osteoblastic activity, inhibit osteoclastic activity, and support osteoblast differentiation induced by bone morphogenetic protein. This split-mouth randomized clinical trial evaluated the effect of local application of simvastatin (10 mg) on bone regeneration after surgical removal of bilaterally impacted mandibular third molars.
+
+A randomized, split-mouth, single-blinded, single-center trial was performed in 30 patients 18 to 40 years old requiring surgical extraction of bilaterally impacted mandibular third molars. These patients underwent 2 surgical sessions, with extraction of 1 third molar during each session. Each participant was randomly assigned to receive Gelfoam soaked with normal saline or with the drug simvastatin (10 mg) at the first session and were blinded to the use of drug for that particular socket. The alternate regimen was used during the second session. The study was conducted over a period of 3 months. Patients were evaluated for pain, postoperative swelling, and bone density measurement and analysis using intraoral periapical radiographs at the end of 1, 4, 8 and 12 weeks, respectively. In addition, cone-beam computed tomographic (CBCT) images were obtained for every fifth patient at the end of 12 weeks.
+
+Mean gray-level histographic values were significantly higher for the study sockets at the end of 1, 4, 8, and 12 weeks (P = .001) compared with the control sockets (30 sockets each). CBCT analysis further substantiated accelerated bone regeneration in the study sockets.
+
+The study was statistically and radiographically in favor of the drug, indicating that local application of simvastatin could be a cost-effective and simple way to stimulate and hasten osseous regeneration.
+
+KEYWORDS: Simvastatin, Bone regeneration, Third molar extraction, Split-mouth RCT
