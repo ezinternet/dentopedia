@@ -2,7 +2,7 @@
 title: "구강외과·제3대구치(사랑니) — third-molar"
 authors: navigation
 year: 2026
-date: 2026-10-11
+date: 2026-10-17
 doi: N/A
 source: navigation
 category: oral-surgery/third-molar
@@ -15,20 +15,20 @@ tags: [navigation, category-index, third-molar]
 > [!summary] 한국어 핵심요약
 > - **분야**: 구강외과·제3대구치(사랑니)
 > - **범위**: Third molar (wisdom tooth) extraction — surgical indications/technique (flap design, bone removal, sectioning), coronectomy, pericoronitis, extraction complications (mandibular fracture, dry socket/alveolar osteitis), postop adjuncts (PRF/CGF, LLLT, cooled irrigation, pain management)
-> - **수록 논문**: 26편
+> - **수록 논문**: 27편
 
 ## Three-line Summary
 
 **Scope**: Third molar (wisdom tooth) extraction — surgical indications/technique (flap design, bone removal, sectioning), coronectomy, pericoronitis, extraction complications (mandibular fracture, dry socket/alveolar osteitis), postop adjuncts (PRF/CGF, LLLT, cooled irrigation, pain management)
-**Indexed papers**: 26 papers in `wiki/oral-surgery/third-molar/`.
+**Indexed papers**: 27 papers in `wiki/oral-surgery/third-molar/`.
 
 ## 세줄요약
 
 **분야**: 구강외과·제3대구치(사랑니)
-**수록 논문**: 26편
+**수록 논문**: 27편
 **하위 카테고리**: 없음
 
-## Papers in this Category (26)
+## Papers in this Category (27)
 
 | Paper |
 |---|
@@ -39,6 +39,7 @@ tags: [navigation, category-index, third-molar]
 | [[cervera-espert-2016-coronectomy-mandibular-third-molar-sr|Coronectomy of impacted mandibular third molars: A meta-analysis and systematic review of the literature]] |
 | [[daly-2022-local-interventions-management-alveolar-osteitis|Local interventions for the management of alveolar osteitis (dry socket)]] |
 | [[damico-2025-third-molar-surgical-indications-guidelines|Clinical and Surgical Indications and Current Guidelines on Surgical Removal of Third Molars]] |
+| [[degala-2018-evaluation-efficacy-simvastatin-bone-regeneration-third-molars|Evaluation of the Efficacy of Simvastatin in Bone Regeneration after Surgical Removal of Bilaterally Impacted Third Molars-A Split-Mouth Randomized Clinical Trial]] |
 | [[derbishi-2026-coronectomy-versus-total-extraction-third|Coronectomy Versus Total Extraction for Third Molar Surgery: A Systematic Review and Meta-Analysis]] |
 | [[di-spirito-2025-re-intervention-rate-timing-indications|Re-Intervention Rate, Timing, and Indications Following Coronectomy of the Mandibular Third Molar: A Systematic Review of Systematic Reviews]] |
 | [[firoozi-2022-nonpharmacological-interventions-third-molar-pain-sr|Nonpharmacological Complementary Interventions for the Management of Pain after Third Molar Surgery: An Umbrella Review of Current Meta-Analyses]] |
