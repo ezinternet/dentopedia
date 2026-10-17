@@ -9,7 +9,7 @@ pmcid: "PMC7338630"
 source: fouda-2020-impact-alveolar-bone-sites.md
 category: [implants/survival]
 evidence_level: sr+ma
-source_collection: pubmed-text
+source_collection: pubmed-abstract
 full_text: true
 tags: [early-implant-failure, site-specific, anterior-maxilla, posterior-mandible, meta-analysis, EIF-rate]
 relations:
