@@ -7,7 +7,7 @@ doi: "10.1007/s00784-025-06617-6"
 source: aal-2025-marginal-bone-loss-single.md
 category: [implants/mbl]
 evidence_level: rct
-source_collection: pubmed-text
+source_collection: pubmed-abstract
 full_text: true
 pmid: "41345355"
 pmcid: "PMC12678570"
