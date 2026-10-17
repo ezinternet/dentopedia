@@ -5035,3 +5035,19 @@ tags: []
 - [[periodontics/oral-hygiene-instruction/jung-2020-cytotoxicity-dental-disclosing-solution]] — Jung 2020 · in-vitro · 배양 인간 치은 상피세포와 마우스 두경부 조직·돼지 피부를 이용한 in-vitro 연구로 에리트로신 함유 2-Tone(Blue-Violet) 치태 착색제의 세포독성을 200×·100×·50× 희석에서 평가했다. (DOI 10.1002/cre2.321)
 - [[periodontics/oral-hygiene-instruction/kamra-2024-oral-hygiene-instruction-plaque-disclosing-agents]] — Kamra 2024 · case-report · 증례보고(case report): 17세 남성 1례에서 2색 치태착색제(two-tone plaque-disclosing agent)를 사용한 구강위생교육으로 자가 치태제거 정도를 추적. (DOI 10.7759/cureus.72205)
 - [[periodontics/oral-hygiene-instruction/nagashima-2018-self-check-plaque-disclosing-solution]] — Nagashima 2018 · prospective · 일본의 아동양육시설(children's home)에 거주하며 미처치 우식이 없는 학령기 아동 9명(여아 6명, 1~6학년)을 대상으로, 집단·개별 교육과 3개월간 주 1회 치태착색용액 자가검진을 결합한 전향적 단일군(전후비교) 5개월 구강보건 프로그램. (DOI 10.1186/s13690-018-0296-y)
+
+## Batch ingest (added 2026-10-17) — 스타틴·고지혈증 × 치과수술 서베일런스 (6편)
+
+### implants/survival
+- [[implants/survival/sun-2023-effects-of-hyperlipidemia-on-osseointegration]] — Sun 2023 · review · 2023 review; 고지혈증 (Hyperlipidemia)이 조골세포 (osteoblast) 억제·파골세포 (osteoclast) 항진·콜라겐 합성 저하를 통해 골유착 (Osseointegration) 을 손상시킨다; 스타틴 (Statin) 표면코팅·약물방출 임플란트 개선전략 검토. (DOI 10.3390/jfb14040194)
+- [[implants/survival/rallis-2025-statins-dental-implant-osseointegration]] — Rallis 2025 · review · 2025 review; 친지질성 스타틴 (Statin) 이 BMP-2/Smad·OPG/RANKL 축으로 골유착 (Osseointegration) 강화; 고지혈증이 골유착 손상; 임상근거 불충분 — 대규모 층화 RCT 필요. (DOI 10.14712/18059694.2026.3)
+
+### bone-regeneration/ridge-preservation
+- [[bone-regeneration/ridge-preservation/kommuri-2025-efficacy-of-statins-in-tissue]] — Kommuri 2025 · sr · 2025 SR (동물 9편); 스타틴 (Statin) 이 TGF-β1/BMP-2/VEGF 상향·발치와 치유 촉진; 사람 임상시험 부재로 번역적 근거 미완성. (DOI 10.21037/atm-24-140)
+- [[bone-regeneration/ridge-preservation/katanec-2026-histomorphometric-evaluation-of-socket-preservation]] — Katanec 2026 · rct · 2026 split-mouth RCT n=9; simvastatin 1 mg + cerabone® vs cerabone® 단독; 신생골 (Newly Formed Bone) /총조직용적 (Total Volume, TV) 31.0% vs 26.2% (p=0.45) — **통계적 유의차 없음 (Negative result)**. (DOI 10.15644/asc60/2/6)
+
+### drug/systemic-disease
+- [[drug/systemic-disease/tahamtan-2020-the-effects-of-statins-on]] — Tahamtan 2020 · review · 2020 종합 리뷰(전임상+임상); 스타틴 (Statin) 이 치주염·임플란트 골유착·골 치유·타액분비·항암에 걸쳐 유익한 플레이오트로픽 효과; 전임상 근거 우세, 임상 번역 진행 중. (DOI 10.1186/s12967-020-02326-8)
+
+### oral-surgery/third-molar
+- [[oral-surgery/third-molar/degala-2018-evaluation-efficacy-simvastatin-bone-regeneration-third-molars]] — Degala 2018 · rct · 2018 분할구강 RCT n=30; simvastatin 10 mg (Gelfoam) 발치와 적용; 골밀도 회색값 (Gray Value) 1/4/8/12주 전 측정 유의하게 높음 (P=.001); CBCT 확인. (DOI 10.1016/j.joms.2018.04.035)
