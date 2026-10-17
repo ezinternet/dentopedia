@@ -1,0 +1,12 @@
+Title: Statins and Dental Implant Osseointegration - Bridging Molecular Science and Next Generation Clinical Outcomes: A Review
+Authors: Rallis K, Gkinopoulos G, Manolakos K, Militsis G, Kotopoulou E, Kafas P
+Journal: Acta medica (Hradec Kralove)
+Year: 2025
+DOI: 10.14712/18059694.2026.3
+PMID: 41873920
+
+ABSTRACT:
+
+Statins, widely prescribed for dyslipidemia, may exert bone modifying effects through coordinated stimulation of osteoblast activity and suppression of osteoclastogenesis. Lipophilic statins, including simvastatin, lovastatin, and atorvastatin, have been shown in preclinical models to enhance osteoblast differentiation and matrix synthesis via BMP-2/Smad and Ras-PI3K-Akt-Erk signaling, while attenuating osteoclast development through modulation of the OPG/RANKL axis, NF-kB inhibition, and blockade of p38 MAPK pathways. Despite mechanistic consistency in experimental systems, human data remain inconclusive, with modest increases in bone mineral density and no confirmed reduction in fracture risk. In implant dentistry, hyperlipidemia has been linked to impaired osseointegration, likely via reduced osteoblastic function, increased osteoclast activity, and compromised collagen turnover. The interplay between obesity, lipid metabolism, and skeletal biology introduces additional confounding variables, emphasizing the need for patient stratification in clinical research. Current evidence supports the biological plausibility of statin mediated enhancement of peri-implant bone formation, but definitive clinical translation requires large-scale, stratified trials with controlled delivery approaches and extended follow-up.
+
+KEYWORDS: bone metabolism, dental implants, osseointegration, osteoblasts and osteoclasts, statins, hyperlipidemia
