@@ -6,7 +6,7 @@ date: 2020-04-06
 doi: 10.1186/s12967-020-02326-8
 source: tahamtan-2020-the-effects-of-statins-on.md
 category: [drug/systemic-disease]
-evidence_level: review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "32252793"
