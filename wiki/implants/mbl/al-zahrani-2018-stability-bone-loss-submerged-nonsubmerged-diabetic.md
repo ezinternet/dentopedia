@@ -7,7 +7,7 @@ doi: "10.1590/1807-3107bor-2018.vol32.0057"
 source: al-zahrani-2018-stability-bone-loss-submerged-nonsubmerged-diabetic.md
 category: [implants/mbl]
 evidence_level: prospective
-source_collection: pubmed-text
+source_collection: pubmed-abstract
 full_text: false
 pmid: "29995063"
 source_url: https://pubmed.ncbi.nlm.nih.gov/29995063/
