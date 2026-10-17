@@ -6,7 +6,7 @@ date: 2023-03-30
 doi: 10.3390/jfb14040194
 source: sun-2023-effects-of-hyperlipidemia-on-osseointegration.md
 category: [implants/survival]
-evidence_level: review
+evidence_level: narrative-review
 source_collection: pubmed-text
 full_text: true
 pmid: "37103284"
