@@ -7,7 +7,7 @@ doi: "10.1002/cre2.70411"
 source: scognamiglio-2026-influence-implant-type-clinical-radiologic.md
 category: [implants/mbl]
 evidence_level: retrospective
-source_collection: pubmed-text
+source_collection: pubmed-abstract
 full_text: true
 pmid: "42462096"
 pmc: "PMC13375158"
