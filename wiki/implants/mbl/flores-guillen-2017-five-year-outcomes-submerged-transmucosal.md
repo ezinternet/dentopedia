@@ -7,7 +7,7 @@ doi: "10.1111/jcpe.12832"
 source: flores-guillen-2017-five-year-outcomes-submerged-transmucosal.md
 category: [implants/mbl]
 evidence_level: rct
-source_collection: pubmed-text
+source_collection: pubmed-abstract
 full_text: false
 pmid: "29032574"
 source_url: https://pubmed.ncbi.nlm.nih.gov/29032574/
