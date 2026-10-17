@@ -15,7 +15,7 @@ abstract-only — full text not retrieved (no PMC record)
 
 ## Why Ingested
 
-Nunes 2025는 OAOT × MBL 주제에서 Abayov 2026과 독립적으로 시행된 SR+MA로, 11 RCT를 포함한다(Abayov의 7편보다 넓은 포함 기준). 두 SR+MA가 동일 질문에 다른 방법론·포함 기준으로 도달한 결론을 비교함으로써 위키의 메타증거 수준을 높인다. 특히 Nunes가 Abayov 포함 기준(PS + conical-only)보다 넓은 설계 범위(연결 방식 혼합)를 포함한다면 효과 크기의 안정성을 추가로 검증한다.
+Nunes 2025는 OAOT × MBL 주제에서 Abayov 2026과 독립적으로 시행된 SR+MA로, 11 RCT를 포함한다(Abayov의 7편보다 넓은 포함 기준). 두 SR+MA가 동일 질문에 다른 방법론·포함 기준으로 도달한 결론을 비교함으로써 위키의 메타증거 수준을 높인다. 특히 Nunes가 Abayov 포함 기준(PS + conical-only)보다 넓은 설계 범위(연결 방식 혼합)를 포함한다면 효과 크기의 안정성을 추가로 검증한다. → [[implants/mbl/nunes-2025-final-prosthetic-abutment-insertion-time-oaot]]
 
 ## Three-line Summary
 
