@@ -7,7 +7,7 @@ doi: "10.1111/jcpe.70009"
 source: munoz-2025-long-term-impact-abutment-height-marginal.md
 category: [implants/mbl]
 evidence_level: rct
-source_collection: pubmed-text
+source_collection: pubmed-abstract
 full_text: true
 pmid: "40827015"
 pmc: "PMC12531360"
