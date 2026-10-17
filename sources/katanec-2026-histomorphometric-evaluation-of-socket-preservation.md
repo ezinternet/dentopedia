@@ -15,6 +15,10 @@ text_filename: katanec-2026-histomorphometric-evaluation-of-socket-preservation.
 
 # Katanec 2026 — Simvastatin + Cerabone® Socket Preservation: Negative Histomorphometric RCT
 
+## Why Ingested
+
+Katanec 2026은 스타틴(statin) × 치조와 보존(socket preservation) 교차점의 유일한 split-mouth RCT로, cerabone® 이종이식재에 심바스타틴(simvastatin) 1mg을 단순 혼합했을 때 조직형태계측(histomorphometry) 지표에 유의차가 없었음을 보여준다. 이 부정적 결과는 [[overviews/statin-bone-healing-implant-osseointegration-overview]]의 "서방형 전달 플랫폼 없는 국소 스타틴 적용은 효과 없음" 결론을 직접 뒷받침하며, 스타틴 전달 방식이 결과를 좌우한다는 핵심 메커니즘 분기를 보강한다.
+
 ## Three-line Summary
 
 **EN:** n=9 split-mouth RCT; cerabone® plus ± simvastatin 1 mg/0.2 mL saline, 3-month trephine biopsy histomorphometry. No significant differences: NB/TV 31.0% vs 26.2% (p=0.45), CT/TV 59.1% vs 64.3% (p=0.31), BSM/TV 9.9% vs 9.5% (p=0.91). Negative result — simple admixture of simvastatin with a slowly resorbing xenograft does not enhance early mineralized tissue formation; controlled-release platforms needed for future translation.
