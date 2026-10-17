@@ -15,7 +15,7 @@ abstract-only — full text not retrieved (no PMC record)
 
 ## Why Ingested
 
-Sun 2023은 동일 환자에서 치조정 식립(crestal)과 1mm 하방 식립(subcrestal)을 비교한 split-mouth RCT로, Stacchi 2023(1mm vs 2mm)과 상보적 쌍을 이룬다. 두 논문을 함께 읽으면 PS 임플란트에서 식립 깊이를 crestal → 1mm → 2mm 연속 스펙트럼으로 이해할 수 있다. 또한 split-mouth 설계는 교란변수 제어 측면에서 Stacchi의 다기관 crossover보다 강한 내적 타당도를 제공한다.
+Sun 2023은 동일 환자에서 치조정 식립(crestal)과 1mm 하방 식립(subcrestal)을 비교한 split-mouth RCT로, Stacchi 2023(1mm vs 2mm)과 상보적 쌍을 이룬다. 두 논문을 함께 읽으면 PS 임플란트에서 식립 깊이를 crestal → 1mm → 2mm 연속 스펙트럼으로 이해할 수 있다. 또한 split-mouth 설계는 교란변수 제어 측면에서 Stacchi의 다기관 crossover보다 강한 내적 타당도를 제공한다. → [[implants/mbl/sun-2023-clinical-radiographic-results-crestal-subcrestal]]
 
 ## Three-line Summary
 
