@@ -2,7 +2,7 @@
 title: "골재생·치조제보존 — ridge-preservation"
 authors: navigation
 year: 2026
-date: 2026-10-04
+date: 2026-10-17
 doi: N/A
 source: navigation
 category: bone-regeneration/ridge-preservation
@@ -15,20 +15,20 @@ tags: [navigation, category-index, ridge-preservation]
 > [!summary] 한국어 핵심요약
 > - **분야**: 골재생·치조제보존
 > - **범위**: Alveolar ridge preservation (ARP) / socket preservation — post-extraction dimensional changes (Araujo/Tan/Schropp), ARP efficacy SR/MA & Cochrane, grafting materials & sealing/socket-seal, flap vs flapless, biologics/PRF, esthetic-zone ARP, ARP→implant outcomes
-> - **수록 논문**: 90편
+> - **수록 논문**: 93편
 
 ## Three-line Summary
 
 **Scope**: Alveolar ridge preservation (ARP) / socket preservation — post-extraction dimensional changes (Araujo/Tan/Schropp), ARP efficacy SR/MA & Cochrane, grafting materials & sealing/socket-seal, flap vs flapless, biologics/PRF, esthetic-zone ARP, ARP→implant outcomes
-**Indexed papers**: 90 papers in `wiki/bone-regeneration/ridge-preservation/`.
+**Indexed papers**: 93 papers in `wiki/bone-regeneration/ridge-preservation/`.
 
 ## 세줄요약
 
 **분야**: 골재생·치조제보존
-**수록 논문**: 90편
+**수록 논문**: 93편
 **하위 카테고리**: 없음
 
-## Papers in this Category (90)
+## Papers in this Category (93)
 
 | Paper |
 |---|
@@ -73,16 +73,19 @@ tags: [navigation, category-index, ridge-preservation]
 | [[kalsi-2019-alveolar-ridge-preservation-why-when|Alveolar ridge preservation: why, when and how]] |
 | [[kamath-2026-ddr2-tooth-extraction-socket-healing|Discoidin Domain Receptor 2 Is Required for Tooth Extraction Socket Healing]] |
 | [[kang-2025-implant-failure-predictors-ridge-preservation|Predictors of implant treatment failure after alveolar ridge preservation]] |
+| [[katanec-2026-histomorphometric-evaluation-of-socket-preservation|Histomorphometric Evaluation of Socket Preservation Healing Using Xenogeneic Bone Substitute Combined with Statin: A Prospective Split-Mouth Clinical Pilot Study]] |
 | [[khehra-2025-arp-xenograft-collagen-membrane-rct|Outcomes of alveolar ridge preservation using a collagenated bovine bone xenograft: A randomized controlled trial]] |
 | [[kim-2020-bmp2-immediate-delayed-damaged-socket-yonsei|Immediate versus delayed application of bone morphogenetic protein-2 solution in damaged extraction sockets: a preclinical in vivo investigation]] |
 | [[kim-2024-advancements-alveolar-bone-grafting-ridge|Advancements in alveolar bone grafting and ridge preservation: a narrative review on materials, techniques, and clinical outcomes]] |
 | [[kim-2024-collagenated-xenograft-arp-rct|Alveolar Ridge Preservation Using a Collagenated Xenograft: A Randomized Clinical Trial]] |
 | [[kollati-2019-cerabone-prf-socket-preservation-rct|Effectiveness of naturally derived bovine hydroxyapatite (Cerabone™) combined with platelet-rich fibrin matrix in socket preservation: A randomized controlled clinical trial]] |
+| [[kommuri-2025-efficacy-of-statins-in-tissue|Efficacy of statins in tissue healing following tooth extraction: a systematic review of animal studies]] |
 | [[lee-2018-flap-management-alveolar-ridge-preservation|Flap Management in Alveolar Ridge Preservation: A Systematic Review and Meta-Analysis]] |
 | [[lee-2020-compressive-force-dbbm-ridge-preservation-molar|Impact of different compressive forces on deproteinized bovine bone mineral covered by native bilayer collagen membrane during alveolar ridge preservation in the molar area]] |
 | [[lee-2021-alveolar-ridge-preservation-periodontally-compromised|Retrospective study of alveolar ridge preservation compared with no alveolar ridge preservation in periodontally compromised extraction sockets]] |
 | [[lopez-pacheco-2021-socket-seal-surgery-esthetic-zone-sr|Socket seal surgery techniques in the esthetic zone: a systematic review with meta-analysis and trial sequential analysis of randomized clinical trials]] |
 | [[lopez-valverde-2024-alveolar-ridge-bone-mineral-graft-collagen|Changes of the Alveolar Bone Ridge Using Bone Mineral Grafts and Collagen Membranes after Tooth Extraction: A Systematic Review and Meta-Analysis]] |
+| [[macbeth-2022-alveolar-ridge-preservation-guided-bone-regeneration-socket-seal|Alveolar ridge preservation with guided bone regeneration or socket seal technique. A randomised, single-blind controlled clinical trial]] |
 | [[mahmoud-2025-collagen-sponge-xenograft-ridge-preservation-rct|Evaluation of collagen sponge and xenografts versus collagen sponge alone in alveolar ridge preservation: a randomized controlled clinical trial]] |
 | [[majzoub-2019-influence-different-grafting-materials|The Influence of Different Grafting Materials on Alveolar Ridge Preservation: a Systematic Review]] |
 | [[manlerd-2025-lprf-membrane-socket-sealing-healing|Analysis of Soft Tissue Healing Over Socket Orifice Sealed with Platelet-Rich Fibrin Membrane]] |
