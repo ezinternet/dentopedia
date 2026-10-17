@@ -151,6 +151,9 @@ llm-wiki의 800+ 임상 paper 대부분이 SR+MA / RCT / retrospective cohort. �
 ## Related (cross-category)
 - 본 toolkit은 `implants/`, `bone-regeneration/`, `endodontics/`, `sinus-lift/` 등 모든 SR+MA / RCT / cohort 페이지를 읽는 데 기본 도구로 적용.
 - `wiki-living-document` 원칙(memory file): 임상 페이지를 무비판적으로 옮기지 않는 원칙의 운영적 backbone.
+- [[overviews/study-design-primer-dental-research]] — 설계 유형 정의·근거 위계·6대 편향 분류 (본 toolkit의 전 단계: "이 논문은 무슨 설계인가?")
+- [[overviews/critical-appraisal-checklists-dental]] — 디자인별 7문항 체크리스트·GRADE 판독·임상 임계값 (본 toolkit을 체크리스트 형식으로 압축한 실전 워크시트)
+- [[overviews/statistical-abbreviations-cheatsheet]] — 통계 약자 9맥락 빠른참조
 
 ## Additional Spokes — 실제 임상 데이터 비판적 평가 사례 (2026-05-26 추가)
 
