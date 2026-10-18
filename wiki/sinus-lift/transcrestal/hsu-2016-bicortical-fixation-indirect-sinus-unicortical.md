@@ -5,7 +5,7 @@ year: 2016
 date: 2016-01-01
 doi: 10.11607/jomi.4142
 pmid: "27004293"
-source: sources/hsu-2016-bicortical-fixation-indirect-sinus-unicortical.md
+source: hsu-2016-bicortical-fixation-indirect-sinus-unicortical.md
 category: sinus-lift/transcrestal
 source_collection: pubmed-abstract
 evidence_level: rct
