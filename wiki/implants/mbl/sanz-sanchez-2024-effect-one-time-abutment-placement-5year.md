@@ -68,7 +68,7 @@ This 5-year follow-up extends Ríos-Santos 2020 (the same cohort, 1-year primary
 - Abayov 2026 SR+MA uses these data: 0.53 mm (OAOT) vs 0.97 mm (control)
 
 ## Related Papers
-- [[implants/mbl/rios-santos-2020-one-abutment-one-time-rct]] — 1-year primary report of this same cohort
+- [[implants/rios-santos-2020-one-abutment-one-time-rct]] — 1-year primary report of this same cohort
 - [[implants/mbl/abayov-2026-one-abutment-one-time-versus]] — SR+MA including this as the longest follow-up; pooled MD −0.23 mm
 - [[implants/mbl/calatrava-2024-effect-one-time-placement-definitive-abutment]] — parallel OAOT RCT (1yr; Camlog; stronger individual signal p=0.008)
 - [[implants/mbl/messias-2019-platform-switching-mbl-5year-rct]] — 5yr PS RCT (different question: PS vs PM; consistent long-term direction)
