@@ -1,7 +1,7 @@
 ---
 title: "Periodontal Host-Modulation & Nutraceutical Adjuncts — Omega-3, CoQ10, Antioxidant Vitamins, ASU & MMP-Inhibition Synthesis (치주 숙주조절·영양보조제 종합)"
 type: synthesis
-date: 2026-06-22
+date: 2026-10-18
 status: done
 source_wiki:
   - wiki/periodontics/heo-2022-omega-3-fatty-acids-periodontitis-ma.md
@@ -12,6 +12,9 @@ source_wiki:
   - wiki/periodontics/oliveira-2024-periodontal-host-modulation-avocado-soybean.md
   - wiki/periodontics/host-modulation/aimetti-2025-doxycycline-local-delivery-periodontal-regeneration-rct.md
   - wiki/periodontics/angelopoulou-2026-melatonin-adjunct-nspt-t2dm-sr-ma.md
+  - wiki/periodontics/abusamak-2026-melatonin-nspt-adjunct-sr-ma.md
+  - wiki/periodontics/oral-hygiene-instruction/berto-2026-propolis-caries-prevention-plaque-sr-ma.md
+  - wiki/periodontics/oral-hygiene-instruction/jiang-2026-curcumin-chlorhexidine-periodontal-sr-ma.md
 category: [periodontics]
 evidence_level: synthesis
 tags: [host-modulation, nutraceutical, omega-3, CoQ10, vitamin-C, ASU, melatonin, doxycycline, MMP, periodontal-adjunct, NSPT, type-2-diabetes]
@@ -28,6 +31,8 @@ tags: [host-modulation, nutraceutical, omega-3, CoQ10, vitamin-C, ASU, melatonin
 > - **ASU (아보카도-대두 불검화물)**: 쥐 결찰 치주염 + 실험적 관절염 모델(n=60)에서 SRP 후 보조 ASU가 치주 골소실을 줄이고 관절염 동물의 악화 결과를 완화 — **동물·전임상 수준 근거** (Oliveira 2024). 류마티스-치주염 양방향 연결의 숙주조절 가설.
 > - **멜라토닌 (Melatonin) — T2DM 한정 신호**: 당뇨병(Type 2 Diabetes Mellitus, T2DM) + 치주염 환자에서 야간 경구 멜라토닌 3 mg를 NSPT에 보조한 SR+MA(RCT 3편, 풀링 2편 n=94, 8주)는 PPD(SMD −1.99)·CAL(SMD −1.49)·당화혈색소(HbA1c, SMD −1.15)·hs-CRP(SMD −0.97)를 유의 개선 — 표준화효과크기는 다른 영양보조제보다 커 보이나 **모두 GRADE low 확실성, 근거 3편뿐**이라 탐색적 수준 (Angelopoulou 2026). 항산화·항염·골보호(항파골) + 당뇨에서 내인성 멜라토닌 고갈을 메우는 대사 효과가 기전. → 영양보조제군 중 *전신질환 동반(T2DM)* 맥락에 한정해 양성 신호를 보인 사례이나 단독 권고 불가.
 > - **MMP-억제 / 국소 독시사이클린**: 고전 숙주조절요법(Host Modulation Therapy, HMT)의 대표는 저용량 독시사이클린(sub-antimicrobial dose doxycycline, SDD)의 MMP 억제 작용. Aimetti 2025 3중맹검 RCT(n=60, 3·4기)는 수술 2주 전 **국소** 독시사이클린(BOOST) → 최소침습수술(MIST)+법랑기질단백(EMD)+이종골에서 CAL 4.1 vs 3.2 mm, 복합성공률 83.3 vs 46.7%(NNT=2.73)로 유의 우월. → 영양보조제군 중 **유일하게 임상적으로 의미있는 효과 크기**이나, 이는 **수술-재생 맥락의 국소 약물**이지 단독 보충제가 아님.
+> - **멜라토닌 — 더 큰 SR+MA(Abusamak 2026, 18편 RCT)와의 대조**: Angelopoulou 2026은 T2DM만 3편 RCT이고 효과 큰 SMD. Abusamak 2026 SR+MA(18편 RCT, 828명; 비당뇨·당뇨 혼합)는 2개월(-1.48mm), 3개월(-0.41mm), 6개월(-0.68mm) CAL 개선이 통계 유의하나 **예측구간(Prediction Interval)이 영을 가로지름** — 이질성 때문에 새 RCT에서 이득을 예측 불가. HbA1c -1.33%(당뇨환자 하위군). 결론: 멜라토닌 이득은 T2DM에서 가장 일관되고(Angelopoulou), 비당뇨 혼합군에서는 이질성으로 불확실(Abusamak).
+> - **천연 항균 보조제 — 프로폴리스 & 커큐민 신규 SR+MA**: Berto 2026 SR+MA(45편): 프로폴리스(Propolis) 제제는 치태지수 감소(SMD −1.11) + 균수 감소(SMD −1.45), 클로르헥시딘(CHX, Chlorhexidine) 대비 통계적 비열등 — 직접 항우식 근거 부족, GRADE 매우 낮음. Jiang 2026 SR+MA(26편 RCT, n=1266): 커큐민(Curcumin)이 CHX와 치태·치은지수·출혈 동등(p>0.05), 그러나 치주낭 깊이(SMD 0.883)·부착소실(SMD 0.539)에서 **CHX가 유의하게 우월**(p<0.001/p=0.042) — 항균 대체제로는 부족, 항염 보조제로만 인식할 것.
 > - **공통 결론(임상 위계)**: ① 기계적 치면세균막 제거(SRP/PMPR)가 비타협 기반, ② 영양·항산화 보조제는 잘해야 sub-mm 부가효과(EFP 반대 또는 very-low 확실성), ③ 임상적 의미있는 부가효과는 약물-수술 병용(국소 DOX+재생술)에서만 관찰됨.
 > - **구분되는 인접 주제**: 본 종합은 *전신·국소 숙주조절/영양* 보조제에 한정. 생균제(probiotics)·항균광역동치료(aPDT)는 [[periodontal-adjunctive-therapy-probiotics-pdt-overview]], 국내 OTC 잇몸약(인사돌·이가탄 성분)은 [[otc-periodontal-adjunct-drugs-insadol-igatan]]로 분리되어 있다.
 
@@ -78,13 +83,19 @@ A T2DM-specific melatonin signal (Angelopoulou 2026, SR+MA, 3 RCTs, PPD SMD −1
 
 ### 5. Melatonin (antioxidant / anti-inflammatory / pro-osteoblastic) — the T2DM-specific signal
 - **Angelopoulou 2026** (SR+MA, 3 RCTs, 149 patients; 2 placebo-controlled trials pooled, n=94, 8 weeks): systemic oral melatonin 3 mg nightly as an NSPT adjunct, restricted to patients with **type 2 diabetes mellitus (T2DM) + periodontitis**, significantly improved PPD (SMD −1.99), CAL (SMD −1.49), HbA1c (SMD −1.15) and hs-CRP (SMD −0.97) vs NSPT/placebo; TAC, TNF-α, and IL-6 were non-significant. **Every outcome GRADE-low certainty.**
+- **Abusamak 2026** (SR+MA, 18 RCTs, 828 patients — the largest melatonin SR+MA; mixed T2DM and non-diabetic): NSPT + systemic melatonin significantly improved CAL at 2 months (−1.48 mm), 3 months (−0.41 mm), and 6 months (−0.68 mm) in fixed-effects models. In the T2DM subgroup, HbA1c improved −1.33%. However, **prediction intervals crossed zero across all timepoints**, indicating substantial heterogeneity — you cannot reliably predict whether a new RCT would show benefit. BOP was non-significant. **Key comparison with Angelopoulou:** the T2DM-specific signal remains consistent (Angelopoulou's 3-RCT, restricted-population pool), while the broader mixed population shows high heterogeneity; the combination suggests T2DM context may be where the benefit is most consistent. Neither meta-analysis upgrades past GRADE low certainty for any individual outcome.
 - **Why it stands slightly apart:** the standardized effect sizes look larger than omega-3 or CoQ10, but two facts temper this: (a) the evidence base is only three small RCTs at low certainty, and (b) the population is narrowed to T2DM, where the rationale (melatonin replenishes the endogenous melatonin that diabetes suppresses, on top of antioxidant/anti-inflammatory/anti-osteoclastic actions) is strongest. This places melatonin at the **systemic-comorbidity-conditioned** end of the supplement spectrum — a plausible adjunct *in diabetic periodontitis specifically*, not a general-population recommendation. It dovetails with the diabetes thread of [[periodontics-treatment-ladder]] (SRP lowers HbA1c ~0.4–0.6%; Simpson 2022) and with the local-ozone diabetic-periodontitis RCT (Barahim 2024) as a parallel host-modulating adjunct in the same population. Like every supplement in this cluster, it cannot yet be recommended as standard adjunctive therapy.
 
 ### 6. MMP-inhibition / locally delivered doxycycline (classic host-modulation drug)
 - **Aimetti 2025** (triple-blind RCT, n=60, stage III/IV): local doxycycline 2 weeks before MIST + EMD + xenograft (BOOST) → CAL gain 4.1 vs 3.2 mm (p=0.019), composite success 83.3% vs 46.7% (NNT=2.73), radiographic bone fill 3.5 vs 2.7 mm at 1 year.
 - **Interpretation:** the one cluster member with a clinically meaningful effect — but it is an MMP-modulating antibiotic deployed inside a regenerative-surgical protocol, the opposite of a standalone supplement. It anchors the "host modulation works *when integrated with definitive therapy*" end of the spectrum. (Systemic sub-antimicrobial-dose doxycycline / Periostat is the textbook HMT agent and shares this MMP-inhibition mechanism.)
 
-### 7. Vitamin D (bone-anabolic / immunomodulatory) — the only agent here with a documented *upper* threshold
+### 7. Natural antimicrobial adjuncts — propolis and curcumin
+- **Berto 2026** (SR+MA, 45 studies; Clin Oral Investig 2026): propolis-containing mouthrinses and dentifrices vs negative control — plaque index (PI, Plaque Index) SMD −1.11, microbial counts SMD −1.45. Propolis formulations were not statistically inferior to chlorhexidine (CHX, Chlorhexidine) for PI or microbial reduction. **Direct caries prevention evidence insufficient**; GRADE very low across outcomes. Mechanism — flavonoid + polyphenol antimicrobial activity — is plausible, but effect size reliability is limited by high heterogeneity and small studies.
+- **Jiang 2026** (SR+MA of RCTs, 26 RCTs, n=1,266; Medicine 2026): curcumin formulations vs CHX as adjunctive periodontal therapy — curcumin equivalent to CHX for PI (SMD −0.041, p=0.69), 치은 염증 지수 (Gingival Index, GI) (p=0.80), and bleeding index (p=0.74). However, **CHX was significantly superior** for probing depth (PD, Probing Depth) (SMD 0.883, p<0.001) and attachment loss (SMD 0.539, p=0.042). Very high I² across all outcomes. **Practical implication:** curcumin may be an anti-inflammatory/antiplaque adjunct comparable to CHX for soft-tissue surface indices, but it cannot replace CHX where pocket depth or attachment level is the endpoint.
+- **Synthesis:** both agents sit in the "CHX-comparable for plaque indices, inferior for structural outcomes" zone. Neither has GRADE evidence above very low. They may be reasonable alternatives for CHX-intolerant patients seeking an antiplaque rinse adjunct, but are not established periodontal therapy adjuncts.
+
+### 8. Vitamin D (bone-anabolic / immunomodulatory) — the only agent here with a documented *upper* threshold
 - **Duarte 2025** (narrative review, SANRA, PubMed-only): vitamin D deficiency is consistently associated with impaired osseointegration, reduced bone-to-implant contact (BIC), and accelerated marginal bone loss (MBL). Mechanistically, calcitriol upregulates RUNX2, ALP, osteopontin (OPN), and osteocalcin (OCN) in periodontal ligament and peri-implant cells, suppresses RANKL/TNF-α/IL-1 signaling, and enhances mineral nodule formation. Both systemic supplementation and topical implant-surface coating are documented strategies.
 - **The threshold finding**: hypervitaminosis D (**>70 ng/mL**) was associated with a **21.1-fold increase in peri-implant bone loss**. This makes vitamin D the only agent in this cluster where the dose–response is explicitly non-monotonic — more is not better, and the harm signal sits above the deficiency signal in clinical consequence.
 - **Interpretation:** the evidence base is predominantly **preclinical** (animal and in vitro) with only limited clinical studies, no standardized dosing protocol, and unknown behavior in diabetes, osteoporosis, or other systemic comorbidities. The practical takeaway is asymmetric: **correcting documented deficiency is defensible; supplementing to high-normal or above is not**, and the U-shape means "just take vitamin D for your implants" is affirmatively bad advice. Where a patient is already supplementing, a serum 25(OH)D level is the relevant check before implant surgery — not a reflexive dose increase. [확인(수치)/미검증(임상 인과)]
@@ -103,6 +114,8 @@ A T2DM-specific melatonin signal (Angelopoulou 2026, SR+MA, 3 RCTs, PPD SMD −1
 | Local doxycycline + regen surgery | RCT (Aimetti 2025) | CAL +0.9 mm, NNT 2.73 | moderate | Meaningful — but surgical/regenerative context |
 | Vitamin D — correcting deficiency | narrative review (Duarte 2025) | impaired BIC/MBL when deficient | preclinical-dominant | Correct documented deficiency before implant surgery |
 | Vitamin D — supplementing above normal | narrative review (Duarte 2025) | **>70 ng/mL → 21.1× peri-implant bone loss** | preclinical-dominant | **Do not** push high-dose; check 25(OH)D if already supplementing |
+| Propolis (rinse/dentifrice) | SR+MA, 45 studies (Berto 2026) | PI SMD −1.11; non-inferior to CHX for plaque | **very low** | Reasonable CHX alternative for plaque; no structural outcome evidence |
+| Curcumin vs CHX | SR+MA, 26 RCT (Jiang 2026) | PI/GI/bleeding = CHX; PD/attachment CHX superior | **very low** | Not a periodontal therapy adjunct; antiplaque alternative for CHX-intolerant |
 
 **Clinical rule of thumb:** Foundation = SRP/PMPR (± regenerative surgery for deep intrabony defects). Supplements (omega-3, CoQ10, antioxidant vitamins, ASU) are optional, low-yield add-ons — counsel honestly that benefit is sub-millimeter and certainty weak. If host modulation is genuinely pursued for advanced disease, the evidence points to MMP-targeting drugs integrated with definitive (often surgical) therapy, not to consumer nutraceuticals.
 
@@ -114,6 +127,8 @@ A T2DM-specific melatonin signal (Angelopoulou 2026, SR+MA, 3 RCTs, PPD SMD −1
 - [[periodontics/host-modulation/angelopoulou-2026-melatonin-adjunct-nspt-t2dm-sr-ma]] — melatonin 3 mg/night NSPT adjunct in T2DM periodontitis; SR+MA positive (PPD/CAL/HbA1c/hs-CRP) but GRADE-low, T2DM-restricted
 - [[periodontics/host-modulation/hong-2019-randomized-double-blind-placebo-controlled-multicenter]] — vitamin C/E + lysozyme (CELC/IGATAN); GI only
 - [[periodontics/host-modulation/oliveira-2024-periodontal-host-modulation-avocado-soybean]] — ASU; animal host-modulation
+- [[periodontics/oral-hygiene-instruction/berto-2026-propolis-caries-prevention-plaque-sr-ma]] — propolis SR+MA (45 studies); non-inferior to CHX for plaque/microbes; GRADE very low
+- [[periodontics/oral-hygiene-instruction/jiang-2026-curcumin-chlorhexidine-periodontal-sr-ma]] — curcumin vs CHX SR+MA (26 RCTs); equal for surface indices, CHX superior for PD/attachment
 - [[periodontics/host-modulation/aimetti-2025-doxycycline-local-delivery-periodontal-regeneration-rct]] — local doxycycline + regen surgery; only clinically meaningful effect
 - [[implants/vitamin-d/duarte-2025-vitamin-d-periimplant-periodontal]] — vitamin D in peri-implant healing and periodontal disease; RUNX2/ALP/OPN/OCN upregulation and RANKL suppression, but hypervitaminosis D (>70 ng/mL) associated with 21.1-fold peri-implant bone loss — the cluster's only documented upper threshold
 - [[periodontics/abusamak-2026-melatonin-nspt-adjunct-sr-ma]] — SR+MA of melatonin as NSPT adjunct in periodontitis; PPD/CAL/BOP outcomes and anti-inflammatory mechanisms; extends the nutraceutical axis alongside angelopoulou-2026 (T2DM-specific) with a broader population scope (sr+ma, 2026)
