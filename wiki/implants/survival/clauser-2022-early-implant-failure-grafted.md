@@ -7,7 +7,7 @@ doi: ""
 pmid: "35266666"
 source: clauser-2022-early-implant-failure-grafted.md
 category: [implants/survival]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: ""
 pdf_filename: ""
 source_collection: pubmed-abstract
