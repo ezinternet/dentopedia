@@ -67,6 +67,6 @@ Histological analysis demonstrated that new bone formation in the bone patch gro
 
 ## Related Papers
 
-- [[implants/ridge-augmentation/benic-2014-horizontal-bone-augmentation-guided-regeneration]] — GBR 기본 원칙 확립
-- [[implants/ridge-augmentation/buser-2023-gbr-implant-35years-basic-principle-review]] — GBR 35년 회고적 리뷰
-- [[implants/immediate-implant/chen-2009-clinical-esthetic-outcomes-implants-postextraction]] — 발치 후 즉시 식립 심미 구역 결과
+- [[bone-regeneration/benic-2014-horizontal-bone-augmentation-guided-regeneration]] — GBR 기본 원칙 확립
+- [[bone-regeneration/buser-2023-gbr-implant-35years-basic-principle-review]] — GBR 35년 회고적 리뷰
+- [[immediate-implant/esthetic-soft-tissue/chen-2009-clinical-esthetic-outcomes-implants-postextraction]] — 발치 후 즉시 식립 심미 구역 결과
