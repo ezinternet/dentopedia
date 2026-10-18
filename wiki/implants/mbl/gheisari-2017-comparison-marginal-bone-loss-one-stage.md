@@ -98,7 +98,7 @@ All implants: Astra Tech system (Dentsply Implants, Sweden), cylindrical design.
 
 ## Related Papers
 
-- [[wiki/implants/mbl/verma-2024-comparison-bone-loss-submerged-nonsubmerged]] — 3-arm RCT (2024) comparing submerged (cover screw) vs non-submerged anatomical vs esthetic healing abutments at 3 months; submerged had least MBL (0.18 mm CBCT). This study extends the comparison to 6 months post-loading with a different implant system (Astra Tech cylindrical).
+- [[implants/mbl/verma-2024-comparison-bone-loss-submerged-nonsubmerged]] — 3-arm RCT (2024) comparing submerged (cover screw) vs non-submerged anatomical vs esthetic healing abutments at 3 months; submerged had least MBL (0.18 mm CBCT). This study extends the comparison to 6 months post-loading with a different implant system (Astra Tech cylindrical).
 - Siadat et al. (refs 22, 23) — Compared one-stage vs two-stage crestal bone loss at 1 year; no significant difference, consistent with current findings.
 - Wenström et al. 2000 (ref 25) — 5-year follow-up of submerged vs non-submerged (153 implants, 81 patients); no difference in peri-implant bone height changes related to surgical approach.
 - Dias et al. (ref 24) — Early loading stimulates bone remodeling; relevant to the 3-month loading protocol used here.
