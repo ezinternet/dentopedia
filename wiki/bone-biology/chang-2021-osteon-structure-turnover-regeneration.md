@@ -6,7 +6,7 @@ date: 2021-03-08
 doi: "10.1089/ten.TEB.2020.0322"
 source: chang-2021-osteon-structure-turnover-regeneration.md
 category: [bone-biology]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/chang-2021-osteon-structure-turnover-regeneration.pdf
 pdf_filename: chang-2021-osteon-structure-turnover-regeneration.pdf
 source_collection: external
