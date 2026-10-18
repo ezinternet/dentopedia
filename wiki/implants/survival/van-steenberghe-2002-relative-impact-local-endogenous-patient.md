@@ -8,7 +8,7 @@ pmid: "12519336"
 journal: "Clin Oral Implants Res 13(6):617-622"
 source: van-steenberghe-2002-relative-impact-local-endogenous-patient.md
 category: [implants/survival]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: 
 pdf_filename: 
 source_collection: pubmed-text
