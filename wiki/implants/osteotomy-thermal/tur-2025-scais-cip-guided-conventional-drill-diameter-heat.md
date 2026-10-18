@@ -106,7 +106,7 @@ Medical University of Vienna, Department of Prosthodontics and Dental Material S
 ## Related Papers
 
 - [[implants/osteotomy-thermal/gokce-uckun-2025-guided-surgery-cold-irrigation-temperature]] — guided surgery + cold irrigation; D3 sheep bone
-- [[implants/osteotomy-thermal/strbac-2014-guided-conventional-drilling-heat-irrigation]] — earlier guided surgery thermal comparison from same Vienna group
-- [[implants/osteotomy-thermal/eriksson-albrektsson-1984-critical-bone-temperature]] — 47°C/1min threshold
+- strbac-2014-guided-conventional-drilling-heat-irrigation — earlier guided surgery thermal comparison from same Vienna group
+- eriksson-albrektsson-1984-critical-bone-temperature — 47°C/1min threshold
 - [[implants/osteotomy-thermal/gedik-2025-four-drill-systems-ceramic-heat-osteotomy]] — drill design comparison; irrigation-controlled
 - [[overviews/osteotomy-drilling-heat-determinants-irrigation-overview]] — synthesis hub
