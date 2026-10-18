@@ -10,7 +10,7 @@ source_collection: external
 ---
 
 ## Why Ingested
-RCT comparing one-stage vs two-stage surgical approaches for marginal bone loss (MBL) around Astra Tech implants. Extends the evidence base on surgical protocol MBL outcomes alongside [[wiki/implants/mbl/verma-2024-comparison-bone-loss-submerged-nonsubmerged]], which found submerged (cover screw) protocol minimized early MBL vs non-submerged healing abutments at 3 months. This 2017 RCT provides longer follow-up (6 months post-loading) and a different implant system (Astra Tech), testing whether the MBL difference persists through functional loading.
+RCT comparing one-stage vs two-stage surgical approaches for marginal bone loss (MBL) around Astra Tech implants. Extends the evidence base on surgical protocol MBL outcomes alongside [[implants/mbl/verma-2024-comparison-bone-loss-submerged-nonsubmerged]], which found submerged (cover screw) protocol minimized early MBL vs non-submerged healing abutments at 3 months. This 2017 RCT provides longer follow-up (6 months post-loading) and a different implant system (Astra Tech), testing whether the MBL difference persists through functional loading.
 
 ## Three-line Summary
 Randomized clinical trial comparing crestal bone loss at mesial/distal surfaces of 310 Astra Tech implants placed via one-stage (170 implants, 90 patients) or two-stage (140 implants, 50 patients) surgery, with 6-month post-loading follow-up using parallel periapical radiography.
@@ -66,7 +66,7 @@ One-stage 군 **0.760±0.04 mm**, two-stage 군 **0.842±0.04 mm**로 수치상 
 - No power calculation or sample size justification reported
 
 ## 6. Related Work
-- Verma 2024: 3-arm RCT (submerged/cover screw vs non-submerged anatomical vs esthetic healing abutment) at 3 months; submerged had least MBL (0.18 mm CBCT) — [[wiki/implants/mbl/verma-2024-comparison-bone-loss-submerged-nonsubmerged]]
+- Verma 2024: 3-arm RCT (submerged/cover screw vs non-submerged anatomical vs esthetic healing abutment) at 3 months; submerged had least MBL (0.18 mm CBCT) — [[implants/mbl/verma-2024-comparison-bone-loss-submerged-nonsubmerged]]
 - Siadat et al. 2012/2013 (refs 22, 23): Compared one-stage vs two-stage crestal bone loss at 1 year; no significant difference
 - Wenström et al. 2000 (ref 25): 5-year follow-up, submerged vs non-submerged; no difference in bone level changes related to surgical approach
 - Dias et al. (ref 24): Early loading stimulates bone remodeling
