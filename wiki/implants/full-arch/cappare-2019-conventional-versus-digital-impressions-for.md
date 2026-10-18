@@ -109,11 +109,11 @@ This prospective randomized clinical trial compared conventional versus digital 
 
 | Paper | Relation | Notes |
 |-------|----------|-------|
-| [[implants/full-arch/gh erlone-2016-conventional-versus-digital-all-on-four]] | Complements | Gherlone 2016 compared conventional vs digital for All-on-4; this RCT uses All-on-6 maxillary |
-| [[implants/full-arch/papaspyridakos-2017-digital-workflow-fixed-implant-rehab]] | Supports | Papaspyridakos 2017 found digital more accurate in vitro; this RCT confirms clinical equivalence |
-| [[implants/full-arch/ferrini-2018-digital-vs-traditional-posterior-maxillary]] | Relates to | Same research group (Ferrini/Cappare); 3-year follow-up for posterior maxillary with 1 straight + 1 tilted implant |
-| [[implants/full-arch/ender-2015-in-vitro-accuracy-full-arch]] | Context | Ender & Mehl 2015 in vitro accuracy comparison of conventional vs digital full-arch |
-| [[implants/full-arch/am in-2017-digital-vs-conventional-full-arch-implant-impressions]] | Context | Amin 2017 in vitro: digital mean 3D deviation <50 μm vs conventional 167.93 μm for full-arch |
+| gh erlone-2016-conventional-versus-digital-all-on-four | Complements | Gherlone 2016 compared conventional vs digital for All-on-4; this RCT uses All-on-6 maxillary |
+| papaspyridakos-2017-digital-workflow-fixed-implant-rehab | Supports | Papaspyridakos 2017 found digital more accurate in vitro; this RCT confirms clinical equivalence |
+| ferrini-2018-digital-vs-traditional-posterior-maxillary | Relates to | Same research group (Ferrini/Cappare); 3-year follow-up for posterior maxillary with 1 straight + 1 tilted implant |
+| ender-2015-in-vitro-accuracy-full-arch | Context | Ender & Mehl 2015 in vitro accuracy comparison of conventional vs digital full-arch |
+| am in-2017-digital-vs-conventional-full-arch-implant-impressions | Context | Amin 2017 in vitro: digital mean 3D deviation <50 μm vs conventional 167.93 μm for full-arch |
 
 ## Clinical Takeaway
 
