@@ -8,7 +8,7 @@ pmid: "27632263"
 journal: "Int J Oral Maxillofac Implants 31(5):1077-1088"
 source: shi-2016-survival-of-implants-using-the.md
 category: [sinus-lift/transcrestal]
-confidence: sr
+evidence_level: sr
 pdf_path: 
 pdf_filename: 
 source_collection: pubmed-text
