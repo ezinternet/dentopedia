@@ -60,4 +60,4 @@ This Cochrane Intervention Review (first published 2019, incorporating previous 
 - [[periodontics/oral-hygiene-instruction]] — 기계적 치면세균막 관리(혀 클리닝 포함)
 - [[interdental-cleaning]] — 치간 청소 도구와 구취 연관성
 - [[oral-medicine/jkda-2022-60-4-001]] — 한국 생리적 구취 환자 questionnaire·dietary·salivary 분석 (JKDA 2022)
-- [[oral-medicine/lopez-valverde-2022-role-probiotics-halitosis]] — 프로바이오틱스 구취 관리 역할 SR
+- [[halitosis/lopez-valverde-2022-role-probiotics-halitosis]] — 프로바이오틱스 구취 관리 역할 SR
