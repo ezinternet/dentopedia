@@ -77,7 +77,7 @@ This 2026 SR+MA (PROSPERO-registered) is the first meta-analysis restricted to b
 ## Related Papers
 - [[implants/mbl/juan-montesinos-2022-platform-switching-conventional-sr-ma]] — SR+MA PS vs PM (all connection types), 2022; this paper extends with conical-only focus
 - [[implants/mbl/messias-2019-platform-switching-mbl-5year-rct]] — 5yr PS RCT; consistent PS MBL benefit direction
-- [[implants/mbl/rios-santos-2020-one-abutment-one-time-rct]] — one of the 7 included RCTs (Ríos-Santos 2020)
+- [[implants/rios-santos-2020-one-abutment-one-time-rct]] — one of the 7 included RCTs (Ríos-Santos 2020)
 - [[implants/mbl/calatrava-2024-effect-one-time-placement-definitive-abutment]] — included RCT; strongest single-study signal (p=0.008)
 - [[implants/mbl/sanz-sanchez-2024-effect-one-time-abutment-placement-5year]] — included RCT; 5yr follow-up
 - [[implants/mbl/tajti-2024-less-marginal-bone-loss]] — abutment height SR+MA; contextualises abutment design variables
