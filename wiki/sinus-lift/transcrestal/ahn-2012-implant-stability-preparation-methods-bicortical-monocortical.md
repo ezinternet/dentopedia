@@ -5,7 +5,7 @@ year: 2012
 date: 2012-01-01
 doi: 10.1016/S0022-3913(12)60092-4
 pmid: "22633592"
-source: sources/ahn-2012-implant-stability-preparation-methods-bicortical-monocortical.md
+source: ahn-2012-implant-stability-preparation-methods-bicortical-monocortical.md
 category: sinus-lift/transcrestal
 source_collection: pubmed-abstract
 evidence_level: in-vitro
