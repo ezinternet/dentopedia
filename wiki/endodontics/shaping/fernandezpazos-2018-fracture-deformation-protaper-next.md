@@ -67,6 +67,6 @@ This prospective clinical study evaluated fracture and deformation defects in 57
 - Most fractures located in apical third
 
 ## Related Papers
-- [[endodontics/shaping/plotino-2019-protaper-next-cyclic-fatigue]] — In-vitro cyclic fatigue resistance comparison; ProTaper Next superior to WaveOne Gold and ProTaper Universal, reinforcing clinical fracture resistance hierarchy
-- [[endodontics/shaping/bui-2018-protaper-next-cyclic-fatigue]] — In-vitro cyclic fatigue study showing ProTaper Next M-Wire outperforms conventional NiTi files; extends the alloy-level evidence base
-- [[endodontics/shaping/shen-2009-single-use-small-files]] — Early clinical evidence supporting single-use for small files; this study provides ProTaper Next-specific confirmation
+- plotino-2019-protaper-next-cyclic-fatigue — In-vitro cyclic fatigue resistance comparison; ProTaper Next superior to WaveOne Gold and ProTaper Universal, reinforcing clinical fracture resistance hierarchy
+- bui-2018-protaper-next-cyclic-fatigue — In-vitro cyclic fatigue study showing ProTaper Next M-Wire outperforms conventional NiTi files; extends the alloy-level evidence base
+- shen-2009-single-use-small-files — Early clinical evidence supporting single-use for small files; this study provides ProTaper Next-specific confirmation
