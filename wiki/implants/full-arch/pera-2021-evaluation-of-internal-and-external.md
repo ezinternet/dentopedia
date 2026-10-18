@@ -74,9 +74,9 @@ relations:
 
 ## Related Papers
 
-- [[implants/internal-connection/walter-2022-two-piece-internal-connection-8yr]] — 2-piece internal connection 8년 RCT, 다른 연결계열 장기 결과
-- [[implants/internal-connection/rodrigues-2023-internal-connection-mbl-survival-sr-ma]] — internal connection MBL/생존 SR+MA
-- [[implants/full-arch/menini-2019-internal-external-hex-1yr]] — 동일 그룹 1년 예비결과(Int J Oral Implantol)
-- [[implants/full-arch/canullo-2020-connection-configurations-rct]] — 연결 구성 RCT
+- walter-2022-two-piece-internal-connection-8yr — 2-piece internal connection 8년 RCT, 다른 연결계열 장기 결과
+- rodrigues-2023-internal-connection-mbl-survival-sr-ma — internal connection MBL/생존 SR+MA
+- menini-2019-internal-external-hex-1yr — 동일 그룹 1년 예비결과(Int J Oral Implantol)
+- canullo-2020-connection-configurations-rct — 연결 구성 RCT
 - Lemons 2018 (J Dent SR+MA) — EHC vs IHC 메타분석
 - Esposito 2016 (Eur J Oral Implantol) — internal vs external 5년 RCT
