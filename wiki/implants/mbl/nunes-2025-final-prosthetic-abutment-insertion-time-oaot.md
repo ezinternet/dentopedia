@@ -63,4 +63,4 @@ This PRISMA SR+MA evaluates the effect of definitive abutment timing on peri-imp
 - [[implants/mbl/abayov-2026-one-abutment-one-time-versus]] — parallel independent SR+MA (7 RCTs; PS+conical-only; MD −0.23 mm); broader vs narrower inclusion comparison
 - [[implants/mbl/calatrava-2024-effect-one-time-placement-definitive-abutment]] — likely included RCT (strongest single signal, p=0.008)
 - [[implants/mbl/sanz-sanchez-2024-effect-one-time-abutment-placement-5year]] — likely included RCT (5yr; NS)
-- [[implants/mbl/rios-santos-2020-one-abutment-one-time-rct]] — likely included RCT (1yr; Ankylos)
+- [[implants/rios-santos-2020-one-abutment-one-time-rct]] — likely included RCT (1yr; Ankylos)
