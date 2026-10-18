@@ -79,4 +79,4 @@ Meta-analysis demonstrated no statistically significant differences between spli
 
 - [[complete-denture/prasad-2024-attachment-systems-mandibular-implant]] — RCT-exclusive SR+MA of individual attachment types (LOCATOR, ball, magnet, bar); also confirms no splinting advantage on biological complications (P=.902), extends this paper's findings to prosthetic complication hierarchy
 - [[complete-denture/bi-2022-attachment-type-implant-number-overdenture]] — attachment type and implant number interaction in overdenture outcomes
-- [[complete-denture/lan-2025-long-term-four-implant-supported]] — long-term outcomes of four-implant overdentures; provides extended follow-up context
+- [[implants/full-arch/lan-2025-four-implant-overdenture-vs-fixed-sr-ma]] — long-term outcomes of four-implant overdentures; provides extended follow-up context
