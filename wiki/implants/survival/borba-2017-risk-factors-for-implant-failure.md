@@ -8,7 +8,7 @@ pmid: "28832716"
 journal: "Braz Oral Res 31:e69"
 source: borba-2017-risk-factors-for-implant-failure.md
 category: [implants/survival]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/borba-2017-risk-factors-for-implant-failure.pdf
 pdf_filename: borba-2017-risk-factors-for-implant-failure.pdf
 source_collection: external
