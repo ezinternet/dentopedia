@@ -138,3 +138,5 @@ python3 scripts/daily-audit.py     # 26 audits → logs/
 - **Single source of truth**: categories → `wiki/_meta/categories.md`; ingest·page templates → `INGEST.md`; OPS routing → `OPERATIONS.md`; audits → `AUDITS.md`; publish URL → `PUBLISH_BASE` above. Never a second copy.
 
 When in doubt, follow rule #1.
+
+@AGENTS.md
