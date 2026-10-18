@@ -8,7 +8,7 @@ pmid: "26836129"
 journal: "Implant Dent 25(2):272-280"
 source: manzano-2016-risk-factors-in-early-implant.md
 category: [implants/survival]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: 
 pdf_filename: 
 source_collection: pubmed-text
