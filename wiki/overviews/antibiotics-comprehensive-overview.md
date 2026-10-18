@@ -2,7 +2,7 @@
 title: "Dental Antibiotics Comprehensive Overview"
 authors: synthesis (llm-wiki)
 year: 2026
-date: 2026-08-18
+date: 2026-10-18
 category: [overviews]
 tags: [antibiotics, endodontics, periodontics, oral-surgery, implant, prophylaxis, stewardship, amoxicillin, clindamycin, metronidazole, overview]
 source_papers:
@@ -27,6 +27,9 @@ source_papers:
   - drug/antibiotics/sperotto-2024-antibiotic-prophylaxis-infective-endocarditis-sr-ma
   - drug/antibiotics/vavro-2024-antibiotic-susceptibility-orofacial-infections
   - drug/antibiotics/chunduri-2012-bacterial-spectrum-orofacial-infections
+  - drug/antibiotics/esposito-2026-antibiotics-implant-placement-cochrane-pub5
+  - drug/antibiotics/almadhoon-2026-antibiotic-prescribing-implant-surgery-sr-ma
+  - drug/antibiotics/baker-2026-dentistry-amr-strategy-perspective
 evidence_level: synthesis
 source: synthesis
 ---
@@ -38,7 +41,7 @@ source: synthesis
 > - **근관치료**: SIP·치수괴사·국소 농양에는 항생제 무효, 배농·근관치료가 1차; 전신 증상(발열·림프절·봉와직염) 동반 시에만 적응 (Segura-Egea 2017, Tampi 2019). [확인]
 > - **치주치료**: SRP 보조 전신 항생제는 CAL 0.3-0.4mm 개선이나 근거 질 "약함" (Botelho 2025 우산형 고찰); 국소 전달이 전신 AMR 최소화 관점에서 우선. [확인]
 > - **구강외과**: 술전 단일 Amoxicillin 2g이 표준; 24시간 초과 연장은 SSI 감소 없이 AMR만 증가 (Mohammadpour 2025, Bwire 2025). [확인]
-> - **임플란트**: 건강 환자 비복잡 임플란트에는 예방 불필요 — NNT 143 (Momand 2024 SR+MA); 즉시 발치 후 임플란트에만 고려. [확인]
+> - **임플란트**: 엔드포인트에 따라 결론이 갈린다. **조기 실패(Early Failure)** 에 대해서는 예방 불필요 NNT 143 (Momand 2024). 그러나 **전체 실패+보철 실패+감염** 에 대해서는 Esposito 2026 Cochrane pub5(15편 RCT, 2,874명)가 단일 술전 Amoxicillin 2g이 "아마도 감소"(RR 0.34, NNT=19, 중등도 확신)를 보여준다 — 직접 모순이 아니라 엔드포인트 차이. 단일 용량 = 다회 용량. 처방 실태: 61.3% 루틴 처방, 가이드라인 일치율 1–28%(Almadhoon 2026 SR+MA, 7,266명 치과의사). [확인]
 > - **약물 선택**: Amoxicillin 1차(부작용 21.5/million, 치명 0.1/million); Clindamycin 회피(치명 2.9/million, C. difficile) (Thornhill 2019). [확인]
 > - **미국 처방 실태**: 근관치료 후 19%가 항생제 복용(가이드라인 대비 과잉); 소수 인종·저학력 환자에게 더 많이 처방 (Law 2026). [확인]
 > - **국제 과처방**: 싱가포르(71-74%), 이란(51-70%), 유럽(40-86%)에서 가이드라인 대비 과처방 광범위 (Low 2026, Nazari 2026, Segura-Egea 2017). [확인]
@@ -124,6 +127,17 @@ Drug selection: amoxicillin first-line (adverse-event rate 21.5/million, fatalit
 
 [확인] Torof 2023 SR+MA: 단일 술전 Amoxicillin 2g이 조기 실패 유의 감소(Momand과 상충 → 방법론 차이).
 
+**엔드포인트가 다른 두 Cochrane 수준 분석 — 겉으론 모순, 실제론 상보적.** Esposito 2026 Cochrane pub5(15편 RCT, 2,874명; 5번째 개정판)는 예방 항생제(단일 술전 Amoxicillin 2g)가 **전체 임플란트 실패(any-time failure)** + 보철 실패 + 술후 감염을 중등도 확신으로 유의하게 줄인다고 보고(RR 0.34, NNT=19). 반면 Momand 2024(7편, 위약대조 이중맹검 RCT)는 **조기 임플란트 실패(early implant failure; 기능 개시 이전 또는 직후)** 에 대해 NNT 143으로 불필요하다는 결론이다. 두 논문의 엔드포인트가 다르므로 진짜 모순이 아니다:
+
+| 분석 | 엔드포인트 | 결론 | NNT |
+|---|---|---|---|
+| Momand 2024 | 조기 실패 (early failure) | **예방 불필요** | 143 |
+| Esposito 2026 (Cochrane 5판) | 전체 실패 + 보철 실패 + 감염 | **아마도 필요** (중등도 확신) | 19 |
+
+추가적으로 Esposito 2026은 **단일 용량 = 다회 용량**임을 재확인하고, 단독 술전 투여로 충분함을 지지한다. 현 시점 잠정 결론: 단순 이진법("예방 필요/불필요") 대신 **"조기 실패 예방"과 "전체 실패·감염 예방"을 구분하여 임상 결정**해야 한다. 건강 환자 단순 임플란트에서 루틴 예방을 고려하는 것은 이제 Esposito 2026의 중등도 확신 근거로 뒷받침된다.
+
+**처방 실태 — SR+MA로 정량화된 과처방.** Almadhoon 2026 SR+MA(39편, 치과의사 7,266명, 환자 137,207명): 루틴 임플란트 수술 예방 처방율 **61.3%**; 가이드라인 일치율 **1–28%**(최근 들어 하락 추세). 가장 많이 쓰이는 처방 패턴은 술전+술후 병용(52.6%)으로, 근거에 기반하면 술후 과정은 이득이 없음에도 지배적이다. 이 수치는 이 오버뷰의 "과처방 광범위" 절을 정량화하는 최초의 임플란트-특이적 SR+MA다.
+
 ### 2-5. 상악동거상술 (Sinus Floor Elevation)
 
 [확인] Díaz 2025 우산형 고찰(7 SR/MA, 18,900명+):
@@ -155,6 +169,9 @@ Drug selection: amoxicillin first-line (adverse-event rate 21.5/million, fatalit
 [확인] Low 2026(싱가포르, n=280): 예방 처방 71-74% 과처방.
 [확인] Nazari 2026(이란, n=103): 51-70% 부적절 처방.
 [확인] Segura-Egea 2017(유럽): 40-86% 금기 처방.
+[확인] Almadhoon 2026 SR+MA(39편, 7,266명 치과의사, 137,207명 환자): 임플란트 루틴 예방 처방율 61.3%; 가이드라인 일치율 1–28%(하락 추세); 술전+술후 병용이 52.6%로 지배적.
+
+**항균제내성(AMR, Antimicrobial Resistance) 관점 — 치과의 전략적 위치.** Baker 2026 mBio perspective: 치과는 전 세계 항생제 처방의 **~10%**를 차지하지만 AMR 대응 전략에서 과소 대표되어 있다. 4기둥 대응 제안: ① 단일 국가 지침 통합, ② 국가 항균제 내성 실행계획(NAP)에 치과 포함, ③ 치과대학 교육, ④ 구강 내 내성 미생물군(Oral Resistome) 감시. 이 오버뷰가 다루는 과처방 실태는 단순히 임상 실수의 문제가 아니라 **AMR 공중보건 위기의 일부**다.
 
 ---
 
@@ -167,7 +184,10 @@ Drug selection: amoxicillin first-line (adverse-event rate 21.5/million, fatalit
 | 치주 CAL +0.3-0.4mm | 약함 (우산형 고찰) | Botelho 2025 |
 | 구강외과 perioperative ≤24h | 중간 (스코핑 SR) | Mohammadpour 2025 |
 | 술후 연장 불필요 | 중간 (우산형 고찰) | Bwire 2025 |
-| 임플란트 예방 불필요 (NNT 143) | 중간 (SR+MA) | Momand 2024 |
+| 임플란트 예방 불필요 — **조기 실패 한정** (NNT 143) | 중간 (SR+MA) | Momand 2024 |
+| 임플란트 예방 단일 술전 2g — **전체 실패+감염 감소** (NNT 19) | 중간 (Cochrane 5판) | Esposito 2026 |
+| 임플란트 루틴 처방 61.3%, 가이드라인 일치율 1–28% | 중간 (SR+MA) | Almadhoon 2026 |
+| 치과 = 세계 항생제 처방 ~10%, AMR 전략에 과소 대표 | 전문가 의견 (perspective) | Baker 2026 |
 | Amoxicillin 1차 선택 | 강함 (NHS 데이터) | Thornhill 2019 |
 | Clindamycin 회피 | 강함 (NHS 데이터) | Thornhill 2019 |
 
