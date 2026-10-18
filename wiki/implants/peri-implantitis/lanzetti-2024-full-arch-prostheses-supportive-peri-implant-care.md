@@ -64,4 +64,4 @@ Full-arch fixed implant prostheses are the hardest reconstruction for a patient 
 
 - [[implants/peri-implantitis/mojaver-2025-supportive-peri-implant-therapy-efficacy-sr]] — SPiT efficacy and risk-based recall across all implant types
 - [[implants/peri-implantitis/jepsen-2015-primary-prevention-periimplantitis-managing-mucositis]] — managing mucositis as prevention
-- [[complete-denture/lan-2025-long-term-four-implant-supported]] — full-arch implant-supported prosthesis longevity
+- [[implants/full-arch/lan-2025-four-implant-overdenture-vs-fixed-sr-ma]] — full-arch implant-supported prosthesis longevity
