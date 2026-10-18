@@ -6,7 +6,7 @@ date: 2025-01-01
 doi: 10.1016/j.identj.2024.12.026
 pmid: "39779383"
 pmcid: "PMC12142781"
-source: sources/zheng-2025-ultrashort-implants-posterior-maxilla-bicortical-osfe-fea.md
+source: zheng-2025-ultrashort-implants-posterior-maxilla-bicortical-osfe-fea.md
 category: sinus-lift/transcrestal
 source_collection: pubmed-abstract
 evidence_level: in-vitro
