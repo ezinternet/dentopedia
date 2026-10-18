@@ -6,7 +6,7 @@ date: 2024-09-19
 doi: "10.3390/biomimetics9090568"
 source: stauber-2024-trabecular-bone-osseodensification-sheep.md
 category: [implants/osseodensification]
-confidence: animal
+evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/stauber-2024-trabecular-bone-osseodensification-sheep.pdf
 pdf_filename: stauber-2024-trabecular-bone-osseodensification-sheep.pdf
 source_collection: external
