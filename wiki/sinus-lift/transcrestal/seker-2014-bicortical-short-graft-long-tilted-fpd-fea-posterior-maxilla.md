@@ -5,7 +5,7 @@ year: 2014
 date: 2014-01-01
 doi: 10.11607/jomi.3264
 pmid: "24451875"
-source: sources/seker-2014-bicortical-short-graft-long-tilted-fpd-fea-posterior-maxilla.md
+source: seker-2014-bicortical-short-graft-long-tilted-fpd-fea-posterior-maxilla.md
 category: sinus-lift/transcrestal
 source_collection: pubmed-abstract
 evidence_level: in-vitro
