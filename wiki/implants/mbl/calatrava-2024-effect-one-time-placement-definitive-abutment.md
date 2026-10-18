@@ -69,5 +69,5 @@ This single-center RCT randomized 40 patients (80 implants; 40 OAOT, 40 repeated
 ## Related Papers
 - [[implants/mbl/abayov-2026-one-abutment-one-time-versus]] — SR+MA including this RCT; provides pooled effect (MD −0.23 mm) across 7 trials
 - [[implants/mbl/sanz-sanchez-2024-effect-one-time-abutment-placement-5year]] — parallel 5yr OAOT RCT; same design question, longer follow-up
-- [[implants/mbl/rios-santos-2020-one-abutment-one-time-rct]] — earlier OAOT RCT (1yr; Ankylos C/X)
+- [[implants/rios-santos-2020-one-abutment-one-time-rct]] — earlier OAOT RCT (1yr; Ankylos C/X)
 - [[implants/mbl/stacchi-2023-marginal-bone-changes-platform-switched-conical]] — placement depth RCT in PS conical connection; same implant design paradigm
