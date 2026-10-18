@@ -102,6 +102,6 @@ The answer, from the only RCT in Prado-Mel 2022, is no — at least not rapidly.
 
 ## Related Pages
 
-- [[overviews/polypharmacy-elderly-oral-health-overview]] — 다약제복용·노인 구강 건강 전반 종합
+- polypharmacy-elderly-oral-health-overview — 다약제복용·노인 구강 건강 전반 종합
 - [[overviews/drug-anticoagulant-antiplatelet-perioperative-overview]] — 항혈전제 관리
 - [[drug/mronj/ruggiero-2022-aaoms-mronj-position-paper-update]] — MRONJ 표준 지침
