@@ -162,7 +162,7 @@ The `suture-wound-closure/` category contains a third-molar cluster that looks d
 - [[suture-wound-closure/pachipulusu-2018-primary-secondary-closure-third-molar]] (RCT, n=60, 30/arm): secondary closure gave significantly less pain and swelling and greater mouth opening (p<0.05), with no difference in periodontal healing at 6 months (alveolar osteitis in 1 secondary-closure patient, 3.3%). The frontmatter records a `contradicts` edge to Takadoum.
 - [[suture-wound-closure/takadoum-2022-sutureless-socket-technique-third-molars]] (multicentric open RCT, 3 French hospitals, CONSORT-compliant, n=94 analyzed): **no difference in Day-3 pain (p=0.904) or any secondary outcome** — swelling, trismus, painkillers, healing, complications, quality of life; operating time shorter without sutures. Smoking independently raised complication risk 3.65-fold (p=0.0244).
 
-The wiki's own reading of this cluster — recorded in [[suture-wound-closure/suture-wound-closure]] and its ladder [[suture-wound-closure/suture-wound-closure-decision-ladder]] — is that the correct interpretation is **"omitting sutures does no harm," not "sutureless is superior."** The larger adequately-powered trial sets the equivalence baseline against which the single-center positives should be read.
+The wiki's own reading of this cluster — recorded in [[suture-wound-closure/suture-wound-closure]] and its ladder [[overviews/suture-wound-closure-decision-ladder]] — is that the correct interpretation is **"omitting sutures does no harm," not "sutureless is superior."** The larger adequately-powered trial sets the equivalence baseline against which the single-center positives should be read.
 
 Two things follow for implant practice. First, **no implant study in this set demonstrates a morbidity reduction from leaving the wound open** — the implant literature measures esthetic and dimensional outcomes, not pain and swelling. Any chairside claim that open healing is more comfortable in implant surgery is currently unsupported here. Second, the transferable item is a risk modifier, not a technique: **smoking raises complication risk 3.65-fold regardless of closure strategy**, which makes smoking cessation a higher-yield intervention than the closure choice itself. That same cluster also flags an important population boundary — the sutureless RCTs *excluded* antiplatelet/anticoagulant users and coagulopathy patients, so "omitting sutures is harmless" must not be extrapolated to them, where suturing is hemostasis in its own right.
 
@@ -236,9 +236,9 @@ The question has one upstream variable: **does the wound close passively, or doe
 
 ## Related overviews
 
-- [[suture-wound-closure/suture-wound-closure-decision-ladder]] — the tension-stratified closure ladder; this page specializes its high-tension/implant branch with the open-healing evidence
+- [[overviews/suture-wound-closure-decision-ladder]] — the tension-stratified closure ladder; this page specializes its high-tension/implant branch with the open-healing evidence
 - [[open-healing-arp-technique-variables-overview]] — open-healing ARP technique variables (flap, suture, membrane layers, compressive force); shares axes 1 and 4
 - [[immediate-implant-esthetic-soft-tissue-overview]] — esthetic-zone IIP synthesis; carries the Zadikian open-healing result as one of its four controllable levers
 - [[immediate-implant-decision-ladder]] — the timing/indication branch that this page's closure decision sits inside
-- [[immediate-implant/immediate-implant-conditions]] — Type-1 indication and risk factors
-- [[oral-surgery/oral-mucosal-vs-dermal-wound-healing-mechanism-synthesis]] — re-epithelialization timing, the cellular basis for how fast an open oral wound closes
+- [[overviews/immediate-implant-conditions]] — Type-1 indication and risk factors
+- [[overviews/oral-mucosal-vs-dermal-wound-healing-mechanism-synthesis]] — re-epithelialization timing, the cellular basis for how fast an open oral wound closes
