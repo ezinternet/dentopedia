@@ -37,7 +37,7 @@ source_papers:
   - wiki/sinus-lift/transcrestal/hsu-2016-bicortical-fixation-indirect-sinus-unicortical.md
   - wiki/sinus-lift/transcrestal/wolff-2022-two-year-followup-bicortical-unicortical-ise-posterior-maxilla.md
   - wiki/sinus-lift/transcrestal/bhave-2023-unicortical-bicortical-anchorage-posterior-maxilla.md
-  - wiki/sinus-lift/transcrestal/lombardi-2025-bone-level-tissue-level-short-implants-maxilla.md
+  - wiki/implants/short-narrow/lombardi-2025-bone-level-tissue-level-short-implants-maxilla.md
   - wiki/sinus-lift/transcrestal/ng-2018-bicortical-engagement-atrophic-posterior-maxillae.md
   - wiki/sinus-lift/transcrestal/malo-2014-bicortical-anchorage-posterior-maxilla-7year.md
 relations:
@@ -56,7 +56,7 @@ relations:
   - type: extends
     target: wiki/sinus-lift/transcrestal/wolff-2022-two-year-followup-bicortical-unicortical-ise-posterior-maxilla
   - type: extends
-    target: wiki/sinus-lift/transcrestal/lombardi-2025-bone-level-tissue-level-short-implants-maxilla
+    target: wiki/implants/short-narrow/lombardi-2025-bone-level-tissue-level-short-implants-maxilla
 ---
 
 ## 한국어 핵심요약
@@ -192,7 +192,7 @@ Malo 2014 (retrospective, 88 patients, 124 implants, median 7 years, immediate f
 | [[sinus-lift/transcrestal/hsu-2016-bicortical-fixation-indirect-sinus-unicortical]] | RCT (3-arm) | 45 | Primary ISQ NS (p=0.13); secondary ISQ all ~80 (p>0.999); bone density r=0.37 | rct |
 | [[sinus-lift/transcrestal/wolff-2022-two-year-followup-bicortical-unicortical-ise-posterior-maxilla]] | RCT follow-up (2yr) | 37 | PTV NS (p=0.76); ISE > BF intrasinus bone (p=0.03); 0 failures | rct |
 | [[sinus-lift/transcrestal/bhave-2023-unicortical-bicortical-anchorage-posterior-maxilla]] | Prospective split-mouth | 42 | Bicortical ISQ 71.1 vs unicortical 65.7 at 3 mo (p<0.001); CBL equivalent | prospective |
-| [[sinus-lift/transcrestal/lombardi-2025-bone-level-tissue-level-short-implants-maxilla]] | Prospective multicenter | 71 | Bicortical → IT (p<0.05); NOT ISQ or PBR; mucosa ≤2 mm dominates PBR | prospective |
+| [[implants/short-narrow/lombardi-2025-bone-level-tissue-level-short-implants-maxilla]] | Prospective multicenter | 71 | Bicortical → IT (p<0.05); NOT ISQ or PBR; mucosa ≤2 mm dominates PBR | prospective |
 | [[sinus-lift/transcrestal/ng-2018-bicortical-engagement-atrophic-posterior-maxillae]] | Retrospective (1–5yr) | 56 | Bicortical 100% vs unicortical 74.68% survival; 6 mm unicortical 51.85% | retrospective |
 | [[sinus-lift/transcrestal/malo-2014-bicortical-anchorage-posterior-maxilla-7year]] | Retrospective (median 7yr) | 124 | Survival 94.2%; 5yr MBL 1.56 mm; bruxism 61% of mechanical complications | retrospective |
 
