@@ -6,7 +6,7 @@ date: 2015-01-01
 doi: 10.3892/etm.2015.2205
 pmid: "25667644"
 pmcid: "PMC4316907"
-source: sources/yan-2015-implant-apex-sinus-floor-resonance-frequency-fea.md
+source: yan-2015-implant-apex-sinus-floor-resonance-frequency-fea.md
 category: sinus-lift/transcrestal
 source_collection: pubmed-abstract
 evidence_level: in-vitro
@@ -88,5 +88,5 @@ Sinus membrane von Mises: increased under immediate loading with apex in cortex 
 - [[sinus-lift/transcrestal/han-2016-primary-stability-bicortical-posterior-maxilla]] — in vitro ISQ vs RBH; the ISQ gap this FEA explains mechanistically
 - [[sinus-lift/transcrestal/ahn-2012-implant-stability-preparation-methods-bicortical-monocortical]] — RT (axial) vs ISQ (buccolingual) differ; consistent with axial/buccolingual distinction here
 - [[sinus-lift/transcrestal/bhave-2023-unicortical-bicortical-anchorage-posterior-maxilla]] — clinical ISQ gap 71.1 vs 65.7; axial stabilization explains the benefit
-- [[sinus-lift/transcrestal/lombardi-2024-bone-level-tissue-level-short-implants-posterior-maxilla]] — clinical: bicortical → IT but NOT ISQ; directly consistent with this FEA
+- [[sinus-lift/transcrestal/lombardi-2025-bone-level-tissue-level-short-implants-maxilla]] — clinical: bicortical → IT but NOT ISQ; directly consistent with this FEA
 - [[sinus-lift/transcrestal/zheng-2025-ultrashort-implants-posterior-maxilla-bicortical-osfe-fea]] — extends this FEA framework to ultrashort implants + OSFE comparison
