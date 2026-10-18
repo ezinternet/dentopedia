@@ -1,0 +1,309 @@
+TITLE: One-Abutment-One-Time Versus Repeated Abutments Disconnections in Platform-Switched Conical Connection Dental
+AUTHORS: Abayov Pinny, Bangiev Lior, Mizrahi Lir Ben, Bangiyev Nathanel, Gervickas Albinas, Juodžbalys Gintaras
+JOURNAL: Journal of Oral & Maxillofacial Research
+ID[pmcid]: PMC13576734
+ID[pmcid-ver]: PMC13576734.1
+ID[pmcaid]: 13576734
+ID[pmcaiid]: 13576734
+ID[pmid]: 42746320
+ID[doi]: 10.5037/jomr.2026.17201
+ID[publisher-id]: v17n2e1ht
+
+## ABSTRACT
+ABSTRACT
+ObjectivesThe one-abutment-one-time protocol has been proposed to improve peri-implant tissue stability by minimizing repeated abutment manipulation. This systematic review and meta-analysis evaluated the effect of one-abutment-one-time compared with repeated abutment disconnections on peri-implant marginal bone loss and secondary clinical outcomes in platform-switched, conical-connection dental implants.
+Material and MethodsA PRISMA-guided systematic review of randomized controlled trials published between 2018 and 2025 was conducted. Studies included adult patients restored with bone-level, platform-switched implants with an internal conical connection. Marginal bone loss (MBL) was the primary outcome; probing depth (PD), implant survival, and biological and prosthetic complications were secondary outcomes. Meta-analyses were performed using random-effects models.
+ResultsSeven randomized controlled trials were included. All studies reported numerically lower MBL with one-abutment-one-time (OAOT). Pooled analysis of six parallel-group trials demonstrated a statistically significant reduction in MBL favouring OAOT (mean difference -0.23 mm; 95% CI = -0.44 to -0.02). No significant differences were observed for PD. Implant survival rates were high and comparable between protocols, and complication rates were low with no consistent intergroup differences.
+ConclusionsThe one-abutment-one-time protocol is associated with a modest but consistent reduction in peri-implant marginal bone loss in platform-switched, conical-connection implants, without clear benefits for other peri-implant clinical
+outcomes.
+
+## INTRODUCTION
+
+Dental implant placement is among the most frequently performed surgical procedures in dentistry and is associated with high long-term survival rates when appropriate clinical protocols are followed [1].
+
+Although implant survival rates are generally high, long-term treatment success depends not only on osseointegration but also on the preservation of peri-implant hard and soft tissues over time [2-6].
+
+Among the factors influencing peri-implant tissue stability, the design of the implant-abutment connection has received considerable attention. The two most commonly used configurations are flat-to-flat and conical (tapered) connections. Growing evidence indicates that conical implant-abutment connections combined with platform switching are associated with improved peri-implant tissue outcomes, including reduced marginal bone loss (MBL), enhanced soft tissue stability, and a lower incidence of prosthetic complications [7,8].
+
+Beyond implant design, abutment handling during healing and prosthetic treatment differs between two clinically used protocols. In clinical practice, two main approaches are described: the one-abutment-one-time (OAOT) protocol and protocols involving repeated abutment disconnections. In the OAOT approach, a definitive prosthetic abutment is connected at the time of implant placement and is intentionally left undisturbed throughout the healing and prosthetic phases. All subsequent procedures, including impressions or digital scans, try-ins, and final restoration delivery, are performed at the abutment level, without routine abutment removal [9].
+
+In contrast, conventional protocols involve placement of a healing abutment at implant surgery, followed by planned removal and reconnection of the healing and/or definitive abutments during different stages of prosthetic treatment, such as impression taking, prosthetic try-in, and final crown delivery [10,11].
+
+In recent years, several clinical studies have investigated the biological effects of abutment manipulation on peri-implant tissue stability. Most available evidence indicates that limiting abutment disconnections by using the OAOT approach is associated with reduced peri-implant MBL compared with protocols involving repeated abutment removal and reconnection. Nevertheless, heterogeneity in study design, follow-up duration, implant systems, and outcome assessment limits the comparability of findings and the ability to define the magnitude and clinical relevance of this effect, particularly in implants with conical connections [12-14].
+
+Therefore, the aim of this systematic review is to systematically evaluate the effect of one-time definitive abutment placement compared with repeated abutment disconnections on peri-implant marginal bone loss and soft tissue stability in platform-switched, conical-connection dental implants. The two main objectives were identified:
+
+To evaluate the effect of the one-abutment-one-time protocol compared with repeated abutment disconnections on peri-implant marginal bone loss in adult patients restored with platform-switched, conical-connection dental implants.To evaluate whether the one-abutment-one-time protocol is associated with more favourable secondary peri-implant outcomes, including probing depth, implant survival, and the incidence of biological and prosthetic complications, compared with repeated abutment disconnections.
+
+## MATERIAL AND METHODS
+
+Protocol and registration
+
+The present systematic review adhered to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines [15].
+
+It was prospectively registered in the International Prospective Register of Systematic Reviews (PROSPERO) under the registration number CRD420251151458, accessible at http://www.crd.york.ac.uk/PROSPERO/CRD420251151458.
+
+Focus question
+
+The research question was formulated using the PICO framework as described in Table 1. The focus question: “In adult patients with conical abutment platform-switched implants, does the one-abutment - one-time protocol, compared with repeated abutment disconnections, result in reduced marginal bone loss (primary outcome), and more favourable probing depth, implant survival, and biological and prosthetic complication rates (secondary outcomes)?”
+
+[TABLE] PICO guidelines
+Population (P) | Adult patients (≥ 18 years) with conical abutment platform-switched implants
+
+Intervention (I) | One-abutment-one-time protocol, where the definitive abutment is connected at implant placement and not subsequently removed
+
+Comparison (C) | Repeated abutment disconnections, in which healing or provisional abutments are removed and reconnected one or more times during the prosthetic phase
+
+Outcomes (O) | Primary outcomes: marginal bone loss.
+
+Secondary outcomes: probing depth, survival rate, biological complications, and prosthetic complications.
+
+Focus question | In adult patients with conical abutment platform-switched implants, does the one-abutment-one-time protocol, compared with repeated abutment disconnections, result in reduced marginal bone loss (primary outcome), and more favourable probing depth, implant survival, and biological and prosthetic complication rates (secondary outcomes)?
+
+Information sources
+
+A comprehensive search was conducted in MEDLINE (PubMed), supplemented by a manual search of reference lists of relevant studies.
+
+Search strategy
+
+A comprehensive literature search was conducted for studies published from November 1, 2018, to November 1, 2025. Combinations of MeSH terms and free-text keywords were used as presented in Table 2.
+
+[TABLE] Keyword combinations (MeSH terms)
+First | "dental implants" [MeSH Terms] AND "dental abutments" [MeSH Terms] OR "definitive abutment" [Text Word] OR "healing abutment" OR [Text Word] OR "dental Implant-abutment Design" [MeSH Terms] OR "one abutment one time" OR "repeated disconnection" [Text Word] AND "bone loss" [Text Word] OR "marginal bone loss" [Text Word] OR "peri-implant bone" [Text Word] OR "crestal bone" [Text Word]
+
+Second | "dental implants"[MeSH Terms] AND ("dental abutments"[MeSH Terms] OR "definitive abutment"[Text Word] OR "healing abutment"[Text Word] OR "dental implant-abutment design"[MeSH Terms] OR "one abutment one time"[Text Word] OR "OAOT"[Text Word] OR "abutment disconnection"[Text Word] OR "repeated disconnection"[Text Word]) AND ("bone loss"[Text Word] OR "marginal bone loss"[Text Word] OR "peri-implant bone"[Text Word] OR "crestal bone"[Text Word] OR "peri-implant marginal bone"[Text Word])
+
+Selection of studies
+
+The study selection process was conducted in sequential phases. First, studies were retrieved using predefined search terms (Table 2). All identified records were imported into the screening platform, and duplicate entries were removed. Titles and abstracts were then screened for eligibility using Rayyan® (Qatar Computing Research Institute; HBKU, Doha, Qatar). Full-texts of potentially relevant articles were subsequently reviewed to determine compliance with the predetermined inclusion and exclusion criteria, and only those meeting all criteria were included in the final review. Screening and selection were performed independently by two reviewers (P.A. and L.B.). Any disagreements were resolved through consultation with a senior investigator (G.J.). Inter-reviewer reliability was evaluated using Cohen’s kappa coefficient (κ).
+
+Types of publications
+
+This review was limited to studies carried out on human subjects and available in the English language.
+
+Articles that did not present original clinical data, including systematic reviews, meta-analyses, case reports, letters, and conference abstracts, were excluded from consideration.
+
+Types of studies
+
+Only randomized controlled trials (RCTs) were considered for inclusion in this review. The eligibility window was limited to studies published between November 1, 2018, and November 1, 2025.
+
+Type of population
+
+The population of the included studies comprised adults (≥ 18 years) who received bone-level, platform-switched dental implants with an internal conical abutment connection. Participants were systemically healthy or had well-controlled systemic conditions.
+
+In all studies, the OAOT group was treated with an OAOT protocol, in which the definitive abutment was placed once and not subsequently removed, whereas the control group underwent at least one disconnection and reconnection of a healing or provisional abutment during the prosthetic phase.
+
+Inclusion criteria
+
+Articles published between November 1, 2018, and November 1, 2025.Human clinical studies including participants aged 18 years or older receiving platform-switched, bone-level two-piece dental implants.Studies conducted in systemically healthy adults or patients with well-controlled systemic conditions.Studies involving platform-switched conical implant-abutment connections.Studies assessing OAOT protocol, where the definitive abutment is placed and not removed, compared with repeated abutment disconnections, where healing or provisional abutments are removed and reconnected at least once during prosthetic stages.Studies reporting peri-implant clinical and radiographic parameters: MBL, probing depth (PD).RCTs with a minimum patient sample size of 10.
+
+Exclusion criteria
+
+Animal, cadaveric, or in vitro studies Literature reviews, systematic reviews, meta-analyses, case reports, editorials, or conference abstracts.Pregnant patients.Studies involving flat-to-flat (external hex) abutment-implant connections or mixed connection types.Tissue level implants.Secondary reports of the same study population.
+
+Sequential search strategy
+
+The search was performed in a sequential manner, beginning with database retrieval using predefined search terms, followed by duplicate removal, title and abstract screening, and full-text assessment based on the predefined inclusion and exclusion criteria, leading to the final selection of eligible studies.
+
+Data extraction
+
+The first author (P.A.) independently extracted all relevant data from the included studies in accordance with the predefined objectives of this review. A second author (L.B.) independently verified the extracted data for accuracy and consistency prior to compilation into the final dataset. Any discrepancies were resolved through discussion, and when necessary, by consultation with a third senior author (G.J.).
+
+Data items
+
+Study, year of pubclication, follow-up (years), patients, dropout, age (years), gender (male/female, implants (n), implant and abutment system, implant dimensions (mm), jaw location (%), loading protocol, disconnections, MBL (mm), PD (mm), survival rate, biological complications, prosthetic complications.
+
+Risk of bias assessment
+
+The Joanna Briggs Institute (JBI) Critical Appraisal Checklists for RCTs (Table 3) were used to evaluate the risk of bias [16]. Studies were classified as having a high risk of bias if ≤ 49% of checklist items were rated positive, a moderate risk if 50 to 69% were positive, and a low risk if ≥ 70% of items met the appraisal criteria.
+
+[TABLE] The Joanna Briggs Institute Critical Appraisal Checklist for randomized controlled trials (RCTs)
+Q1 | Was true randomization used for assignment of participants to treatment groups?
+
+Q2 | Was allocation to treatment groups concealed?
+
+Q3 | Were treatment groups similar at the baseline?
+
+Q4 | Were participants blind to treatment assignment?
+
+Q5 | Were those delivering treatment blind to treatment assignment?
+
+Q6 | Were outcomes assessors blind to treatment assignment?
+
+Q7 | Were treatment groups treated identically other than the intervention of interest?
+
+Q8 | Was follow up complete and if not, were differences between groups in terms of their follow up adequately described and analysed?
+
+Q9 | Were participants analysed in the groups to which they were randomized?
+
+Q10 | Were outcomes measured in the same way for treatment groups?
+
+Q11 | Were outcomes measured in a reliable way?
+
+Q12 | Was appropriate statistical analysis used?
+
+Q13 | Was the trial design appropriate, and any deviations from the standard RCTs design (individual randomization, parallel groups) accounted for in the conduct and analysis of the trial?
+
+Statistical analysis
+
+Inter-reviewer reliability for title and abstract screening as well as the full-text selection was evaluated using Cohen’s kappa coefficient (κ). Meta-analyses were conducted in RStudio version 1.4.1564 (Posit PBC; Boston, Massachusetts, USA) using a random-effects model with restricted maximum likelihood (REML) estimation to account for between-study heterogeneity. Continuous outcomes (MBL and PD, both in mm) were synthesized as mean differences (MDs) with 95% confidence intervals (CIs), and heterogeneity was quantified using I2 and τ2. Forest plots were generated to display individual and pooled effect estimates. For MBL, potential small-study effects were explored using a funnel plot and Egger’s regression test. The split-mouth trial was not included in the quantitative synthesis because its paired design violates the independence assumption of parallel-group meta-analysis and was therefore summarized descriptively.
+
+## RESULTS
+
+Study selection
+
+The systematic search identified a total of 3,403 records from electronic database MEDLINE (PubMed) (Figure 1).
+
+[FIGURE] PRISMA flow diagram.
+
+After removal of 28 duplicate records, 3,375 unique records remained for screening. During the screening stage, 3,365 titles and abstracts were excluded for not meeting the inclusion criteria, resulting in 10 full-text articles being assessed for eligibility. Following full-text evaluation, seven [17-23] studies met all eligibility criteria and were included in the systematic review (Figure 1).
+
+Inter-reviewer agreement between the two authors (L.B. and P.A.) was excellent, with Cohen’s kappa coefficients of κ = 0.90 for title and abstract screening and κ = 1.00 for full-text selection, indicating near-perfect agreement.
+
+Exclusion of studies
+
+After full-text evaluation, 3 studies were excluded for the following reasons: one study [24] was a secondary publication derived from the same study population with shorter follow-up periods; one study [25] was excluded due to the use of a non-eligible implant design (tissue-level implants); and one study [26] was excluded because it employed a non-conical implant-abutment connection.
+
+Quality assessment of the included studies
+
+Using the JBI Critical Appraisal Checklist for RCTs (Table 4), six [17-23] of the seven included trials were assessed as having a low risk of bias, while one [18] was classified as moderate risk of bias, mainly due to unmet or unclear items related to blinding and allocation procedures.
+
+[TABLE] Risk of bias summary for the included randomized controlled trials using the Joanna Briggs Institute Critical Appraisal Checklists
+Praça et al. [17] | RCT | + | + | + | - | - | + | + | + | + | + | + | + | +
+
+D'Avenia et al. [18] | RCT | + | - | + | - | - | + | - | + | + | + | + | + | ?
+
+Ríos-Santos et al. [19] | RCT | + | ? | + | - | - | + | + | + | + | + | + | + | +
+
+Hamudi et al. [20] | RCT
+(split-mouth design) | + | ? | + | - | - | + | + | + | + | + | + | + | +
+
+Moreira et al. [21] | RCT | + | ? | + | - | - | + | + | + | + | + | + | + | +
+
+Calatrava et al. [22] | RCT | + | + | + | - | - | + | + | + | + | + | + | + | +
+
+Sanz-Sánchez et al. [23] | RCT | + | ? | + | - | - | + | + | + | + | + | + | + | +
+
+Study characteristics
+
+This review included seven [17-23] RCTs published between 2020 and 2024, comparing the OAOT protocol versus repeated abutment disconnections in patients with conical platform-switched dental implants. The main study characteristics and methodological parameters are summarized in Table 5. Across the seven included trials, a total of 395 patients were enrolled. Demographic data indicated a diverse patient population, with mean ages ranging from 34.33 to 66.23 years (age was not recorded in one study). Both male and female patients were well-represented across the OAOT and control groups in the majority of the trials, though one study did not report gender distribution. Altogether, the studies evaluated a total of 645 implants. A variety of implant and abutment systems from different manufacturers were utilized, specifically: Morse Taper M+N (Zimmer Biomet; Warsaw, Indiana, USA), conical platform switching implant system - Ankylos® C/2 (Dentsply Sirona - Dentsply Implants Manufacturing GmbH; Mannheim, Germany), Klockner® VEGA® implants with a ContacTi® surface (Soadco S.L.; Escaldes-Engordany, Andorra), MIS® C1 (MIS Implants Technologies, Ltd.; Bar Lev industrial zone, Misgav, Israel), and Conelog® Screw-Line (Camlog; Wimsheim, Germany).
+
+[TABLE] Study characteristics according to methodology
+Praça et al. [17] | 2020 | 2 | 24 | 12 | 12 | 0 | 34.33 (7.79) | 5; 7 | 8; 4 | 12 | 12 | Morse Taper M+N
+(Zimmer Biomet) | 8.5, 10, 11.5 | 4.1, 5.1 | Lower and upper second premolar and first molar | 3 | 3
+
+D'Avenia et al. [18] | 2020 | 5 | 80 | 40 | 40 | 13 | NR | 17; 23 | 16; 24 | 58 | 70 | Ankylos® C/X
+(Dentsply Sirona) | 8, 9.5, 11, 14 | 3.5, 4.5, 5.5 | Maxilla: 36.2; 
+mandible: 64 | Maxilla: 43;
+mandible: 57 | 24 h provisonal without occlusal contacts | 3 | 3
+
+Ríos-Santos et al. [19] | 2020 | 1 | 160 | 79 | 81 | 13 | 54.89 | 40; 31
+(after dropout) | 35; 41 (after dropout) | 117 | 141 | Klockner® VEGA® implants with a ContacTi® surface
+(Soadco S.L.) | 8, 10, 12, 14 | 4, 4.5 | NR | 4 | 4 | 3
+
+Hamudi et al. [20] | 2021 | 3 | 21 | 21 | 21 | 0 | 66.23 (9.35) | 6/15 | 21 | 21 | MIS® C1
+(MIS Implants Technologies, Ltd.) | 8, 10, 11.5, 13, 16 | 3.75, 4.2, 5.0 | Maxilla 43;
+mandible 57 | 3 to 6 | 3-5
+
+Moreira et al. [21] | 2021 | 1 | 31 | NR | NR | 0 | 50.7
+(range 32 to 67) | NR | NR | 23 | 30 | Klockner® VEGA® implants with a ContacTi® surface
+(Soadco S.L.) | 8, 10, 12 | 4, 4.5 | Maxilla 47.8; mandible 52.2 | Maxilla 33.3; mandible 66.7 | 3 | 3
+
+Calatrava et al. [22] | 2024 | 1 | 40 | 20 | 20 | 3 | 55.17 (10.62) | 12; 8 | 8; 12 | 40 | 40 | Conelog® Screw-Line
+(Camlog) | 7, 9, 11 | 3.8, 4.3 | Maxilla 45; mandible 55 | Maxilla 55; mandible 45 | 3 | 3
+
+Sanz-Sánchez et al. [23] | 2024 | 5 | 39 | 18 | 21 | 7 | 52.11 | 11; 7 | 11; 10 | 29 | 31 | Conelog® Screw-Line
+(Camlog) | 9, 11, 13 | 3.8, 4.3 | Maxilla 44.45; mandible 47.62 | Maxilla 55.56; mandible 52.38 | 1.5 to 3 | 1
+
+For the control groups undergoing repeated abutment disconnections, the number of disconnections was predominantly three, although it ranged from one to as many as five depending on the specific study protocol. Overall follow-up periods for the included studies ranged from 1 to 5 years.
+
+Primary and secondary outcomes
+
+Marginal bone loss
+
+All included studies reported numerically lower MBL in the OAOT group compared with the control group (Table 6). Statistically significant differences favouring the OAOT group were observed in three studies (D’Avenia et al. [18], P = 0.012; Hamudi et al. [20], P = 0.005; and Calatrava et al. [22], P = 0.008), whereas four studies did not demonstrate statistically significant differences between groups (Praca et al. [17], P = 0.792; Ríos-Santos et al. [19], P > 0.05; Moreira et al. [21], P = 0.33; and Sanz-Sánchez et al. [23], P = 0.063).
+
+[TABLE] Results of primary and secondary outcomes
+Praça et al. [17] | -0.18 (0.12) | -0.13 (0.13) | 0.792 | 1.01 (0.19) | 1.02 (0.06) | 0.96 | 100 | 100 | NR | NR | NR | NR
+
+D'Avenia et al. [18] | 0.11 (0.3) | 0.48 (0.73) | 0.012 | NR | NR | NR | 100 | 92.9 | 0 | 5 | 1 | 9
+
+Ríos-Santos et al. [19] | 0.36 (0.79) | 0.48 (0.71) | > 0.05 | NR | NR | NR | 99.1 | 97.9 | NR | NR | NR | NR
+
+Hamudi et al. [20] | 0.35 (0.69) | 0.57 (0.8) | 0.005 | NR | NR | NR | 100 | 100 | 38.1% | 41.9% | NR | NR
+
+Moreira et al. [21] | 0.14 (0.21) | 0.21 (0.27) | 0.33 | NR | NR | NR | 100 | 100 | NR | NR | NR | NR
+
+Calatrava et al. [22] | -0.53 (0.54) | -0.01 (0.55) | 0.008 | 2.56 (0.12) | 2.44 (0.12) | 0.486 | 94.7 | 100 | 0 | 0 | NR | NR
+
+Sanz-Sánchez et al. [23] | 0.534 (0.83) | 0.97 (0.78) | 0.063 | 2.99 (0.94) | 2.92 (0.89) | 0.753 | 96.6 | 100 | 12 PIM; 1 PI | 13 PIM; 0 PI | NR | NR
+
+Notably, the three-year, randomized, controlled, split-mouth trial by Hamudi et al. [20] (n = 21) demonstrated a clear within-patient advantage of the OAOT group in terms of peri-implant bone preservation; MBL during follow-up was substantially reduced around OAOT implants compared with control implants, with mean values of 0.35 mm (SD 0.69) and 0.57 mm (SD 0.8), respectively.
+
+Probing depth
+
+Only three studies [17,22,23] reported probing depth (PD) data, and none demonstrated statistically significant differences between the OAOT group and the control group (Table 6). Specifically, Praca et al. [17] reported a mean PD of 1.01 mm (SD 0.19) for the OAOT group and 1.02 mm (SD 0.06) for the control group (P = 0.96). Calatrava et al. [22] reported 2.56 mm (SD 0.12) and 2.44 mm (SD 0.12) for the OAOT and control groups, respectively (P = 0.486). Finally, Sanz-Sánchez et al. [23] observed a mean PD of 2.99 mm (SD 0.94) in the OAOT group versus 2.92 mm (SD 0.89) in the control group (P = 0.753).
+
+Survival rate
+
+All studies reported high survival rates in both the OAOT group and control group, generally exceeding 94% (Table 6). For instance, the split-mouth trial by Hamudi et al. [20] reported an implant survival rate of 100% in both OAOT and control sites. Minor numerical differences between groups were observed in some other studies; however, no statistical comparisons were reported, and no clinically relevant differences in survival were identified between the groups.
+
+Biological complications
+
+Across the included studies, the incidence of biological complications was low and comparable between the OAOT group and control group, with no consistent or clinically relevant differences reported between groups (Table 6). Specifically, in the split-mouth study by Hamudi et al. [20], the probability of biological complications was comparable, reported at 38.1% for OAOT implants and 41.9% for control implants.
+
+Prosthetic complications
+
+Across all included studies, only D’Avenia et al. [18] reported prosthetic complication data, with a higher number of complications observed in the control group (n = 9) compared with the OAOT group (n = 1) (Table 6). Other trials, such as the split-mouth study by Hamudi et al. [20], reported no prosthetic complications in either group.
+
+Synthesis of results
+
+Since the study by Hamudi et al. [20] was split-mouth design and lacked independence between observations, the study was excluded from the quantitative meta-analysis, which compared RCTs. It is worth noting that the direction effect used in this trial was in line with the pooled results of parallel-group studies.
+
+Marginal bone loss
+
+Figure 2 presents the results of a random-effects meta-analysis of six parallel-group RCTs (603 implants: 279 OAOT and 324 control). A statistically significant difference in MBL was observed between the OAOT and control groups, with a pooled mean difference indicating lower MBL in the OAOT group by 0.23 mm (MD = -0.23 mm; 95% CI = -0.44 to -0.02). As the confidence interval did not include zero, this finding represents a minor but statistically significant reduction favouring the OAOT group. Substantial between-study heterogeneity was detected (I2 = 77%) with moderate between-study variance (τ2 = 0.0304); therefore, a random-effects model was appropriately applied to estimate the average treatment effect across heterogeneous clinical settings.
+
+[FIGURE] Forest plot of mean differences of marginal bone loss in the one-abutment-one-time and control groups.
+
+Probing depth
+
+A random-effects meta-analysis of three RCTs that provided PD results (164 implants: 81 OAOT and 83 control) showed no statistically significant difference between the OAOT and control groups (Figure 3). The mean difference between groups indicated a slight increase in the PD of the OAOT group (MD = 0.07 mm, 95% CI = -0.12 to 0.26). However, the confidence interval included zero, which indicated the random effect model was non-significant. There was also moderate heterogeneity in the variability of effect estimates, with between-study heterogeneity (I2 = 52.5%). The between-study variance was small (τ2 = 0.0052), suggesting that all studies estimated the same underlying effect.
+
+[FIGURE] Forest plot of mean differences of probing depth in the one-abutment-one-time and control groups.
+
+## DISCUSSION
+
+This systematic review and meta-analysis evaluated the impact of the OAOT protocol compared with repeated abutment disconnections in bone-level, platform-switched implants with an internal conical connection. All included studies investigated implant systems that combine an internal conical connection with platform-switching design features, which are associated with reduced micromovement, improved mechanical stability, and diminished bacterial microleakage at the implant-abutment interface. In such systems, peri-implant bone remodeling is generally well controlled, and large differences in MBL are not expected. This is supported by Cooper et al. [27], who demonstrated that implants with an internal conical implant-abutment interface exhibited better marginal bone level stability and higher short-term survival compared with flat-to-flat and platform-switched interfaces.
+
+Across all included trials, MBL was numerically lower in the OAOT group. Although only a subset of individual trials reached statistical significance when analysed separately, the pooled meta-analysis of six out of the seven included studies demonstrated a statistically significant reduction in MBL, favouring OAOT (MD = -0.23 mm; 95% CI = -0.44 to -0.02).
+
+This finding is supported by Lorenz et al. [28], who reported a consistent trend toward reduced MBL with the OAOT protocol compared to repeated abutment disconnections.
+
+From a biological standpoint, the potential advantage of the OAOT protocol is related to reduced disruption of the peri-implant soft tissue seal. Abrahamsson et al. [29] demonstrated that repeated abutment disconnection and reconnection compromised the peri-implant mucosal barrier, resulting in an apical displacement of the connective tissue zone and additional marginal bone resorption, which was interpreted as a biologically driven response aimed at re-establishing an appropriate peri-implant biological width. This biological mechanism has been further supported by clinical and histologic observations reported by Kim et al. [30] and Degidi et al. [31]
+
+However, interpretation of the observed biological advantage of the OAOT protocol should be made with caution, as several prosthetic-related variables may influence marginal bone level changes independently of abutment manipulation. Among these variables, abutment height was not consistently reported across the included studies, despite evidence indicating that longer abutments are associated with reduced MBL. In this regard, Muñoz et al. [32] reported significantly lower marginal bone level changes around implants restored with longer abutments compared with shorter ones.
+
+Additionally, the transmucosal emergence profile may also influence peri-implant bone remodeling. Strauss et al. [33] demonstrated that wider restorative angles were associated with increased MBL and impaired integrity of the junctional epithelium within the implant supracrestal tissue complex.
+
+Regarding secondary outcomes, the available evidence does not demonstrate a significant benefit of OAOT in terms of PD. Only three studies [17,22,23] reported PD data, and the pooled analysis showed no statistically significant difference between OAOT and control protocols. This finding suggests that the biological effect of OAOT is primarily expressed at the crestal bone level rather than through measurable changes in peri-implant sulcus depth. Similarly, implant survival rates were uniformly high in both groups, generally exceeding 94%, indicating that both protocols are clinically reliable with respect to implant survival.
+
+Data on biological and prosthetic complications were limited and inconsistently reported, precluding meaningful quantitative synthesis. Where available, biological complication rates were low and comparable between groups. Only one study [18] reported prosthetic complications, with a higher incidence observed in the repeated disconnection group. While this finding is biologically plausible, the scarcity of data prevents firm conclusions and highlights the need for standardized reporting of prosthetic outcomes in future trials.
+
+The split-mouth RCT included in this review demonstrated lower MBL around implants treated with the OAOT protocol compared with control implants within the same patients. Although excluded from the meta-analysis due to the lack of independence between observations, the direction of effect was consistent with that of the includedstudies [17-23].
+
+Limitations
+
+The number of eligible RCTs was limited, and follow-up durations varied considerably across studies. In addition, incomplete reporting of key clinical variables restricted the ability to perform subgroup analyses that could identify patient- or implant-specific conditions under which OAOT provides the greatest benefit. Furthermore, while the reduction in MBL reached statistical significance, its clinical relevance should be interpreted cautiously, particularly in non-aesthetic regions where small differences in crestal bone levels may have limited practical impact.
+
+Taken together, the findings of this systematic review indicate that in platform-switched implants with an internal conical connection, the OAOT protocol provides a small but consistent advantage in marginal bone preservation without compromising PD, implant survival, or complication rates. OAOT may therefore be considered a biologically rational and low-risk strategy, particularly in clinical scenarios where crestal bone stability is of heightened importance. Future RCTs with standardized reporting of implant placement depth, smoking status, collar design, and the exact number and timing of abutment disconnections are needed to better define the clinical relevance and indications for routine use of the OAOT protocol.
+
+Several limitations of this systematic review should be acknowledged:
+
+Limited data and variable follow-up: The number of eligible RCTs was limited, and follow-up durations varied considerably across the included studies. Incomplete reporting: The lack of consistent reporting of key clinical variables restricted our ability to perform subgroup analyses, which could have identified patient- or implant-specific conditions under which the OAOT protocol provides the greatest benefit. Clinical relevance of MBL: While the reduction in MBL reached statistical significance, its clinical relevance should be interpreted cautiously. In non-aesthetic regions, for example, small differences in crestal bone levels may have limited practical impact.Single database search: The electronic search was conducted in MEDLINE (PubMed) only. Although this was supplemented by manual reference list searches, the use of a single database may have resulted in the omission of relevant studies indexed in other databases such as EMBASE or the Cochrane Central Register of Controlled Trials.Restricted search window: The inclusion criteria were limited to studies published from November 2018 onward, which was intended to complement prior systematic reviews covering earlier literature. However, this approach may have excluded relevant RCTs published between 2015 and 2018 that could have contributed additional evidence.
+
+## CONCLUSIONS
+
+The available randomized clinical evidence indicates that the one-abutment-one-time protocol is associated with a modest but consistent reduction in peri-implant marginal bone loss compared with repeated abutment disconnections in adult patients restored with platform-switched, conical-connection implants. This benefit becomes evident at the pooled level, supporting the concept that minimizing abutment manipulation contributes to improved crestal bone preservation.
+
+In contrast, no clear advantages of one-abutment-one-time were observed for secondary outcomes, including probing depth, implant survival, or the incidence of biological and prosthetic complications, which were comparable between protocols. Overall, one-abutment-one-time appears to provide a biologically sound benefit limited primarily to marginal bone preservation, with minimal impact on other peri-implant clinical outcomes based on current evidence.
