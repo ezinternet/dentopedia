@@ -66,4 +66,4 @@ This controlled laboratory study directly measured implant micromotion — the d
 ## Related Papers
 - [[implants/isq/brizuela-velasco-2015-insertion-torque-isq-micromobility]] — Clinical/ex vivo study correlating insertion torque, ISQ (RFA), and micromobility; reinforces the torque–stability link using a clinical surrogate.
 - [[implants/isq/cappare-2015-initial-bic-insertion-torque-depth-integral-in-vivo]] — In vivo dog study linking insertion torque, bone-to-implant contact (BIC), and depth integral; extends torque–osseointegration evidence.
-- [[immediate-implant/primary-stability/trisi-2016-osseodensification-low-density-bone-sheep]] — Same author group; tests osseodensification to enhance primary stability in low-density bone — applies the torque–micromotion principle clinically.
+- [[implants/osseodensification/trisi-2016-osseodensification-low-density-bone-sheep]] — Same author group; tests osseodensification to enhance primary stability in low-density bone — applies the torque–micromotion principle clinically.
