@@ -15,7 +15,7 @@ source_url: https://pubmed.ncbi.nlm.nih.gov/42462096/
 tags: [tissue-level-implant, bone-level-implant, BLX, straumann, marginal-bone-loss, survival, private-practice, keratinized-mucosa, three-year, retrospective]
 relations:
   - type: reinforces
-    target: pirc-2026-comparative-analysis-one-piece-tissue-level
+    target: pirc-2026-one-piece-two-piece-implants-15year-rct
   - type: extends
     target: overviews/tissue-level-vs-bone-level-implant-outcomes
 ---
@@ -72,6 +72,6 @@ Initial TL bone loss at 6mo (distal), then recovery and gain at 2-3yr (physiolog
 
 ## Related Papers
 
-- [[implants/mbl/pirc-2026-comparative-analysis-one-piece-tissue-level]] — reinforces: 15-17yr RCT TL vs 2-piece BL; this paper adds BLX (modern platform) and real-world practice data at 3yr
+- [[implants/pirc-2026-one-piece-two-piece-implants-15year-rct]] — reinforces: 15-17yr RCT TL vs 2-piece BL; this paper adds BLX (modern platform) and real-world practice data at 3yr
 - [[overviews/tissue-level-vs-bone-level-implant-outcomes]] — extends: overview synthesis; adds 12th paper, BLX-specific private practice data
 - [[implants/mbl/flores-guillen-2017-five-year-outcomes-submerged-transmucosal]] — reinforces: 5yr BL implant RCT shows healing protocol equivalence; TL vs BL difference is IAC position, not healing mode
