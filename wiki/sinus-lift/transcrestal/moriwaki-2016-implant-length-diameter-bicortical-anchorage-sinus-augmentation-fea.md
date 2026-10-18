@@ -5,7 +5,7 @@ year: 2016
 date: 2016-01-01
 doi: 10.11607/jomi.4217
 pmid: "27447165"
-source: sources/moriwaki-2016-implant-length-diameter-bicortical-anchorage-sinus-augmentation-fea.md
+source: moriwaki-2016-implant-length-diameter-bicortical-anchorage-sinus-augmentation-fea.md
 category: sinus-lift/transcrestal
 source_collection: pubmed-abstract
 evidence_level: in-vitro
