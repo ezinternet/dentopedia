@@ -15,7 +15,7 @@ source_wiki:
   - wiki/complete-denture/jofre-2010-splinting-mini-implants-marginal-bone-loss-rct.md
   - wiki/complete-denture/khorasani-2024-3d-printed-vs-milled-complete.md
   - wiki/complete-denture/koay-2024-comparative-effectiveness-denture-adhesives.md
-  - wiki/complete-denture/lan-2025-long-term-four-implant-supported.md
+  - wiki/complete-denture/lan-2025-four-implant-overdenture-vs-fixed-sr-ma.md
   - wiki/complete-denture/leao-2018-splinted-unsplinted-overdenture-attachment-systems.md
   - wiki/complete-denture/matsuda-2014-vertical-dimension-eeg-complete-denture.md
   - wiki/complete-denture/padmanabhan-2020-single-implant-retained-overdenture-treatment.md
@@ -530,7 +530,7 @@ Patient priority:
 - [[complete-denture/thu-2024-digital-complete-denture-clinical-laboratory]] — digital CD procedural analysis; complication rates; impression technique impact
 - [[complete-denture/sanjeevan-2021-efficiency-simplified-versus-traditional-denture]] — simplified vs conventional fabrication; time/cost savings
 - [[complete-denture/abou-ayash-2023-implant-supported-fixed-complete-dentures]] — IFCD vs IOD treatment effects on dPROs; large SR+MA
-- [[complete-denture/lan-2025-long-term-four-implant-supported]] — long-term maxillary 4-implant IOD vs IFR outcomes
+- [[implants/full-arch/lan-2025-four-implant-overdenture-vs-fixed-sr-ma]] — long-term maxillary 4-implant IOD vs IFR outcomes
 - [[complete-denture/tayari-2024-implant-supported-overdenture-failures-sr]] — risk factors for IOD failure
 - [[complete-denture/padmanabhan-2020-single-implant-retained-overdenture-treatment]] — single-implant mandibular overdenture survival
 - [[implants/full-arch/koyama-2025-single-vs-two-implant-mandibular-overdenture-sr-ma]] — 1-IOD vs 2-IOD RCT-only SR+MA: implant survival equivalent but ~2× prosthetic complications for 1-IOD → metal-framework reinforcement; updates earlier higher-survival-for-1-IOD claim
