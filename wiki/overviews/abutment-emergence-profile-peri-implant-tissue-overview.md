@@ -2,7 +2,7 @@
 title: "Abutment Design & Emergence Profile → Peri-Implant Tissue Overview (지대주 디자인·출현윤곽 → 임플란트주위 조직 종합)"
 authors: synthesis (llm-wiki)
 year: 2026
-date: 2026-07-05
+date: 2026-10-18
 doi: N/A
 source: synthesis
 category: [overviews]
@@ -24,6 +24,11 @@ source_papers:
   - wiki/prosthetic-materials/mikulas-2025-digital-impression-accuracy-peri-implant-emergence-profile-sr.md
   - wiki/implants/munoz-2025-1mm-3mm-abutments-7year-rct.md
   - wiki/implants/seijas-naya-2025-concave-straight-abutment-bone-rct.md
+  - wiki/implants/mbl/atieh-2023-emergence-angle-contour-marginal-bone-loss-sr-ma.md
+  - wiki/implants/mbl/abayov-2026-one-abutment-one-time-versus.md
+  - wiki/implants/mbl/nunes-2025-final-prosthetic-abutment-insertion-time-oaot.md
+  - wiki/implants/mbl/liu-2025-abutment-shape-marginal-bone-loss-crestal-bone-remodeling.md
+  - wiki/implants/mbl/calatrava-2024-effect-one-time-placement-definitive-abutment.md
 relations:
   - type: extends
     target: ruhstorfer-2024-customized-vs-conventional-healing-abutments-sr
@@ -55,11 +60,12 @@ relations:
 > - 가장 강한 신호(전치부): 볼록(convex) 출현윤곽은 오목(concave) 대비 12개월 점막퇴축 위험이 **약 13배** (64.3% vs 14.3%, OR 12.69, 95% CI 1.89–88.48, p=.01; Siegenthaler 2022). 협측 점막이 baseline에서 얇으면 더 불안정.
 > - 일관된 신호(구치부): 점막 폭/높이비 (Width/Height ratio, W/H) 기반 협측 윤곽은 치유지대주 윤곽 복사 대비 퇴축을 0.13 vs 0.63 mm로 줄임(p=.006); 초기 **출현각도 (Emergence Angle) ~32°가 40°보다** 우수(p=.025), 단 치조정상부 점막 ≥2 mm일 때(Wang 2022).
 > - 표면 축은 무효: 변형 티타늄 표면은 단기 플라크지수·탐침시출혈 (Bleeding on Probing, BoP)·탐침깊이 (Probing Depth, PD)에서 대조군과 차이 없음(P=0.091/0.099/0.488), 장기는 상반(Canullo 2020 SR+MA).
-> - 분리 축은 (이 RCT에서) 무효: OAOT는 반복 분리 대비 12개월 변연골소실 (Marginal Bone Loss, MBL) 유의차 없음(0.36 vs 0.48 mm, NS) — 분리 회피의 이론적 골 보존 이점이 확인 안 됨. 단 **지대주 높이 ≥2 mm가 1 mm보다** MBL 적음(p=.002)이라는 별개의 강한 레버는 재확인.
+> - 분리 축 — 초기 단독 RCT는 무효, 두 SR+MA는 유의 이득: Ríos-Santos 2020(단일 RCT, 231개 임플란트)에서는 원-어버트먼트-원-타임(OAOT, One-Abutment-One-Time) vs 반복 분리 MBL 유의차 없음(0.36 vs 0.48 mm, NS). 그러나 최근 **두 SR+MA가 방향을 뒤집었다** — Abayov 2026(7편 RCT, 645개, 플랫폼 스위칭(PS, Platform Switching)+원뿔 연결(Conical Connection) 제한): MD −0.23 mm(95% CI −0.44 to −0.02, **유의**); Nunes 2025(11편 RCT, 699개, 연결 방식 불문): OAOT 유의한 골 보존 확인. 현재 위치: OAOT는 PS+원뿔 임플란트에서 소폭이지만 일관된 골 이득을 보이며(MD ~0.23 mm), 단 **지대주 높이 ≥2 mm** 레버는 여전히 더 크고 독립적이다.
 > - 맞춤형 치유지대주는 형태 축을 *치유 단계에서* 미리 빚는 도구: 연·경조직·심미 동등 이상, 보철 장착 시 압박 성형 통증 감소(생존율 100%, 6–36개월; Ruhstorfer 2024). 즉시식립·심미부·큰 구치 발치와에 특히 유용.
 > - 형태를 최종 보철로 *전달*하는 축(e): 디지털 인상 시 임시보철을 빼고 연조직을 직접 스캔하면 즉시 ~200–500 μm, 20분 내 최대 ~1 mm 붕괴 → 간접 스캔(제거한 임시보철 구외 스캔·중첩)이 출현윤곽을 가장 충실히 재현해 전통 인상에 근접(Mikulás 2025 SR, 24편). 빚은 윤곽은 *조직*이 아니라 *임시보철*을 스캔해 옮길 것.
 > - 모순처럼 보이는 두 결과의 화해: "형태가 중요하다"(c·d 축)와 "표면·분리는 무의미"(a·b 축)는 충돌이 아니라 **레버의 서열** — 임상 노력은 표면 코팅·OAOT 프로토콜이 아니라 윤곽 설계에 투입해야 한다.
 > - 공통 조절 변수 = **연조직 두께/높이**. 얇은 점막에서 볼록 윤곽이 가장 위험(Siegenthaler), 두꺼운(≥2 mm) 점막에서만 W/H 설계가 작동(Wang) — 출현윤곽 효과는 [[overviews/keratinized-mucosa-peri-implant-health-overview]]의 연조직 축과 분리할 수 없다.
+> - **출현윤곽(Emergence Profile) SR+MA 신규 근거 (Atieh 2023 · Liu 2025)**: Atieh 2023 SR+MA (4편, 임플란트 912개, 최대 10.9년): 출현각도(EA, Emergence Angle) >30° vs ≤30° — 전체 변연골 소실(MBL, Marginal Bone Loss) 유의차 없음(MD 0.80mm, p=0.09), 단 **볼록 윤곽은 임플란트주위염(Peri-implantitis) 위험비(RR, Risk Ratio) 2.32**(57.8% vs 21.3%, p=0.02) — 각도보다 **윤곽 형태(Profile Shape)**가 주위염 위험의 더 강한 예측인자. Liu 2025 SR+MA(7편 RCT, 임플란트 283개): 전체 MBL 차이 미달(p=0.082)이나 **EA >30° 서브그룹에서 MBL 유의 증가**(MD +0.190mm, p<0.001); 볼록/넓은 어버트먼트가 치조정골 재형성(CBR, Crestal Bone Remodeling) +0.560mm 증가(p=0.001) — 각도와 윤곽이 독립적으로 골에 영향.
 > - 출현**각도 (Emergence Angle, EA)** 임계값의 전임상 인과 확립: 개 모델 RCT에서 EA가 넓을수록 MBL이 용량반응적으로 증가(20/40/60/80° → 24주 MBL 0.07/0.11/0.23/0.38 mm; 80°가 20°의 약 4배, p<0.001), ≥60°에서 접합상피 (Junctional Epithelium) 연속성 붕괴·플라크 100% — **각도 <40° 유지** 근거(Strauss 2024). 별개 split-mouth 개 모델은 60° vs 30°에서 결합조직 부착 단축(~0.7 vs ~1.1 mm)·연조직 봉쇄 (Soft Tissue Seal) 실패를 확인했고 **splinted/중간 임플란트**가 더 취약(Lee 2025).
 > - 각도는 **조건부** 위험 인자다: 7.4년 추적 후향연구(임플란트 192개)에서 출현각 ≥30°는 **지대주 높이 (Trans-mucosal Abutment Height, TmAH) <2 mm일 때만** 유의한 MBL을 일으켰고(짧은+넓은 그룹 MBL +0.48 mm·임플란트주위염 ~4배, OR 4.19), TmAH 1 mm 증가마다 MBL 발생 odds 37% 감소(OR 0.63, p=0.003) — Ríos-Santos의 "높이 ≥2 mm" 레버를 각도 차원으로 확장(Misch 2025). 즉 **짧은 지대주 위의 넓은 각도**가 가장 위험.
 > - 17편 scoping review(Prpic 2026)가 증거 기반을 통합: **EA <30°**는 MBL 감소와 *그럴듯하게* 연관되나 일관성 부족으로 불확실(RCT 대기), **오목 (concave) 윤곽**은 *일관되게* 연조직 안정·중안면 퇴축 감소와 연관(2 RCT) — 각도와 윤곽이 상호작용해 위험은 "넓은 각 + 볼록 윤곽 + 짧은 지대주"가 겹칠 때 의미를 가진다.
@@ -70,17 +76,17 @@ relations:
 
 ## Three-line Summary
 
-Synthesis of 10 papers (1 SR+MA, 2 SR, 1 scoping review, 3 RCTs, 1 retrospective, 2 preclinical animal) across four abutment-related levers — emergence-profile shape/angle, abutment surface modification, disconnection policy, and customized healing abutments — plus digital emergence-profile transfer.
+Synthesis of 17 papers (3 SR+MA, 2 SR, 1 scoping review, 4 RCTs, 1 retrospective, 2 preclinical animal, plus narrative review and clinical studies) across four abutment-related levers — emergence-profile shape/angle, abutment surface modification, disconnection policy, and customized healing abutments — plus digital emergence-profile transfer.
 
-Emergence-profile shape and angle is the dominant driver: convex profile carries ~13× the anterior recession risk vs concave (Siegenthaler 2022); a W/H-derived ~32° angle halves molar recession (Wang 2022); dog-model RCTs establish a dose-response angle→MBL/seal-failure mechanism (~4× MBL at 80° vs 20°; keep <40°); abutment surface modification and OAOT disconnection avoidance show no reliable tissue benefit; the angle is conditional — wide (≥30°) is harmful mainly under a short (<2 mm) abutment, and height ≥2 mm largely buffers it (Misch 2025).
+Emergence-profile shape and angle is the dominant driver: convex profile carries ~13× the anterior recession risk vs concave (Siegenthaler 2022) and 2.3× the peri-implantitis rate in an SR+MA (RR 2.32; Atieh 2023); a W/H-derived ~32° angle halves molar recession (Wang 2022); EA >30° raises MBL significantly in RCT-only SR+MA (Liu 2025); dog-model RCTs establish a dose-response angle→MBL/seal-failure mechanism (~4× MBL at 80° vs 20°; keep <40°); abutment surface modification shows no reliable tissue benefit; OAOT shows a modest but now SR+MA-confirmed bone benefit in PS+conical implants (MD −0.23 mm; Abayov 2026 + Nunes 2025), but height ≥2 mm remains the dominant bone lever.
 
 The actionable levers are contour (concave/under-contoured anteriorly), emergence angle (<40°, ideally <30°), and transmucosal abutment height (≥2 mm), all conditioned on baseline soft-tissue thickness; scan the provisional (not the tissue) to transfer the sculpted profile digitally.
 
 ## 세줄요약
 
-10편 종합(SR+MA 1·SR 2·scoping review 1·RCT 3·후향 1·전임상 동물 2): 출현윤곽 형태·각도, 지대주 표면 처리, 분리 횟수, 맞춤형 치유지대주, 디지털 윤곽 전달 5축 평가.
+17편 종합(SR+MA 3·SR 2·scoping review 1·RCT 4·후향 1·전임상 동물 2·기타): 출현윤곽 형태·각도, 지대주 표면 처리, 분리 횟수, 맞춤형 치유지대주, 디지털 윤곽 전달 5축 평가.
 
-출현윤곽 형태·각도가 지배 인자: 전치부 볼록은 오목 대비 퇴축 위험 ~13배(Siegenthaler 2022); 구치부 W/H 기반 ~32° 각도가 퇴축 절반(Wang 2022); 개 모델이 각도→골소실 용량반응 인과 확립(80° vs 20° ~4배 MBL, ≥60° 접합상피 붕괴; <40° 유지); 표면 처리·OAOT는 조직 이득 없음; 각도는 조건부 — 넓은(≥30°) 각도는 짧은(<2 mm) 지대주에서만 유의한 골소실, 높이 ≥2 mm가 완충(Misch 2025).
+출현윤곽 형태·각도가 지배 인자: 전치부 볼록은 오목 대비 퇴축 위험 ~13배(Siegenthaler 2022) + SR+MA에서 임플란트주위염 위험비(RR, Risk Ratio) 2.32(Atieh 2023); 구치부 W/H 기반 ~32° 각도가 퇴축 절반(Wang 2022); EA >30° SR+MA에서 MBL +0.19mm 유의 증가·볼록형은 CBR +0.56mm(Liu 2025); 개 모델이 각도→골소실 용량반응 인과 확립(80° vs 20° ~4배, ≥60° 접합상피 붕괴); 표면 처리는 조직 이득 없음; OAOT는 PS+원뿔 임플란트에서 소폭 유의 골 이득 확인(MD −0.23mm, 두 SR+MA); 높이 ≥2 mm가 각도 패널티를 완충(Misch 2025).
 
 실효 레버: 윤곽(전치 오목/언더컨투어), 출현각도(<40°, 이상 <30°), 경점막 지대주 높이(≥2 mm) — 모두 기저 연조직 두께에 종속; 디지털 전달 시 조직 직접 스캔이 아닌 임시보철 스캔(간접법)으로 윤곽 보존.
 
@@ -94,9 +100,15 @@ A peri-implant restoration interfaces with the soft and hard tissues through fou
 
 Canullo 2020 (SR+MA, 10 studies; 6 pooled — 4 RCT/2 CCT, 118 patients, 182 implants) tested whether **titanium healing-abutment surface modifications** (machined vs anodized/laser/other) change peri-implant soft-tissue behavior. Short-term, modified surfaces showed **no significant difference** vs controls in plaque index (P=0.091), bleeding on probing (P=0.099), or probing depth (P=0.488), with no significant moderators; the 4 long-term (5–6 y) studies were **contradictory** by technique. Surface treatment is therefore not a dependable lever on peri-implant inflammation — choose abutments on other grounds.
 
-### Sub-axis (b) — Disconnection policy (one-abutment-one-time): no bone benefit, but height matters
+### Sub-axis (b) — Disconnection policy (one-abutment-one-time): single RCT was null, but two SR+MAs now confirm modest benefit in PS+conical implants
 
-Ríos-Santos 2020 (20-center, double-blind RCT; 147 patients, 231 platform-switched subcrestal implants) compared the **one-abutment-one-time (OAOT)** protocol (definitive abutment placed at surgery, never removed) against conventional repeated healing-abutment disconnection (up to 3×). At 12 months, marginal bone loss did **not** differ significantly (OAOT 0.36 ± 0.79 mm vs control 0.48 ± 0.71 mm), nor did ISQ (p=0.731) or plaque/bleeding indices. The theoretical advantage of avoiding disconnection was not confirmed. The one significant marginal-bone factor was **abutment height**: pooled, 2 mm abutments lost less bone than 1 mm (p=0.002). So the actionable lever inside this trial is height, not disconnection count — and because OAOT carried no bone penalty either, abutment selection can be deferred for digital/esthetic workflows.
+Ríos-Santos 2020 (20-center, double-blind RCT; 147 patients, 231 platform-switched subcrestal implants) compared the **one-abutment-one-time (OAOT)** protocol (definitive abutment placed at surgery, never removed) against conventional repeated healing-abutment disconnection (up to 3×). At 12 months, marginal bone loss did **not** differ significantly (OAOT 0.36 ± 0.79 mm vs control 0.48 ± 0.71 mm), nor did ISQ (p=0.731) or plaque/bleeding indices. The one significant marginal-bone factor was **abutment height**: 2 mm abutments lost less bone than 1 mm (p=0.002).
+
+**Updated evidence — two SR+MAs overturn the "no bone benefit" conclusion for PS+conical implants.** Abayov 2026 (SR+MA, 7 RCTs, 645 implants, 2020–2024 studies; restricted to platform-switched + conical-connection implants) found a pooled MBL difference of **MD −0.23 mm (95% CI −0.44 to −0.02)** in favor of OAOT — the first SR+MA to demonstrate a statistically significant OAOT bone benefit. Heterogeneity was substantial (I²=77%), and probing depth was NS, but implant survival exceeded 94% in both groups. Calatrava 2024, the strongest single RCT in that analysis (80 implants, 40 patients; PS conical connection), showed MBL −0.13 vs −0.61 mm at 6 months (p=0.008, Δ=0.48 mm), with keratinized tissue and probing depth also significantly better in the OAOT group.
+
+Nunes 2025 (SR+MA, 11 RCTs, 699 implants; broader inclusion — all connection types) independently confirmed that OAOT significantly reduces marginal bone loss vs repeated disconnection.
+
+**Current synthesis.** OAOT in **PS+conical-connection** implants now has SR+MA-level evidence for a modest but consistent MBL benefit (MD ~0.23 mm). The earlier null result of Ríos-Santos 2020 likely reflects the mixed connection types and implant designs in that trial — the benefit may be connection-type-conditional. The dominant bone lever remains **abutment height ≥2 mm**, which carries a larger, more consistent effect; OAOT adds a smaller, conditional increment on top of height. Because OAOT still carries no measured penalty in either trial type, it is a defensible choice whenever workflow or esthetics favor it, and a rational choice in PS+conical implants when MBL minimization is the goal.
 
 **Muñoz 2025** (7-year RCT, 37 patients, 63 implants — 32 in 1-mm group, 31 in 3-mm group; all implants placed 1.5 mm subcrestally with a definitive abutment connected at surgery) is the longest follow-up RCT on abutment height. At 7 years, the 3-mm group showed significantly smaller marginal bone level changes than the 1-mm group at both mesial (−0.27 ± 1.32 mm vs −0.42 ± 0.50 mm, p<0.001) and distal (−0.33 ± 1.39 mm vs −0.35 ± 0.38 mm, p<0.001) sites. Peri-implant mucositis was numerically higher in the 3-mm group (74.2% vs 54.6%), while peri-implantitis was substantially lower (3.2% vs 18.2%) — a 5.7-fold difference that did not reach statistical significance (p=0.158) due to a ~43% dropout rate. This study extends the short-term abutment-height evidence (Ríos-Santos 2020) across 7 years: **the bone-preserving advantage of a taller abutment is durable long-term**, though the peri-implantitis prevention effect remains statistically unresolved.
 
@@ -112,6 +124,14 @@ Two human RCTs converge on shape as the decisive driver:
 - **Wang 2022** (mandibular molars, supracrestal mucosa ≥2 mm, RCT, n=21): a **W/H-ratio-derived** buccal profile cut 12-month recession to **0.13 vs 0.63 mm** vs copying the healing-abutment contour (p=.006), with a lower initial **emergence angle (31.4° vs 40.0°, p=.025)**. A flatter, lower-angle, mucosa-derived contour preserves the margin — provided supracrestal tissue is ≥2 mm.
 
 Both point the same way: a less-convex, lower-angle, anatomy-derived emergence profile preserves the mucosal margin, and the benefit is gated by soft-tissue thickness.
+
+**SR+MA-level evidence for profile shape and angle thresholds.** Two SR+MAs now pool the observational and RCT evidence on emergence angle and profile:
+
+- **Atieh 2023** (SR+MA, 4 studies, 912 implants, 397 participants, 3.8–10.9 yr follow-up) compared EA >30° vs ≤30° on MBL and peri-implantitis. Overall MBL between the two angle groups was **not** significantly different (MD 0.80 mm; 95% CI −0.13 to 1.72; p=0.09) — the angle threshold alone is a weak MBL predictor. However, in platform-matched (non-platform-switched) implants, ≤30° showed significantly less MBL, and crucially, **convex profile** was associated with a **2.3-fold peri-implantitis rate** (57.8% vs 21.3%; RR 2.32, 95% CI 1.12–4.82; p=0.02). This is the first SR+MA to pool human observational data on profile shape and peri-implantitis: profile *shape* (convex vs concave/straight) is the more clinically decisive predictor than the angular number.
+
+- **Liu 2025** (SR+MA of RCTs only, 7 RCTs, 283 implants) compared convex/wide vs concave/flat abutments. Overall MBL difference was NS (MD 0.083 mm, p=0.082), but the **EA >30° subgroup** showed a significant MBL increase (MD +0.190 mm; p<0.001). Separately, convex/wide abutments generated significantly more **crestal bone remodeling (CBR)** than concave/flat (MD +0.560 mm; p=0.001) — a distinct outcome (bone *above* the implant platform) that angle alone doesn't capture. The take: EA >30° is the key MBL threshold; convex geometry independently drives CBR regardless of angle.
+
+Atieh 2023 and Liu 2025 converge: **the profile's convexity is a peri-implantitis risk independent of angle, and EA >30° is where the MBL signal appears in platform-matched and RCT subgroups.** The Wang 2022 RCT ~32° recommendation and the Prpic 2026 scoping review <30° rule both now have SR+MA support.
 
 **Preclinical causal confirmation of the angle threshold.** The clinical RCTs above could correlate angle with outcome but not prove causation. Two controlled dog-model studies supply the histological mechanism and a clean dose-response, both pointing to a narrow angle:
 
@@ -136,9 +156,14 @@ A favorable emergence profile is only clinically useful if it survives the trans
 |---|---|---|---|---|
 | [[implants/soft-tissue/canullo-2020-titanium-abutment-surface-peri-implant-tissue-ma]] | SR+MA | 6 pooled / 182 implants | (a) surface | No short-term difference in PI/BoP/PD (P=0.091/0.099/0.488); long-term contradictory |
 | [[implants/rios-santos-2020-one-abutment-one-time-rct]] | RCT | 147 pt / 231 implants | (b) disconnection | OAOT vs repeated disconnect: MBL NS (0.36 vs 0.48 mm); **height ≥2 mm < 1 mm bone loss, p=0.002** |
+| [[implants/mbl/abayov-2026-one-abutment-one-time-versus]] | SR+MA | 7 RCTs / 645 implants (PS+conical) | (b) disconnection | **OAOT MD −0.23 mm (CI −0.44 to −0.02)** vs repeated disconnect — first significant SR+MA; I²=77%; survival >94% both groups |
+| [[implants/mbl/nunes-2025-final-prosthetic-abutment-insertion-time-oaot]] | SR+MA | 11 RCTs / 699 implants (all connections) | (b) disconnection | OAOT significantly reduces MBL vs repeated disconnect — independent replication of Abayov direction |
+| [[implants/mbl/calatrava-2024-effect-one-time-placement-definitive-abutment]] | RCT | 40 pt / 80 implants (PS conical, 6–12 mo) | (b) disconnection | OAOT MBL −0.13 vs −0.61 mm at 6 mo (**p=0.008**, Δ=0.48 mm); KTW and PD also better |
 | [[implants/ruhstorfer-2024-customized-vs-conventional-healing-abutments-sr]] | SR | 5 studies / 190 implants | (c) customization | Customized = equal-or-better soft/hard tissue, esthetics, less pain; no downside (100% survival) |
 | [[implants/soft-tissue/siegenthaler-2022-convex-emergence-profile-mucosal-recession-rct]] | RCT | 47 implants (anterior) | (d) shape | Convex 64.3% vs concave 14.3% recession; **convex OR 12.69 (~13×) vs concave, p=.01** |
 | [[implants/peri-implantitis/wang-2022-buccal-emergence-profile-peri-implant-rct]] | RCT | 21 (molars, ≥2 mm mucosa) | (d) shape/angle | W/H-derived profile recession 0.13 vs 0.63 mm (p=.006); **angle ~32° < 40°, p=.025** |
+| [[implants/mbl/atieh-2023-emergence-angle-contour-marginal-bone-loss-sr-ma]] | SR+MA | 4 studies / 912 implants (3.8–10.9 yr) | (d) shape | Overall MBL NS (MD 0.80mm, p=0.09); PM subgroup: ≤30° significantly better; **convex profile: peri-implantitis RR 2.32** (57.8% vs 21.3%, p=0.02) |
+| [[implants/mbl/liu-2025-abutment-shape-marginal-bone-loss-crestal-bone-remodeling]] | SR+MA (RCTs only) | 7 RCTs / 283 implants | (d) shape/angle | Overall MBL NS (p=0.082); **EA >30° subgroup: MBL +0.190 mm (p<0.001)**; convex/wide → **CBR +0.560 mm (p=0.001)** |
 | [[implants/soft-tissue/strauss-2024-wide-emergence-angle-marginal-bone-loss-junctional-epithelium]] | animal RCT | 6 dogs / 48 sites (20/40/60/80°) | (d) angle (causal) | **Dose-response MBL** 0.07/0.11/0.23/0.38 mm (~4× at 80° vs 20°, p<0.001); **≥60° disrupts junctional epithelium**; keep angle **<40°** |
 | [[implants/soft-tissue/lee-2025-emergence-angle-soft-hard-tissue-splinted-implants]] | animal | 5 dogs / 30 implants (30° vs 60°, splinted) | (d) angle (splinted) | Wide 60° → ↑bone remodeling (T-splint 1.4 vs 0.57 mm), **shorter CT attachment ~0.7 vs ~1.1 mm**, failed seal; worst at **splinted/middle** sites |
 | [[implants/soft-tissue/misch-2025-abutment-height-emergence-angle-peri-implant-bone-loss]] | retrospective | 192 implants / 119 pt (7.4 y) | (d) angle × (b) height | REA ≥30° harms MBL **only when TmAH <2 mm**; Short/Wide +0.48 mm & **~4× PI (OR 4.19)**; **+1 mm TmAH → −37% MBL odds (OR 0.63, p=0.003)** |
@@ -170,7 +195,8 @@ A favorable emergence profile is only clinically useful if it survives the trans
 - Gate every shape decision on **baseline soft-tissue thickness** — thin tissue amplifies convex-profile recession.
 
 **Abutment disconnection policy.**
-- OAOT confers **no proven crestal-bone benefit** over conventional repeated disconnection (Ríos-Santos 2020); choose it for workflow/esthetic convenience, not for bone preservation, since it carries no penalty either.
+- For **platform-switched + conical-connection implants**: OAOT is now supported by two SR+MAs (Abayov 2026: MD −0.23 mm, 7 RCTs; Nunes 2025: 11 RCTs) — choose OAOT for both workflow/esthetic convenience *and* a modest bone-preservation benefit. The single earlier null RCT (Ríos-Santos 2020) likely reflects a mixed implant-connection population where the benefit is diluted. For other connection types, OAOT remains a neutral choice (no penalty), and the earlier null result may still apply.
+- The earlier recommendation — "choose OAOT for workflow/esthetic reasons, not bone" — is now updated to: **choose OAOT for both reasons in PS+conical systems; it is neutral-to-beneficial in all other systems.**
 - Prioritize **transmucosal abutment height ≥2 mm (ideally 3 mm)** for crestal bone — this is the real bone lever (Ríos-Santos 2020, Misch 2025, Muñoz 2025 7-year RCT). However, the height benefit is **conditional on abutment shape**: increasing height is protective only when the abutment is concave; in a straight abutment, greater height may worsen MBL (Seijas Naya 2025 interaction p<0.01). **Choose a concave abutment first, then maximize height.**
 
 **Healing-abutment choice.**
@@ -194,6 +220,11 @@ A favorable emergence profile is only clinically useful if it survives the trans
 - [[prosthetic-materials/mikulas-2025-digital-impression-accuracy-peri-implant-emergence-profile-sr]] — capture/transfer axis (e): SR showing indirect digital scanning (scan the provisional) reproduces the sculpted emergence profile while direct scanning collapses; the workflow step that carries the favorable shape to the definitive crown
 - [[implants/munoz-2025-1mm-3mm-abutments-7year-rct]] — height axis (b), long-term: 7-year RCT confirming the MBL advantage of 3-mm over 1-mm abutments; peri-implantitis rate numerically 5.7× lower in 3-mm group but underpowered
 - [[implants/seijas-naya-2025-concave-straight-abutment-bone-rct]] — shape × height interaction (d/b): 24-month RCT showing concave abutments outperform straight on MBL, and that abutment height increases are bone-protective *only* in concave abutments — a critical interaction that conditions all height guidance on shape selection
+- [[implants/mbl/atieh-2023-emergence-angle-contour-marginal-bone-loss-sr-ma]] — shape axis (d), SR+MA: first pooling of human observational data on profile shape/angle vs peri-implantitis; convex profile carries RR 2.32 peri-implantitis risk; EA threshold NS overall but significant in PM subgroup
+- [[implants/mbl/abayov-2026-one-abutment-one-time-versus]] — disconnection axis (b), SR+MA: first SR+MA to show significant OAOT MBL benefit (MD −0.23 mm) restricted to PS+conical-connection implants; upgrades OAOT from "no benefit" to "conditional benefit"
+- [[implants/mbl/nunes-2025-final-prosthetic-abutment-insertion-time-oaot]] — disconnection axis (b), SR+MA: independent replication (11 RCTs, 699 implants) confirming OAOT significantly reduces MBL regardless of connection type
+- [[implants/mbl/liu-2025-abutment-shape-marginal-bone-loss-crestal-bone-remodeling]] — shape/angle axis (d), SR+MA of RCTs: EA >30° subgroup MBL +0.19 mm significant; convex → CBR +0.56 mm — two independent bone mechanisms by angle and shape
+- [[implants/mbl/calatrava-2024-effect-one-time-placement-definitive-abutment]] — disconnection axis (b), RCT: the strongest single RCT in the Abayov 2026 SR+MA; PS conical connection; 0.48 mm MBL difference at 6 months (p=0.008)
 - [[overviews/keratinized-mucosa-peri-implant-health-overview]] — sibling overview on the soft-tissue thickness/keratinized-mucosa axis that moderates every emergence-profile effect here
 - [[overviews/peri-implant-soft-tissue-dehiscence-prevention]] — sibling overview on preventing buccal mucosal recession/dehiscence, the outcome the shape lever directly controls
 - [[implants/peri-implantitis/pirc-2026-concave-convex-emergence-profiles-mucosal-ma]] — MA on concave vs convex emergence profiles: mucosal tissue response, peri-implant health outcomes, and profile-design recommendations (ma, 2026)
