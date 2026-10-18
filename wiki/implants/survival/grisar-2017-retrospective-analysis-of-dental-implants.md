@@ -8,7 +8,7 @@ pmid: "28212455"
 journal: "Int J Oral Maxillofac Implants 32(3):649-654"
 source: grisar-2017-retrospective-analysis-of-dental-implants.md
 category: [implants/survival]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: 
 pdf_filename: 
 source_collection: pubmed-text
