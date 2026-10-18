@@ -8,7 +8,7 @@ pmid: "28185409"
 journal: "Clin Implant Dent Relat Res 19(3):404-412"
 source: antoun-2017-retrospective-study-1592-consecutively-performed.md
 category: [implants/survival]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: 
 pdf_filename: 
 source_collection: pubmed-text
