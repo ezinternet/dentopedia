@@ -82,7 +82,7 @@ Metal-zirconia superstructure (metallic titanium/zirconia substructure + monolit
 
 Framework fracture equivalence suggests the metallic substructure absorbs structural risk regardless of the ceramic superstructure material.
 
-Practical trade-off: metal-acrylic retains advantages in cost, chair-side repairability, and individual tooth replacement — see [[wiki/implants/full-arch/krennmair-2025-metal-resin-zirconia-molars-5yr]] for a hybrid modification that captures both.
+Practical trade-off: metal-acrylic retains advantages in cost, chair-side repairability, and individual tooth replacement — see [[implants/full-arch/krennmair-2025-metal-resin-zirconia-molars-5yr]] for a hybrid modification that captures both.
 
 ## Related Papers
 
