@@ -51,7 +51,7 @@ tags: [navigation, category-index, complete-denture]
 | [[khan-2023-index-finger-length-vertical-dimension-edentulous-rct|Correlation of index finger length to vertical dimensions of occlusion for edentulous patients and their satisfaction: a randomized controlled trial]] |
 | [[khorasani-2024-3d-printed-vs-milled-complete|Are There Clinical Differences Between 3D-Printed and Milled Complete Dentures? A Systematic Review and Meta-analysis]] |
 | [[koay-2024-comparative-effectiveness-denture-adhesives|Comparative effectiveness of types of denture adhesives in enhancing retention and function of complete dentures: a systematic review with network meta-analysis]] |
-| [[lan-2025-long-term-four-implant-supported|Long-Term Comprehensive Results of Four-Implant-Supported Overdentures and Fixed Complete Dentures: A Systematic Review and Meta-analysis]] |
+| [[lan-2025-four-implant-overdenture-vs-fixed-sr-ma|Long-Term Comprehensive Results of Four-Implant-Supported Overdentures and Fixed Complete Dentures: A Systematic Review and Meta-analysis]] |
 | [[leao-2018-splinted-unsplinted-overdenture-attachment-systems|Splinted and unsplinted overdenture attachment systems: A systematic review and meta-analysis]] |
 | [[li-2021-optical-jaw-tracking-edentulous-jaw-relations-in-vitro|Accuracy of recording edentulous jaw relations by using an optical jaw tracking system: An in vitro study]] |
 | [[li-2022-digital-edentulous-maxillomandibular-relationship-jaw-tracking|Digital Determination and Recording of Edentulous Maxillomandibular Relationship Using a Jaw Movement Tracking System]] |
