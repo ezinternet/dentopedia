@@ -63,7 +63,7 @@ This retrospective clinical study evaluated ProTaper Universal instrument fractu
 | Mandibular molar fractures in mesial root | 80% | — |
 
 ## Related Papers
-- [[endodontics/shaping/wolcott-2006-protaper-fracture-incidence]] — Full-time US residents, 2.4% fracture rate; reinforces operator-experience effect
-- [[endodontics/shaping/difiore-2010-protaper-fracture-rate]] — Full-time US residents, 0.41% fracture rate; reinforces operator-experience effect
-- [[endodontics/shaping/pirani-2011-retreatment-fracture-rate]] — 5.3% fracture rate in retreatments; extends to retreatment context
-- [[endodontics/shaping/yared-2016-single-file-fracture]] — Single-file systems (Reciproc/WaveOne) lower fracture rates; contrasts system design effect
+- wolcott-2006-protaper-fracture-incidence — Full-time US residents, 2.4% fracture rate; reinforces operator-experience effect
+- difiore-2010-protaper-fracture-rate — Full-time US residents, 0.41% fracture rate; reinforces operator-experience effect
+- pirani-2011-retreatment-fracture-rate — 5.3% fracture rate in retreatments; extends to retreatment context
+- yared-2016-single-file-fracture — Single-file systems (Reciproc/WaveOne) lower fracture rates; contrasts system design effect
