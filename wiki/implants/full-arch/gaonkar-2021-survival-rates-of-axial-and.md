@@ -97,5 +97,5 @@ This systematic review evaluated the survival rates of axial and tilted implants
 - [[implants/full-arch/mehta-2021-tilted-axial-implants-edentulous-maxilla-sr-ma]] — Maxilla-specific systematic review with consistent findings
 - [[implants/full-arch/lin-2018-clinical-performance-tilted-versus-axial]] — Clinical performance comparison supporting equivalence
 - [[implants/full-arch/de-araujo-nobre-2025-mandibular-all-on-four-20-25yr]] — 20-25 year mandibular follow-up extending long-term data
-- [[implants/full-arch/malo-2011-all-on-four-mandible-10yr]] — Maló's long-term mandibular data (referenced in this review)
+- malo-2011-all-on-four-mandible-10yr — Maló's long-term mandibular data (referenced in this review)
 - [[implants/full-arch/cattoni-2021-digital-smile-designed-computer-aided]] — 4-year RCT showing digital workflow superiority for All-on-4
