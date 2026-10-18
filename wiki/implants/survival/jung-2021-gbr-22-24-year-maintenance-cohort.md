@@ -110,4 +110,4 @@ This prospective controlled clinical trial represents the longest documented fol
 - [[bone-regeneration/buser-2023-gbr-implant-35years-basic-principle-review]] — 35-year GBR review; simultaneous GBR + implant protocols
 - [[bone-regeneration/cucchi-2019-iti-gbr-consensus]] — ITI GBR consensus: membrane removal timing, complication classification, soft-tissue management
 - [[bone-regeneration/wessing-2018-gbr-collagen-membranes-particulate-graft-sr-ma]] — Medium-term GBR+ABBM implant survival SR; this paper extends to ≥20yr
-- [[bone-regeneration/benic-2017-clinical-radiographic-intra-subject-gbr-15yr]] — 15-year intra-subject GBR vs non-GBR comparison (Benic et al. 2017, cited in Discussion)
+- benic-2017-clinical-radiographic-intra-subject-gbr-15yr — 15-year intra-subject GBR vs non-GBR comparison (Benic et al. 2017, cited in Discussion)
