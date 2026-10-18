@@ -18,7 +18,7 @@ created: 2026-10-07
 
 ## Why Ingested
 
-All-on-x 서베일런스 첫 백필(2021-2025)에서 큐 적립된 논문. 즉시 부하 전악 재활에서 내부/외부 헥사곤 연결의 6년 장기 추적 RCT로, [[implants/full-arch/pellas-2026-italian-consensus-full-arch-grade]] [[implants/full-arch/figueiredo-2025-all-on-four-overview-sr]]와 함께 연결 타입 근거로 편입.
+All-on-x 서베일런스 첫 백필(2021-2025)에서 큐 적립된 논문. 즉시 부하 전악 재활에서 내부/외부 헥사곤 연결의 6년 장기 추적 RCT로, pellas-2026-italian-consensus-full-arch-grade [[implants/full-arch/figueiredo-2025-all-on-four-overview-sr]]와 함께 연결 타입 근거로 편입.
 
 ## Abstract
 
