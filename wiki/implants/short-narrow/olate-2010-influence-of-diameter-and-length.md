@@ -8,7 +8,7 @@ pmid: "20116716"
 journal: "J Oral Maxillofac Surg 68(2):414-419"
 source: olate-2010-influence-of-diameter-and-length.md
 category: [implants/short-narrow]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: 
 pdf_filename: 
 source_collection: pubmed-text
