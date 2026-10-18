@@ -131,4 +131,4 @@ The FDI statement's prevalence claim (up to 80% of adults in some populations) d
 ## Related Pages
 
 - [[dental-erosion-etiology-prevention-synthesis]] — etiology/in-vitro/prevention chemistry overview (kanzow-2016·west-2014·barac-2015·souza-2020·gomez-2026 포함)
-- [[overviews/drug-acid-related-pages]] — 약물 유발 타액 감소·산성 부작용
+- drug-acid-related-pages — 약물 유발 타액 감소·산성 부작용
