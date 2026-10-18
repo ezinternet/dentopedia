@@ -5,7 +5,7 @@ year: 2014
 date: 2014-01-01
 doi: 10.1007/s10006-014-0444-7
 pmid: "24577629"
-source: sources/malo-2014-bicortical-anchorage-posterior-maxilla-7year.md
+source: malo-2014-bicortical-anchorage-posterior-maxilla-7year.md
 category: sinus-lift/transcrestal
 source_collection: pubmed-abstract
 evidence_level: retrospective
