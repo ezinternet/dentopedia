@@ -120,12 +120,12 @@ This PRISMA-compliant systematic review (PROSPERO CRD42020144836) synthesized cl
 
 | Paper | Relation | Notes |
 |-------|----------|-------|
-| [[implants/full-arch/malo-2008-extramaxillary-zygomatic-implants]] | Complements | Malo 2008 introduced extrasinusal ZI; SR includes 11 extrasinusal studies (99.1% survival) |
-| [[implants/full-arch/aparicio-2014-zygomatic-implants-indications-techniques]] | Supports | Aparicio 2014 proposed Zygomatic Success Code; SR includes 6 Aparicio studies (131–197 ZIs each) |
-| [[implants/full-arch/branemark-2004-zygoma-fixture-long-term]] | Supports | Brånemark 2004 seminal ZI paper (52 ZIs, 120-month FU); included in SR |
-| [[implants/full-arch/duarte-2007-four-zygomatic-implants-immediate-loading]] | Supports | Duarte 2007 4-ZI immediate loading protocol (48 ZIs, 30-month); included in SR |
-| [[implants/full-arch/esposito-2013-cochrane-zygomatic-implants]] | Relates to | Esposito 2013 Cochrane review on ZIs; this SR updates with 8 more years of literature |
-| [[implants/full-arch/fernandez-ruiz-2021-quality-of-life-zygomatic-vs-all-on-four]] | Context | Fernandez-Ruiz 2021 RCT compares QoL ZI vs All-on-4; published after this SR's search date |
+| malo-2008-extramaxillary-zygomatic-implants | Complements | Malo 2008 introduced extrasinusal ZI; SR includes 11 extrasinusal studies (99.1% survival) |
+| aparicio-2014-zygomatic-implants-indications-techniques | Supports | Aparicio 2014 proposed Zygomatic Success Code; SR includes 6 Aparicio studies (131–197 ZIs each) |
+| branemark-2004-zygoma-fixture-long-term | Supports | Brånemark 2004 seminal ZI paper (52 ZIs, 120-month FU); included in SR |
+| duarte-2007-four-zygomatic-implants-immediate-loading | Supports | Duarte 2007 4-ZI immediate loading protocol (48 ZIs, 30-month); included in SR |
+| esposito-2013-cochrane-zygomatic-implants | Relates to | Esposito 2013 Cochrane review on ZIs; this SR updates with 8 more years of literature |
+| fernandez-ruiz-2021-quality-of-life-zygomatic-vs-all-on-four | Context | Fernandez-Ruiz 2021 RCT compares QoL ZI vs All-on-4; published after this SR's search date |
 
 ## Clinical Takeaway
 
