@@ -10,7 +10,7 @@ pdf_filename: verma-2024-comparison-bone-loss-submerged-nonsubmerged.pdf
 
 ## Why Ingested
 
-RCT가 submerged (cover screw) vs non-submerged (anatomical/esthetic healing abutment) 프로토콜을 3개월 골유착 기간 동안 직접 비교한 드문 연구다. [[wiki/implants/mbl/verma-2024-comparison-bone-loss-submerged-nonsubmerged]]는 초기 변연골소실(MBL)을 줄이는 데 submerged 방식이 우수함을 보여주며, 기존 healing abutment 디자인(anatomical vs esthetic)별 차이도 정량화한다. 이는 [[wiki/infection-control/bidra-2019-should-healing-abutments-cover-screws]]의 재사용 논의와는 별개로, **초기 치유 프로토콜 선택의 골소실 영향**을 다룬다.
+RCT가 submerged (cover screw) vs non-submerged (anatomical/esthetic healing abutment) 프로토콜을 3개월 골유착 기간 동안 직접 비교한 드문 연구다. [[wiki/implants/mbl/verma-2024-comparison-bone-loss-submerged-nonsubmerged]]는 초기 변연골소실(MBL)을 줄이는 데 submerged 방식이 우수함을 보여주며, 기존 healing abutment 디자인(anatomical vs esthetic)별 차이도 정량화한다. 이는 [[infection-control/bidra-2019-should-healing-abutments-cover-screws]]의 재사용 논의와는 별개로, **초기 치유 프로토콜 선택의 골소실 영향**을 다룬다.
 
 ## Three-line Summary
 
@@ -89,9 +89,9 @@ Prospective RCT comparing crestal bone loss among submerged implants (cover scre
 
 ## Related Work
 
-- [[wiki/implants/mbl/linkevicius-2015-influence-vertical-soft-tissue-thickness-crestal-bone]] — vertical soft tissue thickness ≥2 mm reduces crestal bone loss; supports submerged advantage via thick tissue coverage
-- [[wiki/infection-control/bidra-2019-should-healing-abutments-cover-screws]] — systematic review on reuse; different question but same components
-- [[wiki/immediate-implant/esthetic-soft-tissue/...]] — esthetic healing abutment design principles (narrow base for emergence profile)
+- linkevicius-2015-influence-vertical-soft-tissue-thickness-crestal-bone — vertical soft tissue thickness ≥2 mm reduces crestal bone loss; supports submerged advantage via thick tissue coverage
+- [[infection-control/bidra-2019-should-healing-abutments-cover-screws]] — systematic review on reuse; different question but same components
+- ... — esthetic healing abutment design principles (narrow base for emergence profile)
 - Sánchez-Siles M et al. 2018 (Clin Oral Implants Res) — similar 3-arm design comparing submerged vs non-submerged with different healing abutments; consistent findings
 
 ## Glossary
