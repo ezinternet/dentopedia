@@ -136,6 +136,9 @@ Decision logic in prose:
 - [[implants/short-narrow/anitua-2019-short-65mm-implants-fixed-prostheses-premolar-molar]] — retrospective (n=16/48 implants, 6.5mm BTI): 100% survival 14 mo; SS splinting distal MBL 0.37 mm < SL 0.94 mm (p<0.05) — when splinting short implants, prefer matched-length pairing.
 - [[sinus-lift/transcrestal/cho-2024-crestal-sinus-augmentation-limited-bone]] — retrospective n=11, RBH <3 mm: transcrestal SFE (specialized kit, staged) achieves 2.1→8.8 mm bone gain, zero membrane perforations — extends TSFE indication below the conventional 4–5 mm threshold.
 - [[overviews/sinus-lift-technique-selection]] — companion overview on augmentation technique choice.
+- [[implants/short-narrow/pommer-2011-impact-of-dental-implant-length]] — MA: short-implant harm limited to maxilla (machined OR 5.4/3.4), none in mandible
+- [[implants/short-narrow/olate-2010-influence-of-diameter-and-length]] — retrospective: early loss 9.9% for 6–9 mm implants
+- [[sinus-lift/transcrestal/shi-2016-survival-of-implants-using-the]] — osteotome SR: nongraft ≥ graft survival; RBH <5 mm and <8 mm implants worse
 
 ## Clinical Quiz
 <!-- quiz_spec -->
