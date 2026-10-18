@@ -8,7 +8,7 @@ pmid: "21722154"
 journal: "J Clin Periodontol 38(9):856-863"
 source: pommer-2011-impact-of-dental-implant-length.md
 category: [implants/short-narrow]
-confidence: sr+ma
+evidence_level: sr+ma
 pdf_path: 
 pdf_filename: 
 source_collection: pubmed-text
