@@ -73,5 +73,5 @@ Key observations:
 ## Related Papers
 - [[implants/loading-protocol/esposito-2013-loading-times-dental-implants-cochrane]] — Cochrane SR+MA (26 RCTs, 1-year data); this trial extends evidence to 6 years for single-tooth posterior mandibular implants.
 - [[immediate-implant/felice-2016-immediate-immediate-delayed-post-extractive]] — RCT comparing immediate, early (6 weeks), and delayed (4 months) loading of post-extractive anterior implants; different site/timing but consistent non-inferiority of immediate loading.
-- [[implants/loading-protocol/salvi-2004-early-loading-sla-implants-posterior-mandible]] — RCT of early loading (2/6 weeks) of SLA implants in posterior mandible; 1-year data showing similar outcomes.
-- [[implants/loading-protocol/heydenrijk-2002-immediate-vs-delayed-two-part-implants]] — Prospective study showing probing depth decrease in immediate loading group, consistent with this trial's findings.
+- salvi-2004-early-loading-sla-implants-posterior-mandible — RCT of early loading (2/6 weeks) of SLA implants in posterior mandible; 1-year data showing similar outcomes.
+- heydenrijk-2002-immediate-vs-delayed-two-part-implants — Prospective study showing probing depth decrease in immediate loading group, consistent with this trial's findings.
