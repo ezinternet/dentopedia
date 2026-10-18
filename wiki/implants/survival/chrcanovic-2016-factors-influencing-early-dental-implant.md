@@ -8,7 +8,7 @@ pmid: "27146701"
 journal: "J Dent Res 95(9):995-1002"
 source: chrcanovic-2016-factors-influencing-early-dental-implant.md
 category: [implants/survival]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/chrcanovic-2016-factors-influencing-early-dental-implant.pdf
 pdf_filename: chrcanovic-2016-factors-influencing-early-dental-implant.pdf
 source_collection: external
