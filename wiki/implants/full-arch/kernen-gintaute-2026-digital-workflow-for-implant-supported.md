@@ -135,6 +135,6 @@ IOS→VB 12µm/0.18° 우수; 구강내 스플린팅(SVB) 시 50µm/0.79° 유�
 
 - [[implants/full-arch/mijiritsky-2026-segmented-full-arch-digital-workflow-mandible]] — segmented digital workflow for mandible; complementary clinical protocol
 - [[implants/full-arch/pozzi-2025-photogrammetry-versus-intraoral-scanning-in]] — photogrammetry vs IOS accuracy; benchmarks for full-arch
-- [[implants/full-arch/papaspyridakos-2024-reverse-scan-body-double-full-arch-zirconia]] — reverse scan body workflow for double-arch zirconia; clinical application
-- [[implants/full-arch/andriessen-2014-applicability-accuracy-intraoral-scanner-edentulous-mandibles]] — earlier pilot study (25 patients, 2 implants); only 5/21 scans analyzable
-- [[implants/full-arch/azevedo-2024-effect-splinting-scan-bodies-trueness]] — splinting scan bodies improves trueness (5 IOS); contrasts with intraoral splinting degradation here
+- papaspyridakos-2024-reverse-scan-body-double-full-arch-zirconia — reverse scan body workflow for double-arch zirconia; clinical application
+- andriessen-2014-applicability-accuracy-intraoral-scanner-edentulous-mandibles — earlier pilot study (25 patients, 2 implants); only 5/21 scans analyzable
+- azevedo-2024-effect-splinting-scan-bodies-trueness — splinting scan bodies improves trueness (5 IOS); contrasts with intraoral splinting degradation here
