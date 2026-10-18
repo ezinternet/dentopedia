@@ -85,7 +85,7 @@ A narrative review of "sticky bone" — a composite biomaterial combining autolo
 - [[bone-regeneration/assiri-2026-iprf-prf-beta-tcp-bone-regeneration-goat]] — i-PRF + β-TCP in goat calvarial defects
 - [[bone-regeneration/cha-2024-gbr-dehiscence-synthetic-vs-bovine-rct]] — GBR materials comparison
 - [[bone-regeneration/buser-2023-gbr-implant-35years-basic-principle-review]] — GBR principles 35-year review
-- [[bone-regeneration/ridge-preservation/cho-2026-prf-bone-regeneration-mechanisms-scoping-review]] — PRF bone regeneration mechanisms
+- [[bone-regeneration/cho-2026-prf-bone-regeneration-mechanisms-scoping-review]] — PRF bone regeneration mechanisms
 
 ## Glossary
 
