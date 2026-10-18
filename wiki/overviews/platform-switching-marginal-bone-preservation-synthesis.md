@@ -44,7 +44,7 @@ relations:
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
-> - 핵심 명제: 플랫폼 스위칭(Platform Switching, PLS — 임플란트보다 좁은 지대주를 얹는 방식)은 변연골 소실(Marginal Bone Loss, MBL)을 **일관되게, 반복적으로** 줄인다 — 총 22편(SR+MA 3편·RCT 5편·합의보고서 1편·후향연구 2편·기전연구 4편·서술리뷰/원저 다수). **방향은 수렴하지만 만장일치는 아니다** — null RCT 1편(Rossi 2015) 존재, 아래 참조.
+> - 핵심 명제: 플랫폼 스위칭(Platform Switching, PLS — 임플란트보다 좁은 지대주를 얹는 방식)은 변연골 소실(Marginal Bone Loss, MBL)을 **일관되게, 반복적으로** 줄인다 — 총 30편(SR+MA 3편·RCT 6편·합의보고서 1편·후향연구 1편·FEA 2편·OAOT SR+MA 2편·기전·서술리뷰 다수). **방향은 수렴하지만 만장일치는 아니다** — null RCT 1편(Rossi 2015) 존재, 아래 참조.
 > - **기전은 3층**: ①염증성 미세간극 이격(Desai 2013, Salimi 2011 — 임플란트-지대주 접합부(IAJ)를 내측·치관측으로 이동시켜 생물학적 폭경(biologic width) 재형성 자극 감소) ②생역학적 응력 재분산(유한요소분석(FEA) 원저 Sahabi 2013·Yadav 2025) ③부식·금속이온 방출 감소(Alrabeah 2016). **①은 이 위키가 가진 유일한 직접 측정(Chien 2016)이 오히려 반대 방향** — 확정된 사실로 서술하지 말 것.
 > - **크기(magnitude)는 연구마다 다르나 방향은 대체로 일치**: Strietzel 2015(SR+MA, 22편)는 PS 0.49mm vs PM 1.01mm(가중평균차 약 0.5mm); Di Girolamo 2016(SR+MA, 15 RCT/1,439개)은 "포함연구 중 PS가 더 나쁜 결과를 보인 연구 0편"; Juan-Montesinos 2022(SR+MA, 9편/937개)는 MD 0.255mm(p<0.05); RCT는 Enkling 2013 3년·Rocha 2016 3년(0.28 vs 0.68mm)·Messias 2019 5년(0.23mm 차이)·Bhatt 2025 12개월(0.32 vs 0.81mm, p<0.001)이 유의하게 PS 우위, Rossi 2015 6개월만 유의차 없음.
 > - **생존율은 무차이**: 모든 연구가 PS와 PM 간 임플란트 생존율에 유의차 없음을 일관되게 보고 — PS의 이득은 골 보존이지 생존 자체가 아니다.
@@ -64,7 +64,7 @@ relations:
 
 ## Three-line Summary
 
-Synthesis of 22 papers on platform switching (PLS) and marginal bone loss (MBL), including the 2006 origin paper that coined the term: three SR+MA (Strietzel 2015, 22 studies: PS 0.49mm vs PM 1.01mm weighted mean; Di Girolamo 2016, 15 RCTs/1,439 implants: zero included study favored PM; Juan-Montesinos 2022, 9 studies/937 implants: MD 0.255mm, p<0.05), a 2013 expert consensus report (Schwarz 2013, Camlog Foundation), and five RCTs (Enkling 2013, 3yr; Rocha 2016, 3yr, PS 0.28 vs PM 0.68mm, p=0.002; Messias 2019, 5yr equivalence trial, PS 0.23mm lower, p=0.025; Bhatt 2025, 12mo, PS 0.32 vs PM 0.81mm, p<0.001) converge on direction — PLS reduces MBL with no survival penalty — with one dissent: Rossi 2015, a 6-month pilot RCT (n=39 implants), found no significant difference on any measured parameter.
+Synthesis of 30 papers on platform switching (PLS) and marginal bone loss (MBL), including the 2006 origin paper that coined the term: three SR+MA (Strietzel 2015, 22 studies: PS 0.49mm vs PM 1.01mm weighted mean; Di Girolamo 2016, 15 RCTs/1,439 implants: zero included study favored PM; Juan-Montesinos 2022, 9 studies/937 implants: MD 0.255mm, p<0.05), a 2013 expert consensus report (Schwarz 2013, Camlog Foundation), and five RCTs (Enkling 2013, 3yr; Rocha 2016, 3yr, PS 0.28 vs PM 0.68mm, p=0.002; Messias 2019, 5yr equivalence trial, PS 0.23mm lower, p=0.025; Bhatt 2025, 12mo, PS 0.32 vs PM 0.81mm, p<0.001) converge on direction — PLS reduces MBL with no survival penalty — with one dissent: Rossi 2015, a 6-month pilot RCT (n=39 implants), found no significant difference on any measured parameter.
 
 The mechanism is now three-layered rather than two: a coronal-and-inward shift of the implant-abutment junction's inflammatory microgap away from crestal bone (Desai 2013, Salimi 2011), biomechanical stress redistribution confirmed by two primary FEA studies (Sahabi 2013, Yadav 2025 — bone stress down, but implant/abutment/screw stress up), and roughly twofold lower metal-ion release from the platform-switched interface in accelerated corrosion testing (Alrabeah 2016). The biologic layer is not clean: Chien 2016 found peri-implant crevicular cytokine profiles broadly similar between PS and PM during early healing, with TNF-α paradoxically ~3x *higher* in PS at week 1.
 
@@ -153,7 +153,7 @@ Platform switching is one of the more strongly convergent implant design questio
 
 ## OAOT Protocol — Abutment Reconnection Frequency as an Independent MBL Variable
 
-**[Added 2026-10-17, 4 papers]** The 22-paper synthesis above compares PS vs PM abutment *width*. A parallel question — how many times an abutment is disconnected and replaced after initial connection — is now addressed by four studies, with two SR+MA as the summary layer.
+**[Added 2026-10-17, 4 papers]** The 26-paper synthesis above compares PS vs PM abutment *width*. A parallel question — how many times an abutment is disconnected and replaced after initial connection — is now addressed by four studies, with two SR+MA as the summary layer.
 
 [[implants/mbl/abayov-2026-one-abutment-one-time-versus]] is the highest-level synthesis: a PRISMA SR+MA of 7 RCTs (645 implants, 395 patients, 2020–2024) specifically in bone-level, platform-switched, conical-connection implants. Pooled random-effects analysis (6 parallel-group RCTs, 603 implants) favored one-abutment-one-time (OAOT) over repeated disconnections: MD −0.23 mm (95% CI −0.44 to −0.02), p<0.05, I²=77%. Probing depth did not differ significantly. Implant survival exceeded 94% in both groups across all included RCTs. [[implants/mbl/nunes-2025-final-prosthetic-abutment-insertion-time-oaot]] independently replicates the direction in a broader analysis (11 RCTs, 699 implants, all connection types), confirming OAOT's bone preservation advantage is not confined to conical-connection systems.
 
