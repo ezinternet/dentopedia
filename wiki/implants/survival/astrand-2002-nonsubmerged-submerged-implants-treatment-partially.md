@@ -60,7 +60,7 @@ This prospective randomized split-mouth trial directly compared the two dominant
 No significant differences in plaque index, bleeding on probing, probing depth, or suppuration between groups at 1 year.
 
 ## Related Papers
-- [[implants/survival/astrand-2000-nonsubmerged-implants-edentulous-upper-jaw]] — ITI-only 1-year data in edentulous maxilla; same research group, extends to comparative design
-- [[implants/survival/moberg-2001-branemark-iti-mandibular-edentulism-3yr]] — Similar split-mouth RCT in edentulous mandible with 3-year follow-up
-- [[implants/survival/lekholm-1999-branemark-partially-edentulous-jaws]] — Multicenter Brånemark survival cohort in partially edentulous jaws
-- [[implants/survival/buser-1997-iti-nonsubmerged-8yr-life-table]] — Foundational long-term ITI nonsubmerged survival data (2359 implants)
+- astrand-2000-nonsubmerged-implants-edentulous-upper-jaw — ITI-only 1-year data in edentulous maxilla; same research group, extends to comparative design
+- moberg-2001-branemark-iti-mandibular-edentulism-3yr — Similar split-mouth RCT in edentulous mandible with 3-year follow-up
+- lekholm-1999-branemark-partially-edentulous-jaws — Multicenter Brånemark survival cohort in partially edentulous jaws
+- buser-1997-iti-nonsubmerged-8yr-life-table — Foundational long-term ITI nonsubmerged survival data (2359 implants)
