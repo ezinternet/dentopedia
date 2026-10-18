@@ -63,6 +63,6 @@ The ProGlider group demonstrated significantly greater weight reduction (cutting
 
 ## Related Papers
 
-- [[endodontics/glide-path/kaur-2024-eal-vs-radiograph-working-length-sr-ma]] — 근관 작업 길이 측정 체계적 리뷰
-- [[endodontics/instrumentation/almohareb-2023-cyclic-fatigue-niti-autoclave]] — NiTi 파일 반복 피로 및 오토클레이브 영향
-- [[endodontics/instrumentation/fayaz-2014-effect-sterilization-number-use-accuracy]] — 멸균 횟수·사용 횟수가 파일 정확도에 미치는 영향
+- [[endodontics/eal/kaur-2024-eal-vs-radiograph-working-length-sr-ma]] — 근관 작업 길이 측정 체계적 리뷰
+- [[endodontics/shaping/almohareb-2023-cyclic-fatigue-niti-autoclave]] — NiTi 파일 반복 피로 및 오토클레이브 영향
+- [[prosthetic-materials/abutment-screw/fayaz-2014-effect-sterilization-number-use-accuracy]] — 멸균 횟수·사용 횟수가 파일 정확도에 미치는 영향
