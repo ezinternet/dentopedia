@@ -674,11 +674,6 @@ document.getElementById('siteGrid').addEventListener('click', e => {
 });
 
 // factor items
-document.getElementById('factorList').addEventListener('click', e => {
-  const item = e.target.closest('.factor-item');
-  if (!item) return;
-  toggle(item);
-});
 document.querySelectorAll('.panel .factor-list').forEach(fl => {
   fl.addEventListener('click', e => {
     const item = e.target.closest('.factor-item');
