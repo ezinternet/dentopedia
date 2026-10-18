@@ -100,6 +100,6 @@ Three groups:
 ## Related Papers
 
 - [[implants/osteotomy-thermal/tur-2025-scais-cip-guided-conventional-drill-diameter-heat]] — S-CAIS vs CIP: diameter and depth interactions (Vienna, automated protocol)
-- [[implants/osteotomy-thermal/strbac-2014-guided-conventional-drilling-heat-irrigation]] — earlier guided surgery thermal comparison
-- [[implants/osteotomy-thermal/eriksson-albrektsson-1984-critical-bone-temperature]] — 47°C/1min threshold basis
+- strbac-2014-guided-conventional-drilling-heat-irrigation — earlier guided surgery thermal comparison
+- eriksson-albrektsson-1984-critical-bone-temperature — 47°C/1min threshold basis
 - [[overviews/osteotomy-drilling-heat-determinants-irrigation-overview]] — synthesis hub
