@@ -13,7 +13,7 @@ full_text: false
 
 ## Why Ingested
 
-글라이드 패스 형성용 니켈-티타늄 파일(PathFile, One G, ProGlider)의 삭제 효율과 성형 시 토크 발생을 인공 치아(Dentalike)를 이용해 비교한 예비 연구로, 근관 치료 전 글라이드 패스 형성 기구 선택의 근거 자료로 인제스트. [[endodontics/glide-path/kaur-2024-eal-vs-radiograph-working-length-sr-ma]] 등 근관 길이 측정·글라이드 패스 관련 문헌과 연계.
+글라이드 패스 형성용 니켈-티타늄 파일(PathFile, One G, ProGlider)의 삭제 효율과 성형 시 토크 발생을 인공 치아(Dentalike)를 이용해 비교한 예비 연구로, 근관 치료 전 글라이드 패스 형성 기구 선택의 근거 자료로 인제스트. [[endodontics/eal/kaur-2024-eal-vs-radiograph-working-length-sr-ma]] 등 근관 길이 측정·글라이드 패스 관련 문헌과 연계.
 
 ## Three-line Summary
 
@@ -72,9 +72,9 @@ full_text: false
 
 ## Related Work
 
-- [[endodontics/glide-path/kaur-2024-eal-vs-radiograph-working-length-sr-ma]] - 근관 작업 길이 측정 체계적 리뷰
-- [[endodontics/instrumentation/almohareb-2023-cyclic-fatigue-niti-autoclave]] - NiTi 파일 반복 피로 및 오토클레이브 영향
-- [[endodontics/instrumentation/fayaz-2014-effect-sterilization-number-use-accuracy]] - 멸균 횟수·사용 횟수가 파일 정확도에 미치는 영향
+- [[endodontics/eal/kaur-2024-eal-vs-radiograph-working-length-sr-ma]] - 근관 작업 길이 측정 체계적 리뷰
+- [[endodontics/shaping/almohareb-2023-cyclic-fatigue-niti-autoclave]] - NiTi 파일 반복 피로 및 오토클레이브 영향
+- [[prosthetic-materials/abutment-screw/fayaz-2014-effect-sterilization-number-use-accuracy]] - 멸균 횟수·사용 횟수가 파일 정확도에 미치는 영향
 
 ## Glossary
 
