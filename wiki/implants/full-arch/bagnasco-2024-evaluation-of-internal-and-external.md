@@ -104,7 +104,7 @@ Bagnasco et al. (2024) conducted a multicenter, randomized, split-mouth controll
 |-------|----------|-------------|
 | [[implants/full-arch/rapone-2026-italian-consensus-full-arch-grade]] | Italian consensus | Connection type as gradeable clinical factor |
 | [[implants/full-arch/figueiredo-2025-all-on-four-overview-sr]] | All-on-4 overview SR | Implant-abutment interface in prosthetic design |
-| [[implants/full-arch/pellas-2026-italian-consensus-full-arch-grade]] | Italian consensus | Consensus guidelines reference connection stability |
+| pellas-2026-italian-consensus-full-arch-grade | Italian consensus | Consensus guidelines reference connection stability |
 
 ## Clinical Takeaway
 
