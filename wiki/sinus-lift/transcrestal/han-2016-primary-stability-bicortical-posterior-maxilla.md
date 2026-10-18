@@ -5,7 +5,7 @@ year: 2016
 date: 2016-08-30
 doi: 10.5051/jpis.2016.46.4.254
 pmid: "27588215"
-source: sources/han-2016-primary-stability-bicortical-posterior-maxilla.md
+source: han-2016-primary-stability-bicortical-posterior-maxilla.md
 category: sinus-lift/transcrestal
 source_collection: pubmed-abstract
 evidence_level: in-vitro
