@@ -13,7 +13,7 @@ full_text: false
 
 ## Why Ingested
 
-이 논문은 골 대체재와 콜라겐 차단막의 복합체(bone patch)를 이용한 국소적 치조제 증대술의 임상적 유효성을 동물실험(개)에서 검증한 연구로, 기존 GBR(유도골재생술)과 비교하여 수술 시간 단축과 동등한 생물학적 성능을 보고함. [[implants/ridge-augmentation/benic-2014-horizontal-bone-augmentation-guided-regeneration]] 등 기존 GBR 문헌과 비교 시술 프로토콜 간소화 근거로 인제스트.
+이 논문은 골 대체재와 콜라겐 차단막의 복합체(bone patch)를 이용한 국소적 치조제 증대술의 임상적 유효성을 동물실험(개)에서 검증한 연구로, 기존 GBR(유도골재생술)과 비교하여 수술 시간 단축과 동등한 생물학적 성능을 보고함. [[bone-regeneration/benic-2014-horizontal-bone-augmentation-guided-regeneration]] 등 기존 GBR 문헌과 비교 시술 프로토콜 간소화 근거로 인제스트.
 
 ## Three-line Summary
 
@@ -69,9 +69,9 @@ full_text: false
 
 ## Related Work
 
-- [[implants/ridge-augmentation/benic-2014-horizontal-bone-augmentation-guided-regeneration]] - GBR 원칙 확립 논문
-- [[implants/ridge-augmentation/buser-2023-gbr-implant-35years-basic-principle-review]] - GBR 35년 리뷰
-- [[implants/immediate-implant/chen-2009-clinical-esthetic-outcomes-implants-postextraction]] - 발치 후 즉시 식립 심미 결과
+- [[bone-regeneration/benic-2014-horizontal-bone-augmentation-guided-regeneration]] - GBR 원칙 확립 논문
+- [[bone-regeneration/buser-2023-gbr-implant-35years-basic-principle-review]] - GBR 35년 리뷰
+- [[immediate-implant/esthetic-soft-tissue/chen-2009-clinical-esthetic-outcomes-implants-postextraction]] - 발치 후 즉시 식립 심미 결과
 
 ## Glossary
 
