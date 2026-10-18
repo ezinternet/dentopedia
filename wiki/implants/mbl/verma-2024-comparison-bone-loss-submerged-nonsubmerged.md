@@ -117,9 +117,9 @@ All implants: Bioner Implant System (Barcelona, Spain), bone-level, placed per m
 
 ## Related Papers
 
-- [[wiki/implants/mbl/linkevicius-2015-influence-vertical-soft-tissue-thickness-crestal-bone]] — Vertical soft tissue thickness ≥2 mm reduces crestal bone loss; biological basis for submerged advantage via thick tissue coverage
-- [[wiki/infection-control/bidra-2019-should-healing-abutments-cover-screws]] — Systematic review on reuse of healing abutments/cover screws; different question but same components
+- linkevicius-2015-influence-vertical-soft-tissue-thickness-crestal-bone — Vertical soft tissue thickness ≥2 mm reduces crestal bone loss; biological basis for submerged advantage via thick tissue coverage
+- [[infection-control/bidra-2019-should-healing-abutments-cover-screws]] — Systematic review on reuse of healing abutments/cover screws; different question but same components
 - Sánchez-Siles M et al. 2018 (Clin Oral Implants Res 29:808–12) — Similar 3-arm RCT comparing submerged vs non-submerged with different healing abutments; consistent findings
-- [[wiki/immediate-implant/esthetic-soft-tissue/...]] — Esthetic healing abutment design principles (narrow base for emergence profile)
+- ... — Esthetic healing abutment design principles (narrow base for emergence profile)
 - Mariano Sanchez-Siles et al. 2016 (Clin Oral Implants Res) — Referenced for sample size calculation; peri-implant crestal bone loss during osseointegration
 - Hermann JS et al. 2000 (Clin Oral Implants Res) — Biologic width around titanium implants; physiological dimension over time
