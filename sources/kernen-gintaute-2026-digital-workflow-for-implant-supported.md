@@ -17,7 +17,7 @@ tags: [digital-workflow, reverse-scan-body, intraoral-scanner, TRIOS, verificati
 ## Why Ingested
 
 - All-on-x cohort sweep: full-arch digital workflow accuracy with reverse scan bodies in edentulous mandible
-- Connects to existing wiki pages on digital workflow accuracy: [[implants/full-arch/mijiritsky-2026-segmented-full-arch-digital-workflow-mandible]] (segmented mandible workflow), [[implants/full-arch/pozzi-2025-photogrammetry-versus-intraoral-scanning-in]] (IOS vs photogrammetry accuracy), [[implants/full-arch/papaspyridakos-2024-reverse-scan-body-double-full-arch-zirconia]] (reverse scan body workflow)
+- Connects to existing wiki pages on digital workflow accuracy: [[implants/full-arch/mijiritsky-2026-segmented-full-arch-digital-workflow-mandible]] (segmented mandible workflow), [[implants/full-arch/pozzi-2025-photogrammetry-versus-intraoral-scanning-in]] (IOS vs photogrammetry accuracy), papaspyridakos-2024-reverse-scan-body-double-full-arch-zirconia (reverse scan body workflow)
 
 ## Three-line Summary
 
