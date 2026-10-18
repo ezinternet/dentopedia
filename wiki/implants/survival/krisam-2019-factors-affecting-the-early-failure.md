@@ -9,7 +9,7 @@ pmcid: "PMC6727348"
 journal: BMC Oral Health 19:208
 source: krisam-2019-factors-affecting-the-early-failure.md
 category: [implants/survival]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/krisam-2019-factors-affecting-the-early-failure.pdf
 pdf_filename: krisam-2019-factors-affecting-the-early-failure.pdf
 source_collection: external
