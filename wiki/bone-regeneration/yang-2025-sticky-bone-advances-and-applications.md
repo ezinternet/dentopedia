@@ -78,4 +78,4 @@ Sticky bone emerged in 2010 (Sohn et al.) as a fibrin-encapsulated, bio-cured ad
 - [[bone-regeneration/assiri-2026-iprf-prf-beta-tcp-bone-regeneration-goat]] — i-PRF + β-TCP in goat calvaria; reinforces i-PRF-based sticky bone osteogenicity
 - [[bone-regeneration/cha-2024-gbr-dehiscence-synthetic-vs-bovine-rct]] — GBR material comparison; sticky bone as alternative gel formulation
 - [[bone-regeneration/buser-2023-gbr-implant-35years-basic-principle-review]] — GBR principles; sticky bone applies core GBR tenets with fibrin innovation
-- [[bone-regeneration/ridge-preservation/cho-2026-prf-bone-regeneration-mechanisms-scoping-review]] — PRF mechanisms scoping review; overlaps sticky bone growth factor biology
+- [[bone-regeneration/cho-2026-prf-bone-regeneration-mechanisms-scoping-review]] — PRF mechanisms scoping review; overlaps sticky bone growth factor biology
