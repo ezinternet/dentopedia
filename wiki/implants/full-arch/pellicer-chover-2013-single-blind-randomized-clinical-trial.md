@@ -102,11 +102,11 @@ All parameters showed **no statistically significant differences** between group
 
 | Paper | Relation | Notes |
 |-------|----------|-------|
-| [[implants/full-arch/malo-2007-all-on-four-immediate-function]] | Complements | Seminal All-on-4 immediate loading protocol; this RCT tests placement timing variable |
-| [[implants/full-arch/chen-2019-systematic-review-immediate-loading]] | Supports | Chen 2019 SR includes this RCT in meta-analysis of immediate loading outcomes |
-| [[implants/full-arch/gallucci-2009-immediate-implants-full-arch]] | Relates to | Gallucci 2009 evaluates immediate implants for full-arch (different design) |
-| [[implants/full-arch/crespi-2012-immediate-loading-full-arch]] | Relates to | Crespi 2012 also evaluates immediate loading full-arch outcomes |
-| [[implants/full-arch/block-2017-all-on-four-systematic-review]] | Context | Block 2017 SR on All-on-4 includes immediate vs delayed placement discussion |
+| malo-2007-all-on-four-immediate-function | Complements | Seminal All-on-4 immediate loading protocol; this RCT tests placement timing variable |
+| chen-2019-systematic-review-immediate-loading | Supports | Chen 2019 SR includes this RCT in meta-analysis of immediate loading outcomes |
+| gallucci-2009-immediate-implants-full-arch | Relates to | Gallucci 2009 evaluates immediate implants for full-arch (different design) |
+| crespi-2012-immediate-loading-full-arch | Relates to | Crespi 2012 also evaluates immediate loading full-arch outcomes |
+| block-2017-all-on-four-systematic-review | Context | Block 2017 SR on All-on-4 includes immediate vs delayed placement discussion |
 
 ## Clinical Takeaway
 
