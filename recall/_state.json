@@ -793,5 +793,560 @@
     "box": 1,
     "due": "2026-08-27",
     "last": null
+  },
+  "clear-aligner-class-ii-iii-expansion-overview::q1": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "clear-aligner-class-ii-iii-expansion-overview::q2": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "clear-aligner-class-ii-iii-expansion-overview::q3": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "clear-aligner-design-materials-overview::q1": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "clear-aligner-design-materials-overview::q2": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "clear-aligner-design-materials-overview::q3": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "clear-aligner-efficacy-accelerated-overview::q1": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "clear-aligner-efficacy-accelerated-overview::q2": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "clear-aligner-efficacy-accelerated-overview::q3": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "clear-aligner-patient-consent-pro-overview::q1": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "clear-aligner-patient-consent-pro-overview::q2": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "clear-aligner-patient-consent-pro-overview::q3": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "clear-aligner-safety-periodontal-tmj-overview::q1": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "clear-aligner-safety-periodontal-tmj-overview::q2": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "clear-aligner-safety-periodontal-tmj-overview::q3": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "cr-co-micp-measurement-chain-verification-overview::q1": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "cr-co-micp-measurement-chain-verification-overview::q2": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "cr-co-micp-measurement-chain-verification-overview::q3": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "cr-co-micp-positions-orthodontic-axis-overview::q1": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "cr-co-micp-positions-orthodontic-axis-overview::q2": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "cr-co-micp-positions-orthodontic-axis-overview::q3": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "dbbm-allograft-particle-size-long-term-safety-overview::q1": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "dbbm-allograft-particle-size-long-term-safety-overview::q2": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "dbbm-allograft-particle-size-long-term-safety-overview::q3": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "dbbm-core-properties-hybrids-collagen-overview::q1": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "dbbm-core-properties-hybrids-collagen-overview::q2": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "dbbm-core-properties-hybrids-collagen-overview::q3": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "dbbm-platelet-adjuncts-bcp-bmp2-overview::q1": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "dbbm-platelet-adjuncts-bcp-bmp2-overview::q2": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "dbbm-platelet-adjuncts-bcp-bmp2-overview::q3": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "early-bone-loss-loading-foundations-overview::q1": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "early-bone-loss-loading-foundations-overview::q2": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "early-bone-loss-loading-foundations-overview::q3": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "gbr-clinical-application-additive-value-overview::q1": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "gbr-clinical-application-additive-value-overview::q2": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "gbr-clinical-application-additive-value-overview::q3": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "gbr-membrane-classification-crosslinking-overview::q1": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "gbr-membrane-classification-crosslinking-overview::q2": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "gbr-membrane-classification-crosslinking-overview::q3": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "gbr-next-generation-synthetic-membranes-overview::q1": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "gbr-next-generation-synthetic-membranes-overview::q2": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "gbr-next-generation-synthetic-membranes-overview::q3": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "high-insertion-torque-immediate-loading-isq-decoupling-overview::q1": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "high-insertion-torque-immediate-loading-isq-decoupling-overview::q2": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "high-insertion-torque-immediate-loading-isq-decoupling-overview::q3": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "high-insertion-torque-sign-flip-crestal-harm-overview::q1": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "high-insertion-torque-sign-flip-crestal-harm-overview::q2": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "high-insertion-torque-sign-flip-crestal-harm-overview::q3": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "implant-failure-mbl-host-site-risk-factors-overview::q1": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "implant-failure-mbl-host-site-risk-factors-overview::q2": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "implant-failure-mbl-host-site-risk-factors-overview::q3": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "implant-failure-mbl-surgical-prosthetic-choices-overview::q1": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "implant-failure-mbl-surgical-prosthetic-choices-overview::q2": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "implant-failure-mbl-surgical-prosthetic-choices-overview::q3": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "misch-papers-overview::q1": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "misch-papers-overview::q2": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "misch-papers-overview::q3": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "osseodensification-clinical-scenarios-overview::q1": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "osseodensification-clinical-scenarios-overview::q2": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "osseodensification-clinical-scenarios-overview::q3": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "osseodensification-mechanism-outcomes-limits-overview::q1": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "osseodensification-mechanism-outcomes-limits-overview::q2": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "osseodensification-mechanism-outcomes-limits-overview::q3": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "peri-implantitis-etiology-prevalence-risk-factors-overview::q1": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "peri-implantitis-etiology-prevalence-risk-factors-overview::q2": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "peri-implantitis-etiology-prevalence-risk-factors-overview::q3": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "peri-implantitis-treatment-modalities-overview::q1": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "peri-implantitis-treatment-modalities-overview::q2": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "peri-implantitis-treatment-modalities-overview::q3": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "postop-analgesic-first-line-guideline-opioid-route-overview::q1": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "postop-analgesic-first-line-guideline-opioid-route-overview::q2": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "postop-analgesic-first-line-guideline-opioid-route-overview::q3": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "postop-analgesic-nsaid-safety-hypersensitivity-overview::q1": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "postop-analgesic-nsaid-safety-hypersensitivity-overview::q2": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "postop-analgesic-nsaid-safety-hypersensitivity-overview::q3": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "postop-analgesic-preemptive-steroid-endo-pediatric-overview::q1": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "postop-analgesic-preemptive-steroid-endo-pediatric-overview::q2": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "postop-analgesic-preemptive-steroid-endo-pediatric-overview::q3": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "sinus-lift-graft-material-prf-overview::q1": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "sinus-lift-graft-material-prf-overview::q2": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "sinus-lift-graft-material-prf-overview::q3": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "sinus-lift-membrane-material-perforation-repair-overview::q1": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "sinus-lift-membrane-material-perforation-repair-overview::q2": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "sinus-lift-membrane-material-perforation-repair-overview::q3": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "sinus-lift-perforation-risk-anatomy-overview::q1": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "sinus-lift-perforation-risk-anatomy-overview::q2": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "sinus-lift-perforation-risk-anatomy-overview::q3": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "sinus-lift-technique-timing-sinusitis-overview::q1": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "sinus-lift-technique-timing-sinusitis-overview::q2": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "sinus-lift-technique-timing-sinusitis-overview::q3": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "socket-preservation-classification-healing-biology-overview::q1": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "socket-preservation-classification-healing-biology-overview::q2": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "socket-preservation-classification-healing-biology-overview::q3": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "socket-preservation-graft-material-dimensional-outcomes-overview::q1": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "socket-preservation-graft-material-dimensional-outcomes-overview::q2": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "socket-preservation-graft-material-dimensional-outcomes-overview::q3": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "socket-preservation-prf-biologics-implant-sufficiency-overview::q1": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "socket-preservation-prf-biologics-implant-sufficiency-overview::q2": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "socket-preservation-prf-biologics-implant-sufficiency-overview::q3": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "tmj-dislocation-acute-reduction-overview::q1": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "tmj-dislocation-acute-reduction-overview::q2": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "tmj-dislocation-acute-reduction-overview::q3": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "tmj-dislocation-recurrence-prevention-overview::q1": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "tmj-dislocation-recurrence-prevention-overview::q2": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "tmj-dislocation-recurrence-prevention-overview::q3": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "tmj-dislocation-recurrence-risk-diagnosis-iatrogenic-overview::q1": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "tmj-dislocation-recurrence-risk-diagnosis-iatrogenic-overview::q2": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "tmj-dislocation-recurrence-risk-diagnosis-iatrogenic-overview::q3": {
+    "box": 1,
+    "due": "2026-10-11",
+    "last": null
+  },
+  "odontogenic-maxillary-sinus-lavage-overview::q1": {
+    "box": 1,
+    "due": "2026-10-14",
+    "last": null
+  },
+  "odontogenic-maxillary-sinus-lavage-overview::q2": {
+    "box": 1,
+    "due": "2026-10-14",
+    "last": null
+  },
+  "odontogenic-maxillary-sinus-lavage-overview::q3": {
+    "box": 1,
+    "due": "2026-10-14",
+    "last": null
   }
 }
