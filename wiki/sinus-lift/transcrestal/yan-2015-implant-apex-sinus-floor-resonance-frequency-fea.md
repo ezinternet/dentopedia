@@ -88,5 +88,5 @@ Sinus membrane von Mises: increased under immediate loading with apex in cortex 
 - [[sinus-lift/transcrestal/han-2016-primary-stability-bicortical-posterior-maxilla]] — in vitro ISQ vs RBH; the ISQ gap this FEA explains mechanistically
 - [[sinus-lift/transcrestal/ahn-2012-implant-stability-preparation-methods-bicortical-monocortical]] — RT (axial) vs ISQ (buccolingual) differ; consistent with axial/buccolingual distinction here
 - [[sinus-lift/transcrestal/bhave-2023-unicortical-bicortical-anchorage-posterior-maxilla]] — clinical ISQ gap 71.1 vs 65.7; axial stabilization explains the benefit
-- [[sinus-lift/transcrestal/lombardi-2025-bone-level-tissue-level-short-implants-maxilla]] — clinical: bicortical → IT but NOT ISQ; directly consistent with this FEA
+- [[implants/short-narrow/lombardi-2025-bone-level-tissue-level-short-implants-maxilla]] — clinical: bicortical → IT but NOT ISQ; directly consistent with this FEA
 - [[sinus-lift/transcrestal/zheng-2025-ultrashort-implants-posterior-maxilla-bicortical-osfe-fea]] — extends this FEA framework to ultrashort implants + OSFE comparison
