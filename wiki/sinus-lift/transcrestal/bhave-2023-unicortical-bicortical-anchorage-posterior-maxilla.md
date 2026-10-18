@@ -5,7 +5,7 @@ year: 2023
 date: 2023-04-14
 doi: 10.4103/njms.njms_7_22
 pmid: "37273433"
-source: sources/bhave-2023-unicortical-bicortical-anchorage-posterior-maxilla.md
+source: bhave-2023-unicortical-bicortical-anchorage-posterior-maxilla.md
 category: sinus-lift/transcrestal
 source_collection: pubmed-abstract
 evidence_level: prospective
