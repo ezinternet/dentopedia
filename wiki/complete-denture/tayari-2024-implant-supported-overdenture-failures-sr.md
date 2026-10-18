@@ -119,4 +119,4 @@ The review distinguishes implant failure (osseointegration defect, implant loss/
 - [[complete-denture/sutariya-2021-mandibular-implant-supported-overdenture-systematic]] — SR+MA on attachment system selection for mandibular IOD (McGill/York consensus context)
 - [[complete-denture/padmanabhan-2020-single-implant-retained-overdenture-treatment]] — single-implant overdenture outcomes, supports findings on single-implant mandibular OD viability
 - [[complete-denture/bi-2022-attachment-type-implant-number-overdenture]] — attachment type and implant number effects, directly related topic
-- [[complete-denture/lan-2025-long-term-four-implant-supported]] — long-term data on 4-implant IOD outcomes
+- [[implants/full-arch/lan-2025-four-implant-overdenture-vs-fixed-sr-ma]] — long-term data on 4-implant IOD outcomes
