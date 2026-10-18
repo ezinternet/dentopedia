@@ -5,7 +5,7 @@ year: 2018
 date: 2018-04-20
 doi: 10.11607/prd.3241
 pmid: "29677226"
-source: sources/ng-2018-bicortical-engagement-atrophic-posterior-maxillae.md
+source: ng-2018-bicortical-engagement-atrophic-posterior-maxillae.md
 category: sinus-lift/transcrestal
 source_collection: pubmed-abstract
 evidence_level: retrospective
