@@ -5,7 +5,7 @@ year: 2020
 date: 2020-07-10
 doi: 10.1007/s00784-020-03432-z
 pmid: "32651646"
-source: sources/rues-2020-bone-quality-primary-stability-bicortical-sinus.md
+source: rues-2020-bone-quality-primary-stability-bicortical-sinus.md
 category: sinus-lift/transcrestal
 source_collection: pubmed-abstract
 evidence_level: in-vitro
