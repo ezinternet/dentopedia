@@ -59,9 +59,9 @@ This in vitro study evaluated the correlation between insertion torque (IT) and 
 - Group B: 21% low IT, 34% medium, 44% high
 
 ## Related Papers
-- [[implants/isq/degidi-2010-primary-stability-comparison]] — Low positive correlation (r=0.247) in 514 Xive implants clinically
-- [[implants/isq/degidi-2012-primary-stability-4135-implants]] — Similar low correlation (r=0.218) in large clinical cohort
-- [[implants/isq/turkyilmaz-2006-insertion-torque-resonance-frequency]] — Spearman r=0.583 in 142 Brånemark implants, similar to Group A
-- [[implants/isq/kahraman-2009-insertion-torque-wireless-rfa]] — Higher clinical correlation (r=0.78 at surgery) with Straumann/MIS implants
-- [[implants/isq/park-2012-isq-insertion-variables]] — Clinical correlation r=0.427; mandibular > maxillary ISQ/IT
-- [[implants/isq/sennerby-2008-rfa-biological-biomechanical]] — Conceptual framework: RFA reflects bending resistance, IT reflects shear resistance
+- degidi-2010-primary-stability-comparison — Low positive correlation (r=0.247) in 514 Xive implants clinically
+- degidi-2012-primary-stability-4135-implants — Similar low correlation (r=0.218) in large clinical cohort
+- turkyilmaz-2006-insertion-torque-resonance-frequency — Spearman r=0.583 in 142 Brånemark implants, similar to Group A
+- kahraman-2009-insertion-torque-wireless-rfa — Higher clinical correlation (r=0.78 at surgery) with Straumann/MIS implants
+- park-2012-isq-insertion-variables — Clinical correlation r=0.427; mandibular > maxillary ISQ/IT
+- sennerby-2008-rfa-biological-biomechanical — Conceptual framework: RFA reflects bending resistance, IT reflects shear resistance
