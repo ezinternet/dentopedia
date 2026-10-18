@@ -95,4 +95,4 @@ IFR 생존율 우수; IOD MBL 보존 유리; 둘 다 중기 예측 가능.
 - [[implants/full-arch/figueiredo-2025-all-on-four-overview-sr]] — All-on-4 umbrella SR; fixed full-arch context; All-on-4 specific data
 - [[implants/full-arch/marinkovic-2026-metal-zirconia-vs-acrylic-full-arch-sr-ma]] — material comparison within fixed IFR
 - [[implants/full-arch/de-araujo-nobre-2026-maxillary-all-on-four-15-20yr]] — maxillary All-on-4 15–20yr; very long-term fixed IFR survival benchmark
-- [[implants/full-arch/rapone-2026-all-on-four-vs-six-implant-sr-ma]] — All-on-4 vs All-on-6 MA; implant number comparison within fixed full-arch
+- rapone-2026-all-on-four-vs-six-implant-sr-ma — All-on-4 vs All-on-6 MA; implant number comparison within fixed full-arch
