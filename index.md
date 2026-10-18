@@ -4579,6 +4579,7 @@ tags: []
 
 ### implants/survival
 - [[implants/survival/gurbanov-2024-implants-grafted-nongrafted-sites-sr]] — 골이식부 vs 비이식부 임플란트 10년 생존율 비교 SR: ISR 이식부 96–100% vs 비이식부 91.6–94%, 유사한 장기 생존율 — 적격 연구 3편뿐, 메타분석 불가 [sr]
+- [[implants/survival/clauser-2022-early-implant-failure-grafted]] — 이식부 vs 비이식부 조기 임플란트 실패(Early Implant Failure, EIF; 로딩 전) SR+MA (코호트 10편): 이식부 EIF 위험 유의하게 높음 OR 1.50 (95% CI 1.06–2.13) [sr+ma, abstract-only]
 
 ### implants
 - [[implants/park-2025-ari-implant-severely-resorbed-ridges]] — ARi® 피질골 고정형 임플란트, 심한 전치부 치조제 흡수 2증례, 초기 고정 토크 40 N/cm², 2년 안정 (골이식 여전히 필요) [case-report]
