@@ -6,7 +6,7 @@ date: 2005-09-06
 doi: "10.1016/j.micron.2005.07.008"
 source: franchi-2005-peri-implant-osteogenesis-health-osteoporosis.md
 category: [bone-biology]
-confidence: narrative-review
+evidence_level: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/franchi-2005-peri-implant-osteogenesis-health-osteoporosis.pdf
 pdf_filename: franchi-2005-peri-implant-osteogenesis-health-osteoporosis.pdf
 source_collection: external
