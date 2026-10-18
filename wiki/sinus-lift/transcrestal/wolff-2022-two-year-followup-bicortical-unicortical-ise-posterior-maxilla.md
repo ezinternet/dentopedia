@@ -5,7 +5,7 @@ year: 2022
 date: 2022-01-01
 doi: 10.11607/jomi.8302
 pmid: "35235636"
-source: sources/wolff-2022-two-year-followup-bicortical-unicortical-ise-posterior-maxilla.md
+source: wolff-2022-two-year-followup-bicortical-unicortical-ise-posterior-maxilla.md
 category: sinus-lift/transcrestal
 source_collection: pubmed-abstract
 evidence_level: rct
