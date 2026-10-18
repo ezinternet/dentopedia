@@ -16,7 +16,7 @@ text_filename: pera-2021-evaluation-of-internal-and-external.txt
 
 ## Why Ingested
 
-all-on-x 서베일런스 첫 백필(2026-10-07)에서 큐 적립. 전악 즉시부하 재건에서 external hex connection(EHC) vs internal hex connection(IHC)를 3년간 split-mouth로 비교한 멀티센터 RCT. 기존 [[implants/full-arch/pera-2021-evaluation-of-internal-and-external]] 1년 결과 논문의 연장선이며, [[implants/internal-connection/walter-2022-two-piece-internal-connection-8yr]] 8년 추적과 연결해 연결형태별 장기 근거를 구축한다.
+all-on-x 서베일런스 첫 백필(2026-10-07)에서 큐 적립. 전악 즉시부하 재건에서 external hex connection(EHC) vs internal hex connection(IHC)를 3년간 split-mouth로 비교한 멀티센터 RCT. 기존 [[implants/full-arch/pera-2021-evaluation-of-internal-and-external]] 1년 결과 논문의 연장선이며, walter-2022-two-piece-internal-connection-8yr 8년 추적과 연결해 연결형태별 장기 근거를 구축한다.
 
 ## Three-line Summary
 
@@ -85,10 +85,10 @@ all-on-x 서베일런스 첫 백필(2026-10-07)에서 큐 적립. 전악 즉시�
 
 ## 6. Related Work
 
-- [[implants/internal-connection/walter-2022-two-piece-internal-connection-8yr]] — 2-piece internal connection 8년 RCT
-- [[implants/internal-connection/rodrigues-2023-internal-connection-mbl-survival-sr-ma]] — internal connection MBL/생존 SR+MA
-- [[implants/full-arch/menini-2019-internal-external-hex-1yr]] — 동일 그룹 1년 예비결과
-- [[implants/full-arch/canullo-2020-connection-configurations-rct]] — 연결 구성 RCT
+- walter-2022-two-piece-internal-connection-8yr — 2-piece internal connection 8년 RCT
+- rodrigues-2023-internal-connection-mbl-survival-sr-ma — internal connection MBL/생존 SR+MA
+- menini-2019-internal-external-hex-1yr — 동일 그룹 1년 예비결과
+- canullo-2020-connection-configurations-rct — 연결 구성 RCT
 - Lemons 2018 (J Dent SR+MA) — EHC vs IHC 메타분석
 - Esposito 2016 (Eur J Oral Implantol) — internal vs external 5년 RCT
 
