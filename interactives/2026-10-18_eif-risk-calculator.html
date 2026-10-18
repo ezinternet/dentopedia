@@ -1,0 +1,724 @@
+<!-- Layout: two-column sticky-summary on wide, stacked on mobile -->
+<title>EIF Risk Calculator</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+
+<style>
+/* === TOKENS === */
+:root {
+  /* neutrals */
+  --bg:       #f4f6f8;
+  --surface:  #ffffff;
+  --border:   #dde2e8;
+  --muted:    #7b8a99;
+  --fg:       #1a2430;
+
+  /* accent — clinical teal */
+  --accent:   #0d7a6e;
+  --accent-2: #e6f5f3;
+
+  /* risk levels */
+  --risk-low:  #1a8a4a;
+  --risk-mod:  #c47a00;
+  --risk-high: #c0392b;
+
+  --risk-low-bg:  #e8f8ee;
+  --risk-mod-bg:  #fdf3dc;
+  --risk-high-bg: #fce8e6;
+
+  /* label */
+  --label-bg:  #eef2f6;
+
+  --radius: 10px;
+  --font-body: "IBM Plex Sans", system-ui, sans-serif;
+  --font-head: "Source Serif 4", Georgia, serif;
+  --font-mono: "IBM Plex Mono", monospace;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg:       #101820;
+    --surface:  #1a2430;
+    --border:   #2a3848;
+    --muted:    #7b8a99;
+    --fg:       #dce8f0;
+    --accent:   #1db8a6;
+    --accent-2: #0d2e2a;
+    --risk-low-bg:  #0d2418;
+    --risk-mod-bg:  #2a1e00;
+    --risk-high-bg: #2a0e0c;
+    --label-bg: #1e2c3a;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg:       #101820;
+  --surface:  #1a2430;
+  --border:   #2a3848;
+  --muted:    #7b8a99;
+  --fg:       #dce8f0;
+  --accent:   #1db8a6;
+  --accent-2: #0d2e2a;
+  --risk-low-bg:  #0d2418;
+  --risk-mod-bg:  #2a1e00;
+  --risk-high-bg: #2a0e0c;
+  --label-bg: #1e2c3a;
+  color-scheme: dark;
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: var(--font-body);
+  font-size: 14px;
+  line-height: 1.6;
+  color: var(--fg);
+  background: var(--bg);
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 24px;
+}
+
+/* layout */
+.page-header {
+  max-width: 900px;
+  margin: 0 auto 24px;
+}
+
+.page-header h1 {
+  font-family: var(--font-head);
+  font-size: clamp(1.25rem, 3vw, 1.6rem);
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  color: var(--fg);
+  line-height: 1.25;
+}
+
+.page-header p {
+  color: var(--muted);
+  font-size: 13px;
+  margin-top: 6px;
+}
+
+.layout {
+  max-width: 900px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 320px;
+  gap: 20px;
+  align-items: start;
+}
+
+@media (max-width: 700px) {
+  .layout { grid-template-columns: 1fr; }
+  .summary-col { order: -1; }
+}
+
+/* panels */
+.panel {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 18px;
+}
+
+.panel-title {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 14px;
+}
+
+/* site selector */
+.site-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+}
+
+.site-btn {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 10px 12px;
+  background: var(--label-bg);
+  border: 2px solid transparent;
+  border-radius: 8px;
+  cursor: pointer;
+  text-align: left;
+  transition: border-color .15s, background .15s;
+  font-family: var(--font-body);
+  color: var(--fg);
+}
+
+.site-btn.active {
+  border-color: var(--accent);
+  background: var(--accent-2);
+}
+
+.site-btn .site-name {
+  font-size: 12.5px;
+  font-weight: 600;
+}
+
+.site-btn .site-rate {
+  font-size: 11px;
+  color: var(--muted);
+  font-variant-numeric: tabular-nums;
+  margin-top: 2px;
+}
+
+.site-btn.active .site-rate { color: var(--accent); }
+
+/* factor groups */
+.factor-section { margin-bottom: 18px; }
+.factor-section:last-child { margin-bottom: 0; }
+
+.factor-section-label {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 8px;
+}
+
+.factor-list {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.factor-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 9px 11px;
+  border-radius: 7px;
+  cursor: pointer;
+  border: 1px solid transparent;
+  transition: background .12s, border-color .12s;
+  user-select: none;
+}
+
+.factor-item:hover { background: var(--label-bg); }
+
+.factor-item.active {
+  border-color: var(--accent);
+  background: var(--accent-2);
+}
+
+.factor-item.protective.active {
+  border-color: var(--risk-low);
+  background: var(--risk-low-bg);
+}
+
+.factor-checkbox {
+  width: 16px;
+  height: 16px;
+  flex-shrink: 0;
+  border: 2px solid var(--border);
+  border-radius: 4px;
+  margin-top: 1px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: border-color .12s, background .12s;
+}
+
+.factor-item.active .factor-checkbox {
+  border-color: var(--accent);
+  background: var(--accent);
+}
+
+.factor-item.protective.active .factor-checkbox {
+  border-color: var(--risk-low);
+  background: var(--risk-low);
+}
+
+.check-icon {
+  display: none;
+  width: 10px;
+  height: 10px;
+}
+.factor-item.active .check-icon { display: block; fill: white; }
+
+.factor-text { flex: 1; min-width: 0; }
+
+.factor-name {
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 1.3;
+}
+
+.factor-or {
+  font-size: 11px;
+  color: var(--muted);
+  font-family: var(--font-mono);
+  font-variant-numeric: tabular-nums;
+  margin-top: 1px;
+}
+
+.factor-item.protective .factor-or { color: var(--risk-low); }
+.factor-item:not(.protective).active .factor-or { color: var(--accent); }
+
+/* summary panel */
+.summary-col { position: sticky; top: 16px; }
+
+.risk-gauge-wrap {
+  margin: 4px 0 18px;
+}
+
+.risk-number {
+  font-family: var(--font-head);
+  font-size: 2.8rem;
+  font-weight: 600;
+  letter-spacing: -0.03em;
+  line-height: 1;
+  font-variant-numeric: tabular-nums;
+  transition: color .3s;
+}
+
+.risk-label {
+  font-size: 12px;
+  color: var(--muted);
+  margin-top: 4px;
+}
+
+.risk-badge {
+  display: inline-block;
+  padding: 3px 10px;
+  border-radius: 20px;
+  font-size: 11.5px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  margin-top: 10px;
+  transition: background .3s, color .3s;
+}
+
+/* gauge bar */
+.gauge-track {
+  height: 8px;
+  background: var(--label-bg);
+  border-radius: 4px;
+  overflow: hidden;
+  margin-top: 14px;
+}
+
+.gauge-fill {
+  height: 100%;
+  border-radius: 4px;
+  transition: width .4s cubic-bezier(.4,0,.2,1), background .3s;
+}
+
+/* active factors list */
+.active-factors {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  margin-top: 14px;
+}
+
+.active-factor-tag {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  font-size: 12px;
+}
+
+.active-factor-tag .tag-name { color: var(--fg); }
+.active-factor-tag .tag-or {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--muted);
+  font-variant-numeric: tabular-nums;
+}
+
+.divider {
+  height: 1px;
+  background: var(--border);
+  margin: 14px 0;
+}
+
+.baseline-row {
+  display: flex;
+  justify-content: space-between;
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.baseline-row span:last-child {
+  font-family: var(--font-mono);
+  font-variant-numeric: tabular-nums;
+}
+
+.note {
+  font-size: 11px;
+  color: var(--muted);
+  line-height: 1.5;
+  margin-top: 14px;
+  padding-top: 14px;
+  border-top: 1px solid var(--border);
+}
+
+/* reset button */
+.btn-reset {
+  display: block;
+  width: 100%;
+  margin-top: 12px;
+  padding: 8px 12px;
+  background: none;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  font-family: var(--font-body);
+  font-size: 12.5px;
+  color: var(--muted);
+  cursor: pointer;
+  transition: border-color .12s, color .12s;
+}
+
+.btn-reset:hover { border-color: var(--fg); color: var(--fg); }
+</style>
+
+<div class="page-header">
+  <h1>Early Implant Failure — Risk Estimator</h1>
+  <p>조기 임플란트 실패(EIF; 보철 로딩 전 골유착 실패) 위험 추정. 부위별 절대 기저율 × 위험인자 OR 누적 합산.</p>
+</div>
+
+<div class="layout">
+
+  <!-- LEFT: inputs -->
+  <div>
+    <div class="panel" style="margin-bottom:16px">
+      <div class="panel-title">1. 식립 부위 선택 — 기저 EIF율 (Fouda 2020 SR+MA, n=78,230)</div>
+      <div class="site-grid" id="siteGrid">
+        <button class="site-btn active" data-site="ant-max">
+          <span class="site-name">전방 상악 (ant. maxilla)</span>
+          <span class="site-rate">기저율 6.2%</span>
+        </button>
+        <button class="site-btn" data-site="post-max">
+          <span class="site-name">후방 상악 (post. maxilla)</span>
+          <span class="site-rate">기저율 1.9%</span>
+        </button>
+        <button class="site-btn" data-site="ant-mand">
+          <span class="site-name">전방 하악 (ant. mandible)</span>
+          <span class="site-rate">기저율 2.5%</span>
+        </button>
+        <button class="site-btn" data-site="post-mand">
+          <span class="site-name">후방 하악 (post. mandible)</span>
+          <span class="site-rate">기저율 4.2%</span>
+        </button>
+      </div>
+    </div>
+
+    <div class="panel">
+      <div class="panel-title">2. 위험인자 / 보호인자 선택</div>
+
+      <div class="factor-section">
+        <div class="factor-section-label">술식·골</div>
+        <div class="factor-list" id="factorList">
+
+          <div class="factor-item" data-key="grafted">
+            <div class="factor-checkbox"><svg class="check-icon" viewBox="0 0 10 10"><polyline points="2,5.5 4,8 8,2.5" stroke="white" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+            <div class="factor-text">
+              <div class="factor-name">골이식 시행 (any graft type)</div>
+              <div class="factor-or">OR 1.50 · Clauser 2022 SR+MA (10 cohorts)</div>
+            </div>
+          </div>
+
+          <div class="factor-item" data-key="sinus">
+            <div class="factor-checkbox"><svg class="check-icon" viewBox="0 0 10 10"><polyline points="2,5.5 4,8 8,2.5" stroke="white" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+            <div class="factor-text">
+              <div class="factor-name">부비동 증대술 (sinus augmentation)</div>
+              <div class="factor-or">OR 2.49 · Yang 2026 (immediate implants)</div>
+            </div>
+          </div>
+
+          <div class="factor-item" data-key="perio">
+            <div class="factor-checkbox"><svg class="check-icon" viewBox="0 0 10 10"><polyline points="2,5.5 4,8 8,2.5" stroke="white" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+            <div class="factor-text">
+              <div class="factor-name">치주 원인으로 발치한 부위</div>
+              <div class="factor-or">OR 2.53 · Yari 2023 retrospective cohort</div>
+            </div>
+          </div>
+
+          <div class="factor-item" data-key="typeiv">
+            <div class="factor-checkbox"><svg class="check-icon" viewBox="0 0 10 10"><polyline points="2,5.5 4,8 8,2.5" stroke="white" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+            <div class="factor-text">
+              <div class="factor-name">4형 골 (type IV bone)</div>
+              <div class="factor-or">OR 2.88 · Yari 2023</div>
+            </div>
+          </div>
+
+          <div class="factor-item" data-key="shortimplant">
+            <div class="factor-checkbox"><svg class="check-icon" viewBox="0 0 10 10"><polyline points="2,5.5 4,8 8,2.5" stroke="white" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+            <div class="factor-text">
+              <div class="factor-name">단축 임플란트 &lt;10 mm (상악)</div>
+              <div class="factor-or">OR 3.40–5.40 · Pommer 2011 MA → 사용값 OR 3.40</div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+      <div class="factor-section">
+        <div class="factor-section-label">로딩 프로토콜</div>
+        <div class="factor-list">
+
+          <div class="factor-item" data-key="immediate">
+            <div class="factor-checkbox"><svg class="check-icon" viewBox="0 0 10 10"><polyline points="2,5.5 4,8 8,2.5" stroke="white" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+            <div class="factor-text">
+              <div class="factor-name">즉시 잠정보철 / 즉시 로딩</div>
+              <div class="factor-or">OR 3.42 · Yari 2023 — 단일 인자 중 최강</div>
+            </div>
+          </div>
+
+          <div class="factor-item protective" data-key="submerged">
+            <div class="factor-checkbox"><svg class="check-icon" viewBox="0 0 10 10"><polyline points="2,5.5 4,8 8,2.5" stroke="white" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+            <div class="factor-text">
+              <div class="factor-name">매몰형 치유 (submerged healing) ✓ 보호</div>
+              <div class="factor-or">HR 0.53 → 보호 OR ~0.53 · Yang 2026 (교란 주의)</div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+      <div class="factor-section">
+        <div class="factor-section-label">숙주 인자</div>
+        <div class="factor-list">
+
+          <div class="factor-item" data-key="smoking">
+            <div class="factor-checkbox"><svg class="check-icon" viewBox="0 0 10 10"><polyline points="2,5.5 4,8 8,2.5" stroke="white" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+            <div class="factor-text">
+              <div class="factor-name">흡연</div>
+              <div class="factor-or">OR 2.59 · Fan 2024 SR+MA (32 studies, n=59,246)</div>
+            </div>
+          </div>
+
+          <div class="factor-item" data-key="diabetes">
+            <div class="factor-checkbox"><svg class="check-icon" viewBox="0 0 10 10"><polyline points="2,5.5 4,8 8,2.5" stroke="white" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+            <div class="factor-text">
+              <div class="factor-name">당뇨 (Diabetes Mellitus)</div>
+              <div class="factor-or">RR 2.75 · Moy 2005 cohort (21 y, n=4,680)</div>
+            </div>
+          </div>
+
+          <div class="factor-item" data-key="radiation">
+            <div class="factor-checkbox"><svg class="check-icon" viewBox="0 0 10 10"><polyline points="2,5.5 4,8 8,2.5" stroke="white" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+            <div class="factor-text">
+              <div class="factor-name">두경부 방사선 치료력</div>
+              <div class="factor-or">RR 2.73 · Moy 2005</div>
+            </div>
+          </div>
+
+          <div class="factor-item" data-key="ssri">
+            <div class="factor-checkbox"><svg class="check-icon" viewBox="0 0 10 10"><polyline points="2,5.5 4,8 8,2.5" stroke="white" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+            <div class="factor-text">
+              <div class="factor-name">SSRI (선택적 세로토닌 재흡수 억제제) 복용</div>
+              <div class="factor-or">HR 2.17 · Chidiac 2026 retrospective cohort</div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+      <div class="factor-section">
+        <div class="factor-section-label">약물 보호인자</div>
+        <div class="factor-list">
+
+          <div class="factor-item protective" data-key="aht">
+            <div class="factor-checkbox"><svg class="check-icon" viewBox="0 0 10 10"><polyline points="2,5.5 4,8 8,2.5" stroke="white" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+            <div class="factor-text">
+              <div class="factor-name">항고혈압제 규칙적 복용 ✓ 보호</div>
+              <div class="factor-or">HR 0.23 · Chidiac 2026 — 비복용 고혈압 환자 최고위험</div>
+            </div>
+          </div>
+
+          <div class="factor-item protective" data-key="statin">
+            <div class="factor-checkbox"><svg class="check-icon" viewBox="0 0 10 10"><polyline points="2,5.5 4,8 8,2.5" stroke="white" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+            <div class="factor-text">
+              <div class="factor-name">스타틴 (Statin) 복용 ✓ 보호</div>
+              <div class="factor-or">HR 0.16 · Chidiac 2026</div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+    </div><!-- /panel -->
+  </div><!-- /left col -->
+
+  <!-- RIGHT: summary -->
+  <div class="summary-col">
+    <div class="panel">
+      <div class="panel-title">추정 EIF 위험</div>
+
+      <div class="risk-gauge-wrap">
+        <div class="risk-number" id="riskNumber">6.2%</div>
+        <div class="risk-label" id="riskSiteLabel">전방 상악 기저율 · 추가 위험인자 없음</div>
+        <div class="risk-badge" id="riskBadge">저위험</div>
+        <div class="gauge-track">
+          <div class="gauge-fill" id="gaugeFill" style="width:10%"></div>
+        </div>
+      </div>
+
+      <div class="baseline-row">
+        <span>부위 기저율</span>
+        <span id="summaryBaseline">6.2%</span>
+      </div>
+
+      <div id="activeFactorsWrap">
+        <div class="active-factors" id="activeFactors"></div>
+      </div>
+
+      <div class="divider"></div>
+
+      <div class="baseline-row" style="font-weight:600;color:var(--fg)">
+        <span>누적 추정치</span>
+        <span id="summaryFinal">6.2%</span>
+      </div>
+
+      <button class="btn-reset" id="btnReset">초기화</button>
+
+      <div class="note">
+        OR 누적은 근사치: 각 인자의 오즈를 독립 승산으로 곱함. 인자 간 교란·상호작용 미보정.
+        기저율: Fouda 2020 (78,230 임플란트). 임상 결정은 이 수치만으로 하지 말 것.
+      </div>
+    </div>
+  </div>
+
+</div><!-- /layout -->
+
+<script>
+const SITES = {
+  'ant-max':  { name: '전방 상악', rate: 0.062 },
+  'post-max': { name: '후방 상악', rate: 0.019 },
+  'ant-mand': { name: '전방 하악', rate: 0.025 },
+  'post-mand':{ name: '후방 하악', rate: 0.042 }
+};
+
+const FACTORS = {
+  grafted:    { or: 1.50,  label: '골이식',          protective: false },
+  sinus:      { or: 2.49,  label: '상악동 증대',      protective: false },
+  perio:      { or: 2.53,  label: '치주 발치 부위',   protective: false },
+  typeiv:     { or: 2.88,  label: '4형 골',           protective: false },
+  shortimplant:{or:3.40,   label: '단축 임플란트',    protective: false },
+  immediate:  { or: 3.42,  label: '즉시 로딩',        protective: false },
+  submerged:  { or: 0.53,  label: '매몰형 치유',      protective: true  },
+  smoking:    { or: 2.59,  label: '흡연',             protective: false },
+  diabetes:   { or: 2.75,  label: '당뇨',             protective: false },
+  radiation:  { or: 2.73,  label: '두경부 방사선',    protective: false },
+  ssri:       { or: 2.17,  label: 'SSRI',             protective: false },
+  aht:        { or: 0.23,  label: '항고혈압제',       protective: true  },
+  statin:     { or: 0.16,  label: '스타틴',           protective: true  }
+};
+
+let activeSite = 'ant-max';
+const activeFactors = new Set();
+
+function probToOdds(p) { return p / (1 - p); }
+function oddsToProb(o) { return o / (1 + o); }
+
+function compute() {
+  const base = SITES[activeSite].rate;
+  let odds = probToOdds(base);
+  activeFactors.forEach(k => { odds *= FACTORS[k].or; });
+  return oddsToProb(odds);
+}
+
+function riskLevel(r) {
+  if (r < 0.05) return { text: '저위험', color: 'var(--risk-low)', bg: 'var(--risk-low-bg)' };
+  if (r < 0.12) return { text: '중간 위험', color: 'var(--risk-mod)', bg: 'var(--risk-mod-bg)' };
+  return { text: '고위험', color: 'var(--risk-high)', bg: 'var(--risk-high-bg)' };
+}
+
+function fmt(r) { return (r * 100).toFixed(1) + '%'; }
+
+function update() {
+  const r = compute();
+  const base = SITES[activeSite].rate;
+  const lvl = riskLevel(r);
+
+  document.getElementById('riskNumber').textContent = fmt(r);
+  document.getElementById('riskNumber').style.color = lvl.color;
+
+  const nActive = activeFactors.size;
+  const siteLabel = SITES[activeSite].name + ' 기저율';
+  document.getElementById('riskSiteLabel').textContent = nActive === 0
+    ? siteLabel + ' · 추가 위험인자 없음'
+    : siteLabel + ` · 인자 ${nActive}개 적용`;
+
+  const badge = document.getElementById('riskBadge');
+  badge.textContent = lvl.text;
+  badge.style.background = lvl.bg;
+  badge.style.color = lvl.color;
+
+  const pct = Math.min(r * 100 * 3.5, 100); // scale: 30% fills bar
+  const fill = document.getElementById('gaugeFill');
+  fill.style.width = pct + '%';
+  fill.style.background = lvl.color;
+
+  document.getElementById('summaryBaseline').textContent = fmt(base);
+  document.getElementById('summaryFinal').textContent = fmt(r);
+
+  // active factors list
+  const wrap = document.getElementById('activeFactors');
+  wrap.innerHTML = '';
+  activeFactors.forEach(k => {
+    const f = FACTORS[k];
+    const row = document.createElement('div');
+    row.className = 'active-factor-tag';
+    row.innerHTML = `<span class="tag-name">${f.label}</span><span class="tag-or" style="color:${f.protective ? 'var(--risk-low)' : 'var(--accent)'}">${f.protective ? '×' : '×'}${f.or}</span>`;
+    wrap.appendChild(row);
+  });
+}
+
+// site buttons
+document.getElementById('siteGrid').addEventListener('click', e => {
+  const btn = e.target.closest('.site-btn');
+  if (!btn) return;
+  document.querySelectorAll('.site-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  activeSite = btn.dataset.site;
+  update();
+});
+
+// factor items
+document.getElementById('factorList').addEventListener('click', e => {
+  const item = e.target.closest('.factor-item');
+  if (!item) return;
+  toggle(item);
+});
+document.querySelectorAll('.panel .factor-list').forEach(fl => {
+  fl.addEventListener('click', e => {
+    const item = e.target.closest('.factor-item');
+    if (!item) return;
+    toggle(item);
+  });
+});
+
+function toggle(item) {
+  const k = item.dataset.key;
+  if (activeFactors.has(k)) {
+    activeFactors.delete(k);
+    item.classList.remove('active');
+  } else {
+    activeFactors.add(k);
+    item.classList.add('active');
+  }
+  update();
+}
+
+document.getElementById('btnReset').addEventListener('click', () => {
+  activeFactors.clear();
+  document.querySelectorAll('.factor-item').forEach(i => i.classList.remove('active'));
+  update();
+});
+
+update();
+</script>
