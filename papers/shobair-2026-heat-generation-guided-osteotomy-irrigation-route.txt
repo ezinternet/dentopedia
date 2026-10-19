@@ -1,0 +1,23 @@
+Source: PubMed Central (PMC13542782) — abstract only; full text body not available via PMC API.
+DOI: https://doi.org/10.1111/clr.70147
+
+TITLE: Heat Generation in Guided Implant Osteotomy; Influence of Irrigation Route, Bone Structure, and Measurement Method: A Comparative Thermal Analysis
+
+AUTHORS: Shobair NI, Hafez Z, Soliman RA, Alian YS
+
+JOURNAL: Clinical Oral Implants Research 2026;37(9):1057–1068
+PUBLISHED: 2026-06-12
+
+ABSTRACT:
+
+Objectives
+To evaluate heat generation during guided implant osteotomy in a standardized in vitro resin-model setup and assess the effects of irrigation technique and model structure on temperature change during drilling.
+
+Materials and Methods
+Standardized solid and bilayered resin mandibular models were fabricated and assigned to no irrigation, external irrigation, or internal irrigation using a 3D-printed guide with irrigation channels. Sequential osteotomy drilling (2.0–4.2 mm) was performed to an 18 mm depth at 1200 rpm. Temperature was measured using infrared thermography and an internal thermistor sensor. Temperature change relative to baseline (ΔT) was the primary outcome.
+
+Results
+Bilayered models demonstrated lower ΔT than solid models when assessed by infrared thermography (p = 0.009), whereas thermistor measurements showed less consistent differences between model types. Irrigation significantly reduced ΔT, with internal irrigation producing the lowest values. In solid models, mean ΔT decreased from 31.41°C without irrigation to 9.48°C with external irrigation and 3.50°C with internal irrigation. In bilayered models, ΔT decreased from 13.31°C to 2.45°C and 0.84°C, respectively.
+
+Conclusions
+Irrigation significantly reduced heat generation during guided implant osteotomy. Internally irrigated guides demonstrated lower temperature change than conventional external irrigation. Bilayered models demonstrated lower temperature changes primarily in infrared thermography measurements and may partially approximate differences in thermal behavior between cortical and trabecular structures under the present experimental conditions.
