@@ -1,0 +1,159 @@
+Title: Thermal evaluation of pilot- and partially guided implant surgery – an in vitro study using automated robotic drilling
+Authors: Tur D, Tian Z, Giannis K, Unger E, Mittlboeck M, Rausch-Fan X, Strbac GD
+Journal: BMC Oral Health
+Year: 2026
+DOI: 10.1186/s12903-026-09215-4
+PMID: 42432641
+PMCID: PMC13640361
+
+Abstract:
+Background: Since increased heat generation with guided implant surgery (GS) especially with pilot drills has been reported in the past, standardized investigation of pilot- and partially guided preparations was attempted.
+
+Methods: A total of 160 automated and reproducible surgical procedures with stainless steel pilot drills of 2.0 and 2.8 mm have been performed on bovine testing samples for investigating GS vs. conventional drilling (CD). Preparations were performed in 2 preparation depths (10 / 12 mm) by using 2 cooling modes (external / without cooling). Real-time temperature measurements were conducted in 2 distances to the osteotomy site (1 / 2 mm). Temperature increase between the surgical preparation techniques was compared by a linear mixed model including all experimentally controlled variables.
+
+Results: Comparison of pilot drills yielded significantly lower temperatures for GS in 2.0-mm diameter for preparation depths of 10 mm (p=0.0107) and 12 mm (p=0.0005) with external irrigation. 2.8-mm drills exerted higher temperatures during GS and external cooling, with significant outcome in 10-mm preparation depth (p=0.0256).
+
+Conclusions: Significant differences in temperature generation were obtained between pilot drills of different diameters, indicating sufficient irrigation of larger drill diameters during GS to be essential, even in sequential drilling preparations. The reported results of this investigation may be considered clinically relevant with regard to an observed impairment of cooling efficacy in larger drills during guided surgical preparations.
+
+Full Text:
+
+Background
+
+Today, implant solutions in partially and fully edentulous patients, have become highly predictable treatment options for dental rehabilitation. For facilitating precise and stable implant positioning during prosthodontic restoration at the dawn of dental implantology, guided concepts were initially proposed in the 1980s. These applications were mainly based on planning steps in conventional radiographs and diagnostic study casts. With the introduction of three-dimensional (3D) imaging tools and computing systems, computer-assisted guided implantation has become widely available for clinical application and can be considered an integral part of contemporary digital dentistry. While concepts of dynamic and robotic computer-assisted implant surgery may drive future innovations, guided implant surgery (GS) remains the most commonly used and clinically established digital approach in implant dentistry today. Depending on the applied surgical protocol, GS can include preparation steps only (pilot- or partially guided approach) or allow for subsequent implant insertion as well (fully guided approach). Systematic review and meta-analysis comparing fully guided vs. conventional implant procedures reported a high implant survival for both techniques, however, up to three times higher failure rates could be observed with freehand implant placement. Regarding the implant placement accuracy by means of fully guided, partially guided surgery and freehand surgery, superior results were found for the GS groups, with highest precision in fully guided procedures and lowest in the freehand protocol. Although pilot- or partially guided surgery can be considered less precise when compared to the fully guided approach and may require extensive surgical experience, valuable advantages of these techniques include the ability of the clinician to possibly adapt surgical steps and to place the implant freehand in delayed or immediate placement protocols.
+
+These results may support the claim for clinical prerequisites in successful implant therapy of the highly sensitive esthetic zone in the anterior maxilla, asserting ideal implant positioning in all 3 dimensions to be key for success. Additionally, it was highlighted that not only atraumatic preparation technique and the use of surgical guides may be recommended for success, but also the proper selection of non-oversized implants. Advancements in implant technology and prosthetically driven treatment protocols facilitate immediate implant placement and restoration in combination with undersized preparation protocols, yielding promising esthetic results over at least 12 months of observation. Most recently, beneficial long-term clinical results of 666 narrow-diameter implants in posterior regions have been reported, indicating favorable long-term success rates and patient satisfaction with diameter-reduced implants. Similar results have been obtained by means of titanium-zirconium implants with reduced diameters and improved material properties over 10 years of observation, thereby further extending the indication for treatment in clinically challenging cases.
+
+For successful implant placement, a paradigm of atraumatic surgical preparation was proposed by only creating the least possible surgical trauma during osseous tissue drilling. Histologically, denaturation of proteins, dehydration, decreased osteoblastic and osteoclastic activity and ultimately cell death may be consequences of heat-induced trauma to the bone, which is called thermal osteonecrosis. This process may be further enhanced by low thermal conductivity of human cortical and cancellous bone with a consequent increase of local tissue temperatures. Thermal osteonecrosis has been described to potentially cause early implant failures due to the inability to achieve proper osseointegration. Critical temperatures for the survival of bone during preparation seem to range from 44 to 47 °C with short exposure times to the heat source, as indicated by means of experiments in the bone growth chamber.
+
+Although previous in vitro studies have compared guided and conventional implant osteotomy preparation, direct comparison of the reported findings remains difficult because of heterogeneous experimental designs, different testing materials, variations in guide design, and limited standardization of drilling motion and temperature assessment. In particular, the thermal behavior of pilot- and narrow-diameter drilling steps under highly standardized and reproducible conditions remains insufficiently understood. Therefore, the present study was designed to combine a standardized bovine testing model with automated robotic drilling and a controlled subgroup-based analysis of drill diameter, preparation depth, irrigation mode, and surgical technique. Our group recently reported thermal effects of static guided versus conventional implant bed preparation using sequential stainless steel twist drills in a standardized bovine model. While that study mainly addressed a broader drill sequence including larger diameters, the present investigation was specifically designed to focus on pilot- and narrow-diameter drilling steps and their respective guiding concepts. Since higher temperatures have been reported with guided experimental procedures when compared to conventional drilling and highest temperatures have been described with pilot drills during incremental preparation, this investigation aims at further investigating pilot- and partially guided surgery in vitro. Based on the 3 R principles of replacement, reduction, and refinement in experimental research, this study aimed to test the working hypothesis that conventional drilling by means of pilot and narrow-diameter drills would display lower temperatures than pilot- or partially guided surgery.
+
+Methods
+
+Materials and guided design
+
+The present study was conducted on the same standardized experimental platform as our previous investigation; however, it addressed a distinct study objective, different drill system characteristics, and a narrower focus on pilot- and partially guided drilling steps. This in vitro investigation was based on artificially manufactured bovine testing samples (BoneSim™, Newaygo, MI, USA), previously established for standardized simulation of surgical preparations. The testing samples provide constant cortical and cancellous sections (3 and 15 mm, respectively), human thermal conductivity of bone (0.3–0.4 W mK) and mandibular bone density (bone type 2). The disk-shaped bone samples were trimmed into a rectangular shape (56 × 18 × 10 mm) with constant width (1 cm ± 0.05 mm) prior to the investigation due to quantitative and qualitative anatomic considerations of the mandibular alveolar structures in vitro. A total of 32 bone disks were used, with each disk trimmed into one standardized rectangular bone block for the experiment. For each bone block, one new individual 3D-printed surgical guide was manufactured, resulting in 32 surgical guides in total.
+
+Testing samples with diverging measures (± 0.05 mm) in any direction were excluded from the experiment. In the present study, pilot surgical drills made of stainless steel (diameters 2.0 and 2.8 mm; Komet, Gebr. Brasseler, Lemgo, Germany) were used.
+
+As commercially available bone samples were used for this in vitro investigation, ethics approval was not required. To ensure a workflow related to the clinical situation and for reproducible results in an in-vitro setting, recommended surgical and presurgical steps for guided surgery were used. Prior to the investigational process, preplanning and preparation steps were performed: Multi-slice computed tomography (MSCT, voxel size 0.2 × 0.2 × 0.5 mm; Siemens, Erlangen, Germany) and scanning by means of an intraoral digital scanner (iTero; Align Technology Inc., San Jose, CA, USA) of the testing samples was performed. For precise positioning of the implants in vitro, data import in a software for guided preparation procedures (coDiagnostiX Version 10.8; DentalWings Inc., Montréal, Canada) was performed. In this way, positioning of five implants per bone specimen was ensured for two diameters (2.0, 2.8 mm) in two drilling depths (10, 12 mm).
+
+The design of the surgical guides for surgical preparation was based on guiding sleeves (titanium inner sleeves for depth stop drills, D3.5/d2.0/L5.0; steco-system-technik GmbH & Co KG, Hamburg, Germany) for 2.0-mm drills and sleeveless surgical preparation sites (H2 position) for guided surgical procedures for 2.8-mm drills using drill handle cylinders (Drill handle, diameter 2.8; Guided Implant Surgery Bone Level, Straumann, Basel, Switzerland), according to the manufacturer's surgical protocol. The overall surgical guide design was comparable for both investigated groups with regard to guide base geometry, implant position planning, fixation design, and predefined thermocouple perforations. The relevant difference between the groups concerned the guiding concept used for the respective drill diameter: 2.0-mm preparations were performed with metallic guiding sleeves, whereas 2.8-mm preparations were performed with sleeveless guide sites in combination with corresponding drill handle cylinders according to the manufacturer's protocol.
+
+Each guide was predesigned with two T-sleeves and template fixation pins. For ensuring intrabony temperature measurement during the entire experimental procedures, predefined perforations (diameter 1 mm; depths 3, 6, 9, 12, 15 mm) were preplanned on each side of the guide.
+
+All digital planning steps were performed by the same senior physician G.D.S. After conclusion of preplanning, manufacturing was performed at the Center for Medical Physics and Biomedical Engineering, Medical University of Vienna, Austria. Therefore, data was exported and 3D-printing was completed using a rapid prototyping machine and photopolymer resin.
+
+Robotic surgical simulator
+
+A material testing machine was used for atraumatic and reproducible osteotomy preparations. The use of a software-controlled program (Nexygen™ Plus, Version 4.0, Lloyd Instruments™, Ametek Inc., Largo, FL, USA) ensured individual and atraumatic preparations for individual osteotomy sequences, preprogrammed with constant feed rate, depth and dwell time: 10-mm preparation (drilling 21 s / withdrawing 11 s / total preparation process 32 s) and 12-mm preparation (drilling 26 s / withdrawing 13 s / total preparation process 39 s) were programmed with an active preparation feed rate of 2 mm/s for cortical bone regions, 1 mm/s in cancellous bone, and 1 mm/s for intermittent drilling and drill withdrawing. The programmed drilling–withdrawing sequence was designed to simulate an atraumatic intermittent osteotomy protocol under standardized conditions. For force measurement during preparation, a load cell was mounted at the crosshead of the apparatus. Track recording was performed externally by means of a draw-wire encoding device. Surgical preparations were performed by using a surgical handpiece (WS-75 E/KM 20:1, W&H, Bürmoos, Austria), mounted at the dowel, powered by an additional surgical motor unit (Implantmed SI-923; Surgical control S-N1, W&H, Bürmoos, Austria).
+
+Temperature measurement and experimental preparation
+
+Prior to temperature measurement, predrilling steps were performed for real-time temperature measurement in 2 constant radial distances (1 / 2 mm) to the osteotomy site in multiple depths (3, 6, 9, 12 and 15 mm). They included preparation of the individual temperature channels by using a customary drilling device and custom twist drills (diameter 1.2 mm) after pin fixation of 3D-printed acrylic templates.
+
+Temperature measurement was performed using individual fine-wire Type K thermocouples (RS PRO, RS order no. 397–1589; RS Components Ltd, Corby, UK; 1 m length, 0.075 mm diameter, exposed welded junction). Data acquisition was performed using a multichannel measurement setup, consisting of a multifunction measurement and control module (USB-2416, 24-Bit, 1 KS/s, Temperature and Voltage Device; Measurement Computing Corp., Norton, MA, USA) and data acquisition software (DAQami, Version 4.2.1f0; Measurement Computing Corp., Norton, MA, USA). No additional in-house calibration was performed prior to the experiments. Instead, commercially available ANSI-compliant sensors with a manufacturer-specified accuracy of ± 1.5 °C were used consistently throughout the study.
+
+Temperature recording started several seconds before the experimental drilling procedure and was concluded 1 min after the end of drilling.
+
+Five temperature sensors were bundled in a custom-made sensor array (distance of 3 mm between channels) after digital design and bonding. Before experimental preparations were commenced, heat transfer compound was applied in the temperature channels before insertion of the temperature sensors. To avoid direct cooling of the thermocouples by the external irrigation fluid, the sensors were inserted from the outside into predefined temperature channels within the test specimen. Thus, no direct connection existed between the cooling fluid and the sensors during the drilling procedure. Thereafter, the respective guides were positioned and sample fixation was ensured by fixation pins.
+
+The experimental protocol consisted of two surgical preparation techniques (conventional drilling and guided implant surgery, n = 2 × 80), 2 drills (2.0 / 2.8 mm, n = 2 × 80), 2 preparation depths (10 / 12 mm, n = 2 × 80), 2 irrigation methods (without / external irrigation, n = 2 × 80). The factorial experimental design comprised 16 groups in total, resulting from the combination of 2 surgical techniques (guided implant surgery and conventional drilling), 2 drill diameters (2.0 and 2.8 mm), 2 preparation depths (10 and 12 mm), and 2 irrigation methods (without and external irrigation). Each group consisted of 10 repeated preparations, resulting in a total sample size of 160 osteotomy procedures.
+
+For excluding potential bias due to drill wear, only new out-of-the-box instruments were used for each experimental preparation. Each constellation was executed with 10 identical repetitions (n = 160 preparations in total) under constant room temperature (21 ± 1 °C). Conventional guide-free drilling was used as control group and bone samples were allocated randomly to the individual experimental groups. Within the respective testing groups, there have been no exclusions of data points. Surgical drilling was performed by setting drilling speed to 800 rpm for a standard atraumatic preparation. Prior to the experimental 2.8-mm drilling procedures, the osteotomy sites were predrilled using the smaller pilot drill in accordance with the sequential drilling protocol.
+
+Externally irrigated preparations were performed using room-temperature saline delivered through a custom irrigation tubing set at a constant flow rate of 50 mL/min. Cooling was standardized across all irrigated specimens by maintaining the same irrigation fluid, flow rate, tubing configuration, and experimental drilling protocol for every preparation.
+
+Data processing and statistical analysis
+
+Individual data processing was ensured for each individual preparation. Recorded parameters included real-time temperature (°C, δ = 0.01 s), extension of the drill (mm) and linear recording (V). Better comparison of the obtained results was ensured by calculation of temperature changes [ΔT(°C) = T_max – T_baseline] by subtracting the recorded absolute temperature from the initial baseline temperature for statistical analysis.
+
+The recorded temperature changes were tabulated by means (± standard deviations). Location of highest temperature generation was tabulated (minimum, maximum, median). Temperature increase of different techniques was compared by means of a linear mixed model (variables: surgical technique, drill, preparation depth, cooling; interactions investigated up to four-way term). Adjustments for unequal variances were performed by the degrees-of-freedom adjustment of Kenward-Roger. Subgroup analyses were performed for significant interactions by testing preparation techniques with t-tests with unequal variances. A standard statistical software SAS (Version 9.4, SAS Institute Inc., Cary, NC, USA) was used for computing.
+
+All p-values are two-sided, and p ≤ 0.05 was considered as statistically significant.
+
+Results
+
+Within this investigation, a total of 160 experimental preparations were executed for obtaining temperature variations of guided implant surgery (GS) and conventional drilling (CD). Thereby, two drills (2.0 / 2.8 mm), two preparation depths (10 / 12 mm) and two irrigation modes (no irrigation / external irrigation) have been investigated.
+
+Maximum temperature increase
+
+The maximum heat generation was recorded over 2 × 5 temperature sensors per bur diameter with 10 identical repetitions. Overall, non-irrigated preparations resulted in higher temperature increases than externally irrigated preparations in all investigated groups. Under external irrigation, GS with 2.0-mm drills yielded significantly lower temperatures than CD at both 10-mm and 12-mm preparation depths, whereas GS with 2.8-mm drills showed significantly higher temperatures than CD at 10-mm depth and no significant difference at 12-mm depth.
+
+Table 1 — Maximum temperature increase ΔT (°C), mean (SD):
+
+Preparation depth: 10 mm
+  2.0 mm:
+    GS: Without cooling = 19.19 (2.42), External cooling = 9.44 (2.27)
+    CD: Without cooling = 23.43 (2.67), External cooling = 13.4 (3.65)
+    p-value: Without cooling = 0.0016*, External cooling = 0.0107*
+  2.8 mm:
+    GS: Without cooling = 26.36 (4.57), External cooling = 8.16 (2.43)
+    CD: Without cooling = 34.13 (5.69), External cooling = 5.62 (2.23)
+    p-value: Without cooling = 0.0036*, External cooling = 0.0256*
+
+Preparation depth: 12 mm
+  2.0 mm:
+    GS: Without cooling = 20.03 (2.78), External cooling = 12.09 (4.52)
+    CD: Without cooling = 26.84 (4.42), External cooling = 22.1 (5.85)
+    p-value: Without cooling = 0.0009*, External cooling = 0.0005*
+  2.8 mm:
+    GS: Without cooling = 31.46 (4.60), External cooling = 10.03 (2.83)
+    CD: Without cooling = 36.33 (3.48), External cooling = 7.42 (3.12)
+    p-value: Without cooling = 0.0162*, External cooling = 0.0655 (NS)
+
+Temperature change and osteotomy preparation
+
+Two different osteotomy techniques (GS vs. CD) were statistically compared by means of a linear mixed model after adjustment for the parameters diameter, cooling and preparation depth, as well as their interactions. With four-way interaction resulting in a statistically significant outcome (p = 0.0244), analyses of the respective subgroups were performed.
+
+Results of statistical significance were found with all investigated constellations, except for 12-mm preparation depth using 2.8-mm burs and external cooling.
+
+Without irrigation, CD was found to result in statistically higher temperature changes when compared to GS in:
+- 10-mm depth, 2.0-mm diameter (p = 0.0016)
+- 10-mm depth, 2.8-mm diameter (p = 0.0036)
+- 12-mm depth, 2.0-mm diameter (p = 0.0009)
+- 12-mm depth, 2.8-mm diameter (p = 0.0162)
+
+With external cooling:
+- CD higher than GS with 2.0-mm drill at 10-mm depth (p = 0.0107)
+- CD higher than GS with 2.0-mm drill at 12-mm depth (p = 0.0005)
+- GS higher than CD with 2.8-mm drill at 10-mm depth (p = 0.0256)
+- GS vs. CD with 2.8-mm drill at 12-mm depth: NS (p = 0.0655)
+
+Temperature increase and sensor depth
+
+2.0-mm drill:
+  - 10 mm depth: highest ΔT at median depth 3–4.5 mm without cooling, 6 mm in irrigated
+  - 12 mm depth: highest ΔT between 3–6 mm without cooling, 6–9 mm in irrigated
+
+2.8-mm drill:
+  - 10 mm depth: highest ΔT at median 3–4.5 mm without cooling, 6–9 mm in irrigated
+  - 12 mm depth: highest ΔT between 4.5–6 mm without cooling, 9–12 mm in irrigated
+
+Discussion
+
+By using contemporary digital technology, fully guided implant procedures have been described with higher accuracy when compared to conventional freehand implant placement. Nevertheless, as higher temperatures were found with guided procedures and pilot drills were predominantly associated with the highest temperatures within the guided drilling process, further investigation in a standardized testing cycle seemed warranted. Hence, pilot- and partially guided procedures were compared to conventional guide-free preparations and non-irrigated preparations were performed as negative control within all constellations.
+
+The results of our investigation are partially in alignment with previous studies, confirming higher temperature generation with pilot drills during incremental drilling and external irrigation in GS. In principle, the thermal results of this investigation may be viewed as real-time spot measurements of multiple depths in 2 distances to the osteotomy site.
+
+The present investigation should be interpreted in the context of our recently published in vitro study on heat generation during static guided versus conventional implant bed preparation using sequential stainless steel twist drills of 2.2, 2.8, and 3.5 mm in the same standardized bovine model. In that broader experimental setting, temperature differences between guided and conventional preparation became most apparent in the larger drill diameter range, particularly for 3.5-mm drills under specific irrigation conditions. By contrast, the present study was designed as a focused follow-up investigation addressing the earlier stages of osteotomy preparation, namely pilot- and narrow-diameter drilling steps.
+
+In addition, the present setup included different guiding concepts for the investigated drill diameters, i.e., sleeve-guided preparation for the 2.0-mm drill and partially guided preparation using a drill handle for the 2.8-mm drill, thereby allowing a more specific assessment of small-diameter guided drilling conditions.
+
+The present study was able to demonstrate invariably higher temperatures without irrigation in all constellations, thereby confirming the effectiveness of external irrigation during both guided surgical procedures and conventional drilling. Regarding the described critical temperature threshold for survival of bone of 44–47 °C, irrigated preparations were not observed to exceed the threshold in any diameter or surgical technique.
+
+In the present investigation, higher temperatures were observed with CD when compared to GS during irrigated 2.0-mm preparations in both drilling depths. The contrasting pattern observed between the 2.0-mm sleeve-guided and the 2.8-mm partially guided setting further suggests that guide configuration and irrigation accessibility may be relevant factors in temperature development in addition to drill diameter itself.
+
+Non-irrigated controls displayed higher temperatures within the respective testing groups, with maximum temperatures in 2.8-mm preparations. Clogging of the drill flutes and impaired debris removal from the osteotomy site during non-irrigated partially guided preparations in combination with the use of drill handles may have contributed to the observed results.
+
+When the results of Tur et al. are interpreted together with those of the present study, a differentiated pattern emerges: in the previous study, larger drill diameters showed the most pronounced thermal differences between guided and conventional preparation, whereas the present investigation indicates that small-diameter guided preparation may behave differently depending on drill diameter and guide design. In the 2.0-mm sleeve-guided setting, guided preparation showed lower temperatures under external irrigation, while the 2.8-mm partially guided setting suggested impaired cooling efficiency during guided preparation.
+
+Limitations:
+- No direct simulation of human body conditions (in vitro model)
+- No direct measurement of irrigation fluid distribution or flow behavior
+- Room-temperature saline used (refrigerated would show lower temperatures)
+- Drilling speed limited to 800 rpm (lower than some clinical protocols)
+- Automated intermittent drilling–withdrawing protocol may reduce cumulative heat
+
+Conclusion
+
+External irrigation reduced temperature generation during osteotomy preparation with 2.0- and 2.8-mm pilot drills in both guided and conventional conditions. Within the standardized experimental setup, thermal differences between guided and conventional preparation depended on drill diameter and preparation depth, underlining the importance of effective irrigation especially in larger-diameter preparations.
