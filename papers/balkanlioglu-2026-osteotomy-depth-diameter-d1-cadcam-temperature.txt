@@ -1,0 +1,21 @@
+Title: Effect of Osteotomy Depth on Intraosseous Temperature During Implant Drilling: A Standardized CAD/CAM-Guided Thermocouple Study.
+Authors: Balkanlioğlu AC, Acikan İ
+Journal: The International Journal of Oral & Maxillofacial Implants (Int J Oral Maxillofac Implants)
+Year: 2026
+Date: 2026-05-06
+DOI: 10.11607/jomi.11735
+PMID: 42090571
+Volume: 0, Issue: 0, Pages: 1-22 (epub ahead of print)
+
+NOTE: Full text not available via PMC (IJOMI is not an open-access PMC journal). Content below is from PubMed abstract only. full_text: false.
+
+ABSTRACT:
+Heat generation during implant osteotomy may compromise bone vitality. Osteotomy depth and drill diameter are key contributors to intraosseous temperature rise, particularly in dense cortical bone. This in vitro study evaluated the effects of drill diameter and osteotomy depth on maximum intraosseous temperature (Tmax) using standardized thermocouple placement with CAD/CAM-assisted surgical guides.
+
+Fresh bovine femoral cortical bone blocks (D1-like dense cortical model) were used. A 3×3 factorial design included three final drill diameters (3.5, 4.0, 4.5 mm) and three osteotomy depths (6.5, 11, 15 mm). Ten osteotomies were performed per diameter-depth combination (n=90). Two K-type thermocouples were positioned 1 mm from the lateral osteotomy walls at the apical region via 3D-printed guides. Tmax was analyzed using two-way ANOVA with Tukey post-hoc tests, Pearson correlation, and linear regression.
+
+Tmax ranged from 33.3 to 41.7 °C and remained below 47 °C in all groups. Depth and diameter showed significant main effects on Tmax (p<0.001), with a stronger effect for depth (F(2,81)=3883.56; η²=0.82) than diameter (F(2,81)=803.44; η²=0.17). The diameter×depth interaction was significant (F(4,81)=11.36; p<0.001). Depth correlated strongly with Tmax (r=0.886; p<0.001), and each 1-mm increase in depth was associated with an approximate 0.63 °C increase in Tmax (R²=0.785; p<0.001).
+
+Osteotomy depth was the dominant determinant of intraosseous temperature rise, whereas drill diameter had a secondary but clinically relevant effect. Under the tested standardized conditions and continuous irrigation, Tmax remained below the classical 47 °C threshold in all groups. These findings reflect a D1-like cortical model and peak-temperature-only assessment; cumulative thermal dose was not evaluated.
+
+KEYWORDS: CAD/CAM-guided surgery; Dental implant osteotomy; Drill diameter; Intraosseous temperature; Osteotomy depth
