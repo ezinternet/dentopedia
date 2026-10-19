@@ -1,0 +1,149 @@
+Title: Thermal analysis of a dry cooling method in a dental implant drilling procedure: an in vitro randomized study
+Authors: Baris K, Hendek M, Olgun HE
+Journal: BMC Oral Health 2025;25(1):1274
+DOI: 10.1186/s12903-025-06593-z
+PMID: 40722017
+PMCID: PMC12306102
+Published: 2025-07-29
+
+--- ABSTRACT ---
+
+Background
+
+Excessive temperature rise during drilling can lead to thermal bone damage and compromise implant success. This in vitro study aimed to evaluate the effectiveness of the newly introduced "dry cooling" method to control heat generation during dental implant osteotomy using different hand pressure.
+
+Methods
+
+Standardized osteotomies (Ø4.1 mm, 10 mm depth) were performed on bovine rib bone blocks using two cooling methods—dry cooling (DC) and saline cooling (SC)—and two hand pressure levels: low pressure (LP) and high pressure (HP), resulting in four experimental groups (DC-LP = Group A, DC-HP = Group B, SC-LP = Group C, SC-HP = Group D; n=30 per group). The DC setup employed a closed-loop thermoelectric system based on a Peltier module. Real-time temperature changes were recorded using thermocouples. Bone particles were weighed, and drilling time was measured. In statistical analysis, whether the data conformed to normal distribution was evaluated with the kurtosis-skewness test. The relationship between cooling method and hand pressure and temperature was evaluated with the ANOVA test. Tukey test was used for multiple comparisons. T-test was used for comparison between independent groups and the relationships between variables were analyzed with the Pearson correlation test. The statistical significance level in the study was determined as p < 0.05.
+
+Results
+
+Significant differences in temperature increase were observed between the groups (p < 0.001). Group A had the lowest temperature increase (2.00 ± 0.84 °C) and the lowest final temperature (23.41 ± 1.23 °C), while Group D had the highest temperature increase (5.45 ± 0.90 °C) and the highest final temperature (26.38 ± 1.03 °C). Bone particle yield differed significantly depending on the cooling method used (p < 0.001).
+
+Conclusions
+
+To prevent a temperature rise during dental implant osteotomy, DC may provide better temperature stabilization in specimens with high cortical content than external cooling with saline. Further studies are needed to optimize the effects of the DC method.
+
+--- FULL TEXT ---
+
+Background
+
+Osseointegration is defined as direct contact between the bone and the implant surface without any tissue. The biological processes underlying osseointegration include physiological bone remodeling. New bones are formed between the implant and the bone by contact osteogenesis and distance osteogenesis. The formation of fibrous tissue at the implant–bone interface with thermal necrosis adversely affects osseointegration and may cause bone loss and decrease the survival rate.
+
+Thermal necrosis plays an important role in bone formation through distance osteogenesis. Thermal damage to bone tissues has been documented to reach depths of 100–500 µm due to insufficient cooling of the cut bone walls. Gaps larger than 500 µm have been reported to negatively affect the quality and quantity of new bone. Thermal necrosis may occur when the heat generated due to friction raises the temperature of the bone above the threshold value. This adverse outcome can be influenced by many factors, such as bur material and design, bur sharpness and diameter, hand pressure, drilling speed procedures, cooling techniques, and bone density. The structure of the bone determines its response to temperature increases. Whereas cancellous bone has a better heat dissipation capacity to dissipate heat due to its greater vascularization, cortical bone lacks such capacity due to its low thermal conductivity. During the preparation of the implant site, it is important to keep the temperature below 47 °C, especially in the cortical regions, and the drilling time should be less than 1 min.
+
+Saline irrigation has been classically and widely applied as a method for preventing bone overheating. Several in vitro studies have shown that this technique significantly reduces the risk of thermal necrosis. An increase in temperature was found to be significantly higher in the nonirrigated groups. One study investigated the heat generated during drilling with IMZ, Brånemark, and ITI (F-type) implant drills under both irrigated and non-irrigated conditions. The results showed that the maximum temperature without irrigation was significantly higher than with irrigation for all IMZ drills, and in some instances, almost no noticeable heat was produced when saline irrigation was applied. Another in vitro study observed that the superficial part of the osteotomy site exhibited higher temperatures compared to the deeper regions. It was emphasized that using cooled saline was more effective in controlling bone temperature and that irrigation should be maintained between drilling steps. In a different study conducted on a bovine bone model, the temperature increase during osteotomy was compared using external and internal irrigation systems. No statistically significant difference was found between the two irrigation methods. Moreover, a low-speed drilling technique without irrigation has been proposed for dental implant osteotomy preparation. There have been attempts to compensate for bone overheating without irrigation by using a low rotation speed. Notably, slowing the rotation speed can cause excessive prolongation of the drilling process time. Some of the disadvantages of external irrigation with saline include impairment of the operator's vision and obstacle the collection of bone particles. In a previous study, the authors described a new cooling (dry cooling (DC)) method that could eliminate some of these drawbacks. This study introduces a novel concept, termed 'DC', which, to the authors' knowledge, has not been previously defined or studied in the context of dental implant osteotomy. The effectiveness of this method is evaluated for the first time in a controlled experimental setup.
+
+Many devices have been designed to physically measure the temperature differences that occur during the preparation of the implant site. Infrared thermography is an indirect method used to measure temperature by detecting changes in the surface using a color scale. A thermocouple is another measuring device that is placed directly in the work area and is highly sensitive to temperature changes.
+
+This in vitro study aimed to evaluate the effectiveness of the newly described DC method that can be applied during dental implant osteotomy. We posed the alternative hypothesis that there are differences between this new method and an external cooling method with saline (SC). This hypothesis was tested against the null hypothesis that the DC method is not different from the SC in terms of temperature changes, the amount of bone particles collected, and drilling time.
+
+Methods
+
+Study design
+
+The study followed the modified CONSORT recommendations for reporting in vitro studies. An application was submitted to the Local Ethics Committee for Animal Experiments (08.06.2022—E.100143), which concluded that there was no need for an ethics committee decision in accordance with the regulations. The study was conducted between September 2022 and June 2023 at Kırıkkale University, Faculty of Dentistry, Fuat Sezgin Research Laboratory. With the approval of the proprietors of a private slaughterhouse, bovine ribs were obtained from two bovines aged 24 months and weighing between 800–850 kg. The use of bovine ribs as a model for in vitro studies has been widely described in the scientific literature due to the similar ratio of cortical and cancellous bone to the human mandible.
+
+To standardize the bone samples for homogeneity, 52 ribs were obtained from 2 animals. The proximal and distal parts of the ribs were removed due to curvature. Soft tissue debris was removed from the fresh bovine ribs. The bovine rib standardization methodology proposed by Strbac et al. (2014) was followed to homogenize the samples: length ≥ 16 mm, height ≥ 7 mm, and presence of cortical bone between 1.5 and 2 mm. Of the 52 bovine ribs, 30 met the required specifications, from which sample blocks were obtained. The selected samples were cut in equal sizes of 3 × 2 × 4 cm to have equivalent samples for evaluation. For examination, the samples were frozen in sterile saline solution at -20 °C.
+
+Drilling procedure
+
+Prior to implant site osteotomies, each bovine rib specimen was kept at room temperature (21 ± 1 °C) for 4 h and wrapped in gauze with sterile isotonic saline solution for hydration. Specimens were fixed to the lathe-fabricated metal rectangular block with auto-polymerized acrylic resin to provide stable support throughout the drilling procedure. To prevent the rectangular block from moving during the drilling process, it was screwed to the test stand table.
+
+Drilling osteotomies were performed using a customized automatic test stand. A precise vertical movement of the surgical handpiece was used to ensure homogeneity across the study samples (parameters = drilling progress rate). This device was connected to the computerized pressure gauge module of the surgical system. Osteotomy was performed under low (10 N) and high (20 N) pressure.
+
+Osteotomy was performed with an implant motor at 800 rpm and new Nucleoss brand burs, according to the manufacturer's recommendations. All drills used in this study were brand new and unwrapped at the beginning of the experiment. However, they were not replaced after each osteotomy. The same set of burs was used throughout the study under standardized conditions, and drills were visually inspected between uses to ensure they remained undamaged and functional. The osteotomy procedure followed a sequential drilling protocol recommended by the manufacturer, consisting of a pilot drill followed by 3.0 mm, 3.5 mm, and finally 4.1 mm diameter burs (each with a 10 mm drilling depth). To reduce inter-sample variability, each rib specimen was used to test all four experimental conditions (two cooling methods and two levels of hand pressure). Thus, four osteotomies—one per condition—were performed on each individual rib sample. The time in seconds (s) during the last drilling osteotomy was recorded with a stopwatch. Following each osteotomy, a waiting period was allowed to elapse until the temperature returned to baseline (21 ± 1 °C) before the next drilling. The waiting time was recorded in seconds.
+
+Cooling procedure
+
+Thermoelectric coolers lower the temperature of an object below the ambient temperature while stabilizing the temperature of the object without being affected by the ambient temperature. Thermoelectric coolers, commonly known as Peltier coolers, are semiconductors that work like small heat pumps. When electric current is applied to Peltier modules, it causes one surface to heat up and the other to cool down. This phenomenon, called the Peltier effect, occurs due to a special design made of semiconductor materials. As the electric current passes through the n-type and p-type semiconductors in the module, one side cools, whereas the other side heats up. The cooling process is realized by contacting the cooling surface to the desired area. Heat sinks or fans are usually used to remove excess heat from the heated surface. Some of the advantages of these fans include precise temperature control, no need for gas or refrigerant, and light weight.
+
+A DC device was designed in consultation with the engineering department. The DC system developed for this study operates on a closed-loop circulation mechanism utilizing a Peltier cooling module. The system consists of five main components: (a) a power supply unit to deliver controlled electrical current to the system, (b) a Peltier cooler, which provides active heat exchange through thermoelectric cooling, (c) a miniature water pump that circulates chilled fluid, (d) flexible transmission pipes that direct the fluid throughout the system, and (e) a custom-designed cooler insert that delivers localized cooling to the osteotomy site. The cooler insert is positioned adjacent to the drill entry point, allowing it to absorb heat generated during osteotomy preparation without the use of external saline irrigation. When the device is operated at maximum power, the temperature at the cooler tip drops by 11.5 ± 1 °C. In the DC group, the cooling tip was kept in contact during the procedure. In the SC group, saline irrigation was applied externally at a flow rate of 50 ml/min and a temperature of 21 °C throughout the procedure. The temperature of the saline solution was evaluated instantaneously with a thermometer and replaced with a new one in the case of a temperature increase of 1 °C.
+
+Temperature measurement
+
+Temperature changes were recorded with a two-channel K-type thermometer using the IR Thermometers program, version 2.3.1. Before the final drilling site evaluation, a custom-made K-type thermoprobe (0.4 mm diameter) was placed parallel to the osteotomy at a fixed depth of 5 mm using a digital caliper. Thermoprobe positioning was performed after the 3.5 mm diameter osteotomy. Given that the final drill (4.1 mm) would remove approximately 0.6 mm of bone, the probe was placed 0.9 mm to 1.1 mm from the osteotomy centerline, so that the final distance between the thermoprobe and the osteotomy wall after final drilling would be approximately 0.1–0.3 mm. This placement strategy allowed for accurate measurement of the thermal environment near the final bone-implant interface. For accurate thermoprobe placement, a narrow socket was manually prepared in each rib specimen using a rotary instrument. Two K-type thermoprobes were placed per osteotomy, positioned on opposite sides of the drilling site, and the mean temperature values were used in the analysis. Prior to vertical placement of the thermoprobe, heat transfer paste was injected into the thermoprobe channel to ensure efficient heat transfer from the bone to the temperature sensor during osteotomies. The open parts of the temperature measurement slot were sealed with insulating transparent silicone.
+
+Bone particle quantity
+
+The amount of bone particles collected after osteotomy was weighed with a scale with a sensitivity of 0.01 g and recorded in milligrams in Microsoft Excel. Bone particles were weighed after drying in the external cooling group with saline.
+
+Outcome variables
+
+The temperature difference was calculated by subtracting the temperature recorded before the procedure (T_initial) from the temperature after the procedure (T_final) (ΔT = T_final - T_initial). The primary outcome variable of the study was the temperature difference, and the maximum temperature reached after the final osteotomy was made with a 4.1 mm diameter drill. This temperature was recorded in Celsius using a computer program. The mass of bone particles collected after osteotomy and time to complete the procedure were considered secondary outcome variables.
+
+Sample size calculation
+
+The sample size was calculated using G*Power version 3.1.9.6. Since there is no previous similar study in the literature, a pilot study was conducted to calculate the sample size, and the outcome showed that the total sample size should be at least 120 when the effect size was 0.39 at an α error probability of 0.05 and a power of 0.95.
+
+Randomization
+
+Python version 3.7 was used to generate the random allocation sequence. The code uses a random permutation method. The closed envelope method was used to implement the random allocation order. In the study, blinding was ensured by the sample coding method in the evaluation and data analysis.
+
+Statistical analysis
+
+All data were saved in a Microsoft Excel file. Statistical analyses were performed using the IBM SPSS Statistics 25 package program. Descriptive analysis of all variables included mean, standard deviation, and minimum and maximum calculations. The significance level used in the analysis was 5% (α = 0.05). In the study, kurtosis, and skewness values were examined to determine the tests to be applied to the data. According to the results of these tests, each group met the normality assumption and was analyzed using parametric tests. In the analysis phase, a t-test was used for pairwise comparisons, and ANOVA was used for multiple comparisons. Differences between groups in ANOVA were evaluated with Tukey's test, and the relationships between variables were analyzed with the Pearson correlation test.
+
+Results
+
+A total of 120 osteotomy procedures were evaluated. The mean initial temperature across all specimens was 20.95 ± 0.57 °C, with no statistically significant difference among the groups (p = 0.987).
+
+Evaluation of temperature differences
+
+The temperature difference between the initial and final measurements varied significantly across the four groups (p < 0.001). The lowest temperature increase was recorded in Group A / DC-LP (2.00 ± 0.84 °C, final temp 23.41 ± 1.23 °C), while the highest was observed in Group D / SC-HP (5.45 ± 0.90 °C, final temp 26.38 ± 1.03 °C). Post hoc analysis indicated that Group A exhibited significantly lower temperature increases compared to all other groups, and Group D significantly higher values compared to Groups B and C.
+
+Group B (DC-HP): final temp 24.00 ± 0.95 °C
+Group C (SC-LP): ΔT = 3.45 ± 0.88 °C, final temp 24.42 ± 1.19 °C
+
+Osteotomy procedure time assessment
+
+Drilling time was also significantly affected by group assignment (p < 0.001). Group B had the shortest mean drilling time (21.13 ± 0.78 s), whereas Group C showed the longest (25.30 ± 0.89 s). Average drilling time overall: 23.24 ± 2.14 s. Groups A and C had notably longer durations than Groups B and D.
+
+Evaluation of bone particle quantity
+
+Regarding bone particle collection, the mean amount was significantly greater in the DC groups than in the SC groups (28.53 ± 2.46 mg vs. 10.35 ± 2.64 mg, p < 0.001).
+
+Assessment of hand pressure changes
+
+Under DC conditions (Group A vs B): significant difference in final temperature (t = -3.374, p < 0.05), mean temperature of Group B higher than Group A.
+
+Under SC conditions (Group C vs D): significant difference in final temperature (t = -6.783, p < 0.05), Group D (26.38 ± 1.03 °C) higher than Group C (24.42 ± 1.19 °C).
+
+Evaluation of the effect of changing the cooling method
+
+Under low pressure (Group A vs C): difference in final temperature (t = -3.190, p < 0.05), Group C (24.42 ± 1.19 °C) higher than Group A (23.41 ± 1.23 °C).
+
+Under high pressure (Group B vs D): difference in final temperature (t = -7.777, p < 0.05), Group D (26.38 ± 1.03 °C) higher than Group B (24.00 ± 0.95 °C).
+
+Evaluation of temperature–time correlation
+
+Correlation analysis revealed a moderate negative relationship between drilling time and both final temperature (r = –0.438, p < 0.001) and temperature difference (r = –0.472, p < 0.001), as well as a strong positive correlation between final temperature and temperature difference (r = 0.927, p < 0.001).
+
+Discussion
+
+The effectiveness of DC during dental implant osteotomy was evaluated in this in vitro study. The null hypothesis was rejected for temperature changes and the amount of bone particles collected; it was accepted for drilling time.
+
+All specimens showed an increase in temperature during implant osteotomy preparation. The cooling method affects the final temperature, temperature difference, and amount of bone particles collected, while hand pressure affects drilling time, final temperature, and temperature difference.
+
+The threshold temperature for thermal necrosis is considered to be 47 °C and above. A review indicated that temperatures around 3.5 °C above baseline had histologic effects on bone and surrounding tissue. In the same study, exposure to 50 °C heat for 1 min significantly decreased bone implant contact ratio values and increased intrabone pockets.
+
+The DC method was designed with a Peltier module maintaining the cooling tip at 11.5 ± 1 °C to prevent osteocyte death and matrix degeneration.
+
+Regarding bone particle collection, the DC method due to the absence of irrigation fluid yielded higher amounts than the SC method, consistent with literature. The absence of saline irrigation in DC also improves operator vision.
+
+Drilling time was inversely proportional to the final temperature and temperature difference (r = –0.472). Increasing hand pressure shortens drilling time but increases temperature.
+
+A notable finding: No statistically significant difference was observed in the temperature difference between Group B (DC-HP) and Group C (SC-LP). The temperature difference in Group D (SC-HP) was higher than in all other groups. In osteotomy of cortical bones requiring high pressure, the DC method will be useful in preventing temperature rise.
+
+Thermodynamic perspective: Heat generated during osteotomy is primarily from friction, transmitted through conduction per Fourier's law. Cortical bone has low thermal conductivity (~0.3–0.5 W/m·K) and low thermal diffusivity (~0.14 mm²/s), causing heat to accumulate locally.
+
+Limitations: Bovine rib bone may not directly simulate in vivo conditions; two thermocouples due to anisotropic bone; temperature evaluation only during the last drill (4.1 mm), though earlier drills may contribute to cumulative thermal effects; drilling at constant 800 rpm.
+
+Conclusions
+
+- The DC method may provide better temperature stabilization in specimens with high cortical content than external cooling with saline.
+- DC produced significantly higher bone particle yields than SC (28.53 vs 10.35 mg, p < 0.001).
+- No group exceeded the 47 °C thermal necrosis threshold.
+- Group A (DC-LP) showed the lowest ΔT (2.00 ± 0.84 °C) and lowest final temperature (23.41 ± 1.23 °C).
+- Group D (SC-HP) showed the highest ΔT (5.45 ± 0.90 °C) and highest final temperature (26.38 ± 1.03 °C).
+- Further studies needed under varying bur diameters, drilling speeds, and in vivo animal models.
