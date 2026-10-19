@@ -1,0 +1,176 @@
+Title: Efficiency and Safety of Dental Implantation in the Area of Hyperdense Jaw Lesions: A Narrative Review
+Authors: Taghsimi K, Vasilyev AV, Kuznetsova VS, Galtsova AV, Badalyan VA, Babichenko II
+Journal: Dentistry Journal (Basel)
+Year: 2022
+PMID: 35735649
+PMCID: PMC9222039
+DOI: 10.3390/dj10060107
+
+Abstract:
+Background. Mineralized lesions of the jaws are often found incidentally on radiographs and computed tomography. Most of them are benign, and only a few rare cases are associated with malignant transformation. However, there is little clinical data on successful rehabilitation with implants in patients with mineralized lesions. This narrative review aimed to study the efficiency and safety of dental implantation in the area of hyperdense lesions. Materials and Methods. A PubMed, Google Scholar, and Science Direct database search was carried out with keywords and manually. Results. The literature exploration identified 323 articles; only 19 of them matched the search criteria and reported cases about dental implantation in the lesion area. It has been shown that in 84.2% of described cases, dental implantation was successful: in the osteoid osteoma, odontoma, cementoblastoma, idiopathic osteosclerosis, and condensing osteitis areas dental implantation was performed without any complications. The possibility of lesion recurrence and implant failure limited the use of dental implants in the area of osteoblastoma and cemento-osseous dysplasia. Although most cases of dental implantation in hyperdense jaw lesions were successful and were not accompanied by complications, further research is needed.
+
+Full Text:
+
+1. Introduction
+
+Radiolucent lesions, such as periapical and follicular cysts and odontogenic tumors, widely described in the literature, are well diagnosed and have a clear treatment strategy, while radiopaque lesions of the jaw are less studied. If they are located in areas that do not require therapeutic or surgical intervention, they remain incidental findings on radiographs and computed tomography. If dental implants are necessary, a number of questions about the effectiveness and safety of implantation arise.
+
+Impacted and ankylosed teeth, as well as residual roots are common and have a similar radiological appearance to some hyperdense lesions. There are some data on the clinical success of oral rehabilitation by implants placed in contact with dental tissues. Histological studies have shown that cement is formed on the implant surface that is contacted with the root. According to the hypothesis on implants placed through the dentin and pulp chamber, tertiary dentin, originating from the potential differentiation of pulp stem cells, can be formed.
+
+Regarding hyperdense lesions, there are currently no clinical guidelines on dental implantation in these areas. It is related to the rarity of such lesions, the difficulties in diagnosis, problems in implant insertion, and complications during the operation and in the postoperative period. In this regard, in the literature, only individual clinical cases are presented. In the studies, there are significant differences in the methods of lesion diagnosis, the tactics of surgical intervention, follow-up duration, and results. Also, there are no reviews that could systematize data and evaluate the possibility of implantation in the area of hyperdense jaw lesions.
+
+The purposes of this narrative review were systematization of information about hyperdense jaw lesions and summarizing research data on dental implantation in the area of these lesions. The review illustrates benign bone and cartilage tumors, such as osteoid osteoma, odontoma, and osteoblastoma, benign mesenchymal odontogenic tumors, such as cementoblastoma, and osteochondromatous lesions, such as cement-osseous dysplasia. In addition, lesions with similar manifestations–exostosis, idiopathic osteosclerosis, and condensing osteitis–are discussed.
+
+2. Materials and Methods
+
+A literature search was performed in the articles published from 1978 to January 2022 that included a combination of the terms "dental implantation" and "neoplasms"/"radiopaque lesion"/"osteoid osteoma"/"odontoma"/"osteoblastoma"/"cementoblastoma"/"cemento-osseous dysplasia"/"exostosis"/"idiopathic osteosclerosis"/"condensing osteitis". The inclusion criteria were: all types of articles, articles published in the PubMed, Google Scholar, and Science Direct databases, and related only to humans. The exclusion criteria were: articles that were not published in English, studies containing keywords but not relevant to the research topic, and articles that were not available in full text. From the articles retrieved in the first round of the search, additional references were identified by a manual search among the cited references.
+
+3. Results
+
+A total of 323 articles associated with dental implantation in the area of hyperdense lesions were found. Considering the exclusion criteria, 304 articles were excluded according to language limitations (not in English, = 2), irrelevance to the main subject of the review (= 300), non-full-text articles (= 2). Nineteen articles were finally used (= 19). All of them were case reports or case series: 2 for osteoid osteoma, 5 for odontoma, 0 for osteoblastoma, 2 for cementoblastoma, 7 for cemento-osseous dysplasia, 1 for condensing osteitis, and 2 for idiopathic osteosclerosis. Of these, 3 were devoted to implant failure in the FCOD area, which is 15.8% of the number of reported cases. Based on the data received, it can be considered that in 84.2% of cases, implantation in the area of hyperdense jaw lesions was successful. However, the results obtained are controversial, due to the abstract of the unified implantation protocol and the follow-up duration period.
+
+3.1. Osteoid Osteoma
+
+Osteoid osteoma is a rare benign bone tumor without infiltrative or metastatic potential. The lesions have been observed more in the mandible than in the maxilla, particularly in the angle of the mandible and in the area of the lingual aspect. The etiology of osteoid osteoma is unknown, but trauma, family history, developmental abnormalities, and inflammatory processes associated with systemic diseases, such as encephalocraniocutaneus lipomatosis (ECCL), are contributing factors.
+
+Usually, osteoid osteoma is asymptomatic, but some articles report swelling and pain. In some cases, it is accompanied by headache, recurrent sinusitis, paranasal sinus involvement, and ophthalmologic complaints.
+
+3.1.1. Histopathologic Features
+
+Histologically, osteoid osteoma has two variants. The first is centrally located lamellar trabeculae of cancellous bone with large fibrofatty bone marrow surrounded by osteoblasts and scattered osteoclasts. The second refers to dense, compact bone with sparse bone marrow tissue. Trabeculae are thin and short but sclerotic and broad, rimmed by a single layer of osteoblasts. Cortical lesions that produce bone replacement stimulate the overlying periosteum, thereby establishing the new bone to a typical structure.
+
+3.1.2. Radiographic Features and Differential Diagnosis
+
+Radiographically, osteoid osteoma is represented as a central radiopacity with well-circumscribed round-to-ovoid radiolucency or a nidus with a surrounded sclerotic zone. The size of the nidus is less than 1.5 cm. Sometimes superimposing other bony structures or obstructions due to surrounding dense sclerosis make the radiolucent nidus unrecognizable. In some cases, the absence of a radiolucent rim around the radiopaque mass can be observed.
+
+Osteoid osteoma could be differentiated from osteoblastoma, osteomyelitis, odontoma, cementoblastoma, condensing osteitis, and cement-osseous dysplasia. Compared with osteoid osteoma, osteoblastomas grow rapidly and cause significant pain. It is more extensive, tends to be more aggressive, and can undergo a malignant transformation, while osteoid osteoma is small, benign, and self-limited. Histologically, both have similarities. The diagnosis is based on growth rate, nidus size, and presence of reactive bone formation. Lesions less than 1.5 cm are considered osteoid osteoma and lesions larger than 1.5 cm are osteoblastoma.
+
+3.1.3. Clinical Cases
+
+A case of dental implantation in a woman with a central osteoma located in the left premolar region was reported by Carini et al. The woman came to the clinic to replace a compromised deciduous first molar. During radiographic examination, a well-circumscribed radiopaque mass without a radiolucent rim around and close to the roots of the teeth from the left maxillary canine to the third molar was revealed as an asymptomatic bony expansion. This mass affected the entire first impacted premolar. During the first surgery, the first impacted premolar was removed. At the same time, an excisional biopsy was performed. The biopsy showed the mature lamellar bone with no inflammation and cartilaginous tissue. A compact central osteoma was diagnosed. After four years of complete healing with dense and compact bone in the first premolar region formation, the second computed tomography revealed no major osteoma expansion. Therefore, the deciduous first premolar was removed in the second surgery, and the 3.6 × 13 mm implant (TSA Advance, DEFCON Tissue Care) was placed. After four months, a panoramic radiograph showed proper osseointegration and direct contact between the compact bone and the entire surface of the implant. At the same time, the provisional crown was replaced with a crown restoration.
+
+Another report illustrated the potential for the dental implant to be installed in a woman with Gardner syndrome. Gardner's syndrome is a hereditary autosomal dominant disease characterized by cysts of the sebaceous glands, osteomas, odontomas, and supernumerary teeth. The dental implant was placed in the upper jaw, and the osteoid osteoma area was functionally stable for a seven-year follow-up period.
+
+The benign nature, low recurrence rate, and absence of inflammation signs provide a low probability of implant failure in the area of osteoid osteoma.
+
+3.2. Odontoma
+
+Odontoma is the most common odontogenic tumor. It is benign and originates from an alteration of differentiated mesenchymal and epithelial odontogenic cells. Local traumatism, infection, Malassez paradental remains, odontoblastic hyperactivity, or hereditary abnormalities (Gardner and Herman syndrome) can be considered as potential etiological factors. There is a predilection for the formation of odontomas in the incisor and canine area of the upper jaw, the lower anterior, and lower posterior areas of the lower jaw. Clinically, two types of odontomas may be differentiated based on their location. Compound odontomas are usually located in the anterior maxilla, over the crowns of unerupted teeth, or between the roots of erupted teeth. Complex odontomas occur in the posterior mandible, often over an impacted tooth.
+
+3.2.1. Histopathologic Features
+
+The compound odontoma is presented by dental tissue, including demineralized enamel, dentin, cement, and pulp. They organized the dental structures in an organized manner and were partially surrounded by a connective tissue capsule. Complex odontoma is a disorganized mass of hard dental tissues. Odontogenic and ameloblastic epithelium, phantom cells, and cementicles can be detected.
+
+3.2.2. Radiographic Features and Differential Diagnosis
+
+Radiographically, compound odontomas can be observed as radiopaque masses with irregular margins that adopt a tooth-like configuration and radiolucid peripheral borders. Complex odontoma is a radioopaque mass which does not resemble tooth structure.
+
+The odontoma could be differentiated from osteoma, ameloblastic fibro-odontoma, calcifying cystic odontogenic tumor, fibrous dysplasia, chronic osteomyelitis, cementoma, adenomatoid odontogenic tumor, supernumerary tooth, cementing fibroma, or benign osteoblastoma.
+
+3.2.3. Clinical Cases
+
+The immediate dental implant placement after removal of the complex odontoma was performed in a 35-year-old woman. The surgical removal of the lesion was performed, and the implant was inserted. Inorganic bovine bone and bovine collagen membrane was used to fill the surgical cavity and suture was performed. The collected tissues were histopathologically analyzed, and the diagnosis of odontoma was confirmed. After 1 year, the implant was stable, and no complications were observed.
+
+Successful dental rehabilitation of patients with complex odontoma were described. To restore large bone defects after odontoma removal, a reconstruction plate without any bone grafting or anterior iliac crest graft was used. Histopathological examination was performed in both cases and confirmed the initial diagnosis of complex odontoma. Seven and 9 months later, a prosthetic rehabilitation was performed by placing dental implants.
+
+Also cases of odontoma removal and delayed implant placement were presented. During the first surgical operation, the odontoma was removed. Implant placement was performed after 2 years and 9 months subsequently. After a 3-year follow-up, no signs of recurrence or complications were observed at the surgical site.
+
+A review of the literature showed that removal of odontomas and immediate or delayed dental implantation could be successful and not accompanied by complications.
+
+3.3. Osteoblastoma
+
+Osteoblastoma is a benign tumor of osteoblastic origin. The etiologic factors are inflammation, trauma, and changes in bone physiology due to injury. Symptoms may include pain, swelling, and tenderness that may or may not be alleviated by nonsteroidal drugs. The size of the lesion was greater than 2 cm. There is a predilection for osteoblastoma formation in the posterior regions of mandible. Osteoblastoma can be classified into two major clinicopathological forms. The benign form, which has a slow growth rate and a well-defined sclerotic margin, is moderately well vascularized with a mild inflammatory response. The aggressive form exhibits locally aggressive behavior with a tendency to recur, often complicating its differentiation from low-grade osteosarcoma.
+
+3.3.1. Histopathologic Features
+
+Histopathological features of osteoblastoma include the presence of irregular bony trabecules, an outstanding vascular network and immature bone within the stroma. Bony trabeculae have various degrees of calcification and include several layers of plump hyperchromatic osteoblasts. Stromal cells are small and slender. In addition, in the area of the lesion, giant cells that are osteoblast-like and multinucleated can be observed. Moreover, remodeling of the osseous tissue might be seen in the form of basophilic reversal lines.
+
+3.3.2. Radiographic Features and Differential Diagnosis
+
+Radiographically, osteoblastoma represents a well- or poorly-defined round to oval calcified area with or without radiolucency. Surrounding reactive sclerosis is less prominent in comparison with osteoid osteoma.
+
+In the literature, no cases of dental implantation in the area of osteoblastoma were found. In the authors' view, this is related to the possibility of inflammation, aggressive growth, and tendency to recurrence. In addition, en bloc resection is the treatment of choice for this lesion, which limits the possibility of dental implantation in the affected area.
+
+3.4. Cementoblastoma
+
+Cementoblastoma is a rare, slow-growing benign odontogenic tumor of mesenchymal origin. There is a preference for the mandible rather than for the maxilla. It is revealed mainly in the area of the molars. In two-thirds of cases, cementoblastoma causes pain and swelling on the buccal and lingual sides due to expansion of the alveolar ridge. The recurrence rate ranges from 5.9 to 37.1%.
+
+3.4.1. Histopathologic Features
+
+Histopathological evidence is similar to those of osteoblastoma. A dense mass of cementoblasts is observed that includes mineralized cementum-like material with numerous basophilic reversal lines continuously fused with the tooth root. Multinucleated giant cells and plump cementoblasts may be present within the highly vascularized stroma. There is no calcification of cemental material at the periphery, which is often arranged, perpendicular to the capsule.
+
+3.4.2. Radiographic Features and Differential Diagnosis
+
+Radiographically, cementoblastoma manifests itself as a well-defined radiopaque lesion surrounded by a radiolucent zone. It attaches to the root of the tooth/teeth and resulting in resorption, loss of outline, and obliteration of the periodontal ligament space.
+
+3.4.3. Clinical Cases
+
+In the literature, immediate implantation after removal of cementoblastoma was reported. A male patient complained of the wound presence in the mucosa after removing a remaining dental root 4 months earlier. During the radiographic examination, a well-defined radiopaque area was shown to be associated with the remaining root 4.6. The treatment plan based on the patient's condition consisted of removing the tooth and tumor, immediate implant installation, and prosthodontic rehabilitation. After one year, there was no sign of implant mobility or inflammation.
+
+There is also a study on delayed implantation. A 65-year-old patient came to the office with a complaint of facial asymmetry and moderate pain on the right side of the mandible body. Radiographic investigation showed a 10 mm radiopaque lesion around the 4.6 tooth. The pulp vitality test for tooth 4.6 was positive. After excisional biopsy of the lesion and extraction of teeth 4.6 and 4.7, platelet-rich fibrin clots were put into the surgical site for healing. The result of biopsy showed it was cementoblastoma. Four months later, with no recurrent evidence, two 0.4 × 10 mm Neobiotech implants were placed in the right mandible region and rehabilitated with an implant-supported bridge.
+
+Cementoblastoma arises from cementoblasts and is attached to the root. After tooth extraction, the lesion and its remnants will also be removed. Implant placement can be done immediately or delayed after extraction of the lesion and corresponding tooth/teeth.
+
+3.5. Cemento-Osseous Dysplasia (COD)
+
+Cemento-osseous dysplasia is probably the most common fibro-osseous lesion that replaces normal bone with fibrous tissue with a newly formed mineralized component. The lesion comes from undifferentiated cells in the tissues of the periodontal ligament. There are three types of COD: focal, periapical, and florid. Periapical cemento-osseous dysplasia predominantly manifests in the periapical area of vital anterior mandibular teeth in response to local factors. Focal cemento-osseous dysplasia is a single asymptomatic lesion prevalent in the posterior region of the mandible near the root or even in the edentulous area. Florid cemento-osseous dysplasia is presented bilaterally and may occur symmetrically or affect all quadrants.
+
+3.5.1. Histopathologic Features
+
+Histopathologically, the fibrovascular connective tissue is present with a mixture of woven structures, lamellar bone, and cementum-shaped structures. Later, the thickness of the bony trabeculae increases, and they become thick and curvilinear with shapes similar to those of the ginger roots. In the final stage, individual trabeculae fuse and form sheet-like or globular masses.
+
+3.5.2. Radiographical Investigation and Differential Diagnosis
+
+In general, radiographical findings demonstrate the progress of COD from a predominantly radiolucent and mixed radiolucent to a predominantly radiopaque lesion in mature conditions. In the mixed and mature stages, the COD area is separated from the surrounding healthy bone by a radiolucent border without evidence of fusion to the tooth root.
+
+Accurate differential diagnosis is obtained by considering the stage of COD progression. COD is differentiated from chronic osteomyelitis, ossifying fibroma, periapical granuloma, cyst, or periodontitis. In mature form, it could differentiate from odontoma, cementoblastoma, osteoblastoma, and focal sclerosing osteomyelitis. Furthermore, in the case of florid cementoosseous dysplasia, the differential diagnosis includes chronic diffuse sclerosing osteomyelitis and ossifying fibroma. Serum alkaline phosphate (ALP) is assessed to differentiate florid cemento-osseous dysplasia from Paget's disease: in Paget disease, ALP increases, whereas it is normal in florid cemento-osseous dysplasia.
+
+3.5.3. Clinical Cases
+
+The osseointegration of the dental implant in the FCOD area was demonstrated in a 44-year-old woman. After panoramic X-ray, some irregular lobular and symmetric radiopacities surrounded by a radiolucent zone in the incisor, premolar, and molar areas on both sides of the mandible were discovered. In the mandibular first and second area, two implants were placed. After one month, the implants were restored with cement-retained metal-ceramic splinted crowns, and the patient was recommended to regular follow-up. After 8 years, follow-up orthopantomogram and periapical images showed optimal osseointegration and evaluation of soft tissues, including covering mucosa, presented no remarkable problem.
+
+Implant survival during 15 years was shown by Park et al. (2019). However, at 16 years, the implant was removed due to periimplantitis and the cementum-like tissue attached to the implant was found. The authors recommend implant placement only after treatment of endodontic and periodontal infection and inflammation. In addition, because of the presence of immature tissue, implants should be placed into a late-stage FCOD lesion.
+
+Implant rehabilitation was performed on a 48-year-old female. In the area of tooth 47, a radiopaque lobular lesion was found in orthopantomogram (OPG). Contribution of cone beam computed tomography (CBCT) in coronal view and OPG confirmed the lesion was focal cement-osseous dysplasia. Implant placement was done by following the three-stage protocol: first stage = drilling sequence with abundant cooling solution, rinsing with betadine of the newly created socket, hermetic closure of wound, and antibiotic prescription; second stage = reopening after 3 weeks at the time of the proliferation phase; third stage = after 3-month healing period, cover screw replaced with healing abutment.
+
+The implant placement was successful in a 62-year-old woman with florid cemento-osseous dysplasia in edentulous regions. Two dental implants were placed in regions 36 and 37. Complete osteointegration was shown on X-ray images after 18 months, with no changes in the size of the FCOD lesion.
+
+Implant failure after 6 months in a 40-year-old woman with FCOD was described by Oliveira et al. (2014). The patient complained of implant failure without sign of inflammation. FCOD was detected in the second premolar area in both the right and left mandibular quadrants. Overheating during drilling is one of the most important criteria for avoiding implant failure: overheating leads to reduction of vascularization and capacity for bone regeneration due to necrosis of surrounding area and infection. Furthermore, Shin et al. reported a case of failed osseointegration after dental implant placement in the area of cementoosseous dysplasia due to chronic osteomyelitis.
+
+Some authors suggest that it is better to place the implant in FCOD cases without any procedure that exposes the lesion, to decrease the risk of implant failure.
+
+3.6. Exostosis
+
+Exostosis is a pathological bony outgrowth that gradually increases in size. It is often found in the lingual aspect of the mandible near the canine and premolar teeth (torus mandibularis) or uni- or bilaterally at the palatal midline. The etiology is unclear. Due to the location of exostoses, implantation in the area is not performed, but exostoses could be used as a source of autologous bone tissue to eliminate bone defects in nearby areas.
+
+3.7. Idiopathic Osteosclerosis and Condensing Osteitis
+
+Idiopathic osteosclerosis (IO) is the localized increase in compact bone tissue that develops in cancellous bone. It can be located in the apical regions of teeth, interradicular, or not be connected with the dentition. Also, idiopathic osteosclerosis does not appear to be associated with non-vital teeth. The lesion has a round, elliptical, or irregular shape and is usually a few millimeters to 1 to 3 cm in diameter. However, in some cases they can reach a size of 7 cm. IO has an unknown etiology. Longitudinal studies in adults show that IO remained stable or even decreased in size.
+
+Condensing osteitis (chronic focal sclerosis osteomyelitis) is the radiopaque lesion present primarily in the posterior regions of the mandible around a root apex. The size of this lesion is usually between 2 and 6.5 mm. CO results from a reaction to a dental-related infection or exposure to substances, such as arsenic trioxide (ATO), used for pulp devitalization.
+
+3.7.1. Histopathologic Features
+
+Histological examination of condensing osteitis in cadaver species showed that CO represents the replacement of cancellous bone and marrow with compact bone. In some regions, fibrosis and an inflammatory infiltrate were seen but not in all specimens. IO have a scant fibrofatty marrow with dense lamellar bone and the presence or absence of inflammatory cells.
+
+3.7.2. Radiographic Features and Differential Diagnosis
+
+In radiographic examination IO is shown as a well-defined round or irregular lesion. It is sclerotic and has sharp margins. In 20% of patients, it is not related to a tooth. Condensing osteitis on radiographs was presented as a periapical, poorly marginated, nonexpansile lesion associated with a nonvital tooth.
+
+3.7.3. Clinical Cases
+
+Dental implantation in CO was reported in a patient who presented to the dental office with radiopaque mass attached to the root apex of tooth 45. After definitive diagnosis of CO based on radiologic and clinical investigations, tooth 45 was extracted. Immediately after extraction, guided bone regeneration was performed. After 6 months, dental implant was installed on the site.
+
+Studies of implant stability after direct or delayed implantation in the IO area after removal of the lesion showed that both implants and peri-implant tissue were stable at one and two years of follow-up. According to literature, if the IO has small size and apical position, the doctor should adjust the length, position and angulation of implant. When a large lesion is located coronally, direct implant placement might be performed. However, if the lesion has extremely high density, it can be removed, and delayed implant placement might be performed.
+
+4. Discussion
+
+The efficiency and safety of dental implantation in the area of mineralized jaw lesions is currently being discussed. A small number of reported cases can be associated with difficulties in diagnosing and avoiding complications related to a compromising reaction of bone and surrounding tissues. In this regard, only a complete examination allows an accurate diagnosis and the choice of surgical tactics. Careful history can identify systemic diseases, trauma, pulpal inflammation, and arsenic exposure of adjacent or missing teeth in the area of injury that causes the appearance of hyperdense lesions. CBCT allows for detecting lesions with high accuracy and distinguishes with normal anatomical structures and artifacts compared to periapical and panoramic radiography.
+
+All dental implantations, including successful ones, were performed using a standard sterile protocol with minimization of periosteal reflection, short procedure time, and avoidance of bone overheating and torque value corresponding to the implant manufacturers' recommendations. Depending on the clinical situation, implant insertion could be performed directly in the area of the lesion, immediately after its removal, or delayed.
+
+Dental implantation could be successful in the area of osteoid osteoma, cementoosseous dysplasia of the odontoma, cementoma, condensing osteitis, and idiopathic osteosclerosis. Inflammation, aggressive growth, and a tendency to recurrence are factors that limit dental implantation in the osteoblastoma area.
+
+5. Conclusions
+
+Little research has been done on dental implant placement in patients with hyperdense lesions, but review of the literature allows us to conclude that implant placement could be performed successfully in the area of osteoid osteoma, condensing osteitis, and idiopathic osteosclerosis without removing the lesion. In the case of cementoblastoma, it is necessary to remove the causative tooth and the lesion and then perform a delayed or immediate implantation. The possibility of complications and implant failure limits the use of dental implants in the area of osteoblastoma and cemento-osseous dysplasia. To make the diagnosis accurate, oral surgeons should take precisely the patient's history, make radiographs, CT, and histopathological examinations. It helps differentiate hyperdense lesions from each other and inflammatory and noninflammatory jaw disease. In addition, before surgery, physicians must evaluate all risks of dental implantation and discuss them with the patient. If the patient has undergone dental implantation, regular and long-term clinical and radiological observations are required.
