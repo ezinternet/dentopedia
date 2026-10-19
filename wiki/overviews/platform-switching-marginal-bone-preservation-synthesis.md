@@ -72,7 +72,7 @@ Platform switching was not designed from the outset for bone preservation — it
 
 ## 세줄요약
 
-플랫폼 스위칭(Platform Switching, PLS)과 변연골 소실(MBL) 관련 22편 종합(용어를 최초 명명한 2006년 origin 논문 포함) — SR+MA 3편(Strietzel 2015, 22편: PS 0.49mm vs PM 1.01mm; Di Girolamo 2016, 15 RCT/1,439개: 포함연구 중 PM이 더 나은 연구 0편; Juan-Montesinos 2022, 9편/937개: MD 0.255mm, p<0.05), 전문가 합의보고서 1편(Schwarz 2013, Camlog 재단), RCT 5편(Enkling 2013 3년; Rocha 2016 3년, PS 0.28 vs PM 0.68mm, p=0.002; Messias 2019 5년 동등성시험, PS 0.23mm 적음, p=0.025; Bhatt 2025 12개월, PS 0.32 vs PM 0.81mm, p<0.001)이 방향에서 수렴: PLS는 MBL을 줄이며 생존율 손해는 없음. 단 **반대 1편** — Rossi 2015(6개월 파일럿 RCT, 임플란트 39개)는 측정한 모든 지표에서 유의차를 찾지 못했다.
+플랫폼 스위칭(Platform Switching, PLS)과 변연골 소실(MBL) 관련 30편 종합(용어를 최초 명명한 2006년 origin 논문 포함) — SR+MA 3편(Strietzel 2015, 22편: PS 0.49mm vs PM 1.01mm; Di Girolamo 2016, 15 RCT/1,439개: 포함연구 중 PM이 더 나은 연구 0편; Juan-Montesinos 2022, 9편/937개: MD 0.255mm, p<0.05), 전문가 합의보고서 1편(Schwarz 2013, Camlog 재단), RCT 5편(Enkling 2013 3년; Rocha 2016 3년, PS 0.28 vs PM 0.68mm, p=0.002; Messias 2019 5년 동등성시험, PS 0.23mm 적음, p=0.025; Bhatt 2025 12개월, PS 0.32 vs PM 0.81mm, p<0.001)이 방향에서 수렴: PLS는 MBL을 줄이며 생존율 손해는 없음. 단 **반대 1편** — Rossi 2015(6개월 파일럿 RCT, 임플란트 39개)는 측정한 모든 지표에서 유의차를 찾지 못했다.
 
 기전은 이제 2층이 아니라 3층이다 — ①임플란트-지대주 접합부의 염증성 미세간극을 치조정에서 치관측·내측으로 이동(Desai 2013, Salimi 2011), ②생역학적 응력 재분산(유한요소분석 원저 2편 Sahabi 2013·Yadav 2025로 확인 — 골 응력은 내려가나 임플란트·지대주·나사 응력은 올라감), ③가속부식 시험에서 스위칭 계면의 금속이온 방출이 약 2배 적음(Alrabeah 2016). 생물학적 층은 깔끔하지 않다 — Chien 2016은 초기 치유기 열구액 사이토카인 양상이 두 군에서 대체로 비슷했고 종양괴사인자-α (TNF-α)는 1주차에 PS군이 오히려 약 3배 높았다고 보고.
 
