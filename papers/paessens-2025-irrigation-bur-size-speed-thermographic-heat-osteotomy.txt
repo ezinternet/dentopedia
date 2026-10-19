@@ -1,0 +1,149 @@
+Title: Effect of Irrigation, Bur Size and Rotational Speed on Thermographic Heat at Implant Site Osteotomy Interface. An In Vitro Study
+Authors: Paeßens K, van Bebber L, Zipprich H, Weigl P
+Journal: Clinical Oral Implants Research
+Year: 2025
+Volume: 36
+Issue: 9
+Pages: 1126–1135
+DOI: 10.1111/clr.14462
+PMID: 40521678
+PMCID: PMC12423576
+Published: 2025-06-16
+
+---
+
+ABSTRACT
+
+Objectives
+
+This study aimed to evaluate the impact of drill diameter, rotational speed, and irrigation on critical heat generation (≥ 47°C) at the dynamic bone‐drill interface during dental implant osteotomy in pre‐existing pilot bone cavities.
+
+Material and Methods
+
+Bone samples were cut such that immediate and direct thermographic measurements at the dynamic bone‐drill interface were possible. Osteotomy cavities of 2.4 mm width were expanded to either 3.2 or 3.8 mm in cortical bovine bone with a thickness of 3.5 mm, using two‐bladed twist drills at rotational speeds of 200, 600, or 1000 rpm, with or without saline irrigation. A logistic regression model was developed to predict the likelihood of reaching temperatures ≥ 47°C during osteotomy based on these parameters.
+
+Results
+
+The absence of irrigation, major osteotomy diameter expansion, and higher rotational speeds were identified as significant risk factors for increasing the bone‐drill interface temperature by more than 10°C (OR: irrigation 177.53; expansion step 9.94; speed by 400 rpm 4.94). No osteotomy performed at a low rotational speed (200 rpm) resulted in a critical temperature rise in either drill diameter group when irrigation was provided. However, temperatures exceeded 47°C across all groups when irrigation was absent.
+
+Conclusions
+
+Dental implant osteotomy procedures without irrigation result in critical heat stress at the bone‐drill interface, even at low drilling speeds. Shortened protocols with large drill diameter differences of up to 1.4 mm can be safely implemented when drilling at 200 rpm with irrigation. Osteotomy protocols can therefore be shortened while maintaining safety.
+
+---
+
+FULL TEXT
+
+1 Introduction
+
+Immediately loaded implants represent a patient‐oriented therapeutic option that can be offered to an expanding patient population, facilitated by advancements in special implant macro‐designs and osteotomy protocols. These designs and protocols aim to achieve high primary stability while minimizing damage to the osteotomy cavity walls by reducing the dead zone of osteocytes at the implant interface caused by bone trauma (Chen et al.). The dead zone deteriorates before new bone formation occurs, leading to implant loosening depending on its size and extent (Marzook et al.). While preparing the implant site (osteotomy), friction between drill and bone surface generates heat at the bone‐drill interface, which affects bone vitality. Bone vitality and osseointegration are negatively affected by heating inserted implants at ∆10°C above body temperature (~47°C) for ≥ 1 min (Eriksson and Albrektsson), and this value has been established as the limit for temperatures leading to potential harmful heat stress (Augustin et al.; Augustin, Davila, et al.; Delgado‐Ruiz et al.; Kirstein et al.; Lajolo et al.; Lucchiari et al.; Raj et al.). If the osteotomy results in a temperature increase > 10°C in the bone, the dead zone will increase, the implant stability will decrease, and lead to an increased risk of the implant being prematurely lost (Berman et al.; Schmelzeisen; Heuzeroth et al.; Leunig and Hertel; Trisi, Berardini, Falco, Podaliri Vulpiani, and Perfetti; Trisi, Berardini, Falco, Vulpiani, and Masciotra).
+
+Manufacturers of dental implants provide recommendations regarding drilling parameters, such as drill speed and expansion steps. However, these guidelines are not consistently supported by evidence from scientific studies, and the existing literature presents contradictory findings.
+
+The correlation of drill rotation speed on increasing temperature has been described as inverse, that is, faster speed decreases heat stress (Bogovic et al.; Kirstein et al.; Marzook et al.), and positive, that is, slower speed decreases heat stress (Delgado‐Ruiz et al.; Fraguas de San José et al.; Raj et al.). The correlation of the increase in drill diameter is also described as inverse and positive, meaning a smaller increase in drill diameter has been associated with higher (Mihali et al.; Raj et al.) but also with lower (Bacci et al.; Frösch et al.) temperatures.
+
+Bone layers removed by drilling prior to final insertion of an implant do not affect osseointegration. As extension drilling is necessary to achieve the final dimension following pilot drilling with narrow diameters, the temperature increase during the final drilling is of particular importance. This is emphasized by the findings of Gehrke (), who found a negative effect on the histological composition of the bone when a worn final drill was used instead of an unused one.
+
+An experimental setup capable of directly measuring the bone‐drill interface during an irrigated expansion osteotomy has not yet been established, despite being essential for realistically estimating temperature development (Harder et al.; Zipprich et al.). This study aimed to develop such a setup to evaluate the effects of drill diameter, rotational speed, and irrigation on temperature at the bone‐drill interface during osteotomy preparation. The hypothesis was that a combination of low rotational speed and small increments in osteotomy diameter would prevent the bone temperature from exceeding the critical threshold of 47°C, even in the absence of irrigation (Bernabeu‐Mira et al.; Calvo‐Guirado et al.).
+
+2 Material and Methods
+
+2.1 Experimental Summary
+
+We expanded 120 pre‐existing 2.4‐mm pilot bone cavities to final diameters of 3.2 (small step—SS) or 3.8 mm (large step—LS) using twist drills at rotational speeds of 200, 600, or 1000 rpm, with (with irrigation—WI) or without irrigation (no irrigation—NI). Bone‐drill interface temperatures at the moment of perforation were recorded using a thermographic camera positioned on the opposite side.
+
+2.2 Specimens
+
+We simulated the human mandible using the distal regions of bovine ribs with a cortical thickness of 3.5 ± 0.05 mm. Ethics approval was not required for this in vitro study. The ribs obtained from a slaughterhouse were kept moist and frozen on the day of deboning. A 2.4‐mm diameter cavity was prepared without perforating the specimen and heated to body temperature in a water bath before the measurements were taken.
+
+2.3 Test Groups
+
+Pilot holes with a diameter of 2.4 mm were enlarged by 0.8 and 1.2 mm at 200, 600, and 1000 rpm, both with and without external irrigation with saline at 56 mL/min at room temperature. Double twist parallel step drills, without "relief angle," with diameters of 3.2/3.6 and 3.8/4.2 mm (Nobel Biocare Services AG) were fitted with a stop at 4.3 mm such that only the smaller diameter (3.2 or 3.8 mm) would have an effect during osteotomy. This resulted in 12 test groups: 6 using 3.2/3.6 mm drills and 6 using 3.8/4.2 mm drills. Each drill was used once for each corresponding group (6 times).
+
+TABLE 1: Parameters, mean, and standard deviations of 12 test groups.
+
+Group | Irrigation | Drill ø (mm) | Δ ø (mm) | Speed (rpm) | Average max temp (°C) | ± SD (°C)
+1 (SS‐WI‐200rpm) | WI | 3.2/3.6 | 0.8 | 200 | 38.08 | 1.01
+2 (SS‐WI‐600rpm) | WI | 3.2/3.6 | 0.8 | 600 | 43.18 | 2.92
+3 (SS‐WI‐1000rpm) | WI | 3.2/3.6 | 0.8 | 1000 | 45.28 | 3.56
+4 (LS‐WI‐200rpm) | WI | 3.8/4.2 | 1.4 | 200 | 38.81 | 1.93
+5 (LS‐WI‐600rpm) | WI | 3.8/4.2 | 1.4 | 600 | 45.97 | 3.93
+6 (LS‐WI‐1000rpm) | WI | 3.8/4.2 | 1.4 | 1000 | 50.06 | 4.38
+7 (SS‐NI‐200rpm) | NI | 3.2/3.6 | 0.8 | 200 | 50.31 | 3.45
+8 (SS‐NI‐600rpm) | NI | 3.2/3.6 | 0.8 | 600 | 54.39 | 4.69
+9 (SS‐NI‐1000rpm) | NI | 3.2/3.6 | 0.8 | 1000 | 66.89 | 26.57
+10 (LS‐NI‐200rpm) | NI | 3.8/4.2 | 1.4 | 200 | 54.00 | 4.46
+11 (LS‐NI‐600rpm) | NI | 3.8/4.2 | 1.4 | 600 | 59.94 | 6.32
+12 (LS‐NI‐1000rpm) | NI | 3.8/4.2 | 1.4 | 1000 | 66.78 | 15.33
+
+Abbreviations: LS, large step (2.4–3.8 mm ø); max temp, maximal temperature; NI, no irrigation; ø, diameter; SD, standard deviation; SS, small step (2.4–3.2 mm ø); WI, with irrigation; Δ, difference.
+
+2.4 Specimen Preparation
+
+The bone samples required pilot cavities impermeable to water and a recess on the opposite side to allow direct and immediate measurement of the bone‐drill interface when the sample was perforated due to pilot cavity expansion. Bone plates (~30 × 40 mm) were cut from the convex side of the ribs. In cortical bone with a thickness exceeding 5.0 mm, 5‐mm‐deep holes with a diameter of 2.4 mm were drilled. On the opposite side of the specimen, a 10‐mm‐diameter recess was milled into the bone plate to serve as a window for the thermographic camera and to standardize the cortical bone thickness to 3.5 ± 0.05 mm. The recess was positioned close to the pilot cavity, leaving a cortical bone lamella with a thickness of 0.3 mm or 0.6 mm (corresponding to test groups with cavity expansions to diameters of 3.2 mm and 3.8 mm, respectively). The lamella was intentionally designed to be laterally perforated during the extension of the pilot cavity.
+
+2.5 Procedure
+
+The test specimens were fixed on an aluminum plate and heated to 38°C in a water bath for approximately 40 s. Once the bone temperature reached body temperature (36.6°C), the pilot cavity was expanded freehand from the crestal side using a surgical handpiece with uniform force. The thermographic camera recorded video data at 125 frames per second throughout the entire expansion drilling process. The maximum temperature of the drill‐bone interface at the moment of drill penetration was determined from the recorded data.
+
+2.6 Setup
+
+An Optris Pi 640 thermographic camera (Optris GmbH, Berlin, Germany), with a resolution of 640 × 480 pixels, a sensitivity of 0.1°C, and an absolute resolution of ±2°C, was positioned at a 45° angle and a 10 cm distance from the recess of the bone sample. To minimize external thermal interference and simulate the oral cavity's thermal radiation, the entire setup was enclosed in an aluminum housing.
+
+2.7 Statistical Analysis
+
+Data were analyzed using the readxl, ggplot2, dplyr, and datasets packages in R. Test results with temperatures above 47°C were classified as critical. A multivariate logistic regression model was developed to determine the probability of exceeding a maximum temperature of 47°C as a function of irrigation, rotation speed, and step size. Logistic regression models calculate probabilities based on parameter‐specific coefficients, where higher coefficients indicate stronger influences. p ≤ 0.05 was considered statistically significant. The number of events per predictor was set between 10 and 20 to ensure model stability and power.
+
+2.8 Preliminary Wear Test
+
+We compared the temperatures of 10 unused drills with those of a single drill used 10 times in succession during a preliminary test series with the parameters of group 12 (LS‐NI‐1000rpm). The frequency of reuse and the temperature at the bone‐drill interface showed no significant correlation (p = 0.8837).
+
+3 Results
+
+3.1 Preliminary Test Series
+
+The frequency of reuse and the temperature at the bone‐drill interface showed no significant correlation (p = 0.8837; Pearson product–moment correlation). Additionally, no significant difference was observed between the final group 12 (LS‐NI‐1000rpm, 6th application) and the pre‐test group using new drills (p = 0.8501; Student's t‐test). Therefore, reusing the same drills up to six times did not affect temperature increments in this series.
+
+3.2 Main Test
+
+The maximum temperatures recorded during expansion osteotomies with irrigation and without irrigation were 55.4°C and 116.4°C, respectively (1000 rpm). For drill speeds of 600 rpm, the maximum temperatures were 51°C with irrigation and 67°C without irrigation. At a drill speed of 200 rpm, temperatures of 43°C with irrigation and 60°C without irrigation were measured. In contrast to all other groups, temperatures in groups 1 (SS‐WI‐200rpm), 2 (SS‐WI‐600rpm), and 4 (LS‐WI‐200rpm) never exceeded 47°C. In group 3 (SS‐WI‐1000rpm), approximately 40% of the recorded values surpassed this threshold, while in group 5 (LS‐WI‐600rpm), the proportion was 50%. In groups 6 (LS‐WI‐1000rpm), 7 (SS‐NI‐200rpm), and 9 (SS‐NI‐1000rpm), 80% of the values exceeded 47°C, and in groups 8 (SS‐NI‐600rpm), 10 (LS‐NI‐200rpm), 11 (LS‐NI‐600rpm), and 12 (LS‐NI‐1000rpm), all measured values were above this critical temperature.
+
+3.3 Irrigation
+
+Irrigation was a significant predictor of the probability of exceeding the critical temperature of 47°C (p = 0.00092). The critical temperature was exceeded in 17 out of 60 tests with irrigation, compared to 56 out of 60 tests without irrigation. The odds of exceeding the temperature threshold were 177.53 times higher when irrigation was not applied (OR = 177.53; 95% CI: 35.67–1448.46).
+
+3.4 Expansion Step
+
+An increase in the drill diameter from 0.8 to 1.4 mm significantly altered the probability of exceeding the critical temperature of 47°C (p = 0.0012). Expanding the cavity by 1.4 mm resulted in a critical temperature rise in 13 out of 30 tests compared to 4 out of 30 tests with a 0.8 mm expansion when irrigation was provided. Without irrigation, 30 out of 30 tests resulted in a critical temperature rise when expanded by 1.4 mm and 26 out of 30 when expanded by 0.8 mm. The odds of exceeding the temperature threshold were 9.94 times higher when the drill diameter was increased from 0.8 to 1.4 mm (OR = 9.94; 95% CI: 2.76–46.50).
+
+3.5 Drill Speed
+
+Rotation speed significantly influenced the odds of exceeding the critical temperature of 47°C (p = 0.00049). The temperature exceeded 47°C in zero out of 20 tests at 200 rpm, 5 out of 20 tests at 600 rpm, and 12 out of 20 tests at 1000 rpm when irrigation was provided. Without irrigation, 18 out of 20 tests at 200 rpm, 20 out of 20 tests at 600 rpm, and 18 out of 20 tests at 1000 rpm resulted in a critical temperature rise. Increasing the speed by 400 rpm led to 4.94 times higher odds of exceeding the critical temperature (OR = 4.94; 95% CI: 2.18–13.54).
+
+3.6 Model Results
+
+TABLE 2: Multivariate logistic regression analysis to predict maximum temperatures ≥ 47°C.
+
+Parameters | Coefficient (CI 2.5; CI 97.5) | Standard Error | Odds Ratio (CI 2.5; CI 97.5) | p
+Irrigation (off vs. on) | 5.179 (3.57; 7.28) | 0.93 | 177.53 (35.67; 1448.46) | 0.00092
+Expansion step size (Δ1.4 vs. 0.8) | 2.297 (1.01; 3.84) | 0.71 | 9.94 (2.76; 46.50) | 0.00122
+Speed/400 rpm | 1.596 (0.78; 2.61) | 0.46 | 4.94 (2.18; 13.54) | 0.00049
+Intercept | −4.984 (−7.48; −3.04) | 1.12 | — | 0.02062
+
+Formula: Probability (W) of reaching maximum temperatures > 47°C = 1/(1 + e^−z), where z = 1.596 × (rotation speed in 400 rpm) + 5.179 (if unirrigated) + 2.297 (if step = 1.4 mm) − 4.984 (intercept).
+
+4 Discussion
+
+The study was motivated by the need to develop a reliable method for measuring heat generation during dental implant cavity expansion, particularly when irrigation is applied. A robust in vitro setup must measure the temperature directly at the bone‐drill interface, where heat is primarily generated. However, thermocouples cannot be positioned within the dynamic bone‐drill interface due to the mechanical nature of the process. Although thermographic methods offer a solution for measuring this interface, they must provide direct and immediate insight to capture accurate temperature data. Systems relying on thermocouples or lacking immediate thermographic insight tend to underestimate the actual peak temperature. For example, a thermocouple placed 1 mm away from a heat source in a finite element model of simulated mandibular cortical bone recorded temperatures that were 19.4°C lower than the heat source itself (Stocchero et al.).
+
+The present study findings demonstrate that temperatures during implant site preparation are higher than previously assumed. In groups without irrigation, critical temperatures exceeding 47°C were observed, underscoring the necessity of irrigation to prevent thermal damage. In contrast, heat stress during osteotomies in groups 1 (SS‐WI‐200rpm) and 4 (LS‐WI‐200rpm) remained notably low, with peak temperatures of 38.08°C (∆1.48°C) and 38.81°C (∆2.21°C). These values are classified as harmless. Therefore, short drilling sequences with substantial differences in drill diameter can be considered safe, provided rotational speeds are kept low (200 rpm) and irrigation is consistently applied.
+
+Low‐speed drilling protocols without irrigation provide a higher quantity of harvested bone particles (Bernabeu‐Mira et al.) and have been considered as "safe" since previous studies did not find critical temperature stress (> 47°C). However, the findings of the present study suggest that low‐speed osteotomy procedures (200 rpm) without irrigation can result in significant heat stress to the bone and should therefore be avoided. Even at very low speeds (50 rpm) the newly established model predicts a probability of exceeding the temperature threshold of W = 0.60 (SS‐NI‐50rpm). The authors strongly recommend the consistent use of new, sharp drills, particularly for the final drilling step before implant placement.
+
+5 Conclusions
+
+Within the limitations of this in vitro study, we can state that small and large enlargements of osteotomies from 2.4 to 3.2 mm and 2.4 to 3.8 mm do not generate any critical temperatures at low rotational speed (200 rpm) when saline irrigation is provided. However, dental osteotomies should not be performed without irrigation, even at low rotational speeds, to prevent heat‐induced damage. The potential impact of these findings on the early failure rates of immediately loaded implants requires further investigation through clinical studies.
+
+Author Contributions: Paeßens K: writing – original draft, writing – review and editing, methodology, visualization, investigation, conceptualization, formal analysis, software, data curation, resources, supervision, validation. van Bebber L: conceptualization, investigation, methodology, resources, data curation. Zipprich H: conceptualization, writing – original draft, writing – review and editing, supervision, visualization, data curation, methodology, project administration, resources, validation. Weigl P: project administration, resources, supervision, validation, visualization, writing – review and editing, formal analysis.
+
+Conflicts of Interest: The authors declare no conflicts of interest.
