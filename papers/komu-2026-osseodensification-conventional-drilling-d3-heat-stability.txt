@@ -1,0 +1,38 @@
+Source: PubMed abstract retrieval (PMID: 41990877)
+DOI: 10.1016/j.jormas.2026.102808
+Note: Full text not available via PMC. Abstract only.
+
+TITLE
+Comparison of osseodensification and conventional drilling in terms of primary stability and thermal changes under non-irrigated conditions: An ex vivo study.
+
+AUTHORS
+Kömü B (Bengisu Kömü) — Department of Oral and Maxillofacial Surgery, Faculty of Dentistry, Istinye University, İstanbul, Türkiye.
+Cabbar F (Fatih Cabbar) — Department of Oral and Maxillofacial Surgery, Faculty of Dentistry, Yeditepe University, İstanbul, Türkiye.
+Bakır B (Barkın Bakır) — Department of Mechanical Engineering, Faculty of Engineering, Marmara University, İstanbul, Türkiye.
+
+JOURNAL
+Journal of Stomatology, Oral and Maxillofacial Surgery
+Volume 127, Issue 5, Pages 102808
+Publication date: 2026-04-14
+
+ABSTRACT
+OBJECTIVE
+To compare osseodensification (OD) and conventional drilling (CD) techniques in terms of primary implant stability and heat generation during osteotomy preparation under non-irrigated conditions. Additionally, the influence of sequential bur diameters on thermal changes during osteotomy was evaluated.
+
+METHODS
+Sixty dental implants were placed in D3-density bovine rib bone specimens and randomly assigned to either the osseodensification (OD, n = 30) or conventional drilling (CD, n = 30) group. Osteotomies were prepared without irrigation using standardized drilling protocols. Thermal changes generated during each drilling step were recorded using infrared thermography, and the effect of sequential bur diameters on temperature rise was analyzed. Primary implant stability was measured using resonance frequency analysis (RFA) and expressed as implant stability quotient (ISQ) values.
+
+RESULTS
+The OD group demonstrated significantly higher primary stability compared to the CD group (mean ISQ: 77.30 ± 1.91 vs. 74.68 ± 2.05; p < 0.05). The mean maximum temperature (Tmax) was significantly higher in the OD group (42.73 ± 5.14 °C) than in the CD group (37.43 ± 4.22 °C) (p < 0.001). A significant inverse correlation was found between bur diameter and heat generation; the initial 2.3-mm Densah bur produced the highest thermal values (45.45 ± 5.05 °C).
+
+CONCLUSIONS
+Osseodensification significantly enhanced primary stability in D3 bone while maintaining thermal values below critical thresholds under non-irrigated conditions.
+
+KEYWORDS
+Bovine bone model; Infrared thermography; Osseodensification; Osteotomy preparation; Resonance frequency analysis; Thermal effects
+
+MESH TERMS
+Animals; Cattle; Osteotomy; Dental Implantation, Endosseous; Hot Temperature; Thermography; Dental Implants; Ribs
+
+ARTICLE TYPES
+Journal Article; Comparative Study
