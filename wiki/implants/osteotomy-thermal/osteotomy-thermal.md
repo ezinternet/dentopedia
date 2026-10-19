@@ -2,7 +2,7 @@
 title: "임플란트·골절개·발열 — osteotomy-thermal"
 authors: navigation
 year: 2026
-date: 2026-10-03
+date: 2026-10-19
 doi: N/A
 source: navigation
 category: implants/osteotomy-thermal
@@ -15,25 +15,27 @@ tags: [navigation, category-index, osteotomy-thermal]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·골절개·발열
 > - **범위**: Implant osteotomy preparation & thermal injury — bone-drilling heat generation and thermal-osteonecrosis thresholds, drill design/material/wear, irrigation & cooling (internal/external, CFD modelling), drilling speed and continuous vs intermittent protocols, piezosurgery, undersized preparation & ta…
-> - **수록 논문**: 44편
+> - **수록 논문**: 49편
 
 ## Three-line Summary
 
 **Scope**: Implant osteotomy preparation & thermal injury — bone-drilling heat generation and thermal-osteonecrosis thresholds, drill design/material/wear, irrigation & cooling (internal/external, CFD modelling), drilling speed and continuous vs intermittent protocols, piezosurgery, undersized preparation & tapping, guided-sleeve drilling temperature, histologic/histomorphometric implant-bed studies.
-**Indexed papers**: 44 papers in `wiki/implants/osteotomy-thermal/`.
+**Indexed papers**: 49 papers in `wiki/implants/osteotomy-thermal/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·골절개·발열
-**수록 논문**: 44편
+**수록 논문**: 49편
 **하위 카테고리**: 없음
 
-## Papers in this Category (44)
+## Papers in this Category (49)
 
 | Paper |
 |---|
 | [[almo-2025-bone-density-drill-heat-osteotomy|The interactive effect of bone density and drill type on heat generated during drilling of dental implant osteotomy: a single versus sequential drills in vitro experiment]] |
 | [[aquilanti-2023-heat-generation-initial-osteotomy|Heat Generation During Initial Osteotomy for Implant Site Preparation: An In Vitro Measurement Study]] |
+| [[balkanlioglu-2026-osteotomy-depth-diameter-d1-cadcam-temperature|Effect of Osteotomy Depth on Intraosseous Temperature During Implant Drilling: CAD/CAM-Guided Thermocouple Study]] |
+| [[baris-2025-dry-cooling-peltier-osteotomy-heat|Thermal analysis of a dry cooling method in dental implant drilling: in vitro randomized study]] |
 | [[batz-2019-influence-broach-design-bone-friction|The influence of broach design on bone friction and osseodensification in total hip arthroplasty]] |
 | [[bento-2023-steel-versus-zirconia-drills-heat|Steel drills versus zirconia drills on heat generation at the surgical site of dental implants: A systematic review and meta-analysis]] |
 | [[bernabeu-mira-2020-bone-heating-drilling-implant|In Vitro Study on Bone Heating during Drilling of the Implant Site: Material, Design and Wear of the Surgical Drill]] |
@@ -61,12 +63,14 @@ tags: [navigation, category-index, osteotomy-thermal]
 | [[markovic-2016-effect-surgical-drill-guide-irrigans|Effect of surgical drill guide and irrigans temperature on thermal bone changes during drilling implant sites – Thermographic analysis on bovine ribs]] |
 | [[milone-2026-heat-dental-implant-thermal-analysis|Heat Control During Dental Implant Positioning: In Vitro Thermal Analysis]] |
 | [[mohlhenrich-2015-heat-generation-drill-wear-dental|Heat generation and drill wear during dental implant site preparation: systematic review]] |
+| [[paessens-2025-irrigation-bur-size-speed-thermographic-heat-osteotomy|Effect of Irrigation, Bur Size and Rotational Speed on Thermographic Heat at Implant Site Osteotomy Interface]] |
 | [[piattelli-1998-histologic-evaluation-eight-cases-failed|A histologic evaluation of eight cases of failed dental implants: is bone overheating the most probable cause?]] |
 | [[raj-2021-analysis-factors-determining-thermal-changes|Analysis of factors determining thermal changes at osteotomy site in dental implant placement - An in-vitro study]] |
 | [[rugova-2024-thermal-evaluation-bone-drilling-sequential|Thermal Evaluation of Bone Drilling: Assessing Drill Bits and Sequential Drilling]] |
 | [[sadek-2025-peri-implant-bone-behavior-after-single|Peri-implant bone behavior after single drilling technique versus undersized drilling technique of immediately loaded implant in posterior maxilla: a one-year prospective study]] |
 | [[saxena-2024-guided-implant-drilling-bone-temperature|Effect of Guided Implant Drilling on Bone Temperature Changes During Implant Osteotomy: A Comprehensive Systematic Review]] |
 | [[sener-2009-effects-irrigation-temperature-heat-control|Effects of irrigation temperature on heat control in vitro at different drilling depths]] |
+| [[shobair-2026-heat-generation-guided-osteotomy-irrigation-route|Heat Generation in Guided Implant Osteotomy; Influence of Irrigation Route, Bone Structure, and Measurement Method]] |
 | [[slete-2018-histomorphometric-comparison-three-osteotomy-techniques|Histomorphometric Comparison of 3 Osteotomy Techniques]] |
 | [[sorgato-2025-drill-bit-wear-temperature|Impact of drill bit wear on temperature increase in dental implant osteotomy: an in vitro study]] |
 | [[stoilov-2025-influence-drilling-protocol-primary-implant|Influence of Drilling Protocol on Primary Implant Stability Depending on Different Bone Qualities and Implant Macro-Designs, Lengths, and Diameters]] |
@@ -74,5 +78,6 @@ tags: [navigation, category-index, osteotomy-thermal]
 | [[tabassum-2021-undersized-axial-compression-primary-stability|Combined effect of undersized surgical technique and axial compression on the primary implant stability and host bone architecture]] |
 | [[timon-2019-thermal-osteonecrosis-bone-drilling-orthopedic|Thermal Osteonecrosis Caused by Bone Drilling in Orthopedic Surgery: A Literature Review]] |
 | [[tur-2025-scais-cip-guided-conventional-drill-diameter-heat|S-CAIS vs CIP Heat: Significant Differences Only at 3.5mm Drills; Irrigation Essential for Both Techniques]] |
+| [[tur-2026-guided-conventional-pilot-drill-thermal-evaluation|Thermal evaluation of pilot- and partially guided implant surgery — in vitro automated robotic drilling study]] |
 | [[woods-2022-does-irrigating-while-drilling-decrease|Does Irrigating While Drilling Decrease Bone Damage?]] |
 | [[yu-2022-primary-implant-stability-alternative-site-preparation-sr-ma|Primary Implant Stability Based on Alternative Site Preparation Techniques: A Systematic Review and Meta-Analysis]] |
