@@ -2,7 +2,7 @@
 title: "저골밀도·ARP 이식 부위 임플란트 1차 안정성 — 매크로형태와 식립 위치 효과"
 authors: Synthesis
 year: 2026
-date: 2026-07-07
+date: 2026-10-20
 doi: ""
 source: ""
 category: [overviews]
@@ -133,7 +133,7 @@ Note: ISQ values in this in vitro study (55–63) are lower than clinical ISQ va
 
 Together, the two papers converge on a clinically useful finding that is mechanistically plausible — the torque/ISQ dissociation and the macro-geometry metric-dependency — but both require prospective clinical validation before informing firm protocol changes.
 
-Beyond the two levers covered above — ARP placement position and implant macro-geometry — a third lever deserves note: surgical technique. Rittipakorn et al. (2025), in a paired-site cadaveric tibia study of low-density (D3/D4) bone, compared a novel clockwise osseodensification protocol (CW-OD) against standard drilling and found CW-OD trending toward higher ISQ (67.5 vs 62.9, p=0.077) and insertion torque (34.0 vs 29.5 Ncm, p=0.052), with tighter variability, no low-torque outliers, and — notably — a significant IT–ISQ correlation only in the OD group (ρ=0.577 vs ρ=0.208 with standard drilling). This raises the possibility that osteotomy technique itself modulates how tightly torque and ISQ track each other in soft bone, offering a third, complementary axis alongside ARP placement position and macro-geometry selection. Like Ko 2024 and Ayub 2025, the Rittipakorn 2025 findings are small-sample and non-significant on their primary endpoints (cadaveric, no healing) and require in vivo confirmation before informing protocol changes.
+Beyond the two levers covered above — ARP placement position and implant macro-geometry — a third lever deserves note: surgical technique. Rittipakorn et al. (2025), in a paired-site cadaveric tibia study of low-density (D3/D4) bone, compared a novel clockwise osseodensification protocol (CW-OD) against standard drilling and found CW-OD trending toward higher ISQ (67.5 vs 62.9, p=0.077) and insertion torque (34.0 vs 29.5 Ncm, p=0.052), with tighter variability, no low-torque outliers, and — notably — a significant IT–ISQ correlation only in the OD group (ρ=0.577 vs ρ=0.208 with standard drilling). This raises the possibility that osteotomy technique itself modulates how tightly torque and ISQ track each other in soft bone, offering a third, complementary axis alongside ARP placement position and macro-geometry selection. Like Ko 2024 and Ayub 2025, the Rittipakorn 2025 findings are small-sample and non-significant on their primary endpoints (cadaveric, no healing) and require in vivo confirmation before informing protocol changes. A clinical RCT in the posterior maxilla with limited bone height (28 patients, 42 implants) points the same direction for transcrestal sinus floor elevation with simultaneous placement: osseodensification beat Summers' osteotome on ISQ (75.09 vs 67.50, p=.013) and insertion torque (32.95 vs 26.25 Ncm, p=.008), with comparable MBL and 100% survival in both arms (Kafadar-Gürbüz 2026); this is a sinus-floor setting, not ARP, so it supports the technique lever in soft maxillary bone rather than the ARP-position findings.
 
 ## Related Papers
 
@@ -147,3 +147,4 @@ Beyond the two levers covered above — ARP placement position and implant macro
 - [[implants/osseodensification/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric]] — complementary axis: surgical technique (osseodensification) as a third lever for primary stability in low-density bone alongside macro-geometry and placement position
 - [[implants/isq/do-vale-souza-2021-relation-insertion-torque-implant-stability]] — IT-ISQ 상관 r=0.457 초기에만, 6개월 이후 무상관; ISQ 48→66 상승; 연조직(Type III) 초기 ISQ 낮아도 대부분 골유착 성공 — IT-ISQ 해리 테마 직접 지지 (prospective, 2021)
 - [[implants/isq/elkattan-2026-insertion-torque-isq-bone-level]] — BL vs TL 비교 pilot RCT: IT 차이 없음, 90일 수평 ISQ TL이 소폭 높음(p=0.029); IT는 초기 ISQ와 상관(r=0.493)이나 90일 ISQ와 무상관 — 임플란트 디자인이 1차 안정성을 결정하지 않는다는 추가 레버 (rct, 2026)
+- [[sinus-lift/transcrestal/kafadar-gurbuz-2026-od-vs-osteotome-tsfe-isq-rct]] — RCT: osseodensification vs osteotome in transcrestal sinus elevation; higher ISQ/IT with OD (rct, 2026)
