@@ -5072,3 +5072,4 @@ tags: []
 
 ### overviews
 - [[overviews/condensing-osteitis-hyperdense-lesion-implant-overview]] — Overview · 과방사성 악골 병변은 임플란트 금기가 아님(성공률 84.2%), 병변 유형별 프로토콜 종합
+- [[overviews/osteotomy-cooling-delivery-route-risk-quantification-overview]] — Overview (5편, 2026-10-19): 골삭제 냉각은 전달 방식의 문제 — 관주 경로(가이드 내부 채널), 건식 냉각, 냉각 존재 시 위험 요인 정량 위계(OR/η²)
