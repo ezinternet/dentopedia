@@ -2,7 +2,7 @@
 title: "교합 안정장치(스플린트)의 TMD 내 실제 위치 — 부가가치·병용·반응예측 종합"
 authors: Synthesis (Damian Lee)
 year: 2026
-date: 2026-07-06
+date: 2026-10-20
 doi: N/A
 source: N/A
 category: overviews
@@ -63,6 +63,12 @@ For practice: choose the splint by target — fast relief for acute muscular pai
 |---|---|---|
 | [[tmj/salloum-2024-stabilization-splint-ultrasound-myofascial-pain-rct]] | rct (4-arm, n=80) | MPS: SS ≈ 초음파 > 저작근 운동 (4주 VAS 1.1·1.1·4.7; SS vs 운동 p=0.013); **5개월엔 4군 통증·하악운동 동등(p=0.383)** — TheraBite는 중간 |
 | [[tmj/zhang-2021-exercise-vs-splint-tmd-sr-ma]] | sr+ma | 운동 ≥ 스플린트 (마스터 ladder 축 2 근거) — Salloum RCT가 within-study로 일관 |
+| [[tmj/orzeszek-2023-efficiency-occlusal-splint-therapy-orofacial]] | sr (13 RCT, n=589) | 근육통에서 스플린트 ≈ 대부분의 능동 대안 (전 RCT 비뚤림 위험 높음, 메타분석 불가); 상담/교육이 3개월 자발통 완화에서 더 나은 RCT 1편 (p=0.034) |
+| [[tmj/honnef-2022-stabilization-splints-signs-symptoms-muscular-tmd]] | sr (10 studies) | 스플린트 n=160 ≈ 타 치료 n=209 (PPT·저작통·개구량 등); 확신도 모든 결과에서 매우 낮음 — 효과를 확인도 반박도 못 함 |
+| [[tmj/boulatar-2026-effectiveness-occlusal-stabilization-splint-myogenous]] | sr (10 RCT, n=539) | 기저선 대비 통증·개구량 개선 보고 다수, 그러나 근거 질 낮고 기저선 비교라 자연경과/위약과 분리 불가 |
+| [[tmj/zhang-2026-nonpharmacological-myogenic-tmd-nma]] | sr+ma (NMA 41 RCT) | 통증에서 PBMT 1위; 스플린트·운동은 통상치료 대비 비유의 — 스플린트의 단기 통증 우위 제한적 |
+
+**2026-10-20 보강 — 일관된 낮은 확신도**: 위 SR 4편 모두 "스플린트가 대안보다 우월하다"는 주장을 지지하지 않으며, 확신도는 낮음~매우 낮음이다. 즉 "대등하되 우월하지 않음"이 단일 RCT가 아니라 SR 수준에서 반복 확인된다. [확인: 각 source 세줄요약]
 
 **임상 함의**: 급성 근막통증에서 스플린트의 실제 값어치는 *속도*다 — 초음파와 대등하게 4주에 빠른 통증 완화를 주지만, 저작근 운동군도 5개월이면 같은 지점에 도달한다("exercises catch up"). 따라서 SS는 **초기 통증이 심해 빠른 완화가 필요한 환자**에서 선택하고, 장기 종착점이 더 낫다고 환자에게 약속하지 않는다. 저작근 운동만으로는 치료기간 중 통증 경감이 느리다는 점(환자 순응·이탈 위험)은 실무적 고려사항.
 
@@ -134,6 +140,11 @@ For practice: choose the splint by target — fast relief for acute muscular pai
 - [[overviews/btx-orofacial-applications-overview]] — 근육형 대안(BTX)
 
 ## Related Papers
+
+- [[tmj/orzeszek-2023-efficiency-occlusal-splint-therapy-orofacial]] — SR 13 RCT: 스플린트 ≈ 대안, 근거 불충분
+- [[tmj/honnef-2022-stabilization-splints-signs-symptoms-muscular-tmd]] — SR: 스플린트 효과 확인/반박 불가 (매우 낮음)
+- [[tmj/boulatar-2026-effectiveness-occlusal-stabilization-splint-myogenous]] — SR 10 RCT: 기저선 대비 개선, 낮은 근거
+- [[tmj/zhang-2026-nonpharmacological-myogenic-tmd-nma]] — NMA: 스플린트 통상치료 대비 비유의
 
 - [[tmj/salloum-2024-stabilization-splint-ultrasound-myofascial-pain-rct]] — SS ≈ 초음파 > 운동(단기), 5개월 동등; 스플린트의 값어치는 *속도*임을 보임(축 1)
 - [[tmj/cimino-2025-counselling-vs-splint-tmd-neck-pain-rct]] — 상담 위 스플린트 추가는 경부 동반증상에 무이득; 교육-단독 충분 조건을 한정(축 2)
