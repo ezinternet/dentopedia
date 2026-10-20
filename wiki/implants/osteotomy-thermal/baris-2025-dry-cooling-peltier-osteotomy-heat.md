@@ -84,4 +84,4 @@ Baris et al. (2025) conducted the first in vitro evaluation of a thermoelectric 
 - [[implants/osteotomy-thermal/gokce-uckun-2025-guided-surgery-cold-irrigation-temperature]] — compares guided surgery with cold irrigation; parallel theme of optimizing cooling delivery
 - [[implants/osteotomy-thermal/shobair-2026-heat-generation-guided-osteotomy-irrigation-route]] — evaluates irrigation route (internal vs external) in guided osteotomy; complementary cooling route evidence
 - [[implants/osteotomy-thermal/heuzeroth-2021-thermal-exposure-osteotomy-osseointegration]] — thermal exposure thresholds and osseointegration outcomes
-- [[wiki/overviews/osteotomy-drilling-heat-determinants-irrigation-overview]] — synthesis overview for the osteotomy-thermal category
+- [[overviews/osteotomy-drilling-heat-determinants-irrigation-overview]] — synthesis overview for the osteotomy-thermal category
