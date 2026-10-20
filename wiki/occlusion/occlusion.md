@@ -2,7 +2,7 @@
 title: "교합 — occlusion"
 authors: navigation
 year: 2026
-date: 2026-10-08
+date: 2026-10-20
 doi: N/A
 source: navigation
 category: occlusion
@@ -15,20 +15,20 @@ tags: [navigation, category-index, occlusion]
 > [!summary] 한국어 핵심요약
 > - **분야**: 교합
 > - **범위**: Occlusal analysis (digital/T-Scan vs articulating paper), implant occlusion, occlusal overload, occlusal scheme/adjustment
-> - **수록 논문**: 67편
+> - **수록 논문**: 69편
 
 ## Three-line Summary
 
 **Scope**: Occlusal analysis (digital/T-Scan vs articulating paper), implant occlusion, occlusal overload, occlusal scheme/adjustment
-**Indexed papers**: 67 papers in `wiki/occlusion/`.
+**Indexed papers**: 69 papers in `wiki/occlusion/`.
 
 ## 세줄요약
 
 **분야**: 교합
-**수록 논문**: 67편
+**수록 논문**: 69편
 **하위 카테고리**: 없음
 
-## Papers in this Category (67)
+## Papers in this Category (69)
 
 | Paper |
 |---|
@@ -39,6 +39,7 @@ tags: [navigation, category-index, occlusion]
 | [[biren-2025-virtual-articulator-occlusal-contacts-increased-vertical-dimension|Evaluation of relative deviations in virtual articulators for simulating occlusal contacts at increased vertical dimensions]] |
 | [[bozhkova-2021-occlusal-indicators-dental-practice-survey|Occlusal Indicators Used in Dental Practice: A Survey Study]] |
 | [[bueno-2018-cyclically-loaded-implants-loading-sessions|Bone healing response in cyclically loaded implants: Comparing zero, one, and two loading sessions per day]] |
+| [[chang-2013-impact-excessive-occlusal-load|Impact of excessive occlusal load on successfully-osseointegrated dental implants: a literature review]] |
 | [[christou-2007-three-dimensional-changes-unopposed-molars-adults|Three-dimensional changes in the position of unopposed molars in adults]] |
 | [[craddock-2004-incidence-overeruption-occlusal-interferences-unopposed|A study of the incidence of overeruption and occlusal interferences in unopposed posterior teeth]] |
 | [[craddock-2006-deviation-broadrick-occlusal-curve-posterior|Deviation from the Broadrick occlusal curve following posterior tooth loss]] |
@@ -85,6 +86,7 @@ tags: [navigation, category-index, occlusion]
 | [[rani-2024-bite-registration-materials-vertical-relationship-accuracy|Assessment of the Capability to Accurately Capture the Vertical Relationship by the Various Bite Registration Materials]] |
 | [[romanos-2003-bone-implant-interface-loading-conditions-monkey|Bone-Implant Interface Around Titanium Implants Under Different Loading Conditions: A Histomorphometrical Analysis in the Macaca fascicularis Monkey]] |
 | [[rovira-lastra-2026-articulating-paper-accuracy-occlusal-points|Clinical Strategies to Improve the Accuracy of Articulating Paper for Detecting Occlusal Contact Points in Adults with Natural Dentitions]] |
+| [[sadowsky-2019-occlusal-overload-dental-implants-review|Occlusal overload with dental implants: a review]] |
 | [[singh-2026-active-tactile-sensibility-implant-natural-teeth-sr|Comparative analysis of active tactile sensibility in single dental implant and natural teeth: A systematic review of clinical studies]] |
 | [[sippy-2021-condylar-incisal-guidance-canine-group-function-schemes|A study to evaluate the influence of condylar and incisal guidance in canine guided and group function occlusal schemes]] |
 | [[smith-1996-extracting-upper-second-molars-lower-molar-position|The Effects of Extracting Upper Second Permanent Molars on Lower Second Permanent Molar Position]] |
