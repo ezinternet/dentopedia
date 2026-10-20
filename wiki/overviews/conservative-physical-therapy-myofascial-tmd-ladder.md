@@ -2,7 +2,7 @@
 title: "Conservative Physical-Therapy Modalities for Myofascial / Myogenous TMD — Comparative Evidence & Decision Tree (2026 Synthesis)"
 authors: synthesis page (compiled by Claude from 16 wiki entries, 2026-06-21)
 year: 2026
-date: 2026-06-21
+date: 2026-10-20
 category: overviews
 evidence_level: synthesis
 source_collection: internal
@@ -59,6 +59,14 @@ The strongest single anchor is **Yao 2023 (BMJ SR+NMA, 233 RCTs, n=8,713, 59 int
 | Low | Pharmacological interventions | variable | Low |
 
 This NMA's verdict — active manual + behavioral therapies on top, drugs at the bottom — frames the whole ladder below.
+
+**Convergent network/pooled evidence added 2026-10-20** (all myogenous TMD; see also [[overviews/masticatory-muscle-pain-evidence-synthesis-2026]] for the full cross-modality synthesis):
+
+- **Al-Moraissi 2021** (NMA, 52 RCTs): most treatments beat placebo for pain; short-term (≤5 mo) top ranks were manual therapy (SUCRA 83.5%, low certainty), counseling (71.2%, moderate) and occlusal appliances (71.7%, moderate). Agrees with Yao 2023 on manual therapy on top, but certainty is low–very low for many rankings.
+- **Zhang 2026** (NMA, 41 RCTs, n=2021, 10 non-pharmacological modalities): photobiomodulation (PBMT) ranked first for pain (SUCRA 88.9%), manual therapy first for maximum mouth opening (SUCRA 92.9%; SMD vs control 2.79); exercise and occlusal splint were non-significant vs conventional care for pain. Note this places exercise lower than the mid-tier "meaningful" label above — the two NMAs differ in intervention sets, so treat the exercise position as unsettled.
+- **Ferrillo 2022** (SR+MA, 16 sham-controlled RCTs): pooled rehabilitation effect on pain 1.44 (p<0.0001), laser the most studied (6/16); few trials per technique, so technique-specific conclusions are not supported.
+- **Ferrillo 2026** (SR, 7 RCTs, n=359): myofascial release / soft-tissue techniques mostly reduced pain, but only a subset cleared the a priori MCID (15–22 mm) and MFR did not differ from oral analgesics or PBM-combined arms; GRADE low–very low, interventions multimodal — MFR belongs inside a multimodal plan, not as an isolated proven therapy.
+- **Al-Moraissi 2022** (NMA): acupuncture and dry needling did not differ from placebo for pain intensity or pressure pain threshold (dry needling raised MMO vs placebo, very low quality) — the authors attribute most of the effect to placebo. This tempers the dry-needling rungs of the ladder.
 
 ## Decision tree (myofascial / myogenous TMD)
 
@@ -132,6 +140,13 @@ Context / reviews:
 
 ## Related Pages
 
+- [[tmj/al-moraissi-2021-hierarchy-different-treatments-myogenous-temporomandibular]] — NMA 52 RCTs, manual therapy/counseling/appliances lead short term
+- [[tmj/al-moraissi-2022-acupuncture-dry-needling-effective-management]] — NMA: needling ≈ placebo for pain
+- [[tmj/ferrillo-2022-efficacy-rehabilitation-reducing-pain-muscle]] — SR+MA rehabilitation vs sham
+- [[tmj/ferrillo-2026-myofascial-release-soft-tissue-techniques-pain-tmd]] — SR of 7 RCTs on MFR
+- [[tmj/zhang-2026-nonpharmacological-myogenic-tmd-nma]] — NMA 41 RCTs: PBMT top for pain, MT top for opening
+
 - [[overviews/tmd-management-evidence-ladder]] — broader 5-axis TMD management (parent)
 - [[overviews/spray-and-stretch-tmd-myofascial-synthesis]] — spray-and-stretch deep dive (child)
+- [[overviews/masticatory-muscle-pain-evidence-synthesis-2026]] — sibling cross-modality synthesis covering the 2026-10-20 additions
 - [[overviews/bruxism-muscle-overload-axis]] — BTX double-edge (atrophy vs overload)
