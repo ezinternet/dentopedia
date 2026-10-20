@@ -2,7 +2,7 @@
 title: "근관치료 후 통증(Post-endodontic Pain) — 시술 변수별 근거 종합 (Post-operative Pain in Endodontics)"
 authors: Synthesis (Damian Lee)
 year: 2026
-date: 2026-07-01
+date: 2026-10-20
 doi: N/A
 source: N/A
 category: overviews
@@ -27,6 +27,7 @@ tags: [endodontics, postoperative-pain, flare-up, irrigation-activation, niti-ki
 > - 임상 권고: ① 증상성 치아를 술후 통증 고위험군으로 분류해 예방적/구조적 진통 계획 우선(술식 선택보다 영향 큼), ② 근단 밖 압출 최소화(측방배출침·MDI 회피·근단 patency 절제·정확한 WL), ③ 세정 활성화는 통증 목적이면 LAI 선호·MDI 회피(그러나 대부분 근거 low confidence), ④ EAL vs 방사선·rotary vs reciprocating는 통증만으로 결정하지 말고 정확도·해부·비용·피폭으로 결정.
 > - 근거 한계: SR 2편은 이질성으로 메타분석 불가(정성종합, GRADE 낮음~매우낮음), 네트워크 메타회귀는 CINeMA 신뢰도 대부분 낮음, RCT는 소표본·단일센터·비맹검 다수. 임상 외삽은 상당 부분 [미검증].
 > - **Flare-up 처치(약물·항생제·코르티코스테로이드·선제투약) → [[overviews/endodontic-flare-up-management-overview]] 참조** — 이 페이지는 시술 변수(세정·기구·근관장)만 다루고 약물 처치 축은 중복하지 않는다.
+> - 근관충전 실러 축: 생체활성세라믹 (Bioceramic) vs 에폭시레진 (Epoxy resin) 실러 — 우산 리뷰 (7 SR, RCT 63편)에서 24h (SMD −0.15)·48h (SMD −0.29) 통증이 소폭 낮으나 48h 이후·진통제·플레어업 차이 없음 → 임상적으로 의미 없는 수준, 실러는 통증이 아니라 취급성·생체적합성·제거용이성으로 선택 (Dahikar 2026). 25 SR 우산 리뷰 (Zamparini 2026)는 기존 축과 방향 일치하나 잠정적. [확인]
 
 ## Three-line Summary
 
@@ -46,7 +47,7 @@ A single 30-second LLLT application equals a 1-week calcium hydroxide dressing f
 
 ## Summary
 
-This page integrates five wiki pages that each isolate one procedural variable's effect on post-endodontic pain (working length, instrument kinematics, irrigation activation, irrigation delivery, and a photobiomodulation/medicament adjunct). The unifying finding is that **post-operative pain is multifactorial**, and that the single largest driver is not the procedural choice under study but the **patient's preoperative symptomatic status** — a variable that Hatipoğlu 2025 modeled formally and found to dominate the Day-1 pain signal regardless of technique.
+This page integrates five spine pages (plus two sealer/umbrella cross-check pages added 2026-10-20) that each isolate one procedural variable's effect on post-endodontic pain (working length, instrument kinematics, irrigation activation, irrigation delivery, and a photobiomodulation/medicament adjunct). The unifying finding is that **post-operative pain is multifactorial**, and that the single largest driver is not the procedural choice under study but the **patient's preoperative symptomatic status** — a variable that Hatipoğlu 2025 modeled formally and found to dominate the Day-1 pain signal regardless of technique.
 
 The common time course is reproducible across every axis: pain peaks in the first 6–24 h and declines to minimal by 7–14 days, independent of technique (Singh 2026, Usman Sultan 2026, Zarei 2026). What separates techniques is the magnitude of the early peak, and the mechanistic lever connecting the axes is **apical extrusion** of NaOCl, debris, and bacteria beyond the foramen.
 
@@ -58,6 +59,7 @@ Key propositions:
 4. **Instrument kinematics (rotary vs reciprocating) does not affect retreatment pain, but hand files do worsen it.** [확인] 5 RCTs (n=554) found rotary ≈ reciprocating; where compared, hand files were significantly more painful in the first 48 h — implicating apical debris extrusion, not kinematics per se, as the operative mechanism (Singh 2026).
 5. **Irrigation activation and delivery that minimize apical extrusion lower early pain.** [확인(방향)] LAI ranked best (SUCRA 85%) and MDI worst (SUCRA 1.5%) among 7 techniques; only LAI vs MDI (MD −2.46 VAS) exceeded the 1.0 MCID (Hatipoğlu 2025). In a necrotic-molar RCT, both PUI and a side-vented needle beat conventional open-ended needle irrigation at 24–72 h, with no PUI advantage over the side-vented needle — suggesting lateral-flow extrusion control rivals acoustic activation (Zarei 2026).
 6. **A single LLLT application equals a 1-week calcium-hydroxide dressing for acute symptom control.** [근거약함, 단일 RCT] In symptomatic apical periodontitis (n=46), LLLT (976 nm, 30 s) and CH were statistically indistinguishable on pain (6/12/24/48 h), 1-week percussion pain, and periapical IL-8/Substance P reduction — positioning LLLT as a single-visit option, though CH's antimicrobial role was not tested (Otaify 2026).
+7. **Sealer chemistry (bioceramic vs epoxy-resin) changes post-op pain by a statistically real but clinically negligible amount.** [확인(방향), 근거 낮음~중간] In an umbrella review of 7 SRs (63 unique RCTs), pooled pain favored bioceramic sealers at 24 h (SMD −0.15) and 48 h (SMD −0.29), with no difference beyond 48 h, in analgesic use (RR 0.91–0.92) or flare-up incidence (RR 0.97) (Dahikar 2026); choose sealers on handling/biocompatibility/retrievability, not on expected pain. A broader 25-SR umbrella across irrigation, instrumentation and obturation (Zamparini 2026) points the same directions as axes 4–5 (lower NaOCl concentration, activation, cryotherapy → less short-term pain; rotary only inconsistently better than reciprocating/manual) but is explicitly tentative (obturation-domain overlap CCA 17.6%; 4/25 SRs unregistered) — read it as convergent cross-check, not new proof. Note the nuance vs axis 4: Zamparini reports rotary *more often* lower POP than reciprocating/manual, whereas the retreatment-specific SR (Singh 2026) found rotary ≈ reciprocating; the contexts (primary vs retreatment) differ.
 
 The cross-cutting mechanistic thread — **apical extrusion** — explains why interventions across different axes align: any choice that reduces what is pushed past the foramen (side-vented needle, avoiding MDI, avoiding hand files, accurate WL keeping the tip within canal) points in the pain-reducing direction. [미검증]
 
@@ -70,6 +72,8 @@ The cross-cutting mechanistic thread — **apical extrusion** — explains why i
 | 세정 활성화(Irrigation activation) | [[endodontics/irrigation/hatipoglu-2025-irrigation-activation-postoperative-pain-network-meta]] | sr+ma | Bayesian NMR of 7 techniques (31 studies, n=2595): LAI best (SUCRA 85%), MDI worst (SUCRA 1.5%); only LAI vs MDI (MD −2.46) clears MCID; symptomatic status is dominant effect modifier; CINeMA mostly low–very low |
 | 세정 전달(Irrigation delivery) | [[endodontics/irrigation/zarei-2026-final-irrigation-postoperative-pain-necrotic-molar-rct]] | rct | Necrotic mandibular molar single-visit (n=45): PUI and side-vented needle both beat conventional needle at 24–72 h (pain/swelling/analgesic); PUI = side-vented — extrusion control ≈ acoustic activation |
 | 보조수단(Adjunct: LLLT vs CH) | [[endodontics/irrigation/otaify-2026-lllt-vs-calcium-hydroxide-postoperative-pain-rct]] | rct | Symptomatic apical periodontitis (n=46): LLLT (30 s) = calcium hydroxide (1 wk) on pain 6–48 h, percussion pain, IL-8/Substance P — LLLT a single-visit alternative; CH antimicrobial role untested |
+| 근관충전 실러(Obturation sealer) | [[endodontics/obturation/dahikar-2026-bioceramic-vs-epoxy-resin-sealer-postoperative-pain-umbrella]] | sr+ma | Umbrella of 7 SRs (63 RCTs): bioceramic < epoxy-resin pain at 24 h (SMD −0.15) and 48 h (SMD −0.29), none beyond 48 h; no difference in analgesics or flare-ups — statistically real, clinically too small; AMSTAR-2 moderate–low |
+| 교차검증(Cross-check umbrella) | [[endodontics/zamparini-2026-postop-pain-endodontic-instrumentation-irrigation-obturation-umbrella]] | sr+ma | 25 SRs (9 irrigation, 8 instrumentation, 8 obturation): lower NaOCl %, activation, cryotherapy repeatedly linked to lower 6–48 h pain; rotary vs reciprocating inconsistent; bioceramic ≈ resin sealers; tentative directional trends only |
 
 ## Clinical Decision Points
 
@@ -78,6 +82,7 @@ The cross-cutting mechanistic thread — **apical extrusion** — explains why i
 3. **If the goal is minimizing early pain from irrigation, prefer laser-activated irrigation and avoid MDI** — but temper expectations: only LAI vs MDI cleared the clinical threshold and most contrasts are low-confidence (Hatipoğlu 2025). Ultrasonic activation and side-vented needle delivery are reasonable, comparably effective options in practice (Zarei 2026).
 4. **Do not choose EAL vs radiographic WL, or rotary vs reciprocating, on the basis of pain.** They are pain-equivalent (Usman Sultan 2026; Singh 2026). Drive those choices by accuracy, canal anatomy, filling-removal efficiency, cost, radiation avoidance (ALARA — pregnancy/pediatric), and operator familiarity instead.
 5. **LLLT is a legitimate single-visit symptom-control adjunct, not a disinfection substitute.** A 30-s LLLT application matches a 1-week CH dressing for acute pain/inflammation and enables single-visit treatment while avoiding inter-appointment flare-up risk — but CH's antimicrobial disinfection role was not tested, so LLLT does not replace CH where long-term disinfection is the objective (Otaify 2026).
+6. **Do not pick a sealer to reduce post-op pain.** The bioceramic-vs-epoxy-resin difference is ≤0.3 SD and vanishes after 48 h (Dahikar 2026); decide on handling, biocompatibility and retrievability.
 
 ## Related Papers
 
@@ -93,6 +98,8 @@ The cross-cutting mechanistic thread — **apical extrusion** — explains why i
 - [[overviews/endodontic-flare-up-management-overview]] — sibling overview: pharmacological axis (risk stratification, corticosteroids, preemptive analgesia, antibiotic non-indication); this page covers the procedural axis only
 - [[endodontics/irrigation/huang-2026-intracanal-cryotherapy-postoperative-pain-sr-ma]] — SR+MA on intracanal cryotherapy (cold saline irrigation) for post-endodontic pain reduction; pooled effect size and timing of benefit (sr+ma, 2026)
 - [[endodontics/vpt/gurler-2026-full-pulpotomy-cryotherapy-sip-24mo-rct]] — RCT: full pulpotomy with adjunctive cryotherapy in symptomatic irreversible pulpitis; 24-month pain and pulp-survival outcomes (rct, 2026)
+- [[endodontics/obturation/dahikar-2026-bioceramic-vs-epoxy-resin-sealer-postoperative-pain-umbrella]] — sealer axis: bioceramic vs epoxy-resin umbrella, small early-pain edge only (sr+ma, 2026)
+- [[endodontics/zamparini-2026-postop-pain-endodontic-instrumentation-irrigation-obturation-umbrella]] — 25-SR umbrella across irrigation/instrumentation/obturation; convergent but tentative cross-check (sr+ma, 2026)
 
 ## Bottom Line (한 줄 결론)
 
