@@ -14,7 +14,7 @@ abstract-only — full text not retrieved (Journal of Oral Implantology, not ope
 
 ## Why Ingested
 
-[[wiki/overviews/osteotomy-drilling-heat-determinants-irrigation-overview]]의 peck drilling 권고에 반하는 데이터 — 본 논문은 연속 vs 간헐 드릴링 기법 자체의 온도 차이가 통계적으로 유의하지 않음을 보여, 관주 온도가 기법 선택보다 중요하다는 Kapse 2022의 결론과 일치하는 직접 비교를 제공한다.
+[[overviews/osteotomy-drilling-heat-determinants-irrigation-overview]]의 peck drilling 권고에 반하는 데이터 — 본 논문은 연속 vs 간헐 드릴링 기법 자체의 온도 차이가 통계적으로 유의하지 않음을 보여, 관주 온도가 기법 선택보다 중요하다는 Kapse 2022의 결론과 일치하는 직접 비교를 제공한다.
 
 ## Three-line Summary
 
