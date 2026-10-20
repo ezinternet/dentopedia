@@ -15,7 +15,7 @@ text_filename: gehrke-2020-technique-drill-design-osteotomy.txt
 
 ## Why Ingested
 
-인제스트 당시 [[wiki/overviews/osteotomy-drilling-heat-determinants-irrigation-overview]]는 peck drilling을 "하드본·가이드수술에서 권고"라고만 기술했으나, 구체적인 mm 간격을 수량화한 데이터가 없었다. 본 논문은 peck 간격을 0→3mm / 0→5mm / 0→8mm로 명시하고, 드릴 형태(원통형 vs 원추형)에 따라 간헐 기법의 효과가 달라진다는 사실을 in vivo로 검증한 첫 데이터다.
+인제스트 당시 [[overviews/osteotomy-drilling-heat-determinants-irrigation-overview]]는 peck drilling을 "하드본·가이드수술에서 권고"라고만 기술했으나, 구체적인 mm 간격을 수량화한 데이터가 없었다. 본 논문은 peck 간격을 0→3mm / 0→5mm / 0→8mm로 명시하고, 드릴 형태(원통형 vs 원추형)에 따라 간헐 기법의 효과가 달라진다는 사실을 in vivo로 검증한 첫 데이터다.
 
 ## Three-line Summary
 
