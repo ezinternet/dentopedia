@@ -5052,3 +5052,23 @@ tags: []
 
 ### oral-surgery/third-molar
 - [[oral-surgery/third-molar/degala-2018-evaluation-efficacy-simvastatin-bone-regeneration-third-molars]] — Degala 2018 · rct · 2018 분할구강 RCT n=30; simvastatin 10 mg (Gelfoam) 발치와 적용; 골밀도 회색값 (Gray Value) 1/4/8/12주 전 측정 유의하게 높음 (P=.001); CBCT 확인. (DOI 10.1016/j.joms.2018.04.035)
+
+## Batch ingest (added 2026-10-20) — 과방사성 악골 병변·골화성 골염 × 임플란트 / 골삭제 발열·냉각 (10편)
+
+### implants/survival
+- [[implants/survival/alqahtani-2020-condensing-osteitis-implant-gbr-delayed]] — Alqahtani 2020 · case-report · 하악 제2소구치 골화성 골염(CO) 발치 후 즉시 GBR, 6개월 치유 후 지연 임플란트
+- [[implants/survival/hassan-2023-basal-implant-condensing-osteitis-hyperdense-mandibular]] — Hassan 2023 · case-report · 18세 남성 하악 제1대구치 골화성 골염 부위, 일반 임플란트 금기 상황에서 basal 임플란트 적용
+- [[implants/survival/taghsimi-2022-implant-hyperdense-jaw-lesions-narrative-review]] — Taghsimi 2022 · narrative-review · 19편(증례) 분석, 과방사성 악골 병변 부위 임플란트 전체 성공률 84.2%
+
+### implants/osteotomy-thermal
+- [[implants/osteotomy-thermal/balkanlioglu-2026-osteotomy-depth-diameter-d1-cadcam-temperature]] — Balkanlioglu 2026 · in-vitro · D1 소 대퇴골(n=90), 골절제 깊이가 드릴 직경보다 최고온도의 강한 결정 요인(η²=0.82 vs 0.17)
+- [[implants/osteotomy-thermal/baris-2025-dry-cooling-peltier-osteotomy-heat]] — Baris 2025 · in-vitro RCT · 소 늑골(n=120), 펠티에 기반 건식 냉각(DC) vs 식염수 관주(SC) 열 제어·자가골 보존
+- [[implants/osteotomy-thermal/paessens-2025-irrigation-bur-size-speed-thermographic-heat-osteotomy]] — Paessens 2025 · in-vitro · 무관개가 47°C 초과의 압도적 위험인자(OR 177.53), 저속만으로는 무관개 안전 보장 불가
+- [[implants/osteotomy-thermal/shobair-2026-heat-generation-guided-osteotomy-irrigation-route]] — Shobair 2026 · in-vitro · 안내 골삭제 내부 관류 0.84°C vs 무관류 13.31°C·외부 관류 2.45°C
+- [[implants/osteotomy-thermal/tur-2026-guided-conventional-pilot-drill-thermal-evaluation]] — Tur 2026 · in-vitro · 소 뼈 로봇 드릴링 160회, 2.0 mm 슬리브 유도 수술은 외부 냉각 시 일반 드릴링보다 저온, 2.8 mm 부분 유도는 고온
+
+### implants/osseodensification
+- [[implants/osseodensification/komu-2026-osseodensification-conventional-drilling-d3-heat-stability]] — Komu 2026 · in-vitro · D3 소 늑골 60개, 골밀도화 ISQ 77.30 vs 일반 드릴링 74.68 (p<0.05)
+
+### overviews
+- [[overviews/condensing-osteitis-hyperdense-lesion-implant-overview]] — Overview · 과방사성 악골 병변은 임플란트 금기가 아님(성공률 84.2%), 병변 유형별 프로토콜 종합
