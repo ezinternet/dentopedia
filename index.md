@@ -4188,6 +4188,8 @@ tags: []
 - [[drug/antibiotics/momand-2024-antibiotic-prophylaxis-early-implant-failure]] — Momand 2024 · sr+ma(위약대조 이중맹검 RCT 7편, 환자 1859명/임플란트 3014개) · 술전 항생제 예방이 조기 실패 못 줄임 RR 0.66(NS)·NNT 143·GRADE 중간 — 통상 예방 근거 부족 (DOI 10.1186/s12903-024-04611-0)
 - [[drug/antibiotics/dubedout-2025-antibiotic-prophylaxis-early-complications]] — Dubedout 2025 · sr(이중맹검 위약대조 RCT 7편, n=1846) · 임플란트 술전 항생제 예방투약 → 조기 실패·합병증 유의 감소 없음(7편 중 0편 유의, 최근접 Nolan p=0.0515; 유의 1건은 D7 통증) — momand-2024 보강, esposito-2013·torof-2023과 상충 (DOI 10.1051/mbcb/2025032)
 - [[overviews/early-implant-failure-risk-prevention-overview]] — **NEW Overview**: 조기 임플란트 실패(보철 로딩 전) 위험인자·예방 종합 (7편). EIF는 골유착 *획득* 실패(후기 실패와 구분), 발생률 임플란트 단위 ≈1~4%. 결정인자는 숙주(흡연 OR 2.59·당뇨 RR 2.75·방사선 2.73)×골질/부위(후방상악·4형골·증대/부비동부위)×술식(즉시로딩 OR 3.42). 핵심 레버는 금연·부위/골질 인지 계획·보수적 로딩이며, 통상적 항생제 예방은 무효(NNT 143)·스튜어드십상 지양 (2026-06-22)
+- [[implants/survival/grigoras-2024-early-implant-failure-a-meta]] — Grigoras 2024 · retrospective(환자 213명·임플란트 810개, 7년, 루마니아 단일 개인병원) · 보철 전 비골유착 2.71%(22/810), 실패의 77.3%(17/22)가 전신질환자, 최다 실패 길이 10mm(40.9%), 성별 직경차 p<0.001. **주의: 당뇨·심혈관·고혈압 무관, 상·하악 동일, 여성 우세 — 주류 문헌(Manzano 상악 우세·남성 우세)과 상충하는 반증 데이터**; 제목은 "meta-analysis"나 실제는 단일 술자 후향 시리즈 (DOI 10.3390/jcm13071887)
+- [[implants/survival/scoffier-2026-aetiology-of-early-implant-failure]] — Scoffier 2026 · sr(scoping, PRISMA-ScR: 1,838편→962→28→**최종 8편**) · 6개월 내·보철 전 실패 원인 3영역 분류(국소=골치유장애·감염, 전신=숙주 취약성·유전 소인, 술기=수술 외상·부적절 초기 안정성). **핵심 기여는 "early implant failure"의 정의 자체가 연구마다 달라 합산 불가**라는 방법론적 경고 — 예방 레버는 초기 안정성·미세동요 억제·창상폐쇄·감염관리 (abstract-only) (DOI 10.1007/s00784-026-06992-8)
 
 ## 임플란트·표면 — UV 광기능화 (Photofunctionalization) surveillance batch (added 2026-06-22)
 - [[implants/surface/lang-2022-photofunctionalization-implant-stability-marginal-bone-loss-sr-ma]] — Lang 2022 · sr+ma(임상 7편, 5편 메타분석, 환자 430명/임플란트 734개) · UV 광기능화 (Photofunctionalization) 가 골유착지수 (OSI MD=2.13, p=0.007)·2개월 임플란트 안정성 지수 (ISQ MD=3.48, p=0.04) 유의 향상; 타 시점 안정성·변연골소실 (MBL) 은 비유의(이질성·비뚤림 높음) (DOI 10.3390/jcm11237042)
@@ -4881,6 +4883,7 @@ tags: []
 - [[drug/antibiotics/almadhoon-2026-antibiotic-prescribing-implant-surgery-sr-ma]] — Almadhoon 2026 · sr+ma (39편·치과의사 7266명·환자 137,207명) · 임플란트 수술 일상 항생제 처방 유병률 61.3%; 가이드라인 준수율 1–28% + 감소 추세; 술후 5–7일 요법 주류이나 단회 술전 대비 이득 없음 (DOI 10.1016/j.jdsr.2026.07.001)
 - [[drug/antibiotics/baker-2026-dentistry-amr-strategy-perspective]] — Baker 2026 · narrative-review (mBio) · 치과의사 전 세계 항생제 처방 ~10%; 치과가 AMR 국가행동계획 밖 "blind spot" → 4가지 전략 제안: 통합 지침·NAP 통합·교육·구강 레지스톰 감시 (DOI 10.1128/mbio.00647-26)
 - [[drug/antibiotics/ceccon-chianca-2026-oral-streptococci-ie-prophylaxis-resistance]] — Ceccon Chianca 2026 · in-vitro (in silico, 258균주) · IE 예방: 구강 연쇄구균 아목시실린 내성 0%; 아지스로마이신 24.88%·독시사이클린 16.59% 예측 내성 — 1차 요법 안전, 페니실린 알러지 대체약 재검토 필요 (DOI 10.1093/jac/dkag320)
+- [[drug/antibiotics/rocamillan-2021-systemic-antibiotic-prophylaxis-to-reduce]] — Roca-Millan 2021 · sr+ma (RCT 11편·환자 2144명/임플란트 4037개, PROSPERO CRD42021248348) · 항생제 예방투여가 조기 임플란트 실패 유의 감소 RR 0.30 (95% CI 0.19–0.47; I²=0%; 실패율 1.55% vs 4.61%)·술전 단회로 충분 RR 0.34·술전 vs 술전+술후 차이 없음 → 술후 연장 불필요 — 단 저위험-비뚤림 RCT 4/11편뿐이라 momand-2024(무효 RR 0.66)와 상충 (DOI 10.3390/antibiotics10060698)
 
 ## Batch ingest (added 2026-09-21) — 투명교정 서베일런스 2026-09 (5편 신규, 2편 기존중복)
 

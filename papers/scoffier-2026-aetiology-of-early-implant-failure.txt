@@ -1,0 +1,13 @@
+TITLE: Aetiology of early implant failure: a scoping review.
+AUTHORS: Jeanne Scoffier, Chloé Pontens, Sylvain Catros, François Rouzé l'Alzit
+JOURNAL: Clinical oral investigations
+ID[pmid]: 42414757
+ID[doi]: 10.1007/s00784-026-06992-8
+
+ABSTRACT (abstract-only — full text not retrieved)
+
+This scoping review aimed (i) to identify and synthesise the reported aetiological factors involved in early dental implant failure and (ii) to propose a structured classification of these aetiologies. [OBJECTIVES]
+This review followed the PRISMA-ScR guidelines. A systematic search was conducted in PubMed, Scopus and the Cochrane Library. Eligible studies included clinical studies in adult humans reporting implant loss occurring within 6 months and before prosthetic loading. Data extraction focused on study design, population characteristics, failure criteria, and reported aetiological factors. [MATERIALS AND METHODS]
+A total of 1,838 articles were identified, 962 articles were screened after deduplication, 28 articles was assessed for eligibility and finally 8 were included. Substantial heterogeneity was observed in the definition and assessment of early implant failure. The findings indicate that early implant loss is multifactorial, involving three interacting aetiological domains: local, systemic, and procedural factors. Local factors were mainly related to impaired bone healing and infection, systemic factors to host susceptibility and genetic predispositions, and procedural factors to surgical trauma and inadequate primary stability. [RESULTS]
+Early implant failure results from complex interactions among biological, mechanical, and host-related factors. An aetiology-based framework may improve understanding and prevention. [CONCLUSIONS]
+Clinical relevance: Identifying the multifactorial aetiology of early implant failure may help clinicians optimize primary stability, minimize micromovements during healing, and improve wound closure and infection control strategies in order to reduce the risk of early implant loss. [CLINICAL RELEVANCE]
