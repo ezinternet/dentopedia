@@ -1,0 +1,12 @@
+TITLE: Evaluation of the Association of Early Implant Failure With Local, Environmental, and Systemic Factors: A Retrospective Study.
+AUTHORS: da Rocha Costa Coelho Tayane, Almeida de Azevedo Roberto, Borges Maia Wolf Wanderley, Nunes Dos Santos Jean, Ramos Cury Patricia
+JOURNAL: Journal of oral and maxillofacial surgery : official journal of the American Association of Oral and Maxillofacial Surgeons 2021;79:1237-1245
+ID[pmid]: 33631136
+ID[doi]: 10.1016/j.joms.2021.01.027
+
+ABSTRACT (abstract-only - full text not retrieved)
+
+This study aimed to assess the association of early implant failure (EIF) with demographic, local, environmental, and systemic factors. [PURPOSE]
+Clinical charts of 594 individuals with 2,537 dental implants were assessed. EIF was characterized by implant loss before and up to the abutment connection. Logistic regression analysis was used to verify the association between EIF and local, environmental, and systemic factors at the individual and implant levels. The chosen level of significance was 5%. [METHODS]
+EIF occurred in 144 implants (5.68%) and in 97 individuals (16.3%). At the individual level, smoking habits (odds ratio [OR] = 2.54; 95% confidence interval [CI] = 1.00 to 6.47; P = .05), absence of postoperative antibiotic therapy (OR = 2.73; CI = 1.22 to 6.13; P = .02), and bone augmentation (OR = 1.83; CI = 1.17 to 2.85; P = .01) were significantly associated with EIF. At the implant level, smoking habits (OR = 2.90; CI = 1.60 to 5.26, P < .001), absence of postoperative antibiotic therapy (OR = 2.77; CI = 1.36 to 5.63, P = .005), postoperative complications (OR = 28.35; CI = 6.79 to 118.45, P < .001), implant length ≤8.5 mm (OR = 1.79; CI = 1.07 to 2.99; P = .03), and diameter <3.75 mm (OR = 1.65; CI = 1.08 to 2.52, P = .02) were associated with EIF. Age, sex, alcohol abuse, diabetes, hypertension, and long-term medication use were not associated with EIF at both individual and implant levels (P ≥ .12). [RESULTS]
+Smoking habits, absence of antibiotic therapy, bone augmentation, postoperative complications, implant diameter <3.75 mm, and implant length ≤8.5 mm were associated with EIF. Clinicians should be aware of these associations that should be controlled for when feasible. Future cohort studies are required to confirm the risk factors. [CONCLUSIONS]

@@ -1,0 +1,12 @@
+TITLE: Surgery start time and early implant failure: A case-control study.
+AUTHORS: Tattan Mustafa, Puranam Megha, Comnick Carissa, McBrearty Charles, Xie Xian Jin, Caplan Daniel J, Avila-Ortiz Gustavo, Elangovan Satheesh
+JOURNAL: Clinical oral implants research 2021;32:871-880
+ID[pmid]: 33949022
+ID[doi]: 10.1111/clr.13763
+
+ABSTRACT (abstract-only - full text not retrieved)
+
+To evaluate the influence of surgery start time (SST) and other patient- and therapy-related variables on the risk for early implant failure (EIF) in an academic setting. [OBJECTIVE]
+Data were extracted from the electronic health records of 61 patients who had at least one EIF and 140 age- and gender-matched, randomly selected, non-EIF controls. Bivariate and multivariable analyses were performed to identify relevant associations between EIF and different variables, such as SST. [MATERIAL AND METHODS]
+Incidence of EIF was not significantly associated with SST (HR: 1.9 for afternoon implant placement, 95% CI: 0.9-3.9; p = .105). Other factors that were associated with a significantly increased risk for EIF in a multivariable model were pre-placement ridge augmentation (HR: 7.5, 95% CI: 2.2-25.1; p = .001), intra-operative complications (HR: 5.9, 95% CI: 2.2-16.3; p < .001), simultaneous soft tissue grafting (HR: 5.03, 95% CI: 1.3-19.5; p = .020), simultaneous bone grafting (HR: 3.7, 95% CI: 1.6-8.8; p = .002), and placement with sedation (HR: 3.4, 95% CI: 1.5-7.5; p = .002). [RESULTS]
+While SST was not associated with the occurrence of EIF in our cohort, other variables, such as ridge augmentation prior to implant placement, simultaneous bone or soft tissue grafting, intra-operative complications, implant placement with sedation, and number of implants in the oral cavity, were associated with an increased risk for this adverse event. [CONCLUSIONS]

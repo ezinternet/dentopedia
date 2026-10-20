@@ -1,0 +1,12 @@
+TITLE: Genetic Polymorphisms Associated with Early Implant Failure: A Systematic Review.
+AUTHORS: Ferrer Nicolás, Aceituno-Antezana Oscar, Astudillo-Rozas Wilson, Valdivia-Gandur Ivan
+JOURNAL: The International journal of oral & maxillofacial implants 2021;36:219-233
+ID[pmid]: 33909711
+ID[doi]: 10.11607/jomi.8181
+
+ABSTRACT (abstract-only - full text not retrieved)
+
+Early implant failures have been observed in dental implant treatments even when the procedures are performed under appropriate conditions and in patients without local or systemic contraindications, suggesting that an intrinsic component of the patient could modify the osseointegration process. The objective of this systematic review was to analyze the association between early implant failure and genetic polymorphisms. [PURPOSE]
+A systematic search was performed in the PubMed, ScienceDirect, and Scopus databases using the PRISMA statement as the main guidelines and "Dental implant" AND "Polymorphism" as search terms. The search cutoff date was August 2019. In addition, the risk of bias, methodologic quality, and heterogeneity of the included studies were analyzed. [MATERIALS AND METHODS]
+The search strategy yielded 225 articles, and the titles and abstracts were reviewed to evaluate if they were relevant to the subject. Twenty-four articles were selected for a complete reading, of which 10 articles met the inclusion criteria. Finally, five studies citing the association of the following polymorphisms with early implant failure were chosen: G-1607GG of the MMP 1 gene, C-799T of the MMP 8 gene, and -77 A>G of the gene MMP 13. [RESULTS]
+The polymorphisms analyzed are from the promoter region, generating altered cellular transcriptional activity for MMP 1, MMP 8, and MMP 13, the effects of which are observed in inflammation and extracellular matrix degradation. Establishing a relationship between genetic polymorphisms and phenomena such as early implant loss is necessary for the development of precision medicine in the field of dentistry. [CONCLUSION]

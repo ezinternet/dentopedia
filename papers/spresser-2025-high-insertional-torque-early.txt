@@ -1,0 +1,9 @@
+TITLE: High insertional torque and early implant failure.
+AUTHORS: Spresser Wyatt J, Carr Brian R, Duhon Emily M, Neal Timothy W, Finn Richard A
+JOURNAL: Oral surgery, oral medicine, oral pathology and oral radiology 2025;140:539-543
+ID[pmid]: 40645843
+ID[doi]: 10.1016/j.oooo.2025.06.006
+
+ABSTRACT (abstract-only - full text not retrieved)
+
+In implant surgery literature, there is a lack of agreement with regard to the ideal insertional torque at which an endosseous implant is placed. Some believe lower torque values permit increased success, whereas others suggest the same for higher torque. This prospective observational study investigated the association between high insertional torque and early dental implant failure. A total of 207 implants were placed in 95 patients at the Veterans Affairs North Texas Health Care System in Dallas, TX, and were categorized into 2 groups: those placed with insertional torque ≥ 60 Newton-Centimeter (N-cm) and a control group with torque between 30 and 59 N-cm. The primary outcome was early implant failure, defined as exfoliation, mobility during stage 2 surgery, or the need for explantation prior to prosthetic loading. Results demonstrated a statistically significant 9-fold increased risk of early failure in the high torque group (odds ratio [OR] = 9.00, 95% confidence interval [CI] = 1.06-76.18, P = .043). These findings suggest that although higher torque values may offer greater primary stability, they may also contribute to bone resorption, impaired osseointegration, and soft tissue loss, thereby increasing the risk of early implant failure. (Oral Surg Oral Med Oral Pathol Oral Radiol YEAR;VOL:page range).

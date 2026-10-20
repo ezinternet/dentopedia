@@ -1,0 +1,12 @@
+TITLE: Low Insertional Torque and Early Dental Implant Failure.
+AUTHORS: Carr Brian R, Jeon-Slaughter Haekyung, Neal Timothy W, Gulko Joseph A, Kolar Nicholas C, Finn Richard A
+JOURNAL: Journal of oral and maxillofacial surgery : official journal of the American Association of Oral and Maxillofacial Surgeons 2022;80:1069-1077
+ID[pmid]: 35248500
+ID[doi]: 10.1016/j.joms.2022.02.001
+
+ABSTRACT (abstract-only - full text not retrieved)
+
+There is lack of uniformity regarding the ideal insertional torque with which dental implants need to be placed. The purpose of this retrospective analysis is to compare the incidence of early dental implant failures with an insertional torque less than 30 N-cm to implants placed with an insertional torque 30 N-cm or greater. [PURPOSE]
+A retrospective cohort study was conducted to evaluate dental implants placed between 2015 and 2016 at the Veterans Affairs North Texas Health Care System in Dallas. The primary predictor variable was dental implant insertional torque, measured at the time of implant placement as either greater than or equal to 30 N-cm or less than 30 N-cm. The primary outcome variable was early implant failure, defined as implant exfoliation noted by the patient or failure due to implant movement or pain necessitating explantation before prosthesis loading. The study conducted a time-to-event analysis to examine a group difference in time to implant failure between insertional torque group greater than or equal to 30 N-cm and less than 30 N-cm using Kaplan-Meir curves and a frailty model. The time to follow-up was censored at 6 months. [METHODS]
+One hundred three patients had 214 implants placed, with early failures occurring in 14 implants (6.5%). Implants placed with an insertional torque less than 30 N-cm were nearly 14 times more likely to have an early failure compared to implants placed with an insertional torque 30 N-cm or greater (hazard ratio = 13.909; 95% confidence interval, 1.835 to 105.416), which was statistically significant (P = .0108). [RESULTS]
+The results of this retrospective cohort study suggest that insertional torque values less than 30 N-cm are associated with early dental implant failures. Future, prospective studies will be performed to further elucidate the association between insertional torque and early dental implant failure. [CONCLUSIONS]

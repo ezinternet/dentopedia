@@ -1,0 +1,12 @@
+TITLE: Risk Factors for Early Dental Implant Failure.
+AUTHORS: Nyland Anja Nilsen, Lie Stein Atle, Gjerde Cecilie Gudveig
+JOURNAL: The International journal of oral & maxillofacial implants 2024;39:164-172
+ID[pmid]: 38416010
+ID[doi]: 10.11607/jomi.10418
+
+ABSTRACT (abstract-only - full text not retrieved)
+
+To report the prevalence of early implant failure and evaluate factors that contribute to the early failure of dental implants placed at a teaching clinic. The study also aims to identify risk indicators for early implant loss to better predict and prevent early implant loss in the future. [PURPOSE]
+This retrospective study included all patients with a dental implant placed by the Section of Oral Surgery and Oral Medicine, Department of Clinical Dentistry, University of Bergen, between January 2011 and December 2018. All information was collected from operation logbooks and from patient records. A failed implant in this study was defined as an implant lost before functional loading. [MATERIALS AND METHODS]
+A total of 1,005 dental implants were placed in the studied time period, of which 54 failed early, giving an early failure rate (EFR) of 5.4%, with functional loading obtained for the remaining 94.6%. Analysis showed an increased hazard for early implant failure among smokers, men, and younger patients. With an age increase of 10 years, the risk of implant failure was reduced by 14% (hazard ratio [HRR] = 0.86, P = .037). A higher failure rate was found in anterior maxillary implants than in posterior maxillary implants (7.79% vs 3.29%, respectively; HRR = 0.47; P = .041). The probability for early failure in the posterior mandible was significantly increased compared to the posterior maxilla (HRR = 3.68, P = .005). If the first implant failed, it was more likely that the consecutive implant would also fail (HRR = 1.82). In the study, 53.4% of the placed implants were Straumann (EFR = 5.2%), 30.3% were Nobel Biocare (EFR = 7.2%), and 16.3% were Astra Tech (EFR = 2.5%). [RESULTS]
+This study found that younger, male, and smoker patients were associated with an increase in early failure of dental implants. Significantly increased failure rates were also seen for implants placed in the mandible, and there were differences with respect to implant system. Although differences were found in early failure both for patient- and implant-related factors, the overall early failure rate (5.4%) in this study was low. [CONCLUSIONS]
