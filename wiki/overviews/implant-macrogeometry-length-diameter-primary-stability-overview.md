@@ -2,7 +2,7 @@
 title: "Implant Macrogeometry (Length · Diameter · Insertion Torque) → Primary Stability / ISQ — Determinant Synthesis"
 authors: Synthesis (Damian Lee)
 year: 2026
-date: 2026-07-15
+date: 2026-10-20
 doi: N/A
 source: N/A
 category: overviews
@@ -44,11 +44,12 @@ relations:
 > - **IT ≠ 2차 안정성**: Gómez-Polo — IT는 1차 ISQ와 상관(r=0.56)하나 2차 ISQ와는 무상관(r=0.14, NS). IT를 골유착 예측 지표로 오용 금지.
 > - **임상 함의**: 저밀도골·상악에서는 (a) 좁은 직경 회피, (b) 필요 시 길이 확보(연질골 한정 효과), (c) tapered/피질골 고정으로 1차 안정성 보강. 치밀골에서는 길이 증가로 얻는 이득 거의 없음.
 > - 이 페이지는 [[overviews/implants-isq-stability-ladder]]의 "영향 변수" 축을 macrogeometry 관점에서 심화한 것 — 측정 도구·부하 임계값 결정은 ladder 및 [[overviews/isq-loading-threshold]] 참조.
-> - 근거등급: 임상 RFA 4편(전향/후향/체외) + FEA 4편 — 결론(직경>길이)은 임상 [확인], 절대 응력 수치는 FEA 모델 상대값이라 임상 임계값 아님.
+> - 근거등급: 임상 RFA 4편(전향/후향/체외) + FEA 4편 (+2026-10-20 보강 4편) — 결론(직경>길이)은 임상 [확인], 절대 응력 수치는 FEA 모델 상대값이라 임상 임계값 아님.
+> - 2026-10-20 보강: 체계적 문헌고찰 (Systematic Review, SR; 유한요소해석 40편, Qiu 2024) — 직경이 피질골 응력·치조정 과부하를 좌우하고 길이는 해면골 응력 (D3/D4에서 길이 효과 증가); 테이퍼가 정규화 식립 토크 (Insertion Torque, IT)를 지배, 직경은 원시 IT에 더 기여 (Yang 2024, in vitro); 50 Ncm 초과 토크는 ISQ 이득 없이 실패·나사풀림만 집중 (Baldi 2018, 테이퍼 칼날나사); 골수준 vs 조직수준 임플란트는 1차 안정성 차이 없음 (Elkattan 2026, 파일럿 RCT). [확인]
 
 ## Three-line Summary
 
-Determinant synthesis of 8 papers (4 clinical/RFA + 4 in-vitro/FEA) on whether implant diameter or length governs primary stability/ISQ: across every clinical study that tested it, **diameter is the significant driver (narrower = worse) while length is repeatedly non-significant** or significant only in soft bone — Gómez-Polo 2016 (n=88 implants) IT 26.5→33.8 N/cm for 3.75→4.25 mm (p=.002); Huang 2016 (n=329) diameter the strongest secondary-ISQ predictor (β=0.414); Quesada-García 2012 (n=235) narrow diameter → lower 12-week ISQ (P<.001); Barikani 2013 length effect present only in D3 bone.
+Determinant synthesis of 8 core papers (4 clinical/RFA + 4 in-vitro/FEA; plus 4 added 2026-10-20: Qiu SR, Yang, Baldi, Elkattan) on whether implant diameter or length governs primary stability/ISQ: across every clinical study that tested it, **diameter is the significant driver (narrower = worse) while length is repeatedly non-significant** or significant only in soft bone — Gómez-Polo 2016 (n=88 implants) IT 26.5→33.8 N/cm for 3.75→4.25 mm (p=.002); Huang 2016 (n=329) diameter the strongest secondary-ISQ predictor (β=0.414); Quesada-García 2012 (n=235) narrow diameter → lower 12-week ISQ (P<.001); Barikani 2013 length effect present only in D3 bone.
 
 Bone quality is the first-order determinant of primary/mechanical stability (dense bone yields much higher ISQ/IT: Barikani D1≫D3 p≤0.001; Gómez-Polo type 1+2 IT 34.9 vs type 4 20.6 N/cm) but its influence fades by the osseointegrated timepoint (Gómez-Polo secondary-ISQ bone effect NS; Huang bone type NS at both times); insertion torque correlates with primary ISQ (r=0.56) but not secondary ISQ (r=0.14, NS) — IT is not a proxy for osseointegration.
 
@@ -89,6 +90,8 @@ Dense bone produces markedly higher primary ISQ/IT: Barikani D1 ≫ D3 (p≤.001
 
 Gómez-Polo: IT ↔ primary ISQ r=0.56 (P<.01, R²≈32%) but IT ↔ secondary ISQ r=0.14 (P=.097, **NS**). High placement torque buys mechanical primary stability, not osseointegration — do not read a high IT as a guarantee of the biological outcome. (This complements the wider ISQ↔IT decoupling documented in the ladder overview.)
 
+The upper end of torque is not benign either: in a multicenter prospective series of tapered knife-edge implants (n=75), the high-torque group (>50 Ncm, mean 68.2) gained no extra ISQ over the moderate group (78.0 vs 75.6), contained both implant failures (IT 77–80 Ncm) and most screw-loosening events, and the IT–ISQ correlation was significant only in the 30–50 Ncm band (ρ=0.481) (Baldi 2018) — a design-specific ceiling, not a universal "more torque is better" rule.
+
 ### 4. FEA does not settle the length question — it inverts
 
 The four modelling papers show the length↔stress relationship is design- and bone-dependent, not monotonic:
@@ -96,15 +99,19 @@ The four modelling papers show the length↔stress relationship is design- and b
 - **Singh 2024** (2D FEA, D4 posterior maxilla, immediate load): 10 mm implants consistently *lower* interface stress than 6 mm — step design von Mises 188 → 35 MPa (vertical); micromovement 36% lower. Longer is better in soft bone with adequate height.
 - **Kavitha 2023** (3D FEA, one-piece immediate-load, homogeneous bone): 12 mm *raised* peak neck stress vs 10 mm (1.76 vs 1.32 MPa); diameter 3.75→4.25 mm negligible (1.77 vs 1.79 MPa). A direct counterexample to "longer/wider = less stress."
 - **Sahoo 2024** (in-vitro + FEA): orthogonal — finds **loading direction** (oblique 2.6–3.9× vertical micromotion), not geometry or tilt, dominates micromotion; abutment displacement ≠ micromotion.
+- **Qiu 2024** (SR of 40 FEA/in-vitro studies, 2003–2023): diameter governs cortical-bone stress and crestal overloading, length governs cancellous-bone stress; overall diameter dominates, and short wide implants produced lower stress than long narrow ones; length gains more relevance in D3/D4 bone. This is the pooled direction behind items 1–2 of the Results hierarchy and makes Kavitha's "diameter negligible" look like a single-model outlier (homogeneous bone, one-piece design) rather than the rule [미검증: 필자 해석] — but it is a qualitative SR of heterogeneous FEA, so the same model-relative caveat applies.
+- **Yang 2024** (3D explicit FEA + in-vitro insertion, polyurethane foam, Ø3.5/4.3 mm, parallel vs tapered): *normalized* insertion torque is dominated by taper (β₂=0.93) while *raw* insertion torque is driven more by diameter (β₁=0.78); taper also extends the compressive stress field further from the thread. This gives a mechanical reason for Results item 3 (tapered bodies raise placement torque) and separates the "diameter" and "taper" levers that clinical series conflate. In vitro, foam model only.
 - Absolute MPa in FEA are model-relative (homogeneous, isotropic, linear-elastic assumptions) and are **not** clinical stress thresholds.
 
 ### 5. Device and drill-diameter confounds (de-Elío 2023)
 
 In a split-mouth study, parallel implants showed higher IT than tapered (P<.05) — but the design built in a final-drill-diameter difference (3.25 mm parallel vs 3.4 mm tapered), so the apparent "macrogeometry" effect is plausibly a drilling artifact. Between-group ISQ did not differ (P>.05). Critically, **Osstell and Penguin RFA values differed significantly from each other (P<.001) — the two devices are not interchangeable**, reinforcing the ladder's "pick one device and stay on it" rule.
 
+A pilot parallel-group RCT (21 patients, 90 implants) found bone-level vs tissue-level implants of one system had no ITV difference (36.0 vs 38.0 Ncm, p=0.381) or baseline ISQ difference; 90-day horizontal ISQ was marginally higher for tissue-level (66.5 vs 57.1, p=0.029), and ITV correlated with baseline ISQ (r=0.493) but not 90-day ISQ (Elkattan 2026). Platform design therefore does not appear to govern primary stability, and the ITV→secondary-ISQ decoupling in section 3 is reproduced — but the study had no a priori power calculation, so treat it as feasibility-level.
+
 ## Methodology
 
-Narrative determinant synthesis (no pooled meta-analysis; heterogeneous designs). Evidence base: 4 clinical (1 in-vitro RFA bench, 2 prospective, 1 retrospective regression) + 4 modelling (2D/3D FEA ± in-vitro). Two clinical sources (de-Elío, Quesada-García) are abstract-only, so directionality is captured but not effect sizes. Numbers are quoted verbatim from each source page; FEA stress magnitudes are reported as within-model relative values only.
+Narrative determinant synthesis (no pooled meta-analysis; heterogeneous designs). Evidence base (original 2026-07 synthesis; 2026-10-20 additions: Qiu 2024 SR, Yang 2024 in vitro/FEA, Baldi 2018 prospective, Elkattan 2026 pilot RCT): 4 clinical (1 in-vitro RFA bench, 2 prospective, 1 retrospective regression) + 4 modelling (2D/3D FEA ± in-vitro). Two clinical sources (de-Elío, Quesada-García) are abstract-only, so directionality is captured but not effect sizes. Numbers are quoted verbatim from each source page; FEA stress magnitudes are reported as within-model relative values only.
 
 ## Results
 
@@ -128,6 +135,10 @@ Narrative determinant synthesis (no pooled meta-analysis; heterogeneous designs)
 - [[implants/short-narrow/kavitha-2023-outcome-implant-diameter-length-distribution]] — FEA; longer implant slightly raised neck stress, diameter negligible
 - [[implants/sahoo-2024-finite-element-analysis-influence-implant]] — FEA; loading direction dominates micromotion, not geometry
 - [[implants/singh-2024-influence-implant-design-length-stress]] — FEA; longer implants lower interface stress in D4 bone
+- [[implants/qiu-2024-comprehensive-biomechanical-evaluation-length-diameter]] — SR of 40 FEA studies; diameter dominates stress, length matters more in D3/D4 (sr, 2024)
+- [[implants/yang-2024-implant-diameter-tapered-stress-insertion]] — in vitro + FEA; taper dominates normalized IT, diameter dominates raw IT (in-vitro, 2024)
+- [[implants/isq/baldi-2018-insertion-torque-isq-tapered-knife-edge]] — prospective n=75; >50 Ncm adds no ISQ, all failures in high-torque group (prospective, 2018)
+- [[implants/isq/elkattan-2026-insertion-torque-isq-bone-level]] — pilot RCT; bone- vs tissue-level no ITV/baseline-ISQ difference (rct, 2026)
 
 ## Related Overviews
 
