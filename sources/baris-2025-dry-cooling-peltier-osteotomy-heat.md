@@ -16,7 +16,7 @@ text_filename: baris-2025-dry-cooling-peltier-osteotomy-heat.txt
 
 ## Why Ingested
 
-This study introduces a novel thermoelectric dry cooling (DC) system based on a Peltier module as an alternative to saline irrigation for controlling heat during dental implant osteotomy — the first in vitro evaluation of this concept. It directly expands the evidence base covered in [[wiki/overviews/osteotomy-drilling-heat-determinants-irrigation-overview]].
+This study introduces a novel thermoelectric dry cooling (DC) system based on a Peltier module as an alternative to saline irrigation for controlling heat during dental implant osteotomy — the first in vitro evaluation of this concept. It directly expands the evidence base covered in [[overviews/osteotomy-drilling-heat-determinants-irrigation-overview]].
 
 ## Three-line Summary
 
