@@ -2,7 +2,7 @@
 title: "Zirconia Types — 3Y vs 4Y vs 5Y vs UHTZ Clinical Selection"
 authors: Synthesis (Damian Lee)
 year: 2026
-date: 2026-05-26
+date: 2026-10-20
 doi: N/A
 source: N/A
 category: overviews
@@ -27,6 +27,7 @@ tags: [dental-materials, zirconia, 3y-tzp, 4y-psz, 5y-psz, uhtz, monolithic, tra
 > - 축⑤ 접착: 모든 grade 공통 APC(Air-abrasion 50µm Al₂O₃ 1-2 bar + MDP primer + resin cement). 5Y-PSZ도 cubic이지만 hydroxyl group 노출로 MDP 화학결합 유지(Comba 2021) — "5Y는 cubic이라 MDP 약하다"는 오판. 상세 SOP는 ladder 축 1 위임.
 > - 한국 가용성: Katana(STML/UTML, 전치부 1순위), IPS e.max ZirCAD(Prime 4Y·MT Multi·LT 3Y), BruxZir(수입 monolithic 3Y/4Y), 국산(DDS·HASS 등 3Y-TZP 후방부).
 > - 확신도: 축①~④ = 근거강함(재료과학·SR+MA·umbrella·5y), 축⑤ 접착 = 합의수준(in vitro 중심, 임상 RCT 부족), 한국 가용성 = 미검증.
+> - 2026 임상 데이터 보강: 지르코니아 단관 생존 92.9–98.7% (≤10년, Ma 2026 SR+MA, GRADE 매우 낮음); 후방 임플란트 FDP에서 monolithic Zr 칩핑 0% vs PFM 13%/Ti-세라믹 11% (Pachiou·Kowar 2026 RCT, 유의성 없음); 후방 임플란트 단관 Zr vs 리튬디실리케이트 (Lithium Disilicate, LS) 3년 비열등 (Yi 2026) — 이들 연구는 grade 비층화이므로 grade 선택 근거가 아니라 monolithic vs veneered 선택 근거. [확인]
 
 ## Three-line Summary
 
@@ -169,6 +170,16 @@ Clinical error patterns to avoid: placing UHTZ in posterior high-load sites; "zi
 
 **오판 패턴**: "5Y-PSZ 는 cubic 이라 MDP 약하다" — Comba 2021 반박. Cubic 도 hydroxyl group 노출되어 MDP 반응. [확인]
 
+### 축 2 보강 — 2026 임상 결과 데이터 (grade 비층화)
+
+grade별 강도 spectrum(축 1)은 in vitro 중심이므로, 최신 임상 데이터가 위 매트릭스를 어디까지 지지하는지 점검한다. **아래 연구들의 요약에는 3Y/4Y/5Y grade 구분이 명시되어 있지 않다 — grade 선택 근거가 아니라 "monolithic 지르코니아" 범주의 임상 성적이다.** [확인: 각 source 세줄요약; grade 세부는 미확인]
+
+- **전체 생존율 (Ma 2026 SR+MA, 66편)**: 단관 92.9–98.7% (≤10년), IRFPD 89.0% (10년), 연속 cantilever/CFPD 50–52% (9–13년)로 합병증 최다. APA+MDP 표면처리가 단기 단관(98.6%)·IRFPD(98.1%) 생존율 최고, 주 합병증은 탈락·칩핑. GRADE 매우 낮음 — 방향 신호. → 축 5(접착) 및 "FPD 칩핑 회피 = monolithic" 논지와 일치.
+- **임플란트 후방 FDP — veneering 칩핑 (Pachiou 2026 RCT, 3년; Kowar 2026 RCT, 1년)**: monolithic 지르코니아 칩핑 0%, PFM 13% (p=0.11, 3년) / 티타늄-세라믹 11.1%, veneered Zr 5% (1년). 소규모·유의성 없음 → "monolithic으로 칩핑 회피" 방향 지지, 확정 아님.
+- **후방 임플란트 단관 — 지르코니아 vs 리튬디실리케이트 (Yi 2026 split-mouth RCT, 3년, n=40)**: ΔMBL ZrO₂ −0.62 vs LS −0.36 mm, 차이 0.26 mm (95% CI −0.17~0.70), 비열등성 — 양군 파절·칩핑·탈락 없음. → 축 2 표의 "Implant abutment crown → 3Y-TZP (강도 우선)"는 **강도 근거이지 임상 우열 근거가 아님**: 3년 시점 단관에서는 LS도 비열등.
+
+임상 takeaway: 후방 임플란트 보철에서 grade 선택보다 **monolithic vs veneered** 선택(칩핑)이 3년 내 더 뚜렷한 차이를 보이며, 단관은 재료 간 차이가 작다. [미검증: 본 문장은 위 3편의 종합적 추론]
+
 ## Phase 2 확장 후보 (Stub)
 
 - [ ] `wiki/overviews/cad-cam-thickness-failure-threshold.md` — 두께-파절 dose-response 정량 (axial · occlusal · connector 별).
@@ -201,6 +212,10 @@ Clinical error patterns to avoid: placing UHTZ in posterior high-load sites; "zi
 - [[dental-materials/zirconia/steiner-2024-zirconia-conditioning-glazing-enamel-wear]] — 유약 wear 역설
 - [[dental-materials/zirconia/badawy-2025-enamel-wear-zirconia-endocrowns-2year]] — Endocrown wear 2y
 - [[dental-materials/ceramic/blatz-2018-resin-bonding-high-strength-ceramics-review]] — APC concept
+- [[prosthetic-materials/ma-2026-clinical-outcomes-zirconia-restorations-sr-ma]] — 지르코니아 보철 생존율·합병증 SR+MA (2026)
+- [[prosthetic-materials/pachiou-2026-monolithic-zirconia-pfm-implant-fdp-rct]] — monolithic Zr vs PFM 임플란트 FDP 3년 RCT
+- [[prosthetic-materials/kowar-2026-monolithic-veneered-zirconia-titanium-ceramic-fdp-rct]] — monolithic vs veneered Zr vs Ti-ceramic FDP 1년 RCT
+- [[prosthetic-materials/yi-2026-split-mouth-rct-zirconia-lithium-disilicate]] — 후방 임플란트 단관 Zr vs LS 3년 split-mouth RCT
 
 ### Related overviews / interactives
 
