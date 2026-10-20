@@ -2,7 +2,7 @@
 title: "EAL 근관장 측정 프로토콜: 근거 기반 총정리"
 authors: synthesis (llm-wiki)
 year: 2026
-date: 2026-05-13
+date: 2026-10-20
 type: overview
 category: [overviews]
 tags: [EAL, working-length, apex-locator, apical-constriction, RootZX, protocol]
@@ -121,6 +121,8 @@ crown ←───────────────────────�
 | CBCT vs EAL | 동등; 평균 차이 0.51mm (Amin 2019) |
 | EAL (유치) | 허용 가능하나 근거 수준 낮음 |
 
+**환자 불편 (Nalçacı Çalık 2026 RCT, n=125)**: EAL 4기종과 치근단 방사선 사이에 환자 통증·불편 차이 없음 — EAL은 방사선 없이 환자 경험이 동등한 대안. (술후 통증 축은 [[overviews/endodontic-postoperative-pain-overview]] 참조.) [확인: source 세줄요약]
+
 ---
 
 ## 5. 정확도를 떨어뜨리는 조건들
@@ -201,6 +203,7 @@ crown ←───────────────────────�
 ---
 
 ## 관련 페이지
+- [[endodontics/eal/nalci-calik-2026-eal-vs-radiography-working-length-rct]] — RCT n=125: EAL 4기종 vs 방사선, 환자 통증 동등
 - [[endodontics/eal/ahn-2016-survey-working-length-determination]]
 - [[endodontics/eal/versiani-2022-wireless-apex-locator-micro-ct-accuracy]]
 - [[endodontics/eal/pisano-2024-eal-accuracy-modern-endodontics-umbrella]]
