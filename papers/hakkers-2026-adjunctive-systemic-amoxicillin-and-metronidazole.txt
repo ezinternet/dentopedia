@@ -1,0 +1,208 @@
+TITLE: Adjunctive Systemic Amoxicillin and Metronidazole Following Surgical Peri‐Implantitis Treatment: A Single‐Blind Randomised Controlled Trial With a 1‐Year Follow‐Up
+AUTHORS: Hakkers Jarno, de Waal Yvonne C. M., Gareb Barzi, Meijer Henny J. A., Raghoebar Gerry M.
+JOURNAL: Journal of Clinical Periodontology
+ID[pmcid]: PMC12972598
+ID[pmcid-ver]: PMC12972598.1
+ID[pmcaid]: 12972598
+ID[pmcaiid]: 12972598
+ID[pmid]: 41531146
+ID[doi]: 10.1111/jcpe.70100
+ID[publisher-id]: JCPE70100
+ID[other]: CPE-06-25-13630
+
+## ABSTRACT
+ABSTRACT
+AimTo analyse the effect of systemic amoxicillin and metronidazole on surgical peri‐implantitis treatment with a follow‐up period of 1 year.
+Materials and MethodsFifty‐nine patients were randomly assigned to receive peri‐implantitis surgery supplemented with (29 patients; test) or without (30 patients; control) systemic amoxicillin and metronidazole, in cases with no, one‐wall or two‐wall bony defects. Primary outcomes were mean peri‐implant probing pocket depth (PPD) and mean peri‐implant bleeding on probing (BOP); secondary outcomes included disease resolution (composite treatment outcome: residual probing depths ≤ 5 mm; no BOP in one or more probing site; no suppuration on probing), suppuration on probing (SOP) and radiographic marginal bone levels (MBLs), evaluated 3, 6, 9 and 12 months postoperatively (T3, T6, T9, T12). Linear and logistic mixed‐effects models were employed.
+ResultsBetween‐group analyses showed that BOP was significantly lower in the test group compared to the control group at T9 (β = −10.57%, 95% CI: −20.17 to −0.97, p = 0.03) and T12 (β = −14.47%, 95% CI: −25.9 to −3.04, p = 0.01). No other parameters in the mixed‐effects models showed statistically significant differences between groups at any timepoint.
+ConclusionAccess‐flap peri‐implantitis surgery supplemented with systemic amoxicillin and metronidazole led to a statistically significant reduction in peri‐implant BOP after 1 year, whereas no other parameters showed statistically significant differences between groups at any timepoint. The clinical implications of these differences should be interpreted with caution, as the isolated short‐term effect does not translate into broader or sustained clinical benefit and must be weighed against the risks associated with systemic antibiotic use.
+
+## Introduction
+
+Peri‐implantitis is defined as a plaque‐associated pathological condition affecting the tissues around dental implants, characterised by increased peri‐implant probing depth (PPD), bleeding (BOP) and/or suppuration upon probing (SOP) and progressive loss of the supporting bone (Berglundh et al. 2018). Over the years, various non‐surgical and surgical treatment protocols have been developed; however, their effectiveness in achieving consistent and long‐term success has proven to be unreliable (Garaicoa‐Pazmino et al. 2025). To improve the effectiveness of surgical peri‐implantitis treatment, several adjunctive measures have been studied. In acknowledging the influence of the peri‐implantitis microbiome on disease progression (Belibasakis and Manoil 2020), one such measure is the adjunctive use of systemic antibiotics.
+
+When peri‐implantitis occurs, the microbiome shifts towards a predominantly anaerobic composition, featuring a high prevalence of non‐cultivable gram‐negative species. In addition, the distinct microbial community in peri‐implantitis consists of both periodontal pathogens and site‐specific pathogens (Belibasakis and Manoil 2020). The combination of amoxicillin and metronidazole has been widely studied in the context of periodontal therapy, where it has demonstrated synergistic effects against anaerobic pathogens (Zhao et al. 2021; Zandbergen et al. 2016). This synergy provides the rationale for its use, aiming to target a broad spectrum of microorganisms potentially involved in advanced peri‐implant infections (Rakic et al. 2016; Albertini et al. 2015). In periodontitis, systemic amoxicillin and metronidazole have demonstrated effectiveness in reducing red complex species as well as 
+Aggregatibacter actinomycetemcomitans
+ (Herrera, van Winkelhoff, et al. 2023; van Winkelhoff et al. 2014). However, the evidence for their use in peri‐implantitis treatment is narrow. Carcuac et al. (2017) presented 3‐year results of a randomised controlled trial (RCT) evaluating adjunctive amoxicillin in peri‐implantitis treatment and concluded that the potential benefits of their antibiotic regimen were not sustained over 3 years (Carcuac et al. 2017). In another randomised, placebo‐controlled trial, it was concluded that systemic amoxicillin and metronidazole improved radiographic marginal bone level (MBL) stability after 12 months (Riben Grundström et al. 2024). However, both studies employed different decontamination strategies and antibiotic regimens.
+
+There is currently insufficient high‐quality evidence to support or refute the use of systemic antibiotic usage in peri‐implantitis treatment to guide evidence‐based decisions. Therefore, the aim of this study was to analyse the influence of systemic amoxicillin and metronidazole on surgical peri‐implantitis treatment involving no, one‐wall and two‐wall defects with a follow‐up period of 1 year.
+
+## Materials and Methods
+
+### Trial Design
+
+This two‐armed, parallel, investigator‐blinded RCT (1:1) compared surgical peri‐implantitis treatment with or without adjunctive amoxicillin and metronidazole in patients with no, one‐wall or two‐wall peri‐implant bone defects.
+
+### Participants
+
+Between January 2020 and August 2023, 123 patients referred to the Department of Oral and Maxillofacial Surgery (OMF‐surgery), University Medical Center Groningen (UMCG), were screened for eligibility. The last follow‐up visit took place in January 2025. Peri‐implantitis was diagnosed as follows: presence of bleeding and/or suppuration on gentle probing, increased probing depth compared to previous examinations and the presence of bone loss beyond crestal bone level changes resulting from initial bone remodelling. In the absence of previous examination data, peri‐implantitis was diagnosed based on the following criteria: the presence of bleeding and/or suppuration on gentle probing, probing depths of ≥ 6 mm and bone levels ≥ 3 mm apical of the most coronal portion of the intraosseous part of the implant (Berglundh et al. 2018). The assessment of the bone defects was derived from the classification proposed by Monje et al. (2019): implants with no, one‐walled or two‐walled defects were included (Monje et al. 2019).
+
+### Eligibility Criteria
+
+Conducted at the OMF department of UMCG, all participants first underwent non‐surgical submarginal instrumentation (NSI, see below). Patients not meeting predefined success criteria after NSI (residual probing depths ≤ 5 mm, no BOP in one or more probing sites and no SOP; Herrera, Berglundh, et al. 2023) were eligible for inclusion. The study was approved by the UMCG Medical Ethical Committee (METc no. 2019/625, approved on 20 February 2020) and registered in the Overview of medical research in the Netherlands (NL‐OMON27505). It followed CONSORT 2025 guidelines (Hopewell et al. 2025) and was written in accordance with the Declaration of Helsinki. Exclusion criteria were as follows: medical contraindications, prior head and neck radiotherapy, pregnancy and/or lactation, uncontrolled diabetes mellitus (HbA1c < 7% or < 53 mmol/mol), intravenous bisphosphonate use, allergies to amoxicillin, metronidazole or chlorhexidine, long‐term anti‐inflammatory drug use, poor oral hygiene capability due to physical or mental disorders, severe bone loss of more than two‐thirds of the implant length, prior surgical peri‐implantitis treatment and chronic bronchitis/asthma. Post‐NSI exclusions were the following: no longer fulfilling peri‐implantitis diagnosis criteria and/or active periodontal disease, despite previous NSI.
+
+### Interventions
+
+Before surgery, all patients received non‐surgical treatment, including oral hygiene instruction, periodontal cleaning and a single mechanical peri‐implant debridement using hand instruments and an air polishing device (Airflow, Airflow Master Piezon, EMS, Nyon, Switzerland) with an erythritol‐based powder containing 0.3% chlorhexidine (PLUS Powder, EMS). Screw‐retained suprastructures were removed to improve surgical access. Two experienced clinicians (G.R. and Y.d.W.) performed the surgeries under local anaesthesia (articaine, Ultracain D‐S Forte, Sanofi S.A., Paris, France). A full‐thickness flap was elevated, granulation tissue and calculus were removed using titanium curettes (Hu‐Friedy, Chicago, IL, USA) and the implant surface was debrided with an air‐polishing device (Airflow Master Piezon) until macroscopically clean. Thereafter, 35% phosphoric acid (Temrex gel, Temrex, Freeport, NY, USA) was applied to the implant surface for 1 min and rinsed with saline, followed by a final air polishing step. Bone defect dimensions were determined. Flaps were sutured, and suprastructures were reattached by an experienced prosthodontist (H.M.). Randomisation followed via sealed envelopes (see below). The test group received amoxicillin/metronidazole (500/500 mg) three times daily for 1 week, starting immediately after surgery. All patients received an antiseptic mouthwash (PerioAid, Dentaid S.L., Barcelona, Spain) to use twice daily for 2 weeks. Sutures were removed at 2 weeks, and oral hygiene was reinforced. Antibiotic adherence was checked by requesting patients to bring empty packaging.
+
+### Outcomes
+
+The primary outcomes of the study were the mean PPD (mm) or BOP (%). While mean BOP was the initial primary outcome, this adjustment was made after study initiation to align with updated clinical guidelines emphasising pocket depth reduction as a principal indicator of disease resolution in peri‐implantitis therapy (Herrera, Berglundh, et al. 2023). The change has been transparently reported here. Secondary outcomes included a composite outcome defining disease resolution, based on the end points of surgical peri‐implantitis treatment as suggested by Herrera, Berglundh, et al. (2023) (residual probing depths ≤ 5 mm; no BOP at one or more probing sites; no SOP), mean peri‐implant SOP (%), peri‐implant MBL (mm), mean peri‐implant plaque score (Plq) (%), mid‐buccal recession (REC) (mm), mid‐buccal width of the keratinised tissue (KM) (mm), full‐mouth mean periodontal PPD (mm), full‐mouth periodontal BOP (%) and full‐mouth periodontal Plq (%). See the Appendix for additional information regarding data collection and outcomes.
+
+### Sample Size
+
+Sample size calculation was done following Hentenaar et al. (2022). In short, the sample size calculation was based on patients in verified need of surgical therapy, pertaining to a continuous outcome. The required number of participants for this study was determined through a sample size and power calculation based on a multilevel linear regression model. This model follows a hierarchical structure, with implants nested within patients. Assuming an average of two infected implants per patient, at least 51 patients are needed to achieve 80% power to detect a medium effect size (0.5) at a significance level of 5%. It is estimated that approximately 10% of patients will respond adequately to non‐surgical therapy alone, eliminating the need for subsequent surgical treatment. Additionally, an anticipated dropout rate of 10% has been accounted for. To ensure an adequate transition from the non‐surgical to the surgical phase, the study therefore aimed to include 61 patients.
+
+### Randomisation
+
+Patients were randomly assigned to receive either surgical peri‐implantitis treatment with systemic amoxicillin and metronidazole (test) or without systemic amoxicillin and metronidazole (control) via randomisation with a fixed block size of four. Sealed, computer‐generated coded envelopes containing notes indicating either ‘antibiotics’ or ‘no antibiotics’ were opened at the end of the procedure by an operator assistant. The investigator and assessor of outcomes (J.H.) was blinded to group allocation. A list containing the decoding procedure was kept sealed for the duration of the trial follow‐up.
+
+### Statistical Methods
+
+The distribution of continuous variables was assessed through visual inspection of Q–Q plots and the Shapiro–Wilk test. Variables with a normal distribution were summarised using means and standard deviations (SDs), whereas non‐normally‐distributed continuous variables were reported as medians with 25th–75th percentiles (P25–P75). The non‐normally‐distributed data were compared between groups using the Mann–Whitney U test. Linear and logistic mixed‐effects models were employed to evaluate the effects of the interventions on repeated measurements of the primary and secondary outcomes. Models included fixed effects for treatment group and time (in months). Interaction terms between treatment group and time were incorporated only if their inclusion significantly improved model fit, as determined by likelihood ratio tests. Random effects were specified for participants, with implants modelled as nested within participants. Marginal effects of the difference between treatment groups at specific timepoints, including corresponding p‐values, were derived by centring the follow‐up variable for each specific timepoint. For mixed logistic regression models, odds ratios (ORs) with 95% CI are reported. Model assumptions were tested and confirmed. A two‐tailed p‐value ≤ 0.05 was considered statistically significant. Missing data at follow‐up were handled using the last observation carried forward (LOCF) approach, in accordance with the intention‐to‐treat principle. All analyses were conducted using R (version 4.4.3; R Core Team, R Foundation for Statistical Computing, Vienna, Austria), with the lme4 package (Bates et al. 2015). Based on the clinical practice guidelines indicating that systemic antibiotics may provide additional benefit during non‐surgical peri‐implantitis treatment in cases with baseline probing depths ≥ 7 mm or the baseline presence of suppuration, post hoc subgroup analyses were conducted to explore whether a similar benefit could be observed during the surgical treatment phase (Herrera, Berglundh, et al. 2023). Post hoc analyses were conducted at the implant level using independent‐samples t‐tests, Fisher's exact tests and Mann–Whitney U tests to compare clinical outcomes between test and control groups, stratified by baseline peri‐implant PPD ≥ 7 mm and baseline presence of suppuration. Additionally, implant‐level bleeding sites (0–6) were recorded, and mean values with SDs were calculated per group. A post hoc independent‐samples t‐test was applied to compare mean bleeding counts between groups. Furthermore, implants were categorised based on the presence of two or more bleeding sites, and group differences in this categorical variable were assessed using Fisher's Exact test.
+
+## Results
+
+Figure 1 shows the flow chart, in which missing data is defined as the patient being unable to meet the specific follow‐up appointment but is still participating in the study. A total of 123 patients were screened for eligibility, after which 59 patients were included: 29 patients were randomised to the test group and 30 patients to the control group. Post NSI, no patient met the criteria for disease resolution, and therefore all patients subsequently received peri‐implantitis surgery. All patients complied with the prescribed antibiotic regimen. One patient in the test group moved abroad and therefore discontinued the intervention (T3). In the control group, in one patient the implant was removed (after T6) because of evident disease progression, while another patient discontinued for medical reasons (cardiovascular, after T6). Table 1 summarises the patient characteristics. Table 2 presents the clinical and radiographic peri‐implant and periodontal parameters. The parameters were subdivided into site‐level outcomes (measured at six sites per implant) and implant‐level outcomes. The full‐mouth periodontal scores are presented at the patient level.
+
+[FIGURE] Flow chart, n patients.
+
+[TABLE] Patient characteristics.
+Age at inclusion, mean in years (SD) | 62.3 (16.3) | 60.8 (14.4)
+Gender (female/male) | 20/9 | 15/15
+Baseline smoking status (yes/no) | 24/5 | 26/4
+History of periodontitis (yes/no) | 8/21 | 12/18
+Dentate/edentulous patients | 22/7 | 23/7
+Implant characteristics
+Implants diagnosed with peri‐implantitis, n implants | 49 | 46
+Implant brand, n implants |  | 
+Straumann | 12 | 23
+Nobel Biocare | 20 | 11
+Astra | 2 | 5
+Megagen | 1 | 0
+Camlog | 4 | 1
+PittEasy | 8 | 2
+Biomet 3i | 1 | 3
+IMZ | 0 | 1
+Other | 1 | 0
+Implant function in years (SD) | 12.0 (4.7) | 10.2 (4.4)
+Implant position (maxilla/mandible), n implants | 37/12 | 18/28
+Position implant, n implants |  | 
+Anterior (central incisor to cuspid) | 16 | 14
+Posterior (premolar, molar) | 33 | 32
+Restoration type (screw‐retained/cemented), n implants |  | 
+Which suprastructure, n implants |  | 
+Solitary implant crown | 20 | 13
+Splinted implant crown | 1 | 4
+Multi‐unit bridge | 7 | 13
+Removable overdenture, bar | 17 | 14
+Removable overdenture, locators | 4 | 1
+Removable partial denture | 0 | 1
+Implant placed in augmented site (yes/no/unknown), n implants | 21/24/4 | 24/21/1
+Which augmentation type, n implants |  | 
+Xenograft | 9 | 7
+Autologous, local bone scrape | 2 | 2
+Mandibular ramus | 0 | 2
+Maxillary tuberosity | 3 | 3
+Mental protuberance | 3 | 4
+Crista iliaca anterior | 4 | 6
+
+[TABLE] Descriptive statistics of clinical and radiographic outcomes.
+Peri‐implant parameters
+Mean PPD
+a
+ (mm) | Mean (SD) | 5.2 (1.4) | 3.2 (0.7) | 3.0 (0.7) | 3.0 (0.6) | 3.1 (0.7) | 5.1 (1.2) | 3.3 (0.6) | 3.3 (0.9) | 3.1 (0.7) | 3.5 (1.0)
+Mean BOP
+a
+ (%) | Site level (SD) | 76.4 (29.0) | 45.7 (28.3) | 39.6 (32.2) | 29.2 (23.7) | 39.3 (31.8) | 74.4 (29.9) | 56.9 (32.6) | 37.9 (26.7) | 34.0 (26.7) | 53.1 (28.5)
+Implant level (n) | 98.0 (48) | 87.2 (41) | 82.9 (34) | 82.5 (33) | 83.3 (40) | 97.8 (45) | 93.3 (42) | 88.9 (40) | 89.7 (35) | 100.0 (40)
+Mean SOP
+a
+ (%) | Site level (SD) | 9.2 (18.1) | 0.6 (3.2) | 2.8 (9.4) | 3.5 (12.0) | 1.8 (9.4) | 17.2 (29.5) | 2.2 (7.2) | 2.3 (9.7) | 2.6 (13.1) | 1.8 (6.9)
+Implant level (n) | 30.6 (15) | 4.3 (2) | 4.9 (2) | 5.0 (2) | 4.2 (2) | 32.6 (15) | 13.0 (6) | 13.3 (6) | 10.3 (4) | 9.5 (4)
+Mean Plq
+a
+ (%) | Site level (SD) | 13.2 (24.1) | 18.5 (21.4) | 11.1 (22.9) | 11.1 (25.4) | 13.7 (22.2) | 12.2 (23.9) | 19.0 (32.0) | 13.2 (22.0) | 15.4 (23.5) | 11.9 (20.7)
+Implant level (n) | 30.6 (15) | 55.3 (26) | 26.8 (11) | 20.0 (8) | 31.3 (15) | 28.3 (13) | 37.8 (17) | 26.7 (12) | 35.9 (14) | 28.6 (12)
+MBL
+b
+ (mm) | Mean (SD) | 3.6 (1.9) | 3.5 (1.7) | 3.3 (1.7) | NA | 3.4 (1.7) | 3.5 (1.8) | 3.6 (1.9) | 3.7 (2.0) | NA | 3.6 (2.1)
+Midbuc REC (mm) | Mean (SD) | 6.2 (2.0) | 7.5 (1.8) | 7.5 (1.4) | 7.4 (1.5) | 7.3 (2.4) | 5.6 (2.1) | 6.8 (1.9) | 7.1 (1.8) | 7.0 (2.2) | 6.8 (2.0)
+Midbuc KM (mm) | Mean (SD) | 2.2 (2.0) | 1.3 (1.6) | 1.8 (1.7) | 1.3 (1.6) | 1.6 (1.8) | 1.7 (2.1) | 1.4 (2.0) | 1.1 (1.9) | 1.1 (1.9) | 1.2 (2.1)
+Periodontal parameters
+Mean full‐mouth BOP (%) | Patient level (SD) | 38.3 (27.3) | NA | NA | NA | 16.6 (10.6) | 31.4 (25.0) | NA | NA | NA | 21.8 (15.0)
+Mean full‐mouth PPD (%) | Patient level (SD) | 3.0 (0.9) | NA | NA | NA | 2.4 (0.4) | 3.2 (1.1) | NA | NA | NA | 2.6 (0.6)
+Mean full‐mouth Plq (%) | Patient level (SD) | 27.0 (22.0) | NA | NA | NA | 22.8 (20.4) | 18.5 (20.7) | NA | NA | NA | 14.1 (18.7)
+
+### Outcomes
+
+Table 3 shows the marginal effects of both treatment groups based on the linear and logistic mixed‐effects models. At T9 and T12, BOP was significantly lower in the test group compared to the control group (T9: −10.57%, 95% CI: −20.17 to −0.97, p = 0.03; T12: −14.47%, 95% CI: −25.9 to −3.04, p = 0.01). No other parameters in the mixed‐effects models showed statistically significant differences between groups at any timepoint. Table 4 highlights the post hoc analyses. Between the test and control group, implants with baseline PPD ≥ 7 mm showed significant differences in SOP at T6 (p = 0.02). Furthermore, between implants with baseline suppuration in the test and control group, a significant difference in keratinised mucosa was observed at T6 (p = 0.04). At T12, the mean number of bleeding sites per implant was significantly lower in the test group (2.3, SD = 1.9) compared to the control group (3.5, SD = 1.8; independent samples t‐test, p < 0.01). The proportion of implants presenting with two or more bleeding sites at T12 was 58.3% in the test group and 80.0% in the control group (Fisher's exact test, p = 0.04).
+
+[TABLE] Linear and logistic mixed‐effects models: Marginal effects of the difference between treatment groups at specific timepoints.
+Parameters
+Mean PPD (mm, ref.: no antibiotics) | 0.24 (−0.16 to 0.64) | 0.23 | 0.11 (−0.27 to 0.5) | 0.56 | −0.02 (−0.42 to 0.39) | 0.94 | −0.14 (−0.6 to 0.32) | 0.54
+Mean BOP (%, ref.: no antibiotics) | −2.78 (−12.16 to 6.61) | 0.56 | −6.67 (−15.52 to 2.17) | 0.14 | −10.57 (−20.17 to −0.97) | 0.03 | −14.47 (−25.9 to −3.04) | 0.01
+Treatment success (ref: no antibiotics) | 0.82 (−4.07 to 5.71)
+a | 0.74 | 0.82 (−4.08 to 5.71)
+a | 0.74 | 0.82 (−4.07 to 5.71)
+a | 0.74 | 0.82 (−4.07 to 5.71)
+a | 0.74
+Mean SOP (%, ref.: no antibiotics) | −2.71 (−7.46 to 2.04) | 0.26 | −2.71 (−7.46 to 2.04) | 0.26 | −2.71 (−7.46 to 2.04) | 0.26 | −2.71(−7.46 to 2.04) | 0.26
+MBL (mm, ref.: no antibiotics) | 0.18 (−0.57 to 0.93) | 0.63 | 0.12 (−0.63 to 0.87) | 0.76 | 0.05 (−0.7 to 0.8) | 0.89 | −0.02 (−0.78 to 0.75) | 0.97
+Midbuc REC (mm, ref.: no antibiotics) | 0.02 (−0.75 to 0.78) | 0.97 | 0.02 (−0.75 to 0.78) | 0.97 | 0.02 (−0.75 to 0.78) | 0.97 | 0.02 (−0.75 to 0.78) | 0.97
+Midbuc KM (mm, ref.: no antibiotics) | 0.33 (−0.33 to 0.98) | 0.32 | 0.33 (−0.33 to 0.98) | 0.32 | 0.33 (−0.33 to 0.98) | 0.32 | 0.33 (−0.33 to 0.98) | 0.32
+
+[TABLE] Post hoc analyses regarding baseline PPD ≥ 7 mm (left) and baseline presence of SOP (right) at different timepoints, between test and control groups (implant‐level analyses, p‐values).
+Outcomes
+Mean PPD, mm
+a | 3.6 (0.9) | 3.6 (1.2) | 0.68 | 3.3 (0.8) | 3.6 (1.3) | 0.06 | 3.2 (0.7) | 3.1 (0.6) | 0.47 | 3.4 (0.8) | 3.7 (1.2) | 0.14
+Mean BOP, %
+a | 47.2 (28.3) | 55.1 (32.0) | 0.22 | 44.6 (30.5) | 48.6 (33.3) | 0.59 | 36.0 (25.5) | 40.5 (25.6) | 0.94 | 39.6 (32.7) | 60.3 (30.0) | 0.72
+Treatment success, ‘yes’
+b | 8 (22.2) | 5 (21.7) | 1.00 | 8 (34.8) | 6 (25.0) | 1.00 | 10 (32.3) | 7 (33.3) | 1.00 | 14 (37.8) | 4 (17.4) | 0.15
+Mean SOP, %
+c | 0.0 (0.0) | 0.0 (0.0) | 0.16 | 0.0 (0.0) | 0.0 (0.0) | 0.02 | 0.0 (0.0) | 0.0 (0.0) | 0.09 | 0.0 (0.0) | 0.0 (33.3) | 0.30
+MBL, mm
+a | 3.8 (2.0) | 3.6 (1.6) | 0.31 | 3.8 (2.1) | 3.5 (1.7) | 0.22 | NA | NA | NA | 3.8 (2.2) | 3.2 (1.7) | 0.18
+Midbuc REC, mm
+a | 7.6 (2.1) | 7.7 (1.7) | 0.60 | 7.9 (1.6) | 7.6 (1.6) | 0.99 | 7.6 (1.8) | 7.3 (1.8) | 0.86 | 7.2 (2.8) | 6.9 (2.1) | 0.36
+Midbuc KM, mm
+c | 1.0 (3.0) | 0.0 (3.0) | 0.73 | 2.0 (3.0) | 0.0 (2.8) | 0.12 | 1.0 (3.0) | 0.0 (2.0) | 0.58 | 2.0 (3.0) | 0.0 (4.5) | 0.40
+
+### Adverse Events
+
+Overall, both groups experienced predominantly no to mild adverse events (Figure 2). Patients in the control group reported significantly more pain (p = 0.01) and swelling of (salivary) glands (p < 0.01) and teeth and/or prosthesis discolouration (p = 0.04).
+
+[FIGURE] Percentage of patients having experienced no, mild, moderate or severe adverse events.
+
+## Discussion
+
+Our aim was to analyse the effect of systemic amoxicillin and metronidazole on surgical peri‐implantitis treatment involving no, one‐wall and two‐wall defects with a follow‐up period of 1 year. At T12, the mean peri‐implant BOP was significantly lower in the test group than in the control group (−14.47%, 95% CI: −25.9 to −3.04, p = 0.01). No other parameters in the mixed‐effects models showed statistically significant differences between groups at any timepoint. Furthermore, although exploratory in nature, the post hoc analysis indicates a potential benefit of systemic antibiotics on peri‐implant suppuration in cases with baseline PPD ≥ 7 mm after 6 months, an effect not sustained at 9 and 12 months. This warrants further investigation.
+
+Evidence from studies with comparable design and scope is currently scarce. Riben Grundström et al. (2024) assessed 84 patients who were randomly assigned to receive resective peri‐implantitis surgery, supplemented by either amoxicillin/metronidazole (group A), phenoxy‐methylpenicillin/metronidazole (group B) or a placebo (group C). At 12 months, 55% of implants in group A showed no BOP, compared to 31% in the control group, yielding a 24% difference. However, this was not statistically significant. Despite differences in how BOP was reported across both studies, the observed improvements in the test groups consistently underscore the positive impact of systemic amoxicillin and metronidazole on mean peri‐implant BOP. Furthermore, the present study found that 39.6% of the implants in the test group met the endpoints defining disease resolution compared to 23.8% in the control group. This contrasts with the findings of Riben Grundström, who reported 66%–68% of the implants in the test groups and 28% in the control group. The endpoints for disease resolution differed from those in the present study. Hallström et al. (2017) performed open‐flap debridement with or without the use of adjunctive systemic azithromycin and found no clinical benefits of systemic antibiotics after 1 year. While our findings align in part with those of previous research, variations in decontamination protocols, antibiotic regimens and definitions of disease resolution complicate direct comparisons. These discrepancies highlight the need for standardised outcome measures and further high‐quality, controlled trials to clarify the clinical relevance and optimal application of systemic antibiotics in surgical peri‐implantitis therapy.
+
+There is currently no evidence to support or refute systemic antibiotics use after surgical peri‐implantitis treatment as a part of a standard treatment protocol, largely due to the lack of uniform diagnostic criteria for peri‐implantitis previously and the absence of high‐quality, long‐term RCTs (Øen et al. 2021). This statement is corroborated by Boccia et al. (2023), stating that non‐surgical and/or surgical treatments do not seem to benefit from either local or systemic antibiotics. A review by Teughels et al. (2023) reached similar conclusions. In line with the EFP clinical practice guideline, the prescription of antibiotics must adhere to the principles of antibiotic stewardship, which emphasise weighing the benefits against potential harms before prescribing systemic antibiotics (Herrera, Berglundh, et al. 2023). Despite the lack of definitive guidance, the combination of amoxicillin and metronidazole has been widely studied in the context of periodontal therapy, where it has demonstrated synergistic effects against anaerobic pathogens (Zhao et al. 2021; Zandbergen et al. 2016; Pavicić et al. 1991; Soares et al. 2015; Winkel et al. 2001). This underpins the rationale of a combined regimen in the present study, aiming to target a broad spectrum of periodontal pathogens potentially involved in advanced peri‐implant infections (Albertini et al. 2015; Koyanagi et al. 2013; Rakic et al. 2016).
+
+Nevertheless, the present findings further challenge the role of systemic antibiotics in the treatment of peri‐implantitis. A comprehensive evaluation of the primary statistical analyses supports the interpretation that, while some statistically significant effects may be observed, the actual clinical benefits appear to be limited. Given the well‐documented risks associated with systemic antibiotics use, the therapeutic window in which their use may be justified is becoming increasingly narrow. Still, in line with existing recommendations concerning study duration, the follow‐up period is essential for a more robust evaluation of both primary and secondary outcomes. While the results seem to suggest a beneficial effect of systemic antibiotics on the results 1 year postoperatively, a follow‐up period of 1 year may not be sufficient to fully capture the long‐term effects of the intervention. It has been recommended that a follow‐up period of 3 years is needed to obtain a clearer understanding of the long‐term effects (Carcuac et al. 2020; Lee et al. 2021; Serino et al. 2021). In the context of antibiotic stewardship, the use of systemic antibiotics during surgical treatment of peri‐implantitis must be approached with caution. Stewardship principles advocate for the narrowest effective spectrum and shortest duration of antibiotic use, with monotherapy generally preferred over combination regimens to minimise the risk of resistance development. Currently, there is limited evidence identifying which specific clinical scenarios may benefit from adjunctive systemic antibiotics during surgical peri‐implantitis therapy. The recent clinical practice guideline provides guidance primarily for non‐surgical submarginal instrumentation, suggesting that systemic antibiotics, particularly metronidazole, may be considered in cases presenting with probing depths exceeding 7 mm and extensive suppuration (Herrera, Berglundh, et al. 2023). However, these recommendations do not directly extend to surgical interventions, where the evidence remains inconclusive regarding the efficacy of various antibiotic regimens.
+
+This study has several notable strengths. It enrolled a relatively large patient cohort and was conducted using a robust, well‐controlled and investigator‐ and outcome‐assessor‐blinded design, which minimises bias and enhances internal validity. The trial adhered closely to current diagnostic criteria and treatment guidelines, ensuring clinical relevance and applicability of the findings. Furthermore, the statistical analyses were rigorous and appropriately applied, including post hoc analyses that explored emerging insights from recent guideline updates. The study also benefited from minimal loss to follow‐up, which strengthens the reliability of outcome data. Despite this, some limitations should be addressed. First, the inclusion of both dentate and edentulous patients may have influenced the outcomes. The composition of the oral microbiota differs between dentate and edentulous patients, which might have influenced the results, specifically in a study design where the use of antibiotics is evaluated (de Waal et al. 2014). Second, the study might have benefited from additional microbiological analyses to evaluate changes in peri‐implant microbiota over time and its potential impact on disease progression and treatment response in relation to antibiotics usage (Leonhardt et al. 2003; Isehed et al. 2016; Hakkers et al. 2024). Such data could have helped in clarifying the underlying mechanism of action of systemic antibiotics by identifying differences in microbial shifts between patients treated with and without adjunctive amoxicillin and metronidazole. Moreover, it could have allowed exploration of the relationship between specific bacterial profiles and disease resolution, potentially highlighting microbial patterns that contribute significantly to peri‐implant infections. The use of a combination of two systemic antibiotics does not align with the principles of individualised medicine and antibiotic stewardship, which increasingly favour monotherapy tailored to patient‐specific diagnosis. In addition to adverse events, future studies should also include patient‐reported outcome measures to evaluate subjective treatment perception. Antibiotic adherence was monitored through the return of medication packaging, which may overestimate actual compliance and does not capture unreported deviations from the prescribed regimen. The interpretation of disease resolution should be approached with caution, as the wide confidence interval reflects a degree of imprecision likely attributable to the study's limited power to detect differences in binary outcomes. Lastly, formal examiner calibration was not performed, which may have contributed to variability in clinical measurements.
+
+## Conclusion
+
+In summary, access‐flap peri‐implantitis surgery supplemented with systemic amoxicillin and metronidazole was found to lead to a statistically significant reduction in peri‐implant BOP after 1 year when compared to peri‐implantitis surgery alone. However, no benefits were observed with regard to the other parameters. Although this finding may indicate a potential effect of adjunctive systemic antibiotics in these defect morphologies, the overall clinical relevance remains uncertain, as the observed benefit was confined to a single outcome and modest in magnitude, without consistent effects across primary and secondary endpoints. The administration of systemic antibiotics should be carefully considered, weighing the potential benefits against the risks of side effects.
+
+## Author Contributions
+
+J.H. drafted the article, interpreted the data and initiated the project. H.J.A.M. contributed substantially to revising the article. B.G. performed the statistical analyses, and drafted, reviewed and edited the main text and figures. Y.C.M.W. contributed substantially to initiating the project, clinical interpretations and revising the article. G.M.R. performed the peri‐implant surgery, and reviewed and edited the main text.
+
+## Funding
+
+This study was funded by the Department of Oral and Maxillofacial Surgery, University Medical Center Groningen.
+
+## Ethics Statement
+
+This study was approved by METc UMCG with study number 2019/625, on 20 February 2020. It was registered in the Overview of medical research in the Netherlands (OMON, previously: Netherlands Trial Register [NTR]): ID 27505 (NL‐OMON27505). Https://onderzoekmetmensen.nl/en/trial/49393.
+
+## Conflicts of Interest
+
+The authors declare no conflicts of interest.
