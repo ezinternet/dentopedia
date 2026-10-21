@@ -5131,3 +5131,19 @@ tags: []
 
 ### implants/survival
 - [[implants/survival/lee-2026-supportive-periodontal-therapy-improves-implant]] — 서울대·부산대 다기관 회향 코호트(임플란트 3,555개/1,757명): 5년 생존율 98.8%(임플란트 수준)·99.0%(환자 수준); 치주염 관련 치아상실(aHR 3.57)·SPT 비순응(aHR 2.35)·GBR 시행부위(미시행 aHR 0.42)가 독립 위험인자, 치주염 상실 부위에서는 규칙적 SPT가 생존 격차 상쇄(98.8% vs 96.3%, p=0.004)
+
+### implants/peri-implantitis — 2026-10 서베일런스 batch A (2026-10-21)
+- [[implants/peri-implantitis/liu-2026-efficacy-of-adjunctive-antibiotics-compared]] — 임플란트주위염 항생제 보조요법 SR+MA (RCT 22편, 환자 1,028명): PPD −0.69 mm·CAL −0.55 mm·BOP −12.45%p로 이득은 작고 (I² 91–95%), 골 수준 차이 없음(0.03 mm), 국소·전신 PPD 이득 유사, 상시 사용 비권고
+- [[implants/peri-implantitis/hakkers-2026-adjunctive-systemic-amoxicillin-and-metronidazole]] — 수술적 임플란트주위염 치료 후 아목시실린/메트로니다졸 1주 보조 RCT (n=59, 12개월): BOP만 T9 −10.57%(p=0.03)·T12 −14.47%(p=0.01) 유의, PPD·MBL·SOP·복합 질환해소(39.6% vs 23.8%) 차이 없음
+- [[implants/peri-implantitis/riben-2026-systemic-antibiotics-in-the-surgical]] — 임플란트주위염 외과수술 후 7일 전신 항생제 침 미생물총 RCT (n=27, 12개월): 8일째 종 풍부도 감소 후 6개월 회복, 군간 다양성 차이 없음, 12개월 성공 83% vs 69% (p=0.645)
+- [[implants/peri-implantitis/puisys-2026-peri-implant-reconstruction-with-autogenous]] — 임플란트주위염 31명 RCT(자가골 이식 ± 전해질 세정, 12개월): PPD·GI·BOP 군간 차이 없음, 근심측 방사선 결손 충전 4.6 vs 2.5 mm (p=0.002); 초록 수준
+- [[implants/peri-implantitis/holtzman-2026-effect-of-connective-tissue-graft]] — 이중기관 RCT(n=32, 12개월): 주위염 GBR에 결합조직이식(CTG) 추가 시 CAL 획득 3.21 vs 1.65 mm(p=0.022)·각화점막 증가 2.25 vs 0.26 mm(p=0.010), 질환 해소율 62.5% vs 56.3% 차이 없음
+- [[implants/peri-implantitis/clementini-2026-evaluation-of-the-adjunctive-use]] — 비외과적 주위염 치료에 에리스리톨 에어폴리싱·Er:YAG 추가 파일럿 RCT(47명/84임플란트): PPD 1개월 1–1.4 mm 감소, BoP 24–36% 감소(군간 차이 없음), 치료 종결점 도달 12–18%; 초록 수준
+- [[implants/peri-implantitis/moreira-2026-air-polishing-versus-ultrasonic-instrumentation]] — 비외과 주위염 치료 RCT: 에리스리톨 에어폴리싱 vs 초음파 기구(양군 전신 메트로니다졸), 초음파군에서 12개월 PD·BOP 감소; 초록 수준
+- [[implants/peri-implantitis/ferrarotti-2026-residual-periodontal-pockets-at-implant]] — 식립 시 잔존 치주낭이 주위염 위험 지표인지 본 SR(코호트 4편, 12–276개월): 4편 모두 같은 방향, 메타분석 없음, 기준 깊이 확정 불가
+- [[implants/peri-implantitis/moraschini-2026-prevalence-of-peri-implantitis-around]] — 지르코니아 임플란트 주위염 유병률 SR+MA (19편·995개): ≤3년 2%, 3–5년 2%, >5년 8% (95% CI 0–23%), RCT 5편 지르코니아 vs 티타늄 RR 1.66 (비유의), GRADE 낮음~매우 낮음
+- [[implants/peri-implantitis/de-2026-impact-of-oral-hygiene-instructions]] — 점막염 RCT(n=48): 3개월 해소율 OHI 단독 39.1% vs OHI+기구치료 56%; 순응도 OR 11.4, 치주염 병력·구치부 위치 불리
+- [[implants/peri-implantitis/aksu-2026-soft-tissue-phenotype-modification-as]] — 준무작위(43명·55임플란트, KTW<2 mm 점막염): 비외과 치료 후 유리구개이식(FPG) 추가 시 6개월 BoP 범위 0.75 vs 1.83(p=0.001), KTW +2.36 mm, 성공 OR 8.44; 초록 수준
+
+### bone-regeneration
+- [[bone-regeneration/zuercher-2026-block-versus-particulate-deproteinized-bovine]] — 치조골 열개 결손 동시 GBR 5년 RCT(22명): DBBM 블록 vs 입자형, 협측 경조직 두께 1.36 vs 0.07 mm(보정차 −1.2 mm, p<0.001), 임플란트 상실·주위염 없음
