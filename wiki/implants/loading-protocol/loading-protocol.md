@@ -15,20 +15,20 @@ tags: [navigation, category-index, loading-protocol]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·부하시기
 > - **범위**: Loading timing for **conventionally placed (healed-site)** implants — immediate vs early vs conventional/delayed loading, placement-and-loading protocol classifications (ITI consensus, Cochrane), single-crown & partial-arch loading SR/MA, methodological quality of loading-time trials.
-> - **수록 논문**: 23편
+> - **수록 논문**: 24편
 
 ## Three-line Summary
 
 **Scope**: Loading timing for **conventionally placed (healed-site)** implants — immediate vs early vs conventional/delayed loading, placement-and-loading protocol classifications (ITI consensus, Cochrane), single-crown & partial-arch loading SR/MA, methodological quality of loading-time trials.
-**Indexed papers**: 23 papers in `wiki/implants/loading-protocol/`.
+**Indexed papers**: 24 papers in `wiki/implants/loading-protocol/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·부하시기
-**수록 논문**: 23편
+**수록 논문**: 24편
 **하위 카테고리**: 없음
 
-## Papers in this Category (23)
+## Papers in this Category (24)
 
 | Paper |
 |---|
@@ -46,6 +46,7 @@ tags: [navigation, category-index, loading-protocol]
 | [[gallucci-2018-implant-placement-loading-protocols-partially|Implant placement and loading protocols in partially edentulous patients: A systematic review]] |
 | [[ghoveizi-2013-a-radiographic-comparison-of-progressive|A Radiographic Comparison of Progressive and Conventional Loading on Crestal Bone Loss and Density in Single Dental Implants: A Randomized Controlled Trial Study]] |
 | [[heiderich-2020-methodological-quality-loading-time-implants|Methodological quality and risk of bias of systematic reviews about loading time of multiple dental implants in totally or partially edentulous patients: An umbrella systematic review]] |
+| [[juboori-2018-using-resonance-frequency-analysis-to|Using Resonance Frequency Analysis to Compare Delayed and Immediate Progressive Loading for Implants Placed in the Posterior Maxilla: A Pilot Study]] |
 | [[kishen-2026-clinical-and-biomechanical-determinants-of|Clinical and biomechanical determinants of immediate, early, progressive, and delayed implant loading: A comprehensive narrative review]] |
 | [[ko-2021-immediate-loading-protocols-increase-risk|Immediate loading protocols increase the risk of failure of implants placed by fully guided surgery in partially edentulous jaws: A randomized clinical trial]] |
 | [[misch-1993-progressive-loading-of-bone-with|Progressive loading of bone with implant prostheses]] |
