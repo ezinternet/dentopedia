@@ -777,3 +777,6 @@ Logged by subagents at deviation time. `deviation-audit.py` flags types with ≥
 | 2026-10-21 | kishen-2026-clinical-and-biomechanical-determinants-of | source-data-issue | Progressive-loading section garbled ('furniture production' sentence); methods say both no inclusion criteria and exclusions applied; treated as secondary framing source |
 | 2026-10-21 | rotter-1996-testing-progressive-loading-of-endosteal | abstract-only | No PMC record; built from PubMed abstract (pubmed-text, full_text:false) |
 | 2026-10-21 | turner-2014-evaluation-of-the-value-of | source-data-issue | Title/abstract frame Periotest result as bone density/rigidity; endpoint is implant mobility only. Arms measured on different sites (abutment vs crown); only within-group tests reported |
+| 2026-10-21 | misch-1993-progressive-loading-of-bone-with | abstract-only | No PMC record (confirmed by pubmed-fetch-fulltext.py); two-sentence abstract only |
+| 2026-10-21 | misch-1993-progressive-loading-of-bone-with | no-doi | No DOI in PubMed record (J Dent Symp 1993;1:50-3) |
+| 2026-10-21 | perel-1994-progressive-prosthetic-transference-for-root | abstract-only | No PMC record (confirmed by pubmed-fetch-fulltext.py); abstract only |
