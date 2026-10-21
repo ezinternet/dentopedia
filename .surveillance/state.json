@@ -230,11 +230,21 @@
         "MA"
       ],
       "last_run_edat": "2026/10/07"
+    },
+    "bone-graft-material": {
+      "query": "((allograft[tiab] OR \"freeze-dried bone\"[tiab] OR FDBA[tiab] OR DFDBA[tiab] OR \"allogeneic bone\"[tiab]) OR (xenograft[tiab] OR \"deproteinized bovine\"[tiab] OR \"Bio-Oss\"[tiab] OR \"bovine bone\"[tiab] OR \"porcine bone\"[tiab] OR DBBM[tiab]) OR ((alloplastic[tiab] OR \"synthetic bone\"[tiab] OR \"tricalcium phosphate\"[tiab] OR \"biphasic calcium phosphate\"[tiab] OR hydroxyapatite[tiab] OR \"bioactive glass\"[tiab]) AND (\"bone graft\"[tiab] OR \"bone substitute\"[tiab] OR \"bone substitutes\"[tiab]))) AND (dental[tiab] OR alveolar[tiab] OR sinus[tiab] OR periodontal[tiab] OR intrabony[tiab] OR implant[tiab])",
+      "ptyp": [
+        "SR",
+        "MA"
+      ],
+      "last_run_edat": "2026/10/21"
     }
   },
   "seen_pmids": [
+    "12653225",
     "12744405",
     "12821715",
+    "14971256",
     "15214221",
     "15642025",
     "16183786",
@@ -242,18 +252,23 @@
     "18371094",
     "1853744",
     "19835754",
+    "20334505",
     "20369102",
     "20467650",
+    "20556251",
     "20681808",
     "2097257",
     "20977611",
     "21220360",
     "21435016",
+    "21443592",
     "21575747",
     "21716965",
     "21834863",
     "22008715",
     "22043465",
+    "22099314",
+    "22171533",
     "22238711",
     "22244638",
     "22442784",
@@ -264,6 +279,8 @@
     "23062144",
     "23311617",
     "23560986",
+    "23680976",
+    "23748301",
     "23926584",
     "24034864",
     "24316712",
@@ -274,24 +291,35 @@
     "25202747",
     "25238031",
     "25397803",
+    "25471690",
     "25496243",
+    "25535616",
     "25615637",
     "25628271",
     "25790741",
+    "25867987",
     "26446912",
+    "26452326",
     "26669545",
     "26701351",
     "26794700",
     "27004280",
+    "27012858",
     "27023410",
+    "27222433",
     "27314123",
+    "27534916",
+    "27712001",
     "27861657",
     "28048963",
     "28358121",
+    "28366452",
     "28517971",
     "28736605",
+    "28817133",
     "28944358",
     "28944367",
+    "29135351",
     "29143389",
     "29179971",
     "292031",
@@ -299,6 +327,7 @@
     "29316568",
     "29574852",
     "29770236",
+    "29771732",
     "30024995",
     "30039905",
     "30306694",
@@ -313,18 +342,22 @@
     "30866488",
     "30871937",
     "30916621",
+    "31086858",
     "31090746",
     "31090748",
     "31116832",
     "31215045",
     "31223070",
+    "31230768",
     "31292983",
     "31433096",
     "31441527",
     "31605405",
+    "31797859",
     "31846073",
     "31862145",
     "31955269",
+    "32040468",
     "32186285",
     "32395387",
     "32406659",
@@ -332,13 +365,17 @@
     "32542725",
     "32593704",
     "32613433",
+    "32618176",
     "32893938",
     "32938870",
     "33028052",
+    "33037794",
     "33141935",
     "33155455",
+    "33230862",
     "33348644",
     "33383100",
+    "33465775",
     "33571021",
     "33571325",
     "33571327",
@@ -351,6 +388,7 @@
     "33835063",
     "33853413",
     "33917587",
+    "33926447",
     "33939696",
     "33971681",
     "33994071",
@@ -359,7 +397,9 @@
     "34006079",
     "34104237",
     "34105881",
+    "34120778",
     "34135969",
+    "34176715",
     "34219356",
     "34239926",
     "34331067",
@@ -369,6 +409,7 @@
     "34448736",
     "34455503",
     "34456050",
+    "34530060",
     "34600044",
     "34642985",
     "34642986",
@@ -401,6 +442,7 @@
     "35398904",
     "35476861",
     "35486508",
+    "35568576",
     "35584941",
     "35679127",
     "35694835",
@@ -414,6 +456,7 @@
     "35829772",
     "35850367",
     "35877333",
+    "35881815",
     "35886524",
     "35917996",
     "35958809",
@@ -444,6 +487,7 @@
     "36943673",
     "36978070",
     "36988245",
+    "37002888",
     "37018325",
     "37047909",
     "37049624",
@@ -474,6 +518,7 @@
     "37957760",
     "37975390",
     "37985984",
+    "37991404",
     "38002912",
     "38061871",
     "38109387",
@@ -486,6 +531,7 @@
     "38272437",
     "38353510",
     "38367826",
+    "38399540",
     "38463466",
     "38471581",
     "38514411",
@@ -495,11 +541,13 @@
     "38552999",
     "38567575",
     "38582434",
+    "38607362",
     "38616535",
     "38671635",
     "38693759",
     "38706419",
     "38727015",
+    "38780363",
     "38792929",
     "38794940",
     "38896700",
@@ -511,6 +559,7 @@
     "38997790",
     "39054170",
     "39056584",
+    "39075014",
     "39134687",
     "39174162",
     "39195091",
@@ -539,10 +588,12 @@
     "39826062",
     "39868481",
     "39907806",
+    "39917693",
     "39940260",
     "39955221",
     "39966906",
     "40045044",
+    "40062553",
     "40107958",
     "40123306",
     "40134000",
@@ -561,6 +612,7 @@
     "40434067",
     "40481748",
     "40535546",
+    "40537329",
     "40553623",
     "40581327",
     "40602709",
@@ -569,6 +621,7 @@
     "40653156",
     "40660670",
     "40660725",
+    "40663189",
     "40668355",
     "40694393",
     "40695441",
@@ -849,11 +902,15 @@
     "42707376",
     "42709287",
     "42734614",
+    "42740459",
+    "42827641",
+    "42867553",
     "4922343",
     "5292225",
     "6078744",
     "6934913",
     "8534877",
+    "9581402",
     "9797056"
   ],
   "screened_out": {
@@ -2464,6 +2521,710 @@
       "verdict": "exclude",
       "screened_by": "top-model",
       "screened_on": "2026/10/07"
+    },
+    "42502982": {
+      "topic": "bone-graft-material",
+      "edat": "2026",
+      "reason": "borderline: adjunct/technique-focused, graft material not the main comparison",
+      "verdict": "borderline",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "42206643": {
+      "topic": "bone-graft-material",
+      "edat": "2026",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "42189965": {
+      "topic": "bone-graft-material",
+      "edat": "2026",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "42128284": {
+      "topic": "bone-graft-material",
+      "edat": "2026",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "41772403": {
+      "topic": "bone-graft-material",
+      "edat": "2026",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "41378897": {
+      "topic": "bone-graft-material",
+      "edat": "2025",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "41340359": {
+      "topic": "bone-graft-material",
+      "edat": "2025",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "41331583": {
+      "topic": "bone-graft-material",
+      "edat": "2025",
+      "reason": "borderline: adjunct/technique-focused, graft material not the main comparison",
+      "verdict": "borderline",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "40856870": {
+      "topic": "bone-graft-material",
+      "edat": "2025",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "40853707": {
+      "topic": "bone-graft-material",
+      "edat": "2025",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "39828816": {
+      "topic": "bone-graft-material",
+      "edat": "2025",
+      "reason": "borderline: adjunct/technique-focused, graft material not the main comparison",
+      "verdict": "borderline",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "39704602": {
+      "topic": "bone-graft-material",
+      "edat": "2025",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "38642876": {
+      "topic": "bone-graft-material",
+      "edat": "2024",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "38604399": {
+      "topic": "bone-graft-material",
+      "edat": "2024",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "38363346": {
+      "topic": "bone-graft-material",
+      "edat": "2024",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "38232751": {
+      "topic": "bone-graft-material",
+      "edat": "2024",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "38101969": {
+      "topic": "bone-graft-material",
+      "edat": "2023",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "37443831": {
+      "topic": "bone-graft-material",
+      "edat": "2023",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "37442540": {
+      "topic": "bone-graft-material",
+      "edat": "2023",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "37143188": {
+      "topic": "bone-graft-material",
+      "edat": "2023",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "36793244": {
+      "topic": "bone-graft-material",
+      "edat": "2023",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "36752302": {
+      "topic": "bone-graft-material",
+      "edat": "2023",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "36729988": {
+      "topic": "bone-graft-material",
+      "edat": "2022",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "36707881": {
+      "topic": "bone-graft-material",
+      "edat": "2023",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "36328864": {
+      "topic": "bone-graft-material",
+      "edat": "2022",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "36279121": {
+      "topic": "bone-graft-material",
+      "edat": "2022",
+      "reason": "borderline: adjunct/technique-focused, graft material not the main comparison",
+      "verdict": "borderline",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "36243991": {
+      "topic": "bone-graft-material",
+      "edat": "2023",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "35909673": {
+      "topic": "bone-graft-material",
+      "edat": "2022",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "35809115": {
+      "topic": "bone-graft-material",
+      "edat": "2022",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "35532820": {
+      "topic": "bone-graft-material",
+      "edat": "2022",
+      "reason": "borderline: adjunct/technique-focused, graft material not the main comparison",
+      "verdict": "borderline",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "35410705": {
+      "topic": "bone-graft-material",
+      "edat": "2022",
+      "reason": "borderline: adjunct/technique-focused, graft material not the main comparison",
+      "verdict": "borderline",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "35147248": {
+      "topic": "bone-graft-material",
+      "edat": "2022",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "34212173": {
+      "topic": "bone-graft-material",
+      "edat": "2021",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "33933668": {
+      "topic": "bone-graft-material",
+      "edat": "2021",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "33494139": {
+      "topic": "bone-graft-material",
+      "edat": "2021",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "33330603": {
+      "topic": "bone-graft-material",
+      "edat": "2020",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "32392438": {
+      "topic": "bone-graft-material",
+      "edat": "2020",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "32253687": {
+      "topic": "bone-graft-material",
+      "edat": "2020",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "31931246": {
+      "topic": "bone-graft-material",
+      "edat": "2020",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "31860134": {
+      "topic": "bone-graft-material",
+      "edat": "2020",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "31777283": {
+      "topic": "bone-graft-material",
+      "edat": "2019",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "31722063": {
+      "topic": "bone-graft-material",
+      "edat": "2019",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "31268862": {
+      "topic": "bone-graft-material",
+      "edat": "2019",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "31165313": {
+      "topic": "bone-graft-material",
+      "edat": "2019",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "30973834": {
+      "topic": "bone-graft-material",
+      "edat": "2019",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "30740615": {
+      "topic": "bone-graft-material",
+      "edat": "2019",
+      "reason": "borderline: adjunct/technique-focused, graft material not the main comparison",
+      "verdict": "borderline",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "30680405": {
+      "topic": "bone-graft-material",
+      "edat": "2018",
+      "reason": "borderline: adjunct/technique-focused, graft material not the main comparison",
+      "verdict": "borderline",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "30624791": {
+      "topic": "bone-graft-material",
+      "edat": "2019",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "30466190": {
+      "topic": "bone-graft-material",
+      "edat": "2018",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "30138711": {
+      "topic": "bone-graft-material",
+      "edat": "2018",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "29977919": {
+      "topic": "bone-graft-material",
+      "edat": "2018",
+      "reason": "borderline: adjunct/technique-focused, graft material not the main comparison",
+      "verdict": "borderline",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "29763500": {
+      "topic": "bone-graft-material",
+      "edat": "2018",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "29759309": {
+      "topic": "bone-graft-material",
+      "edat": "2019",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "29333779": {
+      "topic": "bone-graft-material",
+      "edat": "2017",
+      "reason": "borderline: adjunct/technique-focused, graft material not the main comparison",
+      "verdict": "borderline",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "29292336": {
+      "topic": "bone-graft-material",
+      "edat": "2018",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "29095788": {
+      "topic": "bone-graft-material",
+      "edat": "2017",
+      "reason": "borderline: adjunct/technique-focused, graft material not the main comparison",
+      "verdict": "borderline",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "28545806": {
+      "topic": "bone-graft-material",
+      "edat": "2017",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "27922983": {
+      "topic": "bone-graft-material",
+      "edat": "2016",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "27228246": {
+      "topic": "bone-graft-material",
+      "edat": "2016",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "26707429": {
+      "topic": "bone-graft-material",
+      "edat": "2015",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "26609696": {
+      "topic": "bone-graft-material",
+      "edat": "2015",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "26215467": {
+      "topic": "bone-graft-material",
+      "edat": "2015",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "25907826": {
+      "topic": "bone-graft-material",
+      "edat": "2015",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "25536095": {
+      "topic": "bone-graft-material",
+      "edat": "2014",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "25445853": {
+      "topic": "bone-graft-material",
+      "edat": "2014",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "25216204": {
+      "topic": "bone-graft-material",
+      "edat": "2014",
+      "reason": "borderline: adjunct/technique-focused, graft material not the main comparison",
+      "verdict": "borderline",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "24736696": {
+      "topic": "bone-graft-material",
+      "edat": "2014",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "24469551": {
+      "topic": "bone-graft-material",
+      "edat": "2014",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "24261343": {
+      "topic": "bone-graft-material",
+      "edat": "2013",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "23815469": {
+      "topic": "bone-graft-material",
+      "edat": "2013",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "23752143": {
+      "topic": "bone-graft-material",
+      "edat": "2013",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "22834392": {
+      "topic": "bone-graft-material",
+      "edat": "2012",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "22258958": {
+      "topic": "bone-graft-material",
+      "edat": "2012",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "22000958": {
+      "topic": "bone-graft-material",
+      "edat": "2011",
+      "reason": "borderline: adjunct/technique-focused, graft material not the main comparison",
+      "verdict": "borderline",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "21752368": {
+      "topic": "bone-graft-material",
+      "edat": "2011",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "21242830": {
+      "topic": "bone-graft-material",
+      "edat": "2011",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "21091540": {
+      "topic": "bone-graft-material",
+      "edat": "2010",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "20556759": {
+      "topic": "bone-graft-material",
+      "edat": "2010",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "20467649": {
+      "topic": "bone-graft-material",
+      "edat": "2008",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "19821362": {
+      "topic": "bone-graft-material",
+      "edat": "2009",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "19055225": {
+      "topic": "bone-graft-material",
+      "edat": "2008",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "18646092": {
+      "topic": "bone-graft-material",
+      "edat": "2008",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "18437791": {
+      "topic": "bone-graft-material",
+      "edat": "2007",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "18425907": {
+      "topic": "bone-graft-material",
+      "edat": "2008",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "17066630": {
+      "topic": "bone-graft-material",
+      "edat": "2006",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "16437460": {
+      "topic": "bone-graft-material",
+      "edat": "2006",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "15574680": {
+      "topic": "bone-graft-material",
+      "edat": "2004",
+      "reason": "off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
+    },
+    "9579616": {
+      "topic": "bone-graft-material",
+      "edat": "1998",
+      "reason": "borderline: adjunct/technique-focused, graft material not the main comparison",
+      "verdict": "borderline",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/21"
     }
   }
 }
