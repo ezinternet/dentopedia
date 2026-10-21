@@ -5022,6 +5022,7 @@ tags: []
 - [[implants/loading-protocol/rotter-1996-testing-progressive-loading-of-endosteal]] — Rotter 1996 · prospective · 임플란트 26개 Periotest 예비 연구, 점진적 부하군 강성 증가 −1.51 vs 무부하 −0.27 (초록 수준, 대조가 무부하)
 - [[implants/loading-protocol/misch-1993-progressive-loading-of-bone-with]] — Misch 1993 · narrative-review · 점진적 부하 프로토콜의 개념 논문; 골밀도가 치유 기간과 5회 보철 내원 간격을 정함 (초록 2문장, 수치 없음)
 - [[implants/loading-protocol/perel-1994-progressive-prosthetic-transference-for-root]] — Perel 1994 · narrative-review · 보강 주조 하부구조 아크릴 임시 보철로 점진적 골 부하를 구현하는 술식 설명 (초록만, 결과 수치 없음)
+- [[implants/loading-protocol/juboori-2018-using-resonance-frequency-analysis-to]] — Al Juboori 2018 · prospective · 상악 구치부 분할구강 예비 연구(6명), 즉시 점진적 부하 vs 지연 부하의 ISQ 추적(6개월 79 vs 76); 토크 기준 배정으로 시작 ISQ가 달라 이점 입증 불가
 
 ### implants/mbl
 - [[implants/mbl/gheisari-2017-comparison-marginal-bone-loss-one-stage]] — Gheisari 2017 · rct · 무작위 임상시험으로 아스트라 테크 임플란트 310개(140명)를 one-stage(170개, 90명) vs two-stage(140개, 50명) 수술법으로 나누고, 기능적 부하 6개월 후 평행 근단파노라마 방사선사진으로 근위/원위면 변연골소실(MBL) 비교.
