@@ -1,0 +1,15 @@
+TITLE: A radiographic assessment of progressive loading on bone around single osseointegrated implants in the posterior maxilla.
+AUTHORS: Appleton RS, Nummikoski PV, Pigno MA, Cronin RJ, Chung KH
+JOURNAL: Clinical Oral Implants Research 2005 Apr;16(2):161-7
+ID[pmid]: 15777325
+ID[doi]: 10.1111/j.1600-0501.2004.01089.x
+NOTE: abstract-only — no PMC record; text below is the PubMed abstract.
+
+## ABSTRACT
+The aim of this clinical study was to determine the effectiveness of progressive loading procedures on preserving crestal bone height and improving peri-implant bone density around maxillary implants restored with single premolar crowns by an accurate longitudinal radiographic assessment technique.
+
+Twenty-three HA-coated, endosseous dental implants were placed in 20 subjects and permitted to heal for 5 months before surgical uncovering. The implants were randomly assigned to either an experimental or control group. Following a conventional healing period, the control group implants were restored with a metal ceramic crown and the experimental group implants underwent a progressive loading protocol. The experimental group was progressively loaded by increasing the height of the occlusal table in increments from a state of infraocclusion to full occlusion by adding acrylic resin to a heat-processed acrylic crown. The progressively loaded crowns were placed in infraocclusion for the first 2 months, light occlusion for the second 2 months, and full occlusion for the third 2 months. At this point, a metal ceramic crown replaced the acrylic crown. Standardized radiographs of each implant were made at the time of restoration, then after 2, 4, 6, 9, and 12 months of function. Digital image analysis and digital subtraction radiography were used to measure changes in crestal bone height and peri-implant bone density.
+
+The mean values of crestal bone height loss at 12 months were 0.2+/-0.27 mm for the progressively loaded implants and 0.59+/-0.27 for the conventionally loaded implants, and when tested with repeated-measure ANOVA across the time periods, the differences were statistically significant (P< or =0.05). The progressively loaded group showed a trend for higher bone density gain in the crestal area than the conventionally loaded group, but the conventionally loaded group showed a trend for higher bone density gain at the apex of the implants.
+
+The peri-implant bone around progressively loaded implants demonstrates less crestal bone loss than the bone around implants placed conventionally into full function. The peri-implant density measurements of the progressively loaded implants show continuous increase in peri-implant bone density by time.
