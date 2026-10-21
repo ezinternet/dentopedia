@@ -2,7 +2,7 @@
 title: "임플란트·ISQ — isq"
 authors: navigation
 year: 2026
-date: 2026-10-05
+date: 2026-10-21
 doi: N/A
 source: navigation
 category: implants/isq
@@ -15,20 +15,20 @@ tags: [navigation, category-index, isq]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·ISQ
 > - **범위**: ISQ/RFA measurement, stability dip, loading decision thresholds
-> - **수록 논문**: 92편
+> - **수록 논문**: 93편
 
 ## Three-line Summary
 
 **Scope**: ISQ/RFA measurement, stability dip, loading decision thresholds
-**Indexed papers**: 92 papers in `wiki/implants/isq/`.
+**Indexed papers**: 93 papers in `wiki/implants/isq/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·ISQ
-**수록 논문**: 92편
+**수록 논문**: 93편
 **하위 카테고리**: 없음
 
-## Papers in this Category (92)
+## Papers in this Category (93)
 
 | Paper |
 |---|
@@ -56,6 +56,7 @@ tags: [navigation, category-index, isq]
 | [[canullo-2024-bioactive-surface-poor-bone-isq-stability|Nano-superhydrophilic and bioactive surface in poor bone environment. Part 1: transition from primary to secondary stability]] |
 | [[cappare-2015-initial-bic-insertion-torque-depth-integral-in-vivo|Correlation between Initial BIC and the Insertion Torque/Depth Integral (Instantaneous Torque-Measuring Motor): In vivo Study]] |
 | [[ceddia-2025-finite-element-analysis-of-implant|Finite Element Analysis of Implant Stability Quotient (ISQ) and Bone Stresses for Implant Inclinations of 0°, 15°, and 20°]] |
+| [[cha-2015-multiscale-analyses-of-the-bone|Multiscale Analyses of the Bone-implant Interface]] |
 | [[chatvaratthana-2017-cortical-bone-crestal-buccolingual-isq|Correlation between the thickness of the crestal and buccolingual cortical bone at varying depths and implant stability quotients]] |
 | [[de-elio-2023-insertion-torque-resonance-frequency-tapered-parallel-implants|Insertion Torque and Resonance Frequency Analysis in Tapered and Parallel Dental Implants]] |
 | [[debruyne-2017-isq-laser-vibrometry-resonance-frequency|ISQ calculation evaluation of in vitro laser scanning vibrometry-captured resonance frequency]] |
