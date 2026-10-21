@@ -5171,3 +5171,4 @@ tags: []
 - [[sinus-lift/lateral/somngam-2025-new-bone-formation-biphasic-calcium]] — 측방 상악동거상 RCT 11편(283명, 362부위) 네트워크 메타분석: BCP 대비 신생골 자가골 +12.33%, 동종골 +5.14%, 이종골 -4.14%; SUCRA 자가골>동종골>BCP>β-TCP>이종골, 이종골 잔존 이식재 +6.21%
 - [[bone-regeneration/nunn-2024-novel-alloplast-carbonate-apatite-granules]] — 탄산아파타이트 과립 (CO3Ap, Cytrans) 체계적 고찰 43편(시험관 5·동물 28·사람 7·리뷰 3): 상악동거상 후 높이 감소 16.4-27.8%, 7개월 신생골 33.8%, 3년 임플란트 생존율 100%(n=13), 6개월 골흡수 14.2% vs DBBM 24.2%(n=6 vs 8); 사람 연구 소규모, RCT 없음
 - [[sinus-lift/lateral/pogacian-maier-2024-allograft-bone-lateral-sinus-sr]] — 상악동 측방접근 동종골(FDBA/DFDBA) SR+MA 7편(238명): FDBA vs DBB 골용적 WMD −0.17 (p=0.53, I²=81%), FDBA vs 자가골 임플란트 생존율 RR 1.00 (p=1.00); 차이 없으나 근거 소규모·단기
+- [[periodontics/jasser-2021-effectiveness-beta-tricalcium-phosphate-comparison]] — 치주 골내결손 베타-인산삼칼슘 (β-TCP) vs 타 이식재 SR+MA (5편, 171명/254부위, 무작위 1편): 변연절제 단독 대비 우수(PD 감소 6.20 vs 2.95 mm, CAL 획득 5.80 vs 2.30 mm), 동종골·자가골과 비슷하거나 약간 낮음; 랜덤효과에선 대부분 소실(I² 73–92%), 근거 약함
