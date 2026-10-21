@@ -5164,3 +5164,6 @@ tags: []
 
 ### drug/antibiotics
 - [[drug/antibiotics/edibam-2023-self-reported-allergy-penicillin-clindamycin]] — 자가보고 페니실린 알레르기→클린다마이신 대체가 임플란트 실패를 3.3배 높임을 최초 메타분석으로 정량화(후향 코호트 4편·10,853개; OR 3.30, 95% CI 2.58–4.22, p<.00001; 누적 실패율 11.0% vs 3.8%) + 위험군별 페니실린 알레르기 라벨 해제(Delabeling) 프로토콜 제안
+
+## Batch ingest (added 2026-10-21) — bone-graft-material 서베일런스 (동종골·이종골·합성골, OA:PMC 10편)
+- [[implants/vertical-ridge-augmentation/saleh-2026-efficacy-engineered-scaffolds-horizontal-vertical]] — 맞춤형 CAD/CAM 스캐폴드(티타늄 메쉬 9/13) 수평·수직 치조제 증대술 SR+MA (13편, 환자 241명): 6-9개월 골 증가 수평 4.96 mm·수직 5.64 mm·체적 1307 mm3, 합병증 21.7% (조기 24.3%/후기 16.5%), 경도 흡연 -2.4 mm·숙련 술자 +2.42 mm, GRADE 선형 증가 중등도·체적/합병증 낮음
