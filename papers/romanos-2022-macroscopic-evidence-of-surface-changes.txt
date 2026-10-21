@@ -1,0 +1,16 @@
+TITLE: Macroscopic Evidence of Surface Changes of Dental Implants After Insertion and Removal in Dense Bone: In Vitro Study
+AUTHORS: Romanos G.E., Delgado-Ruiz R.
+JOURNAL: The International Journal of Oral & Maxillofacial Implants
+ID[pmid]: 35476861
+ID[doi]: 10.11607/jomi.9197
+CITATION: 2022;37(2):e41-e49
+MESH: Animals; Cattle; Dental Implants; Osseointegration; Pilot Projects; Surface Properties; Titanium
+
+## ABSTRACT
+Titanium and zirconium wear are discussed in the literature as contributing factors for mechanical complications. The purpose of this study was to evaluate if current implant designs present visible clinical evidence of surface damage after insertion and removal in dense bone and if these changes are comparable in titanium and zirconia implants.
+
+For this experimental in vitro and pilot study, four implant systems were evaluated. Astra Tech Implants (Dentsply Sirona), Nobel Biocare Implants (Nobel Biocare), Straumann Implants (Institut Straumann), and Zeramex Implants (Dentalpoint). Six implants of each group with similar lengths (between 10 and 11 mm) and diameters (between 4.0 and 4.5 mm) were used. Protocols for implant bed preparations in dense bovine bone disks represented type II bone density. The implants were inserted and removed to evaluate the changes experienced by their surfaces using a magnification compatible with 5x magnification of the clinical setting. The presence or absence of damage and type of damage were evaluated at the coronal, middle, and apical regions at higher magnification. The Cochran Q test for binary dichotomous samples was used for statistical comparisons.
+
+All the groups showed surface changes; titanium implants showed abrasion at the threads' flanks, and zirconia implants showed microfractures at the tip of the threads.
+
+Due to the insertion and removal of titanium and zirconia implants in dense bone, the flanks and tips of the implant threads will develop visible surface damage.
