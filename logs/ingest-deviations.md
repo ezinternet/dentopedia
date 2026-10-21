@@ -768,3 +768,6 @@ Logged by subagents at deviation time. `deviation-audit.py` flags types with ≥
 | 2026-10-21 | ferrer-2021-genetic-polymorphisms-associated-with | genetic-axis-gap | Wiki had NO implant/caries/perio gene-polymorphism page before this ingest (only TMJ alshahrani-2024 exists on a genetics axis, unrelated). qmd search polymorphism/MMP/IL-1/TNF-alpha/gene/cytokine returned no genetic EIF page; no Campos IL-2/IL-6/TNF-alpha page exists. scoffier-2026 names 'host susceptibility, genetic predisposition' as an aetiology domain but has no dedicated page. This paper is the gap-filler for the intrinsic/host-susceptibility limb — flagged to parent rather than silently treated as an ordinary ingest. |
 | 2026-10-21 | wang-2017-effects-of-condensation-on-peri | empty-pmc-text | PMC body empty, built from abstract |
 | 2026-10-21 | cha-2015-multiscale-analyses-of-the-bone | empty-pmc-text | PMC body empty, built from abstract |
+| 2026-10-21 | romanos-2022-macroscopic-evidence-of-surface-changes | abstract-only | no PMC/OA, built from PubMed abstract |
+| 2026-10-21 | buchter-2005-biological-and-biomechanical-evaluation-of | abstract-only | no PMC/OA, built from PubMed abstract |
+| 2026-10-21 | yaylaci-2026-injectable-nanofiber-gel-enhances-osseointegration | abstract-only | no PMC/OA, built from PubMed abstract |
