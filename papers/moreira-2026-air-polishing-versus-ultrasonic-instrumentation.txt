@@ -1,0 +1,10 @@
+TITLE: Air-Polishing Versus Ultrasonic Instrumentation for Nonsurgical Treatment of Peri-Implantitis: A Randomized Clinical Trial.
+AUTHORS: {'last_name': 'Moreira', 'fore_name': 'Ana Isabel', 'initials': 'AI', 'affiliations': ['Especialização em Periodontologia e Implantes, Faculdade de Medicina Dentária, Universidade do Porto, Porto, Portugal.']}, {'last_name': 'Caetano', 'fore_name': 'Tiago', 'initials': 'T', 'affiliations': ['Especialização em Periodontologia e Implantes, Faculdade de Medicina Dentária, Universidade do Porto, Porto, Portugal.']}, {'last_name': 'Correia', 'fore_name': 'Francisco', 'initials': 'F', 'affiliations': ['Especialização em Periodontologia e Implantes, Faculdade de Medicina Dentária, Universidade do Porto, Porto, Portugal.', 'LAQV/REQUIMTE, Universidade do Porto, Porto, Portugal.']}, {'last_name': 'Ribeiro-Vidal', 'fore_name': 'Honorato', 'initials': 'H', 'affiliations': ['Especialização em Periodontologia e Implantes, Faculdade de Medicina Dentária, Universidade do Porto, Porto, Portugal.', 'LAQV/REQUIMTE, Universidade do Porto, Porto, Portugal.']}, {'last_name': 'Faria Almeida', 'fore_name': 'Ricardo', 'initials': 'R', 'affiliations': ['Especialização em Periodontologia e Implantes, Faculdade de Medicina Dentária, Universidade do Porto, Porto, Portugal.', 'LAQV/REQUIMTE, Universidade do Porto, Porto, Portugal.']}
+JOURNAL: {'title': 'Journal of periodontal research', 'iso_abbreviation': 'J Periodontal Res'}
+DATE: {'year': '2025', 'month': '11', 'day': '18'}
+DOI: 10.1111/jre.70054
+PMID: 41251271
+SOURCE: PubMed abstract only (full text not retrieved)
+
+ABSTRACT:
+This RCT offers a nuanced understanding of nonsurgical peri-implantitis management (air polishing with erythritol versus ultrasonic instrumentation, in combination with systemic metronidazole), integrating both clinical and patient-centered outcomes. The results showed that the ultrasonic instrumentation reduced probing depth and bleeding on probing, throughout the 12-month period.
