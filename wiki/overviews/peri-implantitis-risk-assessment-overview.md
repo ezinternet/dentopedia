@@ -136,7 +136,7 @@ Peri-implant mucositis is the reversible precursor to peri-implantitis, making i
 ## Related Papers
 
 **Prevalence (2017 World Workshop criteria):**
-- [[implants/peri-implantitis/reis-2025-peri-implant-disease-prevalence-world-workshop-criteria]] — SR+MA (20 studies, 2017 WW criteria only): peri-implant mucositis (Peri-implant Mucositis, PIM) 36.1%, peri-implantitis (Peri-implantitis, PI) 19.5% at patient level; implant-level PI 12.5%; smoking, periodontal history, diabetes are consistent risk markers. Supersedes Derks 2015 (pre-WW criteria); use this as the current prevalence baseline. (sr+ma, 2025)
+- [[implants/peri-implantitis/reis-2025-peri-implant-disease-prevalence-world-workshop-criteria]] — SR+MA (20 studies, 2017 WW criteria only): peri-implant mucositis (Peri-implant Mucositis, PIM) 63.0%, peri-implantitis (Peri-implantitis, PI) 25.0% at patient level; implant-level PI 18.0%; smoking, periodontal history, diabetes are consistent risk markers. Supersedes Derks 2015 (pre-WW criteria); use this as the current prevalence baseline. (sr+ma, 2025)
 
 - [[implants/peri-implantitis/moraschini-2026-prevalence-of-peri-implantitis-around]] — SR+MA (19 studies, 891 zirconia implants): implant-level peri-implantitis 2% (≤3 y), 2% (>3–5 y), 8% (>5 y); zirconia vs titanium RR 1.66 (0.48–5.71) in 5 RCTs, GRADE low to very low — not equivalence (sr+ma, 2026)
 
