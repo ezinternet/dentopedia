@@ -2,7 +2,7 @@
 title: "구강외과·제3대구치(사랑니) — third-molar"
 authors: navigation
 year: 2026
-date: 2026-10-17
+date: 2026-10-21
 doi: N/A
 source: navigation
 category: oral-surgery/third-molar
@@ -15,20 +15,20 @@ tags: [navigation, category-index, third-molar]
 > [!summary] 한국어 핵심요약
 > - **분야**: 구강외과·제3대구치(사랑니)
 > - **범위**: Third molar (wisdom tooth) extraction — surgical indications/technique (flap design, bone removal, sectioning), coronectomy, pericoronitis, extraction complications (mandibular fracture, dry socket/alveolar osteitis), postop adjuncts (PRF/CGF, LLLT, cooled irrigation, pain management)
-> - **수록 논문**: 27편
+> - **수록 논문**: 28편
 
 ## Three-line Summary
 
 **Scope**: Third molar (wisdom tooth) extraction — surgical indications/technique (flap design, bone removal, sectioning), coronectomy, pericoronitis, extraction complications (mandibular fracture, dry socket/alveolar osteitis), postop adjuncts (PRF/CGF, LLLT, cooled irrigation, pain management)
-**Indexed papers**: 27 papers in `wiki/oral-surgery/third-molar/`.
+**Indexed papers**: 28 papers in `wiki/oral-surgery/third-molar/`.
 
 ## 세줄요약
 
 **분야**: 구강외과·제3대구치(사랑니)
-**수록 논문**: 27편
+**수록 논문**: 28편
 **하위 카테고리**: 없음
 
-## Papers in this Category (27)
+## Papers in this Category (28)
 
 | Paper |
 |---|
@@ -58,4 +58,5 @@ tags: [navigation, category-index, third-molar]
 | [[rosa-2024-laser-therapy-dry-socket-sr|Investigation of alveolar osteitis and the effectiveness of laser treatment: a unified Meta-analysis and review of the literature]] |
 | [[schmidt-2021-pericoronitis-management-antibiotic-prescribing-recommendations|A Review of Evidence-Based Recommendations for Pericoronitis Management and a Systematic Review of Antibiotic Prescribing for Pericoronitis among Dentists]] |
 | [[sun-2026-third-molar-health-management-expert-consensus|Expert consensus on the management of third molar health]] |
+| [[toledano-serrabona-2021-xenograft-periodontal-defects-mandibular-third|A systematic review and meta-analysis on the effectiveness of xenograft to prevent periodontal defects after mandibular third molar extraction]] |
 | [[ye-2021-mandibular-third-molar-impaction-pathologies|Pathologies associated with the mandibular third molar impaction]] |
