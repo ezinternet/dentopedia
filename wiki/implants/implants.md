@@ -16,21 +16,21 @@ tags: [navigation, category-index, implants]
 > - **분야**: 임플란트
 > - **범위**: Implant macrogeometry/thread & design, osseointegration biology, abutment & connection, bone quality/density, FEA stress analysis, failure risk factors & systemic-condition effects, flapless vs flapped surgery, zirconia vs titanium implants, prosthesis misfit — topics without their own subcategory.
 > - **하위 카테고리**: [[full-arch]] · [[isq]] · [[loading-protocol]] · [[mbl]] · [[osseodensification]] · [[osteotomy-thermal]] · [[peri-implantitis]] · [[ridge-augmentation]] · [[short-narrow]] · [[soft-tissue]] · [[surface]] · [[survival]] · [[vertical-ridge-augmentation]] · [[vitamin-d]]
-> - **수록 논문**: 84편
+> - **수록 논문**: 85편
 
 ## Three-line Summary
 
 **Scope**: Implant macrogeometry/thread & design, osseointegration biology, abutment & connection, bone quality/density, FEA stress analysis, failure risk factors & systemic-condition effects, flapless vs flapped surgery, zirconia vs titanium implants, prosthesis misfit — topics without their own subcategory.
-**Indexed papers**: 84 papers in `wiki/implants/`.
+**Indexed papers**: 85 papers in `wiki/implants/`.
 **Sub-categories**: [[full-arch]], [[isq]], [[loading-protocol]], [[mbl]], [[osseodensification]], [[osteotomy-thermal]], [[peri-implantitis]], [[ridge-augmentation]], [[short-narrow]], [[soft-tissue]], [[surface]], [[survival]], [[vertical-ridge-augmentation]], [[vitamin-d]]
 
 ## 세줄요약
 
 **분야**: 임플란트
-**수록 논문**: 84편
+**수록 논문**: 85편
 **하위 카테고리**: full-arch, isq, loading-protocol, mbl, osseodensification, osteotomy-thermal, peri-implantitis, ridge-augmentation, short-narrow, soft-tissue, surface, survival, vertical-ridge-augmentation, vitamin-d
 
-## Papers in this Category (84)
+## Papers in this Category (85)
 
 | Paper |
 |---|
@@ -100,6 +100,7 @@ tags: [navigation, category-index, implants]
 | [[raghavan-2025-bone-density-implant-dentistry-review|The critical role of bone density in implant dentistry: a review article]] |
 | [[rawat-2024-per-ingvar-branemark-father-modern-implantology|Dr. Per-Ingvar Branemark: The Father of Modern Dental Implantology]] |
 | [[rios-santos-2020-one-abutment-one-time-rct|One Abutment One Time: A Multicenter, Prospective, Controlled, Randomized Study]] |
+| [[romanos-2022-macroscopic-evidence-of-surface-changes|Macroscopic Evidence of Surface Changes of Dental Implants After Insertion and Removal in Dense Bone: In Vitro Study]] |
 | [[rosa-2024-do-dental-implants-bone-types|Do dental implants installed in different types of bone (I, II, III, IV) have different success rates? A systematic review and meta-analysis]] |
 | [[ruhstorfer-2024-customized-vs-conventional-healing-abutments-sr|Systematic review of peri-implant conditions and aesthetic outcomes of customized versus conventional healing abutments]] |
 | [[s41598-021-90142-5|The limit of tolerable micromotion for implant osseointegration: a systematic review]] |
