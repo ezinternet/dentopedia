@@ -824,3 +824,101 @@ Found by manual PDF discovery (not the original scout search), 2026-07-25 — sa
       "Biological and biomechanical evaluation of bone remodelling and implant stability after using an osteotome technique" — Clin Oral Implants Res
 - [ ] PMID 41902600 | preclinical | OA:none | bone-microfracture | edat 2026/
       "Injectable Nanofiber Gel Enhances Osseointegration in a Rabbit Model" — J Dent Res
+- [ ] PMID 42867553 | SR+MA | OA:none | bone-graft-material | edat 2026
+      "Allograft versus xenograft for alveolar ridge preservation in non-molar extraction sockets: a systematic review and meta-analysis of randomized controlled trials." — Clin Oral Investig
+- [x] PMID 42827641 | SR | OA:PMC PMC13630656 | bone-graft-material | edat 2026 — INGESTED 2026-10-21 → wiki/bone-regeneration/ridge-preservation/zhang-2026-component-network-meta-analysis-scaffold
+      "Component network meta-analysis of scaffold materials, platelet-rich fibrin and barrier membranes for alveolar ridge preservation." — Front Oral Health
+- [x] PMID 42740459 | SR+MA | OA:PMC PMC13575442 | bone-graft-material | edat 2026 — INGESTED 2026-10-21 → wiki/implants/vertical-ridge-augmentation/saleh-2026-efficacy-engineered-scaffolds-horizontal-vertical
+      "Efficacy of engineered scaffolds for horizontal and vertical ridge augmentation: A systematic review and meta-analysis." — J Periodontol
+- [x] PMID 40663189 | SR | OA:PMC PMC12263524 | bone-graft-material | edat 2025 — INGESTED 2026-10-21 → wiki/sinus-lift/lateral/somngam-2025-new-bone-formation-biphasic-calcium
+      "New bone formation of biphasic calcium phosphate bone substitute material: a systematic review and network meta-analysis of randomized controlled trials (RCTs)." — Int J Implant Dent
+- [ ] PMID 40537329 | SR+MA | OA:none | bone-graft-material | edat 2025
+      "Comparative evaluation of bovine versus porcine bone xenografts in maxillary sinus floor augmentation: a systematic review and meta-analysis." — Int J Oral Maxillofac Surg
+- [ ] PMID 40062553 | SR | OA:none | bone-graft-material | edat 2025
+      "Comparative Insights into Bone Substitutes for Two-Stage Maxillary Sinus Floor Elevation: A Bayesian Network Approach." — Tissue Eng Part C Methods
+- [x] PMID 39917693 | SR | OA:PMC PMC11797801 | bone-graft-material | edat 2024 — INGESTED 2026-10-21 → wiki/bone-regeneration/nunn-2024-novel-alloplast-carbonate-apatite-granules
+      "A systematic review of a novel alloplast carbonate apatite granules." — Front Dent Med
+- [ ] PMID 39075014 | SR+MA | OA:none | bone-graft-material | edat 2024
+      "Bovine-originated xenografts versus synthetic bone grafting materials in lateral maxillary sinus floor augmentation: A systematic review and meta-analysis." — Clin Implant Dent Relat Res
+- [ ] PMID 38780363 | SR | OA:none | bone-graft-material | edat 2024
+      "Advancements in alveolar bone reconstruction: A systematic review of bone block utilization in dental practice." — Dent Med Probl
+- [ ] PMID 38607362 | SR | OA:none | bone-graft-material | edat 2024
+      "Single-Stage Lateral Sinus Floor Elevation Using Different Grafts: A Systematic Review of Controlled Clinical Trials." — Int J Oral Maxillofac Implants
+- [x] PMID 38399540 | SR | OA:PMC PMC10890160 | bone-graft-material | edat 2024 — INGESTED 2026-10-21 → wiki/sinus-lift/lateral/pogacian-maier-2024-allograft-bone-lateral-sinus-sr
+      "The Use of Allograft Bone in the Lateral Approach of Sinus Floor Elevation: A Systematic Review of Clinical Studies." — Medicina (Kaunas)
+- [ ] PMID 37991404 | SR+MA | OA:none | bone-graft-material | edat 2023
+      "Maxillary Sinus Floor Augmentation With Allograft Alone Compared With Alternate Grafting Materials: A Systematic Review and Meta-Analysis." — J Craniofac Surg
+- [ ] PMID 37002888 | SR | OA:none | bone-graft-material | edat 2023
+      "Bioactive Glasses in Periodontal Regeneration: A Systematic Review." — Tissue Eng Part C Methods
+- [ ] PMID 35881815 | SR | OA:none | bone-graft-material | edat 2022
+      "Bone Graft Osseous Changes After Maxillary Sinus Floor Augmentation: A Systematic Review." — J Oral Implantol
+- [ ] PMID 35568576 | SR+MA | OA:none | bone-graft-material | edat 2022
+      "Comparison of the osteogenic effectiveness of an autogenous demineralised dentin matrix and Bio-Oss® in bone augmentation: a systematic review and meta-analysis." — Br J Oral Maxillofac Surg
+- [ ] PMID 34530060 | SR+MA | OA:none | bone-graft-material | edat 2021
+      "Tricalcium phosphate (-containing) biomaterials in the treatment of periodontal infra-bony defects: A systematic review and meta-analysis." — J Dent
+- [ ] PMID 34176715 | SR | OA:none | bone-graft-material | edat 2021
+      "What grafting materials produce greater alveolar ridge preservation after tooth extraction? A systematic review and network meta-analysis." — J Craniomaxillofac Surg
+- [ ] PMID 34120778 | SR | OA:none | bone-graft-material | edat 2021
+      "Xenograft materials in maxillary sinus floor elevation surgery: a systematic review with network meta-analyses." — Br J Oral Maxillofac Surg
+- [x] PMID 33926447 | SR+MA | OA:PMC PMC8082765 | bone-graft-material | edat 2021 — INGESTED 2026-10-21 → wiki/periodontics/jasser-2021-effectiveness-beta-tricalcium-phosphate-comparison
+      "Effectiveness of beta-tricalcium phosphate in comparison with other materials in treating periodontal infra-bony defects around natural teeth: a systematic review and meta-analysis." — BMC Oral Health
+- [ ] PMID 33465775 | SR+MA | OA:none | bone-graft-material | edat 2022
+      "Clinical and Histological Outcomes of Maxillary Sinus Floor Augmentation With Synthetic Bone Substitutes for Dental Implant Treatment: A Meta-Analysis." — J Oral Implantol
+- [x] PMID 33230862 | SR | OA:PMC PMC8247032 | bone-graft-material | edat 2021 — INGESTED 2026-10-21 → wiki/sinus-lift/lateral/trimmel-2021-relative-performance-various-biomaterials
+      "Relative performance of various biomaterials used for maxillary sinus augmentation: A Bayesian network meta-analysis." — Clin Oral Implants Res
+- [x] PMID 33037794 | SR+MA | OA:PMC PMC8254883 | bone-graft-material | edat 2021 — INGESTED 2026-10-21 → wiki/oral-surgery/third-molar/toledano-serrabona-2021-xenograft-periodontal-defects-mandibular-third
+      "A systematic review and meta-analysis on the effectiveness of xenograft to prevent periodontal defects after mandibular third molar extraction." — Med Oral Patol Oral Cir Bucal
+- [ ] PMID 32618176 | SR | OA:none | bone-graft-material | edat 2020
+      "Histomorphometric evaluation of bovine bone and equine bone matrix in maxillary sinus floor augmentation: a systematic review." — J Biol Regul Homeost Agents
+- [x] PMID 32040468 | SR+MA | OA:PMC PMC7103446 | bone-graft-material | edat 2020 — INGESTED 2026-10-21 → wiki/bone-regeneration/perez-gonzalez-2020-assessment-clinical-outcomes-histomorphometric-findings
+      "Assessment of clinical outcomes and histomorphometric findings in alveolar ridge augmentation procedures with allogeneic bone block grafts: A systematic review and meta-analysis." — Med Oral Patol Oral Cir Bucal
+- [ ] PMID 31797859 | SR+MA | OA:none | bone-graft-material | edat 2019
+      "Role of Synthetic Hydroxyapatite-In Socket Preservation: A Systematic Review and Meta-analysis." — J Contemp Dent Pract
+- [ ] PMID 31230768 | SR | OA:none | bone-graft-material | edat 2019
+      "Do osteoconductive bone substitutes result in similar bone regeneration for maxillary sinus augmentation when compared to osteogenic and osteoinductive bone grafts? A systematic review and frequentist network meta-analysis." — Int J Oral Maxillofac Surg
+- [ ] PMID 31086858 | SR | OA:none | bone-graft-material | edat 2019
+      "Regenerative bone potential after sinus floor elevation using various bone graft materials: a systematic review." — Quintessence Int
+- [ ] PMID 29771732 | SR+MA | OA:none | bone-graft-material | edat 2018
+      "Maxillary Sinus Floor Augmentation With Synthetic Bone Substitutes Compared With Other Grafting Materials: A Systematic Review and Meta-analysis." — Implant Dent
+- [ ] PMID 29135351 | SR | OA:none | bone-graft-material | edat 2017
+      "Human Studies of Vertical and Horizontal Alveolar Ridge Augmentation Comparing Different Types of Bone Graft Materials: A Systematic Review." — J Oral Implantol
+- [ ] PMID 28817133 | SR | OA:none | bone-graft-material | edat 2017
+      "Identification and Efficacy Ranking of Allograft and Xenograft for Extraction and Ridge Preservation Procedures." — Int J Periodontics Restorative Dent
+- [ ] PMID 28366452 | SR | OA:none | bone-graft-material | edat 2017
+      "Lateral ridge augmentation with Bio-Oss alone or Bio-Oss mixed with particulate autogenous bone graft: a systematic review." — Int J Oral Maxillofac Surg
+- [ ] PMID 27712001 | SR | OA:none | bone-graft-material | edat 2016
+      "Alveolar ridge preservation after tooth extraction: a Bayesian Network meta-analysis of grafting materials efficacy on prevention of bone height and width reduction." — J Clin Periodontol
+- [ ] PMID 27534916 | SR+MA | OA:none | bone-graft-material | edat 2016
+      "Histomorphometric results of different grafting materials and effect of healing time on bone maturation after sinus floor augmentation: a systematic review and meta-analysis." — J Periodontal Res
+- [ ] PMID 27222433 | SR+MA | OA:none | bone-graft-material | edat 2016
+      "Histological outcomes of sinus augmentation for dental implants with calcium phosphate or deproteinized bovine bone: a systematic review and meta-analysis." — Int J Oral Maxillofac Surg
+- [ ] PMID 27012858 | SR | OA:none | bone-graft-material | edat 2016
+      "Comparative effectiveness of natural and synthetic bone grafts in oral and maxillofacial surgery prior to insertion of dental implants: Systematic review and network meta-analysis of parallel and cluster randomized controlled trials." — J Dent
+- [ ] PMID 26452326 | SR+MA | OA:none | bone-graft-material | edat 2015
+      "Histomorphometric outcomes after lateral sinus floor elevation procedure: a systematic review of the literature and meta-analysis." — Clin Oral Implants Res
+- [ ] PMID 25867987 | SR | OA:none | bone-graft-material | edat 2015
+      "Biomaterials for promoting periodontal regeneration in human intrabony defects: a systematic review." — Periodontol 2000
+- [x] PMID 25535616 | SR | OA:PMC PMC4177739 | bone-graft-material | edat 2014 — INGESTED 2026-10-21 → wiki/bone-regeneration/monje-2014-feasibility-utilizing-allogeneic-bone-blocks
+      "On the feasibility of utilizing allogeneic bone blocks for atrophic maxillary augmentation." — Biomed Res Int
+- [ ] PMID 25471690 | SR | OA:none | bone-graft-material | edat 2014
+      "Evaluation of the bone regeneration potential of bioactive glass in implant site development surgeries: a systematic review of the literature." — Clin Oral Investig
+- [ ] PMID 23748301 | SR | OA:none | bone-graft-material | edat 2013
+      "Alterations in bone quality after socket preservation with grafting materials: a systematic review." — Int J Oral Maxillofac Implants
+- [ ] PMID 23680976 | SR | OA:none | bone-graft-material | edat 2013
+      "Block allograft for reconstruction of alveolar bone ridge in implantology: a systematic review." — Implant Dent
+- [ ] PMID 22171533 | SR | OA:none | bone-graft-material | edat 2011
+      "Risk of prion disease transmission through bovine-derived bone substitutes: a systematic review." — Clin Implant Dent Relat Res
+- [ ] PMID 22099314 | SR+MA | OA:none | bone-graft-material | edat 2011
+      "Maxillary sinus lift with solely autogenous bone compared to a combination of autogenous bone and growth factors or (solely) bone substitutes. A systematic review." — Int J Oral Maxillofac Surg
+- [ ] PMID 21443592 | SR | OA:none | bone-graft-material | edat 2011
+      "Maxillary sinus floor augmentation with Bio-Oss or Bio-Oss mixed with autogenous bone as graft: a systematic review." — Clin Oral Implants Res
+- [ ] PMID 20556251 | SR | OA:none | bone-graft-material | edat 2010
+      "Allogeneic bone onlay grafts for alveolar ridge augmentation: a systematic review." — Int J Oral Maxillofac Implants
+- [ ] PMID 20334505 | MA | OA:none | bone-graft-material | edat 2010
+      "A meta-analysis of histomorphometric results and graft healing time of various biomaterials compared to autologous bone used as sinus floor augmentation material in humans." — Tissue Eng Part B Rev
+- [ ] PMID 14971256 | MA | OA:none | bone-graft-material | edat 2003
+      "The efficacy of bone replacement grafts in the treatment of periodontal osseous defects. A systematic review." — Ann Periodontol
+- [ ] PMID 12653225 | MA | OA:none | bone-graft-material | edat 2003
+      "Assessment of the value of anorganic bone additives in sinus floor augmentation: a review of clinical reports." — Int J Oral Maxillofac Surg
+- [ ] PMID 9581402 | MA | OA:none | bone-graft-material | edat 1998
+      "A review of survival rates for implants placed in grafted maxillary sinuses using meta-analysis." — Int J Oral Maxillofac Implants
