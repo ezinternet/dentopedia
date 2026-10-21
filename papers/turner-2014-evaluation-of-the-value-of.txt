@@ -1,0 +1,102 @@
+TITLE: Evaluation of the value of bone training (progressive bone loading) by using the Periotest: A clinical study
+AUTHORS: Turner Porus S., Nentwig Georg H.
+JOURNAL: Contemporary Clinical Dentistry
+ID[pmcid]: PMC4229753
+ID[pmcid-ver]: PMC4229753.1
+ID[pmcaid]: 4229753
+ID[pmcaiid]: 4229753
+ID[pmid]: 25395760
+ID[doi]: 10.4103/0976-237X.142811
+ID[publisher-id]: CCD-5-461
+
+## ABSTRACT
+Aim:The aim of this clinical study was to determine if progressive bone loading was effective in improving bone density and rigidity of implants.
+Materials and Methods:11 implants were placed with conventional loading and 14 implants were placed with progressive loading. The Periotest instrument was used to assess implant mobility. Mean difference of values were recorded in both qualities of bone.
+Results:Conventional loading in poor quality bone showed a significant decrease in rigidity of the bone as compared to conventional loading in good quality of bone. Progressive loading in both poor and good quality bone showed a significant increase in bone rigidity.
+Conclusion:Implants should not be loaded conventionally in poor quality bone but should be progressively loaded to prevent decrease in density and rigidity around implants.
+
+## Introduction
+
+Bone training also known as “progressive bone loading” was first advocated by Nentwig and Misch based primarily on emperical grounds. Conventional bone loading in full occlusion with porcelain restorations, especially in poor quality bone has been reported to cause crestal bone loss and at times failure of the implant. The objective of this clinical study was to determine if progressive bone loading was effective in improving bone density around implants by comparing it with conventional loading. It was also decided to determine if progressive loading is important only in poor quality bone or should be used with all qualities of bone.
+
+Several workers have reported that implants are most at risk of failure at the time of loading, that is, after second stage surgery.[12] The failure rate is more seen in poor quality of bone (less dense) than in more compact bone.[23] Bone formations around implants occur gradually over time. Initially, less organized and less mineralized woven bone forms, which is not strong enough, to withstand the forces of mastication.[4] This woven bone is subsequently replaced by more organized and denser lamellar bone, which is able to sustain functional loads.[4] This process known as remodeling occurs after the implants are loaded. The strain produced in bone on loading increases the density of the lamellar bone which is then able to sustain functional loads.[5] It is therefore necessary to load the bone gradually thus giving it time to remodel and increase its density and its load bearing capacity.[467] It is postulated that if bone and especially poor quality bone is loaded immediately after second stage surgery, with definitive restorations in full occlusion it may exceed its strength capabilities leading to crestal bone loss and eventually to implant failure.[67] Rotter et al.[8] studied progressive bone loading with the Periotest instrument and came to the conclusion that, progressive bone loading appears to enhance bone rigidity. However, they compared progressive bone loading with nonloading. Appleton et al.[9] did a radiographic study to assess progressive bone loading by comparing with conventional loading in full function and found greater crestal bone loss in conventionally loaded bone. The Periotest instrument which has been shown by earlier studies to be a reliable tool for measuring bone to implant contact would be used in the study.[1011]
+
+It would therefore be interesting to compare the change in rigidity in poor quality bone and in good quality in both the progressively loaded and conventionally loaded group to see the importance if any, on the type of loading.
+
+## Materials and Methods
+
+Fifteen patients in the private practice of the examiner who volunteered were selected for this prospective and controlled clinical study. Patients were randomly assigned into either the control conventionally loaded group or the experimental progressively loaded group. The selection criteria were not limited, and the subjects with missing teeth from both the maxillary and mandibular posterior region were included. Eleven implants were assigned to the control group, and 14 were assigned to the experimental group. Implants length varied from 8 to 14 mm and the width were 3.5 and 4.5 mm based on the anatomic limitations of each site. The quality of the bone was assessed as good or poor bone density by the resistance to drilling at the time of the surgery. All implants underwent a 3 months osseointegration healing period before the second stage surgery to uncover the implants. Both the implant surgery and prosthetic rehabilitation were done by the investigator.
+
+The Periotest instrument (Gulden-Medizinteknik, Germany) developed by Schulte et al. at the University of Tubingen was selected to assess the stability of the implants. The Periotest values indicate peri-implant damping and correlate closely to mobility of the implant. The underlying design principal of Periotest function is that an electronically controlled rod of 8 g taps the implant 4 times per s at a constant speed. The rod is decelerated when it touches the implant. The greater the implant stability, the higher the deceleration and thus higher the damping effect of the peri-implant tissues. After tapping the spot, the rod recoils. Faster recoil indicates increased damping. In practice the Periotest test values (PTVs) are based on a numerical scale ranging from −8 to +50, determined by mathematical calculations. The lower Periotest values denote higher implant stability and thus the higher damping effect of the peri-implant tissues. The same Periotest instrument was used throughout the study, and it was calibrated before starting any of the actual measurements. The patients head was stabilized so that the implants were perpendicular to the floor. The handpiece was held parallel to the floor. The spot chosen for tapping was just below the edge of the coronal platform of each abutment [Figure 1]. Three independent Periotest measurements were taken for each implant. The measurements were averaged and reported as the mean value for each implant placed. Deviations in the horizontal plane of the handpiece influence the measured results. Based on a study for natural teeth, fillings or crowns on the teeth have no or negligible effect on measured results.[12]
+
+[FIGURE] Recording of Periotest values on the Abutment
+
+Fourteen of the implants were progressively loaded (bone training) using composite resin provisional restorations. The composite resin crowns were fabricated to have light contact with the antagonist natural tooth or crown. The method used was to place articulating paper of 100 μ and ask the patient tightly to close on it, the paper is then able to be pulled with slight resistance. The patients were also placed on a soft diet during this period of 45 days. Six implants were considered to have been placed in good bone quality and eight implants in poor bone quality. Patients were asked to use a soft diet during this period of 45 days. Periotest values were taken on abutments before provisional cementation and after 45 days on abutments after removal of provisional restorations. A control group of 11 implants were conventionally loaded with final porcelain fused to metal (PFM) crowns. The PFM crowns were in full occlusal contact and had no dietary restrictions. Five implants were considered to have been a place in good bone quality and six to have been placed in poor bone quality. The Periotest values for this group were taken on the PFM crowns. Here the spot chosen for tapping was at the margin of the crown [Figure 2].
+
+[FIGURE] Recording of Periotest values on porcelain fused to metal crowns
+
+The mean change in PTVs after 45 days for both the progressively loaded and the conventionally loaded groups were evaluated to compare the change in the PTV values. The data were analyzed for statistical significance using the Student's t-test.
+
+The implants used in the study were “ANKYLOS” implants (Dentsply Implants, Hanau, Germany) with grit blasted, and thermally acid etched surfaces.
+
+## Results
+
+The PTVs for the conventionally loaded group in good bone quality is presented in Table 1. The mean PTV values at the time of cementation on PFM crowns was −2.5 and after 45 days of cementation was −2.74 [Table 2 and Graph 1]. The Student's t-test one-tailed P value is 0.0723 > 0.025, therefore, the marginal increase in rigidity was not found significantly greater.
+
+[TABLE] PTV of conventionally loaded implants in good bone density
+
+[TABLE] Mean change in PTV after conventional loading in good bone density
+
+[TABLE] t-test: Paired two sample for means
+
+[FIGURE] The mean PTV's at the time of cementation and after 45 days for Conventional loading in good bone density
+
+The PTVs for the conventionally loaded group in poor bone quality is presented in Table 3. The mean PTV values at the time of cementation on PFM crown was −2.08 and after 45 days of cementation it was −1.38 [Table 4 and Graph 2]. The Student's t-test one-tailed P value is 0.0211 < 0.025, therefore, a decrease in rigidity was found to be significantly lower.
+
+[TABLE] PTVs of conventionally loaded implants in poor bone quality
+
+[TABLE] Mean change in PTVs after conventional loading in poor bone quality
+
+[TABLE] t-test: Paired two sample for means
+
+[FIGURE] The mean PTV's at the time of cementation and after 45 days for Conventional loading in poor bone density
+
+The PTVs for the progressively loaded group in good bone quality is presented in Table 5. The mean PTVs on abutments on the day of cementation was −4.8 and after 45 days of cementation, the mean PTVs on abutments was −5.6 [Table 6 and Graph 3]. The Student's t-test one-tailed P value is 0.0143 < 0.025, therefore, an increase in rigidity was found to be significantly greater.
+
+[TABLE] PTVs of progressively loaded implants in good bone density
+
+[TABLE] Mean change in PTVs of progressively loaded implants in good bone density
+
+[TABLE] t-test: Paired two sample for means
+
+[FIGURE] The mean PTV's at the time of cementation and after 45 days for progressively loading in good bone density
+
+The PTVs for progressively loaded group in poor bone density is presented in Table 7. The mean PTVs on abutments on the day of cementation was −3.5 and after 45 days of cementation, the mean PTV on abutment was −5.01 [Table 8 and Graph 4]. The Student's t-test one-tailed P value is 0.000264 < 0.025 therefore, an increase in rigidity was found to be significantly greater.
+
+[TABLE] PTVs of progressively loaded implants in poor bone density
+
+[TABLE] Mean change in PTVs after progressive loading in poor bone density
+
+[TABLE] t-test: Paired two sample for means
+
+[FIGURE] The mean PTV's at the time of cementation and after 45 days for progressively loading in poor bone density
+
+## Discussion
+
+In clinical practice, density of the bone supporting the implants has been shown to play a significant role in the stability of the implants[131415]. A few workers, Adell et al. 1986, Roberts et al., Misch, Nentwig, have recommended that when bone is not fully mineralized it should not be functionally loaded in one stage, but should be gradually loaded giving time for the bone to mineralize and increase in density. However, generally in implant practice conventional loading in a single stage in full functional loading is usually followed. The definitive restorations are usually PFM restorations. Conventional loading in poor bone quality has been reported to cause increased crestal bone loss (Appleton et al.).
+
+The Periotest instrument as a measure of implant mobility has been shown in earlier studies to be a reliable and reproducible method to assess implant stability by determining the damping effect of the peri-implant tissues. The present study used the Periotest instrument to study implant mobility in progressively loaded and conventionally loaded groups. An important difference of the present study was that the patients were divided into, ones exhibiting good bone quality and the other exhibiting poor bone quality, in both the conventionally loaded and the progressive loaded group.
+
+The study has shown that implants in good bone quality need not be progressively loaded probably due to the amount of cortical bone present that gives the implant a good damping effect. However, in poor bone quality as seen in the posterior maxilla and at times in the posterior mandible, it would be advantageous to progressively load the implant. Slowly increasing the stress on the maturing bone allows time for the bone to increase in density and thus be able to withstand the subsequent higher loading.
+
+A drawback of this study was that, the Periotest value in the conventional loading group was taken on PFM crowns whereas that in the progressive loading group was taken on the abutments. Although previous studies on natural teeth have shown little or no difference in Periotest values with or without crowns, still it would have been better if Periotest values in both the groups could have been taken on abutments.
+
+All the implants in this study were not splinted and were single crowns. Although this was good, because it eliminated the influence of splinting on the Periotest values, it can also be called a limitation, because there is no way we can know whether the results could have been different had the crown been splinted.
+
+It is recommended that further studies be done with bridges and splinted crowns. Also, it would be interesting to see whether the results are comparable if instead of using the Periotest to assess mobility we used the Resonance Frequency Analysis instrument Osstel Mentor to record the implant mobility.
+
+## Conclusion
+
+The following conclusions can be derived from this study:
+
+It is important to introduce progressive loading for implants placed in poor quality bone since the study results revealed significant loss of rigidity when implants in poor quality bone were loaded conventionallyProgressive bone loading also improved rigidity of the bone in good bone qualityConventional bone loading in poor bone quality led to a significant decrease in bone qualityConventional loading in good bone quality showed no significant change in bone rigidity around implants.
