@@ -111,6 +111,8 @@ Three papers, read together, trace a mechanistic arc from the disease's foundati
 - **Contradicts** the conventional framing of diabetes as a major independent peri-implantitis risk factor — but the study was **underpowered** (observed ~50% peri-implantitis prevalence in both arms vs an 8% planning assumption) and a very high history-of-periodontitis rate in both groups (83% diabetic, 94% non-DM) likely confounded/masked any T2DM-specific effect
 - Reframes the clinical message toward **quality of metabolic control** rather than the T2DM diagnosis itself; plaque index, longer loading time, and cement retention (vs screw) were the operative correlates of disease in this cohort [cross-sectional, underpowered — treat as hypothesis-generating, not a refutation of diabetes risk]
 
+**Zirconia implants (Moraschini 2026, SR+MA, 19 studies, 891 zirconia implants):** implant-level peri-implantitis 2% at ≤3 years, 2% at >3–5 years and 8% (95% CI 0–23%) beyond 5 years, with no significant difference vs titanium in 5 RCTs (RR 1.66, 0.48–5.71) at low to very low certainty — lower short-term figures reflect short follow-up and looser definitions, not proven material superiority ([[implants/peri-implantitis/moraschini-2026-prevalence-of-peri-implantitis-around]]; risk framing in [[overviews/peri-implantitis-risk-assessment-overview]]).
+
 ---
 
 ## Prosthetic Design: Modifiable MBL Levers
