@@ -1,0 +1,9 @@
+TITLE: Progressive prosthetic transference for root form implants.
+AUTHORS: Perel ML
+JOURNAL: Implant Dentistry 1994;3(1):42-6
+ID[pmid]: 7920389
+ID[doi]: 10.1097/00008505-199404000-00008
+NOTE: abstract-only — no PMC record; text below is the PubMed abstract.
+
+## ABSTRACT
+The prosthodontic implementation of the concept of progressive bone loading for root form implants is addressed. The use of transitional prostheses of acrylic resin with reinforced cast substructures are utilized to promote progressive prosthetic transference in arches with as few as three remaining natural roots. Progressive prosthetic transference is a clinical execution of biologic, biomechanical, and physiologic principles that are compatible with the needs to foster and maintain osseointegration.
