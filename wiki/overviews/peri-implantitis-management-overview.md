@@ -41,6 +41,7 @@ tags: [peri-implantitis, peri-implant-mucositis, prevalence, decontamination, GB
 > - **신규 — 병인의 제3의 축 (biomaterial/티타늄 exposome) · Kotsakis 2025 (JDR Critical Review)**: 임플란트주위염을 plaque-only 모델에서 host–microbiome–biomaterial (H-M-B) 삼각으로 재구성. 임플란트 유래 티타늄 입자(implant-derived Ti particles, i-TiPs)가 주위염 병소의 75–100%에서 검출(건강부위엔 거의 없음)되고, 세균 LPS와 독립적으로 인플라마좀·TLR·C3 보체를 활성화하는 **비생물학적(abiotic) 위험신호**로 작용 → 항균 단독요법이 <50% 해소에 그치는 이유를 설명. 티타늄 농도는 미생물 alpha-diversity와 역상관(*Veillonella parvula* 증가, Daubert 2018). **임상 경고: 연마성 티타늄 브러시 세정은 오히려 Ti 방출을 늘려 염증을 악화(Daubert 2023 RCT)** → 비연마성 도구 사용. 미래 방향은 host-modulatory(예: C3 억제제 AMY-101) 병용. 이로써 병소가 자연치유·항균요법에 저항하는 이유가 M1 대식세포 편향·Treg 기능부전에 더해 **티타늄 abiotic driver**까지 3중 설명.
 > - **신규 — 수술·위치 위험축 (surgical/positional) · Monje 2025 (AO/AAP SR 34편, Wang 2025 컨센서스 companion)**: 임플란트 **오식립(malposition, 3D 위치 오류)이 주위염 최강 수술 위험인자**(주위염에만, 점막염엔 무관; OR 2.6–48.2, 최고 Canullo OR=48.2). 임플란트 간 거리 <3mm(OR 2.98–8.6), 치조정하 깊이 ≥6mm(OR 8.5), **수복물변연–치조정 거리 <1.5mm(OR 2.29)** — Basak 2024의 RM-AC 3.42배를 동일 임계값에서 독립 보강. **임플란트 디자인·표면·시스템은 일관된 우열 없음** → "특정 브랜드가 주위염에 강하다"는 마케팅 주장 반박. 메시지: 주위염 예방은 임플란트 선택보다 3D 식립 위치가 훨씬 중요.
 > - **신규 — 비외과 보조요법 랭킹 · Bai 2024 (33편 RCT 네트워크 메타분석)**: 기계적 제거(MD) 병용 7요법(레이저·PBMT·PDT·전신항생제 SA·프로바이오틱스·국소항균제·에어폴리싱)을 SUCRA로 최초 동시 비교. 단일 우세 요법 없음 — 지표·병기에 따라 다름: 주위염 골/부착 수준(CAL·MBL)은 SA+MD 1위(SUCRA 87.4%/99.9%, 유의), 점막염 연조직(PPD·PLI)은 프로바이오틱스+MD 1위(SUCRA 100%/83.2%)이나 **PPD는 통계적 유의성 미달**. **SA+MD가 최강이나 EFP S3 지침은 전신항생제 상용 사용에 반대** — 저자도 이 tension을 명시하며 다른 보조제 우선 권고. 결국 Mauriello의 "보조제는 유의한 추가이득 부족" 결론을 랭킹 데이터로 재확인.
+> - **신규 (2026-10) — 항생제·장기 내구성**: 외과 치료 시 전신 항생제 병용은 1–2년 성공률만 높이고 (OR 2.33) ≥3년 이득은 없으며 표면 개질 임플란트에 국한 (Antonoglou 2025 SR+MA). 장기 추적 (≥5년) 에서 외과 치료는 효과적이나 비완치: 질환 해소 58.6%, 재치료 27.2% (Monje 2025 SR); 재건술 RCT 7년 성공률 23–31%로 1년(~50%)에서 하락, 치료 전 화농이 최강 실패 인자 (Isler 2025). 잔존 포켓 ≥6 mm·각화점막 <2 mm가 재발 신호 → 외과 후 정기 지지치료 (SPT) 필수 (Lee 2026: 치주염 이력 부위 생존 격차 상쇄). 상세는 [[overviews/peri-implantitis-treatment-modalities-overview]].
 
 ## Three-line Summary
 
@@ -203,6 +204,15 @@ Screw vs cement retention choice: clinically neutral on MBL — decide on retrie
 > **모범답안**: 이 오버뷰는 "**단일 표면 제염 프로토콜의 우월성은 입증되지 않음**"이라는 입장을 명시한다(Baima 2022 SR+MA, 16 RCT). EFP S3 가이드라인도 "특정 방법 권고 불가"다. 기계적·화학적·물리적(레이저·광역학) 프로토콜 중 임플란트주위염 해소율 차이가 없으며, 비외과 보조요법 네트워크 메타분석(Bai 2024, 33 RCT)에서도 단일 우세 요법이 없었다. 실제로는 **접근성을 최대화하는 외과 디자인 + 임상의가 익숙한 제염 방법** 조합이 현실적 최선이며, 재건 형태(GBR 또는 절제형)가 제염 방법 선택보다 더 중요한 결정 변수다.
 
 ## Related Papers
+
+### 신규 추가 (2026-10) — 항생제·장기 성적·SPT
+
+- [[implants/peri-implantitis/antonoglou-2025-do-systemic-antibiotics-offer-benefits]] — SR+MA 7편: 외과 치료 시 전신 항생제 병용은 1–2년 성공률 OR 2.33이나 ≥3년 이득 없음, 표면 개질 임플란트에서만 효과 (OR 4.10 vs 0.79)
+- [[implants/peri-implantitis/monje-2025-long-term-surgical-treatment-outcomes]] — SR 17편 (≥5년): 질환 해소 58.6%, 재치료 27.2%, 생존 88.6%; 잔존 포켓 ≥6 mm가 재발 ~8배
+- [[implants/peri-implantitis/isler-2025-long-term-treatment-outcomes-peri-implantitis]] — 재건술 RCT 7년: 성공률 1년 ~50% → 7년 23–31%; CGF는 콜라겐막 대비 이득 없음; 치료 전 화농(SoP)이 최강 실패 예측 (OR 15.45)
+- [[implants/survival/lee-2026-supportive-periodontal-therapy-improves-implant]] — 후향 코호트 3555 임플란트: 정기 SPT가 치주염 이력 부위 생존 격차를 거의 상쇄
+- [[implants/peri-implantitis/lanzetti-2024-full-arch-prostheses-supportive-peri-implant-care]] — 전악 보철 SR: 확정 간격 근거 부족, 6개월 위생관리 + 연 1회 이상 보철 탈착이 실용 기본값
+- [[implants/peri-implantitis/javiya-2025-peri-implantitis-etiology-prevention-management-strategies]] — 정성 SR (메타분석 없음, 사전등록 없음): 유병률 10–40%+, 위험인자·지지 유지관리 개괄 — 새 정보 적고 저근거
 
 ### 신규 추가 (2026-09) — 임플란트 내면 오염 제거 신기술
 
