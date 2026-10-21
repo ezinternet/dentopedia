@@ -1,0 +1,9 @@
+TITLE: Testing progressive loading of endosteal implants with the Periotest: a pilot study.
+AUTHORS: Rotter BE, Blackwell R, Dalton G
+JOURNAL: Implant Dentistry 1996;5(1):28-32
+ID[pmid]: 9151614
+ID[doi]: 10.1097/00008505-199600510-00006
+NOTE: abstract-only — no PMC record; text below is the PubMed abstract.
+
+## ABSTRACT
+The progressive loading of implants was first suggested by Misch in 1980. A major indicator of successful osseointegration is lack of implant mobility. In a pilot study, 26 implants were placed in eight patients. Fifteen of the implants were progressively loaded before placement of the final restorations. The remaining 11 implants were allowed to heal with healing abutments only and were not loaded until placement of the final restorations. Three measurements were taken for each of the implants at the time of uncovering and at the final restoration appointment using the Periotest. The mean change in Periotest values was -0.27 for the non-loaded group as compared with -1.51 for the progressively loaded group. There was a significantly larger increase (P < 0.001) in implant rigidity for the progressively loaded group. Progressive loading appears to enhance implant rigidity. The Periotest has the potential of being a valuable instrument for the determination of osseointegration.
