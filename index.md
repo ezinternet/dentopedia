@@ -119,6 +119,8 @@ tags: []
 - [[implants/raghavan-2025-bone-density-implant-dentistry-review]] — 서술적 고찰: Misch D1–D4·HU 기준값·저밀도 골 임플란트 술식 조정(OD·지연부하) 임상 지침
 - [[implants/osseodensification/fontes-pereira-2023-osseodensification-osteotomy-alternative-sr]] — SR(JCM 2023): OD vs 전통 드릴링 — 삽입토크 일관되게 향상; ISQ 가변적; D3/D4 최대 이득; 근거 수준 낮음–중등
 - [[implants/osseodensification/ortiz-2025-osseodensification-implant-dentistry-critical-review]] — 비판적 고찰(2025): OD 1차안정성 일관 향상; ISQ 가변; D3/D4·경치조골 거상 효과 최대; 장기 RCT 부족
+- [[implants/osseodensification/munkwitz-2025-osseodensification-versus-subtractive-drilling-in]] — 양 하악 피질골 임플란트 64개 전임상: 골밀도화 (Osseodensification, OD) vs 기존 드릴링, 식립토크·BIC·BAFO 3~24주 전 시점 유의차 없음(p>0.06), OD에서 괴사·염증·미세골절 소견 없음(비언더사이징 조건)
+- [[implants/osseodensification/wang-2017-effects-of-condensation-on-peri]] — 생쥐 모델(초록 수준): 골 압축(osteotome)은 계면 골밀도(BV/TV)↑이나 식립 1일째 미세골절·파골세포 활성, 높은 계면 변형률, 변연골 흡수 동반, 임플란트 안정성 개선 없음
 - [[implants/stilwell-2024-occlusal-considerations-implant-maintenance]] — 서술적 고찰(BDJ 2024): 임플란트 유지관리 교합 점검 총론 — 임플란트 파절 0.5%; PDL 없어 과부하 위험; 4단계 연간 교합 평가 프로토콜; 이갈이 보호장치 필수
 - [[implants/kim-2026-proximal-contact-loss-implants-10years]] — cross-sectional(JPIS 2026;56:31, n=142, >10년): 인접면 접촉 소실률 53.7%; 근심 65.6%>>원심 28.3%; 구치부 위치·인접치 치주상태 불량이 유의한 위험인자
 - [[implants/james-2025-future-dental-implants-trends-technologies]] — 서술적 고찰(Cureus 2025, 2015-2025): 임플란트 미래 — 지르코니아·Ti-Zr 합금, AI·로보틱스·3D프린팅, 바이오액티브 표면, 스마트 임플란트; 비용·장기데이터 부족이 현실 장벽
@@ -168,6 +170,7 @@ tags: []
 - [[implants/full-arch/la-monaca-2022-immediate-flapless-full-arch-rehabilitation]] — Retrospective 10-year cohort (n=28, 164 implants): all-on-4 vs all-on-6 implant survival (89.7% vs 99.0%), MBL, and complications (2022)
 - [[implants/full-arch/pandey-2023-comparison-all-on-four-all-on-six]] — 3D FEA comparing All-on-Four vs All-on-Six edentulous mandible rehabilitation: All-on-6 shows markedly lower cortical bone/implant stress but slightly higher trabecular bone stress (2023)
 - [[implants/yang-2024-implant-diameter-tapered-stress-insertion]] — in-vitro FEA(Nobel Biocare, PU foam): 테이퍼 설계가 정규화 삽입토크 결정(β₂=0.93), 나사 주변 응력 분산 평행형 대비 우수 (2024)
+- [[implants/ceddia-2025-the-influence-of-insertion-torque]] — in-vitro FEA 초단형 임플란트(4×6mm): 삽입토크 35→75 N·cm 시 D4 피질골 응력 79→142 MPa(한계 90 MPa 초과), D2는 75 N·cm에서도 86 MPa
 - [[implants/andersen-2023-primary-stability-adhesive-cement-oversized]] — in-vitro: 인산칼슘 접착 시멘트 과삭제 골창 충전, 모든 제거토크 >32 Ncm, 안정성은 표면적 비례 (2023)
 - [[implants/norton-2017-low-insertion-torque-primary-stability]] — prospective (n=30, IT≤20 Ncm): 100% 생존, ISQ 67→80 (3개월), 스피너 3개 전원 골융합 — 저토크 단독으로 실패 예측 불가 (2017)
 - [[implants/survival/cobo-vazquez-2018-effect-lack-primary-stability-survival]] — 코호트(2,400개 중 초기고정 부재 92개, 일반식립, ≥12개월): 상실 3/92(3.26%) 전부 유리회전 C군(7.89%), 안정성 등급 p=0.149·나이 p=0.658·브랜드 p=0.09 모두 NS — 초기고정 부재는 통계적 실패 예측인자 아님, 완전 유리회전(C)만 조기상실 경향 (DOI 10.4317/jced.54441, PMC full text)
@@ -244,6 +247,7 @@ tags: []
 - [[implants/isq/meredith-1996-quantitative-stability-implant-tissue-rfa]] — 랜드마크(1996): 공명주파수분석(RFA)을 임플란트-조직 계면 안정성 정량화에 최초 도입 — ISQ 척도의 개념적 기원
 - [[implants/isq/mistry-2014-measuring-implant-stability-review-methods]] — narrative review: 안정성 측정 6법(임상감각·타진·역토크·절삭토크·Periotest·RFA/ISQ) 정리; 성공 예측 단일 임계치 없음
 - [[implants/isq/kim-2009-implant-stability-various-implant-systems-clinical]] — 전향적(28명, 45 implants, 3 시스템): ISQ 변화는 시스템 아닌 골질이 결정; 0–6주 급상승(연질골 최대) 후 plateau, 45/45 생존
+- [[implants/isq/cha-2015-multiscale-analyses-of-the-bone]] — 쥐 대퇴골 마이크로임플란트(초록 수준): 고 삽입 토크(IT)는 골세포 사멸 영역을 2배 이상 확대하고 미세골절·골흡수↑·골형성↓ 유발
 - [[implants/isq/oh-2008-comparison-of-initial-implant-stability]] — Prospective (54 pts, 104 implants, 3 systems 3i/Replace/ITI): baseline ISQ differs by system but converges by 2 months (catch-up); surface treatment & taper design drive the ISQ trajectory
 - [[implants/isq/sennerby-2008-implant-stability-resonance-frequency-analysis]] — Review: ISQ 결정 3인자(골질·임플란트-골 접촉·유효 노출 길이); stability dip 원리; ISQ<60 지연부하, >70 즉시부하 가이드
 - [[implants/isq/seol-2017-uv-implant-resonance-frequency-early-loading]] — 증례보고: UV 광기능화 임플란트(접촉각≈0°, BIC≈100%) → stability dip 없이 ISQ 급상승 → 1-4주 내 조기부하 성공
