@@ -93,6 +93,10 @@ Across 25 studies the signal is consistent and clinically meaningful, with **ris
 
 High clinical/methodological heterogeneity precluded meta-analysis — the synthesis is narrative.
 
+### Periodontitis-history cohort — Lee 2026 (retrospective, 3555 implants, Korea)
+
+Retrospective multicenter cohort (1757 patients, bone-level SA implants, 2012–2018): 5-year implant-level survival 98.8%. Periodontitis-related tooth loss (aHR 3.57) and poor SPT compliance (aHR 2.35) predicted removal; in periodontitis-related sites regular SPT largely closed the survival gap (98.8% vs 96.3%, p=0.004). Direction agrees with Roccuzzo 2022 and Mojaver 2025; limits: only 48 removals, no serial radiographic bone data, so peri-implant bone stability is not addressed. [retrospective]
+
 ### The full-arch problem (Lanzetti 2024)
 
 Fixed full-arch reconstructions are the hardest restoration for a patient to keep clean, so access drives a distinct sub-question: how often to *remove the prosthesis* for professional care. The 11-study PRISMA SR could not derive a definitive interval (none of the 11 studies was at low risk of bias) but offers a pragmatic default: **professional oral hygiene every 6 months + prosthesis removal at least once per year**, tailored to risk. This is the cleansability-limited corner of the general risk-based rule, not a separate principle.
