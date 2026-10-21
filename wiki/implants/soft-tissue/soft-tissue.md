@@ -2,7 +2,7 @@
 title: "임플란트·연조직 — soft-tissue"
 authors: navigation
 year: 2026
-date: 2026-10-08
+date: 2026-10-21
 doi: N/A
 source: navigation
 category: implants/soft-tissue
@@ -15,20 +15,20 @@ tags: [navigation, category-index, soft-tissue]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·연조직
 > - **범위**: Peri-implant soft tissue augmentation — keratinized mucosa (KM) width/thickness, buccal dehiscence (PSTD), soft tissue substitutes (xenogeneic collagen matrix vs autograft FGG/CTG), second-stage surgery, vestibuloplasty
-> - **수록 논문**: 45편
+> - **수록 논문**: 46편
 
 ## Three-line Summary
 
 **Scope**: Peri-implant soft tissue augmentation — keratinized mucosa (KM) width/thickness, buccal dehiscence (PSTD), soft tissue substitutes (xenogeneic collagen matrix vs autograft FGG/CTG), second-stage surgery, vestibuloplasty
-**Indexed papers**: 45 papers in `wiki/implants/soft-tissue/`.
+**Indexed papers**: 46 papers in `wiki/implants/soft-tissue/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·연조직
-**수록 논문**: 45편
+**수록 논문**: 46편
 **하위 카테고리**: 없음
 
-## Papers in this Category (45)
+## Papers in this Category (46)
 
 | Paper |
 |---|
@@ -72,6 +72,7 @@ tags: [navigation, category-index, soft-tissue]
 | [[thoma-2018-soft-tissue-augmentation-periimplant-health|Effects of Soft Tissue Augmentation Procedures on Peri-implant Health or Disease: A Systematic Review and Meta-analysis]] |
 | [[thoma-2021-soft-tissue-management-implants-eao-consensus|Soft tissue management at implants: Summary and consensus statements of group 2. The 6th EAO Consensus Conference 2021]] |
 | [[tiskratok-2026-tooth-colored-abutment-peri-implant-soft-tissue-sr|SR: Peri-implant Soft-tissue Responses to Tooth-colored Abutment Materials (ZrO₂ vs PEEK vs Ti)]] |
+| [[tommasato-2024-autogenous-graft-versus-collagen-matrices|Autogenous graft versus collagen matrices for peri-implant soft tissue augmentation. A systematic review and network meta-analysis]] |
 | [[valles-2022-soft-tissue-augmentation-tissue-thickening-implants-sr-ma|Efficacy of soft tissue augmentation procedures on tissue thickening around dental implants: A systematic review and meta-analysis]] |
 | [[wang-2024-mrarf-modified-roll-envelope-apf-implant|Modified Roll Envelope Technique Combined With Apically Repositioned Flap (MRARF) for Peri-Implant Soft Tissue Augmentation-A Case Series]] |
 | [[yadav-2025-soft-tissue-substitutes-patient-reported-outcomes-commentary|Soft tissue substitutes improve patient-reported outcomes in peri-implant soft tissue augmentation]] |
