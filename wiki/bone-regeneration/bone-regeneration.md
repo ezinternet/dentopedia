@@ -2,7 +2,7 @@
 title: "골재생 (general) — bone-regeneration"
 authors: navigation
 year: 2026
-date: 2026-10-08
+date: 2026-10-21
 doi: N/A
 source: navigation
 category: bone-regeneration
@@ -16,21 +16,21 @@ tags: [navigation, category-index, bone-regeneration]
 > - **분야**: 골재생 (general)
 > - **범위**: Guided bone regeneration (GBR), barrier membranes (collagen/crosslinked/PTFE), bone graft substitutes (DBBM/BCP/β-TCP) & biomaterials, horizontal/vertical augmentation, peri-implantitis GBR, animal/biomechanics models.
 > - **하위 카테고리**: [[ridge-preservation]]
-> - **수록 논문**: 94편
+> - **수록 논문**: 95편
 
 ## Three-line Summary
 
 **Scope**: Guided bone regeneration (GBR), barrier membranes (collagen/crosslinked/PTFE), bone graft substitutes (DBBM/BCP/β-TCP) & biomaterials, horizontal/vertical augmentation, peri-implantitis GBR, animal/biomechanics models.
-**Indexed papers**: 94 papers in `wiki/bone-regeneration/`.
+**Indexed papers**: 95 papers in `wiki/bone-regeneration/`.
 **Sub-categories**: [[ridge-preservation]]
 
 ## 세줄요약
 
 **분야**: 골재생 (general)
-**수록 논문**: 94편
+**수록 논문**: 95편
 **하위 카테고리**: ridge-preservation
 
-## Papers in this Category (94)
+## Papers in this Category (95)
 
 | Paper |
 |---|
@@ -127,6 +127,7 @@ tags: [navigation, category-index, bone-regeneration]
 | [[zhao-2021-bone-grafts-substitutes-dentistry-review|Bone Grafts and Substitutes in Dentistry: A Review of Current Trends and Developments]] |
 | [[zhou-2025-flap-advancement-bone-graft-displacement|The effect of flap advancement on bone graft displacement with or without membrane stabilization – a preclinical study]] |
 | [[zhou-2026-metal-phenolic-electrospun-membrane-alveolar-gbr|Synergistic osteogenesis, angiogenesis, and immune reprogramming by a metal-phenolic functionalized electrospun fibrous membrane for alveolar bone regeneration]] |
+| [[zuercher-2026-block-versus-particulate-deproteinized-bovine|Block Versus Particulate Deproteinized Bovine Bone Mineral for Guided Bone Regeneration of Peri-Implant Dehiscence Defects: A 5-Year Randomized Controlled Trial]] |
 | [[zufia-2022-maxillary-tuberosity-block-autograft-applications|Applications of maxillary tuberosity block autograft]] |
 
 ## Sub-categories
