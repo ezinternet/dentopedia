@@ -346,3 +346,18 @@ ingest 라우팅: 치실/치간칫솔/구강세정기 효능 RCT·SR → `period
 - **2차 ingest 완료 (코호트 sweep OA:PMC 6편)**: kernen-gintaute-2026, uesugi-2026, alshahrani-2026, pelser-2026, fan-2026, acar-2026 → `wiki/implants/full-arch/` + `sources/` + index.md + git push + qmd update 완료, **qmd embed 백그라운드 진행 중**.
 - **큐 현황**: all-on-x 총 92편 대기 (OA:PMC 13, OA:none 79). 잔여 PDF 확보(Unpaywall·저자 요청·RISS 등) 후 3차 ingest 예정.
 - 기보유 all-on-x 관련 페이지: murat-2025, la-monaca-2022, pandey-2023, szabo-2022, uesugi-2024, baki-2025, cabbarova-2026, yaghmai-2025 등 (`index.md` 참조).
+
+### bone-graft-material (동종골 · 이종골 · 합성골 / allograft · xenograft · alloplast)
+
+이식재 *종류* 자체가 비교 축인 SR/MA. 3갈래 phrase 쿼리를 각각 돌려 합집합(MCP boolean 연산자 상한 20개라 한 줄로 못 합침 — 실측 24개에서 INVALID_QUERY):
+```
+A (동종골): (allograft[tiab] OR "freeze-dried bone"[tiab] OR FDBA[tiab] OR DFDBA[tiab] OR "allogeneic bone"[tiab]) AND (dental[tiab] OR alveolar[tiab] OR sinus[tiab] OR periodontal[tiab] OR intrabony[tiab] OR implant[tiab])
+X (이종골): (xenograft[tiab] OR "deproteinized bovine"[tiab] OR "Bio-Oss"[tiab] OR "bovine bone"[tiab] OR "porcine bone"[tiab] OR DBBM[tiab]) AND (dental[tiab] OR alveolar[tiab] OR sinus[tiab] OR periodontal[tiab] OR intrabony[tiab] OR implant[tiab])
+S (합성골): (alloplastic[tiab] OR "synthetic bone"[tiab] OR "tricalcium phosphate"[tiab] OR "biphasic calcium phosphate"[tiab] OR hydroxyapatite[tiab] OR "bioactive glass"[tiab]) AND ("bone graft"[tiab] OR "bone substitute"[tiab] OR "bone substitutes"[tiab]) AND (dental[tiab] OR alveolar[tiab] OR sinus[tiab] OR periodontal[tiab] OR implant[tiab])
+ptyp: Systematic Review OR Meta-Analysis  (RCT까지 넣으면 A 303·X 582건 — 백필엔 과다)
+```
+노이즈: A는 `allograft`가 정형외과(인공관절·종양 재건·척추 유합)·신경 재건을 대량으로 끌어온다(80건 중 ~30건). `alveolar`가 "inferior alveolar nerve"로도 걸림. X는 "patient-derived xenograft"(암 모델)·peri-implantitis Cochrane이 섞임.
+
+**라우팅**: 상악동 → `bone-regeneration/`(sinus), 발치와 보존 → `bone-regeneration/ridge-preservation/`, 골내낭 → periodontics 재생, 블록·GBR → `bone-regeneration/`.
+
+**현황 (2026-10-21 시드 백필, SR/MA 전 기간)**: 합집합 151 → seen 1·기보유 PMID 5 제외 145 → DOI·제목 교차로 기보유 8 제외 → 상위 모델 제목 스크리닝 → **include 49** (OA:PMC 10) 큐 적립 + **88 screened-out** (exclude 74 무관 / borderline 14 보조제·술식 중심, `restore-screened`로 복구 가능).
