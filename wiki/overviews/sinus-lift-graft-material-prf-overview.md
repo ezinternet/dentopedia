@@ -2,15 +2,21 @@
 title: "Lateral-Window Sinus Lift — Graft Materials, PRF Adjunct and Graft Volume (Sub-overview)"
 authors: synthesis page (split from sinus-lift-lateral-2026-synthesis)
 year: 2026
-date: 2026-10-09
+date: 2026-10-21
 category: overviews
 evidence_level: synthesis
 source_collection: internal
-tags: [overview, sinus-lift, lateral-window, sub-overview, prf, dbbm, bcp, dpdtm, graft-volume, histomorphometry]
+tags: [overview, sinus-lift, lateral-window, sub-overview, prf, dbbm, bcp, dpdtm, graft-volume, histomorphometry, network-meta-analysis, allograft, autograft, carbonate-apatite]
 source: synthesis
 relations:
   - type: extends
     target: sinus-lift-lateral-2026-synthesis
+  - type: extends
+    target: sinus-lift/lateral/somngam-2025-new-bone-formation-biphasic-calcium
+  - type: extends
+    target: sinus-lift/lateral/trimmel-2021-relative-performance-various-biomaterials
+  - type: extends
+    target: sinus-lift/lateral/pogacian-maier-2024-allograft-bone-lateral-sinus-sr
 ---
 
 ## 한국어 핵심요약
@@ -24,19 +30,24 @@ relations:
 > - dpDTM의 유일한 차이는 근심 이식재 높이 감소(−1.08 vs −0.58 mm, p=0.04)였다. 차이가 0.5 mm이고 군당 12상동이라 검출력이 부족하므로, 이는 가설이지 DBBM 선호의 근거가 아니다. [미검증]
 > - 재료 간 장기 골 안정성 자료는 모든 재료에서 부족하다(Del Fabbro 2025, SR 49 RCT, 생존 84.6–100%, 재료 간 차이 없음). 재료는 생존 기대보다 생물학적 위험, 공급원, 비용으로 고르라는 결론이다. [확인]
 > - 이식 용량(Kim 2007, n=19, CT 체적): 무치악 상동은 5·10·15 mm 거상에서 더 많은 이식재가 필요했다(15 mm: 4.85 vs 3.80 cm³, 약 36% 차이). 2007년 소규모 연구지만 참조표로 쓸 가치가 있다. [확인]
-> - 종합 한 줄: 기본 선택은 DBBM ± PRF이고, BCP는 신생골 최대화, dpDTM은 환자 자가 공급원이라는 근거로 고르는 대안이다. 임플란트 결과에서 우위가 입증된 재료는 아직 없다. [미검증]
+> - **단일 재료 NMA 재료 간 순위** (Somngam 2025, NMA 11 RCT, 283 환자, 362 상악동; 복합체 제외): BCP 대비 신생골 — 자가골 +12.33%, 동종골 +5.14%, 이종골 −4.14%. 누적순위곡선하면적 (Surface Under the Cumulative Ranking, SUCRA) 순위: 자가골 > 동종골 > BCP > TCP > 이종골. 이종골 잔존 이식재 BCP 대비 +6.21%. 생존 데이터는 거의 없음. [확인]
+> - **베이지안 NMA: 복합체 포함 시 자가골이 최고가 아님** (Trimmel 2021, Bayesian NMA 34 RCT, 842 상악동, 28 하위군): 378개 쌍 비교 중 유의는 2건뿐; SUCRA — 이종골+골수농축액 (Bone Marrow Concentrate, BMC) 81%, 이종골+혈소판풍부혈장 (Platelet-Rich Plasma, PRP) 77%, 자가골 단독 12위(57%). 자가골이 gold standard라는 단순화는 이 근거 틀에서 지지받지 않음. 확실성 낮음~매우 낮음. [확인]
+> - **동종골 블록이 자가골·DBB 동등** (Pogacian-Maier 2024, SR+MA 7 관찰연구, 238 환자): 동결건조피질골 (Freeze-Dried Bone Allograft, FDBA) vs 탈단백우골 (Deproteinized Bovine Bone, DBB) 골부피 WMD −0.17(p=0.53, I²=81%). FDBA vs 자가골 생존 RR 1.00. [확인]
+> - **CO3Ap 상악동 데이터** (탄산칼슘아파타이트 (Carbonate Apatite, CO3Ap); Nunn 2024, SR): 인체 상악동 신생골 33.8%(7개월), 3년 임플란트 생존 100%(n=13), 잔존 이식재 14.2% vs DBBM 24.2%(소규모). RCT 없음 — 관찰 참고치. [확인]
+> - **Trimmel vs Somngam 자가골 순위 불일치 이유**: Trimmel은 복합체(이종골+BMC/PRP) 포함, 5–8개월 치유창, Bayesian; Somngam은 단일 재료만 포함, 동질 설계. 범위 차이가 불일치의 주 원인. [미검증]
+> - 종합 한 줄: 기본 선택은 DBBM ± PRF이고, BCP는 신생골 최대화, 동종골은 공급원 대안, dpDTM은 자가 공급원이라는 근거로 고르는 대안이다. 임플란트 결과에서 어떤 단일 재료도 우위가 입증되지 않았으며, 복합체(이종골+BMC/PRP)가 NMA 조직계측 순위에서 자가골 단독을 앞선다. [미검증]
 
 ## Three-line Summary
 
-This sub-overview holds the graft-material cluster of the parent lateral-window sinus-lift synthesis: DBBM with PRF, BCP, dpDTM, and graft-volume planning.
-PRF added to DBBM consistently raises new bone and lowers residual graft without changing ISQ at loading; BCP outperforms DBBM histomorphometrically but has no survival data; dpDTM rests on one small six-month RCT.
-The defensible default remains DBBM with or without PRF, while BCP and dpDTM are principled alternatives rather than proven superior options.
+This sub-overview holds the graft-material cluster of the parent lateral-window sinus-lift synthesis: DBBM with PRF, BCP, dpDTM, graft-volume planning, and (updated 2026-10-21) cross-class network meta-analyses (NMAs).
+PRF added to DBBM consistently raises new bone without changing ISQ; BCP outperforms DBBM histomorphometrically; dpDTM rests on one small RCT; among single materials NMA ranks autograft first, but composites (xenograft+BMC/PRP) rank above autograft alone when included.
+The defensible default remains DBBM ± PRF; BCP and allograft are evidence-supported alternatives; no single material has demonstrated implant-outcome superiority.
 
 ## 세줄요약
 
-이 하위 종합은 모체 측방창 상악동 거상 종합의 이식재 절을 담는다: PRF를 더한 DBBM, BCP, dpDTM, 이식 용량 계획.
-DBBM에 PRF를 더하면 신생골이 일관되게 늘고 잔존 이식재가 줄지만, 부하 시 ISQ는 바뀌지 않는다. BCP는 조직계측에서 DBBM을 앞서지만 생존 자료가 없고, dpDTM은 6개월 소규모 RCT 한 편에 근거한다.
-기본 선택은 DBBM ± PRF이며, BCP와 dpDTM은 임상 결과 우위가 입증된 재료가 아니라 목적에 따라 고르는 대안이다.
+이 하위 종합은 모체 측방창 상악동 거상 종합의 이식재 절을 담는다: PRF를 더한 DBBM, BCP, dpDTM, 이식 용량 계획, 그리고 재료 간 네트워크 메타분석 (Network Meta-Analysis, NMA) 결과(2026-10-21 추가).
+DBBM에 PRF를 더하면 신생골이 일관되게 늘고 잔존 이식재가 줄지만 부하 시 임플란트 안정성 지수 (Implant Stability Quotient, ISQ)는 바뀌지 않는다. 단일 재료 NMA에서 자가골이 1위이나 복합체(이종골+골수농축액 (Bone Marrow Concentrate, BMC)/PRP)를 포함하면 자가골 단독이 12위로 내려간다. 동종골은 이종골·자가골과 동등한 생존율을 보인다.
+기본 선택은 DBBM ± PRF이며, BCP와 동종골은 근거가 있는 대안이고, dpDTM은 자가 공급원이 목적인 대안이다. 임플란트 결과 우위가 입증된 재료는 없다.
 
 ## Scope
 
@@ -79,14 +90,40 @@ All four papers above answer "which graft material" — Kim 2007 (Korean case-co
 
 **Where this fits.** This is planning-stage arithmetic, not a material-superiority claim — it answers "how much of whatever material I choose do I need at this patient's edentulous/dentulous status and target height," a question every material-selection decision above (DBBM, BCP, dpDTM, ± PRF) still has to answer downstream. The 2007 vintage and single small Korean cohort (n=19) limit generalizability, and the linear cross-sectional-surface assumption is a stated methodological simplification — but no other paper in this wiki's sinus-lift literature supplies a comparable graft-quantity reference table, so it remains the practical anchor for this specific question until superseded.
 
+### Cross-class network meta-analyses: how materials rank across the full substitution space (2026-10-21)
+
+The four papers above (Almutairi 2025, Motimath 2026, Alkandari 2025, Paetnukroh 2024) all compare one or two specific graft options against DBBM. Three newly ingested NMAs attempt a broader simultaneous ranking across the full substitution space:
+
+**Somngam 2025 NMA (single materials only, composites excluded, 11 RCTs, 283 patients, 362 sinuses).** Using BCP as the common reference, the mean new bone differences were: autograft +12.33% (95% CI 5.36–19.30), allograft +5.14% (0.17–10.11), xenograft −4.14% (−8.24 to −0.04). SUCRA ranking: autograft (1st) > allograft (2nd) > BCP (3rd) > TCP (4th) > xenograft (5th). Residual graft vs BCP: xenograft +6.21% higher (more residual). Importantly, **implant survival data were nearly absent** (most studies did not report it), so the ranking is histomorphometric only. Somngam 2025's eligibility excluded composite (multi-material) interventions, which is appropriate for isolating material-class effects but means the top ranking of autograft applies to autograft used alone, without a carrier or adjunct. See [[sinus-lift/lateral/somngam-2025-new-bone-formation-biphasic-calcium]].
+
+**Trimmel 2021 Bayesian NMA (composites included, 34 RCTs, 842 sinuses, 28 subgroups ranked by NB% at 5–8 months).** Only 2 of 378 pairwise comparisons reached significance (bovine xenograft+BMC vs allograft; bovine+BMC vs biodegradable membrane). SUCRA top 5: bovine+BMC (81%), bovine+PRP (77%), bioactive glass+autograft 1:1 (70%), nanocrystalline HA in silica gel (70%), bioactive glass (70%). Autologous bone alone ranked **12th (SUCRA 57%)** — not the top material at 5–8 months. Trimmel 2021 directly contradicts the assumption that autograft is the histomorphometric gold standard in sinus grafting: when composites are eligible, the best single-material composite (xenograft+BMC) outperforms autograft alone significantly, and autograft falls mid-table. Certainty: low to very low. See [[sinus-lift/lateral/trimmel-2021-relative-performance-various-biomaterials]].
+
+**Reconciling the Somngam vs Trimmel discrepancy.** Somngam shows autograft first; Trimmel shows autograft 12th. The discrepancy is largely explained by eligibility: Somngam excluded all composites, so autograft competes only against other single materials. Trimmel included composites with adjuvants (BMC, PRP, bioactive glass mixtures), so autograft alone competes against multi-ingredient combinations. The two conclusions are compatible: *autograft is the best single material, but composite adjuvant strategies can outperform it.* Additional explanatory factors: different healing-window definitions (Somngam's studies are not restricted to 5–8 months; Trimmel's are), and different reference anchors. The low certainty of both NMAs means neither should be used to conclusively rank materials for individual clinical decisions.
+
+**Pogacian-Maier 2024 SR+MA (FDBA allograft in lateral sinus, 7 observational studies, 238 patients).** FDBA vs deproteinized bovine bone (DBB): bone volume WMD −0.17 (p=0.53, I²=81%) — no significant volume difference, high heterogeneity. FDBA vs autograft: implant survival RR 1.00. This SR+MA closes the allograft gap in the evidence cluster: allograft in sinus augmentation achieves comparable histomorphometric graft volume and equivalent implant survival to autograft and to xenograft, at no donor-site cost. The I²=81% on volume means the specific allograft preparation and patient selection drive outcomes more than the generic class comparison. See [[sinus-lift/lateral/pogacian-maier-2024-allograft-bone-lateral-sinus-sr]].
+
+**CO3Ap sinus data (Nunn 2024 SR).** The small human sinus dataset from the Nunn 2024 carbonate apatite SR (n=13–27, observational) shows: sinus height loss 16.4–27.8%; new bone 33.8% at 7 months; 3-year implant survival 100%; resorption 14.2% vs DBBM 24.2%. These are favourable but from non-randomised studies with small n — categorize as hypothesis-generating for future RCTs, not practice-changing. CO3Ap's fast-resorption profile may reduce the residual-graft burden that DBBM accumulates.
+
+**Note on thomas-2026 internal inconsistency.** The thomas-2026 SR summary line states "autograft > xenograft ≥ allograft > alloplast," but its NBF table (Schmitt data) shows: autograft 41.7%, allograft 35.4%, alloplast/BCP 30.3%, xenograft 24.9% — placing xenograft last, not second. This inconsistency within the thomas-2026 page means the summary-line ranking should not be used directly; check the source table data instead.
+
 ### Synthesis [미검증]
 
 PRF (both L-PRF and A-PRF) reliably improves histomorphometric new bone formation when added to DBBM, with consistent effect across SR+MA and split-mouth RCT levels of evidence. The benefit is biologically real but does not translate to ISQ advantage at the time of loading. BCP outperforms DBBM in new bone formation and resorbability, but the clinical bottom line on implant survival requires a separate evidence base. For clinicians choosing between graft materials: BCP is a credible synthetic alternative to DBBM when maximizing histomorphometric new bone is the goal; PRF adjunction is a low-cost enhancement that consistently boosts new bone formation regardless of which xenograft base is used.
 
-The three material families in this cluster are evidenced at very different depths, and that asymmetry should drive how confidently each is offered. DBBM is the reference material throughout — every comparison here is *against* it. BCP's advantage is histomorphometric and pooled across 10 RCTs, but silent on survival. dpDTM rests on one small 6-month RCT showing equivalence in volumetric stability and ISQ with zero failures — enough to call it viable and worth watching, not enough to call it established. Notably, the three lines of evidence do not conflict: they measure different things (histomorphometry, volumetry, stability) on non-overlapping material pairs, so this cluster's real weakness is not contradiction but the absence of any head-to-head trial ranking all three, and the near-total absence of long-term bone-stability data across all of them (Del Fabbro 2025). The defensible default remains DBBM ± PRF; BCP and dpDTM are principled alternatives chosen for specific reasons — maximal new-bone histomorphometry for BCP, autologous source for dpDTM — rather than for demonstrated superiority in implant outcomes.
+The three material families in this cluster (DBBM, BCP, dpDTM) are evidenced at very different depths, and that asymmetry should drive how confidently each is offered. DBBM is the reference material throughout — every comparison here is *against* it. BCP's advantage is histomorphometric and pooled across 10 RCTs, but silent on survival. dpDTM rests on one small 6-month RCT showing equivalence in volumetric stability and ISQ with zero failures — enough to call it viable and worth watching, not enough to call it established. Allograft (FDBA), supported by Pogacian-Maier 2024, now joins the cluster as a fourth viable family: equivalent bone volume to xenograft and equivalent implant survival to autograft, without donor-site cost.
+
+The cross-class NMAs add two important dimensions absent from the pairwise cluster: (1) across single materials, autograft consistently tops histomorphometric rankings (Somngam 2025), but composites (xenograft+BMC/PRP) outperform autograft alone when both compete in the same network (Trimmel 2021); (2) the certainty is uniformly low to very low for all NMA comparisons, so the rankings inform clinical reasoning about relative biological potential but do not mandate material choice. The cluster's real weakness remains the near-total absence of long-term bone-stability and implant-survival data stratified by graft material (Del Fabbro 2025). The defensible default remains DBBM ± PRF; BCP, allograft, and dpDTM are principled alternatives chosen for specific reasons — maximal new-bone histomorphometry (BCP), xenogenic-source avoidance without donor site (allograft or dpDTM) — rather than for demonstrated superiority in implant outcomes.
 
 ## Related Overviews
 
 - [[overviews/sinus-lift-lateral-2026-synthesis]] — parent synthesis
 - [[overviews/dbbm-bone-substitute-overview]] — DBBM across indications (existing sibling)
 - [[overviews/sinus-lift-membrane-material-perforation-repair-overview]] — membrane material and PRF as a membrane (sibling)
+- [[overviews/bone-graft-material-selection-matrix-overview]] — broader bone graft material matrix including CO3Ap, allogeneic blocks, and ARP evidence (updated 2026-10-21)
+
+## Related Papers (added 2026-10-21)
+
+- [[sinus-lift/lateral/somngam-2025-new-bone-formation-biphasic-calcium]] — NMA 11 RCT: autograft > allograft > BCP > TCP > xenograft (single materials, NB vs BCP reference)
+- [[sinus-lift/lateral/trimmel-2021-relative-performance-various-biomaterials]] — Bayesian NMA 34 RCT: composites lead; autograft alone 12th; only 2/378 comparisons significant
+- [[sinus-lift/lateral/pogacian-maier-2024-allograft-bone-lateral-sinus-sr]] — FDBA ≈ DBB volume (p=0.53); FDBA ≈ autograft survival (RR 1.00)
+- [[bone-regeneration/nunn-2024-novel-alloplast-carbonate-apatite-granules]] — CO3Ap sinus data: NB 33.8%, implant survival 100% at 3y (n=13, no RCT)
