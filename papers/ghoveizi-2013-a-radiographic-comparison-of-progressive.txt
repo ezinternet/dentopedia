@@ -1,0 +1,105 @@
+TITLE: A Radiographic Comparison of Progressive and Conventional Loading on Crestal Bone Loss and Density in Single Dental Implants: A Randomized Controlled Trial Study
+AUTHORS: Ghoveizi Rahab, Alikhasi Marzieh, Siadat Mohammad-Reza, Siadat Hakimeh, Sorouri Majid
+JOURNAL: Journal of Dentistry (Tehran, Iran)
+ID[pmcid]: PMC3666076
+ID[pmcid-ver]: PMC3666076.1
+ID[pmcaid]: 3666076
+ID[pmcaiid]: 3666076
+ID[pmid]: 23724215
+ID[publisher-id]: jod-10-155
+
+## ABSTRACT
+Objective:Crestal bone loss is a biological complication in implant dentistry. The aim of this study was to compare the effect of progressive and conventional loading on crestal bone height and bone density around single osseointegrated implants in the posterior maxilla by a longitudinal radiographic assessment technique.
+Materials and Methods:Twenty micro thread implants were placed in 10 patients (two implants per patient). One of the two implants in each patient was assigned to progressive and the other to conventional loading groups. Eight weeks after surgery, conventional implants were restored with a metal ceramic crown and the progressive group underwent a progressive loading protocol. The progressive loading group took different temporary acrylic crowns at 2, 4 and 6 months. After eight months, acrylic crowns were replaced with a metal ceramic crown. Computer radiography of both progressive and conventional implants was taken at 2, 4, 6, and 12 months. Image analysis was performed to measure the height of crestal bone loss and bone density.
+Results:The mean values of crestal bone loss at month 12 were 0.11 (0.19) mm for progressively and 0.36 (0.36) mm for conventionally loaded implants, with a statistically significant difference (P < 0.05) using Wilcoxon sign rank. Progressively loaded group showed a trend for higher bone density gain compared to the conventionally loaded group, but when tested with repeated measure ANOVA, the differences were not statistically significant (P > 0.05).
+Conclusion:The progressive group showed less crestal bone loss in single osseointegrated implant than the conventional group. Bone density around progressively loaded implants showed increase in crestal, middle and apical areas.
+
+## INTRODUCTION
+
+Maintenance of peri-implant bone support is one of the most important criteria for implant therapy success [1]. During the first year of implant function, crestal bone loss in peri-implant is 0.9 to 1.6 mm and the mean annual bone loss decreases to 0.05 to 0.13 mm [2–5]. A clinical study shows that a progressive bone loss around the implant occurs when it undergoes functioning and may lead to implant failure [6]. Carl E. Misch ascribed this to poor oral hygiene, non-passive super structures, partially retained restoration, poor bone quality and quantity, inadequate osseointegrated surface area and other biomechanical factors that unfavorably apply stress on the bone implant interface [7]. The greatest stress after the osseointegration healing period occurs at the crest [8–10].
+
+Excessive functional load or traumatic occlusion may overstress the implant system and lead to peri-implant marginal bone loss [11–13]. The change of crestal bone around the implant could affect esthetic aspects of the dental implant [14]. Manz reported that crestal bone loss after successful bone integration was related directly to the bone density [15] If the stresses applied to an implant exceeds the physiological limitation of bone density around the implant, implant failure may occur [7].
+
+After surgery and the healing period, implants are loaded using different methods. Some authors defined three types of loading: non-loading, non-functional loading and functional loading [16]. Implants between natural teeth with a short core and two-stage implants are two clinical situations of non-loading. Non-functional loading refers to implants restored with the infraocclusion crowns. Functional loading takes place when the prosthesis receives full occlusal contact and the force is directly transmitted to the implant [16].
+
+For the first time in 1980 Carl E. Misch proposed the concept of progressive or gradual bone loading based on empirical information [17]. This idea suggests that gradual loading causes bone maturation, improves bone density and quality, decreases crestal bone loss and early implant failure [17]. After a few years, Roberts et al. evaluated the progressive loading protocol and described its details. The loading was controlled by time intervals, soft diet, occlusion prosthesis design and occlusal material [7,18–20].
+
+In the literature, only few scientific evidences were found to support the effectiveness of progressive loading.21 In 1996 and 2005, Appleton et al. concluded that crestal bone loss was reduced by progressive implant loading, and bone density increased over time [21,22].
+
+The aim of this study was to compare the effectiveness of progressive loading and conventional loading around single osseointegrated implants in the posterior maxilla. In 2005, Appleton et al. concluded that crestal bone loss was reduced by progressive implant loading, and bone density increased over time [21].
+
+## MATERIALS AND METHODS
+
+A prospective randomized controlled trial study was designed to determine whether a difference existed between the outcomes of treatment when implants of the Astra System were loaded according to two different loading protocols: progressive and conventional. The patients were selected from the Department of Implantology of the Faculty of Dentistry at Tehran University of Medical Sciences, Tehran, Iran. The Ethics Board approved the research protocol, including inclusion/exclusion criteria, and the treatment procedures.
+
+The selected subjects were limited to patients with bilateral single edentulous or unilateral with pier abutment in the posterior region of the maxilla, canine guidance occlusion, D3 or D4 bone density by surgeon diagnosis, and good oral hygiene.
+
+In addition, opposing occlusion was chosen to be natural teeth or tooth-borne fixed partial denture. Patients with systemic diseases (such as diabetes, osteoporosis and radiotherapy), periodontal diseases, bruxism or clenching habits and smoking were excluded from the study. All the details of this study were explained to the patients and they were asked to sign the consent form.
+
+Every patient received two implants. The two implants were randomly assigned to an experimental (progressive loading) and control group (conventional loading).
+
+After oral and radiographic examination, implant surgery was performed according to the manufacturer’s recommendation and use of surgical template. The surgical treatment was performed with the patient under local anesthesia. A crestal incision was made, and the mucoperosteal flap was reflected on the buccal and lingual sides [23]. The implants with a 4.5 mm diameter and 11 mm height (Micro Thread-OsseoSpeed; Astra Tech, Mölndal, Sweden) were placed. All implants received insertion torque values of at least 30 N/cm2. After 4 weeks of healing period, all implants were uncovered and after 6 weeks from surgery, prosthetic procedures were launched.
+
+Profile Bi Abutment (Astra Tech, Mölndal, Sweden) were placed onto all control implants and the abutment screws were torqued to 25 N/cm2.
+
+Eight weeks after surgery, the control group implants were restored with cemented metal ceramic crowns (definitive restorations) and the experimental group implant underwent a progressive loading protocol.
+
+For each implant in the experimental group, three temporary heat cured acrylic resin crowns (Meliodent Bayer Dental Germany) were made. Four restorative stages were done in the experimental group (progressive loading) as follows:
+Two months after surgery, the first acrylic temporary crown was placed into 2mm infraocclusion. This infraocclusion was adjusted by aluminum foil. The patient was asked to use soft diet.Four months after surgery, the second acrylic temporary crown was placed on the implant and occlusal contact was adjusted by 40μ articulation foil (Arti-FolBousch Köln Germany) and a firmer diet was recommended for the patient.Six months after surgery, the last acrylic temporary crown was placed into full occlusion. Full occlusion was adjusted by 12μ articulation foil and the patient was permitted a regular diet.Eight months after surgery, the last temporary crown was replaced by a cemented metal ceramic crown with mutually occlusal contact.
+
+For evaluation of the passive fit, all frames were checked by fit checker and x-ray.
+
+During these four stages (2, 4, 6 and 8 months after surgery) and 12 months after surgery, peri apical radiographs were taken by RVG (Radio Visio Graphy) imaging system (Trophy, Marne-La Vallee, France) from both progressive and conventional loaded implants.
+
+In order to repeat the radiographic images in the same position, a customized occlusal stent made of putty (Speedex Coltene Swiss) was constructed and a paralleling beam-aiming device, XCP (Extended Cone Parallel, Rinn Corp, Elgin, IL, USA), was utilized. X-ray parameters were 63kVp, 8mA, 0.08 seconds and the exposure distance was 10 cm.
+
+The changes in the alveolar crestal bone height and bone density around the implants were measured by Eigentool (Eigentool, Henry Ford Health System, Detroit, MI, USA) software [24–27]. To measure the crestal vertical bone loss,the implant shoulder, the first contact of the alveolar crestal and the apex of the implant were marked on RVG images.
+
+The implant shoulder on the mesial and distal were marked as ‘a’ and ‘c’ (Fig 2), respectively. The first contact of the alveolar crestal bone and the implant on the mesial and distal area were marked as ‘b’ and ‘d’ (Fig 2), respectively. The distance between ‘a’and ‘b’corresponded to the crestal bone loss on the mesial and referred to as ‘ab’ that was calculated by 
+ab=(Xb-Xa)2+(Yb-Ya)2, where X and Y are the x- and y-axis components of the points on RVG image coordinates. Using similar formula, the distal crestal bone loss (cd)) was measured. The apex of the implant was marked as ‘e’ (Fig 2).
+
+The height of the implant was 11 mm for all subjects, a constant that was used to compensate for different image scaling, called normalization.
+
+The height of the implant can be measured on RVG images as the distance between the midpoint of ‘ac’ segment (marked as ‘f’ in Fig 2) and ‘e’ where the x- and y-axis components of ‘f’ were calculated by Xf = (Xa + Xc)/2, and Yf = (Ya + Yc)/2. Using the above measured implant height (MIH) and the absolute height of the implant (11 mm) the crestal bone loss on the mesial and distal area (‘ab’ and ‘cd’) were normalized longitudinally and across the patients. Using the following formula, the normalized crestal bone loss (NCBL) can be computed: NCBL = (11 × MCBL/MIH), where MCBL stands for measured crestal bone loss. The average of the height of crestal bone loss on the mesial and distal area at months 2, 4, 6, 8 and 12 after surgery was calculated for both groups. To measure the changes of bone density around the implants (Fig 3), nine regions-of-insert (ROI) each with an area of 1 mm2 were considered. To avoid the effect of implant on intensities of neighboring pixels in close proximities of the implant the ROIs were positioned 0.5mm away from the implant boundaries.
+
+Astra Tech implants used in this study have two portions, Micro-thread on the coronal portion and Macro-thread on the apical. Nine ROIs include immediately apical to the bone-implant contact on the mesial and distal area of the implant (marked as A and H in Fig 3), in the middle of micro-thread on the mesial and distal of the implant (marked as B and G in Fig 3), on the contact point of Micro-thread to the macro-thread on the mesial and distal area of the implant (marked as C and F in Fig 3), the apical area of the implant on the mesial and distal area (marked as D and E in Fig 3) and the ninth and the last ROI was on the body of the implant in the distal shoulder (marked as ‘Ref’ in Fig 3).
+
+The last ROI (Ref ROI) represented an approximately constant density that can be used to normalize the average intensity measurements from the rest of ROIs and related them to the bone density. The underlying concept is that a higher normalized average intensity (NAI) of an ROI suggests a higher bone density. Therefore, the bone density is proportional to NAI, where NAI = AVG (MInts)/AVG (MRef), and AVG (MInts) and AVG (MRef) are the average intensity of a given ROI and Ref ROI, respectively.
+
+Bone density of peri-implant was divided into three areas, crestal (average of A, B, G and H ROIs), middle (average of C and F ROIs) and apical (average of D and E ROIs). Bone density was calculated for each group in five points in time over the course of this study (2, 4, 6, 8 and 12 months after the surgery).
+
+The crestal bone height changes in each group and between experimental and control groups were analyzed by Friedman and Wilcoxon-sign Rank tests, respectively. Repeated measure ANOVA was also used for evaluating density changes.The significance level was set at 0.05 (α= 0.05) for all comparisons.
+
+## RESULTS
+
+Based on the inclusion-exclusion criteria, a total of 11 patients were initially enrolled into the study. One patient was left out due to pregnancy resulting in a total of 10 patients, 8 females and 2 males, with an average age of 40.5 years.
+
+A total of 100 RVG radiographs were exposed to evaluate the 20 implants over one year.
+
+The average crestal bone loss of conventional and progressive loading is shown in Table 1. In progressive loading, crestal bone loss was stopped after 6 months and revealed some bone filling after 12 months (values are shown in Table 1), but these valueswere not statistically significant (P=0.791).
+
+The crestal bone loss value of conventional loading was statistically significant after 12 months (P=0.012).
+
+The comparison between the two groups revealed that the progressive loading had significantly less crestal bone loss than the conventional loading (control group) after 12 months (P=0.021). Statistical analysis of bone density changes for the experimental and control groups revealed a significant difference between the 2nd month and 4th, 6th, 8th and 12th months after surgery in all areas (crestal, middle and apical) within each group (P<0.001) (values are shown in Tables 2 & 3).
+
+Between group comparison showed that progressive loaded implants had higher bone density in all areas than conventional loaded implants. However, the latter was not statistically significant (P=0.433).
+
+## DISCUSSION
+
+The purpose of the presented study was to compare the progressive and conventional loading effects on single osseointegreated implants in the posterior maxilla.
+
+The posterior maxilla was selected because it presents the poorest bone quality in the jaws, [22] and if progressive loading has positive effects on bone quality and quantity, posterior maxilla would benefit from these effects. Both experimental and control implants were used in one patient to eliminate effects of occlusion, biting force, diet and habit factors between the two groups.The findings of this study support rejection of the null hypothesis. Conventional loaded implants showed significantly larger bone loss than progressive loaded implants after 12 months (P<0.05). Progressive loaded implants showed some bone formation after 12 months, but not statistically significant (P>0.05). Appleton et al. in 2005[22] evaluated bone changes around single dental implants in response to progressive loading. Twenty three implants (Omniloc or Threadloc, Calcitek Inc, Carlsbad, CA, USA) were placed in 20 patients. After 5 months healing period, the control group implants were restored with a metal ceramic crown and the experimental group implants were loaded progressively with an acrylic resin crown. Progressive and conventional loading were applied in different patients and did not provide similar condition (diet, occlusal force and habits) for both groups. After 12 months, the mean crestal bone loss for the progressive and conventional loaded implants was 0.2 mm and 0.59 mm, respectively. The difference between the two groups (conventional vs. progressive) was statistically significant (P≤ 0.05). The healing period in the our study was shorter compared to that of Appleton et al [22]; 2 months vs. 5 months, respectively. The micro-thread on the coronal region of the implant might reduce the crestal bone loss [14]. Implants with micro-thread were not used in Appleton’s experiment. Since they did not use a stent to guide the radiography procedure, the produced radiographs were not reproducible and comparable. To remedy the above limitations, a prospective randomized controlled trial study was designed.
+
+In comparison with Appleton’s study, the crestal bone loss of both groups in the present study was smaller after 12 months. This difference may have occurred because of the short healing period (2 months after surgery) of this study and the use of micro-thread implants. Lee et al. suggested that micro-thread on the coronal portion of the fixture reduced marginal bone loss around the implants. After the healing period (3 months in the mandible and 6 months in the maxilla), he loaded all implants conventionally.
+
+After 12 months, the crestal bone loss in Astra Tech implants (Tapered Micro-thread) was 0.14 mm. [9Also, when compared to the conventional loaded implants of the present study, the crestal bone loss was high (0.36 mm) after 12 months.
+
+This difference in crestal bone loss could be because of the bone type [21]. In the study conducted by Lee et al., the implants were inserted in both jaws, but in the present study, the implants were placed only in the maxilla and compared to the mandible, the maxilla has poor bone quality and quantity. Astrand et al. [1] compared the reaction of marginal bone in Astra Tech and Branemark system after one year. When comparing Lee and Astrand studies with both loadings of the present study, the lowest crestal bone loss for Astra Tech system after one year was in the progressive loaded implants (0.11mm).
+
+This can potentially show that progressive loading improves crestal bone loss around inserted implants by controlling the level of stress transmitted to the crestal bone. Peri-implant bone density in all areas (crestal, middle and apical) of progressive loaded implants was higher than conventional loaded implants; however, this difference was not statistically significant (P>0.05). The experimental group demonstrated continuous increase in bone density over time. There have been little scientific studies about the concept of progressive loading. It is recommended that progressive loading studies should be carried out in high sample size, long term follow up, compromised bone regions and long span prosthesis.
+
+## CONCLUSION
+
+Within the limitations of this study, the following conclusions were drawn:
+
+The progressively loaded group demonstrated less crestal bone loss around single osseointegrated implants than the conventionally loaded group. Peri- implant bone density showed continuous increase in crestal, middle and apical areas in progressive loading overtime. Overall, this study suggested that gradual loading led to the stimulation of bone growth and maturation.
