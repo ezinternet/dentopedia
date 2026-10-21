@@ -808,3 +808,19 @@ Found by manual PDF discovery (not the original scout search), 2026-07-25 — sa
       "A Retrospective Study of Clinical Risk Factors and Patient-Reported Outcomes of Full-Arch Implant-Supported Prostheses." — Clin Implant Dent Relat Res
 - [ ] PMID 41354261 | cohort | OA:none | all-on-x | edat 2026/
       "Immediate full-arch mandibular rehabilitation supported by four implants: A retrospective study with 20 to 25 years of follow-up." — J Dent
+- [ ] PMID 41149192 | preclinical | OA:PMC PMC12561845 | bone-microfracture | edat 2025/
+      "Osseodensification Versus Subtractive Drilling in Cortical Bone: An Evaluation of Implant Surface Characteristics" — Biomimetics (Basel)
+- [ ] PMID 39329590 | preclinical | OA:PMC PMC11429753 | bone-microfracture | edat 2024/
+      "Influence of Trabecular Bone Presence on Osseodensification Instrumentation: An In Vivo Study in Sheep" — Biomimetics (Basel)
+- [ ] PMID 40710474 | FEA | OA:PMC PMC12296050 | bone-microfracture | edat 2025/
+      "The Influence of Insertion Torque on Stress Distribution in Peri-Implant Bones Around Ultra-Short Implants" — J Funct Biomater
+- [ ] PMID 28048963 | preclinical | OA:PMC PMC5384489 | bone-microfracture | edat 2017/
+      "Effects of Condensation on Peri-implant Bone Density and Remodeling" — J Dent Res
+- [ ] PMID 25628271 | review | OA:PMC PMC4814020 | bone-microfracture | edat 2015/
+      "Multiscale analyses of the bone-implant interface" — J Dent Res
+- [ ] PMID 35476861 | in-vitro | OA:none | bone-microfracture | edat 2022/
+      "Macroscopic Evidence of Surface Changes of Dental Implants After Insertion and Removal in Dense Bone" — Int J Oral Maxillofac Implants
+- [ ] PMID 15642025 | preclinical | OA:none | bone-microfracture | edat 2005/
+      "Biological and biomechanical evaluation of bone remodelling and implant stability after using an osteotome technique" — Clin Oral Implants Res
+- [ ] PMID 41902600 | preclinical | OA:none | bone-microfracture | edat 2026/
+      "Injectable Nanofiber Gel Enhances Osseointegration in a Rabbit Model" — J Dent Res
