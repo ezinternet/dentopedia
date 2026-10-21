@@ -2,7 +2,7 @@
 title: "골재생·치조제보존 — ridge-preservation"
 authors: navigation
 year: 2026
-date: 2026-10-17
+date: 2026-10-21
 doi: N/A
 source: navigation
 category: bone-regeneration/ridge-preservation
@@ -15,20 +15,20 @@ tags: [navigation, category-index, ridge-preservation]
 > [!summary] 한국어 핵심요약
 > - **분야**: 골재생·치조제보존
 > - **범위**: Alveolar ridge preservation (ARP) / socket preservation — post-extraction dimensional changes (Araujo/Tan/Schropp), ARP efficacy SR/MA & Cochrane, grafting materials & sealing/socket-seal, flap vs flapless, biologics/PRF, esthetic-zone ARP, ARP→implant outcomes
-> - **수록 논문**: 93편
+> - **수록 논문**: 94편
 
 ## Three-line Summary
 
 **Scope**: Alveolar ridge preservation (ARP) / socket preservation — post-extraction dimensional changes (Araujo/Tan/Schropp), ARP efficacy SR/MA & Cochrane, grafting materials & sealing/socket-seal, flap vs flapless, biologics/PRF, esthetic-zone ARP, ARP→implant outcomes
-**Indexed papers**: 93 papers in `wiki/bone-regeneration/ridge-preservation/`.
+**Indexed papers**: 94 papers in `wiki/bone-regeneration/ridge-preservation/`.
 
 ## 세줄요약
 
 **분야**: 골재생·치조제보존
-**수록 논문**: 93편
+**수록 논문**: 94편
 **하위 카테고리**: 없음
 
-## Papers in this Category (93)
+## Papers in this Category (94)
 
 | Paper |
 |---|
@@ -68,6 +68,7 @@ tags: [navigation, category-index, ridge-preservation]
 | [[ionescu-2022-open-healing-flapless-ridge-preservation|Open Healing: A Minimally Invasive Protocol with Flapless Ridge Preservation in Implant Patients]] |
 | [[iorio-siciliano-2019-dimensional-changes-following-alveolar-ridge|Dimensional changes following alveolar ridge preservation in the posterior area using bovine-derived xenografts and collagen membrane compared to spontaneous healing: a 6-month randomized controlled clinical trial]] |
 | [[ivanova-2020-bone-density-primary-stability-histomorphometric-maxilla|Association between Bone Density Values, Primary Stability and Histomorphometric Analysis of Dental Implant Osteotomy Sites on the Upper Jaw]] |
+| [[jung-2013-radiographic-evaluation-different-techniques-ridge|Radiographic evaluation of different techniques for ridge preservation after tooth extraction: a randomized controlled clinical trial]] |
 | [[jung-2018-alveolar-ridge-preservation-esthetic-zone|Alveolar ridge preservation in the esthetic zone]] |
 | [[jung-2025-arp-peri-implantitis-isq-preclinical|Correlation between Newly Formed Bone and Progression of Experimental Peri-implantitis with/without Alveolar Ridge Preservation]] |
 | [[kalsi-2019-alveolar-ridge-preservation-why-when|Alveolar ridge preservation: why, when and how]] |
