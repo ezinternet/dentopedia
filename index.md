@@ -5168,3 +5168,4 @@ tags: []
 ## Batch ingest (added 2026-10-21) — bone-graft-material 서베일런스 (동종골·이종골·합성골, OA:PMC 10편)
 - [[implants/vertical-ridge-augmentation/saleh-2026-efficacy-engineered-scaffolds-horizontal-vertical]] — 맞춤형 CAD/CAM 스캐폴드(티타늄 메쉬 9/13) 수평·수직 치조제 증대술 SR+MA (13편, 환자 241명): 6-9개월 골 증가 수평 4.96 mm·수직 5.64 mm·체적 1307 mm3, 합병증 21.7% (조기 24.3%/후기 16.5%), 경도 흡연 -2.4 mm·숙련 술자 +2.42 mm, GRADE 선형 증가 중등도·체적/합병증 낮음
 - [[bone-regeneration/ridge-preservation/zhang-2026-component-network-meta-analysis-scaffold]] — 치조제 보존술 (ARP) 구성요소 네트워크 메타분석 (CNMA, RCT 31편): 수평 폭 보존 기여는 차단막 -1.31 mm > 동종골 -0.77 mm > PRF 보조 -0.40 mm, 이종골·콜라겐은 비유의, 합성골 효과 없음, 확실성 낮음~매우 낮음
+- [[sinus-lift/lateral/somngam-2025-new-bone-formation-biphasic-calcium]] — 측방 상악동거상 RCT 11편(283명, 362부위) 네트워크 메타분석: BCP 대비 신생골 자가골 +12.33%, 동종골 +5.14%, 이종골 -4.14%; SUCRA 자가골>동종골>BCP>β-TCP>이종골, 이종골 잔존 이식재 +6.21%
