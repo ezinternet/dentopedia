@@ -1,0 +1,13 @@
+TITLE: Effects of Condensation on Peri-implant Bone Density and Remodeling
+AUTHORS: Wang L., Wu Y., Perez K.C., Hyman S., Brunski J.B., Tulu U., Bao C., Salmon B., Helms J.A.
+JOURNAL: Journal of Dental Research
+ID[pmcid]: PMC5384489
+ID[pmcid-ver]: PMC5384489.1
+ID[pmcaid]: 5384489
+ID[pmcaiid]: 5384489
+ID[pmid]: 28048963
+ID[doi]: 10.1177/0022034516683932
+ID[publisher-id]: 10.1177_0022034516683932
+
+## ABSTRACT
+Bone condensation is thought to densify interfacial bone and thus improve implant primary stability, but scant data substantiate either claim. We developed a murine oral implant model to test these hypotheses. Osteotomies were created in healed maxillary extraction sites 1) by drilling or 2) by drilling followed by stepwise condensation with tapered osteotomes. Condensation increased interfacial bone density, as measured by a significant change in bone volume/total volume and trabecular spacing, but it simultaneously damaged the bone. On postimplant day 1, the condensed bone interface exhibited microfractures and osteoclast activity. Finite element modeling, mechanical testing, and immunohistochemical analyses at multiple time points throughout the osseointegration period demonstrated that condensation caused very high interfacial strains, marginal bone resorption, and no improvement in implant stability. Collectively, these multiscale analyses demonstrate that condensation does not positively contribute to implant stability.
