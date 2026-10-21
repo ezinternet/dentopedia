@@ -780,3 +780,4 @@ Logged by subagents at deviation time. `deviation-audit.py` flags types with ≥
 | 2026-10-21 | misch-1993-progressive-loading-of-bone-with | abstract-only | No PMC record (confirmed by pubmed-fetch-fulltext.py); two-sentence abstract only |
 | 2026-10-21 | misch-1993-progressive-loading-of-bone-with | no-doi | No DOI in PubMed record (J Dent Symp 1993;1:50-3) |
 | 2026-10-21 | perel-1994-progressive-prosthetic-transference-for-root | abstract-only | No PMC record (confirmed by pubmed-fetch-fulltext.py); abstract only |
+| 2026-10-21 | juboori-2018-using-resonance-frequency-analysis-to | other | Paper self-describes as RCT but allocates implants to progressive vs delayed loading by insertion torque (>30 Ncm) - labelled evidence_level: prospective, not rct |
