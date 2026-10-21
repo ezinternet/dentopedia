@@ -1,0 +1,18 @@
+TITLE: Evaluation of the Adjunctive Use of Er:YAG Laser or Erythritol Air-Polishing in the Non-Surgical Treatment of Peri-Implantitis: A Pilot RCT.
+AUTHORS: {'last_name': 'Clementini', 'fore_name': 'Marco', 'initials': 'M', 'affiliations': ['Department of Periodontology, UniCamillus-Saint Camillus International University of Health Sciences, Rome, Italy.']}, {'last_name': 'Minoli', 'fore_name': 'Margherita', 'initials': 'M', 'affiliations': ['Department of Periodontics, Universidad Complutense de Madrid, Madrid, Spain.']}, {'last_name': 'Fabrizi', 'fore_name': 'Simone', 'initials': 'S', 'affiliations': ['Department of Medical Biotechnologies, Unit of Periodontics, Università Degli Studi di Siena, Siena, Italy.']}, {'last_name': 'De Rubertis', 'fore_name': 'Isabella', 'initials': 'I', 'affiliations': ['Department of Medical Biotechnologies, Unit of Periodontics, Università Degli Studi di Siena, Siena, Italy.']}, {'last_name': 'Discepoli', 'fore_name': 'Nicola', 'initials': 'N', 'affiliations': ['Department of Medical Biotechnologies, Unit of Periodontics, Università Degli Studi di Siena, Siena, Italy.']}, {'last_name': 'de Sanctis', 'fore_name': 'Massimo', 'initials': 'M', 'affiliations': ['Department of Periodontology, Vita-Salute San Raffaele University, Milan, Italy.', '26K Center for Clinical Research, Paris, France.']}
+JOURNAL: {'title': 'Clinical oral implants research', 'iso_abbreviation': 'Clin Oral Implants Res'}
+DATE: {'year': '2026', 'month': '07', 'day': '01'}
+DOI: 10.1111/clr.70153
+PMID: 42387326
+SOURCE: PubMed abstract only (full text not retrieved)
+
+ABSTRACT:
+Evaluate the efficacy of adjunctive mechanical/physical decontamination to non-surgical submarginal instrumentation in patients with peri-implantitis.
+
+Patients with at least one implant diagnosed with peri-implantitis were included in this 6-month single-masked randomized clinical trial with three parallel groups: non-surgical submarginal instrumentation with titanium curettes (control); control plus erythritol air-polishing (test 1) and control plus Er:YAG laser (test 2). Clinical variables were collected at baseline, 1, 3 and 6 months. The primary outcome was probing pocket depth (PPD) reduction. Secondary outcomes included bleeding on probing (BoP) reduction and endpoint of therapy (implants with PPD ≤ 5 mm, BoP ≤ 1 site, no suppuration). A multilevel logistic model was computed to evaluate the predictive value of implant- and patient-level variables.
+
+Forty-seven patients (84 implants) were enrolled. PPD reductions were observed in all groups (mean: 1-1.4 mm at 1 month), remaining stable at 3 months, with slight relapse at 6 months. All treatments led to significant BoP reduction (24%-36%) at 1 month, with no further significant changes at later follow-ups and no intergroup differences. Therapeutic endpoint rates were 12%-18%. Multilevel analysis suggested an association between the presence of ≥ 2 mm vestibular keratinized mucosa and the use of Er:YAG with higher odds of achieving treatment success. Healing was uneventful in all groups, except for one case of surgical emphysema associated with erythritol air-polishing.
+
+Irrespective of the adjunctive treatment modality, achievement of peri-implantitis therapeutic endpoint was limited across groups. Possible associations with treatment outcomes were observed; these findings require confirmation in larger studies.
+
+ClinicalTrials.gov identifier: NCT03451981.
