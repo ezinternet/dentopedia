@@ -2,7 +2,7 @@
 title: "임플란트·표면처리 — surface"
 authors: navigation
 year: 2026
-date: 2026-09-16
+date: 2026-10-21
 doi: N/A
 source: navigation
 category: implants/surface
@@ -16,21 +16,21 @@ tags: [navigation, category-index, surface]
 > - **분야**: 임플란트·표면처리
 > - **범위**: SLA, CA, UV surface technology, osseointegration.
 > - **하위 카테고리**: [[plasma]]
-> - **수록 논문**: 57편
+> - **수록 논문**: 61편
 
 ## Three-line Summary
 
 **Scope**: SLA, CA, UV surface technology, osseointegration.
-**Indexed papers**: 57 papers in `wiki/implants/surface/`.
+**Indexed papers**: 61 papers in `wiki/implants/surface/`.
 **Sub-categories**: [[plasma]]
 
 ## 세줄요약
 
 **분야**: 임플란트·표면처리
-**수록 논문**: 57편
+**수록 논문**: 61편
 **하위 카테고리**: plasma
 
-## Papers in this Category (57)
+## Papers in this Category (61)
 
 | Paper |
 |---|
@@ -40,7 +40,9 @@ tags: [navigation, category-index, surface]
 | [[alenezi-2026-magnesium-modified-titanium-implants-osseointegration|Effect of Magnesium-Modified Titanium Implants on Osseointegration: A Systematic Review and Meta-Analysis of Preclinical Studies]] |
 | [[alshayeb-2024-bioactive-surface-modifications-dental-implants|Bioactive surface modifications on dental implants: a systematic review and meta-analysis of osseointegration and longevity]] |
 | [[attik-2022-comparison-of-biological-behavior-and|최소침습 임플란트와 표준 임플란트의 생물학적 특성 및 표면 형태 비교: 시험관내 연구]] |
+| [[balkanlioglu-2026-cold-plasma-implant-isq-stability|Cold Plasma Surface Activation and Early Implant ISQ: Within-Patient RCT]] |
 | [[ballo-2011-dental-implant-surfaces-physicochemical-biological|Dental Implant Surfaces - Physicochemical Properties, Biological Performance, and Trends]] |
+| [[balmer-2026-zirconia-titanium-implants-prosthetic-outcome-rct|1-Year RCT: Prosthetic Outcomes of Screw-Retained Crowns on Zirconia vs Titanium Implants]] |
 | [[beckwith-2024-implant-coatings-affect-healing|Do Implant Coatings Affect Healing of Placed Implants? An Umbrella Review]] |
 | [[bonfante-2012-calcium-phosphate-coatings-plasma-spray|Physicochemical Characterization and In Vivo Evaluation of Amorphous and Partially Crystalline Calcium Phosphate Coatings Fabricated on Ti-6Al-4V Implants by the Plasma Spray Method]] |
 | [[bosshardt-2017-osseointegration-titanium-zirconia-review|Osseointegration of titanium, titanium alloy and zirconia dental implants: current knowledge and open questions]] |
@@ -71,6 +73,7 @@ tags: [navigation, category-index, surface]
 | [[lang-2022-photofunctionalization-implant-stability-marginal-bone-loss-sr-ma|Clinical Effects of Photofunctionalization on Implant Stability and Marginal Bone Loss: Systematic Review and Meta-Analysis]] |
 | [[lopez-valverde-2022-biomolecule-based-bioactive-surfaces-osseointegration|Effectiveness of biomolecule-based bioactive surfaces, on osseointegration of titanium dental implants: A systematic review and meta-analysis of studies]] |
 | [[matys-2025-osseointegration-zirconia-implants-calcium-phosphate|Enhancing Osseointegration of Zirconia Implants Using Calcium Phosphate Coatings: A Systematic Review]] |
+| [[mehnert-2026-two-piece-zirconia-implant-2year-retrospective|Retrospective: 2-Year Outcomes of Two-Piece ATZ Zirconia Implants (Zeramex XT)]] |
 | [[milleret-2011-alkali-titanium-blood-clot-platelet-complement|Alkali Treatment of Microrough Titanium Surfaces Affects Macrophage/Monocyte Adhesion, Platelet Activation and Architecture of Blood Clot Formation]] |
 | [[minamikawa-2016-long-term-degradation-titanium-biological|Long-Term Progressive Degradation of the Biological Capability of Titanium]] |
 | [[mohseni-2024-clinical-outcomes-zirconia-implants|Clinical Outcomes of Zirconia Implants: A Systematic Review and Meta-Analysis]] |
@@ -90,6 +93,7 @@ tags: [navigation, category-index, surface]
 | [[witek-2019-osseodensification-trabecular-tantalum-implants-sheep|Osteogenic Parameters Surrounding Trabecular Tantalum Metal Implants in Osteotomies Prepared via Osseodensification Drilling]] |
 | [[witek-2020-boronized-surface-osseointegration|Assessing osseointegration of metallic implants with boronized surface treatment]] |
 | [[yamada-2012-nanopolymorphic-hydroxyapatite-titanium-implant|Bone integration capability of nanopolymorphic crystalline hydroxyapatite coated on titanium implants]] |
+| [[yaylaci-2026-injectable-nanofiber-gel-enhances-osseointegration|Injectable Nanofiber Gel Enhances Osseointegration in a Rabbit Model]] |
 | [[zhang-2025-dual-biofunctional-implant-coatings-in-vivo-sr|In vivo models for evaluating antibacterial activity and osseointegration of dual-biofunctional implant coatings: A systematic review]] |
 
 ## Sub-categories
