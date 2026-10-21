@@ -1,0 +1,9 @@
+TITLE: Progressive loading of bone with implant prostheses.
+AUTHORS: Misch CE
+JOURNAL: The Journal of Dental Symposia 1993 Aug;1:50-3
+ID[pmid]: 8186839
+ID[doi]: none listed in PubMed
+NOTE: abstract-only — no PMC record; text below is the PubMed abstract.
+
+## ABSTRACT
+The rationale and protocol to gradually load the implant after the initial bone interface have been established and discussed. Bone density is the most critical factor in determining the amount of healing time between first and second-stage surgeries and also between the five appointments for prostheses which are cement-retained.
