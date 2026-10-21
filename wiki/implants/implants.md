@@ -2,7 +2,7 @@
 title: "임플란트 — implants"
 authors: navigation
 year: 2026
-date: 2026-10-08
+date: 2026-10-21
 doi: N/A
 source: navigation
 category: implants
@@ -16,21 +16,21 @@ tags: [navigation, category-index, implants]
 > - **분야**: 임플란트
 > - **범위**: Implant macrogeometry/thread & design, osseointegration biology, abutment & connection, bone quality/density, FEA stress analysis, failure risk factors & systemic-condition effects, flapless vs flapped surgery, zirconia vs titanium implants, prosthesis misfit — topics without their own subcategory.
 > - **하위 카테고리**: [[full-arch]] · [[isq]] · [[loading-protocol]] · [[mbl]] · [[osseodensification]] · [[osteotomy-thermal]] · [[peri-implantitis]] · [[ridge-augmentation]] · [[short-narrow]] · [[soft-tissue]] · [[surface]] · [[survival]] · [[vertical-ridge-augmentation]] · [[vitamin-d]]
-> - **수록 논문**: 83편
+> - **수록 논문**: 84편
 
 ## Three-line Summary
 
 **Scope**: Implant macrogeometry/thread & design, osseointegration biology, abutment & connection, bone quality/density, FEA stress analysis, failure risk factors & systemic-condition effects, flapless vs flapped surgery, zirconia vs titanium implants, prosthesis misfit — topics without their own subcategory.
-**Indexed papers**: 83 papers in `wiki/implants/`.
+**Indexed papers**: 84 papers in `wiki/implants/`.
 **Sub-categories**: [[full-arch]], [[isq]], [[loading-protocol]], [[mbl]], [[osseodensification]], [[osteotomy-thermal]], [[peri-implantitis]], [[ridge-augmentation]], [[short-narrow]], [[soft-tissue]], [[surface]], [[survival]], [[vertical-ridge-augmentation]], [[vitamin-d]]
 
 ## 세줄요약
 
 **분야**: 임플란트
-**수록 논문**: 83편
+**수록 논문**: 84편
 **하위 카테고리**: full-arch, isq, loading-protocol, mbl, osseodensification, osteotomy-thermal, peri-implantitis, ridge-augmentation, short-narrow, soft-tissue, surface, survival, vertical-ridge-augmentation, vitamin-d
 
-## Papers in this Category (83)
+## Papers in this Category (84)
 
 | Paper |
 |---|
@@ -44,6 +44,7 @@ tags: [navigation, category-index, implants]
 | [[canullo-2026-hybrid-funnel-technique-mbl-3year|Hybrid Funnel Technique vs Conventional Drilling: 3-Year Marginal Bone Loss Trial]] |
 | [[casalino-2026-influence-immediate-versus-delayed-loading|Influence of Immediate Versus Delayed Loading on Peri-Implant Bone Healing: A Comparative FEA Study of Titanium Threaded and Scaffold Dental Implants]] |
 | [[ceddia-2025-crestal-position-splinted-implant-fea|Effect of Crestal Position on Bone–Implant Stress Interface of Three-Implant Splinted Prostheses: A Finite Element Analysis]] |
+| [[ceddia-2025-the-influence-of-insertion-torque|The Influence of Insertion Torque on Stress Distribution in Peri-Implant Bones Around Ultra-Short Implants: An FEA Study]] |
 | [[chang-2024-optimization-implant-design-bone-quality-fea|Optimization Approach to Dental Implant Design in Three Bone Qualities: A Finite Element Analysis]] |
 | [[chi-2024-customized-angled-abutment-tooth-inclination-fea|Design and Biomechanical Analysis of a Customized Angled Abutment Based on Tooth Inclination for Immediate Implant Placement in the Anterior Maxilla]] |
 | [[chrcanovic-2014-flapless-vs-conventional-implant-surgery-ma|Flapless versus Conventional Flapped Dental Implant Surgery: A Meta-Analysis]] |
