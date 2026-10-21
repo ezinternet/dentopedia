@@ -5088,3 +5088,18 @@ tags: []
 ### overviews
 - [[overviews/condensing-osteitis-hyperdense-lesion-implant-overview]] — Overview · 과방사성 악골 병변은 임플란트 금기가 아님(성공률 84.2%), 병변 유형별 프로토콜 종합
 - [[overviews/osteotomy-cooling-delivery-route-risk-quantification-overview]] — Overview (5편, 2026-10-19): 골삭제 냉각은 전달 방식의 문제 — 관주 경로(가이드 내부 채널), 건식 냉각, 냉각 존재 시 위험 요인 정량 위계(OR/η²)
+
+## Batch ingest (added 2026-10-21) — 조기 실패 2차 배치 누락분 회수 (5편, 메타데이터·교합·즉시로딩)
+
+> 이 묶음은 2026-10-21 조기 실패 배치 도중 작성되었으나 index.md 미등재·미커밋 상태로 남아 있던 페이지를 회수한 것입니다 (아래 rocamillan-2021 포함). 파일은 이미 lint·rationale 검사를 통과했습니다.
+
+### occlusion
+- [[occlusion/biel-2022-re-osseointegration-of-a-dental]] — Biel 2022 · case-report (n=1, 79세) · 무균증 느슨해짐(Aseptic Loosening)으로 골유착 상실한 하악 임플란트가 **교합 조정 단일 개입**으로 재골유착 — 8개월 방사선 확인·21개월 유지; n=1·항암 화학요법 교란 미제거 (abstract-only) (DOI 10.61872/sdj-2022-09-02)
+- [[occlusion/sridhar-2019-the-role-of-bacterial-biofilm]] — Sridhar 2019 · in-vitro (군당 n=4, 45→450 N·200만 회) · PBS·젖산·세균 폴리컬처 비교: **세균 biofilm + 기계적 하중 시너지**로 시험군에서만 TiO2 산화막 박층·낮은 부식전위 — 임플란트 실패 기계×biofilm 이중경로의 벤치 근거(임상 실패율 아님) (DOI 10.1016/j.jmbbm.2019.01.012)
+
+### implants/survival
+- [[implants/survival/stoichkov-2018-analysis-of-the-causes-of]] — Stoichkov 2018 · retrospective (환자 101명·임플란트 218개, 3–10년) · 임플란트 골절률 2.3% — 부적절 치료계획·이갈이(bruxism)·합병증 시점이 주원인, 단일크라운 집중; 보호교합(ImpOC) 부재가 위험 구간 (abstract-only) (DOI 10.3290/j.qi.a39846)
+- [[implants/survival/chawki-2026-particularities-of-the-implant-supported]] — Chawki 2026 · sr (PRISMA, 20편·9,313명/31,209개) · 이갈이군 임플란트 생존율 57.5–100%·보철 생존 70.6–100%, 기계적 합병증 최대 60%·보철 실패 최대 29.3%; **스플린트가 보철 마모 1.8배 감소** — 이갈이는 유의 위험인자, 지연부하·경성 야간 스플린트 권고 (DOI 10.11604/pamj.2026.53.93.47329)
+
+### implants/loading-protocol
+- [[implants/loading-protocol/chrcanovic-2014-immediate-nonfunctional-versus-immediate-functional]] — Chrcanovic 2014 · sr+ma (11편) · 즉시비기능성로딩(INFL) vs 즉시기능성로딩(IFL): 실패율 RR 0.87 (95% CI 0.44–1.75, P=.70)·MBL MD 0.01 mm (P=.74) 모두 무차이 — **즉시로딩 중 교합접촉 제거의 이점 미입증**(7/11편 편향위험 高) (abstract-only) (DOI 10.1016/j.jdent.2014.06.010)

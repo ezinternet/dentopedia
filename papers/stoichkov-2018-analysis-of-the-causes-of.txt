@@ -1,0 +1,12 @@
+TITLE: Analysis of the causes of dental implant fracture: A retrospective clinical study.
+AUTHORS: Biser Stoichkov, Dimitar Kirov
+JOURNAL: Quintessence international (Berlin, Germany : 1985)
+ID[pmid]: 29435519
+ID[doi]: 10.3290/j.qi.a39846
+
+ABSTRACT (abstract-only — full text not retrieved)
+
+Fracture of osseointegrated dental implants is the most severe mechanical complication. The aim of the present study was to analyze possible causative factors for implant body fracture. [OBJECTIVE]
+One hundred and one patients with 218 fitted implants and a follow-up period of 3 to 10 years were studied. Factors associated with biomechanical and physiologic overloading such as parafunctional activity (eg, bruxism), occlusion, and cantilevers, and factors related to the planning of the dental prosthesis, available bone volume, implant area, implant diameter, number of implants, and their inclination were tracked. The impact of their effect was analyzed using the Bonferroni-corrected post-hoc Mann-Whitney test for each group. [METHOD AND MATERIALS]
+The incidence of dental implant fracture was 2.3% in the investigated cases. Improper treatment planning, bruxism, and time of the complication setting in were the main factors leading to this complication. Typical size effect was established only for available bruxism, occlusal errors, and their activity duration. These complications were observed most often with single crown prostheses, and in combination with parafunctional activities such as bruxism and lack of implant-protected occlusion. [RESULTS]
+Occlusal overload due to bruxism or inappropriate or inadequate occlusion as a single factor or a combination of these factors during the first years after the functional load can cause implant fracture. Fracture of the implant body more frequently occurred with single crowns than with other implant-supported fixed dental prostheses. [CONCLUSION]

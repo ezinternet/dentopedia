@@ -1,0 +1,13 @@
+TITLE: Immediate nonfunctional versus immediate functional loading and dental implant failure rates: a systematic review and meta-analysis.
+AUTHORS: Bruno Ramos Chrcanovic, Tomas Albrektsson, Ann Wennerberg
+JOURNAL: Journal of dentistry
+ID[pmid]: 24995809
+ID[doi]: 10.1016/j.jdent.2014.06.010
+
+ABSTRACT (abstract-only — full text not retrieved)
+
+The purpose of the present review was to test the null hypothesis of no difference in the implant failure rates, postoperative infection, and marginal bone loss for patients being rehabilitated using dental implants with immediate nonfunctional loading (INFL) compared to immediate functional loading (IFL), against the alternative hypothesis of a difference. [OBJECTIVES]
+An electronic search without time or language restrictions was undertaken in March 2014. Eligibility criteria included clinical human studies, either randomized or not. The estimates of relative effect were expressed in risk ratio (RR) and mean difference (MD) in millimeters. [METHODS]
+1059 studies were identified and 11 studies were included, of which 7 were of high risk of bias, whereas four studies were of low risk of bias. The results showed that the procedure used (nonfunctional vs. functional) did not significantly affect the implant failure rates (P=0.70), with a RR of 0.87 (95% CI 0.44-1.75). The wide CI demonstrates uncertainty about the effect size. The analysis of postoperative infection was not possible due to lack of data. No apparent significant effects of non-occlusal loading on the marginal bone loss (MD 0.01mm, 95% CI -0.04-0.06; P=0.74) were observed. [RESULTS]
+The results of this study suggest that the differences in occlusal loading between INFL and IFL might not affect the survival of these dental implants and that there is no apparent significant effect on the marginal bone loss. [CONCLUSIONS]
+There has been a controversy concerning whether dental implants should be subjected to immediate functional or nonfunctional loading. As the philosophies of treatment may alter over time, a periodic review of the different concepts is necessary to refine techniques and eliminate unnecessary procedures. This would form a basis for optimum treatment. [CLINICAL SIGNIFICANCE]
