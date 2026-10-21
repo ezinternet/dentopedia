@@ -1,0 +1,397 @@
+TITLE: Impact of Oral Hygiene Instructions in the Resolution of Peri‐Implant Mucositis. A Randomized Controlled Trial
+AUTHORS: de Tapia Beatriz, Babiano Álvaro, Oreglia Maria Vittoria, Valles Cristina, Nart Jose
+JOURNAL: Clinical Oral Implants Research
+ID[pmcid]: PMC13051411
+ID[pmcid-ver]: PMC13051411.1
+ID[pmcaid]: 13051411
+ID[pmcaiid]: 13051411
+ID[pmid]: 41691512
+ID[doi]: 10.1111/clr.70098
+ID[publisher-id]: CLR70098
+ID[other]: COIR-Sep-25-OGA-11822
+
+## ABSTRACT
+ABSTRACT
+AimTo determine whether oral hygiene instructions (OHI) alone can be effective in the treatment of peri‐implant mucositis (PM).
+Material and MethodsA randomized clinical trial with 56 PM patients was conducted. Participants were assigned to OHI (n = 28) or OHI + Mechanical Instrumentation (MI) (n = 28). Clinical [modified bleeding index (mBI), disease resolution] and microbiological parameters were assessed at baseline (T1), 1 month (T2), and 3 months (T3). Standardized periapical radiographs were taken at T1 and T3. Outcomes were analyzed at patient‐ and implant‐level.
+Results48 patients with 118 implants were analyzed (52 in OHI; 66 in OHI + MI). At T3, success rates were 39.1% (OHI) and 56% (OHI + MI) at the patient level, and 36.4% (OHI) versus 67.3% (OHI + MI) at the implant level. Both groups showed a significant reduction in mBI (p < 0.001). Intergroup differences were not statistically significant, though greater divergence was noted at T3. At the patient level, higher FMPI/FMBI at 3 months predicted lower success (p < 0.05), whereas compliance improved outcomes (OR = 11.4, p = 0.004). At the implant level, failure was associated with OHI‐only therapy, non‐compliance, and higher mPI (all p = 0.001). History of periodontitis was a negative prognostic factor, linked to higher mBI at T3 (p = 0.010).
+ConclusionsOHI achieved resolution of PM in a considerable proportion of patients, particularly among compliant individuals. However, a history of periodontitis and posterior implant location negatively influenced outcomes. These findings highlight the importance of patient adherence and implant accessibility, while reaffirming the critical adjunctive role of MI in optimizing therapeutic success.
+
+## Introduction
+
+Peri‐implant mucositis (PM) is a highly prevalent disease defined as inflammation of the peri‐implant mucosa without loss of the supporting bone (Berglundh et al. 2018). The main clinical sign of PM is the presence of bleeding on (gentle) probing (BoP) (Berglundh et al. 2018). If left untreated, PM may progress to peri‐implantitis, characterized by additional loss of supporting bone and potentially leading to implant failure (Costa et al. 2012; Herrera et al. 2023; Derks et al. 2016).
+
+Similarly to the pathogenesis of gingivitis, multiple clinical studies have demonstrated a cause‐effect relationship between the accumulation of experimental plaque and the development of PM (Pontoriero et al. 1994; Zitzmann et al. 2001). However, experimental plaque accumulation around dental implants induces a stronger inflammatory response compared with natural teeth (Salvi et al. 2012).
+
+The treatment of PM is focused on the disruption of the peri‐implant biofilm to achieve disease resolution (i.e., absence of BoP), or at least a reduction in the number of bleeding sites (i.e., BoP extent) and/or severity [e.g., modified bleeding index (mBI)] (Mombelli et al. 1987). Therefore, following an initial behavioral phase including oral hygiene instructions (OHI), affected implants usually undergo non‐surgical instrumentation using mechanical (e.g., curettes, ultrasonics, air‐polishing) and/or physical (e.g., laser) approaches (Baima et al. 2022; Renvert et al. 2019), with or without adjunctive antiseptics (Jepsen et al. 2015). Numerous studies have shown that such approaches can effectively control PM by reducing plaque and bleeding scores (Renvert et al. 2008).
+
+Importantly, as PM is mainly plaque‐induced, effective oral hygiene practices are fundamental in their prevention and management. In fact, there is evidence from experimental human studies that PM resolution may occur with adequate biofilm control (Salvi et al. 2012; Meyer et al. 2017; Schincaglia et al. 2017), with inflammatory biomarkers returning to baseline levels upon re‐institution of plaque control (Salvi et al. 2012). Nevertheless, the evidence supporting the additional benefit of professional mechanical or physical instrumentation over oral hygiene instruction alone remains limited (Herrera et al. 2023; Maal et al. 2025).
+
+It is therefore the aim of this randomized clinical trial to determine whether OHI alone can be effective in achieving clinically relevant resolution of peri‐implant mucositis in a substantial proportion of patients.
+
+## Materials and Methods
+
+### Ethical Issues
+
+This study was conducted in accordance with the Declaration of Helsinki and the Ethical Guidelines for Research Involving Human Participants, following approval by the Ethics Committee of the Universitat Internacional de Catalunya (UIC) (Ref. PER‐ECL‐2023‐07). The experimental procedures were carried out from September 2024 to February 2025. Written informed consent was obtained from all participants after they were fully briefed about the study. The trial was registered on ClinicalTrials.gov (NCT06535958) and was conducted and is reported in accordance with the CONSORT guidelines.
+
+### Study Design
+
+The present study was a prospective randomized controlled intervention trial with a 3‐month follow‐up, designed as a comparative effectiveness study, aimed at evaluating the clinical efficacy of OHI compared to OHI combined with professional mechanical debridement (OHI + MI). The study was not designed to test superiority or non‐inferiority, or equivalence between the two groups but rather to determine whether OHI alone can achieve a clinically relevant rate of disease resolution on its own, despite being expected to be less effective than the combined approach (OHI + MI).
+
+Patients were randomized using a computer‐generated list with permuted blocks of four. To ensure allocation concealment, sealed opaque envelopes with the patient study number were used, which were opened after the patient had received the OHI.
+
+### Study Population
+
+Patients attending the Department of Periodontology at UIC and diagnosed with PM were recruited consecutively. One investigator (B.dT) screened and enrolled patients according to the following criteria:
+
+Eligible patients were required to have at least one titanium dental implant in function for ≥ 1 year, presenting with PM defined as bleeding on gentle probing (0.20 N) at > 1 peri‐implant site, with no evidence of supporting bone loss after initial bone remodelling (if baseline radiographs were unavailable, a maximum of 2 mm of crestal bone loss was accepted; Sanz and Chapple 2012), and with > 1 mm of keratinized mucosa at the affected implant. Patients without systemic diseases that could influence the outcome of the therapy (i.e., controlled diabetes, with HbA1c < 7) were included. Only non‐smokers or light smokers (< 10 cigarettes/day) were eligible.
+
+Patients were excluded if they had untreated periodontitis, were pregnant or lactating women, had received any treatment of PM or used systemic antibiotics within the preceding 3 months, or were patients receiving corticosteroids or other drugs associated with gingival overgrowth (i.e., calcium channel antagonists, immunosuppressants, or antiepileptic drugs).
+
+Patients diagnosed with peri‐implantitis received individualized treatment and were excluded from the study.
+
+### Treatment
+
+All participants received individualized OHI, including instructions to clean implants twice daily with a low‐abrasive toothpaste and to use specific cylindrical or conical brushes (Interprox, Dentaid, Barcelona, Spain) for interproximal cleaning. Patients were instructed to insert the brush into each interproximal area and apply light pressure in both apical and cervical directions to clean the peri‐implant margin and adjacent mucosa effectively. Circumferential cleaning around the implants and within the peri‐implant crevice was emphasized. In those cases with no access for proper OHI, the prosthesis was modified according to the protocol described by de Tapia et al. (2019), all modifications were completed prior to baseline measurements to ensure that prosthetic design did not interfere with patients' ability to maintain adequate plaque control.
+Control group (OHI + MI): In addition to OHI, affected implants received supra‐ and sub‐mucosal debridement of the implant neck and the abutment using a combination of ultrasonics (DTE‐D5, Woodpecker, Guilin, China) with a plastic tip (Hu‐Friedy, Rockwell St, Chicago, IL, USA) and plastic curettes (Hu‐Friedy). Finally, the prosthetic components were polished with a rubber cup.Test group (OHI): No further treatment was provided
+
+### Data Collection
+
+A standardized guidebook and case report forms (CRFs) were used. Data were entered into an electronic database.
+
+### Patient‐ and Implant‐Related Variables
+
+An initial questionnaire was conducted to obtain information regarding age, sex, race, medical history, current medications, and smoking status (categorized as non‐smoker or current light smoker).
+
+Compliance with the recommended OHI measures was assessed by self‐report; patients were considered compliant if they performed interproximal cleaning around the implants at least once per day.
+
+Additional implant‐related variables were recorded, including implant location, presence or absence of an intermediate abutment, and type of restoration.
+
+### Clinical, Radiographic and Microbiological Examination
+
+At baseline (T1), 1 month (T2), and 3 months (T3) after treatment, two calibrated blinded examiners (A.B and MV.O) performed all clinical measurements using a standardized 0.20 N probing force (PA_ON Probe, Orange Dental, Aspachstr, Biberach, Germany).
+
+At the full‐mouth level, the following parameters were evaluated:
+Full‐mouth plaque index (FMPI): assessed dichotomously (presence/absence) at four sites per tooth at T1 and T3.Full mouth bleeding index (FMBI): assessed dichotomously (presence/absence of bleeding within 30 s of gently probing; Ainamo and Bay 1975) at T1 and T3.Full mouth probing pocket depth (FMPPD): measured at six sites per tooth, except (excluding third molars) at T1.
+
+At local level, the following clinical variables were recorded at six sites per implant at T1, T2, and T3:
+Modified plaque index (mPI) (Mombelli et al. 1987)Modified bleeding index (mBI) (Mombelli et al. 1987)Suppuration on probing (SOP): assessed dichotomously as the presence or absence of suppuration within 30 s after probing.Peri‐implant pocket depth (PPDi): measured from the mucosal margin to the bottom of the probable pocket.Peri‐implant mucosal recession (MRi): measured from the implant neck to the mucosal margin.Disease resolution (success rate): defined as achieving a mBI ≤ 0.16, in accordance with the clinical practice guidelines on the treatment of peri‐implant diseases (Herrera et al. 2023). This variable was considered the primary outcome of the study.
+
+Quantitative parameters (mPI, mBI, PPDi, MRi) were expressed as the mean of the six sites evaluated per implant, whereas categorical outcomes (SOP and Disease resolution) were determined at the implant level according to these definitions. To ensure reproducible probe angulation, individual acrylic stents with six reference grooves per implant (mesiobuccal, midbuccal, distobuccal, mesiolingual, midlingual and distolingual) were fabricated for each participant (Figure S1).
+
+Moreover, standardized periapical radiographs of all study implants were obtained at baseline and at 3 months using a paralleling cone technique and a film‐holder (7 mA–60 kV/20 ms) to detect any loss of supporting bone.
+
+Finally, microbiological sampling was conducted at T1, T2 and T3 to detect the presence of 
+Aggregatibacter actinomycetemcomitans
+ (A.a), 
+Porphyromonas gingivalis
+ (P.g), 
+Prevotella intermedia
+ (P.i), 
+Tannerella forsythia
+ (T.f), 
+Filifactor alocis
+ (F.a), 
+Treponema denticola
+ (T.d), and 
+Fusobacterium nucleatum
+ (F.n). In patients with more than one dental implant, the implant selected for sampling was the one with the highest total mBI score, and within that implant, the site with the highest mBI was chosen. Samples were collected using two sterile paper points, inserted in the same site twice, 30 s apart, each remaining in the peri‐implant sulcus for 20 s. Both paper points were then placed in a sterile tube and stored at 4°C until microbiological analysis.
+
+### Intra‐Examiner Reliability
+
+The examiners MV.O and A.B underwent calibration by calculating the intra‐class correlation coefficient (ICC) after assessing PPDi and mBI. This calibration was performed on 5 patients diagnosed with PM, who were not part of the study sample. These patients were examined on two separate occasions, 5 days apart.
+
+### Sample Size Calculation
+
+The unit of analysis was the patient. For patients with more than one implant fulfilling the inclusion criteria, the mean value of the included implants was used for the analysis. The sample size was calculated according to the primary outcome: disease resolution. Based on a 66.6% resolution rate with OHI + MI (de Tapia et al. 2019), and assuming ≥ 50% resolution with OHI alone, with an alpha risk of 5% and a beta risk of 10% in a two‐sided test, 28 subjects were required. Anticipating a 15% drop‐out, 56 patients (28 per group) were enrolled.
+
+### Statistical Analysis
+
+Data were analyzed at both the patient and implant levels. The primary outcome of the study was disease resolution (mBI < 0.16 at 3 months).
+
+The descriptive analysis provides the most relevant statistics for all variables collected in the study: absolute and relative frequencies (for categorical variables), as well as mean, standard deviation, range, median, and quartiles (for continuous variables).
+
+The Kolmogorov–Smirnov test was used to assess the normality of the distribution of the continuous variables. A per‐protocol analysis was performed. For the patient‐level data, non‐parametric Brunner‐Langer models for longitudinal data were estimated, with the group (control/test) as the between‐subject factor. These models assessed the main effects (time, modeled as a fixed factor with three levels (baseline, 1 month, and 3 months) to account for potential non‐linear effects over time and group), as well as interactions. Mann–Whitney and Wilcoxon tests were used for comparisons, with Bonferroni correction applied.
+
+Simple binary logistic regression models were estimated to explain the probability of PM resolution at 3 months, based on the most relevant variables of interest. Unadjusted odds ratios (OR) and 95% confidence intervals were obtained using the Wald Chi‐square statistic. Variables with p‐values < 0.05 (significant) or < 0.10 (relevant) were included in a final multiple model, adjusting for confounding factors (adjusted OR).
+
+At the implant‐level, intra‐subject dependency was considered. Binary logistic regression models and a general linear model for repeated measures using generalized estimating equations (GEE) were employed; a precision assessment indicated that approximately 55 implants per group were required to estimate the implant‐level resolution rate within a 15% margin of error at a 95% confidence level (ICC = 0.2; 2–3 implants per patient).
+
+For homogeneity tests, Pearson's Chi‐square test, Fisher's exact test, and the Mann–Whitney test were used at the patient level, and the Wald Chi‐square test was applied at the implant level. A significance level of 5% (α = 0.05) was used in all statistical analyses.
+
+## Results
+
+### Intra‐Examiner and Inter‐Examiner Reproducibility
+
+The intra‐examiner reproducibility yielded intra‐class correlation coefficients (ICC) of 0.90 for PPDi and 0.87 for mBI, indicating high reliability for both measurements. Regarding inter‐examiner reproducibility, the first examiner (A.B.) obtained an ICC of 0.90 for PPDi and 0.98 for the mBI. The second examiner (MV.O.) achieved an ICC of 0.87 for PPDi and 0.98 for mBI.
+
+### Data Characteristics for the Study Participants
+
+The sociodemographic and baseline characteristics of the study population are presented in Table 1. A total of 56 patients diagnosed with PM were initially enrolled, of whom 48 patients completed the study. The final sample included 24 males (50%) and 24 females (50%), with a mean age of 63.6 (SD 11.4) years, ranging from 28 to 84 years. Eight patients did not complete the study due to personal reasons or other issues.
+
+[TABLE] Sociodemographic data and general characteristics of the patients at baseline visit.
+No. of patients | 48 | 25 | 23 |  |  |  |  | 
+Age (years) | 63.6 (11.4) | 64.2 (12.2) | 63.0 (10.8) | 0.470 | 64.4 (11.8) | 65.3 (13.9) | 63.7 (10.0) | 
+Group | 48 (100) | 25 (52.1) | 23 (47.9) |  |  |  |  | 
+History of periodontitis, n (%) |  |  |  | 1 |  |  |  | 
+No | 3 (6.3) | 2 (8.0) | 1 (4.3) |  | 8 (6.8) | 6 (11.5) | 2 (3.0) | 
+Yes | 45 (93.8) | 23 (92.0) | 22 (95.7) |  | 110 (93.2) | 46 (88.5) | 64 (97.0) | 
+Compliance with maintenance, n (%) |  |  |  | 0.907 |  |  |  | 
+Non compliers | 15 (31.3) | 8 (32.0) | 7 (30.4) |  | 40 (33.9) | 16 (30.8) | 24 (36.4) | 
+Compliers | 33 (68.8) | 17 (68.0) | 16 (69.6) |  | 78 (66.1) | 36 (69.2) | 42 (63.6) | 
+No. of implants | 2.5 (1.5) | 2.1 (1.2) | 2.9 (1.6) | 0.069 | 118 (100.0) | 52 (44.1) | 66 (55.9) | 
+Smoking habit, n (%) |  |  |  | 0.853 |  |  |  | 
+No | 34 (70.8) | 18 (72.0) | 16 (69.6) |  | 93 (78.8) | 47 (90.4) | 46 (69.7) | 
+Yes | 14 (29.2) | 7 (28.0) | 7 (30.4) |  | 25 (21.2) | 5 (9.6) | 20 (30.3) | 
+Gender, n (%) |  |  |  | 0.773 |  |  |  | 
+Total | 48 (100) | 25 (100) | 23 (100.0) |  | 118 (100.0) | 52 (100.0) | 66 (100.0) | 
+Female | 24 (50.0) | 12 (48.0) | 12 (52.2) |  | 55 (46.6) | 27 (51.9) | 28 (42.4) | 
+Male | 24 (50.0) | 13 (52.0) | 11 (47.85) |  | 63 (53.4) | 25 (48.1) | 38 (57.6) | 
+Systemic disease, n (%) |  |  |  | 0.907 |  |  |  | 
+No | 33 (68.8) | 17 (68.0) | 16 (69.6) |  | 69 (58.5) | 34 (65.4) | 35 (53.0) | 
+Yes | 15 (31.3) | 8 (32.0) | 7 (30.4) |  | 49 (41.5) | 18 (34.6) | 31 (47.0) | 
+ |  | 4 DM | 3 DM |  |  |  |  | 
+ |  | 2 HTA | 3 HTA |  |  |  |  | 
+ |  | 1 HT | 1 HCl |  |  |  |  | 
+ |  | 1 CKD |  |  |  |  |  | 
+Implant position
+Dental arch, n (%) |  |  |  |  |  |  |  | 0.757
+Lower |  |  |  |  | 61 (51.7) | 28 (53.8) | 33 (50.0) | 
+Upper |  |  |  |  | 57 (48.3) | 24 (46.2) | 33 (50.0) | 
+Implant position, n (%) |  |  |  |  |  |  |  | 0.030
+Anterior |  |  |  |  | 91 (77.1) | 45 (86.5) | 46 (69.7) | 
+Posterior |  |  |  |  | 27 (22.9) | 7 (13.5) | 20 (30.3) | 
+Prosthesis, n (%) |  |  |  |  |  |  |  | 0.701
+Cemented |  |  |  |  | 3 (2.5) | 1 (1.9) | 2 (3.0) | 
+Screw retained |  |  |  |  | 115 (97.5) | 51 (98.1) | 64 (97.0) | 
+Restauration, n (%) |  |  |  |  |  |  |  | 0.812
+Unitary |  |  |  |  | 46 (39.0) | 19 (36.5) | 27 (40.9) | 
+Bridge |  |  |  |  | 63 (53.4) | 30 (57.7) | 33 (50.0) | 
+Full arch |  |  |  |  | 9 (7.6) | 3 (5.8) | 6 (9.1) | 
+Hybrid |  |  |  |  |  |  |  | 
+Overdenture |  |  |  |  |  |  |  | 
+Presence of abutment, n (%) |  |  |  |  |  |  |  | 0.721
+Tissue level |  |  |  |  | 25 (21.2) | 11 (21.2) | 14 (21.2) | 
+Yes |  |  |  |  | 55 (46.6) | 21 (40.4) | 34 (51.5) | 
+No |  |  |  |  | 38 (32.2) | 20 (38.5) | 18 (27.3) | 
+
+Patients contributed between 1 and 7 implants, resulting in a total of 118 implants analyzed (52 in the OHI + MI group and 66 in the OHI group). At baseline, the two groups only differed significantly in FMPI (median: 35% in the OHI group vs. 40% in the OHI + MI group; p = 0.010; Table 2) and implant location, with anterior implants being more frequent in the OHI group (30.3%) than in the OHI + MI group (13.5%; p = 0.030; Table 1). A total of 16 prostheses required minor modifications to improve access for oral hygiene. Adjustments were performed according to the protocol described by de Tapia et al. (2019) and mainly involved: (1) reduction of wide or overcontoured emergence angles, particularly in areas where convex profiles limited interproximal and peri‐implant sulcus cleaning; and (2) slight reshaping of the overcontoured vestibular surface to facilitate the passage of interdental brushes and other hygiene devices.
+
+[TABLE] Clinical parameters at the patient level in OHI + MI and OHI groups, at the baseline, 1st month, 3rd month visit.
+FMPI (%) | Baseline | 40.00 (35.00–40.00) | 35.00 (20.00–40.00) | 0.020 | 0.001***
+1 month |  |  |  | 
+3 months | 10.00 (10.00–20.00) | 15.00 (10.00–20.00) | 0.890 | 
+FMBI (%) | Baseline | 35.00 (30.00–40.00) | 35.00 (25.00–40.00) | 0.186 | 0.157
+1 month |  |  |  | 
+3 months | 15.00 (10.00–15.00) | 10.00 (10.00–20.00) | 0.186 | 
+FMPPD (mm) | Baseline | 2.82 (2.63–2.92) | 2.84 (2.65–3.07) | 1.000 | 0.62
+1 month |  |  | 0.453 | 
+3 months |  |  | 0.930 | 
+mBi | Baseline | 2.00 (1.39–2.00) | 1.43 (1.00–2.00) | 0.246 | 0.007**
+1 month | 0.79 (0.50–1.22) | 0.92 (0.54–1.21) | 1.000 | 
+3 months | 0.17 (0.17–0.29) | 0.40 (0.17–0.94) | 0.408 | 
+mPi | Baseline | 1.00 (0.67–1.50) | 0.88 (0.67–1.00) | 0.663 | 0.977
+1 month | 0.50 (0.33–0.67) | 0.50 (0.33–0.67) | 1.000 | 
+3 months | 0.17 (0.00–0.50) | 0.21 (0.17–0.44) | 1.000 | 
+SoP (%)
+No
+Yes | Baseline | 18 (72.0)
+7 (28.0) | 17 (73.9)
+6 (26.1) | 1.000 | 0.734
+ | 1 month | 22 (88.0)
+3 (12.0) | 21 (91.3)
+2 (8.7) | 1.000 | 
+ | 3 months | 24 (96.0)
+1 (4.0) | 21 (91.3)
+2 (8.7) | 1.000 | 
+PPD (mm) | Baseline | 3.00 (2.94–3.25) | 3.08 (2.67–3.21) | 1.000 | 0.425
+1 month | 2.89 (2.83–3.08) | 2.67 (2.33–3.00) | 0.453 | 
+3 months | 2.83 (2.67–3.04) | 2.67 (2.50–3.04) | 0.930 | 
+MRI (mm) | Baseline | 0.00 (0.04) | 0.00 (0.02) | 1.000 | 0.297
+1 month | 0.00 (0.04) | 0.00 (0.02) | 1.000 | 
+ | 3 months | 0.00 (0.02) | 0.00 (0.021) | 1.000 | 
+
+### Clinical Outcomes
+
+At the patient level, FMPI decreased significantly over time (p < 0.001), with median reductions of −15% in the OHI group and −25% in the OHI + MI group, but there were greater reductions in the OHI + MI group (p < 0.001). Similarly, FMBI exhibited a significant reduction over time (p < 0.001), but no significant differences between groups were observed (p = 0.157). The median and interquartile ranges of the clinical parameters at T1, T2 and T3 at the patient level are presented in Table 2.
+
+mBI also decreased significantly in both groups (p < 0.001), although reductions were greater in the OHI + MI group (p = 0.007). At 3 months, median mBI was 0.40 (IQR: 0.17–0.94) in the OHI group and 0.17 (IQR: 0.17–0.29) in the OHI + MI group (p = 0.408). The overall median reduction was −1.02 in the OHI group and −1.58 for the OHI + MI group. Notably, differences between groups were more evident over time, particularly at T3, suggesting a trend toward better outcomes in the OHI + MI group (Figure 1, Table 2). At the implant level, a similar pattern was observed, with mean mBI reduction of −0.93 in the OHI group and −1.39 in the OHI + MI group (see Table 3).
+
+[FIGURE] Changes in mBI by group: results of the ATS test from the Brunner‐Langer model.
+
+[TABLE] Clinical parameters at the implant level in OHI + MI and OHI groups, at the baseline, 1st month, and 3rd month visit.
+mBi | Baseline | 1.68 (0.54) | 1.46 (0.69) | 1.000 | 0.007**
+1 month | 0.95 (0.57) | 0.95 (0.67) | 1.000
+3 months | 0.29 (0.32) | 0.53 (0.50) | 0.243
+mPi | Baseline | 0.94 (0.52) | 0.92 (0.36) | 1.000 | 0.973
+1 month | 0.53 (0.38) | 0.53 (0.43) | 1.000
+3 months | 0.24 (0.27) | 0.24 (0.20) | 1.000
+SoP (%)
+No
+Yes | Baseline | 19 (36.5)
+33 (63.5) | 10 (15)
+56 (85) | 1.000 | 0.973
+1 month | 3 (5.7)
+49 (94.3) | 4 (6.1)
+62 (93.9) | 1.000
+3 months | 1 (1.9)
+51 (98.1) | 3 (4.5)
+63 (95.4) | 1.000
+PPD (mm) | Baseline | 3.05 (0.44) | 3.03 (0.56) | 1.000 | 0.491
+1 month | 2.85 (0.54) | 2.73 (0.48) | 1.000
+3 months | 2.67 (0.74) | 2.70 (0.52) | 1.000
+MRI (mm) | Baseline | 0.00 (0.06) | 0.00 (0.02) | 1.000 | 0.743
+1 month | 0.00 (0.06) | 0.00 (0.02) | 1.000
+3 months | 0.00 (0.06) | 0.0 (0.02) | 1.000
+
+mPI decreased significantly in both groups, with median reductions of −0.60 in OHI group and −0.67 in OHI + MI group (p < 0.001) at the patient level, and −0.68 in OHI and −0.70, respectively, at the implant level, without significant differences between groups (patient level: p = 0.977; implant level: p = 0.973). Suppuration was rare at all time points; at 3 months, 98.1% of implants in the OHI + MI group and 95.4% in the OHI group were free of suppuration.
+
+At 3 months, the median PPDi at the patient‐level was 2.67 mm (IQR: 2.50–3.04) in the OHI group and 2.83 mm (IQR: 2.67–3.04) in the OHI + MI group, with no significant differences (p = 0.261). At the implant level, median PPDi reduction was −0.33 mm in the OHI group and −0.40 mm in the OHI + MI group (p = 0.491).
+
+At the patient level, the disease resolution was 39.1% (95% CI: 19.7%–61.5%) in the OHI group and 56% (95% CI: 34.9%–75.6%) in the OHI + MI group. At the implant level, disease resolution was 36.4% (95% CI: 24.8%–48.0%) and 67.3% (95% CI: 54.6%–80.1%), respectively; all implants receiving prosthesis modification showed disease resolution. Given that the lower bound of the 95% CIs in the OHI group exceeded approximately 20% and at the implant level exceeded approximately 25%, these success rates can be considered clinically relevant. The evolution of clinical outcomes from T1 to T3 in both groups is depicted in Figures 2 and 3.
+
+[FIGURE] Peri‐implant tissue condition in the OHI + MI group before treatment (left) and after treatment (right). (a) Clinical situation at baseline demonstrating inflammatory signs (mBI‐Modified Bleeding Index = 2); (b) Clinical situation 3 months following the oral hygiene protocol demonstrating resolution of mBI.
+
+[FIGURE] Peri‐implant tissue condition in the OHI group before (left) the intervention with hygiene protocols and after (right). (a) Clinical situation at baseline demonstrating inflammatory signs (mBI‐Modified Bleeding Index = 2); (b) Demonstration of the hygiene protocol using interproximal brushes to clean interproximal spaces around the implant; (c) Clinical situation 3 months following the oral hygiene protocol demonstrating resolution of mBI.
+
+### Microbiological Outcomes
+
+At baseline, P.g was highly prevalent initially (21/25 in OHI + MI and 16/23 in OHI) and decreased in both groups by T3 (12/25 and 7/23, respectively). F.n was the most prevalent species at T1 and T3, with a slight reduction over time (from 24/25 and 23/23 to 22/25 and 17/23 in OHI + MI and OHI groups, respectively). Overall, most pathogens showed a decreasing trend over time, especially in the OHI + MI group; however, no statistically significant differences between groups at any timepoint could be detected for any bacterial species (p > 0.005). Detailed information about microbiological course can be observed in Table S1.
+
+### Logistic Regression Models
+
+#### Patient Level
+
+At the patient level, the unadjusted logistic regression showed a non‐significant 49% lower odds of resolution in the OHI group (OR = 0.51; p = 0.245). Compliance was strongly associated with higher resolution rates (OR = 11.4; p = 0.004), with success observed in 63.6% of compliant patients compared to 13.3% of non‐compliant patients. Higher FMPI and FMBI at 3 months were significantly associated with lower odds of resolution (p < 0.005), and a higher final mPI value also showed a trend toward reduced resolution (p = 0.077).
+
+In the multivariable model adjusted for baseline FMPI, the odds of resolution remained lower in the OHI group (OR = 0.10; p = 0.062). Compliance (p = 0.010) and final FMBI (p = 0.019) were the most significant predictors of final mBI. Logistic regression models for disease resolution and mBI at 3 months are represented in Table 4.
+
+[TABLE] Adjusted linear regression analysis of the initial modified bleeding index (mBI) at the patient level at the 3‐month visit, according to group and independent variables of interest.
+Group
+OHI + MI | 1 | 1 | 0 | 0
+OHI | 0.51 (0.16–1.60), p = 0.245 | 0.10 (0.01–1.12), p = 0.062 | 0.23 (0.01–0.45), 
+p = 0.042* | 0.21 (0.04–0.38), 
+p = 0.017*
+Age | 0.95 (0.90–1.01), p = 0.100 |  | 0.01 (−0.01 to 0.02), p = 0.096 | 0.00 (−0.01 to 0.01), p = 0.976
+Smoker
+No | 1 |  | 0 | 0
+Yes | 0.75 (0.21–2.63), p = 0.653 |  | 0.21 (−0.03 to 0.45), p = 0.080 | 0.13 (−0.03 to 0.30), p = 0.110
+Compliers
+No | 1 | 1 | 0 | 0
+Yes | 11.4 (2.19–59.2), 
+p = 0.004** | 39.0 (2.38–641.1), 
+p = 0.010* | −0.48 (−0.68 to −0.29) 
+p < 0.001*** | −0.34 (−0.54 to −0.14), 
+p = 0.001**
+History of periodontitis
+No | 1 |  | 0 | 
+Yes | 1.91 (0.16–22.5), p = 0.607 |  | 0.22 (−0.24 to 0.68), p = 0.347 | 
+PPDi T1 | 1.05 (0.21–5.20), p = 0.950 |  | 0.09 (−0.23 to 0.41), p = 0.575 | 
+mBI T1 | 070 (0.21–2.30), p = 0.558 |  | 0.07 (−0.17 to 0.30), p = 0.568 | 
+mPI T3 | 0.11 (0.01–1.28), p = 0.077 | 0.10 (0.01–3.63), p = 0.207 | 0.46 (0.09–0.83), 
+p = 0.016* | 0.11 (−0.18 to 0.40), p = 0.440
+FMPI T1 |  | 0.99 (0.89–1.10), p = 0.865 |  | −0.01 (−0.02 to 0.01), p = 0.269
+FMPI T3 | 0.87 (0.77–0.97), 
+p = 0.015* | 0.91 (0.78–1.07), p = 0.250 | 0.02 (0.00–0.04), p = 0.051 | −0.01 (−0.02 to 0.01), p = 0.867
+FMBI T3 | 0.77 (0.065–0.91), 
+p = 0.002** | 0.73 (0.56–0.95), 
+p = 0.019* | 0.03 (0.02–0.05), 
+p < 0.001*** | 0.03 (0.01–0.04), 
+p = 0.001**
+
+#### Implant Level
+
+At the implant level (Table 5), the unadjusted logistic regression model showed significantly lower odds of resolution in the OHI group (OR = 0.28; p = 0.007) corresponding to a 72% reduction in odds compared to the OHI + MI group. Compliance (p < 0.001), mPI at T3 (p = 0.013), FMBI at T3 (p = 0.005), and FMPI at T3 (p = 0.023) were also significant predictors.
+
+[TABLE] Adjusted linear regression analysis of the initial modified bleeding index (mBI) at the implant level at the 3‐month visit, according to group and independent variables of interest.
+Group
+OHI + MI | 1 | 1 | 0 | 0
+OHI | 0.28 (0.11 to 0.71), 
+p = 0.007* | 0.09 (0.02 to 0.40), 
+p = 0.002** | 0.24 (0.04 to 0.43), 
+p = 0.016* | 0.23 (0.10 to 0.36), 
+p = 0.001**
+Age | 0.97 (0.94 to 1.01), p = 0.163 |  | 0.01 (−0.01 to 0.02), p = 0.131 | 
+Smoker
+No | 1 |  | 0 | 
+Yes | 0.74 (0.21 to 2.61), p = 0.636 |  | 0.01 (−0.22 to 0.23), p = 0.962 | 
+Compliers
+No | 1 | 1 | 0 | 0
+Yes | 9.43 (3.03 to 29.4), 
+p < 0.001*** | 17.5 (3.07 to 99.5), 
+p = 0.001** | −0.46 (−0.67 to −0.24), 
+p < 0.001*** | −0.37 (−0.55 to 0.20), 
+p < 0.001***
+History of periodontitis
+No | 1 |  | 0 | 0
+Yes | 0.58 (0.11 to 3.14), p = 0.526 |  | 0.23 (0.05 to 0.41), 
+p = 0.010* | 0.05 (−0.11 to 0.21), p = 0.565
+Implant position
+Posterior |  | 1 |  | 1
+Anterior |  | 3.20 (0.97 to 10.6), p = 0.056 |  | −0.05 (−0.20 to 0.10), p = 0.541
+Restoration
+Single crown | 1 |  | 0 | 
+Bridge | 0.48 (0.19 to 1.21), p = 0.119 |  | 0.04 (−0.19 to 0.27), p = 0.738 | 
+Full‐arch fixed prosthesis | 0.51 (0.07 to 3.68), p = 0.508 |  | 0.09 (−0.28 to 0.45), p = 0.643 | 
+Abutment
+Tissue level | 1 |  | 0 | 
+Yes | 0.89 (0.27 to 2.92), p = 0.847 |  | −0.17 (−0.52 to 0.18), p = 0.332 | 
+No | 0.92 (0.26 to 3.30), p = 0.902 |  | −0.16 (−0.52 to 0.21), p = 0.395 | 
+PPDi T1 | 0.77 (0.31 to 1.95), p = 0.584 |  | 0.12 (−0.02 to 0.27), p = 0.103 | 
+mBI T1 | 0.62 (0.31 to 1.25), p = 0.180 |  | 0.09 (−0.08 to 0.25), p = 0.318 | 
+mPI T3 | 0.04 (0.01 to 0.52), 
+p = 0.013* | 0.01 (0.01 to 0.17), 
+p = 0.001** | 0.37 (0.03 to 0.72), 
+p = 0.031* | 
+FMPI T1
+mPI T3 |  |  |  | 0.18 (−0.001 to 0.37), p = 0.051
+FMPI T3 | 0.89 (0.81 to 0.99), 
+p = 0.023* | 0.91 (0.80 to 1.04), p = 0.166 | 0.02 (0.01 to 0.04), 
+p = 0.010* | 0.01 (−0.01 to 0.02), p = 0.075
+FMBI T3 | 0.89 (0.82 to 0.97), 
+p = 0.005** | 0.92 (0.82 to 1.03), p = 0.153 | 0.02 (0.01 to 0.03), < 0.001*** | 0.01 (−0.01 to 0.02), p = 0.096
+
+In the multivariable model, posterior implant location showed a trend toward higher failure rates (p = 0.056). Moreover, treatment group (p = 0.001), compliance (p = 0.001), and mPI (p = 0.001) remained significant predictors of disease resolution. When examining predictors of final mBI using linear regression, a history of periodontitis emerged as a negative prognostic factor, associated with higher final mBI values (p = 0.010). Other significant predictors of higher mBI included poor compliance (p < 0.001), higher mPI at T3 (p = 0.031), higher FMBI at T3 (p < 0.001), and higher FMPI at T3 (p = 0.010).
+
+## Discussion
+
+The primary aim of this study was to evaluate the clinical efficacy of OHI compared to OHI + MI in the treatment of PM. Instead of testing superiority or non‐inferiority, it assessed whether OHI alone could yield meaningful improvements despite being considered less effective.
+
+The results indicate that both treatment strategies led to significant improvements in clinical outcomes, such as mBI. Although OHI + MI showed better results, especially in disease resolution, OHI alone still produced clinically relevant benefits, particularly in adherent patients.
+
+At the patient level, success rates were 39.1% in the OHI group and 56% in the OHI + MI group. At the implant level, these rates were 36.4% and 67.3%, respectively. The outcomes observed in the OHI group are consistent with previously reported findings evaluating similar interventions. For instance, a 3‐month study assessing disease resolution after MI reported complete resolution of bleeding on probing in 31% of implants (Aimetti et al. 2019). Similarly, a systematic review by Verket et al. (2023) indicated treatment success rates from 30.9% to 34.5% after mechanical or physical instrumentation. Although lower than OHI + MI, differences reflect varying success definitions; here, success was BOP ≤ 1 site, per EFP S3 guideline (Herrera et al. 2023).
+
+These findings highlight the relevance of oral hygiene not only as an adjunct to professional care but also as a therapeutic intervention in its own clinical value. This is supported by previous studies evaluating the efficacy of various oral hygiene devices in PM management. In a three‐arm randomized trial, it was shown that a toothbrush combined with oral irrigators or interdental brushes was effective in resolving PM at 12 weeks (Tütüncüoğlu et al. 2022).
+
+Although this study focused primarily on clinical outcomes related to PM, the reductions in FMPI and FMBI observed in both groups are noteworthy. While these indices are not directly related to the primary treatment goal, they remain important indicators of general oral hygiene and gingival health, and higher values predicted lower resolution, consistent with Nicola et al. (2024), who reported that patients with initial FMBI below 25% were four times more likely to achieve partial disease resolution (BOP < 2 sites). Furthermore, at the implant level, the number of bleeding sites, initial probing depth, and prosthetic connection type (screw‐retained vs. cemented) were also identified as potential prognostic factors.
+
+In this study, the reduction of mBI served as a key indicator of treatment efficacy. Both groups showed significant improvement in mBI over time, with the OHI + MI group demonstrating a more pronounced reduction at 3 months (median: 0.17; IQR 0.17–0.29) compared to the OHI group (median: 0.40; IQR 0.17–0.94). These reductions are in accordance with previous studies. Bengtsson et al. (2025), in a 6‐month randomized trial comparing an Er‐YAG laser with an ultrasonic device, observed a significant decrease in mBI, from 1.9 to 0.8 in the ultrasonic group, meanwhile the laser group reduced from 1.3 to 0.6. Similarly, Philip et al. (2020) showed a decrease in mBI at 3 months across several treatment arms (mechanical debridement and delmopinol group: from 1.00 to 0.13; mechanical debridement and chlorhexidine group: from 1.03 to 0.28; placebo group: from 1.08 to 0.19).
+
+Though mBI differences were not statistically significant (p = 0.408), trends favored OHI + MI, especially at T3 (mean reduction −1.58 vs. −1.02; p = 0.007). PM shares histopathology with gingivitis but involves a deeper infiltrate and higher MMP‐8 (Salvi et al. 2012), implying longer healing (Schwarz et al. 2003). The findings of this study support this notion, suggesting that peri‐implant lesions may require longer treatment periods than periodontal ones, highlighting the importance of monitored treatment over an extended period.
+
+One of the key objectives of the study was to determine whether the degree of initial inflammation, as measured by the initial mBI, could influence disease resolution. The findings suggested that it did not significantly impact outcomes. Instead, treatment success was more strongly associated with other factors, particularly patient compliance with the instructed oral hygiene method and oral hygiene indices (FMPI, FMBI). This is consistent with de Tapia et al. (2022), who showed that patients with a high degree of compliance with oral hygiene exhibited lower mBI and mPI values (de Tapia et al. 2022). Moreover, interproximal cleaning with interdental brushes has also been identified as a protective indicator against peri‐implant diseases, with an OR of 0.27 (Romandini et al. 2021). Furthermore, history of periodontitis was a relevant negative prognostic factor for final mBI, consistent with previous evidence linking history of periodontitis to an increased risk of peri‐implant diseases (Berglundh et al. 2018; Derks and Tomasi 2015).
+
+These findings support the concept that treatment success is not solely dependent on the initial clinical presentation (i.e., inflammation), but also on individual susceptibility, patient commitment to oral hygiene and, the implant accessibility for effective cleaning.
+
+At the microbiological level, baseline analysis revealed the presence of specific bacterial species commonly associated with gingivitis, as reported by Di Spirito et al. (2024) notably, members of the red complex. Pathogens decreased post‐treatment, without group differences, though eradication was not achieved, indicating that such bacteria may also be present in peri‐implant health, though at significantly lower levels (Casado et al. 2011).
+
+One methodological consideration concerns the study's objective and design. Although conducted as a randomized controlled trial, it was not framed within superiority, non‐inferiority, or equivalence paradigms. Instead, it pragmatically assessed whether OHI alone could achieve meaningful outcomes—an exploratory approach uncommon in dentistry but recognized in other medical fields for evaluating simplified interventions (Tannock et al. 2024; Park et al. 2019). By reporting the absolute proportion of patients achieving disease resolution in the test group, this study contributes to patient‐centered decision‐making. However, it is important to acknowledge several limitations of the study. First, the sample size calculation was based on an estimated 50% disease resolution, which, although clinically relevant, was somewhat subjective and not supported by prior data. Another limitation was the non‐randomized assignment of implants; the unit of analysis was at the patient level to help mitigate potential biases. However, variability in the number of implants per patient could have influenced implant‐level results. The 3‐month follow‐up period may also be too short to assess the long‐term effects of the treatments, and extended follow‐ups in future studies would provide better insights into the sustainability of the intervention. However, the decision not to extend the study beyond this time point was made to avoid the potential risk of progression from PM to peri‐implantitis in OHI group patients who did not achieve disease resolution. Lastly, the reliance on self‐reported compliance with oral hygiene measures could have influenced the results, as it may not accurately reflect actual adherence.
+
+## Conclusions
+
+While mechanical debridement remains a crucial component in the treatment of PM, the present study highlights the significant role of improved oral hygiene in managing the condition. Our results showed that OHI alone can achieve disease resolution in a substantial proportion of patients, especially those who demonstrated consistent adherence to the prescribed oral care practices. Furthermore, a history of periodontitis and implant location played a key role, with anterior implants showing a trend toward more favorable outcomes due to better accessibility for plaque control. These findings suggest that, although OHI can be an effective treatment on its own, patient commitment to proper hygiene, individual susceptibility, and implant accessibility are critical factors for achieving disease resolution.
+
+## Author Contributions
+
+Beatriz de Tapia: writing – original draft, conceptualization, investigation, writing – review and editing, project administration, validation, methodology, supervision, formal analysis. Álvaro Babiano: investigation, writing – original draft, data curation, validation, methodology, formal analysis. Maria Vittoria Oreglia: investigation, writing – original draft, formal analysis. Cristina Valles: writing – review and editing, validation, visualization, formal analysis, investigation, supervision, project administration. Jose Nart: writing – review and editing, visualization, validation, project administration.
+
+## Funding
+
+The authors have nothing to report.
+
+## Conflicts of Interest
+
+The authors declare no conflicts of interest.
+
+## Supporting information
