@@ -1,0 +1,318 @@
+TITLE: Relative performance of various biomaterials used for maxillary sinus augmentation: A Bayesian network meta‐analysis
+AUTHORS: Trimmel Bálint, Gede Noémi, Hegyi Péter, Szakács Zsolt, Mezey Gyöngyi Anna, Varga Eszter, Kivovics Márton, Hanák Lilla, Rumbus Zoltán, Szabó György
+JOURNAL: Clinical Oral Implants Research
+ID[pmcid]: PMC8247032
+ID[pmcid-ver]: PMC8247032.1
+ID[pmcaid]: 8247032
+ID[pmcaiid]: 8247032
+ID[pmid]: 33230862
+ID[doi]: 10.1111/clr.13690
+ID[publisher-id]: CLR13690
+
+## ABSTRACT
+Abstract
+ObjectivesTo assess the histomorphometric outcomes obtained in randomized clinical trials (RCTs) with different biomaterials used for maxillary sinus augmentation (MSA).
+Materials and MethodsA search of the existing medical literature until October 1, 2019, was performed. Inclusion criteria were (a) RCTs assessing a two‐stage MSA from the lateral approach using autologous bone or biomaterials for grafting and (b) reported histomorphometric outcomes based on crestal bone core biopsy samples. The Bayesian method was used to perform pairwise meta‐analyses and network meta‐analysis (NMA). The primary outcome, the new bone percentage (NB %), was calculated as mean differences with 95% credible intervals. The interventions were ranked by their posterior probability by calculating the surface under the cumulative ranking curve values.
+ResultsThirty‐four RCTs (842 MSAs) were included in the analysis with a normal healing period (5–8 months). All comparisons were presented in a league table. On the basis of the ranking probability, the most effective bone grafting material for NB% was bovine xenograft + bone marrow concentrate (BMC) (81%), followed by bovine xenograft + platelet‐rich plasma (PRP) (77%), bioactive glass ceramic + autologous bone 1:1 (70%), nanocrystalline hydroxyapatite in silica gel (70%), and bioactive glass ceramic (70%). Autologous bone graft alone took the twelfth position with 57%.
+ConclusionWithin the limitations of the present NMA, the analysis did not confirm autologous bone alone as the gold standard for MSA and showed superiority of composite grafts such as bovine xenograft + BMC after 5–8 months of healing.
+
+## INTRODUCTION
+
+To facilitate implant placement in the areas of the posterior maxilla with insufficient alveolar height, a maxillary sinus augmentation (MSA) technique using a lateral approach was invented (Boyne & James, 1980). Over the last 40 years, a variety of modifications to this technique has been published and clinical trials have confirmed its predictability and long‐term efficacy (Antonoglou et al., 2018; Chanavaz et al., 1995; Pjetursson et al., 2008; Raghoebar et al., 2019; Tatum et al., 1993). The first and one of the best grafting materials for this intervention is the autologous bone (AB), which was considered by many authors as the "gold standard.” It possesses osteoinductive, osteoconductive, and osteogenic capabilities, but also involves donor‐site morbidity. This is the main reason for the search for biomaterials to substitute AB grafts. In the last few decades, biomaterials such as xenografts, allografts, synthetic grafts, growth factors, platelet concentrates, and a variety of composite grafts have been investigated to identify an optimal solution for MSA (Lutz, 2018; Schlegel et al., 2016).
+
+For evaluation of grafted areas, histomorphometric analysis from bone core biopsy samples is used to assess the following parameters: the proportions of newly formed bone (NB), residual graft (RG) particles, and non‐mineralized tissue (NMT) (Moy et al., 1993; Price et al., 1998). A greater percentage of NB indicates a successful integration of the bone graft, and this vital bone is one of the most important factors for dental implant osseointegration.
+
+Previous systematic reviews on histomorphometric outcomes tried to synthesize the evidence to identify the most predictable grafting material for MSA (Corbella et al., 2016; Danesh – Sani et al., 2017; Ting et al., 2017). However, in order to pool data for a meta‐analysis, similar trials with same comparisons are needed. Further, the variety of biomaterials used, the differences in healing times, and comparators across different studies are the major limitations for a quantitative synthesis. In contrast, a network meta‐analysis (NMA) can handle multiple interventions if the assumption of transitivity is met.
+
+Thus, the purpose of the present systematic review was to perform a Bayesian NMA on the dataset of previously published RCTs and rank the biomaterials used for two‐stage MSA by NB formation capacity. The null hypothesis was that the highest amount of NB formation after MSA is associated with the use of AB alone as grafting material.
+
+## MATERIALS AND METHODS
+
+### Protocol and registration
+
+This network meta‐analysis is reported in accordance with the PRISMA‐NMA Statement. The protocol has been registered in PROSPERO (International Prospective Register of Systematic Reviews) a priori under registration number CRD42019137740.
+
+### PICO and eligibility
+
+The PICOTS (patient characteristics, intervention, comparison and outcome, timing and study design) format was applied to the clinical question (Table 1).
+
+[TABLE] PICOTS criteria
+Patient characteristics (P) | Patients treated with maxillary sinus augmentation (MSA) via the lateral approach were included. Patients treated with (1) one stage or non‐lateral access MSA or (2) MSA combined with vertical or horizontal augmentation were excluded.
+Intervention (I) | Biomaterials including: (1) allograft, (2) bovine xenograft, (3) porcine xenograft, (4) equine xenograft, (5) biphasic calcium phosphate, (6) beta‐tricalcium‐phosphate, (7) bioactive glass ceramic, (8) nanocrystalline hydroxyapatite, (9) magnesium‐enriched hydroxyapatite, (10) rigid biodegradable (L‐lactic, D‐lactic, and glycolic acid)copolymer membrane, (11) bovine xenograft mixed with autologous bone 1:1, (12) bovine xenograft mixed with autologous bone 1:1 followed by laser stimulation, (13) bovine xenograft mixed with autologous bone 4:1, (14) bovine xenograft mixed with autologous bone 7:3, (15) bovine xenograft mixed with platelet‐rich fibrin, (16) bovine xenograft mixed with platelet‐rich plasma, (17) bovine xenograft mixed with bone marrow aspirates, (18) bovine xenograft mixed with bone marrow concentrate, (19) bioactive glass ceramic mixed with autologous bone 1:1, (20) beta‐tricalcium‐phosphate mixed with autologous bone 1:1, (21) beta‐tricalcium‐phosphate mixed with platelet‐rich plasma, (22) beta‐tricalcium‐phosphate mixed with platelet‐rich fibrin, (23) autologous bone mixed with platelet‐rich plasma, (24) autologous bone mixed with autologous platelet concentrate, (25) biphasic calcium phosphate mixed with fibrin sealant, (26) poly(lactic‐co‐glycolic acid)‐based polymer (PLGA)‐coated biphasic calcium phosphate, (27) biphasic calcium phosphate mixed with enamel matrix proteins (EMD), (28) nanocrystalline hydroxyapatite in silica gel, (29) nanocrystalline hydroxyapatite in silica gel mixed with plasma rich in growth factors, (30) titan granules mixed with platelet‐rich fibrin, (31) allograft mixed with autologous bone 1:1, (32) beta‐tricalcium‐phosphate mixed with autologous bone, (33) beta‐tricalcium‐phosphate mixed with autologous bone 10:1, (34) equine xenograft mixed with hyaluronic acid matrix, (35) equine xenograft mixed with porous titanium granules, (36) collagen‐stabilized bovine xenograft, (37) biphasic calcium sulfate mixed with bovine xenograft 2:1, (38) biphasic calcium sulfate mixed with biphasic calcium phosphate 2:1, (39) porcine xenograft mixed with autologous bone 1:1, (40) bovine xenograft mixed with synthetic peptide in sodium hyaluronate, and (41) beta‐tricalcium‐phosphate mixed with recombinant human growth and differentiation factor‐5.
+Comparison (C) | Autologous bone
+Outcome (O) | New bone formation determined based on histomorphometric analysis from crestal bone core biopsy samples were included.
+Histomorphometric data based on lateral bone core biopsy samples were excluded.
+Timing (T) | (T1) early healing (bone core biopsy harvesting occurred 2–5 months after MSA), (T2) normal healing (bone core biopsy harvesting occurred 5–8 months after MSA), and (T3) late healing group (bone core biopsy harvesting occurred more than 8 months after MSA).
+Study design (S) | Randomized controlled trials.
+
+### Search strategy
+
+A systematic search without applied filters or restrictions was performed in Cochrane Library (CENTRAL), EBSCO, Embase, MEDLINE (via PubMed), and WOS (WOS core Collection) electronic databases with records published up to October 1, 2019.
+
+The search key was as follows: ("sinus membrane elevation" OR "sinus lift" OR "sinus augmentation" OR "sinus floor augmentation" OR "sinus floor elevation" OR "msfe" OR "sinus graft" OR "maxillary augmentation") AND (graft OR material OR bone).
+
+Besides electronic databases, a hand search of cited and citing papers was performed.
+
+### Study selection and data collection
+
+All the relevant articles were combined in a reference manager software (EndNote X9; Clarivate Analytics). After removing duplicates, the remaining records were screened in the following three steps: screening by titles (a), screening by abstracts (b), and finally, screening of the full text (c). Study selection was performed by two authors independently (B.T and M.K.). Disagreements between reviewers were resolved by discussion and consultations with a third author (G. Sz.) Data extraction was performed independently by two reviewers (B.T and M.K.) using a standardized preconstructed data extraction sheet. The following information was extracted: first authors' names, year of publication, study design, number of participants, average age of the participants, sex distribution, number of surgical sites, number of biopsy samples, applied healing time, the residual ridge height, maxillary sinus width, and the percentage of NB based on histomorphometric records.
+
+### Risk of bias assessment
+
+Potential sources of bias in the included studies were explored using the Cochrane Handbook. Review Manager 5.3 software and the Cochrane Risk of Bias Tool were applied to evaluate seven domains. For the final judgment of the overall risk assessment, only six domains were considered. More details are shown in Appendix S1.
+
+### Data processing and statistical analysis
+
+Subgrouping for the meta‐analysis may result in loss of information from the original studies. To reduce the clinical heterogeneity associated with the differences in healing periods applied in the studies, the extracted data were classified into three subgroups: early (bone core biopsy harvesting occurred more than 2 but a maximum of 5 months after MSA), normal (bone core biopsy harvesting occurred more than 5 but a maximum of 8 months after MSA), and late (bone core biopsy harvesting occurred more than 8 months after MSA) healing groups.
+
+The commonly used categories for biomaterials, such as xenografts or alloplasts, are too general and cover a wide variety of biomaterials with different properties. During data processing, in order to overcome this disadvantage and preserve the information for the types and nature of biomaterials, 42 subgroups were created.
+
+For visualization of the connections between biomaterial subgroups, a spider web‐like graph was created based on the predefined healing periods. If a connected network was identified, the Bayesian method was used to perform pairwise meta‐analyses and NMA. The Bayesian approach for NMAs describes the range and probability of the parameter of interest (e.g., treatment effect). The posterior distribution produced by this method predicts the new range and probability of plausible values for these parameters with the representation of uncertainty. These properties make the model suitable for drawing direct probability statements (Dias & Caldwell, 2019; Spiegelhalter et al., 2004).
+
+All the analyses were carried out under a random effect model. The primary outcome, the NB percentage (continuous), was calculated as mean difference (MD) with 95% credible intervals (95% CrI). Node‐splitting analysis was performed for examination of consistency. The model was optimized, and posterior samples were generated using Markov Chain Monte Carlo methods running in four chains. At least 20,000 adaptation iterations were set to determine convergence and 10,000 simulation iterations.
+
+The network estimates (pooled estimates of direct and indirect data) of each intervention were presented in comparison with placebo and with each other in a forest plot. The interventions were ranked by their posterior probability by calculating the surface under the cumulative ranking (SUCRA) curve values, and the cumulative probabilities of each treatment were characterized by a single value between 0% and 100%. Ranking probabilities have the advantage of allowing easy‐to‐interpret conclusions with their application (“Treatment A has a 55% chance of being the best”). The higher the percentage or SUCRA value, the higher the likelihood of the treatment being in the top rank, or being one of the top ranks (Dias & Caldwell, 2019; Salanti et al., 2011).
+
+To check for publication bias, a visual inspection of funnel plots and Egger's test was performed. All computations were performed using the R (V. 3.5.2) package gemtc (V. 0.8–2) along with the Markov Chain Monte Carlo engine JAGS (V. 3.4.0), package netmeta (V. 1.1–0), and STATA 16.0 (StataCorp LLC).
+
+### Quality of evidence
+
+There is no widely accepted and applied method for grading the evidence of NMA. The limitations of the existing rating methods did not allow their use in the present NMA (Chaimani et al., 2019). Nevertheless, elements of the GRADE rating system were used to assess the certainty of confidence derived from the results and describe the limitations and strengths of the findings.
+
+## RESULTS
+
+### Study selection and characteristics
+
+Figure 1 shows the flowchart of this meta‐analysis. All inclusion criteria were fulfilled by 69 studies. Data extraction was performed as described previously. In a total of 34 studies that used a normal healing period (5–8 months), a connected network was identified, which provided an opportunity for NMA.
+
+[FIGURE] PRISMA flow diagram. From: Moher et al. (2009).
+
+The trials excluded from quantitative synthesis are summarized in Appendix S2. Characteristics of the studies included in the NMA, including patient and biomaterial characteristics, are summarized in Table 2.
+
+[TABLE] Characteristics of the studies included in the NMA are presented in the data extraction sheet: first authors’ names, year of publication, sample size (number of maxillary sinus augmentation (MSA)), applied grafting materials, subgroup categories of grafting materials, the percentage of NB, the region of interest (ROI) of the histomorphometry, the residual ridge height, the sinus widths, and the applied healing time
+Batas | 2019 | 6 | Bovine xenograft mixed with platelet‐rich fibrin (PRF) | Bovine + PRGF | 35.6 | 8.26 | n.s. | Augmented area above the residual ridge | Less than 3 mm | Not reported | 6
+6 | Bovine xenograft | Bovine | 37.8 | 3.15 |  |  |  |  | 6
+Flichy‐Fernández | 2019 | 16 | Poly(lactic‐co‐glycolic acid)‐coated (PLGA‐coated) biphasic calcium phosphate (HA/β‐TCP = 60/40) | BCP + PLGA | 31.25 | 13.82 | n.s. | Not reported | 2.5 +‐ 1.58 mm | 6.8 +‐ 1.48 mm | 6
+20 | Biphasic calcium phosphate (HA/β‐TCP = 60/40) | BCP | 34.09 | 14.11 |  |  | 3.46 +‐ 0.87 mm | 7.38 +−1.32 mm | 6
+Oh | 2019 | 27 | Biphasic calcium phosphate (HA/β‐TCP = 60/40) | BCP | 28.84 | 7.94 | 0.286 | Augmented area above the residual ridge | Mean 3.8 mm (2.2–5.8 mm) | Not reported | 6
+25 | Bovine xenograft | Bovine | 25.13 | 9.56 |  |  |  |  | 6
+Kivovics | 2018 | 12 | Albumin impregnated demineralized freeze‐dried bone allograft | Allo | 36.28 | 8.00 | <0.05 | Augmented area above the residual ridge | 1–5 mm | Not reported | 6
+11 | Bovine xenograft | Bovine | 50.23 | 10.79 |  |  |  |  | 6
+Menezes | 2018 | 9 | Bioactive glass ceramic mixed with autologous bone (1:1) | Bioglass + AB 1:1 | 45.8 | 13.8 | n.s. | Apical 1/3 of the sample | Less than 5 mm | Not reported | 6
+12 | Autologous bone | AB | 42 | 16.6 |  |  |  |  | 6
+Nizam | 2018 | 13 | Bovine xenograft mixed with leukocyte‐ and platelet‐rich fibrin (L‐PRF) | Bovine + PRF | 21.38 | 8.78 | 0.96 | Augmented area above the residual ridge | 2.45+−0.79 mm | Not reported | 6
+13 | Bovine xenograft | Bovine | 21.25 | 5.59 |  |  | 2.53+−0.61 mm |  | 6
+Theodoro | 2018 | 6 | Bovine xenograft mineral mixed with autologous bone (1:1) | Bovine + AB 1:1 | 35.5 | 3.95 | 0.64 | Total sample | 4 mm | Not reported | 6
+6 | Bovine xenograft mixed with autologous bone (1:1) for sinus grafting, followed by LLLT. | Bovine + AB 1:1 + laser stimulation | 32 | 13.75 |  |  |  |  | 6
+Jelusic | 2017 | 30 | Nanoporous biphasic calcium phosphate (HA/β‐TCP = 60/40) | BCP | 38.42 | 12.61 | 0.379 | Not reported | 2.73+−1.06 mm | Not reported | 6
+30 | Beta‐tricalcium phosphate (β‐TCP) | β‐TCP | 36.16 | 19.37 |  |  | 2.78+−1.31 mm |  | 6
+Kilic | 2017 | 9 | Beta‐tricalcium phosphate (β‐TCP) | β‐TCP | 33.4 | 10.43 | n.s. | Not reported | Less than 7 mm | Not reported | 6
+9 | Beta‐tricalcium phosphate (β‐TCP) mixed with platelet‐rich plasma (PRP) | β‐TCP + PRP | 34.83 | 10.12 | n.s. |  |  |  | 6
+8 | Beta‐tricalcium phosphate (β‐TCP) mixed with platelet‐rich fibrin (PRF) | β‐TCP + PRF | 32.03 | 6.34 | n.s. |  |  |  | 6
+Lee | 2017 | 7 | Bovine xenograft | Bovine | 26.15 | 7.11 | n.s. | Total sample | 2.06+−0.43 mm | Not reported | 6
+8 | Porcine xenograft | Porcine | 29.77 | 9.38 |  |  | 1.90+−0.80 mm |  | 6
+Meimandi | 2017 | 10 | Nanocrystalline hydroxyapatite in a silica gel mixed with plasma rich in growth factors (PRGF) | HA + silica gel + PRGF | 30.29 | 8.45 | 0.85 | Total sample | 2–4 mm | Not reported | 6
+10 | Nanocrystalline hydroxyapatite in a silica gel | HA + silica gel | 30.84 | 6.76 |  |  |  |  | 6
+Meymandi | 2017 | 9 | Nanocrystalline hydroxyapatite in a silica gel | HA + silica gel | 25.29 | 7.29 | 0.0001 | Total sample | Not reported | Not reported | 6
+9 | Biphasic calcium phosphate (HA/β‐TCP = 60/40) | BCP | 18.69 | 5.63 |  |  |  |  | 6
+Nery | 2017 | 10 | Biphasic calcium phosphate (HA/β‐TCP = 60/40) | BCP | 43.4 | 6.1 | 0.94 | Apical 6mm | 3–5 mm | Not reported | 6
+10 | Biphasic calcium phosphate (HA/β‐TCP = 60/40) mixed with enamel matrix proteins (EMD) | BCP + EMD | 43 | 9 |  |  |  |  | 6
+Pereira | 2017 | 11 | Beta‐tricalcium phosphate (β‐TCP) | β‐TCP | 44.8 | 22.1 | 0.03 | Apical 1/3 of the sample | Less than 5 mm | Not reported | 6
+ | 9 | Beta‐tricalcium phosphate (β‐TCP) mixed with autologous bone (1:1) | β‐TCP + AB (1:1) | 32.8 | 16 | n.s |  |  |  | 6
+ | 12 | Autologous bone | AB | 46.1 | 16.3 | n.s |  |  |  | 6
+Pereira | 2017 | 10 | Bioactive glass ceramic | Bioglass | 45.6 | 13.5 | n.s. | Apical 1/3 of the sample | Less than 5 mm | Not reported | 6
+10 | Bioactive glass ceramic mixed with autologous bone (1:1) | Bioglass + AB 1:1 | 45.8 | 13.9 | n.s. |  |  |  | 6
+10 | Autologous bone | AB | 39.9 | 15.8 | n.s. |  |  |  | 6
+Stacchi | 2017 | 26 | Sintered nanocrystalline hydroxyapatite (HA) | HA (nano) | 34.9 | 15 | 0.428 | Total sample | 2.03+−0.75 mm | Not reported | 6
+26 | Bovine xenograft | Bovine | 38.5 | 17 |  |  |  |  | 6
+de Oliveira | 2016 | 7 | Bovine xenograft | Bovine | 27.3 | 5.55 | n.s. | Augmented area above the residual ridge | 2.2+−1.2 mm | Not reported | 6
+7 | Bovine xenograft mixed with bone marrow concentrate (BMC) | Bovine + BMC | 38.44 | 12.34 |  |  |  |  | 6
+Pasquali, | 2015 | 8 | Bovine xenograft | Bovine | 27.3 | 5.55 | 0.002 | Augmented area above the residual ridge | less than 4 mm | Not reported | 6
+8 | Bovine xenograft mixed with bone marrow concentrate (BMC) | Bovine + BMC | 55.15 | 20.91 |  |  |  |  | 6
+Wildburger | 2014 | 6 | Bovine xenograft mixed with bone marrow concentrate (BMC) | Bovine + BMC | 13.5 | 5.4 | n.s. | Augmented area above the residual ridge | Less than 3 mm | Not reported | 6
+7 | Bovine xenograft | Bovine | 13.9 | 8.5 |  |  |  |  | 6
+Khairy | 2013 | 5 | Autologous bone | AB | 39.5 | 7.4 | 0.003 | Not reported | Less than 5 mm | Not reported | 6
+5 | Autologous bone mixed with platelet‐rich plasma (PRP) | AB + PRP | 28 | 4.1 |  |  |  |  | 6
+Payer | 2013 | 5 | Bovine xenograft | Bovine | 10.41 | 5.25 | n.s. | Augmented area above the residual ridge | Less than 3 mm | Not reported | 6
+6 | Bovine xenograft mixed with bone marrow aspirates (BMA) | Bovine + BMA | 14.17 | 3.59 |  |  |  |  | 6
+Kurkcu | 2012 | 10 | Bovine xenograft | Bovine | 30.13 | 3.45 | 0.001 | Augmented area above the residual ridge | Less than 5 mm | Not reported | 6.38
+13 | Beta‐tricalcium phosphate (β‐TCP) | ß‐TCP | 21.09 | 2.86 |  |  |  |  | 6.6
+Wagner | 2012 | 29 | Biphasic calcium phosphate (HA/β‐TCP = 60/40) mixed with fibrin sealant (FS) | BCP + FS | 20 | 7.70 | n.s. | Augmented area above the residual ridge | 2–5 mm | Not reported | 6 ± 1
+29 | Autologous bone graft mixed with bovine xenograft | Bovine + AB 1:1 | 24.5 | 7.1 |  |  |  |  | 6 ± 1
+Zhang | 2012 | 6 | Bovine xenograft mixed with platelet‐rich fibrin (PRF) | Bovine + PRF | 18.35 | 5.62 | 0.138 | Augmented area above the residual ridge | Less than 5 mm | Not reported | 6
+5 | Bovine xenograft | Bovine | 12.95 | 5.33 |  |  |  |  | 6
+Galindo‐Moreno | 2011 | 14 | Bovine xenograft mixed with autologous bone (50/50) | Bovine + AB 1:1 | 36 | 9.44 | 0.114 | Total sample | Less than 5 mm | Not reported | 6
+14 | Bovine xenograft mixed with autologous bone (80/20) | Bovine + AB 4:1 | 37.38 | 17.46 |  |  |  |  | 6
+Bettega | 2009 | 12 | Autologous bone | AB | 42.5 | 28.25–51.15% | 0.625 | Not reported | 3.0 (1.75–6.0) mm | Not reported | 6
+12 | Autologous bone mixed with autologous platelet concentrate (APC) | AB + APC | 37.1 | 31.15–48.7% |  |  | 3.0 (1.75–4.0) mm |  | 6
+Lindgren | 2009 | 11 | Biphasic calcium phosphate (HA/β‐TCP = 60/40) + 1 micro‐implant 2x10mm | BCP | 41.1 | 9.8 | n.s. | Augmented area above the residual ridge | Less than 5 mm | Not reported | 8
+11 | Bovine xenograft + 1 micro‐implant 2x10mm | Bovine | 41.6 | 14 |  |  |  |  | 8
+Felice | 2009 | 10 | Rigid biodegradable copolymer membrane (L‐lactic, D‐Lactic, and glycolic acid) | Biodegradable copolymer | 24.2 | 6.5 | 0.002 | Total sample | 1–5 mm | Not reported | 6
+10 | Bovine xenograft | Bovine | 36.1 | 4.6 |  |  |  |  | 6
+Torres | 2009 | 5 | Bovine xenograft mixed with platelet‐rich plasma (PRP) | Bovine + PRP | 31 | 5 | <0.05 | Total sample | 1–3 mm | Not reported | 6
+5 | Bovine xenograft | Bovine | 21.3 | 4.5 |  |  |  |  | 6
+Cordaro | 2008 | 14 | Biphasic calcium phosphate (HA/β‐TCP = 60/40) | BCP | 21.6 | 10 | 0.53 | Augmented area above the residual ridge | 5.1 +−1.1 mm | Not reported | 6.73
+18 | Bovine xenograft | Bovine | 19.8 | 7.9 |  |  | 4.9 +‐ 0.8 mm |  | 6.8
+Galindo‐Moreno | 2008 | 5 | Bovine xenograft with autologous bone (1:1) | Bovine + AB 1:1 | 31.02 | 7.33 | 0.68 | Central portion of the sample | Less than 5 mm | Not reported | 6
+5 | Bioactive glass ceramic mixed with autologous bone (1:1) | Bioglass + AB 1:1 | 33.08 | 8.18 |  | (alveolar crest + apical 1.5 mm excluded) |  |  | 6
+Szabó | 2005 | 20 | Beta‐tricalcium phosphate (β‐TCP) | β‐TCP | 36.47 | 6.9 | 0.25 | Augmented area above the residual ridge | Less than 5 mm | Not reported | 6
+20 | Autologous bone | AB | 38.34 | 7.4 |  |  |  |  | 6
+Zerbo | 2004 | 5 | Autologous bone | AB | 41 | 10 | 0.009 | Augmented area above the residual ridge | 4–8 mm | Not reported | 6
+5 | Beta‐tricalcium phosphate (β‐TCP) | β‐TCP | 19 | 5 |  |  |  |  | 6
+Wiltfang | 2003 | 17 | Beta‐tricalcium phosphate (β‐TCP) mixed with platelet‐rich plasma (PRP) | β‐TCP + PRP | 38 | 32%–43% | <0.05 | 4 mm apical section of the sample | 2–7 mm | Not reported | 6
+18 | Beta‐tricalcium phosphate (β‐TCP) | β‐TCP | 29 | 25%–37% |  |  |  |  | 6
+
+### Risk of bias within the studies included
+
+The overall assessment for risk of bias showed low risk in 5 studies, unclear risk in 20 studies, and high risk in 9 studies.
+
+More details are shown in Figure 2 and Appendix S3.
+
+[FIGURE] Risk of bias graph reviews the authors' overall judgements about each risk of bias item as a percent of the total number of studies
+
+### Summary of the network (5–8 months)
+
+The total sample consisted of 842 MSAs from 34 RCTs (Batas et al., 2019; Bettega et al., 2009; Cordaro et al., 2008; Felice et al., 2009; Flichy‐Fernández et al., 2019; Galindo‐Moreno et al., 2008, 2011; Jelusic et al., 2017; Khairy et al., 2013; Kılıç et al., 2017; Kurkcu et al., 2012; Lee et al., 2017; Lindgren et al., 2009; Kivovics et al., 2018; Meimandi et al., 2017; Menezes et al., 2018; Meymandi et al., 2017; Nery et al., 2017; Nizam et al., 2018; Oh et al., 2019; de Oliveira et al., 2016; Pasquali et al., 2015; Payer et al., 2014; Pereira, Gorla, et al., 2017; Pereira, Menezes, et al., 2017; Stacchi et al., 2017; Szabó et al., 2005; Theodoro et al., 2018; Torres et al., 2009; Wagner et al., 2012; Wildburger et al., 2014; Wiltfang et al., 2003; Zerbo et al., 2004; Zhang et al., 2012).
+
+There was one triple‐arm RCT (de Oliveira et al., 2016) that investigated bone marrow concentrates (BMC) with different centrifugation protocols. Based on our subgroup formation, both interventions were pooled in the bovine xenograft + bone marrow concentrate (bovine + BMC) subgroup. Meta‐analyses cannot handle experiments comparing the same material. Therefore, the study arm containing BMC with a double centrifugation protocol was excluded from the analysis. In the present NMA, the bovine + BMC subgroup contains the results of three clinical trials using single centrifugation protocols to produce the bone marrow concentrate (de Oliveira et al., 2016; Pasquali et al., 2015; Wildburger et al., 2014).
+
+The connections between biomaterial subgroups are presented as a spider web‐like graph in Figure 
+
+3
+, and the biomaterials of the network are summarized in Table 3.
+
+[FIGURE] On the spider web‐like graph, the network of biomaterial subgroups for 5–8 months of healing is presented. Blue nodes represent the interventions. The size of the node is proportional to the number of studies included. Black lines represent the direct comparisons in randomized trials, and the line thickness is directly proportional to the number of comparisons. Abbreviations: autologous bone (AB), allograft (Allo), bovine xenograft (Bovine), porcine xenograft (Porcine), biphasic calcium phosphate (BCP), beta‐tricalcium‐phosphate (ß‐TCP), bioactive glass ceramic (Bioglass), nanocrystalline hydroxyapatite (nanoHA), rigid biodegradable (L‐lactic, D‐Lactic and glycolic acid)copolymer membrane (Biodegradable copolymer), bovine xenograft + autologous bone 1:1 (Bovine + AB 1:1), bovine xenograft + autologous bone 1:1 composite graft followed by laser stimulation (Bovine + AB 1:1 + laser stimulation), bovine xenograft + autologous bone 4:1 (Bovine + AB 4:1), bovine xenograft + platelet‐rich fibrin (Bovine + PRF), bovine xenograft + platelet‐rich plasma (Bovine + PRP), bovine xenograft + bone marrow aspirates (Bovine + BMA), bovine xenograft + bone marrow concentrate (Bovine + BMC), bioactive glass ceramic + autologous bone 1:1 (Bioglass + AB 1:1), beta‐tricalcium‐phosphate + autologous bone 1:1 (ß‐TCP + AB 1:1), beta‐tricalcium‐phosphate + platelet‐rich plasma (ß‐TCP + PRP), beta‐tricalcium‐phosphate + platelet‐rich fibrin (ß‐TCP + PRF), autologous bone + platelet‐rich plasma (AB + PRP), autologous bone + autologous platelet concentrate (AB + APC), biphasic calcium phosphate + fibrin sealant (BCP + FS), poly(lactic‐co‐glycolic acid)‐based polymer (PLGA)‐coated biphasic calcium phosphate (BCP + PLGA), biphasic calcium phosphate + enamel matrix proteins (EMD) (BCP + EMD), nanocrystalline hydroxyapatite in silica gel + plasma rich in growth factors (HA + silica gel + PRGF)
+
+[TABLE] The grafting materials of the network are presented in the data extraction sheet: grafting materials used for maxillary sinus augmentation (MSA) regarding to the applied subgroup category, number of trials, the number that used the grafting material for MSA, and the number of MSA (sample size)
+autologous bone (AB)
+(Bettega et al., 2009; Khairy et al., 2013; Menezes et al., 2018; Pereira, Gorla, et al., 2017; Pereira, Gorla, et al., 2017; Szabó et al., 2005; Zerbo et al., 2004) | 7 | 76
+allograft (Allo)
+(Kivovics et al., 2018) | 1 | 12
+bovine xenograft (Bovine)
+(Batas et al., 2019; Cordaro et al., 2008; Felice et al., 2009; Kurkcu et al., 2012; Lee et al., 2017; Lindgren et al., 2009; Kivovics et al., 2018; Nizam et al., 2018; Oh et al., 2019; de Oliveira et al., 2016; Pasquali et al., 2015; Payer et al., 2014; Stacchi et al., 2017; Torres et al., 2009; Wildburger et al., 2014; Zhang et al., 2012) | 16 | 174
+porcine xenograft (Porcine)
+(Lee et al., 2017) | 1 | 8
+biphasic calcium phosphate (BCP)
+(Cordaro et al., 2008; Flichy‐Fernández et al., 2019; Jelusic et al., 2017; Lindgren et al., 2009; Meymandi et al., 2017; Nery et al., 2017; Oh et al., 2019) | 7 | 121
+beta‐tricalcium‐phosphate (ß‐TCP)
+(Jelusic et al., 2017; Kılıç et al., 2017; Kurkcu et al., 2012; R. S. Pereira, Gorla, et al., 2017; Szabó et al., 2005; Wiltfang et al., 2003; Zerbo et al., 2004) | 7 | 106
+bioactive glass ceramic (Bioglass)
+(Pereira, Gorla, et al., 2017) | 1 | 10
+nanocrystalline hydroxyapatite (nano HA)
+(Stacchi et al., 2017) | 1 | 26
+nanocrystalline hydroxyapatite in silica gel (HA + silica gel)
+(Meimandi et al., 2017; Meymandi et al., 2017) | 2 | 19
+biodegradable copolymer (L‐lactic, D‐Lactic, and glycolic acid)
+(Felice et al., 2009) | 1 | 10
+bovine xenograft + autologous bone 1:1 (Bovine + AB 1:1) composite graft
+(Galindo‐Moreno et al., 2008, 2011; Theodoro et al., 2018; Wagner et al., 2012) | 4 | 54
+bovine xenograft + autologous bone 1:1 composite graft followed by laser stimulation (Bovine + AB 1:1 + laser stimulation)
+(Theodoro et al., 2018) | 1 | 6
+bovine xenograft + autologous bone 4:1 (Bovine + AB 4:1) composite graft
+(Galindo‐Moreno et al., 2011) | 1 | 14
+bovine xenograft + platelet‐rich fibrin (Bovine + PRF) composite graft
+(Nizam et al., 2018; Zhang et al., 2012) | 2 | 19
+bovine xenograft + platelet‐rich plasma (Bovine + PRP) composite graft
+(Torres et al., 2009) | 1 | 5
+bovine xenograft + plasma rich in growth factors (Bovine + PRGF) composite graft
+(Batas et al., 2019) | 1 | 6
+bovine xenograft + bone marrow aspirates (Bovine + BMA) composite graft
+(Payer et al., 2014) | 1 | 6
+bovine xenograft + bone marrow concentrate (Bovine + BMC) composite graft
+(de Oliveira et al., 2016; Pasquali et al., 2015; Wildburger et al., 2014) | 3 | 21
+bioactive glass ceramic + autologous bone 1:1 (Bioglass + AB 1:1) composite graft
+(Galindo‐Moreno et al., 2008; Menezes et al., 2018; Pereira, Gorla, et al., 2017) | 3 | 24
+beta‐tricalcium‐phosphate + autologous bone 1:1 (ß‐TCP + AB 1:1) composite graft
+(Pereira, Gorla, et al., 2017) | 1 | 9
+beta‐tricalcium‐phosphate + platelet‐rich plasma (ß‐TCP + PRP) composite graft
+(Kılıç et al., 2017; Wiltfang et al., 2003) | 2 | 26
+beta‐tricalcium‐phosphate + platelet‐rich fibrin (ß‐TCP + PRF) composite graft
+(Kılıç et al., 2017) | 1 | 8
+autologous bone + platelet‐rich plasma (AB + PRP) composite graft
+(Khairy et al., 2013) | 1 | 5
+autologous bone + autologous platelet concentrate (AB + APC) composite graft
+(Bettega et al., 2009) | 1 | 12
+biphasic calcium phosphate + fibrin sealant (BCP + FS) composite graft
+(Wagner et al., 2012) | 1 | 29
+poly(lactic‐co‐glycolic acid)‐based polymer (PLGA) coated biphasic calcium phosphate (BCP + PLGA) composite graft
+(Flichy‐Fernández et al., 2019) | 1 | 16
+biphasic calcium phosphate + enamel matrix proteins (EMD) (BCP + EMD) composite graft
+(Nery et al., 2017) | 1 | 10
+nanocrystalline hydroxyapatite in silica gel + plasma rich in growth factors (HA + silica gel + PRGF) composite graft
+Meimandi et al., 2017) | 1 | 10
+
+### Results of NMA
+
+Significant differences were detected between the bovine + BMC composite graft and the biodegradable copolymer and between the bovine + BMC composite graft and the allograft, with the composite graft being favored in both comparisons. The other 376 comparisons did not show significant differences between the applied biomaterials. Based on these findings, the hypothesis that AB alone is the most favorable material for MSA was rejected. The results of all comparisons are presented in Table 4.
+
+[TABLE] In the league table comparisons between biomaterials were highlighted with green if the sample size of both comparators reached the optimal information size (OIS) (n > 11). The coloring was changed to yellow if at least one of the comparators did not reach the OIS (n < 11). The values in each cell represent the relative treatment effect (and 95% credible intervals) of the treatment on the top versus the treatment on the left. Statistical significance was marked by an asterisk. If direct comparisons between grafting materials were available from trials, then the results were marked by a dagger sign. Abbreviations: maxillary sinus augmentation (MSA), autologous bone (AB), allograft (Allo), bovine xenograft (Bovine), porcine xenograft (Porcine), biphasic calcium phosphate (BCP), beta‐tricalcium‐phosphate (ß‐TCP), bioactive glass ceramic (Bioglass), nanocrystalline hydroxyapatite (nanoHA), rigid biodegradable (L‐lactic, D‐lactic and glycolic acid)copolymer membrane (Biodegradable copolymer), bovine xenograft + autologous bone 1:1 (Bovine + AB 1:1), bovine xenograft + autologous bone 1:1 composite graft followed by laser stimulation (Bovine + AB 1:1 + laser stimulation), bovine xenograft + autologous bone 4:1 (Bovine + AB 4:1), bovine xenograft + platelet‐rich fibrin (Bovine + PRF), bovine xenograft + platelet‐rich plasma (Bovine + PRP), bovine xenograft + bone marrow aspirates (Bovine + BMA), bovine xenograft + bone marrow concentrate (Bovine + BMC), bioactive glass ceramic + autologous bone 1:1 (Bioglass + AB 1:1), beta‐tricalcium‐phosphate + autologous bone 1:1 (ß‐TCP + AB 1:1), beta‐tricalcium‐phosphate + platelet‐rich plasma (ß‐TCP + PRP), beta‐tricalcium‐phosphate + platelet‐rich fibrin (ß‐TCP + PRF), autologous bone + platelet‐rich plasma (AB + PRP), autologous bone + autologous platelet concentrate (AB + APC), biphasic calcium phosphate + fibrin sealant (BCP + FS), poly(lactic‐co‐glycolic acid)‐based polymer (PLGA)‐coated biphasic calcium phosphate (BCP + PLGA), biphasic calcium phosphate + enamel matrix proteins (EMD) (BCP + EMD), nanocrystalline hydroxyapatite in silica gel + plasma rich in growth factors (HA + silica gel + PRGF)
+
+The ranking probabilities for all of the biomaterials were estimated at each possible rank associated with any material. Then, their hierarchy was calculated using the SUCRA curve, as well as the mean ranks. According to the SUCRA ranking, the most effective biomaterials for the outcome NB% over a healing period of 5 to 8 months after MSA were bovine + BMC (81%), followed by bovine + platelet‐rich plasma (PRP) (77%), bioactive glass ceramic + AB 1:1 (70%), nanocrystalline hydroxyapatite in silica gel (70%), and bioactive glass ceramic (70%). AB alone as grafting material took the twelfth position (57%). More details are shown in Figure 4 and Appendix S4.
+
+[FIGURE] Surface under the cumulative ranking curves shows the ranking of interventions according to efficacy. The highest bar achieves the best rank. Abbreviations: autologous bone (AB), allograft (Allo), bovine xenograft (Bovine), porcine xenograft (Porcine), biphasic calcium phosphate (BCP), beta‐tricalcium‐phosphate (ß‐TCP), bioactive glass ceramic (Bioglass), nanocrystalline hydroxyapatite (nanoHA), rigid biodegradable (L‐lactic, D‐lactic and glycolic acid)copolymer membrane (Biodegradable copolymer), bovine xenograft + autologous bone 1:1 (Bovine + AB 1:1), bovine xenograft + autologous bone 1:1 composite graft followed by laser stimulation (Bovine + AB 1:1 + laser stimulation), bovine xenograft + autologous bone 4:1 (Bovine + AB 4:1), bovine xenograft + platelet‐rich fibrin (Bovine + PRF), bovine xenograft + platelet‐rich plasma (Bovine + PRP), bovine xenograft + bone marrow aspirates (Bovine + BMA), bovine xenograft + bone marrow concentrate (Bovine + BMC), bioactive glass ceramic + autologous bone 1:1 (Bioglass + AB 1:1), beta‐tricalcium‐phosphate + autologous bone 1:1 (ß‐TCP + AB 1:1), beta‐tricalcium‐phosphate + platelet‐rich plasma (ß‐TCP + PRP), beta‐tricalcium‐phosphate + platelet‐rich fibrin (ß‐TCP + PRF), autologous bone + platelet‐rich plasma (AB + PRP), autologous bone + autologous platelet concentrate (AB + APC), biphasic calcium phosphate + fibrin sealant (BCP + FS), poly(lactic‐co‐glycolic acid)‐based polymer (PLGA)‐coated biphasic calcium phosphate (BCP + PLGA), biphasic calcium phosphate + enamel matrix proteins (EMD) (BCP + EMD), nanocrystalline hydroxyapatite in silica gel + plasma rich in growth factors (HA + silica gel + PRGF)
+
+## DISCUSSION
+
+The present Bayesian NMA synthesizes the findings for the performance of different biomaterials in a two‐stage MSA based on their NB formation capabilities and compare them to AB. This advanced statistical model is suitable for making probability statements even for comparisons that were not directly investigated in a head‐to‐head trial. The results of this quantitative synthesis are based on a dataset of 34 RCTs that used healing periods of 5–8 months, and 28 biomaterial subgroups have been compared in this study. The analyses showed significant differences in two comparisons—(a) between bovine + BMC composite graft and biodegradable copolymer and (b) between bovine + BMC composite graft and allograft—but there were no significant differences in the other 376 comparisons. In the two comparisons with significant differences, the composite graft was superior. The better performance with AB alone as grafting material compared to other biomaterials with respect to NB% hypothesis was not confirmed if a healing period of 5–8 months was applied before dental implant placement. For the other two predefined healing periods (graft healing time less than 5 months and more than 8 months), a quantitative synthesis could not be performed for the following reasons: (a) the low number of available RCTs and (b) the low or no connection rate between these studies with the applied subgroup categories for biomaterials.
+
+In a previous systematic review (Danesh‐Sani et al., 2017), the histomorphometric findings of 136 comparative and non‐comparative prospective clinical trials using crestal or lateral bone core biopsy harvesting and immediate or delayed dental implant placement protocols were pooled together and the following conclusions were made: (a) The use of AB is associated with the highest amount of NB and the lowest amount of RG compared to other biomaterials. (b) The use of biomaterials (allografts, alloplasts, xenografts) resulted in non‐significant differences in the amount of NB over various healing periods. (c) The healing periods have a significant effect on the NB formation, and a lower amount of NB is expected if the graft healing time was less than 4.5 months. (d) The combination of AB with alloplasts and xenografts shows no significant advantages over the same biomaterial with respect to NB formation. The same conclusions for the superiority of AB and the non‐significant differences between biomaterials with respect to the amount of NB were obtained in another study that included five RCTs (Starch‐Jensen et al., 2018). However, due to the different primary outcome measurement (survival rate of dental implant suprastructure), the included studies showed heterogeneity in the bone core biopsy harvesting methods (crestal and lateral method). In another narrative review, the results of 18 articles were synthesized (Stumbras et al., 2019), and slightly different conclusions were obtained: (a) AB has the best regenerative potential, (b) biomaterials combined with AB result in more matured NB and better graft osseointegration, and (c) platelet concentrates used together with biomaterials enhance bone formation and vascularization. Due to the heterogeneity of the included studies, quantitative analysis was not performed, and the differences in bone core biopsy harvesting methods (crestal and lateral method) and the applied healing periods among the studies were not considered. A recently published frequentist NMA (Al‐Moraissi et al., 2020) concluded that AB showed the best performance only when a healing time of less than 6 months was applied, while the majority of biomaterials yielded similar histomorphometric results after a longer healing period. The addition of AB or autologous cell concentrates to any biomaterial may increase the NB capacity. The major differences between these two NMAs are: (a) that Al‐Moraissi et al. applied eleven subgroups and pooled together biomaterials into commonly used categories (alloplast, xenograft, etc), which were separately analyzed in the present NMA, and (b) that they included the results of such RCTs, in which lateral bone core biopsy harvesting methods were applied and were excluded in the present NMA.
+
+The main reason for the different conclusions between systematic reviews could be the differences in the applied inclusion criteria, which yielded a different database for the quantitative synthesis. The present NMA was conducted based exclusively on the histomorphometric results of RCTs in which delayed implant placement and crestal bone core biopsy harvesting protocol was applied. By applying these inclusion criteria, our goal was to reduce potential confounding factors. The other reason for the different conclusions could be the formation of subgroups according to healing periods and biomaterials applied, which always reduces sensitivity and could mask the slight differences between the histomorphometric results. In the present NMA, 28 subgroups were created for the applied biomaterials to represent their heterogeneity, and 3 predefined healing periods were applied. This resulted in small sample sizes in some subgroups, which was one of the limitations of the findings, but may have ensured higher sensitivity in the analysis for discovering the differences between NB formation capacities of biomaterials.
+
+With consideration of the limitations of the present NMA, several biomaterials showed the same potential for NB formation after MSA. The combination of biomaterials with AB or autologous cell concentrates could be a feasible alternative for AB substitution to achieve high NB formation levels with a healing time frame of 5–8 months. From this point of view, the statement that AB alone as grafting material is the gold standard is questionable for this healing period, although there are other aspects of graft choice.
+
+The AB graft has osteoinductive, osteoconductive, and osteogenic capabilities, which make it an ideal choice for guided bone regeneration, especially when shorter healing times are applied. However, AB grafts may show significant differences in osteogenic capacity and resorption rate depending on the donor areas (Klijn et al., 2010). If the goal is to create the same tissue structure as the original one, AB grafting still seems to be the best option, although its resorption rate could be higher than xenografts or alloplasts (Danesh‐Sani et al., 2016; Gerressen et al., 2015). The major disadvantages of using AB are the limited availability and the donor‐site morbidity.
+
+In contrast, consistent quality, extensive availability, and lack of donor‐site morbidity are the advantageous characteristics of allografts, xenografts, and alloplastic biomaterials. These biomaterials offer some other advantages such as implant survival rates or graft volume stability, although the limitations of this study did not allow us to investigate other outcomes. With the slow, and in some cases not complete resorption rate, a higher volume stability can be achieved (Gorla et al., 2015; Schlegel et al., 2016). Systematic reviews of longitudinal trials have reported higher survival rates of dental implants placed in an area previously augmented with a biomaterial (Al‐Nawas & Schiegnitz, 2014; Del Fabbro et al., 2008).
+
+### Limitations of the systematic review
+
+A common limitation encountered while performing systematic reviews is the data pool, which is based on the study‐level instead of the patient‐level data. The following confounding factors of the analyzed trials may influence the histomorphometric results of MSA: (a) the histomorphometric similarities between newly formed bone and residual graft particles of the AB group, (b) the method used for lateral window osteotomy (surgical burs, piezo‐electric tips, bone‐scraper), (c) the use of the lateral bony wall during the intervention (removed, reflected, or replaced), (d) the use of a barrier membrane to cover the osteotomy window or to protect the Schneiderian membrane, and (e) the volume of the preoperative residual ridge and the shape of the maxillary sinus (Avila et al., 2010; Avila‐Ortiz et al., 2012).
+
+Randomized controlled trials and systematic reviews of RCTs generally provide high quality of evidence. According to the GRADE approach, rating down of the quality of evidence should be considered based on five criteria. These elements were used for the judgment of confidence derived from the results.
+
+#### Limitations in study design (risk of bias)
+
+Among the included studies, 5 had a low risk of bias, 20 had an unclear risk of bias, and 9 showed a high risk of bias, as described previously (Appendix S3).
+
+#### Inconsistency of results
+
+Node‐splitting analysis was performed for examination of consistency. There was no statistical difference between the results of direct, indirect, or network (mixed) comparisons (beta‐tricalcium‐phosphate versus biphasic calcium phosphate: p = .48 bovine versus biphasic calcium phosphate: p = .47, bovine versus beta‐tricalcium‐phosphate: p = .49), and the network of the included trials showed a consistent model (Appendix S5).
+
+#### Indirectness of evidence
+
+According to the network geometry, the results of our NMA are based on indirect comparisons between most of the applied grafting materials. More details are shown in the league table (Table 4). The population, the intervention (surgical technique, bone core biopsy harvesting), and the outcome measurements were the same in all included trials. Nevertheless, the patient selection criteria were slightly different in each study. The anatomical conditions of the surgical sites (residual ridge height, sinus widths) might have influenced the histomorphometric results. The incomplete information available on these potentially confounding factors in several studies poses the risk of intransitivity.
+
+#### Imprecision
+
+The optimal information size (OIS) was determined as 11 MSA procedures per group, based on the sample size calculation by Nizam et al. (2018), with an effect size of 1.1, power of 80%, alpha = 0.05, and Δ = 5.5%. Twelve biomaterial subgroups did not reach the OIS. More details are shown in the league table (Table 4).
+
+#### Publication bias
+
+Funnel plots were performed with Egger's test with no evidence for publication bias (p = .138) (Appendix S6).
+
+For various comparisons, the reason for downgrading the evidence was the imprecision (the number of MSAs did not reach the OIS), the indirectness (lack of information regarding potentially confounding factors in several studies), and the study limitations (risk of bias). If for some subgroup, the OIS limit was not reached, the results of these interventions should be interpreted with great caution. The quality of evidence of this NMA ranged from low to very low for all comparisons.
+
+### Strengths of systematic review
+
+The strengths of this study are the potential for quantitative analysis to rank the best available biomaterials for MSA according to their capacity for NB formation. The results are based on a high number of RCTs due to a comprehensive literature search. This systematic review applied the methods of Bayesian NMA, which can handle direct and indirect evidence from RCTs simultaneously. The application of various augmentation techniques (simultaneous implant placement, additional grafting of the ridge), the differences in the sites of bone core biopsy sampling, and the variations in healing time among the MSA studies could be serious factors influencing the histomorphometric outcomes. To overcome these confounding factors, strict inclusion and exclusion criteria were applied. To solve the potential bias from the variations in time for graft healing among trials, predefined subgroup categories according to applied healing periods (early, normal, late) were used. Unlike the main biomaterial categories (xenograft, allograft, alloplast, etc.) used in other systematic reviews (Al‐Moraissi et al., 2020; Danesh‐Sani et al., 2017; Stumbras et al., 2019), pooling of biomaterials by their processing method and the formation of 28 separate groups may be a more sensitive approach to evaluate the histomorphometric performance.
+
+## CONCLUSIONS
+
+### Implications for practice
+
+The results of the present NMA suggest that the use of biomaterials does not result in a statistically significant difference in the rate of NB formation compared to AB alone as grafting material. However, their use can significantly reduce the amount of AB graft required for MSA, resulting in a less invasive surgical intervention and shorter surgical time. The combination of biomaterials with AB or autologous cell concentrates, such as BMC, PRP, and platelet‐rich fibrin, represents a feasible alternative for AB substitution to achieve high NB formation levels with the conventionally used 5‐ to 8‐month healing periods. If one of the attributes of superior bone quality is the higher proportion of newly formed bone, the superiority of AB transplantation to biomaterials for MSA in a healing time frame of 5–8 months cannot be justified. For shorter healing periods, faster remodeling ability of AB may be advantageous.
+
+### Implications for research
+
+Randomized clinical trials designed with OIS and a unified surgical protocol for bone core biopsy harvesting may be needed for verification of indirect evidence. As for the healing period of less than 5 months, the low number of available studies made it impossible to pool a network analysis, which could be a potential area of future research.
+
+## CONFLICT OF INTERESTS
+
+The authors have declared that no conflict of interests exist.
+
+## AUTHOR CONTRIBUTION
+
+Bálint Trimmel: Investigation (equal); Methodology (supporting); Project administration (lead); Writing‐original draft (equal). Noémi Gede: Data curation (equal); Formal analysis (lead); Validation (equal). Péter Hegyi: Investigation (lead); Methodology (equal); Supervision (lead); Writing‐review & editing (equal). Zsolt Szakács: Formal analysis (equal); Methodology (lead); Supervision (supporting); Writing‐review & editing (equal). Gyöngyi Anna Mezey: Data curation (equal); Formal analysis (supporting); Visualization (equal). Eszter Varga: Data curation (equal); Formal analysis (equal).
+
+## Supporting information
