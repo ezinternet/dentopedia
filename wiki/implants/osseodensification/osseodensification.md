@@ -2,7 +2,7 @@
 title: "임플란트·골밀도화 — osseodensification"
 authors: navigation
 year: 2026
-date: 2026-10-19
+date: 2026-10-21
 doi: N/A
 source: navigation
 category: implants/osseodensification
@@ -15,20 +15,20 @@ tags: [navigation, category-index, osseodensification]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·골밀도화
 > - **범위**: Osseodensification (OD) osteotomy — bone-condensing bidirectional burs (Densah/Versah, negative-rake flute design), primary stability & ISQ/insertion-torque vs conventional drilling, low-density bone & alveolar ridge expansion, BIC/histomorphometry (animal & human), OD applied to orthopedic fixation…
-> - **수록 논문**: 46편
+> - **수록 논문**: 48편
 
 ## Three-line Summary
 
 **Scope**: Osseodensification (OD) osteotomy — bone-condensing bidirectional burs (Densah/Versah, negative-rake flute design), primary stability & ISQ/insertion-torque vs conventional drilling, low-density bone & alveolar ridge expansion, BIC/histomorphometry (animal & human), OD applied to orthopedic fixation; brand-specific Versah clinical protocols (sinus lift I/II, IDR, immediate placement).
-**Indexed papers**: 46 papers in `wiki/implants/osseodensification/`.
+**Indexed papers**: 48 papers in `wiki/implants/osseodensification/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·골밀도화
-**수록 논문**: 46편
+**수록 논문**: 48편
 **하위 카테고리**: 없음
 
-## Papers in this Category (46)
+## Papers in this Category (48)
 
 | Paper |
 |---|
@@ -60,6 +60,7 @@ tags: [navigation, category-index, osseodensification]
 | [[mercier-2022-osseodensification-primary-stability-cadavers|OD vs Standard Drilling in Cadaveric Mandibles: Significant IT and Bone Density Increase (Mercier 2022)]] |
 | [[moghaddas-2025-osseodensification-standard-drilling-isq-itv|Comparison of osseodensification and standard drilling methods on implant stability quotient and insertion torque values of implants]] |
 | [[mohammadi-2025-osseodensification-conventional-low-density-bone-sr-ma|Primary and secondary stability in implants placed in low-density bone using conventional vs. osseodensification technique: a systematic review and meta-analysis]] |
+| [[munkwitz-2025-osseodensification-versus-subtractive-drilling-in|Osseodensification Versus Subtractive Drilling in Cortical Bone: An Evaluation of Implant Surface Characteristics and Their Effects on Osseointegration]] |
 | [[nabih-2025-evaluation-of-the-stability-of|Evaluation of the stability of implants placed in low-quality bone following the use of osseodensification technique versus ridge expanders: randomized clinical trial]] |
 | [[neiva-2018-effects-osseodensification-astra-tx-ev|Effects of osseodensification on Astra TX and EV implant systems]] |
 | [[ortiz-2025-osseodensification-implant-dentistry-critical-review|Densifying the Future: A Critical Review of Osseodensification and Implant Dentistry]] |
@@ -78,3 +79,4 @@ tags: [navigation, category-index, osseodensification]
 | [[versah-densah-sinus-lift-ii-protocol-rbh-4-5mm|Osseodensification-Facilitated Crestal Sinus Lift Protocol II (Densah® LIFT II, REV08)]] |
 | [[versah-idr-ii-immediate-dentoalveolar-restoration-protocol|Osseodensification Immediate Dentoalveolar Restoration (IDR) II Technique (REV06)]] |
 | [[versah-immediate-implant-placement-protocol|Osseodensification Immediate Implant Placement Protocol]] |
+| [[wang-2017-effects-of-condensation-on-peri|Effects of Condensation on Peri-implant Bone Density and Remodeling]] |
