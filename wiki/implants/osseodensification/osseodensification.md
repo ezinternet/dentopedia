@@ -15,20 +15,20 @@ tags: [navigation, category-index, osseodensification]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·골밀도화
 > - **범위**: Osseodensification (OD) osteotomy — bone-condensing bidirectional burs (Densah/Versah, negative-rake flute design), primary stability & ISQ/insertion-torque vs conventional drilling, low-density bone & alveolar ridge expansion, BIC/histomorphometry (animal & human), OD applied to orthopedic fixation…
-> - **수록 논문**: 48편
+> - **수록 논문**: 49편
 
 ## Three-line Summary
 
 **Scope**: Osseodensification (OD) osteotomy — bone-condensing bidirectional burs (Densah/Versah, negative-rake flute design), primary stability & ISQ/insertion-torque vs conventional drilling, low-density bone & alveolar ridge expansion, BIC/histomorphometry (animal & human), OD applied to orthopedic fixation; brand-specific Versah clinical protocols (sinus lift I/II, IDR, immediate placement).
-**Indexed papers**: 48 papers in `wiki/implants/osseodensification/`.
+**Indexed papers**: 49 papers in `wiki/implants/osseodensification/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·골밀도화
-**수록 논문**: 48편
+**수록 논문**: 49편
 **하위 카테고리**: 없음
 
-## Papers in this Category (48)
+## Papers in this Category (49)
 
 | Paper |
 |---|
@@ -37,6 +37,7 @@ tags: [navigation, category-index, osseodensification]
 | [[banerjee-2024-osseodensification-versus-conventional-drilling-sr|Comparative Evaluation of Osseodensification Drilling versus Conventional Drilling Technique on Dental Implant Stability: A Systematic Review]] |
 | [[barbera-millan-2021-primary-stability-low-density-osseodensification|Osseodensification vs Conventional Under-Drilling in Low-Density Bone: Higher IT and ISQ (Barberá-Millán 2021)]] |
 | [[bergamo-2021-osseodensification-effect-implants-primary-secondary|Osseodensification effect on implants primary and secondary stability: Multicenter controlled clinical trial]] |
+| [[buchter-2005-biological-and-biomechanical-evaluation-of|Biological and biomechanical evaluation of bone remodelling and implant stability after using an osteotome technique]] |
 | [[de-agostinho-neto-2026-in-vitro-evaluation-different-implant-systems|In vitro evaluation of different implant systems and their influence on primary stability]] |
 | [[de-lima-2026-osseodensification-vs-conventional-drilling-exvivo|Analysis of osseodensification with two drill systems versus conventional technique for dental implants – A paired comparative ex vivo study]] |
 | [[fontes-pereira-2023-osseodensification-osteotomy-alternative-sr|Osseodensification: An Alternative to Conventional Osteotomy in Implant Site Preparation: A Systematic Review]] |
