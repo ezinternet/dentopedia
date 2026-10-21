@@ -15,20 +15,20 @@ tags: [navigation, category-index, loading-protocol]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·부하시기
 > - **범위**: Loading timing for **conventionally placed (healed-site)** implants — immediate vs early vs conventional/delayed loading, placement-and-loading protocol classifications (ITI consensus, Cochrane), single-crown & partial-arch loading SR/MA, methodological quality of loading-time trials.
-> - **수록 논문**: 19편
+> - **수록 논문**: 21편
 
 ## Three-line Summary
 
 **Scope**: Loading timing for **conventionally placed (healed-site)** implants — immediate vs early vs conventional/delayed loading, placement-and-loading protocol classifications (ITI consensus, Cochrane), single-crown & partial-arch loading SR/MA, methodological quality of loading-time trials.
-**Indexed papers**: 19 papers in `wiki/implants/loading-protocol/`.
+**Indexed papers**: 21 papers in `wiki/implants/loading-protocol/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·부하시기
-**수록 논문**: 19편
+**수록 논문**: 21편
 **하위 카테고리**: 없음
 
-## Papers in this Category (19)
+## Papers in this Category (21)
 
 | Paper |
 |---|
@@ -50,4 +50,6 @@ tags: [navigation, category-index, loading-protocol]
 | [[ko-2021-immediate-loading-protocols-increase-risk|Immediate loading protocols increase the risk of failure of implants placed by fully guided surgery in partially edentulous jaws: A randomized clinical trial]] |
 | [[ravindran-2010-flapless-implant-surgery-soft-tissue|The efficacy of flapless implant surgery on soft-tissue profile comparing immediate loading implants to delayed loading implants]] |
 | [[rismanchian-2025-immediate-nonimmediate-loading-umbrella-review|Long-Term Clinical Outcomes of Immediate Loading versus Nonimmediate Loading in Single-Implant Restorations: An Umbrella Review]] |
+| [[rotter-1996-testing-progressive-loading-of-endosteal|Testing progressive loading of endosteal implants with the Periotest: a pilot study]] |
+| [[turner-2014-evaluation-of-the-value-of|Evaluation of the value of bone training (progressive bone loading) by using the Periotest: A clinical study]] |
 | [[zhou-2021-placement-loading-protocols-single-implants-sr|Placement and Loading Protocols for Single Implants in Different Locations: A Systematic Review]] |
