@@ -5120,3 +5120,14 @@ tags: []
 
 ### implants/loading-protocol
 - [[implants/loading-protocol/chrcanovic-2014-immediate-nonfunctional-versus-immediate-functional]] — Chrcanovic 2014 · sr+ma (11편) · 즉시비기능성로딩(INFL) vs 즉시기능성로딩(IFL): 실패율 RR 0.87 (95% CI 0.44–1.75, P=.70)·MBL MD 0.01 mm (P=.74) 모두 무차이 — **즉시로딩 중 교합접촉 제거의 이점 미입증**(7/11편 편향위험 高) (abstract-only) (DOI 10.1016/j.jdent.2014.06.010)
+
+## Batch ingest (added 2026-10-21) — 임플란트주위염 외과치료·유지관리 장기 근거 (루트 PDF 7편 중 5편 신규, 2편 기존중복 스킵)
+
+### implants/peri-implantitis
+- [[implants/peri-implantitis/antonoglou-2025-do-systemic-antibiotics-offer-benefits]] — 외과적 임플란트주위염 전신항생제 보조 SR+MA 7편(환자 595명·임플란트 1,388개): 단기(1–2년) 치료성공 OR 2.33(1.29–4.21)·RBL +0.37 mm·BoP OR 0.49·SoP OR 0.33 유의, 장기(≥3년) 성공 무의미(OR 1.84, p=0.43)이고 이득은 표면처리 임플란트에만(OR 4.10 vs 0.79), GRADE 대부분 낮음·설사 21.2% vs 0%
+- [[implants/peri-implantitis/monje-2025-long-term-surgical-treatment-outcomes]] — 임플란트주위염 외과치료 장기(≥5년) SR 17편·환자 839명·임플란트 1326개: 질환해소 58.6%, 진행성 골소실억제 69.6%, 생존율 88.6%, 재치료 27.2%; 잔여주머니 ≥6mm 재발 OR 7.3–9.2
+- [[implants/peri-implantitis/isler-2025-long-term-treatment-outcomes-peri-implantitis]] — 임플란트주위염 재건수술(이종골+CGF vs 콜라겐막) 7년 추적 RCT: 치료성공률 1년 46–50% → 7년 23.1%(CGF)/30.8%(CM)로 하락, 누적생존율 81.3% vs 88.8%, 심명PPD·결손심도는 CM군 우세(p=0.040/0.043), 기저 탐침화농(SOP)이 유일한 실패 예측인자(OR=15.45)
+- [[implants/peri-implantitis/javiya-2025-peri-implantitis-etiology-prevention-management-strategies]] — PRISMA 2020 체계적문헌고찰(2010.1~2025.3, 4개 DB, 메타분석 없음): 주위염 유병률 10%~40% 초과, 핵심 위험인자는 치주염 과거력·흡연·혈당조절 불량, 유지관리로 발생 유의 감소, 광범위 골소실엔 GBR이 제거술보다 골 충전 우세
+
+### implants/survival
+- [[implants/survival/lee-2026-supportive-periodontal-therapy-improves-implant]] — 서울대·부산대 다기관 회향 코호트(임플란트 3,555개/1,757명): 5년 생존율 98.8%(임플란트 수준)·99.0%(환자 수준); 치주염 관련 치아상실(aHR 3.57)·SPT 비순응(aHR 2.35)·GBR 시행부위(미시행 aHR 0.42)가 독립 위험인자, 치주염 상실 부위에서는 규칙적 SPT가 생존 격차 상쇄(98.8% vs 96.3%, p=0.004)
