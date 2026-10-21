@@ -771,3 +771,7 @@ Logged by subagents at deviation time. `deviation-audit.py` flags types with ≥
 | 2026-10-21 | romanos-2022-macroscopic-evidence-of-surface-changes | abstract-only | no PMC/OA, built from PubMed abstract |
 | 2026-10-21 | buchter-2005-biological-and-biomechanical-evaluation-of | abstract-only | no PMC/OA, built from PubMed abstract |
 | 2026-10-21 | yaylaci-2026-injectable-nanofiber-gel-enhances-osseointegration | abstract-only | no PMC/OA, built from PubMed abstract |
+| 2026-10-21 | appleton-2005-a-radiographic-assessment-of-progressive | abstract-only | No PMC record; built from PubMed abstract (pubmed-text, full_text:false) |
+| 2026-10-21 | ghoveizi-2013-a-radiographic-comparison-of-progressive | no-doi | No DOI in PubMed/PMC record (J Dent Tehran 2013;10(2):155-63; PMID 23724215) |
+| 2026-10-21 | anitua-2024-implant-supported-prosthesis-under-progressive | source-data-issue | Internal inconsistencies: mean torque 68±12 Ncm vs stated range 45-60; 'edentulous maxilla' in a mandible series; canal-roof gain 2.5 mm text vs 3 mm figure legend |
+| 2026-10-21 | kishen-2026-clinical-and-biomechanical-determinants-of | source-data-issue | Progressive-loading section garbled ('furniture production' sentence); methods say both no inclusion criteria and exclusions applied; treated as secondary framing source |
