@@ -15,20 +15,20 @@ tags: [navigation, category-index, ridge-preservation]
 > [!summary] 한국어 핵심요약
 > - **분야**: 골재생·치조제보존
 > - **범위**: Alveolar ridge preservation (ARP) / socket preservation — post-extraction dimensional changes (Araujo/Tan/Schropp), ARP efficacy SR/MA & Cochrane, grafting materials & sealing/socket-seal, flap vs flapless, biologics/PRF, esthetic-zone ARP, ARP→implant outcomes
-> - **수록 논문**: 94편
+> - **수록 논문**: 95편
 
 ## Three-line Summary
 
 **Scope**: Alveolar ridge preservation (ARP) / socket preservation — post-extraction dimensional changes (Araujo/Tan/Schropp), ARP efficacy SR/MA & Cochrane, grafting materials & sealing/socket-seal, flap vs flapless, biologics/PRF, esthetic-zone ARP, ARP→implant outcomes
-**Indexed papers**: 94 papers in `wiki/bone-regeneration/ridge-preservation/`.
+**Indexed papers**: 95 papers in `wiki/bone-regeneration/ridge-preservation/`.
 
 ## 세줄요약
 
 **분야**: 골재생·치조제보존
-**수록 논문**: 94편
+**수록 논문**: 95편
 **하위 카테고리**: 없음
 
-## Papers in this Category (94)
+## Papers in this Category (95)
 
 | Paper |
 |---|
@@ -126,3 +126,4 @@ tags: [navigation, category-index, ridge-preservation]
 | [[yin-2024-biomaterials-therapeutic-strategies-extraction-socket-healing|Biomaterials and therapeutic strategies designed for tooth extraction socket healing.]] |
 | [[yu-2026-bone-particle-size-arp-periodontally-compromised-molars|Impact of Bone Particle Size on Alveolar Ridge Preservation in Periodontally Compromised Molar Extraction Sites]] |
 | [[zhang-2022-ridge-preservation-molar-extraction-periodontitis|Assessment of Soft and Hard Tissue Characteristics of Ridge Preservation at Molar Extraction Sites with Severe Periodontitis: A Randomized Controlled Trial]] |
+| [[zhang-2026-component-network-meta-analysis-scaffold|Component network meta-analysis of scaffold materials, platelet-rich fibrin and barrier membranes for alveolar ridge preservation]] |
