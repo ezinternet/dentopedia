@@ -2,7 +2,7 @@
 title: "임플란트·수직골증대 — vertical-ridge-augmentation"
 authors: navigation
 year: 2026
-date: 2026-08-11
+date: 2026-10-21
 doi: N/A
 source: navigation
 category: implants/vertical-ridge-augmentation
@@ -15,20 +15,20 @@ tags: [navigation, category-index, vertical-ridge-augmentation]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·수직골증대
 > - **범위**: Vertical ridge augmentation, Ti-mesh / PTFE mesh GBR, vertical bone gain, mesh exposure, customized CAD/CAM mesh
-> - **수록 논문**: 24편
+> - **수록 논문**: 25편
 
 ## Three-line Summary
 
 **Scope**: Vertical ridge augmentation, Ti-mesh / PTFE mesh GBR, vertical bone gain, mesh exposure, customized CAD/CAM mesh
-**Indexed papers**: 24 papers in `wiki/implants/vertical-ridge-augmentation/`.
+**Indexed papers**: 25 papers in `wiki/implants/vertical-ridge-augmentation/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·수직골증대
-**수록 논문**: 24편
+**수록 논문**: 25편
 **하위 카테고리**: 없음
 
-## Papers in this Category (24)
+## Papers in this Category (25)
 
 | Paper |
 |---|
@@ -50,6 +50,7 @@ tags: [navigation, category-index, vertical-ridge-augmentation]
 | [[ng-2025-clinical-outcomes-titanium-mesh|Clinical Outcomes of Titanium Mesh for Alveolar Bone Augmentation: An Umbrella Review]] |
 | [[ragucci-2025-customized-titanium-mesh-vertical-ridge-augmentation-sr-ma|Comparison between CAD/CAM titanium mesh vs. conventional titanium mesh in bone regeneration: a systematic review and meta-analysis]] |
 | [[sabri-2024-titanium-mesh-bone-augmentation-sr-ma|Bone augmentation using titanium mesh: A systematic review and meta-analysis]] |
+| [[saleh-2026-efficacy-engineered-scaffolds-horizontal-vertical|Efficacy of engineered scaffolds for horizontal and vertical ridge augmentation: A systematic review and meta-analysis]] |
 | [[soares-2025-3d-printed-titanium-mesh-volumetric-cbct|Customized three-dimensional-printed titanium mesh for alveolar bone augmentation: Retrospective consecutive case series]] |
 | [[tay-2022-healing-complications-vertical-gbr-sr-ma|Healing complications and their detrimental effects on bone gain in vertical-guided bone regeneration: A systematic review and meta-analysis]] |
 | [[urban-2025-collagen-membrane-vertical-ridge-ptfe-mesh-rct|Impact of Collagen Membrane in Vertical Ridge Augmentation Using Ti-Reinforced PTFE Mesh: A Randomised Controlled Trial]] |
