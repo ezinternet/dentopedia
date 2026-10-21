@@ -5147,3 +5147,20 @@ tags: []
 
 ### bone-regeneration
 - [[bone-regeneration/zuercher-2026-block-versus-particulate-deproteinized-bovine]] — 치조골 열개 결손 동시 GBR 5년 RCT(22명): DBBM 블록 vs 입자형, 협측 경조직 두께 1.36 vs 0.07 mm(보정차 −1.2 mm, p<0.001), 임플란트 상실·주위염 없음
+
+## Batch ingest (added 2026-10-21) — 루트 PDF 2차 일괄 인제스트 (6편 중 5편 신규, 1편 기존중복 스킵)
+
+> 아래 5편은 2026-10-21 오후 루트에 추가된 PDF 일괄 처리분입니다. `nunes-2025-final-prosthetic-abutment-insertion-time-oaot`은 기존 등재분과 동일 논문(PMID 40198089)으로 신규 페이지를 만들지 않았습니다 — 대신 해당 기존 페이지의 임플란트 수(699개)·DOI/저자 메타데이터 불일치를 parent가 별도 검증·수정 대상으로 플래그했습니다.
+
+### implants/soft-tissue
+- [[implants/soft-tissue/tommasato-2024-autogenous-graft-versus-collagen-matrices]] — 임플란트 연조직 증대 자가이식(CTG·FGG) vs 콜라겐 매트릭스(ADM·xCM·VCMX) NMA(16편 RCT/CCT, N=573): 두께는 180·360일 모두 CTG 최상, 각화점막폭은 90일까지 FGG·180일 후 전정성형술+FGG 최상, ADM·VCMX는 이환율 낮은 두께 대안
+
+### implants/survival
+- [[implants/survival/papaspyridakos-2012-success-criteria-in-implant-dentistry]] — 임플란트 성공기준 SR(거친표면·≥5년 추적): 임플란트 수준은 동요도·통증·방사선 투과상·골소실>1.5mm, 연조직은 화농·출혈, 보철은 기술적 합병증·기능·심미, 환자만족은 불편감·외모·저작으로 성공을 4수준에서 정의, 복합체 전체 장기결과로 평가 권고
+- [[implants/survival/serroni-2024-history-of-periodontitis-as]] — 전향 코호트 12편·4,425개 임플란트 SR+MA+TSA: 치주염 기왕력군 임플란트 실패 RR 1.74 (95% CI 1.25–2.44) — >5년 2.26·10년 2.61로 증가, 치주위임플란트염 RR 4.09 (1.93–8.58; 10년 8.58배), MBL +0.75 mm (PIPD는 무차이); GRADE LOW~VERY LOW·TSA상 실패만 확정 (RIS 688 초과), 치주위임플란트염 등은 RIS 미달로 미확정
+
+### bone-regeneration/ridge-preservation
+- [[bone-regeneration/ridge-preservation/jung-2013-radiographic-evaluation-different-techniques-ridge]] — Jung 2013 · rct (4군, n=40) · DBBM-C(CM/PG 피개)가 자연치유·코팅 β-TCP 대비 치조제 수축 현저히 감소(crest 1mm 하방 폭 −1.2/−1.4mm vs −3.3/−6.1mm); CM≈PG(p>0.05)
+
+### drug/antibiotics
+- [[drug/antibiotics/edibam-2023-self-reported-allergy-penicillin-clindamycin]] — 자가보고 페니실린 알레르기→클린다마이신 대체가 임플란트 실패를 3.3배 높임을 최초 메타분석으로 정량화(후향 코호트 4편·10,853개; OR 3.30, 95% CI 2.58–4.22, p<.00001; 누적 실패율 11.0% vs 3.8%) + 위험군별 페니실린 알레르기 라벨 해제(Delabeling) 프로토콜 제안
