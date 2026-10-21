@@ -1,0 +1,13 @@
+TITLE: Multiscale Analyses of the Bone-implant Interface
+AUTHORS: Cha J.Y., Pereira M.D., Smith A.A., Houschyar K.S., Yin X., Mouraret S., Brunski J.B., Helms J.A.
+JOURNAL: Journal of Dental Research
+ID[pmcid]: PMC4814020
+ID[pmcid-ver]: PMC4814020.1
+ID[pmcaid]: 4814020
+ID[pmcaiid]: 4814020
+ID[pmid]: 25628271
+ID[doi]: 10.1177/0022034514566029
+ID[publisher-id]: 10.1177_0022034514566029
+
+## ABSTRACT
+Implants placed with high insertion torque (IT) typically exhibit primary stability, which enables early loading. Whether high IT has a negative impact on peri-implant bone health, however, remains to be determined. The purpose of this study was to ascertain how peri-implant bone responds to strains and stresses created when implants are placed with low and high IT. Titanium micro-implants were inserted into murine femurs with low and high IT using torque values that were scaled to approximate those used to place clinically sized implants. Torque created in peri-implant tissues a distribution and magnitude of strains, which were calculated through finite element modeling. Stiffness tests quantified primary and secondary implant stability. At multiple time points, molecular, cellular, and histomorphometric analyses were performed to quantitatively determine the effect of high and low strains on apoptosis, mineralization, resorption, and collagen matrix deposition in peri-implant bone. Preparation of an osteotomy results in a narrow zone of dead and dying osteocytes in peri-implant bone that is not significantly enlarged in response to implants placed with low IT. Placing implants with high IT more than doubles this zone of dead and dying osteocytes. As a result, peri-implant bone develops micro-fractures, bone resorption is increased, and bone formation is decreased. Using high IT to place an implant creates high interfacial stress and strain that are associated with damage to peri-implant bone and therefore should be avoided to best preserve the viability of this tissue.
