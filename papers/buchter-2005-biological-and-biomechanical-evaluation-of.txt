@@ -1,0 +1,10 @@
+TITLE: Biological and biomechanical evaluation of bone remodelling and implant stability after using an osteotome technique
+AUTHORS: Buchter A., Kleinheinz J., Wiesmann H.P., Kersken J., Nienkemper M., von Weyhrother H., Joos U., Meyer U.
+JOURNAL: Clinical Oral Implants Research
+ID[pmid]: 15642025
+ID[doi]: 10.1111/j.1600-0501.2004.01081.x
+CITATION: 2005 Feb;16(1):1-8
+MESH: Animals; Biomechanical Phenomena; Bone Remodeling; Dental Implants; Dental Restoration Failure; Dental Stress Analysis; Fractures, Bone; Implants, Experimental; Osseointegration; Osteotomy; Swine; Swine, Miniature; Tibia
+
+## ABSTRACT
+The influence of the osteotome technique on the osseointegration and biomechanical behaviour of cylinder implants (SLA, ITI) was compared with conventional preparation of the implant site in an animal model. A total of 56 implants were placed in the cranial and caudal tibia condyle of six Gottinger minipigs. The implant site was prepared either by the conventional technique with drills (control group A) or by the osteotome technique (experimental group B). Resonance frequency measurements (RFMs) were made on each implant at the time of fixture placement and at the time of scarification. Half of the minipigs were sacrificed 7 days and 28 days after implant placement and the implants were removed with the surrounding bone. Bone tissue responses were evaluated by histological analysis and removal torque testing. For histological evaluation 30-50 microm-thick ground sections were examined. Biomechanical testing revealed a significantly higher stability of implants in the control group (A) than in the experimental group (B) (P = 0.004) at day 7. After 28 days implant stability in the control group remained significant higher (47%) than those of group B (P > 0.001). RFM demonstrated no significant difference between both groups and during the experimental course. Histological analysis demonstrated fractured trabeculae in peri-implant bone in the experimental group at day 7, while they were not posed at day 28. We conclude that the decreased implant stability by using the osteotome technique is based on microfractures in peri-implant bone.
