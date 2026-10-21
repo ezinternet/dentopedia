@@ -1,0 +1,351 @@
+TITLE: Clinical and biomechanical determinants of immediate, early, progressive, and delayed implant loading: A comprehensive narrative review
+AUTHORS: Kishen Akansha, Murthy Varsha, Devi Lakshmi, Jayachandran Balaji, Sadish, S. Suganya
+JOURNAL: The Saudi Dental Journal
+ID[pmcid]: PMC13069059
+ID[pmcid-ver]: PMC13069059.1
+ID[pmcaid]: 13069059
+ID[pmcaiid]: 13069059
+ID[pmid]: 41963615
+ID[doi]: 10.1007/s44445-026-00122-6
+ID[publisher-id]: 122
+
+## ABSTRACT
+The protocols for implant loading have changed considerably over the years. Branemark's old way of delaying loading has become trendier at present. Today, we have immediate and early protocols being widely used. These latest methods try to shorten treatment time while ensuring that osseointegration remains stable. As the surface technology of implants has become advanced and as digital planning and biomechanical understanding have improved so much, the older concepts of safe functional loading can be redefined. There is still clinical uncertainty about the long-term predictability of early load initiation for implants of varying quality and design. This review critically reviews recent (2019–2025) evidence into the biologic and biomechanical principles, clinical and decision-making principles for immediate, early, progressive and delayed loading of implants. The goal is to create an effective, evidence-based framework that practitioners can use for loading selection according to patient-specific factors, bone density and primary stability. To achieve the aim, a structured narrative review was conducted, which involved the databases including PubMed, Scopus, ScienceDirect and Wiley Online Library. The literature was searched using Boolean search strings that combined appropriate MeSH terms pertaining to ‘dental implants’, ‘osseointegration’, ‘loading protocol’ and ‘primary stability’. Seventy-two studies (24 RCTs, 28 cohort studies and 20 systematic reviews/Meta-analysis) that met the inclusion criteria were qualitatively analyzed. When insertion torque was ≥ 35 N.cm, implant survival rates were between 95 and 100% in immediate and early loading protocols, comparable to that of delayed protocols. Similarly, for ISQ ≥ 70 and bone quality Type I–II. The difference in mean marginal bone loss between early and late loading was less than 0.2 mm at 12 months, which is clinically insignificant. Excess occlusal load, low bone density (type IV) and absence of prosthetic splinting were associated with failures. The implant bone interface in low-density bone improved as upgrades were made with progressive loaders. Implants in the lower jaw were more predictable than in the upper jaw. Immediate loading and early loading are both reliable if the biomechanical and biologic prerequisites are satisfied. This is a significant change from time-based loading to mechanically and biologically guided loading. Ways of working in the future will be AI-assisted torque analysis, digital bone-density mapping and biomimetic implant surfaces that enhance osseointegration under controlled functional load. Clinical Significance: Clinicians should determine the time of implant loading according to objective parameters rather than according to fixed timelines. Properly done immediate or early loading can shorten treatment time, improve patient satisfaction and provide long-term predictability comparable to those achieved with delayed approaches.
+Graphical Abstract
+
+## Introduction
+
+### Background
+
+The cornerstone of contemporary prosthodontics is restoring oral function, appearance, and comfort through implant rehabilitation. In the past five decades, implant dentistry has become more than a specialized surgical procedure. It is now a restorative procedure with high rates of success and satisfaction (Waghmare et al. 2024; Dawood 2025). The benefit of implant-supported restorations is their ability to transfer occlusal loads to bone, which in turn preserves alveolar bone and facial contour. This happens because the prosthesis does not rely on the mucosa which gets progressively resorbed (Jayasinghe et al. 2017).
+
+The late 1960 s definition by Branemark refers to osseointegration as the structural and functional connection between the bone and titanium surface. It has revolutionized oral rehabilitation (Halepas et al. 2022). Saxena et al., (2025) devised a two-stage delayed loading protocol. Here a stress-free healing period of 3–6 months is observed to ensure bone implant contact before functional loading. Even if the outcome was predictable, the long time and multi-stage surgeries were uncomfortable for the patients and too costly (Kumar 2025, DD Quigley 2021, M Serroni 2025).
+
+### Evolution of implant loading
+
+Today's implantology is aiming to reduce treatment time without compromising on success. The creation of immediate, early and progressive loading protocols shows a shift in thinking from sequential fixation to biomechanical and biologic decision-making (Schneider 2024).
+
+#### Delayed loading
+
+The established gold standard of delayed loading which is prosthetic connection after 3 months in the mandible and 6 months in the maxilla for complete osseointegration (Saxena et al. 2025).
+
+#### Immediate loading
+
+Immediate loading involves putting on a prosthetic restoration within two days after the implant placement. This procedure depends on high primary stability and controlled occlusal load, according to Sanz‐Sanchezv et al., (2015).
+
+#### Early loading
+
+Early loading takes place from two weeks to three months. This represents a compromise between the healing and functional requirements (Logerstedt et al. 2022).
+
+#### Progressive loading
+
+According to the authors D’Amico et al., (2020), although rare, progressive loading is used to apply occlusal forces to the implant to condition the peri-implant bone over time to enhance the bone–implant contact.
+
+The treatment needs to be customized to the patient’s bone density, implant design, surface roughness, length and diameter and the patient’s healing capacity. The classification of bone by Lekholm and Zarb (Type I = dense cortical, Type IV = porous trabecular) continues to serve as the first basis for protocol selection. Indeed, dense bone allows for more immediate loading while low-density bone benefits from delayed functionalization (Rosas-Diaz et al. 2024).
+
+### Biomechanical basis and primary stability
+
+Primary stability refers to the mechanical fixation of an implant with the surrounding bone at the time of insertion. The success of the loading protocol greatly relies on achieving primary stability (Huang et al. 2023). The primary stability of an implant can be influenced by numerous factors, including bone quality, accuracy of osteotomy, implant characteristics, and insertion torque (Farronato et al. 2020). A torque ranging from 35 to 45 N cm, or an ISQ greater than 70, is considered the minimum adequate torque for immediate loading (da Rocha Ferreira et al., 2022). Micromotion at the bone-implant interface is important for osseointegration. Controlled micromotion of implants (< 150 µm) has the ability to stimulate bone remodelling. However, excessive movement interferes with bone apposition, which leads to fibrous encapsulation (Wang et al. 2022). Excessive occlusal load at the early stage, called biomechanical overloading, is the main cause that leads to early implant failure during the healing phase (Ishak et al. 2023).
+
+### Scope and rationale of the review
+
+The ongoing discussion on best loading methods is an issue. Thus, clinicians must try to shorten treatment times while maintaining biological success. The current review aims to summarize scientific evidence published between 2019 and 2025 on biological principles, clinical indications and comparative outcomes of immediate, early and delayed loading protocols in different clinical situations (single-tooth, partially edentulous and fully edentulous arches).
+
+### Specific aim
+
+The specific aim of this review is to critically evaluate the evidence regarding immediate, early and delayed implant loading protocols.
+
+The biomechanical and biological principles underlying protocol selection.Comparative analysis of implant survival rates, marginal bone-level changes and patient-reported outcomes.The influence of bone quality, implant design and arch location on loading success.The development of a clinically applicable decision-making algorithm to guide patient-specific protocol selection.
+
+By integrating biomechanical understanding with recent clinical evidence, this review aims to shift the discussion from “when to load” toward “why and under what conditions to load.”
+
+## Materials and methods
+
+### Review design
+
+The present study characterized the simple narrative review designed to review current evidence, class‐clinical as well as biomechanical, on immediate, early, progressive as well as delayed loading protocols in implantology. The goal was to combine recently published evidence identified by experimental and clinical trials, cohort studies and systematic reviews to clarify primary stability, loads to be applied on the implant, bone-density and biomechanical risks.
+
+This does not adhere to PRISMA and does not require registration with PROSPERO as it seeks thematic synthesis, not Meta-analytic pooling.
+
+### Literature search strategy
+
+A structured search was performed across major scientific databases to ensure comprehensive coverage of relevant publications. The following databases were screened:PubMed/MEDLINEScopusScienceDirectWiley Online LibraryGoogle Scholar
+
+Search terms included combinations of:
+
+The words are related to implant loading are; immediate, progressive, early, delayed loading; primary stability insertion torque; resonance frequency analysis; bone density; edentulous jaws; overloading; biomechanics; occlusion; prosthesis design.
+
+The search, conducted from January 2019 to October 2025, covers modern evidence of current implant systems, surface technology, and digital planning trends.
+
+512 total records were found before duplicates removal. It was closely looked at to check if loading of implant was their main topic. Papers that are not clinical, papers that comprise only animals, case studies not related to biomechanics and other papers that did not relate to loading protocols were excluded. A total of 72 studies were included after screening.
+
+### Study selection principles
+
+This was a narrative review, which means that inclusion and exclusion criteria were not used. However, the selection of studies was based on their clinical relevance and contribution to the concept. The following guiding principles were applied.
+
+1.Clinical relevance to implant loading protocols.
+
+Researchers analyzed loading strategies immediate, early, progressive, or delayed in terms of their impact on stability or prosthetic outcomes.
+
+2.Human studies prioritized.
+
+Study types considered were RCTs, cohort studies, clinical trials and systematic reviews/Meta-analyses.
+
+Only studies examining bone adaptation and trabecular changes provide insight into mechanistic studies.
+
+3.Focus on stability measurements.
+
+Studies reporting insertion torque, ISQ, marginal bone levels, crown–implant ratios, or loading complications were preferentially included.
+
+4.Jaw-specific outcomes.
+
+Studies contrasting maxillary and mandibular performance were included to help substantiate discussion of anatomical influence.
+
+5.Loading in edentulous conditions.
+
+Research evaluating full-arch restorations, All-on-4/6 concepts, and implant distribution strategies was considered essential.
+
+This narrative approach meant that all clinically-important evidence was included without the restrictive filtering of systematic review methods.
+
+### Categorization of included studies
+
+The 72 included studies were grouped to facilitate meaningful synthesis:Immediate loading – 26 studiesEarly loading – 18 studiesProgressive loading – 8 studiesDelayed loading – 20 studies
+
+Within these groups, randomized controlled trials, prospective and retrospective cohort studies, and systematic reviews were all considered to evaluate patterns of outcomes across loading protocols.
+
+### Bone density interpretation (D1–D4)
+
+Because bone density directly influences loading decisions, the review adopted the Lekholm and Zarb classification:
+
+D1: Very dense cortical bone (anterior mandible); highest stability.
+
+D2: Thick cortical + dense trabecular bone (posterior mandible, anterior maxilla); most favorable for loading.
+
+D3: Thin cortical + porous trabecular bone (posterior maxilla); moderate stability, caution for immediate loading.
+
+D4: Very thin cortical + low-density trabecular bone (posterior maxilla, grafted bone); least suitable for immediate loading.
+
+Bone density acted as a key interpretive lens for the findings related to torque, ISQ, and loading timelines.
+
+### Stability criteria for loading classification
+
+In the reviewed literature, loading protocols were commonly differentiated using:Insertion Torque (IT)Immediate Loading: ≥ 35–45 N•cmEarly Loading: 25–35 N•cmDelayed Loading: < 25 N•cm (biological stability allowed to develop before loading)Resonance Frequency Analysis (RFA)/ISQImmediate Loading: ISQ ≥ 70Early Loading: ISQ 60–69Delayed Loading: ISQ < 60
+
+These parameters guided the interpretation of clinical outcomes across different bone densities and anatomical sites.
+
+### Determination of implant number and position in edentulous arches
+
+Studies included in the review consistently emphasized:Mandible (D1–D2): 4–6 implants for fixed prosthesesMaxilla (D3–D4): 6–10 implants due to softer boneImportance of maximizing the antero-posterior spreadUse of tilted, pterygomaxillary, or zygomatic implants when posterior bone is inadequateAvoidance of cantilevers > 10 mmControl of occlusal forces during early loading
+
+These principles informed the narrative discussion on arch-specific treatment planning.
+
+### Approach to biomechanical and occlusal factors
+
+Because implant overloading was a key theme in several reviewer questions, the review incorporated evidence relating to:Differences between vertical (axial) and horizontal (lateral) overloadTraumatic vs. pathological overloadOcclusal scheme influence (axial, balanced, non-axial contacts)Prosthetic contributors (framework design, passivity, crown–implant ratio)Influence of parafunctional habitsRole of dietary consistency and masticatory forces in early healing
+
+This allowed a comprehensive understanding of biomechanical determinants of implant success.
+
+## Results and discussion
+
+### Evolution of implant loading
+
+Branemark’s two-stage delayed approach established osseointegration fundamentals. Subsequent decades introduced roughened titanium and bioactive surfaces enabling faster bone implant contact and challenging the notion that long healing was universally necessary. Histologic and finite-element data confirm bone can remodel positively under controlled strain (< 150 µm micromotion), supporting earlier loading when stability thresholds are achieved (Kumar et al., 2024).
+
+The concept of osseointegration revolutionized implantology, yet Branemark’s original delayed-loading protocol reflected the surgical and material limitations of that era smooth-surfaced implants, low torque insertion and limited bone biology knowledge (Branemark et al. 1969). Over the past five decades, surface micro-texturing, chemical modification and improved macro-designs have shortened the biologic healing window (Hammoudeh et al. 2024a, b). Histologic and micro-CT analyses now confirm that bone formation can occur under early or controlled functional load when micromotion remains below the 100–150 µm threshold (Kumar et al., 2024). Consequently, immediate and early loading strategies are no longer experimental but clinically viable under specific biomechanical conditions. The transition from a time-based to a biomechanics-based loading philosophy reflects a broader paradigm shift: osseointegration is now understood as a dynamic, load-responsive process rather than a passive, static one (Table 1).
+Table 1Evolution of Implant Loading Concepts and ProtocolsPeriodImplant Surface/DesignLoading ProtocolBiological RationaleClinical Implication1960s–1980sMachined, smooth titanium; two-stage designDelayed loading (3–6 months)Stress-free healing to allow osseointegrationHighly predictable but prolonged treatment1990sThreaded, moderately rough surface (SLA, TPS)Early loading (2–8 weeks)Faster bone–implant contact and remodelingReduced treatment time with comparable success2000s–2010sMicro-roughened, anodized, or sandblasted acid-etched surfacesImmediate loading (≤ 48 h)Exploitation of high primary stability and improved surface energyGreater efficiency and patient comfort; case-selective success2020sHydrophilic, nanostructured, and Ti-Zr alloys; digital workflowsImmediate/Progressive loadingEnhanced protein adsorption, improved osteoblast responsePersonalized, digitally guided treatment protocols*BIC = Ratio of Bone-to-Implant ContactAdapted from Branemark et al., (1969), Chen et al., (2025), and Huang et al., (2023)
+
+### Biomechanical principles and primary stability
+
+The most important factor for success is the mechanical interlock that gives primary stability. Bone density is classified using the Lekholm & Zarb classification I–IV. Other parameters include osteotomy precision, implant geometry and insertion torque. Immediate loading is good when the torque is greater than or equal to 35 N·cm or if the ISQ value is greater than or equal to 70. Secondary stability or biological stability comes from bone remodelling after 6 to 8 weeks and protocols that safely bridge the two phases provide superior success (Fig. 1).Fig. 1Relationship between Bone Density, Insertion Torque and Optimal Loading protocol Zone
+
+The ability of a new implant to create mechanical anchorage at insertion is the major determinant of osseointegration (Razaghi et al. 2025). If the insertion torque is equal to or greater than 35 N cm or ISQ is equal to or greater than 70, it does predict a favorable outcome for immediate or early loading (Quispe-Lopez et al. 2024). Many factors can contribute to stability, including bone quality, implant’s geometry and thread pitch, and precision of osteotomy. According to Chen et al., (2025), tapered implants can be advantageous to parallel implants in D3–D4 bone. Also, surface roughness (Ra = 1–2 µm) and high affinity to water at the surface enable early osteoblast adhesion that reduces healing time. Clinical consensus now supports immediate loading in dense mandibular bone, early loading in moderate-density sites and progressive/delayed loading in low-density (maxillary posterior) zones.
+
+During implant placement, insertion torque value or IT value refers to mechanical stability. Using immediate and early loading protocols requires a high primary stability of the implants which is generally equal to or more than 35 Ncm. This is done to prevent micromotion above the physiologic threshold which is approximately 150 µm. If the insertion torque is lower than ≥ 35Ncm early micromotion will become more likely and immediate loading therefore inappropriate.
+
+Delayed loading is therefore the recommended protocol for implants that exhibit:Low insertion torque (typically < 25–30 Ncm),Soft, low-density bone (D3–D4),Compromised cortical anchorage, orSituations where mechanical stability is uncertain.
+
+In delayed loading, the implant stays unloaded for 3–8 months, thereby allowing the biological osseointegration to substitute mechanical stability. This healing period compensates for the initial low torque.Thus:Immediate loading: requires high primary stability → ≥ 35–45 NcmEarly loading: moderate stability → 25–35 NcmDelayed loading: used when torque is below the threshold for early/immediate loading → < 25–30 Ncm
+
+So, when insertion torque falls below 30–35 Ncm, the implant is not unsafe, but it must be assigned to the delayed loading category to prevent overloading.
+
+### Classification of loading protocols
+
+Delayed Loading: > 3 months; gold standard, highest predictability.Early Loading: 2 weeks – 3 months; balances reduced chair-time with adequate biologic healing.Immediate Loading: ≤ 48 h post-placement; dependent on high primary stability and rigid splinting.Progressive Loading: Gradual functionalisation through staged occlusal contact, enhancing bone maturation in softer bone.
+
+The classification of loading based solely on time (immediate, early, delayed) is now considered overly simplistic. Current literature encourages incorporating functional (in-occlusion vs non-functional) and biomechanical parameters. Immediate functional loading increases risk of micromotion, while non-functional immediate loading can enhance soft-tissue adaptation without risking osseointegration (Degidi et al. 2025). Progressive loading, originally proposed by Misch, provides an adaptive balance by incrementally increasing occlusal forces to train peri-implant bone particularly valuable in Type IV bone or grafted sites (Hammoudeh et al. 2024a, b).
+
+### Immediate loading – clinical criteria and outcomes
+
+Immediate loading shortens rehabilitation and improves patient satisfaction. Clinical success requires optimal torque, dense bone (Types I–II), absence of parafunction and occlusal control. In edentulous mandibles, ≥ six well-distributed implants splinted with acrylic provisional restorations show 1- to 3-year survival 98–100% (Quispe-Lopez et al. 2024) (Table 2).
+Table 2Representative high-quality studies (2019–2025)Author/YearStudy TypeProtocolSample Size (Implants)Follow-Up (Months)Survival Rate (%)Mean Marginal Bone Loss (mm)Razaghi et al. 2025Meta-analysisImmediate vs Delayed21003697.80.93Hammoudeh et al. 2024a, bSystematic Review + RCTsImmediate full-arch14402498.50.84Quispe-Lopez et al. 2024Prospective CohortImmediate single-tooth5201299.20.78Chen et al. 2025RCTImmediate posterior mandible3601897.60.88Hu et al. 2025Cohort (6-year follow-up)Immediate vs Delayed (mixed arches)4107294.31.15Abbreviations: RCT = Randomized Controlled Trial; MBL = Marginal Bone Loss.
+
+In maxillae, where bone density is lower, ≥ eight implants and careful occlusion yield survival 95–98%. Failures concentrate within the first year and relate to biomechanical overload rather than biological rejection. Recent Meta-analysis (Hammoudeh, 2024; Razaghi et al. 2025) confirm that immediate loading achieves survival rates (95–100%) comparable to delayed protocols when mechanical thresholds are respected. Marginal bone loss at 12 months typically averages 0.8–1.0 mm, slightly higher than delayed loading (0.6–0.8 mm), but not clinically significant. Failures tend to occur within the first six months and are linked to excessive occlusal stress, low bone density, or insufficient splinting (Quispe-Lopez et al. 2024). Rigidly splinted frameworks such as full-arch acrylic prostheses on 4–8 implants achieve more even stress distribution and superior outcomes in mandibular arches.
+
+### Progressive loading – concept and protocol
+
+Misch is a progressive loading system that progressively increases mechanical chewing demand through five phases of prosthesis. Temporary fixes should work or be easy to fix. The appointment interval depends on bone type: D1 and D2 bones are shorter than D3 and D4. This method minimizes excessive pressure risk and improves bone adaptation in the upper jaw. Progressive loading reduces the risk of low density bone injury through mineralization and thickening over time. The remodeling of bone is accepted with staged activation occlusal. Researchers found that settings which mimic a natural environment are the best for furniture production (Chen et al. 2024). Furthermore, there was a 10% decrease in ultimate shear load upon changing to a transverse loading setup (Ho et al.,2021).
+
+This approach is for use in the posterior maxillae. The only disadvantage is a long prosthodontic phase with multiple appointments.
+
+Patients were instructed to consume a soft diet initially during the healing period. Even though control of dietary behaviour is not very strict or monitored, usual practice in clinical setting is to give them structured dietary instructions and recall visits to reinforce them. So, diet is a modifiable risk factor rather than a controlled variable.”.
+
+### Implant loading in edentulous cases
+
+Overdentures placed onto two implants lasted more than ten years and offered an overall survival rate of more than 97%. Early treatment protocols exhibit similar performance when torque is ≥ 35 N·cm. It is advisable to use four to six implants in maxillae with palatal coverage. Mandibular outcomes for full-arch fixed restorations are superior to maxillary (98–100% versus 95–98%). Research results suggest that bone density affects success of early loading.
+
+### Biomechanical overloading and stress distribution
+
+When excessive pressure is applied during early healing, it is the main cause of loss of implant. The risk factors most often seen are long crowns cantilevers. Bruxism and misaligned occlusion. Early overload is hard to detect because implants lack periodontal proprioception. Models show that crest stress concentration is minimized if the axial load is applied. Conversely, however, lateral load can produce micro fractures and marginal bone loss of 1 to 3 mm during the first year. Having a protective occlusal design is essential as well as splinting and night guards.
+
+The main reason for early implant failure is overload. As per Lv et al. 2025, microfractures happen with lateral forces greater than 150 µm micromotion which leads to fibrous encapsulation instead of bone. According to the stress strain overload hypothesis, if the mechanical strain exceeds the physiologic limits, osteoclastic resorption dominates osteoblastic deposition. Cantilever lengths longer than 10 mm or crown versus implant ratios above 1.2 leads to high crestal bone stress according to finite-element analyses. Radiographic alteration “saucerization” around the implant neck clinically indicates early overload-related resorption (Table 3).
+Table 3Mechanical Risk Factors for Overload and Recommended ControlsRisk FactorMechanism of FailurePreventive/Control StrategyLong cantilever (> 10 mm)Bending moments causing crestal microfracturesLimit cantilever to ≤ 10 mm; employ cross-arch splintingBruxism/ParafunctionHigh-frequency cyclic loads causing fatigueFabricate occlusal splints; use shock-absorbing materials (PEEK/acrylic)Low bone density (D3–D4)Reduced cortical engagement and micromotionOpt for progressive or delayed loading; increase implant number or diameterImproper occlusal designLateral stress on implant neckMaintain axial contacts only during healing; avoid cantileversNon-passive prosthesis fitStress concentration at abutment–bone interfaceVerify passive fit digitally or by radiographic evaluationCrown-to-implant ratio > 1.2Amplified lever arm forcesKeep prosthetic height minimal; consider wider platform implant
+
+Adapted from Razaghi et al., (2025) and Hu et al., (2025).
+
+No health professional can ever be fully sure of a patient’s dietary control as dietary behaviour happens beyond the clinical setting. Because of this, dietary instructions must be recognized as an adjustable risk-reduction tool, not a managed clinical variable. It is advised that during the early loading phase, patients should comply to a soft diet so as not to cause excessive occlusal forces; however, compliance cannot be objectively verified. Clinicians depend on counselling and reinforcement during follow-up visits, and indirect criteria, such as wear on the prosthesis and early discomfort. As a result, dietary guidance is a preventive measure that is aimed at preventing a biomechanical overload but not a parameter that can be guaranteed or measured quantitatively.”
+
+### Bruxism and implant longevity
+
+Bruxism amplifies cyclic fatigue and component wear. Studies Razaghi et al. 2025; Kachlan 2024) link bruxism with two-fold higher mechanical complication rates. Management involves additional implants for load sharing, resilient occlusal materials, short cantilevers and nocturnal splints. Digital occlusal analysis systems now permit quantification of bite-force asymmetry, facilitating individualized risk mitigation. Parafunctional loading exerts forces 3–10 × greater than normal mastication. In the absence of proprioceptive feedback, implants cannot modulate force dynamically, leading to component fatigue (Kachlan 2024; Berzaghi et al. 2025). Systematic reviews indicate bruxism doubles mechanical complications (porcelain fracture, screw loosening) (Hu et al. 2025). Preventive measures include additional implants, wider diameters, short cantilevers and night-guard use. New polymer-based occlusal materials (PEEK, composite resin) demonstrate superior shock absorption, potentially mitigating bruxism-induced microstrain.
+
+### Surface engineering and primary stability enhancement
+
+Modern micro-/nano-roughened and chemically modified titanium surfaces accelerate osseointegration by enhancing protein adsorption and osteoblastic differentiation. Clinical data (Chen et al. 2025; Albertini et al. 2021) show such surfaces permit safe early loading after 2–4 weeks with equivalent outcomes to delayed protocols (Fig. 2 and 3).Fig. 2Relation between Surface Roughness and Bone-to-Implant Contact (BIC%)Fig. 3The Visual Clinical Decision Algorithm
+
+Hybrid implant designs with progressive thread pitch and tapered geometry improve mechanical anchorage, particularly in Type III–IV bone. Modern roughened, anodized and chemically active surfaces accelerate osseointegration by enhancing protein adsorption and osteoblast differentiation. SLActive and Ti-Zr alloy implants reaches functional stability in 2–4 weeks (Chen et al. 2025; El-Bassyouni et al. 2025). Mechanical torque and surface microtopography work together to ensure optimum healing. A high-torque + hydrophilic surface will lead to faster bone apposition and will justify early loading in the dense bone.
+
+#### Mandibular vs maxillary comparisons
+
+Studies have shown that constant loading maintains a survival rate of 98% for the mandibule, although slightly lower, between 95 and 97% was noted for the maxilla according to Liu et al. 2021. The difference comes from pore sizes in the trabecular compartment and limited engagement within the cortex in the posterior maxilla. This limitation can be partially offset through advanced digital planning and the use of zygomatic or tilted implants. The higher density bone and better anchorage of the cortical plate in the mandible compared with the maxilla are responsible (Khaohoen et al. 2023). Success rates for immediate-loading of mandible are almost 99 percent, and the same for maxilla is about 95 to 97 percent (Hammoudeh et al. 2024a, b). Trabecular bone type IV has the maximum chances of damage due to the posterior maxilla. Increasing the stability of implant-supported prostheses can be done by using tilted or zygomatic implants, along with cross-arch rigid frameworks. Now, density mapping requires a CBCT scan, which facilitates load prediction before surgery.
+
+#### Economic and clinical impact of failure
+
+The average cost of implant failure is biological and economic. Removal, grafting and re-implantation of lost implants prolongs treatment by 6–8 months and requires a further 10–14 visits. From a practice-management perspective, avoiding one failure saves enough profit for many successes. Therefore, following evidence-based loading selection is not only clinically prudent but economically so. Although many succeed, it costs a lot to fail. The failure of each implant can lengthen the treatment by 6 to 8 months with 10 to 14 appointments (Razaghi et al. 2025; Sailer et al. 2022). This creates distrust among patients and lowers satisfaction while also resulting in the depletion of profit from several successful cases. As such, choosing loading with proof, which can mitigate risk, is clinically and commercially wise.
+
+#### Critical appraisal of evidence
+
+Although the immediate and early loading have high success, there is still a methodological heterogeneity. There are also examples of RCTs that do not properly describe torque thresholds or occlusal schemes and restrict external validity. The systematic reviews show that there is a bias towards successful results. Multicentre registries and standardisation in the reporting of bone-density indices and prosthetic complications should be used in the future.
+
+Despite consistent short-term success, confines persevere:Inconsistent definitions of “immediate” and “early” across studies.Limited long-term (> 10 years) data on digital workflows and new alloys.Underreporting of patient-reported outcomes (comfort, satisfaction, cost).Future trials should employ unified success criteria and standardized torque/ISQ reporting.
+
+Quick and early loading are scientifically viable alternatives depending on the stability, bone quality and the ability to control the occlusal. The progressive loading is used as a bio-prudent substitute in a bone that is compromised. The experience of a clinician to balance biomechanics with patient-specific variables is the real factor of success in the long term.
+
+## Clinical decision framework
+
+### Determinants of protocol selection
+
+An implant loading protocol has to incorporate biological, biomechanical and patient-specific determinants. Important variables to consider during the selection are the quality of bones, stability of implant, design of the prosthetic and systemic or functional factors. Only under the conditions of sufficient bone density and volume (biologic) and mechanical limits (high primary stability), immediate loading must be considered.
+
+#### Determinants summary:
+
+Bone Density: Type I-II bone load is instantaneous, Type III-IV load requires early or progressive conditions.
+
+Primary Stability: 35 Ncm or ISQ 70 is required for immediate loading, early loading is by 25–35 Ncm.
+
+Implant Design and Surface: Surface is tapped, rough or hydrophilic and this promotes the initial osseointegration.
+
+Occlusal Scheme: The distribution of axial load and removal of cantilevers are necessary at the initial stages.
+
+Patient Factors: Mandibular locations have more success due to thick cortical bone as opposed to the maxillary areas.
+
+Arch Considerations: Mandibular sites yield higher success owing to dense cortical bone compared with maxillary regions.
+
+### Clinical decision algorithm
+
+A clinical decision algorithm can guide clinicians through stepwise assessment:
+
+## Evaluate Bone quality (CBCT, tactile feedback):
+
+• D1–D2 → proceed to torque evaluation for likely Immediate Loading.
+
+• D3–D4 → plan Early or Progressive Loading based on density.
+
+## Measure primary stability:
+
+• ≥ 35 N·cm or ISQ ≥ 70 → immediate loading feasible.
+
+• 25–35 N·cm → early loading after 2–6 weeks.
+
+• < 25 N·cm → delayed loading (> 3 months).
+
+## Assess occlusal risk:
+
+• Reject non-axial contacts and cantilevers; employ group function occlusion.
+
+## Select prosthetic type:
+
+• Splinted restorations are recommended for early/immediate loading.
+
+• Non-splinted only after confirmed osseointegration.
+
+## Patient compliance & diet:
+
+• Soft diet for 6–8 weeks post-surgery; periodic follow-ups at 2, 6, 12 months.
+
+### Integration of digital and guided workflows
+
+Now digital implantology allows for the real-time measurement of bone density and insertion torque, for a “data-led” protocol choice. Provided biomechanical conditions allow for such techniques, guided surgery requires simultaneous CAD/CAM provisionalization. According to Chen et al., (2025) and Lahoud et al., (2024), intraoral scanning with finite-element software can predict stress distributions and improve patient-specific loading plans. New predictive models based on Artificial Intelligence (AI) are being devised to estimate the chances of implant success based on parameters like bone density, type and quality of implant and patient parameters (Nazari et al. 2025). These innovations are helping to enhance and accurately determine dental conditions and find solutions.
+
+### Risk–Benefit Evaluation and Clinical Implications
+
+Early and immediate loading significantly shorten treatment time and enhance patient satisfaction, but they have a greater mechanical risk if stability is lacking. On the other hand, a delayed loading makes things more predictable, but the treatment may take longer (Logerstedt et al. 2022). Biologically adaptive compromise is provided by progressive loading to compromised bone cases.
+
+Therefore, clinicians should perform a patient-specific risk–benefit analysis.
+
+High dense bone and high stability are for immediate loading.
+
+Moderate bone density → Early Loading.
+
+Low bone density or systemic risk → Progressive/Delayed.
+
+Appropriate protocol selection not only determines implant longevity but also influences prosthetic maintenance, cost-efficiency and long-term patient satisfaction.
+
+## Conclusion and future perspectives
+
+### General synthesis
+
+Over five decades, implant dentistry gradually transited from a surgical discipline to a science that combines biology, biomechanics, materials engineering and digital dentistry. The current procedure for how implants is loaded indicates a shift away from the strict deferral and toward a biologically and mechanically personalized approach.
+
+Studies in this review showed that immediate and early loading protocols can achieve survival and success rates comparable to those associated with conventional, delayed loading, if certain biomechanical and biological thresholds are met. The foundation of this predictability is primary stability, measured by insertion torque and resonance frequency analysis (ISQ). If the insertion torque is greater than 35 N·cm or the ISQ is greater than or equal to 70, and the bone density corresponds to Type I or II, immediate implant loading is clinically reasonable. When bone density is medium or Type III, starting loading early (2–8 weeks) is best because this allows good biological maturation for patients. The most predictable-performance outcomes for low-density or grafted bone (Type IV) continue to be provided by progressive or delayed loading.
+
+Together, these findings support the shift from a time-based classification of loading to a model that is mechanically and biologically adaptive where loading decisions are individualized to the patient’s bone properties, occlusal function and systemic health.
+
+### Clinical implications
+
+A loading protocol can be considered successful when several principles work together in a clinical setting.
+
+Primary Stability: Primary stability refers to the necessary requirement for any form of early or immediate protocol. Furthermore, it is influenced by the macro-design of the implant, the density of the bone, and the technique utilized in surgery.
+
+Occlusal Optimization: Protective, axial-load-oriented occlusion minimizes biomechanical stress and marginal bone loss.
+
+Surface Technology: Use of roughened or chemically activated surfaces increases the osseointegration and reduces the latency period required for safe loading.”
+
+Prosthetic Splinting: Rigid splinting for the immediate or early loading should be employed as it distributes the occlusal load among various implants.
+
+Patient-Specific Risk Control: The timeline for any treatment is dictated by systemic conditions, parafunctional habits (e.g., bruxism) and local bone quality.
+
+Clinicians should regard loading protocols as being on continuous spectra rather than in fixed categories; each patient presents a unique combination of biologic and mechanical factors.
+
+## Research implications and knowledge gaps
+
+At present, there is evidence that supports the predictability of immediate loading and early loading. However, there are still several key knowledge gaps.
+
+Long-term Outcomes: Most of the clinical studies reported a follow-up of less than 5 years. We need more long-term data (longer than 10 years) to assess cumulative survival and peri-implant bone stability under the early load condition.
+
+Standardization of Success Criteria: Standardization of success parameters is needed because different studies use different thresholds for implant success, marginal bone loss, and torque/ISQ cut-off. There is a need for a standardized reporting framework.
+
+Role of Systemic Conditions: Systemic conditions like diabetes, osteoporosis and smoking remain a challenge for osseointegration under early loading has been observed. These patients are underrepresented in controlled trials.
+
+Digital and AI Integration: The new torque sensors, ISQ mapping, and AI analytics for bone density give new meaning to precision loading of implants. These technologies must demonstrate proof of concept.
+
+Material Innovations: Future materials, including those with novel bioactive coatings or growth-factor integration, as well as hybrid alloys (Titanium-Zirconium, Titanium-Tantalum), to reduce healing times, should also be investigated.
+
+Clinical trials in the future should be multicentre, have standardization and patient stratification to test biomechanically guided loading algorithms on diverse populations.
+
+### Future perspectives: the road ahead
+
+Intelligent data will determine the future of implant loading. As imaging and modelling are done routinely these days, more and more clinicians will make use of patient-specific simulation tools to predict implant stability and optimize loading. Combining AI, machine learning and digital twin technologies will help predict osseointegration according to the bone shape of the patient, geometry of the implant and its occlusal patterns.
+
+Moreover, researchers are developing implant surfaces that mimic biology and can change depending on load. This may also allow bone remodelling to occur in real-time. The combination of surface nanotechnology with bioactive molecular coatings is expected to decrease the osseointegration time and enhance the biomechanical anchorage. In clinical practice, implant loading will change from rigid protocols with set timelines to adaptive systems driven by feedback using continuous load monitoring with feedback adjustments. This upcoming change aligns more closely with the principles of precision medicine, which is to deliver the right load to the right patient at the right time.
+
+To sum up, implantology will not just be faster loading but smarter and individual loading in future. Through biomechanical principles, biological insights and digital precision, clinicians can achieve both functional efficiency and long-term predictability. In the next 10 years, implant therapy will develop into a truly adaptive and evidence-based art. Specifically, patient-specific, digitally guided and biologically responsive implant loading will make it so.
