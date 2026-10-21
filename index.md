@@ -5104,6 +5104,7 @@ tags: []
 ### overviews
 - [[overviews/condensing-osteitis-hyperdense-lesion-implant-overview]] — Overview · 과방사성 악골 병변은 임플란트 금기가 아님(성공률 84.2%), 병변 유형별 프로토콜 종합
 - [[overviews/osteotomy-cooling-delivery-route-risk-quantification-overview]] — Overview (5편, 2026-10-19): 골삭제 냉각은 전달 방식의 문제 — 관주 경로(가이드 내부 채널), 건식 냉각, 냉각 존재 시 위험 요인 정량 위계(OR/η²)
+- [[overviews/progressive-loading-implant-crown-evidence-overview]] — Overview (12편, 2026-10-21): 점진적 부하의 인체 근거는 골소실 감소·강성 증가 방향으로 일관되나 모두 소규모이고 생존율 비교가 없음; Cochrane은 점진적 부하 시험을 찾지 못함 — 선택적 옵션이지 근거 의무 아님
 
 ## Batch ingest (added 2026-10-21) — 조기 실패 2차 배치 누락분 회수 (5편, 메타데이터·교합·즉시로딩)
 
