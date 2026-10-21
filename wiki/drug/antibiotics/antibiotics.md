@@ -2,7 +2,7 @@
 title: "전신질환·약물·항생제 — antibiotics"
 authors: navigation
 year: 2026
-date: 2026-09-02
+date: 2026-10-21
 doi: N/A
 source: navigation
 category: drug/antibiotics
@@ -15,32 +15,37 @@ tags: [navigation, category-index, antibiotics]
 > [!summary] 한국어 핵심요약
 > - **분야**: 전신질환·약물·항생제
 > - **범위**: Dental antibiotic prescribing, prophylaxis, antibiotic stewardship; AMX/CLV, clindamycin, azithromycin, metronidazole, cephalosporins; periodontal/endodontic/surgical adjunct use
-> - **수록 논문**: 42편
+> - **수록 논문**: 48편
 
 ## Three-line Summary
 
 **Scope**: Dental antibiotic prescribing, prophylaxis, antibiotic stewardship; AMX/CLV, clindamycin, azithromycin, metronidazole, cephalosporins; periodontal/endodontic/surgical adjunct use
-**Indexed papers**: 42 papers in `wiki/drug/antibiotics/`.
+**Indexed papers**: 48 papers in `wiki/drug/antibiotics/`.
 
 ## 세줄요약
 
 **분야**: 전신질환·약물·항생제
-**수록 논문**: 42편
+**수록 논문**: 48편
 **하위 카테고리**: 없음
 
-## Papers in this Category (42)
+## Papers in this Category (48)
 
 | Paper |
 |---|
 | [[aliabadi-2022-antibiotic-use-endodontic-treatment-pregnancy|Antibiotic use in endodontic treatment during pregnancy: A narrative review]] |
+| [[almadhoon-2026-antibiotic-prescribing-implant-surgery-sr-ma|Global Antibiotic Prescribing in Dental Implant Surgery: SR+MA of Prevalence and Guideline Adherence]] |
+| [[baker-2026-dentistry-amr-strategy-perspective|Dentistry Is Strategically Positioned Yet Underleveraged in the Battle Against Antimicrobial Resistance]] |
 | [[bazsefidpay-2023-antibiotic-restrictive-use-adherence-recommendation|Adherence to antibiotic recommendations and safety aspects of restrictive use]] |
 | [[botelho-2025-antibiotics-periodontal-treatment-umbrella|Antibiotics in periodontal treatment: an umbrella review]] |
 | [[bwire-2025-postoperative-antibiotic-prophylaxis-discontinuation-umbrella-review|Synthesizing evidence to guide the design and implementation of effective strategies for discontinuing postoperative antibiotic prophylaxis in surgical settings: an umbrella review post-WHO 2018 recommendations]] |
+| [[ceccon-chianca-2026-oral-streptococci-ie-prophylaxis-resistance|In Silico Resistance of Oral Streptococci to IE Prophylactic Antibiotics: Amoxicillin Intact, Alternatives at Risk]] |
 | [[chunduri-2012-bacterial-spectrum-orofacial-infections|Evaluation of bacterial spectrum of orofacial infections and their antibiotic susceptibility]] |
 | [[de-angelis-2025-antibiotic-third-molar-extraction-prevention-sr|Antibiotic Prescription for the Prevention of Postoperative Complications After Third-Molar Extractions: A Systematic Review]] |
 | [[diaz-2025-antibiotics-sinus-lift-infection-umbrella|Use of antibiotics for prevention and treatment of sinus lift infections: an umbrella review of systematic reviews and meta-analyses]] |
 | [[dubedout-2025-antibiotic-prophylaxis-early-complications|What is the effectiveness of antibiotic prophylaxis in preventing early complications following implant surgery? A systematic review]] |
+| [[edibam-2023-self-reported-allergy-penicillin-clindamycin|Self-reported allergy to penicillin and clindamycin administration may be risk factors for dental implant failure: A systematic review, meta-analysis and delabeling protocol]] |
 | [[esposito-2013-antibiotics-dental-implant-placement-cochrane|Interventions for replacing missing teeth: antibiotics at dental implant placement to prevent complications]] |
+| [[esposito-2026-antibiotics-implant-placement-cochrane-pub5|Cochrane SR+MA pub5: Antibiotic Prophylaxis at Dental Implant Placement Without Bone Augmentation]] |
 | [[feldman-2023-metronidazole-disulfiram-reaction-case-control|Can Metronidazole Cause a Disulfiram-Like Reaction? A Case-Control Study Propensity Matched by Age, Sex, and Ethanol Concentration]] |
 | [[goel-2020-antibiotic-prescriptions-in-pediatric-dentistry|Antibiotic prescriptions in pediatric dentistry: A review]] |
 | [[kinzel-2026-german-dentists-prophylactic-antibacterial-risk-groups|A Survey of German Dentists on the Prophylactic Use of Antibacterial Drugs in Patients in Risk Groups: Diabetes, Joint Replacement, Risk of Endocarditis, and Immunosuppression or Organ Transplantation]] |
@@ -59,6 +64,7 @@ tags: [navigation, category-index, antibiotics]
 | [[orire-2026-revisiting-disulfiram-reaction-alcohol-metronidazole|Revisiting the Disulfiram-Like Reaction Between Alcohol and Oral Metronidazole]] |
 | [[rajan-2025-doxycycline-safety-children-dental-sr|Dental safety of short-term doxycycline use in children under 8 years: a systematic review and meta-analysis]] |
 | [[ramsey-2022-penicillin-allergy-perioperative-anaphylaxis|Penicillin Allergy and Perioperative Anaphylaxis]] |
+| [[rocamillan-2021-systemic-antibiotic-prophylaxis-to-reduce|Systemic Antibiotic Prophylaxis to Reduce Early Implant Failure: A Systematic Review and Meta-Analysis]] |
 | [[salgado-peralvo-2021-penicillin-allergy-risk-factor-early-implant-failure|Is Penicillin Allergy a Risk Factor for Early Dental Implant Failure? A Systematic Review]] |
 | [[salgado-peralvo-2022-consensus-preventive-antibiotic-therapy-dental-implant|Consensus Report on Preventive Antibiotic Therapy in Dental Implant Procedures: Summary of Recommendations from the Spanish Society of Implants]] |
 | [[sandulescu-2024-antibiotic-prescribing-dental-best-practices-review|Antibiotic Prescribing in Dental Medicine—Best Practices for Successful Implementation]] |
