@@ -5014,6 +5014,10 @@ tags: []
 
 ### implants/loading-protocol
 - [[implants/loading-protocol/devi-2026-immediate-vs-delayed-implant-loading]] — Devi 2026 · narrative-review · 2015년 이후 RCT와 고품질 SR/MA를 중심으로 단일치아·후방 부분 무치악·하악 오버덴처·상악 전악 재건 등 적응증별 즉시 부하(IL)와 지연 부하(DL)를 비교한 종설. (DOI 10.18231/j.aprd.66643.1790839663)
+- [[implants/loading-protocol/kishen-2026-clinical-and-biomechanical-determinants-of]] — Kishen 2026 · narrative-review · 2019–2025 문헌 72편으로 즉시·조기·점진적·지연 부하를 삽입 토크·ISQ·골밀도 기준으로 정리한 서술적 종설(점진적 부하 부분은 개념 위주)
+- [[implants/loading-protocol/anitua-2024-implant-supported-prosthesis-under-progressive]] — Anitua 2024 · case-report · 극심한 하악 위축 3명, 캔틸레버 단계 연장 점진적 부하 후 17–20년 추적에서 하악체 3–4 mm 수직 골 증가(가설 생성 수준)
+- [[implants/loading-protocol/ghoveizi-2013-a-radiographic-comparison-of-progressive]] — Ghoveizi 2013 · rct · 상악 구치부 단일 임플란트 분할구강 RCT(n=10), 12개월 치조정 골소실 점진적 0.11 vs 일반 0.36 mm
+- [[implants/loading-protocol/appleton-2005-a-radiographic-assessment-of-progressive]] — Appleton 2005 · rct · 상악 소구치 단일 임플란트 점진적 부하 최초 인체 RCT, 12개월 골소실 0.2 vs 0.59 mm (초록 수준)
 
 ### implants/mbl
 - [[implants/mbl/gheisari-2017-comparison-marginal-bone-loss-one-stage]] — Gheisari 2017 · rct · 무작위 임상시험으로 아스트라 테크 임플란트 310개(140명)를 one-stage(170개, 90명) vs two-stage(140개, 50명) 수술법으로 나누고, 기능적 부하 6개월 후 평행 근단파노라마 방사선사진으로 근위/원위면 변연골소실(MBL) 비교.
