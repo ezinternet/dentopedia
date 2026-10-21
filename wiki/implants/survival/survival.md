@@ -15,20 +15,20 @@ tags: [navigation, category-index, survival]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·생존율·실패위험
 > - **범위**: Implant survival/failure as the outcome, and what predicts it — long-term cumulative survival cohorts & SR/MA; **habit** risk (smoking level/cessation, tobacco & smoke-free products, bruxism); **systemic/host** risk (diabetes, hypertension, osteoporosis & PTH, Sjögren, autoimmune & systemic sclerosi…
-> - **수록 논문**: 85편
+> - **수록 논문**: 87편
 
 ## Three-line Summary
 
 **Scope**: Implant survival/failure as the outcome, and what predicts it — long-term cumulative survival cohorts & SR/MA; **habit** risk (smoking level/cessation, tobacco & smoke-free products, bruxism); **systemic/host** risk (diabetes, hypertension, osteoporosis & PTH, Sjögren, autoimmune & systemic sclerosis, head-and-neck radiotherapy, medications/polypharmacy affecting osseointegration); early-failure risk-factor studies & failure-rate umbrella reviews; evidence-quality appraisal bound to this literature (sponsorship bias, risk-of-bias in smoker SRs); management of the failed implant (explantation/retrieval technique).
-**Indexed papers**: 85 papers in `wiki/implants/survival/`.
+**Indexed papers**: 87 papers in `wiki/implants/survival/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·생존율·실패위험
-**수록 논문**: 85편
+**수록 논문**: 87편
 **하위 카테고리**: 없음
 
-## Papers in this Category (85)
+## Papers in this Category (87)
 
 | Paper |
 |---|
@@ -93,11 +93,13 @@ tags: [navigation, category-index, survival]
 | [[nyland-2024-risk-factors-for-early-dental|Risk Factors for Early Dental Implant Failure]] |
 | [[oliveira-neto-2018-risk-bias-systematic-reviews-smokers|Risk of bias assessment of systematic reviews regarding dental implant placement in smokers: An umbrella systematic review]] |
 | [[pacheco-2025-dental-implant-survival-irradiated|Survival of dental implants in irradiated head and neck cancer patients compared to non-irradiated patients: An umbrella review]] |
+| [[papaspyridakos-2012-success-criteria-in-implant-dentistry|Success Criteria in Implant Dentistry: A Systematic Review]] |
 | [[popelut-2010-sponsorship-implant-failure-rate-sr|Relationship between Sponsorship and Failure Rate of Dental Implants: A Systematic Approach]] |
 | [[rallis-2025-statins-dental-implant-osseointegration|Statins and Dental Implant Osseointegration - Bridging Molecular Science and Next Generation Clinical Outcomes: A Review]] |
 | [[ramesh-2024-compression-necrosis-cause-concern-early|\"Compression Necrosis\" – A Cause of Concern for Early Implant Failure? Case Report and Review of Literature]] |
 | [[roccuzzo-2022-implants-periodontitis-history-20year-prospective|Implants in patients with/without periodontitis history: 20-year prospective study]] |
 | [[scoffier-2026-aetiology-of-early-implant-failure|Aetiology of early implant failure: a scoping review]] |
+| [[serroni-2024-history-of-periodontitis-as|History of periodontitis as a risk factor for implant failure and incidence of peri-implantitis: A systematic review, meta-analysis, and trial sequential analysis of prospective cohort studies]] |
 | [[shahi-2026-implant-outcomes-diabetes-mellitus-sr|Dental implant outcomes in patients with diabetes mellitus: a systematic review]] |
 | [[shenoy-2025-dental-implant-failure-retrieval-techniques-scoping|Dental implant failure and retrieval techniques; a scoping review]] |
 | [[shibli-2024-implant-surface-smoking-human-peri-implant-bone|Impact of Implant Surface and Smoking on Peri-Implant Human Bone: What we Learned from The Last 20 Years?]] |
