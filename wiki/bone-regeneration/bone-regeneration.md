@@ -16,21 +16,21 @@ tags: [navigation, category-index, bone-regeneration]
 > - **분야**: 골재생 (general)
 > - **범위**: Guided bone regeneration (GBR), barrier membranes (collagen/crosslinked/PTFE), bone graft substitutes (DBBM/BCP/β-TCP) & biomaterials, horizontal/vertical augmentation, peri-implantitis GBR, animal/biomechanics models.
 > - **하위 카테고리**: [[ridge-preservation]]
-> - **수록 논문**: 95편
+> - **수록 논문**: 98편
 
 ## Three-line Summary
 
 **Scope**: Guided bone regeneration (GBR), barrier membranes (collagen/crosslinked/PTFE), bone graft substitutes (DBBM/BCP/β-TCP) & biomaterials, horizontal/vertical augmentation, peri-implantitis GBR, animal/biomechanics models.
-**Indexed papers**: 95 papers in `wiki/bone-regeneration/`.
+**Indexed papers**: 98 papers in `wiki/bone-regeneration/`.
 **Sub-categories**: [[ridge-preservation]]
 
 ## 세줄요약
 
 **분야**: 골재생 (general)
-**수록 논문**: 95편
+**수록 논문**: 98편
 **하위 카테고리**: ridge-preservation
 
-## Papers in this Category (95)
+## Papers in this Category (98)
 
 | Paper |
 |---|
@@ -91,13 +91,16 @@ tags: [navigation, category-index, bone-regeneration]
 | [[misch-1993-bone-grafting-materials-implant-dentistry|Bone-grafting materials in implant dentistry]] |
 | [[misch-1995-mandibular-symphysis-graft-severe-ridge-defects|The repair of localized severe ridge defects for implant placement using mandibular bone grafts]] |
 | [[mizraji-2023-barrier-membranes-gbr-overview|Membrane barriers for guided bone regeneration: An overview of available biomaterials]] |
+| [[monje-2014-feasibility-utilizing-allogeneic-bone-blocks|On the Feasibility of Utilizing Allogeneic Bone Blocks for Atrophic Maxillary Augmentation]] |
 | [[nemcovsky-2002-buccal-dehiscence-immediate-delayed-late-maxillary-implant|Comparative study of buccal dehiscence defects in immediate, delayed, and late maxillary implant placement with collagen membranes: clinical healing between placement and second-stage surgery]] |
+| [[nunn-2024-novel-alloplast-carbonate-apatite-granules|A systematic review of a novel alloplast carbonate apatite granules]] |
 | [[oh-2026-narrow-alveolar-ridge-splitting-miniplates|Management of Narrow Alveolar Ridges Using a Modified Multistaged Alveolar Ridge-Splitting Technique with Miniplates and Screws: A Case Series]] |
 | [[park-2007-incision-location-guided-bone-regeneration-human|Clinical Significance of Incision Location on Guided Bone Regeneration: Human Study]] |
 | [[park-2015-edc-crosslinked-collagen-bcp-gbr-rabbit|Guided bone regeneration using EDC-cross-linked type-I collagen membrane with biphasic calcium phosphate at rabbit calvarial defects]] |
 | [[park-2022-collagen-membrane-fixation-ridge-volume|Effect of collagen membrane fixation on ridge volume stability and new bone formation following guided bone regeneration]] |
 | [[park-2022-lateral-sinus-bony-window-gbr|Use of a Lateral Sinus Bony Window as an Intraoral Donor Site for Guided Bone Regeneration in Wide Post-Extraction Defects]] |
 | [[park-2022-previously-grafted-sinus-intraoral-donor|Utilizing Previously Grafted Sinus as Intraoral Donor Site for Successful Augmentation in Peri-Implant Osseous Defect: A Case Report]] |
+| [[perez-gonzalez-2020-assessment-clinical-outcomes-histomorphometric-findings|Assessment of clinical outcomes and histomorphometric findings in alveolar ridge augmentation procedures with allogeneic bone block grafts: A systematic review and meta-analysis]] |
 | [[pohl-2023-bone-shell-technique-relocated-crestal|Bone Shell Technique with Relocated Crestal Ridge Segment for Anterior Horizontal Mandibular Ridge Atrophy: A Case Series]] |
 | [[porczyk-2026-minimally-invasive-bone-regeneration-implant|Minimally Invasive Bone Regeneration in Implant Dentistry: Indication-Driven Decision Framework]] |
 | [[raabe-2025-defect-morphology-membrane-fixation-graft|The Effect of Defect Morphology and Membrane Fixation on 3D Graft Material Displacement During Primary Wound Closure in Horizontal Bone Augmentation—An Ex Vivo Study]] |
