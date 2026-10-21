@@ -29,6 +29,7 @@ relations:
 > - 재건(Ramanauskaite 2023 NMA): 격납형 골내 결손에서 비재건보다 결손 충전과 골 수준 이득이 있다. Hakkers 2026(단일맹검 RCT, 52명/63개): 재건이 MBL(β −1.65 mm)과 협측 퇴축에서 우월했지만 PPD, BoP, 해소율은 같았다(43.8% vs 44.4%). 방사선 골 충전과 임상 염증 해소가 분리되는 역설이며, 재건군에서 통증·구강건조·금속 맛·두통이 더 많았다. 3벽 결손은 T3–T6에, 4벽 결손은 T12에만 이득이 보였다. [확인]
 > - 서술 고찰(Su 2026): 이종골이 자가골보다 선호되는 경향이다. 생분해성 Mg 막, 맞춤 3D 티타늄 메시, 기계학습 위험 예측이 후보로 거론되지만 근거는 서술 수준이다. [확인]
 > - 종합 한 줄: 어떤 접근이든 1년 해소율이 약 44–55%에서 정체하는 것은 프로토콜 실패보다 면역병리적 저항과 일치한다. 프로토콜 라벨보다 집도의 숙련이 더 중요해 보이며, 전신 항생제의 기여는 단일 후향 코호트 근거라 아직 미확정이다. [미검증]
+> - **신규 (2026-10) — 항생제·장기 내구성**: 전신 항생제 병용은 1–2년만 유효 (OR 2.33), ≥3년 무이득, 표면 개질 임플란트 한정 (Antonoglou 2025). 외과 치료는 ≥5년에서 해소 58.6%·재치료 27.2% (Monje 2025), 재건술 7년 성공률 23–31% (Isler 2025) — 비완치, 지지치료 필수.
 
 ## Three-line Summary
 
@@ -209,6 +210,28 @@ Key findings:
 - Extends the materials landscape beyond collagen membrane + xenograft (the Hakkers protocol): **biodegradable magnesium (Mg) membranes** offer mechanical stability with resorption timed to bone healing, and **customized 3D-printed titanium mesh** improves precision for complex ridge augmentation but carries mesh-exposure risk — candidate next-generation alternatives to the standard collagen-membrane GBR protocol.
 - Echoes Hakkers' adverse-event finding: short-term postoperative pain increase with resorbable GBR membranes, reinforcing the need for patient counseling.
 - Flags **machine learning** risk-prediction models (demographic + clinical + surgical variables) as an emerging direction for personalized peri-implantitis/implant-failure risk stratification. [narrative-review — non-systematic, synthesizes existing meta-analyses/RCTs/case series]
+
+---
+
+## Systemic Antibiotics & Long-Term Durability of Surgical Outcomes
+
+Three 2025 syntheses address two questions the 1-year trials above cannot: does adjunct systemic antibiotic help, and do surgical gains last.
+
+**Adjunct systemic antibiotics — Antonoglou 2025 (SR+MA, 7 studies: 3 RCTs + 4 non-RCTs, 595 patients/1388 implants):**
+- Short-term (1–2 years) treatment success favoured antibiotics (OR 2.33, 95% CI 1.29–4.21), with less BoP (OR 0.49) and SoP (OR 0.33) and +0.37 mm bone gain.
+- No long-term (≥3 years) benefit (OR 1.84, p=0.43); the benefit was confined to **modified-surface implants** (OR 4.10 vs 0.79 for turned surfaces).
+- This partly supports the Zhou 2026 antibiotic signal above, but only as a short-term, surface-dependent effect — consistent with the "undetermined" reading in Ramanauskaite 2026 rather than a routine-use recommendation. [sr+ma, only 3 RCTs]
+
+**Durability — Monje 2025 (SR, 17 studies ≥5 years, 839 patients/1326 implants, mean 75.4 months, under supportive care ~3×/year):**
+- Mean disease resolution 58.6% (range 30.4–97.7%), arrest of progressive bone loss 69.6%, retreatment need 27.2%, implant survival 88.6%.
+- Residual pockets ≥6 mm carried ~8× higher recurrence odds (OR 7.3–9.2); advanced baseline bone loss, keratinized mucosa <2 mm and modified surfaces also predicted recurrence.
+- Surgery is effective but **not curative** in the long term. [sr, qualitative synthesis — high heterogeneity]
+
+**Reconstructive durability — Isler 2025 (7-year follow-up of an RCT, 34 of 57 patients completed):**
+- Xenograft + concentrated growth factor (CGF) vs collagen membrane: treatment success fell from 46.2%/50.0% at 1 year to 23.1%/30.8% at 7 years; survival 81.3% vs 88.8%.
+- CGF gave no long-term advantage over collagen membrane; baseline suppuration on probing was the dominant failure predictor (OR 15.45, very wide CI 1.42–168.5). [rct, 41% attrition]
+
+**Synthesis:** the 44–55% 1-year plateau (Hakkers, Zhou) is not a ceiling reached before decline stops — gains relapse over 5–7 years even under regular supportive care. Residual pocket depth, baseline suppuration and keratinized mucosa width are the modifiable or screenable predictors; post-surgical supportive care (see [[overviews/supportive-peri-implant-therapy-maintenance-overview]]) is necessary, not sufficient.
 
 ---
 
