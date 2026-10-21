@@ -5175,3 +5175,4 @@ tags: []
 - [[oral-surgery/third-molar/toledano-serrabona-2021-xenograft-periodontal-defects-mandibular-third]] — 하악 제3대구치 발치 후 우골 이종골+콜라겐 막 vs 자연치유 SR+MA (RCT 3편, 81명/M3M 162개): 제2대구치 원심 PPD 감소 MD 2.36 mm, CAL 획득 MD 2.52 mm 유리 (I² 95-97%), 치조골 높이·부작용 차이 없음; 저비뚤림 1편뿐
 - [[sinus-lift/lateral/trimmel-2021-relative-performance-various-biomaterials]] — 상악동거상 베이지안 네트워크 메타분석 (RCT 34편, 842건, 5-8개월): 28개 이식재 하위군 중 이종골+골수농축액 SUCRA 81% 1위, 자가골 단독 12위(57%)로 표준 지위 미확인; 유의 비교 378건 중 2건, 확실성 낮음~매우 낮음
 - [[bone-regeneration/perez-gonzalez-2020-assessment-clinical-outcomes-histomorphometric-findings]] — 동종골 블록 치조제 증강 SR+MA (7편, 블록 323개, 임플란트 501개): 블록 생존율 94.52%, 임플란트 생존율 97.36%, 블록 노출이 최다 합병증, 신생골 31-42%·잔존 이식재 14-40%; RCT 없음
+- [[bone-regeneration/monje-2014-feasibility-utilizing-allogeneic-bone-blocks]] — 위축 상악 동종골 블록 이식 SR+MA (전향 연구 15편, 블록 361개): 블록 실패 2.4%(주원인 조기 노출), 가중 수평 증대 4.79 mm, 임플란트 생존율 96.9%(228개, 평균 23.9개월); 수직 증대 자료 부족
