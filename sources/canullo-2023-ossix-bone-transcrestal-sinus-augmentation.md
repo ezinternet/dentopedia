@@ -16,6 +16,8 @@ source_url: https://pubmed.ncbi.nlm.nih.gov/37288709/
 
 GLYMATRIX 플랫폼 서베일런스 2026-10-22. OSSIX™ Bone (HA + GLYMATRIX 당가교 콜라겐 스펀지)을 치조정접근 상악동 거상 (TSFE)에 단독 이식재로 사용한 파일럿 연구. 가장 많은 환자 수와 1년 추적관찰 CBCT를 제공하는 현재로선 유일한 OSSIX Bone 임상 연구.
 
+→ [[sinus-lift/transcrestal/canullo-2023-ossix-bone-transcrestal-sinus-augmentation]]
+
 ## Three-line Summary
 
 Prospective pilot study (Canullo L, University of Genova/Milan, Clin Implant Dent Relat Res 25(5):974-983, 2023) evaluating **OSSIX™ Bone** (hydroxyapatite/cross-linked collagen sponge, GLYMATRIX platform) as the sole graft material for transcrestal sinus floor augmentation (t-SFA) with simultaneous implant placement in 24 patients with residual bone height (RBH) >4 mm.
