@@ -62,3 +62,39 @@ OpenCode V2는 `CLAUDE.md`를 대체 파일로 읽지 않습니다 — `AGENTS.m
 ```
 
 지정하지 않으면 위 §0의 지시대로 `CLAUDE.md`를 **직접 읽어야** 합니다.
+
+## 3. 인제스트 필드 규칙 — OpenCode가 논문을 인제스트할 때 필수
+
+인제스트 후 **반드시** `python3 scripts/lint.py` 를 실행하고 FAIL이 없을 때만 커밋한다.
+
+### evidence_level 유효값 (전체 목록 — 이외 값은 lint FAIL)
+
+```
+sr+ma  sr  rct  prospective  retrospective  cross-sectional  case-report
+in-vivo  animal  in-vitro  narrative-review  consensus
+synthesis  regulation  official-qa  manual  patent
+```
+
+자주 틀리는 값: `preclinical-animal` ❌ → `animal` ✅ / `technical_note` ❌ → `case-report` ✅
+
+### source_collection 과 필수 아티팩트 필드
+
+| source_collection | 필수 필드 |
+|---|---|
+| `pubmed-text` | `text_path: /…/papers/*.txt` 와 `text_filename` |
+| `pubmed-pdf` 또는 `external` | `pdf_path: /…/papers/*.pdf` 와 `pdf_filename` |
+| `pubmed-abstract` | (아티팩트 필드 없음) |
+
+- `pubmed-pmc` 는 **유효하지 않은 값** — `pubmed-text` 또는 `pubmed-abstract` 로 변환
+- `text_path` 는 반드시 `papers/` 디렉토리 안 `.txt` 파일 (sources/*.md 금지)
+
+### Why Ingested — 위키링크 필수
+
+`sources/{stem}.md` 의 `## Why Ingested` 섹션 안에 아래 형식 위키링크 **1개 이상** 필수:
+
+```
+→ [[category/stem]]
+```
+
+예: `→ [[bone-regeneration/ridge-preservation/ulm-2021-bundle-bone-perforation-socket-healing]]`
+`wiki/` 접두사 없음, `.md` 확장자 없음, 하이픈 구분.
