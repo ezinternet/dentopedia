@@ -5221,3 +5221,7 @@ tags: []
 - [[drug/systemic-disease/gebhardt-2019-anxiolytic-premedication-vasovagal-reactions]] — Gebhardt 2019 · retrospective(외래 척수마취 2,747명) · 항불안 전처치(미다졸람 1–2 mg IV) 시 미주신경성 반응 15.0%→7.5%(P<0.0001), 퇴원 준비 지연 없음 — 비치과 코호트, 치과는 외삽
 - [[drug/systemic-disease/shiraishi-2023-lidocaine-tape-application-prevent-vasovagal]] — Shiraishi 2023 · case-report · 정맥 천자 VVS 재발 2예에서 3시간 전 60% 리도카인 테이프로 VVS 없이 IV 확보; 대조군·정량자료 없고 대상은 진정용 천자(치과 LA 주사 아님) (abstract-only)
 - [[drug/systemic-disease/kawauchi-2025-vasovagal-syncope-with-sinus-arrest]] — Kawauchi 2025 · case-report · 22G 천자 중 서맥 시작 약 45초 후 동정지 + 3–5초 강직성 발작 2회(SBP 일시 76 mmHg), 흉부압박+아트로핀 0.5 mg으로 약 45초 만에 회복, 30–40/분 서맥은 에페드린 5 mg으로 안정; 정신과 5제 병용 — '양성' 통념의 반례 (PMC full text)
+
+## Synthesis (added 2026-10-23) — 치과 미주신경성 실신 종합 (13편: 역학·기전 3축·감별·예방·처치)
+
+- [[overviews/dental-vasovagal-syncope-overview]] — 치과 VVS 종합: 응급의 46.30%(설문 n=419)·>60%(2026 고찰), LA가 삽화의 ~75% 유발·39%는 시술 전, 남자 청소년 2.69배; 기전 3축(Bezold–Jarisch / TCR=자극 중단이 1차 치료 / 정신성), 감별 4축(아나필락시스·LAST·심장성·저혈당), P–CAB–D(아트로핀 0.5 mg IV 최대 3 mg·에페드린 5 mg IV 최대 50 mg), 예방 근거 사다리(통증 조절만 RCT, 다리 술기 pilot, 전처치는 비치과 외삽, 글리코피롤레이트는 치과 RCT 없음), 동정지 반례(kawauchi-2025)
