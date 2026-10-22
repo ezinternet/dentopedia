@@ -2,7 +2,7 @@
 title: "골재생 (general) — bone-regeneration"
 authors: navigation
 year: 2026
-date: 2026-10-21
+date: 2026-10-22
 doi: N/A
 source: navigation
 category: bone-regeneration
@@ -16,32 +16,36 @@ tags: [navigation, category-index, bone-regeneration]
 > - **분야**: 골재생 (general)
 > - **범위**: Guided bone regeneration (GBR), barrier membranes (collagen/crosslinked/PTFE), bone graft substitutes (DBBM/BCP/β-TCP) & biomaterials, horizontal/vertical augmentation, peri-implantitis GBR, animal/biomechanics models.
 > - **하위 카테고리**: [[ridge-preservation]]
-> - **수록 논문**: 98편
+> - **수록 논문**: 111편
 
 ## Three-line Summary
 
 **Scope**: Guided bone regeneration (GBR), barrier membranes (collagen/crosslinked/PTFE), bone graft substitutes (DBBM/BCP/β-TCP) & biomaterials, horizontal/vertical augmentation, peri-implantitis GBR, animal/biomechanics models.
-**Indexed papers**: 98 papers in `wiki/bone-regeneration/`.
+**Indexed papers**: 111 papers in `wiki/bone-regeneration/`.
 **Sub-categories**: [[ridge-preservation]]
 
 ## 세줄요약
 
 **분야**: 골재생 (general)
-**수록 논문**: 98편
+**수록 논문**: 111편
 **하위 카테고리**: ridge-preservation
 
-## Papers in this Category (98)
+## Papers in this Category (111)
 
 | Paper |
 |---|
 | [[abdallaoui-2025-transverse-ridge-expansion-bone-grafting-sr|Transverse Ridge Expansion and the Role of Bone Grafting: A Systematic Review]] |
 | [[abushama-2025-xenograft-allograft-bone-graft-implant|Comparison of xenograft and allograft bone graft for oral and maxillofacial surgical preparation prior to dental implantation: A systematic review]] |
 | [[ahamed-2025-peri-implant-gaps-management-sr|Insights into the Current Management Techniques for Peri-Implant Gaps: A Systematic Review]] |
+| [[ahmadpour-2025-local-delivery-of-melatonin-along|Local Delivery of Melatonin Along With Bone Grafts to Improve Osteogenesis.]] |
+| [[ahmadpour-2025-local-delivery-of-various-hormonal|Local Delivery of Various Hormonal Drugs Along With Bone Grafts to Improve Osteogenesis: A Systematic Review.]] |
 | [[akbarzadeh-baghban-2009-bio-oss-autogenous-alveolar-sr-ma|Comparing alveolar bone regeneration using Bio-Oss and autogenous bone grafts in humans: a systematic review and meta-analysis]] |
 | [[assiri-2026-iprf-prf-beta-tcp-bone-regeneration-goat|Injectable platelet rich fibrin (i-PRF) versus platelet rich fibrin (PRF) both mixed with beta-tri calcium phosphate in bone regeneration using metacarpal bone defect in goats: micro CT comparative study]] |
 | [[ayoub-2018-ridge-splitting-horizontal-augmentation-case|Modified Maxillary Ridge Splitting Technique for Horizontal Augmentation of Atrophic Ridge: Split Mouth Case Report]] |
 | [[azadi-2025-bone-expansion-horizontal-ridge-augmentation-sr-ma|Bone Expansion as a Horizontal Alveolar Ridge Augmentation Technique: A Systematic Review and Meta-Analysis]] |
+| [[baggio-2025-ossix-plus-vs-biogide-rat-calvaria-gbr|Comparative in vivo evaluation of cross-linked and non-cross-linked collagen membranes for guided bone regeneration in rat calvarial defects]] |
 | [[benic-2014-horizontal-bone-augmentation-guided-regeneration|Horizontal bone augmentation by means of guided bone regeneration]] |
+| [[bhatavadekar-2022-comparative-assessment-of-bovine-versus|Comparative Assessment of Bovine Versus Porcine Xenograft for Augmentation: A Randomized Prospective Cohort Study.]] |
 | [[brunello-2026-global-consensus-maintenance|1st Global Consensus for Clinical Guidelines for the Rehabilitation of the Edentulous Maxilla: A Single-Round Survey on Sinus Lift and Alveolar Bone Augmentation Techniques]] |
 | [[bubalo-2026-bone-substitutes-alveolar-ridge-augmentation|Bone Substitutes in Alveolar Ridge Augmentation: A Narrative Literature Review]] |
 | [[bujda-2026-carp-collagen-membrane-gbr-rat-femoral|Carp collagen membrane for guided bone regeneration: evaluation in a rat femoral defect model]] |
@@ -51,15 +55,20 @@ tags: [navigation, category-index, bone-regeneration]
 | [[chakar-2014-dbbm-bcp-platelet-lysate-rabbit|Bone Formation with Deproteinized Bovine Bone Mineral or Biphasic Calcium Phosphate in the Presence of Autologous Platelet Lysate: Comparative Investigation in Rabbit]] |
 | [[chappuis-2018-contour-augmentation-gbr-10year-results|Effectiveness of Contour Augmentation with Guided Bone Regeneration: 10-Year Results]] |
 | [[cho-2026-prf-bone-regeneration-mechanisms-scoping-review|A scoping review on platelet-rich fibrin–driven bone regeneration: biological mechanisms and clinical applications in oral and maxillofacial surgery]] |
+| [[chou-2026-recombinant-human-bone-morphogenetic-protein|Recombinant Human Bone Morphogenetic Protein-2 (rhBMP-2) as an Alternative to Autologous Bone Graft in Pediatric Craniofacial Reconstruction: A Systematic Review]] |
+| [[cook-2012-ridge-preservation-glymatrix-rct|Histologic comparison of healing following tooth extraction with ridge preservation using two different xenograft protocols]] |
 | [[cucchi-2019-iti-gbr-consensus|Statements and Recommendations for Guided Bone Regeneration: Consensus Report of the Guided Bone Regeneration Symposium Held in Bologna, October 15 to 16, 2016]] |
 | [[daoud-2024-spontaneous-healing-retromolar-donor-site|Computer-Assisted Evaluation Confirms Spontaneous Healing of Donor Site One Year following Bone Block Harvesting from Mandibular Retromolar Region—A Cohort Study]] |
 | [[darby-2024-resorbable-membrane-dbbm-gbr-dehiscence|The effect of a barrier membrane on the incorporation of DBBM in experimental dehiscence defects at early implant placement. A preclinical study]] |
+| [[de-2026-are-buccal-fat-pad-derived|Are Buccal Fat Pad-Derived Stem Cells Effective in Adults for Maxillary Bone Regeneration? A Systematic Review]] |
 | [[depace-2025-bone-regeneration-treatment-strategies-review|Bone Regeneration: A Review of Current Treatment Strategies]] |
 | [[donkiewicz-2021-survival-rates-implants-autogenous-allogeneic|Survival Rates of Dental Implants in Autogenous and Allogeneic Bone Blocks: A Systematic Review]] |
 | [[elgali-2017-guided-bone-regeneration-materials-mechanisms|Guided bone regeneration: materials and biological mechanisms revisited]] |
 | [[elrefaei-2025-3d-printed-scaffolds-ridge-augmentation|Customized 3D-Printed Scaffolds for Alveolar Ridge Augmentation: A Scoping Review of Workflows, Technology, and Materials]] |
 | [[enislidis-2006-staged-ridge-splitting-implant-mandible|Preliminary report on a staged ridge splitting technique for implant placement in the mandible: a technical note]] |
 | [[esposito-2009-horizontal-vertical-bone-augmentation-cochrane|Cochrane SR: Horizontal and Vertical Bone Augmentation Techniques for Dental Implant Treatment]] |
+| [[friedmann-2002-ossix-vs-ptfe-gbr-histomorphometry|Histological assessment of augmented jaw bone utilizing a new collagen barrier membrane compared to a standard barrier membrane to protect a granular bone substitute material]] |
+| [[friedmann-2011-rct-cross-linked-vs-non-crosslinked-lateral-augmentation|Randomized controlled trial on lateral augmentation using two collagen membranes: morphometric results on mineralized tissue compound]] |
 | [[friedmann-2022-horizontal-augmentation-gbr-dog|Horizontal Augmentation of Chronic Mandibular Defects by the Guided Bone Regeneration Approach: A Randomized Study in Dogs]] |
 | [[fujioka-kobayashi-2022-synthetic-biomaterials-dbbm-augmentation|Addition of Synthetic Biomaterials to Deproteinized Bovine Bone Mineral (DBBM) for Bone Augmentation — A Preclinical In Vivo Study]] |
 | [[gan-2023-alveolar-bone-morphology-gbr-anterior-maxilla|Alveolar Bone Morphologic Predictors for Guided Bone Regeneration Outcome in Anterior Maxilla]] |
@@ -67,6 +76,7 @@ tags: [navigation, category-index, bone-regeneration]
 | [[giannotti-2023-autologous-platelet-concentrates-clinical-applications|Progress in Regenerative Medicine: Exploring Autologous Platelet Concentrates and Their Clinical Applications]] |
 | [[gil-marques-2022-bone-block-grafts-finite-element-biomechanics|A Biomechanical Analysis of the Influence of the Morphology of the Bone Blocks Grafts on the Transfer of Tension or Load to the Soft Tissue by Means of the Finite Elements Method]] |
 | [[haugen-2026-bone-grafts-everything-you-need|Bone Grafts: Everything You Need to Know]] |
+| [[huang-2024-biomaterial-scaffolds-maxillofacial-bone-te|Biomaterial scaffolds in maxillofacial bone tissue engineering: A review of recent advances]] |
 | [[idiri-2023-prf-xenograft-sinus-ridge-augmentation-sr|The Effectiveness of the Addition of Platelet-Rich Fibrin to Bovine Xenografts in Sinus and Bone Ridge Augmentation: A Systematic Review]] |
 | [[inchingolo-2025-bovine-xenograft-longterm-histological-clinical|A Histological and Clinical Evaluation of Long-Term Outcomes of Bovine Bone-Derived Xenografts in Oral Surgery: A Systematic Review]] |
 | [[janjua-2022-autogenous-tooth-bone-grafts-narrative|Autogenous Tooth Bone Grafts for Repair and Regeneration of Maxillofacial Defects: A Narrative Review]] |
@@ -92,6 +102,7 @@ tags: [navigation, category-index, bone-regeneration]
 | [[misch-1995-mandibular-symphysis-graft-severe-ridge-defects|The repair of localized severe ridge defects for implant placement using mandibular bone grafts]] |
 | [[mizraji-2023-barrier-membranes-gbr-overview|Membrane barriers for guided bone regeneration: An overview of available biomaterials]] |
 | [[monje-2014-feasibility-utilizing-allogeneic-bone-blocks|On the Feasibility of Utilizing Allogeneic Bone Blocks for Atrophic Maxillary Augmentation]] |
+| [[monje-2026-use-of-cells-and-or|Use of cells and/or biologics combined with scaffolds in alveolar bone augmentation for implant site development]] |
 | [[nemcovsky-2002-buccal-dehiscence-immediate-delayed-late-maxillary-implant|Comparative study of buccal dehiscence defects in immediate, delayed, and late maxillary implant placement with collagen membranes: clinical healing between placement and second-stage surgery]] |
 | [[nunn-2024-novel-alloplast-carbonate-apatite-granules|A systematic review of a novel alloplast carbonate apatite granules]] |
 | [[oh-2026-narrow-alveolar-ridge-splitting-miniplates|Management of Narrow Alveolar Ridges Using a Modified Multistaged Alveolar Ridge-Splitting Technique with Miniplates and Screws: A Case Series]] |
@@ -112,8 +123,10 @@ tags: [navigation, category-index, bone-regeneration]
 | [[seiler-2026-resorbable-scaffolds-alveolar-ridge-augmentation-sr|Resorbable scaffolds for alveolar ridge augmentation procedures: A systematic review]] |
 | [[sethi-2020-onlay-bone-grafts-iliac-crest-retrospective|Onlay bone grafts from iliac crest: a retrospective analysis]] |
 | [[simion-1992-jawbone-enlargement-split-crest-gtr|Jawbone enlargement using immediate implant placement associated with a split-crest technique and guided tissue regeneration]] |
+| [[smidt-2019-ossix-volumax-lateral-ridge-augmentation|A nouveau collagen scaffold to simplify lateral augmentation of deficient ridges between natural teeth]] |
 | [[son-2026-plga-membrane-horizontal-ridge-gbr-prospective|Simultaneous implant placement with guided bone regeneration for horizontal ridge augmentation using a 3D-preformed resorbable PLGA membrane: A prospective single-arm clinical study]] |
 | [[sousa-2026-distinct-healing-dynamics-xenograft|Distinct healing dynamics associated with xenograft selection in guided bone regeneration]] |
+| [[spanninga-2025-clinical-efficacy-and-safety-of|Clinical efficacy and safety of P-15 peptide enhanced bone graft substitute in surgical bone regenerative procedures in adult maxillofacial, spine, and trauma patients: a systematic literature review]] |
 | [[stephan-1999-anorganic-bovine-bone-osteoblastic-attachment|Anorganic Bovine Bone Supports Osteoblastic Cell Attachment and Proliferation]] |
 | [[stricker-2021-resorption-retromolar-bone-grafts|Resorption of retromolar bone grafts after alveolar ridge augmentation—volumetric changes after 12 months assessed by CBCT analysis]] |
 | [[sun-2025-3d-printed-scaffold-bone-defect-repair|Advances in 3D-printed scaffold technologies for bone defect repair: materials, biomechanics, and clinical prospects]] |
