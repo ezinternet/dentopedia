@@ -14,6 +14,8 @@ source_url: https://pubmed.ncbi.nlm.nih.gov/21557757/
 
 Ossix Volumax 서베일런스 2026-10-22. JCP에 발표된 임상 파일럿 RCT — 리보스 가교 콜라겐 멤브레인(RCLM, Ossix Plus)이 비가교 멤브레인 대비 측방 골증대에서 유의하게 더 많은 골량을 달성. GLYMATRIX 플랫폼의 임상 효과를 확인하는 핵심 RCT.
 
+→ [[bone-regeneration/friedmann-2011-rct-cross-linked-vs-non-crosslinked-lateral-augmentation]]
+
 ## Three-line Summary
 
 Randomized pilot RCT (University of Witten, J Clin Periodontol 38(7):677-685, 2011) comparing ribose cross-linked collagen membrane (RCLM, Ossix Plus, n=17) vs non-cross-linked collagen membrane (n=20) for one-stage lateral bone augmentation at peri-implant dehiscence defects using biphasic calcium phosphate, with morphometric assessment at 6 months via customized casts.
