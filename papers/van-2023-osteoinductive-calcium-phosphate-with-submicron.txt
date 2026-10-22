@@ -1,0 +1,59 @@
+TITLE: Osteoinductive calcium phosphate with submicron topography as bone graft substitute for maxillary sinus floor augmentation: A translational study.
+AUTHORS: van Dijk LA, Janssen NG, Nurmohamed SJ, Muradin MSM, Longoni A, Bakker RC, de Groot FG, de Bruijn JD, Gawlitta D, Rosenberg AJWP
+JOURNAL: Clin Oral Implants Res
+YEAR: 2023
+DATE: 2023-01-27
+DOI: 10.1111/clr.14028
+PMID: 36645164
+SOURCE: PubMed abstract record (closed access — no OA full text located via PMC/Unpaywall/OpenAlex)
+NOTE: abstract-only — full text not retrieved. Page must carry `full_text: false` and an abstract-only caveat.
+
+----- ABSTRACT -----
+Clin Oral Implants Res. 2023 Mar;34(3):177-195. doi: 10.1111/clr.14028. Epub 
+2023 Jan 27.
+
+Osteoinductive calcium phosphate with submicron topography as bone graft 
+substitute for maxillary sinus floor augmentation: A translational study.
+
+van Dijk LA(1)(2)(3), Janssen NG(1), Nurmohamed SJ(1), Muradin MSM(1), Longoni 
+A(1)(2), Bakker RC(1), de Groot FG(3), de Bruijn JD(3)(4), Gawlitta D(1)(2), 
+Rosenberg AJWP(1).
+
+Author information:
+(1)Department of Oral and Maxillofacial Surgery, University Medical Center 
+Utrecht, Utrecht, the Netherlands.
+(2)Regenerative Medicine Center Utrecht, Utrecht, the Netherlands.
+(3)Kuros Biosciences BV, Bilthoven, the Netherlands.
+(4)School of Materials Science and Engineering, Queen Mary University of London, 
+London, UK.
+
+OBJECTIVES: The aim of this study was the preclinical and clinical evaluation of 
+osteoinductive calcium phosphate with submicron surface topography as a bone 
+graft substitute for maxillary sinus floor augmentation (MSFA).
+MATERIAL AND METHODS: A preclinical sheep model of MSFA was used to compare a 
+calcium phosphate with submicron needle-shaped topography (BCPN , MagnetOs 
+Granules, Kuros Biosciences BV) to a calcium phosphate with submicron 
+grain-shaped topography (BCPG ) and autologous bone graft (ABG) as controls. 
+Secondly, a 10-patient, prospective, randomized, controlled trial was performed 
+to compare BCPN to ABG in MSFA with two-stage implant placement.
+RESULTS: The pre-clinical study demonstrated that both BCPN and BCPG were highly 
+biocompatible, supported bony ingrowth with direct bone apposition against the 
+material, and exhibited bone formation as early as 3 weeks post-implantation. 
+However, BCPN demonstrated significantly more bone formation than BCPG at the 
+study endpoint of 12 weeks. Only BCPN reached an equivalent amount of bone 
+formation in the available space and a greater proportion of calcified material 
+(bone + graft material) in the maxillary sinus compared to the "gold standard" 
+ABG after 12 weeks. These results were validated in a small prospective clinical 
+study, in which BCPN was found comparable to ABG in implant stability, bone 
+height, new bone formation in trephine core biopsies, and overall clinical 
+outcome.
+CONCLUSION: This translational work demonstrates that osteoinductive calcium 
+phosphates are promising bone graft substitutes for MSFA, whereas their 
+bone-forming potential depends on the design of their surface features. 
+Netherlands Trial Register, NL6436.
+
+© 2023 The Authors. Clinical Oral Implants Research published by John Wiley & 
+Sons Ltd.
+
+DOI: 10.1111/clr.14028
+PMID: 36645164 [Indexed for MEDLINE]
