@@ -12,6 +12,8 @@ full_text: true
 pmid: 38024227
 pmc: PMC10654452
 license: CC BY-NC-ND 4.0
+pdf_path: /Users/oracleneo/llm-wiki/papers/huang-2024-biomaterial-scaffolds-maxillofacial-bone-te.pdf
+pdf_filename: huang-2024-biomaterial-scaffolds-maxillofacial-bone-te.pdf
 tags:
   - bone-tissue-engineering
   - scaffold
