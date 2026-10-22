@@ -95,7 +95,7 @@ note: "hygienist-education 스킬 산출 퀴즈. 문항은 위키 근거로 LLM 
   body{{margin:0;background:var(--bg);color:var(--txt);
     font-family:'Noto Sans KR',system-ui,sans-serif;line-height:1.55;}}
   .wrap{{max-width:760px;margin:0 auto;padding:26px 18px 80px;}}
-  h1{{font-weight:900;font-size:1.6rem;margin:.2em 0 .1em;}}
+  h1{{font-weight:900;font-size:1.76rem;margin:.2em 0 .1em;}}
   .sub{{color:var(--dim);font-size:.92rem;margin-bottom:16px;}}
   .bar{{height:8px;background:var(--panel);border-radius:20px;overflow:hidden;margin:14px 0 22px;}}
   .bar > i{{display:block;height:100%;width:0;background:var(--accent);transition:width .3s;}}
@@ -117,7 +117,7 @@ note: "hygienist-education 스킬 산출 퀴즈. 문항은 위키 근거로 LLM 
   .rat a{{color:var(--accent);text-decoration:none;}}
   .score{{position:sticky;bottom:0;background:var(--panel);border:1px solid var(--line);
     border-radius:12px;padding:14px 18px;text-align:center;font-weight:700;margin-top:8px;}}
-  .score .big{{font-size:1.5rem;color:var(--accent);}}
+  .score .big{{font-size:1.65rem;color:var(--accent);}}
   .reset{{margin-top:12px;background:var(--chip);border:1px solid var(--line);
     color:var(--txt);border-radius:8px;padding:9px 16px;cursor:pointer;font-family:inherit;}}
   .foot{{margin-top:26px;color:var(--dim);font-size:.78rem;text-align:center;}}
