@@ -5210,3 +5210,14 @@ tags: []
 - [[drug/systemic-disease/shen-2017-acc-aha-hrs-guideline]] — Shen 2017 · consensus · 2017 ACC/AHA/HRS 실신 지침(서지 레코드만 확보): 반사성 vs 심장성 실신 감별과 단기·장기 위험층화 프레임만 제공하며 권고등급·LOE는 원문 미확보로 미기재 (abstract-only)
 
 > 스킵 1편: PMID 40729568 (McAllister 2025, Am J Ther) — PubMed 레코드에 초록·본문이 없어 추출 가능한 내용 0. 재시도하려면 원문 PDF 필요.
+
+## Batch ingest (added 2026-10-23) — vasovagal-syncope Tier B (7편: 기전·예방 술기)
+
+### drug/systemic-disease
+- [[drug/systemic-disease/rashad-2013-extraction-bradycardia-a-pilot-case]] — Rashad 2013 · prospective(case-crossover, n=61) · 하악 단순 발치 환자의 심박수 88.4±14.1 → 86.1±13.4 → 81.4±11.4 bpm(세 쌍 모두 p=0.000), 선행 상승 없는 단조 하강 → 이상성 미주신경 반사보다 말초 삼차신경-심장 반사 쪽 지지(대조군·혈압 없음)
+- [[drug/systemic-disease/agarwal-2022-trigeminocardiac-reflex-during-maxillary-third]] — Agarwal 2022 · case-report · 상악 제3대구치 발치 중 삼차신경-심장 반사 2예: 맥박 33–42/분·혈압 90/70, 및 맥박 촉지 불가·무호흡 → 15–40분 내 자연 회복, 아트로핀 불필요; VVS와 달리 원인이 구심성 CN V2/V3 자극이라 '자극 중단'이 1차 치료
+- [[drug/systemic-disease/arakeri-2010-trigeminocardiac-reflex-hypothesis-syncope-extraction]] — Arakeri 2010 · narrative-review · 국소마취 하 상악 대구치 발치 실신을 TCR로 설명하는 최초 가설 논문 (abstract-only, 증거 아님 — 가설의 출처로만 인용)
+- [[drug/systemic-disease/bhagat-2023-leg-raise-leg-fold-maneuver-syncope-extraction]] — Bhagat 2023 · prospective(pilot, n=30) · 다리 들기·접기 술기 교육군 실신 0/15 vs 대조군 5/15(33.3%, p=0.014), 어지럼 3/15 vs 9/15(p=0.025); 비눈가림·나이 불균형(p=0.026) 미보정
+- [[drug/systemic-disease/gebhardt-2019-anxiolytic-premedication-vasovagal-reactions]] — Gebhardt 2019 · retrospective(외래 척수마취 2,747명) · 항불안 전처치(미다졸람 1–2 mg IV) 시 미주신경성 반응 15.0%→7.5%(P<0.0001), 퇴원 준비 지연 없음 — 비치과 코호트, 치과는 외삽
+- [[drug/systemic-disease/shiraishi-2023-lidocaine-tape-application-prevent-vasovagal]] — Shiraishi 2023 · case-report · 정맥 천자 VVS 재발 2예에서 3시간 전 60% 리도카인 테이프로 VVS 없이 IV 확보; 대조군·정량자료 없고 대상은 진정용 천자(치과 LA 주사 아님) (abstract-only)
+- [[drug/systemic-disease/kawauchi-2025-vasovagal-syncope-with-sinus-arrest]] — Kawauchi 2025 · case-report · 22G 천자 중 서맥 시작 약 45초 후 동정지 + 3–5초 강직성 발작 2회(SBP 일시 76 mmHg), 흉부압박+아트로핀 0.5 mg으로 약 45초 만에 회복, 30–40/분 서맥은 에페드린 5 mg으로 안정; 정신과 5제 병용 — '양성' 통념의 반례 (PMC full text)
