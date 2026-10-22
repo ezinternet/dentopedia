@@ -37,13 +37,13 @@ tags: [third-molar, decision-tree, analgesics, corticosteroid, NSAID, prescribin
 <style>
 *{box-sizing:border-box;margin:0;padding:0}
 body{font-family:-apple-system,BlinkMacSystemFont,'Helvetica Neue',sans-serif;color:#1a1a18;background:#f5f4f0;padding:1.5rem}
-h1{font-size:18px;font-weight:500;margin-bottom:4px}
-.subtitle{font-size:12px;color:#888780;margin-bottom:1.5rem}
+h1{font-size:20px;font-weight:500;margin-bottom:4px}
+.subtitle{font-size:14px;color:#888780;margin-bottom:1.5rem}
 .wrap{display:flex;flex-direction:column;gap:0}
-.node{border-radius:8px;padding:10px 14px;font-size:13px;line-height:1.5;position:relative}
-.node-q{background:#f1efe8;border:1px solid #b4b2a9;font-weight:500;font-size:13px}
-.node-q .label{font-size:10px;font-weight:400;color:#888780;text-transform:uppercase;letter-spacing:.04em;margin-bottom:2px}
-.badge{display:inline-block;padding:2px 7px;border-radius:10px;font-size:11px;font-weight:500;white-space:nowrap;margin-right:3px}
+.node{border-radius:8px;padding:10px 14px;font-size:15.5px;line-height:1.5;position:relative}
+.node-q{background:#f1efe8;border:1px solid #b4b2a9;font-weight:500;font-size:15.5px}
+.node-q .label{font-size:12px;font-weight:400;color:#888780;text-transform:uppercase;letter-spacing:.04em;margin-bottom:2px}
+.badge{display:inline-block;padding:2px 7px;border-radius:10px;font-size:13px;font-weight:500;white-space:nowrap;margin-right:3px}
 .b-green{background:#EAF3DE;color:#3B6D11}
 .b-blue{background:#E6F1FB;color:#185FA5}
 .b-amber{background:#FAEEDA;color:#854F0B}
@@ -51,25 +51,25 @@ h1{font-size:18px;font-weight:500;margin-bottom:4px}
 .b-gray{background:#f1efe8;color:#5f5e5a}
 .branch-row{display:flex;gap:12px;margin-top:0}
 .branch{flex:1;display:flex;flex-direction:column;gap:0}
-.branch-label{font-size:11px;font-weight:500;padding:3px 10px;border-radius:6px 6px 0 0;text-align:center}
+.branch-label{font-size:13px;font-weight:500;padding:3px 10px;border-radius:6px 6px 0 0;text-align:center}
 .bl-yes{background:#EAF3DE;color:#27500A}
 .bl-no{background:#FCEBEB;color:#791F1F}
 .bl-neutral{background:#f1efe8;color:#5f5e5a}
 .drug-box{background:#fff;border:0.5px solid #d3d1c7;border-radius:8px;padding:9px 12px}
 .drug-box.highlight{border-color:#1D9E75;border-width:1.5px}
-.drug-name{font-size:12px;font-weight:500;margin-bottom:4px}
-.drug-detail{font-size:11px;color:#5f5e5a;line-height:1.5}
-.ref{font-size:10px;color:#888780;margin-top:3px;font-style:italic}
+.drug-name{font-size:14px;font-weight:500;margin-bottom:4px}
+.drug-detail{font-size:13px;color:#5f5e5a;line-height:1.5}
+.ref{font-size:12px;color:#888780;margin-top:3px;font-style:italic}
 .out-row{display:flex;gap:10px}
 .out-col{flex:1}
 .section-gap{height:20px}
-.step-label{font-size:10px;color:#888780;text-transform:uppercase;letter-spacing:.05em;margin-bottom:8px;font-weight:500}
+.step-label{font-size:12px;color:#888780;text-transform:uppercase;letter-spacing:.05em;margin-bottom:8px;font-weight:500}
 .connector{height:12px;display:flex;align-items:center;justify-content:center}
 .connector::before{content:'';display:block;width:1px;height:100%;background:#b4b2a9}
 .fork-stem{height:10px;display:flex;justify-content:center}
 .fork-stem::before{content:'';display:block;width:1px;background:#b4b2a9}
 .spacer{height:10px}
-.sources{margin-top:1.5rem;padding-top:1rem;border-top:0.5px solid #d3d1c7;font-size:11px;color:#888780;line-height:1.6}
+.sources{margin-top:1.5rem;padding-top:1rem;border-top:0.5px solid #d3d1c7;font-size:13px;color:#888780;line-height:1.6}
 </style>
 </head>
 <body>
@@ -83,7 +83,7 @@ h1{font-size:18px;font-weight:500;margin-bottom:4px}
 <div class="node node-q">
   <div class="label">금기 스크리닝</div>
   코르티코스테로이드(Corticosteroid) 금기가 있는가?<br>
-  <span style="font-size:11px;color:#5f5e5a">(조절 안 된 DM, 활동성 감염, 위궤양, 면역억제, 임신 1/3분기)</span>
+  <span style="font-size:13px;color:#5f5e5a">(조절 안 된 DM, 활동성 감염, 위궤양, 면역억제, 임신 1/3분기)</span>
 </div>
 
 <div class="branch-row" style="margin-top:0">
@@ -166,7 +166,7 @@ h1{font-size:18px;font-weight:500;margin-bottom:4px}
 <div class="node node-q">
   <div class="label">병용 결정</div>
   비스테로이드성 항염제(NSAIDs) 병용이 가능한가?<br>
-  <span style="font-size:11px;color:#5f5e5a">(신기능 정상, 위장 문제 없음, 혈소판 기능 이상 없음, 출혈 위험 낮음)</span>
+  <span style="font-size:13px;color:#5f5e5a">(신기능 정상, 위장 문제 없음, 혈소판 기능 이상 없음, 출혈 위험 낮음)</span>
 </div>
 <div class="spacer"></div>
 
