@@ -2,7 +2,7 @@
 title: "상악동거상술·측방 — lateral"
 authors: navigation
 year: 2026
-date: 2026-10-21
+date: 2026-10-22
 doi: N/A
 source: navigation
 category: sinus-lift/lateral
@@ -15,20 +15,20 @@ tags: [navigation, category-index, lateral]
 > [!summary] 한국어 핵심요약
 > - **분야**: 상악동거상술·측방
 > - **범위**: Lateral window approach, membrane, grafting materials
-> - **수록 논문**: 102편
+> - **수록 논문**: 106편
 
 ## Three-line Summary
 
 **Scope**: Lateral window approach, membrane, grafting materials
-**Indexed papers**: 102 papers in `wiki/sinus-lift/lateral/`.
+**Indexed papers**: 106 papers in `wiki/sinus-lift/lateral/`.
 
 ## 세줄요약
 
 **분야**: 상악동거상술·측방
-**수록 논문**: 102편
+**수록 논문**: 106편
 **하위 카테고리**: 없음
 
-## Papers in this Category (102)
+## Papers in this Category (106)
 
 | Paper |
 |---|
@@ -52,8 +52,10 @@ tags: [navigation, category-index, lateral]
 | [[estrin-2025-extended-prf-lateral-window-sinus|Extended Platelet-Rich Fibrin as a Membrane for Lateral Window Sinus Lifts: A Case Series]] |
 | [[felisati-2012-late-recovery-foreign-body-sinusitis|Late recovery from foreign body sinusitis after maxillary sinus floor augmentation]] |
 | [[gai-2026-tapered-cylindrical-lsfe-isq-rct|Tapered vs Cylindrical Implants at Simultaneous Lateral Sinus Elevation: ISQ RCT]] |
+| [[galindomoreno-2022-maxillary-sinus-floor-augmentation-comparing|Maxillary sinus floor augmentation comparing bovine versus porcine bone xenografts mixed with autogenous bone graft. A split-mouth randomized controlled trial]] |
 | [[gulbey-2026-osteomeatal-complex-variations-maxillary|Association Between Osteomeatal Complex Variations and Maxillary Sinus Membrane Thickness: A CBCT Study]] |
 | [[gulec-2025-psaa-cbct-maxillary-sinus-anatomy|Evaluation of maxillary sinus pathologies and the posterior superior alveolar artery canal using cone-beam computed tomography]] |
+| [[harlos-2022-histomorphometric-evaluation-of-different-graft|Histomorphometric evaluation of different graft associations for maxillary sinus elevation in wide antral cavities: a randomized controlled clinical trial.]] |
 | [[hegde-2016-sinus-augmentation-membrane-elevation-sr|Maxillary sinus augmentation using sinus membrane elevation without grafts - A Systematic Review]] |
 | [[henriques-2022-maxillary-sinus-septa-prevalence-sr-ma|Prevalence of maxillary sinus septa: systematic review and meta-analysis]] |
 | [[hong-2017-novel-approach-to-the-maxillary|Novel approach to the maxillary sinusitis after sinus graft]] |
@@ -71,6 +73,7 @@ tags: [navigation, category-index, lateral]
 | [[kim-2026-collagen-membrane-fibrin-sinus-perforation|Resorbable Collagen Membrane and Fibrin Glue Application with a Handle Design for Repairing Sinus Membrane Perforation]] |
 | [[koleilat-2023-prf-collagen-sinus-membrane-repair|A Combination of Platelet-Rich Fibrin and Collagen Membranes for Sinus Membrane Repair: A Case Report]] |
 | [[kozuma-2017-chronic-sinusitis-sinus-augmentation-infection|Preoperative Chronic Sinusitis as Significant Cause of Postoperative Infection and Implant Loss After Sinus Augmentation from a Lateral Approach]] |
+| [[krennmair-2024-maxillary-sinus-augmentation-with-anorganic|Maxillary Sinus Augmentation with Anorganic Bovine Bone Mineral of Different Particle Sizes: A Split-Mouth Study with Histomorphometric, Radiographic, and Clinical Analyses]] |
 | [[lee-2020-cbct-inferior-maxillary-sinus-3d-evaluation|Three-dimensional CBCT based evaluation of the inferior part of the maxillary sinus: Retrospective Study]] |
 | [[lee-2020-msmt-mod-ratio-sinus-augmentation-risk|An Anatomic Study on the Maxillary Sinus Mucosal Thickness and the Distance between the Maxillary Sinus Ostium and Sinus Floor for the Maxillary Sinus Augmentation]] |
 | [[lee-2023-impact-sinus-floor-elevation-techniques|The Impact of Sinus Floor Elevation Techniques on Sinus Membrane Perforation: A Systematic Review and Network Meta-analysis]] |
@@ -124,6 +127,7 @@ tags: [navigation, category-index, lateral]
 | [[trimmel-2021-relative-performance-various-biomaterials|Relative performance of various biomaterials used for maxillary sinus augmentation: A Bayesian network meta-analysis]] |
 | [[turker-2026-maxillary-sinus-septa-perforation-risk|Evaluation of maxillary sinus septa and predicted Schneiderian membrane perforation risk: a cone beam computed tomography study]] |
 | [[vaddi-2021-available-height-location-patency-ostium|Evaluation of available height, location, and patency of the ostium for sinus augmentation from an implant treatment planning perspective]] |
+| [[van-2023-osteoinductive-calcium-phosphate-with-submicron|Osteoinductive calcium phosphate with submicron topography as bone graft substitute for maxillary sinus floor augmentation: A translational study.]] |
 | [[wallace-2003-effect-maxillary-sinus-augmentation-survival|Effect of maxillary sinus augmentation on the survival of endosseous dental implants. A systematic review.]] |
 | [[wang-2023-smoking-schneiderian-membrane-perforation-sinus|Association between smoking and Schneiderian membrane perforation during maxillary sinus floor augmentation: A systematic review and meta-analysis]] |
 | [[wen-2023-lateral-sinus-floor-defects-retrospective|Lateral sinus floor elevation in patients with sinus floor defects: A retrospective study with a 1- to 9-year follow-up]] |
