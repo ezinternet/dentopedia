@@ -205,32 +205,32 @@ def render_portal(role_id, role):
   --sans:"IBM Plex Sans KR","Apple SD Gothic Neo","Noto Sans KR",system-ui,sans-serif;
   --serif:"Nanum Myeongjo","Apple Myungjo",Georgia,serif;}}
 *{{box-sizing:border-box;margin:0;padding:0;}}
-body{{background:var(--paper);color:var(--ink);font-family:var(--sans);font-size:15px;line-height:1.65;-webkit-font-smoothing:antialiased;}}
+body{{background:var(--paper);color:var(--ink);font-family:var(--sans);font-size:17.5px;line-height:1.65;-webkit-font-smoothing:antialiased;}}
 .page{{max-width:640px;margin:0 auto;padding:0 0 60px;}}
 header.hero{{background:var(--acc);color:#fff;padding:28px 24px 22px;}}
-.hero-eyebrow{{font-size:11px;letter-spacing:.12em;text-transform:uppercase;opacity:.7;margin-bottom:4px;}}
-.hero-role{{font-family:var(--serif);font-size:28px;font-weight:800;line-height:1.2;margin-bottom:4px;}}
-.hero-sub{{font-size:14px;opacity:.8;}}
-.hero-date{{font-size:12px;opacity:.55;margin-top:6px;}}
+.hero-eyebrow{{font-size:13px;letter-spacing:.12em;text-transform:uppercase;opacity:.7;margin-bottom:4px;}}
+.hero-role{{font-family:var(--serif);font-size:31px;font-weight:800;line-height:1.2;margin-bottom:4px;}}
+.hero-sub{{font-size:16.5px;opacity:.8;}}
+.hero-date{{font-size:14px;opacity:.55;margin-top:6px;}}
 .quick-links{{display:flex;gap:8px;flex-wrap:wrap;padding:16px 20px;background:var(--acc-s);border-bottom:1px solid var(--line);}}
-.quick-link{{font-size:13px;color:var(--acc);background:var(--panel);border:1px solid var(--acc);padding:5px 12px;text-decoration:none;border-radius:3px;font-weight:500;white-space:nowrap;}}
+.quick-link{{font-size:15.5px;color:var(--acc);background:var(--panel);border:1px solid var(--acc);padding:5px 12px;text-decoration:none;border-radius:3px;font-weight:500;white-space:nowrap;}}
 .quick-link:hover{{background:var(--acc);color:#fff;}}
-.section-title{{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink3);padding:20px 20px 8px;font-weight:600;}}
+.section-title{{font-size:15.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink3);padding:20px 20px 8px;font-weight:600;}}
 .cards{{display:grid;grid-template-columns:1fr 1fr;gap:1px;background:var(--line);}}
 @media(max-width:480px){{.cards{{grid-template-columns:1fr;}}}}
 .page-card{{background:var(--panel);padding:16px 18px 14px;text-decoration:none;color:inherit;display:block;}}
 .page-card:hover{{background:#f0f4f8;}}
 .pc-head{{display:flex;gap:6px;align-items:center;margin-bottom:7px;flex-wrap:wrap;}}
-.badge{{font-size:11px;font-weight:600;padding:2px 7px;border-radius:3px;background:var(--acc);color:#fff;}}
-.cat-lbl{{font-size:11px;color:var(--acc);background:var(--acc-s);padding:2px 7px;border-radius:3px;}}
-.pc-title{{font-size:14px;font-weight:600;line-height:1.45;margin-bottom:6px;color:var(--ink);}}
-.pc-ko{{font-size:13px;color:var(--ink2);line-height:1.6;}}
+.badge{{font-size:13px;font-weight:600;padding:2px 7px;border-radius:3px;background:var(--acc);color:#fff;}}
+.cat-lbl{{font-size:13px;color:var(--acc);background:var(--acc-s);padding:2px 7px;border-radius:3px;}}
+.pc-title{{font-size:16.5px;font-weight:600;line-height:1.45;margin-bottom:6px;color:var(--ink);}}
+.pc-ko{{font-size:15.5px;color:var(--ink2);line-height:1.6;}}
 .ov-list{{display:flex;flex-direction:column;gap:1px;background:var(--line);}}
 .ov-card{{background:var(--panel);padding:14px 20px 12px;text-decoration:none;color:inherit;border-left:3px solid var(--acc);display:block;}}
 .ov-card:hover{{background:#f0f4f8;}}
-.ov-title{{font-size:14.5px;font-weight:600;color:var(--ink);margin-bottom:5px;line-height:1.4;}}
-.ov-ko{{font-size:13px;color:var(--ink2);line-height:1.6;}}
-.footer{{padding:20px 20px 0;font-size:12px;color:var(--ink3);}}
+.ov-title{{font-size:17px;font-weight:600;color:var(--ink);margin-bottom:5px;line-height:1.4;}}
+.ov-ko{{font-size:15.5px;color:var(--ink2);line-height:1.6;}}
+.footer{{padding:20px 20px 0;font-size:14px;color:var(--ink3);}}
 .footer a{{color:var(--acc);}}
 </style>
 </head>
