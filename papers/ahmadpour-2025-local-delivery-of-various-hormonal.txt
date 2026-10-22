@@ -1,0 +1,58 @@
+TITLE: Local Delivery of Various Hormonal Drugs Along With Bone Grafts to Improve Osteogenesis: A Systematic Review.
+AUTHORS: Ahmadpour E, Azizi B, Zarei S, Azizi H, Javadi S, Hagh EJ, Ahmadpour F
+JOURNAL: J Craniofac Surg
+YEAR: 2025
+DATE: 2025-04-14
+DOI: 10.1097/scs.0000000000010310
+PMID: 40214305
+SOURCE: PubMed abstract record (closed access — no OA full text located via PMC/Unpaywall/OpenAlex)
+NOTE: abstract-only — full text not retrieved. Page must carry `full_text: false` and an abstract-only caveat.
+
+----- ABSTRACT -----
+J Craniofac Surg. 2025 Jun 1;36(4):1189-1195. doi:
+10.1097/SCS.0000000000010310.  Epub 2025 Apr 14.
+
+Local Delivery of Various Hormonal Drugs Along With Bone Grafts to Improve 
+Osteogenesis: A Systematic Review.
+
+Ahmadpour E(1), Azizi B(2), Zarei S(3), Azizi H(4), Javadi S(5), Hagh EJ(6), 
+Ahmadpour F(2).
+
+Author information:
+(1)Department of Microbiology and Laboratory Sciences, Paramedical Faculty, 
+Tabriz Azad University of Medical Sciences.
+(2)Department of Pediatric Dentistry, Faculty of Dentistry, Tabriz University of 
+Medical Sciences.
+(3)Department of Oral and Maxillofacial Surgery, Faculty of Dentistry, Tabriz 
+University of Medical Sciences.
+(4)Women's Reproductive Health Research Center, Al-Zahra Hospital.
+(5)Department of General Surgery, Medical Faculty, Tabriz Azad University of 
+Medical Sciences.
+(6)Department of Internal Medicine, Faculty of Medicine, Tabriz University of 
+Medical Sciences.
+
+This review aimed to investigate the effect of local delivery of various 
+hormonal drugs and bone grafts to improve osteogenesis. The study included a 
+systematic literature search covering the time period from 1970 to December 2023 
+using PubMed following Preferred Reporting Items for Systematic Reviews and 
+Meta-Analyses guidelines. A structured search was performed to identify in vivo 
+and in vitro studies. In total, 22 studies were covered after screening the 
+articles based on title and abstract. All of the studies included were animal in 
+vivo studies or in vitro studies and used parathyroid hormone (PTH), growth 
+hormone (GH), and calcitonin. In addition, 87.5% of the studies that used GH 
+reported better outcomes than the control groups; and 66.7% of the studies that 
+used PTH achieved superior outcomes compared to the control group. Moreover, 60% 
+of the studies that used calcitonin achieved superior outcomes compared to the 
+control group. The findings indicated that locally administered hormonal drugs 
+may positively affect osteogenesis in vivo and in vitro. This is especially true 
+for PTH in the healing of surgical bone defects and peri-implant response and 
+for GH in peri-implant bone response. Locally administered hormonal drugs may 
+stimulate bone healing in surgical bone defects and enhance peri-implant bone 
+response.
+
+Copyright © 2025 by Mutaz B. Habal, MD.
+
+DOI: 10.1097/SCS.0000000000010310
+PMID: 40214305 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors report no conflicts of interest.
