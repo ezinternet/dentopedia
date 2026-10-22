@@ -17,6 +17,8 @@ Labial bundle bone 흡수 서베일런스 2026-10-21. The wiki has excellent cov
 
 Full text returned empty via PMC MCP (pmc PMC6728586 empty body). Built from abstract and metadata.
 
+→ [[bone-biology/yuan-2018-wnt-pdl-extraction-socket-healing]]
+
 ## Three-line Summary
 
 Lineage-tracing mouse study (Stanford, J Dent Res 2018) identifying a quiescent, Wnt-responsive progenitor population in the PDL that is activated by tooth extraction, migrates from PDL remnants attached to bundle bone into the socket space, upregulates osteogenic proteins, and differentiates into osteoblasts to form new bone — establishing that the PDL–bundle bone interface is the primary cellular source of socket osteogenesis.
