@@ -16,6 +16,8 @@ source_url: https://pubmed.ncbi.nlm.nih.gov/22680300/
 
 GLYMATRIX 플랫폼 확장 서베일런스 2026-10-22. **발치와 보존 (socket preservation / ridge preservation)** 에서 GLYMATRIX 당가교 이식재 + Ossix Plus 멤브레인(Protocol 2) vs 일반 이종골 + 비가교 멤브레인(Protocol 1) 조직학적 결과를 비교한 최초 RCT. Protocol 2에서 활성골 47% vs 33% (P<0.001).
 
+→ [[bone-regeneration/cook-2012-ridge-preservation-glymatrix-rct]]
+
 ## Three-line Summary
 
 RCT (University of Texas Health Science Center at San Antonio, J Periodontol 84(5):585-594, 2012) comparing two ridge preservation protocols in 44 patients following non-molar tooth extraction: **Protocol 1** (bovine xenograft 90% anorganic bone + 10% porcine collagen fibers / non-cross-linked bilayer collagen membrane) vs **Protocol 2** (cross-linked bovine collagen sponge 70% + non-sintered hydroxyapatite / ribose-glycation cross-linked porcine type I collagen membrane = GLYMATRIX platform), with core biopsy histology at 21 weeks.
