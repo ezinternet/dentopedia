@@ -2,7 +2,7 @@
 title: "치주치료 — periodontics"
 authors: navigation
 year: 2026
-date: 2026-10-21
+date: 2026-10-22
 doi: N/A
 source: navigation
 category: periodontics
@@ -16,21 +16,21 @@ tags: [navigation, category-index, periodontics]
 > - **분야**: 치주치료
 > - **범위**: Periodontal disease, classification, regeneration/root-coverage, SPT, periodontal-systemic links, general periodontics not covered by a subcategory.
 > - **하위 카테고리**: [[host-modulation]] · [[non-surgical-instrumentation]] · [[oral-hygiene-instruction]]
-> - **수록 논문**: 80편
+> - **수록 논문**: 81편
 
 ## Three-line Summary
 
 **Scope**: Periodontal disease, classification, regeneration/root-coverage, SPT, periodontal-systemic links, general periodontics not covered by a subcategory.
-**Indexed papers**: 80 papers in `wiki/periodontics/`.
+**Indexed papers**: 81 papers in `wiki/periodontics/`.
 **Sub-categories**: [[host-modulation]], [[non-surgical-instrumentation]], [[oral-hygiene-instruction]]
 
 ## 세줄요약
 
 **분야**: 치주치료
-**수록 논문**: 80편
+**수록 논문**: 81편
 **하위 카테고리**: host-modulation, non-surgical-instrumentation, oral-hygiene-instruction
 
-## Papers in this Category (80)
+## Papers in this Category (81)
 
 | Paper |
 |---|
@@ -78,6 +78,7 @@ tags: [navigation, category-index, periodontics]
 | [[herrera-2025-consensus-report-periodontal-diagnosis|Consensus Report of the 20th European Workshop on Periodontology: Contemporary and Emerging Technologies in Periodontal Diagnosis]] |
 | [[huang-2021-clinical-considerations-orthodontically-forced-eruption|Clinical Considerations in Orthodontically Forced Eruption for Restorative Purposes]] |
 | [[huynh-2016-saline-rinsing-gingival-fibroblast-wound-healing|Rinsing with Saline Promotes Human Gingival Fibroblast Wound Healing In Vitro]] |
+| [[jafari-2026-clinical-efficacy-of-bioactive-glass|Clinical efficacy of bioactive glass in periodontal regeneration: a systematic review and meta-analysis]] |
 | [[jasser-2021-effectiveness-beta-tricalcium-phosphate-comparison|Effectiveness of beta-tricalcium phosphate in comparison with other materials in treating periodontal infra-bony defects around natural teeth: a systematic review and meta-analysis]] |
 | [[jepsen-2018-periodontal-manifestations-of-systemic-diseases|Periodontal manifestations of systemic diseases and developmental and acquired conditions: Consensus report of workgroup 3 of the 2017 World Workshop]] |
 | [[jkda-2025-63-11-005|Evidence-based recommendations for periodontal treatment]] |
