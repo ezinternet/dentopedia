@@ -1,0 +1,61 @@
+TITLE: Maxillary Sinus Augmentation with Anorganic Bovine Bone Mineral of Different Particle Sizes: A Split-Mouth Study with Histomorphometric, Radiographic, and Clinical Analyses.
+AUTHORS: Krennmair G, Schwarze UY, Weinländer M, Forstner T, Malek M, Krennmair S
+JOURNAL: Int J Oral Maxillofac Implants
+YEAR: 2024
+DATE: 2024-06-01
+DOI: 10.11607/jomi.10536
+PMID: 38905116
+SOURCE: PubMed abstract record (closed access — no OA full text located via PMC/Unpaywall/OpenAlex)
+NOTE: abstract-only — full text not retrieved. Page must carry `full_text: false` and an abstract-only caveat.
+
+----- ABSTRACT -----
+Int J Oral Maxillofac Implants. 2024 Jun 21;(3):350-364. doi: 
+10.11607/jomi.10536.
+
+Maxillary Sinus Augmentation with Anorganic Bovine Bone Mineral of Different 
+Particle Sizes: A Split-Mouth Study with Histomorphometric, Radiographic, and 
+Clinical Analyses.
+
+Krennmair G, Schwarze UY, Weinländer M, Forstner T, Malek M, Krennmair S.
+
+PURPOSE: The aim of the present study was to compare the histomorphometrically 
+evaluated new bone formation (NB), the radiographically measured graft 
+stability, and the clinical implant outcome for maxillary sinus augmentation 
+grafted with deproteinized bovine bone mineral (DBBM) with either small 
+(Bio-Oss-S, Geistlich) or large (Bio-Oss-L, Geistlich) particles.
+MATERIALS AND METHODS: Using a split-mouth study design, bilateral maxillary 
+sinus augmentation was performed in 13 patients either with Bio-Oss-S particles 
+(0.25 to 1 mm) or Bio-Oss-L particles (1 to 2 mm). After a healing period of 6 
+months, bone biopsies were axially retrieved in the molar region for 
+histologic/histomorphometric analysis of NB, including subsequent staged implant 
+placement. To determine graft stability, the maxillary sinus augmentation 
+vertical graft heights were radiographically measured immediately after sinus 
+augmentation, at implant placement, and at the 2- and 4-year post-augmentation 
+follow-ups. In addition, the clinical implant-prosthodontic outcome (survival/ 
+success/marginal bone loss) was assessed at 1 and 3 years post-loading.
+RESULTS: A total of 22 sinuses from 11 patients with split-mouth evaluation were 
+ultimately available for data and statistical analysis. Histomorphometric 
+analysis of the axially retrieved bone biopsies revealed the presence of NB (S: 
+25.5% ± 7.0% vs L: 23.6% ± 11.9%; P = .640), residual graft particles (S: 19.6% 
+± 9.2% vs L: 17.5% ± 6.3%; P = .365) as well as connective tissue (S: 54.9% ± 
+9.2% vs L: 58.9% ± 12.5%; P = .283), without significant differences between the 
+use of small (Bio-Oss-S) and large (Bio-Oss-L) particles. However, there was 
+significantly (P = .021) higher bone-to-graft contact (BGC) for the 
+small-particle graft sites (27.9% ± 14.8%) compared to the large-particle graft 
+sites (19.9% ± 12.9%), representing a significantly higher osteoconductivity. 
+Both particle sizes showed significant (P < .01) vertical graft height reduction 
+over time (4 years) of about 10%, with predominant graft reduction in the time 
+period between sinus augmentation and implant placement compared to any 
+follow-up periods after implant placement. At the 3-year post-loading implant 
+evaluation, all implants and prostheses survived (100%), and the peri-implant 
+marginal bone loss (S: 0.52 ± 0.19 mm; L: 0.48 ± 0.15 mm) as well as the 
+peri-implant health conditions (S: 87.5%, L:81.2%) did not differ between 
+implants inserted with the two different xenograft particles used.
+CONCLUSIONS: The use of small and large bovine xenograft particles for maxillary 
+sinus augmentation provides for comparable bone formation, ensuring stable graft 
+dimensions combined with high implant success and healthy peri-implant 
+conditions. However, small particle size resulted in a higher BGC, providing for 
+higher osteoconductivity than with the larger particle size.
+
+DOI: 10.11607/jomi.10536
+PMID: 38905116 [Indexed for MEDLINE]
