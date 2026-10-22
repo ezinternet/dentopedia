@@ -17,6 +17,8 @@ Labial bundle bone 흡수 서베일런스 2026-10-21. The wiki explains *that* b
 
 The paper also introduces a practical intervention (bundle bone perforation) derived from the GBR decortication rationale, with explicit instructions on where to perforate and, crucially, where not to (buccal is off-limits because it is already ≤1 mm cortical with nothing behind it).
 
+→ [[bone-regeneration/ridge-preservation/ulm-2021-bundle-bone-perforation-socket-healing]]
+
 ## Three-line Summary
 
 Technical note + single case (University of Vienna, 2021; Clin Exp Dent Res 8(1):3-8), first describing the structural asymmetry of the alveolar bundle bone that explains why the buccal loses more after extraction, then proposing a perforation technique analogous to GBR decortication to improve vascularization of the socket.
