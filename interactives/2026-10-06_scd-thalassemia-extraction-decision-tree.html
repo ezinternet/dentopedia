@@ -59,8 +59,8 @@ notes: |
   }
 
   header { margin-bottom: 20px; }
-  header h1 { font-size: 20px; font-weight: 700; color: var(--text); margin-bottom: 4px; }
-  header p { font-size: 13px; color: var(--text-sub); }
+  header h1 { font-size: 22px; font-weight: 700; color: var(--text); margin-bottom: 4px; }
+  header p { font-size: 15.5px; color: var(--text-sub); }
 
   .step-wrap { display: none; }
   .step-wrap.active { display: block; }
@@ -75,7 +75,7 @@ notes: |
   }
 
   .card-title {
-    font-size: 13px;
+    font-size: 15.5px;
     font-weight: 600;
     color: var(--text-sub);
     text-transform: uppercase;
@@ -90,7 +90,7 @@ notes: |
     border: 1.5px solid var(--border);
     border-radius: 6px;
     background: var(--surface);
-    font-size: 14px;
+    font-size: 16.5px;
     color: var(--text);
     cursor: pointer;
     transition: border-color 0.15s, background 0.15s;
@@ -106,7 +106,7 @@ notes: |
     gap: 10px;
     padding: 9px 0;
     border-bottom: 1px solid #f0f2f5;
-    font-size: 14px;
+    font-size: 16.5px;
   }
   .checklist li:last-child { border-bottom: none; }
   .checklist li input[type=checkbox] {
@@ -123,7 +123,7 @@ notes: |
     display: inline-block;
     padding: 2px 8px;
     border-radius: 12px;
-    font-size: 11px;
+    font-size: 13px;
     font-weight: 600;
     margin-left: 6px;
     vertical-align: middle;
@@ -136,7 +136,7 @@ notes: |
     border-radius: var(--radius);
     padding: 12px 14px;
     margin-bottom: 10px;
-    font-size: 13.5px;
+    font-size: 16px;
     line-height: 1.55;
   }
   .alert-red { background: var(--red-light); border-left: 3px solid var(--red); color: var(--red); }
@@ -150,7 +150,7 @@ notes: |
   .alert ul li { margin-bottom: 3px; }
 
   .result-section { margin-bottom: 14px; }
-  .result-section h3 { font-size: 14px; font-weight: 700; margin-bottom: 8px; color: var(--text); }
+  .result-section h3 { font-size: 16.5px; font-weight: 700; margin-bottom: 8px; color: var(--text); }
 
   .nav-row {
     display: flex;
@@ -165,7 +165,7 @@ notes: |
     background: var(--surface);
     border: 1.5px solid var(--border);
     border-radius: 6px;
-    font-size: 13px;
+    font-size: 15.5px;
     color: var(--text-sub);
     cursor: pointer;
     font-family: inherit;
@@ -175,7 +175,7 @@ notes: |
     background: var(--blue);
     border: none;
     border-radius: 6px;
-    font-size: 13px;
+    font-size: 15.5px;
     font-weight: 600;
     color: #fff;
     cursor: pointer;
@@ -187,7 +187,7 @@ notes: |
     background: var(--surface);
     border: 1.5px solid var(--blue);
     border-radius: 6px;
-    font-size: 13px;
+    font-size: 15.5px;
     color: var(--blue);
     cursor: pointer;
     font-family: inherit;
@@ -208,7 +208,7 @@ notes: |
   .progress-dot.active { background: var(--blue); box-shadow: 0 0 0 2px var(--blue-light); }
 
   .ref-note {
-    font-size: 11px;
+    font-size: 13px;
     color: #9aa5b4;
     margin-top: 14px;
     padding-top: 10px;
@@ -217,7 +217,7 @@ notes: |
   }
 
   .step-label {
-    font-size: 12px;
+    font-size: 14px;
     color: var(--text-sub);
     margin-bottom: 8px;
   }
@@ -226,7 +226,7 @@ notes: |
     color: var(--blue);
     text-decoration: none;
     border-bottom: 1px dotted var(--blue);
-    font-size: 12px;
+    font-size: 14px;
   }
 
   @media (max-width: 600px) {
@@ -287,7 +287,7 @@ notes: |
 <!-- ── STEP 2: 전신 평가 ── -->
 <div class="step-wrap" id="step2">
   <div class="card">
-    <div class="card-title">Step 3 — 전신 평가 <span style="font-size:11px;color:#9aa5b4;font-weight:400;text-transform:none">(중단 기준 포함)</span></div>
+    <div class="card-title">Step 3 — 전신 평가 <span style="font-size:13px;color:#9aa5b4;font-weight:400;text-transform:none">(중단 기준 포함)</span></div>
     <div id="generalEvalContent"></div>
   </div>
   <div class="nav-row">
@@ -414,7 +414,7 @@ notes: |
 
     var html = '';
 
-    html += '<p style="font-size:13px;color:#c0392b;font-weight:600;margin-bottom:8px;">🛑 중단 기준 — 하나라도 해당하면 해당 조치 후 재평가</p>';
+    html += '<p style="font-size:15.5px;color:#c0392b;font-weight:600;margin-bottom:8px;">🛑 중단 기준 — 하나라도 해당하면 해당 조치 후 재평가</p>';
     html += '<ul class="checklist" id="stopList">';
     stopItems.forEach(function(item, i) {
       html += '<li id="stop_' + i + '">' +
@@ -423,7 +423,7 @@ notes: |
     });
     html += '</ul>';
 
-    html += '<p style="font-size:13px;color:#1a6faf;font-weight:600;margin:14px 0 8px;">✓ 확인 항목 — 진행 전 필수 정보</p>';
+    html += '<p style="font-size:15.5px;color:#1a6faf;font-weight:600;margin:14px 0 8px;">✓ 확인 항목 — 진행 전 필수 정보</p>';
     html += '<ul class="checklist" id="checkList">';
     checkItems.forEach(function(item, i) {
       html += '<li id="check_' + i + '">' +
