@@ -1,0 +1,64 @@
+TITLE: Photobiomodulation enhances osteogenesis in oral and adipose-derived mesenchymal stem cells: A systematic review of in vitro evidence.
+AUTHORS: Hakimiha N, Barzegar Reyhani N, Haddadi A, Aghayan S
+JOURNAL: Photodiagnosis Photodyn Ther
+YEAR: 2025
+DATE: 2025-10-04
+DOI: 10.1016/j.pdpdt.2025.105238
+PMID: 41052564
+SOURCE: PubMed abstract record (closed access — no OA full text located via PMC/Unpaywall/OpenAlex)
+NOTE: abstract-only — full text not retrieved. Page must carry `full_text: false` and an abstract-only caveat.
+
+----- ABSTRACT -----
+Photodiagnosis Photodyn Ther. 2025 Dec;56:105238. doi: 
+10.1016/j.pdpdt.2025.105238. Epub 2025 Oct 4.
+
+Photobiomodulation enhances osteogenesis in oral and adipose-derived mesenchymal 
+stem cells: A systematic review of in vitro evidence.
+
+Hakimiha N(1), Barzegar Reyhani N(2), Haddadi A(3), Aghayan S(4).
+
+Author information:
+(1)Laser Application in Medical Sciences Research Center, Shahid Beheshti 
+University of Medical Sciences, Tehran, Iran.
+(2)DDS, Private Practice, Tehran, Iran. Electronic address: 
+barzegarnegin77@gmail.com.
+(3)School of Dentistry, Islamic Azad University, Tehran Branch, Tehran, Iran.
+(4)Department of Periodontology, TeMS.C., Islamic Azad University, Tehran, Iran. 
+Electronic address: shabnam.aghayan@iau.ac.ir.
+
+OBJECTIVE: Photobiomodulation (PBM), a non-invasive light-based therapy, has 
+gained attention for enhancing osteogenic differentiation in mesenchymal stem 
+cells (MSCs). This systematic review evaluated in vitro evidence regarding PBM 
+effects on the osteogenic differentiation of oral- and adipose-derived human 
+MSCs and aimed to identify effective irradiation parameters.
+METHODS: A systematic search was conducted across PubMed, Scopus, Web of 
+Science, and Google Scholar for studies published up to November 30, 2024. Of 
+1104 initially identified articles, 19 met eligibility criteria. They were 
+assessed for methodological quality using the QUIN tool, and Data on cell 
+source, laser parameters, and osteogenic outcomes were extracted.
+RESULTS: PBM enhanced proliferation and osteogenic differentiation in MSCs, 
+particularly periodontal ligament stem cells (PDLSCs), dental pulp stem cells 
+(DPSCs), and adipose-derived stem cells (ADSCs). Effective wavelengths, 
+associated with statistically significant osteogenic outcomes, ranged from 660 
+to 1064 nm, with energy densities of approximately 2-6 J/cm² showing the most 
+consistent osteogenic responses. Key markers such as ALP, RUNX2, and OCN were 
+upregulated, with enhanced mineralization observed. Mechanistically, PBM 
+activated Wnt/β-catenin, BMP/Smad, and PI3K/Akt signalling pathways. QUIN 
+risk-of-bias assessment indicated low risk in most studies, although some showed 
+medium risk due to incomplete reporting.
+CONCLUSION: PBM appears to be a promising adjunctive strategy to promote 
+osteogenic differentiation in vitro using oral- and adipose-derived MSCs. 
+Nevertheless, methodological heterogeneity in study designs and outcome measures 
+highlights the need for standardized protocols. Further translational and 
+clinical studies are warranted to optimize PBM parameters and validate its 
+therapeutic utility in regenerative dentistry and maxillofacial applications.
+
+Copyright © 2025 The Author(s). Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.pdpdt.2025.105238
+PMID: 41052564 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
