@@ -15,20 +15,20 @@ tags: [navigation, category-index, systemic-disease]
 > [!summary] 한국어 핵심요약
 > - **분야**: 전신질환·약물·전신질환관리
 > - **범위**: Medically compromised patients — diabetes (HbA1c assay & interpretation), cardiovascular disease & perioperative hemodynamics, Sjögren classification criteria, renal/hepatic impairment, polypharmacy, drug–drug interactions, immunosuppression; systemic-disease ↔ oral-disease relationship reviews. The…
-> - **수록 논문**: 46편
+> - **수록 논문**: 48편
 
 ## Three-line Summary
 
 **Scope**: Medically compromised patients — diabetes (HbA1c assay & interpretation), cardiovascular disease & perioperative hemodynamics, Sjögren classification criteria, renal/hepatic impairment, polypharmacy, drug–drug interactions, immunosuppression; systemic-disease ↔ oral-disease relationship reviews.
-**Indexed papers**: 46 papers in `wiki/drug/systemic-disease/`.
+**Indexed papers**: 48 papers in `wiki/drug/systemic-disease/`.
 
 ## 세줄요약
 
 **분야**: 전신질환·약물·전신질환관리
-**수록 논문**: 46편
+**수록 논문**: 48편
 **하위 카테고리**: 없음
 
-## Papers in this Category (46)
+## Papers in this Category (48)
 
 | Paper |
 |---|
@@ -41,7 +41,9 @@ tags: [navigation, category-index, systemic-disease]
 | [[carlos-2024-marginal-bone-loss-hypertension-hyperlipidemia-diabetes|Correlation between marginal bone loss around dental implants and various systemic diseases: a cross-sectional study]] |
 | [[chen-2022-interpretation-hba1c-analytical-methodology-hematology|Interpretation of HbA1c lies at the intersection of analytical methodology, clinical biochemistry and hematology (Review)]] |
 | [[chidiac-2026-antihypertensive-antihyperlipidemic-antidepressant-implant-survival|Impact of Antihypertensive, Antihyperlipidemic, and Mixed Antidepressant Medications on Dental Implant Success: A Retrospective Cohort Study]] |
+| [[choufani-2025-lebanese-dentists-preparedness-to-deal|Lebanese Dentists' Preparedness to Deal With Medical Emergencies in Their Clinics: A National Survey]] |
 | [[colibasanu-2025-drug-drug-interactions-dental-patients-retrospective|Unveiling Drug-Drug Interactions in Dental Patients: A Retrospective Real-World Study]] |
+| [[dellolio-2021-brugada-syndrome-perioperative-management-oral-surgery|Brugada Syndrome Updated Risk Assessment and Perioperative Management in Oral Surgery: A Case Series]] |
 | [[elhusseiny-2024-oral-health-children-chronic|Oral Health in Children with Chronic Kidney Disease, Hemodialysis, and Renal Transplantation: A Comprehensive Narrative Review of the Oral Manifestations and Dental Implications]] |
 | [[enteghad-2024-diabetes-mellitus-periodontal-periimplant-disease-review|Relationship Between Diabetes Mellitus and Periodontal/Peri-Implant Disease: A Contemporaneous Review]] |
 | [[franceschini-2017-sjogren-2016-acr-eular-criteria-commentary|The 2016 classification criteria for primary Sjögren syndrome: what's new?]] |
