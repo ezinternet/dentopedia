@@ -2,7 +2,7 @@
 title: "골재생·치조제보존 — ridge-preservation"
 authors: navigation
 year: 2026
-date: 2026-10-21
+date: 2026-10-22
 doi: N/A
 source: navigation
 category: bone-regeneration/ridge-preservation
@@ -15,20 +15,20 @@ tags: [navigation, category-index, ridge-preservation]
 > [!summary] 한국어 핵심요약
 > - **분야**: 골재생·치조제보존
 > - **범위**: Alveolar ridge preservation (ARP) / socket preservation — post-extraction dimensional changes (Araujo/Tan/Schropp), ARP efficacy SR/MA & Cochrane, grafting materials & sealing/socket-seal, flap vs flapless, biologics/PRF, esthetic-zone ARP, ARP→implant outcomes
-> - **수록 논문**: 95편
+> - **수록 논문**: 98편
 
 ## Three-line Summary
 
 **Scope**: Alveolar ridge preservation (ARP) / socket preservation — post-extraction dimensional changes (Araujo/Tan/Schropp), ARP efficacy SR/MA & Cochrane, grafting materials & sealing/socket-seal, flap vs flapless, biologics/PRF, esthetic-zone ARP, ARP→implant outcomes
-**Indexed papers**: 95 papers in `wiki/bone-regeneration/ridge-preservation/`.
+**Indexed papers**: 98 papers in `wiki/bone-regeneration/ridge-preservation/`.
 
 ## 세줄요약
 
 **분야**: 골재생·치조제보존
-**수록 논문**: 95편
+**수록 논문**: 98편
 **하위 카테고리**: 없음
 
-## Papers in this Category (95)
+## Papers in this Category (98)
 
 | Paper |
 |---|
@@ -97,6 +97,7 @@ tags: [navigation, category-index, ridge-preservation]
 | [[nainoor-2024-enha-dfdba-prf-socket-preservation|Comparison of Clinical and Radiographic Assessment of Efficacy of Eggshell-Derived Nanohydroxyapatite (EnHA) and Demineralized Freeze-Dried Bone Allograft (DFDBA), Both Covered with Platelet-Rich Fibrin (PRF) as a Barrier Membrane in Socket Preservation: A Randomized Controlled Clinical Trial]] |
 | [[nakajima-2026-tooth-root-graft-alveolar-preservation|Tooth Root-Derived Graft Promotes Complete Bone Replacement in Alveolar Ridge Preservation: Comparative Study with a Collagenic Xenograft in Dogs]] |
 | [[nisar-2020-collagen-plug-socket-preservation|Extraction socket preservation using a collagen plug combined with platelet-rich plasma (PRP): A comparative clinico-radiographic study]] |
+| [[ogui-2023-osteogenic-potential-of-autologous-dentin|Osteogenic Potential of Autologous Dentin Graft Compared with Bovine Xenograft Mixed with Autologous Bone in the Esthetic Zone: Radiographic, Histologic and Immunohistochemical Evaluation.]] |
 | [[park-2016-hidden-x-suture-ridge-preservation|The hidden X suture: a novel suture technique for alveolar ridge preservation]] |
 | [[park-2022-prf-gbr-damaged-socket-yonsei|Platelet-rich fibrin combined with a particulate bone substitute versus guided bone regeneration in the damaged extraction socket: An in vivo study]] |
 | [[pezzella-2026-beta-tcp-alveolar-ridge-preservation-sr|Effectiveness of β-TriCalcium Phosphate for Alveolar Ridge Preservation: A Systematic Review]] |
@@ -118,10 +119,12 @@ tags: [navigation, category-index, ridge-preservation]
 | [[troiano-2018-bone-graft-membrane-ridge-preservation|Combination of bone graft and resorbable membrane for alveolar ridge preservation: A systematic review, meta-analysis, and trial sequential analysis]] |
 | [[trombelli-2008-modeling-remodeling-human-extraction-sockets|Modeling and remodeling of human extraction sockets]] |
 | [[ucer-2023-extraction-socket-augmentation-platelet-rich-fibrin|Extraction Socket Augmentation with Autologous Platelet-Rich Fibrin (PRF): The Rationale for Socket Augmentation]] |
+| [[ulm-2021-bundle-bone-perforation-socket-healing|Improved access to the bone marrow space by multiple perforations of the alveolar bundle bone after tooth extraction]] |
 | [[van-orten-2024-species-specific-collagen-dbbm-arp|Alveolar Ridge Preservation Using a Novel Species-Specific Collagen-Enriched Deproteinized Bovine Bone Mineral: Histological Evaluation of a Prospective Case Series]] |
 | [[vanderweijden-2009-alveolar-bone-dimensional-changes|Alveolar bone dimensional changes of post-extraction sockets in humans: a systematic review]] |
 | [[vora-2025-arp-molar-sites-sr|Is Alveolar Ridge Preservation Necessary in Molar Sites? A Systematic Review.]] |
 | [[wang-2024-simplified-gbr-biocollagen-prf-posterior-ridge|A Simplified GBR Treatment and Evaluation of Posterior Seibert Class I Ridge Defects via Bio-collagen and Platelet-Rich Fibrin: A Retrospective Study]] |
+| [[wei-2025-the-clinical-efficacy-and-safety|The Clinical Efficacy and Safety of ErhBMP-2/BioCaP/β-TCP as a Novel Bone Substitute Using the Tooth-Extraction-Socket-Healing Model: A Proof-of-Concept Randomized Controlled Trial]] |
 | [[xu-2026-demineralized-dentin-matrix-versus-xenograft-arp-rct|Clinical, radiographic, and histological evaluation of autogenous demineralized dentin matrix versus xenograft in alveolar ridge preservation: a randomized controlled trial]] |
 | [[yin-2024-biomaterials-therapeutic-strategies-extraction-socket-healing|Biomaterials and therapeutic strategies designed for tooth extraction socket healing.]] |
 | [[yu-2026-bone-particle-size-arp-periodontally-compromised-molars|Impact of Bone Particle Size on Alveolar Ridge Preservation in Periodontally Compromised Molar Extraction Sites]] |
