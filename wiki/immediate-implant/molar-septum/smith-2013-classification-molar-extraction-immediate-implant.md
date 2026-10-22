@@ -6,8 +6,8 @@ date: 2026-10-22
 doi: 10.11607/jomi.2627
 source: sources/smith-2013-classification-molar-extraction-immediate-implant.md
 category: immediate-implant/molar-septum
-evidence_level: technical_note
-source_collection: pubmed-text
+evidence_level: case-report
+source_collection: pubmed-abstract
 full_text: false
 pmid: 23748327
 source_url: https://pubmed.ncbi.nlm.nih.gov/23748327/
