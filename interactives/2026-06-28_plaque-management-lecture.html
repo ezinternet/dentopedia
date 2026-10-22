@@ -71,11 +71,11 @@ notes:
   /* ── Typography ── */
   .slide-num {
     position: absolute; top: 20px; right: 32px;
-    font-size: 12px; color: var(--text-muted); letter-spacing: 0.1em;
+    font-size: 14px; color: var(--text-muted); letter-spacing: 0.1em;
   }
   .tag {
     display: inline-block;
-    font-size: 11px; font-weight: 600; letter-spacing: 0.08em;
+    font-size: 13px; font-weight: 600; letter-spacing: 0.08em;
     padding: 3px 10px; border-radius: 20px;
     margin-bottom: 18px;
     text-transform: uppercase;
@@ -88,22 +88,22 @@ notes:
   .tag.teal { background: rgba(57,211,83,0.15); color: var(--teal); border: 1px solid rgba(57,211,83,0.3); }
 
   h1.main {
-    font-size: 52px; font-weight: 700; line-height: 1.15;
+    font-size: 57px; font-weight: 700; line-height: 1.15;
     letter-spacing: -0.02em;
     background: linear-gradient(135deg, #1f2328 30%, #0969da 100%);
     -webkit-background-clip: text; -webkit-text-fill-color: transparent;
   }
   h2.section {
-    font-size: 36px; font-weight: 700; line-height: 1.2;
+    font-size: 39.5px; font-weight: 700; line-height: 1.2;
     margin-bottom: 28px; letter-spacing: -0.01em;
   }
-  h3.sub { font-size: 20px; font-weight: 600; color: var(--accent); margin-bottom: 10px; }
+  h3.sub { font-size: 22px; font-weight: 600; color: var(--accent); margin-bottom: 10px; }
   p.lead {
-    font-size: 21px; color: var(--text-muted); line-height: 1.6;
+    font-size: 23px; color: var(--text-muted); line-height: 1.6;
     max-width: 800px; margin-top: 18px;
   }
-  p.body { font-size: 16px; line-height: 1.7; color: #444c56; }
-  .ref { font-size: 11px; color: var(--text-muted); margin-top: 4px; font-style: italic; }
+  p.body { font-size: 19px; line-height: 1.7; color: #444c56; }
+  .ref { font-size: 13px; color: var(--text-muted); margin-top: 4px; font-style: italic; }
 
   /* ── Layout helpers ── */
   .cols { display: flex; gap: 28px; flex: 1; }
@@ -128,17 +128,17 @@ notes:
   .card.accent-red { border-left: 3px solid var(--accent4); }
   .card.accent-yellow { border-left: 3px solid var(--yellow); }
 
-  .card-title { font-size: 13px; font-weight: 700; color: var(--text-muted); letter-spacing: 0.06em; text-transform: uppercase; margin-bottom: 8px; }
-  .card-body { font-size: 15px; line-height: 1.6; }
+  .card-title { font-size: 15.5px; font-weight: 700; color: var(--text-muted); letter-spacing: 0.06em; text-transform: uppercase; margin-bottom: 8px; }
+  .card-body { font-size: 17.5px; line-height: 1.6; }
   .card-body strong { color: var(--text); }
 
   /* ── Tables ── */
-  table { width: 100%; border-collapse: collapse; font-size: 14px; }
-  th { background: var(--surface2); color: var(--text-muted); padding: 10px 14px; text-align: left; font-size: 12px; text-transform: uppercase; letter-spacing: 0.06em; border-bottom: 1px solid var(--border); }
+  table { width: 100%; border-collapse: collapse; font-size: 16.5px; }
+  th { background: var(--surface2); color: var(--text-muted); padding: 10px 14px; text-align: left; font-size: 14px; text-transform: uppercase; letter-spacing: 0.06em; border-bottom: 1px solid var(--border); }
   td { padding: 10px 14px; border-bottom: 1px solid rgba(48,54,61,0.6); line-height: 1.5; }
   tr:last-child td { border-bottom: none; }
   tr:hover td { background: rgba(255,255,255,0.02); }
-  .badge { display: inline-block; padding: 2px 8px; border-radius: 12px; font-size: 11px; font-weight: 600; }
+  .badge { display: inline-block; padding: 2px 8px; border-radius: 12px; font-size: 13px; font-weight: 600; }
   .badge.b { background: rgba(88,166,255,0.2); color: var(--accent); }
   .badge.g { background: rgba(63,185,80,0.2); color: var(--accent2); }
   .badge.o { background: rgba(240,136,62,0.2); color: var(--accent3); }
@@ -151,7 +151,7 @@ notes:
     border: 1px solid rgba(88,166,255,0.2);
     border-radius: 8px;
     padding: 14px 18px;
-    font-size: 15px; line-height: 1.6;
+    font-size: 17.5px; line-height: 1.6;
     margin-bottom: 14px;
   }
   .highlight.green {
@@ -176,14 +176,14 @@ notes:
   ul.bullets li {
     padding: 6px 0 6px 22px;
     position: relative;
-    font-size: 15px; line-height: 1.6;
+    font-size: 17.5px; line-height: 1.6;
   }
   ul.bullets li::before {
     content: '▸';
     position: absolute; left: 0;
-    color: var(--accent); font-size: 12px; top: 9px;
+    color: var(--accent); font-size: 14px; top: 9px;
   }
-  ul.bullets.sm li { font-size: 14px; padding: 4px 0 4px 20px; }
+  ul.bullets.sm li { font-size: 16.5px; padding: 4px 0 4px 20px; }
 
   /* ── Stat blocks ── */
   .stat-grid { display: grid; grid-template-columns: repeat(3,1fr); gap: 16px; }
@@ -194,9 +194,9 @@ notes:
     padding: 18px;
     text-align: center;
   }
-  .stat-num { font-size: 36px; font-weight: 800; color: var(--accent); }
-  .stat-unit { font-size: 16px; font-weight: 600; }
-  .stat-label { font-size: 12px; color: var(--text-muted); margin-top: 6px; line-height: 1.4; }
+  .stat-num { font-size: 39.5px; font-weight: 800; color: var(--accent); }
+  .stat-unit { font-size: 19px; font-weight: 600; }
+  .stat-label { font-size: 14px; color: var(--text-muted); margin-top: 6px; line-height: 1.4; }
 
   /* ── Decision flow ── */
   .flow { display: flex; flex-direction: column; gap: 0; }
@@ -207,19 +207,19 @@ notes:
     border: 1px solid var(--border);
     border-radius: 8px;
     margin-bottom: 8px;
-    font-size: 14px; line-height: 1.5;
+    font-size: 16.5px; line-height: 1.5;
   }
   .flow-icon {
     width: 28px; height: 28px; border-radius: 50%;
     display: flex; align-items: center; justify-content: center;
-    font-size: 13px; font-weight: 700; flex-shrink: 0; margin-top: 1px;
+    font-size: 15.5px; font-weight: 700; flex-shrink: 0; margin-top: 1px;
   }
   .flow-icon.num { background: rgba(88,166,255,0.2); color: var(--accent); }
   .flow-icon.warn { background: rgba(218,54,51,0.2); color: var(--accent4); }
   .flow-icon.ok { background: rgba(63,185,80,0.2); color: var(--accent2); }
 
   /* ── Title slide specific ── */
-  .title-meta { margin-top: 36px; font-size: 14px; color: var(--text-muted); line-height: 2; }
+  .title-meta { margin-top: 36px; font-size: 16.5px; color: var(--text-muted); line-height: 2; }
   .title-meta span { color: var(--accent); }
 
   /* ── Navigation ── */
@@ -235,13 +235,13 @@ notes:
   }
   #nav button {
     background: none; border: none; cursor: pointer;
-    color: var(--text-muted); font-size: 18px; padding: 4px 8px;
+    color: var(--text-muted); font-size: 20px; padding: 4px 8px;
     border-radius: 6px; transition: all 0.15s;
     line-height: 1;
   }
   #nav button:hover { background: var(--surface2); color: var(--text); }
   #nav button:disabled { opacity: 0.25; cursor: default; }
-  #progress-text { font-size: 13px; color: var(--text-muted); min-width: 60px; text-align: center; }
+  #progress-text { font-size: 15.5px; color: var(--text-muted); min-width: 60px; text-align: center; }
   #progress-bar {
     width: 120px; height: 3px; background: var(--border); border-radius: 2px;
   }
@@ -257,7 +257,7 @@ notes:
   .complex-grid { display: flex; gap: 10px; flex-wrap: wrap; }
   .complex-pill {
     padding: 8px 16px; border-radius: 20px;
-    font-size: 13px; font-weight: 600;
+    font-size: 15.5px; font-weight: 600;
     border: 1px solid;
   }
   .cred { background: rgba(218,54,51,0.15); color: #ff7b72; border-color: rgba(218,54,51,0.4); }
@@ -269,10 +269,10 @@ notes:
   /* ── Mini chart bars ── */
   .bar-chart { display: flex; flex-direction: column; gap: 12px; }
   .bar-row { display: flex; align-items: center; gap: 12px; }
-  .bar-label { font-size: 13px; width: 140px; flex-shrink: 0; }
+  .bar-label { font-size: 15.5px; width: 140px; flex-shrink: 0; }
   .bar-track { flex: 1; height: 22px; background: var(--surface2); border-radius: 4px; overflow: hidden; }
-  .bar-fill { height: 100%; border-radius: 4px; display: flex; align-items: center; padding-left: 8px; font-size: 12px; font-weight: 700; transition: width 1s ease; }
-  .bar-val { font-size: 13px; font-weight: 600; width: 80px; text-align: right; }
+  .bar-fill { height: 100%; border-radius: 4px; display: flex; align-items: center; padding-left: 8px; font-size: 14px; font-weight: 700; transition: width 1s ease; }
+  .bar-val { font-size: 15.5px; font-weight: 600; width: 80px; text-align: right; }
 </style>
 </head>
 <body>
@@ -388,7 +388,7 @@ notes:
           </div>
         </div>
         <div class="gap"></div>
-        <div class="highlight orange" style="font-size:14px;">
+        <div class="highlight orange" style="font-size:16.5px;">
           <strong>3단계 군집 형성</strong><br>
           표면 EPS 생성 → 3D 팽창 → microcolony scaffold<br>
           <em style="color:var(--text-muted)">— 모든 바이오필름 형성자에서 보존된 순서 (Karygianni 2020)</em>
@@ -435,7 +435,7 @@ notes:
         <div class="highlight">
           <strong>'Matrixome'</strong> — Karygianni 2020이 도입한 개념<br>
           바이오필름 EPS 전체 목록 = 다당 + 단백 + eDNA + 지질 + biogenic minerals<br>
-          <span style="color:var(--text-muted); font-size:13px;">종마다 조성이 다르므로 표적 항바이오필름 전략도 달라야 한다</span>
+          <span style="color:var(--text-muted); font-size:15.5px;">종마다 조성이 다르므로 표적 항바이오필름 전략도 달라야 한다</span>
         </div>
         <div class="gap-sm"></div>
         <div class="highlight orange">
@@ -499,11 +499,11 @@ notes:
           Yellow/Purple/Green 초기 정착<br>
           → Orange "bridge" 군집<br>
           → Red complex 심부 병소<br>
-          <span style="font-size:13px;color:var(--text-muted)">단순 감염이 아닌 <strong>군집 전이</strong>로 이해해야 한다</span>
+          <span style="font-size:15.5px;color:var(--text-muted)">단순 감염이 아닌 <strong>군집 전이</strong>로 이해해야 한다</span>
         </div>
         <div class="card accent-blue">
           <div class="card-title">현대적 재해석 — PSD 모델로의 진화</div>
-          <p class="body" style="font-size:14px;">Socransky(1998): "어떤 종이 함께 존재하는가?"<br><br>
+          <p class="body" style="font-size:16.5px;">Socransky(1998): "어떤 종이 함께 존재하는가?"<br><br>
           Hajishengallis(2012): "<strong>왜 P. gingivalis가 0.01%로도 군집 전체를 재편하는가?</strong>"<br><br>
           동일한 red complex 세균이지만 해석 패러다임이 달라졌다.</p>
         </div>
@@ -536,7 +536,7 @@ notes:
         </div>
         <div class="card accent-purple">
           <div class="card-title">Feedforward Loop (치주염)</div>
-          <p class="body" style="font-size:14px;">
+          <p class="body" style="font-size:16.5px;">
             Dysbiosis → 숙주 염증 ↑ → 염증 exudate가 영양 → Inflammophilic bacteria 증폭 → 더 심한 dysbiosis<br>
             <strong>염증 자체가 dysbiotic 세균의 에너지원</strong>
           </p>
@@ -563,11 +563,11 @@ notes:
         <div class="gap-sm"></div>
         <div class="stat-grid" style="grid-template-columns:1fr 1fr; gap:10px; margin-top:8px;">
           <div class="stat-block">
-            <div class="stat-num" style="font-size:28px;">&lt;0.01%</div>
+            <div class="stat-num" style="font-size:31px;">&lt;0.01%</div>
             <div class="stat-label"><em>P. gingivalis</em> 존재비로 마우스 치조골 파괴 유도</div>
           </div>
           <div class="stat-block">
-            <div class="stat-num" style="font-size:28px;">~500</div>
+            <div class="stat-num" style="font-size:31px;">~500</div>
             <div class="stat-label">P. gingivalis의 군집 내 차등 발현 단백질 수</div>
           </div>
         </div>
@@ -591,7 +591,7 @@ notes:
         <div class="gap-sm"></div>
         <div class="card accent-orange">
           <div class="card-title">Caries Feedforward Loop</div>
-          <div style="font-size:14px;line-height:1.8;margin-top:4px;">
+          <div style="font-size:16.5px;line-height:1.8;margin-top:4px;">
             <strong style="color:var(--accent3);">Sucrose 노출</strong><br>
             ↓ GtfB/C/D 활성화<br>
             ↓ EPS(glucan/fructan) 합성 → 3D scaffold<br>
@@ -740,21 +740,21 @@ notes:
             <div class="flow-icon num">1</div>
             <div>
               <strong>Sucrose 차단</strong> (우식)<br>
-              <span style="font-size:13px;color:var(--text-muted)">EPS 기질 차단이 항균제보다 생태학적으로 1순위. 불소는 보조.</span>
+              <span style="font-size:15.5px;color:var(--text-muted)">EPS 기질 차단이 항균제보다 생태학적으로 1순위. 불소는 보조.</span>
             </div>
           </div>
           <div class="flow-step">
             <div class="flow-icon num">2</div>
             <div>
               <strong>기계적 바이오필름 파괴</strong><br>
-              <span style="font-size:13px;color:var(--text-muted)">칫솔질 + 치간 보조도구(IDB·워터픽) + SRP. EPS 매트릭스는 물리적으로 깨야 한다.</span>
+              <span style="font-size:15.5px;color:var(--text-muted)">칫솔질 + 치간 보조도구(IDB·워터픽) + SRP. EPS 매트릭스는 물리적으로 깨야 한다.</span>
             </div>
           </div>
           <div class="flow-step">
             <div class="flow-icon num">3</div>
             <div>
               <strong>Dysbiosis 역전</strong> (치주염)<br>
-              <span style="font-size:13px;color:var(--text-muted)">SRP로 군집 재설정 + 숙주 면역 조절(host modulation). 항생제는 SRP 보조로 한정.</span>
+              <span style="font-size:15.5px;color:var(--text-muted)">SRP로 군집 재설정 + 숙주 면역 조절(host modulation). 항생제는 SRP 보조로 한정.</span>
             </div>
           </div>
         </div>
@@ -767,7 +767,7 @@ notes:
     <div class="slide-num">10 / 15</div>
     <div class="tag green">Part 3 · 치간 청소</div>
     <h2 class="section">치간 청소 도구 — 근거 비교</h2>
-    <table style="font-size:13.5px;">
+    <table style="font-size:16px;">
       <tr>
         <th>도구</th>
         <th>핵심 근거</th>
@@ -811,7 +811,7 @@ notes:
         <td><span class="badge r">회피</span></td>
       </tr>
     </table>
-    <div class="highlight" style="margin-top:18px; font-size:15px;">
+    <div class="highlight" style="margin-top:18px; font-size:17.5px;">
       <strong>핵심 메시지:</strong> 단일 보편 우승 도구는 없다. 가장 큰 결정 변수는 <strong>순응도(adherence)</strong> — 환자가 매일 실제로 쓰는 도구가 최선이다.
       <div class="ref">Yilmaz 2025 직접 근거: 규칙적 사용 주수 ∝ 치태·출혈 감소 (양쪽 군 모두)</div>
     </div>
@@ -830,7 +830,7 @@ notes:
           치면세균막(PI): <span style="color:var(--accent3);">치실과 동등 — 일관된 우위 없음</span>
         </div>
         <div class="bar-chart">
-          <div style="font-size:12px;color:var(--text-muted);margin-bottom:8px;">WF vs 칫솔 단독 이득 (vs 치실 대비)가 더 큰 영역</div>
+          <div style="font-size:14px;color:var(--text-muted);margin-bottom:8px;">WF vs 칫솔 단독 이득 (vs 치실 대비)가 더 큰 영역</div>
           <div class="bar-row">
             <div class="bar-label">출혈 개선 (일반)</div>
             <div class="bar-track"><div class="bar-fill" style="width:75%;background:var(--accent2);">+</div></div>
@@ -926,7 +926,7 @@ notes:
         </div>
         <div class="card accent-orange">
           <div class="card-title">⚠ Dwell time 주의</div>
-          <p class="body" style="font-size:14px;">저연마 분말도 <strong>초당 물질 손실은 에어폴리싱이 최대</strong> (평균 8.65 µm/s)<br>한 부위에 오래 머무르면 손상 → 지속 이동 필수</p>
+          <p class="body" style="font-size:16.5px;">저연마 분말도 <strong>초당 물질 손실은 에어폴리싱이 최대</strong> (평균 8.65 µm/s)<br>한 부위에 오래 머무르면 손상 → 지속 이동 필수</p>
           <div class="ref">Dvorská 2026 in-vitro SR</div>
         </div>
         <div class="highlight red">
@@ -1029,7 +1029,7 @@ notes:
             </div>
           </div>
         </div>
-        <div class="highlight green" style="margin-top:12px;font-size:14px;">
+        <div class="highlight green" style="margin-top:12px;font-size:16.5px;">
           <strong>공통 원칙</strong><br>
           치석 제거: 초음파/손기구 필수 (에어폴리싱 대체 불가)<br>
           에리스리톨을 기본 분말로 / Dwell time 관리 / SFE 예방
@@ -1082,8 +1082,8 @@ notes:
     <h2 class="section">주요 근거 — LLM-Wiki 페이지</h2>
     <div class="cols" style="gap:20px;">
       <div class="col">
-        <div style="font-size:12px;color:var(--text-muted);margin-bottom:8px;text-transform:uppercase;letter-spacing:0.06em;">바이오필름·구강 생태</div>
-        <ul class="bullets sm" style="font-size:13px;">
+        <div style="font-size:14px;color:var(--text-muted);margin-bottom:8px;text-transform:uppercase;letter-spacing:0.06em;">바이오필름·구강 생태</div>
+        <ul class="bullets sm" style="font-size:15.5px;">
           <li>Costerton et al. <em>Science</em> 1999 — biofilm 정의·내성 기전 [근거강함]</li>
           <li>Socransky et al. <em>J Clin Periodontol</em> 1998 — red complex·5복합체</li>
           <li>Hajishengallis &amp; Lamont <em>Mol Oral Microbiol</em> 2012 — PSD 모델·keystone</li>
@@ -1093,8 +1093,8 @@ notes:
           <li>Koo et al. 2013 — EPS·산성 미세환경</li>
           <li>Klein et al. 2012 — 혼합종 proteomics</li>
         </ul>
-        <div style="font-size:12px;color:var(--text-muted);margin:14px 0 8px;text-transform:uppercase;letter-spacing:0.06em;">전문가 관리 — GBT·에어폴리싱</div>
-        <ul class="bullets sm" style="font-size:13px;">
+        <div style="font-size:14px;color:var(--text-muted);margin:14px 0 8px;text-transform:uppercase;letter-spacing:0.06em;">전문가 관리 — GBT·에어폴리싱</div>
+        <ul class="bullets sm" style="font-size:15.5px;">
           <li>Yein 2026 SR (5 RCT, n=231) — GBT vs SRD [GRADE 매우 낮음]</li>
           <li>Cyris 2024 split-mouth RCT (n=60) — 동등, 시간 단축</li>
           <li>Stähli 2024 RCT (1년) — 동등 유지치주치료</li>
@@ -1106,8 +1106,8 @@ notes:
         </ul>
       </div>
       <div class="col">
-        <div style="font-size:12px;color:var(--text-muted);margin-bottom:8px;text-transform:uppercase;letter-spacing:0.06em;">치간 청소 도구</div>
-        <ul class="bullets sm" style="font-size:13px;">
+        <div style="font-size:14px;color:var(--text-muted);margin-bottom:8px;text-transform:uppercase;letter-spacing:0.06em;">치간 청소 도구</div>
+        <ul class="bullets sm" style="font-size:15.5px;">
           <li>Carrouel 2026 RCT (n=323) — IDB, 임신 치은염 BOP OR 3.14</li>
           <li>Jung 2025 전향 (n=37) — 치실 술식↑ but 치태 NS</li>
           <li>Yilmaz 2025 RCT (n=54, 24주) — 실리콘픽 순응도 ×2.5</li>
@@ -1126,7 +1126,7 @@ notes:
           <li>Sawan 2022 RCT (n=34) — 슈퍼플로스=WF (교정)</li>
         </ul>
         <div class="gap"></div>
-        <div class="highlight" style="font-size:13px;">
+        <div class="highlight" style="font-size:15.5px;">
           <strong>위키 기반 출처:</strong> wiki/overviews/oral-microbiome-biofilm-dysbiosis-synthesis.md &nbsp;|&nbsp; wiki/overviews/interdental-cleaning-devices-synthesis.md &nbsp;|&nbsp; wiki/overviews/professional-biofilm-management-gbt-air-polishing-overview.md
         </div>
       </div>
