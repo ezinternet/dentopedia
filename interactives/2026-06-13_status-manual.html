@@ -34,31 +34,31 @@ tags: [status, communication, complaint-management, interactive]
   body{
     font-family:"Pretendard","Apple SD Gothic Neo","Malgun Gothic","Noto Sans KR",sans-serif;
     color:var(--ink); background:var(--paper);
-    line-height:1.65; font-size:15px;
+    line-height:1.65; font-size:17.5px;
     padding:32px 20px 80px;
   }
   .wrap{max-width:840px;margin:0 auto;}
 
   /* ── 헤더 ── */
   header{border-bottom:2px solid var(--ink);padding-bottom:18px;margin-bottom:8px;}
-  .eyebrow{font-size:12px;letter-spacing:.18em;color:var(--muted);text-transform:uppercase;font-weight:600;}
-  h1{font-size:30px;font-weight:800;letter-spacing:-.02em;margin:6px 0 4px;}
-  .sub{font-size:14px;color:var(--muted);}
-  .origin{font-size:12.5px;color:var(--muted);margin-top:10px;line-height:1.5;}
+  .eyebrow{font-size:14px;letter-spacing:.18em;color:var(--muted);text-transform:uppercase;font-weight:600;}
+  h1{font-size:33px;font-weight:800;letter-spacing:-.02em;margin:6px 0 4px;}
+  .sub{font-size:16.5px;color:var(--muted);}
+  .origin{font-size:15px;color:var(--muted);margin-top:10px;line-height:1.5;}
 
   /* ── 시소 개념도 ── */
   .seesaw{margin:34px 0;padding:26px 24px 20px;background:var(--card);border:1px solid var(--line);border-radius:4px;}
-  .seesaw h2{font-size:13px;letter-spacing:.1em;color:var(--muted);text-transform:uppercase;margin-bottom:18px;font-weight:700;}
+  .seesaw h2{font-size:15.5px;letter-spacing:.1em;color:var(--muted);text-transform:uppercase;margin-bottom:18px;font-weight:700;}
   .beam{position:relative;height:96px;margin:8px 14px 6px;}
   .beam svg{width:100%;height:100%;overflow:visible;}
-  .seesaw .law{text-align:center;font-size:13.5px;color:var(--ink);margin-top:12px;}
+  .seesaw .law{text-align:center;font-size:16px;color:var(--ink);margin-top:12px;}
   .seesaw .law b{color:var(--pivot);}
 
   /* ── 탭 네비게이션 ── */
   .tabs{display:flex;gap:0;border-bottom:2px solid var(--ink);margin-top:40px;margin-bottom:0;}
   .tab-btn{
     padding:10px 22px 9px;
-    font-size:13px;font-weight:700;letter-spacing:.04em;
+    font-size:15.5px;font-weight:700;letter-spacing:.04em;
     color:var(--muted);
     background:transparent;
     border:none;border-bottom:3px solid transparent;
@@ -68,24 +68,24 @@ tags: [status, communication, complaint-management, interactive]
   }
   .tab-btn:hover{color:var(--ink);}
   .tab-btn.active{color:var(--ink);border-bottom-color:var(--pivot);}
-  .tab-btn .num{font-size:10px;color:var(--pivot);font-weight:800;letter-spacing:.1em;display:block;margin-bottom:1px;}
+  .tab-btn .num{font-size:12px;color:var(--pivot);font-weight:800;letter-spacing:.1em;display:block;margin-bottom:1px;}
 
   .tab-panel{display:none;padding-top:40px;}
   .tab-panel.active{display:block;}
 
   /* ── 섹션 공통 ── */
-  .secnum{font-size:12px;letter-spacing:.16em;color:var(--pivot);font-weight:700;}
-  h2.sec{font-size:22px;font-weight:800;letter-spacing:-.01em;margin:4px 0 6px;}
-  .lede{font-size:14px;color:var(--muted);margin-bottom:20px;max-width:60ch;}
+  .secnum{font-size:14px;letter-spacing:.16em;color:var(--pivot);font-weight:700;}
+  h2.sec{font-size:24px;font-weight:800;letter-spacing:-.01em;margin:4px 0 6px;}
+  .lede{font-size:16.5px;color:var(--muted);margin-bottom:20px;max-width:60ch;}
 
   /* ── 신호 대비 카드 ── */
   .signals{border:1px solid var(--line);border-radius:4px;overflow:hidden;background:var(--card);}
   .srow{display:grid;grid-template-columns:120px 1fr 1fr;border-bottom:1px solid var(--line);}
   .srow:last-child{border-bottom:none;}
-  .srow.head{background:var(--ink);color:var(--paper);font-size:12px;letter-spacing:.04em;font-weight:600;}
+  .srow.head{background:var(--ink);color:var(--paper);font-size:14px;letter-spacing:.04em;font-weight:600;}
   .srow.head>div{padding:9px 14px;}
-  .srow .ch{padding:13px 14px;font-weight:700;font-size:13.5px;display:flex;align-items:center;border-right:1px solid var(--line);}
-  .srow .up,.srow .down{padding:13px 14px;font-size:13.5px;}
+  .srow .ch{padding:13px 14px;font-weight:700;font-size:16px;display:flex;align-items:center;border-right:1px solid var(--line);}
+  .srow .up,.srow .down{padding:13px 14px;font-size:16px;}
   .srow .up{border-right:1px solid var(--line);}
   .srow.head .up{color:#bfe0db;}
   .srow.head .down{color:#e6c4a0;}
@@ -103,15 +103,15 @@ tags: [status, communication, complaint-management, interactive]
     width:20px;
   }
   .ck .body{flex:1;}
-  .ck .body b{display:block;font-size:14.5px;margin-bottom:2px;transition:color .15s;}
-  .ck .body span{font-size:13px;color:var(--muted);}
+  .ck .body b{display:block;font-size:17px;margin-bottom:2px;transition:color .15s;}
+  .ck .body span{font-size:15.5px;color:var(--muted);}
   .ck.checked .body b{color:var(--up);text-decoration:line-through;text-decoration-color:var(--up);}
   .ck.checked{opacity:.7;}
 
   /* 체크리스트 리셋 버튼 */
   .ck-controls{display:flex;justify-content:flex-end;margin-top:14px;}
   .ck-reset{
-    font-size:12px;color:var(--muted);background:none;border:1px solid var(--line);
+    font-size:14px;color:var(--muted);background:none;border:1px solid var(--line);
     border-radius:3px;padding:5px 12px;cursor:pointer;
     transition:color .12s,border-color .12s;
   }
@@ -121,43 +121,43 @@ tags: [status, communication, complaint-management, interactive]
   .ck-done{
     margin-top:14px;padding:12px 16px;
     background:#eef6f4;border-left:3px solid var(--up);
-    border-radius:3px;font-size:13.5px;color:var(--up);font-weight:700;
+    border-radius:3px;font-size:16px;color:var(--up);font-weight:700;
     display:none;
   }
   .ck-done.show{display:block;}
 
   /* ── 스크립트 ── */
   .script{background:var(--card);border:1px solid var(--line);border-left:3px solid var(--pivot);border-radius:4px;padding:18px 20px;margin-top:16px;}
-  .script .scene{font-size:12px;letter-spacing:.05em;color:var(--pivot);font-weight:700;text-transform:uppercase;margin-bottom:10px;}
+  .script .scene{font-size:14px;letter-spacing:.05em;color:var(--pivot);font-weight:700;text-transform:uppercase;margin-bottom:10px;}
   .turn{padding:9px 0;border-bottom:1px solid var(--line);transition:background .2s;}
   .turn:last-of-type{border-bottom:none;}
   .turn:hover{background:#f5f2ec;}
-  .who{font-size:11.5px;font-weight:700;letter-spacing:.05em;color:var(--muted);}
-  .line{font-size:14px;margin-top:2px;}
-  .move{font-size:12px;margin-top:4px;font-style:italic;}
+  .who{font-size:13.5px;font-weight:700;letter-spacing:.05em;color:var(--muted);}
+  .line{font-size:16.5px;margin-top:2px;}
+  .move{font-size:14px;margin-top:4px;font-style:italic;}
   .move.u{color:var(--up);}
   .move.d{color:var(--down);}
-  .gate{margin-top:14px;padding:12px 14px;background:#fbeae7;border-radius:3px;font-size:13px;line-height:1.55;}
+  .gate{margin-top:14px;padding:12px 14px;background:#fbeae7;border-radius:3px;font-size:15.5px;line-height:1.55;}
   .gate b{color:var(--pivot);}
 
   /* ── 태그/주석 ── */
-  .ci{font-size:11px;font-weight:700;color:var(--pivot);vertical-align:.1em;letter-spacing:.02em;}
-  .note{font-size:12.5px;color:var(--muted);margin-top:14px;line-height:1.55;}
-  .pull{margin:18px 0;padding:14px 18px;border-left:3px solid var(--ink);font-size:14px;background:var(--card);}
+  .ci{font-size:13px;font-weight:700;color:var(--pivot);vertical-align:.1em;letter-spacing:.02em;}
+  .note{font-size:15px;color:var(--muted);margin-top:14px;line-height:1.55;}
+  .pull{margin:18px 0;padding:14px 18px;border-left:3px solid var(--ink);font-size:16.5px;background:var(--card);}
   .pull b{font-weight:800;}
 
-  footer{margin-top:56px;padding-top:18px;border-top:1px solid var(--line);font-size:11.5px;color:var(--muted);line-height:1.6;}
+  footer{margin-top:56px;padding-top:18px;border-top:1px solid var(--line);font-size:13.5px;color:var(--muted);line-height:1.6;}
 
   @media(max-width:640px){
     .srow{grid-template-columns:84px 1fr 1fr;}
-    .srow .ch{font-size:12px;padding:11px 9px;}
-    .srow .up,.srow .down{font-size:12.5px;padding:11px 9px;}
-    h1{font-size:25px;}
+    .srow .ch{font-size:14px;padding:11px 9px;}
+    .srow .up,.srow .down{font-size:15px;padding:11px 9px;}
+    h1{font-size:27.5px;}
     .tabs{gap:0;overflow-x:auto;}
     .tab-btn{padding:10px 14px 9px;white-space:nowrap;}
   }
   @media print{
-    body{background:#fff;padding:0;font-size:12.5px;}
+    body{background:#fff;padding:0;font-size:15px;}
     .seesaw,.signals,.script,.pull{box-shadow:none;}
     .tabs,.tab-btn,.ck-controls,.ck-reset{display:none;}
     .tab-panel{display:block!important;padding-top:20px;border-top:1px solid var(--line);}
