@@ -42,14 +42,14 @@ tags: [woven-bone, lamellar-bone, peri-implant-osteogenesis, osseointegration, b
   --s:var(--c1); --s-bg:var(--c1-bg); --s-ring:var(--c1-ring);
 }
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
-html{font-size:14px}
+html{font-size:16.5px}
 body{background:var(--bg);color:var(--fg);font-family:'Inter',system-ui,sans-serif;line-height:1.6;padding:0 16px;-webkit-font-smoothing:antialiased}
 .page{max-width:880px;margin:0 auto;padding-block:24px 48px}
 
 /* Header */
-.eyebrow{font-size:10.5px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:var(--fg-3);margin-bottom:3px}
-h1{font-family:'Noto Serif KR',Georgia,serif;font-size:21px;font-weight:600;color:var(--fg);line-height:1.25;margin-bottom:2px}
-.hdr-en{font-size:13px;color:var(--fg-3);font-weight:400;margin-bottom:18px}
+.eyebrow{font-size:12.5px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:var(--fg-3);margin-bottom:3px}
+h1{font-family:'Noto Serif KR',Georgia,serif;font-size:23px;font-weight:600;color:var(--fg);line-height:1.25;margin-bottom:2px}
+.hdr-en{font-size:15.5px;color:var(--fg-3);font-weight:400;margin-bottom:18px}
 
 /* Timeline nav */
 .tl-wrap{background:var(--surface);border-radius:14px;box-shadow:var(--shadow);padding:14px 16px 18px;margin-bottom:14px}
@@ -57,11 +57,11 @@ h1{font-family:'Noto Serif KR',Georgia,serif;font-size:21px;font-weight:600;colo
 .tl-row::before{content:'';position:absolute;top:18px;left:18px;right:18px;height:2px;background:var(--border)}
 .tl-fill{position:absolute;top:18px;left:18px;height:2px;background:var(--s);transition:width .35s ease,background .3s;border-radius:1px;width:0}
 .sbtn{flex:1;display:flex;flex-direction:column;align-items:center;gap:7px;background:none;border:none;cursor:pointer;padding:0;position:relative;z-index:1;min-width:0}
-.sdot{width:36px;height:36px;border-radius:50%;background:var(--surface);border:2px solid var(--border);display:flex;align-items:center;justify-content:center;font-size:13px;font-weight:600;color:var(--fg-3);transition:all .2s;box-shadow:0 1px 3px rgba(0,0,0,.07)}
+.sdot{width:36px;height:36px;border-radius:50%;background:var(--surface);border:2px solid var(--border);display:flex;align-items:center;justify-content:center;font-size:15.5px;font-weight:600;color:var(--fg-3);transition:all .2s;box-shadow:0 1px 3px rgba(0,0,0,.07)}
 .sbtn.active .sdot{background:var(--s);border-color:var(--s);color:#fff;box-shadow:0 0 0 4px var(--s-ring),0 2px 8px rgba(0,0,0,.15);transform:scale(1.08)}
 .sbtn:focus-visible .sdot{outline:2px solid var(--s);outline-offset:3px}
-.sname{font-size:11px;font-weight:500;color:var(--fg-3);text-align:center;line-height:1.25;max-width:72px;transition:color .2s}
-.stime{font-size:10px;color:var(--fg-3);text-align:center}
+.sname{font-size:13px;font-weight:500;color:var(--fg-3);text-align:center;line-height:1.25;max-width:72px;transition:color .2s}
+.stime{font-size:12px;color:var(--fg-3);text-align:center}
 .sbtn.active .sname{color:var(--s);font-weight:600}
 
 /* Main two-column */
@@ -72,22 +72,22 @@ h1{font-family:'Noto Serif KR',Georgia,serif;font-size:21px;font-weight:600;colo
 .diagram{background:var(--surface);border-radius:14px;box-shadow:var(--shadow);overflow:hidden;aspect-ratio:4/3;position:relative}
 #cvs{display:block;width:100%;height:100%}
 .leg{position:absolute;bottom:8px;right:8px;background:rgba(255,255,255,.92);backdrop-filter:blur(6px);border:1px solid var(--border);border-radius:8px;padding:6px 8px;display:flex;flex-direction:column;gap:3px}
-.litem{display:flex;align-items:center;gap:5px;font-size:10px;color:var(--fg-2)}
+.litem{display:flex;align-items:center;gap:5px;font-size:12px;color:var(--fg-2)}
 .lsw{width:10px;height:10px;border-radius:2px;flex-shrink:0}
 
 /* Detail panel */
 .detail{background:var(--surface);border-radius:14px;box-shadow:var(--shadow);padding:18px;display:flex;flex-direction:column;gap:11px;min-width:0}
-.badge{display:inline-flex;align-items:center;background:var(--s-bg);color:var(--s);font-size:10px;font-weight:700;letter-spacing:.07em;text-transform:uppercase;padding:3px 9px;border-radius:20px;width:fit-content;transition:background .3s,color .3s}
+.badge{display:inline-flex;align-items:center;background:var(--s-bg);color:var(--s);font-size:12px;font-weight:700;letter-spacing:.07em;text-transform:uppercase;padding:3px 9px;border-radius:20px;width:fit-content;transition:background .3s,color .3s}
 .terms{display:flex;flex-direction:column;gap:2px}
-.tko{font-family:'Noto Serif KR',Georgia,serif;font-size:19px;font-weight:600;color:var(--fg);line-height:1.2}
-.ten{font-size:12px;color:var(--fg-3);font-weight:400}
-.tab{font-size:11px;color:var(--s);font-weight:500;transition:color .3s}
+.tko{font-family:'Noto Serif KR',Georgia,serif;font-size:21px;font-weight:600;color:var(--fg);line-height:1.2}
+.ten{font-size:14px;color:var(--fg-3);font-weight:400}
+.tab{font-size:13px;color:var(--s);font-weight:500;transition:color .3s}
 .rule{height:1px;background:var(--border)}
-.ev-head{font-size:10px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--fg-3);margin-bottom:5px}
+.ev-head{font-size:12px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--fg-3);margin-bottom:5px}
 .ev-list{list-style:none;display:flex;flex-direction:column;gap:4px}
-.ev-list li{display:flex;gap:7px;font-size:12.5px;color:var(--fg-2);line-height:1.4;min-width:0}
-.ev-list li::before{content:'▸';color:var(--s);flex-shrink:0;font-size:10px;margin-top:3px;transition:color .3s}
-.clin{background:var(--s-bg);border-left:3px solid var(--s);border-radius:0 8px 8px 0;padding:8px 10px;font-size:12px;color:var(--fg-2);line-height:1.5;transition:background .3s,border-color .3s}
+.ev-list li{display:flex;gap:7px;font-size:15px;color:var(--fg-2);line-height:1.4;min-width:0}
+.ev-list li::before{content:'▸';color:var(--s);flex-shrink:0;font-size:12px;margin-top:3px;transition:color .3s}
+.clin{background:var(--s-bg);border-left:3px solid var(--s);border-radius:0 8px 8px 0;padding:8px 10px;font-size:14px;color:var(--fg-2);line-height:1.5;transition:background .3s,border-color .3s}
 .clin strong{color:var(--s);font-weight:600;transition:color .3s}
 
 /* Osteoporosis bar */
@@ -99,12 +99,12 @@ h1{font-family:'Noto Serif KR',Georgia,serif;font-size:21px;font-weight:600;colo
 .sw-track::after{content:'';position:absolute;left:3px;top:3px;width:16px;height:16px;border-radius:50%;background:#fff;box-shadow:0 1px 3px rgba(0,0,0,.2);transition:transform .2s}
 .sw input:checked+.sw-track{background:#b05208}
 .sw input:checked+.sw-track::after{transform:translateX(16px)}
-.ot-name{font-size:12px;font-weight:600;color:var(--fg-2);white-space:nowrap}
-.ot-text{font-size:12px;color:var(--fg-2);line-height:1.5}
+.ot-name{font-size:14px;font-weight:600;color:var(--fg-2);white-space:nowrap}
+.ot-text{font-size:14px;color:var(--fg-2);line-height:1.5}
 .ot-text strong{color:var(--fg);font-weight:600}
 
 /* Source */
-.src{font-size:11px;color:var(--fg-3);text-align:right}
+.src{font-size:13px;color:var(--fg-3);text-align:right}
 </style>
 </head>
 <body>
