@@ -11,6 +11,8 @@ source_collection: pubmed-pdf
 full_text: true
 pmid: 31161157
 source_url: https://pubmed.ncbi.nlm.nih.gov/31161157/
+pdf_path: /Users/oracleneo/llm-wiki/papers/smidt-2019-ossix-volumax-lateral-ridge-augmentation.pdf
+pdf_filename: smidt-2019-ossix-volumax-lateral-ridge-augmentation.pdf
 tags:
   - ossix-volumax
   - collagen-scaffold
