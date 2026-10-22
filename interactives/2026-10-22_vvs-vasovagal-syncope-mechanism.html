@@ -399,6 +399,136 @@ tr:hover td{background:#fafaf7}
   </div>
 
   <div class="card">
+    <div class="card-title">① VVS 인지 — 이런 증상이 나타나면</div>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:6px;margin-top:6px">
+      <div style="background:var(--amber-bg);border-radius:6px;padding:8px 10px;font-size:11px;border:1px solid #f5c5a0">
+        <div style="font-weight:700;color:var(--amber);margin-bottom:4px">환자가 호소하는 것</div>
+        어지럽다 · 속이 울렁거린다<br>눈앞이 하얗다 / 컴컴하다<br>식은땀이 난다 · 귀가 먹먹하다<br>전신 힘이 빠진다
+      </div>
+      <div style="background:var(--red-bg);border-radius:6px;padding:8px 10px;font-size:11px;border:1px solid #f5c5c5">
+        <div style="font-weight:700;color:var(--red);margin-bottom:4px">눈으로 보이는 것</div>
+        얼굴이 창백해짐<br>식은땀 (diaphoresis)<br>눈이 반쯤 감김<br>BP 급락 · 서맥 가능
+      </div>
+    </div>
+    <div style="margin-top:8px;background:var(--border-light);border-radius:6px;padding:7px 10px;font-size:11px">
+      <strong>혈관억제형 기준</strong>: SBP &lt; 80 mmHg 또는 기저치 대비 30% 이상 감소<br>
+      <strong>심억제형 기준</strong>: HR &lt; 40 bpm<br>
+      <span style="color:var(--text-3)">의식 유지 = 실신 전(pre-syncope) 단계일 수 있음 — 즉시 대응</span>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-title">② 현장 결정 흐름도</div>
+    <div style="margin-top:6px;font-size:12px">
+
+      <div style="background:var(--accent-bg);border:1px solid #C0D9EF;border-radius:6px;padding:8px 12px;margin-bottom:6px;text-align:center;font-weight:700">
+        VVS 의심 징후 감지
+      </div>
+      <div style="text-align:center;color:var(--text-3);margin-bottom:4px">↓</div>
+
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:6px;margin-bottom:6px">
+        <div>
+          <div style="background:var(--green-bg);border-radius:6px 6px 0 0;padding:4px 10px;font-size:11px;font-weight:700;color:var(--green);text-align:center">의식 있음</div>
+          <div style="background:#f4faf6;border:1px solid #b8d9c5;border-top:none;border-radius:0 0 6px 6px;padding:8px 10px;font-size:11px;line-height:1.7">
+            시술 중단 → 냉찜질<br>
+            다리 올리기 (Trendelenburg)<br>
+            수액 확보 · 바이탈 재확인<br>
+            → <strong>표준 프로토콜 진행</strong>
+          </div>
+        </div>
+        <div>
+          <div style="background:var(--red-bg);border-radius:6px 6px 0 0;padding:4px 10px;font-size:11px;font-weight:700;color:var(--red);text-align:center">의식 없음 / 경련</div>
+          <div style="background:#fdf5f5;border:1px solid #f5c5c5;border-top:none;border-radius:0 0 6px 6px;padding:8px 10px;font-size:11px;line-height:1.7">
+            기도 확보 (chin lift)<br>
+            119 즉시 호출<br>
+            pulse 확인 → 없으면 CPR<br>
+            → <strong>아나필락시스 감별</strong>
+          </div>
+        </div>
+      </div>
+
+      <div style="text-align:center;color:var(--text-3);margin-bottom:4px">↓ 표준 프로토콜 후</div>
+
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:6px">
+        <div>
+          <div style="background:var(--green-bg);border-radius:6px 6px 0 0;padding:4px 10px;font-size:11px;font-weight:700;color:var(--green);text-align:center">SBP ≥ 90 회복</div>
+          <div style="background:#f4faf6;border:1px solid #b8d9c5;border-top:none;border-radius:0 0 6px 6px;padding:8px 10px;font-size:11px;line-height:1.7">
+            15–30분 안정 모니터링<br>
+            증상 완전 소실 확인<br>
+            → <strong>귀가 기준 평가</strong>
+          </div>
+        </div>
+        <div>
+          <div style="background:var(--red-bg);border-radius:6px 6px 0 0;padding:4px 10px;font-size:11px;font-weight:700;color:var(--red);text-align:center">SBP &lt; 90 지속</div>
+          <div style="background:#fdf5f5;border:1px solid #f5c5c5;border-top:none;border-radius:0 0 6px 6px;padding:8px 10px;font-size:11px;line-height:1.7">
+            약물 투여 (에페드린 등)<br>
+            ACE-I/ARB 복용이면 바소프레신<br>
+            → <strong>119 이송</strong>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-title">③ 회복 후 모니터링 — 얼마나, 무엇을</div>
+    <table>
+      <tr><th>시점</th><th>확인 항목</th><th>기준</th></tr>
+      <tr>
+        <td>즉시 ~ 5분</td>
+        <td>BP · HR · 의식 · 피부색</td>
+        <td>SBP 상승 추세 확인</td>
+      </tr>
+      <tr>
+        <td>5 ~ 15분</td>
+        <td>자각 증상 (어지럼·오심 소실)</td>
+        <td>완전 소실 목표</td>
+      </tr>
+      <tr>
+        <td>15 ~ 30분</td>
+        <td>앉힌 후 BP 재확인</td>
+        <td>기립성 저혈압 재발 배제</td>
+      </tr>
+      <tr>
+        <td>귀가 직전</td>
+        <td>서서 BP 측정 · 보행 안정</td>
+        <td>SBP ≥ 100 직립 유지</td>
+      </tr>
+    </table>
+    <div style="margin-top:8px;font-size:11px;color:var(--text-2)">
+      ⚠ 회복 후 바로 일으키지 말 것 — 기립성 저혈압으로 재발 가능. 단계적으로: 누움 → 앉음(5분) → 서기(5분) → 보행
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-title">④ 귀가 기준 vs 이송 기준</div>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:6px">
+      <div style="background:var(--green-bg);border-radius:6px;padding:10px 12px;border:1px solid #b8d9c5">
+        <div style="font-weight:700;color:var(--green);font-size:12px;margin-bottom:6px">✓ 귀가 가능</div>
+        <div style="font-size:11px;line-height:1.9;color:var(--text)">
+          SBP ≥ 100 mmHg (직립)<br>
+          HR 50–100 bpm<br>
+          의식 완전 회복<br>
+          자각 증상 소실<br>
+          보행 안정<br>
+          보호자 동행 권장
+        </div>
+      </div>
+      <div style="background:var(--red-bg);border-radius:6px;padding:10px 12px;border:1px solid #f5c5c5">
+        <div style="font-weight:700;color:var(--red);font-size:12px;margin-bottom:6px">⚠ 119 이송</div>
+        <div style="font-size:11px;line-height:1.9;color:var(--text)">
+          SBP &lt; 90 지속<br>
+          HR &lt; 50 bpm 지속<br>
+          의식 회복 불완전<br>
+          흉통·호흡곤란 동반<br>
+          경련·발작 발생<br>
+          약물 처치 후 미반응
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card">
     <div class="card-title">예방 — 고위험 환자 (이전 VVS 병력)</div>
     <table>
       <tr><th>방법</th><th>근거</th><th>권고</th></tr>
