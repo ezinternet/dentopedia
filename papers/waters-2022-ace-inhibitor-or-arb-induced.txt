@@ -1,0 +1,12 @@
+TITLE: ACE-Inhibitor or ARB-Induced Refractory Hypotension Treated With Vasopressin in Patients Undergoing General Anesthesia for Dentistry: Two Case Reports
+AUTHORS: Waters Caitlin M., Pelczar Kristen, Adlesic Edward C., Schwartz Paul J., Giovannitti Joseph A.
+JOURNAL: Anesthesia Progress
+ID[pmcid]: PMC9552622
+ID[pmcid-ver]: PMC9552622.1
+ID[pmcaid]: 9552622
+ID[pmcaiid]: 9552622
+ID[pmid]: 36223194
+ID[doi]: 10.2344/anpr-69-02-06
+
+## ABSTRACT
+Two case reports present the use of vasopressin for treating refractory hypotension associated with continued angiotensin-converting enzyme inhibitor (ACEI) or angiotensin receptor blocker (ARB) therapy prior to general anesthesia for oral surgery. Both patients were treated in an ambulatory dental surgery clinic and took either their ACEI or ARB medication for hypertension within 24 hours prior to undergoing an intubated general anesthetic. Persistent profound hypotension was encountered intraoperatively that was refractory to treatment with traditional methods. However, the ACEI- or ARB-induced refractory hypotension was successfully managed with the administration of vasopressin.
