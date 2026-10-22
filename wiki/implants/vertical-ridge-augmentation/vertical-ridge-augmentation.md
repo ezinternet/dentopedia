@@ -2,7 +2,7 @@
 title: "임플란트·수직골증대 — vertical-ridge-augmentation"
 authors: navigation
 year: 2026
-date: 2026-10-21
+date: 2026-10-22
 doi: N/A
 source: navigation
 category: implants/vertical-ridge-augmentation
@@ -15,20 +15,20 @@ tags: [navigation, category-index, vertical-ridge-augmentation]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·수직골증대
 > - **범위**: Vertical ridge augmentation, Ti-mesh / PTFE mesh GBR, vertical bone gain, mesh exposure, customized CAD/CAM mesh
-> - **수록 논문**: 25편
+> - **수록 논문**: 26편
 
 ## Three-line Summary
 
 **Scope**: Vertical ridge augmentation, Ti-mesh / PTFE mesh GBR, vertical bone gain, mesh exposure, customized CAD/CAM mesh
-**Indexed papers**: 25 papers in `wiki/implants/vertical-ridge-augmentation/`.
+**Indexed papers**: 26 papers in `wiki/implants/vertical-ridge-augmentation/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·수직골증대
-**수록 논문**: 25편
+**수록 논문**: 26편
 **하위 카테고리**: 없음
 
-## Papers in this Category (25)
+## Papers in this Category (26)
 
 | Paper |
 |---|
@@ -42,6 +42,7 @@ tags: [navigation, category-index, vertical-ridge-augmentation]
 | [[cucchi-2024-ptfe-mesh-ti-mesh-vertical-ridge-rct|Complication, vertical bone gain, volumetric changes after vertical ridge augmentation using customized reinforced PTFE mesh or Ti-mesh. A non-inferiority randomized clinical trial]] |
 | [[cucchi-2024-vertical-ridge-augmentation-peri-implant-bone-loss-sr-ma|The influence of vertical ridge augmentation techniques on peri-implant bone loss: A systematic review and meta-analysis]] |
 | [[cucchi-2025-ptfe-mesh-vs-titanium-mesh-proms-rct|Operative Times, Costs and Patient-Related Outcome Measures in Vertical Ridge Augmentation With Customised Reinforced PTFE Mesh Versus CAD/CAM Titanium Mesh: Secondary Analysis of a Randomised Clinical Trial]] |
+| [[dhondt-2026-vertical-guided-bone-regeneration-leukocyte|Vertical Guided Bone Regeneration: Leukocyte and PRF Bone Block vs a Mixture of Autogenous Bone with DBBM: A Split-Mouth Randomized Controlled Trial with up to 1 Year of Follow-up After Implant Loading.]] |
 | [[jung-2014-preformed-titanium-mesh-peri-implant-bone-regeneration|Preliminary evaluation of a three-dimensional, customized, and preformed titanium mesh in peri-implant alveolar bone regeneration]] |
 | [[kaner-2017-pre-augmentation-soft-tissue-expansion-vertical-bone|Pre-augmentation soft tissue expansion improves scaffold-based vertical bone regeneration – a randomized study in dogs]] |
 | [[kang-2019-sinus-bone-graft-simultaneous-vertical-ridge-augmentation|Sinus bone graft and simultaneous vertical ridge augmentation: case series study]] |
