@@ -45,7 +45,7 @@ body {
   background: var(--bg);
   color: var(--fg);
   font-family: 'Noto Sans KR', -apple-system, BlinkMacSystemFont, sans-serif;
-  font-size: 14px;
+  font-size: 16.5px;
   line-height: 1.65;
   padding: 0 20px;
   padding-block: 28px;
@@ -55,13 +55,13 @@ body {
 
 /* ── Header ── */
 .hdr { margin-bottom: 22px }
-.hdr h1 { font-size: 1.25rem; font-weight: 700; letter-spacing: -0.02em; text-wrap: balance }
-.hdr .sub { color: var(--muted); font-size: 0.82rem; margin-top: 3px }
+.hdr h1 { font-size: 1.38rem; font-weight: 700; letter-spacing: -0.02em; text-wrap: balance }
+.hdr .sub { color: var(--muted); font-size: 0.97rem; margin-top: 3px }
 
 /* ── Legend ── */
 .legend {
   display: flex; flex-wrap: wrap; gap: 10px 18px;
-  margin-bottom: 18px; font-size: 0.78rem; align-items: center;
+  margin-bottom: 18px; font-size: 0.92rem; align-items: center;
 }
 .leg { display: flex; align-items: center; gap: 5px }
 .dot { width: 9px; height: 9px; border-radius: 50%; flex-shrink: 0 }
@@ -71,7 +71,7 @@ body {
 .badge {
   display: inline-block;
   padding: 1px 7px; border-radius: 3px;
-  font-size: 0.7rem; font-weight: 600;
+  font-size: 0.83rem; font-weight: 600;
   letter-spacing: 0.02em;
 }
 .badge-ke  { background: var(--ke-bg);  color: var(--ke) }
@@ -85,11 +85,11 @@ body {
   display: flex; gap: 7px; flex-wrap: wrap; align-items: center;
   margin-bottom: 14px;
 }
-.sort-row span { font-size: 0.75rem; color: var(--muted) }
+.sort-row span { font-size: 0.89rem; color: var(--muted) }
 .sbtn {
   padding: 4px 13px; border: 1.5px solid var(--border);
   background: var(--surface); border-radius: 20px;
-  font-size: 0.76rem; font-family: inherit; color: var(--muted);
+  font-size: 0.9rem; font-family: inherit; color: var(--muted);
   cursor: pointer; transition: all .15s;
 }
 .sbtn.active {
@@ -127,14 +127,14 @@ body {
 .abbr-pill {
   display: inline-flex; align-items: center; justify-content: center;
   width: 30px; height: 30px; border-radius: 50%;
-  font-size: 0.6rem; font-weight: 700; letter-spacing: 0;
+  font-size: 0.71rem; font-weight: 700; letter-spacing: 0;
   margin-right: 8px; flex-shrink: 0; vertical-align: middle;
 }
 .pill-nk { background: var(--nk-bg); color: var(--nk) }
 .pill-ke { background: var(--ke-bg); color: var(--ke) }
 .pill-ref { background: var(--surface2); color: var(--muted) }
-.name-ko { font-weight: 600; font-size: 0.88rem }
-.name-en { font-size: 0.72rem; color: var(--muted) }
+.name-ko { font-weight: 600; font-size: 1.04rem }
+.name-en { font-size: 0.85rem; color: var(--muted) }
 
 /* Bar column */
 .col-bar { min-width: 0 }
@@ -146,7 +146,7 @@ body {
 .fill-nk { background: var(--nk) }
 .fill-ke { background: var(--ke) }
 .fill-ref { background: #94a8bc }
-.bar-meta { display: flex; gap: 6px; align-items: center; font-size: 0.7rem; color: var(--muted); font-variant-numeric: tabular-nums }
+.bar-meta { display: flex; gap: 6px; align-items: center; font-size: 0.83rem; color: var(--muted); font-variant-numeric: tabular-nums }
 
 /* Permeability dots */
 .col-perm { text-align: right }
@@ -154,7 +154,7 @@ body {
 .pd { width: 8px; height: 8px; border-radius: 50% }
 .pd.on { background: var(--accent) }
 .pd.off { background: var(--surface2); border: 1px solid var(--border) }
-.perm-lbl { font-size: 0.69rem; color: var(--muted) }
+.perm-lbl { font-size: 0.81rem; color: var(--muted) }
 
 /* Detail panel */
 .row-detail {
@@ -165,7 +165,7 @@ body {
   border-bottom-left-radius: 8px;
   border-bottom-right-radius: 8px;
   padding: 16px 20px;
-  font-size: 0.82rem;
+  font-size: 0.97rem;
   line-height: 1.7;
 }
 .row.open .row-detail { display: block }
@@ -175,14 +175,14 @@ body {
 }
 @media (max-width: 540px) { .detail-grid { grid-template-columns: 1fr } }
 .dh {
-  font-size: 0.68rem; font-weight: 700; letter-spacing: 0.07em;
+  font-size: 0.8rem; font-weight: 700; letter-spacing: 0.07em;
   text-transform: uppercase; color: var(--muted); margin-bottom: 5px;
 }
 .dm { white-space: pre-line; color: var(--fg) }
-.detail-foot { margin-top: 10px; font-size: 0.72rem; color: var(--muted); border-top: 1px solid var(--border); padding-top: 8px }
+.detail-foot { margin-top: 10px; font-size: 0.85rem; color: var(--muted); border-top: 1px solid var(--border); padding-top: 8px }
 
 /* Axis ruler below sort controls */
-.axis { display: flex; margin-bottom: 4px; padding: 0 16px; font-size: 0.67rem; color: var(--faint) }
+.axis { display: flex; margin-bottom: 4px; padding: 0 16px; font-size: 0.79rem; color: var(--faint) }
 .axis-seg { flex: 1; border-left: 1px dashed var(--border); padding-left: 3px }
 .axis-seg:last-child { border-right: 1px dashed var(--border) }
 
@@ -190,13 +190,13 @@ body {
 .src-note {
   margin-top: 22px; padding: 12px 16px;
   background: var(--surface); border-radius: 7px;
-  border: 1px solid var(--border); font-size: 0.76rem;
+  border: 1px solid var(--border); font-size: 0.9rem;
   color: var(--muted); line-height: 1.65;
 }
 .src-note strong { color: var(--fg) }
 
 /* axis x-label */
-.axis-title { font-size: 0.68rem; color: var(--faint); margin-bottom: 2px; padding: 0 16px }
+.axis-title { font-size: 0.8rem; color: var(--faint); margin-bottom: 2px; padding: 0 16px }
 </style>
 
 <div class="hdr">
