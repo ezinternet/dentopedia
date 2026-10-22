@@ -7,7 +7,7 @@ doi: 10.1034/j.1600-0501.2002.130603.x
 source: sources/friedmann-2002-ossix-vs-ptfe-gbr-histomorphometry.md
 category: bone-regeneration
 evidence_level: rct
-source_collection: pubmed-text
+source_collection: pubmed-abstract
 full_text: false
 pmid: 12519332
 tags:
