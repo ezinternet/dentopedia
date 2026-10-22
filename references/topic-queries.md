@@ -361,3 +361,24 @@ ptyp: Systematic Review OR Meta-Analysis  (RCT까지 넣으면 A 303·X 582건 �
 **라우팅**: 상악동 → `bone-regeneration/`(sinus), 발치와 보존 → `bone-regeneration/ridge-preservation/`, 골내낭 → periodontics 재생, 블록·GBR → `bone-regeneration/`.
 
 **현황 (2026-10-21 시드 백필, SR/MA 전 기간)**: 합집합 151 → seen 1·기보유 PMID 5 제외 145 → DOI·제목 교차로 기보유 8 제외 → 상위 모델 제목 스크리닝 → **include 49** (OA:PMC 10) 큐 적립 + **88 screened-out** (exclude 74 무관 / borderline 14 보조제·술식 중심, `restore-screened`로 복구 가능).
+
+### bone-graft-properties (골형성 · 골유도 · 골전도 / osteogenic · osteoinductive · osteoconductive)
+
+이식재 *종류* 축(`bone-graft-material`)과 반대편 — **이식재의 생물학적 특성 축**이 비교 대상. 정의는 이미 기보유(misch-1993, zhao-2021, haugen-2026), 이 토픽은 그 정의를 **실증 근거**로 채운다(신생골 %, 잔존 이식재 %, 흡수·전환, bioactivity). 4 stem을 OR로 묶어 단일 쿼리로 관리:
+
+```
+(osteoinduct*[tiab] OR "bone morphogenetic protein"[tiab] OR BMP-2[tiab] OR BMP2[tiab] OR "demineralized bone matrix"[tiab])
+OR (osteoconduct*[tiab] OR "bone conduction"[tiab] OR "osteoconductive potential"[tiab])
+OR (osteogenic*[tiab] OR osteogenesis[tiab] OR "bone forming"[tiab] OR "bone-forming"[tiab] OR "bone regeneration capacity"[tiab])
+OR (("bone graft"[tiab] OR "bone substitute"[tiab] OR "bone graft material"[tiab] OR allograft[tiab] OR xenograft[tiab] OR alloplast*[tiab]) AND (osteogenic*[tiab] OR osteoinduct*[tiab] OR osteoconduct*[tiab] OR "biologic propert"[tiab] OR "osteogenic potential"[tiab] OR "bone forming potential"[tiab]))
+AND (dental[tiab] OR oral[tiab] OR alveolar[tiab] OR periodontal[tiab] OR maxillofacial[tiab] OR "bone graft"[tiab] OR "bone substitute"[tiab] OR "graft material"[tiab])
+ptyp: Randomized Controlled Trial OR Systematic Review OR Meta-Analysis
+```
+
+stem별 실측(2026-10-22): osteoinduction 210 · osteoconduction 63 · osteogenesis 274 · material-properties 122 → 합집합 515.
+
+**노이즈**: 맥락 항목에 `"bone graft"·"bone substitute"`가 들어가 있어 **정형외학(척추·장골·발목·종양)·뼈 대사·전신골** 논문이 대량 유입(제외 255건 중 124건이 그쪽). `alveolar`는 "inferior alveolar nerve"도 잡고, `osteoinduct* + BMP`는 치과 맥락 없는 세포실험을 끌어온다. 골유도 보조제(BMP·PRF·멜라토닌·MSC) 논문은 유효하지만 별도 축 후보 — 큐에서 Tier B로 두었다.
+
+**라우팅**: 조직계측·잔존 이식재 → `bone-regeneration/`, 상악동 → `bone-regeneration/`(sinus), 치주 내낭 → periodontics 재생, 치아유래 이식재 → `bone-regeneration/`(ridge-preservation), 성장인자 → `bone-regeneration/` 보조제.
+
+**현황 (2026-10-22 신규 토픽 백필, 전 기간)**: 합집합 515 → 기보유(PMID·DOI·제목) 15 제외 500 → seen·screened 17 제외 483 스크리닝 → 스크리너 include 217 / borderline 94 / exclude 172 → 상위 모델이 borderline 94건 초록 직접 확인 → **include 228** (OA:PMC 50: CC BY 33·CC BY-NC 6·CC BY-NC-ND 8·unknown 3) 큐 적립 + **255 screened-out**. 티어: A(특성 축 직접) 122 · B(골유도 보조) 50 · C(임플란트 표면) 6 · D(주변 맥락) 50. 상세 로그는 `logs/2026-10-22_surveillance-bone-graft-properties.md`.

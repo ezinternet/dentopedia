@@ -922,3 +922,459 @@ Found by manual PDF discovery (not the original scout search), 2026-07-25 — sa
       "Assessment of the value of anorganic bone additives in sinus floor augmentation: a review of clinical reports." — Int J Oral Maxillofac Surg
 - [ ] PMID 9581402 | MA | OA:none | bone-graft-material | edat 1998
       "A review of survival rates for implants placed in grafted maxillary sinuses using meta-analysis." — Int J Oral Maxillofac Implants
+- [ ] PMID 42740456 | SR | OA:PMC PMC13575443 (CC BY) | bone-graft-properties | edat 2026
+      "Use of cells and/or biologics combined with scaffolds in alveolar bone augmentation for implant site development" — Journal of periodontology
+- [ ] PMID 42471687 | SR+MA | OA:PMC PMC13673600 (CC BY-NC-ND) | bone-graft-properties | edat 2026
+      "BMP-2 in oral-maxillofacial bone augmentation: a systematic review and meta-analysis" — BMC oral health
+- [ ] PMID 42419581 | SR+MA | OA:none | bone-graft-properties | edat 2026
+      "A pre-clinical analysis of immunohistochemistry for bone regeneration and angiogenesis with nanocomposite gels - A systematic review and meta-analysis" — Bone
+- [ ] PMID 42382924 | SR | OA:PMC PMC13314880 (CC BY) | bone-graft-properties | edat 2026
+      "The effectiveness of using recombinant human bone morphogenetic protein-2 in the reconstruction of alveolar clefts: a meta-analysis" — Frontiers in oral health
+- [ ] PMID 42106735 | RCT | OA:PMC PMC13185373 (CC BY) | bone-graft-properties | edat 2026
+      "Innovative photobiomodulation-enhanced T-PRF in posterior mandibular fractures: a randomized pilot study" — BMC oral health
+- [ ] PMID 41944755 | SR | OA:none | bone-graft-properties | edat 2026
+      "Recombinant Human Bone Morphogenetic Protein-2 (rhBMP-2) as an Alternative to Autologous Bone Graft in Pediatric Craniofacial Reconstruction: A Systematic Review" — Annals of plastic surgery
+- [ ] PMID 41906828 | SR | OA:PMC PMC13428272 (CC BY-NC) | bone-graft-properties | edat 2026
+      "Efficacy and safety of recombinant human bone morphogenetic protein-2 biomaterials in promoting bone regeneration: A systematic review and meta-analysis" — Joint diseases and related surgery
+- [ ] PMID 41877620 | RCT | OA:none | bone-graft-properties | edat 2026
+      "Randomized Controlled Trial Comparing Resorption Rates of Mandibular Cortical and Iliac Cancellous Bone Grafts in Alveolar Cleft Repair" — The Cleft palate-craniofacial journal : official publication of the American Cleft Palate-Craniofacial Association
+- [ ] PMID 41876793 | RCT | OA:PMC PMC13013139 (CC BY) | bone-graft-properties | edat 2026
+      "Efficacy of topical application of simvastatin gel combined with a collagen sponge carrier in preserving alveolar ridge dimensions: a triple-blind randomized clinical trial" — Clinical oral investigations
+- [ ] PMID 41797764 | SR | OA:PMC PMC12960125 (CC BY) | bone-graft-properties | edat 2026
+      "The efficacy of platelet-rich fibrin in alveolar ridge preservation: a systematic review and meta-analysis of randomized controlled trials" — Frontiers in medicine
+- [ ] PMID 41699617 | RCT | OA:PMC PMC13014984 (CC BY-NC-ND) | bone-graft-properties | edat 2026
+      "Evaluation of osteogenic effects following alveolar bone augmentation with corticotomy" — BMC oral health
+- [ ] PMID 41624011 | SR | OA:PMC PMC12852991 (CC BY) | bone-graft-properties | edat 2025
+      "Specific gene expression patterns associated as reliable biomarkers for predicting dental implant successful osseointegration: a literature review and focused meta-analysis" — Frontiers in physiology
+- [ ] PMID 41597400 | SR | OA:PMC PMC12843380 (CC BY) | bone-graft-properties | edat 2026
+      "The Role of Insulin-like Growth Factor 2 (IGF-2) in Periodontal Regeneration: A Systematic Review" — Medicina (Kaunas, Lithuania)
+- [ ] PMID 41526568 | SR+MA | OA:none | bone-graft-properties | edat 2026
+      "Clinical efficacy of bioactive glass in periodontal regeneration: a systematic review and meta-analysis" — Odontology
+- [ ] PMID 41525113 | RCT | OA:none | bone-graft-properties | edat 2026
+      "Autologous Dental Pulp Mesenchymal Stem Cell for Third Molar Post Extraction Socket Healing. A split mouth randomized clinical trial" — La Clinica terapeutica
+- [ ] PMID 41496030 | SR | OA:PMC PMC12778111 (CC BY) | bone-graft-properties | edat 2026
+      "Stem cell-derived exosomes in tissue regeneration of oral and maxillofacial region: A systematic review" — Medicine
+- [ ] PMID 41429032 | SR+MA | OA:none | bone-graft-properties | edat 2025
+      "Hyperbaric Oxygen Therapy Enhances Autologous Bone Graft Integration: A Meta-Analysis" — Undersea & hyperbaric medicine : journal of the Undersea and Hyperbaric Medical Society, Inc
+- [ ] PMID 41354918 | SR | OA:PMC PMC12801836 (CC BY-NC-ND) | bone-graft-properties | edat 2025
+      "Therapeutic potential of dental mesenchymal stem cells versus mesenchymal stem cells from other sources: a systematic review of animal studies" — BMC oral health
+- [ ] PMID 41316979 | SR | OA:none | bone-graft-properties | edat 2025
+      "Rare Earth Element Coatings on Titanium Dental Implants for Osseointegration and Peri-implantitis Prevention: A Systematic Review" — The journal of contemporary dental practice
+- [ ] PMID 41289609 | SR | OA:PMC PMC13200894 (CC BY) | bone-graft-properties | edat 2026
+      "Are Buccal Fat Pad-Derived Stem Cells Effective in Adults for Maxillary Bone Regeneration? A Systematic Review" — The Journal of craniofacial surgery
+- [ ] PMID 41213048 | SR | OA:none | bone-graft-properties | edat 2025
+      "Osteogenic Potential of Sr/Zn-Doped Nano Hydroxyapatite Coated Dental Implants: A Systematic Review" — Journal of long-term effects of medical implants
+- [ ] PMID 41159329 | RCT | OA:PMC PMC12573706 (unknown) | bone-graft-properties | edat 2025
+      "[Effect of trapezoidal and modified triangular flaps on mucosal blood supply and osteogenesis after guided bone regeneration]" — Hua xi kou qiang yi xue za zhi = Huaxi kouqiang yixue zazhi = West China journal of stomatology
+- [ ] PMID 41052564 | SR | OA:none | bone-graft-properties | edat 2025
+      "Photobiomodulation enhances osteogenesis in oral and adipose-derived mesenchymal stem cells: A systematic review of in vitro evidence" — Photodiagnosis and photodynamic therapy
+- [ ] PMID 40983270 | SR+MA | OA:none | bone-graft-properties | edat 2025
+      "Functionalization of titanium surfaces with bioactive and antimicrobial peptide coatings - A systematic review and meta-analysis" — Journal of dentistry
+- [ ] PMID 40789823 | RCT | OA:none | bone-graft-properties | edat 2025
+      "Clinical, radiographic and molecular efficacy of LLLT along with minimally invasive flaps in regeneration of periodontal intrabony defects: a randomized controlled clinical trial" — Clinical oral investigations
+- [ ] PMID 40718018 | SR | OA:PMC PMC12289649 (CC BY) | bone-graft-properties | edat 2025
+      "The histological and radiological evaluation of autologous peripheral venous blood concentrates in socket preservation: a systematic review and meta-analysis" — Frontiers in dental medicine
+- [ ] PMID 40716823 | SR+MA | OA:none | bone-graft-properties | edat 2025
+      "THE EFFECT OF DIFFERENT SURFACE MODIFICATIONS ON THE OSSEOINTEGRATION OF DENTAL IMPLANT UNDER DIABETIC CONDITIONS: A SYSTEMATIC REVIEW AND META-ANALYSIS OF IN VITRO RESEARCH" — The journal of evidence-based dental practice
+- [ ] PMID 40671939 | SR | OA:PMC PMC12264639 (CC BY) | bone-graft-properties | edat 2025
+      "Meta-analysis of the effects of calcium phosphate bone tissue engineering scaffolds on orthodontic bone augmentation and tooth movement" — Frontiers in bioengineering and biotechnology
+- [ ] PMID 40604687 | SR | OA:PMC PMC12220678 (CC BY-NC-ND) | bone-graft-properties | edat 2025
+      "Regenerative potential of human dental pulp stem cells in scaffold-based alveolar and jaw bone reconstruction: a systematic review" — BMC oral health
+- [ ] PMID 40459982 | SR | OA:none | bone-graft-properties | edat 2025
+      "Local Delivery of Melatonin Along With Bone Grafts to Improve Osteogenesis" — The Journal of craniofacial surgery
+- [ ] PMID 40388262 | RCT | OA:PMC PMC12087511 (CC BY) | bone-graft-properties | edat 2025
+      "Effectiveness of Recombinant Human Bone Morphogenetic Protein-2 in Socket Preservation: A Randomized Controlled Clinical and Sequential Human Histological Trial (BMP-2 TRIAL)" — Clinical and experimental dental research
+- [ ] PMID 40298179 | RCT | OA:none | bone-graft-properties | edat 2025
+      "Effect of recombinant human bone morphogenetic protein-2 (rhBMP-2) on the volumetric contraction of post-extraction sockets: a double-blinded randomized controlled clinical trial" — Quintessence international (Berlin, Germany : 1985)
+- [ ] PMID 40231349 | RCT | OA:none | bone-graft-properties | edat 2025
+      "The Effectiveness of Hyaluronic Acid on Prefabricated CAD CAM Bone Blocks for Ridge Augmentation: A Split Mouth Study" — Clinical implant dentistry and related research
+- [ ] PMID 40214305 | SR | OA:none | bone-graft-properties | edat 2025
+      "Local Delivery of Various Hormonal Drugs Along With Bone Grafts to Improve Osteogenesis: A Systematic Review" — The Journal of craniofacial surgery
+- [ ] PMID 39954505 | SR | OA:none | bone-graft-properties | edat 2025
+      "A systematic review of wide alveolar cleft repair techniques" — Journal of plastic, reconstructive & aesthetic surgery : JPRAS
+- [ ] PMID 39946741 | RCT | OA:none | bone-graft-properties | edat 2026
+      "Vertical Guided Bone Regeneration: Leukocyte and PRF Bone Block vs a Mixture of Autogenous Bone with DBBM: A Split-Mouth Randomized Controlled Trial with up to 1 Year of Follow-up After Implant Loading" — The International journal of periodontics & restorative dentistry
+- [ ] PMID 39905614 | RCT | OA:none | bone-graft-properties | edat 2024
+      "Evaluation of Effectiveness of Nanocrystalline Hydroxyapatite and Demineralized Bone Matrix Combined with Titanium-platelet Rich Fibrin for Ridge Preservation: A Randomized Controlled Clinical Trial" — The journal of contemporary dental practice
+- [ ] PMID 39901815 | SR | OA:PMC PMC11795317 (CC BY-NC-ND) | bone-graft-properties | edat 2025
+      "Clinical efficacy and safety of P-15 peptide enhanced bone graft substitute in surgical bone regenerative procedures in adult maxillofacial, spine, and trauma patients : a systematic literature review" — Bone & joint research
+- [ ] PMID 39849313 | RCT | OA:none | bone-graft-properties | edat 2025
+      "Histomorphometric and Immunohistochemical Evaluation of Bone Healing Around Implants Placed Using Piezosurgery vs Conventional Drills: A Split-Mouth Pilot Study" — The Journal of oral implantology
+- [ ] PMID 39780243 | SR+MA | OA:PMC PMC11715287 (CC BY-NC-ND) | bone-graft-properties | edat 2025
+      "Therapeutic effect of mesenchymal stem cell-derived exosome therapy for periodontal regeneration: a systematic review and meta-analysis of preclinical trials" — Journal of orthopaedic surgery and research
+- [ ] PMID 39478364 | RCT | OA:PMC PMC11743062 (CC BY-NC-ND) | bone-graft-properties | edat 2025
+      "The Clinical Efficacy and Safety of ErhBMP-2/BioCaP/β-TCP as a Novel Bone Substitute Using the Tooth-Extraction-Socket-Healing Model: A Proof-of-Concept Randomized Controlled Trial" — Journal of clinical periodontology
+- [ ] PMID 39273529 | SR | OA:PMC PMC11394881 (CC BY) | bone-graft-properties | edat 2024
+      "Revolutionizing Bone Regeneration with Grinder-Based Dentin Biomaterial: A Systematic Review" — International journal of molecular sciences
+- [ ] PMID 39219425 | RCT | OA:none | bone-graft-properties | edat 2025
+      "Nanocurcumin-containing Spongy Membrane for Improving the Quality of Hard and Soft Tissues in the Extracted Tooth Area: A Double-Blind Split-Mouth Clinical Trial Study" — Pharmaceutical nanotechnology
+- [ ] PMID 39134887 | SR | OA:none | bone-graft-properties | edat 2024
+      "Recent Advances in Basic Studies of Low-Intensity Pulsed Ultrasound in Periodontal Tissue Regeneration: A Systematic Review" — Stem cell reviews and reports
+- [ ] PMID 38922797 | RCT | OA:none | bone-graft-properties | edat 2024
+      "Randomized split-mouth clinical trial comparing osteoblastic activity and osteogenic potential of autogenous particle harvesting during implant surgery without irrigation and with irrigation" — Clinical implant dentistry and related research
+- [ ] PMID 38905116 | RCT | OA:none | bone-graft-properties | edat 2024
+      "Maxillary Sinus Augmentation with Anorganic Bovine Bone Mineral of Different Particle Sizes: A Split-Mouth Study with Histomorphometric, Radiographic, and Clinical Analyses" — The International journal of oral & maxillofacial implants
+- [ ] PMID 38491807 | SR | OA:none | bone-graft-properties | edat 2024
+      "Tissue engineering innovations to enhance osseointegration in immediate dental implant loading: A narrative review" — Cell biochemistry and function
+- [ ] PMID 38265343 | SR | OA:PMC PMC10802233 (CC BY) | bone-graft-properties | edat 2024
+      "Influence of the addition of nanohydroxyapatite to scaffolds on proliferation and differentiation of human mesenchymal stem cells: a systematic review of in vitro studies" — Brazilian journal of medical and biological research = Revista brasileira de pesquisas medicas e biologicas
+- [ ] PMID 38126565 | RCT | OA:PMC PMC10786453 (CC BY) | bone-graft-properties | edat 2023
+      "The use of integrin binding domain loaded hydrogel (RGD) with minimally invasive surgical technique in treatment of periodontal intrabony defect: a randomized clinical and biochemical study" — Journal of applied oral science : revista FOB
+- [ ] PMID 37978859 | SR | OA:none | bone-graft-properties | edat 2023
+      "Polycaprolactone-based scaffolds for guided tissue regeneration in periodontal therapy: A systematic review" — Journal of applied biomaterials & functional materials
+- [ ] PMID 37843657 | RCT | OA:PMC PMC10579201 (CC BY) | bone-graft-properties | edat 2023
+      "Radiographic and histological evaluation of bone formation induced by rhBMP-2-incorporated biomimetic calcium phosphate material in clinical alveolar sockets preservation" — International journal of implant dentistry
+- [ ] PMID 37715961 | SR | OA:PMC PMC10726404 (CC BY-NC) | bone-graft-properties | edat 2023
+      "Preclinical Evidence for the Use of Oral Mesenchymal Stem Cell-Derived Extracellular Vesicles in Bone Regenerative Therapy: A Systematic Review" — Stem cells translational medicine
+- [ ] PMID 37660446 | SR | OA:none | bone-graft-properties | edat 2023
+      "Efficacy and bone-contact biocompatibility of glass ionomer cement as a biomaterial for bone regeneration: A systematic review" — Journal of the mechanical behavior of biomedical materials
+- [ ] PMID 37658342 | RCT | OA:PMC PMC10474704 (CC BY) | bone-graft-properties | edat 2023
+      "Effect of three different grafting materials on immediate implant placement using vestibular socket therapy in class II extraction sockets in the maxillary esthetic zone: a randomized controlled clinical trial" — BMC oral health
+- [ ] PMID 37518333 | SR+MA | OA:none | bone-graft-properties | edat 2024
+      "Osteogenic effect of low-intensity pulsed ultrasound on peri-implant bone: A systematic review and meta-analysis" — Journal of prosthodontic research
+- [ ] PMID 37501191 | SR+MA | OA:PMC PMC10373408 (CC BY) | bone-graft-properties | edat 2023
+      "TGF-β promotes the proliferation and osteogenic differentiation of dental pulp stem cells a systematic review and meta-analysis" — European journal of medical research
+- [ ] PMID 37495541 | SR | OA:none | bone-graft-properties | edat 2023
+      "Comparative evidence of different surgical techniques for the management of vertical alveolar ridge defects in terms of complications and efficacy: A systematic review and network meta-analysis" — Journal of clinical periodontology
+- [ ] PMID 37295140 | RCT | OA:none | bone-graft-properties | edat 2023
+      "Bone remodelling marker expression in grafted and ungrafted sheep tooth extraction sockets: A comparative randomised study" — Archives of oral biology
+- [ ] PMID 37221532 | RCT | OA:PMC PMC10204669 (CC BY) | bone-graft-properties | edat 2023
+      "Influence of Er:YAG laser irradiation on the outcomes of alveolar ridge preservation at the infected molar sites: a randomized controlled trial" — BMC oral health
+- [ ] PMID 37203174 | SR+MA | OA:PMC PMC11323438 (CC BY-NC) | bone-graft-properties | edat 2024
+      "Stem Cell-Based Tissue Engineering for Cleft Defects: Systematic Review and Meta-Analysis" — The Cleft palate-craniofacial journal : official publication of the American Cleft Palate-Craniofacial Association
+- [ ] PMID 37189187 | SR+MA | OA:PMC PMC10186750 (CC BY) | bone-graft-properties | edat 2023
+      "Evaluating the efficacy of human dental pulp stem cells and scaffold combination for bone regeneration in animal models: a systematic review and meta-analysis" — Stem cell research & therapy
+- [ ] PMID 37047413 | RCT | OA:PMC PMC10094989 (CC BY) | bone-graft-properties | edat 2023
+      "Osteogenic Potential of Autologous Dentin Graft Compared with Bovine Xenograft Mixed with Autologous Bone in the Esthetic Zone: Radiographic, Histologic and Immunohistochemical Evaluation" — International journal of molecular sciences
+- [ ] PMID 37001532 | SR | OA:none | bone-graft-properties | edat 2023
+      "Comparison of the efficacy of different biodegradable membranes in guided bone/tissue regeneration: a systematic review and network meta-analysis" — Biomedical materials (Bristol, England)
+- [ ] PMID 36940923 | RCT | OA:none | bone-graft-properties | edat 2023
+      "Osteogenic markers in peri-implant crevicular fluid in immediate and delayed-loaded dental implants: A randomized controlled trial" — Clinical implant dentistry and related research
+- [ ] PMID 36751833 | RCT | OA:none | bone-graft-properties | edat 2023
+      "Efficacy of rh-PDGF-BB and Emdogain with or without DFDBA using M-MIST in the treatment of intrabony defects" — Nigerian journal of clinical practice
+- [ ] PMID 36645164 | RCT | OA:none | bone-graft-properties | edat 2023
+      "Osteoinductive calcium phosphate with submicron topography as bone graft substitute for maxillary sinus floor augmentation: A translational study" — Clinical oral implants research
+- [ ] PMID 36445774 | RCT | OA:none | bone-graft-properties | edat 2023
+      "A blind randomized controlled pilot trial on recombinant human bone morphogenetic protein-2 in combination with a bioresorbable membrane on periodontal regeneration in mandibular molar furcation defects" — Quintessence international (Berlin, Germany : 1985)
+- [ ] PMID 36399081 | RCT | OA:none | bone-graft-properties | edat 2023
+      "Comparative Study of the Efficacy of Autologous Tooth Bone Powder and Inorganic Bovine Bone Powder on the Repair of Jaw Defects" — Alternative therapies in health and medicine
+- [ ] PMID 36305933 | RCT | OA:none | bone-graft-properties | edat 2022
+      "Comparative Assessment of Bovine Versus Porcine Xenograft for Augmentation: A Randomized Prospective Cohort Study" — The International journal of periodontics & restorative dentistry
+- [ ] PMID 36274166 | RCT | OA:PMC PMC9590225 (CC BY) | bone-graft-properties | edat 2022
+      "The use of 3D ceramic block graft compared with autogenous block graft for rehabilitation of the atrophic maxilla: a randomized controlled clinical trial" — Trials
+- [ ] PMID 35924603 | RCT | OA:none | bone-graft-properties | edat 2023
+      "Flap versus flapless alveolar ridge preservation: A clinical and histological single-blinded, randomized controlled trial" — Journal of periodontology
+- [ ] PMID 35692144 | SR | OA:none | bone-graft-properties | edat 2024
+      "The Role of Growth Factor Delivery Systems on Cellular Activities of Dental Stem Cells: A Systematic Review (Part II)" — Current stem cell research & therapy
+- [ ] PMID 35511290 | RCT | OA:none | bone-graft-properties | edat 2022
+      "Histomorphometric evaluation of different graft associations for maxillary sinus elevation in wide antral cavities: a randomized controlled clinical trial" — Clinical oral investigations
+- [ ] PMID 35509708 | RCT | OA:PMC PMC9061001 (CC BY) | bone-graft-properties | edat 2022
+      "Comparison of rhBMP-2 in Combination with Different Biomaterials for Regeneration in Rat Calvaria Critical-Size Defects" — BioMed research international
+- [ ] PMID 35334092 | SR+MA | OA:PMC PMC9130396 (unknown) | bone-graft-properties | edat 2022
+      "Regenerative Potential of Platelet Rich Fibrin (PRF) in Socket Preservation in Comparison with Conventional Treatment Modalities: A Systematic Review and Meta-Analysis" — Tissue engineering and regenerative medicine
+- [ ] PMID 35224778 | RCT | OA:PMC PMC9313845 (CC BY-NC-ND) | bone-graft-properties | edat 2022
+      "Maxillary sinus floor augmentation comparing bovine versus porcine bone xenografts mixed with autogenous bone graft. A split-mouth randomized controlled trial" — Clinical oral implants research
+- [ ] PMID 35184916 | SR | OA:none | bone-graft-properties | edat 2022
+      "Effectiveness of rhBMP-2 versus iliac autogenous bone graft in reconstructive surgery of cleft patients: an umbrella review" — The British journal of oral & maxillofacial surgery
+- [ ] PMID 34958487 | RCT | OA:PMC PMC9305166 (CC BY-NC) | bone-graft-properties | edat 2022
+      "Informative title: Guided bone regeneration with and without rhBMP-2: 17-year results of a randomized controlled clinical trial" — Clinical oral implants research
+- [ ] PMID 34607598 | RCT | OA:PMC PMC8489104 (CC BY) | bone-graft-properties | edat 2021
+      "Evaluation of osteogenic potential of Cissus quadrangularis on mandibular alveolar ridge distraction" — BMC oral health
+- [ ] PMID 34585856 | SR | OA:none | bone-graft-properties | edat 2021
+      "Recombinant factors for periodontal intrabony defects: A systematic review and network meta-analysis of preclinical studies" — Journal of tissue engineering and regenerative medicine
+- [ ] PMID 34548195 | RCT | OA:none | bone-graft-properties | edat 2021
+      "Clinical, volumetric and densitometric evaluation of tissue engineered constructs for secondary alveolar cleft reconstruction: A randomized clinical trial" — Journal of cranio-maxillo-facial surgery : official publication of the European Association for Cranio-Maxillo-Facial Surgery
+- [ ] PMID 34543475 | RCT | OA:PMC PMC9293361 (CC BY-NC) | bone-graft-properties | edat 2021
+      "Primary bone augmentation leads to equally stable marginal tissue conditions comparing the use of xenograft blocks infused with BMP-2 and autogenous bone blocks: A 3D analysis after 3 years" — Clinical oral implants research
+- [ ] PMID 34502132 | SR | OA:PMC PMC8431254 (CC BY) | bone-graft-properties | edat 2021
+      "Amelogenin-Derived Peptides in Bone Regeneration: A Systematic Review" — International journal of molecular sciences
+- [ ] PMID 34480421 | SR+MA | OA:none | bone-graft-properties | edat 2021
+      "Regenerative benefits of using growth factors in treatment of periodontal defects: A systematic review and meta-analysis with Trial Sequential Analysis on preclinical studies" — Journal of tissue engineering and regenerative medicine
+- [ ] PMID 34456283 | RCT | OA:none | bone-graft-properties | edat 2022
+      "The Effects of Local Alendronate With or Without Recombinant Human Bone Morphogenetic Protein 2 on Dental Implant Stability and Marginal Bone Level: A Randomized Controlled Study" — The Journal of craniofacial surgery
+- [ ] PMID 34294423 | RCT | OA:none | bone-graft-properties | edat 2023
+      "Evaluating the osteogenic potential of insulin-like growth factor-1 microspheres on osteoblastic activity around dental implants in patients with type 2 diabetes mellitus using bone scintigraphy: A split-mouth randomized controlled trial" — The Journal of prosthetic dentistry
+- [ ] PMID 34281325 | SR | OA:none | bone-graft-properties | edat 2021
+      "The effectiveness of autologous demineralized tooth graft for the bone ridge preservation: a systematic review of the literature" — Journal of biological regulators and homeostatic agents
+- [ ] PMID 34159704 | RCT | OA:none | bone-graft-properties | edat 2021
+      "The impact of autologous concentrated growth factors on the alveolar ridge preservation after posterior tooth extraction: A prospective, randomized controlled clinical trial" — Clinical implant dentistry and related research
+- [ ] PMID 34137277 | RCT | OA:none | bone-graft-properties | edat 2022
+      "Comparative Assessment of Autogenous Cancellous Bone Graft and Bovine-Derived Demineralized Bone Matrix for Secondary Alveolar Bone Grafting in Patients With Unilateral Cleft Lip and Palate" — The Cleft palate-craniofacial journal : official publication of the American Cleft Palate-Craniofacial Association
+- [ ] PMID 33895765 | SR | OA:none | bone-graft-properties | edat 2021
+      "Socket preservation or guided bone regeneration - a case report" — Polski merkuriusz lekarski : organ Polskiego Towarzystwa Lekarskiego
+- [ ] PMID 33771659 | RCT | OA:none | bone-graft-properties | edat 2021
+      "Histological evaluation of extraction sites grafted with Bio-Oss Collagen: Randomized controlled trial" — Annals of anatomy = Anatomischer Anzeiger : official organ of the Anatomische Gesellschaft
+- [ ] PMID 33565656 | RCT | OA:none | bone-graft-properties | edat 2021
+      "Alveolar ridge preservation using autogenous whole-tooth versus demineralized dentin grafts: A randomized controlled clinical trial" — Clinical oral implants research
+- [ ] PMID 33491369 | RCT | OA:none | bone-graft-properties | edat 2020
+      "Phycogenic bone substitutes for sinus floor augmentation: Histomorphometric comparison of hydroxyapatite and biphasic calcium phosphate in a randomised clinical pilot study" — International journal of oral implantology (Berlin, Germany)
+- [ ] PMID 33405453 | RCT | OA:none | bone-graft-properties | edat 2021
+      "Effect of Autogenous Dentin Graft on New Bone Formation" — The Journal of craniofacial surgery
+- [ ] PMID 33135215 | SR | OA:none | bone-graft-properties | edat 2021
+      "Structural and chemical features of xenograft bone substitutes: A systematic review of in vitro studies" — Biotechnology and applied biochemistry
+- [ ] PMID 32661522 | RCT | OA:none | bone-graft-properties | edat 2020
+      "Comparative clinical and radiographic evaluation of demineralized freeze-dried bone allograft with and without decortication in the treatment of periodontal intrabony defects: a randomized controlled clinical study" — Quintessence international (Berlin, Germany : 1985)
+- [ ] PMID 32626762 | SR+MA | OA:PMC PMC7315322 (CC BY) | bone-graft-properties | edat 2020
+      "The Effect of Autologous Platelet Concentrates on Maxillary Sinus Augmentation: A Meta-Analysis of Randomized Controlled Trials and Systematic Review" — BioMed research international
+- [ ] PMID 32559039 | RCT | OA:none | bone-graft-properties | edat 2020
+      "Ridge Augmentation Comparing a Cancellous Block Allograft to an Osteoinductive Demineralized Bone Matrix Allograft: A Randomized, Controlled, Blinded Clinical Trial" — The International journal of periodontics & restorative dentistry
+- [ ] PMID 32151557 | SR+MA | OA:none | bone-graft-properties | edat 2020
+      "Outcomes of bone morphogenetic protein-2 and iliac cancellous bone transplantation on alveolar cleft bone grafting: A meta-analysis" — Journal of plastic, reconstructive & aesthetic surgery : JPRAS
+- [ ] PMID 32054425 | RCT | OA:none | bone-graft-properties | edat 2019
+      "Platelet-rich fibrin in combination with decalcified freeze-dried bone allograft for the management of mandibular degree II furcation defect: A randomised controlled clinical trial" — Singapore dental journal
+- [ ] PMID 31972958 | RCT | OA:PMC PMC7073755 (CC BY) | bone-graft-properties | edat 2020
+      "Safety and Efficacy of a New Synthetic Material Based on Monetite, Silica Gel, PS-Wallastonite, and a Hydroxyapatite Calcium Deficient: A Randomized Comparative Clinic Trial" — Medicina (Kaunas, Lithuania)
+- [ ] PMID 31967736 | RCT | OA:PMC PMC7301397 (CC BY) | bone-graft-properties | edat 2020
+      "Alveolar ridge preservation with a collagen cone: Histological, histochemical, and immunohistochemical results of a randomized controlled clinical trial" — Clinical and experimental dental research
+- [ ] PMID 31748982 | RCT | OA:none | bone-graft-properties | edat 2020
+      "Effects of argon plasma treatment on the osteoconductivity of bone grafting materials" — Clinical oral investigations
+- [ ] PMID 31698953 | SR+MA | OA:none | bone-graft-properties | edat 2020
+      "Alveolar Cleft Reconstruction Using Morphogenetic Protein (rhBMP-2): A Systematic Review and Meta-Analysis" — The Cleft palate-craniofacial journal : official publication of the American Cleft Palate-Craniofacial Association
+- [ ] PMID 31246662 | RCT | OA:none | bone-graft-properties | edat 2019
+      "Ridge Augmentation Comparing an Allograft Plus Autogenous Bone Chips to an Osteoinductive Demineralized Bone Matrix: A Clinical and Histologic Study in Humans" — Implant dentistry
+- [ ] PMID 31172607 | RCT | OA:none | bone-graft-properties | edat 2019
+      "Randomized clinical study using xenograft blocks loaded with bone morphogenetic protein-2 or autogenous bone blocks for ridge augmentation - A three-dimensional analysis" — Clinical oral implants research
+- [ ] PMID 31147568 | SR+MA | OA:PMC PMC6542831 (CC BY) | bone-graft-properties | edat 2019
+      "Efficacy of Recombinant Human BMP2 and PDGF-BB in Orofacial Bone Regeneration: A Systematic Review and Meta-analysis" — Scientific reports
+- [ ] PMID 30883942 | RCT | OA:none | bone-graft-properties | edat 2019
+      "A randomized controlled clinical trial evaluating efficacy and adverse events of different types of recombinant human bone morphogenetic protein-2 delivery systems for alveolar ridge preservation" — Clinical oral implants research
+- [ ] PMID 30845084 | RCT | OA:none | bone-graft-properties | edat 2019
+      "Bone Marrow Aspirate in Cystic Maxillofacial Bony Defects" — The Journal of craniofacial surgery
+- [ ] PMID 30719781 | SR+MA | OA:none | bone-graft-properties | edat 2019
+      "Vertical Ridge Gain with Various Bone Augmentation Techniques: A Systematic Review and Meta-Analysis" — Journal of prosthodontics : official journal of the American College of Prosthodontists
+- [ ] PMID 30667522 | SR+MA | OA:none | bone-graft-properties | edat 2019
+      "Effectiveness of vertical ridge augmentation interventions: A systematic review and meta-analysis" — Journal of clinical periodontology
+- [ ] PMID 30631986 | RCT | OA:none | bone-graft-properties | edat 2019
+      "Clinical and radiographic evaluation of amnion chorion membrane and demineralized bone matrix putty allograft for management of periodontal intrabony defects: a randomized clinical trial" — Cell and tissue banking
+- [ ] PMID 30624092 | RCT | OA:none | bone-graft-properties | edat 2018
+      "The effect of leukocyte-platelet-rich fibrin on bone morphogenetic protein-2 and insulin-like growth factor-1 levels in patients with chronic periodontitis: a randomized split mouth clinical trail" — Growth factors (Chur, Switzerland)
+- [ ] PMID 30617584 | RCT | OA:none | bone-graft-properties | edat 2019
+      "Sinus augmentation analysis of the gradient of graft consolidation: a split-mouth histomorphometric study" — Clinical oral investigations
+- [ ] PMID 30521656 | RCT | OA:none | bone-graft-properties | edat 2019
+      "A Comparative Study with Biphasic Calcium Phosphate to Deproteinized Bovine Bone in Maxillary Sinus Augmentation: A Prospective Randomized and Controlled Clinical Trial" — The International journal of oral & maxillofacial implants
+- [ ] PMID 30394216 | SR | OA:none | bone-graft-properties | edat 2019
+      "Transplantation of Adipose-derived Cells for Periodontal Regeneration: A Systematic Review" — Current stem cell research & therapy
+- [ ] PMID 30367200 | SR+MA | OA:none | bone-graft-properties | edat 2019
+      "Efficacy of rhBMP-2 in Cleft Lip and Palate Defects: Systematic Review and Meta-analysis" — Calcified tissue international
+- [ ] PMID 30318113 | SR | OA:none | bone-graft-properties | edat 2019
+      "Titanium mesh associated with rhBMP-2 in alveolar ridge reconstruction" — International journal of oral and maxillofacial surgery
+- [ ] PMID 30199601 | SR | OA:none | bone-graft-properties | edat 2019
+      "Sol-gel bioglasses in dental and periodontal regeneration: A systematic review" — Journal of biomedical materials research. Part B, Applied biomaterials
+- [ ] PMID 30199421 | RCT | OA:none | bone-graft-properties | edat 2018
+      "Comparative Evaluation of Recombinant Human Bone Morphogenetic Protein-2/Hydroxyapatite and Bovine Bone for New Bone Formation in Alveolar Ridge Preservation" — Implant dentistry
+- [ ] PMID 30050947 | RCT | OA:PMC PMC6040296 (CC BY) | bone-graft-properties | edat 2018
+      "Comparative Histological and Histomorphometric Results of Six Biomaterials Used in Two-Stage Maxillary Sinus Augmentation Model after 6-Month Healing" — BioMed research international
+- [ ] PMID 29763985 | SR | OA:none | bone-graft-properties | edat 2018
+      "Induced pluripotent stem cells (iPSCs) as a new source of bone in reconstructive surgery: A systematic review and meta-analysis of preclinical studies" — Journal of tissue engineering and regenerative medicine
+- [ ] PMID 29723339 | RCT | OA:none | bone-graft-properties | edat 2018
+      "Comparing osteogenic effects between concentrated growth factors and the acellular dermal matrix" — Brazilian oral research
+- [ ] PMID 29394177 | SR | OA:none | bone-graft-properties | edat 2018
+      "Outcomes of Alveolar Ridge Preservation With Recombinant Human Bone Morphogenetic Protein-2: A Systematic Review" — Implant dentistry
+- [ ] PMID 29352637 | SR | OA:none | bone-graft-properties | edat 2018
+      "The ability of topical and systemic statins to increase osteogenesis around dental implants: a systematic review of histomorphometric outcomes in animal studies" — International journal of oral and maxillofacial surgery
+- [ ] PMID 29274156 | SR | OA:PMC PMC5822533 (CC BY) | bone-graft-properties | edat 2018
+      "Autogenous teeth used for bone grafting: A systematic review" — Medicina oral, patologia oral y cirugia bucal
+- [ ] PMID 29150957 | RCT | OA:none | bone-graft-properties | edat 2018
+      "Randomized, controlled clinical two-centre study using xenogeneic block grafts loaded with recombinant human bone morphogenetic protein-2 or autogenous bone blocks for lateral ridge augmentation" — Journal of clinical periodontology
+- [ ] PMID 29105932 | SR+MA | OA:none | bone-graft-properties | edat 2018
+      "Bioactive treatments in bone grafts for implant-based rehabilitation: Systematic review and meta-analysis" — Clinical implant dentistry and related research
+- [ ] PMID 28864147 | RCT | OA:none | bone-graft-properties | edat 2017
+      "Randomised controlled clinical trial of augmentation of the alveolar ridge using recombinant human bone morphogenetic protein 2 with hydroxyapatite and bovine-derived xenografts: comparison of changes in volume" — The British journal of oral & maxillofacial surgery
+- [ ] PMID 28863859 | SR | OA:none | bone-graft-properties | edat 2018
+      "Grafting materials for alveolar cleft reconstruction: a systematic review and best-evidence synthesis" — International journal of oral and maxillofacial surgery
+- [ ] PMID 28752693 | RCT | OA:none | bone-graft-properties | edat 2017
+      "Comparison between mineralized cancellous bone allograft and an alloplast material for sinus augmentation: A split mouth histomorphometric study" — Clinical implant dentistry and related research
+- [ ] PMID 28292696 | SR | OA:none | bone-graft-properties | edat 2017
+      "Influence of low-level laser therapy on the healing of human bone maxillofacial defects: A systematic review" — Journal of photochemistry and photobiology. B, Biology
+- [ ] PMID 28291849 | SR+MA | OA:none | bone-graft-properties | edat 2017
+      "Vertical Ridge Augmentation in the Atrophic Mandible: A Systematic Review and Meta-Analysis" — The International journal of oral & maxillofacial implants
+- [ ] PMID 28240608 | RCT | OA:none | bone-graft-properties | edat 2017
+      "Evaluation of Extraction Site Dimensions and Density Using Computed Tomography Treated With Different Graft Materials: A Preliminary Study" — Implant dentistry
+- [ ] PMID 28095650 | SR+MA | OA:none | bone-graft-properties | edat 2018
+      "Bone tissue engineering in oral peri-implant defects in preclinical in vivo research: A systematic review and meta-analysis" — Journal of tissue engineering and regenerative medicine
+- [ ] PMID 27903250 | RCT | OA:PMC PMC5129202 (CC BY) | bone-graft-properties | edat 2016
+      "Effectiveness of bovine-derived xenograft versus bioactive glass with periodontally accelerated osteogenic orthodontics in adults: a randomized, controlled clinical trial" — BMC oral health
+- [ ] PMID 27733094 | SR+MA | OA:none | bone-graft-properties | edat 2017
+      "Cell Cotransplantation Strategies for Vascularized Craniofacial Bone Tissue Engineering: A Systematic Review and Meta-Analysis of Preclinical In Vivo Studies" — Tissue engineering. Part B, Reviews
+- [ ] PMID 27692642 | RCT | OA:none | bone-graft-properties | edat 2016
+      "Implant stability after sinus floor augmentation with deproteinized bovine bone mineral particles of different sizes: a prospective, randomized and controlled split-mouth clinical trial" — International journal of oral and maxillofacial surgery
+- [ ] PMID 27683073 | RCT | OA:none | bone-graft-properties | edat 2017
+      "Monophasic ß-TCP vs. biphasic HA/ß-TCP in two-stage sinus floor augmentation procedures - a prospective randomized clinical trial" — Clinical oral implants research
+- [ ] PMID 27562221 | RCT | OA:none | bone-graft-properties | edat 2016
+      "Synergistic Approach Using Platelet-Rich Fibrin and 1% Alendronate for Intrabony Defect Treatment in Chronic Periodontitis: A Randomized Clinical Trial" — Journal of periodontology
+- [ ] PMID 27524517 | SR+MA | OA:none | bone-graft-properties | edat 2017
+      "Alveolar bone tissue engineering in critical-size defects of experimental animal models: a systematic review and meta-analysis" — Journal of tissue engineering and regenerative medicine
+- [ ] PMID 27513162 | RCT | OA:none | bone-graft-properties | edat 2016
+      "Maxillary Sinus Grafting With Biphasic Bone Ceramic or Autogenous Bone: Clinical, Histologic, and Histomorphometric Results From a Randomized Controlled Clinical Trial" — Implant dentistry
+- [ ] PMID 27440671 | RCT | OA:none | bone-graft-properties | edat 2016
+      "Histological analysis and gene expression profile following augmentation of the anterior maxilla using rhBMP-2/ACS versus autogenous bone graft" — Journal of clinical periodontology
+- [ ] PMID 27256548 | SR | OA:none | bone-graft-properties | edat 2016
+      "Different methods of dentin processing for application in bone tissue engineering: A systematic review" — Journal of biomedical materials research. Part A
+- [ ] PMID 27212154 | RCT | OA:none | bone-graft-properties | edat 2016
+      "Injectable bioactive glass in the restoration of oral bone defect" — European review for medical and pharmacological sciences
+- [ ] PMID 27098201 | SR | OA:none | bone-graft-properties | edat 2017
+      "Melatonin as a pro-osteogenic agent in oral implantology: a systematic review of histomorphometric outcomes in animals and quality evaluation using ARRIVE guidelines" — Journal of periodontal research
+- [ ] PMID 26876144 | RCT | OA:none | bone-graft-properties | edat 2016
+      "Osteogenesis effect of guided bone regeneration combined with alveolar cleft grafting: assessment by cone beam computed tomography" — International journal of oral and maxillofacial surgery
+- [ ] PMID 26822584 | SR | OA:none | bone-graft-properties | edat 2016
+      "Effects of Plants on Osteogenic Differentiation and Mineralization of Periodontal Ligament Cells: A Systematic Review" — Phytotherapy research : PTR
+- [ ] PMID 26800160 | SR+MA | OA:none | bone-graft-properties | edat 2016
+      "Efficacy of Alveolar Vertical Distraction Osteogenesis and Autogenous Bone Grafting for Dental Implants: Systematic Review and Meta-Analysis" — The International journal of oral & maxillofacial implants
+- [ ] PMID 26602586 | RCT | OA:none | bone-graft-properties | edat 2016
+      "Effect of platelet-rich plasma in alveolar distraction osteogenesis: a controlled clinical trial" — The British journal of oral & maxillofacial surgery
+- [ ] PMID 26507862 | RCT | OA:none | bone-graft-properties | edat 2016
+      "The clinical application of rhBMP-7 for the reconstruction of alveolar cleft" — Journal of plastic, reconstructive & aesthetic surgery : JPRAS
+- [ ] PMID 26293185 | RCT | OA:none | bone-graft-properties | edat 2015
+      "Elevation of the maxillary sinus membrane for de-novo bone formation: First results of a prospective study in humans" — Journal of cranio-maxillo-facial surgery : official publication of the European Association for Cranio-Maxillo-Facial Surgery
+- [ ] PMID 25972081 | RCT | OA:none | bone-graft-properties | edat 2016
+      "Platelet rich fibrin combined with decalcified freeze-dried bone allograft for the treatment of human intrabony periodontal defects: a randomized split mouth clinical trail" — Acta odontologica Scandinavica
+- [ ] PMID 25545313 | RCT | OA:none | bone-graft-properties | edat 2016
+      "Deproteinized bovine bone remodeling pattern in alveolar socket: a clinical immunohistological evaluation" — Clinical oral implants research
+- [ ] PMID 25454818 | RCT | OA:none | bone-graft-properties | edat 2014
+      "An evaluation and comparison of the efficacy of nanocrystalline calcium sulfate bone grafts (NanoGen) and medical-grade calcium sulfate bone grafts (DentoGen) in human extraction sockets" — Compendium of continuing education in dentistry (Jamesburg, N.J. : 1995)
+- [ ] PMID 25411740 | RCT | OA:none | bone-graft-properties | edat 2014
+      "Treatment of periodontal intrabony defects using β-TCP alone or in combination with rhPDGF-BB: a randomized controlled clinical and radiographic study" — The International journal of periodontics & restorative dentistry
+- [ ] PMID 25385320 | RCT | OA:none | bone-graft-properties | edat 2015
+      "Comparative study of indigenously prepared and imported, demineralized, freeze-dried, irradiated bone allograft in the treatment of periodontal infrabony defects" — Cell and tissue banking
+- [ ] PMID 25350595 | RCT | OA:PMC PMC4259382 (CC BY) | bone-graft-properties | edat 2014
+      "Effects of local melatonin application on post-extraction sockets after third molar surgery. A pilot study" — Medicina oral, patologia oral y cirugia bucal
+- [ ] PMID 24909628 | RCT | OA:none | bone-graft-properties | edat 2014
+      "Effect of maxillary alveolar reconstruction on nasal symmetry of cleft lip and palate patients: a study comparing iliac crest bone graft and recombinant human bone morphogenetic protein-2" — Journal of plastic, reconstructive & aesthetic surgery : JPRAS
+- [ ] PMID 24844029 | RCT | OA:none | bone-graft-properties | edat 2014
+      "Gingival crevicular fluid bone morphogenetic protein-2 release profile following the use of modified perforated membrane barriers in localized intrabony defects: a randomized clinical trial" — Journal of the International Academy of Periodontology
+- [ ] PMID 24709512 | RCT | OA:none | bone-graft-properties | edat 2014
+      "Ridge preservation using demineralized bone matrix gel with recombinant human bone morphogenetic protein-2 after tooth extraction: a randomized controlled clinical trial" — Journal of oral and maxillofacial surgery : official journal of the American Association of Oral and Maxillofacial Surgeons
+- [ ] PMID 24451333 | SR | OA:none | bone-graft-properties | edat 2014
+      "Are there specific indications for the different alveolar bone augmentation procedures for implant placement? A systematic review" — International journal of oral and maxillofacial surgery
+- [ ] PMID 24393592 | RCT | OA:none | bone-graft-properties | edat 2014
+      "Bone allograft and implant fixation tested under influence of bio-burden reduction, periosteal augmentation and topical antibiotics. Animal experimental studies" — Danish medical journal
+- [ ] PMID 24102703 | SR | OA:none | bone-graft-properties | edat 2015
+      "Alveolar ridge and maxillary sinus augmentation using rhBMP-2: a systematic review" — Clinical implant dentistry and related research
+- [ ] PMID 23998375 | RCT | OA:none | bone-graft-properties | edat 2013
+      "Horizontal ridge augmentation of the atrophic anterior maxilla using rhBMP-2/ACS or autogenous bone grafts: a proof-of-concept randomized clinical trial" — Journal of clinical periodontology
+- [ ] PMID 23875876 | RCT | OA:none | bone-graft-properties | edat 2014
+      "Impact of autogenous concentrated bone marrow aspirate on bone regeneration after sinus floor augmentation with a bovine bone substitute--a split-mouth pilot study" — Clinical oral implants research
+- [ ] PMID 23850157 | RCT | OA:none | bone-graft-properties | edat 2014
+      "Micro-structured calcium phosphate ceramic for donor site repair after harvesting chin bone for grafting alveolar clefts in children" — Journal of cranio-maxillo-facial surgery : official publication of the European Association for Cranio-Maxillo-Facial Surgery
+- [ ] PMID 23837644 | SR | OA:none | bone-graft-properties | edat 2015
+      "Clinical efficacy of growth factors to enhance tissue repair in oral and maxillofacial reconstruction: a systematic review" — Clinical implant dentistry and related research
+- [ ] PMID 23834336 | SR | OA:none | bone-graft-properties | edat 2013
+      "Mesenchymal stem cells in oral reconstructive surgery: a systematic review of the literature" — Journal of oral rehabilitation
+- [ ] PMID 23826643 | RCT | OA:none | bone-graft-properties | edat 2014
+      "Buccal bone formation after flapless extraction: a randomized, controlled clinical trial comparing recombinant human bone morphogenetic protein 2/absorbable collagen carrier and collagen sponge alone" — Journal of periodontology
+- [ ] PMID 23820706 | RCT | OA:none | bone-graft-properties | edat 2013
+      "Effect of xenograft (ABBM) particle size on vital bone formation following maxillary sinus augmentation: a multicenter, randomized, controlled, clinical histomorphometric trial" — The International journal of periodontics & restorative dentistry
+- [ ] PMID 23714894 | RCT | OA:none | bone-graft-properties | edat 2013
+      "Radiographic evaluation of regenerated bone following poly(lactic-co-glycolic) acid/hydroxyapatite and deproteinized bovine bone graft in sinus lifting" — The Journal of craniofacial surgery
+- [ ] PMID 23441793 | RCT | OA:none | bone-graft-properties | edat 2013
+      "Healing properties of implants inserted concomitantly with anorganic bovine bone. A histomorphometric human study" — Australian dental journal
+- [ ] PMID 23430342 | SR | OA:none | bone-graft-properties | edat 2014
+      "Tissue engineering strategies for alveolar cleft reconstruction: a systematic review of the literature" — Clinical oral investigations
+- [ ] PMID 23147291 | RCT | OA:none | bone-graft-properties | edat 2012
+      "Human bone morphogenetic protein-2 use for maxillary reconstruction in cleft lip and palate patients" — The Journal of craniofacial surgery
+- [ ] PMID 22980542 | RCT | OA:none | bone-graft-properties | edat 2013
+      "Alveolar bone healing accompanied by severe swelling in cleft children treated with bone morphogenetic protein-2 delivered by hydrogel" — Journal of plastic, reconstructive & aesthetic surgery : JPRAS
+- [ ] PMID 22766268 | RCT | OA:none | bone-graft-properties | edat 2013
+      "Augmentation of the floor of the maxillary sinus with recombinant human bone morphogenetic protein-7: a pilot radiological and histological study in humans" — The British journal of oral & maxillofacial surgery
+- [ ] PMID 22754902 | RCT | OA:none | bone-graft-properties | edat 2012
+      "A histologic and clinical evaluation of ridge preservation following grafting with demineralized bone matrix, cancellous bone chips, and resorbable extracellular matrix membrane" — The International journal of periodontics & restorative dentistry
+- [ ] PMID 22612370 | SR+MA | OA:none | bone-graft-properties | edat 2013
+      "A systematic review of the use of growth factors in human periodontal regeneration" — Journal of periodontology
+- [ ] PMID 22442781 | RCT | OA:none | bone-graft-properties | edat 2012
+      "Porous titanium granules in the surgical treatment of peri-implant osseous defects: a randomized clinical trial" — The International journal of oral & maxillofacial implants
+- [ ] PMID 22254231 | RCT | OA:none | bone-graft-properties | edat 2012
+      "Histomorphometric analysis of newly formed bone after bilateral maxillary sinus augmentation using two different osteoconductive materials and internal collagen membrane" — The International journal of periodontics & restorative dentistry
+- [ ] PMID 22254226 | RCT | OA:none | bone-graft-properties | edat 2012
+      "The negative effect of combining rhBMP-2 and Bio-Oss on bone formation for maxillary sinus augmentation" — The International journal of periodontics & restorative dentistry
+- [ ] PMID 22168624 | RCT | OA:none | bone-graft-properties | edat 2013
+      "Histologic and histomorphometric evaluation of a synthetic bone substitute for maxillary sinus grafting in humans" — Clinical oral implants research
+- [ ] PMID 22168539 | RCT | OA:none | bone-graft-properties | edat 2013
+      "Hydroxyapatite paste Ostim, without elevation of full-thickness flaps, improves alveolar healing stimulating BMP- and VEGF-mediated signal pathways: an experimental study in humans" — Clinical oral implants research
+- [ ] PMID 21942791 | RCT | OA:none | bone-graft-properties | edat 2012
+      "Ridge preservation with or without an osteoinductive allograft: a clinical, radiographic, micro-computed tomography, and histologic study evaluating dimensional changes and new bone formation of the alveolar ridge" — Journal of periodontology
+- [ ] PMID 21841997 | RCT | OA:none | bone-graft-properties | edat 2011
+      "Corticocancellous porcine bone in the healing of human extraction sockets: combining histomorphometry with osteoblast gene expression profiles in vivo" — The International journal of oral & maxillofacial implants
+- [ ] PMID 21692633 | RCT | OA:none | bone-graft-properties | edat 2012
+      "Histologic comparison of healing after ridge preservation using human demineralized bone matrix putty with one versus two different-sized bone particles" — Journal of periodontology
+- [ ] PMID 21678372 | SR+MA | OA:none | bone-graft-properties | edat 2011
+      "Secondary bone grafting for alveolar cleft in children with cleft lip or cleft lip and palate" — The Cochrane database of systematic reviews
+- [ ] PMID 21465220 | SR | OA:PMC PMC3089722 (CC BY-NC) | bone-graft-properties | edat 2011
+      "Reconstruction of the alveolar cleft: can growth factor-aided tissue engineering replace autologous bone grafting? A literature review and systematic review of results obtained with bone morphogenetic protein-2" — Clinical oral investigations
+- [ ] PMID 21365025 | RCT | OA:none | bone-graft-properties | edat 2011
+      "The feasibility of demineralized bone matrix and cancellous bone chips in conjunction with an extracellular matrix membrane for alveolar ridge preservation: a case series" — The International journal of periodontics & restorative dentistry
+- [ ] PMID 20690854 | RCT | OA:none | bone-graft-properties | edat 2012
+      "Radiologic evaluation of putty versus powder form of demineralized bone matrix in sinus floor elevation" — The Journal of oral implantology
+- [ ] PMID 20467628 | SR+MA | OA:none | bone-graft-properties | edat 2009
+      "The efficacy of horizontal and vertical bone augmentation procedures for dental implants - a Cochrane systematic review" — European journal of oral implantology
+- [ ] PMID 20466473 | RCT | OA:none | bone-graft-properties | edat 2010
+      "Comparison between interpositional bone grafting and osteogenic alveolar distraction in alveolar bone reconstruction" — Journal of oral and maxillofacial surgery : official journal of the American Association of Oral and Maxillofacial Surgeons
+- [ ] PMID 20163243 | RCT | OA:none | bone-graft-properties | edat 2010
+      "Evaluation of maxillary alveolar reconstruction using a resorbable collagen sponge with recombinant human bone morphogenetic protein-2 in cleft lip and palate patients" — Tissue engineering. Part C, Methods
+- [ ] PMID 20139574 | RCT | OA:none | bone-graft-properties | edat 2009
+      "Calcium phosphate cement as a "barrier-graft" for the treatment of human periodontal intraosseous defects" — Indian journal of dental research : official publication of Indian Society for Dental Research
+- [ ] PMID 20038911 | RCT | OA:none | bone-graft-properties | edat 2010
+      "A comparative study of platelet-rich plasma, hydroxyapatite, demineralized bone matrix and autologous bone to promote bone regeneration after mandibular impacted third molar extraction" — Medicina oral, patologia oral y cirugia bucal
+- [ ] PMID 19686934 | RCT | OA:none | bone-graft-properties | edat 2009
+      "Pivotal, randomized, parallel evaluation of recombinant human bone morphogenetic protein-2/absorbable collagen sponge and autogenous bone graft for maxillary sinus floor augmentation" — Journal of oral and maxillofacial surgery : official journal of the American Association of Oral and Maxillofacial Surgeons
+- [ ] PMID 19663965 | SR | OA:none | bone-graft-properties | edat 2009
+      "Effects of implant surface coatings and composition on bone integration: a systematic review" — Clinical oral implants research
+- [ ] PMID 19563329 | RCT | OA:none | bone-graft-properties | edat 2009
+      "Effect of platelet-rich plasma on sinus lifting: a randomized-controlled clinical trial" — Journal of clinical periodontology
+- [ ] PMID 19489935 | RCT | OA:none | bone-graft-properties | edat 2009
+      "A randomized-controlled clinical trial evaluating clinical and radiological outcomes after 3 and 5 years of dental implants placed in bone regenerated by means of GBR techniques with or without the addition of BMP-2" — Clinical oral implants research
+- [ ] PMID 19453850 | RCT | OA:none | bone-graft-properties | edat 2009
+      "Comparison of applying particulate demineralized bone matrix (DBM), putty DBM and open flap debridement in periodontal horizontal bone defects. A 12-month longitudinal, multi-center, triple-blind, split-mouth, randomized, controlled clinical study. Part 1 - clinical and radiographic evaluation" — Journal of oral rehabilitation
+- [ ] PMID 19171004 | RCT | OA:none | bone-graft-properties | edat 2009
+      "Autologous platelet concentrates for bone graft enhancement in sinus lift procedure" — Transfusion
+- [ ] PMID 18724854 | SR | OA:none | bone-graft-properties | edat 2008
+      "Assessment of the potential of growth factors for localized alveolar ridge augmentation: a systematic review" — Journal of clinical periodontology
+- [ ] PMID 18724851 | SR | OA:none | bone-graft-properties | edat 2008
+      "Clinical outcomes of vertical bone augmentation to enable dental implant placement: a systematic review" — Journal of clinical periodontology
+- [ ] PMID 18605603 | RCT | OA:none | bone-graft-properties | edat 2008
+      "Histomorphometric comparison of a biphasic bone ceramic to anorganic bovine bone for sinus augmentation: 6- to 8-month postsurgical assessment of vital bone formation. A pilot study" — The International journal of periodontics & restorative dentistry
+- [ ] PMID 18454659 | RCT | OA:none | bone-graft-properties | edat 2008
+      "Tissue-engineered cultured periosteum used with platelet-rich plasma and hydroxyapatite in treating human osseous defects" — Journal of periodontology
+- [ ] PMID 18280960 | RCT | OA:none | bone-graft-properties | edat 2008
+      "Alveolar distraction osteogenesis versus inlay bone grafting in posterior mandibular atrophy: a prospective study" — Oral surgery, oral medicine, oral pathology, oral radiology, and endodontics
+- [ ] PMID 18176223 | RCT | OA:none | bone-graft-properties | edat 2008
+      "Reduced morbidity and improved healing with bone morphogenic protein-2 in older patients with alveolar cleft defects" — Plastic and reconstructive surgery
+- [ ] PMID 17501979 | RCT | OA:none | bone-graft-properties | edat 2007
+      "Autogenous onlay bone grafts vs. alveolar distraction osteogenesis for the correction of vertically deficient edentulous ridges: a 2-4-year prospective study on humans" — Clinical oral implants research
+- [ ] PMID 16836164 | RCT | OA:none | bone-graft-properties | edat 2006
+      "rhPDGF-BB promotes healing of periodontal defects: 24-month clinical and radiographic observations" — The International journal of periodontics & restorative dentistry
+- [ ] PMID 16441739 | RCT | OA:PMC PMC2579262 (unknown) | bone-graft-properties | edat 2006
+      "Effect of rhPDGF-BB on bone turnover during periodontal repair" — Journal of clinical periodontology
+- [ ] PMID 16297689 | RCT | OA:none | bone-graft-properties | edat 2005
+      "De novo bone induction by recombinant human bone morphogenetic protein-2 (rhBMP-2) in maxillary sinus floor augmentation" — Journal of oral and maxillofacial surgery : official journal of the American Association of Oral and Maxillofacial Surgeons
+- [ ] PMID 15898938 | RCT | OA:none | bone-graft-properties | edat 2005
+      "Evaluation of demineralized bone matrix paste and putty in periodontal intraosseous defects" — Journal of periodontology
+- [ ] PMID 15857102 | RCT | OA:none | bone-graft-properties | edat 2005
+      "Randomized study evaluating recombinant human bone morphogenetic protein-2 for extraction socket augmentation" — Journal of periodontology
+- [ ] PMID 15367186 | RCT | OA:none | bone-graft-properties | edat 2004
+      "Prognostic factors for alveolar regeneration: osteogenic potential of resident bone" — Journal of clinical periodontology
+- [ ] PMID 14971259 | SR | OA:none | bone-graft-properties | edat 2003
+      "Localized ridge augmentation/preservation. A systematic review" — Annals of periodontology
+- [ ] PMID 14752969 | RCT | OA:none | bone-graft-properties | edat 2003
+      "Histologic evaluation of human biopsies after dental augmentation with a demineralized bone matrix putty" — Implant dentistry
+- [ ] PMID 14731181 | RCT | OA:none | bone-graft-properties | edat 2004
+      "Alveolar distraction osteogenesis vs. vertical guided bone regeneration for the correction of vertically deficient edentulous ridges: a 1-3-year prospective study on humans" — Clinical oral implants research
+- [ ] PMID 12969359 | RCT | OA:none | bone-graft-properties | edat 2003
+      "Effect of rhBMP-2 on guided bone regeneration in humans" — Clinical oral implants research
+- [ ] PMID 12956481 | RCT | OA:none | bone-graft-properties | edat 2003
+      "Use of a resorbable hydroxyapatite-collagen chondroitin sulfate material on immediate postextraction sites: a clinical and histologic study" — The International journal of periodontics & restorative dentistry
+- [ ] PMID 12608674 | MA | OA:none | bone-graft-properties | edat 2003
+      "Is platelet-rich plasma the perfect enhancement factor? A current review" — The International journal of oral & maxillofacial implants
+- [ ] PMID 12479641 | RCT | OA:none | bone-graft-properties | edat 2002
+      "Medical grade calcium sulfate hemihydrate versus expanded polytetrafluoroethylene in the treatment of mandibular class II furcations" — Journal of periodontology
+- [ ] PMID 12182293 | RCT | OA:none | bone-graft-properties | edat 2002
+      "Microscopic analysis of reconstructed maxillary alveolar ridges using autogenous bone grafts from the chin and iliac crest" — The International journal of oral & maxillofacial implants
+- [ ] PMID 11938635 | MA | OA:none | bone-graft-properties | edat 2002
+      "Recent outcomes and perspectives of the application of bone morphogenetic proteins in implant dentistry" — Clinical implant dentistry and related research
+- [ ] PMID 11846205 | RCT | OA:none | bone-graft-properties | edat 2002
+      "Histological comparison of healing extraction sockets implanted with bioactive glass or demineralized freeze-dried bone allograft: a pilot study" — Journal of periodontology
+- [ ] PMID 10505802 | RCT | OA:none | bone-graft-properties | edat 1999
+      "Use of bovine-derived anorganic bone associated with guided tissue regeneration in intrabony defects. Six-month evaluation at re-entry" — Journal of periodontology
+- [ ] PMID 9926761 | RCT | OA:none | bone-graft-properties | edat 1998
+      "Periodontal repair in intrabony defects treated with a calcium sulfate implant and calcium sulfate barrier" — Journal of periodontology
+- [ ] PMID 9617677 | RCT | OA:none | bone-graft-properties | edat 1998
+      "Osseous regeneration in the jaws using demineralized allogenic bone implants" — Journal of cranio-maxillo-facial surgery : official publication of the European Association for Cranio-Maxillo-Facial Surgery

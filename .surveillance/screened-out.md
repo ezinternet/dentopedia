@@ -287,3 +287,258 @@
 - PMID 16437460 | bone-graft-material | edat 2006 | screened 2026/10/21 | off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)
 - PMID 15574680 | bone-graft-material | edat 2004 | screened 2026/10/21 | off-topic: not a dental graft-material question (orthopedic/plastic/nerve/peri-implantitis/biologic adjunct/general augmentation)
 - PMID 9579616 | bone-graft-material | edat 1998 | screened 2026/10/21 | borderline: adjunct/technique-focused, graft material not the main comparison
+- PMID 42760515 | bone-graft-properties | edat 2026 | screened 2026/10/22 | 치과(악안면) 골재생 맥락이나 bone lid 수술법 중심 — 이식재 특성축(골전도/골유도) 없음
+- PMID 42747507 | bone-graft-properties | edat 2026 | screened 2026/10/22 | PAOO(골절개-유도 골형성) 치과 맥락이나 이식재 물성 연구 아님
+- PMID 42511792 | bone-graft-properties | edat 2026 | screened 2026/10/22 | GLP-1 약물과 치주건강 — 골이식재 특성 무관
+- PMID 42380972 | bone-graft-properties | edat 2026 | screened 2026/10/22 | maxillectomy에서 점막의 bone-forming potential 활용 — 골형성 관련이나 이식재 물성 연구 아님
+- PMID 42285441 | bone-graft-properties | edat 2026 | screened 2026/10/22 | 요추 척추 유합용 세포성 골이식 — 순수 정형외과·척추
+- PMID 42080597 | bone-graft-properties | edat 2026 | screened 2026/10/22 | m6A 후성유전과 치수 disease — 골이식재와 무관
+- PMID 41980468 | bone-graft-properties | edat 2026 | screened 2026/10/22 | P. gingivalis 외막소포 — 치주 microbiology, 골이식재 무관
+- PMID 41928740 | bone-graft-properties | edat 2025 | screened 2026/10/22 | 메트포민과 골절치유(전신약물·전신골) — 치과 맥락 없음
+- PMID 41867637 | bone-graft-properties | edat 2026 | screened 2026/10/22 | 치수재생(비골)에서의 탈세포 ECM scaffold 반응 — biomaterial bioactivity 관련이나 골이식 아님
+- PMID 41732106 | bone-graft-properties | edat 2026 | screened 2026/10/22 | 수의(말) 합성골 대체재 — 수의학
+- PMID 41692928 | bone-graft-properties | edat 2026 | screened 2026/10/22 | 안면성형외과 로봇 수술 — 무관 분야
+- PMID 41656373 | bone-graft-properties | edat 2026 | screened 2026/10/22 | 활맥수 치료(scaffold/angiogenic) — 골이식재 물성이 아니라 치수재생
+- PMID 41494731 | bone-graft-properties | edat 2026 | screened 2026/10/22 | 활성분자 전달 플랫폼(치수재생) — biomaterial이나 골이식재 축 아님
+- PMID 41474271 | bone-graft-properties | edat 2026 | screened 2026/10/22 | 무치악 교정 수술 계획/결과 — 악안면 골수술이나 이식재 특성 연구 아님
+- PMID 41465594 | bone-graft-properties | edat 2025 | screened 2026/10/22 | 골유전자성(osteogenesis imperfecta) 유전자 변이 — 골대사·유전 질환, 이식재 무관
+- PMID 41462182 | bone-graft-properties | edat 2025 | screened 2026/10/22 | PAOO 절개 설계 비교 — 치과 골형성 맥락이나 이식재 축 아님
+- PMID 41249622 | bone-graft-properties | edat 2025 | screened 2026/10/22 | 치과 조직 stemness에 대한 다이오드 레이저 — 골이식재 물성과 거리
+- PMID 41240634 | bone-graft-properties | edat 2026 | screened 2026/10/22 | 소아 치열 추정(染色体증후군) — 완전 무관
+- PMID 41194764 | bone-graft-properties | edat 2026 | screened 2026/10/22 | 칸나비idiol 치과 응용 — 골이식재 무관
+- PMID 41114874 | bone-graft-properties | edat 2025 | screened 2026/10/22 | 저온 플라즈마의 구강·치과 세포 반응 — 골이식재 물성 study 아님
+- PMID 40729448 | bone-graft-properties | edat 2025 | screened 2026/10/22 | 요추 척추 유합용 osteobiologics — 순수 척추
+- PMID 40417676 | bone-graft-properties | edat 2025 | screened 2026/10/22 | 치주질환 자가포식 bibliometric 분석 — 이식재 무관
+- PMID 40202314 | bone-graft-properties | edat 2025 | screened 2026/10/22 | 상악 distraction osteogenesis vs 교정수술 — 악안면 골형성이나 이식재 물성 아님
+- PMID 40111730 | bone-graft-properties | edat 2025 | screened 2026/10/22 | 치수재생 관세용액의 생체적합성 — 골이식재 무관
+- PMID 40047985 | bone-graft-properties | edat 2025 | screened 2026/10/22 | 소아 골유전자증 이차방사선요법 NMA — 골대사·전신골
+- PMID 39688103 | bone-graft-properties | edat 2025 | screened 2026/10/22 | 치악안면 이상 유전자 돌연볍쥐 — 유전 연구
+- PMID 39612483 | bone-graft-properties | edat 2025 | screened 2026/10/22 | 소아 경추 유합 — 순수 척추/정형외과
+- PMID 39563318 | bone-graft-properties | edat 2024 | screened 2026/10/22 | 상악 분절 distraction osteogenesis — 악안면 골형성이나 이식재 축 아님
+- PMID 39535563 | bone-graft-properties | edat 2024 | screened 2026/10/22 | 골유전자증 성년 전환 — 골대사/전신골, 이식재 무관
+- PMID 39439517 | bone-graft-properties | edat 2024 | screened 2026/10/22 | resveratrol bibliometric — 무관
+- PMID 39425576 | bone-graft-properties | edat 2025 | screened 2026/10/22 | 영아 수면무호흡 관리 — 무관
+- PMID 39402387 | bone-graft-properties | edat 2024 | screened 2026/10/22 | 척추 종양 수술에서 osteobiologics와 유합률 — 척추·종양 재건
+- PMID 39294450 | bone-graft-properties | edat 2024 | screened 2026/10/22 | 골유전자증의 치과 이상 — 유전 질환, 이식재 무관
+- PMID 39218288 | bone-graft-properties | edat 2024 | screened 2026/10/22 | 치수 재광화 코르티코스테로이드 — 골이식재 무관
+- PMID 39127913 | bone-graft-properties | edat 2025 | screened 2026/10/22 | 교정 이동 관련 치주 세포의 초음파 biomodulation — 골이식재 축 아님
+- PMID 39041711 | bone-graft-properties | edat 2024 | screened 2026/10/22 | 로모소주맙 vs 데노수맙(골다공증) — 골대사·전신골
+- PMID 38714394 | bone-graft-properties | edat 2024 | screened 2026/10/22 | TiO2 나노튜브 항균 표면(치과 임플란트) — 골유착 초점 아님
+- PMID 38368383 | bone-graft-properties | edat 2024 | screened 2026/10/22 | corticotomy/PAO 치결 이동 메타분석 — 치과 골형성이나 이식재 축 아님
+- PMID 38319436 | bone-graft-properties | edat 2024 | screened 2026/10/22 | 경추 유합 시 장골 자가골 vs 동종골 — 순수 척추
+- PMID 38302126 | bone-graft-properties | edat 2024 | screened 2026/10/22 | 두개안면·신경인지 장애 환자 수면무호흡 — 무관
+- PMID 38033819 | bone-graft-properties | edat 2023 | screened 2026/10/22 | bioactive glass로 티타늄 정형외과 임플란트 개조 — 골유착 축이나 비치과
+- PMID 37672427 | bone-graft-properties | edat 2023 | screened 2026/10/22 | 골유전자증 환자 치과 이상 — 유전 연구, 이식재 무관
+- PMID 37668640 | bone-graft-properties | edat 2023 | screened 2026/10/22 | 무릎 연골하치술(무릎 관절염) — 순수 정형외과
+- PMID 37517617 | bone-graft-properties | edat 2023 | screened 2026/10/22 | Mg 코팅 티타늄 임플란트 표면개조(골유착) — 축은 맞으나 비치과 임플란트
+- PMID 37353409 | bone-graft-properties | edat 2025 | screened 2026/10/22 | 적층제조 티타늄 임플란트의 기공과 세포부착 — 골유착 관련이나 치과 맥락 불확실
+- PMID 37108180 | bone-graft-properties | edat 2023 | screened 2026/10/22 | 자궁근종의 자궁내막 혈관신생 — 완전 무관
+- PMID 37073914 | bone-graft-properties | edat 2022 | screened 2026/10/22 | 수평 치조 확장에서 bone-splitting vs distraction — 술식 비교, 이식재 축 약함
+- PMID 37038220 | bone-graft-properties | edat 2023 | screened 2026/10/22 | 치수 MSC 분화의 miRNA 조절 — 분화 기전이나 이식재 물성 아님
+- PMID 36682906 | bone-graft-properties | edat 2023 | screened 2026/10/22 | 장골 불유합에서 rhBMP vs 자가골 — 순수 정형외과
+- PMID 36500262 | bone-graft-properties | edat 2022 | screened 2026/10/22 | Cordyceps/cordycepin과 뼈·치아 — 골대사 검토, 이식재 축 아님
+- PMID 36410660 | bone-graft-properties | edat 2023 | screened 2026/10/22 | cleft 관리 프로토콜 종합 — 알베올러 골이식 포함하나 전체 개요
+- PMID 36209217 | bone-graft-properties | edat 2022 | screened 2026/10/22 | PAOO 치과 골재생 맥락이나 주제는 골이식재가 아니라 연골막 대 콜라겐 멤브레인 커버 비교
+- PMID 36080349 | bone-graft-properties | edat 2022 | screened 2026/10/22 | 나노 하이드록시아파타이트 합성법 리뷰 — 생물학적 골이식재 특성 축(골전도·골유도)과의 연결이 간접적
+- PMID 36038792 | bone-graft-properties | edat 2023 | screened 2026/10/22 | 하악관 해부학적 변이 — 골이식재 생물학 무관
+- PMID 35881014 | bone-graft-properties | edat 2022 | screened 2026/10/22 | 경추 전방 감압수술 PEEK 대 동종공 spacer — 순수추수술
+- PMID 35866376 | bone-graft-properties | edat 2022 | screened 2026/10/22 | 약물유발성 턱골괴사(MRONJ) 치료 — 골이식재 특성 축 아님
+- PMID 35671862 | bone-graft-properties | edat 2022 | screened 2026/10/22 | 발목骨折 한약 회복 — 치과 골결손 맥락 없음
+- PMID 35659033 | bone-graft-properties | edat 2022 | screened 2026/10/22 | 장골 불유합에 자가골+BMP — 순수 정형외과, 치과 맥락 없음
+- PMID 35638280 | bone-graft-properties | edat 2024 | screened 2026/10/22 | 광변조(photobiomodulation)의 치주인대幹세포 효과 — 골이식재 축이 아닌 보조 요인
+- PMID 35612823 | bone-graft-properties | edat 2023 | screened 2026/10/22 | Jones fracture orthobiologic — 발목 정형외과
+- PMID 35599043 | bone-graft-properties | edat 2022 | screened 2026/10/22 | 하악 비대칭 교정용 신생골 분만술 — 두개안면 골형성이나마 이식재 특성 비교가 아님
+- PMID 35384280 | bone-graft-properties | edat 2023 | screened 2026/10/22 | 치주인대 신생골 분만술의 주파수 효과 — 골이식재 생물학적 특성 축 아님
+- PMID 35331923 | bone-graft-properties | edat 2022 | screened 2026/10/22 | 동맥류성 골낭종의微创 치료 — 무관
+- PMID 35261818 | bone-graft-properties | edat 2022 | screened 2026/10/22 | TiO2 임플란트 표면과 골개조의 산화스트레스 — 임플란트 표면 특성이며 이식재 축은 간접
+- PMID 35258012 | bone-graft-properties | edat 2022 | screened 2026/10/22 | 두개안면 신생골 분만술의 기도 폐색 치료 목적 — 이식재 특성 비교 부재
+- PMID 35204802 | bone-graft-properties | edat 2022 | screened 2026/10/22 | 치주인대세포 lncRNA 발현 — 골이식재 특성 축과 간접
+- PMID 35162583 | bone-graft-properties | edat 2022 | screened 2026/10/22 | 골이FORMATION 이상증 환자의 치과 임플란트 — 전신골 질환 맥락의 임플란트 생존율
+- PMID 34814921 | bone-graft-properties | edat 2021 | screened 2026/10/22 | PAOO에서 자가 농축 성장인자의 치龈 두께 효과 — 연조직 중심
+- PMID 34551408 | bone-graft-properties | edat 2021 | screened 2026/10/22 | PRP의幹세포 담체로서의 조직재생 — 골이식재 특성 축이 일반 조직재생 수준
+- PMID 34271542 | bone-graft-properties | edat 2021 | screened 2026/10/22 | 요추 수술 후 역행 사정 — 무관
+- PMID 34075816 | bone-graft-properties | edat 2022 | screened 2026/10/22 | 두개안면 신생골 분만술 대 기도 플레이트 — 골이식재 특성 비교 부재
+- PMID 33998210 | bone-graft-properties | edat 2021 | screened 2026/10/22 | 만성 골수염 골결손에 rhBMP-2 첨가 CaP 시멘트 — 비치과 정형외과 감염 영역
+- PMID 33389738 | bone-graft-properties | edat 2021 | screened 2026/10/22 | 무릎 연골-골 이식편 면역학 — 무관
+- PMID 33277737 | bone-graft-properties | edat 2021 | screened 2026/10/22 | 요추 후측방 유합 BMP-2 대 골반골 — 순수 첩추수술
+- PMID 33222944 | bone-graft-properties | edat 2020 | screened 2026/10/22 | 척추 유합 SiCaP 골이식 — 순수 첩추수술
+- PMID 33222339 | bone-graft-properties | edat 2022 | screened 2026/10/22 | 골이FORMATION 이상증 안면malocclusion — 전신골 연구
+- PMID 32871761 | bone-graft-properties | edat 2020 | screened 2026/10/22 | 치아수질 세포 냉동보존 배양 — 골이식재 무관
+- PMID 32761810 | bone-graft-properties | edat 2021 | screened 2026/10/22 | peri-implantitis 레이저 보조 재생술 — 이식재 생물학적 특성 축 아님
+- PMID 32745227 | bone-graft-properties | edat 2020 | screened 2026/10/22 | 어깨(glenoid) 중앙 피그의 골유착 — 순수 정형외과 임플란트
+- PMID 32730985 | bone-graft-properties | edat 2020 | screened 2026/10/22 | 요추 유합 골수幹세포+동종골 대 골반골 — 첩추
+- PMID 32727538 | bone-graft-properties | edat 2020 | screened 2026/10/22 | 사지 장골 불유합 BMP 대 자가골 — 순수 정형외과
+- PMID 32589343 | bone-graft-properties | edat 2020 | screened 2026/10/22 | 골이FORMATION 이상증의 경구 비스포스포네이트 — 전신골 연구
+- PMID 32572661 | bone-graft-properties | edat 2020 | screened 2026/10/22 | 광변조의 치아수질 유래幹세포 효과 — 이식재 축이 아닌 보조 요인
+- PMID 32334598 | bone-graft-properties | edat 2020 | screened 2026/10/22 | 비스포스포네이트 처리 티타늄 표면의 ALP/osteoblast — 임플란트 표면 축
+- PMID 32178882 | bone-graft-properties | edat 2021 | screened 2026/10/22 | 티타늄 표면 화학조성에 따른 세포 생존율 — 이식재 생물특성 축과 간접
+- PMID 32156673 | bone-graft-properties | edat 2020 | screened 2026/10/22 | BRONJ 및 소아·청소년 골이FORMATION 이상증 환자에서의 치과 수술 — 전신골·악골괴사 맥락
+- PMID 32147746 | bone-graft-properties | edat 2020 | screened 2026/10/22 | Ehlers-Danlos 증후군의 치과 발현 — 골이식재 특성 무관
+- PMID 32080858 | bone-graft-properties | edat 2020 | screened 2026/10/22 | 치주 낭내 결함에 배양 치은섬유세포 — 세포치료, 이식재 특성 아님
+- PMID 31923133 | bone-graft-properties | edat 2020 | screened 2026/10/22 | 요추 유합 BMP 대 골반골 — 순수 첩추수술
+- PMID 31324520 | bone-graft-properties | edat 2019 | screened 2026/10/22 | 척추수술 rhBMP-2 실제 임상 — 순수 정형외과
+- PMID 31317669 | bone-graft-properties | edat 2019 | screened 2026/10/22 | CaP 코팅 대 SLA 임플란트 표면의 생존율·주변골 — 임플란트 표면 축
+- PMID 31292724 | bone-graft-properties | edat 2020 | screened 2026/10/22 | 요추 후측방 유합 BMP-2 대 골반골 — 첩추
+- PMID 31079567 | bone-graft-properties | edat 2019 | screened 2026/10/22 | 경추 협착증·골다공증 ACDF 후 졸레드론산 — 무관
+- PMID 31022069 | bone-graft-properties | edat 2019 | screened 2026/10/22 | 경골 임계 크기 결손 rhBMP-2/ACS 대 자가골 — 순수 정형외과 동물모델
+- PMID 30979612 | bone-graft-properties | edat 2019 | screened 2026/10/22 | PAOO의 교정 결과 효과 — 골이식재 특성 축 아님
+- PMID 30884158 | bone-graft-properties | edat 2019 | screened 2026/10/22 | 가속 골성 교정치료의 단·장기 효과 — 이식재 특성 축 아님
+- PMID 30865291 | bone-graft-properties | edat 2019 | screened 2026/10/22 | 골형성 세포 이식을 이용한 치근 피복 — 세포치료, 이식재 특성 축과 간접
+- PMID 30730430 | bone-graft-properties | edat 2019 | screened 2026/10/22 | 요추前方 유합에 신형 골유도성 골대체재 — 순수 첩추수술
+- PMID 30661944 | bone-graft-properties | edat 2019 | screened 2026/10/22 | 임플란트abutment TiO2 표면과 혈관新生·골표지자 — 임플란트 표면 축
+- PMID 30589497 | bone-graft-properties | edat 2019 | screened 2026/10/22 | 치과 임플란트용 PEEK 소재 대 티타늄 — 임플란트 소재 축, 이식재 축과 간접
+- PMID 30576023 | bone-graft-properties | edat 2019 | screened 2026/10/22 | 비증후군성 하악 이상 호르몬·유전자 요인 — 골이식재 무관
+- PMID 30573711 | bone-graft-properties | edat 2019 | screened 2026/10/22 | 치과 임플란트 위한 수직 치조골 소실의 치조 신생골 분만술 — 기술 중심
+- PMID 30341270 | bone-graft-properties | edat 2018 | screened 2026/10/22 | 치조 신생골 분만술 20년 — 기술·역사综述, 이식재 특성 비교 부재
+- PMID 30255842 | bone-graft-properties | edat 2018 | screened 2026/10/22 | 교정적 symphyseal 신생골 분만술 — 이식재 특성 축 아님
+- PMID 30249482 | bone-graft-properties | edat 2018 | screened 2026/10/22 | 하악 중앙선 신생골 분만술 3D 평가 — 기술 중심
+- PMID 30160216 | bone-graft-properties | edat 2018 | screened 2026/10/22 | 골이FORMATION 이상증의 골밀도 향상·갈취 위험 네트워크 MA — 전신골 연구
+- PMID 30130671 | bone-graft-properties | edat 2018 | screened 2026/10/22 | 교정적 치아 이동 중 생물학적 매개체 발현 — 이식재 축과 간접
+- PMID 30095853 | bone-graft-properties | edat 2018 | screened 2026/10/22 | 구개열 환자 상악 신생골 분만술 대 교정술 — 기술 비교 중심
+- PMID 30086203 | bone-graft-properties | edat 2019 | screened 2026/10/22 | 전신질환 선별을 위한 치과 영상의 해면골 구조 — 이식재 특성 무관
+- PMID 29884311 | bone-graft-properties | edat 2018 | screened 2026/10/22 | 외배선성 dysplasia 환자 치과 임플란트 — 전신질환 맥락 임플란트 생존율
+- PMID 29763493 | bone-graft-properties | edat 2018 | screened 2026/10/22 | 치과 임플란트 위한 수직 신생골 분만술의 임상 결과 SR/MA — 기술 중심
+- PMID 29722166 | bone-graft-properties | edat 2018 | screened 2026/10/22 | 알렌드론산·알로에 젤의 치주 furcation 결함 조절 — 골재생 보조제, 이식재 축 아님
+- PMID 29652784 | bone-graft-properties | edat 2018 | screened 2026/10/22 | 요추 후측방 유합 SiCaP 대 BMP-2 합성골 — 순수 첩추수술
+- PMID 29652755 | bone-graft-properties | edat 2018 | screened 2026/10/22 | 하악 골육종 환자 치료·재활 — 뼈 종양 재건 영역
+- PMID 29466057 | bone-graft-properties | edat 2018 | screened 2026/10/22 | 소아 골이FORMATION 이상증의 졸레드론산 대 알렌드론산 — 전신골 연구
+- PMID 29445947 | bone-graft-properties | edat 2018 | screened 2026/10/22 | 후측방 유합용 bone graft material SR — 첩추수술
+- PMID 29436942 | bone-graft-properties | edat 2018 | screened 2026/10/22 | 골형성 신생골 분만술로 증강한 하악 리지의 임플란트 길이 비교 — 이식재 특성 축과 간접
+- PMID 29211309 | bone-graft-properties | edat 2018 | screened 2026/10/22 | 스테이터인+치주치료의 골 관련 효과 SR — 골이식재 특성 축과는 간접
+- PMID 29173997 | bone-graft-properties | edat 2018 | screened 2026/10/22 | 임플란트 삽입 토크별 peri-implant 골·혈관 지표 — 이식재 없이 골유착 생물표지
+- PMID 28744993 | bone-graft-properties | edat 2017 | screened 2026/10/22 | 흡연자/비흡연자 임플란트 골유착 후기 heals·gene expression — 이식재 자체 비교 없음
+- PMID 28652196 | bone-graft-properties | edat 2017 | screened 2026/10/22 | rhBMP-2 척추 후방융합 RCT — 비치과(척추) 문맥
+- PMID 28622897 | bone-graft-properties | edat 2017 | screened 2026/10/22 | 자가지골 미세분말의 척추 유합 효과 SR — 비치과
+- PMID 28419312 | bone-graft-properties | edat 2017 | screened 2026/10/22 | TLIF 유합률·최적 이식재 MA — 비치과 척추
+- PMID 28342094 | bone-graft-properties | edat 2018 | screened 2026/10/22 | rhBMP-7 vs 골반골 자가골 요추 유합 MA — 비치과
+- PMID 28279603 | bone-graft-properties | edat 2017 | screened 2026/10/22 | SARE(빠른 구개 확장) CBCT 영상 평가 SR — 영상·수술기법, 골이식재 주제 아님
+- PMID 28041327 | bone-graft-properties | edat 2017 | screened 2026/10/22 | 척추 종양 절제 후 유합용 bone graft 선택 SR/MA — 비치과 종양 재건
+- PMID 27998031 | bone-graft-properties | edat 2017 | screened 2026/10/22 | bioactive 분자의 pulp vitality 치료 효과 SR — 치수 pulp 재생, 골이식재 주제 아님
+- PMID 27832365 | bone-graft-properties | edat 2017 | screened 2026/10/22 | 인경추 전방 디스크ektomy·유합에 DBM 사용 SR — 비치과 척추
+- PMID 27760454 | bone-graft-properties | edat 2016 | screened 2026/10/22 | osteogenesis imperfecta에서 bisphosphonate 치료 — 전신 뼈 대사, 이식재 아님
+- PMID 27692113 | bone-graft-properties | edat 2016 | screened 2026/10/22 | allograft+OP-1 요추 후방융합 7년 추적 — 비치과
+- PMID 27609710 | bone-graft-properties | edat 2016 | screened 2026/10/22 | 하악골 연골수 osteogenesis 안정성 SR — 골생성 기법이나 이식재 특성 축과는 간접
+- PMID 27560166 | bone-graft-properties | edat 2016 | screened 2026/10/22 | PEEK의 bioactivity·osseointegration 대 Ti — bioactivity 축이나 이식재가 아닌 임플란트 재료
+- PMID 27504532 | bone-graft-properties | edat 2016 | screened 2026/10/22 | ESWT 적용 후 하악골 골수혈 성장인자 — 골형성 축 관련이나 이식재 연구 아님
+- PMID 27482615 | bone-graft-properties | edat 2016 | screened 2026/10/22 | 성인 osteogenesis imperfecta의 bisphosphonate — 전신 뼈대사 치료
+- PMID 27473706 | bone-graft-properties | edat 2016 | screened 2026/10/22 | rat 요추 후방융합에서의 자가/동종 이식재 MA — 비치과 척추 모델
+- PMID 27432270 | bone-graft-properties | edat 2016 | screened 2026/10/22 | 개에서 lysophosphatidic acid hydrogel의 골치유 — 수의학, 비치과
+- PMID 27422104 | bone-graft-properties | edat 2016 | screened 2026/10/22 | 치주 조직 유래 fibroblast에 대한 diode 저출력 레이저 in vitro SR — 골이식재 축과 간접
+- PMID 27231812 | bone-graft-properties | edat 2016 | screened 2026/10/22 | 척추 유합에서 합성 bone graft vs 자가/동종 SR — 비치과
+- PMID 27164563 | bone-graft-properties | edat 2016 | screened 2026/10/22 | 임플란트 표면 laminin 코팅과 osseointegration SR — 골유착 축이나 이식재 아님
+- PMID 27031772 | bone-graft-properties | edat 2016 | screened 2026/10/22 | rhBMP-2 요추 유합 환자특성 MA — 비치과
+- PMID 26984911 | bone-graft-properties | edat 2016 | screened 2026/10/22 | OP-1 vs 골반골 자가골 후방융합 비열등성 RCT — 비치과
+- PMID 26961193 | bone-graft-properties | edat 2016 | screened 2026/10/22 | 척추 수술에서 BMP 사용의 합병증·결과 SR — 비치과
+- PMID 26747915 | bone-graft-properties | edat 2015 | screened 2026/10/22 | 장골 감염에 bioactive glass 사용 SR — 비치과
+- PMID 26567087 | bone-graft-properties | edat 2016 | screened 2026/10/22 | P-15 biofunctionalized 임플란트 표면의 osseointegration 전임상 — 골유착 축이나 이식재 아님
+- PMID 26381895 | bone-graft-properties | edat 2015 | screened 2026/10/22 | tricalcium silicate 시멘트에 대한 치수 세포 유전자 발현 SR — 치수 재생, 골이식재 주제 아님
+- PMID 26359326 | bone-graft-properties | edat 2015 | screened 2026/10/22 | dibotermin alfa의 비용효과성(요추 유합) MA — 비치과·약물 경제성
+- PMID 26115209 | bone-graft-properties | edat 2015 | screened 2026/10/22 | 비둘기 ulna critical-size defect의 천연·합성 골이식 비교 — 수의학, 비치과
+- PMID 26021524 | bone-graft-properties | edat 2015 | screened 2026/10/22 | 소아 osteogenesis imperfecta bisphosphonate 치료 SR — 전신 뼈대사
+- PMID 25911054 | bone-graft-properties | edat 2015 | screened 2026/10/22 | 치주·치아이동을 수술로 보조하는 SR — 이식재·골형성 축 아님
+- PMID 25857283 | bone-graft-properties | edat 2015 | screened 2026/10/22 | BSSO vs distraction osteogenesis 비교 MA — 골생성 기법이나 이식재 특성 축과 간접
+- PMID 25848134 | bone-graft-properties | edat 2015 | screened 2026/10/22 | rhPDGF-BB+β-TCP로 발목/족부 유합 RCT — 비치과(족부)
+- PMID 25844482 | bone-graft-properties | edat 2016 | screened 2026/10/22 | osteogenesis imperfecta에서 bisphosphonate의 BMD·골절 MA — 전신 뼈대사
+- PMID 25842053 | bone-graft-properties | edat 2015 | screened 2026/10/22 | 후천성 변형 하악골 distraction osteogenesis 합병증 SR — 골생성 기법, 간접
+- PMID 25615629 | bone-graft-properties | edat 2015 | screened 2026/10/22 | B2A peptide로 요추 유합 촉진 RCT — 비치과
+- PMID 25444240 | bone-graft-properties | edat 2015 | screened 2026/10/22 | statins의 치주염 다면적 효과 SR — 골 관련 효과는 간접
+- PMID 25442740 | bone-graft-properties | edat 2015 | screened 2026/10/22 | 선천성 변형 하악골 distraction osteogenesis 합병증 SR — 골생성 기법, 간접
+- PMID 25315149 | bone-graft-properties | edat 2014 | screened 2026/10/22 | 대퇴골두 무혈성괴사에서 bone marrow buffy coat grafting — 비치과(고관절)
+- PMID 25299264 | bone-graft-properties | edat 2014 | screened 2026/10/22 | 척추 arthrodesis 생물학적 대체제 비용효과 SR — 비치과
+- PMID 25148931 | bone-graft-properties | edat 2015 | screened 2026/10/22 | 선천성 변형 하악골 distraction osteogenesis 합병증 SR — 골생성 기법, 간접
+- PMID 25054949 | bone-graft-properties | edat 2014 | screened 2026/10/22 | osteogenesis imperfecta bisphosphonate 치료 MA — 전신 뼈대사
+- PMID 24945290 | bone-graft-properties | edat 2014 | screened 2026/10/22 | BMP vs 골반골 자가골 요추 유합 SR/MA — 비치과
+- PMID 24886911 | bone-graft-properties | edat 2014 | screened 2026/10/22 | BMP·골반골 자가골을 쓴 요추 유합 MA — 비치과
+- PMID 24683657 | bone-graft-properties | edat 2014 | screened 2026/10/22 | rhBMP-2 vs 골반골 자가골 후방 C1-C2 유합 RCT — 비치과
+- PMID 24253788 | bone-graft-properties | edat 2014 | screened 2026/10/22 | silicate-substituted calcium phosphate vs rhBMP-2 최소침습 TLIF — 비치과
+- PMID 24189759 | bone-graft-properties | edat 2013 | screened 2026/10/22 | 루미코이드관절염의 neridronate(전신약) RCT — 이식재 무관
+- PMID 24186676 | bone-graft-properties | edat 2014 | screened 2026/10/22 | 고관절 revision cup 고정과 BMD에 대한 risedronate RCT — 비치과(정형외과)
+- PMID 24158337 | bone-graft-properties | edat 2013 | screened 2026/10/22 | 즉시 하중 vs 비하중 치과 임플란트의 골 표지물질 방출 — 이식재 없이 골유착 지표
+- PMID 24151272 | bone-graft-properties | edat 2013 | screened 2026/10/22 | radius 원위부 골절에 AlloMatrix bone graft RCT — 비치과(상지)
+- PMID 23927913 | bone-graft-properties | edat 2013 | screened 2026/10/22 | 소아 osteogenesis imperfecta risedronate RCT(Lancet) — 전신 뼈대사
+- PMID 23824386 | bone-graft-properties | edat 2013 | screened 2026/10/22 | rhPDGF-BB/β-TCP가 자가골 대체 — 축은 맞으나 치과맥락(치주 결손 등) 여부 확인 필요
+- PMID 23778906 | bone-graft-properties | edat 2013 | screened 2026/10/22 | rhBMP-2 척추 유합 SR/MA — 비치과
+- PMID 23778905 | bone-graft-properties | edat 2013 | screened 2026/10/22 | rhBMP-2 척추 유합 IPD MA — 비치과
+- PMID 23444134 | bone-graft-properties | edat 2013 | screened 2026/10/22 | lateral interbody lumbar fusion에 silicate calcium phosphate vs rhBMP-2 — 비치과
+- PMID 23440339 | bone-graft-properties | edat 2013 | screened 2026/10/22 | 척추 유합 이식재 대안 비교 SR — 비치과
+- PMID 23317473 | bone-graft-properties | edat 2013 | screened 2026/10/22 | 골수 defect repair용 scaffold SR — 골 재생 축이나 치과 맥락 불특정
+- PMID 23317469 | bone-graft-properties | edat 2013 | screened 2026/10/22 | stem cell을 이용한 골 repair SR — 골형성 축이나 치과 맥락 불특정
+- PMID 23164323 | bone-graft-properties | edat 2012 | screened 2026/10/22 | 나노미터 산화 임플란트 표면의 조직·조직계측(in vitro/in vivo) — osseointegration 축, 이식재 아님
+- PMID 23059581 | bone-graft-properties | edat 2012 | screened 2026/10/22 | biocompatible implant surface treatment SR — 임플란트 표면, 이식재 축 아님
+- PMID 22941273 | bone-graft-properties | edat 2012 | screened 2026/10/22 | rhBMP-2 vs 골반골 자가골 요추 유합 MA — 비치과
+- PMID 22905609 | bone-graft-properties | edat 2012 | screened 2026/10/22 | 퇴행성 요추병3종 골이식재 비교 RCT — 비치과
+- PMID 22414999 | bone-graft-properties | edat 2012 | screened 2026/10/22 | 요추 후방융합의 osteoconductive graft extender SR — 비치과 척추
+- PMID 22076647 | bone-graft-properties | edat 2012 | screened 2026/10/22 | 요추 유합의 동종골 vs 골수골 비교 — 비치과 순수 척추 수술
+- PMID 21962451 | bone-graft-properties | edat 2011 | screened 2026/10/22 | 알렌드론산의 약동학·내약성 — 골대사 약물 연구, 이식재 특성 무관
+- PMID 21958662 | bone-graft-properties | edat 2012 | screened 2026/10/22 | 상악 distraction osteogenesis 대 정형교정술의 연조직 변화 — 치과 골재생 맥락이나 이식재 특성 축이 아님
+- PMID 21909466 | bone-graft-properties | edat 2011 | screened 2026/10/22 | 뼈 종양 수술에서 주사형 황산칼슘 이식 — 종양 재건, 명백히 다른 주제
+- PMID 21739105 | bone-graft-properties | edat 2012 | screened 2026/10/22 | osteogenesis imperfecta 성인 리세드론산 골밀도 연구 — 뼈 대사·전신골 연구
+- PMID 21729796 | bone-graft-properties | edat 2011 | screened 2026/10/22 | 척추수술 rhBMP-2 임상시험 비평 — 비치과 척추 맥락
+- PMID 21518005 | bone-graft-properties | edat 2011 | screened 2026/10/22 | 치수골幹세포 동결저장법 비교 — 이식재 특성 축과 무관
+- PMID 21514409 | bone-graft-properties | edat 2011 | screened 2026/10/22 | 칼슘수용체 길항제(ATF936)의 골밀도 — 골대사 약물 연구
+- PMID 21262402 | bone-graft-properties | edat 2011 | screened 2026/10/22 | 폐경 후 골다공증에서 테리파티드 vs 스트론튬 연골골 생검 — 골대사 연구, 이식재 무관
+- PMID 21106710 | bone-graft-properties | edat 2011 | screened 2026/10/22 | 소아 osteogenesis imperfecta 알렌드론산 — 뼈 대사
+- PMID 20887146 | bone-graft-properties | edat 2010 | screened 2026/10/22 | OP-1 면역원성, 요추 후측방 유합 — 비치과 척추
+- PMID 20688196 | bone-graft-properties | edat 2011 | screened 2026/10/22 | 'Bone substitutes in the Netherlands' 시스탬틱 리뷰 — 치과 포함 범위 불확실
+- PMID 20452186 | bone-graft-properties | edat 2010 | screened 2026/10/22 | 양측 하악골 분절술 vs distraction osteogenesis의 하치신경 기능 — 치과 골재생 맥락이나 이식재 축 아님
+- PMID 20045231 | bone-graft-properties | edat 2010 | screened 2026/10/22 | 구강·안면수술용 자가설문지 도구 검토 — 골이식 생물학과 무관
+- PMID 19951027 | bone-graft-properties | edat 2009 | screened 2026/10/22 | 요추 유합 골유도 대체재 시스탬틱 리뷰 — 비치과 척추
+- PMID 19940728 | bone-graft-properties | edat 2009 | screened 2026/10/22 | 요추 후측방 유합의 자가골·골수농축액·황산칼슘 비교 — 순수 척추
+- PMID 19786130 | bone-graft-properties | edat 2010 | screened 2026/10/22 | 칼슘수용체 길항제로 PTH 상승·골형성 유도 — 골대사 약물, 이식재 무관
+- PMID 19571082 | bone-graft-properties | edat 2009 | screened 2026/10/22 | 척추 후측방 관절융합에 rhBMP-2 + 골전도성 벌크제 — 비치과 척추
+- PMID 19487515 | bone-graft-properties | edat 2009 | screened 2026/10/22 | 척추 후측방 융합용 최적화 rhBMP-2 제제 — 비치과
+- PMID 19453849 | bone-graft-properties | edat 2009 | screened 2026/10/22 | 동일 시험의 Part 2로 치주 연조직 평가 — 골이식 특성 축은 약함
+- PMID 19338452 | bone-graft-properties | edat 2009 | screened 2026/10/22 | 폐경 후 골다공증 테리파티드 vs 스트론튀 생검·골회전 — 골대사
+- PMID 19257821 | bone-graft-properties | edat 2009 | screened 2026/10/22 | 소아 OI 리세드론산 — 뼈 대사
+- PMID 19251751 | bone-graft-properties | edat 2009 | screened 2026/10/22 | 골절의 저강도 초음파 파동 치료 리뷰 — 이식재 특성 무관
+- PMID 19179918 | bone-graft-properties | edat 2009 | screened 2026/10/22 | 고령 환자 요추 유합 rhBMP-2 대 골반골 이식의 비용-효용 — 비치과 척추
+- PMID 19027898 | bone-graft-properties | edat 2008 | screened 2026/10/22 | 장골 불유합에 rhBMP-7 + PRP — 순수 정형외과
+- PMID 18843680 | bone-graft-properties | edat 2008 | screened 2026/10/22 | bisphosphonate therapy for OI — 뼈 대사
+- PMID 18758349 | bone-graft-properties | edat 2008 | screened 2026/10/22 | 요추 후측방 유합 자가골·BMP 메타분석 — 비치과 척추
+- PMID 17822881 | bone-graft-properties | edat 2008 | screened 2026/10/22 | alveolar distraction osteogenesis 시스탬틱 리뷰 — 치과 골재생 기법이나 이식재 특성 비교는 없음
+- PMID 17669279 | bone-graft-properties | edat 2007 | screened 2026/10/22 | 비치유 골절·척추 유합 BMP의 임상적·경제적 효과 — 비치과
+- PMID 17588821 | bone-graft-properties | edat 2008 | screened 2026/10/22 | OP-1 대 골반골 자가골, 요추 후측방 융합 — 비치과 척추
+- PMID 17526436 | bone-graft-properties | edat 2008 | screened 2026/10/22 | 요추 유합 Infuse bone graft의 수술중 비용 — 비치과·비용 연구
+- PMID 17308899 | bone-graft-properties | edat 2007 | screened 2026/10/22 | 소아 OI olpadronate QoL — 뼈 대사
+- PMID 17269876 | bone-graft-properties | edat 2007 | screened 2026/10/22 | 말의 phenylbutazone이 연골·골대사 표지자에 미치는 영향 — 수의학
+- PMID 17047540 | bone-graft-properties | edat 2006 | screened 2026/10/22 | rhBMP-2/CRM 대 골반골 이식, 단일구역 도구고정 요추 유합 — 비치과 척추
+- PMID 16980862 | bone-graft-properties | edat 2006 | screened 2026/10/22 | 구개열 상악 distraction 대 정형교정술의 합병증·재발 — 치과 골재생 맥락이나 이식재 특성 축 아님
+- PMID 16818967 | bone-graft-properties | edat 2006 | screened 2026/10/22 | 경골 교차결손 재건에 rhBMP-2 + 동종골 대 자가골 — 순수 정형외과
+- PMID 16648739 | bone-graft-properties | edat 2006 | screened 2026/10/22 | 요추 후측방 유합 OP-1 대 자가골+세라믹, 조직학 — 비치과 척추
+- PMID 16418786 | bone-graft-properties | edat 2006 | screened 2026/10/22 | 성인 OI 알렌드론산 골밀도 — 뼈 대사
+- PMID 16402229 | bone-graft-properties | edat 2006 | screened 2026/10/22 | 비수술 치주 치료 후 유동 칼슘수산화 감액의 연조직 치유 — 이식재·골형성 축 없음
+- PMID 16371892 | bone-graft-properties | edat 2005 | screened 2026/10/22 | OP-1 Putty 대 골반골 자가골, 요추 후측방 융합 — 비치과 척추
+- PMID 16355282 | bone-graft-properties | edat 2006 | screened 2026/10/22 | 소아 OI 알렌드론산 대 pamidronate — 뼈 대사
+- PMID 16294137 | bone-graft-properties | edat 2005 | screened 2026/10/22 | 소아 OI 알렌드론산의 QoL 영향 — 뼈 대사
+- PMID 16187727 | bone-graft-properties | edat 2005 | screened 2026/10/22 | 골반골 공여부 채움에 산호질 하이드록시아파타이트 — 이식재 관련이나 치과 결손 맥락 없음
+- PMID 16161123 | bone-graft-properties | edat 2006 | screened 2026/10/22 | 경골 절골술 골치유에 혈소판 젤 첨가 동결건조골 — 순수 정형외과
+- PMID 16154316 | bone-graft-properties | edat 2006 | screened 2026/10/22 | 구개열 상악 절골술 대 distraction osteogenesis 메타분석 — 치과 골재생 기법 비교, 이식재 특성 축은 간접
+- PMID 16094268 | bone-graft-properties | edat 2005 | screened 2026/10/22 | 요추 후측방 유합 rhBMP-2/CRM + HA-TCP 콜라겐 캐리어 — 비치과 척추
+- PMID 15930528 | bone-graft-properties | edat 2005 | screened 2026/10/22 | 요추 전방수술에 rhBMP-2 + 구조성皮质 동종골 — 비치과 척추
+- PMID 15827104 | bone-graft-properties | edat 2005 | screened 2026/10/22 | 소아 OI 알렌드론산 약동학 — 뼈 대사
+- PMID 15744697 | bone-graft-properties | edat 2004 | screened 2026/10/22 | 경골 불유합의 OP-1 — 순수 정형외과
+- PMID 15699810 | bone-graft-properties | edat 2005 | screened 2026/10/22 | 요추 전방 Cage 유합 후 골반골 공여부 통증 — 이식재 특성 아님
+- PMID 15679068 | bone-graft-properties | edat 2005 | screened 2026/10/22 | 소아 OI 경구 대 정맥 bisphosphonate — 뼈 대사
+- PMID 15534410 | bone-graft-properties | edat 2004 | screened 2026/10/22 | OP-1 Putty 대 골반골 자가골, 퇴행성 척탈분증 요추 유합 — 비치과 척추
+- PMID 15386160 | bone-graft-properties | edat 2004 | screened 2026/10/22 | 상완 골절 치유에 칼슘·비타민 D3 — 골대사/영양, 이식재 무관
+- PMID 15363423 | bone-graft-properties | edat 2004 | screened 2026/10/22 | rhBMP-2 + 원통형 Cage를 이용한 요추 후방 Cage 유합 — 비치과 척추
+- PMID 15121405 | bone-graft-properties | edat 2004 | screened 2026/10/22 | 소아 OI olpadronate (Lancet) — 뼈 대사
+- PMID 14589495 | bone-graft-properties | edat 2002 | screened 2026/10/22 | 척추수술에서의 골이식 대안 — 비치과
+- PMID 12811263 | bone-graft-properties | edat 2003 | screened 2026/10/22 | rhBMP-2 + 동종골 링을 이용한 경추 유합 — 비치과 척추
+- PMID 12679664 | bone-graft-properties | edat 2003 | screened 2026/10/22 | INFUSE bone graft 대 자가골, LT-CAGE 유합 분석 — 비치과 척추
+- PMID 12590213 | bone-graft-properties | edat 2003 | screened 2026/10/22 | rhBMP-2 사용 Cage 간 유합의 방사선 평가 — 비치과 척추
+- PMID 12461392 | bone-graft-properties | edat 2002 | screened 2026/10/22 | rhBMP-2 후측방 요추 유합 사람 임상 파일럿(Volvo Award) — 비치과 척추
+- PMID 12438990 | bone-graft-properties | edat 2002 | screened 2026/10/22 | rhBMP-2를 쓴 요추 전방 Cage 유합 결과 — 비치과 척추
+- PMID 12038846 | bone-graft-properties | edat 2002 | screened 2026/10/22 | 요추 Cage 유합에 β-TCP bone extender — 순수 정형외과
+- PMID 10871223 | bone-graft-properties | edat 2000 | screened 2026/10/22 | 말에서 DBM 대 자가 cancellous bone 골치유 비교 — 수의학
+- PMID 10710871 | bone-graft-properties | edat 2000 | screened 2026/10/22 | 중화성 화농성 중이염의 ofloxacin vs amoxicillin — 완전 무관 분야
+- PMID 10703113 | bone-graft-properties | edat 2000 | screened 2026/10/22 | Cage 내 rhBMP-2의 사람 골유도('osteoinduction') 보고 — 비치과 척추
+- PMID 10528370 | bone-graft-properties | edat 1999 | screened 2026/10/22 | 개에서 rhBMP 용량·캐리어 비교 요추 유합 — 수의학·비치과
+- PMID 10404809 | bone-graft-properties | edat 1999 | screened 2026/10/22 | 폐경 후 여성에서 경비 17β-estradiol의 골회전·IGF-I — 골대사
+- PMID 10191743 | bone-graft-properties | edat 1999 | screened 2026/10/22 | 사망 시大腿골두에서 impaction bone-grafting의 스크루 고정력 — 순수 정형외과
+- PMID 9893933 | bone-graft-properties | edat 1998 | screened 2026/10/22 | monofluorophosphate 제제·칼슘의 약동학 — 약물 연구
+- PMID 8998877 | bone-graft-properties | edat 1996 | screened 2026/10/22 | hindfoot arthrodesis에 DBM 사용 — 순수 정형외과
+- PMID 8893437 | bone-graft-properties | edat 1996 | screened 2026/10/22 | 경추 전방 디스케(Vec) 후방유합에서 골전도성 고분자 대 골반골 — 비치과 척추
+- PMID 8545714 | bone-graft-properties | edat 1995 | screened 2026/10/22 | 경추 전방 유합 동종골+DBM 대 자가골 — 비치과 척추
+- PMID 8181915 | bone-graft-properties | edat 1993 | screened 2026/10/22 | root conditioning + GTR의 치주 조직학 — 치과 맥락이나 이식재 생물학적 특성 축은 약함
+- PMID 293141 | bone-graft-properties | edat 1979 | screened 2026/10/22 | 항암제 메토트렉세이트 환자의 delta-9-THC 구역억제제 — 완전 무관
