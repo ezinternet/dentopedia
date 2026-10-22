@@ -15,6 +15,8 @@ source_url: https://pubmed.ncbi.nlm.nih.gov/41221963/
 
 Ossix Volumax 서베일런스 2026-10-22. Ossix Plus (GLYMATRIX cross-linked porcine collagen) vs Bio-Gide (non-cross-linked) in rat calvaria critical defect — 가장 최신(2025)이고 방법론이 강한 전임상 비교 연구. Cross-linking이 장기(60일) 골재생에서 우위를 보임.
 
+→ [[bone-regeneration/baggio-2025-ossix-plus-vs-biogide-rat-calvaria-gbr]]
+
 ## Three-line Summary
 
 Preclinical animal study (UNESP, Brazil, Braz Oral Res 2025; n=72 Wistar rats) comparing **Ossix Plus** (sugar-glycation cross-linked porcine collagen membrane, GLYMATRIX) vs **Bio-Gide** (non-cross-linked bovine collagen) vs blood clot (negative control) in 8 mm critical-size rat calvarial defects at 7, 15, 30, and 60 days, using histometry, immunohistochemistry (OC, OP), and micro-CT.
