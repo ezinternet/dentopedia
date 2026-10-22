@@ -7,7 +7,7 @@ doi: 10.1111/cid.13236
 source: sources/canullo-2023-ossix-bone-transcrestal-sinus-augmentation.md
 category: sinus-lift/transcrestal
 evidence_level: rct
-source_collection: pubmed-text
+source_collection: pubmed-abstract
 full_text: false
 pmid: 37288709
 tags:
