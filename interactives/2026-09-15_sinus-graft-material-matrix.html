@@ -35,13 +35,13 @@ body {
   background: var(--bg);
   color: var(--t1);
   font-family: 'DM Sans', system-ui, sans-serif;
-  font-size: 15px;
+  font-size: 17.5px;
   line-height: 1.55;
   padding: 24px 20px;
 }
 .page { max-width: 900px; margin: 0 auto; }
 .eyebrow {
-  font-size: 11px;
+  font-size: 13px;
   font-weight: 600;
   letter-spacing: 0.12em;
   text-transform: uppercase;
@@ -59,7 +59,7 @@ h1 {
 .subtitle {
   margin-top: 6px;
   color: var(--t2);
-  font-size: 14px;
+  font-size: 16.5px;
   max-width: 60ch;
 }
 .sources {
@@ -73,7 +73,7 @@ h1 {
   border-radius: 4px;
   background: var(--surface2);
   border: 1px solid var(--border);
-  font-size: 11.5px;
+  font-size: 13.5px;
   color: var(--t2);
 }
 .src-chip strong { color: var(--t1); font-weight: 600; }
@@ -86,7 +86,7 @@ h1 {
   align-items: center;
 }
 .filter-label {
-  font-size: 12px;
+  font-size: 14px;
   font-weight: 600;
   color: var(--t3);
   text-transform: uppercase;
@@ -100,7 +100,7 @@ h1 {
   background: transparent;
   color: var(--t2);
   font-family: inherit;
-  font-size: 12.5px;
+  font-size: 15px;
   font-weight: 500;
   cursor: pointer;
   transition: all 0.15s;
@@ -112,14 +112,14 @@ table {
   width: 100%;
   border-collapse: collapse;
   background: var(--surface);
-  font-size: 14px;
+  font-size: 16.5px;
   min-width: 700px;
 }
 thead th {
   background: var(--surface2);
   padding: 10px 14px;
   text-align: left;
-  font-size: 11.5px;
+  font-size: 13.5px;
   font-weight: 600;
   letter-spacing: 0.06em;
   text-transform: uppercase;
@@ -139,12 +139,12 @@ td {
 .material-cell {
   font-family: 'Fraunces', Georgia, serif;
   font-weight: 600;
-  font-size: 15px;
+  font-size: 17.5px;
 }
 .mat-type {
   display: block;
   font-family: 'DM Sans', sans-serif;
-  font-size: 11px;
+  font-size: 13px;
   font-weight: 500;
   color: var(--t3);
   margin-top: 1px;
@@ -163,7 +163,7 @@ td {
   border-radius: 4px;
   transition: width 0.4s ease;
 }
-.val-label { font-size: 13px; font-variant-numeric: tabular-nums; color: var(--t2); white-space: nowrap; min-width: 54px; }
+.val-label { font-size: 15.5px; font-variant-numeric: tabular-nums; color: var(--t2); white-space: nowrap; min-width: 54px; }
 .star-row { display: flex; gap: 2px; align-items: center; }
 .dot { width: 9px; height: 9px; border-radius: 50%; background: var(--surface2); border: 1px solid var(--border); }
 .dot.on { background: var(--amber); border-color: var(--amber); }
@@ -171,16 +171,16 @@ td {
   display: inline-block;
   padding: 2px 8px;
   border-radius: 12px;
-  font-size: 11.5px;
+  font-size: 13.5px;
   font-weight: 600;
 }
 .tag-high { background: #D4EEE2; color: var(--green); }
 .tag-mid  { background: #F5EED4; color: var(--mid); }
 .tag-low  { background: #F5E0DA; color: var(--red); }
-.note-cell { font-size: 12.5px; color: var(--t2); line-height: 1.4; max-width: 220px; }
+.note-cell { font-size: 15px; color: var(--t2); line-height: 1.4; max-width: 220px; }
 .legend-row {
   display: flex; gap: 16px; flex-wrap: wrap;
-  margin-top: 16px; font-size: 12px; color: var(--t2);
+  margin-top: 16px; font-size: 14px; color: var(--t2);
 }
 .legend-item { display: flex; align-items: center; gap: 6px; }
 .legend-dot { width: 10px; height: 10px; border-radius: 50%; }
@@ -225,9 +225,9 @@ td {
 
   <div class="legend-row">
     <div class="legend-item"><span class="legend-dot" style="background:#C07A2E"></span>Amber bar = NBF 상대값</div>
-    <div class="legend-item"><span class="tag-badge tag-high" style="font-size:10px;padding:1px 6px;">High</span> ≥95%</div>
-    <div class="legend-item"><span class="tag-badge tag-mid" style="font-size:10px;padding:1px 6px;">Mid</span> 90–95%</div>
-    <div class="legend-item"><span class="tag-badge tag-low" style="font-size:10px;padding:1px 6px;">↓</span> &lt;90%</div>
+    <div class="legend-item"><span class="tag-badge tag-high" style="font-size:12px;padding:1px 6px;">High</span> ≥95%</div>
+    <div class="legend-item"><span class="tag-badge tag-mid" style="font-size:12px;padding:1px 6px;">Mid</span> 90–95%</div>
+    <div class="legend-item"><span class="tag-badge tag-low" style="font-size:12px;padding:1px 6px;">↓</span> &lt;90%</div>
   </div>
 </div>
 
@@ -293,7 +293,7 @@ function survTag(t) {
 }
 
 function barHTML(val, maxV, color) {
-  if (val == null) return '<span style="color:var(--t3);font-size:12px;">N/A</span>';
+  if (val == null) return '<span style="color:var(--t3);font-size:14px;">N/A</span>';
   const pct = Math.min(100, (val/maxV)*100).toFixed(1);
   return `<div class="bar-wrap">
     <div class="bar-track"><div class="bar-fill" style="width:${pct}%;background:${color};"></div></div>
@@ -312,9 +312,9 @@ function renderTable(filter) {
       <td><span class="material-cell">${d.name}</span><span class="mat-type">${d.type}</span></td>
       <td>${barHTML(d.nbf, NBF_MAX, '#C07A2E')}</td>
       <td>${barHTML(d.volStab, VOL_MAX, '#2A8A86')}</td>
-      <td style="font-size:13px;color:var(--t2);">${d.residual}</td>
-      <td>${survTag(d.survTag)} <span style="font-size:12px;color:var(--t2);margin-left:4px;">${d.survLabel}</span></td>
-      <td class="note-cell">${d.note} <span style="display:block;margin-top:3px;font-size:11px;color:var(--t3);">${d.src}</span></td>
+      <td style="font-size:15.5px;color:var(--t2);">${d.residual}</td>
+      <td>${survTag(d.survTag)} <span style="font-size:14px;color:var(--t2);margin-left:4px;">${d.survLabel}</span></td>
+      <td class="note-cell">${d.note} <span style="display:block;margin-top:3px;font-size:13px;color:var(--t3);">${d.src}</span></td>
     `;
     body.appendChild(tr);
   });
