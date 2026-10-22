@@ -1754,6 +1754,9 @@ tags: []
 - [[drug/systemic-disease/yang-2025-tooth-extraction-hypertensive-ecg-monitoring]] — Yang 2025 · retrospective · 고혈압 발치 2,059건: 8.0% 혈압강하제 필요(술전 SBP≥159 AUC0.91), 37.2% 일과성 부정맥(전부 비치명적)
 - [[drug/systemic-disease/kumari-2025-hemodynamic-fluctuations-during-tooth-extraction]] — Kumari 2025 · prospective(n=50) · 리도카인+아드레날린 발치 중 SBP/DBP/HR 상승; 코호트는 정상혈압이라 고혈압 권고는 외삽(주의) (PMC full text)
 - [[drug/systemic-disease/liu-2024-perioperative-hypertension-implant-bone-augmentation]] — Liu 2024 · retrospective · 임플란트 동기 골증대 728명 중 26.8% 围术期 고혈압; 남성·60세↑·수술60분↑ 위험(술식별 상이, abstract-only)
+- [[drug/systemic-disease/smereka-2019-preparedness-and-attitudes-towards-medical]] — 치과 응급상황 역학: VVS 46.3% 1위, 기립성 저혈압 18.9% 2위 (n=419 Polish dentists, 2019)
+- [[drug/systemic-disease/malave-2022-vasovagal-reactions-during-interventional-pain]] — 시술 중 미주신경 반응 병태생리·빈도(0–4%)·위험인자·예방(항무스카린제·IV fluid)·처치(Trendelenburg+atropine) 리뷰
+- [[drug/systemic-disease/waters-2022-ace-inhibitor-or-arb-induced]] — ACE-I/ARB 복용 환자 치과 전신마취 중 난치성 저혈압 → 바소프레신으로 해결 (2 case reports, 2022)
 - [[implants/survival/guadarrama-bello-2026-bone-healing-implants-diabetes-osteoporosis-review]] — Guadarrama Bello 2026 · narrative-review · 당뇨·골다공증이 임플란트 주위 골치유를 손상시키는 기전 + 티타늄 표면처리 회복 전략
 - [[drug/antibiotics/low-2026-dental-antibiotic-prescribing-practices-singapore]] — Low 2026 · cross-sectional · 싱가포르 치과의사 280명: 적절 처방률 6.5~97.7%(치주·구강외과 최저), 사랑니(71%)·임플란트(74%) 예방적 항생제 과처방
 - [[drug/antibiotics/kinzel-2026-german-dentists-prophylactic-antibacterial-risk-groups]] — Kinzel 2026 · cross-sectional · 독일 치과의사 537명: 심내막염·면역억제군만 예방투여 양성 trend, 당뇨·관절치환은 음성, 전군 아목시실린·클린다마이신
