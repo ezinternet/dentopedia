@@ -5222,6 +5222,9 @@ tags: []
 - [[drug/systemic-disease/shiraishi-2023-lidocaine-tape-application-prevent-vasovagal]] — Shiraishi 2023 · case-report · 정맥 천자 VVS 재발 2예에서 3시간 전 60% 리도카인 테이프로 VVS 없이 IV 확보; 대조군·정량자료 없고 대상은 진정용 천자(치과 LA 주사 아님) (abstract-only)
 - [[drug/systemic-disease/kawauchi-2025-vasovagal-syncope-with-sinus-arrest]] — Kawauchi 2025 · case-report · 22G 천자 중 서맥 시작 약 45초 후 동정지 + 3–5초 강직성 발작 2회(SBP 일시 76 mmHg), 흉부압박+아트로핀 0.5 mg으로 약 45초 만에 회복, 30–40/분 서맥은 에페드린 5 mg으로 안정; 정신과 5제 병용 — '양성' 통념의 반례 (PMC full text)
 
-## Synthesis (added 2026-10-23) — 치과 미주신경성 실신 종합 (13편: 역학·기전 3축·감별·예방·처치)
+## Synthesis (added 2026-10-23) — 치과 미주신경성 실신 종합 (15편: 역학·기전 3축·감별·예방·처치)
+
+- [[drug/systemic-disease/choufani-2025-lebanese-dentists-preparedness-to-deal]] — Choufani 2025 · cross-sectional · 레바논 치과의사 442명 전국 설문: 최근 12개월 응급 경험 161명 중 VVS 91명(56.5%) 1위·저혈당 55.9%·기립성 저혈압 54.0%; 응급키트 38.2%·제세동기 5.9%·스태프 교육 18.8% (smereka-2019의 2025년 대응물, PMC full text)
+- [[drug/systemic-disease/dellolio-2021-brugada-syndrome-perioperative-management-oral-surgery]] — Dell'Olio 2021 · case-report(n=3) · 브루가다 증후군 남성 3명: 국소마취제·불안·술후 통증이 부정맥 유발인자이므로 다학제 위험계층화(심장과 위험도·ASA·술식 시간·MDAS) 후 시행 — 의뢰 단계가 핵심, 초록 전용(용량·추적 미보고)
 
 - [[overviews/dental-vasovagal-syncope-overview]] — 치과 VVS 종합: 응급의 46.30%(설문 n=419)·>60%(2026 고찰), LA가 삽화의 ~75% 유발·39%는 시술 전, 남자 청소년 2.69배; 기전 3축(Bezold–Jarisch / TCR=자극 중단이 1차 치료 / 정신성), 감별 4축(아나필락시스·LAST·심장성·저혈당), P–CAB–D(아트로핀 0.5 mg IV 최대 3 mg·에페드린 5 mg IV 최대 50 mg), 예방 근거 사다리(통증 조절만 RCT, 다리 술기 pilot, 전처치는 비치과 외삽, 글리코피롤레이트는 치과 RCT 없음), 동정지 반례(kawauchi-2025)
