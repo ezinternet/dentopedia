@@ -40,18 +40,18 @@ agenda: agenda/2026-08-26_km-augmentation-decision-tool.md
   --shadow: 0 1px 3px rgba(0,0,0,.08);
 }
 * { box-sizing: border-box; margin: 0; padding: 0; }
-body { background: var(--bg); color: var(--text); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; line-height: 1.5; padding: 16px; max-width: 900px; margin: 0 auto; }
-h1 { font-size: 18px; font-weight: 700; margin-bottom: 2px; color: var(--text); }
-.subtitle { color: var(--muted); font-size: 12px; margin-bottom: 16px; }
+body { background: var(--bg); color: var(--text); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 16.5px; line-height: 1.5; padding: 16px; max-width: 900px; margin: 0 auto; }
+h1 { font-size: 20px; font-weight: 700; margin-bottom: 2px; color: var(--text); }
+.subtitle { color: var(--muted); font-size: 14px; margin-bottom: 16px; }
 
 /* Inputs */
 .input-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 14px; }
 @media (max-width: 600px) { .input-grid { grid-template-columns: 1fr; } }
 .field { display: flex; flex-direction: column; gap: 4px; }
-.field label { font-size: 12px; font-weight: 600; color: var(--muted); text-transform: uppercase; letter-spacing: .03em; }
+.field label { font-size: 14px; font-weight: 600; color: var(--muted); text-transform: uppercase; letter-spacing: .03em; }
 select, input[type="number"] {
   border: 1px solid var(--border); border-radius: var(--radius); padding: 7px 10px;
-  font-size: 13px; background: var(--bg); color: var(--text);
+  font-size: 15.5px; background: var(--bg); color: var(--text);
   width: 100%; outline: none; transition: border-color .15s;
 }
 select:focus, input[type="number"]:focus { border-color: var(--accent); }
@@ -60,7 +60,7 @@ select:focus, input[type="number"]:focus { border-color: var(--accent); }
 .sign-row { display: flex; flex-wrap: wrap; gap: 6px; }
 .sign-btn {
   padding: 4px 10px; border: 1px solid var(--border); border-radius: 20px;
-  background: var(--bg); color: var(--text); font-size: 12px; cursor: pointer;
+  background: var(--bg); color: var(--text); font-size: 14px; cursor: pointer;
   transition: all .15s; user-select: none;
 }
 .sign-btn.active { background: var(--red-light); border-color: var(--red); color: var(--red); font-weight: 600; }
@@ -75,9 +75,9 @@ select:focus, input[type="number"]:focus { border-color: var(--accent); }
   border-radius: var(--radius); padding: 12px; border: 1px solid var(--border);
   background: var(--surface); min-height: 80px;
 }
-.axis-label { font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); margin-bottom: 6px; }
-.axis-value { font-size: 13px; font-weight: 600; line-height: 1.4; }
-.axis-sub { font-size: 11px; color: var(--muted); margin-top: 4px; line-height: 1.4; }
+.axis-label { font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); margin-bottom: 6px; }
+.axis-value { font-size: 15.5px; font-weight: 600; line-height: 1.4; }
+.axis-sub { font-size: 13px; color: var(--muted); margin-top: 4px; line-height: 1.4; }
 
 .level-red { background: var(--red-light); border-color: #fca5a5; }
 .level-red .axis-value { color: var(--red); }
@@ -93,12 +93,12 @@ select:focus, input[type="number"]:focus { border-color: var(--accent); }
 .level-teal .axis-value { color: var(--teal); }
 
 /* Material table */
-.mat-table { width: 100%; border-collapse: collapse; margin-bottom: 14px; font-size: 12px; overflow-x: auto; display: block; }
+.mat-table { width: 100%; border-collapse: collapse; margin-bottom: 14px; font-size: 14px; overflow-x: auto; display: block; }
 .mat-table th { background: var(--surface); padding: 7px 10px; text-align: left; font-weight: 600; border-bottom: 2px solid var(--border); white-space: nowrap; }
 .mat-table td { padding: 6px 10px; border-bottom: 1px solid var(--border); vertical-align: top; }
 .mat-table tr:last-child td { border-bottom: none; }
 .mat-table .highlight { background: var(--accent-light); font-weight: 600; }
-.badge { display: inline-block; padding: 2px 7px; border-radius: 10px; font-size: 10px; font-weight: 700; }
+.badge { display: inline-block; padding: 2px 7px; border-radius: 10px; font-size: 12px; font-weight: 700; }
 .badge-green { background: var(--green-light); color: var(--green); }
 .badge-amber { background: var(--amber-light); color: var(--amber); }
 .badge-red { background: var(--red-light); color: var(--red); }
@@ -108,9 +108,9 @@ select:focus, input[type="number"]:focus { border-color: var(--accent); }
 .ev-row { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 14px; }
 .ev-badge {
   padding: 6px 12px; border-radius: var(--radius); border: 1px solid var(--border);
-  font-size: 11px; background: var(--surface); line-height: 1.3;
+  font-size: 13px; background: var(--surface); line-height: 1.3;
 }
-.ev-badge strong { display: block; font-size: 14px; font-weight: 700; }
+.ev-badge strong { display: block; font-size: 16.5px; font-weight: 700; }
 .ev-badge span { color: var(--muted); }
 .ev-badge.red { background: var(--red-light); border-color: #fca5a5; }
 .ev-badge.red strong { color: var(--red); }
@@ -121,10 +121,10 @@ select:focus, input[type="number"]:focus { border-color: var(--accent); }
 
 /* Router */
 .router { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 12px; }
-.router-title { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); margin-bottom: 8px; }
+.router-title { font-size: 13px; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); margin-bottom: 8px; }
 .router-links { display: flex; flex-wrap: wrap; gap: 6px; }
 .router-link {
-  padding: 5px 12px; border-radius: 20px; font-size: 12px; text-decoration: none;
+  padding: 5px 12px; border-radius: 20px; font-size: 14px; text-decoration: none;
   border: 1px solid var(--border); background: var(--bg); color: var(--accent);
   transition: all .15s; cursor: pointer;
 }
@@ -132,7 +132,7 @@ select:focus, input[type="number"]:focus { border-color: var(--accent); }
 .router-link.hot { background: var(--accent-light); border-color: var(--accent); font-weight: 600; }
 
 section { margin-bottom: 14px; }
-.section-title { font-size: 13px; font-weight: 700; margin-bottom: 8px; color: var(--text); border-left: 3px solid var(--accent); padding-left: 8px; }
+.section-title { font-size: 15.5px; font-weight: 700; margin-bottom: 8px; color: var(--text); border-left: 3px solid var(--accent); padding-left: 8px; }
 </style>
 </head>
 <body>
