@@ -1,0 +1,59 @@
+TITLE: Influence of anxiolytic premedication on vasovagal reactions and home readiness following outpatient anaesthesia
+AUTHORS: Gebhardt V, Kiefer P, Bussen D, Weiss C, Schmittner MD
+PUBMED_ID: 30511415
+YEAR: 2019
+DOI: 10.1111/aas.13297
+JOURNAL: Acta Anaesthesiol Scand
+FULL_TEXT: false (abstract-only — PubMed abstract retrieved 2026-10-23)
+
+===== PUBMED RECORD (verbatim) =====
+2. Acta Anaesthesiol Scand. 2019 Apr;63(4):468-474. doi: 10.1111/aas.13297. Epub 
+2018 Dec 3.
+
+Influence of anxiolytic premedication on vasovagal reactions and home readiness 
+following outpatient intrathecal anaesthesia-A retrospective analysis.
+
+Gebhardt V(1), Kiefer K(1), Weiss C(2)(3), Schmittner MD(3)(4).
+
+Author information:
+(1)Department of Anaesthesiology and Surgical Intensive Care Medicine, 
+University Medical Centre Mannheim, Ruprecht-Karls-University Heidelberg, 
+Mannheim, Germany.
+(2)Department of Medical Statistics, University Medical Centre Mannheim, 
+Heinrich-Lanz-Zentrum, Ruprecht-Karls-University Heidelberg, Mannheim, Germany.
+(3)Medical Faculty, Mannheim of Heidelberg University, Ruprecht-Karls-University 
+Heidelberg, Mannheim, Germany.
+(4)Department of Anaesthesiology, Intensive Care and Pain Medicine, BG Klinikum 
+Unfallkrankenhaus Berlin gGmbH, Berlin, Germany.
+
+BACKGROUND: Vasovagal reactions during application of intrathecal anaesthesia 
+(IA) are associated with high anxiety levels. A high percentage of patients 
+undergoing outpatient surgery suffer from anxiety. Anxiolytic premedication in 
+day-surgery is suspected to delay recovery and discharge and is, therefore, not 
+routinely used. The aim of this retrospective analysis was to detect the 
+influence of anxiolytic premedication on the incidence of vasovagal reactions 
+and time until discharge home.
+METHODS: Anaesthesia records of all patients undergoing outpatient surgery under 
+low-dose IA from January 2008 to June 2017 were analysed. Incidences of 
+vasovagal reactions with a decrease in blood pressure and/or heart rate and need 
+for cardiovascular activating medications were documented. Patients were 
+categorised as having received an anxiolytic premedication or not. The time from 
+intrathecal injection of the local anaesthetic until readiness for discharge was 
+recorded.
+RESULTS: The records of 2747 patients were analysed. One thousand two hundred 
+and ninety-one of them received an anxiolytic premedication of 1-2 mg midazolam 
+intravenously. Three hundred and fourteen patients had vasovagal incidents 
+during application of IA (no premedication n = 217 [15.0%], premedication n = 97 
+[7.5%], P < 0.0001). Premedication did not prolong time to achieve readiness for 
+discharge (mepivacaine: P = 0.5886, chloroprocaine: P = 0.1555). However, in the 
+prilocaine group, premedication led to a significantly earlier achievement of 
+readiness for discharge (P = 0.0002).
+CONCLUSION: Anxiolytic premedication significantly reduces the incidence of 
+vasovagal reactions during the application of IA and does not affect time until 
+readiness for discharge.
+
+© 2018 The Acta Anaesthesiologica Scandinavica Foundation. Published by John 
+Wiley & Sons Ltd.
+
+DOI: 10.1111/aas.13297
+PMID: 30511415 [Indexed for MEDLINE]
