@@ -1,0 +1,59 @@
+TITLE: Recombinant Human Bone Morphogenetic Protein-2 (rhBMP-2) as an Alternative to Autologous Bone Graft in Pediatric Craniofacial Reconstruction: A Systematic Review.
+AUTHORS: Chou J, Murad L, Lee D, Squeo G, Black J, Hoard M
+JOURNAL: Ann Plast Surg
+YEAR: 2026
+DATE: 2026-04-08
+DOI: 10.1097/sap.0000000000004711
+PMID: 41944755
+SOURCE: PubMed abstract record (closed access — no OA full text located via PMC/Unpaywall/OpenAlex)
+NOTE: abstract-only — full text not retrieved. Page must carry `full_text: false` and an abstract-only caveat.
+
+----- ABSTRACT -----
+Ann Plast Surg. 2026 Jun 1;96(6S):S478-S483. doi:
+10.1097/SAP.0000000000004711.  Epub 2026 Apr 8.
+
+Recombinant Human Bone Morphogenetic Protein-2 (rhBMP-2) as an Alternative to 
+Autologous Bone Graft in Pediatric Craniofacial Reconstruction: A Systematic 
+Review.
+
+Chou J(1), Murad L(2), Lee D(2), Squeo G(1), Black J(1), Hoard M(1).
+
+Author information:
+(1)Department of Plastic Surgery, University of Virginia Health System, 
+Charlottesville, VA.
+(2)School of Medicine, University of Virginia, Charlottesville, VA.
+
+BACKGROUND: Craniofacial reconstruction in pediatricpatients commonly uses 
+autologous bone grafts, such as iliac crest bone grafts (ICBG). Recombinant 
+human bone morphogenetic protein-2 (rhBMP-2) infused allografts may reduce 
+operative time and donor-site morbidity. This review assesses whether rhBMP-2 is 
+a viable alternative.
+METHODS: A literature search of PubMed, Ovid, and Web of Science (2008-2023) 
+identified studies on rhBMP-2 in pediatric craniofacial reconstruction. 
+Randomized controlled trials, prospective or retrospective case series, and case 
+reports were included; reviews, animal, and basic science studies were excluded.
+RESULTS: Of 211 screened articles, 21 met the inclusion criteria (6 RCTs, 2 
+prospective, 10 retrospective, 3 case reports). rhBMP-2 was used for alveolar 
+cleft repair (18 studies), calvarial defect reconstruction (2), and mandibular 
+continuity defect reconstruction (1). In alveolar cleft repair, rhBMP-2 was 
+compared with ICBG in bone formation efficacy, complications, operative time, 
+length of hospitalization, and financial burden. Four of 12 studies favored 
+rhBMP-2 for bone formation, 1 favored ICBG, and 7 found no difference. Among 12 
+studies on complications, 2 reported more adverse effects with rhBMP-2, 5 with 
+ICBG, and 4 found no difference. Facial edema was the most common rhBMP-2 
+complication; donor-site morbidity was the most common for ICBG. All 5 studies 
+comparing operative time found it shorter with rhBMP-2. Of 8 studies on 
+hospitalization, 7 showed shorter stays with rhBMP-2. Cost analysis was mixed 
+across 4 studies.
+CONCLUSIONS: rhBMP-2 appears comparable, if not favorable, to ICBG for alveolar 
+cleft repair in pediatric patients, reducing operative time and hospital stays. 
+However, long-term follow-up is needed to confirm efficacy and safety, 
+particularly for other craniofacial reconstruction procedures.
+
+Copyright © 2026 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/SAP.0000000000004711
+PMID: 41944755 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of interest and sources of funding: 
+none declared.
