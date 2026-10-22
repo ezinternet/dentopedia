@@ -71,14 +71,14 @@ tags: [hemostasis, anticoagulants, antiplatelet, doac, decision-tool, interactiv
     text-align: center;
     margin-bottom: 28px;
   }
-  .header h1 { font-size: 1.5rem; font-weight: 700; color: var(--text); margin-bottom: 6px; }
-  .header p { font-size: 0.875rem; color: var(--muted); }
+  .header h1 { font-size: 1.65rem; font-weight: 700; color: var(--text); margin-bottom: 6px; }
+  .header p { font-size: 1.03rem; color: var(--muted); }
 
   .badge {
     display: inline-block;
     background: var(--tag-bg);
     color: var(--muted);
-    font-size: 0.72rem;
+    font-size: 0.85rem;
     font-weight: 600;
     padding: 2px 8px;
     border-radius: 999px;
@@ -97,7 +97,7 @@ tags: [hemostasis, anticoagulants, antiplatelet, doac, decision-tool, interactiv
   }
 
   .card-title {
-    font-size: 0.8rem;
+    font-size: 0.94rem;
     font-weight: 700;
     color: var(--muted);
     text-transform: uppercase;
@@ -115,7 +115,7 @@ tags: [hemostasis, anticoagulants, antiplatelet, doac, decision-tool, interactiv
 
   .profile-item label {
     display: block;
-    font-size: 0.8rem;
+    font-size: 0.94rem;
     font-weight: 600;
     color: var(--muted);
     margin-bottom: 6px;
@@ -126,7 +126,7 @@ tags: [hemostasis, anticoagulants, antiplatelet, doac, decision-tool, interactiv
     padding: 9px 12px;
     border: 1.5px solid var(--border);
     border-radius: 8px;
-    font-size: 0.875rem;
+    font-size: 1.03rem;
     color: var(--text);
     background: var(--bg);
     appearance: none;
@@ -150,7 +150,7 @@ tags: [hemostasis, anticoagulants, antiplatelet, doac, decision-tool, interactiv
     cursor: pointer;
   }
   .inr-val {
-    font-size: 1rem;
+    font-size: 1.18rem;
     font-weight: 700;
     color: var(--accent);
     min-width: 48px;
@@ -159,7 +159,7 @@ tags: [hemostasis, anticoagulants, antiplatelet, doac, decision-tool, interactiv
   .inr-scale {
     display: flex;
     justify-content: space-between;
-    font-size: 0.68rem;
+    font-size: 0.8rem;
     color: var(--muted);
     margin-top: 4px;
     padding: 0 2px;
@@ -174,7 +174,7 @@ tags: [hemostasis, anticoagulants, antiplatelet, doac, decision-tool, interactiv
   }
   .results-header .card-title { margin-bottom: 0; }
   .patient-chip {
-    font-size: 0.75rem;
+    font-size: 0.89rem;
     font-weight: 600;
     background: var(--accent-light);
     color: var(--accent);
@@ -202,7 +202,7 @@ tags: [hemostasis, anticoagulants, antiplatelet, doac, decision-tool, interactiv
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 0.8rem;
+    font-size: 0.94rem;
     font-weight: 800;
     flex-shrink: 0;
     margin-top: 1px;
@@ -213,14 +213,14 @@ tags: [hemostasis, anticoagulants, antiplatelet, doac, decision-tool, interactiv
   .rank-na { background: #fef2f2; color: var(--red); }
 
   .agent-info { flex: 1; }
-  .agent-name { font-weight: 700; font-size: 0.95rem; margin-bottom: 3px; }
-  .agent-time { font-size: 0.82rem; color: var(--muted); margin-bottom: 5px; }
+  .agent-name { font-weight: 700; font-size: 1.12rem; margin-bottom: 3px; }
+  .agent-time { font-size: 0.97rem; color: var(--muted); margin-bottom: 5px; }
   .agent-time strong { color: var(--text); }
-  .agent-note { font-size: 0.78rem; color: var(--muted); line-height: 1.45; }
+  .agent-note { font-size: 0.92rem; color: var(--muted); line-height: 1.45; }
 
   .agent-tags { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 6px; }
   .tag {
-    font-size: 0.68rem;
+    font-size: 0.8rem;
     font-weight: 600;
     padding: 2px 7px;
     border-radius: 999px;
@@ -254,7 +254,7 @@ tags: [hemostasis, anticoagulants, antiplatelet, doac, decision-tool, interactiv
     border: 1px solid #fcd34d;
     border-radius: 8px;
     padding: 12px 14px;
-    font-size: 0.78rem;
+    font-size: 0.92rem;
     color: #92400e;
     line-height: 1.5;
   }
@@ -268,7 +268,7 @@ tags: [hemostasis, anticoagulants, antiplatelet, doac, decision-tool, interactiv
 
   footer {
     text-align: center;
-    font-size: 0.72rem;
+    font-size: 0.85rem;
     color: var(--muted);
     margin-top: 24px;
   }
@@ -308,7 +308,7 @@ tags: [hemostasis, anticoagulants, antiplatelet, doac, decision-tool, interactiv
 
     <!-- INR slider (warfarin / deranged only) -->
     <div class="inr-block hidden" id="inrBlock" style="margin-top:14px;">
-      <label style="font-size:0.8rem;font-weight:600;color:var(--muted);display:block;margin-bottom:6px;">INR 값</label>
+      <label style="font-size:0.94rem;font-weight:600;color:var(--muted);display:block;margin-bottom:6px;">INR 값</label>
       <div class="inr-row">
         <input type="range" id="inrSlider" min="1.5" max="4.0" step="0.1" value="2.5" oninput="updateINR()">
         <span class="inr-val" id="inrDisplay">2.5</span>
