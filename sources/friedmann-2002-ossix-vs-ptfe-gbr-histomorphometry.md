@@ -16,6 +16,8 @@ source_url: https://pubmed.ncbi.nlm.nih.gov/12519332/
 
 GLYMATRIX 플랫폼 서베일런스 2026-10-22. 최초 "Ossix" (원조 제품, ribose 가교 콜라겐 멤브레인, 현 Ossix Plus의 전신)를 e-PTFE(Gore-Tex)와 직접 RCT 비교한 랜드마크 논문. 7개월 조직형태계측으로 골질을 직접 비교 — GLYMATRIX 플랫폼이 비흡수성 gold standard에 필적함을 처음 보인 연구.
 
+→ [[bone-regeneration/friedmann-2002-ossix-vs-ptfe-gbr-histomorphometry]]
+
 ## Three-line Summary
 
 Randomized controlled trial (Charité/Humboldt University Berlin, Clin Oral Implants Res 13(6):587-594, 2002) comparing **Ossix** (original ribose-crosslinked collagen membrane, test) vs **e-PTFE** (Gore-Tex, control) with deproteinized bovine bone mineral (DBBM) for jaw bone augmentation in 28 patients, with histomorphometric biopsy analysis at 7 months.
