@@ -1,0 +1,65 @@
+TITLE: Trigeminocardiac reflex during maxillary third molar extraction: Our experience
+AUTHORS: Agarwal Anmol, Mittal Gaurav, Garg Ritesh, Rathi Abhishek
+JOURNAL: National Journal of Maxillofacial Surgery
+ID[pmcid]: PMC9426688
+ID[pmcid-ver]: PMC9426688.1
+ID[pmcaid]: 9426688
+ID[pmcaiid]: 9426688
+ID[pmid]: 36051807
+ID[doi]: 10.4103/njms.NJMS_260_20
+ID[publisher-id]: NJMS-13-311
+
+## ABSTRACT
+Trigeminocardiac reflex (TCR) is a cascade of physiological response secondary to the stimulation of any of the sensory divisions of the trigeminal nerve, which is the largest cranial nerve and provides sensory supply to the face, scalp, mucosa of the nose, and mouth. This response usually presents as a triad including bradycardia, apnea, and gastric motility changes. On the another side, transient loss of consciousness or vasovagal syncope, a well-known phenomenon in dentomaxillofacial surgery with its pathophysiology fully elucidated, is thought to be mediated by TCR and sometimes termed as dentocardiac reflex. Thus, it is imperative to know about TCR and its association with routine dental and maxillofacial surgery procedures. It can potentially happen during any minor or major oral surgical procedures ranging from simple third molar extractions, soft tissue surgeries, root canal treatments, or management of maxillofacial fractures. This paper presents two case reports demonstrating TCR which presented during maxillary third molar extraction and author(s) own experience in managing the same.
+
+## INTRODUCTION
+
+The trigeminal nerve is the largest cranial nerve, and it provides sensory supply to the face, scalp, mucosa of the nose, and mouth.[123] Stimulation of any of the sensory divisions of the trigeminal nerve is thought to provide an stimulus for the initiation of a sudden physiological response called as trigeminocardiac reflex (TCR) also known as oculocardiac reflex (OCR) or Aschner reflex[4] or trigeminovagal reflex. In the early 20th century, this TCR has gained much clinical attention, in the form of OCR which is bradycardia associated with stimulation of the ophthalmic division of the trigeminal nerve during ocular surgeries.[45] Later, in 1999, Schaller et al., for the first time, demonstrated that a similar reflex can occur even with stimulation of the intracranial portion of the trigeminal nerve,[1] and thereafter, they summarized all the above-mentioned reflexes under one term which he called TCR.[26] However, till date, a dilemma persists regarding prophylaxis and management of TCR, either when it occurs during any intracranial or extracranial procedures ranging from a minor dentomaxillofacial surgery or an extended neurosurgical maneuver.
+
+The aim of the present paper is to give an update about TCR and its association with maxillary third molar extraction and author(s) own experience in managing the same.
+
+## CASE REPORTS
+
+### Case 1
+
+A 44-year-old female patient reported to the author with the chief complaint of cavity and pain in the upper right back tooth for the past 8–10 days. Pain was mild, aching type which was increasing gradually and precipitated after chewing. The patient's medical history was insignificant. On examination, maxillary right third molar was found grossly decayed and she was advised to undergo extraction of the same. An orthopantomogram was ordered to evaluate the relation of the tooth with the maxillary sinus and tuberosity. After 2 days of premedication, the patient was taken up for the extraction of maxillary right third molar under local anesthesia. The tooth was extracted nonsurgically with the help of luxators and extraction forceps, and the patient was quite comfortable. However, to the surprise of an operator, suddenly, the patient became unconscious and stopped responding. At instance, the operator started managing the patient expecting it to be a syncope, but the patient failed to respond even after all possible efforts, medical assistance was summoned, meanwhile her pulse rate was found to be fluctuating between 33 and 42 beats per minute, respiration rate was 8–9 cycles per min, and her blood pressure was recorded to be 90/70 mmHg. She was administered oxygen at the rate of 5 l/min and intravenous line was established, and the patient was shifted to an intensive care unit and was kept under observation. After approximately 30–40 min, her heart rate started restoring up to 60–65 beats per minute, respiration rate was 12–14 cycles per minute, and the blood pressure recorded was 100/80 mmHg. The patient was stable, conscious, oriented, and responding well to the commands and was discharged in a fair condition after few hours.
+
+### Case 2
+
+A 29-year-old female patient reported to the author with the chief complaint of severe pain in the upper right back tooth for the past 2 days. History revealed that the pain was mild to start with 3 days back, for which she consulted a nearby physician who prescribed some antibiotics and anti-inflammatory drugs, but she failed to get relief and came to consult the author and requested for immediate removal of the same. Patient's medical history was insignificant, and on examination, maxillary right third molar was found to be deeply carious. The orthopantomogram was ordered which showed a radiolucency approaching pulp and relatively normal periapex. The patient was taken up for extraction of the maxillary right third molar under local anesthesia. After administering 2% lignocaine with adrenaline, the tooth was extracted nonsurgically with the help of extraction forceps and the patient was quite happy, but she became unconscious suddenly while trying to get up from the dental chair and stopped responding. The operator started managing the patient expecting it to be a vasovagal syncope, her pulse was not recordable and no respiration was noticed, medical assistance was summoned; however, to the next surprise, the patient suddenly started responding after a gasp of deep respiration. She was immediately shifted to an intensive care unit and was kept under observation. Within 15–20 min, her heart rate and respiration rate were recorded to be within normal limits and her blood pressure was 110/70 mmHg. The patient was completely conscious and oriented and requested to be discharged. She was sent home in a fair condition.
+
+## DISCUSSION
+
+TCR can be defined as the sudden onset of parasympathetic dysrhythmia, sympathetic hypotension, apnea, or gastric hypermotility secondary to stimulation of any of the sensory branches of the trigeminal nerve.[1] Initially, in TCR research, it was commonly described to be associated with neurosurgical procedures and was predominantly reported during the intraoperative period.[7] Thereafter, it was also reported during maxillofacial,[8] dental,[9] ophthalmic,[10] nasal,[11] and other surgeries.[12]
+
+TCR is an autonomic reflex governed by the brainstem with three major anatomic components: (a) sensory division of the trigeminal nerve, (b) brainstem nuclei, and (c) the vagus nerve. It is a result of stimulation of any of the branches of the trigeminal nerve and commonly manifests as a sudden development of cardiac responses, including bradycardia, asystole, and hypotension.[313] The afferent pathway of the TCR consists of short and long ciliary nerves, which relay the impulses to the ciliary ganglion and then to the gasserian ganglion. The afferent pathway is completed in the sensory nucleus of trigeminal nerve in the floor of the fourth ventricle. Small internuncial nerve fibers of the reticular formation connect the afferent to the efferent pathway. The efferent pathway originated from the motor nucleus of the vagal nerve and sends depressor fibers to the myocardium, thus complementing the reflex arc.[12] This can be understood simply as described by Stott [Figure 1].[14] The classical definition of the TCR is suggested as a reduction in mean arterial blood pressure and heart rate by more than 20% of its baseline values and should coincide with the stimulation of the trigeminal nerve.[1]
+
+[FIGURE] The reflex pathway of the trigeminocardiac reflex.[14] LCN = Long ciliary nerve, SCN = Short ciliary nerve, CG = Ciliary ganglion GG = Gasserian ganglion, IF = Internuncial fibers
+
+Transient loss of consciousness or vasovagal syncope is well known phenomenon in dentomaxillofacial surgery. Despite considerable study of vasovagal syncope, its pathophysiology remains to be fully elucidated. Arakeri and Arali in 2010 encountered a case of TCR after extraction of the maxillary first molar studied 400 cases of teeth extractions performed under local anesthesia thereafter and concluded that TCR which is usually seen under general anesthesia when all sympathetic reflexes are depressed can also occur under local anesthesia during extractions of maxillary molars and mediate syncope; they also introduced the term dentocardiac reflex to explain the same.[15]
+
+Concerning the management, TCR, one of the first and most important steps, is the identification of bradycardia cessation of the procedure to withdraw the stimulus. In majority of cases, this only reverses the phenomenon. Administration of anticholinergics such as atropine or glycopyrrolate may be required in some cases where bradycardia is severe or persists despite termination of the stimulus.[1617] Arasho et al.[18] described the systematic management of patients with TCR [Figure 2].
+
+[FIGURE] Algorithm to treat patient with trigeminocardiac reflex[18]
+
+In our cases, negative alteration in the vitals was more than 20% along with the anticipated stimulation of trigeminal nerve which is commonly associated with procedures such as teeth extraction; author(s) concluded it that the reflex was not just a simple syncope but rather an episode of TCR with subsequent unconsciousness. Fortunately, the phenomena got reversed once the stimulus was removed and no further management was deemed necessary.
+
+As none of the two patients complain of any sought of discomfort during the procedure, it was difficult to predict such a sudden response; however, on the other hand, this explains the importance of vital monitoring while even performing minor dental procedure like tooth extraction. Rashad et al.[19] conducted an study with the aim of recording the patients’ heart rate during the extraction procedure and concluded that heart rate and blood pressure alterations during extraction can be attributed to the occurrence of TCR and should always be monitored as the possibility of developing bradycardia and its subsequent syncope exists.
+
+Hemodynamic monitoring during teeth extractions is therefore recommended, especially when the surgical procedure is expected to involve more soft and hard tissue manipulations so as to help the operator in readily detecting untoward events.[19] This is even more important when the patient's psychological condition makes such control desirable to optimize safety.[20] However, psychological variations are not yet proven to be a risk factor contributing to TCR, although further research is required to study the relation between the two.
+
+## CONCLUSION
+
+TCR is an omnipresent phenomenon and can present from a mild physiological response to severe pathological cardiovascular responses. Monitoring of vitals such as heart rate and blood pressure during simple oral procedures such as teeth extraction is deemed necessary to identify any alterations which can be attributed to the onset of TCR or TCR-mediated syncope. In case of encountering this sudden reflex, cessation of the procedure leading to withdrawal of stimulus usually reverses the phenomenon, but the need of further management should be anticipated well in time to avoid catastrophic complications.
+
+### Declaration of patient consent
+
+The authors certify that they have obtained all appropriate patient consent forms. In the form, the patient has given her consent for her images and other clinical information to be reported in the journal. The patient understands that his name and initials will not be published and due efforts will be made to conceal identity, but anonymity cannot be guaranteed.
+
+### Financial support and sponsorship
+
+Nil.
+
+### Conflicts of interest
+
+There are no conflicts of interest.
