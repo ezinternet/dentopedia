@@ -1,0 +1,140 @@
+TITLE: Syncope in dentistry: risk factors, preventive strategies, and management
+AUTHORS: Li Jia Xuan, Ouanounou Aviv
+JOURNAL: Journal of Dental Anesthesia and Pain Medicine
+ID[pmcid]: PMC12865304
+ID[pmcid-ver]: PMC12865304.1
+ID[pmcaid]: 12865304
+ID[pmcaiid]: 12865304
+ID[pmid]: 41640727
+ID[doi]: 10.17245/jdapm.2026.26.1.29
+
+## ABSTRACT
+Vasovagal syncope is the most common medical emergency in dental practice and is characterized by a transient loss of consciousness during treatment. It may present as an isolated incident triggered by a specific stimulus or as a manifestation of an underlying systemic condition. Understanding the pathophysiology, clinical presentation, and progression of syncope is essential for accurate diagnosis and effective management. Early recognition of the three phases of presyncope, syncope, and recovery enables timely intervention and reduces the risk of complications. This review summarizes the current evidence on risk factors, preventive measures, and behavioral and pharmacological management strategies specific to dental settings. It also examines the dental procedures frequently associated with syncope and outlines the diagnostic workup to exclude alternative diagnoses. By integrating clinical insights with practical recommendations, this review supports dental professionals in the safe and effective management of vasovagal syncope in routine care.
+
+## INTRODUCTION
+
+Medical emergencies are acute conditions that pose an immediate threat to a patient’s life, and dentists must be well trained to respond effectively. Three out of four dentists encounter a medical emergency during their careers [12]. Among these, vasovagal syncope, commonly known as fainting, is the most common, accounting for more than 60% of all reported incidents in dental settings (Fig. 1) [34]. One study reported that 45% of dentists manage at least one case of syncope, with an average of 1.2 incidents per year [1]. Despite its prevalence, syncope has received limited emphasis in dental education, leaving approximately 36% of practitioners feeling inadequately prepared [5]. This highlights the need for improved training and continuing education on syncope management in dental practice.
+
+## METHODS
+
+An electronic literature search was conducted using Google Scholar, EMBASE, PubMed, ScienceDirect, and the Cochrane Database to identify peer-reviewed publications from July 1997 to October 2025. Key search terms included “vasovagal syncope,” “vasovagal prevention,” “anxiolytic vasovagal,” “syncope dental management,” and “dental emergencies.” Additional searches were conducted by combining these terms with “anxiolytic behavior management,” “sedation management,” and “anticholinergic pharmacology,” given their potential association with syncope prevention.
+
+The inclusion criteria were published guidelines; systematic reviews; randomized controlled trials; cohort, cross-sectional, case-control, and interventional studies; and relevant textbooks. Studies involving adult and pediatric patients undergoing dental procedures under local anesthesia or conscious sedation were included. The exclusion criteria were non-English publications, editorials, and animal studies.
+
+## ETIOLOGY
+
+Syncope is a sudden transient loss of consciousness caused by cerebral ischemia because of an abrupt drop in systemic blood pressure. The three main types of syncope are vasovagal syncope, orthostatic hypotension, and syncope secondary to systemic diseases.
+
+Vasovagal syncope is the most common type of syncope in dental settings and is the focus of this review. It accounts for over 50% of all cases and is a reflex-mediated response involving a neurally induced drop in blood pressure and heart rate following a specific stimulus [6]. Typically benign and self-limiting, it occurs most frequently in healthy young adults, with recovery within 1–2 min [6]. However, prolonged episodes may cause harmful physiological changes, thereby increasing the risk of mortality in vulnerable patients.
+
+Orthostatic hypotension occurs when blood pressure drops upon standing, such as after a long dental procedure. Blood pooling in the extremities reduces venous return and cardiac output, and inadequate sympathetic compensation impairs organ perfusion. Symptoms include dizziness and lightheadedness, which are often relieved by lying down. This condition affects approximately 20% of adults aged > 60 years, with contributing factors including autonomic dysregulation, hypovolemia, and medication side effects (Table 1) [789].
+
+Syncope secondary to systemic diseases stems from underlying cardiovascular, neurological, or metabolic disorders and is most common in older adults (Table 1). Psychological stress may trigger syncope in patients with heart disease and precipitate fatal arrhythmias [10]. Cardiac-related syncope has a higher mortality rate (18–33%) than that of noncardiac syncope (0–12%) [11]. Patients with syncope related to uncontrolled systemic conditions should be referred to an emergency facility, and any dental treatment modifications should be coordinated with their healthcare provider.
+
+## PATHOPHYSIOLOGY
+
+Vasovagal syncope is mediated by autonomic reflexes within the brainstem and is modulated by trigeminal nerve stimulation or amygdalar input during emotional stress.
+
+During dental procedures, stimulation of the maxillary (CN V2) and mandibular (CN V3) branches of the trigeminal nerve (CN V) triggers the trigeminocardiac reflex. Afferent pain signals travel through the Gasserian ganglion to the trigeminal sensory nucleus, which connects to the vagal premotor neurons in the nucleus ambiguus and dorsal motor nucleus of the vagus through internal fibers in the reticular formation [12]. The efferent parasympathetic response promotes vagal activity at the atrioventricular node and reduces vascular tone and mean arterial pressure. The clinical manifestations include bradycardia and hypotension, which are occasionally accompanied by transient asystole [13].
+
+Psychogenic factors, such as stress and fear, can precipitate vasovagal syncope through a centrally mediated neurocardiogenic reflex. Activation of the central nucleus of the amygdala inhibits the nucleus tractus solitarius and rostral ventrolateral medulla, which are key centers involved in cardiovascular regulation [14]. Inhibition of baroreceptor neurons in the nucleus tractus solitarius disrupts blood pressure homeostasis [14]. Similar to the trigeminocardiac reflex, parasympathetic overactivity causes bradycardia and vasodilation, ultimately resulting in syncope.
+
+## CLINICAL PHASES
+
+Vasovagal syncope in the dental setting has a rapid onset and can be prevented by early recognition of the presyncope, syncope, and recovery phases (Fig. 2) [15].
+
+### 1. Presyncope
+
+Vasovagal syncope is often preceded by prodromal symptoms. Patients may initially experience warmth in the face or neck, pallor, and cold sweats. Other signs include pupillary dilation, hyperpnea, cold extremities, and tachycardia [1113].
+
+### 2. Syncope
+
+Bradycardia and hypotension may develop immediately before syncope, accompanied by dizziness and visual disturbances. During the loss of consciousness, breathing may become irregular or apneic. Cerebral hypoperfusion can cause convulsive movements or muscular twitching, particularly in the hands, legs, and face. The heart rate may fall below 50 beats/min, and blood pressure may decrease to as low as 30/15 mmHg [13]. The greatest concern in syncope is airway obstruction caused by generalized muscular relaxation, which can result in permanent neurological injury or death [8]. Hence, immediate supine positioning is critical to restore cerebral perfusion and prevent complications.
+
+### 3. Recovery
+
+Patients may experience transient confusion or disorientation after regaining consciousness. Postsyncopal symptoms, such as pallor, nausea, weakness, diaphoresis, and abnormal vital signs, may persist for several hours, occasionally for up to 24 h [13].
+
+## PREDISPOSING RISK FACTORS
+
+The triggers of vasovagal syncope can be broadly categorized as psychogenic or nonpsychogenic (Table 2). Psychogenic factors include fear, anxiety, stress, and distressing news. In dental clinics, common triggers include pain, the sight of blood, and exposure to dental instruments [1316].
+
+Nonpsychogenic factors include prolonged sitting or standing, hypoglycemia, fatigue, and humid, overcrowded environments. Certain medications, particularly nonsteroidal anti-inflammatory drugs and sedatives, may also increase susceptibility [16]. Early recognition and mitigation of these risks are critical for patient safety.
+
+Young adult males are at an increased risk of syncope in dental clinics, especially those 16–35 years of age [13]. This heightened susceptibility may be related to societal norms that discourage men from expressing emotions related to pain. Dental anxiety, combined with suppressed emotional responses, can trigger syncope as a maladaptive response. Supporting this, male adolescents are reported to be 2.69-fold more likely to experience syncope following dental injections than female adolescents [17]. By contrast, vasovagal syncope without a clear medical cause is uncommon in both children and older adults.
+
+Certain dental procedures are frequently associated with vasovagal syncope (Table 3). Local anesthetic administration is the most common trigger, accounting for approximately 75% of reported cases (Table 4) [18]. Tooth extraction is also strongly associated with syncope, often because of visual and sensory stimuli from needles, blood, and surgical instruments, which can provoke fear or anxiety. Notably, 39% of syncope episodes occur before dental procedures, highlighting the significant role of anticipatory anxiety as a standalone trigger [18]. Although specific procedures contribute to risk, individual patient factors, including psychological state and anxiety levels, are more predictive of syncope susceptibility than the procedure itself.
+
+## PREVENTION STRATEGIES
+
+Preventing vasovagal syncope in dental practice requires a multifaceted approach to mitigate common triggers in high-risk patients. Pre-appointment screening is essential for patients classified as ASA III or higher, including those with poorly controlled hypertension, type 2 diabetes, asthma, or chronic obstructive pulmonary disease (Table 5). Collaboration with the patient’s physician allows evaluation of systemic health status and medications to guide appropriate modifications to dental treatment. For patients with diabetes or anxiety, consuming a light meal before an appointment can help prevent hypoglycemia, a known precipitant of syncope.
+
+Psychological assessment and anxiety management play central roles in prevention. New patients should be screened for dental anxiety using validated instruments, such as the Corah Dental Anxiety Scale [19]. Cognitive behavioral therapy, combined with nonpharmacological strategies, such as guided breathing, physical maneuvers, and audiovisual distraction, can effectively manage mild to moderate anxiety [20]. Physical counterpressure maneuvers, including leg raising and leg crossing, improve hemodynamic stability and have been shown to abort syncope in seven of eight patients presenting with prodromal symptoms [21]. These techniques stabilize the physiological stress response while simultaneously distracting patients during dental procedures.
+
+Pharmacological intervention is indicated when behavioral management alone is insufficient. Conscious sedation with nitrous oxide or oral diazepam is effective in patients with moderate anxiety or a history of syncope, without the risks associated with general anesthesia [22]. For pediatric patients or patients with special needs and severe dental phobia, intravenous sedation or general anesthesia may be required. However, agents, such as propofol, can reduce heart rate and increase the risk of syncope [23]. Preapplication of 60% lidocaine tape approximately 3h before venipuncture can facilitate intravenous access while minimizing this risk [24]. Continuous physiologic monitoring is essential to detect abrupt bradycardia or hypotension.
+
+The administration of local anesthesia requires special consideration to prevent syncope. Evidence demonstrates a strong association between refusal of local anesthesia and an increased risk of syncope, even in patients without a prior history of fainting [17]. Best practices to minimize discomfort include supine positioning; buffering and warming the anesthetic solution; topical anesthesia; slow injection rates (approximately 1 cartridge/min); and the use of fine-gauge needles or computer-controlled delivery systems [25]. Collectively, these measures significantly reduce injection-related discomfort and vasovagal responses.
+
+Caution is warranted when using epinephrinecontaining local anesthetics in patients with a history of syncope [26]. Although epinephrine prolongs anesthesia and reduces bleeding, it may paradoxically induce hypotension and bradycardia, which are potential precursors of syncope. Accordingly, local anesthetics should be administered cautiously, and patients should be monitored for presyncopal signs before repositioning for treatment.
+
+## DIAGNOSIS
+
+Management of syncope begins with an accurate diagnosis to identify the underlying cause before initiating treatment. Clinical history taking should address three key questions:
+
+(1) Is the loss of consciousness consistent with syncope?(2) Are there clinical features suggestive of a specific etiology?(3) Is there a history of syncope, cardiovascular disease, neurological disorders, or metabolic conditions?
+
+A comprehensive medication review is essential because medications contribute to 5–15% of syncope cases, particularly agents associated with orthostatic hypotension, bradycardia, or central nervous system depression [8].
+
+Preoperative evaluation should include assessment of vital signs, such as blood pressure and heart rate, as well as evaluation for metabolic or behavioral abnormalities. Abnormal findings or atypical clinical presentations should prompt further investigation into the underlying causes of syncope. Common differential diagnoses, including hyperventilation, hypoglycemia, anemia, and seizure disorders, should be systematically excluded to ensure appropriate management (Table 6).
+
+## TREATMENT
+
+After a diagnosis of syncope has been established, management should be guided by the underlying etiology and clinical stage (Fig. 3). The standard management approach for vasovagal syncope in dental settings follows the P–CAB–D protocol [13]:
+
+• Position (P)• Circulation–Airway–Breathing (CAB)• Definitive Treatment (D)Management Protocol
+
+### 1. Assessment of consciousness
+
+Responsiveness should be evaluated immediately. If the patient is unresponsive, not breathing normally, or has no palpable pulse, basic life support, including cardiopulmonary resuscitation and automated external defibrillator use, should be initiated promptly, and emergency medical services should be activated.
+
+According to the American Heart Association 2020 guidelines and European Resuscitation Council 2021 guidelines, chest compressions should be delivered at a rate of 100–120 compressions/min with a compressionto-ventilation ratio of 30:2 for adults and children when a single rescuer is present [2728]. For pediatric patients with two rescuers, a compression-to-ventilation ratio of 15:2 is recommended [27].
+
+### 2. Positioning
+
+The Trendelenburg position, in which the feet are elevated 15–30° above the head, remains controversial because of the risks of passive regurgitation, airway obstruction, cerebral edema, and patient falls [4]. Current American Dental Association recommendations and available evidence support placing the patient in a supine position with the legs level with or slightly elevated above the head at the earliest sign of syncope to improve venous return (Fig. 4) [1829]. Patients who are conscious should be encouraged to move their legs actively to reduce peripheral blood pooling.
+
+### 3. CAB
+
+The patient’s vital signs, including blood pressure, respiratory rate, and pulse rate should be evaluated. Circulation is assessed by palpating the carotid pulse; a weak, bradycardic pulse is commonly observed during syncope [1327]. A patent airway should be established using the head-tilt, chin-lift maneuver (Fig. 5) [30], and breathing should be confirmed by observing chest rise, listening for breath sounds, and feeling airflow.
+
+### 4. Definitive care
+
+Supportive recovery with close monitoring of vital signs is essential for management. Oxygen is administered at 6–10 L/min for conscious patients or at 10–15 L/min via a bag-valve mask for unconscious patients [31331]. Vital signs should be monitored every 5 min and compared with baseline values to assess recovery.
+
+Adjunct pharmacological therapy is not routinely indicated because most syncopal episodes resolve with appropriate positioning and supportive care. However, the European Resuscitation Council recommends administering atropine 0.5 mg IV every 3–5 min, up to a maximum dose of 3 mg, for adults with symptomatic bradycardia (heart rate < 60 beats/min with hypotension) [32]. Atropine, a muscarinic antagonist, blocks vagal stimulation of the sinoatrial node and increases heart rate and cardiac output.
+
+For adults with a heart rate > 60 beats/min and hypotensive symptoms, the U.S. Food and Drug Administration recommends ephedrine 5 mg IV, up to a maximum cumulative dose of 50 mg [333435]. Ephedrine, an α- and β-adrenergic agonist, increases blood pressure through vasoconstriction and increased heart rate. It is contraindicated in patients with acute hypertension, tachyarrhythmia, ischemic heart disease, heart failure, or recent monoamine oxidase inhibitor use [3435].
+
+Loosening tight clothing, including ties and belts, can improve venous return and cerebral perfusion during recovery.
+
+### 5. Reassessment
+
+Once consciousness is regained, patients should be managed calmly and with continued vigilance. Triggers, such as needles or blood-contaminated instruments, should be removed to prevent recurrence. If recovery is delayed (> 2 min to regain consciousness or > 15–20 min for complete recovery), potential differential diagnoses include hyperventilation, hypoglycemia, anemia, or seizure activity [8]. Blood glucose levels should be promptly assessed in patients with diabetes and managed accordingly. Appropriate treatment should be initiated if alternative causes of syncope are suspected (Table 6). Patients aged < 10 years or > 40 years with unexplained syncope without prodromal symptoms require urgent cardiovascular and neurological evaluation. Early recognition and intervention are essential for preventing complications and optimizing outcomes.
+
+## RECOVERY
+
+Following a syncopal episode, identification of the underlying cause and modification of dental care to avoid known triggers are essential for preventing recurrence. Because the postsyncopal phase carries an increased risk of recurrence, continuation of dental treatment during the same visit is generally discouraged [813].
+
+Patients should be assessed based on medical history, age, and clinical presentation to determine the risk of recurrence (Table 7). Low-risk patients may be discharged with a responsible escort, whereas high-risk patients should be referred to a hospital for further evaluation. Common diagnostic investigations include electrocardiography and tilt-table testing. The tilt-table test helps identify the etiology of unexplained syncope by monitoring vital signs during controlled postural changes that replicate known triggers [24].
+
+## MANAGEMENT OF ORTHOSTATIC HYPOTENSION
+
+Orthostatic hypotension is managed using a protocol similar to that for vasovagal syncope. Patients are assessed for consciousness, positioned supine, and managed according to the CAB protocol. Oxygen and intravenous fluids are administered as needed, with continuous monitoring of vital signs. For subsequent dental visits, the dental chair should be inclined at approximately 10° during treatment [36]. Stable postoperative vital signs should be confirmed before the patient is gradually returned to an upright position.
+
+If symptoms persist, patients should be referred to their physician for reassessment and potential modification or discontinuation of contributing medications. Pharmacological agents, such as midodrine (an α-adrenergic agonist) or fludrocortisone (a corticosteroid), may be prescribed when supportive measures fail to adequately control symptoms [3637].
+
+## CONCLUSION
+
+The prognosis of vasovagal syncope is favorable in otherwise healthy individuals when triggers are identified and managed proactively. Early recognition of prodromal signs and open communication with patients are critical for prevention. Most importantly, effective emergency response depends on the coordination and preparedness of the entire dental team. Ongoing training in emergency protocols is therefore essential to enhance patient safety and improve clinical outcomes.
+
+Further research is needed to evaluate the effectiveness of emerging technologies, such as virtual reality and artificial intelligence, in reducing stress-induced syncope in dental practice.
