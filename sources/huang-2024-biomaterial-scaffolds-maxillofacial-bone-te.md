@@ -18,6 +18,8 @@ license: CC BY-NC-ND 4.0
 
 루트 폴더 인제스트 2026-10-22. 상악안면부 골 조직공학(Bone Tissue Engineering, BTE) 스캐폴드 최신 종합 리뷰 — 물리적 설계(형상·기공·미세구조·역학), 생물학적 기능화(성장인자·줄기세포), 임상 적용(치조·악골·치근단 결손 임상시험 표) 를 28페이지에 걸쳐 다룸. Ossix Volumax를 포함한 상용 콜라겐 스캐폴드 비교 포함 (Table 1).
 
+→ [[bone-regeneration/huang-2024-biomaterial-scaffolds-maxillofacial-bone-te]]
+
 ## Three-line Summary
 
 Comprehensive narrative review (Bioactive Materials 33:129-156, 2024; CC BY-NC-ND) covering biomaterial scaffold design for maxillofacial bone tissue engineering, organized into physical properties (architecture: pore geometry, pore size, interconnectivity, mechanical strength) and biological functionalization (growth factors — BMP-2, VEGF, FGF; stem cells — BMSCs, ADSCs, iPSCs; surface modification — bioceramics, nanoparticles).
