@@ -1,0 +1,66 @@
+TITLE: Clinical efficacy of bioactive glass in periodontal regeneration: a systematic review and meta-analysis.
+AUTHORS: Jafari N, Tamadon A, Kurmanalina MA, Mussin NM, Tanideh N, Safarzoda Sharoffidin R
+JOURNAL: Odontology
+YEAR: 2026
+DATE: 2026-01-12
+DOI: 10.1007/s10266-026-01314-6
+PMID: 41526568
+SOURCE: PubMed abstract record (closed access — no OA full text located via PMC/Unpaywall/OpenAlex)
+NOTE: abstract-only — full text not retrieved. Page must carry `full_text: false` and an abstract-only caveat.
+
+----- ABSTRACT -----
+Odontology. 2026 Oct;114(4):1791-1800. doi: 10.1007/s10266-026-01314-6. Epub 
+2026 Jan 12.
+
+Clinical efficacy of bioactive glass in periodontal regeneration: a systematic 
+review and meta-analysis.
+
+Jafari N(#)(1), Tamadon A(#)(1)(2)(3), Kurmanalina MA(#)(4), Mussin NM(5), 
+Tanideh N(1)(3)(6), Safarzoda Sharoffidin R(7).
+
+Author information:
+(1)PerciaVista R&D Co., Shiraz, Iran.
+(2)Department of Natural Sciences, West Kazakhstan Marat Ospanov Medical 
+University, Aktobe, Kazakhstan.
+(3)Stem Cells Technology Research Center, Shiraz University of Medical Sciences, 
+Shiraz, Iran.
+(4)Department of Dentistry and Maxillofacial Surgery, West Kazakhstan Marat 
+Ospanov Medical University, Aktobe, Kazakhstan.
+(5)Department of Surgery No. 2, West Kazakhstan Marat Ospanov Medical 
+University, Aktobe, Kazakhstan.
+(6)Department of Pharmacology, School of Medicine, Shiraz University of Medical 
+Sciences, Shiraz, Iran.
+(7)Department of Pharmaceutical Technology, Avicenna Tajik State Medical 
+University, Rudaki 139, 734003, Dushanbe, Tajikistan. safarzoda.r.90@gmail.com.
+(#)Contributed equally
+
+Periodontal disease leads to progressive destruction of tooth-supporting 
+tissues. Conventional therapies, such as open flap debridement, control 
+inflammation but provide limited regeneration. Bioactive glass (BG), a bioactive 
+and osteoconductive material, has emerged as a promising regenerative agent in 
+periodontal therapy. This meta-analysis evaluated the clinical efficacy of BG in 
+reducing probing depth (PD) and improving clinical attachment level (CAL) in 
+periodontal lesions. A systematic search of Embase, PubMed, and Cochrane Library 
+up to April 2025 identified randomized controlled trials (RCTs) assessing BG as 
+a standalone intervention for periodontal regeneration. Studies reporting PD 
+and/or CAL outcomes were included. Following Cochrane Collaboration standards, 
+two reviewers independently extracted data and assessed bias risk. Meta-analysis 
+using a random-effects model in RevMan (v5.4) addressed study heterogeneity. 
+Twelve RCTs involving 234 patients and 406 periodontal defects were included. BG 
+significantly improved PD reduction (MD = 1.27 mm; p = 0.0006) and CAL gain 
+(MD = 1.49 mm; p = 0.0005), with moderate-to-high heterogeneity and no 
+significant publication bias. These findings confirm that BG significantly 
+enhances clinical outcomes in periodontal regeneration. Despite variability 
+among studies, BG demonstrates strong potential as an effective regenerative 
+material, warranting further high-quality trials.
+
+© 2026. The Author(s), under exclusive licence to The Society of The Nippon 
+Dental University.
+
+DOI: 10.1007/s10266-026-01314-6
+PMID: 41526568 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Conflict of interest: Authors 
+declare that the research was conducted in the absence of any commercial or 
+financial relationships that could be construed as a potential conflict of 
+interest.
