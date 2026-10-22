@@ -1,0 +1,38 @@
+TITLE: Comparative Assessment of Bovine Versus Porcine Xenograft for Augmentation: A Randomized Prospective Cohort Study.
+AUTHORS: Bhatavadekar N, Gandhi Y, Padhye N
+JOURNAL: Int J Periodontics Restorative Dent
+YEAR: 2022
+DATE: 2022-11-01
+DOI: 10.11607/prd.6025
+PMID: 36305933
+SOURCE: PubMed abstract record (closed access — no OA full text located via PMC/Unpaywall/OpenAlex)
+NOTE: abstract-only — full text not retrieved. Page must carry `full_text: false` and an abstract-only caveat.
+
+----- ABSTRACT -----
+Int J Periodontics Restorative Dent. 2022 Nov-Dec;42(6):789-796. doi: 
+10.11607/prd.6025.
+
+Comparative Assessment of Bovine Versus Porcine Xenograft for Augmentation: A 
+Randomized Prospective Cohort Study.
+
+Bhatavadekar N, Gandhi Y, Padhye N.
+
+This study compared the bone turnover and volume stability of bovine-derived 
+xenografts (Cerabone) vs porcine-derived xenografts (MinerOss XP) in horizontal 
+ridge augmentation (HRA) for veneer contour and extraction socket preservation 
+(ESP), with a 6-month follow-up. Participants were divided into Group 1 (HRA + 
+bovine), Group 2 (HRA + porcine), Group 3 (ESP + bovine), and Group 4 (ESP + 
+porcine). Buccolingual ridge width was measured on CBCT scans at baseline and 6 
+months. Representative histologic core samples were taken from the ESP groups at 
+6 months. Each group comprised 10 subjects (40 subjects total). The buccolingual 
+width for Groups 1 and 2 increased from 5.43 ± 1.82 mm and 5.75 ± 1.64 mm (P = 
+.36) to 7.75 ± 1.91 mm and 8.75 ± 1.38 mm (P = .03), respectively. However, the 
+buccolingual widths for Groups 3 and 4 decreased from 6.3 ± 1.26 mm and 6.74 ± 
+1.29 mm (P = .16) to 5.8 ± 1.21 mm and 6.61 ± 1.56 mm (P = .01), respectively. 
+Significantly lower dimensional changes were noted in Group 4 at 6 months. 
+Porcine xenografts serve as a stable biocompatible osteoconductive bone 
+substitute and expand a clinician's choice of bone grafts in dental 
+applications.
+
+DOI: 10.11607/prd.6025
+PMID: 36305933 [Indexed for MEDLINE]
