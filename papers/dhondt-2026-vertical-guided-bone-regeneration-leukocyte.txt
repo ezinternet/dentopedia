@@ -1,0 +1,45 @@
+TITLE: Vertical Guided Bone Regeneration: Leukocyte and PRF Bone Block vs a Mixture of Autogenous Bone with DBBM: A Split-Mouth Randomized Controlled Trial with up to 1 Year of Follow-up After Implant Loading.
+AUTHORS: Dhondt RAL, Quirynen M, Cortellini S, Lahoud P, Temmerman A
+JOURNAL: Int J Periodontics Restorative Dent
+YEAR: 2026
+DATE: 2026-05-01
+DOI: 10.11607/prd.7338
+PMID: 39946741
+SOURCE: PubMed abstract record (closed access — no OA full text located via PMC/Unpaywall/OpenAlex)
+NOTE: abstract-only — full text not retrieved. Page must carry `full_text: false` and an abstract-only caveat.
+
+----- ABSTRACT -----
+Int J Periodontics Restorative Dent. 2026 May 6;46(3):360-376. doi: 
+10.11607/prd.7338.
+
+Vertical Guided Bone Regeneration: Leukocyte and PRF Bone Block vs a Mixture of 
+Autogenous Bone with DBBM: A Split-Mouth Randomized Controlled Trial with up to 
+1 Year of Follow-up After Implant Loading.
+
+Dhondt RAL, Quirynen M, Cortellini S, Lahoud P, Temmerman A.
+
+Oral implants require adequate bone support, which is often facilitated by bone 
+augmentation when bone volume is insufficient. Autogenous bone (AB) has been 
+considered the gold standard for such procedures due to its osteogenic 
+properties, but it necessitates a second surgical site, which increases patient 
+morbidity. This study was a randomized, double-blind, split-mouth clinical trial 
+comparing leukocyte-platelet-rich fibrin (L-PRF) bone block grafts against a 
+composite graft mixture of 50% AB with 50% deproteinized bovine bone mineral for 
+vertical guided bone regeneration (GBR). The trial included six patients needing 
+bilateral vertical GBR before implant placement. A dense polytetrafluoroethylene 
+membrane was used for both test and control sites. The primary outcome measure 
+was vertical bone height (VBH) gain, assessed via CBCT at 9 and 25 months 
+postoperative. There was no significant difference in VBH gain between the test 
+and control sites at any time points, with a mean VBH gain at implant placement 
+of 4.6 ± 3.0 mm for test sites and 5.2 ± 2.7 mm for control sites. One year 
+after implant loading, the VBH gain was 3.0 ± 2.8 mm for test sites and 3.8 ± 
+2.6 mm for control sites (P = .96). Complications were minimal and included one 
+implant loss due to infection in a test site. The L-PRF bone block could be a 
+viable alternative to the composite graft, potentially reducing the need for 
+harvesting bone from a second surgical site. Future studies with larger sample 
+sizes are needed to confirm these findings and to explore the biologic benefits 
+of integrating the L-PRF bone block into bone graft materials for oral 
+implantology.
+
+DOI: 10.11607/prd.7338
+PMID: 39946741 [Indexed for MEDLINE]
