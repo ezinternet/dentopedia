@@ -16,6 +16,8 @@ text_filename: smidt-2019-ossix-volumax-lateral-ridge-augmentation.pdf
 
 루트 폴더 인제스트 2026-10-22. 측방 치조제 결손을 뼈 이식재 없이 Ossix Volumax 콜라겐 스캐폴드만으로 처리하는 임상 증례 — 기존 GBR(이식재+멤브레인) 또는 CTG 대신 단일 재료로 부피 회복 가능성을 보여주는 첫 보고.
 
+→ [[bone-regeneration/smidt-2019-ossix-volumax-lateral-ridge-augmentation]]
+
 ## Three-line Summary
 
 Single case report (Hebrew University/Hadassah, Quintessence Int 50(7):576-582, 2019) demonstrating the use of Ossix Volumax — a thick (1.5-2.0 mm), resorbable, sugar-cross-linked porcine collagen scaffold with GLYMATRIX technology — as the sole augmentation material (no bone substitute) for lateral ridge defect correction at a posterior single-tooth implant site between natural teeth.
