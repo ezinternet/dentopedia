@@ -59,7 +59,7 @@ notes: |
 
 /* ── RESET ── */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-html { font-size: 16px; scroll-behavior: smooth; }
+html { font-size: 19px; scroll-behavior: smooth; }
 body {
   font-family: 'IBM Plex Sans', system-ui, sans-serif;
   background: var(--bg);
@@ -91,21 +91,21 @@ button { cursor: pointer; font-family: inherit; }
 }
 .header-title {
   font-family: 'IBM Plex Serif', Georgia, serif;
-  font-size: 1rem;
+  font-size: 1.18rem;
   font-weight: 600;
   color: var(--ink);
   letter-spacing: -0.01em;
   white-space: nowrap;
 }
 .header-sub {
-  font-size: 0.78rem;
+  font-size: 0.92rem;
   color: var(--ink3);
   font-weight: 400;
   white-space: nowrap;
 }
 .header-spacer { flex: 1; }
 .header-ref {
-  font-size: 0.72rem;
+  font-size: 0.85rem;
   color: var(--ink3);
   font-style: italic;
   white-space: nowrap;
@@ -134,7 +134,7 @@ button { cursor: pointer; font-family: inherit; }
   position: relative;
 }
 .hero-eyebrow {
-  font-size: 0.72rem;
+  font-size: 0.85rem;
   font-weight: 500;
   letter-spacing: 0.12em;
   text-transform: uppercase;
@@ -152,7 +152,7 @@ button { cursor: pointer; font-family: inherit; }
 }
 .hero-headline strong { font-weight: 600; }
 .hero-body {
-  font-size: 0.9rem;
+  font-size: 1.06rem;
   opacity: 0.85;
   max-width: 600px;
   line-height: 1.65;
@@ -168,7 +168,7 @@ button { cursor: pointer; font-family: inherit; }
   border: 1px solid rgba(255,255,255,0.25);
   border-radius: 20px;
   padding: 4px 12px;
-  font-size: 0.75rem;
+  font-size: 0.89rem;
   font-family: 'IBM Plex Mono', monospace;
   font-weight: 500;
   letter-spacing: 0.02em;
@@ -198,7 +198,7 @@ button { cursor: pointer; font-family: inherit; }
   border: none;
   border-bottom: 3px solid transparent;
   padding: 14px 18px 12px;
-  font-size: 0.82rem;
+  font-size: 0.97rem;
   font-weight: 500;
   color: var(--ink3);
   transition: color 0.15s, border-color 0.15s;
@@ -218,7 +218,7 @@ button { cursor: pointer; font-family: inherit; }
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  font-size: 0.65rem;
+  font-size: 0.77rem;
   font-weight: 600;
   font-family: 'IBM Plex Mono', monospace;
   flex-shrink: 0;
@@ -242,7 +242,7 @@ button { cursor: pointer; font-family: inherit; }
   margin-bottom: 28px;
 }
 .region-eyebrow {
-  font-size: 0.72rem;
+  font-size: 0.85rem;
   font-weight: 500;
   letter-spacing: 0.1em;
   text-transform: uppercase;
@@ -259,7 +259,7 @@ button { cursor: pointer; font-family: inherit; }
   text-wrap: balance;
 }
 .region-constraint {
-  font-size: 0.9rem;
+  font-size: 1.06rem;
   color: var(--ink2);
   display: flex;
   align-items: center;
@@ -274,7 +274,7 @@ button { cursor: pointer; font-family: inherit; }
   border: 1px solid rgba(20,125,135,0.2);
   border-radius: 4px;
   padding: 3px 9px;
-  font-size: 0.75rem;
+  font-size: 0.89rem;
   font-weight: 500;
 }
 
@@ -307,7 +307,7 @@ button { cursor: pointer; font-family: inherit; }
 .stat-card.neutral{ --card-color: var(--ink3); }
 
 .stat-label {
-  font-size: 0.72rem;
+  font-size: 0.85rem;
   font-weight: 500;
   letter-spacing: 0.06em;
   text-transform: uppercase;
@@ -316,7 +316,7 @@ button { cursor: pointer; font-family: inherit; }
 }
 .stat-value {
   font-family: 'IBM Plex Mono', monospace;
-  font-size: 1.7rem;
+  font-size: 1.87rem;
   font-weight: 500;
   letter-spacing: -0.02em;
   color: var(--ink);
@@ -325,12 +325,12 @@ button { cursor: pointer; font-family: inherit; }
   font-variant-numeric: tabular-nums;
 }
 .stat-value .unit {
-  font-size: 0.9rem;
+  font-size: 1.06rem;
   font-weight: 400;
   color: var(--ink2);
 }
 .stat-note {
-  font-size: 0.75rem;
+  font-size: 0.89rem;
   color: var(--ink3);
   line-height: 1.4;
 }
@@ -346,7 +346,7 @@ button { cursor: pointer; font-family: inherit; }
 }
 .visual-section h3 {
   font-family: 'IBM Plex Serif', Georgia, serif;
-  font-size: 0.95rem;
+  font-size: 1.12rem;
   font-weight: 600;
   color: var(--ink);
   margin-bottom: 16px;
@@ -356,7 +356,7 @@ button { cursor: pointer; font-family: inherit; }
 /* IAC distance bars */
 .iac-bars { display: flex; flex-direction: column; gap: 14px; }
 .iac-row { display: grid; grid-template-columns: 100px 1fr auto; align-items: center; gap: 12px; }
-.iac-label { font-size: 0.8rem; font-weight: 500; color: var(--ink2); }
+.iac-label { font-size: 0.94rem; font-weight: 500; color: var(--ink2); }
 .iac-bar-wrap { background: var(--bg2); border-radius: 4px; height: 24px; position: relative; overflow: visible; }
 .iac-bar {
   height: 100%;
@@ -365,7 +365,7 @@ button { cursor: pointer; font-family: inherit; }
   align-items: center;
   padding-left: 8px;
   font-family: 'IBM Plex Mono', monospace;
-  font-size: 0.75rem;
+  font-size: 0.89rem;
   font-weight: 500;
   color: #fff;
   transition: width 0.6s cubic-bezier(0.4,0,0.2,1);
@@ -385,7 +385,7 @@ button { cursor: pointer; font-family: inherit; }
   position: absolute;
   top: -20px;
   left: 4px;
-  font-size: 0.62rem;
+  font-size: 0.73rem;
   font-family: 'IBM Plex Mono', monospace;
   color: var(--danger);
   white-space: nowrap;
@@ -393,7 +393,7 @@ button { cursor: pointer; font-family: inherit; }
 }
 .iac-val {
   font-family: 'IBM Plex Mono', monospace;
-  font-size: 0.8rem;
+  font-size: 0.94rem;
   font-weight: 500;
   color: var(--ink);
   white-space: nowrap;
@@ -405,7 +405,7 @@ button { cursor: pointer; font-family: inherit; }
 .cpdu-table { min-width: 480px; }
 .cpdu-table th {
   background: var(--bg2);
-  font-size: 0.72rem;
+  font-size: 0.85rem;
   font-weight: 600;
   letter-spacing: 0.06em;
   text-transform: uppercase;
@@ -416,7 +416,7 @@ button { cursor: pointer; font-family: inherit; }
 }
 .cpdu-table td {
   padding: 9px 12px;
-  font-size: 0.82rem;
+  font-size: 0.97rem;
   border-bottom: 1px solid var(--border);
   color: var(--ink);
 }
@@ -427,7 +427,7 @@ button { cursor: pointer; font-family: inherit; }
   gap: 5px;
   border-radius: 4px;
   padding: 3px 9px;
-  font-size: 0.72rem;
+  font-size: 0.85rem;
   font-weight: 600;
 }
 .risk-chip.low    { background: var(--safe-l); color: var(--safe); }
@@ -460,7 +460,7 @@ button { cursor: pointer; font-family: inherit; }
   left: 50%;
   transform: translateX(-50%);
   font-family: 'IBM Plex Mono', monospace;
-  font-size: 0.72rem;
+  font-size: 0.85rem;
   font-weight: 500;
   color: var(--ink);
   white-space: nowrap;
@@ -472,7 +472,7 @@ button { cursor: pointer; font-family: inherit; }
 .gauge-labels {
   display: flex;
   justify-content: space-between;
-  font-size: 0.68rem;
+  font-size: 0.8rem;
   color: var(--ink3);
   font-family: 'IBM Plex Mono', monospace;
   margin-bottom: 12px;
@@ -482,7 +482,7 @@ button { cursor: pointer; font-family: inherit; }
 }
 .gauge-legend-item {
   display: flex; align-items: center; gap: 6px;
-  font-size: 0.75rem; color: var(--ink2);
+  font-size: 0.89rem; color: var(--ink2);
 }
 .gauge-legend-dot {
   width: 10px; height: 10px; border-radius: 2px;
@@ -492,11 +492,11 @@ button { cursor: pointer; font-family: inherit; }
 .mbl-compare { display: flex; flex-direction: column; gap: 16px; max-width: 440px; }
 .mbl-row { display: flex; flex-direction: column; gap: 5px; }
 .mbl-row-head { display: flex; justify-content: space-between; align-items: baseline; }
-.mbl-row-label { font-size: 0.8rem; font-weight: 500; color: var(--ink2); }
-.mbl-row-val { font-family: 'IBM Plex Mono', monospace; font-size: 0.85rem; font-weight: 500; color: var(--ink); }
+.mbl-row-label { font-size: 0.94rem; font-weight: 500; color: var(--ink2); }
+.mbl-row-val { font-family: 'IBM Plex Mono', monospace; font-size: 1rem; font-weight: 500; color: var(--ink); }
 .mbl-bar-bg { background: var(--bg2); border-radius: 4px; height: 20px; }
 .mbl-bar-fill { height: 100%; border-radius: 4px; transition: width 0.7s cubic-bezier(0.4,0,0.2,1); }
-.mbl-note { font-size: 0.75rem; color: var(--ink3); margin-top: 6px; }
+.mbl-note { font-size: 0.89rem; color: var(--ink3); margin-top: 6px; }
 
 /* ── PROTOCOL BOX ── */
 .protocol-box {
@@ -513,7 +513,7 @@ button { cursor: pointer; font-family: inherit; }
   border-left-color: var(--warn);
 }
 .protocol-label {
-  font-size: 0.7rem;
+  font-size: 0.83rem;
   font-weight: 600;
   letter-spacing: 0.1em;
   text-transform: uppercase;
@@ -522,7 +522,7 @@ button { cursor: pointer; font-family: inherit; }
 }
 .protocol-box.warn .protocol-label { color: var(--warn); }
 .protocol-text {
-  font-size: 0.88rem;
+  font-size: 1.04rem;
   color: var(--ink);
   line-height: 1.7;
 }
@@ -545,14 +545,14 @@ button { cursor: pointer; font-family: inherit; }
   border-radius: 6px;
   padding: 7px 12px;
   background: var(--surface2);
-  font-size: 0.78rem;
+  font-size: 0.92rem;
   color: var(--ink2);
   margin-bottom: 28px;
 }
 .paper-badge .pi { font-family: 'IBM Plex Serif', serif; font-style: italic; color: var(--ink); }
 .paper-badge .ev {
   font-family: 'IBM Plex Mono', monospace;
-  font-size: 0.7rem;
+  font-size: 0.83rem;
   background: var(--bg2);
   padding: 2px 7px;
   border-radius: 3px;
@@ -578,7 +578,7 @@ button { cursor: pointer; font-family: inherit; }
 }
 .compare-header h2 {
   font-family: 'IBM Plex Serif', serif;
-  font-size: 1rem;
+  font-size: 1.18rem;
   font-weight: 600;
   color: var(--ink);
   letter-spacing: -0.01em;
@@ -589,7 +589,7 @@ button { cursor: pointer; font-family: inherit; }
   border: none;
   border-radius: 5px;
   padding: 6px 14px;
-  font-size: 0.78rem;
+  font-size: 0.92rem;
   font-weight: 500;
   transition: opacity 0.15s;
 }
@@ -597,7 +597,7 @@ button { cursor: pointer; font-family: inherit; }
 .compare-body { overflow-x: auto; }
 .compare-table th {
   background: var(--bg2);
-  font-size: 0.72rem;
+  font-size: 0.85rem;
   font-weight: 600;
   letter-spacing: 0.05em;
   text-transform: uppercase;
@@ -609,7 +609,7 @@ button { cursor: pointer; font-family: inherit; }
 }
 .compare-table td {
   padding: 11px 14px;
-  font-size: 0.82rem;
+  font-size: 0.97rem;
   color: var(--ink);
   border-bottom: 1px solid var(--border);
   vertical-align: top;
@@ -634,7 +634,7 @@ button { cursor: pointer; font-family: inherit; }
   background: var(--surface);
   padding: 18px 24px;
   text-align: center;
-  font-size: 0.74rem;
+  font-size: 0.87rem;
   color: var(--ink3);
   line-height: 1.6;
 }
@@ -861,7 +861,7 @@ button { cursor: pointer; font-family: inherit; }
         <div class="iac-val" style="color:var(--accent)">18.3°</div>
       </div>
     </div>
-    <p style="font-size:0.72rem;color:var(--ink3);margin-top:12px;">막대 길이는 0°–30° 범위 비례. 2소구치(#15/#25)가 1소구치보다 일관되게 위험도 높음.</p>
+    <p style="font-size:0.85rem;color:var(--ink3);margin-top:12px;">막대 길이는 0°–30° 범위 비례. 2소구치(#15/#25)가 1소구치보다 일관되게 위험도 높음.</p>
   </div>
 
   <div class="protocol-box warn">
@@ -943,7 +943,7 @@ button { cursor: pointer; font-family: inherit; }
         <div class="iac-val">4.65 mm</div>
       </div>
     </div>
-    <p style="font-size:0.72rem;color:var(--ink3);margin-top:14px;">
+    <p style="font-size:0.85rem;color:var(--ink3);margin-top:14px;">
       막대 = 거리 비례 (최대 7.2mm 기준). <span style="color:var(--danger);font-weight:600;">2대구치가 역설적으로 가장 짧다</span> — IAC가 이 부위에서 근심 상행하기 때문. ≥2mm 마진 적용 시 실제 임플란트 길이 여유가 극히 제한됨.
     </p>
   </div>
@@ -1135,7 +1135,7 @@ button { cursor: pointer; font-family: inherit; }
         <div class="mbl-note">메타분석 기준값 — 프리핸드 술자 의존</div>
       </div>
     </div>
-    <p style="font-size:0.72rem;color:var(--ink3);margin-top:14px;">
+    <p style="font-size:0.85rem;color:var(--ink3);margin-top:14px;">
       막대는 7.2%를 100% 기준으로 정규화. LMM 분석: 타이밍(조기 vs 지연)만 편차에 유의 (P&lt;.05); 등록법(CBCT vs IOS), 골질, 임플란트 크기 모두 무의미.
     </p>
   </div>
@@ -1223,7 +1223,7 @@ button { cursor: pointer; font-family: inherit; }
         <div class="mbl-note">0.22 + Δ0.373 mm 상호작용 — 가장 불리한 조합</div>
       </div>
     </div>
-    <p style="font-size:0.72rem;color:var(--ink3);margin-top:14px;">
+    <p style="font-size:0.85rem;color:var(--ink3);margin-top:14px;">
       n=506 임플란트 / 288명 · 5년 추적 · 3D CAD 각도 측정 (기존 2D 측정이 협설 기울기 누락하던 문제 해결).
     </p>
   </div>
@@ -1271,7 +1271,7 @@ button { cursor: pointer; font-family: inherit; }
           <td>팔라탈 숄더 위치</td>
           <td class="mono">Safe angle 범위 (CBCT)</td>
           <td>순측 퇴축, 각도형 지대주</td>
-          <td style="font-size:0.75rem;color:var(--ink3)">fettouh 2026</td>
+          <td style="font-size:0.89rem;color:var(--ink3)">fettouh 2026</td>
         </tr>
         <tr>
           <td><div class="site-label"><div class="site-dot" style="background:var(--warn)"></div>상악 소구치</div></td>
@@ -1279,7 +1279,7 @@ button { cursor: pointer; font-family: inherit; }
           <td>치아 장축에서 순측 ~18°</td>
           <td class="mono">ILAA 18.3° · LCA · 치아-첨단 거리</td>
           <td>피질골 천공 84% (보철 방향)</td>
-          <td style="font-size:0.75rem;color:var(--ink3)">najm 2024</td>
+          <td style="font-size:0.89rem;color:var(--ink3)">najm 2024</td>
         </tr>
         <tr>
           <td><div class="site-label"><div class="site-dot" style="background:#C06000"></div>후방 하악 IAC</div></td>
@@ -1287,7 +1287,7 @@ button { cursor: pointer; font-family: inherit; }
           <td>진정 축방향; 길이 = IAC − 2mm</td>
           <td class="mono">IAC ≥2mm 마진 · 2M 최단 4.65mm</td>
           <td>IAN 감각이상; 조기 실패</td>
-          <td style="font-size:0.75rem;color:var(--ink3)">behfarnia 2025 SR+MA</td>
+          <td style="font-size:0.89rem;color:var(--ink3)">behfarnia 2025 SR+MA</td>
         </tr>
         <tr>
           <td><div class="site-label"><div class="site-dot" style="background:var(--danger)"></div>후방 하악 능선</div></td>
@@ -1295,7 +1295,7 @@ button { cursor: pointer; font-family: inherit; }
           <td>D-I / U-I 함몰 벗어난 축</td>
           <td class="mono">언더컷 깊이 · IAC 위치 · CPDU 유형</td>
           <td>설측 피질골 천공, 혈관 손상</td>
-          <td style="font-size:0.75rem;color:var(--ink3)">alqaood 2026</td>
+          <td style="font-size:0.89rem;color:var(--ink3)">alqaood 2026</td>
         </tr>
         <tr>
           <td><div class="site-label"><div class="site-dot" style="background:#C06000"></div>후방 상악 (TSFE)</div></td>
@@ -1303,7 +1303,7 @@ button { cursor: pointer; font-family: inherit; }
           <td>교합면 수직 축방향 + 1mm 마진</td>
           <td class="mono">RBH · 1-mm 안전 마진</td>
           <td>슈나이데리안 막 천공 7.2% (vs 2.5%)</td>
-          <td style="font-size:0.75rem;color:var(--ink3)">jia 2025</td>
+          <td style="font-size:0.89rem;color:var(--ink3)">jia 2025</td>
         </tr>
         <tr>
           <td><div class="site-label"><div class="site-dot" style="background:var(--ink3)"></div>전 부위 (생물역학)</div></td>
@@ -1311,7 +1311,7 @@ button { cursor: pointer; font-family: inherit; }
           <td>해부 허용 범위에서 최소 기울기</td>
           <td class="mono">0.22 vs 0.10mm MBL (5년, P&lt;.05)</td>
           <td>치조정 골소실; FDP 대합 시 Δ0.373mm</td>
-          <td style="font-size:0.75rem;color:var(--ink3)">kim 2026</td>
+          <td style="font-size:0.89rem;color:var(--ink3)">kim 2026</td>
         </tr>
       </tbody>
     </table>
