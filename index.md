@@ -5198,3 +5198,15 @@ tags: []
 - [[sinus-lift/lateral/trimmel-2021-relative-performance-various-biomaterials]] — 상악동거상 베이지안 네트워크 메타분석 (RCT 34편, 842건, 5-8개월): 28개 이식재 하위군 중 이종골+골수농축액 SUCRA 81% 1위, 자가골 단독 12위(57%)로 표준 지위 미확인; 유의 비교 378건 중 2건, 확실성 낮음~매우 낮음
 - [[bone-regeneration/perez-gonzalez-2020-assessment-clinical-outcomes-histomorphometric-findings]] — 동종골 블록 치조제 증강 SR+MA (7편, 블록 323개, 임플란트 501개): 블록 생존율 94.52%, 임플란트 생존율 97.36%, 블록 노출이 최다 합병증, 신생골 31-42%·잔존 이식재 14-40%; RCT 없음
 - [[bone-regeneration/monje-2014-feasibility-utilizing-allogeneic-bone-blocks]] — 위축 상악 동종골 블록 이식 SR+MA (전향 연구 15편, 블록 361개): 블록 실패 2.4%(주원인 조기 노출), 가중 수평 증대 4.79 mm, 임플란트 생존율 96.9%(228개, 평균 23.9개월); 수직 증대 자료 부족
+
+## Batch ingest (added 2026-10-23) — 미주신경성 실신(vasovagal syncope) 서베일런스 (7편 중 6편 신규, 1편 스킵)
+
+### drug/systemic-disease
+- [[drug/systemic-disease/li-2026-syncope-in-dentistry-risk-factors]] — Li 2026 · narrative-review · 치과 미주신경성 실신 고찰: 전체 응급의 60% 이상·전체 실신의 50% 이상, 국소마취가 삽화의 약 75% 유발·39%는 시술 전 발생, 남자 청소년 2.69배; P–CAB–D 처치(아트로핀 0.5 mg IV 최대 3 mg, 에페드린 5 mg IV 최대 50 mg) (PMC full text)
+- [[drug/systemic-disease/zouaghi-2026-recurrent-vasovagal-syncope-during-a]] — Zouaghi 2026 · case-report · 33세 여 단일 증례: 하악 제3대구치 발치 중 미주신경성 실신 2회(1차 무실신 → 재개 10분 후 일과성 의식소실), 별도 내원에서 전구증상 차단으로 완료; 혈압·심박수·마취제 용량 미기록, 외관상 회복 ≠ 자율신경 안정(15–30분) (PMC full text)
+- [[drug/systemic-disease/hockin-2023-pain-associated-with-intravascular-instrumentation]] — Hockin 2023 · rct · 무작위·이중맹검·위약대조 crossover RCT(n=23, needle phobia 없음): 정맥 천자 통증이 기립내성을 Sham+EMLA 27.8±2.4분 → IV+Placebo 23.0±2.8분으로 감소(p=0.026)시켰고 IV+EMLA는 26.2±2.2분으로 유의차 없음(p=0.185) — 최대 교감신경 활성 저하(FVR +140.7±19.0% vs +190.6±17.0%)가 기전 (abstract-only)
+- [[drug/systemic-disease/wang-2024-guidelines-for-the-diagnosis-and]] — Wang 2024 · consensus · 2024 중국소아심장학회 지침: 소아·청소년 미주신경성 실신의 분류(VVS·POTS·OH·OHT·STS·SHT)와 진단 수치 기준, 그리고 치과용 의뢰 적신호(운동 중 실신·비정상 심전도·돌연사 가족력) 및 비약물 우선 치료 사다리 (PMC full text)
+- [[drug/systemic-disease/sanuki-2023-hypotension-without-skin-symptoms-at]] — Sanuki 2023 · case-report · 국소마취 중 피부증상 없는 저혈압을 아나필락시스 vs 미주신경성 반응으로 감별하라는 2쪽 증례·서신 (abstract-only — PMC XML 공백, 정량 데이터 없음)
+- [[drug/systemic-disease/shen-2017-acc-aha-hrs-guideline]] — Shen 2017 · consensus · 2017 ACC/AHA/HRS 실신 지침(서지 레코드만 확보): 반사성 vs 심장성 실신 감별과 단기·장기 위험층화 프레임만 제공하며 권고등급·LOE는 원문 미확보로 미기재 (abstract-only)
+
+> 스킵 1편: PMID 40729568 (McAllister 2025, Am J Ther) — PubMed 레코드에 초록·본문이 없어 추출 가능한 내용 0. 재시도하려면 원문 PDF 필요.
