@@ -60,7 +60,7 @@ body {
   background: var(--bg);
   color: var(--text-1);
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
-  font-size: 15px;
+  font-size: 17.5px;
   line-height: 1.55;
   padding: 1.75rem 1.25rem 3rem;
   -webkit-font-smoothing: antialiased;
@@ -69,13 +69,13 @@ body {
 
 /* Header */
 .hdr { padding: 0.25rem 0 0.5rem; }
-.eyebrow { font-size: 0.65rem; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: var(--blue-mid); margin-bottom: 0.35rem; }
-.hdr h1 { font-size: 1.3rem; font-weight: 800; letter-spacing: -0.025em; line-height: 1.2; }
-.hdr-sub { font-size: 0.72rem; color: var(--text-3); margin-top: 0.35rem; }
+.eyebrow { font-size: 0.77rem; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: var(--blue-mid); margin-bottom: 0.35rem; }
+.hdr h1 { font-size: 1.43rem; font-weight: 800; letter-spacing: -0.025em; line-height: 1.2; }
+.hdr-sub { font-size: 0.85rem; color: var(--text-3); margin-top: 0.35rem; }
 
 /* Card */
 .card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 1.25rem 1.5rem; }
-.card-label { font-size: 0.62rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text-3); margin-bottom: 0.85rem; }
+.card-label { font-size: 0.73rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text-3); margin-bottom: 0.85rem; }
 
 /* Radio items */
 .radio-list { display: flex; flex-direction: column; gap: 0.5rem; }
@@ -96,15 +96,15 @@ body {
 .radio-dot::after { content: ''; width: 6px; height: 6px; border-radius: 50%; background: white; display: none; }
 .radio-item.on .radio-dot::after { display: block; }
 .radio-text { flex: 1; }
-.radio-name { font-size: 0.88rem; font-weight: 600; color: var(--text-1); }
+.radio-name { font-size: 1.04rem; font-weight: 600; color: var(--text-1); }
 .radio-item.on .radio-name { color: var(--blue); }
-.radio-desc { font-size: 0.73rem; color: var(--text-2); margin-top: 0.1rem; }
+.radio-desc { font-size: 0.86rem; color: var(--text-2); margin-top: 0.1rem; }
 
 /* Buttons */
 .btn-row { display: flex; gap: 0.5rem; margin-top: 0.5rem; }
 .btn {
   flex: 1; padding: 0.7rem 1rem; border: none; border-radius: var(--radius-sm);
-  font-size: 0.85rem; font-weight: 600; cursor: pointer; transition: all 0.15s;
+  font-size: 1rem; font-weight: 600; cursor: pointer; transition: all 0.15s;
   text-align: center;
 }
 .btn-primary { background: var(--blue); color: white; }
@@ -124,8 +124,8 @@ body {
 .result-header.amber { background: var(--amber-light); color: var(--amber); }
 .result-header.red { background: var(--red-light); color: var(--red); }
 .result-header.purple { background: var(--purple-light); color: var(--purple); }
-.result-icon { font-size: 1.2rem; }
-.result-title { font-size: 0.9rem; font-weight: 700; }
+.result-icon { font-size: 1.32rem; }
+.result-title { font-size: 1.06rem; font-weight: 700; }
 
 .step-list { display: flex; flex-direction: column; gap: 0.5rem; }
 .step {
@@ -134,30 +134,30 @@ body {
 }
 .step-num {
   width: 26px; height: 26px; min-width: 26px; border-radius: 50%;
-  background: var(--blue); color: white; font-size: 0.75rem; font-weight: 700;
+  background: var(--blue); color: white; font-size: 0.89rem; font-weight: 700;
   display: flex; align-items: center; justify-content: center; margin-top: 1px;
 }
 .step-num.amber { background: var(--amber); }
 .step-num.red { background: var(--red); }
 .step-num.green { background: var(--green); }
 .step-content { flex: 1; }
-.step-title { font-size: 0.85rem; font-weight: 600; }
-.step-desc { font-size: 0.73rem; color: var(--text-2); margin-top: 0.15rem; }
+.step-title { font-size: 1rem; font-weight: 600; }
+.step-desc { font-size: 0.86rem; color: var(--text-2); margin-top: 0.15rem; }
 
 /* Stat bar */
 .stat-bar { display: flex; align-items: center; gap: 0.5rem; margin-top: 0.5rem; }
-.stat-label { font-size: 0.72rem; color: var(--text-3); min-width: 80px; }
+.stat-label { font-size: 0.85rem; color: var(--text-3); min-width: 80px; }
 .stat-track { flex: 1; height: 6px; background: var(--border); border-radius: 3px; overflow: hidden; }
 .stat-fill { height: 100%; border-radius: 3px; transition: width 0.4s ease; }
 .stat-fill.blue { background: var(--blue-mid); }
 .stat-fill.green { background: var(--green-mid); }
 .stat-fill.amber { background: var(--amber-mid); }
-.stat-val { font-size: 0.72rem; font-weight: 600; min-width: 32px; text-align: right; }
+.stat-val { font-size: 0.85rem; font-weight: 600; min-width: 32px; text-align: right; }
 
 /* Info box */
 .info-box {
   padding: 0.7rem 0.9rem; border-radius: var(--radius-sm);
-  font-size: 0.78rem; color: var(--text-2); margin-top: 0.5rem;
+  font-size: 0.92rem; color: var(--text-2); margin-top: 0.5rem;
   border-left: 3px solid var(--blue-mid); background: var(--blue-light);
 }
 .info-box.amber { border-left-color: var(--amber-mid); background: var(--amber-light); }
@@ -165,13 +165,13 @@ body {
 
 /* Reference */
 .ref-list { display: flex; flex-direction: column; gap: 0.3rem; margin-top: 0.75rem; }
-.ref-item { font-size: 0.7rem; color: var(--text-3); }
+.ref-item { font-size: 0.83rem; color: var(--text-3); }
 .ref-item a { color: var(--blue-mid); text-decoration: none; }
 
 /* Tooth icon */
 .tooth-icon {
   display: inline-flex; align-items: center; justify-content: center;
-  width: 32px; height: 32px; border-radius: 8px; font-size: 1.3rem;
+  width: 32px; height: 32px; border-radius: 8px; font-size: 1.43rem;
   margin-right: 0.3rem;
 }
 
@@ -181,7 +181,7 @@ body {
   padding: 1rem; text-align: center; margin: 0.5rem 0;
 }
 .anatomy-svg { max-width: 100%; height: auto; }
-.anatomy-label { font-size: 0.72rem; color: var(--text-3); margin-top: 0.5rem; }
+.anatomy-label { font-size: 0.85rem; color: var(--text-3); margin-top: 0.5rem; }
 
 /* Hidden */
 .hidden { display: none !important; }
@@ -431,7 +431,7 @@ function getStats(t, c) {
 
   return `
     <div style="margin-top:0.75rem">
-      <div style="font-size:0.72rem;font-weight:600;color:var(--text-3);margin-bottom:0.4rem">근거 데이터</div>
+      <div style="font-size:0.85rem;font-weight:600;color:var(--text-3);margin-bottom:0.4rem">근거 데이터</div>
       ${bars.map(b => `
         <div class="stat-bar">
           <div class="stat-label">${b.label}</div>
@@ -570,7 +570,7 @@ function getRefs(t, c) {
 
   return `
     <div class="ref-list">
-      <div style="font-size:0.65rem;font-weight:700;color:var(--text-3);margin-bottom:0.2rem">근거 출처</div>
+      <div style="font-size:0.77rem;font-weight:700;color:var(--text-3);margin-bottom:0.2rem">근거 출처</div>
       ${base.map(r => `<div class="ref-item">· ${r.text}</div>`).join('')}
     </div>
   `;
