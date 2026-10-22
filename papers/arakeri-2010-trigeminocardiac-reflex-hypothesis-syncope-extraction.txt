@@ -1,0 +1,35 @@
+TITLE: A new hypothesis of cause of syncope: trigeminocardiac reflex during extraction of teeth
+AUTHORS: Arakeri G, Arali V
+PUBMED_ID: 19815349
+YEAR: 2010
+DOI: 10.1016/j.mehy.2009.09.027
+JOURNAL: Med Hypotheses
+FULL_TEXT: false (abstract-only — PubMed abstract retrieved 2026-10-23)
+
+===== PUBMED RECORD (verbatim) =====
+1. Med Hypotheses. 2010 Feb;74(2):248-51. doi: 10.1016/j.mehy.2009.09.027. Epub 
+2009 Oct 7.
+
+A new hypothesis of cause of syncope: trigeminocardiac reflex during extraction 
+of teeth.
+
+Arakeri G(1), Arali V.
+
+Author information:
+(1)Department of Oral Maxillofacial and Reconstructive Surgery, Sri Sai College 
+of Dental Surgery, Vikarabad and Cranio-Maxillofacial Unit, FMS Dental Hospital, 
+Andhra Pradesh, India. gururaj.arakeri@gmail.com
+
+Transient Loss Of Consciousness (TLOC) or vasovagal syncope is well known 
+phenomenon in dental/maxillofacial surgery. Despite considerable study of 
+vasovagal syncope, its pathophysiology remains to be fully elucidated. After 
+having encountered a case of trigeminocardiac reflex after extraction of 
+maxillary first molar we observed and studied 400 extractions under local 
+anesthesia to know the relation between trigeminocardiac reflex and syncope. We 
+make hypothesis that trigeminocardiac reflex which is usually seen under general 
+anesthesia when all sympathetic reflexes are blunted can also occur under local 
+anesthesia during extractions of maxillary molars (dento-cardiac reflex) and 
+mediate syncope.
+
+DOI: 10.1016/j.mehy.2009.09.027
+PMID: 19815349 [Indexed for MEDLINE]
