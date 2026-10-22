@@ -2,7 +2,7 @@
 title: "종합 — overviews"
 authors: navigation
 year: 2026
-date: 2026-10-13
+date: 2026-10-23
 doi: N/A
 source: navigation
 category: overviews
@@ -15,20 +15,20 @@ tags: [navigation, category-index, overviews]
 > [!summary] 한국어 핵심요약
 > - **분야**: 종합
 > - **범위**: Synthesis pages spanning multiple categories
-> - **수록 논문**: 350편
+> - **수록 논문**: 361편
 
 ## Three-line Summary
 
 **Scope**: Synthesis pages spanning multiple categories
-**Indexed papers**: 350 papers in `wiki/overviews/`.
+**Indexed papers**: 361 papers in `wiki/overviews/`.
 
 ## 세줄요약
 
 **분야**: 종합
-**수록 논문**: 350편
+**수록 논문**: 361편
 **하위 카테고리**: 없음
 
-## Papers in this Category (350)
+## Papers in this Category (361)
 
 | Paper |
 |---|
@@ -44,6 +44,8 @@ tags: [navigation, category-index, overviews]
 | [[autoimmune-disease-dental-treatment-overview|자가면역질환 환자의 치과치료(Autoimmune Disease & Dental Treatment) 종합]] |
 | [[behavioral-dentistry-decision-ladder|Behavioral Dentistry — MI·환자 커뮤니케이션·정기검진 Attendance Decision Ladder]] |
 | [[behavioral-dentistry-overview|Behavioral Dentistry — Patient Communication, MI, PRO & Dental Anxiety (Master Overview)]] |
+| [[bicortical-fixation-posterior-maxilla|Bicortical Fixation in the Posterior Maxilla: Evidence Synthesis]] |
+| [[biostatistics-study-guide-effect-measures-study-designs|통계공부 — 효과측정치(OR·RR·HR)와 연구 디자인 계층 레퍼런스]] |
 | [[black-stain-caries-protection-overview|치아 흑색착색(Black Stain)과 우식 보호 연관성 종합]] |
 | [[bms-orofacial-pain-neuropathic-mechanism-overview|BMS·구강안면통증 신경병성 기전 종합 (Burning Mouth Syndrome / Orofacial Neuropathic Pain — Molecular Mechanism Synthesis)]] |
 | [[bone-graft-material-selection-matrix-overview|Bone Graft Material Selection Matrix — biological-property classes, defect-type algorithm, tooth-derived autografts, and adjuncts]] |
@@ -81,6 +83,7 @@ tags: [navigation, category-index, overviews]
 | [[complete-denture-digital-overdenture-overview|Complete Dentures & Implant-Supported Overdentures — Digital Fabrication, Implant Loading, Attachment Systems, and Maintenance Overview]] |
 | [[complete-denture-ovd-determination-overview|Complete-Denture Occlusal Vertical Dimension (OVD): Determination, Validity & Consequences — 7-paper synthesis]] |
 | [[computerized-needle-free-anesthesia-delivery-overview|Overview: Computerized, Pressure-Controlled & Needle-Free Local Anesthesia Delivery Systems]] |
+| [[condensing-osteitis-hyperdense-lesion-implant-overview|Implant Placement in Condensing Osteitis and Hyperdense Jaw Lesions: Evidence and Protocol]] |
 | [[conservative-access-cavity-biomechanics-overview|보존적 접근와동의 생역학 — 이득은 조건부, 대가는 무조건부 (Conservative Access Cavity Biomechanics)]] |
 | [[conservative-physical-therapy-myofascial-tmd-ladder|Conservative Physical-Therapy Modalities for Myofascial / Myogenous TMD — Comparative Evidence & Decision Tree (2026 Synthesis)]] |
 | [[cosyn-immediate-implant-4-bundle-decision|Immediate Implant 4-Variable Bundle (Flap × Provisionalization × CTG × Socket Grafting) — Cosyn Series Synthesis]] |
@@ -88,6 +91,7 @@ tags: [navigation, category-index, overviews]
 | [[cr-co-micp-positions-orthodontic-axis-overview|CR/CO-MIP 위치 논쟁 — 신경근육 위치·기능 정의 위치·Yu 결정 트리·교정 축 종합 (Neuromuscular Position, Function-Defined Position, Yu Decision Tree & Orthodontic Axis)]] |
 | [[cr-co-micp-reference-position-debate|Overview: CR vs CO/MIP(ICP) — the Maxillomandibular Reference Position Debate]] |
 | [[cracked-tooth-syndrome-overview|Cracked Tooth Syndrome — 분류·진단·치료 결정의 2026 종합 (Korean Clinical Application)]] |
+| [[critical-appraisal-checklists-dental|Critical Appraisal Checklists for Dental Literature]] |
 | [[crown-preparation-geometry-convergence-resistance-retention|Crown Preparation Geometry — Convergence, Resistance Form, Retention: 2025 Synthesis]] |
 | [[dbbm-allograft-particle-size-long-term-safety-overview|DBBM 동종골 대안·입자 크기·이종-동종 동등성·장기 안전성·세포 기전 종합 (Allograft Alternative, Particle Size, Xenograft-Allograft Equivalence, Long-Term Safety & Cellular Mechanism)]] |
 | [[dbbm-bone-substitute-overview|DBBM·골대체재 — 흡수특성·PRF 보조·성장인자·BCP 비교 종합]] |
@@ -108,6 +112,7 @@ tags: [navigation, category-index, overviews]
 | [[dental-recall-spt-overview|Dental Recall and Supportive Periodontal Therapy: Evidence-Based Interval Management]] |
 | [[dental-research-units-reference-overview|치과 논문에 자주 쓰이는 단위 레퍼런스 (Common Units in Dental Research) — 빈도순 + 임계값 매트릭스]] |
 | [[dental-trauma-management-overview|Dental Trauma Management — Prevention → Emergency → Stabilization → Pulpal Prognosis (외상치 관리 종합)]] |
+| [[dental-vasovagal-syncope-overview|Dental Vasovagal Syncope — Mechanism, Differential, Prevention and Chairside Management (Synthesis)]] |
 | [[dental-workforce-delegation-skill-mix-overview|Overview: Dental Workforce Delegation, Skill-Mix & Team Communication]] |
 | [[dentin-hypersensitivity-overview|Dentin Hypersensitivity (시린이) — 진단·치료·예방의 통합 framework (한국 임상 적용 2026)]] |
 | [[dentist-burnout-mental-health-overview|치과의사·DCP 번아웃·정신건강 종합]] |
@@ -257,6 +262,7 @@ tags: [navigation, category-index, overviews]
 | [[osseodensification-clinical-scenarios-overview|골밀도화 (Osseodensification, OD) — 4개 적용 시나리오 종합 (Sub-antral, Narrow Ridge, Low-Density Bone, Immediate Placement)]] |
 | [[osseodensification-mechanism-outcomes-limits-overview|골밀도화 (Osseodensification, OD) — 메커니즘·결과 매트릭스·spine SR 한계 종합 (Mechanism, Outcome Matrix & Evidence Limits)]] |
 | [[osseointegration-foundations-implant-evidence-quality-overview|Osseointegration 기초 & 임플란트 근거품질 — 정착 생물학과 할인계수]] |
+| [[osteotomy-cooling-delivery-route-risk-quantification-overview|Overview: Osteotomy Cooling Is a Delivery Problem — Irrigation Route, Dry Cooling, and Quantified Risk Hierarchy Once Cooling Is Present]] |
 | [[osteotomy-drilling-heat-determinants-irrigation-overview|Overview: Osteotomy Drilling Heat — Modifiable Determinants Ranked, and the Osseointegration Consequence]] |
 | [[otc-periodontal-adjunct-drugs-insadol-igatan|OTC Periodontal Adjunct Drugs (Insadol·Igatan): Ingredients, Evidence & Prognosis (잇몸약 인사돌·이가탄 성분·근거·예후 종합)]] |
 | [[patient-consultation-communication-protocol|Patient Consultation — Encounter-Flow Communication Protocol (Open → Gather → Explain → Decide → Align → Close)]] |
@@ -279,6 +285,7 @@ tags: [navigation, category-index, overviews]
 | [[periodontal-systemic-links-adjunct-homecare-evidence-overview|Periodontal Care — Systemic Links (Diabetes · Oral-Systemic) & Adjunct/Home-Care Evidence (Probiotics · Resveratrol · Toothpaste)]] |
 | [[periodontics-treatment-ladder|Periodontics — Classification·Treatment·SPT Decision Ladder]] |
 | [[perioperative-hypertension-hemodynamic-management-overview|Perioperative Hypertension & Hemodynamic Management in Dental / Oral Surgery — risk stratification, intraoperative monitoring, defer thresholds, implant/augmentation impact]] |
+| [[plaque-disclosing-agents-efficacy-safety-overview|치태착색제(PDA) 종합 — 교육 효능·적용 집단·에리트로신 안전성]] |
 | [[plasma-surface-treatment-dental-implants|Plasma Surface Treatment of Dental Implants — Evidence Synthesis]] |
 | [[platform-switching-marginal-bone-preservation-synthesis|Platform Switching — Marginal Bone Preservation Evidence Synthesis (플랫폼 스위칭·변연골 보존 근거 종합)]] |
 | [[post-and-core-fiber-post-decision-overview|Post-and-Core / Fiber Post — Sequential Decision Overview for the Endodontically Treated Tooth (포스트앤코어·파이버포스트 결정 종합)]] |
@@ -291,6 +298,7 @@ tags: [navigation, category-index, overviews]
 | [[primary-tooth-endodontic-medicament-obturation-equivocal-overview|소아 유치 근관 처치 3축 — 치근단 매복제·충전재·진단 불명확 치수 처치 결정]] |
 | [[primary-vs-secondary-implant-healing-closure-overview|Primary vs Secondary (Open) Healing in Implant Surgery — Is Forcing Tension-Free Primary Closure Worth the Cost?]] |
 | [[professional-biofilm-management-gbt-air-polishing-overview|Overview: Professional Dental Biofilm Management — Guided Biofilm Therapy, Air Polishing, and Mechanical Debridement]] |
+| [[progressive-loading-implant-crown-evidence-overview|점진적 부하 (Progressive Loading) — 임플란트 크라운 인체 근거 종합: 방향은 일관되나 규모·설계가 약한 소규모 연구군]] |
 | [[prosthetic-materials-decision-ladder|Prosthetic Materials — Crown·Bridge·Implant Prosthesis Decision Ladder]] |
 | [[provisional-pediatric-crown-material-selection-overview|임시 크라운 재료 선택과 소아 유치 전장 크라운 유지율 비교]] |
 | [[pulpal-neurogenic-inflammation-counter-systems-overview|치수 신경성 염증과 내인성 제동장치 — 브레이크는 조용히 고장난다 (Pulpal Neurogenic Inflammation and Its Counter-Systems)]] |
@@ -336,7 +344,9 @@ tags: [navigation, category-index, overviews]
 | [[socket-preservation-prf-biologics-implant-sufficiency-overview|발치와 보존술(ARP) — PRF·생물제제·임플란트 충분성·대구치 부위 종합 (PRF, Biologics, Implant Sufficiency & Molar Sites)]] |
 | [[socket-shield-technique-overview|Socket Shield Technique (SST) — Evidence Synthesis & Decision Framework]] |
 | [[spray-and-stretch-tmd-myofascial-synthesis|Spray-and-Stretch (Vapocoolant) for Masticatory Myofascial Pain — 2026 Synthesis]] |
+| [[statin-bone-healing-implant-osseointegration-overview|Statins, Hyperlipidemia & Dental Bone Healing: Implant Osseointegration and Socket Preservation Overview]] |
 | [[statistical-abbreviations-cheatsheet|Statistical Abbreviations Cheatsheet for Dental Literature]] |
+| [[study-design-primer-dental-research|Study Design Primer for Dental Research Readers]] |
 | [[supportive-peri-implant-therapy-maintenance-overview|Supportive Peri-Implant Therapy & Maintenance Overview (지지 임플란트주위 치료·유지관리 종합)]] |
 | [[suture-wound-closure-decision-ladder|Suture & Wound Closure — Tension-Stratified Decision Ladder (low-tension socket vs high-tension augmentation)]] |
 | [[systemic-disease-ckd-ssc-diabetes-osteoporosis-dental-overview|전신질환 3종의 구강·임플란트 영향 — 소아 신장질환·당뇨-골다공증 임플란트·전신경화증]] |
@@ -374,6 +384,7 @@ tags: [navigation, category-index, overviews]
 | [[veneers-category-synthesis-overview|Dental Veneers — Category Synthesis Overview]] |
 | [[versah-protocol-selection-map|Versah Densah® 제조사 프로토콜 5종 — 술기 선택 의사결정 지도 (protocol-selection map)]] |
 | [[vertical-ridge-augmentation-overview|Vertical Ridge Augmentation — 술식 선택·차폐재·메시 노출·열개 예방 Overview]] |
+| [[vertical-root-fracture-overview|수직치근파절 (Vertical Root Fracture, VRF) 종합 — 정의·역학·위험인자·영상진단 사다리·AI·처치 결정]] |
 | [[vital-pulp-therapy-decision-ladder|생활치수요법(VPT) — 적응증·재료·술식 의사결정 ladder]] |
 | [[vitamin-d-osseointegration-implant-overview|Vitamin D & Osseointegration / Implant Failure Overview (비타민 D·골유착·임플란트 실패 종합)]] |
 | [[watanabe-toothpick-method-toothbrushing-synthesis|Watanabe Toothpick Method (이쑤시개법) of Toothbrushing — Evidence Synthesis]] |
