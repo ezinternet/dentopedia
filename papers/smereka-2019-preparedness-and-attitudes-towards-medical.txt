@@ -1,0 +1,13 @@
+TITLE: Preparedness and attitudes towards medical emergencies in the dental office among Polish dentists
+AUTHORS: Smereka Jacek, Aluchna Marcin, Aluchna Alicja, Szarpak Łukasz
+JOURNAL: International Dental Journal
+ID[pmcid]: PMC9379058
+ID[pmcid-ver]: PMC9379058.1
+ID[pmcaid]: 9379058
+ID[pmcaiid]: 9379058
+ID[pmid]: 30843612
+ID[doi]: 10.1111/idj.12473
+ID[pii]: S0020-6539(20)32218-8
+
+## ABSTRACT
+Background: Medical emergencies in dental offices are considered a problem in most countries owing to dentists’ concerns about emergency preparedness, practical skills, lifesaving equipment and staff availability. The prevalence of medical emergencies in dental offices and dentists’ preparedness have been analysed in several countries but have never been studied in Poland. Aim: To assess the prevalence of medical emergencies in dental offices in Poland, as well as dentists’ preparedness and attitudes towards medical emergencies. Methods: An 18-item questionnaire was completed by 419 dentists. It asked for information on their cardiopulmonary resuscitation training, availability of emergency medical equipment in the dental office, prevalence of medical emergencies and self-assessed competence in various dental office emergencies. Data were analysed using the Statistica 13.3 software package. Variability was measured with standard deviation. Pearson’s linear correlation coefficient was used to determine correlation strength. Results: The most common medical emergencies in Polish dental offices were vasovagal syncope (46.30% of study participants experienced at least one case in the preceding 12 months), orthostatic hypotension (18.85%), hyperventilation crisis (18.61%), mild allergic reactions (16.23%), hypoglycaemia (15.99%) and seizures (11.81%). The prevalence of medical emergency situations requiring an emergency medical service call or medical assistance within the preceding 12 months was 0 for 80.66% of dentists, one for 12.65%, two for 4.53%, three for 1.20%, four for 0.48%, 5–10 for 0.48% and more than 10 for 0%. As many as 41.29% of the participants did not feel competent in managing sudden cardiac arrest, 74.47% in managing hypertensive crisis, 55.61% in managing asthma, 55.13% in managing anaphylactic shock and 52.99% in managing seizures. Conclusion: The prevalence of medical emergencies in dental offices in Poland is comparable with that in other countries. A large number of dentists do not feel competent enough to manage medical emergencies. Better undergraduate and postgraduate training in medical emergencies is recommended, as well as broader availability of emergency medical equipment in the dental office.
