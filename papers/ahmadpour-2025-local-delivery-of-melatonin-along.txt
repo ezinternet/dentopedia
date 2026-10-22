@@ -1,0 +1,52 @@
+TITLE: Local Delivery of Melatonin Along With Bone Grafts to Improve Osteogenesis.
+AUTHORS: Ahmadpour E, Azizi B, Behradfar M, Javadi S, Jabbari Hagh E, Ahmadpour F
+JOURNAL: J Craniofac Surg
+YEAR: 2025
+DATE: 2024-11-13
+DOI: 10.1097/scs.0000000000010199
+PMID: 40459982
+SOURCE: PubMed abstract record (closed access — no OA full text located via PMC/Unpaywall/OpenAlex)
+NOTE: abstract-only — full text not retrieved. Page must carry `full_text: false` and an abstract-only caveat.
+
+----- ABSTRACT -----
+J Craniofac Surg. 2025 Jun 1;36(4):1430-1436. doi:
+10.1097/SCS.0000000000010199.  Epub 2024 Nov 13.
+
+Local Delivery of Melatonin Along With Bone Grafts to Improve Osteogenesis.
+
+Ahmadpour E(1), Azizi B(2), Behradfar M(3), Javadi S(4), Jabbari Hagh E(5), 
+Ahmadpour F(6).
+
+Author information:
+(1)Department of Microbiology and Laboratory Sciences, Paramedical Faculty, 
+Tabriz Azad University of Medical Sciences.
+(2)Department of Pediatric Dentistry, Tabriz Faculty of Dentistry, Tabriz 
+University of Medical Sciences.
+(3)Department of General Surgery, Medical Faculty, Tabriz Azad University of 
+Medical Sciences.
+(4)Department of Pediatric Dentistry, Faculty of Dentistry, Tabriz University of 
+Medical Sciences.
+(5)Faculty of Dentistry, Tabriz University of Medical Sciences.
+(6)Department of Oral and Maxillofacial Surgery, Faculty of Dentistry, Tabriz 
+University of Medical Sciences, Tabriz, Iran.
+
+This review is an attempt to investigate the effects of local delivery of 
+melatonin along with bone grafts to improve osteogenesis. A systematic 
+literature search was done from January 1970 to December 2023 using PubMed 
+following PRISMA instructions. A structured search was carried out to identify 
+in vivo and in vitro studies. After screening the articles based on the abstract 
+and title, 24 articles were included. The included studies were animal/human in 
+vivo studies or in vitro studies. In total, 91.7% of the studies reported better 
+outcomes in comparison with the control groups. Melatonin potentially can affect 
+many signaling molecules and pathways promoting osteoblastic differentiation, 
+such as activating pathways including Wnt, Nrf2/HO-1, PI3K/AKT, MAPK, NFkB, 
+SIRT/SOD, BMP/Smad, PERK/ATF4. In conclusion, locally administered melatonin may 
+stimulate bone healing in surgical bone defects and enhance peri-implant bone 
+response.
+
+Copyright © 2024 by Mutaz B. Habal, MD.
+
+DOI: 10.1097/SCS.0000000000010199
+PMID: 40459982 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors report no conflicts of interest.
