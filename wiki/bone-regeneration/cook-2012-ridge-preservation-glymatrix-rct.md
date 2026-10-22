@@ -7,7 +7,7 @@ doi: 10.1902/jop.2012.120219
 source: sources/cook-2012-ridge-preservation-glymatrix-rct.md
 category: bone-regeneration
 evidence_level: rct
-source_collection: pubmed-text
+source_collection: pubmed-abstract
 full_text: false
 pmid: 22680300
 tags:
