@@ -1,0 +1,57 @@
+TITLE: Brugada Syndrome Updated Risk Assessment and Perioperative Management in Oral Surgery: A Case Series
+AUTHORS: Dell'Olio F, Lorusso P, Barile G, Favia G
+PUBMED_ID: 34453905
+YEAR: 2021
+DOI: 10.1016/j.joms.2021.07.012
+JOURNAL: J Oral Maxillofac Surg 2021;79(11):2269.e1-2269.e11
+FULL_TEXT: false (abstract-only — Elsevier paywall; PubMed abstract retrieved 2026-10-23)
+
+===== PUBMED RECORD (verbatim) =====
+1. J Oral Maxillofac Surg. 2021 Nov;79(11):2269.e1-2269.e11. doi: 
+10.1016/j.joms.2021.07.012. Epub 2021 Jul 16.
+
+Brugada Syndrome Updated Risk Assessment and Perioperative Management in Oral 
+Surgery: A Case Series.
+
+Dell'Olio F(1), Lorusso P(2), Barile G(3), Favia G(3).
+
+Author information:
+(1)Oral Surgery Resident, Complex Unit of Odontostomatology, Department of 
+Interdisciplinary Medicine, University of Bari Aldo Moro, Italy. Electronic 
+address: f.dellolio.odo@outlook.it.
+(2)Assistant at the chair of Anesthesiology, Unit of Anesthesiology, Department 
+of Emergency, University of Bari Aldo Moro, Italy.
+(3)Oral Surgery Resident, Complex Unit of Odontostomatology, Department of 
+Interdisciplinary Medicine, University of Bari Aldo Moro, Italy.
+
+Brugada syndrome (BrS) carries the risk of major dysrhythmias increased further 
+by exposure to pro-dysrhythmic factors related to oral surgical procedures such 
+as local anesthetics, anxiety, and postoperative pain. Such risk can be handled 
+by updated multidisciplinary management. In 2020, 3 male BrS patients needed 
+oral surgical treatments at the Complex Unit of Odontostomatology of Aldo Moro 
+University of Bari, Italy. Multidisciplinary individual risk assessment involved 
+cardiologic hazard ratio stratification, event-free survival stratification, and 
+5-year average risk of ventricular dysrhythmias and sudden cardiac death for 
+Brugada patients; American Society of Anesthesiologists physical status risk 
+class; expected complexity and duration of the procedure; and anxiety score 
+measured by the Modified Dental Anxiety Scale. The authors administered 
+conscious sedation by intravenous diazepam to both a patient susceptible to 
+vasovagal syncope needing tooth extraction with concomitant cystectomy 
+(longer-lasting procedure) and to another who needed routine tooth extraction 
+(brief procedure) but had a moderate dental anxiety score; the last 1 received 
+local anesthesia alone due to his low anxiety, low susceptibility to vasovagal 
+syncope, and need for routine tooth extraction. After positioning external 
+biphasic defibrillator pads, 12-leads continuous electrocardiogram, and 
+peripheral venous access, extractions were performed with local anesthesia by 
+lidocaine 2% with epinephrine 1:100,000; acetaminophen was suggested for 
+postoperative analgesia. No electrocardiographic changes occurred in the 
+perioperative period. The current multidisciplinary individual risk assessment 
+allowed us to detect each BrS patient's risk factors for major dysrhythmias and 
+to adapt oral surgical and anesthesiologic protocols for safe targeted 
+treatment.
+
+Copyright © 2021 The American Association of Oral and Maxillofacial Surgeons. 
+Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.joms.2021.07.012
+PMID: 34453905 [Indexed for MEDLINE]
