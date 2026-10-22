@@ -382,3 +382,44 @@ stem별 실측(2026-10-22): osteoinduction 210 · osteoconduction 63 · osteogen
 **라우팅**: 조직계측·잔존 이식재 → `bone-regeneration/`, 상악동 → `bone-regeneration/`(sinus), 치주 내낭 → periodontics 재생, 치아유래 이식재 → `bone-regeneration/`(ridge-preservation), 성장인자 → `bone-regeneration/` 보조제.
 
 **현황 (2026-10-22 신규 토픽 백필, 전 기간)**: 합집합 515 → 기보유(PMID·DOI·제목) 15 제외 500 → seen·screened 17 제외 483 스크리닝 → 스크리너 include 217 / borderline 94 / exclude 172 → 상위 모델이 borderline 94건 초록 직접 확인 → **include 228** (OA:PMC 50: CC BY 33·CC BY-NC 6·CC BY-NC-ND 8·unknown 3) 큐 적립 + **255 screened-out**. 티어: A(특성 축 직접) 122 · B(골유도 보조) 50 · C(임플란트 표면) 6 · D(주변 맥락) 50. 상세 로그는 `logs/2026-10-22_surveillance-bone-graft-properties.md`.
+
+---
+
+### vasovagal-syncope (미주신경성 실신 · 치과 시술 중 실신)
+
+```
+("vasovagal syncope"[tiab] OR "vasovagal reaction"[tiab] OR "vasovagal reactions"[tiab] OR "vasovagal attack"[tiab] OR "neurocardiogenic syncope"[tiab] OR "neurally mediated syncope"[tiab] OR "reflex syncope"[tiab]) AND ("dental"[tiab] OR "dentistry"[tiab] OR "dentist"[tiab] OR "dentists"[tiab] OR "dental office"[tiab] OR "oral surgery"[tiab] OR "local anesthesia"[tiab] OR "local anaesthesia"[tiab] OR "local anesthetic"[tiab] OR "local anaesthetic"[tiab] OR "inferior alveolar nerve block"[tiab] OR "tooth extraction"[tiab] OR "third molar"[tiab] OR "periodontal"[tiab] OR "dental implant"[tiab])
+ptyp: 비움 (empty)
+```
+
+**ptyp를 비우는 게 핵심** — 이 축은 RCT/SR/MA가 거의 없다. 치과 VVS 문헌은 증례·서술적 리뷰·전향 관찰이 대부분이라 ptyp(RCT/SR/MA/GUIDE)로 좁히면 78건 → **6건**으로 붕괴해 정작 임상에 쓸 수 있는 증례·기전 논문이 전부 사라진다(2026-10-23 실측).
+
+**노이즈 주의**:
+- 앵커를 `dent* OR oral`로 느슨하게 두면 산부인과·비뇨기과가 대거 유입된다 — 실측(2026-10-23): 그 느슨한 앵커 + ptyp 37건 중 **실제 치과 문헌은 2건**(나머지는 office hysteroscopy·prostate biopsy·breast biopsy·WALANT·"oral midodrine"). `oral[tiab]`은 **"oral midodrine"·"oral rehydration salts"** 까지 잡으므로 앵커로 부적합. `"dental"`·`"dentist"`·`"local anesthetic"` 등 완전형 phrase만 쓴다.
+- VVS 코어(`vasovagal[tiab]` 단독)는 전 기간 **4,774건**(심장내과 중심) → 반드시 치과 앵커와 AND. 코어를 phrase로 좁힌 판은 78건(치과 앵커)으로 manageable.
+- 같은 논문의 학회지 중복 게재(2017 ACC/AHA guideline이 Circulation·JACC·Heart Rhythm에 8건)가 흔하다 — **canonical 1건만** 큐에 넣고 나머지는 screened-out.
+
+**주요 변수 축** (ingest 우선순위):
+1. 치과 시술 중 VVS 발생률·위험인자(불안·공복·더위·주사 통증·이전 실신력)
+2. 감별 — 아나필락시스(Jevon 2020) · LAST · 심장성 실신(Brugada·부정맥) · 저혈당
+3. 반사 기전 — Bezold-Jarisch · 삼차신경-심장반사(TCR) · 구심성 C-섬유 — 치과 고유 축
+4. 예방 — 체위(leg raise/leg fold) · 사전 진정·항불안 · 항무스카린제(glycopyrrolate/atropine) · 수액
+5. 소아·청소년 VVS (치과 소아 진료 맥락)
+6. 술자 준비도·응급 대응 훈련(발생률 설문 계열)
+
+**라우팅**: `wiki/drug/systemic-disease/` (주) · 기전·감별은 `local-anesthesia/` · 오버뷰는 `wiki/overviews/` 후보.
+
+**현황 (2026-10-23 시드 백필, 전 기간)**: 치과 앵커 78 + guideline 축 10 → 합집합 88 → 기보유(PMID 교차) 1 제외 → **include 26** (OA:PMC 15) + **62 screened-out** (부인과·비뇨기과·유방·혈관 시술 25, 준비도 설문·시뮬레이션 10, 중복 가이드라인 5, 기타). 상세는 `logs/2026-10-23_surveillance-vasovagal-syncope.md`.
+
+### vasovagal-guideline (실신 감별의 상위 규범 — 가이드라인 축)
+
+```
+(vasovagal syncope 코어와 동일)   ← 치과 앵커 없이 코어만
+ptyp: GUIDE
+```
+
+**목적**: 치과 VVS 페이지가 "반사성 실신"만 알고 **심장성 실신을 놓치는 것**을 막는 감별 축. 치과 앵커를 걸지 않는 유일한 VVS 토픽 — 근거가 치과에 없기 때문.
+
+**노이즈**: GUIDE ptyp 덕에 10건 수준으로 깨끗하다. 다만 **동일 가이드라인의 학회지 재게재**가 대부분(2017 ACC/AHA가 8건) → canonical 1건(28280231 Circulation full)만 큐 적립.
+
+**라우팅**: `wiki/drug/systemic-disease/` · 감별 오버뷰.

@@ -247,9 +247,22 @@
         "MA"
       ],
       "last_run_edat": "2026/10/22"
+    },
+    "vasovagal-syncope": {
+      "query": "(\"vasovagal syncope\"[tiab] OR \"vasovagal reaction\"[tiab] OR \"vasovagal reactions\"[tiab] OR \"vasovagal attack\"[tiab] OR \"neurocardiogenic syncope\"[tiab] OR \"neurally mediated syncope\"[tiab] OR \"reflex syncope\"[tiab]) AND (\"dental\"[tiab] OR \"dentistry\"[tiab] OR \"dentist\"[tiab] OR \"dentists\"[tiab] OR \"dental office\"[tiab] OR \"oral surgery\"[tiab] OR \"local anesthesia\"[tiab] OR \"local anaesthesia\"[tiab] OR \"local anesthetic\"[tiab] OR \"local anaesthetic\"[tiab] OR \"inferior alveolar nerve block\"[tiab] OR \"tooth extraction\"[tiab] OR \"third molar\"[tiab] OR \"periodontal\"[tiab] OR \"dental implant\"[tiab])",
+      "ptyp": [],
+      "last_run_edat": "2026/10/23"
+    },
+    "vasovagal-guideline": {
+      "query": "(\"vasovagal syncope\"[tiab] OR \"vasovagal reaction\"[tiab] OR \"vasovagal reactions\"[tiab] OR \"vasovagal attack\"[tiab] OR \"neurocardiogenic syncope\"[tiab] OR \"neurally mediated syncope\"[tiab] OR \"reflex syncope\"[tiab])",
+      "ptyp": [
+        "GUIDE"
+      ],
+      "last_run_edat": "2026/10/23"
     }
   },
   "seen_pmids": [
+    "10397654",
     "10505802",
     "11846205",
     "11938635",
@@ -261,6 +274,7 @@
     "12821715",
     "12956481",
     "12969359",
+    "1437055",
     "14731181",
     "14752969",
     "14971256",
@@ -274,6 +288,7 @@
     "16297689",
     "16441739",
     "16634495",
+    "16756240",
     "16836164",
     "17501979",
     "18176223",
@@ -285,11 +300,13 @@
     "18724851",
     "18724854",
     "19171004",
+    "19284194",
     "19453850",
     "19489935",
     "19563329",
     "19663965",
     "19686934",
+    "19815349",
     "19835754",
     "20038911",
     "20139574",
@@ -342,6 +359,7 @@
     "23430342",
     "23441793",
     "23560986",
+    "23635903",
     "23680976",
     "23714894",
     "23748301",
@@ -358,6 +376,7 @@
     "24316712",
     "24393592",
     "24451333",
+    "24456612",
     "24502614",
     "24502689",
     "24709512",
@@ -406,6 +425,7 @@
     "27534916",
     "27562221",
     "27683073",
+    "27688429",
     "27692642",
     "27712001",
     "27733094",
@@ -414,6 +434,7 @@
     "28048963",
     "28095650",
     "28240608",
+    "28280231",
     "28291849",
     "28292696",
     "28358121",
@@ -454,6 +475,7 @@
     "30328205",
     "30367200",
     "30394216",
+    "30511415",
     "30521656",
     "30617584",
     "30624092",
@@ -536,6 +558,7 @@
     "33917587",
     "33926447",
     "33939696",
+    "33968415",
     "33971681",
     "33994071",
     "34001097",
@@ -548,6 +571,7 @@
     "34137277",
     "34159704",
     "34176715",
+    "34178562",
     "34219356",
     "34239926",
     "34281325",
@@ -557,6 +581,7 @@
     "34411212",
     "34430994",
     "34448736",
+    "34453905",
     "34455503",
     "34456050",
     "34456283",
@@ -629,6 +654,7 @@
     "35964704",
     "35997108",
     "36043569",
+    "36051807",
     "36069239",
     "36100547",
     "36231212",
@@ -654,11 +680,13 @@
     "36700461",
     "36732751",
     "36751833",
+    "36874341",
     "36894675",
     "36940923",
     "36943673",
     "36978070",
     "36988245",
+    "36995954",
     "37001532",
     "37002888",
     "37018325",
@@ -672,12 +700,14 @@
     "37203174",
     "37203873",
     "37221532",
+    "37244725",
     "37279220",
     "37279226",
     "37295140",
     "37305957",
     "37330959",
     "37367710",
+    "37379085",
     "37445315",
     "37495541",
     "37501191",
@@ -685,6 +715,7 @@
     "37518333",
     "37532770",
     "37544352",
+    "37589875",
     "37654392",
     "37658342",
     "37660446",
@@ -748,9 +779,11 @@
     "38960026",
     "38981805",
     "38997790",
+    "39034210",
     "39054170",
     "39056584",
     "39075014",
+    "39110332",
     "39134687",
     "39134887",
     "39174162",
@@ -839,6 +872,7 @@
     "40716833",
     "40718018",
     "40729152",
+    "40729568",
     "40741811",
     "40754667",
     "40789823",
@@ -924,6 +958,7 @@
     "41510984",
     "41511431",
     "41515681",
+    "41523572",
     "41525113",
     "41526568",
     "41526924",
@@ -937,6 +972,7 @@
     "41622146",
     "41624011",
     "41629749",
+    "41640727",
     "41655831",
     "41664595",
     "41679429",
@@ -968,6 +1004,7 @@
     "41840319",
     "41846047",
     "41856391",
+    "41857549",
     "41861577",
     "41862887",
     "41865811",
@@ -1008,6 +1045,7 @@
     "42010974",
     "42013973",
     "42046511",
+    "42056033",
     "42060239",
     "42061085",
     "42076937",
@@ -5502,6 +5540,502 @@
       "verdict": "exclude",
       "screened_by": "screener+top-model",
       "screened_on": "2026/10/22"
+    },
+    "42253339": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "off-topic: outpatient hysteroscopy CRM simulation",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "41126720": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "off-topic: hysteroscopy analgesia RCT",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "40181699": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "off-topic: office hysteroscopy practice review",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "35611933": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "off-topic: hysteroscopy pain Cochrane SR",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "26374644": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "off-topic: pudendal nerve infiltration (gynecology)",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "27100952": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "off-topic: epidural bolus circulatory collapse in C-section",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "10554747": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "off-topic: hysteroscopy topical anesthesia RCT",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "11452200": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "off-topic: office endoscopy review (gynecology)",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "12262140": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "off-topic: IUD insertion local anesthesia (1980)",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "36399208": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "off-topic: prostate biopsy (urology)",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "32127231": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "off-topic: transrectal prostate biopsy complications",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "16834647": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "off-topic: prostate biopsy LA RCT",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "16281270": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "off-topic: prostate biopsy tolerance study",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "39035112": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "off-topic: thyroid FNA needle size",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "21136580": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "off-topic: MR arthrography joint injection",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "8428412": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "off-topic: breast wire-localized biopsy",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "1892023": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "off-topic: breast lesion needle aspiration",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "24782961": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "off-topic: thoracoscopic pleural biopsy",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "18462421": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "off-topic: minor skin surgery complications",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "15770307": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "off-topic: pilonidal sinotomy",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "41895596": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "off-topic: subcutaneous port implantation",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "38488170": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "off-topic: WALANT hand surgery (orthopedics)",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "36208931": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "off-topic: endovenous laser therapy (vascular)",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "35916924": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "off-topic: flexible pharyngolaryngoscopy under topical anesthesia",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "36420465": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "off-topic: WALANT surgery review",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "41272112": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "supplements: LA allergy testing service (adjacent to jevon-2020/bina-2018 coverage)",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "42273497": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "off-topic: orthopedic HTO case report (spinal anesthesia)",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "40385074": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "borderline→exclude: non-dental (blepharoplasty) vasovagal cardiac arrest; mechanism covered by 41523572/Anesth Prog series",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "39503124": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "borderline→exclude: pulmonary hypertension perioperative case; syncope history only contextual",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "30883228": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "borderline→exclude: cardiac arrest during IV sedation recovery (not VVS-specific)",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "24463380": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "off-topic: bradycardia pacing indication review (German)",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "39082698": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "off-topic: EHRA cardioneuroablation statement (cardiology intervention)",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "9080509": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "off-topic: skeletal muscle vasodilation mechanism review (cardiology, 1997)",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "9596324": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "borderline→exclude: atropine premedication in bronchoscopy; prevention evidence not transferable without full text",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "2013490": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "off-topic: sympathetic hyperactivity in hypertension",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "19371306": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "off-topic: Japanese orthostatic dysregulation guideline (juvenile OD, 2009)",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "33958116": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "off-topic: ACR imaging appropriateness for syncope (radiology workup)",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "28286221": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "duplicate: 2017 ACC/AHA syncope guideline (JACC full text) — canonical copy 28280231 kept",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "28286222": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "duplicate: 2017 ACC/AHA syncope guideline (JACC exec summary)",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "28286246": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "duplicate: 2017 ACC/AHA syncope guideline (Heart Rhythm exec summary)",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "28286247": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "duplicate: 2017 ACC/AHA syncope guideline (Heart Rhythm full text)",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "28280232": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "duplicate: 2017 ACC/AHA syncope guideline (Circulation exec summary)",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "16904773": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "borderline→exclude: femoral sheath removal RCT (cardiology); prevention axis covered by malave-2022",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "41833538": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "preparedness: Code Blue awareness pilot (training, not VVS evidence)",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "38379393": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "preparedness: simulation training long-term skills",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "29120509": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "preparedness: simulation training software",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "28833993": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "preparedness: high-fidelity simulation training",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "23279398": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "preparedness: robot patient emergency education",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "30843612": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "already in wiki: smereka-2019-preparedness-and-attitudes-towards-medical (PMID cross-check)",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "36188656": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "preparedness survey: university hospital dental offices",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "35801065": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "preparedness survey: Jordan dentists",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "28422288": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "preparedness survey: pediatric emergencies awareness",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "26392799": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "preparedness survey: Saudi eastern province",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "18434471": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "preparedness survey: German state-wide",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "10488938": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "preparedness survey: British dental practice (1999)",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "31348310": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "preparedness survey: dental hygienists' practice",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "29952645": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "already in wiki: bina-2018-true-allergy-amide-local-anesthetics-case (no pmid field, title match)",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "41541167": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "off-topic: ultrasound-guided IJV cannulation case (critical care procedure)",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "14631588": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "duplicate axis: LA allergy myth review (Baluga, 2003) — methylparaben/excipient angle already held via jevon-2020/bina-2018",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "11937665": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "off-topic: local anaesthesia outside the operating room (anesthesia review, 2002)",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "11888487": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "duplicate axis: LA allergy myth review (Baluga, 2002)",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
+    },
+    "11852453": {
+      "topic": "vasovagal-syncope",
+      "edat": "?",
+      "reason": "borderline→exclude: cardiac arrest in dental offices, 6 cases (Hebrew, 2002) — no abstract; VVS-specific data unavailable",
+      "verdict": "exclude",
+      "screened_by": "opus-inline",
+      "screened_on": "2026/10/23"
     }
   }
 }

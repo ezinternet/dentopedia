@@ -542,3 +542,65 @@
 - PMID 8545714 | bone-graft-properties | edat 1995 | screened 2026/10/22 | 경추 전방 유합 동종골+DBM 대 자가골 — 비치과 척추
 - PMID 8181915 | bone-graft-properties | edat 1993 | screened 2026/10/22 | root conditioning + GTR의 치주 조직학 — 치과 맥락이나 이식재 생물학적 특성 축은 약함
 - PMID 293141 | bone-graft-properties | edat 1979 | screened 2026/10/22 | 항암제 메토트렉세이트 환자의 delta-9-THC 구역억제제 — 완전 무관
+- PMID 42253339 | vasovagal-syncope | edat ? | screened 2026/10/23 | off-topic: outpatient hysteroscopy CRM simulation
+- PMID 41126720 | vasovagal-syncope | edat ? | screened 2026/10/23 | off-topic: hysteroscopy analgesia RCT
+- PMID 40181699 | vasovagal-syncope | edat ? | screened 2026/10/23 | off-topic: office hysteroscopy practice review
+- PMID 35611933 | vasovagal-syncope | edat ? | screened 2026/10/23 | off-topic: hysteroscopy pain Cochrane SR
+- PMID 26374644 | vasovagal-syncope | edat ? | screened 2026/10/23 | off-topic: pudendal nerve infiltration (gynecology)
+- PMID 27100952 | vasovagal-syncope | edat ? | screened 2026/10/23 | off-topic: epidural bolus circulatory collapse in C-section
+- PMID 10554747 | vasovagal-syncope | edat ? | screened 2026/10/23 | off-topic: hysteroscopy topical anesthesia RCT
+- PMID 11452200 | vasovagal-syncope | edat ? | screened 2026/10/23 | off-topic: office endoscopy review (gynecology)
+- PMID 12262140 | vasovagal-syncope | edat ? | screened 2026/10/23 | off-topic: IUD insertion local anesthesia (1980)
+- PMID 36399208 | vasovagal-syncope | edat ? | screened 2026/10/23 | off-topic: prostate biopsy (urology)
+- PMID 32127231 | vasovagal-syncope | edat ? | screened 2026/10/23 | off-topic: transrectal prostate biopsy complications
+- PMID 16834647 | vasovagal-syncope | edat ? | screened 2026/10/23 | off-topic: prostate biopsy LA RCT
+- PMID 16281270 | vasovagal-syncope | edat ? | screened 2026/10/23 | off-topic: prostate biopsy tolerance study
+- PMID 39035112 | vasovagal-syncope | edat ? | screened 2026/10/23 | off-topic: thyroid FNA needle size
+- PMID 21136580 | vasovagal-syncope | edat ? | screened 2026/10/23 | off-topic: MR arthrography joint injection
+- PMID 8428412 | vasovagal-syncope | edat ? | screened 2026/10/23 | off-topic: breast wire-localized biopsy
+- PMID 1892023 | vasovagal-syncope | edat ? | screened 2026/10/23 | off-topic: breast lesion needle aspiration
+- PMID 24782961 | vasovagal-syncope | edat ? | screened 2026/10/23 | off-topic: thoracoscopic pleural biopsy
+- PMID 18462421 | vasovagal-syncope | edat ? | screened 2026/10/23 | off-topic: minor skin surgery complications
+- PMID 15770307 | vasovagal-syncope | edat ? | screened 2026/10/23 | off-topic: pilonidal sinotomy
+- PMID 41895596 | vasovagal-syncope | edat ? | screened 2026/10/23 | off-topic: subcutaneous port implantation
+- PMID 38488170 | vasovagal-syncope | edat ? | screened 2026/10/23 | off-topic: WALANT hand surgery (orthopedics)
+- PMID 36208931 | vasovagal-syncope | edat ? | screened 2026/10/23 | off-topic: endovenous laser therapy (vascular)
+- PMID 35916924 | vasovagal-syncope | edat ? | screened 2026/10/23 | off-topic: flexible pharyngolaryngoscopy under topical anesthesia
+- PMID 36420465 | vasovagal-syncope | edat ? | screened 2026/10/23 | off-topic: WALANT surgery review
+- PMID 41272112 | vasovagal-syncope | edat ? | screened 2026/10/23 | supplements: LA allergy testing service (adjacent to jevon-2020/bina-2018 coverage)
+- PMID 42273497 | vasovagal-syncope | edat ? | screened 2026/10/23 | off-topic: orthopedic HTO case report (spinal anesthesia)
+- PMID 40385074 | vasovagal-syncope | edat ? | screened 2026/10/23 | borderline→exclude: non-dental (blepharoplasty) vasovagal cardiac arrest; mechanism covered by 41523572/Anesth Prog series
+- PMID 39503124 | vasovagal-syncope | edat ? | screened 2026/10/23 | borderline→exclude: pulmonary hypertension perioperative case; syncope history only contextual
+- PMID 30883228 | vasovagal-syncope | edat ? | screened 2026/10/23 | borderline→exclude: cardiac arrest during IV sedation recovery (not VVS-specific)
+- PMID 24463380 | vasovagal-syncope | edat ? | screened 2026/10/23 | off-topic: bradycardia pacing indication review (German)
+- PMID 39082698 | vasovagal-syncope | edat ? | screened 2026/10/23 | off-topic: EHRA cardioneuroablation statement (cardiology intervention)
+- PMID 9080509 | vasovagal-syncope | edat ? | screened 2026/10/23 | off-topic: skeletal muscle vasodilation mechanism review (cardiology, 1997)
+- PMID 9596324 | vasovagal-syncope | edat ? | screened 2026/10/23 | borderline→exclude: atropine premedication in bronchoscopy; prevention evidence not transferable without full text
+- PMID 2013490 | vasovagal-syncope | edat ? | screened 2026/10/23 | off-topic: sympathetic hyperactivity in hypertension
+- PMID 19371306 | vasovagal-syncope | edat ? | screened 2026/10/23 | off-topic: Japanese orthostatic dysregulation guideline (juvenile OD, 2009)
+- PMID 33958116 | vasovagal-syncope | edat ? | screened 2026/10/23 | off-topic: ACR imaging appropriateness for syncope (radiology workup)
+- PMID 28286221 | vasovagal-syncope | edat ? | screened 2026/10/23 | duplicate: 2017 ACC/AHA syncope guideline (JACC full text) — canonical copy 28280231 kept
+- PMID 28286222 | vasovagal-syncope | edat ? | screened 2026/10/23 | duplicate: 2017 ACC/AHA syncope guideline (JACC exec summary)
+- PMID 28286246 | vasovagal-syncope | edat ? | screened 2026/10/23 | duplicate: 2017 ACC/AHA syncope guideline (Heart Rhythm exec summary)
+- PMID 28286247 | vasovagal-syncope | edat ? | screened 2026/10/23 | duplicate: 2017 ACC/AHA syncope guideline (Heart Rhythm full text)
+- PMID 28280232 | vasovagal-syncope | edat ? | screened 2026/10/23 | duplicate: 2017 ACC/AHA syncope guideline (Circulation exec summary)
+- PMID 16904773 | vasovagal-syncope | edat ? | screened 2026/10/23 | borderline→exclude: femoral sheath removal RCT (cardiology); prevention axis covered by malave-2022
+- PMID 41833538 | vasovagal-syncope | edat ? | screened 2026/10/23 | preparedness: Code Blue awareness pilot (training, not VVS evidence)
+- PMID 38379393 | vasovagal-syncope | edat ? | screened 2026/10/23 | preparedness: simulation training long-term skills
+- PMID 29120509 | vasovagal-syncope | edat ? | screened 2026/10/23 | preparedness: simulation training software
+- PMID 28833993 | vasovagal-syncope | edat ? | screened 2026/10/23 | preparedness: high-fidelity simulation training
+- PMID 23279398 | vasovagal-syncope | edat ? | screened 2026/10/23 | preparedness: robot patient emergency education
+- PMID 30843612 | vasovagal-syncope | edat ? | screened 2026/10/23 | already in wiki: smereka-2019-preparedness-and-attitudes-towards-medical (PMID cross-check)
+- PMID 36188656 | vasovagal-syncope | edat ? | screened 2026/10/23 | preparedness survey: university hospital dental offices
+- PMID 35801065 | vasovagal-syncope | edat ? | screened 2026/10/23 | preparedness survey: Jordan dentists
+- PMID 28422288 | vasovagal-syncope | edat ? | screened 2026/10/23 | preparedness survey: pediatric emergencies awareness
+- PMID 26392799 | vasovagal-syncope | edat ? | screened 2026/10/23 | preparedness survey: Saudi eastern province
+- PMID 18434471 | vasovagal-syncope | edat ? | screened 2026/10/23 | preparedness survey: German state-wide
+- PMID 10488938 | vasovagal-syncope | edat ? | screened 2026/10/23 | preparedness survey: British dental practice (1999)
+- PMID 31348310 | vasovagal-syncope | edat ? | screened 2026/10/23 | preparedness survey: dental hygienists' practice
+- PMID 29952645 | vasovagal-syncope | edat ? | screened 2026/10/23 | already in wiki: bina-2018-true-allergy-amide-local-anesthetics-case (no pmid field, title match)
+- PMID 41541167 | vasovagal-syncope | edat ? | screened 2026/10/23 | off-topic: ultrasound-guided IJV cannulation case (critical care procedure)
+- PMID 14631588 | vasovagal-syncope | edat ? | screened 2026/10/23 | duplicate axis: LA allergy myth review (Baluga, 2003) — methylparaben/excipient angle already held via jevon-2020/bina-2018
+- PMID 11937665 | vasovagal-syncope | edat ? | screened 2026/10/23 | off-topic: local anaesthesia outside the operating room (anesthesia review, 2002)
+- PMID 11888487 | vasovagal-syncope | edat ? | screened 2026/10/23 | duplicate axis: LA allergy myth review (Baluga, 2002)
+- PMID 11852453 | vasovagal-syncope | edat ? | screened 2026/10/23 | borderline→exclude: cardiac arrest in dental offices, 6 cases (Hebrew, 2002) — no abstract; VVS-specific data unavailable
