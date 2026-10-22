@@ -55,7 +55,7 @@ source_wiki:
 
   .page-header h1 {
     font-family: var(--mono);
-    font-size: 1.15rem;
+    font-size: 1.26rem;
     font-weight: 600;
     letter-spacing: 0.04em;
     color: var(--accent);
@@ -64,7 +64,7 @@ source_wiki:
   }
 
   .page-header p {
-    font-size: 0.875rem;
+    font-size: 1.03rem;
     color: var(--muted);
     max-width: 580px;
   }
@@ -79,7 +79,7 @@ source_wiki:
   }
 
   @media (max-width: 720px) {
-    .layout { grid-template-columns: 1fr; }
+    .layout { grid-template-columns: minmax(0, 1fr); }
   }
 
   /* ── Form panel ── */
@@ -92,7 +92,7 @@ source_wiki:
 
   .section-label {
     font-family: var(--mono);
-    font-size: 0.7rem;
+    font-size: 0.83rem;
     font-weight: 600;
     letter-spacing: 0.1em;
     text-transform: uppercase;
@@ -110,7 +110,7 @@ source_wiki:
     display: flex;
     justify-content: space-between;
     align-items: baseline;
-    font-size: 0.875rem;
+    font-size: 1.03rem;
     font-weight: 500;
     color: var(--text);
     margin-bottom: 8px;
@@ -118,7 +118,7 @@ source_wiki:
 
   .field-value {
     font-family: var(--mono);
-    font-size: 0.85rem;
+    font-size: 1rem;
     font-weight: 600;
     color: var(--accent);
     font-variant-numeric: tabular-nums;
@@ -149,7 +149,7 @@ source_wiki:
     display: flex;
     justify-content: space-between;
     font-family: var(--mono);
-    font-size: 0.68rem;
+    font-size: 0.8rem;
     color: var(--muted);
     margin-top: 4px;
     font-variant-numeric: tabular-nums;
@@ -164,7 +164,7 @@ source_wiki:
   .threshold-mark {
     position: absolute;
     font-family: var(--mono);
-    font-size: 0.6rem;
+    font-size: 0.71rem;
     color: var(--risk-mid);
     transform: translateX(-50%);
   }
@@ -197,7 +197,7 @@ source_wiki:
     height: 36px;
     border: 1px solid var(--border);
     border-radius: var(--radius);
-    font-size: 0.85rem;
+    font-size: 1rem;
     font-weight: 500;
     color: var(--muted);
     cursor: pointer;
@@ -215,7 +215,7 @@ source_wiki:
   /* Checkboxes */
   .checkbox-grid {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: 8px;
   }
 
@@ -224,7 +224,7 @@ source_wiki:
     align-items: center;
     gap: 8px;
     cursor: pointer;
-    font-size: 0.875rem;
+    font-size: 1.03rem;
     color: var(--text);
     padding: 8px 10px;
     border: 1px solid var(--border);
@@ -262,7 +262,7 @@ source_wiki:
 
   .risk-eyebrow {
     font-family: var(--mono);
-    font-size: 0.65rem;
+    font-size: 0.77rem;
     letter-spacing: 0.12em;
     text-transform: uppercase;
     color: var(--muted);
@@ -276,7 +276,7 @@ source_wiki:
     padding: 6px 14px;
     border-radius: 20px;
     font-family: var(--mono);
-    font-size: 0.85rem;
+    font-size: 1rem;
     font-weight: 600;
     letter-spacing: 0.06em;
     transition: all 0.25s;
@@ -309,7 +309,7 @@ source_wiki:
 
   .risk-score-line {
     font-family: var(--mono);
-    font-size: 0.72rem;
+    font-size: 0.85rem;
     color: var(--muted);
     margin-top: 8px;
     font-variant-numeric: tabular-nums;
@@ -323,7 +323,7 @@ source_wiki:
 
   .timeline-label {
     font-family: var(--mono);
-    font-size: 0.65rem;
+    font-size: 0.77rem;
     letter-spacing: 0.1em;
     text-transform: uppercase;
     color: var(--muted);
@@ -370,7 +370,7 @@ source_wiki:
 
   .t-marker .lbl {
     font-family: var(--mono);
-    font-size: 0.62rem;
+    font-size: 0.73rem;
     color: var(--muted);
     white-space: nowrap;
     font-variant-numeric: tabular-nums;
@@ -380,7 +380,7 @@ source_wiki:
   .t-marker.active .lbl { color: var(--accent); font-weight: 600; }
 
   .closure-note {
-    font-size: 0.78rem;
+    font-size: 0.92rem;
     color: var(--muted);
     line-height: 1.4;
   }
@@ -405,7 +405,7 @@ source_wiki:
     align-items: flex-start;
     gap: 10px;
     margin-bottom: 10px;
-    font-size: 0.83rem;
+    font-size: 0.98rem;
     line-height: 1.45;
     color: var(--text);
   }
@@ -419,7 +419,7 @@ source_wiki:
     background: var(--accent-lt);
     color: var(--accent);
     font-family: var(--mono);
-    font-size: 0.65rem;
+    font-size: 0.77rem;
     font-weight: 700;
     display: flex;
     align-items: center;
@@ -445,7 +445,7 @@ source_wiki:
 
   .evidence-list li {
     font-family: var(--mono);
-    font-size: 0.67rem;
+    font-size: 0.79rem;
     color: var(--muted);
     line-height: 1.4;
     padding-left: 12px;
@@ -470,7 +470,7 @@ source_wiki:
 
   .factor-pill {
     font-family: var(--mono);
-    font-size: 0.65rem;
+    font-size: 0.77rem;
     padding: 3px 8px;
     border-radius: 10px;
     background: var(--border);
