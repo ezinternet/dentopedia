@@ -1,0 +1,34 @@
+TITLE: 2017 ACC/AHA/HRS Guideline for the Evaluation and Management of Patients With Syncope: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society
+AUTHORS: Shen WK, Sheldon RS, Benditt DG, Cohen MI, Forman DE, Goldberger ZD, Grubb BP, Hamdan MH, Krahn AD, Link MS, Olshansky B, Raj SR, Sandhu RK, Sorajja D, Sun BC, Yancy CW
+PUBMED_ID: 28280231
+YEAR: 2017
+DOI: 10.1161/CIR.0000000000000499
+JOURNAL: Circulation
+FULL_TEXT: false (abstract-only — no PMC/OA full text; PubMed abstract retrieved 2026-10-23)
+
+===== PUBMED RECORD (verbatim) =====
+3. Circulation. 2017 Aug 1;136(5):e60-e122. doi: 10.1161/CIR.0000000000000499.
+Epub  2017 Mar 9.
+
+2017 ACC/AHA/HRS Guideline for the Evaluation and Management of Patients With 
+Syncope: A Report of the American College of Cardiology/American Heart 
+Association Task Force on Clinical Practice Guidelines and the Heart Rhythm 
+Society.
+
+Shen WK(1), Sheldon RS, Benditt DG(1), Cohen MI(1), Forman DE(1), Goldberger 
+ZD(1), Grubb BP(1), Hamdan MH(1), Krahn AD(1), Link MS(1), Olshansky B(1), Raj 
+SR(1), Sandhu RK(1), Sorajja D(1), Sun BC(1), Yancy CW(1).
+
+Author information:
+(1)Writing committee members are required to recuse themselves from voting on 
+sections to which their specific relationships with industry may apply; see 
+Appendix 1 for detailed information. ACC/AHA Task Force on Clinical Practice 
+Guidelines Liaison. ACC/AHA Representative. HRS Representative. ACEP and SAEM 
+Joint Representative. ACC/AHA Task Force on Performance Measures Liaison.
+
+Erratum in
+    Circulation. 2017 Oct 17;136(16):e271-e272. doi: 
+10.1161/CIR.0000000000000537.
+
+DOI: 10.1161/CIR.0000000000000499
+PMID: 28280231 [Indexed for MEDLINE]
