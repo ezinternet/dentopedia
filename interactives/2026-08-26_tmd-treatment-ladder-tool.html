@@ -41,21 +41,21 @@ agenda: agenda/2026-08-26_tmd-treatment-ladder-tool.md
   --radius: 8px;
 }
 * { box-sizing: border-box; margin: 0; padding: 0; }
-body { background: var(--bg); color: var(--text); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; line-height: 1.5; padding: 16px; max-width: 920px; margin: 0 auto; }
-h1 { font-size: 18px; font-weight: 700; margin-bottom: 2px; }
-.subtitle { color: var(--muted); font-size: 12px; margin-bottom: 16px; }
+body { background: var(--bg); color: var(--text); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 16.5px; line-height: 1.5; padding: 16px; max-width: 920px; margin: 0 auto; }
+h1 { font-size: 20px; font-weight: 700; margin-bottom: 2px; }
+.subtitle { color: var(--muted); font-size: 14px; margin-bottom: 16px; }
 
 .input-grid { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 10px; margin-bottom: 12px; }
 @media (max-width: 620px) { .input-grid { grid-template-columns: 1fr; } }
-.field label { display: block; font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); margin-bottom: 4px; }
-select { width: 100%; border: 1px solid var(--border); border-radius: var(--radius); padding: 7px 10px; font-size: 13px; background: var(--bg); color: var(--text); outline: none; }
+.field label { display: block; font-size: 13px; font-weight: 700; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); margin-bottom: 4px; }
+select { width: 100%; border: 1px solid var(--border); border-radius: var(--radius); padding: 7px 10px; font-size: 15.5px; background: var(--bg); color: var(--text); outline: none; }
 select:focus { border-color: var(--accent); }
 
 /* Sign toggles */
 .toggle-row { display: flex; flex-wrap: wrap; gap: 6px; }
 .toggle-btn {
   padding: 4px 12px; border: 1px solid var(--border); border-radius: 20px;
-  background: var(--bg); color: var(--text); font-size: 12px; cursor: pointer;
+  background: var(--bg); color: var(--text); font-size: 14px; cursor: pointer;
   transition: all .15s; user-select: none;
 }
 .toggle-btn.on { background: var(--amber-light); border-color: var(--amber); color: var(--amber); font-weight: 700; }
@@ -69,13 +69,13 @@ select:focus { border-color: var(--accent); }
   background: var(--surface);
 }
 .step-header { display: flex; align-items: center; gap: 8px; margin-bottom: 6px; }
-.step-num { width: 24px; height: 24px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 12px; font-weight: 700; flex-shrink: 0; }
-.step-title { font-size: 13px; font-weight: 700; }
-.step-badge { font-size: 10px; padding: 2px 8px; border-radius: 10px; font-weight: 600; }
-.step-body { font-size: 12px; color: var(--text); line-height: 1.6; }
+.step-num { width: 24px; height: 24px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 14px; font-weight: 700; flex-shrink: 0; }
+.step-title { font-size: 15.5px; font-weight: 700; }
+.step-badge { font-size: 12px; padding: 2px 8px; border-radius: 10px; font-weight: 600; }
+.step-body { font-size: 14px; color: var(--text); line-height: 1.6; }
 .step-body ul { padding-left: 16px; }
 .step-body li { margin-bottom: 3px; }
-.step-ref { font-size: 10px; color: var(--muted); margin-top: 6px; font-style: italic; }
+.step-ref { font-size: 12px; color: var(--muted); margin-top: 6px; font-style: italic; }
 
 .step-1 { border-color: #86efac; background: var(--green-light); }
 .step-1 .step-num { background: var(--green); color: white; }
@@ -97,20 +97,20 @@ select:focus { border-color: var(--accent); }
 .warn-row { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 14px; }
 .warn-box {
   flex: 1; min-width: 200px; border-radius: var(--radius); padding: 10px 12px;
-  border: 1px solid var(--border); font-size: 12px;
+  border: 1px solid var(--border); font-size: 14px;
 }
 .warn-box.red { background: var(--red-light); border-color: #fca5a5; }
 .warn-box.amber { background: var(--amber-light); border-color: #fcd34d; }
 .warn-box.teal { background: var(--teal-light); border-color: #99f6e4; }
-.warn-box strong { display: block; font-size: 12px; font-weight: 700; margin-bottom: 3px; }
+.warn-box strong { display: block; font-size: 14px; font-weight: 700; margin-bottom: 3px; }
 .warn-box.red strong { color: var(--red); }
 .warn-box.amber strong { color: var(--amber); }
 .warn-box.teal strong { color: var(--teal); }
 
 /* Evidence badges */
 .ev-row { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 14px; }
-.ev-badge { padding: 6px 12px; border-radius: var(--radius); border: 1px solid var(--border); font-size: 11px; background: var(--surface); line-height: 1.3; }
-.ev-badge strong { display: block; font-size: 13px; font-weight: 700; }
+.ev-badge { padding: 6px 12px; border-radius: var(--radius); border: 1px solid var(--border); font-size: 13px; background: var(--surface); line-height: 1.3; }
+.ev-badge strong { display: block; font-size: 15.5px; font-weight: 700; }
 .ev-badge span { color: var(--muted); }
 .ev-badge.green { background: var(--green-light); border-color: #86efac; }
 .ev-badge.green strong { color: var(--green); }
@@ -126,23 +126,23 @@ select:focus { border-color: var(--accent); }
 /* Arthrocentesis conflict panel */
 .conflict-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-top: 8px; }
 @media (max-width: 500px) { .conflict-grid { grid-template-columns: 1fr; } }
-.conflict-cell { border-radius: var(--radius); padding: 8px 10px; font-size: 11px; line-height: 1.5; }
+.conflict-cell { border-radius: var(--radius); padding: 8px 10px; font-size: 13px; line-height: 1.5; }
 .conflict-neg { background: #fef2f2; border: 1px solid #fca5a5; }
 .conflict-pos { background: #f0fdfa; border: 1px solid #99f6e4; }
-.conflict-cell strong { display: block; font-size: 12px; font-weight: 700; margin-bottom: 3px; }
+.conflict-cell strong { display: block; font-size: 14px; font-weight: 700; margin-bottom: 3px; }
 .conflict-neg strong { color: var(--red); }
 .conflict-pos strong { color: var(--teal); }
 
 /* Router */
 .router { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 12px; }
-.router-title { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); margin-bottom: 8px; }
+.router-title { font-size: 13px; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); margin-bottom: 8px; }
 .router-links { display: flex; flex-wrap: wrap; gap: 6px; }
-.router-link { padding: 5px 12px; border-radius: 20px; font-size: 12px; text-decoration: none; border: 1px solid var(--border); background: var(--bg); color: var(--accent); cursor: pointer; transition: all .15s; }
+.router-link { padding: 5px 12px; border-radius: 20px; font-size: 14px; text-decoration: none; border: 1px solid var(--border); background: var(--bg); color: var(--accent); cursor: pointer; transition: all .15s; }
 .router-link:hover { background: var(--accent); color: white; border-color: var(--accent); }
 .router-link.hot { background: var(--accent-light); border-color: var(--accent); font-weight: 600; }
 
 section { margin-bottom: 14px; }
-.section-title { font-size: 13px; font-weight: 700; margin-bottom: 8px; border-left: 3px solid var(--accent); padding-left: 8px; }
+.section-title { font-size: 15.5px; font-weight: 700; margin-bottom: 8px; border-left: 3px solid var(--accent); padding-left: 8px; }
 </style>
 </head>
 <body>
@@ -238,7 +238,7 @@ section { margin-bottom: 14px; }
       (Bader Alzamanan 2026)
     </div>
   </div>
-  <p style="font-size:11px; color:var(--muted); margin-top:6px;">방법론 caveat: 기전 이질적 비교군을 I²=85–98%에서 통합 → 풀링 추정치 임상 해석 주의 (Fuentes-Barría 2026)</p>
+  <p style="font-size:13px; color:var(--muted); margin-top:6px;">방법론 caveat: 기전 이질적 비교군을 I²=85–98%에서 통합 → 풀링 추정치 임상 해석 주의 (Fuentes-Barría 2026)</p>
 </section>
 
 <!-- EVIDENCE BADGES -->
@@ -336,7 +336,7 @@ function update() {
       <li><strong>도수치료 (Manual Therapy, MT)</strong> — 개구량 목표 1위 (SUCRA 92.9%); 수기 트리거포인트 (RD 32%, BMJ NMA 2023)</li>
       <li>CBT+바이오피드백 — 만성통증·재발 예방 최선 (RD 36%, BMJ NMA 2023)${isChronic ? ' <em>← 이 환자: 만성, 강력 적용</em>' : ''}</li>
       <li>교합안정장치(스플린트): 조건부 추가 — 운동과 동등하거나 운동 우위 (Zhang 2021); 경부통 동반 시 상담+스플린트 vs 상담 단독 군간 차이 없음 (p&gt;0.57, Cimino 2025, RCT n=51)</li>
-      <li style="font-size:11px; color:var(--muted);">수면장애 문진 포함 권고: TMD 환자 ~90% 수면의 질 저하 (vs 비-TMD ~15%), 수면무호흡이 TMD 위험 예측 — 수면장애가 TMD 유발·지속인자 (Albadi 2026, SR 7편)</li>
+      <li style="font-size:13px; color:var(--muted);">수면장애 문진 포함 권고: TMD 환자 ~90% 수면의 질 저하 (vs 비-TMD ~15%), 수면무호흡이 TMD 위험 예측 — 수면장애가 TMD 유발·지속인자 (Albadi 2026, SR 7편)</li>
     </ul>`;
   }
   if (type === 'art' || type === 'both') {
@@ -350,7 +350,7 @@ function update() {
     }
   }
   if (type === 'myo') {
-    s1body += `<p style="margin-top:6px; font-size:11px; color:var(--muted);">교육·자기관리(ED/SM) 단독: 단기 통증·QoL에서 다른 비수술 치료보다 열세 가능 (Ferland 2026, 47 RCT, very low~low) — 보조 역할</p>`;
+    s1body += `<p style="margin-top:6px; font-size:13px; color:var(--muted);">교육·자기관리(ED/SM) 단독: 단기 통증·QoL에서 다른 비수술 치료보다 열세 가능 (Ferland 2026, 47 RCT, very low~low) — 보조 역할</p>`;
   }
   steps.push(step('1', '1', '비약물 1차 치료 (필수)', '항상 시작', s1body, 'BMJ NMA 2023 Yao · Zhang 2026 NMA · Cochrane 2024'));
 
@@ -367,7 +367,7 @@ function update() {
     s2body += `<li>수면이갈이 동반: 스플린트·biofeedback 우위 (Minakuchi 2022 SR). 약물: Cyclobenzaprine 보조</li>`;
   }
   s2body += `<li style="color:var(--red); font-weight:700;">⚠ 교합조정·비가역 교합치료 — 1차 치료로 금기 (Cochrane 2024 Singh, very low~low)</li>`;
-  s2body += `<li style="font-size:11px; color:var(--muted);">전반적 GRADE 낮음 — 어떤 약물도 강력 권고 불가. 비약물과 병행, 아형별 선택 (Häggman-Henrikson 2017)</li>`;
+  s2body += `<li style="font-size:13px; color:var(--muted);">전반적 GRADE 낮음 — 어떤 약물도 강력 권고 불가. 비약물과 병행, 아형별 선택 (Häggman-Henrikson 2017)</li>`;
   s2body += '</ul>';
   steps.push(step('2', '2', '약물 (비약물 단독 불충분 시 추가)', '2차 보조', s2body, 'Häggman-Henrikson 2017 · Al-Hamed 2026 · Singh 2024 Cochrane'));
 
