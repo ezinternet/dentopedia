@@ -1,0 +1,62 @@
+TITLE: Pain associated with intravascular instrumentation reduces orthostatic tolerance and predisposes to vasovagal reactions in healthy young adults without needle phobia: a randomised controlled study
+AUTHORS: Hockin BCD, Lucci VM, Wu REY, Nicholas M, Parsons IT, Claydon VE
+PUBMED_ID: 37589875
+YEAR: 2023
+DOI: 10.1007/s10286-023-00972-8
+JOURNAL: Clin Auton Res
+FULL_TEXT: false (abstract-only — no PMC/OA full text; PubMed abstract retrieved 2026-10-23)
+
+===== PUBMED RECORD (verbatim) =====
+2. Clin Auton Res. 2023 Dec;33(6):673-689. doi: 10.1007/s10286-023-00972-8. Epub 
+2023 Aug 17.
+
+Pain associated with intravascular instrumentation reduces orthostatic tolerance 
+and predisposes to vasovagal reactions in healthy young adults without needle 
+phobia: a randomised controlled study.
+
+Hockin BCD(1), Lucci VM(1), Wu REY(1), Nicholas M(1), Parsons IT(2)(3), Claydon 
+VE(4).
+
+Author information:
+(1)Department of Biomedical Physiology and Kinesiology, Simon Fraser University, 
+Burnaby, BC, V5A 1S6, Canada.
+(2)Research and Clinical Innovation, Royal Centre for Defence Medicine, 
+Birmingham, UK.
+(3)School of Cardiovascular Medicine and Sciences, King's College London, 
+London, UK.
+(4)Department of Biomedical Physiology and Kinesiology, Simon Fraser University, 
+Burnaby, BC, V5A 1S6, Canada. victoria_claydon@sfu.ca.
+
+PURPOSE: Vasovagal syncope (VVS), or fainting, is frequently triggered by pain, 
+fear, or emotional distress, especially with blood-injection-injury stimuli. We 
+aimed to examine the impact of intravenous (IV) instrumentation on orthostatic 
+tolerance (OT; fainting susceptibility) in healthy young adults. We hypothesized 
+that pain associated with IV procedures would reduce OT.
+METHODS: In this randomised, double-blind, placebo-controlled, cross-over study, 
+participants (N = 23; 14 women; age 24.2 ± 4.4 years) underwent head-up tilt 
+with combined lower body negative pressure to presyncope on three separate days: 
+(1) IV cannulation with local anaesthetic cream (EMLA) (IV + EMLA); (2) IV 
+cannulation with placebo cream (IV + Placebo); (3) sham IV cannulation with 
+local anaesthetic cream (Sham + EMLA). Participants rated pain associated with 
+IV procedures on a 1-5 scale. Cardiovascular (finger plethysmography and 
+electrocardiogram; Finometer Pro), and forearm vascular resistance (FVR; 
+brachial Doppler) responses were recorded continuously and non-invasively.
+RESULTS: Compared to Sham + EMLA (27.8 ± 2.4 min), OT was reduced in 
+IV + Placebo (23.0 ± 2.8 min; p = 0.026), but not in IV + EMLA (26.2 ± 2.2 min; 
+p = 0.185). Pain was increased in IV + Placebo (2.8 ± 0.2) compared to IV + EMLA 
+(2.0 ± 2.2; p = 0.002) and Sham + EMLA (1.1 ± 0.1; p < 0.001). Orthostatic heart 
+rate responses were lower in IV + Placebo (84.4 ± 3.1 bpm) than IV + EMLA 
+(87.3 ± 3.1 bpm; p = 0.007) and Sham + EMLA (87.7 ± 3.1 bpm; p = 0.001). Maximal 
+FVR responses were reduced in IV + Placebo (+ 140.7 ± 19.0%) compared to 
+IV + EMLA (+ 221.2 ± 25.9%; p < 0.001) and Sham + EMLA (+ 190.6 ± 17.0%; 
+p = 0.017).
+CONCLUSIONS: Pain plays a key role in predisposing to VVS following 
+venipuncture, and our data suggest this effect is mediated through reduced 
+capacity to achieve maximal sympathetic activation during orthostatic stress. 
+Topical anaesthetics, such as EMLA, may reduce the frequency and severity of VVS 
+during procedures requiring needles and intravascular instrumentation.
+
+© 2023. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany.
+
+DOI: 10.1007/s10286-023-00972-8
+PMID: 37589875 [Indexed for MEDLINE]
