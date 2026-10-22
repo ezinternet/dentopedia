@@ -7,7 +7,7 @@ doi: 10.1111/j.1600-051X.2011.01738.x
 source: sources/friedmann-2011-rct-cross-linked-vs-non-crosslinked-lateral-augmentation.md
 category: bone-regeneration
 evidence_level: rct
-source_collection: pubmed-text
+source_collection: pubmed-abstract
 full_text: false
 pmid: 21557757
 tags:
