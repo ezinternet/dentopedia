@@ -209,7 +209,7 @@ body {
   background: #F6F7FC !important;
   color: #1B2038 !important;
   font-family: "Noto Sans KR", "Apple SD Gothic Neo", "Malgun Gothic", system-ui, sans-serif;
-  font-size: 17px;
+  font-size: 20px;
   line-height: 1.55;
   min-height: 100vh;
   padding-bottom: 58px;
@@ -232,14 +232,14 @@ body {
 }
 #q {
   width: 100%; height: 43px; padding: 0 14px 0 38px;
-  font-size: 16px; font-family: inherit; color: var(--text);
+  font-size: 19px; font-family: inherit; color: var(--text);
   background: var(--surface); border: 1px solid var(--border); border-radius: 10px;
   transition: border-color .15s, box-shadow .15s;
 }
 #q::placeholder { color: var(--muted); }
 #q:focus { outline: none; border-color: var(--accent); box-shadow: var(--focus-ring); }
 .btn {
-  height: 38px; padding: 0 14px; font-size: 14px; font-family: inherit; font-weight: 500;
+  height: 38px; padding: 0 14px; font-size: 16.5px; font-family: inherit; font-weight: 500;
   cursor: pointer; color: var(--muted); background: var(--surface);
   border: 1px solid var(--border); border-radius: 9px; white-space: nowrap;
   letter-spacing: .01em; transition: color .12s, border-color .12s, background .12s;
@@ -253,10 +253,10 @@ body {
   border-radius: 10px; padding: 6px 16px; box-shadow: var(--shadow);
 }
 .stat .n {
-  font-family: "Inter", system-ui, sans-serif; font-size: 24px; font-weight: 700;
+  font-family: "Inter", system-ui, sans-serif; font-size: 26.5px; font-weight: 700;
   color: var(--accent); font-variant-numeric: tabular-nums; letter-spacing: -.02em;
 }
-.stat .l { font-size: 14px; color: var(--muted); font-weight: 500; }
+.stat .l { font-size: 16.5px; color: var(--muted); font-weight: 500; }
 #grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(305px, 1fr));
@@ -273,9 +273,9 @@ body {
 }
 .head:hover { background: var(--hover); }
 .head:focus-visible { outline: none; box-shadow: var(--focus-ring); }
-.head .nm { flex: 1; font-size: 16px; font-weight: 600; color: var(--text); line-height: 1.35; text-wrap: balance; }
+.head .nm { flex: 1; font-size: 19px; font-weight: 600; color: var(--text); line-height: 1.35; text-wrap: balance; }
 .cnt {
-  flex: none; font-family: "Inter", system-ui, sans-serif; font-size: 14px; font-weight: 700;
+  flex: none; font-family: "Inter", system-ui, sans-serif; font-size: 16.5px; font-weight: 700;
   font-variant-numeric: tabular-nums; background: var(--accent-dim); color: var(--accent);
   border-radius: 999px; padding: 2px 10px; letter-spacing: .01em;
 }
@@ -286,13 +286,13 @@ body {
 }
 .row:hover { background: var(--hover); }
 .row:focus-visible { outline: none; background: var(--hover); }
-.rt { flex: 1; min-width: 0; font-size: 15px; line-height: 1.45; color: var(--text); }
+.rt { flex: 1; min-width: 0; font-size: 17.5px; line-height: 1.45; color: var(--text); }
 .rd {
-  flex: none; font-family: "Inter", system-ui, sans-serif; font-size: 14px;
+  flex: none; font-family: "Inter", system-ui, sans-serif; font-size: 16.5px;
   color: var(--muted); font-variant-numeric: tabular-nums; white-space: nowrap; letter-spacing: .01em;
 }
-.no-results { grid-column: 1 / -1; padding: 48px 19px; text-align: center; color: var(--muted); font-size: 16px; display: none; }
-.foot { margin-top: 24px; padding: 0 19px; font-size: 14px; color: var(--muted); letter-spacing: .015em; }
+.no-results { grid-column: 1 / -1; padding: 48px 19px; text-align: center; color: var(--muted); font-size: 19px; display: none; }
+.foot { margin-top: 24px; padding: 0 19px; font-size: 16.5px; color: var(--muted); letter-spacing: .015em; }
 @media (prefers-reduced-motion: reduce) { *, *::before, *::after { transition: none !important; } }
 </style>
 </head>
