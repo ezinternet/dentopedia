@@ -1,0 +1,38 @@
+TITLE: Lidocaine Tape Application for 3 Hours Prevents Vasovagal Syncope During Venipuncture: A Case Series
+AUTHORS: Shiraishi K, Kawauchi A, Saito Y, Kojima K, Kawasaki S
+PUBMED_ID: 36995954
+YEAR: 2023
+DOI: 10.2344/anpr-70-01-03
+JOURNAL: Anesth Prog
+FULL_TEXT: false (abstract-only — PubMed abstract retrieved 2026-10-23)
+
+===== PUBMED RECORD (verbatim) =====
+3. Anesth Prog. 2023 Mar 1;70(1):34-36. doi: 10.2344/anpr-70-01-03.
+
+Lidocaine Tape Application for 3 Hours Prevents Vasovagal Syncope During 
+Venipuncture: A Case Series.
+
+Shiraishi K(1), Goto T(1), Oya S(1), Hayashi S(1), Sakurai S(1).
+
+Author information:
+(1)Department of Dental Anesthesiology, Division of Oral Pathogenesis and 
+Disease Control, Asahi University School of Dentistry, Gifu, Japan.
+
+Vasovagal syncope (VVS) or reflex is usually caused by physical and mental 
+stress-related factors, like pain, anxiety, and fear, and it is one of the most 
+frequent complications during dental treatment. Two patients, both with 
+histories of dental phobia and of VVS during vaccination, venipuncture, and 
+dental treatment with local anesthetics, were scheduled for dental treatment 
+under intravenous (IV) sedation. However, both experienced episodes of VVS that 
+occurred during venipuncture using a 24-gauge indwelling needle. We determined 
+that pain was the main trigger of VVS for these patients and attempted to reduce 
+venipuncture-associated pain using 60% lidocaine tape applied 3 hours before 
+venipuncture at their next dental visits, respectively. Use of the lidocaine 
+tape was successful and permitted comfortable placement of the IV catheter 
+without any onset of VVS.
+
+© 2023 by the American Dental Society of Anesthesiology.
+
+DOI: 10.2344/anpr-70-01-03
+PMCID: PMC10069530
+PMID: 36995954 [Indexed for MEDLINE]
