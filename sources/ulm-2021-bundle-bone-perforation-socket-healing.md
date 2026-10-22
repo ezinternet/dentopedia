@@ -4,7 +4,7 @@ authors: Ulm C, Strbac GD, Stavropoulos A, Esfandeyari A, Dobsak T, Bertl K
 year: 2021
 doi: 10.1002/cre2.474
 category: bone-regeneration/ridge-preservation
-source_collection: pubmed-pmc
+source_collection: pubmed-text
 full_text: true
 pmid: 34296542
 pmc: PMC8874110

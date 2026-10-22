@@ -6,12 +6,14 @@ date: 2026-10-21
 doi: 10.1002/cre2.474
 source: sources/ulm-2021-bundle-bone-perforation-socket-healing.md
 category: bone-regeneration/ridge-preservation
-evidence_level: technical_note
-source_collection: pubmed-pmc
+evidence_level: case-report
+source_collection: pubmed-text
 full_text: true
 pmid: 34296542
 pmc: PMC8874110
 source_url: https://pubmed.ncbi.nlm.nih.gov/34296542/
+text_path: /Users/oracleneo/llm-wiki/papers/ulm-2021-bundle-bone-perforation-socket-healing.txt
+text_filename: ulm-2021-bundle-bone-perforation-socket-healing.txt
 tags:
   - bundle-bone
   - labial-bone

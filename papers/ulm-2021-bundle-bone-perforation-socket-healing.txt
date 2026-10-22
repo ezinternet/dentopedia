@@ -1,0 +1,10 @@
+TITLE: Improved access to the bone marrow space by multiple perforations of the alveolar bundle bone after tooth extraction—A case report
+AUTHORS: Ulm C, Strbac GD, Stavropoulos A, Esfandeyari A, Dobsak T, Bertl K
+JOURNAL: Clinical and Experimental Dental Research
+YEAR: 2021
+PMID: 34296542
+PMC: PMC8874110
+DOI: 10.1002/cre2.474
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/34296542/
+
+[Full text retrieved from PMC. See sources/ulm-2021-bundle-bone-perforation-socket-healing.md for structured summary.]
