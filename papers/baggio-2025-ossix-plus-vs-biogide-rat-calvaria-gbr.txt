@@ -1,0 +1,10 @@
+TITLE: Comparative in vivo evaluation of cross-linked and non-cross-linked collagen membranes for guided bone regeneration in rat calvarial defects
+AUTHORS: Baggio AMP, Viotto AHA, Delamura IF, Bizelli VF, Jacob RGM, Deus CBD, Neiva RF, Faverani LP, Bassi APF
+JOURNAL: Brazilian Oral Research
+YEAR: 2025
+PMID: 41221963
+PMC: PMC12594451
+DOI: 10.1590/1807-3107bor-2025.vol39.110
+SOURCE_URL: https://pubmed.ncbi.nlm.nih.gov/41221963/
+
+[Full text retrieved from PMC. See sources/baggio-2025-ossix-plus-vs-biogide-rat-calvaria-gbr.md for structured summary.]

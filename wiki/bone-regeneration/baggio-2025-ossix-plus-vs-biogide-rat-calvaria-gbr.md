@@ -6,11 +6,13 @@ date: 2026-10-22
 doi: 10.1590/1807-3107bor-2025.vol39.110
 source: sources/baggio-2025-ossix-plus-vs-biogide-rat-calvaria-gbr.md
 category: bone-regeneration
-evidence_level: preclinical-animal
-source_collection: pubmed-pmc
+evidence_level: animal
+source_collection: pubmed-text
 full_text: true
 pmid: 41221963
 pmc: PMC12594451
+text_path: /Users/oracleneo/llm-wiki/papers/baggio-2025-ossix-plus-vs-biogide-rat-calvaria-gbr.txt
+text_filename: baggio-2025-ossix-plus-vs-biogide-rat-calvaria-gbr.txt
 tags:
   - ossix-plus
   - GLYMATRIX

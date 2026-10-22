@@ -4,7 +4,7 @@ authors: Baggio AMP, Viotto AHA, Delamura IF, Bizelli VF, Jacob RGM, Deus CBD, N
 year: 2025
 doi: 10.1590/1807-3107bor-2025.vol39.110
 category: bone-regeneration
-source_collection: pubmed-pmc
+source_collection: pubmed-text
 full_text: true
 pmid: 41221963
 pmc: PMC12594451
