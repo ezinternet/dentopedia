@@ -1,0 +1,58 @@
+TITLE: Histomorphometric evaluation of different graft associations for maxillary sinus elevation in wide antral cavities: a randomized controlled clinical trial.
+AUTHORS: Harlos MM, da Silva TB, Montagner PG, Teixeira LN, Gomes AV, Martinez EF
+JOURNAL: Clin Oral Investig
+YEAR: 2022
+DATE: 2022-05-05
+DOI: 10.1007/s00784-022-04515-9
+PMID: 35511290
+SOURCE: PubMed abstract record (closed access — no OA full text located via PMC/Unpaywall/OpenAlex)
+NOTE: abstract-only — full text not retrieved. Page must carry `full_text: false` and an abstract-only caveat.
+
+----- ABSTRACT -----
+Clin Oral Investig. 2022 Aug;26(8):1-9. doi: 10.1007/s00784-022-04515-9. Epub 
+2022 May 5.
+
+Histomorphometric evaluation of different graft associations for maxillary sinus 
+elevation in wide antral cavities: a randomized controlled clinical trial.
+
+Harlos MM(1), da Silva TB(1), Montagner PG(1), Teixeira LN(2), Gomes AV(1), 
+Martinez EF(3).
+
+Author information:
+(1)Division of Implantology, Faculdade São Leopoldo Mandic (SLMandic), R. Dr. 
+José Rocha Junqueira, 13, Campinas, São Paulo, Brazil.
+(2)Division of Cell Biology, Faculdade São Leopoldo Mandic (SLMandic), Campinas, 
+São Paulo, Brazil.
+(3)Division of Cell Biology, Faculdade São Leopoldo Mandic (SLMandic), Campinas, 
+São Paulo, Brazil. elizabeth.martinez@slmandic.edu.br.
+
+OBJECTIVES: Pneumatization of the maxillary sinus can make it difficult, if not 
+impossible, to install osseointegrated implants, and undertake their eventual 
+functional rehabilitation, which may ultimately require regenerative techniques 
+to achieve. This randomized controlled study proposed conducting a histological 
+evaluation of the behavior of different graft materials in wide maxillary 
+sinuses, at a height of 8 to 10 mm from the alveolar ridge, combined with bone 
+remnants less than 3mm.
+MATERIALS AND METHODS: Thirty-six patients underwent a sinus elevation procedure 
+through the lateral window. The sinuses were randomly filled with the following 
+materials (n=12/group): group 1, xenogenic bone + autogenous bone (ratio 70:30, 
+respectively); group 2, xenogenic bone + L-PRF; and group 3, xenogenic bone. At 
+8 months, bone biopsies of engrafted sites were harvested and analyzed 
+histomorphometrically in order to quantify newly formed bone tissue.
+RESULTS: The results showed a greater area of newly formed bone for G1, 
+averaging 2678.37 (1116.40) μm2, compared with G2 at 984.87 (784.27) μm2, and G3 
+at 480.66 (384.76) μm2 (p < 0.05). Additionally, fewer xenogenic bone particles 
+and a large amount of connective tissue were observed in G2.
+CONCLUSIONS: In maxillary sinuses with large antral cavities, autogenous bone 
+combined with xenogenic bone seems to demonstrate better graft remodeling and 
+improve bone formation, compared with the addition of L-PRF.
+CLINICAL RELEVANCE: L-PRF produces few advantages regarding new bone formation 
+in the wide maxillary sinuses.
+TRIAL REGISTRATION: Brazilian Clinical Trials Registry (REBEC) number 
+RBR-2pbbrvg.
+
+© 2022. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+part of Springer Nature.
+
+DOI: 10.1007/s00784-022-04515-9
+PMID: 35511290 [Indexed for MEDLINE]
