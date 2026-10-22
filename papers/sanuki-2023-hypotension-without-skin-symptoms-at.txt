@@ -1,0 +1,32 @@
+TITLE: Hypotension Without Skin Symptoms at Local Anesthesia in Dental Treatment: Anaphylaxis? Or Vasovagal Reaction?
+AUTHORS: Sanuki Takuro, Kishimoto Naotaka, Kuroda Hidetaka, Kido Kanta
+JOURNAL: Anesthesia Progress
+ID[pmcid]: PMC10328191 (PMC full text XML empty — abstract-only fallback)
+ID[pmcid-ver]: PMC10328191.1
+ID[pmcaid]: 10328191
+ID[pmcaiid]: 10328191
+ID[pmid]: 37379085
+ID[doi]: 10.2344/anpr-70-03-02
+
+===== PUBMED RECORD (verbatim) =====
+1. Anesth Prog. 2023 Jun 1;70(2):91-92. doi: 10.2344/anpr-70-03-02.
+
+Hypotension Without Skin Symptoms at Local Anesthesia in Dental Treatment: 
+Anaphylaxis? Or Vasovagal Reaction?
+
+Sanuki T(1), Kishimoto N(2), Kuroda H(3), Kido K(4).
+
+Author information:
+(1)Professor and Chair, Department of Dental Anesthesiology, Kanagawa Dental 
+University, Kanagawa, Japan.
+(2)Associate Professor, Division of Dental Anesthesiology, Faculty of Dentistry 
+& Graduate School of Medical and Dental Sciences, Niigata University, Niigata, 
+Japan.
+(3)Associate Professor, Department of Dental Anesthesiology, Kanagawa Dental 
+University, Yokosuka, Japan.
+(4)Professor and Chair, Department of Dental Anesthesiology, Hokkaido 
+University, Hokkaido, Japan.
+
+DOI: 10.2344/anpr-70-03-02
+PMCID: PMC10328191
+PMID: 37379085 [Indexed for MEDLINE]
