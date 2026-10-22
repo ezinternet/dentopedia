@@ -115,3 +115,19 @@ QMD·grep 커버리지 체크: `wiki/` 내 VVS 언급 9페이지 — `malave-202
 - OA 라벨은 Europe PMC `license`/`isOpenAccess` 기준. PMC는 있는데 OA가 아닌 3건(10328191·10069530·5017275)은 `OA:none`으로 적립 — PMC 웹 열람은 가능하나 재배포 라이선스 없음.
 - `https://www.ncbi.nlm.nih.gov/pmc/utils/oa/oa.fcgi`는 2026-10-23 현재 **404**(폐기). OA 판정은 Europe PMC REST로 대체할 것.
 - PMID 41640727은 2026-02 게재(JDAPM) — 이 위키의 VVS 지식 기준일을 2026년으로 끌어올리는 논문이므로 Tier A 최우선.
+
+---
+
+## Addendum (2026-10-23) — Tier B/C 처리 + 증분 sweep
+
+| 구분 | 결과 |
+|---|---|
+| Tier B (7편) | **전량 인제스트 완료** — rashad-2013, agarwal-2022, arakeri-2010, bhagat-2023, shiraishi-2023, gebhardt-2019, kawauchi-2025 |
+| Tier C 중 선별 2편 | **추가 인제스트** — 39034210(choufani-2025, 레바논 전국 설문, PMC 전문), 34453905(dellolio-2021, Brugada 구강외과, abstract-only) |
+| Tier C 잔여 | 10편 `[ ]` 유지 (증례·발생률 보강 성격, 우선순위 낮음) |
+| 오버뷰 | `wiki/overviews/dental-vasovagal-syncope-overview.md` — 18편 종합 (1차 13편 → 2차 18편) |
+| 증분 sweep | `edat 2026-10-20~` 재검색: 치과 앵커 **0건**, 지침 축 **0건** → 반영할 신규 문헌 없음 |
+
+**Tier C 선별 근거**: 39034210은 smereka-2019와 동일 도구 계보의 독립 전국 표본으로 "VVS 1위"를 재현했고(161명 중 56.5%), 34453905는 심장성 실신 감별축에 채널병증(Brugada)이라는 구체적 의뢰 경로를 추가한다. 나머지 Tier C는 개별 증례·발생률 맥락 보강이라 오버뷰의 결론을 바꾸지 않는다.
+
+**남은 공백(변동 없음)**: ① 치과 시술별 정량 발생률, ② 예방적 글리코피롤레이트의 치과 RCT(존재 미확인).
