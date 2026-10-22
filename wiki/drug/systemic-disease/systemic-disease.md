@@ -2,7 +2,7 @@
 title: "전신질환·약물·전신질환관리 — systemic-disease"
 authors: navigation
 year: 2026
-date: 2026-10-17
+date: 2026-10-22
 doi: N/A
 source: navigation
 category: drug/systemic-disease
@@ -15,20 +15,20 @@ tags: [navigation, category-index, systemic-disease]
 > [!summary] 한국어 핵심요약
 > - **분야**: 전신질환·약물·전신질환관리
 > - **범위**: Medically compromised patients — diabetes (HbA1c assay & interpretation), cardiovascular disease & perioperative hemodynamics, Sjögren classification criteria, renal/hepatic impairment, polypharmacy, drug–drug interactions, immunosuppression; systemic-disease ↔ oral-disease relationship reviews. The…
-> - **수록 논문**: 30편
+> - **수록 논문**: 33편
 
 ## Three-line Summary
 
 **Scope**: Medically compromised patients — diabetes (HbA1c assay & interpretation), cardiovascular disease & perioperative hemodynamics, Sjögren classification criteria, renal/hepatic impairment, polypharmacy, drug–drug interactions, immunosuppression; systemic-disease ↔ oral-disease relationship reviews.
-**Indexed papers**: 30 papers in `wiki/drug/systemic-disease/`.
+**Indexed papers**: 33 papers in `wiki/drug/systemic-disease/`.
 
 ## 세줄요약
 
 **분야**: 전신질환·약물·전신질환관리
-**수록 논문**: 30편
+**수록 논문**: 33편
 **하위 카테고리**: 없음
 
-## Papers in this Category (30)
+## Papers in this Category (33)
 
 | Paper |
 |---|
@@ -50,6 +50,7 @@ tags: [navigation, category-index, systemic-disease]
 | [[legoff-2017-sjogren-classification-criteria-comparison|Comparison of 2002 AECG and 2016 ACR/EULAR classification criteria in suspected primary Sjögren syndrome + salivary gland ultrasonography]] |
 | [[liu-2024-perioperative-hypertension-implant-bone-augmentation|Risk factors of perioperative hypertension in dental implant surgeries with bone augmentation]] |
 | [[maftei-2021-salivary-markers-hba1c-type2-diabetes-extraction|Correlations between Salivary Immuno-Biochemical Markers and HbA1c in Type 2 Diabetes Subjects before and after Dental Extraction]] |
+| [[malave-2022-vasovagal-reactions-during-interventional-pain|Vasovagal Reactions during Interventional Pain Management Procedures—A Review of Pathophysiology, Incidence, Risk Factors, Prevention, and Management]] |
 | [[masri-2024-early-implant-failure-antihypertensive-medications|Early Implant Failure in Patients Using Antihypertensive Medications: A Retrospective Cohort Study]] |
 | [[mawardi-2023-semaglutide-associated-hyposalivation-case-series|Semaglutide-associated hyposalivation: A report of case series]] |
 | [[nathan-2008-translating-a1c-assay-estimated-average|Translating the A1C Assay Into Estimated Average Glucose Values]] |
@@ -57,8 +58,10 @@ tags: [navigation, category-index, systemic-disease]
 | [[perozo-2026-perioperative-hemodynamic-hypertensive-oral-surgery-protocol|Perioperative Hemodynamic Responses in Hypertensive Patients Undergoing Oral Surgery and Development of the Perozo Protocol]] |
 | [[sharma-2024-orofacial-complications-systemic-sclerosis|Orofacial Complications of the Connective Tissue Disease Systemic Sclerosis]] |
 | [[shiboski-2016-acr-eular-sjogren-classification-criteria|2016 ACR-EULAR Classification Criteria for Primary Sjögren Syndrome]] |
+| [[smereka-2019-preparedness-and-attitudes-towards-medical|Preparedness and attitudes towards medical emergencies in the dental office among Polish dentists]] |
 | [[tahamtan-2020-the-effects-of-statins-on|The effects of statins on dental and oral health: a review of preclinical and clinical studies]] |
 | [[temelci-2023-thalassemia-titanium-implant-wettability-pilot|Investigation of the Wetting Properties of Thalassemia Patients' Blood Samples on Grade 5 Titanium Implant Surfaces: A Pilot Study]] |
 | [[uritu-2025-vasoconstrictor-dental-anesthesia-pregnancy-sr|Review of the Safety and Clinical Considerations of Vasoconstrictor Agents in Dental Anesthesia During Pregnancy]] |
+| [[waters-2022-ace-inhibitor-or-arb-induced|ACE-Inhibitor or ARB-Induced Refractory Hypotension Treated With Vasopressin in Patients Undergoing General Anesthesia for Dentistry: Two Case Reports]] |
 | [[weykamp-2013-hba1c-review-analytical-clinical-aspects|HbA1c: A Review of Analytical and Clinical Aspects]] |
 | [[yang-2025-tooth-extraction-hypertensive-ecg-monitoring|Risk analysis of tooth extraction in hypertensive patients under ECG monitoring: a single-center retrospective study]] |
