@@ -1,0 +1,199 @@
+TITLE: The Clinical Efficacy and Safety of ErhBMP‐2/BioCaP/β‐TCP as a Novel Bone Substitute Using the Tooth‐Extraction‐Socket‐Healing Model: A Proof‐of‐Concept Randomized Controlled Trial
+AUTHORS: Wei Lingfei, Sun Yuanyuan, Yu Dedong, Pieterse Herman, Wismeijer Daniel, Liu Yuelian, Wu Yiqun
+JOURNAL: Journal of Clinical Periodontology
+ID[pmcid]: PMC11743062
+ID[pmcid-ver]: PMC11743062.1
+ID[pmcaid]: 11743062
+ID[pmcaiid]: 11743062
+ID[pmid]: 39478364
+ID[doi]: 10.1111/jcpe.14084
+ID[publisher-id]: JCPE14084
+
+## ABSTRACT
+ABSTRACT
+AimThis first randomized controlled trial in humans aimed to assess the efficacy and safety of low‐dosage Escherichia coli‐derived recombinant human bone morphogenetic protein 2 (ErhBMP‐2)‐incorporated biomimetic calcium phosphate coating‐functionalized β‐TCP (ErhBMP‐2/BioCaP/β‐TCP) as a novel bone substitute using the tooth‐extraction‐socket‐healing model.
+Materials and MethodsForty patients requiring dental implants after single‐root tooth extraction were enrolled in this study and randomly assigned into three groups: ErhBMP‐2/BioCaP/β‐TCP (N = 15), β‐TCP (N = 15) and natural healing (N = 10). New bone volume density from histomorphometric analyses was evaluated 6 weeks post‐operatively as the primary outcome, and other histomorphometric analyses, alveolar bone and soft‐tissue changes were the secondary outcomes. Safety parameters included adverse events, soft‐tissue healing, oral health impact profile, serum BMP‐2 concentrations and other laboratory tests.
+ResultsThe findings revealed a significant increase in new bone volume density in patients treated with ErhBMP‐2/BioCaP/β‐TCP compared to those receiving β‐TCP alone. The required bone augmentation procedures during implant placement surgery in the ErhBMP‐2/BioCaP/β‐TCP group were significantly less than in the natural healing group. There were no significant differences in safety parameters among the three groups.
+ConclusionThis clinical trial primarily proved the safety and efficacy of ErhBMP‐2/BioCaP/β‐TCP as a promising bone substitute.
+
+## Introduction
+
+Alveolar bone and other osseous defects can occur because of heredity, infection, trauma, tumour resection or and disuse atrophy (Jeffcoat 1993; Keun 2011; Ucer and Khan 2023; Zhou et al. 2021). Over 2 million surgical procedures are performed annually worldwide to repair such defects. The standard treatment for bone defects is bone grafting in the form of an autograft, allograft, xenografts or synthetic bone substitutes. Despite their extensive use, bone grafts have several limitations (Polo‐Corrales, Latorre‐Esteves, and Ramirez‐Vick 2014).
+
+With progress in tissue engineering technology, combining bone substitutes and growth factors in applications has been widely recognized as an alternative option. Recombinant human bone morphogenetic protein 2 (rhBMP‐2), one of the best documented osteoinductive growth factors, was developed and proved to induce osteoblast differentiation and stimulate new bone formation at both homotopic and ectopic sites (Halloran, Durbano, and Nohe 2020). It was first prepared using Chinese hamster ovary cells and then using Escherichia coli as an alternative. It has been approved for spinal fusion procedures by absorbing it on the surface of a collagen sponge, a product commercially named INFUSE, made by Medtronic. Despite the promising initial clinical efficacy, bias in the original trials seemed to underestimate the risk of complications and adverse effects caused by the high loading quantity of rhBMP‐2 (in milligram range) and burst‐release‐related side effects derived from the mode of rhBMP‐2 delivery (Jeon et al. 2022; Jo et al. 2019; Kim et al. 2015; Thoma et al. 2019) in the compound (Carragee, Hurwitz, and Weiner 2011; Gillman and Jayasuriya 2021; James et al. 2016). It is critical that in novel bone substitutes, rhBMP‐2 is delivered at the lowest possible dosage following a controlled and sustained release action to maximize its osteoinductivity and minimize adverse reactions.
+
+Previously, our team had developed a novel rhBMP‐2 delivery system: the low‐dosage rhBMP‐2 (in the microgram range, 1/10 of the up‐till‐now available commercial products) incorporated in biomimetic calcium phosphate coating (rhBMP‐2/BioCaP) (Liu, De Groot, and Hunziker 2005; Liu et al. 2004). It is further characterized by local, limited and sustained release of rhBMP‐2 in a cell‐mediated manner, mimicking the principles of natural bone remodelling (Liu et al. 2014, 2018). Based on this innovative technology, β‐TCP, one of the most often used calcium phosphate‐based bone substitutes (Jeong et al. 2019), was functionalized by the E. coli‐derived rhBMP‐2/BioCaP coating (ErhBMP‐2/BioCaP/β‐TCP). In vitro and in vivo preclinical studies have demonstrated its unique and superior properties: microporosity, biodegradability, osteoconductivity and osteoinductivity (Wei et al. 2020). It delivers micro‐concentrations of ErhBMP‐2 in a controlled manner, overcoming current safety concerns, and results in optimal bone regeneration with minimal side effects.
+
+This clinical trial aimed to verify the efficacy and safety of ErhBMP‐2/BioCaP/β‐TCP as a novel bone substitute using the tooth‐extraction‐socket‐healing model.
+
+## Materials And Methods
+
+### Study Approval
+
+The protocol was approved by the Ethics Committee of Shanghai Ninth People's Hospital (No. SH9H‐2019‐T231‐4) and the Academic Center for Dentistry Amsterdam (No. 202061), and registered in the Chinese Clinical Trial Registry (No. ChiCTR2000035263, https://www.chictr.org.cn/) on 10 August 2020. This clinical trial was conducted between August 2020 and December 2021 at the Second Dental Center, Shanghai Ninth People's Hospital, Shanghai. All screened patients were required to sign an informed consent form before enrollment.
+
+### Power Analysis
+
+Two independent statisticians performed power calculations to determine the required sample size. The primary outcome, namely the volume density of new bone formation in biopsy samples taken from the tooth extraction site 6 weeks post surgery, was pivotal in determining the sample size. Drawing on insights from a previous preclinical study (Liu et al. 2013), the effect size was calculated using the Social Science Statistics software, and Cohen's d‐values were inserted into G*Power 3 (Faul et al. 2007). An alpha of 5%, a test power of 90% and a two‐tailed independent samples t‐test were input into the G*Power 3 software, and the minimum sample size was calculated (Table S1).
+
+We included more number of patients than required by the power calculations, taking into account possible dropouts. Therefore, 40 patients were included in the trial. The enrolled patients were assigned to (i) the ErhBMP‐2/BioCaP/β‐TCP‐treated group (15 patients), (ii) the β‐TCP‐treated group (15 patients) or (iii) the natural healing sockets group (10 patients).
+
+### Patient Selection
+
+Patients who had a single root tooth that met the indications for tooth extraction and were classified as EDS‐1 or EDS‐2 according to the extraction defect sounding (EDS) classification (Caplanis, Lozada, and Kan 2005) and met all the other criteria were included in the trial, as previously reported (Table S2) (Sun et al. 2023).
+
+### ErhBMP‐2/BioCaP/β‐TCP Preparation
+
+E. coli‐derived rhBMP‐2‐functionalized β‐TCP granules (Shanghai Rebone Biomaterials Co. Ltd.; particle size, 0.25–1.00 mm) coated with biomimetic calcium phosphate (Shanghai Rebone Biomaterials) (ErhBMP‐2/BioCaP/β‐TCP) were manufactured according to established protocols (Lin et al. 2019; Liu et al. 2013; Wei et al. 2019, 2020) and Good Manufacturing Practice (GMP) in compliance with the ISO 13485:2016 standard for manufacturing of medical devices. Scanning electron microscopy (SEM) observation showed that ErhBMP‐2/BioCaP/β‐TCP had a plate‐like topography with crystalline coating on the surface (Figures S1a–f). The average coating thickness was 10.4 μm, as measured from the cross‐section by SEM (Figure S1g). The average rhBMP‐2 concentration in the synthesized material was 126.2 μg/g of BioCaP/β‐TCP, as measured by an enzyme‐linked immunosorbent assay (ELISA) kit (Neobioscience Co. Ltd) and remained stable after 3 months (Figure S1h). Preclinical biosafety testing of ErhBMP‐2/BioCaP/β‐TCP was performed by Weihai Desheng Technology Testing Co. Ltd. (China), in compliance with the ISO 10993 standard (Table S3).
+
+### Randomization and Blinding
+
+This was a single centre, randomized, controlled, partially double‐blind clinical trial. The trial followed the principles of Good Clinical Practice (GCP) in compliance with the ISO 14155:2020 standard for the clinical investigation of medical devices and the CONSORT guidelines for human patients (Schulz, Altman, and Moher 2010). Randomized block design was used in this trial. The enrolled patients were divided into five blocks based on the inclusion order, with eight subjects per block. The eight subjects in each block were simply randomized by drawing lots as follows: three subjects each in both the ErhBMP‐2/BioCaP/β‐TCP group and the β‐TCP group, and two subjects in the blank control group. The subjects and surgeons were blinded to the first two groups, but the blank control group could not be blinded. The researchers who performed measurements and analyses were completely blinded to the allocation.
+
+### Clinical Trial Procedure and the Patient Analysis Sets
+
+The design and trial procedures are summarized in Figure 1a–g. Five visits were planned and conducted during the 6‐week follow‐up. At visit 2, a senior dentist performed standardized tooth extraction and socket filling surgery for the patients following the randomization results. The tooth extraction sockets were filled with ErhBMP‐2/BioCaP/β‐TCP, β‐TCP or left empty and then covered with a double layer of resorbable collagen membrane (Bio‐Gide by Geistlich Biomaterials, Wolhusen, Switzerland). Gargling with 0.12% chlorhexidine solution was recommended twice daily for 7 days after surgery. Cone beam computed tomography (CBCT) and intra‐oral scan data were collected immediately and 6 weeks after surgery. At the fifth visit, biopsy samples (diameter 2.3 mm; height 6 mm) were collected, all by one senior dentist, using trephine burs with outer diameter 3 mm from the centre of the socket. To maintain consistency and meet the need of early implant placement, at least 1.5 mm bone walls were preserved in all directions. The axial direction was kept in consistent with the axis of single rooted teeth. The biopsy samples were cut out 6 mm away from the alveolar ridge crest. Dental implants were placed when the primary stability was achieved, and bone augmentation procedures were performed when the bone mass around the implant was insufficient.
+
+[FIGURE] Study overview. Five visits in trial procedures were planned and carried out (a). Representative intra‐oral photographs of the standardized procedures of socket preservation surgery are shown in (b–e; b—tooth extraction, c—bone substitute filling, d—membrane covering, e—suturing). The soft‐ and hard‐tissue healing 6 weeks after surgery are shown in (f) and (g), respectively. The CONSORT flow chart of the trial is shown in (h).
+
+Forty patients were carefully selected from a cohort of 44 screened individuals and enrolled in this study. As previously mentioned, they were randomly allocated into three groups: ErhBMP‐2/BioCaP/β‐TCP‐treated (15 patients), β‐TCP treated (15 patients) and natural healing sockets (10 patients). All participants completed the clinical trial, with no instances of loss to follow‐up or intervention discontinuation. The CONSORT flow chart of this trial is shown in Figure 1h.
+
+The number of patients in the full analysis set (FAS) and the safety set (SS) was 40. However, three patients (one each in the ErhBMP‐2/BioCaP/β‐TCP‐treated group, the β‐TCP‐treated group and the natural healing socket group) were excluded from the FAS due to protocol violations. The remaining 37 patients were included in the sensitivity analysis set (SAS).
+
+A single patient from the natural healing socket group in SAS was excluded from histomorphometric analyses because of insufficient biopsied tissue, while other data remained unaffected. This participant was retained in the SAS for hard‐ and soft‐tissue analyses but not for histomorphometric analyses. Consequently, the remaining 36 patients formed the per‐protocol set (PPS) specifically for histomorphometric analyses. In summary, the numbers of patients in the FAS, SS, SAS and PPS were 40, 40, 37 and 36, respectively.
+
+### Measurements of Efficacy and Safety Outcomes
+
+The primary outcome of the efficacy analysis was new bone volume density in the biopsy sample 6 weeks after surgery. The secondary outcomes included (1) the unmineralized tissue volume density in the biopsy sample, (2) the residual material volume density in the biopsy site, (3) the bone width and height changes measured by CBCT scans, (4) the soft‐tissue surface sectional area and width changes measured by intra‐oral scans and (5) the number of bone augmentation procedure required during dental implant placed. The safety outcomes included (1) the soft‐tissue healing score, (2) the Oral Health Impact Profile‐14 (OHIP‐14) questionnaire, (3) adverse events (application site pain, swelling, haemorrhage, dental discomfort, oral discomfort and other discomforts), (4) the BMP‐2 concentration in the serum and (5) other laboratory blood and urine tests.
+
+#### Bone Histomorphometry
+
+Biopsy samples were collected and immersed in 10% neutral formalin solution with trephine for 24 h. Following thorough flushing, the solution was dehydrated using alcohol gradients, and the samples were embedded in polymethyl methacrylate, which was prepared by bulk polymerization using methyl methacrylate (Zhanyun ChemE, Shanghai, China).
+
+Each biopsy sample was uniformly partitioned into five sections with 1 mm distance and cut along the cross‐sectional plane using the systematic random sampling method to reduce measurement error and increase the accuracy. They were subsequently arranged on plexiglass holders in the same order, each section with a thickness initially set at 600 μm, and were polished down to a thickness ranging from 50 to 100 μm (Figure 2a). Following staining with McNeal's Tetrachrome, basic fuchsine and toluidine blue, the ImageJ software (National Institutes of Health, USA) was used to measure the volume density of new bone, residual material and unmineralized tissue.
+
+[FIGURE] Representative histological observations (a–f), and histomorphometric analysis in the three groups (g–i) (PPS). The biopsy specimen was cut along a cross‐section perpendicular to the long axis for examination through bone histomorphometry. Each group's overall observation (a–c) and partially enlarged detail (d–f) are shown. Data of new bone volume density (%) (g), residual material volume density (%) (h) and unmineralized tissue volume density (%) (i) are shown as mean ± SD, and ANOVA was used to analyse the difference within the three groups. *p < 0.05, **p < 0.01, ***p < 0.001. ANOVA, analysis of variance; ErhBMP‐2/BioCaP/β‐TCP, ErhBMP‐2‐incorporated biomimetic calcium phosphate coating‐functionalized β‐TCP; NB, newly formed bone; PPS, per‐protocol set (n [natural healing] = 8, n [β‐TCP] = 14, n [ErhBMP‐2/BioCaP/β‐TCP] = 14); RM, residual material; SD, standard deviation.
+
+#### CBCT and Intra‐Oral Scan and Analyses
+
+The CBCT scans (field‐of‐view 8 cm [D] × 8 cm [H], resolution 0.16 mm with 80 peak kilovoltage [kVp] and 10 mA; Planmeca, Finland) were made during the screening period (visit 1) for verifying whether the tooth extraction site classification met the inclusion criteria, immediately after the tooth‐extraction‐socket‐healing surgery (visit 2) for establishing the baseline of alveolar ridge and 6 weeks after the surgery (visit 5) for measuring the alveolar ridge contour changes. The CBCT scans at visits 2 and 5 were exported as DICOM (.dcm) files and then imported into the Romexis software (Planmeca Romexis, Planmeca, Finland) for matching and measurement. The bone width changes at 1, 3 and 5 mm below the alveolar ridge crest as well as the height changes of the buccal and lingual bones were measured in the sagittal plane (Figure 3a–f).
+
+[FIGURE] Representative CBCT screenshots and linear measurement analyses (SAS). The screenshots in the sagittal plane immediately (a, c and e) and 6 weeks after surgery (b, d and f) of each group are displayed. The linear measurement of bone height changes of buccal and lingual bone, and bone width change in 1, 3, 5 mm below the crest are shown in (g–k), respectively. Data are shown as mean ± SD, and ANOVA was used to analyse the difference within the three groups. *p < 0.05. ANOVA, analysis of variance; ErhBMP‐2/BioCaP/β‐TCP, ErhBMP‐2‐incorporated biomimetic calcium phosphate coating functionalized‐β‐TCP; SAS, sensitivity analysis set (n [natural healing] = 9, n [β‐TCP] = 14, n [ErhBMP‐2/BioCaP/β‐TCP] = 14); SD, standard deviation.
+
+Intra‐oral scanning (3Shape TRIOS intra‐oral scanner) at visits 2 and 5 were performed and matched using the Romexis software. The changes in the surface area (5 mm from the soft‐tissue crest to the root) and surface width change at 1, 3 and 5 mm in the sagittal plane below the soft‐tissue crest were measured.
+
+#### Safety Analyses
+
+At visits 3, 4 and 5, the soft‐tissue healing score using the scale introduced by Afat et al. (Afat, Akdoğan, and Gönül 2019), the OHIP‐14 questionnaire and adverse events were evaluated. At visits 1 and 5, serum from the peripheral circulatory system was also collected to test the BMP‐2 concentration by ELISA. The serum and urine were also used to perform other laboratory tests.
+
+### Statistical Analyses
+
+Prior to database locking, the statistician and principal investigator validated the datasets and analytical methods. The changes of alveolar bone and surface contour were all measured directly by the matched images (CBCT and intra‐oral scan respectively) and analysed using one‐way ANOVA. Histomorphometric data, soft‐tissue healing score, OHIP‐14 score and the continuous demographic data were analysed using one‐way ANOVA. The laboratory examination data were analysed using two‐way repeated‐measures ANOVA. Multiple between‐group comparisons were performed using post hoc analyses. The Cochran–Mantel–Haenszel (CMH) test was applied to compare categorical data, and Fisher's exact test was used for post hoc analysis after the CMH tests. GraphPad Prism software version 9 (GraphPad, San Diego, CA, USA) was used for the analysis. All statistical tests were two‐sided, and p‐values < 0.05 were deemed statistically significant.
+
+## Results
+
+### Study Participants and Characteristics
+
+Forty patients (24 females and 16 males) were included in the trial, and no statistically significant differences were observed among the groups in terms of age, sex or smoking status (Table S4).
+
+The baseline data of tooth extraction sites in the enrolled patients showed no statistically significant differences among the groups in the number of defective bone walls, gingival phenotype, height of the bone defect, height of gingival recession or tooth extraction classification (Table 1).
+
+[TABLE] Baseline data of tooth extraction sites in enrolled patients (FAS).
+Bone walls |  |  |  | CMH test | χ
+2 = 1.41 | 0.4949
+Intact bone walls | 7 (70) | 13 (87) | 13 (87) |  |  | 
+Defective bone walls | 3 (30) | 2 (13) | 2 (13) |  |  | 
+Total | 10 (100) | 15 (100) | 15 (100) |  |  | 
+Gingival phenotype |  |  |  | CMH test | χ
+2 = 0.35 | 0.8409
+Thick | 7 (70) | 11 (73) | 12 (80) |  |  | 
+Thin | 3 (30) | 4 (27) | 3 (20) |  |  | 
+Total | 10 (100) | 15 (100) | 15 (100) |  |  | 
+Bone defect height |  |  |  | CMH test | χ
+2 = 3.36 | 0.4994
+0 mm | 7 (70) | 12 (80) | 13 (87) |  |  | 
+> 0 and ≤ 2 mm | 2 (20) | 3 (20) | 2 (13) |  |  | 
+≥ 3 and ≤ 5 mm | 1 (10) | 0 (0) | 0 (0) |  |  | 
+Total | 10 (100) | 15 (100) | 15 (100) |  |  | 
+Gingival recession height |  |  |  | CMH test | χ
+2 = 3.18 | 0.5285
+≤ 2 mm | 8 (80) | 14 (93) | 14 (93) |  |  | 
+≥ 3 mm and ≤ 5 mm | 1 (10) | 1 (7) | 1 (7) |  |  | 
+> 5 mm | 1 (10) | 0 (0) | 0 (0) |  |  | 
+Total | 10 (100) | 15 (100) | 15 (100) |  |  | 
+Classification of extraction sites |  |  |  | CMH test | χ
+2 = 3.60 | 0.4628
+EDS‐1 | 6 (60) | 9 (60) | 11 (73) |  |  | 
+EDS‐2 | 3 (30) | 6 (40) | 4 (27) |  |  | 
+EDS‐3 | 0 (0) | 0 (0) | 0 (0) |  |  | 
+EDS‐4 | 1 (10) | 0 (0) | 0 (0) |  |  | 
+Total | 10 (100) | 15 (100) | 15 (100) |  |  | 
+
+### Efficacy
+
+Thirty‐six biopsy samples were taken from 36 patients (8 from the natural healing group, 14 from the ErhBMP‐2/BioCaP/β‐TCP group and 14 from the β‐TCP group). All biopsy samples obtained 6 weeks after tooth extraction were used to delineate the new bone, residual materials and unmineralized tissue (Figure 2a–f). Residual materials were evident in both ErhBMP‐2/BioCaP/β‐TCP‐treated (Figure 2c,f) and β‐TCP‐treated patients (Figure 2b,e). In patients with natural healing sockets, new bone trabeculae originated from the indigenous alveolar bone and regenerated in the socket periphery, whereas fibrous tissue was predominant in the central region (Figure 2a,d). Minimal new bone was observed in the periphery of the socket, with little contact with the residual material in β‐TCP‐treated patients (Figure 2b,e). In ErhBMP‐2/BioCaP/β‐TCP‐treated patients, moderate new bone formation and bone–material contact occurred in the periphery and centre of the socket (Figure 2c,f).
+
+Histomorphometric analyses were performed on biopsy specimens from 36 patients (PPS). The new bone volume densities (%) in biopsies from ErhBMP‐2/BioCaP/β‐TCP‐treated patients, β‐TCP‐treated patients and those with natural healing sockets were 7.72 ± 6.01%, 2.96 ± 2.23% and 8.37 ± 6.31%, respectively. A statistically significant difference was observed between the β‐TCP‐treated patients and the other two groups (Figure 2g). The volume density of residual materials (%) in ErhBMP‐2/BioCaP/β‐TCP‐treated patients was 10.90 ± 4.04%, which is significantly lower than that in β‐TCP‐treated patients (15.73 ± 4.52%) (Figure 2h). Regarding unmineralized tissue volume density (%), the value in patients with natural healing sockets (91.63 ± 6.31%) was significantly higher than that in the other two groups (ErhBMP‐2/BioCaP/β‐TCP‐treated patients, 81.38 ± 4.81% and β‐TCP treated patients, 81.32 ± 4.70%) (Figure 2i).
+
+Alterations in the height and width of the alveolar bone at 6 weeks post tooth extraction were analysed and illustrated in Figure 3a–k. The difference in buccal and lingual bone height resorption values and the changes in horizontal alveolar bone width at 3 and 5 mm below the alveolar bone crest showed no statistical significance among the three groups (Figure 3g,h,j,k). Notably, the resorption in horizontal alveolar bone width at 1 mm below the alveolar bone crest in ErhBMP‐2/BioCaP/β‐TCP‐treated patients was significantly lower than that in patients with natural healing sockets (Figure 3i).
+
+Although alterations in the surface contour of soft tissue exhibited a reduction 6 weeks after tooth‐extraction‐socket healing, no statistically significant differences were detected among the three groups (Table 2).
+
+[TABLE] Comparison of intra‐oral scan data (SAS). Data are shown as mean ± SD; 25%, 75%.
+Surface area change in the sagittal plane (mm2) | −13.66 ± 4.87; −15.17, −11.64 | −19.31 ± 8.45; −27.49, −12.91 | −17.25 ± 6.25; −21.62, −11.23 | ANOVA | F = 1.83 | 0.1751
+Surface width change at 1 mm below the soft‐tissue crest (mm) | −5.28 ± 2.17; −7.93, −3.68 | −6.59 ± 2.01; −8.42, −4.60 | −5.19 ± 1.91; −6.73, −3.78 | ANOVA | F = 2.02 | 0.1488
+Surface width change at 3 mm below the soft‐tissue crest (mm) | −2.74 ± 0.90; −3.22, −2.13 | −3.14 ± 2.20; −4.65, −1.37 | −3.64 ± 1.54; −4.12, −2.52 | ANOVA | F = 0.78 | 0.4660
+Surface width change at 5 mm below the soft‐tissue crest (mm) | −2.13 ± 0.81; −2.57, −1.62 | −2.27 ± 1.18; −3.23, −1.90 | −2.58 ± 1.27; −3.43, −1.63 | ANOVA | F = 0.49 | 0.6179
+
+In dental implant surgery procedures, nine patients treated with ErhBMP‐2/BioCaP/β‐TCP, seven patients treated with β‐TCP and one patient in the natural healing socket group had sufficient bone volume for implant placement and did not require bone augmentation. The need for bone augmentation in ErhBMP‐2/BioCaP/β‐TCP‐treated patients was significantly lower than that in patients with natural healing sockets (Table 3).
+
+[TABLE] The patient needed bone augmentation procedures (SAS). Data are shown as numbers (percentages).
+Need for second bone augmentation procedures |  |  |  | CMH test | χ
+2 = 6.21 | 0.0447*
+No | 1 (11%) | 7 (50%) | 9 (64%) |  |  | 
+Yes | 8 (89%) | 7 (50%) | 5 (36%) |  |  | 
+Total | 9 (100%) | 14 (100%) | 14 (100%) |  |  | 
+
+### Safety
+
+Based on the CMH test results, the number (percentages) of patients with adverse events showed no significant differences among the groups. The soft‐tissue healing score at 1, 2 and 6 weeks after tooth extraction showed no significant differences among the three groups, and the same scientific analysis results were indicated in the OHIP (Table 4). All ELISA tests for the serum BMP‐2 were negative, and the other dual laboratory test results from visits 1 and 5 showed no significant differences.
+
+[TABLE] Comparison of soft tissue healing score, OHIP‐14 score, and adverse events (AE) in three groups. Data of soft tissue healing score and OHIP‐14 score are shown as mean ± SD; 25%, 75%. Data of AE are shown as patient numbers (percentages) (SS).
+Soft‐tissue healing score in V3 | 1.1 ± 1.2; 0.0, 1.0 | 1.4 ± 1.1; 1.0, 2.0 | 1.7 ± 1.0; 1.0, 3.0 | ANOVA | F = 0.82 | 0.4485
+Soft‐tissue healing score in V4 | 0.9 ± 0.9; 0.0, 1.0 | 1.3 ± 1.3; 0.0, 2.0 | 1.5 ± 1.0; 1.0, 2.0 | ANOVA | F = 0.85 | 0.4377
+Soft‐tissue healing score in V5 | 0.0 ± 0.0; 0.0, 0.0 | 0.7 ± 1.2; 0.0, 1.0 | 0.1 ± 0.4; 0.0, 0.0 | ANOVA | F = 2.67 | 0.0823
+OHIP‐14 score in V3 | 4.3 ± 8.2; 0.5, 3.5 | 6.9 ± 7.2; 1.0, 10.3 | 7.5 ± 6.6; 0.8, 14.3 | ANOVA | F = 0.55 | 0.5819
+OHIP‐14 score in V4 | 1.2 ± 1.5; 0.0, 2.5 | 7.1 ± 11.1; 0.0, 11.8 | 5.1 ± 8.4; 0.0, 7.3 | ANOVA | F = 1.26 | 0.2958
+OHIP‐14 score in V5 | 1.1 ± 2.3; 0.0, 2.0 | 3.7 ± 6.0; 0.0, 7.3 | 6.1 ± 9.8; 0.0, 7.3 | ANOVA | F = 1.324 | 0.2796
+Adverse events (No. of patients. [%]) | 8 (80%) | 12 (80%) | 13 (87%) | CMH test | χ
+2 = 0.28 | 0.3253
+
+## Discussion
+
+The present trial explored the efficacy and safety of ErhBMP‐2/BioCaP/β‐TCP as a novel bone substitute using the tooth‐extraction‐socket‐healing model. Regarding efficacy, faster early stage bone regeneration was observed 6 weeks after tooth extraction in sockets filled with ErhBMP‐2/BioCaP/β‐TCP compared to those filled with β‐TCP, which is a conventional synthetic bone substitute. Moreover, the ErhBMP‐2/BioCaP/β‐TCP also maintained the alveolar ridge contour and positively affected tooth‐extraction‐socket healing. Concerning safety, the results preliminarily proved that ErhBMP‐2/BioCaP/β‐TCP could be considered a biocompatible bone substitute.
+
+A higher volume density of newly formed bone was observed in ErhBMP‐2/BioCaP/β‐TCP‐treated patients than in β‐TCP‐treated patients due to the incorporation of ErhBMP‐2 (which is an osteoinductive growth factor) and similar in patients with natural healing sockets. These results are inconsistent with some previous preclinical results (Liu et al. 2013; Wei et al. 2020), which demonstrated more than 3 times new bone formation in bone‐graft‐filled defects compared with natural healing socket patients when repairing critical‐sized bone defects. The differences between the present trial and preclinical studies could have arisen from differences in bone defect classification. The tooth extraction socket can heal rapidly and spontaneously, whereas spontaneous bone healing in critically sized bone defects is permanently restricted. The inconsistency in the healing period and species variation between the clinical trial and preclinical studies also contributed to the discrepancies in bone regeneration among the three groups. In natural healing sockets, bone formation is activated as early as 2–4 weeks after tooth extraction. In β‐TCP‐treated patients, there was a prolonged healing cycle. Typically, patients undergoing implant placement after ridge preservation using bone substitutes must wait 4–6 months or longer (Tonetti et al. 2019). An extended healing time may be required based on the phenotypic characteristics of the extraction site, the properties of the biomaterial(s) used and patient‐specific systemic factors. This trial demonstrated that ErhBMP‐2/BioCaP/β‐TCP accelerated the early bone healing compared to the traditional synthetic bone substitutes and achieved similar bone regeneration as fast as in patients with natural healing sockets. The previous CBCT analysis also demonstrated that the grey value decrease at the central area of filled materials in the ErhBMP‐2/BioCaP/β‐TCP group was faster than in the β‐TCP group (Sun et al. 2023), which was consistent with the volume density of residual materials (%) in histomorphological results in this study.
+
+CBCT analysis showed that ErhBMP‐2/BioCaP/β‐TCP significantly reduced the bone width loss at 1 mm below the alveolar ridge crest. Although the mean height changes of buccal bone in the ErhBMP‐2/BioCaP/β‐TCP‐treated patients were lower than in the natural healing socket patients, the difference was not statistically significant. Dual intra‐oral scans were also used to analyse soft‐tissue contour changes; unfortunately, no positive characteristic parameters were found. There could be two potential reasons for these results: the limited sample size in this trial, and the short observation period (only 6 weeks) compared with other trials.
+
+No serious adverse events were observed. The incidence of adverse events was similar among the three groups, and most adverse events were restricted to the application sites (e.g., pain, swelling and local discomfort). Moreover, most patients in the ErhBMP‐2/BioCaP/β‐TCP‐treated group had completely healed soft tissue. None of the patients showed abnormal results with clinical significance in vital signs, physical examinations or laboratory tests. In the presented trial, no bone regeneration was found outside the socket in the ErhBMP‐2/BioCaP/β‐TCP‐treated patients who received ErhBMP‐2 in low dosage and sustained release. Considering all the results, ErhBMP‐2/BioCaP/β‐TCP used in this clinical trial can be considered safe as a bone substitute for tooth extraction socket healing.
+
+The present study has some limitations. Firstly, biopsy samples were collected by freehand surgery rather than using the surgical guide, which can get the samples more precisely. In visit 5, CBCT and intra‐oral scan data were all collected. A surgical guide could be made for the biopsies. However, it would take some days to design and print the guide in the lab when the chairside printer was not available. That means the patients should make one more visit to the clinic. Therefore, CBCT and intra‐oral scan data were used for preoperative diagnosis and virtual design of the biopsies rather than for fabricating the surgical guide. In the future, a surgical guide should be recommended for biopsies. Secondly, the observation period of 6 weeks is relatively short for bone regeneration in humans, regardless of the location and category of the defects. The trial duration was insufficient to demonstrate the efficacy of alveolar ridge preservation and long‐term safety. A 2‐year follow‐up study was initiated to evaluate the procedure's safety. The socket healing model was used to test the safety and efficiency of the materials in general. However, the purpose of using this material is not only for tooth‐extraction‐socket healing. The present study was primarily to verify its efficacy and safety; larger multi‐centre pivotal trials will be carried out to prove the efficacy and safety fully.
+
+## Conclusion
+
+Within the limitations of the current clinical trial, we found that ErhBMP‐2/BioCaP/β‐TCP could be considered as an osteo‐promotive and biocompatible bone substitute. This novel bone substitute can potentially achieve safe and effective treatment for repairing bone defects.
+
+## Author Contributions
+
+L.W. monitored the trial and was the major contributor to writing the manuscript. Y.S. and D.Y. performed the clinical trial and were involved in the data analyses. H.P. and D.W. formulated the trial design and management. Y.L. and Y.W. supervised the research and reviewed the manuscript. All authors read and approved the final manuscript.
+
+## Ethics Statement
+
+This trial was approved by the Ethics Committee of both Shanghai Ninth People's Hospital (No. SH9H‐2019‐T231‐4) and the Academic Center for Dentistry Amsterdam (No. 202061), and registered in the Chinese Clinical Trial Registry (No. ChiCTR2000035263). All participants were informed and understood the objectives and details of the study and signed a written informed consent document.
+
+## Conflicts of Interest
+
+The authors declare no conflicts of interest.
+
+## Supporting information
