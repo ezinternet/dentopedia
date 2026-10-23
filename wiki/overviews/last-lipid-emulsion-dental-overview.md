@@ -46,6 +46,7 @@ relations:
 > [!summary] 한국어 핵심요약
 > - **LAST(국소마취제 전신독성)** 는 치과 진료실 심정지의 주요 원인; 침묵의 위험 — 발현 즉시 인지 못 하면 5–15분 내 심정지로 진행
 > - **발현 순서**: 구강주위 마비·금속맛·이명 → 흥분·경련 → CNS 억제 → 심부정맥·저혈압 → **심정지** (뷰피바카인 (Bupivacaine)은 표준 심폐소생술에 저항적)
+> - **에피네프린 = 흡수경로 안전 장치**: 에피네프린 (Epinephrine)이 주사 부위 혈관을 수축시켜 Cmax를 ~0.7–1.2 µg/mL로 제한 (독성역치 ~5 µg/mL의 5배 여유); **3% 메피바카인 (Mepivacaine) plain = 에피네프린 없음 + 최고 농도 → 흡수 가장 빠름 → 소아 LAST 고위험**; 단, 혈관내 직접 주입은 이 방어선을 무력화 — 에피네프린은 흡수경로 독성만 막음
 > - **ILE 구제**: 20% 리피드 에멀전 (Lipid Emulsion) 1.5 mL/kg 볼루스 + 0.25 mL/kg/min 지속주입; 소아 21례 SR에서 95.2% 완전회복
 > - **왜 뷰피바카인이 가장 위험한가**: log P 3.41(최고 지질친화성) + 95% 단백결합 → Na+ 채널 결합 후 서서히 해리("fast-in, slow-out") → 표준 ACLS 실패 → ILE 필수
 > - **덴탈 대비 갭**: 2026년 서베이(n=369) — 0.5%만 ILE 투여 세부지식, 14.1%만 기관 보유 확인; 인식 ≠ 대비
@@ -95,7 +96,27 @@ agitation, confusion
 
 **Time to cardiac arrest**: can be <5 minutes with intravascular injection; up to 15–30 minutes with slower absorption from tissue.
 
-### 1.3 Why Bupivacaine Is in a Different Risk Category
+### 1.3 Role of Epinephrine — Why the Vasoconstrictor Is a Safety Mechanism
+
+Epinephrine (에피네프린, Epinephrine) in the carpule works as a local vasoconstrictor: it narrows blood vessels at the injection site, slowing the rate at which lidocaine diffuses into systemic circulation. The result is a substantially lower Cmax and a wider safety margin.
+
+| Formulation | Absorption speed | Peak Cmax (IANB, 1 carpule) | Safety margin to CNS threshold (~5 µg/mL) |
+|---|---|---|---|
+| 2% lidocaine **with** 1:100,000 epi | Slow | ~0.7–1.2 µg/mL | **~5× margin** |
+| 2% lidocaine **plain** (no epi) | Fast | Higher | Narrower |
+| 3% mepivacaine **plain** (no epi) | Fastest (high concentration + no vasoconstrictor) | Highest per volume | **Smallest margin** |
+
+**Practical implications**:
+
+1. **Epinephrine (에피네프린) does three things simultaneously**: reduces Cmax (safety), prolongs duration (clinical benefit), and reduces operative bleeding.
+
+2. **Mepivacaine 3% plain = highest LAST risk combination** in routine dental use: highest amide concentration + no vasoconstrictor = fastest absorption → least safe absolute dose per carpule. For a 15 kg child: MRD = 99 mg → only 1.8 carpules (54 mg each). Extractions often require >2 carpules → easy MRD breach. (See §3.2.)
+
+3. **Intravascular injection bypasses this protection entirely** — the drug reaches cardiac tissue within seconds regardless of vasoconstrictor. Epinephrine protects against *absorption-route* LAST; it provides no protection against inadvertent intravascular injection.
+
+4. **When to use plain solutions**: patients with severe uncontrolled cardiovascular disease or hyperthyroid state may require epi-free formulations (plain mepivacaine or prilocaine) — accepting a narrower safety margin in exchange for avoiding adrenergic cardiovascular stress. The trade-off should be explicit.
+
+### 1.4 Why Bupivacaine Is in a Different Risk Category
 
 | Property | Bupivacaine | Lidocaine | Clinical implication |
 |---|---|---|---|
