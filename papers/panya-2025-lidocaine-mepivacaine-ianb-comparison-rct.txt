@@ -1,0 +1,94 @@
+Title: Comparative evaluation of 2% mepivacaine and 2% lidocaine for inferior alveolar nerve block: a double-blind randomized clinical trial
+Journal: BMC Oral Health
+Year: 2025
+DOI: 10.1186/s12903-025-07123-7
+PMID: 41188798
+PMCID: PMC12584461
+Trial registry: TCTR20250106002
+
+Abstract
+
+Objective: Lidocaine is the standard dental local anesthetic, while mepivacaine is gaining use despite higher cost and limited comparative data. This study compared the anesthetic efficacy (onset, duration, success rate) of 2% lidocaine with 1:100,000 epinephrine versus 2% mepivacaine with 1:100,000 epinephrine for inferior alveolar nerve block (IANB) in healthy young adults.
+
+Methods: A double-blind, randomized clinical trial was conducted involving 62 healthy dental students aged 19–21 years. Participants were randomly assigned to receive either 2% lidocaine or 2% mepivacaine with 1:100,000 epinephrine via conventional IANB technique. Onset time was assessed by pin-prick and cold testing; duration was determined by participant self-report. Success = effective anesthesia within 10 min post-injection.
+
+Results:
+- Onset: 5.17 ± 1.96 min (lidocaine) vs 5.52 ± 1.57 min (mepivacaine); P = 0.435 (NS)
+- Duration: 214.25 ± 47.52 min (lidocaine) vs 234.32 ± 39.02 min (mepivacaine); P = 0.073 (NS)
+- Success within 10 min: 78.6% lidocaine vs 91.2% mepivacaine; P = 0.161 (NS)
+- Adverse events: 1 transient headache (mepivacaine group); none in lidocaine group
+
+Conclusion: For IANB in healthy young adults, lidocaine and mepivacaine performed similarly. Given its lower cost and comparable performance, lidocaine may represent a cost-conscious option for routine dental anesthesia.
+
+---
+
+INTRODUCTION
+
+Lidocaine, introduced in the 1940s, remains the gold standard for dental anesthesia. Mepivacaine, a structurally similar amide anesthetic, is theorized to offer faster onset and longer duration owing to its lower pKa. In Thailand, 2% mepivacaine with 1:100,000 epinephrine has been reported to be used more often than 2% lidocaine—an observation requiring scrutiny given mepivacaine's higher cost.
+
+METHODS
+
+Design: Double-blind, randomized, pilot comparative trial
+Institution: Faculty of Dentistry, Chulalongkorn University, Thailand
+Ethics: HREC-DCU-P 2024-001
+
+Population: 62 healthy dental students aged 19–21 years (from 100 enrolled; 20 excluded for missing questionnaire data; 18 excluded for failed or delayed IANB)
+Groups: Lidocaine n=28 (9M, 19F); Mepivacaine n=34 (9M, 25F)
+
+Anesthetics:
+- 2% lidocaine 1:100,000 epi (Medicaine Inj. 2%; Hound Co., Ltd., Korea)
+- 2% mepivacaine 1:100,000 epi (Scandonest 2% Special; Septodont, France)
+- Volume: 1.5 mL each; conventional IANB technique (27-gauge, 30-mm needle; 20–25 mm depth)
+
+Onset assessment: Every 30 s; pin-prick with 3-0 nylon monofilament + Endo-Frost cold spray pulpal testing
+Duration: Self-report (return of sensation)
+Success definition: Effective anesthesia within 10 min post-injection
+
+RESULTS
+
+Table 1: Onset and Duration
+
+| Outcome | Lidocaine (n=28) | Mepivacaine (n=34) | P-value |
+|---|---|---|---|
+| Onset time (min) mean ± SD | 5.17 ± 1.96 (95% CI: 4.41–5.93) | 5.52 ± 1.57 (95% CI: 4.97–6.07) | 0.435 (NS) |
+| Duration (min) mean ± SD | 214.25 ± 47.52 (95% CI: 195.82–232.68) | 234.32 ± 39.02 (95% CI: 220.71–247.93) | 0.073 (NS) |
+
+Table 2: Success Rate
+
+| | Success (≤10 min) | 95% CI | Failure |
+|---|---|---|---|
+| Lidocaine | 22/28 (78.6%) | 60.5%–89.8% | 6/28 (21.4%) |
+| Mepivacaine | 31/34 (91.2%) | 77.0%–96.9% | 3/34 (8.8%) |
+Chi-square P = 0.161 (NS)
+
+Gender subgroup: No significant differences in onset or duration by gender in either group.
+
+First perceived numbness site: Tongue most frequent (lidocaine: 50%; mepivacaine: 58.8%); lip second (both ~35%); no significant difference.
+
+Adverse events: One transient mild headache in mepivacaine group; none in lidocaine group. Both formulations well tolerated (98.4% no adverse events).
+
+DISCUSSION
+
+- No statistically significant differences in any primary outcome
+- Lidocaine 78.6% success rate — the key empirical number for healthy young adults IANB
+- Mepivacaine numerically higher (91.2%) but difference NS; study is underpowered (planned 250, achieved 62)
+- Cannot claim formal equivalence without pre-specified margins — this is a pilot study
+- Cost consideration: lidocaine < mepivacaine price; comparable efficacy → lidocaine more cost-effective
+
+Prior literature context:
+- Allegretti 2016 (Brazil): No significant difference in success among mepivacaine, lidocaine, articaine for IANB in irreversible pulpitis
+- Barath 2015 (India): Faster onset with 2% mepivacaine vs 2% lidocaine for third molar surgery (mepivacaine 4.2 min vs lidocaine 4.6 min; P < 0.05); NS duration difference
+- Su 2014 meta-analysis (13 RCTs): Mepivacaine 1:100,000 epi slightly higher effectiveness overall
+
+LIMITATIONS
+
+1. Small sample (n=62; planned 250) → insufficient power to claim equivalence
+2. Exclusively healthy dental students, 19–21 years → not generalizable to older/systemic patients
+3. No actual dental procedures with pain stimuli — anesthesia not tested during painful procedures
+4. Duration by self-report only — no objective sensory testing at fixed intervals
+5. Multiple student operators → inter-operator variability possible
+6. High dropout (38/100 = 38%) → possible selection bias
+
+CONCLUSION
+
+For IANB in healthy young adults, 2% lidocaine and 2% mepivacaine with 1:100,000 epinephrine provide comparable efficacy. Both offer predictable anesthesia. Given its lower cost and comparable performance, lidocaine may represent a cost-conscious option. Larger studies in diverse populations needed.
