@@ -1,0 +1,48 @@
+TITLE: Selection of the safest local anesthetic for dental treatment in medically compromised patients: A comprehensive review
+
+AUTHORS: Gazal G, Nagi MA, Odabaş ME, Alharbi HA
+
+JOURNAL: Saudi J Anaesth 2026; (Epub ahead of print)
+
+PMID: 41710613
+PMCID: PMC12912496
+DOI: 10.4103/sja.sja_571_25
+
+--- ABSTRACT ---
+Local anesthetics are essential in dental practice, but their systemic effects can pose significant risks for medically compromised patients. A comprehensive literature search was performed in PubMed, Scopus, Web of Science, and Google Scholar for studies published January 2000–April 2025. Thirty-five studies included.
+
+Key findings:
+- Lidocaine: standard amide anesthetic, strong safety profile in pregnancy (FDA Category B) and diabetes
+- Mepivacaine: minimal vasodilation, preferred in cardiovascular and thyroid disorders
+- Articaine: rapid plasma metabolism (85-90%), preferred in liver/kidney impairment
+- Prilocaine: methemoglobinemia risk, especially at higher doses; contraindicated in pregnancy (felypressin uterotonic)
+- Chloroprocaine (ester): for confirmed amide allergies
+- Bupivacaine: avoid in cardiac/elderly patients due to cardiotoxicity and prolonged half-life
+
+Local anesthetic selection must be tailored to each patient's medical status.
+
+--- CLINICAL DECISION TABLE ---
+Cardiovascular disease: Plain mepivacaine, lidocaine (≤2 carpules), prilocaine + felypressin; avoid vasoconstrictors or limit epinephrine ≤0.04 mg
+Diabetes mellitus: Lidocaine 2% with 1:100,000 epinephrine (max 2 carpules); monitor blood glucose
+Thyroid disorders: Mepivacaine, prilocaine (plain); avoid epinephrine in uncontrolled hyperthyroidism
+Renal/hepatic impairment: Articaine (plasma metabolism); reduced-dose lidocaine; avoid bupivacaine
+Pregnancy: Lidocaine (Category B); avoid prilocaine/felypressin (fetal methemoglobinemia + premature labor)
+Bleeding disorders: Plain lidocaine or articaine (infiltration only); avoid deep nerve blocks
+Elderly: Articaine, reduced-dose lidocaine; avoid bupivacaine (prolonged half-life, cardiotoxicity)
+LA allergy (amide): Chloroprocaine (ester); confirm with allergy testing
+Asthma/COPD: Plain lidocaine or plain mepivacaine; avoid metabisulfite-containing vasoconstrictors; monitor for methemoglobinemia with prilocaine in lung-compromised patients
+
+--- KEY CLINICAL POINTS ---
+ARTICAINE: 85-90% plasma esterase metabolism → preferred for hepatic/renal impairment; 4% with 1:400,000 epinephrine offers similar efficacy with reduced vasoconstrictor
+LIDOCAINE: Most widely used; rapid onset; intermediate duration; FDA Category B in pregnancy
+MEPIVACAINE: Low vasodilatory activity; suitable without vasoconstrictor; cardiovascular/thyroid patients
+PRILOCAINE: Dual hepatic/pulmonary metabolism; methemoglobinemia risk at high doses; avoid with felypressin in pregnancy (uterotonic effect)
+BUPIVACAINE: Long-acting; cardiotoxicity restricts use in cardiac/elderly; consider liposomal bupivacaine (Exparel®) for postop analgesia
+CHLOROPROCAINE: Ester; rapid hydrolysis by plasma cholinesterase; ultra-short half-life; renewed interest 2023-2024; ideal for pediatric/hepatic-impaired/amide-allergic
+
+INNOVATIONS:
+- Buffered lidocaine/articaine: reduced injection pain, improved onset
+- Articaine 4% with 1:400,000 epi: similar efficacy, lower vasoconstrictor risk
+- Ultrasound-guided techniques: emerging for anticoagulant/bleeding-disorder patients
+
+STUDY DESIGN: Comprehensive narrative review; 35 studies (8 observational, 1 RCT, 18 reviews, 8 case reports/guidelines); search: January 2000–April 2025; databases: PubMed, Scopus, Web of Science, Google Scholar
