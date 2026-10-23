@@ -1,0 +1,44 @@
+TITLE: Medical Emergencies in Pediatric Dentistry
+AUTHORS: Vranic DN
+PUBMED_ID: 27688429
+YEAR: 2016
+DOI: 10.15644/asc50/1/10
+JOURNAL: Acta Stomatol Croat
+FULL_TEXT: false (abstract-only — PubMed abstract retrieved 2026-10-23)
+
+===== PUBMED RECORD (verbatim) =====
+8. Acta Stomatol Croat. 2016 Mar;50(1):72-80. doi: 10.15644/asc50/1/10.
+
+Medical Emergencies in Pediatric Dentistry.
+
+Vranić DN(1), Jurković J(2), Jeličić J(3), Balenović A(4), Stipančić G(5), 
+Čuković-Bagić I(1).
+
+Author information:
+(1)Department of Pediatric and Preventive Dentistry, School of Dental Medicine, 
+University of Zagreb, Croatia.
+(2)Private dental office, Zagreb, Croatia.
+(3)Health Center Zagreb - East, Zagreb, Croatia.
+(4)Health Center Zagreb - Center, Zagreb, Croatia.
+(5)Paediatric Department, School of Dental Medicine, University of Zagreb, 
+Croatia.
+
+Medical emergencies that are life threatening can occur in dental practice. 
+Complications may arise because of an underlying disease or a reaction to 
+medication. Reactions to medications may be allergic and toxic. The most common 
+reactions are toxic reactions to local anesthetics, whereas allergies occur 
+mainly as a consequence of the application of antibiotics, usually penicillin. 
+In response to stress, vasovagal syncope typically occurs. Other causes may be 
+related to an underlying disease-specific pathology (such as acute asthma 
+attack, diabetic ketoacidosis, hypoglycemia, or seizures) or accidents 
+(aspiration of a foreign body causing obstruction of the respiratory system). 
+For all the above conditions, guidelines have been established that need to be 
+known. If complications occur or necessary measures are not taken, it can lead 
+to cardiac and respiratory arrest. Therefore, cardiopulmonary resuscitation is 
+needed. All procedures and dosages should be adapted to the age of the child.
+
+DOI: 10.15644/asc50/1/10
+PMCID: PMC5017275
+PMID: 27688429
+
+Conflict of interest statement: The authors deny any conflict of interest.
