@@ -260,7 +260,7 @@ h1 {
 <!-- ══ HEADER ══ -->
 <div class="drug-pill">국소마취제 안전 계산기</div>
 <h1>2% 리도케인 1:100,000 에피네프린</h1>
-<p class="subtitle">IANB 용량 계산 · 안전 한계 · LAST 응급 프로토콜 — 인제스트 문헌 근거</p>
+<p class="subtitle">하악신경차단 (Inferior Alveolar Nerve Block, IANB) 용량 계산 · 안전 한계 · 국소마취제 전신독성 (Local Anesthetic Systemic Toxicity, LAST) 응급 프로토콜 — 인제스트 문헌 근거</p>
 
 <!-- ══ CALCULATOR ══ -->
 <div class="card">
@@ -317,14 +317,14 @@ h1 {
     <span class="s-icon">✓</span>
     <div class="s-text">
       <strong id="s-title">안전 범위</strong>
-      <span id="s-body">추정 Cmax ≈ 2.0 µg/mL — CNS 역치(5 µg/mL)의 40%</span>
+      <span id="s-body">추정 최고혈중농도 (Cmax) ≈ 2.0 µg/mL — 중추신경계 (CNS) 역치(5 µg/mL)의 40%</span>
     </div>
   </div>
 </div>
 
 <!-- ══ LAST CASCADE ══ -->
 <div class="card">
-  <div class="card-label">LAST 진행 순서 — 혈중 리도케인 농도별</div>
+  <div class="card-label">국소마취제 전신독성 (LAST) 진행 순서 — 혈중 리도케인 농도별</div>
   <ul class="cascade">
     <li class="cstep">
       <span class="cs-conc">~3 µg/mL</span>
@@ -338,8 +338,8 @@ h1 {
       <span class="cs-conc">~5 µg/mL</span>
       <span class="cs-dot" style="background:#FBBF24"></span>
       <div class="cs-body">
-        <div class="cs-title">CNS 흥분기</div>
-        <div class="cs-desc">발작(경련), 근경련, 흥분 · CNS 독성 역치</div>
+        <div class="cs-title">중추신경계 (CNS) 흥분기</div>
+        <div class="cs-desc">발작(경련), 근경련, 흥분 · 중추신경계 (CNS) 독성 역치</div>
         <span class="cs-action">주입 즉시 중단</span>
       </div>
     </li>
@@ -347,7 +347,7 @@ h1 {
       <span class="cs-conc">~7 µg/mL</span>
       <span class="cs-dot" style="background:#FB923C"></span>
       <div class="cs-body">
-        <div class="cs-title">CNS 억제기</div>
+        <div class="cs-title">중추신경계 (CNS) 억제기</div>
         <div class="cs-desc">의식소실, 호흡억제 — 기도 확보 긴급</div>
         <span class="cs-action">기도 확보 + 119</span>
       </div>
@@ -358,7 +358,7 @@ h1 {
       <div class="cs-body">
         <div class="cs-title">심장 전도 장애</div>
         <div class="cs-desc">PR 연장, QRS 확장, 심실빈맥 · 심장 독성 역치</div>
-        <span class="cs-action">ILE 즉시 투여</span>
+        <span class="cs-action">지질에멀전 (ILE) 즉시 투여</span>
       </div>
     </li>
     <li class="cstep">
@@ -366,8 +366,8 @@ h1 {
       <span class="cs-dot" style="background:#DC2626"></span>
       <div class="cs-body">
         <div class="cs-title">심정지</div>
-        <div class="cs-desc">심실세동, CPR — 표준 ACLS는 리도케인에 반응하지만 뷰피바카인은 저항성</div>
-        <span class="cs-action">CPR + ILE + 119</span>
+        <div class="cs-desc">심실세동, 심폐소생술 (CPR) — 고급 심폐소생술 (ACLS)은 리도케인에 반응하지만 뷰피바카인은 저항성</div>
+        <span class="cs-action">심폐소생술 (CPR) + 지질에멀전 (ILE) + 119</span>
       </div>
     </li>
   </ul>
@@ -397,8 +397,8 @@ h1 {
     </table>
     <div style="margin-top:12px;padding:10px 12px;background:var(--teal-lt);border-radius:7px;font-size:12px;line-height:1.6;">
       <strong>카풀 규격:</strong> 1 카풀 = 1.8 mL · 2% 농도 = 20 mg/mL → <strong>36 mg/카풀</strong><br>
-      <strong>Cmax 기준선 (점막흡수, 에피 포함):</strong> 단일 IANB 1 카풀 → ~0.7–1.2 µg/mL<br>
-      → CNS 역치(5 µg/mL)까지 약 <strong>5배 안전 마진</strong> (Moore 2008, Karatassas 1993)
+      <strong>최고혈중농도 (Cmax) 기준선 (점막흡수, 에피 포함):</strong> 단일 하악신경차단 (IANB) 1 카풀 → ~0.7–1.2 µg/mL<br>
+      → 중추신경계 (CNS) 역치(5 µg/mL)까지 약 <strong>5배 안전 마진</strong> (Moore 2008, Karatassas 1993)
     </div>
   </div>
 
@@ -415,7 +415,7 @@ h1 {
         <tr>
           <td><strong>소아 (체중 기반 필수)</strong></td>
           <td>2% 리도케인 + 에피</td>
-          <td>AAG↓·미성숙 CYP450 → Cmax 성인보다 높음; 반드시 체중 기반 계산</td>
+          <td>α1-산성당단백 (AAG)↓·미성숙 사이토크롬 P450 (CYP450) → 최고혈중농도 (Cmax) 성인보다 높음; 반드시 체중 기반 계산</td>
         </tr>
         <tr>
           <td><strong>심혈관 질환</strong></td>
@@ -430,7 +430,7 @@ h1 {
         <tr>
           <td><strong>간기능 장애</strong></td>
           <td>아티카인 선호</td>
-          <td>혈장 에스테라제 85–90% 대사 → 간 CYP450 의존도 낮음</td>
+          <td>혈장 에스테라제 85–90% 대사 → 간 사이토크롬 P450 (CYP450) 의존도 낮음</td>
         </tr>
         <tr>
           <td><strong>아미드 알레르기 의심</strong></td>
@@ -448,10 +448,10 @@ h1 {
       <li><div><strong>기도 확보</strong> — 앙와위, 머리 젖히기, 필요시 보조 환기</div></li>
       <li><div><strong>119 호출</strong> — "국소마취제 독성 반응" 고지</div></li>
       <li><div><strong>발작 시</strong> — 벤조디아제핀 (가능한 경우); 체위 보호</div></li>
-      <li><div><strong>ILE 즉시 투여</strong> — 20% 지질 에멀전(Intralipid®) 준비되어 있다면</div></li>
+      <li><div><strong>지질에멀전 (ILE) 즉시 투여</strong> — 20% 지질 에멀전(Intralipid®) 준비되어 있다면</div></li>
     </ul>
     <div class="ile-box">
-      <div class="ile-title">💉 ILE (Intralipid 20%) 프로토콜 — ASRA 2020</div>
+      <div class="ile-title">💉 지질에멀전 (ILE, Intralipid 20%) 프로토콜 — 미국 부위마취학회 (ASRA) 2020</div>
       <div class="ile-dose">1.5 mL/kg IV 볼루스 (1분)</div>
       <div class="ile-sub">
         → 이후 0.25 mL/kg/min 지속 주입 × 30–60분<br>
@@ -461,7 +461,7 @@ h1 {
       </div>
     </div>
     <div style="margin-top:10px;padding:10px 12px;background:var(--warn-bg);border:1px solid var(--warn-bd);border-radius:7px;font-size:12px;color:var(--warn);line-height:1.7;">
-      <strong>현황 (Bakır 2026 서베이):</strong> 치과의사 0.5%만 ILE 세부 투여 지식 보유, 14.1%만 기관 비치 확인. ILE 키트 구비가 가장 시급한 준비 조치.
+      <strong>현황 (Bakır 2026 서베이):</strong> 치과의사 0.5%만 지질에멀전 (ILE) 세부 투여 지식 보유, 14.1%만 기관 비치 확인. ILE 키트 구비가 가장 시급한 준비 조치.
     </div>
   </div>
 
@@ -471,47 +471,47 @@ h1 {
       <thead><tr><th>비교 항목</th><th>2% 리도케인 + 에피</th><th>4% 아티카인 + 에피</th><th>2% 메피바카인 plain</th></tr></thead>
       <tbody>
         <tr>
-          <td>성공률 (IANB 신경차단)</td>
+          <td>성공률 (하악신경차단, IANB)</td>
           <td>기준 (78.6%<br><span style="font-size:10px">건강 성인, Panya 2025</span>)</td>
-          <td>동등 RR 1.06 NS<br><span style="font-size:10px">(Gong 2026 MA)</span></td>
-          <td>91.2% NS<br><span style="font-size:10px">(Panya 2025, 소규모)</span></td>
+          <td>동등 상대위험도 (RR) 1.06 유의차 없음 (NS)<br><span style="font-size:10px">(Gong 2026 메타분석, MA)</span></td>
+          <td>91.2% 유의차 없음 (NS)<br><span style="font-size:10px">(Panya 2025, 소규모)</span></td>
         </tr>
         <tr>
           <td>발현 시간</td>
           <td>기준 (5.17분)</td>
           <td>−0.27분 빠름</td>
-          <td>5.52분 (NS)</td>
+          <td>5.52분 (유의차 없음, NS)</td>
         </tr>
         <tr>
           <td>지속 시간</td>
           <td>기준 (~214분)</td>
           <td>+53.63분 (High 근거)</td>
-          <td>~234분 (NS)</td>
+          <td>~234분 (유의차 없음, NS)</td>
         </tr>
         <tr>
           <td>감각이상 위험</td>
           <td><span class="badge b-safe">낮음</span></td>
-          <td><span class="badge b-danger">7.3× 높음 (IANB)</span></td>
+          <td><span class="badge b-danger">7.3× 높음 (하악신경차단, IANB)</span></td>
           <td><span class="badge b-info">유사</span></td>
         </tr>
         <tr>
-          <td>LAST 위험 (흡수경로)</td>
+          <td>국소마취제 전신독성 (LAST) 위험 (흡수경로)</td>
           <td><span class="badge b-safe">낮음</span> 에피 혈관수축</td>
           <td><span class="badge b-warn">주의</span> 4% 고농도</td>
           <td><span class="badge b-danger">높음</span> 에피 無</td>
         </tr>
         <tr>
           <td>SIP 성공률 (변형 프로토콜)</td>
-          <td colspan="3" style="font-size:12px">아티카인 OR 4.18 vs 리도케인 OR 3.94 — CI 겹침, <strong>약제 간 차이 없음</strong> (Li 2025 MA, 16 RCT)</td>
+          <td colspan="3" style="font-size:12px">아티카인 교차비 (OR) 4.18 vs 리도케인 교차비 (OR) 3.94 — 신뢰구간 (CI) 겹침, <strong>약제 간 차이 없음</strong> (Li 2025 메타분석, MA, 16 무작위 대조 시험, RCT)</td>
         </tr>
       </tbody>
     </table>
-    <p style="font-size:11px;color:var(--muted);margin-top:10px;">SIP(증상성 비가역성 치수염) 성공률 핵심: 표준 2% 리도케인 단독 IANB 실패율 12–65%. 변형 프로토콜(보충 침윤·완충·전처치) OR 3.34 개선. 약제 전환이 아닌 프로토콜 수정이 핵심.</p>
+    <p style="font-size:11px;color:var(--muted);margin-top:10px;">증상성 비가역성 치수염 (SIP) 성공률 핵심: 표준 2% 리도케인 단독 하악신경차단 (IANB) 실패율 12–65%. 변형 프로토콜(보충 침윤·완충·전처치) 교차비 (OR) 3.34 개선. 약제 전환이 아닌 프로토콜 수정이 핵심.</p>
   </div>
 </div>
 
 <div class="footnote">
-  <strong>근거 출처:</strong> Panya 2025 (BMC Oral Health, RCT n=62) · Gong 2026 (BMC Anesthesiol, MA 36 RCT) · Li 2025 (Front Dent Med, SR+MA 16 RCT) · Moore 2008 · Karatassas 1993 · Neal 2018 ASRA · Klein 2016 · Lee 2024 · Bakır 2026 — 모두 LLM-Wiki 인제스트 완료. 이 계산기는 임상 보조 도구이며 의사 판단을 대체하지 않습니다.
+  <strong>근거 출처:</strong> Panya 2025 (BMC Oral Health, 무작위 대조 시험 RCT n=62) · Gong 2026 (BMC Anesthesiol, 메타분석 MA 36 RCT) · Li 2025 (Front Dent Med, 체계적 문헌고찰+메타분석 SR+MA 16 RCT) · Moore 2008 · Karatassas 1993 · Neal 2018 미국 부위마취학회 (ASRA) · Klein 2016 · Lee 2024 · Bakır 2026 — 모두 LLM-Wiki 인제스트 완료. 이 계산기는 임상 보조 도구이며 의사 판단을 대체하지 않습니다.
 </div>
 
 <script>
@@ -575,7 +575,7 @@ function update() {
   } else {
     banner.classList.add('banner-safe');
     sTitle.textContent = '안전 범위';
-    sBody.textContent  = `추정 Cmax ≈ ${cmaxEst} µg/mL — CNS 역치(5 µg/mL)의 ${(cmaxEst/5*100).toFixed(0)}%`;
+    sBody.textContent  = `추정 최고혈중농도 (Cmax) ≈ ${cmaxEst} µg/mL — 중추신경계 (CNS) 역치(5 µg/mL)의 ${(cmaxEst/5*100).toFixed(0)}%`;
   }
 }
 
