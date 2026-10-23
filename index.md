@@ -5222,7 +5222,19 @@ tags: []
 - [[drug/systemic-disease/shiraishi-2023-lidocaine-tape-application-prevent-vasovagal]] — Shiraishi 2023 · case-report · 정맥 천자 VVS 재발 2예에서 3시간 전 60% 리도카인 테이프로 VVS 없이 IV 확보; 대조군·정량자료 없고 대상은 진정용 천자(치과 LA 주사 아님) (abstract-only)
 - [[drug/systemic-disease/kawauchi-2025-vasovagal-syncope-with-sinus-arrest]] — Kawauchi 2025 · case-report · 22G 천자 중 서맥 시작 약 45초 후 동정지 + 3–5초 강직성 발작 2회(SBP 일시 76 mmHg), 흉부압박+아트로핀 0.5 mg으로 약 45초 만에 회복, 30–40/분 서맥은 에페드린 5 mg으로 안정; 정신과 5제 병용 — '양성' 통념의 반례 (PMC full text)
 
-## Synthesis (added 2026-10-23) — 치과 미주신경성 실신 종합 (15편: 역학·기전 3축·감별·예방·처치)
+## Batch ingest (added 2026-10-23) — vasovagal-syncope Tier C (8편: 발생률·감별·소아)
+
+### drug/systemic-disease
+- [[drug/systemic-disease/obata-2021-medical-emergencies-dental-treatment-incidence]] — Obata 2021 · retrospective · 오카야마대학병원 치과 외래 8년: 방문 **1,146,929건 중 응급 42건(0.0037%, 10만 방문당 3.66건)** — VVS 26건(61.9%)·탈수 9.5%·저혈당 9.5%, 발치 45.2%, 술전·술중·술후 17·12·13건, 90.5% 당일 귀가; 치과 VVS 문헌에 없던 **분모**를 제공(응급호출+정맥로 정의라 하한 추정치)
+- [[drug/systemic-disease/montebugnoli-1999-vasovagal-syncope-heart-transplant-dental]] — Montebugnoli 1999 · case-report · 심장이식(탈신경) 환자 3례의 치주수술 중 실신: SBP 137±5 → 76±3.6 mmHg인데 HR은 96.7±4.5 → 102.6±7.6/분으로 **서맥 없음** — 혈관억제형 실신이 원심성 미주신경 없이도 발생, 기전 논쟁을 제한 (abstract-only)
+- [[drug/systemic-disease/salins-1992-hypoglycemia-vasovagal-syncope]] — Salins 1992 · prospective(n=16) · 국소마취 발치 중 실신 시점 모세혈관 혈당이 회복 1시간 후보다 낮음(절대값 미보고); 저혈당이 미주신경 항진의 **결과**일 수 있다는 역인과 가설 — 저혈당 감별 페이지의 유일한 근거 (abstract-only)
+- [[drug/systemic-disease/sharma-2006-malignant-vasovagal-syncope]] — Sharma 2006 · case-report · 21세 남 치과 진료실 반복 의식소실 → 경사검사에서 장시간 무수축+전신 경련 = 악성 VVS → 디소피라미드 + 이중 chamber 인공심박동기 후 치료 완료; "양성"의 상한선을 보여주는 의뢰 기준 (abstract-only)
+- [[drug/systemic-disease/greene-2021-adrenaline-rush-vasovagal-la-injection]] — Greene 2021 · prospective(n=387, 비치과 수부·성형외과) · 2% 리도카인+1:100,000 에피 주입 후 아드레날린 러시 8명(2.2%) vs 미주신경성 반응 7명(1.8%) — 주입 순간의 교감신경성/미주신경성 감별과 허위 알레르기 방지
+- [[drug/systemic-disease/liu-2026-oral-emergency-critical-cases-retrospective]] — Liu 2026 · retrospective(n=92) · 중국 3차 병원 구강응급실 20년: 악안면 출혈 38.0%·심혈관사고 23.9%(합 61.9%), 상기도폐색 17예·VVS 13예(합 32.6%), 구조 성공 91.3%·사망 8예 — 병원 응급실 단계의 VVS 비중 (abstract-only)
+- [[drug/systemic-disease/kapusta-2008-vasovagal-syncope-children-adolescents]] — Kapusta 2008 · narrative-review · 소아·청소년 VVS는 드물지 않으나 치과계 인지도가 낮고 **소아 치과 세팅 발생률 자료가 희박**하다고 명시 — 수치 없이 소인 요인 제거·프로토콜 숙지만 권고 (abstract-only)
+- [[drug/systemic-disease/vranic-2016-medical-emergencies-pediatric-dentistry]] — Vranic 2016 · narrative-review · 소아 치과 응급을 약물(LA=독성, 페니실린=알레르기)·스트레스 매개 VVS·기저질환(천식·DKA·저혈당·발작)·이물흡인으로 분류하나 **빈도 수치 미보고** (abstract-only)
+
+## Synthesis (added 2026-10-23) — 치과 미주신경성 실신 종합 (18→26편: 역학·기전 3축·감별·예방·처치)
 
 - [[drug/systemic-disease/choufani-2025-lebanese-dentists-preparedness-to-deal]] — Choufani 2025 · cross-sectional · 레바논 치과의사 442명 전국 설문: 최근 12개월 응급 경험 161명 중 VVS 91명(56.5%) 1위·저혈당 55.9%·기립성 저혈압 54.0%; 응급키트 38.2%·제세동기 5.9%·스태프 교육 18.8% (smereka-2019의 2025년 대응물, PMC full text)
 - [[drug/systemic-disease/dellolio-2021-brugada-syndrome-perioperative-management-oral-surgery]] — Dell'Olio 2021 · case-report(n=3) · 브루가다 증후군 남성 3명: 국소마취제·불안·술후 통증이 부정맥 유발인자이므로 다학제 위험계층화(심장과 위험도·ASA·술식 시간·MDAS) 후 시행 — 의뢰 단계가 핵심, 초록 전용(용량·추적 미보고)
