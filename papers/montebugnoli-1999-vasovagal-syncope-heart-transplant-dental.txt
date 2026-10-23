@@ -1,0 +1,39 @@
+TITLE: Vasovagal syncope in heart transplant patients during dental surgery
+AUTHORS: Montebugnoli L, Testa S
+PUBMED_ID: 10397654
+YEAR: 1999
+DOI: 10.1016/s1079-2104(99)70157-5
+JOURNAL: Oral Surg Oral Med Oral Pathol Oral Radiol Endod
+FULL_TEXT: false (abstract-only — PubMed abstract retrieved 2026-10-23)
+
+===== PUBMED RECORD (verbatim) =====
+1. Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 1999 Jun;87(6):666-9. doi: 
+10.1016/s1079-2104(99)70157-5.
+
+Vasovagal syncope in heart transplant patients during dental surgery.
+
+Montebugnoli L(1), Montanari G.
+
+Author information:
+(1)Department of Emergency and Operative Dentistry, Clinica Odontoiatrica, 
+Bologna, Italy.
+
+The pathogenesis of vasovagal syncope during emotional stress is controversial. 
+Several authors have postulated that the vasodepressor response in humans may be 
+initiated by C-fiber mechanoreceptors situated in the heart and connected via 
+cardiac vagal afferents to the medullary center for cardiovascular control. It 
+has been argued that heart transplant patients cannot show any vasovagal 
+reaction because the donor heart is transplanted completely deprived of any 
+vagal or sympathetic innervation. In this report, however, 3 episodes of 
+vasovagal syncope are documented in 3 heart transplant patients undergoing 
+periodontal surgery. During vasovagal syncope in each of these patients, a 
+dramatic fall in systolic blood pressure (from 137 +/- 5 mmHg to 76 +/- 3.6 
+mmHg) was detected, but, in contrast to what is observable in normal subjects, 
+the heart rate did not show any relevant change (from 96.7 +/- 4.5 beats per 
+minute to 102.6 +/- 7.6 beats per minute). These unexpected findings emphasize 
+the marginal role of the heart on the pathogenesis of the vasovagal syncope and 
+underline the fact that a vasovagal reaction can develop even in the absence of 
+the bradycardia that is the primary symptom usually reported in the literature.
+
+DOI: 10.1016/s1079-2104(99)70157-5
+PMID: 10397654 [Indexed for MEDLINE]
