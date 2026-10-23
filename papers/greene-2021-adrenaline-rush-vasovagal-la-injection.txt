@@ -1,0 +1,103 @@
+TITLE: Incidence of the “Adrenaline Rush” and Vasovagal Response with Local Anesthetic Injection
+AUTHORS: Greene Bradley H. C., Lalonde Donald H., Seal Shane K. F.
+JOURNAL: Plastic and Reconstructive Surgery Global Open
+ID[pmcid]: PMC8225362
+ID[pmcid-ver]: PMC8225362.1
+ID[pmcaid]: 8225362
+ID[pmcaiid]: 8225362
+ID[pmid]: 34178562
+ID[doi]: 10.1097/GOX.0000000000003659
+
+## ABSTRACT
+Background:Many patients feel an “adrenaline rush” or a vasovagal reaction when injected with lidocaine and epinephrine during wide awake surgery. The incidence of these reactions is not well documented in the literature.
+Methods:In total, 387 patients were prospectively injected with lidocaine and epinephrine for minor procedures without sedation between July 1, 2019 and November 1, 2020. A concentration of epinephrine with 1:100,000 in 2% lidocaine was injected, with most patients getting less than 20 mL of volume.
+Results:Eight (2.2%) of the patients had adrenaline rush symptoms, which included nervousness, anxiety, tremors, shaky feelings, flushing, diaphoresis, light-headedness, tingling, and “heart racing.” Seven patients (1.8%) experienced vasovagal responses, which included nausea, a feeling of being unwell, faint, or lightheaded, or had circumoral pallor.
+Conclusions:Patients run a low risk of feeling an adrenaline rush or vasovagal reaction when injected with lidocaine and epinephrine. Routinely advising patients that the adrenaline rush can happen, and that this is not an allergic reaction can be helpful to allay fear of the unknown and to prevent false allergy beliefs. Injecting patients lying down may decrease the incidence of vasovagal reactions by increasing cerebral blood flow with the advantage of gravity.
+
+## INTRODUCTION
+
+Epinephrine (adrenaline) is usually injected with lidocaine to prolong the local anesthetic effect. The adrenaline vasoconstrictive effect also decreases bleeding, which eliminates the need for the tourniquet and sedation for extremity surgery.1–6 Epinephrine vasoconstriction also counteracts the lidocaine vasodilatation caused by its sympathectomy effect.7 Cardiovascular and central nervous system toxicities are well known for the drug and safe dosing is recommended.8–10
+
+Google defines an “adrenaline rush” as “a physical feeling of intense excitement and stimulation caused by the release of adrenaline from the adrenal glands.” Epinephrine, which stimulates the sympathetic nervous system, can cause several systemic side effects, including anxiety, nervousness, dizziness, palpitations, sweating, shortness of breath, flushing, chest pain, tremors, and nausea.11,12 Many of these patients go on to think they are allergic to the local anesthesia because these side effects are not explained to them. The incidence of the adrenaline rush after epinephrine injection has not been documented, to our knowledge.13
+
+Many patients also faint (vasovagal response) at the sight of a needle, the removal of a bandage, or even the discussion of a surgical procedure. Fainting is easily avoided and treated as described in this article. The incidence of vasovagal responses to simple local anesthetic procedures with lidocaine and epinephrine is also unclear in the literature.
+
+This study aimed to determine the percentage of patients who experience an adrenaline rush or vasovagal response after administration of typical lidocaine with epinephrine dosages for small local anesthetic procedures such as skin cancer removal and trigger finger surgery. The goal of this article is to give practitioners information to educate injected patients on these potential side effects before they occur so that patients will not think they are having allergic reactions, as well as how to avoid and treat vasovagal reactions.
+
+## METHODS
+
+Ethics approval was obtained from the Human Research Ethics Board of Newfoundland and Research Proposal Approval Committee at Eastern Health. Patients receiving an injection of lidocaine with epinephrine by a single surgeon (SS) for a local anesthetic procedure were asked to report any unusual symptoms after the injection of lidocaine with epinephrine. They were asked to explain their symptoms and their duration as best possible. The time from injection to the start of the procedure was also recorded.
+
+All patients received 2% lidocaine with 1:100,000 epinephrine. The volume ranged from 5 to 20 mL of anesthetic for most patients, with eight patients getting more than 20 mL. No patients were sedated. All injections included in the study were subcutaneous injections. All anesthetic solutions were maintained at room temperature.
+
+The sample size for this study was determined using the Cochran formula with a 95% confidence interval, a margin of error of 5%, and a standard of deviation of 0.5, resulting in 385 participants.
+
+Any patient requiring an injection with lidocaine with epinephrine in a single surgeon’s clinic was included in the study. Exclusion criteria included any patient under the age of 18 or with a history of adverse reactions to local anesthesia.
+
+## RESULTS
+
+In total, 387 participants were enrolled in the study. The mean age of participants was 56 ± 17, with a range of 18–94. There were 183 women (48.5%) and 194 men (51.5%). The remaining demographics of recorded variables are summarized in Table 1. Associations between rates of adrenaline rush were calculated for gender, age, anatomical location of injection/surgery, amount of local anesthetic injected, and the time from the initial injection to the start of surgery. Chi-squared test results for significance of association were calculated and are summarized in Table 2. Most procedures were skin lesion excisions, eyelid surgeries, or small hand surgery cases such as trigger fingers, carpal tunnels, and finger fracture reduction.
+
+[TABLE] Demographic Characteristics of Study Participants
+Overall | 8 | 369 | 387 (100) | —
+Gender |  |  |  | 
+Men | 4 | 190 | 194 (52) | 
+Women | 4 | 179 | 183 (48) | 0.93
+Age |  |  |  | 
+18–50 | 6 | 106 | 112 (30) | 
+50–95 | 2 | 254 | 256 (70) | 0.01
+Location* |  |  |  | 
+Head & neck | 3 | 202 | 205 (54) | 
+Upper extremity | 5 | 72 | 77 (20) | 
+Trunk | 0 | 17 | 17 (5) | 
+Lower extremity | 0 | 10 | 10 (3) | 0.05
+Amount (mL) |  |  |  | 
+0–9 | 3 | 177 | 180 (57) | 
+10–20 | 5 | 125 | 130 (41) | 
+20+ | 0 | 8 | 8 (2) | 0.43
+Time from injection |  |  |  | 
+0–10 | 2 | 228 | 230 (61) | 
+10+ | 6 | 140 | 146 (39) | 0.03
+
+[TABLE] Chi-squared Test Results for Participant Characteristics
+Gender | 0.007 | 1 | 0.933
+Age | 7.671 | 1 | 0.006
+Location | 9.572 | 4 | 0.048
+Amount | 1.674 | 2 | 0.433
+Time from injection | 4.502 | 1 | 0.034
+
+Of the 387 participants, 15 (3.9%) reported feeling adverse reactions other than the needlestick of local anesthetic injection.
+
+Eight patients (2.2%) were grouped as having adrenaline rush symptoms, which included nervousness, anxiety, tremors, shaky feelings, flushing, diaphoresis, light-headedness, tingling, and “heart racing.”
+
+Seven patients (1.8%) experienced nausea, a feeling of being unwell or lightheaded, or had circumoral pallor and claimed they may “faint.” These were determined to be vasovagal responses by the authors.
+
+## DISCUSSION
+
+Our study reports a 2.2% incidence of adrenaline rush type reactions such as excitement, flushing, diaphoresis, light-headedness, nausea, tingling, nervousness, and palpitations to lidocaine with 1:100,000 epinephrine injection. The senior author (DL) expected this number to be higher, but he frequently uses 30–50 mL of 1% lidocaine with 1:100,000 epinephrine in his practice. Most patients in this study (98%) only got 20 mL or less of 2% lidocaine with 1:100,000 epinephrine. Several studies have been published suggesting that the effect of epinephrine is concentration dependent.14–16 It makes sense that the more molecules of epinephrine you give to a patient, the more likely they are to get an adrenaline rush.
+
+Patients who get adrenaline rush symptoms frequently interpret them as an allergic response, especially if they get no education or explanation from the injector. To avoid this problem, and to prevent fear of the unknown, we tell all patients after lidocaine with epinephrine injection: “you may feel nervous, jittery, or shaky (like you have had too much coffee) in the next half hour because there is a little adrenaline in the freezing, and you may get a little “adrenaline rush.” If this happens, do not worry, be happy. You are not allergic to it, it is normal, and the rush feeling will go away all by itself in the next 30-60 minutes.”
+
+Our older patients (age >50) appeared less likely to get an adrenaline rush than our younger patients (age 18–50) (P = 0.006). It has been reported that sensitivity to catecholamines decrease with age.17,18 We also found that more patients had adrenaline rush if they were injected in the head and neck or upper extremity when compared with the lower extremity or the trunk (P = 0.048). It has been shown that different anatomical areas, with different vasculature, affects the action of lidocaine and epinephrine.19 Areas of greater blood flow will wash the lidocaine with epinephrine back out into the systemic circulation more quickly than areas of slower blood flow. The head and neck are well known to have excellent vascular supply. Recent reports suggest that the upper extremity has superior vascular supply to the trunk and lower extremity.20 Symptoms of an adrenaline rush had no association with gender or amount injection. However, amounts injected only exceeded 20 mL for eight patients. It is the authors’ belief that larger amounts would result in an increase in the number of patients experiencing adrenaline rush symptoms. More patients injected with larger amounts would be needed to confirm this.
+
+Even though the half life of intravascular epinephrine is only 1.7 minutes,21 the epinephrine rush does not start right away and can occur well beyond 10 minutes after injection. This is because catecho-o-methyl transferase and monoamine oxidase are two enzymes that rapidly break down epinephrine in plasma22 so that its half-life inside blood vessels is short. However, extravascular epinephrine degradation is much slower. The epinephrine molecules must first get into blood vessels either by diffusion or through the lymphatics to be broken down rapidly. You can frequently see white perilymphatic vasoconstriction tracks in the forearm for over an hour after you inject epinephrine into the hand (Figs. 1–3). This perilymphatic vasoconstriction takes several minutes after injection to occur because the epinephrine in the extravascular space must be transported up the lymphatics with slow lymphatic flow before being dumped into the rapidly flowing veins.
+
+[FIGURE] Perilymphatic epinephrine vasoconstriction 45 minutes after injection of 14 ml of 1% lidocaine with 1:100,000 epinephrine in the hand and fingers for Dupuytren’s contracture surgery.
+
+[FIGURE] Close up view of the forearm in the same patient as Figure 1.
+
+[FIGURE] Close up view of the hand in the same patient as Figures 1 and 2.
+
+The adrenaline rush after local anesthetic injection usually requires no treatment other than reassurance and time. For over 70 years, North American dentists have injected lidocaine with epinephrine in an average of many millions of patients per day with no monitoring, no intravenous insertion, and no preoperative testing and very few reported serious adverse reactions.7,23
+
+Seven of our 15 reactions (1.8%) were ruled to be a vasovagal response by the authors. The vasovagal attack is a stress-induced response of the autonomic nervous system, which results in decreased blood flow to the brain. Nature’s way of increasing blood flow to the brain is to counteract gravity by getting the head down to ground level with a loss of consciousness. The prodrome typically consists of nausea, circumoral or glabellar pallor, light-headedness, and a feeling of being “unwell.”24
+
+We avoid fainting by injecting patients in the lying rather than in the sitting position; so gravity is on our side to improve cerebral blood flow before we inject. Patients can still get vasovagal symptoms and faint when they are lying down. As soon as they tell us “I am not feeling well” or “I think I am going to be sick,” we observe circumoral or glabellar pallor, or see them yawning, we immediately perform three simple manoeuvres to get more blood to the brain and make the patients feel better within minutes25: (1) flex the hips and the knees so the 2 L of blood in the thighs goes to the brain, (2) take the pillow out from under the head and put it under the feet, and (3) tilt the stretcher with the head down and the feet up in the Trendelenberg position.
+
+Procedures that were conducted during this study include simple skin lesion excision (BCC’s, SCC’s, melanoma, nevi), lipoma excision, blephroplasties, entropion correction, ectropion correction, Xiaflex injection for Dupuytren’s disease, palmar fasciectomy, ganglion excision, ptosis correction, trigger finger release and closed reduction, and percutaneous pinning of a digit. Since all injections were done with a subcutaneous injection of local anesthetic, the authors decided to base association on anatomical area of injection rather than on the procedure itself.
+
+The main limitation of this study is the lack of objective measures of an “adrenaline rush.” The feeling is purely subjective. Epinephrine in a local anesthetic can cause transient elevation of the heart rate and blood pressure,26 but these may not necessarily be related to the adrenaline rush. In addition, our number of patients who got an adrenaline rush is modest. A larger series would have to be performed to gather more patients than we did to better understand the incidence and risk factors for the adrenaline rush. Another limitation is that we did not record the patient weight, which would also affect the distribution and intravascular concentrations of epinephrine.
+
+## CONCLUSIONS
+
+Approximately 2% of patients who get lidocaine with 1:100,000 epinephrine for minor surgical procedures subjectively feel an adrenaline rush, and another 2% get symptoms of a vasovagal response. Patients should be educated about the possibility and nature of the adrenaline rush before they get it, so that it does not cause unnecessary concern or create a false sense of “allergy.” If patients suffer vasovagal responses, it should be explained to them that this is also not an allergy, but a relatively common response to local anesthesia injection.
