@@ -1,0 +1,29 @@
+TITLE: Vasovagal syncope in children and adolescents
+AUTHORS: Kapusta R
+PUBMED_ID: 19284194
+YEAR: 2008
+DOI: 
+JOURNAL: Gen Dent
+FULL_TEXT: false (abstract-only — PubMed abstract retrieved 2026-10-23)
+
+===== PUBMED RECORD (verbatim) =====
+4. Gen Dent. 2008 May-Jun;56(4):340-5.
+
+Vasovagal syncope in children and adolescents.
+
+Kapusta R.
+
+Vasovagal syncope is not an uncommon event in children and adolescents; however, 
+this fact is not widely known among the dental community. Although there is 
+little information about the incidence of vasovagal syncope occurring among 
+children and adolescents in the dental setting, dentists should always take care 
+to eliminate factors that can predispose a patient to a vasovagal reaction. The 
+dental team should be familiar with the emergency protocols for a vasovagal 
+syncope episode. For this study, the author conducted a MEDLINE search using the 
+key terms "vasovagal syncope", "syncope in children", "syncope treatments", and 
+"syncope and dentistry" to define the pathophysiology, incidence, treatment 
+options, and dental implications of vasovagal syncope. The articles included 
+those published in English and in peer-reviewed journals, in addition to the 
+most recent medical and dental textbooks as they related to syncope.
+
+PMID: 19284194 [Indexed for MEDLINE]
