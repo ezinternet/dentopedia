@@ -1,0 +1,75 @@
+Evaluating Pain, Onset of Action, Duration, and Anesthetic Efficacy of Conventional and Buffered Lidocaine in Infiltration Anesthesia: A Comparative Clinical Study
+
+Hamad SA, Al-Dawoody AD, Alraad AS, Ahmed OS
+Journal of clinical and experimental dentistry. 2025 Oct 17;17(11):e1350-e1355.
+DOI: 10.4317/jced.63093
+PMID: 41459126  PMC: PMC12742648
+
+ABSTRACT
+
+Background: Buffered local anesthetics are proposed to alleviate injection pain, decrease onset time, and extend the duration of anesthesia. This research sought to evaluate the clinical effectiveness of buffered lidocaine compared to traditional lidocaine in patients having maxillary posterior teeth extraction due to chronic periapical lesions.
+
+Methods: Double-blind, prospective, RCT. 100 adults (ASA I-II), 18-60 years, maxillary posterior teeth extraction. Group A: conventional 2% lidocaine + 1:100,000 adrenaline (pH ~4.2). Group B: buffered 2% lidocaine + 1:100,000 epinephrine + 8.4% sodium bicarbonate (pH ~7.3-7.4). Supraperiosteal infiltration; 1.8mL per tooth. VAS for injection pain; onset to first numbness/tingling; duration to first analgesic request.
+
+Results:
+- VAS injection pain: Group B 2.8±0.7 vs Group A 4.2±0.9 (p<0.01)
+- Onset: Group B 2.3min vs Group A 4.7min (p<0.01)
+- Duration: Group B 45.8±7.6min vs Group A 36.4±8.2min (p<0.01)
+- Reinjection: Group A 8% vs Group B 4% (p=0.678, NS)
+
+Conclusion: Buffered lidocaine offers significantly better anesthetic efficacy: less injection pain, faster onset, extended duration. No difference in reinjection rate.
+
+METHODS
+
+Trial period: September 2024 to April 2025
+Institution: Hospital dental clinic, Kurdistan region
+Ethics: Kurdistan Board of Medical Specialties (No. 440, 29-08-2024)
+n=100, 50 per group
+Inclusion: 18-60y, ASA I-II, no local anesthetic allergy, maxillary posterior teeth with periapical lesions
+Exclusion: pregnant/lactating, systemic infection, multiple extraction requirement, analgesics/sedatives
+
+Buffering protocol:
+- Add 0.18mL of 8.4% NaHCO3 to 1.8mL 2% lidocaine 1:100,000 epi (1:10 ratio)
+- Prepared immediately before injection
+- Final pH: ~7.4 (vs conventional pH 4.2)
+
+Injection: 27-gauge needle, supraperiosteal, 1mL/min rate, single surgeon blinded to group
+Assessment by second blinded investigator
+
+RESULTS (DETAILED)
+
+Both groups comparable at baseline (age, gender, baseline pain scores).
+
+Injection pain (VAS):
+- Group B (buffered): 2.8 ± 0.7
+- Group A (conventional): 4.2 ± 0.9
+- p<0.01
+
+Onset of anesthesia:
+- Group B: 2.3 minutes
+- Group A: 4.7 minutes
+- p<0.01 (Group B 51% faster)
+
+Duration of anesthesia:
+- Group B: 45.8 ± 7.6 minutes
+- Group A: 36.4 ± 8.2 minutes
+- p<0.01 (Group B ~26% longer)
+
+Reinjection rate:
+- Group A: 8%
+- Group B: 4%
+- p=0.678 (NS)
+
+MECHANISM
+
+Conventional lidocaine pH ~4.2 → irritates tissue, activates nociceptors → injection pain
+Buffering with NaHCO3 raises pH to ~7.4 → closer to physiological pH →
+- More uncharged base form → faster nerve membrane penetration
+- Less tissue irritation → reduced injection pain
+- Reduced vasodilation from acidic solution → epinephrine vasoconstriction more effective → longer duration
+
+LIMITATIONS
+
+- Focus on maxillary posterior only; mandible, implants not studied
+- Fixed 1:10 NaHCO3 ratio
+- VAS only; no objective biomarkers
