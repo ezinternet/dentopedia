@@ -1,0 +1,37 @@
+Estimated Maximal Safe Dosages of Tumescent Lidocaine
+Klein JA, Jeske DR
+Anesthesia & Analgesia, 2016; 122(5):1350-1359
+PMID: 26895001 | PMCID: PMC4830750 | DOI: 10.1213/ANE.0000000000001119
+
+ABSTRACT:
+Tumescent lidocaine anesthesia consists of subcutaneous injection of relatively large volumes (up to 4 L or more) of dilute lidocaine (≤1 g/L) and epinephrine (≤1 mg/L). Although tumescent lidocaine anesthesia is used for an increasing variety of surgical procedures, the maximum safe dosage is unknown. Our primary aim in this study was to measure serum lidocaine concentrations after subcutaneous administration of tumescent lidocaine with and without liposuction. Our hypotheses were that even with large doses (i.e., >30 mg/kg), serum lidocaine concentrations would be below levels associated with mild toxicity and that the concentration-time profile would be lower after liposuction than without liposuction.
+
+METHODS:
+Volunteers participated in 1 to 2 infiltration studies without liposuction and then one study with tumescent liposuction totally by local anesthesia. Serum lidocaine concentrations were measured at 0, 2, 4, 6, 8, 10, 12, 14, 16, 18, and 24 hours after each tumescent lidocaine infiltration. Area under the curve (AUC∞) of the serum lidocaine concentration-time profiles and peak serum lidocaine concentrations (Cmax) were determined with and without liposuction. For any given milligram per kilogram dosage, the probability that Cmax >6 μg/mL, the threshold for mild lidocaine toxicity was estimated using tolerance interval analysis.
+
+RESULTS:
+In 41 tumescent infiltration procedures among 14 volunteer subjects, tumescent lidocaine dosages ranged from 19.2 to 52 mg/kg. Measured serum lidocaine concentrations were all <6 μg/mL over the 24-hour study period. AUC∞s with liposuction were significantly less than those without liposuction (P = 0.001). The estimated risk of lidocaine toxicity without liposuction at a dose of 28 mg/kg and with liposuction at a dose of 45 mg/kg was ≤1 per 2000.
+
+CONCLUSIONS:
+Preliminary estimates for maximum safe dosages of tumescent lidocaine are 28 mg/kg without liposuction and 45 mg/kg with liposuction. As a result of delayed systemic absorption, these dosages yield serum lidocaine concentrations below levels associated with mild toxicity and are a nonsignificant risk of harm to patients.
+
+KEY FINDINGS:
+- Toxicity threshold: 6 μg/mL = mild lidocaine toxicity (lightheadedness, paresthesias, tinnitus, blurred vision, nystagmus, ataxia, slurred speech, confusion)
+- FDA approved limit (7 mg/kg for infiltration) was established in 1948 for epidural anesthesia without supporting pharmacokinetic data
+- Linear relationship between mg/kg dose and Cmax: r² = 0.85 (without liposuction)
+- Tumescent infiltration absorption is highly delayed: Tmax = 13.1 h (without lipo), 12.5 h (with lipo)
+- At 45 mg/kg without liposuction: estimated risk of Cmax ≥6 μg/mL = 1/80 (significant)
+- At 28 mg/kg without liposuction: estimated risk <1/2000 (nonsignificant)
+- At 45 mg/kg with liposuction: estimated risk <1/2000 (nonsignificant)
+- AUC without liposuction = 56.2 μg·h/mL vs with liposuction = 40.7 μg·h/mL (28% less)
+- Liposuction removes ~28% of lidocaine before systemic absorption
+- Absorption profile resembles constant IV infusion: prolonged absorption = low Cmax despite high total dose
+- Epinephrine: intense vasoconstriction slows absorption and reduces Cmax
+- Drug interactions that reduce lidocaine metabolism (CYP3A4/1A2 inhibitors): erythromycin, sertraline, fluconazole, ciprofloxacin, propofol → require dose reduction
+
+TABLE 3 - Risk of Lidocaine Serum Concentration >6 μg/mL (99% Confidence):
+Without liposuction: 22.5 mg/kg = negligible risk; 35 mg/kg = very low; 45 mg/kg = 1/80; 55 mg/kg = higher
+With liposuction: 45 mg/kg = <1/2000; 52 mg/kg = low
+
+CLINICAL CONTEXT:
+This paper applies specifically to tumescent (dilute, large-volume, slow-infusion) local anesthesia. Standard dental lidocaine carpules (2% solution, bolus injection) have a fundamentally different pharmacokinetic profile — faster absorption, lower total dose, higher concentration per unit volume. The 6 μg/mL toxicity threshold is universal for lidocaine regardless of route.
