@@ -1,0 +1,70 @@
+TITLE: Use of intravenous lipid emulsions in drug-induced toxicities: a 2025 narrative review
+
+AUTHORS: Nendumba [et al.]
+
+JOURNAL: Ann Intensive Care 2025;15:article
+
+PMID: 41247632
+PMCID: PMC12623513
+DOI: 10.1186/s13613-025-01601-5
+
+--- ABSTRACT ---
+Intravenous lipid emulsions (ILE) were first proposed in 1998 as a treatment for bupivacaine-induced cardiac arrest. Since then, their use has expanded to include poisonings by various lipophilic drugs such as tricyclic antidepressants, calcium channel blockers, and antipsychotics.
+
+This 2025 narrative review explores the evolving pathophysiological mechanisms of ILE therapy, including the lipid sink and lipid shuttle theories, as well as non-scavenging cardiotonic effects such as membrane stabilization, mitochondrial support, and modulation of vascular tone.
+
+While clinical trials demonstrate potential benefits—particularly in tramadol, clozapine, and organophosphate poisonings—mortality reduction remains unproven, and evidence is limited by study heterogeneity and low methodological quality. Adverse effects include acute pancreatitis, interference with laboratory testing, and fat overload syndrome, especially at high infusion volumes.
+
+Current guidelines: ILEs as first-line treatment for LAST; second-line for beta-blockers, calcium channel blockers, tricyclic antidepressants.
+
+--- KEY MECHANISMS ---
+1. LIPID SINK THEORY (Weinberg 1998): ILE creates intravascular lipid phase that binds lipophilic compounds, reducing free plasma concentration
+2. LIPID SHUTTLE THEORY: Beyond sequestration, lipid phase redistributes lipophilic xenobiotics to less sensitive compartments (liver, adipose, muscle for detoxification)
+3. CARDIOTONIC EFFECTS (non-scavenging):
+   - Increased cardiac contractility, output, preload (intravascular volume expansion)
+   - Inhibition of NO-mediated vasodilation (linolenic acid component)
+   - Mitochondrial function support: inhibit carnitine-acylcarnitine translocase inhibition → sustain ATP β-oxidation
+   - Cell membrane stabilization, reversal of sodium channel blockade, calcium channel activation
+   - GSK-3β phosphorylation: reduced myocardial ischemia-reperfusion injury
+
+LIPOPHILICITY ORDER (log P): levobupivacaine 3.6 > bupivacaine 3.41 > ropivacaine 2.9 > lidocaine 2.44 > mepivacaine 1.95
+→ ILE most effective for highly lipophilic agents (bupivacaine, levobupivacaine)
+Note: Levine et al. (ToxIC sub-registry, n=134): no significant association between lipophilicity and survival (linear p=0.89; polynomial p=0.10)
+
+--- EVIDENCE SUMMARY ---
+Animal meta-analysis (Fettiplace 2020, 58 studies): ILE reduces mortality; pooled OR for death 0.26 (95% CI 0.16–0.44)
+- LAST models: OR 0.16 (0.10–0.33)
+- Non-LAST models: OR 0.43 (0.22–0.83)
+- Swine models: benefit only for LAST (not non-LA)
+
+RCT evidence (non-LAST):
+- Tramadol poisoning: improved GCS, shorter stay, lower seizure rates (Behnoush 2019–2021; Kazemifar 2017–2018)
+- Clozapine poisoning: improved GCS, reduced QTc prolongation (Elgazzar 2019–2020)
+- Organophosphate: improved GCS/MAP, reduced ventilation (Majeed; Yu meta-analysis 7 RCTs, n=630, OR cure 2.54, mortality OR 0.31)
+- OP poisoning (Pannu): no significant benefit
+- Aluminum phosphide (Elabordeen): reduced need for ventilation (36% vs 92%)
+
+LIPAEMIC registry (2009–2012, n=48): GCS median 4→8 in 30 min; 8 hemodynamic cases MAP 70→90 mmHg; confounders prevent attribution
+
+--- ADMINISTRATION PROTOCOL (ACMT) ---
+Bolus: 20% lipid emulsion 1.5 mL/kg over 2-3 min
+Second bolus if unsatisfactory
+Infusion: 0.25 mL/kg/min × 3 min → evaluate; if improved reduce to 0.025 mL/kg/min
+Maximum total dose: 10 mL/kg
+
+--- SIDE EFFECTS ---
+- Acute pancreatitis (triglycerides >900 mg/dL)
+- Laboratory interference (lipemia)
+- Fat overload syndrome (rare, mainly in neonates on parenteral nutrition)
+- Bronchospasm (rare)
+- ECMO/CVVH circuit occlusion
+- Epinephrine interaction: ASRA recommends limiting epi to 1 mcg/kg during LAST treatment with ILE
+
+--- GUIDELINES ---
+2021 ERC: ILE first-line for LAST; consider for beta-blockers, CCBs, TCAs
+2016 AACT: Strong recommendation (1D) for bupivacaine cardiac arrest
+2020 ASRA LAST checklist: Level IB strong recommendation
+2023 AHA: "20% IV lipid emulsion can be efficacious in LAST, especially bupivacaine"
+AHA advises against routine ILE for beta-blocker/CCB severe poisoning (ECMO clogging, pancreatitis risks)
+
+STUDY DESIGN: Narrative review; PubMed 1998–April 2024; includes RCTs, cohort studies, case series, animal studies, guidelines
