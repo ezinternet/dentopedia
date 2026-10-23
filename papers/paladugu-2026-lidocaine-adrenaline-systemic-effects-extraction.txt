@@ -1,0 +1,66 @@
+Effect of Local Anesthesia with and without Adrenaline on Blood Glucose Concentration, Blood Pressure, and Pulse Rate in Patients Undergoing Tooth Extractions: A Comparative Study
+
+Paladugu S, Vasundhar PL, Konidala U, Vasamsetty SN, Vijayalakshmi U, Rao NK
+Annals of African medicine. 2026;25(6):1656-1663.
+DOI: 10.4103/aam.aam_389_25
+PMID: 41612846  PMC: PMC13645265
+
+ABSTRACT
+
+Background: Local anesthesia is a fundamental component of dental procedures, particularly tooth extractions. The addition of adrenaline to local anesthetic solutions enhances anesthetic efficacy and prolongs its action, but may induce systemic changes, especially in blood pressure, pulse rate, and blood glucose levels.
+
+Aim: To compare the effects of local anesthesia with and without adrenaline on blood glucose concentration, blood pressure, and pulse rate in patients undergoing tooth extractions.
+
+Methods: Prospective, comparative clinical study, 5 months, 110 patients requiring tooth extraction. Group A: lignocaine 2% with adrenaline 1:80,000. Group B: lignocaine 2% plain. Parameters recorded: preanesthesia, 10min postanesthesia, immediately postextraction.
+
+Results: Group A exhibited significant increases in:
+- Systolic BP: 138.20±10.45 vs 126.75±8.45 mmHg (p<0.001)
+- Diastolic BP: 87.10±8.15 vs 79.85±7.10 mmHg (p<0.001)
+- Blood glucose: 112.85±12.34 vs 101.90±10.55 mg/dL (p<0.001)
+- Pulse rate: 88.40±7.20 vs 78.45±6.10 bpm (p<0.001)
+
+Conclusion: Adrenaline-containing local anesthesia during tooth extractions warrants cautious use, particularly in elderly or medically compromised patients.
+
+METHODS
+
+Study period: February to June 2025
+Institution: Siddharth Multi Speciality Dental Hospital, Vijayawada, Andhra Pradesh
+n=110, ASA I-II, aged 18-60, randomized 55/55
+Group A: lignocaine 2% + adrenaline 1:80,000 (vasoconstrictor)
+Group B: lignocaine 2% plain (no vasoconstrictor)
+Volume standardized: ≤2mL per patient
+All procedures by same experienced oral surgeon
+
+RESULTS (DETAILED)
+
+Blood pressure:
+- Baseline: Group A SBP 122.60±8.45, Group B 123.15±7.90 mmHg (NS, p=0.587)
+- 10min post-anesthesia: Group A 134.90±9.75 vs Group B 125.40±8.12 (p<0.001)
+- Post-extraction: Group A 138.20±10.45 vs Group B 126.75±8.45 (p<0.001)
+- Diastolic baseline: A 78.75±6.10, B 78.40±6.25 (NS)
+- Diastolic post-extraction: A 87.10±8.15 vs B 79.85±7.10 (p<0.001)
+
+Blood glucose:
+- Baseline: A 98.45±10.23 vs B 97.80±9.87 mg/dL (NS, p=0.612)
+- 10min post-anesthesia: A 110.30±11.45 vs B 100.25±10.12 (p<0.001)
+- Post-extraction: A 112.85±12.34 vs B 101.90±10.55 (p<0.001)
+
+Pulse rate:
+- Baseline: A 76.35±5.80 vs B 75.90±5.65 bpm (NS, p=0.635)
+- 10min post-anesthesia: A 86.25±6.75 vs B 77.80±5.90 (p<0.001)
+- Post-extraction: A 88.40±7.20 vs B 78.45±6.10 (p<0.001)
+
+Percentage changes from baseline (Group A vs Group B):
+- Blood glucose: +14.63% vs +4.19% (p<0.001)
+- Systolic BP: +12.69% vs +2.93% (p<0.001)
+- Diastolic BP: +10.60% vs +1.85% (p<0.001)
+- Pulse rate: +15.84% vs +3.36% (p<0.001)
+
+Multiple regression — predictors of postextraction physiological changes:
+- Adrenaline use: most significant predictor for all parameters
+  - Blood glucose: β=10.20 mg/dL (p<0.001)
+  - Systolic BP: β=11.45 mmHg (p<0.001)
+  - Diastolic BP: β=7.25 mmHg (p<0.001)
+  - Pulse rate: β=9.85 bpm (p<0.001)
+- Age: significant predictor for systolic BP (β=0.28, p=0.002) and diastolic BP (β=0.19, p=0.008)
+- Gender, BMI: not significant
