@@ -43,7 +43,7 @@ Buffering protocol is simple (bedside NaHCO3 addition, immediate use), low-cost,
 
 ## 세줄요약
 
-이중맹검 무작위 대조시험 (Randomized Controlled Trial, RCT) (n=100; 쿠르디스탄, 이라크; 2024–2025) — 완충 2% 리도케인 (pH ~7.4, 8.4% 탄산수소나트륨 (Sodium Bicarbonate, NaHCO3) 0.18mL + 카풀 1.8mL) vs 표준 리도케인 (pH ~4.2) 상악 후방부 발치 침윤마취 비교: 완충군에서 주사 통증 시각 통증 척도 (Visual Analogue Scale, VAS) 유의하게 낮음 (2.8 vs 4.2, p<0.01), 발현 시간 51% 단축 (2.3 vs 4.7분, p<0.01), 지속 시간 26% 연장 (45.8 vs 36.4분, p<0.01).
+이중맹검 무작위 대조시험 (Randomized Controlled Trial, RCT) (n=100; 쿠르디스탄, 이라크; 2024–2025) — 완충 2% 리도케인 (pH ~7.4, 8.4% 탄산수소나트륨 (Sodium Bicarbonate, NaHCO3) 0.18mL + 카풀 (carpule) 1.8mL) vs 표준 리도케인 (pH ~4.2) 상악 후방부 발치 침윤마취 비교: 완충군에서 주사 통증 시각 통증 척도 (Visual Analogue Scale, VAS) 유의하게 낮음 (2.8 vs 4.2, p<0.01), 발현 시간 51% 단축 (2.3 vs 4.7분, p<0.01), 지속 시간 26% 연장 (45.8 vs 36.4분, p<0.01).
 
 재주사율 차이 없음 (4% vs 8%, p=0.678) — 완충이 편안함·약동학 개선하지만 마취 실패 자체는 제거 못함.
 
