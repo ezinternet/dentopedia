@@ -1,0 +1,67 @@
+Articaine versus lidocaine inferior alveolar nerve block in posterior mandible implant surgeries: a randomized controlled trial
+
+Gülnahar Y, Alpan AL, Gülnahar E
+Medicina oral, patologia oral y cirugia bucal. 2023 Mar 1;28(2):e108-e115.
+DOI: 10.4317/medoral.25475
+PMID: 36806026  PMC: PMC9985933
+
+ABSTRACT
+
+Background: The aim of this study is to compare the effects of %4 articaine and %2 lidocaine on inferior alveolar nerve block (IANB) for implant surgery in the posterior mandible.
+
+Material and Methods: The patients who have inserted implants in the posterior mandible were divided into 2 groups for IANB: lidocaine and articaine. VAS = visual analog scale, pain during surgery and injection, lip numbness time, mandibular canal-implant apex distance, age, gender, bone density, implant number, release incision, adjacent teeth, and duration of surgery were analyzed using t-test, Mann-Whitney U test, Spearman's coefficient, and, Pearson's chi-squared test. This trial followed the recommendations of the Consort Statement for reporting randomized controlled trials.
+
+Results: 577 patients were included and 1185 dental implants were analyzed. There was no significant difference between the two groups in terms of injection and surgery VAS values (p>0.05). The lip numbness time of lidocaine was 3.06±3.22min while articaine was found to be 2.96±3.09min (p>0.05). Mandibular canal-implant apex distance was found to be 2.28±0.75mm in the articaine and 2.45±0.86mm in the lidocaine group (p<0.05). Release incision was made more in the articaine group (51/252) than in the lidocaine group (40/325) (p<0.05).
+
+Conclusions: There was no difference between the %4 articaine and %2 lidocaine in terms of pain perception in posterior mandible implant applications. Both anesthetics provided adequate anesthesia for implant application.
+
+Keywords: Articaine, dental implant, lidocaine, local anesthesia, mandibular nerve, pain perception.
+
+INTRODUCTION
+
+Local anesthesia (LA) is of great significance for modern medicine and dentistry. Inferior alveolar nerve block (IANB) is the most used anesthetic method for various dental procedures in the mandibular area. When applied successfully, IANB provides sufficient anesthesia over a large part of the posterior mandible for performing surgical and restorative dental procedures.
+
+Since 1949 lidocaine has been regarded as the golden standard of local anesthetic agents. Articaine is a common local anesthetic agent used in dentistry. Lidocaine is an amide compound based on a benzene ring. Articaine has a thiophene ring providing greater lipid solubility and increased efficiency. The lipid solubility of articaine can be four times higher than that of lidocaine.
+
+MATERIAL AND METHODS
+
+Study conducted between February 4, 2019, and March 7, 2022, at two university hospital clinics. Patients with ASA Class I and II who needed one or more implants in posterior mandible, at least 2mm distal to the mental foramen, were included.
+
+Group 1: 40mg/ml articaine HCl + 0.006mg/ml epinephrine HCl (Ultracain D-S, Sanofi)
+Group 2: 20mg/ml lidocaine HCl + 0.0125mg/ml epinephrine (Jetokain, Adeka)
+
+IANB applied via 27-G 50mm needle. 2mL capacity syringe. All anesthetic in the ampoule was injected. Patients needing second injection were excluded (57 patients, ~9% per group). Standard implant protocol followed.
+
+Primary outcome: VAS pain scale (0-10) during injection and surgery.
+Secondary outcomes: lip numbness time, mandibular canal-implant apex distance, release incision rate, bone density.
+
+RESULTS
+
+634 patients enrolled; 57 excluded for requiring second injection; 577 included.
+Articaine group: 252 patients, 2.19±0.74 implants/patient
+Lidocaine group: 325 patients, 2.4±0.77 implants/patient
+Total: 1185 dental implants analyzed
+
+VAS during injection: articaine median 1 (0-4) vs lidocaine median 1 (0-8); p=0.778 (NS)
+VAS during surgery: articaine median 1 (0-3) vs lidocaine median 1 (0-7); p=0.302 (NS)
+Lip numbness time: lidocaine 3.06±3.22min vs articaine 2.96±3.09min; p=0.678 (NS)
+Mandibular canal-implant distance: articaine 2.28±0.75mm vs lidocaine 2.45±0.86mm; p<0.05 (significant)
+Release incision: articaine 51/252 (20.3%) vs lidocaine 40/325 (12.3%); p<0.05 (significant)
+Bone density: no difference between groups
+
+Correlation findings:
+- Lidocaine: pain during injection correlated with pain during surgery (r=0.499, p=0.001)
+- Articaine: same correlation (r=0.353, p=0.001)
+- Longer anesthesia duration positively correlated with pain during surgery (r=0.139, p=0.028)
+
+DISCUSSION
+
+Both agents provided equivalent IANB anesthesia for posterior mandible implant surgery. Despite articaine group having implants placed closer to the mandibular canal and requiring more release incisions, pain perception was identical. Bone density did not affect pain perception.
+
+The thiophene ring of articaine provides theoretical advantages in bone penetration, but these advantages did not translate to better clinical outcomes in IANB (where direct nerve proximity is primary).
+
+pKa: articaine 7.8, lidocaine 7.9 - minimal difference.
+
+CONCLUSIONS
+
+No difference between 4% articaine and 2% lidocaine for IANB in posterior mandible implant surgeries. Both anesthetics provided adequate anesthesia for implant application.
