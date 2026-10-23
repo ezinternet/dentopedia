@@ -1,0 +1,53 @@
+TITLE: Emergency Preparedness for Local Anesthetic Systemic Toxicity in Dental Practice: Dentists' Knowledge, Awareness, and Institutional Availability of Lipid Emulsion Therapy
+
+AUTHORS: Bakır B, Kaya İ, [et al.]
+
+JOURNAL: Healthcare (Basel) 2026;14(14):2033
+
+PMID: 42512549
+PMCID: PMC13411979
+DOI: 10.3390/healthcare14142033
+
+--- ABSTRACT ---
+Objective: This study aimed to evaluate the knowledge and clinical awareness of local anesthetic systemic toxicity (LAST), preventive practices, knowledge of lipid emulsion therapy, and institutional availability among dentists actively practicing in Türkiye, and to examine the demographic and professional factors associated with knowledge level.
+Methods: Descriptive cross-sectional study using a 15-item online questionnaire. N=369 dentists in Türkiye. Data collected June–September 2025.
+Results:
+- 45.8% had basic knowledge of LAST; only 2.7% had detailed knowledge including management steps
+- 40.1% calculated LA dose by patient body weight; only 3.3% prepared an emergency response plan for LAST; 2.2% prepared to use lipid emulsion
+- Lipid emulsion knowledge: 59.1% low knowledge, 24.4% superficial, only 0.5% detailed knowledge of administration steps and dosing protocol
+- Institutional availability: 45.0% did not know if available, 40.9% unavailable, 14.1% available
+- Knowledge differed by professional status (H(2)=13.129; p=0.001; ε²=0.030) but effect size was small
+- No significant association between years of experience and knowledge level (ρ=0.020; p=0.702)
+Conclusions: Detailed knowledge of lipid emulsion administration steps remained limited. Institutional emergency preparedness needs strengthening.
+
+--- KEY FINDINGS ---
+PREVENTIVE PRACTICES (% of 369 participants):
+- Obtaining systemic disease/medication history: 74.8%
+- Slow injection with aspiration: 69.1%
+- Preferring infiltration over regional when appropriate: 53.7%
+- Calculating LA dose by body weight: 40.1%
+- Checking label/contents before EVERY administration: 33.3% (occasionally: 47.7%; never: 19.0%)
+- Preparing emergency response plan for LAST: 3.3%
+- Prepared to use lipid emulsion: 2.2%
+- No knowledge of LAST / no preventive measures: 18.7%
+
+LIPID EMULSION KNOWLEDGE:
+- No knowledge: 32.2%
+- Only heard of it: 26.8%
+- Detailed knowledge of administration + dosing: 0.5%
+
+INSTITUTIONAL AVAILABILITY:
+- Did not know: 45.0%
+- Unavailable: 40.9%
+- Available: 14.1%
+
+CLINICAL CONTEXT:
+- LAST: rare but potentially life-threatening complication from LA overdose, repeated administration, or inadvertent intravascular injection
+- Early symptoms: perioral/lingual numbness, metallic taste, dizziness, tinnitus
+- Progression: agitation, altered consciousness, respiratory depression, seizures, cardiac arrhythmias, cardiac arrest
+- ASRA 2020 LAST checklist: IV lipid emulsion (20%) as rescue — bolus + infusion
+- AHA 2020 CPR Guidelines: IV lipid emulsion reasonable in LAST, especially bupivacaine cardiac arrest
+- Inferior alveolar nerve block: positive aspiration rate up to 15.3%
+
+STUDY DESIGN: Cross-sectional survey; 369 dentists; Türkiye; online questionnaire; data June–September 2025
+Ethical approval: Dicle University Faculty of Dentistry IRB #2025-48
