@@ -1,0 +1,79 @@
+TITLE: Lipid emulsion treatment for local anesthetic systemic toxicity in pediatric patients: A systematic review
+
+AUTHORS: Lee SH, Kim S, Sohn JT
+
+JOURNAL: Medicine (Baltimore) 2024;103(11):e37534
+
+PMID: 38489714
+PMCID: PMC10939516
+DOI: 10.1097/MD.0000000000037534
+
+--- ABSTRACT ---
+Background: LAST is rare but fatal; lipid emulsion (LE) is the current widely used treatment. This systematic review analyzed case reports on LE treatment for LAST in pediatric patients (<19 years).
+Methods: PubMed + Scopus databases through March 31, 2023; keywords: LAST + pediatric + lipid emulsion/Intralipid; 21 cases selected.
+Results:
+- 43% patients <1 year old; most cases caused by bupivacaine (~67%)
+- Inadvertent intravascular injection by anesthesiologists: 52%; overdose mainly by surgeons: 24%
+- LAST in awake state 52% (mainly seizures) vs under GA 48% (mainly arrhythmia)
+- ~55% received LE <10 min after LAST; mainly improved cardiovascular symptoms
+- Recommended: 20% LE 1.5 mL/kg bolus + 0.25 mL/kg/min infusion
+- 20/21 patients fully recovered; 1 death (secondary carnitine deficiency from valproic acid)
+Conclusion: LE is effective in treating pediatric LAST.
+
+--- CASE SUMMARY (21 cases) ---
+AGE DISTRIBUTION:
+- <1 month: n=2; ≥1 month - <12 months: n=7 (total <1 year: n=9, ~43%)
+- Children: 1–12 years: n=6; Adolescents (13–18 years): n=6
+
+LOCAL ANESTHETICS CAUSING LAST:
+- Bupivacaine alone: n=11; Bupivacaine + lidocaine: n=3 (total bupivacaine: ~67%)
+- Levobupivacaine: n=2; Ropivacaine + lidocaine: n=2; EMLA (prilocaine + lidocaine): n=2; Mepivacaine: n=1
+
+ROUTES: Peripheral nerve block n=9 (mandibular nerve block n=1 by dentist), caudal block n=5, local infiltration n=2
+
+PRESUMED CAUSES:
+- Inadvertent intravascular injection: n=12 (by anesthesiologists n=11, by dentist n=1)
+- Overdose: n=7 (by anesthesiologists n=2, surgeons n=5)
+- Secondary carnitine deficiency (valproic acid): n=1
+- Accidental EMLA cream ingestion: n=1
+
+SYMPTOMS:
+- Arrhythmia/VT/QRS widening/bradycardia: n=14
+- Seizures: n=9
+- Hypoxia/apnea/respiratory depression: n=6
+
+LIPID EMULSION TREATMENT:
+- 20% LE 1.5 mL/kg bolus + 0.25 mL/kg/min infusion (most common protocol, ~42% of bolus+infusion cases)
+- Bolus only: n=8; Bolus + infusion: n=12; Not available: n=1
+- Improvement in cardiovascular symptoms alone: n=10; Both CV+CNS: n=5; CNS alone: n=4
+- Intralipid used in 15 patients (71%)
+- Time to LE: <5 min (n=8), 5-10 min (n=3); improvement: immediately (n=6), <4 min (n=4)
+
+OUTCOMES:
+- Full recovery: 20/21 (95.2%)
+- Death: 1 (Case #17: 6-year-old, secondary carnitine deficiency from valproic acid → impaired carnitine shuttle → decreased fatty acid β-oxidation → ATP deficit → bupivacaine toxicity amplified)
+
+SIDE EFFECTS: Case #6 → lipemic blood + elevated triglycerides (16,583 mg/dL) due to large LE dose (66 mL/kg)
+
+--- KEY CLINICAL POINTS ---
+PEDIATRIC RISK FACTORS FOR LAST:
+- Infants: reduced α1-acid glycoprotein, immature hepatic CYP450 → increased free LA fraction
+- Premature birth, low muscle mass, hepatic/cardiac disease → increased risk
+- α1-acid glycoprotein increases with age until 6 months
+
+MAX RECOMMENDED DOSES (mg/kg, without epinephrine):
+- Bupivacaine: 2 mg/kg; Levobupivacaine: 2 mg/kg; Ropivacaine: 3 mg/kg
+- Mepivacaine: 4.5 mg/kg; Lidocaine: 4.5 mg/kg (max 300 mg); Prilocaine: 6 mg/kg (max 400 mg)
+
+CARDIOTOXICITY RANKING: bupivacaine > ropivacaine > lidocaine
+"CC/CNS ratio" (cardiovascular collapse dose ÷ CNS toxicity dose): bupivacaine < levobupivacaine < ropivacaine (lower ratio = higher cardiotoxicity)
+
+LIPID SOLUBILITY (log P) ORDER: levobupivacaine 3.6 > bupivacaine 3.41 > ropivacaine 2.9 > lidocaine 2.44 > mepivacaine 1.95
+
+ILE MECHANISM: Lipid shuttle — creates multiple lipid compartments in circulation; absorbs lipophilic LAs from brain/heart → redistributes to liver/adipose/muscle for detoxification + storage. Bupivacaine benefits most (highest lipid solubility + cardiotoxicity).
+
+METHEMOGLOBINEMIA: Case #8 (4-month-old, EMLA cream overdose: lidocaine 1500 mg + prilocaine 1500 mg) → methemoglobin 22.8% → treated with methylene blue 1.5 mg/kg
+
+LIMITATIONS: 21 case reports only; positive publication bias; small sample; limited generalizability
+
+STUDY DESIGN: Systematic review; 21 case reports (pediatric <19 years); PubMed + Scopus through March 2023
