@@ -10,7 +10,14 @@ evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: internal
-tags: [local-anesthesia, ianb, articaine, buffered-lidocaine, supplementary-injection, topical-anesthetic, premedication, cclad, neurological-complications, accessory-innervation, overview]
+tags: [local-anesthesia, ianb, articaine, lidocaine, mepivacaine, buffered-lidocaine, supplementary-injection, topical-anesthetic, premedication, cclad, neurological-complications, accessory-innervation, anesthesia-success, sip, overview]
+relations:
+  - type: synthesizes
+    target: local-anesthesia/li-2025-anesthesia-protocols-symptomatic-irreversible-pulpitis-meta-analysis
+  - type: synthesizes
+    target: local-anesthesia/gong-2026-articaine-lidocaine-dental-anesthesia-meta-analysis
+  - type: synthesizes
+    target: local-anesthesia/panya-2025-lidocaine-mepivacaine-ianb-comparison-rct
 ---
 
 ## 한국어 핵심요약
@@ -24,13 +31,15 @@ tags: [local-anesthesia, ianb, articaine, buffered-lidocaine, supplementary-inje
 > - **IANB 실패 해부학**: 실패는 다인성 — 피질골 두께, 바늘 편향, 신경위치 파악 어려움, 부신경지배. 부신경지배 경로 3가지: 이설골근신경(Mylohyoid Nerve), 경부신경총(Cervical Plexus, C2–C3), 후구치관(Retromolar Canal, RMC, 유병률 16.12%). "입술 마비 있는데 치아 아프면" → 반복 IANB 아닌 부신경 의심 + 보충 전략.
 > - **CCLAD·STA 장치 편익 재조정**: 가장 엄격한 5군 RCT(Küçükkurt 2026, n=200)에서 5개 시스템 간 주사 통증강도 유의차 없음(p=0.380). 장치의 실질 이득은 "덜 아프다"가 아니라 "덜 무섭다(공포 감소)·보충마취 필요율 감소·소아 협조도 개선"에 있다.
 > - **신경학적 합병증**(본 페이지 신규 종합): 복시·안검하수·일과성 실명(중경막동맥→안동맥 우발 혈관내 확산), 4% articaine IANB의 감각이상(Paresthesia) 위험 7.3배(vs 2% lidocaine, Garisto 등), 안면신경마비(Bell's Palsy)가 IANB 후 가장 흔한 신경학적 합병증(Ghafoor 2023 서술적 리뷰). → 실제 발생률 추정은 불가; 기전·인식 수준으로 활용.
+> - **아티카인 vs 리도케인 성공률 동등** (Gong 2026 최대 규모 메타분석 (Meta-Analysis, MA), 36 RCT, 3,088례): 침윤·신경차단 두 술식 모두 성공률 유의차 없음 (RR 1.03 침윤; RR 1.06 신경차단); 아티카인 이점은 발현 빠름 (침윤 −1.34분)·지속 김 (신경차단 +53.63분, High 근거)에 국한 — "아티카인 = 더 높은 성공"이라는 임상 오해를 대규모 MA로 교정. 리도케인이 저렴하고 성공률 동등 → 비용 대비 기본값.
+> - **SIP 변형 프로토콜 정량화** (Li 2025 SR+MA, 16 RCT; Panya 2025 RCT n=62): 표준 하치조신경전달마취 (Inferior Alveolar Nerve Block, IANB) 대비 변형 프로토콜 OR 3.34 (95% CI: 2.49–4.48; I²=0%; 고질 근거); 약제별 — 4% 아티카인 OR 4.18 vs 2% 리도케인 OR 3.94 (CI 겹침; 약제 간 차이 없음); 건강 성인 IANB 기준선 성공률 78.6% (Panya 2025 실측) → SIP 실패율이 우연이 아닌 체계적 한계임을 수치로 확인.
 > - **임신·특수 환자**: 표준 2% lidocaine + 1:200,000 에피네프린(Epinephrine). 확진된 amide 알레르기는 드물며 diphenhydramine 기반 대체 가능. 진성 amide 알레르기 감별에서 보조제(방부제) 과민이 실제 원인인 경우 많음(Bina 2018).
 > - **한국 현황**: 2023년 기준 한국에는 치과 국소마취 임상진료지침이 공식적으로 부재 — 동일 JKDA 호에서 진정 가이드라인은 있으나 마취 가이드라인은 없음이 지적됨(Hwang 2023 position paper).
 > - **근거 한계**: 대부분 소규모 단일기관 RCT(n=28–200), hot tooth에 특화된 결과가 일반 처치에 적용 안 됨, 표면마취 3군 비교는 underpowered, 신경 합병증 발생률은 미정량.
 
 ## Three-line Summary
 
-The 37-paper local anesthesia category clusters into six thematic groups — mandibular anesthesia efficacy, buffered/modified agents, anatomic IANB failure, computerized/needle-free delivery, pre-injection topical/premedication, and safety/complications — each with its own topic overview; the dominant clinical principle across all clusters is that standard IANB alone frequently fails in symptomatic irreversible pulpitis, and the evidence-based response is either 4% articaine buccal infiltration as an equivalent primary alternative (RR 1.06; Saatchi 2025 SR+MA) or systematic escalation (preoperative ibuprofen >400 mg raises success from ~20% to ~79%; Khademi 2023 umbrella), supplementary/combined injection after failure (RR 2.02/1.86 vs IANB alone; Rujirawan 2025 Network MA), or intraosseous delivery (100% success; Park 2024).
+The 40-paper local anesthesia category clusters into six thematic groups — mandibular anesthesia efficacy, buffered/modified agents, anatomic IANB failure, computerized/needle-free delivery, pre-injection topical/premedication, and safety/complications — each with its own topic overview; the dominant clinical principle across all clusters is that standard IANB alone frequently fails in symptomatic irreversible pulpitis, and the evidence-based response is either 4% articaine buccal infiltration as an equivalent primary alternative (RR 1.06; Saatchi 2025 SR+MA) or systematic escalation (preoperative ibuprofen >400 mg raises success from ~20% to ~79%; Khademi 2023 umbrella), supplementary/combined injection after failure (RR 2.02/1.86 vs IANB alone; Rujirawan 2025 Network MA), or intraosseous delivery (100% success; Park 2024).
 
 Computerized/pressure-controlled delivery systems (CCLAD, The Wand, STA) do not reduce primary injection pain vs conventional syringe in the most rigorous trial (Küçükkurt 2026, n=200, p=0.380); their defensible benefits are dental anxiety reduction, decreased need for supplementary injections, and pediatric behavior management; topical pre-injection agents (benzocaine, lidocaine, EMLA) show no superiority over one another in the 2-minute contact window studied (Karkoutly 2024 RCT), while neurological complications (diplopia, Bell's palsy, paresthesia) are mechanism-level awareness points without reliable incidence estimates (Ghafoor 2023 narrative).
 
@@ -38,7 +47,7 @@ The unifying pharmacological foundation is acid–base chemistry: charged BH⁺ 
 
 ## 세줄요약
 
-국소마취 37편은 ① 하악 마취 효율 ladder, ② 완충·변형 마취제, ③ IANB 실패 해부학, ④ CCLAD·무침주사, ⑤ 전처치·표면마취, ⑥ 안전·합병증 6군으로 정리; 표준 IANB는 증상성 비가역 치수염(SIP)에서 자주 실패 → 4% articaine 협측침윤(RR 1.06, Saatchi 2025 SR+MA), 이부프로펜 >400 mg 전처치(위약 ~20% → ~79%; Khademi 2023 umbrella), 보충주사(RR 2.02, Rujirawan 2025 Network MA) 순으로 단계적 대응.
+국소마취 40편은 ① 하악 마취 효율 ladder, ② 완충·변형 마취제, ③ IANB 실패 해부학, ④ CCLAD·무침주사, ⑤ 전처치·표면마취, ⑥ 안전·합병증 6군으로 정리; 표준 IANB는 증상성 비가역 치수염(SIP)에서 자주 실패 → 4% articaine 협측침윤(RR 1.06, Saatchi 2025 SR+MA), 이부프로펜 >400 mg 전처치(위약 ~20% → ~79%; Khademi 2023 umbrella), 보충주사(RR 2.02, Rujirawan 2025 Network MA) 순으로 단계적 대응.
 
 CCLAD·STA는 주사 통증강도 무차이(Küçükkurt 2026, n=200, p=0.380) — 실질 이득은 공포 감소·보충마취 회피·소아 협조도; 표면마취 제제 간 2분 도포 시 차이 없음(Karkoutly 2024, underpowered); 신경 합병증(복시·Bell's palsy·감각이상)은 기전 수준 인식 — 발생률 미정량(Ghafoor 2023 서술적 리뷰).
 
@@ -89,6 +98,49 @@ Pre-injection topical agents aim to blunt needle-insertion pain. The wiki holds 
 [[local-anesthesia/cabral-2026-comparative-efficacy-anesthetic-techniques-periodontal]] (parallel, blinded RCT, n=76) refines Wambier for one specific comparison — Oraqix lidocaine/prilocaine intrapocket gel vs a computerized injectable device (Morpheus, 2% lidocaine + 1:100,000 epinephrine) during nonsurgical periodontal instrumentation. Here pain intensity was equal (NRS-11 median 0 vs 1, P>0.05, both mild), so the pain-intensity superiority Wambier found for injection did not replicate with this device pairing. But the rescue-anesthetic gap widened sharply: 100% of the gel group needed supplementary anesthesia vs 24% of the computerized group (P<0.001). The consistent signal across both studies is that intrapocket topical controls pain acceptably but is far less reliable — supplementary injection is frequently to universally required.
 
 **Current evidence bottom line**: No topical pre-injection agent is clearly superior to 20% benzocaine in the standard 2-minute application window; longer EMLA contact times may yield benefits not captured by current data. For standalone intrapocket topical anesthesia in SRP, pain control is adequate but injection retains an edge on pain intensity and a large edge on reliability — plan for supplementary anesthesia (24–100% of patients across studies).
+
+---
+
+## Agent Comparison — Articaine vs Lidocaine vs Mepivacaine (2025–2026 New Synthesis)
+
+Three new surveillance papers establish a clean empirical answer to the "which agent is better?" question.
+
+### Does articaine achieve higher success rates? No.
+
+**Gong 2026** ([[gong-2026-articaine-lidocaine-dental-anesthesia-meta-analysis]]) — the largest available MA (36 RCTs, 3,088 cases, PROSPERO-registered):
+
+| Technique | Articaine vs Lidocaine — Success (RR) | P | GRADE |
+|---|---|---|---|
+| Infiltration | RR 1.03 (0.98–1.08) | 0.30 | Moderate |
+| Nerve block | RR 1.06 (0.90–1.24) | 0.49 | Low |
+| Subgroup: lidocaine 1:100,000 epi (infiltration) | RR 1.02 (0.98–1.06) | 0.37 | — |
+| Subgroup: lidocaine 1:100,000 epi (nerve block) | RR 1.03 (0.88–1.20) | 0.72 | — |
+
+What articaine **does** provide: faster onset (infiltration −1.34 min; nerve block −0.27 min) and longer duration (infiltration +18.68 min; nerve block +53.63 min, **High** certainty). The nerve block duration advantage (53.63 min) is clinically meaningful for lengthy procedures or when post-op analgesia matters.
+
+**Cost-effectiveness implication**: if lidocaine is cheaper and success rates are equivalent, lidocaine is the cost-effective default. Articaine is justified when extended duration is the clinical goal or when bone density impedes infiltration.
+
+**Paresthesia note**: some pharmacovigilance datasets report 7.3× paresthesia risk with 4% articaine IANB vs 2% lidocaine. The RCTs in Gong 2026 are not powered for this rare adverse event — the risk signal stands even as success rate equality is confirmed.
+
+### What is the healthy-adult IANB baseline? 78.6%.
+
+**Panya 2025** ([[panya-2025-lidocaine-mepivacaine-ianb-comparison-rct]]) — double-blind RCT (n=62, Chulalongkorn University):
+- 2% lidocaine 1:100,000 epi IANB: **78.6%** success within 10 min (22/28; 95% CI: 60.5–89.8%)
+- 2% mepivacaine 1:100,000 epi IANB: 91.2% (31/34) — NS difference (p=0.161)
+- Onset (5.17 vs 5.52 min) and duration (214 vs 234 min) also NS
+- **Bottom line**: mepivacaine's presumed superiority is not supported in controlled conditions; lidocaine is cost-effective default
+
+**Why 78.6% matters**: it anchors the SIP failure rates below to a floor. In healthy adults, conventional IANB already fails ~1 in 5. In SIP, failure rates reach 12–65%.
+
+### How much do modified protocols help in SIP?
+
+**Li 2025** ([[li-2025-anesthesia-protocols-symptomatic-irreversible-pulpitis-meta-analysis]]) — SR+MA, 16 RCTs:
+- Modified protocols vs conventional IANB alone: OR **3.34** (95% CI: 2.49–4.48; I² = 0%; **high-quality evidence**)
+- Technique subgroup: IANB itself OR 4.03 > buccal infiltration
+- Agent subgroup: articaine OR 4.18 vs lidocaine OR 3.94 — **CIs overlap; no agent difference**
+- Practical read: the vehicle matters (IANB > BI), the agent does not (articaine = lidocaine in SIP)
+
+**Integration with prior wiki**: The Rujirawan 2025 Network MA (supplementary > IANB alone, RR 2.02) and Li 2025 tell consistent stories from different angles — modifying the protocol is the lever, not switching agents.
 
 ---
 
@@ -216,3 +268,6 @@ This gap means Korean practitioners must integrate:
 | 2% lidocaine + 1:200,000 epinephrine standard for pregnancy | [[local-anesthesia/zhou-2023-pregnancy-physiology-oral-local-anesthesia-review]] |
 | Korean guideline gap: LA has no CPG | [[local-anesthesia/hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry]] |
 | LA pharmacology framework | [[local-anesthesia/becker-2012-local-anesthetics-pharmacological-considerations]] |
+| Articaine vs lidocaine: success rates NS (infiltration RR 1.03; nerve block RR 1.06); onset/duration advantage for articaine | [[local-anesthesia/gong-2026-articaine-lidocaine-dental-anesthesia-meta-analysis]] |
+| SIP modified protocols OR 3.34 vs conventional IANB; articaine (OR 4.18) vs lidocaine (OR 3.94) — overlapping CIs | [[local-anesthesia/li-2025-anesthesia-protocols-symptomatic-irreversible-pulpitis-meta-analysis]] |
+| Healthy adult IANB baseline: lidocaine 78.6%, mepivacaine 91.2% — NS; mepivacaine superiority unconfirmed | [[local-anesthesia/panya-2025-lidocaine-mepivacaine-ianb-comparison-rct]] |
