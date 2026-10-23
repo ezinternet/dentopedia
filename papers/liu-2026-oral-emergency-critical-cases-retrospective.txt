@@ -1,0 +1,76 @@
+TITLE: Emergency treatment of critical cases in oral emergency department: a clinical retrospective study
+AUTHORS: Liu BZ
+PUBMED_ID: 42056033
+YEAR: 2026
+DOI: 10.3760/cma.j.cn112144-20260131-00073
+JOURNAL: Zhonghua Kou Qiang Yi Xue Za Zhi
+FULL_TEXT: false (abstract-only — PubMed abstract retrieved 2026-10-23)
+
+===== PUBMED RECORD (verbatim) =====
+7. Zhonghua Kou Qiang Yi Xue Za Zhi. 2026 Apr 30;61(5):655-660. doi: 
+10.3760/cma.j.cn112144-20260131-00073. Online ahead of print.
+
+[Emergency treatment of critical cases in oral emergency department: a clinical 
+retrospective study].
+
+[Article in Chinese; Abstract available in Chinese from the publisher]
+
+Liu BZ(1), Wang Z(1), Zhou LN(1), Liang YH(1).
+
+Author information:
+(1)Department of Oral Emergency, Peking University School and Hospital of 
+Stomatology & National Center of Stomatology & National Clinical Research Center 
+for Oral Diseases & National Engineering Research Center of Oral Biomaterials 
+and Digital Medical Devices, Beijing 100081, China.
+
+Objective: To investigate the disease types, clinical characteristics, and 
+emergency manage ment measures for critical cases in the oral emergency 
+department, and to provide a reference for improving the basic emergency rescue 
+capabilities of dental practitiers. Methods: A retrospellive analysis was 
+conducted on patients with complete medical records who were admitted to the 
+Department of Oral Emergency, Peking University School and Hospital of 
+Stomatology from January 2006 to September 2025. Basic information and rescue 
+data of the patients were collected, and the disease composition, key 
+characteristics of clinical treatment and disease outcome were studied and 
+analyzed. Results: A total of 92 patients were included, with an average age of 
+47 years (4 to 88 years, median 49 years). There were 62 male patients (67.4%) 
+and 30 female patients (32.6%). Among the critically ill patients who visited 
+the oral emergency department in the past 20 years, 61.9% were diagnosed with 
+maxillofacial hemorrhage and cardiovascular accidents, accounting for 38.0% 
+(35/92) and 23.9% (22/92) of the rescued patients, respectively, which were the 
+most common diagnoses in emergency rescue. The next most common were upper 
+airway obstruction in 17 cases and vasovagal syncope in 13 cases, accounting for 
+32.6% of the rescued patients. Among the 35 cases of maxillofacial hemorrhage, 
+20 patients (57.1%) had maxillofacial trauma, and 17 patients (48.6%) developed 
+hemorrhagic shock. The study observed that secondary hemorrhage and airway 
+obstruction caused by maxillofacial tumors were common causes of oral critical 
+rescue, accounting for 34.3% (12/35) and 12/17 of the hemorrhage and airway 
+obstruction cases, respectively. The study observed that 5 patients with airway 
+obstruction caused by space infection received emergency treatment, accounting 
+for 29.4% (5/17) of the airway obstruction patients. In the rescue work of oral 
+emergencies, electrocardiogram monitoring (98.9%, 91/92), oxygen inhalation 
+(96.7%, 89/92), and opening of venous access (78.3%, 72/92) were the most 
+commonly used supportive treatment techniques; tracheal intubation was the main 
+measure for respiratory system emergency rescue, followed by cricothyrotomy and 
+tracheotomy. All 15 patients with cardiac arrest received cardiopulmonary 
+resuscitation treatment, and 8 patients underwent defibrillation. Adrenaline was 
+the most frequently used drug in emergency rescue, mainly applied to patients 
+with cardiac arrest and anaphylactic shock, followed by nitroglycerin, 
+lidocaine, dopamine, aspirin, and midazolam. The rescue success rate of the 92 
+cases receiving emergency treatment was 91.3% (84/92), and 8 deaths included 3 
+cases of cardiac arrest caused by airway obstruction and 5 cases of respiratory 
+and circulatory failure. Conclusions: Dental practitioners should be able to 
+quickly identify medical emergencies and immediately carry out emergency rescue. 
+Oral departments should be equipped with relevant emergency drugs and equipment, 
+and medical staff should receive regular emergency skills training to improve 
+their ability to handle medical emergencies and enhance medical safety.
+
+Publisher: 目的： 研究口腔门急诊危重病例的疾病类型、特点及临床应对措施，为提高口腔科医师基本急救能力提供参考。 方法： 
+回顾性纳入2006年1月至2025年9月就诊于北京大学口腔医学院·口腔医院急诊科、病例资料完整的危急重症患者。收集患者的主要诊断、年龄、性别等基本信息及其抢救资料，研究和分析疾病构成、临床处置关键特点和疾病转归。 
+结果： 
+共纳入92例患者，中位年龄49岁（范围4~88岁）；男性患者62例（67.4%），女性30例（32.6%）。92例患者中，诊断为颌面部出血（35例）和心血管意外（22例）者共占61.9%（57/92），是急救患者中最常见的诊断；其次为上呼吸道梗阻（17例）和血管迷走性晕厥（13例），占抢救患者的32.6%（30/92）。35例颌面部出血病例中，颌面部创伤占57.1%（20/35），48.6%（17/35）出现了失血性休克。颌面部肿瘤继发出血和阻塞呼吸道是口腔危重症抢救的常见病因，分别占出血病例的34.3%（12/35）、呼吸道梗阻病例的12/17。5例接受急救的患者是间隙感染引起的呼吸道梗阻，占呼吸道梗阻患者的29.4%（5/17）。心电监护［98.9%（91/92）］、吸氧［96.7%（89/92）］、开放静脉通路［8.3%（72/92）］是口腔急症抢救中最常用的支持治疗技术；气管插管术是呼吸系统急救的主要措施。15例心脏骤停的患者全部接受了心肺复苏治疗，其中8例进行了电除颤。肾上腺素是急救中使用频率最高的药品，主要应用于心脏骤停和过敏性休克患者。92例病例抢救成功率为91.3%（84/92），8例死亡病例包括3例呼吸道梗阻导致心脏骤停，5例为呼吸循环衰竭。 
+结论： 
+口腔科医务人员应能迅速识别医疗紧急情况并立即开展急救。口腔科室应配备相关急救药品和设备，医务人员应定期接受急救技能的培训，提高处理医疗紧急情况的能力，提升医疗安全。.
+
+DOI: 10.3760/cma.j.cn112144-20260131-00073
+PMID: 42056033
