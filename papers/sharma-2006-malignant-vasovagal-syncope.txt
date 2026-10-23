@@ -1,0 +1,34 @@
+TITLE: Malignant vasovagal syncope
+AUTHORS: Sharma PR
+PUBMED_ID: 16756240
+YEAR: 2006
+DOI: 10.12968/denu.2006.33.4.246
+JOURNAL: Dent Update
+FULL_TEXT: false (abstract-only — PubMed abstract retrieved 2026-10-23)
+
+===== PUBMED RECORD (verbatim) =====
+5. Dent Update. 2006 May;33(4):246-8, 250. doi: 10.12968/denu.2006.33.4.246.
+
+Malignant vasovagal syncope.
+
+Sharma PR(1), Hargreaves AD.
+
+Author information:
+(1)Dental Department, Falkirk and District Royal Infirmary, Majors Loan, Falkirk 
+FK1 5QE, UK.
+
+We report the case of a 21-year-old male whose frequent episodes of loss of 
+consciousness in the dental surgery culminated in the postponement of treatment, 
+pending further investigation. The patient was referred to a cardiologist and 
+submitted to head-up tilt testing, which evoked prolonged asystole, associated 
+with loss of consciousness and mild generalized twitching, confirming a 
+diagnosis of malignant vasovagal syncope. Before dental treatment could be 
+completed, the patient was successfully treated with disopyramide and 
+dual-chamber pacemaker implantation.
+CLINICAL RELEVANCE: Dentistry can predispose patients to fainting (syncope or 
+vasovagal episode) owing to fear, pain, unusual sights and smells, anxiety, 
+fatigue and fasting, so knowledge of extreme forms of this response are of 
+relevance.
+
+DOI: 10.12968/denu.2006.33.4.246
+PMID: 16756240 [Indexed for MEDLINE]
