@@ -23,8 +23,11 @@ tags:
   - narrative-review
 relations:
   - type: extends
-    target: smereka-2019-preparedness-and-attitudes-towards-medical
+    target: drug/systemic-disease/smereka-2019-preparedness-and-attitudes-towards-medical
     note: "Carries the emergency aetiology frame from adult Polish dentists into the paediatric setting; supplies no frequencies where Smereka 2019 supplies 46.30% VVS"
+  - type: reinforces
+    target: drug/systemic-disease/kapusta-2008-vasovagal-syncope-children-adolescents
+    note: "Independent paediatric review reaching the same conclusion: VVS is the typical stress-mediated emergency and paediatric incidence data are scarce — two reviews agreeing narrows the gap to 'no primary data exist', not 'no one looked'"
 ---
 
 > abstract-only — PMC body not extractable
@@ -73,5 +76,6 @@ This Croatian narrative review addresses life-threatening medical emergencies ar
 ## Related Papers
 
 - [[drug/systemic-disease/smereka-2019-preparedness-and-attitudes-towards-medical]] — the frequency-ranking counterpart in adults (419 Polish dentists; VVS 46.30%, orthostatic hypotension 18.85%, hyperventilation 18.61%); this paper supplies the paediatric aetiology frame but no numbers.
+- [[drug/systemic-disease/kapusta-2008-vasovagal-syncope-children-adolescents]] — the paediatric VVS-specific companion review, which likewise states that incidence data in children are scarce; together they mark the paediatric frequency gap as unfilled, not merely unreviewed.
 - [[drug/systemic-disease/gebhardt-2019-anxiolytic-premedication-vasovagal-reactions]] — mechanism-level work on vasovagal reactions that this review only names as a stress response.
 - [[drug/systemic-disease/li-2026-syncope-in-dentistry-risk-factors]] — risk-factor evidence for syncope in dentistry, filling the quantitative gap this abstract leaves.

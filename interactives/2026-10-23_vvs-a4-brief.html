@@ -19,12 +19,12 @@
   .sheet{
     width:188mm; min-height:277mm; margin:0 auto; background:var(--bg);
     padding:0; display:flex; flex-direction:column;
-    font-size:8.8pt; line-height:1.4;
+    font-size:8.5pt; line-height:1.33;
   }
   @media screen{ body{ padding:12mm 0; } .sheet{ box-shadow:0 0 0 1px #d6dbe1, 0 2mm 6mm rgba(0,0,0,.07); } }
 
   /* ── header ── */
-  header{ border-bottom:2px solid var(--ink); padding-bottom:2.6mm; margin-bottom:3.2mm; }
+  header{ border-bottom:2px solid var(--ink); padding-bottom:2.2mm; margin-bottom:2.8mm; }
   .kicker{ font-size:6.8pt; letter-spacing:.14em; text-transform:uppercase; color:var(--accent); font-weight:700; }
   h1{ font-size:15pt; line-height:1.22; margin:1.4mm 0 1mm; letter-spacing:-0.015em; }
   h1 small{ display:block; font-size:8.4pt; font-weight:500; color:var(--sub); letter-spacing:0; margin-top:1mm; }
@@ -32,7 +32,7 @@
   .meta b{ color:var(--ink); font-weight:600; }
 
   /* ── flow strip ── */
-  .flow{ display:grid; grid-template-columns:repeat(5,1fr); gap:0; margin:0 0 3.4mm; border:1px solid var(--line); }
+  .flow{ display:grid; grid-template-columns:repeat(5,1fr); gap:0; margin:0 0 2.6mm; border:1px solid var(--line); }
   .flow .cell{ padding:1.8mm 2mm; border-right:1px solid var(--line); }
   .flow .cell:last-child{ border-right:0; }
   .flow .n{ font-size:13pt; font-weight:700; letter-spacing:-.02em; line-height:1; }
@@ -43,7 +43,7 @@
 
   /* ── columns ── */
   .cols{ display:grid; grid-template-columns:1fr 1fr; gap:5.5mm; flex:1; }
-  section{ margin-bottom:3mm; break-inside:avoid; }
+  section{ margin-bottom:2.2mm; break-inside:avoid; }
   h2{
     font-size:8.2pt; margin:0 0 1.4mm; padding-bottom:.9mm; border-bottom:1px solid var(--ink);
     display:flex; align-items:baseline; gap:1.6mm; letter-spacing:-.01em;
@@ -56,12 +56,12 @@
   em{ font-style:normal; color:var(--warn); font-weight:600; }
 
   ul{ margin:0; padding-left:3.2mm; }
-  li{ margin-bottom:.9mm; }
+  li{ margin-bottom:.5mm; }
   li::marker{ color:var(--accent); }
 
   table{ width:100%; border-collapse:collapse; font-size:7.7pt; margin:1mm 0 1.4mm; }
-  th{ text-align:left; font-weight:600; color:var(--sub); border-bottom:1px solid var(--line); padding:.9mm 1.2mm .9mm 0; font-size:6.8pt; }
-  td{ border-bottom:1px solid #eef1f4; padding:.9mm 1.2mm .9mm 0; vertical-align:top; }
+  th{ text-align:left; font-weight:600; color:var(--sub); border-bottom:1px solid var(--line); padding:.65mm 1.2mm .65mm 0; font-size:6.8pt; }
+  td{ border-bottom:1px solid #eef1f4; padding:.65mm 1.2mm .65mm 0; vertical-align:top; }
   td.num{ font-variant-numeric:tabular-nums; white-space:nowrap; }
   tr:last-child td{ border-bottom:0; }
 
@@ -95,7 +95,7 @@
   <header>
     <div class="kicker">LLM Wiki · 치과학 · 미주신경성 실신 클러스터</div>
     <h1>치과 미주신경성 실신(VVS) — 감시·인제스트·종합 결과 보고
-      <small>PubMed 감시 88건 → 15편 인제스트 → 18편 종합. “대개 양성”이라는 통념과 근거 수준 사이의 간격을 정리했다.</small>
+      <small>PubMed 감시 88건 → 큐 26건 → 23편 인제스트(Tier A·B·C 완료) → 26편 종합. “대개 양성”이라는 통념과 근거 수준 사이의 간격을 정리했다.</small>
     </h1>
     <div class="meta">
       <span><b>2026-10-23</b></span>
@@ -108,9 +108,9 @@
   <div class="flow">
     <div class="cell"><div class="n">88</div><div class="lbl">PubMed 검색(중복 0)</div></div>
     <div class="cell"><div class="n">26</div><div class="lbl">큐 등재 (OA:PMC 15)</div></div>
-    <div class="cell"><div class="n">15</div><div class="lbl">인제스트 (A6·B7·C2)</div></div>
-    <div class="cell acc"><div class="n">18<span>편</span></div><div class="lbl">종합 오버뷰 근거</div></div>
-    <div class="cell"><div class="n">1</div><div class="lbl">스킵 (레코드만 존재)</div></div>
+    <div class="cell"><div class="n">23</div><div class="lbl">인제스트 (A6·B7·C10)</div></div>
+    <div class="cell acc"><div class="n">26<span>편</span></div><div class="lbl">종합 근거(사전 3편 포함)</div></div>
+    <div class="cell"><div class="n">2</div><div class="lbl">스킵 (초록만·내용 부족)</div></div>
   </div>
 
   <div class="cols">
@@ -119,13 +119,13 @@
       <section>
         <h2><span class="no">01</span>역학 — “가장 흔하다”의 크기 <span class="tag">Y</span></h2>
         <table>
-          <tr><th>표본</th><th>값</th></tr>
+          <tr><th>표본(분모)</th><th>값</th></tr>
+          <tr><td>치과 외래 <b>1,146,929방문</b> (obata-2021)</td><td class="num"><b>42건 = 0.0037%</b> · VVS <b>61.9%</b> · 발치 45.2%</td></tr>
           <tr><td>폴란드 치과의사 419명</td><td class="num"><b>46.30%</b> (응급 중 1위)</td></tr>
           <tr><td>레바논 442명 · 응급 경험 161명</td><td class="num"><b>91명(56.5%)</b> 1위</td></tr>
-          <tr><td>2026 치과 고찰(li-2026)</td><td class="num">응급 삽화 <b>&gt;60%</b></td></tr>
+          <tr><td>병원 구강응급 중증 92예 (liu-2026)</td><td class="num">출혈 38.0%·심혈관 23.9% &gt; VVS <b>14.1%</b></td></tr>
         </table>
-        <p>두 국가 설문이 <b>1위를 재현</b>했지만 둘 다 자기보고·회상 기반이다. 46.3%(응급 중 비율)와 2%(내원 중 비율)는 모순이 아니라 <b>분모 차이</b>.</p>
-        <p>임상적으로 중요한 조합은 “흔한데 준비가 없다” — 응급키트 38.2%, <b>AED 5.9%</b>, 스태프 교육 18.8%, 아나필락시스 처치 자신 없음 55.13%.</p>
+        <p>세 층은 모순이 아니라 <b>분모가 다르다</b> — 방문 단위(0.0037%, “응급호출+정맥로” 정의라 <b>하한</b>) / 응급 삽화 중 비율(46–56%) / 응급실 중증(14.1%). obata의 술전 17건은 “주사 때만 조심”이 틀렸다는 것과 같은 방향이고, 임상적으로 중요한 조합은 <b>“흔한데 준비가 없다”</b> — 응급키트 38.2%·<b>AED 5.9%</b>·스태프 교육 18.8%, 아나필락시스 자신 없음 55.13%.</p>
       </section>
 
       <section>
@@ -139,6 +139,7 @@
           <b>TCR이면 1차 치료가 다르다</b> — 상악 제3대구치 발치 중 TCR 2예(맥박 33–42/분, 맥박 촉지 불가·무호흡)는 <b>15–40분 내 자연 회복</b>, 아트로핀 불필요. <b>기구·자극 중단</b>이 첫 처치.
         </div>
         <p>단순 발치에서도 심박수 <b>88.4 → 86.1 → 81.4 bpm</b>(세 쌍 모두 p=0.000, n=61)으로 <b>선행 상승 없이</b> 하강 — 실신은 0건. TCR 가설의 원출처(2010)는 <b>증거가 아니라 가설</b>이다.</p>
+        <p><b>서맥이 없어도 실신한다</b> — 심장이식(탈신경) 3례에서 SBP <b>137→76 mmHg</b>인데 HR은 <b>96.7→102.6/분</b>. “VVS = 서맥” 등식은 성립하지 않고, 이때 표적은 아트로핀이 아니라 체위·수액·에페드린이다.</p>
       </section>
 
       <section>
@@ -146,7 +147,9 @@
         <table>
           <tr><th>대상</th><th>결정 단서</th></tr>
           <tr><td>아나필락시스</td><td>피부증상 87% 동반이나 <b>13%는 없음</b> → 저혈압만으로 VVS 단정 금지</td></tr>
+          <tr><td>아드레날린 러시</td><td>심계항진·떨림·홍조, 서맥 없음 → 안심. 알레르기 오분류 시 허위 기록(2.2% vs 1.8%)</td></tr>
           <tr><td>심장성·채널병증</td><td>운동 중 실신·비정상 심전도·돌연사 가족력 → <b>의뢰</b></td></tr>
+          <tr><td>저혈당</td><td>회복이 비전형적이면 혈당 측정 — 저혈당이 vagal surge의 <b>결과</b>일 수도</td></tr>
           <tr><td>뇌관류저하 경련</td><td>동정지에 동반된 3–5초 강직성 발작 → 간질 오인</td></tr>
         </table>
         <p>Brugada 3예는 국소마취제·불안·술후 통증이 유발인자임을 보여준다 — 시행 시 <b>제세동 패드·12유도 심전도·정맥로</b> 준비, 6축 위험계층화 후 시술.</p>
@@ -178,19 +181,19 @@
           <tr><td>회복</td><td>1–2분 내 전형. <b>&gt;2분</b> 또는 완전회복 <b>&gt;15–20분</b>이면 다른 진단</td></tr>
         </table>
         <div class="callout warnbox">
-          <b>“눕히면 된다”의 반례</b> — 22G 천자 중 서맥 시작 <b>약 45초 후 동정지</b>, 3–5초 강직성 발작 2회, SBP 일시 76 mmHg. 흉부압박+아트로핀 0.5 mg으로 정지 후 약 45초에 회복. BIS는 서맥 <b>전에</b> 90→70대(단일 증례).
+          <b>“눕히면 된다”의 반례 둘</b> — ① 22G 천자 중 서맥 시작 <b>약 45초 후 동정지</b>, 3–5초 강직성 발작 2회, SBP 일시 76 mmHg. 흉부압박+아트로핀 0.5 mg으로 정지 후 약 45초에 회복, BIS는 서맥 <b>전에</b> 90→70대. ② 진료실 <b>반복</b> 실신이 경사검사 무수축으로 악성 VVS 진단 → 디소피라미드 + <b>인공심박동기</b> 후 치료 완료.
         </div>
       </section>
 
       <section>
         <h2><span class="no">06</span>남은 공백 <span class="tag">정직한 한계</span></h2>
         <ul>
-          <li><b>치과 시술별 정량 발생률</b> — 발치 1건·주사 1회당 발생률 자료 없음(46.3%와 2% 사이를 잇는 값).</li>
+          <li><b>시술 1건당 발생률</b> — 방문 분모는 생겼지만(obata), 발치 1건·주사 1회당 발생률은 아직 없다. 45.2%는 <b>구성비</b>이지 발생률이 아니다.</li>
           <li><b>예방적 글리코피롤레이트의 치과 RCT</b> — 존재 자체가 확인되지 않음. 백필로 채울 수 없는 축.</li>
-          <li><b>2017 ACC/AHA/HRS 권고등급</b> — 원문 유료, 서지 레코드만 확보(프레임만 인용 가능).</li>
-          <li><b>준비도 ↔ 실제 결과</b> — 역량 격차가 결과를 악화시키는지 측정한 연구 없음.</li>
+          <li><b>소아·청소년 발생률</b> — 두 고찰 모두 수치 미제시(kapusta는 “자료 희박” 명시). 성인 값을 외삽 금지.</li>
+          <li><b>준비도 ↔ 실제 결과</b> — 역량 격차가 결과를 악화시키는지 측정한 연구 없음. 2017 ACC/AHA/HRS는 서지 레코드만 확보.</li>
         </ul>
-        <p><b>다음 단계</b> — Tier C 10편 중 41640727(JDAPM 2026-02 치과 전용 알고리듬)만 처치 절을 강화할 후보. 나머지는 결론을 바꾸지 않는다.</p>
+        <p><b>다음 단계</b> — Tier C 큐 종결(스킵 2편은 출판사 PDF 확보 시 재검토). 남은 축은 시술 단위 발생률과 소아 데이터이며, 둘 다 기존 문헌 백필이 아니라 <b>신규 등재 감시</b>로만 채울 수 있다.</p>
       </section>
     </div>
   </div>
@@ -200,13 +203,13 @@
     <div class="vgrid">
       <div><b>① “눕히면 된다”는 95%</b>95%에서 맞다. 나머지를 위해 아트로핀 0.5 mg·에페드린 5 mg을 즉시 쓸 수 있게 두고, 무맥이면 지체 없이 CPR로 전환한다.</div>
       <div><b>② 예방은 하나로 말하지 않는다</b>통증 조절만 <span class="badge g">G</span>, 다리 술기 <span class="badge y">Y</span>(n=30), 전처치 <span class="badge y">Y</span>(비치과), 글리코피롤레이트 <span class="badge w">W</span>. 넷을 같은 무게로 인용하면 과대평가다.</div>
-      <div><b>③ TCR은 별도 축</b>발치 중 서맥·무호흡은 자극 중단이 1차 치료다. 고전 VVS의 체위·약물 프로토콜을 그대로 적용하면 원인을 놓친다.</div>
+      <div><b>③ 기전 라벨이 처치를 정한다</b>TCR은 자극 중단이 1차 치료. 서맥 없는 혈관억제형은 아트로핀이 아니라 체위·수액·에페드린. 라벨을 틀리면 첫 행동이 틀린다.</div>
     </div>
   </section>
 
   <footer>
-    <span>검증 · <span class="sig">lint 0 err</span> / <span class="sig">PII 14,026 파일 0 위반</span> / <span class="sig">qmd 색인 완료</span> / 커밋 <span class="sig">08f4843ee</span></span>
-    <span>근거는 인제스트된 18편에서만 · 수치 미확보 항목은 “미보고”로 표기</span>
+    <span>검증 · <span class="sig">lint 0 err</span> / <span class="sig">PII 14,051 파일 0 위반</span> / <span class="sig">qmd 색인 완료</span></span>
+    <span>근거는 인제스트된 26편에서만 · 수치 미확보 항목은 “미보고”로 표기</span>
   </footer>
 
 </div>

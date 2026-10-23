@@ -1394,15 +1394,15 @@ Found by manual PDF discovery (not the original scout search), 2026-07-25 — sa
       "A new hypothesis of cause of syncope: trigeminocardiac reflex during extraction of teeth." — Med Hypotheses
 - [x] PMID 36051807 | Case Series | OA:PMC PMC9426688 (cc by-nc-sa) | vasovagal-syncope | edat 2022 May-Aug — INGESTED 2026-10-23 → wiki/drug/systemic-disease/agarwal-2022-trigeminocardiac-reflex-during-maxillary-third
       "Trigeminocardiac reflex during maxillary third molar extraction: Our experience." — Natl J Maxillofac Surg
-- [ ] PMID 10397654 | Case Report | OA:none | vasovagal-syncope | edat 1999 Jun
+- [x] PMID 10397654 | Case Report | OA:none | vasovagal-syncope | edat 1999 Jun — INGESTED 2026-10-23 (abstract-only) → wiki/drug/systemic-disease/montebugnoli-1999-vasovagal-syncope-heart-transplant-dental
       "Vasovagal syncope in heart transplant patients during dental surgery." — Oral Surg Oral Med Oral Pathol Oral Radiol Endod
-- [ ] PMID 1437055 | Prospective (cross-sec) | OA:none | vasovagal-syncope | edat 1992 Nov
+- [x] PMID 1437055 | Prospective (cross-sec) | OA:none | vasovagal-syncope | edat 1992 Nov — INGESTED 2026-10-23 (abstract-only) → wiki/drug/systemic-disease/salins-1992-hypoglycemia-vasovagal-syncope
       "Hypoglycemia as a possible factor in the induction of vasovagal syncope." — Oral Surg Oral Med Oral Pathol
-- [ ] PMID 23635903 | Case Review | OA:none | vasovagal-syncope | edat 2013 Jan-Feb
+- [x] PMID 23635903 | Case Review | OA:none | vasovagal-syncope | edat 2013 Jan-Feb — SKIPPED 2026-10-23 (insufficient content: abstract = 2 sentences, no manifestations/management detail; payer body only)
       "Neurocardiogenic syncope of child dental patient: a case review." — Pediatr Dent
-- [ ] PMID 19284194 | Review | OA:none | vasovagal-syncope | edat 2008 May-Jun
+- [x] PMID 19284194 | Review | OA:none | vasovagal-syncope | edat 2008 May-Jun — INGESTED 2026-10-23 (abstract-only) → wiki/drug/systemic-disease/kapusta-2008-vasovagal-syncope-children-adolescents
       "Vasovagal syncope in children and adolescents." — Gen Dent
-- [ ] PMID 16756240 | Case Report | OA:none | vasovagal-syncope | edat 2006 May
+- [x] PMID 16756240 | Case Report | OA:none | vasovagal-syncope | edat 2006 May — INGESTED 2026-10-23 (abstract-only) → wiki/drug/systemic-disease/sharma-2006-malignant-vasovagal-syncope
       "Malignant vasovagal syncope." — Dent Update
 - [x] PMID 36995954 | Case Series | OA:PMC PMC10069530 | vasovagal-syncope | edat 2023 Mar 1 — INGESTED 2026-10-23 (abstract-only: PMC XML empty) → wiki/drug/systemic-disease/shiraishi-2023-lidocaine-tape-application-prevent-vasovagal
       "Lidocaine Tape Application for 3 Hours Prevents Vasovagal Syncope During Venipuncture: A Case Series." — Anesth Prog
@@ -1412,21 +1412,21 @@ Found by manual PDF discovery (not the original scout search), 2026-07-25 — sa
       "Influence of anxiolytic premedication on vasovagal reactions and home readiness following outpatient intrathecal anaesthesia-A retrospective analysis." — Acta Anaesthesiol Scand
 - [x] PMID 41523572 | Case Report | OA:PMC PMC12790449 (cc by) | vasovagal-syncope | edat 2025 Dec — INGESTED 2026-10-23 → wiki/drug/systemic-disease/kawauchi-2025-vasovagal-syncope-with-sinus-arrest
       "Vasovagal Syncope With Sinus Arrest Triggered by Venipuncture in a Patient Receiving Multiple Psychotropic Medications: A Case Report." — Cureus
-- [ ] PMID 37244725 | Review (case-based) | OA:none | vasovagal-syncope | edat 2023 Jul
+- [x] PMID 37244725 | Review (case-based) | OA:none | vasovagal-syncope | edat 2023 Jul — SKIPPED 2026-10-23 (insufficient content: abstract is framing only — no anxiety scale, monitoring, sedation choice, course or outcome)
       "A Patient with Severe Anxiety and Episodes of Fainting in Need of Dental Restoration." — Dent Clin North Am
-- [ ] PMID 33968415 | Retrospective | OA:PMC PMC8088391 (cc by-nc-nd) | vasovagal-syncope | edat 2021 Jan-Dec
+- [x] PMID 33968415 | Retrospective | OA:PMC PMC8088391 (cc by-nc-nd) | vasovagal-syncope | edat 2021 Jan-Dec — INGESTED 2026-10-23 (full text) → wiki/drug/systemic-disease/obata-2021-medical-emergencies-dental-treatment-incidence
       "Incidence and characteristics of medical emergencies related to dental treatment: a retrospective single-center study." — Acute Med Surg
-- [ ] PMID 34178562 | Prospective | OA:PMC PMC8225362 (cc by-nc-nd) | vasovagal-syncope | edat 2021 Jun
+- [x] PMID 34178562 | Prospective | OA:PMC PMC8225362 (cc by-nc-nd) | vasovagal-syncope | edat 2021 Jun — INGESTED 2026-10-23 (full text) → wiki/drug/systemic-disease/greene-2021-adrenaline-rush-vasovagal-la-injection
       "Incidence of the "Adrenaline Rush" and Vasovagal Response with Local Anesthetic Injection." — Plast Reconstr Surg Glob Open
 - [x] PMID 39110332 | Guideline | OA:PMC PMC11502568 (cc by) | vasovagal-guideline | edat 2024 Oct — INGESTED 2026-10-23 → wiki/drug/systemic-disease/wang-2024-guidelines-for-the-diagnosis-and
       "Guidelines for the diagnosis and treatment of neurally mediated syncope in children and adolescents (revised 2024)." — World J Pediatr
 - [x] PMID 28280231 | Guideline | OA:none | vasovagal-guideline | edat 2017 Aug 1 — INGESTED 2026-10-23 (abstract-only: paywalled) → wiki/drug/systemic-disease/shen-2017-acc-aha-hrs-guideline
       "2017 ACC/AHA/HRS Guideline for the Evaluation and Management of Patients With Syncope: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society." — Circulation
-- [ ] PMID 39034210 | Cross-sectional | OA:PMC PMC11806336 (cc by-nc-nd) | vasovagal-syncope | edat 2025 Feb
+- [x] PMID 39034210 | Cross-sectional | OA:PMC PMC11806336 (cc by-nc-nd) | vasovagal-syncope | edat 2025 Feb — INGESTED 2026-10-23 (full text) → wiki/drug/systemic-disease/choufani-2025-lebanese-dentists-preparedness-to-deal
       "Lebanese Dentists' Preparedness to Deal With Medical Emergencies in Their Clinics: A National Survey." — Int Dent J
-- [ ] PMID 42056033 | Retrospective | OA:none | vasovagal-syncope | edat 2026 Apr 30
+- [x] PMID 42056033 | Retrospective | OA:none | vasovagal-syncope | edat 2026 Apr 30 — INGESTED 2026-10-23 (abstract-only, Chinese-language) → wiki/drug/systemic-disease/liu-2026-oral-emergency-critical-cases-retrospective
       "[Emergency treatment of critical cases in oral emergency department: a clinical retrospective study]." — Zhonghua Kou Qiang Yi Xue Za Zhi
-- [ ] PMID 27688429 | Review | OA:PMC PMC5017275 | vasovagal-syncope | edat 2016 Mar
+- [x] PMID 27688429 | Review | OA:PMC PMC5017275 | vasovagal-syncope | edat 2016 Mar — INGESTED 2026-10-23 (abstract-only: PMC body not extractable) → wiki/drug/systemic-disease/vranic-2016-medical-emergencies-pediatric-dentistry
       "Medical Emergencies in Pediatric Dentistry." — Acta Stomatol Croat
-- [ ] PMID 34453905 | Case Series | OA:none | vasovagal-syncope | edat 2021 Nov
+- [x] PMID 34453905 | Case Series | OA:none | vasovagal-syncope | edat 2021 Nov — INGESTED 2026-10-23 (abstract-only) → wiki/drug/systemic-disease/dellolio-2021-brugada-syndrome-perioperative-management-oral-surgery
       "Brugada Syndrome Updated Risk Assessment and Perioperative Management in Oral Surgery: A Case Series." — J Oral Maxillofac Surg

@@ -5234,9 +5234,9 @@ tags: []
 - [[drug/systemic-disease/kapusta-2008-vasovagal-syncope-children-adolescents]] — Kapusta 2008 · narrative-review · 소아·청소년 VVS는 드물지 않으나 치과계 인지도가 낮고 **소아 치과 세팅 발생률 자료가 희박**하다고 명시 — 수치 없이 소인 요인 제거·프로토콜 숙지만 권고 (abstract-only)
 - [[drug/systemic-disease/vranic-2016-medical-emergencies-pediatric-dentistry]] — Vranic 2016 · narrative-review · 소아 치과 응급을 약물(LA=독성, 페니실린=알레르기)·스트레스 매개 VVS·기저질환(천식·DKA·저혈당·발작)·이물흡인으로 분류하나 **빈도 수치 미보고** (abstract-only)
 
-## Synthesis (added 2026-10-23) — 치과 미주신경성 실신 종합 (18→26편: 역학·기전 3축·감별·예방·처치)
+## Synthesis (added 2026-10-23) — 치과 미주신경성 실신 종합 (26편: 역학 3층 분모·기전 3축·감별·예방·처치)
 
 - [[drug/systemic-disease/choufani-2025-lebanese-dentists-preparedness-to-deal]] — Choufani 2025 · cross-sectional · 레바논 치과의사 442명 전국 설문: 최근 12개월 응급 경험 161명 중 VVS 91명(56.5%) 1위·저혈당 55.9%·기립성 저혈압 54.0%; 응급키트 38.2%·제세동기 5.9%·스태프 교육 18.8% (smereka-2019의 2025년 대응물, PMC full text)
 - [[drug/systemic-disease/dellolio-2021-brugada-syndrome-perioperative-management-oral-surgery]] — Dell'Olio 2021 · case-report(n=3) · 브루가다 증후군 남성 3명: 국소마취제·불안·술후 통증이 부정맥 유발인자이므로 다학제 위험계층화(심장과 위험도·ASA·술식 시간·MDAS) 후 시행 — 의뢰 단계가 핵심, 초록 전용(용량·추적 미보고)
 
-- [[overviews/dental-vasovagal-syncope-overview]] — 치과 VVS 종합: 응급의 46.30%(설문 n=419)·>60%(2026 고찰), LA가 삽화의 ~75% 유발·39%는 시술 전, 남자 청소년 2.69배; 기전 3축(Bezold–Jarisch / TCR=자극 중단이 1차 치료 / 정신성), 감별 4축(아나필락시스·LAST·심장성·저혈당), P–CAB–D(아트로핀 0.5 mg IV 최대 3 mg·에페드린 5 mg IV 최대 50 mg), 예방 근거 사다리(통증 조절만 RCT, 다리 술기 pilot, 전처치는 비치과 외삽, 글리코피롤레이트는 치과 RCT 없음), 동정지 반례(kawauchi-2025)
+- [[overviews/dental-vasovagal-syncope-overview]] — 치과 VVS 종합(26편): 방문 1,146,929건 중 응급 42건(0.0037%)·그중 VVS 61.9%·발치 45.2%(obata-2021, 하한) + 설문 46.30%(폴란드 419명)·56.5%(레바논 442명) + 병원 응급실 VVS 14.1%(liu-2026); LA가 삽화의 ~75% 유발·39%는 시술 전, 남자 청소년 2.69배; 기전 3축(Bezold–Jarisch / TCR=자극 중단이 1차 치료 / 정신성) + 탈신경 심장에서 서맥 없는 혈관억제형(montebugnoli-1999), 감별 6축(아나필락시스·LAST·심장성·채널병증·저혈당·아드레날린 러시), P–CAB–D(아트로핀 0.5 mg IV 최대 3 mg·에페드린 5 mg IV 최대 50 mg), 예방 근거 사다리(통증 조절만 RCT, 다리 술기 pilot, 전처치는 비치과 외삽, 글리코피롤레이트는 치과 RCT 없음), 반례 둘(동정지 kawauchi-2025 / 인공심박동기 sharma-2006)
