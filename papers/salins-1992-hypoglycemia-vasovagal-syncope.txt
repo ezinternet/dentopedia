@@ -1,0 +1,32 @@
+TITLE: Hypoglycemia as a possible factor in the induction of vasovagal syncope
+AUTHORS: Salins PC
+PUBMED_ID: 1437055
+YEAR: 1992
+DOI: 10.1016/0030-4220(92)90340-v
+JOURNAL: Oral Surg Oral Med Oral Pathol
+FULL_TEXT: false (abstract-only — PubMed abstract retrieved 2026-10-23)
+
+===== PUBMED RECORD (verbatim) =====
+2. Oral Surg Oral Med Oral Pathol. 1992 Nov;74(5):544-9. doi: 
+10.1016/0030-4220(92)90340-v.
+
+Hypoglycemia as a possible factor in the induction of vasovagal syncope.
+
+Salins PC(1), Kuriakose M, Sharma SM, Tauro DP.
+
+Author information:
+(1)A.B.S.M. Institute of Dental Science, University of Manglore, India.
+
+Glucose level was estimated in capillary blood of 16 patients, who had vasovagal 
+syncope during exodontia with local anaesthesia. One consistent finding was the 
+low blood sugar level in all patients during syncope, as compared with the level 
+1 hour after recovery. Hypoglycemia can be induced by parasympathetic 
+activation; this may be the product of reflex conditioning. Modest lowering of 
+blood sugar levels can also act in synergy with hypotension and hypocapnea to 
+induce loss of consciousness. Psychogenic syncope may be mediated through a 
+mechanism involving hypoglycemia. Reflex conditioning perhaps accounts for the 
+small but consistent fraction of the adult population who have repeated fainting 
+episodes.
+
+DOI: 10.1016/0030-4220(92)90340-v
+PMID: 1437055 [Indexed for MEDLINE]
