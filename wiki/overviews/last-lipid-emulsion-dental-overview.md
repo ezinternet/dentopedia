@@ -33,6 +33,14 @@ relations:
     target: local-anesthesia/moore-2010-local-anesthetics-pharmacology-toxicity
   - type: synthesizes
     target: drug/systemic-disease/gazal-2026-local-anesthetic-medically-compromised-review
+  - type: synthesizes
+    target: local-anesthesia/klein-2016-tumescent-lidocaine-estimated-maximal-safe-dosages
+  - type: synthesizes
+    target: local-anesthesia/neal-2018-asra-last-practice-advisory-executive-summary
+  - type: synthesizes
+    target: local-anesthesia/moore-2008-lidocaine-epinephrine-pk-phentolamine-reversal
+  - type: synthesizes
+    target: local-anesthesia/karatassas-1993-lignocaine-safety-hernia-elderly
 ---
 
 > [!summary] 한국어 핵심요약
