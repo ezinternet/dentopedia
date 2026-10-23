@@ -1,0 +1,220 @@
+TITLE: Incidence and characteristics of medical emergencies related to dental treatment: a retrospective single‐center study
+AUTHORS: Obata Kyoichi, Naito Hiromichi, Yakushiji Hiromasa, Obara Takafumi, Ono Kisho, Nojima Tsuyoshi, Tsukahara Kohei, Yamada Taihei, Sasaki Akira, Nakao Atsunori
+JOURNAL: Acute Medicine & Surgery
+ID[pmcid]: PMC8088391
+ID[pmcid-ver]: PMC8088391.1
+ID[pmcaid]: 8088391
+ID[pmcaiid]: 8088391
+ID[pmid]: 33968415
+ID[doi]: 10.1002/ams2.651
+ID[publisher-id]: AMS2651
+
+## ABSTRACT
+AimAlthough uncommon, medical emergencies arise in general dental practice. Inadequate data on their severity and frequency makes targeting medical education for general dental practitioners difficult. This also makes planning for unexpected events challenging for practitioners and makes collaborating with emergency physicians burdensome. We aimed to clarify the incidence and characteristics of a dental outpatient department’s medical emergencies.
+MethodsThis single‐center, retrospective, observational study was undertaken with patients who visited the dental outpatient department of Okayama University Hospital during the 8‐year period. The primary outcome of the study was to identify the incidence and characteristics of medical emergencies in the dental outpatient department. Then we examined the timing of medical emergencies, administered medications, and final disposition (home/admission).
+ResultsDuring the period, 1,146,929 patients were enrolled. Forty‐two patients (0.0037%) were consulted as medical emergencies. More than 60% of the incidents were vasovagal syncope, and dehydration and hypoglycemia were the second most prevalent at 9.5%. The most common types of dental treatments were tooth extraction (45.2%), followed by general dental treatment (28.6%), and other dental surgery such as implant placement (14.3%). Types of medical emergencies occurred equally before, during, and after dental treatment. Antihypertensive agents, sedatives, or glucose were used. For patients with emergencies, 90.5% recovered during the day and returned home, and 9.5% were hospitalized.
+ConclusionThe incidence of medical emergencies was low in our dental outpatient department. Knowledge of basic management principles, regular education for emergency care, and practicing first aid skills are mandatory for safe patient management.
+
+## Introduction
+
+Dental anxiety, which is the patient’s response to the stress specific to the dental situation, remains a challenge in managing oral health.
+1
+ In addition, dental treatment is often accompanied by a temporary decline in functions such as mastication, conversation, and swallowing during treatment. These emotional stresses, as well as drug interactions, medical therapy, and the patient’s general health condition can result in medical emergencies among all age groups during dental procedures. A previous paper reported that 19% to 44% of dentists had a patient with a medical emergency during any one year. Nearly 90% of these emergencies were regarded as mild, but 8% were considered severe and life threatening;
+2
+ however, the overall incidence of medical emergencies in outpatient dental departments has not been well documented, in particular regarding the recent dental clinical setting in Japan.
+
+As adequate management of dental office emergencies is the dentist’s obligation, and simultaneously, the emergency physician’s collaboration is the mission in medical emergencies, it is very important to clarify the whole picture of these incidents. Some general dentists do not have the detailed knowledge needed to handle medical emergencies and thus are not confident in diagnosing and treating emergency incidents. Dentists should know the signs, symptoms, diagnoses, and ways to collaborate with emergency physicians to treat medical emergencies. A paucity of training and inability to manage medical emergencies can result in calamitous outcomes and even lawsuits.
+3
+, 
+4
+
+Therefore, our study’s aim was to clarify the incidence and characteristics of a dental outpatient department’s medical emergencies and review the timing and other conditions of medical emergencies encountered by dentists. Our results could give a novel insight into emergencies in dental medicine, regarding possible adverse events in the current dental clinic.
+
+## Methods
+
+### Study settings
+
+This study was approved by our Institutional Review Board (2011‐028) with waiver of informed consent prior to data collection. This single‐center, retrospective, observational study was undertaken using the electronic medical records of patients who visited the dental outpatient department of Okayama University Hospital (Okayama, Japan) during the 8‐year period from April 1, 2012 to March 31, 2019. Okayama University Hospital is one of the “Advanced Treatment Hospitals” approved by the Minister of Health, Labor and Welfare in Japan with medical and dental facilities (50 departments and 853 beds, of which 12 departments and 20 beds are dental). In 2019, the dental department treated an average of 165,000 patients per year with 150 dental units. At the dental outpatient department of Okayama University Hospital, in the event of a sudden change in a patient’s condition related to dental treatment, the surrounding medical staff are called to gather for the emergency, and simultaneously, the emergency call system is used to convene emergency physicians and other medical providers.
+
+### Selection of participants
+
+The study included patients who required medical intervention necessitating emergency medical call and establishment of an i.v. line in the dental outpatient department. As establishing an i.v. line is our primary step when treating emergency cases, we extracted data on patients for whom an i.v. line was used from the electronic medical records. Each extracted case was then thoroughly reviewed by the authors. The following variables were extracted from the electronic medical records for included medical emergency cases: epidemiological information such as age, sex, presence or absence of underlying disease, type of medical emergency, time of onset, type of dental treatment, and outcome. To elucidate the timing of emergency calls for the outpatient department visits, patients were divided into three groups according to the time lines. The “before group” was defined as patients who had calls that occurred from the time of the scheduled dental treatment to start of treatment, the “during group” were patients who had calls that occurred from the beginning to the end of treatment, and the “after group” were patients with calls that occurred from the end of treatment to home/discharge.
+
+### Outcomes
+
+The primary outcome of the study was to identify the incidence and characteristics of medical emergencies in the dental outpatient department in our hospital. Then we examined times when medical emergencies occurred: before, during, and after dental treatment. Additionally, the detailed occupations of the practitioners who treated emergencies, administered medications, and the disposition (home/admission) of the patients were examined.
+
+### Data analysis
+
+Continuous variables were described using medians with interquartile ranges. Categorical variables were described with numbers and percentages. The Kruskal–Wallis test was used to compare continuous variables of the three groups. Fisher’s exact probability test was used to compare categorical variables. P < 0.05 was considered significant. The package SPSS 14.0 (SPSS, Chicago, IL, USA) and Excel (Microsoft, Redmond, WA, USA) were used for statistical analyses.
+
+## Results
+
+### Study participants and their characteristics
+
+During the 8‐year study period, 1,146,929 patients visited the Okayama University Hospital dental outpatient department. Overall, 42 patients (0.0037%) experienced medical emergencies needing at least emergency call and i.v. establishment. Detailed characteristics of the patients with medical emergencies are summarized in Table 1. Male patients were 40.4 (22–50) years old and female patients were 55.5 (36.5–76.5) years old. The male : female patient ratio was 1:1.1. Twenty‐four patients (57.1%) had underlying disease; hypertension was the most common (in six patients), followed by diabetes and heart disease (in five patients). Types of medical emergencies were vasovagal syncope in 26 cases (61.9%), cardiovascular failure from dehydration in four cases (9.5%), hypoglycemia in four cases (9.5%), seizure in three cases (7.1%), and unexpected bleeding during dental procedure in three cases (7.1%) (Table 2). Types of dental treatments were tooth extraction in 19 cases (45.2%), general dental treatment such as endodontic or prosthetic treatment in 12 cases (28.6%), and other dental surgery such as implant placement or maxillofacial trauma care in six cases (14.3%).
+
+[TABLE] Medical emergencies associated with dental treatment
+1 | 88 | F | Dementia | Vasovagal syncope | Before | Extraction | OS, DA, EP | LRS | −
+2 | 22 | M | None | Vasovagal syncope | During | Extraction | ON, OS | LRS | −
+3 | 22 | M | None | Vasovagal syncope | During | Extraction | ON, OS | LRS | −
+4 | 31 | F | None | Vasovagal syncope | During | Extraction | ON, DA | LRS | −
+5 | 38 | F | Gastric ulcer | Vasovagal syncope | During | Extraction | OS, DA | Ephedrine, atropine | −
+6 | 40 | M | None | Vasovagal syncope | During | Extraction | ON, OS | LRS, betamethasone | −
+7 | 47 | M | CHF | Vasovagal syncope | During | Extraction | ON, OS | LRS | −
+8 | 18 | M | None | Vasovagal syncope | After | Extraction | ON, OS | LRS | −
+9 | 23 | M | None | Vasovagal syncope | After | Extraction | ON, OS | LRS | −
+10 | 37 | M | None | Vasovagal syncope | After | Extraction | ON, OS | LRS | −
+11 | 46 | M | None | Vasovagal syncope | After | Extraction | ON, OS, EP | MS, metoclopramide | −
+12 | 38 | F | Anorexia nervosa | Vasovagal syncope | During | Other | ON, DA, EP | LRS | +
+13 | 29 | F | None | Vasovagal syncope | Before | Under examination for tumor | ON, OS | LRS | −
+14 | 84 | F | HT, HL, dementia | Vasovagal syncope | Before | Under examination for tumor | ON, OS | LRS | −
+15 | 71 | F | None | Vasovagal syncope | After | General dental treatment | ON, DA, EP | LRS | +
+16 | 47 | F | Depression | Vasovagal syncope | Before | General dental treatment | ON, OS | LRS | −
+17 | 75 | F | SAS, cholecystitis | Vasovagal syncope | Before | Other dental surgery | ON, OS | LRS | −
+18 | 15 | M | None | Vasovagal syncope | After | Other dental surgery | ON, OS | MS, metoclopramide | −
+19 | 45 | F | HL | Vasovagal syncope | After | Under examination for tumor | ON, OS | MS | −
+20 | 26 | F | None | Vasovagal syncope | Before | Other dental surgery | ON, EP | MS | +
+21 | 47 | M | DM, HT, CKD, AP | Vasovagal syncope | Before | Other dental surgery | ON, EP | ARS | −
+22 | 51 | F | None | Vasovagal syncope | During | General dental treatment | ON, DA, EP | LRS | −
+23 | 84 | F | AP | Vasovagal syncope | Before | General dental treatment | EP | LRS | −
+24 | 80 | M | DM, HT, osteoporosis, DVT | Vasovagal syncope | During | General dental treatment | ON, DA, EP | LRS | −
+25 | 36 | F | None | Vasovagal syncope | During | Other dental surgery | ON, EP | ARS | −
+26 | 79 | M | PAC, epilepsy, DM, dementia | Vasovagal syncope | After | General dental treatment | DA, EP | LRS | −
+27 | 62 | M | HT, HL | Hypoglycemia | Before | Extraction | ON, OS | LRS | −
+28 | 59 | M | DM, cirrhosis | Hypoglycemia | Before | General dental treatment | ON, DA | LRS, glucose | −
+29 | 64 | F | DM, hyperthyroidism | Hypoglycemia | During | General dental treatment | ON, DA | LRS, glucose | −
+30 | 44 | M | Schizophrenia | Hypoglycemia | Before | General dental treatment | ON, DA | LRS, glucose | −
+31 | 18 | M | None | Dehydration | After | Extraction | ON, OS | MS | −
+32 | 21 | F | None | Dehydration | After | Extraction | ON, OS | LRS | −
+33 | 26 | M | None | Dehydration | After | Extraction | ON, OS | LRS | −
+34 | 83 | F | AS | Dehydration | Before | Extraction | ON, OS | LRS | −
+35 | 36 | M | MR, epilepsy | Seizure | Before | Extraction | ON, DA | LRS, midazolam | −
+36 | 55 | F | Epilepsy | Seizure | Before | General dental treatment | ON, DA, EP | LRS, diazepam | −
+37 | 66 | M | Oropharyngeal cancer | Seizure | Before | Other | ON, OS | LRS | +
+38 | 22 | M | None | Unexpected bleeding | After | Extraction | ON, OS, EP | LRS | −
+39 | 84 | F | HT, HL, CI, osteoporosis | Unexpected bleeding | Before | Extraction | ON, OS | LRS | −
+40 | 77 | F | gingival cancer | Unexpected bleeding | After | Other dental surgery | ON, OS | LRS | −
+41 | 73 | F | HT, hepatitis C | Other | During | General dental treatment | ON, DA | LRS, midazolam | −
+42 | 22 | F | Epilepsy | Other | Before | General dental treatment | EP | LRS | −
+
+[TABLE] Classification of medical emergencies in the dental outpatient department
+Vasovagal syncope | 26/42 (61.9)
+Dehydration | 4/42 (9.5)
+Hypoglycemia | 4/42 (9.5)
+Seizure | 3/42 (7.1)
+Unexpected bleeding | 3/42 (7.1)
+Other | 2/42 (4.8)
+
+### Timings of medical emergencies
+
+Table 3 summarizes differences in the timing of medical emergencies. There were 17 patients in the before group, 12 patients in the during group, and 13 patients in the after group. Patients in the before group were older than those in the after group (59 versus 26 years old; P = 0.030). There were no significant differences in the male : female patient ratio among the three groups. There were more patients with underlying disease in the before group than in the after group (88.2% versus 15.4%; P < 0.001). There were no significant differences in the types of dental treatments among the three groups. There were also no significant differences in the types of medical emergencies among the three groups.
+
+[TABLE] Comparison of timing of medical emergencies in the dental outpatient department (n = 42)
+n | 42 | 17 | 12 | 13 | 
+Age, years
+Median (IQR) | 45.5 (26.8–69.8) | 59 (44–83) | 39 (34.8–54.3) | 26 (21–46) | 0.030
+Gender (%)
+Male | 20 (47.6) | 6 (35.3) | 5 (41.7) | 9 (69.2) | 
+Female | 22 (52.4) | 11 (64.7) | 7 (58.3) | 4 (30.8) | 0.197
+Underlying disease (%)
++ | 24 (57.1) | 15 (88.2) | 7 (58.3) | 2 (15.4) | 
+− | 18 (42.9) | 2 (11.8) | 5 (41.7) | 11 (84.6) | <0.001
+Dental treatment (%)
+Extraction | 19 (45.2) | 4 (23.5) | 7 (58.3) | 8 (61.5) | 0.072
+General dental treatment | 12 (28.6) | 6 (35.3) | 4 (33.3) | 2 (15.4) | 0.476
+Other dental surgery | 6 (14.3) | 3 (17.6) | 1 (8.3) | 2 (15.4) | 0.867
+Under examination for tumor | 3 (7.1) | 2 (11.8) | 0 (0.0) | 1 (7.7) | 0.769
+Other | 2 (4.8) | 2 (11.8) | 0 (0.0) | 0 (0.0) | 0.325
+Medical emergency (%)
+Vasovagal syncope | 26 (61.9) | 8 (47.1) | 10 (83.3) | 8 (61.5) | 0.148
+Hypoglycemia | 4 (9.5) | 3 (17.6) | 1 (8.3) | 0 (0.0) | 0.284
+Dehydration | 4 (9.5) | 1 (5.9) | 0 (0.0) | 3 (23.1) | 0.165
+Seizure | 3 (7.1) | 3 (17.6) | 0 (0.0) | 0 (0.0) | 0.103
+Unexpected bleeding | 3 (7.1) | 1 (5.9) | 0 (0.0) | 2 (15.4) | 0.473
+Other | 2 (4.8) | 1 (5.9) | 1 (8.3) | 0 (0.0) | 0.743
+
+### Detailed occupations of practitioners, medications, and final disposition
+
+The staff who treated medical emergencies were mainly oral surgeons, emergency physicians, dental anesthesiologists, and outpatient nurses, and 14 cases (33.3%) required emergency department support (Table 1). Forty‐one patients (97.6%) received i.v. Ringer’s solution or maintenance fluid; glucose or sedative agent such as benzodiazepines were given to three patients each (7.1%). Regarding disposition, 38 patients (90.5%) recovered during the day and returned home, and four patients (9.5%) were hospitalized and discharged after confirming that they had recovered.
+
+## Discussion
+
+Our retrospective single‐center study showed that only 42 of 1,146,929 patients (0.0037%) developed medical emergencies requiring an emergency call and i.v. establishment during and after dental practice, indicating that severe medical emergencies during dental treatment are quite rare. Even though emergency events are extremely uncommon in dental practice, life‐threatening incidents can occur. Previous worldwide studies reported that many dentists experience a medical emergency at least once every year.
+5
+, 
+6
+ Vasovagal syncope as the most common medical emergency, encountered by 37.6–66.9% of dentists, followed by hypoglycemia (5.6–37.1%), allergic reactions, excluding anaphylactic shock (16.2–30.3%), hyperventilation (5.2–27.8%), asthma (3.1–15.1%), hypertension (2.2–15.1%), and cardiovascular diseases such as angina (0.9–14.6%). In terms of serious medical emergencies, anaphylactic shock was encountered by 0.4–2.1% and cardiac arrest by 0.2–6.1% of dentists, respectively.
+4
+, 
+6
+, 
+7
+, 
+8
+ The frequency and incidence of dental office medical emergencies are challenging to describe because their estimation is based on dentists’ retrospective surveys. However, overall, our study’s results are likely to agree with those from previous studies. Understanding data on the incidence and severity of medical emergencies during dental practice could help general dental practitioners prepare for adverse events.
+2
+, 
+9
+
+In the dental treatment circumstance, the patient’s response to dental materials such as resins and latex, as well as the invasiveness of the dental procedure, can heighten the chance of emergencies. In addition, some patients might have dental phobia, an anxiety considered a dispositional factor towards the dental treatment. The incidence of dental anxiety has remained stable during the past 50 years despite improved treatment techniques to reduce pain and shorten treatment time.
+10
+ Dental phobia and vasovagal reflex are strongly linked.
+11
+
+Most vasovagal syncope could be caused by direct hypothalamic activation of the medullary cardiovascular center, resulting in peripheral vasodilation, reduced brain blood flow, decreased venous return, asystole, bradycardia, hypotension, and fainting.
+12
+, 
+13
+ Broadbent et al.
+8
+ reported that syncope was caused by a feeling of anxiety about general dental treatment (35.7%), a feeling of pain and fear of local anesthesia (31.4%), a feeling of anxiety about oral surgeries such as tooth extraction (18.6%), and the patient’s direct observation of blood (5.7%).
+
+Most vasovagal syncope does not require any pharmacological treatment. However, circulatory agents such as ephedrine, i.v. fluids, and atropine could be given as needed.
+14
+ Severe vasovagal syncope, associated with bradycardia caused by direct sinus node depression by intense parasympathetic tone, could be a possible lethal dysrhythmia in older patients with reduced cardiac function or those with cardiovascular disease.
+13
+ The Trendelenburg position is not recommended for treatment of vasovagal syncope, as it increases regurgitation and airway problems, causes the brain to swell, and increases breathing difficulty, as well as a risk of falling from the dental chair.
+14
+, 
+15
+, 
+16
+, 
+17
+ Some patients with hyperventilation syndrome might develop post‐hyperventilation apnea or hypoxia with loss of consciousness and cyanosis, resulting in serious complications.
+18
+, 
+19
+ Unexpected bleeding causing airway compromise is very rare but sporadically occurs.
+20
+ Blood pooling in the oral cavity and swelling of the mouth floor and pharynx due to internal bleeding could result in an airway emergency. Antithrombotic therapy, complicated procedure, and surgical history could increase the risk of bleeding.
+21
+ Two of three patients with unexpected bleeding in this study were receiving antithrombotic therapy.
+
+Although these events are rare, it is imperative for dentists to stay updated on the latest information and sufficiently practice the clinical skills needed to treat life‐threatening incidents in the dental office, to reduce adverse outcomes from medical emergencies. The dentists’ most frequent justifications for lack of preparation to deal with medical emergencies were the lack of continuing education after graduation (51%), lack of learning during undergraduate education (19.1%), and disinterest (4.6%).
+6
+
+Although we did not find any cases of cardiac arrest in our outpatient dental department, some cases can be reviewed in previous reports. Cardiac arrest rarely occurs during general dental practice.
+5
+ One in 20 general dental practitioners will have to administer cardiopulmonary resuscitation at least once during their dental career (and even more outside professional activities).
+9
+ Maintaining basic life support is the dentist’s most important responsibility until definitive treatment for a medical condition can be provided. Although dental schools include practical emergency medicine education globally, postgraduate training is generally voluntary. Dentists and dental office staff are encouraged to train repeatedly in emergency techniques, as a coordinated and trained response from the entire team is necessary when an emergency arises in the dental office.
+
+This study has several limitations. First, since the study was undertaken in a single center, at a large university dental outpatient department; the results might not be generalizable to other facilities, such as smaller dental outpatient clinics. Our university hospital might include patients with more severe illnesses and complications than those in dental clinics. Second, we defined medical emergencies as cases needing emergency call and i.v. establishment; smaller incidence of less attention/interventions were missing from our analysis. Finally, severe medical emergencies were extremely rare; even our large analysis did not reveal the full prospect of the most severe medical emergencies needing full intervention.
+
+## Conclusion
+
+The incidence of medical emergencies was extremely low in our university hospital’s dental outpatient department. Despite this low incidence, every dental team member should know their role and collaborate with emergency medical providers. Knowledge of basic management principles, regular education for emergency care, and practicing first aid skills are mandatory for safe patient management.
+
+## Disclosures
+
+Approval of research protocol: The study protocol for this research project was approved by the Okayama University Ethics Committee (2011‐028) and it conforms to the provisions of the Declaration of Helsinki.
+
+Informed consent: Informed consent was waived.
+
+Registration and registration number: N/A.
+
+Animal studies: N/A.
+
+Conflict of interest: None.
