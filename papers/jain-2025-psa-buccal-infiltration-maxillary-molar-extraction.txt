@@ -1,0 +1,29 @@
+Re-evaluating the role of posterior superior alveolar nerve block versus buccal infiltration for maxillary molar extractions: a double-blind, randomized controlled trial
+
+Jain A, Jadhav P, Roy SS, Aher A, Tilak B, Rao A
+Oral and maxillofacial surgery. 2025 Oct 14;29(1):177.
+DOI: 10.1007/s10006-025-01479-4
+PMID: 41085767
+
+ABSTRACT
+
+Background: To compare the anaesthetic efficacy and safety of the posterior superior alveolar (PSA) nerve block versus buccal infiltration for the extraction of maxillary second and third molars.
+
+Methods: Prospective, double-blind, RCT. 150 healthy adults (ASA I), scheduled for non-surgical maxillary molar extractions. Randomized: PSA block (n=75) vs buccal infiltration (n=75), both using 1.8mL of 2% lidocaine 1:100,000 epinephrine. Primary outcomes: intraoperative VAS and VDS pain scores, need for supplemental anesthesia. Secondary outcomes: positive aspiration, postoperative complications, rescue analgesic use within 3h.
+
+Results:
+- VAS: PSA 2.11±1.21 vs Infiltration 2.02±1.30 (p=0.71, NS)
+- VDS: no difference (p=0.96)
+- Supplemental anesthesia: PSA 10.7% vs Infiltration 12.0% (p=0.74, NS)
+- Complications (hematoma, trismus, positive aspiration): PSA 4.0% vs Infiltration 0%; p=0.03 (significant)
+- Analgesic use within 3h: comparable (p=0.48, NS)
+
+Conclusion: Buccal infiltration provides anesthetic efficacy equivalent to PSA block with significantly fewer complications. Buccal infiltration is safer, simpler, and better tolerated, supporting its use as the preferred technique for routine maxillary molar extractions.
+
+Both groups used: 2% lidocaine 1:100,000 epinephrine, 1.8mL standardized dose.
+
+KEY FINDINGS
+- Equivalent pain control: PSA block offers NO additional pain benefit over buccal infiltration
+- PSA complications (4%): hematoma, trismus, positive aspiration — statistically significant vs 0% infiltration
+- Clinical implication: buccal infiltration preferred for routine maxillary molar extraction
+- Both techniques: 78-88% adequate without supplemental anesthesia
