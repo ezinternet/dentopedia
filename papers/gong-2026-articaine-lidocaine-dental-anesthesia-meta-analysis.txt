@@ -1,0 +1,110 @@
+Title: Efficacy comparison of articaine versus lidocaine in dental anesthesia: a meta-analysis of randomized controlled trials
+Journal: BMC Anesthesiology
+Year: 2026
+DOI: 10.1186/s12871-026-03831-x
+PMID: 41998511
+PMCID: PMC13220622
+PROSPERO: CRD420251110177
+
+Abstract
+
+Background: Despite widespread use of articaine and lidocaine, their comparative efficacy remains debated.
+
+Methods: A systematic search of PubMed, Web of Science, Cochrane Library, and Embase was conducted through July 2025. Outcomes were stratified by anesthesia technique: infiltration anesthesia and nerve block anesthesia. Primary outcomes included anesthetic onset time, anesthetic duration, pain intensity (VAS), and anesthetic success rate.
+
+Results: 36 RCTs with 3,088 cases were included.
+
+INFILTRATION ANESTHESIA (vs lidocaine):
+- Onset: MD = −1.34 min (95% CI: −2.21, −0.47; P = 0.002; I² = 98%; Low certainty)
+- Duration: MD = +18.68 min (95% CI: 3.05, 34.30; P = 0.02; I² = 97%; Moderate certainty)
+- Pain (VAS): MD = −4.41 (95% CI: −7.62, −1.21; P = 0.007; I² = 63%; Moderate certainty)
+- Success rate: RR = 1.03 (95% CI: 0.98, 1.08; P = 0.30; I² = 15%; Moderate certainty) — NO significant difference
+
+NERVE BLOCK ANESTHESIA (vs lidocaine):
+- Onset: MD = −0.27 min (95% CI: −0.40, −0.13; P < 0.001; I² = 69%; Moderate certainty)
+- Duration: MD = +53.63 min (95% CI: 29.64, 77.62; P < 0.001; I² = 96%; High certainty)
+- Pain (VAS): MD = +1.13 (95% CI: −0.49, 2.75; P = 0.17; I² = 0%; Moderate certainty) — NO significant difference
+- Success rate: RR = 1.06 (95% CI: 0.90, 1.24; P = 0.49; I² = 33%; Low certainty) — NO significant difference
+
+Conclusions: Articaine is associated with slightly faster onset and longer duration than lidocaine, but success rates are comparable between the two agents across techniques and subgroups.
+
+---
+
+INTRODUCTION
+
+Lidocaine (lignocaine) has long been the reference local anesthetic because of its extensive safety record and predictable performance. Articaine, a 4% amide anesthetic with a thiophene ring and higher lipid solubility, is hypothesized to diffuse through bone more readily.
+
+However, whether articaine provides clinically meaningful benefits over lidocaine—and in which clinical settings—remains debated. Most prior meta-analyses focused on success as the main endpoint with limited pooled evaluation of onset time, duration, and pain intensity. This meta-analysis covers 36 RCTs through July 2025 with full subgroup analyses by technique, tooth type, clinical indication, anesthetic regimen, and study design.
+
+METHODS
+
+Database search: PubMed, Web of Science, Embase, Cochrane (inception–July 2025, English language)
+Inclusion: RCTs comparing 4% articaine vs 2% lidocaine for dental anesthesia
+Total included: 36 RCTs (19 infiltration, 17 nerve block)
+Total cases: 3,088 (infiltration: 1,862; nerve block: 1,226)
+Statistical: Random-effects model; MD for continuous, RR for dichotomous; I² for heterogeneity
+
+STUDY CHARACTERISTICS
+
+19 Infiltration RCTs (2004–2025): predominantly maxillary (17/19)
+17 Nerve Block RCTs: almost exclusively mandibular (16/17)
+
+Epinephrine concentrations: lidocaine-epi at 1:80,000 (n=6), 1:100,000 (n=29), 1:200,000 (n=3); articaine-epi at 1:100,000 (n=35) or 1:200,000 (n=1)
+
+Geographic distribution: India 55.6% (n=20), plus Brazil, Thailand, US, Spain, others
+
+INFILTRATION ANESTHESIA META-ANALYSIS RESULTS
+
+Onset time (7 studies):
+- Articaine faster: MD = −1.34 min (95% CI: −2.21, −0.47; P = 0.002; I² = 98%)
+- Subgroup premolars: MD = −1.81 min (P < 0.001); molars: MD = −0.57 min (P = 0.006)
+- Objective assessment: MD = −2.20 min (P < 0.001); subjective: NS (P = 0.45)
+
+Duration (7 studies):
+- Articaine longer: MD = +18.68 min (95% CI: 3.05, 34.30; P = 0.02; I² = 97%)
+- Premolars: MD = +27.34 min (P = 0.003); molars: NS (P = 0.22)
+
+Pain intensity VAS (7 studies):
+- Articaine lower: MD = −4.41 (95% CI: −7.62, −1.21; P = 0.007; I² = 63%)
+- Molars: MD = −2.38 (P < 0.001); premolars: NS (P = 0.78)
+
+Success rate (12 studies):
+- NO difference: RR = 1.03 (95% CI: 0.98, 1.08; P = 0.30; I² = 15%)
+- Subgroup lidocaine with 1:100,000 epi (10 studies): RR = 1.02 (95% CI: 0.98, 1.06; P = 0.37; I² = 6%) — essentially identical
+
+NERVE BLOCK ANESTHESIA META-ANALYSIS RESULTS
+
+Onset time (9 studies):
+- Articaine faster: MD = −0.27 min (95% CI: −0.40, −0.13; P < 0.001; I² = 69%)
+- Crossover design: MD = −0.35 min (P = 0.002); conventional dose: MD = −0.97 min (P = 0.02)
+
+Duration (8 studies):
+- Articaine longer: MD = +53.63 min (95% CI: 29.64, 77.62; P < 0.001; I² = 96%)
+- High certainty evidence
+- Parallel design: MD = +74.51 min (P = 0.009); crossover: MD = +38.79 min (P < 0.001)
+- Conventional dose: MD = +41.89 min (P < 0.001)
+
+Pain intensity VAS (4 studies):
+- NO difference: MD = +1.13 (95% CI: −0.49, 2.75; P = 0.17; I² = 0%)
+
+Success rate (9 studies, predominantly SIP):
+- NO difference: RR = 1.06 (95% CI: 0.90, 1.24; P = 0.49; I² = 33%)
+- Subgroup lidocaine with 1:100,000 epi (4 studies): RR = 1.03 (95% CI: 0.88, 1.20; P = 0.72; I² = 0%)
+- Double dose: RR = 1.03 (NS); conventional dose: RR = 0.95 (NS)
+
+KEY FINDING ON PARESTHESIA SAFETY:
+Some pharmacovigilance datasets report disproportionate paresthesia reports with 4% formulations (including articaine). However, included RCTs are not powered to detect rare adverse events; available evidence does not confirm causal association; absolute risks appear low. For routine IANB many clinicians prefer lidocaine due to ongoing debate regarding 4% solutions and paresthesia risk.
+
+DISCUSSION KEY POINTS
+
+1. Absolute onset difference infiltration: 1.34 min → clinically trivial in most settings
+2. Duration difference nerve block: 53.63 min → potentially clinically meaningful for lengthy procedures
+3. Success rates: articaine ≠ higher success; this is the most important clinical message
+4. Ceiling effects and operator technique dominate success, not drug choice
+5. Infiltration: articaine has advantage through bone diffusion (thiophene ring → higher lipid solubility)
+6. Nerve block: technique accuracy dominates; articaine's pharmacologic advantage less relevant
+
+CONCLUSION
+
+Articaine is associated with slightly faster onset and longer anesthetic duration in both infiltration and nerve block anesthesia, and with lower pain scores in infiltration anesthesia. However, anesthetic success rates were comparable between the two agents across techniques and subgroups.
+Agent selection should be individualized based on procedural requirements, expected duration, and patient-specific factors rather than assuming universal superiority.
