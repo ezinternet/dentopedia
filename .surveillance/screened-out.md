@@ -604,3 +604,30 @@
 - PMID 11937665 | vasovagal-syncope | edat ? | screened 2026/10/23 | off-topic: local anaesthesia outside the operating room (anesthesia review, 2002)
 - PMID 11888487 | vasovagal-syncope | edat ? | screened 2026/10/23 | duplicate axis: LA allergy myth review (Baluga, 2002)
 - PMID 11852453 | vasovagal-syncope | edat ? | screened 2026/10/23 | borderline→exclude: cardiac arrest in dental offices, 6 cases (Hebrew, 2002) — no abstract; VVS-specific data unavailable
+- PMID 42542852 | resin-photoinitiator | edat 2000-2026 | screened 2026/10/24 | in vitro study (microhardness only, not review)
+- PMID 42412639 | resin-photoinitiator | edat 2000-2026 | screened 2026/10/24 | general photochemistry: type I photoinitiator reactivity framework, non-dental
+- PMID 42356456 | resin-photoinitiator | edat 2000-2026 | screened 2026/10/24 | drug delivery hydrogels (PCH), non-dental composite
+- PMID 41975067 | resin-photoinitiator | edat 2000-2026 | screened 2026/10/24 | volumetric bioprinting protein bio-inks, non-dental
+- PMID 41567312 | resin-photoinitiator | edat 2000-2026 | screened 2026/10/24 | in vitro study: self-curing bulk-fill properties, not review
+- PMID 41515481 | resin-photoinitiator | edat 2000-2026 | screened 2026/10/24 | general chemistry: oxime esters as photoinitiators, non-dental
+- PMID 41137647 | resin-photoinitiator | edat 2000-2026 | screened 2026/10/24 | green photopolymerization technology, non-dental
+- PMID 40960347 | resin-photoinitiator | edat 2000-2026 | screened 2026/10/24 | NIR photopolymerization with upconversion materials, non-dental
+- PMID 40760038 | resin-photoinitiator | edat 2000-2026 | screened 2026/10/24 | biomass carbon dots ATRP-type, non-dental
+- PMID 40525665 | resin-photoinitiator | edat 2000-2026 | screened 2026/10/24 | 3D-printed dental crown properties: clinical, not polymerization principles
+- PMID 37959882 | resin-photoinitiator | edat 2000-2026 | screened 2026/10/24 | sulfonium salt photoinitiators: general photopolymerization chemistry, non-dental
+- PMID 37294875 | resin-photoinitiator | edat 2000-2026 | screened 2026/10/24 | photocurable polyurethane 3D printing, non-dental
+- PMID 36735598 | resin-photoinitiator | edat 2000-2026 | screened 2026/10/24 | semiconductor-metal nanostructures, non-dental
+- PMID 35160597 | resin-photoinitiator | edat 2000-2026 | screened 2026/10/24 | surface-immobilized photoinitiators, general chemistry, non-dental
+- PMID 34716755 | resin-photoinitiator | edat 2000-2026 | screened 2026/10/24 | rice husk dental composite SR: novel material, not polymerization principles
+- PMID 34716451 | resin-photoinitiator | edat 2000-2026 | screened 2026/10/24 | silk fibroin 3D bioprinting hydrogels, non-dental
+- PMID 33819022 | resin-photoinitiator | edat 2000-2026 | screened 2026/10/24 | bio-based polymers for biomedical engineering, non-dental-specific
+- PMID 33143324 | resin-photoinitiator | edat 2000-2026 | screened 2026/10/24 | quaternary ammonium nanoparticles for antibacterial: not polymerization review
+- PMID 32602092 | resin-photoinitiator | edat 2000-2026 | screened 2026/10/24 | visible light-curable hydrogels for tissue engineering, non-dental
+- PMID 30591826 | resin-photoinitiator | edat 2000-2026 | screened 2026/10/24 | organometallic vs organic photoredox catalysts, general chemistry
+- PMID 29549967 | resin-photoinitiator | edat 2000-2026 | screened 2026/10/24 | high volume photocurable materials: general industrial
+- PMID 37138762 | resin-photoinitiator | edat 2000-2026 | screened 2026/10/24 | flowable bulk-fill SR: clinical performance focus, not polymerization principles
+- PMID 10635252 | resin-photoinitiator | edat 2000-2026 | screened 2026/10/24 | flowable composites as filled adhesives: not polymerization
+- PMID 18071954 | resin-photoinitiator | edat 2000-2026 | screened 2026/10/24 | benzodioxole coinitiator: single compound paper, not review
+- PMID 39057295 | resin-photoinitiator | edat 2000-2026 | screened 2026/10/24 | already in wiki: ferracane-2024-historical-perspective
+- PMID 23199807 | resin-photoinitiator | edat 2000-2026 | screened 2026/10/24 | dimethacrylate composite technology: already covered by other reviews in queue
+- PMID 20859059 | resin-photoinitiator | edat 2000-2026 | screened 2026/10/24 | radical photopolymerization initiators review: broader than dental, partially covered
