@@ -4,7 +4,7 @@ authors: Panya et al.
 year: 2025
 date: 2026-10-23
 doi: 10.1186/s12903-025-07123-7
-source: sources/panya-2025-lidocaine-mepivacaine-ianb-comparison-rct.md
+source: panya-2025-lidocaine-mepivacaine-ianb-comparison-rct.md
 category: local-anesthesia
 evidence_level: rct
 source_collection: pubmed-text
