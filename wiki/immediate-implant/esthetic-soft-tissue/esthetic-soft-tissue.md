@@ -2,7 +2,7 @@
 title: "즉시식립·심미연조직 — esthetic-soft-tissue"
 authors: navigation
 year: 2026
-date: 2026-10-03
+date: 2026-10-24
 doi: N/A
 source: navigation
 category: immediate-implant/esthetic-soft-tissue
@@ -15,20 +15,20 @@ tags: [navigation, category-index, esthetic-soft-tissue]
 > [!summary] 한국어 핵심요약
 > - **분야**: 즉시식립·심미연조직
 > - **범위**: Immediate implant esthetic & soft-tissue outcomes — immediate provisionalization, connective-tissue/soft-tissue grafting (SCTG/CTG), midfacial recession & papilla, pink esthetic score, buccal-dehiscence esthetic, esthetic-zone selection criteria
-> - **수록 논문**: 69편
+> - **수록 논문**: 70편
 
 ## Three-line Summary
 
 **Scope**: Immediate implant esthetic & soft-tissue outcomes — immediate provisionalization, connective-tissue/soft-tissue grafting (SCTG/CTG), midfacial recession & papilla, pink esthetic score, buccal-dehiscence esthetic, esthetic-zone selection criteria
-**Indexed papers**: 69 papers in `wiki/immediate-implant/esthetic-soft-tissue/`.
+**Indexed papers**: 70 papers in `wiki/immediate-implant/esthetic-soft-tissue/`.
 
 ## 세줄요약
 
 **분야**: 즉시식립·심미연조직
-**수록 논문**: 69편
+**수록 논문**: 70편
 **하위 카테고리**: 없음
 
-## Papers in this Category (69)
+## Papers in this Category (70)
 
 | Paper |
 |---|
@@ -93,6 +93,7 @@ tags: [navigation, category-index, esthetic-soft-tissue]
 | [[slagter-2021-immediate-single-implant-provisionalization-5year|Immediate placement of single implants with or without immediate provisionalization in the maxillary aesthetic region: A 5-year comparative study]] |
 | [[staas-2026-fiipp-palatal-position-cbct-3year|Flapless immediate implant placement and provisionalisation (FIIPP) using a palatal implant position (≥ 2 mm): A prospective multicentre CBCT study with a 3-year follow-up]] |
 | [[sutariya-2022-soft-tissue-immediate-provisionalization-sr-ma|The soft tissue esthetic outcome with and without immediate provisionalization in immediate implants: A systematic review and meta-analysis]] |
+| [[tamim-2025-custom-healing-abutment-immediate-implant|Custom healing abutments for immediate implant placement: A systematic review and meta-analysis]] |
 | [[torra-moneny-2024-connective-tissue-grafts-immediate-implant-sr-ma|Association of Connective Tissue Grafts in Immediate Implants: Systematic Review and Meta-Analysis]] |
 | [[wang-2020-volumetric-facial-contour-changes-immediately|Volumetric facial contour changes of immediately placed implants with and without immediate provisionalization]] |
 | [[wang-2026-immediate-anterior-implant-primary-stability-aesthetic|The success rate and aesthetic outcomes of immediate anterior implant placement based on primary stability: A retrospective study]] |

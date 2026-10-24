@@ -2,7 +2,7 @@
 title: "즉시식립·간극이식·GBR — gap-grafting"
 authors: navigation
 year: 2026
-date: 2026-09-29
+date: 2026-10-24
 doi: N/A
 source: navigation
 category: immediate-implant/gap-grafting
@@ -15,20 +15,20 @@ tags: [navigation, category-index, gap-grafting]
 > [!summary] 한국어 핵심요약
 > - **분야**: 즉시식립·간극이식·GBR
 > - **범위**: Jumping-gap/buccal-gap management & GBR at IIP — bone-substitute (xenograft/alloplast/BSM) & collagen gap grafting, PRF/CGF and barrier-membrane/Ti-mesh GBR, buccal-dehiscence/defect correction (SPAL, BioARP, vestibular socket therapy, tuberosity block/IDR), ≥2 mm jump-space grafting thresholds, mem…
-> - **수록 논문**: 20편
+> - **수록 논문**: 21편
 
 ## Three-line Summary
 
 **Scope**: Jumping-gap/buccal-gap management & GBR at IIP — bone-substitute (xenograft/alloplast/BSM) & collagen gap grafting, PRF/CGF and barrier-membrane/Ti-mesh GBR, buccal-dehiscence/defect correction (SPAL, BioARP, vestibular socket therapy, tuberosity block/IDR), ≥2 mm jump-space grafting thresholds, membrane wound-management
-**Indexed papers**: 20 papers in `wiki/immediate-implant/gap-grafting/`.
+**Indexed papers**: 21 papers in `wiki/immediate-implant/gap-grafting/`.
 
 ## 세줄요약
 
 **분야**: 즉시식립·간극이식·GBR
-**수록 논문**: 20편
+**수록 논문**: 21편
 **하위 카테고리**: 없음
 
-## Papers in this Category (20)
+## Papers in this Category (21)
 
 | Paper |
 |---|
@@ -44,6 +44,7 @@ tags: [navigation, category-index, gap-grafting]
 | [[mansouri-2025-flapless-immediate-implant-bone-grafting-sr-ma|Flapless Immediate Implant Placement With and Without Bone Grafting: A Systematic Review and Meta-Analysis]] |
 | [[meijer-2024-immediate-implant-bony-defect-10year-rct|Immediate single-tooth implant placement in bony defect sites: A 10-year randomized controlled trial]] |
 | [[paknejad-2017-flapless-immediate-implant-buccal-gap-rct|Effect of flapless immediate implantation and xenograft filling on buccal bone level: RCT]] |
+| [[pliatkute-2025-prf-immediate-implant-gap-sr|Platelet-rich fibrin for peri-implant gap filling in immediate implant placement: A systematic review]] |
 | [[sanz-2017-bone-graft-gap-immediate-implant-rct|Effect of placing a bone replacement graft in the gap at immediately placed implants: RCT]] |
 | [[seyssens-2022-immediate-implant-socket-grafting-sr-ma|Immediate implant placement with or without socket grafting: A systematic review and meta-analysis]] |
 | [[sotomayor-julio-2026-immediate-implant-placement-infected-sites|Immediate implant placement in infected sites using the \"Roll BMP\" technique: a 3-year case report with bioinformatic analysis]] |

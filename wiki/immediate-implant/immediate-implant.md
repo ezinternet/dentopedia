@@ -2,7 +2,7 @@
 title: "즉시식립 (general) — immediate-implant"
 authors: navigation
 year: 2026
-date: 2026-09-30
+date: 2026-10-24
 doi: N/A
 source: navigation
 category: immediate-implant

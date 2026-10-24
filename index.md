@@ -201,6 +201,16 @@ tags: []
 - [[implants/wu-2018-submerged-nonsubmerged-internal-hexagonal]] — Wu 2018 · retrospective (골수준 내부 육각형 임플란트 114개·환자 72명, 즉시식립, 5년): submerged vs nonsubmerged 5년 누적 생존율 94% vs 96%, MBL·GBR 적용·식립 부위·길이 모두 무차이 — 단일 시스템(XiVE) 비무작위 후향 연구로 SR+MA 대비 근거등급 낮음 [abstract-only]
 - [[implants/walter-2022-two-types-two-piece-dental-implants]] — Walter/Pirc/Thoma 2022 · rct (환자 64명, 임플란트 98개) 8년 추적 — 비매칭 원뿔 접합부 2피스 시스템 2종(OsseoSpeed TX vs Straumann BL SLActive) 비교: 생존율 97.6% vs 97.2%(동등), 1차 평가지표 MBL 변화 S1 골 증가 0.21 mm vs S2 골 소실 0.24 mm(군간 p<.001)이나 <0.3 mm로 임상적으로 무시할 수준, 기술적 합병증은 S2 우위(임플란트 레벨 16.7% vs 35.7%)·점막염은 S1 우위(21.4% vs 55.6%, p=.038) — 지표가 엇갈려 우자 시스템 없음 [PMC full text]
 
+- [[implants/short-narrow/thoma-2015-short-implants-sinus-floor-elevation]] — 6 mm 단축임플란트 vs 11–15 mm 장축임플란트 + 상악동거상술 다기관 RCT(Part 1): 1년 환자보고결과(VAS/OHIP) 유사, 인구학적/치료조건 보고
+
+- [[implants/short-narrow/pohl-2017-short-dental-implants-long-dental]] — 6 mm 단축임플란트 vs 11–15 mm 장축임플란트 + 상악동거상술 다기관 RCT(3년): 잔존골 5–7 mm에서 생존율 100% 대 96.9%, 변연골 변화 유사, 성공률 유사
+
+- [[implants/lee-2015-effect-thread-depth-mechanical-properties]] — 폴리우레탄 블록(저밀도골 모사)에서 임플란트 나사산 깊이 변화가 삽입토크/제거토크/기계적 거동에 미치는 영향(in vitro)
+
+- [[implants/short-narrow/ravida-2019-meta-analysis-randomized-clinical-trials]] — RCT 메타분석: 초단축(≤6 mm) vs 장기(≥10 mm) 임플란트 임상/환자보고결과 비교 — 선택된 경우 생존율 유사, 변연골소실은 맥락 의존적(SR+MA)
+
+- [[implants/short-narrow/ravida-2024-short-compared-dental-implants-different]] — SR+MA + TSA + GRADE: 다양한 임상 시나리오에서 단축(≤6 mm) vs 장축(≥10 mm) 임플란트 비교 — 상악동거상/자연골/전악 등에서 유사한 생존/합병증, 중등도~높은 근거
+
 ## 임플란트 — 표면처리·골유착 심화 (Osseointegration Theory)
 - [[implants/albrektsson-1981-osseointegrated-titanium-implants-requirements]] — 랜드마크(1981): 골유착을 직접 골-임플란트 접촉으로 정의(최초 인체 TEM)+6대 전제(재료·디자인·표면·골상태·술식·부하조건)
 - [[implants/surface/hayashi-2014-hydrocarbon-attenuates-osteoblast-titanium]] — in-vitro · 탄화수소(C/Ti) 농도 의존적 골아세포 억제 — BIC 정체 직접 원인 최초 실증 (J Dent Res 2014)
@@ -536,6 +546,12 @@ tags: []
 - [[bone-regeneration/de-2026-are-buccal-fat-pad-derived]] — De Francesco 2026 · sr · 협유지방(Buccal Fat Pad) 유래 줄기세포(BFPSC) 상악악안면부 골재생 SR(임상 6편 49명): 평균 15개월(5–48개월) 추이 임상·방사선 양호, 4편 조직학적 신생골 확인 — ROBINS-I상 5/6편 중대한 위험편향, CEBM 2b~4등급 [PMC전문] (DOI 10.1097/scs.0000000000012186)
 - [[bone-regeneration/chou-2026-recombinant-human-bone-morphogenetic-protein]] — Chou 2026 · sr · 소아 치조열 교정술 rhBMP-2 함유 동종골 vs 장골능 자가골(ICBG) SR(21편): 치조열 골형성 4편 rhBMP-2 우위·1편 ICBG 우위·7편 무차이, 수술시간 5/5·입원기간 7/8 단축, 합병증은 5/12에서 ICBG 우위 (초록만) (DOI 10.1097/sap.0000000000004711)
 
+- [[bone-regeneration/ridge-preservation/jahanbin-2023-immediate-delayed-mini-screw-placement-alveolar]] — 개(split-mouth): 발치 후 즉시 vs 지연 미니스크류 식립; 즉시군이 치조정 높이 보존(+0.4 mm)에 유리, 지연군이 스크류 주위 골밀도(+183 Hu) 증가 (동물실험)
+
+- [[bone-regeneration/ridge-preservation/talebi-ardakani-2024-comparison-histological-clinical]] — 동종골 동결건조골(Allograft) + 주사형 혈소판풍부피브린(I-PRF) 병용 vs 동종골 단독 치조제보존: I-PRF군 신생골 형성 및 치조폭 손실 유의 감소(이중맹검 RCT, 3개월)
+
+- [[bone-regeneration/zitzmann-2001-long-term-results-of-implants]] — GBR(Bio-Oss/Bio-Gide 또는 Bio-Oss/Gore-Tex)로 결손부 치료한 임플란트 5년 전향연구(n=75/112): 생존율 유사하나 변연골소실 대조군보다 증가(PubMed abstract)
+
 ## PDRN — 폴리데옥시리보뉴클레오티드 (Polydeoxyribonucleotide)
 - [[overviews/pdrn-dentistry-evidence-synthesis]] — Synthesis 2026-05-31 (17편 종합): 기전(A2A 수용체+salvage pathway) 탄탄. 근거가 둘로 갈림 — **진통·항염**은 human 근거 강함(발치 RCT 1 + TMJ 후향코호트 1 + 비치과 SR/MA 2), **재생**은 전부 animal·in vitro·zone/outcome 한정·시간 전엽(초기 가속 후 종점 수렴); 1차 골유착(BIC/BAFO)·연조직 volume 무차이; dose 비선형; autograft 대체 미입증; MRONJ 기전 근거 추가; 저위험 adjunct로 합리적.
 - [[pdrn/ku-2025-polydeoxyribonucleotide-pdrn-dentistry-narrative-review]] — Narrative review (Tissue Eng Regen Med 2026, SNUBH): PDRN(50-1500 kDa salmon DNA fragment) 기전(A2A receptor + salvage pathway)·치과 indication(GBR·TMJ·peri-implantitis·MRONJ) 정리. PDRN 카테고리 anchor paper.
@@ -566,7 +582,13 @@ tags: []
 - [[immediate-implant/loading-protocol/pannuti-2026-loading-timing-edentulous-maxilla-pro]] — SR of 5 prospective studies (121 patients, 724 implants) on immediate vs early/delayed loading in the edentulous maxilla; VAS dominant PROM (80%, 7 PROs) + OHIP/McGill, but 12 clinician-reported outcomes unstandardized — PROM/CROM reporting standardization needed (2026)
 - [[immediate-implant/anatomic-assessment/behfarnia-2025-anatomic-immediate-implant-mandibular-posterior]] — SR+MA (12 CBCT studies, 1,834 pts) of posterior-mandible IIP anatomy: root-apex-to-IAC 5.14 mm (2PM) / 6.32 mm (1M) / 4.65 mm (2M), undercut ridge 73% at 2nd molar driving lingual plate perforation risk (2025)
 - [[immediate-implant/primary-stability/askinekinci-2026-bic-surface-immediate-implant-stability]] — Pilot RCT (n=28): grafting does not improve immediate-implant primary stability, healed sites significantly higher (torque P=0.007, ISQ P=0.014); virtual BIC correlates with early ISQ only in no-graft immediate group (r=0.62/0.58) (2026)
-- [[immediate-implant/esthetic-soft-tissue/wu-2026-immediate-provisionalization-natural-crown-frc]] — Exploratory RCT (n=20): immediate non-implant-supported provisional from the patient's own natural crown + FRC splint preserves PES (z=2.799, p=0.005) and cuts early postop pain/swelling vs delayed restoration after anterior-maxilla IIP (2026)
+- [[immediate-implant/esthetic-soft-tissue/wu-2026-immediate-provisionalization-natural-crown-frc]]
+- [[immediate-implant/esthetic-soft-tissue/tamim-2025-custom-healing-abutment-immediate-implant]] — SR+MA (6 RCTs, 249 implants): custom healing abutments vs stock for immediate implant placement improve PES (MD +1.02 at 3–6m, +0.89 at 12m) and reduce midfacial recession (MD −0.21mm/−0.32mm); no difference in KMW/PD/BOP/PI/survival, moderate GRADE (abstract-only)
+- [[immediate-implant/socket-shield/ji-2025-socket-shield-vs-conventional-esthetic-nma]] — Network meta-analysis (abstract-only): socket shield vs conventional immediate implant for esthetic outcomes; detailed effect estimates pending full-text retrieval
+- [[immediate-implant/gap-grafting/pliatkute-2025-prf-immediate-implant-gap-sr]] — Systematic review (abstract-only): PRF for peri-implant gap filling in immediate implant placement; quantitative synthesis pending full-text
+- [[immediate-implant/anatomic-assessment/khalifah-2026-double-expansion-ridge-split-narrow-rct]] — RCT (abstract-only, n pending): double expansion osteotomy vs ridge splitting for narrow alveolar ridges; outcomes pending full-text
+- [[immediate-implant/socket-shield/badawy-2026-socket-shield-delayed-ridge-change-rct]] — RCT (abstract-only): socket shield technique without immediate implant placement for ridge preservation; quantitative ridge change outcomes pending full-text
+ — Exploratory RCT (n=20): immediate non-implant-supported provisional from the patient's own natural crown + FRC splint preserves PES (z=2.799, p=0.005) and cuts early postop pain/swelling vs delayed restoration after anterior-maxilla IIP (2026)
 - [[immediate-implant/gap-grafting/greenstein-2013-managing-buccal-gap-immediate-implant]] — Greenstein 2013, CE review on buccal gap management and buccal plate preservation in immediate implant placement
 - [[immediate-implant/aung-2024-tapered-sla-immediate-implant-survival]] — Aung 2024 · retrospective(49 임플란트, SNU 2009–2018) · tapered self-tapping SLA 즉시식립 5년 생존율 93.88%, 하악 100%·상악 실패는 상악동 연관, 부위별 식립 근거
 - [[immediate-implant/primary-stability/jang-2025-flapless-immediate-implant-low-primary-stability]] — Jang 2025 · retrospective(n=16) · 낮은 1차안정성(ITV<10Ncm·초기 ISQ<55) flapless 즉시식립 — 16례 전부 생존(100%), 시간경과 ISQ 회복
@@ -1404,6 +1426,8 @@ tags: []
 - [[dental-materials/cuzic-2025-clinicians-guide-material-selection-all-ceramics]] — Cuzic 2025 · narrative-review (Materials, PMC 전문, 58편 2008–2025): all-ceramic 재료선택+시멘테이션 임상 가이드 — 조성 기반 분류(규산염 HF+실란 / 산화물 지르코니아 air-abrasion+MDP), 부위별 적용증, 적층→모놀리식 전환 추세 (DOI 10.3390/ma18102235)
 - [[dental-materials/alghauli-2025-clinical-complications-survival-rate-resin]] — 레진 매트릭스 세라믹(RMC; PICN·RNC) SR+MA (21편): 크라운 합병증 세라믹 대비 높음; 베니어·인레이는 리튬 디실리케이트와 동등; 생존율 수복물 유형 의존
 - [[dental-materials/omar-2026-marginal-gap-additive-subtractive-nanoceramic]] — Omar 2026 · in-vitro (BMC Oral Health): 임플란트 하이브리드 나노세라믹(Nanoksa) 크라운 마진갭 — 밀링(34–38µm)이 3D 프린팅(60–64µm)보다 열가공 노화 전후 모두 유의하게 우수
+
+- [[dental-materials/bollen-1997-comparison-surface-roughness-oral-hard]] — 구강 경조직 표면조도 임계값(R_a ≈ 0.2 µm)과 세균성 치태 부착: 재료별 연마/처리 영향 (1980s–90s 문헌 검토, abstract-only)
 
 ## 글래스아이오노머 (Glass Ionomer)
 - [[glass-ionomer/sokolowski-2018-ion-releasing-polymeric-materials-contraction-stress]] — Sokolowski 2018 · in-vitro · 이온유리 수복재 10종 광탄성 응력 평가, Ionosit(컴포머) 최고 수분흡수·56일 후 팽창응력 (DOI 10.3390/polym10101093)
@@ -4706,6 +4730,8 @@ tags: []
 
 ### suture-wound-closure
 - [[suture-wound-closure/kim-2017-palatal-releasing-incision-soft-tissue-closure]] — Simple palatal releasing incision technique for tension-free minimally invasive soft tissue closure: case report (2017)
+
+- [[implants/short-narrow/pohl-2017-short-dental-implants-long-dental]] — 단축 임플란트(6 mm) vs 장기 임플란트(11–15 mm)+상악동거상, 잔존골 5–7 mm에서 3년 생존율 100%, 변연골 변화 유사 (Pohl et al. 2017, RCT)
 
 ## Batch ingest (added 2026-08-02) — DeepSeek → Claude 하이브리드 인제스트 (자가골이식 공여부 6편)
 

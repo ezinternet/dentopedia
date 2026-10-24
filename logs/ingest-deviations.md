@@ -932,3 +932,9 @@ Logged by subagents at deviation time. `deviation-audit.py` flags types with ≥
 | 2026-10-23 | vranic-2016-medical-emergencies-pediatric-dentistry | relation-judgment | Brief link target drug/systemic-disease/kapusta-2008-vasovagal-syncope-children-adolescents does not exist in wiki/ (no Kapusta page); linked only to smereka-2019 instead |
 | 2026-10-23 | montebugnoli-1999-vasovagal-syncope-heart-transplant-dental | abstract-only | PubMed abstract only (no PMCID, paywalled 1999 article) — methods, monitoring protocol and management unavailable |
 | 2026-10-23 | montebugnoli-1999-vasovagal-syncope-heart-transplant-dental | source-data-issue | artifact header lists second author as Testa S; verbatim PubMed record lists Montanari G — page follows PubMed |
+| 2026-10-24 | zitzmann-2001-long-term-results-of-implants | no-doi | DOI not found on PubMed page; abstract-only PDF, full_text set false |
+| 2026-10-24 | tamim-2025-custom-healing-abutment-immediate-implant | abstract-only | publisher landing/abstract only, full text not retrieved |
+| 2026-10-24 | lau-2025-cais-accuracy-immediate-implant-type1-sr-ma | duplicate-skip | Title similarity 79% to schiavon-2025-computer-assisted-immediate-implant-accuracy-nma; dedup-check tier1 stop |
+| 2026-10-24 | pliatkute-2025-prf-immediate-implant-gap-sr | abstract-only | publisher/abstract-only text (papers/*.txt), full text not retrieved |
+| 2026-10-24 | khalifah-2026-double-expansion-ridge-split-narrow-rct | abstract-only | Abstract-only text file; no full text retrieved. Built from PubMed abstract only per ingest instructions. |
+| 2026-10-24 | badawy-2026-socket-shield-delayed-ridge-change-rct | abstract-only | abstract-only, doi null; socket shield without immediate implant placement (delayed), category immediate-implant/socket-shield |

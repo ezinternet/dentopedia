@@ -1,0 +1,10 @@
+Custom healing abutments for immediate implant placement: A systematic review and meta-analysis
+Tamim A, Alqutaibi AY, Al-Zawawi A, Zafar MS, Alnazzawi AA, Alharbi AM, Mahmoud II
+The Journal of Prosthetic Dentistry, 2025. DOI: 10.1016/j.prosdent.2025.09.038 | PMID: 41102038
+
+ABSTRACT
+Statement of problem: The esthetic outcomes of custom healing abutments (CHAs) for immediate implant placement remain unclear.
+Purpose: The purpose of this systematic review and meta-analysis was to evaluate the effect of CHAs on peri-implant soft tissue outcomes and esthetic parameters compared with stock healing abutments (SHAs) in immediate implant placement.
+Material and methods: An electronic search was conducted across PubMed/MEDLINE, Scopus, Web of Science, and Cochrane Library up to May 2025. Randomized controlled trials (RCTs) comparing CHAs and SHAs for immediate implant placement with at least 3 months of follow-up were included. The primary outcome was pink esthetic score (PES). Secondary outcomes included midfacial mucosal recession (MMR), keratinized mucosa width (KMW), probing depth (PD), bleeding on probing (BOP), plaque index (PI), and implant survival. Risk of bias was assessed using RoB2, and certainty of evidence with GRADE.
+Results: Six RCTs with 249 implants (124 CHA, 125 SHA) were included. CHA significantly improved PES at 3-6 months (MD 1.02; 95% CI 0.58-1.45; P<.001; I2=0%) and at 12 months (MD 0.89; 95% CI 0.38-1.40; P=.001; I2=0%). CHA significantly reduced MMR at 3-6 months (MD -0.21 mm; 95% CI -0.37 to -0.05; P=.01; I2=0%) and at 12 months (MD -0.32 mm; 95% CI -0.52 to -0.12; P=.002; I2=0%). No significant differences were found for KMW, PD, BOP, PI, or implant survival. GRADE certainty was moderate for PES and MMR.
+Conclusions: In immediate implant placement, CHAs provided better esthetic outcomes (higher PES, less midfacial recession) than SHAs, with no adverse effects on peri-implant health or survival over 12 months. (Abstract only - full text not retrieved)

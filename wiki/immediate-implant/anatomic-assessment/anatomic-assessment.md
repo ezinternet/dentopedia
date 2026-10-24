@@ -2,7 +2,7 @@
 title: "즉시식립·해부학적평가 — anatomic-assessment"
 authors: navigation
 year: 2026
-date: 2026-10-03
+date: 2026-10-24
 doi: N/A
 source: navigation
 category: immediate-implant/anatomic-assessment
@@ -15,20 +15,20 @@ tags: [navigation, category-index, anatomic-assessment]
 > [!summary] 한국어 핵심요약
 > - **분야**: 즉시식립·해부학적평가
 > - **범위**: Preoperative CBCT anatomic/morphometric case-selection for immediate implant placement (IIP) — Kan sagittal-root-position (SRP) classification & population prevalence, labial/buccal plate thickness & fenestration/dehiscence risk, incisive-canal proximity, alveolar bone dimensions/root inclination, p…
-> - **수록 논문**: 21편
+> - **수록 논문**: 22편
 
 ## Three-line Summary
 
 **Scope**: Preoperative CBCT anatomic/morphometric case-selection for immediate implant placement (IIP) — Kan sagittal-root-position (SRP) classification & population prevalence, labial/buccal plate thickness & fenestration/dehiscence risk, incisive-canal proximity, alveolar bone dimensions/root inclination, posterior-mandible root-to-IAC safety distance, premolar cortical-perforation risk; anatomy-only datasets & CBCT decision frameworks with no site-specific anchorage technique or implant outcome.
-**Indexed papers**: 21 papers in `wiki/immediate-implant/anatomic-assessment/`.
+**Indexed papers**: 22 papers in `wiki/immediate-implant/anatomic-assessment/`.
 
 ## 세줄요약
 
 **분야**: 즉시식립·해부학적평가
-**수록 논문**: 21편
+**수록 논문**: 22편
 **하위 카테고리**: 없음
 
-## Papers in this Category (21)
+## Papers in this Category (22)
 
 | Paper |
 |---|
@@ -43,6 +43,7 @@ tags: [navigation, category-index, anatomic-assessment]
 | [[huynh-ba-2010-analysis-socket-bone-wall|Analysis of the socket bone wall dimensions in the upper maxilla in relation to immediate implant placement]] |
 | [[januario-2011-dimension-facial-bone-wall|Dimension of the facial bone wall in the anterior maxilla: a cone-beam computed tomography study]] |
 | [[kan-2011-sagittal-root-position-immediate-implant-anterior|Sagittal root position of the maxillary anterior teeth: Implications for immediate implant placement]] |
+| [[khalifah-2026-double-expansion-ridge-split-narrow-rct|Double expansion osteotomy versus ridge splitting for narrow alveolar ridges in implant placement: A randomized controlled trial]] |
 | [[kheur-2024-feasibility-iip-maxillary-first-premolars|Feasibility of Immediate Implant Placement in Maxillary First Premolars: Prediction of Implant Locations Using Restorations—A Radiographic Study]] |
 | [[kong-2020-srp-maxillary-anterior-korean-population|A study on sagittal root position of maxillary anterior teeth in Korean]] |
 | [[lei-2022-alveolar-bone-width-sagittal-tooth|Comparison of alveolar bone width and sagittal tooth angulation of maxillary central incisors in Class I and Class III canine relationships: a retrospective CBCT study]] |
