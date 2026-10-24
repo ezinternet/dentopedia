@@ -2,7 +2,7 @@
 title: "레진 — resin"
 authors: navigation
 year: 2026
-date: 2026-08-11
+date: 2026-10-24
 doi: N/A
 source: navigation
 category: resin
@@ -15,20 +15,20 @@ tags: [navigation, category-index, resin]
 > [!summary] 한국어 핵심요약
 > - **분야**: 레진
 > - **범위**: Composite resin, polymerization, shrinkage
-> - **수록 논문**: 38편
+> - **수록 논문**: 46편
 
 ## Three-line Summary
 
 **Scope**: Composite resin, polymerization, shrinkage
-**Indexed papers**: 38 papers in `wiki/resin/`.
+**Indexed papers**: 46 papers in `wiki/resin/`.
 
 ## 세줄요약
 
 **분야**: 레진
-**수록 논문**: 38편
+**수록 논문**: 46편
 **하위 카테고리**: 없음
 
-## Papers in this Category (38)
+## Papers in this Category (46)
 
 | Paper |
 |---|
@@ -36,8 +36,11 @@ tags: [navigation, category-index, resin]
 | [[algamaiah-2021-ultra-rapid-bulk-fill-shrinkage-stress|Polymerization shrinkage and shrinkage stress development in ultra-rapid photo-polymerized bulk fill resin composites]] |
 | [[astvaldsdottir-2015-posterior-resin-composite-longevity-sr|Longevity of posterior resin composite restorations in adults – A systematic review]] |
 | [[boaro-2019-bulk-fill-composites-clinical-properties-sr-ma|Clinical performance and chemical-physical properties of bulk fill composites resin — a systematic review and meta-analysis]] |
+| [[braga-2005-factors-polymerization-shrinkage-stress|Factors involved in the development of polymerization shrinkage stress in resin-composites: a systematic review]] |
+| [[ceinos-2026-light-curing-units-restorative-dentistry|Light-curing units in restorative dentistry: a clinically oriented narrative review of performance, selection, and emerging optical functions]] |
 | [[chaple-gil-2026-bulk-fill-incremental-class-ii-sr-nma|Clinical Performance of Bulk-Fill Versus Incremental Layering Techniques in Class II Restorations: A Systematic Review and Network Meta-Analysis]] |
 | [[deniz-2025-dual-cure-self-adhesive-cement-cytotoxicity|Effects of photopolymerization and autopolymerization of three different dual-polymerizing self-adhesive resin cements on cell viability]] |
+| [[fdi-2022-intraoral-light-curing-resin-based|Intraoral Light Curing of Resin Based Material: FDI Policy Statement 2022]] |
 | [[feng-2024-polyurethane-dimethacrylate-low-shrinkage-composite|Study on the polymerization shrinkage and mechanical-physical properties of dental resin composite modified by polyurethane dimechacrylate and glass flake fillers]] |
 | [[ferracane-2024-historical-perspective-dental-composite-restorative|A Historical Perspective on Dental Composite Restorative Materials]] |
 | [[hashemian-2025-tip-distance-conversion-cytotoxicity|Correlation between gingival fibroblast cell viability and degree of conversion of resin composites at different light-curing tip distances]] |
@@ -46,8 +49,11 @@ tags: [navigation, category-index, resin]
 | [[jkda-2025-63-9-001|Evaluation of the shear bond strength of Korean flowable resin composites to dentin]] |
 | [[josic-2023-direct-indirect-resin-longevity-sr-ma|Clinical longevity of direct and indirect posterior resin composite restorations: An updated systematic review and meta-analysis]] |
 | [[kim-2026-stamp-technique-posterior-composite-resin|Stamp technique for posterior teeth composite resin restoration: Report of 2 cases]] |
+| [[kowalska-2021-photoinitiators-used-resin-based|The Photoinitiators Used in Resin Based Dental Composite—A Review and Future Perspectives]] |
 | [[kruly-2018-low-shrinkage-vs-methacrylate-resin-ma|Meta-analysis of the clinical behavior of posterior direct resin restorations: Low polymerization shrinkage resin in comparison to methacrylate composite resin]] |
 | [[lehmann-2026-distance-exposure-mode-degree-conversion-rbc|Optimizing Dental Resin-Based Composite Polymerization with Distance and Exposure Variables: Preliminary Study]] |
+| [[lima-2018-depth-cure-bulk-fill-resin|Depth of cure of bulk fill resin composites: A systematic review.]] |
+| [[lima-2023-polywave-light-emitting-diodes-more|Are polywave light-emitting diodes more effective than monowave ones in the photoactivation of resin-based materials containing alternative photoinitiators? A systematic review.]] |
 | [[magne-2023-short-fiber-reinforced-mod-restorations|Short-fiber Reinforced MOD Restorations of Molars with Severely Undermined Cusps]] |
 | [[magno-2016-silorane-composite-not-better-conventional-ma|Silorane-based Composite Resin Restorations Are Not Better than Conventional Composites — A Meta-Analysis of Clinical Studies]] |
 | [[mahrous-2020-mdp-caf-self-adhesive-resin-cement-microshear|Micro-Shear Bond Strength of Novel MDP Calcium-Fluoride–Releasing Self-Adhesive Resin Cement After Thermocycling]] |
@@ -57,6 +63,7 @@ tags: [navigation, category-index, resin]
 | [[muller-2022-resin-cements-zirconia-bulk-ageing|Adhesion of Different Resin Cements to Zirconia: Effect of Incremental versus Bulk Build Up, Use of Mould and Ageing]] |
 | [[osiewicz-2022-wear-of-bulk-fill-resin|Wear of bulk-fill resin composites]] |
 | [[parra-gatica-2023-flowable-bulk-fill-composites-sr|Contemporary flowable bulk-fill resin-based composites: a systematic review]] |
+| [[santos-2024-impact-inorganic-fillers-organic-content|The impact of inorganic fillers, organic content, and polymerization mode on the degree of conversion of monomers in resin-matrix cements for restorative dentistry: a scoping review]] |
 | [[sekundo-2024-direct-composite-restorations-permanent-teeth|Direct Composite Restorations on Permanent Teeth in the Anterior and Posterior Region – An Evidence-Based Clinical Practice Guideline – Part 2: Recommendations for Composite Processing]] |
 | [[silva-2023-bulk-fill-vs-conventional-resins-umbrella|Bulk-Fill Resins versus Conventional Resins: An Umbrella Review]] |
 | [[susita-2026-comparative-analysis-stress-distribution-teeth|Comparative analysis of stress distribution in teeth restored with glass fiber post, short fiber-reinforced composite post, and ribbond fiber post: A three-dimensional finite element study]] |
@@ -64,6 +71,7 @@ tags: [navigation, category-index, resin]
 | [[tennert-2024-direct-vs-indirect-composite-longevity-sr-ma|Longevity of posterior direct versus indirect composite restorations: A systematic review and meta-analysis]] |
 | [[theracem-bisco-product-reference|TheraCem (BISCO)]] |
 | [[van-de-sande-2019-composite-repair-anterior-15year|Is composite repair suitable for anterior restorations? A long-term practice-based clinical study]] |
+| [[watts-2023-light-curing-dental-resin-based|Light-curing dental resin-based composites: How it works and how you can make it work]] |
 | [[wolff-2024-direct-composite-restorations-permanent-teeth|Direct Composite Restorations on Permanent Teeth in the Anterior and Posterior Region – An Evidence-Based Clinical Practice Guideline – Part 1: Indications for Composite Restorations]] |
 | [[worthington-2021-composite-vs-amalgam-cochrane-sr|Direct composite resin fillings versus amalgam fillings for permanent posterior teeth (Cochrane Review)]] |
 | [[yalcinkaya-2026-degree-conversion-luting-hybrid-ceramic|Evaluation of the degree of conversion of luting materials beneath hybrid ceramic CAD/CAM substrates of different thicknesses]] |
