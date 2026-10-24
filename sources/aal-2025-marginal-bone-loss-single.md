@@ -9,6 +9,22 @@ pdf_filename: ""
 source_collection: pubmed-text
 ---
 
+## Three-line Summary
+
+Four-arm RCT (n=80 edentulous, submerged/non-submerged × ball/CM-LOC, 2-year follow-up) examining whether healing protocol or attachment type affects marginal bone loss (MBL) in mandibular single-implant retained overdentures (SIRMO).
+
+No statistically significant difference between healing protocols or attachment types at 2 years; non-submerged was numerically lower (0.27 vs 0.43 mm MBL); the ball/non-submerged combination achieved the least bone loss at year 2 (0.01 mm).
+
+Both healing protocols and both attachment types are clinically acceptable for mandibular SIRMO, with no compelling evidence to prefer one over the other based on 2-year MBL outcomes.
+
+## 세줄요약
+
+하악 단일 임플란트 지지 피개의치(SIRMO)에서 매몰/비매몰 × 볼/CM-LOC 어태치먼트 4군(n=80 무치악)을 비교한 2년 RCT.
+
+변연골 소실(MBL)은 치유 프로토콜과 어태치먼트 유형 간 유의한 차이가 없었으나, 비매몰(Non-submerged)이 수치상 낮았다(0.27 vs 0.43 mm); 볼+비매몰 조합이 2년차 MBL 0.01 mm로 가장 우수했다.
+
+두 치유 방식 모두 임상적으로 허용 가능하며, 2년 MBL 결과에 기초해 한 방식을 우선하는 근거는 충분하지 않다.
+
 ## Why Ingested
 
 서브머지드 vs 난서브머지드 서베일런스 sweep 중 발견. 기존 [[implants/mbl/verma-2024-comparison-bone-loss-submerged-nonsubmerged]]가 단일 치아 임플란트를 다룬 반면, 이 RCT는 단일 임플란트 하악 피개의치(SIRMO) 맥락에서 두 치유 프로토콜과 두 가지 어태치먼트를 2년간 비교한 최초의 RCT로, [[overviews/implant-placement-protocol-submerged-one-stage-one-piece-overview]] evidence map에 직접 추가 가능.
