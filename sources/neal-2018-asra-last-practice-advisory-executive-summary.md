@@ -17,6 +17,22 @@ tags:
   - ultrasound-guidance
 ---
 
+## Three-line Summary
+
+ASRA Third Practice Advisory on Local Anesthetic Systemic Toxicity (LAST) — 2017 interim update from 2010 (Reg Anesth Pain Med 2018) covering updated mechanisms of lipid resuscitation, epidemiology and clinical management recommendations.
+
+New mechanisms for lipid emulsion efficacy: rapid partitioning (lipid sink), direct inotropy, post-conditioning; trend toward delayed LAST onset from increased ultrasound guidance and continuous infusion; small patient size and sarcopenia identified as additional risk factors.
+
+20% Intralipid (지방유제) is confirmed as first-line for LAST cardiac arrest, with recommendations extended to settings outside traditional operating rooms and to non-anaesthesiologist providers.
+
+## 세줄요약
+
+ASRA 제3차 국소마취제 전신독성(Local Anesthetic Systemic Toxicity, LAST) 진료 권고 — 2010년 개정판의 2017년 중간 업데이트(Reg Anesth Pain Med 2018).
+
+새 지방유제 효능 기전: 지방 분배(Lipid Sink)·직접 강심효과·후처리; 초음파 유도·지속 주입 증가로 지연 발현 경향; 소체형·근감소증이 추가 위험인자로 확인됐다.
+
+20% 인트라리피드(Intralipid, 지방유제)가 LAST 심정지 일차 치료로 확인됐으며, 수술실 밖 환경 및 비마취과 의료인에게도 적용 지침이 확대됐다.
+
 ## Summary
 
 ASRA Third Practice Advisory on LAST (interim update from 2010; Reg Anesth Pain Med 2018) summarizing updated mechanisms of lipid resuscitation, epidemiology, and clinical recommendations for prevention, recognition, and treatment of LAST.
