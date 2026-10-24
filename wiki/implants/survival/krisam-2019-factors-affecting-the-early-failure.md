@@ -21,6 +21,22 @@ relations:
     target: guarnieri-2025-analysis-risk-factors-related-early
 ---
 
+## Three-line Summary
+
+Single-practice retrospective study of 186 implants (2012–2017) from one German implantology practice outside academic and referral centres, providing a real-world early-failure estimate with mixed models controlling for within-patient clustering.
+
+Nine implants (4.8%) were lost before the final prosthesis, all posterior and 8 of 9 in the maxilla; mixed models showed bone augmentation and short implants (<10 mm) carried approximately 5–6× higher odds of early failure.
+
+Smoking, diabetes, periodontitis history and insertion torque were not significant; the 4.8% rate places this practice at the upper end of the 2–6% literature range, consistent with Manzano 2016 meta-analysis benchmarks.
+
+## 세줄요약
+
+독일 임플란트 전문 치과의원(비학술 기관) 1개소의 2012–2017년 임플란트 186개를 후향 분석한 실제 진료 환경 연구다.
+
+9개(4.8%)가 최종 보철 전 실패했으며 모두 구치부(8/9는 상악)였고, 혼합 모델에서 골 증대술과 단단형(<10 mm)이 조기 실패 위험을 약 5–6배 높였다.
+
+흡연·당뇨·치주질환 기왕력·삽입 토크는 유의하지 않았으며, 4.8% 실패율은 Manzano 2016 기반 2–6% 범위의 상한선에 해당한다.
+
 ## One-line Summary
 
 Retrospective single-practice cohort (Germany, 2012–2017; 186 bone-level implants in 106 patients): early failure before the final prosthesis was 4.8%, associated with augmentation (OR 5.5) and implants shorter than 10 mm (OR 5.8).
