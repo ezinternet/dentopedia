@@ -4,7 +4,7 @@ authors: Klein JA, Jeske DR
 year: 2016
 date: 2026-10-23
 doi: 10.1213/ANE.0000000000001119
-source: sources/klein-2016-tumescent-lidocaine-estimated-maximal-safe-dosages.md
+source: klein-2016-tumescent-lidocaine-estimated-maximal-safe-dosages.md
 category: local-anesthesia
 evidence_level: prospective
 source_collection: pubmed-text
