@@ -4,7 +4,7 @@ authors: Moore PA, Hersh EV
 year: 2010
 date: 2026-10-23
 doi: 10.1016/j.cden.2010.06.015
-source: sources/moore-2010-local-anesthetics-pharmacology-toxicity.md
+source: moore-2010-local-anesthetics-pharmacology-toxicity.md
 category: local-anesthesia
 evidence_level: narrative-review
 source_collection: pubmed-abstract
