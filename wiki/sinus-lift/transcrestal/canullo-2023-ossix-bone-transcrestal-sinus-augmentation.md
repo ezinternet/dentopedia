@@ -4,7 +4,7 @@ authors: Canullo L, Del Fabbro M, Colantonio F, Iacono R, Raffone C, Pedetta A, 
 year: 2023
 date: 2026-10-22
 doi: 10.1111/cid.13236
-source: sources/canullo-2023-ossix-bone-transcrestal-sinus-augmentation.md
+source: canullo-2023-ossix-bone-transcrestal-sinus-augmentation.md
 category: sinus-lift/transcrestal
 evidence_level: rct
 source_collection: pubmed-abstract
