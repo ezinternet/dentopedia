@@ -1,0 +1,80 @@
+Title: The impact of inorganic fillers, organic content, and polymerization mode on the degree of conversion of monomers in resin-matrix cements for restorative dentistry: a scoping review
+Authors: Santos M, Fidalgo-Pereira R, Torres O, Carvalho O, Henriques B, Özcan M, Souza JCM
+Year: 2024
+Journal: Clinical Oral Investigations, vol 28, issue 8, page 454
+PMID: 39066793
+PMC: PMC11283416
+DOI: 10.1007/s00784-024-05829-6
+
+Abstract:
+Purpose: The main aim of the present study was to carry out a scoping review on the differences in degree of conversion of monomers regarding several types resin cements, indirect restorative materials, and light-curing procedures used in dentistry.
+
+Method: A bibliographic review was performed on PubMed using the following search items: "degree of conversion" OR "filler" AND "resin cement" OR "inorganic cement" AND "organic" OR "radiopacity" OR "refractive" OR "transmittance" OR "type" AND "resin composite." The search involved articles published in English language within the last thirteen years. A research question has been formulated following the PICO approach as follow: "How different is the degree of conversion of monomers comparing several types of resin-matrix cements?"
+
+Results: Within the 15 selected studies, 8 studies reported a high degree of conversion (DC) of the organic matrix ranging from 70 up to 90% while 7 studies showed lower DC values. Dual-cured resin-matrix cements revealed the highest mean values of DC, flexural strength, and hardness when compared with light- and self-polymerized ones. DC mean values of resin-matrix cements light-cured through a ceramic veneer with 0.4 mm thickness were higher (~83%) than those recorded for resin-matrix cements light-cured through a thicker ceramic layer of 1.5 mm (~77%).
+
+Conclusions: The highest percentage of degree of conversion of monomers was reported for dual-cured resin-matrix cements and therefore both chemical and light-induced pathways promoted an enhanced polymerization of the material. Similar degree of conversion of the same resin-matrix cement were recorded when the prosthetic structure showed a low thickness. On thick prosthetic structures, translucent materials are required to allow the light transmission achieving the resin-matrix cement.
+
+Clinical relevance: The chemical composition of resin-matrix cements and the light-curing mode can affect the polymerization of the organic matrix. Thus, physical properties of the materials can vary leading to early clinical failures at restorative interfaces. Thus, the analysis of the polymerization pathways of resin-matrix cements is significantly beneficial for the clinical performance of the restorative interfaces.
+
+Full Text:
+
+Introduction
+
+In contemporary dental practice, resin-matrix cements are routinely used for bonding prosthetic structures such as prosthetic crowns, multi-unit prostheses, veneers, onlays, inlays, and fiber-reinforced posts. However, clinical failures on resin-matrix cements have been reported considering the change of color, marginal leakage, microstructure, and fracture at interfaces. The cementation of indirect restorations over tooth tissues also depends on the surface modification of the inner surface of the indirect restorations by grit-blasting, chemical conditioning, and acid etching. Clinical issues have been associated with several factors including mainly the type of resin-matrix cement, type of prosthetic structures, prosthetic restoration to surrounding tissues, light-curing unit, and polymerization mode. Thus, an insufficient polymerization of the resin-matrix cement has become a major concern taking into account the required physical properties for long-term performance in the oral cavity.
+
+Resin-matrix cements are mainly composed of an organic matrix embedding silanized inorganic fillers. The organic matrix of resin-matrix cements comprises a mixture of monomers such as bisphenol-A glycol dimethacrylate (Bis-GMA), urethane dimethacrylate (UDMA), and triethylene glycol dimethacrylate (TEGDMA). Chemical agents (i.e., peroxides) and photoinitiators systems (i.e., camphorquinone combined with tertiary amine) are key compounds to initiating the cross-linking among chain of monomers leading to the polymerization. Depending on the photoinitiatior, the cross-linking of monomers is stimulated by light irradiance with a wavelength ranging from 360 up to 500 nm. However, monomers with a high molecular mass usually exhibit low mobility that contributes to a lower shrinkage although it increases the viscosity of the cement and decreases the degree of conversion (DC) of monomers. Low viscosity monomers such as TEGDMA have the purpose of decreasing the viscosity allowing the flowability of the resin-matrix cement. The optical and mechanical properties of the resin-matrix cements are tailored from the reinforcement of the organic matrix with micro- and nano-scale inorganic fillers such as zirconia, zirconium silicate, barium glass, ytterbium fluoride, and/or amorphous silica.
+
+The percentage of DC usually represents the amount of polymerized double carbon bonds that were converted into single bonds in the carbon chain. The DC percentage of resin-matrix cements generally ranges from 52 up to 75%. Both extrinsic and intrinsic material factors influence DC, namely the monomers nature, inorganic particles, and photoinitiators. Thus, other extrinsic factors involving polymerization pathways can affect DC. In order to have a correct DC the distance between the light curing (LCU) unit and indirect restoration must be below 8 mm, the LCU must guarantee the correct irradiance and the time exposure must be sufficient for the polymerization reaction to correctly occur. Other parameters must also be ensured, namely, the resin cement thickness, the indirect restoration thickness, and the compatibility between the wavelength of LCU and photoinitiator system.
+
+Previous studies have reported a correlation between DC percentage and physical properties of the resin-matrix cement. Indeed, a high DC percentage is correlated with enhanced physical properties as reported by high mean values of flexural strength, elastic modulus, fracture toughness, and hardness. Indeed, the hardness measurement is often used as an indirect method to measure the polymerization efficiency. The increase of the monomers' cross-linking over light-curing can be monitored by the elastic modulus and hardness acquired by micro- and nano-indentation assays.
+
+A low DC percentage is a result from failure on the polymerization of the resin-matrix cement leading to poor chemical and physical stability. For instance, insufficient polymerization of the resin-matrix cement can promote the chemical reactivity of the material with the surrounding environment leading to changes in optical properties. A low degree of conversion can promote detrimental effects to the physical properties of the materials, namely water sorption solubility, low strength and hardness. Another issue that could lead to toxicity is the excessive amount of resin cement that can be trapped into surrounding tissues. Thick layers of resin cement debris that are not correctly polymerized can cause inflammatory reactions to the surrounding tissues including the dentin-pulp complex. Additionally, the mechanical properties of the material are negatively affected and therefore the resin-matrix cement becomes susceptible to cracks and catastrophic fracture at the restorative interface.
+
+The main aim of the present study was to carry out a scoping review on the differences in degree of conversion of monomers regarding several types of resin cements, indirect restorative materials, and light-curing procedures used in dentistry. It was hypothesized that the degree of conversion of monomers varies depending on the inorganic fillers, organic matrix of the resin cements, types of indirect restorative materials and polymerization pathways.
+
+Method
+
+Search strategy
+
+A bibliographic review was performed on PubMed (via National Library of Medicine). The following search terms were assessed: "degree of conversion" OR "filler" AND "resin cement" OR "inorganic cement" AND "organic" OR "radiopacity" OR "refractive" OR "transmittance" OR "type" AND "resin composite." The inclusion criteria encompassed articles published in the English language from January 2011 up to January 2024, focusing on the degree of conversion of the organic matrix of resin-matrix cements. The eligibility inclusion criteria used for article searches also involved in vitro studies; randomized controlled trials; animal assays; and prospective cohort studies. The exclusion criteria were the following: papers without abstract; case report with short follow-up period; reviews; pilot studies; studies on the effect of fillers through other composite materials applied in different biomedical or engineering fields.
+
+A research question has been formulated following the PICO approach: "How different is the degree of conversion of monomers comparing several types of resin-matrix cements?" (i) Population: resin cements, human participants, animals, indirect restorative materials, polymerization mode; (ii) Intervention: mechanical assays, optical analyses, microscopy, chemical analyses, cementation procedures, light-curing mode, and equipment; (iii) Comparison: different resin cements, polymerization parameters, types of restorative materials; (iv) Outcomes: major findings related to the degree of conversion of different resin cements affected or not by the indirect restorative material.
+
+Study selection and data collection process
+
+The selection of studies was carried out in three steps. The initial search on PubMed database identified a total of 140 studies of which 38 duplicates were removed. The titles and abstracts of the 102 articles were read seeking concordance with the inclusion criteria. A total of 72 studies were excluded. The evaluation resulted in 30 potentially relevant studies, although 15 studies were excluded because they did not provide comprehensive data. Thus, 15 studies were included in this review.
+
+Results
+
+Within the 15 selected studies, 8 studies (53%) reported a high degree of conversion (DC) of the organic matrix ranging from 70 up to 90% while 7 studies (46%) showed lower DC values. Ten studies (66%) evaluated the DC by chemical analyses such as Fourier transform infrared spectroscopy (FTIR) while 3 studies evaluated the DC using Raman spectroscopy, and another one performed near-infrared spectroscopy (NIRS) analyses. Other 3 studies (20%) correlated flexural strength or hardness values with the DC. Four studies (26%) evaluated the effects of resin-matrix composites thickness on the DC values.
+
+The commercially available resin-matrix cements assessed were: Panavia™ (Kuraray Noritake Dental Inc.); Multilink™ (Ivoclar Vivadent); RelyX™ (3M ESPE); Choice 2™ (Bisco, Inc.); Nexus 3™ (Kerr); G-CEM LinkAce™ (GC Corp); and Enamel HFO™ (Micerium).
+
+Most of resin-matrix composites revealed an organic matrix composed of Bis-GMA, UDMA, Bis-EMA, TEGDMA, and camphorquinone (CQ)/tertiary amine photoinitiator system. The following micro- or nano-scale inorganic fillers were found in resin-matrix cements: amorphous silica, strontium glass, zirconium silicate, barium borosilicate glass, fluoro-aluminosilicate glass, sodium persulfate cupric acetate, and ytterbium fluoride.
+
+Discussion
+
+Resin-matrix cements in dentistry
+
+Resin-matrix cements are widely used for luting of indirect restorations including onlays, inlays, crowns, and intraradicular posts. The resin-matrix composites possess the following properties which are important for cementing ceramic veneers: low solubility, translucency, flowability, and elasticity.
+
+Dual-cured resin-matrix cements reveal advantages over chemically-cured resin cements considering a high degree of conversion (DC) of monomers, gradual shrinkage stresses, and feasible working time for chair-side procedures. However, light-cured resin-matrix cements are indicated beneath thin veneers since the light transmission is required for their polymerization pathway.
+
+The organic matrix of resin-matrix cements is reinforced by inorganic fillers, with a weight content ranging from 36 to 87%. A high filler content provides a high strength of the resin-matrix cement that enhances the mechanical properties of the interface. However, the content and type of fillers also affect light transmittance under polymerization. A high content of inorganic fillers can negatively affect the light transmittance under light curing although it also depends on the size and chemical composition of the inorganic fillers.
+
+Degree of conversion of monomers in the resin-matrix cement
+
+Adequate polymerization is fundamental to gathering physicochemical properties of the resin-matrix cements leading to an optimal stability of color and chemical composition. Degree of conversion (DC) of monomers refers to the conversion of monomeric carbon-carbon double bonds into polymeric carbon-carbon single bonds.
+
+High energy density (20 J/cm2) derived from both increased light curing time and low irradiance from the LCU results in a faster release of free radicals and, consequently, a higher DC of the resin-matrix cements. DC percentage in the organic matrix depends on the light curing unit (LCU) irradiance, light wavelength, light exposure time, light transmission, and light absorption by the photoinitiator. Several studies have reported that DC values should be higher than 55% on occlusal restorations. DC is also dependent on the filler volume, fraction, particle size, shape and the refractive index.
+
+Inorganic fillers that have refractive index close to monomers of the organic matrix, allow better light transmittance, which in turn influences the DC of resin cements. Bis-GMA is known as monomer with increased viscosity and then diluent monomers (e.g., TEGDMA) are added to the Bis-GMA organic matrix formulations to decrease the viscosity and improve monomers cross-link. The DC of resin cements with Bis-GMA in their composition is dependent on the amount of TEGDMA, that improves the degree of conversion because of its mobility and reactivity.
+
+Regarding the translucency, the higher the opacity and saturation of the resin-matrix cement decreases the light transmission leading to poor physicochemical properties. The thickness and translucency of the ceramic restoration affect the light transmittance towards the resin-matrix cement. Glass-ceramic materials such as lithium disilicate-reinforced glass ceramics are translucent although a thick structure decreases the light transmittance towards the resin-matrix cement.
+
+Conclusions
+
+The highest percentage of degree of conversion of monomers was reported for dual-cured resin-matrix cements. Both chemical and light-induced pathways promoted an enhanced polymerization of the material. Similar degree of conversion of the same resin-matrix cement were recorded when the prosthetic structure showed a low thickness. On thick prosthetic structures, translucent materials are required to allow the light transmission achieving the resin-matrix cement.
+
+DC mean values of resin-matrix cements light-cured through a ceramic veneer with 0.4 mm thickness were higher (~83%) than those recorded for resin-matrix cements light-cured through a thicker ceramic layer of 1.5 mm (~77%). The variation of DC values was dependent on the inorganic fillers, organic matrix content, restorative materials, and polymerization mode.
