@@ -3603,6 +3603,7 @@ tags: []
 - [[resin-bonding/elhaddad-2026-cervical-margin-relocation-periodontal-restorative]] — ElHaddad 2026 · sr+ma (Quintessence Int, abstract-only): 치경부 변연 재위치(CMR/DME) 첫 SR+MA — 치주 건강 해치지 않음(PD −0.96mm, BOP −0.52), 변연 적합도는 접착 전략·재료에 좌우(접착성 글라스세라믹 최적) (DOI 10.3290/j.qi.b6881272)
 - [[resin-bonding/shimizu-2021-evaluation-of-restorative-techniques-for]] — 소 치아 VRF 접착수복 in vitro(군당 n=16): 10-3 용액+UB+EC 군 μTBS 46.43 MPa vs Super-Bond 대조 39.36 MPa (p=0.0092), 인산 전처리만 미세누출 증가; 저작 1개월 모사라 임상 근거 아님
 - [[resin-bonding/li-2025-laboratory-study-on-reattachment-of]] — VRF 재접착 4-META/MMA-TBB 레진 in vitro(소 치근): 세포독성 iRoot BP Plus와 유사, 파절저항 220.9 N(건전 79.3%) vs GIC 53.2 N, 염료침투 0.63 mm vs 1.44·2.08 mm; 벤치 근거만
+- [[resin-bonding/patangia-2025-effect-oxygen-inhibited-layer-dental]] — 산소억제층(OIL)이 접착 강도에 미치는 영향 SR: 광중합 레진엔 OIL이 유익(접착강도↑), 자가중합엔 유해(접착강도↓), n=8 (Patangia 2025)
 
 ### Resin / inlay — direct & indirect restorations
 - [[resin/wolff-2024-direct-composite-restorations-permanent-teeth]] — Wolff 2024 · consensus · German S3/GRADE guideline: direct composite recommended for Class I–V, cusp replacement, preferred over indirect inlays posteriorly
@@ -3842,6 +3843,14 @@ tags: []
 **resin**
 - [[resin/melo-2023-bioactive-dental-resins-restorative-dentistry]] — Critical review of bioactive resin strategies (metallic nanoparticles, QAMs, NACP) to prevent secondary caries, with failure-rate benchmarks and formulation vulnerability analysis (2023)
 - [[resin/susita-2026-comparative-analysis-stress-distribution-teeth]] — 3D FEA, 상악 중절치: 유리섬유·SFRC·Ribbond 포스트 응력 비교; SFRC 포스트 내부 응력 최저(5.22 MPa)·상아질 친화적 응력 분포 (DOI 10.4103/JCDE.JCDE_102_26)
+- [[resin/ceinos-2026-light-curing-units-restorative-dentistry]] — LCU 임상 내러티브: 폴리웨이브 LED 3세대가 표준, 유효 조사량·스펙트럼 호환성·빔 균질성이 irradiance보다 중요 (2026)
+- [[resin/watts-2023-light-curing-dental-resin-based]] — 광중합 메커니즘 과학 리뷰: 광자·광개시제·자유라디칼 중합 원리, LCU 설계 변수, 상호성 가설, 벌크필 광자 침투 (Watts 2023)
+- [[resin/fdi-2022-intraoral-light-curing-resin-based]] — FDI 공식 권고문: 구강 내 레진 재료 광중합 지침, LED LCU 사용 기준 (FDI 2022)
+- [[resin/kowalska-2021-photoinitiators-used-resin-based]] — 치과 복합레진 광개시제 전체 리뷰: CQ·PPD·TPO·아실포스핀 비교, 전환율·경도·생체적합성, 대안 광개시제 전망 (Kowalska 2021)
+- [[resin/santos-2024-impact-inorganic-fillers-organic-content]] — 레진 시멘트 전환율(DC) scoping review: 듀얼큐어 DC 70-90% 최고, 세라믹 두께 0.4mm→83% vs 1.5mm→77%, 중합 모드·충전재 조성이 중합도에 영향 (Santos 2024)
+- [[resin/lima-2023-polywave-light-emitting-diodes-more]] — 폴리웨이브 vs 모노웨이브 LED SR: TPO 함유 복합레진에서 폴리웨이브가 DC·경도 우수(9/18·7/18 연구), 굴곡강도 차이 없음, 근거 수준 낮음 (Lima 2023)
+- [[resin/lima-2018-depth-cure-bulk-fill-resin]] — 벌크필 레진 중합 깊이 SR: 성공적 중합에 조사강도 ≥1000 mW/cm²·조사시간 ≥20s 필수, bottom/top ratio ≥0.8·DC ≥50% 기준, n=33 (Lima 2018)
+- [[resin/braga-2005-factors-polymerization-shrinkage-stress]] — 중합수축응력 발생 인자 SR (고전): 부피수축·점탄성 거동·수축 구속의 3인자 모델, 반응역학·C-factor, 스트레스 감소 기법은 재료 의존적 (Braga 2005)
 
 **caries**
 - [[caries/moynihan-2016-sugars-dental-caries-threshold-intake]] — Review (54 studies) establishing moderate-quality dose-response that free sugars ≤10%E reduces caries and low-quality evidence for further benefit below 5%E, underpinning the 2015 WHO guideline (2016)
