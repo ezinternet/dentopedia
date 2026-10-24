@@ -4,7 +4,7 @@ authors: Hamad et al.
 year: 2025
 date: 2026-10-23
 doi: 10.4317/jced.63093
-source: sources/hamad-2025-buffered-lidocaine-maxillary-extraction-rct.md
+source: hamad-2025-buffered-lidocaine-maxillary-extraction-rct.md
 category: local-anesthesia
 evidence_level: rct
 source_collection: pubmed-text
