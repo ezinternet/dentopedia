@@ -4,7 +4,7 @@ authors: Karatassas A, Morris RG, Walsh D, Hung P, Slavotinek AH
 year: 1993
 date: 2026-10-23
 doi: 10.1111/j.1445-2197.1993.tb00380.x
-source: sources/karatassas-1993-lignocaine-safety-hernia-elderly.md
+source: karatassas-1993-lignocaine-safety-hernia-elderly.md
 category: local-anesthesia
 evidence_level: prospective
 source_collection: pubmed-abstract
