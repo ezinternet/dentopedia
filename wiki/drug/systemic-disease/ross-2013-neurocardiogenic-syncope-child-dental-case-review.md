@@ -4,7 +4,7 @@ authors: Ross PJ, Schneider PE, Helpin M
 year: 2013
 date: 2026-10-23
 doi: ""
-source: sources/ross-2013-neurocardiogenic-syncope-child-dental-case-review.md
+source: ross-2013-neurocardiogenic-syncope-child-dental-case-review.md
 category: drug/systemic-disease
 evidence_level: case-report
 source_collection: pubmed-abstract
