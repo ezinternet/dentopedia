@@ -4,7 +4,7 @@ authors: Cook DC, Mealey BL
 year: 2012
 date: 2026-10-22
 doi: 10.1902/jop.2012.120219
-source: sources/cook-2012-ridge-preservation-glymatrix-rct.md
+source: cook-2012-ridge-preservation-glymatrix-rct.md
 category: bone-regeneration
 evidence_level: rct
 source_collection: pubmed-abstract
