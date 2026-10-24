@@ -12,6 +12,22 @@ full_text: true
 evidence_level: rct
 ---
 
+## Three-line Summary
+
+Prospective RCT (n=110, 5 months, India, 2025) comparing 2% lidocaine + 1:80,000 adrenaline vs plain 2% lidocaine for tooth extractions at three timepoints (baseline, 10 min post-anaesthesia, post-extraction).
+
+Adrenaline-containing group showed significantly higher systolic BP (+12.69%), diastolic BP (+10.60%), blood glucose (+14.63%) and pulse rate (+15.84%) at post-extraction vs plain lidocaine (all p<0.001); adrenaline was the dominant predictor for all parameters in multiple regression.
+
+These quantified haemodynamic and glycaemic effects provide risk calibration data for lidocaine-adrenaline use in hypertensive or diabetic patients undergoing extraction.
+
+## 세줄요약
+
+발치 시 2% 리도카인+1:80,000 아드레날린 vs 아드레날린 없는 2% 리도카인을 비교한 전향적 RCT (n=110, 5개월, 인도, 2025; 3시점 측정).
+
+아드레날린 함유 군에서 발치 후 수축기 혈압(+12.69%)·이완기 혈압(+10.60%)·혈당(+14.63%)·맥박수(+15.84%)가 모두 유의하게 높았다(p<0.001); 다중 회귀에서 아드레날린이 모든 지표의 지배적 예측인자.
+
+이 정량화된 혈역학적·혈당 효과는 발치 시 고혈압·당뇨 환자에서 리도카인-아드레날린 사용의 위험 보정 데이터를 제공한다.
+
 ## Why Ingested
 
 → [[local-anesthesia/paladugu-2026-lidocaine-adrenaline-systemic-effects-extraction]]
