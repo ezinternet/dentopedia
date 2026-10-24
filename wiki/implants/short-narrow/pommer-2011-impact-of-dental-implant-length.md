@@ -22,6 +22,22 @@ relations:
     target: krisam-2019-factors-affecting-the-early-failure
 ---
 
+## Three-line Summary
+
+Meta-analysis of 54 prospective observational publications (19,083 implants), several with author-supplied data, testing whether short implants (≥7 mm, <10 mm) fail more than longer ones (≥10 mm) within the first year of prosthetic loading.
+
+No length effect was found in the mandible; in the maxilla, short machined-surface implants had markedly higher failure anteriorly (OR 5.4) and posteriorly (OR 3.4), and short rough-surface implants showed elevated failure only in the anterior maxilla.
+
+Diameter and denture type did not modify the association; short rough-surface implants remain a viable augmentation-reducing option in the posterior maxilla, where the length-survival relationship is weaker.
+
+## 세줄요약
+
+54편의 전향적 관찰연구(19,083개 임플란트)를 메타분석하여 단단형(7–9 mm)이 장형(≥10 mm)보다 보철 하중 첫 해에 더 많이 실패하는지 검증했으며, 일부 저자 데이터 보완이 포함됐다.
+
+하악에서는 길이 효과가 없었으나, 상악에서는 기계 가공면 단단형이 전치부(OR 5.4)·구치부(OR 3.4) 모두 유의하게 높은 실패율을 보였고, 거친 표면 단단형은 전치부 상악에서만 실패 증가를 보였다.
+
+직경과 보철 유형은 효과를 변경하지 않았으며, 거친 표면 단단형은 특히 상악 구치부에서 골 증대술 대안으로 유효하다고 결론지었다.
+
 abstract-only — full text not retrieved (paywalled; no open-access copy found). The source is the PubMed/Europe PMC abstract. Design details beyond the abstract are not available.
 
 ## One-line Summary
