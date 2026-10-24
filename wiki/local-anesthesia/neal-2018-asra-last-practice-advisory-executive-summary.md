@@ -4,7 +4,7 @@ authors: Neal JM, Barrington MJ, Fettiplace MR, Gitman M, Memtsoudis SG, Mörwal
 year: 2018
 date: 2026-10-23
 doi: 10.1097/AAP.0000000000000720
-source: sources/neal-2018-asra-last-practice-advisory-executive-summary.md
+source: neal-2018-asra-last-practice-advisory-executive-summary.md
 category: local-anesthesia
 evidence_level: consensus
 source_collection: pubmed-abstract
