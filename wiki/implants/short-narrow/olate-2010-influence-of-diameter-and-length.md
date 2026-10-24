@@ -22,6 +22,22 @@ relations:
     target: krisam-2019-factors-affecting-the-early-failure
 ---
 
+## Three-line Summary
+
+Retrospective review of 1,649 acid-etched cylindrical implants (650 patients, three manufacturers) assessing the effect of implant length and diameter on early failure rates across a 1996–2004 Chilean case series.
+
+Overall early survival was 96.2%; short implants (6–9 mm) failed at 9.9% vs 3.0–3.4% for medium/long, and narrow-diameter implants at 5.1% vs 2.7% wide; anterior placement was also associated with higher loss.
+
+Short length and anterior maxillary location were the strongest predictors; the authors attribute part of the elevated short-implant risk to learning-curve effects during a period of expanding indications for this design.
+
+## 세줄요약
+
+칠레에서 3개 제조사 산(酸) 처리 원통형 임플란트 1,649개(650명, 1996–2004)를 후향적으로 검토하여 길이·직경과 조기 실패율의 관계를 분석했다.
+
+전체 조기 생존율은 96.2%였으며, 단단형(6–9 mm) 9.9% vs 중·장형 3.0–3.4%, 세직경(細直徑) 5.1% vs 광직경 2.7%로 뚜렷한 차이를 보였고, 전치부 배치도 실패와 관련됐다.
+
+짧은 길이와 전치부 상악 위치가 가장 강한 예측인자였으며, 저자들은 단단형 위험 일부가 해당 시기 적응증 확장에 따른 학습 곡선을 반영한다고 설명했다.
+
 abstract-only — full text not retrieved (paywalled; no open-access copy found). The source is the PubMed/Europe PMC abstract. Design details beyond the abstract are not available.
 
 ## One-line Summary
