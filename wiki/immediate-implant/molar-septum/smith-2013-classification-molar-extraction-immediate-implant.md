@@ -4,7 +4,7 @@ authors: Smith RB, Tarnow DP
 year: 2013
 date: 2026-10-22
 doi: 10.11607/jomi.2627
-source: sources/smith-2013-classification-molar-extraction-immediate-implant.md
+source: smith-2013-classification-molar-extraction-immediate-implant.md
 category: immediate-implant/molar-septum
 evidence_level: case-report
 source_collection: pubmed-abstract
