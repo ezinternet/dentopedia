@@ -8,6 +8,22 @@ source_collection: pubmed-abstract
 evidence_level: rct
 ---
 
+## Three-line Summary
+
+Double-blind RCT (n=150 ASA I adults) comparing posterior superior alveolar (PSA) nerve block vs buccal infiltration for non-surgical maxillary second and third molar extractions, both using 1.8 mL of 2% lidocaine 1:100,000 epinephrine.
+
+No significant differences in VAS, VDS or supplemental anesthesia rates; PSA block had significantly more complications (4.0% vs 0%, p=0.03), including hematoma, trismus and positive aspiration.
+
+Buccal infiltration provides equivalent analgesia for maxillary second/third molar extraction with a significantly lower complication profile, supporting it as the preferred technique over PSA block.
+
+## 세줄요약
+
+비수술적 상악 제2·제3대구치 발치에서 후상치조신경차단(PSA Block) vs 협측 침윤마취를 비교한 이중맹검 RCT (n=150, ASA I, 두 군 모두 2% 리도카인 1:100,000 에피네프린 1.8 mL).
+
+VAS·VDS·추가 마취 필요율에서 유의한 차이 없었으나, PSA 차단군에서 합병증(혈종·개구장애·양성 흡인)이 유의하게 더 많았다(4.0% vs 0%, p=0.03).
+
+협측 침윤마취는 상악 대구치 발치에서 PSA 차단과 동등한 마취 효과를 제공하면서 합병증이 유의하게 적어 선호 기법으로 지지된다.
+
 ## Why Ingested
 
 → [[local-anesthesia/jain-2025-psa-buccal-infiltration-maxillary-molar-extraction]]
