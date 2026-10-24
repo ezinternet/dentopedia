@@ -4,7 +4,7 @@ authors: Ciechanowicz SJ, Patil VK
 year: 2012
 date: 2026-10-23
 doi: 10.1038/sj.bdj.2012.187
-source: sources/ciechanowicz-2012-last-lipid-emulsion-dental-review.md
+source: ciechanowicz-2012-last-lipid-emulsion-dental-review.md
 category: local-anesthesia
 evidence_level: narrative-review
 source_collection: pubmed-abstract
