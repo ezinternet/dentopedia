@@ -22,6 +22,22 @@ relations:
     target: krisam-2019-factors-affecting-the-early-failure
 ---
 
+## Three-line Summary
+
+Systematic review of 34 prospective and retrospective studies (2000–2015; 1,977 patients, 3,119 implants; ≥1 year after loading) comparing survival of implants placed with the transcrestal (osteotome) sinus floor elevation technique with versus without grafting in the posterior maxilla.
+
+Weighted cumulative survival was 95.89% with grafting and 97.30% without (P=.05); 84 of 102 failures occurred within the first year of loading; in grafted cases survival declined when residual bone height was below 5 mm, and implants shorter than 8 mm carried lower overall survival.
+
+The survival advantage of the graft-free transcrestal approach is clinically relevant for case selection, supporting graft-free technique when residual bone height ≥5 mm and reinforcing the first year of loading as the dominant risk period.
+
+## 세줄요약
+
+34편의 전향·후향 연구(2000–2015, 1,977명, 3,119개 임플란트, 하중 후 최소 1년)를 체계적 고찰하여 치조정접근 상악동 거상 (Transcrestal Sinus Floor Elevation, TSFE)의 이식재 사용·미사용 생존율을 비교했다.
+
+가중 누적 생존율은 이식 시 95.89%, 미이식 시 97.30%(P=.05)였으며, 102건 실패 중 84건이 하중 첫 해에 발생했고, 이식 군에서 잔존 골 높이(Residual Bone Height, RBH) 5 mm 미만과 8 mm 미만 임플란트의 생존율이 낮았다.
+
+RBH ≥5 mm 증례에서 이식 생략 TSFE의 생존 우위는 이식 없는 접근을 지지하는 임상 근거이며, 하중 첫 해가 가장 위험한 시기임을 재확인한다.
+
 abstract-only — full text not retrieved (paywalled; no open-access copy found). The source is the PubMed/Europe PMC abstract. Design details beyond the abstract are not available.
 
 ## One-line Summary
