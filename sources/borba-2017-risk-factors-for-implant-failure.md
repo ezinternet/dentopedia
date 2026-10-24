@@ -11,6 +11,22 @@ pdf_filename: borba-2017-risk-factors-for-implant-failure.pdf
 source_collection: external
 ---
 
+## Three-line Summary
+
+Retrospective GEE analysis of 774 implants placed by supervised postgraduate students in 202 patients (2002–2014) at a Brazilian dental school, accounting for within-patient clustering.
+
+Implant-level survival was 96.8% and patient-level survival 91.8%; 22 of 25 failures were early (pre-provisional restoration); maxillary location was independently associated with failure in multivariate GEE, and bone augmentation showed a borderline association.
+
+Smoking could not be analysed due to only 13 smokers; the training context limits direct comparison with specialist-centre data, but the predominance of early failure (88%) aligns with the broader literature.
+
+## 세줄요약
+
+브라질 치과대학에서 대학원생이 지도 하에 식립한 임플란트 774개(202명, 2002–2014)를 GEE로 분석하여 환자 내 군집을 보정했다.
+
+임플란트 생존율 96.8%, 환자 기준 91.8%였으며 25건 실패 중 22건(88%)이 가식보철 전 조기 실패였고, 상악 위치가 다변량 GEE에서 독립 위험인자, 골 증대술은 경계 수준이었다.
+
+흡연자가 13명뿐이어서 흡연 효과를 분석할 수 없었으며, 수련 환경의 특성이 전문가 기관 데이터와의 직접 비교를 제한하지만 조기 실패 우세 패턴은 문헌과 일치한다.
+
 ## Why Ingested
 
 Cited by [[implants/survival/krisam-2019-factors-affecting-the-early-failure]] as one of the references (10–18) behind its background statement that early failures account for about 2–6% of implants placed. Ingested to make that benchmark traceable and to extend the evidence base of [[overviews/early-implant-failure-risk-prevention-overview]]. Full text from SciELO open access.
