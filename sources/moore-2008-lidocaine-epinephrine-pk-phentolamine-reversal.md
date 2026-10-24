@@ -18,6 +18,22 @@ tags:
   - dose-calculation
 ---
 
+## Three-line Summary
+
+Phase 1 pharmacokinetic trial (n=16, 4 treatment groups, Anesth Prog 2008) measuring PK parameters of lidocaine/epinephrine in a dental context with and without phentolamine mesylate reversal of soft-tissue numbness.
+
+Phentolamine (alpha-adrenergic antagonist) removed epinephrine-mediated vasoconstriction, accelerating systemic lidocaine absorption from the injection site — raising Cmax slightly while delaying Tmax.
+
+The safety-relevant implication is that phentolamine reversal does not cause toxic lidocaine accumulation, but clinicians should be aware of the modestly increased systemic absorption when using it in dose-sensitive patients.
+
+## 세줄요약
+
+치과 마취에서 리도카인/에피네프린 PK를 페놀타민(Phentolamine Mesylate, 연조직 마비 역전제) 사용·미사용 4군으로 비교한 1상 PK 연구(n=16; Anesth Prog 2008).
+
+페놀타민(알파 차단제)이 에피네프린 혈관수축을 제거하여 주사 부위에서의 리도카인 전신 흡수를 가속화해 Cmax를 소폭 높이고 Tmax를 지연시킨다.
+
+임상 안전 시사점: 페놀타민 역전이 독성 리도카인 축적을 유발하지 않으나, 용량 민감 환자에서 사용 시 전신 흡수 소폭 증가를 인지해야 한다.
+
 ## Summary
 
 Phase 1 pharmacokinetic trial (n=16, 4 treatment groups; Anesth Prog 2008) measuring PK parameters of lidocaine/epinephrine in a dental context with and without phentolamine mesylate reversal.
