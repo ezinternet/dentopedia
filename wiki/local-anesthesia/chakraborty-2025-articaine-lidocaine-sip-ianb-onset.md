@@ -4,7 +4,7 @@ authors: Chakraborty et al.
 year: 2025
 date: 2026-10-23
 doi: 10.7759/cureus.89090
-source: sources/chakraborty-2025-articaine-lidocaine-sip-ianb-onset.md
+source: chakraborty-2025-articaine-lidocaine-sip-ianb-onset.md
 category: local-anesthesia
 evidence_level: rct
 source_collection: pubmed-text
