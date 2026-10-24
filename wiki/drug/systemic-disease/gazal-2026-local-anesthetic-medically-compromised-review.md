@@ -4,7 +4,7 @@ authors: Gazal G, Nagi MA, Odabaş ME, Alharbi HA
 year: 2026
 date: 2026-10-23
 doi: 10.4103/sja.sja_571_25
-source: sources/gazal-2026-local-anesthetic-medically-compromised-review.md
+source: gazal-2026-local-anesthetic-medically-compromised-review.md
 category: drug/systemic-disease
 evidence_level: narrative-review
 source_collection: pubmed-text
