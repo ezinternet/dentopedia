@@ -4,7 +4,7 @@ authors: Ulm C, Strbac GD, Stavropoulos A, Esfandeyari A, Dobsak T, Bertl K
 year: 2021
 date: 2026-10-21
 doi: 10.1002/cre2.474
-source: sources/ulm-2021-bundle-bone-perforation-socket-healing.md
+source: ulm-2021-bundle-bone-perforation-socket-healing.md
 category: bone-regeneration/ridge-preservation
 evidence_level: case-report
 source_collection: pubmed-text
