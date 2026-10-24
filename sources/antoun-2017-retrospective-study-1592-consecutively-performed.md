@@ -15,6 +15,22 @@ text_filename: antoun-2017-retrospective-study-1592-consecutively-performed.txt
 source_url: https://pubmed.ncbi.nlm.nih.gov/28185409/
 ---
 
+## Three-line Summary
+
+Large retrospective series from one private referral clinic reporting early inflammatory complications and early implant failures in 3,082 TiUnite implants (1,017 patients, 1,592 operations) up to the first annual examination.
+
+Early mucositis with bone loss occurred in 2.1% of operations and was associated with periodontitis history, two-stage surgery, multiple implants and mandibular treatment; smoking and surgeon experience predicted early implant failure in separate analyses.
+
+Exact early-failure rates and effect sizes are not available in the published abstract due to truncation, limiting standalone interpretation but providing useful design benchmarks for referral-setting performance data.
+
+## 세줄요약
+
+단일 의뢰 클리닉에서 1,592건 수술로 식립한 TiUnite 임플란트 3,082개(환자 1,017명)의 첫 연간 검진까지 조기 염증 합병증과 초기 실패를 후향적으로 분석했다.
+
+조기 점막염+골 소실은 수술의 2.1%에서 발생했으며 치주질환 기왕력·2단계 수술·다수 임플란트·하악이 인자였고, 초기 임플란트 실패는 흡연과 술자 경험이 독립 예측인자였다.
+
+초록 절단으로 초기 실패율과 효과 크기가 보고되지 않아 단독 해석이 어려우나, 의뢰 기관 성과 기준 데이터로 활용 가능하다.
+
 abstract-only — full text not retrieved (paywalled; no open-access copy found). The source is the PubMed/Europe PMC abstract. Design details beyond the abstract are not available.
 
 ## Why Ingested
