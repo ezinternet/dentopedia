@@ -4,7 +4,7 @@ authors: Li et al.
 year: 2025
 date: 2026-10-23
 doi: 10.3389/fdmed.2025.1679706
-source: sources/li-2025-anesthesia-protocols-symptomatic-irreversible-pulpitis-meta-analysis.md
+source: li-2025-anesthesia-protocols-symptomatic-irreversible-pulpitis-meta-analysis.md
 category: local-anesthesia
 evidence_level: sr+ma
 source_collection: pubmed-text
