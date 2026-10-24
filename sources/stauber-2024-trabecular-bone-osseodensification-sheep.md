@@ -9,6 +9,22 @@ pdf_filename: stauber-2024-trabecular-bone-osseodensification-sheep.pdf
 source_collection: external
 ---
 
+## Three-line Summary
+
+Sheep in vivo study (n=12, 3 and 12 weeks) testing whether the presence of trabecular bone enhances outcomes from osseodensification (OD) instrumentation compared to OD performed without trabecular bone.
+
+Trabecular-bone-present group showed significantly higher %BIC (30.12% vs 10.94%, p=0.001) and %BAFO (16.74% vs 11.38%, p=0.003) at both timepoints, along with more advanced woven-to-lamellar bone remodeling.
+
+The results support the hypothesis that OD outcomes are dependent on local trabecular architecture, with clinical implications for site selection and preparation technique in regions with variable bone density.
+
+## 세줄요약
+
+양(n=12, 3주·12주) 생체 내(in vivo) 연구로 소주골(Trabecular Bone) 존재 유무가 골밀도화(Osseodensification, OD) 결과에 미치는 영향을 검증했다.
+
+소주골 존재 군에서 골-임플란트 접촉률(Bone-to-Implant Contact, %BIC: 30.12% vs 10.94%, p=0.001)과 골 면적 충전율(%BAFO: 16.74% vs 11.38%, p=0.003)이 두 시점 모두 유의하게 높았고, 섬유골→층판골 재형성도 더 진행됐다.
+
+OD의 이점이 국소 소주 골 구조에 의존함을 지지하며, 골 밀도가 다양한 부위에서의 위치 선정과 준비 기법 선택에 임상적 시사점을 제공한다.
+
 ## Why Ingested
 골밀화 (Osseodensification, OD) 효과가 해면골 (Trabecular/Cancellous Bone) 존재 여부에 따라 어떻게 달라지는지를 조직형태학 (Histomorphometry)으로 정량화한 전임상연구. [[implants/versah-protocols/trisi-2016-osseodensification-low-density-bone-sheep]]의 골밀화 효과 근거를 피질골 우세 부위(해면골 제거)로 확장. 우븐본 (Woven Bone)·층판골 (Lamellar Bone)·%BIC·%BAFO를 3주·12주 두 시점에서 비교측정하여 [[overviews/bone-tissue-types-classification-overview]] 증거맵의 woven→lamellar 전환 타임라인 보강.
 
