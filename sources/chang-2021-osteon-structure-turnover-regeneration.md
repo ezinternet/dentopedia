@@ -9,6 +9,22 @@ pdf_filename: chang-2021-osteon-structure-turnover-regeneration.pdf
 source_collection: external
 ---
 
+## Three-line Summary
+
+Narrative review (Tissue Engineering Part B, 2021) synthesizing the hierarchical structure of osteons, Haversian canal function, lacunocanalicular network mechanotransduction, BMU-level bone turnover and aging effects, and bioengineering strategies for cortical bone regeneration.
+
+Key structural parameters: osteon diameter 100–300 μm, lamellar thickness 3–7 μm, annual cortical turnover 2–5% in young adults rising to 10–15% in aged bone; each BMU cycle spans 4–6 months.
+
+Bioengineering approaches reviewed include biomimetic osteon scaffolds, decellularized cortical bone constructs and load-bearing calcium phosphate architectures targeting Haversian microstructure for functional cortical regeneration.
+
+## 세줄요약
+
+오스테온(Osteon, 골원)의 계층적 구조·하버스관(Haversian Canal) 기능·소골세포 연락관 네트워크(LCN) 기계적 자극 전달·기본 다세포단위(BMU) 골 재형성·노화 효과·피질골 재생 공학 전략을 종합 고찰했다(Tissue Engineering Part B, 2021).
+
+주요 수치: 골원 직경 100–300 μm, 층판 두께 3–7 μm, 연간 피질골 교체율 젊은 성인 2–5% → 노인 10–15%; BMU 주기 4–6개월.
+
+하버스 미세구조를 목표로 하는 생체모방 스캐폴드·탈세포 피질골·부하 지지 인산칼슘 구조체 등 바이오공학 접근이 검토됐다.
+
 ## Why Ingested
 피질골 (Cortical Bone)의 구조·기능 단위인 오스테온 (Osteon, Haversian System)을 체계적으로 정리한 리뷰. 기존 [[bone-biology/rowe-2023-physiology-bone-remodeling]]은 리모델링 세포 생물학 중심이나, 이 논문은 층판골 (Lamellar Bone)·라쿠나-캐나리쿨라 네트워크 (Lacunocanalicular Network)·시멘트라인 (Cement Line) 등 피질골 미세구조 계층을 단독으로 다룬다. [[overviews/bone-tissue-types-classification-overview]] 에서 미흡했던 "오스테온 내부 구조→역학적 기여" 근거 보강.
 
