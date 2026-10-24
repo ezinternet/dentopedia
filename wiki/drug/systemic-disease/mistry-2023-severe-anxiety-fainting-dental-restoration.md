@@ -4,7 +4,7 @@ authors: Mistry N, Kufta K, Mupparapu M, Panchal N
 year: 2023
 date: 2026-10-23
 doi: 10.1016/j.cden.2023.02.029
-source: sources/mistry-2023-severe-anxiety-fainting-dental-restoration.md
+source: mistry-2023-severe-anxiety-fainting-dental-restoration.md
 category: drug/systemic-disease
 evidence_level: case-report
 source_collection: pubmed-abstract
