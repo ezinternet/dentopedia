@@ -423,3 +423,52 @@ ptyp: GUIDE
 **노이즈**: GUIDE ptyp 덕에 10건 수준으로 깨끗하다. 다만 **동일 가이드라인의 학회지 재게재**가 대부분(2017 ACC/AHA가 8건) → canonical 1건(28280231 Circulation full)만 큐 적립.
 
 **라우팅**: `wiki/drug/systemic-disease/` · 감별 오버뷰.
+
+---
+
+### resin-photoinitiator (광개시제 / photoinitiator · LED 스펙트럼 매칭)
+
+```
+("photoinitiator"[tiab] OR "photo-initiator"[tiab] OR "camphorquinone"[tiab] OR "CQ photoinitiator"[tiab] OR "acylphosphine oxide"[tiab] OR "Lucirin TPO"[tiab] OR "Ivocerin"[tiab] OR "BAPO"[tiab] OR "polywave"[tiab] OR "multi-peak LED"[tiab] OR "broadband LED"[tiab] OR "violet LED"[tiab]) AND ("dental composite"[tiab] OR "resin composite"[tiab] OR "composite resin"[tiab] OR "dental resin"[tiab] OR "light-curing"[tiab] OR "photopolymerization"[tiab])
+ptyp: SR, MA, Review
+```
+
+**목적**: 광개시제(photoinitiator) 시스템 — CQ(camphorquinone, 468 nm)·TPO(380 nm)·Ivocerin/BAPO(380 nm) 흡수 스펙트럼, 단일-피크(single-peak) vs 다중-피크(polywave/multi-peak) LED 큐어링 램프의 개시 효율 차이, 라디칼(radical) 생성 기전, 공개시제(co-initiator, DMAEMA 등) 역할.
+
+**커버리지 gap**: 기존 위키에 CQ·TPO 직접 비교 SR/narrative review 없음 (2026-10-24 확인). Ivocerin(Ivoclar)·BAPO는 리뷰급 문헌 0편.
+
+**ptyp 선택 근거**: RCT는 광개시제 비교에 적합하지 않음(in-vitro 주도 영역) — SR+MA+Review(narrative)까지 포함. PubMed `Review[pt]` 필터로 노이즈 수용 가능 범위 예상.
+
+**주요 변수 축**:
+1. 광개시제 흡수 스펙트럼 vs LCU 방출 스펙트럼 매칭 효율
+2. CQ 잔류 → 황변(yellowing)·생체적합성 문제
+3. TPO/Ivocerin의 보충 또는 대체 임상 가능성
+4. polywave LCU가 CQ 단독 재료에서 낭비가 없는지 효율 검증
+
+**라우팅**: `wiki/resin/` + 오버뷰 후보 `resin-photoinitiator-led-spectrum-overview`.
+
+---
+
+### resin-polymerization-kinetics (중합 역학 / degree of conversion · depth of cure · oxygen inhibition)
+
+```
+("degree of conversion"[tiab] OR "monomer conversion"[tiab] OR "polymerization kinetics"[tiab] OR "gel point"[tiab] OR "vitrification"[tiab] OR "depth of cure"[tiab] OR "curing depth"[tiab] OR "oxygen inhibition"[tiab] OR "oxygen-inhibited layer"[tiab] OR "dark cure"[tiab] OR "dark reaction"[tiab] OR "preheating composite"[tiab] OR "pre-heating composite"[tiab] OR "warm composite"[tiab]) AND ("dental composite"[tiab] OR "resin composite"[tiab] OR "composite resin"[tiab] OR "dental material"[tiab] OR "resin-based composite"[tiab])
+ptyp: SR, MA, Review
+```
+
+**목적**: 복합레진 중합의 물리화학적 원리 — 전환율(Degree of Conversion, DC) 측정법(FTIR·Raman)·결정 인자, 젤포인트(gel point)·유리화(vitrification) 전이, 산소억제층(oxygen inhibition layer) 두께·영향·제거법, 다크큐어(dark cure / dark reaction) kinetics, 예열(preheating)이 중합에 미치는 영향, 깊이별 DC 분포.
+
+**커버리지 gap**: 기존 위키는 수축응력·DC 임상적 측면(tip-거리) 위주 — 중합 kinetics 자체를 다루는 SR/Review 없음 (2026-10-24 확인).
+
+**ptyp 선택 근거**: in-vitro 원리 탐구 영역 — RCT 없고 SR+Review가 지배적.
+
+**주요 변수 축**:
+1. DC 측정법 비교 (FTIR vs Raman) 및 허용 기준(ISO ≥55–70%)
+2. 젤포인트 이전(pre-gel) vs 이후(post-gel) 수축응력 분리
+3. 산소억제층 두께·조성·제거 전략(mylar strip, glycerin, air-block)
+4. 다크큐어 기여 비율 vs 광중합 기여 비율
+5. 예열이 점도·DC·수축에 미치는 영향
+6. 충전재(filler) 종류·함량이 광산란(scattering)·DC에 미치는 영향
+
+**라우팅**: `wiki/resin/` + 오버뷰 후보 `resin-polymerization-kinetics-conversion-overview`.
+
