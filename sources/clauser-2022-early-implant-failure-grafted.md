@@ -14,6 +14,22 @@ full_text: false
 tags: [early-implant-failure, bone-grafting, GBR, augmented-site, osseointegration, meta-analysis, systematic-review]
 ---
 
+## Three-line Summary
+
+First dedicated SR+MA (10 cohort studies, 231 full-texts screened, Newcastle-Ottawa quality assessment) comparing early implant failure (EIF — failure before functional loading) in grafted versus non-grafted sites.
+
+Pooled OR = 1.50 (95% CI 1.06–2.13), indicating grafted sites carry 50% higher odds of EIF than non-grafted sites; data for other risk factors within the grafted subgroup were insufficient for additional meta-analysis.
+
+The finding is directionally consistent with single-cohort data (Yari 2023: OR 2.24; Bonsmann 2025: sinus augmentation as independent EIF predictor) and provides the first dedicated pooled estimate for clinical counselling on augmented sites.
+
+## 세줄요약
+
+이식 부위 vs 비이식 부위의 조기 임플란트 실패(EIF, 기능 하중 전 실패)를 전문 비교한 최초 SR+MA (코호트 10편, 231편 전문 선별, Newcastle-Ottawa 질 평가)다.
+
+풀링 OR = 1.50 (95% CI 1.06–2.13)으로 이식 부위가 비이식 대비 EIF 위험 50% 증가했으며, 이식 하위 그룹 내 추가 위험인자 메타분석은 데이터 부족으로 불가했다.
+
+Yari 2023(OR 2.24)·Bonsmann 2025 등 단일 코호트 결과와 방향이 일치하며, 증대 부위 환자 상담을 위한 최초 풀링 추정치를 제공한다.
+
 ## Why Ingested
 이식부(bone-grafted site)에서의 조기 임플란트 실패(Early Implant Failure, EIF) 위험을 직접 메타분석한 유일한 전용 SR+MA. 기존 [[implants/survival/yari-2023-risk-factors-early-implant-failure]]가 후향적 단일 코호트(augmented site OR 2.24)인 반면, Clauser는 이 질문에만 집중한 풀링 SR+MA(OR 1.50)로 방법론 층위를 채운다. [[overviews/early-implant-failure-risk-prevention-overview]] 이식부 위험 섹션 보강.
 
