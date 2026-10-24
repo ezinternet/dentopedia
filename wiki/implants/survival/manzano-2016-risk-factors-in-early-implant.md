@@ -22,6 +22,22 @@ relations:
     target: fan-2024-smoking-early-implant-failure-sr-ma
 ---
 
+## Three-line Summary
+
+SR+MA of 9 studies (18,171 implants, search July 2014) pooling odds ratios for patient-level and implant-level predictors of early implant failure across diverse clinical settings.
+
+Smoking, implant length under 10 mm and maxillary location were statistically significant risk factors; implant diameter was analysed but not reported as significant.
+
+This meta-analysis provides the empirical foundation for the widely cited 2–6% early failure rate range and is frequently referenced for risk stratification prior to implant planning (e.g., Krisam 2019).
+
+## 세줄요약
+
+9편의 연구(18,171개 임플란트, 검색 2014년 7월)를 메타분석하여 조기 임플란트 실패의 환자·임플란트 수준 예측인자의 교차비(OR)를 풀링했다.
+
+흡연·10 mm 미만 임플란트·상악 위치가 유의한 위험인자였으며, 직경은 분석했으나 유의하지 않았다.
+
+이 메타분석은 널리 인용되는 조기 실패율 2–6% 범위의 실증적 근거이며 임플란트 계획 전 위험 계층화에 빈번히 참조된다(예: Krisam 2019).
+
 abstract-only — full text not retrieved (paywalled; no open-access copy found). The source is the PubMed/Europe PMC abstract. Design details beyond the abstract are not available.
 
 ## One-line Summary
