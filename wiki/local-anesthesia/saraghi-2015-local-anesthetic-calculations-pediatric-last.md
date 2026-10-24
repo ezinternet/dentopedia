@@ -4,7 +4,7 @@ authors: Saraghi M, Moore PA, Hersh EV
 year: 2015
 date: 2026-10-23
 doi: ""
-source: sources/saraghi-2015-local-anesthetic-calculations-pediatric-last.md
+source: saraghi-2015-local-anesthetic-calculations-pediatric-last.md
 category: local-anesthesia
 evidence_level: narrative-review
 source_collection: pubmed-abstract
