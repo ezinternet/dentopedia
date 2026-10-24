@@ -4,7 +4,7 @@ authors: Friedmann A, Gissel K, Soudan M, Kleber BM, Pitaru S, Dietrich T
 year: 2011
 date: 2026-10-22
 doi: 10.1111/j.1600-051X.2011.01738.x
-source: sources/friedmann-2011-rct-cross-linked-vs-non-crosslinked-lateral-augmentation.md
+source: friedmann-2011-rct-cross-linked-vs-non-crosslinked-lateral-augmentation.md
 category: bone-regeneration
 evidence_level: rct
 source_collection: pubmed-abstract
