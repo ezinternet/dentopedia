@@ -4,7 +4,7 @@ authors: Baggio AMP, Viotto AHA, Delamura IF, Bizelli VF, Jacob RGM, Deus CBD, N
 year: 2025
 date: 2026-10-22
 doi: 10.1590/1807-3107bor-2025.vol39.110
-source: sources/baggio-2025-ossix-plus-vs-biogide-rat-calvaria-gbr.md
+source: baggio-2025-ossix-plus-vs-biogide-rat-calvaria-gbr.md
 category: bone-regeneration
 evidence_level: animal
 source_collection: pubmed-text
