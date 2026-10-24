@@ -13,6 +13,22 @@ evidence_level: rct
 category: local-anesthesia
 ---
 
+## Three-line Summary
+
+Double-blind RCT (n=100 adults, India, 2025) comparing 4% articaine (1:100,000 epi) vs 2% lignocaine (1:80,000 epi) for IANB in patients with symptomatic irreversible pulpitis (SIP) in mandibular first molars undergoing root canal treatment.
+
+Articaine showed significantly faster onset (4.3 vs 7.8 min), longer duration (120.8 vs 64.9 min) and better pain control (SF-MPQ 1.09 vs 1.63) — all p<0.001 — despite the lignocaine arm using higher-concentration vasoconstrictor (1:80,000 epi).
+
+In the SIP context, IANB onset is extended approximately 50% vs healthy tissue (7.8 min vs typical ~5 min for lidocaine), providing clinically critical timing data for endodontic planning.
+
+## 세줄요약
+
+하악 제1대구치 증상성 비가역적 치수염(SIP) 환자 근관치료 시 IANB에서 4% 아르티카인(1:100,000 에피) vs 2% 리그노카인(1:80,000 에피)을 비교한 이중맹검 RCT (n=100, 인도, 2025).
+
+아르티카인이 발현 시간(4.3 vs 7.8분)·지속 시간(120.8 vs 64.9분)·통증 강도(SF-MPQ 1.09 vs 1.63) 모두 유의하게 우수했다(p<0.001), 리그노카인 군의 더 높은 혈관수축제 농도(1:80,000)에도 불구하고.
+
+SIP 환경에서 리도카인 IANB 발현은 건강 조직 대비 약 50% 연장(~7.8분 vs ~5분)되어 근관 치료 마취 타이밍 예측에 핵심 데이터다.
+
 ## Summary
 
 Double-blind RCT (n=100; India; 2025) comparing 4% articaine (1:100,000 epi) vs 2% lignocaine (1:80,000 epi) for IANB in patients with symptomatic irreversible pulpitis (SIP) in permanent mandibular first molars undergoing root canal treatment. Articaine demonstrated significantly faster onset (4.3 vs 7.8 min), longer duration (120.8 vs 64.9 min), and better pain control (SF-MPQ 1.09 vs 1.63) — all p<0.001.
