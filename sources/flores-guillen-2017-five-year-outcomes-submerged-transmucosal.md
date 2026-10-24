@@ -12,6 +12,22 @@ pmid: "29032574"
 source_url: https://pubmed.ncbi.nlm.nih.gov/29032574/
 ---
 
+## Three-line Summary
+
+Five-year RCT (n=40 enrolled, 30 completed) comparing submerged vs transmucosal healing of bone-level implants for single-tooth replacement at a Spanish university periodontology programme.
+
+Both groups showed 100% implant survival with no significant differences in crestal bone loss (submerged 0.59 mm vs transmucosal 0.78 mm at 5 years), soft-tissue parameters or patient-reported outcomes.
+
+The equivalence of both approaches at 5 years supports transmucosal one-stage healing as a clinically simplified alternative without compromising long-term survival or bone maintenance.
+
+## 세줄요약
+
+골수준(Bone-Level) 임플란트의 매몰/경점막 치유를 단일치 수복에서 비교한 5년 RCT (등록 40명, 완료 30명, 스페인 대학 치주과).
+
+두 군 모두 생존율 100%, 변연골 소실·연조직·환자 보고 결과에서 유의한 차이 없었다(MBL 매몰 0.59 mm vs 경점막 0.78 mm at 5yr, NS).
+
+5년 등가 결과는 경점막(1단계) 치유가 매몰(2단계) 대비 장기 생존율과 골 유지를 희생하지 않는 임상 단순화 대안임을 지지한다.
+
 ## Why Ingested
 5년 추적 RCT로 bone-level 임플란트에서 매몰형 vs 비매몰형(transmucosal) 치유 프로토콜을 직접 비교. [[implants/mbl/aal-2025-marginal-bone-loss-single]] 및 [[implants/survival/troiano-2018-early-late-failure-submerged]]의 근거 기반을 장기 단일치아 보철 맥락에서 보강.
 
