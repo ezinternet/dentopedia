@@ -1,0 +1,53 @@
+CONTEXT
+
+Light-cured direct resin-based materials (RBMs) and dental light-curing units (LCUs) have become ubiquitous in dental clinics worldwide. Recently, novel materials using alternative photoinitiators in addition to camphorquinone and new LCUs emitting different spectra of light have become available for clinical practice. In contrast to the broad emission spectrum of quartz-tungsten-halogen (QTH) lights, the emitted wavelength of some light-emitting diode (LED) LCUs or laser LCUs may be too narrow to activate all of the newer photosensitizers. Such physico-chemical incompatibility is concerning because the clinical success and the biocompatibility of RBMs (e.g. resin composites, adhesives, orthodontic resins, luting agents and sealants) depend on how thoroughly they are light-cured in the mouth.This policy statement addresses this often unrecognized problem and provides timely recommendations for intraoral light-curing.
+
+SCOPE
+
+This FDI Policy Statement highlights important aspects for the correct use of different LCUs (e.g. QTH, LED and Laser) in dental practice. It indicates that professional guidance and education on the appropriate use of LCUs (e.g. the effects of tip position, movement, angulation and exposure time) are needed.
+
+DEFINITIONS
+
+Radiant exitance (mW/cm²)
+
+Radiant power of electromagnetic radiation emitted by a surface per unit area.
+
+Irradiance (mW/cm²)
+
+Radiant power of electromagnetic radiation received by a surface per unit area. Note: the irradiance is measured at various distances from the source, and it equals exitance at 0 mm from the tip.
+
+Emission spectrum (nm)
+
+Range of wavelengths of electromagnetic radiation emitted by the light source.
+
+Spectral radiant power/Spectral flux (mW/nm)
+
+Radiant power of electromagnetic radiation emitted, transmitted, reflected, or received per unit wavelength.
+
+Light beam uniformity
+
+Homogeneity of both the irradiance and spectral radiant power across the light beam from the light source.
+
+Photoinitiator
+
+Chemical component of light-cured RBMs that, when activated by a specific wavelength of visible light, initiates the polymerization of the RBMs.
+
+Photosensitizer
+
+Chemical component of a photoinitiator system that reacts with an accelerator to produce reactive species for polymerization of the RBMs. Note: Camphorquinone is very often used as a photosensitizer and an aliphatic amine is used as an accelerator.
+
+PRINCIPLES
+
+Long-term success of restorations depends on many factors. Adequate light curing is an important but commonly underestimated issue. The correct selection and use of intra-oral LCUs are essential for the safety of patients and operators as well as for the long-term success of direct dental restorations and other intraorally light-cured dental materials.The safe use of LCUs requires appropriate eye-protection.
+
+POLICY
+
+According to ISO standards (10650:2018 and 4049:2019), manufacturers of light-curable dental materials should provide clear information on the specific wavelengths of light, irradiance, exposure time and the maximum thickness of the RBM for assuring sufficient light-curing. Furthermore, they should give clear information on characterizing the LCUs regarding emitted radiant power, radiant exitance, irradiance loss over distance, emission spectrum and active tip area, and display specifications on light transmission and beam uniformity. Manufacturers of both light-curable dental materials and LCUs need to provide data required by standardized test methods and meet standardized labelling and instructions of requirements for usage.
+
+FDI supports the following recommendations:
+
+Further research on the safety and efficiency of LCUs and dental materials should be encouraged.
+
+DISCLAIMER
+
+The information in this Policy Statement was based on the best scientific evidence available at the time. It may be interpreted to reflect prevailing cultural sensitivities and socio-economic constraints.
