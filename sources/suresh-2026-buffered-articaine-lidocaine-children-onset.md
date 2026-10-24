@@ -13,6 +13,22 @@ evidence_level: rct
 category: local-anesthesia
 ---
 
+## Three-line Summary
+
+Double-blind RCT (n=100 children aged 6–12, India, 2025–2026) comparing buffered 4% articaine (pH raised with 8.4% NaHCO3, 1:10 ratio) vs non-buffered 2% lidocaine (1:100,000 epi) for dental injections.
+
+Buffered articaine produced significantly faster onset (71.98 vs 115.28 s), lower injection pain (VAS 2.25 vs 3.93), better cooperative behaviour (Frankl 3.18 vs 2.48) and longer soft-tissue duration (159.02 vs 137.84 min) — all p<0.001; pulpal success was comparable (84% vs 82%, NS).
+
+The combined pH-buffering and articaine pharmacological advantages make buffered articaine a superior option for paediatric dental injections where minimising onset time and injection discomfort is paramount.
+
+## 세줄요약
+
+소아(6–12세, n=100) 치과 주사에서 완충 4% 아르티카인(8.4% NaHCO3 1:10 혼합, pH 상승) vs 비완충 2% 리도카인(1:100,000 에피네프린)을 비교한 이중맹검 RCT (인도, 2025–2026).
+
+완충 아르티카인이 발현 시간(71.98 vs 115.28초)·주사 통증(VAS 2.25 vs 3.93)·협조도(Frankl 3.18 vs 2.48)·연조직 마취 지속(159.02 vs 137.84분) 모두 유의하게 우수했으며(p<0.001), 치수 성공률은 동등했다(84% vs 82%, NS).
+
+pH 완충과 아르티카인 약리 이점의 결합이 발현 시간과 주사 불편을 최소화해야 하는 소아 치과 주사에서 우수한 선택지다.
+
 ## Summary
 
 Double-blind RCT (n=100; India; 2025-2026) comparing buffered 4% articaine (1:100,000 epi, pH raised with 0.18mL 8.4% NaHCO3 in 1:10 ratio) vs non-buffered 2% lidocaine (1:100,000 epi) for dental injections in children aged 6-12 years (ASA I). Buffered articaine produced significantly faster onset (71.98 vs 115.28 seconds), lower injection pain (VAS 2.25 vs 3.93), better behavioral cooperation (Frankl 3.18 vs 2.48), and longer soft-tissue duration (159.02 vs 137.84 min) — all p<0.001. Pulpal success comparable (84% vs 82%, p=1.000).
