@@ -4,7 +4,7 @@ authors: Lee DH, Kim YJ, Na HS, Kim JH, Cho MH, Kim SH
 year: 2024
 date: 2026-10-23
 doi: 10.1097/MD.0000000000037534
-source: sources/lee-2024-lipid-emulsion-last-pediatric-systematic-review.md
+source: lee-2024-lipid-emulsion-last-pediatric-systematic-review.md
 category: local-anesthesia
 evidence_level: sr
 source_collection: pubmed-text
