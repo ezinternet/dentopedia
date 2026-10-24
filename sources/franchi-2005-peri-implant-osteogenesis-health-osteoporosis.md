@@ -9,6 +9,22 @@ pdf_filename: franchi-2005-peri-implant-osteogenesis-health-osteoporosis.pdf
 source_collection: external
 ---
 
+## Three-line Summary
+
+Review (Micron, 2005) synthesizing the histological sequence of peri-implant osteogenesis and contrasting healing trajectories in healthy versus osteoporotic (senile/postmenopausal) bone around titanium implants.
+
+The healing timeline progresses: blood clot (Day 0) → afibrillar calcified layer (Day 1) → woven bone (Days 3–7) → reparative trabecular bone (Weeks 1–2) → lamellar bone (Weeks 6–12); contact osteogenesis (implant surface outward) is the primary healthy-bone mechanism.
+
+Osteoporotic bone shows delayed osteoblast recruitment, reduced contact osteogenesis and higher trabecular porosity, translating into slower osseointegration and potentially lower mature bone-to-implant contact (BIC).
+
+## 세줄요약
+
+티타늄 임플란트 주위 골생성(Peri-implant Osteogenesis)의 조직학적 순서와 건강 vs 골다공증(노인성/폐경후) 치유 경로를 비교 고찰했다(Micron, 2005).
+
+치유 타임라인: 혈병(Day 0) → 비섬유성 석회화층(Day 1) → 섬유골(Woven Bone, Day 3–7) → 수복성 소주골(Weeks 1–2) → 층판골(Lamellar Bone, Weeks 6–12); 접촉 골생성(Contact Osteogenesis)이 건강 골의 주된 기전.
+
+골다공증 골에서는 조골세포 모집 지연·접촉 골생성 감소·소주 다공성 증가로 골유착이 느리고 성숙 골-임플란트 접촉률(Bone-to-Implant Contact, BIC)이 낮을 수 있다.
+
 ## Why Ingested
 임플란트 식립 직후부터 최종 골유착 (Osseointegration)까지 우븐본 (Woven Bone) → 수복성 소주골 (Reparative Trabecular Bone) → 층판골 (Lamellar Bone) 전환 과정을 조직학적으로 가장 상세히 기술한 고전 리뷰. [[bone-biology/rowe-2023-physiology-bone-remodeling]]은 리모델링 세포생물학, [[implants/surface/bosshardt-2017-osseointegration-titanium-zirconia-review]]는 표면 처리 중심이나, 이 논문은 골유착 초기 골형성의 조직학적 타임라인·접촉 vs 원거리 골형성 (Contact vs Distant Osteogenesis)을 단독 서술. [[overviews/bone-tissue-types-classification-overview]] 증거맵 보강.
 
