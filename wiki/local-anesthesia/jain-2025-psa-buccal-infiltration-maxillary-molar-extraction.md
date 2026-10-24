@@ -4,7 +4,7 @@ authors: Jain et al.
 year: 2025
 date: 2026-10-23
 doi: 10.1007/s10006-025-01479-4
-source: sources/jain-2025-psa-buccal-infiltration-maxillary-molar-extraction.md
+source: jain-2025-psa-buccal-infiltration-maxillary-molar-extraction.md
 category: local-anesthesia
 evidence_level: rct
 source_collection: pubmed-abstract
