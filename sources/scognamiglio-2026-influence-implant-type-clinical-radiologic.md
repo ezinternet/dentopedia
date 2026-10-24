@@ -13,6 +13,22 @@ pmc: "PMC13375158"
 source_url: https://pubmed.ncbi.nlm.nih.gov/42462096/
 ---
 
+## Three-line Summary
+
+Retrospective private-practice cross-sectional analysis (n=87 patients, 146 implants; 73 tissue-level TL vs 73 bone-level cross-fit BLX Straumann, 3-year follow-up) comparing clinical and radiographic outcomes between implant types.
+
+TL survival was 100% vs 98% for BLX; TL showed statistically superior mesial bone levels at 3 years (Δ=0.21 mm, p=0.041), but baseline group imbalances (more GBR and immediate placements in BLX) limit causal interpretation.
+
+Both implant types maintained MBL within the Albrektsson limit (<0.15 mm/year after Year 1), and neither group developed peri-implantitis, confirming both as clinically acceptable options in private practice.
+
+## 세줄요약
+
+스위스 개인 진료에서 티슈 레벨(Tissue Level, TL) vs 골수준 크로스핏(Bone-Level Crossfit, BLX) Straumann 임플란트(73개 × 2군, 87명, 3년)를 비교한 후향 단면 분석.
+
+TL 생존율 100%, BLX 98%(3건 실패); 3년 협측 MBL에서 TL이 0.21 mm 우수했으나(p=0.041), BLX군에 골유도재생술(GBR)·즉시 식립이 더 많아 기저치 불균형이 인과 해석을 제한한다.
+
+두 임플란트 모두 Albrektsson 기준(Year 1 이후 <0.15 mm/year) 이내를 유지했고 치주염이 없어, 개인 진료에서 임상적으로 허용 가능한 선택지임을 확인한다.
+
 ## Why Ingested
 Direct 3-year retrospective comparison of Straumann Tissue-Level (TL) vs BLX implants in private practice — the first wiki paper to specifically compare TL against BLX (fully-tapered modern BL design), adding real-world practice data to the existing RCT/SR base. Extends [[overviews/tissue-level-vs-bone-level-implant-outcomes]] with a modern BLX platform and a private practice setting not covered by [[implants/mbl/pirc-2026-comparative-analysis-one-piece-tissue-level]].
 
