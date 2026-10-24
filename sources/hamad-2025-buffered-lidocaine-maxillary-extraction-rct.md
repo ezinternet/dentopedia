@@ -12,6 +12,22 @@ full_text: true
 evidence_level: rct
 ---
 
+## Three-line Summary
+
+Double-blind RCT (n=100, Kurdistan, 2024–2025) comparing conventional (pH ~4.2) vs NaHCO3-buffered (pH ~7.3–7.4) 2% lidocaine (1:100,000 epi) for supraperiosteal infiltration of maxillary posterior teeth with periapical lesions.
+
+Buffered lidocaine showed significantly faster onset (2.3 vs 4.7 min, 51% faster), lower injection pain (VAS 2.8 vs 4.2), and longer anesthesia duration (45.8 vs 36.4 min, 26% longer); reinjection rates were not significantly different (4% vs 8%).
+
+Bedside NaHCO3 buffering is a clinically simple intervention that significantly improves patient comfort and anesthetic efficiency for maxillary infiltration of infected teeth.
+
+## 세줄요약
+
+치근단 병소를 가진 상악 구치부 상악침윤마취에서 일반(pH ~4.2) vs NaHCO3 완충(pH ~7.3–7.4) 2% 리도카인(1:100,000 에피네프린)을 비교한 이중맹검 RCT (n=100, 쿠르디스탄, 2024–2025).
+
+완충 리도카인은 발현 시간(2.3 vs 4.7분, 51% 단축)·주사 통증(VAS 2.8 vs 4.2)·지속 시간(45.8 vs 36.4분, 26% 연장) 모두 유의하게 우수했으며, 재주사율은 유의한 차이 없었다(4% vs 8%).
+
+베드사이드 NaHCO3 완충은 임상적으로 간단하며 상악 침윤마취의 환자 편의와 마취 효율을 유의하게 개선한다.
+
 ## Why Ingested
 
 → [[local-anesthesia/hamad-2025-buffered-lidocaine-maxillary-extraction-rct]]
