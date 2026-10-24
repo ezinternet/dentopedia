@@ -4,7 +4,7 @@ authors: Gutenberg LL, Chen JW, Trapp L
 year: 2013
 date: 2026-10-23
 doi: 10.2344/0003-3006-60.3.99
-source: sources/gutenberg-2013-methemoglobin-prilocaine-lidocaine-pediatric-dental.md
+source: gutenberg-2013-methemoglobin-prilocaine-lidocaine-pediatric-dental.md
 category: local-anesthesia
 evidence_level: rct
 source_collection: pubmed-abstract
