@@ -4,7 +4,7 @@ authors: Paladugu et al.
 year: 2026
 date: 2026-10-23
 doi: 10.4103/aam.aam_389_25
-source: sources/paladugu-2026-lidocaine-adrenaline-systemic-effects-extraction.md
+source: paladugu-2026-lidocaine-adrenaline-systemic-effects-extraction.md
 category: local-anesthesia
 evidence_level: rct
 source_collection: pubmed-text
