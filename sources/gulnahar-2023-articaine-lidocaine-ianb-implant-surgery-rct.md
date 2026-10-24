@@ -12,6 +12,22 @@ full_text: true
 evidence_level: rct
 ---
 
+## Three-line Summary
+
+RCT (n=577 analyzed, 634 enrolled) at two university hospital clinics comparing 4% articaine vs 2% lidocaine IANB for posterior mandible implant surgery (Feb 2019 – Mar 2022).
+
+No significant differences in VAS during injection, VAS during surgery or lip-numbness duration; however, the articaine group had implants placed significantly closer to the mandibular canal (2.28 vs 2.45 mm, p<0.05) and required more release incisions (20.3% vs 12.3%, p<0.05).
+
+Despite deeper anatomical proximity in the articaine group, pain perception was identical, indicating that articaine does not provide superior analgesia over lidocaine for posterior mandible implant surgery.
+
+## 세줄요약
+
+후하악 임플란트 수술에서 4% 아르티카인 vs 2% 리도카인 IANB 비교 RCT (분석 577명, 등록 634명, 2개 대학병원; 2019.02–2022.03).
+
+주사·수술 VAS와 입술 마비 시간에서 유의한 차이 없었으나, 아르티카인 군에서 하치조관 근접 식립(2.28 vs 2.45 mm, p<0.05)과 해방절개 빈도(20.3% vs 12.3%, p<0.05)가 더 높았다.
+
+해부학적 근접에도 불구하고 통증 동등성은 후하악 임플란트 수술에서 아르티카인이 리도카인 대비 마취 우위를 제공하지 않음을 시사한다.
+
 ## Why Ingested
 
 → [[local-anesthesia/gulnahar-2023-articaine-lidocaine-ianb-implant-surgery-rct]]
