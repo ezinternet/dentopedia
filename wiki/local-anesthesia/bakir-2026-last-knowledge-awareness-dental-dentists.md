@@ -4,7 +4,7 @@ authors: Bakır B, Kaya İ, [et al.]
 year: 2026
 date: 2026-10-23
 doi: 10.3390/healthcare14142033
-source: sources/bakir-2026-last-knowledge-awareness-dental-dentists.md
+source: bakir-2026-last-knowledge-awareness-dental-dentists.md
 category: local-anesthesia
 evidence_level: cross-sectional
 source_collection: pubmed-text
