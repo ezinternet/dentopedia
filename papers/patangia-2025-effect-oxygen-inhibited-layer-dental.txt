@@ -1,0 +1,110 @@
+Title: Effect of Oxygen-Inhibited Layer of Dental Adhesives on Bond Strength: A Systematic Review
+Authors: Patangia A, Mishra L, Kumar M, Saczuk K, Lapinska B
+Year: 2025
+Journal: Materials (Basel), vol 19, issue 1
+PMID: 41515779
+PMC: PMC12786691
+DOI: 10.3390/ma19010113
+Date: 2025-12-29
+
+1. Introduction
+
+Dental adhesives play a critical role in contemporary restorative dentistry by forming the interface between restorative materials and tooth substrates. The durability and effectiveness of this adhesive interface largely determine the longevity and clinical success of restorations. Among the multiple factors influencing adhesive performance, the formation of the oxygen-inhibited layer (OIL) during polymerization has received increasing attention. This layer consists of unpolymerized, or partially polymerized resin monomers formed due to inhibition of free-radical polymerization by atmospheric oxygen. While the presence of OIL is known to facilitate copolymerization with subsequently placed resin layers, its influence on bond strength with enamel and dentin remains controversial.
+
+The oxygen-inhibited layer is characterized as a thin, sticky surface layer that develops when oxygen interferes with resin polymerization, resulting in a reduction in the availability of active photoinitiators. The thickness of this layer plays a crucial role in interfacial bonding; a thin OIL may promote interdiffusion and chemical bonding between composite layers, whereas a thicker layer can compromise interfacial integrity and reduce bond strength. Reported thickness values of the oxygen-inhibited layer in composite resins range from approximately 4 µm to 40 µm, depending on several factors, including monomer composition, initiator–activator systems, filler morphology, concentration of free radicals, and oxygen diffusion dynamics.
+
+Monomer composition has a pronounced influence on oxygen inhibition. Adhesives with higher concentrations of low-viscosity methacrylate monomers such as HEMA tend to exhibit thicker oxygen-inhibited layers, consistent with observations that decreased resin viscosity facilitates oxygen diffusion. In addition, filler particles may act as physical barriers or pathways for oxygen penetration, thereby modulating OIL thickness. Surface free energy, which represents the combined effect of dispersion forces, hydrogen bonding, and polar interactions, is also influenced by the presence of the oxygen-inhibited layer and may further affect adhesive wettability and bonding performance. Fatigue resistance of the bonded interface, an important determinant of long-term clinical durability, has likewise been associated with the quality of the adhesive interface formed in the presence or absence of an OIL.
+
+Various strategies have been proposed to reduce or modify the oxygen-inhibited layer. Thermal activation at temperatures between 110 °C and 120 °C has been shown to decrease OIL thickness without altering resin composition, potentially by increasing the availability of active radicals. The incorporation of phosphine derivatives such as triphenylphosphine (TPP) or 4-(diphenylphosphino)styrene (DPPS) into photoinitiator systems has also been reported to enhance polymerization efficiency under aerobic conditions. While TPP raises toxicological concerns, DPPS is considered suitable for dental applications and has been shown to limit oxygen-related inhibition without compromising color stability.
+
+The influence of the oxygen-inhibited layer on bond strength remains inconsistent across the available literature. Some studies have reported improved bond strength in the presence of OIL, particularly when self-etch adhesive systems are used, whereas others have found minimal or no effect. Experimental comparisons of composites cured under air versus nitrogen atmospheres have further suggested that surface inhibition may not significantly affect incremental bond strength under certain conditions. Post-polymerization finishing and polishing procedures have been shown to partially remove the oxygen-inhibited layer, thereby improving color stability and wear resistance by eliminating the superficial layer of unpolymerized resin. Additional barrier techniques, such as the use of Mylar strips or thermal activation, have also been proposed to limit oxygen exposure during polymerization. Ethanol application has been reported as an effective method for removing the oxygen-inhibited layer; however, its use requires caution to avoid unintended effects on resin structure or the adhesive interface.
+
+Despite the extensive investigation of dental adhesives, the oxygen-inhibited layer is often discussed as a secondary phenomenon rather than as an independent interfacial variable influencing adhesive performance. The available evidence regarding its role in modulating bond strength, surface free energy, interfacial characteristics, and failure patterns remains fragmented and inconclusive. The present systematic review was therefore conducted to provide a focused synthesis of available in vitro evidence evaluating the oxygen-inhibited layer as a primary determinant of adhesive bond performance. By distinguishing the differential effects of the oxygen-inhibited layer in conjunction with light-cured and chemically cured resin composites, this review aims to address a previously underexplored aspect of adhesive dentistry with potential implications for the long-term performance and prognosis of dental restorations.
+
+2. Materials and Methods
+
+The protocol for this systematic review is registered with PROSPERO under registration number CRD42024574190. The review was carried out following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) statement guidelines as detailed in the PRISMA 2020 Checklist.
+
+2.1. Study Selection
+
+The research question was established as "What is the effect of oxygen inhibited layer on bonding strength of dental adhesives?". Then the PICO framework was implemented:
+
+The primary goal was to evaluate the bond strength of enamel, dentin, and composite substrate. The secondary goal was to evaluate marginal integrity, microleakage, and failure mode of dental restorations.
+
+2.2. Literature Search
+
+In line with PRISMA guidelines, PubMed, Scopus, Web of Science, and Google Scholar was searched for English, open-access articles published between January 2000 and August 2024. Search strategies were tailored for each database, and reference lists were reviewed to ensure comprehensive coverage.
+
+The search strategy included the following keywords: ("oxygen inhibition layer" OR "oxygen inhibited layer" OR "oxygen inhibited photopolymerization" OR "uncured resin" OR "oxygen-inhibition layer") AND ("effect" OR "impact" OR "influence" OR "affect" OR "result") AND ("bonding agent" OR "dba" OR "adhesive system" OR "dental adhesion" OR "dental adhesive" OR "adhesive systems" OR "adhesive" OR "dental adhesives" OR "bonding agents" OR "bond" OR "bond system") AND ("bond strength" OR "shear bond strength" OR "micro-tensile bond strength" OR "surface energy" OR "surface discoloration" OR "water contact angle" OR "fracture strength").
+
+Records retrieved from the database search were imported into Rayyan (Boston). Duplicate entries were removed by LM and AP, and titles and abstracts were screened against the inclusion criteria. Studies meeting the criteria underwent full-text review, with only open access articles included in the final analysis.
+
+2.3. Data Extraction
+
+Data were extracted using a standardized form and tabulated in Excel. Extracted information included bibliographic details (journal, title, authors, year), study design, sample preparation methods, adhesives used, approaches to OIL reduction, bond strength testing methods, OIL thickness, surface energy, and fatigue strength.
+
+2.4. Quality Assessment
+
+The QUIN (Quality Assessment tool) was used to evaluate the quality and risk of bias for the included studies. The QUIN tool included 12 points along with the scoring and grading criteria to evaluate the content quality and reliability. Each of the criteria was scored as adequately specified (2 points), inadequately specified (1 point), or not specified (0 points), and if not applicable, was excluded from the study. The scores obtained were then graded as high risk (<50%), medium risk (50 to 70%), and low risk (>70%). The final score was calculated as (total score × 100)/(2 × number of applicable criteria).
+
+3. Results
+
+The initial stage of the literature review involved a comprehensive search across four widely recognized databases: PubMed, Scopus, Web of Science, and Google Scholar. This extensive search yielded 71 articles. The next step involved identifying and removing duplicate entries among the retrieved records, and it yielded 34 articles. The remaining articles underwent a detailed screening process, starting with a thorough review of their titles and abstracts. During this phase, 18 articles were found to be unrelated to the study's focus and were excluded. Full-text versions of the articles were only further included, with 8 articles being excluded at this stage. As a result of this systematic and methodical filtering process, a final total of eight articles met all the predefined eligibility criteria. These articles were deemed both relevant to the study's objectives and accessible for detailed analysis.
+
+3.1. Sample Size and Preparation
+
+A total of 730 non-carious, intact teeth were examined, consisting of 450 bovine teeth and 280 human teeth. The specimens primarily included human molars and bovine incisors from both the maxillary and mandibular arches. Each tooth was thoroughly cleaned and sectioned mesiodistally to prepare the samples. The coronal portions of the teeth were retained, with the root portions removed to focus on the desired anatomical structures. Depending on the specific requirements of each study, either the enamel or dentin surface of the tooth was exposed by sectioning. The prepared tooth samples were then embedded in acrylic studs to facilitate handling and further preparation. The exposed surfaces were ground flat using sandpapers with progressively finer grit sizes, including 180, 320, 600, 1200, and 1400 grit. After grinding and polishing, the prepared surfaces were thoroughly washed and dried using oil-free compressed air to ensure cleanliness and uniformity before further experimental procedures.
+
+3.2. Overview of Studies
+
+Eight in vitro studies met the inclusion criteria and were included in the qualitative synthesis. The studies demonstrated a considerable variability in experimental design, including differences in composite curing mechanism, oxygen-inhibited layer (OIL) modification, and outcome assessment.
+
+3.3. Bond Strength Outcomes According to Oxygen-Inhibited Layer Condition
+
+All included studies evaluated bond strength as a primary goal. When results were synthesized in terms of the composite curing mechanism, a consistent pattern emerged. In studies using light-cured resin composites, preservation of the oxygen-inhibited layer was generally associated with comparable or higher bond strength values compared with its removal. In contrast, studies involving chemically cured composites consistently reported reduced bond strength in the presence of the oxygen-inhibited layer.
+
+These findings were observed across different testing methods, including shear bond strength and microtensile bond strength, and were independent of specific adhesive brands.
+
+3.4. Influence of Etching Mode and Oxygen-Inhibited Layer Modification
+
+The effect of the oxygen-inhibited layer on bond strength was further influenced by etching strategy. Studies that used self-etch and total-etch approaches showed that the change of direction of bond strength remained primarily dependent on the composite curing mechanism rather than etching mode alone. Methods used to modify or remove the oxygen-inhibited layer (including ethanol application, extended curing time, and physical barriers) demonstrated variable effects, with no single approach consistently improving bond strength across all study conditions.
+
+3.5. Surface Free Energy and Wettability
+
+Surface free energy was evaluated in a subset of studies. Removal of the oxygen-inhibited layer was frequently associated with increased surface free energy; however, this did not consistently translate into higher bond strength values. Conversely, one study reported reduced surface free energy in the presence of the oxygen-inhibited layer alongside improved bonding performance. These inconsistent findings indicate that surface free energy alone cannot explain the observed bond strength outcomes.
+
+3.6. Failure Mode Analysis
+
+Failure mode analysis was reported in most of the included studies. Adhesive failure predominated regardless of oxygen-inhibited layer condition, indicating that the adhesive interface remained the primary site of failure. Although some studies reported mixed or cohesive failures under specific conditions, variations in classification and reporting limited comparative interpretation. No consistent failure mode pattern could be attributed solely to the presence or absence of the oxygen-inhibited layer.
+
+3.7. Quality Assessment of Included Studies
+
+According to the QUIN tool, most studies demonstrated a medium risk of bias, with one study classified as high risk. Common methodological shortcomings included lack of sample size calculation, absence of blinding, limited reporting of randomization, and insufficient operator standardization. These limitations reduce confidence in the magnitude and consistency of reported effects. However, the risk of bias score ranged from 40% to 70% across the included studies.
+
+3.8. Meta-Analysis
+
+Due to substantial heterogeneity in the methodologies and reported outcomes of the included studies, a meta-analysis was not feasible for this systematic review. The observed variations across studies precluded meaningful pooling of data for quantitative analysis. This heterogeneity encompassed differences in study design, materials used, experimental conditions, and outcome measures, making it statistically insufficient to combine results. Instead, a structured descriptive synthesis was made.
+
+4. Discussion
+
+The present systematic review synthesized the available in vitro evidence regarding the influence of the oxygen-inhibited layer (OIL) on the bond strength of dental adhesives to tooth substrates and composite restorations. Only a limited number of studies have addressed this topic, with eight relevant investigations identified. The findings indicate that bond strength outcomes are influenced by multiple interacting variables, including adhesive strategy, composite curing mechanism, tooth substrate, and the method used to modify or remove the oxygen-inhibited layer.
+
+4.1. Effect of the Presence or Absence of the Oxygen-Inhibited Layer
+
+The thickness and characteristics of the oxygen-inhibited layer are known to be influenced by factors such as monomer composition, solvent system, initiator type, adhesive viscosity, composite formulation, and curing parameters. Several experimental approaches, including ethanol application, water spray, and use of inert barriers, have been used to modify or remove the OIL.
+
+Across the included studies, preservation of the oxygen-inhibited layer was frequently associated with higher initial bond strength values when light-cured resin composites were used. This observation suggests that the presence of an OIL may facilitate interfacial interaction between the adhesive and the overlying composite, potentially through enhanced copolymerization or interdiffusion.
+
+In contrast, when self-etch adhesives were combined with chemically cured resin composites, reduced bond strength was consistently reported in the presence of the oxygen-inhibited layer. This effect has been attributed to interactions between residual acidic monomers and peroxide–amine initiator systems, which may interfere with polymerization.
+
+4.5. Overall Interpretation
+
+The findings of this systematic review suggest that the oxygen-inhibited layer may influence interfacial characteristics and bond strength under certain experimental conditions. However, the limited number of studies, heterogeneity of methodologies, and moderate risk of bias preclude definitive conclusions.
+
+5. Conclusions
+
+Within the limitations of the available in vitro evidence, this systematic review suggests that the oxygen-inhibited layer may influence the bond strength of dental adhesives under specific experimental conditions. The effect appears to vary according to the curing mechanism of the resin composite, with preservation of the oxygen-inhibited layer generally associated with comparable or higher bond strength when light-cured composites are used, and reduced bond strength observed with chemically cured composites.
+
+However, the limited number of included studies, substantial methodological heterogeneity, and moderate to high risk of bias restrict the strength of these conclusions. As a result, the observed trends should be interpreted cautiously and should not be directly extrapolated to clinical performance. Current evidence is insufficient to support definitive recommendations regarding routine modification or removal of the oxygen-inhibited layer in clinical practice.
+
+Further well-designed, standardized in vitro studies are required to clarify the role of the oxygen-inhibited layer across different adhesive strategies, substrates, and composite curing mechanisms, and to determine its potential relevance to long-term restorative outcomes.
