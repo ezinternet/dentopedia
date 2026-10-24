@@ -15,6 +15,22 @@ text_filename: van-steenberghe-2002-relative-impact-local-endogenous-patient.txt
 source_url: https://pubmed.ncbi.nlm.nih.gov/12519336/
 ---
 
+## Three-line Summary
+
+Retrospective study of 1,263 machined Brånemark implants (399 patients, Leuven periodontology clinic, 1995–1997) assessing systemic and local predictors of failure up to abutment connection, prior to widespread adoption of rough-surface implants.
+
+Success rate to abutment connection was 97.8% (approximately 2.2% early failure); heavy smoking combined with poor bone quality and chemotherapy were the primary systemic predictors, while radiotherapy, limited bone volume and surgical asepsis breaches were the most relevant local factors.
+
+As a machined-surface 2002 dataset, absolute failure rates exceed contemporary rough-surface benchmarks, but the systemic risk-factor hierarchy (smoking, radiation, chemotherapy) remains applicable for treatment planning.
+
+## 세줄요약
+
+루뱅 치주과에서 1995–1997년 식립한 기계 가공면 브로네마크 임플란트 1,263개(399명)를 대상으로 지대주 연결까지의 전신·국소 예측인자를 후향 분석했다.
+
+지대주 연결 성공률 97.8%(조기 실패 약 2.2%)였으며, 중증 흡연+불량 골질 조합과 화학요법이 주요 전신 인자였고, 방사선 치료·제한 골 용적·폐소공포증으로 인한 무균술 위반이 중요 국소 인자였다.
+
+2002년 기계 가공면 데이터이므로 절대 실패율은 현재 거친 표면 기준보다 높으나, 전신 위험인자 위계(흡연·방사선·화학요법)는 현재 치료 계획에도 적용 가능하다.
+
 abstract-only — full text not retrieved (paywalled; no open-access copy found). The source is the PubMed/Europe PMC abstract. Design details beyond the abstract are not available.
 
 ## Why Ingested
