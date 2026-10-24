@@ -12,6 +12,22 @@ pmid: "29995063"
 source_url: https://pubmed.ncbi.nlm.nih.gov/29995063/
 ---
 
+## Three-line Summary
+
+Seven-year clinical trial (n=35 patients, 118 implants) comparing submerged vs non-submerged healing protocols in type 2 diabetic (T2DM) and non-diabetic patients, measuring RFA stability and peri-implant bone loss (PIBL).
+
+RFA-ISQ did not differ between protocols at baseline or 3 months in either group; non-submerged implants had significantly higher PIBL specifically in T2DM patients at 2, 3 and 7 years (p<0.05), while submerged implants showed a less pronounced diabetes effect.
+
+The non-submerged healing protocol should be used with caution in T2DM patients given its association with greater longitudinal peri-implant bone loss independent of initial stability.
+
+## 세줄요약
+
+제2형 당뇨(T2DM)·비당뇨 환자(n=35, 118개 임플란트)에서 매몰/비매몰 치유 프로토콜의 공명주파수분석(RFA) 안정성과 치주염 관련 골 소실(PIBL)을 7년간 비교했다.
+
+RFA-ISQ는 기저치·3개월에서 두 군 간 유의한 차이가 없었으나, 비매몰 임플란트는 T2DM 환자에서만 2·3·7년 모두 유의하게 높은 PIBL을 보였다(p<0.05).
+
+비매몰 치유는 T2DM 환자에서 장기 치주염 관련 골 소실 증가와 관련되므로 임상적 주의가 필요하다.
+
 ## Why Ingested
 7년 추적 임상시험으로 submerged vs non-submerged 비교를 당뇨 여부로 층화 — 당뇨 환자에서 비매몰형이 더 많은 변연골 소실을 보인다는 unique subgroup 근거. [[implants/mbl/aal-2025-marginal-bone-loss-single]]·[[implants/survival/troiano-2018-early-late-failure-submerged]]의 전반적 "차이 없음" 결론을 당뇨 환자에서 반증하는 중요한 예외 데이터.
 
