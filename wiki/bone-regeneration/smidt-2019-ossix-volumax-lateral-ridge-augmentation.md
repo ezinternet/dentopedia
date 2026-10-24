@@ -4,7 +4,7 @@ authors: Smidt A, Gutmacher Z, Sharon E
 year: 2019
 date: 2026-10-22
 doi: 10.3290/j.qi.a42652
-source: sources/smidt-2019-ossix-volumax-lateral-ridge-augmentation.md
+source: smidt-2019-ossix-volumax-lateral-ridge-augmentation.md
 category: bone-regeneration
 evidence_level: case-report
 source_collection: pubmed-pdf
