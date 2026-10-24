@@ -4,7 +4,7 @@ authors: Friedmann A, Strietzel FP, Maretzki B, Pitaru S, Bernimoulin JP
 year: 2002
 date: 2026-10-22
 doi: 10.1034/j.1600-0501.2002.130603.x
-source: sources/friedmann-2002-ossix-vs-ptfe-gbr-histomorphometry.md
+source: friedmann-2002-ossix-vs-ptfe-gbr-histomorphometry.md
 category: bone-regeneration
 evidence_level: rct
 source_collection: pubmed-abstract
