@@ -1,0 +1,122 @@
+The Photoinitiators Used in Resin Based Dental Composite—A Review and Future Perspectives
+Kowalska A, Sokolowski J, Bociong K
+Polymers (Basel), 2021, vol 13, issue 3
+PMID: 33540697 | PMC: PMC7867280 | DOI: 10.3390/polym13030470
+Published: 2021-02-02
+
+1. Introduction
+
+Light-cured dental composites changed old poor dentistry into a modern and esthetic branch of medicine. This process had begun in 1955 when Michael Buonocore discovered a simple method of increasing the adhesion of acrylic fillings to enamel by using orthophosphoric acid. The second step was Dr. Bowen's discovery: bisphenol A-glycidyl methacrylate (Bis-GMA resin), which has been a basic compound of dental composites since 1960. In 1975 for the first time dental resin composite was cured by light. The change of curing dental composites eliminated the porosity of the composite and let the dentist control application of material into dental cavity.
+
+In recent years, the components of dental composites have been changing in order to improve the biomechanical and chemical properties. The properties of dental composites are divided into three groups. The first group includes strength, stiffness, abrasion resistance and coefficient of thermal expansion. The softening tendency and color stability are in the second group and it is caused by the type of matrix and photoinitiator. The last group contains polymerization shrinkage and water sorption.
+
+The current dental composites are composed of: organic resin matrix, inorganic fillers, coupling agent. The most common monomers used for the matrix are: bisphenol A (Bis-GMA), ethoxylated bisphenol a glycol dimethacrylate (Bis-EMA), triethylene glycol dimethacrylate (TEGDMA), hydroxyethyl methacrylate (HEMA) and urethane dimethacrylate (UDMA). The others ingredients of matrix are: initiator system for free radical polymerization and stabilizers for maximizing the storage stability. The inorganic fillers are responsible for mechanical properties especially for strength and abrasion resistance of the material.
+
+The common dental composites are cured by the light activation. It is possible due to presence of the initiator system of photopolymerization and its amounts varying from 0.1% to 1 wt%. The amount of the initiator depends on the type of photosensitizer. The optimal concentrations of initiator in resin-based composites depend on many factors such as solubility of these compounds in the monomer, photoreactivity, color or biocompatibility.
+
+The first aim of this review is to find an alternative photoinitiator which would compensate the disadvantages of camphorquinone, such as yellow staining or poor biocompatibility, and also would have mechanical properties as satisfactory as camphorquinone. The second goal is to assess the alteration of properties of dental resins when camphorquinone is used synergistically with alternative photoinitiators.
+
+2. Materials and Methods
+
+The main source of this review of literature was PubMed. Other sources were: Academia.edu, Google Scholar, Elsevier, ResearchGate and Mendeley. Many studies were manually found from references from relevant articles. Keywords used during searching: dental photoinitiator, resin-based composite, composite, polymerization, type-1 photoinitiators, type-2 photoinitiators, CQ, camphorquinone, benzophenone, PPD, 1-phenyl-1,2 propanedione, BAPO, TPO, Lucirin TPO, Ivocerin, phosphine oxide, alternative photoinitiator, unconventional photoinitiator. Over 6000 studies were found, and after scrutiny of searching, 1000 records were specifically checked. The 64 articles were selected to create this review.
+
+3. Polymerization of Resin Matrix
+
+Polymerization is a process when monomers react together to convert into polymers. The monomers used in dentistry: Bis-GMA, TEGDMA, UDMA etc., are liquids and as a result of polymerization they become solids. The process of polymerization has three phases: initiation, propagation and termination. Free radicals are necessary to lengthen the chain of polymer and they are formed by photoinitiators.
+
+Chemical activation is a reaction between an organic amine—catalyst paste with an organic peroxide—universal paste. After mixing these two pastes free radicals are produced. Chemical cured composites have many disadvantages such as: color instability, problems with the proportions, mixing process, porosity, long curing time and short working time.
+
+Some dental composites are dual cured. In these materials the polymerization starts after irradiation of light. They include photoinitiators like CQ and also iodonium salts and electron donors, which generate the reactive cationic species that start the polymerization process. The aim of this double setting mechanism is to achieve a higher degree of conversion, especially at areas remote or hidden from the light source.
+
+The free radicals are generated upon irradiation of blue light. After this there is exchange of electron in initiator-co-initiator. Due to this process free radicals are produced through hydrogen abstraction. The relation between uncured monomers and cured resin is degree of conversion (DC). This is important parameter which influence on the physical and biological features of dental resin. Low conversion aggravates the biocompatibility of the material, because the unlinked molecules leak into surrounding tissues.
+
+4. Photoinitiators
+
+There are two types of photoinitiators: 1-type is trimethylbenzoyl-diphenylphosphine oxide (TPO), benzoyl peroxide (BPO) and 2-type is camphorquinone (CQ), phenanthrenequinone (PQ), benzophenone (BP) and 1-phenyl-1,2 propanodione (PPD) which combined two ways of polymerization. This division is caused by different ways of production of free radicals by these photoinitiators.
+
+4.1. Type-1 Photoinitiators (Norrish Type I — alpha-cleavage)
+
+Norrish type-1 photoinitiators improve material properties in dental resin composites. They have low energy bonds which after homolytic cleavage yields more active radicals and they allow photopolymerization by shorter wavelength, higher energy photon of violet light. Type-1 photosensitizers increase curing efficiency because of higher molar absorptivity. Another advantage of these initiators is improvement of tissue color matching as a result of low pigmentation due to shorter wavelength range absorption. These photo-sensitizers do not require co-initiators and their color is not as yellow as photoinitiators type-2, but after polymerization they turn yellow due to high concentration of residual monomers. Examples: TPO, bisacylphosphine oxide (BAPO) and monoacylphosphine oxide (MAPO).
+
+4.2. Type-2 Photoinitiators (Norrish Type II — H-abstraction, bimolecular)
+
+The type-2 photoinitiator are e.g., CQ, PQ and BP with co-initiators, and their absorption band lies between 400–490 nm. The initiation is generally slower than photoinitiation caused by type-1 sensitizers, because is based on a bimolecular reaction. The polymerization initiates by photons of visible blue light. The co-initiators of CQ are mostly aromatic tertiary amines.
+
+5. Photoinitiators for Resin Based Dental Composites
+
+5.1. Benzophenone (BP)
+- Type-2 photoinitiator, absorption: 240–300 nm (strong), 320–370 nm (weak), absorbance max: 294 nm
+- Requires co-initiators: methyldiethanolamine, triethylamine, or ethyl 4-(dimethylamino) benzoate
+- Common in industry (coatings, inks, paper); used in dental 3D printing
+- BP derivative DEABP improves degree of conversion and polymerization velocity in 3D printing resins
+
+5.2. Camphorquinone (CQ) — most common commercial photoinitiator
+- Type-2 alpha-diketone, absorbs 360–510 nm, absorbance maximum ~468 nm
+- Intense yellow color; poor photobleaching after irradiation
+- Concentration in dental resins: 0.17–1.03 wt% (Shintani: actual 0.03–0.09 wt%)
+- Co-initiators: EDMAB (ethyl-4-(dimethylamino)benzoate), DMPT, DMAEMA
+- EDMAB: effective but cytotoxic; DMAEMA: most biocompatible amine, lower activity
+- CQ:EDMAB optimal ratio for max hardness: 1.44:0.42 or 1.05:1.65 mol%
+- Disadvantages: yellow staining, cytotoxic (ROS/RNS production), genetic toxicity potential
+- CQ toxic effect on pulp cells concentration-dependent
+
+5.3. Phenanthrenequinone (PQ)
+- Type-2, aromatic diketone, absorbance max: ~420 nm (less yellow than CQ)
+- Requires co-initiators; higher relative photon absorption than CQ
+- Similar degree of conversion to CQ regardless of co-initiator
+- Lower color stability than CQ; lower depth of cure than CQ (absorption near UV region)
+- DPI with PQ increases DC and reduces yellow values
+
+5.4. 1-Phenyl-1,2-propanedione (PPD)
+- Alpha-diketone (aromatic + methyl groups); pale yellow viscous fluid
+- Absorption: 300–400 nm, max: 393–410 nm
+- Combines both photocleavage and H-abstraction mechanisms (Norrish type I + II hybrid)
+- Used synergistically with CQ (ratios 1:1 and 1:4 → maximum DC)
+- Less yellow than CQ; improves esthetic properties
+- PPD+CQ: better absorption from two different maxima (468 nm CQ + 410 nm PPD)
+- Controversy: Brandt et al. found combined CQ/PPD did not consistently increase DC
+- Lower rate of polymerization than CQ; slower crosslink density
+
+5.5. TPO (2,4,6-trimethylbenzoyl-diphenylphosphine oxide) — Lucirin TPO
+- Type-1 acylphosphine oxide, absorbs 380–425 nm, max: ~381–400 nm
+- Commercial products: Tetric EvoCeram Bleach, Vit-1-escence
+- Does NOT require co-initiators (no amine group → better color stability)
+- DC ~10% higher than CQ-composites (e.g., 0.86 wt% → 74% DC; 0.22 wt% → 68% DC)
+- Faster polymerization; can be cured in thick layers (>2 mm)
+- Higher surface hardness and flexural modulus vs CQ
+- Not genotoxic; no toxic effect on pulp (Van Der Lann et al.)
+- REQUIRES polywave LED light-curing units (standard 450–470 nm LEDs insufficient)
+- Disadvantages: higher polymerization shrinkage stress; lower depth of cure vs CQ
+
+5.6. BAPO (Bisacylphosphine oxide) / Irgacure 819
+- Type-1, absorption 365–416 nm, max: ~371–400 nm; no co-initiator required
+- Symmetric structure → poor solubility in many monomers
+- Produces FOUR reactive radicals per molecule (vs two from TPO)
+- Molar extinction coefficient 870 L/mol·cm vs CQ 33 L/mol·cm; quantum yield 5× CQ
+- Higher flexural strength than TPO and CQ/amine
+- Surface hardness similar to TPO; both higher than CQ
+- Disadvantage: very cytotoxic (Wang et al.); weak genotoxic effect
+- Shelf life problems with UDMA matrix
+
+5.7. Novel Photoinitiators
+- TMBOPF and TOPF (new acylphosphine oxides): higher photopolymerization reactivity, comparable to BAPO; reduced yellowing
+- Benzoyl germanium compounds (BTMGe, DBDEGe):
+  - Type-1; BTMGe max 411 nm, DBDEGe max 418 nm; soluble in methacrylates
+  - No amine co-initiator needed; DBDEGe setting time 3–5 s vs CQ 8 s
+  - Low cytotoxicity; no gene mutations; slight yellowing reducible with UV stabilizer
+- Ivocerin (dibenzoyldiethylgermanium, Ivoclar Vivadent):
+  - Absorption 390–445 nm, max 418 nm; patented, proprietary
+  - DC ~87% in luting cement vs ~44% for CQ-based cement
+  - Vickers hardness 47 VHN vs CQ 33 VHN in luting cements
+  - Low cytotoxicity; no mutagenic effect; excellent color stability
+- Coumarin-based iodonium hexafluoroantimonate (P3C-Sb): absorption max 347 nm; improves DC when combined with CQ/amine
+
+6. Key Measurement Concepts
+- Degree of Conversion (DC): ratio uncured monomers → cured resin; measured by FTIR spectroscopy
+- Knoop/Vickers hardness: surface hardness measurement
+- Flexural strength and elastic modulus: biomechanical properties
+- Depth of cure: thickness of adequately cured layer
+
+7. Summary and Future Perspectives
+
+No photoinitiator fully replaces CQ. TPO and BAPO (type-1) offer better DC and esthetics but require polywave LEDs. Germanium compounds (especially Ivocerin) most promising: match CQ absorption range, superior DC and hardness, no yellowing, low toxicity. Alternative acylphosphine oxides (TMBOPF, TOPF) also promising. Synergistic use of type-1 with CQ (+polywave LEDs) is near-term solution for improved esthetics without equipment change.
