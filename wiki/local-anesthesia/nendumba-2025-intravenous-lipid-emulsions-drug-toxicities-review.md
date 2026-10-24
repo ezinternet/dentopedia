@@ -4,7 +4,7 @@ authors: Nendumba LM, Alula RJ, Mwesige RM, Namayemba WR, Twimukye AM, Ochola E,
 year: 2025
 date: 2026-10-23
 doi: 10.1186/s13613-025-01601-5
-source: sources/nendumba-2025-intravenous-lipid-emulsions-drug-toxicities-review.md
+source: nendumba-2025-intravenous-lipid-emulsions-drug-toxicities-review.md
 category: local-anesthesia
 evidence_level: narrative-review
 source_collection: pubmed-text
