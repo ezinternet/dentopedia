@@ -259,6 +259,24 @@
         "GUIDE"
       ],
       "last_run_edat": "2026/10/23"
+    },
+    "resin-photoinitiator": {
+      "query": "(\"photoinitiator\"[tiab] OR \"photo-initiator\"[tiab] OR \"camphorquinone\"[tiab] OR \"CQ photoinitiator\"[tiab] OR \"acylphosphine oxide\"[tiab] OR \"Lucirin TPO\"[tiab] OR \"Ivocerin\"[tiab] OR \"BAPO\"[tiab] OR \"polywave\"[tiab] OR \"multi-peak LED\"[tiab] OR \"broadband LED\"[tiab] OR \"violet LED\"[tiab]) AND (\"dental composite\"[tiab] OR \"resin composite\"[tiab] OR \"composite resin\"[tiab] OR \"dental resin\"[tiab] OR \"light-curing\"[tiab] OR \"photopolymerization\"[tiab])",
+      "ptyp": [
+        "SR",
+        "MA",
+        "Review"
+      ],
+      "last_run_edat": "2026/10/24"
+    },
+    "resin-polymerization-kinetics": {
+      "query": "(\"degree of conversion\"[tiab] OR \"monomer conversion\"[tiab] OR \"polymerization kinetics\"[tiab] OR \"gel point\"[tiab] OR \"vitrification\"[tiab] OR \"depth of cure\"[tiab] OR \"curing depth\"[tiab] OR \"oxygen inhibition\"[tiab] OR \"oxygen-inhibited layer\"[tiab] OR \"dark cure\"[tiab] OR \"dark reaction\"[tiab] OR \"preheating composite\"[tiab] OR \"pre-heating composite\"[tiab] OR \"warm composite\"[tiab]) AND (\"dental composite\"[tiab] OR \"resin composite\"[tiab] OR \"composite resin\"[tiab] OR \"dental material\"[tiab] OR \"resin-based composite\"[tiab])",
+      "ptyp": [
+        "SR",
+        "MA",
+        "Review"
+      ],
+      "last_run_edat": "2026/10/24"
     }
   },
   "seen_pmids": [
@@ -276,6 +294,7 @@
     "12969359",
     "1437055",
     "14731181",
+    "14743525",
     "14752969",
     "14971256",
     "14971259",
@@ -284,8 +303,10 @@
     "15642025",
     "15857102",
     "15898938",
+    "16085301",
     "16183786",
     "16297689",
+    "16438362",
     "16441739",
     "16634495",
     "16756240",
@@ -297,6 +318,7 @@
     "18454659",
     "1853744",
     "18605603",
+    "18686762",
     "18724851",
     "18724854",
     "19171004",
@@ -316,9 +338,11 @@
     "20466473",
     "20467628",
     "20467650",
+    "20527496",
     "20556251",
     "20681808",
     "20690854",
+    "20960988",
     "2097257",
     "20977611",
     "21220360",
@@ -343,6 +367,7 @@
     "22244638",
     "22254226",
     "22254231",
+    "22298515",
     "22442781",
     "22442784",
     "22509755",
@@ -377,6 +402,7 @@
     "24393592",
     "24451333",
     "24456612",
+    "24466621",
     "24502614",
     "24502689",
     "24709512",
@@ -474,12 +500,14 @@
     "30328194",
     "30328205",
     "30367200",
+    "30375146",
     "30394216",
     "30511415",
     "30521656",
     "30617584",
     "30624092",
     "30631986",
+    "30658380",
     "30667522",
     "30693399",
     "30719781",
@@ -503,6 +531,7 @@
     "31230768",
     "31246662",
     "31292983",
+    "31421957",
     "31433096",
     "31441527",
     "31605405",
@@ -530,6 +559,7 @@
     "32661522",
     "32893938",
     "32938870",
+    "32942676",
     "33028052",
     "33037794",
     "33135215",
@@ -541,6 +571,7 @@
     "33405453",
     "33465775",
     "33491369",
+    "33540697",
     "33565656",
     "33571021",
     "33571325",
@@ -614,6 +645,7 @@
     "35033725",
     "35055811",
     "35060200",
+    "35074207",
     "35147483",
     "35184916",
     "35213347",
@@ -624,6 +656,7 @@
     "35318752",
     "35322650",
     "35334092",
+    "35368409",
     "35389559",
     "35398904",
     "35476861",
@@ -633,6 +666,7 @@
     "35568576",
     "35584941",
     "35679127",
+    "35683057",
     "35692144",
     "35694835",
     "35734911",
@@ -653,6 +687,7 @@
     "35962774",
     "35964704",
     "35997108",
+    "36004030",
     "36043569",
     "36051807",
     "36069239",
@@ -671,6 +706,7 @@
     "36445774",
     "36459238",
     "36461704",
+    "36478368",
     "36507770",
     "36510942",
     "36511914",
@@ -697,6 +733,7 @@
     "37171039",
     "37189187",
     "37200261",
+    "37201225",
     "37203174",
     "37203873",
     "37221532",
@@ -717,6 +754,7 @@
     "37544352",
     "37589875",
     "37654392",
+    "37655625",
     "37658342",
     "37660446",
     "37672415",
@@ -750,6 +788,7 @@
     "38272437",
     "38353510",
     "38367826",
+    "38389554",
     "38399540",
     "38463466",
     "38471581",
@@ -763,6 +802,7 @@
     "38582434",
     "38607362",
     "38616535",
+    "38645925",
     "38671635",
     "38693759",
     "38706419",
@@ -782,12 +822,14 @@
     "39034210",
     "39054170",
     "39056584",
+    "39066793",
     "39075014",
     "39110332",
     "39134687",
     "39134887",
     "39174162",
     "39195091",
+    "39202977",
     "39219425",
     "39248301",
     "39265550",
@@ -820,12 +862,14 @@
     "39901815",
     "39905614",
     "39907806",
+    "39916906",
     "39917693",
     "39940260",
     "39946741",
     "39954505",
     "39955221",
     "39966906",
+    "39982569",
     "40045044",
     "40062553",
     "40107958",
@@ -849,6 +893,7 @@
     "40410308",
     "40434067",
     "40459982",
+    "40467537",
     "40481748",
     "40535546",
     "40537329",
@@ -863,6 +908,7 @@
     "40660725",
     "40663189",
     "40668355",
+    "40668390",
     "40671939",
     "40694393",
     "40695441",
@@ -958,6 +1004,7 @@
     "41510984",
     "41511431",
     "41515681",
+    "41515779",
     "41523572",
     "41525113",
     "41526568",
@@ -1068,6 +1115,7 @@
     "42150728",
     "42152031",
     "42155884",
+    "42161928",
     "42163541",
     "42174532",
     "42183669",
@@ -1183,6 +1231,7 @@
     "6078744",
     "6934913",
     "8534877",
+    "9151062",
     "9581402",
     "9617677",
     "9797056",
@@ -6036,6 +6085,222 @@
       "verdict": "exclude",
       "screened_by": "opus-inline",
       "screened_on": "2026/10/23"
+    },
+    "42542852": {
+      "topic": "resin-photoinitiator",
+      "edat": "2000-2026",
+      "reason": "in vitro study (microhardness only, not review)",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/24"
+    },
+    "42412639": {
+      "topic": "resin-photoinitiator",
+      "edat": "2000-2026",
+      "reason": "general photochemistry: type I photoinitiator reactivity framework, non-dental",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/24"
+    },
+    "42356456": {
+      "topic": "resin-photoinitiator",
+      "edat": "2000-2026",
+      "reason": "drug delivery hydrogels (PCH), non-dental composite",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/24"
+    },
+    "41975067": {
+      "topic": "resin-photoinitiator",
+      "edat": "2000-2026",
+      "reason": "volumetric bioprinting protein bio-inks, non-dental",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/24"
+    },
+    "41567312": {
+      "topic": "resin-photoinitiator",
+      "edat": "2000-2026",
+      "reason": "in vitro study: self-curing bulk-fill properties, not review",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/24"
+    },
+    "41515481": {
+      "topic": "resin-photoinitiator",
+      "edat": "2000-2026",
+      "reason": "general chemistry: oxime esters as photoinitiators, non-dental",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/24"
+    },
+    "41137647": {
+      "topic": "resin-photoinitiator",
+      "edat": "2000-2026",
+      "reason": "green photopolymerization technology, non-dental",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/24"
+    },
+    "40960347": {
+      "topic": "resin-photoinitiator",
+      "edat": "2000-2026",
+      "reason": "NIR photopolymerization with upconversion materials, non-dental",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/24"
+    },
+    "40760038": {
+      "topic": "resin-photoinitiator",
+      "edat": "2000-2026",
+      "reason": "biomass carbon dots ATRP-type, non-dental",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/24"
+    },
+    "40525665": {
+      "topic": "resin-photoinitiator",
+      "edat": "2000-2026",
+      "reason": "3D-printed dental crown properties: clinical, not polymerization principles",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/24"
+    },
+    "37959882": {
+      "topic": "resin-photoinitiator",
+      "edat": "2000-2026",
+      "reason": "sulfonium salt photoinitiators: general photopolymerization chemistry, non-dental",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/24"
+    },
+    "37294875": {
+      "topic": "resin-photoinitiator",
+      "edat": "2000-2026",
+      "reason": "photocurable polyurethane 3D printing, non-dental",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/24"
+    },
+    "36735598": {
+      "topic": "resin-photoinitiator",
+      "edat": "2000-2026",
+      "reason": "semiconductor-metal nanostructures, non-dental",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/24"
+    },
+    "35160597": {
+      "topic": "resin-photoinitiator",
+      "edat": "2000-2026",
+      "reason": "surface-immobilized photoinitiators, general chemistry, non-dental",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/24"
+    },
+    "34716755": {
+      "topic": "resin-photoinitiator",
+      "edat": "2000-2026",
+      "reason": "rice husk dental composite SR: novel material, not polymerization principles",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/24"
+    },
+    "34716451": {
+      "topic": "resin-photoinitiator",
+      "edat": "2000-2026",
+      "reason": "silk fibroin 3D bioprinting hydrogels, non-dental",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/24"
+    },
+    "33819022": {
+      "topic": "resin-photoinitiator",
+      "edat": "2000-2026",
+      "reason": "bio-based polymers for biomedical engineering, non-dental-specific",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/24"
+    },
+    "33143324": {
+      "topic": "resin-photoinitiator",
+      "edat": "2000-2026",
+      "reason": "quaternary ammonium nanoparticles for antibacterial: not polymerization review",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/24"
+    },
+    "32602092": {
+      "topic": "resin-photoinitiator",
+      "edat": "2000-2026",
+      "reason": "visible light-curable hydrogels for tissue engineering, non-dental",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/24"
+    },
+    "30591826": {
+      "topic": "resin-photoinitiator",
+      "edat": "2000-2026",
+      "reason": "organometallic vs organic photoredox catalysts, general chemistry",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/24"
+    },
+    "29549967": {
+      "topic": "resin-photoinitiator",
+      "edat": "2000-2026",
+      "reason": "high volume photocurable materials: general industrial",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/24"
+    },
+    "37138762": {
+      "topic": "resin-photoinitiator",
+      "edat": "2000-2026",
+      "reason": "flowable bulk-fill SR: clinical performance focus, not polymerization principles",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/24"
+    },
+    "10635252": {
+      "topic": "resin-photoinitiator",
+      "edat": "2000-2026",
+      "reason": "flowable composites as filled adhesives: not polymerization",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/24"
+    },
+    "18071954": {
+      "topic": "resin-photoinitiator",
+      "edat": "2000-2026",
+      "reason": "benzodioxole coinitiator: single compound paper, not review",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/24"
+    },
+    "39057295": {
+      "topic": "resin-photoinitiator",
+      "edat": "2000-2026",
+      "reason": "already in wiki: ferracane-2024-historical-perspective",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/24"
+    },
+    "23199807": {
+      "topic": "resin-photoinitiator",
+      "edat": "2000-2026",
+      "reason": "dimethacrylate composite technology: already covered by other reviews in queue",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/24"
+    },
+    "20859059": {
+      "topic": "resin-photoinitiator",
+      "edat": "2000-2026",
+      "reason": "radical photopolymerization initiators review: broader than dental, partially covered",
+      "verdict": "exclude",
+      "screened_by": "sonnet",
+      "screened_on": "2026/10/24"
     }
   }
 }
