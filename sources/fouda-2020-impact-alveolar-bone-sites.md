@@ -11,6 +11,22 @@ full_text: true
 source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC7338630/
 ---
 
+## Three-line Summary
+
+SR+MA (21 studies, 78,230 implants) comparing early implant failure (EIF) rates by jaw and position: maxilla vs mandible, anterior vs posterior.
+
+Maxillary EIF was 3.14% vs mandibular 1.96% (RR 1.41, 95% CI 1.19–1.67, p<0.0001); anterior maxilla had the highest site-specific rate (6.2%) and anterior mandible the lowest (2.5%).
+
+These site-specific benchmarks provide foundational quantitative reference data for jaw-and-position-adjusted patient counselling and implant planning.
+
+## 세줄요약
+
+21편의 연구(78,230개 임플란트)를 SR+MA하여 악골과 위치별(상악/하악, 전치부/구치부) 조기 임플란트 실패(EIF) 율을 비교했다.
+
+상악 EIF 3.14% vs 하악 1.96%(RR 1.41, 95% CI 1.19–1.67); 전치부 상악이 최고 위험(6.2%), 전치부 하악이 최저(2.5%)였다.
+
+이 위치별 기준치는 악골·위치 보정 환자 상담과 임플란트 계획을 위한 정량 참조 데이터의 기초를 제공한다.
+
 ## Why Ingested
 
 사이트별 절대 조기 실패율(EIF, %)을 pooling한 SR+MA가 위키에 없었음. 기존 [[implants/survival/yari-2023-risk-factors-early-implant-failure]] 및 [[implants/survival/krisam-2019-factors-affecting-the-early-failure]]에서 상악·4형 골 위험이 OR로만 제시됐으나, 부위별 절대 실패율 비교표가 없어 보완 목적으로 인제스트.
