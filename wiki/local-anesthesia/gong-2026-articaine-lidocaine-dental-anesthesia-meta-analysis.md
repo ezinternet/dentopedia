@@ -4,7 +4,7 @@ authors: Gong et al.
 year: 2026
 date: 2026-10-23
 doi: 10.1186/s12871-026-03831-x
-source: sources/gong-2026-articaine-lidocaine-dental-anesthesia-meta-analysis.md
+source: gong-2026-articaine-lidocaine-dental-anesthesia-meta-analysis.md
 category: local-anesthesia
 evidence_level: sr+ma
 source_collection: pubmed-text
