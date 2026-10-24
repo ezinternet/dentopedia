@@ -1430,3 +1430,65 @@ Found by manual PDF discovery (not the original scout search), 2026-07-25 — sa
       "Medical Emergencies in Pediatric Dentistry." — Acta Stomatol Croat
 - [x] PMID 34453905 | Case Series | OA:none | vasovagal-syncope | edat 2021 Nov — INGESTED 2026-10-23 (abstract-only) → wiki/drug/systemic-disease/dellolio-2021-brugada-syndrome-perioperative-management-oral-surgery
       "Brugada Syndrome Updated Risk Assessment and Perioperative Management in Oral Surgery: A Case Series." — J Oral Maxillofac Surg
+- [ ] PMID 42161928 | Review | OA:PMC PMC13190769 | resin-photoinitiator | edat 2026
+      "Light-curing units in restorative dentistry: a clinically oriented narrative review" — Int J Esthet Dent
+- [ ] PMID 40668390 | Review | OA:none | resin-photoinitiator | edat 2025
+      "Efficiency and limitations of polywave light-curing units in restorative dentistry" — J Esthet Restor Dent
+- [ ] PMID 39982569 | Systematic Review | OA:none | resin-photoinitiator | edat 2025
+      "Polywave LEDs increase the degree of conversion of composite resins, but not adhesives: SR" — J Dent
+- [ ] PMID 39916906 | Review | OA:PMC PMC11797893 | resin-photoinitiator | edat 2023
+      "Light-curing dental resin-based composites: How it works and how you can make it better" — Eur J Oral Sci
+- [ ] PMID 39202977 | Review | OA:PMC PMC11357272 | resin-photoinitiator | edat 2024
+      "Photoinitiators for Medical Applications—The Latest Advances" — Pharmaceutics
+- [ ] PMID 38645925 | Review | OA:PMC PMC11022655 | resin-photoinitiator | edat 2024
+      "The power of light — From dental materials processing to diagnostics and therapeutics" — Dent Mater
+- [ ] PMID 38389554 | Review | OA:PMC PMC10880699 | resin-photoinitiator | edat 2022
+      "Light-curing effectiveness using LED lamps: a review" — Rev Cient Odontol
+- [ ] PMID 37201225 | Systematic Review | OA:none | resin-photoinitiator | edat 2023
+      "Are polywave LEDs more effective than monowave in photoactivation of resins with alternative photoinitiators? SR" — J Mech Behav Biomed Mater
+- [ ] PMID 35074207 | Review | OA:PMC PMC9275281 | resin-photoinitiator | edat 2022
+      "Intraoral Light Curing of Resin Based Material: FDI General Assembly statement" — Int Dent J
+- [ ] PMID 33540697 | Review | OA:PMC PMC7867280 | resin-photoinitiator | edat 2021
+      "The Photoinitiators Used in Resin Based Dental Composite — A Review and Future Perspectives" — Materials
+- [ ] PMID 32942676 | Review | OA:PMC PMC7560344 | resin-photoinitiator | edat 2020
+      "Moving Towards a Finer Way of Light-Cured Resin-Based Restorative Dental Materials: Recent Advances" — Polymers
+- [ ] PMID 30658380 | Review | OA:none | resin-photoinitiator | edat 2018
+      "Factors influencing success of radiant exposure in light-curing posterior dental composite" — Dent Mater
+- [ ] PMID 24466621 | Review | OA:none | resin-photoinitiator | edat 2013
+      "Photoinitiators in dentistry: a review" — Eur J Esthet Dent
+- [ ] PMID 22298515 | Review | OA:none | resin-photoinitiator | edat 2012
+      "Cure mechanisms in materials for use in esthetic dentistry" — Dent Clin North Am
+- [ ] PMID 20527496 | Review | OA:none | resin-photoinitiator | edat 2010
+      "Current status of visible light activation units and curing of light-activated resin-based composite restorations" — Oper Dent
+- [ ] PMID 16438362 | Review | OA:none | resin-photoinitiator | edat 2005
+      "Advances in light curing units and curing techniques: a literature review" — J Esthet Restor Dent
+- [ ] PMID 14743525 | Review | OA:none | resin-photoinitiator | edat 2000
+      "Curing dental resins and composites by photopolymerization" — J Esthet Restor Dent
+- [ ] PMID 41515779 | Systematic Review | OA:PMC PMC12786691 | resin-polymerization-kinetics | edat 2025
+      "Effect of Oxygen-Inhibited Layer of Dental Adhesives on Bond Strength: A Systematic Review" — Polymers
+- [ ] PMID 40467537 | Systematic Review | OA:none | resin-polymerization-kinetics | edat 2025
+      "Effectiveness of Prosthetic Cementation With Preheated Composite Resins: A Systematic Review" — J Prosthet Dent
+- [ ] PMID 39066793 | Systematic Review | OA:PMC PMC11283416 | resin-polymerization-kinetics | edat 2024
+      "Impact of inorganic fillers, organic content, and polymerization mode on DC of monomers in resin cements: scoping review" — J Prosthet Dent
+- [ ] PMID 37655625 | Meta-Analysis | OA:none | resin-polymerization-kinetics | edat 2023
+      "Physical Properties and Clinical Performance of Short Fiber Reinforced Composite in Posterior Dentition: SR and MA" — Oper Dent
+- [ ] PMID 36478368 | Systematic Review | OA:none | resin-polymerization-kinetics | edat 2022
+      "Preheating of dental composite resins: A scoping review" — J Esthet Restor Dent
+- [ ] PMID 36004030 | Review | OA:PMC PMC9392864 | resin-polymerization-kinetics | edat 2022
+      "Composite Pre-heating: A Novel Approach in Restorative Dentistry" — Materials
+- [ ] PMID 35368409 | Review | OA:PMC PMC8967568 | resin-polymerization-kinetics | edat 2022
+      "Composite Resin Preheating Techniques for Cementation of Indirect Restorations" — Materials
+- [ ] PMID 35683057 | Systematic Review | OA:PMC PMC9181045 | resin-polymerization-kinetics | edat 2022
+      "Modeling Liquids and Resin-Based Dental Composite Materials — A Scoping Review" — Polymers
+- [ ] PMID 31421957 | Systematic Review | OA:none | resin-polymerization-kinetics | edat 2019
+      "Clinical performance and chemical-physical properties of bulk fill composites — a systematic review" — J Dent
+- [ ] PMID 30375146 | Systematic Review | OA:none | resin-polymerization-kinetics | edat 2018
+      "Depth of cure of bulk fill resin composites: A systematic review" — Dent Mater
+- [ ] PMID 20960988 | Review | OA:none | resin-polymerization-kinetics | edat 2010
+      "Light-curing considerations for resin-based composite materials: a review. Part II" — J Esthet Restor Dent
+- [ ] PMID 18686762 | Review | OA:none | resin-polymerization-kinetics | edat 2008
+      "Light curing of resin-based composites in the LED era" — Dent Mater
+- [ ] PMID 16085301 | Review | OA:none | resin-polymerization-kinetics | edat 2005
+      "Factors involved in the development of polymerization shrinkage stress in resin-composites" — Dent Mater
+- [ ] PMID 9151062 | Review | OA:none | resin-polymerization-kinetics | edat 1997
+      "Resin composites in dentistry: the monomer systems" — Eur J Oral Sci
