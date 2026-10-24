@@ -11,6 +11,22 @@ pdf_filename: chrcanovic-2016-factors-influencing-early-dental-implant.pdf
 source_collection: external
 ---
 
+## Three-line Summary
+
+Retrospective study of 10,096 implants from one prosthodontic clinic (Malmö, 1980–2014) focusing on early failure before second-stage surgery to isolate predictors free of prosthetic confounders.
+
+Pre-abutment failure was 1.74% (overall failure 6.36%); patient-level logistic regression and implant-level GEE models identified smoking and antidepressant use as the only independent multivariate predictors, with bone quantity/quality, surface, grafting and jaw significant only univariately.
+
+The authors propose serotonin-mediated inhibition of bone metabolism as the mechanism for antidepressant-associated failure — a clinically relevant signal for patient medication review before implant placement.
+
+## 세줄요약
+
+단일 보철과 클리닉(말뫼, 1980–2014)의 10,096개 임플란트를 대상으로 2차 수술(지대주 연결) 이전 조기 실패를 보철 교란 없이 분석했다.
+
+지대주 연결 전 실패율 1.74%(전체 6.36%)였으며, 환자 수준 로지스틱 회귀와 임플란트 수준 GEE 모두에서 흡연과 항우울제 복용만이 독립 다변량 예측인자였고, 골 양·질·표면·이식·악골은 단변량에서만 유의했다.
+
+항우울제 기전으로 세로토닌 매개 골 대사 억제가 제시되며, 임플란트 식립 전 환자 복용 약물 검토 시 임상적 경고 신호로 활용된다.
+
 ## Why Ingested
 
 Cited by [[implants/survival/krisam-2019-factors-affecting-the-early-failure]] as one of the references (10–18) behind its background statement that early failures account for about 2–6% of implants placed. Ingested to make that benchmark traceable and to extend the evidence base of [[overviews/early-implant-failure-risk-prevention-overview]]. Full text is the author-accepted manuscript from the Malmö University DiVA repository (peer-reviewed, without publisher proof corrections or journal pagination).
