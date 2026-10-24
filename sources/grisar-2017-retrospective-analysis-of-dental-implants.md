@@ -15,6 +15,22 @@ text_filename: grisar-2017-retrospective-analysis-of-dental-implants.txt
 source_url: https://pubmed.ncbi.nlm.nih.gov/28212455/
 ---
 
+## Three-line Summary
+
+Retrospective review of 1,139 implants (509 patients) over three years in the Leuven University oral and maxillofacial surgery department, with 13.3% of cases requiring bone augmentation or sinus elevation.
+
+Early failure occurred in 52 implants (4.6%) in 33 patients (6.5%); smoking, male sex, total edentulism, narrow implant diameter and bone augmentation were associated with early failure in the reported analyses.
+
+Effect sizes and statistical model details are absent from the abstract, limiting interpretation of relative contributions, but the 4.6% implant-level early failure rate aligns with referral-centre benchmarks.
+
+## 세줄요약
+
+루뱅 대학 구강악안면외과에서 3년간 식립한 임플란트 1,139개(509명)를 후향 분석했으며, 13.3%는 골 증대술 또는 상악동 거상이 동반됐다.
+
+조기 실패는 52개(4.6%), 33명(6.5%)에서 발생했고 흡연·남성·완전 무치악·세직경·증대술이 위험인자로 보고됐다.
+
+초록에 효과 크기와 통계 모델이 제시되지 않아 인자별 독립 기여도 해석이 제한적이나, 4.6% 임플란트 조기 실패율은 의뢰 기관 기준에 부합한다.
+
 abstract-only — full text not retrieved (paywalled; no open-access copy found). The source is the PubMed/Europe PMC abstract. Design details beyond the abstract are not available.
 
 ## Why Ingested
