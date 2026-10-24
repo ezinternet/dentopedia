@@ -2,7 +2,7 @@
 title: "레진접착 — resin-bonding"
 authors: navigation
 year: 2026
-date: 2026-10-14
+date: 2026-10-24
 doi: N/A
 source: navigation
 category: resin-bonding
@@ -15,20 +15,20 @@ tags: [navigation, category-index, resin-bonding]
 > [!summary] 한국어 핵심요약
 > - **분야**: 레진접착
 > - **범위**: Adhesive systems, bonding mechanisms, dentin adhesion
-> - **수록 논문**: 98편
+> - **수록 논문**: 99편
 
 ## Three-line Summary
 
 **Scope**: Adhesive systems, bonding mechanisms, dentin adhesion
-**Indexed papers**: 98 papers in `wiki/resin-bonding/`.
+**Indexed papers**: 99 papers in `wiki/resin-bonding/`.
 
 ## 세줄요약
 
 **분야**: 레진접착
-**수록 논문**: 98편
+**수록 논문**: 99편
 **하위 카테고리**: 없음
 
-## Papers in this Category (98)
+## Papers in this Category (99)
 
 | Paper |
 |---|
@@ -103,6 +103,7 @@ tags: [navigation, category-index, resin-bonding]
 | [[omoto-2025-nccl-adhesion-strategies-5year-rct|Randomized Clinical Trial of Four Adhesion Strategies in Non-Carious Cervical Lesions: Five-Year Follow-Up]] |
 | [[oza-2022-universal-adhesive-nccl-rct-2year|Clinical Performance of a 'No Wait' Universal Adhesive in Noncarious Cervical Lesions: A Two-year Randomized Controlled Clinical Trial]] |
 | [[parra-2026-pushout-bond-strength-fiberglass-posts|Push-Out Bond Strength of Prefabricated Fiberglass Posts in Endodontically Treated Teeth After Two Intracanal Cleaning Protocols]] |
+| [[patangia-2025-effect-oxygen-inhibited-layer-dental|Effect of Oxygen-Inhibited Layer of Dental Adhesives on Bond Strength: A Systematic Review]] |
 | [[peumans-2023-universal-adhesive-nccl-3year-rct|Three-year Clinical Performance of a Universal Adhesive in Non-Carious Cervical Lesions]] |
 | [[sagen-2025-composite-porcelain-bond-strength-surface-treatment|An in vitro study on the bond strength between composite resin and porcelain using different surface treatment and bonding methods]] |
 | [[salvio-2013-hybridization-quality-bond-strength-adhesive-dentin|Hybridization quality and bond strength of adhesive systems according to interaction with dentin]] |
