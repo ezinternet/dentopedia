@@ -19,6 +19,22 @@ tags:
   - local-anesthesia
 ---
 
+## Three-line Summary
+
+Prospective pharmacokinetic study (n=14, 41 procedures, Anesth Analg 2016) establishing estimated maximal safe dosages (EMSD) for tumescent lidocaine: 28 mg/kg without liposuction and 45 mg/kg with liposuction, with Cmax remaining below the 6 μg/mL mild-toxicity threshold.
+
+Strong linear Cmax–dose relationship (r²=0.85 without liposuction); delayed absorption kinetics with Tmax ~13 h explain why large tumescent doses remain safe despite far exceeding the FDA 7 mg/kg dental limit.
+
+The EMSDs apply specifically to the subcutaneous tumescent technique with its characteristically slow absorption; they are not transferable to bolus, intravenous or dental injection routes.
+
+## 세줄요약
+
+14명(41건)의 전향적 PK 연구로 종창 마취(Tumescent Lidocaine Anesthesia)의 추정 최대 안전 용량(EMSD)을 확립했다: 지방흡입 없이 28 mg/kg, 있을 때 45 mg/kg (Cmax 6 μg/mL 독성 역치 이하 유지; Anesth Analg 2016).
+
+Cmax-용량 강한 선형 관계(r²=0.85); Tmax ~13시간 지연 흡수가 FDA 7 mg/kg를 크게 초과해도 안전한 이유를 설명한다.
+
+이 EMSD는 특징적으로 느린 흡수를 가진 피하 종창 주입 기법에 한정되며, 볼루스·정맥내·치과 주사 경로에 적용되지 않는다.
+
 ## Summary
 
 Prospective pharmacokinetic study (n=14, 41 procedures; Anesth Analg 2016) establishing that the 6 μg/mL threshold for mild lidocaine toxicity can be reliably avoided at doses up to 28 mg/kg (without liposuction) or 45 mg/kg (with liposuction) of tumescent lidocaine anesthesia.
