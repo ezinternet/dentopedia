@@ -4,7 +4,7 @@ authors: Moore PA, Hersh EV, Papas AS, Goodson JM, Navalta LA, Rogy S, Rutherfor
 year: 2008
 date: 2026-10-23
 doi: 10.2344/0003-3006(2008)55[40:POLWEF]2.0.CO;2
-source: sources/moore-2008-lidocaine-epinephrine-pk-phentolamine-reversal.md
+source: moore-2008-lidocaine-epinephrine-pk-phentolamine-reversal.md
 category: local-anesthesia
 evidence_level: prospective
 source_collection: pubmed-abstract
