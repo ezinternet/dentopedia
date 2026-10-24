@@ -1,0 +1,100 @@
+Title: Light-curing dental resin-based composites: How it works and how you can make it work.
+Authors: Watts DC
+Year: 2023
+Journal: Frontiers in Dental Medicine
+PMID: 39916906
+PMCID: PMC11797893
+DOI: 10.3389/fdmed.2023.1108316
+
+1. Introduction
+
+Resin-based composites (RBCs) are the most prevalent class of material for the direct restoration of teeth. They are commonly supplied by manufacturers as single pastes—within syringes or as a single dose "compule"—for extrusion and placement into a prepared dental cavity. Such clinical preparation normally requires prior application of an adhesive layer to the cavity floor and walls, as most RBCs are not self-adhesive to enamel or dentine. Composites are hardened by the process and procedures of photo-polymerisation or photo-curing. This requires application of visible blue light from a suitable light-curing unit (LCU).
+
+Over the past 15 years, manufacturers have developed RBC formulations capable of photo-polymerisation in a single increment of 4 mm thickness (or depth) by irradiation from an occlusal surface. These RBCs, exhibiting a Depth of Cure (DoC) of 4 mm or greater, are known as bulk-fill (BF) composites. Prior to their development typical DoCs were about 2 mm, requiring several layers or increments to fill a deep cavity.
+
+The objective of this review is to address two main questions: "How does light curing work?" and "How can the clinician make it work?" This requires a brief review of the science of light itself, the current technology of light-curing units, based on light-emitting diodes (LEDs), and the modes of interaction of light with substances such as composites—especially their incorporated photoinitiator (PI) molecules. The procedural aspects address the practical issues that arise in the dental clinic and an appreciation of the several adverse consequences of under-curing resin-composites.
+
+2. The nature of light
+
+Light behaves as a stream of particles (photons), but collectively—or even single photons—exhibit wavelike characteristics, including interference and diffraction. The photon (particle) concept is essential to explaining the photoelectric effect. A beam of visible (white) light consists of a range (or spectrum) of wavelengths (or frequencies). Visible light is merely a central part of the whole electromagnetic spectrum with UV extending beyond the violet and IR and then radio waves extending beyond the red. According to quantum theory, each photon of light has an energy (E) given by the product of its frequency (ν) and Max Planck's constant (h): E = h×ν = h×c/λ
+
+3. Units for expressing the quantity of light from a source
+
+The Watt (symbol: W) is a unit of power or radiant flux. As light emerges from the LCU light guide or "optic" over a defined exit area, this is expressed as the Radiant Exitance (UNITS W/cm² or mW/cm²). Light that emerges from an LCU light guide falls on the target surface—the amount of light per unit area is termed the Irradiance (also mW/cm²). If the Irradiance remains constant, the energy density (dose) delivered = Irradiance × time (E = H × t). The energy density or Radiant Exposure is also known as "dose" in mJ/cm².
+
+4. Formulation of resin-based composites
+
+All RBCs are formulated with monomer (resin) mixtures that can be polymerized to form a solid organic resin matrix. Monomers in current formulations are predominantly dimethacrylates that incorporate pairs of carbon-carbon double bonds (C=C): one at either end of each monomer molecule. Examples are the well-known structures of bis-GMA, UDMA and TEGDMA. Pre-dispersed within the monomers are high volume fractions of inorganic filler particles frequently including pre-polymerized composite fragments. Photoinitiator (PI) system molecules are also pre-dispersed within the resin-phase at a concentration of ~0.1–0.2 percent.
+
+5. How do light-curing units work?
+
+LEDs are generically solid-state devices that emit visible radiation when an electrical potential (voltage) is supplied to suitable materials. The possible dental application of blue LEDs was first proposed by Mills in 1995 and shown to be viable by Mills, Jandt and Ashworth in 1999. LED chips are small, rugged, reliable, bright and reasonably energy-efficient (~30%–40% efficient, compared with 1% for incandescent bulbs). The 2014 Nobel Prize in Physics was awarded to three Japanese scientists for the invention of blue LEDs.
+
+5.1. Beam profiles
+
+An underappreciated feature of LED LCUs is that the light output across the optic tip area can vary considerably, creating dangerous "hot" and "cold" spots within the beam in inferior designs.
+
+6. How photons interact with resin-composites
+
+6.1. Light penetration into resin-composite restoratives
+
+Light penetration is governed by the Beer-Lambert law, which expresses an exponential decrease of irradiance with depth, with an attenuation coefficient. The attenuation coefficient is the sum of the coefficients for absorption and scattering. Scattering of light is commonplace at internal interfaces, especially where there is a difference of refractive index between two phases, such as resin and filler particles. Scattering increases appreciably with shorter wavelengths, so blue light penetrates more than violet light. Filler-particle size has a major effect. When particle or fibre diameters are larger than the wavelength of light (470 nm or 0.47 µm), the light beam "sees" the particles and is scattered from its original direction of travel. By contrast, nanoparticles (100 nm) are not "seen" by the light beam and so do not scatter light.
+
+6.2. Photons encounter photoinitiators
+
+The first visible-light photoinitiator system for dentistry was developed and patented in 1975 at ICI PLC in the United Kingdom, using Camphorquinone (CQ) as the photo absorber in combination with an amine. CQ is a yellow compound, as it absorbs blue wavelengths (~470 nm) from visible light.
+
+PI systems may be classified into two types: Norrish Type I and Norrish Type II. Camphorquinone/amine is a Type II system. The absorption of photons transforms CQ molecules to an excited (higher energy) state that is then capable of reaction with an amine co-initiator to generate free radicals. Type I systems involve a simpler bond-cleavage mechanism (e.g., acylphosphine oxides such as TPO and BAPO). Both types result in the formation of free radicals, which initiate free-radical addition polymerization reactions.
+
+Some PIs absorb more strongly in the shorter-wavelength violet region (~410 nm) as compared to the blue region (~470 nm). This availability of alternative photoinitiators has promoted the design and commercial production of LED-LCUs incorporating two types of LED chip—of either ~470 nm (blue) or ~410 nm (violet) peak-spectral output. Such devices are named "polywave" or "multi-chip". "Wide-band" or "broad-band" are also acceptable alternative terms.
+
+Violet light—being of shorter wavelength than blue light—has reduced penetrative effectiveness through RBCs, due to greater scattering and absorption effects. This may be significant when photo-curing bulk fill materials to 4 mm or greater depths.
+
+6.3. "Bleaching" of photoinitiators and colour stability of BF-RBCs
+
+When CQ molecules react photochemically they are "destroyed" and so lose their yellow appearance—this is termed "bleaching" of the PI. Residual amines can change chemically and develop a yellow appearance over time, thereby affecting the colour stability of the RBC.
+
+6.4. Advanced requirements for photoinitiators and RBC formulations
+
+During the polymerization process, the refractive index of the resin phase changes, as does the refractive index mismatch between resin and filler phases, which affects light-scattering. There is a complex dynamic effect resulting in a polymerization "wavefront". Surprisingly, light transmittance can increase with prolonged irradiation times in some RBCs.
+
+7. Degree of conversion
+
+The most widely referenced quantity for expressing the immediate molecular "success" of photopolymerization is the Degree of Conversion (DC). The DC of a composite surface or thin film is the percentage of C=C-bonds within the monomer molecules that have converted to C-C single-bonds by polymerization. For a well-polymerized dimethacrylate composite, DC is typically in the range of 60%–70%. The reason DC is much less than 100% is that polymerization of these crosslinking molecules is a self-limiting process—the material quickly vitrifies (enters the glassy state) so chain-segmental mobility requisite for further reaction is greatly reduced or becomes impossible.
+
+7.1. Shrinkage phenomena
+
+During polymerization of dimethacrylate monomers, the conversion of C=C bonds produces an intrinsic densification or shrinkage. When the proportion of the resin-monomer phase is reduced by addition of filler particles, the overall shrinkage is reduced. Shrinkage stress arises when the RBC is photo-cured in the confined space of a cavity with adhesive bonding.
+
+7.3. Depth of Cure
+
+Bulk fill composites are, by definition, those having a Depth of Cure (DoC) of 4 mm or greater. A practical test uses a mould: fill with composite, irradiate, then measure hardness ratio (bottom/top × 100%). Ideally this ratio should be >95%.
+
+7.4. Heat generation by LCU and polymerization exotherm
+
+Photons that are neither reflected, absorbed, or scattered are transmitted and their energy can be transformed into thermal heat. The polymerization process itself is also exothermic.
+
+8. The reciprocity hypothesis
+
+There has been an implicit assumption of a reciprocity hypothesis that: "the same photo-cure outcomes will result from applying essentially constant energy densities despite reciprocal variations in the irradiance and time-period." In general, this reciprocity assumption is over-optimistic and could be seriously misleading. Some composites have been specially formulated with advanced photoinitiator systems to permit ultra-rapid cure within 5 or even 3 s. Reciprocity may apply to monomer systems incorporating Type I photoinitiators or to composites with a certain range of viscosity, but in other cases there may be anomalies or reciprocity only to a limited extent.
+
+9. How the clinician can make light-curing work
+
+It is essential to perform careful light-curing procedures since the consequences of failure are serious. Inadequate curing at depth creates the potential for significant monomer elution.
+
+Key selection criteria for LCUs:
+1. Purchase from a reputable company supplying detailed design and performance information.
+2. Request output wavelength spectrum (400–550 nm range) — single-peak (monowave) or multi-peak (polywave/multi-chip).
+3. Note the overall design type — extended optic tip, perpendicular emission, etc.
+4. Assess beam divergence using a radiometer.
+
+Adverse consequences of under-cured resin composites (Table 1):
+• Breakdown of the resin matrix.
+• Increased wear & fracture.
+• Increased elution of monomer, etc.
+• Colour changes.
+• Reduced bond strengths.
+• Increased bacterial colonization.
+• Secondary caries.
+
+"Light curing in dentistry is now a mature technology. Nevertheless, further innovations can be anticipated."
