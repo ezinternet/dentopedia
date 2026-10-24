@@ -4,7 +4,7 @@ authors: Yuan X, Pei X, Zhao Y, Tulu US, Liu B, Helms JA
 year: 2018
 date: 2026-10-21
 doi: 10.1177/0022034518755719
-source: sources/yuan-2018-wnt-pdl-extraction-socket-healing.md
+source: yuan-2018-wnt-pdl-extraction-socket-healing.md
 category: bone-biology
 evidence_level: animal
 source_collection: pubmed-abstract
