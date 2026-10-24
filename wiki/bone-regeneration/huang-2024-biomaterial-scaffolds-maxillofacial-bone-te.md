@@ -4,7 +4,7 @@ authors: Huang X, Lou Y, Duan Y, Liu H, Tian J, Shen Y, Wei X
 year: 2024
 date: 2026-10-22
 doi: 10.1016/j.bioactmat.2023.10.031
-source: sources/huang-2024-biomaterial-scaffolds-maxillofacial-bone-te.md
+source: huang-2024-biomaterial-scaffolds-maxillofacial-bone-te.md
 category: bone-regeneration
 evidence_level: narrative-review
 source_collection: pubmed-pdf
