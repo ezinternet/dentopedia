@@ -546,6 +546,7 @@ tags: []
 - [[bone-regeneration/de-2026-are-buccal-fat-pad-derived]] — De Francesco 2026 · sr · 협유지방(Buccal Fat Pad) 유래 줄기세포(BFPSC) 상악악안면부 골재생 SR(임상 6편 49명): 평균 15개월(5–48개월) 추이 임상·방사선 양호, 4편 조직학적 신생골 확인 — ROBINS-I상 5/6편 중대한 위험편향, CEBM 2b~4등급 [PMC전문] (DOI 10.1097/scs.0000000000012186)
 - [[bone-regeneration/chou-2026-recombinant-human-bone-morphogenetic-protein]] — Chou 2026 · sr · 소아 치조열 교정술 rhBMP-2 함유 동종골 vs 장골능 자가골(ICBG) SR(21편): 치조열 골형성 4편 rhBMP-2 우위·1편 ICBG 우위·7편 무차이, 수술시간 5/5·입원기간 7/8 단축, 합병증은 5/12에서 ICBG 우위 (초록만) (DOI 10.1097/sap.0000000000004711)
 
+- [[bone-regeneration/ridge-preservation/juodzbalys-2019-morphological-classification-extraction-sockets-clinical]] — Juodzbalys 2019 · sr · 발치와 분류체계(Extraction Socket Classification) 6종 비교(10편); 심미·비심미 영역 소켓 보존/증대 의사결정 트리 제안; 발치 후 6개월 수평 29–63%·수직 11–22% 골흡수
 - [[bone-regeneration/ridge-preservation/jahanbin-2023-immediate-delayed-mini-screw-placement-alveolar]] — 개(split-mouth): 발치 후 즉시 vs 지연 미니스크류 식립; 즉시군이 치조정 높이 보존(+0.4 mm)에 유리, 지연군이 스크류 주위 골밀도(+183 Hu) 증가 (동물실험)
 
 - [[bone-regeneration/ridge-preservation/talebi-ardakani-2024-comparison-histological-clinical]] — 동종골 동결건조골(Allograft) + 주사형 혈소판풍부피브린(I-PRF) 병용 vs 동종골 단독 치조제보존: I-PRF군 신생골 형성 및 치조폭 손실 유의 감소(이중맹검 RCT, 3개월)
