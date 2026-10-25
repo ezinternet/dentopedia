@@ -1,0 +1,1668 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>레진 중합의 원리 — 광개시제·LCU·임상 적용</title>
+<style>
+  :root {
+    --bg: #f8f9fb;
+    --surface: #ffffff;
+    --surface2: #f1f4f8;
+    --border: #dce3ec;
+    --text: #1a2333;
+    --text2: #4a5568;
+    --text3: #718096;
+    --blue: #2563eb;
+    --blue-light: #dbeafe;
+    --blue-mid: #93c5fd;
+    --teal: #0d9488;
+    --teal-light: #ccfbf1;
+    --amber: #d97706;
+    --amber-light: #fef3c7;
+    --red: #dc2626;
+    --red-light: #fee2e2;
+    --green: #16a34a;
+    --green-light: #dcfce7;
+    --purple: #7c3aed;
+    --purple-light: #ede9fe;
+    --radius: 12px;
+    --shadow: 0 2px 8px rgba(0,0,0,0.08);
+    --shadow-md: 0 4px 16px rgba(0,0,0,0.12);
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: -apple-system, 'Pretendard', 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.6;
+    font-size: 15px;
+  }
+
+  /* ── header ── */
+  .page-header {
+    background: linear-gradient(135deg, #1e3a5f 0%, #2563eb 60%, #0d9488 100%);
+    color: #fff;
+    padding: 40px 24px 36px;
+    text-align: center;
+  }
+  .page-header h1 { font-size: 1.8rem; font-weight: 700; margin-bottom: 8px; }
+  .page-header p { font-size: 0.95rem; opacity: 0.85; max-width: 600px; margin: 0 auto; }
+  .header-refs {
+    margin-top: 12px;
+    font-size: 0.78rem;
+    opacity: 0.65;
+  }
+
+  /* ── nav pills ── */
+  .nav-bar {
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    padding: 0 16px;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    display: flex;
+    gap: 4px;
+    overflow-x: auto;
+    scrollbar-width: none;
+  }
+  .nav-bar::-webkit-scrollbar { display: none; }
+  .nav-btn {
+    background: none;
+    border: none;
+    padding: 10px 14px;
+    font-size: 0.82rem;
+    font-weight: 600;
+    color: var(--text3);
+    cursor: pointer;
+    white-space: nowrap;
+    border-bottom: 3px solid transparent;
+    transition: color 0.15s, border-color 0.15s;
+  }
+  .nav-btn:hover { color: var(--blue); }
+  .nav-btn.active { color: var(--blue); border-bottom-color: var(--blue); }
+
+  /* ── content wrapper ── */
+  .main { max-width: 860px; margin: 0 auto; padding: 24px 16px 60px; }
+
+  /* ── section ── */
+  .section { display: none; }
+  .section.active { display: block; }
+
+  .section-title {
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin-bottom: 6px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .section-title .icon {
+    width: 34px; height: 34px;
+    border-radius: 8px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 1.1rem;
+  }
+  .section-sub {
+    color: var(--text2);
+    font-size: 0.88rem;
+    margin-bottom: 20px;
+  }
+
+  /* ── cards ── */
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 18px 20px;
+    margin-bottom: 14px;
+    box-shadow: var(--shadow);
+  }
+  .card-header {
+    font-weight: 700;
+    font-size: 0.95rem;
+    margin-bottom: 8px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .badge {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 20px;
+    font-size: 0.72rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+  }
+
+  /* ── SECTION 1: 중합 메커니즘 ── */
+  .mech-steps {
+    display: flex;
+    gap: 0;
+    margin-bottom: 20px;
+    border-radius: var(--radius);
+    overflow: hidden;
+    border: 1px solid var(--border);
+  }
+  .mech-step-btn {
+    flex: 1;
+    background: var(--surface2);
+    border: none;
+    border-right: 1px solid var(--border);
+    padding: 12px 8px;
+    cursor: pointer;
+    font-size: 0.78rem;
+    font-weight: 600;
+    color: var(--text3);
+    transition: background 0.15s, color 0.15s;
+    text-align: center;
+    line-height: 1.3;
+  }
+  .mech-step-btn:last-child { border-right: none; }
+  .mech-step-btn.active {
+    background: var(--blue);
+    color: #fff;
+  }
+  .mech-step-btn .step-num {
+    display: block;
+    font-size: 0.7rem;
+    opacity: 0.7;
+    margin-bottom: 2px;
+  }
+
+  .mech-panel { display: none; }
+  .mech-panel.active { display: block; }
+
+  .mech-visual {
+    background: var(--surface2);
+    border-radius: var(--radius);
+    padding: 20px;
+    margin-bottom: 14px;
+    text-align: center;
+    min-height: 140px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  /* photon SVG animation */
+  .photon-row {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .photon-circle {
+    width: 36px; height: 36px;
+    border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 0.65rem; font-weight: 700; color: #fff;
+    animation: pulse 1.5s infinite;
+  }
+  @keyframes pulse { 0%,100%{transform:scale(1)} 50%{transform:scale(1.12)} }
+  .arrow-big { font-size: 1.6rem; color: var(--text3); }
+  .molecule-box {
+    background: var(--surface);
+    border: 2px solid var(--border);
+    border-radius: 8px;
+    padding: 8px 14px;
+    font-size: 0.78rem;
+    font-weight: 600;
+    text-align: center;
+    min-width: 90px;
+  }
+  .molecule-box.excited { border-color: var(--amber); background: var(--amber-light); }
+  .molecule-box.radical { border-color: var(--red); background: var(--red-light); color: var(--red); }
+  .molecule-box.polymer { border-color: var(--green); background: var(--green-light); color: var(--green); }
+
+  .mech-text { color: var(--text2); font-size: 0.88rem; }
+  .mech-text strong { color: var(--text); }
+
+  /* chain visualization */
+  .chain-row {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-size: 0.72rem;
+    font-weight: 700;
+  }
+  .chain-unit {
+    padding: 4px 8px;
+    border-radius: 4px;
+    border: 1.5px solid;
+  }
+  .chain-monomer { background: #fef9c3; border-color: var(--amber); color: #92400e; }
+  .chain-polymer { background: var(--green-light); border-color: var(--green); color: #15803d; animation: pop 0.4s ease; }
+  @keyframes pop { 0%{transform:scale(0)} 80%{transform:scale(1.1)} 100%{transform:scale(1)} }
+
+  /* dc gauge */
+  .dc-gauge-wrap {
+    position: relative;
+    width: 140px; height: 80px;
+    margin: 0 auto 10px;
+  }
+  .dc-gauge-wrap svg { width: 100%; height: 100%; }
+
+  /* ── SECTION 2: 광개시제 ── */
+  .pi-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 14px;
+  }
+  @media(max-width: 500px) { .pi-grid { grid-template-columns: 1fr; } }
+
+  .pi-card {
+    background: var(--surface);
+    border: 2px solid var(--border);
+    border-radius: var(--radius);
+    padding: 16px;
+    cursor: pointer;
+    transition: border-color 0.15s, box-shadow 0.15s;
+  }
+  .pi-card:hover { box-shadow: var(--shadow-md); }
+  .pi-card.selected { border-color: var(--blue); box-shadow: 0 0 0 3px var(--blue-light); }
+
+  .pi-card-head {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    margin-bottom: 10px;
+  }
+  .pi-icon {
+    width: 40px; height: 40px;
+    border-radius: 8px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 1.2rem;
+    flex-shrink: 0;
+  }
+  .pi-name { font-weight: 700; font-size: 0.95rem; line-height: 1.3; }
+  .pi-abbr { font-size: 0.75rem; color: var(--text3); }
+
+  .pi-bar-row { margin-bottom: 6px; }
+  .pi-bar-label {
+    display: flex; justify-content: space-between;
+    font-size: 0.72rem; color: var(--text3);
+    margin-bottom: 3px;
+  }
+  .pi-bar-track {
+    background: var(--surface2);
+    border-radius: 3px;
+    height: 7px;
+    overflow: hidden;
+  }
+  .pi-bar-fill {
+    height: 100%;
+    border-radius: 3px;
+    transition: width 0.6s cubic-bezier(0.4,0,0.2,1);
+  }
+
+  .pi-tag-row { display: flex; gap: 4px; flex-wrap: wrap; margin-top: 8px; }
+  .pi-tag {
+    font-size: 0.7rem;
+    padding: 2px 7px;
+    border-radius: 10px;
+    font-weight: 600;
+  }
+
+  .pi-detail {
+    display: none;
+    background: var(--surface2);
+    border-radius: var(--radius);
+    padding: 16px;
+    margin-top: 16px;
+    border: 1px solid var(--border);
+  }
+  .pi-detail.open { display: block; }
+  .pi-detail-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+  }
+  @media(max-width:500px){ .pi-detail-grid { grid-template-columns: 1fr; } }
+  .pi-detail-item {
+    background: var(--surface);
+    border-radius: 8px;
+    padding: 10px 12px;
+    border: 1px solid var(--border);
+  }
+  .pi-detail-item .label { font-size: 0.72rem; color: var(--text3); margin-bottom: 2px; }
+  .pi-detail-item .value { font-size: 0.88rem; font-weight: 600; }
+
+  /* absorption spectrum visual */
+  .spectrum-bar {
+    height: 22px;
+    border-radius: 4px;
+    background: linear-gradient(to right,
+      #8b00ff 0%, #4400ff 8%, #0000ff 15%,
+      #0044ff 22%, #0088ff 30%, #00ccff 38%,
+      #00ffcc 46%, #00ff88 54%,
+      #88ff00 62%, #ffff00 70%,
+      #ffaa00 78%, #ff5500 86%,
+      #ff0000 93%, #cc0000 100%);
+    margin: 6px 0 4px;
+    position: relative;
+    overflow: visible;
+  }
+  .pi-peak-marker {
+    position: absolute;
+    top: -8px;
+    transform: translateX(-50%);
+    width: 3px;
+    height: 38px;
+    border-radius: 2px;
+    opacity: 0.9;
+  }
+  .peak-label {
+    position: absolute;
+    top: -22px;
+    transform: translateX(-50%);
+    font-size: 0.62rem;
+    font-weight: 700;
+    white-space: nowrap;
+  }
+
+  /* ── SECTION 3: LCU 선택 ── */
+  .lcu-gen-row {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+    overflow-x: auto;
+    padding-bottom: 4px;
+  }
+  .lcu-card {
+    background: var(--surface);
+    border: 2px solid var(--border);
+    border-radius: var(--radius);
+    padding: 14px 16px;
+    min-width: 160px;
+    flex-shrink: 0;
+    cursor: pointer;
+    transition: border-color 0.15s, transform 0.1s;
+  }
+  .lcu-card:hover { transform: translateY(-2px); }
+  .lcu-card.active { border-color: var(--blue); background: var(--blue-light); }
+  .lcu-card .gen-label { font-size: 0.72rem; color: var(--text3); margin-bottom: 4px; font-weight: 600; }
+  .lcu-card .gen-name { font-size: 0.92rem; font-weight: 700; margin-bottom: 6px; }
+  .lcu-card .gen-nm { font-size: 0.78rem; font-weight: 600; }
+
+  .lcu-detail-panel { display: none; }
+  .lcu-detail-panel.active { display: block; }
+
+  .decision-tree {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 20px;
+    margin-top: 16px;
+  }
+  .dt-title { font-weight: 700; font-size: 0.92rem; margin-bottom: 14px; }
+  .dt-q {
+    background: var(--blue-light);
+    border: 1px solid var(--blue-mid);
+    border-radius: 8px;
+    padding: 10px 14px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    margin-bottom: 8px;
+  }
+  .dt-branch {
+    display: flex; gap: 8px; margin-bottom: 12px; flex-wrap: wrap;
+  }
+  .dt-yes {
+    background: var(--green-light);
+    border: 1px solid var(--green);
+    border-radius: 8px;
+    padding: 8px 12px;
+    font-size: 0.8rem;
+    flex: 1; min-width: 100px;
+  }
+  .dt-no {
+    background: var(--surface2);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 8px 12px;
+    font-size: 0.8rem;
+    flex: 1; min-width: 100px;
+  }
+  .dt-answer {
+    font-weight: 700; font-size: 0.85rem;
+    display: flex; align-items: center; gap: 6px;
+  }
+  .dt-note { font-size: 0.75rem; color: var(--text3); margin-top: 4px; }
+
+  /* ── SECTION 4: 조사량 계산기 ── */
+  .calc-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 20px;
+    margin-bottom: 16px;
+  }
+  .calc-row {
+    display: flex;
+    gap: 14px;
+    align-items: flex-end;
+    flex-wrap: wrap;
+    margin-bottom: 16px;
+  }
+  .calc-input-group { flex: 1; min-width: 120px; }
+  .calc-label {
+    display: block;
+    font-size: 0.78rem;
+    font-weight: 600;
+    color: var(--text3);
+    margin-bottom: 6px;
+  }
+  .calc-input {
+    width: 100%;
+    padding: 10px 12px;
+    border: 1.5px solid var(--border);
+    border-radius: 8px;
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--text);
+    background: var(--surface);
+    transition: border-color 0.15s;
+  }
+  .calc-input:focus { outline: none; border-color: var(--blue); }
+  .calc-unit {
+    font-size: 0.78rem;
+    color: var(--text3);
+    margin-top: 4px;
+  }
+  .calc-eq { font-size: 1.4rem; color: var(--text3); padding-bottom: 14px; }
+  .calc-result-box {
+    background: var(--blue-light);
+    border: 2px solid var(--blue-mid);
+    border-radius: 10px;
+    padding: 14px 18px;
+    text-align: center;
+    margin-bottom: 16px;
+  }
+  .calc-result-label { font-size: 0.78rem; color: var(--blue); font-weight: 600; margin-bottom: 4px; }
+  .calc-result-value { font-size: 2rem; font-weight: 800; color: var(--blue); }
+  .calc-result-unit { font-size: 0.82rem; color: var(--blue); }
+
+  .threshold-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+  }
+  @media(max-width:500px){ .threshold-grid { grid-template-columns: 1fr 1fr; } }
+  .threshold-item {
+    border-radius: 8px;
+    padding: 10px 12px;
+    text-align: center;
+    border: 1.5px solid var(--border);
+    background: var(--surface2);
+    transition: background 0.3s, border-color 0.3s;
+  }
+  .threshold-item.met { background: var(--green-light); border-color: var(--green); }
+  .threshold-item.warn { background: var(--amber-light); border-color: var(--amber); }
+  .threshold-item.fail { background: var(--red-light); border-color: var(--red); }
+  .threshold-item .t-val { font-size: 0.72rem; font-weight: 700; color: var(--text3); margin-bottom: 3px; }
+  .threshold-item .t-desc { font-size: 0.72rem; line-height: 1.3; }
+  .threshold-item .t-status { font-size: 1rem; margin-bottom: 3px; }
+
+  /* boost mode warning */
+  .info-box {
+    border-radius: 8px;
+    padding: 12px 16px;
+    font-size: 0.83rem;
+    margin-top: 12px;
+    display: flex;
+    gap: 10px;
+    align-items: flex-start;
+  }
+  .info-box.warning { background: var(--amber-light); border-left: 4px solid var(--amber); }
+  .info-box.info { background: var(--blue-light); border-left: 4px solid var(--blue); }
+  .info-box.success { background: var(--green-light); border-left: 4px solid var(--green); }
+  .info-box .icon-lg { font-size: 1.1rem; flex-shrink: 0; margin-top: 1px; }
+
+  /* ── SECTION 5: OIL ── */
+  .oil-scenario-tabs {
+    display: flex; gap: 8px; margin-bottom: 16px;
+  }
+  .scenario-btn {
+    flex: 1;
+    padding: 10px 12px;
+    border-radius: 8px;
+    border: 2px solid var(--border);
+    background: var(--surface);
+    font-size: 0.82rem;
+    font-weight: 600;
+    cursor: pointer;
+    text-align: center;
+    transition: border-color 0.15s, background 0.15s;
+  }
+  .scenario-btn.active-lc { border-color: var(--green); background: var(--green-light); color: var(--green); }
+  .scenario-btn.active-sc { border-color: var(--red); background: var(--red-light); color: var(--red); }
+
+  .oil-panel { display: none; }
+  .oil-panel.active { display: flex; gap: 16px; align-items: flex-start; flex-wrap: wrap; }
+
+  .oil-diagram {
+    flex: 0 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0;
+  }
+  .oil-layer {
+    width: 160px;
+    padding: 9px 12px;
+    text-align: center;
+    font-size: 0.74rem;
+    font-weight: 600;
+    border-left: 3px solid transparent;
+    border-right: 3px solid transparent;
+  }
+  .oil-layer.tooth { background: #fef9ee; border-color: #d4a853; color: #92400e; border-top: 2px solid #d4a853; border-bottom: none; }
+  .oil-layer.adhesive { background: #e0f2fe; border-color: #0ea5e9; color: #075985; }
+  .oil-layer.oil { background: #fef08a; border: 2px dashed #ca8a04; color: #854d0e; }
+  .oil-layer.composite { background: var(--surface2); border-color: var(--border); color: var(--text2); border-bottom: 2px solid var(--border); }
+  .oil-layer.label-arrow {
+    background: none; border: none;
+    font-size: 0.68rem; color: var(--text3);
+    width: 180px; text-align: right;
+    padding: 2px 4px;
+  }
+
+  .oil-info { flex: 1; min-width: 200px; }
+  .oil-result {
+    font-size: 1.3rem;
+    font-weight: 800;
+    margin-bottom: 8px;
+  }
+  .oil-result.good { color: var(--green); }
+  .oil-result.bad { color: var(--red); }
+  .oil-points { list-style: none; }
+  .oil-points li {
+    font-size: 0.83rem;
+    padding: 5px 0;
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    gap: 8px;
+  }
+  .oil-points li:last-child { border-bottom: none; }
+
+  /* ── SECTION 6: C-factor & 수축응력 ── */
+  .cfactor-visual {
+    display: flex;
+    gap: 16px;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+    align-items: flex-start;
+  }
+  .cavity-3d {
+    flex: 0 0 auto;
+  }
+  .cfactor-controls { flex: 1; min-width: 200px; }
+
+  .wall-toggle-row {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 6px;
+    margin-bottom: 14px;
+  }
+  .wall-toggle {
+    padding: 8px 6px;
+    border-radius: 6px;
+    border: 2px solid var(--border);
+    background: var(--surface2);
+    font-size: 0.76rem;
+    font-weight: 600;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.15s;
+  }
+  .wall-toggle.bonded { border-color: var(--red); background: var(--red-light); color: var(--red); }
+  .wall-toggle.free { border-color: var(--green); background: var(--green-light); color: var(--green); }
+
+  .cfactor-result-big {
+    font-size: 2.8rem;
+    font-weight: 800;
+    text-align: center;
+    margin: 10px 0 6px;
+  }
+  .cfactor-gauge {
+    height: 12px;
+    border-radius: 6px;
+    background: linear-gradient(to right, var(--green) 0%, var(--amber) 50%, var(--red) 100%);
+    margin-bottom: 8px;
+    position: relative;
+    overflow: visible;
+  }
+  .cfactor-needle {
+    position: absolute;
+    top: -4px;
+    width: 4px; height: 20px;
+    background: var(--text);
+    border-radius: 2px;
+    transform: translateX(-50%);
+    transition: left 0.4s cubic-bezier(0.4,0,0.2,1);
+    box-shadow: 0 0 0 2px white;
+  }
+
+  .stress-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.82rem;
+    margin-top: 10px;
+  }
+  .stress-table th {
+    background: var(--surface2);
+    padding: 8px 12px;
+    text-align: left;
+    font-size: 0.75rem;
+    color: var(--text3);
+    border-bottom: 2px solid var(--border);
+  }
+  .stress-table td {
+    padding: 8px 12px;
+    border-bottom: 1px solid var(--border);
+    vertical-align: top;
+  }
+  .stress-table tr:last-child td { border-bottom: none; }
+
+  /* ── evidence footer ── */
+  .evidence-strip {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 14px 16px;
+    margin-top: 28px;
+    font-size: 0.75rem;
+    color: var(--text3);
+  }
+  .evidence-strip strong { color: var(--text2); }
+  .ref-list { margin-top: 6px; padding-left: 12px; }
+  .ref-list li { margin-bottom: 3px; }
+
+  /* ── info rows ── */
+  .info-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    margin-bottom: 14px;
+  }
+  @media(max-width:500px){ .info-row { grid-template-columns: 1fr; } }
+  .info-cell {
+    background: var(--surface2);
+    border-radius: 8px;
+    padding: 10px 14px;
+    border: 1px solid var(--border);
+  }
+  .info-cell .ic-label { font-size: 0.72rem; color: var(--text3); font-weight: 600; margin-bottom: 3px; }
+  .info-cell .ic-value { font-size: 0.88rem; font-weight: 700; }
+  .info-cell .ic-sub { font-size: 0.72rem; color: var(--text3); }
+</style>
+</head>
+<body>
+
+<div class="page-header">
+  <h1>레진 중합의 원리</h1>
+  <p>광개시제 메커니즘부터 LCU 선택·유효 조사량·산소억제층·수축응력까지</p>
+  <div class="header-refs">근거: Watts 2023 · Kowalska 2021 · Ceinos 2026 · Lima 2018 · Patangia 2025 · Braga 2005</div>
+</div>
+
+<div class="nav-bar">
+  <button class="nav-btn active" onclick="showSection('mech', this)">⚡ 중합 메커니즘</button>
+  <button class="nav-btn" onclick="showSection('pi', this)">🔬 광개시제 비교</button>
+  <button class="nav-btn" onclick="showSection('lcu', this)">💡 LCU 선택</button>
+  <button class="nav-btn" onclick="showSection('dose', this)">📊 조사량 계산기</button>
+  <button class="nav-btn" onclick="showSection('oil', this)">🛡️ 산소억제층</button>
+  <button class="nav-btn" onclick="showSection('stress', this)">📐 C-factor</button>
+</div>
+
+<div class="main">
+
+<!-- ═══════════════ SECTION 1: 중합 메커니즘 ═══════════════ -->
+<div id="section-mech" class="section active">
+  <div class="section-title">
+    <div class="icon" style="background:var(--blue-light);color:var(--blue)">⚡</div>
+    광중합 (Photopolymerization) 메커니즘
+  </div>
+  <p class="section-sub">빛 → 광개시제 흥분 → 라디칼 생성 → 사슬 중합의 4단계 경로</p>
+
+  <div class="mech-steps">
+    <button class="mech-step-btn active" onclick="showMech(0, this)">
+      <span class="step-num">Step 1</span>광자 흡수
+    </button>
+    <button class="mech-step-btn" onclick="showMech(1, this)">
+      <span class="step-num">Step 2</span>라디칼 생성
+    </button>
+    <button class="mech-step-btn" onclick="showMech(2, this)">
+      <span class="step-num">Step 3</span>사슬 중합
+    </button>
+    <button class="mech-step-btn" onclick="showMech(3, this)">
+      <span class="step-num">Step 4</span>겔화·유리화
+    </button>
+  </div>
+
+  <!-- Step 0 -->
+  <div id="mech-0" class="mech-panel active">
+    <div class="mech-visual">
+      <div class="photon-row">
+        <div>
+          <div style="font-size:0.72rem;color:var(--text3);margin-bottom:8px;text-align:center">LCU 출력</div>
+          <div style="display:flex;gap:6px;align-items:center">
+            <div class="photon-circle" style="background:#7c3aed">410<br>nm</div>
+            <div class="photon-circle" style="background:#2563eb">470<br>nm</div>
+          </div>
+          <div style="font-size:0.68rem;color:var(--text3);text-align:center;margin-top:4px">Violet · Blue</div>
+        </div>
+        <div class="arrow-big">→</div>
+        <div>
+          <div class="molecule-box excited">광개시제 (PI)<br><span style="font-size:0.65rem">hν 흡수 → S₁ 흥분 상태</span></div>
+        </div>
+        <div class="arrow-big">→</div>
+        <div>
+          <div class="molecule-box" style="border-color:var(--blue);background:var(--blue-light);color:var(--blue)">
+            반응 준비<br><span style="font-size:0.65rem">triplet state (T₁)</span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="card mech-text">
+      <strong>광자 에너지 E = hν</strong> — 빛의 파장이 짧을수록 광자 에너지가 큽니다.<br><br>
+      <strong>Beer-Lambert 법칙:</strong> 조사도는 깊이에 따라 지수적으로 감쇠합니다. 충전재-레진 계면에서의 <strong>산란</strong>이 주된 감쇠 원인입니다. 입자 &gt;470 nm → 산란 有 / 나노입자(100 nm) → 산란 無.<br><br>
+      <strong>임상 포인트:</strong> Blue (470 nm)는 Violet (410 nm)보다 깊이 침투합니다. 폴리웨이브 LCU의 Violet은 벌크필 깊은 층에서 Blue보다 에너지 전달이 적습니다.
+    </div>
+  </div>
+
+  <!-- Step 1 -->
+  <div id="mech-1" class="mech-panel">
+    <div class="mech-visual">
+      <div style="width:100%">
+        <div style="display:flex;gap:12px;justify-content:center;flex-wrap:wrap;margin-bottom:12px">
+          <div style="text-align:center">
+            <div style="font-size:0.72rem;color:var(--text3);margin-bottom:6px"><strong>Norrish Type II</strong> (CQ+아민)</div>
+            <div style="display:flex;align-items:center;gap:6px;flex-wrap:wrap;justify-content:center">
+              <div class="molecule-box excited">CQ (흥분)</div>
+              <span>+</span>
+              <div class="molecule-box" style="border-color:var(--purple);background:var(--purple-light)">아민 (EDMAB)</div>
+              <div class="arrow-big">→</div>
+              <div class="molecule-box radical">R• + R'•</div>
+            </div>
+            <div style="font-size:0.68rem;color:var(--text3);margin-top:4px">H-추출 (이분자 반응)</div>
+          </div>
+          <div style="text-align:center">
+            <div style="font-size:0.72rem;color:var(--text3);margin-bottom:6px"><strong>Norrish Type I</strong> (TPO·BAPO)</div>
+            <div style="display:flex;align-items:center;gap:6px;flex-wrap:wrap;justify-content:center">
+              <div class="molecule-box excited">TPO (흥분)</div>
+              <div class="arrow-big">→</div>
+              <div class="molecule-box radical">R••</div>
+            </div>
+            <div style="font-size:0.68rem;color:var(--text3);margin-top:4px">α-절단 (단분자, 공개시제 불필요)</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="card mech-text">
+      <strong>Type I (α-절단, Norrish I):</strong> C–P 결합 균일 절단 → 1분자에서 라디칼 2개 (TPO) 또는 4개 (BAPO). 공개시제 불필요, 효율 높음. <strong>흡수 380–425 nm → 폴리웨이브 LED 필요.</strong><br><br>
+      <strong>Type II (H-추출, Norrish II):</strong> 흥분된 CQ가 아민 공개시제(EDMAB)와 반응 → 라디칼 생성. 이분자 반응이라 농도·확산에 의존. <strong>흡수 ~468 nm → 표준 Blue LED로 작동.</strong>
+    </div>
+  </div>
+
+  <!-- Step 2 -->
+  <div id="mech-2" class="mech-panel">
+    <div class="mech-visual" id="chain-visual">
+      <div>
+        <div style="font-size:0.75rem;color:var(--text3);margin-bottom:10px;text-align:center">C=C (이중결합) → C–C (단결합) 전환</div>
+        <div class="chain-row" id="chain-row"></div>
+        <div style="font-size:0.72rem;color:var(--text3);margin-top:8px;text-align:center" id="chain-counter">전환 중...</div>
+      </div>
+    </div>
+    <div class="card mech-text">
+      <strong>사슬 개시 (Initiation):</strong> R• + 단량체(C=C) → 라디칼-단량체 복합체<br><br>
+      <strong>사슬 성장 (Propagation):</strong> 라디칼이 단량체를 연속적으로 첨가 → 고분자 사슬 형성<br><br>
+      <strong>사슬 종결 (Termination):</strong> 두 라디칼의 결합 또는 불균등화 반응<br><br>
+      <strong>주요 단량체:</strong> Bis-GMA · UDMA · TEGDMA — 모두 디메타크릴레이트. 이중결합 밀도와 분자량이 중합 수축과 경도를 결정합니다.
+    </div>
+  </div>
+
+  <!-- Step 3 -->
+  <div id="mech-3" class="mech-panel">
+    <div class="mech-visual">
+      <div style="width:100%;max-width:320px;margin:0 auto">
+        <div style="font-size:0.75rem;color:var(--text3);margin-bottom:10px;text-align:center">전환율 (Degree of Conversion, DC)</div>
+        <div id="dc-gauge-container"></div>
+        <div style="display:flex;justify-content:space-between;font-size:0.68rem;color:var(--text3);margin-top:4px">
+          <span>0%</span><span>겔화점<br>(~55–60%)</span><span>유리화<br>(60–70%)</span><span>100%</span>
+        </div>
+        <div style="background:var(--amber-light);border:1px solid var(--amber);border-radius:6px;padding:6px 12px;margin-top:10px;font-size:0.78rem;text-align:center">
+          ⚠ 디메타크릴레이트 레진에서 <strong>DC 100%는 불가능</strong><br>
+          유리화(Vitrification) 시 미반응 단량체가 포획됨
+        </div>
+      </div>
+    </div>
+    <div class="card mech-text">
+      <strong>겔화 (Gelation):</strong> DC ~55–60% 도달 시 점성 → 탄성 전이. 이 시점부터 응력이 누적됩니다.<br><br>
+      <strong>유리화 (Vitrification):</strong> 중합이 진행되며 Tg가 상승해 반응 속도가 급격히 감소. 최종 DC 60–70% 수준에서 중합이 사실상 정지합니다.<br><br>
+      <strong>후경화 (Post-cure):</strong> 시간이 지나며 잔류 라디칼이 반응 → 경도가 ~1개월간 계속 증가합니다. 물 흡수(Water sorption)는 표층을 연화시킬 수 있습니다.
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════════ SECTION 2: 광개시제 ═══════════════ -->
+<div id="section-pi" class="section">
+  <div class="section-title">
+    <div class="icon" style="background:var(--purple-light);color:var(--purple)">🔬</div>
+    광개시제 (Photoinitiator) 비교
+  </div>
+  <p class="section-sub">카드를 클릭하면 상세 스펙을 볼 수 있습니다 (근거: Kowalska 2021, n=64편)</p>
+
+  <div class="pi-grid">
+    <div class="pi-card" onclick="selectPI('cq', this)">
+      <div class="pi-card-head">
+        <div class="pi-icon" style="background:var(--amber-light)">🟡</div>
+        <div>
+          <div class="pi-name">캄퍼퀴논 (CQ)</div>
+          <div class="pi-abbr">Camphorquinone · Norrish II형 (표준)</div>
+        </div>
+      </div>
+      <div class="pi-bar-row">
+        <div class="pi-bar-label"><span>전환율 (DC)</span><span>기준값</span></div>
+        <div class="pi-bar-track"><div class="pi-bar-fill" style="width:55%;background:var(--amber)"></div></div>
+      </div>
+      <div class="pi-bar-row">
+        <div class="pi-bar-label"><span>색안정성</span><span>낮음</span></div>
+        <div class="pi-bar-track"><div class="pi-bar-fill" style="width:25%;background:var(--red)"></div></div>
+      </div>
+      <div class="pi-tag-row">
+        <span class="pi-tag" style="background:var(--blue-light);color:var(--blue)">468 nm</span>
+        <span class="pi-tag" style="background:var(--amber-light);color:var(--amber)">황변</span>
+        <span class="pi-tag" style="background:var(--surface2);color:var(--text3)">표준 LED OK</span>
+      </div>
+    </div>
+
+    <div class="pi-card" onclick="selectPI('tpo', this)">
+      <div class="pi-card-head">
+        <div class="pi-icon" style="background:var(--purple-light)">🔵</div>
+        <div>
+          <div class="pi-name">TPO</div>
+          <div class="pi-abbr">Trimethylbenzoyl · Norrish I형</div>
+        </div>
+      </div>
+      <div class="pi-bar-row">
+        <div class="pi-bar-label"><span>전환율 (DC)</span><span>CQ+10%</span></div>
+        <div class="pi-bar-track"><div class="pi-bar-fill" style="width:70%;background:var(--blue)"></div></div>
+      </div>
+      <div class="pi-bar-row">
+        <div class="pi-bar-label"><span>색안정성</span><span>우수</span></div>
+        <div class="pi-bar-track"><div class="pi-bar-fill" style="width:88%;background:var(--green)"></div></div>
+      </div>
+      <div class="pi-tag-row">
+        <span class="pi-tag" style="background:var(--purple-light);color:var(--purple)">380–400 nm</span>
+        <span class="pi-tag" style="background:var(--red-light);color:var(--red)">폴리웨이브 필요</span>
+      </div>
+    </div>
+
+    <div class="pi-card" onclick="selectPI('bapo', this)">
+      <div class="pi-card-head">
+        <div class="pi-icon" style="background:var(--teal-light)">🟢</div>
+        <div>
+          <div class="pi-name">BAPO (Irgacure 819)</div>
+          <div class="pi-abbr">Bisacylphosphine · Norrish I형</div>
+        </div>
+      </div>
+      <div class="pi-bar-row">
+        <div class="pi-bar-label"><span>전환율 (DC)</span><span>최고</span></div>
+        <div class="pi-bar-track"><div class="pi-bar-fill" style="width:85%;background:var(--teal)"></div></div>
+      </div>
+      <div class="pi-bar-row">
+        <div class="pi-bar-label"><span>색안정성</span><span>우수</span></div>
+        <div class="pi-bar-track"><div class="pi-bar-fill" style="width:85%;background:var(--green)"></div></div>
+      </div>
+      <div class="pi-tag-row">
+        <span class="pi-tag" style="background:var(--purple-light);color:var(--purple)">371–400 nm</span>
+        <span class="pi-tag" style="background:var(--red-light);color:var(--red)">폴리웨이브 필요</span>
+        <span class="pi-tag" style="background:var(--amber-light);color:var(--amber)">세포독성↑</span>
+      </div>
+    </div>
+
+    <div class="pi-card" onclick="selectPI('ivocerin', this)">
+      <div class="pi-card-head">
+        <div class="pi-icon" style="background:var(--green-light)">⭐</div>
+        <div>
+          <div class="pi-name">Ivocerin</div>
+          <div class="pi-abbr">Dibenzoyldiethylgermanium · Norrish I형</div>
+        </div>
+      </div>
+      <div class="pi-bar-row">
+        <div class="pi-bar-label"><span>전환율 (DC)</span><span>CQ ×2 (~87%)</span></div>
+        <div class="pi-bar-track"><div class="pi-bar-fill" style="width:95%;background:var(--green)"></div></div>
+      </div>
+      <div class="pi-bar-row">
+        <div class="pi-bar-label"><span>색안정성</span><span>우수</span></div>
+        <div class="pi-bar-track"><div class="pi-bar-fill" style="width:92%;background:var(--green)"></div></div>
+      </div>
+      <div class="pi-tag-row">
+        <span class="pi-tag" style="background:var(--blue-light);color:var(--blue)">418 nm</span>
+        <span class="pi-tag" style="background:var(--green-light);color:var(--green)">표준 LED OK ✓</span>
+        <span class="pi-tag" style="background:var(--purple-light);color:var(--purple)">Ivoclar 독점</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Detail panel -->
+  <div id="pi-detail" class="pi-detail">
+    <div style="font-weight:700;font-size:0.88rem;margin-bottom:12px" id="pi-detail-title"></div>
+    <!-- Spectrum bar -->
+    <div style="margin-bottom:14px">
+      <div style="font-size:0.75rem;font-weight:600;color:var(--text3);margin-bottom:4px">흡수 스펙트럼 (Absorption Spectrum)</div>
+      <div style="position:relative;height:40px;">
+        <div class="spectrum-bar" style="position:absolute;top:18px;left:0;right:0;"></div>
+        <div id="pi-peak-markers"></div>
+      </div>
+      <div style="display:flex;justify-content:space-between;font-size:0.65rem;color:var(--text3);margin-top:8px">
+        <span>360 nm</span><span>400</span><span>440</span><span>480</span><span>520 nm</span>
+      </div>
+    </div>
+    <div class="pi-detail-grid" id="pi-detail-grid"></div>
+    <div style="margin-top:10px;font-size:0.8rem;color:var(--text2);padding:8px 12px;background:var(--surface);border-radius:6px;border:1px solid var(--border)" id="pi-detail-note"></div>
+  </div>
+
+  <!-- Absorption spectrum overlay: all 4 -->
+  <div class="card" style="margin-top:16px">
+    <div style="font-weight:700;font-size:0.88rem;margin-bottom:10px">광개시제별 흡수 피크 vs LCU 출력 스펙트럼</div>
+    <div style="position:relative;height:60px;margin-bottom:8px">
+      <div class="spectrum-bar" style="position:absolute;top:30px;left:0;right:0;"></div>
+      <!-- LCU output ranges -->
+      <div style="position:absolute;top:10px;left:calc((468-360)/(520-360)*100%);transform:translateX(-50%);text-align:center">
+        <div style="font-size:0.62rem;color:#2563eb;font-weight:700">Blue LED</div>
+        <div style="width:2px;height:50px;background:#2563eb;opacity:0.4;margin:0 auto"></div>
+      </div>
+      <div style="position:absolute;top:10px;left:calc((410-360)/(520-360)*100%);transform:translateX(-50%);text-align:center">
+        <div style="font-size:0.62rem;color:#7c3aed;font-weight:700">Violet LED</div>
+        <div style="width:2px;height:50px;background:#7c3aed;opacity:0.4;margin:0 auto"></div>
+      </div>
+      <!-- PI peaks -->
+      <div style="position:absolute;bottom:8px;left:calc((468-360)/(520-360)*100%);transform:translateX(-50%);background:var(--amber);color:#fff;padding:1px 5px;border-radius:3px;font-size:0.62rem;font-weight:700">CQ 468</div>
+      <div style="position:absolute;bottom:8px;left:calc((390-360)/(520-360)*100%);transform:translateX(-50%);background:#7c3aed;color:#fff;padding:1px 5px;border-radius:3px;font-size:0.62rem;font-weight:700">TPO 390</div>
+      <div style="position:absolute;bottom:8px;left:calc((385-360)/(520-360)*100%);transform:translateX(-50%);background:var(--teal);color:#fff;padding:1px 5px;border-radius:3px;font-size:0.62rem;font-weight:700;margin-bottom:-14px">BAPO 385</div>
+      <div style="position:absolute;bottom:8px;left:calc((418-360)/(520-360)*100%);transform:translateX(-50%);background:var(--green);color:#fff;padding:1px 5px;border-radius:3px;font-size:0.62rem;font-weight:700;margin-bottom:-28px">Ivo 418</div>
+    </div>
+    <div style="display:flex;justify-content:space-between;font-size:0.65rem;color:var(--text3)">
+      <span>360 nm</span><span>400</span><span>440</span><span>480</span><span>520 nm</span>
+    </div>
+    <div class="info-box info" style="margin-top:12px">
+      <span class="icon-lg">💡</span>
+      <span><strong>핵심:</strong> Ivocerin(418 nm)은 CQ(468 nm)와 흡수 범위가 유사하여 <strong>기존 표준 Blue LED로도 활성화 가능</strong>하면서 DC가 CQ 대비 약 2배 (87% vs 44%). TPO·BAPO는 Violet LED(&lt;420 nm)가 없으면 활성화 부족.</span>
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════════ SECTION 3: LCU 선택 ═══════════════ -->
+<div id="section-lcu" class="section">
+  <div class="section-title">
+    <div class="icon" style="background:var(--amber-light);color:var(--amber)">💡</div>
+    LCU (Light-Curing Unit) 선택 가이드
+  </div>
+  <p class="section-sub">세대별 특성과 임상 적용 — Ceinos 2026, Watts 2023 기반</p>
+
+  <div class="lcu-gen-row">
+    <div class="lcu-card" onclick="showLCU('qth', this)">
+      <div class="gen-label">전통</div>
+      <div class="gen-name">QTH 할로겐</div>
+      <div class="gen-nm" style="color:var(--amber)">380–500+ nm</div>
+    </div>
+    <div class="lcu-card" onclick="showLCU('mono', this)">
+      <div class="gen-label">2세대</div>
+      <div class="gen-name">모노웨이브 LED</div>
+      <div class="gen-nm" style="color:var(--blue)">450–470 nm</div>
+    </div>
+    <div class="lcu-card active" onclick="showLCU('poly', this)">
+      <div class="gen-label">3세대 ★ 권장</div>
+      <div class="gen-name">폴리웨이브 LED</div>
+      <div class="gen-nm" style="color:var(--purple)">395–415 + 450–470 nm</div>
+    </div>
+  </div>
+
+  <div id="lcu-qth" class="lcu-detail-panel">
+    <div class="card">
+      <div class="card-header">QTH (Quartz-Tungsten-Halogen) 할로겐 광중합기</div>
+      <div class="info-row">
+        <div class="info-cell"><div class="ic-label">스펙트럼</div><div class="ic-value">380–500+ nm</div><div class="ic-sub">넓은 범위 (전 광개시제 활성화)</div></div>
+        <div class="info-cell"><div class="ic-label">조사도</div><div class="ic-value">400–600 mW/cm²</div><div class="ic-sub">현대 LED 대비 낮음</div></div>
+        <div class="info-cell"><div class="ic-label">에너지 효율</div><div class="ic-value">~5%</div><div class="ic-sub">열발생 多 (환자 불편)</div></div>
+        <div class="info-cell"><div class="ic-label">현재 상태</div><div class="ic-value">단종 추세</div><div class="ic-sub">LED로 대체됨</div></div>
+      </div>
+      <div class="info-box warning">
+        <span class="icon-lg">⚠️</span>
+        <span>높은 열발생으로 인한 치수 자극 위험. 냉각 필터가 있으나 현대 LED 대비 단점이 많아 더 이상 권장되지 않습니다.</span>
+      </div>
+    </div>
+  </div>
+
+  <div id="lcu-mono" class="lcu-detail-panel">
+    <div class="card">
+      <div class="card-header">모노웨이브 LED (2세대)</div>
+      <div class="info-row">
+        <div class="info-cell"><div class="ic-label">스펙트럼</div><div class="ic-value">450–470 nm</div><div class="ic-sub">Blue 단일 피크</div></div>
+        <div class="info-cell"><div class="ic-label">조사도</div><div class="ic-value">800–1,500 mW/cm²</div><div class="ic-sub">QTH 대비 높음</div></div>
+        <div class="info-cell"><div class="ic-label">에너지 효율</div><div class="ic-value">~30–40%</div><div class="ic-sub">LED 고효율</div></div>
+        <div class="info-cell"><div class="ic-label">광개시제 호환</div><div class="ic-value">CQ만 완전 활성</div><div class="ic-sub">TPO/BAPO 부적합</div></div>
+      </div>
+      <div class="info-box info">
+        <span class="icon-lg">ℹ️</span>
+        <span><strong>CQ 위주 레진에서는 충분히 유효</strong>합니다. 유지보수가 잘 된 2세대 LED는 CQ 함유 접착제·복합레진을 문제없이 중합합니다. 단, TPO·BAPO 함유 재료(Tetric EvoCeram Bleach 등)에는 폴리웨이브 필요.</span>
+      </div>
+    </div>
+  </div>
+
+  <div id="lcu-poly" class="lcu-detail-panel active">
+    <div class="card">
+      <div class="card-header">폴리웨이브 LED (3세대) — <span style="color:var(--green)">임상 기본값 권장</span></div>
+      <div class="info-row">
+        <div class="info-cell"><div class="ic-label">스펙트럼</div><div class="ic-value">395–415 + 450–470 nm</div><div class="ic-sub">Violet + Blue 이중 피크</div></div>
+        <div class="info-cell"><div class="ic-label">조사도</div><div class="ic-value">1,000–3,000+ mW/cm²</div><div class="ic-sub">고출력 가능</div></div>
+        <div class="info-cell"><div class="ic-label">광개시제 호환</div><div class="ic-value">Norrish I+II 모두</div><div class="ic-sub">CQ, TPO, BAPO, Ivocerin</div></div>
+        <div class="info-cell"><div class="ic-label">근거</div><div class="ic-value">SR/MA 소폭 우위</div><div class="ic-sub">모노웨이브 대비 DC·경도 개선</div></div>
+      </div>
+      <div class="info-box success">
+        <span class="icon-lg">✅</span>
+        <span><strong>Ceinos 2026 결론:</strong> 폴리웨이브 LED를 보수적 기본값으로 선택. 단, 제조사 조사도(mW/cm²) 수치보다 <strong>전달 방사 에너지(J/cm²)</strong>와 스펙트럼 호환성·빔 균질성을 기준으로 평가해야 합니다.</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Decision tree -->
+  <div class="decision-tree">
+    <div class="dt-title">🔀 LCU 선택 결정 트리</div>
+    <div class="dt-q">재료에 TPO·BAPO·PPD 광개시제가 포함되어 있습니까?</div>
+    <div class="dt-branch">
+      <div class="dt-yes">
+        <div class="dt-answer">✅ 예 (TPO/BAPO 함유)</div>
+        <div class="dt-note">→ <strong>폴리웨이브 LED 필수</strong><br>Violet 395–415 nm 출력 확인 필요</div>
+      </div>
+      <div class="dt-no">
+        <div class="dt-answer">❓ 모름 / CQ만</div>
+        <div class="dt-note">→ <strong>폴리웨이브 권장</strong><br>CQ 위주라면 모노웨이브도 가능</div>
+      </div>
+    </div>
+    <div class="dt-q">벌크필 복합레진입니까? (≥4 mm 일괄 충전)</div>
+    <div class="dt-branch">
+      <div class="dt-yes">
+        <div class="dt-answer">✅ 예</div>
+        <div class="dt-note">→ <strong>조사도 ≥1000 mW/cm² + ≥20초</strong> 필수 (Lima 2018, n=33)</div>
+      </div>
+      <div class="dt-no">
+        <div class="dt-answer">❌ 일반 레진 2 mm</div>
+        <div class="dt-note">→ 제조사 지침 조사시간 준수<br>거리 최소화 (2 mm 증가 → 에너지 손실)</div>
+      </div>
+    </div>
+    <div class="dt-q">"부스트(Boost)" 모드를 사용하시겠습니까?</div>
+    <div class="dt-branch">
+      <div class="dt-yes">
+        <div class="dt-answer" style="color:var(--amber)">⚠️ 주의</div>
+        <div class="dt-note"><strong>Ceinos 2026:</strong> Boost 모드는 권장 시간 기준 표준 모드보다 <strong>총 에너지가 오히려 낮을 수 있음</strong>. 조사시간을 늘리는 것이 더 확실합니다.</div>
+      </div>
+      <div class="dt-no">
+        <div class="dt-answer" style="color:var(--green)">✅ 표준 모드</div>
+        <div class="dt-note">표준 모드 + 충분한 시간 = 가장 안전한 선택</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════════ SECTION 4: 조사량 계산기 ═══════════════ -->
+<div id="section-dose" class="section">
+  <div class="section-title">
+    <div class="icon" style="background:var(--teal-light);color:var(--teal)">📊</div>
+    유효 조사량 (Radiant Exposure) 계산기
+  </div>
+  <p class="section-sub">방사 에너지 = 조사도 × 시간 · 기준선 비교 · 거리 효과 계산</p>
+
+  <div class="calc-card">
+    <div style="font-weight:700;font-size:0.9rem;margin-bottom:14px">기본 조사량 계산</div>
+    <div class="calc-row">
+      <div class="calc-input-group">
+        <label class="calc-label">조사도 (Irradiance)</label>
+        <input class="calc-input" type="number" id="irradiance-input" value="1000" min="0" max="5000" oninput="calcDose()">
+        <div class="calc-unit">mW/cm²</div>
+      </div>
+      <div class="calc-eq">×</div>
+      <div class="calc-input-group">
+        <label class="calc-label">조사시간 (Time)</label>
+        <input class="calc-input" type="number" id="time-input" value="20" min="0" max="120" oninput="calcDose()">
+        <div class="calc-unit">초 (seconds)</div>
+      </div>
+      <div class="calc-eq">=</div>
+      <div class="calc-input-group">
+        <div class="calc-result-box" style="margin-bottom:0">
+          <div class="calc-result-label">유효 방사 에너지</div>
+          <div class="calc-result-value" id="dose-result">20,000</div>
+          <div class="calc-result-unit">mJ/cm²</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="threshold-grid" id="threshold-grid">
+      <!-- dynamically populated -->
+    </div>
+  </div>
+
+  <!-- Distance calculator -->
+  <div class="calc-card">
+    <div style="font-weight:700;font-size:0.9rem;margin-bottom:14px">거리(Distance) 효과 계산</div>
+    <div class="info-box warning" style="margin-bottom:14px">
+      <span class="icon-lg">📏</span>
+      <span><strong>Ceinos 2026:</strong> LCU 팁을 레진 표면에서 2–4 mm 이상 떨어지면 유의미한 에너지 손실이 발생합니다. Class II 원심 와동 바닥은 이 거리를 초과하기 쉽습니다.</span>
+    </div>
+    <div class="calc-row">
+      <div class="calc-input-group">
+        <label class="calc-label">기준 조사도 (팁 0 mm)</label>
+        <input class="calc-input" type="number" id="base-irr" value="1200" oninput="calcDistance()">
+        <div class="calc-unit">mW/cm²</div>
+      </div>
+      <div class="calc-eq" style="padding-bottom:28px">→</div>
+      <div class="calc-input-group">
+        <label class="calc-label">실제 거리</label>
+        <input class="calc-input" type="number" id="dist-input" value="3" min="0" max="20" step="0.5" oninput="calcDistance()">
+        <div class="calc-unit">mm</div>
+      </div>
+      <div class="calc-eq" style="padding-bottom:28px">=</div>
+      <div class="calc-input-group">
+        <div class="calc-result-box" style="margin-bottom:0;background:var(--amber-light);border-color:var(--amber)">
+          <div class="calc-result-label" style="color:var(--amber)">도달 조사도</div>
+          <div class="calc-result-value" id="dist-result" style="color:var(--amber)">--</div>
+          <div class="calc-result-unit" style="color:var(--amber)">mW/cm²</div>
+        </div>
+      </div>
+    </div>
+    <div style="font-size:0.78rem;color:var(--text3);background:var(--surface2);padding:8px 12px;border-radius:6px">
+      * 역제곱 법칙(Inverse Square Law) 근사: I = I₀ × (d₀/(d₀+d))². 팁 직경 d₀ = 8 mm 가정. 실제 감쇠는 LCU 모델마다 다름.
+    </div>
+  </div>
+
+  <!-- Thresholds reference table -->
+  <div class="card">
+    <div style="font-weight:700;font-size:0.9rem;margin-bottom:12px">임상 기준선 (Clinical Thresholds)</div>
+    <table class="stress-table">
+      <thead>
+        <tr><th>상황</th><th>최소 조사도</th><th>최소 시간</th><th>최소 방사 에너지</th><th>근거</th></tr>
+      </thead>
+      <tbody>
+        <tr><td><strong>일반 레진 (2 mm)</strong></td><td>600 mW/cm²</td><td>20–40 s</td><td>≥600 mJ/cm²</td><td>Ceinos 2026</td></tr>
+        <tr><td><strong>벌크필 레진 (≤4 mm)</strong></td><td>≥1,000 mW/cm²</td><td>≥20 s</td><td>≥16,000 mJ/cm²</td><td>Lima 2018 SR (n=33)</td></tr>
+        <tr><td><strong>간접수복 접착 (세라믹 0.4 mm)</strong></td><td>800 mW/cm²</td><td>20–40 s</td><td>≥8,000 mJ/cm²</td><td>Santos 2024 SR</td></tr>
+        <tr><td><strong>간접수복 접착 (세라믹 1.5 mm)</strong></td><td>1,200 mW/cm²</td><td>40–60 s</td><td>≥20,000 mJ/cm²</td><td>Santos 2024 SR</td></tr>
+      </tbody>
+    </table>
+    <div class="info-box info" style="margin-top:12px">
+      <span class="icon-lg">⚠️</span>
+      <span><strong>상호성 가설(Reciprocity) 주의:</strong> Watts 2023 — "방사 에너지 = 조사도 × 시간이 같으면 결과도 같다"는 가정은 대부분의 레진에서 과낙관적입니다. 극단적 단시간 고출력(3–5 s)은 특수 배합 레진에서만 유효합니다.</span>
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════════ SECTION 5: OIL ═══════════════ -->
+<div id="section-oil" class="section">
+  <div class="section-title">
+    <div class="icon" style="background:var(--green-light);color:var(--green)">🛡️</div>
+    산소억제층 (Oxygen-Inhibited Layer, OIL)
+  </div>
+  <p class="section-sub">중합 모드에 따른 OIL의 이중적 역할 — Patangia 2025 SR (n=8, 730치아)</p>
+
+  <div class="card" style="margin-bottom:16px">
+    <div class="card-header">OIL이란?</div>
+    <div class="mech-text">
+      OIL은 광중합 접착제 표면에 형성되는 <strong>두께 4–40 µm</strong>의 미중합 점착성 막입니다. 대기 중 산소가 라디칼을 소광(quenching)하여 표면 단량체의 반응을 방해합니다.<br><br>
+      <strong>두께에 영향하는 인자:</strong> HEMA 농도 높을수록 ↑ / 광강도·시간 ↑ → OIL 얇아짐 / 필러 형태·광개시제 종류도 영향
+    </div>
+  </div>
+
+  <div class="oil-scenario-tabs">
+    <button class="scenario-btn active-lc" onclick="showOIL('lc', this)">
+      💚 광중합 레진과 접착<br><span style="font-size:0.72rem;font-weight:400">OIL 보존 → 결합강도 ↑</span>
+    </button>
+    <button class="scenario-btn" onclick="showOIL('sc', this)">
+      🔴 자가/이중중합 레진과 접착<br><span style="font-size:0.72rem;font-weight:400">OIL 제거 고려 → 결합강도 ↑</span>
+    </button>
+  </div>
+
+  <div id="oil-lc" class="oil-panel active">
+    <div class="oil-diagram">
+      <div class="oil-layer tooth">치아 (Dentin)</div>
+      <div class="oil-layer adhesive">접착제 (Adhesive)<br><span style="font-weight:400;font-size:0.68rem">완전 중합 구역</span></div>
+      <div class="oil-layer oil">⚡ OIL (잔류 C=C)<br><span style="font-weight:400;font-size:0.68rem">두께 4–40 µm</span></div>
+      <div class="oil-layer composite" style="border-color:var(--green);background:var(--green-light)">광중합 복합레진<br><span style="font-weight:400;font-size:0.68rem">광조사로 활성화</span></div>
+    </div>
+    <div class="oil-info">
+      <div class="oil-result good">결합강도 ↑</div>
+      <ul class="oil-points">
+        <li><span>🔗</span><strong>공중합(Copolymerization)</strong> — OIL의 잔류 이중결합이 복합레진과 화학적 결합 → 물리적 잠금 형성</li>
+        <li><span>✅</span>OIL을 <strong>제거하지 마세요</strong> — Mylar strip, 에탄올 와이핑으로 OIL을 없애면 오히려 결합강도 감소</li>
+        <li><span>📐</span>접착 실패 유형은 OIL 유무 불문 <strong>접착 파괴(Adhesive Failure)</strong>가 우세</li>
+        <li><span>🔍</span>에칭 방식(자가에칭 vs 전산부식)은 결과 방향에 영향 없음</li>
+      </ul>
+    </div>
+  </div>
+
+  <div id="oil-sc" class="oil-panel">
+    <div class="oil-diagram">
+      <div class="oil-layer tooth">치아 (Dentin)</div>
+      <div class="oil-layer adhesive">접착제 (Adhesive)<br><span style="font-weight:400;font-size:0.68rem">완전 중합 구역</span></div>
+      <div class="oil-layer oil" style="border-color:var(--red);background:var(--red-light);color:var(--red)">⚠ OIL — 방해 작용<br><span style="font-weight:400;font-size:0.68rem">자가중합 개시제 억제</span></div>
+      <div class="oil-layer composite" style="border-color:var(--red);background:var(--red-light)">자가/이중중합 레진<br><span style="font-weight:400;font-size:0.68rem">화학중합 개시제(peroxide-amine)</span></div>
+    </div>
+    <div class="oil-info">
+      <div class="oil-result bad">결합강도 ↓</div>
+      <ul class="oil-points">
+        <li><span>⚠️</span>접착제의 <strong>산성 단량체가 자가중합 개시제와 반응</strong> → 복합레진 계면 중합 방해</li>
+        <li><span>❌</span>결합강도 감소 + 접착 실패(Adhesive Failure) 증가</li>
+        <li><span>🔧</span><strong>OIL 제거 전략</strong>: Mylar strip 부착 후 광중합 / 에탄올 와이핑 / 열활성화(110–120°C) / DPPS 첨가제</li>
+        <li><span>📊</span>단, 이질성이 높아 메타분석 불가 — 전략 선택은 임상 판단 필요</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="info-box warning" style="margin-top:16px">
+    <span class="icon-lg">🏥</span>
+    <span><strong>임상 takeaway (Patangia 2025):</strong> 간접수복 이중중합 시멘트 접착 시 접착제 OIL 관리가 중요합니다. Mylar strip으로 OIL을 완전 배제한 후 이중중합 시멘트를 적용하거나, 광중합 단계를 선행하는 프로토콜을 고려하세요. 근거는 체외 연구 8편 한정이며 임상 권고 수준에는 아직 미흡합니다.</span>
+  </div>
+</div>
+
+<!-- ═══════════════ SECTION 6: C-factor ═══════════════ -->
+<div id="section-stress" class="section">
+  <div class="section-title">
+    <div class="icon" style="background:var(--red-light);color:var(--red)">📐</div>
+    중합수축응력 & C-factor 계산기
+  </div>
+  <p class="section-sub">3인자 모델 — 부피수축 · 점탄성 거동 · 와동 구속 (Braga 2005 SR)</p>
+
+  <div class="info-row">
+    <div class="info-cell" style="grid-column:1/-1">
+      <div class="ic-label">3인자 모델 (Three-Factor Framework)</div>
+      <div style="display:flex;gap:12px;flex-wrap:wrap;margin-top:8px">
+        <div style="flex:1;min-width:130px;text-align:center;padding:10px;background:var(--surface);border-radius:8px;border:1px solid var(--border)">
+          <div style="font-size:1.3rem">📦</div>
+          <div style="font-weight:700;font-size:0.82rem;margin:4px 0">부피수축</div>
+          <div style="font-size:0.72rem;color:var(--text3)">단량체 조성·함량<br>1.5–5 vol%</div>
+        </div>
+        <div style="font-size:1.2rem;color:var(--text3);display:flex;align-items:center">+</div>
+        <div style="flex:1;min-width:130px;text-align:center;padding:10px;background:var(--surface);border-radius:8px;border:1px solid var(--border)">
+          <div style="font-size:1.3rem">🌊</div>
+          <div style="font-weight:700;font-size:0.82rem;margin:4px 0">점탄성 거동</div>
+          <div style="font-size:0.72rem;color:var(--text3)">겔화 전 유동 구간<br>응력 이완 가능</div>
+        </div>
+        <div style="font-size:1.2rem;color:var(--text3);display:flex;align-items:center">+</div>
+        <div style="flex:1;min-width:130px;text-align:center;padding:10px;background:var(--surface);border-radius:8px;border:1px solid var(--border)">
+          <div style="font-size:1.3rem">🔒</div>
+          <div style="font-weight:700;font-size:0.82rem;margin:4px 0">와동 구속</div>
+          <div style="font-size:0.72rem;color:var(--text3)">C-factor<br>결합면/비결합면</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- C-factor calculator -->
+  <div class="card" style="margin-bottom:16px">
+    <div style="font-weight:700;font-size:0.9rem;margin-bottom:14px">C-factor (Cavity Configuration Factor) 계산기</div>
+    <div style="font-size:0.82rem;color:var(--text3);margin-bottom:12px">
+      <strong>C-factor = 결합면 수 / 비결합면(자유면) 수</strong><br>
+      결합면(Bonded) = 레진이 치아에 접착된 면 / 비결합면(Free) = 접착되지 않은 면
+    </div>
+    <div style="font-size:0.8rem;font-weight:600;margin-bottom:8px">와동 벽면 클릭 → 결합/비결합 전환:</div>
+    <div class="wall-toggle-row" id="wall-toggles">
+      <div class="wall-toggle bonded" onclick="toggleWall(0)">상면 (Occlusal)<br>결합</div>
+      <div class="wall-toggle bonded" onclick="toggleWall(1)">근심 (Mesial)<br>결합</div>
+      <div class="wall-toggle bonded" onclick="toggleWall(2)">원심 (Distal)<br>결합</div>
+      <div class="wall-toggle bonded" onclick="toggleWall(3)">협측 (Buccal)<br>결합</div>
+      <div class="wall-toggle bonded" onclick="toggleWall(4)">설측 (Lingual)<br>결합</div>
+      <div class="wall-toggle free" onclick="toggleWall(5)">교합면 자유<br>비결합</div>
+    </div>
+
+    <div style="display:flex;align-items:center;gap:16px;flex-wrap:wrap;margin-top:14px">
+      <div style="flex:1;min-width:160px">
+        <div style="font-size:0.75rem;color:var(--text3);text-align:center">C-factor</div>
+        <div class="cfactor-result-big" id="cfactor-value" style="color:var(--text)">5.0</div>
+        <div id="cfactor-interp" style="text-align:center;font-size:0.8rem;font-weight:700;margin-bottom:8px"></div>
+        <div style="font-size:0.72rem;color:var(--text3);text-align:center;margin-bottom:6px">낮음 → 높음</div>
+        <div class="cfactor-gauge">
+          <div class="cfactor-needle" id="cfactor-needle"></div>
+        </div>
+        <div style="display:flex;justify-content:space-between;font-size:0.65rem;color:var(--text3)">
+          <span>0</span><span>1</span><span>2</span><span>3</span><span>5+</span>
+        </div>
+      </div>
+      <div style="flex:2;min-width:200px">
+        <div style="font-size:0.8rem;font-weight:600;margin-bottom:6px">와동 형태별 일반 C-factor</div>
+        <table class="stress-table" style="font-size:0.78rem">
+          <thead><tr><th>와동 형태</th><th>C-factor</th><th>응력 위험</th></tr></thead>
+          <tbody>
+            <tr><td>단순 전장관 (기둥형)</td><td>5.0</td><td style="color:var(--red)">매우 높음</td></tr>
+            <tr><td>5급 와동 (가장 구속)</td><td>5.0</td><td style="color:var(--red)">매우 높음</td></tr>
+            <tr><td>1급 와동 (교합면)</td><td>3.0–4.0</td><td style="color:var(--amber)">높음</td></tr>
+            <tr><td>2급 와동 (인접면 포함)</td><td>1.5–2.5</td><td style="color:var(--amber)">중간</td></tr>
+            <tr><td>3·4급 와동</td><td>0.5–1.5</td><td style="color:var(--green)">낮음</td></tr>
+            <tr><td>Slab/tab (개방형)</td><td>&lt;1.0</td><td style="color:var(--green)">매우 낮음</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+
+  <!-- Stress reduction strategies -->
+  <div class="card">
+    <div style="font-weight:700;font-size:0.9rem;margin-bottom:12px">응력 감소 전략 — 재료별 효과 상이</div>
+    <div class="info-box warning" style="margin-bottom:12px">
+      <span class="icon-lg">⚠️</span>
+      <span><strong>Braga 2005 핵심 결론:</strong> 단일 기법이 모든 재료에서 보편적으로 효과적이지 않습니다. 재료별 특성(수축량, 점탄성, 탄성계수)에 따라 기법을 선택해야 합니다.</span>
+    </div>
+    <table class="stress-table">
+      <thead><tr><th>전략</th><th>원리</th><th>효과</th></tr></thead>
+      <tbody>
+        <tr><td><strong>점진적 적층법</strong><br><span style="color:var(--text3);font-size:0.75rem">Incremental layering</span></td><td>각 층의 자유면 증가 → C-factor 감소</td><td>대부분 재료에서 유효<br><span style="color:var(--green);font-size:0.75rem">★★★</span></td></tr>
+        <tr><td><strong>소프트스타트 광중합</strong><br><span style="color:var(--text3);font-size:0.75rem">Soft-start curing</span></td><td>겔화 전 유동 시간↑ → 응력 이완 ↑</td><td>재료 의존적<br><span style="color:var(--amber);font-size:0.75rem">★★☆</span></td></tr>
+        <tr><td><strong>응력 흡수 라이너</strong><br><span style="color:var(--text3);font-size:0.75rem">Flowable/liner</span></td><td>탄성계수 낮은 층이 완충</td><td>재료 조합 의존적<br><span style="color:var(--amber);font-size:0.75rem">★★☆</span></td></tr>
+        <tr><td><strong>저수축 벌크필</strong><br><span style="color:var(--text3);font-size:0.75rem">Bulk-fill</span></td><td>수축 자체 감소 + 개선 점탄성</td><td>제품마다 상이<br><span style="color:var(--amber);font-size:0.75rem">★★☆</span></td></tr>
+        <tr><td><strong>SDR-type 플로우어블</strong></td><td>높은 유동성 + 응력 이완 모노머</td><td>유망하나 장기 데이터 제한<br><span style="color:var(--text3);font-size:0.75rem">★☆☆</span></td></tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<!-- evidence strip -->
+<div class="evidence-strip">
+  <strong>근거 출처 (llm-wiki ingested papers)</strong>
+  <ul class="ref-list">
+    <li>Watts DC (2023) — Light-curing dental resin-based composites. Front Dent Med. <em>narrative-review</em></li>
+    <li>Kowalska A et al. (2021) — Photoinitiators used in resin-based dental composites. Polymers. <em>narrative-review, n=64</em></li>
+    <li>Ceinos R et al. (2026) — Light-curing units in restorative dentistry. npj Oral Health. <em>narrative-review, n=181</em></li>
+    <li>Lima RBW et al. (2018) — Depth of cure of bulk-fill resin composites. J Esthet Restor Dent. <em>SR, n=33</em></li>
+    <li>Patangia A et al. (2025) — Effect of oxygen-inhibited layer on bond strength. Materials. <em>SR, n=8</em></li>
+    <li>Braga RR, Ballester RY, Ferracane JL (2005) — Factors in polymerization shrinkage stress. Dent Mater. <em>SR, classic</em></li>
+    <li>Santos M et al. (2024) — Degree of conversion in resin-matrix cements. Clin Oral Investig. <em>scoping review, n=15</em></li>
+  </ul>
+</div>
+
+</div><!-- /main -->
+
+<script>
+// ── nav ──
+function showSection(id, btn) {
+  document.querySelectorAll('.section').forEach(s => s.classList.remove('active'));
+  document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
+  document.getElementById('section-' + id).classList.add('active');
+  btn.classList.add('active');
+  // trigger animations
+  if (id === 'mech') initChainAnim();
+  if (id === 'dose') calcDose();
+  if (id === 'stress') updateCfactor();
+}
+
+// ── mech steps ──
+function showMech(idx, btn) {
+  document.querySelectorAll('.mech-step-btn').forEach((b,i) => b.classList.toggle('active', i===idx));
+  document.querySelectorAll('.mech-panel').forEach((p,i) => p.classList.toggle('active', i===idx));
+  if (idx===2) initChainAnim();
+  if (idx===3) initDCGauge();
+}
+
+// chain animation
+let chainTimer = null;
+function initChainAnim() {
+  const row = document.getElementById('chain-row');
+  const counter = document.getElementById('chain-counter');
+  if (!row) return;
+  if (chainTimer) clearInterval(chainTimer);
+  row.innerHTML = '';
+  const total = 12;
+  let converted = 0;
+  for (let i=0; i<total; i++) {
+    const el = document.createElement('div');
+    el.className = 'chain-unit chain-monomer';
+    el.textContent = 'C=C';
+    el.id = 'chain-'+i;
+    row.appendChild(el);
+  }
+  counter.textContent = `전환: 0 / ${total} (0%)`;
+  let i = 0;
+  chainTimer = setInterval(() => {
+    if (i >= total) { clearInterval(chainTimer); counter.textContent = `DC ~${Math.round(i/total*70)}% (유리화로 중단)`; return; }
+    const el = document.getElementById('chain-'+i);
+    if (el) { el.className = 'chain-unit chain-polymer'; el.textContent = 'C–C'; }
+    i++;
+    converted = i;
+    const perc = Math.round(converted/total * 70);
+    counter.textContent = `전환: ${converted} / ${total} → DC ~${perc}%`;
+  }, 350);
+}
+
+// DC gauge
+function initDCGauge() {
+  const c = document.getElementById('dc-gauge-container');
+  if (!c) return;
+  c.innerHTML = `
+  <svg viewBox="0 0 200 100" width="200" height="100" style="display:block;margin:0 auto">
+    <defs>
+      <linearGradient id="dcGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#dc2626"/>
+        <stop offset="45%" style="stop-color:#d97706"/>
+        <stop offset="70%" style="stop-color:#16a34a"/>
+        <stop offset="100%" style="stop-color:#2563eb"/>
+      </linearGradient>
+    </defs>
+    <rect x="10" y="40" width="180" height="18" rx="9" fill="url(#dcGrad)" opacity="0.25"/>
+    <rect x="10" y="40" width="0" height="18" rx="9" fill="url(#dcGrad)" id="dc-fill"/>
+    <text x="10" y="32" font-size="9" fill="#718096">0%</text>
+    <text x="90" y="32" font-size="9" fill="#d97706">겔화</text>
+    <text x="130" y="32" font-size="9" fill="#16a34a">유리화</text>
+    <text x="186" y="32" font-size="9" fill="#2563eb" text-anchor="end">100%</text>
+    <line x1="100" y1="36" x2="100" y2="62" stroke="#d97706" stroke-width="1.5" stroke-dasharray="3"/>
+    <line x1="142" y1="36" x2="142" y2="62" stroke="#16a34a" stroke-width="1.5" stroke-dasharray="3"/>
+    <text x="100" y="78" font-size="8" fill="#718096" text-anchor="middle">~60%</text>
+    <text x="142" y="78" font-size="8" fill="#718096" text-anchor="middle">65–70%</text>
+    <circle id="dc-dot" cx="10" cy="49" r="7" fill="#2563eb" stroke="#fff" stroke-width="2"/>
+    <text id="dc-pct" x="100" y="95" font-size="11" fill="#2563eb" font-weight="bold" text-anchor="middle">중합 시작...</text>
+  </svg>`;
+  let v = 0;
+  const interval = setInterval(() => {
+    v = Math.min(v + 1, 67);
+    const x = 10 + (v/100)*180;
+    const fill = document.getElementById('dc-fill');
+    const dot = document.getElementById('dc-dot');
+    const pct = document.getElementById('dc-pct');
+    if (fill) fill.setAttribute('width', (v/100)*180);
+    if (dot) dot.setAttribute('cx', x);
+    if (pct) pct.textContent = `DC ≈ ${v}%` + (v>=67?' (유리화 — 중합 사실상 정지)':'');
+    if (v >= 67) clearInterval(interval);
+  }, 30);
+}
+
+// ── PI selector ──
+const piData = {
+  cq: {
+    title: '캄퍼퀴논 (CQ) — 상업 표준',
+    peak: 468, range: [360, 510],
+    color: '#d97706',
+    items: [
+      {label:'흡수 최대', value:'~468 nm'},
+      {label:'Norrish 형', value:'Type II (H-추출)'},
+      {label:'공개시제', value:'필수 (EDMAB, DMAEMA)'},
+      {label:'DC (기준)', value:'~55–65%'},
+      {label:'색안정성', value:'⚠️ 황변 (b*↑)'},
+      {label:'세포독성', value:'중등도'},
+      {label:'필요 LCU', value:'표준 Blue LED OK'},
+      {label:'시장 현황', value:'압도적 다수 제품 사용'},
+    ],
+    note: '가장 널리 사용되지만 황변과 세포독성 문제가 있습니다. CQ를 아예 대체할 단일 광개시제는 아직 없으며, TPO/BAPO 병용 + 폴리웨이브가 단기 해법입니다.'
+  },
+  tpo: {
+    title: 'TPO (Lucirin TPO) — Norrish I형 아실포스핀',
+    peak: 390, range: [380, 425],
+    color: '#7c3aed',
+    items: [
+      {label:'흡수 최대', value:'~381–400 nm'},
+      {label:'Norrish 형', value:'Type I (α-절단)'},
+      {label:'공개시제', value:'불필요'},
+      {label:'DC vs CQ', value:'+10% 향상 (~74%)'},
+      {label:'경도 (Knoop)', value:'33.5 vs CQ 26.3 KHN'},
+      {label:'색안정성', value:'✅ 우수 (아민 없음)'},
+      {label:'세포독성', value:'낮음 (무독성)'},
+      {label:'필요 LCU', value:'⚠️ 폴리웨이브 필수'},
+    ],
+    note: 'EU CLP CMR category 1B 분류로 향후 규제 위험이 있습니다. TPO-L (수용성 유도체)이 대안으로 개발 중. Tetric EvoCeram Bleach에 포함.'
+  },
+  bapo: {
+    title: 'BAPO (Irgacure 819) — 라디칼 4개 생성',
+    peak: 385, range: [365, 416],
+    color: '#0d9488',
+    items: [
+      {label:'흡수 최대', value:'~371–400 nm'},
+      {label:'Norrish 형', value:'Type I (대칭 구조)'},
+      {label:'라디칼 생성', value:'4개/분자 (TPO의 2배)'},
+      {label:'소광계수', value:'870 vs CQ 33 L/mol·cm'},
+      {label:'굴곡강도', value:'CQ·TPO 중 최고'},
+      {label:'세포독성', value:'⚠️ 높음 (고농도 문제)'},
+      {label:'용해성', value:'⚠️ 많은 단량체에서 불량'},
+      {label:'필요 LCU', value:'⚠️ 폴리웨이브 필수'},
+    ],
+    note: '라디칼 생성 효율이 최고지만 세포독성과 용해도 문제로 단독 사용이 제한됩니다. 병용 시 소량 첨가로 활용.'
+  },
+  ivocerin: {
+    title: 'Ivocerin — 게르마늄 계열 (최유망)',
+    peak: 418, range: [390, 445],
+    color: '#16a34a',
+    items: [
+      {label:'흡수 최대', value:'~418 nm'},
+      {label:'Norrish 형', value:'Type I (게르마늄)'},
+      {label:'DC (루팅 시멘트)', value:'~87% vs CQ 44%'},
+      {label:'비커스 경도', value:'47 VHN vs CQ 33 VHN'},
+      {label:'색안정성', value:'✅ 우수'},
+      {label:'세포독성', value:'✅ 낮음 (돌연변이 없음)'},
+      {label:'필요 LCU', value:'✅ 표준 Blue LED OK'},
+      {label:'시장 현황', value:'Ivoclar Vivadent 독점 (Variolink E)'},
+    ],
+    note: 'CQ와 흡수 범위가 유사(390–445 nm)하여 기존 표준 LED로 활성화 가능하면서 DC가 CQ 대비 약 2배. 현재까지 알려진 가장 이상적인 CQ 대안이나 독점 특허 문제가 있습니다.'
+  }
+};
+
+let selectedPI = null;
+function selectPI(id, card) {
+  document.querySelectorAll('.pi-card').forEach(c => c.classList.remove('selected'));
+  const detail = document.getElementById('pi-detail');
+  if (selectedPI === id) { selectedPI = null; detail.classList.remove('open'); return; }
+  selectedPI = id;
+  card.classList.add('selected');
+  const data = piData[id];
+  document.getElementById('pi-detail-title').textContent = data.title;
+  // Peak markers
+  const markers = document.getElementById('pi-peak-markers');
+  markers.innerHTML = '';
+  const pct = (data.peak - 360) / (520 - 360) * 100;
+  markers.innerHTML = `
+    <div style="position:absolute;top:18px;left:${pct}%;width:3px;height:38px;background:${data.color};border-radius:2px;transform:translateX(-50%)"></div>
+    <div style="position:absolute;top:2px;left:${pct}%;transform:translateX(-50%);font-size:0.65rem;font-weight:700;color:${data.color};white-space:nowrap">${data.peak} nm</div>
+  `;
+  // Grid
+  const grid = document.getElementById('pi-detail-grid');
+  grid.innerHTML = data.items.map(it => `
+    <div class="pi-detail-item">
+      <div class="label">${it.label}</div>
+      <div class="value">${it.value}</div>
+    </div>
+  `).join('');
+  document.getElementById('pi-detail-note').textContent = data.note;
+  detail.classList.add('open');
+  detail.scrollIntoView({behavior:'smooth', block:'nearest'});
+}
+
+// ── LCU ──
+function showLCU(id, card) {
+  document.querySelectorAll('.lcu-card').forEach(c => c.classList.remove('active'));
+  document.querySelectorAll('.lcu-detail-panel').forEach(p => p.classList.remove('active'));
+  card.classList.add('active');
+  document.getElementById('lcu-'+id).classList.add('active');
+}
+
+// ── Dose calculator ──
+const thresholds = [
+  {val: 600, label: '일반 레진 최소', desc: '600 mJ/cm²', color: 'warn'},
+  {val: 3000, label: '일반 레진 권장', desc: '3,000 mJ/cm²', color: 'met'},
+  {val: 8000, label: '세라믹 0.4 mm', desc: '8,000 mJ/cm²', color: 'met'},
+  {val: 16000, label: '벌크필 최소', desc: '≥16,000 mJ/cm²', color: 'met'},
+  {val: 20000, label: '세라믹 1.5 mm', desc: '20,000 mJ/cm²', color: 'met'},
+  {val: 36000, label: '고강도 간접', desc: '36,000 mJ/cm²', color: 'met'},
+];
+function calcDose() {
+  const irr = parseFloat(document.getElementById('irradiance-input').value)||0;
+  const t = parseFloat(document.getElementById('time-input').value)||0;
+  const dose = irr * t;
+  document.getElementById('dose-result').textContent = dose.toLocaleString();
+  const grid = document.getElementById('threshold-grid');
+  grid.innerHTML = thresholds.map(th => {
+    const met = dose >= th.val;
+    const cls = met ? 'met' : 'fail';
+    return `<div class="threshold-item ${cls}">
+      <div class="t-status">${met?'✅':'❌'}</div>
+      <div class="t-val">${th.desc}</div>
+      <div class="t-desc">${th.label}</div>
+    </div>`;
+  }).join('');
+}
+function calcDistance() {
+  const base = parseFloat(document.getElementById('base-irr').value)||0;
+  const d = parseFloat(document.getElementById('dist-input').value)||0;
+  const d0 = 8; // tip diameter approx
+  const result = base * Math.pow(d0/(d0+d), 2);
+  document.getElementById('dist-result').textContent = Math.round(result).toLocaleString();
+}
+
+// ── OIL ──
+function showOIL(id, btn) {
+  document.querySelectorAll('.oil-panel').forEach(p => p.classList.remove('active'));
+  document.querySelectorAll('.scenario-btn').forEach(b => { b.classList.remove('active-lc','active-sc'); });
+  document.getElementById('oil-'+id).classList.add('active');
+  btn.classList.add('active-'+id);
+}
+
+// ── C-factor ──
+let walls = [true, true, true, true, true, false]; // 5 bonded, 1 free
+const wallLabels = ['상면','근심','원심','협측','설측','교합자유'];
+function toggleWall(i) {
+  walls[i] = !walls[i];
+  const btns = document.querySelectorAll('.wall-toggle');
+  btns[i].className = 'wall-toggle ' + (walls[i] ? 'bonded' : 'free');
+  btns[i].innerHTML = `${wallLabels[i]} (${walls[i]?'결합':'비결합'})`;
+  updateCfactor();
+}
+function updateCfactor() {
+  const bonded = walls.filter(w=>w).length;
+  const free = walls.filter(w=>!w).length;
+  const cf = free === 0 ? '∞' : (bonded/free).toFixed(1);
+  const cfNum = free === 0 ? 99 : bonded/free;
+  document.getElementById('cfactor-value').textContent = cf;
+  const interp = document.getElementById('cfactor-interp');
+  const needle = document.getElementById('cfactor-needle');
+  const pct = Math.min(cfNum/5, 1)*100;
+  if (needle) needle.style.left = pct+'%';
+  let color, text;
+  if (cfNum >= 4) { color = '#dc2626'; text = '응력 위험 매우 높음'; }
+  else if (cfNum >= 2.5) { color = '#d97706'; text = '응력 위험 높음'; }
+  else if (cfNum >= 1.5) { color = '#d97706'; text = '응력 위험 중간'; }
+  else { color = '#16a34a'; text = '응력 위험 낮음'; }
+  if (interp) { interp.textContent = text; interp.style.color = color; }
+  document.getElementById('cfactor-value').style.color = color;
+}
+
+// ── init ──
+document.addEventListener('DOMContentLoaded', () => {
+  calcDose();
+  calcDistance();
+  updateCfactor();
+  initChainAnim();
+});
+</script>
+</body>
+</html>
