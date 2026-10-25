@@ -1,0 +1,36 @@
+TITLE: A Patient with Severe Anxiety and Episodes of Fainting in Need of Dental Restoration
+AUTHORS: Mistry N
+PUBMED_ID: 37244725
+YEAR: 2023
+DOI: 10.1016/j.cden.2023.02.029
+JOURNAL: Dent Clin North Am
+FULL_TEXT: false (abstract-only — PubMed abstract retrieved 2026-10-23)
+
+===== PUBMED RECORD (verbatim) =====
+6. Dent Clin North Am. 2023 Jul;67(3):499-501. doi: 10.1016/j.cden.2023.02.029. 
+Epub 2023 Apr 4.
+
+A Patient with Severe Anxiety and Episodes of Fainting in Need of Dental 
+Restoration.
+
+Mistry N(1), Kufta K(1), Mupparapu M(2), Panchal N(3).
+
+Author information:
+(1)Hospital of the University of Pennsylvania, Philadelphia, PA, USA.
+(2)Penn Dental Medicine, Philadelphia, PA, USA. Electronic address: 
+mmd@upenn.edu.
+(3)Penn Dental Medicine, Penn Presbyterian Medical Center, Philadelphia VA 
+Hospitals, Philadelphia, PA, USA.
+
+Patients with extreme dental anxiety and dental phobia are candidates for 
+syncope attacks in a dental chair. Early recognition and management of these 
+episodes is important. Vasovagal syncope is often preceded by prodromal signs 
+and symptoms like facial pallor, diaphoresis, fainting, dizziness, nausea, or 
+vomiting. If any element of the patient's airway, breathing, or cardiovascular 
+system is no longer intact, the provider should commence emergency basic life 
+support protocols and notify emergency medical services immediately.
+
+Copyright © 2023 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cden.2023.02.029
+PMID: 37244725 [Indexed for MEDLINE]
