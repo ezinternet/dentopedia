@@ -5,7 +5,7 @@ year: 2023
 doi: 10.3389/fdmed.2023.1108316
 pmid: 39916906
 pmcid: PMC11797893
-source: sources/watts-2023-light-curing-dental-resin-based.md
+source: watts-2023-light-curing-dental-resin-based.md
 category: resin
 evidence_level: narrative-review
 source_collection: pubmed-text
