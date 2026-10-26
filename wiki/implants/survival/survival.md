@@ -2,7 +2,7 @@
 title: "임플란트·생존율·실패위험 — survival"
 authors: navigation
 year: 2026
-date: 2026-10-21
+date: 2026-10-26
 doi: N/A
 source: navigation
 category: implants/survival
@@ -15,20 +15,20 @@ tags: [navigation, category-index, survival]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·생존율·실패위험
 > - **범위**: Implant survival/failure as the outcome, and what predicts it — long-term cumulative survival cohorts & SR/MA; **habit** risk (smoking level/cessation, tobacco & smoke-free products, bruxism); **systemic/host** risk (diabetes, hypertension, osteoporosis & PTH, Sjögren, autoimmune & systemic sclerosi…
-> - **수록 논문**: 87편
+> - **수록 논문**: 92편
 
 ## Three-line Summary
 
 **Scope**: Implant survival/failure as the outcome, and what predicts it — long-term cumulative survival cohorts & SR/MA; **habit** risk (smoking level/cessation, tobacco & smoke-free products, bruxism); **systemic/host** risk (diabetes, hypertension, osteoporosis & PTH, Sjögren, autoimmune & systemic sclerosis, head-and-neck radiotherapy, medications/polypharmacy affecting osseointegration); early-failure risk-factor studies & failure-rate umbrella reviews; evidence-quality appraisal bound to this literature (sponsorship bias, risk-of-bias in smoker SRs); management of the failed implant (explantation/retrieval technique).
-**Indexed papers**: 87 papers in `wiki/implants/survival/`.
+**Indexed papers**: 92 papers in `wiki/implants/survival/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·생존율·실패위험
-**수록 논문**: 87편
+**수록 논문**: 92편
 **하위 카테고리**: 없음
 
-## Papers in this Category (87)
+## Papers in this Category (92)
 
 | Paper |
 |---|
@@ -53,6 +53,7 @@ tags: [navigation, category-index, survival]
 | [[carr-2022-low-insertional-torque-early|Low Insertional Torque and Early Dental Implant Failure]] |
 | [[chawki-2026-particularities-of-the-implant-supported|Particularities of the implant-supported prosthesis in patients with bruxism: systematic review of the literature]] |
 | [[chrcanovic-2016-factors-influencing-early-dental-implant|Factors Influencing Early Dental Implant Failures]] |
+| [[chrcanovic-2020-isfpd-2to6-unit-9yr-bruxism|Retrospective clinical evaluation of 2- to 6-unit implant-supported fixed partial dentures: Mean follow-up of 9 years]] |
 | [[clauser-2022-early-implant-failure-grafted|Risk of early implant failure in grafted and non-grafted sites: A systematic review and meta-analysis]] |
 | [[cobo-vazquez-2018-effect-lack-primary-stability-survival|Effect of the lack of primary stability in the survival of dental implants]] |
 | [[da-rocha-coelho-2021-evaluation-of-the-association|Evaluation of the Association of Early Implant Failure With Local, Environmental, and Systemic Factors: A Retrospective Study]] |
@@ -79,6 +80,7 @@ tags: [navigation, category-index, survival]
 | [[kim-2026-dental-implant-osteoporosis-osteosclerosis|Dental Implant with Osteoporosis / Osteosclerosis (골다공증 및 골경화증에서 치과 임플란트: 종설)]] |
 | [[kindaro-2026-parathyroid-hormone-implant-osseointegration-osteoporosis-sr|The impact of parathyroid hormone supplementation on dental implant osseointegration in osteoporotic subjects: A systematic review]] |
 | [[krisam-2019-factors-affecting-the-early-failure|Factors affecting the early failure of implants placed in a dental practice with a specialization in implantology – a retrospective study]] |
+| [[larsson-2023-risk-factors-associated-with-failure|Risk Factors Associated with Failure and Technical Complications of Implant-Supported Single Crowns: A Retrospective Study]] |
 | [[lee-2026-supportive-periodontal-therapy-improves-implant|Supportive Periodontal Therapy Improves Implant Survival in Patients With a History of Periodontitis: A Retrospective Multicenter Cohort Study of 3555 Implants]] |
 | [[manzano-2016-risk-factors-in-early-implant|Risk Factors in Early Implant Failure: A Meta-Analysis]] |
 | [[marty-2024-implant-treated-periodontitis-sr-ma|Implant Health in Treated Periodontitis Patients: A Systematic Review and Meta-Analysis]] |
@@ -100,6 +102,7 @@ tags: [navigation, category-index, survival]
 | [[roccuzzo-2022-implants-periodontitis-history-20year-prospective|Implants in patients with/without periodontitis history: 20-year prospective study]] |
 | [[scoffier-2026-aetiology-of-early-implant-failure|Aetiology of early implant failure: a scoping review]] |
 | [[serroni-2024-history-of-periodontitis-as|History of periodontitis as a risk factor for implant failure and incidence of peri-implantitis: A systematic review, meta-analysis, and trial sequential analysis of prospective cohort studies]] |
+| [[shafiee-2025-bruxism-in-implant-supported-rehabilitations|Bruxism in implant-supported rehabilitations: a narrative review of clinical complications and management strategies]] |
 | [[shahi-2026-implant-outcomes-diabetes-mellitus-sr|Dental implant outcomes in patients with diabetes mellitus: a systematic review]] |
 | [[shenoy-2025-dental-implant-failure-retrieval-techniques-scoping|Dental implant failure and retrieval techniques; a scoping review]] |
 | [[shibli-2024-implant-surface-smoking-human-peri-implant-bone|Impact of Implant Surface and Smoking on Peri-Implant Human Bone: What we Learned from The Last 20 Years?]] |
@@ -112,8 +115,10 @@ tags: [navigation, category-index, survival]
 | [[sun-2023-effects-of-hyperlipidemia-on-osseointegration|Effects of Hyperlipidemia on Osseointegration of Dental Implants and Its Strategies]] |
 | [[taghsimi-2022-implant-hyperdense-jaw-lesions-narrative-review|Efficiency and Safety of Dental Implantation in the Area of Hyperdense Jaw Lesions]] |
 | [[tattan-2021-surgery-start-time-and-early|Surgery start time and early implant failure: A case-control study]] |
+| [[teles-2026-implant-performance-10yr-crosssectional|Cross-sectional Study on the Performance of Implants After More Than 10 Years in Function]] |
 | [[troiano-2018-early-late-failure-submerged|Early and late implant failure of submerged versus non-submerged implant healing: A systematic review, meta-analysis and trial sequential analysis]] |
 | [[van-steenberghe-2002-relative-impact-local-endogenous-patient|The relative impact of local and endogenous patient-related factors on implant failure up to the abutment stage]] |
+| [[vidal-2025-bruxism-mechanical-complications-implant-srma|Relationship between bruxism and different types of mechanical complications in implant-supported prosthesis: A systematic review with meta-analysis]] |
 | [[wagner-2022-diabetes-mellitus-dental-implants-sr|Systematic Review on Diabetes Mellitus and Dental Implants: An Update]] |
 | [[wahlberg-2025-multicenter-early-implant-failures-part-2-patient|A Multicenter Study of Factors Related to Early Implant Failures-Part 2: Patient Factors]] |
 | [[yari-2023-risk-factors-early-implant-failure|Risk factors associated with early implant failure: A retrospective review]] |
