@@ -3,7 +3,7 @@ title: "Morphological Classification of Extraction Sockets and Clinical Decision
 authors: Gintaras Juodzbalys, Arturas Stumbras, Samir Goyushov, Onurcem Duruel, Tolga Fikret Tözüm
 year: 2019
 doi: 10.5037/jomr.2019.10303
-source: J Oral Maxillofac Res 2019;10(3):e3
+source: juodzbalys-2019-morphological-classification-extraction-sockets-clinical.md
 category: bone-regeneration/ridge-preservation
 evidence_level: sr
 date: 2019-09-05
