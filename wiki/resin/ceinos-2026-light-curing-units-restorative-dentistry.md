@@ -3,7 +3,7 @@ title: "Light-curing units in restorative dentistry: a clinically oriented narra
 authors: Ceinos R, Dubois M, Attal JP, Vigouroux F, Flottes Y, Fasham T, Dursun E, Pelissier B, D'Agostino MA, François P
 year: 2026
 doi: 10.1038/s41405-026-00446-9
-source: sources/ceinos-2026-light-curing-units-restorative-dentistry.md
+source: ceinos-2026-light-curing-units-restorative-dentistry.md
 category: resin
 evidence_level: narrative-review
 source_collection: pubmed-text
