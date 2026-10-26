@@ -5181,6 +5181,11 @@ tags: []
 ### implants/survival
 - [[implants/survival/stoichkov-2018-analysis-of-the-causes-of]] — Stoichkov 2018 · retrospective (환자 101명·임플란트 218개, 3–10년) · 임플란트 골절률 2.3% — 부적절 치료계획·이갈이(bruxism)·합병증 시점이 주원인, 단일크라운 집중; 보호교합(ImpOC) 부재가 위험 구간 (abstract-only) (DOI 10.3290/j.qi.a39846)
 - [[implants/survival/chawki-2026-particularities-of-the-implant-supported]] — Chawki 2026 · sr (PRISMA, 20편·9,313명/31,209개) · 이갈이군 임플란트 생존율 57.5–100%·보철 생존 70.6–100%, 기계적 합병증 최대 60%·보철 실패 최대 29.3%; **스플린트가 보철 마모 1.8배 감소** — 이갈이는 유의 위험인자, 지연부하·경성 야간 스플린트 권고 (DOI 10.11604/pamj.2026.53.93.47329)
+- [[implants/survival/vidal-2025-bruxism-mechanical-complications-implant-srma]] — Vidal 2025 · sr+ma (20 studies SR, 13 MA) · 이갈이 → 임플란트 지지 보철 기계적 합병증 OR 6.10(비특이적); 세부: 임플란트 파절 OR=16.14 · 스크류 파절 OR=7.07 · 세라믹 파절 OR=4.36 · 어버트먼트 파절 OR=13.88 · 스크류 이완 OR=3.40 [sr+ma, abstract-only]
+- [[implants/survival/shafiee-2025-bruxism-in-implant-supported-rehabilitations]] — 이갈이 환자 임플란트 실패 2.2–4.7배↑; 스플린트 응력 33–73% 감소; 관리전략 종합 [narrative-review]
+- [[implants/survival/teles-2026-implant-performance-10yr-crosssectional]] — 10년+ 임플란트 생존율 95.5%·주위염 31.4%; 브루시즘=생물학적+기계적 이중 위험인자 [cross-sectional, abstract-only]
+- [[implants/survival/larsson-2023-risk-factors-associated-with-failure]] — 단관 보철 278명·Cox회귀: 이갈이·남성이 크라운 실패 유의 예측 인자, CSR 5년 93.5% [retrospective]
+- [[implants/survival/chrcanovic-2020-isfpd-2to6-unit-9yr-bruxism]] — 이갈이·캔틸레버→ISFPD 기계 합병증, 642명 876개 보철 9년 회향, CSR 30년 72.7% [retrospective, abstract-only]
 
 ### implants/loading-protocol
 - [[implants/loading-protocol/chrcanovic-2014-immediate-nonfunctional-versus-immediate-functional]] — Chrcanovic 2014 · sr+ma (11편) · 즉시비기능성로딩(INFL) vs 즉시기능성로딩(IFL): 실패율 RR 0.87 (95% CI 0.44–1.75, P=.70)·MBL MD 0.01 mm (P=.74) 모두 무차이 — **즉시로딩 중 교합접촉 제거의 이점 미입증**(7/11편 편향위험 高) (abstract-only) (DOI 10.1016/j.jdent.2014.06.010)
