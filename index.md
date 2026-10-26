@@ -1272,6 +1272,7 @@ tags: []
 - [[prosthetic-materials/abutment-screw/singla-2025-comparative-microbial-assessment-different-screw]] — SAH 충전재 비교 RCT(35명/45임플란트): PTFE·1%CHX 면 모두 면(cotton) 대비 세균오염 유의하게 낮음(혐기성 양성률 면 95%→PTFE 50%/Co1%CHX 20%), IL-6는 3개월간 유의변화 없음
 - [[prosthetic-materials/abutment-screw/fayaz-2014-effect-sterilization-number-use-accuracy]] — 마찰식 토크제한장치(F-S MTLD) 15개를 증기 멸균 100주기 노화 모사한 in vitro 연구: 초기엔 개체별 ±10% 내 유지했으나 반복 후 체계적 과소전달 발생 — 최대 절대오차 BioHorizons 7.75 Ncm(목표 30 Ncm 대비 25.83%, 측정치 76%가 10% 초과), Astra Tech 3.35 Ncm(13.4%), Dr. Idhe 3.75 Ncm(12.5%); 제조사 간 절대오차 유의한 차이(P<0.05)로 교정 주기 일률 적용 불가
 - [[prosthetic-materials/abutment-screw/aydin-2026-torque-accuracy-spring-style-dental-torque]] — 스프링식 기계식 토크제한장치(MTLD) 9개를 40회 반복 하중+134°C 소균 후 제조사별 정확도 비교한 in vitro 연구; 평균 백분율 편차 Astra Tech 3.33%·Implance 11.43%·DIO 16.67%, ±10% 허용범위 초과율 5%/60%/95%(χ²=99.241, p<0.001) — 스프링식 설계만으로는 정확도 보장 안 되므로 식재(35 Ncm)·나사체결(25 Ncm) 개별 토크값에서 MTLD-임플란트 조합 검증 필요
+- [[prosthetic-materials/dhesi-2021-titanium-base-abutment-adhesion-protocol]] — 티타늄 베이스 어버트먼트 5종 세라믹/하이브리드 접착; 세라믹·시멘트 종류 유의, 열순환 무유의; 지르코니아+TheraCem 조합 임상 권장 (in vitro)
 
 ## 총의치·가철성보철 (Complete Denture / Removable Prosthodontics — added 2026-06-16)
 - [[complete-denture/refai-2026-occlusion-disocclusion-implant-overdentures-splinted]] — Refai 2026 · rct (n=36, 3군×12, T-Scan) · 즉시부하 2-임플란트 하악 오버덴처 **연결(용접바 IW) vs 비연결(볼 IB) vs 총의치(CD)**: 두 임플란트군 모두 CD보다 교합/이개시간 짧음(OT CD 0.52 vs IB 0.35 vs IW 0.29s, p<0.001), 단 IB≈IW(무유의차) → 임플란트 2개 연결의 교합기능 이점 없음 (DOI 10.1186/s12903-026-08855-w)
@@ -1422,6 +1423,8 @@ tags: []
 - [[dental-materials/zirconia/badawy-2025-enamel-wear-zirconia-endocrowns-2year]] — 전향적 RCT(Wiley 2025, 2년): 지르코니아 엔도크라운 대합 법랑질 마모 임상평가 — 지르코니아·대조군 법랑질 마모 유의차 없음; 임상적 허용 수준
 - [[dental-materials/zirconia/malgaj-2026-cantilever-zirconia-rbfdp-alumina-coating]] — Malgaj 2026 · rct (J Esthet Restor Dent, abstract-only): 8년 RCT(57명, 캔틸레버 지르코니아 RBFDP 64개) — 나노구조 알루미나코팅(NAC) 유지율 88.4% ≈ 분사연마(APA) 89.1%(p=0.99), 보철 생존율 100% (DOI 10.1111/jerd.70130)
 - [[dental-materials/zirconia/bomicke-2026-ceramic-crowns-sleep-bruxism-rct]] — Bömicke 2026 · rct (J Dent, abstract-only): EMG로 확인한 수면 이갈이는 3년간 모놀리식 LiDi·지르코니아 대구치 단관 생존·성공률에 유의 영향 없음 (n=109, 합병증 0건) (DOI 10.1016/j.jdent.2026.106691)
+- [[dental-materials/zirconia/kamis-2023-cold-plasma-zirconia-resin-cement-bond]] — 냉각 대기압 플라즈마(CAPP)+MDP 프라이머 조합(PPR) 시 지르코니아-레진시멘트 결합강도 유의 향상; CAPP 단독은 습윤성(접촉각)만 개선, SBS 향상은 프라이머 병용이 필수 (in vitro)
+- [[dental-materials/zirconia/sakrana-2020-bond-strength-translucent-zirconia-sarc]] — 반투명 지르코니아 표면처리(열산>공기마모>피라냐산)+자가접착레진 마이크로인장 결합강도; Panavia SA > TheraCem > Panavia F2.0; 열산처리+Silano-Pen 최고 (in vitro)
 - [[dental-materials/ali-2023-cadcam-restoration-failure-reasons-sr-ma]] — CAD/CAM 수복물 임상 실패 원인 SR+MA — 파절 55%, 탈락 20%; 두께 <1mm 파절 위험 증가.
 - [[dental-materials/warreth-2020-all-ceramic-restorations-narrative-review]] — Warreth & Elkareimi 2020 narrative review: all-ceramic restorations classification (composition × fabrication), flexural strength benchmarks, Saudi Dental Journal
 - [[dental-materials/cuzic-2025-clinicians-guide-material-selection-all-ceramics]] — Cuzic 2025 · narrative-review (Materials, PMC 전문, 58편 2008–2025): all-ceramic 재료선택+시멘테이션 임상 가이드 — 조성 기반 분류(규산염 HF+실란 / 산화물 지르코니아 air-abrasion+MDP), 부위별 적용증, 적층→모놀리식 전환 추세 (DOI 10.3390/ma18102235)
@@ -1429,6 +1432,7 @@ tags: []
 - [[dental-materials/omar-2026-marginal-gap-additive-subtractive-nanoceramic]] — Omar 2026 · in-vitro (BMC Oral Health): 임플란트 하이브리드 나노세라믹(Nanoksa) 크라운 마진갭 — 밀링(34–38µm)이 3D 프린팅(60–64µm)보다 열가공 노화 전후 모두 유의하게 우수
 
 - [[dental-materials/bollen-1997-comparison-surface-roughness-oral-hard]] — 구강 경조직 표면조도 임계값(R_a ≈ 0.2 µm)과 세균성 치태 부착: 재료별 연마/처리 영향 (1980s–90s 문헌 검토, abstract-only)
+- [[dental-materials/ceramic/moeeduddin-2020-firing-etching-zls-theracem-bond]] — ZLS(지르코니아 강화 리튬실리케이트) + TheraCem 인장결합강도; 소성 1회·산 에칭 45초 최고(4.83 MPa); 에칭 농도는 유의미하지 않음 (in vitro)
 
 ## 글래스아이오노머 (Glass Ionomer)
 - [[glass-ionomer/sokolowski-2018-ion-releasing-polymeric-materials-contraction-stress]] — Sokolowski 2018 · in-vitro · 이온유리 수복재 10종 광탄성 응력 평가, Ionosit(컴포머) 최고 수분흡수·56일 후 팽창응력 (DOI 10.3390/polym10101093)
@@ -1441,6 +1445,7 @@ tags: []
 - [[glass-ionomer/singh-2024-gic-rmgic-biological-response-sr]] — SR(9편, Restor Dent Endod 2024): 전통 GIC가 RMGIC보다 세포독성 낮음(VPT 재료 선택 시사)
 - [[glass-ionomer/moheet-2019-gic-powder-nanofiller-modifications-review]] — narrative review(Eur J Dent 2019): GIC 분말 나노필러 개질이 물성 대체로 향상
 - [[glass-ionomer/mummery-2022-gic-fissure-sealant-case-series]] — case series(BDJ Open 2022): 고우식위험 소아 GIC fissure sealant 평균 77% 유지
+- [[glass-ionomer/huang-2020-inhibition-root-dentin-demineralization]] — RMGI(Rely X Luting Plus) vs 바이오액티브 시멘트 3종(Activa/Ceramir/TheraCem) 치근 상아질 탈회 억제력 비교; LUT 7700 µm > CER 3800 > THE 2100 > ACT 1400 > UNI −2000 µm (in vitro)
 
 ## 디지털 워크플로우 (Digital Workflow)
 - [[digital-workflow/benavides-2012-cbct-implant-dentistry-icoi-consensus]] — Benavides 2012 · consensus · ICOI CBCT 합의문: 선형계측·3차원 치조제·수술가이드 지지, 개별 필요 기반 정당화·최소 FOV
@@ -2035,6 +2040,7 @@ tags: []
 - [[resin/yalcinkaya-2026-degree-conversion-luting-hybrid-ceramic]] — In-vitro FTIR(BMC Oral Health 2026, PMC full text): 하이브리드 세라믹(Cerasmart) CAD/CAM 두께별 전환도 — ≤2mm는 flowable/bulk-fill이 듀얼큐어 시멘트보다 전환도 우수, 2.5mm는 듀얼큐어 시멘트가 최고
 - [[resin/lehmann-2026-distance-exposure-mode-degree-conversion-rbc]] — In-vitro Raman(Materials 2026, PMC full text): LED 광중합기 조사거리(0/2/4mm)·노출모드(standard/soft-start/pulse)가 3종 복합레진 전환도에 미치는 영향 — bulk-fill이 두께 4mm서 가장 취약
 - [[resin/hashemian-2025-tip-distance-conversion-cytotoxicity]] — In-vitro ATR-FTIR+MTT(J Oral Biol Craniofac Res 2025, PMC full text): 광중합기 팁-거리(0–8mm) 증가 시 전환도↓·치은섬유아세포 생존율↓, 6–8mm서 ISO 생체적합성 임계치(70%) 미달
+- [[resin/kwon-2026-biological-effects-bioactive-glass-sarc]] — BAG 함유 SARC(BG0-BG5) 치수줄기세포 생체적합성; 세포독성 무차이, BAG 2-5% 후기 치수 분화 마커(DMP1/BSP) 유의 상향; TheraCem은 ARS 기준 최저 광물화 (in vitro)
 
 ## 인레이 (Inlay)
 - [[inlay/spitznagel-2025-multilayer-zirconia-partial-coverage-fatigue]] — Spitznagel 2025 · in-vitro · 멀티레이어 지르코니아 0.5mm 초박형은 부분피개(PCR)가 크라운보다 파절하중 우위(2047 vs 695N), 크라운은 ≥1.0mm 필요
