@@ -3,7 +3,7 @@ title: "Intraoral Light Curing of Resin Based Material: FDI Policy Statement 202
 authors: "FDI World Dental Federation"
 year: 2022
 doi: 10.1016/j.identj.2021.11.005
-source: sources/fdi-2022-intraoral-light-curing-resin-based.md
+source: fdi-2022-intraoral-light-curing-resin-based.md
 category: resin
 evidence_level: consensus
 date: 2022-02-01
