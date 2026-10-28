@@ -65,5 +65,5 @@ Systematic review per PRISMA 2020 (not prospectively registered; qualitative syn
 - [[giok-2024-risk-factors-peri-implantitis-umbrella]] — umbrella review grading the same risk-factor set (periodontitis history, smoking) with higher evidence weight; conclusions consistent.
 - [[herrera-2023-prevention-treatment-peri-implant-efp]] — EFP S3-level prevention/treatment guideline whose bottom line this qualitative synthesis matches (reinforces in prose only).
 - [[bai-2024-seven-nonsurgical-methods-peri-implantitis-network]] — network meta-analysis quantifying the limited non-surgical adjunct benefit this review describes qualitatively.
-- [[ramanauskaite-2023-guided-bone-regeneration-periimplantiti-defects-nma]] — NMA underlying the GBR-over-resective bone-fill conclusion.
+- [[implants/peri-implantitis/ramanauskaite-2023-guided-bone-regeneration-periimplantitis-defects-nma]] — NMA underlying the GBR-over-resective bone-fill conclusion.
 - [[peri-implantitis]] — category landing page for 임플란트·주위염.
