@@ -7,7 +7,7 @@ doi: ""
 source: implant-failure-mechanism-xray-differential-overview.md
 category: overviews
 evidence_level: overview
-tags: [implant-failure, overheating, overcompression, peri-implantitis, radiographic-differential, early-implant-failure, osteonecrosis, bone-loss, histology, fibrous-encapsulation, peri-implant-bone-necrosis, pibn]
+tags: [implant-failure, overheating, overcompression, peri-implantitis, radiographic-differential, early-implant-failure, osteonecrosis, bone-loss, histology, fibrous-encapsulation, peri-implant-bone-necrosis, pibn, retrograde-peri-implantitis, implant-periapical-lesion, apical-radiolucency]
 relations:
   - type: extends
     target: early-implant-failure-risk-prevention-overview
@@ -33,7 +33,7 @@ relations:
 > - **새 논문 — 열괴사 인간 조직학 지문 (Piattelli 1998, n=8)**: 6개 소견 전 증례 일치 — 골 격리편 (Bone Sequestra), 재생 없음, 염증 간극 (Inflammatory Gap), 혈병 미조직화 (No Clot Organization), 치밀 성숙골 (Compact Mature Bone), 2차 세균 (Secondary Bacterial Colonization). 세균은 결과이지 원인 아님. 치밀 성숙골은 방열 어려운 고밀도 부위임을 시사.
 > - **새 논문 — 지연 기계적 실패 인간 조직학 종착점 (Piattelli 2003, n=51)**: 동요도 (Mobility)로 제거된 최대 인간 회수임플란트 시리즈 — 전 증례에서 섬유성 피막 (Fibrous Encapsulation) 600–1,100 µm + 치밀 성숙 주위골 + 골개조 희박 + **세균 없음**. ①열괴사 (골격리편·재생 없음)·③임플란트주위염 (골용해·세균·탐침 깊어짐)과 조직학적으로 구별됨 — 기계적 과부하의 독립적 종착점.
 > - **새 논문 — PIBN 두 경로의 조직상 수렴 (Abukraa 2025, n=5명 10개)**: 과압박 조기 3건 + 임플란트주위염 지연 2건. 조직검사 2건(각 경로 1건) → 두 기전 모두 **동일 패턴**: 빈 골세포소강 (Empty Osteocyte Lacunae) + 비생존 골편 + 급·만성 염증세포 침윤. **조직학으로도 감별 불가 — 시점이 유일한 감별 변수** (1개월 이내 = 과압박, 1년 이후 = 임플란트주위염 속발).
-> - **Gap (업데이트)**: 세 기전을 동시에 비교한 논문 0편. 과열의 방사선 징후 0편. 과압박의 사람 조직학 — **부분 해소**: Abukraa 2025가 첫 인간 조직검사 확인 증례 제공(과압박 1건 조직학), 단 n=1 조직검사·초록 전용. 이 페이지는 여전히 추론적 조합이다.
+> - **Gap (업데이트)**: 세 기전을 동시에 비교한 논문 0편. 과열의 방사선 징후 0편. 과압박의 사람 조직학 — **부분 해소**: Abukraa 2025가 첫 인간 조직검사 확인 증례 제공(과압박 1건 조직학), 단 n=1 조직검사·초록 전용. **④ 역행성 패턴 — 해소**: 2026-10-28 인제스트. Shah 2016 방사선 3등급 분류(경도/중등도/중증), Gong 2022 조직병리 5분류(낭종 57% 최다), Gao 2024 역학·예방 73증례 문헌고찰로 치근단부 방사선 투과상의 기전 및 분류 공백이 보완됨. 이 페이지는 여전히 추론적 조합이다 — 네 기전을 직접 비교한 논문 없음.
 
 ## Three-line Summary
 
@@ -53,13 +53,14 @@ The usable differential is timing (pre-loading early failure ≈1–4% implant-l
 
 ## Overview Scope and Question
 
-**Clinical question:** When a dental implant fails, can the radiograph (periapical or panoramic, as routinely available chairside) distinguish between three proposed mechanisms?
+**Clinical question:** When a dental implant fails, can the radiograph (periapical or panoramic, as routinely available chairside) distinguish between four proposed mechanisms?
 
 1. **Drilling overheating** — thermal necrosis of the osteotomy wall from heat generated during site preparation.
 2. **Excessive bone compression (overcompression)** — mechanical injury of the peri-implant bone from insertion strain, misfit, or undersized osteotomy (high insertion torque as its common proxy).
-3. **Peri-implantitis** — plaque-associated inflammatory destruction of supporting bone after osseointegration.
+3. **Peri-implantitis** — plaque-associated inflammatory destruction of supporting bone after osseointegration, progressing from marginal bone (coronal → apical).
+4. **Retrograde peri-implantitis (apical pattern)** — inflammation originating at the implant apex from adjacent-tooth pulpal/periapical disease, propagating coronally; radiographically distinct from mechanisms 1–3.
 
-**Scope boundaries.** Mechanisms 1 and 2 are *osteotomy/insertion-mediated* and act at surgery; mechanism 3 is *biofilm-mediated* and acts after the implant is in function. Other failure causes (overload, systemic host factors, smoking, infection of the socket, malposition) are outside the question and are covered in [[overviews/early-implant-failure-risk-prevention-overview]] and [[overviews/implant-failure-mbl-risk-factors-overview]]. "Radiographic finding" here means what a clinician can read on a clinical radiograph — µCT and histology from animal models are reported as mechanism evidence, not as clinical imaging signs.
+**Scope boundaries.** Mechanisms 1 and 2 are *osteotomy/insertion-mediated* and act at surgery; mechanism 3 is *biofilm-mediated* and acts after osseointegration; mechanism 4 is *adjacent-tooth-mediated* and can appear at any time post-placement. Other failure causes (overload, systemic host factors, smoking, infection of the socket, malposition) are outside the question and are covered in [[overviews/early-implant-failure-risk-prevention-overview]] and [[overviews/implant-failure-mbl-risk-factors-overview]]. "Radiographic finding" here means what a clinician can read on a clinical radiograph — µCT and histology from animal models are reported as mechanism evidence, not as clinical imaging signs.
 
 **Answer in one sentence.** The radiograph documents *that* bone was lost and *how much*, but in the held evidence it does not encode *why*; the mechanism is assigned by timing, clinical probing, and the surgical record.
 
@@ -110,6 +111,30 @@ The usable differential is timing (pre-loading early failure ≈1–4% implant-l
 
 **Timing.** Two possible presentations in the held evidence: (a) early integration failure (rat model); (b) slow crestal bone loss over years after loading (human RCT). Presentation (b) overlaps in time with peri-implantitis — which is why clinical probing is decisive there.
 
+## Mechanism 4: Retrograde Peri-implantitis (Apical Pattern)
+
+**Definition and direction.** Retrograde peri-implantitis (RPI) — also called implant periapical lesion (IPL) — is inflammation originating at the **implant apex** that propagates **coronally** toward the crown. This direction is the *opposite* of conventional peri-implantitis, which begins at the marginal crest and progresses apically ([[implants/peri-implantitis/gao-2024-prevention-retrograde-peri-implantitis-pulpal]]). The directional distinction is the central radiographic differentiator.
+
+**Primary etiology.** Literature review of 73 cases (36 articles) identified untreated or undertreated **pulpal/periapical lesions in adjacent teeth** as the dominant cause — one frequently under-evaluated before implant placement (Gao & Ma 2024). No standardized clinical guidelines for prevention or management exist.
+
+**Radiographic hallmark.** Radiolucency confined to the **implant apex** with coronal osseointegration preserved — at least in early presentations. This pattern distinguishes RPI from all three other mechanisms, which produce radiolucency at the marginal/crestal region or diffusely around the implant body ([[implants/peri-implantitis/shah-2016-radiographic-classification-retrograde-peri-implantitis]]).
+
+**Radiographic severity classification (Shah 2016).** The first quantitative RPI radiographic classification, based on 54 IOPAs from 36 case reports:
+
+| Class | Radiolucency from apex | Recommendation |
+|---|---|---|
+| Mild | < 25% of implant length | Antibiotics ± adjacent-tooth endodontic treatment |
+| Moderate | 25–50% | Surgical debridement + GBR ± apicoectomy |
+| Advanced | > 50% | Implant removal + re-implantation |
+
+**Histopathological classification (Gong 2022).** PRISMA SR (28 studies, 37 implants) proposed the first histopathology-based 5-class IPL classification. Most common: **periapical cyst (Class III, 57%)** — previously absent from all classification systems. Treatment outcomes: apicoectomy 97% success (38/39); cyst removal alone 33% (3/9); antibiotics alone effective only in 2 cases ([[implants/peri-implantitis/gong-2022-novel-histopathological-classification-implant]]).
+
+**Radiographic pattern — what CAN be seen.**
+
+This is the one mechanism where the radiograph IS diagnostically informative: apical radiolucency with preserved coronal bone is the defining finding. However, the mechanism cannot be confirmed from the film alone — adjacent-tooth periapical status must be evaluated clinically and radiographically to confirm etiology.
+
+**Timing.** RPI can appear early (if the adjacent-tooth periapical pathology was pre-existing at placement) or late. It does not require osseointegration failure at the crest — crestal bone is typically normal in early-stage IPL.
+
 ## Mechanism 3: Peri-implantitis
 
 **Case definition — clinical signs are mandatory.** The 2017 World Workshop consensus defines peri-implantitis as **BOP ± suppuration + increased PD + progressive bone loss**; mucositis is BOP without progressive bone loss; baseline radiographs and probing at prosthesis delivery are recommended ([[implants/peri-implantitis/berglundh-2018-peri-implant-diseases-conditions-consensus]]). Because inflammation on probing is part of the definition, **a radiograph alone cannot diagnose peri-implantitis** — radiographic bone loss without BOP/suppuration does not meet the case definition.
@@ -130,7 +155,8 @@ The usable differential is timing (pre-loading early failure ≈1–4% implant-l
 |---|---|---|---|---|
 | ① Drilling overheating (thermal necrosis) | **No specific sign in held evidence**; at most the generic picture of non-integration | Surgery → early healing weeks (pre-loading) | None specific held; failure of integration / mobility | **Surgical record**: worn drill, inadequate irrigation, guided sleeve blocking irrigation, dense D1 bone, long drilling time |
 | ② Overcompression | Animal µCT: crater-like lesion with early failure; human: crestal MBL over 1–3 years (mechanism unconfirmed) | Early (animal) **or** gradual post-loading crestal loss (human) | None specific held; must exclude peri-implantitis by probing when loss is late | **Surgical record**: very high final torque *in dense crestal cortex* (esp. mandible), undersized osteotomy / large misfit, thin buccal bone <1 mm, implant surface/design |
-| ③ Peri-implantitis | Progressive bone loss vs baseline; crater-like/circumferential or supra-alveolar defects | Post-loading, progressive | **BOP ± suppuration + increased PD mandatory** (Berglundh 2018); without baseline: PD ≥6 mm + bone loss ≥3 mm | **Clinical probing** + progression on serial radiographs |
+| ③ Peri-implantitis | Progressive **marginal** bone loss vs baseline; crater-like/circumferential or supra-alveolar defects — loss starts at **crest** | Post-loading, progressive | **BOP ± suppuration + increased PD mandatory** (Berglundh 2018); without baseline: PD ≥6 mm + bone loss ≥3 mm | **Clinical probing** + progression on serial radiographs; marginal origin |
+| ④ Retrograde peri-implantitis (RPI/IPL) | **Apical radiolucency only** — at implant tip; coronal osseointegration preserved (early stage) | Any time post-placement; may appear early if adjacent tooth had pre-existing pathology | Evaluate adjacent-tooth periapical status; coronal probing may be normal | **Radiolucency location** (apex, not crest) + adjacent-tooth assessment; Shah 2016 severity staging (mild/moderate/advanced) |
 
 **How to use it (reasoned combination, not a validated algorithm):**
 
@@ -163,6 +189,9 @@ The usable differential is timing (pre-loading early failure ≈1–4% implant-l
 | [[implants/osteotomy-thermal/piattelli-1998-histologic-evaluation-eight-cases-failed]] | Case series, 8 retrieved implants, human | case-report | ① Overheating (histological fingerprint) | 6-feature pattern in all 8: bone sequestra, no regeneration, inflammatory gap, unorganized clot, compact mature bone, secondary bacteria — no radiographic correlate |
 | [[implants/peri-implantitis/piattelli-2003-clinical-histologic-aspects-dental-implants]] | Retrospective, 51 retrieved implants, human | retrospective | ② Late mechanical failure endpoint | Universal 600–1,100 µm fibrous encapsulation; compact mature bone; no bacteria — distinct from peri-implantitis and thermal necrosis |
 | [[implants/peri-implantitis/abukraa-2025-peri-implant-bone-necrosis-clinical]] | Case series, 5 patients / 10 implants, human | case-report | ② + ③ (PIBN convergence) | First human biopsy-confirmed overcompression PIBN; identical histological endpoint to peri-implantitis PIBN — timing is the only differentiator |
+| [[implants/peri-implantitis/gong-2022-novel-histopathological-classification-implant]] | PRISMA SR, 28 studies, 37 implants | sr | ④ RPI histopathology | 5-class IPL classification; periapical cyst 57% most common; apicoectomy 97% success; apical radiolucency universal |
+| [[implants/peri-implantitis/gao-2024-prevention-retrograde-peri-implantitis-pulpal]] | Literature review, 73 cases | narrative-review | ④ RPI etiology/prevention | Adjacent-tooth pulpal/periapical disease = primary cause; no standardized guidelines; directional definition (apex → coronal) |
+| [[implants/peri-implantitis/shah-2016-radiographic-classification-retrograde-peri-implantitis]] | Lit review, 54 IOPAs | narrative-review | ④ RPI radiographic severity | Mild <25% / Moderate 25–50% / Advanced >50% of implant length from apex; apical radiolucency + preserved coronal bone |
 | [[overviews/early-implant-failure-risk-prevention-overview]] | Overview | synthesis | Timing axis | EIF ≈1–4% implant-level; failure to achieve (not loss of) osseointegration |
 | [[overviews/high-insertion-torque-primary-stability-crestal-bone-overview]] | Overview | synthesis | ② context | Harm-leaning and null high-torque syntheses coexist; torque partly reads the bone bed |
 
@@ -185,3 +214,6 @@ The usable differential is timing (pre-loading early failure ≈1–4% implant-l
 - [[overviews/peri-implantitis-management-overview]] — treatment once mechanism ③ is diagnosed; its defect-configuration discussion is the peri-implantitis side of the shape-overlap caveat.
 - [[overviews/implant-failure-mbl-risk-factors-overview]] — late/established failure and MBL risk factors beyond the three mechanisms considered here.
 - [[overviews/osseodensification-clinical-applications]] — the benefit case for compaction; Coyac's destructive regime is its ceiling, not its refutation.
+- [[implants/peri-implantitis/gong-2022-novel-histopathological-classification-implant]] — mechanism ④ histopathological classification: 5-class IPL system, periapical cyst 57%, treatment decision tree.
+- [[implants/peri-implantitis/shah-2016-radiographic-classification-retrograde-peri-implantitis]] — mechanism ④ radiographic severity: mild/moderate/advanced staging from apex.
+- [[implants/peri-implantitis/gao-2024-prevention-retrograde-peri-implantitis-pulpal]] — mechanism ④ etiology and prevention: adjacent-tooth pulpal disease as primary RPI cause.
