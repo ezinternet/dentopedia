@@ -65,6 +65,7 @@ tags: [palatal-positioning, sagittal-root-position, emergence-angle, placement-t
 > - **협측 간극(buccal gap) 관리가 경조직의 핵심**: 간극 >2 mm는 Type 1A 생존을 +3.1 PP 올린다(근관감염 부재 +2.6 PP; Hamilton 2023). 간극은 이식재로 채우고, 열개(dehiscence) 소켓은 morphotype에 따라 재생전략을 단계화하되 Type III(열개+안면퇴축)와 인접치까지 확장된 결손은 **절대금기** (Cosyn 2026).
 > - **즉시식립+즉시수복(IIPR) 장기 결과**: 17편 SR에서 성공률 97.96%, 생존율 98.25%(평균 31.2개월 추적), 중안모 점막변화 <0.95 mm — 두꺼운 생체형(전체 60.5%)·무피판(65.6%)·간극 이식(64.7%) 프로토콜에서 이 결과가 도출됨. 엄격한 환자 선별이 공통 전제 (Weigl 2016 SR).
 > - **임상 takeaway**: IIP 심미성공 = 케이스선별(협측벽 intact·중간/두꺼운 생체형·간극 ≥2 mm·감염 없음) × 구개측 식립 × 간극 이식 × (얇으면) CTG × (안정성 충분하면) 즉시 임시수복. 비폐쇄 개방치유(open healing)도 선별된 전치부에서 일차봉합과 동등(정중협측 점막 SMD −0.26, 비유의; 근심유두는 오히려 유리; Zadikian 2026). **심미 결과를 선형 지표만으로 평가하면 즉시보철의 실제 이득을 놓친다** — 체적 분석이 더 민감한 측정 도구다 (Wang 2020).
+> - **맞춤 치유 지대주(Tamim 2025 SR+MA, RCT 6편, 249개, 2026-10-28 추가)**: 심미부 즉시 식립에서 맞춤 치유 지대주 (Custom Healing Abutment, CHA)가 기성 치유 지대주보다 핑크 심미 점수 (Pink Esthetic Score, PES)를 높이고 순측 중앙 점막 퇴축을 3–6개월과 12개월에 줄였다. 임플란트주위 건강·생존은 같았다(GRADE 중등도). 즉시 임시보철이 불가할 때의 윤곽 보존 대안이다. [확인]
 
 ## Three-line Summary
 
@@ -242,3 +243,5 @@ Assess buccal wall + biotype + infection + gap **before** committing.
 - [[immediate-implant/esthetic-soft-tissue/slagter-2014-immediate-placement-esthetic-zone-sr]] — SR on immediate implant placement in the esthetic zone; pink esthetic outcomes and mucosal recession (sr, 2014)
 - [[immediate-implant/esthetic-soft-tissue/rieder-2014-placement-restoration-timing-esthetic-outcome-rct]] — RCT on placement and restoration timing effects on esthetic outcomes (rct, 2014)
 - [[immediate-implant/socket-shield/venkatraman-2023-comparison-soft-tissue-volumetric]] — RCT (n=22, maxillary incisor, immediate loading): socket shield technique (SST) vs conventional; buccal soft-tissue volumetric change by digital cast superimposition + PES over 12 months
+- [[immediate-implant/esthetic-soft-tissue/tamim-2025-custom-healing-abutment-immediate-implant]] — 신규 2026-10-28: SR+MA (6 RCTs, 249 implants): custom vs stock healing abutment in esthetic-zone IIP — higher PES and less midfacial recession at 3–6 and 12 months; health and survival equal (moderate GRADE).
+
