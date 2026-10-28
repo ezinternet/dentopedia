@@ -73,6 +73,7 @@ relations:
 > - **7년 장기 RCT 보강 (Muñoz 2025)**: 1.5 mm 매식 임플란트에 1 mm vs 3 mm 지대주를 비교한 가장 긴 추적 RCT(n=63). 3 mm군이 근심·원심 MBL 모두 유의하게 낮음(p<0.001). 임플란트주위염은 1 mm군 18.2% vs 3 mm군 3.2% — 수치 차이는 5.7배이나 탈락률 ~43%로 검정력 부족(p=0.158). **높이 3 mm의 장기 MBL 보호 효과는 확인; 주위염 예방 효과는 현재 불확실.**
 > - **형태 × 높이 교호작용 RCT (Seijas Naya 2025)**: 오목(Slim/concave) vs 직선(straight) 지대주 24개월 이중맹검 RCT(n=68). 오목 군이 MBL 유의하게 낮음(p=0.006–0.026). **결정적 발견**: 직선형에서는 지대주 높이↑ → MBL 증가(p<0.01)이지만, **오목형에서는 높이↑ → MBL 감소(역방향, p<0.01)**. 즉 "높이가 클수록 유리하다"는 원칙은 **오목 지대주를 선택했을 때만 성립** — 직선 지대주에서 높이를 키우면 오히려 불리할 수 있음.
 > - 임상 takeaway: ① 전치부·협측은 **오목/평탄(under-contoured) 윤곽**·낮은 출현각도(~32° 목표) — 볼록은 잉여 연조직을 의도적으로 밀어낼 때만 ② **지대주 높이 ≥2 mm, 가능하면 3 mm** 우선(골 보존; 단 오목 지대주 선택 시에만 높이 증가 효과가 보호 방향으로 작동) ③ 표면 처리·OAOT는 골/연조직 결정 인자가 아니므로 다른 이유(워크플로·심미)로 선택 ④ 맞춤형 치유지대주로 윤곽을 조기 형성 ⑤ 모든 형태 결정은 baseline 연조직 두께에 종속.
+> - **Ra 0.2 µm 임계값의 원출처(Bollen 1997, 2026-10-28 추가)**: Pirc 2026이 제시한 "표면조도 <0.2 µm Ra" 연마 목표는 Bollen 1997 서술 리뷰에서 나온 값이다. 이 아래로는 세균 부착이 더 줄지 않고, 위로는 조도에 비례해 치태가 늘어난다. 구강 내 경조직 일반에 대한 1997년 초록 근거라 임플란트 지대주에 대한 직접 검증은 아니다. [확인]
 
 ## Three-line Summary
 
@@ -228,3 +229,5 @@ A favorable emergence profile is only clinically useful if it survives the trans
 - [[overviews/keratinized-mucosa-peri-implant-health-overview]] — sibling overview on the soft-tissue thickness/keratinized-mucosa axis that moderates every emergence-profile effect here
 - [[overviews/peri-implant-soft-tissue-dehiscence-prevention]] — sibling overview on preventing buccal mucosal recession/dehiscence, the outcome the shape lever directly controls
 - [[implants/peri-implantitis/pirc-2026-concave-convex-emergence-profiles-mucosal-ma]] — MA on concave vs convex emergence profiles: mucosal tissue response, peri-implant health outcomes, and profile-design recommendations (ma, 2026)
+- [[dental-materials/bollen-1997-comparison-surface-roughness-oral-hard]] — 신규 2026-10-28: original source of the Ra ≈0.2 µm plaque-retention threshold cited via Pirc 2026 (narrative review, abstract only).
+
