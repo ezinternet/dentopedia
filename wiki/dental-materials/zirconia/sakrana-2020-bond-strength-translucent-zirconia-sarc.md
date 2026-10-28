@@ -15,7 +15,7 @@ relations:
     type: related
   - target: dental-materials/zirconia/atoche-socola-2021-cleaning-zirconia-microshear
     type: related
-  - target: dental-materials/zirconia/al-fodeh-2026-monolithic-zirconia-inlays-cement-aging
+  - target: inlay/al-fodeh-2026-monolithic-zirconia-inlays-cement-aging
     type: related
 ---
 
@@ -83,5 +83,5 @@ Hot acid etching produced the highest bond strength values, attributable to SEM-
 
 - [[dental-materials/zirconia/al-akhali-2025-zirconia-cleaning-bonding-duration]] — 72h delay after APA; Ivoclean vs alcohol vs Katana Cleaner for long-term durability
 - [[dental-materials/zirconia/atoche-socola-2021-cleaning-zirconia-microshear]] — cleaning method comparison for zirconia microshear bond strength
-- [[dental-materials/zirconia/al-fodeh-2026-monolithic-zirconia-inlays-cement-aging]] — monolithic zirconia inlay cement comparison with aging
-- [[dental-materials/zirconia/alammar-2022-zirconia-bonding-durability-clinical-outcomes-sr]] — SR on zirconia bonding durability clinical outcomes
+- [[inlay/al-fodeh-2026-monolithic-zirconia-inlays-cement-aging]] — monolithic zirconia inlay cement comparison with aging
+- [[prosthetic-materials/alammar-2022-zirconia-bonding-durability-clinical-outcomes-sr]] — SR on zirconia bonding durability clinical outcomes
