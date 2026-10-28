@@ -32,6 +32,7 @@ tags: [periodontics, classification, non-surgical, regeneration, spt, peri-impla
 > - **초치조상부 조직부착(Supracrestal Tissue Attachment, STA / 생물학적 폭경, Biologic Width) — 고정값 아님**: 디지털 중첩 연구(CBCT+구강스캔, 203치)에서 평균 2.05 mm이나 하악>상악·전치>구치에서 더 크고, 협측 골두께·치은두께·각화치은폭과 역상관 → "박형 치주표현형(thin phenotype)"일수록 STA가 크다 (Abdulkarim 2024). 수복 변연·크라운연장 계획 시 일률적 2 mm 적용은 금물.
 > - **교정적 정출(Forced Eruption)** — 우식·파절이 STA를 침범했거나 페룰(ferrule) 부족 시, 절제형 크라운연장의 보존적 대안. 인접치 골 보존·crown-to-root 비 개선이 장점이나 치료기간 연장·섬유절제술(fiberotomy) 필요; 임플란트 식립부 개발 목적이면 반대로 PDL 장력으로 골을 따라오게 유도 (Huang 2021). 활동성 치주염은 절대 금기(정출 시 치은퇴축만 유발).
 > - **시멘트질 열개(Cemental Tear)** — 수직치근파절·근관질환·치주질환으로 오진되기 쉬운 저인지 병소. 중국 다기관 전문가합의(Liang 2025)는 위치 기반 치료 결정트리(치관측 3분의1 vs 근단측)와 완전 조각제거 원칙을 제시(1년 기능보존율 94%); 홍콩 후향적 단면연구(Lee 2025, n=445치)는 유병률 5.6%(기존 문헌의 3배)와 4개 독립위험인자(전치부, 치아동요도, 심한 치조골소실 ≥70%, 오히려 "적절한" 근관충전 — OR 8.38)를 확인, 단순 치근단방사선사진의 CBCT 대비 민감도는 0.60에 불과.
+> - **생체활성유리 단독 재생(Jafari 2026 SR+MA, RCT 12편, 406 결손, 2026-10-28 추가)**: 치주 결손에서 생체활성유리 (Bioactive Glass, BG)가 탐침 깊이 감소 MD 1.27 mm, 임상부착수준 획득 MD 1.49 mm로 유의했다. 소규모 RCT·중등도~높은 이질성이고 대조군 구성은 초록에서 확인되지 않아 GTR/EMD 병용(Stavropoulos 2021)과 순위를 매길 수 없다. [확인]
 
 ## Three-line Summary
 
@@ -408,6 +409,7 @@ SRP 강한 권고; 전신 독시사이클린 추가 PPD 이득 0.2–0.4 mm(소)
 - 오존 겔 보조 = [근거약함] (Barahim 2024 n=12/group).
 - 축 6b STA/생물학적 폭경 = [근거중간] (Abdulkarim 2024 retrospective n=19, Huang 2021 narrative-review).
 - 축 6c 시멘트질 열개 = [확인] (Liang 2025 consensus, 근거기반은 case-report 위주 Level 4) + [근거중간] (Lee 2025 cross-sectional n=445).
+- [[periodontics/jafari-2026-clinical-efficacy-of-bioactive-glass]] — 신규 2026-10-28: SR+MA (12 RCTs, 406 defects): bioactive glass alone — PD reduction MD 1.27 mm, CAL gain MD 1.49 mm; moderate–high heterogeneity; abstract only.
 
 ## Clinical Quiz
 <!-- quiz_spec -->
