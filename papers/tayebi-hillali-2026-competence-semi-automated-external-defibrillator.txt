@@ -1,0 +1,93 @@
+Title: Competence in the use of a semi-automated external defibrillator among undergraduate dental students: evaluation and proposal for improvement
+Authors: Tayebi-Hillali H, Aballe M, Santana D, Varela-Aneiros I, Diniz-Freitas M, Diz-Dios P
+PMID: 42919346
+PMC: PMC13692938
+DOI: 10.1186/s12909-026-10025-z
+Journal: BMC Medical Education (BMC Med Educ)
+Year: 2026, published 2026-07-27
+
+Introduction
+
+The annual incidence of out-of-hospital cardiac arrest is estimated at 350,000 cases in Europe and 400,000 cases in the United States, with survival rates barely reaching 10%. Approximately 70-85% of these cardiac arrests are of cardiac origin.
+
+The combination of conventional CPR with early defibrillation through an automated defibrillator, applied by trained non-healthcare professionals, significantly improves survival. More than 90% of out-of-hospital cardiac arrest episodes could potentially be reversed if defibrillation were delivered within the first minute; however, survival probability decreases rapidly over time (~10% decline per minute of delay).
+
+The dental clinical environment represents a particularly high-risk setting for medical emergencies, whose prevalence is increasing in parallel with population aging and widespread use of multiple medications. Retrospective surveys report prevalence of 0.5-2 medical emergencies per dentist per year. Incidence ranges from 3.7 per 100,000 outpatients (Japanese University Dental Hospital) to 37 per 100,000 (Australian Dental School). Syncope and hypoglycemia were most frequently reported emergencies. Although cardiac arrest incidence in dental practice is low (~0.003 events per dentist per year), consequences can be catastrophic if not managed promptly.
+
+The study aims to: (1) evaluate practical competence of final-year dental students in operating an AED in simulated environment, (2) develop alternative instruction set based on identified deficiencies, and (3) assess impact of modified instructions. Secondary objectives: influence of sex and prior training on performance.
+
+Methods
+
+Design: Simulation-based assessment study, OSCE-style format. Conducted during academic years 2023-2024 (Phase 1) and 2024-2025 (Phase 2).
+
+Setting: University of Santiago de Compostela, Spain (Faculty of Dentistry). Bioethics Committee approved.
+
+Participants: Final-year dental students. Inclusion: enrolled in final year, no physical limitation preventing kneeling, voluntary consent.
+
+Equipment: Training AED (Philips HeartStartFRx, Philips Ibérica), adult and pediatric electrodes, resuscitation manikin (Laerdal España) fitted with wet T-shirt and metallic necklace (realistic simulation context), scissors, absorbent paper.
+
+Procedure: Simulated cardiorespiratory arrest scenario. Simulation facilitator acted as non-intervening second rescuer. Stopwatch measured time to first shock delivery.
+
+Phase 1 (2023-2024): Conventional AED voice prompts (Philips device), 22-second instructions.
+Phase 2 (2024-2025): Modified longer instructions (80 seconds), developed based on errors identified in Phase 1.
+
+Assessment tool (10 items, 3 domains):
+- Preparation (4 items): turn on AED, check battery, follow verbal instructions, connect electrodes to monitor
+- Electrode Placement and Shock Delivery (4 items): place electrodes on bare dry chest, remove rescuers during analysis, ensure no contact before shock, deliver shock when indicated
+- Post-shock Actions (2 items): immediately resume CPR, reevaluate patient at 2 minutes
+
+Competence criterion: 100% of critical steps completed correctly.
+
+Statistical analysis: Chi-square/Fisher's exact test for categorical variables. Mann-Whitney U test for time to shock delivery (non-parametric).
+
+Results
+
+Phase 1 (2023-2024): n=42 students (93.3% participation; 33F, 9M)
+- Prior BLS/AED training: 14.2% (6/42)
+- No university-led BLS training during degree: 85.7%
+- Performance: In 8 of 10 items, <10% (range 0-9.5%) correctly completed required actions
+- Battery check: 0% compliance
+- Turned on AED correctly: 4.8%
+- Electrode connection to monitor: 80.9%
+- Delivered shock: 59.5%
+- Median time to shock delivery: 143 s (95% CI 129-156 s)
+
+Phase 2 (2024-2025): n=39 students (31F, 8M)
+- Prior BLS/AED training: 7.6% (3/39)
+- No university-led BLS training: 92.3%
+
+Comparative results (Phase 1 vs Phase 2):
+| Item | Phase 1 | Phase 2 | p-value |
+|---|---|---|---|
+| Power On | 4.7% | 100% | <0.001 |
+| Check Battery | 0% | 61.5% | <0.001 |
+| Follow Instructions | 4.7% | 97.4% | <0.001 |
+| Electrode Connection to Monitor | 80.9% | 100% | 0.006 |
+| Electrode Placement on Patient | 7.1% | 87.1% | <0.001 |
+| Remove Rescuers | 14.2% | 87.1% | <0.001 |
+| Do Not Touch Patient | 7.1% | 46.1% | <0.001 |
+| Deliver Shock | 59.5% | 76.9% | 0.150 |
+| Resume CPR | 9.5% | 7.6% | 1.000 |
+| Reevaluation | 9.5% | 0% | 0.117 |
+| Time to shock delivery | 143 s | 116 s | <0.001 |
+
+Key findings:
+- Modified instructions reduced time to shock delivery by 27 s (143→116 s, p<0.001)
+- Post-shock CPR resumption remained poor in both phases (9.5% vs 7.6%, p=1.000)
+- Post-shock reevaluation: 9.5% in Phase 1, 0% in Phase 2 (neither significant)
+- No significant sex differences in overall performance
+- Prior BLS/AED training did not guarantee competence
+
+Discussion
+
+Ideal time to shock delivery should not exceed 1 minute (90 s accepted minimum). Median of 143 s in Phase 1 (>2 min) is concerning. Similar findings reported by Breuer et al. (time from opening defibrillator to rhythm analysis already approached 1 min). Modified instructions were longer but resulted in shorter time, probably reflecting reduced extraneous cognitive load.
+
+Similar deficiencies in other European countries: Belgium, Poland, Italy, Greece (~half of surveyed dentists had not received specific undergraduate BLS/AED training).
+
+ILCOR recommendations: periodic refresher training, preferably incorporating simulation- and manikin-based practice every 12-24 months for long-term retention.
+
+Limitations: Convenience sample, no sample size calculation, marked sex imbalance (~1 male per 5 students), simulation duration limited reevaluation assessment, AED model-specific results.
+
+Conclusion
+
+Dental students demonstrate insufficient preparedness for use of a semi-automatic external defibrillator. Provision of clearer verbal instructions markedly improves performance. Findings support integration of specific AED training into the undergraduate dental curriculum. Optimizing voice instructions should complement, not replace, structured training programs.
