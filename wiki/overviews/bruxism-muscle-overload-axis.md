@@ -139,8 +139,10 @@ Clinical takeaway: for implant patients with bruxism, use splint as first-line p
 | [[implants/survival/teles-2026-implant-performance-10yr-crosssectional]] | cross-sectional (10yr+) | 생존율 95.5%·주위염 31.4%; 브루시즘 = 생물학적+기계적 이중 위험인자 |
 | [[implants/survival/larsson-2023-risk-factors-associated-with-failure]] | retrospective (278명 Cox) | 이갈이·남성 = 단관 보철 실패의 독립 예측인자; 5년 CSR 93.5% |
 | [[implants/survival/chrcanovic-2020-isfpd-2to6-unit-9yr-bruxism]] | retrospective (642명 876보철 9년) | 이갈이+캔틸레버 → ISFPD 기계 합병증 유의↑; CSR 30년 72.7% |
+| [[implants/survival/chawki-2026-particularities-of-the-implant-supported]] | sr (20 코호트, 9,313명/31,209개) | 이갈이 환자 임플란트 생존 57.5–100%·보철 생존 70.6–100%로 비이갈이보다 일관되게 낮음; 기계적 합병증 최대 60%; 규칙적 스플린트 착용 시 보철 재료 마모 1.8배 감소 (관찰연구만) |
+| [[implants/survival/stoichkov-2018-analysis-of-the-causes-of]] | retrospective (101명/218개, 3–10년) | 픽스처 파절 2.3%; 부적절한 계획·이갈이·교합 오류가 주 원인, 단관 보철에 집중, 부하 초기 수년에 발생 |
 
-요약: 임플란트는 PDL이 없어 과부하를 흡수·감지하지 못한다. 그래서 이갈이의 하드웨어 합병증이 자연치보다 직접적이다. Vidal 2025 SR+MA가 최초로 OR로 정량화했고(기계적 합병증 전체 OR 6.10), Larsson 2023·Chrcanovic 2020 회귀 데이터가 장기 예후를 뒷받침한다. Shafiee 2025는 스플린트 응력 감소 33–73%로 1차 보호의 역학적 기전을 확인. **식립 전 bruxism 스크리닝**(반복 보철 파절력, 교근비대·linea alba·교모, EMG/PSG)이 표준 단계가 되어야 한다는 게 Song 2021의 핵심 주장. 깊이는 [[overviews/implants-clinical-decision-ladder]].
+요약: 임플란트는 PDL이 없어 과부하를 흡수·감지하지 못한다. 그래서 이갈이의 하드웨어 합병증이 자연치보다 직접적이다. Vidal 2025 SR+MA가 최초로 OR로 정량화했고(기계적 합병증 전체 OR 6.10), Larsson 2023·Chrcanovic 2020 회귀 데이터가 장기 예후를 뒷받침한다. Shafiee 2025는 스플린트 응력 감소 33–73%로 1차 보호의 역학적 기전을 확인. Chawki 2026 SR(31,209개)은 이갈이 환자의 생존 하한이 57.5%까지 내려가고 스플린트가 재료 마모를 1.8배 줄인다는 임상 쪽 짝을 더했고, Stoichkov 2018은 픽스처 파절(2.3%)이 이갈이·교합 오류와 단관 보철에 몰린다는 것을 보였다(2026-10-28 추가). **식립 전 bruxism 스크리닝**(반복 보철 파절력, 교근비대·linea alba·교모, EMG/PSG)이 표준 단계가 되어야 한다는 게 Song 2021의 핵심 주장. 깊이는 [[overviews/implants-clinical-decision-ladder]].
 
 ### 중재의 작용 지점 — 사슬 매핑
 
