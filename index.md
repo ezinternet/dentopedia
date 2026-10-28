@@ -5286,3 +5286,48 @@ tags: []
 
 - [[overviews/last-lipid-emulsion-dental-overview]] — LAST·ILE 구조 종합(8편, 2026-10-23): 치과 LAST 예방·ILE 구조 — 부피바카인 심장독성(서방성 Na⁺채널 차단) vs 리도카인(가역성); 소아 고위험(α1-AGP 저하·CYP450 미숙); ILE 20% 1.5 ml/kg 볼러스 = 소아 95.2% 회복(SR); 치과의사 ILE 상세지식 0.5%·보유 14.1% — 심각한 준비도 간극; 프릴로카인 메트헤모글로빈혈증 별도 독성경로(특히 영아)
 - [[overviews/dental-vasovagal-syncope-overview]] — 치과 VVS 종합(26편): 방문 1,146,929건 중 응급 42건(0.0037%)·그중 VVS 61.9%·발치 45.2%(obata-2021, 하한) + 설문 46.30%(폴란드 419명)·56.5%(레바논 442명) + 병원 응급실 VVS 14.1%(liu-2026); LA가 삽화의 ~75% 유발·39%는 시술 전, 남자 청소년 2.69배; 기전 3축(Bezold–Jarisch / TCR=자극 중단이 1차 치료 / 정신성) + 탈신경 심장에서 서맥 없는 혈관억제형(montebugnoli-1999), 감별 6축(아나필락시스·LAST·심장성·채널병증·저혈당·아드레날린 러시), P–CAB–D(아트로핀 0.5 mg IV 최대 3 mg·에페드린 5 mg IV 최대 50 mg), 예방 근거 사다리(통증 조절만 RCT, 다리 술기 pilot, 전처치는 비치과 외삽, 글리코피롤레이트는 치과 RCT 없음), 반례 둘(동정지 kawauchi-2025 / 인공심박동기 sharma-2006)
+
+## Batch ingest (added 2026-10-28) — missing-from-index 일괄 등재 (31편)
+
+### bone-regeneration — GBR 차폐막(Ossix) + 지지체 + 치조제 보존
+- [[bone-regeneration/baggio-2025-ossix-plus-vs-biogide-rat-calvaria-gbr]] — 2025 · animal · Ossix Plus vs Bio-Gide 교차결합 vs 비교차결합 콜라겐 차폐막 비교 (rat calvaria GBR)
+- [[bone-regeneration/cook-2012-ridge-preservation-glymatrix-rct]] — 2012 · rct · GlyMatrix 교차결합 콜라겐 차폐막으로 치조제 보존 조직학적 비교 RCT
+- [[bone-regeneration/friedmann-2002-ossix-vs-ptfe-gbr-histomorphometry]] — 2002 · rct · Ossix vs ePTFE GBR 조직형태계측 RCT
+- [[bone-regeneration/friedmann-2011-rct-cross-linked-vs-non-crosslinked-lateral-augmentation]] — 2011 · rct · 교차결합 vs 비교차결합 콜라겐 차폐막 측방 치조제 증대 RCT
+- [[bone-regeneration/huang-2024-biomaterial-scaffolds-maxillofacial-bone-te]] — 2024 · narrative-review · 악안면 골 조직공학 생체재료 지지체 서술적 종합
+- [[bone-regeneration/smidt-2019-ossix-volumax-lateral-ridge-augmentation]] — 2019 · case-report · Ossix Volumax 신규 콜라겐 지지체 측방 증대 증례
+
+### bone-regeneration/ridge-preservation
+- [[bone-regeneration/ridge-preservation/ulm-2021-bundle-bone-perforation-socket-healing]] — 2021 · case-report · 다발골 다중 천공으로 골수 접근 개선 (협측 피질판 융합 해부학 설명)
+
+### bone-biology
+- [[bone-biology/yuan-2018-wnt-pdl-extraction-socket-healing]] — 2018 · animal · Wnt 반응성 치주인대 세포군이 발치와 치유 매개 (동물)
+
+### local-anesthesia — LAST·ILE 보강 + 아르티카인 비교 + 약리기초
+- [[local-anesthesia/bakir-2026-last-knowledge-awareness-dental-dentists]] — 2026 · cross-sectional · 치과의사 LAST 지식·응급 준비도 단면 조사
+- [[local-anesthesia/chakraborty-2025-articaine-lidocaine-sip-ianb-onset]] — 2025 · rct · 4% 아르티카인 vs 2% 리도카인 SIP+IANB 효능 비교 RCT
+- [[local-anesthesia/ciechanowicz-2012-last-lipid-emulsion-dental-review]] — 2012 · narrative-review · LAST 구조에서 ILE 활용 치과 서술 리뷰
+- [[local-anesthesia/gong-2026-articaine-lidocaine-dental-anesthesia-meta-analysis]] — 2026 · sr+ma · 아르티카인 vs 리도카인 치과 마취 효능 SR+MA
+- [[local-anesthesia/gulnahar-2023-articaine-lidocaine-ianb-implant-surgery-rct]] — 2023 · rct · 아르티카인 vs 리도카인 IANB 임플란트 수술 RCT
+- [[local-anesthesia/gutenberg-2013-methemoglobin-prilocaine-lidocaine-pediatric-dental]] — 2013 · rct · 소아 치과 프릴로카인 vs 리도카인 메트헤모글로빈 형성 RCT
+- [[local-anesthesia/jain-2025-psa-buccal-infiltration-maxillary-molar-extraction]] — 2025 · rct · 상악 대구치 발치 PSA 차단 vs 협측 침윤 비교 RCT
+- [[local-anesthesia/karatassas-1993-lignocaine-safety-hernia-elderly]] — 1993 · prospective · 노인 서혜부 탈장 리도카인 안전성 평가 (혈중 농도)
+- [[local-anesthesia/klein-2016-tumescent-lidocaine-estimated-maximal-safe-dosages]] — 2016 · prospective · 팽창 리도카인 추정 최대 안전 용량 prospective 연구
+- [[local-anesthesia/lee-2024-lipid-emulsion-last-pediatric-systematic-review]] — 2024 · sr · 소아 LAST 치료 ILE SR (95.2% 회복)
+- [[local-anesthesia/li-2025-anesthesia-protocols-symptomatic-irreversible-pulpitis-meta-analysis]] — 2025 · sr+ma · 증상성 비가역 치수염 국소마취 프로토콜 효능 SR+MA
+- [[local-anesthesia/moore-2008-lidocaine-epinephrine-pk-phentolamine-reversal]] — 2008 · prospective · 리도카인+에피네프린 PK 및 펜톨라민 역전 prospective
+- [[local-anesthesia/moore-2010-local-anesthetics-pharmacology-toxicity]] — 2010 · narrative-review · 국소마취제 약리·독성 종합 서술 리뷰
+- [[local-anesthesia/neal-2018-asra-last-practice-advisory-executive-summary]] — 2018 · consensus · ASRA 3차 LAST 실무 권고 요약 (ILE 표준 프로토콜)
+- [[local-anesthesia/nendumba-2025-intravenous-lipid-emulsions-drug-toxicities-review]] — 2025 · narrative-review · 약물 독성 관리에서 ILE 서술 리뷰
+- [[local-anesthesia/paladugu-2026-lidocaine-adrenaline-systemic-effects-extraction]] — 2026 · rct · 발치 시 리도카인±아드레날린 혈당·혈압 영향 RCT
+- [[local-anesthesia/panya-2025-lidocaine-mepivacaine-ianb-comparison-rct]] — 2025 · rct · 2% 메피바카인 vs 2% 리도카인 IANB 비교 RCT
+- [[local-anesthesia/saraghi-2015-local-anesthetic-calculations-pediatric-last]] — 2015 · narrative-review · 소아 LAST 예방 국소마취 용량 계산 실무 리뷰
+- [[local-anesthesia/suresh-2026-buffered-articaine-lidocaine-children-onset]] — 2026 · rct · 소아 완충 4% 아르티카인 vs 2% 리도카인 발현 시간 비교 RCT
+
+### sinus-lift/transcrestal
+- [[sinus-lift/transcrestal/canullo-2023-ossix-bone-transcrestal-sinus-augmentation]] — 2023 · rct · 치조정 접근 상악동 거상 (TSFE) Ossix + 골 이식 RCT
+
+### drug/systemic-disease — 국소마취 전신 안전성 + 실신 감별
+- [[drug/systemic-disease/gazal-2026-local-anesthetic-medically-compromised-review]] — 2026 · narrative-review · 전신질환 환자 가장 안전한 국소마취제 선택 서술 리뷰
+- [[drug/systemic-disease/mistry-2023-severe-anxiety-fainting-dental-restoration]] — 2023 · case-report · 중증 불안·실신 반복 치과 수복 환자 증례 리뷰
+- [[drug/systemic-disease/ross-2013-neurocardiogenic-syncope-child-dental-case-review]] — 2013 · case-report · 소아 치과 신경심장성 실신 증례 리뷰
