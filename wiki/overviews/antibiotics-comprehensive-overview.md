@@ -45,6 +45,7 @@ source: synthesis
 > - **약물 선택**: Amoxicillin 1차(부작용 21.5/million, 치명 0.1/million); Clindamycin 회피(치명 2.9/million, C. difficile) (Thornhill 2019). [확인]
 > - **미국 처방 실태**: 근관치료 후 19%가 항생제 복용(가이드라인 대비 과잉); 소수 인종·저학력 환자에게 더 많이 처방 (Law 2026). [확인]
 > - **국제 과처방**: 싱가포르(71-74%), 이란(51-70%), 유럽(40-86%)에서 가이드라인 대비 과처방 광범위 (Low 2026, Nazari 2026, Segura-Egea 2017). [확인]
+> - **임플란트 예방 항생제(Roca-Millan 2021 SR+MA, RCT 11편, 2,144명/4,037개, 2026-10-28 추가)**: 예방 투여가 조기 실패를 줄였고(RR 0.30, 1.55% vs 4.61%, I² 0%) 술전 1회로 충분했으며 술후 연장은 이득이 없었다(RR 0.57, NS). 단 저위험 비뚤림 RCT는 4편뿐이고, 위약 대조·저위험 RCT만 모은 후속 리뷰는 건강한 환자에서 무효과를 보고한다 — 결론은 "주려면 술전 1회"이지 "반드시 준다"가 아니다. [확인]
 
 ## Three-line Summary
 
@@ -239,3 +240,5 @@ Drug selection: amoxicillin first-line (adverse-event rate 21.5/million, fatalit
 - [[drug-antibiotic-stewardship-overview]] — **자매 오버뷰**: 스튜어드십·처방 감소 전략
 - [[drug-antibiotic-odontogenic-pain-overview]] — 치수·근단 통증 및 치성감염
 - [[drug-clinical-decision-ladder]] — drug 카테고리 허브
+- [[drug/antibiotics/rocamillan-2021-systemic-antibiotic-prophylaxis-to-reduce]] — 신규 2026-10-28: SR+MA (11 RCTs, 4,037 implants): prophylaxis RR 0.30 for early failure; single preoperative dose sufficient; postoperative continuation unjustified; only 4/11 low RoB.
+
