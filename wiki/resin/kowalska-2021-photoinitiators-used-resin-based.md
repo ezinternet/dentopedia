@@ -18,9 +18,7 @@ source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC7867280/
 text_path: /Users/oracleneo/llm-wiki/papers/kowalska-2021-photoinitiators-used-resin-based.txt
 text_filename: kowalska-2021-photoinitiators-used-resin-based.txt
 tags: [photoinitiator, camphorquinone, TPO, acylphosphine-oxide, degree-of-conversion, polymerization, dental-composite, benzoyl-germanium, BAPO, PPD]
-relations:
-  - type: reviews
-    target: "[[resin/resin-composite-overview]]"
+relations: []
 ---
 
 ## 한국어 핵심요약
