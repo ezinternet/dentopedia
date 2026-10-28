@@ -35,6 +35,9 @@ relations:
 > - **동종골 블록이 자가골·DBB 동등** (Pogacian-Maier 2024, SR+MA 7 관찰연구, 238 환자): 동결건조피질골 (Freeze-Dried Bone Allograft, FDBA) vs 탈단백우골 (Deproteinized Bovine Bone, DBB) 골부피 WMD −0.17(p=0.53, I²=81%). FDBA vs 자가골 생존 RR 1.00. [확인]
 > - **CO3Ap 상악동 데이터** (탄산칼슘아파타이트 (Carbonate Apatite, CO3Ap); Nunn 2024, SR): 인체 상악동 신생골 33.8%(7개월), 3년 임플란트 생존 100%(n=13), 잔존 이식재 14.2% vs DBBM 24.2%(소규모). RCT 없음 — 관찰 참고치. [확인]
 > - **Trimmel vs Somngam 자가골 순위 불일치 이유**: Trimmel은 복합체(이종골+BMC/PRP) 포함, 5–8개월 치유창, Bayesian; Somngam은 단일 재료만 포함, 동질 설계. 범위 차이가 불일치의 주 원인. [미검증]
+> - **RCT 4편 추가(2026-10-28)**: 돼지 이종골은 DBBM과 같았다(광물화 조직 32.51 vs 29.24%, p=.570; Galindo-Moreno 2022, 10명 분할구강). DBBM 입자 크기(소 0.25–1 mm vs 대 1–2 mm)는 신생골·4년 높이 유지·3년 생존(100%)에 차이가 없었고 골-이식재 접촉만 소입자가 높았다(27.9 vs 19.9%; Krennmair 2024). [확인]
+> - **넓은 상악동(잔존골 <3 mm)에서는 자가골 혼합이 가장 좋았다**: 이종골+자가골 70:30의 신생골 면적이 이종골+L-PRF의 약 2.7배, 이종골 단독의 약 5.6배였다(Harlos 2022, 36명). L-PRF는 단독보다 낫지만 결합조직이 많았다. 즉 Almutairi의 L-PRF 이득은 큰 결손에서 자가골을 대신하지 못한다. [확인]
+> - **골유도성 인산칼슘(BCPN, 바늘형 미세표면)**: 양 모델에서 입자형보다 신생골이 많았고, 사람 RCT 10명에서 자가골과 안정성·높이·신생골이 비슷했다(van 2023, 초록만). 표면 형상이 재료 등급만큼 중요하다는 신호다. [확인]
 > - 종합 한 줄: 기본 선택은 DBBM ± PRF이고, BCP는 신생골 최대화, 동종골은 공급원 대안, dpDTM은 자가 공급원이라는 근거로 고르는 대안이다. 임플란트 결과에서 어떤 단일 재료도 우위가 입증되지 않았으며, 복합체(이종골+BMC/PRP)가 NMA 조직계측 순위에서 자가골 단독을 앞선다. [미검증]
 
 ## Three-line Summary
@@ -105,6 +108,20 @@ The four papers above (Almutairi 2025, Motimath 2026, Alkandari 2025, Paetnukroh
 **CO3Ap sinus data (Nunn 2024 SR).** The small human sinus dataset from the Nunn 2024 carbonate apatite SR (n=13–27, observational) shows: sinus height loss 16.4–27.8%; new bone 33.8% at 7 months; 3-year implant survival 100%; resorption 14.2% vs DBBM 24.2%. These are favourable but from non-randomised studies with small n — categorize as hypothesis-generating for future RCTs, not practice-changing. CO3Ap's fast-resorption profile may reduce the residual-graft burden that DBBM accumulates.
 
 **Note on thomas-2026 internal inconsistency.** The thomas-2026 SR summary line states "autograft > xenograft ≥ allograft > alloplast," but its NBF table (Schmitt data) shows: autograft 41.7%, allograft 35.4%, alloplast/BCP 30.3%, xenograft 24.9% — placing xenograft last, not second. This inconsistency within the thomas-2026 page means the summary-line ranking should not be used directly; check the source table data instead.
+
+### Four more lateral-window RCTs (2026-10-28)
+
+| Study | Design | Comparison | Key result | Caveat |
+|---|---|---|---|---|
+| [[sinus-lift/lateral/galindomoreno-2022-maxillary-sinus-floor-augmentation-comparing]] | Split-mouth RCT, 10 pts / 20 sinuses, 6 mo | Autograft 20% + DBBM vs autograft 20% + porcine xenograft | Mineralized tissue 29.24 vs 32.51% (p=.570); remnant graft 31.00 vs 31.21%; only cellular/IHC signals differed | Enrolled 10 of 18 needed; 12–18-mo CBCT lost to COVID-19; no survival endpoint |
+| [[sinus-lift/lateral/krennmair-2024-maxillary-sinus-augmentation-with-anorganic]] | Split-mouth RCT, 11 pts / 22 sinuses, 4-yr radiographic | Small (0.25–1 mm) vs large (1–2 mm) DBBM | New bone 25.5 vs 23.6% (P=.640); bone-to-graft contact 27.9 vs 19.9% (P=.021); ~10% height loss over 4 yr in both; 100% survival at 3 yr post-loading | Abstract only |
+| [[sinus-lift/lateral/harlos-2022-histomorphometric-evaluation-of-different-graft]] | RCT, 36 pts, residual bone <3 mm, 8 mo | Xenograft + autograft 70:30 vs xenograft + L-PRF vs xenograft alone | New bone area 2678 vs 985 vs 481 µm² (p<0.05); L-PRF arm had more connective tissue | Absolute areas, not %; no implant outcomes; abstract only |
+| [[sinus-lift/lateral/van-2023-osteoinductive-calcium-phosphate-with-submicron]] | Sheep model + RCT, 10 pts | Needle-shaped submicron BCP vs grain-shaped BCP vs autograft | Needle > grain at 12 wk in sheep; clinically comparable to autograft in stability, height and core new bone | Abstract only; no effect sizes |
+
+What they change:
+- **Xenograft source and particle size are interchangeable.** Porcine behaves like bovine (Galindo-Moreno), and small and large DBBM give the same bone and the same 4-year height (Krennmair). Pick on availability, patient preference (for example, avoiding bovine material) and handling.
+- **Defect size changes the PRF answer.** In wide sinuses with under 3 mm of residual bone, Harlos 2022 found autograft mixing far ahead of L-PRF. The L-PRF benefit pooled by Almutairi 2025 (+7.07% new bone) comes mostly from ordinary defects. Where the defect is very large, a small autograft fraction is the better-supported addition. This also matches the Trimmel 2021 finding that composites rank high.
+- **Surface design matters within synthetics.** van 2023 shows that two BCPs with the same chemistry differ in bone formation because of submicron surface shape. Pooling "BCP" as one material (Alkandari 2025, Somngam 2025) hides this.
 
 ### Synthesis [미검증]
 
