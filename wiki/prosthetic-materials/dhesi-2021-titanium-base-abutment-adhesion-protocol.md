@@ -8,7 +8,7 @@ date: 2021-02-25
 category: prosthetic-materials
 evidence_level: in-vitro
 source_collection: pubmed-abstract
-source: sources/dhesi-2021-titanium-base-abutment-adhesion-protocol.md
+source: dhesi-2021-titanium-base-abutment-adhesion-protocol.md
 tags:
   - titanium-base-abutment
   - zirconia
