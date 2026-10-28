@@ -43,4 +43,4 @@ Narrative review with Medline search; inclusion based on stated threshold values
 | Materials/treatments | Wide roughness range; impact material-dependent; some techniques very smooth, others rough |
 
 ## Related Papers
-- [[dental-materials/restorative-margin-periodontal-interface-overview]] — relates surface roughness to marginal fit/contour and biofilm colonization pathways.
+- [[overviews/restorative-margin-periodontal-interface-overview]] — relates surface roughness to marginal fit/contour and biofilm colonization pathways.
