@@ -29,6 +29,9 @@ source_wiki:
 > - **임상 ladder**: ①러버댐 격리 1순위(오염이 결합력 결정자) → ②시스템 선택(2-step SE는 오염 내성, 3-step E&R은 장기 µTBS 우위) → ③간접수복 전처리(세라믹 HF+실란, 지르코니아 분사+MDP primer, 3D크라운 분사) → ④오염 시 대응(2-step은 maintain, 1-step은 decontamination).
 > - **유니버설 접착제 브랜드 선택 NMA (Karaduman 2026, SR+NMA 82편, 22종)**: 자가산부식(Self-Etch, S-E) 최고 = G2-Bond Universal (G2BU, 표면적 순위 곡선하 면적 (Surface Under the Cumulative Ranking curve, SUCRA) 5.86%); 산부식(Etch-and-Rinse, E-R) 최고 = Zipbond Universal (ZU, SUCRA 6.32%); 노화 후 최저 = G-Premio Bond (G-Premio Bond, GPB), Futurabond U (FU, 전 모드 최저); Clearfil Universal Bond Quick (CUBQ)는 E-R 노화 후 급락(SUCRA 94.17%) — 단기 S-E는 괜찮지만 장기 E-R 주의.
 > - **혼성층(hybrid layer) 품질 → µTBS 직접 예측**: SEM 나노누출(nanoleakage)이 낮을수록 즉각 결합강도(µTBS) 높음 — 2-step 자가부식(Clearfil SE Bond) 최우수, 1-step E&R(Adper Single Bond)은 완전한 콜라겐 노출에도 불구하고 최대 나노누출·최저 결합강도 (Salvio 2013, in-vitro). 2-step SE 우위의 기계론적 확증.
+> - **자가접착 레진 시멘트 (Self-Adhesive Resin Cement, SARC) 7편 추가(2026-10-28)**: 지르코니아 접착은 표면처리와 시멘트가 각각 결과를 바꾼다. 열산 부식이 가장 좋았고 Piranha 산이 가장 나빴으며 Panavia SA가 TheraCem보다 높았다(Sakrana 2020). 저온 플라즈마는 단독으로는 효과가 없었고 MDP 프라이머와 함께 쓸 때만 결합강도가 올랐다(Kamis 2023). [확인]
+> - Ti-base: 지르코니아 + TheraCem 조합이 가장 높은 전단결합강도였다(Dhesi 2021). 지르코니아 강화 리튬실리케이트 (Zirconia-reinforced Lithium Silicate, ZLS)에는 불산 45초·소성 1회가 좋았고 불산 농도는 무관했다(Moeeduddin 2020). [확인]
+> - 결합 외 성질: 근면 탈회 억제는 레진강화형 글래스아이오노머 (Resin-Modified Glass Ionomer, RMGI) > Ceramir > TheraCem > Activa 순이었고 일반 SARC(Unicem 2)는 오히려 탈회되었다(Huang 2020). 생체활성유리 1–2 wt%를 넣은 SARC는 치수줄기세포 광화를 높였고 TheraCem이 가장 낮았다(Kwon 2026). 산소 억제층은 광중합 레진과의 결합을 높이고 화학중합 레진과는 낮췄다(Patangia 2025, in-vitro 8편). [확인]
 > - **확신도**: 축 1·2·3·4·6 = 근거강함(in-vitro 한정); 축 5 stamp = 미검증(case report).
 
 ## Three-line Summary
@@ -105,6 +108,20 @@ The fatigue/aging picture is sharper once universal adhesives are compared head-
 **임상 함의**: 3D-printed crown 임상 적용 시 전처리(airborne abrasion)는 표준; HF·실란 추가 시 더 강한 결합 가능. [확인 in-vitro]
 
 **지르코니아 합착·자가접착 시멘트(self-adhesive resin cement)**: For zirconia and other indirect restorations luted with self-adhesive resin cements, both the cement chemistry and the dentin-side pretreatment matter. The 10-MDP/calcium-silicate cement TheraCem ([[resin/theracem-bisco-product-reference]]) anchors this branch: Mahrous (2020) found it out-bonded a non-MDP cement on enamel, dentin and zirconia, and Muller (2022) reported TheraCem among the strongest cements in dry and several aged (thermocycled) conditions, while also showing that build-up technique (incremental vs bulk) and mould use independently influence the bond. On the dentin side, Cotert (2024) tested desensitizers applied before luting zirconia with a self-adhesive cement (80 molars, thermocycled) and found resin/glutaraldehyde-type agents (Admira, Smart Protect, Gluma) *increased* shear bond strength while oxalate/fluoride agents performed worst — so desensitizer selection is part of the indirect-bonding decision, not a contraindication to it. Material choice also carries a biocompatibility trade-off: Deniz (2025), an L929/MTT study, found all three dual-cure self-adhesive cements reduced cell viability, with light-curing markedly less cytotoxic than autopolymerization (light-cured SpeedCem Plus least toxic, TheraCem Ca next) — favoring photopolymerization when access permits.
+
+**Seven more SARC and luting papers (added 2026-10-28)** — all in vitro, so they rank options but do not predict clinical failure:
+
+| Question | Paper | Finding |
+|---|---|---|
+| Which zirconia pretreatment? | [[dental-materials/zirconia/sakrana-2020-bond-strength-translucent-zirconia-sarc]] | On translucent zirconia after 10,000 thermocycles: hot acid etching best, airborne particle abrasion middle, Piranha acid worst; Panavia SA > TheraCem and Panavia F2.0 |
+| Does cold plasma replace sandblasting? | [[dental-materials/zirconia/kamis-2023-cold-plasma-zirconia-resin-cement-bond]] | Plasma alone no gain; plasma + 10-MDP primer comparable to sandblasting + primer — plasma raises wettability, MDP makes the bond |
+| Ti-base hybrid abutments | [[prosthetic-materials/dhesi-2021-titanium-base-abutment-adhesion-protocol]] | Ceramic and cement both mattered (p<0.0001); zirconia + TheraCem highest; 5,000 thermocycles no effect |
+| ZLS (Suprinity) with TheraCem | [[dental-materials/ceramic/moeeduddin-2020-firing-etching-zls-theracem-bond]] | Etch time (45 s best) and one firing cycle mattered; HF concentration did not (p=0.31) |
+| Caries protection at the margin | [[glass-ionomer/huang-2020-inhibition-root-dentin-demineralization]] | Root-dentin inhibition zone: RMGI 7700 µm > Ceramir 3800 > TheraCem 2100 > Activa 1400; Unicem 2 net demineralization (−2000 µm) |
+| Bioactivity toward pulp cells | [[resin/kwon-2026-biological-effects-bioactive-glass-sarc]] | Experimental SARCs with 1–2 wt% bioactive glass raised DMP1/BSP and mineral nodules; TheraCem lowest mineralization despite its calcium silicate |
+| Oxygen-inhibited layer | [[resin-bonding/patangia-2025-effect-oxygen-inhibited-layer-dental]] | SR of 8 in-vitro studies: OIL raises bond to light-cured composite, lowers it to chemically cured composite — relevant to layering and dual-cure cementation |
+
+Reading them together: for zirconia, **the primer is the constant** (Kamis, and the earlier Kwon 2026 primer result); the pretreatment and cement brand change the size of the bond. TheraCem bonds well (Dhesi, Mahrous, Muller) but its calcium-silicate "bioactivity" did not show up as pulp-cell mineralization (Kwon 2026) and its caries-inhibition zone is smaller than RMGI's (Huang 2020). For a high-caries-risk patient with a crown margin on root dentin, an RMGI luting cement has the stronger in-vitro case.
 
 ### 축 5 — Stamp Technique (Direct Composite 술기)
 
