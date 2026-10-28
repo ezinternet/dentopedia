@@ -205,8 +205,6 @@ tags: []
 
 - [[implants/short-narrow/pohl-2017-short-dental-implants-long-dental]] — 6 mm 단축임플란트 vs 11–15 mm 장축임플란트 + 상악동거상술 다기관 RCT(3년): 잔존골 5–7 mm에서 생존율 100% 대 96.9%, 변연골 변화 유사, 성공률 유사
 
-- [[implants/lee-2015-effect-thread-depth-mechanical-properties]] — 폴리우레탄 블록(저밀도골 모사)에서 임플란트 나사산 깊이 변화가 삽입토크/제거토크/기계적 거동에 미치는 영향(in vitro)
-
 - [[implants/short-narrow/ravida-2019-meta-analysis-randomized-clinical-trials]] — RCT 메타분석: 초단축(≤6 mm) vs 장기(≥10 mm) 임플란트 임상/환자보고결과 비교 — 선택된 경우 생존율 유사, 변연골소실은 맥락 의존적(SR+MA)
 
 - [[implants/short-narrow/ravida-2024-short-compared-dental-implants-different]] — SR+MA + TSA + GRADE: 다양한 임상 시나리오에서 단축(≤6 mm) vs 장축(≥10 mm) 임플란트 비교 — 상악동거상/자연골/전악 등에서 유사한 생존/합병증, 중등도~높은 근거
