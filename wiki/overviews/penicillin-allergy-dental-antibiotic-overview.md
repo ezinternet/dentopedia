@@ -56,6 +56,7 @@ relations:
 > - **예외 — 임신·B군 연쇄상구균 (Group B Streptococcus, GBS)**: 임신 중 GBS 예방의 정답은 **페니실린 G**이며 대체약이 열등하다 (Ramsey 2022). [확인] 그래서 가임기 여성의 페니실린 라벨은 치과가 아니라 산과에서 값을 치른다 — **라벨 해제 (Delabeling)의 가치가 가장 큰 집단**이다.
 > - **한국 맥락**: 국내 3차병원 10년 배양자료에서 비리단스 연쇄상구균 (Viridans Streptococcus)의 페니실린 G 감수성은 68.4%→52.0%로 하락한 반면 3세대 세팔로스포린은 93.5–95.5%로 유지 (Kwon 2023) [확인] — 한국 환경에서 세팔로스포린으로의 이동은 알레르기 논리와 내성 논리 **양쪽에서** 지지된다. 단 **한국인 페니실린 알레르기 유병률·라벨 해제 데이터는 위키에 0편.** [확인]
 > - **임상 즉시 적용 4룰**: ① 라벨을 병력으로 파고들어라(무슨 약, 언제, 어떤 반응, 이후 베타락탐 투여력) ② 미확인·저위험 라벨 = 세팔렉신/세파졸린이 1차 ③ 클린다마이신은 반사적 대체약이 아니라 최후 수단 ④ 진성 아나필락시스·혈관부종·두드러기 병력 또는 중증피부이상반응 (Severe Cutaneous Adverse Reaction, SCAR: 스티븐스-존슨증후군/독성표피괴사융해 (SJS/TEN), 약물반응호산구증가전신증상 (DRESS)) 병력이면 베타락탐 재노출 금지 + 알레르기내과 의뢰.
+> - **클린다마이신 벌점의 풀링 수치(Edibam 2023 SR+MA, 2026-10-28 추가)**: 후향 코호트 4편, 임플란트 10,853개에서 자가보고 페니실린 알레르기로 클린다마이신을 쓴 군의 실패가 OR 3.30(95% CI 2.58–4.22, I² 0%), 누적 11.0% vs 3.8%였다. 시험순차분석 필요 표본 17,421명에 못 미치고 알레르기와 약제가 여전히 분리되지 않는다. 저자들은 저위험군에 amoxicillin 250 mg 1회 경구 유발 + 1시간 관찰의 알레르기 해제 프로토콜을 제안했다. [확인]
 
 ## Three-line Summary
 
@@ -266,6 +267,7 @@ One transferable point does hold regardless of country. [확인] [[local-anesthe
 - [[overviews/antibiotics-comprehensive-overview]] — wiki-wide dental antibiotic synthesis
 
 ---
+- [[drug/antibiotics/edibam-2023-self-reported-allergy-penicillin-clindamycin]] — 신규 2026-10-28: SR+MA of 4 retrospective cohorts (10,853 implants); clindamycin-for-SRPA failure OR 3.30 (I² 0%), 11.0% vs 3.8%; TSA under-powered; proposes single-dose amoxicillin delabeling challenge. Pooled successor to Salgado-Peralvo 2021's §3(c) figures.
 
 ## Evidence Gaps
 
