@@ -20,7 +20,7 @@ tags:
   - CAD-CAM
   - in-vitro
 relations:
-  - target: dental-materials/zirconia/muller-2022-resin-cements-zirconia-bulk-ageing
+  - target: resin/muller-2022-resin-cements-zirconia-bulk-ageing
     type: related
   - target: overviews/ceramic-bonding-hf-silane-contamination-overview
     type: related
@@ -82,5 +82,5 @@ The study clarifies that increased surface roughness (Ra) and improved wettabili
 
 ## Related Papers
 
-- [[dental-materials/zirconia/muller-2022-resin-cements-zirconia-bulk-ageing]] — long-term aging of resin cement–zirconia bond
+- [[resin/muller-2022-resin-cements-zirconia-bulk-ageing]] — long-term aging of resin cement–zirconia bond
 - [[overviews/ceramic-bonding-hf-silane-contamination-overview]] — ceramic bonding mechanisms overview
