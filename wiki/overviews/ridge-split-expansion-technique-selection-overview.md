@@ -38,6 +38,7 @@ source: synthesis
 > - OD 보조 분할(Guner 2025 후향, n=268): OD가 분할 맥락에서 상악·하악구치부 ISQ를 유의하게 높이고(전부 ISQ ≥65 달성) 골폭 증대는 동등 — 즉 OD는 폭을 더 늘리진 않아도 저밀도골 1차 안정성을 보강. 단 in-vitro(Chen 2022)는 OD 확장 이득이 좁은 골(6.75 mm)에서만 나타나고 탄성반발로 식립깊이가 얕아지는 trade-off를 보임.
 > - 합병증·안전 경고: 주된 술중 위험은 협측판 골절(buccal plate fracture, 4–10%)·열개(dehiscence)이며 골폭 <3 mm에서 급증(Lin 2023); 과도한 OD 압축은 혈류 감소·발열로 임플란트 실패를 유발할 수 있음(Rizk 2024 RCT 3건 실패, López-Valverde 2025 인용). 임상근거 전반은 비무작위 위주·GRADE 낮음 → 동의서에 근거 수준 명시 권장.
 > - **2단계 해법의 현대화 — 미니플레이트 고정(Oh 2026, 증례 3)**: Enislidis 2006의 corticotomy 예비절단에 간헐적 수평 골절단 + 티타늄 미니플레이트/미니스크류 고정을 더한 변형 다단계 분할술. 협측판 조절파절 방지 + 협측·구개측 양방향 확장(상악)까지 가능해 협착 <4mm 극협착 치조제에도 적용, 3예 전부 최대 24개월 골유착·합병증 없음 — 단 하드웨어 제거 재수술이 필요하고 근거는 증례 수준.
+> - **이중 확장 절골술 vs 치조제 분할 RCT(Khalifah 2026, 2026-10-28 추가)**: 좁은 치조제에서 두 확장 술식을 직접 비교한 RCT가 들어왔지만 초록만 확보되어 폭 증가·생존·합병증 수치를 인용할 수 없다. 전문 확보 시 §2 결정표 갱신 대상이다. [확인]
 
 ## Three-line Summary
 
@@ -207,3 +208,5 @@ Piezosurgery is the recurring complication-reducer (Abdallaoui 2025 ranks it as 
 - [[overviews/bone-regeneration-protocol-ladder]] — 골재생 술식 사다리(GBR>RS>OD gain hierarchy를 증대 결정 ladder에 공급)
 - [[overviews/osseodensification-clinical-applications]] — OD 전반 의사결정(narrow-ridge spoke를 본 overview가 보강)
 - [[bone-regeneration/pohl-2023-bone-shell-technique-relocated-crestal]] — 치조제 치관측 분절을 측방 이동시켜 자가 셸로 쓰는 공여부-없는 수평증대(5명·20부위, 3.6 mm gain, PRI·판막전진 불필요); 초록 수준·무대조 — 위 서열의 동급 후보이나 근거 무게는 낮음
+- [[immediate-implant/anatomic-assessment/khalifah-2026-double-expansion-ridge-split-narrow-rct]] — 신규 2026-10-28: RCT, double expansion osteotomy vs ridge split in narrow ridges; abstract only, no numbers yet — full text pending.
+
