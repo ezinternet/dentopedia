@@ -30,6 +30,9 @@ relations:
 > - 자가 치아 유래 DDM vs DBBM(Xu 2026, RCT n=50): 3개월 중간 소켓 수평 손실은 DDM이 더 컸지만(0.77 vs 0.44 mm, p=0.006), 6개월에는 모든 치수에서 차이가 없었고 조직학은 DDM의 골 통합이 우수했다. [확인]
 > - DBBM 입자 크기(Yu 2026, 치주염 대구치 n=96): 작은 입자 대 큰 입자 차이는 비유의였고(p=.077), 벽 완전성(벽당 +1.027 mm)과 턱(하악 우위)이 결과를 결정했다. 73%가 표준 식립이 가능했다. [확인]
 > - 심미부 조기 식립(Strauss 2024, RCT n=75): ARP로 추가 GBR이 필요한 비율이 약 30%로 대조군 68.4%보다 낮았다. 그러나 1년 협측 볼록성은 ARP 여부가 아니라 식립 시 GBR 시행 여부가 좌우했다(72.7% vs 36.0%, p=0.042). [확인]
+> - RCT 5편 추가(2026-10-28): 연조직 봉쇄 아래 DBBM-C는 폭 손실을 −1.2/−1.4 mm로 막았고 자연 치유 −3.3 mm, 코팅 β-TCP −6.1 mm였다. 콜라겐 매트릭스와 자가 연조직 봉쇄는 같았다(Jung 2013, 40명). β-TCP 단독은 자연 치유보다 나빴다. [확인]
+> - 저용량 rhBMP-2 코팅 β-TCP(Wei 2025, 40명): 6주 신생골 7.72%로 β-TCP 단독 2.96%보다 많았지만 자연 치유 8.37%와 비슷했다. 식립 시 추가 증대가 필요한 비율은 36% vs 50% vs 89%였다(p=0.0447). [확인]
+> - 대안 재료: 자가 상아질 이식(Ogui 2023, 37명)은 이종골+자가골 혼합과 치수·조직계측이 같았다. 돼지 이종골은 소 이종골보다 6개월 폭 변화가 적었다(Bhatavadekar 2022, 군당 10명). 동종골+I-PRF는 3개월 폭 손실과 잔존 이식재가 적었다(Talebi-Ardakani 2024, 20 소켓). [확인]
 > - 종합 한 줄: ARP는 흡수를 줄이지만 없애지 못하고, 폭 보존은 이식재 채움만으로는 부족하다. 재료와 입자 크기는 대체로 동등한 변수이며, 소켓 완전성과 부위가 상한을 정한다. [미검증]
 
 ## Three-line Summary
@@ -189,6 +192,21 @@ A radiographic-and-profilometric secondary analysis of a three-arm parallel RCT 
 ARP roughly halved the proportion of sites needing additional GBR at placement (~30% vs 68.4%). But the 1-year facial-contour message is the caveat: restored **buccal convexity** was driven not by whether ARP was done but by whether **GBR was performed at placement** — convexity reached 72.7% (8/11) in ARP sites that also received GBR vs only 36.0% (9/25) in ARP-only sites (p=0.042). Residual buccal bone height and additional GBR were the significant adjusted predictors; profilometric (STL surface-scan) outcomes agreed with the CBCT picture. The lesson for the esthetic zone: ARP attenuates ridge change and lowers the GBR burden, but **early placement with simultaneous GBR yields the best contour regardless of whether ARP preceded it** — reinforcing the overview thesis that ARP reduces rather than eliminates the augmentation requirement.
 
 ---
+
+#### Five more ridge-preservation RCTs (2026-10-28)
+
+| Study | n | Comparison | Key result | Caveat |
+|---|---|---|---|---|
+| [[bone-regeneration/ridge-preservation/jung-2013-radiographic-evaluation-different-techniques-ridge]] | 40 | Coated β-TCP vs DBBM-C + collagen matrix vs DBBM-C + palatal graft vs spontaneous healing | Width loss 1 mm subcrestal: −1.2 / −1.4 mm (DBBM-C arms) vs −3.3 mm (control) vs −6.1 mm (β-TCP); CM and palatal graft seals equal | Abstract only; 6 mo |
+| [[bone-regeneration/ridge-preservation/wei-2025-the-clinical-efficacy-and-safety]] | 40 | Low-dose E. coli rhBMP-2 on β-TCP vs β-TCP vs natural healing | 6-wk new bone 7.72 vs 2.96 vs 8.37%; need for augmentation at placement 36 vs 50 vs 89% (p=0.0447); serum BMP-2 negative | 6-wk window; contour outcome negative; single centre |
+| [[bone-regeneration/ridge-preservation/ogui-2023-osteogenic-potential-of-autologous-dentin]] | 37 | Autologous dentin graft vs bovine xenograft + autograft (esthetic maxilla) | CBCT and histomorphometry equal (dentin new bone 72.55%); higher TNF-α in the xenograft mix | 4 mo; one surgeon; unblinded CBCT |
+| [[bone-regeneration/bhatavadekar-2022-comparative-assessment-of-bovine-versus]] | 40 (10/arm) | Bovine vs porcine xenograft, in socket preservation and horizontal augmentation | Socket width loss smaller with porcine (6.74→6.61 vs 6.3→5.8 mm, P=.01) | Product-specific; abstract only |
+| [[bone-regeneration/ridge-preservation/talebi-ardakani-2024-comparison-histological-clinical]] | 20 sockets | Allograft + injectable PRF vs allograft | Less width loss, more new bone, less residual graft at 3 mo; height NS | Small; 3 mo |
+
+What they add:
+- **β-TCP is the weak material in sockets.** In Jung 2013 coated β-TCP lost more width than leaving the socket alone, and in Wei 2025 β-TCP alone formed less bone than natural healing at 6 weeks. Adding rhBMP-2 brought β-TCP back to the level of natural healing, not above it. The gain Wei reports is fewer sites needing augmentation later.
+- **The seal can be a collagen matrix.** Jung 2013 found no difference between a collagen matrix and a palatal soft-tissue graft over DBBM-C, so the extra palatal donor site is not needed for dimensions.
+- **Autograft-free options look equivalent.** Autologous dentin (Ogui 2023) and porcine xenograft (Bhatavadekar 2022) perform like the standard materials in small single-centre trials, which agrees with Xu 2026 above that dentin-derived grafts match DBBM by 6 months.
 
 ## Related Overviews
 
