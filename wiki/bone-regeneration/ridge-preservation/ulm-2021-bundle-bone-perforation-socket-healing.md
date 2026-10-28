@@ -105,7 +105,7 @@ The technique can be applied before unassisted socket healing **or** before any 
 This paper fills the mechanistic gap between:
 
 - **Araújo 2005** ([[araujo-2005-dimensional-ridge-alterations-tooth-extraction]]) — described *what* happens (two-phase resorption; buccal worse than palatal) but explained it only as "buccal wall is mostly bundle bone" without structural anatomy
-- **Todorovic 2023** ([[../../../immediate-implant/anatomic-assessment/todorovic-2023-buccal-palatal-alveolar-bone]]) — confirmed micro-CT that buccal is <0.5 mm and bundle bone only; Ulm 2021 explains *structurally why* there is no trabecular bone behind it
+- **Todorovic 2023** ([[immediate-implant/anatomic-assessment/todorovic-2023-buccal-palatal-alveolar-bone]]) — confirmed micro-CT that buccal is <0.5 mm and bundle bone only; Ulm 2021 explains *structurally why* there is no trabecular bone behind it
 - **Chappuis 2013 / 2015** — documented clinical buccal volume loss; Ulm 2021 gives the anatomical reason
 
 The perforation concept connects to:
