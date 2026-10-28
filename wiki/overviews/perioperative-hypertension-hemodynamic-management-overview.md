@@ -32,6 +32,7 @@ source: synthesis
 > - 임플란트+골증대술 围术期 고혈압 발생률 26.77% (Liu 2024, n=728); 위험인자는 **남성(RR 1.74)·60세 이상(RR 2.35)·수술시간 >60분(RR 1.65)**, 골유도재생술 (Guided Bone Regeneration, GBR)에서 세 인자 모두 유의, 상악동 내측거상은 연령만, 외측창 거상은 모두 비유의.
 > - 마취제 영향: 에피네프린 함유 리도카인이 무혈관수축제 메피바케인보다 BP/HR 더 상승 (주로 고혈압군) → Perozo 프로토콜은 조절된 고혈압에서 **에피네프린 0.04 mg(1:100,000 2 카트리지)로 상한**.
 > - 임상 종합: 술전 BP 스크리닝(특히 SBP ≥159) → 위험 stratify → 고위험군에 지속 ECG·반복 BP·짧고 분할된 세션·불안 조절 → 수술 중 SBP ≥180 시 약물 개입(니트로글리세린 86% 사용) → 술후 회복실 모니터링·심혈관계 위험 때문에 NSAID 회피. 단 Perozo 프로토콜은 n=39 파일럿 미검증, Liu 2024는 초록만, 모니터링 근거는 단일센터 후향연구 위주 — 근거 수준 한계 명시.
+> - **ACE 억제제·ARB 복용 환자의 전신마취 저혈압(Waters 2022, 증례 2례, 2026-10-28 추가)**: 수술 24시간 이내 ACE 억제제나 안지오텐신 수용체 차단제 (Angiotensin Receptor Blocker, ARB)를 복용한 구강외과 환자 2명이 일반 승압제에 반응하지 않는 지속 저혈압을 보였고 바소프레신으로 회복되었다. 레닌-안지오텐신계 고갈로 교감신경 작용제가 듣지 않고 바소프레신은 V1 수용체로 독립 작용한다는 기전이다. 전신마취·깊은 진정 전 복용 시점 문진 근거다. [확인]
 
 ## Three-line Summary
 
@@ -194,3 +195,5 @@ The **risk-factor profile shifted by augmentation approach** (overall incidence 
 - [[drug/systemic-disease/chidiac-2026-antihypertensive-antihyperlipidemic-antidepressant-implant-survival]] — 10-yr KM: AHT HR 0.23 protective; statin HR 0.16; SSRI HR 2.17 harmful; confirms medication compliance as the key variable
 - [[drug/systemic-disease/carlos-2024-marginal-bone-loss-hypertension-hyperlipidemia-diabetes]] — cross-sectional MBL data in HTN/dyslipidemia/DM; polypharmacy confounding limits interpretation (n=57)
 - [[overviews/drug-systemic-disease-dental-management-overview]] — parent overview on medically compromised dental patients; this page is the cardiovascular/hemodynamic spoke (hypertension intraoperative management).
+- [[drug/systemic-disease/waters-2022-ace-inhibitor-or-arb-induced]] — 신규 2026-10-28: two oral-surgery GA cases of ACE-I/ARB-related refractory hypotension rescued with vasopressin (case-report).
+
