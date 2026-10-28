@@ -49,6 +49,6 @@ Ravidà et al. (2024, J Clin Periodontol) performed a systematic review of RCTs 
 
 ## Related Papers
 - [[implants/short-narrow/ravida-2019-meta-analysis-randomized-clinical-trials]]
-- [[implants/sinus-lift/thoma-2018-randomized-controlled-multicentre-study]]
-- [[implants/short-narrow/terheyden-2021-vertical-bone-augmentation-regular-implants-vs-short-implants]]
-- [[implants/short-narrow/esposito-2019-short-implants-versus-longer-implants]]
+- thoma-2018-randomized-controlled-multicentre-study (not yet ingested)
+- terheyden-2021-vertical-bone-augmentation-regular-implants-vs-short-implants (not yet ingested)
+- esposito-2019-short-implants-versus-longer-implants (not yet ingested)
