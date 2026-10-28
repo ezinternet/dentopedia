@@ -1,0 +1,1076 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="claude:viewport-fit-sides" content="cover">
+<title>임플란트 방사선 투과상 감별진단</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;600;700&family=Inter:wght@400;500;600;700&display=swap">
+<style>
+  :root {
+    --bg: #f9f8f6;
+    --surface: #ffffff;
+    --surface2: #f3f2ef;
+    --border: #e2e0db;
+    --text: #1a1917;
+    --text-muted: #6b6860;
+    --text-subtle: #9c9a93;
+
+    --thermal: #d97706;
+    --thermal-light: #fef3c7;
+    --thermal-border: #fcd34d;
+
+    --compress: #2563eb;
+    --compress-light: #dbeafe;
+    --compress-border: #93c5fd;
+
+    --periimplant: #dc2626;
+    --periimplant-light: #fee2e2;
+    --periimplant-border: #fca5a5;
+
+    --rpi: #0d9488;
+    --rpi-light: #ccfbf1;
+    --rpi-border: #5eead4;
+
+    --fibrous: #7c3aed;
+    --fibrous-light: #ede9fe;
+    --fibrous-border: #c4b5fd;
+
+    --neutral: #374151;
+    --neutral-light: #f3f4f6;
+    --neutral-border: #d1d5db;
+
+    --accent: #1d4ed8;
+    --accent-light: #eff6ff;
+
+    color-scheme: light;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: 'Noto Sans KR', 'Inter', system-ui, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+    padding-left: max(16px, env(safe-area-inset-left, 0px));
+    padding-right: max(16px, env(safe-area-inset-right, 0px));
+    padding-block: 24px;
+  }
+
+  .container {
+    max-width: 760px;
+    margin: 0 auto;
+  }
+
+  /* Header */
+  .header {
+    margin-bottom: 28px;
+  }
+
+  .header h1 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--text);
+    line-height: 1.3;
+    text-wrap: balance;
+    margin-bottom: 6px;
+  }
+
+  .header p {
+    font-size: 0.875rem;
+    color: var(--text-muted);
+    line-height: 1.5;
+  }
+
+  .header .evidence-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    background: var(--accent-light);
+    color: var(--accent);
+    font-size: 0.75rem;
+    font-weight: 600;
+    padding: 3px 10px;
+    border-radius: 99px;
+    margin-top: 8px;
+    letter-spacing: 0.02em;
+  }
+
+  /* Breadcrumb */
+  .breadcrumb {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 4px;
+    margin-bottom: 20px;
+    min-height: 28px;
+    font-size: 0.8125rem;
+    color: var(--text-muted);
+  }
+
+  .breadcrumb-item {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+  }
+
+  .breadcrumb-item span {
+    padding: 2px 8px;
+    background: var(--surface2);
+    border-radius: 6px;
+    max-width: 160px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  .breadcrumb-sep {
+    color: var(--text-subtle);
+    font-size: 0.75rem;
+  }
+
+  .breadcrumb-back {
+    display: none;
+    align-items: center;
+    gap: 6px;
+    background: none;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 5px 12px;
+    font-size: 0.8125rem;
+    color: var(--text-muted);
+    cursor: pointer;
+    font-family: inherit;
+    transition: all 0.15s;
+  }
+
+  .breadcrumb-back:hover {
+    background: var(--surface2);
+    color: var(--text);
+  }
+
+  .breadcrumb-back.visible { display: flex; }
+
+  /* Cards */
+  .card {
+    background: var(--surface);
+    border: 1.5px solid var(--border);
+    border-radius: 16px;
+    overflow: hidden;
+  }
+
+  .question-card {
+    padding: 28px 24px 24px;
+    animation: fadeSlide 0.25s ease;
+  }
+
+  @keyframes fadeSlide {
+    from { opacity: 0; transform: translateY(8px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  .question-label {
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: var(--text-subtle);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-bottom: 10px;
+  }
+
+  .question-text {
+    font-size: 1.125rem;
+    font-weight: 600;
+    color: var(--text);
+    line-height: 1.45;
+    margin-bottom: 8px;
+    text-wrap: balance;
+  }
+
+  .question-sub {
+    font-size: 0.875rem;
+    color: var(--text-muted);
+    line-height: 1.55;
+    margin-bottom: 24px;
+  }
+
+  /* Options */
+  .options {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .option-btn {
+    display: flex;
+    align-items: flex-start;
+    gap: 14px;
+    padding: 14px 18px;
+    border: 1.5px solid var(--border);
+    border-radius: 12px;
+    background: var(--surface);
+    cursor: pointer;
+    text-align: left;
+    font-family: inherit;
+    transition: all 0.18s;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .option-btn:hover {
+    border-color: var(--accent);
+    background: var(--accent-light);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(29, 78, 216, 0.08);
+  }
+
+  .option-btn:active { transform: translateY(0); }
+
+  .option-icon {
+    width: 36px;
+    height: 36px;
+    border-radius: 10px;
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.1rem;
+    margin-top: 1px;
+  }
+
+  .option-content .option-title {
+    font-size: 0.9375rem;
+    font-weight: 600;
+    color: var(--text);
+    margin-bottom: 2px;
+    line-height: 1.3;
+  }
+
+  .option-content .option-detail {
+    font-size: 0.8125rem;
+    color: var(--text-muted);
+    line-height: 1.45;
+  }
+
+  /* Result card */
+  .result-card {
+    animation: fadeSlide 0.25s ease;
+  }
+
+  .result-header {
+    padding: 20px 24px 18px;
+    border-bottom: 1.5px solid var(--border);
+    display: flex;
+    align-items: flex-start;
+    gap: 14px;
+  }
+
+  .result-icon-wrap {
+    width: 44px;
+    height: 44px;
+    border-radius: 12px;
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.3rem;
+  }
+
+  .result-header-text .result-category {
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-bottom: 3px;
+  }
+
+  .result-header-text .result-title {
+    font-size: 1.1875rem;
+    font-weight: 700;
+    color: var(--text);
+    line-height: 1.3;
+    text-wrap: balance;
+  }
+
+  .result-body {
+    padding: 22px 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .info-section h3 {
+    font-size: 0.8125rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.07em;
+    color: var(--text-subtle);
+    margin-bottom: 10px;
+  }
+
+  .info-row {
+    display: flex;
+    gap: 10px;
+    padding: 10px 14px;
+    background: var(--surface2);
+    border-radius: 10px;
+    margin-bottom: 6px;
+    font-size: 0.875rem;
+    line-height: 1.45;
+  }
+
+  .info-row:last-child { margin-bottom: 0; }
+
+  .info-label {
+    font-weight: 600;
+    color: var(--text-muted);
+    flex-shrink: 0;
+    min-width: 72px;
+  }
+
+  .info-value { color: var(--text); }
+
+  /* Warning / tip boxes */
+  .warn-box {
+    padding: 12px 16px;
+    border-radius: 10px;
+    font-size: 0.875rem;
+    line-height: 1.5;
+    display: flex;
+    gap: 10px;
+    align-items: flex-start;
+  }
+
+  .warn-box .warn-icon { flex-shrink: 0; font-size: 1rem; margin-top: 1px; }
+
+  /* Tags */
+  .tag-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+
+  .tag {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    padding: 4px 10px;
+    border-radius: 99px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.01em;
+  }
+
+  /* Shah SVG diagram */
+  .shah-diagram {
+    border: 1.5px solid var(--border);
+    border-radius: 12px;
+    overflow: hidden;
+    background: var(--surface2);
+  }
+
+  .shah-title {
+    padding: 10px 14px;
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: var(--text-muted);
+    text-align: center;
+    border-bottom: 1px solid var(--border);
+    letter-spacing: 0.03em;
+  }
+
+  .shah-svg-wrap {
+    overflow-x: auto;
+    padding: 12px;
+  }
+
+  /* Cite */
+  .cite-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+
+  .cite-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    padding: 4px 10px;
+    background: var(--surface2);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    font-size: 0.75rem;
+    color: var(--text-muted);
+  }
+
+  .cite-chip .cite-dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 99px;
+    flex-shrink: 0;
+  }
+
+  /* Reset button */
+  .reset-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    width: 100%;
+    padding: 14px;
+    border: 1.5px solid var(--border);
+    border-radius: 12px;
+    background: var(--surface);
+    font-family: inherit;
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--text-muted);
+    cursor: pointer;
+    transition: all 0.18s;
+    margin-top: 14px;
+  }
+
+  .reset-btn:hover {
+    background: var(--surface2);
+    color: var(--text);
+    border-color: var(--text-muted);
+  }
+
+  /* Progress dots */
+  .progress-dots {
+    display: flex;
+    gap: 6px;
+    margin-bottom: 16px;
+  }
+
+  .dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 99px;
+    background: var(--border);
+    transition: background 0.2s;
+  }
+
+  .dot.active { background: var(--accent); }
+  .dot.done { background: var(--text-muted); }
+
+  /* Section divider */
+  .divider {
+    height: 1px;
+    background: var(--border);
+    margin: 2px 0;
+  }
+
+  /* Responsive */
+  @media (max-width: 480px) {
+    .header h1 { font-size: 1.25rem; }
+    .question-text { font-size: 1rem; }
+    .option-btn { padding: 12px 14px; }
+    .result-body { padding: 18px 16px; }
+    .result-header { padding: 16px 16px 14px; }
+    .question-card { padding: 22px 16px 20px; }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <div class="header">
+    <h1>임플란트 방사선 투과상<br>감별진단 결정트리</h1>
+    <p>엑스레이에서 발견된 방사선 투과상(Radiolucency)의 위치·양상으로 병인을 단계적으로 감별합니다.</p>
+    <span class="evidence-badge">📄 Shah 2016 · Gong 2022 · Gao &amp; Ma 2024 근거</span>
+  </div>
+
+  <div class="breadcrumb" id="breadcrumb">
+    <button class="breadcrumb-back" id="backBtn" onclick="goBack()">← 뒤로</button>
+  </div>
+
+  <div id="treeRoot"></div>
+</div>
+
+<script>
+// ─── Data ─────────────────────────────────────────────────────────────────
+
+const RESULTS = {
+  rpi_mild: {
+    id: 'rpi_mild',
+    color: 'rpi',
+    icon: '🟡',
+    category: '역행성 임플란트 주위염 (RPI) — 경도',
+    categoryEn: 'Retrograde Peri-implantitis — Mild',
+    title: '경도 RPI (Shah Mild Class)',
+    titleEn: '< 25% implant length from apex',
+    xray: '임플란트 첨단부 <25% 방사선 투과상; 근관부 골유착 유지',
+    timing: '초기 병변; 로딩 전·후 발생 가능',
+    mechanism: '인접치 미치료 치수·치근단 병소 → 임플란트 첨단부 감염 전파 (Gao 2024)',
+    treatment: '항생제 ± 인접치 근관치료. 수술적 처치 불필요',
+    prognosis: '양호 (Good)',
+    warning: '인접치 치근단 방사선 투과상 반드시 확인 — 원인 치아 미치료 시 재발',
+    warningType: 'tip',
+    cite: ['Shah 2016 (radiographic 3-class)', 'Gao & Ma 2024 (etiology review)', 'Gong 2022 (histopathology SR)'],
+    citeColor: ['rpi', 'rpi', 'rpi'],
+    shahClass: 'mild',
+    tags: ['RPI/IPL', 'Shah Mild', '항생제', '인접치 평가 필수'],
+  },
+  rpi_moderate: {
+    id: 'rpi_moderate',
+    color: 'rpi',
+    icon: '🟠',
+    category: '역행성 임플란트 주위염 (RPI) — 중등도',
+    categoryEn: 'Retrograde Peri-implantitis — Moderate',
+    title: '중등도 RPI (Shah Moderate Class)',
+    titleEn: '25–50% implant length from apex',
+    xray: '임플란트 첨단부 25–50% 방사선 투과상; 근관부 골유착 부분 잔존',
+    timing: '진행성 병변',
+    mechanism: '인접치 치수·치근단 병소 또는 임플란트 수술 중 오염이 진행된 상태 (Gong 2022)',
+    treatment: '외과적 소파 + GBR ± 임플란트 첨단부 절제술 (Apicoectomy)',
+    prognosis: '보통 (Guarded)',
+    warning: '첨단부 절제술 단독 성공률 97% (Gong 2022 SR, 39임플란트). 낭종 확인 시 낭종 절제 필수 병행',
+    warningType: 'info',
+    cite: ['Shah 2016 (severity staging)', 'Gong 2022 (apicoectomy 97%)'],
+    citeColor: ['rpi', 'rpi'],
+    shahClass: 'moderate',
+    tags: ['RPI/IPL', 'Shah Moderate', '외과적 소파', 'GBR', '첨단부 절제술'],
+  },
+  rpi_advanced: {
+    id: 'rpi_advanced',
+    color: 'rpi',
+    icon: '🔴',
+    category: '역행성 임플란트 주위염 (RPI) — 중증',
+    categoryEn: 'Retrograde Peri-implantitis — Advanced',
+    title: '중증 RPI (Shah Advanced Class)',
+    titleEn: '> 50% implant length from apex',
+    xray: '임플란트 50% 이상 방사선 투과상; 동요도 위험',
+    timing: '말기 병변',
+    mechanism: '광범위 골소실로 임플란트 안정성 상실 위험 (Shah 2016)',
+    treatment: '임플란트 제거 + 재식립. 골이식 후 치유 확인 후 재계획',
+    prognosis: '불량 (Poor)',
+    warning: '즉시 제거 결정이 지연되면 인접 골 추가 소실 위험. 임플란트 제거 후 충분한 골 치유 기간 확보 필수',
+    warningType: 'danger',
+    cite: ['Shah 2016 (removal indication)', 'Gong 2022 (Class II acute suppurated — both failed)'],
+    citeColor: ['rpi', 'rpi'],
+    shahClass: 'advanced',
+    tags: ['RPI/IPL', 'Shah Advanced', '임플란트 제거', '재식립'],
+  },
+  thermal: {
+    id: 'thermal',
+    color: 'thermal',
+    icon: '🔥',
+    category: '수술 합병증 — 열괴사',
+    categoryEn: 'Surgical complication — Thermal necrosis',
+    title: '열괴사 (Thermal Necrosis)',
+    titleEn: 'Peri-implant bone overheating during osteotomy',
+    xray: '변연부 또는 전체 방사선 투과상; 로딩 전·수술 직후 조기 발현',
+    timing: '로딩 전 조기 발현 (Early failure)',
+    mechanism: '오스테오토미 시 47°C 이상 지속 노출 → 골세포 괴사 → 골유착 실패',
+    treatment: '임플란트 제거 → 골 치유 대기 → 조건 개선 후 재식립 (냉각수 충분, 드릴 속도·압력 재검토)',
+    prognosis: '임플란트 제거 후 재식립 성공률 높음',
+    warning: '수술 기록 검토 필수: 드릴 속도, 냉각수 사용 여부, 시술 시간. 같은 환자 다른 부위 implant도 점검',
+    warningType: 'danger',
+    cite: ['wiki overview: implant-failure-mechanism-xray-differential'],
+    citeColor: ['thermal'],
+    tags: ['열괴사', '조기 실패', '수술 기술 문제'],
+  },
+  compression_early: {
+    id: 'compression_early',
+    color: 'compress',
+    icon: '🔩',
+    category: '수술 합병증 — 과압박',
+    categoryEn: 'Surgical complication — Over-compression',
+    title: '과압박 조기 실패 (Over-compression)',
+    titleEn: 'Excessive insertion torque → ischemia',
+    xray: '변연부 또는 전체 방사선 투과상; 로딩 전 발현',
+    timing: '로딩 전 조기 발현 (Early failure)',
+    mechanism: '과도한 삽입 토크 → 임플란트 주위 허혈 → 골세포 괴사 → 골유착 실패',
+    treatment: '임플란트 제거 후 골 치유, 적절한 토크(일반적으로 35–45 Ncm)로 재식립',
+    prognosis: '적절한 조건으로 재식립 시 예후 양호',
+    warning: '픽스쳐 직경에 비해 드릴링이 부족하거나, D4 골에서 탭핑 없이 삽입 시 발생 위험 높음',
+    warningType: 'tip',
+    cite: ['wiki overview: implant-failure-mechanism-xray-differential'],
+    citeColor: ['compress'],
+    tags: ['과압박', '조기 실패', '허혈', '토크 과다'],
+  },
+  periimplantitis: {
+    id: 'periimplantitis',
+    color: 'periimplant',
+    icon: '🦷',
+    category: '임플란트 주위염',
+    categoryEn: 'Peri-implantitis (marginal bone loss)',
+    title: '임플란트 주위염 (Peri-implantitis)',
+    titleEn: 'Inflammatory crestal bone loss post-loading',
+    xray: '변연부(Crestal) 방사선 투과상 — 임플란트 목 주위부터 시작; 탐침 시 출혈·화농',
+    timing: '로딩 후 진행; 대부분 1–2년 후 발현',
+    mechanism: '치주 병원균 집락 → 임플란트 주위 점막염 → 골소실 (역행성 RPI와 방향 반대)',
+    treatment: '비외과적(소파·항생제) → 외과적 절제·GBR → 심각 시 임플란트 제거',
+    prognosis: '조기 발견·치료 시 양호; 진행된 경우 제한적',
+    warning: '임플란트 주위염 vs RPI 핵심 감별: 방사선 투과상 위치(변연부 vs 첨단부) + 치주 탐침 소견 + 인접치 치수 상태',
+    warningType: 'info',
+    cite: ['wiki overview: implant-failure-mechanism-xray-differential'],
+    citeColor: ['periimplant'],
+    tags: ['임플란트 주위염', '변연골소실', '로딩 후', '염증성'],
+  },
+  compression_late: {
+    id: 'compression_late',
+    color: 'compress',
+    icon: '📉',
+    category: '비염증성 만기 실패',
+    categoryEn: 'Late non-inflammatory failure',
+    title: '비염증성 골소실 / 만기 과부하',
+    titleEn: 'Late non-inflammatory marginal bone loss',
+    xray: '변연부 방사선 투과상 + 탐침 음성 (출혈·화농 없음)',
+    timing: '로딩 후 서서히 진행',
+    mechanism: '교합 과부하, 바이오메카닉 불균형, 픽스쳐 직경·길이 부적합',
+    treatment: '교합 조정, 보철 재제작, 필요 시 임플란트 제거 후 재계획',
+    prognosis: '원인 제거 시 비교적 양호',
+    warning: '임플란트 주위염과 달리 염증 소견 없음. 교합 분석 + 보철 점검 필수',
+    warningType: 'tip',
+    cite: ['wiki overview: implant-failure-mechanism-xray-differential'],
+    citeColor: ['compress'],
+    tags: ['만기 실패', '과부하', '비염증성'],
+  },
+  fibrous: {
+    id: 'fibrous',
+    color: 'fibrous',
+    icon: '🌫️',
+    category: '골유착 완전 실패',
+    categoryEn: 'Complete loss of osseointegration',
+    title: '섬유성 피막 / 골유착 전체 상실',
+    titleEn: 'Fibrous encapsulation — Generalized radiolucent halo',
+    xray: '임플란트 전체를 둘러싼 방사선 투과성 후광 (Halo) — 첨단부 + 변연부 동시',
+    timing: '초기 실패 또는 만기 전체 실패',
+    mechanism: '골유착 실패 → 결합조직(섬유성 피막) 형성 → 임플란트 동요도',
+    treatment: '임플란트 즉시 제거. 골이식 + 충분한 치유 후 재식립 여부 평가',
+    prognosis: '해당 임플란트 제거 불가피; 재식립 시 성공 가능',
+    warning: '전체 Halo는 교합력 → 섬유성 피막 순서로 진행될 수도 있으나, 방사선만으로 인과 판단 불가 → 임상 동요도 검사 필수',
+    warningType: 'danger',
+    cite: ['wiki overview: implant-failure-mechanism-xray-differential'],
+    citeColor: ['fibrous'],
+    tags: ['섬유성 피막', '전체 Halo', '골유착 실패', '임플란트 제거'],
+  },
+};
+
+// Decision tree
+const TREE = {
+  q_start: {
+    type: 'question',
+    id: 'q_start',
+    depth: 0,
+    label: '시작 질문',
+    text: '방사선 투과상의 위치는?',
+    sub: '엑스레이(IOPA/파노라마)에서 방사선 투과상이 어느 영역에서 관찰됩니까?',
+    options: [
+      {
+        id: 'opt_apex',
+        icon: '⬇️',
+        iconBg: '#ccfbf1',
+        title: '첨단부 (Apical)',
+        detail: '임플란트 끝(팁) 주위에만 투과상 — 근관부 골유착 유지',
+        next: 'q_shah',
+      },
+      {
+        id: 'opt_crestal',
+        icon: '⬆️',
+        iconBg: '#dbeafe',
+        title: '변연부 (Crestal/Marginal)',
+        detail: '임플란트 목(크레스트) 주위 — 치조정에서 시작하는 골소실',
+        next: 'q_timing',
+      },
+      {
+        id: 'opt_halo',
+        icon: '🔵',
+        iconBg: '#ede9fe',
+        title: '전체 Halo (Generalized)',
+        detail: '임플란트 전체를 둘러싼 투과성 후광 — 첨단부 + 변연부 동시',
+        next: 'result_fibrous',
+      },
+    ],
+  },
+
+  q_shah: {
+    type: 'question',
+    id: 'q_shah',
+    depth: 1,
+    label: 'RPI 중증도 분류 (Shah 2016)',
+    text: '방사선 투과상이 임플란트 전체 길이의 몇 %를 차지합니까?',
+    sub: '첨단부(팁)에서부터 측정. Shah 2016 기준: 임플란트 길이 대비 투과상 범위.',
+    options: [
+      {
+        id: 'opt_mild',
+        icon: '🟡',
+        iconBg: '#ccfbf1',
+        title: 'Mild (경도) — < 25%',
+        detail: '임플란트 길이의 25% 미만, 첨단부만 국한',
+        next: 'result_rpi_mild',
+      },
+      {
+        id: 'opt_moderate',
+        icon: '🟠',
+        iconBg: '#fef3c7',
+        title: 'Moderate (중등도) — 25–50%',
+        detail: '임플란트 길이의 25–50% 범위',
+        next: 'result_rpi_moderate',
+      },
+      {
+        id: 'opt_advanced',
+        icon: '🔴',
+        iconBg: '#fee2e2',
+        title: 'Advanced (중증) — > 50%',
+        detail: '임플란트 길이의 50% 이상, 동요도 위험',
+        next: 'result_rpi_advanced',
+      },
+    ],
+    diagram: true,
+  },
+
+  q_timing: {
+    type: 'question',
+    id: 'q_timing',
+    depth: 1,
+    label: '발생 시점',
+    text: '방사선 투과상이 언제 발견되었습니까?',
+    sub: '임플란트 식립 후 보철 로딩(최종 보철 장착) 전인지 후인지 기준.',
+    options: [
+      {
+        id: 'opt_before',
+        icon: '⏮️',
+        iconBg: '#fef3c7',
+        title: '로딩 전 발견 (Early failure)',
+        detail: '골유착 확인 전 또는 임시 크라운 단계에서 발견',
+        next: 'q_surgical',
+      },
+      {
+        id: 'opt_after',
+        icon: '⏭️',
+        iconBg: '#fee2e2',
+        title: '로딩 후 발견 (Late/progressive)',
+        detail: '최종 보철 장착 후 수개월–수년 경과 후 발견',
+        next: 'q_probe',
+      },
+    ],
+  },
+
+  q_surgical: {
+    type: 'question',
+    id: 'q_surgical',
+    depth: 2,
+    label: '수술 기록 검토',
+    text: '수술 기록상 해당 사항이 있습니까?',
+    sub: '식립 수술 기록, 토크 기록, 냉각수 사용 여부 확인.',
+    options: [
+      {
+        id: 'opt_heat',
+        icon: '🔥',
+        iconBg: '#fef3c7',
+        title: '열괴사 의심',
+        detail: '냉각수 부족, 드릴 속도 과다, 시술 시간 과연장 등 기록',
+        next: 'result_thermal',
+      },
+      {
+        id: 'opt_torque',
+        icon: '🔩',
+        iconBg: '#dbeafe',
+        title: '과삽입 토크 의심',
+        detail: '삽입 토크 과다(>60 Ncm), 골밀도 D4 이하, 탭핑 생략',
+        next: 'result_compression_early',
+      },
+      {
+        id: 'opt_unclear',
+        icon: '❓',
+        iconBg: '#f3f4f6',
+        title: '수술 기록 불명확',
+        detail: '기록 없음 또는 명확한 원인 식별 불가',
+        next: 'result_compression_early',
+      },
+    ],
+  },
+
+  q_probe: {
+    type: 'question',
+    id: 'q_probe',
+    depth: 2,
+    label: '탐침 소견',
+    text: '임플란트 주위 탐침(Probing) 소견은?',
+    sub: '탐침 깊이, 출혈, 화농 여부로 염증성/비염증성 구분.',
+    options: [
+      {
+        id: 'opt_inflamed',
+        icon: '🩸',
+        iconBg: '#fee2e2',
+        title: '탐침 양성 (출혈·화농)',
+        detail: '탐침 시 출혈(BOP+) 또는 화농; 임플란트 주위염 의심',
+        next: 'result_periimplantitis',
+      },
+      {
+        id: 'opt_no_inflam',
+        icon: '✅',
+        iconBg: '#f3f4f6',
+        title: '탐침 음성 (염증 없음)',
+        detail: '탐침 시 출혈·화농 없음; 비염증성 기계적 원인 의심',
+        next: 'result_compression_late',
+      },
+    ],
+  },
+};
+
+// ─── State ─────────────────────────────────────────────────────────────────
+let history = []; // [{nodeId, label, optionTitle}]
+let current = 'q_start';
+
+// ─── Render ────────────────────────────────────────────────────────────────
+function render(nodeId) {
+  current = nodeId;
+  const root = document.getElementById('treeRoot');
+
+  if (nodeId.startsWith('result_')) {
+    const key = nodeId.replace('result_', '');
+    root.innerHTML = renderResult(RESULTS[key]);
+  } else {
+    const node = TREE[nodeId];
+    root.innerHTML = renderQuestion(node);
+  }
+
+  updateBreadcrumb();
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+function navigate(nextId, optionTitle, questionLabel) {
+  history.push({ nodeId: current, label: questionLabel || '', optionTitle });
+  render(nextId);
+}
+
+function goBack() {
+  if (history.length === 0) return;
+  const prev = history.pop();
+  render(prev.nodeId);
+}
+
+function resetTree() {
+  history = [];
+  render('q_start');
+}
+
+function updateBreadcrumb() {
+  const bc = document.getElementById('breadcrumb');
+  const backBtn = document.getElementById('backBtn');
+
+  if (history.length === 0) {
+    backBtn.classList.remove('visible');
+    bc.innerHTML = '<button class="breadcrumb-back" id="backBtn" onclick="goBack()">← 뒤로</button>';
+    return;
+  }
+
+  backBtn.classList.add('visible');
+
+  let html = '<button class="breadcrumb-back visible" id="backBtn" onclick="goBack()">← 뒤로</button>';
+  history.forEach((h, i) => {
+    const short = h.optionTitle ? h.optionTitle.substring(0, 20) + (h.optionTitle.length > 20 ? '…' : '') : '…';
+    if (i > 0) html += '<span class="breadcrumb-sep">›</span>';
+    html += `<span class="breadcrumb-item"><span title="${h.optionTitle || ''}">${short}</span></span>`;
+  });
+
+  bc.innerHTML = html;
+}
+
+// ─── Question render ────────────────────────────────────────────────────────
+function renderQuestion(node) {
+  const depth = node.depth || 0;
+  const totalDots = 3;
+
+  let dotsHtml = '<div class="progress-dots">';
+  for (let i = 0; i < totalDots; i++) {
+    const cls = i < depth ? 'dot done' : i === depth ? 'dot active' : 'dot';
+    dotsHtml += `<div class="${cls}"></div>`;
+  }
+  dotsHtml += '</div>';
+
+  let optHtml = '';
+  node.options.forEach(opt => {
+    optHtml += `
+      <button class="option-btn" onclick="navigate('${opt.next}', '${escHtml(opt.title)}', '${escHtml(node.text)}')">
+        <div class="option-icon" style="background:${opt.iconBg}">${opt.icon}</div>
+        <div class="option-content">
+          <div class="option-title">${opt.title}</div>
+          <div class="option-detail">${opt.detail}</div>
+        </div>
+      </button>`;
+  });
+
+  let diagramHtml = '';
+  if (node.diagram) {
+    diagramHtml = `
+      <div class="shah-diagram" style="margin-bottom:20px">
+        <div class="shah-title">Shah 2016 — RPI 방사선 중증도 분류</div>
+        <div class="shah-svg-wrap">${shahSVG()}</div>
+      </div>`;
+  }
+
+  return `
+    <div class="card question-card">
+      ${dotsHtml}
+      <div class="question-label">${node.label}</div>
+      <div class="question-text">${node.text}</div>
+      <div class="question-sub">${node.sub}</div>
+      ${diagramHtml}
+      <div class="options">${optHtml}</div>
+    </div>`;
+}
+
+// ─── Result render ──────────────────────────────────────────────────────────
+function renderResult(r) {
+  const colors = {
+    rpi:         { bg: 'var(--rpi-light)',         border: 'var(--rpi-border)',         cat: 'var(--rpi)' },
+    thermal:     { bg: 'var(--thermal-light)',      border: 'var(--thermal-border)',     cat: 'var(--thermal)' },
+    compress:    { bg: 'var(--compress-light)',     border: 'var(--compress-border)',    cat: 'var(--compress)' },
+    periimplant: { bg: 'var(--periimplant-light)',  border: 'var(--periimplant-border)', cat: 'var(--periimplant)' },
+    fibrous:     { bg: 'var(--fibrous-light)',      border: 'var(--fibrous-border)',     cat: 'var(--fibrous)' },
+  };
+  const c = colors[r.color] || colors.fibrous;
+
+  const warnStyles = {
+    tip:    { bg: 'var(--rpi-light)',         color: 'var(--rpi)',         icon: '💡' },
+    info:   { bg: 'var(--compress-light)',    color: 'var(--compress)',    icon: 'ℹ️' },
+    danger: { bg: 'var(--periimplant-light)', color: 'var(--periimplant)', icon: '⚠️' },
+  };
+  const ws = warnStyles[r.warningType] || warnStyles.info;
+
+  let shahDiag = '';
+  if (r.shahClass) {
+    shahDiag = `
+      <div class="info-section">
+        <h3>방사선 분류도 (Shah 2016)</h3>
+        <div class="shah-diagram">
+          <div class="shah-svg-wrap">${shahSVG(r.shahClass)}</div>
+        </div>
+      </div>`;
+  }
+
+  let tagsHtml = r.tags.map(t =>
+    `<span class="tag" style="background:${c.bg};color:${c.cat};border:1px solid ${c.border}">${t}</span>`
+  ).join('');
+
+  let citesHtml = (r.cite || []).map((cite, i) => {
+    const cColor = colors[r.citeColor[i]] || colors.fibrous;
+    return `<span class="cite-chip"><span class="cite-dot" style="background:${cColor.cat}"></span>${cite}</span>`;
+  }).join('');
+
+  return `
+    <div class="card result-card">
+      <div class="result-header" style="background:${c.bg};border-color:${c.border}">
+        <div class="result-icon-wrap" style="background:${c.border}">${r.icon}</div>
+        <div class="result-header-text">
+          <div class="result-category" style="color:${c.cat}">${r.category}</div>
+          <div class="result-title">${r.title}</div>
+        </div>
+      </div>
+      <div class="result-body">
+
+        <div class="info-section">
+          <h3>방사선 소견 / 임상 패턴</h3>
+          <div class="info-row">
+            <span class="info-label">방사선</span>
+            <span class="info-value">${r.xray}</span>
+          </div>
+          <div class="info-row">
+            <span class="info-label">발생 시점</span>
+            <span class="info-value">${r.timing}</span>
+          </div>
+        </div>
+
+        ${shahDiag}
+
+        <div class="info-section">
+          <h3>병인 및 치료</h3>
+          <div class="info-row">
+            <span class="info-label">병인</span>
+            <span class="info-value">${r.mechanism}</span>
+          </div>
+          <div class="info-row">
+            <span class="info-label">치료</span>
+            <span class="info-value">${r.treatment}</span>
+          </div>
+          <div class="info-row">
+            <span class="info-label">예후</span>
+            <span class="info-value">${r.prognosis}</span>
+          </div>
+        </div>
+
+        <div class="warn-box" style="background:${ws.bg};color:${ws.color};border:1px solid ${c.border};border-radius:10px">
+          <span class="warn-icon">${ws.icon}</span>
+          <span>${r.warning}</span>
+        </div>
+
+        <div class="info-section">
+          <h3>분류</h3>
+          <div class="tag-row">${tagsHtml}</div>
+        </div>
+
+        <div class="info-section">
+          <h3>근거 (Evidence)</h3>
+          <div class="cite-row">${citesHtml}</div>
+        </div>
+
+      </div>
+    </div>
+    <button class="reset-btn" onclick="resetTree()">↺ 처음부터 다시</button>`;
+}
+
+// ─── Shah SVG ───────────────────────────────────────────────────────────────
+function shahSVG(highlighted) {
+  const W = 480, H = 140;
+  const implants = [
+    { x: 80,  pct: 15, label: 'Mild\n< 25%',    cls: 'mild',     color: '#0d9488', light: '#ccfbf1' },
+    { x: 220, pct: 37, label: 'Moderate\n25–50%', cls: 'moderate', color: '#d97706', light: '#fef3c7' },
+    { x: 360, pct: 60, label: 'Advanced\n> 50%',  cls: 'advanced', color: '#dc2626', light: '#fee2e2' },
+  ];
+  const IH = 80; // implant height
+  const IW = 14; // implant width
+  const IY = 28; // top of implant
+
+  let svg = `<svg viewBox="0 0 ${W} ${H}" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:${W}px;height:auto;display:block">`;
+
+  // bone line
+  svg += `<line x1="20" y1="${IY + IH + 4}" x2="${W - 20}" y2="${IY + IH + 4}" stroke="#94a3b8" stroke-width="1.5" stroke-dasharray="4 3"/>`;
+
+  implants.forEach(imp => {
+    const isHl = highlighted === imp.cls;
+    const opacity = highlighted && !isHl ? 0.35 : 1;
+    const rlH = IH * imp.pct / 100;
+    const rlY = IY + IH - rlH;
+
+    // implant body (grey)
+    svg += `<rect x="${imp.x - IW/2}" y="${IY}" width="${IW}" height="${IH}" rx="3" fill="#cbd5e1" opacity="${opacity}"/>`;
+
+    // radiolucency zone (colored)
+    svg += `<rect x="${imp.x - IW/2 - 4}" y="${rlY}" width="${IW + 8}" height="${rlH}" rx="3" fill="${imp.light}" stroke="${imp.color}" stroke-width="1.5" opacity="${opacity}"/>`;
+
+    // apex dot
+    svg += `<circle cx="${imp.x}" cy="${IY + IH}" r="3" fill="${imp.color}" opacity="${opacity}"/>`;
+
+    // label
+    const lines = imp.label.split('\n');
+    lines.forEach((l, i) => {
+      svg += `<text x="${imp.x}" y="${IY + IH + 22 + i * 14}" text-anchor="middle" font-size="11" font-family="Inter,sans-serif" fill="${imp.color}" font-weight="${isHl ? '700' : '500'}" opacity="${opacity}">${l}</text>`;
+    });
+
+    // highlight ring
+    if (isHl) {
+      svg += `<rect x="${imp.x - IW/2 - 6}" y="${IY - 4}" width="${IW + 12}" height="${IH + 8}" rx="5" fill="none" stroke="${imp.color}" stroke-width="2.5" stroke-dasharray="0"/>`;
+    }
+  });
+
+  // RL label left
+  svg += `<text x="18" y="15" font-size="9.5" fill="#64748b" font-family="Inter,sans-serif" font-style="italic">Radiolucency zone</text>`;
+
+  svg += `</svg>`;
+  return svg;
+}
+
+function escHtml(s) {
+  return String(s).replace(/'/g, "\\'");
+}
+
+// ─── Init ───────────────────────────────────────────────────────────────────
+render('q_start');
+</script>
+</body>
+</html>
