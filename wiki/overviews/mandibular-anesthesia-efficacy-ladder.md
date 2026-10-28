@@ -28,6 +28,9 @@ relations:
 > - **골내마취(2026-06 추가)**: 하악구치 hot tooth에서 lidocaine 골내마취(QuickSleeper5)가 보충주사 없이 성공률 100% vs 4% articaine BI 70.8%(P<0.001), 발현 빠르나 지속 짧음 (Park 2024, retrospective·단일기관 한계) → IO를 1차 대안으로 끌어올림.
 > - **술후 통증(2026-06 추가)**: 장시간형 bupivacaine이 진통제 소비 감소, topical benzocaine이 비가역 치수염 통증 감소 (Miroshnychenko 2023, ADA CPG 근거).
 > - **오판 패턴**: "하악구치는 무조건 IANB" — 비가역 치수염에선 IANB 단독 자주 실패, articaine BI가 동등 대안이며 실패 시 보충 필수. "보충 vs 병용 중 하나가 우월" — Network MA상 동등.
+> - **마취제 선택 RCT 3편 추가(2026-10-28)**: 증상성 비가역 치수염 하악 제1대구치 IANB에서 4% articaine가 2% lidocaine보다 발현이 빠르고(4.3 vs 7.8분) 지속이 길며 통증이 적었다(Chakraborty 2025, n=100). 반면 하악 구치부 임플란트 수술(Gulnahar 2023, n=577)에서는 주사·수술 통증과 입술 마비 시간이 같았다. 즉 articaine 우위는 염증 조직에서 나타나고, 염증이 없으면 술기가 결과를 정한다. [확인]
+> - **소아 완충 articaine(Suresh 2026, n=100, 6–12세)**: 발현이 37.6% 빨랐고(72 vs 115초) 주사 통증이 낮았으며(VAS 2.25 vs 3.93) 협조도가 좋았다. 치수 마취 성공률은 같았다(84 vs 82%). 이점은 편안함과 속도이지 성공률이 아니다. [확인]
+> - **상악 대구치 발치(Jain 2025, n=150)**: 후상치조신경 (Posterior Superior Alveolar, PSA) 전달마취와 협측 침윤의 통증·보충 마취 필요가 같았고, PSA만 합병증(혈종·개구장애·흡인 양성) 4.0% vs 0%였다(p=0.03). 상악 대구치는 침윤이 기본이다. [확인]
 > - **확신도**: 1차 BI(성인)·마취제 통증·N2O = 근거강함; 소아 BI·보충/병용 = 합의수준. 4% articaine IANB 전달의 신경독성 논쟁은 별도 고려.
 
 ## Three-line Summary
@@ -113,6 +116,15 @@ Nitrous-oxide sedation succeeds in 94.9% of cases, significantly higher in adult
 - [[local-anesthesia/alsharif-2026-minb-vs-ianb-mandibular-premolar-sip-sr]] — SR+MA comparing mental/incisive nerve block (MINB) vs IANB for mandibular premolar anaesthesia in symptomatic irreversible pulpitis; success rates and supplementary injection requirements (sr+ma, 2026)
 
 **갱신 메모 (2026-09-21)**: Alsharif 2026 extends the §2 block-selection axis to premolars — provides premolar-specific block alternative (MINB) when IANB is planned, complementing the existing molar-centered Rujirawan 2025 evidence.
+
+### 신규 추가 (2026-10-28) — 마취제·술식 선택 RCT 4편
+
+- [[local-anesthesia/chakraborty-2025-articaine-lidocaine-sip-ianb-onset]] — 증상성 비가역 치수염 IANB: 4% articaine 발현 4.3 vs 7.8분, 지속 120.8 vs 64.9분, SF-MPQ 1.09 vs 1.63 (모두 p<0.001) (rct, n=100, 2025)
+- [[local-anesthesia/gulnahar-2023-articaine-lidocaine-ianb-implant-surgery-rct]] — 하악 구치부 임플란트 수술 IANB: articaine와 lidocaine의 주사·수술 VAS, 입술 마비 시간 모두 차이 없음 (rct, n=577/1,185개, 2023)
+- [[local-anesthesia/suresh-2026-buffered-articaine-lidocaine-children-onset]] — 소아 완충 4% articaine vs 비완충 2% lidocaine: 발현 72 vs 115초, 주사 통증↓, 치수 성공률 84 vs 82% (NS) (rct, n=100, 2026)
+- [[local-anesthesia/jain-2025-psa-buccal-infiltration-maxillary-molar-extraction]] — 상악 제2·3대구치 발치: PSA와 협측 침윤 통증 동등(VAS 2.11 vs 2.02), PSA 합병증 4.0% vs 0% (rct, n=150, 2025)
+
+**갱신 메모 (2026-10-28)**: Chakraborty와 Gulnahar를 나란히 읽으면 §3(마취제 선택)이 조건부가 된다. articaine의 발현·지속 이득은 염증 조직(hot tooth)에서 나타나고, 염증이 없는 임플란트 수술에서는 사라진다. 비염증 상황에서는 비용·가용성·감각이상 위험으로 고른다. Suresh 2026은 완충이 소아에서 속도와 편안함을 사지만 성공률은 사지 않는다는 점을 [[overviews/buffered-modified-local-anesthetics-overview]]에 보탠다. Jain 2025는 상악 대구치에서 PSA를 쓸 이유가 없다는 근거다. [확인]
 
 ## Clinical Quiz
 <!-- quiz_spec -->
