@@ -2,7 +2,7 @@
 title: "종합 — overviews"
 authors: navigation
 year: 2026
-date: 2026-10-23
+date: 2026-10-28
 doi: N/A
 source: navigation
 category: overviews
@@ -15,20 +15,20 @@ tags: [navigation, category-index, overviews]
 > [!summary] 한국어 핵심요약
 > - **분야**: 종합
 > - **범위**: Synthesis pages spanning multiple categories
-> - **수록 논문**: 361편
+> - **수록 논문**: 363편
 
 ## Three-line Summary
 
 **Scope**: Synthesis pages spanning multiple categories
-**Indexed papers**: 361 papers in `wiki/overviews/`.
+**Indexed papers**: 363 papers in `wiki/overviews/`.
 
 ## 세줄요약
 
 **분야**: 종합
-**수록 논문**: 361편
+**수록 논문**: 363편
 **하위 카테고리**: 없음
 
-## Papers in this Category (361)
+## Papers in this Category (363)
 
 | Paper |
 |---|
@@ -50,6 +50,7 @@ tags: [navigation, category-index, overviews]
 | [[bms-orofacial-pain-neuropathic-mechanism-overview|BMS·구강안면통증 신경병성 기전 종합 (Burning Mouth Syndrome / Orofacial Neuropathic Pain — Molecular Mechanism Synthesis)]] |
 | [[bone-graft-material-selection-matrix-overview|Bone Graft Material Selection Matrix — biological-property classes, defect-type algorithm, tooth-derived autografts, and adjuncts]] |
 | [[bone-quality-implant-risk-modification-overview|Bone Quality → Implant Risk & Modification Overview (골질·골밀도별 임플란트 위험·수정전략)]] |
+| [[bone-regeneration-biologic-cell-hormone-adjuncts-overview|골재생 보조제 — 생물학적 제제·세포·호르몬·물리 자극 종합 (Biologic, Cell, Hormone & Physical Adjuncts in Alveolar Bone Regeneration)]] |
 | [[bone-regeneration-protocol-ladder|Bone Regeneration — ARP & GBR Protocol Ladder]] |
 | [[bone-regeneration-socket-biology-and-arp-critique|Socket Healing Biology & ARP Critical Appraisal — when not to graft]] |
 | [[bone-tissue-types-classification-overview|Overview: Bone Tissue Types — Cortical, Trabecular, Woven, Lamellar]] |
@@ -213,6 +214,7 @@ tags: [navigation, category-index, overviews]
 | [[isq-loading-threshold|임플란트 안정성 지수 (Implant Stability Quotient, ISQ) 부하 결정 임계값 — Confidence 등급별 매트릭스]] |
 | [[keratinized-mucosa-peri-implant-health-overview|각화점막(KM)과 임플란트주위 건강 — 위험인자·증대술 종합]] |
 | [[korean-dental-practice-management-overview|한국 치과 개원 환경 — 법적 판례·인력 분포 현황 종합]] |
+| [[last-lipid-emulsion-dental-overview|Local Anesthetic Systemic Toxicity (LAST) and Lipid Emulsion Rescue in Dental Practice]] |
 | [[lithium-disilicate-inlay-onlay-evidence|리튬디실리케이트 Inlay/Onlay/부분피개 — 임상 근거 종합]] |
 | [[local-anesthesia-category-synthesis-overview|Local Anesthesia in Dentistry — Category Synthesis Overview]] |
 | [[local-hemostasis-agents-overview|Local Hemostatic Agents in Dentistry — Context-Dependent Selection Overview]] |
