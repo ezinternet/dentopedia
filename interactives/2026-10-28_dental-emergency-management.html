@@ -1,0 +1,977 @@
+<!--
+---
+title: "치과 응급상황 대처 프로토콜"
+type: interactive
+date: 2026-10-28
+status: done
+category: drug
+agenda: agenda/2026-10-28_dental-emergency-management-interactive.md
+source_wiki:
+  - wiki/drug/medical-emergencies/gazal-2026-risk-factors-adverse-events-tooth-extraction.md
+  - wiki/drug/medical-emergencies/khattak-2026-clinical-readiness-knowledge-attitude-bls.md
+  - wiki/drug/medical-emergencies/tayebi-hillali-2026-competence-semi-automated-external-defibrillator.md
+  - wiki/drug/systemic-disease/jevon-2020-management-anaphylaxis-dental-practice-update.md
+  - wiki/drug/systemic-disease/mistry-2023-severe-anxiety-fainting-dental-restoration.md
+  - wiki/drug/systemic-disease/ross-2013-neurocardiogenic-syncope-child-dental-case-review.md
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>치과 응급상황 대처 프로토콜</title>
+<style>
+:root {
+  --bg: #F5F5F0;
+  --surface: #FFFFFF;
+  --surface2: #F9F9F6;
+  --border: #E2E2DC;
+  --text: #1A1A2E;
+  --text2: #555560;
+  --text3: #888890;
+  --red: #C0392B;
+  --red-bg: #FDF2F2;
+  --red-border: #F5C6C6;
+  --orange: #D35400;
+  --orange-bg: #FEF5EE;
+  --orange-border: #F5D6BF;
+  --yellow: #B7950B;
+  --yellow-bg: #FEFBEE;
+  --yellow-border: #F5EAC0;
+  --blue: #1A5276;
+  --blue-bg: #EBF5FB;
+  --blue-border: #C0D9EE;
+  --green: #1E8449;
+  --green-bg: #EAFAF1;
+  --green-border: #A9DFBF;
+  --accent: #2C3E7A;
+  --tag-bg: #EAECF8;
+  --tag-text: #2C3E7A;
+}
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  font-family: -apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.6;
+  min-height: 100vh;
+}
+.header {
+  background: var(--accent);
+  color: #fff;
+  padding: 20px 24px 16px;
+}
+.header h1 { font-size: 1.25rem; font-weight: 700; letter-spacing: -0.02em; }
+.header .sub { font-size: 0.78rem; color: rgba(255,255,255,0.72); margin-top: 3px; }
+.warn-bar {
+  background: #FFF3CD;
+  border-bottom: 1px solid #FFDDA6;
+  padding: 7px 24px;
+  font-size: 0.78rem;
+  color: #7B5800;
+  display: flex; align-items: center; gap: 6px;
+}
+
+/* ── 탭 네비 ── */
+.tab-nav {
+  background: var(--surface);
+  border-bottom: 2px solid var(--border);
+  display: flex;
+  overflow-x: auto;
+  scrollbar-width: none;
+  gap: 0;
+  padding: 0 16px;
+}
+.tab-nav::-webkit-scrollbar { display: none; }
+.tab-btn {
+  flex: 0 0 auto;
+  padding: 12px 16px 10px;
+  border: none;
+  background: transparent;
+  font: inherit;
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--text3);
+  cursor: pointer;
+  border-bottom: 3px solid transparent;
+  margin-bottom: -2px;
+  white-space: nowrap;
+  display: flex; align-items: center; gap: 6px;
+  transition: color 0.15s;
+}
+.tab-btn:hover { color: var(--text); }
+.tab-btn.active { color: var(--accent); border-bottom-color: var(--accent); }
+.dot {
+  width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0;
+}
+.dot-red { background: var(--red); }
+.dot-orange { background: var(--orange); }
+.dot-yellow { background: var(--yellow); }
+.dot-blue { background: var(--blue); }
+
+/* ── 패널 ── */
+.panels { padding: 20px 20px 40px; max-width: 860px; margin: 0 auto; }
+.panel { display: none; }
+.panel.active { display: block; }
+
+/* ── 응급 헤더 카드 ── */
+.em-header {
+  border-radius: 10px;
+  padding: 18px 20px 14px;
+  margin-bottom: 18px;
+  border-left: 5px solid;
+}
+.em-header.red   { background: var(--red-bg);    border-color: var(--red); }
+.em-header.orange{ background: var(--orange-bg); border-color: var(--orange); }
+.em-header.yellow{ background: var(--yellow-bg); border-color: var(--yellow); }
+.em-header.blue  { background: var(--blue-bg);   border-color: var(--blue); }
+.em-header.green { background: var(--green-bg);  border-color: var(--green); }
+.em-title {
+  font-size: 1.1rem; font-weight: 700; margin-bottom: 4px;
+  display: flex; align-items: center; gap: 8px;
+}
+.badge {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 10px;
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+}
+.badge-red    { background: var(--red);    color: #fff; }
+.badge-orange { background: var(--orange); color: #fff; }
+.badge-yellow { background: var(--yellow); color: #fff; }
+.badge-blue   { background: var(--blue);   color: #fff; }
+.em-incidence { font-size: 0.8rem; color: var(--text2); margin-top: 2px; }
+
+/* ── 2-컬럼 그리드 ── */
+.grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; margin-bottom: 14px; }
+@media (max-width: 580px) { .grid2 { grid-template-columns: 1fr; } }
+
+/* ── 카드 ── */
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 9px;
+  padding: 15px 16px;
+}
+.card-title {
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--text3);
+  margin-bottom: 10px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid var(--border);
+}
+.sym-list { list-style: none; padding: 0; }
+.sym-list li {
+  font-size: 0.85rem;
+  padding: 4px 0 4px 16px;
+  position: relative;
+  color: var(--text);
+}
+.sym-list li::before {
+  content: '';
+  position: absolute; left: 0; top: 50%;
+  transform: translateY(-50%);
+  width: 6px; height: 6px;
+  border-radius: 50%;
+  background: var(--border);
+}
+.sym-list li.key::before { background: var(--red); }
+.sym-list li.mod::before { background: var(--orange); }
+
+/* ── 단계별 프로토콜 ── */
+.protocol { background: var(--surface); border: 1px solid var(--border); border-radius: 9px; padding: 15px 16px; margin-bottom: 14px; }
+.steps { list-style: none; padding: 0; counter-reset: step; }
+.steps li {
+  counter-increment: step;
+  padding: 8px 0 8px 44px;
+  position: relative;
+  border-bottom: 1px solid var(--border);
+  font-size: 0.87rem;
+}
+.steps li:last-child { border-bottom: none; padding-bottom: 0; }
+.steps li::before {
+  content: counter(step);
+  position: absolute; left: 0; top: 9px;
+  width: 28px; height: 28px;
+  border-radius: 50%;
+  background: var(--accent);
+  color: #fff;
+  font-weight: 700;
+  font-size: 0.8rem;
+  display: flex; align-items: center; justify-content: center;
+}
+.steps li.emg::before { background: var(--red); }
+.steps li.warn::before { background: var(--orange); }
+.step-title { font-weight: 700; display: block; color: var(--text); }
+.step-detail { font-size: 0.8rem; color: var(--text2); margin-top: 2px; }
+.drug-box {
+  background: var(--accent);
+  color: #fff;
+  border-radius: 6px;
+  padding: 6px 12px;
+  font-size: 0.82rem;
+  font-weight: 700;
+  display: inline-block;
+  margin-top: 6px;
+}
+
+/* ── 임계값 박스 ── */
+.threshold-row {
+  display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 14px;
+}
+.thresh-card {
+  flex: 1 1 140px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 9px;
+  padding: 12px 14px;
+  text-align: center;
+}
+.thresh-label { font-size: 0.72rem; color: var(--text3); font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; }
+.thresh-val { font-size: 1.35rem; font-weight: 800; color: var(--accent); line-height: 1.1; margin: 4px 0 2px; }
+.thresh-cond { font-size: 0.72rem; color: var(--text2); }
+.thresh-card.safe { border-top: 3px solid var(--green); }
+.thresh-card.danger { border-top: 3px solid var(--red); }
+
+/* ── 체크리스트 ── */
+.checklist { background: var(--surface); border: 1px solid var(--border); border-radius: 9px; padding: 15px 16px; margin-bottom: 14px; }
+.check-item {
+  display: flex; align-items: flex-start; gap: 10px;
+  padding: 7px 0;
+  border-bottom: 1px solid var(--border);
+  cursor: pointer;
+  font-size: 0.87rem;
+}
+.check-item:last-child { border-bottom: none; }
+.check-box {
+  width: 20px; height: 20px; flex-shrink: 0;
+  border: 2px solid var(--border);
+  border-radius: 4px;
+  margin-top: 1px;
+  display: flex; align-items: center; justify-content: center;
+  transition: background 0.15s, border-color 0.15s;
+}
+.check-item.checked .check-box {
+  background: var(--green);
+  border-color: var(--green);
+  color: #fff;
+}
+.check-text { flex: 1; line-height: 1.4; }
+.check-sub { font-size: 0.75rem; color: var(--text2); }
+.check-progress {
+  background: var(--surface2);
+  border-radius: 6px;
+  padding: 8px 12px;
+  font-size: 0.82rem;
+  color: var(--text2);
+  margin-bottom: 10px;
+  display: flex; align-items: center; gap: 8px;
+}
+.progress-bar-wrap { flex: 1; background: var(--border); border-radius: 3px; height: 6px; }
+.progress-bar { height: 100%; background: var(--green); border-radius: 3px; transition: width 0.3s; }
+
+/* ── 통계 박스 ── */
+.stat-row { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 14px; }
+.stat-card {
+  flex: 1 1 120px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 9px;
+  padding: 12px 14px;
+  text-align: center;
+}
+.stat-val { font-size: 1.5rem; font-weight: 800; color: var(--accent); }
+.stat-label { font-size: 0.72rem; color: var(--text2); margin-top: 2px; }
+
+/* ── 출처 ── */
+.sources {
+  background: var(--surface2);
+  border: 1px solid var(--border);
+  border-radius: 9px;
+  padding: 12px 16px;
+  margin-top: 4px;
+}
+.sources-title { font-size: 0.72rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; color: var(--text3); margin-bottom: 8px; }
+.source-item { font-size: 0.75rem; color: var(--text2); padding: 2px 0; }
+.source-item b { color: var(--text); }
+
+.note-box {
+  background: var(--yellow-bg);
+  border: 1px solid var(--yellow-border);
+  border-radius: 8px;
+  padding: 10px 14px;
+  font-size: 0.8rem;
+  color: #6B4800;
+  margin-bottom: 14px;
+}
+.full-card { grid-column: 1 / -1; }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>🚨 치과 응급상황 대처 프로토콜</h1>
+  <div class="sub">Dental Emergency Management · 위키 근거 기반 · 2026-10-28</div>
+</div>
+<div class="warn-bar">
+  ⚠️ 이 도구는 위키 인제스트 논문 기반 임상 참고용입니다. 실제 응급상황에서는 119 즉시 신고 후 BLS를 우선합니다.
+</div>
+
+<nav class="tab-nav">
+  <button class="tab-btn active" onclick="showTab('anaphylaxis')">
+    <span class="dot dot-red"></span>아나필락시스
+  </button>
+  <button class="tab-btn" onclick="showTab('cardiac')">
+    <span class="dot dot-red"></span>심정지·AED
+  </button>
+  <button class="tab-btn" onclick="showTab('syncope')">
+    <span class="dot dot-orange"></span>실신
+  </button>
+  <button class="tab-btn" onclick="showTab('hypoglycemia')">
+    <span class="dot dot-orange"></span>저혈당
+  </button>
+  <button class="tab-btn" onclick="showTab('bronchospasm')">
+    <span class="dot dot-orange"></span>기관지경련
+  </button>
+  <button class="tab-btn" onclick="showTab('hypertension')">
+    <span class="dot dot-yellow"></span>고혈압위기
+  </button>
+  <button class="tab-btn" onclick="showTab('thresholds')">
+    <span class="dot dot-blue"></span>안전 임계값
+  </button>
+  <button class="tab-btn" onclick="showTab('preparedness')">
+    <span class="dot dot-blue"></span>준비도 체크
+  </button>
+</nav>
+
+<div class="panels">
+
+<!-- ══════ 아나필락시스 ══════ -->
+<div id="panel-anaphylaxis" class="panel active">
+  <div class="em-header red">
+    <div class="em-title">아나필락시스 (Anaphylaxis) <span class="badge badge-red">생명위협</span></div>
+    <div class="em-incidence">치과 유발원: 항생제(아목시실린 ~50%), 클로르헥시딘, 국소마취제, 라텍스 · 영국 입원 ~7/10만/년</div>
+  </div>
+
+  <div class="grid2">
+    <div class="card">
+      <div class="card-title">인지 증상 (ABCDE 평가)</div>
+      <ul class="sym-list">
+        <li class="key">두드러기·혈관부종 (93% 케이스에서 발생)</li>
+        <li class="key">기도 부종·천명·호흡곤란 (59%)</li>
+        <li class="key">저혈압·빈맥 (33%)</li>
+        <li class="mod">갑작스러운 빠른 발현·진행</li>
+        <li>가려움·피부 홍조</li>
+        <li>구역·복통</li>
+      </ul>
+    </div>
+    <div class="card">
+      <div class="card-title">감별: 혈관미주신경성 실신과 비교</div>
+      <ul class="sym-list">
+        <li class="key">아나필락시스: 피부 반응 + 기도·순환 동반</li>
+        <li class="key">실신: 창백·서맥·땀, 누우면 빠른 회복</li>
+        <li class="mod">아나필락시스: 눕혀도 악화될 수 있음</li>
+        <li>실신: 발적·두드러기 없음</li>
+        <li>패닉 어택: 산소포화도 정상 유지</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="protocol">
+    <div class="card-title">대처 프로토콜 (Resuscitation Council UK 기반)</div>
+    <ol class="steps">
+      <li class="emg">
+        <span class="step-title">아드레날린 즉시 투여 — 지연은 사망 원인 1위</span>
+        <span class="step-detail">영국 아나필락시스 사망의 ~40%가 아드레날린을 투여받지 못했음</span>
+        <div class="drug-box">아드레날린 1:1,000 (1 mg/mL) → 500 µg IM (성인 12세↑)</div>
+      </li>
+      <li class="emg">
+        <span class="step-title">투여 부위: 대퇴 전외측 중간 1/3 (vastus lateralis)</span>
+        <span class="step-detail">삼각근은 흡수 느림 — 비추천. 23G 25mm(파란색) 바늘 사용</span>
+      </li>
+      <li>
+        <span class="step-title">환자 자세 조정</span>
+        <span class="step-detail">의식 있으면 앉히기(기도부종·호흡곤란 시) / 의식 없으면 바닥에 눕혀 다리 올리기</span>
+      </li>
+      <li>
+        <span class="step-title">119 신고 + 산소 투여</span>
+        <span class="step-detail">고농도 산소 15 L/min 마스크 투여</span>
+      </li>
+      <li>
+        <span class="step-title">5분 후 미개선 시 아드레날린 반복</span>
+        <span class="step-detail">반응이 있을 때까지 5분 간격으로 반복 가능</span>
+      </li>
+      <li>
+        <span class="step-title">사후 처리: MHRA Yellow Card 신고 (약물 의심 시)</span>
+        <span class="step-detail">클로르헥시딘 발치와 세척 → 증례 2건 사망 (영국, MHRA 2014) — 식염수 사용 권고</span>
+      </li>
+    </ol>
+  </div>
+
+  <div class="note-box">
+    💉 <b>주사 기법 변경사항:</b> 최신 지침은 IM 대퇴 주사 시 장갑·알코올 소독·바늘-허브 간격·흡인·주사 후 마사지를 <b>모두 생략</b>한다. AAI(에피펜 등)는 다른 아드레날린 제제가 전혀 없을 때만 사용.
+  </div>
+
+  <div class="sources">
+    <div class="sources-title">근거 출처</div>
+    <div class="source-item"><b>jevon-2020</b> · British Dental Journal · Resuscitation Council UK 기반 아나필락시스 관리 업데이트</div>
+  </div>
+</div>
+
+<!-- ══════ 심정지·AED ══════ -->
+<div id="panel-cardiac" class="panel">
+  <div class="em-header red">
+    <div class="em-title">심정지 / 심폐소생술 + AED <span class="badge badge-red">생명위협</span></div>
+    <div class="em-incidence">치과 발생률 ~0.003건/치과의사/년 · 유럽 심정지 연간 350,000건 · 제세동 1분 내 시 생존율 90%↑</div>
+  </div>
+
+  <div class="stat-row">
+    <div class="stat-card">
+      <div class="stat-val" style="color:var(--red)">7.5%</div>
+      <div class="stat-label">AED 보유 클리닉 (사우디, n=400)</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-val" style="color:var(--red)">26%</div>
+      <div class="stat-label">BLS 지식 "양호" 치과의사</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-val" style="color:var(--orange)">143s</div>
+      <div class="stat-label">미훈련 시 쇼크 전달 시간</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-val" style="color:var(--green)">116s</div>
+      <div class="stat-label">최적화 안내 후 쇼크 시간</div>
+    </div>
+  </div>
+
+  <div class="protocol">
+    <div class="card-title">BLS + AED 프로토콜 (10항목 기준)</div>
+    <ol class="steps">
+      <li class="emg">
+        <span class="step-title">반응 확인 + 119 신고</span>
+        <span class="step-detail">어깨를 두드리며 "괜찮으세요?" — 무반응 즉시 119 신고</span>
+      </li>
+      <li class="emg">
+        <span class="step-title">AED 가져오기 (동시에)</span>
+        <span class="step-detail">다른 사람에게 "AED 가져와!" 지명 지시 — 즉시 CPR 시작</span>
+      </li>
+      <li>
+        <span class="step-title">가슴압박 시작 — 분당 100~120회, 5~6cm 깊이</span>
+        <span class="step-detail">손꿈치: 흉골 하부 1/2. 30:2 압박-호흡 비율</span>
+      </li>
+      <li>
+        <span class="step-title">AED 전원 ON</span>
+        <span class="step-detail">Phase 1 연구: 4.8%만 성공 → Phase 2(수정 안내): 100% 성공. 음성 안내를 끝까지 따를 것</span>
+      </li>
+      <li>
+        <span class="step-title">배터리 확인 (흔히 빠뜨림)</span>
+        <span class="step-detail">Phase 1에서 0%만 수행 — 정기 점검 필수</span>
+      </li>
+      <li>
+        <span class="step-title">전극 부착: 건조한 맨 가슴 + 올바른 위치</span>
+        <span class="step-detail">우쇄골하 / 좌액와부 중간. 습기·물기 제거 후 부착</span>
+      </li>
+      <li class="warn">
+        <span class="step-title">분석 중 모두 물러나기 (접촉 금지)</span>
+        <span class="step-detail">"물러나세요!" 크게 외치고 직접 확인 후 버튼 누름</span>
+      </li>
+      <li class="emg">
+        <span class="step-title">제세동 즉시 실시</span>
+        <span class="step-detail">목표: 90초 이내. 1분 초과 시 소생률 ~10%/분 감소</span>
+      </li>
+      <li>
+        <span class="step-title">쇼크 직후 즉시 CPR 재개</span>
+        <span class="step-detail">⚠️ 가장 놓치기 쉬운 단계 (Phase 1·2 모두 &lt;10% 이행) — 멈추지 말 것</span>
+      </li>
+      <li>
+        <span class="step-title">2분 후 재평가</span>
+        <span class="step-detail">AED가 안내할 때까지 CPR 중단하지 않음</span>
+      </li>
+    </ol>
+  </div>
+
+  <div class="sources">
+    <div class="sources-title">근거 출처</div>
+    <div class="source-item"><b>tayebi-hillali-2026</b> · BMC Med Educ · 스페인 치과대 AED 역량 평가 (n=81)</div>
+    <div class="source-item"><b>khattak-2026</b> · PeerJ · 사우디 치과의사 400명 BLS/CPR 준비도 조사</div>
+  </div>
+</div>
+
+<!-- ══════ 실신 ══════ -->
+<div id="panel-syncope" class="panel">
+  <div class="em-header orange">
+    <div class="em-title">혈관미주신경성 실신 (Vasovagal Syncope) <span class="badge badge-orange">긴급</span></div>
+    <div class="em-incidence">치과 응급상황 중 가장 흔한 유형 · 통증·공포·장시간 술기가 주요 유발</div>
+  </div>
+
+  <div class="grid2">
+    <div class="card">
+      <div class="card-title">전구 증상 (실신 전)</div>
+      <ul class="sym-list">
+        <li class="key">창백·땀·메스꺼움</li>
+        <li class="key">어지러움·시야 흐림</li>
+        <li class="mod">서맥 (맥박 느려짐)</li>
+        <li class="mod">하품·허약감</li>
+        <li>불안·초조</li>
+      </ul>
+    </div>
+    <div class="card">
+      <div class="card-title">아나필락시스와 감별점</div>
+      <ul class="sym-list">
+        <li class="key">실신: 피부 발적·두드러기 없음</li>
+        <li class="key">실신: 누우면 수초~분 내 자발 회복</li>
+        <li class="mod">실신: 혈압↓ + 맥박↓ (아나필락시스는 맥박↑)</li>
+        <li>실신: 기도 부종 없음</li>
+        <li>실신: 천명음 없음</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="protocol">
+    <div class="card-title">대처 프로토콜</div>
+    <ol class="steps">
+      <li>
+        <span class="step-title">치료 즉시 중단 — 자극 제거</span>
+        <span class="step-detail">버 회전 중지, 손 빼기, 스트레스 요인 즉시 제거</span>
+      </li>
+      <li class="emg">
+        <span class="step-title">트렌델렌부르크 자세 (다리 올리기)</span>
+        <span class="step-detail">체어 눕히고 다리 15~30° 거상 → 뇌 혈류 회복</span>
+      </li>
+      <li>
+        <span class="step-title">기도 유지 확인</span>
+        <span class="step-detail">입 안 이물질(거즈·기구) 제거. 턱 들어 기도 개방 확인</span>
+      </li>
+      <li>
+        <span class="step-title">산소 투여 (4~6 L/min 비강캐뉼라)</span>
+      </li>
+      <li>
+        <span class="step-title">혈압·맥박 모니터링</span>
+        <span class="step-detail">3~5분 내 회복 없으면 다른 원인 고려 (아나필락시스, 저혈당, 심정지)</span>
+      </li>
+      <li>
+        <span class="step-title">회복 후 원인 파악 및 예방</span>
+        <span class="step-detail">공복 방지, 수액 보충, 다음 내원 시 오전 단시간 예약. 소아는 장시간 진료 분할 권고</span>
+      </li>
+    </ol>
+  </div>
+
+  <div class="sources">
+    <div class="sources-title">근거 출처</div>
+    <div class="source-item"><b>mistry-2023</b> · 중증 불안·반복 실신 치과 수복 증례 리뷰</div>
+    <div class="source-item"><b>ross-2013</b> · 소아 치과 신경심장성 실신 증례 리뷰</div>
+  </div>
+</div>
+
+<!-- ══════ 저혈당 ══════ -->
+<div id="panel-hypoglycemia" class="panel">
+  <div class="em-header orange">
+    <div class="em-title">저혈당 (Hypoglycemia) <span class="badge badge-orange">긴급</span></div>
+    <div class="em-incidence">당뇨 환자 치과 내원 중 술중 저혈당 위험 10~15% · HbA1c &lt;9% = 발치 안전 임계값</div>
+  </div>
+
+  <div class="grid2">
+    <div class="card">
+      <div class="card-title">인지 증상</div>
+      <ul class="sym-list">
+        <li class="key">떨림·발한·창백</li>
+        <li class="key">혼동·말이 어눌해짐</li>
+        <li class="mod">빈맥·두근거림</li>
+        <li class="mod">허약감·어지러움</li>
+        <li>두통</li>
+        <li>심하면: 경련·의식 소실</li>
+      </ul>
+    </div>
+    <div class="card">
+      <div class="card-title">예방 — 발치 전 확인</div>
+      <ul class="sym-list">
+        <li class="key">HbA1c &lt; 9% 확인 후 시술 (안전 임계값)</li>
+        <li class="mod">공복 상태 피하기 — 당일 식사 여부 확인</li>
+        <li class="mod">인슐린 용량 조정 여부 파악</li>
+        <li>오전 일찍 예약 (혈당이 비교적 안정적)</li>
+        <li>응급 포도당 준비 (포도당 젤·정맥 포도당)</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="protocol">
+    <div class="card-title">대처 프로토콜</div>
+    <ol class="steps">
+      <li>
+        <span class="step-title">술기 즉시 중단</span>
+      </li>
+      <li class="emg">
+        <span class="step-title">의식 있는 경우 — 경구 포도당 투여</span>
+        <span class="step-detail">포도당 정제 15~20g / 오렌지 주스 150 mL / 설탕 물 (설탕 3~4 스푼)</span>
+      </li>
+      <li class="emg">
+        <span class="step-title">의식 없는 경우 — 경구 투여 금지</span>
+        <span class="step-detail">50% 포도당 50 mL 정맥 주사 / 글루카곤 1 mg 근육·피하 주사 → 119</span>
+      </li>
+      <li>
+        <span class="step-title">15분 후 혈당 재확인</span>
+        <span class="step-detail">혈당 &lt;4 mmol/L(72 mg/dL) 지속 시 재투여</span>
+      </li>
+      <li>
+        <span class="step-title">회복 후 당일 침습 술기 연기</span>
+      </li>
+    </ol>
+  </div>
+
+  <div class="sources">
+    <div class="sources-title">근거 출처</div>
+    <div class="source-item"><b>gazal-2026</b> · Minerva Dent Oral Sci · 발치 고위험 환자 이상반응 위험인자 리뷰 (HbA1c 임계값)</div>
+  </div>
+</div>
+
+<!-- ══════ 기관지경련 ══════ -->
+<div id="panel-bronchospasm" class="panel">
+  <div class="em-header orange">
+    <div class="em-title">기관지경련 (Bronchospasm / 급성 천식 발작) <span class="badge badge-orange">긴급</span></div>
+    <div class="em-incidence">천식/COPD 치과 환자 발생률 3~6% · 치과 스트레스·약물이 주요 유발</div>
+  </div>
+
+  <div class="grid2">
+    <div class="card">
+      <div class="card-title">인지 증상</div>
+      <ul class="sym-list">
+        <li class="key">천명음 (쌕쌕거림, 날숨 시 더 뚜렷)</li>
+        <li class="key">호흡 곤란·가슴 답답함</li>
+        <li class="mod">기침·호흡수 증가</li>
+        <li class="mod">산소포화도 하강</li>
+        <li>보조 호흡근 사용</li>
+        <li>심하면: 청색증·의식 변화</li>
+      </ul>
+    </div>
+    <div class="card">
+      <div class="card-title">예방 — 시술 전 확인</div>
+      <ul class="sym-list">
+        <li class="key">천식 조절 상태 확인 (최근 발작 여부)</li>
+        <li class="mod">흡입 기관지확장제 지참 확인</li>
+        <li class="mod">아스피린·NSAID 사용 시 주의 (일부 천식 악화)</li>
+        <li>아황산염(메타바이설파이트) 포함 국소마취제 피하기</li>
+        <li>불안 조절 — 산화질소 진정 고려</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="protocol">
+    <div class="card-title">대처 프로토콜</div>
+    <ol class="steps">
+      <li>
+        <span class="step-title">술기 중단 + 직립 자세</span>
+        <span class="step-detail">앉은 자세 또는 약간 앞으로 기울인 자세 — 눕히지 않음</span>
+      </li>
+      <li class="emg">
+        <span class="step-title">환자 본인 흡입기 사용 (살부타몰 2~4 puff)</span>
+        <span class="step-detail">효과 없으면 5분 후 반복. 클리닉 비치 살부타몰 MDI 사용</span>
+      </li>
+      <li>
+        <span class="step-title">산소 투여 (4~6 L/min)</span>
+      </li>
+      <li class="warn">
+        <span class="step-title">5~10분 내 미개선 → 119 즉시 신고</span>
+        <span class="step-detail">중증 천식은 빠르게 악화 가능 — 지연 금지</span>
+      </li>
+      <li>
+        <span class="step-title">IV 접근 확보 + 에피네프린 고려 (아나필락시스 동반 시)</span>
+      </li>
+    </ol>
+  </div>
+
+  <div class="sources">
+    <div class="sources-title">근거 출처</div>
+    <div class="source-item"><b>gazal-2026</b> · 발치 시 천식/COPD 위험 3~6% 기관지경련 발생률</div>
+  </div>
+</div>
+
+<!-- ══════ 고혈압위기 ══════ -->
+<div id="panel-hypertension" class="panel">
+  <div class="em-header yellow">
+    <div class="em-title">고혈압 위기 (Hypertensive Emergency) <span class="badge badge-yellow">주의</span></div>
+    <div class="em-incidence">고혈압: 성인 최대 30% 유병률 · 술중 혈압 상승 위험 20~25% · BP ≥180/110 = 발치 연기 기준</div>
+  </div>
+
+  <div class="grid2">
+    <div class="card">
+      <div class="card-title">인지 증상</div>
+      <ul class="sym-list">
+        <li class="key">BP ≥ 180/110 mmHg (측정값)</li>
+        <li class="key">심한 두통·후두부 통증</li>
+        <li class="mod">시야 흐림·눈 통증</li>
+        <li class="mod">코피</li>
+        <li>어지러움·불안</li>
+        <li>심하면: 가슴 통증·호흡 곤란 (장기 손상 징후)</li>
+      </ul>
+    </div>
+    <div class="card">
+      <div class="card-title">예방 — 시술 전 혈압 측정</div>
+      <ul class="sym-list">
+        <li class="key">BP &lt; 180/110 mmHg → 발치 진행 가능</li>
+        <li class="key">BP ≥ 180/110 mmHg → 발치 연기 + 내과 의뢰</li>
+        <li class="mod">에피네프린 2~3 카트리지 이하 사용</li>
+        <li class="mod">심혈관 고위험: 에피네프린 1:200,000 이하 농도</li>
+        <li>통증·불안 조절로 혈압 급등 예방</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="protocol">
+    <div class="card-title">대처 프로토콜</div>
+    <ol class="steps">
+      <li>
+        <span class="step-title">술기 중단 + 자극 최소화</span>
+        <span class="step-detail">통증 유발 중단, 조용하고 안정된 환경 제공</span>
+      </li>
+      <li>
+        <span class="step-title">반좌위 자세 + 혈압 재측정</span>
+        <span class="step-detail">5~10분 안정 후 재측정</span>
+      </li>
+      <li>
+        <span class="step-title">기저 항고혈압제 복용 확인</span>
+        <span class="step-detail">오늘 약 복용 여부 — 미복용 시 복용 권장</span>
+      </li>
+      <li class="warn">
+        <span class="step-title">BP ≥ 180/120 + 증상 → 119 신고</span>
+        <span class="step-detail">뇌졸중·심근경색 징후(가슴통증·편마비·언어장애) → 즉각 119</span>
+      </li>
+      <li>
+        <span class="step-title">내과 의뢰 후 재예약</span>
+        <span class="step-detail">혈압 조절 확인 후 재내원 계획 수립</span>
+      </li>
+    </ol>
+  </div>
+
+  <div class="sources">
+    <div class="sources-title">근거 출처</div>
+    <div class="source-item"><b>gazal-2026</b> · 고혈압 환자 발치 시 20~25% 혈압 상승, BP &lt;180/110 안전 임계값</div>
+  </div>
+</div>
+
+<!-- ══════ 안전 임계값 ══════ -->
+<div id="panel-thresholds" class="panel">
+  <div class="em-header blue">
+    <div class="em-title">발치 전 안전 임계값 (Safe-to-Proceed Thresholds) <span class="badge badge-blue">참조</span></div>
+    <div class="em-incidence">Gazal 2026 근거기반 임계값 — 이 기준 충족 시 발치 진행 가능</div>
+  </div>
+
+  <div class="threshold-row">
+    <div class="thresh-card safe">
+      <div class="thresh-label">당뇨 — HbA1c</div>
+      <div class="thresh-val">&lt; 9%</div>
+      <div class="thresh-cond">이 값 이상: 연기·내과 협진</div>
+    </div>
+    <div class="thresh-card safe">
+      <div class="thresh-label">항응고 — INR</div>
+      <div class="thresh-val">≤ 3.5</div>
+      <div class="thresh-cond">이 값 초과: 와파린 조정 고려</div>
+    </div>
+    <div class="thresh-card safe">
+      <div class="thresh-label">수축기/이완기</div>
+      <div class="thresh-val">&lt;180/110</div>
+      <div class="thresh-cond">mmHg — 이 값 이상: 발치 연기</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-title">5대 고위험 전신질환 — 이상반응 빈도</div>
+    <table style="width:100%;border-collapse:collapse;font-size:0.83rem;">
+      <thead>
+        <tr style="background:var(--surface2);">
+          <th style="padding:8px 10px;text-align:left;border-bottom:2px solid var(--border);">전신질환</th>
+          <th style="padding:8px 10px;text-align:left;border-bottom:2px solid var(--border);">치과 유병률</th>
+          <th style="padding:8px 10px;text-align:left;border-bottom:2px solid var(--border);">주요 이상반응</th>
+          <th style="padding:8px 10px;text-align:right;border-bottom:2px solid var(--border);">발생률</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr style="border-bottom:1px solid var(--border);">
+          <td style="padding:8px 10px;font-weight:600;">당뇨병 (DM)</td>
+          <td style="padding:8px 10px;color:var(--text2);">8~12%</td>
+          <td style="padding:8px 10px;">술중 저혈당</td>
+          <td style="padding:8px 10px;text-align:right;font-weight:700;color:var(--orange);">10~15%</td>
+        </tr>
+        <tr style="border-bottom:1px solid var(--border);">
+          <td style="padding:8px 10px;font-weight:600;">항응고제 사용</td>
+          <td style="padding:8px 10px;color:var(--text2);">—</td>
+          <td style="padding:8px 10px;">술후 출혈 (대조군 2~3%)</td>
+          <td style="padding:8px 10px;text-align:right;font-weight:700;color:var(--red);">8~12%</td>
+        </tr>
+        <tr style="border-bottom:1px solid var(--border);">
+          <td style="padding:8px 10px;font-weight:600;">고혈압</td>
+          <td style="padding:8px 10px;color:var(--text2);">성인 최대 30%</td>
+          <td style="padding:8px 10px;">술중 혈압 상승</td>
+          <td style="padding:8px 10px;text-align:right;font-weight:700;color:var(--orange);">20~25%</td>
+        </tr>
+        <tr style="border-bottom:1px solid var(--border);">
+          <td style="padding:8px 10px;font-weight:600;">천식/COPD</td>
+          <td style="padding:8px 10px;color:var(--text2);">7~10%</td>
+          <td style="padding:8px 10px;">기관지경련</td>
+          <td style="padding:8px 10px;text-align:right;font-weight:700;color:var(--yellow);">3~6%</td>
+        </tr>
+        <tr>
+          <td style="padding:8px 10px;font-weight:600;">면역억제</td>
+          <td style="padding:8px 10px;color:var(--text2);">—</td>
+          <td style="padding:8px 10px;">술후 감염</td>
+          <td style="padding:8px 10px;text-align:right;font-weight:700;color:var(--red);">최대 20%</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="sources">
+    <div class="sources-title">근거 출처</div>
+    <div class="source-item"><b>gazal-2026</b> · Minerva Dent Oral Sci · 발치 시 의과적 고위험 환자 이상반응 위험인자 및 안전 임계값 리뷰</div>
+  </div>
+</div>
+
+<!-- ══════ 준비도 체크 ══════ -->
+<div id="panel-preparedness" class="panel">
+  <div class="em-header blue">
+    <div class="em-title">클리닉 응급 준비도 체크리스트 <span class="badge badge-blue">자가 점검</span></div>
+    <div class="em-incidence">AED 보유 7.5% · 응급 프로토콜 구비 44.5% · 최근 교육 수료 aOR 4.91 (지식 예측인자) — Khattak 2026</div>
+  </div>
+
+  <div class="check-progress">
+    <span id="check-count">0 / 12 완료</span>
+    <div class="progress-bar-wrap">
+      <div class="progress-bar" id="prog-bar" style="width:0%"></div>
+    </div>
+  </div>
+
+  <div class="checklist" id="checklist">
+    <div class="card-title">장비 및 약물</div>
+    <div class="check-item" onclick="toggleCheck(this)">
+      <div class="check-box">✓</div>
+      <div class="check-text">AED 비치 및 정기 배터리 점검
+        <div class="check-sub">Khattak 2026: AED 보유 클리닉 7.5% — 목표는 100%</div>
+      </div>
+    </div>
+    <div class="check-item" onclick="toggleCheck(this)">
+      <div class="check-box">✓</div>
+      <div class="check-text">아드레날린 1:1,000 앰플 + 23G 25mm 바늘 비치
+        <div class="check-sub">500µg IM 투여용. 유효기간 확인</div>
+      </div>
+    </div>
+    <div class="check-item" onclick="toggleCheck(this)">
+      <div class="check-box">✓</div>
+      <div class="check-text">살부타몰(벤토린) MDI 흡입기 비치
+        <div class="check-sub">기관지경련 대응용. 스페이서 포함 권장</div>
+      </div>
+    </div>
+    <div class="check-item" onclick="toggleCheck(this)">
+      <div class="check-box">✓</div>
+      <div class="check-text">산소 실린더 + 마스크·비강캐뉼라 세트 구비
+        <div class="check-sub">고농도 마스크(15 L/min) + 저농도 캐뉼라(4~6 L/min)</div>
+      </div>
+    </div>
+    <div class="check-item" onclick="toggleCheck(this)">
+      <div class="check-box">✓</div>
+      <div class="check-text">경구 포도당 (포도당 정제 또는 젤) 비치
+        <div class="check-sub">저혈당 의식 있는 환자용</div>
+      </div>
+    </div>
+    <div class="check-item" onclick="toggleCheck(this)">
+      <div class="check-box">✓</div>
+      <div class="check-text">혈압계·맥박산소측정기 기능 확인
+        <div class="check-sub">발치 전 혈압 측정 루틴화 권장</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="checklist">
+    <div class="card-title">교육 및 프로토콜</div>
+    <div class="check-item" onclick="toggleCheck(this)">
+      <div class="check-box">✓</div>
+      <div class="check-text">전 직원 최근 5년 내 BLS/CPR 교육 수료
+        <div class="check-sub">최근 교육 aOR 4.91, 최근 응급경험 aOR 12.97 (지식 예측인자)</div>
+      </div>
+    </div>
+    <div class="check-item" onclick="toggleCheck(this)">
+      <div class="check-box">✓</div>
+      <div class="check-text">AED 실기 연습 (마네킹 포함, 12~24개월마다)
+        <div class="check-sub">ILCOR 권고: 시뮬레이션 포함 주기적 재교육. 이론만으론 불충분</div>
+      </div>
+    </div>
+    <div class="check-item" onclick="toggleCheck(this)">
+      <div class="check-box">✓</div>
+      <div class="check-text">클리닉 응급 프로토콜 문서 비치 (벽 부착 또는 서랍 보관)
+        <div class="check-sub">Khattak 2026: 응급 프로토콜 구비 클리닉 44.5%만</div>
+      </div>
+    </div>
+    <div class="check-item" onclick="toggleCheck(this)">
+      <div class="check-box">✓</div>
+      <div class="check-text">119 + 인근 응급실 전화번호 진료실 내 게시
+      </div>
+    </div>
+    <div class="check-item" onclick="toggleCheck(this)">
+      <div class="check-box">✓</div>
+      <div class="check-text">고위험 환자 내원 전 의무기록 사전 검토 루틴
+        <div class="check-sub">HbA1c, INR, 혈압 확인. 당일 약 복용 여부 문진</div>
+      </div>
+    </div>
+    <div class="check-item" onclick="toggleCheck(this)">
+      <div class="check-box">✓</div>
+      <div class="check-text">응급 약물 유효기간 월 1회 점검
+        <div class="check-sub">아드레날린·살부타몰·포도당 동시 확인</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="stat-row">
+    <div class="stat-card">
+      <div class="stat-val" style="color:var(--red)">7.5%</div>
+      <div class="stat-label">사우디 클리닉 AED 보유율</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-val" style="color:var(--orange)">44.5%</div>
+      <div class="stat-label">응급 프로토콜 구비율</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-val" style="color:var(--orange)">26%</div>
+      <div class="stat-label">BLS 지식 "양호" 비율</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-val" style="color:var(--green)">90.5%</div>
+      <div class="stat-label">응급 대응 의무 인식</div>
+    </div>
+  </div>
+
+  <div class="sources">
+    <div class="sources-title">근거 출처</div>
+    <div class="source-item"><b>khattak-2026</b> · PeerJ · 사우디 치과의사 400명 BLS/CPR 지식·태도·준비도 단면 조사</div>
+    <div class="source-item"><b>tayebi-hillali-2026</b> · BMC Med Educ · ILCOR 12~24개월 재교육 권고 인용</div>
+  </div>
+</div>
+
+</div><!-- /panels -->
+
+<script>
+function showTab(id) {
+  document.querySelectorAll('.panel').forEach(p => p.classList.remove('active'));
+  document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+  document.getElementById('panel-' + id).classList.add('active');
+  event.currentTarget.classList.add('active');
+}
+
+function toggleCheck(el) {
+  el.classList.toggle('checked');
+  updateProgress();
+}
+
+function updateProgress() {
+  const items = document.querySelectorAll('.check-item');
+  const checked = document.querySelectorAll('.check-item.checked').length;
+  const total = items.length;
+  document.getElementById('check-count').textContent = checked + ' / ' + total + ' 완료';
+  document.getElementById('prog-bar').style.width = (checked / total * 100) + '%';
+}
+</script>
+</body>
+</html>
