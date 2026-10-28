@@ -28,6 +28,7 @@ relations:
 > - 증대한 부위는 임플란트를 오래 지탱하는가(Gurbanov 2024, SR, ≥10년): 전 세계에서 기준을 통과한 연구가 3편뿐이다. 이식 부위의 임플란트 생존은 96–100%, 비이식 부위는 91.6–94%였다. 메타분석이 없고 모두 비무작위라 이식 부위가 더 나쁜 베드라는 신호가 없다는 방향성 안심일 뿐 동등성이 확립된 것은 아니다. 막 종류 간 장기 비교 근거도 없다. [확인]
 > - 콜라겐 생체재료(Li 2025, 서술 고찰): 제1형 콜라겐의 삼중나선이 하이드록시아파타이트 핵생성을 주형하고, MMP와 카텝신 K가 분해한다. FDA 승인을 받은 콜라겐-성장인자 복합체는 rhBMP-2/흡수성 콜라겐 스폰지가 대표적이다. 정형외과 중심의 서술 근거라 치과 임상 결과의 근거가 아니다. [확인]
 > - 막 고정(Park 2022, 비글 8마리): 두 비가교 콜라겐 막 모두 핀 고정이 총 증대 체적을 바꾸지 못했다(p>.05). 한 막(CM2)만 치조정 폭에서 이득이 있었다(2.3 vs 1.57 mm, p<.05). 고정의 효과는 막의 강성에 따라 다르며 일률적 필수가 아니다. [확인]
+> - 동시 GBR 부위의 5년 결과(Zitzmann 2001, 전향 75명): 누적 생존 93–97%로 골에 둘러싸인 대조와 비슷했지만, MBL은 GBR 부위가 더 컸고(Bio-Oss+Bio-Gide 1.83 mm, Bio-Oss+Gore-Tex 2.21 mm vs 대조 1.73 mm) 시간에 따라 늘었다. 저자들은 수직 결손 >2 mm에서 GBR을 권했다. [확인]
 > - 종합 한 줄: 막 선택은 결손 유형과 안정성이 먼저이고, 작은 포함 결손에서 막의 역할은 이식재 격납이다. 증대 자체가 필요한지(짧은 임플란트로 대체 가능한지)가 막 선택보다 앞선 결정이다. [미검증]
 
 ## Three-line Summary
@@ -153,6 +154,8 @@ The defensible reading is therefore directional rather than quantitative: at ≥
 **Membrane fixation does not universally help — and its effect is membrane-type-dependent (Park 2022, animal, 8 beagle dogs, split-mouth)**: this targeted experiment directly tests an assumption Axis 3's Friedmann 2022 finding (crosslinked membranes achieve stability without pins) already hinted at. In contained GBR box defects with particulate bone substitute, fixing two different non-cross-linked collagen membranes (CM1, CM2) with pins vs leaving them unfixed produced **no significant difference in total augmented volume** for either membrane (p>.05). One membrane (CM2) did show a fixation benefit specifically at the ridge crest (coronal width 2.3±0.1 mm fixed vs 1.57±0.27 mm unfixed, p<.05); the other (CM1) showed none. The implication: membrane fixation is not a blanket requirement in contained defects, and whether it helps depends on the specific membrane's stiffness/rigidity — surgeons should not assume routine fixation always improves predictability, echoing Friedmann 2022's finding that some crosslinked membranes achieve adequate stability without pins at all.
 
 ---
+
+**Five-year outcome of simultaneous GBR (added 2026-10-28).** [[bone-regeneration/zitzmann-2001-long-term-results-of-implants]] (prospective, 75 patients, Brånemark implants) followed peri-implant defects treated with Bio-Oss plus Bio-Gide or plus Gore-Tex against bone-encased controls. Cumulative 5-year survival was 93–97% in all groups, but marginal bone loss was greater at grafted sites (1.83 and 2.21 mm vs 1.73 mm) and grew over time. Keratinized mucosa stayed at about 3 mm, and plaque, inflammation and recession followed the restoration type more than the GBR material. This complements Gurbanov 2024 above: grafted-site implants survive like native-bone implants, but their bone level is not identical, so grafted sites deserve the same long-horizon radiographic follow-up given to tilted implants.
 
 ## Related Overviews
 
