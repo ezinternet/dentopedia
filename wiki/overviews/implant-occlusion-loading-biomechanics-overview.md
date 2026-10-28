@@ -28,6 +28,8 @@ relations:
 > - 접촉 변화: 임플란트 교합접촉은 부하 후 6-12개월에 변동(대개 인접 자연치 대비 상대 저위교합) — 단관(Mao 2024 SR+MA)·고정성(Assoratgoon 2025 SR) 모두.
 > - 약교합(light occlusion): 상대 교합력을 낮추나(4.91→10.34% vs 정상 10.45→18.15%) 시간이 지나며 유지되지 않고 교합력이 계속 증가 → 장기 추적 필수(Zhang 2022, n=50, T-Scan III). [확인]
 > - 과부하-골소실 연관은 시사되나 근거 질 낮음(정량 교합분석 표준화 부재, Di Fiore 2022 SR 7편). 더 넓은 Mojaver 2025 SR(80편)은 변연골소실 (Marginal Bone Loss, MBL) 0.65–3.0 mm·임플란트주위염 20–50% 정량밴드와 **dual-pathway**(기계적 과부하 × biofilm 염증 상승작용 — 과부하는 독립 원인보다 위험증폭 인자)를 제시하나 인과는 여전히 미확정. [미검증]
+> - 과부하 인과 근거 4편 추가(2026-10-28): 두 서술 리뷰가 같은 결론이다. Sadowsky 2019는 원숭이(Isidor, 8개 중 6개 골유착 상실)와 개(Heitz-Mayfield, BIC 72.6 vs 73.9%) 실험이 충돌하고, 높은 치관-임플란트 비율(2–3:1)·캔틸레버·비연결 설계가 대안만큼 잘 버틴다고 정리했다. 반면 이갈이는 실패와 연관된다(OR 2.71). Chang 2013은 위생이 관리된 상태에서 과부하가 골유착된 임플란트의 골소실을 일으킨다는 증거가 없고 생물학적 허용 하중도 모른다고 했다. [확인]
+> - 기전 쪽: Sridhar 2019 벤치(군당 4개, 200만 회 피로 하중)에서 세균 배양액군만 TiO₂ 층이 얇아지고 부식 전위가 낮아져 하중 × 바이오필름 상승작용을 지지했다. Biel 2022 증례(n=1)는 무균성 동요 임플란트가 교합 조정만으로 재골유착되었다고 보고했으나 항암치료가 교란 인자다. [확인]
 > - 교합양식·보철 구성(캔틸레버·치아-임플란트 연결·재료·부기능)이 임플란트주위 응력을 좌우 — FEA 일관(Ambili 2024, Yesilyurt 2021), full-arch 위험요인(Berzaghi 2025), 세라믹 크라운 피로(Packaeser 2025).
 > - 오버덴처 교합양식: 균형교합 (Balanced)이 설측·단일평면보다 교합력·저작효율·만족 우월(Kuriakose 2024, 60명, 단신 근거); 하중중심-지지중심 불일치는 견치부 정중접촉을 더한 집중교합형 (Centralized Occlusal Scheme)으로 접촉면적·저작효율 +21% 향상(Diao 2026, n=5 RCT crossover, 가설생성). [확인—소표본·단기]
 > - 디지털 교합분석: 단일 구치 임플란트 수복도 교합력을 **전악**으로 재분배(후방↓>전방↓, 대합·전체↑; Gözen 2025 in-vivo n=18) → 재점검은 국소가 아닌 전악 범위로. 구강스캐너 (IOS)는 접촉 위치(where), OccluSense는 힘 크기(how hard)를 주며 둘은 강하게 상관(p<0.001)하나 호환은 아님. 교합조정 자체의 이득은 기저 교합이 양호하면 작다(Jahanbin 2026 T-Scan RCT, 비임플란트 외삽).
@@ -86,6 +88,9 @@ Clinical ladder: ①light occlusion as a starting point but re-check at 0.5/3/6/
 | 디지털 교합분석·전악 재분배(in-vivo) | [[occlusion/gozen-2025-occlusal-force-distribution-digital-analysis-implant-in-vivo]] | prospective (n=18) | 단일 구치 임플란트 수복이 전악 교합력 재분배(후방↓>전방↓, 대합·전체↑); IOS area vs OccluSense force 강한 상관(p<0.001) |
 | 교합조정 효과 천장(T-Scan, 비임플란트) | [[occlusion/jahanbin-2026-occlusal-adjustment-post-orthodontic-tscan-rct]] | rct (n=30) | 디본딩 후 CR 교합조정 → T-Scan 접촉 강도·개수 유의차 없음(settling이 상쇄); 후방균형 비유의 경향만 |
 | 식립 각도(geometry) | [[implants/peri-implantitis/kim-2026-implant-angulation-peri-implant-bone]] | retrospective (506개, 5.1y) | 비축 0.22 vs 축 0.10 mm MBL(P<.05); 상악>하악; 각도×implant-FDP 대합 상호작용 Δ0.373 mm |
+| 과부하 인과 비판(서술 리뷰 2편) | [[occlusion/sadowsky-2019-occlusal-overload-dental-implants-review]] · [[occlusion/chang-2013-impact-excessive-occlusal-load]] | narrative ×2 | 동물 실험 충돌(Isidor 6/8 상실 vs Heitz-Mayfield BIC 차이 없음); 높은 C/I 비율·캔틸레버·비연결 설계가 대안과 동등; 이갈이 OR 2.71; 위생 관리 하 과부하 → 골소실 인과 미입증, 허용 하중 미상; 동화 창 1000–3000 µε vs 피로 실패 >4000 µε |
+| 하중 × 바이오필름 표면 손상(벤치) | [[occlusion/sridhar-2019-the-role-of-bacterial-biofilm]] | in-vitro (군당 4) | 200만 회 피로 하중에서 세균 배양액군만 TiO₂ 감소·Ecorr 저하 → dual-pathway의 표면 기전 |
+| 교합 조정 후 재골유착(증례) | [[occlusion/biel-2022-re-osseointegration-of-a-dental]] | case-report (n=1) | 무균성 동요 하악 임플란트, 교합 조정만으로 8개월 재골유착·21개월 유지; 항암치료 교란 |
 | 교합양식 FEA | [[occlusion/ambili-2024-parafunctional-loading-stress-tooth-implant-fea]] · [[occlusion/yesilyurt-2021-occlusion-concepts-hybrid-abutment-zirconia-fea]] | in-vitro(FEA) | 지지방식·교합개념이 응력분포 좌우 |
 | 보철 구성 위험 | [[occlusion/berzaghi-2025-occlusion-biomechanical-risk-implant-full-arch-narrative]] | narrative | full-arch 캔틸레버·재료·부기능 위험 |
 | 재료 피로 | [[occlusion/packaeser-2025-core-material-occlusal-contact-fatigue-ceramic-crowns]] | in-vitro | 교합접촉 양상이 세라믹 크라운 피로수명 영향 |
@@ -109,6 +114,7 @@ Clinical ladder: ①light occlusion as a starting point but re-check at 0.5/3/6/
 
 - "임플란트도 자연치처럼 교합 주면 된다" — PDL 부재로 완충·감지 없음. 약교합·분산 설계 필요. [확인]
 - "약교합 한 번 주면 과부하 영구 예방" — 시간이 지나며 교합력이 증가해 유지 안 됨(Zhang 2022). 정기 재점검 필수. [확인]
+- "치관-임플란트 비율이 높거나 캔틸레버가 있으면 피해야 한다" — 자연치 모델에서 나온 규칙이고, 임상 자료는 이 설계들이 대안만큼 잘 버틴다고 본다(Sadowsky 2019). 위험이 확인된 쪽은 설계 자체보다 이갈이다(OR 2.71). [확인]
 - "FEA가 임상 과부하-골소실을 증명" — FEA는 모델 가정; 임상 인과는 미확정(Di Fiore 2022 근거 질 낮음). [미검증]
 
 ## Phase 2 확장 후보 (Stub)
@@ -128,6 +134,13 @@ Clinical ladder: ①light occlusion as a starting point but re-check at 0.5/3/6/
 - 무치악 설계 = [확인](narrative)
 
 ## Related Papers
+
+### 과부하 인과·바이오필름 상승작용 추가 (2026-10-28)
+
+- [[occlusion/sadowsky-2019-occlusal-overload-dental-implants-review]] — 명제 4 보정: 동물 실험 충돌, 높은 C/I 비율·캔틸레버·비연결 설계의 임상 성적이 대안과 동등, 이갈이 OR 2.71; 환자별 하중 역치(µε)가 필요 (narrative-review, 2019)
+- [[occlusion/chang-2013-impact-excessive-occlusal-load]] — 명제 4 보정: 1991–2011 문헌에서 위생 관리 하 과부하 → 골소실·골유착 상실 인과 미입증, 고하중에서 리모델링 활성만 일관 (narrative-review, 초록만, 2013)
+- [[occlusion/sridhar-2019-the-role-of-bacterial-biofilm]] — dual-pathway 기전: 피로 하중 + 세균 배양액에서만 TiO₂ 감소·Ecorr 저하 (in-vitro, 군당 4, 2019)
+- [[occlusion/biel-2022-re-osseointegration-of-a-dental]] — 교합 조정만으로 무균성 동요 임플란트 재골유착 1례, 항암치료 교란 (case-report, 2022)
 
 ### 과부하·교합양식·디지털분석 추가 (2026-06-24)
 
