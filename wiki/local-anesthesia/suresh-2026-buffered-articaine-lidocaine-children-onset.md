@@ -27,7 +27,7 @@ tags:
   - rct
 relations:
   - type: companion-to
-    target: local-anesthesia/hamad-2025-buffered-lidocaine-maxillary-extraction-rct
+    target: local-anesthesia/hamad-2025-buffered-lidocaine-infiltration-extraction-rct
   - type: companion-to
     target: local-anesthesia/chakraborty-2025-articaine-lidocaine-sip-ianb-onset
 ---
@@ -123,5 +123,5 @@ Sources: Panya 2025 ([[panya-2025-lidocaine-mepivacaine-ianb-comparison-rct]]), 
 
 ## Relation to Existing Wiki
 
-- **Hamad 2025** ([[hamad-2025-buffered-lidocaine-maxillary-extraction-rct]]): Buffered lidocaine in adults — same 1:10 NaHCO3 buffering protocol; adults onset 2.3 vs 4.7 min; children show faster absolute onset but greater relative benefit from buffering
+- **Hamad 2025** ([[hamad-2025-buffered-lidocaine-infiltration-extraction-rct]]): Buffered lidocaine in adults — same 1:10 NaHCO3 buffering protocol; adults onset 2.3 vs 4.7 min; children show faster absolute onset but greater relative benefit from buffering
 - **Chakraborty 2025** ([[chakraborty-2025-articaine-lidocaine-sip-ianb-onset]]): Non-buffered lidocaine adult IANB in SIP (7.8 min) — cross-comparison: pediatric infiltration faster than adult IANB even without buffering, consistent with anatomy differences

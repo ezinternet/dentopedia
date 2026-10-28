@@ -21,7 +21,7 @@ tags:
   - rct
 relations:
   - type: companion-to
-    target: local-anesthesia/hamad-2025-buffered-lidocaine-maxillary-extraction-rct
+    target: local-anesthesia/hamad-2025-buffered-lidocaine-infiltration-extraction-rct
   - type: companion-to
     target: local-anesthesia/gulnahar-2023-articaine-lidocaine-ianb-implant-surgery-rct
 ---
@@ -80,5 +80,5 @@ Rationale:
 
 ## Relation to Existing Wiki
 
-- **Hamad 2025** ([[hamad-2025-buffered-lidocaine-maxillary-extraction-rct]]): Buffered lidocaine for maxillary infiltration — both confirm maxillary infiltration is the foundational extraction technique
+- **Hamad 2025** ([[hamad-2025-buffered-lidocaine-infiltration-extraction-rct]]): Buffered lidocaine for maxillary infiltration — both confirm maxillary infiltration is the foundational extraction technique
 - **Gülnahar 2023** ([[gulnahar-2023-articaine-lidocaine-ianb-implant-surgery-rct]]): Mandibular IANB equivalence; together these two papers confirm agent choice matters less than technique quality
