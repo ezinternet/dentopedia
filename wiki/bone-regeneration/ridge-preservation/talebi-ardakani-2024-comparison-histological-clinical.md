@@ -57,7 +57,7 @@ Talebi Ardakani et al. (2024) compared allogenic bone graft + collagen type 1 wi
 | Nonmineralized tissue (%) | 25.76 ± 10.77 | 19.73 ± 9.82 | 0.208 (NS) |
 
 ## Related Papers
-- [[bone-regeneration/ridge-preservation/clark-2018-advanced-platelet-rich-fibrin-freeze-dried]] — A-PRF + FDBA vs FDBA alone for ridge preservation
-- [[bone-regeneration/ridge-preservation/thakkar-2016-comparative-evaluation-extraction-socket-preservation]] — PRF + DFDBA vs DFDBA alone
-- [[bone-regeneration/ridge-preservation/hauser-2013-clinical-histological-evaluation-postextraction-prf]] — PRF socket filling
-- [[bone-regeneration/ridge-preservation/avila-ortiz-2014-effect-alveolar-ridge-preservation-systematic-review]] — Systematic review/meta-analysis of ARP
+- clark-2018-advanced-platelet-rich-fibrin-freeze-dried — A-PRF + FDBA vs FDBA alone for ridge preservation (not yet ingested)
+- thakkar-2016-comparative-evaluation-extraction-socket-preservation — PRF + DFDBA vs DFDBA alone (not yet ingested)
+- hauser-2013-clinical-histological-evaluation-postextraction-prf — PRF socket filling (not yet ingested)
+- [[bone-regeneration/ridge-preservation/avila-ortiz-2014-alveolar-ridge-preservation-systematic-review]] — Systematic review/meta-analysis of ARP
