@@ -20,7 +20,7 @@ tags:
   - resin-composite
 relations:
   - type: foundational-for
-    target: "[[resin/overview-resin-polymerization-kinetics]]"
+    target: overviews/resin-polymerization-shrinkage-stress-overview
 ---
 
 ## 한국어 핵심요약
