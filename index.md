@@ -5212,6 +5212,9 @@ tags: []
 - [[implants/peri-implantitis/moraschini-2026-prevalence-of-peri-implantitis-around]] — 지르코니아 임플란트 주위염 유병률 SR+MA (19편·995개): ≤3년 2%, 3–5년 2%, >5년 8% (95% CI 0–23%), RCT 5편 지르코니아 vs 티타늄 RR 1.66 (비유의), GRADE 낮음~매우 낮음
 - [[implants/peri-implantitis/de-2026-impact-of-oral-hygiene-instructions]] — 점막염 RCT(n=48): 3개월 해소율 OHI 단독 39.1% vs OHI+기구치료 56%; 순응도 OR 11.4, 치주염 병력·구치부 위치 불리
 - [[implants/peri-implantitis/aksu-2026-soft-tissue-phenotype-modification-as]] — 준무작위(43명·55임플란트, KTW<2 mm 점막염): 비외과 치료 후 유리구개이식(FPG) 추가 시 6개월 BoP 범위 0.75 vs 1.83(p=0.001), KTW +2.36 mm, 성공 OR 8.44; 초록 수준
+- [[implants/peri-implantitis/gong-2022-novel-histopathological-classification-implant]] — IPL 조직병리 5분류 최초 SR (28편): 낭종 57% 최다, 첨단부 절제술 97% 성공; 치근단부 방사선 투과상 감별 진단 기반 (2022)
+- [[implants/peri-implantitis/gao-2024-prevention-retrograde-peri-implantitis-pulpal]] — RPI 역학·병인·예방 문헌고찰 (73증례): 주원인 인접치 미치료 치수·치근단 병소; 표준 가이드라인 미정립 (2024)
+- [[implants/peri-implantitis/shah-2016-radiographic-classification-retrograde-peri-implantitis]] — RPI 방사선 3등급 분류 최초 제안 (54 IOPA): 경도 <25% / 중등도 25–50% / 중증 >50% 임플란트 길이 (2016)
 
 ### bone-regeneration
 - [[bone-regeneration/zuercher-2026-block-versus-particulate-deproteinized-bovine]] — 치조골 열개 결손 동시 GBR 5년 RCT(22명): DBBM 블록 vs 입자형, 협측 경조직 두께 1.36 vs 0.07 mm(보정차 −1.2 mm, p<0.001), 임플란트 상실·주위염 없음
