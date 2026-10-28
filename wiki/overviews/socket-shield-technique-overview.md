@@ -28,6 +28,7 @@ tags: [overview, socket-shield, sst, immediate-implant, esthetic-zone, buccal-bo
 > - 대안 선호 경우: 협측판 이미 소실/열개 → GBR; 수직파절/감염 치근; 초보 술자 또는 실드 노출 구제책 없음 → 통상 즉시식립 + CTG.
 > - 미해결: 장기(≥5년) 생존·실드 거동, 표준 실드 기하/술식 프로토콜, Ji 2025 NMA는 ahead-of-print(transitivity 재확인 필요), 절대 효과크기는 증례보고 비중으로 과대.
 > - 2026-06-28 추가(초록 수준, 전문 미입수 — 수치 인용 보류): Brazyte 2025 체계적문헌고찰+메타분석(Systematic Review + Meta-Analysis, SR+MA, Stomatologija, PMID 41628481)이 최신 풀링 추정 보강, Gurbuz 2024 비이식 소켓 무작위대조시험(Randomized Controlled Trial, RCT, Int J Oral Maxillofac Surg, 39648089)은 실드 단독(그래프트 없이) 협측 보존 가능성 검증, Kotsakis 2022 협측 치근 잔존(buccal-root retention) SR+MA(Clin Implant Dent Relat Res, 36331494), Du Toit 2021 치근 수몰/부분발치치료(root submergence/PET) SR(J Prosthet Dent, 34750013)이 SST를 부분발치치료 계열 안에 위치시킴 — 모두 방향성 일관(우월·생존 양호)이나 본문 정량 anchor는 기존 Oliva 2023·Atef 2021 유지.
+> - **2026-10-28 추가 2편(둘 다 초록만, 수치 없음)**: 즉시 식립 없이 지연 식립을 전제로 한 소켓 쉴드의 치조제 보존 RCT(Badawy 2026)와 소켓 쉴드 vs 일반 즉시 식립의 심미 결과 네트워크 메타분석(Ji 2025)이다. 적응증을 "즉시 식립 보조"에서 "치조제 보존 단독"으로 넓히는 방향만 확인되고 크기는 미상이다. [확인]
 
 ## Three-line Summary
 
@@ -184,6 +185,8 @@ Alternatives and trade-offs:
 - [[overviews/implant-placement-timing-immediate-early-delayed]] — placement-timing decision (immediate/early/delayed); SST is an immediate-placement variant.
 - [[immediate-implant/socket-shield/durrani-2025-socket-shield-conventional-maxillary-rct]] — RCT (n=24, 36mo, maxillary anterior): SST vs conventional IIP — MBL 1.40 vs 1.70 mm (p=0.040), PES 10.50 vs 9.36 (p=0.008); both 100% survival; 2nd fully-ingested RCT for this overview.
 - All 18 SST pages — see Evidence Map above.
+- [[immediate-implant/socket-shield/badawy-2026-socket-shield-delayed-ridge-change-rct]] — 신규 2026-10-28: RCT, socket shield for ridge preservation with delayed implant placement (abstract only; no quantitative data).
+- [[immediate-implant/socket-shield/ji-2025-socket-shield-vs-conventional-esthetic-nma]] — 신규 2026-10-28: network MA, SST vs conventional immediate placement for esthetic outcomes (abstract only; no effect estimates).
 
 ## Evidence Update — Socket Shield vs Conventional IIP: 27-Study SR+MA (Lu 2025)
 
