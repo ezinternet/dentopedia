@@ -43,6 +43,7 @@ relations:
 > - **"양성"이라는 통념의 반례 둘**: ① 22G 천자 VVS에서 서맥 시작 **약 45초 후 동정지**, 3–5초 강직성 발작 2회, 수축기혈압 일시 76 mmHg — 흉부압박 + 아트로핀 0.5 mg으로 정지 후 약 45초에 회복, BIS는 서맥 **전에** 90 → 70대로 하강(kawauchi-2025). ② 21세 남의 반복 의식소실이 경사검사에서 장시간 무수축을 보여 **디소피라미드 + 인공심박동기** 후에야 치과 치료가 가능했다(sharma-2006). [확인]
 > - **회복 판정**: 단순 VVS는 1–2분 내 회복. 의식 회복 **>2분** 또는 완전 회복 **>15–20분**이면 다른 진단을 의심한다. 원인 불명 실신이 10세 미만 또는 40세 초과에서 발생하면 심장·신경과 의뢰. [확인]
 > - **남은 공백 2개**: ① **시술 1건당** 발생률(발치·주사·스케일링 단위) — obata-2021이 *방문* 단위 분모는 채웠으나 시술 단위는 아직 없다, ② **예방적 글리코피롤레이트의 치과 RCT는 존재 자체가 확인되지 않음**(malave-2022도 "no study"로 명시). 이 두 축은 백필로 채울 수 없어 신규 등재만 감시한다. [미검증]
+> - **증례 2편 추가(2026-10-28)**: 성인 중증 치과불안 환자의 수복 중 혈관미주신경성 실신(Mistry 2023)과 7세 아동의 신경심장성 실신(Ross 2013)이 같은 전구증상(창백·발한·어지러움·오심)과 같은 처치(기도·호흡·순환 평가 → 앙와위 → 필요 시 BLS·응급의료)를 보였다. 원자료 없는 교육용 증례로, 불안 자체가 유발 인자이고 소아도 성인 모델로 관리된다는 점만 보탠다. [확인]
 
 ## Three-line Summary
 
@@ -284,6 +285,8 @@ hockin-2023의 임상적 의미는 "통증을 줄이면 반사가 줄어든다"�
 - [[drug/systemic-disease/zouaghi-2026-recurrent-vasovagal-syncope-during-a]] — 동일 세션 재발 증례(외관상 회복 ≠ 자율신경 안정).
 
 ---
+- [[drug/systemic-disease/mistry-2023-severe-anxiety-fainting-dental-restoration]] — 신규 2026-10-28: adult vignette; dental anxiety as VVS trigger; prodrome recognition and ABC-first response (case-report).
+- [[drug/systemic-disease/ross-2013-neurocardiogenic-syncope-child-dental-case-review]] — 신규 2026-10-28: 7-year-old with neurocardiogenic (vasovagal) syncope during treatment; pediatric presentation matches the adult model (case-report, abstract only).
 
 ## 업데이트 이력
 
