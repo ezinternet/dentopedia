@@ -7,6 +7,9 @@ category: [local-anesthesia]
 pdf_path: /Users/oracleneo/llm-wiki/papers/hamad-2025-buffered-lidocaine-infiltration-extraction-rct.pdf
 pdf_filename: hamad-2025-buffered-lidocaine-infiltration-extraction-rct.pdf
 source_collection: external
+pmid: 41459126
+pmcid: PMC12742648
+source_url: https://pubmed.ncbi.nlm.nih.gov/41459126/
 ---
 
 ## Why Ingested
