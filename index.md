@@ -4170,6 +4170,7 @@ tags: []
 - [[overviews/dbbm-bone-substitute-overview]] — DBBM·골대체재 흡수특성·BCP vs DBBM·PRF 보조·BMP2/BioCaP 종합 (9편 신규)
 - [[overviews/dbbm-core-properties-hybrids-collagen-overview]] — **하위 오버뷰** (모체 축 1–3): DBBM은 거의 영구 잔존(잔존 38–44%), 합성 첨가제 1:1 하이브리드, BCP +3.48%·잔존 −8.41%, 콜라겐 개질·교차결합 방식은 결과 불변
 - [[overviews/dbbm-platelet-adjuncts-bcp-bmp2-overview]] — **하위 오버뷰** (모체 축 4–6): PRF·PRGF 이득/PRP 비유의, 조직계측 이득이 ISQ·생존으로 이어지지 않음, BCP 생존 자료 없음, BioCaP 전임상
+- [[overviews/bone-regeneration-biologic-cell-hormone-adjuncts-overview]] — 골재생 보조제 종합: 생물학적 제제(PRP·rhBMP-2) 이득은 1 mm 미만, 상악동 높이 이득 없음(Monje 2026 SR+MA); 세포·호르몬·멜라토닌·PBM·나노섬유 젤은 전임상·약한 근거; 자가골 대체(rhBMP-2·P-15·L-PRF 블록)는 "비슷함"이지 "더 나음" 아님
 - [[overviews/dbbm-allograft-particle-size-long-term-safety-overview]] — **하위 오버뷰** (모체 축 7–10): 동종골 플러그 잔존 11.18 vs 19.80%, 입자 크기 무차이, 이종-동종 동등, 장기 합병증 2–13년·GRADE 낮음, 제품 수준 변동
 - [[overviews/c-shaped-canal-anatomy-prevalence-overview]] — **NEW Overview**: C형 근관 유병률·지역·성별 매트릭스 종합 (12편). 하악 2대구치 17.3% 최다(Yousefi 101-study SR+MA), 상악 1대구치 0.8% 최저; 여성·아시아 우세, Fan C2 dominant; song-2008 박층 협측벽 천공 위험·isthmus 소독 임상 함의 (2026)
 - [[overviews/single-vs-multivisit-endodontic-outcomes-overview]] — **NEW Overview**: 단일 vs 다회 방문 근관치료 치유·통증 결과 종합 (5편). 방사선 치유·통증 임상적 유의차 없음(Mergoni Cochrane 47 RCT + Bobba·Chaitanya·Karaoğlan RCT); 단일방문 초기 통증 소폭↑(생활치 RR 2.16), Rossi-Fedele는 단일방문 치유 소폭 우위(RR 1.10) (2026)
