@@ -39,6 +39,7 @@ source_papers:
 > - **장기 anchor**: Thoma 2024 10년 다기관 RCT — 생존 96.0% vs 100%(p=.24), 양 군 median MBL 0.00 mm → 내구성 근거 강화(단 21% 탈락·단일 trial).
 > - **장기 주의**: ≥5년 pool은 얇고 저확실성 — Mester 표준+SFE가 수치적으로 높음(RR 0.97, p=0.07), Alemán 2025는 7 RCT 중 5편 high RoB.
 > - **결정 1번째 gate(RBH)**: ~5–6 mm 이상 → 6–8 mm 숏이 저이환 default; ~4–5 mm 미만 → 상악동거상(survival 벤치마크 >97%, Derbishi 2026)이 신뢰 경로. 단, Lombardo 2022(RBH 4.45mm, 5mm 초단축+동시 내부거상)와 Cho 2024(RBH 2.1mm, 치조정 접근 전용 키트+staged 프로토콜, n=11)는 이 경계를 아래로 밀어내는 소규모 후향적 근거를 제시 — 대조군·생존율 데이터 부재로 practice-changing 근거는 아님.
+> - **시나리오별 확실성(Ravida 2024, RCT만 + 시험순차분석 + GRADE, 2026-10-28 추가)**: 상악동 거상 대체(6 mm), 자연골, 전악 수복에서 5년 생존·합병증이 장경과 같다는 근거는 중등도~높음이다. 하악 수직 증대 대체와 4–5 mm 길이는 근거 부족이다. Pohl 2017 다기관 RCT(잔존골 5–7 mm)도 3년 생존 100% vs 100%, MBL −0.44 vs −0.43 mm로 Thoma 계열과 독립적으로 같은 결과였다. [확인]
 > - **결정 2번째 gate(C/I·부하)**: 단, Torres-Alemany 2020은 C/I 비가 임플란트 상실(p=0.9)·MBL(p=0.36)에 유의 영향 없음 → 높은 C/I 단독은 숏 거부의 약한 이유, 진짜 gate는 교합부하/parafunction. 예외: 비고정(nonsplinted) 숏 단일치관(≤6 mm)은 장기 생존 열위(Xu 2020, RR 0.94, p=.01) → splinting/거상 고려.
 > - **결정 3·4번째**: 동등 시 숏은 이환·비용·시간·술후통증 우위, 거상은 publish된 track record 우위 → 환자 우선순위로 tie-break. 거상 시 RBH 충분하면 경치조골(transcrestal)이 측방창보다 술후 통증 적음(Menini 2025, PROM 초록 기반·미검증).
 
@@ -83,6 +84,10 @@ Two cautions keep this from collapsing into "always place short": (1) the pooled
 | Xu 2020 (single-crown) | SR+MA (RCT) | 5 RCT | short-term NS; long-term short poorer (RR 0.94, p=.01) | NS (MD 0.00) | nonsplinted single crowns — caution | sr+ma |
 | Torres-Alemany 2020 | SR+MA | 14 quant | — | no sig. effect of length/diameter/(C/I) on MBL | no sig. effect of C/I on implant loss (p=0.9) | sr+ma |
 | Lombardo 2022 | Retrospective, 5-yr | 79 pt / 155 impl (Bicon 5/6/8mm) | 94.84% overall (5mm 93.75%, 6mm 94.00%, 8mm 100%) | CBL −0.36mm/5yr | **hybrid option at RBH<5mm boundary**: ultra-short (5mm) + simultaneous *internal* (transcrestal) sinus lift, mean RCBH 4.45→9.25mm (placement)→5.25mm (5yr); membrane perforation 7.74%, no attributable loss; single-crown, VAS satisfaction 8.2→9.0 | retrospective |
+| [[implants/short-narrow/thoma-2015-short-implants-sinus-floor-elevation]] | RCT, 1-yr (Thoma 2024 parent cohort) | 91 pt / 101 impl | — | — | OHIP-49 and VAS no different; SFE more invasive — the 1-yr PROM start of the 10-yr trial above | rct |
+| [[implants/short-narrow/pohl-2017-short-dental-implants-long-dental]] | Multicentre RCT, 3-yr, RBH 5–7 mm | — | 100% vs 100% | −0.44 vs −0.43 mm (NS) | independent second RCT at the same short-vs-graft question | rct |
+| [[implants/short-narrow/ravida-2019-meta-analysis-randomized-clinical-trials]] | SR+MA (RCT), ≤6 vs ≥10 mm | — | broadly comparable in selected indications | varied by augmentation/protocol | PROMs limited | sr+ma |
+| [[implants/short-narrow/ravida-2024-short-compared-dental-implants-different]] | SR+MA (RCT) + TSA + GRADE, by scenario | — | 5-yr survival similar for sinus-lift scenario (6 mm), native bone, full-arch (moderate–high certainty) | — | mandibular vertical augmentation and 4–5 mm lengths: insufficient/low certainty | sr+ma |
 
 ## Clinical Decision Points
 
@@ -116,6 +121,10 @@ Decision logic in prose:
 - **Isolated short single crowns** carry a distinct long-term survival caveat (Xu 2020, RR 0.94 at long-term) that the sinus-focused SR/MAs do not capture — splinting effects on short-implant durability remain under-pooled.
 
 ## Related Papers
+- [[implants/short-narrow/ravida-2024-short-compared-dental-implants-different]] — 신규 2026-10-28: scenario-stratified RCT SR+MA with TSA/GRADE; sinus-lift, native-bone and full-arch scenarios moderate–high certainty, 4–5 mm and mandibular VRA insufficient.
+- [[implants/short-narrow/ravida-2019-meta-analysis-randomized-clinical-trials]] — 신규 2026-10-28: earlier RCT meta-analysis, cautious equivalence in selected cases.
+- [[implants/short-narrow/pohl-2017-short-dental-implants-long-dental]] — 신규 2026-10-28: multicentre RCT, RBH 5–7 mm, 3-yr survival 100% both, MBL equal.
+- [[implants/short-narrow/thoma-2015-short-implants-sinus-floor-elevation]] — 신규 2026-10-28: 1-yr PROM report of the cohort later followed to 10 years (Thoma 2024).
 - [[sinus-lift/lateral/toledano-2022-short-versus-standard-implants-sinus]] — short ≤6 mm vs standard+SFE; survival equal, MBL favors short.
 - [[implants/short-narrow/zhang-2024-short-vs-long-implants-sinus]] — network MA across short / immediate-SFE / delayed-SFE.
 - [[sinus-lift/lateral/chaware-2021-short-vs-long-implant-sinus-graft-sr-ma]] — 22-RCT pool, survival equivalent (I²=0%).
