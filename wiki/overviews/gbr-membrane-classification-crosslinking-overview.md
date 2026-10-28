@@ -28,6 +28,10 @@ relations:
 > - EDC(Park 2015, 토끼 8 mm 두개골 결손, n=12): 2주에 막을 통과하는 혈관 신생이 있었고 8주에 막 형태가 유지되었으며 이물 반응이 없었다. 막 단독군은 2주에 중앙부가 붕괴되었고 BCP + EDC 막 > BCP > EDC 막 > sham 순이어서, 막은 내부 이식재 지지 없이 공간을 유지하지 못한다. [확인]
 > - 어류 콜라겐(Bujda 2026, 쥐 대퇴 결손, n=21): 잉어 피부 EDC/NHS 막 단독이 가장 좋은 경향을 보였고 모든 시점에서 비자극성이었다. Bio-Oss를 더해도 이득이 없었고, 비임계 크기의 네 벽 결손이라 임상 증대로 외삽할 수 없다. [확인]
 > - 리보스(Friedmann 2022, 비글 5마리): DBBM + 리보스 가교 막(Ossix Plus, 핀 없음)이 DBBM + 천연 콜라겐 막(Bio-Gide, 핀 4개)보다 신생골이 유의하게 많았다(p=0.001). 가교 막은 충분한 자체 안정성이 있으면 핀 고정이 필요 없을 수 있다. [확인]
+> - 리보스(GLYMATRIX) 임상 라인 6편 추가(2026-10-28): 사람 RCT에서 Ossix는 e-PTFE와 조직형태계측상 동등했고(광물화골 42% vs 39%, NS; Friedmann 2002), 측방 증대에서 비가교 막보다 치조정 수준 골 획득이 컸다(1.8 vs 0.7 mm, p=0.046; Friedmann 2011). [확인]
+> - 같은 라인의 발치와 보존(Cook 2012 RCT): 가교 스펀지 + Ossix Plus가 생활골 47.03% vs 32.83%(P<0.001), 잔존 이식재 0% vs 13.44%였다. 쥐 두개골(Baggio 2025)에서는 30일엔 Bio-Gide가 앞섰지만 60일에 Ossix Plus가 역전했다(BV 17.33 vs 8.06 mm³). [확인]
+> - 단독 스캐폴드 사용: Ossix Volumax 단독 측방 증대(Smidt 2019, 증례 1례)와 Ossix Bone 단독 치조정접근 상악동 거상 (Transcrestal Sinus Floor Elevation, TSFE)(Canullo 2023, 24명 파일럿, ISQ 62→77)은 가설 생성 수준이다. [확인]
+> - 주의: 6편이 모두 한 제조사 기술(GLYMATRIX) 계열이라 독립 반복이 부족하고, Mizraji 2023의 "가교 콜라겐은 노출 위험이 약 30% 높다"는 신호와 함께 읽어야 한다. [확인]
 > - 종합 한 줄: 현재 선호는 EDC 계열(포유류·어류 콜라겐)이고 리보스는 임상에서 쓸 수 있으며 GA는 legacy다. 가교 효과 근거는 대부분 동물 연구에 있다. [미검증]
 
 ## Three-line Summary
@@ -136,6 +140,25 @@ In chronic L-shaped mandibular defects in 5 beagle dogs (5×5 defects, 3-month h
 
 A secondary finding: calcium sulfate + RCLC showed the least residual non-bone graft area (faster material resorption; more complete bone replacement), though at the cost of lower new bone formation than DBBM + RCLC. This indicates graft material choice — not just membrane crosslinking — independently influences the bone formation vs graft resorption trade-off. Membrane pin-tacking was not required when using crosslinked membranes with adequate intrinsic stability, challenging the routine assumption that fixation is mandatory.
 
+**Ribose (GLYMATRIX) clinical line — six additional papers (added 2026-10-28)**
+
+Friedmann 2022 was the only ribose study in this overview until now. Six further papers extend the ribose line from one dog model to human RCTs, a rat critical-size model and two "membrane-as-scaffold" uses:
+
+| Study | Design | Comparison | Key result |
+|---|---|---|---|
+| [[bone-regeneration/friedmann-2002-ossix-vs-ptfe-gbr-histomorphometry]] | RCT, 28 pts, 7-mo biopsy | Ossix vs e-PTFE, both over DBBM | Mineralized bone 42% vs 39% (NS); DBBM remnants ~14% in both — histologic equivalence with the non-resorbable gold standard |
+| [[bone-regeneration/friedmann-2011-rct-cross-linked-vs-non-crosslinked-lateral-augmentation]] | Pilot RCT, 37 dehiscence sites, 6 mo | Ossix Plus vs non-crosslinked, both over BCP | Crestal lateral gain 1.8 vs 0.7 mm (p=0.046); vertical 1.1 vs 0.2 mm (p=0.035); flap-margin gain converged (NS) |
+| [[bone-regeneration/cook-2012-ridge-preservation-glymatrix-rct]] | RCT, 44 pts, 21-wk core biopsy | Crosslinked HA-collagen sponge + Ossix Plus vs xenograft + native membrane | Vital bone 47.03% vs 32.83% (P<0.001); residual graft 0% vs 13.44% |
+| [[bone-regeneration/baggio-2025-ossix-plus-vs-biogide-rat-calvaria-gbr]] | Animal, 72 rats, 8-mm CSD | Ossix Plus vs Bio-Gide | Bio-Gide ahead at 30 d; Ossix Plus ahead at 60 d (BV 17.33 vs 8.06 mm³; BV/TV 45.67% vs 23.69%) |
+| [[bone-regeneration/smidt-2019-ossix-volumax-lateral-ridge-augmentation]] | Case report, n=1 | Thick crosslinked scaffold alone, no bone substitute | Buccal volume restored at 6 mo; stable at 2 yr |
+| [[sinus-lift/transcrestal/canullo-2023-ossix-bone-transcrestal-sinus-augmentation]] | Prospective pilot, 24 pts, RBH >4 mm | HA/crosslinked collagen sponge as sole TSFE graft | ISQ 62.19 → 76.91 at 6 mo; graft height 7.24 → 5.46 mm at 12 mo, then stable |
+
+What this adds:
+- **The time course matters.** Baggio 2025 shows the native membrane ahead early and the crosslinked one ahead late. This matches the Axis 1 requirement that GBR needs 16–24 weeks of barrier function, and it means short-term comparisons can make crosslinked membranes look worse than they are.
+- **The advantage is local.** In Friedmann 2011 the gain difference sits at the crest and disappears at the flap margin, so the crosslinked barrier seems to matter most where soft-tissue pressure and early resorption threaten the graft.
+- **Membrane-as-graft is not established.** Smidt 2019 (n=1) and Canullo 2023 (24 patients, no control arm) use crosslinked collagen as the only augmentation material. These are hypothesis-generating; they do not overturn the Park 2015 finding (Axis 2) that a membrane without graft support collapses in a critical-size defect.
+- **Limits.** All six papers test one manufacturer's technology, and several come from groups close to its development, so independent replication is thin. The benefit must also be weighed against the higher exposure rate reported for crosslinked collagen (Mizraji 2023, Axis 1).
+
 **Crosslinking decision synthesis**:
 
 | Agent | Barrier Duration | Cytotoxicity | Evidence Base | Current Status |
@@ -143,7 +166,7 @@ A secondary finding: calcium sulfate + RCLC showed the least residual non-bone g
 | None (native collagen) | 2–4 weeks (too short for GBR) | Nil | Standard of care | Acceptable for short-window horizontal augmentation with graft; undershoots GBR requirement |
 | GA | 12+ weeks (rat CSD intact) | Moderate — high concentration risk | Animal (Veríssimo 2014) | Legacy; still used but being displaced |
 | EDC / EDC-NHS | 8+ weeks confirmed | Low (non-irritant in rat, Bujda 2026) | Animal (Park 2015 bovine; Bujda 2026 carp) + in vitro | Current preferred crosslinking; now demonstrated across mammalian and fish collagen sources |
-| Ribose | 3-month clinical benefit confirmed | Low | Animal (Friedmann 2022), human (Zubery) | Clinically available (Ossix Plus) |
+| Ribose | 3-month clinical benefit confirmed; late (60-d) advantage over native collagen in rat CSD | Low | Animal (Friedmann 2022, Baggio 2025); human RCTs (Friedmann 2002, 2011; Cook 2012) | Clinically available (Ossix Plus); evidence from one manufacturer's line |
 
 ---
 
