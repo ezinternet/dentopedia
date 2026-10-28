@@ -108,5 +108,5 @@ Table 1–3: 치조·악골·치근단 임상시험 증거 지도 — Ossix Volu
 ## Relation to Wiki
 
 - Ossix Volumax single case [[smidt-2019-ossix-volumax-lateral-ridge-augmentation]] — this review provides the scaffold classification context
-- PDL stem cells as osteoprogenitors ([[../bone-biology/yuan-2018-wnt-pdl-extraction-socket-healing]]) — aligned with "PDL stem cells" row in Huang 2024 Table on stem cell types
+- PDL stem cells as osteoprogenitors ([[bone-biology/yuan-2018-wnt-pdl-extraction-socket-healing]]) — aligned with "PDL stem cells" row in Huang 2024 Table on stem cell types
 - GBR evidence base: [[benic-2014-horizontal-bone-augmentation-guided-regeneration]], [[esposito-2009-horizontal-vertical-bone-augmentation-cochrane]]
