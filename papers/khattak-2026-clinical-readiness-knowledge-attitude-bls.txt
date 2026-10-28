@@ -1,0 +1,76 @@
+Title: Assessment of clinical readiness, knowledge and attitude, regarding Basic Life Support (BLS) and cardiopulmonary resuscitation (CPR) skill among dentists practicing in Saudi Arabia
+Authors: Khattak et al.
+PMID: 42111810
+PMC: PMC13156951
+DOI: 10.7717/peerj.21098
+Journal: PeerJ
+Year: 2026
+
+Introduction
+
+Medical emergencies, though relatively rare in dental practice, can occur unexpectedly and require immediate and competent management to prevent serious complications or fatalities. Dentists are often the first and sometimes the only healthcare providers present when such emergencies occur in the dental office. Therefore, having the knowledge, skills, and confidence to initiate Basic Life Support (BLS) and cardiopulmonary resuscitation (CPR) is not only important but an ethical and professional obligation. Dentists, due to the nature of their work and prolonged interaction with patients, often involving sedation, local anesthesia, or stressful procedures are at risk of encountering such emergencies and must be adequately prepared.
+
+BLS is a set of basic interventions including chest compressions, rescue breathing, and defibrillation with an automated external defibrillator (AED). The American Heart Association (AHA) and other global health bodies emphasize the importance of BLS competency for all healthcare providers. In response, many countries including Saudi Arabia have made BLS training and certification mandatory for licensure and employment in healthcare settings. However, evidence suggests that simply holding a certification may not necessarily translate into adequate knowledge or the ability to perform effective CPR in real-life situations. Over time, without continuous reinforcement or practical exposure, skills may deteriorate, leading to poor performance in emergencies. Furthermore, several studies conducted globally and regionally have reported deficiencies in knowledge, confidence, and readiness among dentists and other healthcare workers in relation to CPR and emergency management. These gaps are attributed to factors such as infrequent training, lack of hands-on practice, outdated knowledge, and absence of emergency drills or preparedness protocols in dental clinics.
+
+Methods
+
+Study design: Cross-sectional study conducted among licensed dentists practicing in various regions of Saudi Arabia, including both private and government healthcare sectors. Data collected through a structured, self-administered online questionnaire (Sep-Oct 2024).
+
+Sample size: 400 licensed dentists (convenience sampling via professional associations, social media, dental clinics). Minimum required: 385 (50% prevalence, 95% CI, 5% margin of error).
+
+Questionnaire: 27-item validated instrument with 4 sections: sociodemographics (6 items), knowledge (9 MCQ items), attitudes (4 dichotomous items), clinical readiness/confidence (8 items). Cronbach's alpha: knowledge α=0.78, attitude α=0.81, clinical readiness α=0.76.
+
+Knowledge scoring: Low (1-3), Moderate (4-6), Good (7-9) out of 9 total points.
+
+Statistical analysis: SPSS v26. Chi-square, t-tests, ANOVA. Binary logistic regression for predictors of good knowledge and CPR confidence.
+
+Results
+
+Demographics (n=400):
+- Age: 21-30 yrs 48.0%, 31-40 yrs 36.5%, ≥41 yrs 15.5%
+- Gender: Male 44.5%, Female 55.5%
+- Designation: General dentist 44.5%, Intern/house officer 33.5%, Faculty/specialist 22.0%
+- Years of experience: <5 yrs 34.0%, 6-10 yrs 41.0%, >10 yrs 24.5%
+- BLS/CPR workshop attendance within last 5 years: 57.0%; before 5 years: 43.0%
+- Prior emergency encounter in practice: 26.8%
+
+Knowledge:
+- Good knowledge: 26.0%
+- Moderate knowledge: 41.0%
+- Low knowledge: 33.0%
+- Significantly associated with recent workshop attendance (p=0.001) and prior emergency encounter (p=0.001)
+- NOT significantly associated with age, gender, designation, or years of experience
+
+Attitudes:
+- CPR is critical for dental professionals: agree 85.5%
+- Feel morally obligated to help during emergencies: agree 90.5%
+- BLS training should be mandatory for licensure: agree 74.0%
+- BLS is not relevant in dental settings: agree 29.5%
+
+Clinical Readiness:
+- BLS/CPR protocol in clinic: 44.5%
+- Emergency kit available: 58.0%
+- AED available: 7.5%
+- Interested in refresher training: 61.0%
+- Confidence in chest compressions: 41.0% very confident
+- Confidence in AED use: 28.5% very confident
+- Confidence in managing choking: 66.0% very confident
+- Confidence in recognizing cardiac arrest: 41.5% very confident
+
+Logistic Regression — Predictors of Good Knowledge:
+- Model: χ²(9)=105.6, p<0.001, Nagelkerke R²=34.0%, accuracy 83.5%
+- BLS/CPR workshop within last 5 years: aOR=4.91 (95% CI 2.60-9.24), p<0.001
+- Prior emergency encounter: aOR=12.97 (95% CI 6.99-24.06), p<0.001
+- Age, gender, designation, experience: NOT significant
+
+Logistic Regression — Predictors of CPR Confidence:
+- Model: χ²(9)=77.96, p<0.001, Nagelkerke R²=23.9%, accuracy 70.0%
+- BLS/CPR workshop within last 5 years: aOR=6.93 (95% CI 4.19-11.46), p<0.001
+- Male gender (vs female): aOR=0.59 (95% CI 0.37-0.93), p=0.023 (lower confidence)
+- Age, designation, experience, prior emergency: NOT significant
+
+Conclusions
+
+Dentists in Saudi Arabia exhibit positive attitudes but insufficient knowledge and confidence regarding BLS/CPR. Recent BLS/CPR training and prior exposure to medical emergencies were the strongest predictors of preparedness. Findings highlight the need for regular, hands-on refresher training, stronger curricular integration, and enforcement of clinic-level emergency preparedness measures, including AED availability, to enhance patient safety and professional competence.
+
+Limitations: Cross-sectional design, convenience sampling, self-reported confidence, no geographic distribution data, actual CPR skill performance not assessed.
