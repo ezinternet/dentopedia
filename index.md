@@ -5332,3 +5332,8 @@ tags: []
 - [[drug/systemic-disease/gazal-2026-local-anesthetic-medically-compromised-review]] — 2026 · narrative-review · 전신질환 환자 가장 안전한 국소마취제 선택 서술 리뷰
 - [[drug/systemic-disease/mistry-2023-severe-anxiety-fainting-dental-restoration]] — 2023 · case-report · 중증 불안·실신 반복 치과 수복 환자 증례 리뷰
 - [[drug/systemic-disease/ross-2013-neurocardiogenic-syncope-child-dental-case-review]] — 2013 · case-report · 소아 치과 신경심장성 실신 증례 리뷰
+
+### drug/medical-emergencies — 치과 응급대응 준비도 + AED 역량 (Tier A 서베일런스 2026-10-28)
+- [[drug/medical-emergencies/gazal-2026-risk-factors-adverse-events-tooth-extraction]] — 2026 · narrative-review · 발치 시 의과적 고위험 환자 이상반응 위험인자·응급처치 리뷰; HbA1c <9%, INR ≤3.5, BP <180/110 임계값
+- [[drug/medical-emergencies/khattak-2026-clinical-readiness-knowledge-attitude-bls]] — 2026 · cross-sectional · 사우디아라비아 치과의사 400명 BLS/CPR 준비도 조사; 최근 교육(aOR 4.91)·응급 경험(aOR 12.97)이 지식 예측인자; AED 보유율 7.5%
+- [[drug/medical-emergencies/tayebi-hillali-2026-competence-semi-automated-external-defibrillator]] — 2026 · prospective · 스페인 치과대 최종학년 AED 실기 역량: 전통 음성안내 시 8/10개 항목 <10% 이행(쇼크전달 143s); 수정 안내로 7항목 유의 개선·쇼크 116s(-27s)
