@@ -11,6 +11,9 @@ evidence_level: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/hamad-2025-buffered-lidocaine-infiltration-extraction-rct.pdf
 pdf_filename: hamad-2025-buffered-lidocaine-infiltration-extraction-rct.pdf
 source_collection: external
+pmid: 41459126
+pmcid: PMC12742648
+source_url: https://pubmed.ncbi.nlm.nih.gov/41459126/
 tags: [buffered-lidocaine, local-anesthesia, sodium-bicarbonate, infiltration, supraperiosteal, maxillary-extraction, injection-pain, onset-of-action, RCT]
 relations:
   - type: reinforces
