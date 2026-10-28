@@ -21,6 +21,9 @@ source_collection: synthesis
 > - **화학 축 (Aguirre-Gil 2026)**: dual-cure 시멘트 2종(NX3 Nexus vs Variolink N) 물리화학 비교 — Variolink N 방사선불투과도(radiopacity) 유의 우위(2.00 vs 1.59mmAl, ytterbium 함유), NX3 Nexus pH 유의 우위(5.84 vs 5.32, 더 중성). 용해도(solubility)는 차이 없음, 둘 다 ISO 4049 기준 충족.
 > - **왜 dual-cure가 두꺼운 간접수복에 안전판인가**: 화학적(자가) 중합 성분이 광 도달 부족을 보완 — Yalçinkaya의 "dual-cure 두께 안정성"이 그 실증. 단, Aguirre-Gil은 DC·기계적 물성을 측정하지 않아 dual-cure의 자가중합 성분이 "안전판"으로 작동하려면 **충분한 대기시간(자가중합 kinetics)**이 전제됨을 명심.
 > - **임상 결정 체크리스트**: ① 큐어링 팁은 물리적으로 닿을 수 있는 한 최대한 근접 (거리 증가는 DC·세포생존율 동시 저하); ② 벌크필은 하면(바닥면) DC 리스크 인지 — 깊은 와동엔 sculptable capping layer 또는 dual-cure 대체 고려; ③ hybrid ceramic/지르코니아 등 간접수복 2.5mm 이상 두께엔 dual-cure resin cement 우선 선택(광 의존 단독 composite luting 지양); ④ 방사선 검출성이 중요한 부위(변연 잔사·임플란트 보철)엔 ytterbium계 고radiopacity 시멘트(Variolink N) 우선.
+> - **장치·광개시제 축 7편 추가(2026-10-28)**: 광개시제 (Photoinitiator, PI)가 맞아야 빛이 일한다. 캄포퀴논 (Camphorquinone, CQ)은 청색광, TPO·BAPO 같은 대체 광개시제는 보라색 대역이 필요하다(Kowalska 2021, Watts 2023). FDI 2022 정책 성명은 협대역 LED가 대체 광개시제를 활성화하지 못할 위험을 공식 인정하고 제조사에 스펙트럼 공개를 요구했다. [확인]
+> - Polywave의 이득은 작고 조건부다: 대체 광개시제 재료에서 DC는 18편 중 9편, 미세경도는 7편에서만 좋아졌고 굴곡강도는 차이가 없었다(Lima 2023, 근거 질 낮음). 벌크필은 ≥1000 mW/cm²·≥20초면 대부분 충분하고(하면/상면 경도비 ≥0.8, DC ≥50%), polywave는 유용하지만 필수는 아니다(Lima 2018 SR 33편). [확인]
+> - 실제로 중요한 것은 전달된 에너지(J/cm²)·스펙트럼 일치·빔 균일성이지 표기 조사강도가 아니다. 거리·각도·유지관리·교육이 장치 세대보다 크고, "boost" 모드보다 시간을 늘리라는 권고다(Ceinos 2026). 레진 시멘트는 dual-cure가 DC 70–90%로 가장 높고, 세라믹 0.4 mm에서 약 83%, 1.5 mm에서 약 77%였다(Santos 2024). [확인]
 > - **확신도**: 4편 모두 in-vitro(전임상) — 임상 RCT 검증 없음. n이 작아(그룹당 3~7) 예비적(preliminary) 근거로 읽어야 함. Hashemian은 윤리승인서 소재불명을 저자 스스로 명시 — 근거 중량은 다소 낮게 잡을 것.
 
 ## Three-line Summary
@@ -147,12 +150,32 @@ Put together, Yalçinkaya 2026 and Aguirre-Gil 2026 support a two-part clinical 
 
 ---
 
+## Part 0 — The Light Source and the Photoinitiator (added 2026-10-28)
+
+Parts 1–3 treat the light as fixed and vary distance and thickness. Seven further papers vary the light itself and the chemistry it has to activate.
+
+| Paper | Level | Contribution |
+|---|---|---|
+| [[resin/watts-2023-light-curing-dental-resin-based]] | narrative-review | Photophysics: Beer–Lambert attenuation, Norrish type I vs II initiators, monowave vs polywave LEDs; reciprocity (irradiance × time) does not always hold |
+| [[resin/kowalska-2021-photoinitiators-used-resin-based]] | narrative-review (64 articles) | CQ dominates but yellows and has cytotoxicity concerns; TPO/BAPO give better DC and colour but need violet light; germanium initiators (Ivocerin) roughly double DC within the CQ-compatible range |
+| [[resin/fdi-2022-intraoral-light-curing-resin-based]] | consensus | Narrow-spectrum LED and laser units may fail to activate alternative initiators; ISO 10650/4049 require full spectral data; training on tip position, angle and time |
+| [[resin/lima-2023-polywave-light-emitting-diodes-more]] | sr (18 studies) | Polywave improved DC in 9/18 and microhardness in 7/18; no difference in flexural strength; low certainty |
+| [[resin/lima-2018-depth-cure-bulk-fill-resin]] | sr (33 studies) | Bulk-fill depth of cure acceptable at ≥1000 mW/cm² and ≥20 s (bottom/top hardness ≥0.8, DC ≥50%); polywave useful but not essential |
+| [[resin/ceinos-2026-light-curing-units-restorative-dentistry]] | narrative-review (181 refs) | Delivered radiant exposure, spectral match, beam homogeneity and effective tip diameter decide curing, not the stated mW/cm²; operator variables often outweigh device generation; ≤2–3 standard cycles keep pulpal ΔT ≤5.5 °C |
+| [[resin/santos-2024-impact-inorganic-fillers-organic-content]] | sr (scoping, 15 studies) | Resin cement DC: dual-cure 70–90% highest; ~83% under 0.4 mm ceramic vs ~77% under 1.5 mm; filler, monomer ratio and refractive-index match all matter |
+
+How this fits the rest of the page:
+- **The chain has one more link.** Light leaves the tip (device, spectrum), crosses distance or ceramic (Parts 1–2), and must match the initiator (Part 0). A failure at any link lowers DC. The distance findings in Part 1 are the largest measured effects in this wiki; the polywave effect in Lima 2023 is smaller and inconsistent.
+- **Polywave matters only when the initiator needs it.** For CQ-only composites a good monowave LED is enough. For materials with TPO, BAPO or other violet-absorbing initiators, check the manufacturer's spectrum or use a polywave unit (FDI 2022).
+- **Time is the safer lever than power.** Lima 2018 and Ceinos 2026 both point to adequate exposure (at least 20 s at ≥1000 mW/cm² for bulk-fill) rather than high-power short "boost" modes.
+- **Santos 2024 confirms Part 2 from a wider base.** Its 0.4 → 1.5 mm ceramic drop and dual-cure advantage match Yalçinkaya 2026 using 15 studies instead of one.
+
 ## Evidence Gaps (open questions in our wiki)
 
 - **No delayed/time-course DC measurement for dual-cure cement under thick restorations** — Yalçinkaya 2026 measured DC at a single (24 h) timepoint; whether the self-cure component's compensatory effect is already captured at 24 h or would improve further is unaddressed.
 - **No mechanical-property correlation with DC** in either direct-composite paper (Lehmann 2026, Hashemian 2025) — the ~55% "clinically suggested minimum" DC threshold is drawn from prior literature, not directly validated against microhardness/flexural strength in these specific datasets.
 - **No cytotoxicity data for luting cements under indirect restorations** — Hashemian 2025's DC-cytotoxicity link is established only for a direct-composite/tip-distance scenario; whether under-cured luting cement beneath a thick ceramic restoration produces a comparable cytotoxic signal is untested in this wiki.
-- **Single LCU, single composite/cement brand per study** — none of the four papers cross-validates findings across multiple curing-light models or product lines; generalizability beyond the tested combinations is unverified.
+- **Single LCU, single composite/cement brand per study** — none of the four Part 1–2 papers cross-validates findings across multiple curing-light models or product lines; the Part 0 reviews (Lima 2023, Ceinos 2026) compare devices but not at the distances and thicknesses tested in Parts 1–2.
 - **Clinical (in-vivo/RCT) confirmation absent** — all four papers are in-vitro; the distance/thickness thresholds identified (6 mm cytotoxicity crossing, 2.5 mm dual-cure advantage) are laboratory findings pending clinical validation.
 
 When a clinical decision falls into one of these gaps, the wiki cannot answer — say so and bring the PDF.
