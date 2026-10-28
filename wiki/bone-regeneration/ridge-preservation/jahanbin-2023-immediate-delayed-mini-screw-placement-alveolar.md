@@ -48,5 +48,5 @@ In a split-mouth canine model, unloaded mini-screws placed in extraction sockets
 | Osteoid extension (mm^2) | 4.27±0.161 vs 0.037±0.008 (p<0.001) | 6.086±0.803 vs 0.182±0.125 (p=0.033) | Both higher vs control |
 
 ## Related Papers
-- [[bone-regeneration/ridge-preservation/araujo-2003-dynamics-bone-tissue-formation-extraction-sites]] — Socket healing dynamics after extraction.
-- [[bone-regeneration/ridge-preservation/melsen-2015-alveolar-bone-preservation-subsequent-miniscrew-implant-placement]] — Unloaded mini-screws for alveolar preservation in canine model.
+- araujo-2003-dynamics-bone-tissue-formation-extraction-sites — Socket healing dynamics after extraction (not yet ingested).
+- melsen-2015-alveolar-bone-preservation-subsequent-miniscrew-implant-placement — Unloaded mini-screws for alveolar preservation in canine model (not yet ingested).
