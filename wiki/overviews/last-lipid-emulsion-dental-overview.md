@@ -53,6 +53,10 @@ relations:
 > - **소아 고위험**: <1세 43% 차지(α1-산성 당단백↓·미성숙 CYP450·저체중); 3% 메피바카인 (Mepivacaine) plain = 최고 농도 + 혈관수축제 없음 → 빠른 흡수
 > - **메트헤모글로빈혈증 (Methemoglobinemia)**: 프릴로카인(Prilocaine) → o-톨루이딘 → MetHb; 소아·임신에서 리도케인(Lidocaine) 우선
 > - **전신질환 환자**: 심혈관 = 메피바카인(plain); 임신 = 리도케인; 간/신장 = 아티카인 (Articaine)(혈장 에스테라제 85–90%); 갑상선 = 에피네프린 금기
+> - **치과 용량의 안전 여유 — 약동학 4편 추가(2026-10-28)**: 구강 내 2% lidocaine/epi 4앰플(144 mg)의 최고 혈중농도는 경증 독성 역치 6 µg/mL보다 훨씬 낮았다(Moore 2008, n=16, 유일한 치과 앰플 단위 약동학). 노인 서혜부 탈장에서 7 mg/kg 침윤의 최고 농도는 0.23–0.90 mg/L로 역치 5 mg/L의 1/5 미만이었다(Karatassas 1993, n=14). 피하 팽창 마취에서는 28 mg/kg도 역치를 넘을 위험이 1/2000 미만이었다(Klein 2016). [확인]
+> - **해석 주의**: 안전 여유는 혈관 외 주사일 때만 성립한다. 혈관 내 오주입은 이 여유를 통째로 건너뛴다(Moore 2008). Klein의 피하 저장소 약동학(Tmax 약 13시간)은 치과 주사와 다르므로 치과 최대 용량을 올리는 근거로 쓰지 않는다. [확인]
+> - **ASRA 3차 권고(Neal 2018)**: 지질 유제 기전 3가지(lipid sink, 직접 강심, post-conditioning), 지연 발현 증가, 작은 체구·근감소증이라는 새 위험 인자, 병원 밖·비마취과 발생 증가. [확인]
+> - **에피네프린의 전신 효과(Paladugu 2026, RCT n=110)**: 발치 후 수축기 혈압 +12.69%, 혈당 +14.63%, 맥박 +15.84%로 단순 lidocaine보다 모두 높았다(p<0.001). 나이가 많을수록 혈압 반응이 컸다. 고혈압·당뇨·심혈관 환자에서 모니터링 근거다. [확인]
 > - **핵심 임상 행동**: 체중 기반 용량 계산 필수 + ILE 킷 구비 + 전구증상 조기 인지 교육
 
 ## Three-line Summary
@@ -283,6 +287,12 @@ The Bakır 2026 cross-sectional survey (n=369 Turkish dentists, 2025) quantified
 | Dose calculation | Saraghi 2015 (narrative review) | Abstract-only; indirect evidence |
 | LA pharmacology | Moore 2010 (narrative review) | 16 years old; foundational not outcome-based |
 
+| Dental-dose PK safety margin | Moore 2008 (phase 1 PK, intraoral carpules); Karatassas 1993 (elderly 7 mg/kg); Klein 2016 (tumescent) | Small n; Klein/Karatassas are non-dental routes |
+| LAST guideline | Neal 2018 (ASRA 3rd advisory) | Superseded by 2023 4th advisory, not held |
+| Epinephrine systemic load | Paladugu 2026 (RCT, n=110) | Single centre; short-term vitals only |
+
+**Pharmacokinetic safety margin (added 2026-10-28).** [[local-anesthesia/moore-2008-lidocaine-epinephrine-pk-phentolamine-reversal]] is the only held dental, carpule-level PK study: four carpules of 2% lidocaine with epinephrine (144 mg) gave peak plasma levels well under the 6 µg/mL mild-toxicity threshold, and phentolamine reversal raised Cmax only slightly. [[local-anesthesia/karatassas-1993-lignocaine-safety-hernia-elderly]] supports the 7 mg/kg infiltration limit in elderly patients (peak 0.23–0.90 mg/L vs a 5 mg/L threshold). [[local-anesthesia/klein-2016-tumescent-lidocaine-estimated-maximal-safe-dosages]] shows much higher subcutaneous tumescent doses (28 mg/kg) stay below threshold, but its slow depot kinetics (Tmax ~13 h) do not apply to dental injection. The practical reading: with correct technique, dental doses are far from toxic plasma levels, so **LAST in dentistry is mainly a problem of intravascular injection, small body size and cumulative dosing in children**, which is why aspiration, weight-based calculation (§3) and ILE stocking (§2) remain the levers. [[local-anesthesia/neal-2018-asra-last-practice-advisory-executive-summary]] adds the 2018 ASRA view: delayed presentations, sarcopenia and small size as risk factors, and rising events outside hospitals. [[local-anesthesia/paladugu-2026-lidocaine-adrenaline-systemic-effects-extraction]] quantifies the epinephrine side (§1.3): systolic BP +12.69%, glucose +14.63% and pulse +15.84% versus plain lidocaine after extraction, larger with age — supporting the plain-agent recommendation for cardiovascular patients in §8.
+
 **Evidence gap**: no adequately powered RCT of ILE for human LAST exists; ethical constraints make this unlikely. The evidence base rests on animal RCTs, case series, and mechanistic studies. The 95.2% pediatric rescue rate (Lee 2024) is the strongest human outcome signal.
 
 ---
@@ -298,7 +308,7 @@ The Bakır 2026 cross-sectional survey (n=369 Turkish dentists, 2025) quantified
 
 ---
 
-## Source Pages (8)
+## Source Pages (13)
 
 | Paper | Category | Key contribution |
 |---|---|---|
@@ -308,5 +318,10 @@ The Bakır 2026 cross-sectional survey (n=369 Turkish dentists, 2025) quantified
 | [[local-anesthesia/saraghi-2015-local-anesthetic-calculations-pediatric-last]] | Dose calculation | Clark's Rule, Rule of 25, MRD tables |
 | [[local-anesthesia/nendumba-2025-intravenous-lipid-emulsions-drug-toxicities-review]] | ILE mechanism | 3 mechanisms; animal meta-analysis OR 0.26 |
 | [[local-anesthesia/lee-2024-lipid-emulsion-last-pediatric-systematic-review]] | Pediatric LAST SR | 95.2% ILE rescue; 43% <1 year old |
+| [[local-anesthesia/moore-2008-lidocaine-epinephrine-pk-phentolamine-reversal]] | Dental PK | 4 carpules (144 mg) far below 6 µg/mL; intravascular injection bypasses margin |
+| [[local-anesthesia/karatassas-1993-lignocaine-safety-hernia-elderly]] | Elderly PK | 7 mg/kg peak 0.23–0.90 mg/L vs 5 mg/L threshold |
+| [[local-anesthesia/klein-2016-tumescent-lidocaine-estimated-maximal-safe-dosages]] | Tumescent PK | 28 mg/kg <1/2000 risk; depot kinetics not dental |
+| [[local-anesthesia/neal-2018-asra-last-practice-advisory-executive-summary]] | Guideline | ASRA 3rd advisory: ILE mechanisms, new risk factors |
+| [[local-anesthesia/paladugu-2026-lidocaine-adrenaline-systemic-effects-extraction]] | Epinephrine RCT | BP, glucose, pulse rise with 1:80,000 epi |
 | [[local-anesthesia/bakir-2026-last-knowledge-awareness-dental-dentists]] | Preparedness survey | 0.5% ILE knowledge; 14.1% availability |
 | [[drug/systemic-disease/gazal-2026-local-anesthetic-medically-compromised-review]] | Agent selection | 9-condition clinical decision table |
