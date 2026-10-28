@@ -33,6 +33,7 @@ relations:
 > - 시점: 고심미 우선 증례에서는 즉시식립과 '동시에' 연조직 증대 시행 — 선호 시점은 확립 안 됨(Thoma 2021 EAO 합의).
 > - 임상 takeaway: 이 페이지는 '이식 여부'가 아닌 '어떤 이식재'를 다루는 material-selection 보완 페이지. 얇은 표현형·고심미 요구 → SCTG 1차, gap ≥2mm → 콜라겐 함유 골대체재.
 > - 근거 한계: 자가 vs 대체재 head-to-head 부피 endpoint 부족, BSM 합병증 신호(RR 3.50)는 저확실성 미확인, 경조직+연조직 동시 이식 효과크기 동시 보고 드묾.
+> - **PRF 간극 충전(Pliatkute 2025 SR, 2026-10-28 추가)**: 즉시 식립 간극에 혈소판풍부섬유소 (Platelet-Rich Fibrin, PRF)를 쓰는 근거를 정리한 SR이지만 초록만 확보되어 효과 크기와 확실성을 알 수 없다. 간극 재료 결정에서 PRF는 아직 가설 단계다. [확인]
 
 ## Three-line Summary
 
@@ -150,3 +151,5 @@ Adjacent overviews treat the *procedural* yes/no of these variables: [[overviews
 - [[immediate-implant/esthetic-soft-tissue/de-angelis-2021-soft-tissue-augmentation-immediate-implant-sr-ma]] — SR+MA (7 studies, n=272): pooled SCTG effect at IIPP (MBML −0.54 mm, FSTT +0.79 mm, MBL −0.13 mm)
 - [[implants/soft-tissue/rios-osorio-2025-xcm-vs-ctg-fgg-implant-soft-tissue-sr-ma]] — SR+MA (17 RCTs): crosslinked VCMX = CTG for volume; non-crosslinked XCM < CTG; FGG > XCM for keratinized mucosa width (+1.47 mm)
 - [[immediate-implant/gap-grafting/foad-2026-clinical-and-radiographic-evaluation-of]] — RCT (n=16 IIP, bovine bone+HA vs ungrafted): ISQ 72.25 vs 64.88 (p<0.001), CBCT bone density 1163 vs 1034 HU (p=0.016), buccal bone reduction 3.88% vs 15.99%
+- [[immediate-implant/gap-grafting/pliatkute-2025-prf-immediate-implant-gap-sr]] — 신규 2026-10-28: SR on PRF for peri-implant gap filling in immediate placement; abstract only, no quantitative effect.
+
