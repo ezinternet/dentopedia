@@ -53,4 +53,4 @@ This systematic review and meta-analysis of randomized controlled trials compare
 
 ## Related Papers
 
-- [[implants/short-narrow/monje-2019-extra-short-implants-review]] — Review of extra-short implants and considerations
+- monje-2019-extra-short-implants-review — Review of extra-short implants and considerations (not yet ingested)
