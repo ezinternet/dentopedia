@@ -36,6 +36,7 @@ relations:
 > - **타이밍 분기**: 식립 시(Bruschi PTF, Han fAPF) vs 2차 수술 시(Wang MRARF) vs 유지관리 중 — 모든 시점에서 효과적; 2차 수술이 생물학적·실용적 선호 창.
 > - **콜라겐 매트릭스(Collagen Matrix, CM)**: FGG/SCTG 대비 KMW 열등하지만 수술시간·이환율 유의 낮음(Thoma 2014, 2 RCTs). 두께/심미 목표엔 SCTG 우선.
 > - **결정 기준 요약**: (1) 이식 불가/거부 → PTF 또는 MRARF/FFS (2) 대면적 KM 결핍(하악) → APF+FGG (3) 두께+폭 동시 필요(2차 수술) → MRARF 또는 SCTG (4) 전치부 심미 + 경조직 결핍 → soft-tissue-first staged protocol (5) 이환율 최소화 우선 → CM 또는 MRARF/FFS
+> - **재료 네트워크 메타분석(Tommasato 2024, 16편/573 부위, 2026-10-28 추가)**: 임플란트주위 연조직 두께 증가는 결합조직 이식 (Connective Tissue Graft, CTG)이 180·360일 모두 최고였고, 각화 점막 폭은 전정성형 + 유리치은이식 (Free Gingival Graft, FGG)이 180일 이후 가장 효과적이었다. 무세포 진피 기질 (Acellular Dermal Matrix, ADM)과 콜라겐 기질은 이환이 적은 두께 대안이지만 효과가 초기에 집중된다. 이질성이 높다. [확인]
 
 ## Three-line Summary
 
@@ -252,3 +253,5 @@ Han 2021 prospectively studied 79 patients (203 implants) receiving full-thickne
 - [[implants/peri-implantitis/elhadidy-2026-fla-vs-prf-vs-ctg-peri-implant-sta-rct]] — RCT: full-thickness flap advancement vs PRF vs CTG for peri-implant soft-tissue augmentation; keratinized mucosa width and tissue thickness outcomes (rct, 2026)
 - [[implants/soft-tissue/thoma-2014-soft-tissue-augmentation-implant-sr]] — EAO 2014 SR evidence foundation
 - [[implants/soft-tissue/kazor-2004-implant-plastic-surgery-review]] — periodontal plastic-surgery review for creating and maintaining peri-implant soft-tissue height in esthetic cases. Case selection and planning are the emphasis; the abstract reports no success rates (narrative review, 2004).
+- [[implants/soft-tissue/tommasato-2024-autogenous-graft-versus-collagen-matrices]] — 신규 2026-10-28: SR + network MA (16 studies, 573 sites): CTG best for thickness at 180/360 d; vestibuloplasty + FGG best for KMW after 180 d; ADM/xCM/VCMX acceptable lower-morbidity thickness alternatives.
+
