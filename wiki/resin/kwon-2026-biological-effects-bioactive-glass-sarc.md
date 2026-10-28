@@ -5,7 +5,7 @@ year: 2026
 doi: 10.3390/jfb17050215
 pmid: "42188381"
 pmcid: "PMC13207676"
-source: sources/kwon-2026-biological-effects-bioactive-glass-sarc.md
+source: kwon-2026-biological-effects-bioactive-glass-sarc.md
 date: 2026-05-01
 category: resin
 evidence_level: in-vitro
