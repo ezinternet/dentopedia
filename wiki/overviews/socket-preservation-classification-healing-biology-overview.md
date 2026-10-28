@@ -26,6 +26,10 @@ relations:
 > - 번들골 소실(Araújo & Lindhe 2005): 전치·소구치의 협측 치조정은 번들골로만 이루어져 발치로 PDL 혈류가 끊기면 며칠에서 몇 주 안에 급속히 흡수된다. 이 소실은 비가역적이고 즉시 식립으로도 막을 수 없다. 협측이 설측보다 얇아 더 많이 잃는다. [확인]
 > - 콜라겐 플러그(Covani 2022, 토끼 micro-CT n=36): 플러그는 약 15일에 흡수되지만 90일 골 체적 변화는 플러그군 −4.6%, 빈 발치와 −58.1%였다. 기전은 공간 유지가 아니라 초기 혈병 안정화와 혈관 지지이므로, 플러그의 가치는 처음 2주에 소진된다. [확인]
 > - 세포·분자 수준(Kamath 2026, Mun 2024, Yin 2024): 두 편은 쥐 연구이고 한 편은 서술 고찰이라 ARP의 임상 효능 근거가 아니다. 특정 이식재나 PRF가 DDR2나 대식세포 TNF-α 경로로 작동한다는 근거로 인용하지 않는다. [확인]
+> - 분류 비교(Juodzbalys 2019 SR, 10편): 소켓 분류 6종 중 형태 변수를 모두 담는 것은 없었고, 심미부/비심미부 두 갈래 결정 나무가 제안되었다. 분류는 결손 형태만이 아니라 연조직과 식립 시기까지 함께 봐야 한다. [확인]
+> - 순측 벽이 더 흡수되는 구조적 이유(Ulm 2021, 기술 보고 1례): 상악 전치부 순측 다발골은 피질판과 융합되어 뒤에 해면골이 없고, 구개측은 해면골 칸이 있다. 구개·설측에 <1 mm 버로 6–10개 천공해 골수 접근을 여는 방법을 제안했으며, 순측 벽은 뚫을 해면골이 없어 제외한다. 임상 효과는 검증되지 않았다. [확인]
+> - 세포 공급원(Yuan 2018, 생쥐 계보 추적): 발치와 골형성의 주 공급원은 다발골에 붙은 치주인대 잔존부의 Wnt 반응성 전구세포였다. 국소 리포솜 WNT3A 1회가 치유 속도를 2배로 높였다. 다발골 보존이 세포 저장소 보존이기도 하다는 기전 근거다. [확인]
+> - 무부하 미니스크류(Jahanbin 2023, 비글 12마리): 즉시 식립이 대조보다 수직 높이를 조금 더 지켰다(12.1 vs 11.7 mm, p=0.02). 폭은 변화가 없었고 차이는 0.4 mm다. [확인]
 > - 종합 한 줄: 소켓 분류와 협측골 기하가 ARP의 필요성과 방식을 정하고, 플러그는 장기 폭 유지의 대체물이 아니다. [미검증]
 
 ## Three-line Summary
@@ -111,6 +115,20 @@ The two mechanisms above are structural and clot-level. Three later sources add 
 **How this connects to Axes 3–4**: the platelet-concentrate and rhBMP-2 findings (Axis 4; Alavi 2024) are the clinical counterpart of the growth-factor/immune-modulation logic that these preclinical papers describe. That link is interpretive — the mouse data do not show that any current ARP material acts through DDR2 or the macrophage–TNF-α axis, and nothing here should be cited as evidence that a given graft or PRF product works.
 
 ---
+
+#### Additions 2026-10-28 — classification comparison, labial-wall anatomy and the PDL progenitor pool
+
+| Study | Level | Contribution |
+|---|---|---|
+| [[bone-regeneration/ridge-preservation/juodzbalys-2019-morphological-classification-extraction-sockets-clinical]] | sr (10 studies) | Compares six socket classifications (including systems that predate Steigmann 2022); none captures every morphological variable; proposes a two-branch esthetic / non-esthetic decision tree that adds soft tissue and implant timing |
+| [[bone-regeneration/ridge-preservation/ulm-2021-bundle-bone-perforation-socket-healing]] | case-report / technical note | Anterior maxillary labial bundle bone is fused to the cortical plate with no trabecular bone behind it; the palatal wall has a trabecular compartment. Proposes 6–10 palatal or lingual perforations (<1 mm bur, 2–3 mm apart) to trigger the regional acceleratory phenomenon; the labial wall is excluded |
+| [[bone-biology/yuan-2018-wnt-pdl-extraction-socket-healing]] | animal (mouse lineage tracing) | Wnt-responsive progenitors in the PDL remnant on bundle bone are the main source of socket osteoblasts; one topical liposomal WNT3A dose doubled healing speed |
+| [[bone-regeneration/ridge-preservation/jahanbin-2023-immediate-delayed-mini-screw-placement-alveolar]] | animal (12 beagles, split-mouth) | Immediate unloaded mini-screws preserved slightly more vertical height (12.1 vs 11.7 mm, p=0.02); width unchanged |
+
+These extend Axis 2 from *what* is lost (Araújo & Lindhe 2005) to *why the labial side* loses more and *which cells* rebuild the socket:
+- **Anatomy explains the asymmetry.** Ulm 2021 gives a structural reason for the labial-greater-than-palatal loss: the labial wall has no marrow behind its bundle bone, so it has no local blood or cell supply once the PDL is gone.
+- **Biology links bundle bone to healing cells.** Yuan 2018 shows that the PDL attached to bundle bone holds the progenitors that form new socket bone. Atraumatic extraction and techniques that keep a root fragment or the PDL in place (socket shield, immediate placement into a palatal root socket; see [[overviews/maxillary-molar-palatal-root-socket-iip]]) therefore protect a cell source as well as a shape.
+- **Neither is a clinical protocol yet.** The perforation technique rests on one case, and WNT3A is a mouse result. Neither has a human outcome trial in this wiki.
 
 ## Related Overviews
 
