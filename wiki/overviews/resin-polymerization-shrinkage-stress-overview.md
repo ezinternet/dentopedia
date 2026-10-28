@@ -21,6 +21,7 @@ tags: [resin, shrinkage-stress, low-shrinkage, bulk-fill]
 > - **결정적 통찰 (dark-cure)**: 수축응력의 대부분은 vitrification 도중·이후(이른바 "dark-cure")에 발생 → soft-start/느린 경화는 임상적 전환율에서 응력을 충분히 완화하지 못한다 (Algamaiah 2021, Magne 2023).
 > - **자가접착 플로어블 (self-adhesive flowable)**: 통상형 플로어블이 미세경도 최고이고, 자가접착형은 일단계 적용 대가로 물성이 낮으며 세균부착은 표면조도가 아닌 **레진 매트릭스·필러 성분**에 좌우 (Yeloglu-Akbuar 2026).
 > - **공통 분모**: 5개 기전 모두 수축응력을 **단량체(분자)·경화(network)·구조(V-factor)** 어느 한 단계에서 줄이는 것 — 어느 한 갈래도 단독으로 응력을 0으로 만들지 못한다.
+> - **기초 틀(Braga 2005 SR, 2026-10-28 추가)**: 수축 응력은 체적 수축, 겔화 전 점탄성 이완, 와동 구속(C-factor)의 상호작용이고, 재료 고유 성질이 각 요인을 지배하므로 모든 재료에 통하는 단일 술식은 없다. 아래 세 전선이 모두 이 틀 안의 서로 다른 요인을 겨냥한다. [확인]
 > - **임상 결론**: 대형 와동일수록 ①저수축 재료 또는 ②인레이(낮은 V-factor)로 수축 부피를 줄이고, ③SFRC base로 균열을 분산하며, 경화 protocol 조정만으로 응력 문제를 해결했다고 착각하지 말 것 — 실패가 일어나더라도 **복구 가능한 양상**으로 설계하는 것이 핵심.
 
 ## Three-line Summary
@@ -105,6 +106,8 @@ When the cavity is large, no monomer or cure tweak fully protects the residual t
 **Bottom line:** there is no single fix for shrinkage stress. Reduce it at the monomer (Feng, He), avoid amplifying it at the cure (Algamaiah, Yang), and — in large cavities — reduce the shrinking volume and reinforce structurally (Magne). Read stress numbers by *direction and ranking*, not absolute MPa (Szczesio-Wlodarczyk), and design restorations so that when they do fail, they fail repairably.
 
 ## Related Papers
+
+- [[resin/braga-2005-factors-polymerization-shrinkage-stress]] — foundational SR (2005): shrinkage stress = volumetric shrinkage × pre-gel viscoelastic relaxation × cavity confinement (C-factor); material properties dominate, so no technique reduces stress universally — the framework behind all three fronts.
 
 - [[resin/feng-2024-polyurethane-dimethacrylate-low-shrinkage-composite]] — Front 1: PUDMA matrix modification → 1.35% volumetric shrinkage with aging-stable mechanics.
 - [[resin/he-2026-fluorinated-thiol-ene-low-shrinkage-composite]] — Front 1: thiol-ene step-growth lowers stress + fluorination lowers bacterial adhesion → ↓ microleakage/secondary caries (in-vivo rat biocompatibility).
