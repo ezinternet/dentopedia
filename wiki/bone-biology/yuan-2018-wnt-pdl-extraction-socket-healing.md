@@ -101,7 +101,7 @@ Before Yuan 2018, these strategies were justified entirely by geometric/volumetr
 
 ## 6. Relation to Existing Wiki
 
-- **Araújo & Lindhe 2005** ([[../bone-regeneration/ridge-preservation/araujo-2005-dimensional-ridge-alterations-tooth-extraction]]): Phase 1 resorption = PDL loss → bundle bone resorption. Yuan 2018 shows PDL loss also eliminates the progenitor pool for socket healing — the biological cost of Phase 1 resorption is therefore double: structural loss + cellular loss.
+- **Araújo & Lindhe 2005** ([[bone-regeneration/ridge-preservation/araujo-2005-dimensional-ridge-alterations-tooth-extraction]]): Phase 1 resorption = PDL loss → bundle bone resorption. Yuan 2018 shows PDL loss also eliminates the progenitor pool for socket healing — the biological cost of Phase 1 resorption is therefore double: structural loss + cellular loss.
 - **Omi 2022** ([[omi-2022-roles-osteoclasts-alveolar-bone]]): covers osteoclast-mediated resorption at the socket wall. Yuan 2018 is the complementary osteoblast recruitment side.
 - **Socket shield corpus** (`wiki/immediate-implant/socket-shield/`): Yuan 2018 provides the cellular biology underpinning SST's success beyond mechanical buccal plate maintenance — PDL on the retained root fragment is a live progenitor reservoir.
-- **Ulm 2021** ([[../bone-regeneration/ridge-preservation/ulm-2021-bundle-bone-perforation-socket-healing]]): Ulm 2021 showed buccal bundle bone fusion → vascular/cellular poverty; Yuan 2018 identifies exactly what cellular resource is absent: the Wnt-responsive PDL progenitors.
+- **Ulm 2021** ([[bone-regeneration/ridge-preservation/ulm-2021-bundle-bone-perforation-socket-healing]]): Ulm 2021 showed buccal bundle bone fusion → vascular/cellular poverty; Yuan 2018 identifies exactly what cellular resource is absent: the Wnt-responsive PDL progenitors.
