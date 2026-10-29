@@ -1,0 +1,809 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>치아 번호 체계 비교 | LLM-Wiki Dentopedia</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@600&family=Noto+Sans+KR:wght@400;500;600&family=JetBrains+Mono:wght@500&display=swap">
+<style>
+/* ──────────────────────────────────────────────
+   TOKEN SYSTEM  —  light only (project rule)
+   Layout: single-column, arch + detail below
+──────────────────────────────────────────────*/
+:root {
+  --bg:        #F7F5F0;
+  --surface:   #FFFFFF;
+  --surface-2: #F2F0EB;
+  --border:    #DDD9D2;
+  --border-lt: #EBE8E2;
+
+  --fg:        #1A1816;
+  --fg-2:      #5C5A55;
+  --fg-3:      #9A9690;
+
+  --accent:    #1B58A2;
+  --accent-bg: #EAF1FB;
+  --accent-bd: #AECBE8;
+
+  /* quadrant palette */
+  --q1:   #C04030;  --q1-bg: #FEF0EC;  --q1-bd: #F4C2B5;
+  --q2:   #2656B8;  --q2-bg: #EDF2FF;  --q2-bd: #B5C8F2;
+  --q3:   #1F8948;  --q3-bg: #EEF9F2;  --q3-bd: #A8DFBC;
+  --q4:   #9A6010;  --q4-bg: #FFF6E5;  --q4-bd: #EFD498;
+
+  --r-sm: 6px;
+  --r:    10px;
+  --r-lg: 16px;
+
+  color-scheme: light;
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  background: var(--bg);
+  color: var(--fg);
+  font-family: 'Noto Sans KR', system-ui, sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  padding: 0 max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-bottom: 40px;
+}
+
+/* ── HEADER ── */
+.hdr {
+  padding: 24px 0 20px;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 20px;
+}
+.hdr h1 {
+  font-family: 'Noto Serif KR', serif;
+  font-size: clamp(18px, 5vw, 26px);
+  font-weight: 600;
+  line-height: 1.25;
+  text-wrap: balance;
+  margin-bottom: 5px;
+}
+.hdr p { font-size: 12px; color: var(--fg-2); }
+
+/* ── TABS ── */
+.tabs {
+  display: flex;
+  gap: 2px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--r);
+  padding: 3px;
+  width: fit-content;
+  margin-bottom: 20px;
+}
+.tab {
+  padding: 6px 18px;
+  border-radius: calc(var(--r) - 2px);
+  border: none;
+  background: transparent;
+  color: var(--fg-2);
+  font-family: inherit;
+  font-size: 13px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.14s;
+  white-space: nowrap;
+}
+.tab.on { background: var(--accent); color: #fff; }
+
+/* ── SYSTEM SELECTOR ── */
+.sys-btns {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+.sys-btn {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  padding: 7px 14px;
+  border: 1.5px solid var(--border);
+  border-radius: 20px;
+  background: var(--surface);
+  color: var(--fg-2);
+  font-family: inherit;
+  font-size: 13px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.14s;
+}
+.sys-btn.on {
+  border-color: var(--accent);
+  background: var(--accent-bg);
+  color: var(--accent);
+}
+.sys-btn .badge {
+  font-size: 10px;
+  padding: 1px 6px;
+  border-radius: 3px;
+  background: var(--border-lt, #EAE8E2);
+  color: var(--fg-2);
+  font-weight: 500;
+}
+.sys-btn.on .badge { background: var(--accent-bd); color: var(--accent); }
+
+/* ── ARCH DIAGRAM ── */
+.arch-box {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--r-lg);
+  padding: 16px 12px 14px;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  margin-bottom: 16px;
+}
+.arch-orient {
+  display: flex;
+  justify-content: center;
+  gap: 4px;
+  font-size: 10px;
+  color: var(--fg-3);
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  margin-bottom: 6px;
+  min-width: 510px;
+}
+.arch-orient .dot { color: var(--border); }
+
+.arch-inner { min-width: 510px; }
+
+.arch-row {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  gap: 2px;
+}
+.arch-row.lower { align-items: flex-start; }
+
+.jaw-lbl {
+  font-size: 10px;
+  color: var(--fg-3);
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
+  padding: 0 4px;
+  flex-shrink: 0;
+}
+
+.midline {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  min-width: 510px;
+  margin: 4px 0;
+  justify-content: center;
+}
+.midline-line { flex: 1; max-width: 180px; height: 1px; background: var(--border); }
+.midline-lbl { font-size: 9px; color: var(--fg-3); letter-spacing: 0.08em; white-space: nowrap; }
+
+/* ── TOOTH ── */
+.tooth {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.tc {  /* tooth crown */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+  border: 1.5px solid;
+  transition: transform 0.1s, box-shadow 0.1s, filter 0.1s;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 10px;
+  font-weight: 500;
+  border-radius: 3px 3px 0 0;
+  user-select: none;
+  line-height: 1;
+  padding: 0 1px;
+}
+.arch-row.lower .tc { border-radius: 0 0 3px 3px; }
+
+.tooth.q1 .tc { background: var(--q1-bg); border-color: var(--q1-bd); color: var(--q1); }
+.tooth.q2 .tc { background: var(--q2-bg); border-color: var(--q2-bd); color: var(--q2); }
+.tooth.q3 .tc { background: var(--q3-bg); border-color: var(--q3-bd); color: var(--q3); }
+.tooth.q4 .tc { background: var(--q4-bg); border-color: var(--q4-bd); color: var(--q4); }
+
+.tooth:hover .tc { transform: scale(1.08); box-shadow: 0 3px 10px rgba(0,0,0,.12); z-index: 2; }
+.tooth.sel .tc   { transform: scale(1.1);  box-shadow: 0 4px 12px rgba(0,0,0,.18); filter: brightness(.88); z-index: 3; }
+
+/* quadrant label strip above/below arch */
+.q-strip {
+  display: flex;
+  justify-content: center;
+  gap: 0;
+  min-width: 510px;
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+}
+.q-strip .qs {
+  flex: 1;
+  text-align: center;
+  padding: 3px 0;
+  border-radius: 3px;
+  max-width: 220px;
+}
+.q-strip .qs.q1 { background: var(--q1-bg); color: var(--q1); }
+.q-strip .qs.q2 { background: var(--q2-bg); color: var(--q2); }
+.q-strip .qs.q3 { background: var(--q3-bg); color: var(--q3); }
+.q-strip .qs.q4 { background: var(--q4-bg); color: var(--q4); }
+
+/* ── INFO PANEL ── */
+.info-panel {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--r-lg);
+  padding: 20px;
+  margin-bottom: 20px;
+  min-height: 76px;
+  display: flex;
+  align-items: center;
+}
+.info-empty { color: var(--fg-3); font-size: 13px; margin: 0 auto; }
+
+.info-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-bottom: 14px;
+}
+.info-name { font-size: 15px; font-weight: 600; display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+.info-name-en { font-size: 12px; font-weight: 400; color: var(--fg-2); }
+.info-sub { font-size: 11px; color: var(--fg-2); margin-top: 3px; }
+
+.sys-cards { display: flex; flex-wrap: wrap; gap: 10px; }
+.sys-card {
+  flex: 1;
+  min-width: 110px;
+  background: var(--surface-2);
+  border: 1px solid var(--border-lt, #EAE8E2);
+  border-radius: var(--r);
+  padding: 12px 14px;
+}
+.sys-card-lbl {
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.09em;
+  color: var(--fg-3);
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+.sys-card-num {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 22px;
+  font-weight: 500;
+  color: var(--fg);
+  line-height: 1;
+  letter-spacing: 1px;
+}
+.sys-card-note { font-size: 10px; color: var(--fg-2); margin-top: 4px; }
+
+/* Palmer cross */
+.palmer-fig svg text { font-family: 'JetBrains Mono', monospace; }
+
+/* ── Q-CHIP ── */
+.q-chip {
+  display: inline-block;
+  padding: 2px 7px;
+  border-radius: 10px;
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  flex-shrink: 0;
+}
+.q-chip.q1 { background: var(--q1-bg); color: var(--q1); border: 1px solid var(--q1-bd); }
+.q-chip.q2 { background: var(--q2-bg); color: var(--q2); border: 1px solid var(--q2-bd); }
+.q-chip.q3 { background: var(--q3-bg); color: var(--q3); border: 1px solid var(--q3-bd); }
+.q-chip.q4 { background: var(--q4-bg); color: var(--q4); border: 1px solid var(--q4-bd); }
+
+/* ── TABLE VIEW ── */
+.filter-bar { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 14px; align-items: center; }
+.filter-lbl { font-size: 12px; color: var(--fg-2); font-weight: 500; }
+.fbtn {
+  padding: 4px 12px;
+  border-radius: 14px;
+  border: 1.5px solid var(--border);
+  background: var(--surface);
+  font-family: inherit;
+  font-size: 12px;
+  cursor: pointer;
+  transition: all 0.12s;
+  color: var(--fg-2);
+}
+.fbtn.fa  { border-color: var(--accent);  background: var(--accent-bg);  color: var(--accent); }
+.fbtn.fq1 { border-color: var(--q1-bd); background: var(--q1-bg); color: var(--q1); }
+.fbtn.fq2 { border-color: var(--q2-bd); background: var(--q2-bg); color: var(--q2); }
+.fbtn.fq3 { border-color: var(--q3-bd); background: var(--q3-bg); color: var(--q3); }
+.fbtn.fq4 { border-color: var(--q4-bd); background: var(--q4-bg); color: var(--q4); }
+
+.tbl-wrap {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--r-lg);
+  overflow-x: auto;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+  min-width: 560px;
+  font-size: 13px;
+}
+thead th {
+  padding: 11px 14px;
+  text-align: left;
+  font-size: 10px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.09em;
+  color: var(--fg-2);
+  border-bottom: 2px solid var(--border);
+  background: var(--surface-2);
+  white-space: nowrap;
+  position: sticky;
+  top: 0;
+}
+tbody tr { border-bottom: 1px solid var(--border-lt, #EBE8E2); cursor: pointer; transition: background .1s; }
+tbody tr:hover { background: var(--accent-bg); }
+tbody tr.sel-row { background: var(--accent-bg); }
+td { padding: 9px 14px; vertical-align: middle; }
+td.mono {
+  font-family: 'JetBrains Mono', monospace;
+  font-weight: 500;
+  font-size: 14px;
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 1px;
+}
+
+/* ── GUIDE VIEW ── */
+.guide-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 12px; }
+.guide-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--r);
+  padding: 18px;
+}
+.guide-title { font-size: 14px; font-weight: 600; margin-bottom: 3px; }
+.guide-sub { font-size: 11px; color: var(--fg-2); margin-bottom: 10px; }
+.guide-ex {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 8px;
+  letter-spacing: 1px;
+}
+.guide-body { font-size: 12px; color: var(--fg-2); line-height: 1.6; }
+.guide-tags { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 12px; }
+.guide-tag {
+  font-size: 11px;
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 2px 8px;
+  color: var(--fg-2);
+}
+
+/* ── VIEW TOGGLING ── */
+.view { display: none; }
+.view.on { display: block; }
+
+/* ── RESPONSIVE ── */
+@media (max-width: 520px) {
+  .sys-cards { gap: 8px; }
+  .sys-card { min-width: 90px; padding: 10px 12px; }
+  .sys-card-num { font-size: 18px; }
+  .guide-grid { grid-template-columns: 1fr; }
+  .tab { padding: 6px 12px; font-size: 12px; }
+}
+</style>
+</head>
+<body>
+
+<div class="hdr">
+  <h1>치아 번호 체계 비교</h1>
+  <p>Universal · FDI/ISO · Palmer — 3가지 치식(齒式) 방법 대조</p>
+</div>
+
+<div class="tabs">
+  <button class="tab on" data-tab="chart">치아도표</button>
+  <button class="tab"    data-tab="table">비교표</button>
+  <button class="tab"    data-tab="guide">체계 안내</button>
+</div>
+
+<!-- ╔══════════════════════════════╗ -->
+<!-- ║  CHART VIEW                 ║ -->
+<!-- ╚══════════════════════════════╝ -->
+<div id="view-chart" class="view on">
+  <div class="sys-btns" id="sys-btns"></div>
+
+  <div class="arch-box" id="arch-box">
+    <div class="arch-orient">
+      <span>← 환자 우측 (Patient's Right)</span>
+      <span class="dot">·</span>
+      <span>환자 좌측 (Patient's Left) →</span>
+    </div>
+    <div class="arch-inner" id="arch-inner"></div>
+  </div>
+
+  <div class="info-panel" id="info-panel">
+    <p class="info-empty">치아를 클릭하면 3가지 번호 체계가 표시됩니다</p>
+  </div>
+</div>
+
+<!-- ╔══════════════════════════════╗ -->
+<!-- ║  TABLE VIEW                 ║ -->
+<!-- ╚══════════════════════════════╝ -->
+<div id="view-table" class="view">
+  <div class="filter-bar">
+    <span class="filter-lbl">필터:</span>
+    <button class="fbtn fa"  data-f="all">전체 32치</button>
+    <button class="fbtn" data-f="q1">상악 우측</button>
+    <button class="fbtn" data-f="q2">상악 좌측</button>
+    <button class="fbtn" data-f="q3">하악 좌측</button>
+    <button class="fbtn" data-f="q4">하악 우측</button>
+  </div>
+  <div class="tbl-wrap"><table id="tbl"></table></div>
+</div>
+
+<!-- ╔══════════════════════════════╗ -->
+<!-- ║  GUIDE VIEW                 ║ -->
+<!-- ╚══════════════════════════════╝ -->
+<div id="view-guide" class="view">
+  <div class="guide-grid" id="guide-grid"></div>
+</div>
+
+<script>
+// ─────────────────────────────────────────────
+//  DATA
+// ─────────────────────────────────────────────
+const TYPE_META = {
+  ci: { w: 24, kr: '중절치',   en: 'Central Incisor'  },
+  li: { w: 20, kr: '측절치',   en: 'Lateral Incisor'  },
+  c:  { w: 22, kr: '견치',     en: 'Canine'            },
+  p1: { w: 26, kr: '제1소구치', en: '1st Premolar'    },
+  p2: { w: 26, kr: '제2소구치', en: '2nd Premolar'    },
+  m1: { w: 36, kr: '제1대구치', en: '1st Molar'       },
+  m2: { w: 34, kr: '제2대구치', en: '2nd Molar'       },
+  m3: { w: 28, kr: '제3대구치(사랑니)', en: '3rd Molar / Wisdom' },
+};
+const TYPE_SEQ = ['ci','li','c','p1','p2','m1','m2','m3'];
+
+const Q_META = {
+  1: { kr: '상악 우측', en: 'Upper Right',  color: 'var(--q1)', css: 'q1' },
+  2: { kr: '상악 좌측', en: 'Upper Left',   color: 'var(--q2)', css: 'q2' },
+  3: { kr: '하악 좌측', en: 'Lower Left',   color: 'var(--q3)', css: 'q3' },
+  4: { kr: '하악 우측', en: 'Lower Right',  color: 'var(--q4)', css: 'q4' },
+};
+
+function palmerStr(q, pos) {
+  if (q === 1) return pos + '┘';
+  if (q === 2) return '└' + pos;
+  if (q === 3) return '┌' + pos;
+  return pos + '┐';
+}
+
+// Build tooth records
+const teeth = [];
+
+// Q1: Upper Right — universal 1–8, FDI 18–11, displayOrder 1–8 (UR8→UR1)
+for (let i = 1; i <= 8; i++) {
+  const pos = 9 - i;
+  teeth.push({ u: i, fdi: 10 + pos, palmer: palmerStr(1, pos), q: 1, pos,
+    type: TYPE_SEQ[pos-1], arch: 'upper', ord: i });
+}
+// Q2: Upper Left — universal 9–16, FDI 21–28, displayOrder 9–16 (UL1→UL8)
+for (let i = 1; i <= 8; i++) {
+  teeth.push({ u: 8+i, fdi: 20+i, palmer: palmerStr(2, i), q: 2, pos: i,
+    type: TYPE_SEQ[i-1], arch: 'upper', ord: 8+i });
+}
+// Q4: Lower Right — universal 25–32, FDI 41–48, displayOrder 1–8 (LR8→LR1)
+for (let i = 1; i <= 8; i++) {
+  const pos = 9 - i;
+  teeth.push({ u: 24+pos, fdi: 40+pos, palmer: palmerStr(4, pos), q: 4, pos,
+    type: TYPE_SEQ[pos-1], arch: 'lower', ord: i });
+}
+// Q3: Lower Left — universal 24–17, FDI 31–38, displayOrder 9–16 (LL1→LL8)
+for (let i = 1; i <= 8; i++) {
+  teeth.push({ u: 25-i, fdi: 30+i, palmer: palmerStr(3, i), q: 3, pos: i,
+    type: TYPE_SEQ[i-1], arch: 'lower', ord: 8+i });
+}
+
+const byU = {};
+teeth.forEach(t => byU[t.u] = t);
+
+const upperTeeth = teeth.filter(t => t.arch === 'upper').sort((a,b) => a.ord - b.ord);
+const lowerTeeth = teeth.filter(t => t.arch === 'lower').sort((a,b) => a.ord - b.ord);
+
+// ─────────────────────────────────────────────
+//  STATE
+// ─────────────────────────────────────────────
+let sys      = 'universal';
+let selTooth = null;
+let tFilter  = 'all';
+let guideBuilt = false;
+
+function getLabel(t, s) {
+  if (s === 'universal') return String(t.u);
+  if (s === 'fdi')       return String(t.fdi);
+  return t.palmer;
+}
+
+// ─────────────────────────────────────────────
+//  ARCH RENDER
+// ─────────────────────────────────────────────
+function buildArch() {
+  const inner = document.getElementById('arch-inner');
+
+  function rowHtml(arr, jaw) {
+    const align = jaw === 'upper' ? 'flex-end' : 'flex-start';
+    const lbl = jaw === 'upper' ? '상악' : '하악';
+    let tHtml = '';
+    arr.forEach((t, idx) => {
+      const sel = selTooth && selTooth.u === t.u ? ' sel' : '';
+      const w = TYPE_META[t.type].w;
+      tHtml += `<div class="tooth q${t.q}${sel}" data-u="${t.u}" style="cursor:pointer;">
+        <div class="tc" style="width:${w}px;">${getLabel(t, sys)}</div>
+      </div>`;
+      // midline divider between index 7 and 8
+      if (idx === 7) {
+        tHtml += `<div style="width:2px;height:44px;background:var(--border);border-radius:1px;flex-shrink:0;align-self:center;"></div>`;
+      }
+    });
+    return `<div class="arch-row ${jaw}" style="align-items:${align};gap:2px;justify-content:center;">
+      <div class="jaw-lbl">${lbl}</div>${tHtml}
+    </div>`;
+  }
+
+  const upperStrip = `<div class="q-strip" style="margin-bottom:3px;">
+    <div class="qs q1">상악 우측 (Q1)</div>
+    <div class="qs q2">상악 좌측 (Q2)</div>
+  </div>`;
+  const lowerStrip = `<div class="q-strip" style="margin-top:3px;">
+    <div class="qs q4">하악 우측 (Q4)</div>
+    <div class="qs q3">하악 좌측 (Q3)</div>
+  </div>`;
+  const midline = `<div class="midline">
+    <div class="midline-line"></div>
+    <div class="midline-lbl">정중선 (Midline)</div>
+    <div class="midline-line"></div>
+  </div>`;
+
+  inner.innerHTML = upperStrip + rowHtml(upperTeeth,'upper') + midline + rowHtml(lowerTeeth,'lower') + lowerStrip;
+}
+
+// ─────────────────────────────────────────────
+//  INFO PANEL
+// ─────────────────────────────────────────────
+function buildInfo() {
+  const panel = document.getElementById('info-panel');
+  if (!selTooth) {
+    panel.innerHTML = '<p class="info-empty">치아를 클릭하면 3가지 번호 체계가 표시됩니다</p>';
+    return;
+  }
+  const t = selTooth;
+  const qm = Q_META[t.q];
+  const tm = TYPE_META[t.type];
+
+  // Palmer cross SVG
+  const cx = { 1:[42,16], 2:[16,16], 3:[16,42], 4:[42,42] };
+  let svgTexts = '';
+  for (let q = 1; q <= 4; q++) {
+    const [x,y] = cx[q];
+    const active = q === t.q;
+    const fill = active ? 'var(--accent)' : 'var(--fg-3)';
+    const lbl  = active ? t.palmer : '·';
+    const sz   = active ? 14 : 12;
+    svgTexts += `<text x="${x}" y="${y}" text-anchor="middle" dominant-baseline="middle"
+      font-size="${sz}" fill="${fill}" opacity="${active?1:.5}">${lbl}</text>`;
+  }
+  const palmerSvg = `<svg viewBox="0 0 56 56" width="56" height="56" aria-hidden="true">
+    <line x1="28" y1="4" x2="28" y2="52" stroke="var(--border)" stroke-width="1.5"/>
+    <line x1="4"  y1="28" x2="52" y2="28" stroke="var(--border)" stroke-width="1.5"/>
+    ${svgTexts}
+  </svg>`;
+
+  panel.innerHTML = `<div style="width:100%">
+    <div class="info-head">
+      <div>
+        <div class="info-name">
+          <span class="q-chip ${qm.css}">${qm.kr}</span>
+          ${tm.kr}
+          <span class="info-name-en">${tm.en}</span>
+        </div>
+        <div class="info-sub">FDI 사분악 ${t.q}번 · 정중선에서 ${t.pos}번째 치아</div>
+      </div>
+      <div class="palmer-fig" title="Palmer 사분악 기호">${palmerSvg}</div>
+    </div>
+    <div class="sys-cards">
+      <div class="sys-card">
+        <div class="sys-card-lbl">Universal</div>
+        <div class="sys-card-num">${t.u}</div>
+        <div class="sys-card-note">미국 ADA 표준</div>
+      </div>
+      <div class="sys-card">
+        <div class="sys-card-lbl">FDI / ISO</div>
+        <div class="sys-card-num">${t.fdi}</div>
+        <div class="sys-card-note">국제표준 · 한국</div>
+      </div>
+      <div class="sys-card">
+        <div class="sys-card-lbl">Palmer</div>
+        <div class="sys-card-num">${t.palmer}</div>
+        <div class="sys-card-note">영국 전통 표기</div>
+      </div>
+    </div>
+  </div>`;
+}
+
+// ─────────────────────────────────────────────
+//  TABLE
+// ─────────────────────────────────────────────
+function buildTable() {
+  const sorted = [...teeth].sort((a,b) => a.u - b.u);
+  const rows   = tFilter === 'all' ? sorted : sorted.filter(t => `q${t.q}` === tFilter);
+
+  const head = `<thead><tr>
+    <th>Universal</th><th>FDI</th><th>Palmer</th>
+    <th>위치</th><th>치아명 (KR)</th><th>Name (EN)</th>
+  </tr></thead>`;
+
+  const body = rows.map(t => {
+    const sel = selTooth && selTooth.u === t.u ? ' sel-row' : '';
+    return `<tr class="${sel}" data-u="${t.u}">
+      <td class="mono">${t.u}</td>
+      <td class="mono">${t.fdi}</td>
+      <td class="mono">${t.palmer}</td>
+      <td><span class="q-chip q${t.q}">${Q_META[t.q].kr}</span></td>
+      <td>${TYPE_META[t.type].kr}</td>
+      <td style="color:var(--fg-2)">${TYPE_META[t.type].en}</td>
+    </tr>`;
+  }).join('');
+
+  document.getElementById('tbl').innerHTML = head + `<tbody>${body}</tbody>`;
+}
+
+// ─────────────────────────────────────────────
+//  GUIDE
+// ─────────────────────────────────────────────
+function buildGuide() {
+  if (guideBuilt) return;
+  guideBuilt = true;
+  const cards = [
+    {
+      title: 'Universal Numbering System',
+      sub: '미국치과협회(ADA) 표준 · 미국에서 주로 사용',
+      ex: '1 – 32', color: 'var(--accent)',
+      body: '상악 우측 제3대구치(#1)에서 시작해 시계방향으로 32번까지 순차 번호를 매깁니다. 상악 우→좌 (1–16), 하악 좌→우 (17–32). 번호가 단순해 입력하기 쉽지만, 번호만으로는 위치를 직관적으로 파악하기 어렵습니다.',
+      tags: ['미국 (USA)', 'ADA', '1–32 순차'],
+    },
+    {
+      title: 'FDI Two-Digit System (ISO 3950)',
+      sub: '국제치과연맹 · 한국·유럽 등 세계 표준',
+      ex: '11–18  21–28\n31–38  41–48', color: 'var(--q3)',
+      body: '첫째 자리 = 사분악 (1=상악우, 2=상악좌, 3=하악좌, 4=하악우), 둘째 자리 = 정중선에서 1(중절치)~8(사랑니). 예: 16 = 상악 우측 제1대구치 · 46 = 하악 우측 제1대구치. 번호만으로 위치를 즉시 파악할 수 있어 교육·임상 효율이 높습니다.',
+      tags: ['한국', '유럽', '세계 대부분', 'ISO 3950', 'FDI'],
+    },
+    {
+      title: 'Palmer Notation',
+      sub: '영국 전통 방식 · Palmer(1870) 창안',
+      ex: '8┘  └8\n┌8  8┐', color: 'var(--q4)',
+      body: '정중선 십자(+)를 기준으로 4사분악을 나누고, 각 사분악 내에서 중절치(1)~사랑니(8)까지 번호를 매깁니다. 사분악 위치는 브래킷 기호로 표현합니다. 영국 치과학계에서 전통적으로 사용해 왔으며, 현재는 FDI로 전환이 진행 중입니다.',
+      tags: ['영국', '일부 영연방', '비공식 전통', 'Zsigmondy-Palmer'],
+    },
+    {
+      title: '유치 (Primary / Deciduous Teeth)',
+      sub: '20개 · 시스템별 별도 표기',
+      ex: 'A–T  /  51–85', color: 'var(--fg-2)',
+      body: '<b>Universal:</b> 알파벳 A(상악우측 제2유구치) → T(하악우측 제2유구치).<br><b>FDI:</b> 앞자리 5~8번대 사용 — 51–55(상악우), 61–65(상악좌), 71–75(하악좌), 81–85(하악우).<br><b>Palmer:</b> 알파벳 A–E + 사분악 브래킷 기호.',
+      tags: ['20개', 'Universal A–T', 'FDI 51–85'],
+    },
+  ];
+
+  document.getElementById('guide-grid').innerHTML = cards.map(c => `
+    <div class="guide-card">
+      <div class="guide-title" style="color:${c.color}">${c.title}</div>
+      <div class="guide-sub">${c.sub}</div>
+      <div class="guide-ex" style="color:${c.color};white-space:pre;">${c.ex}</div>
+      <div class="guide-body">${c.body}</div>
+      <div class="guide-tags">${c.tags.map(t=>`<span class="guide-tag">${t}</span>`).join('')}</div>
+    </div>
+  `).join('');
+}
+
+// ─────────────────────────────────────────────
+//  SYSTEM BUTTONS
+// ─────────────────────────────────────────────
+const SYSTEMS = [
+  { id: 'universal', label: 'Universal', badge: '미국' },
+  { id: 'fdi',       label: 'FDI / ISO', badge: '국제·한국' },
+  { id: 'palmer',    label: 'Palmer',    badge: '영국' },
+];
+document.getElementById('sys-btns').innerHTML = SYSTEMS.map(s =>
+  `<button class="sys-btn${s.id===sys?' on':''}" data-sys="${s.id}">
+    ${s.label}<span class="badge">${s.badge}</span>
+  </button>`
+).join('');
+
+// ─────────────────────────────────────────────
+//  EVENT LISTENERS
+// ─────────────────────────────────────────────
+
+// System buttons
+document.getElementById('sys-btns').addEventListener('click', e => {
+  const btn = e.target.closest('[data-sys]');
+  if (!btn) return;
+  sys = btn.dataset.sys;
+  document.querySelectorAll('.sys-btn').forEach(b => b.classList.toggle('on', b.dataset.sys === sys));
+  buildArch();
+});
+
+// Arch click (event delegation)
+document.getElementById('arch-inner').addEventListener('click', e => {
+  const el = e.target.closest('[data-u]');
+  if (!el) return;
+  const u = parseInt(el.dataset.u);
+  selTooth = byU[u];
+  buildArch();
+  buildInfo();
+});
+
+// Table click
+document.getElementById('tbl').addEventListener('click', e => {
+  const row = e.target.closest('[data-u]');
+  if (!row) return;
+  selTooth = byU[parseInt(row.dataset.u)];
+  buildTable();
+  // also update arch if switching back
+});
+
+// Filter buttons
+document.querySelectorAll('.fbtn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    tFilter = btn.dataset.f;
+    document.querySelectorAll('.fbtn').forEach(b => {
+      b.className = 'fbtn' + (b.dataset.f === 'all' ? '' : '');
+    });
+    // clear active classes, set new one
+    document.querySelectorAll('.fbtn').forEach(b => {
+      b.className = 'fbtn';
+    });
+    if (tFilter === 'all') btn.classList.add('fa');
+    else btn.classList.add('f' + tFilter);
+    buildTable();
+  });
+});
+
+// Tabs
+document.querySelectorAll('.tab').forEach(btn => {
+  btn.addEventListener('click', () => {
+    const t = btn.dataset.tab;
+    document.querySelectorAll('.tab').forEach(b => b.classList.toggle('on', b.dataset.tab === t));
+    document.querySelectorAll('.view').forEach(v => v.classList.remove('on'));
+    document.getElementById('view-' + t).classList.add('on');
+    if (t === 'table') buildTable();
+    if (t === 'guide') buildGuide();
+  });
+});
+
+// ─────────────────────────────────────────────
+//  INIT
+// ─────────────────────────────────────────────
+buildArch();
+buildInfo();
+</script>
+
+</body>
+</html>
