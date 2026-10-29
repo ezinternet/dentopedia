@@ -12,6 +12,22 @@ source_collection: pubmed-abstract
 ## Why Ingested
 역행성 임플란트 주위염 (Retrograde Peri-implantitis, RPI)의 역학·병인·임상양상·분류·치료·예방을 73증례 (36편) 기반으로 종합한 최신 문헌고찰 — [[overviews/implant-failure-mechanism-xray-differential-overview]]의 "역행성 패턴 전용 논문 없음" Gap 보완.
 
+## Three-line Summary
+
+Literature review (73 cases, 36 articles, PubMed) synthesizing epidemiology, etiology, classification, treatment, and prevention of retrograde peri-implantitis (RPI), emphasizing that untreated pulpal/periapical lesions in adjacent teeth are the primary — and commonly overlooked — cause.
+
+No standardized clinical guidelines exist for RPI diagnosis, treatment, or prevention; molecular/immunological mechanisms and laser/novel-material treatments are identified as emerging research directions.
+
+Most evidence is derived from case reports (high bias risk); a standardized RPI definition and prospective guideline development are urgently needed.
+
+## 세줄요약
+
+문헌고찰 (73증례, 36편) — 역행성 임플란트 주위염 (Retrograde Peri-implantitis, RPI)의 역학·병인·분류·치료·예방 종합; 인접치 치수·치근단 병소 (Pulpal/Periapical Lesion)가 주원인이나 임상가의 평가·관리가 부족.
+
+RPI 진단·치료·예방을 위한 표준 임상 가이드라인 미존재; 분자생물학·면역학 기반 조기 진단 및 레이저·신소재 치료가 신규 연구 방향.
+
+포함 연구 대부분 case reports — 증거 수준 낮음; 표준화된 RPI 정의·임상 가이드라인 제정을 위한 전향적 연구 필요.
+
 ## One-line Summary
 Literature review (73 cases from 36 articles, PubMed) synthesizing epidemiology, etiology, clinical manifestations, classification, treatment, and prevention of retrograde peri-implantitis, emphasizing that untreated pulpal/periapical lesions in adjacent teeth are the primary cause and are commonly overlooked.
 
