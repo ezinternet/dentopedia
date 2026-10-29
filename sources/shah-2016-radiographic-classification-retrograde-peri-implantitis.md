@@ -12,6 +12,22 @@ source_collection: pubmed-abstract
 ## Why Ingested
 임플란트 치근단 방사선 투과상 (Radiolucency)의 범위를 임플란트 길이 대비 %로 분류한 최초의 방사선 분류 체계 — [[overviews/implant-failure-mechanism-xray-differential-overview]]의 치근단부 방사선 소견 공백을 보완; [[implants/peri-implantitis/gong-2022-novel-histopathological-classification-implant]]의 조직병리 분류와 병행 사용.
 
+## Three-line Summary
+
+Literature review of 54 periapical radiographs (36 case reports) proposing the first quantitative 3-class radiographic classification of retrograde peri-implantitis (RPI): mild (<25% of implant length from apex), moderate (25–50%), and advanced (>50%), with treatment and prognosis guidelines per class.
+
+The hallmark radiographic feature is periapical radiolucency confined to the implant apex with intact coronal osseointegration — the key finding distinguishing RPI from conventional peri-implantitis on radiographs.
+
+Evidence is case-report based (low quality); prospective validation of classification reliability, treatment outcomes, and integration with Gong 2022 histopathological classes is lacking.
+
+## 세줄요약
+
+케이스 리포트 기반 문헌고찰 (54장 방사선 사진, 36편) — 역행성 임플란트 주위염 (Retrograde Peri-implantitis, RPI) 방사선 3등급 최초 정량 분류: 경도 <25% / 중등도 25–50% / 중증 >50% (임플란트 길이 첨단부 기준); 등급별 치료·예후 제시.
+
+핵심 방사선 특징: 방사선 투과상 (Radiolucency)이 임플란트 첨단부 주위에만 국한, 근관부 골유착 정상 유지 — 일반 임플란트 주위염 (변연부→하방 진행)과의 방사선 감별 핵심.
+
+케이스 리포트 기반 (저급 증거); 분류 신뢰도·등급별 치료 성공률·Gong 2022 조직병리 분류와의 통합 체계를 위한 전향적 검증 연구 부재.
+
 ## One-line Summary
 Literature review of 54 periapical radiographs from 36 case reports proposing a 3-class radiographic classification of retrograde peri-implantitis (mild <25%, moderate 25–50%, advanced >50% of implant length from apex), with treatment and prognosis guidelines per class.
 
