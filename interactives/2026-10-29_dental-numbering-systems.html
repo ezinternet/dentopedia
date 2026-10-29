@@ -150,11 +150,11 @@ body {
   letter-spacing: 0.07em;
   text-transform: uppercase;
   margin-bottom: 6px;
-  min-width: 510px;
+  min-width: 700px;
 }
 .arch-orient .dot { color: var(--border); }
 
-.arch-inner { min-width: 510px; }
+.arch-inner { min-width: 700px; }
 
 .arch-row {
   display: flex;
@@ -179,7 +179,7 @@ body {
   display: flex;
   align-items: center;
   gap: 8px;
-  min-width: 510px;
+  min-width: 700px;
   margin: 4px 0;
   justify-content: center;
 }
@@ -198,16 +198,16 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 40px;
+  height: 58px;
   border: 1.5px solid;
   transition: transform 0.1s, box-shadow 0.1s, filter 0.1s;
   font-family: 'JetBrains Mono', monospace;
-  font-size: 10px;
+  font-size: 12px;
   font-weight: 500;
-  border-radius: 3px 3px 0 0;
+  border-radius: 4px 4px 0 0;
   user-select: none;
   line-height: 1;
-  padding: 0 1px;
+  padding: 0 2px;
 }
 .arch-row.lower .tc { border-radius: 0 0 3px 3px; }
 
@@ -224,7 +224,7 @@ body {
   display: flex;
   justify-content: center;
   gap: 0;
-  min-width: 510px;
+  min-width: 700px;
   font-size: 10px;
   font-weight: 600;
   letter-spacing: 0.04em;
@@ -471,14 +471,14 @@ td.mono {
 //  DATA
 // ─────────────────────────────────────────────
 const TYPE_META = {
-  ci: { w: 24, kr: '중절치',   en: 'Central Incisor'  },
-  li: { w: 20, kr: '측절치',   en: 'Lateral Incisor'  },
-  c:  { w: 22, kr: '견치',     en: 'Canine'            },
-  p1: { w: 26, kr: '제1소구치', en: '1st Premolar'    },
-  p2: { w: 26, kr: '제2소구치', en: '2nd Premolar'    },
-  m1: { w: 36, kr: '제1대구치', en: '1st Molar'       },
-  m2: { w: 34, kr: '제2대구치', en: '2nd Molar'       },
-  m3: { w: 28, kr: '제3대구치(사랑니)', en: '3rd Molar / Wisdom' },
+  ci: { w: 34, kr: '중절치',   en: 'Central Incisor'  },
+  li: { w: 28, kr: '측절치',   en: 'Lateral Incisor'  },
+  c:  { w: 30, kr: '견치',     en: 'Canine'            },
+  p1: { w: 36, kr: '제1소구치', en: '1st Premolar'    },
+  p2: { w: 36, kr: '제2소구치', en: '2nd Premolar'    },
+  m1: { w: 50, kr: '제1대구치', en: '1st Molar'       },
+  m2: { w: 47, kr: '제2대구치', en: '2nd Molar'       },
+  m3: { w: 40, kr: '제3대구치(사랑니)', en: '3rd Molar / Wisdom' },
 };
 const TYPE_SEQ = ['ci','li','c','p1','p2','m1','m2','m3'];
 
@@ -560,7 +560,7 @@ function buildArch() {
       </div>`;
       // midline divider between index 7 and 8
       if (idx === 7) {
-        tHtml += `<div style="width:2px;height:44px;background:var(--border);border-radius:1px;flex-shrink:0;align-self:center;"></div>`;
+        tHtml += `<div style="width:2px;height:62px;background:var(--border);border-radius:1px;flex-shrink:0;align-self:center;"></div>`;
       }
     });
     return `<div class="arch-row ${jaw}" style="align-items:${align};gap:2px;justify-content:center;">
