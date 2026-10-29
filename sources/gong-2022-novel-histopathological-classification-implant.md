@@ -12,6 +12,22 @@ source_collection: pubmed-abstract
 ## Why Ingested
 역행성 임플란트 주위염 (Retrograde Peri-implantitis) / 임플란트 치근단 병소 (Implant Periapical Lesion, IPL)의 조직병리 기반 분류 체계 최초 체계적 고찰 — 기존 [[implants/peri-implantitis/abukraa-2025-peri-implant-bone-necrosis-clinical]]와 [[overviews/implant-failure-mechanism-xray-differential-overview]]의 "치근단부 골소실 전용 논문 없음" Gap을 직접 보완.
 
+## Three-line Summary
+
+PRISMA systematic review (28 studies, 37 implant cases, 1992–2021) proposing the first histopathology-based 5-class classification of implant periapical lesions (IPL): Class I inflammation, Class II abscess, Class III cyst, Class IV foreign body reaction, Class V poor bone healing.
+
+Implant periapical cyst (Class III) was the most frequent histological type (21/37, 57%); apicoectomy achieved 97% success (38/39), while cyst removal alone yielded only 33% success; antibiotics alone were ineffective for most types.
+
+Evidence is largely case-report based (low quality, 27/28); surgical debridement plus bone grafting is the standard of care, but optimal treatment protocols cannot be concluded due to heterogeneity.
+
+## 세줄요약
+
+PRISMA 체계적 고찰 (28편, 37증례, 1992–2021) — 임플란트 치근단 병소 (Implant Periapical Lesion, IPL) 조직병리 5분류 최초 제안 (염증·농양·낭종·이물반응·불량 골유합).
+
+낭종 (Class III)이 가장 빈번 (21/37, 57%); 임플란트 첨단부 절제술 (Apicoectomy) 성공률 97% (38/39) vs 낭종 단독 제거 33%; 항생제 단독 치료는 대부분 무효.
+
+대부분 case reports (저급 증거); 수술적 소파 + 골이식이 표준이지만 프로토콜 이질성으로 최적 치료 결론 불가.
+
 ## One-line Summary
 PRISMA systematic review (28 studies, 509 → 28 eligible) synthesizing histopathological evidence of implant periapical lesions (1992–2021), proposing a 5-class classification (inflammation/abscess/cyst/foreign body/poor bone healing) with a treatment decision tree.
 
