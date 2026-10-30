@@ -189,3 +189,5 @@ Intracanal medicament?
 - [[endodontics/regenerative/panda-2022-regenerative-apexification-immature-teeth-sr-ma]] — SR+MA: REP superior to apexification for root length and dentinal wall thickness with similar survival/success; foundational evidence for Axis 1 scaffold interpretation
 - [[endodontics/regenerative/torabinejad-2017-ret-mta-apical-plug-sr-ma]] — SR+MA: REP vs MTA apical plug survival/success equivalence; earlier WMTA evidence base
 - [[endodontics/regenerative/stefanidou-2024-revitalization-apexification-immature-sr-ma]] — companion SR+MA on revitalization vs apexification outcomes; adds scaffold-type granularity context
+
+<!-- thesis-reviewed: 2026-10-30 -->
