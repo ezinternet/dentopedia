@@ -156,3 +156,5 @@ Clinical takeaway: when a unit appears in a paper, let it trigger the reflex *"w
 - [[alkandari-2024-articaine-versus-mepivacaine-ianb-irreversible-pulpitis]] — 4% articaine vs 2% mepivacaine
 - [[parra-2026-pushout-bond-strength-fiberglass-posts]] — ultrasonic activation frequency (kHz) instance
 - [[cyris-2024-guided-biofilm-therapy-versus-conventional]] — ultrasonic/GBT debridement context
+
+<!-- thesis-reviewed: 2026-10-30 -->
