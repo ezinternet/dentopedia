@@ -3856,6 +3856,7 @@ tags: []
 - [[resin/lima-2023-polywave-light-emitting-diodes-more]] — 폴리웨이브 vs 모노웨이브 LED SR: TPO 함유 복합레진에서 폴리웨이브가 DC·경도 우수(9/18·7/18 연구), 굴곡강도 차이 없음, 근거 수준 낮음 (Lima 2023)
 - [[resin/lima-2018-depth-cure-bulk-fill-resin]] — 벌크필 레진 중합 깊이 SR: 성공적 중합에 조사강도 ≥1000 mW/cm²·조사시간 ≥20s 필수, bottom/top ratio ≥0.8·DC ≥50% 기준, n=33 (Lima 2018)
 - [[resin/braga-2005-factors-polymerization-shrinkage-stress]] — 중합수축응력 발생 인자 SR (고전): 부피수축·점탄성 거동·수축 구속의 3인자 모델, 반응역학·C-factor, 스트레스 감소 기법은 재료 의존적 (Braga 2005)
+- [[resin/aromaa-2018-delayed-post-curing-oxygen-inhibition]] — in vitro(FTIR+VHN, n=6/군): 광조사 후 지연 후경화 단계(DPCS)에서도 산소가 자유라디칼 중합을 지속 억제 — 산소 차단군 DC 50%→65%, 표면 경도 9.10 VHN vs 노출군 4.80 VHN(p<0.005); 글리세린·마일러 차단의 기계적 근거 (Aromaa 2018)
 
 **caries**
 - [[caries/moynihan-2016-sugars-dental-caries-threshold-intake]] — Review (54 studies) establishing moderate-quality dose-response that free sugars ≤10%E reduces caries and low-quality evidence for further benefit below 5%E, underpinning the 2015 WHO guideline (2016)
