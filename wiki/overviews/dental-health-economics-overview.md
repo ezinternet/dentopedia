@@ -85,3 +85,5 @@ Together they show the same underlying point from two directions: in a market sh
 - [[practice-management/chen-2024-dental-hygienist-autonomy-care-utilization]] — supply-side scope-of-practice natural experiment (non-monotonic autonomy effect).
 - [[overviews/dental-workforce-delegation-skill-mix-overview]] — deeper synthesis of the delegation/skill-mix axis that Chen 2024 sits on.
 - [[overviews/korean-dental-practice-management-overview]] — Korean practice-management context; the financing/regulatory setting these (non-Korean) findings must be contextualized against.
+
+<!-- thesis-reviewed: 2026-10-30 -->
