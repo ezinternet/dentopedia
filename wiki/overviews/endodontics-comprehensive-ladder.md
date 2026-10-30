@@ -171,3 +171,5 @@ AAPD 2025가 비가역 치수염에도 VPT 고려를 허용하고, 유치는 MTA
 
 - [[endodontics/anatomy/chen-2016-diagnosis-treatment-odontogenic-cutaneous-sinus]] — Case report (n=1, 11-year-old boy): an odontogenic cutaneous sinus tract on the left cheek … (case-report, 2016)
 - [[practice-management/nosrat-2025-endodontist-gp-nsrct-clinical-approaches-cohort]] — Prospective cohort (US PBRN PREDICT) showing endodontists were significantly more likely than general dentists to use >5× magnification … (prospective, 2025)
+
+<!-- thesis-reviewed: 2026-10-30 -->
