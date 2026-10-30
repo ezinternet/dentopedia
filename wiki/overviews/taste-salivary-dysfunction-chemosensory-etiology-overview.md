@@ -113,3 +113,5 @@ The clinical bottom line: taste and dry-mouth complaints must be evaluated toget
 - 쇼그렌 chemosensory 부담 = [횡단]
 - COVID 지속·공통기전 = [내러티브, 정량 pooled 아님]
 - 아연이 관통하는 공통 실 = [미검증 — 세 논문의 아연 언급을 연결]
+
+<!-- thesis-reviewed: 2026-10-30 -->
