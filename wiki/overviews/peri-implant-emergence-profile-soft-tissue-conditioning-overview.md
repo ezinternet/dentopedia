@@ -137,3 +137,5 @@ Five further papers extend this arc along three lines. On the **material-choice 
 - [[overviews/immediate-implant-esthetic-soft-tissue-overview]] — broader immediate-implant esthetic/provisionalization/grafting synthesis
 - [[overviews/immediate-implant-soft-tissue-gap-grafting-material-choice]] — gap grafting material decision
 - [[overviews/peri-implant-soft-tissue-dehiscence-prevention]] — dehiscence prevention
+
+<!-- thesis-reviewed: 2026-10-30 -->
