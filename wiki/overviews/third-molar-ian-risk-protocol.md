@@ -259,3 +259,5 @@ OPG 판독
 - [[oral-surgery/third-molar/derbishi-2026-coronectomy-versus-total-extraction-third]] — SR+MA (8 studies — 3 RCTs + 5 cohorts, 1488 teeth): coronectomy cut IAN injury vs total extraction (Peto OR 0.23, 95% CI 0.13–0.39, p<0.0001 … (sr+ma, 2026)
 - [[oral-surgery/third-molar/di-spirito-2025-re-intervention-rate-timing-indications]] — Umbrella review (6 systematic reviews, 5896 subjects, 7913 successful coronectomies): overall re-intervention rate 4.45%, mostly within ~10 months … (sr, 2025)
 - [[oral-surgery/third-molar/rico-barroso-2026-coronectomy-alternative-technique-complete-extraction]] — Systematic review (16 studies, 2551 patients, 2280 coronectomies vs 841 extractions): IAN injury 0.56% (coronectomy) vs 6.53% (extraction) … (sr, 2026)
+
+<!-- thesis-reviewed: 2026-10-30 -->
