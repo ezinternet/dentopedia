@@ -16,6 +16,10 @@ source_papers:
   - wiki/implants/survival/moy-2005-dental-implant-failure-rates-risk.md
   - wiki/drug/systemic-disease/masri-2024-early-implant-failure-antihypertensive-medications.md
   - wiki/drug/systemic-disease/chidiac-2026-antihypertensive-antihyperlipidemic-antidepressant-implant-survival.md
+  - wiki/drug/systemic-disease/wu-2016-antihypertensive-medications-survival-osseointegrated.md
+  - wiki/drug/systemic-disease/saravi-2021-impact-renin-angiotensin-system-inhibitors-beta-blockers.md
+  - wiki/drug/systemic-disease/seki-2020-antihypertensive-medications-clinical-parameters-anodized.md
+  - wiki/implants/survival/tonini-2022-successful-osseointegrated-implants-hypertensive.md
   - wiki/implants/survival/wahlberg-2025-multicenter-early-implant-failures-part-2-patient.md
   - wiki/implants/survival/zhang-2025-risk-factors-early-failure-simple-taper-implants.md
   - wiki/implants/survival/stiller-2024-effects-smoking-dental-implant-failure.md
@@ -192,6 +196,10 @@ EIF is mechanistically distinct from late failure: it reflects a **failure to ac
 - [[implants/survival/moy-2005-dental-implant-failure-rates-risk]] — classic long-term risk-factor cohort
 - [[drug/systemic-disease/masri-2024-early-implant-failure-antihypertensive-medications]] — antihypertensive medication as host-factor: EIF 2.29% vs NT 4.33%; unmedicated HTN worst (28.6%)
 - [[drug/systemic-disease/chidiac-2026-antihypertensive-antihyperlipidemic-antidepressant-implant-survival]] — 10yr KM: AHT HR 0.23 protective; statin HR 0.16; SSRI HR 2.17 harmful
+- [[drug/systemic-disease/wu-2016-antihypertensive-medications-survival-osseointegrated]] — landmark: AHT HR 0.12 (88% failure-risk reduction); 1499 implants; first systemic-medication benefit paper
+- [[drug/systemic-disease/saravi-2021-impact-renin-angiotensin-system-inhibitors-beta-blockers]] — drug-class breakdown: RAS inhibitors ISQ +3.59 (p=0.025); beta-blocker NS; 377 implants/196 patients
+- [[drug/systemic-disease/seki-2020-antihypertensive-medications-clinical-parameters-anodized]] — counterpoint: AHT users peri-implantitis 26.5% vs 4.7% (OR 7.38); 0 implant loss — survival≠success
+- [[implants/survival/tonini-2022-successful-osseointegrated-implants-hypertensive]] — null result corroborating Hamadé SR+MA: HTN p=.958, AHT p=.939; 1887 implants
 - [[implants/survival/grigoras-2024-early-implant-failure-a-meta]] — single-practice Romanian cohort (810 implants): no diabetes/CVD/hypertension link, equal maxilla–mandible loss, female predominance — dissenting data against the received risk-factor literature
 - [[implants/survival/scoffier-2026-aetiology-of-early-implant-failure]] — scoping review (1,838 screened → 8 included): definitional heterogeneity makes pooling unreliable; proposes local/systemic/procedural 3-domain framework
 - [[implants/survival/carr-2022-low-insertional-torque-early]] — low-torque arm of the U-shaped torque curve: <30 N·cm HR 13.909 (VA North Texas, 214 implants)
