@@ -175,3 +175,5 @@ Pediatric, multiple imaging needs, radiation concern → Consider 0.55T MRI (eme
 - [[radiology/willershausen-2025-low-field-mri-pediatric-dental]] — MRI alternative
 - [[radiology/kim-2024-real-ghost-pseudo-ghost-images-panoramic]] — panoramic artifacts
 - [[digital-workflow/benavides-2012-cbct-implant-dentistry-icoi-consensus]] — ICOI consensus on CBCT in implant dentistry (systematic PubMed review, 2000–2011). Supported uses: linear measurement, 3-D ridge topography, proximity to vital structures and surgical-guide fabrication. Under-researched: CBCT bone-density measurement, CBCT-aided navigation and postimplant artifacts. Scan on individual need, use the smallest field of view and interpret the whole volume; no numeric effect sizes (consensus, 2012).
+
+<!-- thesis-reviewed: 2026-10-30 -->
