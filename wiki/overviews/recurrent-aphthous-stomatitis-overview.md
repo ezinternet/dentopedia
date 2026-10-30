@@ -177,3 +177,5 @@ It **does not** change first-line therapy for the common idiopathic case: the to
 
 - [[overviews/oral-medicine-decision-ladder]] — RAS is axis 5 of that 7-axis oral-medicine ladder; this page is the dedicated deep-dive that expands it (and the PFAPA link to its vesiculo-ulcerative axis 7).
 - [[overviews/autoimmune-disease-dental-treatment-overview]] — carries Behçet (Mumcu 2021) in its periodontal–systemic axis; that page frames BD within autoimmune dental management, this one within the aphthous-ulceration differential.
+
+<!-- thesis-reviewed: 2026-10-30 -->
