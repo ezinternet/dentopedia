@@ -190,8 +190,21 @@ tags: [zirconia, inlay, bonding, sop, interactive]
     font-size: 14px; cursor: pointer; text-decoration: underline;
   }
   details { margin: 8px 0; }
-  details summary { cursor: pointer; font-size: 15.5px; color: var(--doc); }
-  details summary:hover { text-decoration: underline; }
+  details summary {
+    cursor: pointer; font-size: 15.5px; color: var(--doc);
+    display: inline-flex; align-items: center; gap: 7px;
+    padding: 4px 10px 4px 6px; border-radius: 6px;
+    font-weight: 500;
+    transition: background 0.18s, color 0.18s;
+  }
+  details summary:hover { background: var(--doc); color: white; }
+  details summary:hover .sum-badge { background: rgba(255,255,255,0.95); color: var(--doc); }
+  .sum-badge {
+    display: inline-block; font-size: 11px; padding: 1px 6px;
+    border-radius: 3px; font-weight: 700; flex-shrink: 0;
+    background: var(--warn); color: white;
+    transition: background 0.18s, color 0.18s;
+  }
 </style>
 </head>
 <body>
@@ -434,7 +447,7 @@ tags: [zirconia, inlay, bonding, sop, interactive]
   </div>
 
   <details>
-    <summary>글리세린을 하는 이유 — 산소억제층 (Oxygen-Inhibited Layer, OIL) 메커니즘 자세히 보기</summary>
+    <summary><span class="sum-badge">중요</span> 글리세린을 하는 이유 — 산소억제층 (Oxygen-Inhibited Layer, OIL) 메커니즘 자세히 보기</summary>
     <div style="padding:6px 0 2px;">
       <div class="action" style="margin-top:8px;">
         <span class="action-label">OIL이 생기는 이유</span>
