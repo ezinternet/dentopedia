@@ -97,3 +97,5 @@ The alveolar-bone response is load-positive; the same unilateral chewing causes 
 
 ## Related Interactive
 - `interactives/2026-06-14_unilateral-mastication-bone-mechanism.html` — 부하 ON/OFF 토글로 PIEZO1 → sclerostin/Wnt → 파골세포 → type H 혈관 캐스케이드와 골소주 밀도(HU 513↔409) 변화를 비교하는 교육용 도구 (강의·환자설명용). agenda: `agenda/2026-06-14_unilateral-mastication-bone-mechanism.md`
+
+<!-- thesis-reviewed: 2026-10-30 -->
