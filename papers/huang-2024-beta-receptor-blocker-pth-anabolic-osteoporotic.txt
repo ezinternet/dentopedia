@@ -1,0 +1,42 @@
+β-Receptor blocker enhances the anabolic effect of PTH after osteoporotic fracture
+Huang Y, et al.
+Bone Research, 2024
+DOI: 10.1038/s41413-024-00321-z
+PMID: 38514644 | PMC: PMC10958005
+
+ABSTRACT:
+The autonomic nervous system plays a crucial role in regulating bone metabolism, with sympathetic activation stimulating bone resorption and inhibiting bone formation. We found that fractures lead to increased sympathetic tone, enhanced osteoclast resorption, decreased osteoblast formation, and thus hastened systemic bone loss in ovariectomized (OVX) mice. However, the combined administration of parathyroid hormone (PTH) and the β-receptor blocker propranolol dramatically promoted systemic bone formation and osteoporotic fracture healing in OVX mice. The effect of this treatment is superior to that of treatment with PTH or propranolol alone. In vitro, the sympathetic neurotransmitter norepinephrine (NE) suppressed PTH-induced osteoblast differentiation and mineralization, which was rescued by propranolol. Moreover, NE decreased the PTH-induced expression of Runx2 but enhanced the expression of RANKL and the effect of PTH-stimulated osteoblasts on osteoclastic differentiation, whereas these effects were reversed by propranolol. Furthermore, PTH increased the expression of the circadian clock gene BMAL1, which was inhibited by NE-βAR signaling. BMAL1 knockdown blocked the rescue effect of propranolol on the NE-induced decrease in PTH-stimulated osteoblast differentiation. Taken together, these results suggest that propranolol enhances the anabolic effect of PTH in preventing systemic bone loss following osteoporotic fracture by blocking the negative effects of sympathetic signaling on PTH anabolism.
+
+FULL TEXT KEY FINDINGS:
+- Animal study (C57BL/6 mice, female, 12-week-old, OVX model)
+- Tibia fracture model with OVX-induced postmenopausal osteoporosis
+- 4 treatment groups: iPTH (80 μg/kg/day SC), propranolol (0.5 g/L drinking water), PTH+propranolol, vehicle
+- Treatment duration: 4 weeks post-fracture
+
+μCT results (OVX + fracture):
+- Vehicle: baseline bone loss
+- PTH alone: trabecular BV/TV +54% vs vehicle (femur)
+- PTH + propranolol: trabecular BV/TV +93% vs vehicle (femur)
+- L5 vertebra: PTH +26%, PTH+propranolol +47% vs vehicle
+- Propranolol enhanced PTH effect by ~80%
+
+MECHANISM:
+- Fracture → increased serum NE (sympathetic stress) → β-adrenergic receptor (βAR) activation on osteoblasts
+- NE + iPTH: RANKL↑↑ (more than PTH alone), RUNX2↓, osteoblast differentiation↓
+- NE inhibits PTH-induced BMAL1 expression in osteoblasts via βAR signaling
+- BMAL1 knockdown blocks propranolol rescue effect → BMAL1 is the mediator
+- Propranolol reverses NE-mediated suppression: RUNX2↑, BMAL1↑, RANKL↓
+- PTH1R ↔ β2AR interaction: β2AR deficiency blocks PTH anabolism; propranolol (reversible antagonist) differs from β2AR KO (permanent)
+- NE also enhances PTH-stimulated osteoblast-mediated osteoclastogenesis → dual catabolic pressure
+
+CIRCADIAN MECHANISM:
+- PTH increases BMAL1 expression in osteoblasts
+- NE-βAR signaling inhibits this PTH-induced BMAL1 increase
+- BMAL1 knockdown by siRNA: impairs iPTH-induced ALP activity, ARS mineralization, RUNX2 expression
+- Morning PTH administration → greater BMD increase (clinical data cited)
+
+CLINICAL IMPLICATIONS:
+- Propranolol + PTH combination may prevent systemic bone loss after osteoporotic fracture
+- Elevated sympathetic tone post-fracture may explain variable PTH responses in clinical fracture studies
+- BMAL1 as pharmacological target for bone loss
+- Propranolol doses (4 weeks): no body weight, liver/kidney function, or rotarod fatigue differences
