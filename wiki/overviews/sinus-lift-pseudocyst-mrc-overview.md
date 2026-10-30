@@ -339,3 +339,5 @@ AP/MRC는 임플란트 절대 금기가 아님(Anitua 2021 SR: 유의 위험 미
 [미검증] 한국 임상 default: **Type 1 → Untreated/Aspiration 옵션 환자에게 제시, Type 2 → Aspiration + 즉시 augmentation, Type 3 → Enucleation + 즉시 augmentation**. 장기 trajectory는 15년 untreated case (Grün 2023)까지 안전 datapoint — 환자 설명에 직접 인용 가능. ENT 협진 trigger (>20mm + ostium 근접, 부비동 전체 침범, 침습성)는 명확히 설정해두고 의심 시 즉시 의뢰.
 
 [미검증] 20mm cut-off는 본 framework의 가설적 기준 — RCT validation 없음. 실제 임상에서는 size + ostium 근접도 + 동반 증상 + 술자 시야 확보 가능성을 종합 판단.
+
+<!-- thesis-reviewed: 2026-10-30 -->
