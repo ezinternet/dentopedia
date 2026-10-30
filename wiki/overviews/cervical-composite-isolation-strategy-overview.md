@@ -71,3 +71,5 @@ The clinical question — "치경부 레진 충전에 열구액 때문에 코드
 - [[periodontics/schatzle-2001-restoration-margins-periodontal-tissues-26year]] — periodontal counterweight: subgingival margins → long-term inflammation/attachment loss
 - [[resin-bonding/elhaddad-2026-cervical-margin-relocation-periodontal-restorative]] — deep margin elevation as the alternative when the margin is already subgingival
 - [[overviews/restorative-margin-periodontal-interface-overview]] — parent synthesis on margin location ↔ periodontal health
+
+<!-- thesis-reviewed: 2026-10-30 -->
