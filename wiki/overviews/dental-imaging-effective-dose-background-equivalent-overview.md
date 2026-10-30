@@ -126,3 +126,5 @@ Denominator (single source): natural background **3110 µSv/yr ≈ 8.52 µSv/day
 - [[radiology/schindler-2025-panoramic-thyroid-eye-lens-dose]] — organ doses underpinning shielding discontinuation
 - [[radiology/benavides-2023-patient-shielding-dentomaxillofacial-radiography]] — shielding-discontinuation consensus
 - [[radiology/makdissi-2016-effects-device-position-operators-radiation]] — handheld PA operator (not patient) dose
+
+<!-- thesis-reviewed: 2026-10-30 -->
