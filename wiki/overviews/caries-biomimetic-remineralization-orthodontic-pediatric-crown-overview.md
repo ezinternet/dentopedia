@@ -138,3 +138,5 @@ This overview adds: Zn-CHA biomimetic HA, bracket/attachment-site HA protocols, 
 - [[caries/chen-2026-zirconia-strip-crowns-primary-anterior-teeth-sr-ma]] — PZC vs RCSC SR+MA; anchors Axis 3
 - [[overviews/caries-detection-remineralization-overview]] — CPP-ACP + fluoride, WSL resin infiltration (upstream context)
 - [[overviews/non-restorative-caries-management-topical-fluoride-synthesis]] — SDF, fluoride varnish, high-F toothpaste (upstream context)
+
+<!-- thesis-reviewed: 2026-10-30 -->
