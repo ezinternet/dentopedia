@@ -167,3 +167,5 @@ Read together with the single-crown evidence, the complete-arch data confirm tha
 - [[prosthetic-materials/laumacher-2025-lithium-disilicate-single-crowns-overview-sr]] — overview of SRs establishing mature tooth-supported LDS evidence (95–98% 5-year survival) against which the thinner implant-supported LDS evidence is contrasted.
 - [[prosthetic-materials/abutment-screw/kim-2023-bsrp-vs-scrp-prospective-multicenter]] — RCT on a novel ball-and-spring retention system vs conventional screw-cement retention; reinforces the survival-equivalence/complication-type-shift pattern (screw loosening vs screw fracture) with a non-standard retention mechanism.
 - [[complete-denture/abou-ayash-2023-implant-supported-fixed-complete-dentures]] — SR+MA on patient-reported outcomes (not survival/complications) for implant-supported fixed complete dentures vs overdentures; supporting context showing prosthesis-type choice for edentulous patients can be guided by stability preference rather than assumed PRO superiority, complementary to this overview's survival/complication focus.
+
+<!-- thesis-reviewed: 2026-10-30 -->
