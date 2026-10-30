@@ -19,6 +19,8 @@ relations:
     target: somngam-2025-new-bone-formation-biphasic-calcium
   - type: reinforces
     target: trimmel-2021-relative-performance-various-biomaterials
+  - type: contrasts
+    target: alkandari-2025-bcp-dbbm-sinus-elevation-sr-ma
 ---
 
 abstract-only — full text not retrieved
