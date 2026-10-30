@@ -1,0 +1,27 @@
+Antihypertensive Medications and the Survival Rate of Osseointegrated Dental Implants: A Cohort Study.
+Wu X, Al-Abedalla K, Eimar H, Arekunnath Madathil S, Abi-Nader S, Daniel NG, Nicolau B, Tamimi F.
+Clinical Implant Dentistry and Related Research, 2016
+DOI: 10.1111/cid.12414
+PMID: 26935774
+
+ABSTRACT:
+Antihypertensive drugs in general are beneficial for bone formation and remodeling, and are associated with lower risk of bone fractures. As osseointegration is influenced by bone metabolism, this study aimed to investigate the association between antihypertensive drugs and the survival rate of osseointegrated implants.
+
+This retrospective cohort study included a total of 1,499 dental implants in 728 patients (327 implants in 142 antihypertensive-drugs-users and 1,172 in 586 nonusers). Multilevel mixed effects parametric survival analyses were used to test the association between antihypertensive drugs use and implant failure adjusting for potential confounders.
+
+Only 0.6% of the implants failed in patients using antihypertensive drugs while 4.1% failed in nonusers. A higher survival rate of dental implants was observed among users of antihypertensive drugs [HR (95% CI): 0.12 (0.03-0.49)] compared to nonusers.
+
+CONCLUSIONS:
+Our findings suggest that treatment with antihypertensive drugs may be associated with an increased survival rate of osseointegrated implants. To our knowledge, this could be the first study showing that the systemic use of a medication could be associated with higher survival rate of dental implants.
+
+KEY DATA:
+- 1,499 implants, 728 patients
+- AHT users: 327 implants/142 patients; Non-users: 1,172 implants/586 patients
+- Failure rate: AHT 0.6% vs non-users 4.1%
+- HR 0.12 (95% CI 0.03–0.49) — landmark finding
+- Survival analysis: multilevel mixed effects parametric
+- McGill University, Department of Dentistry
+- Drug breakdown: 54% RAS inhibitors, 18.9% beta-blockers, 5.4% thiazides, 21.6% other
+- Published: Clin Implant Dent Relat Res. 2016;18(6):1171-1182
+
+NOTE: Full PMC text not available. Summary based on abstract via PubMed (PMID: 26935774).
