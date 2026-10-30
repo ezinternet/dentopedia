@@ -168,3 +168,5 @@ OLP is classified as an oral potentially malignant disorder (OPMD), and Warnakul
 - [[overviews/oral-medicine-decision-ladder]] — parent triage page; OLP is its axis 3. This overview deepens that axis with the full treatment-evidence hierarchy and the systemic-sentinel table.
 - [[overviews/autoimmune-disease-dental-treatment-overview]] — where erosive OLP appears as a peri-implant risk modifier, and where the autoimmune comorbidities flagged here (Hashimoto, celiac) sit in the broader oral–systemic picture.
 - [[oral-medicine/opmd/gonzalez-moles-2021-lichen-planus-malignant-transformation-sr]] · [[oral-medicine/opmd/chiang-2021-lichen-planus-malignant-transformation-review]] · [[oral-medicine/opmd/kaur-2022-oral-lichen-planus-malignant-disorder-appraisal]] — the malignant-transformation-risk boundary this page defers to (true MTR 0.5–1.4% / ~1% / <1% under strict criteria).
+
+<!-- thesis-reviewed: 2026-10-30 -->
