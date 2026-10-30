@@ -104,3 +104,5 @@ The bridge between layers is **non-interchangeability**: digital occlusal maps d
 - [[occlusion/velasquez-2022-occlusal-analysis-natural-dentition-sr]] — SR establishing digital objectivity and trauma/TMD links.
 - [[occlusion/gozen-2025-occlusal-force-distribution-digital-analysis-implant-in-vivo]] — digital-vs-digital agreement (IOS location vs OccluSense force).
 - [[occlusion/jahanbin-2026-occlusal-adjustment-post-orthodontic-tscan-rct]] — T-Scan-measured RCT: objective monitoring did not translate to a measurable adjustment advantage at 6 months (outcome-relevance caveat).
+
+<!-- thesis-reviewed: 2026-10-30 -->
