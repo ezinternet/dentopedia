@@ -1,0 +1,37 @@
+Influence of antihypertensive medications on the clinical parameters of anodized dental implants: a retrospective cohort study
+Seki K, et al.
+International Journal of Implant Dentistry, 2020
+DOI: 10.1186/s40729-020-00231-9
+PMID: 32696295 | PMC: PMC7374550
+
+ABSTRACT:
+Background: Hypertension is a chronic medical condition in which blood pressure in the arteries is elevated. Given the large proportion of dental implant patients using antihypertensive medications, it is crucial to evaluate the effects of these drugs on the clinical parameters of osseointegrated implants. The aim of the present retrospective cohort study was to evaluate the influence of antihypertensive medications on clinical peri-implant tissue parameters.
+
+Methods: Thirty-five patients received a total of 77 anodized dental implants. Based on the history of the use of antihypertensive medications, the patients were divided into two groups: the group taking antihypertensive medications (AH group) and the group of healthy patients (H group). Implants were followed up clinically and radiologically, with a focus on the peri-implant soft tissue parameters probing pocket depth, bleeding on probing, modified plaque index, and marginal peri-implant bone level stability.
+
+Results: None of the implants were lost, and no technical failures occurred. The mean follow-up duration was 7 years and 1 month. A significant difference was observed in the probing pocket depth 3.8 ± 1.3 mm in the AH group and 3.0 ± 0.7 mm in the H group. In the AH and H groups, 26.5% (9/34) and 4.7% (2/43) of the patients were diagnosed with peri-implantitis at the implant level, respectively.
+
+Conclusions: Our findings suggest some correlations between antihypertensive medication use and clinical parameters in anodized peri-implant tissue.
+
+FULL TEXT KEY FINDINGS:
+- Retrospective cohort, Nihon University School of Dentistry, June 2003–May 2018
+- 35 patients, 77 anodized (TiUnite) Nobel Biocare implants
+- AH group: 13 patients, 34 implants; H group: 22 patients, 43 implants
+- Mean follow-up: 7 years 1 month (range 15–170 months, median 82 months)
+- Mean age: 66.1 years; AH group mean age 66.7 years
+- Medications used: CCB, ARB, thiazide diuretics (mono and combination therapy)
+- Probing pocket depth: AH 3.8 ± 1.3 mm vs H 3.0 ± 0.7 mm (significant)
+- Peri-implantitis at implant level: AH 26.5% (9/34) vs H 4.7% (2/43) – significant
+- Peri-implantitis at patient level: AH 30.8% (4/13) vs H 9.1% (2/22) – not significant
+- Odds ratio peri-implantitis: 7.38 (95% CI 1.474–36.954)
+- Multivariate logistic regression: AH medication history OR=12.90 (significant), age/sex/site NS
+- Marginal bone loss: AH 0.66 mm vs H 0.34 mm (no significant difference)
+- No implant losses in either group
+- BoP and mPI: higher in AH but not significant
+
+MECHANISM DISCUSSION:
+- CCB may cause gingival hyperplasia via cation flux inhibition → decreased collagenase activation → connective tissue accumulation
+- Possible similar effect on peri-implant tissue
+- Counterpoint to survival-focused studies showing AHT benefit: success vs survival distinction
+- "Implant success rate has worsened even if not causing implant loss under antihypertensive medications"
+- Limitations: small n, strict inclusion criteria, no differentiation by drug class for peri-implantitis analysis
