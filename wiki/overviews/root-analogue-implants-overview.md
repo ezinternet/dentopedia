@@ -125,3 +125,5 @@ A single Ti-6Al-4V DMLS RAI (fractured maxillary 2nd premolar, immediate placeme
 **Related overviews:**
 - [[overviews/zirconia-implant-clinical-outcomes]] — zirconia-implant fracture/brittleness context
 - [[overviews/immediate-implant-decision-ladder]] — where immediate placement fits overall
+
+<!-- thesis-reviewed: 2026-10-30 -->
