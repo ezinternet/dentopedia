@@ -105,3 +105,4 @@ geriatric-dentistry 5편 종합: 구강노쇠는 11지표·4영역(구강상태�
 
 - [[geriatric-dentistry/silva-2026-oral-health-alzheimers-disease-life-course]] — Narrative review (27 studies): Alzheimer's patients show periodontitis, root-caries 'third peak', xerostomia, >2× denture stomatitis — 'syndemic' framing; stage-adapted care (conventional→ART→palliative SDF) + caregiver training
 
+<!-- thesis-reviewed: 2026-10-30 -->
