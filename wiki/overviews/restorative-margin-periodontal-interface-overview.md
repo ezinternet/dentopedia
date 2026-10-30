@@ -84,3 +84,5 @@ The seven papers converge on a single clinical object — the line where a resto
 - [[resin-bonding/elhaddad-2026-cervical-margin-relocation-periodontal-restorative]] — SR+MA: cervical margin relocation / deep margin elevation is periodontally compatible (PD MD −0.96 mm, BOP MD −0.52) in healthy/stabilized patients; the technique for managing the subgingival proximal box of Axis 2
 - [[overviews/crown-preparation-geometry-convergence-resistance-retention]] — preparation geometry (convergence, resistance/retention) — mechanical companion to this perio-restorative axis
 - [[overviews/periodontics-treatment-ladder]] — where restorative/iatrogenic plaque-retention factors sit in the periodontal management hierarchy
+
+<!-- thesis-reviewed: 2026-10-30 -->
