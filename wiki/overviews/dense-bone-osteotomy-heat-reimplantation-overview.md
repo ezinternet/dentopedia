@@ -103,3 +103,5 @@ No single paper in this wiki tests the intersection — dense posterior-mandibul
 - [[implants/khaohoen-2023-biomaterials-dental-implants-bone-density-narrative-review]] — D1–D4 survival/context anchor
 - [[overviews/early-implant-failure-risk-prevention-overview]] — general (non-site-specific) EIF risk-factor synthesis
 - [[overviews/failed-implant-removal-sinus-retrieval-overview]] — explantation technique selection, cross-links to Solderer
+
+<!-- thesis-reviewed: 2026-10-30 -->
