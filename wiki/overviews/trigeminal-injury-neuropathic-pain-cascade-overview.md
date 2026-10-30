@@ -173,3 +173,5 @@ Two clinical hooks emerge that are not obvious from any single page. The four-da
 - [[orofacial-pain/melo-carrillo-2017-fremanezumab-adelta-c-meningeal-nociceptors]] — 섬유형 선택적 약리의 증명: 항CGRP 항체가 Aδ 경막 nociceptor만 억제하고 C섬유는 무영향(쥐 삼차신경절 단일유닛). "통로 서명은 하나가 아니다"의 약리학적 짝. 편두통 모델이라 *인접* 근거로만 취급
 - [[oral-medicine/trigeminal-neuralgia/alkhutari-2023-post-traumatic-trigeminal-neuropathy-endodontic-sr]] — 근관치료 유래 PTTN의 임상 SR; 게이트 ③의 근관치료 수치(3–13%)와 대조
 - [[complete-denture/yeung-2023-functional-neuroplasticity-denture-rehabilitation-fmri]] — 같은 삼차신경 입력의 *비통증성* 상행 축 (저작 → 피질). 범위 밖이나 인접
+
+<!-- thesis-reviewed: 2026-10-30 -->
