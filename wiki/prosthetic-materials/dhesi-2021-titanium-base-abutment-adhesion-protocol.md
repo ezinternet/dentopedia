@@ -19,7 +19,6 @@ tags:
   - shear-bond-strength
   - thermocycling
   - in-vitro
-superseded_by: ~
 relations:
   - target: resin-bonding/kodaira-2022-resin-bonding-titanium-adhesive-monomers-review
     type: see_also
