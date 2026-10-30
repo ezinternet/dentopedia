@@ -112,3 +112,5 @@ Read Shirani's subgroups, though, and the dissociation resolves into agreement w
 - [[digital-workflow/nava-2026-guided-surgery-immediate-implant-accuracy-nma]] — IIP-specific 5-arm guided NMA (backbone).
 - [[digital-workflow/schiavon-2025-computer-assisted-immediate-implant-accuracy-nma]] — RCT-only IIP CAIS-vs-freehand NMA (backbone).
 - [[digital-workflow/shirani-2026-computer-assisted-vs-freehand-implant-placement-sr-ma]] — refines this page: RCT-only *clinical-outcome* SR+MA showing accuracy superiority does not translate into MBL/survival superiority, except in fresh sockets; flags tissue-supported guides as worse than freehand on MBL.
+
+<!-- thesis-reviewed: 2026-10-30 -->
