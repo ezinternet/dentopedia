@@ -124,3 +124,5 @@ Dental anxiety and phobia are managed along a spectrum from purely psychological
 - [[behavioral-dentistry/dental-anxiety/pandey-2025-monitoring-patient-anxiety-pain-physiological-rct]] — physiological-monitoring RCT methodology reinforced by both the hypnosis physiological signal and the Ghobadi VR biofeedback data.
 - [[overviews/behavioral-dentistry-overview]] — broader behavioral-dentistry synthesis this page sits alongside.
 - [[overviews/behavioral-dentistry-decision-ladder]] — decision-ladder framework this page's clinical decision framework extends into the specific hypnosis-vs-VR choice.
+
+<!-- thesis-reviewed: 2026-10-30 -->
