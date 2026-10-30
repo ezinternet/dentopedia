@@ -260,3 +260,5 @@ Cosyn 4편은 *각 변수의 독립 효과*만 평가한다. 4변수 모두 동�
 - [[immediate-implant/esthetic-soft-tissue/elgendi-2025-peri-implant-soft-tissue-conditioning]] — CAD-CAM SSA (구치부 IP 대체)
 - [[overviews/type-1a-immediate-placement-immediate-loading-decision]] — Type 1A 적응증 (자매 페이지)
 - [[overviews/peri-implant-soft-tissue-dehiscence-prevention]] — 연조직 dehiscence 예방 (자매 페이지)
+
+<!-- thesis-reviewed: 2026-10-30 -->
