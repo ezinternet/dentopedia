@@ -96,3 +96,5 @@ First-line treatment is **repeated professional ultrasonic scaling**; recurrence
 - [[caries/celik-2021-metagenomic-black-stain-permanent-dentition]] — NGS in adult permanent dentition; Capnocytophaga/Neisseria/Corynebacterium dominance challenges Actinomyces-only narrative; p=0.007 caries-free
 - [[caries/zheng-2023-oral-gut-microbiome-black-stain-caries]] — large epidemiology (n=2,675, EBS 12.10%) + first gut microbiome (Lactobacillus biomarker); Actinomyces/Rothia in EBS+ plaque
 - [[caries/mousa-2022-black-stain-caries-children-sr-ma]] — SR+MA (14 studies) quantifying the inverse association (OR 0.67), articulating competing causal models
+
+<!-- thesis-reviewed: 2026-10-30 -->
