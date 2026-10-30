@@ -14,6 +14,9 @@ source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11012615/
 text_path: /Users/oracleneo/llm-wiki/papers/grigoras-2024-early-implant-failure-a-meta.txt
 text_filename: grigoras-2024-early-implant-failure-a-meta.txt
 tags: [early-implant-failure, osseointegration-failure, risk-factors, retrospective-cohort, diabetes, hypertension, implant-length, platform-switching]
+relations:
+  - type: contradicts
+    target: manzano-2016-risk-factors-in-early-implant
 ---
 
 ## Three-line Summary
