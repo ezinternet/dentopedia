@@ -16,7 +16,10 @@ source_papers:
   - wiki/drug/systemic-disease/carlos-2024-marginal-bone-loss-hypertension-hyperlipidemia-diabetes.md
   - wiki/drug/systemic-disease/liu-2024-perioperative-hypertension-implant-bone-augmentation.md
   - wiki/drug/systemic-disease/khalilurrahman-2026-raas-inhibitor-statin-periodontal-status-sr-ma.md
-tags: [hypertension, antihypertensive, dental-implant, implant-failure, osseointegration, RAAS-inhibitor, beta-blocker, bone-metabolism, perioperative]
+  - wiki/drug/systemic-disease/asantogrol-2024-antihypertensive-drug-mandibular-bone.md
+  - wiki/drug/systemic-disease/solomon-2011-fracture-risk-antihypertensive-medications.md
+  - wiki/bone-biology/shimizu-2008-angiotensin-ii-accelerates-osteoporosis-osteoclasts.md
+tags: [hypertension, antihypertensive, dental-implant, implant-failure, osseointegration, RAAS-inhibitor, beta-blocker, bone-metabolism, perioperative, fractal-analysis, fracture-risk, RANKL, angiotensin-II]
 ---
 
 ## 한국어 핵심요약
@@ -31,6 +34,9 @@ tags: [hypertension, antihypertensive, dental-implant, implant-failure, osseoint
 > - **수술 전후 혈압 급등**: 임플란트+골증대 동시 시술 시 26.77% 발생(Liu 2024) — 수술 중 모니터링 필수
 > - **핵심 임상 질문**: "혈압약 규칙적으로 복용 중이신가요?" — 진단보다 복용 여부가 더 강한 예측 인자
 > - **임플란트 추천 가능 환자**: 잘 조절된 고혈압 복용군 (ASA II → 일반 원칙 준수); **연기 고려**: 미조절·미복용 고혈압
+> - **인간 하악골 방사선학적 증거 (Aşantoğrl 2024)**: n=230+230 증례-대조 — 전 AHT 클래스에서 하악골 프랙탈 차원 (Fractal Dimension, FD) 유의하게 높음(p<0.001); 치아자이드는 피질골만 유의 — 골유착 예후에 유리한 치밀 골 구조 첫 인간 방사선 직접 증거
+> - **대규모 골절 코호트 (Solomon 2011, n=376,061)**: ARB HR 0.76·치아자이드 HR 0.85 — 골절 위험 감소(CCB 대비 유의); BB·ACEi·루프이뇨제 NS — 임플란트 ISQ 결과(Saravi 2021)와 교차 확인
+> - **RAAS 경로 기초 메커니즘 (Shimizu 2008)**: Ang II → 조골세포 RANKL 발현 → 파골세포 활성화; olmesartan(ARB)으로 완전 차단; AT1a 수용체 결핍 마우스는 난소절제 후 골 소실 없음 — "ARB가 왜 뼈를 보호하는가"의 분자 근거
 
 ## Three-line Summary
 
@@ -84,10 +90,23 @@ A critical counterpoint is that survival does not equal success: antihypertensiv
 |---|---|---|---|
 | [[drug/systemic-disease/liu-2024-perioperative-hypertension-implant-bone-augmentation]] | Retrospective | 728 | Perioperative HTN 26.77%; RR: male 1.74, age ≥60 2.35, surgery >60 min 1.65 |
 
+### Bone Quality (Human Radiographic)
+
+| Paper | Design | n | Key finding |
+|---|---|---|---|
+| [[drug/systemic-disease/asantogrol-2024-antihypertensive-drug-mandibular-bone]] | Retrospective case-control | 230+230 | All AHT classes (BB/ACEi/ARB/CCB/combination) → higher mandibular FD vs controls (p<0.001); thiazide: cortical only |
+
+### Systemic Bone Effects (Human Fracture Cohort)
+
+| Paper | Design | n | Key finding (vs CCB reference) |
+|---|---|---|---|
+| [[drug/systemic-disease/solomon-2011-fracture-risk-antihypertensive-medications]] | Retrospective cohort | 376,061 | ARB HR 0.76 (0.68–0.86); thiazide HR 0.85 (0.76–0.97) — significant reduction; BB/ACEi/loop NS |
+
 ### Mechanisms (Animal/In Vitro)
 
 | Paper | Model | Key finding |
 |---|---|---|
+| [[bone-biology/shimizu-2008-angiotensin-ii-accelerates-osteoporosis-osteoclasts]] | OVX rat + in vitro | Ang II → RANKL in osteoblasts → osteoclast activation; olmesartan completely blocks; AT1a KO = no bone loss |
 | [[bone-biology/huang-2024-beta-receptor-blocker-pth-anabolic-osteoporotic]] | OVX+fracture rat | Propranolol+PTH BV/TV +93%; Bmal1/RUNX2 axis |
 | [[bone-biology/uchibori-2020-beta-adrenergic-receptor-blockers-rankl-sclerostin]] | SHR orthodontic rat | All β-AR blocker types ↑ alveolar bone, ↓ RANKL/SOST |
 | [[drug/systemic-disease/khalilurrahman-2026-raas-inhibitor-statin-periodontal-status-sr-ma]] | SR+MA (periodontal) | RAAS inhibitor: inconsistent; statin: BOP −13.4%, PD −0.38 mm |
@@ -104,11 +123,11 @@ Angiotensin II acts on osteoblast surface receptors to upregulate RANKL → oste
 
 Three independent pathways:
 
-1. **RAAS inhibitors (ACEi/ARB)**: Block angiotensin II → RANKL reduction → osteoclast suppression. Saravi 2021 provides the only drug-class-level clinical evidence (ISQ +3.59 at secondary stability, p=0.025). Khalilurrahman 2026 adds a contradictory periodontal signal — RAAS inhibitors may increase periodontal susceptibility via kinin-pathway inflammation despite bone benefit.
+1. **RAAS inhibitors (ACEi/ARB)**: Block angiotensin II → RANKL reduction → osteoclast suppression. The foundational animal mechanism (Shimizu 2008, FASEB J): Ang II activates osteoblast AT1 receptors → RANKL upregulation → osteoclastogenesis; olmesartan completely blocks this pathway; AT1a knockout mice show no OVX-induced bone loss. Human confirmation at three levels: ISQ (Saravi 2021: +3.59, p=0.025), mandibular bone quality (Aşantoğrl 2024: FD ↑ in ARB/ACEi subgroups, p<0.001), and fracture risk (Solomon 2011: ARB HR 0.76 in n=376,061). Khalilurrahman 2026 adds a contradictory periodontal signal — RAAS inhibitors may increase periodontal susceptibility via kinin-pathway inflammation despite bone benefit.
 
 2. **Beta-blockers**: Block adrenergic input on osteoclast activity via β-AR. Both Huang 2024 (BV/TV +93% with propranolol+PTH, Bmal1/RUNX2 pathway) and Uchibori 2020 (all 3 β-blocker types ↑ alveolar bone, ↓ RANKL and sclerostin in SHR rats) confirm the mechanism in dental-context animal models. Clinical translation remains incomplete: Saravi 2021 found no significant ISQ benefit for beta-blockers alone.
 
-3. **Thiazide diuretics**: Enhance intestinal calcium absorption, reduce urinary calcium losses, stimulate osteoblast differentiation — reversing the calcium-PTH dysregulation cascade of hypertension. Small representation in cohorts (5% in Masri 2024) limits clinical quantification.
+3. **Thiazide diuretics**: Enhance intestinal calcium absorption, reduce urinary calcium losses, stimulate osteoblast differentiation — reversing the calcium-PTH dysregulation cascade of hypertension. Solomon 2011 (n=376,061) provides large-scale fracture evidence: HR 0.85 vs CCB (p=0.03). Aşantoğrl 2024 shows thiazide improves cortical but not trabecular FD — consistent with a distinct calcium-mediated mechanism operating mainly on cortical bone. Small representation in implant cohorts (5% in Masri 2024) limits direct osseointegration quantification.
 
 ### Net Effect: A Dual-Action Protective Phenomenon
 
@@ -172,7 +191,7 @@ Mandatory for complex implant + grafting cases: intraoperative BP monitoring, pr
 
 ## Gaps & Future Research
 
-1. **No RCT with medication-class stratification**: all studies are retrospective, none randomize by drug class. The RAAS inhibitor signal (Saravi 2021) cannot be considered confirmed until prospectively validated.
+1. **No RCT with medication-class stratification**: all clinical studies are retrospective, none randomize by drug class. The RAAS inhibitor ISQ signal (Saravi 2021) is now supported by mechanistic (Shimizu 2008), radiographic (Aşantoğrl 2024), and epidemiological (Solomon 2011) convergent evidence — but prospective RCT validation of implant-specific outcomes remains absent.
 
 2. **Medication compliance unmeasured**: all cohorts rely on self-reported or prescription-record compliance. Objective measures (drug level assay, pharmacy refill) would clarify the unmedicated vs non-compliant HTN confusion.
 
@@ -202,3 +221,6 @@ Mandatory for complex implant + grafting cases: intraoperative BP monitoring, pr
 - [[drug/systemic-disease/khalilurrahman-2026-raas-inhibitor-statin-periodontal-status-sr-ma]] — RAAS + periodontal: inconsistent; statin protective
 - [[drug/systemic-disease/waters-2022-ace-inhibitor-or-arb-induced]] — perioperative ACEi/ARB hypotension (drug-withdrawal tension)
 - [[oral-medicine/salivary-chemosensory/ramirez-martinez-acitores-2020-antihypertensive-xerostomia-salivary-flow-sr]] — AHT → xerostomia (Seki mechanism link)
+- [[drug/systemic-disease/asantogrol-2024-antihypertensive-drug-mandibular-bone]] — human radiographic bone quality: all AHT classes → higher mandibular FD (p<0.001)
+- [[drug/systemic-disease/solomon-2011-fracture-risk-antihypertensive-medications]] — large-n fracture cohort (n=376,061): ARB HR 0.76, thiazide HR 0.85 vs CCB
+- [[bone-biology/shimizu-2008-angiotensin-ii-accelerates-osteoporosis-osteoclasts]] — RAAS mechanism: Ang II → RANKL → osteoclast; olmesartan blocks; AT1a KO confirms AT1 pathway
