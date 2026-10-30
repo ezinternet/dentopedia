@@ -234,3 +234,5 @@ The clinical flow is: assume MB2 present → periapical radiograph → probing �
 - [[endodontics/anatomy/betancourt-2015-mb2-second-maxillary-molar-cbct]] — 칠레 CBCT n=225 PMSM 48%, PMB2 2.2 mm 구개측+0.98 mm 근심 (2016의 precursor)
 - [[endodontics/anatomy/alnowailaty-2022-mb2-prevalence-saudi-cbct]] — 사우디 CBCT n=1,200: PMFM 46.7%/PMSM 17.7% (하단 counter-anchor)
 - [[endodontics/anatomy/bello-2018-mb2-detection-loupe-microscope-cbct]] — ex-vivo 4기법: 현미경 16×=절단 reference, CBCT 0.88/0.88, 루페·육안 열등
+
+<!-- thesis-reviewed: 2026-10-30 -->
