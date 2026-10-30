@@ -261,3 +261,5 @@ All nine studies in this overview address **silica-based ceramics** (feldspathic
 - [[resin-bonding/borouziniat-2024-self-adhesive-vs-etch-resin-cement-zirconia-sr-ma]] — SR+MA: self-adhesive ≈ self-etch for zirconia; total-etch inferior
 - [[resin-bonding/musharbash-2025-cleaning-agents-contaminated-zirconia]] — air-particle abrasion best for contaminated zirconia; Ivoclean/Katana/Zirclean viable alternatives
 - [[overviews/resin-dentin-bond-durability-degradation-overview]] — companion: MDP's role in resin-dentin (vs zirconia) bonding + hybrid-layer durability
+
+<!-- thesis-reviewed: 2026-10-30 -->
