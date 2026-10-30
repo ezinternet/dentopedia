@@ -269,8 +269,8 @@ section { margin-bottom: 14px; }
       <span>Deng 2023 동물: BV/TV↓ · BIC↓<br>양날의 검 — 사람 데이터 미확인</span>
     </div>
     <div class="ev-b amber">
-      <strong>임플란트 파절률 ~0.5%</strong>
-      <span>Song 2021 · Stilwell 2024<br>Late failure; PDL 없어 충격흡수 결여</span>
+      <strong>임플란트 파절률 ~0.5%; 생존율 57.5–100% (비이갈이보다 낮음)</strong>
+      <span>Song 2021 · Stilwell 2024 · Chawki 2026 SR(31,209개)<br>Late failure; PDL 없어 충격흡수 결여; 기계적 합병증 최대 60%; 스플린트 정기 착용 시 보철 마모 1.8배↓</span>
     </div>
   </div>
 </section>
@@ -315,7 +315,7 @@ function update() {
   // ── Splint sub ──
   const splintSub = document.getElementById('splint-sub');
   if (hasImplant !== 'no') {
-    splintSub.innerHTML = `힘을 분산·완충. <strong style="color:var(--green);">임플란트 이갈이 환자의 1차 필수 보호</strong>. PDL이 없어 충격흡수·고유감각 결여 → 스플린트가 유일한 완충재.<br><br><strong>근거</strong>: Song 2021 (임플란트 파절률 ~0.5%, 스플린트 권고) · Stilwell 2024 (PDL 없어 임플란트 과부하 취약).`;
+    splintSub.innerHTML = `힘을 분산·완충. <strong style="color:var(--green);">임플란트 이갈이 환자의 1차 필수 보호</strong>. PDL이 없어 충격흡수·고유감각 결여 → 스플린트가 유일한 완충재.<br><br><strong>근거</strong>: Song 2021 (임플란트 파절률 ~0.5%, 스플린트 권고) · Stilwell 2024 (PDL 없어 임플란트 과부하 취약) · Chawki 2026 SR+MA(31,209개): 스플린트 정기 착용 시 보철 재료 마모 1.8배↓.`;
   } else {
     splintSub.innerHTML = `힘을 분산·완충. 구조물을 보호하되 근육 힘 자체를 줄이진 않음.<br><br><strong>근거</strong>: 운동요법 ≥ 스플린트 동등 (Zhang 2021). 수면이갈이에서 스플린트·biofeedback 우위 (Minakuchi 2022 SR).`;
   }
