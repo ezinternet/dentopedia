@@ -123,3 +123,5 @@ A recurring theme — visible across Igatan's lysozyme, vitamin C, and the CoQ10
 - [[periodontics/oral-hygiene-instruction/hu-2025-enzyme-protein-toothpaste-gingival-condition]] — lysozyme topical, clear gingivitis effect
 - [[periodontics/host-modulation/rasoolzadeh-2022-coenzyme-q10-periodontitis-sr-ma]] — comparator nutraceutical adjunct (CoQ10)
 - [[evidence-appraisal/choi-2015-statistical-validity-insadol-clinical-effectiveness]] — critical appraisal of Insadol's trial base
+
+<!-- thesis-reviewed: 2026-10-30 -->
