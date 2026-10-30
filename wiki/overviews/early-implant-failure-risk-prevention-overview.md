@@ -44,6 +44,9 @@ source_papers:
   - wiki/implants/survival/da-rocha-coelho-2021-evaluation-of-the-association.md
   - wiki/implants/survival/ferrer-2021-genetic-polymorphisms-associated-with.md
 tags: [early-implant-failure, risk-factors, osseointegration, smoking, immediate-loading, antibiotic-prophylaxis, bone-quality, maxilla, antihypertensive, hypertension, medication-compliance, insertional-torque, genetic-polymorphism, definitional-heterogeneity]
+relations:
+  - type: contradicts
+    target: scoffier-2026-aetiology-of-early-implant-failure
 ---
 
 > [!summary] 한국어 핵심요약
