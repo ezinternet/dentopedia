@@ -137,3 +137,5 @@ Clinical implication: a complaint of "food tastes different since I got my dentu
 - [[geriatric-dentistry/celis-morales-2018-grip-strength-cardiovascular-respiratory-cancer]] — UK Biobank (n=502,293); extends Leong to cancer subtypes; adds ΔC-index and age-interaction data
 - [[geriatric-dentistry/ponzo-2024-presbygeusia-narrative-review]] — 15-study systematic-style narrative review; ROBINS-I; five mechanistic pathways; weak diet-choice link despite measurable threshold changes
 - [[overviews/oral-frailty-geriatric-synthesis]] — companion synthesis covering oral frailty indicators, tooth count, xerostomia/malnutrition, SDF root caries prevention; grip strength appears as a physical frailty co-screen in that framework
+
+<!-- thesis-reviewed: 2026-10-30 -->
