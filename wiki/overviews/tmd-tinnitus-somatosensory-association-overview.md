@@ -118,3 +118,5 @@ This RCT-level finding is corroborated by two lower-rigor but consistent sources
 - 연관성(Axis 2) = 연구별 상이 — Bousema [근거수준-낮음 명시], Dipalma·Saczuk [참고수준] (서술적/비뚤림위험 미보정).
 - 진단(Axis 3, Michiels·Saczuk·Ralli) = [참고수준] (michiels abstract-only, 나머지 narrative).
 - 치료(Axis 4, Dapuzzo) = [확인] (RCT-only SR+MA, 5편이나 일관된 방향).
+
+<!-- thesis-reviewed: 2026-10-30 -->
