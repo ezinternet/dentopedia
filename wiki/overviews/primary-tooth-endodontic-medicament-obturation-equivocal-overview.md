@@ -200,3 +200,5 @@ The practical clinical flow: meet the patient → [[overviews/primary-molar-cari
 - [[overviews/primary-molar-caries-pulp-restoration-decision-tree]] — companion overview covering upstream caries management, Hall technique, and reversible pulpitis pulpotomy decisions
 - [[endodontics/vpt/chawla-2026-pulpotomy-vs-pulpectomy-primary-teeth-sr-ma]] — SR+MA for confirmed irreversible pulpitis (2 studies, very low certainty; no difference); complements Axis 3 by providing the clearer-diagnosis comparator
 - [[endodontics/vpt/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]] — AAPD guideline defining the ≤5-min hemostasis criterion that Axis 3 stress-tests in the equivocal zone
+
+<!-- thesis-reviewed: 2026-10-30 -->
