@@ -109,3 +109,5 @@ Four clinical questions organize the evidence. **(1) Are ultrathin occlusal vene
 - [[overviews/veneer-material-survival-protocol-overview]] — anterior laminate material/survival (complementary; different indication)
 - [[overviews/veneer-preparation-design-minimally-invasive-overview]] — anterior laminate preparation philosophy
 - [[overviews/immediate-dentin-sealing-evidence-synthesis]] — IDS, the tooth-side bonding step for occlusal veneers
+
+<!-- thesis-reviewed: 2026-10-30 -->
