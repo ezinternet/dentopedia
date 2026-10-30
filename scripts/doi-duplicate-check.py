@@ -90,20 +90,45 @@ def _normalize_title(raw: str | None) -> str:
     return v if len(v) > 10 else ""
 
 
+def _read_superseded_by(path: str) -> str | None:
+    """sources/*.md frontmatter에서 superseded_by 값 추출. 없으면 None."""
+    try:
+        with open(path, encoding="utf-8") as f:
+            text = f.read()
+    except Exception:
+        return None
+    if not text.startswith("---"):
+        return None
+    end = text.find("\n---", 3)
+    if end == -1:
+        return None
+    for line in text[3:end].splitlines():
+        m = re.match(r"\s*superseded_by\s*:\s*(.*)$", line, re.IGNORECASE)
+        if m:
+            v = m.group(1).strip().strip('"').strip("'")
+            return v if v else None
+    return None
+
+
 def main() -> int:
     by_doi: dict[str, list[str]] = defaultdict(list)
     by_title: dict[str, list[str]] = defaultdict(list)
     stem_doi: dict[str, str] = {}
+    stem_superseded_by: dict[str, str] = {}
     n_sources = 0
     for f in os.listdir(SOURCES_DIR):
         if not f.endswith(".md"):
             continue
         n_sources += 1
         stem = _stem_nfc(f)
-        raw_doi, raw_title = _read_frontmatter(os.path.join(SOURCES_DIR, f))
+        fpath = os.path.join(SOURCES_DIR, f)
+        raw_doi, raw_title = _read_frontmatter(fpath)
         doi = _normalize_doi(raw_doi)
         title = _normalize_title(raw_title)
         stem_doi[stem] = doi
+        sb = _read_superseded_by(fpath)
+        if sb:
+            stem_superseded_by[stem] = sb
         if doi:
             by_doi[doi].append(stem)
         if title:
@@ -122,6 +147,9 @@ def main() -> int:
         nonempty = {d for d in dois if d}
         # 모두 동일한 1개 DOI면 이미 doi_dups가 처리 → 제외
         if len(nonempty) == 1 and "" not in dois:
+            continue
+        # superseded_by 포인터가 그룹 내 한 쪽을 가리키면 의도적 버전 공존 → 제외
+        if any(stem_superseded_by.get(s, "") in uniq for s in uniq):
             continue
         title_dups[title] = uniq
 
