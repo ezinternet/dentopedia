@@ -1,0 +1,707 @@
+<!--
+---
+title: "고혈압·항고혈압약과 임플란트 결과"
+type: interactive
+category: systemic-disease
+date: 2026-10-31
+status: done
+source_wiki:
+  - wiki/overviews/hypertension-antihypertensive-implant-outcomes-overview.md
+agenda: agenda/2026-10-31_hypertension-implant-interactive.md
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>고혈압·항고혈압약과 임플란트 결과</title>
+<style>
+/* ✅ 라이트 고정 — 다크 블록 없음 (OPERATIONS.md §7) */
+:root {
+  --bg:         #F4F5F0;
+  --surface:    #FFFFFF;
+  --surface-2:  #F9FAF7;
+  --border:     #D8DACE;
+  --text:       #1A2030;
+  --text-2:     #4A5568;
+  --text-3:     #718096;
+  --primary:    #2B4F8A;
+  --primary-lt: #EBF0FA;
+  --green:      #2B7A4B;
+  --green-lt:   #E8F5EE;
+  --amber:      #A05C10;
+  --amber-lt:   #FFF3E0;
+  --red:        #C0392B;
+  --red-lt:     #FDECEA;
+  --purple:     #6B3FA0;
+  --purple-lt:  #F3EEFF;
+  --radius:     8px;
+  --shadow:     0 1px 4px rgba(0,0,0,.08);
+}
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Noto Sans KR", "Apple SD Gothic Neo", sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  font-size: 14px;
+  line-height: 1.6;
+}
+/* ── Header ── */
+.page-header {
+  background: var(--primary);
+  color: #fff;
+  padding: 20px 20px 16px;
+}
+.page-header h1 { font-size: 18px; font-weight: 700; }
+.page-header p  { font-size: 12px; opacity: .85; margin-top: 4px; }
+.stat-row {
+  display: flex; flex-wrap: wrap; gap: 8px;
+  margin-top: 14px;
+}
+.stat-chip {
+  background: rgba(255,255,255,.15);
+  border: 1px solid rgba(255,255,255,.3);
+  border-radius: 20px;
+  padding: 4px 12px;
+  font-size: 12px;
+  font-weight: 600;
+}
+.stat-chip span { font-weight: 400; opacity: .85; }
+/* ── Tabs ── */
+.tab-bar {
+  display: flex; overflow-x: auto; gap: 0;
+  background: var(--surface);
+  border-bottom: 2px solid var(--border);
+  padding: 0 16px;
+}
+.tab-btn {
+  flex-shrink: 0;
+  padding: 10px 14px;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text-2);
+  background: none; border: none;
+  border-bottom: 3px solid transparent;
+  margin-bottom: -2px;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: color .15s, border-color .15s;
+}
+.tab-btn:hover { color: var(--primary); }
+.tab-btn.active { color: var(--primary); border-bottom-color: var(--primary); }
+/* ── Panel ── */
+.tab-panel { display: none; padding: 16px; }
+.tab-panel.active { display: block; }
+/* ── Cards ── */
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 14px 16px;
+  margin-bottom: 12px;
+  box-shadow: var(--shadow);
+}
+.card-title { font-size: 13px; font-weight: 700; margin-bottom: 6px; }
+/* ── Evidence Table ── */
+.filter-row {
+  display: flex; flex-wrap: wrap; gap: 6px;
+  margin-bottom: 12px;
+}
+.filter-btn {
+  padding: 4px 12px; border-radius: 14px;
+  font-size: 12px; font-weight: 600;
+  border: 1px solid var(--border);
+  background: var(--surface); color: var(--text-2);
+  cursor: pointer; transition: .15s;
+}
+.filter-btn:hover, .filter-btn.active {
+  background: var(--primary); color: #fff; border-color: var(--primary);
+}
+.table-wrap { overflow-x: auto; }
+table { width: 100%; border-collapse: collapse; font-size: 12.5px; }
+th {
+  background: var(--surface-2);
+  color: var(--text-2);
+  padding: 7px 10px;
+  text-align: left;
+  border-bottom: 2px solid var(--border);
+  font-weight: 700;
+  white-space: nowrap;
+}
+td { padding: 8px 10px; border-bottom: 1px solid var(--border); vertical-align: top; }
+tr:last-child td { border-bottom: none; }
+tr:hover td { background: var(--surface-2); }
+tr.hidden { display: none; }
+.badge {
+  display: inline-block;
+  padding: 2px 7px; border-radius: 10px;
+  font-size: 11px; font-weight: 700;
+  white-space: nowrap;
+}
+.badge-green  { background: var(--green-lt);  color: var(--green); }
+.badge-amber  { background: var(--amber-lt);  color: var(--amber); }
+.badge-red    { background: var(--red-lt);    color: var(--red); }
+.badge-blue   { background: var(--primary-lt); color: var(--primary); }
+.badge-purple { background: var(--purple-lt); color: var(--purple); }
+.badge-gray   { background: var(--surface-2); color: var(--text-3); border: 1px solid var(--border); }
+/* ── Drug Class Cards ── */
+.drug-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 12px;
+}
+.drug-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  overflow: hidden;
+  box-shadow: var(--shadow);
+}
+.drug-card-head {
+  padding: 12px 14px 10px;
+  border-bottom: 1px solid var(--border);
+}
+.drug-card-head .class-name { font-size: 15px; font-weight: 800; }
+.drug-card-head .class-sub  { font-size: 11px; color: var(--text-3); margin-top: 2px; }
+.signal-bar { margin-top: 8px; }
+.signal-pill {
+  display: inline-flex; align-items: center; gap: 5px;
+  padding: 3px 10px; border-radius: 12px;
+  font-size: 11px; font-weight: 700;
+}
+.signal-strong { background: var(--green-lt); color: var(--green); }
+.signal-moderate { background: var(--amber-lt); color: var(--amber); }
+.signal-neutral  { background: var(--surface-2); color: var(--text-3); border: 1px solid var(--border); }
+.drug-card-body { padding: 10px 14px 12px; }
+.metric-row { display: flex; gap: 6px; margin-bottom: 7px; align-items: flex-start; }
+.metric-label { width: 58px; flex-shrink: 0; font-size: 11px; font-weight: 700; color: var(--text-3); padding-top: 1px; }
+.metric-val { font-size: 12px; flex: 1; }
+.caution-box {
+  margin-top: 8px;
+  padding: 6px 10px;
+  background: var(--amber-lt);
+  border-left: 3px solid var(--amber);
+  border-radius: 0 4px 4px 0;
+  font-size: 11.5px;
+  color: var(--amber);
+}
+/* ── Decision Tool ── */
+.decision-box {
+  max-width: 600px;
+}
+.q-step { margin-bottom: 20px; }
+.q-label { font-size: 13px; font-weight: 700; margin-bottom: 8px; }
+.q-options { display: flex; flex-wrap: wrap; gap: 8px; }
+.q-btn {
+  padding: 7px 16px; border-radius: 6px;
+  border: 1px solid var(--border);
+  background: var(--surface); color: var(--text);
+  font-size: 13px; cursor: pointer; transition: .15s;
+}
+.q-btn:hover { border-color: var(--primary); color: var(--primary); }
+.q-btn.selected { background: var(--primary); color: #fff; border-color: var(--primary); }
+.result-box {
+  padding: 14px 16px;
+  border-radius: var(--radius);
+  margin-top: 8px;
+  display: none;
+}
+.result-box.show { display: block; }
+.result-go     { background: var(--green-lt);  border-left: 4px solid var(--green);  }
+.result-caution { background: var(--amber-lt); border-left: 4px solid var(--amber); }
+.result-defer  { background: var(--red-lt);   border-left: 4px solid var(--red);   }
+.result-title { font-size: 14px; font-weight: 800; margin-bottom: 6px; }
+.result-body  { font-size: 12.5px; line-height: 1.7; }
+.result-cite  { margin-top: 8px; font-size: 11px; color: var(--text-3); }
+/* ── Mechanism ── */
+.mech-tabs { display: flex; gap: 8px; margin-bottom: 14px; }
+.mech-tab-btn {
+  padding: 6px 14px; border-radius: 6px;
+  border: 1px solid var(--border);
+  background: var(--surface); color: var(--text-2);
+  font-size: 12px; font-weight: 700; cursor: pointer;
+}
+.mech-tab-btn.active { background: var(--primary); color: #fff; border-color: var(--primary); }
+.mech-panel { display: none; }
+.mech-panel.active { display: block; }
+.pathway-svg { width: 100%; max-width: 560px; display: block; }
+.pathway-legend { margin-top: 10px; font-size: 11.5px; color: var(--text-2); }
+.pathway-legend li { margin-bottom: 4px; padding-left: 8px; list-style: disc; margin-left: 14px; }
+/* ── Footer note ── */
+.footer-note {
+  padding: 10px 16px 20px;
+  font-size: 11px; color: var(--text-3);
+  border-top: 1px solid var(--border);
+  margin-top: 8px;
+}
+@media (max-width: 480px) {
+  .drug-grid { grid-template-columns: 1fr; }
+  .stat-row { gap: 6px; }
+  .stat-chip { font-size: 11px; padding: 3px 9px; }
+}
+</style>
+</head>
+<body>
+
+<!-- ── Header ── -->
+<header class="page-header">
+  <h1>고혈압·항고혈압약과 임플란트 결과</h1>
+  <p>15편 종합 오버뷰 기반 · 2026-10-31 · LLM Wiki (Dentopedia)</p>
+  <div class="stat-row">
+    <div class="stat-chip">📚 <span>15편 근거</span></div>
+    <div class="stat-chip">🔬 <span>RCT 없음</span></div>
+    <div class="stat-chip">✅ <span>고혈압 자체 OR 1.100 NS</span></div>
+    <div class="stat-chip">⬇️ <span>AHT 복용 HR 0.12–0.23</span></div>
+    <div class="stat-chip">⚠️ <span>미복용 고혈압 28.6%</span></div>
+  </div>
+</header>
+
+<!-- ── Tabs ── -->
+<div class="tab-bar">
+  <button class="tab-btn active" onclick="switchTab('evidence', this)">📊 근거 지도</button>
+  <button class="tab-btn" onclick="switchTab('drug', this)">💊 약물 클래스</button>
+  <button class="tab-btn" onclick="switchTab('decision', this)">🩺 임상 결정 도구</button>
+  <button class="tab-btn" onclick="switchTab('mechanism', this)">🔬 메커니즘</button>
+</div>
+
+<!-- ════════════════════════════════
+     TAB 1 — 근거 지도
+═════════════════════════════════ -->
+<div id="tab-evidence" class="tab-panel active">
+
+  <div class="card" style="margin-bottom:14px; background:var(--primary-lt); border-color:#B3C5E8;">
+    <div class="card-title" style="color:var(--primary);">🔑 핵심 3줄</div>
+    <div style="font-size:12.5px; line-height:1.8;">
+      ① 고혈압 <em>자체</em>는 임플란트 실패를 높이지 않는다 (Hamadé 2024 SR+MA OR 1.100, p=0.671)<br>
+      ② 항고혈압약 <em>복용군</em>이 정상혈압 대조군보다 낮은 실패율 (Wu 2016 HR 0.12 · Masri 2024 2.29% vs 4.33%)<br>
+      ③ <strong style="color:var(--red);">최악은 미복용 고혈압</strong> — 환자 수준 실패율 28.6% (Masri 2024)
+    </div>
+  </div>
+
+  <div class="filter-row" id="filter-row">
+    <button class="filter-btn active" onclick="filterTable('all', this)">전체 (15)</button>
+    <button class="filter-btn" onclick="filterTable('implant-failure', this)">임플란트 실패</button>
+    <button class="filter-btn" onclick="filterTable('drug-class', this)">약물 클래스</button>
+    <button class="filter-btn" onclick="filterTable('tissue', this)">조직 건강</button>
+    <button class="filter-btn" onclick="filterTable('bone-quality', this)">골질</button>
+    <button class="filter-btn" onclick="filterTable('fracture', this)">골절</button>
+    <button class="filter-btn" onclick="filterTable('periop', this)">수술 전후</button>
+    <button class="filter-btn" onclick="filterTable('mechanism', this)">메커니즘</button>
+  </div>
+
+  <div class="table-wrap">
+    <table id="evidence-table">
+      <thead>
+        <tr>
+          <th>논문</th>
+          <th>설계</th>
+          <th>n</th>
+          <th>핵심 결과</th>
+          <th>유형</th>
+        </tr>
+      </thead>
+      <tbody id="evidence-tbody">
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<!-- ════════════════════════════════
+     TAB 2 — 약물 클래스
+═════════════════════════════════ -->
+<div id="tab-drug" class="tab-panel">
+  <div class="card" style="margin-bottom:14px; background:var(--surface-2);">
+    <div style="font-size:12px; color:var(--text-2);">
+      ⚠️ 임플란트 직접 비교 무작위 배정 연구(RCT) 없음 — 약물 클래스별 권고는 메커니즘+역학적 근거에 기반.
+    </div>
+  </div>
+  <div class="drug-grid" id="drug-grid"></div>
+</div>
+
+<!-- ════════════════════════════════
+     TAB 3 — 임상 결정 도구
+═════════════════════════════════ -->
+<div id="tab-decision" class="tab-panel">
+  <div class="decision-box">
+
+    <div class="q-step">
+      <div class="q-label">Q1. 환자가 고혈압 진단을 받았나요?</div>
+      <div class="q-options">
+        <button class="q-btn" onclick="answer('htn', 'yes', this)">예</button>
+        <button class="q-btn" onclick="answer('htn', 'no', this)">아니오 (정상혈압)</button>
+      </div>
+    </div>
+
+    <div class="q-step" id="q2" style="display:none;">
+      <div class="q-label">Q2. 항고혈압약을 복용 중인가요?</div>
+      <div class="q-options">
+        <button class="q-btn" onclick="answer('med', 'yes', this)">예, 매일 규칙적으로</button>
+        <button class="q-btn" onclick="answer('med', 'intermittent', this)">가끔 빠뜨림</button>
+        <button class="q-btn" onclick="answer('med', 'no', this)">아니오 (미복용)</button>
+      </div>
+    </div>
+
+    <div class="q-step" id="q3" style="display:none;">
+      <div class="q-label">Q3. 혈압이 잘 조절되고 있나요? (SBP &lt;140 / DBP &lt;90)</div>
+      <div class="q-options">
+        <button class="q-btn" onclick="answer('ctrl', 'yes', this)">예</button>
+        <button class="q-btn" onclick="answer('ctrl', 'no', this)">아니오 / 모름</button>
+        <button class="q-btn" onclick="answer('ctrl', 'malignant', this)">악성 고혈압 (SBP ≥180)</button>
+      </div>
+    </div>
+
+    <div id="decision-result" class="result-box">
+      <div class="result-title" id="result-title"></div>
+      <div class="result-body" id="result-body"></div>
+      <div class="result-cite" id="result-cite"></div>
+    </div>
+
+    <button id="reset-btn" style="display:none; margin-top:12px; padding:7px 16px; border-radius:6px; border:1px solid var(--border); background:var(--surface); cursor:pointer; font-size:12px;" onclick="resetDecision()">↩ 다시 시작</button>
+  </div>
+</div>
+
+<!-- ════════════════════════════════
+     TAB 4 — 메커니즘
+═════════════════════════════════ -->
+<div id="tab-mechanism" class="tab-panel">
+  <div class="mech-tabs">
+    <button class="mech-tab-btn active" onclick="switchMech('raas', this)">RAAS 경로</button>
+    <button class="mech-tab-btn" onclick="switchMech('beta', this)">β-AR 경로</button>
+    <button class="mech-tab-btn" onclick="switchMech('thiazide', this)">Thiazide 경로</button>
+  </div>
+
+  <!-- RAAS panel -->
+  <div id="mech-raas" class="mech-panel active card">
+    <div class="card-title" style="color:var(--primary);">RAAS 억제제 (ARB / ACEi) — 골 보호 메커니즘</div>
+    <svg class="pathway-svg" viewBox="0 0 540 220" xmlns="http://www.w3.org/2000/svg">
+      <!-- Disease pathway (red) -->
+      <rect x="10" y="60" width="110" height="36" rx="8" fill="#FDECEA" stroke="#C0392B" stroke-width="1.5"/>
+      <text x="65" y="75" text-anchor="middle" font-size="11" font-weight="700" style="fill:#C0392B">고혈압</text>
+      <text x="65" y="89" text-anchor="middle" font-size="10" style="fill:#C0392B">Hypertension</text>
+      <path d="M120 78 L160 78" stroke="#C0392B" stroke-width="2" marker-end="url(#arr-red)"/>
+      <rect x="160" y="60" width="100" height="36" rx="8" fill="#FDECEA" stroke="#C0392B" stroke-width="1.5"/>
+      <text x="210" y="75" text-anchor="middle" font-size="11" font-weight="700" style="fill:#C0392B">Ang II ↑</text>
+      <text x="210" y="89" text-anchor="middle" font-size="10" style="fill:#C0392B">안지오텐신 II</text>
+      <path d="M260 78 L300 78" stroke="#C0392B" stroke-width="2" marker-end="url(#arr-red)"/>
+      <rect x="300" y="60" width="100" height="36" rx="8" fill="#FDECEA" stroke="#C0392B" stroke-width="1.5"/>
+      <text x="350" y="72" text-anchor="middle" font-size="10" font-weight="700" style="fill:#C0392B">RANKL ↑</text>
+      <text x="350" y="84" text-anchor="middle" font-size="9" style="fill:#C0392B">(조골세포 → 파골세포</text>
+      <text x="350" y="95" text-anchor="middle" font-size="9" style="fill:#C0392B">신호)</text>
+      <path d="M400 78 L440 78" stroke="#C0392B" stroke-width="2" marker-end="url(#arr-red)"/>
+      <rect x="440" y="60" width="90" height="36" rx="8" fill="#FDECEA" stroke="#C0392B" stroke-width="1.5"/>
+      <text x="485" y="74" text-anchor="middle" font-size="10" font-weight="700" style="fill:#C0392B">파골세포 ↑</text>
+      <text x="485" y="87" text-anchor="middle" font-size="9" style="fill:#C0392B">골 손실</text>
+      <!-- Drug intervention (green) -->
+      <rect x="188" y="130" width="140" height="36" rx="8" fill="#E8F5EE" stroke="#2B7A4B" stroke-width="1.8"/>
+      <text x="258" y="145" text-anchor="middle" font-size="11" font-weight="700" style="fill:#2B7A4B">ARB / ACEi</text>
+      <text x="258" y="159" text-anchor="middle" font-size="10" style="fill:#2B7A4B">AT1R 차단</text>
+      <!-- Block arrow -->
+      <path d="M258 130 L258 100" stroke="#2B7A4B" stroke-width="2" stroke-dasharray="5,3"/>
+      <line x1="238" y1="100" x2="278" y2="100" stroke="#2B7A4B" stroke-width="2.5"/>
+      <text x="258" y="116" text-anchor="middle" font-size="11" font-weight="800" style="fill:#2B7A4B">✕ 차단</text>
+      <!-- Source label -->
+      <text x="10" y="195" font-size="10" style="fill:#718096">근거: Shimizu 2008 (동물), Saravi 2021 (ISQ+3.59, p=0.025), Solomon 2011 (ARB HR 0.76), Aşantoğrl 2024 (FD↑)</text>
+      <defs>
+        <marker id="arr-red" markerWidth="6" markerHeight="6" refX="3" refY="3" orient="auto">
+          <path d="M0,0 L6,3 L0,6 Z" fill="#C0392B"/>
+        </marker>
+      </defs>
+    </svg>
+    <ul class="pathway-legend">
+      <li>고혈압 → Ang II 상승 → AT1 수용체 → 조골세포에서 RANKL 발현 유도 → 파골세포 활성화 → 골밀도↓·골질↓</li>
+      <li>ARB/ACEi: AT1 수용체 차단으로 이 경로를 완전 억제 (Shimizu 2008: olmesartan으로 완전 차단, AT1a KO 마우스 골 소실 없음)</li>
+      <li>임상 반영: ISQ +3.59 (Saravi 2021), ARB 골절 HR 0.76 (Solomon 2011), 하악골 FD↑ (Aşantoğrl 2024)</li>
+    </ul>
+  </div>
+
+  <!-- β-AR panel -->
+  <div id="mech-beta" class="mech-panel card">
+    <div class="card-title" style="color:var(--primary);">β-차단제 (BB) — 골 보호 메커니즘</div>
+    <svg class="pathway-svg" viewBox="0 0 540 200" xmlns="http://www.w3.org/2000/svg">
+      <rect x="10" y="60" width="110" height="36" rx="8" fill="#FDECEA" stroke="#C0392B" stroke-width="1.5"/>
+      <text x="65" y="75" text-anchor="middle" font-size="11" font-weight="700" style="fill:#C0392B">고혈압</text>
+      <text x="65" y="89" text-anchor="middle" font-size="10" style="fill:#C0392B">교감신경 과활성</text>
+      <path d="M120 78 L160 78" stroke="#C0392B" stroke-width="2" marker-end="url(#arr-red2)"/>
+      <rect x="160" y="60" width="110" height="36" rx="8" fill="#FDECEA" stroke="#C0392B" stroke-width="1.5"/>
+      <text x="215" y="74" text-anchor="middle" font-size="10" font-weight="700" style="fill:#C0392B">β-AR 활성화</text>
+      <text x="215" y="87" text-anchor="middle" font-size="9" style="fill:#C0392B">(골세포·조골세포)</text>
+      <path d="M270 78 L310 78" stroke="#C0392B" stroke-width="2" marker-end="url(#arr-red2)"/>
+      <rect x="310" y="54" width="100" height="48" rx="8" fill="#FDECEA" stroke="#C0392B" stroke-width="1.5"/>
+      <text x="360" y="70" text-anchor="middle" font-size="10" font-weight="700" style="fill:#C0392B">RANKL ↑</text>
+      <text x="360" y="83" text-anchor="middle" font-size="9" style="fill:#C0392B">SOST ↑</text>
+      <text x="360" y="96" text-anchor="middle" font-size="9" style="fill:#C0392B">(골세포에서)</text>
+      <path d="M410 78 L445 78" stroke="#C0392B" stroke-width="2" marker-end="url(#arr-red2)"/>
+      <rect x="445" y="60" width="85" height="36" rx="8" fill="#FDECEA" stroke="#C0392B" stroke-width="1.5"/>
+      <text x="487" y="74" text-anchor="middle" font-size="10" font-weight="700" style="fill:#C0392B">골흡수↑</text>
+      <text x="487" y="87" text-anchor="middle" font-size="9" style="fill:#C0392B">골형성↓</text>
+      <!-- BB block -->
+      <rect x="190" y="130" width="110" height="36" rx="8" fill="#E8F5EE" stroke="#2B7A4B" stroke-width="1.8"/>
+      <text x="245" y="145" text-anchor="middle" font-size="11" font-weight="700" style="fill:#2B7A4B">β-차단제 (BB)</text>
+      <text x="245" y="159" text-anchor="middle" font-size="10" style="fill:#2B7A4B">β-AR 차단</text>
+      <path d="M245 130 L245 100" stroke="#2B7A4B" stroke-width="2" stroke-dasharray="5,3"/>
+      <line x1="225" y1="100" x2="265" y2="100" stroke="#2B7A4B" stroke-width="2.5"/>
+      <text x="245" y="116" text-anchor="middle" font-size="11" font-weight="800" style="fill:#2B7A4B">✕ 차단</text>
+      <text x="10" y="185" font-size="10" style="fill:#718096">근거: Uchibori 2020 (SHR 쥐, 치조골↑·RANKL↓·SOST↓), Huang 2024 (propranolol+PTH BV/TV +93%)</text>
+      <defs>
+        <marker id="arr-red2" markerWidth="6" markerHeight="6" refX="3" refY="3" orient="auto">
+          <path d="M0,0 L6,3 L0,6 Z" fill="#C0392B"/>
+        </marker>
+      </defs>
+    </svg>
+    <ul class="pathway-legend">
+      <li>교감신경 과활성(고혈압) → β-AR 활성화(골세포·조골세포) → RANKL/SOST 유도 → 골흡수↑·골형성↓</li>
+      <li>BB: β-AR 차단으로 RANKL↓·SOST↓·치조골 부피↑ (Uchibori 2020: β1·β2·비선택적 세 유형 모두 동등 효과)</li>
+      <li>⚠️ 주의: 임상 ISQ 개선은 Saravi 2021에서 유의하지 않음 (BB 단독 NS) — 동물 메커니즘 확인됐으나 임상 번역 미완성</li>
+      <li>FD 개선 (Aşantoğrl 2024): BB 복용군에서 하악골 FD 유의하게 높음 (p&lt;0.001) — 방사선학적 인간 근거</li>
+    </ul>
+  </div>
+
+  <!-- Thiazide panel -->
+  <div id="mech-thiazide" class="mech-panel card">
+    <div class="card-title" style="color:var(--primary);">치아자이드계 이뇨제 — 골 보호 메커니즘</div>
+    <svg class="pathway-svg" viewBox="0 0 540 195" xmlns="http://www.w3.org/2000/svg">
+      <!-- Hypertension harm -->
+      <rect x="10" y="30" width="100" height="36" rx="8" fill="#FDECEA" stroke="#C0392B" stroke-width="1.5"/>
+      <text x="60" y="44" text-anchor="middle" font-size="11" font-weight="700" style="fill:#C0392B">고혈압</text>
+      <text x="60" y="58" text-anchor="middle" font-size="10" style="fill:#C0392B">신장 Ca²⁺ 낭비</text>
+      <path d="M110 48 L145 48" stroke="#C0392B" stroke-width="1.5" marker-end="url(#arr-red3)"/>
+      <rect x="145" y="30" width="100" height="36" rx="8" fill="#FDECEA" stroke="#C0392B" stroke-width="1.5"/>
+      <text x="195" y="44" text-anchor="middle" font-size="10" font-weight="700" style="fill:#C0392B">저칼슘혈증</text>
+      <text x="195" y="58" text-anchor="middle" font-size="9" style="fill:#C0392B">→ PTH↑ 이차성</text>
+      <path d="M245 48 L280 48" stroke="#C0392B" stroke-width="1.5" marker-end="url(#arr-red3)"/>
+      <rect x="280" y="30" width="110" height="36" rx="8" fill="#FDECEA" stroke="#C0392B" stroke-width="1.5"/>
+      <text x="335" y="44" text-anchor="middle" font-size="10" font-weight="700" style="fill:#C0392B">골흡수↑</text>
+      <text x="335" y="58" text-anchor="middle" font-size="9" style="fill:#C0392B">조골세포 분화↓</text>
+      <!-- Thiazide benefit (green arrow from drug box) -->
+      <rect x="10" y="110" width="120" height="36" rx="8" fill="#EBF0FA" stroke="#2B4F8A" stroke-width="1.8"/>
+      <text x="70" y="124" text-anchor="middle" font-size="11" font-weight="700" style="fill:#2B4F8A">치아자이드</text>
+      <text x="70" y="138" text-anchor="middle" font-size="10" style="fill:#2B4F8A">Thiazide</text>
+      <path d="M130 128 L165 95" stroke="#2B7A4B" stroke-width="2" stroke-dasharray="5,3" marker-end="url(#arr-green3)"/>
+      <rect x="165" y="110" width="130" height="36" rx="8" fill="#E8F5EE" stroke="#2B7A4B" stroke-width="1.5"/>
+      <text x="230" y="124" text-anchor="middle" font-size="10" font-weight="700" style="fill:#2B7A4B">장관 Ca²⁺ 흡수↑</text>
+      <text x="230" y="138" text-anchor="middle" font-size="9" style="fill:#2B7A4B">신장 Ca²⁺ 재흡수↑</text>
+      <path d="M295 128 L330 128" stroke="#2B7A4B" stroke-width="1.5" marker-end="url(#arr-green3)"/>
+      <rect x="330" y="110" width="100" height="36" rx="8" fill="#E8F5EE" stroke="#2B7A4B" stroke-width="1.5"/>
+      <text x="380" y="124" text-anchor="middle" font-size="10" font-weight="700" style="fill:#2B7A4B">PTH↓</text>
+      <text x="380" y="138" text-anchor="middle" font-size="9" style="fill:#2B7A4B">조골세포 분화↑</text>
+      <text x="10" y="178" font-size="10" style="fill:#718096">근거: Solomon 2011 (골절 HR 0.85 vs CCB), Aşantoğrl 2024 (피질골 FD↑, 해면골 NS — Ca²⁺ 메커니즘 일치)</text>
+      <defs>
+        <marker id="arr-red3" markerWidth="6" markerHeight="6" refX="3" refY="3" orient="auto">
+          <path d="M0,0 L6,3 L0,6 Z" fill="#C0392B"/></marker>
+        <marker id="arr-green3" markerWidth="6" markerHeight="6" refX="3" refY="3" orient="auto">
+          <path d="M0,0 L6,3 L0,6 Z" fill="#2B7A4B"/></marker>
+      </defs>
+    </svg>
+    <ul class="pathway-legend">
+      <li>고혈압: 신장의 Ca²⁺ 낭비 → 저칼슘혈증 → 이차성 부갑상선호르몬(PTH) 상승 → 골흡수↑·조골세포 분화↓</li>
+      <li>치아자이드: 장관 Ca²⁺ 흡수↑, 신장 Ca²⁺ 재흡수↑ → PTH 정상화 → 조골세포 분화 촉진</li>
+      <li>Solomon 2011: 골절 HR 0.85 vs CCB (n=376,061) — 이뇨제 중 최저 골절률 (28.5/1000 person-years)</li>
+      <li>Aşantoğrl 2024: 피질골 FD만 유의 (ROI 5), 해면골 NS — Ca²⁺ 경로가 피질골에 더 강하게 작용하는 것과 일치</li>
+    </ul>
+  </div>
+
+</div><!-- /#tab-mechanism -->
+
+<div class="footer-note">
+  근거 출처: 15편 wiki 페이지 — Hamadé 2024 (PMID 38584450) · Wu 2016 · Masri 2024 · Chidiac 2026 · Saravi 2021 · Seki 2020 · Tonini 2022 · Carlos 2024 · Liu 2024 · Aşantoğrl 2024 (PMID 39366840) · Solomon 2011 (PMID 21312268) · Huang 2024 · Uchibori 2020 · Shimizu 2008 (PMID 18256306) · Khalilurrahman 2026<br>
+  임상 결정 시 최신 논문·가이드라인을 추가 확인하십시오. 이 도구는 증거 요약이며 개별 진료를 대체하지 않습니다.
+</div>
+
+<script>
+/* ── Tab switch ── */
+function switchTab(id, btn) {
+  document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
+  document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+  document.getElementById('tab-' + id).classList.add('active');
+  btn.classList.add('active');
+}
+
+/* ── Evidence data ── */
+const PAPERS = [
+  { type:'implant-failure', badge:'임플란트 실패', badgeClass:'badge-red',
+    author:'Hamadé 2024', design:'SR+MA', n:'21,066개', finding:'HTN vs NT: OR 1.100, p=0.671 <strong>(유의 안 함)</strong>' },
+  { type:'implant-failure', badge:'임플란트 실패', badgeClass:'badge-red',
+    author:'Wu 2016', design:'후향코호트', n:'1,499', finding:'AHT 복용 HR <strong>0.12</strong> (0.6% vs 4.1%)' },
+  { type:'implant-failure', badge:'임플란트 실패', badgeClass:'badge-red',
+    author:'Masri 2024', design:'후향코호트', n:'2,971', finding:'HTN+복용 2.29% vs NT 4.33% (p=.01); <strong>HTN 미복용 6.25%</strong>' },
+  { type:'implant-failure', badge:'임플란트 실패', badgeClass:'badge-red',
+    author:'Chidiac 2026', design:'후향코호트', n:'2,004', finding:'AHT HR <strong>0.23</strong> (1.29% vs 5.12%, p=.013)' },
+  { type:'null', badge:'귀무결과', badgeClass:'badge-gray',
+    author:'Tonini 2022', design:'후향코호트', n:'1,887', finding:'HTN p=.958 NS; AHT p=.939 NS (유의 없음)' },
+  { type:'drug-class', badge:'약물 클래스', badgeClass:'badge-blue',
+    author:'Saravi 2021', design:'후향코호트', n:'377', finding:'RAAS 억제제 ISQ <strong>+3.59</strong> (p=0.025); 베타차단제 NS' },
+  { type:'tissue', badge:'조직 건강', badgeClass:'badge-amber',
+    author:'Seki 2020', design:'후향코호트', n:'272 임플란트', finding:'임플란트 주위염 OR <strong>7.38</strong> (26.5% vs 4.7%); 손실 0건 — 생존≠성공' },
+  { type:'tissue', badge:'조직 건강', badgeClass:'badge-amber',
+    author:'Carlos 2024', design:'단면연구', n:'165 임플란트', finding:'HTN 환자 골흡수 (MBL) 78.95% (p&lt;0.001)' },
+  { type:'periop', badge:'수술 전후', badgeClass:'badge-purple',
+    author:'Liu 2024', design:'후향코호트', n:'728', finding:'임플란트+골증대 중 혈압급등 <strong>26.77%</strong>; 남성 RR 1.74, ≥60세 RR 2.35' },
+  { type:'bone-quality', badge:'골질 (방사선)', badgeClass:'badge-green',
+    author:'Aşantoğrl 2024', design:'증례-대조', n:'460', finding:'전 AHT 클래스 → 하악골 FD <strong>유의하게 높음</strong> (p&lt;0.001); 치아자이드는 피질골만' },
+  { type:'fracture', badge:'골절 위험', badgeClass:'badge-green',
+    author:'Solomon 2011', design:'후향코호트', n:'376,061', finding:'ARB HR <strong>0.76</strong>·치아자이드 HR <strong>0.85</strong> vs CCB; BB·ACEi·루프 NS' },
+  { type:'mechanism', badge:'메커니즘', badgeClass:'badge-gray',
+    author:'Huang 2024', design:'동물연구', n:'OVX 쥐', finding:'프로프라놀롤+PTH: BV/TV +93%; Bmal1/RUNX2 축' },
+  { type:'mechanism', badge:'메커니즘', badgeClass:'badge-gray',
+    author:'Uchibori 2020', design:'동물연구', n:'SHR 쥐', finding:'β-AR 차단제 3종 모두 → 치조골↑, RANKL↓·SOST↓' },
+  { type:'mechanism', badge:'메커니즘', badgeClass:'badge-gray',
+    author:'Shimizu 2008', design:'동물+시험관', n:'OVX 쥐', finding:'Ang II → RANKL → 파골세포 활성화; olmesartan 완전 차단; AT1a KO 골 소실 없음' },
+  { type:'perio', badge:'치주', badgeClass:'badge-amber',
+    author:'Khalilurrahman 2026', design:'SR+MA', n:'치주', finding:'RAAS: 불일치; 스타틴: BOP -13.4% 유의' },
+];
+
+function buildTable() {
+  const tbody = document.getElementById('evidence-tbody');
+  tbody.innerHTML = PAPERS.map(p =>
+    `<tr data-type="${p.type}">
+      <td><strong>${p.author}</strong></td>
+      <td style="white-space:nowrap">${p.design}</td>
+      <td style="white-space:nowrap">${p.n}</td>
+      <td>${p.finding}</td>
+      <td><span class="badge ${p.badgeClass}">${p.badge}</span></td>
+    </tr>`
+  ).join('');
+}
+
+function filterTable(type, btn) {
+  document.querySelectorAll('#filter-row .filter-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  document.querySelectorAll('#evidence-tbody tr').forEach(row => {
+    if (type === 'all' || row.dataset.type === type) {
+      row.classList.remove('hidden');
+    } else {
+      row.classList.add('hidden');
+    }
+  });
+}
+
+/* ── Drug class data ── */
+const DRUGS = [
+  { name:'ARB / ACEi', nameKo:'RAAS 억제제', sub:'레닌-안지오텐신-알도스테론계 억제제',
+    color:'#2B7A4B', signal:'STRONG', signalLabel:'강한 신호',
+    isq:'ISQ +3.59 (Saravi 2021, p=0.025)', fracture:'ARB HR 0.76 (Solomon 2011)',
+    fd:'모든 ROI ↑ (p&lt;0.001)', mechShort:'Ang II 차단 → RANKL↓ → 파골세포 억제',
+    caution:'kinin 경로 → 치주 감수성 증가 가능 (Khalilurrahman 2026)' },
+  { name:'β-차단제', nameKo:'베타차단제', sub:'Beta-blocker (BB)',
+    color:'#1A56A0', signal:'MODERATE', signalLabel:'중등도 신호',
+    isq:'NS (Saravi 2021)', fracture:'NS (Solomon 2011)',
+    fd:'모든 ROI ↑ (p&lt;0.001)', mechShort:'β-AR 차단 → RANKL↓·SOST↓ → 치조골 보호',
+    caution:'ISQ 개선은 임상 미확인 — 동물 근거만 (Uchibori 2020, Huang 2024)' },
+  { name:'치아자이드', nameKo:'티아지드계 이뇨제', sub:'Thiazide diuretic',
+    color:'#6B3FA0', signal:'MODERATE', signalLabel:'중등도 신호',
+    isq:'직접 데이터 없음', fracture:'HR 0.85 (Solomon 2011)',
+    fd:'피질골만 ↑ ROI 5 (p&lt;0.001)', mechShort:'Ca²⁺ 흡수↑ · PTH↓ → 조골세포 분화 촉진',
+    caution:'임플란트 코호트 대표성 낮음 (Masri 2024: 5%)' },
+  { name:'CCB', nameKo:'칼슘채널차단제', sub:'Calcium Channel Blocker',
+    color:'#B07A1A', signal:'NEUTRAL', signalLabel:'참조 기준',
+    isq:'비교 기준군', fracture:'HR 1.0 (참조)',
+    fd:'모든 ROI ↑ (p&lt;0.001)', mechShort:'Ca²⁺ 채널 차단 — 직접 골 효과 불명확',
+    caution:'임플란트 직접 비교 근거 없음; Solomon 2011 참조 기준' },
+];
+
+function buildDrugCards() {
+  const grid = document.getElementById('drug-grid');
+  grid.innerHTML = DRUGS.map(d => {
+    const sigClass = d.signal === 'STRONG' ? 'signal-strong' : d.signal === 'MODERATE' ? 'signal-moderate' : 'signal-neutral';
+    const dot = d.signal === 'STRONG' ? '●●●' : d.signal === 'MODERATE' ? '●●○' : '●○○';
+    return `<div class="drug-card">
+      <div class="drug-card-head" style="border-left:4px solid ${d.color}">
+        <div class="class-name" style="color:${d.color}">${d.name}</div>
+        <div class="class-sub">${d.nameKo} · ${d.sub}</div>
+        <div class="signal-bar"><span class="signal-pill ${sigClass}">${dot} ${d.signalLabel}</span></div>
+      </div>
+      <div class="drug-card-body">
+        <div class="metric-row"><span class="metric-label">ISQ 효과</span><span class="metric-val">${d.isq}</span></div>
+        <div class="metric-row"><span class="metric-label">골절 HR</span><span class="metric-val">${d.fracture}</span></div>
+        <div class="metric-row"><span class="metric-label">하악골 FD</span><span class="metric-val">${d.fd}</span></div>
+        <div class="metric-row"><span class="metric-label">메커니즘</span><span class="metric-val">${d.mechShort}</span></div>
+        <div class="caution-box">⚠️ ${d.caution}</div>
+      </div>
+    </div>`;
+  }).join('');
+}
+
+/* ── Decision tool ── */
+const state = {};
+function answer(key, val, btn) {
+  state[key] = val;
+  // deselect siblings
+  btn.closest('.q-options').querySelectorAll('.q-btn').forEach(b => b.classList.remove('selected'));
+  btn.classList.add('selected');
+
+  if (key === 'htn') {
+    if (val === 'no') {
+      showResult('go',
+        '✅ 정상혈압 — 표준 프로토콜',
+        '현재 근거에서 정상혈압 환자는 HTN 관련 위험 없음. Hamadé 2024 SR+MA에서 HTN vs NT: OR 1.100 (p=0.671, 비유의). 표준 임플란트 프로토콜을 적용하십시오.',
+        'Hamadé 2024 (SR+MA, 21,066개, 24편)');
+    } else {
+      document.getElementById('q2').style.display = 'block';
+    }
+  } else if (key === 'med') {
+    if (val === 'no') {
+      showResult('defer',
+        '🔴 미복용 고혈압 — 연기 권고',
+        '미복용 고혈압이 최악의 상태입니다. 환자 수준 임플란트 실패율 28.6% (복용군 9.7%·정상혈압 14.5%; Masri 2024). 내과 의뢰 후 약물 치료 시작, 혈압 조절 확인 후 임플란트 재계획을 권고합니다.',
+        'Masri 2024 (n=2,971), Wu 2016 (HR 0.12 복용군)');
+    } else if (val === 'intermittent') {
+      showResult('caution',
+        '🟡 불규칙 복용 — 상담 필요',
+        '복용 규칙성이 결과의 핵심 예측 인자입니다. 불규칙 복용군은 별도로 연구된 바 없으나, Wu 2016의 보호 효과(HR 0.12)는 규칙적 복용군에서 관찰됐습니다. 임플란트 전 최소 4~8주 규칙적 복용을 확인하십시오.',
+        'Wu 2016, Masri 2024');
+    } else {
+      document.getElementById('q3').style.display = 'block';
+    }
+  } else if (key === 'ctrl') {
+    if (val === 'malignant') {
+      showResult('defer',
+        '🔴 악성 고혈압 — 금기',
+        'SBP ≥180 이상의 중증·악성 고혈압은 선택적 임플란트 시술 금기입니다. 긴급 내과 의뢰 후 혈압 조절이 안정될 때까지 모든 선택적 처치를 연기하십시오.',
+        '일반 임상 원칙 (전향적 임플란트 데이터 없음)');
+    } else if (val === 'no') {
+      showResult('caution',
+        '🟡 조절 불량 고혈압 — 주의 진행',
+        '혈압 조절 상태가 임플란트 결과에 영향을 미칠 수 있으나 직접 근거는 제한적입니다. Hamadé 2024 메타분석은 혈압 조절 상태를 가장 큰 연구 품질 한계로 지적했습니다. 내과 의뢰로 조절 개선 후 진행을 권장하며, 수술 중 혈압 모니터링 필수 (Liu 2024: 26.77% 급등).',
+        'Hamadé 2024, Liu 2024 (수술 전후 혈압)');
+    } else {
+      showResult('go',
+        '✅ 잘 조절된 고혈압 — 진행 가능',
+        `항고혈압약 규칙 복용 + 혈압 조절 양호 → 임플란트 적응증입니다. 근거: Wu 2016 HR 0.12·Masri 2024 2.29%·Chidiac 2026 HR 0.23 모두 복용군이 정상혈압보다 낮은 실패율.\n\n<strong>장기 조직 모니터링</strong>: Seki 2020 — 생존 동등하나 임플란트 주위염 OR 7.38 (26.5% vs 4.7%). 매 6개월 탐침·골흡수 확인.\n\n<strong>수술 중</strong>: Liu 2024 — 임플란트+골증대 동시 시술 시 26.77%에서 혈압 급등 (남성·60세↑·60분↑ 위험). 처치 중 혈압 모니터링.`,
+        'Wu 2016, Masri 2024, Chidiac 2026, Seki 2020, Liu 2024');
+    }
+  }
+}
+
+function showResult(type, title, body, cite) {
+  const box = document.getElementById('decision-result');
+  box.className = 'result-box show result-' + type;
+  document.getElementById('result-title').innerHTML = title;
+  document.getElementById('result-body').innerHTML = body.replace(/\n/g,'<br>');
+  document.getElementById('result-cite').innerHTML = '📚 근거: ' + cite;
+  document.getElementById('reset-btn').style.display = 'inline-block';
+}
+
+function resetDecision() {
+  Object.keys(state).forEach(k => delete state[k]);
+  ['q2','q3'].forEach(id => { document.getElementById(id).style.display = 'none'; });
+  document.querySelectorAll('.q-btn').forEach(b => b.classList.remove('selected'));
+  const box = document.getElementById('decision-result');
+  box.className = 'result-box'; box.classList.remove('show');
+  document.getElementById('reset-btn').style.display = 'none';
+}
+
+/* ── Mechanism tab ── */
+function switchMech(id, btn) {
+  document.querySelectorAll('.mech-panel').forEach(p => p.classList.remove('active'));
+  document.querySelectorAll('.mech-tab-btn').forEach(b => b.classList.remove('active'));
+  document.getElementById('mech-' + id).classList.add('active');
+  btn.classList.add('active');
+}
+
+/* ── Init ── */
+buildTable();
+buildDrugCards();
+</script>
+</body>
+</html>
