@@ -8,6 +8,9 @@ source: synthesis
 category: evidence-appraisal
 evidence_level: synthesis
 tags: [biostatistics, fisher-exact-test, p-value, 2x2-table, exact-test, statistical-significance, significance-threshold, critical-appraisal, case-based-stats]
+relations:
+  - type: reinforces
+    target: darrigo-2024-common-mistakes-biostatistics
 ---
 
 ## 한국어 핵심요약
