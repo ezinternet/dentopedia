@@ -99,3 +99,5 @@ The through-line: excitation (SP/CGRP), inhibition (NPY, opioids), amplification
 - [[overviews/trigeminal-injury-neuropathic-pain-cascade-overview]] — 삼차신경 손상 후 신경병증성 통증 연쇄. 교세포·중추감작 축에서 본 페이지와 접함
 - [[overviews/endodontic-postoperative-pain-overview]] — 술후 통증의 시술 변수 축; 본 페이지는 그 기저 신경생물학
 - [[overviews/bms-orofacial-pain-neuropathic-mechanism-overview]] — 구강작열감증후군의 신경병증 기전; 말초·중추 감작 개념을 공유
+
+<!-- thesis-reviewed: 2026-10-30 -->
