@@ -137,3 +137,5 @@ UDP was **non-inferior** to NaOCl on short-term pain and radiographic healing wi
 - [[endodontics/cold-plasma/lyu-2025-underwater-discharge-plasma-root-canal-rct]] — first human RCT pilot; UDP vs 6% NaOCl non-inferior at 4 mo
 - [[endodontics/irrigation/orozco-gallego-2025-irrigation-protocols-endodontic-umbrella]] — conventional irrigant-activation evidence (PUI etc.) that CAP would complement or compete with
 - [[endodontics/irrigation/ardila-2026-intracanal-medicaments-enterococcus-faecalis-sr]] — SR confirming TAP > Ca(OH)₂ vs E. faecalis; contextualizes CAP's mid-tier ranking
+
+<!-- thesis-reviewed: 2026-10-30 -->
