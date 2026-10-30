@@ -142,3 +142,5 @@ Together, the three pillars of the complete-denture digital evidence base are no
 - [[complete-denture/jafarpour-2024-cadcam-versus-traditional-complete-dentures]] — prior SR+MA reporting CAD/CAM as significantly cheaper; contradicted by Muehlemann 2025's rigorous harmonization
 - [[complete-denture/khorasani-2024-3d-printed-vs-milled-complete]] — milled vs 3D-printed CD comparison; complements Feng's manufacturing-method section
 - [[complete-denture/thu-2024-digital-complete-denture-clinical-laboratory]] — digital CD clinical/laboratory workflow detail; procedural complement to Feng's consensus protocol
+
+<!-- thesis-reviewed: 2026-10-30 -->
