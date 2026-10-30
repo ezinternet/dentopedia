@@ -20,6 +20,8 @@ relations:
     target: ramanauskaite-2023-guided-bone-regeneration-periimplantitis-defects-nma
   - type: extends
     target: mahardawi-2023-lack-keratinized-mucosa-peri-implantitis-sr-ma
+  - type: contrasts
+    target: soldini-2025-reconstructive-therapy-peri-implantitis-rct
 ---
 
 ## Three-line Summary
