@@ -191,3 +191,5 @@ Two distinct closes:
 - 기대관리 (Dawood 2025) = [미검증, 전문가 의견·무데이터]
 - recall 전환 (Currie 2021) = [확인, evidence 빈약]
 - 한국 임상 적용 (구강검진·커리큘럼) = [미검증]
+
+<!-- thesis-reviewed: 2026-10-30 -->
