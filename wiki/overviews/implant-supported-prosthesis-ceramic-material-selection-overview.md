@@ -169,3 +169,5 @@ LDS significantly outperformed PICN on static post-fatigue fracture load (p=0.00
 
 - [[overviews/zirconia-implant-clinical-outcomes]] — sibling overview on the implant **fixture** material (zirconia vs titanium implants); distinct from this superstructure-focused page
 - [[overviews/prosthetic-materials-decision-ladder]] — general crown/bridge/screw-vs-cement/overdenture decision framework; this page is a deep-dive on the specific implant-superstructure ceramic-selection angle referenced there under Axis 1
+
+<!-- thesis-reviewed: 2026-10-30 -->
