@@ -1,0 +1,27 @@
+Suppression of tooth movement-induced sclerostin expression using beta-adrenergic receptor blockers.
+Uchibori S, Sekiya T, Sato T, Hayashi K, Takeguchi A, Muramatsu R, Ishizuka K, Kondo H, Miyazawa K, Togari A, Goto S.
+Oral Diseases, 2020
+DOI: 10.1111/odi.13280
+PMID: 31943597
+
+ABSTRACT:
+Regulation of bone metabolism by the sympathetic nervous system has recently been clarified. Tooth movement is increased by increased bone metabolic turnover due to sympathetic activation. This study aimed to compare the effects of the β-adrenergic receptor (β-AR) blockers atenolol (β1-AR blocker), butoxamine (β2-AR blocker) and propranolol (non-selective β-AR blocker) on tooth movement in spontaneously hypertensive rats (SHR) with sympathicotonia.
+
+Spontaneously hypertensive rats were divided into the following four groups: an SHR control group and groups treated with 0.1 mg/kg atenolol, 1 mg/kg butoxamine or 1 mg/kg propranolol (n = 6 rats/group). Atenolol, butoxamine or propranolol was administered daily to each treatment group, and orthodontic force was applied using a closed-coil spring. Finally, immunohistochemical analysis was performed for receptor activator of nuclear factor kappa-B ligand (RANKL) and sclerostin (SOST).
+
+Atenolol, butoxamine and propranolol inhibited tooth movement and increased maxillary alveolar bone volume. Histological analysis revealed that these β-AR blockers decreased osteoclast activity on the compression side. Furthermore, immunohistochemical analysis revealed that atenolol, butoxamine and propranolol decreased the number of RANKL- and SOST-positive osteocytes on the compression side.
+
+CONCLUSIONS:
+β-AR blockers decreased tooth movement and downregulated SOST in osteocytes, accompanied by increasing alveolar bone resorption.
+
+KEY DATA:
+- SHR (spontaneously hypertensive rats) model — sympathicotonia background
+- β-AR blockers tested: atenolol (β1-selective), butoxamine (β2-selective), propranolol (non-selective)
+- All three β-AR blockers: ↓ tooth movement, ↑ alveolar bone volume
+- ↓ RANKL+ osteocytes on compression side
+- ↓ SOST (sclerostin)+ osteocytes on compression side
+- ↓ osteoclast activity (compression side histology)
+- Department of Orthodontics & Pharmacology, Aichi-Gakuin University, Japan
+- Published: Oral Dis. 2020;26(3):621-629
+
+NOTE: Full PMC text not available. Summary based on abstract via PubMed (PMID: 31943597).
