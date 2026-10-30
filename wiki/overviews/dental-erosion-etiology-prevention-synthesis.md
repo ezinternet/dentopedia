@@ -86,3 +86,5 @@ Clinical bottom line: counsel on citrus sweets and OJ in addition to cola; palat
 - [[caries/moynihan-2016-sugars-dental-caries-threshold-intake]] — 식이당·산성음료 노출 빈도 (applies-to)
 - [[occlusion/fan-2026-fixed-dahl-restorations-localized-tooth-wear-sr-ma]] — restorative/rehabilitation arm: fixed (preferably indirect) Dahl restorations for established localized tooth wear; first SR+MA, indirect < direct annual failure, 86.9% complete posterior occlusal re-establishment (extends prevention axis into management)
 - [[overviews/tooth-whitening-clinical-decision-overview]] — adjacent enamel-surface insult: whitening/bleaching agents as a separate acid/peroxide challenge to enamel (Marton 2026 enamel-damage SR); erosion-prone enamel raises the caution threshold for bleaching
+
+<!-- thesis-reviewed: 2026-10-30 -->
