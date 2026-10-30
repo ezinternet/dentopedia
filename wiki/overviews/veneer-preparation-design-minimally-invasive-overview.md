@@ -118,3 +118,5 @@ Three lines of clinical evidence validate the paradigm's safety: **Ali (2023)** 
 - [[veneers/albanesi-2016-incisal-coverage-ceramic-laminate-veneer-sr-ma]] — incisal-coverage design does not affect survival (prep-design latitude)
 - [[veneers/el-mowafy-2018-glass-ceramic-veneer-materials-narrative-review]] — dentin-margin exposure ≈10× failure (enamel-confinement rationale)
 - [[overviews/veneer-material-survival-protocol-overview]] — companion overview on the material/survival/bonding axis
+
+<!-- thesis-reviewed: 2026-10-30 -->
