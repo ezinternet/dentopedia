@@ -112,3 +112,5 @@ The decisive practical caveat, consistent across the cluster:
 
 - [[endodontics/neelakantan-2018-endodontic-microbiology-editorial]] — biofilm-mediated endodontic infection framing that motivates the aseptic chain, of which cone decontamination is one step.
 - [[endodontics/obturation/elmsmari-2025-single-cone-bioceramic-clinical-success-sr-ma]] — addresses the *clinical seal* of the single GP cone; complements this page's focus on cone *sterility* before obturation.
+
+<!-- thesis-reviewed: 2026-10-30 -->
