@@ -17,6 +17,8 @@ tags: [simvastatin, socket-preservation, ridge-preservation, xenograft, cerabone
 relations:
   - target: "[[bone-regeneration/ridge-preservation/]]"
     type: extends
+  - type: contradicts
+    target: kommuri-2025-efficacy-of-statins-in-tissue
 ---
 
 ## Three-line Summary
