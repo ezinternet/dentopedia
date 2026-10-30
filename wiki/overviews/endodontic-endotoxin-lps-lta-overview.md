@@ -93,3 +93,5 @@ The throughline: every conventional and contemporary modality reduces but cannot
 - [[endodontics/neelakantan-2018-endodontic-microbiology-editorial]] — Neelakantan 2018: biofilm-mediated infection framing
 - [[overviews/irrigation-activation-comparison]] — sibling overview on irrigant activation methods
 - [[overviews/oral-microbiome-biofilm-dysbiosis-synthesis]] — biofilm/dysbiosis substrate underlying endotoxin persistence
+
+<!-- thesis-reviewed: 2026-10-30 -->
