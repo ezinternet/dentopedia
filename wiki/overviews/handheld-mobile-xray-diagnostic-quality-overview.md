@@ -140,3 +140,5 @@ The two 2025 papers together close the gap on *whether* handheld units work in d
 - [[overviews/dental-imaging-radiation-dose-optimization-overview]] — 27-paper synthesis on dose/collimation/modality hierarchy for fixed units; does NOT cover handheld/mobile units specifically — this overview is the handheld complement
 - [[radiology/berkhout-2015-justification-and-good-practice-using]] — EADMFR consensus on justification/good-practice framework for handheld portable X-ray use, cited by Geibel as the regulatory foundation
 - [[radiology/makdissi-2016-effects-device-position-operators-radiation]] — operator-safety/dose data for handheld devices; safety counterpart to the image-quality data presented here
+
+<!-- thesis-reviewed: 2026-10-30 -->
