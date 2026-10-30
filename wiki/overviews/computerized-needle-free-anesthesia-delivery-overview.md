@@ -122,3 +122,5 @@ Clinical bottom line: market these devices as anxiety-reduction and supplemental
 - [[local-anesthesia/park-2024-articaine-infiltration-lidocaine-intraosseous-molars]] — 비주사 경로 대안 (컴퓨터구동 골내)
 - [[overviews/topical-anesthetic-injection-pain-overview]] — 자매 overview: 약물/전달제형 축(표면마취제). 본 overview는 그와 별개인 "전달장치·기계" 축을 다룸
 - [[overviews/mandibular-anesthesia-efficacy-ladder]] — 자매 overview: 기법·약물선택 축(IANB vs 침윤, articaine vs mepivacaine). 본 overview는 "어떤 도구로 주입하는가"라는 독립된 질문을 다룸
+
+<!-- thesis-reviewed: 2026-10-30 -->
