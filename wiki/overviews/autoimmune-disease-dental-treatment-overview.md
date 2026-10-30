@@ -96,3 +96,5 @@ Treat the **controlled** autoimmune patient much like a healthy one, but: (1) co
 - [[overviews/drug-systemic-disease-dental-management-overview]] — medication & medically-compromised management (corticosteroids, MRONJ, NSAIDs)
 - [[overviews/oral-medicine-decision-ladder]] — oral mucosal disease diagnostic pathway (OLP, RAS, blistering)
 - [[overviews/periodontics-treatment-ladder]] — periodontal therapy underlying the RA–periodontitis axis
+
+<!-- thesis-reviewed: 2026-10-30 -->
