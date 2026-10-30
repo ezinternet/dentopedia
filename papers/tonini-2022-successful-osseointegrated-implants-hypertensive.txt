@@ -1,0 +1,18 @@
+Successful Osseointegrated Implants in Hypertensive Patients: Retrospective Clinical Study.
+Tonini KR, Hadad H, Egas LS, Sol I, de Carvalho PSP, Ponzoni D.
+International Journal of Oral & Maxillofacial Implants, 2022
+DOI: 10.11607/jomi.9425
+PMID: 35727241
+
+ABSTRACT:
+The aim of this study was to investigate the association of hypertension and antihypertensive drugs with the failure of osseointegrated dental implants.
+
+This study conformed to STROBE Guidelines regarding retrospective studies. Data from 602 medical records of patients who received rehabilitation treatment with osseointegrated implants between 2000 and 2017, completed at least 6 months before the study, were analyzed. Data on age, sex, presence or absence of hypertension, use or not of antihypertensive drugs, number of placed and lost implants, and type of prosthetic rehabilitation were collected. Statistical chi-square tests and the Fisher exact test were used to analyze the variables with implant loss, using a significance level of P < .05.
+
+One thousand eight hundred eighty-seven implants were placed with a success rate of 97.51% (47 implants lost in 41 patients). Of the 602 patients, 71.43% (432) were normotensive and 28.36% (171) were hypertensive. The success rate of implants in the normotensive group was 93.28%, and in the hypertensive group, it was 92.99%, with no statistical difference between the groups (P = .958). Of these patients, the success rate among the hypertensive group was similar for medication users (92.5%) and for nonusers (94.1%), with no statistically significant difference (P = .939).
+
+CONCLUSIONS:
+The presence of hypertension, as well as the use of antihypertensives, could not be associated with the failure of osseointegrated implants.
+
+NOTE: Full PMC text not available. Summary based on abstract via PubMed (PMID: 35727241).
+Citation: Int J Oral Maxillofac Implants. 2022;37(3):501-507
