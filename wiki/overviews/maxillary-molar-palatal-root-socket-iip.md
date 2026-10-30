@@ -139,3 +139,5 @@ The palatal root socket is the **default fallback anchorage** for maxillary mola
 - [[overviews/implants-isq-stability-ladder]] — ISQ/RFA stability decision spine
 - [[overviews/short-implant-vs-sinus-augmentation-decision]] — sinus vs short-implant trade-off
 - [[overviews/implant-placement-timing-immediate-early-delayed]] — placement timing evidence
+
+<!-- thesis-reviewed: 2026-10-30 -->
