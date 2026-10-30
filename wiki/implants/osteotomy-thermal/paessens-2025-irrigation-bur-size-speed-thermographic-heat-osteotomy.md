@@ -17,6 +17,8 @@ relations:
   - target: implants/osteotomy-thermal/chauhan-2018-biomechanical-factors-heat-generation-osteotomy
     type: extends
     note: "Paeßens 2025 quantifies OR for each risk factor (irrigation dominant OR 177.5)"
+  - type: contradicts
+    target: bernabeu-mira-2020-bone-heating-drilling-implant
 ---
 
 ## Three-line Summary
