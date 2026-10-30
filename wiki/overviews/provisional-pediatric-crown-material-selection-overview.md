@@ -168,3 +168,5 @@ Is the tooth badly broken down (>2 surfaces involved)?
 - [[prosthetic-materials/lampl-2025-crown-failures-primary-teeth-sr-ma]] — Axis 3 source: SR+MA of pediatric crown retention and complication profiles
 - [[overviews/prosthetic-materials-decision-ladder]] — adjacent overview covering adult implant prosthetics (screw/cement, zirconia vs LDS, abutment design); does NOT cover provisional materials or pediatric crowns
 - [[overviews/caries-biomimetic-remineralization-orthodontic-pediatric-crown-overview]] — covers anterior primary tooth PZC vs RCSC specifically (chen-2026, 9 RCTs); complementary to Axis 3 here (which covers all 6 crown types including posterior)
+
+<!-- thesis-reviewed: 2026-10-30 -->
