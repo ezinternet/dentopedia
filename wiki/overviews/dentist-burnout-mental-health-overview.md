@@ -143,3 +143,5 @@ Workplace intervention evidence is very weak (little primary prevention; 2nd/3rd
 - 축 2 직군 = [확인] (Kaki 2022 UK DCP gap은 여전히 open; Zhang 2022는 supplementary 중국 1차 비교 데이터 — 직군 매핑 상이로 부분 충족)
 - 축 3 개입 = [확인] for direction, [미검증] for specific intervention efficacy
 - 축 4 retraction = [확인] (retraction 자체)
+
+<!-- thesis-reviewed: 2026-10-30 -->
