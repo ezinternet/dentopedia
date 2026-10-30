@@ -21,6 +21,8 @@ relations:
     target: esposito-2013-antibiotics-dental-implant-placement-cochrane
   - type: contradicts
     target: momand-2024-antibiotic-prophylaxis-early-implant-failure
+  - type: contradicts
+    target: dubedout-2025-antibiotic-prophylaxis-early-complications
 ---
 
 ## Three-line Summary
