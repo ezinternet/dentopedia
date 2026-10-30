@@ -260,3 +260,5 @@ In a standing or seated patient, the natural maxillary ostium opens into the mid
 - [[sinus-lift/lateral/nam-2014-fess-intraoral-implant-related-sinusitis]] — drainage pathway rationale; FESS vs intraoral approach for implant-related sinusitis
 - [[overviews/sinus-lift-lateral-2026-synthesis]] — parent synthesis (37 papers): septa OR 4.03, perforation outcomes broadly, OMC anatomy, graft materials
 - [[overviews/odontogenic-maxillary-sinusitis-overview]] — parent synthesis: OMS diagnosis, source control, FESS sequencing, OAF closure
+
+<!-- thesis-reviewed: 2026-10-30 -->
