@@ -1,0 +1,34 @@
+Impact of renin-angiotensin system inhibitors and beta-blockers on dental implant stability
+Saravi B, et al.
+International Journal of Implant Dentistry, 2021
+DOI: 10.1186/s40729-021-00309-y
+PMID: 33829330 | PMC: PMC8026804
+
+ABSTRACT:
+Background: Current experimental research suggests antihypertensive medication reduces the failure risk of dental implants due to enhanced bone remodeling. However, evidence from clinical studies evaluating the impact of antihypertensive medication on implant stability is lacking.
+
+Methods: We retrospectively analyzed 377 implants in 196 patients (46 implants inserted in antihypertensive drug users (AH) and 331 implants in non-users (NAH)) for implant stability measured by radiofrequency analysis, and we determined the implant stability quotient (ISQ). AH subgroups were stratified by the use of beta-blockers, renin-angiotensin system (RAS) inhibitors, and both of the aforementioned. The impact of antihypertensive medication on ISQ values at implant insertion (primary stability) and implant exposure (secondary stability) was analyzed by a linear regression model with a regression coefficient and its 95% confidence interval (95% CI), adjusted for potential confounders.
+
+Results: Time between implant insertion and implant exposure was 117.1 ± 56.6 days. ISQ values at insertion were 71.8 ± 8.7 for NAH and 74.1 ± 5.6 for AH, respectively. ISQ at exposure was 73.7 ± 8.1 for NAH and 75.7 ± 5.9 for AH. Regression analysis revealed that none of the AH subgroups were significantly related to ISQ at implant insertion. However, renin-angiotensin system inhibitors (RAS) were significantly associated with higher ISQ values at exposure (reg. coeff. 3.59, 95% CI 0.46–6.71 (p=0.025)).
+
+Conclusions: Outcome of the present study indicates enhanced bone remodeling and osseointegration following dental implant insertion in patients taking RAS inhibitors than in non-users. Future randomized prospective studies must confirm these indicative results.
+
+FULL TEXT KEY FINDINGS:
+- Retrospective cohort, 2015–2020, tertiary outpatient clinic, Baden-Württemberg, Germany
+- 196 patients, 377 implants: NAH=331, AH=46 (BB=13, Comb=11, RAS=22)
+- Median age 65 years (range 26–93); AH patients significantly older (OR 2.30 for age ≥70, p=0.009)
+- Implant systems: Straumann SLA (76.7%) and Thommen Inicell (23.3%)
+- Primary stability (insertion): No significant differences between subgroups after adjustment
+- Secondary stability (exposure): RAS inhibitors significantly associated with higher ISQ (reg. coeff. 3.59, 95% CI 0.46–6.71, p<0.05)
+- Combined BB+RAS: reg. coeff. 2.71, p=0.224 (NS)
+- Beta-blockers alone: reg. coeff. -0.93, p=0.648 (NS)
+- ISQ subgroup means at exposure: BB=72.00, Comb=78.36, RAS=76.64, NAH=73.7
+- Mandibular implants showed higher ISQ (reg. coeff. 8.18, p<0.001) vs maxillary
+- All groups had ISQ >70 (high stability threshold)
+- Limitations: small AH sample, no BP data, no drug duration info, no selective vs non-selective BB differentiation
+
+MECHANISM:
+- RAS inhibitors: reduce ATII-mediated osteoclast activation, increase bone marrow capillary blood flow, increase free Ca2+, decrease PTH → net bone-protective effect
+- BB: beta-2 adrenoreceptors on osteoblasts/osteoclasts; sympathetic inhibition → anabolic/catabolic balance; β2AR-mediated RANKL ↓
+- Tissue RAS (tRAS) in periodontal tissue: ATII → RANKL increase, NF-κB activation, AP-1, ROS
+- First clinical study stratifying antihypertensive subgroups for implant stability outcomes
