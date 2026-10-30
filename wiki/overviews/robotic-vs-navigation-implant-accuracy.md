@@ -88,3 +88,5 @@ The clinical question is not "is the robot more accurate?" but "*which* componen
 - [[digital-workflow/wu-2024-autonomous-dental-implant-robotic-accuracy]] — robot absolute accuracy benchmark
 - [[digital-workflow/schiavon-2025-computer-assisted-immediate-implant-accuracy-nma]] — CAIS-vs-freehand NMA backbone
 - [[overviews/digital-workflow-decision-ladder]] — broader digital workflow framework
+
+<!-- thesis-reviewed: 2026-10-30 -->
