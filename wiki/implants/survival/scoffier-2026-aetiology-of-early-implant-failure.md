@@ -14,6 +14,11 @@ source_url: https://pubmed.ncbi.nlm.nih.gov/42414757/
 text_path: /Users/oracleneo/llm-wiki/papers/scoffier-2026-aetiology-of-early-implant-failure.txt
 text_filename: scoffier-2026-aetiology-of-early-implant-failure.txt
 tags: [early-implant-failure, scoping-review, aetiology, primary-stability, micromovement, bone-healing, definitional-heterogeneity]
+relations:
+  - type: contradicts
+    target: grigoras-2024-early-implant-failure-a-meta
+  - type: contrasts
+    target: yari-2023-risk-factors-early-implant-failure
 ---
 
 abstract-only — full text not retrieved (no PMC record; PMC body absent, content built from the PubMed abstract).
