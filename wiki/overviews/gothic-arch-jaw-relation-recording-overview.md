@@ -147,3 +147,5 @@ Each study judges "accuracy" against a *different* benchmark: split-cast/habitua
 - [[complete-denture-ovd-determination-overview]] — the **vertical** counterpart (OVD); this page is the horizontal (CR) pair
 - [[implant-occlusion-loading-biomechanics-overview]] — occlusal scheme/loading once jaw relation is set
 - [[occlusal-trauma-periodontitis-overview]] — consequences of occlusal load
+
+<!-- thesis-reviewed: 2026-10-30 -->
