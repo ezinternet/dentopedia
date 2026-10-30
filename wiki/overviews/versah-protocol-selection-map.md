@@ -174,3 +174,5 @@ graph TD
 - [[overviews/immediate-implant-decision-ladder]] — 즉시식립 결정
 - [[interactives/2026-05-18_d4-bone-densah-protocol]] — D4 chairside 인터랙티브
 - [[overviews/isq-loading-threshold]] — ISQ 부하 결정
+
+<!-- thesis-reviewed: 2026-10-30 -->
