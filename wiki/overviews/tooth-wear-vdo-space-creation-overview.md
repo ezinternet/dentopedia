@@ -197,3 +197,5 @@ So the honest ranking is: the least invasive option has the best evidence, the m
 - [[overviews/cr-co-micp-reference-position-debate]] — applies-to: which reference position to build the raise onto
 - [[overviews/dental-erosion-etiology-prevention-synthesis]] — the etiology arm of diagnostic question 3
 - [[overviews/complete-denture-ovd-determination-overview]] — the edentulous OVD literature this page borrows from and marks as extrapolation
+
+<!-- thesis-reviewed: 2026-10-30 -->
