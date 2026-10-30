@@ -16,6 +16,8 @@ tags: [occlusion, occlusal-overload, peri-implant-bone, marginal-bone-loss, bone
 relations:
   - type: refines
     target: misch-2005-occlusal-trauma-peri-implant-bone-loss-literature
+  - type: contradicts
+    target: podaropoulos-2020-progressive-static-load-overloading-dogs
 ---
 
 > abstract-only — PubMed HTML printout, full text not retrieved (built from abstract)
