@@ -95,3 +95,5 @@ Reasonable to offer EAs for **early interception of mild-to-moderate Class II, f
 
 - [[overviews/clear-aligner-indications-limitations]] — the removable clear-aligner counterpart in orthodontics
 - [[overviews/orthodontic-tooth-movement-biology]] — biological basis of tooth movement underlying functional appliances
+
+<!-- thesis-reviewed: 2026-10-30 -->
