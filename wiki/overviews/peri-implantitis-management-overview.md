@@ -11,6 +11,9 @@ pdf_path: N/A
 pdf_filename: N/A
 source_collection: internal
 tags: [peri-implantitis, peri-implant-mucositis, prevalence, decontamination, GBR, prosthetic-design, MBL, platform-switching, PMPR, aPDT, prevention, immunopathogenesis, macrophage-polarization, treg, diabetes, regenerative-strategies, titanium-particles, tribocorrosion, exposome, implant-malposition, network-meta-analysis, non-surgical-adjuncts]
+relations:
+  - type: contradicts
+    target: liu-2026-efficacy-of-adjunctive-antibiotics-compared
 ---
 
 ## 한국어 핵심요약
