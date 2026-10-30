@@ -157,3 +157,5 @@ Bony-hard swelling observed
 ## Related Overviews
 
 - [[overviews/oral-medicine-decision-ladder]] — where a white lesion goes when cause-elimination fails: its 축 1 (OPMD) and 축 2 (leukoplakia) carry the malignant-transformation evidence, and its 축 3 (OLP) is the differential this page's Axis 2 is protecting against. *(Replaces two dangling wikilinks that pointed at the `oral-medicine/` and `oral-medicine/opmd/` directories, neither of which has a landing page.)*
+
+<!-- thesis-reviewed: 2026-10-30 -->
