@@ -24,6 +24,9 @@ source_wiki:
 category: [overviews]
 evidence_level: synthesis
 tags: [immediate-implant, infected-socket, periapical-pathology, acute-abscess, debridement, antibiotic, timing, post-op-infection, clinical-decision]
+relations:
+  - type: contradicts
+    target: de-oliveira-neto-2019-immediate-dental-implants-placed-into
 ---
 
 ## 한국어 핵심요약
