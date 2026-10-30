@@ -123,3 +123,5 @@ Narrative synthesis (no new pooling). Base: 1 SR+MA (Aggarwal), 1 SR (Albadi), 1
 - [[overviews/occlusal-splint-tmd-value-adjunct-prediction-overview]] — occlusal splint value & prediction
 - [[overviews/bruxism-muscle-overload-axis]] — bruxism / muscle-overload axis
 - [[overviews/bms-orofacial-pain-neuropathic-mechanism-overview]] — orofacial-pain neuropathic mechanisms
+
+<!-- thesis-reviewed: 2026-10-30 -->
