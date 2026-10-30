@@ -191,3 +191,5 @@ The common thread is that **bench plausibility does not equal clinical durabilit
 - [[dental-materials/ali-2023-cadcam-restoration-failure-reasons-sr-ma]] — CAD-CAM restoration failure modes; marginal gap and cement layer degradation mechanistically linked
 - [[glass-ionomer/singh-2024-gic-rmgic-biological-response-sr]] — GIC/RMGI cytotoxicity/biocompatibility — the pulp-protection premise that Axis 3 tests and finds insufficient for routine composite lining
 - [[glass-ionomer/ge-2024-gic-clinical-application-restorative-preventive]] — GIC clinical applications including liner/base indications
+
+<!-- thesis-reviewed: 2026-10-30 -->
