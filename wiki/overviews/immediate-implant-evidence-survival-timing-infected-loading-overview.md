@@ -62,6 +62,8 @@ relations:
     target: mello-2017-immediate-fresh-extraction-vs-delayed-healed-socket-sr-ma
   - type: refines
     target: garcia-sanchez-2022-immediate-vs-delayed-implant-placement-sr-ma
+  - type: contradicts
+    target: checchi-2017-wide-diameter-immediate-post-extractive
 ---
 
 ## 한국어 핵심요약
