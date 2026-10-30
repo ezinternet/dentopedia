@@ -510,3 +510,5 @@ This page sits above the category **decision-ladder** overviews. When a principl
 - [[tmd-management-evidence-ladder]] — extends: TMD principles 92–96
 - [[oral-surgery-decision-ladder]] · [[drug-clinical-decision-ladder]] · [[oral-medicine-decision-ladder]] — extends: principles 97–100 + appendix
 - [[bone-regeneration-protocol-ladder]] · [[sinus-lift-technique-selection]] · [[digital-workflow-decision-ladder]] — extends: bone/sinus/digital principles
+
+<!-- thesis-reviewed: 2026-10-30 -->
