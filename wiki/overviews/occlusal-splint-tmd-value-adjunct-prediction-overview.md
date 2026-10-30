@@ -11,6 +11,9 @@ pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
 tags: [tmd, tmj, occlusal-splint, stabilization-splint, michigan-splint, cad-cam-splint, counselling, self-management, manual-therapy, ultrasound, exercise, myofascial-pain, neck-pain, disc-displacement, addwor, arthralgia, cbct, subchondral-bone, jfls, prognosis, response-prediction, stepwise-escalation, overview]
+relations:
+  - type: contrasts
+    target: honnef-2022-stabilization-splints-signs-symptoms-muscular-tmd
 ---
 
 ## 한국어 핵심요약
