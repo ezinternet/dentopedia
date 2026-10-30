@@ -224,3 +224,5 @@ TEC 표준        CBCT 처방 (술전 3D 파악)
 - [[endodontics/anatomy/floratos-2017-intraoperative-cbct-calcified-canals]] — 술중 CBCT GP point protocol (3증례)
 - [[overviews/mb2-detection-strategy]] — MB2 탐지 전략 (본 결정 트리의 Step 2 상세)
 - [[overviews/conservative-access-cavity-biomechanics-overview]] — 보존적 접근와동의 생역학 근거 종합(논문 9편): 파절저항 이득의 조건부성(변연능선)·무조건부 대가·수복 레버. 본 결정 트리의 근거층
+
+<!-- thesis-reviewed: 2026-10-30 -->
