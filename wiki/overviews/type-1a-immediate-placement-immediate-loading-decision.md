@@ -219,3 +219,5 @@ Hamilton selection criteria의 *근거 근간*이 되는 페이지들이다.
 - [[immediate-implant/esthetic-soft-tissue/evans-2008-esthetic-outcomes-immediate-implant]]
 - [[overviews/cosyn-immediate-implant-4-bundle-decision]] — 즉시식립 4변수 (flap/IP/CTG/SG) 의사결정 (자매 페이지)
 - [[overviews/peri-implant-soft-tissue-dehiscence-prevention]] — 연조직 dehiscence 예방·관리 (자매 페이지)
+
+<!-- thesis-reviewed: 2026-10-30 -->
