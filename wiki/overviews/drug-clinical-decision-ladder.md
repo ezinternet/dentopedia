@@ -167,3 +167,5 @@ drug 카테고리 75편을 5개 임상 결정축별 sub-overview로 분할한 �
 - [[implants-clinical-decision-ladder]] — 임플란트 결정
 - [[bone-regeneration-protocol-ladder]] — 골재생
 - [[oral-medicine-decision-ladder]] — BMS·OLP·점막질환
+
+<!-- thesis-reviewed: 2026-10-30 -->
