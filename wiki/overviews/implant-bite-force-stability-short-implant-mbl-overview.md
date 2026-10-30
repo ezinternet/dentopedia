@@ -128,3 +128,5 @@ When bone height is limited and a short implant is indicated, the 1-year MBL dat
 - [[implants/isq/andersson-2019-rfa-factors-5year-neoss-survival]] — ISQ determinants over 5 years; Mohammed 2026 adds BF as an additional modulator
 - [[implants/short-narrow/barausse-2024-4mm-short-implants-posterior-atrophic-8year]] — 8-year ultra-short implant data; extends Lee 2009's 1-year MBL findings over much longer follow-up
 - [[implants/short-narrow/arbildo-vega-2025-short-vs-standard-implants-edentulous-umbrella-review]] — umbrella SR+MA on short vs. standard implants; high-level context for Lee 2009 single-center data
+
+<!-- thesis-reviewed: 2026-10-30 -->
