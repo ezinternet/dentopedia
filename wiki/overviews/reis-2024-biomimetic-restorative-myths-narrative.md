@@ -89,3 +89,5 @@ The strongest version of BRD argument: (1) traditional restorative dentistry has
 - [[resin-bonding/hardan-2022-immediate-dentin-sealing-sr-ma]] — in vitro IDS bond strength (challenged for clinical translation)
 - [[resin-bonding/hardan-2021-universal-adhesive-dentin-bond-sr-ma]] — strategies including MMP inhibition (in vitro)
 - [[resin-bonding/breschi-2025-adhesive-dentistry-evolution-review]] — broader adhesive evolution
+
+<!-- thesis-reviewed: 2026-10-30 -->
