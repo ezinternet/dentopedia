@@ -15,6 +15,12 @@ source_papers:
   - wiki/drug/systemic-disease/masri-2024-early-implant-failure-antihypertensive-medications.md
   - wiki/drug/systemic-disease/chidiac-2026-antihypertensive-antihyperlipidemic-antidepressant-implant-survival.md
   - wiki/drug/systemic-disease/carlos-2024-marginal-bone-loss-hypertension-hyperlipidemia-diabetes.md
+  - wiki/drug/systemic-disease/wu-2016-antihypertensive-medications-survival-osseointegrated.md
+  - wiki/drug/systemic-disease/saravi-2021-impact-renin-angiotensin-system-inhibitors-beta-blockers.md
+  - wiki/drug/systemic-disease/seki-2020-antihypertensive-medications-clinical-parameters-anodized.md
+  - wiki/implants/survival/tonini-2022-successful-osseointegrated-implants-hypertensive.md
+  - wiki/bone-biology/huang-2024-beta-receptor-blocker-pth-anabolic-osteoporotic.md
+  - wiki/bone-biology/uchibori-2020-beta-adrenergic-receptor-blockers-rankl-sclerostin.md
 evidence_level: synthesis
 source: synthesis
 ---
@@ -196,4 +202,10 @@ The **risk-factor profile shifted by augmentation approach** (overall incidence 
 - [[drug/systemic-disease/carlos-2024-marginal-bone-loss-hypertension-hyperlipidemia-diabetes]] — cross-sectional MBL data in HTN/dyslipidemia/DM; polypharmacy confounding limits interpretation (n=57)
 - [[overviews/drug-systemic-disease-dental-management-overview]] — parent overview on medically compromised dental patients; this page is the cardiovascular/hemodynamic spoke (hypertension intraoperative management).
 - [[drug/systemic-disease/waters-2022-ace-inhibitor-or-arb-induced]] — 신규 2026-10-28: two oral-surgery GA cases of ACE-I/ARB-related refractory hypotension rescued with vasopressin (case-report).
+- [[drug/systemic-disease/wu-2016-antihypertensive-medications-survival-osseointegrated]] — landmark study (McGill, 1499 implants): AHT users HR 0.12 (0.6% vs 4.1% failure); 54% RAS inhibitors in drug mix
+- [[drug/systemic-disease/saravi-2021-impact-renin-angiotensin-system-inhibitors-beta-blockers]] — RAS inhibitor subgroup ISQ +3.59 (p=0.025); beta-blocker alone NS — first drug-class breakdown of Wu 2016 effect
+- [[drug/systemic-disease/seki-2020-antihypertensive-medications-clinical-parameters-anodized]] — AHT users: peri-implantitis 26.5% vs 4.7% (OR 7.38), survival identical (0 loss) — survival ≠ success distinction
+- [[implants/survival/tonini-2022-successful-osseointegrated-implants-hypertensive]] — null result (1887 implants): HTN p=.958, AHT p=.939 — corroborates Hamadé 2024 SR+MA
+- [[bone-biology/huang-2024-beta-receptor-blocker-pth-anabolic-osteoporotic]] — mechanism: propranolol+PTH BV/TV +93% via Bmal1/RUNX2 axis (animal OVX+fracture model)
+- [[bone-biology/uchibori-2020-beta-adrenergic-receptor-blockers-rankl-sclerostin]] — mechanism: β-AR blockers ↑ alveolar bone, ↓ RANKL/SOST in SHR orthodontic model — dental context
 
