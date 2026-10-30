@@ -96,3 +96,5 @@ Teledentistry's case rests on two empirical pillars and one recurring caveat:
 - [[practice-management/scheerman-2024-systematic-umbrella-review-effects-teledentistry]] — cost/oral-health umbrella review; supplies the cost-saving-but-assumption-based caveat and the uniform AMSTAR-2 low-quality finding.
 - [[practice-management/lee-2024-teledentistry-utilisation-australia-sr-ma]] — Australia SR+MA; supplies pooled caries-screening accuracy (69.7% / 97.4%), the patient-positive/clinician-mixed split, and the rural-access use case.
 - [[practice-management/garcia-2023-teledentistry-acceptability-latino-rural-virginia]] — cross-sectional acceptability study; supplies the demand-side counterweight (57% non-interest; equity risk) showing accuracy ≠ adoption.
+
+<!-- thesis-reviewed: 2026-10-30 -->
