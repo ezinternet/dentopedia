@@ -18,6 +18,8 @@ tags: [vertical-root-fracture, deep-learning, CNN, ResNet50, CBCT, diagnostic-ac
 relations:
   - type: extends
     target: mun-2024-deep-learning-cracked-tooth-extraction-panoramic
+  - type: contrasts
+    target: de-2025-exploring-diagnostic-reliability-of-cbct
 ---
 
 ## Three-line Summary
