@@ -148,3 +148,4 @@ Reading the 12 papers together gives a clean clinical hierarchy:
 
 - [[local-anesthesia/khademi-2023-premedication-inferior-alveolar-nerve-block-pulpitis-umbrella]] — Umbrella review (4 SRs): ibuprofen >400mg premedication before IANB in irreversible pulpitis significantly raises success (de Geus +79 pp vs ~20% placebo), NSAIDs > acetaminophen — premedicate with ibuprofen >400mg
 
+<!-- thesis-reviewed: 2026-10-30 -->
