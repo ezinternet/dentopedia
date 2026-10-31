@@ -19,6 +19,22 @@ Retrospective cohort (1887 implants/602 patients): hypertension status and antih
 ## 한줄요약
 후향코호트(1887임플란트/602환자): 고혈압 유무(p=.958)와 항고혈압약 복용(p=.939) 모두 임플란트 실패와 무관.
 
+## Three-line Summary
+
+Retrospective cohort (1887 implants/602 patients; 2000–2017, Brazil); normotensive (432 patients, 71.4%) vs hypertensive with antihypertensive medication vs hypertensive without medication; overall success rate 97.51% (47 implants lost); chi-square and Fisher exact tests used without confounder adjustment.
+
+Hypertension status showed no significant association with implant failure (92.99% vs 93.28% success; p=.958); antihypertensive medication use also non-significant (92.5% vs 94.1%; p=.939); no drug-class subgroup analysis performed.
+
+Large Brazilian cohort providing a null result for both hypertension and antihypertensive medications on implant failure; absence of multivariate adjustment and drug-class analysis limits direct comparison with Wu 2016 (HR 0.12 protective) and Masri 2024 (significant EIF reduction) — population heterogeneity and lack of confounding control likely contribute to discordance.
+
+## 세줄요약
+
+후향코호트(임플란트 1887개/602환자, 2000–2017, 브라질); 정상혈압(432명, 71.4%) vs 항고혈압약 복용 고혈압 vs 항고혈압약 미복용 고혈압; 전체 성공률 97.51%(47개 손실); 카이제곱·피셔 정확 검정, 교란인자 보정 없음.
+
+고혈압 유무: 성공률 92.99% vs 93.28%(p=.958, 무관); 항고혈압약 복용: 92.5% vs 94.1%(p=.939, 무관); 약물 클래스 하위군 분석 없음.
+
+대규모 브라질 코호트에서 고혈압·항고혈압약 모두 임플란트 실패와 무관한 null result; 다변량 보정 미실시 및 클래스별 분석 부재로 Wu 2016(HR 0.12 보호)·Masri 2024(조기실패 유의 감소)와 직접 비교 제한 — 교란 미통제가 불일치 원인으로 추정.
+
 ## 1. Document Information
 - Journal: International Journal of Oral & Maxillofacial Implants, 2022;37(3):501-507
 - DOI: 10.11607/jomi.9425
