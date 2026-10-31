@@ -21,6 +21,22 @@ Retrospective cohort (n=77 implants/35 patients, 7-year follow-up): antihyperten
 ## 한줄요약
 후향코호트(77 임플란트/35환자, 7년 추적): 항고혈압약 복용군에서 치주염 주위염 유병률 26.5% vs 4.7%(OR 7.38), 임플란트 손실은 양군 모두 없음 — "생존 = 성공"이 아님을 시사.
 
+## Three-line Summary
+
+Retrospective cohort (n=77 TiUnite anodized implants/35 patients, mean 84.8 months follow-up, Nihon University); antihypertensive users (13 patients/34 implants; CCB, ARB, thiazide) vs normotensives (22 patients/43 implants); peri-implantitis defined as PPD ≥6 mm + BoP/suppuration + bone resorption ≥25% implant length; logistic regression performed.
+
+Peri-implantitis significantly higher in AHT group (26.5% vs 4.7% implant-level, OR 7.38; multivariate OR 12.90; p significant); mean probing pocket depth (PPD) higher (3.8 vs 3.0 mm); no implant loss in either group at 7 years.
+
+Antihypertensive medications appear to protect implant survival while simultaneously elevating peri-implantitis risk — likely via CCB-induced gingival hyperplasia or immune modulation; demonstrates that survival and success are independent endpoints and cannot be conflated in AHT patients.
+
+## 세줄요약
+
+후향코호트(TiUnite 양극산화 임플란트 77개/35환자, 평균 84.8개월 추적, 일본대학); 항고혈압약(칼슘채널차단제(CCB)·안지오텐신수용체차단제(ARB)·치아자이드) 복용 13환자/34임플란트 vs 정상혈압 22환자/43임플란트; 치주임플란트염 (Peri-implantitis) = 탐침 포켓 깊이 (Probing Pocket Depth, PPD) ≥6 mm + 탐침 시 출혈 (Bleeding on Probing, BoP)/화농 + 골소실 ≥25%.
+
+치주임플란트염 임플란트 수준 26.5% vs 4.7% (OR 7.38; 다변량 OR 12.90), 평균 PPD 3.8 vs 3.0 mm; 양군 모두 7년간 임플란트 손실 없음.
+
+항고혈압약이 생존은 보호하면서 치주임플란트염 위험은 높이는 역설적 분리 현상 — CCB 유발 치은비대 또는 면역조절 가능성; 고혈압 환자 임플란트 평가에서 생존율·성공률을 구분해야 함을 시사.
+
 ## 1. Document Information
 - Journal: International Journal of Implant Dentistry, 2020
 - DOI: 10.1186/s40729-020-00231-9
