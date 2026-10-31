@@ -21,6 +21,22 @@ Retrospective cohort (n=377 implants/196 patients): RAS inhibitors significantly
 ## 한줄요약
 후향코호트(377 임플란트/196환자): 레닌-안지오텐신계 억제제가 이차안정성 유의하게 향상(ISQ +3.59, p=0.025), 베타차단제 단독은 유의하지 않음.
 
+## Three-line Summary
+
+Retrospective cohort (n=377 implants/196 patients, 2015–2020, Baden-Württemberg, Germany); implant stability quotient (ISQ) measured at insertion (primary stability) and at exposure ~120 days (secondary stability) via resonance frequency analysis; groups: NAH (331), BB (13), BB+RAS (11), RAS (22); multivariable linear mixed regression adjusted for age, sex, jaw, bone status.
+
+RAS inhibitors associated with significantly higher secondary ISQ (reg. coeff. +3.59, 95% CI 0.46–6.71, p=0.025); beta-blockers showed no significant effect (reg. coeff. −0.93, p=0.648); combination group non-significant (reg. coeff. +2.71, p=0.224); primary stability at insertion unchanged across all groups.
+
+First clinical study to separate RAAS inhibitors from beta-blockers in implant stability — RAAS pathway (Ang II suppression per Shimizu 2008) appears clinically relevant to osseointegration; β-blocker null result despite animal evidence (Uchibori 2020, Huang 2024) highlights the importance of drug-class subgroup analyses.
+
+## 세줄요약
+
+후향코호트(377임플란트/196환자, 2015–2020, 독일); 공명주파수분석(Resonance Frequency Analysis, RFA)으로 삽입 시 일차안정성·노출 시(~120일) 이차안정성 임플란트 안정성 지수 (Implant Stability Quotient, ISQ) 측정; 4군(정상혈압·베타차단제(BB)·BB+레닌-안지오텐신-알도스테론계 (RAAS)·RAAS 단독); 다변량 선형혼합 회귀 분석.
+
+RAAS 억제제군: 이차 ISQ 유의하게 높음(회귀계수 +3.59, 95% CI 0.46–6.71, p=0.025); 베타차단제 단독: 유의하지 않음(회귀계수 −0.93, p=0.648); 일차안정성은 군간 차이 없음.
+
+임플란트 안정성에서 RAAS 억제제 대 BB 분리 비교 최초 임상 연구 — Shimizu 2008의 Ang II→RANKL 경로 차단이 임상적으로 유효함을 시사; 동물 근거(Uchibori 2020, Huang 2024)와 달리 BB 단독 효과 없음 — 약물 클래스별 하위군 분석의 중요성.
+
 ## 1. Document Information
 - Journal: International Journal of Implant Dentistry, 2021
 - DOI: 10.1186/s40729-021-00309-y
