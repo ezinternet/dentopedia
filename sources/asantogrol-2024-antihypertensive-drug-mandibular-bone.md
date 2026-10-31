@@ -18,6 +18,22 @@ Retrospective case-control (n=230+230): all antihypertensive drug classes produc
 ## 한줄요약
 후향적 증례-대조 (n=230+230): 전 항고혈압약 클래스에서 하악골 프랙탈 차원 (FD)이 대조군보다 유의하게 높음 (p<0.001) — 임플란트 골유착에 유리한 치밀 골 구조 직접 증거.
 
+## Three-line Summary
+
+Retrospective case-control (n=230 antihypertensive users vs n=230 normotensive controls) using fractal dimension (FD) analysis via ImageJ on panoramic radiographs; 5 mandibular ROIs assessed across five antihypertensive drug classes (BB, ACEi, ARB, CCB, thiazide, combination).
+
+All drug classes produced significantly higher FD in mandibular bone vs controls (p<0.001 all trabecular ROIs); thiazide diuretics achieved significance only in cortical ROI (ROI 5); higher FD indicates denser, more interconnected trabecular architecture.
+
+First human radiographic study directly linking antihypertensive medication use to improved mandibular bone quality — provides translational support for the osseointegration substrate advantage seen clinically in Wu 2016 and Masri 2024, and mechanistically in Huang 2024 and Shimizu 2008.
+
+## 세줄요약
+
+후향 증례-대조 (항고혈압약 복용 230명 vs 정상혈압 230명); ImageJ 프랙탈 차원 (Fractal Dimension, FD) 분석, 하악 5개 관심영역 (Region of Interest, ROI); 5개 약물 클래스(베타차단제 (Beta-Blocker, BB), 안지오텐신 전환효소 억제제 (ACE Inhibitor, ACEi), 안지오텐신 수용체 차단제 (Angiotensin Receptor Blocker, ARB), 칼슘채널차단제 (Calcium Channel Blocker, CCB), 치아자이드, 복합) 비교.
+
+전 약물 클래스에서 하악 해면골 FD가 대조군보다 유의하게 높음(p<0.001); 치아자이드는 피질골(ROI 5)에서만 유의 — 약물 클래스별 해면골·피질골 효과 차이 존재.
+
+항고혈압약 복용이 하악골 골밀도를 직접 개선함을 방사선 지표로 최초 입증한 인체 연구 — Wu 2016·Masri 2024의 임상 보호 효과와 Shimizu 2008·Huang 2024의 기전 연구를 잇는 번역 증거.
+
 ## 1. Document Information
 - Journal: Oral Surgery, Oral Medicine, Oral Pathology, Oral Radiology 139(1):111-123
 - Published: 2024-08-31
