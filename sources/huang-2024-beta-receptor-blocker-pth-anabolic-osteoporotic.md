@@ -21,6 +21,22 @@ Animal study (OVX mouse + fracture model): propranolol + PTH combination increas
 ## 한줄요약
 동물연구(난소절제 골다공증 골절 마우스): 프로프라놀올+PTH 병용이 해면골 BV/TV +93%(PTH 단독 +54%), Bmal1/RUNX2 경로로 교감신경 억제 → PTH 골동화 증폭 기전 규명.
 
+## Three-line Summary
+
+Animal study (OVX C57BL/6 mouse with tibia fracture; 4 groups: vehicle, iPTH, propranolol, PTH+propranolol; 4-week treatment); outcomes: μCT (BV/TV, Tb.Th, Tb.N), TRAP staining, calcein double labeling (MAR), ELISA (NE, OCN, CTX-I), and in vitro BMSC experiments with siRNA Bmal1 knockdown.
+
+PTH+propranolol increased trabecular BV/TV by 93% vs vehicle (PTH alone +54%); mechanism: post-fracture sympathetic hyperactivation raises NE → βAR → Bmal1↓ → RUNX2↓ → PTH osteoanabolic effect suppressed; propranolol reverses NE-induced RANKL↑ and RUNX2↓, restoring osteogenesis via the Bmal1/RUNX2 circadian-sympathetic axis.
+
+Identifies Bmal1 as the critical mediator between sympathetic signalling and PTH osteogenesis; suggests β-blocker + PTH combination as a bone regeneration strategy; relevant to implant osseointegration in hypertensive patients where chronic sympathetic tone may suppress bone formation.
+
+## 세줄요약
+
+동물연구(난소절제 C57BL/6 암컷, 경골 골절 모델; vehicle·iPTH·프로프라놀올·PTH+프로프라놀올 4군, 4주); 미세전산화단층촬영 (Micro-CT), ELISA (노르에피네프린 (Norepinephrine, NE)), 생체내 석회화 이중표지, 골수 기질세포 (Bone Marrow Stromal Cell, BMSC) 시험관 실험, Bmal1 소형간섭RNA (siRNA) 녹다운.
+
+PTH+프로프라놀올: 해면골 골부피분율 (Bone Volume/Total Volume, BV/TV) +93%(vehicle 대비) vs PTH 단독 +54%; 골절 후 교감신경 과활성 → NE↑ → β 아드레날린 수용체 (β-Adrenergic Receptor, βAR) → Bmal1(일주기 시계유전자)↓ → 핵심전사인자-2 (RUNX2)↓ → PTH 골동화 억제; 프로프라놀올이 수용체 활성화 NF-κB 리간드 (RANKL)↓·RUNX2↑ 복원.
+
+Bmal1이 교감신경-PTH 골형성 간 중개 분자임을 최초 규명; β차단제+PTH 병용 전략 제안; 만성 교감신경 항진이 있는 고혈압 환자에서 임플란트 골유착 억제 가능성 및 β차단제의 잠재적 보상 기전을 시사.
+
 ## 1. Document Information
 - Journal: Bone Research, 2024
 - DOI: 10.1038/s41413-024-00321-z
