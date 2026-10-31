@@ -18,6 +18,8 @@ relations:
     target: masri-2024-early-implant-failure-antihypertensive-medications
   - type: contradicts
     target: chidiac-2026-antihypertensive-antihyperlipidemic-antidepressant-implant-survival
+  - type: counterpoint
+    target: hamade-2024-hypertension-dental-implants-sr-ma
 ---
 
 ## One-line Summary
