@@ -64,6 +64,8 @@ relations:
     target: garcia-sanchez-2022-immediate-vs-delayed-implant-placement-sr-ma
   - type: contradicts
     target: checchi-2017-wide-diameter-immediate-post-extractive
+  - type: contradicts
+    target: puisys-2022-immediate-implant-placement-vs-early
 ---
 
 ## 한국어 핵심요약
