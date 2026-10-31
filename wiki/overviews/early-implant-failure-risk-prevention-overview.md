@@ -51,6 +51,10 @@ tags: [early-implant-failure, risk-factors, osseointegration, smoking, immediate
 relations:
   - type: contradicts
     target: scoffier-2026-aetiology-of-early-implant-failure
+  - type: contradicts
+    target: grigoras-2024-early-implant-failure-a-meta
+  - type: counterpoint
+    target: seki-2020-antihypertensive-medications-clinical-parameters-anodized
 ---
 
 > [!summary] 한국어 핵심요약
