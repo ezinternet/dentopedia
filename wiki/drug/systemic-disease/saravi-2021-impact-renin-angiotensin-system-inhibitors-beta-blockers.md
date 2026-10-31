@@ -18,6 +18,8 @@ relations:
     target: masri-2024-early-implant-failure-antihypertensive-medications
   - type: extends
     target: hamade-2024-hypertension-dental-implants-sr-ma
+  - type: counterpoint
+    target: seki-2020-antihypertensive-medications-clinical-parameters-anodized
 ---
 
 ## One-line Summary
