@@ -6,7 +6,7 @@ date: 2008-02-06
 doi: "10.1096/fj.07-098954"
 source: shimizu-2008-angiotensin-ii-accelerates-osteoporosis-osteoclasts.md
 category: [bone-biology]
-confidence: animal
+evidence_level: animal
 source_collection: pubmed-abstract
 tags: [angiotensin-II, RANKL, osteoclast, osteoporosis, ARB, olmesartan, RAAS, bone-resorption, AT1-receptor, OVX-model]
 relations:
@@ -21,6 +21,22 @@ Animal + in vitro study: Ang II activates osteoclasts via RANKL induction in ost
 
 ## 한줄요약
 동물+시험관 연구: Ang II가 조골세포에서 RANKL 발현 유도 → 파골세포 (Osteoclast) 활성화 → 골밀도↓; olmesartan (ARB)으로 완전 차단; AT1a 수용체 결핍 마우스는 난소절제 후 골 소실 없음 — 레닌-안지오텐신-알도스테론계 (RAAS)의 골 대사 조절 기초 메커니즘.
+
+## Three-line Summary
+
+Animal and in vitro study (OVX rats with Ang II infusion ±olmesartan; AT1a receptor knockout mice post-OVX+nephrectomy; in vitro osteoblast culture with Ang II ±olmesartan/MEK inhibitors); outcomes: TRAP activity, bone density, urinary deoxypyridinoline, RANKL mRNA expression.
+
+Angiotensin II activated osteoclast formation by inducing RANKL expression in osteoblasts via MEK signalling; olmesartan (ARB) and MEK inhibitors completely blocked this pathway; AT1a−/− mice showed no bone volume decrease after OVX+nephrectomy, whereas wild-type mice had significant bone loss.
+
+Foundational mechanistic evidence establishing the Ang II → AT1 receptor → RANKL → osteoclast cascade as the primary driver of hypertension-related bone loss; directly explains why ARB use reduces fracture risk (Solomon 2011, HR 0.76) and improves implant secondary stability (Saravi 2021, ISQ +3.59) in antihypertensive patients.
+
+## 세줄요약
+
+동물·시험관 연구(난소절제 쥐에 안지오텐신 II (Angiotensin II, Ang II) 주입 ±olmesartan 안지오텐신수용체차단제(ARB); AT1a 수용체 결핍 마우스 난소절제+신절제 모델; 조골세포 배양 ±olmesartan/MEK 억제제); TRAP·골밀도·데옥시피리디놀린·RANKL mRNA 측정.
+
+Ang II가 조골세포에서 MEK 경로로 RANKL 발현 유도 → 파골세포 활성화; olmesartan·MEK 억제제로 완전 차단; AT1a 결핍 마우스는 난소절제 후 골소실 없음(야생형 대비 유의한 골소실).
+
+Ang II → AT1 수용체 → RANKL → 파골세포 경로가 고혈압성 골소실의 기전임을 입증한 기초 연구 — Solomon 2011(ARB HR 0.76)·Saravi 2021(RAAS ISQ +3.59)의 기전적 토대.
 
 ## Summary
 This Osaka University study established the mechanistic link between the renin-angiotensin system and bone resorption. In vitro, Angiotensin II (Ang II) dose-dependently induced RANKL expression in osteoblasts, driving TRAP+ osteoclast formation; olmesartan (ARB) and MEK inhibitors completely blocked both RANKL induction and osteoclastogenesis. In a rat ovariectomy model, Ang II infusion accelerated bone density loss and increased urinary deoxypyridinoline; olmesartan attenuated these effects. AT1a receptor-deficient mice showed no bone volume decrease after OVX + nephrectomy, confirming that AT1 receptor signalling is the required pathway. These findings provide the mechanistic foundation for why RAAS inhibitors (ACEi, ARB) protect bone, directly explaining clinical observations in Saravi 2021 and Solomon 2011.
