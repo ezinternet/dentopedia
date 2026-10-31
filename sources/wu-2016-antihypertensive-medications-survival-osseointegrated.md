@@ -19,6 +19,22 @@ Retrospective cohort (1499 implants/728 patients, McGill): antihypertensive drug
 ## 한줄요약
 후향코호트(1499임플란트/728환자, McGill대): 항고혈압약 복용군 실패율 0.6% vs 비복용 4.1%, HR 0.12(95% CI 0.03–0.49) — 임플란트 생존과 전신약 연관성 최초 입증한 랜드마크 연구.
 
+## Three-line Summary
+
+Retrospective cohort (1499 implants/728 patients, McGill University, Montreal); antihypertensive users (142 patients/327 implants) vs non-users (586 patients/1172 implants); multilevel mixed effects parametric survival analysis with confounder adjustment; drug composition: 54% RAS inhibitors, 18.9% beta-blockers, 5.4% thiazides, 21.6% other.
+
+Antihypertensive drug users had dramatically lower implant failure rate (0.6% vs 4.1%; HR 0.12, 95% CI 0.03–0.49) — landmark protective association established; no subgroup analysis by drug class was performed.
+
+First study to establish a systemic medication as a predictor of implant survival; RAS inhibitor predominance (54%) in the AHT group likely drives the strong HR 0.12; Saravi 2021 and Masri 2024 subsequently confirmed drug-class specificity, and Saravi 2021 identified RAAS inhibition as the active component.
+
+## 세줄요약
+
+후향코호트(McGill대, 몬트리올; 1499임플란트/728환자); 항고혈압약 복용군(142환자/327임플란트) vs 비복용군(586환자/1172임플란트); 다층 혼합효과 모수 생존분석(교란인자 보정); 약물 구성: 레닌-안지오텐신계 (RAS) 억제제 54%, 베타차단제 18.9%, 치아자이드 5.4%, 기타 21.6%.
+
+항고혈압약 복용군: 실패율 0.6% vs 비복용 4.1%, 위험비 (HR) 0.12(95% CI 0.03–0.49) — 강력한 보호 효과; 약물 클래스 하위군 분석 미실시.
+
+전신 약물이 임플란트 생존을 예측한다는 연관성을 최초 보고한 랜드마크 연구; RAS 억제제 비중(54%)이 HR 0.12의 주 동인으로 추정; Saravi 2021·Masri 2024가 클래스 특이성을 이후 확인.
+
 ## 1. Document Information
 - Journal: Clinical Implant Dentistry and Related Research, 2016;18(6):1171-1182
 - DOI: 10.1111/cid.12414
