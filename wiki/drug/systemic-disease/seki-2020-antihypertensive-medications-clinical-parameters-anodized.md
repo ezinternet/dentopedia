@@ -6,7 +6,7 @@ date: 2020-01-01
 doi: "10.1186/s40729-020-00231-9"
 source: seki-2020-antihypertensive-medications-clinical-parameters-anodized.md
 category: [drug/systemic-disease]
-confidence: retrospective
+evidence_level: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/seki-2020-antihypertensive-medications-clinical-parameters-anodized.txt
 pdf_filename: seki-2020-antihypertensive-medications-clinical-parameters-anodized.txt
 source_collection: pubmed-text
@@ -25,6 +25,22 @@ Retrospective cohort (77 anodized implants/35 patients, 7-year follow-up): antih
 
 ## 한줄요약
 후향코호트(77개 양극산화 임플란트/35환자, 7년): 항고혈압약 복용군에서 치주염 주위염 (Peri-implantitis) 유의하게 증가(26.5% vs 4.7%, OR 7.38); 임플란트 손실은 양군 없음 — 생존 보호 ≠ 조직 건강.
+
+## Three-line Summary
+
+Retrospective cohort (n=77 TiUnite anodized implants/35 patients, mean 84.8 months follow-up, Nihon University); antihypertensive users (13 patients/34 implants; CCB, ARB, thiazide) vs normotensives (22 patients/43 implants); peri-implantitis defined as PPD ≥6 mm + BoP/suppuration + bone resorption ≥25%; logistic regression performed.
+
+Peri-implantitis significantly higher in AHT group (26.5% vs 4.7% implant-level, OR 7.38; multivariate OR 12.90); mean PPD higher (3.8 vs 3.0 mm); no implant loss in either group at 7 years.
+
+Antihypertensive medications protect implant survival while simultaneously elevating peri-implantitis risk — likely via CCB-induced gingival hyperplasia or immune modulation; demonstrates that survival and peri-implant tissue health are independent endpoints that cannot be conflated in the evaluation of AHT patients.
+
+## 세줄요약
+
+후향코호트(TiUnite 양극산화 임플란트 77개/35환자, 평균 84.8개월, 일본대학); 항고혈압약(CCB·ARB·치아자이드) 복용 13환자/34임플란트 vs 정상혈압 22환자/43임플란트; 치주임플란트염(Peri-implantitis) = PPD ≥6 mm + BoP/화농 + 골소실 ≥25%; 로지스틱 회귀분석.
+
+치주임플란트염 임플란트 수준 26.5% vs 4.7%(OR 7.38; 다변량 OR 12.90), 평균 PPD 3.8 vs 3.0 mm; 양군 모두 7년간 임플란트 손실 없음.
+
+항고혈압약이 임플란트 생존은 보호하면서 치주임플란트염 위험은 높이는 역설적 분리 — CCB 유발 치은비대 또는 면역조절 가능성; 고혈압 환자 임플란트 평가에서 생존율과 조직 건강을 구분해야 함.
 
 ## Summary
 This Japanese retrospective cohort (Nihon University, 2003–2018) examined peri-implant tissue health in 35 patients (77 TiUnite anodized implants) over a mean follow-up of 7 years. Despite zero implant loss in both groups, antihypertensive medication users had significantly higher peri-implantitis rates (26.5% vs 4.7%, OR 7.38) and greater probing pocket depth. Multivariate logistic regression identified antihypertensive medication as the only significant independent predictor of peri-implantitis (OR 12.90). This stands in counterpoint to studies showing improved implant survival with antihypertensives: it distinguishes implant survival from implant success.
