@@ -19,6 +19,22 @@ Animal study (SHR rat, orthodontic tooth movement model): β1, β2, and non-sele
 ## 한줄요약
 동물연구(SHR 쥐, 치아이동 모델): β1, β2, 비선택 β-AR 차단제 모두 치아이동 억제, 치조골량↑, 골세포 RANKL·SOST↓ — 교감신경→치조골 대사 조절 기전 치과적 실증.
 
+## Three-line Summary
+
+Animal study using spontaneously hypertensive rats (SHR) with an orthodontic tooth movement model; four groups tested (SHR control, atenolol β1-blocker, butoxamine β2-blocker, propranolol non-selective β-blocker, n=6/group); outcomes: tooth movement distance, alveolar bone volume, RANKL and sclerostin immunohistochemistry (IHC) in osteocytes at the pressure side.
+
+All three β-AR blocker types inhibited tooth movement, increased alveolar bone volume, and decreased RANKL+ and sclerostin+ osteocyte counts at the pressure side; no statistically significant inter-drug differences reported in the abstract.
+
+First dental-context evidence that β-adrenergic receptor blockade modulates alveolar bone metabolism via RANKL↓ and SOST↓ in osteocytes; directly supports the sympathetic→alveolar bone regulatory axis relevant to implant osseointegration in hypertensive patients (Saravi 2021 BB null result may reflect insufficient power rather than lack of mechanism).
+
+## 세줄요약
+
+자발성 고혈압 쥐 (Spontaneously Hypertensive Rat, SHR) 교정 치아이동 모델 동물연구; 4군(SHR 대조, atenolol β1차단제, butoxamine β2차단제, propranolol 비선택 β차단제, n=6/군); 치아이동 거리·치조골량·골세포 수용체 활성화 NF-κB 리간드 (RANKL)·스클레로스틴 (Sclerostin, SOST) 면역조직화학 (Immunohistochemistry, IHC) 측정.
+
+3종 β 아드레날린 수용체 (β-Adrenergic Receptor, β-AR) 차단제 모두 치아이동 억제, 치조골량↑, 골세포 RANKL+·SOST+ 세포 수↓; 약물 간 유의한 차이 보고 없음(초록 기반).
+
+치과 맥락에서 β-AR 차단이 RANKL↓·SOST↓을 통해 치조골을 보호함을 최초 직접 실증 — Huang 2024(Bmal1/RUNX2 경로)의 치과적 선행 근거; 고혈압 환자 β차단제의 임플란트 골유착 기전에 직접 연결됨(Saravi 2021 β차단제 무효 결과는 검정력 부족일 가능성 시사).
+
 ## 1. Document Information
 - Journal: Oral Diseases, 2020;26(3):621-629
 - DOI: 10.1111/odi.13280
