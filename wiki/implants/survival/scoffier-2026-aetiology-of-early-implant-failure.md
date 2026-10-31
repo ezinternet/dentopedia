@@ -19,6 +19,8 @@ relations:
     target: grigoras-2024-early-implant-failure-a-meta
   - type: contrasts
     target: yari-2023-risk-factors-early-implant-failure
+  - type: contradicts
+    target: chrcanovic-2016-factors-influencing-early-dental-implant
 ---
 
 abstract-only — full text not retrieved (no PMC record; PMC body absent, content built from the PubMed abstract).
