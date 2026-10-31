@@ -6,7 +6,7 @@ date: 2011-07-01
 doi: "10.1002/jbmr.356"
 source: solomon-2011-fracture-risk-antihypertensive-medications.md
 category: [drug/systemic-disease]
-confidence: retrospective
+evidence_level: retrospective
 source_collection: pubmed-abstract
 tags: [antihypertensive, fracture-risk, ARB, thiazide, bone-density, Medicare, cohort, CCB, loop-diuretic, beta-blocker, ACEi]
 relations:
@@ -19,6 +19,22 @@ Retrospective cohort (n=376,061 Medicare hypertension patients): ARB (HR 0.76, 9
 
 ## 한줄요약
 후향적 코호트 (n=376,061 Medicare 수혜자): ARB (HR 0.76)과 치아자이드 (HR 0.85)가 칼슘채널차단제 (Calcium Channel Blocker, CCB) 대비 골절 위험을 유의하게 감소 — 약물 클래스별 골 보호 효과의 가장 큰 n 인간 근거.
+
+## Three-line Summary
+
+Retrospective cohort of 376,061 Medicare beneficiaries with hypertension beginning single-drug antihypertensive therapy; adjusted Cox proportional hazards regression with CCB as reference group; osteoporotic fracture events captured via healthcare utilisation claims; overall fracture rate 35.2/1000 person-years.
+
+ARB significantly reduced fracture risk vs CCB (HR 0.76, 95% CI 0.68–0.86); thiazide diuretics also protective (HR 0.85, 95% CI 0.76–0.97); loop diuretics had the highest fracture rate (49.0/1000 person-years); beta-blockers and ACEi showed no significant difference from CCB.
+
+Largest human cohort confirming drug-class specificity of antihypertensive bone effects — ARB and thiazide protective, loop diuretics harmful; aligns with Saravi 2021 (RAAS protective, BB null) and Shimizu 2008 (ARB mechanistic basis); informs implant patient risk stratification by drug class.
+
+## 세줄요약
+
+Medicare 수혜자 후향코호트(n=376,061); CCB 기준군 보정 콕스 비례위험 회귀분석; 의료비 청구 데이터 골다공증 골절 포착; 전체 골절률 35.2/1000인·년.
+
+ARB: HR 0.76(95% CI 0.68–0.86, 유의); 치아자이드: HR 0.85(95% CI 0.76–0.97, 유의); 루프이뇨제: 최고 골절률(49.0/1000인·년); 베타차단제·ACEi: 유의한 차이 없음.
+
+최대 규모 인체 코호트에서 항고혈압약 클래스별 골 보호 이질성 확인 — ARB·치아자이드 보호, 루프이뇨제 해로움; Saravi 2021(RAAS 보호·BB 무효)·Shimizu 2008(ARB 기전)과 일치하며 고혈압 임플란트 환자 위험 계층화에 적용 가능.
 
 ## Summary
 This large retrospective cohort study from Brigham and Women's Hospital examined fracture risk across all antihypertensive drug classes using Medicare claims data. The analysis of 376,061 patients newly starting single-drug antihypertensive therapy found significant differential fracture risk by drug class. Using CCB as the reference, ARB users had 24% lower fracture risk (HR 0.76) and thiazide diuretic users had 15% lower risk (HR 0.85). Loop diuretics carried the highest fracture rate (49.0/1000 person-years), while thiazides had the lowest (28.5/1000). BB and ACEi showed no significant difference from CCB. These findings provide large-scale epidemiological support for class-specific bone effects of antihypertensive drugs.
