@@ -5247,6 +5247,8 @@ tags: []
 
 ### bone-regeneration/ridge-preservation
 - [[bone-regeneration/ridge-preservation/jung-2013-radiographic-evaluation-different-techniques-ridge]] — Jung 2013 · rct (4군, n=40) · DBBM-C(CM/PG 피개)가 자연치유·코팅 β-TCP 대비 치조제 수축 현저히 감소(crest 1mm 하방 폭 −1.2/−1.4mm vs −3.3/−6.1mm); CM≈PG(p>0.05)
+- [[bone-regeneration/ridge-preservation/cecchinato-2026-biomaterial-used-to-counteract-ridge]] — Cecchinato 2026 · rct · 다중기관 RCT (n=42, 4개 이탈리아 전문의 원, 6개월): 인접 2개 발치 후 DBBM-C + 흡수성 차폐막으로 수평 폭 감소 57.7%→23.0%, 협측 수직 감소 −3.0→−1.5mm (모두 p<0.001). STL e-model 계측, 조직학 없음. (DOI 10.1002/jper.70084)
+- [[bone-regeneration/ridge-preservation/lam-2024-alveolar-ridge-preservation-in-posterior]] — Lam 2024 · rct · 파일럿 RCT (n=28, 호주, 4개월): 상악 후방 발치 후 DBBM 입자 또는 DBBM-C 블록 ARP가 상악동 공기화 억제(+3.9%→−3.7%, p=0.03) + 측방 상악동 거상 필요 89%→42%; 두 DBBM 제형 간 차이 없음 — 예방적 치조제 보존술로 상악동 수술 회피 첫 RCT 근거. (DOI 10.1111/clr.14344)
 
 ### drug/antibiotics
 - [[drug/antibiotics/edibam-2023-self-reported-allergy-penicillin-clindamycin]] — 자가보고 페니실린 알레르기→클린다마이신 대체가 임플란트 실패를 3.3배 높임을 최초 메타분석으로 정량화(후향 코호트 4편·10,853개; OR 3.30, 95% CI 2.58–4.22, p<.00001; 누적 실패율 11.0% vs 3.8%) + 위험군별 페니실린 알레르기 라벨 해제(Delabeling) 프로토콜 제안
