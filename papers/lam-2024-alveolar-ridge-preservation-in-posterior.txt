@@ -1,0 +1,22 @@
+Lam L, Ivanovski S, Lee RSB.
+Alveolar ridge preservation in posterior maxillary teeth for reduction in the potential need for sinus floor elevation procedures: A pilot study.
+Clin Oral Implants Res. 2024;35(12):1568-1584.
+DOI: 10.1111/clr.14344
+PMID: 39165113
+PMC: PMC11629457
+
+ABSTRACT
+Objectives: To evaluate whether alveolar ridge preservation (ARP) in posterior maxillary sites reduces pneumatization of the maxillary sinus and the potential need for sinus floor elevation (SFE) procedures prior to implant placement.
+
+Methods: Randomized controlled pilot study. Twenty-eight patients with posterior maxillary extractions were randomized to three groups: Control (unassisted healing), Test 1 (DBBM granules 1-2mm, Bio-Oss, Geistlich), Test 2 (DBBM-C block, Bio-Oss Collagen, Geistlich). Sites were covered with collagen membrane in the Test groups. Follow-up at 4 months using cone-beam CT and 3D volumetric analysis.
+
+Results:
+- Mid-ridge height change: Control -2.7±0.9mm (-39.7%) vs Test 1 +0.9mm vs Test 2 +1.0mm
+- Sinus volume change: Control +3.9% vs Test 1 -3.7% (p=0.03 vs Control)
+- Residual bone height (RBH) for implant placement: Control 7.9mm vs Test 1 10.4mm vs Test 2 10.3mm
+- Lateral SFE needed (RBH <8mm): Control 89%, Test 1 42.8%, Test 2 40%
+- Both DBBM formulations (granules vs collagen block) performed similarly; neither showed statistically significant difference from each other.
+
+Limitations: Pilot study with small n (28 patients, ~9-10 per group). 4-month follow-up only. Australian multicenter setting (2 university clinics + 1 private practice). No histological confirmation of graft incorporation. Primary outcome was dimensional change, not implant outcomes.
+
+Conclusions: ARP using DBBM (granules or collagen block) in posterior maxillary extraction sites prevents alveolar ridge height loss, significantly reduces sinus pneumatization, and reduces the need for lateral sinus floor elevation from 89% to ~42%. This is the first prospective study using 3D volumetric sinus analysis to quantify ARP's effect on sinus pneumatization prevention.
