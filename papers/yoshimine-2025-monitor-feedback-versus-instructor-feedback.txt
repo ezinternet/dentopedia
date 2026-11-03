@@ -1,0 +1,399 @@
+Background
+
+Basic life support (BLS) is widely used by the general population [,]. Automated external defibrillators have been installed in many public and commercial facilities to ensure that lifesaving measures can be delivered immediately during medical emergencies. However, the prognosis of cardiac arrest remains poor []. Therefore, it is desirable to expand training opportunities and train personnel to provide high-quality BLS. Dental treatment involves medical procedures that can cause systemic complications because of fluctuations in autonomic nervous system activity due to pain, anxiety, and tension [–].
+
+Furthermore, in today’s aging population, the incidence of cardiac arrest during dental treatment is predicted to increase as more patients have preexisting cardiovascular conditions [,]. Dentists, as healthcare professionals, are responsible for providing appropriate primary life support (BLS) by the time emergency medical services arrive. It is important to improve the quality of education and expand training opportunities for primary life support during the student years in dental schools to improve patient survival rates.
+
+Primary life support practices for dental students have traditionally been conducted face-to-face; however, face-to-face practice has become problematic during the recent coronavirus disease (COVID-19) pandemic caused by the novel coronavirus. In Japan, the disease spread after it was first reported in January 2020, and dental students were affected by educational changes that forced significant restrictions on student life until the disease was designated as category 5 in May 2023. While face-to-face practical training was restricted because of infection control measures, the pandemic also contributed to the development of a self-study environment for students, including the dissemination of online tools and the enhancement of simulation education [].
+
+This self-study environment would consequently solve the problem of lack of instructors and training opportunities [,]. However, maintaining high-quality cardiopulmonary resuscitation (CPR) in a self-study environment without an instructor is challenging.
+
+The quality of CPR is determined by four factors: depth and rate of chest compressions (CC), appropriate CC fraction (CCF), and avoidance of hyperventilation [,]. Previous reports have documented improvements in the quality of CPR performed by the general public and medical students through training in which they received instructor feedback from an instructor and simultaneous monitor feedback through a monitor attached to a simulator [,–]. However, the instructional methods that may effectively improve each of these four assessment components, which would help establish more effective training methods among dental students despite a limited number of instructors, remain undetermined. Therefore, in this study, we aimed to investigate how monitor feedback using a CPR simulator and monitoring equipment without instructor intervention and instructor feedback with instructor intervention affect the quality of BLS training for dental students and to examine an effective self-study training method.
+
+Methods
+
+This study was approved by the Ethics Committee of Kagoshima University Hospital (approval number: 220337). Informed consent was obtained from all participants. This study followed the Declaration of Helsinki on medical protocol and ethics. Forty dental students were included in this study. Students with upper-extremity injuries were excluded from the study. The students were randomly assigned to either the simultaneous monitor feedback group using a computer-generated number and assignment table. The groups involved observation of a monitor attached to the simulator without the intervention of an instructor or the instructor feedback group, which involved a conventional instructor intervention.
+
+First, a classroom lecture on BLS was given, during which the instructor demonstrated a series of steps. After the lecture, all participants were given a pretest lasting 2 min to assess their technical skills in CPR before training. The monitoring equipment used was the Saveman-Standard (KOKEN, Tokyo, Japan). BLS consists of CPR and artificial respiration provided by a bag-valve mask. After the pretest, the students were divided into monitor feedback and instructor feedback groups, each trained for 5 min. The students in the monitor feedback group were trained independently while watching the Saveman-Standard assessment monitor, and the instructor did not intervene. In the instructor feedback group, the instructor monitored the Saveman-Standard and provided interventional guidance as required. The instructor was a BLS healthcare provider. During this time, students could not see the monitor.
+
+After training, a post-test was administered using the same method as in the pretest. Adequate breaks were provided between the sessions to prevent student fatigue. The Saveman-Standard evaluation criteria were based on the American Heart Association criteria []. CC depth refers to the depth at which the sternum is compressed during CPR. For adults, a CC depth of 5–6 cm is considered optimal. In this study, the rate of achieving a CC depth of 5–6 cm was assessed. CC rate refers to the rhythm of compression, and the optimal CC rate in adults is 100–120 bpm. In this study, we measured the rate of achievement of CC between 100 and 120 bpm during the measurement period. CCF refers to the fraction of CC time out of the total CC time, ventilatory time, and AED use time and helps evaluate whether uninterrupted CCs are being performed. The ideal CCF should be 80% or higher. Masked ventilation with a bag-valve-mask was measured as the percentage of times the single ventilation volume was between 300 and 500 mL during the measurement time. To determine the appropriate sternal compression position, the compression position was classified into five positions (center, top, bottom, left, and right), and the percentage of compression delivered at the center of the sternum was analyzed.
+
+Statistical analysis
+
+The required sample size was calculated through a power analysis (α = 0.05, β = 0.2, d = 1SD) using G Power []. As the required sample size was 17 in each group, the number of participants was set to 40 to account for potential dropouts. The Mann–Whitney U test was used as a non-parametric alternative due to sample size considerations. The Mann–Whitney U, χ2, and Wilcoxon signed-rank tests were used. Statistical significance was set at< 0.05. Statistical analyses were performed using GraphPad Prism 6 (GraphPad Software, San Diego, CA, USA).
+
+Results
+
+The study included 34 participants (17 per group), after excluding those lost to attrition (Fig.). The participants showed no significant group differences in terms of age, sex, height, or weight (Table).
+
+Fig. 1
+
+Study design
+
+Table 1
+
+Participant characteristics
+
+Monitor feedback group
+
+Instructor feedback group
+
+value
+
+Male/female
+
+7/10
+
+6/11
+
+0.72
+
+Age (years)
+
+23.47 ± 0.87
+
+23.71 ± 1.05
+
+0.54
+
+Height (cm)
+
+163.65 ± 7.62
+
+163.85 ± 9.71
+
+0.85
+
+Weight (kg)
+
+60.94 ± 14.65
+
+58 ± 12.36
+
+0.56
+
+BMI (kg/m)
+
+22.63 ± 4.65
+
+21.46 ± 0.76
+
+0.59
+
+BMI, body mass index
+
+Data are presented as the mean ± standard deviation
+
+The results of the evaluation tests are shown in Tablesand, and.
+
+Table 2
+
+Pretraining parameters in the monitor feedback and instructor feedback groups
+
+Monitor feedback group
+
+Instructor feedback group
+
+value
+
+CC depth
+
+Percentage within the evaluation criteria (%)
+
+22.59 ± 8.32
+
+31.65 ± 9.03
+
+0.99
+
+CC recoil
+
+Percentage within the evaluation criteria (%)
+
+96.82 ± 2.64
+
+82.18 ± 8.33
+
+0.11
+
+CC rate
+
+Percentage within the evaluation criteria (%)
+
+38.06 ± 9.34
+
+37.52 ± 8.92
+
+0.97
+
+CC fraction
+
+Percentage within the evaluation criteria (%)
+
+90.18 ± 3.39
+
+82.06 ± 7.98
+
+0.9
+
+Ventilation volume assessment
+
+Percentage within the evaluation criteria (%)
+
+47.53 ± 5.26
+
+46.06 ± 6.17
+
+0.7
+
+Compression position (center)
+
+Percentage within the evaluation criteria (%)
+
+36.24 ± 9.3
+
+36.82 ± 8.95
+
+0.97
+
+CC, chest compression
+
+Data are presented as mean ± standard error of the mean
+
+Table 3
+
+Post-training parameters in the monitor feedback and instructor feedback groups
+
+Monitor feedback group
+
+Instructor feedback group
+
+CC depth
+
+Percentage within the evaluation criteria (%)
+
+68.35 ± 6.31
+
+48.76 ± 9.57
+
+CC recoil
+
+Percentage within the evaluation criteria (%)
+
+97.26 ± 1.66
+
+78.47 ± 9.14
+
+CC rate
+
+Percentage within the evaluation criteria (%)
+
+52.18 ± 8.19
+
+58 ± 8.99
+
+CC fraction
+
+Percentage within the evaluation criteria (%)
+
+83.24 ± 5.60
+
+70.65 ± 8.79
+
+Ventilation volume assessment
+
+Percentage within the evaluation criteria (%)
+
+42.88 ± 5.52
+
+46.41 ± 8.48
+
+Compression position (center)
+
+Percentage within the evaluation criteria (%)
+
+64.35 ± 6.78
+
+63.53 ± 8.56
+
+CC, chest compression
+
+Data are presented as mean ± standard error of the mean
+
+Table 4A
+
+Pre- and post-training parameters in the monitor feedback group
+
+Monitor feedback group
+
+Pretraining
+
+Post-training
+
+value
+
+CC depth
+
+Percentage within the evaluation criteria (%)
+
+22.59 ± 8.32
+
+68.35 ± 6.31
+
+0.001
+
+CC recoil
+
+Percentage within the evaluation criteria (%)
+
+96.82 ± 2.64
+
+97.26 ± 1.66
+
+0.31
+
+CC rate
+
+Percentage within the evaluation criteria (%)
+
+38.06 ± 9.34
+
+52.18 ± 8.19
+
+0.44
+
+CC fraction
+
+Percentage within the evaluation criteria (%)
+
+90.18 ± 3.39
+
+83.24 ± 5.6
+
+0.1
+
+Ventilation volume assessment
+
+Percentage within the evaluation criteria (%)
+
+47.53 ± 5.26
+
+42.88 ± 5.52
+
+0.49
+
+Compression position (center)
+
+Percentage within the evaluation criteria (%)
+
+36.24 ± 9.3
+
+64.35 ± 6.78
+
+0.02
+
+CC, chest compression
+
+Data are presented as mean ± standard error of the mean
+
+Table 4B
+
+Pre- and post-training parameters in the instructor feedback group
+
+Instructor feedback group
+
+Pretraining
+
+Post-training
+
+value
+
+CC depth
+
+Percentage within the evaluation criteria (%)
+
+31.65 ± 9.03
+
+48.76 ± 9.57
+
+0.064
+
+CC recoil
+
+Percentage within the evaluation criteria (%)
+
+82.18 ± 8.33
+
+78.47 ± 9.14
+
+0.45
+
+CC rate
+
+Percentage within the evaluation criteria (%)
+
+37.52 ± 8.92
+
+58 ± 8.99
+
+0.04
+
+CC fraction
+
+Percentage within the evaluation criteria (%)
+
+82.06 ± 7.98
+
+70.65 ± 8.79
+
+0.008
+
+Ventilation volume assessment
+
+Percentage within the evaluation criteria (%)
+
+46.06 ± 6.17
+
+46.41 ± 8.48
+
+0.86
+
+Compression position (center)
+
+Percentage within the evaluation criteria (%)
+
+36.82 ± 8.95
+
+63.53 ± 8.56
+
+0.003
+
+CC, chest compression
+
+Data are presented as mean ± standard error of the mean
+
+There were no significant differences between the two groups pertaining to the pretest CC depth, CC recoil, CC rate, CC fraction, ventilation volume assessment, and compression position (center) (Table).
+
+The CC depth in the post-test was significantly improved (< 0.05) compared with that in the pretest in the monitor feedback group but not in the instructor feedback group (= 0.064, see Fig.; Table). Meanwhile, the CC rate showed a significant improvement in the instructor feedback group (< 0.05) but not in the monitor feedback group (= 0.44, Fig.; Table). The percentage of compressions delivered at the center of the sternum was significantly improved in both groups (< 0.05). No significant changes were observed in either group for the other measures.
+
+Fig. 2
+
+CPR assessment quality results.) CC depth assessment in the monitor feedback group (*< 0.05).) CC depth assessment in the instructor feedback group.) CC recoil assessment in the monitor feedback group.) CC recoil assessment in the instructor feedback group.) CC rate assessment in the monitor feedback group.) CC rate assessment in the instructor feedback group (*< 0.05).) CCF in the monitor feedback group.) CCF in the instructor feedback group.) Ventilation volume assessment in the monitor feedback group.) Ventilation volume assessment in the instructor feedback group.) Compression position (center) assessment in the monitor feedback group (*< 0.05).) Compression position (center) assessment in the instructor feedback group (*< 0.05). The data are expressed as mean ± SEM. Abbreviations: CC, chest compression; CCF, chest compression fraction; CPR, cardiopulmonary resuscitation; SEM, standard error of the mean
+
+Discussion
+
+This study evaluated the improvement in CPR quality after training compared to before in a monitor feedback group without instructor intervention and an instructor feedback group with instructor intervention. Previous research has examined the effectiveness of instructor-led training combined with self-learning through monitoring [,–]. However, the effectiveness of each type of instruction is unclear. During infectious disease outbreaks, it is necessary to reduce human contact and create an environment that enables high-quality self-study even in the absence of instructors. If appropriate instructional methods are identified for each assessment item, more effective instructions while promoting infection control may be possible. Therefore, in this study, we investigated the effects of monitor feedback and instructor feedback instruction on each assessment item of BLS training.
+
+In this study, a significant improvement in CC depth was observed in the monitor feedback group, whereas no significant changes were observed in the instructor feedback group. This finding suggests that objective feedback from monitors may be more beneficial than verbal instruction from instructors for enhancing BLS quality. Previous studies have reported no significant differences in CC depth; however, they evaluated the results after training and did not examine pretraining evaluations, limiting their ability to examine pre- and post-training changes [,]. Moreover, some reports have examined pre- and post-training changes, although all scenarios involved instructor interventions. Our study examined the extent to which different feedback methods improved pre- and post-training performance, thereby providing new insights into improvements in CC depth.
+
+In contrast, a significant improvement in CC rate was observed in the instructor feedback group, although no significant changes were observed in the monitor feedback group. Although instructor feedback was provided as “faster” or “slower” when deviating from the reference range, we inferred from the results of this study that speed may be affected by the instructor’s teaching method in the instructor feedback group. Conversely, the monitors in the monitor feedback group could not produce sound, and the CC rate was displayed only as digital numerical information. The results suggest that understanding the CC rate through a numerical display while performing CC may be challenging, and instructor feedback may be helpful in understanding the optimum rate. Monitor information processing is more sensitive to spatial information than temporal information, whereas instructor information processing is more sensitive to temporal than spatial information []. Therefore, monitor feedback was considered appropriate for CC depth, which is spatial information, whereas instructor feedback was appropriate for rhythm, which is temporal information. There was no change in the CC recoil or CC position in either group. This finding is consistent with the findings of previous studies that reported no change in face-to-face training, online training, or training using feedback devices [,].
+
+Based on the above findings, it is important to implement a training program that provides monitor feedback for CC depth and instructor feedback for the CC rate to improve the effectiveness of independent training. Applying the results of this study will provide high-quality primary lifesaving training under infection control measures, even in the event of a new infectious disease outbreak, by providing monitor feedback to trainees while they receive remote instructions from their trainers.
+
+Limitations
+
+This study has three limitations. First, the training time was as short as 5 min. Limited training time may not reflect long-term retention of BLS skills. Second, this study did not evaluate the effects of long-term training. Further studies are required to assess the impact of long-term training. This study did not evaluate retention of skills over weeks or months. Further research is needed to evaluate the effects of long-term training. Third, the instructor’s feedback style could have influenced student performance, introducing variability. These limitations may impact the generalizability of the findings.
+
+Conclusion
+
+To establish more effective self-study BLS training methods, training programs should provide monitor feedback for CC depth and instructor feedback on the CC rate. Different feedback types influence specific aspects of CPR and that further validation is required.
