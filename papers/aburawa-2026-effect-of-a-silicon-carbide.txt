@@ -1,0 +1,66 @@
+Effect of a silicon carbide bur on shear bond strength between resin cement and zirconia
+
+Authors: Aburawa et al.
+Journal: Biomater Investig Dent. 2026;13:46767
+PMID: 42668905
+PMC: PMC13525429
+DOI: 10.2340/biid.v13.46767
+
+ABSTRACT
+
+Purpose: This in-vitro pilot study aimed to investigate the effect of a silicon carbide grinding bur on the shear bond strength (SBS) between zirconia and 10-MDP-containing cement.
+
+Materials and methods: Thirty zirconia specimens were prepared from Copra Supreme Symphony zirconia (4Y-PSZ, Whitepeaks Dental Solutions) and randomly assigned to three groups: airborne-particle abrasion (APA) with 110-μm aluminum oxide particles, treatment with a silicon carbide grinding bur (SiC bur, Cimara, VOCO GmbH), and APA followed by SiC bur treatment (APA + SiC bur). All specimens were bonded with PANAVIA V5 adhesive resin cement (Kuraray), aged with 5,000 thermocycles (5-55°C), and subjected to SBS test. Statistical analysis: one-way ANOVA and Tukey's post hoc (α=0.05). Fracture modes assessed by digital microscopy at ×35.
+
+Results: APA: 37.00 MPa (min 32.70, max 41.10). SiC bur: 20.77 MPa (min 9.98, max 24.75). APA + SiC bur: 24.86 MPa (min 18.28, max 33.56). APA group showed significantly higher SBS than SiC bur and APA + SiC bur groups (p<0.001). APA + SiC bur showed higher mean than SiC bur alone but difference not statistically significant (p>0.05). All groups showed mixed fracture modes (10-90% residual cement coverage). No visible cracks in zirconia at ×35.
+
+Conclusion: Silicon carbide bur treatment did not have a beneficial effect on SBS after 5,000 thermocycles. APA resulted in significantly higher SBS than SiC bur treatment alone or APA followed by SiC bur treatment.
+
+Clinical relevance: Under the tested conditions, the silicon carbide bur cannot be recommended as an alternative or adjunct to APA for improving zirconia-resin cement bonding.
+
+KEY MESSAGES
+
+1. APA resulted in higher SBS after 5,000 thermocycles than SiC bur treatment alone or sequential APA + SiC bur treatment
+2. SiC bur did not provide a beneficial effect and cannot be recommended as an alternative or adjunct to APA
+3. Untreated zirconia was not included; the effect of SiC bur relative to no surface treatment could not be determined
+
+INTRODUCTION AND METHODS
+
+Zirconia lacks a glass phase and has a crystalline structure that impairs bonding. APA with aluminum oxide particles is the most commonly used and effective surface treatment for zirconia, increasing surface roughness and surface energy. A notable drawback is microdefects formation at restoration margins.
+
+The VOCO Cimara Repair System includes a silicon carbide bur (SiC Grinding Bur, REF 1201). In a previous multi-system comparison, VOCO produced unexpectedly high SBS. This study isolated the SiC bur contribution.
+
+- Materials: Copra Supreme Symphony zirconia (4Y-PSZ, ~4 mol% yttria), monolithic, milled + sintered at 1630°C/120 min
+- Groups: n=10 per group
+  - APA: 110-μm Al₂O₃, 2 bar, 10 mm, 10 s, perpendicular
+  - SiC bur: Cimara SiC Grinding Bur, 7,000 rpm, dry, 10 strokes
+  - APA + SiC bur: APA first, then SiC
+- Cementation: Clearfil Ceramic Primer Plus + PANAVIA V5 (MDP-containing)
+- Aging: 5,000 thermocycles, 5±2°C to 55±2°C
+- Testing: SBS, Instron 4465, 1 mm/min, knife-edge blade
+
+RESULTS
+
+| Group | n | Mean SBS (MPa) | Min | Max |
+|-------|---|----------------|-----|-----|
+| APA | 10 | 37.00 | 32.70 | 41.10 |
+| SiC bur | 10 | 20.77 | 9.98 | 24.75 |
+| APA + SiC bur | 10 | 24.86 | 18.28 | 33.56 |
+
+APA vs SiC bur: p<0.001
+APA vs APA+SiC: p<0.001
+SiC bur vs APA+SiC: p>0.05 (not significant)
+Overall effect: η²=0.762, ω²=0.737 (large effect)
+All groups: mixed failure mode (10-90% cement remnants)
+
+LIMITATIONS
+
+- No untreated control group (cannot assess SiC vs no treatment)
+- Small pilot sample (n=10 per group)
+- Zirconia-zirconia assembly (not tooth-zirconia configuration)
+- Cement layer thickness not measured
+- Surface roughness not quantified
+
+DISCUSSION
+
+SiC bur treatment may provide adequate short-term bond strength in some repair protocols but less durable after aging (Libecki et al. found SiC group declined significantly after 150 days/37,500 thermocycles while APA maintained). Current results are post-aging and show APA superiority. Sequential APA + SiC numerically higher than SiC alone but significantly lower than APA alone — SiC may alter APA-created topography unfavorably.
