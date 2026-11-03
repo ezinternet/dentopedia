@@ -1,0 +1,55 @@
+Title: Etiological Factors of Molar Incisor Hypomineralization: A Systematic Review and Meta-Analysis
+Authors: Juárez-López MLA, Hernández-Montiel BM, Torres-Ventura LSV, Jiménez-Alfaro MLAJ
+Journal: Dentistry Journal (MDPI)
+Year: 2023
+DOI: 10.3390/dj11050111
+PMID: 37232762
+PMC: PMC10217283
+PROSPERO: CRD42022348603
+
+ABSTRACT
+Molar incisor hypomineralization (MIH) is a defect of the dental enamel that predominantly affects first molars and permanent incisors. Identifying the significant risk factors associated with MIH occurrence is essential for the implementation of prevention strategies. The purpose of this systematic review was to determine the etiological factors associated with MIH. A literature search was carried out from six databases until 2022; it covered pre-, peri-, and postnatal etiological factors. The PECOS strategy, PRISMA criteria, and the Newcastle-Ottawa scale were used, and 40 publications were selected for qualitative analysis as well as 25 for meta-analysis. Our results revealed an association between a history of illness during pregnancy (OR 4.03, 95% CI 1.33-12.16, p=0.01) and low weight at birth (OR 1.23, 95% CI 1.10-1.38, p=0.0005). Furthermore, general illness in childhood (OR 4.06, 95% CI 2.03-8.11, p=0.0001), antibiotic use (OR 1.76, 95% CI 1.31-2.37, p=0.0002), and high fever during early childhood (OR 1.48, 95% CI 1.18-1.84, p=0.0005) were associated with MIH. In conclusion, the etiology of MIH was found to be multifactorial.
+
+FULL TEXT
+
+1. Introduction
+
+Molar incisor hypomineralization (MIH) is a qualitative developmental defect of the dental enamel that affects one or more of the permanent first molars and, occasionally, the incisors of the same dentition. Clinically, it is characterized by marked opacities that vary in hue from whitish to yellow/brown. Their degrees of severity are distributed asymmetrically, and due to the fragility of the affected areas, fractures can occur once they are exposed to the forces of mastication. The criteria for MIH diagnosis were initially described by the European Academy of Pediatric Dentistry, and, subsequently, modifications were proposed based on the disease severity in order to include other dental groups. MIH injuries can occur following the dental eruption of the first molars and permanent incisors. In addition, a predictive factor for MIH can be the presence of hypomineralized second primary molars. However, there have been reports of cases where the absence of this defect in the deciduous dentition was unable to rule out future MIH occurrence. Furthermore, the probability of the second primary molars, permanent canines, and premolars showing signs of enamel hypomineralization increases when the molars and incisors are affected.
+
+The prevalence of MIH was estimated to be 13.5%, while moderate-to-severe cases of MIH were estimated at 36.3%. Dental care for MIH is complex because of disorders in the morphology and structure of the enamel prisms. Additionally, due to the considerable porosity and fragility resulting from this condition, sufferers have a great susceptibility to caries and hypersensitivity. This hypersensitivity is caused by an inflammatory reaction of the pulp that causes changes in the sensory neurons where, even with local anesthesia, the teeth present discomfort to cold or painful stimuli during dental treatment. This discomfort could alter the behavior of pediatric patients. Additionally, the adhesion of materials on the teeth with MIH makes restorative treatments difficult, which may lead to recurrences and repetitive interventions, ultimately leading to tooth extraction.
+
+MIH occurs during the enamel's apposition and maturation phase, and despite multiple reports on this topic, its etiology and pathogenesis remain unclear.
+
+2. Materials and Methods
+
+PROSPERO registration: CRD42022348603. PRISMA guidelines followed. Six databases searched: PubMed, Web of Science, Scopus, LILACS, SciELO (2004-December 2022). PECO criteria: MIH children <18 years, prenatal/perinatal/postnatal exposures as interventions. 40 studies selected for qualitative analysis; 25 for meta-analysis. Newcastle-Ottawa Scale (NOS) used for quality assessment. RevMan v5.4 for meta-analyses. Random-effects model (significant heterogeneity).
+
+Study designs: 28 cross-sectional, 5 cohort, 7 case-control. Total participants: 44,037. Countries: Asia (17), Europe (10), America (13). NOS quality: 75% high quality (scores ≥5), 25% moderate.
+
+3. Results
+
+Prenatal stage:
+- Maternal illness during last trimester: OR 4.03 (95% CI 1.33-12.16, p=0.01)
+
+Perinatal stage:
+- Low birth weight: OR 1.23 (95% CI 1.10-1.38, p=0.0005)
+- Prematurity: NOT significant (p>0.05)
+- Cesarean section: NOT significant (p>0.05)
+
+Postnatal stage:
+- General childhood illness: OR 4.06 (95% CI 2.03-8.11, p=0.00001), I²=94%
+- Antibiotic use in early childhood: OR 1.76 (95% CI 1.31-2.37, p=0.0002), I²=83%
+- High fever in early childhood: OR 1.48 (95% CI 1.18-1.84, p=0.0005), I²=54%
+- Respiratory disorders: NOT confirmed for MIH (imprecise association)
+
+4. Discussion
+
+MIH etiology is multifactorial. Environmental factors during prenatal, perinatal, and postnatal periods all contribute. A combination of multiple risk factors (with genetic susceptibility) appears to be required. Antibiotics (especially amoxicillin) may alter gene expression essential for enamel development. High fever alters ameloblastic function during enamel matrix formation and mineralization. Bisphenol exposure (canned/packaged food) may also be relevant through hormonal disturbances.
+
+Prevention strategies include: prenatal multivitamin/calcium/folic acid supplementation; dental follow-up for at-risk children; informed antibiotic prescribing; remineralization with zinc hydroxyapatite, CPP-ACFP, CaGP.
+
+5. Conclusions
+
+MIH is multifactorial. Significant risk factors: maternal illness during pregnancy, low birth weight, childhood illness, antibiotic use, and high fever in early childhood. Prematurity, cesarean section, and respiratory disorders were not significantly associated. Early dental follow-up for at-risk children recommended.
+
+Limitations: Language bias (English/Spanish/Portuguese only); most studies cross-sectional with questionnaire-based history; variable quality; need for more cohort studies with documented medical records.
