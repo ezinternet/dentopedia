@@ -1,0 +1,671 @@
+<!--
+---
+title: "치과의원 응급 준비도 자가점검 체크리스트"
+type: interactive
+date: 2026-11-03
+category: drug/medical-emergencies
+source_wiki:
+  - wiki/drug/medical-emergencies/khattak-2026-clinical-readiness-knowledge-attitude-bls.md
+  - wiki/drug/medical-emergencies/cangul-2026-knowledge-attitudes-clinical-preparedness-dentists.md
+  - wiki/drug/medical-emergencies/tayebi-hillali-2026-competence-semi-automated-external-defibrillator.md
+  - wiki/drug/medical-emergencies/yoshimine-2025-monitor-feedback-versus-instructor-feedback.md
+  - wiki/overviews/dental-emergency-preparedness-cpr-aed-overview.md
+status: done
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>응급 준비도 체크리스트</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;600;700&display=swap">
+<style>
+/* ─── Light-only palette ─── */
+:root {
+  --bg:          #F4F6FA;
+  --surface:     #FFFFFF;
+  --fg:          #18202E;
+  --fg-muted:    #526075;
+  --accent:      #1355A0;
+  --accent-lt:   #EBF3FF;
+  --border:      #D5DCE8;
+  --shadow:      0 2px 12px rgba(20,40,80,0.09);
+
+  --ok-bg:       #EEFAF3;
+  --ok-fg:       #1A6E3C;
+  --ok-border:   #B8E8CC;
+
+  --warn-bg:     #FFF5EB;
+  --warn-fg:     #C04A00;
+  --warn-border: #F5D9B8;
+
+  --fail-bg:     #FFF0F0;
+  --fail-fg:     #B01818;
+  --fail-border: #F5C6C6;
+
+  --radius: 12px;
+  --radius-sm: 8px;
+}
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  font-family: 'Noto Sans KR', system-ui, sans-serif;
+  background: var(--bg);
+  color: var(--fg);
+  font-size: 15px;
+  line-height: 1.6;
+  padding: 0 max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+}
+
+/* ─── Layout ─── */
+.wrap { max-width: 680px; margin: 0 auto; padding-block: 32px 48px; }
+
+header { text-align: center; margin-bottom: 28px; }
+header .eyebrow {
+  font-size: 11px; font-weight: 600; letter-spacing: .12em;
+  text-transform: uppercase; color: var(--accent); margin-bottom: 6px;
+}
+header h1 { font-size: clamp(18px, 4vw, 24px); font-weight: 700; text-wrap: balance; }
+header p { font-size: 13px; color: var(--fg-muted); margin-top: 6px; }
+
+/* ─── Progress bar ─── */
+.progress-wrap { margin-bottom: 24px; }
+.progress-label {
+  display: flex; justify-content: space-between;
+  font-size: 12px; font-weight: 600; color: var(--fg-muted); margin-bottom: 6px;
+}
+.progress-track {
+  height: 8px; background: var(--border); border-radius: 4px; overflow: hidden;
+}
+.progress-fill {
+  height: 100%; background: var(--accent); border-radius: 4px;
+  transition: width .4s ease; width: 0%;
+}
+
+/* ─── Section card ─── */
+.section-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  margin-bottom: 16px;
+  overflow: hidden;
+}
+.section-header {
+  display: flex; align-items: center; gap: 12px;
+  padding: 16px 20px; cursor: pointer;
+  user-select: none;
+  transition: background .15s;
+}
+.section-header:hover { background: var(--accent-lt); }
+.section-icon {
+  font-size: 20px; flex-shrink: 0; width: 32px; text-align: center;
+}
+.section-title { flex: 1; font-size: 15px; font-weight: 700; }
+.section-counter {
+  font-size: 12px; font-weight: 600; color: var(--fg-muted);
+  background: var(--bg); border-radius: 20px; padding: 2px 10px;
+  border: 1px solid var(--border); white-space: nowrap;
+}
+.section-chevron {
+  flex-shrink: 0; font-size: 13px; color: var(--fg-muted);
+  transition: transform .2s;
+}
+.section-card.open .section-chevron { transform: rotate(180deg); }
+
+.section-body { padding: 4px 20px 16px; }
+.section-body.hidden { display: none; }
+
+/* ─── Item ─── */
+.item {
+  display: flex; align-items: flex-start; gap: 12px;
+  padding: 10px 0;
+  border-bottom: 1px solid var(--bg);
+}
+.item:last-child { border-bottom: none; }
+.item-check {
+  flex-shrink: 0; width: 20px; height: 20px;
+  border: 2px solid var(--border);
+  border-radius: 5px; cursor: pointer;
+  background: var(--bg);
+  display: flex; align-items: center; justify-content: center;
+  margin-top: 2px;
+  transition: border-color .15s, background .15s;
+}
+.item-check.checked {
+  background: var(--ok-fg); border-color: var(--ok-fg);
+}
+.item-check.checked::after {
+  content: "✓"; color: #fff; font-size: 11px; font-weight: 700;
+}
+.item-check.critical-item {
+  border-color: var(--fail-fg);
+}
+.item-check.critical-item.checked {
+  background: var(--ok-fg); border-color: var(--ok-fg);
+}
+.item-text { flex: 1; }
+.item-label { font-size: 14px; font-weight: 500; }
+.item-note { font-size: 12px; color: var(--fg-muted); margin-top: 2px; }
+.item-badge {
+  flex-shrink: 0; font-size: 10px; font-weight: 700;
+  letter-spacing: .06em; border-radius: 20px; padding: 2px 8px;
+  border: 1px solid; margin-top: 3px; white-space: nowrap;
+}
+.badge-critical { background: var(--fail-bg); color: var(--fail-fg); border-color: var(--fail-border); }
+.badge-recommended { background: var(--warn-bg); color: var(--warn-fg); border-color: var(--warn-border); }
+
+/* ─── Score card ─── */
+.score-card {
+  background: var(--surface); border: 1.5px solid var(--border);
+  border-radius: var(--radius); padding: 24px; box-shadow: var(--shadow);
+  margin-bottom: 16px; text-align: center; display: none;
+}
+.score-card.visible { display: block; }
+.score-ring {
+  width: 90px; height: 90px; margin: 0 auto 16px;
+  position: relative; display: flex; align-items: center; justify-content: center;
+}
+.score-ring svg { position: absolute; inset: 0; transform: rotate(-90deg); }
+.score-ring .score-num { font-size: 24px; font-weight: 700; }
+.score-ring .score-denom { font-size: 13px; color: var(--fg-muted); }
+.score-grade {
+  font-size: 17px; font-weight: 700; margin-bottom: 8px;
+}
+.score-desc { font-size: 14px; color: var(--fg-muted); margin-bottom: 16px; }
+
+/* ─── Recommendations ─── */
+.recs { text-align: left; }
+.recs-title {
+  font-size: 11px; font-weight: 700; letter-spacing: .1em;
+  text-transform: uppercase; color: var(--fg-muted); margin-bottom: 10px;
+}
+.rec-item {
+  display: flex; gap: 10px; align-items: flex-start;
+  padding: 8px 0; border-bottom: 1px solid var(--bg); font-size: 13px;
+}
+.rec-item:last-child { border-bottom: none; }
+.rec-dot {
+  flex-shrink: 0; width: 8px; height: 8px; border-radius: 50%;
+  margin-top: 5px;
+}
+.dot-critical { background: var(--fail-fg); }
+.dot-warn { background: var(--warn-fg); }
+
+/* ─── Buttons ─── */
+.btn-row { display: flex; gap: 10px; flex-wrap: wrap; margin-top: 20px; }
+.btn {
+  padding: 10px 20px; border-radius: var(--radius-sm);
+  font-family: inherit; font-size: 14px; font-weight: 600;
+  cursor: pointer; border: 1.5px solid;
+  transition: opacity .15s, transform .1s;
+}
+.btn:hover { opacity: .85; transform: translateY(-1px); }
+.btn-primary { background: var(--accent); color: #fff; border-color: var(--accent); }
+.btn-ghost { background: transparent; color: var(--fg-muted); border-color: var(--border); }
+
+/* ─── Banner ─── */
+.critical-banner {
+  background: var(--fail-bg); border: 1.5px solid var(--fail-border);
+  border-radius: var(--radius-sm); padding: 12px 16px;
+  font-size: 13px; font-weight: 600; color: var(--fail-fg);
+  margin-bottom: 12px; display: none;
+}
+.critical-banner.visible { display: block; }
+
+/* ─── Evidence note ─── */
+.evidence-note {
+  margin-top: 8px;
+  padding: 10px 14px;
+  background: var(--accent-lt);
+  border-radius: var(--radius-sm);
+  font-size: 12px; color: var(--accent);
+  font-weight: 500;
+}
+
+/* ─── Footer ─── */
+footer {
+  margin-top: 36px; padding-top: 18px;
+  border-top: 1px solid var(--border);
+  font-size: 11px; color: var(--fg-muted); text-align: center;
+}
+
+/* ─── Animate ─── */
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.score-card.visible { animation: fadeUp .3s ease; }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <div class="eyebrow">치과의원 응급 준비도</div>
+  <h1>응급 자가점검 체크리스트</h1>
+  <p>5개 영역 · 우리 클리닉의 응급 준비 수준을 확인하세요</p>
+</header>
+
+<div class="progress-wrap">
+  <div class="progress-label">
+    <span>전체 진행</span>
+    <span id="progress-text">0 / <span id="total-count">0</span></span>
+  </div>
+  <div class="progress-track"><div class="progress-fill" id="progress-fill"></div></div>
+</div>
+
+<div id="critical-banner" class="critical-banner">
+  ⚠️ 미충족 <span id="critical-count"></span>개 필수 항목이 있습니다 — 즉시 조치가 필요합니다
+</div>
+
+<div id="sections"></div>
+
+<div id="score-card" class="score-card">
+  <div class="score-ring">
+    <svg viewBox="0 0 90 90" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="45" cy="45" r="38" fill="none" stroke="#D5DCE8" stroke-width="8"/>
+      <circle id="score-arc" cx="45" cy="45" r="38" fill="none" stroke="#1355A0"
+        stroke-width="8" stroke-linecap="round"
+        stroke-dasharray="0 239" style="transition:stroke-dasharray .8s ease"/>
+    </svg>
+    <div>
+      <div class="score-num" id="score-num">0</div>
+      <div class="score-denom">/ <span id="score-denom"></span></div>
+    </div>
+  </div>
+  <div class="score-grade" id="score-grade"></div>
+  <div class="score-desc" id="score-desc"></div>
+  <div class="recs" id="recs"></div>
+  <div class="btn-row">
+    <button class="btn btn-primary" onclick="printSummary()">요약 출력</button>
+    <button class="btn btn-ghost" onclick="resetAll()">전체 초기화</button>
+  </div>
+</div>
+
+<footer>
+  근거: khattak-2026 · cangul-2026 · tayebi-hillali-2026 · yoshimine-2025<br>
+  📖 AED 보유율 7.5%(사우디아라비아); 역량 확신도 40%(터키 개원의)<br>
+  이 체크리스트는 자가 점검 도구이며 공식 인증 기준이 아닙니다
+</footer>
+</div>
+
+<script>
+const SECTIONS = [
+  {
+    id: 's1',
+    icon: '🩺',
+    title: '응급 장비',
+    items: [
+      {
+        id: 'aed', label: 'AED (자동심장충격기)',
+        note: '치과의원 보유율 7.5%(사우디) — 사용 훈련 필수',
+        critical: true, badge: '필수'
+      },
+      {
+        id: 'o2mask', label: '산소 공급 장치 (마스크 + 조절기)',
+        note: '아나필락시스·기관지경련 시 즉각 필요',
+        critical: true, badge: '필수'
+      },
+      {
+        id: 'bvm', label: '백밸브마스크 (BVM)',
+        note: '심정지 환자 인공호흡용; 성인·소아 각 1세트',
+        critical: true, badge: '필수'
+      },
+      {
+        id: 'bp', label: '혈압계 + 청진기',
+        note: 'BP ≥ 180/110 mmHg → 발치 금기 (gazal-2026)',
+        critical: false, badge: '권장'
+      },
+      {
+        id: 'gluco', label: '혈당 측정기',
+        note: '당뇨 환자 치료 전·후 모니터링',
+        critical: false, badge: '권장'
+      },
+      {
+        id: 'aed_check', label: 'AED 배터리·패드 유효기간 확인 (3개월 이내)',
+        note: '만료 시 작동 불능 — 정기 점검 캘린더 등록 권장',
+        critical: false, badge: '권장'
+      }
+    ]
+  },
+  {
+    id: 's2',
+    icon: '💊',
+    title: '응급 약물',
+    items: [
+      {
+        id: 'epi', label: '에피네프린 0.3 mg (자동주사기 또는 앰플)',
+        note: '아나필락시스 1차 약물; 유효기간 내 재고 2개 이상',
+        critical: true, badge: '필수'
+      },
+      {
+        id: 'glucose', label: '경구 포도당 (포도당 정제 또는 주스)',
+        note: '저혈당 의식 있는 환자; 15–20 g 즉각 투여',
+        critical: true, badge: '필수'
+      },
+      {
+        id: 'nitro', label: '니트로글리세린 설하정 0.4 mg',
+        note: '협심증·흉통 응급; 3년 이내 유효기간 확인',
+        critical: false, badge: '권장'
+      },
+      {
+        id: 'antihist', label: '항히스타민제 (디펜히드라민 또는 클로르페니라민)',
+        note: '아나필락시스 2차 약물 (에피네프린 우선)',
+        critical: false, badge: '권장'
+      },
+      {
+        id: 'steroid', label: '스테로이드 (하이드로코티손 또는 덱사메타손)',
+        note: '아나필락시스 지연 반응 예방; 2차 투여',
+        critical: false, badge: '권장'
+      },
+      {
+        id: 'drug_expire', label: '모든 응급 약물 유효기간 확인 (6개월 이내)',
+        note: '유효기간 만료 약물은 즉시 교체',
+        critical: false, badge: '권장'
+      }
+    ]
+  },
+  {
+    id: 's3',
+    icon: '🎓',
+    title: '교육 및 훈련',
+    items: [
+      {
+        id: 'bls_doc', label: '원장 BLS/CPR 자격증 보유 (2년 이내)',
+        note: '최근 BLS 교육 → 지식 예측 aOR 4.91 (khattak-2026)',
+        critical: true, badge: '필수'
+      },
+      {
+        id: 'staff_bls', label: '스탭 1인 이상 BLS 교육 이수 (2년 이내)',
+        note: '원장 부재 시 초기 대응 가능 인력',
+        critical: false, badge: '권장'
+      },
+      {
+        id: 'aed_practice', label: '팀 전체 AED 실습 훈련 (1년 이내)',
+        note: '전통 안내만으로 이행률 <10% (tayebi-hillali-2026); 실습 필수',
+        critical: false, badge: '권장'
+      },
+      {
+        id: 'sim_drill', label: '응급 상황 시뮬레이션 훈련 (1년 이내)',
+        note: '시나리오: 심정지, 아나필락시스, VVS 최소 포함',
+        critical: false, badge: '권장'
+      },
+      {
+        id: 'bls_monitor', label: '피드백 마네킹 또는 CPR 피드백 기기 보유',
+        note: '모니터 피드백 → CC 깊이↑; 교관 피드백 → CC 속도↑ (yoshimine-2025 RCT)',
+        critical: false, badge: '권장'
+      }
+    ]
+  },
+  {
+    id: 's4',
+    icon: '📋',
+    title: '프로토콜 및 환경',
+    items: [
+      {
+        id: 'emergnum', label: '응급 번호 게시 (119, 가까운 응급실)',
+        note: '치료 유닛 옆 + 데스크에 인쇄 부착',
+        critical: true, badge: '필수'
+      },
+      {
+        id: 'eq_location', label: '응급 장비 위치 팀 전체 숙지',
+        note: 'AED·산소·응급약 위치를 신입 스탭도 즉답 가능해야 함',
+        critical: true, badge: '필수'
+      },
+      {
+        id: 'role', label: '응급 시 역할 분담 (누가 CPR, 누가 AED, 누가 119)',
+        note: '응급 발생 시 5초 내 역할 자동 배분 가능하도록',
+        critical: false, badge: '권장'
+      },
+      {
+        id: 'log', label: '응급 발생 기록지 (발생 시간·내용·처치) 보유',
+        note: '의무기록 + 추적 관리 목적',
+        critical: false, badge: '권장'
+      },
+      {
+        id: 'layout', label: '처치 유닛 주변 장애물 없음 (CPR 공간 확보)',
+        note: '쓰러진 환자 주변 90 cm 이상 확보 가능한지 확인',
+        critical: false, badge: '권장'
+      }
+    ]
+  },
+  {
+    id: 's5',
+    icon: '🩻',
+    title: '고위험 환자 관리',
+    items: [
+      {
+        id: 'med_hx', label: '치료 전 전신병력 + 약물 복용 확인 루틴',
+        note: '항응고제·베타차단제·당뇨약·스테로이드 특히 확인',
+        critical: true, badge: '필수'
+      },
+      {
+        id: 'bp_threshold', label: 'BP ≥ 180/110 시 발치 연기 프로토콜',
+        note: '측정 후 재평가; 긴급 사유 없으면 혈압 조절 후 시행',
+        critical: false, badge: '권장'
+      },
+      {
+        id: 'inr', label: 'INR > 3.5 시 발치 연기 또는 혈액과 협진',
+        note: 'INR ≤ 3.5는 일반적으로 발치 가능 (gazal-2026)',
+        critical: false, badge: '권장'
+      },
+      {
+        id: 'hba1c', label: 'HbA1c ≥ 9% 당뇨 환자 관리 지침',
+        note: 'HbA1c < 9% 시 발치 가능; 이상 시 내과 협진 우선',
+        critical: false, badge: '권장'
+      },
+      {
+        id: 'allergy', label: '국소마취제·항생제 알레르기 사전 확인',
+        note: '아나필락시스 발생 시 원인 약물 특정 위해 사전 문서화',
+        critical: false, badge: '권장'
+      }
+    ]
+  }
+];
+
+// ─── State ───
+let checks = {};
+
+function loadState() {
+  try {
+    const saved = localStorage.getItem('dentEmergencyChecklist_v1');
+    if (saved) checks = JSON.parse(saved);
+  } catch(e) {}
+}
+
+function saveState() {
+  try { localStorage.setItem('dentEmergencyChecklist_v1', JSON.stringify(checks)); } catch(e) {}
+}
+
+function getAllItems() {
+  return SECTIONS.flatMap(s => s.items);
+}
+
+function getCriticalItems() {
+  return getAllItems().filter(i => i.critical);
+}
+
+// ─── Render ───
+function buildSections() {
+  const container = document.getElementById('sections');
+  container.innerHTML = '';
+  SECTIONS.forEach(sec => {
+    const card = document.createElement('div');
+    card.className = 'section-card open';
+    card.id = 'sec-' + sec.id;
+
+    const header = document.createElement('div');
+    header.className = 'section-header';
+    header.innerHTML = `
+      <span class="section-icon">${sec.icon}</span>
+      <span class="section-title">${sec.title}</span>
+      <span class="section-counter" id="counter-${sec.id}">0 / ${sec.items.length}</span>
+      <span class="section-chevron">▼</span>
+    `;
+    header.addEventListener('click', () => toggleSection(sec.id));
+
+    const body = document.createElement('div');
+    body.className = 'section-body';
+    body.id = 'body-' + sec.id;
+
+    sec.items.forEach(item => {
+      const row = document.createElement('div');
+      row.className = 'item';
+
+      const chk = document.createElement('div');
+      chk.className = 'item-check' + (item.critical ? ' critical-item' : '');
+      chk.id = 'chk-' + item.id;
+      if (checks[item.id]) chk.classList.add('checked');
+      chk.setAttribute('role', 'checkbox');
+      chk.setAttribute('aria-checked', checks[item.id] ? 'true' : 'false');
+      chk.addEventListener('click', () => toggleItem(item.id, sec.id));
+
+      const text = document.createElement('div');
+      text.className = 'item-text';
+      text.innerHTML = `
+        <div class="item-label">${item.label}</div>
+        ${item.note ? `<div class="item-note">${item.note}</div>` : ''}
+      `;
+
+      const badge = document.createElement('span');
+      badge.className = `item-badge ${item.critical ? 'badge-critical' : 'badge-recommended'}`;
+      badge.textContent = item.badge;
+
+      row.appendChild(chk);
+      row.appendChild(text);
+      row.appendChild(badge);
+      body.appendChild(row);
+    });
+
+    card.appendChild(header);
+    card.appendChild(body);
+    container.appendChild(card);
+  });
+
+  updateAll();
+}
+
+function toggleSection(secId) {
+  const card = document.getElementById('sec-' + secId);
+  const body = document.getElementById('body-' + secId);
+  const isOpen = card.classList.contains('open');
+  card.classList.toggle('open', !isOpen);
+  body.classList.toggle('hidden', isOpen);
+}
+
+function toggleItem(itemId, secId) {
+  checks[itemId] = !checks[itemId];
+  saveState();
+  const chk = document.getElementById('chk-' + itemId);
+  chk.classList.toggle('checked', checks[itemId]);
+  chk.setAttribute('aria-checked', checks[itemId] ? 'true' : 'false');
+  updateAll();
+}
+
+// ─── Progress & Score ───
+function updateAll() {
+  const all = getAllItems();
+  const total = all.length;
+  const done = all.filter(i => checks[i.id]).length;
+
+  // Progress bar
+  document.getElementById('progress-text').innerHTML = `${done} / <span id="total-count">${total}</span>`;
+  document.getElementById('progress-fill').style.width = (total ? (done/total*100) : 0) + '%';
+
+  // Section counters
+  SECTIONS.forEach(sec => {
+    const secDone = sec.items.filter(i => checks[i.id]).length;
+    document.getElementById('counter-' + sec.id).textContent = `${secDone} / ${sec.items.length}`;
+  });
+
+  // Critical banner
+  const critItems = getCriticalItems();
+  const critMissed = critItems.filter(i => !checks[i.id]).length;
+  const banner = document.getElementById('critical-banner');
+  banner.classList.toggle('visible', critMissed > 0);
+  document.getElementById('critical-count').textContent = critMissed;
+
+  // Score card
+  updateScore(done, total, critMissed);
+}
+
+function updateScore(done, total, critMissed) {
+  const card = document.getElementById('score-card');
+  if (done === 0) { card.classList.remove('visible'); return; }
+  card.classList.add('visible');
+
+  const pct = total ? Math.round(done / total * 100) : 0;
+  const circ = 2 * Math.PI * 38;
+  document.getElementById('score-num').textContent = done;
+  document.getElementById('score-denom').textContent = total;
+  document.getElementById('score-arc').setAttribute('stroke-dasharray',
+    `${circ * pct / 100} ${circ}`);
+
+  let grade, desc, gradeColor;
+  if (critMissed > 0) {
+    grade = '⚠️ 즉시 조치 필요';
+    desc = `필수 항목 ${critMissed}개가 미충족 상태입니다. 응급 발생 시 치명적 결과를 초래할 수 있습니다.`;
+    gradeColor = '#B01818';
+  } else if (pct >= 90) {
+    grade = '✅ 우수 (최고 준비 수준)';
+    desc = '응급 준비도가 매우 높습니다. 팀 시뮬레이션 훈련으로 지속 유지하세요.';
+    gradeColor = '#1A6E3C';
+  } else if (pct >= 70) {
+    grade = '🟡 양호 (개선 권장)';
+    desc = '필수 항목은 충족됐으나 권장 항목에 공백이 있습니다. 단계적 보완을 권장합니다.';
+    gradeColor = '#C04A00';
+  } else {
+    grade = '🔴 미흡 (즉각 보완 필요)';
+    desc = '준비 수준이 낮습니다. 필수 항목부터 순서대로 조치하세요.';
+    gradeColor = '#B01818';
+  }
+
+  const gradeEl = document.getElementById('score-grade');
+  gradeEl.textContent = grade;
+  gradeEl.style.color = gradeColor;
+  document.getElementById('score-desc').textContent = desc;
+
+  // Recommendations
+  const missed = getAllItems().filter(i => !checks[i.id]);
+  const critMissedItems = missed.filter(i => i.critical);
+  const warnMissedItems = missed.filter(i => !i.critical).slice(0, 4);
+
+  let recsHtml = '';
+  if (critMissedItems.length > 0 || warnMissedItems.length > 0) {
+    recsHtml += `<div class="recs-title">보완 필요 항목</div>`;
+    critMissedItems.forEach(i => {
+      recsHtml += `<div class="rec-item"><div class="rec-dot dot-critical"></div><div>${i.label}</div></div>`;
+    });
+    warnMissedItems.forEach(i => {
+      recsHtml += `<div class="rec-item"><div class="rec-dot dot-warn"></div><div>${i.label}</div></div>`;
+    });
+    if (missed.filter(i => !i.critical).length > 4) {
+      const more = missed.filter(i => !i.critical).length - 4;
+      recsHtml += `<div class="rec-item"><div class="rec-dot" style="background:var(--border)"></div><div>외 ${more}개 권장 항목</div></div>`;
+    }
+    recsHtml += `<div class="evidence-note">📖 응급 장비 구비 → 역량 확신도 유의 증가 (cangul-2026) · AED 보유율 7.5% → 목표 100% (khattak-2026)</div>`;
+  } else {
+    recsHtml = `<div class="evidence-note">✅ 모든 항목 충족! 팀 시뮬레이션 훈련 정기 시행으로 유지하세요.</div>`;
+  }
+  document.getElementById('recs').innerHTML = recsHtml;
+}
+
+function printSummary() {
+  window.print();
+}
+
+function resetAll() {
+  if (!confirm('전체 체크를 초기화하시겠습니까?')) return;
+  checks = {};
+  saveState();
+  buildSections();
+}
+
+// ─── Init ───
+loadState();
+buildSections();
+</script>
+</body>
+</html>
