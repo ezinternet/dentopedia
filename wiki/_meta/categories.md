@@ -62,6 +62,7 @@
 
 | Category folder | Korean | Includes |
 |---|---|---|
+| `sinus-lift` | 상악동거상술 | Sinus floor elevation topics not covered by a subcategory — cross-approach comparisons, general sinus anatomy & physiology, membrane perforation management, healing biology, outcomes across both approaches. (lateral window → `sinus-lift/lateral`; transcrestal/osteotome → `sinus-lift/transcrestal`; antral pseudocyst → `sinus-lift/pseudocyst`) |
 | `sinus-lift/lateral` | 상악동거상술·측방 | Lateral window approach, membrane, grafting materials |
 | `sinus-lift/transcrestal` | 상악동거상술·경치조골 | Transcrestal (osteotome/balloon/osseodensification) approaches |
 | `sinus-lift/pseudocyst` | 상악동거상술·슈도시스트 | Antral pseudocyst / mucous retention cyst management in sinus lift context — retention vs removal, outcomes, implant impact |
@@ -148,11 +149,13 @@
 
 | Category folder | Korean | Includes |
 |---|---|---|
+| `drug` | 약물·전신질환 | General drug & systemic topics not covered by a subcategory — medication reviews, drug interactions, polypharmacy overviews, general systemic-condition summaries. (antibiotics → `drug/antibiotics`; analgesics → `drug/analgesics`; anticoagulants → `drug/anticoagulants`; MRONJ → `drug/mronj`; systemic disease management → `drug/systemic-disease`; in-office emergencies → `drug/medical-emergencies`) |
 | `drug/antibiotics` | 전신질환·약물·항생제 | Dental antibiotic prescribing, prophylaxis, antibiotic stewardship; AMX/CLV, clindamycin, azithromycin, metronidazole, cephalosporins; periodontal/endodontic/surgical adjunct use |
 | `drug/analgesics` | 전신질환·약물·진통소염제 | NSAIDs (ibuprofen, ketorolac, naproxen, etoricoxib), acetaminophen, opioids, corticosteroids (dexamethasone), preemptive analgesia; postoperative pain management |
 | `drug/anticoagulants` | 전신질환·약물·항응고·지혈 | Anticoagulants (warfarin, DOACs: apixaban/rivaroxaban/dabigatran), antiplatelets (aspirin, clopidogrel), perioperative management, hemostasis, DAPT |
 | `drug/mronj` | 전신질환·약물·MRONJ | MRONJ/ONJ — bisphosphonates, denosumab, antiresorptive/antiangiogenic agents; prevention, staging, management |
-| `drug/systemic-disease` | 전신질환·약물·전신질환관리 | Medically compromised patients — diabetes (HbA1c assay & interpretation), cardiovascular disease & perioperative hemodynamics, Sjögren classification criteria, renal/hepatic impairment, polypharmacy, drug–drug interactions, immunosuppression; systemic-disease ↔ oral-disease relationship reviews. The outcome is a **medical/systemic** one. (systemic condition studied as a risk factor for **implant survival/failure** → `implants/survival`) |
+| `drug/systemic-disease` | 전신질환·약물·전신질환관리 | Medically compromised patients — diabetes (HbA1c assay & interpretation), cardiovascular disease & perioperative hemodynamics, Sjögren classification criteria, renal/hepatic impairment, polypharmacy, drug–drug interactions, immunosuppression; systemic-disease ↔ oral-disease relationship reviews. The outcome is a **medical/systemic** one. (systemic condition studied as a risk factor for **implant survival/failure** → `implants/survival`; in-office acute emergencies & BLS/CPR preparedness → `drug/medical-emergencies`) |
+| `drug/medical-emergencies` | 전신질환·약물·치과응급 | Medical emergencies occurring **during dental treatment** — incidence/epidemiology of in-office emergencies; management of acute events (anaphylaxis, cardiac arrest, vasovagal syncope, hypoglycemia, bronchospasm, adrenal crisis); BLS/CPR training & competence of dental professionals; AED use in dental settings; emergency drug kits & oxygen equipment; preparedness surveys of dentists/dental teams. (vasovagal syncope mechanistic/pharmacological papers → `drug/systemic-disease`; anaphylaxis from LA allergy workup → `local-anesthesia`) |
 | `pdrn` | PDRN(폴리뉴클레오티드) | Polydeoxyribonucleotide (PDRN) biology, bone/soft-tissue regeneration with PDRN, peri-implant/sinus/extraction socket adjunct, A2A receptor mechanism |
 
 ### 구강내과·통증 (oral medicine & pain)
@@ -187,6 +190,7 @@
 
 | Category folder | Korean | Includes |
 |---|---|---|
+| `behavioral-dentistry` | 행동치의학 | Behavioral dentistry topics not covered by a subcategory — dental anxiety management, patient communication, motivation, behavior-change counseling. (motivational interviewing → `behavioral-dentistry/motivational-interviewing`; communication/relationship → `behavioral-dentistry/communication-relationship`; PRO/PROM → `behavioral-dentistry/patient-reported-outcomes`; anxiety/fear → `behavioral-dentistry/dental-anxiety`; body dysmorphic disorder → `behavioral-dentistry/body-dysmorphic-disorder`) |
 | `behavioral-dentistry/motivational-interviewing` | 행동치의학·동기면담 | Motivational interviewing (MI/brief MI) efficacy & uptake, behavior-change counseling, oral-health/general-health promotion |
 | `behavioral-dentistry/communication-relationship` | 행동치의학·커뮤니케이션 | Dentist–patient communication skills/training, dentist–patient relationship determinants, shared decision-making, patient expectation management |
 | `behavioral-dentistry/patient-reported-outcomes` | 행동치의학·환자보고결과 | PRO/PROM/PREM, OHRQoL, patient satisfaction/experience, behavioral assessment of the patient |
