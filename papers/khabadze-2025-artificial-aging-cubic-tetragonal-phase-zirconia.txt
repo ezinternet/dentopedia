@@ -1,0 +1,389 @@
+INTRODUCTION
+
+Zirconia ceramics have become part of contemporary restorative dentistry because of their desirable mechanical characteristics, biocompatibility, and esthetics. Zirconia ceramics occur in three major crystalline forms: Monoclinic, tetragonal, and cubic.[] The tetragonal form, stabilized by about 3 mol% yttria-stabilized tetragonal zirconia polycrystal (3Y-TZP), shows transformation toughening – a fracture resistance mechanism wherein stress-induced monoclinic transformation occurs.[] On the other hand, raising the yttria content to 5 mol% (5Y-PSZ) stabilizes the cubic phase, leading to better translucency but less transformation toughening capability.[]
+
+Although they have several benefits, zirconia ceramics are prone to low-temperature degradation (LTD), a process where the metastable tetragonal phase spontaneously transforms into the monoclinic phase under the influence of moisture and at comparatively low temperatures. This transformation results in surface roughening, microcracking, and subsequently a reduction in mechanical properties. Artificial aging protocols, such as autoclaving at 134°C under 2 bar pressure, are commonly employed to replicate long-term LTD.[]
+
+Surface treatments, specifically polishing and glazing, are commonly used for zirconia restorations to improve their aesthetic properties and minimize surface roughness.[] Polishing results in smoother surfaces with smaller roughness values than glazing, which may affect the material’s sensitivity to LTD.[] Studies have demonstrated that polished zirconia surfaces exhibit greater resistance to phase transformation under aging conditions compared to glazed surfaces, primarily due to the removal of surface flaws that can act as initiation sites for degradation.[]
+
+The aging behavior of zirconia is influenced by its phase composition, which is determined by the yttria content and the type of surface treatment applied. While the tetragonal phase is vulnerable to transformation under LTD conditions, the cubic phase is inherently more stable. However, the presence of mixed-phase compositions, combined with the effects of various surface treatments, warrants further investigation to fully understand their impact on the material’s long-term performance.[]
+
+This study aims to examine the effect of artificial hydrothermal aging on the phase composition of zirconia materials predominantly composed of either the tetragonal or cubic phase, with polished or glazed surfaces. Understanding these interactions is essential for enhancing the longevity and reliability of zirconia-based dental restorations.
+
+SUBJECTS AND METHODS
+
+Specimen preparation
+
+Standardized zirconia discs (10 mm diameter, 1 mm thickness) were conditioned for laboratory testing. The disc models were modeled in Tinkercad (Autodesk), a free open-source computer program, to produce STL files. The specimens were milled and sintered following the manufacturer’s standard firing protocols specific to each zirconia material. Surface treatments were applied as per the designated procedures, involving either polishing to a mirror-like finish using the Jota Kit Zir Gloss zirconia polishing kit or applying a glaze.
+
+Control group
+
+The control group consisted of discs made of standard (3Y-TZP; Katana HTML, Kuraray Noritake Dental, Tokyo, Japan). This high-translucent, multi-layered zirconia disc has high mechanical strength, mainly in the tetragonal phase, and is indicated for long-span bridge restorations.
+
+Experimental groups
+
+The experimental groups consisted of zirconia specimens with substantial cubic phase content. The following commercially available materials were tested:
+
+ZirCAD prime (ivoclar vivadent)
+
+A multistage, multilayered composition with an enamel layer (5Y-TZP, ~19%), a transition layer (~25%), and a dentin layer (3Y-TZP, ~56%). Composition: 88-95% zirconium oxide (ZrO), >4.5–≤7% yttrium oxide (YO), ≤5.0% hafnium oxide (HfO), ≤1.0% aluminum oxide, ≤1.5% other oxides. Flexural strength: ~650 MPa (enamel layer), ~1200 MPa (dentin layer).
+
+Katana ultra translucent multi-layered (Kuraray Noritake Dental)
+
+Ultra-high translucency (43%) and the highest cubic content (75%) 5Y-PSZ zirconia.[] Composition: 87%–92% ZrO+ HfO, 8%–11% YO, 0%–2% others. Flexural strength: ~550 MPa. This product is designed with minimal thickness application in mind, e.g., ceramic veneers.
+
+Katana super translucent multilayered (Kuraray Noritake Dental)
+
+Highly translucent zirconia with properties in balance, with 65% cubic phase and 38% translucency. Composition: 88%–93% ZrO+ HfO, 7%–10% YO, 0%–2% other oxides. Flexural strength: ~750 MPa. Material is indicated for 4-unit posterior bridge restorations and offers esthetic masking effect in the cervical area.
+
+Phase analysis
+
+X-ray diffraction (XRD) was utilized to evaluate the phase composition of zirconia specimens both prior to and after artificial aging. A Shimadzu XRD-7000 powder diffractometer was used, with specimens mounted on a rotating stage to enhance measurement precision. The goniometer scanned at a rate of 1° per minute over a 2θ range of 20°–100°. The X-ray tube was operated at 30 kV acceleration voltage and 30 mA emission current. Artificial aging, simulating LTD, was conducted in an autoclave at 134°C and 2 atm pressure for a duration of 12 h. Phase transformations were identified by comparing the diffraction patterns obtained before and after the aging process.[]
+
+Statistical analysis
+
+The data were entered and analyzed using the Statistical Package for Social Sciences (SPSS) for Windows, Version 28.0. (Armonk, NY, USA: IBM Corp.) Confidence intervals were set at 95%, and a≤ 0.05 was considered statistically significant. Paired-test was applied to compare the intensity and full width at half maximum (FWHM) of XRD peaks before and after artificial aging. Pearson’s correlation coefficient was used to compare the relationship between surface treatment techniques and phase composition changes.
+
+RESULTS
+
+The zirconia specimens exhibited varying phase compositions based on yttria content and manufacturing processes. Conventional 3Y-TZP predominantly displayed a tetragonal phase, while high-translucency zirconia variants with yttria content ≥4 mol% showed a higher proportion of the cubic phase. XRD analysis identified two distinct polymorphic phases – cubic and tetragonal – across the tested groups, with each group exhibiting a single dominant phase without detectable traces of the alternate phase. The cubic phase was observed in Katana super translucent multilayered (STML, glazed, and polished) and Katana ultra translucent multilayered (UTML, glazed, and polished) specimens, whereas the tetragonal phase was present in ZirCAD Prime (glazed and polished) and all control group specimens.
+
+Hydrothermal aging, equivalent to approximately 10–12 years of clinical service, resulted in minimal changes in diffraction peak intensity and height across all groups, with the original phase composition remaining predominantly stable. In the Katana UTML group, both glazed and polished specimens maintained the cubic phase, showing only slight reductions in peak intensity postaging [and]. The control group (3Y-TZP) retained its tetragonal phase in both glazed and polished conditions, though polished specimens exhibited more pronounced variations in peak height compared to glazed ones [and]. Similarly, the ZirCAD Prime group preserved its tetragonal phase after aging, with minor differences in diffraction parameters between polished and glazed surfaces [and]. The Katana STML group also demonstrated cubic phase stability postaging, with negligible changes in diffraction peak heights [and].
+
+The phase composition of zirconia materials across all surface treatments remained largely unchanged after artificial aging. However, significant alterations were observed in surface microstructural properties, such as reduced crystallite size and elevated internal stress, suggesting subtle microstructural changes despite the overall stability of the phase structure. Statistical processing established the phase composition stability (> 0.05) and weak, nonsignificant correlation between peak intensity and FWHM (= −0.253,= 0.481). A weak and statistically nonsignificant correlation was observed between changes in peak intensity and FWHM, implying that these parameters may behave independently in response to artificial aging. Similarly, the correlation between variations in diffraction peak intensity and FWHM was minimal and did not reach statistical significance, suggesting independent responses to hydrothermal aging []. All comparisons resulted in> 0.05, indicating no statistically significant differences before and after aging across all groups [].
+
+Figure 1
+
+(a) Ultra translucent multilayered (UTML) glazed: Before and after artificial aging; (b) UTML polished: Before and after artificial aging
+
+Figure 2
+
+(a) Control group (glazed): Before and after artificial aging; (b) Control group (polished): Before and after artificial aging
+
+Figure 3
+
+(a) Prime glazed: Before and after artificial aging; (b) Prime polished: Before and after artificial aging
+
+Figure 4
+
+(a) Super translucent multilayered (STML) glazed: Before and after artificial aging; (b) STML polished: Before and after artificial aging
+
+Table 1
+
+Pearson’s correlation coefficient
+
+Group
+
+Surface treatment
+
+(correlation coefficient)
+
+P
+
+Interpretation
+
+All groups combined
+
+Glazed and polished
+
+–0.253
+
+0.481
+
+Weak, nonsignificant negative correlation
+
+Katana UTML
+
+Glazed
+
+-
+
+-
+
+No significant phase change observed
+
+Katana UTML
+
+Polished
+
+-
+
+-
+
+No significant phase change observed
+
+Control (3Y-TZP)
+
+Glazed
+
+-
+
+-
+
+No significant monoclinic transformation
+
+Control (3Y-TZP)
+
+Polished
+
+-
+
+-
+
+Minor FWHM variation, not significant
+
+ZirCAD prime
+
+Glazed
+
+-
+
+-
+
+Minor variation, stable phase
+
+ZirCAD prime
+
+Polished
+
+-
+
+-
+
+Minor variation, stable phase
+
+Katana STML
+
+Glazed
+
+-
+
+-
+
+Minimal changes, stable cubic phase
+
+Katana STML
+
+Polished
+
+-
+
+-
+
+Minimal changes, stable cubic phase
+
+TZP: Tetragonal zirconia polycrystal, ZirCAD: Zirconium oxide, FWHM: Full width at half maximum, UTML: Ultra translucent multilayered, STML: Super translucent multilayered
+
+Table 2
+
+Intensity and full width at half maximum before versus after artificial aging
+
+Material group
+
+Surface treatment
+
+Parameter
+
+t
+
+P
+
+Interpretation
+
+Katana UTML
+
+Glazed
+
+Intensity
+
+-
+
+>0.05
+
+No significant difference after aging
+
+FWHM
+
+-
+
+>0.05
+
+No significant difference
+
+Katana UTML
+
+Polished
+
+Intensity
+
+-
+
+>0.05
+
+Slight reduction, not significant
+
+FWHM
+
+-
+
+>0.05
+
+No significant difference
+
+Katana STML
+
+Glazed
+
+Intensity
+
+-
+
+>0.05
+
+Minimal changes, not significant
+
+FWHM
+
+-
+
+>0.05
+
+No significant difference
+
+Katana STML
+
+Polished
+
+Intensity
+
+-
+
+>0.05
+
+No significant difference
+
+FWHM
+
+-
+
+>0.05
+
+No significant difference
+
+Control (3Y-TZP)
+
+Glazed
+
+Intensity
+
+-
+
+>0.05
+
+Stable tetragonal phase
+
+FWHM
+
+-
+
+>0.05
+
+Minor changes, not significant
+
+Control (3Y-TZP)
+
+Polished
+
+Intensity
+
+-
+
+>0.05
+
+Greater variation than glazed, not significant
+
+FWHM
+
+-
+
+>0.05
+
+Preserved crystallinity, not significant
+
+ZirCAD Prime
+
+Glazed
+
+Intensity
+
+-
+
+>0.05
+
+Minor differences, not significant
+
+FWHM
+
+-
+
+>0.05
+
+No significant change
+
+ZirCAD Prime
+
+Polished
+
+Intensity
+
+-
+
+>0.05
+
+No significant difference
+
+FWHM
+
+-
+
+>0.05
+
+No significant difference
+
+TZP: Tetragonal zirconia polycrystal, ZirCAD: Zirconium oxide, FWHM: Full width at half maximum, UTML: Ultra translucent multilayered, STML: Super translucent multilayered
+
+DISCUSSION
+
+Thisstudy investigated the impact of artificial hydrothermal aging on the phase stability of zirconia ceramics with different yttria contents and surface treatments. The results showed that both cubic- and tetragonal-dominant zirconia specimens retained their original phase compositions after aging, despite evident surface microstructural alterations. These findings support the hypothesis that contemporary high-translucency zirconia materials, particularly those with elevated cubic phase content, demonstrate robust phase stability under simulated clinical conditions.[]
+
+The findings of this study are consistent with those of Zhang and Lawn, who noted that yttria content critically influences the stabilization of zirconia’s cubic and tetragonal phases, with higher yttria levels enhancing resistance to LTD.[] In the present investigation, zirconia variants such as Katana UTML (5Y-PSZ) and Katana STML (4Y-PSZ) exhibited robust phase stability following artificial aging, aligning with previous reports on the thermodynamic stability of the cubic phase.[]
+
+In addition, Ha and Choi explored the impact of hydrothermal aging on multilayered zirconia used for monolithic restorations, reporting that the material grade significantly affects optical, mechanical, and surface properties postaging, underscoring the importance of material selection for clinical applications.[]
+
+Notably, no phase transformation to the monoclinic phase was found in any of the groups, including the conventional 3Y-TZP zirconia. This result contradicts earlier studies that highlighted the susceptibility of 3Y-TZP to hydrothermal degradation through the tetragonal-to-monoclinic phase transformation.[] Wu. noted that hydrothermal aging of dental-grade 3Y-TZP ceramics resulted in progressive monoclinic phase transformation, surface microcracking, and degradation of mechanical properties owing to built-up internal stresses and flaw growth.[] This is supported by Gruber., who showed that virtually complete transformation (up to 91.7%) to the monoclinic phase was observed in 3Y-TZP powders following 24 h of aging at 134°C, further supporting the material’s susceptibility to LTD under steam autoclave conditions.[] The absence of such a transformation in the present study could be due to recent developments in zirconia processing, such as improved sintering procedures, homogeneous distribution of yttria, and enhanced surface treatment methodologies, all of which can improve phase stability by reducing stress concentrators and structural defects.[]
+
+The susceptibility of zirconia ceramics to LTD is significantly influenced by surface treatments, particularly polishing and glazing. Chevalier. proposed that surface flaws act as initiation sites for phase transformation, and therefore polishing, by minimizing these defects, can enhance aging resistance.[] Our results align with previous studies, as polished specimens in all groups demonstrated similar or enhanced resistance to peak intensity loss and surface roughening when compared to their glazed counterparts. In particular, polished 3Y-TZP samples exhibited reduced variations in FWHM postaging, indicative of preserved crystallinity.
+
+Phase stability observed in our study is in line with the results by Vila-Nova., who investigated the effect of several different surface finishing and polishing methods on ultra-translucent zirconia. According to their study, specimens polished using diamond rubber polishers alone possessed the highest resistance to LTD, demonstrating the significance of polishing in material durability against aging.[]
+
+Glazing, on the other hand, though beneficial for enhancing surface aesthetics and tribological qualities, seems to offer limited LTD protection.[] Jamali. compared the influence of glazing and polishing on zirconia ceramics and observed that polishing not only improved surface properties but also caused the least change in mechanical properties among a variety of zirconia translucencies.[] These observations highlight the relative excellence of polishing overglazing in ensuring the long-term stability and performance of zirconia materials in dental use.
+
+Vila-Nova. indicated that polishing has a considerable effect of decreasing surface roughness and avoiding stress-driven degradation, while glazing can introduce surface defects that facilitate LTD.[] Our results reinforce these observations, particularly in the control group, where glazed samples exhibited greater variations in diffraction peak height after aging compared to their polished counterparts. However, no phase changes were found within any of the surface treatments, indicating that contemporary zirconia ceramics, including high-translucency variants, are carefully engineered to maximize exceptional strength and resistance to aging.
+
+Another notable finding in our study was the significant change in surface microstructural characteristics, particularly the reduction in crystallite size and the increase in internal stresses, despite the absence of detectable phase transformation. This phenomenon has been observed in other studies, including by Yang., who demonstrated that hydrothermal aging can induce nanoscale surface changes that influence optical and mechanical properties, even in the absence of polymorphic conversion.[] While these changes may be subtle, they could impact the long-term clinical performance of restorations and warrant further investigation.
+
+The minimal differences seen in FWHM and intensity weakening in various layers of multilayered zirconia samples in our research indicate homogeneous phase distribution and stable processing methods. The result is in concurrence with the earlier work by Koo. who assessed the mechanical and surface behavior of various zones in multilayered translucent zirconia, such as IPS e.max ZirCAD Prime, following hydrothermal aging. They reported that the transition zone possessed surface behavior and mechanical properties close to that of the 3Y-TZP zone, signifying uniform distribution of the phases that were achieved with gradient technology.[] Analogously, studies by Cho and Seol analyzed the impact of high-speed sintering on optical behavior, microstructure, and phase distribution in multilayered zirconia containing 5 mol% yttria stabilizer. Their results showed that high-speed sintering did not considerably change the phase composition, verifying the hypothesis that contemporary sintering methods are able to retain homogeneity among various layers of multilayered zirconia.[] These reports validate our findings, indicating that recent multilayered zirconia ceramics, when prepared with advanced sintering methods and optimized formulation, can be uniform in phase distribution and microstructure, improving their applicability as dental restorations.
+
+This study provides insightful results regarding the stability of modern zirconia ceramics in the phase during artificial hydrothermal aging, and a primary strength is that it provides comparative results of tetragonal- and cubic-phase dominant materials, as well as clinically significant surface treatments. Utilization of standard disc specimens, XRD to identify phases and simulation of 10–12 years of clinical service through autoclave aging enhance the relevance and strength of the results.
+
+A key strength is proof that even high-translucency zirconia with major cubic content, such as Katana UTML and STML, retain their phase composition and microstructural integrity after aging, and thus confirm their reliability for clinical application. Yet, one of the limitations of thisstudy is that mechanical loading, pH cycling, or thermocycling, typical of the oral environment, were not conducted and could impact long-term performance.
+
+Clinically, the findings support the advice of polishing overglazing to provide resistance to degradation at low temperatures as well as to maintain the microstructure of zirconia restorations. The findings also confirm the ongoing clinical use of multilayered zirconia materials such as 5Y-PSZ and hybrid materials such as ZirCAD Prime for esthetically challenging restorations. Future studies need to include mechanical fatigue testing,evaluation for long durations and imaging technologies to evaluate the influence of functional stresses and environmental conditions on surface degradation, optical characteristics, and longevity of restoration.
+
+CONCLUSIONS
+
+Within the confines of thisstudy, it is possible to say that zirconia ceramics with both tetragonal and cubic phase dominance show superior phase stability under simulated long-term clinical use artificial hydrothermal aging conditions. No monoclinic phase transformation was seen in any group, including the standard 3Y-TZP zirconia, indicating that recent developments in processing, yttria stabilization, and surface treatment methods have improved the resistance of zirconia to LTD. Of the surface treatments, polished specimens showed higher crystallinity and microstructure preservation than glazed specimens, emphasizing the clinical significance of proper finishing protocols. The homogeneity of the phase distribution in multilayered zirconia materials such as Katana STML, UTML, and ZirCAD Prime also promotes their usability in high-strength, esthetic dental restorations. These observations highlight the capability of advanced zirconia ceramics to ensure long-term durability and reliability in restorative dentistry. Further results from clinical trials are needed to ascertain this result. Future studies should incorporate dynamic loading, thermal cycling, andtesting to further validate these findings under clinically demanding conditions.
+
+Conflicts of interest
+
+There are no conflicts of interest.
