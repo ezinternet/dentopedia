@@ -1,0 +1,592 @@
+<!--
+---
+title: "SDA 전략 결정트리"
+type: interactive
+date: 2026-11-04
+status: done
+category: prosth
+source_wiki:
+  - wiki/overviews/sda-shortened-dental-arch-evidence-overview.md
+  - wiki/removable-partial-denture/nassani-2013-fesrpd-shortened-dental-arch-reappraisal.md
+  - wiki/removable-partial-denture/koyama-2026-effects-occlusal-contact-loss-preferred.md
+  - wiki/removable-partial-denture/gao-2025-effectiveness-restoration-strategies-posterior.md
+  - wiki/removable-partial-denture/liang-2015-effects-removable-dental-prostheses-masticatory.md
+agenda: agenda/2026-11-04_sda-interactive-tools.md
+---
+-->
+<title>SDA 전략 결정트리</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+<style>
+/*
+  Layout: 단계형 카드 스택 — 중앙 1컬럼, 각 단계는 질문+선택지로 구성
+  Color: 임상 라이트 고정 (OPERATIONS §7) — 다크 블록 없음
+*/
+:root {
+  --bg:       #F0F3F7;
+  --surface:  #FFFFFF;
+  --text:     #1A2535;
+  --muted:    #5E6E87;
+  --border:   #D4DCE8;
+  --primary:  #1B4F82;
+  --accent:   #2E7D52;
+  --warn:     #B45309;
+  --chip-bg:  #E8EEF6;
+  --chip-fg:  #1B4F82;
+  --radius:   12px;
+  --shadow:   0 2px 12px rgba(27,79,130,.10);
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: "Noto Sans KR", -apple-system, BlinkMacSystemFont, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.65;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 40px 80px;
+  -webkit-font-smoothing: antialiased;
+}
+
+.container { max-width: 680px; margin: 0 auto; }
+
+/* ── 헤더 ── */
+header {
+  margin-bottom: 32px;
+}
+.eyebrow {
+  font-size: .78rem; font-weight: 600; letter-spacing: .08em;
+  color: var(--primary); text-transform: uppercase;
+  margin: 0 0 6px;
+}
+h1 {
+  font-size: 1.95rem; font-weight: 700; margin: 0 0 8px;
+  color: var(--primary); line-height: 1.2; text-wrap: balance;
+}
+.subtitle {
+  font-size: .96rem; color: var(--muted); margin: 0 0 16px;
+}
+.evidence-strip {
+  display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px;
+}
+.evidence-strip span {
+  font-size: .78rem; font-weight: 600;
+  background: var(--chip-bg); color: var(--chip-fg);
+  border-radius: 999px; padding: 2px 10px;
+  letter-spacing: .03em;
+}
+
+/* ── 스텝 컨테이너 ── */
+.step {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 24px 28px;
+  margin-bottom: 16px;
+  display: none;
+  animation: fadeUp .22s ease;
+}
+.step.active { display: block; }
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.step-num {
+  font-family: "JetBrains Mono", monospace;
+  font-size: .75rem; font-weight: 600; letter-spacing: .06em;
+  color: var(--muted); text-transform: uppercase;
+  margin: 0 0 8px;
+}
+.step h2 {
+  font-size: 1.18rem; font-weight: 700; margin: 0 0 20px;
+  color: var(--text); text-wrap: balance; line-height: 1.35;
+}
+
+/* ── 선택 버튼 ── */
+.choices { display: flex; flex-direction: column; gap: 10px; }
+.choice-btn {
+  display: flex; align-items: flex-start; gap: 14px;
+  background: var(--bg); border: 1.5px solid var(--border);
+  border-radius: 10px; padding: 14px 18px;
+  cursor: pointer; text-align: left; width: 100%;
+  transition: border-color .15s, box-shadow .15s, background .15s;
+  font-family: "Noto Sans KR", sans-serif;
+}
+.choice-btn:hover {
+  border-color: var(--primary); background: var(--chip-bg);
+  box-shadow: 0 2px 8px rgba(27,79,130,.12);
+}
+.choice-btn:focus-visible { outline: 3px solid var(--primary); outline-offset: 2px; }
+.choice-icon {
+  font-size: 1.35rem; flex-shrink: 0; margin-top: 1px;
+}
+.choice-text { min-width: 0; }
+.choice-label {
+  font-weight: 600; font-size: 1rem;
+  color: var(--text); display: block; margin-bottom: 2px;
+}
+.choice-detail {
+  font-size: .87rem; color: var(--muted); display: block; line-height: 1.5;
+}
+.demand-badge {
+  display: inline-block;
+  font-family: "JetBrains Mono", monospace;
+  font-size: .82rem; font-weight: 700;
+  padding: 1px 8px; border-radius: 6px;
+  margin-left: 6px;
+}
+.demand-low  { background: #e6f4ea; color: #1e7e34; }
+.demand-mid  { background: #fff4e0; color: #b8601b; }
+.demand-high { background: #fde8e8; color: #c0392b; }
+
+/* ── 결과 카드 ── */
+.result-card {
+  border-radius: var(--radius);
+  padding: 24px 28px;
+  border: 2px solid;
+  margin-bottom: 16px;
+  display: none;
+  animation: fadeUp .25s ease;
+}
+.result-card.active { display: block; }
+.result-card.green  { border-color: #2E7D52; background: #f0f8f3; }
+.result-card.blue   { border-color: var(--primary); background: #f0f4fa; }
+.result-card.amber  { border-color: var(--warn); background: #fffaf0; }
+.result-card.teal   { border-color: #2980b9; background: #f0f7fd; }
+
+.result-card h3 {
+  font-size: 1.25rem; font-weight: 700; margin: 0 0 10px;
+  display: flex; align-items: center; gap: 10px;
+}
+.result-card .rec-icon { font-size: 1.6rem; }
+.result-card p { margin: 0 0 10px; font-size: .96rem; line-height: 1.65; }
+.result-card p:last-child { margin-bottom: 0; }
+
+.evidence-note {
+  font-size: .84rem; color: var(--muted);
+  border-top: 1px solid var(--border);
+  padding-top: 10px; margin-top: 14px;
+}
+.evidence-note em { font-style: normal; font-weight: 600; color: var(--primary); }
+
+/* ── 보조 정보 박스 ── */
+.info-box {
+  background: var(--chip-bg); border-left: 4px solid var(--primary);
+  border-radius: 0 8px 8px 0; padding: 12px 16px;
+  font-size: .89rem; color: var(--text);
+  margin-bottom: 18px;
+}
+.info-box strong { color: var(--primary); }
+
+/* ── 진행 표시줄 ── */
+.progress-bar {
+  height: 4px; background: var(--border); border-radius: 999px;
+  margin-bottom: 28px; overflow: hidden;
+}
+.progress-fill {
+  height: 100%; background: var(--primary);
+  border-radius: 999px;
+  transition: width .3s ease;
+}
+
+/* ── 다시 시작 ── */
+.restart-btn {
+  background: transparent; border: 1.5px solid var(--border);
+  border-radius: 8px; padding: 10px 20px;
+  font-family: "Noto Sans KR", sans-serif;
+  font-size: .94rem; font-weight: 600; color: var(--muted);
+  cursor: pointer; margin-top: 16px;
+  transition: border-color .15s, color .15s;
+}
+.restart-btn:hover { border-color: var(--primary); color: var(--primary); }
+
+/* ── 단계 경로 표시 ── */
+.breadcrumb {
+  display: flex; flex-wrap: wrap; gap: 4px; align-items: center;
+  font-size: .8rem; color: var(--muted); margin-bottom: 20px;
+}
+.breadcrumb .crumb {
+  background: #e8eef6; color: var(--primary);
+  border-radius: 6px; padding: 2px 9px;
+  font-weight: 600; font-size: .78rem;
+}
+.breadcrumb .sep { color: var(--border); }
+
+/* ── 비교표 ── */
+.modality-table { width: 100%; border-collapse: collapse; font-size: .88rem; }
+.modality-table th {
+  background: var(--chip-bg); color: var(--primary);
+  padding: 8px 10px; text-align: left; font-weight: 700;
+  border-bottom: 2px solid var(--border);
+}
+.modality-table td {
+  padding: 9px 10px; border-bottom: 1px solid var(--border); vertical-align: top;
+}
+.modality-table tr.highlight td { background: #f0f8f3; font-weight: 600; }
+.tbl-wrap { overflow-x: auto; margin: 12px 0; border-radius: 8px; border: 1px solid var(--border); }
+
+@media (max-width: 520px) {
+  body { padding-block: 24px 60px; }
+  h1 { font-size: 1.5rem; }
+  .step { padding: 18px 16px; }
+  .result-card { padding: 18px 16px; }
+  .choice-btn { padding: 12px 14px; }
+}
+</style>
+
+<div class="container">
+
+  <header>
+    <p class="eyebrow">SDA 임상 결정 지원</p>
+    <h1>단축치열궁 전략 결정트리</h1>
+    <p class="subtitle">수요 기울기 · PCS 축 · M1-only 임플란트 옵션을 통합한 chairside 결정 도구</p>
+    <div class="evidence-strip">
+      <span>Nassani 2013</span>
+      <span>Walter 2021 15yr RCT</span>
+      <span>Koyama 2026 RCT</span>
+      <span>Gao 2025</span>
+      <span>Liang 2015 SR</span>
+      <span>Nakai 2022 RCT</span>
+    </div>
+  </header>
+
+  <div class="progress-bar"><div class="progress-fill" id="progressFill" style="width:0%"></div></div>
+  <div class="breadcrumb" id="breadcrumb"></div>
+
+  <!-- ── STEP 1: 결손 치아 범위 ── -->
+  <div class="step active" id="step1">
+    <p class="step-num">Step 1 / 4</p>
+    <h2>현재 결손 범위가 어디까지입니까?</h2>
+    <div class="info-box">
+      <strong>SDA 정의:</strong> 양측 견치·소구치 지지가 보존된 채 제1대구치 이하에서 치열이 끝나는 상태 (Walter 2021, n=215, 15yr RCT)
+    </div>
+    <div class="choices">
+      <button class="choice-btn" onclick="go(2,'m2-only')">
+        <span class="choice-icon">🦷</span>
+        <span class="choice-text">
+          <span class="choice-label">제2대구치(M2)만 결손 — 제1대구치 이하 잔존</span>
+          <span class="choice-detail">양측 또는 편측 M2 결손; 교합 접촉 4쌍 이상 유지 중
+            <span class="demand-badge demand-low">수요 3%</span>
+          </span>
+        </span>
+      </button>
+      <button class="choice-btn" onclick="go(2,'m1-m2')">
+        <span class="choice-icon">🦷🦷</span>
+        <span class="choice-text">
+          <span class="choice-label">제1 + 제2대구치(M1+M2) 결손</span>
+          <span class="choice-detail">소구치까지 잔존; 중등도 단축치열궁(Moderate SDA)
+            <span class="demand-badge demand-mid">수요 58%</span>
+          </span>
+        </span>
+      </button>
+      <button class="choice-btn" onclick="go(2,'pm-involved')">
+        <span class="choice-icon">🦷🦷🦷</span>
+        <span class="choice-text">
+          <span class="choice-label">소구치(PM) 이상 결손 포함</span>
+          <span class="choice-detail">견치·소구치 지지 불완전; 극단 단축치열궁(ESDA) 가능성
+            <span class="demand-badge demand-high">수요 93%</span>
+          </span>
+        </span>
+      </button>
+    </div>
+  </div>
+
+  <!-- ── STEP 2: PCS 확인 ── -->
+  <div class="step" id="step2">
+    <p class="step-num">Step 2 / 4</p>
+    <h2>결손된 대구치가 환자의 <em>선호 저작측(PCS)</em>에 있습니까?</h2>
+    <div class="info-box">
+      <strong>PCS 축 (Koyama 2026, RCT n=28):</strong> PCS 쪽 대구치 결손 시 저작 효율 (ME)·주관적 저작능력 (SMA) 유의 저하 (p&lt;0.05). 비선호측(non-PCS) 결손은 유의 영향 없음.
+    </div>
+    <div class="choices">
+      <button class="choice-btn" onclick="go(3,'pcs-yes')">
+        <span class="choice-icon">⚡</span>
+        <span class="choice-text">
+          <span class="choice-label">예 — 결손이 PCS 쪽</span>
+          <span class="choice-detail">환자가 주로 씹는 쪽에 대구치 결손 → 기능 저하 유의</span>
+        </span>
+      </button>
+      <button class="choice-btn" onclick="go(3,'pcs-no')">
+        <span class="choice-icon">✓</span>
+        <span class="choice-text">
+          <span class="choice-label">아니오 — 반대쪽(non-PCS) 결손</span>
+          <span class="choice-detail">저작 기능에 통계적 유의 영향 없음 (Koyama 2026)</span>
+        </span>
+      </button>
+      <button class="choice-btn" onclick="go(3,'pcs-unknown')">
+        <span class="choice-icon">?</span>
+        <span class="choice-text">
+          <span class="choice-label">불확실 / 평가 전</span>
+          <span class="choice-detail">"평소에 어느 쪽으로 주로 씹으세요?" 문진 후 재평가</span>
+        </span>
+      </button>
+    </div>
+  </div>
+
+  <!-- ── STEP 3: 환자 수요 확인 ── -->
+  <div class="step" id="step3">
+    <p class="step-num">Step 3 / 4</p>
+    <h2>환자가 보철 수복을 원합니까?</h2>
+    <div class="info-box">
+      <strong>수요 기울기 (Nassani 2013):</strong> 보철 수요는 술자 판단보다 환자가 실제로 불편을 인지하는지에 달려 있다.
+    </div>
+    <div class="choices">
+      <button class="choice-btn" onclick="go(4,'wants-yes')">
+        <span class="choice-icon">🙋</span>
+        <span class="choice-text">
+          <span class="choice-label">예 — 수복을 원한다</span>
+          <span class="choice-detail">기능·심미 불편 호소, 적극적 수복 의사 표명</span>
+        </span>
+      </button>
+      <button class="choice-btn" onclick="go(4,'wants-no')">
+        <span class="choice-icon">✋</span>
+        <span class="choice-text">
+          <span class="choice-label">아니오 — 현재 상태에 만족</span>
+          <span class="choice-detail">별다른 불편 없음; 수복 의사 없음</span>
+        </span>
+      </button>
+    </div>
+  </div>
+
+  <!-- ── STEP 4: 임플란트 가능 여부 ── -->
+  <div class="step" id="step4">
+    <p class="step-num">Step 4 / 4</p>
+    <h2>임플란트 식립이 가능한 조건입니까?</h2>
+    <div class="info-box">
+      <strong>Gao 2025 (retrospective, n=247):</strong> M1-only 임플란트 = SDA 개념 적용. 생존율 동등 (HR 1.66, p=0.567), 치주염 0% vs 16.2%, 비용 1.7배 절감.
+    </div>
+    <div class="choices">
+      <button class="choice-btn" onclick="showResult('implant-m1only')">
+        <span class="choice-icon">🔩</span>
+        <span class="choice-text">
+          <span class="choice-label">예 — 임플란트 가능 (골량·전신 조건 충족)</span>
+          <span class="choice-detail">잔존골 적절, 금기사항 없음</span>
+        </span>
+      </button>
+      <button class="choice-btn" onclick="showResult('rpd-nmcd')">
+        <span class="choice-icon">🦷</span>
+        <span class="choice-text">
+          <span class="choice-label">아니오 / 미정 — 가철성 보철 검토</span>
+          <span class="choice-detail">골이식 필요, 전신 금기, 비용·시간 제약 또는 환자 선호</span>
+        </span>
+      </button>
+    </div>
+  </div>
+
+  <!-- ── RESULTS ── -->
+
+  <!-- M2-only + non-PCS: SDA 유지 권장 -->
+  <div class="result-card green active" id="result-sda-maintain" style="display:none">
+    <h3><span class="rec-icon">✅</span> SDA 유지 — 수복 불필요</h3>
+    <p><strong>근거:</strong> 제2대구치만 결손 시 보철 수요는 ~3% (Nassani 2013). 양측 견치·소구치 지지 보존 시 Walter 2021 15년 RCT에서 SDA 군과 완전 수복 군의 보철 성공률에 유의차 없음.</p>
+    <p>현재 결손 범위에서 수복 시도는 술자가 만들어내는 필요(clinician-driven need)일 가능성이 높습니다. 경과 관찰 + 교육적 상담을 우선 시행하십시오.</p>
+    <div class="evidence-note">
+      출처: <em>Nassani 2013</em> (수요 기울기), <em>Walter 2021</em> (15yr RCT), <em>Kalsi 2021</em> (치주 안전성)
+    </div>
+    <button class="restart-btn" onclick="restart()">↺ 다시 시작</button>
+  </div>
+
+  <!-- M2-only + PCS: 관찰하되 기능 평가 -->
+  <div class="result-card green" id="result-m2-pcs-observe" style="display:none">
+    <h3><span class="rec-icon">🔍</span> SDA 유지 + 기능 모니터링</h3>
+    <p>M2 결손이 PCS에 해당하더라도 수요 자체는 낮습니다 (~3%). <strong>Koyama 2026</strong>의 대상은 M1 수준 결손 시뮬레이션이므로 M2 단독 결손에서의 임상 유의성은 아직 불확실합니다.</p>
+    <p>저작 불편 증상이 있는 경우 저작 기능 보상 예측기를 참조하여 RPD 개입 여부를 재평가하십시오.</p>
+    <div class="evidence-note">
+      출처: <em>Nassani 2013</em>, <em>Koyama 2026</em> (PCS molar, 교합 부목 시뮬레이션)
+    </div>
+    <button class="restart-btn" onclick="restart()">↺ 다시 시작</button>
+  </div>
+
+  <!-- 환자 수복 안 원함 -->
+  <div class="result-card green" id="result-no-demand" style="display:none">
+    <h3><span class="rec-icon">✅</span> SDA 유지 — 환자 의사 존중</h3>
+    <p>환자가 현재 상태에 만족하고 있습니다. OHRQoL 연구들(Fueki 2017 SR+MA, McKenna 2018 RCT)에서 SDA는 RPD 대비 비열등한 결과를 반복적으로 보입니다.</p>
+    <p>정기 경과 관찰 시 변화가 생기면 재평가하십시오. 수복 의사 없는 환자에게 적극 권유는 의학적 근거가 없습니다.</p>
+    <div class="evidence-note">
+      출처: <em>Walter 2021</em>, <em>Fueki 2017</em> SR+MA, <em>McKenna 2018</em> RCT
+    </div>
+    <button class="restart-btn" onclick="restart()">↺ 다시 시작</button>
+  </div>
+
+  <!-- M1-only 임플란트 권장 -->
+  <div class="result-card blue" id="result-implant-m1only" style="display:none">
+    <h3><span class="rec-icon">🔩</span> M1-only 임플란트 권장 (SDA 개념 적용)</h3>
+    <p>임플란트 적응증이면 <strong>M1까지만 수복(SDA 개념)</strong>이 M1+M2 전체 수복 대비 동등한 성과를 냅니다.</p>
+    <div class="tbl-wrap">
+      <table class="modality-table">
+        <thead>
+          <tr><th>항목</th><th>M1-only</th><th>M1+M2</th></tr>
+        </thead>
+        <tbody>
+          <tr class="highlight"><td>생존율</td><td>동등 (HR 1.66, p=0.567)</td><td>기준</td></tr>
+          <tr><td>치주염 (3yr)</td><td><strong>0%</strong></td><td>16.2%</td></tr>
+          <tr><td>비용</td><td>1.7× 절감 (β=−14.40)</td><td>기준</td></tr>
+          <tr><td>MBL</td><td>보호적 효과</td><td>—</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p>M2 임플란트 추가는 생존율 개선 없이 비용·감염 위험만 증가시킵니다.</p>
+    <div class="evidence-note">
+      출처: <em>Gao 2025</em> retrospective, n=247 (283 regions), 3yr f/u
+    </div>
+    <button class="restart-btn" onclick="restart()">↺ 다시 시작</button>
+  </div>
+
+  <!-- RPD / NMCD 권장 -->
+  <div class="result-card teal" id="result-rpd-nmcd" style="display:none">
+    <h3><span class="rec-icon">🦷</span> 가철성 보철 — NMCD 우선 검토</h3>
+    <p>가철성 보철을 선택한다면 <strong>비금속 클라스프 의치(NMCD, Non-Metal Clasp Denture)</strong> 또는 접착성 FDP가 일반 RPD보다 높은 OHRQoL을 보입니다.</p>
+    <div class="tbl-wrap">
+      <table class="modality-table">
+        <thead>
+          <tr><th>방식</th><th>OHRQoL</th><th>비고</th></tr>
+        </thead>
+        <tbody>
+          <tr class="highlight"><td>NMCD</td><td>최우수 (Nakai 2022)</td><td>within-patient 비교 1위</td></tr>
+          <tr><td>SDA (무보철)</td><td>RPD보다 우수</td><td>동일 연구 내 2위</td></tr>
+          <tr><td>일반 RPD</td><td>최하위</td><td>표준치료이나 OHRQoL 최저</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p>저작 기능 보상 필요 시 <strong>인공치 수가 많을수록</strong> 저작 수행력 개선 (용량-반응, Liang 2015 SR 4/5 연구에서 유의).</p>
+    <div class="evidence-note">
+      출처: <em>Nakai 2022</em> crossover RCT, <em>Liang 2015</em> SR, <em>Drummond 2024</em> (지대치 치주 위험 OR 1.99)
+    </div>
+    <button class="restart-btn" onclick="restart()">↺ 다시 시작</button>
+  </div>
+
+  <!-- PCS 기능 개입 + 방식 선택 합류 -->
+  <div class="result-card amber" id="result-pcs-intervene" style="display:none">
+    <h3><span class="rec-icon">⚡</span> 기능적 개입 권장 — PCS 대구치 결손</h3>
+    <p>선호 저작측(PCS) 대구치 결손은 저작 효율(ME)·주관적 저작능력(SMA)을 유의하게 저하시킵니다 (Koyama 2026, p&lt;0.05). 기능적 이유만으로도 개입 근거가 있습니다.</p>
+    <p><strong>보호 요인:</strong> 제2소구치에 주교합접촉영역(MOA)이 있는 환자는 대구치 결손 시 기능 저하 폭이 더 작습니다 (subgroup p&lt;0.05).</p>
+    <p>다음 단계로 임플란트 가능 여부를 평가하십시오.</p>
+    <div class="evidence-note">
+      출처: <em>Koyama 2026</em> RCT crossover, n=28, 교합 부목 PCS/non-PCS 시뮬레이션
+    </div>
+    <button class="choice-btn" style="margin-top:12px" onclick="go(4,'pcs-intervene')">
+      👉 다음: 임플란트 가능 여부 평가 →
+    </button>
+    <button class="restart-btn" onclick="restart()">↺ 처음으로</button>
+  </div>
+
+  <!-- non-PCS M1+M2: 기능 무관, 수요 기반 -->
+  <div class="result-card green" id="result-nonpcs-demand" style="display:none">
+    <h3><span class="rec-icon">ℹ️</span> 기능적 개입 근거 약함 — 환자 수요 중심 결정</h3>
+    <p>비선호측(non-PCS) 대구치 결손은 저작 기능에 통계적으로 유의한 영향을 주지 않습니다 (Koyama 2026). 따라서 기능 저하를 이유로 한 보철 개입 근거는 약합니다.</p>
+    <p>수요 기울기 58% — 환자 10명 중 6명은 보철을 원하지만, <strong>환자 개인의 의사</strong>를 재확인하십시오. 원한다면 방식 선택으로 이동합니다.</p>
+    <button class="choice-btn" style="margin-top:12px" onclick="go(3,'nonpcs-check-demand')">
+      👉 환자 수복 의사 재확인 →
+    </button>
+    <button class="restart-btn" onclick="restart()">↺ 처음으로</button>
+  </div>
+
+</div><!-- /.container -->
+
+<script>
+// 상태 추적
+const state = { step: 1, choices: [] };
+
+function updateProgress(stepNum) {
+  const pct = (stepNum - 1) / 4 * 100;
+  document.getElementById('progressFill').style.width = pct + '%';
+}
+
+function updateBreadcrumb() {
+  const bc = document.getElementById('breadcrumb');
+  if (state.choices.length === 0) { bc.innerHTML = ''; return; }
+  const labels = {
+    'm2-only': 'M2만 결손', 'm1-m2': 'M1+M2 결손', 'pm-involved': 'PM 이상',
+    'pcs-yes': 'PCS 쪽', 'pcs-no': 'non-PCS', 'pcs-unknown': 'PCS 미확인',
+    'wants-yes': '수복 원함', 'wants-no': '수복 불원',
+    'nonpcs-check-demand': 'non-PCS → 수요 확인',
+    'pcs-intervene': 'PCS 개입',
+  };
+  let html = '';
+  state.choices.forEach((c, i) => {
+    if (i > 0) html += '<span class="sep">›</span>';
+    html += `<span class="crumb">${labels[c] || c}</span>`;
+  });
+  bc.innerHTML = html;
+}
+
+function hideAllSteps() {
+  document.querySelectorAll('.step').forEach(s => s.classList.remove('active'));
+  document.querySelectorAll('.result-card').forEach(r => { r.style.display = 'none'; r.classList.remove('active'); });
+}
+
+function go(stepNum, choice) {
+  state.choices.push(choice);
+  updateBreadcrumb();
+
+  // 분기 로직
+  if (choice === 'm2-only') {
+    // M2만 결손 → step2 PCS
+    showStep(2);
+  } else if (choice === 'pcs-no' && state.choices.includes('m2-only')) {
+    // M2 + non-PCS → SDA 유지
+    showResultCard('result-sda-maintain');
+  } else if (choice === 'pcs-yes' && state.choices.includes('m2-only')) {
+    // M2 + PCS → 모니터링
+    showResultCard('result-m2-pcs-observe');
+  } else if (choice === 'pcs-unknown' && state.choices.includes('m2-only')) {
+    showResultCard('result-sda-maintain'); // 보수적
+  } else if (choice === 'm1-m2' || choice === 'pm-involved') {
+    showStep(2); // PCS 확인으로
+  } else if (choice === 'pcs-no' && !state.choices.includes('m2-only')) {
+    // M1+M2 또는 PM, non-PCS → 수요 확인
+    showResultCard('result-nonpcs-demand');
+  } else if (choice === 'pcs-yes' && !state.choices.includes('m2-only')) {
+    showResultCard('result-pcs-intervene');
+  } else if (choice === 'pcs-unknown') {
+    showStep(3); // 수요 확인으로
+  } else if (choice === 'nonpcs-check-demand') {
+    showStep(3);
+  } else if (choice === 'pcs-intervene') {
+    showStep(4);
+  } else if (choice === 'wants-no') {
+    showResultCard('result-no-demand');
+  } else if (choice === 'wants-yes') {
+    showStep(4);
+  } else {
+    showStep(stepNum);
+  }
+  updateProgress(stepNum);
+}
+
+function showStep(n) {
+  hideAllSteps();
+  const s = document.getElementById('step' + n);
+  if (s) { s.classList.add('active'); updateProgress(n); }
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+function showResult(id) {
+  state.choices.push(id);
+  updateBreadcrumb();
+  showResultCard('result-' + id);
+}
+
+function showResultCard(id) {
+  hideAllSteps();
+  document.getElementById('progressFill').style.width = '100%';
+  const card = document.getElementById(id);
+  if (card) { card.style.display = 'block'; card.classList.add('active'); }
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+function restart() {
+  state.choices = [];
+  updateBreadcrumb();
+  hideAllSteps();
+  document.getElementById('step1').classList.add('active');
+  document.getElementById('progressFill').style.width = '0%';
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+</script>
