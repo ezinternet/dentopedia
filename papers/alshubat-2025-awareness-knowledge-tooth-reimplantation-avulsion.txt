@@ -1,0 +1,75 @@
+Title: Awareness and Knowledge of Tooth Reimplantation After Avulsion Among Dental and Non-dental Populations: A Systematic Review
+Authors: Alshubat A, et al.
+Journal: Cureus
+Year: 2025
+DOI: 10.7759/cureus.99917
+PMID: 41583179
+PMC: PMC12825098
+
+ABSTRACT
+Tooth avulsion is one of the most severe forms of traumatic dental injury, and its prognosis depends heavily on immediate and appropriate first-aid management, including prompt reimplantation or correct temporary storage of the avulsed tooth. This systematic review evaluates global awareness and knowledge of tooth reimplantation across dental populations (dentists, dental professionals, and dental students) and non-dental populations (parents, school teachers, emergency physicians, first responders, and the general public). A comprehensive search of PubMed, ScienceDirect, Cochrane Library, and Google Scholar identified 8,133 records, of which 19 cross-sectional studies met the eligibility criteria, representing 5,752 participants from 10 countries. Most studies demonstrated moderate methodological quality. The findings reveal substantial deficiencies in knowledge, particularly among non-dental populations. Awareness that an avulsed tooth can be replanted ranged widely, from as low as 23% among parents to over 80% among dental professionals; however, even among trained providers, detailed protocol-based knowledge was inconsistent. Understanding of critical steps — including the optimal replantation window (<30 minutes), appropriate storage media such as milk or saline, and correct handling techniques — was generally poor across most groups. Only 2–37% of respondents in non-dental populations indicated willingness or ability to attempt immediate replantation. Misconceptions regarding inappropriate storage materials, delayed referral, and handling of the root surface were prevalent. Studies that included educational interventions demonstrated marked improvements in awareness and decision-making. Overall, this review demonstrates a significant global knowledge gap in the emergency management of tooth avulsion, particularly among non-dental populations, underscoring the urgent need for targeted educational interventions and improved dissemination of evidence-based guidelines to enhance reimplantation outcomes.
+
+FULL TEXT
+
+INTRODUCTION
+Traumatic dental injuries (TDIs) represent a significant public health concern, particularly among children and adolescents. One of the most severe forms of TDI is tooth avulsion, defined as the complete displacement of a tooth from its socket. Prevalence of avulsion ranges from approximately 0.5% to 16% of all dental injuries in the permanent dentition. Avulsion of a permanent tooth is a dental emergency requiring immediate management. Prognosis is critically dependent on: (1) extra-oral dry time, and (2) choice of storage medium. According to IADT guidelines, prompt reimplantation or appropriate interim storage is essential to preserve periodontal ligament viability. Hank's Balanced Salt Solution (HBSS) is the ideal storage medium; however, milk is a commonly available practical alternative.
+
+METHODOLOGY
+Design: Systematic review (PRISMA 2020 guidelines). No meta-analysis performed due to substantial clinical and methodological heterogeneity.
+Databases: PubMed, ScienceDirect, Cochrane Library, Google Scholar (from inception to October 2025).
+Inclusion: Cross-sectional, observational, or survey-based designs assessing awareness/knowledge of tooth avulsion or reimplantation; dental and non-dental populations; peer-reviewed English-language articles.
+PICO: Population = dental professionals/students + non-dental (parents, teachers, emergency physicians, general public); Intervention = exposure to knowledge/awareness about avulsion management; Comparison = dental vs non-dental; Outcomes = awareness of reimplantation possibility, knowledge of storage media, knowledge of replantation time window, handling technique.
+Quality assessment: Modified Newcastle-Ottawa Scale (NOS), scored 0–10; studies rated high (6 studies), moderate (13 studies).
+
+RESULTS
+Study selection: 8,133 initial records; 19 cross-sectional studies included; 5,752 participants; 10 countries (Brazil, India, Morocco, Pakistan, Qatar, Saudi Arabia, Turkey, Yemen, Kuwait, Oman).
+
+DENTAL POPULATIONS (6 studies):
+- Awareness that avulsed tooth can be replanted: 66% (Pakistan final-year students) to 87.6% (Yemeni professionals)
+- Knowledge of <30-min replantation window: 41.6–63.9%
+- HBSS as ideal medium: 40.1% (Yemeni dentists); Milk+saline combined: 83.4% (Brazilian GDPs)
+- Immediate replantation at accident site: 37.1% recommended (Brazil)
+- Handling by crown: 39.1–45% (Pakistan)
+- Splinting 7–14 days: 26.7% (Yemen)
+
+NON-DENTAL POPULATIONS (13 studies):
+- Awareness that tooth can be replanted: 23.2% (Indian parents) to 79% (Saudi teachers)
+- Willingness to attempt immediate replantation: 2% (Indian parents) to 37% (combined across groups)
+- Milk as suitable medium: 2.3–15.2% of parents across studies
+- Knowledge of replantation time window: 14.5–33% (non-dental groups)
+- Emergency physicians: 72% theoretical awareness (Oman), 28% would replant (Turkey); low practical confidence
+
+EDUCATIONAL INTERVENTIONS:
+- Kuwait teachers (Al-Asfour 2008): knowledge of correct storage medium 4%→86% after 30-min session; time sensitivity awareness 1%→74%; general knowledge 39%→97%
+
+KEY SUMMARY TABLE (selected studies):
+| Study | Population | Aware replant possible | Willing replant | Milk as medium | <30 min window |
+|---|---|---|---|---|---|
+| Al-Huthaifi 2025 | Dental (Yemen) | 87.6% | implied | 36.1% | 63.9% |
+| Noor 2023 | Dental students (Pakistan) | implied | 66% | 79% | implied |
+| Vasconcellos 2009 | GDPs (Brazil) | N/R | 37.1% | 83.4% | 59.1% |
+| Al-Khalifa 2022 | Teachers (Saudi Arabia) | 79% | 5% | 28% | 30% |
+| Rashmi 2023 | Parents (India) | 23.2% | 2% | 2.3% | 14.5% |
+| Gill 2022 | Parents (India) | 54.8% | 2% | 12.8% | 47.1% |
+| Al-Asfour 2008 | Teachers (Kuwait) pre/post | 39%/97% | N/R | 4%/86% | 1%/74% |
+
+COMPARATIVE TRENDS:
+Dental professionals/students: ~50% correct knowledge overall.
+Non-dental respondents: ~15–20% average correct knowledge.
+A substantial preparedness gap exists between dental and lay populations.
+
+DISCUSSION
+Key variables that influence prognosis: extra-alveolar time and choice of storage/transport medium are among the most important determinants. SR+MA on storage media: HBSS is ideal, but milk, saliva, and other accessible fluids offer significantly better outcomes than dry storage. Immediate reimplantation (within 30 minutes) is gold standard.
+
+Dental curricular emphasis: students learn avulsion is an emergency, but detailed protocol-based knowledge (storage media, timing, splinting, follow-up) remains suboptimal. Non-dental groups have little or no formal education in dental trauma management.
+
+LIMITATIONS
+- Studies use self-administered questionnaires (declared knowledge, not observed behavior — may overestimate actual competence)
+- Heterogeneity in study designs, populations, definitions of "adequate knowledge"
+- Majority of evidence from Middle East and South Asia — may not reflect global diversity
+- Few studies evaluate long-term outcomes (tooth survival)
+- English-language restriction may introduce language bias
+- No meta-analysis performed (narrative synthesis only)
+
+CONCLUSIONS
+Significant global deficiency in awareness and knowledge regarding emergency management of tooth avulsion. Non-dental populations (parents, teachers) show critically low awareness. Dental professionals have higher theoretical awareness but inconsistent protocol knowledge. Educational interventions (even brief 30-min sessions) dramatically improve outcomes. Integration of dental trauma management into school health programs, medical/dental curricula, and community awareness campaigns is urgently needed.
