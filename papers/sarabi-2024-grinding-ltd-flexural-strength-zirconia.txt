@@ -1,0 +1,227 @@
+Introduction
+
+High-strength zirconia-based ceramics along with the computer-aided design/computer-aided manufacturing (CAD/CAM) technology have widely gained acceptance in dentistry. Zirconia has unique properties such as biocompatibility, high flexural strength, high fracture toughness, and wear resistance, that make it attractive for use in restorative dentistry [,]. However, edge chipping and interfacial fracture of feldspathic ceramic (zirconia interface) are the main concerns for failure of veneered zirconia restorations. On the other hand, cohesive failure of the veneering ceramic has been reported as a major drawback [,]. Fabricating monolithic zirconia restorations from pre-sintered zirconia blanks using a copy milling machine without any veneering could be an alternative approach to prevent the veneering failure []. As the final step, full-contour zirconia restorations are glazed in a laboratory. For optimal occlusal contact and axial contours, the anatomically contoured restorations may be ground with diamond rotary instruments and adjusted in the oral cavity []. Furthermore, grinding can create microcracks deeper than the depth of the compressive stress layer, which can negatively affect the material strength [,]. During the glazing procedure, the rough surfaces and scratches produced by grinding are filled, and a smooth surface is obtained [,]. In many circumstances, occlusal adjustment and axial recontouring after glazing and cementation may be required, which may lead to rough surfaces, plaque accumulation, dental caries, gingival inflammation, and opposing tooth wear []. Polishing can reduce the surface flaws and promote surface smoothness and flexural strength of these restorations [,]. Grinding can also produce compressive stresses in the surface through which, crack healing and material strength are improved via phase transformation (transformation toughening) [-].
+
+Hydrothermal stresses can lead to transformation of the tetragonal phase to the monoclinic phase []. Excess volume and micro- and macro-cracks are formed due to the prolonged exposure to an aqueous environment and high temperatures (65-300C) [], leading to reduced mechanical properties. This is known as low-temperature degradation (LTD) [,,]. According to Inokoshi M et al., water can travel farther into the ceramic through the paths created by micro-cracks, which can lead to a significant decrease in the flexural strength of two brands of zirconia due to LTD [].
+
+Tooth brushing is a common method of daily oral hygiene, which can affect the physical and chemical properties as well as surface topography of dental materials [,]. Daily tooth brushing eliminates the characterized surface of monolithic zirconia due to the formation of 3- or 4-body wears by the abrasive content of the toothpaste and leads to surface roughening and plaque accumulation []. The effects of tooth brushing and thermocycling have been investigated on many dental materials but these effects on monolithic zirconia remain questionable [,].
+
+Also, the exact effect of interactions of oral environmental factors (saliva, acids, temperature, humidity, and physical stresses) on the transformation rate has not yet been identified. Changes in pH resulting from the ingestion of acidic foods and beverages or from acid production by oral microorganisms can influence the mechanical characteristics of zirconia. The ionic composition and buffering capacity of saliva also impact the properties of restorations within the oral cavity. Evidence shows the occurrence of LTD in some brands of yttria-stabilized tetragonal zirconia polycrystalline (Y-TZP); however, the residual strength of the material is still regarded as being excessive [-].
+
+A standardized method for replicating pH fluctuations in the oral environment has not been established [,-]. Some researchers have employed gastric acid juice and hydrochloric acid solutions with varying pH levels (ranging from 1.2 to 3.8) for different durations (ranging from 6 to 96 hours) []. Alnaser et al. [] recreated acidic conditions resembling those seen in bulimia nervosa and gastroesophageal reflux disease, whereas Turp et al. [] immersed zirconia specimens in solutions with pH values of 3.5, 7.0, and 10. In our study, to simulate a high cariogenic challenge, specimens underwent an alternating demineralization and remineralization regimen [,-].
+
+The aim of this study was to determine the effects of glazing, grinding, and intraoral polishing on flexural strength and phase transformation of Y-TZP following aging. The first null hypothesis was that different surface treatments would have no significant effect on flexural strength and phase transformation. The second null hypothesis was that the aging process would have no significant effect on the monoclinic content and mean flexural strength of surface-treated zirconia.
+
+MATERIALS AND METHODS
+
+Sixty-four bar-shaped specimens (20×4×2mm) were milled from pre-sintered zirconia blanks (Zirconzahn; Steger, Ahrntal, Italy) using the CAD/DAM system. According to the manufacturer’s instructions, the specimens were sintered at 1450C. Afterwards, all samples were wet-polished with 600-, 800-, and 1200-grit silicon carbide papers (Struers A/S) for 15 seconds under 10N load utilizing a grinding/polishing machine (Phoenix; Beta grinder/polisher, Buehler) at a speed of 300rpm []. The specimens were then randomly divided into 8 experimental groups (N=8) as follows:
+
+Sp, standard polishing without any surface treatment,
+
+Sp-Ag, standard polishing followed by artificial aging,
+
+Gr, wet-grinding with a blue-yellow band diamond rotary instrument (D+Z, Germany) in a forward-backward sweeping motion. The grinding was done for 20 seconds at 200kPa pressure using a high-speed handpiece under an air-water coolant [],
+
+Gr-Ag, grinding (as in group Gr) followed by artificial aging,
+
+Gl, grinding (as in group Gr) followed by over-glazing. The over-glaze powder was mixed with the glaze liquid and applied in a very thin layer and then fired at 820C for 2 minutes (Zircon Glaze and Zircon ICE stain liquid, Zirkonzahn),
+
+Gl-Ag, grinding and glazing (as in group Gl) followed by artificial aging,
+
+Po, grinding (as in group Gr) followed by wet-polishing with an intraoral zirconia polishing system (EVE Diacera, Germany) in two-steps using green (medium) and pink (fine) polishing rubbers for 60 seconds. A low-speed handpiece (NSK) was employed using a forward-backward-directed sweeping motion and water spray,
+
+Po-Ag, grinding and polishing (as in group Po) followed by artificial aging.
+
+All samples were cleaned with 100% distilled water in an ultrasonic cleaner (Tuc-150, Telsonic AG; Bronschhofen) for 60s followed by air-drying. The aging process was performed in three steps:
+
+(I) LTD for 40 hours at a temperature of 134°C and 2 bar vapor pressure based on ISO13356 [].
+
+(II) pH- cycling by immersion of the samples in 5mL demineralizing solution for 6 hours and rinsing under distilled deionized water followed by immersion in 5mL remineralizing solution for 18 hours at a temperature of 37°C. The demineralizing solution consisted of an acid containing 2mM of calcium and phosphate each within a buffering solution of 0.74mM acetate (pH, 4.3). Conversely, the mineralizing solution, mimicking artificial saliva, comprised 1.5mM calcium, 0.9mM phosphate (in 20mM Tris buffer) and 150mM potassium chloride (hydroxyl methyl aminomethane) , with a pH level set at 7. This cyclical process was repeated 15 times []. Subsequently, specimens were subjected to rinsing in deionized distilled water and then placed in incubation at 37°C under conditions of 100% humidity.
+
+(III) Simulated tooth brushing: using a digital scale, Crest V Complete toothpaste (Gross Greau, United States) and water were weighed and mixed (1:3) in a graded beaker to acquire a homogenous suspension. The toothpaste suspension was poured into the cylinders containing the specimens and toothbrush, ensuring complete coverage of the specimen surfaces. An automatic brushing machine (V8 Brushing Machine, DORSA) with soft bristles (Classic 411 VSA, GVM) was used to brush the samples. The toothbrush head was positioned perpendicular to the specimen surface and moved back and forth at a rate of 2 strokes per second, completing a total of 10,000 cycles [,,].
+
+One specimen from each group was selected to perform the phase transformation analysis by X-ray diffraction (XRD, PANalytical B.V. - X’Pert, PRO MPD; Japan), based on the equation proposed by Gravies and Nicholson. The flexural strength of the specimens was calculated (MPa) based on the equation suggested by the International Organization for Standardization standard 6872 [,], using a universal testing machine (Z020; Zwick-Roell, Germany).
+
+Where p, l, w, b and d are the applied load (N), test span (mm), specimen width (mm), and specimen thickness, respectively. The distribution of data for the 95% confidence interval was assessed using the Kolmogorov-Smirnov test. Subsequently, a two-way ANOVA was conducted to identify statistical variances among the groups, followed by the application of Tukey’s post-hoc test to identify specific group differences. Additionally, the correlation between phase transformation and flexural strength was examined using the Pearson’s correlation test. P<0.05 was considered significant.
+
+Results
+
+The mean ±SD values of flexural strength (Mpa) analyzed by two-way ANOVA, had significant differences among the 8 groups (P<0.0001,). Tukey’s test indicated that the specimens of group Po had the highest mean value of flexural strength (933.7435.4MPa) and that it was not significantly different (P=0.8012) from the value in group Gr (900.471.8MPA). Group Sp (729.7438 MPa), however, had the lowest flexural strength value, and it was not significantly different (P=0.967) from the value in the Gl group (752. 5632.26MPa). The mean flexural strength values of groups Gr and Po were considerably higher than the values in group Sp (both, P<0.0001) and group Gl (both, P<0.0001). The mean flexural strength values of the groups Gr, Po, Gl, and Sp were not significantly higher than the values in groups Gr-Ag, Po-Ag, Gl-Ag, and Sp-Ag (P=0.109, P=0.970, P=0.599, and P=0.849, respectively).
+
+Before aging, the highest value of the monoclinic phase () was observed in group Gr (12.6%). The monoclinic phase decreased in group PO (10.2%). There was no monoclinic phase in groups Sp and Gl. In the aged groups, the highest value of the monoclinic phase was noted in group Gr-Ag (51.2%), followed by Gl-Ag (41.8%) and Po-Ag (38.8%). The lowest value of the monoclinic phase was noted in group Sp-Ag (15. 4%). After the artificially aging process, however, the percentage of the monoclinic phase increased.
+
+The Pearson’s correlation test revealed a significant correlation between phase transformation and flexural strength in all groups (P<0.05). In group Gr and Po, the flexural strength increased by an increase in the percentage of monoclinic phase. In group Gl, the percentage of monoclinic phase did not increase and the flexural strength did not change. In three groups of Gr-Ag, Po-Ag and Gl-Ag, increase in the percentage of monoclinic phase did not change the flexural strength.
+
+Table 1
+
+Maximum, minimum, and mean (±standard deviation) flexural strength (MPa) in all experimental groups (N=8)
+
+Groups
+
+Maximum
+
+Minimum
+
+Mean±standard deviation
+
+Grinding
+
+1024.88
+
+821.64
+
+900.4±71.8
+
+Grinding and aging
+
+938.73
+
+761.49
+
+837.9±66
+
+Glazing
+
+796.85
+
+712.47
+
+752.56±32.26
+
+Glazing and aging
+
+755.31
+
+637.41
+
+711.93±36.16
+
+Polishing
+
+974.51
+
+871.26
+
+933.74±35.4
+
+Polishing and aging
+
+943.93
+
+884.41
+
+911.3±20.73
+
+Standard polishing
+
+799.87
+
+689.21
+
+729.74±38
+
+Standard polishing and aging
+
+728.16
+
+658.59
+
+698.55±26.27
+
+Different lowercase letters show significant differences between non-aged groups and different uppercase letters show significant differences between aged groups (P<0.001)
+
+Table 2
+
+Relative amounts (percentage) of monoclinic and tetragonal phases in one sample of each group, based on X-ray diffraction analysis
+
+Groups
+
+Phase (%)
+
+Tetragonal
+
+Monoclinic
+
+Standard polishing
+
+100
+
+0
+
+Glazing
+
+100
+
+0
+
+Grinding
+
+87.4
+
+12.6
+
+Polishing
+
+89.8
+
+10.2
+
+Standard polishingand aging
+
+84.6
+
+15.4
+
+Glazing and aging
+
+58.2
+
+41.8
+
+Grinding and aging
+
+48.8
+
+51.2
+
+Polishing and aging
+
+61.2
+
+38.8
+
+Discussion
+
+The findings of the present study did not support our first null hypothesis since grinding and polishing affected phase transformation and flexural strength. However, the second null hypothesis was confirmed in terms of flexural strength, but rejected in terms of phase transportation, since the aging process increased the monoclinic content of all groups.
+
+Despite the availability of some studies on flexural strength, the role and the interaction effects of the oral environment such as the presence of saliva, thermal alterations, physical load, and pH on the flexural strength have not been well investigated [,]. It is therefore difficult to draw any conclusion regarding the effect of aging on zirconia solely by referring to the existing literature.
+
+Grinding and polishing produce residual surface compressive stresses that can transform the tetragonal phase to the monoclinic phase (transformation toughening), leading to an increase in the flexural strength of zirconia []. In this study, increased strength after grinding was due to increased content of monoclinic phase and subsequently increased volume of the grains, which would lead to subsequent prevention of crack propagation and local plastic deformation in a thin layer and consequent formation of residual compressive stresses in the surface []. Polishing eliminates the surface flaws caused by grinding and increases the flexural strength compared with grinding []. However, due to the small difference in the percentage of phases between the two groups, this difference did not reach statistical significance in our study. Kosmac et al, [] reported a reduction in monoclinic phase content at temperatures higher than 350°C (it decreased to < 2% at 900°C), and a strength reduction after grinding due to monoclinic to tetragonal phase transformation. In contrast to that study, we used a diamond bur and a polishing rubber system under air and water coolant and thus, it seems that the temperature rise in the Gr and Po groups was not high enough to induce reverse phase transformation []. In our study, similar to that of Yener et al. [], glazing decreased the flexural strength, which may be due to the moisture of the glazing material or a combination of zirconia manufacturing process, grinding, finishing, and thermal correction. Kumchai et al. [] explained that changes in the coefficient of thermal expansion of the glaze material (which is made of porcelain powder), similar to thermal expansion that occurs in feldspathic ceramics phases, can cause cracks and subsequently decrease the strength. Absence of monoclinic phase in groups Sp and Gr, similar to the study by Subaşı et al. [] can explain the strength reduction. Thus, it seems that the low percentage of monoclinic phase has a direct correlation with flexural strength.
+
+Repeated mechanical loading and thermal cycling in the oral environment may intensify the grinding-induced surface flaws and result in fracture at lower loads []. In contrast to some previous studies [,] and similar to some others [,], the aging process simulated the oral environment and decreased the flexural strength insignificantly both statistically and clinically since the lowest value of the mean flexural strength was more than 500 Mpa (ISO standard 13356) [,], exceeding the mean occlusal load [].
+
+Turp et al. [], evaluated the flexural strength at different pH values and explained that acidic and alkaline environments decreased the flexural strength and increased the tetragonal-monoclinic phase transformation; their findings were similar to those of Ardlin [] who reported an increase in tetragonal to monoclinic phase transformation and incidence of cracks and pores on the surface of the specimens, which decreased their mechanical properties.
+
+In the current study, pH-cycling was used as part of the aging procedure and led to transformation increase and no significant reduction in flexural strength. It seems that the transformation occurred on the external surface, and the internal flaws were not critical enough to significantly affect the flexural strength []. Similarly, Subaşı et al. [] indicated that heat treatment increased the monoclinic content, and it did not have any adverse effect on the flexural strength.
+
+The study carried out by Flinn et al. [] in contrast to the results obtained in our study, showed that the percentage of monoclinic phase (25%-80%) was directly linked to aging time (50-200 hours) and that the mean flexural strength decreased following 200 hours of aging, which resulted in monoclinic transformation higher than 50%. In our study, a significant correlation was noted between phase transformation and strength in all groups such that increasing the monoclinic phase percentage over 15% in zirconia caused a reduction in flexural strength in aged groups; however, this reduction was not significant. The phase transformation and LDT depend on the zirconia microstructure, grain size, yttrium content, density, and some other factors [].
+
+Similarly, Flinn et al. [] concluded that some brands showed a slight decrease in flexural strength. This may be due to the composition and behavior of different YTZP brands and their processing, that can affect the microstructure and resistance to LTD.
+
+In this in vitro study, the clinical oral environment was simulated using a three-step aging process for one type of zirconia. The comparison of different brands of zirconia can give a better understanding of the composition effect.
+
+CONCLUSION
+
+Considering the limitations of the present in vitro study, the following conclusions were drawn:
+
+1. Polishing the zirconia surface resulted in a higher mean flexural strength compared to both group Sp and group Gl.
+
+2. The mean flexural strength of zirconia after grinding and polishing was not significantly different.
+
+3. The aging process had no adverse effect on the flexural strength of the experimental groups.
+
+4. XRD analysis indicated an increase in the monoclinic phase after grinding and polishing.
+
+5. The monoclinic phase increased after grinding and polishing as well as with aging. Aging seemed to have a more profound effect in increasing the monoclinic phase.
+
+6. Although an increase in the monoclinic phase was observed following the aging process, the flexural strength showed no significant reduction and it was within the clinically acceptable range.
