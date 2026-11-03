@@ -1,0 +1,607 @@
+<!--
+---
+title: "치과 응급 트리아지 결정 트리"
+type: interactive
+date: 2026-11-03
+category: drug/medical-emergencies
+source_wiki:
+  - wiki/drug/medical-emergencies/yoshimine-2025-monitor-feedback-versus-instructor-feedback.md
+  - wiki/drug/medical-emergencies/cangul-2026-knowledge-attitudes-clinical-preparedness-dentists.md
+  - wiki/drug/medical-emergencies/olus-2026-code-blue-awareness-dental-students.md
+  - wiki/drug/medical-emergencies/aquino-2026-perceived-confidence-managing-medical-emergencies.md
+  - wiki/drug/medical-emergencies/gazal-2026-risk-factors-adverse-events-tooth-extraction.md
+  - wiki/drug/systemic-disease/obata-2021-medical-emergencies-dental-treatment-incidence.md
+status: done
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>치과 응급 트리아지</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;600;700&display=swap">
+<style>
+/* ─── Light-only palette ─── */
+:root {
+  --bg:          #F4F6FA;
+  --surface:     #FFFFFF;
+  --fg:          #18202E;
+  --fg-muted:    #526075;
+  --accent:      #1355A0;
+  --accent-lt:   #EBF3FF;
+  --accent-dk:   #0D3F7A;
+  --border:      #D5DCE8;
+  --shadow:      0 2px 12px rgba(20,40,80,0.09);
+
+  --crit-bg:     #FFF0F0;
+  --crit-fg:     #B01818;
+  --crit-border: #F5C6C6;
+
+  --urg-bg:      #FFF5EB;
+  --urg-fg:      #C04A00;
+  --urg-border:  #F5D9B8;
+
+  --safe-bg:     #EEFAF3;
+  --safe-fg:     #1A6E3C;
+  --safe-border: #B8E8CC;
+
+  --mod-bg:      #F3F0FA;
+  --mod-fg:      #4A2C9A;
+  --mod-border:  #CFC4EF;
+
+  --radius: 12px;
+  --radius-sm: 8px;
+}
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html, body { height: 100%; }
+body {
+  font-family: 'Noto Sans KR', system-ui, sans-serif;
+  background: var(--bg);
+  color: var(--fg);
+  font-size: 15px;
+  line-height: 1.6;
+  padding: 0 max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+}
+
+/* ─── Layout ─── */
+.wrap {
+  max-width: 640px;
+  margin: 0 auto;
+  padding-block: 32px 48px;
+}
+header {
+  text-align: center;
+  margin-bottom: 28px;
+}
+header .eyebrow {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 6px;
+}
+header h1 {
+  font-size: clamp(18px, 4vw, 24px);
+  font-weight: 700;
+  color: var(--fg);
+  text-wrap: balance;
+}
+header p {
+  font-size: 13px;
+  color: var(--fg-muted);
+  margin-top: 6px;
+}
+
+/* ─── Breadcrumb ─── */
+#breadcrumb {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin-bottom: 18px;
+  min-height: 26px;
+}
+.crumb {
+  font-size: 11px;
+  background: var(--accent-lt);
+  color: var(--accent);
+  border-radius: 20px;
+  padding: 2px 10px;
+  font-weight: 500;
+}
+.crumb-arrow { font-size: 11px; color: var(--border); align-self: center; }
+
+/* ─── Card ─── */
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 24px;
+  box-shadow: var(--shadow);
+  animation: fadeIn .22s ease;
+}
+@keyframes fadeIn { from { opacity:0; transform:translateY(6px) } to { opacity:1; transform:translateY(0) } }
+
+/* ─── Question ─── */
+.question-label {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: var(--fg-muted);
+  margin-bottom: 8px;
+}
+.question-text {
+  font-size: clamp(16px, 3.5vw, 19px);
+  font-weight: 700;
+  color: var(--fg);
+  text-wrap: balance;
+  margin-bottom: 6px;
+}
+.question-hint {
+  font-size: 13px;
+  color: var(--fg-muted);
+  margin-bottom: 20px;
+  padding: 8px 12px;
+  background: var(--bg);
+  border-radius: var(--radius-sm);
+  border-left: 3px solid var(--border);
+}
+
+/* ─── Answer buttons ─── */
+.answers { display: flex; flex-direction: column; gap: 10px; }
+.answer-btn {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  background: var(--bg);
+  border: 1.5px solid var(--border);
+  border-radius: var(--radius-sm);
+  padding: 14px 16px;
+  cursor: pointer;
+  text-align: left;
+  font-family: inherit;
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--fg);
+  transition: border-color .15s, background .15s, transform .1s;
+  min-height: 52px;
+}
+.answer-btn:hover {
+  border-color: var(--accent);
+  background: var(--accent-lt);
+  transform: translateX(2px);
+}
+.answer-btn .icon {
+  flex-shrink: 0;
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  background: var(--border);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--fg-muted);
+  margin-top: 1px;
+}
+.answer-btn:hover .icon {
+  background: var(--accent);
+  color: #fff;
+}
+
+/* ─── Result card ─── */
+.result-card { }
+.result-card.critical { border-color: var(--crit-border); background: var(--crit-bg); }
+.result-card.urgent   { border-color: var(--urg-border);  background: var(--urg-bg); }
+.result-card.safe     { border-color: var(--safe-border); background: var(--safe-bg); }
+.result-card.moderate { border-color: var(--mod-border);  background: var(--mod-bg); }
+
+.result-badge-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 14px;
+}
+.badge {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: .06em;
+  border-radius: 20px;
+  padding: 4px 12px;
+  border: 1.5px solid;
+}
+.badge.critical { background: var(--crit-bg); color: var(--crit-fg); border-color: var(--crit-border); }
+.badge.urgent   { background: var(--urg-bg);  color: var(--urg-fg);  border-color: var(--urg-border); }
+.badge.safe     { background: var(--safe-bg); color: var(--safe-fg); border-color: var(--safe-border); }
+.badge.moderate { background: var(--mod-bg);  color: var(--mod-fg);  border-color: var(--mod-border); }
+.badge.code-blue { background: #1355A0; color: #fff; border-color: #1355A0; }
+
+.result-title {
+  font-size: clamp(17px, 3.5vw, 21px);
+  font-weight: 700;
+  margin-bottom: 16px;
+  color: var(--fg);
+}
+
+.steps-label {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: var(--fg-muted);
+  margin-bottom: 10px;
+}
+.steps { list-style: none; display: flex; flex-direction: column; gap: 8px; }
+.steps li {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+  font-size: 14px;
+}
+.step-num {
+  flex-shrink: 0;
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  background: var(--accent);
+  color: #fff;
+  font-size: 11px;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 1px;
+  font-variant-numeric: tabular-nums;
+}
+.result-card.critical .step-num { background: var(--crit-fg); }
+.result-card.urgent   .step-num { background: var(--urg-fg); }
+.result-card.safe     .step-num { background: var(--safe-fg); }
+.result-card.moderate .step-num { background: var(--mod-fg); }
+
+.warning-box {
+  margin-top: 14px;
+  padding: 10px 14px;
+  background: rgba(176,24,24,.06);
+  border: 1.5px solid var(--crit-border);
+  border-radius: var(--radius-sm);
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--crit-fg);
+}
+.note-box {
+  margin-top: 14px;
+  padding: 10px 14px;
+  background: rgba(255,255,255,.6);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  font-size: 12px;
+  color: var(--fg-muted);
+  white-space: pre-line;
+}
+.note-box strong { color: var(--fg); font-weight: 600; }
+
+/* ─── Actions ─── */
+.actions {
+  display: flex;
+  gap: 10px;
+  margin-top: 20px;
+  flex-wrap: wrap;
+}
+.btn {
+  padding: 10px 20px;
+  border-radius: var(--radius-sm);
+  font-family: inherit;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  border: 1.5px solid;
+  transition: opacity .15s, transform .1s;
+}
+.btn:hover { opacity: .85; transform: translateY(-1px); }
+.btn-primary {
+  background: var(--accent);
+  color: #fff;
+  border-color: var(--accent);
+}
+.btn-ghost {
+  background: transparent;
+  color: var(--fg-muted);
+  border-color: var(--border);
+}
+
+/* ─── Footer ─── */
+footer {
+  margin-top: 40px;
+  padding-top: 20px;
+  border-top: 1px solid var(--border);
+  font-size: 11px;
+  color: var(--fg-muted);
+  text-align: center;
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="eyebrow">치과 응급 대응 도구</div>
+    <h1>응급 트리아지 결정 트리</h1>
+    <p>증상을 따라가며 올바른 초기 대응을 확인하세요</p>
+  </header>
+
+  <div id="breadcrumb"></div>
+  <div id="main"></div>
+
+  <footer>
+    근거: cangul-2026 · olus-2026 · aquino-2026 · yoshimine-2025 · gazal-2026 · obata-2021<br>
+    임상 판단을 대체하지 않습니다 — 실제 응급 시 119를 우선 호출하세요
+  </footer>
+</div>
+
+<script>
+const NODES = {
+  start: {
+    type: 'q',
+    label: '환자 상태 평가',
+    q: '환자 반응을 확인하세요',
+    hint: '어깨를 가볍게 두드리며 "괜찮으세요?" — 반응 유무를 확인',
+    answers: [
+      { label: '반응 없음 (의식 없음)', crumb: '의식 없음', next: 'unconscious' },
+      { label: '반응 있음 (의식 있음)', crumb: '의식 있음', next: 'conscious' }
+    ]
+  },
+  unconscious: {
+    type: 'q',
+    label: '호흡·맥박 확인',
+    q: '정상 호흡과 맥박이 있습니까?',
+    hint: '가슴 움직임 + 경동맥 맥박을 최대 10초 확인 — 헐떡임(agonal breathing)은 "없음"으로 판단',
+    answers: [
+      { label: '없거나 비정상 (헐떡임 포함)', crumb: '무호흡·무맥', next: 'cardiac_arrest' },
+      { label: '있음', crumb: '호흡·맥박 있음', next: 'unconscious_pulse' }
+    ]
+  },
+  conscious: {
+    type: 'q',
+    label: '주요 증상',
+    q: '가장 두드러진 증상은 무엇입니까?',
+    answers: [
+      { label: '갑자기 창백·식은땀·어지러움·서맥', crumb: '창백/식은땀', next: 'vvs' },
+      { label: '피부 두드러기·얼굴·혀 부종·호흡곤란', crumb: '두드러기/부종', next: 'anaphylaxis' },
+      { label: '흉통·왼팔 저림·턱 방사통', crumb: '흉통', next: 'angina_mi' },
+      { label: '경련·강직·의식 변화', crumb: '경련', next: 'seizure' },
+      { label: '혈압 매우 높음·두통·시야 변화', crumb: '고혈압', next: 'htn_crisis' },
+      { label: '떨림·식은땀·창백 (당뇨 환자)', crumb: '저혈당 의심', next: 'hypoglycemia' },
+      { label: '천명음·호흡곤란 (천식/기왕력)', crumb: '기관지경련', next: 'bronchospasm' }
+    ]
+  },
+
+  /* ── Results ── */
+  cardiac_arrest: {
+    type: 'r',
+    severity: 'critical',
+    title: '심정지 (Cardiac Arrest)',
+    badges: ['🚨 즉시 119', '🔵 Code Blue 발동'],
+    steps: [
+      '119 + Code Blue 동시 발동',
+      '흉부압박 즉시 시작 (100–120회/분, 깊이 5–6 cm)',
+      'AED 즉시 부착 → 분석 → 쇼크 버튼',
+      '압박 교대 2분 주기 (압박 중단 최소화)',
+      '전문 소생팀 도착 시 인계'
+    ],
+    note: '📖 BLS 훈련: 모니터 피드백→깊이 개선, 교관 피드백→속도 개선 (yoshimine-2025 RCT)\n치과의원 AED 보유율 7.5%(사우디) — 현재 클리닉 비치 상태 확인 필수'
+  },
+  unconscious_pulse: {
+    type: 'r',
+    severity: 'urgent',
+    title: '의식 없음 · 호흡·맥박 있음',
+    badges: ['📞 119 호출'],
+    steps: [
+      '119 호출',
+      '회복 자세 (Recovery Position — 옆으로)',
+      '기도 유지, 30초마다 호흡·맥박 재확인',
+      '저혈당 가능성 → 의식 회복 후 포도당 제공',
+      '원인 불명 → Code Blue 준비 유지'
+    ]
+  },
+  vvs: {
+    type: 'r',
+    severity: 'safe',
+    title: '혈관미주신경성 실신 의심 (Vasovagal Syncope)',
+    badges: ['✅ 119 불필요 (자기한정)', '⛔ Code Blue 아님'],
+    steps: [
+      '치료 즉시 중단, 구강 내 기구 제거',
+      'Trendelenburg 자세 (다리 올림 15–30°)',
+      '타이트한 의복 느슨하게',
+      '의식 회복 확인, 맥박·혈압 측정',
+      '2–3분 내 미회복 → 다른 원인 재평가',
+      '회복 후 짧은 휴식 — 당일 치료 재개 가능 여부 판단'
+    ],
+    warning: '⚠️ Code Blue 발동 대상이 아닙니다.\n치과대학생 70.5%가 VVS를 코드블루로 잘못 분류 — 과잉 대응은 진짜 응급 대응을 지연시킵니다',
+    note: '📖 치과 응급의 61.9%가 VVS (obata-2021)\n📖 코드블루 오분류 70.5% (olus-2026)'
+  },
+  anaphylaxis: {
+    type: 'r',
+    severity: 'critical',
+    title: '아나필락시스 (Anaphylaxis)',
+    badges: ['🚨 즉시 119', '💉 에피네프린 즉시'],
+    steps: [
+      '에피네프린 0.3–0.5 mg IM (허벅지 외측 — 의복 위도 가능)',
+      '119 즉시 호출',
+      '앙와위 + 다리 올림 (저혈압·쇼크 시)',
+      '산소 공급 (가능하면)',
+      '5–15분 개선 없으면 에피네프린 반복 투여',
+      '스테로이드·항히스타민은 2차 투약 (에피네프린이 우선)'
+    ],
+    note: '📖 터키 전국조사에서 치과의사 지식 격차가 가장 큰 응급 유형 (cangul-2026)\n에피네프린 보유 여부: 준비도 체크리스트 참고'
+  },
+  angina_mi: {
+    type: 'r',
+    severity: 'critical',
+    title: '협심증 / 심근경색 의심',
+    badges: ['🚨 즉시 119'],
+    steps: [
+      '치료 즉시 중단',
+      '119 즉시 호출',
+      '앉은 자세 유지 (앙와위 금지)',
+      '니트로글리세린 0.4 mg 설하 (협심증 기왕력 있고 저혈압 없을 시)',
+      '아스피린 325 mg 씹기 (알레르기 없을 경우)',
+      '의식·호흡 지속 모니터 — 심정지 전환 대비 AED 준비'
+    ]
+  },
+  seizure: {
+    type: 'r',
+    severity: 'urgent',
+    title: '뇌전증 발작 (Epileptic Seizure)',
+    badges: ['📞 5분 초과시 119'],
+    steps: [
+      '구강 내 기구·재료 즉시 제거',
+      '주변 날카로운 물건 치우기',
+      '강제로 억제 금지, 머리 보호',
+      '발작 시간 측정 (5분 초과 → 119)',
+      '발작 후 회복 자세',
+      '재발 또는 의식 장시간 미회복 → 119'
+    ],
+    note: '📖 뇌전증 발작은 cangul-2026에서 저지식 응급 유형으로 확인됨'
+  },
+  htn_crisis: {
+    type: 'r',
+    severity: 'urgent',
+    title: '고혈압 위기 (Hypertensive Crisis)',
+    badges: ['📞 119 호출'],
+    steps: [
+      '치료 즉시 중단',
+      '혈압 측정 확인 (≥180/110 mmHg)',
+      '편안한 반좌위',
+      '119 호출',
+      '구강 혈압강하제 임의 투여 절대 금지',
+      '두통·시야이상·흉통 동반 시 즉각 119'
+    ],
+    note: '📖 BP ≥180/110 mmHg → 발치 금기 기준 (gazal-2026)\n📖 고혈압 위기는 터키 치과의사 저지식 응급 유형 (cangul-2026)'
+  },
+  hypoglycemia: {
+    type: 'r',
+    severity: 'moderate',
+    title: '저혈당 (Hypoglycemia)',
+    badges: ['✅ 경미 시 119 불필요'],
+    steps: [
+      '치료 중단',
+      '의식 있음 → 포도당 15–20 g 경구 (주스, 사탕, 포도당 정제)',
+      '15분 후 혈당 재측정·증상 재평가',
+      '호전 없거나 의식 저하 → 119 즉시',
+      '의식 없음 → 50% 포도당 정맥 주사 또는 글루카곤 1 mg IM + 119'
+    ]
+  },
+  bronchospasm: {
+    type: 'r',
+    severity: 'urgent',
+    title: '기관지경련 (Bronchospasm)',
+    badges: ['📞 악화 시 119'],
+    steps: [
+      '치료 중단, 기구 제거',
+      '앉은 자세 (전방 기울기 편안)',
+      '환자 지참 흡입제(살부타몰) 사용 보조',
+      '산소 공급',
+      '5분 내 개선 없음 → 119',
+      '아나필락시스 동반 의심 시 에피네프린 투여'
+    ]
+  }
+};
+
+let history = [];
+
+function crumbLabel(key) {
+  const n = NODES[key];
+  if (!n) return key;
+  return n.label || n.title || key;
+}
+
+function renderBreadcrumb() {
+  const el = document.getElementById('breadcrumb');
+  if (history.length === 0) { el.innerHTML = ''; return; }
+  const items = history.map((h, i) => {
+    const parts = [];
+    if (i > 0) parts.push(`<span class="crumb-arrow">›</span>`);
+    parts.push(`<span class="crumb">${h.crumb}</span>`);
+    return parts.join('');
+  });
+  el.innerHTML = items.join('');
+}
+
+function go(key, crumb) {
+  if (crumb) history.push({ key, crumb });
+  render(key);
+}
+
+function back() {
+  if (history.length <= 1) { history = []; render('start'); return; }
+  history.pop();
+  const prev = history[history.length - 1];
+  render(prev.key);
+}
+
+function restart() {
+  history = [];
+  render('start');
+}
+
+function severityClass(s) {
+  return { critical:'critical', urgent:'urgent', safe:'safe', moderate:'moderate', manageable:'safe' }[s] || 'urgent';
+}
+
+function renderQuestion(key, node) {
+  const letters = 'ABCDEFGHIJKLMNOP';
+  const answers = node.answers.map((a, i) => `
+    <button class="answer-btn" onclick="go('${a.next}','${a.crumb}')">
+      <span class="icon">${letters[i]}</span>
+      <span>${a.label}</span>
+    </button>`).join('');
+
+  return `
+    <div class="card">
+      <div class="question-label">${node.label || '질문'}</div>
+      <div class="question-text">${node.q}</div>
+      ${node.hint ? `<div class="question-hint">${node.hint}</div>` : ''}
+      <div class="answers">${answers}</div>
+      ${history.length > 0 ? `<div class="actions"><button class="btn btn-ghost" onclick="back()">← 이전</button></div>` : ''}
+    </div>`;
+}
+
+function renderResult(key, node) {
+  const sc = severityClass(node.severity);
+  const badges = (node.badges || []).map(b => `<span class="badge ${b.includes('Code Blue') ? 'code-blue' : sc}">${b}</span>`).join('');
+  const steps = node.steps.map((s, i) => `
+    <li><span class="step-num">${i+1}</span><span>${s}</span></li>`).join('');
+  const warning = node.warning ? `<div class="warning-box">${node.warning.replace(/\n/g,'<br>')}</div>` : '';
+  const note = node.note ? `<div class="note-box">${node.note.replace(/\n/g,'<br>')}</div>` : '';
+
+  return `
+    <div class="card result-card ${sc}">
+      <div class="result-badge-row">${badges}</div>
+      <div class="result-title">${node.title}</div>
+      <div class="steps-label">즉각 조치 순서</div>
+      <ul class="steps">${steps}</ul>
+      ${warning}
+      ${note}
+      <div class="actions">
+        <button class="btn btn-ghost" onclick="back()">← 이전</button>
+        <button class="btn btn-primary" onclick="restart()">처음부터</button>
+      </div>
+    </div>`;
+}
+
+function render(key) {
+  renderBreadcrumb();
+  const node = NODES[key];
+  if (!node) return;
+  const html = node.type === 'q' ? renderQuestion(key, node) : renderResult(key, node);
+  document.getElementById('main').innerHTML = html;
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+render('start');
+</script>
+</body>
+</html>
