@@ -9,9 +9,11 @@ source_wiki:
   - wiki/implants/survival/abichandani-2026-time-varying-glycemic-control-long.md
   - wiki/drug/systemic-disease/ahmad-2025-glucagon-like-peptide-1-receptor.md
   - wiki/implants/peri-implantitis/li-2025-inflammatory-response-dental-implant-surgery.md
+  - wiki/implants/survival/ebenezer-2026-stratified-randomized-controlled-trial-tizr.md
+  - wiki/implants/isq/diehl-2024-restoration-posterior-teeth-narrow-diameter.md
 agenda: agenda/2026-09-22_hba1c-implant-risk-calculator.md
-tags: [HbA1c, diabetes, implant-failure, peri-implantitis, risk-calculator, dose-response]
-updated: 2026-10-06  # 재검증 — abichandani-2026·ahmad-2025 위키 메타데이터 수정만(evidence_level·text_path 교정), 임상 수치 변경 없음. GLP-1RA callout 최초 생성 시 이미 반영됨
+tags: [HbA1c, diabetes, implant-failure, peri-implantitis, risk-calculator, dose-response, marginal-bone-loss]
+updated: 2026-11-03  # Ebenezer 2026 RCT(HbA1c ≥7% → MBL ~7×OR) + Diehl 2024(4년 NDI T2DM 100%) 근거 추가; 임상 수치(실패율·PI) 변경 없음
 notes: |
   Abichandani & Dutta 2026 (retrospective cohort, n=782, 1312 implants, 5.6yr)
   HbA1c band별 5년 절대 위험도 시각화 + 복수 임플란트 누적 위험 계산.
@@ -219,7 +221,8 @@ notes: |
   <div class="hdr">
     <h1>HbA1c 임플란트 5년 위험 계산기</h1>
     <p>당뇨 환자의 HbA1c 수준에 따른 임플란트 5년 실패율 및 임플란트 주위염(Peri-Implantitis, PI) 발생 위험 추정</p>
-    <span class="source-badge">근거: Abichandani &amp; Dutta 2026 · n=782명 · 1,312개 임플란트 · 평균 5.6년 추적</span>
+    <span class="source-badge">근거: Abichandani &amp; Dutta 2026 · n=782명 · 1,312개 임플란트 · 5.6년 추적</span>
+    <span class="source-badge" style="margin-left:6px; background:#ebfbee; color:#2f9e44;">MBL 임계값 근거: Ebenezer 2026 RCT · n=83명 · HbA1c ≥7% → ~7× OR</span>
   </div>
 
   <!-- INPUT -->
@@ -355,12 +358,20 @@ notes: |
       </tbody>
     </table>
     <p style="font-size:.78rem; color:var(--text3); margin-top:10px;">
-      ※ HbA1c ≥8%에서 위험 기울기가 급변하는 비선형 dose-response 패턴. 시간가변(time-varying) HbA1c 모델 기반.
+      ※ HbA1c ≥8%에서 위험 기울기가 급변하는 비선형 dose-response 패턴. 시간가변(time-varying) HbA1c 모델 기반 (Abichandani 2026).
     </p>
+    <div style="background:#ebfbee; border:1px solid #b2f2bb; border-radius:8px; padding:12px 14px; margin-top:12px; font-size:.83rem;">
+      <strong style="color:#2f9e44;">★ 추가 MBL 근거 (Ebenezer 2026 RCT)</strong><br>
+      HbA1c ≥7% 구간에서 MBL ≥0.5mm 교차비 <strong>약 7배</strong> (vs &lt;7% 층화군) — 직경(3.3mm vs 4.1mm TiZr) 비유의. 즉 7–8% "경계" 구간도 골소실 위험이 이미 임상적으로 유의하게 상승한다.<br>
+      <strong style="color:#2f9e44;">★ 협경임플란트 4년 근거 (Diehl 2024, T2DM HbA1c >6.5%)</strong><br>
+      3.3mm TiZr NDI — 48개월 생존율 100%, ΔMBL T2DM vs 정상혈당 p=0.875 비유의.
+    </div>
   </div>
 
   <div class="footer">
     근거: Abichandani S &amp; Dutta SR (2026) · <em>Int J Oral Maxillofac Implants</em> · doi:10.11607/jomi.11625<br>
+    MBL 임계값: Ebenezer S et al. (2026) · <em>Clin Oral Implants Res</em> · doi:10.1111/clr.70175<br>
+    NDI 4년 근거: Diehl D et al. (2024) · <em>Clin Oral Investig</em> · doi:10.1007/s00784-024-05786-0<br>
     GLP-1RA 정보: Ahmad P et al. (2025) · <em>J Periodontal Res</em> · doi:10.1111/jre.13410<br>
     <strong>교육·임상 의사결정 보조 도구 — 비의료기기. 최종 결정은 임상가 판단에 따릅니다.</strong>
   </div>
@@ -375,10 +386,10 @@ notes: |
       items: ['HbA1c 조절 양호: 일반 환자와 유사한 예후', '정기 유지관리(3–4개월) 권고', '술 전 항균 양치(0.12% CHX) 시행'] },
     { label: '7.0–8.0%', fail: 0.048, pi: 0.172, cls: 'warn',   decision: 'caution',
       title: '⚠️ 조건부 식립 — 모니터링 강화 필요',
-      items: ['식립 가능하나 위험 상승 구간', '내과 협진으로 HbA1c <7% 달성 후 재평가 고려', '유지관리 주기 단축(2–3개월)', '항균 양치(0.12% CHX) 필수', '흡연·구강위생 동시 관리'] },
+      items: ['식립 가능하나 위험 상승 구간', '★ Ebenezer 2026 RCT: HbA1c ≥7%만으로도 MBL ≥0.5mm 교차비 약 7배 — 이 구간도 골소실 위험 상당', '내과 협진으로 HbA1c <7% 달성 후 재평가 고려', '유지관리 주기 단축(2–3개월), 매 리콜 MBL 방사선 추적 필수', '항균 양치(0.12% CHX) 필수', '흡연·구강위생 동시 관리'] },
     { label: '≥ 8.0%',   fail: 0.081, pi: 0.260, cls: 'danger', decision: 'hold',
       title: '🛑 연기 권고 — 내과 협진 우선',
-      items: ['5년 PI 발생률 26%: 4명 중 1명', '비선형 위험 급증 구간 (≥8% 기울기 급변)', 'HbA1c < 7% 목표로 혈당 조절 후 재평가', 'Li 2025: 이 구간에서 TNF-α 2.8×, IL-1β 4.8× 상승', '응급/불가피한 경우에만 조건부 진행 + 집중 추적'] }
+      items: ['5년 PI 발생률 26%: 4명 중 1명', '비선형 위험 급증 구간 (≥8% 기울기 급변)', 'HbA1c < 7% 목표로 혈당 조절 후 재평가', 'Li 2025: 이 구간에서 TNF-α 2.8×, IL-1β 4.8× 상승', '골폭 부족으로 증대술 부담될 경우: Diehl 2024 — 3.3mm TiZr 협경임플란트(NDI)가 T2DM에서 4년 생존율 100%·MBL 비유의 (단, HbA1c >6.5% 케이스)', '응급/불가피한 경우에만 조건부 진행 + 집중 추적'] }
   ];
 
   function getBandIdx(v) {
