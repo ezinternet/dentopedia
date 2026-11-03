@@ -1,0 +1,495 @@
+<!--
+---
+title: "SDA 저작 기능 보상 예측기"
+type: interactive
+date: 2026-11-04
+status: done
+category: prosth
+source_wiki:
+  - wiki/removable-partial-denture/liang-2015-effects-removable-dental-prostheses-masticatory.md
+  - wiki/removable-partial-denture/koyama-2026-effects-occlusal-contact-loss-preferred.md
+  - wiki/overviews/sda-shortened-dental-arch-evidence-overview.md
+agenda: agenda/2026-11-04_sda-interactive-tools.md
+---
+-->
+<title>SDA 저작 기능 보상 예측기</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+/*
+  Layout: 2패널(입력 좌 / 결과 우) → 모바일에서 1컬럼 스택
+  Color: 임상 라이트 고정 (OPERATIONS §7) — 다크 블록 없음
+*/
+:root {
+  --bg:       #EFF3F6;
+  --surface:  #FFFFFF;
+  --text:     #1A2535;
+  --muted:    #5E6E87;
+  --border:   #CBD5E3;
+  --primary:  #1B4F82;
+  --accent:   #2E7D52;
+  --warn:     #B45309;
+  --red:      #C0392B;
+  --chip-bg:  #E4EDF6;
+  --chip-fg:  #1B4F82;
+  --radius:   14px;
+  --shadow:   0 2px 14px rgba(27,79,130,.10);
+}
+*, *::before, *::after { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: "Noto Sans KR", -apple-system, BlinkMacSystemFont, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.65;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 40px 80px;
+  -webkit-font-smoothing: antialiased;
+}
+.container { max-width: 860px; margin: 0 auto; }
+
+/* ── 헤더 ── */
+header { margin-bottom: 32px; }
+.eyebrow {
+  font-size: .78rem; font-weight: 600; letter-spacing: .08em;
+  color: var(--primary); text-transform: uppercase; margin: 0 0 6px;
+}
+h1 {
+  font-size: 1.9rem; font-weight: 700; margin: 0 0 8px;
+  color: var(--primary); line-height: 1.2; text-wrap: balance;
+}
+.subtitle { font-size: .96rem; color: var(--muted); margin: 0 0 12px; }
+.evidence-strip { display: flex; flex-wrap: wrap; gap: 6px; }
+.evidence-strip span {
+  font-size: .78rem; font-weight: 600;
+  background: var(--chip-bg); color: var(--chip-fg);
+  border-radius: 999px; padding: 2px 10px; letter-spacing: .03em;
+}
+
+/* ── 2컬럼 레이아웃 ── */
+.main-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  align-items: start;
+}
+@media (max-width: 640px) {
+  .main-grid { grid-template-columns: 1fr; }
+  h1 { font-size: 1.5rem; }
+}
+
+/* ── 패널 공통 ── */
+.panel {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 24px 26px;
+}
+.panel h2 {
+  font-size: 1.08rem; font-weight: 700; margin: 0 0 20px;
+  color: var(--primary); letter-spacing: -.01em;
+  border-bottom: 2px solid var(--chip-bg); padding-bottom: 10px;
+}
+
+/* ── 폼 요소 ── */
+.form-group { margin-bottom: 22px; }
+.form-group label {
+  display: block; font-weight: 600; font-size: .93rem;
+  margin-bottom: 8px; color: var(--text);
+}
+.form-group .hint {
+  font-size: .8rem; color: var(--muted); margin-top: 4px;
+}
+
+/* 라디오 그룹 */
+.radio-group { display: flex; flex-direction: column; gap: 8px; }
+.radio-option {
+  display: flex; align-items: center; gap: 10px;
+  background: var(--bg); border: 1.5px solid var(--border);
+  border-radius: 9px; padding: 10px 14px;
+  cursor: pointer; transition: border-color .15s, background .15s;
+}
+.radio-option:hover { border-color: var(--primary); background: var(--chip-bg); }
+.radio-option input[type="radio"] { accent-color: var(--primary); width: 16px; height: 16px; }
+.radio-option.selected { border-color: var(--primary); background: var(--chip-bg); }
+.radio-option .rl { font-weight: 600; font-size: .94rem; }
+.radio-option .rs { font-size: .82rem; color: var(--muted); margin-top: 1px; }
+
+/* 슬라이더 */
+.slider-row { display: flex; align-items: center; gap: 14px; }
+input[type="range"] {
+  flex: 1; min-width: 0; height: 6px; accent-color: var(--primary);
+  cursor: pointer;
+}
+.slider-val {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 1.35rem; font-weight: 700; color: var(--primary);
+  min-width: 2.5ch; text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+.slider-labels {
+  display: flex; justify-content: space-between;
+  font-size: .76rem; color: var(--muted); margin-top: 4px;
+}
+
+/* ── 결과 패널 ── */
+.result-section { margin-bottom: 20px; }
+.result-section h3 {
+  font-size: .83rem; font-weight: 700; letter-spacing: .06em;
+  text-transform: uppercase; color: var(--muted);
+  margin: 0 0 10px; padding-bottom: 6px;
+  border-bottom: 1px solid var(--border);
+}
+
+/* 큰 수치 타일 */
+.big-tiles {
+  display: grid; grid-template-columns: 1fr 1fr;
+  gap: 10px; margin-bottom: 16px;
+}
+.tile {
+  border-radius: 10px; padding: 14px 16px; text-align: center;
+  border: 1px solid var(--border);
+}
+.tile .tnum {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 2.2rem; font-weight: 700; line-height: 1;
+  font-variant-numeric: tabular-nums;
+}
+.tile .tlabel {
+  font-size: .78rem; color: var(--muted); margin-top: 5px; font-weight: 600;
+}
+.tile.red   { background: #fdecea; border-color: #e0a0a0; }
+.tile.red .tnum { color: var(--red); }
+.tile.green { background: #e8f5ed; border-color: #92c8a0; }
+.tile.green .tnum { color: var(--accent); }
+.tile.blue  { background: #e8f0f9; border-color: #8fb3d9; }
+.tile.blue .tnum { color: var(--primary); }
+.tile.amber { background: #fdf5e0; border-color: #d4a840; }
+.tile.amber .tnum { color: var(--warn); }
+
+/* 막대 게이지 */
+.gauge-wrap { margin-bottom: 16px; }
+.gauge-label {
+  display: flex; justify-content: space-between; align-items: baseline;
+  font-size: .84rem; font-weight: 600; margin-bottom: 5px;
+}
+.gauge-label .gv {
+  font-family: "JetBrains Mono", monospace; font-size: 1rem; font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+.gauge-bar {
+  height: 12px; background: var(--border); border-radius: 999px; overflow: hidden;
+  position: relative;
+}
+.gauge-fill {
+  height: 100%; border-radius: 999px;
+  transition: width .5s cubic-bezier(.4,0,.2,1);
+}
+.gauge-fill.full  { background: #27ae60; }
+.gauge-fill.rdp   { background: var(--primary); }
+.gauge-fill.net   { background: var(--warn); }
+.gauge-fill.deficit { background: var(--red); }
+
+/* 해석 박스 */
+.interp-box {
+  border-radius: 10px; padding: 14px 16px;
+  font-size: .9rem; line-height: 1.65;
+  border: 1px solid; margin-top: 4px;
+}
+.interp-box.good { background: #e8f5ed; border-color: #92c8a0; color: #1c5e34; }
+.interp-box.warn { background: #fdf5e0; border-color: #d4a840; color: #7a4e00; }
+.interp-box.bad  { background: #fdecea; border-color: #e0a0a0; color: #7a1e1e; }
+.interp-box strong { font-weight: 700; }
+
+/* PCS 경고 */
+.pcs-flag {
+  display: flex; align-items: flex-start; gap: 10px;
+  background: #fff4e0; border: 1px solid #f0c060;
+  border-radius: 9px; padding: 12px 14px; font-size: .88rem;
+  margin-bottom: 14px;
+}
+.pcs-flag .pf-icon { font-size: 1.3rem; flex-shrink: 0; }
+.pcs-flag p { margin: 0; color: #6b3a00; }
+.pcs-flag strong { color: #b45309; }
+.pcs-flag.hidden { display: none; }
+
+/* 데이터 출처 */
+.source-note {
+  font-size: .78rem; color: var(--muted); line-height: 1.55;
+  border-top: 1px solid var(--border); padding-top: 12px; margin-top: 14px;
+}
+.source-note em { font-style: normal; font-weight: 600; color: var(--primary); }
+
+/* 범례 */
+.legend { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px; }
+.legend-item { display: flex; align-items: center; gap: 5px; font-size: .78rem; color: var(--muted); }
+.legend-dot { width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0; }
+</style>
+
+<div class="container">
+  <header>
+    <p class="eyebrow">Liang 2015 SR 기반 임상 도구</p>
+    <h1>SDA 저작 기능 보상 예측기</h1>
+    <p class="subtitle">인공치 수 → 저작 수행력 보상 % 추정 (Liang 2015 SR: 8편, 용량-반응 관계)</p>
+    <div class="evidence-strip">
+      <span>Liang 2015 SR</span>
+      <span>Koyama 2026 RCT</span>
+      <span>SDA 오버뷰</span>
+    </div>
+  </header>
+
+  <div class="main-grid">
+    <!-- ── 입력 패널 ── -->
+    <div class="panel">
+      <h2>📋 환자 조건 입력</h2>
+
+      <div class="form-group">
+        <label>치열궁 분류</label>
+        <div class="radio-group" id="archGroup">
+          <label class="radio-option selected">
+            <input type="radio" name="arch" value="sda" checked>
+            <span>
+              <div class="rl">SDA (단축치열궁)</div>
+              <div class="rs">후방 교합 접촉쌍 3–5쌍 잔존</div>
+            </span>
+          </label>
+          <label class="radio-option">
+            <input type="radio" name="arch" value="esda">
+            <span>
+              <div class="rl">ESDA (극단 단축치열궁)</div>
+              <div class="rs">후방 교합 접촉쌍 0–2쌍; 더 큰 결핍</div>
+            </span>
+          </label>
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label>선호 저작측(PCS) 포함 여부</label>
+        <div class="radio-group" id="pcsGroup">
+          <label class="radio-option selected">
+            <input type="radio" name="pcs" value="no" checked>
+            <span>
+              <div class="rl">Non-PCS 또는 미확인</div>
+              <div class="rs">비선호측 결손 또는 PCS 미평가</div>
+            </span>
+          </label>
+          <label class="radio-option">
+            <input type="radio" name="pcs" value="yes">
+            <span>
+              <div class="rl">PCS 포함 결손</div>
+              <div class="rs">선호 저작측 대구치 결손 확인됨</div>
+            </span>
+          </label>
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label>RPD 인공치 수
+          <span style="font-weight:400; color:var(--muted); font-size:.84rem"> (0 = 무보철)</span>
+        </label>
+        <div class="slider-row">
+          <input type="range" id="toothSlider" min="0" max="8" value="4" step="1"
+                 oninput="update()">
+          <span class="slider-val" id="toothVal">4</span>
+        </div>
+        <div class="slider-labels">
+          <span>0개 (무보철)</span>
+          <span>4개 (부분)</span>
+          <span>8개 (완전)</span>
+        </div>
+        <p class="hint">인공치 수가 많을수록 저작 수행력 개선 (용량-반응, Liang 2015 4/5연구 유의)</p>
+      </div>
+    </div>
+
+    <!-- ── 결과 패널 ── -->
+    <div class="panel">
+      <h2>📊 저작 기능 추정 결과</h2>
+
+      <!-- PCS 경고 -->
+      <div class="pcs-flag hidden" id="pcsFlag">
+        <span class="pf-icon">⚡</span>
+        <p><strong>PCS 대구치 결손 감지.</strong> Koyama 2026 RCT: 선호 저작측 대구치 제거 시 저작 효율(ME)·주관적 저작능력(SMA) 유의 저하 (p&lt;0.05). 기능 회복 필요성이 더 높습니다.</p>
+      </div>
+
+      <!-- 큰 수치 타일 -->
+      <div class="result-section">
+        <h3>핵심 수치</h3>
+        <div class="big-tiles">
+          <div class="tile red">
+            <div class="tnum" id="deficitPct">—</div>
+            <div class="tlabel">초기 저작 결핍 (%)</div>
+          </div>
+          <div class="tile green">
+            <div class="tnum" id="compensPct">—</div>
+            <div class="tlabel">RPD 보상 (%)</div>
+          </div>
+          <div class="tile blue">
+            <div class="tnum" id="netPct">—</div>
+            <div class="tlabel">최종 저작 수행력 (%)</div>
+          </div>
+          <div class="tile amber">
+            <div class="tnum" id="residualDeficit">—</div>
+            <div class="tlabel">잔여 결핍 (%)</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 게이지 시각화 -->
+      <div class="result-section">
+        <h3>기능 단계별 게이지</h3>
+        <div class="gauge-wrap">
+          <div class="gauge-label">
+            <span>완전치열 기준선</span>
+            <span class="gv">100%</span>
+          </div>
+          <div class="gauge-bar"><div class="gauge-fill full" style="width:100%"></div></div>
+        </div>
+        <div class="gauge-wrap">
+          <div class="gauge-label">
+            <span>SDA/ESDA 기준 (무보철)</span>
+            <span class="gv" id="gaugeBase">—</span>
+          </div>
+          <div class="gauge-bar">
+            <div class="gauge-fill deficit" id="gaugeBaseBar" style="width:0%"></div>
+          </div>
+        </div>
+        <div class="gauge-wrap">
+          <div class="gauge-label">
+            <span>RPD 장착 후 추정치</span>
+            <span class="gv" id="gaugeNet">—</span>
+          </div>
+          <div class="gauge-bar">
+            <div class="gauge-fill rdp" id="gaugeNetBar" style="width:0%"></div>
+          </div>
+        </div>
+        <div class="legend">
+          <div class="legend-item"><div class="legend-dot" style="background:#27ae60"></div>완전치열</div>
+          <div class="legend-item"><div class="legend-dot" style="background:var(--red)"></div>SDA/ESDA (무보철)</div>
+          <div class="legend-item"><div class="legend-dot" style="background:var(--primary)"></div>RPD 장착 후</div>
+        </div>
+      </div>
+
+      <!-- 해석 -->
+      <div id="interpBox" class="interp-box good">
+        조건을 선택하면 해석이 나타납니다.
+      </div>
+
+      <div class="source-note">
+        <p style="margin:0 0 4px">
+          <em>기준:</em> Liang 2015 SR — (E)SDA 저작 수행력 <strong>28–39% 저하</strong> (완전치열 대비); RPD 분쇄능 2–32% 개선, 혼합능(RDP측) 28–83% 열위 잔존. 용량-반응은 4/5 연구에서 유의. 메타분석 미시행(이질성).
+        </p>
+        <p style="margin:0 0 4px">
+          <em>PCS 보정:</em> Koyama 2026 RCT (n=28) — PCS 대구치 결손 시 ME·SMA 유의 저하(p&lt;0.05); 추가 10% penalty 적용(보수적 추정).
+        </p>
+        <p style="margin:0">
+          ⚠️ 이 도구는 SR 범위 추정치 기반이며 개별 환자 예측이 아닙니다. 임상 결정에는 직접 기능 평가(교합 분석, 분쇄 검사)를 병행하십시오.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+// ── 데이터 (Liang 2015 SR + Koyama 2026 기반 추정) ──
+// SDA: 완전치열 대비 28-39% 결핍 → 중간값 33.5%
+// ESDA: 더 큰 결핍, 33.5~39% → 38% 추정
+// RPD 용량-반응: 인공치 수 4개(중간) → ~50% 보상; 8개 → ~70%; 1개 → ~15%
+// PCS 보정: +10% penalty on deficit (Koyama 2026, 보수적)
+
+const PARAMS = {
+  sda:  { baseDeficit: 33.5, label: "SDA (3–5쌍)" },
+  esda: { baseDeficit: 38.0, label: "ESDA (0–2쌍)" },
+};
+// 용량-반응 보상률: 인공치 0개 → 0%, 4개 → 50%, 8개 → 70%
+// 1차 보간: compensation = (teeth / 8) * 70 * (1 + 0.14*(teeth/8)) — 비선형 증가
+function compensationRate(n) {
+  if (n === 0) return 0;
+  // piecewise: 0-4 = linear 0-50, 4-8 = linear 50-70
+  if (n <= 4) return (n / 4) * 50;
+  return 50 + ((n - 4) / 4) * 20;
+}
+
+function update() {
+  const arch  = document.querySelector('input[name="arch"]:checked').value;
+  const pcs   = document.querySelector('input[name="pcs"]:checked').value;
+  const teeth = parseInt(document.getElementById('toothSlider').value);
+
+  document.getElementById('toothVal').textContent = teeth;
+
+  // 선택된 라디오 스타일
+  document.querySelectorAll('#archGroup .radio-option').forEach(el => {
+    el.classList.toggle('selected', el.querySelector('input').checked);
+  });
+  document.querySelectorAll('#pcsGroup .radio-option').forEach(el => {
+    el.classList.toggle('selected', el.querySelector('input').checked);
+  });
+
+  const p = PARAMS[arch];
+  let deficit = p.baseDeficit;
+  if (pcs === 'yes') deficit = Math.min(deficit + 10, 50); // PCS 패널티
+
+  const basePerf = 100 - deficit; // 무보철 상태 저작 수행력 (%)
+  const compRate = compensationRate(teeth);
+  // RPD 보상: deficit의 compRate%를 회복
+  const compensated = deficit * (compRate / 100);
+  const netPerf = Math.min(basePerf + compensated, 100);
+  const residual = 100 - netPerf;
+
+  // 수치 업데이트
+  document.getElementById('deficitPct').textContent    = deficit.toFixed(1) + '%';
+  document.getElementById('compensPct').textContent    = (teeth > 0 ? compensated.toFixed(1) + '%' : '—');
+  document.getElementById('netPct').textContent        = netPerf.toFixed(1) + '%';
+  document.getElementById('residualDeficit').textContent = residual.toFixed(1) + '%';
+
+  // 게이지
+  document.getElementById('gaugeBase').textContent    = basePerf.toFixed(1) + '%';
+  document.getElementById('gaugeBaseBar').style.width = basePerf + '%';
+  document.getElementById('gaugeNet').textContent     = netPerf.toFixed(1) + '%';
+  document.getElementById('gaugeNetBar').style.width  = netPerf + '%';
+
+  // PCS 경고
+  const flag = document.getElementById('pcsFlag');
+  flag.classList.toggle('hidden', pcs !== 'yes');
+
+  // 해석 텍스트
+  const box = document.getElementById('interpBox');
+  box.className = 'interp-box';
+  let msg = '';
+  if (teeth === 0) {
+    // 무보철
+    if (netPerf >= 70) {
+      box.classList.add('warn');
+      msg = `<strong>${p.label} 무보철 상태 — 저작 기능 ${deficit.toFixed(1)}% 결핍.</strong> ` +
+            `임상적으로 허용 가능 범위(SDA 철학 적용)이나, 환자의 음식 선택 다양성 · 저작 불편 여부를 주관적으로 평가하십시오.`;
+    } else {
+      box.classList.add('bad');
+      msg = `<strong>${p.label} 무보철 — 저작 기능 ${deficit.toFixed(1)}% 결핍.</strong> ` +
+            `ESDA 또는 PCS 패널티로 인해 기능 손실이 큽니다. RPD 개입을 적극 검토하십시오.`;
+    }
+  } else if (netPerf >= 85) {
+    box.classList.add('good');
+    msg = `<strong>인공치 ${teeth}개 장착 시 저작 수행력 ${netPerf.toFixed(1)}%.</strong> ` +
+          `잔여 결핍(${residual.toFixed(1)}%)이 허용 범위 내입니다. 용량-반응에 따라 인공치가 많을수록 추가 개선 가능.`;
+  } else if (netPerf >= 70) {
+    box.classList.add('warn');
+    msg = `<strong>인공치 ${teeth}개 → 저작 수행력 ${netPerf.toFixed(1)}%.</strong> ` +
+          `잔여 결핍 ${residual.toFixed(1)}%가 남습니다. 음식 질감 제한(딱딱한 음식·섬유성 식품)이 지속될 수 있습니다. ` +
+          `인공치 추가를 통한 추가 보상을 고려하십시오.`;
+  } else {
+    box.classList.add('bad');
+    msg = `<strong>인공치 ${teeth}개로는 저작 수행력 ${netPerf.toFixed(1)}% — 잔여 결핍 ${residual.toFixed(1)}%.</strong> ` +
+          `기능 회복이 불충분합니다. 인공치 수 증대 또는 다른 보철 방식을 재검토하십시오.`;
+  }
+  if (pcs === 'yes') {
+    msg += ' <strong>PCS 결손 패널티(+10%) 포함.</strong>';
+  }
+  box.innerHTML = msg;
+}
+
+// 초기 실행
+update();
+</script>
