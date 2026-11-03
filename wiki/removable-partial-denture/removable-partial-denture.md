@@ -16,23 +16,23 @@ tags: [navigation, category-index, removable-partial-denture, rpd]
 > - **분야**: 가철성 국소의치 (Removable Partial Denture, RPD)
 > - **범위**: **선택 결정 축** — 언제 RPD인가. Kennedy 분류별 적응, 단축치열 (Shortened Dental Arch, SDA)·고정성 보철·임플란트와의 비교, 장기 보철·지대치 생존, 환자보고결과, 사용 중단, 비용효과
 > - **범위 밖 (후속 별건)**: 임플란트 보조 RPD (IARPD/ISRPD)·어태치먼트 설계, 클라스프/RPI 설계 원칙, CAD/CAM·3D 프린팅 제작
-> - **수록 논문**: 14편
+> - **수록 논문**: 18편
 
 ## Three-line Summary
 
 **Scope**: Removable partial denture **selection decision** — when an RPD is indicated versus a shortened dental arch, a tooth-supported fixed prosthesis, or an implant; Kennedy-class-driven indications, long-term prosthesis and abutment survival, patient-reported outcomes, discontinuation, and cost-effectiveness.
 
-**Indexed papers**: 15 papers in `wiki/removable-partial-denture/`.
+**Indexed papers**: 18 papers in `wiki/removable-partial-denture/`.
 
 ## 세줄요약
 
 **분야**: 국소의치 — 선택 결정 축
 
-**수록 논문**: 15편
+**수록 논문**: 18편
 
 **하위 카테고리**: 없음
 
-## Papers in this Category (15)
+## Papers in this Category (18)
 
 | Paper |
 |---|
@@ -51,3 +51,6 @@ tags: [navigation, category-index, removable-partial-denture, rpd]
 | [[mckenna-2018-sda-vs-rpd-older-patients-rct|Impact of oral rehabilitation on the quality of life of partially dentate elders in a randomised controlled clinical trial: 2 year follow-up]] |
 | [[fueki-2017-sda-vs-rpdp-ohrqol-sr-ma|Shortened dental arch and prosthetic effect on oral health-related quality of life: a systematic review and meta-analysis]] |
 | [[mclister-2018-prosthodontic-interventions-survival-shortened|Effectiveness of prosthodontic interventions and survival of remaining teeth in adult patients with shortened dental arches—A systematic review]] |
+| [[gao-2025-effectiveness-restoration-strategies-posterior|Effectiveness of Restoration Strategies for Posterior Missing Teeth With Dental Implants: A Retrospective Study]] |
+| [[koyama-2026-effects-occlusal-contact-loss-preferred|Effects of occlusal contact loss on the preferred chewing side on masticatory function: An experimental randomized crossover trial]] |
+| [[liang-2015-effects-removable-dental-prostheses-masticatory|Effects of removable dental prostheses on masticatory performance of subjects with shortened dental arches: A systematic review]] |
