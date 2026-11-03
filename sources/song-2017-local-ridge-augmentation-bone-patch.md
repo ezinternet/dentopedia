@@ -3,7 +3,7 @@ title: "Local ridge augmentation using a composite of bone substitute and collag
 authors: "Young Woo Song, So-Ra Yoon, Jae-Kook Cha, Jung-Seok Lee, Seong-Ho Choi, Ui-Won Jung"
 year: 2017
 doi: "unknown"
-category: "implants/ridge-augmentation"
+category: "bone-regeneration"
 pdf_path: /Users/oracleneo/llm-wiki/papers/kda-2017-vol55-no10.pdf
 pdf_filename: kda-2017-vol55-no10.pdf
 source_collection: "kda-journal"
