@@ -32,7 +32,7 @@ tags: [smoking, tobacco, cigarette, e-cigarette, vaping, smoke-free-tobacco, env
 
 ## Three-line Summary
 
-Synthesis of 14 papers on smoking/tobacco and periodontal-implant risk: mechanism (Apatzidou 2022) → implant survival/MBL convergent evidence (Mustapha 2022, Fan 2024, **Calciolari 2026**) → dose-response (Naseri 2020) → cessation benefit (Caggiano 2022) → surgical complication (Wang 2023, sinus membrane perforation) → emerging exposure routes newly mapped in 2026 (Ye 2026 secondhand smoke in non-smokers; La Rosa 2026 e-cigarette oral microbiome; Calciolari 2026's smoke-free/vaping implant sub-analysis).
+Synthesis of 18 papers on smoking/tobacco and periodontal-implant risk: mechanism (Apatzidou 2022) → implant survival/MBL convergent evidence (Mustapha 2022, Fan 2024, **Calciolari 2026**) → dose-response (Naseri 2020) → cessation benefit (Caggiano 2022) → surgical complication (Wang 2023, sinus membrane perforation) → emerging exposure routes newly mapped in 2026 (Ye 2026 secondhand smoke in non-smokers; La Rosa 2026 e-cigarette oral microbiome; Calciolari 2026's smoke-free/vaping implant sub-analysis).
 
 Cigarette smoking is now quantified across the full implant lifecycle: implant-level survival OR 0.40 (95% CI 0.27-0.61) and CBL +0.64mm over full follow-up (Calciolari 2026, 45 studies) concordant with early-failure OR 2.59 (Fan 2024) and dose-response (Naseri 2020); mechanistically explained by impaired neutrophil function, elevated MMP-8, microbial shifts, and delayed healing (Apatzidou 2022); and extending to surgical risk (58% higher Schneiderian membrane perforation odds, Wang 2023).
 
