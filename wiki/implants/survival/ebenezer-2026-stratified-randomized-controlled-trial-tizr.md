@@ -76,5 +76,5 @@ This stratified RCT enrolled 88 hyperglycaemic participants, stratifying by HbA1
 - [[implants/survival/shahi-2026-implant-outcomes-diabetes-mellitus-sr]] — reinforces (SR on DM implant outcomes; HbA1c risk framing consistent with this RCT's ~7× OR finding)
 - [[implants/survival/al-ansari-2022-diabetes-mellitus-dental-implants-sr-ma]] — reinforces (SR+MA showing DM worsens implant outcomes; this RCT provides prospective within-HbA1c-stratum MBL quantification)
 - [[implants/isq/diehl-2022-narrow-diameter-implant-stability-hyperglycemic]] — extends (case-control of 3.3mm TiZr ISQ in hyperglycemic [2yr]; this RCT adds diameter comparison and MBL stratification)
-- [[implants/survival/krishna-2025-uv-photofunctionalization-diabetic-implant-stability-rct]] — related (RCT of surface modification in diabetic implants; same population, complementary intervention axis)
+- [[implants/surface/krishna-2025-uv-photofunctionalization-diabetic-implant-stability-rct]] — related (RCT of surface modification in diabetic implants; same population, complementary intervention axis)
 - [[implants/isq/diehl-2024-restoration-posterior-teeth-narrow-diameter]] — related (4-year NDI case-control in T2DM; same implant type, longer follow-up but no diameter comparison)
