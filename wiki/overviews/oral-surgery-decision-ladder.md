@@ -190,7 +190,7 @@ PRF: 초기 2–3개월 통증 −66%·연조직 +75%·골충전 +85%, 6개월 �
 
 ### 신규 추가 (2026-10) — 악골 골절 접근법
 
-- [[oral-surgery/trauma/hallym-2017-retromandibular-subcondylar-fracture-parotid-fistula]] — Case report: retromandibular approach for subcondylar ORIF + parotid fistula management; retromandibular approach gives good exposure with minimal facial nerve risk; parotid fistula complication managed conservatively first (압박 드레싱·항생제·항콜린제), then surgically if persistent — adds a surgical approach axis and rare complication profile to the oral surgery decision ladder (case-report, 2017)
+- [[oral-surgery/hallym-2017-retromandibular-subcondylar-fracture-parotid-fistula]] — Case report: retromandibular approach for subcondylar ORIF + parotid fistula management; retromandibular approach gives good exposure with minimal facial nerve risk; parotid fistula complication managed conservatively first (압박 드레싱·항생제·항콜린제), then surgically if persistent — adds a surgical approach axis and rare complication profile to the oral surgery decision ladder (case-report, 2017)
 
 ### 신규 추가 (2026-09) — 최소침습 발치 기구
 
