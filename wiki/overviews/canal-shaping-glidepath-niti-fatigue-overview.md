@@ -107,7 +107,7 @@ ProTaper Gold는 여러 연구에서 "비교군 하한" 역할을 한다. Khalil
 
 ### 신규 추가 (2026-10)
 
-- [[endodontics/glide-path/kim-2017-efficiency-niti-glide-path-preparation]] — In-vitro preliminary (artificial teeth, MB2 canals): ProGlider > PathFile = OneG in dentin removal (weight loss, p<0.05); no significant difference in maximum torque or total stress during WaveOne shaping across glide-path instruments — glide-path instrument geometry affects dentin removal efficiency but does not translate to measurable torsional load reduction in this model; small n and canal-size variability limit conclusions (in-vitro, 2017)
+- [[endodontics/shaping/kim-2017-efficiency-niti-glide-path-preparation]] — In-vitro preliminary (artificial teeth, MB2 canals): ProGlider > PathFile = OneG in dentin removal (weight loss, p<0.05); no significant difference in maximum torque or total stress during WaveOne shaping across glide-path instruments — glide-path instrument geometry affects dentin removal efficiency but does not translate to measurable torsional load reduction in this model; small n and canal-size variability limit conclusions (in-vitro, 2017)
 
 ### 임상 파절률 (2026-10)
 
