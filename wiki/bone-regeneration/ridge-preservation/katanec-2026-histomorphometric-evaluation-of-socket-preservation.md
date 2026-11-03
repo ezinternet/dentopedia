@@ -15,8 +15,6 @@ text_path: /Users/oracleneo/llm-wiki/papers/katanec-2026-histomorphometric-evalu
 text_filename: katanec-2026-histomorphometric-evaluation-of-socket-preservation.txt
 tags: [simvastatin, socket-preservation, ridge-preservation, xenograft, cerabone, negative-result, histomorphometry, rct]
 relations:
-  - target: "[[bone-regeneration/ridge-preservation/]]"
-    type: extends
   - type: contradicts
     target: kommuri-2025-efficacy-of-statins-in-tissue
 ---
