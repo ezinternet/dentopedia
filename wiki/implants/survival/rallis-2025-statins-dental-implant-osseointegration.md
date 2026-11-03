@@ -14,8 +14,6 @@ text_path: /Users/oracleneo/llm-wiki/papers/rallis-2025-statins-dental-implant-o
 text_filename: rallis-2025-statins-dental-implant-osseointegration.txt
 tags: [statin, implant, osseointegration, hyperlipidemia, BMP-2, RANKL, OPG]
 relations:
-  - target: "[[implants/survival/]]"
-    type: extends
   - target: "[[bone-regeneration/tale-2026-simvastatin-guided-bone-regeneration-sr]]"
     type: reinforces
   - target: "[[drug/systemic-disease/chidiac-2026-antihypertensive-antihyperlipidemic-antidepressant-implant-survival]]"
