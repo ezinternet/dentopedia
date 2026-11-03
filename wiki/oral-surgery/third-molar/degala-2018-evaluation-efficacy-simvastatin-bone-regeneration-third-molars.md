@@ -14,7 +14,7 @@ text_path: /Users/oracleneo/llm-wiki/papers/degala-2018-evaluation-efficacy-simv
 text_filename: degala-2018-evaluation-efficacy-simvastatin-bone-regeneration-third-molars.txt
 tags: [simvastatin, third-molar, bone-regeneration, rct, socket-healing]
 relations:
-  - target: "[[oral-surgery/third-molar/]]"
+  - target: "[[bone-regeneration/tale-2026-simvastatin-guided-bone-regeneration-sr]]"
     type: extends
 ---
 
