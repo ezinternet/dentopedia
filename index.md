@@ -3352,6 +3352,7 @@ tags: []
 
 - [[implants/survival/shahi-2026-implant-outcomes-diabetes-mellitus-sr]] — Shahriar Shahi 2026 · sr · BMC Oral Health article-in-press — DM and dental implant outcomes (successor to al-ansari-2022 MA; unedited version, full body pending publication)
 - [[implants/survival/abichandani-2026-time-varying-glycemic-control-long]] — Abichandani 2026 · retrospective · 782명 1312개 5.6년: HbA1c ≥8% → 5년 실패율 8.1%·PI 26.0% (HbA1c <7% 대비 2배); 비선형 dose-response, 8% 이상 기울기 급변
+- [[implants/survival/ebenezer-2026-stratified-randomized-controlled-trial-tizr]] — Ebenezer 2026 · rct · 층화 RCT(n=83, 166개; HbA1c <7% vs ≥7%): ∅3.3mm vs ∅4.1mm TiZr FDP, 12개월 — 직경별 MBL 차이 없음(0.27mm vs 0.27mm, p=0.078); HbA1c ≥7% → MBL ≥0.5mm 교차비 ~7배; ISQ는 4.1mm에서 높고(79.6 vs 76.1, p<0.001), 초기치유는 3.3mm 우수(p=0.005); 생존율 100%
 - [[drug/mronj/kwon-2023-mronj-position-papers-what-changed]] — Tae-Geon Kwon 2023 (대한치과의사협회지) · narrative-review · AAOMS MRONJ 권고안 변천(2007 BRONJ→2014 MRONJ→2022 update) 해설; 2022 핵심 3변경: (1)정의에 면역조절제(Romosozumab) 추가 (2)수술 치료 전 stage(1·2·3) 확대 (3)수술 전 drug holiday 권고 삭제. ruggiero-2022 원문의 한국어 해석 레이어
 
 ### radiology (NEW category, added 2026-05-28, batch f)
@@ -4021,6 +4022,7 @@ tags: []
 ### implants/isq
 - [[implants/isq/diehl-2022-narrow-diameter-implant-stability-hyperglycemic]] — Prospective case–control (n=32, 48 narrow-diameter implants, 3 mo): 3.3 mm TiZr SLActive ISQ equivalent in T2DM vs normoglycemic (~64), no HbA1c–ISQ correlation [prospective]
 - [[implants/isq/sachelarie-2025-osteoporosis-diabetes-dental-implant]] — Sachelarie 2025 · prospective pilot · n=50(DM 21/OP 29): 6개월 ISQ DM 62.10 vs OP 67.04 (p=0.02); 12개월에 두 군 모두 유의 개선, ISQ 격차 축소
+- [[implants/isq/diehl-2024-restoration-posterior-teeth-narrow-diameter]] — Diehl 2024 · retrospective · 4년 추적 케이스-컨트롤(T2DM 11명 vs 정상혈당 15명, HbA1c >6.5% vs <6.0%): 3.3mm TiZr NDI 48개월 생존율 100%, ΔMBL T2DM 0.09mm vs 대조군 0.15mm(p=0.875 비유의), 전 임상지표 비유의; diehl-2022 2년 결과의 4년 연장
 - [[implants/isq/rosas-diaz-2023-rfa-mapping-nanostructured-hydroxyapatite]] — Weekly ISQ mapping over 20 wk for nanostructured hydroxyapatite surface (n=21): stability dip wk 2–3, recovery to baseline by wk 8–10 [prospective]
 - [[implants/isq/fu-2023-implant-stability-marginal-bone-level-pilot]] — 2-yr prospective pilot (n=156): bone density & insertion torque dominate MBL prediction; ISQ stabilizes after 6 mo, converges ~74–75 at 24 mo [prospective]
 - [[implants/isq/vilchez-2025-sla-slactive-split-mouth-rct]] — Split-mouth RCT (n=68); modified SLActive vs SLA Bone Level Tapered Roxolid; ISQ equivalent at placement (73.0 vs 72.3) and 8 weeks (75.5 vs 75.9); primary MBL change loading→12m no significant difference (0.04 vs 0.07 mm, p=0.658); 100% survival after loading both groups
