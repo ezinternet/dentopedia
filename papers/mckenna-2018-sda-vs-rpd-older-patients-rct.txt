@@ -1,0 +1,92 @@
+Impact of oral rehabilitation on the quality of life of partially dentate elders in a randomised controlled clinical trial: 2 year follow-up
+
+McKenna G, Allen PF, Hayes M, DaMata C, Moore C, Cronin M
+
+PLoS ONE, 2018;13(10):e0203349
+PMID: 30307966 | PMC: PMC6181283 | DOI: 10.1371/journal.pone.0203349
+
+ABSTRACT
+
+Objective: This randomised clinical trial aimed to compare the impact of two different tooth replacement strategies for partially dentate older patients namely; removable partial dentures (RPDs) and functionally orientated treatment based on the shortened dental arch (SDA) concept, on Oral Health-related Quality of Life (OHrQOL).
+
+Methods: 89 patients completed a randomised clinical trial. Patients were recruited in two centres: Cork University Dental Hospital (CUDH) and a Geriatric Day Hospital (SFDH). 44 patients were randomly allocated to the RPD group and 45 to the SDA group where adhesive bridgework was used to provide 10 pairs of occluding contacts. The impact of treatment on OHrQOL was used as the primary outcome measure. Each patient completed the Oral Health Impact Profile (OHIP-14) at baseline, 1, 6, 12 and 24 months after treatment.
+
+Results: Both treatment groups reported improvements in OHIP-14 scores at 24 months (p<0.05). For the SDA group OHIP-14 scores improved by 8.0 scale points at 12 months (p<0.001) and 5.9 scale points at 24 months (p<0.05). For the RPD group OHIP-14 scores improved by 5.7 scale points at 12 months (p<0.05) and 4.2 scale points at 24 months (p<0.05). Analysis using ANCOVA showed that there were significant between group differences recorded in both treatment centres. 24 months after intervention the SDA group recorded better OHIP-14 scores by an average of 2.9 points in CUDH (p<0.0001) and by an average of 7.9 points in SFDH (p<0.0001) compared to the RPD group.
+
+Conclusions: Patients in the SDA group maintained their improvements in OHrQOL scores throughout the 24 month study period. For the RPD group the initial improvement in OHrQOL score began to diminish after 6 months, particularly for those treated in SFDH. Thus, the benefits of functionally orientated treatment increased over time, particularly for the older, more systemically unwell cohort in SFDH.
+
+INTRODUCTION
+
+Significant changes in the oral health of older patients have resulted in a partially dentate older population with decreased prevalence of edentulism. In many counties, the current conventional care delivered to replace missing teeth for older patients involves provision of removable partial dentures (RPDs). However, less complex, functionally orientated treatment solutions are very applicable to partially dentate older patients including the Shortened Dental Arch (SDA) concept. First described in 1981, the SDA approach aims to provide patients with a functional dentition of 10 occluding pairs of teeth or contacts without the need for a RPD. Treatment efforts are focused on the anterior teeth which provides patients with an aesthetic dentition which can also be maintained successfully. Studies have shown that by providing 10 occluding pairs of teeth or contacts, patients can achieve suboptimal but acceptable levels of dental function. Evidence has shown that use of the SDA concept in older patients can have positive impacts on nutritional status and is more cost-effective to deliver and maintain than RPDs. However, evidence at the highest level remains extremely limited, with very few reported randomised trials reported.
+
+METHODOLOGY
+
+Design: RCT, two-centre (CUDH = Cork University Dental Hospital; SFDH = St Finbarr's Geriatric Day Hospital)
+Recruitment: January 2011 – March 2013; 2-year follow-up completed May 2015
+Inclusion: age ≥65 years, seeking tooth replacement, minimum 6 remaining natural teeth in both arches, good prognosis, able to accept routine dental care, communicate in English
+Ethics: Cork Teaching Hospitals Ethics Committee (ref: ECM 5 (9) 05/02/08)
+
+Randomisation: computer-generated schedule (SAS), blocks of varying length, stratified by age and gender, concealed from clinical operator
+Intention-to-treat analysis
+
+Interventions:
+- RPD group (n=44): all missing natural teeth replaced with cobalt-chromium framework RPDs
+- SDA group (n=45): restored to premolar occlusion of 10 occluding pairs using resin-bonded bridgework (RBB) throughout arch; posterior teeth distal to SDA left unopposed
+
+Outcome: OHIP-14 (Oral Health Impact Profile, 14-item) — lower score = better OHRQoL
+Timepoints: baseline, 1, 6, 12, 24 months after treatment
+Research nurse blinded to group allocation
+
+Statistical analysis: mixed model ANCOVA for repeated measures; intention-to-treat
+
+RESULTS
+
+89 patients completed 2-year follow-up (44 RPD, 45 SDA)
+Mean age RPD: 74.1yr; SDA: 73.9yr
+
+OHIP-14 Summary Scores:
+
+Both groups improved from baseline at all timepoints.
+
+SDA group improvements:
+- 8.0 points at 12 months (p<0.001)
+- 5.9 points at 24 months (p<0.05)
+
+RPD group improvements:
+- 5.7 points at 12 months (p<0.05)
+- 4.2 points at 24 months (p<0.05)
+
+Between-group differences (ANCOVA, adjusted):
+- CUDH: SDA better by 2.9 OHIP-14 points at 24 months (p<0.0001)
+- SFDH: SDA better by 7.9 OHIP-14 points at 24 months (p<0.0001)
+
+Raw OHIP-14 scores at 24 months:
+- RPD total: mean 7.4 (SD 3.3)
+- SDA total: mean 4.0 (SD 2.3)
+
+OHIP-14 domains at 24 months where SDA significantly superior:
+- Physical pain: SDA lower by average 0.7-2.6 points across centres (p<0.05)
+- Psychological discomfort: SDA lower by 0.6-1.5 points (p<0.001)
+- Physical disability: SDA lower by 0.9 points (p=0.0001)
+- Psychological disability: SDA lower by 0.5-1.9 points (p<0.05)
+- Functional limitation: SDA lower by 0.2 points at 24mo (p=0.0316)
+
+RPD temporal pattern: initial improvements reversed after 6 months, particularly in SFDH (older, more unwell cohort)
+
+Maintenance: RPD patients returned for follow-up care >3× more frequently than SDA patients (p<0.001)
+
+DISCUSSION
+
+SDA superior to RPD for OHRQoL in older partially dentate patients at 2 years. Benefits increase over time; RPD benefits diminish.
+
+The effect was larger in SFDH (older, more systemically unwell patients) — suggests SDA is particularly advantageous in frail older patients.
+
+Explanations for RPD disadvantage over time: maintenance burden, multiple complex clinical procedures, physical difficulties with RPD insertion/removal in elderly, psychological burden.
+
+Cost-effectiveness data from same study: functionally orientated care more cost-effective; RPD patients returned 3× more frequently.
+
+Nutritional impacts: previous publications from same group showed positive nutritional impacts of SDA.
+
+CONCLUSION
+
+SDA group maintained OHRQoL improvements throughout 24 months. RPD initial improvements diminished after 6 months. Benefits of functionally orientated treatment increased over time, particularly for older, more systemically unwell patients.
