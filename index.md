@@ -5354,3 +5354,7 @@ tags: []
 - [[drug/medical-emergencies/gazal-2026-risk-factors-adverse-events-tooth-extraction]] — 2026 · narrative-review · 발치 시 의과적 고위험 환자 이상반응 위험인자·응급처치 리뷰; HbA1c <9%, INR ≤3.5, BP <180/110 임계값
 - [[drug/medical-emergencies/khattak-2026-clinical-readiness-knowledge-attitude-bls]] — 2026 · cross-sectional · 사우디아라비아 치과의사 400명 BLS/CPR 준비도 조사; 최근 교육(aOR 4.91)·응급 경험(aOR 12.97)이 지식 예측인자; AED 보유율 7.5%
 - [[drug/medical-emergencies/tayebi-hillali-2026-competence-semi-automated-external-defibrillator]] — 2026 · prospective · 스페인 치과대 최종학년 AED 실기 역량: 전통 음성안내 시 8/10개 항목 <10% 이행(쇼크전달 143s); 수정 안내로 7항목 유의 개선·쇼크 116s(-27s)
+- [[drug/medical-emergencies/yoshimine-2025-monitor-feedback-versus-instructor-feedback]] — 2025 · rct · 치과대학생 BLS RCT (n=34): 모니터 피드백→CC 깊이 개선, 교관 피드백→CC 속도 개선; 하이브리드 방식 권장
+- [[drug/medical-emergencies/cangul-2026-knowledge-attitudes-clinical-preparedness-dentists]] — 2026 · cross-sectional · 터키 치과의사 전국조사 (n=300): 지식 중앙값 11/16, 역량감 40%만; 아나필락시스·고혈압 위기에서 결정적 격차
+- [[drug/medical-emergencies/olus-2026-code-blue-awareness-dental-students]] — 2026 · cross-sectional · 치과대학생 코드블루 인지도 (n=186): 70.4% 인지, 혈관미주신경성 실신을 코드블루로 잘못 분류 70.5%
+- [[drug/medical-emergencies/aquino-2026-perceived-confidence-managing-medical-emergencies]] — 2026 · cross-sectional · 치과대학생 응급 처치 자기 확신도 + 감성지능 (n=100): 82% 미준비, EI가 진단 준비도 예측(p=0.04)
