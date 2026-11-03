@@ -22,6 +22,9 @@ source_papers:
   - wiki/suture-wound-closure/takadoum-2022-sutureless-socket-technique-third-molars.md
   - wiki/suture-wound-closure/kim-2026-interrupted-vs-mattress-suture-gbr-rct.md
   - wiki/suture-wound-closure/im-2026-suture-free-wound-closure-healing-abutment-rct.md
+  - wiki/implants/alramli-2025-submerged-transmucosal-gbr-implant.md
+  - wiki/immediate-implant/gap-grafting/liu-2019-reactive-soft-tissue-primary-closure-posterior.md
+  - wiki/immediate-implant/gap-grafting/liu-2022-reactive-soft-tissue-primary-closure-2year.md
 evidence_level: synthesis
 source: synthesis
 relations:
@@ -48,7 +51,9 @@ relations:
 > - **봉합법 자체(패턴)는 변수가 아니다**: 수평 수평매트리스 덧댐이 열개를 줄이지 못했다(60% vs 55%, n=40). [[suture-wound-closure/kim-2026-interrupted-vs-mattress-suture-gbr-rct]] — 닫을 거면 **장력 없는 상태 자체**가 변수다.
 > - **이환율 축은 임플란트로 전이하면 안 된다**: 매복 사랑니 RCT는 개방이 통증·부종↓(Pachipulusu 2018)이지만 다기관 adequately-powered RCT는 **전 지표 비열등**(Day-3 통증 p=0.904, Takadoum 2022). 전이는 인접 근거일 뿐이다.
 > - **종합 등급 🟡 Moderate** — SR+MA 1편 + RCT 1편이 반대 방향의 결론(동등 vs 우위)을 나눠 가진다. "개방이 더 낫다"가 아니라 **"억지 일차봉합의 증거 기반 근거가 없다"**가 이 주제의 방어 가능한 결론이다.
-> - **증거 공백**: 개방치유가 감염·중증 합병증을 낮춘다는 직접 RCT, 12개월을 넘는 장기 심미 데이터, 하부 소켓 결품(Seibert 소켓 분류 class III) 누군가 회복 비교 — 위키에 없음.
+> - **동시 GBR 후 힐링 방식 RCT (Alramli 2025, n=28, CBCT)**: 식립 후 동시 유도골재생술 (Guided Bone Regeneration, GBR) 시 서브머지드 vs 치통점막(transmucosal) 힐링 — 수직골획득·결손해소·협측골두께 4개월 무차이 (p>0.05). **GBR 후 힐링 방식은 골 결과에 영향 없음** — 치통점막 방식이 실행 가능한 대안. Zhou 2024(후향) 대비 RCT로 근거 수준 업그레이드. [[implants/alramli-2025-submerged-transmucosal-gbr-implant]]
+> - **반응성 연조직(Reactive Soft Tissue) 1차 봉합 (Liu 2019·2022, Sichuan Univ)**: 후방부 손상 발치와 즉시식립 시 소켓 내 육아조직+긴결합상피를 1차 봉합재로 활용 — 1년 생존율 100%, 협측골 소실↓, 각화점막폭(Keratinized Mucosa Width, KMW) 유지(2019); 2년 골·연조직 안정, 골·연조직 복합결손(Group B)에서 오히려 KMW +0.67 mm(2022). **소켓 고유 생체 재료를 1차 봉합재로 전용** — 전통적 "반응성 조직은 전부 제거" 통념에 반하는 근거. [[immediate-implant/gap-grafting/liu-2019-reactive-soft-tissue-primary-closure-posterior]] · [[immediate-implant/gap-grafting/liu-2022-reactive-soft-tissue-primary-closure-2year]]
+> - **증거 공백**: 개방치유가 감염·중증 합병증을 낮춘다는 직접 RCT, 12개월을 넘는 장기 심미 데이터, 하부 소켓 결품(Seibert 소켓 분류 class III) 누군가 회복 비교 — 위키에 없음. *GBR 후 서브머지드 vs 치통점막 힐링 직접 RCT는 Alramli 2025로 부분 해소.*
 
 ## Three-line Summary
 
@@ -189,6 +194,9 @@ A genuinely implant-specific soft-tissue result does exist, and it favors the su
 | [[bone-regeneration/ridge-preservation/arroteia-2025-alveolar-ridge-preservation-posterior-rct]] | RCT, 4 arms | 22/arm, posterior | Graft (±Ti membrane) improves vertical preservation but **horizontal loss significant in all arms** | rct |
 | [[suture-wound-closure/pachipulusu-2018-primary-secondary-closure-third-molar]] | RCT | 60 | Secondary closure: less pain/swelling, greater mouth opening (p<0.05); 6-mo periodontal healing identical | rct *(third molar — not implant)* |
 | [[suture-wound-closure/takadoum-2022-sutureless-socket-technique-third-molars]] | Multicentric open RCT, CONSORT | 94 analyzed | **All outcomes equivalent** (Day-3 pain p=0.904); smoking 3.65× complication risk (p=0.0244); anticoagulant/coagulopathy patients excluded | rct *(third molar — not implant)* |
+| [[implants/alramli-2025-submerged-transmucosal-gbr-implant]] | RCT, CBCT, 4 mo | 28 pts | Simultaneous GBR: submerged vs transmucosal healing — **VGAIN, defect resolution, RBT all NS (p>0.05)**; RBT decreased within both groups (p<0.05); healing modality does not affect bone outcomes | rct |
+| [[immediate-implant/gap-grafting/liu-2019-reactive-soft-tissue-primary-closure-posterior]] | Prospective cohort, 1 yr | 33 posterior implants | Reactive soft tissue (GT + LJE) from compromised socket as primary closure: **survival 100%**, less buccal bone height loss and KM reduction vs control; MBL/soft tissue NS at 1 yr | prospective |
+| [[immediate-implant/gap-grafting/liu-2022-reactive-soft-tissue-primary-closure-2year]] | Retrospective cohort, 2 yr | 32 posterior implants | Extends Liu 2019 to dual-defect sockets: Group A (bone only) KM −0.56 mm vs Group B (bone + ST) KM **+0.67 mm (p=0.009)**; bone/ST maintained at 2 yr | retrospective |
 
 ---
 
@@ -201,6 +209,8 @@ The question has one upstream variable: **does the wound close passively, or doe
 | **Esthetic-zone IIP, intact buccal wall, medium/thick biotype** | **Open healing / flapless favored** | Bouffleur 2026 PES MD 1.49 (p=0.0014); Zadikian 2026 MML NS, mesial papilla favors open. Caveat: requires a transmucosal seal (provisional or customized healing abutment) |
 | **Simultaneous GBR, initial crestal wound ≤6 mm** | **Open OK — skip flap release and CTG** | Zhou 2024: full closure by W16 (5.8 → 0.1 mm), bone change equivalent to complete closure |
 | **Simultaneous GBR, initial wound ≥7 mm** | Complete closure worth considering | Zhou 2024: cover-screw exposure 5/16 at ≥7 mm (final restorations unaffected) |
+| **Simultaneous GBR — submerged vs transmucosal healing abutment** | **Either healing modality acceptable; choose by prosthetic convenience** | Alramli 2025 RCT (n=28): VGAIN/defect resolution/RBT equivalent at 4 months — healing approach does not govern bone result |
+| **Posterior compromised socket, reactive tissue present (GT + LJE)** | **Reactive tissue may be used as primary closure — debridement is not mandatory** | Liu 2019 (prospective, n=33): 100% survival, less buccal bone loss and KM reduction; Liu 2022 (retrospective, 2-yr, n=32): dual-defect Group B gained KM +0.67 mm (p=0.009). Caveat: non-RCT, control definition imprecise |
 | **Thin buccal wall / dehiscence** | **Do not hold it open — flap + GBR, or stage to ARP + delayed placement** | Pitman 2023: flap + GBR indicated when buccal defects present; case selection sets the esthetic ceiling |
 | **ARP, thick buccal bone** | Flapless / open healing | Lee 2018: bone equivalent, KGW preserved; Khehra 2025 (n=20) BG-alone ≈ BG + collagen membrane in thick buccal bone |
 | **ARP, material choice under an open seal** | Prefer a fully-resorbing scaffold; counsel on residual xenograft burden | Benekou 2025: xenograft + membrane −22.47% new bone, 20.49% residual content; Friedmann 2026 SCLC/HA fully remodeled |
