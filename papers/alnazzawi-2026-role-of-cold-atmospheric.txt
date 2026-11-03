@@ -1,0 +1,99 @@
+Role of cold atmospheric plasma alone or combined with conventional surface treatments on shear bond strength of 3Y-TZP and 5YSZ ceramics bonded to dentin
+
+Authors: Alnazzawi A et al.
+Journal: Biomater Investig Dent. 2026;13:45563
+PMID: 42111598
+PMC: PMC13154724
+DOI: 10.2340/biid.v13.45563
+
+ABSTRACT
+
+This study evaluated the impact of different surface treatments — cold atmospheric plasma (CAP), airborne particle abrasion (APA), hydrofluoric acid (HF), and their combinations — on the bond strength of two zirconia types (3Y-TZP, 5YSZ) to dentin using self-adhesive resin cement, with or without primer.
+
+200 zirconia and dentin specimens underwent surface treatment, cementation, thermocyclic aging (10,000 cycles), and shear bond strength (SBS) testing.
+
+Results: APA and CAP significantly enhanced SBS (p<0.001), while HF had no effect. Combined treatments (APA+CAP, CAP+HF) slightly reduced SBS compared to individual treatments. Primer application improved SBS across all groups. APA or CAP with a 10-MDP primer achieved the highest SBS values.
+
+Key conclusions:
+- CAP ≈ APA for SBS (statistically comparable) with primer
+- 3Y-TZP ≈ 5YSZ (no significant difference between zirconia types)
+- Combinations (APA+CAP, HF+CAP) reduce rather than increase SBS
+- 10-MDP primer essential regardless of surface treatment
+
+INTRODUCTION AND METHODS
+
+3Y-TZP is relatively opaque; 4YSZ and 5YSZ are more esthetic with higher cubic phase content. Bonding zirconia to dentin is clinically essential for tooth-supported restorations with limited enamel.
+
+Study design: In vitro, Taibah University (ethics approval TUCDREC/210323)
+Sample: 200 zirconia specimens (100 3Y-TZP ceraMotionZ HT, 100 5YSZ ceraMotionZ Cubic, Dentaurum)
+       + 100 extracted permanent molars (dentin specimens)
+Groups (per zirconia type): 5 surface treatments × 2 primer conditions = 10 subgroups (n=10 each)
+
+ZIRCONIA SURFACE TREATMENTS:
+1. Control: no treatment
+2. APA: 50 μm Al₂O₃ particles, 2 bar, 10 mm, 20 s, perpendicular
+3. CAP: dielectric barrier discharge, up to 20 kV and 20 kHz, 4 mm electrode gap
+4. APA + CAP: APA then CAP
+5. HF + CAP: 9.5% HF acid gel, 1 h at ambient, then CAP
+
+CEMENTATION:
+- Dentin: phosphoric acid (37%) etching + universal adhesive (Ambar, Dentscare)
+- Zirconia primer: Z-prime plus (Bisco), applied to 50% specimens
+- Cement: Maxcem Elite Chroma (self-adhesive resin cement, Kerr)
+- Load: 5 kg constant load until set
+- Aging: 10,000 thermocycles, 5-55°C, 30 s dwell, 10 s transfer
+
+SBS TEST: Instron, 0.5 mm/min, beveled chisel rod, bonding area = 3×4 = 12 mm²
+
+RESULTS
+
+SBS MEANS (MPa) — 3Y-TZP:
+
+| Treatment | No primer | With primer |
+|-----------|-----------|-------------|
+| Control | 4.83 | 7.56 |
+| APA | 17.01 | 25.94 |
+| CAP | 17.43 | 26.99 |
+| APA+CAP | 15.42 | 24.40 |
+| HF+CAP | 15.14 | 20.96 |
+
+SBS MEANS (MPa) — 5YSZ:
+
+| Treatment | No primer | With primer |
+|-----------|-----------|-------------|
+| Control | 4.49 | 7.21 |
+| APA | 16.75 | 26.27 |
+| CAP | 17.52 | 26.89 |
+| APA+CAP | 16.47 | 24.97 |
+| HF+CAP | 14.94 | 22.26 |
+
+KEY STATISTICS (Multiple-way ANOVA):
+- Surface treatment: F=703.04, p<0.0001, partial η²=0.94
+- Primer: F=1063.84, p<0.0001, partial η²=0.86
+- Zirconia type (3Y vs 5Y): F=0.86, p=0.354 (NOT SIGNIFICANT)
+- Surface treatment × Primer interaction: F=31.47, p<0.0001
+
+FAILURE MODES:
+- Control groups: purely adhesive (no treatment effect)
+- APA and CAP groups: mixed failure (more mixed = stronger bond)
+- APA+CAP and HF+CAP: higher proportion of adhesive failures (weaker = more interface failure)
+
+CONCLUSIONS
+
+1. Both CAP and APA produced comparable SBS; APA remains most cost-effective
+2. Primer application significantly enhanced SBS across ALL groups, regardless of surface treatment — 10-MDP primer is non-negotiable
+3. Zirconia type (3Y-TZP vs 5YSZ) did NOT influence SBS — both types behave comparably with proper adhesive protocol
+4. Combinations (APA+CAP, HF+CAP) slightly decreased SBS vs individual treatments — not recommended
+5. HF acid alone showed no effect on zirconia SBS — confirmed ineffective
+6. CAP mechanism: increases surface energy and wettability without altering surface roughness or crystalline phase; no phase transformation risk
+
+CLINICAL RELEVANCE
+
+CAP is a viable non-abrasive alternative to APA for zirconia cementation. However, APA remains simpler and more cost-effective. The critical clinical factor is MDP primer use, not which surface treatment. Both 3Y-TZP and 5YSZ respond equivalently to adhesive protocols.
+
+LIMITATIONS
+
+- In vitro only; no dynamic loading or clinical follow-up
+- Only self-adhesive resin cement; other cement types not tested
+- Dentin specimens from extracted teeth (not standardized clinically)
+- Only 10,000 thermocycles (more aggressive aging protocols needed)
