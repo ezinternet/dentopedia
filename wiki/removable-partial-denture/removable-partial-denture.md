@@ -22,17 +22,17 @@ tags: [navigation, category-index, removable-partial-denture, rpd]
 
 **Scope**: Removable partial denture **selection decision** — when an RPD is indicated versus a shortened dental arch, a tooth-supported fixed prosthesis, or an implant; Kennedy-class-driven indications, long-term prosthesis and abutment survival, patient-reported outcomes, discontinuation, and cost-effectiveness.
 
-**Indexed papers**: 14 papers in `wiki/removable-partial-denture/`.
+**Indexed papers**: 15 papers in `wiki/removable-partial-denture/`.
 
 ## 세줄요약
 
 **분야**: 국소의치 — 선택 결정 축
 
-**수록 논문**: 14편
+**수록 논문**: 15편
 
 **하위 카테고리**: 없음
 
-## Papers in this Category (14)
+## Papers in this Category (15)
 
 | Paper |
 |---|
@@ -50,3 +50,4 @@ tags: [navigation, category-index, removable-partial-denture, rpd]
 | [[walter-2021-shortened-dental-arch-15year-rct|Rehabilitation of shortened dental arches: A fifteen-year randomised trial]] |
 | [[mckenna-2018-sda-vs-rpd-older-patients-rct|Impact of oral rehabilitation on the quality of life of partially dentate elders in a randomised controlled clinical trial: 2 year follow-up]] |
 | [[fueki-2017-sda-vs-rpdp-ohrqol-sr-ma|Shortened dental arch and prosthetic effect on oral health-related quality of life: a systematic review and meta-analysis]] |
+| [[mclister-2018-prosthodontic-interventions-survival-shortened|Effectiveness of prosthodontic interventions and survival of remaining teeth in adult patients with shortened dental arches—A systematic review]] |
