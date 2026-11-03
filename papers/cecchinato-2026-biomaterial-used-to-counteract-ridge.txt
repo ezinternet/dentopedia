@@ -1,0 +1,17 @@
+Cecchinato D, Corrà E, Bressan E, Gervasi M, Menoncin M, Savio E, Toia M.
+Biomaterial used to counteract ridge reduction following the removal of adjacent teeth: A randomized controlled multicenter study.
+J Periodontol. 2026;97(7):1481-1490.
+DOI: 10.1002/jper.70084
+PMID: 41870328
+PMC: PMC13380361
+
+ABSTRACT
+Background: Tooth extraction leads to dimensional changes of the alveolar ridge. The aim of this study was to evaluate the efficacy of using a deproteinized bovine bone mineral with 10% collagen (DBBM-C) plus a resorbable membrane to counteract ridge reduction following the removal of two adjacent teeth.
+
+Methods: This was a prospective multicenter RCT conducted at 4 Italian private clinics. Forty-two patients (21 Test, 21 Control), each requiring removal of two adjacent teeth, were enrolled. The Test group received DBBM-C (Bio-Oss Collagen, Geistlich) plus a resorbable collagen membrane; the Control group underwent natural healing. Ridge dimensions were assessed at baseline and at 6 months using STL e-models derived from stone casts. Horizontal reduction (% change at 3mm below crest), vertical buccal, and vertical lingual dimensions were measured.
+
+Results: Horizontal ridge width reduction at 3mm below crest: Control 57.7% vs Test 23.0% (p<0.001). Buccal vertical reduction: Control -3.0mm vs Test -1.5mm (p<0.001). Lingual vertical reduction: Control -2.2mm vs Test -1.3mm (p<0.001). The test group maintained significantly more ridge volume at all measurement points.
+
+Limitations: 6-month follow-up only. No histological analysis. No severe socket defects included. All sites were specialist private clinic cases. STL models from stone casts (not CBCT) used for dimensional analysis.
+
+Conclusions: DBBM-C plus resorbable membrane significantly reduces alveolar ridge dimensional changes following extraction of two adjacent teeth compared to natural healing, at 6-month follow-up in a multicenter RCT setting.
