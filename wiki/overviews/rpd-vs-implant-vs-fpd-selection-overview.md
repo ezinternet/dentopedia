@@ -173,6 +173,9 @@ The Kennedy classification maps to both SDA eligibility and prosthesis design co
 | [[removable-partial-denture/duong-2022-ohrqol-implant-supported-prostheses]] | Narrative review | Implant OHRQoL not significantly > conventional (patient view) | Implant comparison |
 | [[removable-partial-denture/bashir-2022-rpd-mortality-partially-edentulous]] | Observational | RPD wearers 3.1yr longer median survival (NOT causal) | Far endpoint signal |
 | [[removable-partial-denture/mckenna-2020-functionally-orientated-tooth-replacement-older]] | Narrative review | SDA reduces maintenance burden in aging population | Geriatric framing |
+| [[removable-partial-denture/mckenna-2018-sda-vs-rpd-older-patients-rct]] | RCT | SDA/adhesive FDP ≥ RPD for OHRQoL at 24 months (OHIP-14 NS, p=0.08); both prosthetic groups improved | SDA vs RPD OHRQoL |
+| [[removable-partial-denture/fueki-2017-sda-vs-rpdp-ohrqol-sr-ma]] | SR+MA | OHRQoL: SDA vs RPDP/IFPDP no significant difference across 6 studies | OHRQoL synthesis |
+| [[removable-partial-denture/mclister-2018-prosthodontic-interventions-survival-shortened]] | SR | Insufficient evidence to recommend any prosthodontic strategy over SDA maintenance; 10 studies (3 RCTs), heterogeneity precluded MA | SR synthesis — all axes |
 
 ---
 
