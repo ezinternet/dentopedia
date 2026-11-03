@@ -5358,3 +5358,7 @@ tags: []
 - [[drug/medical-emergencies/cangul-2026-knowledge-attitudes-clinical-preparedness-dentists]] — 2026 · cross-sectional · 터키 치과의사 전국조사 (n=300): 지식 중앙값 11/16, 역량감 40%만; 아나필락시스·고혈압 위기에서 결정적 격차
 - [[drug/medical-emergencies/olus-2026-code-blue-awareness-dental-students]] — 2026 · cross-sectional · 치과대학생 코드블루 인지도 (n=186): 70.4% 인지, 혈관미주신경성 실신을 코드블루로 잘못 분류 70.5%
 - [[drug/medical-emergencies/aquino-2026-perceived-confidence-managing-medical-emergencies]] — 2026 · cross-sectional · 치과대학생 응급 처치 자기 확신도 + 감성지능 (n=100): 82% 미준비, EI가 진단 준비도 예측(p=0.04)
+
+## 소아치과 (Pediatric Dentistry)
+
+- [[pediatric-dentistry/juarez-lopez-2023-etiological-factors-molar-incisor-hypomineralization]] — 2023 · sr+ma · 25편 메타분석(44,037명): MIH 위험인자 — 임신 중 질환(OR 4.03), 영아기 전신질환(OR 4.06), 항생제(OR 1.76), 고열(OR 1.48), 저체중 출생(OR 1.23); 미숙아·제왕절개·호흡기 질환은 유의 없음
