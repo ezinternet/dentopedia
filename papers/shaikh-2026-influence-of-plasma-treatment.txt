@@ -1,0 +1,76 @@
+Influence of Plasma Treatment on the Bonding Strength and Hydrophilicity of Zirconia: A Systematic Review and Meta-Analysis
+
+Authors: Shaikh S, Chowdhry M, Gautam A et al.
+Journal: Cureus. 2026 Mar;18(3):e105752
+PMID: 42037895
+PMC: PMC13104016
+DOI: 10.7759/cureus.105752
+PROSPERO: CRD42025640563
+
+ABSTRACT
+
+Achieving reliable adhesion between resin-based materials and zirconia remains challenging because zirconia has a chemically inert surface and low intrinsic wettability. Plasma surface treatment has been proposed as a non-destructive method to improve surface energy, hydrophilicity, and bonding performance without altering the bulk structure of zirconia. However, variations in plasma type, gas composition, exposure duration, and testing protocols have limited clear conclusions regarding its effectiveness.
+
+This systematic review and meta-analysis were conducted in accordance with the PRISMA 2020 guidelines and registered in PROSPERO (CRD42025640563). Electronic searches of PubMed/MEDLINE, Scopus, Embase, Web of Science, and the Cochrane Library were performed up to January 31, 2026. Fourteen in vitro studies met the inclusion criteria. Risk of bias was assessed using the QUIN tool.
+
+Overall, plasma-treated zirconia showed improved wettability and enhanced bond strength compared with untreated controls. Several studies reported bond strength values comparable to or greater than those achieved with alumina sandblasting, particularly when plasma treatment was combined with 10-MDP-containing primers. Meta-analysis showed a significant improvement in shear bond strength for plasma-treated zirconia compared with untreated zirconia (SMD 3.04; 95% CI: 1.76-4.32, I²=89%). In the comparison with sandblasting, the primary pooled analysis was not significant (SMD 0.89; 95% CI: -0.41 to 2.19, I²=90%), but the sensitivity analysis (excluding Kim et al. 2024) favored plasma treatment (SMD 1.49; 95% CI: 0.34-2.63, p=0.01).
+
+Plasma surface treatment appears to be a promising strategy for improving zirconia bonding, although standardized protocols and clinical studies are still needed.
+
+INTRODUCTION
+
+Zirconia has become a cornerstone material in restorative dentistry owing to its superior mechanical strength, biocompatibility, and excellent esthetics. However, its inherently low surface energy and poor wettability present major challenges to reliable bonding with resin-based cements. Plasma treatment uses ionized gases to modify a material's surface at the molecular level, increasing its surface free energy and hydrophilicity while promoting chemical reactivity.
+
+Common plasma delivery systems include cold atmospheric plasma (CAP) and atmospheric pressure plasma jet (APPJ). Depending on the gas used (oxygen, nitrogen, argon, or hydrogen), different reactive species are generated, influencing the formation of hydroxyl or nitrogen-containing groups that favor bonding with adhesive monomers.
+
+Unlike air abrasion, which can cause microdefects and phase transformation, plasma treatment modifies zirconia at the atomic level, improving surface reactivity without direct mechanical damage.
+
+METHODS
+
+- Design: Systematic review and meta-analysis (PRISMA 2020)
+- Databases: PubMed/MEDLINE, Scopus, Embase, Web of Science, Cochrane Library
+- Search dates: Inception to January 31, 2026
+- Inclusion: In vitro studies evaluating plasma treatment on dental zirconia bond strength and/or hydrophilicity
+- Quality assessment: QUIN tool
+- Meta-analysis: Random-effects model (RevMan 5.4); SMD with 95% CI
+- Outcome: Shear bond strength (MPa); contact angle/wettability
+
+RESULTS - STUDY CHARACTERISTICS
+
+14 studies included; published 2016-2024; countries: Japan, China, Iran, Brazil, Egypt, Taiwan, Germany, Saudi Arabia, South Korea, Finland.
+- Zirconia types: Y-TZP, 3Y-TZP, 3-YSZ, (Y,Nb)-TZP, high-translucency, CAD/CAM
+- Plasma modalities: CAP, APPJ, atmospheric pressure low-temperature plasma, oxygen plasma, argon plasma, multi-gas plasma jet, forming gas plasma
+- Most studies compared plasma vs untreated control; several also included APA comparison
+
+KEY STUDIES SUMMARY
+
+1. Ito 2016 (Japan): Helium atmospheric plasma ≈ APA; preserves crystal structure
+2. Liu 2016 (China): Argon-O₂ plasma increased microshear SBS by 64.6% (2 min) and 88.6% (5 min) vs untreated
+3. Tabari 2017 (Iran): Air and 20% O₂/80% Ar gas mixes most effective
+4. da Silva 2018 (Brazil): Oxygen plasma increased SBS without altering surface roughness
+5. Mahrous 2018 (Egypt): Plasma + sandblasting = highest SBS; air plasma at 50°C, 80s, 5mm
+6. Yan 2020 (Taiwan): Higher oxygen plasma power → greater bond strength
+7. Bunz 2021 (Germany): CAP + air abrasion + Universal adhesive = best long-term durability (250 days/37,500 thermocycles); best aging resistance
+8. Yoda 2022 (Japan): N₂ plasma best gas; 3s vs 10s exposure both effective
+9. Ye 2022 (Japan): CAP + MDP primer → highest SBS (immediate and aged); high-translucency zirconia
+10. Salimi 2023 (Iran): Argon plasma + MDP primer → highest SBS
+11. Alalawi 2024 (Saudi Arabia): APPJ ≈ sandblasting for wettability/SBS; universal adhesive added reduced SBS
+12. Jiang 2024 (China): CAP + MDP primer → highest SBS
+13. Kim 2024 (South Korea): Plasma alone ↓ SBS for 3Y-TZP; plasma + sandblasting ↑ SBS for (Y,Nb)-TZP
+14. Miura 2024 (Japan/Finland): Argon plasma + Katana Cleaner → highest SBS; all plasma improved wettability
+
+META-ANALYSIS RESULTS
+
+Plasma vs Untreated Control (9 studies, n=130 per group):
+- SMD 3.04 (95% CI: 1.76-4.32), p<0.00001, I²=89%
+- Conclusion: Statistically significant improvement; high heterogeneity
+
+Plasma vs Sandblasting (6 studies, n=80 per group):
+- Primary: SMD 0.89 (95% CI: -0.41 to 2.19), p=0.18, I²=90% — NOT significant
+- Sensitivity (excl. Kim et al. 2024): SMD 1.49 (95% CI: 0.34-2.63), p=0.01, I²=87% — significant
+
+Risk of bias: Most studies low risk (QUIN); 5 moderate risk (incomplete blinding/randomization reporting)
+
+CONCLUSIONS
+
+Plasma surface treatment is a promising approach for improving zirconia bonding without structural damage. Plasma provides bond strength comparable to APA; combination with MDP primer is synergistic. Combination protocols (plasma + sandblasting + MDP) showed best long-term durability. Standardized protocols and long-term clinical studies are still needed before routine recommendation.
