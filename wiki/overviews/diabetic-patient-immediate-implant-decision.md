@@ -12,6 +12,10 @@ relations:
     target: al-ansari-2022-diabetes-mellitus-dental-implants-sr-ma
   - type: reinforces
     target: li-2026-safety-feasibility-immediate-implant-diabetic
+  - type: reinforces
+    target: implants/survival/ebenezer-2026-stratified-randomized-controlled-trial-tizr
+  - type: reinforces
+    target: implants/isq/diehl-2024-restoration-posterior-teeth-narrow-diameter
 ---
 
 > [!summary] 한국어 핵심요약
@@ -26,6 +30,8 @@ relations:
 > - **하악 구치부**라면 당뇨 실패 신호가 비유의하므로 문턱이 낮아짐 — 8–9% gray-zone에서도 상대적으로 관대하게 진행 가능.
 > - **임상 프로토콜**: 술전 HbA1c 확인 → 8–9%면 아목시실린(Amoxicillin) 2g 술전 + 클로르헥시딘(Chlorhexidine, CHX) 0.12% 2주 + osseointegration 시간 연장 + 지연부하; 매 리콜 MBL 추적(장기적으로 gap 확대); 주위염 지표(BOP/PD) 집중 관리.
 > - **IIP 특화 확증**: 리(Li) 2026 SR+MA(10편, 임플란트 1,623개)는 즉시식립(IIP)만 놓고 봐도 생존율은 혈당조절 무관 동등(RR 1.00/0.96, 비유의)하나, 변연골소실(MBL)·탐침출혈(BOP)은 혈당조절이 나쁠수록 유의하게 증가(불량군 MBL +0.39mm, BOP +0.24)함을 확인 — Al-Ansari의 "생존은 유지, 골·염증 지표는 악화" 구도를 IIP 맥락에서 재확인.
+> - **새 RCT 임계값 근거**: 에베네저 Ebenezer 2026 층화무작위대조시험(Stratified RCT, n=83, 166개 임플란트): **HbA1c ≥7%는 MBL ≥0.5mm 교차비(Odds Ratio, OR) 약 7배** — 직경(3.3mm vs 4.1mm TiZr)은 MBL에 독립 영향 없음. Wagner의 "<8% 안전" 밴드를 구체화: **7–8% 구간에서도 골소실 위험이 유의하게 높을 수 있다**. 이는 회색구간 환자에게 MBL 추적을 더 강화해야 한다는 근거가 된다.
+> - **협경임플란트 4년 당뇨 안전성**: 딜 Diehl 2024 케이스-컨트롤(T2DM 11명 vs 정상혈당 15명, 48개월): 3.3mm TiZr 협경임플란트(Narrow-Diameter Implant, NDI) 생존율 100%, ΔMBL 0.09mm vs 0.15mm(p=0.875, 비유의) — 가용 골폭 부족 시 증대술 없이 NDI로 대체해도 당뇨 환자에서 4년간 안전하다는 근거.
 > - **면책**: 의사결정 지원용 — 최종 임상 판단·책임은 술자에게 있다.
 
 ## Three-line Summary
@@ -38,13 +44,15 @@ Immediate placement technique itself achieves ~97–98% molar-socket survival eq
 
 A fifth paper, Li 2026 (SR+MA, 10 studies, 1,623 implants), narrows the question specifically to IIP (rather than implants generally): survival is statistically equal regardless of glycemic control (RR 1.00 well-controlled / 0.96 poorly-controlled, both NS), but MBL and bleeding-on-probing rise significantly with poorer control (poorly-controlled MBL MD=0.39mm, BOP MD=0.24, both P<0.00001) — reconfirming, within the IIP-specific literature, the same "survival holds, peri-implant health degrades" pattern Al-Ansari established for implants broadly.
 
+A sixth paper, Ebenezer 2026 (stratified RCT, n=83, 166 TiZr implants in mandibular posterior sites), quantifies the HbA1c risk gradient prospectively: HbA1c ≥7% conferred ~7× higher odds of MBL ≥0.5mm versus <7%, while implant diameter (3.3mm vs 4.1mm) had no independent effect on bone loss. This refines Wagner 2022's operational <8% safety band: even patients in the 7–8% range may carry substantially elevated MBL risk, strengthening the case for aggressive SPT and MBL surveillance at that glycaemic level. A seventh paper, Diehl 2024 (4-year case-control, 3.3mm TiZr NDIs, T2DM vs normoglycemic), reports 100% survival and non-significant ΔMBL (0.09 vs 0.15mm, p=0.875) at 48 months — confirming that ridge-width-limited sites can be handled with NDIs without augmentation even in T2DM.
+
 ## 세줄요약
 
 당뇨 환자 즉시식립 가부를 여러 논문으로 종합한 페이지: DM은 절대 금기가 아니며, 결정은 **HbA1c 밴드(<8%/8–9%/≥9%)** 와 **부위(상악은 당뇨 실패 유의, 하악은 비유의)** 로 갈린다 — 두 SR+MA는 단기·하악 생존에선 일치하나 상악·장기 위험에선 충돌한다.
 
 즉시식립(IIP)에 특화한 리(Li) 2026 SR+MA는 혈당조절 수준과 무관하게 생존율이 동등함을 재확인했으나, 변연골소실·탐침출혈은 혈당조절이 나쁠수록 유의하게 악화됨을 보였다.
 
-임상적으로는 여전히 "생존은 보장되나 골·연조직 건강은 혈당관리에 달렸다"는 결론이 강화되며, HbA1c 관리·강화된 유지관리(SPT)의 중요성이 재확인된다.
+에베네저 Ebenezer 2026 층화 RCT는 HbA1c ≥7% → MBL 교차비(OR) 약 7배라는 구체적 임계값 근거를 처음 제공했고, 딜 Diehl 2024 4년 케이스-컨트롤은 3.3mm TiZr 협경임플란트(NDI)가 T2DM 환자에서도 48개월 생존율 100%·비유의 MBL을 보임을 확인했다 — "생존은 유지, 골 건강은 혈당 관리에 달렸다" 구도가 강화되며, 7–8% 구간에서도 MBL 감시를 강화해야 한다는 근거가 추가된다.
 
 ## Summary
 
@@ -101,12 +109,16 @@ Diabetic patient, considering immediate implant
 | IIP-specific DM outcomes, glycemic-control gradient | [[immediate-implant/li-2026-safety-feasibility-immediate-implant-diabetic]] | sr+ma | survival RR 1.00/0.96 (NS); MBL/BOP worsen with poor control |
 | DM implant survival evidence base (SR of SRs) | [[implants/survival/james-2024-success-rates-of-dental-implants]] | sr of sr | HbA1c <8% → 96.1–97.3% at 1 yr / 87.3–96.1% at 5 yr; Andrade RR 1.00 (CI 0.96–1.04); HbA1c >8% worsens MBL/PD dose-response; DM not a contraindication when controlled |
 | Carbon nanomaterials for diabetic implants | [[implants/surface/vijay-2021-carbon-nanomaterials-diabetic-implants]] | narrative review | graphene/CNT/nanodiamonds: insulin delivery via π-π stacking (10 U topical safe), mechanobactericidal, anti-inflammatory; preclinical/in-vitro only — no clinical data |
+| HbA1c threshold RCT — diameter vs glycaemia | [[implants/survival/ebenezer-2026-stratified-randomized-controlled-trial-tizr]] | rct | HbA1c ≥7% → ~7× OR for MBL ≥0.5mm; diameter (3.3mm vs 4.1mm TiZr) NS for MBL; survival 100% |
+| 4-year NDI in T2DM (narrow-ridge solution) | [[implants/isq/diehl-2024-restoration-posterior-teeth-narrow-diameter]] | retrospective | 48-month 100% survival; ΔMBL 0.09 vs 0.15mm (p=0.875 NS); all peri-implant parameters NS |
 
 ## Gray Zone / Open Questions
 
 - **Andrade ↔ Al-Ansari** conflict is unresolved for the maxilla long-term: short follow-up (≤24 mo) in most immediate-loading data means the DM failure signal (which manifests late, via MBL) may be under-captured. Weight Al-Ansari for maxillary/long-term decisions.
 - No wiki paper isolates **immediate placement + immediate loading + uncontrolled DM + maxilla** as a single stratum — the recommendation composes across pages rather than resting on one head-to-head trial. Li 2026 confirms the glycemic-control gradient holds within IIP specifically, but does not stratify by site (maxilla vs mandible), so it narrows the *technique* question without resolving the *site* question.
 - Whether tightening HbA1c *before* surgery changes hard outcomes (vs concurrent management) is not directly answered by these pages.
+- **Wagner's <8% vs Ebenezer's ≥7% threshold**: Wagner 2022 (SR) uses <8%/8–9%/≥9% operational bands; Ebenezer 2026 (RCT) shows the inflection for clinically relevant MBL is already at ≥7%. Patients in the 7–8% range fall inside Wagner's "proceed normally" band but Ebenezer's elevated-risk stratum. Resolution: treat 7–8% as a gray zone warranting enhanced SPT/MBL surveillance even if not triggering a full "enhanced precautions" protocol. The two thresholds are not contradictory — Wagner bands are practice guidelines for *decision to proceed*; Ebenezer quantifies *bone loss risk gradient* within proceeding patients.
+- **Diehl 2024 NDI scope limitation**: 4-year non-significance is reassuring but the study is small (n=26) and attrition-biased toward higher-HbA1c completers. NDI findings may not generalise to bone-level implants or platform-switched designs.
 
 ## Related Overviews
 - [[overviews/immediate-implant-decision-ladder]] — the general (non-diabetic) IIP decision axes
