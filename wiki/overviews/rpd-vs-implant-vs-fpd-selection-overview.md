@@ -176,6 +176,9 @@ The Kennedy classification maps to both SDA eligibility and prosthesis design co
 | [[removable-partial-denture/mckenna-2018-sda-vs-rpd-older-patients-rct]] | RCT | SDA/adhesive FDP ≥ RPD for OHRQoL at 24 months (OHIP-14 NS, p=0.08); both prosthetic groups improved | SDA vs RPD OHRQoL |
 | [[removable-partial-denture/fueki-2017-sda-vs-rpdp-ohrqol-sr-ma]] | SR+MA | OHRQoL: SDA vs RPDP/IFPDP no significant difference across 6 studies | OHRQoL synthesis |
 | [[removable-partial-denture/mclister-2018-prosthodontic-interventions-survival-shortened]] | SR | Insufficient evidence to recommend any prosthodontic strategy over SDA maintenance; 10 studies (3 RCTs), heterogeneity precluded MA | SR synthesis — all axes |
+| [[removable-partial-denture/liang-2015-effects-removable-dental-prostheses-masticatory]] | SR | (E)SDA 28–39% masticatory deficit vs complete dentition; RDP compensates ~50%; dose-effect | Functional axis |
+| [[removable-partial-denture/koyama-2026-effects-occlusal-contact-loss-preferred]] | RCT (crossover) | PCS molar loss impairs ME and SMA (p<0.05); non-PCS loss does not — side-specific intervention threshold | Masticatory function |
+| [[removable-partial-denture/gao-2025-effectiveness-restoration-strategies-posterior]] | Retrospective | M1-only implant (SDA concept): HR 1.66 NS, 1.7x lower cost, 0% vs 16.2% peri-implantitis | Implant SDA extension |
 
 ---
 
