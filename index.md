@@ -1422,6 +1422,9 @@ tags: []
 - [[dental-materials/zirconia/malgaj-2026-cantilever-zirconia-rbfdp-alumina-coating]] — Malgaj 2026 · rct (J Esthet Restor Dent, abstract-only): 8년 RCT(57명, 캔틸레버 지르코니아 RBFDP 64개) — 나노구조 알루미나코팅(NAC) 유지율 88.4% ≈ 분사연마(APA) 89.1%(p=0.99), 보철 생존율 100% (DOI 10.1111/jerd.70130)
 - [[dental-materials/zirconia/bomicke-2026-ceramic-crowns-sleep-bruxism-rct]] — Bömicke 2026 · rct (J Dent, abstract-only): EMG로 확인한 수면 이갈이는 3년간 모놀리식 LiDi·지르코니아 대구치 단관 생존·성공률에 유의 영향 없음 (n=109, 합병증 0건) (DOI 10.1016/j.jdent.2026.106691)
 - [[dental-materials/zirconia/kamis-2023-cold-plasma-zirconia-resin-cement-bond]] — 냉각 대기압 플라즈마(CAPP)+MDP 프라이머 조합(PPR) 시 지르코니아-레진시멘트 결합강도 유의 향상; CAPP 단독은 습윤성(접촉각)만 개선, SBS 향상은 프라이머 병용이 필수 (in vitro)
+- [[dental-materials/zirconia/shaikh-2026-influence-of-plasma-treatment]] — SR+MA(Cureus 2026, 14편): 플라즈마 처리 지르코니아 SBS 유의 향상(SMD 3.04); APA와 동등; CAP+10-MDP 병용 최고 효과; 이종 플라즈마 종류·프로토콜 표준화 필요
+- [[dental-materials/zirconia/aburawa-2026-effect-of-a-silicon-carbide]] — in-vitro 파일럿(BiID 2026, n=30, 4Y-PSZ): APA(37.0 MPa)가 SiC 버(20.8 MPa)·APA+SiC(24.9 MPa) 대비 유의하게 우수; SiC 버는 APA 대안·보조수단으로 권장 불가 (부정적 결과)
+- [[dental-materials/zirconia/alnazzawi-2026-role-of-cold-atmospheric]] — in-vitro(BiID 2026, n=200, 3Y-TZP+5YSZ, 상아질): CAP≈APA; 지르코니아 종류(3Y vs 5Y) 차이 없음(p=0.354); 병용처리 오히려 SBS 감소; 10-MDP 프라이머가 결정 변수(η²=0.86)
 - [[dental-materials/zirconia/sakrana-2020-bond-strength-translucent-zirconia-sarc]] — 반투명 지르코니아 표면처리(열산>공기마모>피라냐산)+자가접착레진 마이크로인장 결합강도; Panavia SA > TheraCem > Panavia F2.0; 열산처리+Silano-Pen 최고 (in vitro)
 - [[dental-materials/ali-2023-cadcam-restoration-failure-reasons-sr-ma]] — CAD/CAM 수복물 임상 실패 원인 SR+MA — 파절 55%, 탈락 20%; 두께 <1mm 파절 위험 증가.
 - [[dental-materials/warreth-2020-all-ceramic-restorations-narrative-review]] — Warreth & Elkareimi 2020 narrative review: all-ceramic restorations classification (composition × fabrication), flexural strength benchmarks, Saudi Dental Journal
