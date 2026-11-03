@@ -1,0 +1,250 @@
+Introduction
+
+In contemporary restorative dentistry, the widely used family of yttria -stabilized zirconia (YSZ) polycrystals received many attentions. Zhang (2022) categorized dental YSZ to five generations []. From the first to fifth generation, some modifications in composition and crystalline structure were made, that leads to increased translucency but decreased strength [,].
+
+At present yttria and alumina are added to HT zirconia in a variable amount to increase translucency, improve esthetics, enhance sintering, decrease phase transformation, and confer resistance against low temperature degradation (LTD) [–].
+
+Lower alumina content increases the in-line transmission and causes decreasing light scattering from pores and other inclusions [–]. Higher yttria content decreases tetragonal phase, and increases cubic phase, which has a larger grain size and lesser light scattering at grain boundaries, resultantly this type of YSZ had more favorable esthetic but lower strength [–].
+
+Ban (2021) classified YSZ (3–6 mol %) into 12 different groups. this classification is based on composition (3–6 mol % Yttria content), color (monochromatic or polychromatic), and number of layers (mono layer or multilayer) of the blanks; and their mechanical properties differ from each other depending on composition and degree of translucency and commercial brands [].
+
+Despite improved esthetic characteristics of translucent zirconia, it may not always meet the high-esthetic demands of patients without additional processing. Therefore, for many restorations, an external shade characterization or staining procedure is necessary. Since monolithic zirconia restorations are exposed to the oral environment without any layer of veneering glass, they should be polished, and glazed to prevent the detrimental effect of LTD and wear of the antagonist teeth [,,,,].
+
+Glazing is a laboratory procedure, and the main method that conventionally adopted for smoothening of rough surfaces of ceramics and improving their surface luster [–]. Glazing also results in chemical durability, color stabilization, and decrease plaque accumulation on the surface of ceramic restoration by decreasing exposure to oral environment [,,,]. Farzin et al. found that translucency increased after glazing and decreased after external staining in monolithic zirconia []. Auto-glazing cannot be performed for YSZ restorations so the zirconia surfaces should be over-glazed. The add on glaze is a slurry of low-fusing clear glass that applied to the surface of ceramic restorations and contain greater amounts of glass modifiers that increase leaching by oral fluids [,]. Most glazes of 50 μm or more thickness apparently produce adequate durability [,–].
+
+In a full contour YSZ crowns the amount of glazing glass is much less than bilayer crowns, which causes lower remaining stress accumulation at zirconia-glass interface. Since the glass layer has low elastic modulus it may lead to effective stress distribution and conducting tensile stresses to high modulus zirconia [–].
+
+Generally masking properties of translucent Y-PSZ were significantly influenced by the materials, the thickness, and the color of the substrate; moreover, glazing improved masking ability for Y-PSZ [].
+
+Clinicians prefer to glaze monolithic zirconia, but, the glazed surface also undergoes corrosion and crack disruption over time as a result of exposure to acids (citric and acetic acid) and oral fluids [,]. Constant exposure to dietary pH fluctuation and thermal alterations along with masticatory loads causes slow or markedly breakdown of glaze layer [,]. Finally, glaze layer is worn after approximately 6 months and the underlying rough-milled zirconia surface undergoes aging following exposure to oral environment, increasing the wear of the opposing teeth as well [–]. Dal Piva et al. showed that factors like antagonist contact and brushing cause wear in glaze and stain layers of ceramics [].
+
+In addition, to achieve optimal occlusal contacts after cementations, some monolithic zirconia restorations may need to be adjusted with diamond rotary instruments. This procedure causes removing the glaze layer and produce the surface flaws, and microcrack formation and resultantly phase transformation [–]. So after grinding, the restoration should be polished to eliminated some of the transformed monoclinic phase and prevent the rapid wear of opposing teeth [–].
+
+In spite of many advantages of glazing for surface characteristic of YSZ restorations, some researches showed that glazing exert negative effects on mechanical properties of zirconia restorations in long term [,,,].
+
+Singh et al. in an in vitro study evaluated the effects of two types of commercial glaze materials on FS(Flexural strength) and risk of fracture of monolithic translucent zirconia, and concluded that glazing significantly decrease FS and even increase surface roughness. The crack initiation point in the specimens was also found to be in the glaze layer and suggested glazing of zirconia crowns in the anterior region where the applied masticatory forces are weaker, and polishing without glazing for the posterior region where the teeth are subjected to heavier loads [].
+
+Yener et al. and Nam et al. in two different studies compared the effect of glazing and external characterization on FS of different brands of zirconia and found that glazing significantly decreased FS [,]. In other studies, wearing off the antagonists’ teeth by glazed monolithic zirconia was emphasized [–].
+
+Considering the brittleness of dental ceramics, their FS is lower than their compressive strength. Thus, FS is usually assessed as an indicator of their clinical resistance and durability []. According to International Standards Organization (ISO) 6872, measurement of FS is a reliable method for assessment of the clinical performance of dental ceramics []. Accordingly, FS was measured in the present study for assessment of the effects of deglazing and aging [–].
+
+The aging process is a complicated phenomenon in oral environment and a combination of mechanical loading, chemical degradation, and thermal stresses can affect the clinical performance and longevity of zirconia restorations. In addition, ceramic restorations in oral environment immersed in saliva and subjected to pH alterations [].
+
+In this study pH-cycling used as a complementary method for aging to imitate dietary pH challenges []. ISO recommends constant immersion of dental ceramic in 4% acetic acid at 80° C for 16 h to assess dental ceramic chemical durability. But it seems that pH–cycling is a more accurate method for simulation of oral pH changes, and ISO- 6879 test underestimates it []. Hsu et al. showed that increased pH changes significantly affect corrosion of glass-ceramics []. In Sulaiman et al. study monolithic zirconia materials showed some surface alterations in an acidic environment with minimum effect on their optical properties [] and Willers et al. stated that erosive and abrasive challenges affect the glaze layer and susceptible it to greater roughness [].
+
+In past in vitro studies, usually one or two methods of aging procedures had been used for assessment of mechanical properties of zirconia restorations [,]. In the present study a consequence of thermal, chemical, and mechanical stresses were applied to predict the clinical behavior of Y-PSZ restorations after deglazing.
+
+It seems that constellation of above mentioned factors result in destruction of glaze layer (deglazing) and consequently strength and durability of ceramic restoration may decrease, nonetheless, to the best of the authors’ knowledge the effect of deglazing on FS of high HT zirconia has not been previously investigated in the literature. Thus, the aim of present study was to assess the effect of deglazing on FS of high-translucent Y-PSZ. The first null hypothesis states that deglazing has no significant effect on the flexural strength of ultra-translucent Y-PSZ. The second null hypothesis states that aging has no significant effect on the flexural strength of both glazed and deglazed ultra-translucent Y-PSZ.
+
+Materials and methods
+
+To determine the sample size, G power software was used based on the ANOVA test (comparing 4 groups), and considering α = 0.05, Power = 0.80, effect size was determined = 0.56, total sample size was determined as 40 samples (10 in each) [,].
+
+In this in vitro study the monochromatic and uniform composition blanks of high translucent 3Y-PSZ (Upcera HT, Shenzhen, China) were machined into a cylindrical shape (12 mm diameter) and then cut into discs with thicknesses of 1.2 mm by a precision cutting machine (Isomet1000, Precision Sectioning Saw, Buehler, USA) under constant water cooling.(Fig.) Then the disc specimens were sintered according to manufacturer instructions. Forty sintered zirconia specimens were randomly assigned into 4 experimental groups (= 10). The random allocation rule was used to evenly assign specimens to experimental groups, ensuring equal distribution and minimizing selection bias. An additional 10 specimens were glazed and allocated for a pilot study to standardize the deglazing procedure. the study design and specimen allocation process are illustrated in Fig..
+
+Fig. 1
+
+Sintered zirconia discs
+
+Fig. 2
+
+Study design
+
+Overglazing was performed according to the manufacturer’s instructions. The overglaze powder was mixed with the corresponding glaze liquid and applied as a thin layer on the surface of the samples using a ceramic brush. The specimens were then placed in a firing oven and processed according to the manufacturer’s recommendations. For the pilot study, 10 glazed specimens were abraded with 800-grit silicon carbide abrasive discs (Beta Diamond Products, Germany) for 1 to 10 min under constant water cooling. After rinsing (10 s) with air and water spray, the specimens were inspected under a stereo microscope (NIKON SMZ 25) (x25) to ensure complete removal of the glaze layer, which required up to 8 min. Based on these findings, an abrasion time of 8 min was standardized for deglazing in the main study. The choice of 800-grit silicon carbide was based on preliminary testing, where finer abrasives failed to remove the glaze layer effectively, while coarser grits resulted in excessive material loss. Additionally, a controlled application pressure was maintained to ensure reproducibility.
+
+In 3 out of 4 groups (= 30), the specimens were glazed after sintering. Over-glazing was performed according to the manufacturer’s instructions; the over-glaze powder contained 60–70 w% ceramic powder and pigments (Ceramco Dentsply-Sirona Burlington, NJ). The glaze powder mixed with the respective liquid (99 w% propylene glycol) and applied on the specimens’ surface in a thin coat by using a ceramic brush. The specimens were then sintered in a furnace as instructed by the manufacturer (Table). Before calculation of Flexural strength(FS), the specimen’s thicknesses (mm) in 4 experimental groups were measured again with a micrometer screw gauge (Moore and Wright, Sheffield, England).
+
+Table 1
+
+Sintering protocol of Upcera HT zirconia ceramic
+
+Heat rate
+
+Holding time in high temperature
+
+Temperature rise
+
+Drying time
+
+Starting temperature
+
+7 °C/min
+
+2 h
+
+1450 °C
+
+5 s
+
+0 °C
+
+The experimental groups were: Group (G): The over-glazed specimens; Group (G-A): Glazed specimens subjected to aging.; Group (DG-A): Deglazed specimens subjected to aging; Group (NG-A): Non-glazed specimens subjected to aging. A sequence of three methods was used for aging. To induce low-temperature degradation (LTD), the zirconia specimens were subjected to 2-bar water vapor pressure at 134 °C for 40 h according to the ISO 13,356 standard []. Next, the specimens were rinsed with distilled water, followed by a 10-day pH cycling process. This protocol was designed to simulate cyclic exposure of dental materials to acidic and neutral environments in the oral cavity, mimicking demineralization and remineralization processes. The demineralizing solution (pH 3.4) represents cariogenic challenges, such as exposure to bacterial acids or acidic beverages, while the remineralizing solution (artificial saliva, pH 7) simulates the natural buffering effect of saliva, which helps restore mineral content. The 10-day duration is based on established in vitro models that approximate long-term cyclic effects observed in clinical conditions [].
+
+After pH cycling, the specimens were rinsed with deionized distilled water and stored at 37 °C and 100% humidity []. Subsequently, they were mounted in auto-polymerizing acrylic resin and transferred to a load cycling machine (SD Mechatronic, Feldkirchen, Westerham, Germany). Spherical stainless-steel indenters (modulus of elasticity of 200 GPa) were used as antagonists, and the specimens were subjected to loading in series of five. Throughout this process, 37 °C water was gently poured on the specimens to simulate the oral environment. The middle part of each specimen contacted its antagonist with a 100 N load at 1.5 Hz frequency, with each cycle repeated 600,000 times, corresponding to 2.5 years of clinical service [,].(Figures,and).
+
+Fig. 3
+
+Specimen mounted in acrylic resin
+
+Fig. 4
+
+Mounted specimen in the load cycling machine
+
+Fig. 5
+
+Load cycling machine (SD, Mechatronic, Feldkirchen, Westerham, Germany)
+
+The relative percentage of the monoclinic phase after the aging process was quantified in one randomly selected specimen from each group using X-ray diffraction (XRD) in a diffractometer system (XPERT-PRO MPD Panalytical, Netherlands). The surface of the specimens was inspected by a solid-state pixel detector with CuKα X-ray. Rietveld analysis was used to assess the YSZ phase composition. The relative monoclinic phase fraction on the treated surfaces of the specimens was expressed as the relative phase content of c-ZrO2, t-ZrO2, and m-ZrO2 for all experimental groups.
+
+The specimens were placed with the glazed surface upward toward the indenter and subjected to FS testing using the piston-on-three-ball technique in a universal testing machine (Z010, Zwick, and Ulm, Germany). Disc specimens were centrally positioned on the steel balls, and load was applied centrally at a crosshead speed of 1 mm/min until fracture []. FS (σ) was calculated using the following equation: []
+
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\displaylines{\sigma \max = \cr {p \mathord{\left/{\vphantom {p 2}} \right.\kern-\nulldelimiterspace} 2}\left\{ {\left( {1 + v} \right)\left[ {0.485x\,\ln \left( {{a \mathord{\left/{\vphantom {a h}} \right.\kern-\nulldelimiterspace} h}} \right) + 0.53} \right] + 0.48} \right\} \cr} $$\end{document}
+
+Where: σmax maximum tensile stress; p: measured load at fracture (N); h: the specimen thickness (mm) measured with a micrometer screw gauge (Moore and Wright, Sheffield, England); v: Poisson’s ratio for the material (a value of 0.32) []; ln: natural logarithm; a: radius of knife edge support. Statistical assumptions analysis of data indicated a normal distribution of data (> 0.05), therefore they were analyzed by one-way ANOVA and Tukey’s honest significant difference tests (a = 0.05) with statistical software (IBM SPSS Statisticsv20.0; IBM Corp) to compare the mean FS.
+
+Results
+
+The FS of glazed specimens (G) remained stable after aging(GA), with no significant decrease observed (1092.77 ± 175.40 MPa before aging vs. 1141.11 ± 117.43 MPa after aging;= 0.872, 95% CI). However, in the deglazed and aged group (DG-A), FS exhibited a notable increase after deglazing (1338.2 ± 175.13 MPa;< 0.003, 95% CI). Similarly, in the aged non-glazed group (NG-A), FS (1320.44 ± 77.44 MPa) was significantly higher than in the aged glazed group (GA) (1141.11 ± 117.43 MPa;< 0.038, 95% CI). This indicates that despite the absence of a glaze layer, FS increased following aging. Furthermore, a comparison between DG-A (1338.2 ± 175.13 MPa) and NG-A (1320.44 ± 77.44 MPa) showed no statistically significant difference (= 0.992, 95% CI), suggesting that the FS increase in both groups followed a similar pattern (Table; Fig.).
+
+Table 2
+
+Measures of central dispersion for the FS (MPa) in the experimental groups
+
+Group
+
+Number
+
+mean Flexural strength (MPa)
+
+Std. deviation
+
+Minimum
+
+Maximum
+
+G
+
+10
+
+1092.78
+
+175.40
+
+883
+
+1369
+
+G-A
+
+10
+
+1141.11
+
+117.43
+
+979
+
+1318
+
+DG-A
+
+10
+
+1338.22
+
+175.13
+
+1078
+
+1597
+
+NG-A
+
+10
+
+1320.44
+
+77.44
+
+1136
+
+1416
+
+G: Glazed; G-A: Glazed and aged; DG-A: Deglazed and aged; NG-A: Non-glazed and aged. Groups with similar lower-case letters have no significant difference (> 0.05)
+
+Fig. 6
+
+Mean flexural strength (MPa) of different groups of the study. Error bars represent standard deviation. G: Glazed and aged, DGA: Deglazed and aged, NGA: Non-glaze and aged
+
+Regarding phase transformation, no monoclinic phase was detected in G (0%) and G-A (0%) groups. However, in the deglazed and aged group (DG-A), a 4.23% increase in the monoclinic phase was observed, while the NG-A group exhibited an even greater transformation (7.63%) (Figs.,,and).
+
+Fig. 7
+
+XRD analysis of one specimen from group G. G: Glazing
+
+Fig. 8
+
+XRD analysis of one specimen from group G-A. G-A: Glazing, A: Aging
+
+Fig. 9
+
+XRD analysis of one specimen from group DG-A. DG: Deglazing, A: Aging
+
+Fig. 10
+
+XRD analysis of one specimen from group NG-A. NG: Non-glazing, A: Aging
+
+Discussion
+
+According to the present results, the first and second null hypotheses of study were rejected. In other words, deglazing accompanied by aging increased FS in related experimental groups while the lowest was observed in glazing group. Several studies have reported a reduction in FS following glazing [,,].
+
+Monolithic restorations are subjected to heat (glaze firing cycle) and moisture during glazing procedure [,,,]. Temperature has an important role in decreasing the fracture resistance of YSZ, causes reverse phase transformation (t-m) and consequently diminishing compressive stresses on the surface []. This procedure can also introduce residual stresses due to thermal expansion mismatch and cooling temperature gradients [,]. Also water (hydronium ion [HO]) can replace sodium or other metallic ions in glass modifiers and may lead to the phenomenon of “slow crack growth” in moist environment []. Although phase transformation enhances the fracture toughness of YSZ, repeated transformation cycles may lead to LTD in oral environment [].
+
+Lobo et al. showed that the stresses at glaze/zirconia interface can vary depending on the side (tensile and/or compression) of glaze application and concluded that if the glaze layer applied on both tensile and compression sides of zirconia specimens, improves FS []. In the present study only one side of specimens (compression side) was glazed to simulate the application of glaze on the outer surface of restoration and the same surface subjected to loading.
+
+In dental researches the gradual loss of glaze layer from ceramic surfaces (deglazing) usually evaluated following load-cycling or wear against ceramic or natural enamel antagonists. The above mentioned procedures cause phase transformation, and affect FS [,].
+
+So, we could not find any standard and repeatable method for performing deglazing the specimens that don’t have any adverse effects on phase transformation. The deglazing term used frequently in orthodontic researches performed for assessment of adhesion between brackets to ceramic restorations and/ or evaluation of quality and quantity of ceramic surface roughness after orthodontic debonding and polishing [–]. In these researches deglazing usually performed with coarse diamond or tungsten carbide rotary instruments [–]. Many studies showed that coarse grinding also have exerted energy on the ceramic surface and cause t-m phase transformation [,], and fine polishing had no significant effect on mechanical properties of YSZ [,,]. Even Xu et al. showed that grinding with 25 μm grit diamond discs increased FS of YSZ [].
+
+Therefor we performed a pilot study to standardize the deglazing procedure and used 800-grit (ultra-fine) silicon carbide abrasive paper under plenty of water coolant to minimize heat generation, surface damages, and consequently phase transportation [–].
+
+Pereira et al. in a systematic review article, recommended to use the contra angle hand-pieces, small abrasive particle size (< 50 μm) and a lot of coolant for decreasing the risk of deleterious impact on Y-TZP mechanical properties []. After aging, FS in G-A group was not decreased (= 0.872) also there was no monoclinic phase in G (0%) and G-A (0%) groups. Upcera HT Zirconia, that was used in this study, is a high translucent but still moderately strong 3Y-PSZ which contain around 0.05 wt% Al2O3 and under 90% tetragonal zirconia []. Generally 3Y-PSZ has high FS as a result of transformation toughening. If a crack be produced and propagated, water and nonaqueous solvents may induce the formation of zirconia hydroxides through the ionic–covalent bonds at the crack tip that cause the crack expansion and propagation. Furthermore, it seems that Upcera HT that used in this study has adequate strength to resist against aging.
+
+The present study revealed that increase in the percentage of monoclinic phase is related to increase in FS. This result was in agreement with the findings of some previous studies [,,,]. Nam et al. by evaluating the effect of glazing and LTD on FS of translucent zirconia and concluded that glazing significantly reduced FS of translucent zirconia, but LTD did not decrease it significantly []. Kumchai et al. [] showed that external glazing decreased FS of full contour highly translucent zirconia, but no significant differences were found due to LTD (> 0.05). Several researches reported the improvement of mechanical properties of zirconia by LTD concurrent with increase in phase transformation (t-m) [,,,].
+
+The DG-A group showed significantly higher FS than G-A group (< 0.019). In other words despite of removing the glaze layer in deglazed specimens, FS increased. The XRD revealed that the monoclinic phase content increased in DG-A group (4.23%); however, no such an increase occurred in G-A (0%) and G (0%) groups.
+
+We expected that there would be some t- m transformations occurred during deglazing process, in fact during deglazing procedure some kind of polishing was performed for removing the glaze layer. It seems that tetragonal to monoclinic phase transformation in DG-A group causes volumetric expansion and subsequently compressive stresses are concentrated at the surface, which can result in formation of a layer resistant to crack initiation and propagation [,]. In the other word the level of monoclinic phase was not sufficient to reduce FS. Since this drawback of ceramics is not related to their bulk properties, and their fracture occurs following cracking of their surface and subsurface areas, formation of a superficial compressive stress layer increases their FS. Xu et al., found that grinding with 25 μm grit diamond discs even increased FS of YSZ [].
+
+The results of present study were in agreement with the findings of Moqbel et al. [], and Mota et al. []. Moqbel et al. evaluated the effects of aging and air abrasion with 0.1 and 0.25 MPa pressure on FS and Vickers hardness number of translucent zirconia. They concluded that both aging and air abrasion increased FS of translucent zirconia by increasing the monoclinic phase. They added that presence of a certain amount of monoclinic phase on the surface reinforces the translucent zirconia without affecting its hardness or roughness []. Mota et al. reported that irrespective of zirconia type, autoclave aging alone or in combination with mechanical aging increased FS, and induced higher phase transformation which is in agreement with the results of the present study. They also concluded that magnitude of load applied (200 N-) was not sufficient to induce phase transformation []. In the present study despite lower amounts and frequencies of load, pH-cycling was also applied which makes difficult the comparison of results with the above study.
+
+In NG-A group in spite of absence of glaze layer FS also increased, and the highest amount of monoclinic phase observed (7.63%). After sintering in this group, no polishing was performed, resultantly surface of specimens was rougher than the other groups which may facilitate water moving through and causes expansion and finally phase transformation []. In addition, in the absence of glaze layer pH-cycling may cause corrosion that induce transformation of metastable phase (t) to a stable phase(m) in the surface of Y-PSZ and; this phenomenon accentuated under humid environment []. Many laboratory studies showed that that some brands of YSZ are not susceptible to aging while others are more prone to monoclinic phase transformation [,]. Flinn et al. by evaluating the effect of aging on FS of monolithic translucent zirconia reported higher LTD after aging and significant reduction in FS in one group, while in the remaining three groups LTD occurred in a lower rate and no significant reduction occurred in FS. They explained that this difference was due to dissimilarity of the structural properties and clinical behavior of different types of translucent zirconia [].
+
+De Souza et al. evaluated the changes in FS and stability of translucent zirconia crystals following grinding, polishing, and thermal aging (LTD and thermocycling) and stated that LTD is responsible for increased surface roughness and decreased mechanical properties. It appears that LTD is a material-dependent property. In the above study, the specimens showed a higher monoclinic phase content after sintering, which remained constantly high after diamond bur grinding, before and after aging. Moreover, they added that XRD has some limitations due to limited penetration of the X-ray beam into deep zirconia layers. Therefore, deep phase transformations that would indicate strength reduction and weakening cannot be assessed []. These results were different with the present findings, which may be attributed to different types of surface treatments and aging protocols. Moreover, significant differences may be expected between different brands of the same YSZ type in terms of structure and clinical performance [,,,].
+
+It should also be noted that, different protocols have been proposed for aging of specimens, and no consensus exists regarding a specific protocol for this purpose. Furthermore, method of measurement of FS and XRD protocol are variable in different studies and have some limitations [,]. A combination of all these factors can be responsible for the contradictory results reported in the literature.
+
+In vitro design was a limitation of the present study. Adoption of controlled parameters such as frequency of mechanical cycles and pH-cycling cannot perfectly simulate the dynamic oral environment, pH alterations, variable masticatory forces, and the role of presence of saliva and bacteria in the oral cavity.
+
+Future studies should focus on evaluating the clinical performance of deglazed zirconia restorations over extended periods to assess their long-term stability. Additionally, further research should explore the effects of deglazing on different types of zirconia and investigate alternative aging protocols and surface treatment methods to optimize material performance.
+
+Conclusion
+
+Within the limitations of this in vitro study, the following results were obtained:
+
+The highest mean Flexural Strength was observed after deglazing and aging, which was not significantly different from Flexural Strength in NG-A(Nonglazed-aged) group.
+
+The increase in Flexural Strength was associated with increase in monoclinic phase.
+
+The lowest mean Flexural Strength was recorded after glazing, which was significantly lower than that in the DG-A(Deglazed-aged) and NG-A(Nonglazed-aged) groups.
+
+These findings suggest that deglazing, when followed by appropriate polishing, may maintain or even enhance flexural strength, challenging the conventional reliance on glazing for zirconia restorations. As polished zirconia surfaces may offer improved mechanical properties while potentially reducing surface roughness and wear on opposing dentition. Additionally, understanding the effects of aging on different surface treatments helps clinicians make informed decisions to enhance the long-term durability of zirconia restorations.
