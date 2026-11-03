@@ -1,0 +1,70 @@
+Restoration of posterior teeth by narrow diameter implants in hyperglycemic and normoglycemic patients – 4-year results of a case-control study
+
+Diehl D, Bespalov A, Yildiz MS, Friedmann A
+Clinical Oral Investigations, 2024
+DOI: 10.1007/s00784-024-05786-0
+PMID: 38907052 | PMC: PMC11192651
+
+ABSTRACT
+
+Objectives: To investigate the four-year clinical outcome and marginal bone loss around narrow-diameter implants in patients with uncontrolled diabetes mellitus type 2 (T2DM) and normo-glycemic individuals.
+
+Materials and methods: In 11 T2DM patients with a concentration of glycated hemoglobin (HbA1C) > 6.5% (test group) and 15 normoglycemic patients (HbA1C < 6.0%; control group), one narrow-diameter tissue level implant, placed in the posterior maxilla or mandible, was investigated. The clinical parameters probing depth (PD), bleeding on probing (BOP), attachment loss (CAL), recession, and papilla bleeding index (PBI) were assessed manually after 24 and 48 months of function. The paired digital periapical radiographs were analyzed regarding the change in marginal bone level (MBL) from baseline to 48 months post-op. The technical complications were recorded.
+
+Results: In the T2DM group, 11 patients were available for follow-ups. The overall implant survival rate after 48 months was 100%. The differences in means for the clinical parameters and the MBL between the T2DM and normo-glycemic patients for the observation period were statistically non-significant. No technical complications were recorded.
+
+Conclusions: The study demonstrated an encouraging clinical outcome with ND implants in patients with uncontrolled T2DM compared to non-diabetics after 48 months' post loading.
+
+Clinical relevance: Patients with HbA1C > 6.5% may benefit from the treatment with narrow-diameter implants by avoiding complex surgical interventions with augmentation procedures.
+
+FULL TEXT
+
+Introduction
+
+Type 2 diabetes mellitus (T2DM) is a group of metabolic disorders characterized by high serum glucose levels due to insufficient insulin supply, defective receptor function, or both. The cardinal symptom of type 2 diabetes is chronic hyperglycemia (CH), which leads to numerous secondary diseases. At the molecular level, so-called Advanced Glycation Endproducts (AGE), which consist of non-enzymatic glycation of proteins, are responsible for most diabetes-associated pathologies. AGEs can cause cell damage by attaching to various receptors in the body, including the Receptor of Advanced Glycation Endproducts (RAGE). During chronic hyperglycemia, RAGE is expressed in many cell types, activating the transcription factor NF-kB. This transcription factor regulates the transcription of many genes related to the immune system and inflammatory responses, including those for inflammatory cytokines. Increased cytokine activity can cause persistent inflammation, negatively impacting wound healing and creating a self-sustaining inflammatory response commonly seen in diabetic wounds. In hyperglycemic periodontitis patients, this is clinically expressed in significantly increased attachment loss. Consequently, dental implants have also exhibited an elevated risk of early implant loss, peri-implantitis onset, and marginal bone loss.
+
+The lack of sufficient dimensions of the alveolar ridge due to atrophy or periodontitis often prevents the installation of dental implants. For this reason, surgical augmentation measures are frequently required before implant placement. However, extensive reconstructive procedures on the edentulous alveolar ridge may not always be an effective treatment method. As many clinical studies about bone augmentation name T2DM as an explicit exclusion criterion, there is little evidence regarding the success rates of various augmentation surgery interventions. Nonetheless, given the pathophysiological consequences of uncontrolled T2DM, it seems evident that T2DM-related vascular and immunological repercussions pose a significant risk for augmentation procedures in the edentulous jaw.
+
+Consequently, implant-related dental research has focused on reducing implant dimensions to circumvent extensive bone augmentation. In this regard, it has become evident that short implants may even exhibit better long-term results than normal implants in augmented bone. Over a 5-year observation period, they have also been shown to be successful in patients with a history of periodontitis.
+
+In analogy to the vertically reduced implant diameter, narrow-diameter implants (NDI) were designed to allow implant-supported restorations without the need for augmentation in the case of horizontally atrophic alveolar ridges. According to Schiegnitz and Al-Nawas, implants with a diameter of less than 3.5 mm and more than 2 mm are classified as NDI. In 2014, a systematic literature review revealed that numerous clinical studies have demonstrated the effectiveness of NDI. More recently, it has been found that NDIs work well in hyperglycemic patients, leading to successful clinical outcomes and osseointegration. This suggests that NDI could be a viable treatment option for T2DM patients with narrow ridge dimensions. However, long-term observational studies are warranted to investigate the behavior under chronic hyperglycemia. The aim of this follow-up to a case-control study was to assess the marginal bone level changes and clinical parameters around NDI placed in hyperglycemic and normoglycemic patients after an observation period of four years.
+
+Materials and methods
+
+This is a 4-year follow-up analysis nested within a case-control study investigating the clinical performance and marginal bone loss of NDI in uncontrolled T2DM patients. The original study protocol is reported elsewhere. In brief, thirty-two patients aged between 53 and 82, with a mean age of 67, were initially enrolled. Sixteen patients known to suffer from T2DM and diagnosed with an HbA1c > 6.5% were considered as uncontrolled hyperglycemic and assigned to the test group, whereas 16 non-diabetic patients (HbA1c ≤ 6.0%) were allocated as controls. HbA1c was assessed by the patient's general practitioner (GP), who submitted the results to our clinic. For this follow-up, the most recently measured HbA1c values were enquired from the GP. None of the measured values was older than 4 months. The Witten/Herdecke University Ethics Committee approved the study protocol (108/2012), and all participants signed the informed consent. The study treatment modalities complied with the Declaration of Helsinki and fulfilled the Good Clinical Practice (GCP) criteria.
+
+Exclusion criteria: Immobility. Periodontal surgery and antibiotic therapy within the last six months before baseline. Pregnancy and lactation period. Full Mouth Plaque Score (FMPS) > 25%. Untreated periodontitis. Smoking > 10 cigarettes/day. Insufficient crestal width for NDI installment (horizontal dimensions < 5 mm). Previously performed ridge augmentation procedure for a staged implant placement. Permanent medication affecting blood perfusion rate and bone metabolism.
+
+Surgical procedure: Each patient received one to a maximum of two 3.3 mm tissue level (RN TL) titanium-zirconium alloy implants (Roxolid®) with the SLActive® (Institut Straumann AG, CH) surface configuration. All implants were placed by two experienced periodontists according to the manufacturer's surgical protocol instructions for transmucosal healing. A mid-crestal incision combined with intrasulcular incisions was performed without vertical releasing incisions. All implants were restored by either a single crown or a fixed partial denture (FPD) using SynOcta® or Variobase® abutments (Straumann®). No systemic antibiotics were prescribed.
+
+Assessment of clinical parameters: PD, CAL, and recession were estimated using a PCP-11 probe at four sites per implant. Measurements were carried out at 24 months (T1) and 48 months (T2). BOP and papilla bleeding index (PBI) on the buccal aspect were investigated. All clinical parameters were assessed by one independent investigator.
+
+Marginal bone level assessment: For radiographic analyses of MBL, the post-surgery digital radiograph was used as baseline. At T1 and T2, digital radiographs were performed using the parallel technique. Calibration was performed by estimating the distortion coefficient and adjusting images to the given implant diameter. One calibrated investigator performed all analyses using ImageJ2 software. ΔMBL = MBLBaseline - MBLT1/T2.
+
+Statistical analysis: Quantitative variables analyzed as mean and standard deviation. Prism 9 software (GraphPad). Gaussian distribution tested via Kolmogorov-Smirnov. Parametric tests (Student's t-test) used. Significance level α = 0.05.
+
+Results
+
+A total of 26 patients (mean age 63) were available for 4-year follow-up: 15 control group, 11 T2DM group. Due to patient drop-outs in the test group, the mean HbA1c value increased to 7.35 (±0.68). All restored study implants were under functional load after 24 and 48 months, resulting in an overall survival rate of 100% for both groups. No technical complications observed. One patient from the T2DM group lost one 3.3 × 8 mm implant after 24 months of functional load (not the study implant).
+
+Clinical parameters:
+- Mean peri-implant PD: normoglycemic 2.3 ±0.7 mm (T1) and 2.3 ±0.8 mm (T2); T2DM 2.4 ±0.6 mm (T1) and 2.3 ±0.8 mm (T2)
+- PD differences: non-significant (p=0.6 at T1; p=0.29 at T2)
+- BOP: slightly increased in control vs T2DM group (60% vs 45% at T2)
+- PBI: non-significant (p=0.99)
+
+Table of all measurements:
+T2DM vs Control (p):
+- Probing depth T1: 2.4±0.55 vs 2.3±0.71 (p=0.959)
+- Probing depth T2: 2.3±0.77 vs 2.3±0.88 (p=0.987)
+- Recession T1: 1.1±1.04 vs 0.73±0.96 (p=0.591)
+- Recession T2: 0.91±0.94 vs 0.73±0.96 (p=0.880)
+- ΔMBL T2: 0.09±0.89 vs 0.15±0.83 (p=0.875)
+- BOP (%): 45% vs 60% (p=0.144)
+- PBI: 0.7±1.01 vs 0.7±0.79 (p=0.998)
+
+Radiographic analysis: Non-significant MBL change for both groups. One outlier removed from control (>4mm MBL gain from insufficient radiograph angulation). ΔMBL at T2: control 0.10 ±0.89 mm vs T2DM 0.16 ±0.83 mm (p=0.876). No significant differences in MBL between 12 months and T2, indicating no further bone level changes over the 4-year period.
+
+Conclusions
+
+The study reveals positive clinical outcomes for NDI in patients with poorly controlled T2DM and normoglycemic patients after a four-year period. The peri-implant tissues and implant-borne restorations show similar biological responses for NDIs in both hyperglycemic and normoglycemic patients. In terms of short-term implant success and implant survival, there were no statistically significant differences between normoglycemic and diabetic patients, underlining that tissue-level NDIs pose a minimal-invasive and predictable treatment option in T2DM patients.
