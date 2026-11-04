@@ -4526,6 +4526,9 @@ tags: []
 ### prosthetic-materials
 - [[prosthetic-materials/tooth-preparation/dudley-2025-determinants-marginal-gap-crowns]] — 우산연구(SR 17편, in vitro 301건): 크라운 종류·재료·CAD-CAM 여부는 변연간극(79.4±22.8µm)에 무영향, 측정기구가 과대평가 원인, 120µm 기준 재확인 [sr+ma]
 - [[prosthetic-materials/chantler-2024-rehabilitation-worn-dentition-direct-indirect]] — 마모 치열 최소침습 직접·간접 수복 SR+MA(14편, 초록만): 직접 vs 간접 수동제작 복합레진 생존 차이 없음(OR 1.79, 95% CI 0.64-5.05), 리튬 디실리케이트 실패 1.8%
+- [[prosthetic-materials/romandini-2026-allceramic-metalceramic-fdps-multiunit-survival-sr-ma]] — Romandini 2026 · SR+MA (41편, n=2,132 다유닛 FDP) · 치밀소결 Zr FDP(베니어드 92.9%/모놀리식 87.9%) ≒ MC(91.3%), LD 82.5%(유의하게 낮음, p<0.05); 무합병증 71.0% [sr+ma]
+- [[prosthetic-materials/guth-2024-high-translucent-zirconia-fdp-3year-prospective]] — Güth 2024 · 전향 파일럿(N=22, 구치부 3유닛 5Y-PSZ Lava Esthetic, 3년) · 생존율 100%, 기계적 합병증 0건 — 5Y-PSZ 고투명 지르코니아 다유닛 FDP 최초 임상 데이터 [prospective]
+- [[prosthetic-materials/humm-2023-zirconia-titanium-abutments-13year-rct]] — Humm 2023 · RCT 13년 추적(n=40 임플란트, 구치부 Zr vs Ti 어버트먼트) · 양쪽 기술적 생존율 100%, 임플란트 주변 생물학적·심미적 결과 유사 [rct]
 
 ### implants/peri-implantitis
 - [[implants/peri-implantitis/quirynen-2025-peri-implantitis-risk-assessment-pira]] — 후향연구(460명·임플란트 1,432개), 임플란트 주위염 술전 예측모델(PiRA), 부분무치악군 민감도 90.2%/특이도 55.0%, 무료 온라인 도구 배포 [retrospective]
