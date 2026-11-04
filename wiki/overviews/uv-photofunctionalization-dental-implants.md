@@ -7,7 +7,7 @@ source: overview
 category: [overviews, implants/surface]
 evidence_level: synthesis
 source_collection: internal
-tags: [photofunctionalization, uv, ultraviolet, implant-surface, osseointegration, biological-aging, superhydrophilic, soft-tissue, biofilm, diabetes, chairside, human-rct, overview, adventitious-carbon, organic-acid, XPS, UVB, UVC]
+tags: [photofunctionalization, uv, ultraviolet, implant-surface, osseointegration, biological-aging, superhydrophilic, soft-tissue, biofilm, diabetes, chairside, human-rct, overview, adventitious-carbon, organic-acid, XPS, UVB, UVC, VUV, dual-wavelength, nanonodular-texturing, biological-dilemma, YAP, mechanotransduction, 3D-printing, Ti6Al4V]
 relations:
   - type: extends
     target: implants/surface/wagstaffe-2019-rgd-tripeptide-adsorption-titania-surfaces
@@ -20,7 +20,7 @@ relations:
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
-> - 위키 내 15편 종합(기전 in-vitro 5 + in-vitro 세균 1 + 증례 1 + SR/MA 2 + 전향 임상 1 + RCT 2 + 서술적 고찰 2 + SR 1). 핵심 명제: 광기능화 (Photofunctionalization, PF)는 새 임플란트 종류가 아니라 체어사이드 표면 **재활성화** 기술이다 — 형태를 바꾸지 않고 티타늄의 생물학적 노화를 되돌린다.
+> - 위키 내 **19편** 종합(기전 in-vitro 5 + in-vitro 세균 1 + 증례 1 + SR/MA 2 + 전향 임상 2 + RCT 2 + 서술적 고찰 3 + SR 1 + 동물 1). 핵심 명제: 광기능화 (Photofunctionalization, PF)는 새 임플란트 종류가 아니라 체어사이드 표면 **재활성화** 기술이다 — 형태를 바꾸지 않고 티타늄의 생물학적 노화를 되돌린다.
 > - 공통 기전: 보관 중 탄화수소 (Hydrocarbon)가 표면에 축적되며 골아세포 (Osteoblast) 활성을 농도 의존적으로 억제(Hayashi 2014, C/Ti=1.0에서 ALP·무기화 >40%↓)하고, 이 노화는 4주가 아니라 6개월까지 지속된다(Minamikawa 2016). 자외선 (UV) 조사가 탄화수소를 제거 → 초친수성(접촉각≈0°)·고표면에너지·양전하 (Electropositivity) 복원(형태·조성은 불변; Iwasa 2011은 양전하가 친수성보다 anti-aging의 본질임을 입증).
 > - **근거 갱신(2026-08) — 오염의 화학적 정체**: Wagstaffe 2019(XPS/STM)가 처음으로 "탄화수소"의 실체를 특정 — 기름·유분이 아니라 **폼산·아세트산 같은 소형 유기산**이 카르복실기-양이온 브리징 결합으로 화학흡착된 부착탄소오염 (Adventitious Carbon)층. SLActive는 이 층이 SLA보다 적어 전 pH에서 RGD 펩타이드 흡수량이 더 높음 — 흡착을 결정하는 건 표면친수성 자체가 아니라 이 층의 **치환 용이성**.
 > - **근거 갱신(2026-08) — 파장별 실효성 차이**: Houshmand 2023(EDS, 같은 SLA 배치 UVB vs UVC 직접비교)에서 UVC(210nm)는 표면 탄소·질소를 유의 감소(p<0.001)시켰으나, UVB(310nm)는 접촉각만 낮추고(129.9°→58.9°) 탄소·질소는 대조군과 무차이(p=0.171/0.785) — **습윤성 개선이 곧 탄화수소 제거를 보장하지 않음**, 파장 선택이 임상적으로 중요.
@@ -34,7 +34,7 @@ relations:
 
 ## Three-line Summary
 
-Synthesis of 15 papers: UV photofunctionalization is a chairside, topography-preserving titanium surface RE-ACTIVATION technology — UV exposure removes storage-acquired hydrocarbon contamination (up to 76.5% surface carbon on commercial implants; chemically identified as small organic acids chemisorbed via carboxylate-cation bridging, not oil/grease — Wagstaffe 2019), restoring superhydrophilicity (contact angle ≈0°) and electropositivity without altering topography or composition, acting across bone, soft-tissue, and bacterial interfaces.
+Synthesis of 19 papers: UV photofunctionalization is a chairside, topography-preserving titanium surface RE-ACTIVATION technology — UV exposure removes storage-acquired hydrocarbon contamination (up to 76.5% surface carbon on commercial implants; chemically identified as small organic acids chemisorbed via carboxylate-cation bridging, not oil/grease — Wagstaffe 2019), restoring superhydrophilicity (contact angle ≈0°) and electropositivity without altering topography or composition, acting across bone, soft-tissue, and bacterial interfaces.
 
 The strongest and most consistent clinical signal is the *rate* of implant-stability development (Lang 2022 SR+MA: OSI MD=2.13, p=0.007; ISQ significant at 2 months only), while a higher final stability plateau, MBL benefit, and long-term loaded survival remain unproven — untreated controls consistently catch up.
 
@@ -42,11 +42,19 @@ Benefit is greatest in compromised hosts (controlled diabetics, complex/atrophie
 
 ## 세줄요약
 
-15편 종합(기전 in-vitro 5·세균 in-vitro 1·증례 1·SR/MA 2·전향 1·RCT 2·서술고찰 2·SR 1): UV 광기능화는 보관 중 축적된 탄화수소를 제거(상업용 임플란트 표면탄소 최대 76.5%; 화학적으로는 기름이 아니라 카르복실기-양이온 브리징 결합의 소형 유기산 — Wagstaffe 2019)해 형태 보존 그대로 초친수성(접촉각 ≈0°)·양전하를 복원하는 체어사이드 표면 재활성화 기술로 골·연조직·세균 3계면에 작용한다.
+19편 종합(기전 in-vitro 5·세균 in-vitro 1·증례 1·SR/MA 2·전향 2·RCT 2·서술고찰 3·SR 1·동물 1·in-vitro 1): UV 광기능화는 보관 중 축적된 탄화수소를 제거(상업용 임플란트 표면탄소 최대 76.5%; 화학적으로는 기름이 아니라 카르복실기-양이온 브리징 결합의 소형 유기산 — Wagstaffe 2019)해 형태 보존 그대로 초친수성(접촉각 ≈0°)·양전하를 복원하는 체어사이드 표면 재활성화 기술로 골·연조직·세균 3계면에 작용한다.
 
 가장 강하고 일관된 임상 신호는 안정성 "발달 속도"(Lang 2022 SR+MA: OSI MD=2.13, p=0.007; ISQ는 2개월만 유의), 더 높은 최종치·MBL 이득·장기 하중 생존은 미입증(대조군이 따라잡는 패턴); 취약 숙주(조절 당뇨·복잡/위축 증례)에서 이득 최대.
 
 최신 SR(Komatsu 2026, 34편)은 표면 비의존 포지티브섬 전략으로 재개념화; 기기 이질성·높은 비뚤림 위험·abstract-only 주요 데이터가 현 근거의 주된 한계.
+
+**근거 갱신(2026-11) — 파장 사다리 완성**: Suzumura 2023(in vitro)에서 진공자외선 (Vacuum Ultraviolet, VUV, 172 nm)이 1분 처리로 57% 유기물 분해(UVC 2%·HUVC 36%·PUV 42% 대비) — 광자에너지 ∝ 1/λ 원칙의 최상단 확인. 석영 앰풀 내 처리 가능 → 멸균 창 불필요.
+
+**근거 갱신(2026-11) — 단일 UVC로 충분한가?**: Yin 2025(동물, 3D 프린팅 다공성 Ti6Al4V)에서 복합 파장 UV-AC(270+365 nm)가 단일 UVC(270 nm)보다 BIC·ALP·YAP 핵 전좌 모두 우세 — "UVC 충분" 가정에 반론. 기전: UV-AC만이 integrin β1/vinculin/talin → actin/myosin → YAP 전좌 전체 연쇄 완성.
+
+**근거 갱신(2026-11) — 생물학적 딜레마 해소 전략**: Matsuura 2024(서술적 고찰)에서 거친 표면의 Runx2 매개 증식·분화 역상관("생물학적 딜레마")을 해소하는 3전략 종합 — 나노결절 텍스처링·메소 텍스처링·UV-PF. UV-PF는 표면-무관 physicochemical reset으로 나머지 2전략을 보완(조합 미검증).
+
+**근거 갱신(2026-11) — 임상 확인(소규모)**: Santos Pavei 2026(split-mouth, n=10, SA+5분 UV)에서 ISQ 측정 주기 3·4·6 유의 증가; 세포 증식 48h ↑; 1형 콜라겐 차이 없음 — UV-PF가 초기 증식 kinetics에 선택적 작용, 후기 기질 합성 무영향 확인.
 
 ## Thesis
 
@@ -116,6 +124,10 @@ Dorigatti 2015 (in vitro, polymicrobial oral biofilm under saliva + blood) estab
 | Krishna | 2025 | rct | split-mouth, controlled diabetics (abstract-only) | UV (20 s): ISQ gain 4.40 vs 2.60 (P<.029), OSI 1.42 vs 0.84 (P=.032), 9-mo distal CBL 0.35 vs 0.64 mm (P=.003) |
 | Farsiani | 2025 | rct | 21 patients / 42 implants | FD ↑ only at PF sites 1.075→1.103 (p=0.044) vs control no change (p=0.794); 100% survival; ISQ not measured (10-s UV) |
 | Komatsu | 2026 | sr | 34 studies (9 bacterial + 13 soft-tissue + 13 clinical) (abstract-only) | Surface-agnostic, positive-sum reframing; most consistent = ↓ early biofilm & accelerated stability; Ti strong, zirconia emerging |
+| Suzumura | 2023 | in-vitro | cp-Ti + Ti-6Al-4V, methylene blue model | VUV (172 nm) 1-min: 57% decomposition vs UVC 2%/HUVC 36%/PUV 42%; TiO₂ photocatalysis only ~20–25%; quartz containment viable |
+| Matsuura | 2024 | narrative-review | UCLA Ogawa group synthesis | "Biological dilemma" (Runx2 proliferation–differentiation inverse) framed; 3 strategies (nanonodular/meso/UV-PF); UV-PF = topography-agnostic physicochemical reset |
+| Yin | 2025 | animal | rat BMSCs + rabbit condyle, 3D-printed porous Ti6Al4V | UV-AC (270+365 nm dual) > UVC > UVA > control for BIC/ALP/osteoid; mechanism: integrin β1/vinculin/talin → actin → YAP nuclear translocation |
+| Santos Pavei | 2026 | prospective | split-mouth n=10, 20 SA implants | 5-min UV → ISQ sig ↑ at intervals 3/4/6; 48 h cell proliferation ↑; type I collagen NS — selective early kinetics effect |
 
 ## Clinical bottom line
 
@@ -150,3 +162,7 @@ Dorigatti 2015 (in vitro, polymicrobial oral biofilm under saliva + blood) estab
 - [[implants/surface/krishna-2025-uv-photofunctionalization-diabetic-implant-stability-rct]] — RCT (abstract-only): UV benefit in controlled diabetics (ISQ/OSI/CBL)
 - [[implants/surface/farsiani-2025-photofunctionalized-implants-fractal-bone-analysis-rct]] — RCT: fractal-dimension imaging surrogate; PF sites gain, controls don't
 - [[implants/surface/komatsu-2026-uv-photofunctionalization-surface-agnostic-biofilm-soft-tissue-sr]] — newest/broadest SR (abstract-only): surface-agnostic, positive-sum reframe; Ti+zirconia
+- [[implants/surface/suzumura-2023-vacuum-uv-organic-decomposition-titanium]] — VUV (172 nm) 1-min decomposition: photon-energy mechanism tops the wavelength ladder; quartz-compatible sterile packaging
+- [[implants/surface/matsuura-2024-beyond-microroughness-osteoblast-implant-surfaces]] — biological dilemma framework; 3 non-coating strategies; UV-PF as topography-agnostic physicochemical reset
+- [[implants/surface/yin-2025-dual-wavelength-uv-photofunctionalization-tial4v]] — dual-wavelength UV-AC on 3D-printed Ti6Al4V: UV-AC > UVC (single) in vivo; YAP/cytoskeleton mechanotransduction axis
+- [[implants/surface/santos-pavei-2026-uv-photofunctionalization-titanium-clinical]] — small split-mouth clinical (n=10): ISQ intervals 3/4/6 significant; selective early proliferation kinetics; type I collagen unaffected
