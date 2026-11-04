@@ -2,7 +2,7 @@
 title: "구강외과 — oral-surgery"
 authors: navigation
 year: 2026
-date: 2026-10-13
+date: 2026-11-04
 doi: N/A
 source: navigation
 category: oral-surgery
@@ -16,21 +16,21 @@ tags: [navigation, category-index, oral-surgery]
 > - **분야**: 구강외과
 > - **범위**: Extractions, surgical complications not covered by a subcategory (oroantral fistula, hemostasis, deep neck infection, free flap).
 > - **하위 카테고리**: [[nerve-injury]] · [[third-molar]] · [[trauma]]
-> - **수록 논문**: 46편
+> - **수록 논문**: 48편
 
 ## Three-line Summary
 
 **Scope**: Extractions, surgical complications not covered by a subcategory (oroantral fistula, hemostasis, deep neck infection, free flap).
-**Indexed papers**: 46 papers in `wiki/oral-surgery/`.
+**Indexed papers**: 48 papers in `wiki/oral-surgery/`.
 **Sub-categories**: [[nerve-injury]], [[third-molar]], [[trauma]]
 
 ## 세줄요약
 
 **분야**: 구강외과
-**수록 논문**: 46편
+**수록 논문**: 48편
 **하위 카테고리**: nerve-injury, third-molar, trauma
 
-## Papers in this Category (46)
+## Papers in this Category (48)
 
 | Paper |
 |---|
@@ -49,6 +49,7 @@ tags: [navigation, category-index, oral-surgery]
 | [[frid-2025-diagnostic-accuracy-and-clinical-impact|Diagnostic Accuracy and Clinical Impact of Handheld Point-of-Care Ultrasound in Pediatric Odontogenic Infections: A Prospective Cohort Study]] |
 | [[gargava-2022-deep-neck-space-infection-150-cases|Deep Neck Space Infection: A Study of 150 Cases at Tertiary Care Hospital]] |
 | [[ghali-2021-fascial-space-odontogenic-infections-ultrasonography|Fascial space odontogenic infections: Ultrasonography as an alternative to magnetic resonance imaging]] |
+| [[hallym-2017-retromandibular-subcondylar-fracture-parotid-fistula|Retromandibular approach for the management of subcondylar fractures, followed by treatment of parotid gland fistulae: Case report]] |
 | [[hammerle-2014-biology-soft-tissue-wound-healing|Biology of soft tissue wound healing and regeneration -- consensus report of Group 1 of the 10th European Workshop on Periodontology]] |
 | [[heng-2007-smoking-postextraction-complications-female-inmates|The Relationship of Cigarette Smoking to Postoperative Complications from Dental Extractions Among Female Inmates]] |
 | [[jeffers-2024-what-is-the-utility-of|What is the Utility of Point-of-Care Ultrasound for Diagnosis of Soft Tissue Abscess vs. Cellulitis?]] |
@@ -61,6 +62,7 @@ tags: [navigation, category-index, oral-surgery]
 | [[long-2021-diagnosis-and-management-of-cellulitis|Diagnosis and Management of Cellulitis and Abscess in the Emergency Department Setting: An Evidence-Based Review]] |
 | [[mahmoudi-2023-gelatin-hemostatic-sponge-extraction-rct|Efficacy of a New Hemostatic Dental Sponge in Controlling Bleeding, Pain, and Dry Socket Following Mandibular Posterior Teeth Extraction—A Split-Mouth Randomized Double-Blind Clinical Trial]] |
 | [[marchionne-2019-acute-inflammatory-edema-a-mimicker|Acute inflammatory edema: A mimicker of cellulitis in critically ill patients]] |
+| [[martins-2023-bacteremia-following-different-oral|Bacteremia following different oral procedures: Systematic review and meta-analysis]] |
 | [[mozzati-2013-prgf-diabetic-extraction-socket|Efficacy of plasma-rich growth factor in the healing of postextraction sockets in patients affected by insulin-dependent diabetes mellitus]] |
 | [[obaitan-2016-failure-of-antibiotics-in-cellulitis|Failure of antibiotics in cellulitis trials: a systematic review and meta-analysis]] |
 | [[ogle-2017-odontogenic-infections|Odontogenic Infections]] |
