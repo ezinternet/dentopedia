@@ -4633,6 +4633,8 @@ tags: []
 - [[immediate-implant/esthetic-soft-tissue/yan-2016-soft-hard-tissue-immediate-placement-restoration-esthetic]] — 즉시 식립·수복·로딩의 연조직·경조직 변화 SR+MA (13 RCT): 변연골·치간유두 모두 기존 프로토콜과 동등
 - [[immediate-implant/esthetic-soft-tissue/rieder-2014-placement-restoration-timing-esthetic-outcome-rct]] — 즉시·조기 식립 × 즉시·조기 수복 4군 RCT (n=48): 조기식립+즉시수복(EPIR) PES 6.62 최저 — 이 조합 회피 권고
 - [[immediate-implant/esthetic-soft-tissue/slagter-2014-immediate-placement-esthetic-zone-sr]] — 심미구역 즉시 식립 SR+풀링 (34편): 1년 생존 97.1%, MBL 0.81mm — 즉시 가식·무피판이 MBL 위험 낮춤
+- [[immediate-implant/esthetic-soft-tissue/zadikian-2026-open-healing-immediate-implant-mucosa]] — Zadikian 2026 · SR+MA (12편, 4 RCT): 비폐쇄 치유(open healing) IIP — MML 일차봉합 동등(SMD −0.26, NS); 근심유두 유리(SMD +0.76, p=0.01)
+- [[immediate-implant/esthetic-soft-tissue/soliman-2026-vestibular-socket-therapy-iip-outcomes]] — Soliman 2026 · SR+MA (7 RCT, 186명): VST(전정접근 소켓 치료) 첫 메타분석 — 생존율 99.5%, 협측골판 두께 비교군 대비 유의차 없음(GRADE 매우 낮음)
 
 ### immediate-implant/loading-protocol
 - [[immediate-implant/loading-protocol/markovic-2024-immediate-vs-early-loading-immediately-placed]] — 즉시 식립 후 즉시 부하 vs 조기 부하 비교 파일럿 RCT (n=24): ISQ·MBL 동등, 생존율 91.8% vs 97.2% ns — 전악 상악 임플란트 수복에 두 프로토콜 모두 적절
