@@ -43,6 +43,7 @@ CATEGORIES = [
     ("caries-prevention",      "우식·침식·구강미생물"),
     ("oral-medicine",          "구강내과 — 점막질환"),
     ("drug",                   "약물·처방·통증관리"),
+    ("dental-emergency",       "치과응급 — 트리아지·응급처치·실신·약물"),
     ("ortho",                  "교정"),
     ("imaging",                "영상·방사선·AI"),
     ("patient-ops",            "환자 커뮤니케이션·행동·운영"),
