@@ -4920,9 +4920,13 @@ tags: []
 - [[caries/gupta-2020-fluoride-antibacterial-caries-sr-ma]] — Gupta 2020 · sr+ma · 불소-항균제 병용이 불소 단독보다 우식 예방 우수 (SMD = -0.12, p = 0.004) (DOI 10.1007/s40368-020-00561-7)
 - [[caries/kakudate-2020-evidence-practice-gap-pbrn]] — 일본 JDPBRN 치과의사 206명의 최소개입치의학(Minimal Intervention Dentistry, MID) 근거 일치도 평균·중앙값 60% — 심부 우식·우식위험도평가(Caries Risk Assessment, CRA)에서 최저(33–54%); 영어 논문 빈용 시 일치도 2.45배 상승(OR 2.45, 95% CI 1.08–5.59) [cross-sectional]
 - [[caries/kakudate-2024-evidence-practice-gap-japan-brazil]] — 일본 136명 vs 브라질 110명 치과의사 MID 근거-실천 격차 국제 비교: 전체 일치율 브라질 56% vs 일본 38%(p=0.007), 격차 핵심은 CRA 시행률(91% vs 68%, p<0.001); 일본은 영어 학술지 활용 OR 2.44 상승('언어 갭'), 브라질은 인터넷 정보 의존 OR 0.39 하락 [cross-sectional]
+- [[caries/worthington-2024-sdf-preventing-managing-dental-caries]] — Worthington 2024 · sr · 코크란 SR pub2 (RCT 29편, 13,036명): SDF 치근우식 예방 MD -0.79(중등도); 유치 우식 차단 MD 0.86(낮음); 나머지 결과 모두 확신도 매우 낮음; 착색 평가 불충분 (DOI 10.1002/14651858.CD012718.pub2)
 
+- [[caries/iheozor-ejiofor-2024-water-fluoridation-prevention-dental]] — Iheozor-Ejiofor 2024 · sr · 코크란 SR pub3 (157편 비무작위): 현대(1975년 이후) 수돗물 불소화 근거 매우 제한·확신도 매우 낮음; 1975년 이전 근거는 혜택 시사하나 현재 임상 환경 적용 불확실; 치아불소증 연관 (DOI 10.1002/14651858.CD010856.pub3)
 ### oral-surgery/third-molar
+- [[caries/wong-2024-topical-fluoride-cause-dental-fluorosis]] — Wong 2024 · sr · 코크란 SR pub3 (43편 — RCT 3+관찰 40): 국소불소(치약·겔·바니시·구강세정제) 사용 패턴 중 어떤 것이 소아 치아불소증 위험을 높이는지 판단 불가 — 전 근거 확신도 매우 낮음 (DOI 10.1002/14651858.CD007693.pub3)
 - [[oral-surgery/third-molar/canellas-2020-intrasocket-ao-third-molar-sr-nma]] — Canellas 2020 · sr+ma · 치조내 중재로 사랑니 발치 후 건성치조 예방 (RR = 0.39, p < 0.0001) (DOI 10.1016/j.jcms.2020.06.012)
+- [[caries/kumari-2026-noninvasive-management-molar-incisor-hypomineralization]] — Kumari 2026 · sr · 코크란 프로토콜 (소아 MIH, 6–14세): 불소·CPP-ACP·SDF·실런트·레진침투 등 비침습 MIH 관리 효과·위해 평가 예정 — 결과 없음 (DOI 10.1002/14651858.CD016369)
 - [[oral-surgery/third-molar/ghaeminia-2020-surgical-removal-retention-asymptomatic-impacted-wisdom]] — Ghaeminia 2020 · Cochrane SR · 무증상 매복 사랑니 발치 vs 보존 — **증거 극히 빈약(2편/493명)**, 뼈성 매복 보존 시 제2대구치 치주염 위험 시사(RR 0.32, 매우 낮은 질), 중첩 예방 발치 근거 없음, QoL·비용·합병증 모두 미측정 — 공유 의사결정 권고 (DOI 10.1002/14651858.CD003879.pub5)
 
 ## Batch ingest (added 2026-08-18) — implants FEA / biomechanics
@@ -5022,6 +5026,7 @@ tags: []
 - [[orthodontics/clear-aligner/kuzminskaite-2026-clinical-efficacy-of-aligners-with]] — Kuzminskaite 2026 · sr · 성장기 Class II 환자에서 하악전방유도 투명교정 (Clear Aligner Mandibular Advancement, CAMA) vs 기능성장치: 9편 n=412 SR, SNB·ANB·Wits·오버바이트·오버젯 모두 동등 (Huang 2026 SR+MA 독립 지지) (abstract-only, no-doi)
 - [[orthodontics/clear-aligner/kavasoglu-2026-maa-vs-activator-cbct-volumes]] — Kavasoğlu 2026 · rct · Invisalign MAA vs Activator vs 비처치 CBCT 용적 RCT (n=55, CVM 2–3, ~8개월): 하악·상악 용적 변화 군간 차이 없음 (ANCOVA p=0.877/0.952) — 단기 II급 교정은 위치적 적응 주도, 용적 성장 기여 미미
 - [[orthodontics/clear-aligner/fialho-2026-flowable-vs-bulkfill-aligner-attachments]] — Fialho 2026 · rct · 어태치먼트용 플로어블 vs 벌크필 플로어블 레진 split-mouth RCT (n=50, 800어태치먼트, 140일): 탈락률 18.75%, 군간 차이 없음 (HR=0.84, p=0.293) — 일반 플로어블이 벌크필 대비 동등한 비용효율 대안
+- [[orthodontics/takahashi-2026-nasoalveolar-moulding-therapy-orofacial]] — Takahashi 2026 · sr · 코크란 프로토콜: 구순구개열 소아 비치조 성형술(NAM) vs 무처치 효과·위해 평가 예정 — 결과 없음 (DOI 10.1002/14651858.CD016359)
 
 ## Batch ingest (added 2026-09-28) — 과압박 사람 조직학 서베일런스 (3편 신규)
 
@@ -5117,6 +5122,7 @@ tags: []
 - [[implants/full-arch/shao-2026-all-on-four-vs-all-on-six-sr-ma]] — Shao 2026 · sr+ma · 55편 체계적문헌고찰·메타분석; 무치악 환자에서 All-on-4 대 All-on-6 임플란트 고정성 보철물의 단기·중기·장기 임상결과 비교. (DOI 10.1016/j.ijom.2026.04.002)
 - [[implants/full-arch/tirone-2025-cad-parameters-cantilever-fracture]] — Tirone 2025 · retrospective · 후향적 코호트, 151 지르코니아 전악, 117명, ≥12개월; CAD CL/CSCA·CL/SAOL 컷오프 전향 적용. (DOI 10.1016/j.jdent.2025.105851)
 - [[implants/full-arch/topdagi-2026-all-on-4-bone-type-outcomes]] — Topdagi 2026 · retrospective · 후향적 다기관 코호트, 완전 무치악 250명(상·하악 각 125명), 임플란트 1,000개, All-on-4 보철; Lekholm & Zarb 골 유형 분류 Type 1–4 층화; 평균 추적 3.6 ± 0.4년(2018.09–2021.09). (DOI 10.1186/s12903-026-09299-y)
+- [[implants/full-arch/visconti-2026-zygomatic-implants-severely-atrophic]] — Visconti 2026 · sr · 코크란 SR pub4 (관골임플란트, 고도위축 상악): 관골임플란트 vs 증대술 후 일반임플란트, 임플란트 실패 OR 0.23(중등도), 합병증 OR 4.53(중등도), 재활 기간 MD -443일(중등도); 압전술 vs 회전절삭 — 술기 시간 외 의미있는 차이 없음 (DOI 10.1002/14651858.CD004151.pub4)
 
 ### implants
 - [[implants/irandoust-2020-interplay-bone-healing-remodeling-dental]] — Irandoust 2020 · in-vitro · 메카노-조절 세포분화 모델로 즉시부하 임플란트 주위 골치유(30일)와 골리모델링(15,000일)을 연속 시뮬레이션 — 초기 마이크로모션 5, 10, 20 μm 조건 비교. (DOI 10.1038/s41598-020-60735-7)
@@ -5294,6 +5300,7 @@ tags: []
 - [[bone-regeneration/nunn-2024-novel-alloplast-carbonate-apatite-granules]] — 탄산아파타이트 과립 (CO3Ap, Cytrans) 체계적 고찰 43편(시험관 5·동물 28·사람 7·리뷰 3): 상악동거상 후 높이 감소 16.4-27.8%, 7개월 신생골 33.8%, 3년 임플란트 생존율 100%(n=13), 6개월 골흡수 14.2% vs DBBM 24.2%(n=6 vs 8); 사람 연구 소규모, RCT 없음
 - [[sinus-lift/lateral/pogacian-maier-2024-allograft-bone-lateral-sinus-sr]] — 상악동 측방접근 동종골(FDBA/DFDBA) SR+MA 7편(238명): FDBA vs DBB 골용적 WMD −0.17 (p=0.53, I²=81%), FDBA vs 자가골 임플란트 생존율 RR 1.00 (p=1.00); 차이 없으나 근거 소규모·단기
 - [[periodontics/jasser-2021-effectiveness-beta-tricalcium-phosphate-comparison]] — 치주 골내결손 베타-인산삼칼슘 (β-TCP) vs 타 이식재 SR+MA (5편, 171명/254부위, 무작위 1편): 변연절제 단독 대비 우수(PD 감소 6.20 vs 2.95 mm, CAL 획득 5.80 vs 2.30 mm), 동종골·자가골과 비슷하거나 약간 낮음; 랜덤효과에선 대부분 소실(I² 73–92%), 근거 약함
+- [[periodontics/omalley-2026-behavioural-interventions-oral-hygiene]] — O'Malley 2026 · sr · 코크란 SR pub2 (RCT 25편, 1422명): 치주질환 성인의 구강위생 행동 중재(BCT 분류법) 효과 — 전 결과 근거 확신도 매우 낮음, 효과 결론 도출 불가 (DOI 10.1002/14651858.CD012049.pub2)
 - [[oral-surgery/third-molar/toledano-serrabona-2021-xenograft-periodontal-defects-mandibular-third]] — 하악 제3대구치 발치 후 우골 이종골+콜라겐 막 vs 자연치유 SR+MA (RCT 3편, 81명/M3M 162개): 제2대구치 원심 PPD 감소 MD 2.36 mm, CAL 획득 MD 2.52 mm 유리 (I² 95-97%), 치조골 높이·부작용 차이 없음; 저비뚤림 1편뿐
 - [[sinus-lift/lateral/trimmel-2021-relative-performance-various-biomaterials]] — 상악동거상 베이지안 네트워크 메타분석 (RCT 34편, 842건, 5-8개월): 28개 이식재 하위군 중 이종골+골수농축액 SUCRA 81% 1위, 자가골 단독 12위(57%)로 표준 지위 미확인; 유의 비교 378건 중 2건, 확실성 낮음~매우 낮음
 - [[bone-regeneration/perez-gonzalez-2020-assessment-clinical-outcomes-histomorphometric-findings]] — 동종골 블록 치조제 증강 SR+MA (7편, 블록 323개, 임플란트 501개): 블록 생존율 94.52%, 임플란트 생존율 97.36%, 블록 노출이 최다 합병증, 신생골 31-42%·잔존 이식재 14-40%; RCT 없음
@@ -5395,6 +5402,7 @@ tags: []
 - [[drug/medical-emergencies/cangul-2026-knowledge-attitudes-clinical-preparedness-dentists]] — 2026 · cross-sectional · 터키 치과의사 전국조사 (n=300): 지식 중앙값 11/16, 역량감 40%만; 아나필락시스·고혈압 위기에서 결정적 격차
 - [[drug/medical-emergencies/olus-2026-code-blue-awareness-dental-students]] — 2026 · cross-sectional · 치과대학생 코드블루 인지도 (n=186): 70.4% 인지, 혈관미주신경성 실신을 코드블루로 잘못 분류 70.5%
 - [[drug/medical-emergencies/aquino-2026-perceived-confidence-managing-medical-emergencies]] — 2026 · cross-sectional · 치과대학생 응급 처치 자기 확신도 + 감성지능 (n=100): 82% 미준비, EI가 진단 준비도 예측(p=0.04)
+- [[drug/visconti-2026-antibiotic-prophylaxis-dental-implant-augmentation]] — Visconti 2026 · sr · 코크란 프로토콜: 골증대술 동반 임플란트 식립 시 전신 예방적 항생제 효과·위해 평가 예정(비증대술 기존 SR의 보완 리뷰) — 결과 없음 (DOI 10.1002/14651858.CD016385)
 
 ## 소아치과 (Pediatric Dentistry)
 
