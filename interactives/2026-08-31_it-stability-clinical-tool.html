@@ -22,6 +22,23 @@ tags: [insertion-torque, isq, loading-timing, osteotomy-heat, bone-quality, lekh
 description: "IT 값 입력 → 임상 해석·ISQ 궤적 / 식립 발열 위험 평가 / 골질 분류 참조"
 ---
 -->
+<script>
+/* llm-wiki cache-refresh */
+(function(){
+  var HK='_cr_h_2026_08_31_it_stability_clinical_tool';
+  var THRESHOLD=30*60*1000;
+  document.addEventListener('visibilitychange',function(){
+    if(document.hidden){
+      try{localStorage.setItem(HK,Date.now());}catch(e){}
+    }else{
+      try{
+        var t=parseInt(localStorage.getItem(HK)||'0');
+        if(t&&(Date.now()-t)>THRESHOLD){localStorage.setItem(HK,'0');location.reload(true);}
+      }catch(e){}
+    }
+  });
+})();
+</script>
 <title>IT 안정성 임상 해석기</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&family=JetBrains+Mono:wght@400;500&display=swap">
 

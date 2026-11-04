@@ -21,7 +21,24 @@ tags: [meta, growth-curve, audit, visualization, 2026-05]
   .note ul { margin:6px 0 0 18px; padding:0; }
   .note li { margin:3px 0; }
   code { background:#e7d9bd; padding:1px 5px; border-radius:3px; font-size:15px; }
-</style></head><body>
+</style><script>
+/* llm-wiki cache-refresh */
+(function(){
+  var HK='_cr_h_2026_05_26_wiki_growth_curve';
+  var THRESHOLD=30*60*1000;
+  document.addEventListener('visibilitychange',function(){
+    if(document.hidden){
+      try{localStorage.setItem(HK,Date.now());}catch(e){}
+    }else{
+      try{
+        var t=parseInt(localStorage.getItem(HK)||'0');
+        if(t&&(Date.now()-t)>THRESHOLD){localStorage.setItem(HK,'0');location.reload(true);}
+      }catch(e){}
+    }
+  });
+})();
+</script>
+</head><body>
 <div class="card"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1300 620" font-family="-apple-system,BlinkMacSystemFont,'Apple SD Gothic Neo',sans-serif">
 <rect x="0" y="0" width="1300" height="620" fill="#f5ecd9"/>
 <line x1="60" x2="1240" y1="417.5" y2="417.5" stroke="#c9bda3" stroke-width="0.8" stroke-dasharray="3 5" opacity="0.6"/>

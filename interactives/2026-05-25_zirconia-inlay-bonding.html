@@ -206,6 +206,23 @@ tags: [zirconia, inlay, bonding, sop, interactive]
     transition: background 0.18s, color 0.18s;
   }
 </style>
+<script>
+/* llm-wiki cache-refresh */
+(function(){
+  var HK='_cr_h_2026_05_25_zirconia_inlay_bonding';
+  var THRESHOLD=30*60*1000;
+  document.addEventListener('visibilitychange',function(){
+    if(document.hidden){
+      try{localStorage.setItem(HK,Date.now());}catch(e){}
+    }else{
+      try{
+        var t=parseInt(localStorage.getItem(HK)||'0');
+        if(t&&(Date.now()-t)>THRESHOLD){localStorage.setItem(HK,'0');location.reload(true);}
+      }catch(e){}
+    }
+  });
+})();
+</script>
 </head>
 <body>
 

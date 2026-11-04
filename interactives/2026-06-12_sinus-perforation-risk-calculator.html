@@ -73,6 +73,23 @@ note: "의사결정 보조 도구. 가중치는 보고된 효과크기(HR/OR)를
   .bar{height:6px;background:var(--line);border-radius:4px;overflow:hidden;margin-top:6px}
   .bar>i{display:block;height:100%;background:var(--accent)}
 </style>
+<script>
+/* llm-wiki cache-refresh */
+(function(){
+  var HK='_cr_h_2026_06_12_sinus_perforation_risk_calcul';
+  var THRESHOLD=30*60*1000;
+  document.addEventListener('visibilitychange',function(){
+    if(document.hidden){
+      try{localStorage.setItem(HK,Date.now());}catch(e){}
+    }else{
+      try{
+        var t=parseInt(localStorage.getItem(HK)||'0');
+        if(t&&(Date.now()-t)>THRESHOLD){localStorage.setItem(HK,'0');location.reload(true);}
+      }catch(e){}
+    }
+  });
+})();
+</script>
 </head>
 <body>
 <div class="wrap">

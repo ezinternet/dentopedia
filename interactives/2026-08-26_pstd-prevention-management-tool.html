@@ -186,6 +186,23 @@ h1 { font-size: 20px; font-weight: 700; margin-bottom: 2px; color: var(--accent)
 .hidden { display: none !important; }
 .full-width { grid-column: 1 / -1; }
 </style>
+<script>
+/* llm-wiki cache-refresh */
+(function(){
+  var HK='_cr_h_2026_08_26_pstd_prevention_management_to';
+  var THRESHOLD=30*60*1000;
+  document.addEventListener('visibilitychange',function(){
+    if(document.hidden){
+      try{localStorage.setItem(HK,Date.now());}catch(e){}
+    }else{
+      try{
+        var t=parseInt(localStorage.getItem(HK)||'0');
+        if(t&&(Date.now()-t)>THRESHOLD){localStorage.setItem(HK,'0');location.reload(true);}
+      }catch(e){}
+    }
+  });
+})();
+</script>
 </head>
 <body>
 

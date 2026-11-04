@@ -91,6 +91,23 @@ source_wiki:
   footer { text-align:center; color:var(--muted); font-size:.76rem; margin-top:26px; line-height:1.7; }
   .goldbox { background:#fff8e6; border:1px solid #e6cf8a; border-radius:10px; padding:11px 13px; font-size:.83rem; margin-top:12px; }
 </style>
+<script>
+/* llm-wiki cache-refresh */
+(function(){
+  var HK='_cr_h_2026_07_03_cemental_tear_decision_tools';
+  var THRESHOLD=30*60*1000;
+  document.addEventListener('visibilitychange',function(){
+    if(document.hidden){
+      try{localStorage.setItem(HK,Date.now());}catch(e){}
+    }else{
+      try{
+        var t=parseInt(localStorage.getItem(HK)||'0');
+        if(t&&(Date.now()-t)>THRESHOLD){localStorage.setItem(HK,'0');location.reload(true);}
+      }catch(e){}
+    }
+  });
+})();
+</script>
 </head>
 <body>
 <div class="container">

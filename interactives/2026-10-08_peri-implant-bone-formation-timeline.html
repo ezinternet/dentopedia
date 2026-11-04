@@ -106,6 +106,23 @@ h1{font-family:'Noto Serif KR',Georgia,serif;font-size:23px;font-weight:600;colo
 /* Source */
 .src{font-size:13px;color:var(--fg-3);text-align:right}
 </style>
+<script>
+/* llm-wiki cache-refresh */
+(function(){
+  var HK='_cr_h_2026_10_08_peri_implant_bone_formation_t';
+  var THRESHOLD=30*60*1000;
+  document.addEventListener('visibilitychange',function(){
+    if(document.hidden){
+      try{localStorage.setItem(HK,Date.now());}catch(e){}
+    }else{
+      try{
+        var t=parseInt(localStorage.getItem(HK)||'0');
+        if(t&&(Date.now()-t)>THRESHOLD){localStorage.setItem(HK,'0');location.reload(true);}
+      }catch(e){}
+    }
+  });
+})();
+</script>
 </head>
 <body>
 <div class="page">

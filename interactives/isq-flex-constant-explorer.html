@@ -96,6 +96,23 @@ input[type=range]::-webkit-slider-thumb:active { transform: scale(1.18); }
 .footer { font-size: 0.8rem; color: var(--text-3); line-height: 1.55; text-align: center; padding-top: 0.75rem; border-top: 1px solid var(--border); }
 .footer strong { color: var(--text-2); }
 </style>
+<script>
+/* llm-wiki cache-refresh */
+(function(){
+  var HK='_cr_h_isq_flex_constant_explorer';
+  var THRESHOLD=30*60*1000;
+  document.addEventListener('visibilitychange',function(){
+    if(document.hidden){
+      try{localStorage.setItem(HK,Date.now());}catch(e){}
+    }else{
+      try{
+        var t=parseInt(localStorage.getItem(HK)||'0');
+        if(t&&(Date.now()-t)>THRESHOLD){localStorage.setItem(HK,'0');location.reload(true);}
+      }catch(e){}
+    }
+  });
+})();
+</script>
 </head>
 <body>
 <div class="wrap">

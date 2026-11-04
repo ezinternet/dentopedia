@@ -98,6 +98,23 @@ notes: |
   .footnote { font-size:.78rem; color:var(--muted); margin-top:18px; padding-top:12px; border-top:1px solid var(--line); }
   .caveat { background:#fff8e8; border:1px solid #f0deae; border-radius:10px; padding:12px 14px; font-size:.82rem; color:#7a5c1f; margin-bottom:14px; }
 </style>
+<script>
+/* llm-wiki cache-refresh */
+(function(){
+  var HK='_cr_h_2026_07_03_vrf_risk_calculator';
+  var THRESHOLD=30*60*1000;
+  document.addEventListener('visibilitychange',function(){
+    if(document.hidden){
+      try{localStorage.setItem(HK,Date.now());}catch(e){}
+    }else{
+      try{
+        var t=parseInt(localStorage.getItem(HK)||'0');
+        if(t&&(Date.now()-t)>THRESHOLD){localStorage.setItem(HK,'0');location.reload(true);}
+      }catch(e){}
+    }
+  });
+})();
+</script>
 </head>
 <body>
 <div class="container">

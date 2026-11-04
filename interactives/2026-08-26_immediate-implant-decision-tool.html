@@ -84,6 +84,23 @@ details{border:1px solid var(--line);border-radius:11px;padding:10px 14px;margin
 summary{cursor:pointer;font-weight:700}
 footer{text-align:center;color:var(--muted);font-size:14px;margin-top:24px}
 </style>
+<script>
+/* llm-wiki cache-refresh */
+(function(){
+  var HK='_cr_h_2026_08_26_immediate_implant_decision_to';
+  var THRESHOLD=30*60*1000;
+  document.addEventListener('visibilitychange',function(){
+    if(document.hidden){
+      try{localStorage.setItem(HK,Date.now());}catch(e){}
+    }else{
+      try{
+        var t=parseInt(localStorage.getItem(HK)||'0');
+        if(t&&(Date.now()-t)>THRESHOLD){localStorage.setItem(HK,'0');location.reload(true);}
+      }catch(e){}
+    }
+  });
+})();
+</script>
 </head>
 <body>
 <div class="wrap">

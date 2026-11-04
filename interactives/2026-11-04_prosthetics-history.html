@@ -166,6 +166,23 @@ body{
 </style>
 
 <!-- ═══ HERO ═══ -->
+<script>
+/* llm-wiki cache-refresh */
+(function(){
+  var HK='_cr_h_2026_11_04_prosthetics_history';
+  var THRESHOLD=30*60*1000;
+  document.addEventListener('visibilitychange',function(){
+    if(document.hidden){
+      try{localStorage.setItem(HK,Date.now());}catch(e){}
+    }else{
+      try{
+        var t=parseInt(localStorage.getItem(HK)||'0');
+        if(t&&(Date.now()-t)>THRESHOLD){localStorage.setItem(HK,'0');location.reload(true);}
+      }catch(e){}
+    }
+  });
+})();
+</script>
 <div class="hero">
   <p class="eyebrow">보철재료 종합 개관 · 위키 근거 기반</p>
   <h1>치과보철 재료의<br><em>역사와 발전</em></h1>

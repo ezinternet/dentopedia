@@ -81,6 +81,23 @@ notes: |
   .stat .k{font-size:.74em;color:#6b7280}
   .stat .v{font-size:1.25em;font-weight:800;color:#0f172a}
 </style>
+<script>
+/* llm-wiki cache-refresh */
+(function(){
+  var HK='_cr_h_2026_06_07_free_sugars_caries_ssb_tax_ca';
+  var THRESHOLD=30*60*1000;
+  document.addEventListener('visibilitychange',function(){
+    if(document.hidden){
+      try{localStorage.setItem(HK,Date.now());}catch(e){}
+    }else{
+      try{
+        var t=parseInt(localStorage.getItem(HK)||'0');
+        if(t&&(Date.now()-t)>THRESHOLD){localStorage.setItem(HK,'0');location.reload(true);}
+      }catch(e){}
+    }
+  });
+})();
+</script>
 </head>
 <body>
 <h1>Free Sugars 임계값 + SSB 과세 우식영향 계산기</h1>

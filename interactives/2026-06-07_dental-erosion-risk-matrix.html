@@ -54,6 +54,23 @@ notes: |
   #panel b{color:#1d4ed8}
   .legend{font-size:.74em;color:#8a909a;margin-top:8px}
 </style>
+<script>
+/* llm-wiki cache-refresh */
+(function(){
+  var HK='_cr_h_2026_06_07_dental_erosion_risk_matrix';
+  var THRESHOLD=30*60*1000;
+  document.addEventListener('visibilitychange',function(){
+    if(document.hidden){
+      try{localStorage.setItem(HK,Date.now());}catch(e){}
+    }else{
+      try{
+        var t=parseInt(localStorage.getItem(HK)||'0');
+        if(t&&(Date.now()-t)>THRESHOLD){localStorage.setItem(HK,'0');location.reload(true);}
+      }catch(e){}
+    }
+  });
+})();
+</script>
 </head>
 <body>
 <h1>산성 음료·사탕 침식위험 비교 매트릭스</h1>

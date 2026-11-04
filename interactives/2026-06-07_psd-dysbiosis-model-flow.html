@@ -73,6 +73,23 @@ notes: |
   .lever:hover{background:#10b981;color:#fff}
   .legend{font-size:.74em;color:#8a909a;margin-top:10px}
 </style>
+<script>
+/* llm-wiki cache-refresh */
+(function(){
+  var HK='_cr_h_2026_06_07_psd_dysbiosis_model_flow';
+  var THRESHOLD=30*60*1000;
+  document.addEventListener('visibilitychange',function(){
+    if(document.hidden){
+      try{localStorage.setItem(HK,Date.now());}catch(e){}
+    }else{
+      try{
+        var t=parseInt(localStorage.getItem(HK)||'0');
+        if(t&&(Date.now()-t)>THRESHOLD){localStorage.setItem(HK,'0');location.reload(true);}
+      }catch(e){}
+    }
+  });
+})();
+</script>
 </head>
 <body>
 <h1>PSD 모델 — Dysbiosis Feedforward 플로우</h1>

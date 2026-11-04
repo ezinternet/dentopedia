@@ -115,6 +115,23 @@ select:focus { border-color: var(--accent); }
 section { margin-bottom: 14px; }
 .stitle { font-size: 15.5px; font-weight: 700; margin-bottom: 8px; border-left: 3px solid var(--accent); padding-left: 8px; }
 </style>
+<script>
+/* llm-wiki cache-refresh */
+(function(){
+  var HK='_cr_h_2026_08_26_bruxism_overload_decision_too';
+  var THRESHOLD=30*60*1000;
+  document.addEventListener('visibilitychange',function(){
+    if(document.hidden){
+      try{localStorage.setItem(HK,Date.now());}catch(e){}
+    }else{
+      try{
+        var t=parseInt(localStorage.getItem(HK)||'0');
+        if(t&&(Date.now()-t)>THRESHOLD){localStorage.setItem(HK,'0');location.reload(true);}
+      }catch(e){}
+    }
+  });
+})();
+</script>
 </head>
 <body>
 

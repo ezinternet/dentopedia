@@ -150,6 +150,23 @@ hr.divider { border: none; border-top: 1px solid var(--border); }
 .evidence { font-size: 0.85rem; color: var(--text-3); border-left: 3px solid var(--border); padding: 0.5rem 0.75rem; background: var(--surface-2); border-radius: 0 var(--radius-sm) var(--radius-sm) 0; }
 .evidence strong { color: var(--text-2); }
 </style>
+<script>
+/* llm-wiki cache-refresh */
+(function(){
+  var HK='_cr_h_2026_08_18_under_milling_itv_isq_calcula';
+  var THRESHOLD=30*60*1000;
+  document.addEventListener('visibilitychange',function(){
+    if(document.hidden){
+      try{localStorage.setItem(HK,Date.now());}catch(e){}
+    }else{
+      try{
+        var t=parseInt(localStorage.getItem(HK)||'0');
+        if(t&&(Date.now()-t)>THRESHOLD){localStorage.setItem(HK,'0');location.reload(true);}
+      }catch(e){}
+    }
+  });
+})();
+</script>
 </head>
 <body>
 <div class="wrap">

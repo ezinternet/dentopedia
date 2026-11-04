@@ -151,6 +151,23 @@ notes: |
   .miniflow span { background:var(--accent-soft); color:var(--accent); padding:4px 9px; border-radius:8px; font-weight:600; }
   .miniflow i { color:var(--muted); font-style:normal; }
 </style>
+<script>
+/* llm-wiki cache-refresh */
+(function(){
+  var HK='_cr_h_2026_07_02_parapost_decision_placement';
+  var THRESHOLD=30*60*1000;
+  document.addEventListener('visibilitychange',function(){
+    if(document.hidden){
+      try{localStorage.setItem(HK,Date.now());}catch(e){}
+    }else{
+      try{
+        var t=parseInt(localStorage.getItem(HK)||'0');
+        if(t&&(Date.now()-t)>THRESHOLD){localStorage.setItem(HK,'0');location.reload(true);}
+      }catch(e){}
+    }
+  });
+})();
+</script>
 </head>
 <body>
 <div class="container">

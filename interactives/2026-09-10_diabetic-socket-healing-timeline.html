@@ -12,6 +12,23 @@ source_wiki:
   - wiki/oral-surgery/yang-2022-wound-healing-diabetes-tooth-extraction.md
 ---
 -->
+<script>
+/* llm-wiki cache-refresh */
+(function(){
+  var HK='_cr_h_2026_09_10_diabetic_socket_healing_timel';
+  var THRESHOLD=30*60*1000;
+  document.addEventListener('visibilitychange',function(){
+    if(document.hidden){
+      try{localStorage.setItem(HK,Date.now());}catch(e){}
+    }else{
+      try{
+        var t=parseInt(localStorage.getItem(HK)||'0');
+        if(t&&(Date.now()-t)>THRESHOLD){localStorage.setItem(HK,'0');location.reload(true);}
+      }catch(e){}
+    }
+  });
+})();
+</script>
 <title>발치와 치유 타임라인</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Inter:wght@400;500;600&display=swap">
