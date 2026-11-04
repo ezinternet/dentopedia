@@ -1,0 +1,12 @@
+TITLE: Bacteremia following different oral procedures: Systematic review and meta-analysis
+AUTHORS: Carolina C Martins, Peter B Lockhart, Ramon T Firmino, Catherine Kilmartin, Thomas J Cahill, Mark Dayer, Ingrid G P Occhi-Alexandre, Honghao Lai, Long Ge, Martin H Thornhill
+JOURNAL: Oral diseases
+ID[doi]: 10.1111/odi.14531
+ID[pmid]: 36750413
+YEAR: 2023
+
+ABSTRACT:
+To evaluate the timing, duration and incidence of bacteremia following invasive dental procedures (IDPs) or activities of daily living (ADL). Eight databases were searched for randomized (RCTs) and nonrandomized controlled trials (nRCTs) evaluating bacteremia before and after IDPs or ADL in healthy individuals. The risk of bias was assessed by RoB 2.0 and ROBINS-I. For the meta-analysis, the primary outcomes were the timing and duration of bacteremia. The secondary outcome was the incidence of bacteremia, measuring the proportion of patients with bacteremia within 5 min after the end of the procedure compared with baseline. We included 64 nRCTs and 25 RCTs. Peak bacteremia occurred within 5 min after the procedure and then decreased over time. Dental extractions showed the highest incidence of bacteremia (62%-66%), followed by scaling and root planing (SRP) (44%-36%) and oral health procedures (OHP) (e.g., dental prophylaxis and dental probing without SRP) (27%-28%). Other ADL (flossing and chewing) (16%) and toothbrushing (8%-26%) resulted in bacteremia as well. The majority of studies had some concerns RCTs or moderate risk of bias nRCTs. Dental extractions, SRP and OHP, are associated with the highest frequency of bacteremia. Toothbrushing, flossing, and chewing also caused bacteremia in lower frequency.
+
+KEYWORDS: antibiotic prophylaxis; bacteraemia; cardiovascular disease; distant site infection; infective endocarditis; invasive dental procedures; oral hygiene; prosthetic joint infection
+CITATION: Oral diseases 2023;30(3):846-854
