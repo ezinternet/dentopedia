@@ -2,7 +2,7 @@
 title: "임플란트·주위염 — peri-implantitis"
 authors: navigation
 year: 2026
-date: 2026-10-21
+date: 2026-11-04
 doi: N/A
 source: navigation
 category: implants/peri-implantitis
@@ -15,20 +15,20 @@ tags: [navigation, category-index, peri-implantitis]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·주위염
 > - **범위**: Peri-implantitis prevalence, risk factors, non-surgical/surgical treatment, surface decontamination, GBR for peri-implant defects
-> - **수록 논문**: 89편
+> - **수록 논문**: 93편
 
 ## Three-line Summary
 
 **Scope**: Peri-implantitis prevalence, risk factors, non-surgical/surgical treatment, surface decontamination, GBR for peri-implant defects
-**Indexed papers**: 89 papers in `wiki/implants/peri-implantitis/`.
+**Indexed papers**: 93 papers in `wiki/implants/peri-implantitis/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·주위염
-**수록 논문**: 89편
+**수록 논문**: 93편
 **하위 카테고리**: 없음
 
-## Papers in this Category (89)
+## Papers in this Category (93)
 
 | Paper |
 |---|
@@ -60,8 +60,10 @@ tags: [navigation, category-index, peri-implantitis]
 | [[ferrarotti-2026-residual-periodontal-pockets-at-implant|Residual Periodontal Pockets at Implant Placement as Risk Indicator for Peri-Implantitis: A Systematic Review]] |
 | [[galarraga-vinueza-2020-macrophage-polarization-peri-implantitis-lesions|Macrophage polarization in peri-implantitis lesions]] |
 | [[galarraga-vinueza-2025-peri-implant-disease-risk-factors|Prevalence, incidence, systemic, behavioral, and patient-related risk factors and indicators for peri-implant diseases: An AO/AAP systematic review and meta-analysis]] |
+| [[gao-2024-prevention-retrograde-peri-implantitis-pulpal|Prevention of retrograde peri-implantitis caused by pulpal/periapical lesions in adjacent teeth: A literature review]] |
 | [[gardelis-2025-implant-surface-modifications-peri-implantitis|Implant Surface Modifications and Long-Term Surgical Peri-Implantitis Outcome: A Systematic Review]] |
 | [[giok-2024-risk-factors-peri-implantitis-umbrella|Risk factors for Peri-implantitis: An umbrella review of meta-analyses of observational studies and assessment of biases]] |
+| [[gong-2022-novel-histopathological-classification-implant|A novel histopathological classification of implant periapical lesion: A systematic review and treatment decision tree]] |
 | [[grusovin-2022-antibiotics-non-surgical-peri-implantitis-ma|Antibiotics as Adjunctive Therapy in the Non-Surgical Treatment of Peri-Implantitis: A Systematic Review and Meta-Analysis]] |
 | [[hakkers-2026-adjunctive-systemic-amoxicillin-and-metronidazole|Adjunctive Systemic Amoxicillin and Metronidazole Following Surgical Peri-Implantitis Treatment: A Single-Blind Randomised Controlled Trial With a 1-Year Follow-Up]] |
 | [[hakkers-2026-reconstructive-peri-implantitis-3wall-4wall-rct|Surgical Reconstructive Peri-Implantitis Treatment for 3- and 4-Wall Bone Defects: A Single-Blind Randomised Controlled Trial With a 1-Year Follow-Up]] |
@@ -69,6 +71,7 @@ tags: [navigation, category-index, peri-implantitis]
 | [[holtzman-2026-effect-of-connective-tissue-graft|Effect of Connective Tissue Graft as an Adjunct to Guided Bone Regeneration in the Surgical Treatment of Peri-Implantitis: A Dual-Center Randomized Controlled Trial]] |
 | [[hong-2024-peri-implantitis-treatment-protocol-flowchart|Peri-implantitis treatment options and a proposed treatment protocol and flowchart]] |
 | [[isler-2025-long-term-treatment-outcomes-peri-implantitis|Long-Term Treatment Outcomes of Peri-Implantitis Reconstructive Therapy: 7-Year Survival and Success of a Randomized Clinical Trial]] |
+| [[isola-2025-impact-and-efficacy-of-systemic|Impact and efficacy of systemic antibiotics for peri-implant diseases treatment: A systematic review and meta-analysis on clinical and microbiological outcomes]] |
 | [[javiya-2025-peri-implantitis-etiology-prevention-management-strategies|Peri-implantitis: Etiology, prevention and management strategies]] |
 | [[jepsen-2015-primary-prevention-periimplantitis-managing-mucositis|Primary prevention of peri-implantitis: Managing peri-implant mucositis (11th European Workshop, Group 4)]] |
 | [[jervoe-storm-2024-photodynamic-therapy-periodontal-periimplant-diseases|Adjunctive antimicrobial photodynamic therapy for treating periodontal and peri-implant diseases]] |
@@ -109,6 +112,7 @@ tags: [navigation, category-index, peri-implantitis]
 | [[roccuzzo-2025-keratinized-mucosa-peri-implant-20year-mandible|Role of Keratinized Mucosa on the Risk of Peri-Implant Diseases and Soft Tissue Dehiscence in the Posterior Mandible—A 20-Year Prospective Cohort Study]] |
 | [[sabri-2025-keratinized-mucosa-implant-health-umbrella-review|Significance of peri-implant keratinised mucosa on implant health: An umbrella systematic review with evidence mapping and quantitative meta-meta-analysis]] |
 | [[sbricoli-2026-peri-implant-disease-prevalence-type2-diabetes|Prevalence of Peri-Implant Diseases in Patients With Type 2 Diabetes Mellitus: A Cross-Sectional Study]] |
+| [[shah-2016-radiographic-classification-retrograde-peri-implantitis|A Radiographic Classification for Retrograde Peri-implantitis]] |
 | [[shetty-2023-platelet-concentrates-peri-implantitis-treatment-sr|Effect of platelet concentrates on the treatment outcome of peri implantitis: A systematic review]] |
 | [[smeets-2014-peri-implantitis-definition-etiology-review|Definition, etiology, prevention and treatment of peri-implantitis – a review]] |
 | [[soldini-2025-reconstructive-therapy-peri-implantitis-rct|Reconstructive Therapy of Peri-Implantitis Following Non-Surgical Treatment: An RCT]] |
