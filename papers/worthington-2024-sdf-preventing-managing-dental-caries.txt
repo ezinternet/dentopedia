@@ -1,0 +1,54 @@
+Topical silver diamine fluoride (SDF) for preventing and managing dental caries in children and adults
+
+Cochrane Database of Systematic Reviews 2024
+DOI: 10.1002/14651858.CD012718.pub2
+PMID: 39508296 | PMC: PMC11542151
+
+AUTHORS: Worthington et al.
+Evidence current to: June 2023
+
+BACKGROUND
+Dental caries is the world's most prevalent disease. SDF is a low-cost liquid that can be painted on a tooth by a dentist or other trained person. It may permanently stain treated tooth surfaces black or dark brown. This review evaluates SDF for preventing and managing caries in primary and permanent teeth.
+
+OBJECTIVES
+To assess the effects of silver diamine fluoride (SDF) for preventing and managing caries in primary and permanent teeth (coronal and root caries) compared to any other intervention including placebo or no treatment.
+
+INCLUDED STUDIES
+29 RCTs
+- 13,036 participants total: 12,020 children, 1016 older adults
+- All studies had high risks of bias
+
+FIVE KEY COMPARISONS:
+
+1. SDF vs placebo/no treatment (14 studies; 2695 children, 905 older adults)
+- NEW root caries prevention: SDF likely prevents (MD -0.79 surfaces, 95% CI -1.40 to -0.17; 3 studies, 439 participants; MODERATE certainty)
+- NEW caries primary dentition: may help prevent but very uncertain (1 study, 373 participants; VERY LOW certainty)
+- NEW caries permanent dentition (coronal): may help but very uncertain (1 study, 373 participants; VERY LOW certainty)
+- Caries ARREST primary dentition: may help (MD 0.86 surfaces, 95% CI 0.39 to 1.33; 2 studies, 841 participants; LOW certainty)
+- Caries arrest permanent dentition: very uncertain (1 study each for coronal and root; VERY LOW)
+- Secondary prevention: very uncertain
+- Adverse effects: very uncertain (5 studies, 1299 participants)
+- Aesthetics: very uncertain (1 study, 43 participants)
+
+2. Different SDF application approaches (5 studies, 1808 children)
+- Different frequencies, concentrations, durations compared
+- Very low certainty — cannot determine if any approach better than another
+
+3. SDF vs fluoride varnish (8 studies; 2868 children, 223 older adults)
+- Primary dentition caries prevention: may be little/no difference (MD 0.00, 95% CI -0.26 to 0.26; 1 study; LOW certainty)
+- Other outcomes: very uncertain throughout
+
+4. SDF vs sealants and resin infiltration (2 studies, 343 children)
+- Very low certainty — unable to determine if difference in primary prevention permanent teeth
+
+5. SDF vs ART with GIC/GI material (4 studies, 610 children)
+- Very low certainty — unable to determine if difference in caries arrest primary dentition
+
+AUTHORS' CONCLUSIONS
+- SDF probably prevents new root caries vs placebo (moderate certainty)
+- Uncertain whether SDF prevents new caries in primary or coronal permanent teeth vs placebo
+- SDF may help arrest caries in primary teeth vs placebo (low certainty)
+- SDF vs fluoride varnish: may be little/no benefit for primary dentition caries prevention
+- Cannot establish optimal SDF application approach
+- Staining impact poorly reported; adverse effects evidence very uncertain
+- Need additional well-conducted studies addressing staining and clustering issues
