@@ -14,6 +14,9 @@ source_papers:
   - wiki/prosthetic-materials/laumbacher-2021-zirconia-prosthetic-restorations-long-term-sr.md
   - wiki/prosthetic-materials/laumacher-2025-lithium-disilicate-single-crowns-overview-sr.md
   - wiki/prosthetic-materials/tajti-2023-monolithic-zirconia-metal-ceramic-implant-crowns-sr-ma.md
+  - wiki/prosthetic-materials/romandini-2026-allceramic-metalceramic-fdps-multiunit-survival-sr-ma.md
+  - wiki/prosthetic-materials/guth-2024-high-translucent-zirconia-fdp-3year-prospective.md
+  - wiki/prosthetic-materials/humm-2023-zirconia-titanium-abutments-13year-rct.md
 tags: [history, prosthetic-materials, metal-ceramic, all-ceramic, zirconia, lithium-disilicate, CAD-CAM, evolution, synthesis]
 evidence_level: synthesis
 ---
@@ -26,7 +29,7 @@ evidence_level: synthesis
 > - **전세라믹 1세대 도전**: Sailer 2015 SR(67편): LD·알루미나는 PFM과 동등, 지르코니아 생존율도 92.1%로 충분하나 베니어 치핑 문제로 1차 선택 비권장
 > - **지르코니아 분류 체계 확립**: Ban 2021 — 이트리아 함량·단/다색·조성·층수 4축으로 12종 분류; 3Y→5Y: 강도↓·투명도↑ 트레이드오프; ATZ/NanoZR은 임플란트 고정체용
 > - **투명 지르코니아 임상화**: Kui 2023 — 모놀리식 디자인으로 치핑 문제 해결; 4Y/5Y-TZP로 LD 수준 심미 가능; 속성 소결은 3Y-PSZ만 안전(Aboushelib 2026)
-> - **현재 근거 종합** (Pjetursson 2026 SR+MA, 2014–2024): 모놀리식 지르코니아 = 금속도재관 동등 — 베니어링 없이 PFM을 대체하는 임상적 완성
+> - **현재 근거 종합** (Pjetursson 2026 Part 1 단관 + Romandini 2026 Part 2 다유닛): 모놀리식 지르코니아 = 금속도재관 동등(단관·다유닛 모두) — LD 다유닛 FDP는 MC보다 유의하게 낮음(82.5%, p<0.05); 5Y-PSZ 다유닛 최초 임상 데이터(Güth 2024: 100% 생존, 기계적 합병증 0); 지르코니아 어버트먼트 13년 RCT(Humm 2023): Ti 동등
 > - **디지털 전환**: CAD/CAM이 보철 패러다임 변화 가속; Ti-base 지대주 표준화; 모놀리식 밀링으로 기공 단계 간소화
 > - **임상 takeaway**: 오늘날 단단관 1차 선택 = 모놀리식 3Y/4Y-TZP(구치) + LD(전치); PFM은 특수 목적으로 한정; 베니어드 지르코니아는 치핑 위험 때문에 적응증 축소
 
@@ -161,11 +164,34 @@ The engineering solution was **monolithic design**: milling the entire crown fro
 - **Grinding (chairside occlusal adjustment)**: significantly reduces BOTH types → must be followed by polishing
 - **Glass bead treatment**: significantly improves 3Y-PSZ strength → preferred surface preparation for adhesive protocols
 
-### The Updated Evidence: Pjetursson 2026
+### The Updated Evidence: Pjetursson 2026 + Romandini 2026
 
-[[prosthetic-materials/pjetursson-2026-metal-ceramic-all-ceramic-crowns-survival-sr-ma]] (2014–2024 literature, same methodology as Sailer 2015) provides the definitive current verdict:
+[[prosthetic-materials/pjetursson-2026-metal-ceramic-all-ceramic-crowns-survival-sr-ma]] (Part 1, single crowns) and [[prosthetic-materials/romandini-2026-allceramic-metalceramic-fdps-multiunit-survival-sr-ma]] (Part 2, multi-unit FDPs) together cover the entire fixed prosthetic landscape from 2014–2024.
 
-**Monolithic zirconia performs equivalently to metal-ceramic when veneering is avoided.** This SR+MA closed the clinical case that began in 2015 — zirconia had evolved from a problematic alternative to a primary option, achievable through the monolithic design shift.
+**Single crowns (Pjetursson 2026):** Monolithic zirconia performs equivalently to metal-ceramic when veneering is avoided — the definitive current verdict closing the clinical case begun in 2015.
+
+**Multi-unit FDPs (Romandini 2026, 41 studies, n=2,132):**
+
+| Material | 5-Year Survival | vs MC |
+|---|---|---|
+| Veneered dense-sintered Zr | 92.9% | NS |
+| Metal-ceramic (reference) | 91.3% | — |
+| Glass-infiltrated alumina | 88.4% | NS |
+| Monolithic dense-sintered Zr | 87.9% | NS |
+| LD glass-ceramic | 82.5% | p<0.05 (sig. lower) |
+
+Key contrast with single crowns: LD FDPs have significantly lower survival than MC in multi-unit scenario (p<0.05), while LD single crowns are equivalent. Framework fractures >10% at 5yr for LD + glass-infiltrated alumina. Monolithic Zr: least chipping, MC-equivalent survival — **preferred all-ceramic option for multi-unit FDPs**.
+
+### First Clinical Evidence for 5Y-PSZ Multi-unit FDPs
+
+[[prosthetic-materials/guth-2024-high-translucent-zirconia-fdp-3year-prospective]] (Güth 2024, prospective pilot, N=22, posterior 3-unit 5Y-PSZ, 3yr) fills a critical gap — no prior clinical data existed for high-translucent cubic zirconia in multi-unit FDPs:
+
+- 100% survival, **zero mechanical complications** (zero chipping)
+- All FDI criteria acceptable or better
+- Material: Lava Esthetic (800 MPa, 1,200 HV, 216 GPa)
+- Protocol: air abrasion 50 μm + RelyX Universal cement
+
+This is the first evidence that 5Y-PSZ, previously considered only for anterior single crowns due to lower strength, can survive posterior multi-unit loading without mechanical failure at 3 years.
 
 ---
 
@@ -178,7 +204,7 @@ The adoption of CAD/CAM technology transformed prosthetic workflows independentl
 1. **Digital impressions** replacing conventional silicone — dimensional accuracy improved; patient comfort enhanced
 2. **CAD design** replacing wax-up — standardized anatomical libraries; parametric design
 3. **5-axis milling** of monolithic restorations — same-day crowns possible (3Y-PSZ only); reduced laboratory steps
-4. **Ti-base abutments** becoming standard for implant restorations — [[prosthetic-materials/strasding-2024-cadcam-implant-supported-fdps-material-abutment]]: Ti-base provides superior fracture resistance vs. monolithic zirconia abutments; enables ceramic crown customization atop a standardized titanium interface
+4. **Ti-base abutments** becoming standard for implant restorations — [[prosthetic-materials/strasding-2024-cadcam-implant-supported-fdps-material-abutment]]: Ti-base provides superior fracture resistance vs. monolithic zirconia abutments; enables ceramic crown customization atop a standardized titanium interface. For customized ceramic abutments without Ti-base, [[prosthetic-materials/humm-2023-zirconia-titanium-abutments-13year-rct]] (RCT 13yr, n=40, posterior) confirms 100% technical survival of customized zirconia abutments, equivalent periimplant outcomes vs Ti abutments — the longest RCT evidence for ceramic abutment longevity
 
 ### Material Selection Algorithm (2024)
 
@@ -216,3 +242,6 @@ Based on the cumulative evidence:
 - [[prosthetic-materials/laumbacher-2021-zirconia-prosthetic-restorations-long-term-sr]] — long-term zirconia SR summary
 - [[prosthetic-materials/laumacher-2025-lithium-disilicate-single-crowns-overview-sr]] — LD single crown outcomes overview
 - [[prosthetic-materials/tajti-2023-monolithic-zirconia-metal-ceramic-implant-crowns-sr-ma]] — monolithic zirconia vs PFM implant crowns SR+MA
+- [[prosthetic-materials/romandini-2026-allceramic-metalceramic-fdps-multiunit-survival-sr-ma]] — multi-unit FDP material survival SR+MA (Part 2, 2026)
+- [[prosthetic-materials/guth-2024-high-translucent-zirconia-fdp-3year-prospective]] — first clinical data: 5Y-PSZ multi-unit posterior FDPs (3yr prospective)
+- [[prosthetic-materials/humm-2023-zirconia-titanium-abutments-13year-rct]] — zirconia vs titanium abutments 13yr RCT (longest available)
