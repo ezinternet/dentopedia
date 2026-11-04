@@ -55,6 +55,44 @@ Plasma is most rationale as a chairside pre-placement re-activation tool for age
 
 체어사이드 식립 직전 노화 fixture 재활성화·연조직(D3/D4)·하악·단폭 fixture에서 가장 합리적, 또는 rhBMP-2 같은 생체활성 코팅의 담체(Cho 2025); 효과는 숙주 골형성능에 의존(Berger 2022: 수컷에서만 유의); "오래 처리할수록 좋다"는 틀림.
 
+---
+
+## 한국 체어사이드 DBD — 디바이스 파라미터
+
+한국산 임상용 플라즈마 기기는 모두 **가스無 유전체 장벽 방전 (Gas-free Dielectric Barrier Discharge, DBD)**, 처리 15초~2분. 독일 Diener 챔버형(아르곤 충전, 10–15분)과는 완전히 다른 계열.
+
+| 논문 근거 | 기기명 | 제조사 | 압력 | 방전 방식 | 처리 시간 |
+|---|---|---|---|---|---|
+| [[implants/surface/plasma/jeon-2024-vortex-direct-plasma-titanium-surface]] (direct) | ACTILINK Reborn | Plasmapp (KR) | ~10 Torr | 100 kHz/~3 kV DBD | 15 s |
+| [[implants/surface/plasma/stacchi-2025-vacuum-plasma-early-implant-stability-rct]] | **Plasma X Motion** | **MegaGen (KR)** | <10 Torr/<13 mbar | 3 kV DBD | **~50 s** |
+| [[implants/surface/plasma/jeon-2024-vortex-direct-plasma-titanium-surface]] (vortex) | ACTILINK Reborn | Plasmapp (KR) | ~10 Torr | 100 kHz/~3 kV DBD | 30 s |
+| [[implants/surface/plasma/kahm-2024-vacuum-plasma-surface-treatment-osseointegration]] | ACTILINK mini | Plasmapp (KR) | ~5 Torr | DBD | 60 s |
+| [[implants/surface/plasma/kwon-2024-actlink-plasma-rct-osseointegration-bone-regeneration]] | ACTILINK system | Plasmapp (KR) | <10 Torr | 3 kV DBD | ~1 min |
+| [[implants/surface/plasma/lee-h-2022-dbd-plasma-titanium-implant-osseointegration]] | ACTILINK (proto) | Plasmapp (KR) | 5–10 Torr | 100 kHz/3 kV DBD | 60 s |
+| [[implants/surface/plasma/kim-2025-plasma-surface-treatment-implant-stability-retrospective]] | ACTILINK Reborn | Plasmapp (KR) | 5–10 Torr | DBD 4-phase | 60 s ×2 (실 방전 ~16 s) |
+
+> [!warning] 과처리 금지 — 용량 비단조성
+> **60초 최적** (Lee 2022: 300–600초는 세균 부착 오히려 ↑). 항균효과는 ~24h 지속 후 **72h 소실** (Yang 2021) → 처리 후 보관하지 말고 **즉시 식립**.
+
+## 임상 결정 프레임
+
+| 적응증 | 플라즈마 근거 | 근거 출처 | 주의 |
+|---|---|---|---|
+| 체어사이드 식립 직전 재활성화 (노화 fixture) | 합리적 | Stacchi RCT, Kim 코호트; 동물(Nevins/Jang/Naujokat/Zheng) | 사람 효과 소; 처리 후 즉시 식립 |
+| 연골(D3/D4) / 초기 안정성 낮은 부위 | 가장 타당 | Kim 하위그룹(저 임플란트 안정성 지수(ISQ) 군이 가장 이득); 동물 골-임플란트 접촉률(BIC) ↑ | 단기 ISQ 한정 |
+| 하악, 단폭 fixture, 높은 삽입 토크 | 상대적 이득 큼 | Kim 하위그룹 | 비대조 코호트 |
+| 빠른 골유착 / 조기 로딩 | 초기 가속만 — 최종치 ↑ 아님 | Jang/Danna 수렴; Stacchi late-only | 하중/생존 데이터 없음; 8주에 대조군 따라잡음 |
+| 오염/치주염주위염 (Peri-implantitis) 표면 제염 보조 | 가능성 있는 보조수단 | Alqutaibi SR, Jungbauer SR, Shahraki 2026 SR(77편) | in vitro 한정; 짧은 프로토콜; 효과 시간 감소 |
+| SLActive 대안 (비용) | 비열등(Non-inferiority) 주장 가능 | Long 비글; 비교 가능 | 동물; 우월성 아님 |
+| 치은관통부 연조직 | 초기 근거 있음 | Hadzik (섬유아세포 ↑) | 예비 in vitro |
+| 지르코니아 크라운 시멘트 유지력 | 열순환 후 무효 | Kim-2021 | 열순환 노화 후 이득 소실 |
+| **더 오래 처리 = 더 좋음** | ❌ 불가 | Lee (≥300 s 세균 ↑), Yang (24 h 소실) | 과처리 역효과 |
+| 점막 안전성 | 전임상 확인 | Jablonowski (마우스) | 기기/용량 특이적; 단기 |
+| **플라즈마 + 생체활성 코팅 (담체 역할)** | 현재 가장 방어 가능한 근거 | Cho 2025 비글: 플라즈마+저용량 rhBMP-2만 BIC 83.91% 유의 (플라즈마 단독 비유의) | 동물 한정; 단일 용량; 사람 미검증 |
+| **숙주 성별/골형성능 의존성** | 효과 조절인자 (임상 미적용) | Berger 2022 토끼: 수컷만 BIC·토크 유의, 암컷 기저치 높아 가려짐 | 동물 한정; 사람 성별층화 없음 |
+
+---
+
 ## Thesis
 
 Plasma is a chairside surface re-activation tool, not a new implant class. Titanium surfaces age biologically (hydrocarbon accumulation, falling wettability); plasma reverses that — carbon down, hydrophilicity/surface energy up, morphology and elemental composition unchanged — which improves early cell response and, in animals, early bone-to-implant contact. The same reactive oxygen/nitrogen species kill bacteria, giving a second rationale (decontamination / peri-implantitis). The 2nd-batch human studies upgrade the evidence from "pre-clinical only" to "early human signal present, but small": the controlled RCT (Stacchi) reached significance only at 60/90 days with a limited absolute ISQ gap, the other RCT (Kwon) was negative on stability, and the cohort (Kim) lacks a control. The honest through-line — visible in rat, dog, and human alike — is that plasma buys *speed* in the early healing window; the untreated control tends to catch up, and a higher final plateau is not demonstrated.
@@ -63,21 +101,7 @@ Plasma is a chairside surface re-activation tool, not a new implant class. Titan
 
 **2026-08 addition — what the "hydrocarbon" plasma removes chemically *is*.** This wiki cluster (and its sibling UV-photofunctionalization cluster) had established only that hydrocarbon accumulates and that plasma/UV removes it, without specifying the chemistry. Wagstaffe 2019 (XPS/STM, a general Ti-surface-chemistry paper shared with the UV overview) resolves this: the adventitious contamination on air-exposed titania is predominantly small organic acids (e.g. formic, acetic acid) that chemisorb via deprotonated carboxylate groups bridging to under-coordinated surface Ti cations — not a generic oil or grease film. Plasma's reactive oxygen/nitrogen species most plausibly act by dissociating this specific carboxylate-titanium bond, giving the "carbon ↓" surface-physics finding (Zheng, Lee-H, Ho, Wagner, Zeng, Jeon, Yang above) a molecular mechanism rather than a black-box description. The same paper shows SLActive (etched/stored to minimize this layer) adsorbs substantially more RGD peptide than SLA at every pH tested — direct surface-chemistry evidence that it is the *displaceability* of this organic-acid layer, not surface hydrophilicity per se, that governs biomolecule uptake. This has a practical corollary already visible in the sibling UV cluster (Houshmand 2023): a contact-angle improvement alone does not prove the layer was actually removed — one UV wavelength (UVB) improved wettability without significantly reducing surface carbon/nitrogen on the same disk batch that a shorter wavelength (UVC) did clear. Plasma protocols validated mainly by contact-angle or qualitative wettability change (rather than XPS carbon quantification) should be read with the same caution.
 
-**2026-08 addition — how long does a "vacuum plasma" cycle actually take?** A user question about a specific chairside device (MegaGen Plasma X Motion) prompted a full device-parameter audit of every paper in this cluster that reports one. The result resolves an apparent contradiction: **"vacuum plasma" spans two unrelated device categories with a ~15× duration gap between them**, and duration tracks device design, not pressure regime per se.
-
-| Paper | Device | Maker | Pressure | Discharge | Duration |
-|---|---|---|---|---|---|
-| [[implants/surface/plasma/jeon-2024-vortex-direct-plasma-titanium-surface]] (direct) | ACTILINK reborn | Plasmapp (KR) | ~10 Torr | 100 kHz/~3 kV DBD | 15 s |
-| [[implants/surface/plasma/stacchi-2025-vacuum-plasma-early-implant-stability-rct]] | Plasma X Motion | MegaGen (KR) | <10 Torr/<13 mbar | 3 kV DBD | ~50 s |
-| [[implants/surface/plasma/jeon-2024-vortex-direct-plasma-titanium-surface]] (vortex) | ACTILINK reborn | Plasmapp (KR) | ~10 Torr | 100 kHz/~3 kV DBD | 30 s |
-| [[implants/surface/plasma/kahm-2024-vacuum-plasma-surface-treatment-osseointegration]] | ACTILINK mini | Plasmapp (KR) | ~5 Torr | DBD | 60 s |
-| [[implants/surface/plasma/kwon-2024-actlink-plasma-rct-osseointegration-bone-regeneration]] | ACTILINK system | Plasmapp (KR) | <10 Torr | 3 kV DBD | ~1 min |
-| [[implants/surface/plasma/lee-h-2022-dbd-plasma-titanium-implant-osseointegration]] | ACTILINK (proto) | Plasmapp (KR) | 5–10 Torr | 100 kHz/3 kV DBD | 60 s |
-| [[implants/surface/plasma/kim-2025-plasma-surface-treatment-implant-stability-retrospective]] | ACTILINK Reborn | Plasmapp (KR) | 5–10 Torr | DBD, 4-phase | 60 s ×2 cycles (only ~16 s actual discharge) |
-| [[implants/surface/plasma/becker-2019-lpp-app-plasma-proinflammatory-cytokines]] (LPP arm) | Femto PCCE | Diener (DE) | 50 Pa, Ar-filled | 200 W glow | 15 min |
-| (cited by Lee-H 2022, not separately ingested) | chamber-type | Diener (DE) | — | Ar-filled | "at least 10 min" |
-
-Every Korean chairside dental-implant device in this cluster — regardless of manufacturer (MegaGen, Plasmapp) or model generation — is a **gas-free dielectric barrier discharge (DBD)** running **15 s to 2 min**. The one slow outlier (Diener, Germany) is a lab-grade **argon-fed glow-discharge chamber**, independently confirmed slow in two unrelated papers (Becker 2019's own LPP arm, and Lee-H 2022's citation of it as their explicit motivation to build a faster gas-free alternative). So a "vacuum plasma takes 1 minute" training almost certainly reflects the Korean chairside DBD family, which now dominates this cluster's device coverage — not a general vacuum-vs-atmospheric-pressure physics rule. Kim 2025 additionally revealed a **paper-internal terminology inconsistency**: its abstract calls the ACTILINK Reborn "atmospheric pressure plasma" while its own Methods describes vacuum operation at 5–10 Torr — a reminder to check device Methods text directly rather than trust abstract-level device-category labels.
+**2026-08 addition — device parameter audit.** Full device-parameter table is in **§ 한국 체어사이드 DBD — 디바이스 파라미터** above. Summary: every Korean chairside device (MegaGen, Plasmapp) is a **gas-free DBD running 15 s–2 min** — fundamentally different from the lab-grade Diener argon-chamber (10–15 min). The apparent contradiction between "Korean vacuum plasma ≈ 1 min" and "vacuum plasma = slow" arises from conflating these two unrelated device categories. Kim 2025 also revealed a paper-internal inconsistency: abstract calls ACTILINK Reborn "atmospheric pressure plasma," while its own Methods describes vacuum operation at 5–10 Torr — always check Methods text directly, not abstract device labels.
 
 ## Where the evidence converges (direction)
 
@@ -103,20 +127,7 @@ Every Korean chairside dental-implant device in this cluster — regardless of m
 
 ## Clinical decision frame
 
-| Scenario | Plasma rationale | Evidence basis | Caveat |
-|---|---|---|---|
-| Chairside re-activation immediately before placement (aged fixture) | Reasonable | Stacchi RCT, Kim cohort; animal (Nevins/Jang/Naujokat/Zheng) | small human effect; place promptly after treatment |
-| Soft (D3/D4) / low-initial-stability sites where early stability matters | Most plausible | Kim subgroup (low-ISQ gains most); animal BIC↑ | short-term ISQ only |
-| Mandible, shorter fixtures, higher insertion torque | Greater relative gain | Kim subgroup | uncontrolled cohort |
-| Faster osseointegration / earlier loading ambition | Speed only, not higher final | Jang/Danna convergence; Stacchi late-only | no loading/survival data |
-| Decontaminating contaminated/peri-implantitis surface | Plausible adjunct | Alqutaibi, Jungbauer, Lee, Zeng, Yang | in-vitro; short protocol; effect time-decays |
-| Plasma as cheaper alternative to SLActive | Defensible (non-inferiority) | Long (beagle, comparable) | animal; not superiority |
-| Transgingival/soft-tissue collar | Emerging | Hadzik (fibroblast↑) | preliminary in vitro |
-| Zirconia crown cement retention | Not supported after aging | Kim-2021 | benefit lost on thermocycling; +primer worse |
-| Longer treatment = better | No | Lee (≥300 s↑ adhesion), Yang (24 h decay) | over-treatment backfires |
-| Mucosal safety of chairside CAP | Screened pre-clinically | Jablonowski (mouse) | device/dose-specific; short-term |
-| **Plasma as bioactive-coating carrier (2026-08)** | Most defensible use of plasma-alone protocols so far | Cho 2025 (beagle, plasma+rhBMP-2 sig, plasma-alone NS) | animal only; single low rhBMP-2 dose; ISQ did not detect the BIC gain |
-| **Host sex / baseline bone-forming capacity (2026-08)** | Effect modifier, not yet actionable clinically | Berger 2022 (rabbit, males sig, females NS) | animal model only; human sex-stratified data absent |
+→ See **§ 임상 결정 프레임** table above (moved to after the device-parameter section for clinical-first access).
 
 ## Open questions / verification needed
 
@@ -128,7 +139,7 @@ Every Korean chairside dental-implant device in this cluster — regardless of m
 - **(2026-08)** Test the plasma-as-coating-carrier hypothesis (Cho 2025) with other bioactive agents and in human trials — is plasma's main value as a reactivation tool or as a delivery enhancer?
 - **(2026-08)** Sex/host bone-quality stratification in future human plasma RCTs — none of the 3 existing human studies (Stacchi, Kwon, Kim) report sex-stratified results, so Berger's animal-model sex effect is currently untestable in the human evidence tier.
 
-## Papers Synthesized (27)
+## Papers Synthesized (29)
 
 Reviews / SR / MA (5):
 - [[implants/surface/plasma/dai-2025-cold-atmospheric-plasma-prosthodontics]] — 2025 umbrella (bonding/antibacterial/implant; 154 pubs).
