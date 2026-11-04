@@ -1,0 +1,31 @@
+Nasoalveolar moulding therapy in children with orofacial clefts
+
+Cochrane Database of Systematic Reviews 2026 (Protocol)
+DOI: 10.1002/14651858.CD016359
+PMID: 42579890 | No PMC available
+
+AUTHORS: Takahashi M, Yamaji N, Koide Y, Koizumi S, Sanda M, Takamatsu K, Noma H, Ota E, Yamaguchi T, Hasegawa T
+(Kanagawa Dental University; Showa Medical University; University of Tokyo)
+
+NOTE: This is a PROTOCOL — no results available yet. Awaiting full review.
+
+MESH TERMS: Child; Humans; Cleft Lip; Cleft Palate; Nasoalveolar Molding; Review Literature as Topic
+
+BACKGROUND (from metadata)
+Nasoalveolar moulding (NAM) therapy is a presurgical orthopaedic (PSO) approach used in neonates with orofacial clefts (cleft lip, cleft palate, or both). It uses customized intraoral appliances with nasal stents to mould and reshape the alveolar segments, lip, and nose before primary surgical repair. The goal is to reduce the severity of the cleft, improve nasal and lip symmetry, and potentially improve surgical outcomes.
+
+OBJECTIVES
+To assess the benefits and harms of NAM therapy compared with no PSO treatment in children with orofacial clefts.
+
+INTERVENTIONS
+- Experimental: Nasoalveolar moulding (NAM) therapy (presurgical orthopaedic treatment)
+- Control: No presurgical orthopaedic treatment
+
+POPULATION
+Children with orofacial clefts (cleft lip and/or cleft palate)
+
+CLINICAL CONTEXT
+NAM is used extensively in some centres but its benefits vs harms remain controversial. The technique requires significant clinician expertise and patient/family compliance over several weeks before surgery. This protocol aims to synthesize RCT evidence to clarify whether NAM improves outcomes compared to no presurgical treatment.
+
+STATUS: Protocol — currently awaiting RCT identification, data extraction, and synthesis.
+Year: 2026 (Publication date: 2026-07-01)
