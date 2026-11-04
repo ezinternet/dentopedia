@@ -551,6 +551,7 @@ tags: []
 - [[bone-regeneration/ridge-preservation/talebi-ardakani-2024-comparison-histological-clinical]] — 동종골 동결건조골(Allograft) + 주사형 혈소판풍부피브린(I-PRF) 병용 vs 동종골 단독 치조제보존: I-PRF군 신생골 형성 및 치조폭 손실 유의 감소(이중맹검 RCT, 3개월)
 
 - [[bone-regeneration/zitzmann-2001-long-term-results-of-implants]] — GBR(Bio-Oss/Bio-Gide 또는 Bio-Oss/Gore-Tex)로 결손부 치료한 임플란트 5년 전향연구(n=75/112): 생존율 유사하나 변연골소실 대조군보다 증가(PubMed abstract)
+- [[bone-regeneration/ridge-preservation/couso-queiruga-2022-alveolar-ridge-preservation-dbbm-healing-time]] — DBBM-C 치조정보존 (Ridge Preservation, ARP) 치유기간 RCT: 42명, 치유시간↑→광화조직↑, 협측골두께 강력 예측인자, 16.7% 추가 GBR (Guided Bone Regeneration, GBR) 필요
 
 ## PDRN — 폴리데옥시리보뉴클레오티드 (Polydeoxyribonucleotide)
 - [[overviews/pdrn-dentistry-evidence-synthesis]] — Synthesis 2026-05-31 (17편 종합): 기전(A2A 수용체+salvage pathway) 탄탄. 근거가 둘로 갈림 — **진통·항염**은 human 근거 강함(발치 RCT 1 + TMJ 후향코호트 1 + 비치과 SR/MA 2), **재생**은 전부 animal·in vitro·zone/outcome 한정·시간 전엽(초기 가속 후 종점 수렴); 1차 골유착(BIC/BAFO)·연조직 volume 무차이; dose 비선형; autograft 대체 미입증; MRONJ 기전 근거 추가; 저위험 adjunct로 합리적.
@@ -1278,6 +1279,8 @@ tags: []
 - [[prosthetic-materials/abutment-screw/fayaz-2014-effect-sterilization-number-use-accuracy]] — 마찰식 토크제한장치(F-S MTLD) 15개를 증기 멸균 100주기 노화 모사한 in vitro 연구: 초기엔 개체별 ±10% 내 유지했으나 반복 후 체계적 과소전달 발생 — 최대 절대오차 BioHorizons 7.75 Ncm(목표 30 Ncm 대비 25.83%, 측정치 76%가 10% 초과), Astra Tech 3.35 Ncm(13.4%), Dr. Idhe 3.75 Ncm(12.5%); 제조사 간 절대오차 유의한 차이(P<0.05)로 교정 주기 일률 적용 불가
 - [[prosthetic-materials/abutment-screw/aydin-2026-torque-accuracy-spring-style-dental-torque]] — 스프링식 기계식 토크제한장치(MTLD) 9개를 40회 반복 하중+134°C 소균 후 제조사별 정확도 비교한 in vitro 연구; 평균 백분율 편차 Astra Tech 3.33%·Implance 11.43%·DIO 16.67%, ±10% 허용범위 초과율 5%/60%/95%(χ²=99.241, p<0.001) — 스프링식 설계만으로는 정확도 보장 안 되므로 식재(35 Ncm)·나사체결(25 Ncm) 개별 토크값에서 MTLD-임플란트 조합 검증 필요
 - [[prosthetic-materials/dhesi-2021-titanium-base-abutment-adhesion-protocol]] — 티타늄 베이스 어버트먼트 5종 세라믹/하이브리드 접착; 세라믹·시멘트 종류 유의, 열순환 무유의; 지르코니아+TheraCem 조합 임상 권장 (in vitro)
+- [[prosthetic-materials/harimkar-2025-zirconia-peek-marginal-fit-cad-cam]] — 지르코니아 vs PEEK 코핑 변연적합도 (Marginal Fit) SR+MA: 8편, 지르코니아 우세(6/8), SMD 차이 무의미(p=0.12)
+- [[prosthetic-materials/sengottaiyan-2026-zirconia-milling-vs-3d-printing-marginal-fit]] — 지르코니아 밀링 vs 3D프린팅 변연적합도 SR+MA: 밀링 우세(MD=-13.12µm, P<.001), 내부적합도 차이없음
 
 ## 총의치·가철성보철 (Complete Denture / Removable Prosthodontics — added 2026-06-16)
 - [[complete-denture/refai-2026-occlusion-disocclusion-implant-overdentures-splinted]] — Refai 2026 · rct (n=36, 3군×12, T-Scan) · 즉시부하 2-임플란트 하악 오버덴처 **연결(용접바 IW) vs 비연결(볼 IB) vs 총의치(CD)**: 두 임플란트군 모두 CD보다 교합/이개시간 짧음(OT CD 0.52 vs IB 0.35 vs IW 0.29s, p<0.001), 단 IB≈IW(무유의차) → 임플란트 2개 연결의 교합기능 이점 없음 (DOI 10.1186/s12903-026-08855-w)
@@ -2081,6 +2084,8 @@ tags: []
 - [[inlay/angeletaki-2016-direct-vs-indirect-inlay-onlay-sr-ma]] — SR+MA(RCT 3편, J Dent 2016): 직접 vs 간접 레진 인레이/온레이 — 5년·11년 모두 실패율 유의차 없음; 온레이 5년 생존 87%
 - [[inlay/fan-2021-inlay-onlay-overlay-long-term-sr-ma]] — SR+MA(13편, Oper Dent 2021): 레진 5년 생존 91%, 세라믹 10년 85%; 이차우식/파절 주요 실패 원인
 - [[inlay/comba-2022-post-fatigue-fracture-resistance-lithium-disilicate]] — 인비트로(n=84 ETT 대구치): 오버레이(1.6mm)는 접착 크라운 대안으로 유효, 교합면 비니어는 ETT에서 파절강도 열위(p=0.042); LS가 PICN보다 정적 파절강도 우수(p=0.0002)
+- [[inlay/chaar-2023-long-term-zirconia-ceramic-inlay-retained-fdps]] — 지르코니아 인레이 유지형 보철물 (Inlay-Retained FDP, IRFDP) 10년 생존율 (Survival Rate) 89%, 성공률 70.4%, 주 합병증 베니어 치핑 20.1%
+- [[inlay/morimoto-2024-endocrown-overview-systematic-reviews]] — 엔도크라운 (Endocrown) SR 개요(9편): 세라믹·간접레진 5년 생존율 양호(기존 크라운+포스트 동등), 지르코니아·금속 근거 제한적
 
 
 ## 근관치료 — 충전·실러 (Endodontics: Obturation / Bioceramic Sealers)
