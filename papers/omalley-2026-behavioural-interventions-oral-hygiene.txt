@@ -1,0 +1,54 @@
+Behavioural interventions for improving oral hygiene in adults with periodontal diseases
+
+Cochrane Database of Systematic Reviews 2026
+DOI: 10.1002/14651858.CD012049.pub2
+PMID: 41603467 | PMC: PMC12849544
+
+AUTHORS: O'Malley et al.
+(Funded in part by University of Pennsylvania School of Dental Medicine)
+Evidence current to: 3 July 2024
+
+BACKGROUND
+Periodontal diseases are common chronic inflammations in adults that can impact quality of life. Optimal oral hygiene behaviour is essential for periodontal health and treatment success. This review evaluates whether behavioural approaches to oral hygiene advice are more effective than usual advice alone.
+
+OBJECTIVES
+To determine the impact of behavioural interventions aimed at improving oral hygiene in adults with periodontal diseases (including gingivitis and periodontitis).
+
+ELIGIBILITY CRITERIA
+RCTs involving adults with periodontitis or gingivitis evaluating interventions using behaviour change techniques (BCTs) aimed at improving oral hygiene.
+
+INCLUDED STUDIES
+25 RCTs, 1422 adults
+- 19 studies: adults with periodontitis only
+- 5 studies: adults with gingivitis only
+- 1 study: both disease types
+
+BCT cluster labels used (Michie et al. 2013 taxonomy): goals and planning, feedback and monitoring, shaping knowledge, natural consequences, comparison of behaviour, associations, repetition and substitution, comparison of outcomes, reward and threat, regulation, antecedents, identity, scheduled consequences, self-belief.
+
+Intervention examples: mobile phone apps, intra-oral cameras/mirrors, personalised advice, diary-keeping, motivational interviewing, counselling.
+
+OUTCOMES
+Bleeding (BOP), gingival inflammation (GI), plaque, PPD, CAL, self-reported oral hygiene behaviour.
+
+RESULTS — Certainty of evidence: VERY LOW throughout (all outcomes)
+
+Adults with periodontitis — Behavioural interventions vs active control (17 studies, 892 participants):
+- BOP: 2 studies found less BOP with intervention; 1 found little/no difference — inconsistent
+- GI: 1 study found little/no difference; 1 found less GI with intervention
+- Plaque: 1 study found benefit; 2 found no difference
+- Toothbrushing frequency: little/no difference; toothbrushing duration and interdental cleaning: some benefit
+- Self-reported behaviour: mixed — some improvement in interdental cleaning
+
+Adults with gingivitis — Behavioural interventions vs active control (6 studies, 958 participants):
+- Gingival bleeding: 3 studies found less bleeding; 1 cluster-RCT found reduction for BOP <20% at baseline; 1 small study very imprecise
+- GI: 1 study little/no difference; 2 studies imprecise plaque data
+- Gingival pocket depth: reduced after intervention (1 study)
+
+LIMITATIONS
+- Risk of bias: participants likely aware of treatment group → potential bias
+- Studies did not always report all required information
+- Very small sample sizes
+- Studies designed differently with conflicting results
+
+AUTHORS' CONCLUSIONS
+Insufficient evidence for effectiveness of behavioural interventions on clinical indicators of gingival and periodontal diseases. Future research should focus on interventions with plausible mechanisms of action and address methodological limitations.
