@@ -67,6 +67,7 @@ tags: []
 - [[implants/chi-2024-customized-angled-abutment-tooth-inclination-fea]] — Chi 2024 · in-vitro FEA+strain gauge (전치부 즉시임플란트): CBCT 절치 경사도 기반 맞춤형 20–33° 지대주 vs 표준 15°; 맞춤형→축방향 응력↑·사선 응력↓; 교합 설계가 최적 지대주 결정 (DOI 10.11607/jomi.10877)
 - [[implants/sahoo-2024-finite-element-analysis-influence-implant]] — 즉시부하 임플란트 in vitro+FEA: 사선하중 시 경사(30°) 임플란트가 축방향보다 미세운동 19% 낮음(56 vs 75µm), 지대주 변위는 경사 임플란트가 항상 더 큼
 - [[implants/kavitha-2023-outcome-implant-diameter-length-distribution]] — 3D FEA(일체형 즉시하중 임플란트): 길이 10→12mm는 응력 소폭 증가(1.32→1.76 MPa), 직경 3.75→4.25mm는 응력 무영향(1.77→1.79 MPa), 넥부가 항상 최고응력부
+- [[implants/peri-implantitis/isola-2025-impact-and-efficacy-of-systemic]] — Isola 2025 · sr+ma · 임플란트 주위염(PI) 전신 항생제 보조 18편(RCT 9편 메타): PM 효과 없음; PI BOP(p=0.007)·PPD(p=0.004) 개선, MBL 효과 없음; 메트로니다졸만 P. gingivalis·T. forsythia 감소
 - [[implants/peri-implantitis/bishti-2025-interproximal-devices-peri-implant-mucositis-sr-ma]] — Bishti 2025 · sr+ma (PRISMA, 792 records → 6 RCT, 이질성으로 2편만 메타) — 임플란트주위 점막염 자가 치간위생: 치실 vs 치간칫솔 vs 물세정기/구강세정기(±CHX); 세정기·치간칫솔이 치실보다 개선 컸으나 NS, 칫솔질+물세정기 vs 칫솔질 단독 BOP/PI 유의차 없음 → 모든 기구 일부효과·우월기구 미확립·근거 제한 (DOI 10.1186/s40729-025-00652-4)
 - [[implants/peri-implantitis/kim-2025-toothpick-method-cibotium-peri-implant-mucositis-rct]] — Kim 2025 · rct (이중맹검, n=60, BMC Complement Med Ther): 토스픽법(TPM)으로 천연 Cibotium barometz(CB) 추출물 vs 0.12% 클로르헥시딘 vs 생리식염수 전달 — CB-TPM만 타액 잠혈 감소(Cohen d=1.148), P. micra·T. forsythia·P. intermedia 단독 큰효과(d≥0.8); 부작용 없는 비수술적 임플란트주위 점막염 옵션 (DOI 10.1186/s12906-025-04900-3)
 - [[implants/peri-implantitis/jepsen-2015-primary-prevention-periimplantitis-managing-mucositis]] — Jepsen 2015 (consensus, 11th Eur Workshop): 점막염 관리=주위염 1차예방; 유병률 점막염 43%·주위염 22%; BoP 핵심 진단지표·정기 SPT
@@ -832,6 +833,7 @@ tags: []
 - [[sinus-lift/lateral/krennmair-2024-maxillary-sinus-augmentation-with-anorganic]] — Krennmair 2024 · rct · ABBM 입자 크기(0.25–1mm vs 1–2mm) 측방 상악동 split-mouth(11명/22동, 6개월 조직계측): 신생골 25.5% vs 23.6%(P=.640), 잔존 이식재 19.6% vs 17.5%(P=.365) — 크기 효과 없음, 골-이식재 접촉만 소입자 우위(27.9% vs 19.9%) (초록만) (DOI 10.11607/jomi.10536)
 - [[sinus-lift/lateral/harlos-2022-histomorphometric-evaluation-of-different-graft]] — Harlos 2022 · rct · 측방 상악동(잔존골<3mm, 증강 8–10mm)에서 이종골+자가골 70:30 vs 이종골+L-PRF vs 이종골 단독(36명, 군별 12): 8개월 신생골 면적 2678 vs 985 vs 481 μm²(p<0.05) — L-PRF 이점 미확인 (초록만) (DOI 10.1007/s00784-022-04515-9)
 - [[sinus-lift/lateral/galindomoreno-2022-maxillary-sinus-floor-augmentation-comparing]] — Galindo-Moreno 2022 · rct · 소뼈(ABB)+자가골 20:80 vs 돼지골(PBM) 이종골 측방 상악동 split-mouth(10명/20동): 광화조직 29.24% vs 32.51%(p=.570), 잔존 생체재 31.00% vs 31.21%(p>.999) — 돼지골은 DBBM 대체 가능 [PMC전문] (DOI 10.1111/clr.13912)
+- [[sinus-lift/lateral/salgado-peralvo-2023-preventive-antibiotic-therapy-in]] — Salgado-Peralvo 2023 · sr · 측방 상악동거상술 예방적 항생제 SR — 근거 불충분, 사용/미사용 지지 불가, 적절 항생제·기간 미확립 (초록만)
 
 ## 상악동거상술 — 경치조골·골밀도화 (Sinus Lift: Transcrestal / Osseodensification)
 - [[sinus-lift/transcrestal/huang-2026-graftless-transcrestal-sinus-membrane-perforation-ma]] — Huang 2026 · sr+ma · 무이식(graftless) 경치조 상악동거상 MA 14편(2119부위): 막천공 1%·조기실패 1%·부비동염 없음; motor-OD 34% vs osteotome 0% (GRADE very low) (DOI 10.2340/aos.v85.46021)
@@ -1197,6 +1199,9 @@ tags: []
 - [[periodontics/santamaria-2026-gr-nccl-treatment-decision-tree]] — GR+NCCL 복합결손 치료 의사결정 알고리즘: A-/A+/B-형 → 치주술 단독, B+/V형 → 복합레진+치주술
 
 - [[periodontics/jafari-2026-clinical-efficacy-of-bioactive-glass]] — Jafari 2026 · sr+ma · bioactive glass 단독 적용 치주재생 SR+MA(12 RCT, 234명, 406결손): PD 감소 MD 1.27mm(p=0.0006), CAL 증가 MD 1.49mm(p=0.0005), 출판편향 무의미 — 이질성 중-고도(초록만) (DOI 10.1007/s10266-026-01314-6)
+- [[periodontics/non-surgical-instrumentation/zhao-2021-the-effect-of-drug-dose]] — Zhao 2021 · sr+ma · AMX+MET 용량/기간 SR+MA — 500/500 mg 고용량 우월, 투여기간(3–10일) 차이 없음 (초록만)
+- [[periodontics/non-surgical-instrumentation/kondreddy-2025-the-effect-of-adjunctive-antimicrobial]] — Kondreddy 2025 · sr · 48 RCT(2,755명, 2010–2024): AMX/MET CAL +0.47 mm, PPD −0.30 mm; 3일=7일 요법
+- [[periodontics/non-surgical-instrumentation/sesha-2026-systemic-antibiotics-as-adjuncts-in]] — Sesha 2026 · sr+ma(umbrella) · Stage III/IV 치주염 항생제 우산리뷰 2편; CCA=52.9%; AMX+MTZ 중등도 근거; EFP S3 선택적 사용 일치
 
 ## 보철재료 (Prosthetic Materials)
 - [[prosthetic-materials/sailer-2015-allceramic-metalceramic-fdps-survival-complication-sr]] — Sailer 2015 · sr · 전세라믹 vs 금속도재관 단단관 SR(67편, 2006–2013): LD/알루미나/지르코니아 생존율 금속도재관 동등; 도재 열등, 지르코니아 치핑↑
@@ -1964,6 +1969,7 @@ tags: []
 - [[oral-surgery/smith-2014-gingival-wound-healing-aging]] — Smith 2014 · narrative-review · 노화가 치은 창상 치유 전 단계 손상(인테그린↓·성장인자↓·MMP↑·줄기세포 저하); 정상 상피이동·과립조직·리모델링 분자 기전 역조명 (DOI 10.1177/0022034514563750)
 - [[oral-surgery/latimer-2026-biological-principles-alveolar-bone-soft-tissue]] — Latimer 2026 · narrative-review · 치조골·연조직·치주 재생 생물학; 4단계 창상치유 + 구강 미생물·기계·면역 중첩 조절; 면역공학(M1→M2)·바이오프린팅 차세대 전략 (DOI 10.1111/jre.70068)
 - [[oral-surgery/walton-2026-beyond-re-epithelialization-prolonged-remodeling]] — Walton 2026 · animal (마우스 경구개 2mm 전층 절제창) · 재상피화(Re-Epithelialization)는 14일 완료, Wnt-반응성 줄기세포(Axin2+) 복귀·분화 마커 회복에 5–6개월 — 구강 창상 치유의 2단계 패러다임 (DOI 10.1038/s41419-026-08804-z)
+- [[oral-surgery/martins-2023-bacteremia-following-different-oral]] — Martins 2023 · sr+ma · 구강 술식별 균혈증(Bacteremia) 발생률: 발치 62–66% > SRP 44–36% > OHP 27–28%; 최고조 5분 이내
 - [[oral-surgery/third-molar/rodriguez-sanchez-2017-chlorhexidine-alveolar-osteitis-third]] — Rodríguez Sánchez 2017 · sr+ma (23 RCT, 2,824 발치) · CHX (제형·농도 무관) 사랑니 발치 후 건성발치와 위험 47% 감소 (RR=0.53, NNT=8); 겔 > 가글 (RR 0.47 vs 0.58) (DOI 10.1016/j.joms.2017.01.002)
 - [[oral-surgery/nerve-injury/lee-2015-inferior-alveolar-nerve-injury-management]] — 증례보고: 제3대구치 발치 중 IAN 노출 → dexamethasone 국소도포 + prednisolone 점감 + NSAIDs → 36일 내 neuropraxia 완전 회복
 - [[oral-surgery/nerve-injury/zeytinoglu-2026-comparative-effects-low-level-laser]] — Zeytinoğlu 2026 · prospective (n=27, IAN 18·LN 9) · Aδ/C섬유(통증자극) vs Aβ섬유(무통자극) 구분 CSP 검사 병행 — LLLT가 TENS·위약보다 유의하게 우수한 임상회복(통증·화끈거림·발음·물림), 단 전기생리(CSP) 회복은 비유의
@@ -2008,6 +2014,8 @@ tags: []
 - [[oral-surgery/third-molar/pattnayak-2024-prf-prp-third-molar-extraction-sr]] — SR (6 studies): 하악 제3대구치 발치 후 PRF vs PRP 비교; 4/6 연구에서 PRF가 연조직 치유·골밀도 개선에 유리; PRF는 준비 용이·완전 자가 유래 장점
 - [[oral-surgery/third-molar/firoozi-2022-nonpharmacological-interventions-third-molar-pain-sr]] — 엄브렐라 리뷰(Pain Res Manag 2022;19 SR/10 MA): 제3대구치 발치 후 비약물적 보조요법 network meta-analysis; 초기통증 오존치료 최우수(SMD −0.84)·후기통증 PRF/유도체 최우수(SMD −1.03); LLLT는 초기통증 효과 최약(SMD −0.32)
 - [[oral-surgery/third-molar/camps-font-2024-antibiotic-prophylaxis-dry-socket-nma]] — SR+NMA (16 RCTs, 2158명): 항생제 예방투여가 건조치조염(NNT=25)·SSI(NNT=18) 통계적 감소; 높은 NNT → 건강 환자 일상 처방 비권장
+- [[oral-surgery/third-molar/arteagoitia-2022-is-clindamycin-effective-in-preventing]] — Arteagoitia 2022 · sr+ma · 클린다마이신 구강외과 감염예방 7편 RCT; M3 경구 클린다마이신 RR 0.66(NS), NNT=29 — 효과 없음
+- [[oral-surgery/third-molar/torof-2023-the-role-of-antibiotic-use]] — Torof 2023 · sr+ma · M3 발치 항생제 16편 RCT; 감염 69%↓(p<0.001); 건조치조염 효과 없음; 일상 예방투여 미지지
 - [[oral-surgery/third-molar/rosa-2024-laser-therapy-dry-socket-sr]] — SR+MA (3 studies): LLLT는 건조치조염 치료 시 Alvogyl 대비 유효(유의성 낮음); 단일 세션·최소침습·통증 감소; 기존 소독드레싱의 대안
 - [[oral-surgery/third-molar/daly-2022-local-interventions-management-alveolar-osteitis]] — 코크란 SR+MA (RCT 49편, n=6,771): CHX 가글(OR 0.38)·0.2% 발치와 내 젤(OR 0.44)이 건성 발치와 감소(중등도 확실성); 효과는 기저 위험 비례 — 고위험 사랑니 NNT≈7, 일반 발치 NNT 160대; Alvogyl(구)>ZOE 7일째 통증(매우 낮음)
 - [[oral-surgery/third-molar/garola-2021-clinical-management-alveolar-osteitis-systematic]] — SR (임상시험 17편, AO 치료 39개): 통증조절 기준(2일째 VAS≤4/7일째 ≥85% 무통) 충족 53.8%뿐; 성공 = 기본(발치와 세척)+특정(Alveogyl·Neocones·SaliCept·LLLT·PRF); 이질성으로 순위화 불가 — daly의 치료 공백 보완
@@ -4285,6 +4293,7 @@ tags: []
 - [[implants/survival/yari-2023-risk-factors-early-implant-failure]] — Yari 2023 · retrospective(임플란트 1323개/환자 738명, 조기실패 53건) · 보철 로딩 전 조기 실패 다변량 위험인자: 즉시잠정보철 OR 3.42·후방상악 2.96·4형골 2.88·치주발치부위 2.53·증대부위 2.24·흡연 1.84 (abstract-only) (DOI 10.1016/j.jormas.2023.101749)
 - [[implants/full-arch/uesugi-2024-risk-factors-early-failure-all-on-four]] — Uesugi 2024 · retrospective(환자 561명/임플란트 2364개, all-on-four 즉시로딩) · 1년 생존 상악 98.9% vs 하악 99.6%; 다변량 위험인자 상악 OR 3.12·흡연 2.92, 광기능화 OR 0.51(NS) (DOI 10.3390/bioengineering11030223)
 - [[drug/antibiotics/momand-2024-antibiotic-prophylaxis-early-implant-failure]] — Momand 2024 · sr+ma(위약대조 이중맹검 RCT 7편, 환자 1859명/임플란트 3014개) · 술전 항생제 예방이 조기 실패 못 줄임 RR 0.66(NS)·NNT 143·GRADE 중간 — 통상 예방 근거 부족 (DOI 10.1186/s12903-024-04611-0)
+- [[implants/survival/mehrabanian-2024-routine-antibiotic-prophylaxis-and]] — Mehrabanian 2024 · sr+ma · 임플란트 예방적 항생제 7편 RCT 독립 분석: RR 0.66(NS), NNT=143 — 통상 예방 미지지; momand-2024와 동일 데이터셋 (초록만)
 - [[drug/antibiotics/dubedout-2025-antibiotic-prophylaxis-early-complications]] — Dubedout 2025 · sr(이중맹검 위약대조 RCT 7편, n=1846) · 임플란트 술전 항생제 예방투약 → 조기 실패·합병증 유의 감소 없음(7편 중 0편 유의, 최근접 Nolan p=0.0515; 유의 1건은 D7 통증) — momand-2024 보강, esposito-2013·torof-2023과 상충 (DOI 10.1051/mbcb/2025032)
 - [[overviews/early-implant-failure-risk-prevention-overview]] — **NEW Overview**: 조기 임플란트 실패(보철 로딩 전) 위험인자·예방 종합 (7편). EIF는 골유착 *획득* 실패(후기 실패와 구분), 발생률 임플란트 단위 ≈1~4%. 결정인자는 숙주(흡연 OR 2.59·당뇨 RR 2.75·방사선 2.73)×골질/부위(후방상악·4형골·증대/부비동부위)×술식(즉시로딩 OR 3.42). 핵심 레버는 금연·부위/골질 인지 계획·보수적 로딩이며, 통상적 항생제 예방은 무효(NNT 143)·스튜어드십상 지양 (2026-06-22)
 - [[overviews/hypertension-antihypertensive-implant-outcomes-overview]] — **Overview** (synthesis, 2026-10-30, 12편): 고혈압 자체 임플란트 실패 무관(Hamadé 2024 SR+MA OR 1.100 NS) but 항고혈압약 복용군이 정상혈압보다 낮은 실패율(Wu 2016 HR 0.12·Masri 2024 2.29% vs 4.33%·Chidiac 2026 HR 0.23); 미복용 고혈압이 최악(28.6%); RAAS 억제제가 ISQ+3.59; 생존≠성공(Seki 2020 치주염 OR 7.38); 술전후 혈압급등 26.77%(Liu 2024)
