@@ -1,0 +1,33 @@
+Non-invasive management strategies for molar-incisor hypomineralization (MIH) in children
+
+Cochrane Database of Systematic Reviews 2026 (Protocol)
+DOI: 10.1002/14651858.CD016369
+PMID: 42454625 | PMC: PMC13370776
+
+AUTHORS: Kumari et al.
+NOTE: This is a PROTOCOL — no results available yet. Awaiting full review.
+
+BACKGROUND
+Molar-incisor hypomineralization (MIH) is defined as "demarcated qualitative developmental defects of systemic origin in the enamel of one or more first permanent molars, frequently associated with similarly affected permanent incisors." MIH enamel is structurally compromised, porous, and hypomineralized, making affected teeth highly susceptible to rapid caries progression, sensitivity, and enamel breakdown even from normal masticatory forces.
+
+Non-invasive management strategies aim to remineralize, desensitize, or protect affected teeth without tooth preparation. These include fluoride products (varnish, foam, gel), casein phosphopeptide-amorphous calcium phosphate (CPP-ACP), silver diamine fluoride (SDF), sealants, and behaviour management techniques for hypersensitivity.
+
+OBJECTIVES
+To assess the benefits and harms of non-invasive management strategies for molar incisor hypomineralization (MIH) in children aged 6 to 14 years.
+
+POPULATION
+Children aged 6–14 years with MIH affecting one or more first permanent molars (with or without incisor involvement).
+
+INTERVENTIONS
+Non-invasive management strategies including:
+- Fluoride products (varnish, foam, gel, toothpaste)
+- CPP-ACP products (Tooth Mousse, GC)
+- Silver diamine fluoride (SDF)
+- Fissure sealants
+- Resin infiltration
+- Dental care products for hypersensitivity management
+
+CLINICAL CONTEXT
+MIH is increasingly prevalent globally (estimated prevalence ~14% in permanent dentition). Current management evidence is fragmented and often based on expert opinion. This Cochrane protocol will synthesize available RCT evidence for non-invasive approaches, complementing the existing literature on invasive/restorative approaches.
+
+STATUS: Protocol — currently awaiting RCT identification, data extraction, and synthesis.
