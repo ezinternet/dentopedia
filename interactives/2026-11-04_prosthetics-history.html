@@ -1,0 +1,552 @@
+---
+title: "치과보철 재료의 역사와 발전"
+type: interactive
+date: 2026-11-04
+status: done
+category: prosthetic-materials
+source_wiki:
+  - wiki/overviews/history-development-dental-prosthetics.md
+agenda: ""
+---
+<meta name="claude:viewport-fit-sides" content="cover">
+<title>치과보철 재료의 역사</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Outfit:wght@300;400;500;600;700&display=swap">
+<style>
+:root {
+  --bg:      #F2F4F8;
+  --surface: #FFFFFF;
+  --sf2:     #E8ECF4;
+  --fg:      #1B2537;
+  --fg2:     #3E5070;
+  --mu:      #7A8FA8;
+  --bd:      #D4DAE8;
+  --ac:      #2558C8;
+  --ac-bg:   #E6ECFB;
+
+  --pfm:     #A86C1A; --pfm-bg: #FBF3E5;
+  --cer:     #1F7A60; --cer-bg: #E4F4EE;
+  --zir:     #2255A8; --zir-bg: #E5EDFB;
+  --dig:     #6040A0; --dig-bg: #EDEBFB;
+  --gld:     #8A6400; --gld-bg: #FBF5E0;
+
+  --ff1: 'Libre Baskerville', Georgia, serif;
+  --ff2: 'Outfit', system-ui, sans-serif;
+  --r:   10px; --rl: 16px;
+  --sh:  0 1px 8px rgba(27,37,55,.07);
+  --sh2: 0 3px 20px rgba(27,37,55,.11);
+  color-scheme: light;
+}
+
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+body{
+  background:var(--bg); color:var(--fg);
+  font-family:var(--ff2); font-size:15px; line-height:1.6;
+  padding-left:max(16px,env(safe-area-inset-left,0px));
+  padding-right:max(16px,env(safe-area-inset-right,0px));
+  padding-block:0 40px;
+}
+
+/* ── Hero ── */
+.hero{padding:48px 0 36px; max-width:720px}
+.eyebrow{font-size:11px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--ac);margin-bottom:14px}
+.hero h1{font-family:var(--ff1);font-size:clamp(26px,4.5vw,42px);font-weight:700;line-height:1.2;letter-spacing:-.02em;text-wrap:balance;margin-bottom:14px}
+.hero h1 em{font-style:italic;color:var(--ac)}
+.hero-sub{font-size:15.5px;color:var(--fg2);line-height:1.65;max-width:560px}
+
+/* ── Era Tabs ── */
+.era-bar{display:flex;gap:3px;margin:28px 0 20px;overflow-x:auto;scrollbar-width:none}
+.era-bar::-webkit-scrollbar{display:none}
+.era-btn{flex:1;min-width:130px;border:none;cursor:pointer;text-align:left;
+  background:var(--sf2);border-radius:var(--r);padding:12px 14px;
+  font-family:var(--ff2);transition:background .18s,color .18s;position:relative}
+.era-btn::after{content:'';position:absolute;bottom:0;left:0;right:0;height:3px;
+  border-radius:0 0 var(--r) var(--r);background:var(--bd);transition:background .18s}
+.lbl{display:block;font-size:10px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--mu);margin-bottom:3px}
+.nm{display:block;font-size:12.5px;font-weight:700;color:var(--fg)}
+.yr{display:block;font-size:11px;color:var(--mu);margin-top:1px}
+
+.era-btn[data-e="pfm"].on,.era-btn[data-e="pfm"]:hover{background:var(--pfm-bg)}
+.era-btn[data-e="pfm"].on::after,.era-btn[data-e="pfm"]:hover::after{background:var(--pfm)}
+.era-btn[data-e="cer"].on,.era-btn[data-e="cer"]:hover{background:var(--cer-bg)}
+.era-btn[data-e="cer"].on::after,.era-btn[data-e="cer"]:hover::after{background:var(--cer)}
+.era-btn[data-e="zir"].on,.era-btn[data-e="zir"]:hover{background:var(--zir-bg)}
+.era-btn[data-e="zir"].on::after,.era-btn[data-e="zir"]:hover::after{background:var(--zir)}
+.era-btn[data-e="dig"].on,.era-btn[data-e="dig"]:hover{background:var(--dig-bg)}
+.era-btn[data-e="dig"].on::after,.era-btn[data-e="dig"]:hover::after{background:var(--dig)}
+.era-btn[data-e="gld"].on,.era-btn[data-e="gld"]:hover{background:var(--gld-bg)}
+.era-btn[data-e="gld"].on::after,.era-btn[data-e="gld"]:hover::after{background:var(--gld)}
+
+/* ── Panels ── */
+.panel{display:none}.panel.on{display:block}
+.g2{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-bottom:14px}
+.g2.full{grid-column:1/-1}.full{grid-column:1/-1}
+@media(max-width:580px){.g2{grid-template-columns:1fr}}
+
+/* ── Cards ── */
+.card{background:var(--surface);border:1px solid var(--bd);border-radius:var(--rl);padding:18px;box-shadow:var(--sh)}
+.card-label{font-size:10px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--mu);margin-bottom:8px}
+.card h3{font-family:var(--ff1);font-size:16px;font-weight:700;line-height:1.3;text-wrap:balance;margin-bottom:10px}
+.card p{font-size:13.5px;color:var(--fg2);line-height:1.65}
+.card p+p{margin-top:7px}
+
+/* ── Stat row ── */
+.stats{display:flex;gap:12px;flex-wrap:wrap;margin-top:12px}
+.stat{flex:1;min-width:88px;background:var(--sf2);border-radius:var(--r);padding:12px 10px;text-align:center}
+.stat-n{font-family:var(--ff2);font-size:22px;font-weight:700;line-height:1;margin-bottom:3px;font-variant-numeric:tabular-nums}
+.stat-d{font-size:11px;color:var(--mu);line-height:1.4}
+.c-pfm{color:var(--pfm)} .c-cer{color:var(--cer)} .c-zir{color:var(--zir)} .c-dig{color:var(--dig)} .c-gld{color:var(--gld)}
+
+/* ── Bar chart ── */
+.bars{display:flex;flex-direction:column;gap:9px;padding-right:48px;margin-top:12px}
+.bar-row{display:flex;align-items:center;gap:10px}
+.bar-lbl{font-size:12px;color:var(--fg2);min-width:144px;flex-shrink:0;text-align:right;line-height:1.3}
+@media(max-width:460px){.bar-lbl{min-width:90px;font-size:11px}}
+.bar-track{flex:1;background:var(--sf2);border-radius:4px;height:20px;position:relative;overflow:visible}
+.bar-fill{height:100%;border-radius:4px;position:relative}
+.bar-val{position:absolute;right:-46px;top:50%;transform:translateY(-50%);font-size:12px;font-weight:700;font-variant-numeric:tabular-nums;white-space:nowrap;color:var(--fg)}
+.note{font-size:11px;color:var(--mu);margin-top:12px;line-height:1.5}
+
+/* ── Zirconia spectrum ── */
+.sp-labels{display:flex;justify-content:space-between;font-size:11px;color:var(--mu);margin-bottom:5px}
+.sp-track{height:7px;border-radius:4px;background:linear-gradient(to right,var(--zir),#8BBEF5,#E0EEFF);margin-bottom:18px}
+.zr-grid{display:grid;grid-template-columns:1fr 1fr 1fr;gap:8px;margin-top:4px}
+@media(max-width:460px){.zr-grid{grid-template-columns:1fr}}
+.zr-card{background:var(--sf2);border-radius:var(--r);padding:13px 11px;border:2px solid transparent;cursor:default;transition:border-color .18s}
+.zr-card:hover{border-color:var(--zir)}
+.zr-name{font-family:var(--ff2);font-weight:700;font-size:14px;color:var(--zir);margin-bottom:8px}
+.zr-attr{display:flex;justify-content:space-between;font-size:11px;margin-bottom:2px}
+.zr-al{color:var(--mu)} .zr-av{font-weight:600;color:var(--fg);font-variant-numeric:tabular-nums}
+.mini-bar{height:4px;background:var(--bd);border-radius:2px;margin-top:2px;margin-bottom:7px;overflow:hidden}
+.mini-fill{height:100%;border-radius:2px}
+
+/* ── Evidence timeline ── */
+.evl{position:relative;padding-left:22px}
+.evl::before{content:'';position:absolute;left:6px;top:7px;bottom:7px;width:2px;background:var(--bd)}
+.evl-item{position:relative;margin-bottom:18px}
+.evl-item::before{content:'';position:absolute;left:-22px;top:5px;width:10px;height:10px;border-radius:50%;border:2px solid var(--ac);background:var(--surface)}
+.evl-yr{font-size:11px;font-weight:700;color:var(--ac);letter-spacing:.05em;margin-bottom:2px}
+.evl-t{font-size:13px;font-weight:600;color:var(--fg);margin-bottom:3px}
+.evl-d{font-size:12.5px;color:var(--fg2);line-height:1.55}
+
+/* ── Section header ── */
+.sh{display:flex;align-items:baseline;gap:12px;margin:36px 0 14px;padding-bottom:10px;border-bottom:1px solid var(--bd)}
+.sh h2{font-family:var(--ff1);font-size:19px;font-weight:700}
+.sh span{font-size:13px;color:var(--mu)}
+
+/* ── Selection table ── */
+.sel-tbl{width:100%;border-collapse:collapse;font-size:13px}
+.sel-tbl th{font-size:10.5px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--mu);text-align:left;padding:7px 11px;border-bottom:1px solid var(--bd)}
+.sel-tbl td{padding:9px 11px;border-bottom:1px solid var(--bd);color:var(--fg2);line-height:1.4;vertical-align:top}
+.sel-tbl td:first-child{color:var(--fg);font-weight:500}
+.sel-tbl tr:last-child td{border-bottom:none}
+.c1{color:var(--zir)!important;font-weight:700!important}
+
+/* ── Badge ── */
+.badge{display:inline-block;font-size:10px;font-weight:700;letter-spacing:.07em;text-transform:uppercase;padding:2px 7px;border-radius:4px}
+.b-pfm{background:var(--pfm-bg);color:var(--pfm)}
+.b-sr{background:var(--ac-bg);color:var(--ac)}
+.b-zir{background:var(--zir-bg);color:var(--zir)}
+.b-cer{background:var(--cer-bg);color:var(--cer)}
+.b-gld{background:var(--gld-bg);color:var(--gld)}
+
+/* ── Limitation box ── */
+.lim-row{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:10px}
+@media(max-width:460px){.lim-row{grid-template-columns:1fr}}
+.lim{font-size:12.5px;color:var(--fg2);padding:9px 11px;background:var(--sf2);border-radius:var(--r)}
+.lim strong{color:var(--fg);display:block;margin-bottom:3px;font-size:12px}
+
+/* ── Protocol blocks ── */
+.proto{display:flex;flex-direction:column;gap:7px;margin-top:10px}
+.proto-item{padding:9px 12px;border-radius:var(--r);border-left:3px solid;font-size:12.5px}
+.pi-ok{background:var(--zir-bg);border-color:var(--zir);color:var(--fg2)}
+.pi-warn{background:var(--pfm-bg);border-color:var(--pfm);color:var(--fg2)}
+.pi-ok strong{color:var(--zir)} .pi-warn strong{color:var(--pfm)}
+.pi-ok strong,.pi-warn strong{display:block;margin-bottom:3px;font-size:12px}
+</style>
+
+<!-- ═══ HERO ═══ -->
+<div class="hero">
+  <p class="eyebrow">보철재료 종합 개관 · 위키 근거 기반</p>
+  <h1>치과보철 재료의<br><em>역사와 발전</em></h1>
+  <p class="hero-sub">19세기 말 전금속관 태동부터 2020년대 모놀리식 지르코니아 완성까지 — 100년의 임상 근거를 5개 시대로 정리합니다.</p>
+</div>
+
+<!-- ═══ ERA TABS ═══ -->
+<div class="era-bar" role="tablist">
+  <button class="era-btn" data-e="gld" role="tab" aria-selected="false" aria-controls="p-gld">
+    <span class="lbl">시대 0</span><span class="nm">전금속관 (골드크라운)</span><span class="yr">1900s — 현재</span>
+  </button>
+  <button class="era-btn on" data-e="pfm" role="tab" aria-selected="true" aria-controls="p-pfm">
+    <span class="lbl">시대 1</span><span class="nm">금속도재관 황금기</span><span class="yr">1950s — 2000s</span>
+  </button>
+  <button class="era-btn" data-e="cer" role="tab" aria-selected="false" aria-controls="p-cer">
+    <span class="lbl">시대 2</span><span class="nm">전세라믹 도전기</span><span class="yr">1990s — 2015</span>
+  </button>
+  <button class="era-btn" data-e="zir" role="tab" aria-selected="false" aria-controls="p-zir">
+    <span class="lbl">시대 3</span><span class="nm">지르코니아 혁명기</span><span class="yr">2010 — 현재</span>
+  </button>
+  <button class="era-btn" data-e="dig" role="tab" aria-selected="false" aria-controls="p-dig">
+    <span class="lbl">시대 4</span><span class="nm">CAD/CAM 디지털화</span><span class="yr">2015 — 현재</span>
+  </button>
+</div>
+
+<!-- ═══ PANEL 0: GOLD CROWN ═══ -->
+<div class="panel" id="p-gld">
+  <div class="g2">
+    <div class="card">
+      <p class="card-label">시대 개요</p>
+      <h3>전금속관 — 보철의 원점</h3>
+      <p>19세기 말부터 사용된 전금속관(골드크라운)은 금합금의 연성·내식성·생체적합성을 활용해 PFM 등장 이후에도 여전히 임상에서 선택됩니다.</p>
+      <p>구치부 고하중, 대합치 보호, 최소 삭제가 필요한 증례에서 현재까지 1차 선택지로 남아있습니다.</p>
+    </div>
+    <div class="card">
+      <p class="card-label">Krug 2024 — 최장기 추적 연구</p>
+      <h3>골드 부분크라운 (CGPC) 24.8년</h3>
+      <div class="stats">
+        <div class="stat"><div class="stat-n c-gld">91.8%</div><div class="stat-d">23.5년<br>생존율</div></div>
+        <div class="stat"><div class="stat-n c-gld">92.6%</div><div class="stat-d">15년<br>생존율</div></div>
+        <div class="stat"><div class="stat-n c-gld">0.7%</div><div class="stat-d">연간<br>실패율</div></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card" style="margin-bottom:14px">
+    <p class="card-label">생존율 추이 — Krug 2024 (N=325환자, 최대 24.8년, 평균 13.9년)</p>
+    <div class="bars">
+      <div class="bar-row"><div class="bar-lbl">CGPC 15년</div><div class="bar-track"><div class="bar-fill" style="width:92.6%;background:var(--gld)"><span class="bar-val">92.6%</span></div></div></div>
+      <div class="bar-row"><div class="bar-lbl">CGPC 23.5년</div><div class="bar-track"><div class="bar-fill" style="width:91.8%;background:var(--gld);opacity:.8"><span class="bar-val">91.8%</span></div></div></div>
+    </div>
+    <p class="note">세라믹 인레이/온레이 대비 비교 연구. 주요 합병증: 근관치료 필요 8.8%, 이차우식 4.8%, 탈락 2.0%. (DOI: 10.1007/s00784-024-05682-7)</p>
+  </div>
+
+  <div class="g2">
+    <div class="card">
+      <p class="card-label">장점 (Advantages)</p>
+      <h3>골드크라운의 강점</h3>
+      <div style="display:flex;flex-direction:column;gap:7px;margin-top:10px">
+        <div class="lim"><strong style="color:var(--gld)">최우수 내구성</strong>23.5년 91.8% 생존 — 임상 근거 50년 이상 축적 (Krug 2024)</div>
+        <div class="lim"><strong style="color:var(--gld)">대합치 보호</strong>경도 HV130~180 — 에나멜과 유사해 대합치 과도 마모 없음</div>
+        <div class="lim"><strong style="color:var(--gld)">최소 삭제</strong>세라믹 최소 두께(1.5–2mm) 불필요 → 건전 치질 보존</div>
+        <div class="lim"><strong style="color:var(--gld)">정밀 적합</strong>주조 마진 — 미세누출 최소화, 2차 우식 위험 감소</div>
+        <div class="lim"><strong style="color:var(--gld)">굴곡성</strong>완전 파절 없이 굴곡 가능 → 편심 하중·교합 과부하 흡수</div>
+        <div class="lim"><strong style="color:var(--gld)">생체적합성</strong>Type III/IV 금합금 — 연조직 반응 최소, 알레르기 위험 낮음</div>
+      </div>
+    </div>
+    <div class="card">
+      <p class="card-label">단점 (Disadvantages)</p>
+      <h3>임상적 한계</h3>
+      <div style="display:flex;flex-direction:column;gap:7px;margin-top:10px">
+        <div class="lim"><strong style="color:var(--pfm)">심미성</strong>금속색 가시성 — 환자 수용도 감소, 가시 구역 부적합</div>
+        <div class="lim"><strong style="color:var(--pfm)">고가</strong>귀금속 가격 변동성 — 재료비 높음, 가격 예측 어려움</div>
+        <div class="lim"><strong style="color:var(--pfm)">기공 복잡성</strong>정밀 주조 기술 요구 — 기공소 역량 의존, CAD/CAM 적용 제한적</div>
+        <div class="lim"><strong style="color:var(--pfm)">접착 제한</strong>기계적 유지력 의존 — 레진 접착 프로토콜 미확립</div>
+        <div class="lim"><strong style="color:var(--pfm)">사회적 선호 감소</strong>디지털·심미 시대 — 특히 전치부·구치 2급 증례 환자 선호 감소</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card">
+    <p class="card-label">현재 임상 적응증</p>
+    <h3>골드크라운 선택 기준</h3>
+    <div class="proto">
+      <div class="proto-item pi-ok"><strong>구치부 고하중 증례</strong>교모증·이갈이 환자 — 세라믹 파절 위험 높은 경우 ✓</div>
+      <div class="proto-item pi-ok"><strong>대합 도재·자연치 보호</strong>대합 세라믹 보철물 보호, 대합 에나멜 마모 방지 ✓</div>
+      <div class="proto-item pi-ok"><strong>최소 삭제 필요</strong>치수 근접 치아, 특수 해부 형태 → 치질 보존 우선 ✓</div>
+      <div class="proto-item pi-warn"><strong>심미 요구 증례</strong>가시 구역(1–2급) + 환자 심미 요구 높음 → 대안 재료 우선 고려 ⚠️</div>
+    </div>
+  </div>
+</div>
+
+<!-- ═══ PANEL 1: PFM ═══ -->
+<div class="panel on" id="p-pfm">
+  <div class="g2">
+    <div class="card">
+      <p class="card-label">시대 개요</p>
+      <h3>금속도재관 (PFM)의 황금기</h3>
+      <p>금속 프레임워크의 구조적 강도와 세라믹 베니어의 심미성을 결합한 PFM은 40년 이상 임상 황금기준이었습니다.</p>
+      <p>금속이 인장응력을 흡수하고 그 위 도재가 심미를 담당 — 이전 순수 도재관(jacket crown)의 취약성을 해결했습니다.</p>
+    </div>
+    <div class="card">
+      <p class="card-label">Behr 2014 — 25년 코호트</p>
+      <h3>n = 997 귀금속 PFM 크라운</h3>
+      <div class="stats">
+        <div class="stat"><div class="stat-n c-pfm">97.5%</div><div class="stat-d">구치부<br>5년 생존율</div></div>
+        <div class="stat"><div class="stat-n c-pfm">95.9%</div><div class="stat-d">구치부<br>10년 생존율</div></div>
+        <div class="stat"><div class="stat-n c-pfm">72.2%</div><div class="stat-d">치주염<br>무합병증 10년</div></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card" style="margin-bottom:14px">
+    <p class="card-label">생존율 추이 — Behr 2014 (Survival over time)</p>
+    <div class="bars">
+      <div class="bar-row"><div class="bar-lbl">구치부 5년</div><div class="bar-track"><div class="bar-fill" style="width:97.5%;background:var(--pfm)"><span class="bar-val">97.5%</span></div></div></div>
+      <div class="bar-row"><div class="bar-lbl">전치부 5년</div><div class="bar-track"><div class="bar-fill" style="width:96.4%;background:var(--pfm)"><span class="bar-val">96.4%</span></div></div></div>
+      <div class="bar-row"><div class="bar-lbl">구치부 10년</div><div class="bar-track"><div class="bar-fill" style="width:95.9%;background:var(--pfm);opacity:.85"><span class="bar-val">95.9%</span></div></div></div>
+      <div class="bar-row"><div class="bar-lbl">전치부 10년</div><div class="bar-track"><div class="bar-fill" style="width:92.3%;background:var(--pfm);opacity:.75"><span class="bar-val">92.3%</span></div></div></div>
+      <div class="bar-row"><div class="bar-lbl">치주염 무합병증 5년</div><div class="bar-track"><div class="bar-fill" style="width:85.8%;background:var(--pfm);opacity:.55"><span class="bar-val">85.8%</span></div></div></div>
+      <div class="bar-row"><div class="bar-lbl">치주염 무합병증 10년</div><div class="bar-track"><div class="bar-fill" style="width:72.2%;background:var(--pfm);opacity:.4"><span class="bar-val">72.2%</span></div></div></div>
+    </div>
+    <p class="note">기술적 합병증(치핑·탈락)은 초기에 집중, 치주염 위험은 시간에 비례해 누적 → 현재 리콜 프로토콜의 근거</p>
+  </div>
+
+  <div class="card">
+    <p class="card-label">PFM의 임상적 한계 — 전세라믹 운동의 동인</p>
+    <div class="lim-row">
+      <div class="lim"><strong>💎 금속 불투명성</strong>치은 퇴축 시 금속 그림자, 자연 투명감 재현 불가</div>
+      <div class="lim"><strong>⚠️ 생체적합성</strong>비귀금속(Ni·Cr) 알레르기 가능성</div>
+      <div class="lim"><strong>🔬 방사선 불투과</strong>치근단 병변 평가 방해</div>
+      <div class="lim"><strong>🔧 기공 복잡성</strong>베니어 도재 수작업 — 고도 기술 요구</div>
+    </div>
+  </div>
+</div>
+
+<!-- ═══ PANEL 2: ALL-CERAMIC ═══ -->
+<div class="panel" id="p-cer">
+  <div class="g2">
+    <div class="card">
+      <p class="card-label">시대 개요</p>
+      <h3>전세라믹의 PFM 도전</h3>
+      <p>1990년대부터 LD 글라스세라믹, 알루미나 등 순수 세라믹 시스템이 임상에 도입되며 PFM의 심미적 한계를 극복하려 했습니다.</p>
+      <p>Sailer 2015 SR(67편, n=14,097 보철물)이 대규모 비교 근거를 처음 제시 — 전세라믹의 PFM 대등성을 역사적으로 확립합니다.</p>
+    </div>
+    <div class="card">
+      <p class="card-label">Sailer 2015 — SR (67편)</p>
+      <h3>5년 생존율 비교</h3>
+      <div class="stats">
+        <div class="stat"><div class="stat-n c-cer">96.6%</div><div class="stat-d">LD 글라스<br>세라믹</div></div>
+        <div class="stat"><div class="stat-n c-pfm">94.7%</div><div class="stat-d">PFM<br>(기준)</div></div>
+        <div class="stat"><div class="stat-n c-zir">92.1%</div><div class="stat-d">지르코니아<br>(베니어드)</div></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card" style="margin-bottom:14px">
+    <p class="card-label">재료별 5년 생존율 — Sailer 2015 SR (n=14,097)</p>
+    <div class="bars">
+      <div class="bar-row"><div class="bar-lbl">LD 글라스세라믹</div><div class="bar-track"><div class="bar-fill" style="width:96.6%;background:var(--cer)"><span class="bar-val">96.6%</span></div></div></div>
+      <div class="bar-row"><div class="bar-lbl">치밀소결 알루미나</div><div class="bar-track"><div class="bar-fill" style="width:96%;background:var(--cer);opacity:.85"><span class="bar-val">96.0%</span></div></div></div>
+      <div class="bar-row"><div class="bar-lbl" style="font-weight:700;color:var(--fg)">PFM (기준)</div><div class="bar-track"><div class="bar-fill" style="width:94.7%;background:var(--pfm)"><span class="bar-val">94.7%</span></div></div></div>
+      <div class="bar-row"><div class="bar-lbl">유리침윤 알루미나</div><div class="bar-track"><div class="bar-fill" style="width:94.6%;background:var(--cer);opacity:.7"><span class="bar-val">94.6%</span></div></div></div>
+      <div class="bar-row"><div class="bar-lbl">지르코니아 (베니어드)</div><div class="bar-track"><div class="bar-fill" style="width:92.1%;background:var(--zir);opacity:.7"><span class="bar-val">92.1%</span></div></div></div>
+      <div class="bar-row"><div class="bar-lbl">장석/실리카 세라믹</div><div class="bar-track"><div class="bar-fill" style="width:73%;background:var(--mu);opacity:.5"><span class="bar-val">~73%</span></div></div></div>
+    </div>
+    <p class="note">LD·알루미나: PFM과 통계적 동등 ✓ / 1세대 지르코니아: 생존율 충분하나 베니어 치핑 문제 ⚠️</p>
+  </div>
+
+  <div class="g2">
+    <div class="card">
+      <p class="card-label">역사적 의의</p>
+      <h3>전세라믹 패러다임 정당화</h3>
+      <div class="evl" style="margin-top:10px">
+        <div class="evl-item"><div class="evl-yr">LD·알루미나</div><div class="evl-t">PFM 대등성 확립</div><div class="evl-d">대규모 근거로 처음 전세라믹 임상 타당성 증명</div></div>
+        <div class="evl-item"><div class="evl-yr">1세대 지르코니아</div><div class="evl-t">치핑 문제 확인</div><div class="evl-d">생존율 충분 / 베니어 세라믹 치핑이 임상적 한계로 부상</div></div>
+        <div class="evl-item"><div class="evl-yr">장석 세라믹</div><div class="evl-t">구치부 사용 비권장</div><div class="evl-d">생존율 현저히 낮아 전치부 단독 적응증으로 한정</div></div>
+      </div>
+    </div>
+    <div class="card">
+      <p class="card-label">주요 1세대 시스템</p>
+      <h3>재료별 적응증</h3>
+      <div style="display:flex;flex-direction:column;gap:7px;margin-top:10px">
+        <div class="lim"><strong style="color:var(--cer)">IPS Empress (류사이트)</strong>전치부 단관만 / 구치부 ×</div>
+        <div class="lim"><strong style="color:var(--cer)">IPS e.max LD (~400 MPa)</strong>전치·구치 단관 ○ / 전치 3유닛 FDP ○</div>
+        <div class="lim"><strong style="color:var(--cer)">In-Ceram Alumina</strong>전치부 FDP ○ (고강도)</div>
+        <div class="lim"><strong style="color:var(--zir)">1세대 지르코니아 (베니어드)</strong>생존율 충분 / 치핑 → 모놀리식 전환 필요</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ═══ PANEL 3: ZIRCONIA ═══ -->
+<div class="panel" id="p-zir">
+  <div class="g2">
+    <div class="card">
+      <p class="card-label">시대 개요</p>
+      <h3>지르코니아 혁명 — 베니어링 없이 PFM을 대체하다</h3>
+      <p>위상 변환 강화(tetragonal→monoclinic 균열 선단 에너지 흡수) 메커니즘이 치핑 없는 모놀리식 디자인을 가능하게 했습니다.</p>
+      <p>Pjetursson 2026 SR+MA: 모놀리식 LD/지르코니아 = PFM 동등 성능 확인.</p>
+    </div>
+    <div class="card">
+      <p class="card-label">Pjetursson 2026 — SR+MA (64편)</p>
+      <h3>5년 생존율</h3>
+      <div class="stats">
+        <div class="stat"><div class="stat-n c-zir">98.5%</div><div class="stat-d">모놀리식 LD<br>(최고)</div></div>
+        <div class="stat"><div class="stat-n c-zir">97.3%</div><div class="stat-d">베니어드 Zr<br>치밀소결</div></div>
+        <div class="stat"><div class="stat-n c-zir">96.8%</div><div class="stat-d">모놀리식 Zr<br>치밀소결</div></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card" style="margin-bottom:14px">
+    <p class="card-label">Ban 2021 — 지르코니아 12종 분류 · 이트리아 함량 스펙트럼</p>
+    <div style="margin-top:12px">
+      <div class="sp-labels"><span>고강도 (저투명)</span><span>고투명 (저강도)</span></div>
+      <div class="sp-track"></div>
+      <div class="zr-grid">
+        <div class="zr-card">
+          <div class="zr-name">3Y-TZP</div>
+          <div class="zr-attr"><span class="zr-al">굴곡강도</span><span class="zr-av">~1,200 MPa</span></div>
+          <div class="mini-bar"><div class="mini-fill" style="width:100%;background:var(--zir)"></div></div>
+          <div class="zr-attr"><span class="zr-al">투명도</span><span class="zr-av">낮음</span></div>
+          <div class="mini-bar"><div class="mini-fill" style="width:28%;background:var(--mu)"></div></div>
+          <div class="zr-attr"><span class="zr-al">적응증</span><span class="zr-av" style="font-size:10px">구치부·프레임워크·어버트먼트</span></div>
+        </div>
+        <div class="zr-card">
+          <div class="zr-name">4Y-TZP</div>
+          <div class="zr-attr"><span class="zr-al">굴곡강도</span><span class="zr-av">~800 MPa</span></div>
+          <div class="mini-bar"><div class="mini-fill" style="width:67%;background:var(--zir)"></div></div>
+          <div class="zr-attr"><span class="zr-al">투명도</span><span class="zr-av">중간</span></div>
+          <div class="mini-bar"><div class="mini-fill" style="width:60%;background:#6090EE"></div></div>
+          <div class="zr-attr"><span class="zr-al">적응증</span><span class="zr-av" style="font-size:10px">전치·구치 단관·심미 증례</span></div>
+        </div>
+        <div class="zr-card">
+          <div class="zr-name">5Y-TZP</div>
+          <div class="zr-attr"><span class="zr-al">굴곡강도</span><span class="zr-av">~500 MPa</span></div>
+          <div class="mini-bar"><div class="mini-fill" style="width:40%;background:var(--zir)"></div></div>
+          <div class="zr-attr"><span class="zr-al">투명도</span><span class="zr-av">높음</span></div>
+          <div class="mini-bar"><div class="mini-fill" style="width:95%;background:#A8D0F5"></div></div>
+          <div class="zr-attr"><span class="zr-al">적응증</span><span class="zr-av" style="font-size:10px">저하중 전치부 단관만</span></div>
+        </div>
+      </div>
+      <p class="note" style="margin-top:12px">ATZ (알루미나 강화 지르코니아): 굴곡강도 ~2,000 MPa → 임플란트 고정체용 / LTD 저항↑</p>
+    </div>
+  </div>
+
+  <div class="g2">
+    <div class="card">
+      <p class="card-label">Aboushelib 2026 — 임상 결정사항</p>
+      <h3>소결·표면처리 프로토콜</h3>
+      <div class="proto">
+        <div class="proto-item pi-ok"><strong>3Y-PSZ + 속성 소결</strong>강도 차이 없음(p=0.10) → 당일 보철 워크플로우 적합 ✓</div>
+        <div class="proto-item pi-warn"><strong>4Y-PSZ + 속성 소결</strong>강도 유의 감소(p&lt;0.001) → 일반 소결 필수 ⚠️</div>
+        <div class="proto-item" style="background:var(--sf2);border-left:3px solid var(--mu);font-size:12.5px;color:var(--fg2)"><strong style="display:block;margin-bottom:3px;font-size:12px">의자 옆 연삭(grinding)</strong>3Y·4Y 모두 강도↓ → 연마 후처리 필수 ⚠️</div>
+        <div class="proto-item" style="background:var(--cer-bg);border-left:3px solid var(--cer);font-size:12.5px;color:var(--fg2)"><strong style="color:var(--cer);display:block;margin-bottom:3px;font-size:12px">유리구슬 처리 (3Y-PSZ)</strong>강도 유의 증가(p&lt;0.001) → 접착 전 권장 ✓</div>
+      </div>
+    </div>
+    <div class="card">
+      <p class="card-label">생물학적 특성 — Ban 2021</p>
+      <h3>연조직 적합성</h3>
+      <div style="display:flex;flex-direction:column;gap:7px;margin-top:10px">
+        <div class="lim"><strong>거울연마 지르코니아</strong>치과 재료 중 세균 부착 최소 → 임플란트·어버트먼트에 이상적</div>
+        <div class="lim"><strong>연조직 반응</strong>다른 세라믹 재료보다 우수 — 임플란트 주변 치은 건강에 유리</div>
+        <div class="lim"><strong>LTD (저온열화)</strong>이트리아 증가 → LTD 저항↓, 임상 구강 환경에서 관리 가능</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ═══ PANEL 4: DIGITAL ═══ -->
+<div class="panel" id="p-dig">
+  <div class="g2">
+    <div class="card">
+      <p class="card-label">시대 개요</p>
+      <h3>CAD/CAM 디지털 전환</h3>
+      <p>CAD/CAM은 보철재료 발전과 독립적으로 워크플로우를 혁신하면서 모놀리식 지르코니아 주류화를 가속시켰습니다.</p>
+      <p>Strasding 2024: Ti-base 지대주 표준화 · 디지털 임프레션 · 모놀리식 밀링 → 기공 단계 간소화, 결과 예측성 향상.</p>
+    </div>
+    <div class="card">
+      <p class="card-label">디지털 워크플로우 혁신</p>
+      <h3>4단계 전환</h3>
+      <div class="evl" style="margin-top:10px">
+        <div class="evl-item"><div class="evl-yr">1단계</div><div class="evl-t">디지털 인상</div><div class="evl-d">실리콘 대체, 치수 정확도 향상, 환자 불편 감소</div></div>
+        <div class="evl-item"><div class="evl-yr">2단계</div><div class="evl-t">CAD 설계</div><div class="evl-d">왁스업 대체, 표준화 해부 라이브러리, 파라메트릭 디자인</div></div>
+        <div class="evl-item"><div class="evl-yr">3단계</div><div class="evl-t">5축 밀링</div><div class="evl-d">모놀리식 당일 보철 가능(3Y-PSZ만) — 기공 단계 대폭 단축</div></div>
+        <div class="evl-item"><div class="evl-yr">4단계</div><div class="evl-t">Ti-base 지대주</div><div class="evl-d">임플란트 보철 표준화 — Ti 계면 + 세라믹 크라운 맞춤화</div></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card">
+    <p class="card-label">Strasding 2024 — CAD/CAM 임플란트 보철 재료·지대주 선택</p>
+    <div style="overflow-x:auto;margin-top:12px">
+      <table class="sel-tbl">
+        <thead><tr><th>적응증</th><th>상부구조물</th><th>지대주</th><th>비고</th></tr></thead>
+        <tbody>
+          <tr><td>임플란트 구치 단관</td><td class="c1">모놀리식 3Y-TZP</td><td>Ti-base</td><td style="font-size:11.5px;color:var(--mu)">치핑 없음, 속성소결 가능</td></tr>
+          <tr><td>임플란트 전치 단관</td><td class="c1">LD 글라스세라믹</td><td>Ti-base</td><td style="font-size:11.5px;color:var(--mu)">최우수 심미, 미세베니어</td></tr>
+          <tr><td>임플란트 구치 FDP</td><td class="c1">지르코니아 프레임워크</td><td>Ti-base</td><td style="font-size:11.5px;color:var(--mu)">모놀리식 또는 미세베니어</td></tr>
+          <tr><td>심미 최우선 전치</td><td class="c1">4Y/5Y-TZP 모놀리식</td><td>Ti-base</td><td style="font-size:11.5px;color:var(--mu)">충분한 LD 대안</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="note">Ti-base: 모놀리식 지르코니아 지대주 대비 파절 저항↑, 모든 임플란트 시스템에 범용 적용 가능</p>
+  </div>
+</div>
+
+<!-- ═══ MATERIAL SELECTION ═══ -->
+<div class="sh"><h2>재료 선택 가이드</h2><span>2024년 현재 근거 기반</span></div>
+<div class="card">
+  <div style="overflow-x:auto">
+    <table class="sel-tbl">
+      <thead><tr><th>적응증</th><th>1차 선택</th><th>대안</th></tr></thead>
+      <tbody>
+        <tr><td>치아지지 구치 단관</td><td class="c1">모놀리식 3Y/4Y-TZP</td><td style="color:var(--mu);font-size:12.5px">LD 글라스세라믹</td></tr>
+        <tr><td>치아지지 전치 단관</td><td class="c1">LD 글라스세라믹</td><td style="color:var(--mu);font-size:12.5px">모놀리식 4Y/5Y-TZP</td></tr>
+        <tr><td>임플란트 구치 단관</td><td class="c1">모놀리식 3Y-TZP + Ti-base</td><td style="color:var(--mu);font-size:12.5px">LD + Ti-base</td></tr>
+        <tr><td>임플란트 전치 단관</td><td class="c1">LD + Ti-base</td><td style="color:var(--mu);font-size:12.5px">모놀리식 4Y-TZP + Ti-base</td></tr>
+        <tr><td>다유닛 임플란트 FDP</td><td class="c1">지르코니아 프레임워크</td><td style="color:var(--mu);font-size:12.5px">Ti-세라믹 하이브리드</td></tr>
+        <tr><td>임플란트 고정체</td><td class="c1">티타늄 (표준)</td><td style="color:var(--mu);font-size:12.5px">ATZ 지르코니아 (선택 증례)</td></tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<!-- ═══ KEY EVIDENCE ═══ -->
+<div class="sh"><h2>핵심 근거 연대기</h2><span>위키 인제스트 논문 기준</span></div>
+<div class="card">
+  <div style="display:grid;grid-template-columns:1fr 1fr;gap:0 28px">
+    <div class="evl" style="padding-top:4px">
+      <div class="evl-item"><div class="evl-yr">2024 · <span class="badge b-gld">후향코호트</span></div><div class="evl-t">Krug 2024 — 골드크라운 24.8년</div><div class="evl-d">N=325, CGPC 23.5년 91.8% · 연간 실패율 0.7%</div></div>
+      <div class="evl-item"><div class="evl-yr">2014 · <span class="badge b-pfm">후향코호트</span></div><div class="evl-t">Behr 2014 — PFM 25년</div><div class="evl-d">n=997, 구치 10년 95.9% → 황금기준 확립</div></div>
+      <div class="evl-item"><div class="evl-yr">2015 · <span class="badge b-sr">SR 67편</span></div><div class="evl-t">Sailer 2015 — 전세라믹 비교</div><div class="evl-d">n=14,097. LD·알루미나 = PFM 대등. 치핑 문제 확인</div></div>
+      <div class="evl-item"><div class="evl-yr">2021 · <span class="badge b-zir">고찰</span></div><div class="evl-t">Ban 2021 — 12종 분류</div><div class="evl-d">이트리아 함량·단/다색·조성·층수 4축 분류 체계</div></div>
+      <div class="evl-item"><div class="evl-yr">2023 · <span class="badge b-zir">고찰</span></div><div class="evl-t">Kui 2023 — 투명 지르코니아</div><div class="evl-d">3Y/4Y/5Y-TZP 광학·기계·접착·임플란트 적용 종합</div></div>
+    </div>
+    <div class="evl" style="padding-top:4px">
+      <div class="evl-item"><div class="evl-yr">2024 · <span class="badge b-sr">SR</span></div><div class="evl-t">Strasding 2024 — CAD/CAM</div><div class="evl-d">Ti-base 표준화, 모놀리식 Zr 임플란트 보철 가이드</div></div>
+      <div class="evl-item"><div class="evl-yr">2026 · <span class="badge b-sr">SR+MA 64편</span></div><div class="evl-t">Pjetursson 2026 — 최신 종합</div><div class="evl-d">모놀리식 Zr = PFM 동등 / 모놀리식 LD 5년 98.5% 최고</div></div>
+      <div class="evl-item"><div class="evl-yr">2026 · <span class="badge b-cer">실험</span></div><div class="evl-t">Aboushelib 2026 — 소결·표면처리</div><div class="evl-d">3Y-PSZ: 속성소결 안전 / 4Y-PSZ: 일반소결 필수</div></div>
+    </div>
+  </div>
+</div>
+
+<p style="font-size:11px;color:var(--mu);margin-top:20px;text-align:center">근거 출처: LLM Wiki (치과학) — 인제스트된 논문 기반. 직접 확인 없는 임상 판단에는 반드시 원문 참조.</p>
+
+<script>
+/* ── Cache freshness — interactive standard v1 ──
+   PAGE_VERSION: 콘텐츠 업데이트 시 반드시 범프 (YYYYMMDD-vN 형식)
+   탭이 30분 이상 숨겨진 후 복귀 시 → 강제 리로드 (GitHub Pages 캐시 우회) */
+const PAGE_VERSION = '20261104-v2';
+const _VK = 'prosthetics_hist_ver';
+const _HK = 'prosthetics_hist_hidden';
+try {
+  const sv = localStorage.getItem(_VK);
+  if (sv && sv !== PAGE_VERSION) { localStorage.setItem(_VK, PAGE_VERSION); location.reload(true); }
+  else localStorage.setItem(_VK, PAGE_VERSION);
+} catch(e) {}
+document.addEventListener('visibilitychange', () => {
+  if (document.hidden) {
+    try { localStorage.setItem(_HK, Date.now()); } catch(e) {}
+  } else {
+    try {
+      const ht = parseInt(localStorage.getItem(_HK) || '0');
+      if (ht && (Date.now() - ht) > 30 * 60 * 1000) {
+        localStorage.setItem(_HK, '0');
+        location.reload(true);
+      }
+    } catch(e) {}
+  }
+});
+
+/* ── Era tabs ── */
+document.querySelectorAll('.era-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    const e = btn.dataset.e;
+    document.querySelectorAll('.era-btn').forEach(b => { b.classList.remove('on'); b.setAttribute('aria-selected','false'); });
+    document.querySelectorAll('.panel').forEach(p => p.classList.remove('on'));
+    btn.classList.add('on'); btn.setAttribute('aria-selected','true');
+    document.getElementById('p-'+e).classList.add('on');
+  });
+});
+</script>
