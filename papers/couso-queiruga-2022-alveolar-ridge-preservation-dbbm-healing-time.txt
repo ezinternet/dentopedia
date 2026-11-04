@@ -1,0 +1,1175 @@
+Clinical Relevance
+
+: Deproteinized bovine bone mineral with collagen (DBBM‐C) has been extensively used for alveolar ridge preservation (ARP). However, no clinical study has evaluated the effect that healing time has on the outcomes of therapy.
+
+: Longer healing time was associated with a higher proportion of mineralized tissue respective to non‐mineralized tissue. Although a decrease in the proportion of remaining xenograft material was observed over time, these differences were not significant between 6 and 9 months of healing, corroborating that DBBM particles exhibit a slow biodegradation rate. Dimensional changes were illustrative of a progressive atrophy affecting mainly the facial aspect of the alveolar ridge. These changes were more pronounced when the facial bone thickness upon extraction was ≤1 mm.
+
+: The longer the healing time, the higher the proportion of mineralized tissue with respect to non‐mineralized tissue. However, minimal differences were observed between 6 and 9 months of healing for all outcomes of interest. The information provided in this study should be taken into consideration when making clinical decisions pertaining to the timing of surgical re‐entry after performing ARP with DBBM‐C in non‐molar sites.
+
+1
+
+INTRODUCTION
+
+Tooth extraction is a commonly performed procedure in daily clinical practice (Saadoun,; Tonetti et al.,; Kao,). It is well established that the peak of alveolar ridge modelling after tooth extraction typically occurs during the first 4–6 weeks, but progressive atrophy may continue at a slower rate over time (Schropp et al.,; M. G. Araújo & Lindhe,; Chappuis et al.,; Couso‐Queiruga, Stuhr, et al.,). Whether the treatment plan for tooth replacement includes a fixed, removable, implant, or tooth‐supported prosthesis, alveolar ridge reduction may result in a significant clinical challenge. The therapeutic options to overcome alveolar ridge atrophy may include diverse modalities of bone and/or soft tissue augmentation, which are known to be associated with a variable degree of success and predictability (Abrams,; Orth,; Seibert & Louis,; Aghaloo & Moy,; Beitlitum et al.,; Fu & Wang,; Kuchler & von Arx,; Antonious et al.,). Numerous studies have demonstrated that post‐extraction alveolar ridge modelling, although not completely avoidable, may be significantly attenuated with alveolar ridge preservation (ARP) therapy via socket filling/grafting (Lekovic et al.,; Iasella et al.,; M. G. Araújo et al.,; Avila‐Ortiz et al.,; Saito et al.,; Couso‐Queiruga et al.,).
+
+Over the past two decades, a wide variety of techniques and graft materials have been proposed for ARP. Among them, the application of deproteinized bovine bone mineral with collagen (DBBM‐C) has been shown to be effective in limiting alveolar ridge atrophy in intact (Alkan et al.,) and damaged extraction sites (Jung et al.,; Nart et al.,). Aside for ARP, the use of DBBM‐C has also been documented in an array of surgical indications, such as treatment of infrabony periodontal defects, ridge augmentation prior to or at the time of implant placement, treatment of peri‐implant bone defects, and orthognathic surgery (Nevins et al.,,; Reddy et al.,; M. Araújo et al.,; M. G. Araújo et al.,; Roccuzzo et al.,; Scheyer et al.,; Trevisiol et al.,).
+
+Interestingly, pre‐clinical research has shown that the use of DBBM‐C for ARP can be associated with delayed healing, mainly in the central and coronal portions of the extraction socket (M. Araújo et al.,). In a clinical study, Lindhe and collaborators compared human sockets filled with DBBM‐C covered with a collagen matrix (CM) to sockets where a CM was placed without insertion of a bone graft material. At 6 months, the histologic analyses revealed that approximately 19% of the core biopsies obtained from sites filled with DBBM‐C were constituted by residual xenograft material, which was encapsulated by connective tissue in the central portion of the specimen. Although the percentage of mineralized tissue in the test and control group was 39.9% and 57.4%, respectively, the authors speculated that with longer healing time, the proportion of mineralized tissue respective to xenograft remnants would increase (Lindhe et al.,). While a short healing time (6–10 weeks) does not appear to significantly affect the outcomes of therapy in terms of preservation of ridge dimensions and implant survival (Heberer et al.,; Heinemann et al.,), the biological events behind the observed delayed healing and the ideal time for surgical re‐entry in sites treated with DBBM‐C remain unclear. To date, no human histologic study has evaluated the healing of extraction sites filled with DBBM‐C for healing periods beyond 6 months. Hence, the primary aim of this study was to evaluate histomorphometrically bone core biopsies harvested from non‐molar post‐extraction sites filled with DBBM‐C after a variable healing time (3, 6, and 9 months). The secondary aim of this study was to evaluate the efficacy of ARP based on a panel of clinical, digital, implant‐related, and patient‐reported outcomes.
+
+2
+
+MATERIALS AND METHODS
+
+2.1
+
+Experimental design and centre
+
+This study was designed as a randomized clinical trial in compliance with the Consolidated Standards of Reporting Trials guidelines (Schulz et al.,). The clinical component of this study was conducted in the Department of Periodontics at the University of Iowa College of Dentistry and Dental Clinics between February 2019 and January 2022.
+
+2.2
+
+Ethical approval and registration
+
+Approval for the experimental protocol was obtained from the University of Iowa Institutional Review Board in September 2018 (HawkIRB #201806050) and prospectively registered on(;) on September 6, 2018.
+
+2.3
+
+Randomization
+
+Patients were randomly assigned to one of three treatment groups, using a computer‐generated randomization list generated a priori by a team member not involved in the clinical procedures.
+
+2.4
+
+Outcomes of interest
+
+2.4.1
+
+Primary outcome
+
+Histomorphometric outcomes
+
+The percentage of residual xenograft material and mineralized and non‐mineralized tissue in bone core biopsies obtained at the time of implant placement.
+
+2.4.2
+
+Secondary outcomes
+
+Clinical outcomes
+
+Incidence and type of complications during the study period.
+
+Visual assessment of wound healing at different post‐operative time intervals using a three‐point index described elsewhere (Avila‐Ortiz, Gubler, et al.,).
+
+Bucco‐lingual and mesio‐distal CM exposure in millimetre at different post‐operative time intervals.
+
+Implant‐related outcomes
+
+Feasibility of implant placement and need for ancillary bone and/or soft tissue augmentation procedures.
+
+Implant insertion torque (Ncm) and primary stability.
+
+Digital imaging dimensional outcomes
+
+Horizontal facial and lingual soft tissue thickness change in millimetre from baseline to different healing time points.
+
+Vertical mid‐facial and mid‐lingual soft tissue height change in millimetre from baseline to different healing time points.
+
+Horizontal alveolar bone width change in millimetre from baseline to different healing time points.
+
+Vertical mid‐facial and mid‐lingual crestal bone height change in millimetre from baseline to different healing time points.
+
+Alveolar ridge contour volume change in cubic millimetre from baseline to different healing time points.
+
+Alveolar bone volume change in cubic millimetre from baseline to different healing time points.
+
+Patient‐reported outcome measures (PROMs)
+
+Self‐reported post‐operative discomfort.
+
+Overall satisfaction upon completion of the study.
+
+2.5
+
+Eligibility criteria and recruitment
+
+Adult subjects in need of non‐molar maxillary or mandibular single tooth extraction at the University of Iowa College of Dentistry (Iowa City, IA, USA) were eligible to participate in this study. The inclusion criteria were as follows: (1) ≥18 years of age; (2) non‐molar tooth indicated for extraction; (3) ASA status I or II; (4) upon extraction, socket walls must be intact or have no more than one bony wall (facial or lingual) dehiscence extending no more than 50% of the total bony wall height; (5) treatment plan must include tooth replacement with an implant‐supported fixed dental prosthesis. The exclusion criteria were as follows: (1) mandibular incisors; (2) acute infection associated with the tooth to be extracted or with adjacent teeth; (3) current smokers or former smokers who quit within 6 months prior to enrolment; (4) uncontrolled diabetes mellitus (HbA1c >7.0); (5) liver or kidney failure; (6) any active oral or systemic acute infections; (7) currently receiving chemo‐or radiotherapy or a history of radiotherapy in the head and neck area; (8) severe haematologic disorders; (9) any other diseases or medications that may compromise normal wound healing; (10) pregnancy or nursing mother; (11) history of lack of compliance with dental visits or unwilling to return for the required number of visits; (12) unwilling or unable to sign the informed consent.
+
+Patients who expressed an interest to participate in this study were pre‐screened by phone by the clinical coordinator. At the clinical screening examination, candidates were informed of the purpose and timeline of the study. All potential subjects were required to read, understand, and sign the consent form, which included a thorough explanation of the study design, as well as expected benefits and possible risks of participating in the study.
+
+2.6
+
+Clinical procedures
+
+Before the baseline surgical intervention, standard tessellation language (STL) files of the arch of interest were obtained using an intra‐oral scanner (Planmeca Emerald S, Planmeca, Roselle, IL, USA). Additionally, a cone‐beam computed tomographic (CBCT) scan (i‐CAT Next Generation, Imaging Sciences International Inc., Hatfield, PA, USA) of the arch of interest was taken. The field of view was approximately 6 cm at 0.3 mm voxel size and the exposure factor settings were fixed at 120 kVp and 18.66 mAs for all scans. All surgical procedures were performed under local anaesthesia. Prior to tooth extraction, mid‐facial keratinized mucosa width (KMW) was recorded using a periodontal probe (UNC‐15; Hu‐Friedy). At baseline, flapless tooth extraction was performed with care to minimize trauma to the periodontal structures. All alveolar sockets were gently curetted to eliminate any granulomatous tissue and subsequently inspected. Extraction sites that did not meet the alveolar bone integrity criteria were excluded from the study. Sockets were filled up to the level of the highest point of the alveolar bone crest using DBBM‐C (Bio‐Oss Collagen, Geistlich Pharma AG, Wolhusen, Switzerland). The orifice was sealed with a porcine CM (Mucograft Seal, Geistlich Pharma AG, Wolhusen, Switzerland) and secured with four to six simple interrupted sutures (Resolon 6‐0, Resorba Medical GmbH, Nürnberg, Germany), as depicted in Figure.
+
+All patients received detailed verbal and written post‐operative instructions, prescriptions for anti‐inflammatory medication (ibuprofen 600 mg TID for 3–5 days, as needed), and antibiotic therapy (amoxicillin 500 mg every 8 h for 7 days or, in case of penicillin allergy, clindamycin 300 mg every 6 h for 7 days). Patients were recalled at approximately 1, 2, and 6 weeks. Sutures were removed at 1 week. At every post‐operative visit, wound healing score and extent of CM exposure over the extraction site using a periodontal probe were recorded by a study team member. Prior to implant placement, a second intra‐oral scan and CBCT were obtained at 10, 20, or 32 weeks, depending on the study group, following the same protocol previously described.
+
+Implant placement was performed per standard procedure. The selection of the implant system (either Straumann BL or Astra Tech Dentsply Implants) and dimensions was based on the surgical and restorative needs of each case. A trephine drill with an internal diameter of 2.5 mm and a maximum length of 15 mm was used to harvest a bone core for histologic analysis. The bone core was immediately submerged in a solution of 10% neutral buffered formalin (NBF). Osteotomies and implant placement were complete following the manufacturer's recommendations. Insertion torque was recorded. Depending on the peri‐implant phenotypic characteristics of the site (Avila‐Ortiz, Gonzalez‐Martin, et al.,), ancillary soft and/or bone tissue augmentation procedures were performed accordingly. Ancillary bone augmentation at the time of implant placement was deemed necessary if a minimum of 1 mm circumferential bone support was not observed around the implant fixture in the planning phase using CBCT imaging.
+
+FIGURE 1
+
+Multipanel illustrating the sequence of treatment in a standard case that was done as part of this study. (a) Baseline. (b) Tooth extraction. (c) Socket filled with DBBM‐C. (d, e) Socket sealed with CM before and after hydration. (f) CM secured with four simple interrupted sutures. (g) Post‐operative aspect at 1 week. (h) Post‐operative aspect at 6 weeks. (i) Post‐operative aspect at 8 weeks. (j) Full‐thickness mucoperiosteal flap. (k, l) Bone core biopsy sample obtained prior to implant placement. (m, n) One‐stage implant placement approach. (o) Surgical site upon completion of the procedure. (p) Aspect of the peri‐implant mucosa at 6 months after implant provisionalization. (q, r) Final crown delivery. CM, collagen matrix; DBBM‐C, deproteinized bovine bone mineral with collagen
+
+2.7
+
+Histomorphometric analyses
+
+After proper fixation for 24–48 h in NBF, bone core biopsy samples were decalcified in a hydrochloric acid solution and then dehydrated in ethanol baths of increasing concentration. Samples were then embedded in paraffin blocks. After longitudinal sections of 5 μm were obtained, samples were deparaffined, rehydrated, and mounted onto glass slides and dried overnight. Samples were subsequently stained with haematoxylin and eosin and coverslipped for microscopic analysis. Photomicrographs of the entire length of the samples, as shown in Figure, were obtained under a light microscope (Primo Star, Zeiss) by one of the investigators (G.A.O.). Histological analyses were performed on the whole area of the sample by a calibrated and blinded examiner (H.A.W.) using an open software package (ImageJ, NIH). The areas of mineralized tissue and remaining xenograft material were quantified based on appearance and expressed as a percentage of the total area. The remaining area in the sample was categorized as non‐mineralized tissue. The examiner was previously calibrated by conducting a series of 10 separate histomorphometric analyses in duplicate using random samples.
+
+2.8
+
+Digital imaging assessments
+
+To ensure data quality, an independent calibrated examiner (E.C.Q.) measured all linear and volumetric outcomes of interest in 10 random patients, verifying that an inter‐class correlation coefficient of at least 0.9 could be achieved, after which data collection ensued.
+
+2.8.1
+
+Bone and soft tissue linear measurements
+
+Both baseline and final STL‐DICOM files were imported to a software package (Romexis, Planmeca v.5.2.1., Hoffman Estates, IL, USA) and superimposed by matching at least eight points using bone landmarks to allow the visualization of soft and hard tissue structures beneath the overlying surface, as described elsewhere (Couso‐Queiruga, Tattan, et al.,; Saleh et al.,). At baseline, a sagittal section was made in the middle of each tooth of interest. Facial and lingual soft tissue and bone thickness were measured at 1 mm apical to the gingival margin and the alveolar crest, respectively. Soft tissue and bone linear horizontal changes between baseline and the final follow‐up were measured in millimetre at 1, 3, and 5 mm apical to the baseline mid‐facial or mid‐lingual alveolar crest. Finally, mid‐facial and mid‐lingual soft tissue and bone vertical changes between baseline and the final follow‐up were obtained using adjacent anatomical landmarks for consistency.
+
+2.8.2
+
+Volumetric alveolar bone and ridge contour volume change
+
+Bone volume changes in cubic millimetre from baseline to the final follow‐up were assessed using DICOM files that were imported into a software package (Romexis, Planmeca, v.5.2.1., Hoffman Estates, IL, USA). Manual segmentation was used to define a volume of interest (VOI) that was standardized in both DICOM files (baseline and final) using reproducible apical, coronal, bucco‐lingual, and mesio‐distal boundaries. Facial and lingual volumetric bone assessments were made separately by dividing the VOI with an additional sectional plane using the baseline mesial and alveolar bone peaks as reference points. Alveolar ridge volume changes in cubic millimetre from baseline to the final follow‐up were assessed by analysing the STL files. Baseline and final STL files were superimposed with an average error established at ±0.15 mm between STL files in adjacent areas where no treatment was performed (Geomagic Control X, 3D Systems, Rock Hill, SC, USA). The anatomical tooth crown was virtually removed in the baseline STL files (Meshmixer, Autodesk Inc., San Francisco, CA, USA). Standardized VOIs were obtained by trimming the STL files using reproducible apical, coronal, bucco‐lingual, and mesio‐distal boundaries to quantify the total volume changes (Geomagic Control X, 3D Systems, Rock Hill, SC, USA). Facial and lingual alveolar ridge volume changes were quantified separately by dividing the VOI with an additional sectional plane using the baseline mesial and distal papillae as references.
+
+2.9
+
+Patient‐reported outcome measures
+
+Patients were asked to rate their level of post‐operative discomfort after tooth extraction and ARP therapy at 1, 2, 6 weeks, and prior to implant placement, as well as overall satisfaction upon study completion using a 100‐point visual analogue scale. This was done prior to the clinical examination with the purpose of eliminating observer effect bias.
+
+2.10
+
+Sample size calculation
+
+Data from a previous study (Heberer et al.,) were used to perform the sample size calculation. In this study, histomorphometric outcomes were assessed after filling extraction sites with DBBM‐C. It was found that the mean percentage of mineralized tissue was 28%, with a standard deviation (SD) of 12%, remaining xenograft material represented an average of 11% with a SD of 7%, and non‐mineralized tissue accounted for 54% with an SD of 11.5%. SDs were calculated from the reported range of values. Using a sample size calculator for ANOVA (G*Power 3.1) with a significance level = 0.05, effect size = 0.5, and a power of 80% (Faul et al.,), the number of patients per group required in this study would be 14, totalling to 42 patients.
+
+2.11
+
+Statistical analyses
+
+Median and range (min and max) descriptive statistics were used to accurately capture the distribution of the data. Correlations between groups were calculated using a Spearman's rank correlation coefficient. For the correlations of data pooled from all participants, the assumption of normality was tested, and if met, a Pearson's correlation coefficient was calculated. The‐values calculated for the correlation coefficients were done with a t‐test comparing the two groups and the strength of association. The‐values calculated for categorical and quantitative associations were calculated using a Mann–Whitney–Wilcoxon test comparing the medians of two groups. If the‐value was less than .05, then it was inferred that the groups were constituted by non‐identical populations at a 5% significance level. A Kruskal–Wallis test was performed to compare the three groups regarding histomorphometric, volumetric, and linear assessments. Histomorphometric data were expressed as the percentage of mineralized tissue, remaining xenograft material, and non‐mineralized tissue with respect to the total sample area.
+
+3
+
+RESULTS
+
+3.1
+
+Population
+
+A total of 79 patients were screened. Twenty‐six subjects were not eligible upon initial screening and 11 were excluded upon tooth extraction because of damage to the alveolar bone that was incompatible with the eligibility criteria. A total of 42 patients completed the study (= 14 in each group). The study population included 18 males (42.9%) and 24 females (57.1%), with a median age of 57.5 years (range: 24–84 years). Thirty‐nine were non‐Hispanic/not Latino and three Hispanic/Latino. The median overall body mass index of the population was 28.16 (18.94–52.77). Baseline demographic data for each group are displayed in Table. No significant differences were observed between groups at baseline.
+
+TABLE 1
+
+Baseline demographic and clinical parameters (BMI—body mass index; KMW—keratinized mucosa width)
+
+Group A (= 14)
+
+Group B (= 14)
+
+Group C (= 14)
+
+Total (= 42)
+
+Age (years)
+
+Median (range)
+
+55 (30–74)
+
+61 (38–72)
+
+52.5 (24–84)
+
+57.5 (24–84)
+
+Gender
+
+Female (%)
+
+8 (57.1%)
+
+9 (64.3%)
+
+7 (50%)
+
+24 (57.1%)
+
+Male (%)
+
+6 (42.9%)
+
+5 (35.7%)
+
+7 (50%)
+
+18 (42.9%)
+
+BMI (%)
+
+Median (range)
+
+26.85 (18.94–41.35)
+
+29.89 (23.03–52.77)
+
+28.52 (21.29–43.85)
+
+28.16 (18.94–52.77)
+
+KMW (mm)
+
+Median (range)
+
+4.5 (3–7)
+
+4 (2–8)
+
+4.5 (3–8)
+
+4 (2–8)
+
+Facial bone thickness (mm)
+
+Median (range)
+
+1.2 (0.6–2.4)
+
+1.05 (0.2–2)
+
+0.9 (0.2–2.1)
+
+1.1 (0.2–2.4)
+
+Lingual bone thickness (mm)
+
+Median (range)
+
+1.4 (0.9–1.8)
+
+1.45 (0.9–2.2)
+
+1.5 (0.8–2.5)
+
+1.5 (0.8–2.5)
+
+Facial soft tissue thickness (mm)
+
+Median (range)
+
+1.4 (1.1–2.4)
+
+1.1 (0.6–1.9)
+
+1.1 (0.7–2)
+
+1.2 (0.6–2.4)
+
+Lingual soft tissue thickness (mm)
+
+Median (range)
+
+1.95 (0.8–3.7)
+
+1.8 (1.2–3.3)
+
+1.8 (1.1–3.9)
+
+1.85 (0.8–3.9)
+
+3.2
+
+Baseline data
+
+Eight maxillary central incisors (A:1; B:4; C:3), 8 maxillary lateral incisors (A:3; B:2; C:3), 2 maxillary canines (A:0; B:2; C:0), 6 maxillary first premolars (A:3; B:1; C:2), 15 maxillary second premolars (A:5; B:6; C:4), 1 mandibular canine (A:0; B:0; C:1), 1 mandibular first premolar (A:0; B:1; C:0), and 1 mandibular second premolar (A:0; B:0; C:1) were extracted due to deep horizontal or oblique root fracture (= 33), prosthetic reasons (= 5), endodontic problems (= 2), extensive caries (= 1), or root resorption (= 1). No significant differences in tooth type distribution per group were observed. However, mainly maxillary teeth were included in this study (= 39). Baseline median KMW was 4 mm, ranging from 2 to 8 mm. Median facial bone thickness was 1.1 mm, ranging from 0.2 to 2.4 mm. Median lingual bone thickness was 1.5 mm, ranging from 0.8 to 2.5 mm. Median facial soft tissue thickness was 1.2 mm, ranging from 0.6 to 2.4 mm. Median lingual soft tissue thickness was 1.85 mm, ranging from 0.8 to 3.9 mm. Baseline clinical parameters per group are shown in Table.
+
+3.3
+
+Clinical outcomes
+
+No serious adverse events were observed throughout the study period. Three patients reported partial loss/extravasation of the matrix or graft material during the first week (A:0, B:1, C:2). Median wound healing score at different time points was similar across groups (Table). At 1 week, the CM was still in place in 50% of the sites (bucco‐lingual and mesio‐distal exposure ranged from 1 to 6 mm in both dimensions), whereas at 2 weeks part of the CM was visible in only 28.2% of the sites (bucco‐lingual and mesio‐distal exposure ranged from 2 to 5 mm and from 1 to 4 mm, respectively). No CM remnants were observed at further post‐operative visits.
+
+3.4
+
+outcomes
+
+Implant placement was feasible and primary stability was achieved in all sites. A healing abutment of appropriate dimensions was placed, and the flap was re‐approximated around it according to a one‐stage protocol. Median insertion torque was 35 Ncm (25–45 Ncm), with no significant differences between groups. Implant diameter and length ranged from 3.6 to 4.2 mm and from 8 to 11 mm, respectively. Bone augmentation at the time of implant placement was required in 16.7% of the sites (A:2; B:1; C:4), presenting buccal bone dehiscence type defects ranging from 3 to 7 mm in depth. Interestingly, six of these seven sites (85.7%) presented a thin facial bone phenotype (thickness ≤1 mm) at baseline. However, no additional soft tissue augmentation was deemed necessary in any site.
+
+3.5
+
+Histomorphometric outcomes
+
+Correlation coefficients corresponding to the preliminary assessment of mineralized tissue and remaining xenograft material were 0.99, showing an almost perfect intra‐examiner agreement. One bone biopsy in Group A was discarded upon harvesting because it was too deteriorated for histologic processing. Hence, a total of 41 biopsies were processed and analysed. Histomorphometric data are displayed in Tableand individual photomicrographs of all histologic samples are shown in Figure. The proportion of mineralized tissue in Groups A, B, and C was 13.53%, 33.33%, and 37.05%, respectively. The proportion of non‐mineralized tissue in Groups A, B, and C was 63.32%, 55.55%, and 52.48%, respectively. The proportion of xenograft material in Groups A, B, and C was 16.94%, 10.69%, and 9.46%, respectively. These findings indicate that the longer the healing time, the higher the proportion of mineralized tissue and the lower the proportion of xenograft material. These findings also corroborate that DBBM has a low biodegradability.
+
+TABLE 2
+
+Median histomorphometric data at different groups
+
+Group A % (range)
+
+Group B % (range)
+
+Group C % (range)
+
+Total % (range)
+
+‐value
+
+Mineralized tissue
+
+13.53 (0–59.62)
+
+33.33 (0.49–56.21)
+
+37.05 (9.53–68.85)
+
+34.98 (0–68.85)
+
+.094
+
+Non‐mineralized tissue
+
+63.32 (38.5–85.93)
+
+55.55 (36.01–81.98)
+
+52.48 (29.84–62.2)
+
+55.15 (29.84–85.93)
+
+.150
+
+Remaining xenograft material
+
+16.94 (0.12–32.29)
+
+10.69 (0.5–31.2)
+
+9.46 (0.57–31.23)
+
+10.92 (0.12–32.29)
+
+.428
+
+FIGURE 2
+
+Photomicrographs of bone core biopsy samples (haematoxylin and eosin staining). (a) Group A; (b) Group B, and (c) Group C.
+
+3.6
+
+Digital imaging outcomes
+
+3.6.1
+
+Linear assessments
+
+Median bone width reduction at 1, 3, and 5 mm apical to the bone crest in Group A was −1.2, −0.85, and −0.45 mm, respectively. In Group B, the horizontal reduction was −1.35, −0.6, and −0.3 mm, respectively, whereas in Group C it was −2.4, −1.5, and −1.2 mm, respectively. Median facial bone height reduction was −0.6, −0.5, and −0.4 mm, in Groups A, B, and C, respectively. Median lingual bone height reduction was −0.4, −0.45, and −0.3 mm, in Groups A, B, and C, respectively (Table). Differences were not statistically significant between groups. However, these findings are indicative of progressive horizontal bone resorption over time. Linear regression analyses revealed an inverse relationship between facial bone thickness upon tooth extraction and ridge width reduction at 1 and 3 mm (= .02 and= .008), indicating that the thicker the facial bone thickness upon extraction, the less horizontal alveolar bone resorption overtime.
+
+Median facial soft tissue thickness changes at 1, 3, and 5 mm apical to the gingival margin in Group A were −0.1, 0.2, and 0.05 mm, respectively. In Group B, this variation was −0.3, −0.3, and −0.2 mm, respectively, while in Group C it was −0.3, −0.2, and −0.15 mm (Table). Median lingual soft tissue thickness changes at 1, 3, and 5 mm in Group A were 0, −0.1, and 0.1 mm, respectively. In Group B, this variation was 0.1, 0.2, and 0.4 mm, while in Group C it was −0.2, −0.05 and 0.1 mm. Interestingly, soft tissue thickness remained virtually unaltered over time. Median facial soft tissue height reduction was −0.9, −0.7, and −0.7 mm in Groups A, B, and C, respectively, whereas median lingual soft tissue height reduction was −0.9, −1.5, and −0.6 mm in Groups A, B, and C, respectively, as shown in Table. Differences between the groups were not statistically significant.
+
+TABLE 3
+
+Median linear bone tissue dimensions at baseline and final follow‐up dimensions, and dimensional changes in millimetre
+
+Group A median (mm)
+
+Group B median (mm)
+
+Group C median (mm)
+
+Total median (mm)
+
+‐value
+
+Horizontal ridge width at 1 mm
+
+Baseline
+
+8.55
+
+8.8
+
+8.1
+
+8.7
+
+.237
+
+Final follow‐up
+
+7.5
+
+8
+
+5.4
+
+7.5
+
+Differences (range)
+
+−1.2 (−4.2 to −0.4)
+
+−1.35 (−4 to −0.2)
+
+−2.4 (−4.2 to −0.3)
+
+−1.5 (−4.2 to −0.2)
+
+Horizontal ridge width at 3 mm
+
+Baseline
+
+9
+
+9.75
+
+8.7
+
+9
+
+.069
+
+Final follow‐up
+
+8.4
+
+8.6
+
+6.9
+
+8.1
+
+Differences (range)
+
+−0.85 (−1.5 to 0)
+
+−0.6 (−2.7 to 0)
+
+−1.5 (−3 to −0.3)
+
+−0.9 (−3 to 0)
+
+Horizontal ridge width at 5 mm
+
+Baseline
+
+8.45
+
+9.4
+
+9.6
+
+9.5
+
+.141
+
+Final follow‐up
+
+8.75
+
+9.15
+
+8.4
+
+8.7
+
+Differences (range)
+
+−0.45 (−2 to 0)
+
+−0.3 (−1.5 to 0)
+
+−1.2 (−4.2 to 0)
+
+−0.3 (−4.2 to 0)
+
+Vertical mid‐facial bone height
+
+Baseline
+
+2
+
+1.8
+
+2.4
+
+2
+
+.708
+
+Final follow‐up
+
+2.85
+
+2.55
+
+3.6
+
+2.7
+
+Differences (range)
+
+−0.6 (−2 to −0.3)
+
+−0.5 (−1.5 to −0.2)
+
+−0.4 (−2.2 to 0.6)
+
+−0.6 (−2.2 to 0.6)
+
+Vertical mid‐lingual bone height
+
+Baseline
+
+1.65
+
+1.1
+
+2.55
+
+1.5
+
+.893
+
+Final follow‐up
+
+2.05
+
+1.45
+
+3.1
+
+2.15
+
+Differences (range)
+
+−0.4 (−1.7 to 0.4)
+
+−0.45 (−1.4 to −0.1)
+
+−0.3 (−1.8 to −0.1)
+
+−0.4 (−1.8 to 0.4)
+
+TABLE 4
+
+Median linear soft tissue dimensions at baseline and final follow‐up, and dimensional changes in millimetre
+
+Group A median (mm)
+
+Group B median (mm)
+
+Group C median (mm)
+
+Total median (mm)
+
+‐value
+
+Facial soft tissue thickness at 1 mm
+
+Baseline
+
+0.9
+
+0.9
+
+1
+
+0.9
+
+.427
+
+Final follow‐up
+
+1.1
+
+1.2
+
+1.1
+
+1.1
+
+Differences (range)
+
+−0.1 (−1.2 to 0.8)
+
+−0.3 (−1 to 0.6)
+
+−0.3 (−1.1 to 0.7)
+
+−0.2 (−1.2 to 0.8)
+
+Facial soft tissue thickness at 3 mm
+
+Baseline
+
+1
+
+0.8
+
+0.9
+
+0.9
+
+.074
+
+Final follow‐up
+
+1
+
+−0.9
+
+1.2
+
+1.1
+
+Differences (range)
+
+0.2 (−1 to 0.5)
+
+−0.3 (−1.3 to 0.3)
+
+−0.2 (−1.3 to 0.3)
+
+0 (−1.3 to 0.5)
+
+Facial soft tissue thickness at 5 mm
+
+Baseline
+
+1.5
+
+1
+
+1.1
+
+1.2
+
+.102
+
+Final follow‐up
+
+1.45
+
+1.3
+
+1.35
+
+1.4
+
+Differences (range)
+
+0.05 (−0.8 to 0.7)
+
+−0.2 (−0.8 to 0.4)
+
+−0.15 (−1.5 to 0.4)
+
+0 (−1.5 to 0.7)
+
+Lingual soft tissue thickness at 1 mm
+
+Baseline
+
+3.6
+
+3.7
+
+3.3
+
+3.5
+
+.863
+
+Final follow‐up
+
+3.9
+
+4.2
+
+3.5
+
+3.6
+
+Differences (range)
+
+0 (−1.2 to 1.2)
+
+0.1 (−1.6 to 1.8)
+
+−0.2 (−1.3 to 0.3)
+
+0 (−1.6 to 1.8)
+
+Lingual soft tissue thickness at 3 mm
+
+Baseline
+
+4.2
+
+3.9
+
+3.45
+
+3.9
+
+.355
+
+Final follow‐up
+
+4.2
+
+3.9
+
+3.55
+
+3.9
+
+Differences (range)
+
+−0.1(−0.7 to 1.5)
+
+0.2 (−0.7 to 0.9)
+
+−0.05 (−1.7 to −0.7)
+
+0 (−1.7 to 1.5)
+
+Lingual soft tissue thickness at 5 mm
+
+Baseline
+
+4.5
+
+4
+
+3.9
+
+4.2
+
+.076
+
+Final follow‐up
+
+4.6
+
+3.6
+
+3.9
+
+4.3
+
+Differences (range)
+
+0.1 (−1.2 to 1.8)
+
+0.4 (0 to 0.9)
+
+0.1 (−2.4 to 0.8)
+
+0.1 (−2.4 to 1.8)
+
+Vertical mid‐facial soft tissue height
+
+Baseline
+
+−0.6
+
+−1.4
+
+0
+
+−0.6
+
+.779
+
+Final follow‐up
+
+0.8
+
+0
+
+0.9
+
+0.6
+
+Differences (range)
+
+−0.9 (−2.2 to 0.3)
+
+−0.7 (−3.9 to −0.2)
+
+−0.7 (−2.7 to 2.1)
+
+−0.8 (−3.9 to 2.1)
+
+Vertical mid‐lingual soft tissue height
+
+Baseline
+
+−1
+
+−2
+
+−0.3
+
+−1
+
+.328
+
+Final follow‐up
+
+0
+
+−0.9
+
+0.6
+
+0.1
+
+Differences (range)
+
+−0.9 (−3.5 to 0.8)
+
+−1.5 (−2.5 to −0.3)
+
+−0.6 (−3 to −0.3)
+
+−0.9 (−3.5 to 0.8)
+
+3.6.2
+
+Volumetric assessments
+
+Volumetric analyses showed that progressive alveolar ridge resorption occurred over time. In Group A, median total, facial, and lingual bone volume reduction were −6.36%, −8.55%, and −4.35%, respectively. In Group B, these values were −7.94%, −10.87%, and −5.76%, respectively. In Group C, bone volume loss was −12.45%, −14.92%, and −8.99%, respectively (Table). These median changes were significantly different between groups for total and facial alveolar ridge volume (= .001 and= .002, respectively). Linear regression analyses revealed an inverse relationship between facial bone thickness upon tooth extraction and total and facial bone volume reduction (= .001), indicating that the thicker the facial bone thickness upon extraction, the lower the total and facial bone volume reduction.
+
+Soft tissue contour analyses showed that progressive alveolar ridge reduction occurs over time. In Group A, median total, facial, and lingual soft tissue contour loss was −11.35%, − 13.29%, and −9.22%, respectively. In Group B, these values were −12.92%, −14.51%, and −8.09%, respectively. In Group C, these values were −20%, −28.62%, and −13.67%, respectively (Table). Differences were only statistically significant between groups for total alveolar ridge contour (= .005). Linear regression analyses revealed an inverse relationship between facial bone thickness upon tooth extraction and total and facial alveolar ridge contour reduction (< .001, and= .02, respectively), indicating that the thicker the facial bone thickness upon extraction, the less the total and facial soft tissue contour reduction.
+
+TABLE 5
+
+Median alveolar bone volume and soft tissue (alveolar ridge) contour values at baseline and final follow‐up, and median bone volume and alveolar ridge contour changes in cubic millimetre, and percentages
+
+Group A median
+
+Group B median
+
+Group C median
+
+Total median
+
+‐value
+
+Total alveolar bone volume
+
+Baseline (mm)
+
+988.5
+
+943
+
+1034.5
+
+975.5
+
+.001
+
+Final follow‐up (mm)
+
+938.5
+
+845
+
+924
+
+893
+
+Differences (mm)
+
+−59.5 (−79 to −19)
+
+−82 (−253 to −15)
+
+−114 (−209 to −49)
+
+−77 (−253 to −15)
+
+Changes in % (range)
+
+−6.36 (−8.7 to −2.7)
+
+−7.94 (−19.1 to −2.1)
+
+−12.45 (−18.6 to −4)
+
+−8.03 (−19.1 to −2.1)
+
+Facial alveolar bone volume
+
+Baseline (mm)
+
+295
+
+333.5
+
+345.5
+
+327
+
+.002
+
+Final follow‐up (mm)
+
+257.5
+
+289
+
+309
+
+288.5
+
+Differences (mm)
+
+−32.5 (−42 to −8)
+
+−38.5 (−73 to −10)
+
+−48.5 (−125 to −33)
+
+−37 (−125 to −8)
+
+Changes in % (range)
+
+−8.55 (−15.1 to −3.6)
+
+−10.87 (−24.1 to −3.5)
+
+−14.92 (−29.7 to −10)
+
+−11.35 (−29.7 to −3.5)
+
+Lingual alveolar bone volume
+
+Baseline (mm)
+
+567.5
+
+607.5
+
+598
+
+580.5
+
+.070
+
+Final follow‐up (mm)
+
+544
+
+495.5
+
+557.5
+
+550
+
+Differences (mm)
+
+−31.5 (−68 to −5)
+
+−38 (−213 to −3)
+
+−58.5 (−109 to −12)
+
+−38 (−213 to −12)
+
+Changes in % (range)
+
+−4.35 (−9 to −0.95)
+
+−5.76 (−26.86 to −0.65)
+
+−8.99 (−15.8 to −1.5)
+
+−6 (−26.86 to −1.5)
+
+Total soft tissue contour
+
+Baseline (mm)
+
+778.8369
+
+806.4423
+
+750.3026
+
+781.193
+
+.005
+
+Final follow‐up (mm)
+
+683.9080
+
+716.8044
+
+557.0462
+
+668.2002
+
+Differences (mm)
+
+−89.9500
+
+100.4510
+
+147.5083
+
+112.9928
+
+Changes in % (range)
+
+−11.35 (−20.3 to −4.5)
+
+−12.92 (−21.4 to −3.5)
+
+−20 (−38.4 to −11)
+
+−13.28 (−38.4 to −3.5)
+
+Facial soft tissue contour
+
+Baseline (mm)
+
+347.4512
+
+393.9968
+
+426.4073
+
+380.7023
+
+.006
+
+Final follow‐up (mm)
+
+265.4251
+
+323.8499
+
+307.1694
+
+296.618
+
+Differences (mm)
+
+−42.9762
+
+−57.1911
+
+−94.5358
+
+−84.0843
+
+Changes in % (range)
+
+−13.29 (−27.6 to −3.8)
+
+−14.51 (−27.2 to −4.9)
+
+−28.62 (−54.7 to −3.13)
+
+−17.78 (−54.7 to −3.13)
+
+Lingual soft tissue contour
+
+Baseline (mm)
+
+426.0972
+
+333.2652
+
+320.0715
+
+380.753
+
+.482
+
+Final follow‐up (mm)
+
+399.8043
+
+288.3667
+
+277.8140
+
+326.7232
+
+Differences (mm)
+
+−36.9479
+
+−26.4361
+
+−48.1231
+
+−84.0843
+
+Changes in % (range)
+
+−9.22 (−36 to −3.5)
+
+−8.09 (−26 to −1.5)
+
+−13.67 (−55.7 to −15.4)
+
+−10.37 (−55.7 to −15.4)
+
+3.7
+
+Patient‐reported outcome measures
+
+Median discomfort was similar between groups and progressively decreased from 1‐week post‐operatively to the final follow‐up, as shown in Table. Overall satisfaction upon study completion was very high and similar between groups, with a median value of 99 (range 77–100).
+
+4
+
+DISCUSSION
+
+This prospective clinical trial aimed at evaluating the effect of healing time on the outcomes of ARP therapy performed in non‐molar post‐extraction sites filled with DBBM‐C and sealed with a CM, based on a panel of clinical, digital, histomorphometric, implant‐related, and patient‐reported outcomes. A total of 42 patients completed the study and were randomly allocated to one of three treatment groups according to the total healing time (Group A: 3 months; Group B: 6 months; Group C: 9 months). Demographic variables, as well as site‐specific phenotypic characteristics, were similar between groups at baseline.
+
+Histomorphometric assessments showed that the proportion of mineralized tissue increased over time (A: 13.53%; B: 33.33%; C: 37.05%). On the contrary, the proportion of non‐mineralized tissue (A: 63.32%; B: 55.55%; C: 52.48%) and remaining xenograft material (A: 16.94%; B: 10.69%; C: 9.46%) decreased over time. Interestingly, the proportion of remaining xenograft material was similar between 6 and 9 months of healing, indicating that DBBM has low biodegradability. To the best of our knowledge, this is the first study reporting histomorphometric outcomes beyond a 6‐month healing period after using DBBM‐C for ARP therapy. The findings of this study agree with those from previous studies on this topic. Heberer and colleagues observed higher proportions of non‐mineralized tissue (54% [range 31%–77%]) compared with mineralized tissue (28% [range 9%–57%]) and remaining xenograft (11% [range 3%–31%]) after 6 weeks of healing (Heberer et al.,). However, other investigators who analysed bone core biopsies harvested after a longer healing period (4–6 months) reported a higher proportion of mineralized tissue and a lower proportion of non‐mineralized tissue (Lindhe et al.,; Nart et al.,; Gabay et al.,). Further research is needed to determine the adequate time of healing for specific clinical scenarios considering patient‐related local and systemic factors. Nonetheless, based on our histomorphometric and implant‐related findings, it seems appropriate to recommend that, in general, surgical re‐entry and implant placement in a non‐molar site that underwent ARP therapy using DBBM‐C should be performed after around 6 months of healing, so the chances to obtain primary stability upon implant placement following a standard protocol are higher. However, clinicians could consider the possibility of implant placement after 3 months of healing. In sites that, upon re‐entry, present a bone substrate with lower than optimal density, undersizing the osteotomy is a possible strategy to achieve primary stability.
+
+Analysis of linear alveolar bone changes showed a reduction in the horizontal and vertical dimensions over time. Horizontal bone resorption was more pronounced when the facial bone thickness upon tooth extraction was ≤1 mm, with a larger magnitude of the effect in the most coronal aspect of the ridge. Although a greater amount of vertical bone resorption was observed on the facial, differences between groups were clinically insignificant and comparable to the vertical bone loss observed on the lingual aspect. Interestingly, the extent of vertical bone loss observed at 3 months remained almost unchanged over time. However, the longer the healing period, the greater the horizontal bone reduction. These findings are aligned with the findings from previous studies in this topic, in which similar facial and lingual vertical bone resorption and greater horizontal bone loss were observed at the most coronal portion of the alveolar ridge (M. G. Araújo et al.,; Nart et al.,; Cardaropoli et al.,; Llanos et al.,). Despite the fact that bone modelling could not be completely avoided with the ARP approach followed in this study, the amount of bone reduction observed in this study is substantially lower than the average linear changes that should be expected after unassisted socket healing (Couso‐Queiruga, Stuhr, et al.,).
+
+Assessment of linear soft tissue changes showed a similar vertical reduction as that observed in the alveolar bone. However, in the horizontal dimension, soft tissue thickness remained almost unaltered during the healing period. To the best of our knowledge, this is the first study that reports linear soft tissue changes over time in ARP therapy using DICOM‐STL file superimposition. Our findings differ from those observed in a previous study, where a compensatory growth of soft tissue into the bone compartment was observed after unassisted socket healing. In that study, the increase in the horizontal soft tissue dimensions was associated with the facial bone phenotype, where the presence of thin facial bone (<1 mm) was associated with greater soft tissue thickness gain (Chappuis et al.,). Our findings could bring a valuable perspective on the soft tissue dimensional changes that take place after ARP procedures, which seem to differ from those that are typically observed in extraction sites that were left to heal with no further intervention. Also, while other advanced imaging techniques such as ultrasonography, optical coherence tomography, and laser speckle interferometry hold great promise, linear assessments using the superimposition of DICOM‐STL files should be considered a reliable method to evaluate the periodontal/peri‐implant soft tissue phenotype and soft tissue changes over time in different phenotype modification therapies (Avila‐Ortiz et al.,), due to precision, non‐tissue invasiveness, high reproducibility, and relatively low cost compared with other options (Couso‐Queiruga, Tattan, et al.,).
+
+Analysis of alveolar bone volume and soft tissue contour changes over time revealed a phenomenon of progressive atrophy affecting mainly the facial aspect of the ridge. The longer the healing period, the greater the volumetric resorption. These findings are in accordance with those reported in several studies on this topic (Pang et al.,; Barone et al.,; Hong et al.,; Avila‐Ortiz, Gubler, et al.,). However, as pointed out in a previous study (Avila‐Ortiz, Gubler, et al.,), the discrepancy between total bone volume and soft tissue contour changes may be largely dependent on the anatomical characteristics of each site (i.e., vestibular depth). This is because STL files obtained using an intra‐oral scanner typically capture shorter apico‐coronal dimensions than those in DICOM files. Logistic regression analyses revealed an inverse association between buccal bone thickness upon extraction and alveolar bone volume and soft tissue contour reduction. The finding pertaining to bone resorption agrees with previous studies in the topic (Spinato et al.,; Avila‐Ortiz, Gubler, et al.,; Couso‐Queiruga, Stuhr, et al.,). However, we believe that this is the first study that found an association between buccal bone thickness and facial bone volume reduction, and with total and facial soft tissue contour reduction. These clinically relevant findings should be taken into consideration to make critical clinical decisions in the management of extraction sites. We also believe that assessment of volumetric changes should be considered a core methodological component in contemporary dental research to evaluate the efficacy of different periodontal and implant‐related plastic and reconstructive surgical treatments, such as ARP therapy.
+
+There were no significant differences between groups regarding wound healing scores, perceived discomfort at different points, and overall satisfaction upon study completion. These findings are aligned with those reported in a recent randomized controlled trial that evaluated PROMs and wound healing using a standardized index after ARP therapy (Avila‐Ortiz, Gubler, et al.,). Interestingly, longer healing time prior to implant placement did not detrimentally influence PROMs in this study. Implant‐related outcomes demonstrated that implant placement was feasible, achieving primary stability in all sites. However, ancillary bone augmentation procedures were needed in 16.7% of the sites, more frequently in Group C (28.57%). Interestingly, 85.7% of these sites exhibited a facial bone thickness <1 mm at baseline. A similar pattern was observed in a recently published study that found that simultaneous bone augmentation at the time of implant placement was needed in 11.4% of the sites that received ARP therapy, of which 87.5% had a thin facial bone phenotype at baseline (Couso‐Queiruga et al.,). This observation can be largely explained by the strong value that facial alveolar bone thickness has to predict the extent of alveolar bone resorption after tooth extraction (Chappuis et al.,; Avila‐Ortiz, Gubler, et al.,; Couso‐Queiruga, Stuhr, et al.,; Couso‐Queiruga et al.,). In general, these outcomes are in accordance with previous studies on this topic and support the efficacy of ARP therapy as compared with unassisted socket healing in the context of tooth replacement therapy with dental implants (Mardas et al.,; Llanos et al.,; Tonetti et al.,; Couso‐Queiruga, Stuhr, et al.,; Couso‐Queiruga et al.,). Conversely, other studies have reported a higher percentage of bone augmentation procedures at the time of implant placement in sites previously treated with DBBM‐C. A study by Thoma reported that 90.9% of the sites that received ARP therapy required bone augmentation at the time of implant placement (Thoma et al.,), whereas Jonker and colleagues reported that to be necessary in about one third (32%) of the sites (Jonker et al.,). Differences in the eligibility criteria and other methodological aspects (e.g., threshold to determine when ancillary bone augmentation is required) could explain these discrepancies.
+
+This clinical study is not exempt from limitations. First, only non‐molar sites, except mandibular incisors, exhibiting complete or partial integrity of the alveolar bone upon tooth extraction were included. Therefore, the findings of this study should be interpreted with caution before making clinical decisions in posterior, mandibular anterior, or extraction sites presenting extensive bone damage. However, the decision to include only non‐molar sites was made to homogenize the characteristics of the study sample and, therefore, minimize the possible influence of substantial differences in socket size and morphology on the observed outcomes (Couso‐Queiruga, Ahmad, et al.,). Second, there was no control group, such as unassisted socket healing. However, it must be acknowledged this study was intentionally designed to address the primary and secondary objectives. Third, although some implant‐related outcomes were reported, no data collected during the implant follow‐up period are hereby reported and, therefore, the short‐ and long‐term performance of the implant‐supported prostheses and the peri‐implant health cannot be ascertained.
+
+5
+
+CONCLUSIONS
+
+The proportion of mineralized tissue respective to non‐mineralized tissue increased as a function of time in non‐molar post‐extraction sites that undergo ARP therapy consisting of the combined use of DBBM‐C to fill the socket and a porcine CM to seal it. However, the average proportion of the remaining xenograft material was similar in samples obtained after 6 and 9 months of healing. A variable degree of alveolar ridge atrophy, affecting mainly the facial aspect, occurs even after performing ARP therapy. These changes are more pronounced in sites exhibiting thin facial bone (≤1 mm) at baseline.
+
+AUTHOR CONTRIBUTIONS
+
+Gustavo Avila‐Ortiz conceived and designed the study. Emilio Couso‐Queiruga, Holly A. Weber, and Gustavo Avila‐Ortiz contributed to data acquisition, analysis, and interpretation. Carlos Garaicoa‐Pazmino, Marisa Kalleme, and Christopher Barwacz contributed to the analysis and interpretation of data. Emilio Couso‐Queiruga and Gustavo Avila‐Ortiz led the writing. All authors gave final approval and agreed to be accountable for all aspects of the scientific work.
+
+FUNDING INFORMATION
+
+This study was supported by a grant from Geistlich Pharma AG, Wolhusen, Switzerland.
+
+CONFLICT OF INTEREST
+
+The authors declare no potential conflict of interest.
+
+Supporting information
+
+Supporting Information.
+
+Click here for additional data file.
