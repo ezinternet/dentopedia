@@ -1,0 +1,48 @@
+Water fluoridation for the prevention of dental caries
+
+Cochrane Database of Systematic Reviews 2024 (pub3)
+DOI: 10.1002/14651858.CD010856.pub3
+PMID: 39362658 | PMC: PMC11449566
+
+AUTHORS: Iheozor-Ejiofor et al.
+Evidence current to: 16 August 2023
+(Update of Cochrane review first published 2015)
+
+BACKGROUND
+Dental caries affects 60-90% of school children in most industrialised countries. Community water fluoridation (CWF) is practised in about 25 countries. This review evaluates effects of CWF initiation/cessation on caries and its association with dental fluorosis.
+
+OBJECTIVES
+1. Evaluate effects of initiation or cessation of CWF programmes for caries prevention
+2. Evaluate association of water fluoridation (artificial or natural) with dental fluorosis
+
+INCLUDED STUDIES
+157 studies — all non-randomised designs
+(Downgraded for confounding, blinding, old studies)
+
+OUTCOMES
+- Caries: dmft/DMFT, dmfs/DMFS, proportion caries-free (primary and permanent dentition)
+- Pre-1975 (before widespread fluoride toothpaste) vs post-1975 data stratified
+
+KEY FINDINGS
+
+Water fluoridation INITIATION (21 studies):
+Evidence from pre-1975 studies suggested benefits — large reductions in caries in primary and permanent teeth. Post-1975 (contemporary) evidence for caries prevention is very limited and of very low certainty, partly because baseline caries rates have already fallen substantially due to other preventive measures including fluoride toothpaste.
+
+Water fluoridation CESSATION:
+Very limited evidence; suggests some increase in caries after CWF cessation, but very low certainty.
+
+DENTAL FLUOROSIS association:
+Evidence of an association between water fluoridation and increased dental fluorosis prevalence. However, most fluorosis at non-aesthetic levels. Studies on fluorosis are older; not updated with new evidence in this review.
+
+CERTAINTY OF EVIDENCE
+- Downgraded for: risk of bias (confounding, non-random designs), indirectness (older evidence), inconsistency, imprecision
+- Most contemporary (post-1975) evidence: very low certainty
+- Pre-1975 evidence: low certainty
+
+LIMITATIONS
+- No RCTs available (ethical/practical infeasibility of CWF RCTs)
+- Pre-1975 evidence may not apply to contemporary settings (high background fluoride exposure from toothpaste)
+- Contemporary evidence very limited and low certainty
+
+AUTHORS' CONCLUSIONS
+Very limited contemporary evidence for effects of water fluoridation initiation on caries. Pre-1975 evidence suggests benefit but may not apply today. The association with dental fluorosis is established but most fluorosis is non-aesthetic. Policy decisions must consider this trade-off alongside other contextual factors.
