@@ -1,0 +1,54 @@
+Shahraki K, Bidabadi MA, Zhao N. Cold atmospheric plasma for implant surface decontamination and osseointegration: a scoping review with implications for peri-implantitis management. BMC Oral Health. 2026 Jul 17;26(1). doi: 10.1186/s12903-026-09164-y. PMID: 42469822; PMC: PMC13656613.
+
+ABSTRACT
+Background: Peri-implantitis is a biofilm-associated inflammatory condition leading to progressive bone loss around dental implants. Effective management requires both implant surface decontamination and re-establishment of osseointegration. Cold atmospheric plasma (CAP) has emerged as a promising approach due to its antimicrobial activity and its ability to modify implant surface properties.
+
+Methods: This scoping review was conducted in accordance with the PRISMA-ScR guidelines. A comprehensive search of PubMed, Scopus, Web of Science, and Google Scholar was performed to identify relevant studies. In vitro, ex vivo, and animal studies investigating the effects of CAP on implant surface decontamination and/or osseointegration were included. Given the limited availability of standardized peri-implantitis models, studies reflecting key biological components of the disease process were considered.
+
+Results: A total of 77 studies were included. Among them, 31 focused on implant surface decontamination and 46 evaluated osseointegration-related outcomes. The included studies were highly heterogeneous in terms of plasma devices, gas composition, exposure parameters, implant materials, and biological models. Overall, CAP demonstrated consistent antibacterial effects and was associated with improved surface hydrophilicity, enhanced osteoblast response, and increased bone-to-implant contact in preclinical settings.
+
+Conclusions: CAP appears to possess a dual potential to support implant surface decontamination and osseointegration-related processes, targeting biological processes relevant to peri-implantitis. However, the evidence is largely preclinical and derived from heterogeneous models that do not uniformly reproduce the clinical condition of peri-implantitis. Therefore, current findings support the biological plausibility of CAP as an adjunctive strategy, while its clinical effectiveness and optimal application protocols remain to be established through well-designed in vivo studies and clinical trials.
+
+FULL TEXT
+
+Introduction
+
+Since the introduction of the concept of osseointegration in the 1960s, dental implant therapy has become a widely accepted treatment modality for the rehabilitation of edentulous and partially edentulous patients. Despite its high long-term success rates, peri-implantitis remains a serious biological complication and a significant clinical challenge. Peri-implantitis is a plaque-associated disease affecting the tissues surrounding dental implants, characterized by inflammation of the peri-implant mucosa and progressive loss of supporting bone, which may ultimately result in implant failure. Its primary etiology involves the accumulation of bacterial biofilms on implant surfaces, triggering a host inflammatory response that leads to tissue destruction over time. This pathological process may progress from peri-implant mucositis to peri-implantitis, thereby compromising osseointegration and increasing the risk of implant loss. Clinically, peri-implantitis is characterized by peri-implant pocket formation, suppuration, and progressive bone loss. The reported prevalence ranges from approximately 8% to 25%, depending on the unit of analysis (implant vs. patient level) and population characteristics. A large meta-analysis reported weighted mean prevalences of 25% at the patient level and 18% at the implant level, highlighting the substantial clinical burden of this condition. Therefore, the development of effective therapeutic strategies for peri-implantitis remains of critical importance.
+
+The management of peri-implantitis primarily focuses on two key aspects: implant surface decontamination and the re-establishment of osseointegration. Osseointegration, defined as the direct structural and functional connection between living bone and the implant surface, is essential for the long-term success of dental implants. Effective decontamination is critical for removing bacterial biofilms and halting disease progression. These two processes are closely interrelated, as successful decontamination is a prerequisite for achieving and maintaining osseointegration. The persistence of biofilms can impair osteoblast adhesion and proliferation, thereby compromising bone regeneration at the implant interface and predisposing to further implant failure. Conventional approaches to implant surface decontamination include mechanical, chemical, and physical methods; however, none of these techniques can completely eliminate biofilms from the complex micro-structured surfaces of implants. Mechanical methods, such as air-powder abrasion and titanium brushes, can partially disrupt biofilms but are often insufficient in intricate regions such as implant threads. Chemical agents, including hydrogen peroxide, citric acid, and photodynamic therapy, show limited efficacy and may induce surface alterations or cytotoxic effects. Physical approaches, such as laser irradiation and waterjet systems, have also been explored; however, their effectiveness depends on implant characteristics and operator factors, limiting their clinical predictability.
+
+Cold atmospheric plasma (CAP) has emerged as a promising adjunctive therapy for peri-implantitis. It combines antimicrobial activity, surface modification capability, and potential to enhance tissue healing, making it an attractive therapeutic approach. CAP has been shown to disrupt bacterial membranes and metabolic activity, effectively removing biofilms from implant surfaces. In addition, it can increase implant surface hydrophilicity, thereby promoting cell adhesion and osteogenic activity. By simultaneously inhibiting bacterial colonization and supporting biological processes related to bone regeneration, CAP may represent a promising adjunctive approach for peri-implantitis management.
+
+Previous studies have primarily investigated the effects of CAP on either implant surface decontamination or osseointegration. However, peri-implantitis involves both biofilm-associated infection and impaired bone integration, and an integrated synthesis of these aspects remains limited. Therefore, this scoping review aimed to evaluate the effects of CAP on implant surface decontamination and osseointegration-related outcomes, and to assess their implications for peri-implantitis management.
+
+Materials and Methods
+
+Study protocol: PRISMA-ScR guidelines. PCC framework: Population = implant surfaces affected by peri-implantitis biofilms, osteoblasts, mesenchymal stem cells; Concept = CAP treatment; Context = preclinical (in vitro, ex vivo) and animal studies.
+
+Search: PubMed, Scopus, Web of Science, Google Scholar up to July 2025. Keywords: ("cold atmospheric plasma" OR "CAP") AND ("peri-implantitis" OR "dental implant") AND ("decontamination" OR "osseointegration").
+
+Initial records: 452; after deduplication: 415; final included: 77 studies.
+
+Results - Decontamination (31 studies)
+
+Materials: 27/31 titanium, 3 zirconia, 1 titanate nanonetwork. Surface: SLA most common. Biofilms: 12 human-derived oral, 8 single-species (mostly P. gingivalis). Exposure: 10s to 18 min; most common 60-180s. Working gas: argon predominant, also helium and O2. Distance: 1-30 mm; most common 2-5 mm.
+
+Key findings: CAP demonstrated consistent antibacterial effects across peri-implant pathogens. RONS (reactive oxygen/nitrogen species) disrupt microbial cell membranes and metabolic pathways. Panariello et al.: 1-5 min treatment significantly reduced bacterial counts in multispecies peri-implant biofilms. Combined CAP + mechanical debridement = greater biofilm reduction than either alone. Mature biofilms (≥72h) more resistant. CAP maintains implant surface microstructure.
+
+Results - Osseointegration (46 studies)
+
+15 in vivo, 23 in vitro, 8 combined. Titanium predominant (40 studies), zirconia in 6. SLA surfaces most common.
+
+Key findings:
+- Han et al.: 6-fold increase in surface energy after CAP; enhanced fibronectin adsorption; improved osteoblast attachment and spreading
+- Giro et al.: BIC exceeding 100% and BAFO increases >82% at 3 weeks on calcium-phosphate-coated implants (canine model)
+- Coelho et al.: BIC increases exceeding 300% and BAFO >30% on rough titanium surfaces (canine model, argon plasma)
+- Zheng et al.: increased surface oxygen, cell attachment, osteogenic differentiation, osseointegration
+- Jang et al.: increased bone volume and BIC at 4 weeks; effect diminished at 8 weeks — greatest benefit in early healing
+- Teixeira et al.: 20-60s brief exposure → increased initial surface energy, improved biomechanical fixation
+
+CAP effects on osseointegration: enhances ALP (alkaline phosphatase) expression, osteocalcin levels, reduces pro-inflammatory cytokines (IL-1β, IL-17). Argon-based plasma most studied; helium, nitrogen, air also investigated. Argon = increased oxygen incorporation, hydrophilicity. Coaxial DBD = more homogeneous reactive species distribution; jet = longer exposure needed.
+
+Limitations: preclinical evidence only; no standardized peri-implantitis model; heterogeneous parameters; English only.
+
+Conclusions: CAP demonstrates biological plausibility as adjunctive peri-implantitis strategy (dual: decontamination + osseointegration support). Clinical evidence lacking. Standardized protocols and RCTs needed.
