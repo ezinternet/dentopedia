@@ -2,12 +2,12 @@
 title: "Plasma Surface Treatment of Dental Implants — Evidence Synthesis"
 authors: synthesis
 year: 2026
-date: 2026-08-07
+date: 2026-11-05
 source: overview
 category: [overviews, implants/surface/plasma]
 evidence_level: synthesis
 source_collection: internal
-tags: [plasma, cold-atmospheric-plasma, implant-surface, osseointegration, decontamination, peri-implantitis, chairside, human-rct, overview, vacuum-plasma, rhBMP-2, sex-dependent, coating-carrier, adventitious-carbon, organic-acid, XPS]
+tags: [plasma, cold-atmospheric-plasma, implant-surface, osseointegration, decontamination, peri-implantitis, chairside, human-rct, overview, vacuum-plasma, rhBMP-2, sex-dependent, coating-carrier, adventitious-carbon, organic-acid, XPS, scoping-review, UV-vs-DBD-equivalence, wet-storage]
 relations:
   - type: extends
     target: implants/surface/plasma/cho-2025-rhbmp2-vacuum-plasma-titanium-implants-osseointegration
@@ -23,7 +23,7 @@ relations:
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
-> - 위키 내 27편 종합(리뷰·SR/MA 4 + 동물 in vivo 8 + 사람 임상 3 + in vitro 11 + 안전성 1) — 2026-08-07 갱신으로 동물 2편(Cho·Berger) 추가.
+> - 위키 내 29편 종합(리뷰·SR/MA 5 + 동물 in vivo 8 + 사람 임상 3 + in vitro 11 + 안전성 1 + 관련 위키 1) — 2026-08-07 갱신으로 동물 2편(Cho·Berger) 추가, 2026-11 갱신으로 SR 1편(Shahraki 2026) + in vitro 1편(Choi 2017) 추가.
 > - 핵심 명제: 저온/비열 플라즈마(Cold Atmospheric Plasma, CAP)는 새 임플란트 종류가 아니라 체어사이드 표면 재활성화 도구다.
 > - 작동 기전: 티타늄 표면은 생물학적으로 노화(탄화수소 축적·습윤성 저하)하는데, 플라즈마가 이를 역전 — 탄소↓·친수성/표면에너지↑(형태·조성은 불변); 동일한 반응성 산소/질소종이 세균도 죽여 제염이라는 2차 근거 제공.
 > - 두 역할: ① 골유착 촉진 ② 표면 제염(치주염 peri-implantitis).
@@ -35,11 +35,13 @@ relations:
 > - 임상 frame: 노화 fixture의 식립 직전 재활성화·연조직(D3/D4)·하악·짧은 fixture에서 가장 타당; SLActive 대비 비열등(Long, 동물)이나 우월성은 아님; "더 오래 처리 = 더 좋음"은 틀림(과처리 역효과).
 > - **근거 갱신(2026-08)**: 플라즈마 단독의 효과가 두 가지 조건에 의존한다는 것이 드러남 — ① **코팅 담체(Coating Carrier) 역할**: Cho 2025(비글)는 진공 플라즈마 단독은 Kahm 2024처럼 비유의였으나, **저용량 rhBMP-2와 병용**했을 때만 BIC 83.91%·나사산간골밀도(ITBD) 81.32%로 유의 향상 — 플라즈마의 진짜 가치는 "치료" 자체보다 생체활성 코팅의 표면 결합을 돕는 **담체(carrier)** 기능일 수 있음. ② **숙주 성별(Sex) 의존성**: Berger 2022(토끼, DBD 30초)는 **수컷에서만** BIC·골량·토크 유의 향상, 암컷은 기저 골유착이 이미 높아 플라즈마 효과가 가려짐(masked) — 동물모델의 "효과 있음/없음" 혼재 결과 일부가 **성별 층화 여부**로 설명될 수 있음을 시사.
 > - **근거 갱신(2026-08) — 오염의 화학적 정체**: Wagstaffe 2019(XPS/STM, UV 자매 오버뷰와 공유하는 기전 논문)가 처음으로 "탄화수소"의 실체를 특정 — 기름·유분이 아니라 **폼산·아세트산 같은 소형 유기산**이 카르복실기-양이온 브리징 결합으로 화학흡착된 부착탄소오염 (Adventitious Carbon)층. 플라즈마의 반응성 산소/질소종이 실제로 끊는 대상이 바로 이 카르복실기-Ti 결합이라는 뜻 — "탄화수소 제거"라는 뭉뚱그린 표현이 이제 구체적 화학반응으로 특정됨. SLActive는 이 층이 SLA보다 얇아 RGD 펩타이드 흡수량이 전 pH에서 더 높음 — 흡착을 결정하는 건 표면친수성 자체가 아니라 이 층의 **치환 용이성**.
+> - **근거 갱신(2026-11) — 가장 광범위한 최신 범위형 체계적 고찰**: Shahraki 2026 (PRISMA-ScR, 77편, PubMed/Scopus/WoS/Google Scholar, 2025년 7월까지)은 탈오염 31편 + 골유착 46편을 단일 종합으로 통합한 최초의 쌍두 도메인 리뷰. 핵심 수치: 표면에너지 6배 (Han), 골-임플란트 접촉률 (BIC) >100% (Giro) · >300% (Coelho) 동물; CAP + 기계적 디브리드먼트 > 단독 치료; 치유 초기(4주) 최대 효과, 8주 감소(Jang). **전임상 근거만; 임상 무작위대조시험 없음; 표준 프로토콜 미확립** — 위키 내 Alqutaibi 2023·Jungbauer 2021을 단일 듀얼도메인 프레임으로 대체·확장하는 최신 SR.
+> - **근거 갱신(2026-11) — UV ≈ DBD 플라즈마 첫 직접 비교(Choi 2017, 한국)**: 연세대학교+광운대 플라즈마 생명공학연구센터 in vitro 연구. Grade IV 티타늄 디스크에 UV(15분) vs DBD 플라즈마(15분) 처리 직접 비교 — **즉시 접촉각·알부민 흡착·MC3T3-E1 부착·세포골격 완전 동등**. 보관 방법이 더 중요: 증류수(dH₂O) 보관만 28일 후에도 직후 처리 수준 유지; 진공·대기 보관은 XPS 탄화수소 재오염으로 생물학적 활성 저하. **UV 처리 후 증류수 보관=장기 생체활성 보존 전략** 첫 직접 근거. 단, DBD 처리 시간(15분)은 임상 기기(ACTILINK 60초)와 다름 — 완전 등가 주장에 주의.
 > - **근거 갱신(2026-08) — "진공 플라즈마 몇 분?"의 답은 장치 계열에 달림**: 클러스터 내 장치 파라미터 전수조사 결과, 한국산 체어사이드 장비(메가젠 Plasma X Motion·Plasmapp ACTILINK 계열 5종)는 전부 **가스無 DBD, 15초~2분**(직접방전 15초, 메가젠 50초, ACTILINK 대부분 60초)인 반면, 독일 Diener사 챔버형(아르곤 충전)만 **10~15분**으로 유일하게 느림(Becker 2019 LPP·Lee-H 2022가 각각 독립적으로 확인) — "진공=오래 걸림"은 일반 물리법칙이 아니라 **이 특정 장비 하나의 특성**. 부수적으로 Kim 2025는 초록에 "대기압 플라즈마"라 적었으나 본문은 진공(5–10 Torr) 기전을 기술하는 **논문 자체의 용어 불일치**도 발견.
 
 ## Three-line Summary
 
-Synthesis of 27 wiki papers (4 reviews/SR/MA, 8 animal in vivo, 3 human clinical, 11 in vitro, 1 mouse safety) on cold/non-thermal atmospheric plasma (CAP) for dental implants: CAP reverses biological aging of titanium surfaces (carbon ↓, wettability/surface energy ↑, morphology/composition unchanged), serving two jobs — osseointegration promotion and surface decontamination.
+Synthesis of 29 wiki papers (5 reviews/SR/MA, 8 animal in vivo, 3 human clinical, 11 in vitro, 1 mouse safety, 1 related wiki) on cold/non-thermal atmospheric plasma (CAP) for dental implants: CAP reverses biological aging of titanium surfaces (carbon ↓, wettability/surface energy ↑, morphology/composition unchanged), serving two jobs — osseointegration promotion and surface decontamination.
 
 Human evidence (2 RCTs + 1 cohort) shows a small, partly significant *early* stability benefit (Stacchi RCT: ISQ significant only at 60/90 days; Kwon RCT: stability NS, marginal bone only); the universal pattern across every evidence tier is early healing acceleration that narrows by 8 weeks as controls catch up — not a higher final endpoint; dose is non-monotonic (60 s optimal, 300–600 s backfires), antimicrobial effect decays by 72 h, prosthetic benefit does not survive thermocycling aging, and no long-term/survival data exist (longest human follow-up 90 days).
 
@@ -47,7 +49,7 @@ Plasma is most rationale as a chairside pre-placement re-activation tool for age
 
 ## 세줄요약
 
-위키 27편(리뷰·SR/MA 4 + 동물 8 + 사람 임상 3 + in vitro 11 + 안전성 1) 종합: 저온/비열 대기압 플라즈마(Cold Atmospheric Plasma, CAP)는 티타늄 표면 생물학적 노화를 역전(탄소↓·친수성/표면에너지↑·형태/조성 불변)하여 ① 골유착 촉진 ② 제염 두 역할을 수행.
+위키 29편(리뷰·SR/MA 5 + 동물 8 + 사람 임상 3 + in vitro 11 + 안전성 1 + 관련 위키 1) 종합: 저온/비열 대기압 플라즈마(Cold Atmospheric Plasma, CAP)는 티타늄 표면 생물학적 노화를 역전(탄소↓·친수성/표면에너지↑·형태/조성 불변)하여 ① 골유착 촉진 ② 제염 두 역할을 수행.
 
 사람 근거(RCT 2 + 코호트 1)는 작고 부분적으로 유의한 *초기* 안정성 이득(Stacchi RCT: 임플란트 안정성 지수(ISQ) 60/90일에만 유의; Kwon RCT: 안정성 음성); 전 근거계층 공통 패턴은 초기 치유 가속이나 8주 무렵 대조군이 따라잡음 — 최종치 상승 미입증; 용량 비단조성(60초 최적, 300–600초 역효과), 항균효과 72h 내 소실, 보철 이득은 열순환 노화 후 소실, 장기/생존 데이터 전무(최장 추적 90일).
 
@@ -84,7 +86,7 @@ Every Korean chairside dental-implant device in this cluster — regardless of m
 - **Cells.** ↑ early osteoblast and fibroblast adhesion/proliferation/differentiation in vitro — Wagner, Zheng, Zeng, Hadzik, Ho (with Apln/Crabp2 upregulation), Lee-H, Jeon.
 - **Bone (animal).** ↑ early BIC/bone volume — rat (Zheng, BIC ↑25–40%, osteoclasts ↓~50%), pig (Naujokat 90.4 vs 86.5%), foxhound (Nevins, BIC sig at 4 wk), dog plasma-jet (Jang, BV/BIC sig at 4 wk), beagle (Danna, textured-Ti BIC sig at 6 wk), beagle vs SLActive (Long, comparable to commercial hydrophilic); rabbit males only (Berger 2022, DBD 30s, BIC/torque sig); beagle plasma+rhBMP-2 combination (Cho 2025, BIC 83.91% sig vs plasma-alone/BMP-alone).
 - **Human (new).** Early stability signal — Stacchi RCT (ISQ sig higher at 60/90 d), Kim cohort (ISQ 78.97→83.74 at 8 wk, no dip); Kwon RCT (greater marginal bone change, stability NS).
-- **Antimicrobial.** Broad in-vitro pathogen/biofilm reduction — Jungbauer SR (55 studies, time-dependent), Alqutaibi SR (15 studies, implant surfaces), Lee (zirconia), Zeng (S. aureus), Yang (S. mutans).
+- **Antimicrobial.** Broad in-vitro pathogen/biofilm reduction — Jungbauer SR (55 studies, time-dependent), Alqutaibi SR (15 studies, implant surfaces), Shahraki 2026 SR (31 decontamination studies, most comprehensive to date: argon-based CAP, 60–180 s, 2–5 mm; combined CAP+mechanical > either alone; argon > air plasma; antifungal vs Candida superior to CHX/NaOCl), Lee (zirconia), Zeng (S. aureus), Yang (S. mutans).
 
 ## Where the evidence draws boundaries (magnitude / conditions)
 
@@ -128,12 +130,13 @@ Every Korean chairside dental-implant device in this cluster — regardless of m
 
 ## Papers Synthesized (27)
 
-Reviews / SR / MA (4):
+Reviews / SR / MA (5):
 - [[implants/surface/plasma/dai-2025-cold-atmospheric-plasma-prosthodontics]] — 2025 umbrella (bonding/antibacterial/implant; 154 pubs).
 - [[implants/surface/plasma/hui-2020-cold-atmospheric-plasma-implantology-review]] — implantology review (dual rationale, chairside).
 - [[implants/surface/plasma/pesce-2020-photo-plasma-activation-titanium-sr-ma]] — SR+MA (BIC ↑; MA on UV-rabbit; I²>75%).
 - [[implants/surface/plasma/jungbauer-2021-cold-atmospheric-plasma-antimicrobial-sr]] — antimicrobial SR (55 studies, time-dependent).
 - [[implants/surface/plasma/alqutaibi-2023-cap-bacterial-reduction-implants-sr]] — implant-surface decontamination SR (15 studies).
+- [[implants/surface/plasma/shahraki-2026-cold-atmospheric-plasma-peri-implantitis-scoping-review]] — **2026-11 신규**: PRISMA-ScR scoping review (77편, 탈오염 31+골유착 46, 2025.07까지): 가장 광범위한 최신 쌍두 도메인 종합; BIC >300% 동물(Coelho), 표면에너지 6배(Han), 치유 4주 최대→8주 감소(Jang); 임상 RCT·표준 프로토콜 없음.
 
 Human clinical (3):
 - [[implants/surface/plasma/stacchi-2025-vacuum-plasma-early-implant-stability-rct]] — split-mouth RCT (24 pt): ISQ sig higher at 60/90 d, gap small.
@@ -170,6 +173,7 @@ Related existing wiki:
 - [[implants/surface/hayashi-2014-hydrocarbon-attenuates-osteoblast-titanium]] / [[implants/surface/iwasa-2011-tio2-micro-nano-hybrid-biological-aging]] — biological aging rationale.
 - [[implants/surface/wagstaffe-2019-rgd-tripeptide-adsorption-titania-surfaces]] — **2026-08 신규**: 부착탄소오염의 화학적 정체(소형 유기산, 카르복실기-양이온 브리징) — 플라즈마/UV 공통 제거 대상 특정.
 - [[implants/surface/houshmand-2023-uv-photofunctionalization-sla-titanium-disks]] — **2026-08 신규**: UVB는 접촉각만 개선하고 탄소는 못 없앰(UVC만 실효) — 파장/기전 검증 없이 습윤성만으로 탈오염을 단정하면 안 된다는 교차기술 경고.
+- [[implants/surface/choi-2017-uv-dbd-plasma-titanium-storage-biological-activity]] — **2026-11 신규**: 연세대+광운대(한국) in vitro; UV 15분 ≈ DBD 플라즈마 15분(즉시 접촉각·알부민·MC3T3-E1 동등); UV 처리 후 **증류수 보관만** 28일 후에도 직후 수준 유지(진공·대기 보관은 XPS 탄소 재오염으로 소실) — UV=DBD 첫 직접 비교·보관법 근거.
 - [[implants/surface/hirota-2020-uv-photofunctionalization-dental-implant-7year]] / [[implants/surface/park-2025-uv-photofunctionalization-osseointegration-soft-tissue]] — UV photofunctionalization (parallel modality).
 - [[implants/surface/balkanlioglu-2026-cold-plasma-implant-isq-stability]] — clinical study: cold atmospheric plasma pre-treatment; ISQ stability at placement and loading (clinical, 2026)
 
