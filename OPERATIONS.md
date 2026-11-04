@@ -124,6 +124,10 @@ document.addEventListener('visibilitychange', () => {
 
 **면제**: `wiki-stats-live.html`(자동생성 대시보드)은 JS 버전 블록 불필요 — 매 배포마다 새 파일이 생성됨.
 
+**인덱스 deploy-time 캐시버스팅 (자동)**: `scripts/build-interactives-index.py`가 모든 카드 링크에 `?v=YYYYMMDD`(빌드 날짜)를 자동으로 붙인다. GitHub Pages 배포가 발생하면 그날짜로 갱신 → 브라우저가 새 URL로 인식해 캐시를 건너뛴다. AUTO(자동생성) 도구는 제외. **이것이 "메뉴에서 들어올 때마다 최신" 의 1차 보장 경로**다.
+
+**기존 도구 30분 백그라운드 갱신 (자동 적용됨)**: `scripts/add-cache-refresh-js.py`가 기존 `interactives/*.html` 전체에 `visibilitychange` 30분 체크 JS를 일괄 삽입한다. 이미 `llm-wiki cache-refresh` 마커가 있는 파일은 스킵(멱등). 북마크·직접 접근 경로의 2차 보장.
+
 ## 8. Interactive HTML 디자인 규칙 (항상 적용)
 
 **라이트 고정 — OS 다크 모드 무시.** 임상 인터랙티브는 환경에 관계없이 항상 라이트로 렌더링한다.
