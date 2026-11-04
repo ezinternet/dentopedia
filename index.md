@@ -2075,6 +2075,7 @@ tags: []
 - [[inlay/kermanshah-2020-fracture-load-inlay-retained-ceramic-fdp]] — 인비트로(n=64, 5000 열순환): Zr-IRFPD 672N ≈ 전통 FDP; VS-IRFPD 391N 유의하게 낮음; 커넥터 파절 주 실패
 - [[inlay/bomicke-2025-3ytzp-inlay-enamel-wear-5year]] — 전향적 5년(n=6): 연마 3Y-TZP RBFPD 대합 법랑질 77μm vs 대조 54μm; 임상 허용 범위 내
 - [[inlay/lim-2023-milled-vs-3d-printed-inlays-accuracy]] — 인비트로(n=52): 전통·밀링 하이브리드·밀링 지르코니아·3D프린팅 인레이 변연/내부 적합도 — 모든 CAD/CAM 허용 범위 내
+- [[inlay/krug-2024-ceramic-inlay-cast-gold-partial-crown-longterm]] — 후향 코호트(N=325, 최대 24.8년): 세라믹 인레이/온레이 vs 골드 부분크라운 — 23.5년 생존율 양군 ~91–92%; CIO 연간실패 0.5%, CGPC 0.7%; 주실패: CIO=세라믹파절, CGPC=근관합병증 (Krug 2024)
 - [[inlay/wang-2022-onlays-vs-full-crowns-posterior-sr-ma]] — 구치부 온레이/부분관 vs 완전관 비교 SR+MA — 5년 생존율 93.5% vs 94.2%(동등), 치질 보존 이점.
 - [[inlay/prott-2025-partial-coverage-restorations-posterior-scoping]] — 구치부 부분 피개 수복물(인레이·온레이·엔도크라운) 생존율 스코핑 리뷰 — 세라믹 93–96%, 엔도크라운 92–95%.
 - [[inlay/angeletaki-2016-direct-vs-indirect-inlay-onlay-sr-ma]] — SR+MA(RCT 3편, J Dent 2016): 직접 vs 간접 레진 인레이/온레이 — 5년·11년 모두 실패율 유의차 없음; 온레이 5년 생존 87%
