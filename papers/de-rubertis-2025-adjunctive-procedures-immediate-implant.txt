@@ -1,0 +1,84 @@
+Title: Adjunctive Procedures in Immediate Implant Placement: Necessity or Option? A Systematic Review and Meta-Analysis
+DOI: 10.3390/ma18235427
+
+1. Introduction
+
+Immediate implant placement (IIP) has been shown to be a predictable treatment option for replacing non-restorable teeth [,]. Nevertheless, this approach is technically challenging, as it is associated with a higher incidence of biological and esthetic complications [,]. From a biological standpoint, the placement of an immediate implant does not inherently limit the alveolar remodeling that occurs following tooth extraction [,]. The continuous remodeling process, which reaches its peak during the first 3 months post-extraction, influences the future anatomy of both hard and soft tissues []. This biological determinant will condition the future esthetic and functional impact of the site. Indeed, midfacial gingival recession has frequently been reported [] and resorptive changes in the facial contour are to be expected [,].
+
+Dimensional alterations of the facial bone plate are clinically significant, as they encompass both vertical and, more prominently, horizontal resorption [,,]. These changes compromise the supporting function of the buccal bone, directly affecting the overlying soft tissues and significantly impacting both the marginal mucosal level [] and labial contour. While some studies suggest that early healing may partially compensate for these dimensional changes [], long-term follow-up studies have demonstrated that reduction in the soft tissue contour is crucial in influencing the esthetic outcome of prosthetic reconstruction. Furthermore, recent randomized controlled trials have confirmed that immediate implant placement alone does not fully prevent post-extraction dimensional changes, with both radiographic and soft tissue analyses revealing significant ridge resorption compared to spontaneous healing [,].
+
+To counteract bone resorption, preserve ridge morphology and improve clinical and functional results, several strategies have been proposed in conjunction with IIP. One of the most widely investigated approaches is the use of bone substitute materials (BSMs), such as autografts, allografts, xenografts, or alloplasts. Such biomaterials, positioned in the implant–socket gap, aim to limit bone remodeling, sustain hard tissue three-dimensional stability and improve marginal bone-to-implant contact [,,,]. Deproteinized bovine bone mineral (DBBM) has shown the ability to limit volumetric changes in the facial alveolus and favor greater tissue stability [,].
+
+Additional techniques have been explored to enhance peri-implant tissue preservation, including the socket-shield technique (SST) introduced by Hürzeler et al. (2010) and immediate provisionalization and subepithelial connective tissue grafts (CTGs) []. Randomized controlled trials have demonstrated that immediate provisionalization can limit midfacial soft tissue collapse compared with delayed provisionalization [,].
+
+However, the literature remains inconclusive. Randomized controlled trials are often limited by small sample sizes, heterogeneous protocols, and inconsistent outcome reporting, frequently leading to conflicting results [,,]. Previous systematic reviews have also concluded that current evidence is insufficient to determine whether grafting the facial gap or applying adjunctive regenerative strategies consistently provide additional benefits in preventing alveolar ridge reduction and contour collapse. Beyond implant survival and hard tissue stability, increasing attention has been directed toward patient-reported and clinically assessed esthetic outcomes. However, despite their clinical relevance, esthetic results are still inconsistently reported, often inadequately and without standardized measures [,]. This gap in the literature limits the evaluation of the true benefits of adjunctive procedures.
+
+Therefore, the aim of the present systematic review is to critically assess the clinical effectiveness of biomaterials associated with IIP in the esthetic area in terms of (a) implant survival, (b) esthetic outcomes, and (c) peri-implant soft and hard tissue dimensions.
+
+2. Materials and Methods
+
+2.1. Protocol Development and Registration
+
+The present systematic review was conducted and reported in accordance with the methodological guidelines of the Cochrane Handbook [] and the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) 2020 checklist [,]. The review protocol was registered a priori on PROSPERO (CRD42025649944).
+
+2.2. Criteria Definition for PICOS Framework
+
+The following PICOS framework, incorporating the components of the review research question, was developed []:
+
+Radiographic (periapical or CBCT), clinical and digital/3D analyses for hard and soft tissue parameters were considered appropriate methods for outcome assessment. Validated and standardized indices (Pink esthetic score [PES], White esthetic score [WES]) were accepted for esthetic outcomes evaluation. Post-operative pain scores were included when measured through validated patient-reported scales. Measurements registered on the day of immediate implant placement, before the implant insertion and the application of any adjunctive material, were considered baseline values.
+
+Study Design: Randomized Controlled Trials (RCTs).
+
+2.3. Literature Search Restrictions
+
+Eligibility criteria
+
+The following eligibility criteria for study inclusion were established and structured in accordance with the PICO framework:
+
+2.4. Information Sources, Search Strategies and Study Selection
+
+The electronic literature search was conducted independently by two reviewers (AF, IDR) on MEDLINE (PubMed), EMBASE, and Scopus. OpenGray and Google Scholar were also consulted for the gray literature search. References published up to April 2025 were screened. Bibliographies of published reviews and clinical or pre-clinical studies were manually searched and consulted.
+
+Search strategies, adapted to the different databases, are reported in. The literature screening process was conducted in a stepwise manner using Nested Knowledge software (, accessed on 5 February 2025).
+
+Disagreements between reviewers were resolved through discussion and, when consensus could not be reached, by consulting a third author (MCC or ND). Inter-reviewer agreement was assessed by calculating the Cohen’s kappa coefficient (k).
+
+2.5. Data Collection Process and Data Items
+
+Data from included articles were extracted by two reviewers (AF, IDR) independently, using a standardized Excel spreadsheet. A third reviewer (ND) verified the appropriateness of the data and developed the final dataset, which was used to generate summary tables for the qualitative synthesis and to compute, when applicable, the quantitative analysis.
+
+Two summary tables were produced. The first table summarizes study characteristics, including year of publication, study setting, participants’ demographic characteristics and clinical features, site-specific and implant characteristics, and the outcomes assessed. The second table reports the numerical results of each study outcome and guided the qualitative synthesis of the present review. Whenever data were unavailable but considered retrievable, the reviewers contacted the corresponding authors; whenever data could not be retrieved, the indication “NR” (not reported) was used. All extracted data items were predefined, including implant survival, marginal bone level changes, horizontal and vertical soft and hard tissue measurements, esthetic outcomes (PES/WES), keratinized tissue width, and postoperative morbidity assessed through validated patient-reported scales.
+
+2.6. Risk of Bias Assessment and Certainty Assessment
+
+Version 2 of the Cochrane Risk of Bias tool for randomized controlled trials (RoB 2) [,] was utilized to conduct risk of bias assessment. Two reviewers (IDR, AF) performed Rob in duplicate and, as for the study selection process, any disagreement was solved through discussion or a third reviewer (MCC) was consulted to reach consensus.
+
+Moreover, the certainty of the evidence for each outcome was evaluated using the GRADE approach (Grading of Recommendations Assessment, Development and Evaluation) [,]. Judgements were made for each of the following domains: risk of bias, inconsistency, indirectness, imprecision, and publication bias.
+
+2.7. Data Analysis
+
+Statistical analyses were performed using dedicated statistical software (STATA IC, version 18, StataCorp LP, College Station, TX, USA). A meta-analysis was conducted when more than two comparable studies were available for a specific outcome. For continuous data (i.e., pain scores), mean values and standard deviations, as reported in the included studies, were used to calculate the weighted mean difference (WMD) and the corresponding 95% confidence intervals (CIs). A random-effects model was applied a priori due to expected clinical and methodological heterogeneity among trials, using the restricted maximum likelihood (REML) estimator. Forest plots were generated to display the results. Cochran’s Q statistic and the Iindex were used to estimate heterogeneity across studies [,], with values of 25%, 50% and 75% representing, respectively, low, moderate and high heterogeneity []. Publication bias was assessed using Egger’s test when≥ 10 studies were included and visually inspected through funnel plots [] (command “meta funnelplot”).
+
+3. Results
+
+3.1. Study Selection
+
+A total of 5639 articles (279 in Embase, 2163 in PubMed and 3197 in Scopus) were retrieved through electronic search. Manual search through bibliographies of relevant reviews and trials led to 20 additional records. After removal of duplicates, 4874 articles were screened and 114 full-texts were assessed for eligibility. Finally, 12 studies were included and qualitatively analyzed, 4 of which were considered eligible for the quantitative synthesis of data (meta-analysis). Inter-reviewer agreement resulted in a Cohen’s kappa coefficient (κ) of 0.91. The process of study selection and the search results are summarized in.
+
+3.2. Study Characteristics
+
+3.2.1. Study Design and Study Population
+
+Characteristics of the included trials are summarized in. A total of 12 randomized clinical trials were included, comprising 484 participants who received a single implant each. The follow-up period, starting from the implant placement, varied across studies, ranging from 6 months [,,,,,] to 36 months []. One trial assessed postoperative outcomes at 10 months [] and three studies reported data at 12 months of follow-up [,,].
+
+In several trials, IIP was performed in the maxilla from premolar to premolar [,,], while in two studies in both the maxillary and mandibular premolar-to-premolar areas [,]. Three trials were limited to maxillary premolar sites [,,], and one study focused on mandibular premolars []. Two studies investigated exclusively the esthetic zone, either confined to incisors [] or extended to incisors and canines [].
+
+3.2.2. Type of Intervention
+
+Individual study outcomes are summarized in. The deltas (Δ) between baseline and the last follow-up measurements are reported as presented in the original articles, or otherwise calculated by the reviewers, whenever feasible.
+
+Seven trials evaluated the use of xenografts [,,,,,,].
+
+Cardaropoli et al. (2014) [] evaluated ridge dimensional changes over 12 months of follow-up and reported significantly lower deltas in the test (grafted) group (ridge width: 0.69 ± 0.68 mm; ridge height: −0.58 ± 0.76 mm) compared to the control one (ridge width: 1.92 ± 1.02 mm; ridge height: −1.69 ± 1.72 mm). Girlanda et al. (2019) [] demonstrated significantly greater hard tissue width, measured 1 mm apical to the crest and in a buccolingual direction, in the “IIP + deproteinized bovine bone derived with collagen” group (6.57 ± 0.45 mm vs. 6.07 ± 0.24 mm).
+
+Significantly lower vertical bone loss (0.1 ± 1.4 mm vs. 1.2 ± 0.7 mm) and redu
