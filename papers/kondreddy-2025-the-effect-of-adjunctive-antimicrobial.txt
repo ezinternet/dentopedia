@@ -1,0 +1,63 @@
+TITLE: The Effect of Adjunctive Antimicrobial Therapy on the Clinical Outcomes of Non-Surgical Periodontal Treatment: A Systematic Review
+AUTHORS: Kondreddy Kameswari, Mohanty Aishwarya, Desai Vishwa, Surekha Gadisetti Lakshmi, Khader Anas Abdul, Mathur Suveet, Shetty Smitha
+JOURNAL: Journal of Pharmacy & Bioallied Sciences
+ID[pmcid]: PMC12156591
+ID[pmcid-ver]: PMC12156591.1
+ID[pmcaid]: 12156591
+ID[pmcaiid]: 12156591
+ID[pmid]: 40511251
+ID[doi]: 10.4103/jpbs.jpbs_1426_24
+ID[publisher-id]: JPBS-17-463
+
+## ABSTRACT
+ABSTRACT
+Introduction:Nonsurgical periodontal treatment, particularly scaling and root planing (SRP), is essential for managing periodontitis. Adjunctive systemic antibiotics have been proposed to enhance the clinical outcomes of SRP, especially in advanced stages of the disease. This systematic review evaluates the effectiveness of adjunctive systemic antimicrobial therapy on clinical parameters, including probing pocket depth (PPD), clinical attachment level (CAL), and bleeding on probing (BOP).
+Methods:A systematic search of PubMed was conducted, focusing on randomized controlled trials (RCTs) between 2010 and 2024 that evaluated the use of systemic antibiotics as an adjunct to SRP in patients with stage III/IV periodontitis. The primary outcomes assessed were changes in PPD, CAL, and BOP.
+Results:Forty-eight studies, including three recent trials, were analyzed. The combination of amoxicillin and metronidazole resulted in significant improvements in clinical outcomes, with notable reductions in PPD and CAL. Two tables summarize these findings.
+Conclusion:Systemic antibiotics, especially amoxicillin and metronidazole, significantly enhance clinical outcomes when used adjunctively with SRP. Shorter antibiotic regimens may provide similar benefits with fewer side effects.
+
+## INTRODUCTION
+
+Periodontitis is a chronic inflammatory disease that leads to the progressive destruction of the supporting structures of the teeth. If left untreated, it can result in tooth loss and significantly affect quality of life. Scaling and root planning (SRP) remains the cornerstone of nonsurgical periodontal treatment. However, adjunctive systemic antibiotics are often used to enhance the effectiveness of SRP, particularly in patients with severe or aggressive periodontitis.[12]
+
+The rationale for using systemic antibiotics lies in their ability to target specific periodontal pathogens that may not be sufficiently eliminated by SRP alone. Key pathogens, such as Aggregatibacter actinomycetemcomitans (Aa) and Porphyromonas gingivalis (Pg), contribute to the progression of periodontitis and are associated with poor clinical outcomes if not adequately controlled.[3] This systematic review aims to assess the impact of adjunctive antimicrobial therapy on clinical parameters, including probing pocket depth (PPD), clinical attachment level (CAL), and bleeding on probing (BOP), in nonsurgical periodontal treatment.
+
+## METHODS
+
+This systematic review followed PRISMA guidelines. A comprehensive search was conducted in PubMed for randomized controlled trials (RCTs) published between 2010 and 2024. Studies included were those assessing the adjunctive use of systemic antibiotics in nonsurgical periodontal treatment for patients with stage III/IV periodontitis. The primary outcomes were changes in PPD, CAL, and BOP. Studies focusing solely on surgical interventions or with insufficient follow-up periods were excluded. A total of 48 studies met the inclusion criteria, including three recently published trials.
+
+## RESULTS
+
+Forty-eight RCTs involving a total of 2,755 participants were included in this review [Figure 1].
+
+[FIGURE] Flowchart for the selection of the studies
+
+The studies evaluated various combinations of systemic antibiotics with SRP, including amoxicillin, metronidazole, doxycycline, and azithromycin. The primary comparison of interest was amoxicillin plus metronidazole with SRP versus SRP alone. Results showed a significant improvement in clinical outcomes for patients receiving adjunctive antibiotics. Specifically, the combination of amoxicillin and metronidazole in conjunction with SRP led to an average improvement in CAL of 0.47 mm and a reduction in PD of 0.30 mm compared to SRP alone.[34] Additionally, there was a 6.9% reduction in BOP for patients receiving adjunctive antibiotics.[5] Other antibiotic regimens, such as metronidazole alone, also demonstrated favorable outcomes, with an improvement in CAL of 1.12 mm and a reduction in PD of 1.11 mm.[6] However, the evidence for azithromycin and doxycycline was less conclusive. Azithromycin led to a CAL improvement of 0.59 mm and a PD reduction of 0.77 mm, while doxycycline showed a CAL gain of 0.80 mm and a PD reduction of 1.00 mm, though BOP data were not consistently reported[7] [Table 1].
+
+[TABLE] Clinical outcomes of adjunctive systemic antibiotics in non-surgical periodontal treatment
+Amoxicillin + Metronidazole | 2. 389 | 3. 0.47 | 4. 0.30 | 5. 6.90
+Metronidazole | 6. 71 | 7. 1.12 | 8. 1.11 | 9. 6.90
+Azithromycin | 10. 110 | 11. 0.59 | 12. 0.77 | 13. 1.28
+Doxycycline | 14. 22 | 15. 0.80 | 16. 1.00 | 17. Not reported
+
+Despite these findings, the overall certainty of evidence was rated as low across most outcomes due to heterogeneity among studies, small sample sizes, and variability in research designs. Several studies had a high or unclear risk of bias, particularly in terms of blinding, allocation concealment, and incomplete outcome data. Furthermore, long-term follow-up data were limited in many studies, making it challenging to assess the durability of these treatment effects.
+
+## DISCUSSION
+
+The results of this review highlight the significant clinical benefits of using systemic antibiotics as adjunctive therapy in nonsurgical periodontal treatment, particularly in patients with advanced periodontitis. Amoxicillin and metronidazole were consistently associated with improvements in CAL and reductions in PPD, reinforcing their role in enhancing SRP outcomes.[3] This aligns with previous research, such as the study by Khattri et al. (2020),[1] which demonstrated similar benefits in both chronic and aggressive periodontitis cases.
+
+Recent research by Ilyes et al. (2024)[4] adds new evidence on the efficacy of metronidazole alone, showing significant improvements in CAL and PPD comparable to combination therapy. However, the magnitude of improvement was generally smaller than that observed with amoxicillin plus metronidazole, suggesting that combination therapies may offer superior outcomes in severe periodontitis cases.
+
+The research by Cosgarea et al. (2022)[5] introduced an important finding regarding the duration of antibiotic therapy. Their results demonstrated that a 3-day antibiotic regimen was as effective as a 7-day course in terms of CAL and PPD reductions, with fewer adverse events. This has significant implications for clinical practice, as shorter antibiotic regimens may reduce the risk of adverse effects and minimize the development of antibiotic resistance, while still achieving comparable clinical outcomes.
+
+The variability in outcomes with other antibiotics, such as azithromycin and doxycycline, suggests that their efficacy may depend on specific patient factors, such as the stage of disease and microbial profile. Although these antibiotics showed clinical improvements, the results were more variable and generally less pronounced compared to amoxicillin and metronidazole.[67]
+
+Despite these promising findings, the overall quality of evidence remains low due to significant heterogeneity among the included studies. Variations in research design, patient populations, and antibiotic regimens contributed to inconsistencies in the reported outcomes. Additionally, many studies had short follow-up periods, limiting the ability to assess the long-term effectiveness of these therapies. Future research should focus on larger-scale trials with standardized protocols to improve the reliability of the evidence.[8910]
+
+## CONCLUSION
+
+Adjunctive systemic antibiotics, particularly amoxicillin and metronidazole, significantly enhance the clinical outcomes of nonsurgical periodontal treatment, especially in advanced cases of periodontitis. Shorter antibiotic regimens, such as a 3-day course, may offer comparable benefits to longer treatments while minimizing adverse effects and the risk of antibiotic resistance. However, further research is needed to standardize treatment protocols and evaluate long-term outcomes.
+
+### Conflicts of interest
+
+There are no conflicts of interest.
