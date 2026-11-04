@@ -2,7 +2,7 @@
 title: "종합 — overviews"
 authors: navigation
 year: 2026
-date: 2026-10-28
+date: 2026-11-04
 doi: N/A
 source: navigation
 category: overviews
@@ -15,20 +15,20 @@ tags: [navigation, category-index, overviews]
 > [!summary] 한국어 핵심요약
 > - **분야**: 종합
 > - **범위**: Synthesis pages spanning multiple categories
-> - **수록 논문**: 363편
+> - **수록 논문**: 368편
 
 ## Three-line Summary
 
 **Scope**: Synthesis pages spanning multiple categories
-**Indexed papers**: 363 papers in `wiki/overviews/`.
+**Indexed papers**: 368 papers in `wiki/overviews/`.
 
 ## 세줄요약
 
 **분야**: 종합
-**수록 논문**: 363편
+**수록 논문**: 368편
 **하위 카테고리**: 없음
 
-## Papers in this Category (363)
+## Papers in this Category (368)
 
 | Paper |
 |---|
@@ -100,6 +100,7 @@ tags: [navigation, category-index, overviews]
 | [[dbbm-platelet-adjuncts-bcp-bmp2-overview|DBBM 혈소판 유래 보조제·BCP 비교·BMP2 기능화 종합 (Platelet Adjuncts, BCP vs DBBM & BMP2-Functionalized Calcium Phosphate)]] |
 | [[dense-bone-osteotomy-heat-reimplantation-overview|Overview: Dense/Sclerotic Bone (D1) Implant Osteotomy — Thermal Injury Risk & Repeated-Failure-Site Reimplantation]] |
 | [[dental-appointment-no-show-overview|Overview: Dental Appointment No-Shows & Non-Attendance]] |
+| [[dental-emergency-preparedness-cpr-aed-overview|Overview: Dental Emergency Preparedness — CPR, AED, and Clinical Readiness]] |
 | [[dental-erosion-epidemiology-risk-factors-management-overview|치아침식증 역학·위험인자·예방관리 종합: GERD·섭식장애·산성음료]] |
 | [[dental-erosion-etiology-prevention-synthesis|치아침식(ETW) 병인·산성 챌린지·예방 종합 (Dental Erosion: Etiology / Acid Challenge / Prevention)]] |
 | [[dental-handpiece-bur-selection-overview|Overview: Dental Handpieces & Burs — Type Selection, Indications & Cutting-Instrument Alternatives]] |
@@ -109,6 +110,7 @@ tags: [navigation, category-index, overviews]
 | [[dental-infection-control-aerosol-overview|치과 감염관리 — 멸균·수관·에어로졸 종합 (Dental Infection Control: Sterilization / Waterlines / Aerosols)]] |
 | [[dental-materials-decision-ladder|Dental Materials — Selection & Bonding Decision Ladder]] |
 | [[dental-materials-peek-nanoceramic-liner-overview|치과 재료 특수 처치 근거 — PEEK 접착 전처리·나노세라믹 CAD-CAM 방식·복합레진 캐비티 라이너]] |
+| [[dental-medical-emergencies-preparedness-overview|치과 진료 중 응급 대응·준비도 종합]] |
 | [[dental-radiographic-artifacts-taxonomy-overview|Dental Radiographic Artifacts — A Taxonomy Across Panoramic and Intraoral (PA) Imaging: Ghost Images, Geometry Errors, Receptor/Scanning Artifacts, and Disease-Mimicking Optical Effects]] |
 | [[dental-recall-spt-overview|Dental Recall and Supportive Periodontal Therapy: Evidence-Based Interval Management]] |
 | [[dental-research-units-reference-overview|치과 논문에 자주 쓰이는 단위 레퍼런스 (Common Units in Dental Research) — 빈도순 + 임계값 매트릭스]] |
@@ -169,6 +171,7 @@ tags: [navigation, category-index, overviews]
 | [[high-insertion-torque-primary-stability-crestal-bone-overview|High Insertion Torque → Primary Stability, Crestal Bone Remodeling, and Marginal Bone Loss — A Conflict Synthesis]] |
 | [[high-insertion-torque-sign-flip-crestal-harm-overview|고삽입토크 — 부호 반전·용량-반응 역설·치조정 손상·Lemos 무효 결과 종합 (Torque Sign Flip, Dose-Response Paradox, Crestal Harm & Lemos Null)]] |
 | [[hygienist-periodontal-instrumentation-scaling-overview|Overview: Hygienist-Delivered Scaling & Periodontal Instrumentation — Effectiveness, Operator Ergonomics, Aerosols, and Chairside Safety]] |
+| [[hypertension-antihypertensive-implant-outcomes-overview|Overview: Hypertension, Antihypertensive Medications, and Dental Implant Outcomes]] |
 | [[ian-nerve-injury-management-overview|하치조신경·설신경 손상 — 역학·분류·시간기반 관리 프로토콜 종합 (IAN/LN Injury: Epidemiology, Classification & Time-Based Management)]] |
 | [[immediate-dentin-sealing-evidence-synthesis|즉시 상아질 밀봉 (Immediate Dentin Sealing, IDS) 근거 종합 — in-vitro 강함 vs 임상 POS 논쟁]] |
 | [[immediate-implant-anatomic-safety-overview|Immediate Implant Placement — Site-Specific Anatomic Safety & CBCT Margins Overview]] |
@@ -325,6 +328,7 @@ tags: [navigation, category-index, overviews]
 | [[saliva-diagnostics-and-salivary-gland-dysfunction-overview|Saliva & the Salivary Gland: Diagnostic Medium and Secretory Dysfunction — Overview]] |
 | [[schneiderian-membrane-perforation-overview|Schneiderian Membrane Perforation — Occurrence, Predictors, and Outcome After Repair (슈나이더막 천공 — 발생·예측·수복 후 결과 종합)]] |
 | [[screw-access-hole-sealing-protocol-overview|Screw Access Hole Sealing Protocol — Plug Material, Wall Treatment & Composite Thickness (스크류 접근홀 봉쇄 프로토콜 종합)]] |
+| [[sda-shortened-dental-arch-evidence-overview|Overview: Shortened Dental Arch (SDA) — Evidence Synthesis]] |
 | [[severe-atrophy-graftless-rehabilitation-ladder|Overview: Severe Jaw Atrophy — the Graftless Rehabilitation Ladder (숏·경사·관골·골막하 임플란트)]] |
 | [[short-implant-vs-sinus-augmentation-decision|Overview: Short Implant vs Sinus Augmentation in the Atrophic Posterior Maxilla — Decision Synthesis]] |
 | [[single-vs-multivisit-endodontic-outcomes-overview|Single- vs Multiple-Visit Endodontics: Healing & Pain Outcomes — 5-paper synthesis]] |
@@ -392,6 +396,7 @@ tags: [navigation, category-index, overviews]
 | [[watanabe-toothpick-method-toothbrushing-synthesis|Watanabe Toothpick Method (이쑤시개법) of Toothbrushing — Evidence Synthesis]] |
 | [[worn-dentition-rehabilitation-direct-indirect-strategy-overview|Worn Dentition Rehabilitation — Direct vs Indirect Minimally Invasive Strategy]] |
 | [[zirconia-block-overview|지르코니아 블록 — 제조·결함·소결·선택 종합 (CAD/CAM Blank)]] |
+| [[zirconia-fracture-mechanisms-overview|지르코니아 파절 기전 종합 — 왜 가장 강한 치과 세라믹이 부러지는가]] |
 | [[zirconia-implant-clinical-outcomes|Overview: Zirconia Dental Implants — Survival, Marginal Bone Loss, and Patient-Reported Outcomes]] |
 | [[zirconia-material-clinical-overview|치과용 지르코니아 — 재료과학·세대분류·생존율·LTD·파절수리 종합]] |
 | [[zirconia-types-clinical-selection|Zirconia Types — 3Y vs 4Y vs 5Y vs UHTZ Clinical Selection]] |
