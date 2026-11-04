@@ -1,0 +1,362 @@
+<!--
+---
+title: "UV-PF 파장별 광자 에너지 비교 계산기"
+type: interactive
+date: 2026-11-05
+status: done
+category: implant-placement
+agenda: agenda/2026-11-05_uv-plasma-wavelength-comparison-interactives.md
+source_wiki:
+  - wiki/overviews/uv-photofunctionalization-dental-implants.md
+  - wiki/overviews/plasma-surface-treatment-dental-implants.md
+  - wiki/implants/surface/suzumura-2023-vuv-172nm-titanium-photofunctionalization.md
+  - wiki/implants/surface/houshmand-2023-uv-photofunctionalization-sla-titanium-disks.md
+  - wiki/implants/surface/wagstaffe-2019-rgd-tripeptide-adsorption-titania-surfaces.md
+  - wiki/implants/surface/matsuura-2024-biological-dilemma-titanium-surface-strategies.md
+  - wiki/implants/surface/choi-2017-uv-dbd-plasma-titanium-storage-biological-activity.md
+tags: [uv-photofunctionalization, wavelength, photon-energy, VUV, UVC, UVB, UVA, carbon-removal, chairside-calculator]
+notes: |
+  E(eV) = 1240 / λ(nm) — Planck 에너지 공식.
+  카르복실기-Ti 결합 에너지 ~3.5–4 eV (Wagstaffe 2019) — 이 임계값 이상이어야 탄소 제거 가능.
+  Suzumura 2023: 172nm VUV = 7.21eV, 최고 광자에너지, 탄소 제거 최우수.
+  Houshmand 2023: 310nm UVB는 접촉각만 개선, XPS 탄소 유의미 감소 없음(p=0.171).
+  라이트 고정 디자인 (operations-lint 2026-08-31 ~dark 금지).
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>UV-PF 파장 비교 계산기</title>
+<style>
+  :root {
+    --bg: #f8f9fa;
+    --card: #ffffff;
+    --border: #dee2e6;
+    --text: #212529;
+    --muted: #6c757d;
+    --primary: #0d6efd;
+    --success: #198754;
+    --warning: #fd7e14;
+    --danger: #dc3545;
+    --info: #0dcaf0;
+    --radius: 8px;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, "Apple SD Gothic Neo", "Noto Sans KR", system-ui, sans-serif;
+    max-width: 860px; margin: 0 auto; padding: 16px;
+    background: var(--bg); color: var(--text); line-height: 1.55;
+  }
+  h1 { font-size: 22px; font-weight: 700; margin-bottom: 4px; }
+  .subtitle { color: var(--muted); font-size: 14px; margin-bottom: 20px; }
+  .tab-row {
+    display: flex; gap: 6px; margin-bottom: 20px; flex-wrap: wrap;
+  }
+  .tab {
+    padding: 8px 18px; border-radius: 20px; border: 2px solid var(--border);
+    cursor: pointer; font-size: 14px; font-weight: 600; background: var(--card);
+    color: var(--text); transition: all 0.15s;
+  }
+  .tab:hover { border-color: #adb5bd; }
+  .tab.active-vuv  { background: #6610f2; border-color: #6610f2; color: #fff; }
+  .tab.active-uvc  { background: #0d6efd; border-color: #0d6efd; color: #fff; }
+  .tab.active-uvb  { background: #fd7e14; border-color: #fd7e14; color: #fff; }
+  .tab.active-uva  { background: #adb5bd; border-color: #adb5bd; color: #fff; }
+
+  .energy-display {
+    background: var(--card); border: 1px solid var(--border); border-radius: var(--radius);
+    padding: 20px 24px; margin-bottom: 16px; display: flex; align-items: center; gap: 24px;
+  }
+  .energy-big { font-size: 52px; font-weight: 800; line-height: 1; }
+  .energy-unit { font-size: 20px; font-weight: 500; color: var(--muted); align-self: flex-end; padding-bottom: 6px; }
+  .energy-label { color: var(--muted); font-size: 13px; margin-top: 4px; }
+  .energy-formula { font-size: 14px; color: var(--muted); background: #f1f3f5; padding: 6px 10px; border-radius: 6px; font-family: monospace; }
+
+  .bar-section { margin-bottom: 20px; }
+  .bar-section h2 { font-size: 15px; font-weight: 600; margin-bottom: 10px; color: var(--text); }
+  .bar-wrap { background: var(--card); border: 1px solid var(--border); border-radius: var(--radius); padding: 16px; }
+  .bar-row { display: flex; align-items: center; gap: 10px; margin-bottom: 10px; font-size: 13px; }
+  .bar-row:last-child { margin-bottom: 0; }
+  .bar-label { width: 100px; flex-shrink: 0; font-weight: 600; }
+  .bar-track { flex: 1; background: #e9ecef; border-radius: 4px; height: 24px; overflow: hidden; position: relative; }
+  .bar-fill { height: 100%; border-radius: 4px; display: flex; align-items: center; padding-left: 8px; color: #fff; font-size: 12px; font-weight: 700; transition: width 0.3s; }
+  .bar-ev { width: 54px; flex-shrink: 0; text-align: right; color: var(--muted); font-size: 12px; }
+  .threshold-line {
+    position: absolute; top: 0; bottom: 0; width: 2px; background: #dc3545; z-index: 1;
+  }
+  .threshold-label { font-size: 11px; color: #dc3545; font-weight: 700; margin-left: 2px; white-space: nowrap; position: absolute; top: 2px; }
+
+  .info-cards { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-bottom: 20px; }
+  @media (max-width: 600px) { .info-cards { grid-template-columns: 1fr; } }
+  .info-card {
+    background: var(--card); border: 1px solid var(--border); border-radius: var(--radius);
+    padding: 14px 16px;
+  }
+  .info-card h3 { font-size: 14px; font-weight: 700; margin-bottom: 8px; }
+  .info-card p, .info-card li { font-size: 13.5px; color: var(--text); line-height: 1.55; }
+  .info-card ul { padding-left: 18px; }
+
+  .badge { display: inline-block; padding: 2px 8px; border-radius: 10px; font-size: 11.5px; font-weight: 700; margin-bottom: 6px; }
+  .badge-green  { background: #d1e7dd; color: #0a3622; }
+  .badge-blue   { background: #cfe2ff; color: #052c65; }
+  .badge-orange { background: #ffe5d0; color: #6b2d0a; }
+  .badge-gray   { background: #e9ecef; color: #343a40; }
+
+  .alert { padding: 10px 14px; border-radius: var(--radius); font-size: 13.5px; margin-bottom: 12px; border-left: 4px solid; }
+  .alert-warning { background: #fff3cd; border-color: #fd7e14; }
+  .alert-info    { background: #cff4fc; border-color: #0dcaf0; }
+  .alert strong  { font-weight: 700; }
+
+  .source-row { font-size: 12px; color: var(--muted); border-top: 1px solid var(--border); padding-top: 10px; margin-top: 6px; }
+  .source-row span { font-style: italic; }
+</style>
+</head>
+<body>
+
+<h1>UV-PF 파장별 광자 에너지 비교</h1>
+<p class="subtitle">임플란트 표면 탄화수소 제거를 위한 UV 파장 선택 가이드 · E(eV) = 1240 / λ(nm)</p>
+
+<div class="tab-row">
+  <button class="tab" id="tab-vuv" onclick="select(172)">172 nm VUV</button>
+  <button class="tab" id="tab-uvc" onclick="select(210)">210 nm UVC</button>
+  <button class="tab" id="tab-uvb" onclick="select(310)">310 nm UVB</button>
+  <button class="tab" id="tab-uva" onclick="select(365)">365 nm UVA</button>
+</div>
+
+<div class="energy-display">
+  <div>
+    <div style="display:flex;align-items:baseline;gap:6px;">
+      <div class="energy-big" id="ev-val">7.21</div>
+      <div class="energy-unit">eV</div>
+    </div>
+    <div class="energy-label" id="ev-label">172 nm VUV (진공자외선)</div>
+    <div class="energy-formula" id="ev-formula">E = 1240 / 172 = 7.21 eV</div>
+  </div>
+  <div style="flex:1;"></div>
+  <div id="carbon-badge" style="text-align:center;">
+    <div style="font-size:28px;" id="carbon-icon">✅</div>
+    <div style="font-size:12px;font-weight:700;color:var(--success);" id="carbon-status">탄소 제거 완전</div>
+  </div>
+</div>
+
+<div class="bar-section">
+  <h2>파장별 광자 에너지 비교 (카르복실기-Ti 결합 임계 ≈ 3.5–4 eV)</h2>
+  <div class="bar-wrap">
+    <div id="bars"></div>
+    <div class="source-row">결합 에너지 출처: <span>Wagstaffe 2019 (Langmuir, PMID 31724374)</span></div>
+  </div>
+</div>
+
+<div class="info-cards" id="info-cards">
+  <!-- filled by JS -->
+</div>
+
+<div id="alert-box"></div>
+
+<div class="source-row" style="font-size:12px;color:#6c757d;margin-top:4px;">
+  근거: Suzumura 2023 (PMID 36662058) · Houshmand 2023 (PMID 38967690) · Wagstaffe 2019 (PMID 31724374) · Matsuura 2024 (PMID 38505890)
+</div>
+
+<script>
+const PAGE_VERSION = '20261105-v1';
+const _VK = 'uv_wavelength_ver';
+const _HK = 'uv_wavelength_hidden';
+try {
+  const sv = localStorage.getItem(_VK);
+  if (sv && sv !== PAGE_VERSION) { localStorage.setItem(_VK, PAGE_VERSION); location.reload(true); }
+  else localStorage.setItem(_VK, PAGE_VERSION);
+} catch(e) {}
+document.addEventListener('visibilitychange', () => {
+  if (document.hidden) {
+    try { localStorage.setItem(_HK, Date.now()); } catch(e) {}
+  } else {
+    try {
+      const ht = parseInt(localStorage.getItem(_HK) || '0');
+      if (ht && (Date.now() - ht) > 30 * 60 * 1000) {
+        localStorage.setItem(_HK, '0');
+        location.reload(true);
+      }
+    } catch(e) {}
+  }
+});
+
+const WAVES = [
+  {
+    nm: 172, id: 'vuv', label: 'VUV', full: '진공자외선 (Vacuum UV)',
+    tabClass: 'active-vuv', color: '#6610f2',
+    ev: 7.21,
+    carbonRemoval: 'full',
+    headline: '최강 광자 에너지 — 탄소 제거 최우수',
+    summary: '172nm VUV는 7.21eV로 카르복실기-Ti 결합(~3.5–4eV)을 여유 있게 초과. Suzumura 2023: 가장 짧은 처리 시간에도 최대 탄소 제거 + 슈퍼친수성. 단, 산소 존재 시 오존 발생 — 밀폐 챔버 필요.',
+    points: [
+      '7.21 eV — 결합 에너지의 약 2배',
+      'Suzumura 2023: 타 파장 대비 탄소 제거 최우수',
+      '슈퍼친수성 (접촉각 ≈ 0°)',
+      '오존 생성 → 밀폐·환기 필수',
+      '처리 시간: 1–12분 (기기별)',
+    ],
+    source: 'Suzumura 2023 (PMID 36662058)',
+    badge: 'badge-green', badgeText: '탄소 제거 ✓ + 친수성 ✓',
+  },
+  {
+    nm: 210, id: 'uvc', label: 'UVC', full: 'C형 자외선 (UVC)',
+    tabClass: 'active-uvc', color: '#0d6efd',
+    ev: 5.90,
+    carbonRemoval: 'full',
+    headline: '표준 UV-PF 파장 — 탄소 제거 + 친수성 모두 효과적',
+    summary: '210nm UVC(5.90eV)는 카르복실기-Ti 결합 에너지를 명확히 초과. 대부분의 상업용 UV-PF 기기(예: BioHorizons UV 광원)가 이 범위를 사용. XPS: 표면 탄소 유의미 감소, 접촉각 ~0°.',
+    points: [
+      '5.90 eV — 결합 에너지 초과',
+      '상업용 UV-PF 기기 표준 파장대',
+      'XPS 탄소 유의미 감소',
+      '친수성 완전 회복',
+      '처리 시간: 12–20분',
+    ],
+    source: 'Matsuura 2024 (PMID 38505890); Suzumura 2023',
+    badge: 'badge-green', badgeText: '탄소 제거 ✓ + 친수성 ✓',
+  },
+  {
+    nm: 310, id: 'uvb', label: 'UVB', full: 'B형 자외선 (UVB)',
+    tabClass: 'active-uvb', color: '#fd7e14',
+    ev: 4.00,
+    carbonRemoval: 'partial',
+    headline: '임계선 경계 — 친수성만 개선, 탄소 제거 불완전',
+    summary: 'Houshmand 2023: 310nm UVB는 접촉각을 129.9°→58.9°로 개선하나 XPS 탄소 함량은 유의미하게 감소하지 않음(p=0.171, p=0.785). 카르복실기-Ti 결합 에너지(~3.5–4eV)에 간신히 도달하는 수준으로 불완전한 탈오염.',
+    points: [
+      '4.00 eV — 결합 에너지 하한 경계',
+      'Houshmand 2023: 친수성 개선 ✓',
+      'Houshmand 2023: XPS 탄소 유의 감소 ✗ (p=0.171)',
+      '불완전 탈오염 — UV-PF 단독 목적으로는 부족',
+      '일부 기기의 조사 범위에 포함될 수 있음',
+    ],
+    source: 'Houshmand 2023 (PMID 38967690)',
+    badge: 'badge-orange', badgeText: '친수성만 ✓ · 탄소 제거 △',
+  },
+  {
+    nm: 365, id: 'uva', label: 'UVA', full: 'A형 자외선 (UVA)',
+    tabClass: 'active-uva', color: '#868e96',
+    ev: 3.40,
+    carbonRemoval: 'none',
+    headline: '광자 에너지 부족 — 화학적 탈오염 효과 없음',
+    summary: '365nm UVA(3.40eV)는 카르복실기-Ti 결합 에너지(~3.5–4eV)를 하회. 열효과는 있으나 광화학적 탈오염이 없음. UV-PF의 목적인 탄소층 제거에는 사용 불가. 365nm를 사용하는 기기는 임플란트 표면 광기능화 목적이 아님.',
+    points: [
+      '3.40 eV — 결합 에너지 미달',
+      '탄화수소 광분해 불가',
+      '친수성 개선 효과 없음',
+      'UV-PF 목적으로 사용 불가',
+      '열효과는 존재하나 임상 무의미',
+    ],
+    source: 'Wagstaffe 2019 (PMID 31724374); Matsuura 2024',
+    badge: 'badge-gray', badgeText: '효과 없음',
+  },
+];
+
+const THRESHOLD_EV = 3.75;
+const MAX_EV = 8.0;
+
+let current = 172;
+
+function getWave(nm) { return WAVES.find(w => w.nm === nm); }
+
+function renderBars() {
+  const container = document.getElementById('bars');
+  container.innerHTML = '';
+  const thresholdPct = (THRESHOLD_EV / MAX_EV) * 100;
+
+  WAVES.forEach(w => {
+    const pct = Math.min((w.ev / MAX_EV) * 100, 100);
+    const isActive = w.nm === current;
+    const row = document.createElement('div');
+    row.className = 'bar-row';
+    row.innerHTML = `
+      <div class="bar-label" style="color:${isActive ? w.color : ''};">${w.nm}nm ${w.label}</div>
+      <div class="bar-track">
+        <div class="bar-fill" style="width:${pct}%;background:${w.color};opacity:${isActive ? 1 : 0.4};">
+          ${w.nm}nm
+        </div>
+        <div class="threshold-line" style="left:${thresholdPct}%;"></div>
+        ${isActive ? `<span class="threshold-label" style="left:${thresholdPct + 0.5}%;">결합 임계 ≈3.75eV</span>` : ''}
+      </div>
+      <div class="bar-ev">${w.ev} eV</div>
+    `;
+    container.appendChild(row);
+  });
+}
+
+function renderInfoCards(w) {
+  const cards = document.getElementById('info-cards');
+  const carbonColor = w.carbonRemoval === 'full' ? '#198754' : w.carbonRemoval === 'partial' ? '#fd7e14' : '#dc3545';
+  const carbonText = w.carbonRemoval === 'full' ? '탄소 제거 완전' : w.carbonRemoval === 'partial' ? '탄소 제거 불완전' : '탄소 제거 불가';
+
+  cards.innerHTML = `
+    <div class="info-card">
+      <span class="badge ${w.badge}">${w.badgeText}</span>
+      <h3>${w.full}</h3>
+      <p>${w.summary}</p>
+    </div>
+    <div class="info-card">
+      <h3>임상 체크포인트</h3>
+      <ul>
+        ${w.points.map(p => `<li>${p}</li>`).join('')}
+      </ul>
+      <div class="source-row" style="margin-top:10px;">근거: <span>${w.source}</span></div>
+    </div>
+  `;
+}
+
+function renderAlert(w) {
+  const box = document.getElementById('alert-box');
+  if (w.nm === 310) {
+    box.innerHTML = `<div class="alert alert-warning">
+      <strong>⚠ Houshmand 2023 핵심:</strong> UVB(310nm) 처리 후 접촉각은 개선되지만 XPS 탄소 함량은 유의미하게 감소하지 않음(C1s p=0.171, C/Ti ratio p=0.785). 임플란트 생체활성화의 핵심 목적인 탄화수소 제거가 불완전함을 의미한다.
+    </div>`;
+  } else if (w.nm === 365) {
+    box.innerHTML = `<div class="alert alert-warning">
+      <strong>⚠ UV-PF 적용 불가:</strong> 365nm는 광자 에너지(3.40eV)가 카르복실기-Ti 결합 에너지(~3.5–4eV)에 미달. 임플란트 표면 광기능화(UV-PF) 목적으로는 사용할 수 없다.
+    </div>`;
+  } else if (w.nm === 172) {
+    box.innerHTML = `<div class="alert alert-info">
+      <strong>ℹ 오존 주의:</strong> 172nm VUV는 최고 광자 에너지를 제공하지만, 산소와 반응해 오존(O₃)을 생성. 밀폐 챔버 또는 불활성 가스(질소 등) 환경이 필수이며, 환기 절차를 준수해야 한다.
+    </div>`;
+  } else {
+    box.innerHTML = '';
+  }
+}
+
+function select(nm) {
+  current = nm;
+  const w = getWave(nm);
+
+  // update tabs
+  WAVES.forEach(wv => {
+    const tab = document.getElementById('tab-' + wv.id);
+    tab.className = 'tab' + (wv.nm === nm ? ' active-' + wv.id : '');
+  });
+
+  // update energy display
+  document.getElementById('ev-val').textContent = w.ev.toFixed(2);
+  document.getElementById('ev-label').textContent = w.nm + ' nm ' + w.full;
+  document.getElementById('ev-formula').textContent = 'E = 1240 / ' + w.nm + ' = ' + w.ev.toFixed(2) + ' eV';
+
+  const carbonIcon = document.getElementById('carbon-icon');
+  const carbonStatus = document.getElementById('carbon-status');
+  if (w.carbonRemoval === 'full') {
+    carbonIcon.textContent = '✅'; carbonStatus.textContent = '탄소 제거 완전'; carbonStatus.style.color = '#198754';
+  } else if (w.carbonRemoval === 'partial') {
+    carbonIcon.textContent = '⚠️'; carbonStatus.textContent = '탄소 제거 불완전'; carbonStatus.style.color = '#fd7e14';
+  } else {
+    carbonIcon.textContent = '❌'; carbonStatus.textContent = '탄소 제거 불가'; carbonStatus.style.color = '#dc3545';
+  }
+
+  renderBars();
+  renderInfoCards(w);
+  renderAlert(w);
+}
+
+// init
+select(172);
+</script>
+</body>
+</html>
