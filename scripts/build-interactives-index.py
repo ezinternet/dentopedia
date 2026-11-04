@@ -439,7 +439,9 @@ def main():
     for items in by_cat.values():
         items.sort(key=lambda x: (x["date"], x["file"]), reverse=True)
 
-    order = CATEGORIES + [(FALLBACK_KEY, FALLBACK_LABEL)]
+    weekly = [(k, l) for k, l in CATEGORIES if k == "weekly-card"]
+    other_cats = [(k, l) for k, l in CATEGORIES if k != "weekly-card"]
+    order = other_cats + [(FALLBACK_KEY, FALLBACK_LABEL)] + weekly
     sections = []
     for key, label in order:
         if by_cat.get(key):
