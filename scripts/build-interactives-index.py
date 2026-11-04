@@ -49,6 +49,7 @@ CATEGORIES = [
     ("role-portal",            "역할별 포털 — 원장·위생사·데스크"),
     ("reference",              "레퍼런스·유틸리티"),
     ("meta",                   "메타 · 위키 성장"),
+    ("weekly-card",            "이번 주 핵심 근거 카드 — 주간 팀 브리핑"),
 ]
 
 # wiki 카테고리 taxonomy(wiki/_meta/categories.md)나 옛 키를 쓴 도구를 표시 버킷으로 흡수.
