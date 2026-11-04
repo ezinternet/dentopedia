@@ -2,7 +2,7 @@
 title: "상악동거상술·측방 — lateral"
 authors: navigation
 year: 2026
-date: 2026-10-22
+date: 2026-11-04
 doi: N/A
 source: navigation
 category: sinus-lift/lateral
@@ -15,20 +15,20 @@ tags: [navigation, category-index, lateral]
 > [!summary] 한국어 핵심요약
 > - **분야**: 상악동거상술·측방
 > - **범위**: Lateral window approach, membrane, grafting materials
-> - **수록 논문**: 106편
+> - **수록 논문**: 107편
 
 ## Three-line Summary
 
 **Scope**: Lateral window approach, membrane, grafting materials
-**Indexed papers**: 106 papers in `wiki/sinus-lift/lateral/`.
+**Indexed papers**: 107 papers in `wiki/sinus-lift/lateral/`.
 
 ## 세줄요약
 
 **분야**: 상악동거상술·측방
-**수록 논문**: 106편
+**수록 논문**: 107편
 **하위 카테고리**: 없음
 
-## Papers in this Category (106)
+## Papers in this Category (107)
 
 | Paper |
 |---|
@@ -107,6 +107,7 @@ tags: [navigation, category-index, lateral]
 | [[rodriguez-2019-long-term-risks-complications-bovine|The long-term risks and complications of bovine-derived xenografts: A case series]] |
 | [[sakuma-2020-maxillary-sinus-ostium-edema-cbct|Involvement of the Maxillary Sinus Ostium in the Edematous Processes after Sinus Floor Augmentation: A CBCT Study]] |
 | [[sala-2024-sinus-perforation-outcomes-sr-ma|Clinical Outcomes of Maxillary Sinus Floor Perforation by Dental Implants and Sinus Membrane Perforation during Sinus Augmentation: A Systematic Review and Meta-Analysis]] |
+| [[salgado-peralvo-2023-preventive-antibiotic-therapy-in|Preventive Antibiotic Therapy in Sinus Elevation Procedures: A Systematic Review]] |
 | [[sartori-2003-msfa-bio-oss-10year-case-report|Ten-year follow-up in a maxillary sinus augmentation using anorganic bovine bone (Bio-Oss). A case report with histomorphometric evaluation]] |
 | [[scaini-2025-lateral-sinus-floor-elevation-ridge-augmentation|Indications and Regenerative Techniques for Lateral Window Sinus Floor Elevation With Ridge Augmentation]] |
 | [[schiavo-di-flaviano-2024-schneiderian-perforation-implant-survival-sr-ma|Influence of Schneiderian Membrane Perforation on Implant Survival Rate: Systematic Review and Meta-Analysis]] |
