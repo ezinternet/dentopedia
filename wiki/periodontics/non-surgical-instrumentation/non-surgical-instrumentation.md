@@ -2,7 +2,7 @@
 title: "치주치료·비외과적기구처치 — non-surgical-instrumentation"
 authors: navigation
 year: 2026
-date: 2026-10-10
+date: 2026-11-04
 doi: N/A
 source: navigation
 category: periodontics/non-surgical-instrumentation
@@ -15,20 +15,20 @@ tags: [navigation, category-index, non-surgical-instrumentation]
 > [!summary] 한국어 핵심요약
 > - **분야**: 치주치료·비외과적기구처치
 > - **범위**: Professional non-surgical periodontal instrumentation — scaling & root planing (SRP), guided biofilm therapy (GBT), air-polishing, hand vs ultrasonic/piezoelectric scaling & instrument biomechanics/ergonomics, subgingival irrigation/reinstrumentation, SRP treatment guidelines
-> - **수록 논문**: 33편
+> - **수록 논문**: 36편
 
 ## Three-line Summary
 
 **Scope**: Professional non-surgical periodontal instrumentation — scaling & root planing (SRP), guided biofilm therapy (GBT), air-polishing, hand vs ultrasonic/piezoelectric scaling & instrument biomechanics/ergonomics, subgingival irrigation/reinstrumentation, SRP treatment guidelines
-**Indexed papers**: 33 papers in `wiki/periodontics/non-surgical-instrumentation/`.
+**Indexed papers**: 36 papers in `wiki/periodontics/non-surgical-instrumentation/`.
 
 ## 세줄요약
 
 **분야**: 치주치료·비외과적기구처치
-**수록 논문**: 33편
+**수록 논문**: 36편
 **하위 카테고리**: 없음
 
-## Papers in this Category (33)
+## Papers in this Category (36)
 
 | Paper |
 |---|
@@ -47,6 +47,7 @@ tags: [navigation, category-index, non-surgical-instrumentation]
 | [[ifrim-2026-edta-air-polishing-root-surface-sem|Effects of Adjunctive EDTA and Air-Polishing Powders on Periodontitis-Affected Root Surfaces: A SEM Study]] |
 | [[jungbauer-2026-naocl-hyaluronic-acid-subgingival-reinstrumentation-rct|Effect of sodium hypochlorite and hyaluronic acid in subgingival re-instrumentation - a randomized clinical trial]] |
 | [[khattri-2020-adjunctive-systemic-antimicrobials-non-surgical-treatment|Adjunctive systemic antimicrobials for the non-surgical treatment of periodontitis]] |
+| [[kondreddy-2025-the-effect-of-adjunctive-antimicrobial|The Effect of Adjunctive Antimicrobial Therapy on the Clinical Outcomes of Non-Surgical Periodontal Treatment: A Systematic Review]] |
 | [[laleman-2022-instrumentation-during-second-stage|Instrumentation during the second stage of periodontal therapy: a European survey.]] |
 | [[lamont-2018-routine-scale-and-polish-periodontal-health|Routine scale and polish for periodontal health in adults]] |
 | [[lei-2025-plaque-disclosing-agent-guided-biofilm-therapy|Plaque disclosing agent as a plaque control guide for oral hygiene in chronic periodontitis based on guided biofilm therapy: A retrospective cohort study]] |
@@ -57,6 +58,7 @@ tags: [navigation, category-index, non-surgical-instrumentation]
 | [[meseli-2016-probing-depth-srp-response-periodontitis|Relationships Between Initial Probing Depth and Changes in the Clinical Parameters Following Non-Surgical Periodontal Treatment in Chronic Periodontitis]] |
 | [[ou-2021-characterization-mitigation-aerosols-spatters|Characterization and mitigation of aerosols and spatters from ultrasonic scalers.]] |
 | [[ramanauskaite-2020-antiseptics-adjuncts-scaling-root-planing|Antiseptics as adjuncts to scaling and root planing in the treatment of periodontitis: a systematic literature review]] |
+| [[sesha-2026-systemic-antibiotics-as-adjuncts-in|Systemic Antibiotics as Adjuncts in Periodontal Therapy for Stage III and Stage IV Periodontitis: An Umbrella Review Aligned with the 2018 World Workshop Classification, with AMSTAR-2 Critical Appraisal]] |
 | [[sherif-2025-iprf-vitamin-c-nonsurgical-periodontitis|Injectable platelet-rich fibrin with vitamin C as an adjunct to non-surgical periodontal therapy in the treatment of stage-II periodontitis: a randomized controlled clinical trial]] |
 | [[smiley-2015-nonsurgical-periodontitis-srp-guideline|Evidence-based guideline: nonsurgical treatment of chronic periodontitis by SRP ± adjuncts]] |
 | [[stutzer-2024-vitro-measurement-forces-during|In-Vitro Measurement of Forces During Debridement with a Piezoelectric Ultrasonic Periodontal Scaler.]] |
@@ -65,3 +67,4 @@ tags: [navigation, category-index, non-surgical-instrumentation]
 | [[vadvadgi-2024-comparing-effectiveness-traditional-periodontal|Comparing the Effectiveness of Traditional Periodontal Surgery Versus Non-Surgical Therapy: A Randomized Controlled Trial.]] |
 | [[wink-2024-effect-novel-adaptive-handle-design|Effect of a Novel Adaptive Handle Design on the Ergonomic Performance of Periodontal Curettes in Dental Hygienists with and without Musculoskeletal Disorders: A Pilot Clinical Study.]] |
 | [[yein-2026-guided-biofilm-therapy-periodontal-efficacy-sr|Clinical efficacy of Guided Biofilm Therapy in the management of periodontal disease - a systematic review]] |
+| [[zhao-2021-the-effect-of-drug-dose|The effect of drug dose and duration of adjuvant Amoxicillin-plus-Metronidazole to full-mouth scaling and root planing in periodontitis: a systematic review and meta-analysis]] |
