@@ -1,0 +1,214 @@
+TITLE: The Role of Antibiotic Use in Third Molar Tooth Extractions: A Systematic Review and Meta-Analysis
+AUTHORS: Torof Elham, Morrissey Hana, Ball Patrick A., Moscalu Mihaela, Luchian Ionut, Iliescu Radu
+JOURNAL: Medicina
+ID[pmcid]: PMC10054344
+ID[pmcid-ver]: PMC10054344.1
+ID[pmcaid]: 10054344
+ID[pmcaiid]: 10054344
+ID[pmid]: 36984426
+ID[doi]: 10.3390/medicina59030422
+ID[publisher-id]: medicina-59-00422
+
+## ABSTRACT
+Background and Objectives: Anecdotal evidence suggested variation in practices for antibiotic prescribing around dental procedures including route of administration of antibiotics, timing of the course prescribed (before, after or both), length of course prescribed, narrow vs. broad spectrum agents prescribed, use of single or combination of antibiotics, and the use of loading doses. This review aims to investigate this disparity of practices and the absence of global and local recent consensus on the most appropriate antibiotic interventions around invasive dental procedures. Material and methods: Following PRISMA-P© methodology, a systematic review of randomised controlled clinical trials was designed, reviewed, and entered on the PROSPERO© website prior to commencement. Ethics approval was gained from the University of Wolverhampton Committee. Searches were performed using PubMed©, Science Direct™, and the Cochrane Database, plus the bibliographies of studies identified. They investigated studies examining the efficacy and safety of any antibiotic regimen tested, independent of regimen used, versus a placebo, control, or no therapy, on outcomes in post third molar extraction. Results: The primary outcome of interest was postoperative infection and secondary outcomes were other post-surgical related complications of infectious nature and antibiotic adverse events. Sixteen RCTs were identified that met the selection criteria. Antibiotic use was reported to be safe, causing few adverse events. Meta-analysis of infection events showed antibiotics reduced the risk of an infection by 69%, but routine use for prophylaxis in uncomplicated procedures was not supported, and their role in patients with comorbidities or impaired immunity remains controversial. The effect on the incidence of dry socket showed no difference based upon regimen used. No significant benefit was found with respect to reduction of intraoral inflammation, wound dehiscence, haematoma, and lymphadenopathy. Conclusion: The effect on postoperative pain reduction was inconclusive. Routine use of antibiotics around M3 extraction procedures is not supported, but their use in the presence of co-morbidities and or immunosuppression remains controversial to be confirmed by future studies.
+
+## 1. Introduction
+
+Third molar teeth (M3s) are commonly known as ‘wisdom teeth’ and are the last teeth to erupt in the upper (maxillary) and lower (mandibular) jaws. They generally erupt between the age 18 and 24, which has been referred to as ‘the age of wisdom’ [1]. There are four ‘wisdom teeth’: upper left, upper right, lower left, and lower right. The tooth most commonly impacted is the lower M3 and extraction of one that is impacted is more likely to be associated with surgical complications due to their abnormal position and blocked eruption, leading to recurrent third tooth pericoronitis [2].
+
+The overall incidence of impaction of M3s ranges from 36% to 59% [3], with approximately 60,000 extracted per annum in secondary care in the UK [4]. The incidence varies across different populations and ethnic groups [5].
+
+While not every asymptomatic or pathology-free impacted M3 causes a clinical problem, the National Institute for Health and Care Excellence (NICE) recommends that pathological M3s should be removed [6]. Removal of asymptomatic and/or pathology-free M3s is termed prophylactic.
+
+Early diagnosis and treatment reduce postoperative complications that typically include pain and swelling resolving within a few days. Other potential complications include trismus, haemorrhage, localised alveolar osteitis, and/or dry socket, damage to the inferior alveolar or lingual nerves, and periodontal damage [7]. Variables contributing to the incidence and severity of postoperative complications include the duration of surgery and surgical techniques implemented, including triangular flap design and irrigation method [8].
+
+Several classification systems estimate the surgical difficulty of M3s removal and help to determine the best methodology for extraction, based on preoperative assessment of panoramic radiographs.
+
+Pathology from M3 impaction is multifactorial, including spatial relationship, type, level and depth of impaction, angulation of the M3s, number and shape of the roots, ramus relationship, and space available. The difficulty assessment uses the Pederson Difficulty Index (PDI) [9]. Winter’s classification is commonly used for spatial assessment of impacted teeth [10].
+
+Apart from radiographic assessment, previous studies have suggested that surgical technique and its difficulty, together with the experience of the surgeon, are further predicators of difficulty [11,12].
+
+The human oral cavity contains multiple microorganisms, microbial habitats such as teeth, gingival sulcus, attached gingiva, tongue, cheek, lip, hard palate, and soft palate. Microorganisms from the oral cavity can cause a range of oral infections, and the tissue trauma associated with tooth extraction causes bacteraemia [13].
+
+An antibiotic used for prophylaxis should be bactericidal against the most common microorganisms that cause infection. In oral surgical procedures these are Staphylococcus spp., Streptococcus spp., and anaerobic Gram-positive and Gram-negative rods [14]. The prescription is usually given for a short period of time, typically no more than 7 days. Antibiotics (ABs) should be used to reduce the infection rate, but their unnecessary use may have serious adverse drug events, including allergic reactions, bacterial resistance, and risk of Clostridium difficile infection (CDI) [15].
+
+The main purpose of pre-operative use of AB is to provide an adequate drug level in the exposed and damaged tissues before, during, and for the shortest possible time after the operative procedure.
+
+The review question was formulated as: What is the scientific evidence available to support the use of AB to prevent infection and its complications after M3 tooth extraction procedures?
+
+### Review Rationale
+
+This project was developed based upon anecdotal evidence of a wide variety of practices for antibiotic prescribing around dental procedures including route of administration of antibiotics, timing of the course prescribed when invasive procedures are planned (before, after, or both), length of course prescribed, narrow vs. broad spectrum agents prescribed, use of single or combination of antibiotics, and the use of loading doses. Additionally, there is a disparity of which (if any) antibiotic intervention is more effective than no intervention at all, or for which patients they should be prescribed to. This project attempted to investigate this disparity of practices and the absence of global and local recent consensus on the most appropriate antibiotic interventions around invasive dental procedures.
+
+## 2. Materials and Methods
+
+Ethical review was undertaken, and approval granted by the University of Wolverhampton Life Sciences Ethics Committee LSEC/202021/HM/9. The aim of the study is to ascertain if there is scientific evidence to support whether AB can effectively reduce the postoperative infections after M3 tooth extraction. To achieve the aim, the following aspects were investigated: The regimen of ABs commonly used in M3 extraction procedures, the efficacy of AB in preventing infection and its complications after M3 extraction, and the safety of using AB used in M3 extraction procedures.
+
+The study was designed in accordance with the ‘Preferred Reporting Items for Systematic Reviews and Meta-Analyses’ (PRISMA-P©, Ottawa Hospital Research Institute and University of Ottawa, Ottawa, Canada) guidelines and adhered to the Cochrane Handbook for Systematic Reviewers’ methodological guidelines [16]. This systematic review was designed prior to commencement and registered into the PROSPERO© (National institute of health, York, UK) website platform; reg. no CRD42021269522. Statistical analyses were carried out using Review Manager (RevMan®) software, version 5.4.1 (available from The Cochrane Collaboration, Oxford, UK). The Cochran–Mantel–Haenszel (M-H2) was used for combining dichotomous data, and since all variables were dichotomous, the effect measures estimated were relative risk (RR), which was reported with 95% confidence intervals (CIs).
+
+Each study included in the metanalysis was estimating a different effect size with respect to the patient population, control interventions used, and varying dosages of interventions. The statistical unit was the participant. The measure of effect size was based on ratios found in the study. For outcomes that were statistically significant, the number needed to treat (NNT) was calculated to estimate the overall clinical impact of the intervention. All decimals in the NNT were rounded to the nearest whole number. The statistical significance of the overall result is also expressed with the probability value (p value) with significance regarded as p < 0.05.
+
+Heterogeneity of included data was measured by Chi2 test by dividing the result of Cochran’s Q test and its degrees of freedom by the Q-value itself. Significant heterogeneity was defined as chi-square test with p < 0.1 or I2 statistics >50%. I2 described the percentage of variability in results across studied in the meta-analysis that is due to real differences rather than chance [17].
+
+Sensitivity analysis was used when I2 was more than 50%, removing each trial one by one to evaluate the stability of the results.
+
+### 2.1. Search Strategy
+
+Medical Subject Headings (MeSH) were applied and the following selected key words were used in various combinations in PubMed database: (“dental extraction” OR “dental extractions” OR “extractions” OR “extraction” OR “third molar” OR “third molar surgery” OR “dental procedure” OR “third molar removal”) AND (“Antimicrobial” or “antibiotics”, “prophylactic” OR “prophylaxis” OR “pre-operative” OR “preoperative” OR “peri operative” OR “postoperative” OR “preventative”) AND (“efficacy” OR “effectiveness” OR “effect” OR “effective”. The following filters, as key words for titles and abstracts, were also applied: randomised controlled trial OR randomised trial OR clinical trials. The date of last search was 30 November 2021.
+
+Studies were assessed for eligibility against the following criteria developed using the PICOS tool (population, intervention/investigation, comparators, outcomes, and setting):(P):Types of participants: Adult healthy patients of any age and gender undergoing uncomplicated single or multiple tooth extraction of any tooth.(I):Types of interventions: RCTs where oral ABs, independent of the type of ABs used, dose administered, timing of course administration (preoperatively, postoperatively, or both), number of doses administered, and length of the regimen.(C):Comparing all possible monotherapy AB treatment with either placebo or control or no treatment or no AB.(O):Type of outcome measures: Primary outcome of interest was postoperative infection. Secondary outcomes: other post-surgical related complications of infectious nature (e.g., alveolar or alveolitis osteitis or dry socket, pain, wound dehiscence, swelling, temperature), AB adverse events (e.g., gastric complications, stomach pain, diarrhoea, headache).(S):Primary care, community, or hospital setting.
+
+### 2.2. Selection Criteria
+
+Studies were included in the review when they were:
+RCTs, double-blind and placebo-controlled clinical trial.Patients undergoing dental extraction.Only oral or systemic route of AB administration.Studies comparing the use of any AB (independent of the type of ABs used), dose administered, timing of course administration (preoperatively, postoperatively, or both), as part of treatment versus a placebo alone or control or no AB following M3 tooth extraction procedures.Adult over 17 years of age.Studies published from January 2000 to November 2021.
+
+Studies were excluded from the review when they were:Systematic and meta-analysis review or literature review study.Non-human or animal study.Published in language other than English, where full translated version could not be supplied by the publisher or the author/s.Abstracts and conference proceedings.Trials which are comparing AB versus non-AB agent/s.Unhealthy patients or patients with comorbidities which put them at high risk of infection.Trials comparing AB versus another AB/s without a placebo arm.Wrong formulation (injections/gels).
+
+### 2.3. Selected Studies Summary
+
+Following the Cochrane handbook [18], the quality of each RCT was determined using The Effective Public Health Practice Project (EPHPP, EPHPP McMaster University 1280 Main Street West, Hamilton, Ontario, Canada, L8S 4K1) quality assessment tool rating for individual studies [19]. A flow diagram of the included study population (patients) was reported according to Consolidated Standards of Reporting Trials (CONSORT, The EQUATOR Network and UK EQUATOR Centre, Centre for Statistics in Medicine, Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences, University of Oxford, Botnar Research Centre, Windmill Road, Oxford, OX3 7LD, UK), and a PRISMA chart was used to present the final included studies. Publication bias was also calculated using RevMan© software version 5.4.1.
+
+Based on the study selection criteria, a total of 494 articles were identified in the literature search. The title and abstract screening was conducted independently by the three authors, a final list of 64 articles was selected, and 48 were excluded for various reasons. Following full-text review by the three authors, 16 RCTs met the criteria for inclusion in this systematic review.
+
+Two RCTs were included as narrative in the systematic review [20,21]. Fourteen RCTs were included in the meta-analysis [22,23,24,25,26,27,28,29,30,31,32,33,34,35].
+
+Figure 1 is the PRISMA flowchart of the study selection process. The flow diagram of the included study population according to Consolidated Standards of Reporting Trials (CONSORT) shown in Figure 2.
+
+Further to that, the researcher sought advice from three dentist academics with systematic review experience regarding the review direction, and later compared the findings with previous published systematic reviews.
+
+## 3. Results
+
+RCTs fulfilling the inclusion criteria were assessed for quality by two reviewers [18]. Table 1 and Table 2 describe the characteristics of the included studies and the reviewer comments. The EPHPP tool [19] was used to examine each study against six components. It was judged to be suitable to use to evaluate the effectiveness of interventions in systematic literature reviews [18]. Table 3 shows the global quality rating of the selected studies. All studies were classed as moderate–strong global rating on the EPHPP.
+
+### 3.1. Statistical Analysis
+
+#### 3.1.1. Analysis of Clinical Trials with Infection as the Outcome Measure
+
+Twelve studies investigated the international guideline on the efficacy of AB on reduction of infection following M3 dental extraction [22,23,24,25,27,28,29,30,31,32,34,35]. A total of 2069 patients were randomised to AB or placebo group in 12 RCTs. Infection occurred in 34 of 1186 patients receiving AB and 78 of 883 patients on placebo or no treatment.
+
+The overall combined effect shows that AB, independent of the type, dose, timing of administration (preoperatively, postoperatively, or both), were beneficial (p < 0.001).
+
+Of the RCTs, 12 [22,23,24,25,27,28,29,30,31,32,34,35] identified the number of patients with infection, 7 [24,25,26,27,28,32,33] investigated the number of patients with dry socket, and 7 [26,28,29,30,31,34,35] reported total adverse events that occurred between groups during the study period. A funnel plot generated to test for publication bias showed no asymmetry (Figure 3 and Figure 4).
+
+#### 3.1.2. Analysis of Clinical Trials with Dry Socket or Alveolar Osteitis or Alveolitis as the Outcome Measure
+
+In 7 trials [24,25,26,27,28,32,33], 22 patients developed dry socket (Figure 5). The 95% confidence intervals of the overall effect estimate the effect line, indicating no significant difference in dry socket events. Due to the small number of studies included, a funnel plot was not assessed [35].
+
+#### 3.1.3. Analysis of Clinical Trials with Medication Related Adverse Events as the Outcome Measure
+
+Eight studies [26,27,28,29,30,31,34,35] analysed the influence of AB on the incidence of adverse events. Of 148 adverse events reported, 88 occurred in AB groups and 60 in placebo/no AB groups. The random effects model summary result of RR yielded 0.96, confidence interval (0.58, 1.59), showing no significant difference (Figure 6).
+
+### 3.2. Narrative Analysis of other Outcomes
+
+#### 3.2.1. Increased the Risk of Infections
+
+Milani et al. [22] evaluated local infection dichotomously (presence = 1 and absence = 0) by clinical examination. It was found in four patients (one in group-1, three in group-2, and zero in group-3), which was not significant. Mariscal-Cazalla et al. [31] reported that no significant differences (p = 0.064) in infection rate were found between pre- and postoperative AB and postoperative AB. Rescue AB use after surgery was assessed based on need. More controls required rescue AB therapy (p = 0.013) than in AB-treated groups. Lacasa et al. [35] found a higher rate of infection (p = 0.006) in patients receiving placebo (16%) than those receiving single-dose prophylaxis or 5-day pre-emptive therapy (5.3% and 2.7% respectively). Sekhar, Narayanan, and Baig [23] reported only one purulent wound in their preoperative metronidazole 1 g groups versus none in the placebo group. No significant difference was reported in wound infections (p = 0.40).
+
+Ataoğlu et al. [32] reported that six preoperative AB patients had early wound infection and there were seven in the placebo group. Late wound infection was reported in one patient with pre-operative AB and one patient in postoperative AB, with two late wound infections observed in their controls, which was not significant.
+
+Siddiqi, Morkel, and Zafar [24] reported that 6 sockets from 380 patients became infected (4 in the placebo group 2 in the AB group), also not significant. Arteagoitia et al. [29] reported infections in five patients in the placebo group, all in the first postoperative week, and in two in the AB group, both > 1 week post-op (p = 0.278). Bezerra et al. [25] observed surgical wound infection in three control patients (4.14%), with no significant difference compared with the experimental group.
+
+Xue et al. [27] had two wound infections (1%) each among their AB and placebo group. Arteagoitia et al. [34] reported inflammatory complications (IC) in 35, 30 in placebo (12.9%), 5 in AB group (1.9%). The incidence of ICs was between 2.9 and 19.9 times more frequent if postoperative AB were not taken (p = 0.001).
+
+Luaces-Rey et al. [28] found post operative infection two patients in group-1 (2.9%) and three patients in group-2 (4%). One patient needed hospital admission for intravenous AB treatment. López-Cedrún et al. [30] reported five placebo group patients with infected socket after surgery (p = 0.001). In the study by Lacasa et al. [35], the incidence of infection was higher in the placebo group than the five-day pre-emptive therapy and those receiving single-dose prophylaxis: 16% (12/75), 2.8% (2/72), and 5.3% (4/75, which was significant, p = 0.014).
+
+Lacasa et al. [35] found the risk of infection in cases of difficult surgery (ostectomy) was reported as 24%, 9%, and 4% with placebo, prophylaxis, and pre-emptive treatment, respectively, and the risk of infection in cases of ostectomy surgery was observed in two patients in prophylactic and two patients in pre-emptive therapy and ten patients in placebo group with significant differences found between groups (p = 0.011); whereas the risk of infection in cases when ostectomy was not performed was 7%, 2%, and 1% with placebo, prophylaxis, and pre-emptive treatment, respectively, which was not significant (p = 0.339). Lacasa et al. [35] affirmed that difficulty of surgery increases the incidence of infections (p = 0.027).
+
+The logistic regression was carried out by Lacasa et al. [35] using duration and difficulty of the surgical procedures as potential dependent variables on risk of infection and they concluded that while the pre-emptive therapy group had a slightly greater length of procedure, it did not achieve significance. Moreover, Lacasa et al. [35] found that the reported interventions lasting less than 5-min had an incidence of infection of 1.6% (1/64), whereas the duration of surgery lasting 5–10 min, the incidence of infection of increased to 7.4% (6/81) and with interventions lasting more than 10 min, the incidence of infection increased to 13.8% (11/80). Similarly, the study by Luaces-Rey et al. [28] found correlation between timing of surgery and risk of infection. Two patients with surgical infection were recorded in the less than 5 min procedure group, two patients in the group between 5 and 10 min, and one patient in a surgical extraction longer than 10 min. Based on the results of the study, there was no statistically significant correlation observed between the treatment group and timing of the surgery. Arteagoitia et al. [34] observed ages as a confounding variable (p = 0.029) and reported that as the patient’s age increases, the possibility of risk of inflammatory complication increases by 1.08 per year of age, whereas the possibility of postoperative complications is 10% without AB at 20 years and exceeds by 30% at 40 years. Similarly, López-Cedrún et al. [30] found that age, gender, and operative time have a significant effect (p = 0.047) on incidence of infection and concluded that infection rate was higher in the women participants and older participants than younger patients (25.2 vs. 22 years). Moreover, the risk of infection was influenced by operative time in which mean operative time was longer in the infected patients (277 s) than patients without infection (239 s).
+
+Age, length of procedures, and placebo use were the three factors associated with most infections (Table 4). Four studies (19%) did not report on increased infection [20,21,26,33].
+
+#### 3.2.2. Antibiotic Related Adverse Events
+
+In the study by Mariscal-Cazalla et al. [31], no significant differences in adverse effects of medications were observed between groups. Adverse effects were reported in four participants (one event in pre- and post-operative group, one event in postoperative group, and two events in placebo group); however, the types of events were not described. Lacasa et al. [35] reported that adverse events occurred during therapy and for 30 days afterwards. Diarrhoea was reported by three patients in placebo group and nine patients in the prophylaxis group. Only two cases of severe diarrhoea (one in the placebo group and one in the prophylaxis group) led to participant withdrawal and discontinuation of the study medication. The number of patients with headache was 14 cases in the placebo and 17 cases in the prophylaxis groups. The study by Arteagoitia et al. [29] reported that adverse events were more frequent in the AB group, where four mild events were reported (p = 0.009). Cases of nausea and vomiting (n = 1), diarrhoea (n = 8, 1 case in placebo group), abdominal pain (n = 1), and vaginal candidiasis (n = 1) were reported. Kaczmarzyk et al. [26] ceased clindamycin in three patients in the AB group from day 5, due to gastric complications (stomach pain and diarrhoea) and replaced it with metronidazole orally at a dose of 500 mg three times a day.
+
+The study by Xue et al. [27] reported 14 adverse events in the AB groups: gastrointestinal (n = 4), bleeding (n = 2), ulcer (n = 2), and fever (n = 6). In the placebo group, there were 22 adverse reactions, reported as: bleeding (n = 6), ulcer (n = 2), and fever (n = 14). There was no significant difference between the two groups. Arteagoitia et al. [34] reported 16 mild cases,14 in AB and 2 in placebo (2 vomiting events, 2 gastric pain events, 1 mycosis event, and 11 diarrhoea events) were reported and with some participants admitted to hospital. Adverse events, expectedly, were more frequent in the AB group (p = 0.009).
+
+Luaces-Rey et al. [28] reported diarrhoea in group-1 (n = 1) and group-2 (n = 1), nausea or vomiting in group-2 (n = 2), and epigastralgia in group-1 (n = 1). The study by López-Cedrún et al. [30] reported 13 adverse events in their preoperative group, 14 cases in placebo group and 10 cases in postoperative group. Adverse events included vomiting (n = 1), nausea (n = 2 in AB and 2 in placebo groups), diarrhoea (n = 3 in AB and n = 1 in placebo groups), gastric pain (n = 5 in AB and n = 1 in placebo groups), rash (n = 2 in AB group), headache (n = 2 in AB and n = 3 in placebo groups), and other (n = 8 in AB and 7 in placebo groups). The author concluded that the reported adverse events might be related to the administration of ibuprofen rather than the ABs. No significant differences in adverse events were found between groups. Comparing the number of events between AB arms and placebo was not significant with p = 0.725 (Pearson test). Eight studies did not report adverse events [20,21,22,23,24,25,32,33].
+
+The study by Milani et al. [22] found no differences among the three groups at day 4 and 7 after surgery (p = 0.060, p = 0.330 respectively). Mariscal-Cazalla et al. [31] used patients’ self-evaluated postoperative swelling of the treated area as endpoints 7 days after extraction. The placebo group reported significantly greater swelling values than AB prophylaxis at 48 h (p = 0.012); 72 h (p = 0.001); and 1 week (p = 0.02) following M3s removal. However, Lacasa et al. [35] reported no significant difference between the AB prophylaxis group (mean 1.24) and AB pre-emptive course group (mean 2.68) groups.
+
+In the study by Sekhar [23], swelling was measured using four grades (none, mild, moderate, severe); moderate swelling was reported in two patients in the placebo group, one patient in preoperative metronidazole 1 g, and no cases reported in 5-days postoperative metronidazole 400 mg. The degree of swelling was significantly less in the 5-day group (p = 0.03). Ataoğlu [32] reported no significant differences between groups. Additionally, Siddiqi [24] measured facial swelling using clinical observation after 3 days, 7 days, and 2 weeks postoperatively. They reported no significant differences (p > 0.050). The study by Kaczmarzyk et al. [26] found no significant difference between groups on days 1, 2, and 7 (p = 0.5, 0.61, and 0.4, respectively). Xue et al. [27] also reported no significant difference between groups (p = 1.000). The study by López-Cedrún et al. [30] reported 35 patients had intraoral swelling at day 7, with 10 in group A, 12 in group B, and 13 in group C, differences were not statistically significant (intraoral p = 0.871, extraoral p = 0.588) between the groups after surgery.
+
+Examining the combined 16 studies, only two studies [23,31] found the use of ABs favourable (Table 5). Seven (44%) studies did not report on postoperative facial oedema or swelling [20,21,25,28,29,33,34].
+
+### 3.3. Risk of Bias
+
+RCTs’ RoB was assessed using the Cochrane risk-of-bias version 2 (RoB-2) tool [36,37]. Seven domains were analysed including selection bias, performance bias (including blinding personnel and participants), detection bias (blinding outcome assessment), attrition bias, reporting bias, and method of randomisation. RoB was categorized as low, high, or unclear. Among the sixteen included RCTs assessed, one trial [32] was rated high RoB in one or more key domains, mostly due to unclear random sequence generation, allocation concealment, incomplete outcome reporting, and the lack of blinding of assessors, while the remaining fifteen had a low RoB (Figure 7 and Figure 8). Risk of bias assessment was conducted independently by the three authors and the final verdict was made in a face-to-face meeting.
+
+Selection bias: Fifteen RCTs adequately described the generation of random sequence, but one did not provide a description [32].
+
+Allocation concealment: Similarly, only one trial did not clearly describe allocation concealment [32].
+
+Performance bias: Concerning performance bias, four studies were considered unclear due to insufficient details of the assessors blinding [20,21,32,35]. One trial provided no information on whether patients were blinded [32].
+
+Detection bias: Eleven studies had no description of blinding of the outcome assessment resulting in unclear detection bias. However, five studies [21,22,23,29,31] were judged to have low RoB for detection bias domain.
+
+Attrition bias: Most studies provided sufficient information concerning the reasons for exclusion, apart from two studies [27,32] judged to have an unclear RoB.
+
+Reporting bias: Two trials appeared to have a high RoB due to missing outcome data for the selective reporting domain. Lacasa [35] was judged to have a high RoB due to microbiological isolation, and identification was not reported. For Bezerra [25], body temperature was not reported.
+
+Other bias: No other important sources of bias were identified. Therefore, all trials were judged as low risk.
+
+### 3.4. Number Needed to Treat
+
+1.To prevent infection events
+
+Control/placebo group event rate (CER): 78/883 = 0.0883352
+
+AB group event rate (EER): 34/1186: 0.0286677
+
+Absolute risk reduction (ARR) = 0.0596675
+
+Number needed to treat (NNT) = 1/ARR = 1/0.0596675 = 16.759542
+
+Approximately 17 patients undergoing dental extraction need to receive AB to prevent one infection from occurring. This was smaller than that reported by Lodi et al. [38] and Ren and Malmstrom [39] as 19 to 25. This review included more recent studies which were not included in Lodi et al. [38] and Ren and Malmstrom [39], which might have impact on the lower NNT in this review.
+
+NNT is more than 5 which indicates that the intervention (use of prophylactic Abs) is not effective in preventing infection [40,41].
+
+2.To prevent dry socket events
+
+Control/placebo group event rate (CER): 24/485: 0.0494845
+
+AB group event rate (EER): 22/562: 0.0391459
+
+Absolute risk reduction (ARR) = 0.0103386
+
+Number needed to treat (NNT) = 1/ARR = 96.72
+
+Approximately 97 patients undergoing dental extraction need to receive Abs to prevent one dry socket from occurring which is higher than that reported by Ren and Malmstrom (2007) and Lodi et al. (2021) as estimated to be between 13 and 46. NNT is more than 5 which indicates that the intervention (use of prophylactic Abs) is not effective in preventing infection [40,41].
+
+3.To cause adverse events
+
+Control/placebo group event rate (CER): 95/728 = 0.1304945
+
+AB group event rate (EER): 139/935 = 0.1486631
+
+Absolute risk reduction (ARR) = 0.0181686
+
+Number needed to harm (NNH) = 1/ARR = 1/0.0181686 = 55.56
+
+Approximately 55 patients undergoing dental extraction need to received AB to cause one adverse event such as diarrhoea, hypersensitivity, and thrombocytopenia. NNH is not a negative figure but is more than 5 which indicates that the possible harm caused by the use of ABs exists, but it is very small and does not negate the AB use when required [40,41].
+
+### 3.5. Limitations
+
+The research was low-cost; as such, only databases accessible through the researcher’s institution were possible to use. Authors and publishers were approached to provide English versions, complete text, or additional data; however, in the cases where response was not received or received informing of unavailability, the study could not be included. It was not possible to pay for translating text. The major factors that may have had an influence on the infection outcomes were not reported in all studies, and when they were reported, there were some variations on how they were measured. Thus, it was not possible to determine to what extent ABs may have contributed to the reduction of infection rate and its related complications.
+
+The AB most used was amoxicillin 1 g; however, there was insufficient evidence to confidently conclude that it is the most effective AB or which dose should be recommended for prophylaxis or pre- and postoperative preventative therapy. However, all used AB protocols had the tendency to reduce infection rate. In addition, RCTs in this metanalysis were conducted in various countries within different healthcare systems and governed by variable guidelines. Therefore, drawing definitive conclusions about the effects of AB is problematic. Moreover, there was great variability in how the variables in 6.2.1 and 6.2.2 were defined and measured, e.g., teeth in different positions, depth and angulation of the molar to be extracted. This systematic review looked at variation in outcomes in healthy patients and not patients with physical long term and chronic diseases (infection high-risk patients).
+
+## 4. Discussion
+
+All studies used in this systematic review were randomised, double-blinded controlled trials, comparing different doses of AB with placebo or no AB use. All studies identified had M3s extraction performed by a single maxillofacial surgeon or specialist in oral and maxillofacial surgery with varying years of experience in dentoalveolar surgery under local anaesthesia. All postoperative evaluation was performed by a single examiner at scheduled times. However, some studies used patients’ self-evaluation to register follow-up examination parameters such as pain, trismus, body temperature, and number of analgesic pills taken daily. In all included studies except one, analgesics or anti-inflammatory drugs were used. Most studies included a variety of reasons for M3s extraction, but fully impacted teeth were presented in most studies and indication for extraction was homogenous among studies.
+
+Three studies included a single ethnicity such as Caucasian, Chinese, or Latin American, which may make their results not globally applicable. Similar baseline characteristics of patients were reported between trials of adults >17 years of age with a slight female predominance in some trials. No RCTs included children, patients with infective endocarditis, or immune compromised patients.
+
+The surgical technique was standardised in all studies; however, the surgical technique was not described in two trials. The design of the RCTs was described in all studies except one trial in which study design remained unknown.
+
+There were differing practices with respect to time of ABs administration. Studies have investigated the use of ABs either several days preoperatively, as single dose, or postoperatively or in a combination with varying time windows of exposure to ABs, ranging from 2 days to 7 days. It has to be emphasised that all included trials received various combinations of different AB agents.
+
+This review shows that the use of AB (in different regimens and types) can reduce infection and its complications when compared to individuals who did not use AB. In this analysis, factors such patients age, gender, extraction procedures length, and operator experience were considered, with the intention to explore evidence which may confirm, or deny, that the use of AB (in any dose or regimen) is an independent factor which can lead to reduction in infection rate after M3 extractions in healthy people. AB was found to be safe, causing few adverse events, which were deemed as insignificant compared to placebo. Meta-analysis of infection events showed that ABs reduced the risk of infection by 69% in the intervention groups. The efficacy of AB regimens on the reduction of dry socket suggests that there may not be a difference in dry socket outcomes between the regimens assessed; however, further research is required to confirm these results. Further analyses did not demonstrate statistically significant benefits to AB treatment in reduction of intraoral inflammation, wound dehiscence, lymphadenopathy, postoperative facial oedema, trismus, or postoperative pain. Similarly, there was no statistically significant difference in body temperature between groups when AB were administered. Two earlier systematic review/meta-analyses were found and compared to the results of this review to validate our findings (Table 6).
+
+## 5. Conclusions
+
+This review meets level A evidence criteria (multiple RCT double-blinded studies). In the M3 extraction meta-analysis, 16 RCTs were identified and analysed. Antibiotic use was reported to be statistically significant in preventing infection (p < 0.01). Prevention of complications such as dry sockets was not statistically significant (p = 0.34) and the NNT was larger than 5 (17 and 97, respectively), which indicates that the intervention not sufficiently effective to justify its use. The occurrence of side effects was not statistically significant (p = 0.88), NNH was 55 which indicates that the possible harm caused by the use of AB exists, but it is very small and does not negate the AB use when required. The results from this review were broadly consistent with previous systematic reviews. Standardised techniques and procedures, reasons for extractions, and adverse events reporting are required to enable further progress. Future reviews require sub-group analysis on specific populations including those with co-morbidities or existing immunosuppression to close a current gap in the available literature. It is worth noting that prevention of antimicrobial resistance may outweigh the finding of clinical significance, and future studies need to report data on mitigations made to prevent microbial resistance.
