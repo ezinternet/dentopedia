@@ -1,0 +1,54 @@
+Topical fluoride as a cause of dental fluorosis in children
+
+Cochrane Database of Systematic Reviews 2024 (pub3)
+DOI: 10.1002/14651858.CD007693.pub3
+PMID: 38899538 | PMC: PMC11187792
+
+AUTHORS: Wong et al.
+Evidence current to: 28 July 2022
+(Update of review first published 2010)
+
+BACKGROUND
+Topical fluoride use has become increasingly common. Excessive fluoride consumption from topical fluorides (toothpaste, mouth rinses, gels, varnishes) in young children could lead to dental fluorosis in permanent teeth. The critical period for fluorosis risk is during permanent tooth mineralization in early childhood.
+
+OBJECTIVES
+To describe the relationship between use of topical fluorides in young children and risk of developing dental fluorosis in permanent teeth.
+
+ELIGIBILITY CRITERIA
+RCTs, quasi-RCTs, cohort studies, case-control studies, cross-sectional surveys comparing fluoride toothpaste/rinses/gels/foams/paint-on solutions/varnishes to different fluoride therapy, placebo, or no intervention. Target population: children under 6 years of age upon topical fluoride introduction.
+
+INCLUDED STUDIES
+43 studies:
+- 3 RCTs
+- 4 cohort studies
+- 10 case-control studies
+- 26 cross-sectional surveys
+
+Risk of bias: 3 RCTs, 1 cohort, 1 case-control, 6 cross-sectional had "some concerns"; remaining observational studies at HIGH risk of bias.
+
+PRIMARY OUTCOME: Percentage prevalence of fluorosis in permanent teeth
+
+COMPARISONS AND RESULTS
+
+1. Age at start of toothbrushing with fluoride toothpaste
+- Starting ≤12 months vs >12 months: RR 0.98 (95% CI 0.81–1.18); 2 cohort studies, 260 children; VERY LOW certainty
+- Starting before vs after 24 months: RR 0.83 (95% CI 0.61–1.13); 1 cohort, 2 cross-sectional; VERY LOW certainty
+- Starting before vs after 4 years: OR 1.60 (95% CI 0.77–3.35); 1 cross-sectional; VERY LOW certainty
+
+2. Frequency of toothbrushing with fluoride toothpaste
+- Brushing <2x/day vs ≥2x/day: 2 case-control studies, 258 children; VERY LOW certainty
+- Evidence very uncertain regarding association with fluorosis
+
+3. Amount of toothpaste used
+- Using >pea-sized amount: some association with fluorosis in some studies, but evidence very uncertain; VERY LOW certainty
+
+4. Fluoride concentration of toothpaste
+- Higher vs lower concentration: studies suggest possible dose-response, but evidence very uncertain
+
+5. Other topical fluorides (varnish, gels, mouth rinses)
+- Very limited and uncertain evidence regarding fluorosis risk
+
+OVERALL CERTAINTY: Very low throughout — the evidence is very uncertain for all comparisons and outcomes.
+
+AUTHORS' CONCLUSIONS
+The evidence regarding the relationship between topical fluoride use in young children and dental fluorosis is very uncertain. We cannot draw firm conclusions about which practices increase or decrease fluorosis risk. The uncertain evidence means practitioners must balance fluoride's caries-preventing benefits against potential fluorosis risk, particularly during early childhood.
