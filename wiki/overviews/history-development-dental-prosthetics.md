@@ -4,6 +4,7 @@ type: synthesis
 category: overviews
 date: 2026-11-04
 source_papers:
+  - wiki/inlay/krug-2024-ceramic-inlay-cast-gold-partial-crown-longterm.md
   - wiki/prosthetic-materials/behr-2014-pfm-precious-alloy-crowns-clinical-performance.md
   - wiki/prosthetic-materials/sailer-2015-allceramic-metalceramic-fdps-survival-complication-sr.md
   - wiki/prosthetic-materials/pjetursson-2026-metal-ceramic-all-ceramic-crowns-survival-sr-ma.md
@@ -17,14 +18,15 @@ source_papers:
   - wiki/prosthetic-materials/romandini-2026-allceramic-metalceramic-fdps-multiunit-survival-sr-ma.md
   - wiki/prosthetic-materials/guth-2024-high-translucent-zirconia-fdp-3year-prospective.md
   - wiki/prosthetic-materials/humm-2023-zirconia-titanium-abutments-13year-rct.md
-tags: [history, prosthetic-materials, metal-ceramic, all-ceramic, zirconia, lithium-disilicate, CAD-CAM, evolution, synthesis]
+tags: [history, prosthetic-materials, metal-ceramic, all-ceramic, zirconia, lithium-disilicate, CAD-CAM, cast-gold, gold-crown, evolution, synthesis]
 evidence_level: synthesis
 ---
 
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
-> - **보철재료의 대전환**: 20세기 금속도재관 (Porcelain-Fused-to-Metal, PFM) 지배 → 2000년대 초 전세라믹 등장 → 2010년대 지르코니아 주류화 → 2020년대 모놀리식·투명 지르코니아 완성
+> - **보철재료의 대전환**: 20세기 초 전금속관 (전금속관, Cast Metal Crown) 황금기 → 1950년대 금속도재관 (Porcelain-Fused-to-Metal, PFM) 등장 → 2000년대 초 전세라믹 → 2010년대 지르코니아 주류화 → 2020년대 모놀리식·투명 지르코니아 완성
+> - **전금속관 (골드크라운) 시대**: 1900년대 초부터 현재까지 존속. 주조금 부분크라운 (Cast Gold Partial Crown, CGPC) 23.5년 생존율 91.8%, 연간실패율 0.7%(Krug 2024, N=325, 24.8년 최대 추적) — 역사적 황금기준; 현재는 대합치 보호·최소 삭제 필요 증례에서 선택적 사용
 > - **PFM 황금기**: 1950년대 개발, 40년 이상 임상 황금기준. Behr 2014: 25년 추적(n=997), 5년 생존율 97.5%(구치), 10년 95.9% — 타의 추종 불허 장기 데이터
 > - **전세라믹 1세대 도전**: Sailer 2015 SR(67편): LD·알루미나는 PFM과 동등, 지르코니아 생존율도 92.1%로 충분하나 베니어 치핑 문제로 1차 선택 비권장
 > - **지르코니아 분류 체계 확립**: Ban 2021 — 이트리아 함량·단/다색·조성·층수 4축으로 12종 분류; 3Y→5Y: 강도↓·투명도↑ 트레이드오프; ATZ/NanoZR은 임플란트 고정체용
@@ -35,19 +37,50 @@ evidence_level: synthesis
 
 ## Three-line Summary
 
-The history of fixed dental prosthetics traces a 70-year arc from metal-ceramic (PFM) dominance through the all-ceramic transition to the current era of monolithic zirconia, driven by materials science advances, CAD/CAM digitalization, and clinical trial evidence accumulation.
+The history of fixed dental prosthetics traces a 100-year arc from cast gold dominance through metal-ceramic (PFM) hegemony, the all-ceramic transition, and into the current era of monolithic zirconia, driven by materials science advances, CAD/CAM digitalization, and clinical trial evidence accumulation.
 
-PFM crowns established the clinical gold standard for 40 years (Behr 2014: 10-year survival 95.9% posterior); the all-ceramic challenge began with leucite/lithium-disilicate achieving equivalent outcomes (Sailer 2015 SR, 67 studies) while early veneered zirconia suffered chipping burden; monolithic zirconia subsequently resolved both esthetics and durability (Pjetursson 2026 SR+MA: monolithic Zr equivalent to PFM).
+Cast gold partial crowns set the longevity benchmark first (Krug 2024: 91.8% survival at 23.5yr, annual failure 0.7%); PFM crowns then expanded the standard for 40 years (Behr 2014: 10-year survival 95.9% posterior); the all-ceramic challenge proved successful with leucite/LD achieving equivalent outcomes (Sailer 2015 SR, 67 studies) and monolithic zirconia ultimately equaling PFM without veneering risk (Pjetursson 2026 SR+MA).
 
 Today's material hierarchy — monolithic zirconia or lithium disilicate for most crowns, Ti-base CAD/CAM abutments for implant restorations — represents the evidence-based synthesis of seven decades of prosthetic materials development.
 
 ## 세줄요약
 
-치과 고정성 보철 70년 역사: 금속도재관(PFM) 황금기 → 전세라믹(LD·알루미나) 도전기 → 모놀리식 지르코니아 완성기로 이어지는 재료과학·디지털·임상증거의 융합.
+치과 고정성 보철 100년 역사: 전금속관(골드크라운) 선구기 → 금속도재관(PFM) 황금기 → 전세라믹(LD·알루미나) 도전기 → 모놀리식 지르코니아 완성기로 이어지는 재료과학·디지털·임상증거의 융합.
 
-PFM은 10년 생존율 95.9%(Behr 2014)로 황금기준 확립; 베니어드 지르코니아는 치핑 문제로 한계; 모놀리식 지르코니아는 Pjetursson 2026 SR+MA에서 PFM과 동등 성능 확인 — 베니어링 없이 PFM 대체.
+골드 부분크라운은 23.5년 생존율 91.8%(Krug 2024)로 최장기 기계적 내구성 증명; PFM은 10년 생존율 95.9%(Behr 2014)로 황금기준 확립; 모놀리식 지르코니아는 Pjetursson 2026 SR+MA에서 PFM과 동등 성능 확인 — 베니어링 없이 PFM 대체.
 
 현재 단단관 1차 선택 = 모놀리식 3Y/4Y-TZP(구치) + LD(전치); CAD/CAM·Ti-base 지대주로 보철 워크플로우 디지털화 완성.
+
+---
+
+## Era 0: The Cast Metal Era (Early 1900s — present)
+
+### Historical Foundation
+
+Before the introduction of ceramic veneering, dental restorations relied entirely on cast metal alloys. Full cast metal crowns (전금속관, Cast Metal Crowns) and cast gold partial crowns (주조금 부분크라운, Cast Gold Partial Crowns, CGPC) represented the pinnacle of restorative dentistry for most of the 20th century.
+
+Gold alloys were the material of choice due to their unique combination of properties: excellent castability, controlled hardness comparable to natural enamel (minimizing antagonist wear), tarnish resistance, biocompatibility, and predictable marginal adaptation. The cast gold partial crown — covering only the compromised surfaces while preserving healthy tooth structure — anticipated modern minimally invasive principles by decades.
+
+### Long-term Clinical Evidence
+
+The most comprehensive long-term dataset for cast gold partial crowns comes from [[inlay/krug-2024-ceramic-inlay-cast-gold-partial-crown-longterm]], a retrospective cohort from the University of Würzburg (N=325 patients, mean follow-up 13.9 years, up to 24.8 years):
+
+| Material | Survival at ~15yr | Survival at 23.5yr | Annual Failure Rate |
+|---|---|---|---|
+| Ceramic in-/onlay (CIO, Empress I) | 93.9% | 91.7% | 0.5%/yr |
+| Cast gold partial crown (CGPC) | 92.6% | 91.8% | 0.7%/yr |
+
+**Key finding**: Both materials showed remarkably similar long-term survival despite being fundamentally different in composition and fabrication. CGPC's primary failure mode was endodontic complications (8.8%), not mechanical failure — reflecting that the metal itself is essentially indestructible under normal occlusal loads; failures are biological, not material.
+
+### Current Status and Clinical Niche
+
+Cast gold restorations remain clinically relevant despite declining use, with specific indications where their biomechanical properties are unmatched:
+- **Bruxism/parafunction**: gold's ductility dissipates impact energy without fracture risk
+- **Minimal preparation**: CGPC requires less tooth reduction than full crowns, preserving tooth structure
+- **Antagonist protection**: gold wears comparably to natural enamel, protecting opposed dentition
+- **High occlusal force zones**: second molar regions where ceramic fracture risk is highest
+
+The decline of gold restorations since the 1980s reflects cost (gold prices), esthetic demands, and the rise of equivalent-performance ceramic alternatives — not evidence of inferior longevity. Among dental materials, cast gold's clinical record over 24+ years remains unmatched for mechanical durability.
 
 ---
 
