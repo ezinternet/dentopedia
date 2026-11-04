@@ -1,0 +1,16 @@
+TITLE: Preventive Antibiotic Therapy in Sinus Elevation Procedures: A Systematic Review
+AUTHORS: Ángel-Orión Salgado-Peralvo, Alvaro Garcia-Sanchez, Naresh Kewalramani, Mario Romandini, Eugenio Velasco-Ortega
+JOURNAL: The International journal of oral & maxillofacial implants
+ID[doi]: 10.11607/jomi.9930
+ID[pmid]: 37099582
+YEAR: 2023
+
+ABSTRACT:
+To study whether the use of preventive antibiotic therapy reduces the sinus graft infection and/or dental implant failure rates in maxillary sinus elevation surgeries (primary outcome), and to identify the associated best protocol (secondary outcome). The MEDLINE (via PubMed), Web of Science, Scopus, LILACS, and OpenGrey databases were searched between December 2006 and December 2021. Prospective and retrospective comparative clinical studies with at least 50 patients and published in English were included. Animal studies, systematic reviews and meta-analyses, narrative literature reviews, books, case reports, letters to the editor, and commentaries were excluded. Assessment of the identified studies, data extraction, and risk of bias were performed independently by two reviewers. Authors were contacted if required. Collected data were reported by descriptive methods.
+
+A total of 12 studies fulfilled the inclusion criteria. The only retrospective study comparing the use of antibiotics vs no use of them showed no statistically significant differences for implant failure; however, no data were reported for sinus infection rates. The only randomized clinical trial comparing different courses of antibiotics (only the day of surgery vs 7 additional postoperative days) reported no statistically significant differences between groups in terms of sinus infection rate.
+
+Not enough evidence is available to support either the use or nonuse of preventive antibiotic therapy for sinus elevation surgeries or to support the superiority of any protocol over others.
+
+KEYWORDS: antibiotic prophylaxis; dental implants; maxillary sinus elevation; sinus augmentation; systematic review
+CITATION: The International Journal of Oral & Maxillofacial Implants 2023;38(1):19-28
