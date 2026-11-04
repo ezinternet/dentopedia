@@ -1198,6 +1198,12 @@ tags: []
 - [[periodontics/jafari-2026-clinical-efficacy-of-bioactive-glass]] — Jafari 2026 · sr+ma · bioactive glass 단독 적용 치주재생 SR+MA(12 RCT, 234명, 406결손): PD 감소 MD 1.27mm(p=0.0006), CAL 증가 MD 1.49mm(p=0.0005), 출판편향 무의미 — 이질성 중-고도(초록만) (DOI 10.1007/s10266-026-01314-6)
 
 ## 보철재료 (Prosthetic Materials)
+- [[prosthetic-materials/sailer-2015-allceramic-metalceramic-fdps-survival-complication-sr]] — Sailer 2015 · sr · 전세라믹 vs 금속도재관 단단관 SR(67편, 2006–2013): LD/알루미나/지르코니아 생존율 금속도재관 동등; 도재 열등, 지르코니아 치핑↑
+- [[prosthetic-materials/behr-2014-pfm-precious-alloy-crowns-clinical-performance]] — Behr 2014 · retrospective · PFM 귀금속 단단관 997개(최대 25년): 5yr anterior 96.4%/posterior 97.5%; 치핑·유지력 상실 초기 집중, 치주염 10년 무이벤트율 72.2%
+- [[prosthetic-materials/strasding-2024-cadcam-implant-supported-fdps-material-abutment]] — Strasding 2024 · narrative-review · CAD/CAM 임플란트 보철 지대주·재료 선택: Ti-base 지대주 단일관 권장, 구치부 모놀리식 지르코니아/LD, 전치부 마이크로베니어, 고투명 지르코니아(4–5Y) 강도↓ 주의
+- [[prosthetic-materials/kui-2023-translucent-zirconia-fixed-prosthodontics-overview]] — Kui 2023 · narrative-review · 투명 지르코니아(3Y/4Y/5Y-TZP) 광학·기계·접착 종합 고찰: 이트리아↑ → 투명도↑ 강도↓, MDP 시멘트+Al₂O₃ 샌드블라스팅 접착 표준
+- [[prosthetic-materials/ban-2021-classification-properties-dental-zirconia-implant]] — Ban 2021 · narrative-review · 치과 지르코니아 12종 분류(이트리아×단/다색×균질/하이브리드×단/다층): ATZ 고정체 적합, 거울연마 지르코니아 세균 부착 최소
+- [[prosthetic-materials/aboushelib-2026-translucent-zirconia-monolithic-mechanical-performance]] — Aboushelib 2026 · in-vitro · 3Y-PSZ vs 4Y-PSZ 굴곡강도(n=160, 속성소결·표면처리): 속성 소결 3Y-PSZ 무영향·4Y-PSZ 강도↓; 연삭 양쪽 모두 강도↓; 피로 후 3Y 안정·4Y 감소
 - [[prosthetic-materials/leung-2022-update-on-dental-luting]] — Leung 2022 · narrative-review · luting 재료 7종(ZOE·인산아연·폴리카르복실레이트·GIC·RMGIC·CaAl/GI·레진시멘트)을 화학·결합기전·적응증 3축으로 분류한 기반 reference; "이상적 단일 시멘트는 없다"
 - [[prosthetic-materials/mikulas-2025-digital-impression-accuracy-peri-implant-emergence-profile-sr]] — Mikulás 2025 · sr · 임플란트주위 emergence profile 캡처는 간접 스캐닝(provisional 추출 후 합성)이 가장 정확, 직접 스캐닝은 연조직 붕괴로 부정확
 - [[prosthetic-materials/abutment-screw/kim-2019-astra-implant-dissection-solutions]] — Astra screw loosening prevention: abutment-fixture interface stability, proper abutment selection, standardized torque protocol (35 Ncm), controlled force loading; many complications preventable through surgical-prosthetic integration
