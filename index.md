@@ -414,6 +414,7 @@ tags: []
 - [[implants/surface/abraham-2014-historical-perspective-dental-implant-surfaces-treatments]] — narrative review(Open Dent J 2014): 임플란트 표면 발달사 — ~2500 BC 이집트 금사 결찰 → Brånemark 티타늄 골유착 → 현대 표면(machined/etched/SLA/HA/fluoride/statin). 정량적 근거 없음, 교육·맥락 자료
 - [[implants/surface/witek-2019-osseodensification-trabecular-tantalum-implants-sheep]] — 동물(양 ilium, 3주, n=3마리/18 임플란트): 표준 vs OD-CW vs OD-CCW × 다공성 트라베큘러 탄탈럼 — OD-CCW가 BAFO 유의↑, BIC 등 다른 지표 NS. 3마리·3주 한계
 - [[implants/surface/houshmand-2023-uv-photofunctionalization-sla-titanium-disks]] — In vitro(SLA 티타늄 디스크 24개, EDS): UVC(210nm)가 표면 탄소·질소 유의 감소(p<0.001)·접촉각 최저(16.4°)나, UVB(310nm)는 접촉각만 낮추고(58.9°) 탄소·질소는 대조군과 무차이 — 습윤성↔탄화수소 제거 분리 사례; Roy et al 기전(대기노출 시 카르복실기·아민기 결합) 인용
+- [[implants/surface/choi-2017-uv-dbd-plasma-titanium-storage-biological-activity]] — Choi 2017 · in vitro(연세대+광운대, 한국): UV 15분 = DBD플라즈마 15분 (즉시 친수성·알부민·MC3T3-E1 동등); UV 처리 후 증류수 보관만 28일 후에도 직후 수준 유지 — UV=DBD 등가·보관법 첫 직접비교 (DOI 10.1016/j.dental.2017.09.017)
 - [[implants/surface/wagstaffe-2019-rgd-tripeptide-adsorption-titania-surfaces]] — In vitro(XPS+STM, 단결정 루타일 TiO₂ + SLA/SLActive 모형): RGD 펩타이드가 탈양성자화 카르복실기로 Ti에 결합; SLActive가 전 pH에서 SLA보다 RGD 흡수↑; **부착탄소오염의 화학적 정체를 처음 특정**(Balajka 2018 인용) — 기름/유분이 아니라 폼산·아세트산 등 소형 유기산의 카르복실기-양이온 브리징 결합; 흡착량은 표면친수성이 아니라 이 층의 치환 용이성이 결정
 - [[implants/surface/milleret-2011-alkali-titanium-blood-clot-platelet-complement]] — In vitro(사람 전혈, 부분헤파린화): 알칼리처리 초친수성 SBA Ti가 미처리 대비 대식세포/단핵구 부착↓·혈전은 두껍고 조직화; 노출시간 자체가 혈소판·보체 활성화를 단조증가 — [[implants/surface/plasma/becker-2019-lpp-app-plasma-proinflammatory-cytokines]] 24h 사이토카인 반전의 후보 기전, abstract-only
 
@@ -3444,6 +3445,7 @@ tags: []
 - [[implants/surface/plasma/cho-2025-rhbmp2-vacuum-plasma-titanium-implants-osseointegration]] — 동물(비글 4/24임플란트, 8주): 진공플라즈마+저용량rhBMP-2 병용군만 BIC(83.91%)·ITBD(81.32%) 유의↑, 플라즈마 단독은 비유의 — 플라즈마=코팅 담체 역할
 - [[implants/surface/plasma/berger-2022-dbd-plasma-vacuum-packaged-implants-sex-dependent]] — 동물(토끼 36마리, 6주): 진공밀봉 임플란트 30초 DBD플라즈마, 수컷만 BIC·골량·토크 유의↑, 암컷은 기저 골유착 이미 높아 무효과 — 성별 의존적 효과
 - [[implants/surface/plasma/becker-2019-lpp-app-plasma-proinflammatory-cytokines]] — in vitro(전혈, 단일공여자): APP 1분·LPP 15분 모두 8h IL1-β·TNF-α 유의↓하나 24h 유의↑로 반전 — 위키 최초 LPP vs APP 직접비교(장치 파라미터 포함)
+- [[implants/surface/plasma/shahraki-2026-cold-atmospheric-plasma-peri-implantitis-scoping-review]] — Shahraki 2026 · sr(PRISMA-ScR, 77편 탈오염31+골유합46, 2025.07까지): CAP 일관 항균+BIC 최대>300%(동물) · 임상RCT 없음 · 표준 프로토콜 미확립 (DOI 10.1186/s12903-026-09164-y)
 
 <!-- BATCH INGEST 2026-06-01: dental local anesthesia — 12 papers (buffered/modified LA cluster) → overviews/buffered-modified-local-anesthetics-overview -->
 
