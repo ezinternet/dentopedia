@@ -2,7 +2,7 @@
 title: "보철재료 — prosthetic-materials"
 authors: navigation
 year: 2026
-date: 2026-10-01
+date: 2026-11-04
 doi: N/A
 source: navigation
 category: prosthetic-materials
@@ -16,29 +16,33 @@ tags: [navigation, category-index, prosthetic-materials]
 > - **분야**: 보철재료
 > - **범위**: Zirconia/ceramic crown survival, full-arch prosthetics, luting cements, provisional materials, general prosthetic-materials not covered by a subcategory.
 > - **하위 카테고리**: [[abutment-screw]] · [[tooth-preparation]]
-> - **수록 논문**: 35편
+> - **수록 논문**: 42편
 
 ## Three-line Summary
 
 **Scope**: Zirconia/ceramic crown survival, full-arch prosthetics, luting cements, provisional materials, general prosthetic-materials not covered by a subcategory.
-**Indexed papers**: 35 papers in `wiki/prosthetic-materials/`.
+**Indexed papers**: 42 papers in `wiki/prosthetic-materials/`.
 **Sub-categories**: [[abutment-screw]], [[tooth-preparation]]
 
 ## 세줄요약
 
 **분야**: 보철재료
-**수록 논문**: 35편
+**수록 논문**: 42편
 **하위 카테고리**: abutment-screw, tooth-preparation
 
-## Papers in this Category (35)
+## Papers in this Category (42)
 
 | Paper |
 |---|
+| [[aboushelib-2026-translucent-zirconia-monolithic-mechanical-performance|Effect of sintering speed and surface treatment on the flexural strength of 3Y-PSZ and 4Y-PSZ zirconia: an in vitro study]] |
 | [[alammar-2022-zirconia-bonding-durability-clinical-outcomes-sr|Bonding Durability Between Zirconia and Different Types of Tooth or Implant Abutments—A Systematic Review. Part II: Outcomes of Clinical Studies]] |
+| [[ban-2021-classification-properties-dental-zirconia-implant|Classification and Properties of Dental Zirconia as Implant Fixtures and Superstructures]] |
+| [[behr-2014-pfm-precious-alloy-crowns-clinical-performance|The Clinical Performance of Porcelain-Fused-to-Metal Precious Alloy Single Crowns: Chipping, Recurrent Caries, Periodontitis, and Loss of Retention]] |
 | [[boemicke-2025-zirconia-rbfpd-inlay-wing-3year-rct|Zirconia RBFPD: inlay-retained vs wing-retained, 3-year pilot RCT]] |
 | [[chan-2026-fea-cad-cam-zirconia-3d-printed-hybrid|Comparative finite element analysis of stress distribution of different implant-supported crown and abutment materials]] |
 | [[chantler-2024-rehabilitation-worn-dentition-direct-indirect|Rehabilitation of the Worn Dentition With Direct and Indirect Minimally Invasive Concepts-A Systematic Review and Meta-Analysis]] |
 | [[dasilva-2026-maxillary-lateral-incisor-agenesis-zirconia|Rehabilitation in Cases of Maxillary Lateral Incisor Agenesis Using Zirconia Implant and Abutment: Finite Element Analysis and Systematic Review]] |
+| [[dhesi-2021-titanium-base-abutment-adhesion-protocol|Evaluation of Adhesion Protocol for Titanium Base Abutments to Different Ceramic and Hybrid Materials]] |
 | [[ghodsi-2023-resin-cement-partial-coverage-sr|Resin cement selection for different types of fixed partial coverage restorations: A narrative systematic review]] |
 | [[givens-2007-marginal-adaptation-color-stability-provisional|Marginal adaptation and color stability of four provisional materials]] |
 | [[gseibat-2025-zirconia-metal-ceramic-posterior-5year-rct|Translucent zirconia vs metal-ceramic posterior crowns in digital workflow: 5-year RCT]] |
@@ -50,6 +54,7 @@ tags: [navigation, category-index, prosthetic-materials]
 | [[kasem-2025-frc-vs-zirconia-cantilever-irfdp-36month|Fiber-reinforced composite or zirconia in cantilever fixed dental prosthesis? 36-month follow-up clinical study]] |
 | [[kasem-2026-zirconia-frc-inlay-retained-fdp-5year-rct|Zirconia vs FRC cantilever inlay-retained FDPs: 5-year RCT]] |
 | [[kowar-2026-monolithic-veneered-zirconia-titanium-ceramic-fdp-rct|1-Year RCT: Monolithic vs Veneered Zirconia vs Titanium-Ceramic Posterior Implant-Supported FDPs]] |
+| [[kui-2023-translucent-zirconia-fixed-prosthodontics-overview|Translucent Zirconia in Fixed Prosthodontics—An Integrative Overview]] |
 | [[lampl-2025-crown-failures-primary-teeth-sr-ma|Reasons for Crown Failures in Primary Teeth: Systematic Review and Meta-Analysis]] |
 | [[laumacher-2025-lithium-disilicate-single-crowns-overview-sr|Clinical outcomes of lithium (di)silicate single crowns: overview of systematic reviews]] |
 | [[laumbacher-2021-zirconia-prosthetic-restorations-long-term-sr|Long-term clinical performance and complications of zirconia-based tooth- and implant-supported fixed prosthodontic restorations: A summary of systematic reviews]] |
@@ -60,8 +65,10 @@ tags: [navigation, category-index, prosthetic-materials]
 | [[pachiou-2026-monolithic-zirconia-pfm-implant-fdp-rct|3-Year RCT: Monolithic Zirconia vs PFM Posterior 3-Unit Implant-Supported FDP]] |
 | [[pjetursson-2023-implant-fdp-material-design-outcomes-sr-ma|Implant-Supported Multi-Unit FDP: Material and Design Influence on Clinical Outcomes — SR+MA]] |
 | [[pjetursson-2026-metal-ceramic-all-ceramic-crowns-survival-sr-ma|A Systematic Review and Meta-Analysis Evaluating the Survival, the Failure and the Complication Rates of Metal-Ceramic, Veneered and Monolithic All-Ceramic Tooth-Supported Single Crowns]] |
+| [[sailer-2015-allceramic-metalceramic-fdps-survival-complication-sr|All-ceramic or metal-ceramic tooth-supported fixed dental prostheses (FDPs)? A systematic review of the survival and complication rates. Part I: Single crowns (SCs)]] |
 | [[sheykhian-2026-survival-biological-complications-ceramic-veneered|Survival Rate and Biological Complications of Screw-Retained Ceramic-Veneered Implant-Supported Fixed Dental Prostheses: A Systematic Review and Meta-Analysis]] |
 | [[sokhal-2025-surface-hardness-bis-acryl-pmma-provisional|Comparative Evaluation of Surface Hardness of Bis-Acryl Composite and Polymethyl Methacrylate-Based Provisional Restorative Materials: An In Vitro Study]] |
+| [[strasding-2024-cadcam-implant-supported-fdps-material-abutment|Material and abutment selection for CAD/CAM implant-supported fixed dental prostheses in partially edentulous patients – A narrative review]] |
 | [[tajti-2023-monolithic-zirconia-metal-ceramic-implant-crowns-sr-ma|Monolithic zirconia vs metal-ceramic implant-supported posterior crowns: SR+MA of RCTs]] |
 | [[toia-2021-fixed-full-arch-maxillary-prostheses|Fixed full-arch maxillary prostheses supported by four versus six implants with a titanium CAD/CAM milled framework: 3-year multicentre RCT]] |
 | [[toia-2025-fixed-full-arch-maxillary-prostheses|Fixed Full-Arch Maxillary Prostheses Supported by Four Versus Six Implants: 5-Year Results of a Multicenter Randomized Clinical Trial]] |
