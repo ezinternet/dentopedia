@@ -1,0 +1,20 @@
+TITLE: The effect of drug dose and duration of adjuvant Amoxicillin-plus-Metronidazole to full-mouth scaling and root planing in periodontitis: a systematic review and meta-analysis
+AUTHORS: Han Zhao, Jingchao Hu, Li Zhao
+JOURNAL: Clinical Oral Investigations
+ID[doi]: 10.1007/s00784-021-03869-w
+ID[pmid]: 33751238
+YEAR: 2021
+
+ABSTRACT:
+The aim is to explore the optimal drug dose and duration of adjunctive Amoxicillin-plus-Metronidazole (AMX/MET) to full-mouth scaling and planing (FMSRP) in periodontitis.
+
+An electronic search in four databases and manual search in four journals were conducted for randomised clinical trials comparing AMX/MET adjunct to FMSRP with FMSRP alone for at least 3 months.
+
+Eleven studies were eligible and included. The primary outcome was clinical attachment level (CAL) gain, the secondary outcomes were periodontal pocket depth (PPD) reduction and adverse events. Our results showed a beneficial effect of adjunctive AMX/MET with higher drug dose to FMSRP for CAL gain and PPD reduction at 3 months, and the benefit remained stable at 6 months. However, minimal difference among three-seven-and ten-day drug duration was observed. In addition, the risk difference of adverse events was minimal between two groups.
+
+FMSRP adjunct to a high drug dose of 500/500 mg of AMX/MET showed a significant and stable improvement on 6-month follow-up period. No decision for drug duration could be made due to limited evidence.
+
+On 6-month follow-up, higher dose of AMX/MET adjunct to FMSRP could provide a stable clinical effect. No recommendation for drug duration could be made.
+
+KEYWORDS: Amoxicillin; Meta-analysis; Metronidazole; Periodontitis; Root planing
+CITATION: Clinical Oral Investigations 2021;25(10):5671-5685
