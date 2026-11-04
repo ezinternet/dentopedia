@@ -2,7 +2,7 @@
 title: "구강외과·제3대구치(사랑니) — third-molar"
 authors: navigation
 year: 2026
-date: 2026-10-21
+date: 2026-11-04
 doi: N/A
 source: navigation
 category: oral-surgery/third-molar
@@ -15,24 +15,25 @@ tags: [navigation, category-index, third-molar]
 > [!summary] 한국어 핵심요약
 > - **분야**: 구강외과·제3대구치(사랑니)
 > - **범위**: Third molar (wisdom tooth) extraction — surgical indications/technique (flap design, bone removal, sectioning), coronectomy, pericoronitis, extraction complications (mandibular fracture, dry socket/alveolar osteitis), postop adjuncts (PRF/CGF, LLLT, cooled irrigation, pain management)
-> - **수록 논문**: 28편
+> - **수록 논문**: 30편
 
 ## Three-line Summary
 
 **Scope**: Third molar (wisdom tooth) extraction — surgical indications/technique (flap design, bone removal, sectioning), coronectomy, pericoronitis, extraction complications (mandibular fracture, dry socket/alveolar osteitis), postop adjuncts (PRF/CGF, LLLT, cooled irrigation, pain management)
-**Indexed papers**: 28 papers in `wiki/oral-surgery/third-molar/`.
+**Indexed papers**: 30 papers in `wiki/oral-surgery/third-molar/`.
 
 ## 세줄요약
 
 **분야**: 구강외과·제3대구치(사랑니)
-**수록 논문**: 28편
+**수록 논문**: 30편
 **하위 카테고리**: 없음
 
-## Papers in this Category (28)
+## Papers in this Category (30)
 
 | Paper |
 |---|
 | [[al-aroomi-2025-cgf-third-molar-postop-sr|Effectiveness of Concentrated Growth Factors in Reducing Postoperative Sequelae and Enhancing Healing Outcomes After Third Molar Extraction: A Systematic Review]] |
+| [[arteagoitia-2022-is-clindamycin-effective-in-preventing|Is clindamycin effective in preventing infectious complications after oral surgery? Systematic review and meta-analysis of randomized controlled trials]] |
 | [[bailey-2020-surgical-techniques-mandibular-wisdom-teeth-sr|Surgical techniques for the removal of mandibular wisdom teeth]] |
 | [[camps-font-2024-antibiotic-prophylaxis-dry-socket-nma|Antibiotic prophylaxis in the prevention of dry socket and surgical site infection after lower third molar extraction: a network meta-analysis]] |
 | [[canellas-2020-intrasocket-ao-third-molar-sr-nma|Intrasocket interventions to prevent alveolar osteitis after mandibular third molar surgery: A systematic review and network meta-analysis]] |
@@ -59,4 +60,5 @@ tags: [navigation, category-index, third-molar]
 | [[schmidt-2021-pericoronitis-management-antibiotic-prescribing-recommendations|A Review of Evidence-Based Recommendations for Pericoronitis Management and a Systematic Review of Antibiotic Prescribing for Pericoronitis among Dentists]] |
 | [[sun-2026-third-molar-health-management-expert-consensus|Expert consensus on the management of third molar health]] |
 | [[toledano-serrabona-2021-xenograft-periodontal-defects-mandibular-third|A systematic review and meta-analysis on the effectiveness of xenograft to prevent periodontal defects after mandibular third molar extraction]] |
+| [[torof-2023-the-role-of-antibiotic-use|The Role of Antibiotic Use in Third Molar Tooth Extractions: A Systematic Review and Meta-Analysis]] |
 | [[ye-2021-mandibular-third-molar-impaction-pathologies|Pathologies associated with the mandibular third molar impaction]] |
