@@ -8,63 +8,61 @@ source: zadikian-2026-open-healing-immediate-implant-mucosa.md
 category: immediate-implant/esthetic-soft-tissue
 evidence_level: sr+ma
 source_collection: pubmed-text
-full_text: true
-pmid: "41862887"
-pmcid: "PMC13126965"
-source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC13126965/
 text_path: /Users/oracleneo/llm-wiki/papers/zadikian-2026-open-healing-immediate-implant-mucosa.txt
 text_filename: zadikian-2026-open-healing-immediate-implant-mucosa.txt
-relations:
-  - type: extends
-    target: pitman-2022-immediate-implant-provisionalization-sr-ma
 tags: []
+relations:
+  - type: reinforces
+    target: immediate-implant/esthetic-soft-tissue/pitman-2022-immediate-implant-provisionalization-sr-ma
 ---
 
 ## Three-line Summary
 
-SR+MA (PROSPERO CRD42023439073; 12 studies, 431 patients / 438 implants, 3–4 RCTs) isolating "open healing" at immediate implant placement: particulate bone graft in the buccal gap sealed by a non-occlusal provisional or customized healing abutment with no barrier membrane and no primary flap closure.
+SR+MA (12 studies, 431 patients / 438 implants; 4 RCTs pooled) finds that open healing — immediate transmucosal non-occlusal provisionalization + particulate bone graft without barrier membrane or primary flap closure — yields comparable midfacial mucosal stability vs primary flap closure (MML SMD −0.26, 95% CI −0.71 to 0.18, NS; I²=6%).
 
-Open healing produced limited midfacial mucosal change vs primary flap closure (MML SMD −0.26, 95% CI −0.71 to 0.18, NS), a mesial-papilla advantage (SMD 0.76, p=0.01), and comparable MBL, KMW, and 92–100% survival over mean 10.6-month follow-up.
+A mesial papilla advantage for open healing was detected (SMD 0.76, 95% CI 0.18–1.34, p=0.01), while distal papilla, marginal bone loss, and implant survival were equivalent between groups.
 
-Omitting primary closure does not destabilize peri-implant mucosa in selected anterior, intact-buccal-wall cases, though evidence is dominated by short follow-up and favorable anatomy, limiting generalizability.
+Evidence is limited to flapless, anterior, intact-buccal-wall cases; majority of studies are case series; follow-up median ~10.6 months; broader generalizability requires higher-quality RCTs.
 
 ## 세줄요약
 
-PROSPERO 등록 SR+MA (12편, 환자 431명·임플란트 438개, RCT 3–4편) — 즉시식립 시 차폐막·일차봉합 없이 입자형 골이식재를 비교합 임시보철/맞춤치유지대주로만 봉합하는 "open healing"을 독립 변수로 분리 분석.
+체계적 고찰·메타분석(12편, 환자 431명·임플란트 438개; 풀링 무작위대조시험(Randomized Controlled Trial, RCT) 4편): 즉시식립(Immediate Implant Placement, IIP) 시 비폐쇄 치유(open healing) — 차폐막·일차봉합 없이 임시보철/맞춤 치유지대주만으로 입자형 골이식재를 덮는 방식 — 는 일차봉합 대비 정중협측 점막레벨(Midfacial Mucosal Level, MML) 변화가 미미했다(표준화평균차(Standardized Mean Difference, SMD) −0.26, 유의차 없음; I²=6%).
 
-Open healing은 일차봉합 대비 협측 점막레벨(MML) 변화 차이 없음(SMD −0.26, NS); 근심 치유두 유리(SMD 0.76, p=0.01); 변연골소실·각화점막폭·생존율(92–100%) 동등 (평균 추적 10.6개월).
+근심유두 보존은 비폐쇄 치유 군이 유의하게 유리했으며(SMD 0.76, p=0.01), 원심유두·변연골소실(Marginal Bone Loss, MBL)·생존율은 동등했다.
 
-선별된 전치부·협측판 온전 증례에서는 일차봉합 생략이 주위 점막을 불안정화하지 않지만, 단기 추적·유리 해부 조건 편중으로 일반화는 제한적이다.
+대부분 협측골 온전·전치부·결손 없는 증례에 한정, 추적관찰 중앙값 10.6개월; 타협한 협측벽 및 구치부 케이스엔 외삽 불가.
 
 ## Summary
 
-This systematic review and meta-analysis isolates the **open-healing variable** in immediate implant placement (IIP): a particulate bone graft in the buccal gap sealed only by an immediate non-occlusal provisional restoration or customized healing abutment, with **no barrier membrane and no primary flap closure**, healing by secondary intention. By excluding protocols that add gingival grafts or soft-tissue substitutes, the analysis attributes its soft-tissue findings to socket management rather than to additional grafting. Across 12 studies (431 patients, 438 implants; mostly low risk of bias), the open-healing/provisionalization arm showed limited midfacial mucosal recession comparable to primary flap closure, a statistically significant mesial-papilla advantage, and equivalent marginal bone loss, keratinized mucosa width, buccal bone thickness, and implant survival. The authors conclude that omitting primary closure does not destabilize the peri-implant mucosa in selected cases, while cautioning that the evidence is dominated by anterior, intact-buccal-wall, ideal-soft-tissue patients with short follow-up.
+This SR+MA evaluated whether open healing (immediate transmucosal non-occlusal provisionalization + particulate bone graft, no barrier membrane, no primary closure) compromises midfacial mucosal stability compared with primary flap closure after IIP. Twelve studies (431 patients, 438 implants; 4 RCTs, 1 cohort, 1 case-control, 6 case series) were included. The primary outcome — MML — showed no statistically significant difference between groups (SMD −0.26, NS). A mesial papilla benefit was identified for open healing. All 12 studies were flapless; 92% anterior sites; mean follow-up 10.6 months. Evidence grade is low-to-moderate (OCEBM level 1B for RCTs, mostly level 4 for case series).
 
 ## Key Contributions
 
-- First SR+MA to isolate **membrane-free, primary-closure-free open healing** as the variable, by design-excluding CTG/soft-tissue-substitute protocols — so the soft-tissue result reflects socket sealing, not added grafting.
-- Pooled evidence that **omitting primary closure does not penalize midfacial mucosal stability** (MML SMD −0.26, NS) relative to primary flap closure.
-- Signals a **mesial-papilla benefit** of the provisionalized open-healing arm (SMD 0.76, p=0.01) while distal papilla, PES, MBL, KMW, BBT, and survival are comparable.
-- Highlights an under-studied biology: **bone-graft particles encapsulated in supracrestal connective tissue** without reported soft-tissue complications.
-- Maps the boundary of current evidence: **all flapless, 92% anterior, mostly ≤6-month follow-up**, intact-buccal-wall selection.
+- Isolates the open-healing variable (transmucosal seal only, no membrane, no primary flap) from gingival graft protocols — attributing soft-tissue results to socket management, not adjunctive grafting
+- Demonstrates no MML penalty vs primary closure (SMD −0.26, NS; low heterogeneity I²=6%)
+- Identifies mesial papilla advantage for open healing (SMD 0.76, p=0.01; two RCTs, I²=0%)
+- Flags biologic gap: bone particles encapsulated in supracrestal connective tissue without reported complications — mechanism unexplored histologically
+- Defines evidence boundary: intact buccal wall, mostly anterior maxilla, short follow-up (~10.6 months)
 
 ## Methodology
 
-SR+MA per PRISMA (PROSPERO CRD42023439073), searching PubMed/MEDLINE, EMBASE, Dentistry & Oral Science Source, and Cochrane up to May 2025 (English + French), two independent reviewers (κ = 0.91). PICO: systemically healthy adults ≥18 yr receiving single-tooth IIP; intervention = open healing (immediate transmucosal non-occlusal provisionalization — provisional restoration or customized healing abutment — + bone grafting, no membrane/no primary closure); comparator = bone grafting with primary flap closure; primary outcome = Midfacial Mucosal Level (MML); secondary = papilla, mucosa thickness, buccal horizontal alteration, PES, KMW, MBL, BBT, survival. Eligible designs were parallel RCTs and prospective case series (≥5 patients) with follow-up through final restoration; **immediate functional occlusal loading (<48 h in occlusion) was excluded**, so results reflect soft-tissue management, not mechanical loading. RoB by Cochrane RoB2 (RCTs) and Joanna Briggs Institute (cohort/case-control/case series); OCEBM levels of evidence. Outcomes pooled as standardized mean differences in RevMan 5.4.1, with χ²/I² heterogeneity assessment.
+- Design: Systematic review + meta-analysis; RCTs eligible for quantitative pooling
+- PICO: Adults ≥18 yr, single-tooth IIP; I = open healing (non-occlusal provisional/customized healing abutment + bone graft, no membrane, no primary closure); C = primary flap closure with bone grafting; O = MML (primary), papilla, MBL, PES, KMW, buccal bone thickness, survival
+- Search: PubMed/MEDLINE, EMBASE, Dentistry & Oral Science Source, Cochrane — up to May 2025
+- RoB: Cochrane RoB 2 (RCTs), JBI tool (non-RCTs); Oxford OCEBM level of evidence
+- Statistics: SMD (standardized mean difference) with 95% CI; χ² + I² for heterogeneity; RevMan 5.4.1
 
 ## Results
 
-- Screening: 362 records → 35 full-text → **12 included** (431 patients, 438 implants; 277 immediate implants with provisionalization + bone graft). OCEBM: 3×1B (RCT), 1×2B, 1×3B, 6×4; discussion narrative cites 4 RCTs. Mostly low RoB.
-- Follow-up: mean 10.6 months (95% CI 9.84–11.49); >50% of implants followed only through osseointegration (≤6 mo); only Cosyn 2011 reached 3 years. Grafts: 52% xenograft, 18% synthetic, 15% allograft, 8% autogenous. All flapless; 92% anterior.
-- **MML (primary)**: SMD −0.26 (95% CI −0.71 to 0.18, p=0.25; 3 RCTs, 6–12 mo), no difference; I²=6%. Dissent: Perez 2020 found less recession with standard (control) abutment (+0.1±0.5 mm) than customized (test, −0.2±0.4 mm); Cosyn stable over 3 yr.
-- **Mesial papilla**: SMD 0.76 (95% CI 0.18–1.34, p=0.01) favoring test (2 RCTs, I²=0%). **Distal papilla**: SMD 0.40 (95% CI −0.16 to 0.96, p=0.16), NS. PES 1.44–1.85, stable, no group difference.
-- **MBL**: SMD 0.14 (95% CI −0.32 to 0.59, p=0.55), NS (3 RCTs, I²=10%). **KMW** and **BBT**: single study each, no group difference. Mucosa thickness (Chu 2015): graft + provisional gave greater thickness.
-- **Survival**: 92–100% over 4–58 months; no significant control-vs-test differences when reported.
+- Screening: 362 records → 12 included; κ=0.91 (inter-reviewer agreement)
+- 42% from Italy; 92% anterior maxilla; graft: 52% xenogenic bovine, 18% synthetic
+- **MML (primary)**: SMD −0.26 (95% CI −0.71 to 0.18, p=0.25; 3 RCTs; I²=6%) — NS
+- **Mesial papilla**: SMD +0.76 (95% CI 0.18–1.34, p=0.01; 2 RCTs; I²=0%) — favors open healing
+- **Distal papilla**: SMD +0.40 (95% CI −0.16 to 0.96, p=0.16) — NS
+- **MBL**: SMD +0.14 (95% CI −0.32 to 0.59, p=0.55; 3 RCTs; I²=10%) — NS
+- **Implant survival**: 92–100% over 4–58 months; no significant group difference
+- PES: 1.44–1.85, stable, no group difference (5 studies)
 
 ## Related Papers
 
-- [[immediate-implant/esthetic-soft-tissue/pitman-2022-immediate-implant-provisionalization-sr-ma]] — extends; isolates the membrane-free open-healing variable behind Pitman's immediate-provisionalization soft-tissue benefit.
-- [[immediate-implant/esthetic-soft-tissue/de-angelis-2021-immediate-implant-provisionalization-soft-tissue-retrospective]] — reinforces; provisionalization-driven peri-implant soft-tissue stability in the esthetic zone.
-- [[immediate-implant/esthetic-soft-tissue/dutra-2025-customized-healing-abutments-immediate-implants]] — refines; customized healing abutment as the transmucosal seal that operationalizes open healing.
-- [[immediate-implant/gap-grafting/zhou-2024-open-closed-flap-collagen-membrane-immediate-implant]] — contrasts; open vs closed flap with a collagen membrane, where Zadikian instead studies membrane-free open healing.
-- [[immediate-implant/gap-grafting/seyssens-2022-immediate-implant-socket-grafting-sr-ma]] — reinforces; buccal-gap socket grafting rationale that the open-healing seal protects.
+- [[immediate-implant/esthetic-soft-tissue/pitman-2022-immediate-implant-provisionalization-sr-ma]] — reinforces: same clinical question (IIP + provisionalization); Zadikian isolates open healing variable further
