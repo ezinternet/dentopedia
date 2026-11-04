@@ -15,12 +15,16 @@ category 미지정/미정의 파일은 '기타 · 미분류' 버킷으로 떨어
 import re
 import sys
 import html
+from datetime import date
 from pathlib import Path
 
 # 스크립트 위치 기준으로 repo 경로 해석 (cwd 무관)
 ROOT = Path(__file__).resolve().parent.parent
 INTERACTIVES = ROOT / "interactives"
 OUT = INTERACTIVES / "index.html"
+
+# 배포 시점 날짜 — 카드 href에 ?v=YYYYMMDD 를 붙여 브라우저 캐시 무효화
+BUILD_DATE = date.today().strftime("%Y%m%d")
 
 # 카테고리 표시 순서 + 한글 라벨. 키는 frontmatter의 category: 값과 일치.
 # 임상 흐름 순: 임플란트 → 골·연조직 → 근관·수복·보철 → 교합 → 치주·예방 → 구강내과 →
@@ -147,8 +151,10 @@ def render_card(t: dict) -> str:
     date_display = "자동 갱신" if date_raw.upper() == "AUTO" else date_raw
     # data-date는 JS "7일 신규 반전" 로직이 사용 (ISO 형식 YYYY-MM-DD; AUTO는 제외)
     data_date_attr = f' data-date="{html.escape(date_raw)}"' if date_raw.upper() != "AUTO" else ""
+    # AUTO 도구(매 배포마다 재생성)는 버전 파라미터 불필요; 나머지는 ?v=BUILD_DATE로 캐시 무효화
+    ver_param = "" if date_raw.upper() == "AUTO" else f"?v={BUILD_DATE}"
     return (
-        f'      <a class="card" href="{t["file"]}"{data_date_attr}>\n'
+        f'      <a class="card" href="{t["file"]}{ver_param}"{data_date_attr}>\n'
         f'        <p class="t">{title}</p>\n'
         f'        <div class="meta"><span class="date">{html.escape(date_display)}</span>'
         f'<span class="badge {t["status"]}">{t["status"]}</span></div>\n'
