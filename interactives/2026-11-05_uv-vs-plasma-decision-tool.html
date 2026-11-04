@@ -1,0 +1,362 @@
+<!--
+---
+title: "UV-PF vs 플라즈마 (DBD) 임상 결정 도구"
+type: interactive
+date: 2026-11-05
+status: done
+category: implant-placement
+agenda: agenda/2026-11-05_uv-plasma-wavelength-comparison-interactives.md
+source_wiki:
+  - wiki/overviews/uv-photofunctionalization-dental-implants.md
+  - wiki/overviews/plasma-surface-treatment-dental-implants.md
+  - wiki/implants/surface/choi-2017-uv-dbd-plasma-titanium-storage-biological-activity.md
+  - wiki/implants/surface/plasma/shahraki-2026-cold-atmospheric-plasma-peri-implantitis-scoping-review.md
+  - wiki/implants/surface/plasma/kwon-2024-actlink-plasma-rct-osseointegration-bone-regeneration.md
+  - wiki/implants/surface/plasma/stacchi-2025-dbd-plasma-rct-isa.md
+  - wiki/implants/surface/houshmand-2023-uv-photofunctionalization-sla-titanium-disks.md
+  - wiki/implants/surface/suzumura-2023-vuv-172nm-titanium-photofunctionalization.md
+tags: [uv-photofunctionalization, DBD-plasma, ACTILINK, Plasmapp, clinical-decision, comparison, chairside-calculator]
+notes: |
+  Choi 2017: UV(15분) ≈ DBD(15분) in vitro — 동일 출발선.
+  UV 임상근거: SR+MA 다수 (Lang 2022 등). DBD: RCT 2건 (Stacchi 2025, Kwon 2024).
+  Shahraki 2026 (77편 SR): CAP 전임상 근거 충분, 임상 RCT 없음.
+  과처리 경고: 300–600s 이상 DBD 역효과 (산화 과잉), UV 20분↑도 주의.
+  라이트 고정 디자인 (operations-lint 2026-08-31 ~dark 금지).
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>UV-PF vs 플라즈마 결정 도구</title>
+<style>
+  :root {
+    --bg: #f8f9fa;
+    --card: #ffffff;
+    --border: #dee2e6;
+    --text: #212529;
+    --muted: #6c757d;
+    --uv-color: #0d6efd;
+    --plasma-color: #6610f2;
+    --radius: 8px;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, "Apple SD Gothic Neo", "Noto Sans KR", system-ui, sans-serif;
+    max-width: 900px; margin: 0 auto; padding: 16px;
+    background: var(--bg); color: var(--text); line-height: 1.55;
+  }
+  h1 { font-size: 22px; font-weight: 700; margin-bottom: 4px; }
+  .subtitle { color: var(--muted); font-size: 14px; margin-bottom: 20px; }
+
+  /* header row */
+  .header-row {
+    display: grid; grid-template-columns: 220px 1fr 1fr; gap: 0;
+    background: var(--card); border: 1px solid var(--border); border-radius: var(--radius) var(--radius) 0 0;
+    overflow: hidden;
+  }
+  .h-dim { background: #f1f3f5; padding: 12px 16px; font-size: 13px; font-weight: 700; color: var(--muted); display: flex; align-items: center; border-right: 1px solid var(--border); }
+  .h-uv  { background: #e7f1ff; padding: 12px 16px; font-size: 15px; font-weight: 800; color: var(--uv-color); display: flex; align-items: center; gap: 8px; border-right: 1px solid var(--border); }
+  .h-pls { background: #f3e8ff; padding: 12px 16px; font-size: 15px; font-weight: 800; color: var(--plasma-color); display: flex; align-items: center; gap: 8px; }
+
+  /* table rows */
+  .cmp-table { background: var(--card); border: 1px solid var(--border); border-top: none; border-radius: 0 0 var(--radius) var(--radius); overflow: hidden; margin-bottom: 20px; }
+  .cmp-row {
+    display: grid; grid-template-columns: 220px 1fr 1fr;
+    border-top: 1px solid var(--border);
+  }
+  .cmp-row:hover { background: #fafbfc; }
+  .cmp-dim {
+    background: #f8f9fa; padding: 11px 16px; font-size: 13px; font-weight: 700; color: #495057;
+    border-right: 1px solid var(--border); display: flex; align-items: flex-start; padding-top: 13px;
+  }
+  .cmp-uv, .cmp-pls {
+    padding: 11px 16px; font-size: 13.5px;
+  }
+  .cmp-uv { border-right: 1px solid var(--border); }
+
+  .dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 5px; vertical-align: middle; }
+  .dot-uv  { background: var(--uv-color); }
+  .dot-pls { background: var(--plasma-color); }
+
+  .pill { display: inline-block; padding: 2px 8px; border-radius: 10px; font-size: 11.5px; font-weight: 700; margin: 1px 2px; white-space: nowrap; }
+  .pill-green  { background: #d1e7dd; color: #0a3622; }
+  .pill-blue   { background: #cfe2ff; color: #052c65; }
+  .pill-purple { background: #e2d9f3; color: #3d0096; }
+  .pill-orange { background: #ffe5d0; color: #6b2d0a; }
+  .pill-gray   { background: #e9ecef; color: #343a40; }
+  .pill-red    { background: #f8d7da; color: #58151c; }
+
+  /* scenario filter */
+  .filter-row { display: flex; gap: 8px; margin-bottom: 14px; flex-wrap: wrap; }
+  .filter-btn {
+    padding: 7px 15px; border-radius: 20px; border: 2px solid var(--border);
+    cursor: pointer; font-size: 13px; font-weight: 600; background: var(--card); color: var(--text);
+    transition: all 0.12s;
+  }
+  .filter-btn:hover { border-color: #adb5bd; }
+  .filter-btn.active { background: #212529; border-color: #212529; color: #fff; }
+
+  /* scenario box */
+  .scenario-box {
+    background: var(--card); border: 1px solid var(--border); border-radius: var(--radius);
+    padding: 16px 20px; margin-bottom: 20px;
+  }
+  .scenario-box h2 { font-size: 15px; font-weight: 700; margin-bottom: 10px; }
+  .scenario-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+  @media (max-width: 600px) { .scenario-grid { grid-template-columns: 1fr; } }
+  .rec-card {
+    border-radius: 8px; padding: 14px 16px; border: 2px solid;
+  }
+  .rec-card h3 { font-size: 14px; font-weight: 700; margin-bottom: 6px; }
+  .rec-card p { font-size: 13px; line-height: 1.55; }
+  .rec-uv    { border-color: var(--uv-color); background: #f0f6ff; }
+  .rec-pls   { border-color: var(--plasma-color); background: #f8f0ff; }
+  .rec-both  { border-color: #198754; background: #f0fff4; }
+
+  .alert { padding: 10px 14px; border-radius: var(--radius); font-size: 13.5px; margin-bottom: 12px; border-left: 4px solid; }
+  .alert-warning { background: #fff3cd; border-color: #fd7e14; }
+  .alert-info    { background: #cff4fc; border-color: #0dcaf0; }
+  .alert strong  { font-weight: 700; }
+
+  .source-footer { font-size: 12px; color: var(--muted); border-top: 1px solid var(--border); padding-top: 10px; margin-top: 6px; }
+
+  @media (max-width: 640px) {
+    .header-row, .cmp-row { grid-template-columns: 100px 1fr 1fr; }
+    .cmp-dim, .h-dim { font-size: 12px; }
+    .cmp-uv, .cmp-pls { font-size: 12.5px; padding: 9px 10px; }
+  }
+</style>
+</head>
+<body>
+
+<h1>UV-PF vs 플라즈마 (DBD) 임상 비교</h1>
+<p class="subtitle">임플란트 표면 광기능화 방식 선택 가이드 · 메가젠 ACTILINK / UV-PF 임상 결정</p>
+
+<!-- Header -->
+<div class="header-row">
+  <div class="h-dim">비교 축</div>
+  <div class="h-uv"><span class="dot dot-uv"></span>UV 광기능화 (UV-PF)</div>
+  <div class="h-pls"><span class="dot dot-pls"></span>DBD 플라즈마 (ACTILINK 등)</div>
+</div>
+
+<div class="cmp-table">
+  <div class="cmp-row">
+    <div class="cmp-dim">기전</div>
+    <div class="cmp-uv">
+      광자 에너지(hν)로 카르복실기-Ti 결합 직접 절단<br>
+      <span class="pill pill-blue">광화학 반응</span>
+      <span class="pill pill-blue">E = hν = 1240/λ eV</span><br>
+      <small style="color:#6c757d;">결합 에너지 임계 ~3.5–4 eV (Wagstaffe 2019)</small>
+    </div>
+    <div class="cmp-pls">
+      RONS (활성 산소/질소 종)으로 표면 산화·탈오염<br>
+      <span class="pill pill-purple">플라즈마 화학</span>
+      <span class="pill pill-purple">RONS 생성</span><br>
+      <small style="color:#6c757d;">반응성 산소·질소 라디칼이 유기물 분해</small>
+    </div>
+  </div>
+  <div class="cmp-row">
+    <div class="cmp-dim">임상 처리 시간</div>
+    <div class="cmp-uv">
+      12–20분 (기기별)<br>
+      <span class="pill pill-blue">VUV 1–12분</span>
+      <span class="pill pill-blue">UVC 12–20분</span>
+    </div>
+    <div class="cmp-pls">
+      15초 ~ 2분 (한국 체어사이드)<br>
+      <span class="pill pill-purple">최적 60초</span>
+      <span class="pill pill-orange">300–600s↑ 역효과</span><br>
+      <small style="color:#dc3545;">72시간 후 항균 효과 소실 주의</small>
+    </div>
+  </div>
+  <div class="cmp-row">
+    <div class="cmp-dim">항균·탈오염</div>
+    <div class="cmp-uv">
+      UV-C/VUV: 직접 DNA 손상 + 탄소 제거<br>
+      <span class="pill pill-blue">단기 항균 ✓</span>
+      <span class="pill pill-blue">탄소 제거 ✓</span>
+    </div>
+    <div class="cmp-pls">
+      CAP: RONS 매개 바이오필름 파괴<br>
+      <span class="pill pill-green">항균 강점</span>
+      <span class="pill pill-purple">72h 항균 소실</span><br>
+      <small style="color:#6c757d;">Shahraki 2026 (77편 SR): 성숙 바이오필름(≥72h) 더 저항</small>
+    </div>
+  </div>
+  <div class="cmp-row">
+    <div class="cmp-dim">임상 근거 수준</div>
+    <div class="cmp-uv">
+      <span class="pill pill-green">SR+MA 다수</span>
+      <span class="pill pill-green">RCT ≥5건</span><br>
+      Lang 2022 외 여러 SR+MA (ISQ, BIC 개선)<br>
+      <small style="color:#6c757d;">가장 풍부한 임상 근거</small>
+    </div>
+    <div class="cmp-pls">
+      <span class="pill pill-blue">RCT 2건</span>
+      <span class="pill pill-orange">전임상 77편</span><br>
+      Stacchi 2025 (RCT, ISQ↑) · Kwon 2024 (RCT, BIC↑)<br>
+      <small style="color:#6c757d;">Shahraki 2026: 임상 RCT 없음 명시</small>
+    </div>
+  </div>
+  <div class="cmp-row">
+    <div class="cmp-dim">즉시 등가 근거</div>
+    <div class="cmp-uv" style="grid-column: span 2; padding-right: 16px;">
+      <strong>Choi 2017 (Yonsei):</strong> UV(15분) ≈ DBD 플라즈마(15분) — 접촉각, XPS, 알부민 흡착, MC3T3-E1 부착, 세포골격 모두 동등 (in vitro). <span class="pill pill-blue">UV ≈ DBD 즉시 등가</span>
+    </div>
+  </div>
+  <div class="cmp-row">
+    <div class="cmp-dim">최대 추적 기간</div>
+    <div class="cmp-uv">
+      UV-PF SR+MA: 5년 이상 생존율 데이터<br>
+      <span class="pill pill-green">장기 추적 ✓</span>
+    </div>
+    <div class="cmp-pls">
+      Stacchi 2025: 1년<br>
+      Kwon 2024: 6개월<br>
+      <span class="pill pill-orange">단기 RCT</span>
+    </div>
+  </div>
+  <div class="cmp-row">
+    <div class="cmp-dim">보관 가능성</div>
+    <div class="cmp-uv">
+      UV+증류수 보관: 28일 후에도 동등 활성 유지<br>
+      <span class="pill pill-green">증류수 보관 ✓</span>
+      <span class="pill pill-red">진공·대기 ✗</span><br>
+      <small style="color:#6c757d;">Choi 2017: 무균 유지 필요</small>
+    </div>
+    <div class="cmp-pls">
+      식립 직전 처리 권고 (한국 체어사이드 기기)<br>
+      <span class="pill pill-orange">즉시 사용 권고</span><br>
+      <small style="color:#6c757d;">72h 이후 항균 효과 소실</small>
+    </div>
+  </div>
+  <div class="cmp-row">
+    <div class="cmp-dim">파장 의존성</div>
+    <div class="cmp-uv">
+      파장 선택이 임상 효과에 직결<br>
+      VUV(172nm) &gt; UVC(210nm) &gt;&gt; UVB(310nm)<br>
+      <span class="pill pill-orange">파장 확인 필수</span>
+    </div>
+    <div class="cmp-pls">
+      가스 종류 (Ar > 공기 for 친수성)<br>
+      Coaxial DBD = 균질 분포 우수<br>
+      <span class="pill pill-purple">가스·기기 선택</span>
+    </div>
+  </div>
+  <div class="cmp-row">
+    <div class="cmp-dim">과처리 위험</div>
+    <div class="cmp-uv">
+      UVB 이하 파장: 탄소 제거 불완전<br>
+      VUV 오존 생성 (밀폐 필요)<br>
+      <span class="pill pill-orange">파장 부족 위험</span>
+    </div>
+    <div class="cmp-pls">
+      300–600초↑: 과산화로 역효과<br>
+      <span class="pill pill-red">과처리 역효과</span><br>
+      <small style="color:#dc3545;">최적 60초, 300s↑ 금지</small>
+    </div>
+  </div>
+  <div class="cmp-row">
+    <div class="cmp-dim">비용·기기</div>
+    <div class="cmp-uv">
+      UV 광원 기기 (다양한 제조사)<br>
+      <span class="pill pill-blue">저~중 비용</span>
+    </div>
+    <div class="cmp-pls">
+      메가젠 ACTILINK / Plasmapp X Motion<br>
+      <span class="pill pill-purple">한국 체어사이드 DBD</span>
+    </div>
+  </div>
+</div>
+
+<!-- Scenario selector -->
+<div class="scenario-box">
+  <h2>임상 시나리오별 선택 가이드</h2>
+  <div class="filter-row">
+    <button class="filter-btn active" id="btn-std" onclick="showScenario('std')">표준 식립</button>
+    <button class="filter-btn" id="btn-peri" onclick="showScenario('peri')">페리-임플란타이티스 위험</button>
+    <button class="filter-btn" id="btn-store" onclick="showScenario('store')">사전 처리 보관</button>
+    <button class="filter-btn" id="btn-both" onclick="showScenario('both')">병용</button>
+  </div>
+  <div id="scenario-content"></div>
+</div>
+
+<div class="alert alert-warning">
+  <strong>⚠ 공통 주의사항:</strong> 처리 직후 식립이 원칙. UV+증류수 보관은 Choi 2017의 in vitro 데이터이며 임상 대규모 검증은 미완. DBD 플라즈마 72시간 후 항균 효과 소실 — 처리 당일 식립 권고.
+</div>
+
+<div class="source-footer">
+  근거: Choi 2017 (PMID 29033191) · Shahraki 2026 (PMID 42469822) · Stacchi 2025 · Kwon 2024 · Houshmand 2023 (PMID 38967690) · Suzumura 2023 (PMID 36662058) · Wagstaffe 2019 (PMID 31724374)
+</div>
+
+<script>
+const PAGE_VERSION = '20261105-v1';
+const _VK = 'uv_vs_plasma_ver';
+const _HK = 'uv_vs_plasma_hidden';
+try {
+  const sv = localStorage.getItem(_VK);
+  if (sv && sv !== PAGE_VERSION) { localStorage.setItem(_VK, PAGE_VERSION); location.reload(true); }
+  else localStorage.setItem(_VK, PAGE_VERSION);
+} catch(e) {}
+document.addEventListener('visibilitychange', () => {
+  if (document.hidden) {
+    try { localStorage.setItem(_HK, Date.now()); } catch(e) {}
+  } else {
+    try {
+      const ht = parseInt(localStorage.getItem(_HK) || '0');
+      if (ht && (Date.now() - ht) > 30 * 60 * 1000) {
+        localStorage.setItem(_HK, '0');
+        location.reload(true);
+      }
+    } catch(e) {}
+  }
+});
+
+const SCENARIOS = {
+  std: {
+    label: '표준 식립',
+    uv: { title: 'UV-PF', color: 'rec-uv', text: '가장 풍부한 임상 근거(SR+MA 다수). 기기의 파장이 UVC(≤210nm) 이상인지 확인. 처리 후 즉시 또는 증류수 무균 보관 후 식립. VUV 기기라면 오존 환기 절차 준수.' },
+    pls: { title: 'DBD 플라즈마', color: 'rec-pls', text: '메가젠 ACTILINK: 60초 프로토콜 준수. 300초 이상 처리 금지. 처리 당일 식립 권고. RCT 2건(단기) — UV-PF보다 근거 얇음.' },
+  },
+  peri: {
+    label: '페리-임플란타이티스 위험',
+    uv: { title: 'UV-PF', color: 'rec-uv', text: 'UV-C/VUV: DNA 손상 + 탄소 제거로 단기 항균 효과. 그러나 항균 지속력은 DBD 플라즈마에 비해 명확히 비교된 RCT 없음.' },
+    pls: { title: 'DBD 플라즈마 (상대적 강점)', color: 'rec-both', text: 'RONS 매개 바이오필름 파괴 — Shahraki 2026 SR(77편): 항균 도메인 31편. CAP + 기계적 디브리드먼트 병용 > 단독. 단, 72시간 후 항균 효과 소실. 처리 당일 식립 필수. 임상 RCT 아직 없음(전임상만).' },
+  },
+  store: {
+    label: '사전 처리 보관',
+    uv: { title: 'UV-PF + 증류수 보관', color: 'rec-uv', text: 'Choi 2017: UV(15분) + 증류수 보관 → 28일 후에도 동등 생체활성 유지. 조건: 멸균 증류수, 무균 용기, 오염 방지. 진공·대기 보관은 XPS에서 탄소 재오염 확인됨 → 금지.' },
+    pls: { title: 'DBD 플라즈마', color: 'rec-pls', text: '사전 보관 프로토콜 미확립. 처리 직후 식립이 현재 권고. Choi 2017에서 DBD의 보관 후 데이터는 없음.' },
+  },
+  both: {
+    label: '병용 (생물학적 추론)',
+    uv: { title: '병용 근거', color: 'rec-both', text: 'Choi 2017: UV ≈ DBD 즉시 등가. 두 방법 모두 XPS 탄소 감소 + 친수성 회복 확인. 중복 처리의 추가 이득을 보여준 RCT 없음 — 현재는 택1 권고.' },
+    pls: { title: '병용 주의', color: 'rec-pls', text: 'UV+DBD 순차 처리의 임상 데이터 없음. DBD 과처리 역효과(300s↑) 감안 시 단순 추가가 이득을 보장하지 않음. 각 단독으로도 임상 개선 근거 충분.' },
+  },
+};
+
+function showScenario(key) {
+  const s = SCENARIOS[key];
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+  document.getElementById('btn-' + key).classList.add('active');
+
+  document.getElementById('scenario-content').innerHTML = `
+    <div class="scenario-grid">
+      <div class="rec-card ${s.uv.color}">
+        <h3>${s.uv.title}</h3>
+        <p>${s.uv.text}</p>
+      </div>
+      <div class="rec-card ${s.pls.color}">
+        <h3>${s.pls.title}</h3>
+        <p>${s.pls.text}</p>
+      </div>
+    </div>
+  `;
+}
+
+showScenario('std');
+</script>
+</body>
+</html>
