@@ -85,6 +85,11 @@ ALIASES = {
     "radiology": "imaging",
     "practice-management": "role-portal",      # 역할 포털 버킷
     "overviews": "meta",
+    # 서브카테고리 흡수 (frontmatter를 고치는 것이 우선; 이 맵은 안전망)
+    "bone-biology": "implant-placement",          # 임플란트 주위 골형성 → 골질 버킷
+    "drug/systemic-disease": "systemic-disease",  # 전신질환·혈액·당뇨 계열
+    "orthodontics/clear-aligner": "ortho",        # 교정 서브
+    "drug/anticoagulants": "drug",                # 항응고·지혈제 → 약물 버킷
 }
 
 FALLBACK_KEY = "_misc"
