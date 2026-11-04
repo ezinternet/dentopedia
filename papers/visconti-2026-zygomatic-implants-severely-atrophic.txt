@@ -1,0 +1,56 @@
+Interventions for replacing missing teeth: zygomatic implants for the rehabilitation of the severely atrophic edentulous maxilla
+
+Cochrane Database of Systematic Reviews 2026
+DOI: 10.1002/14651858.CD004151.pub4
+PMID: 42489150 | PMC: PMC13393076
+
+AUTHORS: Visconti et al.
+
+RATIONALE
+Dental implants require sufficient bone for support. In people with severe maxillary bone loss, zygomatic implants provide an alternative to bone augmentation by anchoring in the cheekbone instead of the upper jaw. Potential advantages include avoiding bone grafting and enabling immediate or early placement of a fixed prosthesis. However, the procedure is technically demanding and may be associated with serious complications.
+
+OBJECTIVES
+To assess the effects of zygomatic implants for rehabilitation of people with severely atrophic maxillae by comparing:
+(1) Zygomatic implants with or without bone augmentation vs conventional dental implants in augmented bone
+(2) Zygomatic implants vs subperiosteal implants
+(3) One type of zygomatic implant or technique vs another
+
+ELIGIBILITY CRITERIA
+RCTs (parallel-group or split-mouth), ≥10 participants per arm, ≥1 year follow-up. Participants had severely resorbed maxillae.
+
+INCLUDED STUDIES
+Two RCTs, each with 3-year follow-up:
+- Parallel RCT: n=71, zygomatic implants (immediate load) vs delayed conventional implants in grafted bone (comparison 1)
+- Split-mouth RCT: n=20, piezoelectric vs rotary drills for zygomatic site preparation (comparison 3)
+
+RESULTS
+
+Comparison 1 — Zygomatic vs conventional implants in grafted bone:
+- Prosthetic failures: OR 0.29 (95% CI 0.05 to 1.56); low-certainty evidence — may reduce but imprecise
+- Implant failures: OR 0.23 (95% CI 0.06 to 0.96); moderate-certainty — zygomatic PROBABLY REDUCES implant failure
+- Complications: OR 4.53 (95% CI 1.47 to 13.98); moderate-certainty — zygomatic PROBABLY INCREASES complications (~80% vs ~50%)
+- Patient satisfaction: MD 0.40 (95% CI -3.05 to 3.85); low-certainty — little/no difference
+- Time to rehabilitation: MD -442.98 days (95% CI -518.64 to -367.32); moderate-certainty — zygomatic 1.3 days vs conventional 444 days
+
+Comparison 3 — Piezoelectric vs rotary drills:
+- Prosthetic/implant failures: OR 1.00; low-certainty — no difference
+- Complications: OR 1.50 (0.25 to 8.99); low-certainty — similar
+- Patient preference: OR 9.00 (0.48 to 167.26); low-certainty — may favour piezoelectric (very imprecise)
+- Operative time: MD -9.15 min (95% CI -10.41 to -7.89); moderate-certainty — rotary drills faster (~14 min vs ~24 min)
+
+CERTAINTY OF EVIDENCE: Moderate to low throughout. Main downgrade: serious imprecision (small sample sizes, wide CIs).
+
+AUTHORS' CONCLUSIONS
+At 3 years:
+- Zygomatic implants PROBABLY REDUCE implant failures vs bone grafting
+- Zygomatic implants PROBABLY REDUCE time to rehabilitation (1.3 vs 444 days)
+- Zygomatic implants PROBABLY INCREASE complications
+- May reduce prosthetic failures (imprecise)
+- Patient satisfaction effect uncertain
+
+For drilling technique: rotary drills probably faster; piezoelectric shows little/no difference in outcomes.
+
+Overall: limited evidence base, more well-designed RCTs needed.
+
+FUNDING: Vita-Salute San Raffaele University, Milan (partial)
+Evidence current to: November 2025
