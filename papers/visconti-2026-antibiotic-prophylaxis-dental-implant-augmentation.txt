@@ -1,0 +1,52 @@
+Interventions for replacing missing teeth: antibiotic prophylaxis for dental implant placement with bone augmentation procedures
+
+Cochrane Database of Systematic Reviews 2026 (Protocol)
+DOI: 10.1002/14651858.CD016385
+PMID: 42695376 | PMC: PMC13543260
+
+AUTHORS: Visconti RF et al. (RFV, ME, HM, CB)
+NOTE: This is a PROTOCOL — no results available yet. Awaiting full review.
+
+RATIONALE
+Implant placement with concomitant bone augmentation (grafts, GBR, sinus lift) represents a higher-risk subgroup than standard implant placement. Early implant failures have been partly attributed to bacterial contamination; infections involving biomaterials (implants, bone substitutes, barrier membranes) are difficult to manage and may require implant removal. The role of antibiotic prophylaxis in this context is controversial — one RCT found no additional benefit, others found potential benefit.
+
+This protocol complements the existing Cochrane review on antibiotics for implant placement WITHOUT bone augmentation.
+
+OBJECTIVES
+To evaluate the benefits and harms of systemic prophylactic antibiotics versus no antibiotics/placebo in people undergoing dental implant placement with concomitant bone augmentation procedures, and to assess whether effects differ according to dosage, duration, timing, and type of antibiotic.
+
+POPULATION
+Adults >18 years undergoing implant placement with:
+- Bone grafting procedures (autogenous, xenograft, allograft, synthetic)
+- Guided bone regeneration (barrier membranes ± grafts)
+- Simultaneous sinus lift procedures
+
+COMPARISONS
+1. Prophylactic antibiotics vs no antibiotics/placebo
+2. Different doses/durations of same antibiotic
+3. Same antibiotic at different timing (pre- vs post-operative)
+4. Different antibiotics
+
+CRITICAL OUTCOMES (at longest follow-up, up to 1 year)
+- Implant failure (mobility, removal for progressive MBL or infection)
+- Prosthetic failure (prosthesis not placed, or failure secondary to implant failure)
+
+IMPORTANT OUTCOMES (within first 3 months)
+- Postoperative infections (suppuration, abscess, fistula, wound dehiscence)
+- Adverse events (GI disturbances, allergic reactions, anaphylaxis)
+
+STUDY INCLUSION
+RCTs, parallel-group, minimum 3-month follow-up, ≥10 participants per arm.
+Statistical unit: participant (not implant or prosthesis).
+
+METHODOLOGY
+- Databases: CENTRAL, MEDLINE, Embase + trial registries (no language/date restrictions)
+- Risk of bias: Cochrane RoB 1 tool (7 domains)
+- Synthesis: random-effects model, Mantel-Haenszel method; RR + 95% CI
+- Certainty: GRADE approach
+- Subgroup analyses for implant failures: augmentation type, horizontal vs vertical GBR, resorbable vs non-resorbable membrane
+
+EQUITY CONSIDERATIONS
+Antibiotic prophylaxis is generally inexpensive and widely accessible; inequity unlikely to be major concern.
+
+STATUS: Protocol — currently awaiting RCT identification, data extraction, and synthesis.
