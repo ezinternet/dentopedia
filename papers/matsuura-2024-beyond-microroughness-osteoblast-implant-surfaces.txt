@@ -1,0 +1,257 @@
+Considering the biological activity of osteoblasts is crucial when devising new approaches to enhance the osseointegration of implant surfaces, as their behavior profoundly influences clinical outcomes. An established inverse correlation exists between osteoblast proliferation and their functional differentiation, which constrains the rapid generation of a significant amount of bone. Examining the surface morphology of implants reveals that roughened titanium surfaces facilitate rapid but thin bone formation, whereas smooth, machined surfaces promote greater volumes of bone formation albeit at a slower pace. Consequently, osteoblasts differentiate faster on roughened surfaces but at the expense of proliferation speed. Moreover, the attachment and initial spreading behavior of osteoblasts are notably compromised on microrough surfaces. This review delves into our current understanding and recent advances in nanonodular texturing, meso-scale texturing, and UV photofunctionalization as potential strategies to address the “biological dilemma” of osteoblast kinetics, aiming to improve the quality and quantity of osseointegration. We discuss how these topographical and physicochemical strategies effectively mitigate and even overcome the dichotomy of osteoblast behavior and the biological challenges posed by microrough surfaces. Indeed, surfaces modified with these strategies exhibit enhanced recruitment, attachment, spread, and proliferation of osteoblasts compared to smooth surfaces, while maintaining or amplifying the inherent advantage of cell differentiation. These technology platforms suggest promising avenues for the development of future implants.
+
+Introduction
+
+There have been considerable efforts to improve bone-implant integration, or osseointegration in the fields of dental and orthopedic implants [–]. However, current challenges to fully optimizing clinical outcomes of dental implants include the prolonged healing time required for osseointegration [–], restricted indications for implant therapy in locally and/or systemically compromised bone [–], and the plateaued success rate at 92% [,–]. Notably, the reported percentage of bone-implant contact (BIC) remains at 45% ± 16% [,], or 50–75% [,,,], far below the ideal 100% []. Compounding this issue is the limited advancement in implant surface technology since the advent of microrough titanium surfaces three decades ago [,–], leaving an ideal surface, especially beyond microroughness, unidentified [].
+
+Acid etching is most commonly used to create microrough titanium surfaces [,,,–]. The process produces randomly shaped, 0.5–5 μm compartments consisting of peaks and valleys [,,]. Despite its widespread clinical application, concerns persist regarding how surface topographies influence osteoblast kinetics, which encompass the proliferation and differentiation of osteogenic cells (Fig.). The rate of proliferation primarily dictates the volume of bone formation, whereas the rate of differentiation predominantly governs the speed and quality of bone formation [,,,–]. Unfortunately, there exists an inverse correlation between cellular proliferation and differentiation (Fig.) [–]. Termed the “dichotomy” of osteoblasts [,], this phenomenon poses a challenge on biomaterials like titanium, creating a “biological dilemma” where osteoblasts proliferate faster but differentiate slower on smooth surfaces, resulting in delayed osseointegration [,,–]. Conversely, on microrough surfaces, osteoblasts proliferate slower but differentiate faster, leading to expedited but thinner bone apposition [,,,,,].
+
+Fig. 1
+
+Osteoblast kinetics involve the crucial processes of proliferation and differentiation. The rate of proliferation dictates the quantity of bone formation, while the rate of differentiation determines the speed of bone formation. The property of osseointegration is influenced by how the kinetics of osteogenic cells are modulated by various factors on implant surfaces. See the main text in the Introduction for a detailed explanation
+
+Fig. 2
+
+The inverse correlation in osteoblastic kinetics between the proliferation and differentiation. The proliferation is primarily responsible for the volume of bone formation, while the differentiation for the speed (See the main text in the Introduction for a detailed explanation). This inverse correlation extends analogically to the contrast between smooth and rough biomaterial surfaces, exemplified by machined titanium and microrough titanium surfaces, respectively. Ideally, titanium or biomaterial surfaces (depicted by the blue circle) should optimize both osteoblastic proliferation and differentiation to achieve rapid generation of a greater amount of bone. This paper reviews candidate strategies and scientific advancements aimed at creating such ideal surfaces
+
+The molecular pathways governing this dichotomy kinetics are relatively well understood. Runx2/Cbfa1/AML3 is a transcription factor and central regulator that activates and represses proliferation and differentiation during bone formation []. During early osteogenesis, signaling pathways supporting proliferation dominate but progressively diminish until eventual cessation during the post-proliferative stage and towards the differentiation stage [,]. Runx2 activation triggers cell cycle exit by inhibiting the activity of S-phase cyclin complexes, leading to G1 phase arrest and the initiation of functional differentiation []. Indeed, proliferating cell nuclear antigen (PCNA) protein, a critical regulator of DNA synthesis and cyclin D1, whose co-expression reduces cell proliferation, were upregulated on microrough surfaces []. It is known that cyclin D1 can bind to PCNA and thereby inhibit DNA synthesis [,]. Microrough surfaces also substantially impair osteoblast recruitment, as fewer cells initially attach to rougher titanium surfaces than to smoother titanium surfaces [].
+
+Modern implantology prioritizes expedited peri-implant bone formation by promoting functional osteoblast maturation [,]. Faster bone formation also provides contact osteogenesis around implants rather than distant osteogenesis [–], minimizing soft tissue intervention between the implant surface and bone (Fig.). Intrinsic mechanical properties of bone, such as the harness, elastic modulus, and adhesion strength to materials are also associated with the speed of osteoblastic differentiation and bone formation [,–]. These events are not mutually exclusive, and microroughened surfaces can successfully promote these outcomes [,,–]. Further, roughened surfaces increase the load-bearing capacity of implants, as the surfaces provide increased mechanical interlocking between implant surface and bone and even between implant surface and cells [,]. Rough surfaces also promote cellular mechano-transduction to favor osteoblastic differentiation []. However, enhanced differentiation of osteogenic cells accompanies the drawback of reducing bone volume due to osteoblast proliferation deactivation [,,].
+
+Fig. 3
+
+Low () and high () magnification SEM images of a typical microrough titanium surface created by sandblasting and acid etching, depicting micropits or micro-compartments made of sharp peaks and edges, referred to as a knife-edge microrough surface. Asterisks indicate micro-compartments or pits, while white arrowheads indicate knife-edges
+
+Improving osseointegration involves overcoming the dichotomy kinetics of osteoblasts on roughened titanium surfaces, preserving differentiation while minimizing its impact on proliferation. Despite extensive research on factors promoting osteoblast differentiation [,,–], little attention has been given to promoting osteoblastic proliferation. This review explores recent advancements in nanonodular and meso-texturing, and UV photofunctionalization as potential strategies to address this challenge, offering promising avenues for rapid and increased bone generation around implants.
+
+Nanonodular texturing to temper microrough surfaces
+
+Surface morphology and biological impact
+
+Significant attention has been devoted to the surface morphology, texture, and topography of titanium to enhance the bioactivity and osteoconductivity of implants. Starting with original machined surfaces and progressing to supra-micro-scale rough surfaces, such as titanium plasma sprayed (TPS) surfaces [] and hydroxyapatite (HA)-coated surfaces [], microrough surfaces have become the norm in modern implant dentistry [,,]. Among the advancements from microrough titanium surfaces is nanonodular texturing, aimed at tempering or rounding these surfaces.
+
+Nanonodular texturing of titanium describes the controlled creation of titanium nanonodules on microrough titanium surfaces through molecular self-assembly during TiOsputter deposition [–]. This technique effectively arounds and tempers the sharp peaks and edges of microrough titanium surfaces while preserving the main micro-pit configuration. Despite the increased surface roughness resulting from nanotexturing, osteoblast attachment and proliferation still significantly increase [,], but not at the expense of impaired differentiation.
+
+In the absence of nanonodular texturing, microroughened titanium surfaces exhibit sharp peaks and valleys measuring 0.5–5 μm (Fig.), forming micro-pits or micro-compartments with knife-edges. As illustrated in Fig.A, to round this sharp morphology, TiOis sputter deposited onto acid-etched, microrough titanium surfaces. This process smooths the peaks and the bottom of the pits by creating nano-nodules while simultaneously preserving existing micro-pits outlines, thereby establishing a micro-nano hybrid topography with soft-edges as confirmed by scanning electron microscopy (SEM) imaging (Fig.B, C). Quantitative roughness analysis reveals that nanonodular texturing increases the average roughness (Sa) and the peak-to-valley roughness (Sz) by 2–4 times compared to microrough surfaces [,]. The titanium nanonodular structures resemble calcium crystalline accretions found in the mineralized matrix formed by cultured osteoblasts [,], presenting a biomimetic topography favorable for osteoblastic activity.
+
+Fig. 4
+
+Micro-tempering as a strategy to mitigate the drawback of microrough surfaces. () An illustration of the strategy to convert knife-edges to soft-edges on microrough titanium surfaces. (,) SEM images of a tempered microrough titanium surface. The microrough titanium surfaces, as shown in Fig., were sputter-depositioned with TiO2, resulting in the rounded peaks and edges of the original microroughness (white arrowheads) and the formation of nanonodules within the pits and along the peaks and flanks, establishing the soft-edge micro-nano hybrid surface. Note the main configuration of the original micropits is preserved
+
+In vitro studies have demonstrated that three to five times more osteoblasts attach to the soft-edge hybrid surfaces during the initial stages of culture (6 h) than to original microrough surfaces with knife-edges, despite the significantly increased roughness [,]. The effect persists since, after 24 h, hybrid surfaces still harbored twice the number of adherent cells. Furthermore, in these experiments, there were double the number of proliferated cells during subsequent culture (days 2 and 6) on soft-edge hybrid surfaces [,]. Notably, the cell density on soft-edge hybrid surfaces matches that on machined, smooth surfaces []. Thus, the tempered morphology of microrough surfaces through nanonodular texturing overcomes the inverse kinetics of osteoblasts and completely mitigates the impaired attachment and proliferation of osteoblasts on microrough surfaces. Despite the increase in cell proliferation, functional differentiation was promoted on the soft-edge hybrid surface, as evidenced by upregulation of osteogenic extracellular matrix genes and calcium deposition, indicating that the soft-edging resolves the biological dilemma of microrough surfaces [,]. Additionally, in an in vivo rat femur model, the biomechanical strength of osseointegration is three-fold greater for soft-edge hybrid implant surfaces than knife-edge microrough implant surfaces [].
+
+Cell behavior supporting increased attachment and proliferation
+
+In general, roughened surfaces impede cell spreading compared to smooth surfaces. Experimental comparisons between microrough and machined smooth surfaces revealed that cellular areas and perimeters were 50–70% smaller on microrough surfaces than on smooth surfaces after an initial six-hour culture []. In contrast, hybrid implant surfaces with soft edges induced cellular behaviors that enhanced osteoblastic attachment, adhesion, and proliferation compared to microrough surfaces. Cells cultured on soft-edge surfaces exhibited significantly larger sizes than those on microrough and machined surfaces, showcasing robust cytoskeletal and cytoplasmic projections [,]. Moreover, cells on soft-edge hybrid surfaces developed actin-based structures, including filopodia and lamellipodia, indicative of active migration and proliferation. The extensive expression of vinculin, a focal adhesion protein [,], suggested that cells behaved as if they were interacting with both cells and the extracellular matrix before clustering and colonization [], potentially further enhancing cellular attachment, adhesion, and proliferation [,]. Vinculin indeed responds to nanofeatured surfaces []. Increased protein adsorption by 2-2.5 times on the soft-edge microrough surfaces compared to knife-edge microrough surfaces may have also contributed to the manifestation of these enhanced cell behaviors [].
+
+Tempered hybrid configuration optimization
+
+In optimization studies, the size of nanonodules ranged from 100 nm to 500 nm, achieved by controlling the sputter deposition time with a fixed deposition rate was 18.5 Å/minute []. The estimated deposition time and the size of nanonodular formation were nearly perfectly correlated (= 0.99), providing the technology validation. The degree of surface roughness measured by the average roughness (Sa) and the peak-to-valley roughness (Sz) did not necessarily correlate with the nodule size (Sz) and was highest when the nodules were 300 nm []. Moreover, cellular attachment and proliferation were highest on the 300 nm hybrid surface, contradicting the trend where rougher surfaces typically reduce cellular attachment and proliferation []. Osteoblastic gene expression was also most upregulated on these surfaces. Thus, osteoblastic behavior and growth exhibit unexpected patterns on tempered hybrid surfaces, resulting in biological enhancement and increased roughness, along with the formation of undercuts on the titanium surfaces, consequently leading to significantly improved osseointegration in vivo []. Interestingly, the tempered microrough titanium surface has been found to decrease proliferation and function in fibroblasts, offering an additional advantage for enhanced osseointegration without soft tissue invasion [].
+
+Versatility of the nanotechnology-driven tempering strategy
+
+The strategy of mitigating the inverse correlation between osteoblast proliferation and differentiation has been explored on various surfaces. Titanium treated with sandblasting and hydrofluoric acid also benefits from nano-nodular texturing, providing soft-edges and nanostructures []. Furthermore, other biomaterials, including CoCr alloy, NiCr, ceramic (SiO) surfaces, and organic and polymeric surfaces such as polystyrene cell culture dishes, poly-lactic acid (PLA), and collagen membranes, can be nano-textured with rounded edges, indicating the generalizability of the protocol across different materials [].
+
+Unique biological impacts of nanonodule-tempered surfaces
+
+Not all nano-texturing techniques effectively mitigate the adverse effects of microrough titanium surfaces. For instance, submerging microrough titanium surfaces in an isotonic NaCl solution produces a surface characterized by micro-pits typical of acid-etching and nano-deposits induced by NaCl crystallization [,]. However, the number of osteoblast-like osteosarcoma MG63 cells attaching to this nano-featured surface 24 h after seeding was 30–50% lower than those attaching to microrough implants [,], despite an increase in differentiation markers [–].
+
+Hydrofluoric acid treatment of sandblasted titanium forms micro-nano-hybrid rough surfaces, with randomly-shaped nano-textures on the microroughness [,,]. After 48 and 72 h of culturing, cells seeded on surfaces created by sandblasting alone with 75 μm particles exhibited the highest proliferation rates, while hybrid surfaces led to decreased cell proliferation as fluorine concentration increased, by up to approximately 30% [], although the differentiation was promoted []. Thus, not all nano-features can overcome the biological dilemma of osteoblasts, underscoring the unique efficacy of tempered microrough configurations with soft edges.
+
+Another explanation of the benefit of tempered microrough surfaces
+
+Improved chemistry may also contribute to the increased osteoblast attachment and proliferation observed on tempered microrough titanium surfaces. Surface oxygen plays a crucial role in promoting osteoblast proliferation on implant surfaces, facilitating more pronounced cellular spreading and phenotypic changes [–]. A study compared osteoblastic attachment and growth on machined titanium specimens sputter-coated with Ti and TiO2, with the TiO2-coated surface having four times greater surface oxygen []. Cell proliferation was faster on TiO2 surfaces up to 60%, while the differentiation was not significantly modulated. Additionally, advancements in technology, such as pico-technology, enable the deposition of an extremely thin layer of molten TiO(300 picometers to 6.3 nanometers) onto microrough titanium surfaces without altering their topography []. On these surfaces, the number of osteoblasts attaching after 6 h of culture increased linearly with the surface oxygen percentage. Furthermore, robust cytoplasmic projections were observed spreading from the osteoblast bodies. Thus, the increased surface oxygen may partially explain the advantages of the TiOnanonodule-mediated microrough tempering.
+
+Meso-structuring to increase the surface area
+
+Surface morphology and biological impact
+
+Surface morphology of biomaterials encompasses various features such as topography, pattern/order, roughness, spacing, and even mechanical properties. Meso-structuring of titanium, as discussed here, aims to optimize both topography and spacing factors to attract, settle, and cluster cells effectively.
+
+As illustrated in Fig.A, considering that osteoblasts typically range from 30 to 80 μm in diameter, increasing the surface area at the meso-scale (> 10 μm) rather than at the micro- or nano-scale may prove to be an effective strategy for optimal cell settlement and colonization on implant surfaces. Although there are limited studies on meso-surface topographical alterations [], one study achieved meso-texturing of titanium through aggressive, high-temperature acid etching, resulting in the creation of meso-scale (> 10 μm) spikes alongside typical micro-pits on titanium surfaces, thereby generating a three-layered (meso-, micro-, nano-) rough titanium surface []. The meso-roughness was characterized by vigorous protrusions of 10–70 μm in width and height, while the micro-roughness resembled the sharp-edged micro-pits formed by acid-etching, and the nano-roughness was represented by polymorphic structures (see Fig.B, C). Compared to regular acid-etched, microrough surfaces, the average roughness increased up to tenfold. Since the surface was created via a subtractive method like acid-etching, there are no concerns regarding structure delamination or dissociation, as reported in titanium surfaces created by additive methods such as titanium plasma spray or hydroxyapatite coating.
+
+Fig. 5
+
+Meso-structuring as a strategy to mitigate the drawbacks of microrough surfaces by increasing the surface area. () A schematic of the meso-textured titanium surface to provide more surface for cells to attach, settle, and proliferate. () A low SEM image of a meso-structured titanium surface. High-temperature acid etching created meso-scale spikes (areas surrounded by white arrowheads) all over the surface, along with micropits similar to the typical microrough titanium surface shown in Fig.. () A focused SEM image of a meso-spike (area surrounded by a dotted line). Nano-scale structures in polymorphic forms are visible within the micropits, creating a meso-, micro-, and nano-hierarchical rough titanium surface
+
+Despite the substantial increase in roughness, the number of primary osteoblasts attaching over 24 h was not compromised, and their cellular behavior significantly improved on meso-textured surfaces []. Furthermore, the surface promoted functional differentiation, indicating significant mitigation of the limitations of microrough surfaces while simultaneously enhancing their advantages []. Due to the remarkable increase in surface area, more osteoblasts attach and proliferate on meso-structured surfaces compared to microrough surfaces as strategized in Fig.A, thereby offsetting the drawbacks associated with rougher surfaces.
+
+Meso-structuring and roughness tempering on zirconia
+
+A similar approach to increase surface area and temper roughness configuration has been applied to zirconia surfaces, which are increasingly utilized in the dental implant market due to their advantageous properties, including a color similar to bone and teeth, reduced allergic reactions compared to titanium, and reportedly better biocompatibility with gingival tissues [–].
+
+To introduce meso-scale grooves, injection-molded yttria-stabilized tetragonal zirconia polycrystal (Y-TZP) was etched using a solid-stage laser [–]. Additionally, crisscrossing laser-etching was employed to create meso-scale peaks (Fig.A). The resulting etched surface displayed an array of 50–60 μm wide, variably high cactus-inspired spikes (Fig.B, C). These meso-spikes featured 200–300 nm trabecular bone-inspired interwoven nodular structures throughout the surface (Fig.C). All surface configurations were rounded and curved to minimize sharp edges and angles, akin to the nano-nodular structuring protocol used on titanium. The height and width of meso-spikes were meticulously controlled.
+
+Fig. 6
+
+Meso-structuring on zirconia. () Strategy to create meso-scale spikes via crisscrossing, solid-state laser etching. (,) SEM images of the laser-created meso-spikes on zirconia with simultaneously created nanonodules. The spikes and nodules mimic cactus and trabecular bone, respectively, creating a dual bio-inspired zirconia surface. (,) The cactus-inspired meso-structing successfully accomplished on prototype, zirconia dental implants
+
+Compared to polished smooth zirconia surfaces, the meso-spikes significantly increased surface roughness, with the average roughness of the 40 μm-high spike surface rising from 0.10 to 7.7 μm, and the surface area increasing 2.5-fold []. Interestingly, despite the increase in surface roughness with the elevation of meso-spikes, the number of osteoblasts attaching at 24 h remained uncompromised []. Thus, the benefits of the increased surface area outweighed the negative impact of the increased surface roughness. As expected, the rate of osteoblast differentiation surged on the meso-and-nano hybrid surface, leading to elevated alkaline phosphate production and calcium deposition in vitro, as well as enhanced osseointegration in vivo [].
+
+Solid-state laser etching has demonstrated feasibility in creating prototype dental implants with the bio-inspired meso- and nano-hybrid surface morphology (Fig.D, E). A recent computational fluid dynamic (CFD) modeling study unveiled that this specific meso-structuring enhanced blood and protein recruitment and retention at the implant interface by altering and slowing down the vector of blood flow []. Consequently, osseointegration around meso- and nano-structured zirconia implants was notably augmented [].
+
+The surface features and properties of titanium and zirconia presented in this paper, along with their representative effects on osteogenic cells, are summarized in Table. Surface technology has evolved such that advanced surfaces mitigate or overcome the biological disadvantages of their predecessors.
+
+Table 1
+
+Surface features and properties of titanium and zirconia introduced in this review and their biological effects on osteogenic cells
+
+Surface/material
+
+Machined Ti
+
+Microrough Ti
+
+Soft-edge microrough Ti
+
+Meso-and-micro rough Ti
+
+Machined Zr
+
+Meso-and-nano Zr
+
+UV-photofunctionalized Ti
+
+Technique
+
+Machine-milling
+
+Acid-etching, sandblasting, etc.
+
+Ti sputter-coating on microrough Ti
+
+High-temperature acid-etching
+
+Machine-milling
+
+Laser-etching
+
+Ultraviolent light treatment
+
+Average roughness (Sa)
+
+0.1–0.2 μm
+
+1.0–2.0 μm
+
+2.0–4.0 μm
+
+5.0–7.0 μm
+
+0.1–0.2 μm
+
+7.0–10.0 μm
+
+No change
+
+Surface physicochemistry
+
+TiO2
+
+TiO2
+
+Deposited TiO2
+
+TiO2
+
+YTZP
+
+YTZP
+
+TiO2 with reduced carbon. Superhydrophilic
+
+Osteogenic cell activity
+
+Attachment +
+
+Proliferation +
+
+Differentiation −
+
+Attachment −
+
+Proliferation −
+
+Differentiation +
+
+Attachment +
+
+Proliferation +
+
+Differentiation +
+
+Attachment +
+
+Proliferation +
+
+Differentiation +
+
+Attachment +
+
+Proliferation +
+
+Differentiation −
+
+Attachment +
+
+Proliferation +
+
+Differentiation +
+
+Attachment +
+
+Proliferation +
+
+Differentiation +
+
++: promoted or accelerated; −: suppressed or delayed
+
+UV photofunctionalization
+
+Hydrocarbon pellicle
+
+Physicochemical properties such as superficial chemistry, hydrophilicity/hydrophobicity, and electrostatic charge play crucial roles in determining the biocompatibility and bioactivity of biomaterials [,–]. However, these properties have often been overlooked or studied limitedly due to their invisible nature, assessment difficulties, and interdependency. For instance, impurities on biomaterials significantly affect surface energy, yet detecting such minor elements or contaminants without advanced devices like X-ray photoelectron spectroscopy (XPS) is challenging [–]. Furthermore, contaminants, hydrophilicity, and electrostatic changes can vary independently and dependently [,–]. UV photofunctionalization aims to optimize these physicochemical properties of titanium [–].
+
+Titanium surfaces readily and inevitably adsorb organic molecules from the ambient atmosphere [,], such that ordinary titanium surfaces, regardless of whether they are experimental specimens or commercial implant devices, are covered with hydrocarbon molecules [,–]. The hydrocarbon layer, or implant pellicle, is significant, as it contaminates bioinert titanium surfaces [,–]. The pellicle develops over time to increase the atomic percentage of surface carbon (detected by X-ray photoelectron spectroscopy; XPS) by 40–55% and up to over 75% depending on the age of titanium and the surface finish and storage conditions [,,,,]. XPS samples to within 10 nm, within which the layer of passive titanium oxide formed at room temperature measures ∼ 5.5 nm. Therefore, it is reasonable to estimate that the hydrocarbon layer is 4–5 nm thick, which is consistent with the reported atomic percentage of carbon. Thus, the hydrocarbon pellicle is as thick or dense as titanium oxide and should not be ignored, as both osteoblast and bone attachment are reduced on pellicled surfaces. One non-topographical strategy to mitigate the challenges of osteoblasts and the drawback of microrough surfaces could be to “cleanse” the surface and remove hydrocarbon pellicles. UV photofunctionalization has proven to be an effective means to decrease hydrocarbon contamination, making titanium surfaces molecularly clean and genuine by removing the hydrocarbon pellicle [–]. Additionally, UV-treated surfaces become biomimetically super-hydrophilic [–], thereby promoting cell attachment and proliferation while maintaining differentiation.
+
+UV-mediated removal of the hydrocarbon pellicle
+
+UV-mediated removal of the hydrocarbon pellicle, known as UV photofunctionalization, involves treating titanium with UV light immediately prior to use. This method was developed to decompose and eliminate hydrocarbons present on contaminated titanium surfaces, revealing osteoconductive titanium oxide layers [,,–]. Hydrocarbons can be decomposed via three mechanisms: (1) ozone-mediated or non-mediated photochemical decomposition; (2) photophysical decomposition by UV light energy; (3) photocatalytic decomposition induced by titanium dioxide-UV interaction, where 1) and 3) are carried out via the production of reactive oxygen species (ROS) that attack hydrocarbons [,]. As a secondary effect following carbon removal [], UV photofunctionalized titanium surfaces turn from hydrophobic to superhydrophilic as demonstrated in Fig., fulfilling the two goals of biomimetically hydrophilic and molecularly biocompatible. Initially, UV photofunctionalization required 48-hour exposure of titanium specimens during the early stages of research []. However, advancements in technology have reduced this exposure time to 20 min or even 12 min [,,,,,,,,–]. More recently, the next generation of UV photofunctionalization employs high-energy vacuum UV (VUV) light with a wavelength of 172 nm, proving effective with just 1 min of exposure [,,,,] (Fig.).
+
+Fig. 7
+
+UV photofunctionalization as a physicochemical strategy to overcome the drawback of microrough titanium surfaces. Hydrophobicity/hydrophilicity state of dental implants with or without UV photofunctionalization. Sequential, side-view images depict the behavior of 5 μl ddHO placed on the implants. The implant surfaces are prepared through sandblasting and acid-etching techniques. UV photofunctionalization involves a 1-minute treatment using vacuum UV (VUV) light with a wavelength of 172 nm
+
+Biological impact
+
+Numerous in vitro studies have been conducted to assess the biological impact of UV photofunctionalization on osteoblasts, with the hypothesis that it enhances initial interactions between titanium and cells, leading to increased cell attachment and proliferation. Notably, on day 5 of culture, the number of osteoblasts growing on machined titanium surfaces was three times greater than that on acid-etched microrough surfaces []. V photofunctionalization augmented the number of osteoblasts on both machined and microrough surfaces, resulting in a cell count on UV-treated microrough surfaces that nearly matched that on untreated machined surfaces [], effectively offsetting the disadvantage of microrough surfaces. Increased cell proliferation was also confirmed by elevated BrdU incorporation into DNA []. Additionally, UV photofunctionalization induced cellular spreading and cytoplasmic projections in vigorously proliferating cells [,]. The rate of differentiation was slightly improved by the increased intercellular interactions due to the accelerated colonization and clustering [,]. Consequently, UV-photofunctionalized titanium achieved robust osseointegration (98.2%) in animal models, nearing complete bone-implant contact []. Moreover, mechanically, osseointegration was three times stronger for UV-treated implants at week two, during the early healing period [].
+
+In a rabbit study, UV photofunctionalization was shown to increase bone-implant contact from 57.8 to 88.4% and double the bone volume []. Osteoblast recruitment to UV-treated sites through micropores increased eightfold [] and it required 42 times the energy to delaminate osteoblasts from the surfaces [,]. Additionally, protein adsorption to titanium increased two to five times on photofunctionalized surfaces Computational fluid dynamics (CFD) studies demonstrated that the amount of blood and proteins carried to microrough implant surfaces is less than half that carried to smooth implant surfaces []. However, when the microrough surfaces are hydrophilic, the flow of blood and proteins is doubled, fully offsetting the disadvantage of microrough surfaces These ancillary biological effects collectively contributed to the increased attachment, behavior, and proliferation of osteoblasts, thereby overcoming the osteoblast-rough surface dilemma. The enhanced osteoblastic proliferation and differentiation induced by UV photofunctionalization are supported by clinical outcomes demonstrating reduced healing time [], accelerated establishment of implant anchorage [–], increased success rate [], and expanded indication of implant therapy [,,].
+
+UV photofunctionalization on different titanium surfaces and devices
+
+UV photofunctionalization has demonstrated effectiveness not only on acid-etched microrough titanium surfaces but also on other titanium surfaces with varying roughness characteristics [,]. For instance, sandblasted surfaces with relatively large-scale roughness compared to acid-etched microrough surfaces have shown increased osteoblast recruitment after UV photofunctionalization [], with maintained or slightly increased rates of differentiation. Furthermore, UV photofunctionalization has been explored in experimental and clinical applications involving other titanium devices. Titanium mesh plates with microrough surfaces exhibited enhanced osteoblastic attachment following UV treatment without impeding differentiation in vitro, suggesting its potential for guided bone regeneration [,–]. Similarly, titanium microfibers with microrough textures showed increased osteoblast attraction and attachment upon UV photofunctionalization compared to untreated controls, offering a promising avenue for titanium-driven bone engineering [,,].
+
+Moreover, UV photofunctionalization has been found effective on zirconia [,,,,], titanium alloy [,], TiNi [], and chromium-cobalt alloy []. This broad applicability underscores the versatility and potential of UV photofunctionalization as a surface modification technique for enhancing the biocompatibility and bioactivity of various dental and orthopedic implant materials beyond titanium surfaces.
+
+Utilizing fresh titanium
+
+Freshly surfaced titanium has been demonstrated to exhibit greater bioactivity compared to older titanium surfaces, although the precise mechanisms underlying this phenomenon remain unclear. One hypothesis suggests that newer titanium surfaces, having been exposed to the environment for a shorter duration, accumulate fewer hydrocarbons [,]. In a series of in vitro and in vivo studies, freshly acid-etched titanium disks exhibited minimal carbon deposition; the atomic percentages of carbon were 16% and 62% on new and four-week-old titanium surfaces, respectively []. Additionally, freshly prepared microrough titanium surfaces displayed extensive hydrophilic properties [,,,,].
+
+On day 5 of culture, 60% fewer osteoblasts were observed on four-week-old acid-etched microrough titanium surfaces compared to similarly aged machined surfaces. However, 30% more osteoblasts were present on the new acid-etched microrough titanium surfaces than on the four-week-old machined surfaces, indicating that the age of the titanium surface has a greater impact on proliferation than surface roughness []. Functional differentiation of osteoblasts, assessed by ALP production and matrix mineralization, was not compromised despite the increased cell proliferation on fresh surfaces. Similar observations were noted for sandblasted, microrough titanium surfaces, and sandblasted CoCr alloy surfaces [,].
+
+Fresh surfacing of titanium surfaces has been shown to increase cell attachment, proliferation, and recruitment and increase adsorption of cell-binding RGD-containing proteins such as fibronectin []. These results suggest the new titanium surfaces that are hydrocarbon pellicle-free exhibit a similar effect to UV photofunctionalized titanium surfaces in overcoming the biological dilemmas of osteoblasts and microrough surfaces, thereby re-validating UV photofunctionalization as a novel, effective measure to re-activate old implants, literally transforming old implants to new implants.
+
+Maintaining the freshness of titanium surfaces has been attempted by storing acid-etched titanium specimens in NaCl solution to prevent hydrocarbon pellicle accumulation and preserve surface hydrophilicity [,]. Saline-submerged titanium specimens exhibited surface carbon content of less than 20%; however, the storage duration was not reported []. The surface was hydrophilic when examined after drying under nitrogen gas. Nonetheless, the number of osteoblasts attached to NaCl-submerged titanium surfaces was significantly lower than that of control surfaces [], while the differentiation markers were increased [,], suggesting the effect of surface decarbonization and hydrophilicity can not be generalized.
+
+Thus, strategies to prevent hydrocarbon pellicle formation can be considered anti-aging approaches for titanium implants. Coating freshly acid-etched surfaces with HEPES, a nonvolatile buffer, maintained their superhydrophilicity for at least 3 months and resulted in continuous retention of bioactivity and osteoconductivity comparable to freshly prepared surfaces []. This anti-aging coating also served as a drug delivery vehicle; indeed, delivery of an antioxidant amino acid derivative, N-acetyl cysteine (NAC), via HEPES synergistically enhanced the osteoconductivity of the anti-aging titanium surface []. Furthermore, aforementioned micro-tempering using nanonodular texturing may exert anti-aging effects on titanium. A study revealed that 7-day-old micro-and-nano hybrid surfaces recruited the same quantity of osteoblasts as freshly prepared surfaces, while 7-day-old microrough surfaces attracted fewer cells compared to their fresh counterparts [].
+
+Synergy of UV photofunctionalization and microrough tempering
+
+After demonstrating the individual effects of nano-nodular structuring and UV photofunctionalization in alleviating the biological challenges posed by the inverse osteoblast kinetics on rough surfaces, the hypothesis of combining these two technologies was tested. Osteoblasts were cultured on nano-micro hybrid titanium surfaces with various sizes of nanonodules, with or without UV photofunctionalization []. The number of osteoblasts recruited and attached to the hybrid surfaces was significantly greater than on surfaces with micro-pits alone, a phenomenon further amplified by UV photofunctionalization. Hybrid structuring increased recruitment and attachment by 2-4-fold, and UV photofunctionalization enhanced this effect by an additional 2-4-fold, indicating a synergistic interaction [].
+
+Interestingly, regression analyses revealed a positive correlation between the effect of UV photofunctionalization and the increase in surface area due to nano-texturing, highlighting the beneficial impact of surface tempering on the efficacy of UV photofunctionalization, particularly when coupled with increased surface area []. Moreover, the impact of UV photofunctionalization was found to be greater than that of nanonodular texturing []. Although nano-structuring was optimized to maximize susceptibility to UV photofunctionalization, the extensive benefits conferred by UV photofunctionalization overshadowed the variable effects of nanotexturing.
+
+Conclusion
+
+The inverse correlation between osteoblastic proliferation and differentiation on roughened surfaces has been a profound challenge to developing next-generation titanium implant surfaces. Microrough surfaces, the most commonly used surface in dental implants, promote rapid but thin bone formation, whereas machined, smooth surfaces facilitate slower but more voluminous bone formation. In vitro, osteoblast differentiation accelerates but proliferation slows on microrough surfaces, with significantly compromised attachment and initial spreading behavior. This review focused on nano-nodular texturing, meso-structuring, and UV photofunctionalization as prospective solutions to this problem. Nano-nodular texturing of microrough titanium tempers and rounds sharp peaks and edges while preserving the primary micro-pit configuration. Despite an increase in surface roughness, osteoblast attachment and proliferation are significantly amplified on nanotextured, micro-tempered surfaces, with osteoblasts demonstrating enhanced differentiation. Meso-texturing involves creating meso-scale (> 10 μm) spikes with typical micro-pits that effectively increase implant surface area, allowing more osteoblasts to attach and proliferate on the meso-and-micro hybrid surfaces compared with microrough surfaces, counteracting the drawbacks of rougher surfaces. UV photofunctionalization purifies surfaces by eliminating the hydrocarbon pellicle that inevitably accumulates on titanium surfaces over time, transforming surfaces into biomimetically hydrophilic entities. Photofunctionalized microrough surfaces increase cell attachment and proliferation while maintaining accelerated differentiation. These topographical and physicochemical strategies effectively alleviate and even resolve the biological challenges of osteoblast kinetics and rough surfaces and now need full exploitation and implementation for the development of next-generation implants.
