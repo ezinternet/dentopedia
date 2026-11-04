@@ -86,7 +86,45 @@ Deploy order (in `deploy-pages.yml`): `build-wiki-stats.py` → `build-interacti
 
 *Why*: 2026-08-27 실측 — 84개 도구 중 30개(36%)가 wiki taxonomy 값을 달고 '기타·미분류' 한 덩어리에 몰려 있었다. 빌드는 성공하고 도구도 다 보였기 때문에 어떤 감사에도 안 걸렸고, 배포 사이트에서 **분류만 조용히 무너진** 상태였다.
 
-## 7. Interactive HTML 디자인 규칙 (항상 적용)
+## 7. Interactive 캐시 버전 관리 기준 (항상 적용)
+
+**배경**: GitHub Pages는 HTML을 적극적으로 브라우저 캐시에 저장한다. 오래된 탭을 열거나 메뉴에서 직접 진입 시 구버전이 표시되는 문제가 반복됨 (2026-11-04 데미안님 보고).
+
+**모든 `interactives/` HTML 파일에 필수 적용:**
+
+```js
+/* 파일 상단 JS 블록에 삽입 */
+const PAGE_VERSION = 'YYYYMMDD-vN';   // ← 콘텐츠 업데이트 시 반드시 범프
+const _VK = 'TOOL_NAME_ver';           // ← 도구별 고유 key (파일명 기반)
+const _HK = 'TOOL_NAME_hidden';
+
+try {
+  const sv = localStorage.getItem(_VK);
+  if (sv && sv !== PAGE_VERSION) { localStorage.setItem(_VK, PAGE_VERSION); location.reload(true); }
+  else localStorage.setItem(_VK, PAGE_VERSION);
+} catch(e) {}
+document.addEventListener('visibilitychange', () => {
+  if (document.hidden) {
+    try { localStorage.setItem(_HK, Date.now()); } catch(e) {}
+  } else {
+    try {
+      const ht = parseInt(localStorage.getItem(_HK) || '0');
+      if (ht && (Date.now() - ht) > 30 * 60 * 1000) {  // 30분 이상 숨겨진 후 복귀 시 리로드
+        localStorage.setItem(_HK, '0');
+        location.reload(true);
+      }
+    } catch(e) {}
+  }
+});
+```
+
+**동작 방식**: ① 페이지 로드 시 localStorage에 버전 저장 ② 탭이 30분 이상 숨겨진 후 복귀 → 강제 리로드 ③ 버전이 달라지면(= 다른 세션이 같은 도구를 업데이트) 즉시 리로드.
+
+**업데이트 절차**: 콘텐츠 변경 시마다 `PAGE_VERSION`을 `YYYYMMDD-vN+1`로 범프 → commit → push. GitHub Pages 재배포 후 오래된 탭은 다음 복귀 시 자동 리프레시됨.
+
+**면제**: `wiki-stats-live.html`(자동생성 대시보드)은 JS 버전 블록 불필요 — 매 배포마다 새 파일이 생성됨.
+
+## 8. Interactive HTML 디자인 규칙 (항상 적용)
 
 **라이트 고정 — OS 다크 모드 무시.** 임상 인터랙티브는 환경에 관계없이 항상 라이트로 렌더링한다.
 
