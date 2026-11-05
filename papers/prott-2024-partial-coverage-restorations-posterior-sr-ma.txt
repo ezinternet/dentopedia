@@ -1,0 +1,161 @@
+Title: Survival and Complications of Partial Coverage Restorations on Posterior Teeth—A Systematic Review and Meta-Analysis
+DOI: 10.1111/jerd.13353
+PMID: 39558793
+PMC: PMC12076112
+Journal: J Esthet Restor Dent 2024;37(3):620-641
+Authors: Prott LS et al. (Düsseldorf / Penn Dental)
+
+SOURCE: PubMed fulltext via PMC12076112
+
+================================================================================
+
+1 Introduction
+
+Advancements in adhesive dentistry and CAD/CAM technology have introduced a paradigm shift in restorative dentistry, moving from full-coverage crowns to minimally invasive, defect-oriented restorations. Compared to crowns, partial coverage restorations (PCR) can preserve residual sound tooth structure and achieve a superior bond strength when bonded to enamel. Full-coverage crown preparations remove 67.5-75.6% of tooth substance vs 35.5-46.7% for PCRs.
+
+The term "partial coverage restoration" includes:
+- Inlays: do not cover any cusp
+- Onlays: cover at least one or more cusps
+- Partial crowns: cover larger portions but leave at least one axial surface uncovered
+
+Ceramic systems for PCRs:
+- Silicate ceramics: feldspar porcelain, leucite-reinforced glass ceramics (LRGC), lithium disilicate (LDS)
+- Polycrystalline ceramics
+- Resin matrix ceramics (RMC): PICN (polymer-infiltrated ceramic network) or resin nano ceramics
+
+LRGC: ~35% leucite crystals by volume. LDS: 3-4x higher strength than glass-rich ceramics (118 MPa baseline). RMC: combines polymer flexibility with ceramic color stability.
+
+================================================================================
+
+2 Materials and Methods
+
+PROSPERO: CRD42024542471
+PRISMA compliant systematic review.
+
+PICO:
+- P: Patients with extended defects treated with PCRs on posterior teeth
+- I: Ceramic and ceramic-based PCRs (Onlays, occlusal veneers, partial crowns)
+- C: Different ceramic and ceramic-based materials
+- O: Restoration failure and complications
+- S: RCTs only
+
+Search: MEDLINE (PubMed), Cochrane CENTRAL, Scopus, WHO ICTRP, ClinicalTrials.gov
+Date: inception to 19 February 2024
+Language: English only
+
+Inclusion: RCTs, minimum 12-month follow-up, ≥10 patients, clinical examination at follow-up, commercially available materials, permanent teeth, separate outcomes per material and restoration type.
+
+Exclusion: case reports/series, in vitro, non-RCT, inlays, cast restorations (gold/metal), non-English.
+
+Risk of bias: Cochrane RoB 2.0 tool.
+Certainty: GRADE approach (GRADEpro software).
+Statistics: Poisson distribution for IR; random-effects model; IRR with 95% CI; Stata 16.1.
+
+================================================================================
+
+3 Results
+
+3.1 Study Selection
+- 12,592 records identified
+- After deduplication (Deduklick): 7,912 screened
+- 123 full-texts reviewed; 117 excluded
+- 6 RCTs included (head-to-head ceramic comparisons)
+- Total: 472 PCRs in 324 participants
+
+Included RCTs:
+1. Fasbinder et al. 2020 — LRGC vs RMC onlays, 60mo, n=86 total
+2. Guess et al. 2013 — LDS vs LRGC partial crowns, 84mo, n=25
+3. Hassan et al. 2024 — LDS vs RMC onlays, 24mo, n=20
+4. Schlichting et al. 2022 — LDS vs RMC occlusal veneers, 27mo, n=11
+5. Souza et al. 2021 — LDS vs RMC onlays, 12mo, n=20
+6. Zhang et al. 2022 — LDS vs RMC onlays, 36mo, n=64
+
+3.2 Risk of Bias
+All studies conducted in academic settings. Concerns about randomization process and deviation from intended intervention in several studies.
+
+3.3 Outcomes
+
+3.3.1 Survival/Failure Rates
+Meta-analysis: 4 studies (Hassan, Schlichting, Souza, Zhang) — 252 restorations
+
+3-year survival rates:
+- LDS: 93.7% (95% CI 83.7-97.7)
+- RMC: 89.3% (95% CI 76.4-95.3)
+- LRGC: 96.1% (95% CI 90.1-98.9) vs RMC [Fasbinder]
+- LRGC: 98.3% (95% CI 90.8-100) vs LDS [Guess]
+
+Failure incidence rates:
+- LDS: 2.13/100 restoration-years (95% CI 0.79-5.74)
+- RMC: 3.69/100 restoration-years (95% CI 1.59-8.57)
+
+IRR (RMC vs LDS): 1.74 (95% CI 0.54-5.57); p=0.228 — NOT statistically significant
+Absolute: RMC 1.56 more failures per 100 restoration-years (low certainty)
+I²=0%, tau²=0 — no heterogeneity
+
+3.3.2 Bulk Fracture
+- LDS: 1.07/100 years (95% CI 0.35-3.33)
+- RMC: 0.32/100 years (95% CI 0.05-2.27)
+IRR: 0.53 (95% CI 0.20-1.37); p=0.124 — RMC FEWER bulk fractures (not significant)
+Absolute: RMC 0.75 fewer bulk fractures/100 restoration-years (low certainty)
+
+3.3.3 Chipping
+- LDS: 1.89/100 years (95% CI 0.70-5.09)
+- RMC: 2.29/100 years (95% CI 0.97-5.40)
+IRR: 1.10 (95% CI 0.26-4.57); p=0.849 — no difference
+
+3.3.4 Loss of Retention
+- LDS: 0.98/100 years (95% CI 0.23-4.14)
+- RMC: 2.76/100 years (95% CI 0.93-8.24)
+IRR: 1.54 (95% CI 0.01-196.50); p=0.740 — not significant
+Absolute: RMC 1.78 more debondings/100 restoration-years (low certainty)
+
+3.3.5 Endodontic Complications
+- LDS: 0.53/100 years (95% CI 0.05-5.39)
+- RMC: 0.92/100 years (95% CI 0.14-5.98)
+IRR: 1.16 (95% CI 0.20-6.79); p=0.811 — no difference
+
+3.3.6 Tooth Fracture
+Rare; RMC arm: 0.67/100yr (Fasbinder), 0.58/100yr (Zhang). Zero events for LDS in tooth fracture. Very low certainty.
+
+3.3.7 Secondary Caries
+No events reported in any study.
+
+3.3.8 Marginal Adaptation
+Short/mid-term: high quality. Long-term: deterioration noticeable (low certainty). No significant difference RMC vs LDS short-term.
+
+3.3.9 Aesthetic/Surface Properties
+Heterogeneous. RMC: more deterioration in surface luster early (6mo). LDS: better surface stability overall. Very low certainty.
+
+3.3.10 Preparation/Restoration Thickness
+Occlusal reduction: 1.5-2mm for most; 0.4-0.6mm (central groove) to 1.0-1.3mm (cusp tips) for occlusal veneers (Schlichting). Restoration thickness: 1.5-2mm typical; 0.55-1.0mm for ultra-thin occlusal veneers.
+
+3.4 Subgroup: Tooth Vitality
+No significant differences vital vs non-vital for any outcome (RMC vs LDS).
+
+================================================================================
+
+4 Discussion
+
+First SR+MA with RCTs comparing PCR ceramic materials directly (not vs crowns or composites).
+
+Key findings:
+- LDS slightly outperforms RMC for failure and loss of retention (not statistically significant, short-term)
+- RMC slightly better for bulk fracture (elastic properties → stress absorption)
+- RMC more susceptible to bonding failure if protocol not optimal (lower bond strength without proper surface treatment)
+- LDS HF-etched + universal adhesive: 100.31 ± 10.7 MPa; RMC without pretreatment: 23.63 ± 9.0 MPa; RMC with sandblasting + universal adhesive: 100.19 ± 19.7 MPa
+- Minor chipping in RMC may be repairable with composite resin (advantage over all-ceramic)
+- Previous SR: 5yr survival 92% glass ceramic, 90-95% feldspar ceramic
+
+Limitations:
+- Majority short-term follow-up only
+- English language only
+- No zirconia PCR RCTs found
+- Small sample sizes; dropout up to 44%
+
+================================================================================
+
+5 Conclusion
+
+LDS survival slightly outperforms RMC at 3 years (across most outcomes except bulk fracture). No statistically significant differences between materials short-term (1-3 years). Long-term performance uncertain. Ceramic and ceramic-based PCRs are a reliable treatment option for extended posterior defects.
+
+RCTs with split-mouth design, larger samples, and longer follow-up are needed.
