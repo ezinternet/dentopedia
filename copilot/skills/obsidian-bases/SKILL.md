@@ -1,10 +1,10 @@
 ---
 name: obsidian-bases
-description: Create and edit Obsidian Bases (.base files) with valid YAML schemas, filters, formulas, properties, summaries, and views. Use for database-like Obsidian views or when the user mentions Bases, .base files, table/card/list views, filters, formulas, or summaries.
+description: Create and edit Obsidian Bases (.base files) with valid YAML filters, formulas, properties, summaries, and table/cards/list views, including the columns a view shows (order) and its row sorting (sort). Load before writing or changing any .base file or embedding a base view, or when the user mentions Bases, database-like views, filters, formulas, sorting, grouping, or summaries.
 license: MIT
 metadata:
   copilot-enabled-agents: opencode, claude, codex
-  copilot-builtin-version: "1"
+  copilot-builtin-version: "3"
   copilot-upstream-revision: "a1dc48e68138490d522c04cbf5822214c6eb1202"
 ---
 
@@ -28,7 +28,7 @@ filters:
     - 'status != "archived"'
 
 formulas:
-  days_until_due: 'if(due, (date(due) - today()).days, "")'
+  days_until_due: 'if(due, (date(due) - today()).days.round(), "")'
 
 properties:
   status:
@@ -49,7 +49,11 @@ views:
     order:
       - file.name
       - status
+      - due
       - formula.days_until_due
+    sort:
+      - property: due
+        direction: ASC
     groupBy:
       property: status
       direction: ASC
@@ -59,6 +63,11 @@ views:
 
 Views may be <code>table</code>, <code>cards</code>, or <code>list</code>.
 A <code>map</code> view depends on compatible map support.
+
+<code>order</code> sets which properties a view shows; <code>sort</code> sets
+row order, one <code>property</code>/<code>direction</code> entry per key,
+applied in turn. Obsidian sorts only by properties that are also listed in
+<code>order</code>, so include every sort property there.
 
 ## Filters and properties
 
@@ -82,7 +91,8 @@ embedding note, or the active file depending on where the Base is rendered.
 - Guard optional properties with <code>if()</code>.
 - Date subtraction returns a Duration, not a number. Access
   <code>.days</code>, <code>.hours</code>, or another numeric field before
-  calling number methods such as <code>.round()</code>.
+  calling number methods such as <code>.round()</code>. Round day counts:
+  across a daylight-saving change <code>.days</code> can be fractional.
 - Every <code>formula.X</code> used by a view or property configuration must
   have a matching <code>X</code> entry under <code>formulas</code>.
 - Wrap formulas containing double quotes in YAML single quotes.
@@ -99,7 +109,12 @@ task-tracker and daily-notes Bases.
 - View <code>order</code>, <code>groupBy</code>, and summaries reference defined
   note, file, or formula properties.
 - Formula quoting is balanced and duration math accesses a numeric field.
-- Embedded view names match exactly: <code>![[My Base.base#View Name]]</code>.
+- Every <code>sort</code> property also appears in that view's <code>order</code>.
+- An embed names the view exactly as its <code>name</code>:
+
+~~~markdown
+![[My Base.base#View Name]]
+~~~
 
 ## Attribution
 
