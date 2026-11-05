@@ -1,10 +1,17 @@
 ---
+title: "지르코니아 인레이 세팅 SOP"
+type: slides
+date: 2026-11-05
+status: done
+source_wiki:
+  - wiki/dental-materials/zirconia/al-akhali-2025-zirconia-cleaning-bonding-duration.md
+  - wiki/dental-materials/zirconia/nasri-2025-surface-conditioning-zirconia-bonding-umbrella.md
+agenda: agenda/2026-11-05_seminar_zirconia-inlay-cementation-sop-slides.md
 marp: true
 theme: dentopedia
 paginate: true
 size: 16:9
 lang: ko
-title: "지르코니아 인레이 세팅 SOP"
 description: "APA → 세정 → 프라이머 → 접착의 근거기반 프로토콜 (Al-Akhali 2025, Nasri 2025)"
 ---
 
