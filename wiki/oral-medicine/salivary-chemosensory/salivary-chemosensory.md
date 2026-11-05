@@ -2,7 +2,7 @@
 title: "구강내과·타액선·미각기능장애 — salivary-chemosensory"
 authors: navigation
 year: 2026
-date: 2026-10-01
+date: 2026-11-05
 doi: N/A
 source: navigation
 category: oral-medicine/salivary-chemosensory
@@ -15,24 +15,28 @@ tags: [navigation, category-index, salivary-chemosensory]
 > [!summary] 한국어 핵심요약
 > - **분야**: 구강내과·타액선·미각기능장애
 > - **범위**: Salivary secretory & chemosensory dysfunction — xerostomia/hyposalivation (etiology & cellular targets, drug-induced/antihypertensive, artificial saliva, pharmacological & traditional management, impact on dental-treatment outcomes) and taste/chemosensory disorders (dysgeusia/ageusia from zinc defic…
-> - **수록 논문**: 13편
+> - **수록 논문**: 18편
 
 ## Three-line Summary
 
 **Scope**: Salivary secretory & chemosensory dysfunction — xerostomia/hyposalivation (etiology & cellular targets, drug-induced/antihypertensive, artificial saliva, pharmacological & traditional management, impact on dental-treatment outcomes) and taste/chemosensory disorders (dysgeusia/ageusia from zinc deficiency, head-and-neck radiation, COVID-19, Sjögren-related chemosensory impairment).
-**Indexed papers**: 13 papers in `wiki/oral-medicine/salivary-chemosensory/`.
+**Indexed papers**: 18 papers in `wiki/oral-medicine/salivary-chemosensory/`.
 
 ## 세줄요약
 
 **분야**: 구강내과·타액선·미각기능장애
-**수록 논문**: 13편
+**수록 논문**: 18편
 **하위 카테고리**: 없음
 
-## Papers in this Category (13)
+## Papers in this Category (18)
 
 | Paper |
 |---|
 | [[alhejoury-2021-artificial-saliva-xerostomia-narrative-review|Artificial Saliva for Therapeutic Management of Xerostomia: A Narrative Review]] |
+| [[amiri-2025-drug-induced-tongue-disorders-a|Drug-induced Tongue Disorders: A Comprehensive Literature Review.]] |
+| [[amorim-2020-oral-manifestations-covid19-living|Oral Manifestations in Patients with COVID-19: A Living Systematic Review.]] |
+| [[amorim-2021-oral-manifestations-covid19-6month|Oral Manifestations in Patients with COVID-19: A 6-Month Update.]] |
+| [[gunn-2021-taste-dysfunction-following-radiotherapy-to|Taste dysfunction following radiotherapy to the head and neck: A systematic review.]] |
 | [[kim-2023-xerostomia-cellular-targets|Xerostomia and Its Cellular Targets]] |
 | [[kodama-2020-zinc-deficiency-guidelines-taste-disorders|Japan's Practical Guidelines for Zinc Deficiency with a Particular Focus on Taste Disorders, Inflammatory Bowel Disease, and Liver Cirrhosis]] |
 | [[kohli-2023-medication-induced-xerostomia-orofacial-pain|Association between medication-induced xerostomia and orofacial pain: a systematic review]] |
@@ -45,3 +49,4 @@ tags: [navigation, category-index, salivary-chemosensory]
 | [[sardellitti-2023-xerostomia-pharmacological-traditional-medicine-overview|Xerostomia: From Pharmacological Treatments to Traditional Medicine—An Overview on the Possible Clinical Management and Prevention Using Systemic Approaches]] |
 | [[sijan-gobeljic-2020-sjogren-chemosensory-oral-disorders-cross-sectional|Chemosensory dysfunction, Oral disorders and Oral health-related quality of life in patients with primary Sjögren's syndrome: comparative cross-sectional study]] |
 | [[tsuchiya-2023-covid-19-oral-sequelae-gustatory-saliva|COVID-19 Oral Sequelae: Persistent Gustatory and Saliva Secretory Dysfunctions after Recovery from COVID-19]] |
+| [[wang-2023-the-pathogenesis-of-covid-19|The Pathogenesis of COVID-19-Related Taste Disorder and Treatments.]] |
