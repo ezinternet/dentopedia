@@ -1,0 +1,83 @@
+Three-unit posterior monolithic fixed dental prostheses made from high-translucent shade-graded zirconia: 3-Year results from a prospective clinical pilot study.
+
+Güth JF, Keul C, Liebermann A, Schweiger J, Edelhoff D, Schubert O.
+Clin Oral Investig. 2024 Dec 16;29(1):17.
+DOI: 10.1007/s00784-024-06084-5
+PMID: 39681754, PMC: PMC11649700
+
+ABSTRACT
+
+Objectives: To assess the clinical performance of tooth-supported 3-unit fixed dental prostheses (FDPs) made from shade-graded monolithic 5Y-PSZ (partly stabilized zirconia) zirconia in terms of survival rate and the quality of restorations based on modified FDI criteria over three-years.
+
+Materials and methods: High-translucent shade-graded monolithic zirconia (Lava Esthetic, Solventum Dental Solutions) was used to manufacture maxillary or mandibular three-unit FDPs in the posterior region (N = 22) employing subtractive milling system (Amann Girrbach). All FDPs were bonded with a universal resin cement (Rely X Universal, Solventum Dental Solutions) and evaluated 4 weeks after cementation (baseline) and after 1, 2, and 3 years.
+
+Results: Twenty-one patients were examined at 1 year, 2 years, and 3 years. The survival rate was 100%. No mechanical complications were observed. A total of 3 biological complications occurred. These were successfully managed without any residual functional impairment. All FDI criteria were found to be clinically acceptable or better.
+
+Conclusions: Monolithic shade-graded zirconia FDPs demonstrated 100% survival at 3 years with a low complication rate.
+
+FULL TEXT
+
+Introduction
+
+The digital transformation of dentistry, driven by advances in CAD/CAM, has fundamentally reshaped traditional workflows. Due to their material characteristics and esthetic potential, all-ceramic materials have become a remarkable success in dentistry — increasingly replacing the previous gold standard, metal ceramics.
+
+Zirconia, with outstanding physical properties and excellent biocompatibility, meets many requirements of modern dentistry. It is employed as framework and monolithic material in single crowns and FDPs, in removable prosthetics, and in fabrication of dental implants.
+
+Conventionally veneering zirconia is labor-intensive, and outcome is highly dependent on individual skills of the dental technician. The restorations are prone to veneering fracture, clinically referred to as "chipping." Consequently, there is a persistent trend towards monolithic zirconia materials.
+
+Conventional zirconia contains 3 mol% yttria, stabilizing the tetragonal phase at room temperature. 3Y-TZP's transformation toughening contributes to high fracture resistance. However, primary disadvantage is opacity. To overcome this, another iteration — 5Y-PSZ — was developed with increased yttria content, partially stabilizing the cubic phase (~50%). This provides enhanced optical characteristics with flexural strength and translucency between LD and 3Y-TZP.
+
+Materials and Methods
+
+Study design: single-arm prospective pilot trial, approved by ethics committee (UE No 19–0243). Department of Prosthetic Dentistry, University Hospital LMU Munich. 25 patients screened; 22 met inclusion criteria.
+
+Inclusion criteria: requiring 3-unit posterior bridge; healthy/treated periodontal status (max mobility grade 1); age 18–99; informed consent.
+
+Population: 22 patients, 16 males (73%), 6 females (27%); 22 posterior 3-unit FDPs; 44 abutment teeth; 18 maxillary (41%), 26 mandibular (59%); 4 FDPs at P1-M1, 18 at P2-M2.
+
+Material: LAVA Esthetic (Solventum Dental Solutions) — 5 mol% yttria-stabilized cubic zirconia
+- Micro-hardness: 1,200 HV (Vickers)
+- Elastic modulus: 216 GPa
+- Flexural strength: 800 MPa
+- Characteristics: high-translucent, inherent fluorescence, shade-graded
+
+Fabrication: CAD/CAM design (Modelier software, Zirkonzahn); 5-axis milling (Ceramill Motion 2, Amann Girrbach); sintering per manufacturer recommendations; stain and glaze firing.
+
+Cementation protocol: air-abrasion with 50 μm abrasive alumina at 0.1 MPa; no chemical conditioning; RelyX Universal self-conditioning dual-curing resin cement (Solventum Dental Solutions).
+
+Follow-up: baseline (4 weeks post-delivery), 1 year, 2 years, 3 years.
+Evaluation: modified FDI criteria (esthetic, functional, biological); PPD; radiographs at 3 years; patient satisfaction questionnaire (1-year).
+
+Results
+
+Survival: 100% (21/21 FDPs in situ at 3 years; 1 dropout at 3-year due to relocation — worst case: 95.5%)
+
+Mechanical complications: ZERO (no chipping, no fractures, no loss of retention)
+
+Biological complications (n=3; 14.3% prevalence, ~4.76%/year):
+1. Endodontic treatment of one abutment tooth (preparation trauma)
+2. Occlusal sensitivity → resolved with minor adjustments
+3. Buccal cervical caries → filled with GIC; patient asymptomatic
+
+FDI criteria: all parameters clinically acceptable or better at 3 years
+- Marginal discoloration: stable
+- Percussion: stable
+- Wear visible in 16 restorations after 2 years (glaze layer abrasion — expected)
+- Marginal adaptation: slightly less favorable at 3yr (but changes within "just perceptible" range)
+- PPD: stable (2.2–2.8 mm range)
+
+Patient satisfaction (1-year questionnaire): mean 1.0–1.6 (1=very good, 5=very bad); generally positive
+
+Comparison to literature: MC FDP survival 93.8% at 5yr, 89.2% at 10yr (Pjetursson). Habibi: monolithic 3Y-TZP — 96.7% survival, 93.8% success at 3yr. Pontevedra: 3Y-TZP monolithic — 90% at 3yr.
+
+Discussion
+
+The 100% survival rate and absence of chipping support the monolithic design advantage. All FDI criteria acceptable. The absence of mechanical complications aligns with elimination of veneering. Even worst-case (counting dropout as failure): 95.5% survival.
+
+The connector was designed per manufacturer recommendations (minimum height for 5Y-PSZ); monolithic design allows larger connector diameter than veneered designs.
+
+Limitations: pilot study (n=22); single-arm; short follow-up (3 years); COVID-19 impact on recall windows; one dropout.
+
+Conclusion
+
+CAD/CAM-manufactured 3-unit posterior FDPs from high-translucent shade-graded monolithic 5Y-PSZ zirconia (Lava Esthetic) show 100% survival at 3 years with no mechanical complications. FDI criteria acceptable or better. First published clinical data on 5Y-PSZ cubic zirconia multi-unit FDPs. Longer follow-up and larger samples needed.
