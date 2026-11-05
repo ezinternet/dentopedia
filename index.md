@@ -1060,6 +1060,9 @@ tags: []
 - [[endodontics/diagnosis/rios-osorio-2023-paradigm-inflammatory-radicular-cyst-biological]] — Rios Osorio 2023 · narrative-review · 육아종→치근낭 이행 분자기전(ERM 증식·IL-1/6/TNF-α·MMP·RANKL/VEGF) 및 CBCT/초음파/MRI 진단정확도(31~100%, 편차 큼) 리뷰; 조직병리가 여전히 gold standard (DOI 10.14744/eej.2022.26918)
 - [[endodontics/diagnosis/abubakr-2025-histological-immunohistochemical-analysis-periapical-lesions]] — AbuBakr 2025 · cross-sectional · 치근단육아종(PG) vs 치근낭종(RC) 사례-대조 IHC 연구(n=50): PG가 RC보다 TGF-β1·CD68 발현 모두 유의하게 높음(p<0.001) (DOI 10.1186/s12903-025-05845-2)
 - [[endodontics/diagnosis/pimenta-carvalho-2021-differential-diagnosis-nonodontogenic-endodontic-radiolucent]] — Pimenta Carvalho 2021 · narrative-review · 비치성 병소 30종 문헌고찰: 83.3%가 만성 근단치주염을, 16.7%가 치조골 농양을 모방; 악성종양 43.3%, 치수생활력검사(PVT) 음성 68.4% — 통증·부종은 감별력 없고 PVT 양성이 최선의 (불완전한) 단서 (DOI 10.22037/iej.v16i3.32572)
+- [[endodontics/diagnosis/pitcher-2017-cbct-periapical-cyst-decision-tree]] — Pitcher 2017 · cross-sectional · CBCT 용적 기반 낭종 선별 결정 트리(n=118, 조직병리 gold standard): 병소 용적 >247 mm³ → 낭종 확률 80%; 용적 <247 mm³ + 치근 변위 → 60% (전체 정확도 78%) (DOI 10.1016/j.joen.2016.10.046)
+- [[endodontics/diagnosis/almadi-2020-cbct-grey-density-periapical-lesion]] — AlMadi 2020 · cross-sectional · CBCT 최소 회색조 밀도값으로 낭종 vs 고형 병소 감별 불가 (AUC 0.44, n=57) — 중요 부정 결과; 용적 접근(Pitcher)과 대비 (DOI 10.1111/iej.13355)
+- [[endodontics/diagnosis/de-rosa-2020-cbct-texture-periapical-cyst-granuloma]] — De Rosa 2020 · cross-sectional · CBCT 회색조 공동발생행렬(GLCM) 텍스처 분석으로 치근낭종 vs 치근단육아종 감별; 최고 AUC 81.2% (각도 2차 모멘트 >0.10), 민감도 100%·특이도 54.5% (n=25, 조직병리 확인) (DOI 10.1016/j.heliyon.2020.e05194)
 
 ## 치간 청소 (Interdental Cleaning)
 - [[overviews/interdental-cleaning-devices-synthesis]] — **Overview** (Synthesis 2026-06-19, 8편+토스픽 overview): 치간 청소도구 종합 — 치실 vs 치간칫솔(IDB) vs 구강세정기/워터픽(WF) vs 토스픽법 비교·적응증 결정 트리. 핵심: 어느 도구도 *보편적* 우월 없음(순응도가 효능보다 중요), 치간칫솔이 들어가는 공간이면 1순위(IDB>floss 근거 다수), 치실은 좁은 접촉/순응 환자, 워터픽은 교정·임플란트·손재주 제약·치주염 보조에 강점; 나무 이쑤시개는 치간유두 위해라 권장 안 함
