@@ -12,6 +12,8 @@ source_collection: pubmed-abstract
 ## Why Ingested
 구순구개열 (Orofacial Cleft) 수술 전 비치조 성형술 (Nasoalveolar Moulding, NAM)에 대한 최초 Cochrane Protocol. 구순구개열 관리의 비수술적 사전 치료 근거 공백을 채울 예정. 구강악안면외과 및 교정과 협진 맥락에서 임상 의사결정 근거 보강 목적.
 
+→ [[orthodontics/takahashi-2026-nasoalveolar-moulding-therapy-orofacial]]
+
 ## One-line Summary
 Cochrane Protocol (2026, Takahashi et al.): to assess benefits and harms of NAM therapy vs no presurgical orthopaedic treatment in children with orofacial clefts — no results yet.
 
