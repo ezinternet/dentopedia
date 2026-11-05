@@ -84,3 +84,5 @@ Options to restore compatibility: use a separate hydrophobic bonding resin over 
 ## Related Pages
 
 - [[resin-bonding/patangia-2025-effect-oxygen-inhibited-layer-dental]] — 2025 systematic review directly building on OIL bonding mechanism literature
+- [[resin-bonding/gauthier-2005-oxygen-inhibition-dental-resins]] — explains the physicochemical mechanism (viscosity, oxygen diffusion) underlying OIL formation and DC gradient
+- [[dental-materials/lim-2022-oxygen-shielding-glycerin-vacuum-3d-printed]] — practical validation: glycerin immersion > vacuum for DC and hardness; supports glycerin oxygen-barrier protocol
