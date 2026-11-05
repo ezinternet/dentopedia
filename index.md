@@ -3646,6 +3646,8 @@ tags: []
 - [[resin-bonding/shimizu-2021-evaluation-of-restorative-techniques-for]] — 소 치아 VRF 접착수복 in vitro(군당 n=16): 10-3 용액+UB+EC 군 μTBS 46.43 MPa vs Super-Bond 대조 39.36 MPa (p=0.0092), 인산 전처리만 미세누출 증가; 저작 1개월 모사라 임상 근거 아님
 - [[resin-bonding/li-2025-laboratory-study-on-reattachment-of]] — VRF 재접착 4-META/MMA-TBB 레진 in vitro(소 치근): 세포독성 iRoot BP Plus와 유사, 파절저항 220.9 N(건전 79.3%) vs GIC 53.2 N, 염료침투 0.63 mm vs 1.44·2.08 mm; 벤치 근거만
 - [[resin-bonding/patangia-2025-effect-oxygen-inhibited-layer-dental]] — 산소억제층(OIL)이 접착 강도에 미치는 영향 SR: 광중합 레진엔 OIL이 유익(접착강도↑), 자가중합엔 유해(접착강도↓), n=8 (Patangia 2025)
+- [[resin-bonding/suh-2004-oxygen-inhibited-layer-adhesion-dentistry]] — Suh 2004 · in-vitro · 산소억제층(OIL) 개념 정립 — 광중합 접착제 표면 OIL이 접착력 증가에 기여, 글리세린 차단으로 추가 중합 가능
+- [[resin-bonding/alam-2023-evaluating-advancements-recently-introduced]] — Scotchbond Universal Plus vs predecessor: OIL 65% 더 얇음 (12.2 vs 35.4 µm), DC/경도/탄성계수 우수, 상아질 µTBS는 동등 — 물리화학적 개선 ≠ 접착강도 향상
 
 ### Resin / inlay — direct & indirect restorations
 - [[resin/wolff-2024-direct-composite-restorations-permanent-teeth]] — Wolff 2024 · consensus · German S3/GRADE guideline: direct composite recommended for Class I–V, cusp replacement, preferred over indirect inlays posteriorly
