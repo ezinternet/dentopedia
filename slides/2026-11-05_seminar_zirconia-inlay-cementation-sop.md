@@ -6,13 +6,15 @@ status: done
 source_wiki:
   - wiki/dental-materials/zirconia/al-akhali-2025-zirconia-cleaning-bonding-duration.md
   - wiki/dental-materials/zirconia/nasri-2025-surface-conditioning-zirconia-bonding-umbrella.md
+  - wiki/resin-bonding/gauthier-2005-oxygen-inhibition-dental-resins.md
+  - wiki/dental-materials/lim-2022-oxygen-shielding-glycerin-vacuum-3d-printed.md
 agenda: agenda/2026-11-05_seminar_zirconia-inlay-cementation-sop-slides.md
 marp: true
 theme: dentopedia
 paginate: true
 size: 16:9
 lang: ko
-description: "APA → 세정 → 프라이머 → 접착의 근거기반 프로토콜 (Al-Akhali 2025, Nasri 2025)"
+description: "APA → 세정 → 프라이머 → 접착의 근거기반 프로토콜 (Al-Akhali 2025, Nasri 2025, Gauthier 2005, Lim 2022)"
 ---
 
 <!-- _class: lead -->
@@ -226,10 +228,11 @@ ZrO₂ 표면의 Zr-OH (수산기)
 
 ### 왜 필요한가?
 
-레진 시멘트는 **산소 억제층 (Oxygen Inhibition Layer)** 때문에 표면이 완전히 중합되지 않는다.
+레진 시멘트는 **산소 억제층 (Oxygen Inhibition Layer, OIL)** 때문에 표면이 완전히 중합되지 않는다.
 
-- 레진 표면의 산소가 라디칼을 소거 → 표면 1~5 µm가 미중합 상태로 남음
-- 미중합 레진 = 착색 · 2차 우식 · 환자 불쾌감 원인
+- 산소가 광중합 라디칼을 소거 → 표면 1~5 µm 미중합 (Suh 2004)
+- OIL 두께는 레진 점도에 반비례 — 점도↑ 시 산소 확산↓ → 표면 중합전환도 (Degree of Conversion, DC) ↑ (Gauthier 2005)
+- **글리세린 침지 = OIL 완전 차단** → DC·경도 최고값; 진공처리보다 우월 (Lim 2022, n=16/group)
 
 ### 방법
 
@@ -237,11 +240,11 @@ ZrO₂ 표면의 Zr-OH (수산기)
 |---|---|
 | 1. 잉여 시멘트 제거 | 광중합 전 탐침 · 플로스로 제거 |
 | 2. 교합지 체크 | 간섭점 조정 완료 후 |
-| 3. 글리세린 겔 도포 | **모든 마진 라인 + 접착면 전체**에 도포 (글리세린은 산소를 차단) |
+| 3. 글리세린 겔 도포 | **모든 마진 라인 + 접착면 전체**에 도포 (산소 차단) |
 | 4. 최종 광중합 | **각 면 20초 이상** (협·설·인접면 별도) |
 | 5. 글리세린 세척 | 수세 후 에어 건조 → 표면 광택 확인 |
 
-> **핵심**: 글리세린 없이 최종 중합하면 마진부 미중합 레진이 남아 장기 유지에 불리하다.
+> **근거**: Gauthier 2005 (J Dent Res) — 점도·산소확산 메커니즘 · Lim 2022 (J Mech Behav Biomed Mater) — 글리세린 > 진공 > 대조군 (DC·경도)
 
 ---
 
@@ -265,8 +268,10 @@ ZrO₂ 표면의 Zr-OH (수산기)
 
 | 논문 | 디자인 | 핵심 기여 |
 |---|---|---|
-| **Al-Akhali 2025** | In vitro RCT-급 비교 | Ivoclean SFE 68.4 mN/m 최고값 확인; Katana Cleaner 금기; 72h 기준 |
-| **Nasri 2025** | Umbrella SR (8편 SR, 233연구) | APA + 10-MDP = 가장 검증된 조합; APA 파라미터 범위; NAC 동등성 |
+| **Al-Akhali 2025** | In vitro RCT-급 비교 | Ivoclean SFE 68.4 mN/m 최고값; Katana Cleaner 금기; 72h 기준 |
+| **Nasri 2025** | Umbrella SR (8편 SR, 233연구) | APA + 10-MDP = 가장 검증된 조합; APA 파라미터 범위 |
+| **Gauthier 2005** | In vitro (Raman 분광) | OIL 메커니즘: 점도↑ → 산소확산↓ → DC↑; 110°C 이상 → OIL 소거 |
+| **Lim 2022** | In vitro (n=16/group) | 글리세린 침지 > 진공 > 대조군 (DC·경도); GL+80°C = 최적 |
 
 ---
 
@@ -283,5 +288,5 @@ ZrO₂ 표면의 Zr-OH (수산기)
 
 ---
 
-*슬라이드 출처: Al-Akhali 2025 (PMID: 41362452) · Nasri 2025 (Umbrella SR)*
-*작성일: 2026-11-05 | LLM Wiki — Dentopedia*
+*슬라이드 출처: Al-Akhali 2025 (PMID: 41362452) · Nasri 2025 (Umbrella SR) · Gauthier 2005 (J Dent Res) · Lim 2022 (J Mech Behav Biomed Mater)*
+*작성일: 2026-11-05 | 업데이트: 2026-11-05 | LLM Wiki — Dentopedia*
