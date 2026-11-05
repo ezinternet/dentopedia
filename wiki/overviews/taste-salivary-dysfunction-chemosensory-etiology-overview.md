@@ -2,7 +2,7 @@
 title: "미각·타액 기능장애의 병인 지도 — 미뢰가 아니라 타액선·아연을 먼저 의심하라"
 authors: Synthesis (Damian Lee)
 year: 2026
-date: 2026-07-02
+date: 2026-11-05
 doi: N/A
 source: N/A
 category: overviews
@@ -10,12 +10,22 @@ evidence_level: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
-tags: [oral-medicine, dysgeusia, ageusia, taste-disorder, xerostomia, hyposalivation, chemosensory, zinc-deficiency, sjogren, radiotherapy, covid-19, overview]
+tags: [oral-medicine, dysgeusia, ageusia, taste-disorder, xerostomia, hyposalivation, chemosensory, zinc-deficiency, sjogren, radiotherapy, covid-19, drug-induced, tongue-disorder, overview]
 relations:
   - type: extends
     target: tsuchiya-2023-covid-19-oral-sequelae-gustatory-saliva
   - type: applies-to
     target: poudel-2026-xerostomia-dental-treatment-outcomes-sr
+  - type: extends
+    target: oral-medicine/salivary-chemosensory/gunn-2021-taste-dysfunction-following-radiotherapy-to
+  - type: extends
+    target: oral-medicine/salivary-chemosensory/wang-2023-the-pathogenesis-of-covid-19
+  - type: extends
+    target: oral-medicine/salivary-chemosensory/amorim-2021-oral-manifestations-covid19-6month
+  - type: extends
+    target: oral-medicine/salivary-chemosensory/amorim-2020-oral-manifestations-covid19-living
+  - type: extends
+    target: oral-medicine/salivary-chemosensory/amiri-2025-drug-induced-tongue-disorders-a
 ---
 
 ## 한국어 핵심요약
@@ -23,17 +33,18 @@ relations:
 > [!summary] 한국어 핵심요약
 > - 핵심 명제: 미각장애(dysgeusia/ageusia)는 흔히 미뢰(taste bud) 직접 손상이 아니라 **타액선 기능저하와 아연결핍(zinc deficiency)을 매개**로 발생한다 — oral-medicine 5편을 **아연·방사선·약물·자가면역·바이러스 5대 병인**으로 통합. 미각 호소는 구강건조(xerostomia)와 **함께** 평가해야 한다.
 > - **병인 ① 아연결핍**: 혈청 아연 <60μg/dL(결핍)·60–80(경계) — 단, 75–78에서도 증상·치료반응 사례 있어 정적 혈청치는 민감도 한계. 폴라프레진크(Polaprezinc) 150mg/일. **효과는 지연·누적** — 4주 13.6% → 12주 47.7% → 24주 58.8%. **≥3개월 시도 후에야** 치료불응 판정. 일본 약 24만 명, 고령·여성 다발 (Kodama 2020, 합의/가이드라인).
-> - **병인 ② 방사선(두경부암)**: 급성 미각이상은 **미뢰 선량이 아니라 악하선·이하선 평균선량과 유의 상관**(각 p=0.05); 미뢰 선량은 구강건조·통증과 상관. → 방사선 미각장애는 **타액선 매개**. IMRT는 미뢰뿐 아니라 **타액선 보존**이 더 직접적 지렛대 (Morelli 2023, 전향적 n=31). 참고: 구강 전체 ~60Gy → 거의 보편적 미각소실.
+> - **병인 ② 방사선(두경부암)**: 급성 미각이상은 **미뢰 선량이 아니라 악하선·이하선 평균선량과 유의 상관**(각 p=0.05); 미뢰 선량은 구강건조·통증과 상관. → 방사선 미각장애는 **타액선 매개**. IMRT는 미뢰뿐 아니라 **타액선 보존**이 더 직접적 지렛대 (Morelli 2023, 전향적 n=31). 참고: 구강 전체 ~60Gy → 거의 보편적 미각소실. **규모 보강(Gunn 2021 SR, 31연구)**: 급성 미각이상 ~96%, 장기(>3개월) ~25% 지속; 전방 혀 선량·타액선 선량이 핵심 예측인자; 양성자치료(proton therapy)·바이트 블록(bite block)이 보호 효과 확인.
 > - **병인 ③ 약물(항고혈압제)**: 통념과 달리 **항고혈압제가 대조군보다 구강건조를 더 유발한다는 확증 근거 부족**. RCT는 혼재(캅토프릴은 오히려 이하선 유량 *증가*), 환자대조군은 대체로 유량 감소하나 저질. **약물군으로 단정 말고 개별 평가** (Ramírez 2020 SR, 13편). Xerostomia Inventory 사용 연구 0편 = 방법론 공백.
 > - **병인 ④ 자가면역(쇼그렌)**: dysgeusia 52.6% vs 9.4%, 설작열감 45.6% vs 0%, 무후각 교차비 5.2. **미각장애는 타액유량과 약하게만 상관** → 단순 침분비저하의 downstream이 아니라 **병렬적 인터페론 경로** 기전. 치료공백: 인공타액 사용 4% vs 인공눈물 81% (Šijan Gobeljić 2020, 횡단 n=58).
-> - **병인 ⑤ 바이러스(COVID-19)**: 완치 후에도 미각장애 1–45%, 침분비저하 2–40%가 수개월~1년 지속하며 **서로 상관**(20편). 공통 기전 — 미뢰·타액선의 ACE2/TMPRSS2/TRPV1 공동발현 + 감염유발 아연결핍(COVID 혈청아연 64.8 vs 대조 88.3μg/dL). 지역 gradient(동아시아 최저 3.8%, 중동 최고 20.6%) (Tsuchiya 2023, 내러티브).
+> - **병인 ⑤ 바이러스(COVID-19)**: 완치 후에도 미각장애 1–45%, 침분비저하 2–40%가 수개월~1년 지속하며 **서로 상관**(20편). 공통 기전 — 미뢰·타액선의 ACE2/TMPRSS2/TRPV1 공동발현 + 감염유발 아연결핍(COVID 혈청아연 64.8 vs 대조 88.3μg/dL). 지역 gradient(동아시아 최저 3.8%, 중동 최고 20.6%) (Tsuchiya 2023, 내러티브). **메타분석 보강**: Amorim 2021 SR(183연구, 64,876명) — 미각 38%, 구강건조 43%; Amorim 2020 living SR(40연구, 10,228명) — 미각소실(gustatory impairment) 45%. Wang 2023: ACE2 수용체·신경침투(neural invasion)·아연결핍이 COVID 미각장애 3대 병인; 치료 아연·코르티코스테로이드·후각훈련.
+> - **병인 ⑥ 약물유발 혀 장애(Drug-induced Tongue Disorders)**: Amiri 2025 SR(208증례) — 항종양제(antineoplastics)·항감염제(anti-infectives)가 최다; 착색(discoloration)·혀털증(Black Hairy Tongue, BHT)이 최다 증상. **약물 중단 시 대부분 회복** → 약물력 확인이 혀 증상 1차 감별 수단.
 > - **통합 통찰**: 아연결핍이 ②④⑤를 관통하는 공통 실 — 방사선·COVID는 아연을 소모시키고, 아연은 미뢰 재생과 타액분비 양쪽에 필수. → 원인불명 미각장애엔 **혈청 아연 확인 + 필요시 ≥3개월 아연 시도**가 실용적 첫 수.
 > - **핵심 반전**: "미각이 이상하면 혀(미뢰) 문제"라는 통념은 자주 틀림 — 방사선은 타액선 매개, 쇼그렌은 타액유량과 약한 상관(병렬 염증기전), 약물은 확증 부족. 미뢰 직접손상 모델은 **병인 의존적**으로만 성립.
 > - **확신도**: 아연 진단·치료 프로토콜 = 가이드라인/합의; 방사선 타액선-매개 = 전향적 소표본(가설생성); 항고혈압제 비확증 = SR(저질 근거의 정직한 부정); 쇼그렌 chemosensory 부담 = 횡단(단면); COVID 지속·기전 = 내러티브(정량 pooled 아님).
 
 ## Three-line Summary
 
-Synthesis of 5 oral-medicine papers reframing taste dysfunction (dysgeusia/ageusia) as frequently salivary-gland- and zinc-mediated rather than a direct taste-bud problem, organized by five etiologies: (1) zinc deficiency (Polaprezinc 150 mg/day, ≥3-month trial required: 13.6% at 4 weeks → 58.8% at 24 weeks; Kodama 2020 guideline), (2) head-and-neck radiotherapy (dysgeusia tracks submandibular/parotid dose, not taste-bud dose; Morelli 2023 prospective n=31), (3) antihypertensive drugs (SR of 13 studies: cannot confirm xerogenicity vs controls; Ramírez 2020), (4) Sjögren's syndrome (dysgeusia 52.6% vs 9.4%, burning tongue 45.6% vs 0%, but taste correlates only weakly with salivary flow — parallel interferon-pathway mechanism; Šijan Gobeljić 2020), (5) COVID-19 (persistent taste/salivary dysfunction in 1–45%/2–40% post-recovery, ACE2/TRPV1 co-expression + zinc depletion; Tsuchiya 2023).
+Synthesis of 10 oral-medicine papers reframing taste dysfunction (dysgeusia/ageusia) as frequently salivary-gland- and zinc-mediated rather than a direct taste-bud problem, organized by six etiologies: (1) zinc deficiency (Polaprezinc 150 mg/day, ≥3-month trial required: 13.6% at 4 weeks → 58.8% at 24 weeks; Kodama 2020 guideline), (2) head-and-neck radiotherapy (dysgeusia tracks submandibular/parotid dose, not taste-bud dose; Morelli 2023 prospective n=31; Gunn 2021 SR of 31 studies: acute ~96%, long-term >3 months ~25%), (3) antihypertensive drugs (SR of 13 studies: cannot confirm xerogenicity vs controls; Ramírez 2020), (4) Sjögren's syndrome (dysgeusia 52.6% vs 9.4%, burning tongue 45.6% vs 0%, but taste correlates only weakly with salivary flow — parallel interferon-pathway mechanism; Šijan Gobeljić 2020), (5) COVID-19 (persistent taste/salivary dysfunction in 1–45%/2–40% post-recovery; Amorim SR 2021: taste 38% and xerostomia 43% in 64,876 patients; Amorim living SR 2020: gustatory impairment 45%; ACE2/TRPV1 + zinc depletion as common pathway; Wang 2023), (6) drug-induced tongue disorders (Amiri 2025 SR of 208 cases: antineoplastics and anti-infectives most common classes; discoloration and black hairy tongue (BHT) most frequent; most resolve on drug discontinuation).
 
 The unifying thread is zinc: radiotherapy and viral infection deplete zinc, which is essential for both taste-bud regeneration and salivary secretion — making serum zinc check the practical first step in unexplained dysgeusia.
 
@@ -41,7 +52,7 @@ The clinical bottom line: taste and dry-mouth complaints must be evaluated toget
 
 ## 세줄요약
 
-5편 종합 — 미각장애(dysgeusia/ageusia)를 미뢰 직접 손상이 아니라 타액선·아연 매개로 재정의; 5대 병인: ①아연결핍(폴라프레진크 150 mg/일, ≥3개월 시도; 4주 13.6%→24주 58.8%; Kodama 2020 가이드라인), ②두경부 방사선(미각이상은 악하선·이하선 선량과 상관, 미뢰 선량 무관; Morelli 2023 전향적 n=31), ③항고혈압제(13편 SR: 대조군 대비 구강건조 확증 불가; Ramírez 2020), ④쇼그렌(dysgeusia 52.6% vs 9.4%·설작열감 45.6% vs 0%, 타액유량과 약한 상관만 → 병렬 인터페론 경로; Šijan Gobeljić 2020), ⑤COVID-19(완치 후 미각 1–45%·타액장애 2–40% 지속, ACE2/TRPV1+아연결핍 공통기전; Tsuchiya 2023).
+10편 종합 — 미각장애(dysgeusia/ageusia)를 미뢰 직접 손상이 아니라 타액선·아연 매개로 재정의; 6대 병인: ①아연결핍(폴라프레진크 150 mg/일, ≥3개월 시도; 4주 13.6%→24주 58.8%; Kodama 2020 가이드라인), ②두경부 방사선(미각이상은 악하선·이하선 선량과 상관, 미뢰 선량 무관; Morelli 2023 전향적 n=31; Gunn 2021 SR 31연구: 급성 ~96%·장기 ~25% 지속), ③항고혈압제(13편 SR: 대조군 대비 구강건조 확증 불가; Ramírez 2020), ④쇼그렌(dysgeusia 52.6% vs 9.4%·설작열감 45.6% vs 0%, 타액유량과 약한 상관만 → 병렬 인터페론 경로; Šijan Gobeljić 2020), ⑤COVID-19(완치 후 미각 1–45%·타액장애 2–40% 지속; Amorim 2021 SR 64,876명: 미각 38%·구강건조 43%; Amorim 2020 living SR: 미각소실 45%; ACE2/TRPV1+아연결핍; Wang 2023), ⑥약물유발 혀 장애(Amiri 2025 SR 208증례: 착색·BHT 최다, 약물 중단 시 대부분 회복).
 
 통합 실(thread): 아연결핍이 병인 ②④⑤를 관통 — 방사선·바이러스가 아연을 소모하고 아연은 미뢰 재생·타액분비 양쪽에 필수; 원인불명 미각장애의 실용적 첫 수 = 혈청 아연 확인 + 필요 시 ≥3개월 아연 시도.
 
@@ -70,10 +81,11 @@ The clinical bottom line: taste and dry-mouth complaints must be evaluated toget
 | 병인 | Spine paper | Evidence | Key finding | 미뢰 vs 타액선 매개 |
 |---|---|---|---|---|
 | ① 아연결핍 | [[oral-medicine/salivary-chemosensory/kodama-2020-zinc-deficiency-guidelines-taste-disorders]] | consensus (JP 가이드라인) | 혈청 Zn 컷오프, 폴라프레진크 ≥3개월(13.6→58.8%) | 아연 매개(미뢰 재생 장애) |
-| ② 방사선(HNSCC) | [[oral-medicine/salivary-chemosensory/morelli-2023-radiation-dose-taste-alteration-hnscc]] | prospective (n=31) | dysgeusia ~ 악하선·이하선 선량(p=0.05), 미뢰 선량 아님 | **타액선 매개** |
+| ② 방사선(HNSCC) | [[oral-medicine/salivary-chemosensory/morelli-2023-radiation-dose-taste-alteration-hnscc]] + [[oral-medicine/salivary-chemosensory/gunn-2021-taste-dysfunction-following-radiotherapy-to]] | prospective (n=31) + SR (31연구) | dysgeusia ~ 악하선·이하선 선량(p=0.05), 미뢰 선량 아님; 급성 ~96%·장기 ~25%; 양성자치료·바이트 블록 보호 | **타액선 매개** |
 | ③ 약물(항고혈압) | [[oral-medicine/salivary-chemosensory/ramirez-martinez-acitores-2020-antihypertensive-xerostomia-salivary-flow-sr]] | sr (13편) | 대조군 대비 구강건조 유발 확증 불가; 캅토프릴 유량 *증가* | 불확실(개별 평가) |
 | ④ 자가면역(쇼그렌) | [[oral-medicine/salivary-chemosensory/sijan-gobeljic-2020-sjogren-chemosensory-oral-disorders-cross-sectional]] | cross-sectional (n=58) | dysgeusia 52.6%·설작열감 45.6%; 타액유량과 약한 상관 | 병렬(인터페론+hyposalivation) |
-| ⑤ 바이러스(COVID-19) | [[oral-medicine/salivary-chemosensory/tsuchiya-2023-covid-19-oral-sequelae-gustatory-saliva]] | narrative-review | 미각 1–45%·타액 2–40% 지속, 상관; ACE2/TRPV1+아연 | 병렬(미뢰+타액선 공동) |
+| ⑤ 바이러스(COVID-19) | [[oral-medicine/salivary-chemosensory/tsuchiya-2023-covid-19-oral-sequelae-gustatory-saliva]] + [[oral-medicine/salivary-chemosensory/amorim-2021-oral-manifestations-covid19-6month]] + [[oral-medicine/salivary-chemosensory/amorim-2020-oral-manifestations-covid19-living]] | narrative-review + SR×2 | 미각 1–45%·타액 2–40% 지속; Amorim SR: 미각 38–45%, 구강건조 43%; ACE2/TRPV1+아연(Wang 2023) | 병렬(미뢰+타액선 공동) |
+| ⑥ 약물유발 혀 장애 | [[oral-medicine/salivary-chemosensory/amiri-2025-drug-induced-tongue-disorders-a]] | SR (208증례) | 항종양제·항감염제 최다; 착색·BHT 최다; 약물 중단 시 대부분 회복 | 미뢰·점막 직접(약물 접촉·전신 경로) |
 
 ### 임상 감별·의사결정
 
@@ -105,6 +117,11 @@ The clinical bottom line: taste and dry-mouth complaints must be evaluated toget
 - [[oral-medicine/salivary-chemosensory/tsuchiya-2023-covid-19-oral-sequelae-gustatory-saliva]] — COVID 미각·타액 지속장애 공통기전(ACE2/TRPV1+아연) (narrative-review, 2023)
 - [[oral-medicine/salivary-chemosensory/poudel-2026-xerostomia-dental-treatment-outcomes-sr]] — 구강건조가 수복·임플란트 결과에 미치는 영향(병인 무관 하류 결과) (sr, 2026)
 - [[geriatric-dentistry/halasabalu-kalgeri-2026-polypharmacy-oral-health-elderly]] — 다약제 구강건조 상위 맥락(③이 정직하게 한정하는 대상) (narrative-review, 2026)
+- [[oral-medicine/salivary-chemosensory/gunn-2021-taste-dysfunction-following-radiotherapy-to]] — HNC 방사선 미각이상 SR (31연구, 급성 ~96%·장기 ~25%); 타액선 선량·양성자치료·바이트 블록 (sr, 2021)
+- [[oral-medicine/salivary-chemosensory/wang-2023-the-pathogenesis-of-covid-19]] — COVID-19 미각장애 병인(ACE2·신경침투·아연결핍) 및 치료(아연·코르티코스테로이드·후각훈련) (narrative-review, 2023)
+- [[oral-medicine/salivary-chemosensory/amorim-2021-oral-manifestations-covid19-6month]] — COVID-19 구강증상 SR 갱신(183연구, 64,876명; 미각 38%·구강건조 43%) (sr, 2021)
+- [[oral-medicine/salivary-chemosensory/amorim-2020-oral-manifestations-covid19-living]] — COVID-19 구강증상 living SR(40연구, 10,228명; 미각소실 45%) (sr, 2020)
+- [[oral-medicine/salivary-chemosensory/amiri-2025-drug-induced-tongue-disorders-a]] — 약물유발 혀 장애 SR(208증례; 항종양제·항감염제 최다; 착색·BHT; 약물 중단 시 회복) (sr, 2025)
 
 확신도 등급:
 - 아연 진단·치료 프로토콜 = [가이드라인/합의]
