@@ -938,3 +938,9 @@ Logged by subagents at deviation time. `deviation-audit.py` flags types with ≥
 | 2026-10-24 | pliatkute-2025-prf-immediate-implant-gap-sr | abstract-only | publisher/abstract-only text (papers/*.txt), full text not retrieved |
 | 2026-10-24 | khalifah-2026-double-expansion-ridge-split-narrow-rct | abstract-only | Abstract-only text file; no full text retrieved. Built from PubMed abstract only per ingest instructions. |
 | 2026-10-24 | badawy-2026-socket-shield-delayed-ridge-change-rct | abstract-only | abstract-only, doi null; socket shield without immediate implant placement (delayed), category immediate-implant/socket-shield |
+| 2026-10-26 | vidal-2025-bruxism-mechanical-complications-implant-srma | abstract-only | no PMC full text available for PMID 41102936 |
+| 2026-10-26 | teles-2026-implant-performance-10yr-crosssectional | abstract-only | no PMC full text available for PMID 41838046 |
+| 2026-10-26 | chrcanovic-2020-isfpd-2to6-unit-9yr-bruxism | abstract-only | no PMC full text available for PMID 32157812 |
+| 2026-10-28 | gazal-2026-risk-factors-adverse-events-tooth-extraction | abstract-only | No PMC full text; Minerva Dent Oral Sci subscription journal; abstract-only ingest |
+| 2026-11-04 | sailer-2015-allceramic-metalceramic-fdps-survival-complication-sr | abstract-only | publisher landing page, full text not retrieved |
+| 2026-11-04 | behr-2014-pfm-precious-alloy-crowns-clinical-performance | abstract-only | publisher landing page, full text not retrieved |
