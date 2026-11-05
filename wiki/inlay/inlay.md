@@ -2,7 +2,7 @@
 title: "인레이 — inlay"
 authors: navigation
 year: 2026
-date: 2026-08-11
+date: 2026-11-06
 doi: N/A
 source: navigation
 category: inlay
@@ -15,20 +15,20 @@ tags: [navigation, category-index, inlay]
 > [!summary] 한국어 핵심요약
 > - **분야**: 인레이
 > - **범위**: Inlay/onlay restorations, ceramic inlays
-> - **수록 논문**: 27편
+> - **수록 논문**: 31편
 
 ## Three-line Summary
 
 **Scope**: Inlay/onlay restorations, ceramic inlays
-**Indexed papers**: 27 papers in `wiki/inlay/`.
+**Indexed papers**: 31 papers in `wiki/inlay/`.
 
 ## 세줄요약
 
 **분야**: 인레이
-**수록 논문**: 27편
+**수록 논문**: 31편
 **하위 카테고리**: 없음
 
-## Papers in this Category (27)
+## Papers in this Category (31)
 
 | Paper |
 |---|
@@ -40,6 +40,7 @@ tags: [navigation, category-index, inlay]
 | [[bomicke-2025-3ytzp-inlay-enamel-wear-5year|Enamel wear of teeth opposing polished 3Y-TZP resin-bonded fixed partial dentures over 5 years]] |
 | [[bresser-2023-intracoronal-restorations-longevity-sr-ma|Clinical longevity of intracoronal restorations made of gold, lithium disilicate, leucite, and indirect resin composite: a systematic review and meta-analysis]] |
 | [[bustamante-2020-ceramic-hybrid-composite-onlays-sr-ma|Clinical Behavior of Ceramic, Hybrid and Composite Onlays: A Systematic Review and Meta-Analysis]] |
+| [[chaar-2023-long-term-zirconia-ceramic-inlay-retained-fdps|Long-term Zirconia Ceramic IRFDPs: 10-year Clinical Outcome]] |
 | [[chen-2026-mod-inlay-preparation-material-stress-fea|The impact of preparation dimensions and material choice on stress distribution in MOD inlays: a 3D finite element study]] |
 | [[comba-2022-post-fatigue-fracture-resistance-lithium-disilicate|Post-Fatigue Fracture Resistance of Lithium Disilicate and Polymer-Infiltrated Ceramic Network Indirect Restorations over Endodontically-Treated Molars with Different Preparation Designs: An In-Vitro Study]] |
 | [[dekuijper-2023-clinical-performance-direct-composite-resin|Clinical performance of direct composite resin versus indirect restorations on endodontically treated posterior teeth: A systematic review and meta-analysis]] |
@@ -50,9 +51,12 @@ tags: [navigation, category-index, inlay]
 | [[hofsteenge-2023-preparation-design-fracture-strength-disilicate-inlay|Effect of preparation design on fracture strength of compromised molars restored with lithium disilicate inlay and overlay restorations: An in vitro and in silico study]] |
 | [[kermanshah-2020-fracture-load-inlay-retained-ceramic-fdp|Effect of ceramic material type on the fracture load of inlay-retained and full-coverage fixed dental prostheses]] |
 | [[kincses-2023-ceramic-dentin-thickness-luting-intrapulpal-temperature-inlay|Effect of Ceramic and Dentin Thicknesses and Type of Resin-Based Luting Agents on Intrapulpal Temperature Changes during Luting of Ceramic Inlays]] |
+| [[krug-2024-ceramic-inlay-cast-gold-partial-crown-longterm|Long-term performance of ceramic in/-onlays vs. cast gold partial crowns - a retrospective clinical study]] |
 | [[lempel-2023-lithium-disilicate-vs-resin-composite-7year|Clinical evaluation of lithium disilicate versus indirect resin composite partial posterior restorations – A 7.8-year retrospective study]] |
 | [[lim-2023-milled-vs-3d-printed-inlays-accuracy|Evaluation of Fitness and Accuracy of Milled and Three-Dimensionally Printed Inlays]] |
 | [[malament-2021-lithium-disilicate-partial-coverage-109year|10.9-year survival of pressed acid etched monolithic e.max lithium disilicate glass-ceramic partial coverage restorations]] |
+| [[morimoto-2024-endocrown-overview-systematic-reviews|Endocrown Overview: 1-Piece Endodontic Crowns SR of SRs]] |
+| [[prott-2024-partial-coverage-restorations-posterior-sr-ma|후방부 부분피개수복물 재료별 생존율·합병증 SR+MA (Prott 2024)]] |
 | [[prott-2025-partial-coverage-restorations-posterior-scoping|Survival of partial coverage restorations on posterior teeth: scoping review]] |
 | [[sirikatitham-2026-fracture-resistance-partial-coverage-scoping|Fracture resistance of posterior teeth restored by lithium silicate-based and hybrid ceramic partial coverage restorations with different preparation designs: a scoping review]] |
 | [[souza-2021-lithium-disilicate-vs-resin-composite-cadcam-onlay|One-year clinical performance of lithium disilicate versus resin composite CAD/CAM onlays]] |
