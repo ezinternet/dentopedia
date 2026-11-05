@@ -36,6 +36,8 @@ jobs:
         uses: actions/setup-node@v5
         with:
           node-version: 22
+          cache: 'npm'
+          cache-dependency-path: quartz/package-lock.json
 
       - name: Stamp last-updated time and counts into wiki/index.md (homepage)
         run: |
