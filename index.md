@@ -3657,6 +3657,7 @@ tags: []
 - [[resin-bonding/li-2025-laboratory-study-on-reattachment-of]] — VRF 재접착 4-META/MMA-TBB 레진 in vitro(소 치근): 세포독성 iRoot BP Plus와 유사, 파절저항 220.9 N(건전 79.3%) vs GIC 53.2 N, 염료침투 0.63 mm vs 1.44·2.08 mm; 벤치 근거만
 - [[resin-bonding/patangia-2025-effect-oxygen-inhibited-layer-dental]] — 산소억제층(OIL)이 접착 강도에 미치는 영향 SR: 광중합 레진엔 OIL이 유익(접착강도↑), 자가중합엔 유해(접착강도↓), n=8 (Patangia 2025)
 - [[resin-bonding/suh-2004-oxygen-inhibited-layer-adhesion-dentistry]] — Suh 2004 · in-vitro · 산소억제층(OIL) 개념 정립 — 광중합 접착제 표면 OIL이 접착력 증가에 기여, 글리세린 차단으로 추가 중합 가능
+- [[resin-bonding/gauthier-2005-oxygen-inhibition-dental-resins]] — Gauthier 2005 · in-vitro · J Dent Res: 점도↑ → 산소확산↓ → 표면 DC↑; 필러 상충효과; 110°C 이상 → OIL 완전 소거 (Raman micro-spectroscopy)
 - [[resin-bonding/alam-2023-evaluating-advancements-recently-introduced]] — Scotchbond Universal Plus vs predecessor: OIL 65% 더 얇음 (12.2 vs 35.4 µm), DC/경도/탄성계수 우수, 상아질 µTBS는 동등 — 물리화학적 개선 ≠ 접착강도 향상
 
 ### Resin / inlay — direct & indirect restorations
@@ -5114,6 +5115,7 @@ tags: []
 - [[bone-regeneration/ridge-preservation/saliba-2020-collagen-xenograft-bovine-bone-inserted]] — Saliba 2020 · prospective · 분할구강 임상연구(n=13명, 환자당 발치치아 2개 이상) — 콜라겐 플러그(Collaplug) vs Bio-Oss + Surgicel 비교. (DOI 10.1007/s12663-020-01411-1)
 
 ### dental-materials
+- [[dental-materials/lim-2022-oxygen-shielding-glycerin-vacuum-3d-printed]] — Lim 2022 · in-vitro · 글리세린 침지 산소차단 vs 진공: DC·경도 GL>VA>CON, GL+80°C → 굴곡탄성계수 최대 (Yonsei, J Mech Behav Biomed Mater)
 - [[dental-materials/meneke-2026-plaque-disclosing-agents-color-stability]] — Meneke 2026 · in-vitro · In vitro 실험실 연구 — 4종 수복재료(레진 복합체 3종 + 자이오머 1종), 재료당 20개·착색제당 10개의 원반 시편(n=80)에 단회 착색제를 도포한 직후 CIEDE2000로 색변화 측정. (DOI 10.26650/eor.20261729238)
 
 ### implants/full-arch
