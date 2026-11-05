@@ -1,0 +1,38 @@
+Title: Evaluating the advancements in a recently introduced universal adhesive compared to its predecessor
+Authors: Arefin Alam, Monica Yamauti, Abu Faem Mohammad Almas Chowdhury, Xiaohong Wang, Pedro Álvarez-Lloret, Enrique-Ezra Zuñiga-Heredia, Carolina Cifuentes-Jiménez, Rupak Dua, Masahiro Iijima, Hidehiko Sano
+Year: 2023
+Journal: Journal of Dental Sciences
+DOI: 10.1016/j.jds.2023.12.004
+PMID: 39035277
+PMC: PMC11259734
+
+ABSTRACT:
+Background/purpose: The dental adhesive market is constantly evolving. This study investigated the physicomechanical properties and dentin bonding efficacy of a newly upgraded universal adhesive (Scotchbond Universal Plus, SP) compared to its predecessor (Scotchbond Universal, SB).
+
+Materials and methods: Twenty-four molars divided into four groups (n=6/group) based on adhesive (new vs. predecessor) and application mode [self-etch (SE) vs. etch-and-rinse (ER)]. Microtensile bond strength (μTBS), failure pattern, bonding interface, OIL, viscosity, hardness, elastic modulus, degree of conversion (DC), and in-situ DC were assessed.
+
+Results: Both adhesive versions showed similar μTBS (p>0.05), failure pattern (p>0.05), and survival probability (p>0.008). SP showed: narrower OIL (12.2 ± 1.4 μm vs 35.4 ± 4.3 μm, p<0.001), less viscosity (50.2 vs 115.5 mPa·s, p<0.001), higher hardness (329.6 vs 292.8 MPa, p<0.05), elastic modulus (7.7 vs 6.7 GPa, p<0.05), DC (92.6% vs 81.4%, p<0.001), and in-situ DC (90.1% vs 86.4%, p<0.001).
+
+Conclusion: Newly updated adhesive had superior physicomechanical properties with more fluidity; dentin bonding efficacy and survival probability comparable to predecessor.
+
+KEY DATA ON OIL:
+- SB (Scotchbond Universal): OIL = 35.4 ± 4.3 μm
+- SP (Scotchbond Universal Plus): OIL = 12.2 ± 1.4 μm (p<0.001 thinner)
+- OIL forms because atmospheric oxygen has greater affinity to free radicals than monomer molecules → reacts to form gel-like OIL, impeding conversion
+- Thinner adhesive layer more prone to polymerization inhibition from OIL
+
+MECHANISM:
+Photoinitiators in light-cure resin generate propagating reactive free radicals that convert monomers. Atmospheric oxygen reacts with these free radicals (greater affinity than monomers) → forms gel-like oxygen inhibition layer (OIL), impeding conversion. OIL in dental adhesives extends to a certain depth, making a thin adhesive layer more prone to polymerization inhibition.
+
+PHYSICOMECHANICAL FINDINGS:
+- μTBS: Both adhesives similar across all modes (p>0.05)
+- Failure patterns: Predominantly non-adhesive failures, no significant difference
+- Survival probability: Equal between groups (Kaplan-Meier, p>0.008)
+- SEM: SP shows thinner adhesive layer (2.9±0.2 μm ER; 6.1±0.8 μm SE vs SB 6.1±0.4 μm ER; 10.6±2.7 μm SE)
+- Viscosity: SP 50.2±0.3 mPa·s vs SB 115.5±0.6 mPa·s (p<0.001)
+- Hardness: SP 329.6±50.3 MPa vs SB 292.8±31.5 MPa (p=0.015)
+- Elastic modulus: SP 7.7±1.1 GPa vs SB 6.7±0.7 GPa (p=0.001)
+- DC (Raman): SP 92.6±0.4% vs SB 81.4±2.4% (p<0.001)
+- In-situ DC (NIR): SP 90.1±1.7% vs SB 86.4±2.1% (p<0.001)
+
+LIMITATIONS: No alternative adhesive systems compared; no long-term water storage evaluation.
