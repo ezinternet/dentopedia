@@ -1,10 +1,10 @@
 ---
 name: obsidian-markdown
-description: Create and edit Obsidian-specific Markdown syntax, including wikilinks, embeds, block references, callouts, properties, tags, and comments. Use for Obsidian notes when these extensions matter; ordinary Markdown is assumed knowledge.
+description: Create and edit Obsidian-specific Markdown in .md notes, including wikilinks, block IDs (^id) with block and list embeds, heading embeds, callouts, properties and frontmatter, tags, aliases, and comments. Load before adding or changing any of these in a note, such as linking or embedding a paragraph, list or section, or setting a note's properties.
 license: MIT
 metadata:
   copilot-enabled-agents: opencode, claude, codex
-  copilot-builtin-version: "1"
+  copilot-builtin-version: "4"
   copilot-upstream-revision: "a1dc48e68138490d522c04cbf5822214c6eb1202"
 ---
 
@@ -34,7 +34,8 @@ CommonMark or GFM unless the user asks.
 This paragraph is addressable. ^block-id
 ~~~
 
-Put a block ID on its own line after a list or quote block.
+Put a block ID on its own line after a list or quote block, with a blank line
+before and after it; without the line before it marks only the last item.
 
 ## Embeds
 
@@ -81,6 +82,20 @@ Quote wikilinks used as YAML values. See
 Use <code>#nested/tag</code> for inline tags. Hide content from reading view with
 <code>%%inline comments%%</code> or a matching pair of <code>%%</code> markers on
 separate lines.
+
+## Render-safe math
+
+- In a table, write a pipe inside math as <code>\lvert</code>/<code>\rvert</code>
+  and anywhere else as <code>\|</code>; a bare <code>|</code> starts a new column.
+- When a script inserts <code>$$</code>, use a literal or function replacement
+  (JavaScript <code>replace</code> turns <code>$$</code> into <code>$</code>), then
+  recount the delimiters in every changed file.
+
+~~~markdown
+| Name | Formula |
+| --- | --- |
+| Absolute value | $\lvert x \rvert$ |
+~~~
 
 ## Attribution
 
