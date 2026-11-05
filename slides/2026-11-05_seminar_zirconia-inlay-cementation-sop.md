@@ -42,20 +42,50 @@ description: "APA → 세정 → 프라이머 → 접착의 근거기반 프로�
 
 ## 전체 흐름 한눈에
 
-```
-기공소 납품
-    │
-    ▼
-APA (공기입자연마, Airborne Particle Abrasion)
-    │
-    ├─── 즉시 세팅 ───────────────────────────┐
-    │                                           │
-    ├─── ≤72시간 이내 세팅 ──────────────────┐ │
-    │                                        │ │
-    └─── >72시간 경과 ────────────────────┐  │ │
-                                          ▼  ▼ ▼
-                                세정 → 10-MDP → 레진 접착
-```
+<svg viewBox="0 0 720 320" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:720px;font-family:sans-serif;font-size:14px">
+  <!-- 기공소 납품 -->
+  <rect x="260" y="10" width="200" height="40" rx="6" fill="#e8f0fe" stroke="#4a6cf7" stroke-width="1.5"/>
+  <text x="360" y="35" text-anchor="middle" font-weight="bold" fill="#1a237e">기공소 납품</text>
+  <!-- 화살표 -->
+  <line x1="360" y1="50" x2="360" y2="70" stroke="#555" stroke-width="2" marker-end="url(#arr)"/>
+  <!-- APA 박스 -->
+  <rect x="200" y="70" width="320" height="44" rx="6" fill="#fff3e0" stroke="#e65100" stroke-width="1.5"/>
+  <text x="360" y="88" text-anchor="middle" font-weight="bold" fill="#bf360c">APA</text>
+  <text x="360" y="106" text-anchor="middle" font-size="11" fill="#6d4c41">(공기입자연마, Airborne Particle Abrasion)</text>
+  <!-- 세 갈래 분기 수직선 -->
+  <line x1="360" y1="114" x2="360" y2="134" stroke="#555" stroke-width="2"/>
+  <line x1="140" y1="134" x2="580" y2="134" stroke="#555" stroke-width="2"/>
+  <!-- 즉시 세팅 -->
+  <line x1="160" y1="134" x2="160" y2="154" stroke="#555" stroke-width="2" marker-end="url(#arr)"/>
+  <rect x="80" y="154" width="160" height="40" rx="6" fill="#e8f5e9" stroke="#2e7d32" stroke-width="1.5"/>
+  <text x="160" y="170" text-anchor="middle" font-weight="bold" fill="#1b5e20" font-size="13">즉시 세팅</text>
+  <text x="160" y="186" text-anchor="middle" font-size="11" fill="#388e3c">(APA 직후)</text>
+  <!-- ≤72시간 -->
+  <line x1="360" y1="134" x2="360" y2="154" stroke="#555" stroke-width="2" marker-end="url(#arr)"/>
+  <rect x="275" y="154" width="170" height="40" rx="6" fill="#fff8e1" stroke="#f57f17" stroke-width="1.5"/>
+  <text x="360" y="170" text-anchor="middle" font-weight="bold" fill="#e65100" font-size="13">≤72시간 이내</text>
+  <text x="360" y="186" text-anchor="middle" font-size="11" fill="#f57f17">세정만 추가</text>
+  <!-- >72시간 -->
+  <line x1="560" y1="134" x2="560" y2="154" stroke="#555" stroke-width="2" marker-end="url(#arr)"/>
+  <rect x="470" y="154" width="180" height="40" rx="6" fill="#fce4ec" stroke="#c62828" stroke-width="1.5"/>
+  <text x="560" y="170" text-anchor="middle" font-weight="bold" fill="#b71c1c" font-size="13">&gt;72시간 경과</text>
+  <text x="560" y="186" text-anchor="middle" font-size="11" fill="#c62828">Re-APA 필수</text>
+  <!-- 세 갈래 → 합류 -->
+  <line x1="160" y1="194" x2="160" y2="254" stroke="#555" stroke-width="1.5"/>
+  <line x1="360" y1="194" x2="360" y2="254" stroke="#555" stroke-width="1.5"/>
+  <line x1="560" y1="194" x2="560" y2="254" stroke="#555" stroke-width="1.5"/>
+  <line x1="160" y1="254" x2="560" y2="254" stroke="#555" stroke-width="2"/>
+  <line x1="360" y1="254" x2="360" y2="270" stroke="#555" stroke-width="2" marker-end="url(#arr)"/>
+  <!-- 최종 -->
+  <rect x="170" y="270" width="380" height="40" rx="6" fill="#ede7f6" stroke="#4527a0" stroke-width="2"/>
+  <text x="360" y="295" text-anchor="middle" font-weight="bold" fill="#311b92" font-size="14">세정 → 10-MDP → 레진 접착</text>
+  <!-- 화살표 마커 -->
+  <defs>
+    <marker id="arr" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 Z" fill="#555"/>
+    </marker>
+  </defs>
+</svg>
 
 분기점 = **APA 후 경과 시간**
 
@@ -192,6 +222,29 @@ ZrO₂ 표면의 Zr-OH (수산기)
 
 ---
 
+## 글리세린 겔 도포 — 최종 광중합 전 필수
+
+### 왜 필요한가?
+
+레진 시멘트는 **산소 억제층 (Oxygen Inhibition Layer)** 때문에 표면이 완전히 중합되지 않는다.
+
+- 레진 표면의 산소가 라디칼을 소거 → 표면 1~5 µm가 미중합 상태로 남음
+- 미중합 레진 = 착색 · 2차 우식 · 환자 불쾌감 원인
+
+### 방법
+
+| 단계 | 내용 |
+|---|---|
+| 1. 잉여 시멘트 제거 | 광중합 전 탐침 · 플로스로 제거 |
+| 2. 교합지 체크 | 간섭점 조정 완료 후 |
+| 3. 글리세린 겔 도포 | **모든 마진 라인 + 접착면 전체**에 도포 (글리세린은 산소를 차단) |
+| 4. 최종 광중합 | **각 면 20초 이상** (협·설·인접면 별도) |
+| 5. 글리세린 세척 | 수세 후 에어 건조 → 표면 광택 확인 |
+
+> **핵심**: 글리세린 없이 최종 중합하면 마진부 미중합 레진이 남아 장기 유지에 불리하다.
+
+---
+
 ## 임상 체크리스트 — 세팅 당일
 
 ```
@@ -201,7 +254,9 @@ ZrO₂ 표면의 Zr-OH (수산기)
 □ Katana Cleaner 세팅 트레이에 없는지 확인 ⛔
 □ 10-MDP 프라이머 충분히 도포 → 에어 건조
 □ 레진 시멘트 MDP 함유 여부 확인
-□ 접착 완료 후 교합 조정 → 광중합
+□ 잉여 시멘트 제거 → 교합 조정
+□ 글리세린 겔 도포 → 각 면 20초 이상 광중합
+□ 글리세린 수세 → 마진 확인
 ```
 
 ---
