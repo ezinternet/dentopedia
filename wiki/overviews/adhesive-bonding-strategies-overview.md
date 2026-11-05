@@ -32,6 +32,8 @@ source_wiki:
 > - **자가접착 레진 시멘트 (Self-Adhesive Resin Cement, SARC) 7편 추가(2026-10-28)**: 지르코니아 접착은 표면처리와 시멘트가 각각 결과를 바꾼다. 열산 부식이 가장 좋았고 Piranha 산이 가장 나빴으며 Panavia SA가 TheraCem보다 높았다(Sakrana 2020). 저온 플라즈마는 단독으로는 효과가 없었고 MDP 프라이머와 함께 쓸 때만 결합강도가 올랐다(Kamis 2023). [확인]
 > - Ti-base: 지르코니아 + TheraCem 조합이 가장 높은 전단결합강도였다(Dhesi 2021). 지르코니아 강화 리튬실리케이트 (Zirconia-reinforced Lithium Silicate, ZLS)에는 불산 45초·소성 1회가 좋았고 불산 농도는 무관했다(Moeeduddin 2020). [확인]
 > - 결합 외 성질: 근면 탈회 억제는 레진강화형 글래스아이오노머 (Resin-Modified Glass Ionomer, RMGI) > Ceramir > TheraCem > Activa 순이었고 일반 SARC(Unicem 2)는 오히려 탈회되었다(Huang 2020). 생체활성유리 1–2 wt%를 넣은 SARC는 치수줄기세포 광화를 높였고 TheraCem이 가장 낮았다(Kwon 2026). 산소 억제층은 광중합 레진과의 결합을 높이고 화학중합 레진과는 낮췄다(Patangia 2025, in-vitro 8편). [확인]
+> - **OIL·자가부식 호환 주의**: 산소 억제층(Oxygen-Inhibited Layer, OIL)은 결합에 필수가 아니다 — OIL 유무에 따른 µTBS 동등(Suh 2004). 그러나 all-in-one 자가산부식(Self-Etch, SE) 접착제의 OIL은 산성을 띠어 3차 아민 활성제를 억제 → 자가중합(self-cure)·이중중합(dual-cure) 레진 시멘트와 호환 불가 (별도 처리 필요). [확인]
+> - **OIL 감소 ≠ 결합강도 향상**: Scotchbond Universal Plus(SP)는 전임 Scotchbond Universal(SB) 대비 OIL 65% 감소(12.2 vs 35.4 µm, p<0.001), 전환율(Degree of Conversion, DC)·경도·탄성계수 모두 향상; µTBS는 동등 — OIL 두께 단독으로 µTBS가 결정되지 않음(Alam 2023). [확인]
 > - **확신도**: 축 1·2·3·4·6 = 근거강함(in-vitro 한정); 축 5 stamp = 미검증(case report).
 
 ## Three-line Summary
@@ -122,6 +124,8 @@ The fatigue/aging picture is sharper once universal adhesives are compared head-
 | Oxygen-inhibited layer | [[resin-bonding/patangia-2025-effect-oxygen-inhibited-layer-dental]] | SR of 8 in-vitro studies: OIL raises bond to light-cured composite, lowers it to chemically cured composite — relevant to layering and dual-cure cementation |
 | OIL mechanism (viscosity/filler/T) | [[resin-bonding/gauthier-2005-oxygen-inhibition-dental-resins]] | Raman: viscosity↑ → O₂ diffusion↓ → surface DC↑; filler competing effects; >110°C eliminates OIL |
 | Glycerin as oxygen barrier | [[dental-materials/lim-2022-oxygen-shielding-glycerin-vacuum-3d-printed]] | GL immersion > vacuum > air for DC and hardness in 3D-printed resin; GL+80°C optimal; caution: GL@RT raises water solubility |
+| OIL compatibility — SE all-in-one | [[resin-bonding/suh-2004-oxygen-inhibited-layer-adhesion-dentistry]] | OIL not required for bonding (SBS/µTBS equivalent ±OIL); acidic OIL from all-in-one SE inhibits tertiary-amine activator in self-/dual-cure cements → **incompatible without extra step** (separate hydrophobic resin, oxygen-blocking layer, or dual-cure–compatible adhesive required) |
+| OIL thickness vs µTBS | [[resin-bonding/alam-2023-evaluating-advancements-recently-introduced]] | SP vs SB: OIL 65% thinner (12.2 vs 35.4 µm, p<0.001), DC 92.6% vs 81.4%, hardness/modulus higher; µTBS and survival probability **equivalent** — OIL thickness alone does not drive µTBS in current-generation universal adhesives |
 
 Reading them together: for zirconia, **the primer is the constant** (Kamis, and the earlier Kwon 2026 primer result); the pretreatment and cement brand change the size of the bond. TheraCem bonds well (Dhesi, Mahrous, Muller) but its calcium-silicate "bioactivity" did not show up as pulp-cell mineralization (Kwon 2026) and its caries-inhibition zone is smaller than RMGI's (Huang 2020). For a high-caries-risk patient with a crown margin on root dentin, an RMGI luting cement has the stronger in-vitro case.
 
@@ -247,3 +251,10 @@ The functional-monomer rationale underlying steps 2–3 is now spelled out at th
 - [[resin-bonding/zhao-2023-enhancing-dentin-bonding-quality-acetone]] — In vitro microtensile study (60 third molars, 4 solvent groups): acetone wet-bonding preserved bond strength after thermocycling/collagenase aging (p< … (in-vitro, 2023)
 - [[resin-bonding/zhou-2025-collagen-crosslinkers-naocl-dentin-bond-strength-sr-ma]] — SR+MA (14 in vitro studies, 11/14 low RoB) showing collagen crosslinkers (EDTA, IP6, PA, RA … (sr+ma, 2025)
 - [[resin-bonding/kodaira-2022-resin-bonding-titanium-adhesive-monomers-review]] — narrative review (11 studies): functional monomers (MDP, MEPS, 6-MHPA, 4-META) bond resin to titanium as effectively as silanization + tribochemical silica coating; extends the MDP/functional-monomer surface-treatment theme to the titanium substrate (narrative-review, 2022)
+
+### 신규 추가 (2026-11, OIL 클러스터)
+
+- [[resin-bonding/suh-2004-oxygen-inhibited-layer-adhesion-dentistry]] — in-vitro (Bisco, 2004): OIL is not required for bonding — SBS/µTBS equivalent with and without OIL; CQ depleted in OIL, DC lower; acidic OIL from all-in-one SE adhesives inhibits tertiary-amine activator → incompatible with self-cure and dual-cure cements without an additional hydrophobic resin or oxygen-blocking step (in-vitro, 2004)
+- [[resin-bonding/alam-2023-evaluating-advancements-recently-introduced]] — in-vitro (n=24 molars, 4 groups): Scotchbond Universal Plus (SP) vs Scotchbond Universal (SB) — OIL 65% thinner (12.2 vs 35.4 µm, p<0.001), viscosity lower, DC/hardness/modulus all higher in SP; µTBS and Kaplan-Meier survival probability statistically equivalent → OIL thickness alone does not drive µTBS in current-generation universal adhesives (in-vitro, 2023)
+- [[resin-bonding/gauthier-2005-oxygen-inhibition-dental-resins]] — in-vitro Raman spectroscopy: viscosity↑ reduces O₂ diffusion → higher surface DC; filler particles have competing effects; >110°C eliminates OIL; mechanistic foundation for why high-viscosity or filled adhesives show thinner OIL (in-vitro, 2005)
+- [[dental-materials/lim-2022-oxygen-shielding-glycerin-vacuum-3d-printed]] — in-vitro (3D-printed resin): glycerin immersion > vacuum > air for both DC and surface hardness; GL+80°C post-cure optimal; glycerin at room temperature raises water solubility — practical oxygen-barrier protocol for 3D-printed restorations (in-vitro, 2022)
