@@ -6,6 +6,11 @@ status: done
 owner: 원장
 priority: P1
 tags: [zirconia, inlay, cementation, APA, sandblasting, SOP, slides]
+source_wiki:
+  - wiki/dental-materials/zirconia/al-akhali-2025-zirconia-cleaning-bonding-duration.md
+  - wiki/dental-materials/zirconia/nasri-2025-surface-conditioning-zirconia-bonding-umbrella.md
+output:
+  - slides/2026-11-05_seminar_zirconia-inlay-cementation-sop.md
 ---
 
 # Goal
