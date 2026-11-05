@@ -2,7 +2,7 @@
 title: "근관치료·진단 — diagnosis"
 authors: navigation
 year: 2026
-date: 2026-08-11
+date: 2026-11-05
 doi: N/A
 source: navigation
 category: endodontics/diagnosis
@@ -15,26 +15,28 @@ tags: [navigation, category-index, diagnosis]
 > [!summary] 한국어 핵심요약
 > - **분야**: 근관치료·진단
 > - **범위**: Pulp & periapical diagnosis — pulp sensibility vs vitality test accuracy, pulpitis diagnosis effectiveness, pediatric pulp testing, periapical lesion etiology/diagnosis (granuloma vs cyst)
-> - **수록 논문**: 16편
+> - **수록 논문**: 19편
 
 ## Three-line Summary
 
 **Scope**: Pulp & periapical diagnosis — pulp sensibility vs vitality test accuracy, pulpitis diagnosis effectiveness, pediatric pulp testing, periapical lesion etiology/diagnosis (granuloma vs cyst)
-**Indexed papers**: 16 papers in `wiki/endodontics/diagnosis/`.
+**Indexed papers**: 19 papers in `wiki/endodontics/diagnosis/`.
 
 ## 세줄요약
 
 **분야**: 근관치료·진단
-**수록 논문**: 16편
+**수록 논문**: 19편
 **하위 카테고리**: 없음
 
-## Papers in this Category (16)
+## Papers in this Category (19)
 
 | Paper |
 |---|
 | [[abubakr-2025-histological-immunohistochemical-analysis-periapical-lesions|Histological and Immunohistochemical Analysis of Human Periapical Lesions: A Study of TGF-β1 and CD68 Markers]] |
 | [[alkhani-2026-optical-coherence-tomography-detection-dental|Optical Coherence Tomography for Detection of Dental Cracks and Vertical Root Fracture: A Scoping Review]] |
+| [[almadi-2020-cbct-grey-density-periapical-lesion|Accuracy of mean grey density values obtained with small field of view cone beam computed tomography in differentiation between periapical cystic and solid lesions]] |
 | [[asgary-2024-apical-periodontitis-vital-nonvital|Apical Periodontitis in Vital and Nonvital Teeth: Clinical and Radiographic Features]] |
+| [[de-rosa-2020-cbct-texture-periapical-cyst-granuloma|Differentiation of periapical granuloma from radicular cyst using cone beam computed tomography images texture analysis]] |
 | [[donnermeyer-2023-effectiveness-of-diagnosing-pulpitis-a|Effectiveness of diagnosing pulpitis: A systematic review]] |
 | [[dumitrescu-2021-cbct-periapical-lesions-maxillary-sinus|Association between CBCT and Histological/Immunohistochemical Features in Periapical Lesions Correlated with Thickened Maxillary Sinus Mucosa]] |
 | [[godoi-2025-lps-lta-clinical-features-secondary-endodontic|Correlation Between LPS and LTA Levels With Clinical Features in Secondary Endodontic Infections]] |
@@ -45,6 +47,7 @@ tags: [navigation, category-index, diagnosis]
 | [[nair-2006-causes-persistent-apical-periodontitis-review|On the causes of persistent apical periodontitis: a review]] |
 | [[patro-2022-diagnostic-accuracy-of-pulp-vitality|Diagnostic Accuracy of Pulp Vitality Tests and Pulp Sensibility Tests for Assessing Pulpal Health in Permanent Teeth: A Systematic Review and Meta-Analysis]] |
 | [[pimenta-carvalho-2021-differential-diagnosis-nonodontogenic-endodontic-radiolucent|Clinical Differential Diagnosis between Nonodontogenic and Endodontic Radiolucent Lesions in Periapical Location: A Critical Review]] |
+| [[pitcher-2017-cbct-periapical-cyst-decision-tree|Binary Decision Trees for Preoperative Periapical Cyst Screening Using Cone-beam Computed Tomography]] |
 | [[ricucci-2010-biofilms-apical-periodontitis-prevalence|Biofilms and Apical Periodontitis: Study of Prevalence and Association with Clinical and Histopathologic Findings]] |
 | [[rios-osorio-2023-paradigm-inflammatory-radicular-cyst-biological|The Paradigm of the Inflammatory Radicular Cyst: Biological Aspects to be Considered]] |
 | [[yamamoto-silva-2017-chondroblastic-osteosarcoma-mimicking-periapical-abscess|Chondroblastic osteosarcoma mimicking periapical abscess]] |
