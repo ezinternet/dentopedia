@@ -4,7 +4,7 @@ authors: "Young Woo Song, So-Ra Yoon, Jae-Kook Cha, Jung-Seok Lee, Seong-Ho Choi
 year: 2017
 doi: "unknown"
 source: song-2017-local-ridge-augmentation-bone-patch.md
-category: "implants/ridge-augmentation"
+category: "bone-regeneration"
 evidence_level: animal
 pdf_path: /Users/oracleneo/llm-wiki/papers/kda-2017-vol55-no10.pdf
 pdf_filename: kda-2017-vol55-no10.pdf
