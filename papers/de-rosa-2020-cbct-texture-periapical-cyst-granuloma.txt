@@ -1,0 +1,104 @@
+Title: Differentiation of periapical granuloma from radicular cyst using cone beam computed tomography images texture analysis
+Authors: De Rosa CS, Bergamini ML, Palmieri M, Sarmento DJS, de Carvalho MO, Ricardo ALF, Hasseus B, Jonasson P, Braz-Silva PH, Ferreira Costa AL
+Journal: Heliyon. 2020;6(10):e05194
+DOI: 10.1016/j.heliyon.2020.e05194
+PMID: 33088959
+PMCID: PMC7560585
+Year: 2020
+
+ABSTRACT
+
+Objective: This study aimed to investigate the use of texture analysis for characterization of radicular cysts and periapical granulomas and to assess its efficacy to differentiate between both lesions with histological diagnosis.
+
+Methods: Cone beam computed tomography (CBCT) images were obtained from 19 patients with 25 periapical lesions (14 radicular cysts and 11 periapical granulomas) confirmed by biopsy. Regions of interest were created in the lesions from which 11 texture parameters were calculated. Spearman's correlation analysis was performed and adjusted with Benjamini-Hochberg false discovery rate procedure (FDR <0.005).
+
+Results: The texture parameters used to differentiate the lesions were assessed by using a receiver operating characteristic analysis. Five texture parameters were predictive of lesion differentiation for eight positions: angular second moment; sum of squares; sum of average; contrast; correlation.
+
+Conclusion: Texture analysis of CBCT scans distinguishes radicular cysts from periapical granulomas and can be a promising diagnostic tool for periapical lesions.
+
+Clinical significance: Texture analysis can be used in diagnostic and treatment monitoring to provide supplementary information.
+
+FULL TEXT
+
+1. Introduction
+
+Dental pulp exposure due to factors such as caries lesion or coronal fracture, which causes contact with microorganisms and/or their by-products, will induce an inflammatory response which can lead to pulp necrosis. The spread of these toxic products into the periapex will cause a periapical lesion in the site, being characterized by infiltration of inflammatory cells and production of cytokines and chemokines. Radicular cysts and periapical granulomas account for two-thirds of these asymptomatic inflammatory lesions in the anterior region of the maxilla, where they are more frequent.
+
+Precise evaluation of periapical lesions is essential to getting an accurate diagnosis and deciding on appropriate dental intervention. An objective evaluation of the images could give dentists some significant information to facilitate clinical management, since periapical granulomas are tending to heal with non-surgical root canal treatment against the radicular cyst.
+
+It has been proven that differentiation of radicular cysts and periapical granulomas by image is not possible in intraoral radiographs and cone beam computed tomography (CBCT) can have a moderately accurate diagnosis depending on the size of the lesion.
+
+CBCT is capable of detecting more periapical lesions (20-39%) compared to the two-dimensional radiography (2D), thus being a more reliable and precise method for differential diagnosis of these inflammatory lesions as their boundaries can be determined with greater accuracy.
+
+Despite the many studies trying to determine a valid diagnostic method for differentiation of radicular cysts and periapical lesions prior to any surgical intervention, the histological method is still known to have the greatest sensitivity and specificity for diagnosis of these lesions.
+
+Texture analysis is a mathematical technique applied to 2D and 3D images for identification of complex structures involving intensity variation of image element values (pixels) acquired under certain conditions. Among the available approaches for extracting texture parameters from an image, the one based on the gray level co-occurrence matrix has been the most used method. This approach relies on counting the order of co-occurrence of brightness values in pairs of pixels at a given distance and direction, as proposed by Haralick.
+
+2. Materials and Methods
+
+2.1 Ethical aspects
+This study was conducted according to ethical standards defined by institutional and/or national research committees and the Helsinki Declaration of 1964, including subsequent amendments or comparable ethical standards, and approved by the University of Sao Paulo School of Dentistry research ethics committee under protocol number 2.097.312.
+
+2.2 Image acquisition
+All the CBCT images were acquired by using a ProMax 3D scanner (Planmeca Oy, Helsinki, Finland) operating with the following parameters: 96 kVp, 12 mA, FOV (field of view) of 6 cm, voxel size of 200 um and acquisition time of 12s.
+
+2.3 Surgical pathology diagnosis
+After acquisition of the images, the patients underwent the dental extraction. The lesions were removed, with or without the affected tooth, conditioned in 10% buffered formalin for histological processing and sent to the Oral and Maxillofacial Surgical Pathology Service of the Department of Stomatology, School of Dentistry, University of Sao Paulo. Histopathological analysis was performed by an experienced oral and maxillofacial pathologist, who used light microscopy to examine slides stained with hematoxylin and eosin. Periapical granulomas presenting epithelium were excluded in order to discard epithelized granulomas.
+
+2.4 Patients' characteristics
+Of the original sample of 26 subjects, 19 patients with 25 periapical lesions were included in the study. Seven patients were excluded from the study: two did not attend the sessions for tooth extraction, two had no sufficient material for histopathological analysis, two had no sufficient area to delimit the region of interest (ROI) for texture analysis and one had the presence of metallic artifacts in the CBCT scan.
+
+Of the 19 patients included, nine were female and ten were male, with age ranging from 24 to 72 years old and a mean age of 46.7 years. Four periapical lesions were found in anterior teeth and 21 in posterior teeth.
+
+2.5 Image analysis
+The CBCT images, generated in DICOM format (Digital Imaging Communication in Medicine), were analysed by a dentomaxillofacial radiologist with 4 years' experience in CBCT imaging by using OnDemand 3D software (Cybermed Inc., Seoul, Korea). The images were evaluated on a 13.3-inch screen with 2560x1600 pixel resolution (Apple, Cupertino, USA) in a low-light environment.
+
+All CBCT images were displayed with WW: 1650; and WL: 875.
+
+The most representative sagittal views of the periapical lesions were selected (containing the largest dimension of the lesions) and then the images were converted into bitmap format (BMP).
+
+2.6 Texture analysis
+An evaluator well-trained in analysing CBCT images, also blinded to clinical, histopathological and diagnostic data, performed the texture analysis. All the images were in BMP format and were exported to MaZda software for calculating texture features.
+
+A round-shaped ROI of 44 pixels in diameter was manually segmented and then set in the center of the lesion on the sagittal image so that only the lesion tissue was encompassed. The ROI definition (44 pixels) was based in the smallest lesion in our sample, ensuring enclosing area of the tissue of interest.
+
+The gray level co-occurrence matrix is a square matrix where the number of rows and columns is equal to the number of gray levels in the image that can reveal certain properties about the spatial distribution of the gray levels in the image texture.
+
+The following texture parameters were analysed based on the descriptors set by Haralick: contrast, inverse difference moment, angular second moment, correlation, sum of squares, entropy, sum of average, sum of variance, sum of entropy, difference of variance and difference of entropy. These parameters were calculated for different positions determined by two distances between pixels (d=1, d=2) and four image directions (horizontal, diagonal, vertical and anti-diagonal, corresponding to 0 degrees, 45 degrees, 90 degrees, 135 degrees, respectively).
+
+2.7 Statistical analysis
+Statistical analysis was performed by using the R software, version 3.6.0. Spearman's correlation coefficient was used to analyse associations between the investigated parameters. Mann-Whitney's test was used to test between-groups and p-values were adjusted by using the Benjamini-Hochberg false discovery rate (FDR) method. The significance level adopted was 5%.
+
+3. Results
+
+Our sample was composed of 19 patients, totalizing 25 periapical lesions, in which 14 were radicular cysts (56%) and 11 were periapical granulomas (44%).
+
+Eleven texture parameters were evaluated in eight different positions, totalizing 88 variables.
+
+Five texture parameters were predictive for differentiation of lesions, namely: angular second moment (p=0.021, position S1.0), sum of squares (p=0.019, position S1.0), sum of average (p=0.019, position S1.0), contrast (multiple positions, p=0.019-0.038), correlation (multiple positions, p=0.019-0.037).
+
+The largest area under the ROC curve (AUC) was 81.2% with a cutoff point of 0.10 for angular second moment at position S(1.0):
+- Sensitivity: 100%
+- Specificity: 54.5%
+- Interpretation: values greater than 0.10 predicted radicular cyst
+
+Dendrograms for cluster analysis using textural parameters automatically classified the lesions into two groups: 18 lesions (radicular cysts) and 7 lesions (periapical granulomas). Compared to histopathological results, five lesions were classified incorrectly in the first group and one lesion was misclassified in the second group.
+
+Key textural differences between lesions:
+- Radicular cysts: higher angular second moment values (more homogeneous internal structure) — consistent with semi-solid necrotic material from liquefied epithelial cells
+- Periapical granulomas: lower angular second moment values (more heterogeneous) — consistent with cell content similar to physiological tissue
+
+4. Discussion
+
+Texture analysis frequently involves a complex interpretation. CBCT is specific for mineralized tissue and has inherently a wide window.
+
+The methodology requires conversion from DICOM to BMP format, which causes some loss of resolution. However, there is still information not perceptible in visual analysis.
+
+Limitations:
+- Small sample size (n=25)
+- Only single slice texture analysis (not volumetric)
+- Future studies should validate with augmented datasets
+
+5. Conclusion
+
+Results suggest texture analysis of CBCT images has potential for differentiating between radicular cysts and periapical granulomas. Five texture parameters showed association with lesion characterization: angular second moment, sum of squares, sum of average, contrast, and correlation. This technique can be an auxiliary diagnostic and prognostic tool for periapical lesions.
