@@ -120,6 +120,8 @@ The fatigue/aging picture is sharper once universal adhesives are compared head-
 | Caries protection at the margin | [[glass-ionomer/huang-2020-inhibition-root-dentin-demineralization]] | Root-dentin inhibition zone: RMGI 7700 µm > Ceramir 3800 > TheraCem 2100 > Activa 1400; Unicem 2 net demineralization (−2000 µm) |
 | Bioactivity toward pulp cells | [[resin/kwon-2026-biological-effects-bioactive-glass-sarc]] | Experimental SARCs with 1–2 wt% bioactive glass raised DMP1/BSP and mineral nodules; TheraCem lowest mineralization despite its calcium silicate |
 | Oxygen-inhibited layer | [[resin-bonding/patangia-2025-effect-oxygen-inhibited-layer-dental]] | SR of 8 in-vitro studies: OIL raises bond to light-cured composite, lowers it to chemically cured composite — relevant to layering and dual-cure cementation |
+| OIL mechanism (viscosity/filler/T) | [[resin-bonding/gauthier-2005-oxygen-inhibition-dental-resins]] | Raman: viscosity↑ → O₂ diffusion↓ → surface DC↑; filler competing effects; >110°C eliminates OIL |
+| Glycerin as oxygen barrier | [[dental-materials/lim-2022-oxygen-shielding-glycerin-vacuum-3d-printed]] | GL immersion > vacuum > air for DC and hardness in 3D-printed resin; GL+80°C optimal; caution: GL@RT raises water solubility |
 
 Reading them together: for zirconia, **the primer is the constant** (Kamis, and the earlier Kwon 2026 primer result); the pretreatment and cement brand change the size of the bond. TheraCem bonds well (Dhesi, Mahrous, Muller) but its calcium-silicate "bioactivity" did not show up as pulp-cell mineralization (Kwon 2026) and its caries-inhibition zone is smaller than RMGI's (Huang 2020). For a high-caries-risk patient with a crown margin on root dentin, an RMGI luting cement has the stronger in-vitro case.
 
