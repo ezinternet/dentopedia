@@ -6,6 +6,14 @@ status: done
 owner: 원장
 priority: P1
 tags: [uv-photofunctionalization, plasma, DBD, wavelength, decision-tool]
+source_wiki:
+  - wiki/overviews/uv-photofunctionalization-dental-implants.md
+  - wiki/overviews/plasma-surface-treatment-dental-implants.md
+  - wiki/implants/surface/choi-2017-uv-dbd-plasma-titanium-storage-biological-activity.md
+  - wiki/implants/surface/plasma/shahraki-2026-cold-atmospheric-plasma-peri-implantitis-scoping-review.md
+output:
+  - interactives/2026-11-05_uv-wavelength-photon-energy-calculator.html
+  - interactives/2026-11-05_uv-vs-plasma-decision-tool.html
 ---
 
 # Goal
