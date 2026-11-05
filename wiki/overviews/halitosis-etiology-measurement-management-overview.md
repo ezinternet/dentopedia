@@ -2,7 +2,7 @@
 title: "Halitosis — Etiology, Measurement, Systemic Associations, and Management Overview"
 category: [overviews]
 type: overview
-date: 2026-09-14
+date: 2026-11-05
 evidence_level: synthesis
 source_wiki:
   - wiki/halitosis/silva-2017-estimated-prevalence-halitosis-sr.md
@@ -20,7 +20,12 @@ source_wiki:
   - wiki/halitosis/wang-2022-clinical-efficacy-photodynamic-therapy.md
   - wiki/halitosis/mortazavi-2020-drug-related-halitosis-systematic.md
   - wiki/halitosis/kumbargere-2019-interventions-managing-halitosis.md
-tags: [halitosis, VSC, organoleptic, probiotics, PDT, periodontitis, OHRQoL, H-pylori, drug-induced, epidemiology]
+  - wiki/halitosis/izidoro-2022-revisiting-standard-and-novel-therapeutic.md
+  - wiki/halitosis/bicak-2018-a-current-approach-to-halitosis.md
+  - wiki/halitosis/campisi-2010-halitosis-could-it-be-more.md
+  - wiki/halitosis/mokeem-2014-halitosis-a-review-of-the.md
+  - wiki/halitosis/marinis-2026-the-oral-cavity-as-a.md
+tags: [halitosis, VSC, organoleptic, probiotics, PDT, periodontitis, OHRQoL, H-pylori, drug-induced, epidemiology, ISBOR, bioreactor, classification, detection]
 ---
 
 > [!summary] 한국어 핵심요약
@@ -34,11 +39,14 @@ tags: [halitosis, VSC, organoleptic, probiotics, PDT, periodontitis, OHRQoL, H-p
 > - **삶의 질(OHRQoL)**: 성인에서 구취가 있으면 구강건강관련삶의질(OHRQoL) 유의하게 저하(SMD 0.51; Cassiano 2021). 청소년에서는 유의한 연관 없음. 청소년·젊은 성인에서도 불안·우울·사회적 고립과 일관된 연관(Briceag 2023).
 > - **화학감각(Chemosensory) 문제**: 후각 둔화 환자는 자신의 구취를 스스로 인지하지 못해 자가보고 기반 유병률이 과소 또는 과대 추정될 수 있음(Schertel Cassiano 2023).
 > - **관리 근거의 천장 (Cochrane, Kumbargere 2019)**: 구강 원인 구취 개입 RCT 44편(1,809명)을 GRADE로 보면 **모든 비교가 낮음~매우 낮음 확실성**이고 어느 개입도 우월성이 입증되지 않았다 — 혀 세정 vs 무세정 OLT 차이 −0.20(2편, 46명), CHX+아연 가글 −0.20, 세틸피리디늄 가글 추가 −0.48, 0.3% 트리클로산 치약 −3.48(1편, 81명). 대부분 1–4주 단기·고위험 비뚤림. 혀 세정을 1차로 두는 것은 기전적 논리와 관행이지 비교 우위가 입증돼서가 아니다.
+> - **ISBOR 분류**: 구취를 진성(생리적/병적 구강내·구강외) vs 망상성(가성 구취(Pseudohalitosis)·구취 공포증(Halitophobia))으로 분류(Izidoro 2022, Bicak 2018). 망상성 구취는 치과치료 무효 — 임상 심리/정신과 의뢰 필수.
+> - **구강 생물반응기(Oral Bioreactor, Marinis 2026)**: 혀 등면 혐기 니체는 황함유 아미노산→휘발성 황화합물(VSC) 연속 발효 반응기. 이상균총(dysbiosis)이 구취의 근위 구동자; 타액 흐름 = "세정율(wash rate)"; 생물막 두께·pH가 혐기 니체 깊이를 조절.
+> - **치료 4단계 사다리(Izidoro 2022)**: ① 기계적 제거(설태 긁개(tongue scraper) 75% vs. 칫솔 45% VSC 감소) → ② 화학적 항균(클로르헥시딘(Chlorhexidine, CHX) 0.2% = 금표준, VSC 43% 감소) → ③ VSC 중화(아연 젖산염(Zinc lactate)+이산화염소(Chlorine dioxide)) → ④ 마스킹(단기효과만). CHX+세틸피리디늄 클로라이드(Cetylpyridinium Chloride, CPC)+아연 조합이 단독보다 우월(코크란 확인).
 > - **임상 핵심**: 구취 평가 시 ① 설태 제거 + 구강위생 지도, ② 치주 검사, ③ 약물력·전신질환 확인, ④ 지속 시 H. pylori 검사 고려, ⑤ 심리적 부담(할리토포비아 포함) 스크리닝 순으로 접근한다.
 
 ## Three-line Summary
 
-Synthesis of 15 halitosis papers: halitosis affects ~31.8% of adults globally (Silva 2017, n=13 population-based studies); 80–90% is intra-oral (coated tongue, periodontal disease — OR 4.05–4.52 for periodontitis; Wang 2024, Silva 2017), and H. pylori infection raises halitosis risk 2.85× with eradication reducing it 83% (RR 0.17; Dou 2016); halitometer instruments correlate only moderately with the gold-standard organoleptic test (r=0.65–0.76; Szalai 2023) and cannot replace it.
+Synthesis of 20 halitosis papers: halitosis affects ~31.8% of adults globally (Silva 2017, n=13 population-based studies); 80–90% is intra-oral (coated tongue, periodontal disease — OR 4.05–4.52 for periodontitis; Wang 2024, Silva 2017), and H. pylori infection raises halitosis risk 2.85× with eradication reducing it 83% (RR 0.17; Dou 2016); halitometer instruments correlate only moderately with the gold-standard organoleptic test (r=0.65–0.76; Szalai 2023) and cannot replace it.
 
 Probiotics produce short-term VSC and organoleptic score reductions (SMD −0.58/−0.26; Huang 2022) but the benefit disappears beyond 4 weeks, and a 4-RCT meta-analysis found the overall effect nonsignificant (p=0.53; López-Valverde 2022); photodynamic therapy (PDT) significantly reduces H₂S immediately (MD −34.49; Wang 2022) but no lasting benefit over tongue scraper after 7 days — neither replaces mechanical oral hygiene as sustained first-line management.
 
@@ -46,7 +54,7 @@ Halitosis significantly impairs adult OHRQoL (SMD 0.51; Cassiano 2021) and is co
 
 ## 세줄요약
 
-15편 종합: 구취(Halitosis)는 전 세계 성인 약 31.8%에서 발생하고(Silva 2017, 인구기반 13연구), 80–90%는 구강내(설태·치주염 — OR 4.05–4.52; Wang 2024·Silva 2017), H. pylori 감염 시 위험 2.85배 증가·제균 후 83% 감소(RR 0.17; Dou 2016); 할리미터(halitometer)는 표준 관능검사(Organoleptic Test, OLT)와 중등도 상관(r=0.65–0.76; Szalai 2023)에 불과해 대체 불가.
+20편 종합: 구취(Halitosis)는 전 세계 성인 약 31.8%에서 발생하고(Silva 2017, 인구기반 13연구), 80–90%는 구강내(설태·치주염 — OR 4.05–4.52; Wang 2024·Silva 2017), H. pylori 감염 시 위험 2.85배 증가·제균 후 83% 감소(RR 0.17; Dou 2016); 할리미터(halitometer)는 표준 관능검사(Organoleptic Test, OLT)와 중등도 상관(r=0.65–0.76; Szalai 2023)에 불과해 대체 불가.
 
 프로바이오틱스(Probiotics)는 단기(≤4주) VSC·OLT 감소(SMD −0.58/−0.26; Huang 2022)가 있으나 4주 이후 효과 소실, 4편 메타분석에서 전체 비유의(p=0.53; López-Valverde 2022); 광역동요법(Photodynamic Therapy, PDT)은 즉시 H₂S 유의 감소(MD −34.49; Wang 2022)이나 7일 후 혀클리너 대비 차이 없음 — 두 요법 모두 기계적 구강위생을 대체하지 못한다.
 
@@ -55,6 +63,21 @@ Halitosis significantly impairs adult OHRQoL (SMD 0.51; Cassiano 2021) and is co
 ---
 
 ## 1. Etiology
+
+### ISBOR Classification Framework
+
+Izidoro et al. (2022) and Bicak (2018) both apply the International Society for Breath Odor Research (ISBOR) framework, which divides all halitosis into two top-level categories:
+
+1. **Genuine halitosis** — objectively detectable malodor
+   - *Physiological* (transient): morning breath, fasting, stress — resolves with routine oral hygiene
+   - *Pathological intra-oral* (85–90%): tongue coating, periodontal disease, odontogenic factors, xerostomia
+   - *Pathological extra-oral*: ENT, GI, hepatic, metabolic, drug-induced
+
+2. **Delusional halitosis** — no objective malodor detectable
+   - *Pseudohalitosis*: patient complaint without OLT confirmation; managed with oral hygiene reassurance
+   - *Halitophobia*: persistent belief of halitosis after treatment; clinical psychology or psychiatric referral required — dental treatment is futile and may reinforce the delusion
+
+**Clinical implication:** The genuine vs. delusional distinction is the first mandatory clinical branch point. All pharmacological and chemical deodorizing interventions are indicated only for genuine halitosis; escalating dental treatment in pseudohalitosis or halitophobia does harm.
 
 ### Intra-oral (80–90%)
 
@@ -82,9 +105,14 @@ Memon et al. (2022) SR of 19 studies (2014–2020) confirmed that the vast major
 
 **Extra-oral VSC marker:** Dimethyl sulfide (DMS, (CH₃)₂S) elevation is the chemical discriminator of a systemic/extra-oral origin — distinguishing it from intra-oral H₂S/CH₃SH predominance (Memon 2022).
 
-### Microbiome Role
+### Microbiome Role and Bioreactor Framework
 
 The VSC-producing microbiome is not limited to classic periodontal pathogens. Salivary bacteria, tongue dorsum communities, and even gastric *H. pylori* (via cystathionine-β-synthase / cystathionine-γ-lyase pathways) all contribute. Dysbiosis of the tongue microbiome — which parallels but is not identical to subgingival dysbiosis — is the proximal driver of physiological halitosis in otherwise periodontally healthy individuals.
+
+Marinis et al. (2026) introduce the **oral cavity as a bioreactor** conceptual model: the tongue dorsum's irregular papillary-fissure topography creates anaerobic microenvironments that continuously ferment sulfur-containing amino acids (cysteine, methionine) into VSC — analogous to an industrial bioreactor with substrate supply, microbial catalysts, and product output. Under this model:
+- **Dysbiosis** (imbalance favoring gram-negative anaerobes over healthy commensals) is the proximal driver, not simply total bacterial load.
+- **Salivary flow** acts as the bioreactor's "wash rate" — hyposalivation reduces VSC clearance and elevates substrate concentration.
+- **Biofilm thickness and pH** modulate anaerobic niche depth — interventions targeting biofilm architecture (mechanical disruption, probiotic competitive exclusion) may be more effective than those targeting individual VSC-producing species alone.
 
 ---
 
@@ -180,6 +208,21 @@ The age-stratified divergence between Cassiano 2021 (no OHRQoL effect in childre
 Tongue cleaning (tongue scraper or tongue brush) targeting the dorsal tongue coating is the conventional first-line intervention for intra-oral halitosis, because the dorsal tongue is the main VSC substrate — a mechanistic rationale rather than a demonstrated comparative advantage (see the Cochrane certainty ceiling below). Combined with twice-daily toothbrushing and interdental cleaning, it addresses the primary substrate for VSC-producing anaerobes. All pharmacological and adjunctive interventions in the literature are compared against mechanical hygiene as the comparator (Wang 2022 PDT trials use tongue scraper as control; probiotic trials use standard oral hygiene as background).
 
 **The certainty ceiling across all management options.** [[halitosis/kumbargere-2019-interventions-managing-halitosis]] (Cochrane SR, first publication 2019; 44 RCTs, 1,809 participants aged 17–77) pooled every intervention class for halitosis of oral origin — mechanical tongue cleaning, chewing gums, systemic deodorising agents, topical agents, toothpastes, mouth rinses, tablets and combinations. Every comparison was **low to very low certainty** (GRADE), and no single intervention or concentration was shown superior. Representative effects: mechanical tongue cleaning vs none MD −0.20 OLT (2 RCTs, 46 participants); 0.6% eucalyptus gum vs placebo −0.10 OLT (1 RCT, 65); 0.3% triclosan toothpaste vs control −3.48 OLT (1 RCT, 81); CHX + zinc acetate rinse vs placebo −0.20 OLT (1 RCT, 44); brushing + cetylpyridinium rinse vs brushing alone −0.48 OLT (1 RCT, 70); hinokitiol gel −0.27 OLT (1 RCT, 18); champignon extract −1.07 VAS (1 RCT, 40). Most trials ran 1–4 weeks with high or unclear risk of bias. The probiotic and PDT findings below sit inside this same ceiling: short-term signals, no durable comparative advantage. Practically, the management sequence in Section 6 should be read as a reasoned default ordered by mechanism and safety, not as a ranking proven by head-to-head trials (my judgment).
+
+### Treatment Ladder (Izidoro 2022)
+
+Izidoro et al. (2022) synthesize intra-oral halitosis management as a four-step ladder, with specific efficacy benchmarks from the literature:
+
+| Step | Intervention | Efficacy benchmark |
+|---|---|---|
+| 1. Mechanical removal | Tongue scraper (sulcus terminalis posterior focus) | 75% VSC reduction (vs. 45% with toothbrush) |
+| 2. Chemical antibacterial | CHX 0.2% rinse (gold standard) | 43% VSC reduction; 50% organoleptic score reduction |
+| 3. VSC neutralization | Zinc lactate + chlorine dioxide (adjunct) | Zinc 0.3% + CHX 0.025%: synergistic H₂S drop from 0.16% → 0.75% at 3h |
+| 4. Masking | Essential oils (Listerine-type) | ~25% reduction, ~3h duration only — not a substitute for steps 1–3 |
+
+**Combination superiority:** CHX 0.05% + CPC 0.05% + zinc lactate 0.14% (triple combination) outperforms single agents — confirmed by Cochrane review (n=293, 5 RCTs). Increased tooth and tongue staining is the main side effect requiring patient counseling.
+
+**Extra-oral and delusional halitosis management (Bicak 2018, Izidoro 2022):** Extra-oral causes require referral to the appropriate specialist (ENT, gastroenterology, internal medicine, clinical psychology). Pseudohalitosis is managed with oral hygiene reassurance and behavioral explanation; halitophobia requires psychiatric referral — no oral or chemical intervention is effective or indicated.
 
 ### Probiotics
 
@@ -318,3 +361,8 @@ Step 1: OLT (organoleptic) score ≥2 (Rosenberg scale, standardized conditions)
 - [[halitosis/wang-2022-clinical-efficacy-photodynamic-therapy]] — PDT SR+MA (8 RCTs)
 - [[halitosis/mortazavi-2020-drug-related-halitosis-systematic]] — drug-induced SR (10 drug groups)
 - [[halitosis/kumbargere-2019-interventions-managing-halitosis]] — Cochrane SR (44 RCTs, 1,809 pts): all halitosis interventions low/very-low certainty; no single intervention superior
+- [[halitosis/izidoro-2022-revisiting-standard-and-novel-therapeutic]] — ISBOR classification, 4-step treatment ladder; tongue scraper 75% vs. 45% VSC; CHX 0.2% = gold standard 43%; probiotic horizon (narrative-review, 2022)
+- [[halitosis/bicak-2018-a-current-approach-to-halitosis]] — ISBOR classification, 9-method detection catalog, tongue biofilm emphasis, pseudohalitosis/halitophobia referral (narrative-review, 2018)
+- [[halitosis/campisi-2010-halitosis-could-it-be-more]] — extra-oral/systemic halitosis etiology, blood-borne halitosis mechanisms, referral algorithm (narrative-review, 2010)
+- [[halitosis/mokeem-2014-halitosis-a-review-of-the]] — etiology review, 3-method detection (organoleptic/GC/halimeter), systemic associations (narrative-review, 2014)
+- [[halitosis/marinis-2026-the-oral-cavity-as-a]] — oral cavity as bioreactor framework, VSC production mechanisms, biofilm dysbiosis conceptual model (narrative-review, 2026)
