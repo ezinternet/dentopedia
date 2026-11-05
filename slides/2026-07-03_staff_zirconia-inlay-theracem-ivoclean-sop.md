@@ -10,10 +10,11 @@ source_wiki:
   - wiki/dental-materials/zirconia/genc-2025-cleaning-protocols-zirconia-bond-strength.md
   - wiki/dental-materials/zirconia/silva-2022-zirconia-saliva-cleaning-sr-ma.md
   - wiki/dental-materials/zirconia/al-akhali-2025-zirconia-cleaning-bonding-duration.md
+  - wiki/dental-materials/zirconia/nasri-2025-surface-conditioning-zirconia-bonding-umbrella.md
   - wiki/dental-materials/zirconia/takagaki-2018-saliva-zirconia-cleaning-agent.md
   - wiki/inlay/al-fodeh-2026-monolithic-zirconia-inlays-cement-aging.md
   - wiki/overviews/ceramic-bonding-hf-silane-contamination-overview.md
-tags: [staff-training, zirconia, inlay, cementation, theracem, ivoclean, slides]
+tags: [staff-training, zirconia, inlay, cementation, theracem, ivoclean, APA, sandblasting, slides]
 marp: true
 theme: dentopedia
 paginate: true
@@ -41,12 +42,42 @@ lang: ko
 
 ## 🧠 핵심 한 문장
 
-> **지르코니아 = APC** — Air-abrade(샌드블라스팅) → **M**DP 프라이머/시멘트 → Cement.
+> **지르코니아 = AMC** — **A**PA(샌드블라스팅) → 세정(Ivoclean) → **M**DP 프라이머/시멘트 → **C**ement.
 > 실리카가 없어 **불산(HF)·실란 단독은 통하지 않는다.**
 
 - 실리카 세라믹(e.max 등)은 HF+실란으로 접착
 - 지르코니아는 **10-MDP**가 ZrO₂와 직접 화학결합 → MDP 함유 시멘트/프라이머가 핵심
 - 출처: [[overviews/ceramic-bonding-hf-silane-contamination-overview]]
+
+---
+
+## 🔧 APA (공기입자연마, Airborne Particle Abrasion) = 샌드블라스팅
+
+지르코니아 접착의 **출발점** — 기공소에서 시행하거나 임상에서 직접 시행
+
+| 파라미터 | 권장값 | 범위 |
+|---|---|---|
+| **입자 크기** | 50 µm alumina | 25–150 µm |
+| **압력** | 0.1–0.2 MPa | 최대 0.45 MPa |
+| **처리 시간** | **10–20초** | 20초 초과 금지 |
+| **거리** | **10 mm** | 5–20 mm |
+
+> 출처: Nasri 2025 Umbrella SR (8편 SR, 233연구) · [[dental-materials/zirconia/nasri-2025-surface-conditioning-zirconia-bonding-umbrella]]
+
+---
+
+## ⏱️ APA 후 세팅 타이밍 — 72시간 기준
+
+**APA를 언제 했느냐**가 세정 프로토콜을 결정한다
+
+| 경과시간 | 세정 프로토콜 |
+|---|---|
+| **즉시** (당일) | 증류수 세척 10초 → 에어 건조 |
+| **≤ 72시간** | **Ivoclean 20초** → 수세 → 에어 건조 |
+| **> 72시간** | ⛔ **Re-APA 필수** → Ivoclean 20초 → 에어 건조 |
+
+> Al-Akhali 2025: Ivoclean 표면에너지(SFE) = 68.4 mN/m — 세정제 중 최고값
+> 72h는 "최대 허용치"가 아닌 **연구된 기준점** · [[dental-materials/zirconia/al-akhali-2025-zirconia-cleaning-bonding-duration]]
 
 ---
 
