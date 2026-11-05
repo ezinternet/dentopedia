@@ -4,7 +4,7 @@ authors: "Dept. of Oral and Maxillofacial Surgery, Hallym University Sacred Hear
 year: 2017
 doi: "unknown"
 source: hallym-2017-retromandibular-subcondylar-fracture-parotid-fistula.md
-category: "oral-surgery/trauma"
+category: "oral-surgery"
 evidence_level: "case-report"
 pdf_path: /Users/oracleneo/llm-wiki/papers/kda-2017-vol55-no10.pdf
 pdf_filename: kda-2017-vol55-no10.pdf
