@@ -1,0 +1,84 @@
+Title: Implant removal using thermal necrosis—an in vitro pilot study
+Authors: Kniha K, Möhlhenrich SC, Steigmann L, Foldenauer AC, Kniha H, Hölzle F, Modabber A
+Journal: Clinical Oral Investigations
+Year: 2020
+PMID: 32500401
+PMCID: PMC7785554
+DOI: 10.1007/s00784-020-03361-x
+
+ABSTRACT
+
+Objectives: The purpose of this pilot porcine cadaver study was to evaluate the feasible temperature thresholds, which affect osteocyte viability and bone matrix in a preclinical setup, assessing the potential of thermal necrosis for implant removal for further in vivo investigations.
+
+Materials and methods: After implant bed preparation in the upper and lower jaw, temperature effects on the bone were determined, using two tempering pistons with integrated thermocouples. To evaluate threshold temperature and time intervals leading to bone necrosis, one piston generated warm temperatures at 49 to 56 °C for 10 s and the other generated cold temperatures at 5 to 1 °C for 30 s. Effects were assessed by a semi-quantitative, histomorphometrical scoring system, scanning electron microscopy (SEM), energy-dispersive X-ray spectroscopy (EDX), and transmission electron microscopy (TEM).
+
+Results: The bone matrix was significantly degenerated starting at 51 °C for 10 s and 5 °C for 30 s. The osteocyte condition indicated significant bone damage beginning at cold temperatures of 2 °C. Temperature inputs starting at 53 °C led to decalcification and swollen mitochondria, which lost the structure of their inner cristae.
+
+Conclusions: This study identified temperatures and durations, in both heat and cold, so that the number of samples may be kept low in further studies regarding temperature-induced bone necrosis. Levels of 51 °C for 10 s and 5 °C for 30 s have presented significant matrix degeneration.
+
+Clinical relevance: Temperature thresholds, potentially leading to thermo-explantation of dental implants and other osseointegrated devices, were identified.
+
+FULL TEXT
+
+Introduction
+
+Dental implants, replacing missing teeth, offer a therapeutic option, which has become indispensable in modern dentistry. As with any therapy, however, complications can occur. The worst-case scenario occurs when it becomes necessary to remove osseointegrated implants. Reasons for this extreme measure can include implant fractures, wear and tear resulting in fitting inaccuracies, inflammation (peri-implantitis), and esthetic problems. Currently, in the absence of these complications, osseointegration is considered an irreversible process, as no technically predictable way exists to reverse the growth of bone cells on the implant surface. In most cases, implant removal is simple, and only a small percentage of implants cannot be easily extracted. Implants with severe bone resorption are usually much simpler to remove than implants that are completely integrated into the bone, such as implants with incorrect positioning. Traumatic implant removal further complicates new implant rehabilitation. The counter torque ratchet technique is one of the most atraumatic ways of explanting—preserving valuable surrounding bone. This study, however, has specifically focused on an explantation method in which thermal bone necrosis is induced. This is an interesting subject because a relatively small percentage of implants cannot be easily extracted by a high torque wrench. Several case reports have shown that implants can be easily removed after an initial, uncontrolled random thermal treatment, which results in osteonecrosis of the jaw. The authors' aim, therefore, was to heat the implant in such a way that peri-implant bone necrosis was induced, with subsequent implant loosening. Data are scarce in the current literature supporting using a controlled thermo-explantation procedure or indicating the precise temperature and time interval that would produce sufficient, but minimal, osteonecrosis around the implants to remove them without incurring trauma. High and uncontrolled temperatures could easily lead to extensive jaw necrosis and, instead of an atraumatic explantation, would, rather, result in severe inflammation. Consequently, for successful thermo-explantation, a precise temperature must be selected within the initial developmental range of bone necrosis.
+
+Usually, thermal bone damage during surgical interventions is an undesirable side effect, which may lead to bone damage. Several studies have presented threshold values of warm temperatures that will induce bone necrosis. For example, Rouiller (1953) published a threshold value of 55 °C and a duration of 1 min; Lundskog (1972) showed lower values of 50 °C and 30 s, while Eriksson and Albrektsson (1983) used 47 °C and 1 min. By contrast, Goetz et al. examined cryoinsult and found that cold temperatures could also cause osteonecrotic lesions in bone tissues. They concluded that temperatures below 1–3.5 °C produced histologically confirmed bone necrosis. These previous studies indicate that the temperature thresholds for osteonecrosis in the current literature show major deviations.
+
+Next to the unclear threshold levels that lead to jaw necrosis, osteonecrosis itself is not a specific disease entity but is, instead, the final common pathway of several conditions that lead to bone death. Depending on the temperature, the bone–implant interface may show hyperemia, necrosis, fibrosis, osteocyte degeneration, or bone resorption. In addition, biopsy material from affected areas shows partially or completely necrotic bone, with empty osteocytic lacunae and heavily eroded surfaces.
+
+The primary aim of this cadaveric pilot study was to evaluate a feasible temperature threshold that affects the osteocyte cells and the jawbone matrix in the upper and lower jaw using both warm and cold temperatures. The authors hypothesized that an appropriate temperature/time interval for warm and cold temperatures leads to a minimal appearance of dead osteocytes and matrix degeneration.
+
+Material and methods
+
+In this pilot study, two tempering pistons, capable of generating warm or cold temperatures with integrated thermocouples, were developed at the Institute of Heat and Mass Transfer of the University. Warm temperatures were generated by an electric wire device, and cold temperatures were generated with a device incorporating a cooled water circuit.
+
+At first, based on the current literature, to limit the possible temperatures and intervals leading to bone necrosis and to check the workflow, an initial test series was carried out at temperatures of 1 to 7 °C for 30 s and of 38 to 58 °C for 10 s (= 1 for each temperature). This test sample was histopathologically evaluated to define the extent of the temperature/time interval. The sample showed detectable dead osteocyte lacunae at 52 °C and 10 s and at 3 °C and 30 s. Based on this information, the temperature range for the assessment was set at 49 to 56 °C for 10 s and 5 to 1 °C for 30 s.
+
+Subsequently, the main investigation was conducted. Therefore, a total of 14 pig heads and 140 drill samples (group size of ten samples) were analyzed for thermal bone damage in this histomorphometric analysis. For each temperature group, ten samples were evaluated—five samples from the upper jaw and five samples from the lower jaw.
+
+Scanning electron microscopy (SEM), energy-dispersive X-ray spectroscopy (EDX), and transmission electron microscopy (TEM) analysis included a total of 18 drill samples. For each temperature, six samples were evaluated—three from the upper jaw and three from the lower.
+
+The pork jaws were collected during the local slaughterhouse process and were integrated into the experiment 20 min later. The samples were collected in the morning; the assessment was carried out at the university clinic; and, afterwards, the samples were immediately stored in prepared tubes, with a maximum time between slaughter and storage of 6 h. The included animals had a mean age of 7 months.
+
+The laboratory temperature was maintained at 20 °C using thermostatic temperature control. Thermal data from the devices were simultaneously transferred and controlled by a computer. One surgeon carried out the drilling under strict cooling conditions, beginning with a pilot drill (diameter 2 mm, depth 8 mm), followed by drills with diameters of 3.3 mm and 3.8 mm (Camlog GmbH, Screw-Line, Wimsheim, Germany). Temperature damage during drilling and processing was ruled out by conducting control drillings without temperature treatment.
+
+The pistons were fabricated with a 3.8 mm diameter and individual profile to fit in the drilled holes without pressure and with a congruent contact area to the wall. The drilled holes had a sufficient diameter to allow the temperature device to show a clamping fit inside. Block samples of every drill were taken to evaluate the walls of the drill holes. The sample assessment aimed to assess the depth of the drilled holes as close as possible to the center of 4 mm depth.
+
+Histomorphometric analysis
+The samples were stored in 4% formalin (neutrally buffered with methanol) for 48 h. Decalcification was conducted for approximately 4 weeks at 37 °C by storing the samples in a 20-fold volume of EDTA. The samples were then shock frozen in liquid nitrogen and embedded. Subsequently, cryostat sections of 5–7 μm thickness were cut, mounted on super frost slides, and dried. The samples were fixed in acetone for 10 min and then stained with Hematoxylin-Eosin (HE) and Ladewig stains. One specialized pathologist analyzed the tissue structures by light microscopy. The set of parameters considered in the histomorphometric analysis included a semiquantitative evaluation of the osteocyte condition (0 = normal osteocyte lacunae; 1 = minimal count of dead osteocytes; 2 = progressing count of dead osteocytes; 3 = high number of dead osteocytes) and tissue matrix degeneration (0 = normal bone tissue; 1 = minimal matrix degeneration; 2 = progressing matrix degeneration; 3 = severe matrix degeneration).
+
+SEM, EDX, and TEM analyses
+The SEM, EDX, and TEM analyses were conducted, in three iterations per analysis, at 50 °C, 53 °C, and 56 °C. The Ca/P concentration ratio increases while the C/Ca and C/P ratios decrease in the healing bone matrix.
+
+Statistical analysis
+One-way ANOVA was used. Using a 0.05 significance level, 14 groups, an effect size of 0.4, a power of 80%, and a total of 126 samples were needed. The Kruskal–Wallis and Dunn's multiple comparison tests were also used to identify the difference between the means of the subgroups. Spearman's rho test was applied to evaluate the correlations between parameters.
+
+Results
+
+Histomorphometric analysis
+The osteocyte condition indicated increasing bone damage starting at warm temperatures of 49 °C and rising to 56 °C; however, no significant differences were noted when compared with the control tissues. Even at 56 °C and 10 s, the number of dead osteocytes was minimal. By contrast, cold temperatures showed a significant difference in dead osteocyte counts between tissues treated at 1 °C and the control tissues, as well as between tissues treated at 1 °C and 2 °C for 30 s.
+
+Significant differences were observed for matrix degeneration of the hard tissue between the control tissues and those treated at 51 °C, 54 °C, 55 °C, and 56 °C for 10 s. Similarly, all cold temperature treatments (except 3 °C) significantly increased the matrix degeneration when compared to the control group. The matrix degeneration was evaluated as more severe at the same temperature and time intervals as the osteocyte condition.
+
+The bone quality of the upper and lower jaw showed an insignificant, weak correlation between the osteocyte condition and warm temperatures (Spearman's rho 0.31); it also showed an insignificant, moderate correlation for cold temperatures (Spearman's rho 0.56). The bone quality of either the upper or lower jaw showed an insignificant, weak correlation between the matrix degeneration and either cold or warm temperatures (Spearman's rho 0.35 and 0.33, respectively).
+
+SEM, EDX, and TEM analyses
+The SEM images in backscatter mode and the EDX analyses revealed an irregular shape of the bone surface, with bone debris and signs of thermal damage. At 50 °C, no bone debris development was detected. At 53 °C and 56 °C, the ratio of calcium to phosphate (Ca/P) increased from 2.29 SD 0.27 (50 °C) to 3.86 SD 2.47 (56 °C), and the ratio of calcium to carbon (Ca/C) increased from 1.81 SD 0.04 (50 °C) to 2.13 SD 0.39 (56 °C). By contrast, the background showed decreasing values for the Ca/P and Ca/C ratios.
+
+Analysis of the cellular stress levels showed differences between the 50 and 53 °C treatments and between the 53 and 56 °C treatments. After the 53 °C treatment, the osteocytes showed signs of cellular stress, such as swollen mitochondria and structure loss of the inner mitochondrial cristae. These mitochondrial changes were also observed with the 56 °C treatment, but the lumina of the endoplasmic reticulum were also pronouncedly dilated.
+
+Discussion
+
+The aim of this pilot study was to evaluate the threshold temperature/time levels that would lead to minimum damage of osteocytes and bony tissue, as the eventual in vivo application of the protocol would require that peri-implant bone necrosis be kept at a minimum. The critical value for irreversible bone damage was defined as 47 °C with an exposure time of 1 min by Eriksson and Albrektsson. In general, short duration/high temperature applications (e.g., 50 °C for 1 min) had similar effects on hard and soft tissue to those effects observed with longer duration/lower temperature treatments (e.g., 47 °C for 5 min).
+
+The present authors' results indicated that 51 °C for 10 s and 5 °C for 30 s caused irritation that led to significant matrix degeneration; thus, these temperatures/durations may be the threshold levels for in vivo bone necrosis. Bone fraying does not appear to be caused by temperature treatment. Further research, however, should concentrate on in vivo processes, such as blood flow and bone remodeling, which may affect the threshold values of osteonecrosis.
+
+Bone tissue is a heterogeneous structure with cancellous and cortical areas, which affect the individual temperature threshold. According to Trisi et al., during a 2-month follow-up period, the cancellous bone of implants in the iliac crest of sheep suffered peri-implant bone loss after being heated to 50 °C for 1 min. At temperatures around 60 °C lasting for 1 min, the peri-implant bone loss influenced implant osseointegration. Conversely, investigating heat treatment of the cortical sheep mandible at 50 °C for 1 min revealed no bone resorption and no threshold for heat-induced injury. The latter authors concluded that low bone density is more subject to heat-induced injury.
+
+A critical reflection on the present study reveals that, in a cadaveric model, no blood flow was present. Therefore, defining reliable threshold temperature values requires in vivo investigations.
+
+Conclusions
+
+Though this is a preliminary study, the results identified temperatures and intervals, in the areas of both heat and cold, to lower the number of samples in further studies of temperature-induced bone necrosis. Temperature/time levels of 51 °C for 10 s and 5 °C for 30 s presented significant matrix degeneration. These levels may be used for future thermo-explantation. The subsequent planned in vivo study in rats, which will take into account the numeric parameters and blood flow, is feasible.
