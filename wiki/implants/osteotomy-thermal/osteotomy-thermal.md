@@ -15,20 +15,20 @@ tags: [navigation, category-index, osteotomy-thermal]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·골절개·발열
 > - **범위**: Implant osteotomy preparation & thermal injury — bone-drilling heat generation and thermal-osteonecrosis thresholds, drill design/material/wear, irrigation & cooling (internal/external, CFD modelling), drilling speed and continuous vs intermittent protocols, piezosurgery, undersized preparation & ta…
-> - **수록 논문**: 50편
+> - **수록 논문**: 52편
 
 ## Three-line Summary
 
 **Scope**: Implant osteotomy preparation & thermal injury — bone-drilling heat generation and thermal-osteonecrosis thresholds, drill design/material/wear, irrigation & cooling (internal/external, CFD modelling), drilling speed and continuous vs intermittent protocols, piezosurgery, undersized preparation & tapping, guided-sleeve drilling temperature, histologic/histomorphometric implant-bed studies.
-**Indexed papers**: 50 papers in `wiki/implants/osteotomy-thermal/`.
+**Indexed papers**: 52 papers in `wiki/implants/osteotomy-thermal/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·골절개·발열
-**수록 논문**: 50편
+**수록 논문**: 52편
 **하위 카테고리**: 없음
 
-## Papers in this Category (50)
+## Papers in this Category (52)
 
 | Paper |
 |---|
@@ -57,6 +57,8 @@ tags: [navigation, category-index, osteotomy-thermal]
 | [[jung-2021-heat-development-medical-drilling-influencing|Heat Development During Medical Drilling: Influencing Factors and Examination Methods – Overview and First Results]] |
 | [[kapse-2022-thermal-effect-operatory-room-temperature-surgical|Thermal Effect of Operatory Room Temperature, Surgical Drill Diameter, and Temperature of Irrigants at Different Depths of Implant Site Preparation – Thermographic Analysis on Goat Mandible]] |
 | [[kim-2019-double-spiral-condensing-screw-implant|Condensing Screw for Implant Surgery with a Double-Spiral Structure (이중 스파이럴 구조의 임플란트 시술용 콘덴싱 스크류)]] |
+| [[kniha-2020-implant-removal-thermal-necrosis-pilot|Implant removal using thermal necrosis—an in vitro pilot study]] |
+| [[kniha-2020-temperature-threshold-bone-necrosis-sr|Temperature Threshold Values of Bone Necrosis for Thermo-Explantation of Dental Implants—A Systematic Review on Preclinical In Vivo Research]] |
 | [[kniha-2023-thermal-osteonecrosis-implant-removal-rat|Results of thermal osteonecrosis for implant removal on electron microscopy, implant stability, and radiographic parameters – a rat study]] |
 | [[kosior-2025-comparative-analysis-histological-characteristics|Comparative Analysis of the Histological Characteristics of Bone Tissue Following Implant Drill Preparation Under Various Parameters: An In Vitro Study]] |
 | [[kosior-2025-histological-histomorphometric-implant-bed-preparation|Histological and Histomorphometric Insights into Implant Bed Preparation: A Systematic Review]] |
