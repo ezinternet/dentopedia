@@ -2,7 +2,7 @@
 title: "임플란트·골절개·발열 — osteotomy-thermal"
 authors: navigation
 year: 2026
-date: 2026-10-19
+date: 2026-11-06
 doi: N/A
 source: navigation
 category: implants/osteotomy-thermal
@@ -15,20 +15,20 @@ tags: [navigation, category-index, osteotomy-thermal]
 > [!summary] 한국어 핵심요약
 > - **분야**: 임플란트·골절개·발열
 > - **범위**: Implant osteotomy preparation & thermal injury — bone-drilling heat generation and thermal-osteonecrosis thresholds, drill design/material/wear, irrigation & cooling (internal/external, CFD modelling), drilling speed and continuous vs intermittent protocols, piezosurgery, undersized preparation & ta…
-> - **수록 논문**: 49편
+> - **수록 논문**: 50편
 
 ## Three-line Summary
 
 **Scope**: Implant osteotomy preparation & thermal injury — bone-drilling heat generation and thermal-osteonecrosis thresholds, drill design/material/wear, irrigation & cooling (internal/external, CFD modelling), drilling speed and continuous vs intermittent protocols, piezosurgery, undersized preparation & tapping, guided-sleeve drilling temperature, histologic/histomorphometric implant-bed studies.
-**Indexed papers**: 49 papers in `wiki/implants/osteotomy-thermal/`.
+**Indexed papers**: 50 papers in `wiki/implants/osteotomy-thermal/`.
 
 ## 세줄요약
 
 **분야**: 임플란트·골절개·발열
-**수록 논문**: 49편
+**수록 논문**: 50편
 **하위 카테고리**: 없음
 
-## Papers in this Category (49)
+## Papers in this Category (50)
 
 | Paper |
 |---|
@@ -46,6 +46,7 @@ tags: [navigation, category-index, osteotomy-thermal]
 | [[di-stefano-2018-undersizing-tapping-bic-primary-stability-bovine-histomorphometric|Effect of Undersizing and Tapping on Bone-to-Implant Contact and Primary Stability: Histomorphometric Study on Bovine Ribs]] |
 | [[einafshar-2024-importance-precision-cortical-bone-drilling|On the importance of precision in cortical bone drilling: Integrating experimental validation and computational modeling]] |
 | [[el-kholey-2019-drilling-technique-low-density-bone-sr|Does the Drilling Technique for Implant Site Preparation Enhance Implant Success in Low-Density Bone? A Systematic Review]] |
+| [[eriksson-1984-heat-caused-drilling-cortical|Heat caused by drilling cortical bone. Temperature measured in vivo in patients and animals.]] |
 | [[gedik-2025-four-drill-systems-ceramic-heat-osteotomy|Four Drill Systems Heat Comparison: Ceramic Drills Generate Significantly More Heat and Take Longer]] |
 | [[gehrke-2020-technique-drill-design-osteotomy|Effects of the technique and drill design used during the osteotomy on the thermal and histological stimulation]] |
 | [[gehrke-2021-healing-chambers-macrogeometry-low-density-drilling|Effects of the Healing Chambers in Implant Macrogeometry Design in a Low-Density Bone Using Conventional and Undersized Drilling]] |
