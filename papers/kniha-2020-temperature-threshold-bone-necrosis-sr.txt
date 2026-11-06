@@ -1,0 +1,100 @@
+Title: Temperature Threshold Values of Bone Necrosis for Thermo-Explantation of Dental Implants—A Systematic Review on Preclinical In Vivo Research
+Authors: Kniha K, Möhlhenrich SC, Foldenauer AC, Kniha H, Hölzle F, Modabber A
+Journal: Materials (Basel)
+Year: 2020
+PMID: 32781597
+PMCID: PMC7476012
+DOI: 10.3390/ma13163461
+
+ABSTRACT
+
+Purpose: Very high or low temperatures will lead to bone damage. The objective of this review was to analyze threshold values for thermal bone necrosis. Methods: Histological animal studies evaluating thermal effects on bone necrosis were selected via electronic and hand searches in English and German language journals until 1 November 2019. The outcome measures were temperature-exposure intervals and laser settings effecting bone damage. Furthermore, investigated parameters were the bone-to-implant contact ratios (BIC) and infrabony pockets around dental implants after thermal treatment. For quality assessment of studies, the CAMARADES study quality checklist was applied. Results: A total of 455 animals in 25 animal studies were included for data extraction after screening of 45 titles from 957 selected titles of the MEDLINE (PubMed), The Cochrane Library, Embase and Web of Science search. The threshold values for bone necrosis ranged between 47 °C and 55 °C for 1 min. A threshold value for cryoinsult and laser treatment has not yet been defined. However, temperatures in the vicinity of 3.5 °C produce a histologically proven effect on the bone and in the surrounding tissue. At 50 °C for 1 min, BIC values significantly decreased and infrabony pockets increased. Bone quality had an influence on the outcome, as cancellous bone suffered higher bone damage from thermal treatment compared to cortical bone. Conclusion: No clear threshold value for bone necrosis is available according to the current literature for warm and cold stimuli. More in-depth and clinical studies are required to further insights in assessing the potential of thermal necrosis for implant removal.
+
+FULL TEXT
+
+1. Introduction
+
+The exposure of bone to high temperatures will lead to bone damage and necrosis. Not only heat, but also targeted cooling affects the bone structure and vital cells in the surrounding tissue. A single cold stimulus at −10 °C inevitably leads to surrounding skin and bone necrosis. This is also called "cryoinsult".
+
+Bone remodeling is a continuous process in which old bone tissue is broken down by osteoclasts and re-formed by osteoblasts at the same or a different site. This physiological repair mechanism is also effective in the event of thermal damage to the bone. Surgical procedures often involve the risk of overheating. Cutting, rotating, and vibrating instruments are used regularly in contact with the hard and soft tissue under cooling. As soon as the cooling is no longer sufficient, temperatures rise rapidly. When drilling into the bone in particular, overheating of the drill hole must always be avoided, as otherwise there is a risk of subsequent implant loss. Moreover, there are also far-reaching consequences.
+
+This review was also conducted in order to define a threshold bone necrosis level according to the current literature for further thermo-explantation research. If a dental implant has to be removed due to inflammation, there have been reports of the explantation being carried out with a targeted implant overheating. In order to minimize bone damage resulting from implant explantation using drills and milling devices, there were several publications that used ultra-high frequency surgical devices for thermo-explantation. Another study involved a CO2 laser as a thermal device for implant removal. These surgical procedures are currently neither suitable nor approved for clinical application. The risk of bone necrosis seemed high and uncontrollable as the implants were unevenly heated without considering threshold levels.
+
+Heat may be caused by surgical procedures with insufficient cooling, such as implant drilling and bone cutting, or electrical, water, and laser devices. Authors treated the cancellous and cortical bone with several devices, such as heated fluids, electric thermal probes, laser devices, and heated implants in order to gain knowledge of bone behavior and remodeling on thermal irritations. Heat generation during bone drilling, especially in implantology, is a well-investigated field. Nevertheless, published threshold levels present widely varying values. A critical reflection of cadaveric models revealed that no blood flow was present in these studies. Therefore, the definition of reliable threshold temperature values requires in vivo investigations. The blood flow in the bone can cause faster heat dissipation. Poor thermal tissue conductivity results in local heat accumulation. If the heat is dissipated very slowly, an extended exposure time will produce heat damage. As clinical studies do not carry out histopathological analyses for ethical reasons, conclusions were therefore drawn from animal experiments.
+
+The scope of this study was to review the pertinent literature systematically regarding results of various in vivo animal investigations evaluating threshold values for thermal bone necrosis. Our aim is to provide insights into the temperature and exposure time that produce thermal bone damage in order to prevent the development of jaw necrosis. Furthermore, laser settings effecting bone damage were evaluated.
+
+2. Materials and Methods
+
+The protocol for this systematic review was registered on PROSPERO (CRD42019141867). This systematic review was reported according to the Preferred Reporting Items for Systematic review and Meta-Analysis Protocols (PRISMA-P) statement, using the Population, Intervention, Comparison and Outcome (PICO) method.
+
+2.1. Focused Question
+The focused research question (PICO) of this review was to define the threshold values for thermal bone necrosis in animal studies.
+
+2.2. Search Strategy
+MEDLINE (PubMed), the Cochrane Library, Embase and Web of Science database searches were performed to find articles published in the English language up to and including 1 November 2019.
+
+2.3. Inclusion Criteria
+In vivo animal studies evaluating temperature-exposure intervals and/or laser settings and their histological outcome were included.
+
+2.4. Exclusion Criteria
+Studies from which data on selected outcome variables could not directly be retrieved or calculated were not considered. Systematic reviews, studies with missing thermal input, in vitro studies, randomized clinical trials and other clinical studies and cadaver studies were excluded.
+
+2.5. Selection of Studies
+After elimination of duplicates, 2 calibrated reviewers (KK, AM) independently reviewed titles, abstracts, and full texts in accordance with the inclusion criteria. All titles were included in the abstract screening.
+
+2.6. Data Extraction
+Data extraction was independently performed on all included studies using data extraction tables. Any disagreement with regard to inclusion and exclusion was resolved by discussion between the reviewers.
+
+2.7. Parameters Were Classified as Follows
+(1) Temperature and exposure time leading to bone damage
+(2) Laser settings producing bone damage
+(3) Bone-to-implant contact ratio (BIC) around implants after thermal treatment
+(4) Infrabony implant pockets after thermal treatment
+
+2.8. Risk of Bias in Individual Studies
+For quality assessment of studies, the CAMARADES study quality checklist was applied.
+
+2.9. Statistical Analysis
+BIC around implants after thermal treatment and infrabony implant pockets after thermal treatment were considered as outcomes. Effect sizes of continuous outcomes for each study were reported as mean differences, along with 95% confidence intervals. Given the clinical heterogeneity across trials, we have abstained from summarizing the study specific effects into one overall effect.
+
+3. Results
+
+3.1. Study Characteristics
+After application of the inclusion criteria, 25 animal studies were selected for review. A total of 455 animals were evaluated across multiple different species, including 224 rats, 117 rabbits, 70 emus, 41 sheep, and 10 dogs. 18 studies assessed temperature/time intervals and seven studies investigated the effect of laser application on bone necrosis. For temperature control, 11 studies used thermocouples and two infrared thermography. Bony regions of interest were 8 mandibles, 6 femurs, 5 tibiae, 4 calvarias, and one maxilla and iliac crest. Histopathological parameters evaluated 24 cortical and 16 cancellous sites. Due to the quality of reported data and the high clinical heterogeneity between studies, no meta-analysis was performed.
+
+3.2. Temperature and Exposure Time Leading to Bone Damage
+Cold and warm stimuli lead to bone damage and should therefore be separated. Three studies reported cryoprobes in an emu model. The aim was to induce femoral head necrosis with temperatures ranging from −273 °C to −10 °C. The exposure time varied between 15 s and 9 min, producing bone necrosis in all cases. The lowest necrosis volume was reported at a temperature of −10 °C and an exposure time of 9 min. Goetz et al., 2008 concluded that temperatures below 3.5 °C to 1 °C produced histologically proven bone necrosis.
+
+The remaining part of 15 studies analyzed the effect of heat on bone structure at temperatures ranging from 33 °C to 190 °C. Heat stimuli of 44 °C and 1 min had not caused any damages on bone. First tissue reactions, such as hyperemia, started at 47 °C for 1 min. Bone resorption and dead osteocytes have been reported at temperatures up to 50 °C; however, no long-term thermal bone damage could be evaluated due to bone remodeling. Furthermore, Lundskog, 1972 declared a temperature of 50 °C and an exposure time of 30 s as the threshold value of bone necrosis. Yoshida et al., 2009 had reported the results of the calvarial bone study, in which 48 °C and 1 min of heat stimuli had caused apoptosis of osteocyte and it had taken 5 weeks to regain bone formation.
+
+From those studies, the heat boundary stimuli of bone necrosis, which is no relation with species and sites, are likely to be 48 to 50 °C for 1 min, and that is almost compatible with Lundskog's report. Nevertheless, one study stated that the threshold value must be 55 °C with an exposure time of 1 min. According to Arnoldi et al., 2012, a high temperature of 180–190 °C for only a very short time of a few seconds did not lead to bone necrosis.
+
+3.3. Laser Settings Producing Bone Damage
+Stubinger et al. (2011) assessed that, with a cooled Er:YAG laser with an energy output of up to 1000 mJ/pulse and 12 Hz, no thermal damage resulted. One study assessing an Er:YAG laser (cooled) with the settings of 2 W and 20 Hz led to a small bone necrosis layer directly after irrigation. On the other hand, a CO2 laser (not cooled) at 20 W and 2 kHz produced an active resorption by osteoclasts; however, the histologic changes had less than 40 μm layer thickness after 6 weeks.
+
+3.4. BIC around Implants after Thermal Treatment
+A temperature elevation up to 38.9 °C for 4 min and 1-month follow-up showed similar BIC values around treated implants (mean 43.1% SD 2.80) and untreated implants (45% SD 1.30). Higher temperature values of 60 °C for 1 min led to reduced BIC values around heated implants (mean 25.42% SD 1.49 in cancellous bone, mean 27.23% SD 12.44 in cortical bone) versus untreated implants (mean 38.05% SD 1.38 in cancellous bone, mean 31.94% SD 18.10 in cortical bone). However, only the implants inserted in the cancellous bone presented significant differences. Similarly, at a lower temperature of 50 °C for 1 min, the cancellous bone led to a significantly lower BIC value, whereas around implants that were inserted in more cortical bone no deviating BIC values were evaluated.
+
+3.5. Infrabony Implant Pockets after Thermal Treatment
+Higher temperature values not only led to loss of bone contact, but also the infrabony pockets next to the treated implant increased. Pocket values ranged around heated implants (60 °C for 1 min) at a mean 3.11 SD 0.33 in cancellous bone, mean 1.07 SD 0.44 in cortical bone and around untreated implants at a mean 1.21 SD 0.16 in cancellous bone, mean 0.56 SD 0.49 in cortical bone. The bone quality has had an influence on the outcome, as the iliac crest presented greater amount of bone pockets compared to the mandible.
+
+4. Discussion
+
+The purpose of this review was to define threshold values for thermal bone necrosis in order to assess the potential of thermal necrosis for implant removal. Based on our findings no clear threshold value for bone necrosis is available according to the current literature. The researchers focused on several parameters, such as temperature and exposure time leading to bone damage, laser settings producing bone damage, BIC values around implants, and infrabony implant pockets after thermal treatment.
+
+In recent years, advanced water-cooling systems have been quite effective in reducing heat storage during implant drilling. Therefore, there is currently only a limited number of recent clinical studies on the topic of heat-induced bone necrosis and implant loss available. Several authors have investigated the temperature thresholds leading to jaw necrosis with widely varying results. The differences in the values may be attributed in part to the diversity of the experiments and the many different influencing variables such as blood flow, bone structure, and more. In 1983, Eriksson and Albrektsson stated a temperature of 47 °C with an exposure time of 1 min as the threshold value for bone damage. This value reflects the lower limit of possible damage and corresponds to the threshold values published by Lundskog (50 °C with an exposure time of 30 s). Berman et al., 1984 concluded that cortical bone is more resistant to heat than cancellous bone. Jacobs et al., 1972 did not explicitly aim to determine a threshold value; however, they produced osteonecrosis at lower temperatures. Other studies describe damage at temperatures from 43 to 68 °C.
+
+A similar effect to that of heating can be achieved by targeted cooling. Temperatures in the range of 1 °C to 3.5 °C produce a histologically proven effect on the bone and in the surrounding tissue (max. 0.7 mm). An isotherm of 3.5 °C was published by Goetz et al., 2008 which best corresponded to the boundary of the osteonecrotic lesions; however, this was a cadaver study without in vivo results. This review focused only on in vivo animal studies. A single cold stimulus from −10 °C to −20 °C inevitably leads to surrounding skin and bone necrosis.
+
+Furthermore, it is known that osteocytes can be damaged by exposure to temperatures above 45 °C for 15 s. The degree of damage depends on the temperature and the exposure time. Several threshold values for bone necrosis have been announced by multiple studies. In 1972, Lundskog claimed 50 °C for 30 s, and in 1953, Rouiller stated 55 °C for 1 min for the exact threshold border. Both investigations took place in rabbits. However, Lundskog studied the cortical and cancellous tibia bone and Rouiller preferred the cortical calvaria, metatarsi, and radii. It may be hypothesized that in the same individual, different regions lead to divergent threshold values. Therefore, it remains unclear if these values are transferable to the jawbone, especially the human jawbone.
+
+A critical reflection on this review showed that not all studies used thermocouples for exact temperature measurement. Thermography and thermocouples were described as temperature control systems. The different threshold values could either be explained by the different measurement techniques, or the individual bone characteristics during examination.
+
+Furthermore, due to different methods (e.g., different thermal devices, different species and bone areas), the overall threshold values may be considered as an average value. Additionally, the statistical results of this systematic review should be interpreted considering the high degree of study heterogeneity. Due to the heterogeneity of the current literature and in order to avoid misleading results no meta-analysis was performed.
+
+The current literature could not give a clear threshold to clinicians concerning heat generation and osteonecrosis because studies presented widely varying results. It is difficult to apply these numerical results directly to humans. Each animal species has an individual bone metabolism that can differ from humans. Up to now it is completely unclear whether an implant can be loosened in this temperature range without triggering a starving necrosis. In order to avoid thermal bone damage in humans, the limit of 47 °C for 1 min should not be exceeded. However, in order to further explore thermo-explantation, these numerical values can only be used as a guideline and before applied to humans further preclinical studies should follow. Based on these findings more preclinical studies regarding the effect of temperature and time intervals on the development of a limited bone necrosis within the range between 47 °C and 55 °C for 1 min are necessary.
+
+5. Conclusions
+
+It can be concluded that no clear threshold value for bone necrosis is available according to the current literature. The values ranged between 47 °C and 55 °C for 1 min. A threshold value for cryoinsult and laser treatment has not yet been defined. Bone quality had an influence on the outcome, as cancellous bone suffered higher bone damage compared to cortical bone. It is suggested that more in-depth and clinical studies are required to provide further insights in assessing the potential of thermal necrosis for implant removal.
