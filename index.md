@@ -1063,6 +1063,9 @@ tags: []
 - [[endodontics/diagnosis/pitcher-2017-cbct-periapical-cyst-decision-tree]] — Pitcher 2017 · cross-sectional · CBCT 용적 기반 낭종 선별 결정 트리(n=118, 조직병리 gold standard): 병소 용적 >247 mm³ → 낭종 확률 80%; 용적 <247 mm³ + 치근 변위 → 60% (전체 정확도 78%) (DOI 10.1016/j.joen.2016.10.046)
 - [[endodontics/diagnosis/almadi-2020-cbct-grey-density-periapical-lesion]] — AlMadi 2020 · cross-sectional · CBCT 최소 회색조 밀도값으로 낭종 vs 고형 병소 감별 불가 (AUC 0.44, n=57) — 중요 부정 결과; 용적 접근(Pitcher)과 대비 (DOI 10.1111/iej.13355)
 - [[endodontics/diagnosis/de-rosa-2020-cbct-texture-periapical-cyst-granuloma]] — De Rosa 2020 · cross-sectional · CBCT 회색조 공동발생행렬(GLCM) 텍스처 분석으로 치근낭종 vs 치근단육아종 감별; 최고 AUC 81.2% (각도 2차 모멘트 >0.10), 민감도 100%·특이도 54.5% (n=25, 조직병리 확인) (DOI 10.1016/j.heliyon.2020.e05194)
+- [[endodontics/diagnosis/grung-1990-periapical-surgery-scar-477-teeth]] — Grung 1990 · retrospective · 치근단 수술 477치 추적: 완전 치유 78%, 반흔 치유 (Scar Tissue Healing) 9%, 실패 13%; 술전 대형 병소 → 반흔율 증가; 역행 충전 실패 28% vs 순행 4% (DOI 10.1016/S0099-2399(06)81882-0)
+- [[endodontics/diagnosis/lee-2021-periapical-scar-clinicopathological]] — Lee 2021 · retrospective · 치근단 반흔 (Periapical Scar, PS) 7례 조직병리: 유병률 1.6%(445개 병소 중); 86% 무증상; 병소 크기 3–10 mm; 5-기준 임상진단(적절한 충전+무증상+크기 불변 방사선투과상); 피질판 소실 → 조골세포 선점 불가 → 반흔화 (DOI 10.1016/j.jds.2021.05.008)
+- [[endodontics/diagnosis/kasperek-2023-periapical-scar-cleidocranial-dysplasia]] — Kasperek 2023 · case-report · 쇄골두개이형성증 (Cleidocranial Dysplasia, CCD) 환자에서 치근단 반흔을 근관치료 실패로 오진한 증례; 반흔 유병률 2.5–12%; 위험인자·장기 감시 프로토콜 기술 (DOI 10.1016/j.joen.2023.01.008)
 
 ## 치간 청소 (Interdental Cleaning)
 - [[overviews/interdental-cleaning-devices-synthesis]] — **Overview** (Synthesis 2026-06-19, 8편+토스픽 overview): 치간 청소도구 종합 — 치실 vs 치간칫솔(IDB) vs 구강세정기/워터픽(WF) vs 토스픽법 비교·적응증 결정 트리. 핵심: 어느 도구도 *보편적* 우월 없음(순응도가 효능보다 중요), 치간칫솔이 들어가는 공간이면 1순위(IDB>floss 근거 다수), 치실은 좁은 접촉/순응 환자, 워터픽은 교정·임플란트·손재주 제약·치주염 보조에 강점; 나무 이쑤시개는 치간유두 위해라 권장 안 함
