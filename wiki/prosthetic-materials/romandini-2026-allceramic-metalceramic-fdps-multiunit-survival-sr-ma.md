@@ -13,7 +13,7 @@ relations:
   - type: extends
     target: pjetursson-2026-metal-ceramic-all-ceramic-crowns-survival-sr-ma
   - type: extends
-    target: sailer-2015-allceramic-pfm-fdps-survival-complication-sr
+    target: sailer-2015-allceramic-metalceramic-fdps-survival-complication-sr
 ---
 
 ## One-line Summary
@@ -71,6 +71,6 @@ The companion paper (Part 1, Pjetursson 2026) examined single crowns; this Part 
 ## Related Papers
 
 - [[prosthetic-materials/pjetursson-2026-metal-ceramic-all-ceramic-crowns-survival-sr-ma]] — Part 1: single crowns, same SR protocol
-- [[prosthetic-materials/sailer-2015-allceramic-pfm-fdps-survival-complication-sr]] — earlier SR establishing baseline survival data for multi-unit FDPs
+- [[prosthetic-materials/sailer-2015-allceramic-metalceramic-fdps-survival-complication-sr]] — earlier SR establishing baseline survival data for multi-unit FDPs
 - [[prosthetic-materials/ban-2021-classification-properties-dental-zirconia-implant]] — zirconia material classification context
 - [[prosthetic-materials/guth-2024-high-translucent-zirconia-fdp-3year-prospective]] — first clinical data on 5Y-PSZ (high-translucent) multi-unit FDPs
