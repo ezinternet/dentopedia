@@ -2,7 +2,7 @@
 ---
 title: "구취(할리토시스) 자가테스트"
 type: interactive
-date: 2026-09-14
+date: 2026-11-07
 status: done
 category: prevention-maintenance
 agenda: agenda/2026-07-01_halitosis-education.md
@@ -14,10 +14,14 @@ source_wiki:
   - wiki/halitosis/dou-2016-halitosis-helicobacter-pylori-meta-analysis.md
   - wiki/halitosis/huang-2022-efficacy-of-probiotics-in.md
   - wiki/halitosis/wang-2022-clinical-efficacy-photodynamic-therapy.md
+  - wiki/halitosis/mortazavi-2020-drug-related-halitosis-systematic.md
+  - wiki/halitosis/cassiano-2021-halitosis-ohrqol-systematic-review-meta.md
 note: "hygienist-education 스킬 산출 퀴즈. 문항은 위키 근거로 LLM 저작(자동생성 아님) — scripts/build-quiz.py가 스펙(interactives/quiz-specs/halitosis.json)에서 HTML 생성. source_wiki가 도구보다 최신이면 interactive-staleness가 STALE 신호."
-verified: 2026-08-11
+verified: 2026-11-07
 notes: |
-  verified 2026-08-11: wang-2024(할리토시스-치주염 연관 메타분석) 2026-08-11 변경은 silva-2017-periodontitis로의 relations 엣지 type을 reinforces→supersedes로 승격 + target 경로 보정뿐(frontmatter-only) — Three-line Summary·본문·임상수치 전부 무변화 재확인. 퀴즈 문항 수정 없음.
+  verified 2026-11-07: 2026-11-05 overview 업데이트(14→20편 확장) 반영. 추가 문항 2개:
+  Q7 약물유발 구취(mortazavi-2020: aminothiols 최대 100%), Q8 OHRQoL 영향(cassiano-2021: SMD 0.51, 청소년 비유의).
+  기존 Q1–Q6 근거·수치 무변화 재확인.
 ---
 -->
 <!DOCTYPE html>
@@ -88,10 +92,10 @@ notes: |
 <body>
 <div class="wrap">
   <h1>😮‍💨 구취(할리토시스) 자가테스트</h1>
-  <div class="sub">치위생사 교육 · 6문항 · 답을 고르면 정답·해설·근거가 열립니다.</div>
+  <div class="sub">치위생사 교육 · 8문항 · 답을 고르면 정답·해설·근거가 열립니다.</div>
   <div class="bar"><i id="bar"></i></div>
   <div id="quiz"></div>
-  <div class="score" id="score">진행: <span id="done">0</span>/6 · 정답 <span class="big" id="pts">0</span></div>
+  <div class="score" id="score">진행: <span id="done">0</span>/<span id="total"></span> · 정답 <span class="big" id="pts">0</span></div>
   <button class="reset" onclick="location.reload()">↻ 다시 풀기</button>
   <div class="foot">출처: <a href="/dentopedia/overviews/halitosis-etiology-measurement-management-overview" target="_blank">구취 원인·측정·관리 종합 overview</a> · 교육용 요약 — 개별 판단은 위키 원문·원장 확인</div>
 </div>
@@ -170,9 +174,34 @@ const QUESTIONS = [
     "ans": 1,
     "rat": "단기 VSC·관능점수 감소는 있으나 4주 후 효과 소실, 일부 메타분석은 비유의(p=0.53). 단독 표준치료 근거는 부족 — 보조요법.",
     "cite": "halitosis/huang-2022-efficacy-of-probiotics-in"
+  },
+  {
+    "q": "약물유발 구취(Drug-induced Halitosis)를 최대 100%까지 유발할 수 있는 약물 계열은?",
+    "opts": [
+      "아스피린(항혈전제)",
+      "아미노티올계 약물(Aminothiols)",
+      "베타차단제",
+      "항히스타민제"
+    ],
+    "ans": 1,
+    "rat": "아미노티올계(Aminothiols)는 대사 과정에서 황화합물을 직접 생성해 구취 발생률 최대 100%(Mortazavi 2020). 복용 약물 확인이 구취 평가 필수 단계.",
+    "cite": "halitosis/mortazavi-2020-drug-related-halitosis-systematic"
+  },
+  {
+    "q": "성인에서 구취(할리토시스)가 삶의 질(OHRQoL)에 미치는 영향으로 메타분석 근거가 있는 것은?",
+    "opts": [
+      "성인에서 구강건강관련삶의질(OHRQoL, Oral Health-Related Quality of Life) 유의하게 저하",
+      "청소년에서 OHRQoL 유의하게 저하",
+      "구취는 삶의 질에 영향 없음",
+      "치료 후에만 OHRQoL 변화 발생"
+    ],
+    "ans": 0,
+    "rat": "성인에서 구취는 OHRQoL 유의하게 저하(SMD 0.51; Cassiano 2021). 청소년에서는 유의한 연관 없음 — 성인 환자 상담에 적용.",
+    "cite": "halitosis/cassiano-2021-halitosis-ohrqol-systematic-review-meta"
   }
 ];
 const SITE_BASE="/dentopedia";
+document.getElementById('total').textContent = QUESTIONS.length;
 let done=0, pts=0;
 const quiz=document.getElementById('quiz');
 QUESTIONS.forEach((item,i)=>{
