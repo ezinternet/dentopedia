@@ -171,6 +171,7 @@ tags: []
 - [[implants/short-narrow/yildirim-2026-short-implants-bibliometric-research-trends]] — Yildirim 2026 · narrative-review(bibliometric) · WoS 숏임플란트 626편(1994–2024) 과학지도: 연 12.69% 성장·2019 정점 후 감소, 주요 저널 COIR·IJOMI, 주요 저자 Esposito·Felice, 4개 주제군(생존, 위축 후방악 재건, 보철·생역학, vs 표준/골증대) — 연구 활동의 지도이지 임상 효과의 근거가 아님 (DOI 10.11607/jomi.11411)
 - [[implants/full-arch/la-monaca-2022-immediate-flapless-full-arch-rehabilitation]] — Retrospective 10-year cohort (n=28, 164 implants): all-on-4 vs all-on-6 implant survival (89.7% vs 99.0%), MBL, and complications (2022)
 - [[implants/full-arch/pandey-2023-comparison-all-on-four-all-on-six]] — 3D FEA comparing All-on-Four vs All-on-Six edentulous mandible rehabilitation: All-on-6 shows markedly lower cortical bone/implant stress but slightly higher trabecular bone stress (2023)
+- [[implants/full-arch/zhang-2022-all-on-four-vs-six-cohort-3-13yr]] — Retrospective cohort (217명, 1222 임플란트, 271 full-arch fixed prostheses; Peking University) comparing All-on-4 vs All-on-6: 임플란트 생존율 All-on-4 89.7% vs All-on-6 99.0% (p=0.016); 3-13yr
 - [[implants/yang-2024-implant-diameter-tapered-stress-insertion]] — in-vitro FEA(Nobel Biocare, PU foam): 테이퍼 설계가 정규화 삽입토크 결정(β₂=0.93), 나사 주변 응력 분산 평행형 대비 우수 (2024)
 - [[implants/ceddia-2025-the-influence-of-insertion-torque]] — in-vitro FEA 초단형 임플란트(4×6mm): 삽입토크 35→75 N·cm 시 D4 피질골 응력 79→142 MPa(한계 90 MPa 초과), D2는 75 N·cm에서도 86 MPa
 - [[implants/surface/yaylaci-2026-injectable-nanofiber-gel-enhances-osseointegration]] — 토끼 모델(초록만): 주입형 펩타이드 나노섬유 젤 5주 BIC 58.7 vs 50.5%, BV/TV 51.8 vs 42.6%, 역회전력 53.2 vs 41.8 N·cm (SLA 대비); 미세손상 충전은 저자 설계 의도, 미측정
@@ -1358,6 +1359,12 @@ tags: []
 - [[removable-partial-denture/nakai-2022-ohrqol-nonmetal-clasp-sda-crossover-rct]] — **교차설계 RCT**(n=24, 동일피험자, 각 2주): 편측 원심 2~3치 결손에서 **통상 금속클라스프 의치가 3개 선택지 중 최하위**; 비금속 클라스프(P=.002)·SDA(P=.049) 모두 우위, 둘은 서로 동등. 성별이 SDA 결과를 유의 조절(P=.033). 단 2주는 적응이 아니라 수용을 재는 창
 - [[removable-partial-denture/bashir-2022-rpd-mortality-partially-edentulous]] — NHANES III 사망연계 코호트(n=1,246·22,557 인년, 27개 공변량 성향점수 가중): RPD 착용자 중앙 생존 **3.1년 김**(20.3 vs 17.2), ETR 1.26, 10년 NNT 7.5. ⚠ **인과 아님** — NNT 7.5는 치과 보철로 설명 불가능한 크기라 오히려 적응증 교란의 신호. 비기능적 치열을 전신건강 위험 신호로 읽는 근거로만 사용
 - [[removable-partial-denture/mckenna-2020-functionally-orientated-tooth-replacement-older]] — 고령 환자 기능지향 수복(Prim Dent J): SDA 원칙이 **유지관리 부담**을 줄여 궁극적으로 비용효과적이라는 축 — 임상 결과가 아니라 부담 차원의 논거. 단 "적절히 선택된 케이스"의 기준은 초록에 없음(Witter 사다리로 대체)
+- [[removable-partial-denture/fueki-2017-sda-vs-rpdp-ohrqol-sr-ma]] — SR+MA (MEDLINE+Cochrane, 2편 RCT+1 non-RCT, N=516): SDA vs RPDP OHRQoL 비교 — OHIP-20 차이 없음(MD 0.26, 95% CI -1.14~1.66); 저확실성 근거
+- [[removable-partial-denture/gao-2025-effectiveness-restoration-strategies-posterior]] — Retrospective (n=247, 283 regions): M1-only 임플란트(SDA concept) = M1+M2 임플란트 동등(5년 생존율·OHIP·교합력); 2대구치 불필요 가능성 근거
+- [[removable-partial-denture/koyama-2026-effects-occlusal-contact-loss-preferred]] — Randomized crossover RCT (n=28): 교합 스플린트로 편측 SDA 시뮬레이션 — 소구치 대구치 소실 시 PCS 저작 유의 저하; 선호 측 편향 증가
+- [[removable-partial-denture/liang-2015-effects-removable-dental-prostheses-masticatory]] — SR (8편, J Dent 2015): SDA/ESDA 환자 저작능 완전치열 대비 28–39% 저하; RPD 보정 후 개선 확인
+- [[removable-partial-denture/mckenna-2018-sda-vs-rpd-older-patients-rct]] — RCT (89명, ≥65세, Cork 2개 기관): SDA vs RPD 비교 — QoL·기능·치주건강 모두 군간 유의차 없음; SDA 적합 고령 환자는 RPD 없어도 동등
+- [[removable-partial-denture/mclister-2018-prosthodontic-interventions-survival-shortened]] — SR (10편, 3 RCT): SDA 환자 보철 개입 증거 불충분 — 어떤 단일 치아 대체 전략도 권고할 수 없음(Cochrane-level uncertainty)
 
 ## 비니어·라미네이트 (Veneers — added 2026-06-15)
 - [[overviews/veneers-category-synthesis-overview]] — Category Synthesis (28편, 2026): 3개 클러스터(재료/생존/프로토콜·최소삭제·교합비니어) 허브 — 통합원칙: 에나멜 구속(enamel confinement) — 상아질 마진 노출 시 실패위험 ~10×, 재료·삭제 깊이 무관(El-Mowafy 2018; Klein 2025·Reis 2025 확인)
@@ -1421,6 +1428,16 @@ tags: []
 - [[dental-materials/zirconia/atoche-socola-2021-cleaning-zirconia-microshear]] — in-vitro(J Adv Prosthodont 2021): CAD/CAM 지르코니아 세정 기법 비교 µSBS — 세정 전군 오염 대조군보다 유의 향상
 - [[dental-materials/turker-2020-surface-treatments-cad-cam-resin]] — in-vitro(J Adv Prosthodont 2020): Lava Ultimate·Vita Enamic CoJet+Z-Prime 최고; HF는 Vita Enamic에만 효과적
 - [[dental-materials/zirconia/comba-2021-chemical-bonding-cubic-zirconia]] — in-vitro(Materials 2021): 큐빅(5Y) 지르코니아 CoJet+실란+MDP 6개월 최고 안정성; 큐빅도 3Y와 동일 접착 반응
+- [[dental-materials/zirconia/aflatoonian-2025-deglazing-hydrothermal-aging-high-translucent-zirconia]] — in-vitro (40 HT 3Y-PSZ, 4그룹): deglazing+aging 군에서 표면조도 증가·LTD 가속 — 고투명 지르코니아 디글레이징 시 LTD 취약성 상승
+- [[dental-materials/zirconia/cokic-2024-coloring-multilayer-zirconia-pigment-agglomerates-ltd]] — in-vitro (Lava Esthetic 다층 지르코니아): 착색액 Er₂O₃ 응집체 → LTD 핵생성 촉진; LTD 감수성 단일층 대비 증가
+- [[dental-materials/zirconia/flinn-2014-hydrothermal-degradation-three-types-zirconia]] — in-vitro (3Y-TZP 3종: Zpex·Prettau·ZirTough; 134 °C/200h, 180 °C/16h): AL이 LTD 최강 예측인자; 소결 미세조직 차이가 LTD 내성 결정
+- [[dental-materials/zirconia/kengtanyakich-2020-hydrothermal-degradation-cubic-translucent-zirconia]] — in-vitro (4개 Y-TZP 그룹 T/ST/XT/P; 122 °C/8h): 큐빅 함량↑→LTD↓; 단상 큐빅(P) 사실상 LTD 없음; 강도 대가
+- [[dental-materials/zirconia/khabadze-2025-artificial-aging-cubic-tetragonal-phase-zirconia]] — in-vitro XRD (3Y/4Y/5Y-PSZ, polished/glazed; 134 °C/40h): 연마면 LTD 취약 > 글레이징면; 5Y-PSZ 위상 변화 최소
+- [[dental-materials/zirconia/kohorst-2012-low-temperature-degradation-3ytzp-atz-ceria-zirconia]] — in-vitro (3Y-TZP/ATZ/12Ce-TZP; autoclave aging): ATZ LTD 중간; 12Ce-TZP 사실상 LTD 없음; 조성이 LTD 저항성 1차 결정인자
+- [[dental-materials/zirconia/liu-2022-high-speed-sintering-ltd-translucent-zirconia]] — in-vitro (고속 소결 ~90분 vs 통상 ~8h, 2종 투명 지르코니아): 고속 소결 LTD 감수성 통상과 동등; 소결 속도는 LTD에 비결정적
+- [[dental-materials/zirconia/prado-2022-hydrothermal-mechanical-aging-fatigue-zirconia]] — in-vitro (4종 3Y/5Y-TZP; 수열+기계 복합 노화): LTD+피로 복합 노화 후 5Y-PSZ 굴곡강도 감소; 3Y-TZP 상대적으로 안정
+- [[dental-materials/zirconia/sarabi-2024-grinding-ltd-flexural-strength-zirconia]] — in-vitro (n=64, Y-TZP, 연삭×LTD 조합): 연삭+LTD 복합은 굴곡강도 단독 연삭보다 추가 감소; 연삭 후 표면 처리 중요성 확인
+- [[dental-materials/zirconia/silveira-2026-3ytzp-hydrothermal-stability-steam-water-iso6872]] — in-vitro (150 3Y-TZP, ISO 6872:2024 steam aging): ISO 개정 증기 노화는 수중 침지보다 LTD 더 가속; 새 ISO 기준이 보수적 임상 예측 제공
 - [[dental-materials/zirconia/awad-2022-mdp-cleaner-contaminated-zirconia]] — in-vitro(Materials 2022): MDP 함유 세정제 — 오염 지르코니아에 수세·알코올보다 높은 SBS; 세정+접착 이중 기능
 - [[dental-materials/zirconia/hajjaj-2022-cleaning-methods-zirconia-sbs]] — in-vitro(Materials 2022): 오염 지르코니아 5가지 세정법 — 세정 전군 유의하게 향상; 세정 필수 재확인
 - [[dental-materials/zirconia/shokry-2022-zirconia-crown-primer-cement-retention]] — in-vitro(BMC Oral Health 2022): 단일체 지르코니아 크라운 3종 프라이머-시멘트 유지력 — Panavia V5+Clearfil 최고; 시스템 매칭 중요
@@ -5329,6 +5346,7 @@ tags: []
 - [[periodontics/jasser-2021-effectiveness-beta-tricalcium-phosphate-comparison]] — 치주 골내결손 베타-인산삼칼슘 (β-TCP) vs 타 이식재 SR+MA (5편, 171명/254부위, 무작위 1편): 변연절제 단독 대비 우수(PD 감소 6.20 vs 2.95 mm, CAL 획득 5.80 vs 2.30 mm), 동종골·자가골과 비슷하거나 약간 낮음; 랜덤효과에선 대부분 소실(I² 73–92%), 근거 약함
 - [[periodontics/omalley-2026-behavioural-interventions-oral-hygiene]] — O'Malley 2026 · sr · 코크란 SR pub2 (RCT 25편, 1422명): 치주질환 성인의 구강위생 행동 중재(BCT 분류법) 효과 — 전 결과 근거 확신도 매우 낮음, 효과 결론 도출 불가 (DOI 10.1002/14651858.CD012049.pub2)
 - [[oral-surgery/third-molar/toledano-serrabona-2021-xenograft-periodontal-defects-mandibular-third]] — 하악 제3대구치 발치 후 우골 이종골+콜라겐 막 vs 자연치유 SR+MA (RCT 3편, 81명/M3M 162개): 제2대구치 원심 PPD 감소 MD 2.36 mm, CAL 획득 MD 2.52 mm 유리 (I² 95-97%), 치조골 높이·부작용 차이 없음; 저비뚤림 1편뿐
+- [[악골-낭종-분류]] — synthesis · 악골 낭종 분류 (Jaw Cyst Classification): WHO 2017/2022 5판 기준 치성·비치성·위낭종 대분류; 기전·역학·감별·치료 원칙 종합
 - [[sinus-lift/lateral/trimmel-2021-relative-performance-various-biomaterials]] — 상악동거상 베이지안 네트워크 메타분석 (RCT 34편, 842건, 5-8개월): 28개 이식재 하위군 중 이종골+골수농축액 SUCRA 81% 1위, 자가골 단독 12위(57%)로 표준 지위 미확인; 유의 비교 378건 중 2건, 확실성 낮음~매우 낮음
 - [[bone-regeneration/perez-gonzalez-2020-assessment-clinical-outcomes-histomorphometric-findings]] — 동종골 블록 치조제 증강 SR+MA (7편, 블록 323개, 임플란트 501개): 블록 생존율 94.52%, 임플란트 생존율 97.36%, 블록 노출이 최다 합병증, 신생골 31-42%·잔존 이식재 14-40%; RCT 없음
 - [[bone-regeneration/monje-2014-feasibility-utilizing-allogeneic-bone-blocks]] — 위축 상악 동종골 블록 이식 SR+MA (전향 연구 15편, 블록 361개): 블록 실패 2.4%(주원인 조기 노출), 가중 수평 증대 4.79 mm, 임플란트 생존율 96.9%(228개, 평균 23.9개월); 수직 증대 자료 부족
@@ -5375,6 +5393,10 @@ tags: []
 
 - [[overviews/last-lipid-emulsion-dental-overview]] — LAST·ILE 구조 종합(8편, 2026-10-23): 치과 LAST 예방·ILE 구조 — 부피바카인 심장독성(서방성 Na⁺채널 차단) vs 리도카인(가역성); 소아 고위험(α1-AGP 저하·CYP450 미숙); ILE 20% 1.5 ml/kg 볼러스 = 소아 95.2% 회복(SR); 치과의사 ILE 상세지식 0.5%·보유 14.1% — 심각한 준비도 간극; 프릴로카인 메트헤모글로빈혈증 별도 독성경로(특히 영아)
 - [[overviews/periapical-scar-healing-overview]] — 치근단 반흔 치유 (Periapical Scar Healing) 종합 (4편, 2026-11-06): 유병률 9%(수술 계열, Grung 1990) · 1.6–12%(생검·보고 계열); 5-기준 임상진단 (Lee 2021); 위험인자(피질골 소실·대형 병소·CCD); 감시 원칙 — PS는 절대 커지지 않음; CBCT 한계 종합
+- [[overviews/dental-emergency-preparedness-cpr-aed-overview]] — Overview (7편 종합): 치과 전문가 CPR·AED 준비도 — 이론 지식 양호·실기 자신감 낮음; 주기적 훈련·AED 비치 근거 종합
+- [[overviews/dental-medical-emergencies-preparedness-overview]] — Overview (7편, 2025–2026): 치과 의료 응급상황 대비도 — 터키·레바논·말레이시아 등 다국 단면조사 종합; 에피네프린·부목반사 훈련 간극
+- [[overviews/sda-shortened-dental-arch-evidence-overview]] — Overview (SDA 근거 종합): 단축치열(SDA) — 소구치 지지 유지, 대구치 미대체 전략; 15년 RCT 포함 7편 종합; RPD 대비 OHRQoL·치주 비열등
+- [[overviews/zirconia-fracture-mechanisms-overview]] — Overview (지르코니아 파절 기전): 변형강화(t→m 상변태)의 역설적 취약성 — LTD·과부하·R-curve 거동; 조성·소결·노화 연계 종합
 - [[overviews/dental-vasovagal-syncope-overview]] — 치과 VVS 종합(26편): 방문 1,146,929건 중 응급 42건(0.0037%)·그중 VVS 61.9%·발치 45.2%(obata-2021, 하한) + 설문 46.30%(폴란드 419명)·56.5%(레바논 442명) + 병원 응급실 VVS 14.1%(liu-2026); LA가 삽화의 ~75% 유발·39%는 시술 전, 남자 청소년 2.69배; 기전 3축(Bezold–Jarisch / TCR=자극 중단이 1차 치료 / 정신성) + 탈신경 심장에서 서맥 없는 혈관억제형(montebugnoli-1999), 감별 6축(아나필락시스·LAST·심장성·채널병증·저혈당·아드레날린 러시), P–CAB–D(아트로핀 0.5 mg IV 최대 3 mg·에페드린 5 mg IV 최대 50 mg), 예방 근거 사다리(통증 조절만 RCT, 다리 술기 pilot, 전처치는 비치과 외삽, 글리코피롤레이트는 치과 RCT 없음), 반례 둘(동정지 kawauchi-2025 / 인공심박동기 sharma-2006)
 
 ## Batch ingest (added 2026-10-28) — missing-from-index 일괄 등재 (31편)
