@@ -1,7 +1,14 @@
 ---
 title: "후방부 부분피개수복물 재료별 생존율·합병증 SR+MA (Prott 2024)"
+authors: ["Prott LS", "Kern P", "Politano G", "Chaar MS", "Kern M", "Guess PC", "others"]
+year: 2024
+doi: "10.1111/jerd.13353"
 source: "prott-2024-partial-coverage-restorations-posterior-sr-ma"
 category: inlay
+evidence_level: sr+ma
+source_collection: pubmed-text
+text_path: /Users/oracleneo/llm-wiki/papers/prott-2024-partial-coverage-restorations-posterior-sr-ma.txt
+text_filename: prott-2024-partial-coverage-restorations-posterior-sr-ma.txt
 tags: [pcr, onlay, partial-crown, occlusal-veneer, lds, rmc, lrgc, sr-ma, survival, ceramic]
 created: 2026-11-06
 ---
