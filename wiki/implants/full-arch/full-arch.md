@@ -48,8 +48,8 @@ tags: [navigation, category-index, full-arch]
 | [[chappuis-chocano-2023-cadcam-bar-implant-overdenture-sr-ma|Systematic review and meta-analysis of the clinical performance of implant-supported overdentures retained by CAD-CAM bars]] |
 | [[cosola-2026-customized-3d-printed-titanium-subperiosteal-implants-sr-ma|Clinical Outcomes, Survival, and Complications of Customized Computer-Aided Design and Manufacturing 3-Dimensional–Printed Titanium Subperiosteal Implants]] |
 | [[cuello-de-garcia-2026-zirconia-height-cantilever-fracture-in-vitro|Effect of Zirconia Height on the Fracture Resistance of Cantilever Full-Arch Implant-Supported Prostheses: An In-Vitro Study]] |
-| [[de-araujo-nobre-2025-mandibular-all-on-four-25yr|Immediate full-arch mandibular rehabilitation supported by four implants: A retrospective study with 20 to 25 years of follow-up]] |
-| [[de-araujo-nobre-2026-maxillary-all-on-four-20yr|Immediate Full-Arch Maxillary Rehabilitation Supported by Four Implants: A Retrospective Study with 15 to 20 Years of Follow-Up]] |
+| [[de-araujo-nobre-2025-mandibular-all-on-four-20-25yr|Immediate full-arch mandibular rehabilitation supported by four implants: A retrospective study with 20 to 25 years of follow-up]] |
+| [[de-araujo-nobre-2026-maxillary-all-on-four-15-20yr|Immediate Full-Arch Maxillary Rehabilitation Supported by Four Implants: A Retrospective Study with 15 to 20 Years of Follow-Up]] |
 | [[zhang-2022-all-on-four-vs-six-cohort-3-13yr|Comparison of 4- or 6-implant supported immediate full-arch fixed prostheses: A retrospective cohort study of 217 patients followed up for 3-13 years]] |
 | [[del-fabbro-2022-full-arch-tilted-axial-implants-sr-ma|Outcomes of Fixed Full-Arch Rehabilitations Supported by Tilted and Axially Placed Implants: A Systematic Review and Meta-Analysis]] |
 | [[emam-2025-evaluation-of-the-marginal-gap|Evaluation of the marginal gap and the three-dimensional trueness of suprastructures generated from scanning two different substructure framework materials for full arch implant-supported restorations]] |
