@@ -100,5 +100,5 @@ Interpretation: clinicians with specialized prosthetic training or moderate (rat
 - [[implants/full-arch/shao-2026-all-on-four-vs-all-on-six-sr-ma]] — SR+MA (55 studies) including this cohort in meta-analytic pool; provides pooled survival rates and MBL comparisons across the literature
 - [[implants/full-arch/la-monaca-2022-immediate-flapless-full-arch-rehabilitation]] — complementary 10yr retrospective cohort (n=28, Sapienza Rome) comparing All-on-4 vs All-on-6; found biological complication advantage for All-on-6
 - [[overviews/full-arch-fixed-four-vs-six-implants-overview]] — synthesis overview directly synthesizing the All-on-4 vs All-on-6 clinical question; this paper is key primary evidence
-- [[implants/full-arch/de-araujo-nobre-2025-mandibular-all-on-four-25yr]] — very long-term All-on-4 mandibular data; provides long-term survival context
-- [[implants/full-arch/de-araujo-nobre-2026-maxillary-all-on-four-20yr]] — very long-term All-on-4 maxillary data with high-risk subgroup analysis (smoking, biological complications)
+- [[implants/full-arch/de-araujo-nobre-2025-mandibular-all-on-four-20-25yr]] — very long-term All-on-4 mandibular data; provides long-term survival context
+- [[implants/full-arch/de-araujo-nobre-2026-maxillary-all-on-four-15-20yr]] — very long-term All-on-4 maxillary data with high-risk subgroup analysis (smoking, biological complications)
