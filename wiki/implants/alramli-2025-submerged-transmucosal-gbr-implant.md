@@ -38,6 +38,6 @@ Randomized controlled clinical trial. n=28 patients; single implant placed at a 
 - RBT: no significant intergroup difference; significant T0→T1 reduction within both groups (p<0.05)
 
 ## Related Papers
-- [[implants/al-zahrani-2018-stability-bone-loss-submerged-nonsubmerged-diabetic]] — submerged vs nonsubmerged in diabetic patients (reinforces equivalence theme)
+- [[implants/mbl/al-zahrani-2018-stability-bone-loss-submerged-nonsubmerged-diabetic]] — submerged vs nonsubmerged in diabetic patients (reinforces equivalence theme)
 - [[implants/wu-2018-submerged-nonsubmerged-internal-hexagonal]] — submerged vs nonsubmerged internal hexagonal implants (reinforces)
 - [[overviews/primary-vs-secondary-implant-healing-closure-overview]] — extends evidence map for GBR healing protocol gap

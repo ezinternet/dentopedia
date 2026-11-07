@@ -51,4 +51,4 @@ This Cochrane SR evaluated behavioural interventions aimed at improving oral hyg
 GRADE downgrade reasons: unblinded participants (performance bias), inconsistency, imprecision.
 
 ## Related Papers
-- [[behavioral-dentistry/motivational-interviewing/ramseier-2017-motivational-interviewing-periodontal-patients-rct]] — reinforces: MI as one BCT approach for periodontal patients
+- ramseier-2017-motivational-interviewing-periodontal-patients-rct — reinforces: MI as one BCT approach for periodontal patients (미인제스트)

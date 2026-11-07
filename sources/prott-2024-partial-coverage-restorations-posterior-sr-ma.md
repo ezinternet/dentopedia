@@ -71,8 +71,6 @@ LRGC(비교 2편, 메타분석 미포함): 3년 생존율 96.1–98.3% — LDS�
 ## 관련 wiki 항목
 
 - [[inlay/prott-2024-partial-coverage-restorations-posterior-sr-ma]]
-- [[부분피개수복물 (Partial Coverage Restoration)]]
-- [[세라믹 재료 선택 (Ceramic Material Selection)]]
 
 ## Why Ingested
 
