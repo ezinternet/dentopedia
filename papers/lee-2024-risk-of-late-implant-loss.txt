@@ -1,0 +1,497 @@
+1
+
+Introduction
+
+Replacing missing teeth with implant‐supported restorations significantly reduces masticatory discomfort (J. H. Lee et al.; S. Y. Lee et al.). Beyond the immediate benefits of restored masticatory function, the long‐term success of implants depends on a variety of factors, making it a critical area of research. While osseointegration remains crucial, dental implant research has simultaneously expanded to explore implant failure and associated risk factors (Carra et al.; Huang et al.). Early implant failures, often linked to operational trauma or contamination, differ from late failures, which typically arise from biological or mechanical issues, including peri‐implantitis and excessive occlusal load (Derks et al.). The likelihood of implant failure can be influenced by patient‐related factors such as smoking, dietary preferences, history of periodontitis, systemic health and bone quality, as well as operator‐related factors such as experience, implant geometry and restoration type (Dreyer et al.; J. J. Kim et al.; Roccuzzo et al.; Serroni et al.; Yoon et al.). Notably, the intrinsic properties of implant restoration, particularly the implant surface and abutment types, are pivotal in determining implant success (J. H. Lee et al.; S. Y. Lee et al.).
+
+Various modifications of titanium implant surfaces have been developed to improve osseointegration (Albrektsson and Wennerberg; Cochran et al.). Sandblasting with large grit and acid etching (SA) is a common method for roughening titanium implants. This process involves altering the microstructure of the implant through sandblasting, followed by acid etching to create micro concavities (Barfeie, Wilson, and Rees). Another approach involves hydroxyapatite (HA) coatings, which reflect the primary composition of the bone and are often used when fast osseointegration is essential (Dalton and Cook; Oonishi et al.; Sun et al.; Xuereb, Camilleri, and Attard; Yeo; Yeung et al.). Biocompatible and resorbable blasting media (RBM), including calcium phosphate particles, are also used and have been shown to enhance initial bone formation and accelerate the rate of bone integration around the implant (Citeau et al.; Piattelli et al.; Sanz et al.). Implants with these surfaces can be mounted with abutments of various shapes and structures (Sailer et al.). Pre‐made stock abutments can generally be categorized into one‐piece straight, two‐piece straight and two‐piece angled. Differences in stress distribution in the area surrounding the implant may exist between one‐piece and two‐piece abutments (Hajimiragha et al.), whereas angled abutments may be associated with mechanical complications such as screw loosening (Pitman et al.).
+
+Although rough and modified surfaces offer several advantages over smooth surfaces in dental implants (Jemt,), studies comparing implant complications among various types of modified surfaces are scarce. Moreover, the abutment type could also affect clinical outcomes (Hajimiragha et al.), warranting further research. Analysing large‐scale data can significantly help in understanding these associations. This nationwide population‐based cohort study aimed to assess the risk of late implant loss and peri‐implantitis based on implant surfaces and abutment types in the elderly population using a big data analysis approach.
+
+2
+
+Materials and Methods
+
+2.1
+
+Study Design and Data Source
+
+This observational cohort study analysed data obtained from the Korean National Health Insurance Service (NHIS) and National Health Screening databases. The Korean NHIS, a government‐mandated health insurance coverage, encompasses the entire population of Korea, which is approximately 50 million people. This database provides comprehensive demographic details, along with the medical records and expenses of the enrollees, including diagnoses, examinations, prescriptions and medical procedures. The diagnoses in this database were classified using the International Classification of Diseases, Tenth Revision (ICD‐10), Clinical Modification codes. Furthermore, data from the National Health Screening Database, which is linked to the NHIS database, were utilized. Enrollees of the NHIS aged 40 years or older are typically recommended to undergo biennial health screenings. These health examinations encompass anthropometric measurements, blood pressure assessments and laboratory tests. The study adhered to the principles of the Declaration of Helsinki and was exempt from review by the Institutional Review Board (approval number: ERI21016) owing to the use of a de‐identified and anonymized dataset. This study was conducted in accordance with the Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) Reporting Guidelines (von Elm et al.).
+
+2.2
+
+Study Population and Dental Implants
+
+The dental implant insurance coverage system by NHIS, initiated on 1 July 2014, currently targets patients aged 65 years and above. The lower age limit for eligibility for dental implant insurance coverage was 75 years in the first year of launch, reduced to 70 years in the second year and 65 years from the third year onwards. Insurance coverage requirements were (1) applicable only to partially edentulous arches; (2) limited to two implants per patient for life; and (3) restorative procedures restricted to cement‐retained prostheses using abutments and non‐precious metal‐ceramic crowns, with screw access channels in crowns allowed. Implants were excluded from coverage in the following cases: (1) completely edentulous arch; (2) zygomatic implants; (3) one‐piece implants with abutment portion; (4) crowns made of materials other than non‐precious metal‐ceramic crowns; and (5) other superstructures such as attachments. NHIS‐covered dental implants meeting the aforementioned criteria can be restored in any form, including single crowns, multi‐unit crowns or fixed partial dentures. For insurance claims on dental implants, implant and abutment products were claimed along with their respective service fees. Eligible implants and abutment products were specified by codes, with implants categorized by the surface type and abutments categorized by the structure.
+
+This study included data from individuals aged ≥ 65 who underwent NHIS‐covered implant procedures from July 2014 to December 2019. The implants and abutments used were based on the NHIS‐classified product codes. Implant surfaces included (1) RBM, (2) SA and (3) HA. Pre‐made stock abutment structures included (1) one‐piece straight (one‐piece group), (2) two‐piece straight (two‐piece group) and (3) two‐piece angled (angled group). Tableprovides a list of implant manufacturers and brands categorized by surface type, as registered under the reimbursement items in the NHIS. Implants were excluded if they (1) experienced early failure before restoration delivery, (2) were restored with other types of abutments such as customized computer‐aided‐design/manufacturing abutments, (3) were not completed with prosthetic restorations by the inclusion period (December 2019) or (4) were fitted in patients with a diagnosis of oral cancer from 2012 up to the time prior to the completion of the implant restoration. Records of the included implants were reviewed from the date of restoration delivery until the end of the study period (December 2020).
+
+2.3
+
+Study Outcomes
+
+The primary outcome of this study was ‘implant complication treatments’, which involved ‘implant removal procedures’ and ‘peri‐implantitis treatments’ during the follow‐up period. The incidence of these outcomes was identified through insurance billing prescriptions, and the appropriateness of each prescription was meticulously reviewed and managed by the Health Insurance Review and Assessment Service. If any inappropriate prescriptions were detected during the review, corrective actions were made, and the billed amounts were adjusted accordingly.
+
+Implant removal procedures were categorized as either simple or complex. ‘Simple implant removal’ was identified in cases in which the implant exhibited mobility and could be removed without the need for specialized instruments. Therefore, implants prescribed for simple removal were defined as having experienced ‘osseointegration loss’ (Mombelli and Lang). ‘Complex implant removal’ involved implant and abutment fractures, nerve damage and peri‐implantitis without mobility, requiring the use of a trephine burr or a dedicated removal kit. Furthermore, implants that underwent either simple or complex removal were considered to have experienced ‘late implant loss’.
+
+‘Peri‐implantitis treatments’ were defined as the occurrence of ‘peri‐implant osteoplasty’, ‘implant surface decontamination’, or both. Peri‐implant osteoplasty was indicated in cases with a probing depth of over 5 mm around the implant and marginal bone loss exceeding one‐third of the implant length. This procedure involves removing the infrabony defects while restoring the physiological contours of the alveolar bone, and may include both osteoplasty (i.e., reshaping or sculpting of the bone) and bone resection, during which the supporting bone is removed. Implant surface decontamination included surface cleaning, detoxification and threadoplasty of the implant surface.
+
+2.4
+
+Covariates
+
+This study utilized the NHIS database to gather extensive demographic and lifestyle data. Regarding income level, the bottom 25% of individuals and medical aid beneficiaries were classified as low income. Residence areas were categorized as metropolitan cities and other regions. Disability status was determined based on whether disability was recorded in the NHIS. Based on the ICD‐10 classification, this study identified several comorbidities. Type 2 diabetes mellitus was determined by two or more claims with the codes ‘E11’, ‘E12’, ‘E13’ or ‘E14’ as the main diagnosis. Hypertension was identified by two or more claims with the codes ‘I10’, ‘I11’, ‘I12’, ‘I13’ or ‘I15’. Dyslipidemia required two or more claims with code ‘E78’. Cancer was recognized with at least one claim using ‘V193’ and the codes ‘C00’–‘C99’. Stroke was determined by one or more claims with codes ‘I63’ or ‘I64’. Osteoporosis required two or more claims with the codes ‘M80’, ‘M81’ or ‘M82’. The types of teeth where the implants were placed were categorized by their location: maxilla, mandible, left side, right side, anterior and posterior.
+
+2.5
+
+Statistical Analysis
+
+SAS software (version 9.4; SAS Institute, Cary, NC) was used for statistical analysis. Baseline characteristics of the included implants were analysed using the Chi‐squared test. The incidence of implant complication treatments (implant removal procedures and/or peri‐implantitis treatments) was analysed according to the study population characteristics. To identify significant covariates, continuous variables were compared using the independent‐test and presented as mean ± standard deviation, whereas categorical variables were evaluated using the Chi‐squared test and presented as numbers (percentages). Kaplan–Meier cumulative curves were employed to illustrate the cumulative incidence probability of implant complication treatments for different implant surfaces and abutment types, with the log‐rank test applied for group comparisons. In cases where repeated prescriptions occurred for the same implant, the analysis was based on the date of the first prescribed code for the complication. The incidence rate of implant complication treatments was determined by dividing the total number of such events by the cumulative duration of follow‐up, presented as per 1000 implant‐years. The Cox proportional hazards regression model was used to assess the relationship between implant surfaces, abutments and the likelihood of implant complication treatments, and hazard ratios (HRs) and 95% confidence intervals (CIs) are reported. Clinically relevant covariates were adjusted in a hierarchical manner. Model 1 was an unadjusted model. Covariates were added in stages: first, sex and age (Model 2); then income, residence, disability status and systemic health conditions (diabetes, hypertension, dyslipidemia, cancer, stroke, and osteoporosis; Model 3); and finally, the type of tooth restored (maxillary, mandibular, anterior and posterior; Model 4). Interaction terms between implant surfaces and abutment types were tested. The association of the combined implant surface and abutment types with the risk of implant complication treatments was also investigated. Additionally, to focus on osseointegration loss, the association with the risk of simple implant removal was investigated. Statistical significance was set at< 0.05.
+
+3
+
+Results
+
+Initial participants were those registered in the NHIS with an implant placement code between 2014 and 2019 and ≥ 65 years (implants,= 3,038,622; patients,= 1,757,851). Following the application of the exclusion criteria (implants,= 683,916; patients,= 371,281), the final study cohort comprised 2,354,706 implants of 1,386,570 patients (Figure). The most prevalent implant surface was SA (86.7%), followed by RBM (9.52%) and HA (3.78%). Two‐piece abutments were used to restore 79.9% of the included implants. The distribution of the restored teeth by implant surface and abutment type is presented in Table. Additionally, the distribution of implant placement and restoration loading years according to implant surface and abutment type is provided in Table. At the patient level, the mean age of the study population was 72.11 ± 5.23 years. Out of the total 1,386,570 patients, 679,296 (48.99%) were men, and 613,165 (44.22%) resided in urban areas. Detailed patient‐level information is presented in Table.
+
+Out of a total of 2,354,706 implants, implant complication treatments occurred in 14,440 cases (0.61%) during a mean follow‐up period of 2.84 ± 1.25 years. The crude number (percentage) of events for implant removal procedures was 12,412 (0.53%), with 8770 (0.37%) being simple implant removals and 3642 (0.15%) being complex implant removals. Peri‐implantitis treatments occurred in 2137 cases (0.09%). The crude incidence of implant complication treatments based on study population characteristics is presented in Table. Complications were significantly more common in men, individuals ≥ 75 years and those residing in urban areas (< 0.0001). A higher incidence was noted in patients with disabilities and in those diagnosed with diabetes, hypertension or cancer (< 0.01). Compared with no‐complication implants, implants with complications comprised a higher proportion of maxillary implants (< 0.0001).
+
+Figurepresents the cumulative incidence probability curves of implant complication treatments based on the implant surfaces and abutment types. The results of the log‐rank tests indicated significant differences in the incidence of implant complication treatments across the different surface groups (< 0.0001), with the SA surface group showing the lowest incidence of simple implant removal (< 0.0001). However, no significant differences were observed between the surfaces regarding the cumulative incidence probability of peri‐implantitis treatments (= 0.0587). Additionally, there were no significant differences in the incidence of implant complication treatments among the different abutment type groups (= 0.9811). The 6‐year cumulative incidence probability of implant complication treatments did not exceed 0.03 for all types of implant surfaces and abutments.
+
+Figuredetails the incidence of implant complication treatments based on implant surfaces and abutment types. Both the crude percentage (%) of events in each group and the crude incidence rate per 1000 implant‐years are presented in the figure. After adjusting for potential confounding factors (Model 4), RBM surfaces had a 1.841‐fold higher risk of implant removal procedures compared with SA surfaces, with a particularly higher risk (2.365‐fold) of simple implant removal (< 0.0001). Similarly, HA surfaces showed a 1.424‐fold higher risk of implant removal procedures and a 1.484‐fold greater risk of simple implant removal compared with SA surfaces (< 0.0001). However, implants with an RBM surface showed a lower HR for complex implant removal than those with other surfaces (< 0.0001). HA surface showed 1.264 (1.009–1.584) of adjusted HR (95% CI) of peri‐implantitis treatments. However, there were no statistically significant differences in the incidence of peri‐implantitis treatments between implant surfaces (= 0.0587). As for the abutment types, the risk of implant removal procedures was not associated with the abutment type (= 0.653). However, upon detailed analysis, the one‐piece type showed a higher risk of simple implant removal but a lower risk of complex implant removal (< 0.0001). No significant differences in peri‐implantitis treatment were observed among the different abutment types (= 0.2054). The adjusted HR values of Models 2 and 3 are presented in Table.
+
+Figureillustrates the association between combined implant surface and abutment type groups and the risk of implant complication treatments in Model 4. The incidence rate of implant complication treatments was highest for implants with an RBM surface restored with a one‐piece straight abutment, reaching 3.884 per 1000 implant‐years. Furthermore, in the Model 4, the implants with an RBM surface and one‐piece abutment also showed the highest adjusted HR (95% CI) of 1.916 (1.734–2.117) compared to the implant group with an SA surface and a two‐piece abutment (1, reference). Implants with SA surfaces exhibited relatively low adjusted HR (95% CI) values of 0.916 (0.867–0.969) for the SA and one‐piece group, 1 (reference) for the SA and two‐piece group and 1.044 (0.969–1.125) for the SA and angled group (< 0.0001; Figure). Moreover, the adjusted HR values for simple implant removal indicated that the SA surface implant group with a two‐piece abutment type had the lowest risk (< 0.0001; Figure). In terms of both implant complication treatments and simple implant removal, the RBM group with all abutment types and the HA group with straight abutments showed significantly higher risks than those in the SA group with a two‐piece abutment (< 0.0001).
+
+FIGURE 1
+
+Flowchart of the study population. HA, hydroxyapatite coating; NHIS, National Health Insurance Service; RBM, resorbable blast media; SA, sandblasting with large grit and acid etching.
+
+FIGURE 2
+
+Kaplan–Meier curves showing cumulative incidence probability of implant complication treatments. HA, hydroxyapatite coating; RBM, resorbable blast media; SA, sandblasting with large grit and acid etching. (A) Implant complication treatments (implant removal procedures and/or peri‐implantitis treatments) according to implant surface groups. (B) Implant removal procedures according to implant surface groups. (C) Simple implant removal (osseointegration loss) according to implant surface groups. (D) Complex implant removal according to implant surface groups. (E) Peri‐implantitis treatments according to implant surface groups. (F) Implant complication treatments (implant removal procedures and/or peri‐implantitis treatments) according to abutment type groups. (G) Implant removal procedures according to abutment type groups. (H) Simple implant removal (osseointegration loss) according to abutment type groups. (I) complex implant removal according to abutment type groups. (J) Peri‐implantitis treatments according to abutment type groups.
+
+FIGURE 3
+
+Risk of implant complication treatments according to implant surface and abutment type groups. Incidence rates are expressed as number per 1000 implant‐years. Model 1: Unadjusted. Model 4: Adjusted for sex, age, income, residence, disability, diabetes, hypertension, dyslipidemia, cancer, stroke, osteoporosis and tooth type. HA, hydroxyapatite coating; RBM, resorbable blast media; SA, sandblasting with large grit and acid etching.
+
+FIGURE 4
+
+Associations of combined implant surfaces and abutment types with risk of implant complication treatments (implant removal procedures and/or peri‐implantitis treatments;< 0.0001 for aHR). Incidence rates are expressed as number per 1000 implant‐years. The model (Model 4) was adjusted for sex, age, income, residence, disability, diabetes, hypertension, dyslipidemia, cancer, stroke, osteoporosis and tooth type. aHR, adjusted hazard ratio; CI, confidence interval; HA, hydroxyapatite coating; RBM, resorbable blast media; SA, sandblasting with large grit and acid etching.
+
+TABLE 1
+
+Baseline characteristics of the included implants categorized by implant surfaces and abutment types.
+
+Total
+
+Implant surface
+
+Abutment type
+
+RBM
+
+SA
+
+HA
+
+p
+
+One‐piece
+
+Two‐piece
+
+Angled
+
+p
+
+n
+
+2,354,706 (100)
+
+224,169 (9.52)
+
+2,041,481 (86.7)
+
+89,056 (3.78)
+
+316,973 (13.46)
+
+1,881,660 (79.91)
+
+156,073 (6.63)
+
+Jaw
+
+Mx.
+
+1,100,811 (46.75)
+
+105,081 (46.88)
+
+954,053 (46.73)
+
+41,677 (46.8)
+
+0.4198
+
+144,598 (45.62)
+
+876,010 (46.56)
+
+80,203 (51.39)
+
+< 0.0001
+
+Mn.
+
+1,253,895 (53.25)
+
+119,088 (53.12)
+
+1,087,428 (53.27)
+
+47,379 (53.2)
+
+172,375 (54.38)
+
+1,005,650 (53.44)
+
+75,870 (48.61)
+
+Quarter arch
+
+Mx. right
+
+548,508 (23.29)
+
+52,415 (23.38)
+
+475,124 (23.27)
+
+20,969 (23.55)
+
+0.2004
+
+72,194 (22.78)
+
+437,026 (23.23)
+
+39,288 (25.17)
+
+< 0.0001
+
+Mx. left
+
+552,303 (23.46)
+
+52,666 (23.49)
+
+478,929 (23.46)
+
+20,708 (23.25)
+
+72,404 (22.84)
+
+438,984 (23.33)
+
+40,915 (26.22)
+
+Mn. right
+
+634,806 (26.96)
+
+60,154 (26.83)
+
+550,517 (26.97)
+
+24,135 (27.1)
+
+87,197 (27.51)
+
+509,450 (27.07)
+
+38,159 (24.45)
+
+Mn. left
+
+619,089 (26.29)
+
+58,934 (26.29)
+
+536,911 (26.3)
+
+23,244 (26.1)
+
+85,178 (26.87)
+
+496,200 (26.37)
+
+37,711 (24.16)
+
+Tooth type (2 levels)
+
+Mx. anterior
+
+183,098 (7.78)
+
+18,342 (8.18)
+
+158,054 (7.74)
+
+6702 (7.53)
+
+< 0.0001
+
+22,568 (7.12)
+
+135,817 (7.22)
+
+24,713 (15.83)
+
+< 0.0001
+
+Mx. posterior
+
+917,713 (38.97)
+
+86,739 (38.69)
+
+795,999 (38.99)
+
+34,975 (39.27)
+
+122,030 (38.5)
+
+740,193 (39.34)
+
+55,490 (35.55)
+
+Mn. anterior
+
+165,340 (7.02)
+
+16,172 (7.21)
+
+143,040 (7.01)
+
+6128 (6.88)
+
+22,160 (6.99)
+
+128,123 (6.81)
+
+15,057 (9.65)
+
+Mn. posterior
+
+1,088,555 (46.23)
+
+102,916 (45.91)
+
+944,388 (46.26)
+
+41,251 (46.32)
+
+150,215 (47.39)
+
+877,527 (46.64)
+
+60,813 (38.96)
+
+Tooth type (4 levels)
+
+Mx. incisor
+
+118,217 (5.02)
+
+11,933 (5.32)
+
+101,962 (4.99)
+
+4322 (4.85)
+
+< 0.0001
+
+14,408 (4.55)
+
+87,083 (4.63)
+
+16,726 (10.72)
+
+< 0.0001
+
+Mx. canine
+
+64,881 (2.76)
+
+6409 (2.86)
+
+56,092 (2.75)
+
+2380 (2.67)
+
+8160 (2.57)
+
+48,734 (2.59)
+
+7987 (5.12)
+
+Mx. premolar
+
+388,070 (16.48)
+
+36,533 (16.3)
+
+336,932 (16.5)
+
+14,605 (16.4)
+
+52,565 (16.58)
+
+309,046 (16.42)
+
+26,459 (16.95)
+
+Mx. molar
+
+529,643 (22.49)
+
+50,206 (22.4)
+
+459,067 (22.49)
+
+20,370 (22.87)
+
+69,465 (21.92)
+
+431,147 (22.91)
+
+29,031 (18.6)
+
+Mn. incisor
+
+104,835 (4.45)
+
+11,043 (4.93)
+
+89,960 (4.41)
+
+3832 (4.3)
+
+14,300 (4.51)
+
+80,588 (4.28)
+
+9947 (6.37)
+
+Mn. canine
+
+60,505 (2.57)
+
+5129 (2.29)
+
+53,080 (2.6)
+
+2296 (2.58)
+
+7860 (2.48)
+
+47,535 (2.53)
+
+5110 (3.27)
+
+Mn. premolar
+
+329,964 (14.01)
+
+31,337 (13.98)
+
+286,333 (14.03)
+
+12,294 (13.8)
+
+46,574 (14.69)
+
+263,530 (14.01)
+
+19,860 (12.72)
+
+Mn. molar
+
+758,591 (32.22)
+
+71,579 (31.93)
+
+658,055 (32.23)
+
+28,957 (32.52)
+
+103,641 (32.7)
+
+613,997 (32.63)
+
+40,953 (26.24)
+
+Follow‐up duration (year)
+
+2.84 ± 1.25
+
+2.94 ± 1.29
+
+2.86 ± 1.25
+
+2.25 ± 1.18
+
+2.99 ± 1.29
+
+2.82 ± 1.25
+
+2.83 ± 1.25
+
+: Data are presented in the form of numbers (percentages) or mean ± standard deviation.
+
+Abbreviations: HA, hydroxyapatite coating; Mn, mandible; Mx, maxilla; RBM, resorbable blast media; SA, sandblasting with large grit and acid etching.
+
+4
+
+Discussion
+
+This nationwide, population‐based cohort study revealed significant differences in the incidence of late implant loss (implant removal procedures) among the implant surface groups, although no significant difference was found in the incidence of peri‐implantitis treatments. Different types of abutments did not show a significant association with the risk of complications. Notably, all types of implant surfaces and abutments showed a low incidence of complication treatments during follow‐up periods of up to 6 years. The highest incidence rate was 3.884 per 1000 implant‐years, observed in the RBM surface implant group restored with a one‐piece abutment.
+
+SA implants showed the lowest incidence of late implant loss among the surfaces studied. Although many studies have compared smooth and rough surfaces and reported the individual outcomes of several rough surfaces (Jemt,,; Raabe et al.; van Velzen et al.), studies comparing survival rates across various types of rough implant surfaces are scarce (H. C. Kim et al.). This study leveraged national‐level big data, providing unique opportunities for such comparisons. HR analysis revealed that RBM and HA surfaces had a higher risk of late implant loss (implant removal procedures) and osseointegration loss (simple implant removal) compared to SA surfaces. Although SA surfaces that underwent acid etching showed relatively superior results (van Velzen et al.), RBM and HA are also noted for their biocompatibility and ability to facilitate in vivo osseointegration (Novaes et al.; Sanz et al.). In the present study, across all implant surface groups, less than 1% (crude percentage) of late implant loss was observed during the follow‐up period of up to 6 years (Figure), indicating successful performance.
+
+The ‘simple implant removal’ code, used exclusively when an implant exhibited mobility and was able to be removed without instruments such as a trephine burr or removal kit, may serve as an indicator of osseointegration loss (Mombelli and Lang). Because osseointegration occurs at the implant surface, the code's prescription can be directly linked to the type of implant surface. This relationship may underscore the importance of the implant surface type in its stability and osseointegration maintenance (J. C. Kim, Lee, and Yeo). In contrast, ‘complex implant removal’ may become necesssary due to various causes, including biological complications such as peri‐implantitis and nerve damage or mechanical complications such as abutment screw fracture, abutment fracture, implant fracture or wear of the internal threads of the implant (Tafuri et al.). This makes the cause or situation of complex implant removals difficult to ascertain, potentially making them less directly related to the implant surface or abutment type.
+
+When comparing the outcomes associated with peri‐implantitis, HA surfaces displayed a slightly higher HR (1.264, CI: 1.009–1.584) for ‘peri‐implantitis treatments’ than SA surfaces (1, reference), indicating the possibility of a greater prevalence of significant peri‐implantitis‐related complications on HA surfaces. HA coatings on titanium implants improve bone attachment and prevent the release of metal ions into the bone (Dalton and Cook; Oonishi et al.; Yeo). However, HA coatings have been associated with delamination from the titanium implant surface (Sun et al.), which can impede bone healing and induce inflammation in the peri‐implant tissue (Sun et al.; Yeung et al.). Although the HR for HA was slightly higher than that for SA in this study, the difference was not significant (= 0.0587). Furthermore, as shown in Figure, the difference in cumulative incidence probability was very small, suggesting that the difference in the incidence of peri‐implantitis treatments among the three surfaces are minimal.
+
+Regarding the abutment type, there was no significant difference in late implant loss or peri‐implantitis among the groups. When analysing late implant loss as ‘simple’ and ‘complex implant removals’ separately, one‐piece abutments showed slightly higher osseointegration loss compared with two‐piece types. This may be attributed to the variations in stress distribution around the implant, which have been reported to differ between one‐piece and multi‐piece abutments (Hajimiragha et al.). Conversely, instances of ‘complex implant removal’ were more frequent with two‐piece abutments, possibly due to mechanical complications such as fractures in the relatively smaller screws or the abutment walls (Sailer et al.). Nonetheless, when considering both ‘simple’ and ‘complex implant removals’ together, the type of abutment did not significantly affect the overall implant survival rates. Additionally, the incidence of peri‐implantitis treatments showed no association with abutment type.
+
+When evaluating the association between combined groups and the risk of implant complication treatments, the most commonly used combination—SA surface implants (86.7%) restored with a two‐piece abutment (79.91%), was used as the reference for calculating HR values (Figure). Implants with an RBM surface restored with a one‐piece abutment were associated with a 1.916‐fold higher risk of complications compared to SA surface implants with a two‐piece abutment, even after adjusting for potential confounding factors. However, the crude incidence rate for implants with an RBM surface and a one‐piece abutment remained very low, at 3.884 per 1000 implant‐years, despite the higher risk association.
+
+This study had certain limitations. First, factors such as bone height, quality, grafting, implant length, diameter, design and restoration splinting were unavailable in the NHIS data. Second, although evaluating implant surfaces, variations in the materials and techniques used by different companies for surface preparation were not accounted for, as specific brands or companies were not disclosed by the NHIS. Third, the history of smoking and periodontitis was not considered. Specifically, a history of periodontitis has been reported to be associated with the incidence of peri‐implantitis and implant loss (Roccuzzo et al.; Serroni et al.). Therefore, considering periodontitis history would have been helpful in isolating the independent association between implant complications and implant surfaces and abutment types. However, the diagnosis and prescriptions for periodontitis included in the NHIS data were mostly made by specialists in other fields or general practitioners rather than periodontists. Given the complexity of diagnosing periodontal disease, the appropriateness of these diagnoses is difficult to ensure. Therefore, this study focused on clear interventions such as ‘implant removal procedures’ and excluded diagnostic information related to periodontal disease. Future research focusing on the relationship between a history of periodontitis and implant complications, along with detailed nationwide big data analysis, is required.
+
+Despite the limitations, a major strength of this study lies in its large, nationwide, population‐based sample size, including over 2 million implants with follow‐up data of up to 6 years. In addition, unlike most clinical studies conducted in academic settings with selective patient criteria, this study mirrors real‐world scenarios by including a broad range of patients and clinicians, encompassing both specialists and general dentists. Its primary criterion for late implant loss, based on the straightforward metric of ‘implant removal procedures’, reduces interpretation bias among practitioners.
+
+A further strength of this study lies in the unique characteristics of the NHIS database. The NHIS in South Korea operates under a unique system in which all healthcare institutions are legally required to be designated as NHIS providers. This mandates institutions to treat NHIS‐enrolled patients and receive reimbursement fees determined by the government. The reimbursement claims are meticulously reviewed by the Health Insurance Review and Assessment Service. Additionally, NHIS enrollment is mandatory for all citizens. Strict government regulation prevents clinicians from arbitrarily prescribing non‐reimbursable treatments. Consequently, the NHIS database used in this study is expected to have minimal missing data, such as unauthorised non‐reimbursement prescriptions.
+
+5
+
+Conclusions
+
+Based on the analysis of follow‐up data from over 2 million implants for up to 6 years, this study found that the implant surface type was associated with the risk of late implant loss, whereas no significant association was found between the abutment type and the risk of late implant loss. Implants with RBM and HA surfaces had a 1.8‐ and 1.4‐fold higher risk of late implant loss, respectively, compared to SA surfaces. However, despite the slightly superior results of the SA group, both RBM and HA groups also showed low incidences of implant removal procedures, indicating that all three surface groups are likely to function successfully. No significant differences were observed in the incidence of peri‐implantitis treatments among the different implant surface and abutment type groups. Further research with extended follow‐up periods is needed.
+
+Author Contributions
+
+conception, design, data acquisition and interpretation, drafting the manuscript.conception, design, data interpretation.design, data acquisition and analysis, all statistical analyses.design, data acquisition and analysis, all statistical analyses.conception, design, data interpretation.conception, design, data acquisition and interpretation, drafting the manuscript. All authors contributed to critically revising the manuscript, gave their final approval and agree to be accountable for all aspects of the work.
+
+Ethics Statement
+
+This study, which analysed nationwide big data, was confirmed to be exempt from review by the Institutional Review Board (approval number: ERI21016).
+
+Conflicts of Interest
+
+The authors declare no conflicts of interest.
+
+Supporting information
+
+Supporting information.
