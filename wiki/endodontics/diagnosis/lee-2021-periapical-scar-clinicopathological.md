@@ -19,7 +19,6 @@ relations:
     target: nair-2006-causes-persistent-apical-periodontitis-review
   - type: complements
     target: pitcher-2017-cbct-periapical-cyst-decision-tree
-superseded_by: null
 ---
 
 ## Three-line Summary

@@ -1,0 +1,12 @@
+LONG-TERM OUTCOMES OF DENTAL IMPLANTS PLACED IN ELDERLY PATIENTS: A RETROSPECTIVE CLINICAL AND RADIOGRAPHIC ANALYSIS.
+Park JC, Baek WS, Choi SH, Cho KS, Jung UW. Clinical oral implants research. 2016. doi:10.1111/clr.12780. PMID 26775927.
+
+[ABSTRACT-ONLY — full text not retrieved]
+
+The aim of this retrospective study was to determine the clinical and the radiographic outcomes of dental implants placed in elderly people older than 65 years.
+
+In total, 902 implants in 346 patients (age: 65-89 years) were followed up for 2-17 years following the implant surgery. The survival rate of these implants was recorded and analyzed. Changes in marginal bone levels were also analyzed in serial radiographs, and Cox regression analysis for implant loss was performed.
+
+The survival rates were 95.39% and 99.98% in the implant- and patient-based analyses, respectively (involving a total of 29 implant failures), and the marginal bone loss at the implants was 0.17 ± 0.71 mm (mean ± SD). The number of failures was greatest in patients aged 65-69 years. The Cox regression with shared frailty analysis showed that implant loss was significantly greater in those aged 65-69 years than in those aged 70-74 years (P < 0.05), and it varied between specific implant systems.
+
+Within the limitations of this retrospective study, it was concluded that implant therapy can be successfully provided to elderly patients and that age alone does not seem to affect the implant survival rate.

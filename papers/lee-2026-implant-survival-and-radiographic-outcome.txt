@@ -1,0 +1,603 @@
+1
+
+Introduction
+
+The use of dental implants to restore edentulous areas is a well‐established and predictable treatment modality in modern dentistry. However, to ensure long‐term implant success, peri‐implantitis must be carefully considered. Recently, to minimize the risk of peri‐implantitis, implants have been restored with long abutments [], and platform switching has been employed to shift the implant–abutment junction away from the crestal bone []. Nevertheless, when peri‐implantitis leads to the loss of both soft and hard tissues around conventional implants, the implant threads often become exposed, which complicates the management and treatment of peri‐implantitis [].
+
+To address these limitations, implants with long neck designs have been introduced as an alternative approach []. The human jawbone, consisting of the mandible and maxilla, is anatomically divided into the alveolar process and basal bone []. The alveolar process supports the dentition and consists of bundle bone and alveolar bone []. Bundle bone is directly connected to the periodontal ligament and undergoes rapid resorption following tooth extraction. Similarly, alveolar bone loses its structural role once teeth are lost, resulting in progressive resorption. In contrast, basal bone, located apical to the root apex, is denser and undergoes minimal volumetric changes after tooth extraction, making it a more stable foundation for implant placement [,].
+
+Implant placement in the anterior region is particularly challenging due to the naturally thin alveolar bone, which consists mainly of bundle bone and is prone to severe resorption after extraction []. The facial bone wall in this region is often less than 2 mm in thickness, contributing to pronounced post‐extraction dimensional changes []. In such scenarios of severe bone deficiency, implants with machined long necks can serve as a viable alternative to traditional implants.
+
+A newly designed implant has recently been introduced with two key features: a threaded body that engages dense basal bone for primary stability, and a long machined neck with micro‐grooves intended to facilitate fibroblast adhesion and improve soft tissue integration []. While these design features offer theoretical advantages, clinical data on this specific implant configuration are currently lacking.
+
+Therefore, the main aim of this retrospective cohort study was to evaluate the 1‐year clinical and radiographic outcomes of a novel implant with a machined long neck placed in the anterior region, involving marginal bone loss, horizontal bone width, vertical bone height, and implant survival and success rates. The secondary objectives are to assess the influence of guided bone regeneration procedures on bone dimensional changes and on implant survival and success rates.
+
+2
+
+Materials and Methods
+
+2.1
+
+Study Design and Population
+
+This retrospective cohort study was conducted at Mir Dental Hospital in Daegu, South Korea. Patients who received a novel implant with a machined long‐neck design (Ari implant system, Megagen Implant Co. Ltd.) in the anterior region between February 2022 and December 2023 were included. The study was conducted in accordance with the Declaration of Helsinki and received approval from the Public Institutional Review Board Designated by Ministry of Health and Welfare (P01‐202504‐01‐021). This manuscript was prepared following the Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) guidelines [].
+
+Eligible patients met the following criteria:
+
+Criteria for the exclusion of patients:
+
+2.2
+
+Surgical Procedure
+
+Dental implants were placed in edentulous areas at least 2 months after extraction. Using Cone Beam Computed Tomography (CBCT), three‐dimensional presurgical planning was performed to determine the appropriate implant diameter and length. Under local anesthesia, an envelope full thickness flap was raised to prepare the bone for the fixation. The novel implant comprised three components: a threaded body, a machined‐surface cuff with micro‐grooves, and an external connection (Figure). The threaded portion was fully embedded in the bone to ensure primary stability, while the cuff was positioned at sites with dehiscence due to ridge atrophy (Figure). Implant platforms were aligned with the crestal bone level and healing abutments were connected. When a distinct dehiscence defect was observed at the implant cuff region, GBR was performed using a resorbable membrane and graft material (synthetic or bovine bone) to restore the contour at the time of surgery (Figure). Primary stability was assessed through insertion torque. Provisional implant restorations were delivered at least 3 months after implant placement. Following 1–2 months of soft conditioning and evaluation of patient contentment using provisional restorations, cement retained implant prostheses were delivered as definitive restoration.
+
+FIGURE 1
+
+Surgical procedure. (A) Image of the novel implant. (B) Schematic diagram of surgical procedure. (C) Pre‐operative clinical photograph. (D) The implant was placed at the equi‐crestal level, (E) followed by the application of bone graft material on the buccal aspect. (F) A resorbable membrane was placed over the graft, and (G) primary closure was achieved with sutures. (H) Clinical photograph at 1 year after prosthetic loading. Panels C–H were adapted from a previously published report under the Creative Commons Attribution (CC BY) license [].
+
+2.3
+
+Data Collection
+
+Demographic and radiographic data concerning patients and implants were collected, including:
+
+2.4
+
+Outcome Assessments
+
+2.4.1
+
+Implant Survival and Success
+
+Implant survival was defined as the implant remaining functional and in situ without removal. Failure was defined as implant removal due to mobility, infection, persistent pain, or severe bone loss [,]. Failures occurring within 1 year were classified as early, and those beyond 1 year as late [].
+
+Implant success was defined by the following criteria: absence of clinical mobility; no recurrent subjective symptoms such as pain, foreign body sensation, or paresthesia; absence of continuous radiolucency around the implant; and marginal bone loss less than 1.5 mm at 1 year after functional loading [,].
+
+2.4.2
+
+Radiographic Analysis
+
+A calibrated single examiner (Y.C.K.) assessed marginal bone levels on both the mesial and distal aspects of the implants. To evaluate marginal bone level, panoramic radiographs were taken immediately after prosthetic restoration and at the one‐year follow‐up (Figure). Using image analysis software (ImageJ, National Institutes of Health, Maryland, USA), the distance from the implant shoulder to the most coronal point of the adjacent crestal bone was measured on both the mesial and distal sides of each implant. These values were recorded as MBL_m (mesial marginal bone level) and MBL_d (distal marginal bone level). The average of the mesial and distal measurements was calculated and defined as MBL_mean, representing the overall marginal bone level for each implant. Marginal bone level alteration was determined by subtracting the baseline measurements from those taken at the one‐year follow‐up. Thus, MBL_m alteration, MBL_d alteration, and MBL_mean alteration represent the mesial, distal, and mean changes in marginal bone level, respectively, over the 12‐month period. Negative values indicate bone loss relative to the implant shoulder, while positive values suggest bone gain or coronal remodeling. All measurements were calibrated using the known length of the implant fixture to account for any image distortion or magnification error.
+
+Horizontal and vertical bone dimensions were evaluated by a calibrated single examiner (S.‐J.L.) using three‐dimensional dental imaging software (OnDemand, Cybermed, Daejeon, Korea). Measurements were conducted by superimposing CBCT scans obtained immediately after prosthetic restoration and at the one‐year follow‐up (Figure). Buccal horizontal bone width alteration was assessed at four levels located 5, 3, 1, and 0 mm apical to the implant shoulder. These measurements were denoted as HW5_b, HW3_b, HW1_b, and HW0_b, respectively. Corresponding measurements on the palatal/lingual aspect were designated as HW5_p, HW3_p, HW1_p, and HW0_p. These values were obtained by measuring the distance from the implant surface to the outer buccal or palatal/lingual bone contour at each level using cross‐sectional CBCT images perpendicular to the long axis of the implant.
+
+In addition to horizontal measurements, vertical bone height was assessed at both the buccal and palatal/lingual sites. Vertical bone height alteration was defined as the change in distance between the crestal bone level and the implant shoulder over time, recorded as VH_b and VH_p for the buccal and palatal/lingual aspects, respectively. All values were calculated by subtracting the baseline (immediately after prosthetic restoration) measurements from the one‐year follow‐up values. Negative values indicated bone loss, while positive values indicated bone gain during the observation period.
+
+FIGURE 2
+
+Radiographic images. (A) Immediately after implant placement. (B) Immediately after prosthetic delivery. (C) 1 year after prosthetic loading.
+
+FIGURE 3
+
+Cone‐beam computed tomography (CBCT) analysis. Superimposed CBCT images obtained immediately after prosthetic restoration and at the one‐year follow‐up were used to measure horizontal bone width at 0, 1, 3, and 5 mm apical to the implant shoulder (HW0, HW1, HW3 and HW5), as well as buccal and palatal/lingual vertical bone height (BVH and PVH).
+
+2.4.3
+
+Subgroup Analysis
+
+2.4.3.1
+
+GBR vs. Non‐GBR
+
+To evaluate the effect of GBR on peri‐implant hard tissue dimensional alterations, a subgroup analysis was performed comparing the group that received GBR (GBR group) with the group that did not undergo GBR (non‐GBR group) at the time of implant placement.
+
+Radiographic evaluation included the comparison of horizontal bone width alterations at four reference levels (5, 3, 1, and 0 mm apical to the implant shoulder) on both the buccal and palatal/lingual sides. Additionally, alterations in vertical bone height on the buccal and palatal/lingual aspects were also analyzed.
+
+All measurements were performed using CBCT scans obtained immediately after prosthetic restoration and at the 1‐year follow‐up. Differences in bone dimensions were calculated by subtracting the initial measurement from the 1‐year follow‐up value. The mean bone dimensional alterations were compared between GBR and non‐GBR groups.
+
+2.5
+
+Statistical Analysis
+
+All statistical analyses were conducted using Python (version 3.11.8, Python Software Foundation, Wilmington, USA) with the SciPy library (version 1.9.3) and Seaborn visualization package (version 0.11.2), and R statistical package (version 4.3.3). Normality of continuous variables was assessed using the Shapiro–Wilk test. Implant survival was evaluated using Kaplan–Meier survival analysis.
+
+The survival time was defined as the number of days from implant placement to the last follow‐up or implant failure, whichever occurred first. Cases without implant failure were considered censored at the time of their final follow‐up. The survival curve was plotted, and the cumulative survival rate was calculated at implant and patient level. Statistical analyses were performed using Python (version 3.11.8) with the lifelines and matplotlib libraries.
+
+In subgroup analysis including GBR group and non‐GBR group the result expressed as mean ± standard deviation (SD). The Linear Mixed‐effect Model (LMM) was applied to handle the interdependency of measurements from multiple implants within the same patient. The difference between GBR group and non‐GBR group was assessed for each reference level (HW5, HW3, HW1, HW0, and VH) on both the buccal and palatal/lingual sides.‐value less than 0.05 was considered statistically significant. Group comparisons were visualized using bar plots displaying mean and SD for each site.
+
+3
+
+Results
+
+3.1
+
+Patient and Implant Characteristics
+
+A total of 58 patients (30 men and 28 women) received 117 implants and were initially enrolled in the study. Three implants in three patients failed during the observation period and were excluded from the 1‐year follow‐up analysis. Consequently, 114 implants in 55 patients were included in the radiographic evaluation, and a subset of 32 implants in 16 patients underwent CBCT‐based dimensional analysis (Figure).
+
+Tablepresents the overall demographic data, and Tableprovides detailed information on implant diameter and length. The mean age of the study cohort was 54.36 ± 9.32 years. Most implants (76.92%) were placed in conjunction with GBR. Implant diameters were distributed between 3.8 mm and 4.3 mm. The majority of fixtures (70.94%) were 7 mm in length, while the remainder, except for one case, were 9 mm. Cuff heights varied, with 6 mm being the most frequently used (68.37%), followed by 4, 8, and 10 mm. Regarding placement sites, 78 implants were inserted in the maxilla and 39 in the mandible. Anterior teeth accounted for 79 placements, and premolars for 38. More than 70% of the prosthetic restorations were splinted units. The average emergence angle of the implant prostheses was 34.48° ± 12.09°, with minimal differences between mesial (34.45° ± 15.16°) and distal (34.51° ± 11.88°) aspects.
+
+FIGURE 4
+
+Study flowchart. A total of 117 implants placed in 58 patients were included in the study. At the one‐year follow‐up, three implants failed in three patients, resulting in 114 implants in 55 patients being analyzed using panoramic imaging. Cone beam computed tomography (CBCT) analysis was performed on 32 implants from 16 patients for whom CBCT images were available.
+
+TABLE 1
+
+Demographic characteristics at the implant and the patient levels.
+
+Variables
+
+Implant level
+
+Patient level
+
+Patient factors
+
+Sex
+
+Male
+
+58
+
+30
+
+Female
+
+59
+
+28
+
+Age (year)
+
+70–79
+
+5
+
+2
+
+60–69
+
+47
+
+19
+
+50–59
+
+37
+
+20
+
+40–49
+
+20
+
+13
+
+30–39
+
+8
+
+4
+
+Smoking
+
+Yes
+
+0
+
+0
+
+No
+
+117
+
+58
+
+Diabetes
+
+Yes
+
+7
+
+5
+
+No
+
+106
+
+53
+
+Recipient‐site factors
+
+Guided bone regeneration
+
+Yes
+
+90
+
+42
+
+No
+
+27
+
+16
+
+Implant factors
+
+Diameter (mm)
+
+—
+
+3.8
+
+34
+
+4.3
+
+83
+
+Fixture length (mm)
+
+—
+
+5
+
+1
+
+7
+
+83
+
+9
+
+33
+
+Cuff height (mm)
+
+—
+
+4
+
+19
+
+6
+
+80
+
+8
+
+11
+
+10
+
+7
+
+Site
+
+—
+
+Mandibular anterior
+
+26
+
+Mandibular premolar
+
+13
+
+Maxillary anterior
+
+53
+
+Maxillary premolar
+
+25
+
+Prosthetic unit
+
+—
+
+Single
+
+28
+
+Splinted
+
+89
+
+Emergence angle (EA)
+
+Mesial EA (average, SD)
+
+34.45 (15.16)
+
+Distal EA (average, SD)
+
+34.51 (11.88)
+
+Mean EA (average, SD)
+
+34.48 (12.09)
+
+TABLE 2
+
+Distribution of implant size included in this study.
+
+Fixture lengths
+
+5 mm
+
+7 mm
+
+9 mm
+
+Cuff heights
+
+6 mm
+
+4 mm
+
+6 mm
+
+8 mm
+
+10 mm
+
+4 mm
+
+6 mm
+
+8 mm
+
+10 mm
+
+Diameters
+
+3.8 mm
+
+0
+
+14
+
+17
+
+1
+
+0
+
+0
+
+2
+
+0
+
+0
+
+4.3 mm
+
+1
+
+5
+
+33
+
+6
+
+7
+
+0
+
+27
+
+4
+
+0
+
+3.2
+
+Implant Survival
+
+Implant survival was assessed over the 1‐year follow‐up period (Figure). During the 1‐year follow‐up, three implant failures were recorded, resulting in a cumulative survival rate of 97.43% at the implant level. At the patient level, three individuals experienced at least one implant failure, yielding a survival rate of 94.83%. Among the failed implants, two were categorized as early failures attributed to lack of osseointegration and retrograde peri‐implantitis, while the third represented a late failure due to chronic peri‐implantitis (Table). Notably, all failed implants had been placed with simultaneous GBR, though no clear causal association was established. Kaplan–Meier survival analyses at both implant and patient levels demonstrated stable survival probability throughout the observation period (Figure).
+
+TABLE 3
+
+Description of failed implant cases.
+
+Case
+
+Site
+
+Patient factors
+
+Surgical factors
+
+Implant factors
+
+Prosthetic unit
+
+Survival days
+
+Marginal bone level (mm) at the time of failure
+
+Reason of failure
+
+Age (year)
+
+Sex
+
+Systematic condition
+
+GBR
+
+Insertion torque (N)
+
+Diameter (mm)
+
+Fixture length (mm)
+
+Cuff height (mm)
+
+1
+
+# 25
+
+63
+
+F
+
+Hypertension
+
+Hyperlipidemia
+
+Yes
+
+20
+
+4
+
+7
+
+8
+
+None
+
+17
+
+−4.15
+
+Osseointegration failure
+
+2
+
+# 31
+
+56
+
+F
+
+Osteoporosis
+
+Yes
+
+70
+
+3.5
+
+7
+
+6
+
+Single
+
+203
+
+4.49
+
+Retrograde peri‐implantitis
+
+3
+
+# 41
+
+44
+
+F
+
+Osteoporosis
+
+Yes
+
+30
+
+4
+
+7
+
+6
+
+Single
+
+553
+
+7.79
+
+Peri‐implantitis
+
+Abbreviation: GBR, guided bone regeneration.
+
+a
+
+Implant failure occurred before implant prosthesis delivery.
+
+b
+
+A negative value indicates that the marginal bone level is located coronal to the implant platform.
+
+FIGURE 5
+
+Kaplan–Meier‐like survival curves comparing implant‐level and patient‐level analyses. The implant‐level curve (blue line) represents the probability of survival per implant, while the patient‐level curve (orange line) reflects survival at the patient level, where failure is defined as at least one implant failing within the same patient. Both curves indicate high cumulative survival rates, with 97.4% at the implant level and 94.8% at the patient level by the end of follow‐up.
+
+3.3
+
+Implant Success
+
+Among the 114 implants assessed at 1 year, the mean marginal bone loss was 0.46 ± 1.05 mm (Figure), and a total of seven implants exhibited marginal bone loss exceeding 1.5 mm. Based on the predefined success criterion, 107 implants were deemed successful, resulting in a success rate of 91.45% at the implant level. At the patient level, this corresponded to a cumulative success rate of 82.76%. These findings suggest that the novel implant supports favorable osseointegration and short‐term function when placed in the anterior region.
+
+FIGURE 6
+
+The bar chart illustrates the mesial, distal, and mean marginal bone loss alteration (MBL_m, MBL_d, and MBL_mean). The orange rectangular bars represent the mean MBL change. The whiskers mark the upper and lower bounds of the standard deviation range.
+
+3.4
+
+Alteration in Horizontal and Vertical Bone Dimensions
+
+CBCT‐based analysis revealed minimal bone remodeling in both the buccal and palatal/lingual aspects 1 year after loading (Figure). Horizontal bone width alterations at 0, 1, 3, and 5 mm apical to the implant shoulder on the buccal side were −0.03 ± 0.28 mm, −0.07 ± 0.24 mm, −0.05 ± 0.16 mm, and −0.07 ± 0.15 mm, respectively. On the palatal/lingual side, the corresponding values were −0.09 ± 0.27 mm, −0.08 ± 0.22 mm, −0.10 ± 0.20 mm, and −0.07 ± 0.19 mm. Vertical bone height alterations were also negligible, with average reductions of −0.05 ± 0.26 mm on the buccal and −0.15 ± 0.36 mm on the palatal/lingual side. These findings indicate stable peri‐implant hard tissue contours in both dimensions over the first postoperative year.
+
+FIGURE 7
+
+Horizontal and vertical bone alteration. (A) Buccal horizontal bone width alteration at 5, 3, 1 and 0 mm apical to the implant shoulder (HW5_b, HW3_b, HW1_b, HW0_b). (B) Palatal horizontal bone width alteration at 5, 3, 1 and 0 mm apical to the implant shoulder (HW5_p, HW3_p, HW1_p, HW0_p). (C) Vertical bone height alteration at buccal and palatal sites (VH_b, VH_p). The bar chart shows mean ± SD changes.‐values obtained by the Linear Mixed‐effect Model.
+
+3.5
+
+Mixed Model Analysis
+
+3.5.1
+
+GBR vs. Non‐GBR
+
+Among the 32 implants with available CBCT data, 24 implants were assigned to the GBR group and eight implants to the non‐GBR group.
+
+For the horizontal ridge width, the GBR group exhibited a significantly greater preservation at HW3_b compared with the non‐GBR group (mean difference = 0.167 mm,= 0.0338). However, no significant differences were observed at HW5_b, HW1_b, or HW0_b levels (all> 0.05). On the palatal aspect (HW_p), no significant intergroup differences were identified at any level.
+
+Regarding the vertical ridge height, GBR did not result in significant differences at the buccal site (VH_b,= 0.5950). In contrast, a significant advantage was found at the palatal/lingual site (VH_p), where the GBR group demonstrated a mean gain of 0.348 mm compared with controls (= 0.0144).
+
+Taken together, the mixed model analysis indicated that GBR provided localized benefits, particularly at the mid‐buccal horizontal width and palatal vertical height, whereas most other measurement points did not show statistically significant differences between groups.
+
+4
+
+Discussion
+
+In this retrospective cohort study, the implant survival rate and radiographic outcomes of a novel implant featuring a machined long neck were assessed over a one‐year period. Due to the limited research on novel implants developed based on a new concept distinct from conventional implants placed in the alveolar bone, clinical investigations with patients who received novel implants were essential. The cumulative implant‐level survival rate observed in the present study was 97.43%. However, due to the presence of ailing implants exhibiting more than 1.5 mm of bone remodeling 1 year after prosthetic loading, the cumulative success rate slightly decreased to 91.45%. The mean marginal bone loss across all implants studied was 0.46 mm. Both horizontal and vertical bone loss on the buccal and lingual aspects were also minimal, each measuring less than 0.2 mm. Implant failure occurred in three cases: two within the first year following prosthetic loading and one thereafter. The causes of implant failure varied, with early failures attributed to lack of osseointegration and retrograde peri‐implantitis, while the late failure was associated with peri‐implantitis.
+
+A previous clinical study conducted a prospective investigation involving 10 patients and a total of 157 basal implant []. The study reported a 1‐year implant‐level survival rate of 97.5%. Additionally, another clinical study which included 87 patients and 1019 bicortical screw implants demonstrated a 1‐year implant survival rate of 99.3% []. The cumulative survival rate observed in the present study was 97.43%, which is comparable to the findings of Patel et al. [], although slightly lower than those reported by Pałka and Lazarov []. While direct comparison across studies is challenging due to variations in study design, implant types, and patient populations, all investigations reported clinically acceptable and sufficiently high survival rates.
+
+Early failure was observed in 1.71% of cases (2 out of 117 implants) in the present study. Although this rate does not exceed the reported early failure rate of conventional implants, which is approximately 3.2% [], it may be influenced by the specific characteristics of implants placed in basal bone. Basal bone typically exhibits higher bone density compared to alveolar bone []. One of the critical concerns when placing implants in such highly dense bone is the risk of thermal osteonecrosis []. Exposure of cortical bone to temperatures above 47°C for more than 1 min could result in bone necrosis []. Furthermore, excessive insertion torque in dense cortical bone may induce microfractures, contributing to early implant failure []. In the present study, early implant failures attributed to retrograde peri‐implantitis may be explained by thermal osteonecrosis. Therefore, during placement of basal implants, it is essential to ensure adequate irrigation with coolant, adopt a stepwise drilling protocol using multiple drill sizes, and carefully control drilling speed and force to minimize heat generation and prevent thermal damage to the bone []. A previous prospective study, in which a total of 174 basal implants were placed in 20 patients, found that only one patient experienced pain during function []. No cases of implant loss, clinical mobility, or marginal bone loss greater than 1.5 mm were observed. Based on these findings, the patient‐level success rate was reported to be 95%. This success rate is higher than 82.76% recorded in the current study. The difference may be attributed to several factors, including variations in implant surface characteristics, implant length and diameter, the emergence angle of the prosthetic restoration, and whether the implants were splinted [,,,]. Nevertheless, the implant‐level success rate of 91.45% and the patient‐level success rate of 82.76% are sufficient to support the predictability and clinical viability of the novel implant. During the first year of implant function, marginal bone loss commonly occurs because of normal physiological remodeling processes, including bone injury from surgery and the establishment of a proper biologic width []. This early bone remodeling is generally considered physiological and inevitable. In implants with an external connection, early bone remodeling can result in an average bone loss of up to 1 mm during the first year []. However, when initial bone remodeling results in exposure to more than 1 mm of implant threads, the risk of peri‐implantitis increases significantly []. Therefore, excessive early bone loss may have negative clinical implications. In the current study, radiographic analysis including both panoramic and CBCT imaging revealed minimal horizontal and vertical marginal bone loss, with values below 0.5 mm. These findings are consistent with previous clinical studies on basal implants []. One key reason for this minimal bone loss is likely due to the placement of the implant in basal bone. Basal bone is characterized by higher bone mineral density, greater cortical bone predominance, lower porosity, and slower remodeling rates compared to alveolar bone [,]. These properties contribute to the superior volumetric stability of basal bone, allowing implants placed in this region to maintain a more stable marginal bone level compared to those placed in the alveolar bone.
+
+The design of the novel implant featuring a machined long neck may confer advantages for the long‐term prognosis of dental implants. Peri‐implantitis is one of the major causes of late implant failure and plays a critical role in long‐term treatment outcomes []. Particularly in cases involving insufficient bone volumes, such as the anterior maxilla, where GBR procedures are frequently required, the risk of peri‐implantitis is heightened [,]. With conventional implants, the complex geometry of the threads could hinder effective decontamination when peri‐implantitis occurs [,]. In contrast, the novel implant, characterized by its machined long‐neck configuration, may facilitate decontamination due to its simplified suprastructure, thereby offering potential advantages in the management of peri‐implantitis. However, as the present study included only a short follow‐up period of one year, further investigations incorporating long‐term evaluations of this implant system are necessary.
+
+In this study, contour augmentation using GBR was performed not only to establish a stable peri‐implant bone condition but also to ensure the maintenance of adequate soft tissue volume []. However, GBR is also considered a potential factor influencing marginal bone levels following implant surgery. While some studies have reported that GBR significantly reduces marginal bone loss [,], other studies have shown no statistically significant impact of GBR on marginal bone changes [,]. Furthermore, another study has even indicated greater marginal bone loss in cases where GBR was performed []. In the present study, limited differences in vertical or horizontal marginal bone loss were observed based on whether GBR was performed. However, this finding must be interpreted with caution due to certain limitations: the follow‐up period was relatively short (one‐year), and GBR was only applied in cases where clinically indicated, without random allocation of subjects. As such, any conclusion drawn regarding the influence of GBR should be approached carefully.
+
+This study has several limitations. First, clinical parameters related to implants, such as probing depth, bleeding on probing, and plaque index, were not included. Future studies incorporating these clinical variables are necessary to more comprehensively evaluate the clinical success of the novel implant. Second, the number of implants with available CBCT data was limited. Studies with larger datasets are required to draw more reliable and generalizable conclusions. Third, the follow‐up period was limited to 1 year after functional loading. Further research is needed to mid‐ and long‐term evaluate this novel promising implant design. Fourth, as a retrospective study, this study was subject to inherent limitations such as lack of control over patient selection and surgical protocols. Therefore, well‐designed randomized controlled trials comparing the novel implant with conventional systems are necessary to establish its clinical validity.
+
+5
+
+Conclusion
+
+Within the limitations of this retrospective study, the novel implant with a machined long neck showed acceptable outcomes in terms of survival rate, treatment success, and bone dimensional stability over a one‐year follow‐up period. These findings suggest that this newly designed implant may serve as a viable alternative for patients with compromised ridges.
+
+Author Contributions
+
+All authors made substantial contributions to this study. S.‐J.L., J.L., Y.‐C.K., and K.‐T.K. interpreted the experimental results and wrote the draft of the manuscript. J.G.‐A. and C.D. interpreted the experimental results and revised the manuscript. J.‐A.J. conducted the experiment and wrote the draft of the manuscript. H.‐W.A. analyzed the data and wrote the draft of the manuscript. H.‐Y.K. carried out the statistical analysis and critically revised the manuscript. K.P. conceived the whole experiment design and critically revised the manuscript.
+
+Ethics Statement
+
+The study received approval from the Public Institutional Review Board designated by the Ministry of Health and Welfare (P01‐202504‐01‐021).
+
+Consent
+
+The authors have nothing to report.
+
+Conflicts of Interest
+
+The authors declare the following financial interests/personal relationships that may be considered potential competing interests: Hyun‐Wook An and Ji‐A. Jung were employed by MegaGen Implants. Kwangbum Park is the founder of MegaGen Implants. The remaining authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as potential conflicts of interest.

@@ -18,7 +18,6 @@ relations:
     target: grung-1990-periapical-surgery-scar-477-teeth
   - type: extends
     target: lee-2021-periapical-scar-clinicopathological
-superseded_by: null
 ---
 
 ## Three-line Summary

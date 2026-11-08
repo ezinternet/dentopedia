@@ -7,7 +7,6 @@ source: navigation
 category: overviews
 evidence_level: synthesis
 tags: [periapical-scar, endodontic-failure-differential, surveillance, scar-healing]
-superseded_by: null
 ---
 
 > [!summary] 한국어 핵심요약

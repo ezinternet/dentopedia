@@ -1,0 +1,833 @@
+INTRODUCTION
+
+Dental implants have been developed using the principle of osseointegration to restore missing teeth [], and many efforts have been made to enhance osseointegration and advance related research on topics such as implant design, surface modifications, and biomaterials []. The success and survival rates of dental implants have been extensively reported in several clinical studies and systematic reviews []. Generally, a survival rate of over 90% can be expected for implants over 5 years. The survival rate after 5 years of occlusal loading in single-implant restorations was reported to be 94.5% [], and the 5-year survival rate for implant restorations with guided bone regeneration (GBR) was found to be 96.1% []. The basic criteria for implant success are immobility, absence of peri-implant radiolucency, absence of infection, and adequate width of the attached gingiva. Albrektsson et al. [] suggested that implant success can be a condition of no clinical fluctuations or peri-implant radiolucencies on radiographs, with initial bone loss after implant placement <1.5 mm and <0.2 mm per year thereafter. Buser et al. [] proposed that an implant could be considered unsuccessful if the patient has no persistent subjective complaints, peri-implant infection, mobility, or continuous radiopacity around the implant. In addition, the ICOI (International Congress of Oral Implantologists) consensus presented criteria divided into implant success, satisfactory survival, compromised survival, and failure [], and Papaspyridakos et al. [] suggested that implant success should be divided into the implant level, peri-implant soft tissue level, prosthetic level, and patient satisfaction. Excellent biocompatibility of the implant-bone interface and a favorable biomechanical environment are very important factors for the long-term survival of dental implants. To increase implant success, various modifications of the surface treatment and implant design have been studied []. Regarding the surface, some agreement has been reached that a rough titanium surface elicits better osseointegration than a smooth surface []. However, there have been many trials and opinions on implant fixture design, including the apical form, screw thread, self-tapping, implant neck or platform design, and connection design between the implant and abutment from the perspective of initial stability, esthetics, marginal bone loss, stress distribution, and long-term stability []. The literature on a micro-thread design for the implant neck has received considerable attention. Considering that stress is mainly concentrated in the cortical bone around the implant neck under a functional load, substantial focus has been placed on maintaining the marginal bone level. Clinical and preclinical studies and systematic reviews have reported that micro-threading in the neck can reduce peri-implant marginal bone loss by decreasing shear stress [].
+
+This study aimed to evaluate the long-term cumulative survival rate (CSR) of dental implants with micro-threads in the neck over 10 years of follow-up, and to identify the factors influencing the survival rate of dental implants.
+
+MATERIALS AND METHODS
+
+Study design
+
+This study was conducted in accordance with the Helsinki Declaration, with approval from the Institutional Review Board (IRB No. S-D20210027) of the School of Dentistry, Seoul National University, Korea, and was written according to the Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) guidelines. The requirement for informed consent from patients was waived because of the anonymity of the patient dataset and the simple investigation of data records. The data were analyzed by 3 periodontists (DHN, YDC, and SK) using dental records and radiographs of patients who underwent implant surgery with Oneplantdental implants with an implant neck micro-thread design during 2006–2010 at the Department of Periodontology of Seoul National University Dental Hospital (SNUDH). The follow-up period was >10 years, from the date of surgery to December 2020. Implant survival was limited to cases corresponding to implant success, satisfactory survival, and compromised survival, according to Misch’s criteria published in 2008 [].
+
+Inclusion criteria
+
+The inclusion criteria were as follows: 1) patients who received one or more Oneplantimplants, 2) patients with implants with follow-up periods of >10 years after prosthesis installation, and 3) patients with sufficient dental records and radiographs that enabled tracking of the condition after prosthetic loading.
+
+Surgical protocols
+
+All surgical procedures were performed by an experienced periodontist at the Department of Periodontology, SNUDH. Implant fixture installation was performed after gingival flap and maxillary sinus elevation or bone grafting, and gingival grafts were used depending on the patient’s condition. When the bone was sufficient, the flap was raised on the healed ridge, drilling with irrigation was performed, and an implant fixture was placed. If the insertion torque was less than 30 N·cm, 2-stage surgery was performed; otherwise, 1-stage surgery was carried out []. For implantation in a ridge with insufficient bone, bone enhancement was performed through GBR in advance and then implanted later, or GBR was performed simultaneously with the implantation. For immediate implantation, the flap was placed without raising the flap after tooth extraction.
+
+Three types of Oneplantimplants (Warantec, Seoul, Korea) were used: external hexagonal connection, internal octagonal connection, and the one body-integrated type, which is bone-level sandblasted, with a large grit, acid-etched implant surface and micro-thread at the neck, and a structure where the depth of the thread increases to the apex and self-cutting is possible ().
+
+Figure 1
+
+OneplantImplant, Warantec, Seoul, Korea. (A) External hexagonal type, (B) internal octagonal type, (C) one-body type.
+
+Statistical analysis
+
+Statistical analyses were performed using SPSS version 25.0 (IBM, Armonk, NY, USA). Kaplan–Meier analysis was performed to calculate the CSR. The chi-square tests and multiple Cox proportional hazard models were used to identify factors affecting the implant survival rate. The independent variables included age, sex, implant diameter, length, fixture type, placement location, surgical procedure, surgical timing, GBR, sinus graft, and restoration type. In all statistical analyses, statistical significance was set at<0.05.
+
+RESULTS
+
+In this study, 151 patients’ clinical histories, including 490 implants, were reviewed. At the beginning of the study, the mean age of the 151 patients was 53 years (range, 21–80 years), and 60.2% of the patients were male. The specific characteristics of the implants (diameter, length, fixture type, and location) and the surgical information are summarized in. In total, 290 implants were placed using the external type (59.2%), 166 using the internal type (33.9%), and 6.9% using the 1-body type. Furthermore, 62.6% of the implants were placed in the maxilla, and 87.1% were placed in the posterior area. Regarding the surgical procedure, 306 implants were placed using 1-stage surgery (62.4%), and 184 using 2-stage surgery (37.6%). Twelve implants (2.4%) were installed immediately after tooth extraction and GBR was applied to 75 (15.3%). Thirty-eight implants were placed with sinus lateral augmentation (7.8%) and 8 implants were installed with sinus crestal augmentation (1.7%). A total of 89 implants were restored to a single implant (18.2%), 338 implants to splinted crowns (69.0%), and 63 implants to bridge prostheses (12.9%).
+
+Table 1
+
+Cumulative survival rates according to variables and a Cox proportional model of implant survival for 10 years via backward stepwise regression
+
+Variables
+
+Number of placed implants
+
+Number of failed implants
+
+CSR (%)
+
+Significance
+
+Exp(B)
+
+95% CI
+
+Lower bound
+
+Upper bound
+
+Sex
+
+Male
+
+300
+
+6
+
+98.0
+
+Reference
+
+-
+
+-
+
+-
+
+Female
+
+190
+
+4
+
+97.9
+
+0.141
+
+0.269
+
+0.047
+
+1.544
+
+Age (yr)
+
+20–39
+
+14
+
+0
+
+100
+
+Reference
+
+-
+
+-
+
+-
+
+40–59
+
+288
+
+7
+
+97.6
+
+0.960
+
+590
+
+0.000
+
+6.86E+109
+
+60–
+
+188
+
+3
+
+98.4
+
+0.960
+
+555
+
+0.000
+
+6.46E+109
+
+Diameter (mm)
+
+3.3
+
+40
+
+0
+
+100
+
+Reference
+
+-
+
+-
+
+-
+
+3.6
+
+26
+
+0
+
+100
+
+0.984
+
+0.014
+
+0.000
+
+2.57E+176
+
+4.1
+
+24
+
+1
+
+95.7
+
+0.979
+
+112
+
+0.000
+
+3.92E+156
+
+4.3
+
+355
+
+7
+
+98.0
+
+0.984
+
+37.7
+
+0.000
+
+1.33E+156
+
+5.3
+
+45
+
+2
+
+95.6
+
+0.982
+
+54.6
+
+0.000
+
+1.92E+156
+
+Length (mm)
+
+8.5
+
+34
+
+1
+
+97.1
+
+Reference
+
+-
+
+-
+
+-
+
+10
+
+159
+
+3
+
+98.1
+
+0.773
+
+0.702
+
+0.063
+
+7.788
+
+11.5
+
+265
+
+4
+
+98.5
+
+0.841
+
+0.793
+
+0.083
+
+7.580
+
+13
+
+32
+
+2
+
+93.8
+
+0.092
+
+10.282
+
+0.684
+
+154.638
+
+Fixture type
+
+External
+
+290
+
+7
+
+97.6
+
+Reference
+
+-
+
+-
+
+-
+
+Internal
+
+166
+
+3
+
+98.2
+
+0.923
+
+0.929
+
+0.208
+
+4.149
+
+One-body
+
+34
+
+0
+
+100
+
+0.983
+
+0.015
+
+0.000
+
+2.22E+165
+
+Location
+
+Maxillary anterior
+
+50
+
+0
+
+100
+
+Reference
+
+-
+
+-
+
+-
+
+Maxillary pre-molar
+
+88
+
+1
+
+98.9
+
+0.912
+
+1.044
+
+0.000
+
+2.85E+56
+
+Maxillary molar
+
+169
+
+4
+
+97.6
+
+0.912
+
+1.016
+
+0.000
+
+2.74E+56
+
+Mandibular anterior
+
+13
+
+0
+
+100
+
+0.987
+
+8.559
+
+0.000
+
+3.14E+117
+
+Mandibular pre-molar
+
+49
+
+2
+
+96.0
+
+0.895
+
+3.957
+
+0.000
+
+1.07E+57
+
+Mandibular molar
+
+121
+
+3
+
+97.5
+
+0.905
+
+1.845
+
+0.000
+
+5.00E+56
+
+Surgical procedure
+
+1-stage
+
+306
+
+5
+
+98.4
+
+Reference
+
+-
+
+-
+
+-
+
+2-stage
+
+184
+
+5
+
+97.3
+
+0.039
+
+4.769
+
+1.081
+
+21.033
+
+Surgical timing
+
+Delayed
+
+478
+
+10
+
+98.0
+
+Reference
+
+-
+
+-
+
+-
+
+Immediate
+
+12
+
+0
+
+100
+
+0.958
+
+0.001
+
+0.000
+
+1.59E+116
+
+GBR
+
+No grafting
+
+415
+
+9
+
+97.9
+
+Reference
+
+-
+
+-
+
+-
+
+Grafting
+
+75
+
+1
+
+98.7
+
+0.313
+
+0.131
+
+0.003
+
+6.797
+
+Sinus graft
+
+No graft
+
+444
+
+9
+
+98.0
+
+Reference
+
+-
+
+-
+
+-
+
+Lateral approach
+
+38
+
+0
+
+100
+
+0.940
+
+0.001
+
+0.000
+
+1.60E+72
+
+Crestal approach
+
+8
+
+1
+
+88.9
+
+0.105
+
+27.768
+
+0.497
+
+1.550
+
+Restoration type
+
+Single
+
+89
+
+4
+
+95.6
+
+Reference
+
+-
+
+-
+
+-
+
+Splinted crown
+
+338
+
+6
+
+98.2
+
+0.094
+
+0.265
+
+0.056
+
+1.255
+
+Bridge
+
+63
+
+0
+
+100
+
+0.874
+
+0.000
+
+0.000
+
+1.09E+45
+
+CSR: cumulative survival rate, CI: confidence interval, GBR: guided bone regeneration.
+
+Implant survival and failure
+
+In total, 10 of the 490 implants (2.0%) that were followed-up for 10 years failed (). Each case was carefully analyzed to correctly understand the cause of implant loss, and the causes of the 10 implant failures were as follows: 4 out of 10 implants, all of which were internal implants, failed due to fracture of the fixture; 3 were fractured after 4 years of occlusal loading, and 1 was fractured after 9 years. Three implants were removed due to peri-implantitis at 9 years of follow-up and 2 implants were removed 1 year after surgery due to failure of initial osseointegration and fibrous encapsulation. The cause of implant was unknown for 1 implant based on the dental records.
+
+The overall CSR of the dental implants was 97.9% (). The CSRs of the external and internal types were 98.2 and 97.6%, respectively, with no significant difference between the 2 types (=0.670) (). We also investigated the potential influence of these variables on implant survival. After comparing the survival rates among variables using a multiple Cox proportional hazard model, we identified the risk factors affecting the implant survival rate ().
+
+For regression analysis, 490 implants were included, of which 10 had a loss event. When multivariate analysis was performed using the Cox proportional hazard model, two-stage surgery significantly increased the risk of implant failure (hazard ratio: 4.769,=0.039). There were no significant differences in sex, age, diameter, length, fixture type, location, surgical timing, GBR, sinus graft, and restoration type (>0.05).
+
+Table 2
+
+Descriptions of implant failure cases
+
+No.
+
+Sex/age
+
+Implant position
+
+Implant system/length/diameter
+
+Time of implant failure
+
+Reason of failure based on records
+
+Other information
+
+1
+
+F/47
+
+#47
+
+Internal/4.3 × 10 mm
+
+4 yr after implant placement
+
+Implant fixture tearing
+
+No GBR, not immediate, 1-stage
+
+2
+
+F/49
+
+#35
+
+External/4.3 × 11.5 mm
+
+7 months after implant placement
+
+Fibrous encapsulation
+
+No GBR, not immediate, 2-stage
+
+3
+
+M/67
+
+#15
+
+Internal/4.3 × 13.0 mm
+
+4 yr after implant placement
+
+Implant fixture tearing
+
+GBR, not immediate, 2-stage, hypertension
+
+4
+
+M/67
+
+#16
+
+Internal/4.3 × 13.0 mm
+
+4 yr after implant placement
+
+Implant fixture tearing
+
+GBR, not immediate, 2-stage, hypertension
+
+5
+
+M/67
+
+#37
+
+External/5.3 × 13.0 mm
+
+6 months after implant placement
+
+Fibrous encapsulation
+
+GBR, not immediate, 2-stage, hypertension
+
+6
+
+F/47
+
+#27
+
+External/4.3 × 11.5 mm
+
+8 yr after implant placement
+
+Unknown
+
+GBR, not immediate, 1-stage
+
+7
+
+M/50
+
+#35
+
+Internal/4.3 × 8.5 mm
+
+9 yr after implant placement
+
+Peri-implantitis
+
+GBR, not immediate, 1-stage
+
+8
+
+M/56
+
+#16
+
+Internal/4.3 × 11.5 mm
+
+9 yr after implant placement
+
+Implant fixture tearing
+
+GBR, not immediate, 1-stage, hypertension, sinus lateral approach
+
+9
+
+F/47
+
+#46
+
+Internal/5.3 × 10.0 mm
+
+9 yr after implant placement
+
+Peri-implantitis
+
+No GBR, not immediate, 1-stage, hypertension
+
+10
+
+M/54
+
+#26
+
+Internal/4.3 × 11.5 mm
+
+9 yr after implant placement
+
+Peri-implantitis
+
+GBR, not immediate, 2-stage, diabetes, sinus crestal approach
+
+GBR: guided bone regeneration.
+
+Figure 2
+
+Kaplan–Meier cumulative survival rate.
+
+Figure 3
+
+Kaplan–Meier cumulative survival rate according to implant type (external, internal, and narrow one-body implants).
+
+DISCUSSION
+
+The implants used in this study had a micro-threaded neck design. A micro-thread converts shear force into compressive force [], and bone is resistant to compressive force []. Although many studies have supported the usefulness of micro-threads [], we could not present significant results from a comparative perspective because implants with and without micro-threads were not compared in our study. According to studies by Lee et al. [] and Song et al. [], micro-threads interlock and stabilize the marginal bone in the peri-implant region and reduce the loss of marginal bone during functional loading. However, it is difficult to say that micro-threads are advantageous or disadvantageous for peri-implantitis from the point of view of biological complications, rather than biomechanical considerations. Once peri-implantitis accelerates, micro-threads around peri-implant region can be a good environment for micro-organisms to live in because of the wide surface area. Further studies are needed from a biological point of view to clarify the relationship between micro-threads and peri-implantitis.
+
+In this study, 2-stage surgery was found to be associated with a higher implant failure rate in the long term. In cases with insufficient initial stability or major bone graft during implant placement, it is recommended to choose the submerged method. Troiano et al. [] reported that submerged healing was associated with fewer cases of early implant failure than non-submerged healing, and that submerged healing was advantageous for early bone remodeling. The reason that submerged healing had a higher failure rate in this study is that secondary surgery was performed for implantation in an area with poor bone quality. If initial stability is not sufficiently obtained, the likelihood of early implant failure is high, but the risk of late implant failure is unknown. Major causes of late failure include excessive loading, peri-implantitis, and inadequate prosthetic construction. Further research is needed on the long-term effects of micro-threads in cases with poor bone quality.
+
+According to Ikebe et al. [], chronological age itself is not a contraindication to implant placement and does not have a significant effect on the survival rate. However, the likelihood of tissue recovery is lower in older patients due to the increase in systemic disease with age, which may indirectly affect the implant survival rate. There are also differing views regarding the relationship of implant failure with sex; Olmedo-Gaya et al. [] reported that the failure rate in men was significantly higher than in women, whereas Manzano et al. [] did not find a significant difference according to sex. The smoking rate may differ substantially according to sex, and the smoking rate may directly affect the implant success rate; however, this is a matter that should be considered from a sociological point of view. In addition, the difference in occlusal force between men and women, and whether osteoporosis in postmenopausal women significantly affects the survival rate should be investigated. No significant difference was found in this study between implants placed in the maxilla and those placed in the mandible. Wyatt et al. [] reported a significant difference in the 12-year survival rate, while Lee et al. [] reported that the survival rate of implants in the maxilla was significantly lower than that of implants placed in the mandible. When comparing the implant survival rates of the submerged protocol (2-stage surgery) and the transmucosal protocol (1-stage surgery), Flores-Guillen et al. [] showed no significant difference in the survival rate in a 5-year randomized clinical trial, and Sanz et al. [] reported radiographically significant changes in crestal bone level in a 3-year randomized clinical trial. Likewise, no significant difference was found in implants with or without bone grafts, similar to the results observed in other studies [].
+
+Regarding the restoration type, splinted crowns had a hazard ratio of 0.265 (=0.094) for implant failure, and the restoration type did not significantly influence implant failure. However, Katsavochristou et al. [] reported that splinted crowns had stronger biomechanical properties for screw loosening than single implants. In the case of a one-body implant on a narrow ridge, it is important to obtain strong osseointegration. Thus, using an implant fixture with micro-threads may be advantageous because of the high bone-to-implant contact.
+
+Since this was a retrospective study of implant survival, other clinical parameters must be considered to evaluate long-term clinical success. This would require more clinical data and controlled variables due to inconsistencies in published results. For instance, a limitation of our study was that it did not analyze the effects of smoking. De Bruyn et al. [] reported that smoking significantly affected the initial failure of implants. This effect differs depending on whether a patient smokes, whether he or she stops smoking, and how much he or she smokes. In 2020, Naseri et al. [] reported a higher implant failure rate in patients with ≥20 implants. Among the risk factors affecting bone regeneration studied by Hong et al. [], smoking was associated with a 10.7 times higher risk of implant failure than non-smokers, indicating a significant effect of smoking on implant failure. In order to closely analyze the effect of smoking on implants, it is necessary to check whether patients continued to smoke, stopped smoking, or resumed smoking during long-term follow-up; additionally, the number of cigarettes smoked should be compared. However, data on those parameters were not available in this study, and these variables could not be reflected in the analysis. In addition, we did not examine whether the failure rate differed according to the presence of systemic disease. Diabetes is known to adversely affect osseointegration and initial functional loading. In a study on diabetes and implants by Fiorellini et al. [], patients with controlled diabetes showed a lower survival rate than patients with normal glucose levels, but still had a reasonable survival rate. In this study, it was not possible to evaluate whether diabetes was controlled or even whether patients had diabetes, because there were no data on glucose levels at baseline or during the maintenance period after loading.
+
+In this study, fixture tearing occurred in some internal-type implants. The internal bone level implant is mechanically stable and has a self-locking interface, and while centralization of occlusal force is increased, it shows high stability in response to lateral force [] compared to the external type. However, a disadvantage is that the upper part of the fixture may be fractured at a high occlusal force. To prevent this, it is recommended to place an implant with a sufficiently thick diameter.
+
+Albrektsson suggested the following implant success criteria: no clinical fluctuation, no peri-implant radiolucency on radiographic findings, <1.5 mm of bone loss in the first year of implantation, and <0.2 mm of bone loss per year thereafter []. According to the 2012 European Association of Osseointegration consensus conference, the survival and success of implants should be well defined, but it is unclear whether existing studies have adequately distinguished between these 2 terms []. Therefore, we used the ICOI’s 2008 definition of implant success to distinguish implant success and survival, and it is possible that the survival rate in this study may be somewhat higher than those reported in previous studies [].
+
+In conclusion, the principal outcome of this study was that the 10-year survival rate of Oneplantwith micro-threads was 97.9%. The survival rate of the external type was 98.2%, and the survival rate of the internal type was 97.6%. Two-stage surgery significantly increased the risk of implant failure (hazard ratio: 4.769,=0.039). Other factors, such as sex, age, diameter, length, fixture type, location, surgical timing, GBR, sinus graft, and restoration type, were significantly associated with the survival rate. These data indicate that the use of Oneplantis predictable and safe and might help improve clinicians’ decision-making.

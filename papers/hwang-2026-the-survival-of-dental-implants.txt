@@ -1,0 +1,12 @@
+THE SURVIVAL OF DENTAL IMPLANTS IN POST-MENOPAUSAL WOMEN RECEIVING DENOSUMAB: A RETROSPECTIVE COHORT STUDY.
+Hwang J, Yoon Y, Byun G, Choi BJ, Ohe JY, Lee BS, Jung J. Clinical implant dentistry and related research. 2026. doi:10.1111/cid.70122. PMID 41562427.
+
+[ABSTRACT-ONLY — full text not retrieved]
+
+This study aimed to evaluate the effects of anti-resorptive drugs (ARD), including denosumab, on dental implant survival in post-menopausal women with osteoporosis, compared with those receiving non-ARD, and to identify risk factors associated with ARD that may influence implant outcomes.
+
+This retrospective cohort study examined 1694 implants placed in 806 women aged 55 years or older with at least of follow-up of 12 months. Implants were categorized according to exposure to anti-resorptive drugs (ARD), including bisphosphonates or denosumab, or assignment to a non-ARD control group. The assessed variables included demographic, ARD-related, implant/prosthesis-related factors, and marginal bone loss. Propensity score matching was used to balance group characteristics. Statistical analyses included Firth logistic regression with patient-level clustering and a linear mixed model for longitudinal bone changes. Kaplan-Meier curves were illustrated to describe implant survival trends among the groups.
+
+Implant survival rates were 99.13% (bisphosphonates), 98.08% (denosumab), and 98.24% (control), with no significant differences in implant failure or marginal bone loss between the groups. However, diabetes mellitus, alcohol consumption, and overdenture prosthesis were associated with a significantly increased risk of implant failure.
+
+Implant-based prosthetic rehabilitation is also feasible in post-menopausal women receiving ARD for osteoporosis. Although the implant survival rate was comparable to non-ARD users, caution is advised for patients on high doses of ARD or undergoing long-term therapy due to their pharmacological effects compromising bone metabolism. Additionally, the risk of failure associated with invasive procedures needs to be further evaluated.
