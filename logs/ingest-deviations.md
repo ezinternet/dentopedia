@@ -1031,3 +1031,21 @@ Logged by subagents at deviation time. `deviation-audit.py` flags types with ≥
 | 2026-11-08 | hong-2025-comparative-analysis-of-novel-damping | source-data-issue | Ethics text says prospective and retrospective; Table 4 Periotest ICC CI 0.78-0.99 vs text 0.97-0.99; R2 not equal to r squared; p=0.0039 for r=-0.870 vs p=0.0002 for r=-0.473 at same n; Trust force <3 N (intro) vs 0.6-0.8 N (Table 5) |
 | 2026-11-08 | hong-2025-comparative-analysis-of-novel-damping | category-judgment | implants/isq chosen: study defined by damping/stability measurement device comparison, not early-failure outcomes (no failures analysed); not implants/survival |
 | 2026-11-08 | hong-2025-comparative-analysis-of-novel-damping | date-fallback | No date in txt; 2025-01-01 used |
+| 2026-11-08 | lee-2023-risk-factors-impacting-the-survival | abstract-only | full text not retrieved; abstract only |
+| 2026-11-08 | lee-2023-risk-factors-impacting-the-survival | date-fallback | publication month/day absent; 2023-01-01 |
+| 2026-11-08 | lee-2023-risk-factors-impacting-the-survival | source-data-issue | abstract GBR vs non-GBR at replacement survival labels inconsistent with protective aHR 0.262; +/- unlabeled |
+| 2026-11-08 | kim-2024-risk-factors-for-the-failure | abstract-only | Abstract-only ingest; full text not retrieved |
+| 2026-11-08 | kim-2024-risk-factors-for-the-failure | date-fallback | No month/day in txt header; used 2024-01-01 |
+| 2026-11-08 | choi-2026-masseter-muscle-volume-and-cross | abstract-only | PubMed abstract only; full text not retrieved |
+| 2026-11-08 | choi-2026-masseter-muscle-volume-and-cross | date-fallback | no publication month/day in txt header; used 2026-01-01 |
+| 2026-11-08 | choi-2026-masseter-muscle-volume-and-cross | evidence-level-judgment | matched case-control mapped to retrospective (no case-control value in vocab) |
+| 2026-11-08 | kim-2024-long-term-clinical-study-of-fixed | source-data-issue | 2/40 implants failed = 95.0% but text reports 95.1% (KM method unstated); replacement implant inclusion in n=40 unclear; no failure definition; tables absent |
+| 2026-11-08 | kim-2024-prediction-of-lifespan-and-assessing | source-data-issue | median survival stated with 95% CI but no interval given; insurance coverage top nomogram factor yet absent from multivariate significant list |
+| 2026-11-08 | kim-2025-association-between-the-type-of | source-data-issue | Results text reports failure as 14.22/15.00/6.70% of cases but these are incidence per 1000 person-years; raw proportions 2.57/2.62/1.29% |
+| 2026-11-08 | kim-2025-association-between-the-type-of | category-judgment | implants/survival: claim-based nationwide failure by care setting, no host-condition or narrow-diameter definition |
+| 2026-11-08 | lee-2024-risk-of-late-implant-loss | source-data-issue | abutment-type p for complication treatments 0.9811 (text log-rank) vs 0.9542 (PubMed abstract); HA peri-implantitis HR CI 1.009-1.584 excludes 1 but surface p=0.0587 |
+| 2026-11-08 | lee-2024-risk-of-late-implant-loss | other | txt had no header; title/authors/journal/date taken from PubMed metadata call |
+| 2026-11-08 | cho-2025-clinical-outcomes-and-bone-marker | source-data-issue | 37 enrolled vs 36 analysed unexplained; MBL 0.25-0.37 by cell vs 0.54 mm average; survival 100% and IST 71.4 only in abstract |
+| 2026-11-08 | cho-2025-clinical-outcomes-and-bone-marker | category-judgment | implants/survival chosen (osteoporosis host-risk named in categories.md) over implants/vitamin-d and drug/systemic-disease |
+| 2026-11-08 | kim-2025-survival-rate-of-dental-implants | source-data-issue | Discussion says survival curves differed by prosthesis type; Results/Conclusion say not significant (p>0.05). Cox HR 0.00 degenerate (few events). Tables absent from txt. |
+| 2026-11-08 | hwang-2023-clinical-evaluation-of-3-0 | source-data-issue | Table 1 prosthesis counts sum to 58 not 64 (6 pre-prosthesis failures); Discussion cites 25-month average follow-up vs 30.5-month median in Results; txt has no header, metadata from PubMed |
