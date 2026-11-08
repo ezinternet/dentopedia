@@ -1,0 +1,197 @@
+INTRODUCTION
+
+Braånemark started comprehensive study on microscopic phenomenon of the bone healing in 1952. He reported the bone contacted on the titanium surface directly.This study led to animal study of endosseous implant. Human study was started in 1965 and he presented the results of 10 years of study in 1977.In early development stage of dental implant, it had machined surface without any additional surface treatment. As time went by, scientists have studied and developed the surface, form and shape of implant. As a result, it showed high success rate and predictable results over 40 years and has been utilized for several decades. But also failed implants have been increased as compared with early development stage of implant.-
+
+There are many related factors affecting implant failure.,First group of factors is host related, such as patient age, gender, systemic disease, smoking and oral hygiene. Second group is implant placement site related factors such as position in arch, bone quality and bone quantity. Third group is surgery related factors including an initial stability, angulation and direction of implant and the skillfulness of an operator. Fourth one is implant fixture related factors, such as surface roughness, length, diameter, macrostructure and microstructure of an implant fixture. Fifth group is implant prosthesis related factor. That is prosthesis type, retention method (screw type or cement type), occlusal scheme and so on.
+
+Albrektsson et al.stated in 1981 that design and surface of implant, condition of implant placement site, surgery technique and occlusal loading condition have an important influence on the successful osseointegration. And a close examination on failure of dental implants has always been an important issue.
+
+Failure of dental implants can be divided into biological and mechanical failure according to failure pattern. Esposito et al.had divided implant failure into biological and mechanical type. Biological failure is defined as no sign of osseointegration around dental implant. Mechanical failure is fixture fracture, screw loosening and fracture of screw, restoration fracture and dislodgement.
+
+In addition, it can be divided into early failure and late failure according to failure time. First, early failure is one that failed osseointegration within several weeks or several months It was due to bone necrosis, surgical trauma, bacterial infection, inadequate initial stability and early occlusal loading.
+
+Late failure is failure that turns up after functional loading of several period of time. It takes place because of infection and excessive loading.There are many difficulties to figure out the cause of implant success and failure because it is affected by many various factors. It is hard to find a reasonable solution only withstudy model. Thus, it is good to get an idea through literature review.
+
+If it gives a clue to the relationship between failure pattern and risk factor, it is beneficial for us to control and overcome it. And it will be helpful to increase the success rate. The purpose of this study is to analyze the relationship between related factors and survival rate of dental implant which had been installed and restored in Seoul Veterans Hospital dental center for past 10 years. And by finding the relationship it could be helpful to predict the prognosis of dental implants.
+
+MATERIALS AND METHODS
+
+1. Patient selection
+
+Several surgeons placed implants from January 2000 to December 2009 and some prosthodontists made restorations in Seoul Veterans Hospital. Periodic recall check for every 6 months was performed for 3755 patients in male 3120, female 635 and 6385 placed implants during the retrospective study.
+
+Before the implant surgery, the operator collected informed consent from all patients. They operated with a careful caution after consulting patients who had systemic diseases to the specialist of internal medicine. After controlling the relative contraindication with a thorough medical consult, they placed implants. However, patients receiving immunosuppressive treatment, radiolocal and chemical antitumor therapy, those with hormonal imbalance, osteporosis, pregnant women, the addict of alcohol or drugs, and people having psychiatric disease, intraoral chronic infectious disease, immune disease and untreated periodontal disease were excluded from the study.
+
+2. Selection of implant type
+
+Eight implant type and surface were used in this study as follows ().
+
+3. Method of surgery and restoration
+
+After making an alveolocrestal incision under local infiltration anesthesia and reflecting full-thickness flap, implants were placed according to the recommendations of the implant company. All surgeries were done with antibiotics premedication. Doctors in Seoul Veterans Hospital dental clinic made a decision on bone quality and quantity which was suggested by Lekholm and Zarb.They used a tapping, countersinking drilling if necessary. Insertion torque values of dental implants were measured with Kavo INTRAsurg 300 plus® (Kavo, Biberach, Germany). Initial stability was evaluated by insertion torque and judgment of surgeons.
+
+Doctors got an insertion torque at least more than 10 Ncm. When the threads of implants were exposed to oral cavity or bone defects occurred, surgeons made guided bone regeneration (GBR). When it was hard to insert implant because of large horizontal and vertical defect of the residual ridge, they made ridge augmentation and got sufficient healing time. In other words, delayed placement or staged approach was performed.
+
+When vertical height of residual ridge was not enough in the molar region of maxilla, they used osteotome sinus floor elevation (OSFE), bone added osteotome sinus floor elevation (BAOSFE), or sinus graft with a lateral window opening. When the condition of an immediate placement was possible, operators did it.
+
+Patients had a periodic recall check more than one time a month. Periotest® was applied for evaluation of the damping characteristics of implant anchoring structures.The integrity of osseointegration and implant stability was measured by Osstell™ mentor.
+
+After more than 3 months of healing period, prosthodontist made progress in conventional prosthetic procedures. If an immediate loading was possible, it was limited to the anterior region according to the doctor's decision. Patients had more than 3 recall checks during the first year after the placement of prosthesis (1 week, 6 months, 1 year, respectively). After 1 year of prosthesis delivery, they received a thorough oral and clinical examination, radiographic survey and measurement of plaque control more than once a year.
+
+4. Related factor
+
+Data, such as patient age, gender, implant type and surface, diameter, length, location, bone quality, prosthesis type were collected and put in order. The effect of factors was analyzed on survival rate. In this study, whether mucosal coverage was performed or not, additional procedure of surgery, time of implant placement, 3 dimensional placement site, maintenance method of prosthesis, occlusal scheme and operator were excluded.
+
+5. Evaluation of survival rate
+
+The guidelines used in this study were suggested by Buser and Cochran et al.They included inclusion and exclusion criteria.
+
+Buser and Weber suggested success criteria as below.
+
+Absence of persistent subjective complaints, such as pain, foreign body sensation, and/or dysaesthesia
+
+Absence of a recurrent peri-implant with suppuration
+
+Absence of mobility
+
+Absence of a continuous radiolucency around implant and no rapid progressive bone loss
+
+Possibility of restoration
+
+Implants with abnormal symptom mentioned above were finally removed, and implant failure was defined as implant loss or removal. Also, survival period from implant placement to failure or survival period from implant placement to last survey was calculated.
+
+6. Statistical analysis
+
+Survival rate was analyzed with the use of Kaplan-Meier survival analysis method. Chi-square test was used for comparison within related factors. All statistics were calculated using SAS 9.2 (SAS Inc., North Carolina, USA) software. The level of statistical significance was-value less than .05. When comparing significant differences between items within related factor, the significance level(<.05/n, n: number of test) corrected by Bonferroni was used. This corrected an error ratio result from the repeated test.
+
+When proved significantly different with the use of Bonferroni correction, odds ratio could be trusted. Because the implants were exposed to the specific risk factor, odds ratio was calculated to present the probability of failure comparing to the probability of success between groups. For example, when there were 4 groups, set first group I as the standard (=1), and then the failure to success ratio of other II, III and IV groups was denoted individually. If odds ratio of group II was larger than the standard (=1), it meant the failure probability of group II was higher than that of group I.
+
+RESULTS
+
+1. Type of placement and distribution
+
+In this study 6385 implants were placed from January 2000 to December 2009 in 3755 patients.
+
+1) Distribution of implants according to gender and age ()
+
+The number of patients and ratio for male was 3120 (83.09%), and female was 635 (16.91%) respectively.
+
+The age distribution was from 18 to 88 and the mean value was 65±10.58 years.
+
+2) Distribution of implants according to implant type and surface ()
+
+3) Distribution of implants according to diameter ()
+
+4) Distribution of implants according to length ()
+
+Diameter and length had a similar tendency. And in the majority of cases, wide diameter implant had a long length.
+
+5) Distribution of implants according to location ()
+
+6) Distribution of implants according to prosthesis type ()
+
+7) Distribution of implants according to bone quality ()
+
+2. Survival rate
+
+1) Cumulative survival rate
+
+Cumulative survival rate was 96.33%. Average observation period was 45.73±12.48 months in 3755 patients. The observation period was 42.69±30.68 months in male and 48±28.47 months in female. 6385 implants were placed, and 108 of them failed. 3120 male of 3755 patients had 99 failed implants, and 635 female had 9 failed implants.
+
+2) Distribution of implants according to failure stage
+
+Among 108 failed implants, 22 implants failed from implant placement to prosthesis delivery (early failure). And 86 implants failed after prosthesis delivery and occlusal loading (late failure). This study represented that it was important to control the occlusal stress and occlusal adjustment.
+
+3) Survival rate according to gender and age ()
+
+demonstrates that the survival rate in male was higher than in female. Groups were not significantly different at<.05. As patients' age was older, the survival rate according to age decreased. There were significant differences at<.05. The survival curve according to gender and age is represented in ().
+
+4) Survival rate according to implant type and surface ()
+
+Survival rate of Biohorizon®RBT was higher than for other implants, and that of Paragon®MTX was the lowest, because operators placed Paragon®MTX in Seoul Veterans Hospital 10 years ago. And a large number of implants were inserted; therefore practitioners experienced many failures of trial and error for long time. However, Biohorizon®RBT was technique-sensitive. For that reason when they were accustomed to dental surgeries, doctors inserted small number of Biohorizon®RBT from 2008 to 2009. Groups were significantly different at<.05. The survival curve according to implant type and surface is shown in ().
+
+5) Survival rate according to implant diameter ()
+
+Group II was considered to be regular diameter recorded the highest score among 3 groups, and group I which was regarded as narrow diameter represented the lowest one. Groups were not significantly different at<.05. The survival curve according to implant diameter is depicted in ().
+
+6) Survival rate according to implant length ()
+
+Group II was looked upon as regular length presented the most superior result, and group I which was counted as short length showed the most inferior score. Groups were significantly different at<.05. The survival curve according to implant length is shown in ().
+
+7) Survival rate according to location ()
+
+Survival rate indicated the best result in mandibular posteriors among 4 groups, and maxillary anteriors, mandibular anteriors, maxillary posteriors were manifested in the order of survival rate. Groups were significantly different at<.05. The survival curve according to location is depicted in ().
+
+8) Survival rate according to prosthesis type ()
+
+The survival rate of splinted prosthesis was higher than for other groups. Single crown recorded relatively inferior result. But, it was reasonable. The outcome of implant overdenture was moderate. Groups were significantly different at<.05. The survival curve according to prosthesis is represented in ().
+
+9) Survival rate according to bone quality ()
+
+Type I showed the most superior result and type III stood for the most inferior outcome. There was a tendency of decreased survival rate when bone quality was poor. Type IV had a small number of 112 implants. Therefore, it had a negative effect on statistic analysis. If more implants had been placed in the type IV, more failure would have been found out. Groups were not significantly different at<.05. The survival curve according to bone quality is represented in ().
+
+DISCUSSION
+
+The purpose of this study was to evaluate the survival rate for dental implants, which was investigated on the basis of patient related factor, implant related factor, site related factor, restoration factor and bone related factor.
+
+There were significant differences between the related factors and survival rate, and other article reported similar results.
+
+Other memoirs presented that when patients age increases, failure rate had a tendency of increment.The retrospective study in Seoul Veterans Hospital showed a similar pattern. There were statistical differences (=.048).
+
+As people get older, bone density decreases because the amount of bone resorption is greater than amount of bone production. As the cortical bone is thinner, and porosity increases in spongeous bone.
+
+And in an animal experiment younger animals have more active formation of spongeous bone, and the bone to implant contact (BIC) ratio increases.
+
+The results of other published studies represent that age does not affect the implant success rate.However, the present study showed the most inferior survival rate in group of patients older than 79 years. Other study revealed that gender is an influencing factor. Schwartz et al.and Wagenberg and Froumreported that failure rate in male was higher than in female. But, in this study, failure rate in male (4.59%) was lower than female failure rate (6.39%). There were no statistical differences (=.059).
+
+Survival rate of Astra® (97.0%), Biohorizon®RBT (99.5%), Camlog® (97.34%) and GS® (99.53%) were higher than the mean survival rate of rough surface implants. Survival rate of Biohorizon®RBM (93.74%) was lower than the mean survival rate, because the macrostructure of the implant thread was square type and as many as 1110 implants of Biohorizon®RBM were placed.
+
+The sample size Parogon®MTX implants was the largest among groups. It could have an effect on the statistical analysis, because operators placed Paragon®MTX in Seoul Veterans Hospital 10 years ago. A large number of implants were inserted; therefore practitioners experienced many failures of trial and error for long time.
+
+A positive correlation was found between Biohorizon®RBM (93.74%), Paragon®MTX (93.1%) and Replace™ (94.81%) from a point of relatively low survival rate. Even though Replace™ had a Ti-Unite surface and a root-form fixture, which was easy to get primary stability, it showed a relatively low survival rate than other implants. But, the record of Replace™ was reasonable.
+
+Biohorizon®RBT showed a survival rate of 99.55%, which was different from Biohorizon®RBM (93.74%). Biohorizon®RBT was placed approximately from 2008 to 2009, but Biohorizon®RBM was inserted for 10 years from 2000 to 2009. The observation period of Biohorizon®RBM was longer. Consequently, the results of survival rate were different.
+
+This study reported that the survival rate of group I (<3.75 mm) was 92.39%, group II (3.75 - 4.5 mm) 96.90%, and group III (>4.5 mm) 94.74%.
+
+But, Renouard reported that failure rate of narrow width implants in the literature review was low.Because it was less invasive, and the operators selected the exact diameter to consider the bone quality and biomechanics in edentulous patients who had limited ridge width. Ivanoff mentioned that wide implants with diameter more than 5 mm showed increased failure rate.The learning curve could affect the results. Operators used wide implants as rescue implants in poor bone quality when they could not achieve primary stability. This present study showed similar result. Hultin-Mordenfeld M said that wide implants had higher failure rates.Because they were placed in unfavorable situations such as poor bone quality and quantity. Recently published papers discuss a fact that there is no correlation between diameter and survival rate.Success can be achieved by the development of implant design, patient selection and adapted surgical technique. In addition, gentle surgical procedure, staged approach, adequate healing time and no exposure of membrane are important. In this present study, implant length influenced survival rate statistically (=4.84×10). Misch presented that shorter implants less than 10 mm had lower success rates (7 - 25%) than longer 10 mm implants through the literature review of published papers from 1996 to 2003.Renouard reported that when machined implants were placed in poor bone quality, short implants less than 10 mm had higher failure rates. Furthermore, when rough surface implants were placed in poor bone quality without countersinking or with underdrilling, which could increase primary stability, success rate was similar between less than 10 mm and longer than 10 mm implants.In fact, the surgical technique of operators was more important than implant length in clinical practice. Thus, if the practitioners use short implants with a careful attention, they will experience a diminution in failure. As to survival rate in implant location, it was higher in mandible than maxilla, and failure rate of posterior teeth was higher than that of anterior teeth. It is because maxilla has thinner cortical bone and low density in spongeous bone.
+
+Schwartz said that mandibular anteriors showed the lowest failure rate than other parts throughout the literature review.
+
+In posterior teeth, the implantation was limited by the maxillary sinus or inferior alveolar canal, unfavorable crown to implant ratio, greater occlusal force than anterior teeth, so they had a mechanical disadvantage. There were similar results in present study. Survival rate in mandible (95.15%) was superior to maxilla (94.04%).
+
+This study presented that the failure rate was the highest in maxillary posterior teeth (6.27%), mandibular anterior teeth (6.06%), maxillary anterior teeth (5.63%) and mandibular posterior teeth (3.65%) in the order. It can be surprising why failure rate was so high in mandibular anterior teeth, because dentists inserted implants in type I and type II bone. Thus, implantation in hard bone would lead to the resorption of the marginal bone.
+
+Goodacre et al.presented that failure rate of single crown and fixed partial denture was 3% and 6% individually in partial edentulous patients. The failure rates of fixed partial denture and overdenture were 10% and 19% in the full edentulous maxilla. The failure rates of fixed partial denture and overdenture were 3% and 4% in the full edentulous mandible.
+
+When contemplating prosthesis type and arch condition, he reported that the location of restoration had an effect than prosthesis type. There were very little differences of failure rate according to the restoration type in the mandible, but larger failure rates were exhibited in the maxillary overdenture. Bryant et al.said the location of restoration was important than the restoration type in case of full mouth rehabilitation. And when prosthodontists restored a full arch dentition with the use of a fixed partial denture, failure rate was higher (6.6%) in maxilla than the mandible. It was statistically available (<.001). When restoring the maxilla with overdenture, 5-year survival rate (76.6%) was lower than for fixed partial denture (87.7%). There were statistical differences (<.001), because it meant that there was inadequate bone quantity to restore with the use of removable prosthesis before surgery. However, he reported that the 5-year survival rate of overdenture treatment in the mandible was 95.7 - 96.7%, and the 10-year survival rate of fixed partial denture was 95.4%. There were no statistical differences of failure rate as to restoration type (>.05).
+
+After Weber and Sukotjoresearched on 74 papers through literature review, the survival rate of single crown for 6 years was 95.6% and the rate of fixed partial denture was 97.7% in partial edentulous ridges. He reported no statistical differences. But, this retrospective study showed that there were significant differences at=.012 between prosthesis types. The present study on implant overdenture revealed that failure occurred in the mandible. No failure appeared in maxilla. The sample size was as small as 122 implants, because most patients did not want removable overdentures. People usually preferred fixed restoration to removable partial denture. If more implants had been placed in the maxilla, more failure would have been revealed.
+
+When bone quality was poor, survival rate of implants had a tendency to decrease. However, there were no significant differences (=.26) in present study. However, there was a tendency that when bone quality was poor, survival rate decreased from type I to type III. Type IV showed a different pattern. When surgeons placed in poor bone, they gave an attention to bone quality precisely and performed gentle surgical procedure with the proper implant design. This could have an effect on survival rate of type IV.
+
+In this situation bone quality was important, and thus initial stability was significant, too. Initial stability is a factor determined by initial bone to implant contact (BIC) ratio during implantation, surrounding bone density and biomechanical characteristics.That is to say, it is influenced by implant site such as bone quantity, density of spongeous bone and thickness of cortical bone.Also, surgical techniques, implant shape and implant geometry can have an effect on it.
+
+Even in poor bone, when operators select proper length, diameter, shape, surface of implant and improved surgery methods, they can increase an initial stability. O'Sullivan et al.graded initial stability after he placed standard Braånemark® implant, MK II self-tapping Braånemark® implant, MK IV tapered self-tapping Braånemark® implant. And he checked initial stability with the use of insertion torque, resonance frequency analysis and removal torque in the maxilla of human cadaver. He found out that MK IV Braånemark® implant recorded the highest value of initial stability. When Alvesapplied a cylindrical osteotome to the same size of the final drill diameter in type IV bone, and inserted a self-tapping tapered form implant, he created bone compaction effect at the coronal 1/3.
+
+Above all, he improved bone density and raised initial stability. But, initial stability was not recorded in the present study. To measure initial stability, a RFA instrument is necessary. It is difficult to verify RFA values every time during surgery, because the smart peg of Osstell™ mentor is disposable and expensive. Most surgeons measure an insertion torque (IT) when it is calculated on the screen of the surgical engine. They gauge a removal torque (RT) when implant is removed from the bone. To increase the success rate of implants, research and development of implant shape, geometry and surface treatment should be continued without cessation. To shorten healing period of bone, implants have been developed from pure machined titanium surface to rough treated surfaces.
+
+Recently developed implants have enough primary stability to apply an immediate loading. And researches on the surface coating are in progress by achieving secondary stability to make an immediate loading possible.
+
+Schwartz-Arad et al.reported that the prerestoration and postrestoration failure were 50.55%, 44.4% respectively in 7-year retrospective study.
+
+Goodacre et al.said failure rate was similar before and after prosthesis, and failure rate before proshesis is a little higher. But the results of this retrospective study showed that late failure was higher. Early failure before proshesis was 20.37% and late failure after restoration was 79.63% respectively. There were prosthodontic problems and patient related problems. For example, there could be impression taking error, stone pouring problem, and errors in dental laboratory procedure, occlusal interferences, inadequate occlusal adjustment and maintenance problems. Most patients were old men who had inserted implants in Seoul Veterans Hospital. Age distribution was from 18 to 88 years, and a mean age was 65±10.58 years. And they were in favor of eating hard and tough traditional Korean food such as Kimchi and Kaktugi. Esposito et al.said that the systemic condition of a patient could have an influence on host immune response, and when inflammation was excessive, it could impede an osseointegration. Above all, it could result in failure. Also, parafunctional habits such as clenching, bruxism and unilateral chewing which gave rise to excessive loading might result in late failure. Many authors said that most failure usually occurred within one year after implantation. And they concluded it as a primary biologic failure due to the breakdown of osseointegration.However, when surgeon placed the machined surface implants in maxillary posterior teeth of smoker, the osseointegration was not continuous. And after the delivery of prosthesis, there was the tendency that the stability of interfacial bone decreased gradually. They called it 'primary and secondary failure'.,
+
+This retrospective study estimated how patient age, gender, implant type and surface, length, diameter, location, bone quality and restoration type could influence survival rate among the various factors which were related with implant survival. In addition, there were various factors related with patient's systemic disease, bone graft and barrier membrane, sinus graft, osteoporosis, smoking and hormonal imbalance. Also, factors which could influence survival rate were very diverse such as the cause of tooth loss, immediate placement, immediate loading and so on. Various factors combined systematically with compound could determine the survival rate. But, they were not analyzed in this study. If long term well-controlled prospective studies are made, the relationship between factors which influence survival rate will be found out more objectively and consecutively. When many research centers draw a common conclusion on the reason of implant failure, common factors related with survival rate will have greater influence on failure. Thus, further studies are needed on them.
+
+CONCLUSION
+
+As implant survival rate is influenced by various factors, it is difficult to analyze a cause of failure objectively. In this study related factors were evaluated for implant placement i.e.patient's age and gender, implant type and surface, diameter and length, location, prosthesis type, bone quality. Within the limitations of this study, the following conclusions were drawn:
+
+6385 implants were placed in 3755 patients. 3120 of them were male, and 635 were female. Age distribution was from 18 to 88 years and a mean age was 65±10.58 years. 108 implants of them failed and the cumulative survival rate was 96.33%.
+
+There were significant differences in age, implant type and surface, length, location and prosthesis type (<.05). They had an influence on implant survival rate.
+
+There were no statistical differences in gender, diameter and bone quality (>.05).
+
+There were low survival rates in age older than 79 (66.67%), female (93.61%), Paragon®TSV (93.09%), narrow implant less than 3.75 mm (92.39%), short implant less than 10 mm (95.11%), maxillay posterior teeth (93.73%), single implant (93.81%) and type III bone (94.45%).

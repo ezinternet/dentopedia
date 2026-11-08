@@ -1,0 +1,1301 @@
+INTRODUCTION
+
+Dental implants are widely used to replace missing teeth. The long-term survival of dental implants has been extensively studied. A recent systematic review and meta-analysis estimated the 10-year implant survival rate to be between 93.2% and 96.4% []. Despite these high survival rates, implant failure occasionally occurs in daily clinical practice and presents challenges for retreatment [].
+
+To address these issues, various implants have been developed to enhance success and survival rates. Among them, The implants examined in this study were bone-level, internal titanium implants featuring a sandblasted, large-grit, acid-etched surface (Evertis[previously known as Luna]; Shinhung, Seoul, Korea) (). These surface characteristics are known to enhance bone-to-implant contact and promote osseointegration [], primarily by facilitating the adhesion of platelets and the migration and differentiation of osteoblasts []. A distinctive aspect of the Evertisimplants is their macro-design, which follows a tapered-straight-tapered configuration (). Tapered implants have been shown to achieve higher primary stability than straight implants, which is particularly beneficial if patients have low-density cancellous bone with only the crestal cortical bone present [].
+
+In addition to implant survival, peri-implant marginal bone loss (MBL) is the most frequently reported criterion for the success of dental implants []. Albrektsson et al. [] emphasized the importance of regularly monitoring MBL to evaluate the long-term success of implants. Various biological, material, and technical factors can influence MBL, thereby affecting the risk of developing peri-implant diseases later in life []. A cumulative survival rate of 97.0% was previously reported for the same dental implant (Evertis) as in the current study, based on data collected from 3 months to 10 years after prosthesis delivery []. However, the study included a substantial amount of follow-up data from less than 5 years; hence, it is unclear whether these figures truly represent long-term survival rates. Additionally, no data was available for MBL. Therefore, it is crucial to analyze the implant survival rates in patients with long-term follow-up. It is also necessary to investigate the factors influencing MBL, which plays a significant role in long-term success, and to analyze their associations. Thus, this retrospective study aimed to assess the long-term cumulative survival rate with long-term (≥5 years) follow-up and to investigate the factors that affect the survival rate and MBL.
+
+Figure 1
+
+Tapered-straight-tapered dental implant (Evertis; Shinhung, Seoul, Korea).
+
+Evertiswas previously known under the brand name Luna, which was renamed to Evertisas of September 2024.
+
+MATERIALS AND METHODS
+
+This retrospective cross-sectional study was conducted following the observational study reporting guidelines and included patients who received dental implant treatment at the Dental Implant Center of Seoul National University Dental Hospital (SNUDH) from January 2014 to December 2019. The study adhered to the principles of the Declaration of Helsinki and received approval from the Institutional Review Board (IRB) of SNUDH (IRB No. ERI24015). Due to the anonymized and archival nature of the data, the requirement for informed consent was waived.
+
+Study design
+
+illustrates a flowchart of the screening process. The study included patients who had a follow-up period of ≥5 years after implant placement. Patients were excluded if they had incomplete dental records or experienced early implant failure. The initial step in the case selection involved evaluating implant survival. Implant survival time was determined based on the date of the patient’s most recent appointment, as recorded in clinical documents and radiographs. For the second assessment, which focused on analyzing long-term peri-implant MBL, patients lacking ≥5 years of follow-up with digital panoramic radiographs were excluded. Additionally, implants that failed within 5 years of placement and cases that could not be assessed using panoramic radiography were also excluded.
+
+Figure 2
+
+Flow diagram of the screening process.
+
+(A) Measurement of MBL: The yellow dot represents the first bone-to-implant contact. The red line represents the coronal end of the implant body as the reference point (Ref). The distance between the yellow dot and the red line was measured as MBL. (B) Measurement of IPD: The green dot represents the crestal bone of the tooth adjacent to the implant. The red line represents the coronal end of the implant body. The IPD was calculated as the distance between the green dot and the reference (Ref).
+
+MBL: marginal bone loss, IPD: implant placement depth, SNUDH: Seoul National University Dental Hospital.
+
+Study variables and data collection
+
+We evaluated the following variables, referring to the study of Yum et al. []: 1) sex (male, female), 2) age (<40, 40–60, and >60 years), 3) diabetes mellitus (DM), 4) smoking status, 5) placement region, 6) jaws (maxilla, mandible), 7) implant diameter, 8) implant length, 9) staged surgery (1- or 2-staged), 10) immediate implant placement after tooth extraction, 11) bone augmentation, and 12) prosthetic splinting. The implant diameter was categorized into narrow (3.5 mm), standard (4.0 or 4.5 mm), and wide (5.0 or 6.0 mm) groups. The implant length was classified as short (7.0 or 8.5 mm) and standard (10.0 or 11.5 mm). Bone augmentation was defined as the use of a bone graft, regardless of the barrier membrane. Implant prosthetics were categorized as single and splinted crowns (2 units or 3 or more units). For the MBL analysis, the implant placement depth (IPD) was included in the aforementioned variables. Patient profiles were assessed by 2 researchers (H.K.K. and H.J.K.) from the SNUDH.
+
+Definition of implant survival and failure
+
+Implant survival was defined as the presence of an implant and fixed prosthesis in the mouth, regardless of any biological and/or mechanical complications []. In this study, implant failure was specifically defined as the removal of an implant, as recorded in clinical records or observed in digital panoramic radiographs. To concentrate on the long-term outcomes of implants, early failures—those implants removed due to clinical mobility before the placement of the final prosthesis—were excluded from this study. Such failures may be influenced by variables like the surgeon’s experience []. This exclusion facilitated a more precise evaluation of the risk factors associated with delayed implant failure during extended follow-up periods.
+
+Radiographic bone loss assessment
+
+The baseline panoramic radiograph was defined as the one taken immediately after implant placement or within 2 weeks postoperatively. This radiograph was compared with the most recent panoramic one obtained after a long-term follow-up period (≥5 years) post-implant placement. Consistent with previous research, the MBL was quantified using the Picture Archiving and Communication System software (INFINITT Healthcare, Seoul, Korea). MBL was determined by measuring from the coronal end of the implant body to the highest point of bone-to-implant contact (). The IPD was measured from the crestal bone of the adjacent tooth to the coronal end of the implant body (). Both IPD and changes in MBL were assessed on the mesial and distal sides of the implant. The length of the implant fixture was measured on the radiograph, with all radiographic measurements calibrated against the actual length of the implant fixture for accuracy. A single examiner (H.K.K) conducted all radiographic measurements and analyses in a single session.
+
+Statistical analysis
+
+All statistical analyses were conducted using Python 3.6.9, along with the NumPy 1.13.1, Matplotlib 3.1.3, and Lifelines 0.25.0 libraries. The data analyses included frequencies, means, standard deviations, and medians.
+
+For the initial assessment of implant survival and failure, Kaplan–Meier curves were utilized to estimate the cumulative survival rates along with 95% confidence intervals (CIs). To evaluate the potential risks associated with the variables mentioned, a mixed-effects Cox proportional hazards model was used, assessing the relationship of each independent variable with implant failure. The threshold for statistical significance was established at 0.05 for all analyses.
+
+In the second assessment, the Mann–Whitney and Kruskal–Wallis tests were used to evaluate differences in MBL across various variables. The analyses of mesial and distal MBL included the IPD of both sides as an additional variable. Given that implants within the same patient are correlated, each implant was not considered independent in the statistical analysis. To address these correlations, linear mixed-effects models employing backward stepwise selection were utilized to identify associations between risk factors and MBL. In this analysis, only variables with avalue < 0.05 were retained in the final model.
+
+RESULTS
+
+Implant survival rate
+
+This study included 316 implants from 186 patients who had been followed for a long term (≥5 years); their descriptive statistics are detailed in. Implant losses occurred between 3.4 and 6.7 years after placement, with an overall survival rate of 98.1% (). The survival rate for patients with DM was 94.3%, which was lower than the 98.9% observed in patients without DM (). In terms of anatomical location, the survival rate in the mandible was 96.8%, which was lower than the 99.4% in the maxilla. Among the placement regions, the mandibular molar region exhibited the lowest survival rate at 96.2% (). The reported causes of failure of 6 implants were fixture fracture and peri-implantitis ().
+
+Table 1
+
+Cumulative survival rates for study variables
+
+Variables
+
+Implants
+
+Failed implants
+
+Cumulative survival rate (%)
+
+Sex
+
+Male
+
+157 (49.7)
+
+4 (66.7)
+
+97.5
+
+Female
+
+159 (50.3)
+
+2 (33.3)
+
+98.7
+
+Age (yr)
+
+<40
+
+17 (5.4)
+
+0 (0.0)
+
+100.0
+
+40–60
+
+81 (25.6)
+
+1 (16.7)
+
+98.8
+
+>60
+
+218 (69.0)
+
+5 (83.3)
+
+97.7
+
+Diabetic mellitus
+
+No
+
+263 (83.2)
+
+3 (50.0)
+
+98.9
+
+Yes
+
+53 (16.8)
+
+3 (50.0)
+
+94.3
+
+Smoking
+
+No
+
+294 (93.0)
+
+6 (100.0)
+
+98.0
+
+Yes
+
+22 (7.0)
+
+0 (0.0)
+
+100.0
+
+Placement region
+
+Maxillary anterior
+
+31 (9.8)
+
+0 (0.0)
+
+100.0
+
+Maxillary premolar
+
+51 (16.1)
+
+0 (0.0)
+
+100.0
+
+Maxillary molar
+
+79 (25.0)
+
+1 (16.7)
+
+98.7
+
+Mandibular anterior
+
+15 (4.7)
+
+0 (0)
+
+100.0
+
+Mandibular premolar
+
+36 (11.4)
+
+1 (16.7)
+
+97.2
+
+Mandibular molar
+
+104 (32.9)
+
+4 (66.7)
+
+96.2
+
+Jaw
+
+Maxilla
+
+161 (50.9)
+
+1 (16.7)
+
+99.4
+
+Mandible
+
+155 (49.1)
+
+5 (83.3)
+
+96.8
+
+Implant diameter (mm)
+
+Narrow (3.5)
+
+19 (6.0)
+
+0 (0.0)
+
+100.0
+
+Standard (4.0/4.5)
+
+213 (67.4)
+
+5 (83.3)
+
+97.7
+
+Wide (5.0/6.0)
+
+84 (26.6)
+
+1 (16.7)
+
+98.8
+
+Implant length (mm)
+
+Short (7.0/8.5)
+
+149 (47.2)
+
+3 (50.0)
+
+98.0
+
+Standard (10.0/11.5)
+
+167 (52.8)
+
+3 (50.0)
+
+98.2
+
+Staged surgery
+
+One-staged
+
+111 (35.1)
+
+0 (0.0)
+
+100.0
+
+Two-staged
+
+205 (64.9)
+
+6 (100.0)
+
+97.1
+
+Immediate implant
+
+No
+
+262 (82.9)
+
+5 (83.3)
+
+98.1
+
+Yes
+
+54 (17.1)
+
+1 (16.7)
+
+98.1
+
+Bone augmentation
+
+No
+
+212 (67.1)
+
+5 (83.3)
+
+97.6
+
+Yes
+
+104 (32.9)
+
+1 (16.7)
+
+99.0
+
+Prosthesis type
+
+Single
+
+155 (49.1)
+
+4 (66.7)
+
+97.4
+
+Splinted
+
+2 unit
+
+94 (29.7)
+
+2 (33.3)
+
+97.9
+
+≥3 unit
+
+67 (21.2)
+
+0 (0.0)
+
+100.0
+
+Total
+
+316 (186 patients)
+
+6
+
+98.1
+
+Values are presented as number (%).
+
+Table 2
+
+Description of the failed implants
+
+Sex/Age
+
+DM status
+
+Smoking status
+
+Implant position
+
+Implant diameter × Length
+
+Survival time (yr)
+
+Reason of failure
+
+Other information
+
+1
+
+F/67
+
+Yes
+
+No
+
+#46
+
+4.5×7.0 mm
+
+6.0
+
+Peri-implantitis
+
+2-stage, Single unit prosthesis
+
+2
+
+M/49
+
+No
+
+No
+
+#36
+
+4.0×10.0 mm
+
+6.1
+
+Fixture fracture
+
+2-stage, Immediate placement
+
+3
+
+M/67
+
+No
+
+No
+
+#37
+
+4.0×7.0 mm
+
+3.4
+
+Peri-implantitis
+
+2-stage, Single unit prosthesis
+
+4
+
+M/74
+
+No
+
+No
+
+#26
+
+5.0×10.0 mm
+
+5.5
+
+Fixture fracture
+
+2-stage, Single unit prosthesis
+
+5
+
+M/62
+
+Yes
+
+No
+
+#35
+
+4.0×10.0 mm
+
+6.7
+
+Peri-implantitis
+
+2-stage, 2-unit splinted prosthesis
+
+6
+
+M/62
+
+Yes
+
+No
+
+#36
+
+4.0×10.0 mm
+
+6.7
+
+Peri-implantitis
+
+2-stage, 2-unit splinted prosthesis
+
+DM: diabetes mellitus.
+
+Figure 3
+
+Kaplan–Meier cumulative survival curves for different variables. (A) Overall, (B) DM, and (C) placement region.
+
+(A) The overall cumulative implant survival rate of 98.1%. (B) The cumulative implant survival rate of 94.3% in patients with DM. (C) The cumulative implant survival rate among placement regions, with a 96.2% survival rate in the mandibular molar.
+
+DM: diabetes mellitus.
+
+Factors affecting the survival rate
+
+The results of the mixed-effects Cox hazard analysis of the risk factors are presented in. No statistically significant differences were observed between subcategories within each variable when comparing their hazard ratios (HRs). However, the magnitude of the HRs suggests potential differences among subcategories. For the sex variable, with male set as the reference group, the HR for female was 0.506. This indicates a lower likelihood of implant failure in female than in male; however, the difference was not statistically significant (=0.432). Among the age groups, the highest HR was observed for ages above 60 (HR, 2.348), but this result was also not statistically significant (=0.436). Patients with DM (HR, 4.670) exhibited an HR indicative of a more than fourfold risk elevation compared to patients without DM, although this was also not statistically significant (=0.059).
+
+For implant-related factors, higher HRs were observed in the mandible (HR, 5.107) and molar regions (HR, 3.484) relative to their respective reference groups, although these differences were also not statistically significant (>0.05). Regarding implant length and immediate placement, the risk difference compared to the reference was not relevant, suggesting a minimal impact on implant failure. Additionally, the variables of smoking status and splinted prostheses had CIs that were too wide to yield reliable estimates, indicating that further data are necessary to reassess these as potential risk factors.
+
+Table 3
+
+Mixed-effect Cox hazard analysis of risk factors for implant failure
+
+Variables
+
+HR
+
+95% CI
+
+value
+
+Lower CI
+
+Upper CI
+
+Sex
+
+Male
+
+1.000
+
+Female
+
+0.506
+
+0.093
+
+2.765
+
+0.432
+
+Age (yr)
+
+<40
+
+1.000
+
+40–60
+
+0.535
+
+0.063
+
+4.583
+
+0.568
+
+>60
+
+2.348
+
+0.274
+
+20.095
+
+0.436
+
+Diabetic mellitus
+
+No
+
+1.000
+
+Yes
+
+4.670
+
+0.942
+
+23.149
+
+0.059
+
+Smoking
+
+No
+
+1.000
+
+Yes
+
+0.000
+
+0.000
+
+N/A
+
+0.996
+
+Jaw
+
+Maxilla
+
+1.000
+
+Mandible
+
+5.107
+
+0.597
+
+43.719
+
+0.137
+
+Placement region
+
+Anterior
+
+1.000
+
+Premolar
+
+0.552
+
+0.064
+
+4.725
+
+0.587
+
+Molar
+
+3.484
+
+0.407
+
+29.816
+
+0.254
+
+Implant diameter (mm)
+
+Narrow (3.5)
+
+1.000
+
+Standard (4.0/4.5)
+
+2.669
+
+0.312
+
+22.858
+
+0.370
+
+Wide (5.0/6.0)
+
+0.499
+
+0.058
+
+4.276
+
+0.254
+
+Implant length (mm)
+
+Short (7.0/8.5)
+
+1.000
+
+Standard (10.0/11.5/13)
+
+0.916
+
+0.185
+
+4.537
+
+0.914
+
+Staged surgery
+
+One-staged
+
+1.000
+
+Two-staged
+
+1.661
+
+0.867
+
+3.183
+
+0.126
+
+Immediate placement
+
+No
+
+1.000
+
+Yes
+
+0.998
+
+0.117
+
+8.538
+
+0.998
+
+Bone augmentation
+
+No
+
+1.000
+
+Yes
+
+0.431
+
+0.050
+
+3.690
+
+0.442
+
+Splinted prosthesis
+
+Single
+
+1.000
+
+Splinted
+
+2 unit
+
+1.226
+
+0.224
+
+6.694
+
+0.814
+
+≥3 unit
+
+0.000
+
+0.000
+
+N/A
+
+0.995
+
+Event = 0 represents implant survival and event = 1 represents implant failure.
+
+HR: hazard ratio, CI: confidential interval, N/A: not applicable.
+
+Factors affecting MBL
+
+The distributions of the mesial and distal MBL are presented in. The overall mean MBL values were 0.59±1.36 mm and 0.68±1.36 mm for the mesial and distal sides, respectively. In patients without DM, the mean mesial and distal MBL values were 0.37±0.60 mm and 0.52±0.92 mm, respectively. In contrast, DM patients exhibited higher mesial and distal MBL values (1.43±2.63 and 1.31±2.33 mm, respectively). Although a higher MBL was observed in the DM group, these differences were not statistically significant (=0.067 for mesial,=0.064 for distal). A significant difference in the mesial MBL was noted in relation to staged surgery (=0.019), with 2-staged surgery exhibiting greater bone loss (0.72±1.54 mm). For distal MBL, the implant length had a statistically significant difference (=0.016), with longer implants (standard: 10.0 and 11.5 mm) associated with increased MBL.
+
+presents the results of the linear mixed-effects model with backward stepwise selection for predicting the mesial MBL. The backward stepwise method identified 3 statistically significant variables: DM, staged surgery, and mesial IPD. A positive association was observed for DM (Coeff.=0.614,=0.026), indicating that patients with DM tended to have higher mesial MBL values. In staged surgery, a significant positive association was found between 1- and 2-staged procedures. In contrast, the mesial IPD—an added variable—exhibited a negative correlation with the mesial MBL, suggesting that as the implant is placed deeper on the mesial side, the mesial MBL tends to decrease. A similar analysis was conducted for the distal MBL. In contrast to the mesial MBL, the distal IPD was the only variable with a statistically significant association (Coeff.=−0.327;<0.001; 95% CI, −0.467 to −0.187).
+
+Table 4
+
+Distribution of mesial and distal MBL according to study variables
+
+Variables
+
+Implants
+
+Mesial MBL
+
+Distal MBL
+
+No. (%)
+
+Mean ± SD
+
+Median
+
+Mean ± SD
+
+Median
+
+Sex
+
+Male
+
+100 (58.5)
+
+0.67±1.66
+
+0.12
+
+0.78±1.53
+
+0.25
+
+Female
+
+71 (41.5)
+
+0.47±0.77
+
+0.17
+
+0.54±1.08
+
+0.17
+
+value
+
+0.948
+
+0.370
+
+Age (yr)
+
+<40
+
+6 (3.5)
+
+0.37±0.32
+
+0.28
+
+0.13±0.20
+
+0.00
+
+40–60
+
+43 (25.1)
+
+0.40±0.72
+
+0.00
+
+0.63±1.20
+
+0.32
+
+>60
+
+122 (71.3)
+
+0.67±1.55
+
+0.15
+
+0.73±1.45
+
+0.22
+
+value
+
+0.524
+
+0.381
+
+Diabetic mellitus
+
+No
+
+136 (79.5)
+
+0.37±0.60
+
+0.00
+
+0.52±0.92
+
+0.09
+
+Yes
+
+35 (20.5)
+
+1.43±2.63
+
+0.26
+
+1.31±2.33
+
+0.44
+
+value
+
+0.067
+
+0.064
+
+Smoking
+
+No
+
+157 (91.8)
+
+0.61±1.42
+
+0.14
+
+0.69±1.41
+
+0.21
+
+Yes
+
+14 (8.2)
+
+0.31±0.36
+
+0.18
+
+0.60±0.67
+
+0.48
+
+value
+
+0.973
+
+0.399
+
+Placement region
+
+Anterior
+
+23 (13.5)
+
+0.32±0.38
+
+0.27
+
+0.40±0.61
+
+0.00
+
+Premolar
+
+49 (28.7)
+
+0.57±1.08
+
+0.21
+
+0.66±0.98
+
+0.44
+
+Molar
+
+99 (57.9)
+
+0.66±1.61
+
+0.00
+
+0.75±1.62
+
+0.21
+
+value
+
+0.419
+
+0.482
+
+Jaw
+
+Maxilla
+
+89 (52.0)
+
+0.46±0.68
+
+0.17
+
+0.65±1.02
+
+0.38
+
+Mandible
+
+82 (47.9)
+
+0.73±1.83
+
+0.00
+
+0.72±1.66
+
+0.00
+
+value
+
+0.342
+
+0.093
+
+Implant diameter
+
+Narrow (3.5)
+
+10 (5.8)
+
+0.40±0.48
+
+0.34
+
+0.33±0.53
+
+0.00
+
+Standard (4.0/4.5)
+
+120 (70.2)
+
+0.66±1.54
+
+0.20
+
+0.75±1.44
+
+0.37
+
+Wide (5.0/6.0)
+
+41 (24.0)
+
+0.42±0.85
+
+0.00
+
+0.56±1.27
+
+0.00
+
+value
+
+0.169
+
+0.178
+
+Implant length
+
+Short (7.0/8.5)
+
+98 (57.3)
+
+0.36±0.58
+
+0.05
+
+0.43±0.75
+
+0.00
+
+Standard (10.0/11.5)
+
+73 (42.7)
+
+0.89±1.94
+
+0.16
+
+1.02±1.85
+
+0.42
+
+value
+
+0.415
+
+0.016
+
+Staged surgery
+
+One-staged
+
+42 (24.6)
+
+0.19±0.32
+
+0.00
+
+0.38±0.55
+
+0.00
+
+Two-staged
+
+129 (75.4)
+
+0.72±1.54
+
+0.22
+
+0.78±1.53
+
+0.31
+
+value
+
+0.019
+
+0.252
+
+Immediate implant
+
+No
+
+146 (85.4)
+
+0.65±1.46
+
+0.18
+
+0.73±1.45
+
+0.28
+
+Yes
+
+25 (14.6)
+
+0.24±0.40
+
+0.00
+
+0.37±0.46
+
+0.17
+
+value
+
+0.173
+
+0.553
+
+Bone augmentation
+
+No
+
+110 (64.3)
+
+0.71±1.64
+
+0.00
+
+0.80±1.62
+
+0.21
+
+Yes
+
+61 (35.7)
+
+0.37±0.53
+
+0.20
+
+0.47±0.64
+
+0.32
+
+value
+
+0.791
+
+0.883
+
+Splinted prosthesis
+
+Single
+
+69 (40.4)
+
+0.56±0.84
+
+0.32
+
+0.65±1.13
+
+0.38
+
+Splinted
+
+102 (59.6)
+
+0.61±1.63
+
+0.00
+
+0.70±1.50
+
+0.00
+
+value
+
+0.073
+
+0.391
+
+Total
+
+171
+
+0.59±1.36
+
+0.14
+
+0.68±1.36
+
+0.24
+
+Mann–Whitneyor Kruskal–Wallis tests were used to determine the correlation between marginal bone loss and implant related factors (in millimeters).
+
+MBL: marginal bone loss, SD: standard deviation.
+
+Statistical significance (<0.05).
+
+Table 5
+
+Linear mixed-effect model with backward stepwise method predicting mesial MBL
+
+Variable
+
+Coeff.
+
+SD
+
+95% CI
+
+value
+
+DM (0 = no; 1 = yes)
+
+0.614
+
+0.276
+
+0.072, 1.155
+
+0.026
+
+Staged surgery (0 = 1-staged; 1 = 2-staged)
+
+0.410
+
+0.205
+
+−0.232, −0.055
+
+0.002
+
+Mesial IPD (mm)
+
+−0.143
+
+0.045
+
+0.008, 0.813
+
+0.046
+
+Intercept
+
+−0.665
+
+0.494
+
+−1.633, 0.303
+
+0.178
+
+SD: standard deviation, CI: confidence interval, MBL: marginal bone loss, DM: diabetes mellitus, IPD: implant placement depth, Coeff.: unstandardized regression coefficient.
+
+Statistical significance (<0.05).
+
+DISCUSSION
+
+This study reports on the outcomes for patients who received Evertisimplants and subsequent maintenance at SNUDH, with a minimum follow-up period of 5 years. The overall survival rate of these implants was 98.1%, with an average follow-up duration of 7.0±1.36 years, as shown in. A comparable high survival rate of 97.0% for the same type of implant was also documented by Sodnom-Ish et al. []. Additionally, other research on internal connection and tapered implants has shown survival rates ranging between 91.5% and 98.7% [].
+
+Implant survival is influenced by multiple factors related to the host, the implant fixture, the surgical procedure, and the prosthesis []. Zupnik et al. [] reported that DM significantly increased the odds of implant failure. Conversely, Windael et al. [] identified smoking and implant diameter as the only factors significantly affecting implant survival. In terms of surgical factors, Hong et al. [] determined that bone augmentation did not independently contribute to implant failure. Regarding prosthesis-related factors, Li et al. [] observed no significant differences in implant survival or marginal bone loss between splinted and non-splinted prostheses. Although numerous studies have explored variables that significantly impact implant survival, a consistent conclusion has not yet been reached.
+
+Thus, in this study, we selected several factors for analysis. Host-related factors included age, sex, smoking, and diabetes. Implant fixture-related factors encompassed placement region, jaw, implant diameter, and length. Factors related to implant surgery were bone augmentation, staged surgery, and immediate placement. Prosthesis-related factors considered were whether the implant prostheses were splinted or single crowns. When employing the mixed-effects Cox proportional hazards model to explore the influence of these independent variables on implant survival, variations in HR were noted among the subcategories. However, no statistically significant differences were observed across all variables ().
+
+Peri-implantitis is widely recognized as a significant cause of implant failure, often indicated by progressive MBL observable in radiographic images []. Accordingly, the ongoing monitoring of peri-implant MBL has been the subject of extensive research aimed at identifying its risk factors []. According to Chung et al. [], shorter and wider implants were associated with increased MBL. de Araújo Nobre et al. [] identified female and smoking as risk indicators for MBL ≥2 mm over a 5-year period. However, Mameno et al. [] reported no statistically significant correlations between MBL and certain established risk factors, including diabetes, smoking, and a history of periodontitis. Additionally, the vertical placement position of the implant, specifically the IPD, has been shown to affect MBL []. In this study, we identified risk factors for MBL by measuring the mesial and distal MBL of implants ≥5 years after placement, compared to baseline panoramic radiographs taken at the time of initial implant placement.
+
+Through the sequential elimination of statistically non-significant variables using a linear mixed-effects model with backward stepwise selection, we identified several factors associated with increased MBL: DM, 2-staged surgery, and IPD (). However, no association with MBL was observed for other variables, including sex, age, smoking, jaw, placement region, implant diameter, implant length, immediate placement, bone augmentation, and splinted prosthesis. A non-significant intercept (=0.178;) suggests that the baseline MBL may not be distinguishable from zero. This finding does not affect the model’s ability to identify key patterns and variations in the data.
+
+The coefficient of 0.614 indicates that patients with DM had a mean MBL that was 0.614 mm greater than those without DM. This finding aligns with a previous systematic review and meta-analysis [], which found that the mean MBL in DM patients was 0.776 mm greater than that in non-DM patients. Diabetic hyperglycemia can increase bone loss by altering the receptor activator of the nuclear factor kappa B ligand ratio and upregulating osteoclast activity [], which is likely to affect MBL around dental implants. Although DM status was not a statistically significant risk factor for implant survival (HR, 4.670;=0.059;), the survival rate of implants in patients with DM was 94.3%, which was lower than that of 98.9% in patients without DM (). This suggests that changes in MBL should be closely monitored in DM patients over long-term follow-up.
+
+This study found a statistically significant difference in the mesial MBL measurements according to whether staged surgery was performed (=0.019;); 0.72±1.54 mm for 2-staged surgery and 0.19±0.32 mm for 1-staged surgery. Similarly, staged surgery showed a coefficient of 0.410 (), with 2-staged surgery resulting in a mean MBL that was 0.410 mm greater than that associated with 1-staged surgery. 2-staged surgery, or submerging the implant, is thought to reduce the MBL compared with 1-staged (non-submerged) surgery by preventing implant overloading during the osseointegration period []. However, full-thickness flap elevation is performed during re-entry to connect the healing abutment in 2-staged surgery, which can lead to additional bone loss []. This may explain why MBL was observed to be greater with 2-staged surgery in our study. Although the clinical difference was not substantial between the two groups, 1-staged surgery may be preferred over 2-staged surgery as it minimizes MBL loss and requires fewer surgical procedures.
+
+Research on the causal relationship between implant length and MBL is limited. This study found a statistically significant difference in the distal MBL measurements according to implant length (=0.016;): 0.43±0.75 mm for short implants (7.0, 8.5 mm) and 1.02±1.85 mm for longer standard implants (10.0, 11.5 mm). While MBL has been reported to increase with implant length, it is generally not considered a significant factor in implant failure, as its relative proportion decreases with longer implants.
+
+The mean MBL measured from digital panoramic radiographs with ≥5 years of follow-up was 0.59±1.36 mm on the mesial side and 0.68±1.36 mm on the distal side (). These values are lower than those reported by Albrektsson et al. [], who reported marginal bone loss of 1 to 1.5 mm during the first year and less than 0.2 mm per year thereafter. The study of Nemati et al. [] reported the mesial MBL of bone-level, internal-type implants with a sandblasted, large grit, and acid-etched surface to be 1.28±0.29 mm after more than 1 year of follow-up []. Therefore, it is necessary to consider the unique characteristics of the Evertisimplant.
+
+Considering the impact of the macro-design of the Evertisimplant on MBL, studies have shown that tapered dental implants result in significantly less MBL compared to those with a straight design []. The Evertisimplant features a tapered design at both the crestal and apical ends, with a straight section in the middle that transmits static frictional force along the implant axis. This configuration not only increases primary stability by exerting a lateral compressive force on the cortical bone, but also shifts the load distribution to the crestal bone, which likely contributes to reduced MBL [].
+
+In the present study, a larger IPD, which indicates a deeper implant placement, was associated with lower MBL (Coeff.=−0.143,=0.046;). In other words, deeper implants had lower MBL. This finding aligns with Kumar et al. [], who reported that placing bone-level, internal connection type implants deeper than 1.5 mm subcrestally resulted in less MBL. However, another study reported higher peri-implant MBL when implants were placed deeper than 3 mm from the cemento-enamel junction of adjacent teeth [], highlighting the need for careful consideration of the IPD in such cases.
+
+This study has several limitations that should be acknowledged. First, as a retrospective analysis, it relied on existing clinical records and radiographic data, which may have introduced selection bias and limited the ability to control for all confounding variables. Second, the sample size, although sufficient for preliminary findings, may not provide the statistical power necessary to generalize results across diverse populations or to detect smaller effect sizes for certain risk factors where wide CIs were noted. Third, this study only included implants with a ≥5-year follow-up period, meaning that early failures were excluded. This approach aims to capture long-term outcomes, but it may overlook potential risk factors associated with early implant loss. Additionally, the MBL measurements were conducted using digital panoramic radiographs, which, despite being widely used, may lack the precision of 3-dimensional imaging techniques such as cone-beam computed tomography. This can lead to measurement variability and impact the accuracy of MBL assessments.
+
+Within the limitations of the study, our findings indicated a high cumulative survival rate (98.1%) for tapered-straight-tapered dental implants over a 5-year period. Multiple variables, including sex, age, DM, smoking, placement region, jaw, implant diameter, implant length, staged surgery, immediate placement, and splinted prosthesis, were investigated as multifactorial causes of implant survival and exhibited no statistically significant differences as risk factors. However, patients with DM, those undergoing 2-staged surgery, and those with increased IPD showed significantly increased MBL. Specifically, the negative correlation between IPD and MBL underscores the importance of optimizing IPD. The findings suggest that tapered-straight-tapered implants are advantageous for long-term survival and consistent clinical outcomes. Moreover, they highlight the critical effects of various clinical variables on implant outcomes, emphasizing the need for careful consideration of these factors in clinical decision-making to optimize the success of dental implants. Future prospective studies and multicenter clinical trials with strict control of confounding factors and long-term follow-ups are needed to further elucidate the clinical utility of tapered-straight-tapered implants.
