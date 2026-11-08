@@ -1031,3 +1031,11 @@ Logged by subagents at deviation time. `deviation-audit.py` flags types with ≥
 | 2026-11-08 | hong-2025-comparative-analysis-of-novel-damping | source-data-issue | Ethics text says prospective and retrospective; Table 4 Periotest ICC CI 0.78-0.99 vs text 0.97-0.99; R2 not equal to r squared; p=0.0039 for r=-0.870 vs p=0.0002 for r=-0.473 at same n; Trust force <3 N (intro) vs 0.6-0.8 N (Table 5) |
 | 2026-11-08 | hong-2025-comparative-analysis-of-novel-damping | category-judgment | implants/isq chosen: study defined by damping/stability measurement device comparison, not early-failure outcomes (no failures analysed); not implants/survival |
 | 2026-11-08 | hong-2025-comparative-analysis-of-novel-damping | date-fallback | No date in txt; 2025-01-01 used |
+| 2026-11-08 | lee-2023-risk-factors-impacting-the-survival | abstract-only | full text not retrieved; abstract only |
+| 2026-11-08 | lee-2023-risk-factors-impacting-the-survival | date-fallback | publication month/day absent; 2023-01-01 |
+| 2026-11-08 | lee-2023-risk-factors-impacting-the-survival | source-data-issue | abstract GBR vs non-GBR at replacement survival labels inconsistent with protective aHR 0.262; +/- unlabeled |
+| 2026-11-08 | kim-2024-risk-factors-for-the-failure | abstract-only | Abstract-only ingest; full text not retrieved |
+| 2026-11-08 | kim-2024-risk-factors-for-the-failure | date-fallback | No month/day in txt header; used 2024-01-01 |
+| 2026-11-08 | choi-2026-masseter-muscle-volume-and-cross | abstract-only | PubMed abstract only; full text not retrieved |
+| 2026-11-08 | choi-2026-masseter-muscle-volume-and-cross | date-fallback | no publication month/day in txt header; used 2026-01-01 |
+| 2026-11-08 | choi-2026-masseter-muscle-volume-and-cross | evidence-level-judgment | matched case-control mapped to retrospective (no case-control value in vocab) |
