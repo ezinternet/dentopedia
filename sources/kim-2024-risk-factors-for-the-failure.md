@@ -1,5 +1,5 @@
 ---
-title: "Risk factors for the failure of re-implanted dental implants: a 20-year retrospective study"
+title: "Risk factors for the failure of re-implanted dental implants: A 20-year retrospective study"
 authors: Kim CM, Lee JB, Um HS, Lee JK
 year: 2024
 date: 2024-01-01

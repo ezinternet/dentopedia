@@ -1,10 +1,10 @@
 ---
-title: "Risk factors impacting the survival of implants replaced following failure: a retrospective study"
+title: "Risk factors impacting the survival of implants replaced following failure: A retrospective study"
 authors: Lee D, Ko YC, Seol YJ, Koo KT, Lee YM, Lee J
 year: 2023
-date: 2023-01-01
+date: 2023-08-13
 doi: 10.1111/cid.13265
-journal: "Clinical Implant Dentistry and Related Research"
+journal: "Clin Implant Dent Relat Res"
 source: lee-2023-risk-factors-impacting-the-survival.md
 category: [implants/survival]
 evidence_level: retrospective

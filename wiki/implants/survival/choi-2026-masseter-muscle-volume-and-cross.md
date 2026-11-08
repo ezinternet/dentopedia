@@ -1,10 +1,10 @@
 ---
-title: "Masseter muscle volume and cross-sectional area as risk factors for late mechanical dental implant failure: a matched case-control study"
+title: "Masseter Muscle Volume and Cross-Sectional Area as Risk Factors for Late Mechanical Dental Implant Failure: A Matched Case-Control Study"
 authors: Choi HS, Lee EC, Pang EK
 year: 2026
-date: 2026-01-01
+date: 2026-10-19
 doi: 10.1111/clr.70188
-journal: "Clinical Oral Implants Research"
+journal: "Clin Oral Implants Res"
 source: choi-2026-masseter-muscle-volume-and-cross.md
 category: [implants/survival]
 evidence_level: retrospective
