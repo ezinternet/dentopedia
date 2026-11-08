@@ -1,0 +1,12 @@
+SELF-REPORTED PENICILLIN ALLERGY, ALTERNATIVE ANTIBIOTICS, AND IMPLANT OUTCOMES: A RETROSPECTIVE STUDY.
+Fetner A, Vilela N, Lu X, Shan G, Duarte PM. Clinical implant dentistry and related research. 2026. doi:10.1111/cid.70169. PMID 42454622.
+
+[ABSTRACT-ONLY — full text not retrieved]
+
+The effects of self-reported penicillin allergy and alternative antibiotic regimens on implant outcomes remain poorly investigated. Therefore, the aim of this study was to evaluate the association between self-reported penicillin allergy and the use of alternative antibiotics with post-implant placement surgical complications, early implant failure, and preloading crestal bone loss (PLCBL).
+
+This retrospective cohort study examined dental records of patients who received at least one dental implant. Patients who reported a penicillin allergy were identified as the exposed group, whereas patients without a reported penicillin allergy were selected as unexposed in a 1:2 exposed-to-unexposed ratio. Relevant patient- and implant-related factors were recorded. Implants were evaluated for postsurgical complications, PLCBL, and early failure. Data were analyzed using bivariate analyzes and mixed-effects regression models.
+
+A total of 179 subjects and 374 implants were evaluated. Early implant failure and surgical complications occurred in 6.1% and 8.0% of implants, respectively, while PLCBL was observed in 32.5% of implants. A higher prevalence of surgical complications and implant failure was observed among patients who reported a penicillin allergy compared with those without a reported allergy (p < 0.05). Implants prescribed azithromycin showed a higher prevalence of surgical complications, and those prescribed azithromycin or clindamycin had higher early failure rates compared with penicillin (p < 0.05). Regression analyzes showed that self-reported penicillin allergy was not independently associated with surgical complications, PLCBL, or early implant failure (p > 0.05). In exploratory multivariable analyzes, azithromycin and other alternative antibiotics were associated with higher odds of surgical complications compared with penicillin (p < 0.05). No significant associations were found between antibiotic type and PLCBL or early implant failure (p > 0.05).
+
+Self-reported penicillin allergy was not independently associated with early implant outcomes in this cohort. Certain alternative antibiotics were associated with a higher prevalence of early surgical complications, warranting further investigation in larger studies.

@@ -1,0 +1,12 @@
+DENTAL IMPLANT FAILURE RATES IN PATIENTS WITH SELF-REPORTED ALLERGY TO PENICILLIN.
+Zahra B, Nicholas B, Geoffrey R, Dina Z, Janal MN, Stuart F. Clinical implant dentistry and related research. 2022. doi:10.1111/cid.13082. PMID 35313065.
+
+[ABSTRACT-ONLY — full text not retrieved]
+
+In a number of previous studies, patients with reported penicillin allergies have been documented to experience higher rates of dental implant failure than those who had not reported this allergy. The authors of this study aimed to determine whether an increased risk of implant failure is associated with patient-reported penicillin allergy and which antibiotic was administered.
+
+A retrospective study was conducted through chart review of patients who received dental implants at the New York University College of Dentistry. Participants were eligible if they received one or more dental implants at the College and provided at least 1 year of follow-up data.
+
+The overall implant failure rate was 12.9%. The failure rate in patients who reported no allergy to penicillin and took amoxicillin was 8.4%, while the failure rate in the allergy-reporting group was 17.1% (adjusted OR = 2.22, 95% CI = 1.44-3.44). The failure rate in allergy-reporting patients who took Clindamycin was also higher than in those who took amoxicillin (19.9%; adjusted OR = 2.9, 95% CI = 1.77-4.47) or any antibiotic other than amoxicillin (20.9%; adjusted OR = 2.77, 95% CI = 1.77-4.32).
+
+Significant findings included a lower implant failure rate in patients taking amoxicillin than in patients taking other antibiotics. There was a significant increase in early implant failure in allergy reporting patients.
