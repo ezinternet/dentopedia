@@ -1,0 +1,13 @@
+PMID: 42881521
+Title: Chemical and laser desensitization approaches for managing dentin hypersensitivity after non-surgical periodontal therapy: A randomized clinical trial.
+Authors: Erdogan G, Acikgoz-Alparslan E, Buyukgoze-Dindar M
+Journal: Am J Dent 2026 Oct;39(5):226-232
+Source: PubMed abstract only (no PMC full text; not open access)
+
+This randomized clinical trial aimed to evaluate and compare the desensitizing efficacy of Gluma, Er,Cr:YSGG laser irradiation, and their combined application in Stage III/IV periodontitis patients presenting dentin hypersensitivity (DH) following non-surgical periodontal therapy (NSPT).
+
+62 patients were screened; 52 who met the inclusion criteria (Visual Analog Scale [VAS] > 4 and Schiff Cold Air Sensitivity Scale [SS] score 2-3) were randomized into three groups: Gluma (n= 18), Er,Cr:YSGG laser (n= 17) and combination therapy (n= 17). DH was assessed using VAS and SS at baseline, 1 week, 2 weeks, 1 month, 2 months, and 6 months. Four participants dropped out; analyses were conducted on 48 participants (16 per group). Statistical significance was set at alpha= 0.05.
+
+All treatment modalities produced significant reductions in both VAS and SS scores over time (P< 0.05). DH was greatest immediately after NSPT and decreased progressively across early follow-ups, with the most pronounced improvement observed up to the second month. At 6 months, a slight recurrence of sensitivity was noted; however, symptom levels remained improved relative to baseline. No statistically significant intergroup differences were detected at any evaluation point for either outcome (P> 0.05), indicating comparable performance of Gluma, Er,Cr:YSGG laser, and the combined protocol throughout the 6-month follow-up.
+
+Both chemical and laser-based desensitization therapies can be effectively and safely applied to manage post-NSPT dentin hypersensitivity in periodontitis patients. Nevertheless, clinicians should consider the possibility of symptom recurrence over longer follow-up and advise patients on appropriate maintenance or retreatment strategies.
