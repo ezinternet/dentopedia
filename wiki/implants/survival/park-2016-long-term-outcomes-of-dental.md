@@ -2,9 +2,9 @@
 title: "Long-term outcomes of dental implants placed in elderly patients: a retrospective clinical and radiographic analysis"
 authors: Park JC, Baek WS, Choi SH, Cho KS, Jung UW
 year: 2016
-date: 2016-01-01
+date: 2016-01-18
 doi: 10.1111/clr.12780
-journal: Clinical Oral Implants Research 2016
+journal: "Clinical oral implants research"
 source: park-2016-long-term-outcomes-of-dental.md
 category: [implants/survival]
 evidence_level: retrospective

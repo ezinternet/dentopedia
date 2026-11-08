@@ -1,6 +1,6 @@
 ---
-title: "Clinical outcome of narrow diameter implants: a retrospective study of 274 implants at a Korean university dental hospital"
-authors: "Kim et al."
+title: "Clinical outcome of narrow diameter dental implants: a 3-year retrospective study"
+authors: Kim JE, Yoon Y, Pae A, Kwon YD
 year: 2023
 doi: "10.1186/s40902-023-00394-6"
 journal: "Maxillofacial Plastic and Reconstructive Surgery"

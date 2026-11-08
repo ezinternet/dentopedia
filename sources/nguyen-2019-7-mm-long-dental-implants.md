@@ -1,6 +1,6 @@
 ---
-title: "Survival rate and marginal bone loss of 7-mm-long dental implants in medically compromised patients"
-authors: "Nguyen TTH et al."
+title: "7-mm-long dental implants: retrospective clinical outcomes in medically compromised patients"
+authors: Nguyen TTH, Eo MY, Cho YJ, Myoung H, Kim SM
 year: 2019
 doi: "10.5125/jkaoms.2019.45.5.260"
 pmid: "31728333"

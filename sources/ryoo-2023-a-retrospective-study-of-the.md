@@ -1,6 +1,6 @@
 ---
-title: "A retrospective study of the 10-year survival rate of RESTORE dental implants with a resorbable blast media surface and factors affecting survival"
-authors: "Ryoo et al."
+title: "A retrospective study of the long-term survival of RESTOREdental implants with resorbable blast media surface"
+authors: Ryoo KS, Kim PJ, Kim S, Cho YD, Ku Y
 year: 2023
 doi: "10.5051/jpis.2203340167"
 pmid: "37038831"

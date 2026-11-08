@@ -5457,3 +5457,19 @@ tags: []
 ## 소아치과 (Pediatric Dentistry)
 
 - [[pediatric-dentistry/juarez-lopez-2023-etiological-factors-molar-incisor-hypomineralization]] — 2023 · sr+ma · 25편 메타분석(44,037명): MIH 위험인자 — 임신 중 질환(OR 4.03), 영아기 전신질환(OR 4.06), 항생제(OR 1.76), 고열(OR 1.48), 저체중 출생(OR 1.23); 미숙아·제왕절개·호흡기 질환은 유의 없음
+
+### implants/survival · short-narrow · mbl — 한국 대학병원 임플란트 생존율 서베일런스 (added 2026-11-08)
+- [[implants/survival/yum-2023-the-cumulative-survival-rate-of]] — Yum 2023 · retrospective · 서울대치과병원 SLA(Dentium) 임플란트 782개/400명 보철 후 ≥5년, 누적 생존율 96.8%(실패 25: 치주염 17), 테이퍼형 HR 2.507만 유의, 평균 MBL 근심 1.85/원심 1.59 mm (DOI 10.5051/jpis.2301440072)
+- [[implants/survival/nam-2023-the-cumulative-survival-rate-of]] — Nam 2023 · retrospective · 서울대치과병원 마이크로스레드 임플란트 490개(151명) >10년, Kaplan-Meier 누적생존율 97.9%(실패 10), 2차 수술만 유의(HR 4.769) (DOI 10.5051/jpis.2203240162)
+- [[implants/survival/ryoo-2023-a-retrospective-study-of-the]] — Ryoo 2023 · retrospective · 서울대치과병원 RESTORE RBM 임플란트 247개(86명) 10~15년 누적생존율 92.5%, 실패 17(고정체 파절 10·주위염 6·나사 파절 1) (DOI 10.5051/jpis.2203340167)
+- [[implants/survival/kim-2025-clinical-evaluation-of-tapered-straight]] — Kim 2025 · retrospective · 서울대치과병원 tapered-straight-tapered SLA 임플란트 316개(186명) ≥5년 생존율 98.1%(실패 6), 유의한 위험인자 없음 (DOI 10.5051/jpis.2403220161)
+- [[implants/survival/hwang-2026-prediction-and-risk-factor-analysis]] — Hwang 2026 · retrospective · 임플란트 543개/256명 Cox vs 기계학습: Cox C-index 0.81, RSF 0.72; 전방부 식립·치주염 치아 대체가 위험요인 (초록만) (DOI 10.1002/jper.70112)
+- [[implants/survival/kim-2026-long-term-survival-rates-of]] — Kim 2026 · retrospective · 단국대 치과병원 장애 환자 137명 임플란트 465개 최대 10년, 누적 생존율 98.3%(중복장애 95.7%), 크라운 탈락 9.33% (DOI 10.1111/joor.70216)
+- [[implants/survival/jang-2011-a-retrospective-study-on-related]] — Jang 2011 · retrospective · 서울보훈병원 10년 후향 코호트 3,755명 임플란트 6,385개, 108개 실패(보고 생존율 96.33%); 연령·길이·위치·보철유형 유의 (본문 수치 불일치 주의) (DOI 10.4047/jap.2011.3.4.204)
+- [[implants/survival/park-2016-long-term-outcomes-of-dental]] — Park 2016 · retrospective · 65세 이상 346명 임플란트 902개 2~17년, 생존율 임플란트 기준 95.39%, 연령 자체는 영향 없음 (초록만) (DOI 10.1111/clr.12780)
+- [[implants/survival/hwang-2026-the-survival-of-dental-implants]] — Hwang 2026 · retrospective · 폐경 후 여성 806명 임플란트 1694개, 비스포스포네이트 99.13%·데노수맙 98.08%·대조 98.24% 유의차 없음 (초록만) (DOI 10.1111/cid.70122)
+- [[implants/survival/kim-2018-retrospective-radiographic-observational-study-of]] — Kim 2018 · retrospective · Straumann tissue-level 임플란트 1,692개(881명) 10년 누적 생존율 임플란트 단위 98.23%·환자 단위 95.70% (초록만) (DOI 10.1111/cid.12659)
+- [[implants/short-narrow/nguyen-2019-7-mm-long-dental-implants]] — Nguyen 2019 · retrospective · 서울대치과병원 전신 위험 환자 33명 7 mm 임플란트 47개, 평균 15개월 생존율 95.74%(실패 2, 구강암 재건 환자) (DOI 10.5125/jkaoms.2019.45.5.260)
+- [[implants/short-narrow/kim-2023-clinical-outcome-of-narrow-diameter]] — Kim 2023 · retrospective · 경희대치과병원 좁은직경 임플란트 274개 3년 생존율 92.4%, 흡연 OR 4.758·골다공증 OR 3.420 (DOI 10.1186/s40902-023-00394-6)
+- [[implants/short-narrow/pachiou-2026-survival-rate-and-prosthetic-complications]] — Pachiou 2026 · sr+ma · 오버덴처 지지 짧은 임플란트(<8 mm) 8편 189개 1년 생존율 97.2%, 환자 45.7% 유지관리 사건 (초록만) (DOI 10.1016/j.jdent.2026.106351)
+- [[implants/mbl/lee-2026-implant-survival-and-radiographic-outcome]] — Lee 2026 · retrospective · 기계가공 롱넥 임플란트 전치부 58명 117개 1년 생존율 97.43%, MBL 0.46 mm (DOI 10.1111/cid.70126)

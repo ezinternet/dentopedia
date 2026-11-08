@@ -1,12 +1,12 @@
 ---
-title: "Survival rate and marginal bone loss of 7-mm-long dental implants in medically compromised patients"
-authors: "Nguyen TTH et al."
+title: "7-mm-long dental implants: retrospective clinical outcomes in medically compromised patients"
+authors: Nguyen TTH, Eo MY, Cho YJ, Myoung H, Kim SM
 year: 2019
-date: 2019-10-31
+date: 2019-10-30
 doi: "10.5125/jkaoms.2019.45.5.260"
 pmid: "31728333"
 pmcid: "PMC6838352"
-journal: "J Korean Assoc Oral Maxillofac Surg 45(5):260"
+journal: "Journal of the Korean Association of Oral and Maxillofacial Surgeons"
 source: nguyen-2019-7-mm-long-dental-implants.md
 source_url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC6838352/"
 category: [implants/short-narrow]

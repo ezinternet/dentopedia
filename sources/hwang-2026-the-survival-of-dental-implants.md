@@ -1,6 +1,6 @@
 ---
 title: "The Survival of Dental Implants in Post-Menopausal Women Receiving Denosumab: A Retrospective Cohort Study"
-authors: Hwang J, Yoon Y, Byun G, Choi BJ, Ohe JY, Lee BS, Jung J
+authors: Hwang J, Yoon Y, Byun G, Choi BJ, Ohe JY, Lee BS, et al.
 year: 2026
 doi: 10.1111/cid.70122
 journal: "Clinical Implant Dentistry and Related Research"

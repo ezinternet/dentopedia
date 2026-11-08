@@ -1,10 +1,10 @@
 ---
-title: "Prediction and Risk Factor Analysis of Dental Implant Failure Using Cox Regression and Machine Learning"
+title: "Prediction and risk factor analysis of dental implant failure using Cox regression and machine learning"
 authors: Hwang IK, Ahn SH, Kim SK, Kim TI
 year: 2026
-date: 2026-01-01
+date: 2026-02-28
 doi: 10.1002/jper.70112
-journal: J Periodontol 2026
+journal: "Journal of periodontology"
 source: hwang-2026-prediction-and-risk-factor-analysis.md
 category: [implants/survival]
 evidence_level: retrospective

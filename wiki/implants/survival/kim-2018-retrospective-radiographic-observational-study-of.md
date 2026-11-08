@@ -1,11 +1,11 @@
 ---
 title: "Retrospective radiographic observational study of 1692 Straumann tissue-level dental implants over 10 years: I. Implant survival and loss pattern"
-authors: "Kim S, Jung UW, Cho KS, Lee JS"
+authors: Kim S, Jung UW, Cho KS, Lee JS
 year: 2018
-date: 2018-01-01
+date: 2018-08-15
 doi: "10.1111/cid.12659"
 pmid: "30110515"
-journal: "Clin Implant Dent Relat Res"
+journal: "Clinical implant dentistry and related research"
 source: kim-2018-retrospective-radiographic-observational-study-of.md
 category: [implants/survival]
 evidence_level: retrospective
