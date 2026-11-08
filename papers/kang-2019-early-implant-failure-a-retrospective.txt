@@ -1,0 +1,1175 @@
+INTRODUCTION
+
+Following the discovery that osseointegration can occur between titanium and bone [], dental implants have been considered to be a highly predictable treatment modality for replacing lost teeth in both partially [] and completely [] edentulous patients. Buser et al. [] retrospectively evaluated 511 implants with a sandblasted, large-grit, and acid-etched (SLA) surface, and reported a high 10-year success rate of 97%. However, not all implants are expected to show successful results, and adverse results that lead to implant removal are inevitable in routine practice due to the potential presence of many contributing factors.
+
+Implant failure has been categorized as early and late in retrospective studies according to different cutoff time points, such as at the time of abutment connection [], at the time of loading [], within several weeks after placement of the final prosthesis [], or at the time of first year after loading []. Recent studies have found that the prevalence of implant failure is higher in the early phase than in the late phase regardless of the loading time []. This might be largely attributed to the vulnerability of the early phase, during which the primary stability decreases while the secondary stability gradually increases []. Therefore, considerable interest has emerged in investigating the mechanism of early implant failure and the management interventions that are required to minimize the rate of implant failure.
+
+Esposito et al. [] suggested that early failure arises from a lack of osseointegration and that the clinically discernible mobility of an implant is a clear sign of early failure, rather than other parameters such as the patient experiencing pain or sensitivity, signs of infection, perifixtural radiolucency, and/or dull sounds when percussing. Horizontal mobility of the implant can be assessed by the striking method (e.g., Periotest, Medizintechnik Gulden, Modautal, Germany) or resonance-frequency analysis (RFA). Rotational mobility is often identified when engaging/disengaging a abutment or transducer peg while performing RFA of the implant.
+
+Considering that dental implants are placed in a complex biological environment, multiple factors could contribute to early implant failure. Numerous retrospective studies have shown that several patient-related [], surgeon-related [], and biomaterial-related [] factors can contribute to early implant failure. However, many of these studies used diverse implant systems with different designs, which could have greatly affected the results.
+
+Therefore, the aim of this retrospective study was to identify the factors influencing early implant failure at a single center using a single implant system (Luna, Shinhung, Seoul, Korea).
+
+MATERIALS AND METHODS
+
+The study was performed in accordance with the Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) guidelines and approved by the Institutional Review Board (IRB) at Dankook University (IRB No. DKUDH IRB 2019-06-002).
+
+Inclusion of participants
+
+This study recruited patients who received an implant-supported prosthesis using a single bone-level implant system (Luna, Shinhung) with a conical design and an SLA surface from January 2015 to December 2017 at Dankook University Dental Hospital. Patients with systemic disease were included if their condition was not a contraindication for implant surgery. Patients who were lost to follow-up and contact after implant placement were excluded from the study.
+
+Clinical procedures
+
+All implant placement procedures were carried out by 5 faculty members and 10 residents. Sinus-floor elevation (SFE) and/or guided bone regeneration (GBR) was performed in patients with insufficient vertical bone height and/or width of the ridge crest either prior to or combined with the implant placement procedure. Either a 1-stage or 2-stage protocol of implant placement was selected according to the primary stability of the implant or the necessity for a bone augmentation procedure. In the 2-stage protocol, the second-stage surgery for implant exposure was performed after 3–4 months of healing.
+
+All surgical procedures were performed under local anesthesia induced by 2% lidocaine HCl with 1:80,000 epinephrine (Huons, Seongnam, Korea). Sutures were generally removed at 14 days after surgery. The patients were followed up every 1–2 months, with the stability of implants checked using the striking method (Periotest, Medizintechnik Gulden) or RFA (Osstell ISQ, Osstell, Gothenburg, Sweden). Finally, patients with implants showing a Periotest value less than 0 [] or an implant stability quotient more than 70 [] were referred to the Department of Prosthodontics, Dankook University Dental Hospital.
+
+Data collection
+
+The following data were extracted from the dental charts of the patients by 2 examiners (J.C.P. and M.J.K.): age and sex of the patient, seniority of the surgeon, diameter and length of the implant fixture, jaw in which the implant was placed, position in the dental arch, protocol used for implant placement (1-stage or 2-stage), access approach for SFE, type of GBR procedure (preoperative and/or simultaneous), and dates of implant placement, removal, final prosthesis placement, initial loading, and radiography after final prosthesis delivery.
+
+This study defined early implant failure as an implant showing clinical mobility before placement of a final prosthesis or perifixtural radiolucency at the first radiograph taken within several weeks after placement of the final prosthesis []. Failed implants were removed after receiving consent from the patient, and the sites were restored using new implants or another prosthesis according to the modified treatment plan. The survival time of a failed implant was defined as a period from the date of implant placement to the date of implant removal. For the other surviving implants, the time was defined as the period from the date of implant placement to the date of the most recent follow-up.
+
+Data processing
+
+Implants were categorized according to the jaw in which they were placed (maxilla or mandible) and their position in the dental arch (anterior or posterior). Patients' age at implant placement was included in the multivariate analysis both after dividing the ages into 5 intervals and as the original numerical values. The surgeons were dichotomized into faculty members and residents. Data on the individual surgeons were also included in the analysis. Regenerative procedures were categorized regarding preoperative GBR (yes or no) and simultaneous GBR (yes or no). SFE was categorized in terms of descriptive statistics (none, crestal approach, and lateral approach) and in the Cox regression analysis (yes or no). The original numerical values of the diameter and length of the implants were analyzed without categorization.
+
+Statistical analysis
+
+Descriptive data were summarized as number and percentage or median and interquartile range (IQR) values to present the characteristics of the study population. The Shapiro-Wilk test was conducted to check the normality of the data distribution. Kaplan-Meier survival analysis was performed to estimate implant survival. Crude hazard ratios of each predictor for early implant failure were calculated based on a univariate Cox proportional-hazards model. The final model and adjusted hazard ratio were obtained using a backward stepwise regression method. The significance of each factor was assessed using the Wald test. In the univariate Cox regression analysis for early implant failure of individual surgeons, the faculty member who placed the largest number of implants was used as a reference to maximize the sample size. The criterion for statistical significance was set at<0.05, and the unit of analysis was the implant. Statistical analyses were carried out using RStudio software (version 1.2, RStudio, Inc., Boston, MA, USA).
+
+RESULTS
+
+Patient sample
+
+This study included 1,031 implants in 409 patients, with the exclusion of 5 implants in patients with whom contact was lost after implant placement. The included patients were followed up for a median of 7.2 months (IQR, 5.6–9.9 months) after implant placement. The prosthesis delivery for 42 implants in 16 patients had not been completed before the end of the study in June 2019.
+
+presents the distributions for all the placed implants and for the cases of early failure of each categorical variable in terms of the sex and age of the patient, implant location, seniority of the surgeon, surgical protocol, implant dimensions, and the regenerative procedure applied. The median age of the patients at the time of implant placement was 54 years (IQR, 47–61 years). Patients aged 50–59 years received the largest proportion of the implants (38.9%), followed by those aged 60–69 years (23.8%), 40–49 years (22.9%), ≥70 years (7.3%), and <40 years (7.2%). There were slightly more implants placed in maxilla (51.2%) than the mandible (48.8%), and 89.7% of the implants were placed in posterior edentulous areas of both jaws. Approximately 1.5 times more implants were placed by faculty members (62.1%) than residents (37.9%). The surgeons preferred implants with a diameter of 5 mm (45.4%) and a length of 8.5 mm (65.0%). More than two-thirds of the implants (69.1%) were placed using the 1-stage protocol. SFE was performed for 21.5% of the implants. A GBR procedure was more commonly performed during implant placement (30.5%) than before implant placement (8.8%).
+
+Table 1
+
+Descriptive data of the included patients
+
+Variable
+
+All placed implants (n=1,031)
+
+Early failures (n=35)
+
+Sex
+
+Male
+
+624 (60.5)
+
+23 (65.7)
+
+Female
+
+407 (39.5)
+
+12 (34.3)
+
+Age (yr)
+
+<40
+
+74 (7.2)
+
+1 (2.9)
+
+40–49
+
+236 (22.9)
+
+7 (20.0)
+
+50–59
+
+401 (38.9)
+
+14 (40.0)
+
+60–69
+
+245 (23.8)
+
+12 (34.3)
+
+≥70
+
+75 (7.3)
+
+1 (2.9)
+
+Jaw
+
+Maxilla
+
+528 (51.2)
+
+11 (31.4)
+
+Mandible
+
+503 (48.8)
+
+24 (68.6)
+
+Position
+
+Anterior
+
+106 (10.3)
+
+3 (8.6)
+
+Posterior
+
+925 (89.7)
+
+32 (91.4)
+
+Surgeon
+
+Faculty member
+
+640 (62.1)
+
+11 (31.4)
+
+Resident
+
+391 (37.9)
+
+24 (68.6)
+
+Protocol
+
+1-stage
+
+712 (69.1)
+
+21 (60.0)
+
+2-stage
+
+319 (30.9)
+
+14 (40.0)
+
+Implant diameter (mm)
+
+3.5
+
+45 (4.4)
+
+3 (8.6)
+
+4.0
+
+216 (21.0)
+
+7 (20.0)
+
+4.5
+
+281 (27.3)
+
+6 (17.1)
+
+5.0
+
+468 (45.4)
+
+17 (48.6)
+
+6.0
+
+21 (2.0)
+
+2 (5.7)
+
+Implant length (mm)
+
+7.0
+
+157 (15.2)
+
+0 (0.0)
+
+8.5
+
+670 (65.0)
+
+25 (71.4)
+
+10.0
+
+187 (18.1)
+
+10 (28.6)
+
+11.5
+
+15 (1.5)
+
+0 (0.0)
+
+13.0
+
+2 (0.2)
+
+0 (0.0)
+
+SFE access approach
+
+None
+
+809 (78.5)
+
+31 (88.6)
+
+Crestal
+
+37 (3.6)
+
+0 (0.0)
+
+Lateral
+
+185 (17.9)
+
+4 (11.4)
+
+Preoperative GBR
+
+No
+
+940 (91.2)
+
+32 (91.4)
+
+Yes
+
+91 (8.8)
+
+3 (8.6)
+
+Simultaneous GBR
+
+No
+
+717 (69.5)
+
+26 (74.3)
+
+Yes
+
+314 (30.5)
+
+9 (25.7)
+
+Data and number (%) values.
+
+GBR: guided bone regeneration, SFE: sinus-floor elevation.
+
+Implant survival
+
+Altogether, 35 implants were removed before prosthesis delivery, and 8 implants were removed after final prosthesis cementation, which were considered cases of late failure. At the patient level, 26 and 7 patients experienced early and late implant failure, respectively. The cumulative survival rate (CSR) in the early phase at the implant level was 95.6%. In terms of seniority of the surgeon, the CSRs in the early phase for faculty members and residents were 97.5% and 92.6%, respectively. The Kaplan-Meier estimates are illustrated in.
+
+The patient-, implant-, surgery-, and surgeon-related characteristics of cases of early implant failure are presented in. Multiple implants failed in the early phase at different sites in 5 patients, and 2 implants failed at the same site in 1 patient. One of the early failures was attributed to unwanted occlusal contact between the healing abutment and the antagonist tooth. With the exception of 4 implants with signs of infection and 1 implant with pain and/or discomfort, the information needed to identify the cause of early failure in most implants was absent.
+
+Figure 1
+
+Findings of the implant survival analysis. (A) Overall Kaplan-Meier survival estimates for implant-based analysis in the early phase. (B) Kaplan-Meier survival estimates in the early phase grouped according to seniority of the surgeon.
+
+Table 2
+
+Case list of early implant failures
+
+Patient ID
+
+Sex
+
+Age (yr)
+
+Diameter (mm)
+
+Length (mm)
+
+No. of tooth
+
+GBR
+
+SFE
+
+Protocol (stages)
+
+Surgeon ID
+
+Remark
+
+1
+
+Male
+
+47
+
+3.5
+
+8.5
+
+42
+
+Simultaneous
+
+1
+
+1
+
+2
+
+Male
+
+38
+
+4
+
+10
+
+14
+
+1
+
+1
+
+Signs of infection
+
+3
+
+Male
+
+43
+
+5
+
+10
+
+26
+
+Lateral
+
+2
+
+1
+
+Signs of infection
+
+5
+
+10
+
+27
+
+Lateral
+
+2
+
+1
+
+Signs of infection
+
+4
+
+Male
+
+60
+
+4
+
+10
+
+34
+
+1
+
+1
+
+Symptoms of pain and discomfort
+
+5
+
+Male
+
+74
+
+4
+
+8.5
+
+34
+
+1
+
+1
+
+6
+
+Male
+
+52
+
+4
+
+8.5
+
+14
+
+Simultaneous
+
+1
+
+2
+
+7
+
+Male
+
+45
+
+5
+
+8.5
+
+36
+
+Simultaneous
+
+1
+
+2
+
+8
+
+Male
+
+47
+
+5
+
+8.5
+
+36
+
+1
+
+2
+
+9
+
+Female
+
+43
+
+4.5
+
+8.5
+
+46
+
+1
+
+2
+
+Signs of infection
+
+10
+
+Female
+
+54
+
+4.5
+
+8.5
+
+37
+
+1
+
+3
+
+11
+
+Female
+
+54
+
+3.5
+
+10
+
+31
+
+Simultaneous
+
+2
+
+6
+
+12
+
+Male
+
+63
+
+3.5
+
+8.5
+
+42
+
+Simultaneous
+
+1
+
+6
+
+13
+
+Female
+
+63
+
+5
+
+8.5
+
+36
+
+Preoperative
+
+2
+
+6
+
+Proximity of 2 fixtures
+
+5
+
+8.5
+
+37
+
+2
+
+6
+
+14
+
+Male
+
+54
+
+4
+
+8.5
+
+34
+
+Preoperative
+
+2
+
+6
+
+Suspected uncontrolled DM
+
+5
+
+8.5
+
+37
+
+Preoperative
+
+2
+
+6
+
+15
+
+Male
+
+66
+
+5
+
+8.5
+
+37
+
+2
+
+6
+
+5
+
+10
+
+37
+
+1
+
+6
+
+16
+
+Female
+
+55
+
+5
+
+8.5
+
+16
+
+Lateral
+
+1
+
+6
+
+17
+
+Female
+
+58
+
+5
+
+8.5
+
+16
+
+2
+
+6
+
+5
+
+8.5
+
+17
+
+2
+
+6
+
+Occlusal contact between healing abutment of 17 implant and tooth 47
+
+6
+
+10
+
+27
+
+1
+
+6
+
+18
+
+Female
+
+53
+
+4.5
+
+8.5
+
+46
+
+1
+
+7
+
+19
+
+Female
+
+54
+
+4.5
+
+8.5
+
+26
+
+Simultaneous
+
+2
+
+7
+
+20
+
+Male
+
+58
+
+5
+
+10
+
+47
+
+1
+
+7
+
+21
+
+Male
+
+42
+
+4
+
+8.5
+
+34
+
+1
+
+7
+
+22
+
+Male
+
+62
+
+5
+
+10
+
+37
+
+1
+
+8
+
+23
+
+Male
+
+51
+
+4
+
+8.5
+
+14
+
+2
+
+9
+
+24
+
+Male
+
+60
+
+4.5
+
+8.5
+
+35
+
+1
+
+11
+
+Suspected uncontrolled DM
+
+5
+
+8.5
+
+36
+
+1
+
+11
+
+4.5
+
+8.5
+
+45
+
+Simultaneous
+
+2
+
+11
+
+5
+
+8.5
+
+46
+
+Simultaneous
+
+2
+
+11
+
+25
+
+Male
+
+61
+
+5
+
+10
+
+47
+
+1
+
+11
+
+26
+
+Female
+
+59
+
+6
+
+8.5
+
+17
+
+Simultaneous
+
+Lateral
+
+1
+
+13
+
+GBR: guided bone regeneration, SFE: sinus-floor elevation, DM: diabetes mellitus.
+
+Cox regression analysis
+
+The multivariate Cox regression analysis indicated that implants placed by residents and in the mandible had a significantly higher risk of early failure after adjusting for sex, age, implant dimensions, access approach for SFE, preoperative GBR, and simultaneous GBR (<0.05) (). An analysis of individual surgeons found hazard ratios of 12.76 (95% confidence interval [CI], 3.89–41.88), 8.46 (95% CI, 3.17–22.56), and 4.01 (95% CI, 1.13–14.21) for residents 11, 6, and 7 respectively, compared to faculty member 1 (<0.05) ().
+
+Table 3
+
+Findings of the univariate and multivariate Cox regression analyses for early implant failure
+
+Variable
+
+Univariate regression
+
+Multivariate regression
+
+cHR (95% CI)
+
+P
+
+aHR (95% CI)
+
+P
+
+Female (reference: male)
+
+0.89 (0.44–1.81)
+
+0.752
+
+Age
+
+1.01 (0.98–1.05)
+
+0.462
+
+Mandible (reference: maxilla)
+
+1.99 (0.84–4.72)
+
+0.117
+
+2.31 (1.12–4.76)
+
+0.023
+
+Posterior (reference: anterior)
+
+1.36 (0.32–5.78)
+
+0.677
+
+Resident surgeon (reference: faculty member)
+
+2.69 (1.27–5.71)
+
+0.001
+
+2.86 (1.37–5.94)
+
+0.005
+
+1-stage (reference: 2-stage)
+
+0.68 (0.33–1.40)
+
+0.293
+
+Implant diameter
+
+0.98 (0.44–2.21)
+
+0.966
+
+Implant length
+
+1.36 (0.93–1.99)
+
+0.108
+
+1.33 (0.94–1.90)
+
+0.112
+
+SFE (reference: none)
+
+0.66 (0.19–2.36)
+
+0.527
+
+Preoperative GBR (reference: none)
+
+0.89 (0.27–2.94)
+
+0.849
+
+Simultaneous GBR (reference: none)
+
+0.63 (0.28–1.42)
+
+0.266
+
+cHR: crude hazard ratio, aHR: adjusted hazard ratio, CI: confidence interval, GBR: guided bone regeneration, SFE: sinus-floor elevation.
+
+Wald test=18.53 for 3 degrees of freedom,<0.001;Significant difference.
+
+Table 4
+
+Distribution and findings of the univariate Cox regression analysis for early implant failure according to individual surgeons
+
+Surgeon ID
+
+All placed implants (n=1,031)
+
+Early failures (n=35)
+
+cHR
+
+CI
+
+P
+
+Faculty members
+
+1 (reference)
+
+406 (39.4)
+
+6 (17.1)
+
+1.00
+
+2
+
+202 (19.6)
+
+4 (11.4)
+
+1.41
+
+0.40–5.00
+
+0.594
+
+3
+
+25 (2.4)
+
+1 (2.9)
+
+2.85
+
+0.34–23.67
+
+0.333
+
+4
+
+4 (0.4)
+
+0 (0.0)
+
+5
+
+3 (0.3)
+
+0 (0.0)
+
+Subtotal
+
+640 (62.1)
+
+11 (31.4)
+
+Residents
+
+6
+
+108 (10.5)
+
+12 (34.3)
+
+8.46
+
+3.17–22.56
+
+<0.001
+
+7
+
+65 (6.3)
+
+4 (11.4)
+
+4.01
+
+1.13–14.21
+
+0.032
+
+8
+
+55 (5.3)
+
+1 (2.9)
+
+1.11
+
+0.13–9.24
+
+0.922
+
+9
+
+44 (4.3)
+
+1 (2.9)
+
+1.50
+
+0.18–12.48
+
+0.707
+
+10
+
+36 (3.5)
+
+0 (0.0)
+
+11
+
+26 (2.5)
+
+5 (14.3)
+
+12.76
+
+3.89–41.88
+
+<0.001
+
+12
+
+19 (1.8)
+
+0 (0.0)
+
+13
+
+18 (1.7)
+
+1 (2.9)
+
+3.65
+
+0.44–30.30
+
+0.231
+
+14
+
+15 (1.5)
+
+0 (0.0)
+
+15
+
+5 (0.5)
+
+0 (0.0)
+
+Subtotal
+
+391 (37.9)
+
+24 (68.6)
+
+Data and number (%) values except where indicated otherwise.
+
+cHR: crude hazard ratio, CI: confidence interval.
+
+Significant difference.
+
+DISCUSSION
+
+This retrospective assessment of the factors contributing to early implant failure found that the early failure rate of a single implant system was 4.4% at the implant level and that the implant position and seniority of the surgeon were significantly associated with the risk of early implant failure.
+
+Highly predictable long-term results of oral rehabilitation using dental implants have been documented in efficacy studies performed over the past 50 years []. Recent retrospective observational studies have assessed the effectiveness of implant therapy and analyzed risk factors for implant failure with the aim of further improving treatment outcomes. The current study also focused on the latter aspects, but only included patients who received implant treatment using a single implant system at a single center in order to minimize the possible confounding effects of the surface or system of the implant, such as the higher survival rates of modern implants with moderately rough surfaces [] or differences between implant brands []. In addition, the present study focused on implant failure only during the early phase, during which the incidence of failure is reportedly higher than during the late phase [].
+
+The prevalence of early failure in the present study was within the previously reported range at the implant level (1.3%–6.36%) []. However, it should be noted that the rates can vary with the cutoff time point used to divide the early and late phases. Setting the cutoff time as the time of abutment connection has the advantage of minimizing heterogeneity resulting from differences in the timing of loading and the loading methods. Meanwhile, setting the cutoff time as 1-year after final prosthesis delivery can reflect delayed failures suspected to have been initiated during implant surgery and the tendency for radiographic evaluations to be performed for evaluating marginal bone loss.
+
+A cluster behavior, defined as more than 1 implant failure per patient (not necessarily in the same area or quadrant []) was observed in 6 patients (23%), accounting for 43% of early implant failures. The relevance of repetitive failures at the same site is supported by a recent meta-analysis finding that the weighted survival rate of implants placed at sites of previous failures was 86.7%, with this rate decreasing to 67.1% at sites where the previous implants had failed twice []. Therefore, maintaining the survival rate requires the cause of failure to be identified and fully considered in the second attempt of implant placement at sites of previous failures, in order to prevent yet another failure.
+
+The effect of age on implant failure is controversial. Moy et al. [] reported that the rate of implant failure was higher among patients aged >60 years. Decreased bone quality and impaired wound healing [] may alter the tissue response to implant placement. However, the increasing frequency of systemic diseases and/or medication usage with age may act as confounders. Park et al. [] recently reported a high survival rate in elderly people (older than 65 years) after appropriately controlling for systemic disease and carefully selecting the implant system. The present study similarly found no significant age-related differences.
+
+Implants placed in the mandible were found to have a higher risk of early failure in this study. This finding is inconsistent with a recent meta-analysis finding that the weighted odds ratio for early implant failure was unfavorable for maxilla placement []. However, the present study mostly included partially edentulous patients, with the exception of 2 patients who received implant treatment for overdenture. Partially edentulous patients have been shown to have similar failure rates in the maxilla and mandible, whereas the implant failure rate in overdenture patients is almost 3 times higher for implants placed in the maxilla []. In addition, Jemt et al. [] reported that the early failure rate of implants placed in the maxilla decreased dramatically (from 17.2% to 3.8%) after adopting the use of implants with a moderately rough surface. The odds ratio for the maxilla relative to the mandible for implants with rough surfaces decreased to less than half of that for a turned surface, although the early failure rate in the mandible was higher for implants with either a turned or moderately rough surface []. Therefore, the higher risk of early implant failure in the mandible should be interpreted in the context of the characteristics of patients and implants, as demonstrated in the present study.
+
+This study found that the early failure rate was higher for 6-mm-diameter implants (9.5%) than for 5-mm-diameter implants (3.6%). Two-thirds of implants with a diameter of 6 mm (14 of 21 implants), including 2 early failed implants, were placed by residents. Whether the 2 failures were caused by a lack of primary stability is unclear considering that the implants were placed using the 1-stage protocol without recorded parameters regarding primary stability in the dental chart. However, the 6-mm-diameter implants might have been chosen because the initial fixation was not sufficient with a 5-mm-diameter implant, which was the preferred diameter in the posterior area for the concept of a “rescue” implant []. Therefore, competency-based surgical training designed to obtain substantial primary stability using pre-planned diameter implants is needed.
+
+It is well known that the length of an implant has less effect than its diameter on dispersing occlusal loads []. In addition, it has been reported that the outcomes for short implants (less than 8 mm) appear to be as predictable as those for standard-length implants placed in augmented bone []. Placing a short implant will reduce the degree of invasion into surrounding anatomical structures and the need for regenerative procedures. In the current study, the failure rate was higher for 10-mm-long implants than for 8.5-mm-long implants, but the difference was found to be insignificant in the multivariate Cox regression analysis.
+
+A retrospective study found that the survival rate of implants did not appear to be associated with the experience of the 80 included surgeons []. Meanwhile, another study found that a learning curve was present for implant placement, in that the early failure rate was 2-fold higher for surgeons who had previously placed fewer than 50 implants than for surgeons who had placed more than 50 implants []. The present study found that the early failure rate was significantly lower for faculty members than for residents. This suggests that the experience or competence of the surgeon influences the early failure rate of dental implants. Among individual surgeons, only 3 of the present residents showed significantly higher hazard ratios than the reference faculty member. This result for the 3 surgeons is consistent with Jemt et al. [], who suggested that the individual personality or attitude of the surgeon can affect the implant outcome, based on the rate of implant failure being significantly lower for 1 surgeon who preferred a 2-stage protocol and delayed implantation after tooth extraction.
+
+The main limitation of this study is that the medical histories of patients were not fully scrutinized. However, recent studies did not identify any medical conditions that significantly increased the risk of implant failure []. Furthermore, eliciting and recording the medical history only based on the verbal statements of patients might provide incomplete or inaccurate information [], and so the present study only considered local factors of patients about which information was available to the authors. Another limitation is that parameters regarding bone quality and quantity were not analyzed. Lekholm and Zarb [] categorized the jawbone into 4 types based on the cortical bone thickness and trabecular bone pattern. However, the classification may be subjective, prone to bias, and lacks consideration of bone health and vascularity []. The effect of alveolar ridge atrophy on early implant failure can vary considerably according to the implant position and dimension. Therefore, it might be helpful for avoiding bias to use postoperative parameters such as peri-implant bone wall thickness, dehiscence, or fenestration size when analyzing bone quantity. As such, bone augmentation procedures in combination with implant placement, as analyzed in this study, can be an indicator of insufficient bone quantity.
+
+Recently developed implants have macro-level designs and surfaces that improve the primary stability and facilitate osseointegration. Nevertheless, implant failure is still observed in routine practice. The present study found that seniority of the surgeon and the position of the bone bed of patients significantly affected the likelihood of early implant failure using a single-implant system (Luna, Shinhung). Considering that the characteristics of the surgeon strongly influenced early implant failure, educational programs should be developed for increasing surgical competency and performance, and further prospective studies are warranted.

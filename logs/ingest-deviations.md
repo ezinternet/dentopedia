@@ -968,3 +968,66 @@ Logged by subagents at deviation time. `deviation-audit.py` flags types with ≥
 | 2026-11-08 | lee-2026-implant-survival-and-radiographic-outcome | category-judgment | Chose implants/mbl over suggested implants/survival: paper's stated primary aim lists MBL, bone width/height first (survival/success co-primary); survival/MBL both defensible. Title not in txt; descriptive title composed from the paper's stated aim. |
 | 2026-11-08 | ryoo-2023-a-retrospective-study-of-the | source-data-issue | Failure-cause percentages differ between Results (55.82%/35.29%) and Discussion (55.56%/38.89%); page uses Table 2 counts 10/6/1 |
 | 2026-11-08 | kim-2025-clinical-evaluation-of-tapered-straight | source-data-issue | Table 5 printed CIs do not match stated coefficients; coefficients and p-values only reported |
+| 2026-11-08 | ankaya-2025-evaluation-of-factors-affecting-implant | abstract-only | Abstract-only ingest; no full text, no effect sizes |
+| 2026-11-08 | ankaya-2025-evaluation-of-factors-affecting-implant | date-fallback | No publication date in txt header; used 2025-01-01 |
+| 2026-11-08 | sezer-2023-covid-19-as-a-factor | abstract-only | no PMC; PubMed abstract only |
+| 2026-11-08 | sezer-2023-covid-19-as-a-factor | date-fallback | no publication date in txt header; used 2023-01-01 |
+| 2026-11-08 | zahra-2022-dental-implant-failure-rates-in | abstract-only | PubMed abstract only; no PMC; n, covariates, early-failure definition/rate not available |
+| 2026-11-08 | zahra-2022-dental-implant-failure-rates-in | category-judgment | Placed in drug/antibiotics (defined by penicillin allergy and antibiotic given) rather than implants/survival |
+| 2026-11-08 | zahra-2022-dental-implant-failure-rates-in | date-fallback | No publication date in txt header; used 2022-01-01 |
+| 2026-11-08 | rosen-2024-multiple-dental-implant-failures-a | abstract-only | PubMed abstract only, no PMC; built from abstract |
+| 2026-11-08 | rosen-2024-multiple-dental-implant-failures-a | no-doi | No DOI in PubMed record; doi: null |
+| 2026-11-08 | rosen-2024-multiple-dental-implant-failures-a | date-fallback | Only year 2024 in header; date 2024-01-01 |
+| 2026-11-08 | rosen-2024-multiple-dental-implant-failures-a | source-data-issue | Abstract inconsistencies: periodontitis P > 0.001; risk factor lists differ between results and conclusion |
+| 2026-11-08 | zhang-2024-risk-factors-for-implant-failure | abstract-only | PubMed abstract only; case report + literature review, no full text |
+| 2026-11-08 | zhang-2024-risk-factors-for-implant-failure | date-fallback | no publication date in txt header; used 2024-01-01 |
+| 2026-11-08 | sobhani-2025-periodontitis-type-2-diabetes-and | abstract-only | full text not retrieved; ingested from abstract |
+| 2026-11-08 | sobhani-2025-periodontitis-type-2-diabetes-and | date-fallback | no publication date in txt header; used 2025-01-01 |
+| 2026-11-08 | li-2026-impact-of-schneiderian-membrane-pathological | abstract-only | PubMed abstract only, no PMC full text |
+| 2026-11-08 | li-2026-impact-of-schneiderian-membrane-pathological | date-fallback | publication month/day unavailable; set 2026-01-01 |
+| 2026-11-08 | griffin-2025-insights-into-early-and-late | abstract-only | PubMed abstract only; no PMC full text |
+| 2026-11-08 | griffin-2025-insights-into-early-and-late | source-data-issue | Abstract reports 7.1% failure rate; matches 9,423/132,675 veterans not 13,492/468,496 implants (~2.9%) |
+| 2026-11-08 | griffin-2025-insights-into-early-and-late | date-fallback | No publication date in txt; used 2025-01-01 |
+| 2026-11-08 | jonas-2026-impact-of-hypertension-and-antihypertensive | abstract-only | PubMed abstract only; no PMC full text |
+| 2026-11-08 | jonas-2026-impact-of-hypertension-and-antihypertensive | date-fallback | No publication date in txt header; used 2026-01-01 |
+| 2026-11-08 | fetner-2026-self-reported-penicillin-allergy-alternative | abstract-only | PMC body empty; ingested from abstract (full_text: false) |
+| 2026-11-08 | fetner-2026-self-reported-penicillin-allergy-alternative | empty-pmc-text | PMC13370837 body returned empty |
+| 2026-11-08 | fetner-2026-self-reported-penicillin-allergy-alternative | category-judgment | Placed in drug/antibiotics (defined by antibiotic exposure/allergy) rather than implants/survival |
+| 2026-11-08 | fetner-2026-self-reported-penicillin-allergy-alternative | date-fallback | Publication month absent in txt; date 2026-01-01 |
+| 2026-11-08 | abrishami-2023-analyzing-the-causes-and-frequency | source-data-issue | Retrieved text has no title/author/journal/date; title, journal (from DOI prefix) and date (2023-01-01) provisional; tables not extracted (loading-time direction unknown); early window 3-5 vs 3-4 months |
+| 2026-11-08 | jonas-2024-the-impact-of-sinus-anatomy | source-data-issue | lateral wall OR 0.67 p=.054 not significant but Conclusions call it significant protective; txt lacks title/authors header (taken from PubMed metadata), tables absent |
+| 2026-11-08 | jonas-2024-the-impact-of-sinus-anatomy | category-judgment | sinus-lift/lateral chosen: lateral-window augmentation cohort; primary axis EIF but sinus-defined |
+| 2026-11-08 | masri-2023-the-effect-of-proton-pump | date-fallback | No pub date in txt; used 2023-02-01 (Medicina 59(2)) |
+| 2026-11-08 | masri-2023-the-effect-of-proton-pump | source-data-issue | Txt lacks title line and tables; title reconstructed. Discussion says only anterior mandible significant vs Results PPI OR 1.91; patient-level age/ASA percentages contradictory |
+| 2026-11-08 | masri-2023-the-effect-of-proton-pump | category-judgment | PPI-defined study but no drug/ PPI folder; implants/survival (medications affecting osseointegration, early-failure) chosen |
+| 2026-11-08 | frumkin-2024-effect-of-osteopenia-and-osteoporosis | source-data-issue | Methods say 152 patients in first-failure cohort, Results say 146 randomly selected, planned n 156; no title/author/date/tables in retrieved txt |
+| 2026-11-08 | frumkin-2024-effect-of-osteopenia-and-osteoporosis | date-fallback | No publication date in txt; used 2024-01-01; title reconstructed from stem, authors listed as Frumkin et al. |
+| 2026-11-08 | ivnyi-2025-fractal-analysis-as-a-predictor | date-fallback | No publication date in txt; used 2025-01-01 (year fallback) |
+| 2026-11-08 | ivnyi-2025-fractal-analysis-as-a-predictor | source-data-issue | Txt has no title line (reconstructed from stem); Conclusions self-contradictory; lacunarity group order reversed; tables/p-values absent |
+| 2026-11-08 | nguyen-2022-analysis-of-acute-sinusitis-related | date-fallback | No publication date or journal/title/author lines in txt; used 2022-01-01 (year from DOI suffix 2022 and stem); title descriptive |
+| 2026-11-08 | nguyen-2022-analysis-of-acute-sinusitis-related | category-judgment | sinus-lift/lateral chosen over implants/survival and oral-medicine/odontogenic-sinusitis: study defined by sinus-lift graft complication and sinus-lift/lateral holds sibling sinusitis pages; approach (lateral) not stated in text |
+| 2026-11-08 | nguyen-2022-analysis-of-acute-sinusitis-related | evidence-level-judgment | case-report: three-case series with SEM-EDS/TEM, no controls |
+| 2026-11-08 | nguyen-2022-analysis-of-acute-sinusitis-related | source-data-issue | Intro frames failures as within 1 month, but case 3 implant mobile 2 months after apex-cutting surgery (placement ~10 days before first visit); reproduced as stated |
+| 2026-11-08 | yuyuen-2026-the-prevalence-of-early-implant | date-fallback | no publication date in txt; used 2026-01-01 |
+| 2026-11-08 | yuyuen-2026-the-prevalence-of-early-implant | source-data-issue | title/authors absent from txt (descriptive title used); sample-size wording, identifier method, control matching and 49-denominator percentages inconsistent; Tables 1-4 missing |
+| 2026-11-08 | kang-2019-early-implant-failure-a-retrospective | date-fallback | publication date not in txt; used 2019-01-01 |
+| 2026-11-08 | kang-2019-early-implant-failure-a-retrospective | source-data-issue | CSR 95.6%/4.4% vs 35/1031=3.4%; faculty/resident CSR mismatch; title/authors absent from txt |
+| 2026-11-08 | munakata-2024-risk-factors-for-early-implant | date-fallback | txt has no date/title/author header; date set 2024-02-01 (month fallback), title/authors from task listing |
+| 2026-11-08 | munakata-2024-risk-factors-for-early-implant | source-data-issue | txt lacks title, tables, refs; empty citation brackets; graft survival wording and duplicated 7.30 figure |
+| 2026-11-08 | golobdeeb-2024-effect-of-implant-maintenance-on | abstract-only | Full text not retrieved; ingested from abstract (PMID 38916039). |
+| 2026-11-08 | golobdeeb-2024-effect-of-implant-maintenance-on | date-fallback | No publication date in txt header; used 2024-01-01. |
+| 2026-11-08 | golobdeeb-2024-effect-of-implant-maintenance-on | source-data-issue | Abstract does not define early implant failure time window (1-7 y follow-up); percentages rounded (22/501=4.4% reported as 5%). |
+| 2026-11-08 | chaushu-2023-the-effect-of-anticoagulants-on | category-judgment | implants/survival chosen over drug/anticoagulants: outcome is implant early failure, medication as risk factor |
+| 2026-11-08 | chaushu-2023-the-effect-of-anticoagulants-on | source-data-issue | EIF defined from loading (Methods) vs abutment connection (Intro); patient-level model poor fit; tables/criteria/title absent from txt (metadata from PubMed) |
+| 2026-11-08 | wiedemann-2025-vitamin-d-screening-and-supplementation | abstract-only | Narrative review, abstract-only; no PMC full text |
+| 2026-11-08 | wiedemann-2025-vitamin-d-screening-and-supplementation | date-fallback | No publication date in txt header; used 2025-01-01 |
+| 2026-11-08 | wiedemann-2025-vitamin-d-screening-and-supplementation | category-judgment | implants/vitamin-d chosen over implants/survival per batch theme; vitamin D exposure defines study |
+| 2026-11-08 | sodnomish-2026-the-effect-of-dietary-factors | category-judgment | implants/vitamin-d chosen over implants/survival: vitamin D dominates (24/27 studies); EDIF is one outcome |
+| 2026-11-08 | sodnomish-2026-the-effect-of-dietary-factors | source-data-issue | 27 included vs 24 vitD+1 B+1 C=26; abstract positive/none/other sums to 22; EDIF section says 5 studies but Table 2 lists more EDIF-type entries; MBL pooled values absent from text |
+| 2026-11-08 | sodnomish-2026-the-effect-of-dietary-factors | other | title/date taken from PubMed metadata since txt has no header; evidence_level narrative-review (scoping review) |
+| 2026-11-08 | gong-2025-impact-of-age-related-bone | source-data-issue | Abstract attributes OR 0.481 to age and OR 1.89 to low bone density; full text assigns 0.481 to postoperative antibiotics; implant count (1,821) only in abstract; bone density 'HU' values implausible; metadata title/authors/journal from PubMed since txt has body only |
+| 2026-11-08 | gong-2025-impact-of-age-related-bone | date-fallback | No date in txt; used PubMed publication date 2025-10-18 |
+| 2026-11-08 | hong-2025-comparative-analysis-of-novel-damping | other | Exact PubMed title, author list and publication date absent from txt (no header); descriptive title, 'Hong et al.', date fallback 2025-01-01 used |
+| 2026-11-08 | hong-2025-comparative-analysis-of-novel-damping | source-data-issue | Ethics text says prospective and retrospective; Table 4 Periotest ICC CI 0.78-0.99 vs text 0.97-0.99; R2 not equal to r squared; p=0.0039 for r=-0.870 vs p=0.0002 for r=-0.473 at same n; Trust force <3 N (intro) vs 0.6-0.8 N (Table 5) |
+| 2026-11-08 | hong-2025-comparative-analysis-of-novel-damping | category-judgment | implants/isq chosen: study defined by damping/stability measurement device comparison, not early-failure outcomes (no failures analysed); not implants/survival |
+| 2026-11-08 | hong-2025-comparative-analysis-of-novel-damping | date-fallback | No date in txt; 2025-01-01 used |
