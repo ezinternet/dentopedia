@@ -2,7 +2,7 @@
 title: "상아질 과민증 — dentin-hypersensitivity"
 authors: navigation
 year: 2026
-date: 2026-08-11
+date: 2026-11-08
 doi: N/A
 source: navigation
 category: dentin-hypersensitivity
@@ -15,20 +15,20 @@ tags: [navigation, category-index, dentin-hypersensitivity]
 > [!summary] 한국어 핵심요약
 > - **분야**: 상아질 과민증
 > - **범위**: Dentinal hypersensitivity — etiology (hydrodynamic theory), in-office and at-home management, desensitizing agents
-> - **수록 논문**: 21편
+> - **수록 논문**: 22편
 
 ## Three-line Summary
 
 **Scope**: Dentinal hypersensitivity — etiology (hydrodynamic theory), in-office and at-home management, desensitizing agents
-**Indexed papers**: 21 papers in `wiki/dentin-hypersensitivity/`.
+**Indexed papers**: 22 papers in `wiki/dentin-hypersensitivity/`.
 
 ## 세줄요약
 
 **분야**: 상아질 과민증
-**수록 논문**: 21편
+**수록 논문**: 22편
 **하위 카테고리**: 없음
 
-## Papers in this Category (21)
+## Papers in this Category (22)
 
 | Paper |
 |---|
@@ -37,6 +37,7 @@ tags: [navigation, category-index, dentin-hypersensitivity]
 | [[correa-2025-long-term-desensitizing-agents-efficacy-sr-ma|Long-term clinical efficacy of dentin desensitizing agents: A systematic review and meta-analysis]] |
 | [[creeth-2026-calcium-sodium-phosphosilicate-dentin-hypersensitivity-rct|Time-course of clinical efficacy of a 5% calcium-sodium phosphosilicate toothpaste on dentine hypersensitivity]] |
 | [[defreitas-2021-bioactive-toothpastes-dentin-hypersensitivity-sr|Bioactive toothpastes in dentin hypersensitivity treatment: A systematic review]] |
+| [[erdogan-2026-chemical-laser-desensitization-dentin-hypersensitivity-nspt-rct|Chemical and laser desensitization approaches for managing dentin hypersensitivity after non-surgical periodontal therapy: A randomized clinical trial]] |
 | [[faraoni-2023-laser-therapy-dentin-hypersensitivity-sr-ma|Treatment outcome for dentin hypersensitivity with laser therapy: Systematic review and meta-analysis]] |
 | [[forouzande-2022-fluoride-gluma-laser-dentin-hypersensitivity|Effect of sodium fluoride varnish, Gluma, and Er,Cr:YSGG laser in dentin hypersensitivity treatment: a 6-month clinical trial]] |
 | [[jiang-2022-desensitizing-agents-permeability-cytotoxicity|Effectiveness and cytotoxicity of two desensitizing agents: a dentin permeability measurement and dentin barrier testing in vitro study]] |

@@ -944,3 +944,5 @@ Logged by subagents at deviation time. `deviation-audit.py` flags types with ≥
 | 2026-10-28 | gazal-2026-risk-factors-adverse-events-tooth-extraction | abstract-only | No PMC full text; Minerva Dent Oral Sci subscription journal; abstract-only ingest |
 | 2026-11-04 | sailer-2015-allceramic-metalceramic-fdps-survival-complication-sr | abstract-only | publisher landing page, full text not retrieved |
 | 2026-11-04 | behr-2014-pfm-precious-alloy-crowns-clinical-performance | abstract-only | publisher landing page, full text not retrieved |
+| 2026-11-08 | erdogan-2026-chemical-laser-desensitization-dentin-hypersensitivity-nspt-rct | no-doi | PubMed response had no DOI; doi: null |
+| 2026-11-08 | erdogan-2026-chemical-laser-desensitization-dentin-hypersensitivity-nspt-rct | abstract-only | no PMC full text, built from PubMed abstract |
