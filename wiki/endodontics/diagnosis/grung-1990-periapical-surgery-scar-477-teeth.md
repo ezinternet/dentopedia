@@ -15,7 +15,6 @@ relations:
     target: nair-2006-causes-persistent-apical-periodontitis-review
   - type: provides-epidemiology-for
     target: lee-2021-periapical-scar-clinicopathological
-superseded_by: null
 ---
 
 ## Three-line Summary
