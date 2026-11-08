@@ -1,5 +1,5 @@
 ---
-title: "Vitamin D screening and supplementation-a novel approach to higher success: an update and review of the current literature."
+title: "Vitamin D Screening and Supplementation-A Novel Approach to Higher Success: An Update and Review of the Current Literature"
 authors: Wiedemann TG, Jin HW, Gallagher B, Witek L, Miron RJ, Talib HS
 year: 2025
 doi: 10.1002/jbm.b.35558

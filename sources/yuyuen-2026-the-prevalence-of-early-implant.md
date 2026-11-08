@@ -1,6 +1,6 @@
 ---
-title: "The prevalence of early implant failure and associated factors: a retrospective nested case-control study at Maha Chakri Sirindhorn Dental Hospital"
-authors: Yuyuen et al.
+title: "The Prevalence of Early Implant Failure and Associated Risk Factors: A Retrospective Study"
+authors: Yuyuen UR, Rattanasuwan K, Banlue A
 year: 2026
 doi: 10.4317/jced.63517
 pmid: "42051670"

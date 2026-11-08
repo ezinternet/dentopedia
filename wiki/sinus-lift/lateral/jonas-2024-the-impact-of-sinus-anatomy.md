@@ -4,7 +4,7 @@ authors: Jonas E, Masri D, Ghanaiem O, Avishai G, Chaushu G, Chaushu L
 year: 2024
 date: 2024-11-12
 doi: 10.1016/j.identj.2024.10.009
-journal: "International Dental Journal 75(2):984-991"
+journal: "International dental journal"
 source: jonas-2024-the-impact-of-sinus-anatomy.md
 category: [sinus-lift/lateral]
 evidence_level: retrospective

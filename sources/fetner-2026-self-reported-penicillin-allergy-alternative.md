@@ -1,5 +1,5 @@
 ---
-title: "SELF-REPORTED PENICILLIN ALLERGY, ALTERNATIVE ANTIBIOTICS, AND IMPLANT OUTCOMES: A RETROSPECTIVE STUDY"
+title: "Self-Reported Penicillin Allergy, Alternative Antibiotics, and Implant Outcomes: A Retrospective Study"
 authors: Fetner A, Vilela N, Lu X, Shan G, Duarte PM
 year: 2026
 date: 2026-01-01

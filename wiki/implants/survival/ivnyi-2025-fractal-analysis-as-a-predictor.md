@@ -1,10 +1,10 @@
 ---
-title: "Fractal analysis as a predictor of early implant failure: a retrospective case-control study"
+title: "Fractal Analysis as a Predictor of Early Implant Loss: A Retrospective Study"
 authors: Iványi D, Kivovics M, Balázs R, Németh O
 year: 2025
-date: 2025-01-01
+date: 2025-08-30
 doi: 10.1016/j.identj.2025.103880
-journal: "International Dental Journal"
+journal: "International dental journal"
 source: ivnyi-2025-fractal-analysis-as-a-predictor.md
 category: [implants/survival]
 evidence_level: retrospective

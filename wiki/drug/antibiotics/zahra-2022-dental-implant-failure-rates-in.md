@@ -2,7 +2,7 @@
 title: "Dental implant failure rates in patients with self-reported allergy to penicillin"
 authors: Zahra B, Nicholas B, Geoffrey R, Dina Z, Janal MN, Stuart F
 year: 2022
-date: 2022-01-01
+date: 2022-03-21
 doi: 10.1111/cid.13082
 pmid: "35313065"
 journal: "Clinical implant dentistry and related research"

@@ -1,10 +1,10 @@
 ---
-title: "Analysis of acute sinusitis-related early implant failure: three cases with SEM-EDS and TEM evaluation"
-authors: Nguyen et al.
+title: "Analysis of acute sinusitis-related early failed implant surface: a combined histological, electron microscopy, and X-ray spectroscopy approach"
+authors: Nguyen TTH, Eo MY, Seo MH, Kim SM
 year: 2022
-date: 2022-01-01
+date: 2022-04-26
 doi: 10.1186/s40902-022-00346-6
-journal: "not stated in retrieved text"
+journal: "Maxillofacial plastic and reconstructive surgery"
 source: nguyen-2022-analysis-of-acute-sinusitis-related.md
 category: [sinus-lift/lateral]
 evidence_level: case-report

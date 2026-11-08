@@ -1,10 +1,10 @@
 ---
-title: "The effect of proton pump inhibitors on early dental implant failure: a retrospective cohort study"
-authors: Masri D, Chaushu L, et al.
+title: "The Effect of Proton Pump Inhibitors on Early Implant Failure A Retrospective Cohort Study"
+authors: Masri D, Retzkin N, Luís Scombatti de Souza S, Slutzkey GS, Tagger-Green N, Naishlos S, et al.
 year: 2023
-date: 2023-02-01
+date: 2023-02-18
 doi: 10.3390/medicina59020402
-journal: "Medicina (Kaunas)"
+journal: "Medicina (Kaunas, Lithuania)"
 source: masri-2023-the-effect-of-proton-pump.md
 category: [implants/survival]
 evidence_level: retrospective

@@ -1,6 +1,6 @@
 ---
-title: "Analyzing the causes and frequency of early dental implant failure (historical observational study, Mashhad, Iran)"
-authors: "Abrishami et al."
+title: "Analyzing the Causes and Frequency of Early Dental Implant Failure among Iranians: An Epidemiological Study"
+authors: Abrishami MH, Shiezadeh F, Samieirad S, Mollaei M, MohammadZadeh Mahrokh F, Khosravi F
 year: 2023
 doi: "10.1155/2023/2107786"
 pmid: "37854452"

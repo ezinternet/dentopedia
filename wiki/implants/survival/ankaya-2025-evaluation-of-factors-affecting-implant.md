@@ -1,11 +1,11 @@
 ---
-title: "Evaluation of factors affecting implant failure: a 13-year retrospective cohort study"
+title: "Evaluation of factors affecting implant failure: A 13-year retrospective cohort study"
 authors: Çankaya RTA, Muğlalı M
 year: 2025
-date: 2025-01-01
+date: 2025-04-14
 doi: 10.1016/j.jcms.2025.03.022
 pmid: "40234108"
-journal: "Journal of cranio-maxillo-facial surgery"
+journal: "Journal of cranio-maxillo-facial surgery : official publication of the European Association for Cranio-Maxillo-Facial Surgery"
 source: ankaya-2025-evaluation-of-factors-affecting-implant.md
 category: [implants/survival]
 evidence_level: retrospective

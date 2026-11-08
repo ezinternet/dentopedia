@@ -1,6 +1,6 @@
 ---
 title: "Insights Into Early and Late Dental Implant Failures in Veterans-A Retrospective Cohort Analysis"
-authors: Griffin AS, Miller AJ, Durham MR, Brown LC, Wei G, Stoddard GJ, Jeyapalina S
+authors: Griffin AS, Miller AJ, Durham MR, Brown LC, Wei G, Stoddard GJ, et al.
 year: 2025
 doi: 10.1111/cid.70091
 journal: "Clinical implant dentistry and related research"

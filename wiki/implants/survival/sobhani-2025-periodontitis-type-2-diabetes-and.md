@@ -1,8 +1,8 @@
 ---
-title: "Periodontitis, type 2 diabetes, and other risk factors for implant failure: a nested case-control study"
-authors: Sobhani S, Liu Z, Hoopes CL, Oung T, Arora M, Racha DS, Yang T, Kang P, Momen-Heravi F
+title: "Periodontitis, type 2 diabetes, and other risk factors for implant failure: A nested case-control study"
+authors: Sobhani S, Liu Z, Hoopes CL, Oung T, Arora M, Racha DS, et al.
 year: 2025
-date: 2025-01-01
+date: 2025-07-29
 doi: 10.1002/jper.11380
 journal: "Journal of periodontology"
 source: sobhani-2025-periodontitis-type-2-diabetes-and.md

@@ -1,5 +1,5 @@
 ---
-title: "Multiple dental implant failures: a retrospective analysis of implant retention time and risk factors"
+title: "Multiple dental implant failures: A retrospective analysis of implant retention time and risk factors"
 authors: Rosen R, Haas R, Millesi W, Mailath-Pokorny G, Pohl S, Pohl V
 year: 2024
 doi: null

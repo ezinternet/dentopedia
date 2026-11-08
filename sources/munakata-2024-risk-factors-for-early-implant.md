@@ -1,6 +1,6 @@
 ---
-title: "Risk Factors for Early Implant Failure and Selection of Graft Material for Various Bone Augmentation Procedures: A Narrative Review"
-authors: Munakata M et al.
+title: "Risk Factors for Early Implant Failure and Selection of Bone Grafting Materials for Various Bone Augmentation Procedures: A Narrative Review"
+authors: Munakata M, Kataoka Y, Yamaguchi K, Sanda M
 year: 2024
 doi: 10.3390/bioengineering11020192
 category: [implants/survival]

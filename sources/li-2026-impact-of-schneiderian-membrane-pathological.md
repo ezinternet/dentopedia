@@ -1,6 +1,6 @@
 ---
-title: "Impact of Schneiderian membrane pathological thickening on transcrestal sinus floor elevation: a prospective study"
-authors: Li X, Li B, Yin Z, Meng S, Zhao X, Sun Y, Chen W, Cai Q, Meng W
+title: "Impact of Schneiderian Membrane Pathological Thickening on Transcrestal Sinus Floor Elevation: A Prospective Study"
+authors: Li X, Li B, Yin Z, Meng S, Zhao X, Sun Y, et al.
 year: 2026
 date: 2026-01-01
 doi: 10.1111/cid.70149

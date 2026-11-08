@@ -1,10 +1,10 @@
 ---
-title: "Multiple dental implant failures: a retrospective analysis of implant retention time and risk factors"
+title: "Multiple dental implant failures: A retrospective analysis of implant retention time and risk factors"
 authors: Rosen R, Haas R, Millesi W, Mailath-Pokorny G, Pohl S, Pohl V
 year: 2024
-date: 2024-01-01
+date: 2024-03-19
 doi: null
-journal: "International journal of oral implantology"
+journal: "International journal of oral implantology (Berlin, Germany)"
 source: rosen-2024-multiple-dental-implant-failures-a.md
 category: [implants/survival]
 evidence_level: retrospective

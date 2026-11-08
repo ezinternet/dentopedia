@@ -1,5 +1,5 @@
 ---
-title: "COVID-19 as a factor associated with early dental implant failures: a retrospective analysis"
+title: "COVID-19 as a factor associated with early dental implant failures: A retrospective analysis"
 authors: Sezer T, Soylu E
 year: 2023
 date: 2023-01-01

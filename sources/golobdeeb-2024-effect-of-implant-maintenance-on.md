@@ -1,5 +1,5 @@
 ---
-title: "Effect of implant maintenance on incidence of peri-implantitis and early implant failure: retrospective cohort study"
+title: "Effect of Implant Maintenance on Incidence of Peri-implantitis and Early Implant Failure: Retrospective Cohort Study"
 authors: Golob Deeb J, Ha M, Carrico CK, Waldrop T, Lee PK
 year: 2024
 doi: 10.1563/aaid-joi-D-24-00003

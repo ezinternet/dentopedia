@@ -1,5 +1,5 @@
 ---
-title: "Evaluation of factors affecting implant failure: a 13-year retrospective cohort study"
+title: "Evaluation of factors affecting implant failure: A 13-year retrospective cohort study"
 authors: Çankaya RTA, Muğlalı M
 year: 2025
 date: 2025-01-01

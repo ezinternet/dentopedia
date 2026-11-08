@@ -1,5 +1,5 @@
 ---
-title: "Fractal analysis as a predictor of early implant failure: a retrospective case-control study"
+title: "Fractal Analysis as a Predictor of Early Implant Loss: A Retrospective Study"
 authors: Iványi D, Kivovics M, Balázs R, Németh O
 year: 2025
 date: 2025-01-01

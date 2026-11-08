@@ -1,8 +1,8 @@
 ---
-title: "Vitamin D screening and supplementation-a novel approach to higher success: an update and review of the current literature."
+title: "Vitamin D Screening and Supplementation-A Novel Approach to Higher Success: An Update and Review of the Current Literature"
 authors: Wiedemann TG, Jin HW, Gallagher B, Witek L, Miron RJ, Talib HS
 year: 2025
-date: 2025-01-01
+date: 2025-03-01
 doi: 10.1002/jbm.b.35558
 journal: "Journal of biomedical materials research. Part B, Applied biomaterials"
 source: wiedemann-2025-vitamin-d-screening-and-supplementation.md

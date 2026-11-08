@@ -1,8 +1,8 @@
 ---
-title: "SELF-REPORTED PENICILLIN ALLERGY, ALTERNATIVE ANTIBIOTICS, AND IMPLANT OUTCOMES: A RETROSPECTIVE STUDY"
+title: "Self-Reported Penicillin Allergy, Alternative Antibiotics, and Implant Outcomes: A Retrospective Study"
 authors: Fetner A, Vilela N, Lu X, Shan G, Duarte PM
 year: 2026
-date: 2026-01-01
+date: 2026-08-01
 doi: 10.1111/cid.70169
 journal: "Clinical implant dentistry and related research"
 source: fetner-2026-self-reported-penicillin-allergy-alternative.md
@@ -19,7 +19,7 @@ tags: [penicillin-allergy, azithromycin, clindamycin, early-implant-failure, sur
 relations:
   - type: refines
     target: edibam-2023-self-reported-allergy-penicillin-clindamycin
-  - type: contradicts
+  - type: refines
     target: salgado-peralvo-2021-penicillin-allergy-risk-factor-early-implant-failure
 ---
 

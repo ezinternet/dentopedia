@@ -6,7 +6,7 @@ date: 2023-03-27
 doi: 10.3390/jfb14040186
 pmid: "37103275"
 pmcid: "PMC10144258"
-journal: "Journal of Functional Biomaterials"
+journal: "Journal of functional biomaterials"
 source: chaushu-2023-the-effect-of-anticoagulants-on.md
 category: [implants/survival]
 evidence_level: retrospective

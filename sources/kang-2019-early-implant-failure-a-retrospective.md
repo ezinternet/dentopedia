@@ -1,6 +1,6 @@
 ---
 title: "Early implant failure: a retrospective analysis of contributing factors"
-authors: Kang DY, et al.
+authors: Kang DY, Kim M, Lee SJ, Cho IW, Shin HS, Caballé-Serrano J, et al.
 year: 2019
 doi: 10.5051/jpis.2019.49.5.287
 journal: "Journal of Periodontal & Implant Science"

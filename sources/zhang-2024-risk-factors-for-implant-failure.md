@@ -1,5 +1,5 @@
 ---
-title: "RISK FACTORS FOR IMPLANT FAILURE FOLLOWING TRANSCRESTAL SINUS-FLOOR ELEVATION: A CASE REPORT AND LITERATURE REVIEW."
+title: "Risk Factors for Implant Failure Following Transcrestal Sinus-Floor Elevation: A Case Report and Literature Review"
 authors: Zhang J, Weng M, Zhu Z, Li J
 year: 2024
 doi: 10.1563/aaid-joi-D-23-00134

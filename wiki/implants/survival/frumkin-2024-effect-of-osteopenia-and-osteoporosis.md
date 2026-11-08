@@ -1,10 +1,10 @@
 ---
-title: "Effect of osteopenia and osteoporosis on dental implant failure and repeated failure"
-authors: Frumkin et al.
+title: "Effect of osteopenia and osteoporosis on failure of first and second dental implants: a retrospective observational study"
+authors: Frumkin N, Iden JA, Schwartz-Arad D
 year: 2024
-date: 2024-01-01
+date: 2024-09-04
 doi: "10.1186/s40729-024-00556-9"
-journal: "International Journal of Implant Dentistry"
+journal: "International journal of implant dentistry"
 source: frumkin-2024-effect-of-osteopenia-and-osteoporosis.md
 category: [implants/survival]
 evidence_level: retrospective

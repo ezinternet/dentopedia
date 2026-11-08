@@ -1,5 +1,5 @@
 ---
-title: "The effect of dietary factors and nutrients on osseointegration, dental implant success and survival: a scoping review."
+title: "The effect of dietary factors and nutrients on osseointegration, dental implant success and survival: a scoping review"
 authors: Sodnom-Ish B, Kühl S, Herber V, Bornstein MM
 year: 2026
 doi: 10.1186/s40729-026-00680-8
