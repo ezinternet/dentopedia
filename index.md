@@ -211,6 +211,12 @@ tags: []
 - [[implants/short-narrow/ravida-2019-meta-analysis-randomized-clinical-trials]] — RCT 메타분석: 초단축(≤6 mm) vs 장기(≥10 mm) 임플란트 임상/환자보고결과 비교 — 선택된 경우 생존율 유사, 변연골소실은 맥락 의존적(SR+MA)
 
 - [[implants/short-narrow/ravida-2024-short-compared-dental-implants-different]] — SR+MA + TSA + GRADE: 다양한 임상 시나리오에서 단축(≤6 mm) vs 장축(≥10 mm) 임플란트 비교 — 상악동거상/자연골/전악 등에서 유사한 생존/합병증, 중등도~높은 근거
+- [[implants/jo-2026-structure-property-function-tinzr-alloy]] — Jo 2026 · rct (벤치+RCT 80→77명, 12개월) · β형 Ti-Nb-Zr(TNZ) vs 개량 G4 cpTi: 인장 1,139 vs 900 MPa·피로수명 4배·탄성계수 75 vs 110 GPa, 임상 성공/생존 100% 동등; 낮은 강성이 골소주 복잡성(FD) 증가로 이어지지 않아 응력차단 논리 반박
+- [[implants/kim-2023-effectiveness-ultra-wide-implants-mandibular]] — Kim 2023 · retrospective 5년 (78개 초광폭 6/7 mm, 71명, 평균 97.8개월): 생존 92.3%·성공 83.3%, MBL 1년 0.2→최종 0.54 mm; 직경·길이·악궁·부가수술 모두 비유의, 초기 ISQ <60에서 성공률 61%·2차 ISQ >70에서 생존 100% — 후방부 불량골질 구조대 옵션
+- [[implants/full-arch/seok-2023-tilted-implants-implant-supported-fixed-hybrid]] — Seok 2023 · retrospective (n=21, 137임플란트, 평균 10년 6개월): 고정 하이브리드 보철에서 경사도↑→변연골소실↓ (20°초과 0.76 mm vs 10°미만 2.17 mm, P=0.003; 생존 100% vs 92%), 골이식 부위는 골소실 2.36 vs 1.39 mm·성공률 47.5% vs 71.0% — Del Fabbro 2022 SR+MA와 상충하는 단일 코호트
+- [[implants/yu-2020-fractures-implant-fixtures-retrospective-clinical]] — Yu 2020 · retrospective (파절 고정체 13개/12명, 2007–2015): 후방부 집중(대구치 10·소구치 3), 평균 C/I 비 0.83:1, 보철 후 평균 61.7개월에 파절, 선행증상은 반복 나사풀림·변연골소실·주위염; 전부 제거 후 12/13 재식립·평균 54.6개월 생존 100% — 경고 삼징후가 개입 신호
+- [[implants/bhuva-2025-endodontic-dental-implant-treatment-key]] — Bhuva 2025 · narrative-review (BDJ): 근관치료 유지 vs 임플란트 대체 — 근관치료 성공 85.2–92.6%·재치료 77.2–83%, 임플란트 생존 90.9%(6.7–8.7년) vs 근관치료 86.02%, Tooth survival 72.7%(77개월) vs 임플란트; 비교연구는 교란 심함, 이갈이 시 기계적 합병증 60% vs 17% — 결정은 수복가능성·치주·교합·전략가치로
+- [[implants/yi-2021-long-term-clinical-result-implant]] — Yi 2021 · retrospective (32개/28명, 평균 122.7개월): 임플란트 인접치 손상 — 침범(group I)·접촉(II)·1mm 미만 근접(III); 손상치 90.6% 기능유지, 미치료 27개 중 7개만 RCT(3개 추후 발치)·19/27(70.4%) 생활력 유지, 기존 근관치료 5개는 무변화; 임플란트 생존 96.9%, ISQ 64.1→73.9(P=0.007) — 직접 침범도 즉시 발치 금지, 감시 후 개입
 
 ## 임플란트 — 표면처리·골유착 심화 (Osseointegration Theory)
 - [[implants/albrektsson-1981-osseointegrated-titanium-implants-requirements]] — 랜드마크(1981): 골유착을 직접 골-임플란트 접촉으로 정의(최초 인체 TEM)+6대 전제(재료·디자인·표면·골상태·술식·부하조건)
@@ -420,6 +426,8 @@ tags: []
 - [[implants/surface/choi-2017-uv-dbd-plasma-titanium-storage-biological-activity]] — Choi 2017 · in vitro(연세대+광운대, 한국): UV 15분 = DBD플라즈마 15분 (즉시 친수성·알부민·MC3T3-E1 동등); UV 처리 후 증류수 보관만 28일 후에도 직후 수준 유지 — UV=DBD 등가·보관법 첫 직접비교 (DOI 10.1016/j.dental.2017.09.017)
 - [[implants/surface/wagstaffe-2019-rgd-tripeptide-adsorption-titania-surfaces]] — In vitro(XPS+STM, 단결정 루타일 TiO₂ + SLA/SLActive 모형): RGD 펩타이드가 탈양성자화 카르복실기로 Ti에 결합; SLActive가 전 pH에서 SLA보다 RGD 흡수↑; **부착탄소오염의 화학적 정체를 처음 특정**(Balajka 2018 인용) — 기름/유분이 아니라 폼산·아세트산 등 소형 유기산의 카르복실기-양이온 브리징 결합; 흡착량은 표면친수성이 아니라 이 층의 치환 용이성이 결정
 - [[implants/surface/milleret-2011-alkali-titanium-blood-clot-platelet-complement]] — In vitro(사람 전혈, 부분헤파린화): 알칼리처리 초친수성 SBA Ti가 미처리 대비 대식세포/단핵구 부착↓·혈전은 두껍고 조직화; 노출시간 자체가 혈소판·보체 활성화를 단조증가 — [[implants/surface/plasma/becker-2019-lpp-app-plasma-proinflammatory-cytokines]] 24h 사이토카인 반전의 후보 기전, abstract-only
+- [[implants/surface/kim-2021-comparison-sandblasted-acid-etched-surface]] — Kim 2021 · rct (환자 27명/임플란트 31개, 상악 구치부, 3개월 조기부하): SLA(오스템 SA) vs 나노-HA 코팅 친수성 SLA(Hiossen NH) — 초기 ISQ 73.9 vs 71.2·2차 79.1 vs 78.3, MBL 0.045 vs 0.032 mm(모두 비유의), 성공/생존 100%; NH는 치유기 ISQ 상승폭만 큼(+7.06 vs +5.21)
+- [[implants/surface/jeon-2022-randomized-clinical-trial-evaluate-efficacy]] — Jeon 2022 · rct (환자 55명/임플란트 75개 분석, 1년): SLA 표면 거칠기 Ra 3.09 µm(Sewon IH2) vs 2.50 µm(Osstem TSIII SA) — 초기 ISQ 79.7 vs 82.9·2차 82.1 vs 84.4, MBL 0.07 vs 0.00 mm(P=.078), 성공/생존 100%; 유일한 차이는 거친 표면의 낮은 치태지수(PI 0.00 vs 0.29) → 거칠기 최적화 근거 부족
 
 ## 임플란트 — 비타민 D·골유착 (Vitamin D / Osseointegration) (added 2026-06-21)
 - [[implants/vitamin-d/miron-2025-vitamin-d-deficiency-early-implant-failure]] — Miron 2025 · sr · 비타민 D 결핍이 조기 임플란트 실패를 최대 4배 증가시키고, 수술 전 보충이 당뇨 등 고위험군에서도 BIC·골유착을 개선 (43편 = 동물 16 + 사람 27) (DOI 10.1111/prd.70017)
@@ -458,6 +466,7 @@ tags: []
 - [[bone-regeneration/ridge-preservation/macbeth-2022-alveolar-ridge-preservation-guided-bone-regeneration-socket-seal]] — MacBeth 2022 · rct · 전방 상악 ARP 3군 비교(GBR vs 소켓씰 vs 대조; n=42): GBR·SS 모두 BARH 유의 보존; 수평폭경 차이 없음; 임플란트 dehiscence GBR 57% vs 대조 85%(p=0.03)
 - [[immediate-implant/ickroth-2025-immediate-implant-intact-nonintact-sockets]] — Systematic review (20 studies, 525 implants): BBT 1.10–3.18mm intact vs 1.18–3.00mm non-intact; survival >90–100% both; low evidence quality for non-intact sockets
 - [[bone-regeneration/tallarico-2025-peri-implantitis-guided-bone-regeneration-case]] — 증례보고(2025): 치주임플란트염 실패→CAD/CAM 티타늄메시 GBR 9개월→완전가이드 재식립→지르코니아; 완전 디지털 워크플로우
+- [[bone-regeneration/ridge-preservation/kim-2020-extraction-socket-preservation]] — Kim 2020 · narrative-review · 발치와 보존술(ESP) 종설: 1년 내 치조제 폭 ~50% 감소(5–7mm), 소켓 I–IV 분류, ESP는 성공률·변연골소실 불변·이식재가 자연치유 방해 가능, 식립은 4개월 후, 협측골벽 ≤1mm가 핵심 적응
 - [[bone-regeneration/ayoub-2018-ridge-splitting-horizontal-augmentation-case]] — 증례보고(스플릿마우스): 위축 상악 수평골 부족 시 변형 치조골 분리술 — 피에조서저리·스티키본·알부민 동종골 동시식립
 - [[bone-regeneration/enislidis-2006-staged-ridge-splitting-implant-mandible]] — Enislidis 2006 · case-report (n=5, 17 임플란트, abstract-only) · 2단계 하악 ridge-split — 협측 corticotomy로 녹색골절(greenstick) 위치 사전결정, 협측분절 골막 유경피판 유지; 전 분절 계획대로 골절·6개월 전 임플란트 안정
 - [[bone-regeneration/simion-1992-jawbone-enlargement-split-crest-gtr]] — Simion 1992 · case-report (n=5, abstract-only) · split-crest 고전 원전 — 치조제 길이방향 분할로 녹색골절 유발+끌 확장+즉시식립+e-PTFE(GTR); 폭 1–4mm 증가(상악↑), 분할면 골재생 조직학 확인
@@ -557,6 +566,7 @@ tags: []
 
 - [[bone-regeneration/zitzmann-2001-long-term-results-of-implants]] — GBR(Bio-Oss/Bio-Gide 또는 Bio-Oss/Gore-Tex)로 결손부 치료한 임플란트 5년 전향연구(n=75/112): 생존율 유사하나 변연골소실 대조군보다 증가(PubMed abstract)
 - [[bone-regeneration/ridge-preservation/couso-queiruga-2022-alveolar-ridge-preservation-dbbm-healing-time]] — DBBM-C 치조정보존 (Ridge Preservation, ARP) 치유기간 RCT: 42명, 치유시간↑→광화조직↑, 협측골두께 강력 예측인자, 16.7% 추가 GBR (Guided Bone Regeneration, GBR) 필요
+- [[bone-regeneration/choi-2023-horizontal-ridge-augmentation-porcine-bone]] — Choi 2023 · retrospective (28명/49임플란트, 67.5개월) · 돼지뼈 이종골 수평증대 동시식립: 변연골소실 1년 0.23·최종 0.40mm, 생존 95.9%·성공 89.8%, 돼지뼈 단독(n=24)은 생존·성공 100%; 실패는 전부 감염된 ridge-split 혼합이식 부위
 
 ## PDRN — 폴리데옥시리보뉴클레오티드 (Polydeoxyribonucleotide)
 - [[overviews/pdrn-dentistry-evidence-synthesis]] — Synthesis 2026-05-31 (17편 종합): 기전(A2A 수용체+salvage pathway) 탄탄. 근거가 둘로 갈림 — **진통·항염**은 human 근거 강함(발치 RCT 1 + TMJ 후향코호트 1 + 비치과 SR/MA 2), **재생**은 전부 animal·in vitro·zone/outcome 한정·시간 전엽(초기 가속 후 종점 수렴); 1차 골유착(BIC/BAFO)·연조직 volume 무차이; dose 비선형; autograft 대체 미입증; MRONJ 기전 근거 추가; 저위험 adjunct로 합리적.
@@ -838,6 +848,7 @@ tags: []
 - [[sinus-lift/lateral/harlos-2022-histomorphometric-evaluation-of-different-graft]] — Harlos 2022 · rct · 측방 상악동(잔존골<3mm, 증강 8–10mm)에서 이종골+자가골 70:30 vs 이종골+L-PRF vs 이종골 단독(36명, 군별 12): 8개월 신생골 면적 2678 vs 985 vs 481 μm²(p<0.05) — L-PRF 이점 미확인 (초록만) (DOI 10.1007/s00784-022-04515-9)
 - [[sinus-lift/lateral/galindomoreno-2022-maxillary-sinus-floor-augmentation-comparing]] — Galindo-Moreno 2022 · rct · 소뼈(ABB)+자가골 20:80 vs 돼지골(PBM) 이종골 측방 상악동 split-mouth(10명/20동): 광화조직 29.24% vs 32.51%(p=.570), 잔존 생체재 31.00% vs 31.21%(p>.999) — 돼지골은 DBBM 대체 가능 [PMC전문] (DOI 10.1111/clr.13912)
 - [[sinus-lift/lateral/salgado-peralvo-2023-preventive-antibiotic-therapy-in]] — Salgado-Peralvo 2023 · sr · 측방 상악동거상술 예방적 항생제 SR — 근거 불충분, 사용/미사용 지지 불가, 적절 항생제·기간 미확립 (초록만)
+- [[sinus-lift/lateral/nam-2023-sinus-augmentation-polycaprolactone-tricalcium-phosphate]] — Nam 2023 · animal · 미니피그 5마리/임플란트 20개 동시(1단계) 측방 상악동거상: 튜브형 PCL-TCP 스캐폴드 + hUCMSC + PRP vs PRP 단독 vs 스캐폴드 단독(12주) — 회색도 102.5 vs 58.1(P=0.045)·BIC 0.34 vs 0.09(P=0.016)는 우위이나 Micro-CT BV/TV 4.42% vs 6.73%(P=0.366)는 무차, 임플란트 4/20 소실(모두 PRP 군) (DOI 10.5051/jpis.2300660033)
 
 ## 상악동거상술 — 경치조골·골밀도화 (Sinus Lift: Transcrestal / Osseodensification)
 - [[sinus-lift/transcrestal/huang-2026-graftless-transcrestal-sinus-membrane-perforation-ma]] — Huang 2026 · sr+ma · 무이식(graftless) 경치조 상악동거상 MA 14편(2119부위): 막천공 1%·조기실패 1%·부비동염 없음; motor-OD 34% vs osteotome 0% (GRADE very low) (DOI 10.2340/aos.v85.46021)
@@ -1534,6 +1545,7 @@ tags: []
 - [[digital-workflow/oguz-2026-trueness-precision-intraoral-scanners-3d-printed]] — 3D 프린팅 교정모형(클리어 얼라이너 부착물 포함) 30개 대상 5종 구강스캐너 진정도·정밀도 비교, Primescan·TRIOS 3 최상위 동등(p<0.001), Rapideye MI-1000 최하위, ~50µm 오차 허용 기준 제안
 - [[digital-workflow/ramos-morro-2026-patient-perception-reliability-reproducibility-chairside]] — 성인 대상 IOS vs 재래식 인상 체계적문헌고찰(10편, PRISMA+QUADAS-2), 메타분석 불가; 정확도는 혼재, 의자옆시간·환자편의는 2편씩만 측정했으나 둘 다 IOS 유의하게 우수(예: 12분 vs 75.5분, VAS 9.02 vs 6.5)
 - [[digital-workflow/schlenz-2022-transfer-accuracy-digital-conventional-full-arch]] — Schlenz 2022 · in-vitro · 기준체 기반 전악 인상 전이정확도, 구강스캐너 5종(Primescan·Trios 4·Emerald S·CS3600·Medit i500) vs 알지네이트 × 고정성 교정장치 5세팅(자연치/금속·세라믹 브라켓 ±와이어): 브라켓 있는 전 세팅에서 IOS 우위(39~105µm vs CAI 103~212µm)·Primescan 최속(평균 103초), **단 자연치에서는 알지네이트가 최상(21±20µm)** — 교정장치 유무가 우열을 뒤집는다 (DOI 10.1007/s00784-022-04721-5)
+- [[digital-workflow/ku-2022-accuracy-dental-implant-placement-computer-guided]] — Ku 2022 · retrospective (환자 34명/임플란트 89개, CBCT 중첩): 유도수술 입구점 편차 2.69 mm·각도 5.52° vs 가이드 포기 38개(42.7%) 14.53 mm·11.75°; 가이드군 내 무피판이 유피판보다 정확(2.22 vs 3.18 mm, P<0.001)·초기 ISQ도 높음(72.7 vs 55.8) — 포기 사유는 초기안정성 부족 19·해부학적 위험 9·천공 4·스텐트 적합불량 6
 
 ## 교정치료 (Orthodontics)
 
@@ -5303,6 +5315,7 @@ tags: []
 - [[implants/peri-implantitis/monje-2025-long-term-surgical-treatment-outcomes]] — 임플란트주위염 외과치료 장기(≥5년) SR 17편·환자 839명·임플란트 1326개: 질환해소 58.6%, 진행성 골소실억제 69.6%, 생존율 88.6%, 재치료 27.2%; 잔여주머니 ≥6mm 재발 OR 7.3–9.2
 - [[implants/peri-implantitis/isler-2025-long-term-treatment-outcomes-peri-implantitis]] — 임플란트주위염 재건수술(이종골+CGF vs 콜라겐막) 7년 추적 RCT: 치료성공률 1년 46–50% → 7년 23.1%(CGF)/30.8%(CM)로 하락, 누적생존율 81.3% vs 88.8%, 심명PPD·결손심도는 CM군 우세(p=0.040/0.043), 기저 탐침화농(SOP)이 유일한 실패 예측인자(OR=15.45)
 - [[implants/peri-implantitis/javiya-2025-peri-implantitis-etiology-prevention-management-strategies]] — PRISMA 2020 체계적문헌고찰(2010.1~2025.3, 4개 DB, 메타분석 없음): 주위염 유병률 10%~40% 초과, 핵심 위험인자는 치주염 과거력·흡연·혈당조절 불량, 유지관리로 발생 유의 감소, 광범위 골소실엔 GBR이 제거술보다 골 충전 우세
+- [[implants/peri-implantitis/hwang-2023-survival-analysis-implants-after-surgical]] — Hwang 2023 · retrospective (227개/89명, 평균 4.3년): 임플란트주위염 수술 후 누적생존 — 골소실률 <25% 70.7%·25-50% 48.9%·>50% 21.3%(HR 2.25·4.59), 중앙생존 미도달·8.18·3.63년; 절제술 vs 재생술은 전체·각 기 모두 유의차 없음(P=0.444) — 술 전 골소실률이 예후를 결정하고 수술법은 종속적
 
 ### implants/survival
 - [[implants/survival/lee-2026-supportive-periodontal-therapy-improves-implant]] — 서울대·부산대 다기관 회향 코호트(임플란트 3,555개/1,757명): 5년 생존율 98.8%(임플란트 수준)·99.0%(환자 수준); 치주염 관련 치아상실(aHR 3.57)·SPT 비순응(aHR 2.35)·GBR 시행부위(미시행 aHR 0.42)가 독립 위험인자, 치주염 상실 부위에서는 규칙적 SPT가 생존 격차 상쇄(98.8% vs 96.3%, p=0.004)
