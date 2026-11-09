@@ -1,0 +1,9 @@
+Analgesic efficacy and adverse effects of paracetamol-codeine combination in third molar surgery: a meta-analytic systematic review.
+Rosa A, Miranda M, Barnaba P, Bollero P, Gargari M, Martelli M.
+Minerva Dent Oral Sci. 2026 Feb;75(1):36-42. doi:10.23736/S2724-6329.25.05216-7. PMID 41766637. (abstract only; no PMC full text)
+
+ABSTRACT
+This systematic review and meta-analysis aimed to assess the analgesic efficacy and adverse event profile of paracetamol combined with codeine for managing postoperative pain following third molar surgery.
+A comprehensive literature search was conducted across PubMed, Scopus, Web of Science, and the Cochrane Library to identify randomized controlled trials comparing paracetamol + codeine with placebo or other analgesics. Data on pain reduction, rescue medication use, and adverse effects were extracted and pooled using a random-effects model. Odds ratios (OR) and numbers needed to treat (NNT) or harm (NNH) were calculated.
+Six RCTs involving 582 patients met inclusion criteria. The paracetamol-codeine combination significantly reduced postoperative pain and delayed the need for rescue medication (OR=0.45, 95% CI 0.30-0.68). However, adverse events were common, with drowsiness (25%, NNH=7), nausea (18%, NNH=11), and dizziness (12%, NNH=15) being the most frequently reported.
+Paracetamol + codeine provides effective postoperative analgesia for third molar surgery, especially in patients contraindicated for NSAIDs. Clinicians should consider the increased risk of sedation and gastrointestinal symptoms when prescribing this combination, and educate patients accordingly.
