@@ -2,7 +2,7 @@
 title: "전신질환·약물·진통소염제 — analgesics"
 authors: navigation
 year: 2026
-date: 2026-09-02
+date: 2026-11-09
 doi: N/A
 source: navigation
 category: drug/analgesics
@@ -15,20 +15,20 @@ tags: [navigation, category-index, analgesics]
 > [!summary] 한국어 핵심요약
 > - **분야**: 전신질환·약물·진통소염제
 > - **범위**: NSAIDs (ibuprofen, ketorolac, naproxen, etoricoxib), acetaminophen, opioids, corticosteroids (dexamethasone), preemptive analgesia; postoperative pain management
-> - **수록 논문**: 66편
+> - **수록 논문**: 70편
 
 ## Three-line Summary
 
 **Scope**: NSAIDs (ibuprofen, ketorolac, naproxen, etoricoxib), acetaminophen, opioids, corticosteroids (dexamethasone), preemptive analgesia; postoperative pain management
-**Indexed papers**: 66 papers in `wiki/drug/analgesics/`.
+**Indexed papers**: 70 papers in `wiki/drug/analgesics/`.
 
 ## 세줄요약
 
 **분야**: 전신질환·약물·진통소염제
-**수록 논문**: 66편
+**수록 논문**: 70편
 **하위 카테고리**: 없음
 
-## Papers in this Category (66)
+## Papers in this Category (70)
 
 | Paper |
 |---|
@@ -54,6 +54,8 @@ tags: [navigation, category-index, analgesics]
 | [[costa-2015-preemptive-nsaids-third-molar-pain-meta|Does the Preemptive Use of Oral NSAIDs Reduce Postoperative Pain in Surgical Removal of Third Molars? A Meta-analysis of Randomized Clinical Trials]] |
 | [[dan-2010-corticosteroid-administration-oral-orthognathic-surgery|Corticosteroid Administration in Oral and Orthognathic Surgery: A Systematic Review of the Literature and Meta-Analysis]] |
 | [[di-spirito-2022-endodontic-pain-management-overview|Post-Operative Endodontic Pain Management: An Overview of Systematic Reviews]] |
+| [[dominiczak-2025-nsaid-alcohol-interaction-review|Interactions between NSAIDs and Alcohol in the Context of Clinical Practice – A Review of Studies]] |
+| [[endo-2026-comparison-of-the-efficacy-and|Comparison of the efficacy and safety of acetaminophen versus NSAIDs for the treatment of chronic pain in older adults with osteoarthritis of the hip and knee: Findings from the randomized, double-blind, parallel-group, non-inferiority RETHINK study]] |
 | [[etikala-2019-nsaids-periodontal-implant-therapy-review|Effects of NSAIDs on Periodontal and Dental Implant Therapy]] |
 | [[feldman-2024-nonopioid-opioid-third-molar-rct|Nonopioid vs Opioid Analgesics after Impacted Third-Molar Extractions: The Opioid Analgesic Reduction Study Randomized Clinical Trial]] |
 | [[franco-de-la-torre-2021-analgesic-efficacy-etoricoxib-following-third|Analgesic Efficacy of Etoricoxib following Third Molar Surgery: A Meta-analysis]] |
@@ -68,6 +70,7 @@ tags: [navigation, category-index, analgesics]
 | [[kelidari-2026-single-dose-oral-postoperative-endodontic-pain-sr-ma|Efficacy and safety of single-dose oral postoperative medications in reducing pain after endodontic treatment: a systematic review and meta-analysis]] |
 | [[kotowska-rodziewicz-2023-nsaids-role-dentistry-review|A Review of Preclinical and Clinical Studies in Support of the Role of Non-Steroidal Anti-Inflammatory Drugs in Dentistry]] |
 | [[kumchai-2025-naproxen-implant-osseointegration-pilot-rct|Randomized, Placebo-Controlled Pilot Study of Naproxen During Dental Implant Osseointegration]] |
+| [[lai-2018-comparative-safety-of-nsaids-for|Comparative safety of NSAIDs for gastrointestinal events in Asia-Pacific populations: A multi-database, international cohort study]] |
 | [[larsen-2021-methylprednisolone-doses-split-mouth-rct|Efficacy of methylprednisolone on pain, trismus and quality of life following surgical removal of mandibular third molars: a double-blind, split-mouth, randomised controlled trial]] |
 | [[li-2019-cross-reactivity-tolerability-celecoxib-nsaid-hypersensitivity|Cross-reactivity and tolerability of celecoxib in adult patients with NSAID hypersensitivity]] |
 | [[liborio-2025-methylprednisolone-third-molar-sr-ma|The use of methylprednisolone after third molar surgery. A systematic review and meta-analysis of randomized controlled trials]] |
@@ -88,6 +91,7 @@ tags: [navigation, category-index, analgesics]
 | [[rainsford-2009-ibuprofen-pharmacology-efficacy-safety-review|Ibuprofen: pharmacology, efficacy and safety]] |
 | [[rodrigues-2024-preemptive-dexamethasone-diclofenac-endodontic-rct|Preemptive Dexamethasone and Diclofenac for IANB Success in Irreversible Symptomatic Pulpitis (Rodrigues 2024 RCT)]] |
 | [[romano-2025-nsaid-hypersensitivity-classification-diagnosis-wao|Updating the classification and routine diagnosis of NSAID hypersensitivity reactions: A WAO Statement]] |
+| [[rosa-2026-analgesic-efficacy-and-adverse-effects|Analgesic efficacy and adverse effects of paracetamol-codeine combination in third molar surgery: a meta-analytic systematic review]] |
 | [[samani-2025-nsaids-endodontic-postoperative-network|Updated Meta-analysis on Efficacy and Safety of Medications after Non-Surgical Root Canal Treatment]] |
 | [[satpathi-2024-corticosteroids-dentistry-review|Application of Corticosteroids in Dentistry: A Review]] |
 | [[singh-2023-dexamethasone-vs-methylprednisolone-third-molar-sr-ma|Efficacy of Preemptive Dexamethasone versus Methylprednisolone in the Management of Postoperative Discomfort and Pain after Mandibular Third Molar Surgery: A Systematic Review and Meta-Analysis]] |
