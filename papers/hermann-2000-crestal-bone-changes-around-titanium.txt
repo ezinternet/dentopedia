@@ -1,0 +1,18 @@
+Title: Crestal bone changes around titanium implants. A histometric evaluation of unloaded non-submerged and submerged implants in the canine mandible.
+Authors: Hermann JS, Buser D, Schenk RK, Cochran DL
+Journal: J Periodontol 2000;71(9):1412-24
+DOI: 10.1902/jop.2000.71.9.1412
+PMID: 11022770
+Source: PubMed abstract only (no PMC record; full text not retrieved)
+
+BACKGROUND:
+Today, implants are placed using both non-submerged and submerged approaches, and in 1- and 2-piece configurations. Previous work has demonstrated that peri-implant crestal bone reactions differ radiographically under such conditions and are dependent on a rough/smooth implant border in 1-piece implants and on the location of the interface (microgap) between the implant and abutment/restoration in 2-piece configurations. The purpose of this investigation was to examine histometrically crestal bone changes around unloaded non-submerged and submerged 1- and 2-piece titanium implants in a side-by-side comparison.
+
+METHODS:
+A total of 59 titanium implants were randomly placed in edentulous mandibular areas of 5 foxhounds, forming 6 different implant subgroups (types A-F). In general, all implants had a relatively smooth, machined coronal portion as well as a rough, sandblasted and acid-etched (SLA) apical portion. Implant types A-C were placed in a non-submerged approach, while types D-F were inserted in a submerged fashion. Type A and B implants were 1-piece implants with the rough/smooth border (r/s) at the alveolar crest (type A) or 1.0 mm below (type B). Type C implants had an abutment placed at the time of surgery with the interface located at the bone crest level. In the submerged group, types D-F, the interface was located either at the bone crest level (type D), 1 mm above (type E), or 1 mm below (type F). Three months after implant placement, abutment connection was performed in the submerged implant groups. At 6 months, all animals were sacrificed. Non-decalcified histology was analyzed by evaluating peri-implant crestal bone levels.
+
+RESULTS:
+For types A and B, mean crestal bone levels were located adjacent (within 0.20 mm) to the rough/smooth border (r/s). For type C implants, the mean distance (+/- standard deviation) between the interface and the crestal bone level was 1.68 mm (+/- 0.19 mm) with an r/s border to first bone-to-implant contact (fBIC) of 0.39 mm (+/- 0.23 mm); for type D, 1.57 mm (+/- 0.22 mm) with an r/s border to fBIC of 0.28 mm (+/- 0.21 mm); for type E, 2.64 mm (+/- 0.24 mm) with an r/s border to fBIC of 0.06 mm (+/- 0.27 mm); and for type F, 1.25 mm (+/- 0.40 mm) with an r/s border to fBIC of 0.89 mm (+/- 0.41 mm).
+
+CONCLUSIONS:
+The location of a rough/smooth border on the surface of non-submerged 1-piece implants placed at the bone crest level or 1 mm below, respectively, determines the level of the fBIC. In all 2-piece implants, however, the location of the interface (microgap), when located at or below the alveolar crest, determines the amount of crestal bone resorption. If the same interface is located 1 mm coronal to the alveolar crest, the fBIC is located at the r/s border. These findings, as evaluated by non-decalcified histology under unloaded conditions, demonstrate that crestal bone changes occur during the early phase of healing after implant placement. Furthermore, these changes are dependent on the surface characteristics of the implant and the presence/absence as well as the location of an interface (microgap). Crestal bone changes were not dependent on the surgical technique (submerged or non-submerged).
