@@ -3582,6 +3582,7 @@ tags: []
 - [[suture-wound-closure/nobuto-2003-microvascular-response-in-the-periodontal]] — 비글 점막골막판 박리 후 치주인대 (Periodontal Ligament, PDL) 혈관신생 시계열: 박리 시 치조골 관통 순환로가 단절되고, 술 후 5일차 볼크만관 (Volkmann's Canal) 주변 골흡수·신생혈관 시작 → 14일차 PDL 강 최대 확장(일과성 치아동요 제안) → 21일차부터 망상 재조직화·골형성으로 평탄 형태 회복 (abstract-only)
 - [[suture-wound-closure/nobuto-2005-microvascular-response-periosteum-angiogenesis-bone]] — 성견 12마리: 점막골막판 수술 후 7·14일째 사인상 (Sinusoid) 신생혈관이 박리된 골막 혈관신을 채우며 파골/조골 활성이 병행되고, 21·28일째 혈관신은 퇴행 후 성긴 망상구조로 재구성 — 골막 박리는 단순 탈혈관화가 아니라 혈관신생 (Angiogenesis)-골 리모델링 연쇄를 유도 (abstract-only)
 - [[suture-wound-closure/nobuto-2005-microvascular-response-periosteum-3d-observation]] — 성견 9마리 점막골막판 (Mucoperiosteal Flap) 수술 후 3·5·7일 골막 (Periosteum) 혈관총의 3차원 혈관주조 (Vascular Cast) 관찰 — 3일차 싹돋움 (Sprouting)·가교 (Bridging)·내감식 (Intussusception) 신생혈관 + 혈액섬 (Blood Island) 유사 구조, 5–7일차 정맥동 모양 성숙(연속성 증가·내피 얇아짐) — 골막 박리 후 골막 혈관계의 강력한 재혈관화 능력 입증 (abstract-only)
+- [[suture-wound-closure/mclean-1995-vascular-changes-following-mucoperiosteal-flap]] — 개 4마리 형광혈관조영술 (Fluorescein Angiography): 점막골막판 거상만으로 판막 혈류 유의 감소(≥3일 지속, 치간부 7일), 혈관외 확산은 모세관내 순환보다 빨리·더 넓게 회복 — 플랩 거상 자체가 유의한 혈관 외상을 유발한다는 직접 증거 (abstract-only)
 
 ## 임플란트 — 수직 골증대술 (Implants: Vertical Ridge Augmentation)
 - [[implants/vertical-ridge-augmentation/alshikh-2026-titanium-mesh-peek-mesh-horizontal-ridge-rct]] — Alshikh 2026 · rct · 수평골증대(14명/28부위) prebent Ti vs 맞춤 PEEK 메시: 선형증대 동등, PEEK 골량·흡수량↑(비율흡수 ~동일)
