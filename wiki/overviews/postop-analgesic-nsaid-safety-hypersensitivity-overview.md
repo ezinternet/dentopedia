@@ -26,6 +26,7 @@ relations:
 > - 6-7 약물 상호작용: ibuprofen은 aspirin, ACE 억제제, lithium, methotrexate, warfarin과 상호작용한다. 출혈 위험은 clopidogrel과 2–3배, warfarin과 4–5배다(Becker 2010). [확인]
 > - 8절 피린계 과민반응(Breidung 2025, 독일 단일기관 후향 17년, SJS/TEN 68건): 메타미졸이 단일 최다 원인약물(8/68)이었고 전체 사망률은 51%였다. 독일의 처방 관행을 반영한 지역 편중이 있다. 피린계 알레르기력은 경미한 두드러기가 아닐 수 있으므로 SJS/TEN 유사 반응을 구분하고, acetaminophen이나 ibuprofen으로 대체하며, 한국에서는 설피린이 복합제에 들어 있어 처방 전 성분을 확인한다. [확인]
 > - 종합 한 줄: 단회 치과 처방에서 NSAID 위해는 과대평가되어 있고, 진짜 위험은 만성·고위험 환자(신·심혈관·골유착)와 중증 피부 반응에 있다. [미검증]
+> - **위장관 안전성 2편 추가(2026-11-10)**: ① 아시아·태평양 다국가 코호트(Lai 2018): 디클로페낙 대비 록소프로펜 (Loxoprofen)의 위장관 입원 위험이 한국 자료에서 낮았으나(HR 0.37, 95% CI 0.25–0.54) 일본에서는 재현 안 됨(HR 1.65, 0.47–5.78). 초록만 확보. ② 65세 이상 골관절염 RCT(Endo 2026, 400명, 8주): 아세트아미노펜 (Acetaminophen) 1,800 mg/일은 비스테로이드성 소염진통제 (Nonsteroidal Anti-Inflammatory Drug, NSAID) 대비 비열등성을 근소하게 입증 못 했으나, 위장관 이상으로 인한 중단이 0.5% vs 록소프로펜 8.2%·세레콕시브 6.1%. 둘 다 비치과·장기 복용 자료라 단기 치과 처방으로의 외삽은 제한적.
 
 ## Three-line Summary
 
@@ -131,3 +132,19 @@ Sections 6 (6-0 to 6-7) and 8 of the parent, moved verbatim from [[overviews/dru
 - [[overviews/nsaid-osseointegration-impairment-overview]] — NSAIDs and osseointegration (existing sibling)
 - [[overviews/nsaid-aspirin-antiplatelet-interaction-overview]] — NSAID and aspirin interaction (existing sibling)
 - [[overviews/drug-anticoagulant-antiplatelet-perioperative-overview]] — antithrombotics (existing sibling)
+
+## Evidence Update — Gastrointestinal Tolerability: Loxoprofen in Korean Data, Acetaminophen in Older Adults (2026-11-10)
+
+| Paper | Design | Finding |
+|---|---|---|
+| [[drug/analgesics/lai-2018-comparative-safety-of-nsaids-for]] | Multi-database retrospective cohort, new NSAID users in five Asia-Pacific jurisdictions (Korea n=263,741) | GI hospitalisation vs diclofenac: loxoprofen lower in Korea (HR 0.37, 95% CI 0.25–0.54) but not in Japan (HR 1.65, 0.47–5.78). Mefenamic acid lower in Taiwan (HR 0.45) and Korea (HR 0.11), not in Hong Kong. |
+| [[drug/analgesics/endo-2026-comparison-of-the-efficacy-and]] | Multicentre double-blind RCT, 400 adults ≥65 with hip or knee osteoarthritis, 8 weeks | Worst-pain change −1.79 (acetaminophen 1,800 mg/day) vs −1.94 (NSAIDs); difference 0.14 (95% CI −0.33 to 0.61), non-inferiority margin 0.6 narrowly missed. GI disorders 17.1% vs 25.9%; discontinuation for GI disorders 0.5% vs 8.2% (loxoprofen) and 6.1% (celecoxib). |
+
+**Why two non-dental papers are here.** Loxoprofen is a common first choice in Korean dental prescribing, and direct dental safety data for it are thin. These are the nearest population-level and randomised estimates we hold.
+
+**What they support.**
+
+1. *Loxoprofen is not worse than diclofenac for serious GI events in Korean data.* That is the defensible reading of Lai. The stronger reading, that it is safer, was not reproduced in Japan, where the interval is wide. The outcome is hospitalisation, so it says nothing about the nausea and dyspepsia that drive most dental complaints.
+2. *Acetaminophen trades a little efficacy for a lot of tolerability in older adults.* Endo's pain difference is clinically negligible although formally not non-inferior. The discontinuation gap is not negligible: about 1 in 12 on loxoprofen stopped for GI reasons against 1 in 200 on acetaminophen. Celecoxib did not escape this (6.1%), which is worth knowing when a COX-2 inhibitor is chosen for GI protection.
+
+**Limits on transfer.** Endo studied 8 weeks of daily use; dental courses are days. The absolute GI rates will be lower in short courses, and the ranking is likely but unproven to hold. Lai was built from the abstract only, so confounding control cannot be appraised. Use both to inform the choice in a patient with GI risk or prior NSAID intolerance, not to set a default.
