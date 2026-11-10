@@ -34,6 +34,9 @@ source_papers:
   - implants/mbl/sanz-sanchez-2024-effect-one-time-abutment-placement-5year
   - implants/mbl/nunes-2025-final-prosthetic-abutment-insertion-time-oaot
   - implants/mbl/terzioglu-2024-effect-supracrestal-tissue-height-marginal
+  - implants/mbl/hermann-2000-crestal-bone-changes-around-titanium
+  - implants/mbl/hermann-2001-influence-size-microgap-crestal
+  - implants/mbl/atieh-2010-platform-switching-marginal-bone-preservation
 evidence_level: synthesis
 source: synthesis
 relations:
@@ -44,7 +47,7 @@ relations:
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
-> - 핵심 명제: 플랫폼 스위칭(Platform Switching, PLS — 임플란트보다 좁은 지대주를 얹는 방식)은 변연골 소실(Marginal Bone Loss, MBL)을 **일관되게, 반복적으로** 줄인다 — 총 30편(SR+MA 3편·RCT 6편·합의보고서 1편·후향연구 1편·FEA 2편·OAOT SR+MA 2편·기전·서술리뷰 다수). **방향은 수렴하지만 만장일치는 아니다** — null RCT 1편(Rossi 2015) 존재, 아래 참조.
+> - 핵심 명제: 플랫폼 스위칭(Platform Switching, PLS — 임플란트보다 좁은 지대주를 얹는 방식)은 변연골 소실(Marginal Bone Loss, MBL)을 **일관되게, 반복적으로** 줄인다 — 총 33편(SR+MA 4편·동물실험 2편·RCT 6편·합의보고서 1편·후향연구 1편·FEA 2편·OAOT SR+MA 2편·기전·서술리뷰 다수). **방향은 수렴하지만 만장일치는 아니다** — null RCT 1편(Rossi 2015) 존재, 아래 참조.
 > - **기전은 3층**: ①염증성 미세간극 이격(Desai 2013, Salimi 2011 — 임플란트-지대주 접합부(IAJ)를 내측·치관측으로 이동시켜 생물학적 폭경(biologic width) 재형성 자극 감소) ②생역학적 응력 재분산(유한요소분석(FEA) 원저 Sahabi 2013·Yadav 2025) ③부식·금속이온 방출 감소(Alrabeah 2016). **①은 이 위키가 가진 유일한 직접 측정(Chien 2016)이 오히려 반대 방향** — 확정된 사실로 서술하지 말 것.
 > - **크기(magnitude)는 연구마다 다르나 방향은 대체로 일치**: Strietzel 2015(SR+MA, 22편)는 PS 0.49mm vs PM 1.01mm(가중평균차 약 0.5mm); Di Girolamo 2016(SR+MA, 15 RCT/1,439개)은 "포함연구 중 PS가 더 나쁜 결과를 보인 연구 0편"; Juan-Montesinos 2022(SR+MA, 9편/937개)는 MD 0.255mm(p<0.05); RCT는 Enkling 2013 3년·Rocha 2016 3년(0.28 vs 0.68mm)·Messias 2019 5년(0.23mm 차이)·Bhatt 2025 12개월(0.32 vs 0.81mm, p<0.001)이 유의하게 PS 우위, Rossi 2015 6개월만 유의차 없음.
 > - **생존율은 무차이**: 모든 연구가 PS와 PM 간 임플란트 생존율에 유의차 없음을 일관되게 보고 — PS의 이득은 골 보존이지 생존 자체가 아니다.
@@ -61,10 +64,11 @@ relations:
 > - **[2026-10-17 추가] OAOT 프로토콜 — 어버트먼트 재연결 횟수가 MBL에 영향**: PS 임플란트에서 최종 어버트먼트를 1회만 연결하는 1어버트먼트-1회(OAOT, One-Abutment-One-Time) 프로토콜이 반복 탈착 대비 MBL을 추가 감소 — Abayov 2026 SR+MA(7 RCT, 645개, MD −0.23mm 유의), Nunes 2025 SR+MA(11 RCT, 699개) 수렴. 가장 강한 단일 RCT Calatrava 2024(Δ=0.48mm, p=0.008); 5년 Sanz-Sánchez 2024는 수치 차이(Δ=0.44mm) NS. **PS 여부뿐 아니라 어버트먼트 교체 횟수도 MBL 결정 인자다.** 단, 반복 탈착군의 MBL이 이미 PS 범주 안(0.5~1.0mm)에 있어 추가 이득의 임상 의미는 제한적.
 > - **[2026-10-17 추가] STH × 식립깊이 상호작용**: Terzioglu 2024 RCT(60개, 3군)에서 초치조정 조직 높이(STH, Supracrestal Tissue Height) ≤3mm + 치조정 식립(equicrestal)이 최대 MBL; 두꺼운 STH(>3mm) 또는 하방 식립이 얇은 조직 부위의 MBL을 보완. STH는 PS 임플란트 MBL의 독립 예측 인자 — 얇은 연조직 부위에서 치조정 PS 단독으로는 골소실이 충분히 억제되지 않음. Stacchi 2023 crossover RCT(102개 PS 원뿔 연결, 1mm vs 2mm 하방)에서 2mm 하방이 1년 임플란트 표면 노출 0% vs 11.8%(1mm) — MBL 차이는 NS지만 표면 피개 면에서 우위.
 > - **[2026-08-10 추가] 얼마나 벌려야 하나(offset magnitude)**: 기존 9편은 전부 "PS 했다/안 했다"만 비교했지 오프셋 크기 자체는 다루지 않았음 — 신규 4편(Hürzeler 2007·Canullo & Rasperini 2007·Rodríguez-Ciurana 2009·이들을 엮은 Gupta 2019 리뷰)이 실제 편측 미스매치 수치를 공급. Hürzeler 2007: **편측 0.45mm 축소가 골소실 방지에 "충분"**하다는, 이 위키에서 가장 구체적인 임계값 주장(단, 소규모·비무작위·단일 오프셋 시험). Canullo 2007은 1.0mm(가장 큰 값)도 효과 있었음을 보고(대조군 없는 증례군). 그러나 어느 연구도 오프셋 크기를 독립변수로 통제한 용량-반응 시험은 아니므로, **검증된 최소 임계값이나 dose-response 곡선은 여전히 확립되지 않음**. Rodríguez-Ciurana 2009는 별개로 임플란트 간 거리(<3mm 근접배치에서도 PS가 골첨부 보존) 데이터도 제공 — 오프셋 크기 질문과 혼동 금지.
+> - **기초 근거 3편 추가(2026-11-10)**: ① Hermann 2000(개 실험, 59개): 2피스 임플란트에서 마이크로갭 (Microgap)이 치조정 높이 이하에 있으면 그 위치가 골흡수를 정한다(계면~골 1.25–1.68 mm); 매식·비매식 차이 없음. ② Hermann 2001(60개): 골소실을 좌우하는 것은 **갭의 크기가 아니라 부품의 움직임** — 레이저 용접 1.06–1.28 mm vs 나사 유지 1.65–1.72 mm, 갭 크기(<10·50·100 µm)는 무영향. ③ Atieh 2010 SR+MA(10편·1,239개): 플랫폼 스위칭 (Platform Switching, PS)이 변연골 소실을 0.37 mm 줄이고(95% CI −0.55~−0.20) 실패율은 동일; 불일치 ≥0.4 mm에서 더 유리. 세 편 모두 초록 기반.
 
 ## Three-line Summary
 
-Synthesis of 30 papers on platform switching (PLS) and marginal bone loss (MBL), including the 2006 origin paper that coined the term: three SR+MA (Strietzel 2015, 22 studies: PS 0.49mm vs PM 1.01mm weighted mean; Di Girolamo 2016, 15 RCTs/1,439 implants: zero included study favored PM; Juan-Montesinos 2022, 9 studies/937 implants: MD 0.255mm, p<0.05), a 2013 expert consensus report (Schwarz 2013, Camlog Foundation), and five RCTs (Enkling 2013, 3yr; Rocha 2016, 3yr, PS 0.28 vs PM 0.68mm, p=0.002; Messias 2019, 5yr equivalence trial, PS 0.23mm lower, p=0.025; Bhatt 2025, 12mo, PS 0.32 vs PM 0.81mm, p<0.001) converge on direction — PLS reduces MBL with no survival penalty — with one dissent: Rossi 2015, a 6-month pilot RCT (n=39 implants), found no significant difference on any measured parameter.
+Synthesis of 33 papers on platform switching (PLS) and marginal bone loss (MBL), including the 2006 origin paper that coined the term: three SR+MA (Strietzel 2015, 22 studies: PS 0.49mm vs PM 1.01mm weighted mean; Di Girolamo 2016, 15 RCTs/1,439 implants: zero included study favored PM; Juan-Montesinos 2022, 9 studies/937 implants: MD 0.255mm, p<0.05), a 2013 expert consensus report (Schwarz 2013, Camlog Foundation), and five RCTs (Enkling 2013, 3yr; Rocha 2016, 3yr, PS 0.28 vs PM 0.68mm, p=0.002; Messias 2019, 5yr equivalence trial, PS 0.23mm lower, p=0.025; Bhatt 2025, 12mo, PS 0.32 vs PM 0.81mm, p<0.001) converge on direction — PLS reduces MBL with no survival penalty — with one dissent: Rossi 2015, a 6-month pilot RCT (n=39 implants), found no significant difference on any measured parameter.
 
 The mechanism is now three-layered rather than two: a coronal-and-inward shift of the implant-abutment junction's inflammatory microgap away from crestal bone (Desai 2013, Salimi 2011), biomechanical stress redistribution confirmed by two primary FEA studies (Sahabi 2013, Yadav 2025 — bone stress down, but implant/abutment/screw stress up), and roughly twofold lower metal-ion release from the platform-switched interface in accelerated corrosion testing (Alrabeah 2016). The biologic layer is not clean: Chien 2016 found peri-implant crevicular cytokine profiles broadly similar between PS and PM during early healing, with TNF-α paradoxically ~3x *higher* in PS at week 1.
 
@@ -72,7 +76,7 @@ Platform switching was not designed from the outset for bone preservation — it
 
 ## 세줄요약
 
-플랫폼 스위칭(Platform Switching, PLS)과 변연골 소실(MBL) 관련 30편 종합(용어를 최초 명명한 2006년 origin 논문 포함) — SR+MA 3편(Strietzel 2015, 22편: PS 0.49mm vs PM 1.01mm; Di Girolamo 2016, 15 RCT/1,439개: 포함연구 중 PM이 더 나은 연구 0편; Juan-Montesinos 2022, 9편/937개: MD 0.255mm, p<0.05), 전문가 합의보고서 1편(Schwarz 2013, Camlog 재단), RCT 5편(Enkling 2013 3년; Rocha 2016 3년, PS 0.28 vs PM 0.68mm, p=0.002; Messias 2019 5년 동등성시험, PS 0.23mm 적음, p=0.025; Bhatt 2025 12개월, PS 0.32 vs PM 0.81mm, p<0.001)이 방향에서 수렴: PLS는 MBL을 줄이며 생존율 손해는 없음. 단 **반대 1편** — Rossi 2015(6개월 파일럿 RCT, 임플란트 39개)는 측정한 모든 지표에서 유의차를 찾지 못했다.
+플랫폼 스위칭(Platform Switching, PLS)과 변연골 소실(MBL) 관련 33편 종합(용어를 최초 명명한 2006년 origin 논문 포함) — SR+MA 3편(Strietzel 2015, 22편: PS 0.49mm vs PM 1.01mm; Di Girolamo 2016, 15 RCT/1,439개: 포함연구 중 PM이 더 나은 연구 0편; Juan-Montesinos 2022, 9편/937개: MD 0.255mm, p<0.05), 전문가 합의보고서 1편(Schwarz 2013, Camlog 재단), RCT 5편(Enkling 2013 3년; Rocha 2016 3년, PS 0.28 vs PM 0.68mm, p=0.002; Messias 2019 5년 동등성시험, PS 0.23mm 적음, p=0.025; Bhatt 2025 12개월, PS 0.32 vs PM 0.81mm, p<0.001)이 방향에서 수렴: PLS는 MBL을 줄이며 생존율 손해는 없음. 단 **반대 1편** — Rossi 2015(6개월 파일럿 RCT, 임플란트 39개)는 측정한 모든 지표에서 유의차를 찾지 못했다.
 
 기전은 이제 2층이 아니라 3층이다 — ①임플란트-지대주 접합부의 염증성 미세간극을 치조정에서 치관측·내측으로 이동(Desai 2013, Salimi 2011), ②생역학적 응력 재분산(유한요소분석 원저 2편 Sahabi 2013·Yadav 2025로 확인 — 골 응력은 내려가나 임플란트·지대주·나사 응력은 올라감), ③가속부식 시험에서 스위칭 계면의 금속이온 방출이 약 2배 적음(Alrabeah 2016). 생물학적 층은 깔끔하지 않다 — Chien 2016은 초기 치유기 열구액 사이토카인 양상이 두 군에서 대체로 비슷했고 종양괴사인자-α (TNF-α)는 1주차에 PS군이 오히려 약 3배 높았다고 보고.
 
@@ -244,3 +248,21 @@ The two best individual RCTs in this cluster give a sense of the range. [[implan
 
 - [[overviews/implant-failure-mbl-risk-factors-overview]] — general MBL risk-factor synthesis; explicitly flagged the absence of a dedicated platform-switching page and deferred the connection-geometry question here
 - [[overviews/implants-clinical-decision-ladder]] — general implant decision ladder; platform switching is one design-choice branch within it
+
+## Evidence Update — The Mechanistic Foundation: Microgap Position and Micromovement (2026-11-10)
+
+Three older papers that the later platform-switching literature rests on are now in the wiki.
+
+| Paper | Design | Finding |
+|---|---|---|
+| [[implants/mbl/hermann-2000-crestal-bone-changes-around-titanium]] | Randomised canine study, 59 SLA implants, 1- vs 2-piece, submerged vs non-submerged, unloaded, 6 months | One-piece: first bone contact within 0.20 mm of the rough/smooth border. Two-piece with the interface at or below the crest: the microgap set the resorption (interface-to-bone 1.25–1.68 mm). Submerged vs non-submerged made no difference. |
+| [[implants/mbl/hermann-2001-influence-size-microgap-crestal]] | Randomised canine study, 60 two-piece implants, three microgap sizes, laser-welded vs screw-retained, unloaded, 3 months | Laser-welded 1.06–1.28 mm vs screw-retained 1.65–1.72 mm (significant in every size pairing). Microgap size (<10, ~50, ~100 µm) had no effect. |
+| [[implants/mbl/atieh-2010-platform-switching-marginal-bone-preservation]] | SR+MA, 10 controlled trials, 1,239 implants, searched to March 2010 | PS reduced marginal bone loss (MD −0.37 mm; 95% CI −0.55 to −0.20) with no difference in failure (RR 0.93). Mismatch ≥0.4 mm associated with a better bone response. |
+
+**What the animal work establishes.** Read together, the two Hermann studies say that crestal bone responds to *where* the implant–abutment interface is and *whether it moves*, not to how wide the gap is. Bone settles a roughly constant distance from a mobile interface. This is the biological argument for platform switching: if the interface cannot be eliminated, move it inward, away from the bone.
+
+**What it adds to this page.** The 2001 result bears on the connection-design discussion here. If movement rather than gap size drives loss, then the benefit attributed to platform switching and the benefit attributed to stable conical connections are partly the same benefit, and trials that change both at once cannot separate them. That is a reason for caution about attributing all of the pooled effect to the horizontal offset alone.
+
+**Atieh in context.** The 0.37 mm pooled reduction is the first meta-analytic estimate in this literature and it has the same sign as the later, larger reviews already synthesised above. Its dose-response observation (a larger mismatch does better, with ≥0.4 mm as the threshold) is the origin of the mismatch-size question this page tracks. It is superseded in size and currency by the later reviews and is kept as the historical anchor.
+
+**Limits.** The canine implants were unloaded and followed for 3–6 months, so they establish mechanism, not clinical magnitude. All three pages were built from abstracts.
