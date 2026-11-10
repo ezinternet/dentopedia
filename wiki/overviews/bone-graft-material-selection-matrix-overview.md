@@ -45,6 +45,7 @@ relations:
 > - **동종골 블록이 수평증대의 자가골 블록 대안**: 실패 2.4%, 수평획득 4.79mm, 임플란트 생존 96.9%(Monje 2014, SR 15편); 블록 생존 94.52%, 임플란트 97.36%, 주요 합병증은 노출(Pérez-González 2020, SR 7편, 323 블록, 501 임플란트). 공여부 없이 자가골 블록에 근접하는 임상 결과.
 > - **맞춤형 CAD/CAM 스캐폴드 수직증대 결과** (Saleh 2026, SR+MA 13편, 241 환자): 6–9개월에 수직 5.64mm, 수평 4.96mm, 용적 1,307mm³. 합병증 21.7%(조기 24.3%, 후기 16.5%). 경흡연 −2.4mm, 숙련 술자 +2.42mm. GRADE 수직·수평 moderate, 용적·합병증 low. 대부분(9/13편) 맞춤형 티타늄 메쉬.
 > - **임상 bottom line**: 재료 선택은 대개 효능이 아니라 부피안정성 목표·비용·가용성·공여부 이환·잔존입자 허용도로 결정된다. 생활골 최대화가 목표면 자가골/치아유래, 부피장기유지가 목표면 저흡수 이종골, 공여부 회피면 동종골/합성골(또는 동종골 블록) — 그리고 어떤 재료든 봉합 시 붕괴를 과충전·막고정으로 방어하라.
+> - **돼지뼈 이종골 장기 자료 추가(2026-11-10, Choi 2023, 분당서울대병원, 28명·49개, 부하 후 평균 67.5개월)**: 수평 치조제 증대술과 동시 식립 — 변연골 소실 1년 0.23 mm·최종 0.40 mm, 생존 95.9%·성공 89.8%; 돼지뼈 단독 24부위는 생존·성공 100%. 차폐막 사용 여부는 무차이, 실패는 모두 감염된 치조제 분할·혼합 이식 부위. 소 유래 입자골·자가 블록골의 정당한 대안이나 **수평 폭 자체는 측정하지 않았고** 비교가 결손 중증도에 교란됨.
 
 ## Three-line Summary
 
@@ -189,3 +190,16 @@ Adjuncts (simvastatin, hyaluronic acid, platelet concentrates) may be added at l
 - [[overviews/gbr-barrier-membrane-overview]] — barrier-membrane axis
 - [[overviews/bone-regeneration-socket-biology-and-arp-critique]] — vital-bone vs volume tension, when NOT to graft
 - [[overviews/sinus-lift-graft-material-prf-overview]] — sinus-lift graft material and PRF sub-overview (updated 2026-10-21 with cross-class NMA)
+
+## Evidence Update — Porcine Xenograft in Horizontal Augmentation at Five Years (2026-11-10)
+
+[[bone-regeneration/choi-2023-horizontal-ridge-augmentation-porcine-bone]] is a single-centre retrospective cohort from Seoul National University Bundang Hospital: 28 patients, 49 implants placed simultaneously with horizontal ridge augmentation using a porcine bone-derived xenograft, followed a mean 67.5 months after loading.
+
+- Marginal bone loss 0.23 mm at 1 year and 0.40 mm at final follow-up.
+- Survival 95.9%, success 89.8% overall.
+- The 24 porcine-only sites: 100% survival and success (0.41 mm at 65.8 months).
+- Membrane use made no difference. Every failure occurred in an infected ridge-split, mixed-graft site.
+
+**Where it sits in the matrix.** The xenograft class in this matrix is represented mostly by bovine mineral. Choi provides the long-term clinical entry for porcine-derived material in the same slot, and the marginal bone figures are of the same order as those reported for bovine particulate. It is reasonable to treat porcine xenograft as an alternative within the class for contained horizontal defects with simultaneous placement.
+
+**What it does not show.** The paper never measured horizontal width, so it documents implant outcomes in augmented bone and not how much augmentation was gained or kept. The membrane and mixed-graft comparisons are confounded by indication: surgeons added membranes and autogenous bone to the worse defects, and ridge splits failed through infection. The clean result is the porcine-only subgroup, and those were the most favourable defects.
