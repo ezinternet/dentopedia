@@ -12,6 +12,7 @@ source_papers:
   - wiki/digital-workflow/wei-2025-autonomous-robotic-surgery-dynamic-navigation.md
   - wiki/digital-workflow/chen-2025-robot-assisted-dynamic-navigation-accuracy.md
   - wiki/digital-workflow/wu-2024-autonomous-dental-implant-robotic-accuracy.md
+  - wiki/digital-workflow/ku-2022-accuracy-dental-implant-placement-computer-guided.md
 tags: [immediate-implant, guided-surgery, CAIS, dynamic-navigation, robotic-surgery, accuracy, synthesis, hard-outcomes, marginal-bone-loss]
 relations:
   - type: refines
@@ -34,6 +35,7 @@ relations:
 > - **정확도 우위 ≠ 임상결과 우위 (Shirani 2026 SR+MA, RCT 9편·395명·1,242 임플란트)**: 무작위대조시험만 모아 임상·방사선학적 결과를 보면 CAIS와 freehand의 **변연골소실(MBL)·생존율에 전체적 차이가 없다**(양쪽 생존 >98%). 위 페이지 전체가 근거로 삼는 "편차(deviation)" 우위는 surrogate outcome이며, 아직 hard outcome으로 번역되지 않았다는 뜻이다.
 > - Shirani의 하위군 분석은 이 페이지의 결론과 오히려 정합적이다 — CAIS가 이기는 곳은 **신선 발치와(fresh socket)의 MBL**(P=.04)·환자만족(P=.03)·핑크심미점수(PES, P=.009)로, 정확히 드릴 편위 위험이 가장 큰 IIP 상황이다. 즉 "guided의 이득은 편위 위험이 큰 증례에 국한된다"가 데이터의 실제 모양이다.
 > - 반대 방향 신호 2개(중요): ① freehand가 **생물학적 합병증이 더 적었다**(P=.04). ② **점막지지형(tissue-supported) 가이드**는 freehand보다 MBL이 오히려 나빴다(P=.03) — 가이드를 쓰더라도 지지형식(치아지지 vs 점막지지)과 판막 설계가 결과를 뒤집을 수 있다. 근거확실성은 GRADE very-low~moderate, 9편 중 6편이 비뚤림 고위험.
+> - **실제 진료 코호트 추가(2026-11-10, Ku 2022, 분당서울대병원, 34명·89개)**: 가이드를 끝까지 쓴 임플란트의 편차는 진입점 2.69±1.00 mm·각도 5.52±2.80°였으나, **89개 중 38개(42.7%)는 수술 중 가이드를 포기**했고 그 편차는 14.53 mm·11.75°. 가이드 사용군 안에서는 무피판이 피판보다 정확(2.22 vs 3.18 mm, 4.27° vs 6.82°). 포기 사유는 주로 초기 고정 부족 — 문헌의 가이드 정확도 수치는 '가이드가 끝까지 쓰인 선택된 증례'의 값이다.
 
 ## Three-line Summary
 
@@ -114,3 +116,20 @@ Read Shirani's subgroups, though, and the dissociation resolves into agreement w
 - [[digital-workflow/shirani-2026-computer-assisted-vs-freehand-implant-placement-sr-ma]] — refines this page: RCT-only *clinical-outcome* SR+MA showing accuracy superiority does not translate into MBL/survival superiority, except in fresh sockets; flags tissue-supported guides as worse than freehand on MBL.
 
 <!-- thesis-reviewed: 2026-10-30 -->
+
+## Evidence Update — The Denominator Problem: How Often the Guide Is Abandoned (2026-11-10)
+
+[[digital-workflow/ku-2022-accuracy-dental-implant-placement-computer-guided]] is a retrospective cohort from Seoul National University Bundang Hospital that superimposed postoperative CBCT on the virtual plan for 89 implants in 34 patients.
+
+| Group | Entry-point deviation | Angular deviation |
+|---|---|---|
+| Guide used throughout (51 implants) | 2.69 ± 1.00 mm | 5.52 ± 2.80° |
+| Guide abandoned (38 implants, 42.7%) | 14.53 ± 6.64 mm | 11.75 ± 4.39° |
+
+Within the guided group, flapless placement was more accurate than flapped (2.22 vs 3.18 mm, P<0.001; 4.27° vs 6.82°, P=0.001).
+
+**Why this matters more than its accuracy figures.** The accuracy studies on this page report deviation in cases where the guide was used. Ku reports how often that condition held in routine practice at one centre, and the answer was a little over half. The guide was abandoned mostly because primary stability could not be achieved along the planned path. Published static-guide accuracy therefore describes a selected subset, and an intention-to-treat estimate would be considerably worse.
+
+**Bearing on immediate placement.** Immediate sites are where a planned trajectory is most likely to fail to engage bone, which is the reason for abandonment in this cohort. The case for dynamic navigation or robotics made elsewhere on this page rests partly on their ability to adjust intra-operatively; this cohort gives a measure of how often adjustment is needed.
+
+**Limits.** The guided deviations are also larger than most published static-guide figures, which suggests an early or unoptimised workflow. The 42.7% is one centre's experience, not a general rate.
