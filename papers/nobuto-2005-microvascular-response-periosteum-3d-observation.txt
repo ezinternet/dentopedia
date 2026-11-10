@@ -1,0 +1,15 @@
+TITLE: Microvascular response in the periosteum following mucoperiosteal flap surgery in dogs: 3-dimensional observation of an angiogenic process.
+AUTHORS: Nobuto Takahiro, Suwa Fumihiko, Kono Tomoo, Hatakeyama Yoshiyuki, Honjou Norisuke, Shirai Takeo, Mitsuyama Makoto, Imai Hisao
+JOURNAL: Journal of Periodontology
+ID[pmid]: 16101367
+ID[doi]: 10.1902/jop.2005.76.8.1339
+
+## ABSTRACT
+
+BACKGROUND: An increase in blood flow from the periosteum after mucoperiosteal flap surgery is essential for healing and angiogenesis and repair may work in close cooperation to facilitate this process. To investigate the role of the periosteal vascular plexus in the healing process, we used 3-dimensional (3-D) and ultrastructural monitoring of the angiogenic process after elevation of the mucoperiosteal flap.
+
+METHODS: Mucoperiosteal flap surgery was performed on nine adult beagle dogs. The periosteal vascular plexus was observed 3, 5, and 7 days after surgery in histological specimens in which blood vessels were injected with India ink under a light microscope, in ultrathin sections under a transmission electron microscope, and in acryl plastic vascular cast specimens under a scanning electron microscope.
+
+RESULTS: On day 3 after surgery, new blood vessels, formed through sprouting, bridging, and intussusception, were observed in ultrathin sections and vascular casts. In addition, blood island-like structures consisting of clustered immature endothelial cells were noted in the repaired tissue. On days 5 to 7 after surgery, 3-D observation of vascular casts clarified that these new blood vessels had a sinus-like morphology in the interstitium of the periosteal vascular plexus. These new sinusoidal vessels exhibited a stereoscopic structure with increased continuity as the blood vessels matured and ultrastructurally the vascular endothelium was thinned.
+
+CONCLUSIONS: After mucoperiosteal flap elevation, the periosteal vasculature exhibited potent blood vessel-forming activity through various angiogenic mechanisms and through repair activity. Our results provide a 3-dimensional clarification that the periosteal vascular plexus has an important role in the healing process after flap surgery.
