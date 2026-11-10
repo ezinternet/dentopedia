@@ -25,6 +25,7 @@ relations:
 > - 오피오이드 회피: Feldman 2024 RCT(n=1,815)에서 ibuprofen 400 + APAP 500이 hydrocodone 5 + APAP 300보다 1–2일 통증에서 우월했고, 오피오이드가 비오피오이드를 능가한 시점은 없었다. codeine은 CYP2D6 의존 prodrug라 효과를 예측할 수 없다(Becker 2010). [확인]
 > - 정맥투여 NSAID(Maurice-Szamburski 2025, 서술 고찰): 전신마취나 진정처럼 경구 투여가 불가능할 때 오피오이드 대안이 된다. 술후 오피오이드 사용량이 20–60% 줄었다. 일반 외래 치과는 경구가 가능하므로 경구 프로토콜이 1차다. [확인]
 > - 종합 한 줄: 1차는 NSAID + acetaminophen 병용이고, 오피오이드는 외과 발치에서 비오피오이드가 불충분할 때 최소 용량으로 쓰는 구제 수단이다. [미검증]
+> - **코데인 복합제 SR+MA 추가(2026-11-10, Rosa 2026, RCT 6편·582명, 제3대구치)**: 파라세타몰+코데인 (Paracetamol + Codeine)은 통증과 구조 약물 필요를 유의하게 줄이지만(OR 0.45, 95% CI 0.30–0.68) 부작용이 흔하다 — 졸림 25%(NNH 7), 오심 18%(NNH 11), 어지러움 12%(NNH 15). NSAID 금기 환자의 대안이지 1차 선택이 아님. 초록만 확보.
 
 ## Three-line Summary
 
@@ -176,3 +177,14 @@ p=0.002, 명확한 차이.
 - [[overviews/postop-analgesic-preemptive-steroid-endo-pediatric-overview]] — preemptive analgesia, corticosteroids, endodontic and pediatric pain (sibling)
 - [[overviews/postop-analgesic-nsaid-safety-hypersensitivity-overview]] — NSAID safety and hypersensitivity (sibling)
 - [[overviews/nsaid-hypersensitivity-analgesic-selection-overview]] — NSAID hypersensitivity (existing sibling)
+
+## Evidence Update — Paracetamol + Codeine After Third-Molar Surgery: Effective, at a Price (2026-11-10)
+
+[[drug/analgesics/rosa-2026-analgesic-efficacy-and-adverse-effects]] is a meta-analytic systematic review of 6 RCTs (582 patients) comparing paracetamol + codeine with placebo or other analgesics after third-molar surgery.
+
+- Pain was significantly reduced and rescue medication delayed (OR 0.45, 95% CI 0.30–0.68).
+- Adverse events were common: drowsiness 25% (NNH 7), nausea 18% (NNH 11), dizziness 12% (NNH 15).
+
+**Fit with the opioid-sparing position.** The guideline evidence on this page puts NSAID-based regimens first and opioid combinations in reserve. Rosa is compatible with that and quantifies the reserve option: it works, and roughly one patient in seven will be drowsy and one in eleven nauseated because of it. Its place is the patient in whom NSAIDs are contraindicated, with explicit counselling about sedation and driving, not as a routine step up.
+
+**Limit.** Built from the abstract only, so the comparators and doses behind the pooled estimate could not be checked.
