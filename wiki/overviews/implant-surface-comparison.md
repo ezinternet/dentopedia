@@ -9,6 +9,8 @@ tags: [implant-surface, SLA, SLActive, CA, UV-photofunctionalization, hydroxyapa
 source_papers:
   - wiki/implants/isq/novellino-2017-rfa-posterior-maxilla-surface-treatment.md
   - wiki/implants/isq/yi-2011-rfa-stability-types-areas.md
+  - wiki/implants/surface/kim-2021-comparison-sandblasted-acid-etched-surface.md
+  - wiki/implants/surface/jeon-2022-randomized-clinical-trial-evaluate-efficacy.md
 evidence_level: synthesis
 source: synthesis
 relations:
@@ -75,6 +77,7 @@ relations:
 > - 임플란트 넥(Neck) 미세지형은 몸체 표면과 별개 축(Huraib 2023, SR 15편): 거친 미세나사산/레이저 넥이 매끄러운 넥보다 MBL·PD 유의하게 낮음, 단 1편은 매끄러운 넥에서 peri-implantitis 빈도가 오히려 낮음(2.92% vs 14.41%) — MBL과 감염위험이 같은 방향으로 안 움직인 사례.
 > - 한계: 직접 비교 RCT는 등장했으나 SLA-SLActive-CA 3자 동시 비교·다기관 RCT는 여전히 부재; 암절제·방사선 환자는 UV-PF로도 7년 22.2%로 불충분(병태생리적 손상 보상 불가); TCP/HA·Mg·Ag 코팅은 전부 동물 데이터뿐 인체 RCT 부재.
 > - 골질별 알고리듬: D1/D2 → SLA/SA, D3 → CA/친수성, D4 → CA/SLActive + OD 또는 UV-PF, 노화 임플란트 → UV-PF 역전 후 사용. (CaP/HA 코팅은 이제 골질 알고리듬에서 근거 등급 하향 — §2.4 참조)
+> - **국내 RCT 2편 추가(2026-11-10, 분당서울대병원)**: ① 친수성 나노 수산화인회석 코팅 SLA vs 일반 SLA(Kim 2021, 27명·31개, 상악 구치부): 1차 임플란트 안정성 지수 (Implant Stability Quotient, ISQ) 71.24 vs 73.86, 2차 78.29 vs 79.07 — 모두 비유의. 친수성 군이 치유 중 ISQ를 더 얻었으나(+7.06 vs +5.21, P=0.265) 1년 결과는 동일, 3개월 조기 부하로 양 군 100%. ② SLA 내 거칠기 차이(Jeon 2022, 75개 분석, Ra 3.09 vs 2.50 µm): 안정성·변연골·성공률 모두 동등(100%). **표면 간 차이는 치유 초기 속도에 있고 1년 임상 결과에는 없다.**
 
 ## Three-line Summary
 
@@ -454,3 +457,17 @@ LLM-Wiki `implants/surface/` 35편+ (2026-06까지 15편+횡단인용 3편; 2026
 **Q3.** UV 광기능화(UV Photofunctionalization, UV-PF)가 생물학적 노화(Biological Aging)를 역전시키는 기전을 이 오버뷰에 근거해 설명하세요. *(근거: Wagstaffe 2019 + Houshmand 2023 — 탄화수소/카르복실기 결합)*
 
 > **모범답안**: 이 오버뷰의 2026-08 갱신에 따르면, **산화막(TiO₂)과 오염막은 다른 층**이다. 티타늄은 가공 직후 영구적으로 산화막이 생기고 이것은 노화해도 사라지지 않는다. "생물학적 노화"란 산화막 위에 **별도로 쌓이는 부착탄소오염(Adventitious Carbon) 층** — 구체적으로 폼산·아세트산 같은 소형 유기산이 카르복실기-Ti 결합으로 화학흡착된 것(Wagstaffe 2019, XPS/STM). UV-PF가 벗겨내는 것은 산화막이 아니라 이 카르복실기-Ti 결합이다. 단, UV 파장이 중요하다: **UVC는 실제로 탄소를 제거하나, UVB는 접촉각만 개선하고 탄소는 그대로** 남는다(Houshmand 2023, EDS 확인). 따라서 "UV 처리"라고 통칭할 것이 아니라 UVC 포함 여부를 확인해야 한다.
+
+## Evidence Update — Two Korean RCTs: Surface Differences Do Not Reach the 1-Year Outcome (2026-11-10)
+
+| Paper | Design | Finding |
+|---|---|---|
+| [[implants/surface/kim-2021-comparison-sandblasted-acid-etched-surface]] | Prospective RCT, 27 patients, 31 implants, posterior maxilla (residual height ≥4 mm), SLA vs nano-HA-coated hydrophilic SLA | Primary ISQ 73.86 vs 71.24 (P=0.222); secondary 79.07 vs 78.29 (P=0.667). ISQ gain during healing +5.21 vs +7.06 (P=0.265). MBL 0.045 vs 0.032 mm. 100% success and survival in both with 3-month early loading. |
+| [[implants/surface/jeon-2022-randomized-clinical-trial-evaluate-efficacy]] | Randomised trial, 80 implants registered, 75 analysed, two SLA implants differing in roughness (Ra 3.09 vs 2.50 µm) | Primary ISQ 79.7 vs 82.9; secondary 82.1 vs 84.4. Success and survival 100% in both. MBL 0.07 vs 0.00 mm (P=0.0778). Only difference: lower plaque index in the rougher group. |
+
+**Synthesis.** Both trials test a refinement within the SLA family and both come back clinically null.
+
+- *Hydrophilicity shows up as a trajectory, not an endpoint.* The hydrophilic implants started slightly lower and gained more stability during healing, which is the pattern the mechanistic work on this page predicts for chemically active surfaces. By the secondary measurement the groups were indistinguishable, and the difference was never statistically significant. This matches the matrix above: surface chemistry buys time in early healing. It is an argument for a hydrophilic surface when loading must be early or bone is poor, and not otherwise.
+- *More roughness is not more benefit.* A 0.6 µm difference in Ra changed nothing measurable at one year. Roughness above the established SLA range is not a selection criterion.
+
+**What the trials cannot show.** Both are small, single-centre, one-year studies in patients selected for adequate primary stability (Kim required primary ISQ ≥65 for early loading). Equivalence at 100% survival in favourable cases says little about compromised sites, where surface differences would be most likely to matter and which neither trial enrolled.
