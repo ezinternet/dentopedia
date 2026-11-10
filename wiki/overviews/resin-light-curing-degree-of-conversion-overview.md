@@ -25,6 +25,7 @@ source_collection: synthesis
 > - Polywave의 이득은 작고 조건부다: 대체 광개시제 재료에서 DC는 18편 중 9편, 미세경도는 7편에서만 좋아졌고 굴곡강도는 차이가 없었다(Lima 2023, 근거 질 낮음). 벌크필은 ≥1000 mW/cm²·≥20초면 대부분 충분하고(하면/상면 경도비 ≥0.8, DC ≥50%), polywave는 유용하지만 필수는 아니다(Lima 2018 SR 33편). [확인]
 > - 실제로 중요한 것은 전달된 에너지(J/cm²)·스펙트럼 일치·빔 균일성이지 표기 조사강도가 아니다. 거리·각도·유지관리·교육이 장치 세대보다 크고, "boost" 모드보다 시간을 늘리라는 권고다(Ceinos 2026). 레진 시멘트는 dual-cure가 DC 70–90%로 가장 높고, 세라믹 0.4 mm에서 약 83%, 1.5 mm에서 약 77%였다(Santos 2024). [확인]
 > - **확신도**: 4편 모두 in-vitro(전임상) — 임상 RCT 검증 없음. n이 작아(그룹당 3~7) 예비적(preliminary) 근거로 읽어야 함. Hashemian은 윤리승인서 소재불명을 저자 스스로 명시 — 근거 중량은 다소 낮게 잡을 것.
+> - **산소 억제 축 2편 추가(2026-11-10)**: 광조사가 끝난 뒤에도 중합은 계속되는데, 공기에 노출된 표면은 그 지연 후중합 (Delayed Post-Curing Stage, DPCS)을 얻지 못한다 — 산소 차단 시 전환율 (Degree of Conversion, DC) 50%→65%, 공기 노출 시 정체, 6시간 비커스 경도 (Vickers Hardness Number, VHN) 9.10 vs 4.80(Aromaa 2018). 산소억제층 (Oxygen-Inhibited Layer, OIL) 처리는 마무리·연마가 경도 최고, 마일러 스트립이 색변화 최소, 글리세린은 중간(Vinothkumar 2025). 둘 다 in-vitro.
 
 ## Three-line Summary
 
@@ -191,3 +192,16 @@ When a clinical decision falls into one of these gaps, the wiki cannot answer �
 - [[resin-bonding/li-2025-curing-modes-dual-cure-dentin]] — light-curing vs self-curing of dual-cure resin cements at dentin bond strength/durability (the curing-mode chemistry counterpart to this page's device/geometry focus)
 - [[inlay/kincses-2023-ceramic-dentin-thickness-luting-intrapulpal-temperature-inlay]] — ceramic/luting-layer thickness as a recurring clinically relevant variable, there for intrapulpal temperature rather than DC
 - [[overviews/direct-resin-restoration-adhesion-placement-overview]] — §2.3 covers polymerization shrinkage/monomer-chemistry stress reduction, a distinct angle from this page's light-delivery-geometry focus
+
+## Evidence Update — Oxygen Inhibition Continues After the Light Goes Off (2026-11-10)
+
+Parts 0–2 treat conversion as a problem of light delivery. Two in-vitro papers add a determinant that light geometry cannot fix: the atmosphere at the surface.
+
+| Paper | Design | Finding |
+|---|---|---|
+| [[resin/aromaa-2018-delayed-post-curing-oxygen-inhibition]] | BisGMA-TEGDMA model resin, FTIR + VHN, n=6/group, followed to 360 min after light-cure | Oxygen-protected surfaces kept converting (DC 50% → 65%); air-exposed surfaces stagnated. Surface hardness at 6 h: 9.10 vs 4.80 VHN (p<0.005). |
+| [[resin/vinothkumar-2025-surface-treatment-color-stability-microhardness]] | 240 discs, two nanohybrid enamel-shade composites, four oxygen-inhibited-layer treatments | Finishing + polishing gave the highest microhardness; Mylar strip gave the least colour change; glycerin was intermediate on both; no treatment was worst. |
+
+**What this changes.** The delayed post-curing stage is real and sizeable, but only where oxygen is excluded. A perfectly irradiated increment therefore still ends with an under-converted outer layer if it cures against air. The two papers agree on the remedy from different directions: Aromaa shows the loss mechanistically, Vinothkumar shows that physically removing the layer (finishing and polishing) recovers hardness better than merely covering it (glycerin).
+
+**Limits.** Aromaa used an unfilled model resin, not a commercial composite; Vinothkumar tested two brands. Neither measured a clinical outcome, so this joins the rest of the page as preliminary, in-vitro evidence.
