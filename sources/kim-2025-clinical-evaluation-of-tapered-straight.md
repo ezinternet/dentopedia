@@ -68,5 +68,5 @@ Survival was high but the study was underpowered for risk factors (wide CIs, 6 e
 - [[implants/mbl/kim-2022-abutment-connection-mbl-survival]] — long-term MBL and survival cohort (Korean centre).
 - [[implants/isq/song-2026-tapered-straight-implants-immediate-loading-3year]] — tapered-straight implants.
 
-## 7. Why Ingested
+## Why Ingested
 Long-term (≥5 year) Korean single-centre survival and MBL data for a tapered-straight-tapered SLA implant, with DM and placement depth as MBL-related factors. → [[implants/survival/kim-2025-clinical-evaluation-of-tapered-straight]]
