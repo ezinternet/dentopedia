@@ -16,6 +16,7 @@ source_papers:
   - wiki/behavioral-dentistry/communication-relationship/elwyn-2025-shared-decision-making-primer-clinicians.md
   - wiki/behavioral-dentistry/communication-relationship/asaad-2019-shared-decision-making-sdm-dentistry.md
   - wiki/behavioral-dentistry/communication-relationship/iyer-2026-shared-decision-making-knowledge-attitude-dental-trainees.md
+  - wiki/implants/bhuva-2025-endodontic-dental-implant-treatment-key.md
 tags: [treatment-planning, clinical-decision-making, practice-variation, extraction-vs-retention, tooth-preservation, intentional-replantation, autotransplantation, artificial-intelligence, shared-decision-making, publication-bias, outcome-calibration, adoption-barriers, referral, overview]
 ---
 
@@ -33,10 +34,11 @@ tags: [treatment-planning, clinical-decision-making, practice-variation, extract
 > - **⭐ 편차의 기전은 무지가 아니다**: 수련생 255명 다변량에서 보존술식(전부치수절단술) 채택을 높인 건 **직접 시행 경험(OR 2.51)**, 낮춘 건 **장벽 인지(OR 0.29)**이고, **학년·관찰만 한 경험·출혈조절 인식은 전부 무유의**. 즉 "이런 선택지가 있다"고 알리는 보수교육은 움직이지 않는 변수를 겨냥한 것이고, 계수 크기로는 **막는 힘이 미는 힘보다 크다** → 지렛대는 정보 배포가 아니라 **마찰 제거**(시간·재료·수가·감독 하 첫 증례). 단 모델 설명력 24%뿐이고 학부생 가상 시나리오.
 > - **⭐ "환자를 끌어들이면 된다"는 대안도 막혀 있다**: 수련생 176명에서 SDM 지식은 전반 불충분했으나 진짜 장애물은 **태도**다 — 경험이 적을수록 "환자는 모든 결정을 임상의에게 맡겨야 한다"(D3 OR 13.00)·"SDM은 환자가 내 전문성을 의심하게 만든다"(OR 4.20)에 동의. 지식 결손은 강의로 메우지만 **참여가 내 지위를 깎는다는 위협 인식**은 다른 문제이고, 권고가 가장 갈리는 집단이 교정을 공격으로 느낀다.
 > - **임상 결론**: 발치를 결정하기 직전이 이 페이지를 쓸 지점이다. ①내 발치 결정이 전문의 기저율(약 5%)과 3배 벌어져 있는지 자문 ②그렇다고 무조건 의뢰·보존이 아니라, 보존 대안의 **실제** 수치(0.78/8년 0.63)로 환자와 상의 ③공공부문 연관(22.96% vs 15.24%)은 "지식 부족"이 아니라 **자원·접근성 제약에 대한 합리적 반응**일 수 있으니 도덕화하지 말 것 ④다섯 논문 어디에도 **환자 선호**가 없다 — 그 빈자리를 채우는 것이 [[behavioral-dentistry/communication-relationship/elwyn-2025-shared-decision-making-primer-clinicians]]의 공유의사결정(Shared Decision-Making, SDM)이다.
+> - **치아 보존 vs 임플란트 서술적 고찰 추가(2026-11-10, Bhuva 2025)**: 두 방식 모두 생존율이 높다 — 1차 근관치료 성공 85.2–92.6%, 재근관치료 77.2–83%, 임플란트 생존 90.9%(6.7–8.7년, 한 통합 비교). 비교 자료는 일관되지 않고 교란돼 있어 차이는 '크고 이른' 것이 아니라 '작고 늦은' 것. 결정은 헤드라인 생존율이 아니라 수복 가능성·치주 지지·전략적 가치·교합·이상기능으로 — 이상기능 습관은 임플란트 기계적·기술적 합병증을 17%→60%로 올린다. 치과 실용성 지수 (Dental Practicality Index, DPI) 소개.
 
 ## Three-line Summary
 
-Synthesis of 11 papers (plus 2 shared-decision-making sources) asking a question the wiki's 182 topic-specific decision ladders all presuppose an answer to: when clinicians look at the same tooth, do they produce the same plan? They do not — general dental practitioners extracted teeth with post-treatment apical periodontitis at 17.03% versus endodontists' 5.3% (OR 4.37, p<0.001), a roughly threefold gap independently replicated in a separate cited dataset (5.63% vs 14.69%), with tooth-level features (medium lesion OR 7.26, indirect restoration OR 2.12, inadequate root filling OR 1.81) driving generalists toward extraction while endodontists did not respond to lesion size at all.
+Synthesis of 12 papers (plus 2 shared-decision-making sources) asking a question the wiki's 182 topic-specific decision ladders all presuppose an answer to: when clinicians look at the same tooth, do they produce the same plan? They do not — general dental practitioners extracted teeth with post-treatment apical periodontitis at 17.03% versus endodontists' 5.3% (OR 4.37, p<0.001), a roughly threefold gap independently replicated in a separate cited dataset (5.63% vs 14.69%), with tooth-level features (medium lesion OR 7.26, indirect restoration OR 2.12, inadequate root filling OR 1.81) driving generalists toward extraction while endodontists did not respond to lesion size at all.
 
 The reflex reading — that specialists are right and generalists over-extract — is not supported by the evidence this wiki actually holds: the same paper justifies calling those extractions "unnecessary" by citing intentional replantation success of 88–98%, whereas the current SR+MA of intentional replantation (39 studies, 2,305 teeth) pools success at 0.78 and survival at 0.89 with **31 of 39 studies at high risk of bias and none at low**, and survival falling to 0.63 by eight years; autotransplantation of mature teeth reaches 95% survival but as a single-arm estimate never compared with implants.
 
@@ -46,7 +48,7 @@ Three further papers deepen rather than widen the picture. The variation is **no
 
 ## 세줄요약
 
-11편 종합(+SDM 2편) — 위키의 182개 결정 사다리가 전부 전제하는 것을 되묻는다: 같은 치아를 보면 같은 계획이 나오는가? 아니다. 근관치료 후 근단주위염 치아에서 일반의 발치율 17.03% vs 근관전문의 5.3%(OR 4.37, p<0.001), 인용된 별도 데이터셋에서도 5.63% vs 14.69%로 **약 3배 격차가 독립 재현**됐다. 중등도 병소(OR 7.26)·간접수복물(OR 2.12)·부적절 근충(OR 1.81)이 일반의를 발치로 미는 동안 전문의는 병소 크기에 반응하지 않았다.
+12편 종합(+SDM 2편) — 위키의 182개 결정 사다리가 전부 전제하는 것을 되묻는다: 같은 치아를 보면 같은 계획이 나오는가? 아니다. 근관치료 후 근단주위염 치아에서 일반의 발치율 17.03% vs 근관전문의 5.3%(OR 4.37, p<0.001), 인용된 별도 데이터셋에서도 5.63% vs 14.69%로 **약 3배 격차가 독립 재현**됐다. 중등도 병소(OR 7.26)·간접수복물(OR 2.12)·부적절 근충(OR 1.81)이 일반의를 발치로 미는 동안 전문의는 병소 크기에 반응하지 않았다.
 
 **"전문의가 옳다"로 읽으면 안 된다** — 이 위키가 실제로 가진 근거가 그걸 지탱하지 못한다. 그 논문은 일반의 발치를 "불필요"라 하며 의도적 재식 성공률 88–98%를 근거로 들지만, 현행 SR+MA(39편/2,305치)의 통합 성공은 **0.78**, 생존 0.89이며 **39편 중 31편이 high risk of bias(low 0편)**, 8년 생존은 **0.63**으로 떨어진다. 자가이식(성숙치)은 생존 95%지만 임플란트와 비교된 적 없는 단일군 추정이다.
 
@@ -183,3 +185,19 @@ A final observation, offered as a hypothesis rather than a finding: the human an
 **A decision chart that has not been validated.**
 
 - [[periodontics/avila-2009-tooth-retention-or-extraction-decision-chart]] — six-level colour-coded chart for retaining versus extracting a compromised tooth, built from peer-reviewed literature and book sources and set against implant replacement. The paper reports no validation of the chart, so its level thresholds should not be cited as tested cut-offs (narrative review, 2009).
+
+## Evidence Update — Retain or Replace: Why the Survival Numbers Cannot Decide (2026-11-10)
+
+[[implants/bhuva-2025-endodontic-dental-implant-treatment-key]] is a narrative clinical review comparing retention of a compromised root-filled tooth with extraction and implant replacement.
+
+- Both do well: primary root canal treatment success 85.2–92.6%, retreatment 77.2–83%, implant survival 90.9% over 6.7–8.7 years in one pooled comparison.
+- The comparative literature is inconsistent and confounded. Differences are small and late rather than large and early.
+- The decision should rest on tooth and patient factors: restorability, periodontal support, strategic value, occlusion, parafunction.
+- A parafunctional habit raises implant mechanical and technical complications from 17% to 60%.
+- The Dental Practicality Index is offered as a structured way to assess the tooth.
+
+**Why it belongs on a page about variability.** The retain-or-replace decision is one of the clearest examples of the phenomenon this page describes: clinicians given the same tooth reach different plans. Bhuva explains why evidence has not narrowed that spread. The two options are measured with different outcomes (endodontic "success" is a stricter criterion than implant "survival"), so the headline rates are not comparable, and when they are roughly aligned they are close. When outcome data cannot separate the options, the plan is decided by which factors a clinician weighs, and that is where variability enters.
+
+**What it offers against the variability.** A structured index does not supply new evidence, but it makes the weighing explicit and repeatable, which bears directly on this page's question of whether variability can be reduced. The parafunction figure is the most decision-relevant number in the review, because it identifies a patient factor that changes one option's prognosis far more than the other's.
+
+**Evidence level.** Narrative review. The parafunction figure and the pooled implant survival each come from a single cited source.
