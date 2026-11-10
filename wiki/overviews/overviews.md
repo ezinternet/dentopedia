@@ -2,7 +2,7 @@
 title: "종합 — overviews"
 authors: navigation
 year: 2026
-date: 2026-11-04
+date: 2026-11-10
 doi: N/A
 source: navigation
 category: overviews
@@ -15,20 +15,20 @@ tags: [navigation, category-index, overviews]
 > [!summary] 한국어 핵심요약
 > - **분야**: 종합
 > - **범위**: Synthesis pages spanning multiple categories
-> - **수록 논문**: 368편
+> - **수록 논문**: 374편
 
 ## Three-line Summary
 
 **Scope**: Synthesis pages spanning multiple categories
-**Indexed papers**: 368 papers in `wiki/overviews/`.
+**Indexed papers**: 374 papers in `wiki/overviews/`.
 
 ## 세줄요약
 
 **분야**: 종합
-**수록 논문**: 368편
+**수록 논문**: 374편
 **하위 카테고리**: 없음
 
-## Papers in this Category (368)
+## Papers in this Category (374)
 
 | Paper |
 |---|
@@ -138,6 +138,7 @@ tags: [navigation, category-index, overviews]
 | [[eal-working-length-protocol|EAL 근관장 측정 프로토콜: 근거 기반 총정리]] |
 | [[early-bone-loss-loading-foundations-overview|초기 골소실·하중 역학 기초 고찰 — 1992–2005 다섯 편 종합 (Early Bone Loss & Loading Mechanics: Foundational Reviews)]] |
 | [[early-implant-failure-risk-prevention-overview|Overview: Early Implant Failure (before prosthetic loading) — Risk Factors & Prevention]] |
+| [[early-implant-failure-surveillance-update-2022-2026-overview|Early (Pre-Prosthetic) Implant Failure — 2022–2026 Surveillance Update: Definition Drift, Implant- vs Patient-Level Effects, Drug & Sinus Signals]] |
 | [[endodontic-access-cavity-decision-tree|근관 접근와동 설계 결정 트리 — TEC vs MIA vs 유도 근관치료]] |
 | [[endodontic-endotoxin-lps-lta-overview|Endodontic Endotoxins (LPS) & LTA: Role in Infection and Removal by Treatment — 6-paper synthesis]] |
 | [[endodontic-flare-up-management-overview|근관치료 후 급성 악화(Endodontic Flare-Up) — 위험인자·예방·처치 근거 종합]] |
@@ -170,6 +171,7 @@ tags: [navigation, category-index, overviews]
 | [[high-insertion-torque-immediate-loading-isq-decoupling-overview|고삽입토크 — 즉시 부하 예외·ISQ 비대리성·토크를 읽을 수 없는 영역 종합 (Immediate-Loading Exception, IT–ISQ Decoupling & the No-Torque Regime)]] |
 | [[high-insertion-torque-primary-stability-crestal-bone-overview|High Insertion Torque → Primary Stability, Crestal Bone Remodeling, and Marginal Bone Loss — A Conflict Synthesis]] |
 | [[high-insertion-torque-sign-flip-crestal-harm-overview|고삽입토크 — 부호 반전·용량-반응 역설·치조정 손상·Lemos 무효 결과 종합 (Torque Sign Flip, Dose-Response Paradox, Crestal Harm & Lemos Null)]] |
+| [[history-development-dental-prosthetics|History and Development of Dental Prosthetics: From Metal-Ceramic to Monolithic Zirconia]] |
 | [[hygienist-periodontal-instrumentation-scaling-overview|Overview: Hygienist-Delivered Scaling & Periodontal Instrumentation — Effectiveness, Operator Ergonomics, Aerosols, and Chairside Safety]] |
 | [[hypertension-antihypertensive-implant-outcomes-overview|Overview: Hypertension, Antihypertensive Medications, and Dental Implant Outcomes]] |
 | [[ian-nerve-injury-management-overview|하치조신경·설신경 손상 — 역학·분류·시간기반 관리 프로토콜 종합 (IAN/LN Injury: Epidemiology, Classification & Time-Based Management)]] |
@@ -217,6 +219,7 @@ tags: [navigation, category-index, overviews]
 | [[isq-loading-threshold|임플란트 안정성 지수 (Implant Stability Quotient, ISQ) 부하 결정 임계값 — Confidence 등급별 매트릭스]] |
 | [[keratinized-mucosa-peri-implant-health-overview|각화점막(KM)과 임플란트주위 건강 — 위험인자·증대술 종합]] |
 | [[korean-dental-practice-management-overview|한국 치과 개원 환경 — 법적 판례·인력 분포 현황 종합]] |
+| [[korean-university-hospital-implant-survival-cohorts-overview|Dental Implant Survival in Korean University-Hospital Cohorts — Long-Term Survival, Failure Modes & Risk Factors (2011–2026)]] |
 | [[last-lipid-emulsion-dental-overview|Local Anesthetic Systemic Toxicity (LAST) and Lipid Emulsion Rescue in Dental Practice]] |
 | [[lithium-disilicate-inlay-onlay-evidence|리튬디실리케이트 Inlay/Onlay/부분피개 — 임상 근거 종합]] |
 | [[local-anesthesia-category-synthesis-overview|Local Anesthesia in Dentistry — Category Synthesis Overview]] |
@@ -269,6 +272,7 @@ tags: [navigation, category-index, overviews]
 | [[osseointegration-foundations-implant-evidence-quality-overview|Osseointegration 기초 & 임플란트 근거품질 — 정착 생물학과 할인계수]] |
 | [[osteotomy-cooling-delivery-route-risk-quantification-overview|Overview: Osteotomy Cooling Is a Delivery Problem — Irrigation Route, Dry Cooling, and Quantified Risk Hierarchy Once Cooling Is Present]] |
 | [[osteotomy-drilling-heat-determinants-irrigation-overview|Overview: Osteotomy Drilling Heat — Modifiable Determinants Ranked, and the Osseointegration Consequence]] |
+| [[osteotomy-thermal-necrosis-threshold-evidence-overview|Overview: The 47°C Bone Necrosis Threshold — Origin, Evidence Base, Species Gap, and Clinical Application]] |
 | [[otc-periodontal-adjunct-drugs-insadol-igatan|OTC Periodontal Adjunct Drugs (Insadol·Igatan): Ingredients, Evidence & Prognosis (잇몸약 인사돌·이가탄 성분·근거·예후 종합)]] |
 | [[patient-consultation-communication-protocol|Patient Consultation — Encounter-Flow Communication Protocol (Open → Gather → Explain → Decide → Align → Close)]] |
 | [[patient-recall-retention-overview|Patient Recall & Retention Overview (구환 리콜·재내원 운영 종합)]] |
@@ -284,12 +288,14 @@ tags: [navigation, category-index, overviews]
 | [[peri-implantitis-management-overview|임플란트주위염(Peri-implantitis) — 역학·예방·치료 종합]] |
 | [[peri-implantitis-risk-assessment-overview|임플란트주위염 위험도 평가·위험인자 — PiRA·엄브렐라 종합]] |
 | [[peri-implantitis-treatment-modalities-overview|임플란트주위염 — 치료 방식 종합 (Mucositis Prevention, Non-Surgical Adjuncts, Surgical Decontamination, Implantoplasty & Reconstruction)]] |
+| [[periapical-scar-healing-overview|Periapical Scar Healing: Diagnosis, Epidemiology, and Surveillance]] |
 | [[periodontal-adjunctive-therapy-probiotics-pdt-overview|Overview: Periodontal Adjunctive Therapy — Probiotics, aPDT, and NSPT Augmentation]] |
 | [[periodontal-host-modulation-nutraceutical-adjuncts-overview|Periodontal Host-Modulation & Nutraceutical Adjuncts — Omega-3, CoQ10, Antioxidant Vitamins, ASU & MMP-Inhibition Synthesis (치주 숙주조절·영양보조제 종합)]] |
 | [[periodontal-regenerative-platelet-concentrates-overview|Autologous Platelet Concentrates (PRF/PRP/CGF) Across Periodontal Regeneration — Furcation, Intrabony, Root Coverage Synthesis]] |
 | [[periodontal-systemic-links-adjunct-homecare-evidence-overview|Periodontal Care — Systemic Links (Diabetes · Oral-Systemic) & Adjunct/Home-Care Evidence (Probiotics · Resveratrol · Toothpaste)]] |
 | [[periodontics-treatment-ladder|Periodontics — Classification·Treatment·SPT Decision Ladder]] |
 | [[perioperative-hypertension-hemodynamic-management-overview|Perioperative Hypertension & Hemodynamic Management in Dental / Oral Surgery — risk stratification, intraoperative monitoring, defer thresholds, implant/augmentation impact]] |
+| [[periosteal-elevation-alveolar-blood-supply-overview|골막 박리와 치조골 혈행 — 점막골막판 거상의 혈관 손상·재혈관화·임상 전환 종합 (Periosteal Elevation & Alveolar Bone Blood Supply)]] |
 | [[plaque-disclosing-agents-efficacy-safety-overview|치태착색제(PDA) 종합 — 교육 효능·적용 집단·에리트로신 안전성]] |
 | [[plasma-surface-treatment-dental-implants|Plasma Surface Treatment of Dental Implants — Evidence Synthesis]] |
 | [[platform-switching-marginal-bone-preservation-synthesis|Platform Switching — Marginal Bone Preservation Evidence Synthesis (플랫폼 스위칭·변연골 보존 근거 종합)]] |

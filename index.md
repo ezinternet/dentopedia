@@ -5428,6 +5428,8 @@ tags: []
 - [[overviews/zirconia-fracture-mechanisms-overview]] — Overview (지르코니아 파절 기전): 변형강화(t→m 상변태)의 역설적 취약성 — LTD·과부하·R-curve 거동; 조성·소결·노화 연계 종합
 - [[overviews/dental-vasovagal-syncope-overview]] — 치과 VVS 종합(26편): 방문 1,146,929건 중 응급 42건(0.0037%)·그중 VVS 61.9%·발치 45.2%(obata-2021, 하한) + 설문 46.30%(폴란드 419명)·56.5%(레바논 442명) + 병원 응급실 VVS 14.1%(liu-2026); LA가 삽화의 ~75% 유발·39%는 시술 전, 남자 청소년 2.69배; 기전 3축(Bezold–Jarisch / TCR=자극 중단이 1차 치료 / 정신성) + 탈신경 심장에서 서맥 없는 혈관억제형(montebugnoli-1999), 감별 6축(아나필락시스·LAST·심장성·채널병증·저혈당·아드레날린 러시), P–CAB–D(아트로핀 0.5 mg IV 최대 3 mg·에페드린 5 mg IV 최대 50 mg), 예방 근거 사다리(통증 조절만 RCT, 다리 술기 pilot, 전처치는 비치과 외삽, 글리코피롤레이트는 치과 RCT 없음), 반례 둘(동정지 kawauchi-2025 / 인공심박동기 sharma-2006)
 
+- [[overviews/periosteal-elevation-alveolar-blood-supply-overview]] — 골막 박리 혈행 종합 (19편: 동물 형태계측 5·기법·해부 7·플랩리스 전환 7, 2026-11-10): 점막골막판 (Mucoperiosteal Flap) 거상 자체가 판막 혈류 유의 감소(≥3일·치간부 7일, McLean 1995)·치조골 관통 순환 단절(Nobuto 2003) — 재혈관화는 강력하지만 파골 흡수와 연쇄(3일 싹돋움·내감식 → 7–14일 정맥상 혈관+파골·치주인대 강 최대 14일 → 21–28일 망상 재구성, Nobuto 2005×2); 페널티가 청구되는 곳은 막 피개 — 막 쪽 관류 감소↔노출(Zanetta-Barbosa 1993)·노출 시 골재생 96.6%→46.5% ~6배 붕괴·골막이완절개 (PRI) +5.5mm 최대 전진(Plonka 2017)·하악 제1/2대구치 하순동맥 (ILA) Ø 2.72mm 골막 인접(Iwanaga 2019) → DFI 9.64 vs 7.13mm 더 전진+저통증(Ogata 2013 RCT)·구개측 이완절개(Kim 2017, 상악)·MPRI(Hur 2025)·레이저 PRI(Moslemi 2016)·콜라겐매트릭스 개방치유로 PRI 생략(Stankovic 2018); 사람에서 골막 보존은 뼈를 사지 않음 — ARP 폭·높이 귀무(Lee 2018 SR+MA·Siu 2023 RCT·Araujo 2009 동물)·MBL 귀무(Chrcanovic 2014), 사는 것은 각화치은 폭 3.21mm(Lee 2018)·점막 혈관 51.4 vs 38.2(Kim 2009 동물)·술통 VAS 절반(Tarpara 2025) — 임상결과 축은 [[flapless-vs-flapped-implant-surgery-overview]]와 상호보완
+
 ## Batch ingest (added 2026-10-28) — missing-from-index 일괄 등재 (31편)
 
 ### bone-regeneration — GBR 차폐막(Ossix) + 지지체 + 치조제 보존
