@@ -28,6 +28,7 @@ relations:
 > - **나노세라믹 노화 후 변연격차 증가**: 두 군 모두 열·기계적 노화 후 변연격차가 유의하게 증가하며(군내 p<0.001), 이는 시멘트 층 저하에 기인한 것으로 해석됨.
 > - **캐비티 라이너 (Cavity Liner) 효과 없음**: 코크란 SR+MA (8 RCT, 700명 이상) — 구치부 Class I/II 복합레진 하방 캐비티 라이너는 술후 과민증 감소에 일관된 효과 없음(저질 근거), 수복물 수명 개선도 없음(1–2년 실패율 동일).
 > - **캐비티 라이너의 적응증 재정의**: 심와동·상아질 밀봉·언더컷 차단 등 증례별 특수 이유에서만 라이너 사용이 정당화됨 — 일상적 루틴 사용은 근거 없음.
+> - **변연 적합 SR+MA 추가(2026-11-10, Harimkar 2025, in-vitro 8편)**: CAD/CAM 지르코니아 코핑이 8편 중 6편에서 수치상 우수(17–60 µm vs 폴리에테르에테르케톤 (Polyetheretherketone, PEEK) 30–108 µm)하나 통합 분석은 비유의(SMD 1.72, 95% CI −0.46~3.90, p=0.12, I²=95%). 두 재료 모두 임상 허용 기준 120 µm 미만. 밀링 PEEK가 프레스·과립형보다 일관되게 우수.
 
 ## Three-line Summary
 
@@ -193,3 +194,14 @@ The common thread is that **bench plausibility does not equal clinical durabilit
 - [[glass-ionomer/ge-2024-gic-clinical-application-restorative-preventive]] — GIC clinical applications including liner/base indications
 
 <!-- thesis-reviewed: 2026-10-30 -->
+
+## Evidence Update — PEEK vs Zirconia Coping Fit (2026-11-10)
+
+[[prosthetic-materials/harimkar-2025-zirconia-peek-marginal-fit-cad-cam]] is a SR+MA of 8 in-vitro studies comparing the marginal fit of CAD/CAM zirconia and PEEK copings.
+
+- Zirconia was numerically better in 6 of 8 studies (reported gaps 17–60 µm vs 30–108 µm for PEEK).
+- The pooled estimate (5 studies, n=126) was not significant: SMD 1.72 (95% CI −0.46 to 3.90, p=0.12), with I²=95%.
+- Both materials stayed under the 120 µm clinical-acceptability threshold.
+- Milled PEEK was consistently better than pressed or granular PEEK.
+
+**Reading.** Fit does not separate these two materials. The direction favours zirconia, the pooled result does not confirm it, and both pass the threshold that matters clinically. Within PEEK, the manufacturing route moves fit more than the material comparison does, which repeats the Axis 2 lesson that fabrication method is the larger variable. The selection between PEEK and zirconia should rest on the bonding and mechanical considerations in Axis 1, not on marginal gap.
