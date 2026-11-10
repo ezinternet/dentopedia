@@ -20,6 +20,7 @@ tags: [implant-angulation, placement-direction, anatomic-constraints, CBCT, ante
 > - **비축방향의 생물역학적 대가** (kim 2026): 비축방향 임플란트의 5년 변연골 소실(MBL) **0.22 mm vs 축방향 0.10 mm** (P<.05); 비축방향 × 임플란트 지지 대합치 상호작용 시 Δ0.373 mm 추가 — 해부학이 기울기를 강제하더라도 교합 설계로 보정 필요.
 > - **CBCT 필수성**: 후방 하악 IAC·LPP 위험 + 상악 소구치 천공 위험 + 후방 상악 잔존골 높이 모두 2D 방사선으로 계량화 불가.
 > - **공통 원칙**: 해부학이 비축방향을 강제할 때 → ① 최소 필요 각도로 기울임 ② CBCT로 계량화 ③ 각도형 지대주는 최소 각도 + 멀티유닛(나사유지) ④ 교합 최적화(협설 하중 방향 제어).
+> - **인접 치근 손상 10년 코호트 추가(2026-11-10, Yi 2021, 분당서울대병원, 28명·32개, 평균 122.7개월)**: 손상된 치아의 90.6%가 기능 유지 — 미치료 27개 중 19개(70.4%)가 생활력 유지·무증상, 7개가 근관치료 필요(3개는 이후 발치), 기존 근관치료치 5개는 영향 없음. 임플란트 생존율 96.9%. **직접 치근 침범만으로는 치아도 임플란트도 발거 적응증이 아니다** — 증상이나 방사선학적 악화 시에만 개입하는 관찰 전략.
 
 ## Three-line Summary
 
@@ -230,3 +231,18 @@ IAC shortest (4.65 mm), U-type ridge most common (73%), lingual concavity deepes
 - **Posterior maxilla anatomy (healed ridge)**: No PMC paper quantifies buccolingual bone width or palatal-buccal axis constraints for delayed posterior maxillary implants outside the TSFE context. Couso-Queiruga 2023 (PMID 37493201) is a relevant candidate without PMC access.
 - **Upper premolar delayed placement direction**: Najm 2024 is an IIP study; ILAA 18.3° applies to fresh sockets — healed-ridge anatomy may be less extreme.
 - **Mandibular anterior and canine**: No papers in this wiki specifically quantify safe placement direction in this region.
+
+## Evidence Update — When the Constraint Is Violated: Adjacent-Root Injury at Ten Years (2026-11-10)
+
+[[implants/yi-2021-long-term-clinical-result-implant]] is a retrospective cohort from Seoul National University Bundang Hospital: 32 implants with adjacent-root injury in 28 patients, mean follow-up 122.7 months, graded as direct root invasion, root-surface contact, or proximity under 1 mm.
+
+- 90.6% of injured teeth remained functional.
+- Of 27 teeth with no prior root canal treatment, 19 (70.4%) stayed vital and asymptomatic; 7 needed root canal treatment, and 3 of those were later extracted.
+- All 5 previously root-treated teeth were unaffected.
+- Implant survival 96.9%; ISQ rose from 64.1 to 73.9 (P=0.007).
+
+**How it complements this page.** The framework above covers anatomic limits on implant direction region by region. The adjacent root is a limit it does not treat separately, and Yi supplies the outcome data for when that limit is breached. The result is milder than the usual assumption. Most injured teeth needed nothing, and the implants integrated normally.
+
+**Management implication.** Direct root invasion alone is not an indication to remove either the implant or the tooth. The supported approach is monitoring, with endodontic treatment reserved for symptoms or radiographic deterioration. About a quarter of untreated teeth did eventually need root canal treatment, so monitoring means scheduled review with vitality testing and radiographs, not reassurance and discharge.
+
+**Limits.** These are cases identified after the fact in which the implant was retained, so the worst injuries may be under-represented. Thirty-two implants across three injury grades leaves each grade thinly populated. The finding does not relax the planning standards above.
