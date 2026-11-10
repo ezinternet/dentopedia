@@ -1031,3 +1031,18 @@ Logged by subagents at deviation time. `deviation-audit.py` flags types with ≥
 | 2026-11-08 | hong-2025-comparative-analysis-of-novel-damping | source-data-issue | Ethics text says prospective and retrospective; Table 4 Periotest ICC CI 0.78-0.99 vs text 0.97-0.99; R2 not equal to r squared; p=0.0039 for r=-0.870 vs p=0.0002 for r=-0.473 at same n; Trust force <3 N (intro) vs 0.6-0.8 N (Table 5) |
 | 2026-11-08 | hong-2025-comparative-analysis-of-novel-damping | category-judgment | implants/isq chosen: study defined by damping/stability measurement device comparison, not early-failure outcomes (no failures analysed); not implants/survival |
 | 2026-11-08 | hong-2025-comparative-analysis-of-novel-damping | date-fallback | No date in txt; 2025-01-01 used |
+| 2026-11-09 | lai-2018-comparative-safety-of-nsaids-for | abstract-only | PMC full text unavailable, built from abstract |
+| 2026-11-09 | rosa-2026-analgesic-efficacy-and-adverse-effects | abstract-only | PMC full text unavailable, built from abstract |
+| 2026-11-10 | hermann-2000-crestal-bone-changes-around-titanium | abstract-only | J Periodontol, no PMC record; built from PubMed abstract (pubmed-text, full_text:false) |
+| 2026-11-10 | hermann-2001-influence-size-microgap-crestal | abstract-only | J Periodontol, no PMC record; built from PubMed abstract (pubmed-text, full_text:false) |
+| 2026-11-10 | atieh-2010-platform-switching-marginal-bone-preservation | abstract-only | J Periodontol, no PMC record; built from PubMed abstract (pubmed-text, full_text:false) |
+| 2026-11-10 | nobuto-2005-microvascular-response-periosteum-angiogenesis-bone | rename-collision | PMID 16101368/16101367 same author-year-series, script stem identical (nobuto-2005-microvascular-response-in-the-periosteum) — disambiguated by subtitle: angiogenesis-bone vs 3d-observation |
+| 2026-11-10 | nobuto-2005-microvascular-response-periosteum-3d-observation | rename-collision | companion paper of 16101368, stem disambiguated (see other row) |
+| 2026-11-10 | zanettabarbosa-1993-laser-doppler-flowmetry-of-blood | category-judgment | boundary: flap-perfusion over GTR membrane (suture-wound-closure) vs membrane-exposure outcome (bone-regeneration) — routed to bone-regeneration, clinical anchor is GTR membrane exposure |
+| 2026-11-10 | siu-2023-flap-versus-flapless-alveolar-ridge | abstract-only | paywalled J Periodontol 2023 — no PMC record, page built from PubMed abstract |
+| 2026-11-10 | zanettabarbosa-1993-laser-doppler-flowmetry-of-blood | abstract-only | paywalled COIR 1993 — no PMC record, page built from PubMed abstract |
+| 2026-11-10 | zanettabarbosa-1993-laser-doppler-flowmetry-of-blood | category-judgment | boundary bone-regeneration vs suture-wound-closure — flap-perfusion method but membrane-exposure clinical anchor; routed bone-regeneration |
+| 2026-11-10 | nobuto-2005-microvascular-response-periosteum-angiogenesis-bone | abstract-only | paywalled J Periodontol 2005 — no PMC record, page built from PubMed abstract |
+| 2026-11-10 | mclean-1995-vascular-changes-following-mucoperiosteal-flap | abstract-only | paywalled J Periodontol 1995 — no PMC record, PubMed abstract truncated at 250 words, page built from abstract |
+| 2026-11-10 | nobuto-2005-microvascular-response-periosteum-3d-observation | abstract-only | paywalled J Periodontol 2005 — no PMC record, page built from PubMed abstract; companion of PMID 16101368 ingested separately |
+| 2026-11-10 | nobuto-2003-microvascular-response-in-the-periodontal | abstract-only | paywalled J Periodontol 2003 — no PMC record, page built from PubMed abstract |
