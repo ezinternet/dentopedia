@@ -37,6 +37,9 @@ source_papers:
   - periodontics/non-surgical-instrumentation/vadvadgi-2024-comparing-effectiveness-traditional-periodontal
   - periodontics/oral-hygiene-instruction/windhorst-2025-cpc-chx-plaque-gingivitis-sr-ma
   - periodontics/oral-hygiene-instruction/van-swaaij-2019-chx-ads-discoloration-sr-ma
+  - periodontics/non-surgical-instrumentation/zhao-2021-the-effect-of-drug-dose
+  - periodontics/non-surgical-instrumentation/kondreddy-2025-the-effect-of-adjunctive-antimicrobial
+  - periodontics/non-surgical-instrumentation/sesha-2026-systemic-antibiotics-as-adjuncts-in
 evidence_level: synthesis
 source: synthesis
 ---
@@ -53,10 +56,11 @@ source: synthesis
 > - **도구 선택**: 에어폴리싱+초음파가 러버컵 폴리싱과 동등하면서 더 빠름 (Farina 2026); 다이오드 레이저 부가 이득 없음. [확인]
 > - **형태학적 영향**: 기구가 법랑질·상아질에 미치는 영향은 제한적 (Dvorska 2026 SR, Lodigkeit 2026); 인체공학적 설계가 근육 피로 감소 (Lin 2023, Wink 2024). [확인]
 > - **CHX 대안·착색 완화**: 칫솔질 병행 상황에서 CPC는 CHX와 동등(Windhorst 2025 SR+MA, 14 RCT), 착색 유의 적음; CHX+ADS는 효능 비손상으로 착색 유의 감소(Van Swaaij 2019 SR+MA) — "착색 없으면 효과 없다" 통념 반박; 착색 우려 환자엔 CPC(칫솔질) 또는 CHX+ADS(비칫솔질) 선택. [확인]
+> - **전신 항생제 보조요법 3편 추가(2026-11-10)**: 아목시실린+메트로니다졸 (Amoxicillin + Metronidazole, AMX/MET)이 가장 일관된 이득 — 임상부착수준 (Clinical Attachment Level, CAL) 0.47 mm 증가, 치주낭 깊이 (Probing Pocket Depth, PPD) 0.30 mm 감소, 탐침 시 출혈 6.9% 감소(Kondreddy 2025, RCT 48편). **용량은 중요하고 기간은 중요하지 않다**: 500/500 mg가 저용량보다 우수, 3–10일 기간은 무차이(Zhao 2021, RCT 11편); 3일 요법이 7일과 동등하고 부작용은 적음. 우산 리뷰(Sesha 2026)는 Stage III/IV에서 중등도 확실성으로 지지하되 '일상적'이 아닌 '선택적' 사용, 아지트로마이신은 근거 불충분, Stage IV 단독 근거는 없음.
 
 ## Three-line Summary
 
-Synthesis of 31 papers on non-surgical periodontal therapy: SRP is strongly recommended as first-line treatment for chronic periodontitis (Smiley 2015 ADA guideline), reducing PPD 1-2 mm and gaining 0.5-1 mm CAL; adjunctive systemic antibiotics are not recommended routinely due to very low certainty evidence and marginal clinical gains (Khattri 2020 Cochrane, 45 RCTs).
+Synthesis of 34 papers on non-surgical periodontal therapy: SRP is strongly recommended as first-line treatment for chronic periodontitis (Smiley 2015 ADA guideline), reducing PPD 1-2 mm and gaining 0.5-1 mm CAL; adjunctive systemic antibiotics are not recommended routinely due to very low certainty evidence and marginal clinical gains (Khattri 2020 Cochrane, 45 RCTs).
 
 NSPT has selective systemic anti-inflammatory benefits — reducing CRP, IL-6, and systolic blood pressure but not lipid profiles (Meng 2024 SR+MA, 21 RCTs) — supporting the perio-systemic link; Guided Biofilm Therapy (GBT) offers patient-centered advantages (comfort, efficiency) but does not consistently outperform conventional SRD on clinical outcomes (Yein 2026 SR, 5 RCTs, GRADE very low).
 
@@ -64,7 +68,7 @@ For gingivitis, OHI is first-line with PMPR as adjunct (Farina 2026 EFP SR+MA); 
 
 ## 세줄요약
 
-치주 비수술 치료 31편 종합: SRP는 만성 치주염 1차 치료로 강력 권고(Smiley 2015 ADA), PPD 1-2mm 감소·CAL 0.5-1mm 획득; 전신 항생제 보조는 매우 낮은 확실성·임상 이득 미미로 routine 금지(Cochrane 2020, 45 RCT).
+치주 비수술 치료 34편 종합: SRP는 만성 치주염 1차 치료로 강력 권고(Smiley 2015 ADA), PPD 1-2mm 감소·CAL 0.5-1mm 획득; 전신 항생제 보조는 매우 낮은 확실성·임상 이득 미미로 routine 금지(Cochrane 2020, 45 RCT).
 
 NSPT는 구강 밖 선택적 항염증 효과가 있음 — CRP·IL-6·수축기혈압 감소하나 지질 프로필은 변화 없음(Meng 2024 SR+MA, 21 RCT); GBT는 환자 편의성 우수하나 임상 결과는 전통 SRD와 동등(Yein 2026 SR, 근거 매우 낮음).
 
@@ -261,3 +265,19 @@ NSPT는 구강 밖 선택적 항염증 효과가 있음 — CRP·IL-6·수축기
 - [[drug-antibiotic-stewardship-overview]] — 항생제 스튜어드십
 - [[professional-biofilm-management-gbt-air-polishing-overview]] — 전문가 바이오필름 관리
 - [[periodontics-treatment-ladder]] — 치주치료 결정 사다리
+
+## Evidence Update — Adjunctive Systemic Antibiotics: Dose Matters, Duration Does Not (2026-11-10)
+
+| Paper | Design | Finding |
+|---|---|---|
+| [[periodontics/non-surgical-instrumentation/zhao-2021-the-effect-of-drug-dose]] | SR+MA, 11 RCTs, AMX/MET dose and duration with full-mouth SRP | 500/500 mg gave greater CAL gain and PPD reduction at 3 and 6 months than lower doses. Duration (3–10 days) had no significant effect. |
+| [[periodontics/non-surgical-instrumentation/kondreddy-2025-the-effect-of-adjunctive-antimicrobial]] | SR (no MA), 48 RCTs, 2,755 participants, Stage III/IV | AMX + MET most consistent: CAL gain 0.47 mm, PPD reduction 0.30 mm, BOP reduction 6.9%. A 3-day regimen was comparable to 7-day with fewer adverse events. Certainty low. |
+| [[periodontics/non-surgical-instrumentation/sesha-2026-systemic-antibiotics-as-adjuncts-in]] | Umbrella review of 2 SRs, 2018 classification framework | Moderate-certainty support for AMX + MTZ on CAL and PPD. Azithromycin insufficient for routine use; doxycycline too sparse. No Stage IV-specific evidence. Overlap between the two reviews substantial (CCA 52.9%). |
+
+**Synthesis.**
+
+1. *The effect is real and small.* Half a millimetre of attachment and a third of a millimetre of pocket depth is the size of the benefit. It is consistent across three reviews, and it is the kind of gain that matters in deep sites and is invisible in shallow ones.
+2. *The regimen question has a stewardship-friendly answer.* Zhao separates two variables that are usually bundled. Dose drives the effect; duration within 3–10 days does not. Kondreddy reaches the same place from the other side: three days performed like seven with fewer adverse events. Taken together, if an adjunct is used at all, full dose for a short course is the regimen the evidence supports, and it is also the one with the least resistance pressure.
+3. *Selective, not routine.* The umbrella review concludes that antibiotics complement effective mechanical debridement in Stage III/IV disease and are not a default. For the wider prescribing context see [[overviews/drug-antibiotic-stewardship-overview]].
+
+**Limits.** The three reviews draw on heavily overlapping trials, so they are not independent. Kondreddy searched PubMed only. Nothing isolates Stage IV, and none of this supports azithromycin or doxycycline as substitutes.
