@@ -15,20 +15,20 @@ tags: [navigation, category-index, ridge-preservation]
 > [!summary] 한국어 핵심요약
 > - **분야**: 골재생·치조제보존
 > - **범위**: Alveolar ridge preservation (ARP) / socket preservation — post-extraction dimensional changes (Araujo/Tan/Schropp), ARP efficacy SR/MA & Cochrane, grafting materials & sealing/socket-seal, flap vs flapless, biologics/PRF, esthetic-zone ARP, ARP→implant outcomes
-> - **수록 논문**: 106편
+> - **수록 논문**: 109편
 
 ## Three-line Summary
 
 **Scope**: Alveolar ridge preservation (ARP) / socket preservation — post-extraction dimensional changes (Araujo/Tan/Schropp), ARP efficacy SR/MA & Cochrane, grafting materials & sealing/socket-seal, flap vs flapless, biologics/PRF, esthetic-zone ARP, ARP→implant outcomes
-**Indexed papers**: 106 papers in `wiki/bone-regeneration/ridge-preservation/`.
+**Indexed papers**: 109 papers in `wiki/bone-regeneration/ridge-preservation/`.
 
 ## 세줄요약
 
 **분야**: 골재생·치조제보존
-**수록 논문**: 106편
+**수록 논문**: 109편
 **하위 카테고리**: 없음
 
-## Papers in this Category (106)
+## Papers in this Category (109)
 
 | Paper |
 |---|
@@ -71,6 +71,7 @@ tags: [navigation, category-index, ridge-preservation]
 | [[iorio-siciliano-2019-dimensional-changes-following-alveolar-ridge|Dimensional changes following alveolar ridge preservation in the posterior area using bovine-derived xenografts and collagen membrane compared to spontaneous healing: a 6-month randomized controlled clinical trial]] |
 | [[ivanova-2020-bone-density-primary-stability-histomorphometric-maxilla|Association between Bone Density Values, Primary Stability and Histomorphometric Analysis of Dental Implant Osteotomy Sites on the Upper Jaw]] |
 | [[jahanbin-2023-immediate-delayed-mini-screw-placement-alveolar|The impact of immediate versus delayed mini-screw placement on alveolar bone preservation and bone density following tooth extraction: evidence from a canine model]] |
+| [[jiang-2024-efficacy-reactive-soft-tissue-alveolar|Efficacy of reactive soft tissue for alveolar ridge preservation: a prospective cohort study]] |
 | [[jung-2013-radiographic-evaluation-different-techniques-ridge|Radiographic evaluation of different techniques for ridge preservation after tooth extraction: a randomized controlled clinical trial]] |
 | [[jung-2018-alveolar-ridge-preservation-esthetic-zone|Alveolar ridge preservation in the esthetic zone]] |
 | [[jung-2025-arp-peri-implantitis-isq-preclinical|Correlation between Newly Formed Bone and Progression of Experimental Peri-implantitis with/without Alveolar Ridge Preservation]] |
@@ -90,6 +91,7 @@ tags: [navigation, category-index, ridge-preservation]
 | [[lee-2018-flap-management-alveolar-ridge-preservation|Flap Management in Alveolar Ridge Preservation: A Systematic Review and Meta-Analysis]] |
 | [[lee-2020-compressive-force-dbbm-ridge-preservation-molar|Impact of different compressive forces on deproteinized bovine bone mineral covered by native bilayer collagen membrane during alveolar ridge preservation in the molar area]] |
 | [[lee-2021-alveolar-ridge-preservation-periodontally-compromised|Retrospective study of alveolar ridge preservation compared with no alveolar ridge preservation in periodontally compromised extraction sockets]] |
+| [[li-2026-effect-reactive-soft-tissue-combined|Effect of reactive soft tissue combined with injectable platelet-rich fibrin for alveolar ridge preservation in severe defect molar sites: a retrospective cohort study]] |
 | [[lopez-pacheco-2021-socket-seal-surgery-esthetic-zone-sr|Socket seal surgery techniques in the esthetic zone: a systematic review with meta-analysis and trial sequential analysis of randomized clinical trials]] |
 | [[lopez-valverde-2024-alveolar-ridge-bone-mineral-graft-collagen|Changes of the Alveolar Bone Ridge Using Bone Mineral Grafts and Collagen Membranes after Tooth Extraction: A Systematic Review and Meta-Analysis]] |
 | [[macbeth-2022-alveolar-ridge-preservation-guided-bone-regeneration-socket-seal|Alveolar ridge preservation with guided bone regeneration or socket seal technique. A randomised, single-blind controlled clinical trial]] |
@@ -114,6 +116,7 @@ tags: [navigation, category-index, ridge-preservation]
 | [[sanchez-perez-2025-dbbm-alveolar-ridge-preservation-histologic|The Efficacy of a Deproteinized Bovine Bone Mineral Graft for Alveolar Ridge Preservation: A Histologic Study in Humans]] |
 | [[scheyer-2016-alveolar-ridge-preservation-multicentre-rct|A randomized, controlled, multicentre clinical trial of post-extraction alveolar ridge preservation]] |
 | [[schropp-2003-bone-healing-soft-tissue|Bone healing and soft tissue contour changes following single-tooth extraction: a clinical and radiographic 12-month prospective study]] |
+| [[shehabeldin-2023-intrasocket-reactive-tissue-state-current|Intrasocket reactive tissue: The state of current knowledge]] |
 | [[shin-2026-aging-socket-healing-rat-jeonbuk|Effect of aging on healing of mandibular tooth extraction socket in a rat model]] |
 | [[siawasch-2025-autologous-platelet-concentrates-alveolar-ridge|Autologous platelet concentrates in alveolar ridge preservation: A systematic review with meta-analyses]] |
 | [[signoriello-2025-dbbm-calcium-sulphate-socket-preservation|Use of Deproteinized Bovine Bone in Association with Calcium Sulphate for Alveolar Socket Preservation]] |
