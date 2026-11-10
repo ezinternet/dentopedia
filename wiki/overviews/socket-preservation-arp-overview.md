@@ -38,6 +38,7 @@ tags: [arp, socket-preservation, dbbm, prf, collagen-plug, xenograft, ridge-pres
 > - **대구치 ARP SR — 수술 부담 절반·상악동 거상 감소 (Vora 2025, 14편, 571 부위)**: 대구치 발치와에서 ARP vs 자연치유 비교 — 수평 폭경 손실 ARP -1.02 to -2.73mm vs SH -2.36 to -4.44mm; **고급 골증대 필요율 20.8% vs 47.7%**(절반 수준); 상악 대구치에서 **측방창 상악동 거상 (Lateral-Window Sinus Lift) 필요 감소** — 단일치 근거가 대구치 소켓으로 확장됨을 확인. 이질성 높아 절대수치 해석 주의.
 > - **소켓 치유의 세포·분자 조절인자는 전임상 단계 (Kamath 2026, Mun 2024, Yin 2024)**: 마우스 모델에서 콜라겐 수용체 DDR2 결핍 시 1주 소켓 골부피(BV/TV)가 야생형의 57%로 감소(GLI1+ 골격 전구세포 경유), 대식세포 고갈 시 7일 신생골 면적 41.97% vs 54.03%(M1 유래 TNF-α–MSC 교신) — 소켓 치유를 조절하는 표적을 시사하나 **동물 연구라 임상 효능 근거가 아니다**. Yin 2024 narrative review는 성장인자 전달·면역조절 지지체·항감염 생체재료의 단계별 틀을 제공하지만 비교 임상자료는 없다.
 > - **비치유 소켓은 ARP 판단 이전에 병리 감별 대상 (Ukwas 2024, 50례 종합)**: 치유 지연 발치와의 최종 진단은 악성종양(원발+전이)이 가장 많고 다음이 약물연관 악골괴사(Medication-Related Osteonecrosis of the Jaw, MRONJ) — 정상 치유 경과를 벗어난 소켓은 재료 선택이 아니라 **생검 역치를 낮추는** 쪽으로 접근한다.
+> - **국내 서술적 고찰 추가(2026-11-10, Kim 2020, 분당서울대병원)**: 발치 후 1년 내 치조제 폭이 약 50%(5–7 mm) 줄고 그중 3분의 2가 첫 3개월에 일어난다. 발치와 보존술 (Extraction Socket Preservation, ESP)은 흡수를 줄일 뿐 막지 못하고, 임플란트 성공률·변연골 소실 (Marginal Bone Loss, MBL)은 바꾸지 못한다. 선택적 술식 — 심미부·잔존벽 심한 파괴·지연 식립이 적응증, 협측벽 ≤1 mm가 핵심 기준, 1차 봉합 불필요, 식립은 ESP 후 최소 4개월.
  - **GBR vs 소켓씰(SS, 콜라겐 기질) 두 ARP 술식 직접 비교 RCT (MacBeth 2022, n=42, 전방 상악)**: GBR(+0.07 mm BARH)과 SS(+0.65 mm BARH) 모두 대조군(−0.52 mm)에 비해 협측 치조정 높이 (Buccal Alveolar Ridge Height, BARH) 유의하게 보존(p=0.04/0.005). 그러나 **수평폭경(CARW) 감소는 3군 모두 약 −2.2 mm로 차이 없음** — GBR도 SS도 수평손실을 막지 못함. 임플란트 식립 시 dehiscence는 GBR 57%, SS 64%, 대조군 85%로 GBR만 유의 감소(p=0.03). SS는 콜라겐 기질 탈락 43%의 합병증. ARP가 임플란트 식립 가능성은 100%(3군 동등)이나 dehiscence 감소만으로는 추가 골증대 필요를 완전히 제거 못 함 — Fischer 2022 SR+MA 명제(Axis 5)와 수렴.
  - **콜라겐화 이종골 ARP에서 비가교 콜라겐막은 두꺼운 협측골 부위에서 추가 이득 없음**: 6개월 RCT(Harvard, n=20, 소구치·견치·절치, 이차치유) — 콜라겐화 우골 이종골(Collagenated Bovine Xenograft, BG) 단독 vs BG + 비가교 콜라겐막(Non-Crosslinked Collagen Membrane, MEM) 비교; 각화조직폭(p=0.999)·수평골폭(p=0.464)·수직골변화(p=0.244)·신생골 조직형태계측(p=0.803) 전부 유의차 없음. 협측골 두꺼운(~1mm) 발치와에서 이미 콜라겐 성분을 포함하는 이종골 자체가 생물학적 장벽 역할을 하므로 별도 막이 불필요함을 시사 — 프로토콜 단순화·비용 절감 근거(Khehra 2025, J Periodontol).
 
@@ -230,3 +231,16 @@ A socket with delayed or absent healing is a diagnostic problem before it is a g
 **Q3.** 상악 전치부 즉시식립 후 1년 뒤 협측 볼록도(buccal convexity)가 불량합니다. 사전에 ARP를 했더라면 이 결과를 피할 수 있었을까요? *(근거: Strauss 2024 — 식립 시 동시 GBR이 최강 인자)*
 
 > **모범답안**: **ARP만으로는 충분하지 않았을 가능성이 높다 — 식립 시 동시 GBR이 협측 볼록도의 최강 인자이기 때문이다.** Strauss 2024에서 1년 협측 볼록도 회복률: 식립 시 동시 GBR 72.7% vs ARP-only 36.0%(p=0.042). ARP는 식립 시 추가 GBR 필요를 ~30% vs 68.4%로 절반 감소시키는 이점이 있으나, **협측 외형 회복 자체는 ARP가 아니라 식립 시 GBR이 결정**한다. CBCT 체적 분석에서 ARP는 치관부 수평폭 손실을 절반(0.86 vs 2.03 mm) 감소시키고 핑크 심미지수(Pink Esthetic Score, PES)를 향상시키는(11.6 vs 9.9) 이점은 있지만, "심미 결과 보장"을 위해서는 **ARP + 식립 시 동시 GBR**의 조합을 기본 전략으로 계획해야 한다. 결론: ARP는 GBR의 대체재가 아니라 선행 준비 단계다.
+
+## Evidence Update — A Korean Narrative Position: ESP Is Selective (2026-11-10)
+
+[[bone-regeneration/ridge-preservation/kim-2020-extraction-socket-preservation]] is an editor's-opinion narrative review from Seoul National University Bundang Hospital. It adds no new data, but it states the indication more bluntly than the trials do, and it is the local reference point for this page.
+
+- Ridge width falls by about 50% within a year of extraction (5–7 mm), two-thirds of it in the first 3 months.
+- ESP reduces that resorption; it does not prevent it, and it does not change implant success or marginal bone loss.
+- ESP is therefore selective: esthetic sites, severe destruction of the residual walls, and planned delayed placement. Buccal wall thickness ≤1 mm is the trigger.
+- Primary closure is not required. Implants are recommended at least 4 months after ESP.
+
+**How it sits with the trials.** The buccal-wall ≤1 mm trigger matches the RCT evidence on this page and in [[overviews/socket-preservation-graft-material-dimensional-outcomes-overview]], where thin facial bone identifies both who benefits and who still needs GBR. The one point of friction is timing: "at least 4 months" here against the 6-month re-entry that the healing-time RCT supports for slowly resorbing xenograft. The two are compatible if 4 months is read as a floor and the graft material sets the actual wait.
+
+**Evidence level.** Narrative review; use it for framing, not for effect sizes.
