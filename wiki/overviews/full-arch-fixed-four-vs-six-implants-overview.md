@@ -94,10 +94,11 @@ tags: [full-arch, all-on-four, all-on-six, fixed-complete-denture, implant-numbe
 > - **악궁 형태 계획 변수 (Garza 2026)**: V형 하악 MBR 0.91mm vs U형 0.81mm; 하악 임플란트 간격↑=MBR↓(r=−0.70). V형 하악에서 임플란트 간격 최대화 더욱 중요.
 > - **식립 파라미터 임계값 (Midha 2026)**: 실패군 C/AP 비 1.42 vs 대조 0.89; 캔틸레버 14.2 vs 10.4mm; 근원심 각도(Mesiodistal Angulation) 18.4° vs 12.1° — CBCT 기반 보철 주도 계획(Prosthetically Driven Placement)의 근거.
 > - **분절형 디지털 워크플로(Segmented Digital Workflow) (Mijiritsky 2026)**: 14명, 119 임플란트, 3년 ISR/PSR 100%, 생역학 합병증 0건 — 분절형 설계의 응력 분산 가능성.
+> - **갱신 2026-11-10 (+2편 → 총 51편)**: ① Zhang 2022 후향 코호트(217명·1,222개·보철 271개, 3–13년) — 임플란트·보철 생존, 합병증, 변연골 소실 (Marginal Bone Loss, MBL) 모두 All-on-4와 All-on-6 사이 차이 없음(HR 1.0); 다만 고령·대합 자연치/고정성·흡연·이갈이·긴 캔틸레버·낮은 골밀도·전부 아크릴 임시 보철 같은 고위험 하위군에서는 6개가 더 예측 가능. ② 코크란 SR(Visconti 2026, RCT 2편, 3년) — 관골 임플란트 (Zygomatic Implant)는 골이식 후 일반 임플란트 대비 임플란트 실패를 줄이고(OR 0.23) 재활 기간을 약 444일→1.3일로 단축하나 합병증은 늘림(OR 4.53, 약 80% vs 50%). 결정 규칙은 바뀌지 않음.
 
 ## Three-line Summary
 
-Synthesis of 49 papers on edentulous fixed full-arch implant rehabilitation across ten axes: clinical outcomes (RCTs, retrospective cohorts, SR+MAs, an umbrella review; axial vs tilted), an atrophic-maxilla pathway (trans-sinus and zygomatic implants, including long-term and rescue series and one QoL RCT), biomechanics (FEA), consensus (two independent processes plus an Italian GRADE conference), prosthetic material, CAD design thresholds, retention systems (conometric vs screw), treatment modality (overdenture vs fixed; narrow-diameter implants as an overdenture-only boundary), planning variables (arch morphology, segmented digital workflow), surgical timing and distal support, connection design and PEEK vs zirconia frameworks, and digital impression workflow.
+Synthesis of 51 papers on edentulous fixed full-arch implant rehabilitation across ten axes: clinical outcomes (RCTs, retrospective cohorts, SR+MAs, an umbrella review; axial vs tilted), an atrophic-maxilla pathway (trans-sinus and zygomatic implants, including long-term and rescue series and one QoL RCT), biomechanics (FEA), consensus (two independent processes plus an Italian GRADE conference), prosthetic material, CAD design thresholds, retention systems (conometric vs screw), treatment modality (overdenture vs fixed; narrow-diameter implants as an overdenture-only boundary), planning variables (arch morphology, segmented digital workflow), surgical timing and distal support, connection design and PEEK vs zirconia frameworks, and digital impression workflow.
 
 Core findings: survival 4 ≈ 6 at SR+MA level (Shao 2026: ≥5yr 98.14% vs 97.50%); prosthetic material evidence now at SR+MA level (Marinkovic 2026: metal-zirconia wear RR=0.29, peri-implantitis RR=0.67); 17-year complication trajectory confirms Ti-resin as worst-performing material (HR=4.25); CAD thresholds quantified (CSSA ≥80mm²; CL/CSCA<0.51; CL/SAOL<1.48); conometric retention is a viable maintenance-reducing option for permanent prostheses; V-shaped mandible and inter-implant distance are plannable MBR modifiers. Supplementary evidence (2026-10-11) is non-inferiority-consistent: axial vs tilted, immediate vs delayed placement, 4-mm distal implants vs sinus lift, external vs internal hex, and digital vs conventional impression all show equivalent short-to-medium-term outcomes; zygomatic implants are high-performing but below conventional implants at 8 years (95.9% vs 98.7%) with sinusitis the main failure mode; PEEK frameworks show better 1-year peri-implant readings (n=30) but poorer fit and remain unproven.
 
@@ -105,7 +106,7 @@ Decision rule: six implants where anatomy allows; four is the evidence-backed mi
 
 ## 세줄요약
 
-무치악 고정성 풀아치 임플란트 전악 재건 49편을 임상 성적·위축 상악 대안 경로(관골·경유 상악동)·생체역학·합의·재료·CAD 임계값·유지 방식·치료 방식·계획 변수·식립 시기/원위 지지·연결부/PEEK 프레임워크·디지털 인상의 10축으로 종합.
+무치악 고정성 풀아치 임플란트 전악 재건 51편을 임상 성적·위축 상악 대안 경로(관골·경유 상악동)·생체역학·합의·재료·CAD 임계값·유지 방식·치료 방식·계획 변수·식립 시기/원위 지지·연결부/PEEK 프레임워크·디지털 인상의 10축으로 종합.
 
 생존 동등성 SR+MA 수준 확인(Shao 2026); 재료 SR+MA — 금속-지르코니아 마모 RR=0.29(Marinkovic 2026); CAD 임계값 수치화(CSSA ≥80mm², CL/CSCA<0.51); 코노메트릭 임상 근거(Biscaro 2026); 17년 장기 — Ti-레진 HR=4.25(Pelser 2026); V형 하악 MBR 차이 전향 확인(Garza 2026).
 
@@ -714,3 +715,30 @@ The six dimensions are compatible once framed correctly. **Equivalent survival i
 **Related overviews:**
 - [[overviews/tilted-axial-implant-angled-abutment-overview]] — tilted-implant biomechanics underlying All-on-4
 - [[overviews/supportive-peri-implant-therapy-maintenance-overview]] — maintenance for full-arch prostheses
+
+## Evidence Update — A 13-Year 4-vs-6 Cohort and the Cochrane Zygomatic Review (2026-11-10)
+
+### Axis 1 addition: [[implants/full-arch/zhang-2022-all-on-four-vs-six-cohort-3-13yr]]
+
+Retrospective cohort from Peking University: 217 patients, 1,222 implants, 271 immediately loaded full-arch fixed prostheses (202 on four implants, 69 on six), followed 3–13 years, with a clinician questionnaire alongside.
+
+- No significant overall difference in implant survival (HR 1.0), prosthesis survival, biological or technical complications, or MBL at 1, 5 or 10 years.
+- In high-risk subgroups (elderly, opposing natural or fixed dentition, smoking, bruxism, long cantilever, low bone density, all-acrylic provisionals) six implants were more predictable on some measures.
+- Medium-experience clinicians and prosthodontists significantly preferred six (P<0.05).
+
+This is the decision rule of this page observed inside one cohort: four and six are equivalent on average, and the case for six is carried by risk modifiers rather than by a general survival advantage. It adds follow-up length to Axis 1 without moving the verdict. The questionnaire result is a reminder that the stated preference for six among experienced clinicians runs ahead of the outcome data.
+
+### Atrophic-maxilla pathway addition: [[implants/full-arch/visconti-2026-zygomatic-implants-severely-atrophic]]
+
+Cochrane systematic review (evidence to November 2025; 2 RCTs, 3-year follow-up) of zygomatic implants versus conventional implants in grafted bone for the severely atrophic edentulous maxilla.
+
+| Outcome | Zygomatic vs grafted conventional |
+|---|---|
+| Implant failure | probably reduced (OR 0.23) |
+| Time to rehabilitation | about 1.3 days vs 444 days |
+| Complications | probably increased (OR 4.53; about 80% vs 50%) |
+| Prosthetic failure, patient satisfaction | uncertain (imprecise) |
+
+The earlier verdict here described the Italian case series as the optimistic end of the zygomatic evidence. The Cochrane review supplies the randomised counterweight and it is a trade rather than a win: fewer failures and more than a year saved, paid for with a markedly higher complication rate. That is the honest framing for consent in the graftless pathway. It rests on two trials, so every estimate is "probably", not "does".
+
+**Net effect on the decision rule:** none. Both papers fit the existing structure.
