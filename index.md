@@ -217,6 +217,7 @@ tags: []
 - [[implants/yu-2020-fractures-implant-fixtures-retrospective-clinical]] — Yu 2020 · retrospective (파절 고정체 13개/12명, 2007–2015): 후방부 집중(대구치 10·소구치 3), 평균 C/I 비 0.83:1, 보철 후 평균 61.7개월에 파절, 선행증상은 반복 나사풀림·변연골소실·주위염; 전부 제거 후 12/13 재식립·평균 54.6개월 생존 100% — 경고 삼징후가 개입 신호
 - [[implants/bhuva-2025-endodontic-dental-implant-treatment-key]] — Bhuva 2025 · narrative-review (BDJ): 근관치료 유지 vs 임플란트 대체 — 근관치료 성공 85.2–92.6%·재치료 77.2–83%, 임플란트 생존 90.9%(6.7–8.7년) vs 근관치료 86.02%, Tooth survival 72.7%(77개월) vs 임플란트; 비교연구는 교란 심함, 이갈이 시 기계적 합병증 60% vs 17% — 결정은 수복가능성·치주·교합·전략가치로
 - [[implants/yi-2021-long-term-clinical-result-implant]] — Yi 2021 · retrospective (32개/28명, 평균 122.7개월): 임플란트 인접치 손상 — 침범(group I)·접촉(II)·1mm 미만 근접(III); 손상치 90.6% 기능유지, 미치료 27개 중 7개만 RCT(3개 추후 발치)·19/27(70.4%) 생활력 유지, 기존 근관치료 5개는 무변화; 임플란트 생존 96.9%, ISQ 64.1→73.9(P=0.007) — 직접 침범도 즉시 발치 금지, 감시 후 개입
+- [[implants/llamasmonteagudo-2017-clinical-parameters-of-implants-placed]] — 치유된 부위 무피판 (Flapless) 대 점막골막 피판 (Flapped) 임상지수 체계적 고찰 (10편: 동물 6·인체 4, 334개 임플란트·3건 실패) — 동물은 무피판 우위(탐침깊이 1.0 vs 1.7mm, 염증 0/12 vs 5/12), 인체는 무피판 우세 경향이나 결론 미합치 (PMC 전문)
 
 ## 임플란트 — 표면처리·골유착 심화 (Osseointegration Theory)
 - [[implants/albrektsson-1981-osseointegrated-titanium-implants-requirements]] — 랜드마크(1981): 골유착을 직접 골-임플란트 접촉으로 정의(최초 인체 TEM)+6대 전제(재료·디자인·표면·골상태·술식·부하조건)
