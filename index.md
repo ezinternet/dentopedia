@@ -568,6 +568,7 @@ tags: []
 - [[bone-regeneration/ridge-preservation/couso-queiruga-2022-alveolar-ridge-preservation-dbbm-healing-time]] — DBBM-C 치조정보존 (Ridge Preservation, ARP) 치유기간 RCT: 42명, 치유시간↑→광화조직↑, 협측골두께 강력 예측인자, 16.7% 추가 GBR (Guided Bone Regeneration, GBR) 필요
 - [[bone-regeneration/choi-2023-horizontal-ridge-augmentation-porcine-bone]] — Choi 2023 · retrospective (28명/49임플란트, 67.5개월) · 돼지뼈 이종골 수평증대 동시식립: 변연골소실 1년 0.23·최종 0.40mm, 생존 95.9%·성공 89.8%, 돼지뼈 단독(n=24)은 생존·성공 100%; 실패는 전부 감염된 ridge-split 혼합이식 부위
 - [[bone-regeneration/zanettabarbosa-1993-laser-doppler-flowmetry-of-blood]] — 개 4마리(5마리 중 1 제외) 파일럿: 레이저 도플러 유량측정 (Laser Doppler Flowmetry, LDF) 상 점막골막판 관류가 막 쪽에서 4개 측정 시기 모두 무막 대조측보다 낮았고, 2주 내 막 노출이 생긴 3/4마리 모두 막 쪽 관류가 더 낮아 관류 감소와 막 노출의 연관을 시사 (abstract-only)
+- [[bone-regeneration/ridge-preservation/siu-2023-flap-versus-flapless-alveolar-ridge]] — 무절개 (Flapless) vs 절개 (Flap) 치조제보존술 (Alveolar Ridge Preservation, ARP) 단일눈가림 RCT (n=24): 양군 모두 치조정 폭·협측 수직 소실 유의 (각 p<0.05)하나 군 간 차이 없음 — 무절개군은 생존 무기질화 조직 44±10% (NS)·교합면 연조직만 유의하게 두꺼움 (p<0.05); 골막 혈행 보존이 치조골 크기 유지로 이어지지 않음 (abstract-only)
 
 ## PDRN — 폴리데옥시리보뉴클레오티드 (Polydeoxyribonucleotide)
 - [[overviews/pdrn-dentistry-evidence-synthesis]] — Synthesis 2026-05-31 (17편 종합): 기전(A2A 수용체+salvage pathway) 탄탄. 근거가 둘로 갈림 — **진통·항염**은 human 근거 강함(발치 RCT 1 + TMJ 후향코호트 1 + 비치과 SR/MA 2), **재생**은 전부 animal·in vitro·zone/outcome 한정·시간 전엽(초기 가속 후 종점 수렴); 1차 골유착(BIC/BAFO)·연조직 volume 무차이; dose 비선형; autograft 대체 미입증; MRONJ 기전 근거 추가; 저위험 adjunct로 합리적.
