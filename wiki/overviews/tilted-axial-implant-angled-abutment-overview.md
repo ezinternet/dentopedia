@@ -23,10 +23,11 @@ tags: [implants, tilted-implant, angled-abutment, all-on-4, fea]
 > - **골질 캐비엇(bone-quality caveat)**: 흡수된 골 (resorbed bone)은 응력↑·피로수명↓ 두 악영향을 모두 증폭 → 고위험군은 골이식·저각도 우선 (Erdogdu 2024).
 > - **지대주 설계 원칙**: 모든 각도에서 멀티유닛(나사유지) 지대주가 시멘트유지보다 응력·피로 우세 (Erdogdu 2024). 단 프레임워크 응력은 시멘트유지가 나사유지보다 3.5배 낮아 retrievability ↔ 응력 trade-off 존재 (Bilgi-Ozyetim 2025).
 > - **임상 원칙(clinical rule)**: 치아가 기울었으면 임플란트는 **교합면에 수직(축방향)으로 식립**하고, 크라운 방향은 **최소 각도 지대주**로 교정하라 (Chi 2024, Erdogdu 2024).
+> - **국내 10년 코호트 추가(2026-11-10, Seok 2023, 21명·137개, 부하 후 평균 10년 6개월)**: 경사가 클수록 변연골 흡수가 **적었다** — 최종 2.17→1.27→0.76 mm(<10°, 10–20°, >20°; P=0.003). 전체 생존율 94.9%이나 성공률 60.6%, 골이식 부위가 더 나빴다(2.36 vs 1.39 mm, 성공 47.5% vs 71.0%). 장기 페널티를 보고한 SR+MA와 방향이 반대지만 >20°군이 19개뿐이고 다중비교 미보정·2D 방사선이라 **반증이 아니라 가설 생성**으로 읽는다.
 
 ## Three-line Summary
 
-Synthesis of 11 papers: intentionally tilted implants (e.g. All-on-4 distal tilt) are clinically equivalent to axial implants in survival and short-term marginal bone (Del Fabbro 2014; Lin 2018), with only a modest long-term MBL penalty emerging in the larger 24-study SR+MA at 3–18 years (Del Fabbro 2022, P<.0001); implant survival 93.91%, prosthesis survival 99.31%.
+Synthesis of 12 papers: intentionally tilted implants (e.g. All-on-4 distal tilt) are clinically equivalent to axial implants in survival and short-term marginal bone (Del Fabbro 2014; Lin 2018), with only a modest long-term MBL penalty emerging in the larger 24-study SR+MA at 3–18 years (Del Fabbro 2022, P<.0001); implant survival 93.91%, prosthesis survival 99.31%.
 
 FEA consistently shows stress rising with angulation and off-axis load — yet the highest recorded value (~266 MPa) sits well below titanium yield strength (550 MPa), resolving the in-vitro/clinical gap: extra stress is real but sub-critical, expressed only as the small long-term MBL penalty.
 
@@ -34,7 +35,7 @@ Angled abutments correct emergence on tilted or inclined teeth but pay a stress/
 
 ## 세줄요약
 
-11편 종합: 의도적 경사식립은 생존율·단기 변연골에서 수직식립과 임상적으로 동등(Del Fabbro 2014; Lin 2018)하며 장기(3–18년)엔 통계적으로 유의하나 작은 MBL 페널티가 존재(Del Fabbro 2022, P<.0001); 임플란트 생존율 93.91%·보철 생존율 99.31%.
+12편 종합: 의도적 경사식립은 생존율·단기 변연골에서 수직식립과 임상적으로 동등(Del Fabbro 2014; Lin 2018)하며 장기(3–18년)엔 통계적으로 유의하나 작은 MBL 페널티가 존재(Del Fabbro 2022, P<.0001); 임플란트 생존율 93.91%·보철 생존율 99.31%.
 
 FEA는 각도·축외 하중 증가 시 응력이 오르지만 최대값(~266 MPa)이 티타늄 항복강도(550 MPa)보다 훨씬 낮아 in-vitro와 임상의 간극이 해소되며, 협설(BL) 하중 방향이 임플란트 각도보다 피질골 응력에 더 큰 영향(29.8% vs 27.0%)을 준다.
 
@@ -151,3 +152,19 @@ When the implant (or the tooth being replaced) is inclined, an **angled abutment
 - [[implants/short-narrow/coskunses-2021-narrow-diameter-implants-full-arch-fixed]] — NDI Ti-Zr 2 yr: CSR 99.4%; NDI MBL higher than standard; 6-implant < 4-implant MBL.
 - [[implants/full-arch/cabbarova-2026-all-on-four-six-framework-fea]] — FEA: All-on-6 vs All-on-4 × 6 materials; eliminating cantilever > material choice; PEEK/PEKK contraindicated.
 - [[implants/full-arch/gaonkar-2021-survival-rates-of-axial-and]] — SR: survival rates of axial vs tilted implants in All-on-4 rehabilitation; equivalent survival
+
+## Evidence Update — A 10-Year Korean Cohort That Points the Other Way (2026-11-10)
+
+[[implants/full-arch/seok-2023-tilted-implants-implant-supported-fixed-hybrid]] is a single-centre retrospective cohort: 21 fully edentulous patients, 137 implants placed 2003–2010 under fixed hybrid prostheses, a mean of 10 years 6 months after loading, analysed by vertical angulation.
+
+| Angulation | Initial bone resorption | Final bone resorption |
+|---|---|---|
+| <10° | 1.21 mm | 2.17 mm |
+| 10–20° | 0.87 mm | 1.27 mm |
+| >20° | 0.33 mm | 0.76 mm |
+
+(P=0.005 initial, P=0.003 final.) Overall survival was 94.9% but success only 60.6%. Grafted sites lost more bone (2.36 vs 1.39 mm, P=0.003) and succeeded less often (47.5% vs 71.0%, P=0.005).
+
+**How to hold this against Thesis 1 and the long-term penalty.** The pooled long-term evidence on this page finds slightly more marginal bone loss around tilted implants. Seok finds less. The cohort does not overturn the pooled result, for three reasons the paper itself exposes: only 19 implants sit in the >20° group, the multiple comparisons are uncorrected, and bone level was read on 2D radiographs, where the measured level changes with implant angle. The most that can be taken from it is that tilting did not visibly harm the supporting implants over a decade in this practice.
+
+**The more useful signal is the graft effect.** Grafted sites did worse on both bone loss and success. Tilted implants are usually placed to avoid grafting, so angulation and graft status are confounded here: part of the apparent benefit of tilt may be the benefit of native bone. That is consistent with the rationale for tilting, and it is a reason not to read the angulation gradient as a dose-response.
