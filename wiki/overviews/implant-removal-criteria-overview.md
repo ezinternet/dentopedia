@@ -11,6 +11,7 @@ source_papers:
   - wiki/implants/survival/solderer-2019-removal-failed-dental-implants-revisited.md
   - wiki/implants/survival/shenoy-2025-dental-implant-failure-retrieval-techniques-scoping.md
   - wiki/implants/peri-implantitis/zhou-2026-surgical-protocols-peri-implantitis-cohort.md
+  - wiki/implants/yu-2020-fractures-implant-fixtures-retrospective-clinical.md
 tags: [implant-removal, explantation, implant-failure, peri-implantitis, failed-implant, failing-implant, mobility, bone-loss, treatment-refractory, decision-framework, PI-X, criteria]
 relations:
   - type: extends
@@ -41,10 +42,11 @@ relations:
 > - **근거 공백 (Evidence Gap)**: "발거 기준"을 전향적으로 검증한 SR·RCT가 **없다**. 골소실 ⅔ 기준은 연구 포함 기준에서 역용(Cafferata 2025)된 것이지, 무작위 연구에서 도출된 역치가 아님. 임상에서는 골소실 양보다 치료 반응성 부재가 더 실제적 결정 트리거.
 > - **발거 후 재식립**: 생존율 71–100% (2차 시도, Solderer 2019) — 발거 자체가 예후 불량을 뜻하지 않음; 부위 준비·임플란트 직경 선택이 관건.
 > - **기법 선택은 별도 오버뷰**: 역토크·trephine·piezo 선택 알고리즘은 [[overviews/failed-implant-removal-sinus-retrieval-overview]] 참조.
+> - **고정체 파절 증례군 추가(2026-11-10, Yu 2020, 분당서울대병원, 12명·13개)**: 파절은 거의 구치부(대구치 10·소구치 3), 12명 중 9명이 남성, 보철 장착 후 평균 61.7개월에 발생. **나사 풀림·변연골 소실·임플란트 주위 질환이 대부분 선행** — 반복적 나사 풀림 + 진행성 변연골 소실 + 구치부 과부하의 경고 3징후. 전부 제거했고 13부위 중 12부위 재식립, 평균 54.6개월간 재실패 없음.
 
 ## Three-line Summary
 
-Synthesis of 6 papers on when to remove a dental implant: the fundamental clinical binary is "failing" (treat aggressively) vs "failed" (extract), with hard removal criteria including mobility (complete loss of osseointegration), implant fracture, and bone loss ≥⅔ implant length and/or mobility (PI-X criterion, Cafferata 2025), and soft criteria encompassing treatment-refractory peri-implantitis that persists despite stepwise non-surgical and surgical intervention (Hong 2024 flowchart endpoint).
+Synthesis of 7 papers on when to remove a dental implant: the fundamental clinical binary is "failing" (treat aggressively) vs "failed" (extract), with hard removal criteria including mobility (complete loss of osseointegration), implant fracture, and bone loss ≥⅔ implant length and/or mobility (PI-X criterion, Cafferata 2025), and soft criteria encompassing treatment-refractory peri-implantitis that persists despite stepwise non-surgical and surgical intervention (Hong 2024 flowchart endpoint).
 
 Peri-implantitis accounts for 81.9–82.9% of late implant removal (Solderer 2019; Shenoy 2025), and high-risk site factors — molar location (OR=3.21), baseline suppuration (OR=4.51), and overdenture prosthetics (OR=3.59) — predict implant loss independently of surgical protocol (Zhou 2026, n=406 implants); the Korean Academy of Periodontology consensus (Kim 2024) codifies removal + defect reconstruction as the final tier when lower-level treatments fail.
 
@@ -52,7 +54,7 @@ A critical evidence gap exists: no prospective SR or RCT has validated a precise
 
 ## 세줄요약
 
-6편 종합: 임플란트 발거 결정의 핵심 이분법은 "실패 진행 중(Failing, 적극치료)" vs "실패(Failed, 발거"이며, **절대 발거 기준**은 동요도 (Mobility, 골유착 완전 소실), 임플란트 골절(Implant Fracture), 골소실(Bone Loss) ≥⅔ 임플란트 길이 AND/OR 동요 (PI-X 기준, Cafferata 2025); **상대 발거 기준**은 비외과·외과 치료에도 지속되는 치료 불응성 임플란트주위염 (Hong 2024 플로우차트 종착점).
+7편 종합: 임플란트 발거 결정의 핵심 이분법은 "실패 진행 중(Failing, 적극치료)" vs "실패(Failed, 발거"이며, **절대 발거 기준**은 동요도 (Mobility, 골유착 완전 소실), 임플란트 골절(Implant Fracture), 골소실(Bone Loss) ≥⅔ 임플란트 길이 AND/OR 동요 (PI-X 기준, Cafferata 2025); **상대 발거 기준**은 비외과·외과 치료에도 지속되는 치료 불응성 임플란트주위염 (Hong 2024 플로우차트 종착점).
 
 임플란트주위염이 후기 발거 원인의 81.9–82.9%를 차지하며 (Solderer 2019, Shenoy 2025), 구치부 위치 (OR=3.21)·기저 화농 (OR=4.51)·피개의치 (OR=3.59)가 수술 프로토콜과 무관하게 임플란트 소실을 독립 예측 (Zhou 2026, n=406개); 한국치주과학회 합의문 (Kim 2024)은 발거+결손 재건을 단계적 치료 계층의 최종 단계로 명시.
 
@@ -258,3 +260,21 @@ IMPLANT WITH SUSPECTED FAILURE
 - [[implants/survival/shenoy-2025-dental-implant-failure-retrieval-techniques-scoping]] — failure classification (early/late, cause-based) and retrieval overview
 - [[implants/peri-implantitis/zhou-2026-surgical-protocols-peri-implantitis-cohort]] — site-level predictors of implant loss (molar, suppuration, overdenture)
 - [[implants/peri-implantitis/peri-implantitis]] — peri-implantitis category hub
+
+## Evidence Update — Fixture Fracture: An Absolute Indication With a Warning Period (2026-11-10)
+
+[[implants/yu-2020-fractures-implant-fixtures-retrospective-clinical]] is a retrospective case series from Seoul National University Bundang Hospital: 13 fractured fixtures in 12 patients, removed 2007–2015.
+
+- Location: 10 molars, 3 premolars. Nine of 12 patients were male.
+- Mean crown-to-implant ratio 0.83:1.
+- Mean interval from prosthesis delivery to fracture: 61.7 months.
+- Screw loosening, marginal bone loss or peri-implant disease preceded fracture in most implants.
+- All fixtures were removed; 12 of 13 sites were re-implanted with no failure over a mean 54.6 months.
+
+**Place in the decision framework.** A fractured fixture is the least ambiguous removal criterion on this page, since there is nothing to salvage. What the series adds is on either side of that decision.
+
+*Before:* fracture was rarely a surprise. Repeated screw loosening, progressive marginal bone loss and a posterior site under heavy load formed a recognisable sequence over about five years. Recurrent loosening in a posterior implant is better treated as a sign of overload to be investigated than as a maintenance nuisance to be retightened. Bone loss matters mechanically as well as biologically, because it lengthens the unsupported lever arm on the fixture.
+
+*After:* replacement worked. Twelve of 13 sites were re-implanted without failure at a mean of four and a half years, which supports removing and replacing over attempting to keep a fractured fixture in service.
+
+**Limit.** Thirteen fixtures, no denominator, so this gives a pattern and not an incidence. The crown-to-implant ratio was unremarkable, so the series does not support that ratio as the explanation.
