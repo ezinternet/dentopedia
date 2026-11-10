@@ -15,6 +15,7 @@ source_papers:
   - wiki/implants/short-narrow/witek-2021-surgical-instrumentation-narrow-wide-short-implants.md
   - wiki/implants/isq/diehl-2022-narrow-diameter-implant-stability-hyperglycemic.md
   - wiki/implants/short-narrow/barbosa-2021-narrow-implants-one-two-piece-fea.md
+  - wiki/implants/jo-2026-structure-property-function-tinzr-alloy.md
 relations:
   - type: extends
     target: pachiou-2026-narrow-diameter-implants-immediate-loading-sr-ma
@@ -41,6 +42,7 @@ relations:
 > - 단, 유일하게 불협화음을 내는 신호가 **장기 생물학적 합병증**: ≥5년 관찰연구 2편(242개)에서 즉시하중군의 생물학적 합병증 발생이 더 많았다(narrative, 30건). 확실성은 very-low·가설생성 수준이므로 금기 근거는 아니고 **증례 선택과 유지관리 강화의 근거**다. NDI의 최대 근거공백(생물학적 합병증)이 하중 축에서도 똑같이 재현된다.
 > - FEA 생역학 경계(Barbosa 2021): 2.5 mm 초소경(Extra-Narrow) one-piece 임플란트는 30° 경사하중 시 응력이 2188 MPa → 티타늄 항복강도(1130 MPa) 93.6% 초과. 3.0 mm one-piece 및 3.5 mm Morse taper two-piece는 축·경사 하중 모두 안전. **"3.0 mm가 임상적 안전 하한"** — Pachiou 2025의 생존율 데이터에 생역학적 근거를 제공.
 > - 정직한 한계: 추적기간 대부분 ≤36개월로 짧고, 후방 부하의 10년 horizon 미입증, 임플란트주위염(peri-implantitis) 등 생물학적 합병증 데이터가 pool 불가(Pachiou 2025) — NDI의 가장 큰 근거 공백.
+> - **합금 축 추가(2026-11-10, Jo 2026, 벤치+RCT 80명 등록·77명 분석)**: β형 Ti-Nb-Zr 합금이 냉간가공 4등급 순수 티타늄보다 인장강도(1,139 vs 900 MPa)와 피로 수명(약 4배)이 높고 탄성계수는 낮다(75 vs 110 GPa). 12개월 임상에서 두 군 모두 성공·생존 100%, 변연골 소실 >1 mm 없음. 낮은 탄성계수가 골소주 복잡도를 **높이지 않았다** — 정형외과의 응력차폐 논리는 치과 임플란트에 그대로 옮겨지지 않음. 좁은 직경 임플란트의 파절 여유를 넓히는 재료 후보이나 추적 1년.
 
 ## Three-line Summary
 
@@ -125,3 +127,22 @@ Decision logic in prose:
 - [[implants/short-narrow/schiegnitz-2018-narrow-diameter-implants-systematic-review]] — SR+MA (76 qualitative, 16 quantitative studies, 1995–2017): mini-implants <3.0 mm significantly worse survival vs SDI (OR 4.54); 3.0–3.25 mm and 3.3–3.5 mm categories equivalent to SDI (OR 1.06/1.19) — establishes the <3.0 mm boundary as the clinical risk inflection point
 - [[implants/short-narrow/walter-2023-narrow-diameter-29mm-bone-level-implant]] — prospective multicenter PMCF (n=41, 5 German centers, 12-month): Straumann 2.9 mm BLT Roxolid/SLActive survival 92.7% (95% CI 79.0–97.6%), MBL −0.3 mm, PES 11.6/14; all 3 losses pre-provisional — device-level 1-year data for 2.9 mm boundary implant
 - [[implants/full-arch/storelli-2021-use-of-narrow-diameter-implants]] — SR: NDI as prosthetic alternative in completely edentulous patients; survival comparable to standard-diameter implants when ≥3.0 mm
+
+## Evidence Update — A Stronger, Less Stiff Alloy: Ti-Nb-Zr (2026-11-10)
+
+[[implants/jo-2026-structure-property-function-tinzr-alloy]] combines bench testing with a randomised single-blind controlled trial (80 enrolled, 77 analysed) comparing a β-type Ti-Nb-Zr alloy with cold-worked modified Grade 4 commercially pure titanium.
+
+| Property | Ti-Nb-Zr | Grade 4 cpTi |
+|---|---|---|
+| Tensile strength | 1,139 MPa | 900 MPa |
+| Fatigue life | 1.06 M cycles | 0.25 M cycles |
+| Elastic modulus | 75 GPa | 110 GPa |
+| 12-month success and survival | 100% | 100% |
+
+No implant in either group had marginal bone loss above 1 mm.
+
+**Why it belongs on the narrow-diameter page.** The alloy discussion here exists because fracture resistance is what limits narrow implants, and stronger alloys are the route to using them in load-bearing sites. Ti-Nb-Zr is a second candidate alongside the titanium–zirconium alloy already covered, with a fourfold fatigue-life advantage on the bench.
+
+**The unexpected finding.** The lower-modulus alloy produced less peri-implant trabecular complexity, not more. The orthopaedic argument, that a less stiff implant shields bone less and so stimulates it more, did not hold. Bulk stiffness appears secondary to implant design and interface mechanics at dental scale. The practical point: the case for this alloy is strength, and claims of a bone-biology advantage from low modulus are not supported by the one trial that looked.
+
+**Limits.** Twelve months and equal clinical outcomes. The strength advantage is a bench result; whether it becomes fewer fractures in narrow implants needs years of follow-up, and the trial did not test narrow diameters specifically.
