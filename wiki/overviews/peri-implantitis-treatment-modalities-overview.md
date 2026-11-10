@@ -37,6 +37,7 @@ relations:
 > - **신규 — 점막염 (Peri-implant Mucositis, PM)**: de Tapia 2026 RCT(48명/118개, 3개월)에서 구강위생교육 (Oral Hygiene Instructions, OHI) 단독 해소율은 환자 39.1%/임플란트 36.4%, OHI + 기계적 기구치료는 56%/67.3%였고, 순응도가 가장 강한 예측인자였다(OR 11.4). Aksu 2026 준무작위 시험(43명/55개, 각화조직 폭 (Keratinized Tissue Width, KTW) <2 mm, 초록만 확인)에서 유리구개이식 (Free Palatal Graft, FPG)을 더하면 6개월 BoP 범위가 줄고(MD −1.06) 성공 OR 8.44였으며, PPD는 차이가 없었다. [확인]
 > - **신규 — 재건·연조직 보조**: Holtzman 2026 RCT(n=32, 12개월)에서 골유도재생술 (Guided Bone Regeneration, GBR)에 결합조직이식 (Connective Tissue Graft, CTG)을 더하면 임상부착수준 (Clinical Attachment Level, CAL) 획득(3.21 vs 1.65 mm)과 각화점막 (Keratinized Mucosa, KM) 폭 증가(2.25 vs 0.26 mm)는 컸지만 질환 해소율은 같았다(62.5% vs 56.3%, p=0.719). Puisys 2026 RCT(n=31, 초록만 확인)에서 자가 상악결절골 재건에 전해질 세정 (Electrolytic Cleaning, EC)을 더해도 임상 이득은 없고 방사선 근심 충전만 컸다(4.6 vs 2.5 mm). Hakkers 재건 RCT·Soldini 2025와 같은 패턴이다: 구조·방사선·연조직 이득은 임상 질환 해소와 같지 않다. [확인]
 > - **맥락 — Zuercher 2026 (5년 RCT, 22명 완료)**: 임플란트주위염 치료가 아니라 *식립 시* 협측 열개 (Dehiscence) GBR 연구다. 탈단백 우골 무기질 (Deproteinized Bovine Bone Mineral, DBBM) 블록이 입자형보다 협측 골 두께를 더 유지했지만(1.36 vs 0.07 mm), MBL·BoP·생존은 같았고 양군 모두 임플란트주위염이 없었다. 이식재 형태는 윤곽을 좌우하지만, 이 시험에서 윤곽 차이가 질환 차이로 이어지지는 않았다. [확인]
+> - **2편 추가(2026-11-10)**: ① **수술 시점의 골소실 비율이 예후를 결정**(Hwang 2023, 분당서울대병원, 227개·89명, 평균 4.3년): 누적 생존율 골소실 <25%에서 70.7%, 25–50%에서 48.9%, >50%에서 21.3%(HR 2.25·4.59); 절제형과 재생형 수술은 전체(57.0% vs 44.2%, P=0.444)와 각 단계 모두 차이 없음. ② 전신 항생제(Isola 2025, 18편·RCT 9편 통합): 임플란트 주위 점막염 (Peri-implant Mucositis)에는 이득 없음; 임플란트 주위염 (Peri-implantitis)에서는 12개월 탐침 시 출혈·치주낭 깊이만 개선되고 변연골 수준은 변화 없음.
 
 ## Three-line Summary
 
@@ -338,3 +339,31 @@ This section addresses two questions the 1-year protocol trials above cannot: do
 - [[overviews/gbr-clinical-application-additive-value-overview]] — GBR clinical application (existing sibling)
 - [[overviews/peri-implantitis-risk-assessment-overview]] — pre-placement risk (residual periodontal pockets, implant material)
 - [[overviews/supportive-peri-implant-therapy-maintenance-overview]] — post-treatment maintenance
+
+## Evidence Update — Stage at Surgery Outweighs Technique; Systemic Antibiotics Reach Soft Tissue Only (2026-11-10)
+
+### [[implants/peri-implantitis/hwang-2023-survival-analysis-implants-after-surgical]]
+
+Retrospective survival analysis from Seoul National University Bundang Hospital: 227 implants in 89 patients treated surgically for peri-implantitis between 2003 and 2021, mean follow-up 4.3 years, stratified by bone loss as a percentage of fixture length.
+
+| Bone loss at surgery | Cumulative survival | Median survival | HR vs <25% |
+|---|---|---|---|
+| <25% | 70.7% | not reached | — |
+| 25–50% | 48.9% | 8.18 years | 2.25 |
+| >50% | 21.3% | 3.63 years | 4.59 |
+
+Resective and regenerative surgery did not differ overall (57.0% vs 44.2%, P=0.444) or within any stage.
+
+This reorders the questions on this page. Much of the surgical literature above compares techniques. In this cohort technique did not predict survival and stage did, with a steep gradient: an implant treated after losing more than half its supporting bone had about a one-in-five chance of surviving. The clinical consequence is about timing rather than method. Surgical treatment is worth offering early, and at >50% bone loss the realistic conversation includes explantation, which connects to [[overviews/implant-removal-criteria-overview]].
+
+Two cautions. Even the best stratum lost nearly 30% of implants, a sobering baseline for surgical therapy in a university cohort. And technique was not randomised: surgeons choose regenerative procedures for contained defects, so the null comparison cannot show the techniques are interchangeable.
+
+### [[implants/peri-implantitis/isola-2025-impact-and-efficacy-of-systemic]]
+
+SR+MA of 18 studies (9 RCTs pooled) on systemic antibiotics as adjuncts to non-surgical or surgical treatment.
+
+- Peri-implant mucositis: no benefit.
+- Peri-implantitis: significant reductions in BOP (p=0.007) and PPD (p=0.004) at 12 months.
+- No significant improvement in marginal bone level. Only 2 studies showed microbiological effects.
+
+The pattern is the same as in periodontitis, weaker: a soft-tissue response without a bone response. Since bone level is what Hwang shows to govern survival, an adjunct that does not move it has limited claim on routine use, and none in mucositis. This is consistent with the selective-use position in [[overviews/drug-antibiotic-stewardship-overview]].
