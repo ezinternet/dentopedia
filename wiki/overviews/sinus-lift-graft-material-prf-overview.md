@@ -39,6 +39,7 @@ relations:
 > - **넓은 상악동(잔존골 <3 mm)에서는 자가골 혼합이 가장 좋았다**: 이종골+자가골 70:30의 신생골 면적이 이종골+L-PRF의 약 2.7배, 이종골 단독의 약 5.6배였다(Harlos 2022, 36명). L-PRF는 단독보다 낫지만 결합조직이 많았다. 즉 Almutairi의 L-PRF 이득은 큰 결손에서 자가골을 대신하지 못한다. [확인]
 > - **골유도성 인산칼슘(BCPN, 바늘형 미세표면)**: 양 모델에서 입자형보다 신생골이 많았고, 사람 RCT 10명에서 자가골과 안정성·높이·신생골이 비슷했다(van 2023, 초록만). 표면 형상이 재료 등급만큼 중요하다는 신호다. [확인]
 > - 종합 한 줄: 기본 선택은 DBBM ± PRF이고, BCP는 신생골 최대화, 동종골은 공급원 대안, dpDTM은 자가 공급원이라는 근거로 고르는 대안이다. 임플란트 결과에서 어떤 단일 재료도 우위가 입증되지 않았으며, 복합체(이종골+BMC/PRP)가 NMA 조직계측 순위에서 자가골 단독을 앞선다. [미검증]
+> - **동물 실험 추가(2026-11-10, Nam 2023, 미니피그 5마리·상악동 10개·임플란트 20개, 12주)**: 폴리카프로락톤-삼인산칼슘 (Polycaprolactone–Tricalcium Phosphate, PCL-TCP) 관형 스캐폴드에 제대 유래 중간엽 줄기세포+혈소판 풍부 혈장 (Platelet-Rich Plasma, PRP)을 실으면 골-임플란트 접촉률 (Bone-to-Implant Contact, BIC)만 유의하게 높고(0.34 vs 0.09, P=0.016), 골용적 분율과 신생골 높이는 비유의. 20개 중 4개 실패, 모두 세포·PRP 군. **스캐폴드가 막을 지지해 동시 식립이 가능하다는 타당성 근거**이지 줄기세포나 PRP가 상악동 골을 개선한다는 증거는 아님.
 
 ## Three-line Summary
 
@@ -144,3 +145,22 @@ The cross-class NMAs add two important dimensions absent from the pairwise clust
 - [[sinus-lift/lateral/trimmel-2021-relative-performance-various-biomaterials]] — Bayesian NMA 34 RCT: composites lead; autograft alone 12th; only 2/378 comparisons significant
 - [[sinus-lift/lateral/pogacian-maier-2024-allograft-bone-lateral-sinus-sr]] — FDBA ≈ DBB volume (p=0.53); FDBA ≈ autograft survival (RR 1.00)
 - [[bone-regeneration/nunn-2024-novel-alloplast-carbonate-apatite-granules]] — CO3Ap sinus data: NB 33.8%, implant survival 100% at 3y (n=13, no RCT)
+
+## Evidence Update — A Tenting Scaffold With a Cell Payload (Animal Pilot) (2026-11-10)
+
+[[sinus-lift/lateral/nam-2023-sinus-augmentation-polycaprolactone-tricalcium-phosphate]] is a minipig study: 5 animals, 10 sinuses, 20 implants placed simultaneously with lateral augmentation, 12 weeks of healing. A tube-shaped 80:20 PCL-TCP honeycomb scaffold was tested alone, with PRP, and with human umbilical-cord mesenchymal stem cells plus PRP.
+
+| Outcome | Cells + PRP | Scaffold alone | P |
+|---|---|---|---|
+| Bone–implant contact | 0.34 ± 0.21 | 0.09 ± 0.19 | 0.016 |
+| Grayscale density | 102.48 | 58.10 | 0.045 |
+| Bone volume fraction (micro-CT) | 4.42% | 6.73% | 0.366 |
+| New bone height | 1.26 mm | 0.73 mm | 0.056 |
+
+Four of 20 implants failed, all in the two arms that received cells or PRP.
+
+**What it adds to this sub-overview.** The PRF trials on this page show a histological shift (more new bone, less residual graft) without a difference in implant stability or survival. Nam is a weaker preclinical parallel: the payload improved an interface measure and did not improve bone volume, which was numerically lower. The failures clustering in the biologic arms are too few to interpret and are not reassuring.
+
+**The transferable idea is the scaffold, not the cells.** A friction-fitted tube that holds the membrane up is a space-maintenance strategy, related to the graftless and tenting approaches discussed elsewhere in the sinus overviews. That part is a feasibility demonstration.
+
+**Evidence level.** Animal, underpowered, 12 weeks, no empty-sinus control. It cannot support a clinical recommendation.
