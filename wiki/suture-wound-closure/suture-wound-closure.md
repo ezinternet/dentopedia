@@ -2,7 +2,7 @@
 title: "봉합·창상폐쇄 — suture-wound-closure"
 authors: navigation
 year: 2026
-date: 2026-10-06
+date: 2026-11-10
 doi: N/A
 source: navigation
 category: suture-wound-closure
@@ -15,20 +15,20 @@ tags: [navigation, category-index, suture-wound-closure]
 > [!summary] 한국어 핵심요약
 > - **분야**: 봉합·창상폐쇄
 > - **범위**: Suture techniques/patterns & biomechanics, primary vs secondary closure, sutureless surgery, tissue adhesives, flap design for tension-free primary closure (PASS, periosteal releasing, advancement flaps)
-> - **수록 논문**: 28편
+> - **수록 논문**: 32편
 
 ## Three-line Summary
 
 **Scope**: Suture techniques/patterns & biomechanics, primary vs secondary closure, sutureless surgery, tissue adhesives, flap design for tension-free primary closure (PASS, periosteal releasing, advancement flaps)
-**Indexed papers**: 28 papers in `wiki/suture-wound-closure/`.
+**Indexed papers**: 32 papers in `wiki/suture-wound-closure/`.
 
 ## 세줄요약
 
 **분야**: 봉합·창상폐쇄
-**수록 논문**: 28편
+**수록 논문**: 32편
 **하위 카테고리**: 없음
 
-## Papers in this Category (28)
+## Papers in this Category (32)
 
 | Paper |
 |---|
@@ -47,7 +47,11 @@ tags: [navigation, category-index, suture-wound-closure]
 | [[lee-2026-clinical-and-histological-outcomes|Clinical and histological outcomes of allogenic amnion–chorion membrane for palatal donor site healing]] |
 | [[look-2022-novel-superficial-suture-pattern-tensile-strength|Tensile strength of a novel superficial suture pattern compared to traditional suture patterns in a cadaveric human skin model]] |
 | [[marsidi-2020-measuring-forces-suture-techniques-wound-closure|Measuring Forces in Suture Techniques for Wound Closure]] |
+| [[mclean-1995-vascular-changes-following-mucoperiosteal-flap|Vascular changes following mucoperiosteal flap surgery: a fluorescein angiography study in dogs.]] |
 | [[moslemi-2016-periosteal-releasing-incision-diode-laser-gbr|Periosteal Releasing Incision With Diode Laser in Guided Bone Regeneration Procedure: A Case Series]] |
+| [[nobuto-2003-microvascular-response-in-the-periodontal|Microvascular response in the periodontal ligament following mucoperiosteal flap surgery.]] |
+| [[nobuto-2005-microvascular-response-periosteum-3d-observation|Microvascular response in the periosteum following mucoperiosteal flap surgery in dogs: 3-dimensional observation of an angiogenic process.]] |
+| [[nobuto-2005-microvascular-response-periosteum-angiogenesis-bone|Microvascular response in the periosteum following mucoperiosteal flap surgery in dogs: angiogenesis and bone resorption and formation.]] |
 | [[ogata-2013-comparison-double-flap-incision-periosteal|Comparison of Double-Flap Incision to Periosteal Releasing Incision for Flap Advancement: A Prospective Clinical Trial]] |
 | [[pabst-2024-cyanoacrylate-tissue-adhesive-coronally-advanced-flap|A comparative study of cyanoacrylate-based tissue adhesive and surgical sutures on marginal flap stability following coronally advanced flap]] |
 | [[pachipulusu-2018-primary-secondary-closure-third-molar|Comparative study of primary and secondary closure of the surgical wound after removal of impacted mandibular third molars]] |
