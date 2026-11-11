@@ -26,6 +26,7 @@ source: synthesis
 > - 기전 후보: Drukala는 액틴 세포골격(F-actin) 구조가 조직 기원에 따라 다름(빠른 구강 각질세포는 말초부 F-actin 집중, 피부 각질세포는 중심부 층상 다발)을 제시 — 이동성 차이의 구조적 상관물.
 > - 섬유아세포의 역할: 구강점막 섬유아세포의 조건배지(conditioned medium)가 구강 각질세포의 이동성·증식을 무보충 배지 수준까지 억제 — **방사성(paracrine) 섬유아세포-각질세포 조절 고리**의 존재를 시사. Glim도 섬유아세포 증식속도 차이를 언급해 같은 방향.
 > - 임상 함의: 이 2편 자체는 임상 중재를 시험하지 않았으나, (1) 화상·피부창상 이식용 세포원으로서 **배양 자가 구강점막 각질세포**의 이론적 근거(Drukala), (2) 무흉터 구강 치유 기전을 향후 항섬유화 치료 전략의 모델로 제시(Glim)라는 두 실용적 방향을 함의.
+> - 유전자 조절 수준 기전 추가(Su 2025, 마우스 치은 창상 모델 + 사람 치은 2검체): 피부 표피에는 없고 치은·접합상피 기저층에만 있는 전사인자 IRX1이 SOX9를 활성화해 IRX1→SOX9→EPGN/EGF 축으로 각질세포 증식·이동을 구동. Irx1 이형접합 창상은 1일차 크기 4배(0.31 vs 0.08 mm²)이고 7일차에도 불완전 폐쇄, 외인성 EPGN이 이동을 회복 — 마우스 소표본(군당 3–7)이라 기전 근거이지 임상 근거는 아님.
 > - 근거 한계: 둘 다 상당히 오래된 논문(2005·2013)이고, Glim은 초록만 확보(원문 미검색), Drukala는 순수 in-vitro(공여자 12명)로 임상 외삽 불가. 두 논문 모두 새 wiki 검색으로 후속 문헌이 있는지 확인할 가치가 있음.
 
 ## Three-line Summary
@@ -56,10 +57,13 @@ Both papers converge independently on fibroblasts as a regulatory layer rather t
 
 **Clinical relevance, stated conservatively**: neither paper tests a clinical intervention. What they support is (1) the biological plausibility of using expanded autologous oral mucosal keratinocytes as a graft cell source for cutaneous wounds/burns when skin donor sites are limited (Drukala's stated motivation), and (2) framing scarless oral healing as a translational model for future antifibrotic dermal-scarring therapy (Glim's stated motivation) — both are forward-looking research directions, not established clinical protocols.
 
+**A transcription-factor mechanism for the oral advantage (added 2025 evidence).** Su 2025 (mouse gingival punch-wound model with lineage tracing and RNA-Seq, plus two human gingival samples) identifies IRX1 as a primed basal-layer transcription factor in junctional and gingival epithelium that is absent from skin epidermis; IRX1 binds the SOX9 promoter and drives an IRX1→SOX9→EPGN/EGF axis of keratinocyte proliferation and migration. Irx1 heterozygous wounds were 4× larger at 1 day post-injury (0.31 vs 0.08 mm²) and still incompletely closed at 7 days, and exogenous EPGN rescued migration in vitro when IRX1 was inhibited. This adds a gene-regulatory layer beneath the cell-level motility (Drukala) and ion-channel (Aijima) findings above, but it is a mouse model with n=3–7 per group and two human samples, so it supports mechanism, not a clinical intervention. [확인 for the quoted values; clinical translation 미검증]
+
 **Bottom line**: "oral heals faster" is not folklore — it has a keratinocyte-motility and fibroblast-paracrine basis demonstrated at the cell level (Drukala) and cataloged at the tissue level (Glim). But both sources are old (2005, 2013), Glim is abstract-only (full text not retrieved), and Drukala is a small (n=12 donor), purely in-vitro study — treat the mechanism as plausible and convergent, not as a closed case.
 
 ## Related Papers
 
+- [[oral-surgery/su-2025-irx1-mechanisms-oral-epithelial]] — gene-regulatory mechanism: IRX1+ basal-layer niche in gingival/junctional epithelium (absent in skin) drives IRX1→SOX9→EPGN/EGF keratinocyte migration; Irx1-deficient wounds closed slower (mouse, n=3–7/group)
 - [[periodontics/glim-2013-detrimental-dermal-wound-healing]] — tissue-level narrative review: oral vs dermal wound-healing differences across immune mediators, vasculature, bone-marrow-derived cells, reepithelialization rate, ECM (abstract-only)
 - [[periodontics/drukala-2005-comparison-of-proliferation-and-motile]] — cell-level in-vitro mechanism: oral mucosal keratinocytes migrate faster/more directionally and proliferate faster than skin keratinocytes; paracrine fibroblast suppression demonstrated
 - [[periodontics/dawes-2003-oral-mucosal-epithelium-turnover-time]] — quantitative baseline: oral mucosal surface layer replaced every 2.7 h (salivary cell count, n=17); foundational turnover rate anchoring all proliferation comparisons
