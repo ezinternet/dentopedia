@@ -7,8 +7,8 @@
 **대상은 키워드에 가장 가까운 링크로 특정한다.** 같은 줄의 나머지 링크는 충돌 표현의 대상이라는 근거가 없어 Tier 2(`AMBIG→`)로 강등된다 — 버리지 않으니 진짜 대상이 강등됐다면 Tier 2에서 찾을 수 있다.
 
 - Tier 1 (대상 지목됨, actionable): **1**
-- Tier 2 (대상 불명/soft, review): **240**
-- (억제됨) 이미 typed 엣지·supersession 포인터가 있어 제외: **385** · 부정문 제외: **194** · 검토·불필요 대장: **430** · 동일 줄 비최근접으로 Tier 2 강등: **17**
+- Tier 2 (대상 불명/soft, review): **241**
+- (억제됨) 이미 typed 엣지·supersession 포인터가 있어 제외: **385** · 부정문 제외: **197** · 검토·불필요 대장: **430** · 동일 줄 비최근접으로 Tier 2 강등: **17**
 
 ## Tier 1 — 판단 후 엣지 달 후보 (page → 지목된 target)
 
@@ -919,6 +919,10 @@
 - `nam-2023-the-cumulative-survival-rate-of` [implants/survival] (HIGH-no-target, 'contradict' · 반박·충돌)
   - **근거 문장**: - The conclusion says other factors "were significantly associated", contradicting the Results (p>0.05); likely a typo.
   - ▸ 출발(`nam-2023-the-cumulative-survival-rate-of`) 세줄: 후향적 단일 기관 코호트 (서울대학교치과병원 치주과; 환자 151명, Oneplant 마이크로스레드 임플란트 490개, 2006-2010 식립, 2020년 12월까지 10년 초과 추적) — Kaplan-Meier 누적 생존율 (cumulative survival rate, CSR)과 Cox 위험인자 분석. 490개 중 10개 실패 (2.0%), 10년 CSR 97.9%; 다변량 Cox에서 2차 수술 (2-stage surgery)만 유의한 위험인자 (HR 4.769, p=0.039, 95% CI 
+
+- `lorusso-2025-tightening-torques-cone-morse-fatigue` [prosthetic-materials/abutment-screw] (HIGH-no-target, 'contradict' · 반박·충돌)
+  - **근거 문장**: > Absolute microgap values (micrometers) are only in figures and were not in the retrieved text. The paper has internal inconsistencies: implant diameter 3.5 vs 3.8 mm, 1 x 10^4 loads vs a 1,000,000-cycle limit, a different test frequency for the 25 Ncm group (3 Hz vs 15 Hz), a mislabelled 40 Ncm paragraph, and a Discussion sentence about a "significant reduction" in microgap that contradicts the 
+  - ▸ 출발(`lorusso-2025-tightening-torques-cone-morse-fatigue`) 세줄: 6° 콘 모스(cone morse) 내부 육각 연결 임플란트 80개(그룹당 10개; 토크 4수준 x 하중군/비하중 대조군)를 30°로 매립해 25·30·35·40 Ncm로 체결한 뒤, 종단면에서 주사전자현미경(SEM)·디지털 현미경으로 임플란트-어버트먼트 미세간극(microgap)을 측정한 in vitro 피로시험. 네 조건 모두에서 토크군 간 미세간극 차이가 유의했고(Kruskal-Wallis p=0.0121 하중 굴곡, 0.0027 하중 신전, 0.0337 대조 굴곡, 0.0021 대조 신전)
 
 - `de-oliveira-neto-2019-immediate-dental-implants-placed-into` [immediate-implant/infected-socket] (HIGH-no-target, 'contradict' · 반박·충돌)
   - **근거 문장**: The authors conclude infection is a real failure risk factor, but the CI lower bound is 1.04, all studies are non-randomized two-group designs at unclear-to-high risk of bias, and infected sites were pooled without acute/chronic or endodontic/periodontal stratification — which contradicts later, larger syntheses reporting no survival difference.
