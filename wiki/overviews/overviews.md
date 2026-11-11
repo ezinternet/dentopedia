@@ -15,20 +15,20 @@ tags: [navigation, category-index, overviews]
 > [!summary] 한국어 핵심요약
 > - **분야**: 종합
 > - **범위**: Synthesis pages spanning multiple categories
-> - **수록 논문**: 374편
+> - **수록 논문**: 375편
 
 ## Three-line Summary
 
 **Scope**: Synthesis pages spanning multiple categories
-**Indexed papers**: 374 papers in `wiki/overviews/`.
+**Indexed papers**: 375 papers in `wiki/overviews/`.
 
 ## 세줄요약
 
 **분야**: 종합
-**수록 논문**: 374편
+**수록 논문**: 375편
 **하위 카테고리**: 없음
 
-## Papers in this Category (374)
+## Papers in this Category (375)
 
 | Paper |
 |---|
@@ -151,6 +151,7 @@ tags: [navigation, category-index, overviews]
 | [[extraction-socket-biologic-agents-prf-collagen-rhbmp2-healing-overview|Extraction Socket Biologic Agents — PRF, Collagen, and rhBMP-2 for Early Healing and Dimensional Preservation]] |
 | [[failed-implant-removal-sinus-retrieval-overview|Overview: Failed/Displaced Dental Implant Removal — Technique Selection & Maxillary Sinus Retrieval]] |
 | [[flapless-vs-flapped-implant-surgery-overview|Flapless vs Flapped Implant Surgery — Failure, Crestal Bone & Soft-Tissue Outcomes Overview]] |
+| [[fluoride-sdf-mih-cochrane-2024-evidence-certainty-overview|Fluoride, SDF & MIH — Cochrane 2024 Evidence-Certainty Synthesis (Benefit–Harm Gaps)]] |
 | [[food-impaction-proximal-contact-loss-overview|Overview: Food Impaction / Proximal Contact Loss between Implant Prostheses and Adjacent Teeth]] |
 | [[full-arch-fixed-four-vs-six-implants-overview|고정성 풀아치: 임플란트 4개 vs 6개 — 임상·생체역학 종합]] |
 | [[gbr-barrier-membrane-exposure-axis|GBR Barrier Membranes — Exposure as the Central Failure Mode (material · configuration · flap design · mesh)]] |
