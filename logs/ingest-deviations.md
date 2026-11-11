@@ -1046,3 +1046,5 @@ Logged by subagents at deviation time. `deviation-audit.py` flags types with ≥
 | 2026-11-10 | mclean-1995-vascular-changes-following-mucoperiosteal-flap | abstract-only | paywalled J Periodontol 1995 — no PMC record, PubMed abstract truncated at 250 words, page built from abstract |
 | 2026-11-10 | nobuto-2005-microvascular-response-periosteum-3d-observation | abstract-only | paywalled J Periodontol 2005 — no PMC record, page built from PubMed abstract; companion of PMID 16101368 ingested separately |
 | 2026-11-10 | nobuto-2003-microvascular-response-in-the-periodontal | abstract-only | paywalled J Periodontol 2003 — no PMC record, page built from PubMed abstract |
+| 2026-11-10 | li-2026-effect-reactive-soft-tissue-combined | abstract-only | PubMed record only, no PMC full text; Clin Oral Investig paywall; built from structured abstract |
+| 2026-11-10 | shehabeldin-2023-intrasocket-reactive-tissue-state-current | no-doi | PubMed record carries no DOI (Int J Oral Implantol 2023) |
