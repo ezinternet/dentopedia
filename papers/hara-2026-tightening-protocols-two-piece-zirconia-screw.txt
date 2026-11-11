@@ -1,0 +1,794 @@
+Received 18 August 2025, Accepted 24 November 2025, Available online 6 January 2026
+1. Introduction
+Commercially pure titanium and titanium alloys have long been 
+considered the gold standard dental implant materials owing to 
+their superior biocompatibility, corrosion resistance, and mechanical 
+properties, all of which contribute to their high long-term clinical 
+success rates[1–3]. However, recent reports have highlighted immu -
+nological reactions and hypersensitivity related to the release of tita-
+nium particles[4–6], as well as esthetic concerns caused by titanium 
+color visible through the soft tissue, particularly in patients with thin 
+mucosa[7, 8]. Consequently, zirconia implants have attracted atten -
+tion as potential alternatives to titanium and its alloys[ 9 –11]. Among 
+these, yttria-stabilized tetragonal zirconia polycrystals (Y-TZP) have 
+emerged as a promising implant material due to their high mechani-
+cal strength, fracture toughness, excellent biocompatibility, and 
+superior esthetics[9,12–17]. Furthermore, zirconia has been shown to 
+exhibit lower bacterial adhesion than titanium, potentially reducing 
+plaque accumulation and the risk of peri-implant diseases[ 9,16,18]. 
+Dental implants are broadly classified into one-or two-piece types. 
+One-piece zirconia implants, in which the implant body and abut -
+ment are integrated, were initially more prevalent. However, their 
+limited prosthetic flexibility and constraints in immediate restora -
+tion or angle correction have led to the increased use of two-piece 
+zirconia implants in recent years. These systems connect the implant 
+J Prosthodont Res. 2026; **(**): ****–****
+Abstract
+Purpose: This study evaluates the effects of different abutment screw tightening protocols and implant materials on 
+screw loosening and morphological changes after cyclic torsional loading of two-piece implants.
+Methods: Titanium (T) and zirconia (Z) two-piece implants were used. Abutment screws were tightened to 35 Ncm. Three 
+protocols were tested: (A) retightening after 5 min, (B) immediate retightening, and (C) no retightening (n = 6 each). All 
+samples underwent 100,000 cycles of cyclic torsional loading. Removal torque values before and after loading (RT-pre 
+and RT-post) and torque loss percentage (TL) were calculated. Surface morphology was assessed using scanning electron 
+microscopy (SEM), and dimensional changes were quantified using root mean square (RMS) values from three-dimensional 
+data.
+Results: In the titanium group, protocol A (TA) had lower RT-post values than protocols B (TB) and C (TC) ( P < 0.001), and 
+TB was lower than TC (P < 0.05). In the zirconia group, protocol A (ZA) was significantly lower than protocols B (ZB) and C 
+(ZC) (P < 0.05, P < 0.001, respectively). RT-post and RT-pre were significantly lower in the zirconia group than in the titanium 
+group under all conditions ( P < 0.001). No differences were observed in TL. SEM revealed wear on the screw heads and 
+threads in all groups. RMS values were significantly lower in the zirconia group (P < 0.05).
+Conclusions: Abutment screw retightening does not consistently enhance torque maintenance under torsional loading. 
+The implant material affects torque retention and deformation, where titanium implants demonstrating greater stability 
+than zirconia implants.
+Keywords: Dental implants, Zirconia, Two-piece, Cyclic torsional loading test, Abutment screw loosening
+Effect of tightening protocols on abutment screw loosening 
+and morphological changes in two-piece zirconia implants: A 
+comparative study using cyclic torsional loading
+Toma Hara a,*, Takayuki Sugiki b, Munetsugu Seto b, Kazuhiko Ueda a,b
+a Functional Occlusal Treatment, Department of Crown and Bridge Prosthodontics, The Nippon Dental University Graduate School of Life Dentistry at Niigata, 
+Niigata, Japan, b Department of Crown and Bridge Prosthodontics, The Nippon Dental University School of Life Dentistry at Niigata, Niigata, Japan
+DOI: https://doi.org/10.2186/jpr.JPR_D_25_00249
+*Corresponding author: Toma Hara, Functional Occlusal Treatment, Department of 
+Crown and Bridge Prosthodontics, The Nippon Dental University Graduate School of 
+Life Dentistry at Niigata, 1-8, Hamaura-cho, Chuo-ku, Niigata 951-8580, Japan.
+E-mail address: t.hara@ngt.ndu.ac.jp
+Copyright: © 2026 Japan Prosthodontic Society. All rights reserved.
+Journal of Prosthodontic Research Original 
+article
+WHAT IS ALREADY KNOWN ABOUT THE TOPIC?
+» The loosening of abutment screws in two-piece implants is a clini-
+cal issue that affects the retention and stability of the superstructure. 
+Retightening has been reported to restore the preload loss caused by 
+the settling effect. However, most studies have evaluated its efficacy 
+under bending loads alone.
+WHAT THIS STUDY ADDS?
+» This study evaluated the effects of different tightening protocols 
+and implant body materials on the loosening of abutment screws 
+under cyclic torsional loading. The findings suggest that retightening 
+outcomes may not be consistent across materials and that titanium 
+implants exhibit better torque retention than zirconia implants.
+T. Hara,  et al. / J Prosthodont Res. 2026; **(**): ****–****2
+and abutment via an abutment screw[ 16,19–21]. Recent studies 
+have reported favorable long-term outcomes of two-piece zirconia 
+implants. In a prospective clinical trial with a mean follow-up of 80 
+months, no significant differences in implant survival were observed 
+between zirconia and titanium implants[ 22]. Similarly, a retrospec -
+tive study with up to 88 months of follow-up reported a survival 
+rate of 98.2% for two-piece zirconia implants[ 23]. Collectively, these 
+findings suggest that two-piece zirconia implants may achieve long-
+term clinical outcomes comparable with those of titanium implants. 
+However, in two-piece systems, the mechanical stability of the as -
+sembly may be affected by the interface design and combination 
+of materials used for each component. In particular, the abutment 
+screw joint, where the abutment is secured to the implant, may be 
+susceptible to instability owing to the differences in elastic modulus 
+and hardness between materials, inconsistent torque application, 
+component misfit, occlusal interference, or improper implant angu -
+lation and placement. These factors may lead to stress concentra -
+tion, micromovement, and an increased risk of screw loosening or 
+fracture[24–29]. Clinically, abutment screw loosening is one of the 
+most common prosthetic complications in implant dentistry, with an 
+incidence rate of 7–1 1%[30]. The primary cause is thought to be the 
+“settling effect,” in which microscopic irregularities on the contact 
+surfaces are compressed under load, leading to a partial loss of the 
+initial torque and a reduction in clamping force. To address this, 
+retightening of the abutment screw after the initial tightening has 
+been proposed. Retightening within 5 to 10 min or immediately after 
+the first torque application is recommended to re-establish preload 
+and improve screw stability and has currently been adopted in many 
+clinical settings[ 31–33]. However, these findings were primarily de -
+rived using titanium implants. Zirconia, characterized by its higher 
+elastic modulus and hardness as well as minimal plastic deforma -
+tion, may exhibit distinct mechanical behavior compared with that 
+of titanium. Fatigue-load testing is widely used to evaluate the 
+mechanical properties of implants, primarily under bending forces. 
+However, these tests may not accurately replicate the complex load -
+ing conditions encountered in an oral environment, where tensile, 
+compressive, and torsional forces act simultaneously during mastica-
+tion[34–37]. Torsional stress is particularly relevant because it often 
+acts in combination with bending and shear forces. Nevertheless, 
+basic research on torsional stress in dentistry is limited, and its re -
+production and evaluation remain challenging[ 38–40]. Convention-
+ally, tensile tests are used for metallic materials and flexural tests are 
+used for ceramics, making it difficult to directly compare dissimilar 
+materials. However, torsional loading tests allow the assessment of 
+the mechanical behavior of dissimilar materials under uniform condi-
+tions[40]. Thus, this study aimed to investigate the effects of different 
+abutment screw-tightening protocols and implant body materials 
+on screw loosening and morphological changes after cyclic torsional 
+loading of two-piece dental implants. The null hypotheses were as 
+follows: (1) no differences occur in removal torque values among the 
+different tightening protocols; (2) the implant body material does 
+not affect removal torque values of the abutment screws; and (3) the 
+implant body material does not influence morphological changes of 
+the components.
+2. Materials and Methods
+2.1. Specimens
+Two types of clinically available two-piece dental implants were 
+used in this study. One was a commercially pure titanium implant (T 
+group), and the other was a zirconia implant (Z group). Each implant 
+system included a titanium base and abutment screws ( Table 1  
+and Fig. 1). The titanium implants (Grade 4) used were Straumann 
+Standard Plus Implants (Ø4.1 mm, length 10 mm; Straumann, Basel, 
+Switzerland), and the zirconia implants (Y-TZP) were Straumann 
+PURE Ceramic Implants (Ø4.1 mm, length 10 mm; Straumann). The 
+titanium bases and abutment screws in both T and Z groups were 
+made of titanium alloys. A zirconia superstructure was cemented 
+onto each titanium base using universal resin cement. The super -
+structures were fabricated using multilayered zirconia (Shofu Disk 
+ZR Lucent Supra, Shade A3; Shofu, Kyoto, Japan). The shapes were 
+designed using CAD software (Autodesk Inventor Professional, 
+Autodesk, San Francisco, CA, USA) and arranged on zirconia disks 
+using CAM software (GO2dental, Shofu). Milling was performed us -
+ing a pre-sintered zirconia disk with a milling machine (DWX-53DC, 
+Roland DG, Shizuoka, Japan), followed by full sintering in a zirconia 
+furnace (OUSTROMAT 674i, Shofu). The sintering schedule included 
+a heating rate of 5 °C/min from 20 °C to 1,450 °C, holding for 2 h at 
+1,450 °C, and then cooling at 10 °C/min. After sintering, the super -
+structures were polished and shaped into regular hexagonal prisms 
+with opposing vertex distance of 7 mm and a height of 7 mm ( Fig. 
+2). The superstructure was cemented to a titanium base according 
+to the manufacturer’s instructions. The bonding surfaces of both 
+components were sandblasted with 0.25 MPa alumina and cleaned 
+ultrasonically. A universal adhesive (BeautyBond Xtreme, Shofu) was 
+applied, followed by gentle air-drying for 3 s, strong air-drying for 
+5 s, and light-curing from multiple directions using an LED curing 
+unit. Universal resin cement (ResiCem EX, Shofu) was applied to the 
+bonding surface, and hand pressure was applied for 10 s, followed by 
+10 min under a 5 kg load. Excess cement was removed, and final light 
+curing was performed using a dental laboratory curing unit for 180 
+s. This procedure yielded a titanium-based superstructure assembly.
+2.2. Implant assembly
+Each implant body was fixed using a tabletop three-jaw scroll 
+chuck. The titanium-based superstructure assembly was connected 
+to the implant body using an abutment screw. A digital torque me -
+ter (HDP-5, HIOS, Tokyo, Japan) was used to tighten the abutment 
+screws to the manufacturer-specified torque of 35 Ncm.
+To evaluate the effects of tightening conditions on screw sta -
+bility, the specimens were divided into groups according to three 
+distinct protocols, following the methodologies described by Sun et 
+al.[31] and Katsuta et al.[38] (Fig. 3).
+Table 1. Implant systems used in this study
+Implant Body  
+(Materials)
+Diameter 
+(mm)
+Length 
+(mm)
+Titanium base / Abutment screw   
+(Materials) Manufacturer Code Specified torque  
+(Ncm)
+Standard Plus (Ti) 4.1 10.0 Variobase (TAN) Straumann T 35
+PURE Ceramic Implant (Zr) 4.1 10.0 PUREbase (TAN) Straumann Z 35
+Ti: Titanium (grade 4), Zr: Zirconia (Y-TZP), TAN: Titanium aluminum-6 niobium-7 alloy.
+T. Hara,  et al. / J Prosthodont Res. 2026; **(**): ****–**** 3
+Under condition A (re-tightened after 5 min), the screw was 
+tightened to 35 Ncm, left untouched for 5 min, loosened, and then 
+re-tightened. The screw was then loosened again for removal torque 
+measurement before being finally retightened to 35 Ncm. Under 
+condition B (immediate re-tightening), the screw was tightened to 35 
+Ncm, immediately loosened for removal torque measurement, and 
+then retightened to 35 Ncm. Under condition C (no retightening), 
+the screw was tightened to 35 Ncm. Based on the implant type and 
+applied conditions, the specimens were classified into the following 
+six groups: group T (titanium implants), TA (titanium implants with 
+condition A), TB (titanium implants with condition B), and TC (tita -
+nium implants with condition C). Z (zirconia implants), ZA (zirconia 
+implants with condition A), ZB (zirconia implants with condition B), 
+and ZC (zirconia implants with condition C). Each group consisted 
+of six specimens, for a total of 36 specimens. The removal torque 
+was defined as the maximum torque measured during loosening of 
+the abutment screw. All procedures were conducted under identi -
+cal conditions by the same operator to ensure the consistency and 
+reproducibility of torque application.
+2.3. Cyclic torsional loading test
+Cyclic torsional loading was applied using a custom-built 
+torsional fatigue-testing machine (AG-XR; Shimadzu, Kyoto, Japan) 
+(Fig. 4). The testing parameters were established in accordance with 
+the ISO/TS 13498:2011[ 41] and ISO/TR 18130:2016[ 42]. The implant 
+assemblies were mounted with the implant fixture as the fixed side 
+and the superstructure as the movable side and were clamped 5 
+mm above and below the implant fixture–titanium base interface 
+using three-jaw scroll chucks. The applied load was set to 10% of 
+the manufacturer-specified tightening torque at a rotational speed 
+of 10°/min. One cycle was defined as a complete reciprocating 
+rotation. In total, 100,000 cycles were performed. After testing, the 
+removal torque value after loading (RT-post) was measured using a 
+digital torque meter. For groups A and B, the removal torque value 
+before loading (RT-pre) was measured beforehand. The torque loss 
+percentage (TL) was calculated according to Katsuta et al. [38] using 
+the following equation:
+ 
+−= ×RT-Pre RT-Post TL (%) 100RT-Pre
+2.4. Scanning electron microscopy
+The surface morphology before and after the cyclic torsional 
+loading was observed using a scanning electron microscope (SEM) 
+(JSM-7800F Prime, JEOL, Tokyo, Japan). Magnifications of ×50, ×150, 
+and ×300 were used to evaluate deformation and wear. Prior to ob -
+servation, zirconia samples were sputter-coated with platinum using 
+an ion coater (QUICK COATER SC-701 MK II ADVANCE, Sanyu Electron, 
+Tokyo, Japan).
+2.5. Microfocus X-ray computed tomography measurement of dimen -
+sional change
+Abutment screws from all groups were scanned using a mi -
+crofocus X-ray computed tomography (Micro-CT) system (MCT225; 
+Nikon Metrology, Brighton, MI, USA) before cyclic loading to obtain 
+baseline STL data. After testing, STL data were acquired again. All 
+the scans were performed at a uniform resolution (20.94 μm). The 
+STL data were aligned using 3D measurement software (Geomagic 
+Fig. 1.  Experimental specimens. (a) Titanium implant group (T group), (b) Zirconia implant group (Z 
+group). From left to right: implant fixture, abutment screw, titanium base, superstructure, titanium base-
+superstructure assembly, and fully assembled implant restoration. The implants used in this study were 
+selected from two systems that are widely employed in clinical practice worldwide. To minimize struc -
+tural variability, systems with comparable designs were chosen.
+Fig. 2. Superstructure of zirconia. The zirconia superstructure was fabricated 
+from a multilayered composition zirconia disc after full sintering. The struc -
+ture was shaped into a hexagonal prism with a height of 7 mm and an oppos-
+ing vertex distance of 7 mm.
+T. Hara,  et al. / J Prosthodont Res. 2026; **(**): ****–****4
+Control; 3D Systems, Rock Hill, SC, USA), with the screw head serving 
+as the alignment reference. Dimensional differences were calculated 
+by overlaying pre- and post-test STL files and were quantified using 
+root mean square (RMS) values. The average RMS value was used to 
+represent the degree of deformation.
+2.6. Statistical analysis
+An a priori power analysis was conducted using G*Power soft -
+ware (version 3.1.9.7 , Heinrich-Heine-Universität Düsseldorf, Düs -
+seldorf, Germany) based on preliminary experimental means and 
+standard deviations (SD = 3.723; n = 3 per group). The effect size was 
+calculated using Cohen’s f = 0.723. Assuming α = 0.05 and power = 
+0.80, the required total sample size was estimated to be 36, indicat -
+ing that n = 6 per group was appropriate.
+Statistical analyses were performed using Bell Curve for Excel 
+(Social Survey Research Information Co., Ltd., Tokyo, Japan). For 
+RT-post, normality was confirmed via the Shapiro–Wilk test ( P > 
+0.05), but Levene’s test indicated non-homogeneity of variance ( P < 
+0.05). Welch’s t-test with Bonferroni correction was used for multiple 
+comparisons (P < 0.05). RT-pre was analyzed using a one-way analysis 
+of variance and Tukey’s honestly significant difference test, as both 
+normality and homogeneity of variance were satisfied. TL showed a 
+non-normal distribution and was analyzed using the Kruskal–Wallis 
+test (P < 0.05). RMS values were analyzed using the Mann–Whitney U 
+test because of their non-normal distribution. Because no significant 
+differences were observed among the tightening protocols, the 
+groups were combined to compare the T and Z groups (P < 0.05).
+3. Results
+3.1. Comparison of removal torque values after cyclic torsional loading
+The RT-post values obtained in this study are shown in Figure 5, 
+and the RT-pre, RT-post, and TL values for each group are presented 
+in Table 2. In the T group, TA (27.9 ± 0.6 Ncm) showed significantly 
+lower removal torque values than TB (28.9 ± 0.3 Ncm) and TC (30.2 ± 
+Fig. 3. Tightening protocols for each experimental group. The specimens were classified into three groups according to the tightening protocol: group A, 
+retightened 5 min after the initial tightening; group B, retightened immediately after the initial tightening; and group C, not retightened. All screws were 
+tightened to 35 Ncm in all groups.
+Fig. 4. Cyclic torsional loading test device. (a) Loading instrument. (b) Enlarged view of the speci -
+men mounting section on the cyclic torsional loading test device.
+T. Hara,  et al. / J Prosthodont Res. 2026; **(**): ****–**** 5
+1.1 Ncm) (TA–TB: P < 0.001; TA–TC: P < 0.001). In addition, the TB group 
+showed significantly lower values than the TC group (P < 0.05). In the 
+Z group, ZA (23.1 ± 1.3 Ncm) demonstrated significantly lower values 
+than those of ZB (24.9 ± 1.9 Ncm) and ZC (25.4 ± 0.5 Ncm) (ZA–ZB: 
+P < 0.05; ZA–ZC: P < 0.001), whereas no significant differences were 
+observed between ZB and ZC ( P > 0.05).
+The comparison between implant materials showed that under 
+all tightening protocols, the Z group exhibited significantly lower 
+removal torque values than the T group (TA–ZA, P < 0.001; TB–ZB, P 
+< 0.05; TC–ZC, P < 0.001).
+In terms of RT-pre, both ZA (28.7 ± 1.1 Ncm) and ZB (29.6 ± 1.8 
+Ncm) showed significantly lower values than TA (34.2 ± 1.0 Ncm) 
+(TA–ZA: P < 0.001; TA–ZB: P < 0.001) and TB (34.9 ± 0.9 Ncm) (TB–ZA: 
+P < 0.001; TB–ZB: P < 0.001). No significant differences comparing TA 
+and TB or ZA and ZB (P > 0.05).
+Regarding TL, no significant differences were observed between 
+the groups (P > 0.05). The mean and standard deviations for TL values 
+were as follows: TA: 18.3 ± 3.3%, TB: 17.1 ± 2.3%, ZA: 19.3 ± 5.9%, and 
+ZB: 15.5 ± 8.0%.
+3.2. Surface morphology of each component before and after cyclic 
+torsional loading
+Representative SEM images captured before and after cyclic 
+torsional loading are shown in Figure 6 . Compared with the unused 
+abutment screws, all groups showed fine wear marks on the screw 
+heads and threads. However, no distinct morphological changes 
+were observed at the interface between the implant body and tita -
+nium base–superstructure assembly in any group.
+3.3. Evaluation of dimensional changes in abutment screws using 
+micro-CT
+Representative dimensional changes are shown in Figure 7. The 
+mean RMS values were 6.3 ± 6.3 μm in the T group and 6.1 ± 2.4 μm in 
+the Z group. The Z group exhibited significantly smaller dimensional 
+changes than the T group (P < 0.05).
+4. Discussion
+The present study demonstrated that both the tightening proto-
+col and the implant body material significantly affected the removal 
+torque values of the abutment screws. Therefore, the following null 
+hypotheses were rejected: (1) no differences occur in removal torque 
+values among the different tightening protocols; (2) the implant 
+body material does not affect the removal torque values of abut -
+ment screws; and (3) the implant body material does not influence 
+the morphological changes of the components. The following sec -
+tions discuss the insights obtained from the experimental methods 
+and outcomes after cyclic torsional loading.
+To replicate the torsional stresses encountered during mastica -
+tion, we used a dynamic test setup with a torsional fatigue-testing 
+machine. In this system, the implant body was fixed and the super -
+structure was allowed to rotate by applying repeated clockwise 
+and counterclockwise torsional loads. Torsional stress is known to 
+induce micromovements and stress concentrations at the interfaces 
+between components, particularly in screw-retained two-piece 
+implants, where mechanical stability depends heavily on the con -
+nection between the implant body and the titanium-base-super -
+structure assembly[ 43]. Conventionally, the mechanical properties 
+of dental implants are evaluated by fatigue testing under bending 
+forces in accordance with ISO 14801:2016 guidelines[ 44]. However, 
+the oral environment involves complex loading, including tensile, 
+Fig. 5. Comparison of removal torque after cyclic torsional loading among the groups. The 
+titanium groups (TA, TB, and TC) exhibited significantly higher removal torque values than 
+the zirconia groups (ZA, ZB, and ZC) under all conditions (* P < 0.05, ** P < 0.001). Within the 
+titanium group, TC showed significantly higher values than TA and TB. In the zirconia group, 
+ZA showed significantly lower values than ZB and ZC. Error bars indicate standard deviation 
+(SD). SD (standard deviation). T: titanium implants, TA: titanium implants with condition A, TB: 
+titanium implants with condition B, TC: titanium implants with condition C, Z: zirconia implant, 
+ZA: zirconia implants with condition A, ZB: zirconia implants with condition B, ZC: zirconia 
+implants with condition C.
+T. Hara,  et al. / J Prosthodont Res. 2026; **(**): ****–****6
+compressive, and torsional forces during mastication[ 40]. To simu -
+late clinical conditions more realistically, the present study applied 
+torsional loading, which is a method used in mechanical engineer -
+ing to evaluate rotational fatigue resistance. The test parameters 
+were set to low-load conditions to ensure safety margins, based on 
+Katsuta et al. [38], and 100,000 loading cycles were applied to ap -
+proximate one month of masticatory function following prosthesis 
+delivery, as suggested by Kim et al. [45]. The load was set at 10% of 
+the recommended torque, not to replicate maximum clinical stresses 
+directly, but to provide a minimally invasive yet valid stress level 
+consistent with mechanical design principles and ISO/TR 18130:2016 
+guidelines[42]. To investigate the influence of retightening under 
+cyclic torsional loading, three tightening protocols were examined 
+according to the retightening time: Condition A (retightening after 5 
+min), Condition B (immediate retightening), and Condition C (no re -
+tightening). These protocols were designed based on the reports by 
+Sun et al.[31] and Katsuta et al.[38]. For Condition A retightening was 
+performed 5 min after the initial tightening to compensate for the 
+settling effect, as suggested by Katsuta et al. [38], and was also con -
+sistent with previous studies[31–33] demonstrating that retightening 
+either 5–10 min after or immediately after the initial tightening could 
+restore screw stability. Condition B was intended to represent a more 
+clinically applicable retightening procedure, whereas Condition C 
+reflected the most common clinical approach without retightening. 
+By comparing these three conditions, the present study sought to 
+determine whether the retightening effect previously observed 
+under other loading modes was also applicable under torsional load-
+ing. Two widely used implant systems, one made of titanium and the 
+other made of zirconia, were used. Each implant body had the same 
+diameter and length, and abutment screws of identical materials 
+and similar designs were employed to minimize structural variability. 
+Nevertheless, the present comparison inherently involved differ -
+ences in the implant body design, abutment screw- and titanium-
+based configurations, and interfacial characteristics, in addition to 
+the material differences of the implant bodies. Accordingly, the study 
+findings should be interpreted not as a reflection of the intrinsic 
+material properties alone but rather as representing the mechani -
+cal response of the entire clinically utilized implant system. For the 
+superstructure, a homogeneous hexagonal zirconia block was milled 
+to allow precise centering on the testing axis. This design ensured 
+an even stress distribution and avoided axial deviation, enabling 
+isolated evaluation of the effects of the material and tightening pro -
+tocols. RMS values were used to quantify the dimensional changes 
+in the abutment screws. As these screws were aligned along the axis 
+of torsional loading, the stress concentration was expected to result 
+in greater deformation. This hypothesis was verified by comparing 
+pre- and post-test data using micro-CT and three-dimensional (3D) 
+measurement software.
+This study evaluated the effects of different tightening proto -
+cols on RT-pre, RT-post, and TL. No significant differences in RT-pre 
+were observed within the same implant material regardless of 
+retightening or its timing. This suggests that the timing of retight -
+ening does not significantly affect the initial removal torque, which 
+is consistent with the findings of Sun et al. [31]. In contrast, RT-post 
+showed notable differences; in both the T and Z groups, with 
+specimens without retightening (group C) exhibiting the highest RT-
+post values. Significant reductions were observed between TA and 
+TC, TB, and TC, and ZA and ZC, whereas no significant differences 
+were found between ZB and ZC. These results deviate from those 
+of previous reports[ 31–33], suggesting that retightening improves 
+the joint stability by compensating for the settling effect. This 
+discrepancy can be attributed to the use of cyclic torsional loading 
+in the present study. The torsional stress generates shear forces at 
+the screw interface, potentially causing cumulative wear and plastic 
+deformation[38]. According to mechanical engineering principles, 
+torsional stability depends on multiple factors including the thread 
+pitch, frictional diameter of the bearing surface, coefficient of fric -
+tion, axial preload, and screw geometry[ 31]. Under repeated shear 
+stress, micro-slippage (fretting) and localized wear may occur[ 37]. 
+Although re-tightening may adjust the contact surface, it may also 
+intensify these wear mechanisms, exacerbate stress concentration, 
+Table 2. Removal torque before and after cyclic torsional loading and torque loss percentage in each group
+Experimental condition RT-pre 
+(Ncm)
+RT-post 
+(Ncm)
+TL 
+(%)
+TA 34.2 (1.0) 
+[33.1-35.3]
+27.9 (0.6) 
+[27. 2–28 .6]
+18.3 (3.3) 
+[14.9-21.7]
+TB 34.9 (0.9) 
+[33.9-35.9]
+28.9 (0.3) 
+[28.5–29.3]
+17.1 (2. 3) 
+[14.8–19.5]
+TC – 30.2 (1.1) 
+[29.0-31.3] –
+ZA 28.7 (1.1) 
+[27.4 –29. 8]
+23.1 (1.3) 
+[21.7–24.5]
+19.3 (5.9) 
+[13.1–25.5]
+ZB 29.6 (1.8) 
+[27.6 –31. 5]
+24.9 (1.9) 
+[22.9 –27.0]
+15.5 (8.0) 
+[7.0 –23.9]
+ZC – 25.4 (0.5) 
+[24.9–26.0] –
+Values are reported as mean ± SD, 95% CI. RT-Pre and RT-Post indicate the removal torque values (Ncm) 
+measured before and after cyclic torsional loading, respectively. The TL was calculated as the percentage re -
+duction from RT-Pre to RT-Post using the following formula: TL (%) = [(RT-Pre − RT-Post) / RT-Pre] × 100. Three 
+tightening protocols were applied in this study: Condition A, in which the screw was retightened 5 min after 
+the initial tightening; Condition B, in which the screw was retightened immediately after the initial tightening; 
+and Condition C, in which no retightening was performed, and therefore RT-Pre and TL were not evaluated. T 
+and Z denote the titanium and zirconia implant groups. Based on implant material and tightening protocol, 
+six groups were established: TA, TB, and TC represent titanium implants under Conditions A, B, and C, respec -
+tively, whereas ZA, ZB, and ZC represent zirconia implants under the corresponding conditions. SD (standard 
+deviation), CI (confidence interval), T: titanium implants, TA: titanium implants with condition A, TB: titanium 
+implants with condition B, TC: titanium implants with condition C, Z: zirconia implant, ZA: zirconia implants 
+with condition A, ZB: zirconia implants with condition B, ZC: zirconia implants with condition C.
+T. Hara,  et al. / J Prosthodont Res. 2026; **(**): ****–**** 7
+Fig. 6. SEM images of the abutment screw head and thread regions. (a) Screw head, (b) Thread portion. From left to right: representative samples of each 
+tightening condition (New: unused; A: retightening after 5 minutes; B: immediate retightening; C: no retightening). For each component, magnifications are 
+arranged from top to bottom as ×50, ×150, and ×300. Images are grouped by implant type (T: titanium, top row; Z: zirconia, bottom row). In the ×50 images, 
+the observation area for ×150 is outlined in white. In the ×150 and ×300 images, typical damage patterns are indicated with white arrows (wear). Surface dam -
+age is observed on the screw surface under all tightening conditions.
+T. Hara,  et al. / J Prosthodont Res. 2026; **(**): ****–****8
+and ultimately reduce joint stability. Although TL did not differ 
+significantly among the groups, group B exhibited a lower average 
+TL than group A. This trend suggests that the timing of retightening 
+may affect the surface stress and wear, thereby affecting the torque 
+loss. However, given its lack of significance, the clinical relevance of 
+this finding warrants further investigation.
+This study also investigated how implant body material affected 
+RT-pre, RT-post, and TL values. Under all tightening conditions, the 
+T group exhibited significantly higher RT-post values than those 
+of the Z group. This tendency was attributed to the inherent me -
+chanical and frictional properties of the materials used. The zirconia 
+implants used in this study have a higher elastic modulus (200–220 
+GPa) and greater hardness (1100–1500 HV) than commercially pure 
+titanium and thus exhibit minimal plastic deformation. According 
+to Hanawa[ 17], high rigidity materials, such as Y-TZP , have limited 
+elastic deformation and are less capable of generating sufficient 
+axial preload during screw tightening. This difference in the elastic 
+modulus may also influence the stress distribution within the 
+implant–abutment complex. The higher stiffness of zirconia could 
+result in a greater stress concentration at the screw joint compared 
+with titanium, which may partly explain the differences in torque 
+retention and mechanical response observed in this study. Con -
+sequently, torque retention in the abutment screw joint may be 
+unstable in zirconia-based systems. In contrast, a higher coefficient 
+of friction between the abutment screw head and threads has been 
+associated with reduced screw loosening[ 46]. However, zirconia has 
+a lower coefficient of friction and negligible plastic deformation than 
+titanium[17], making it less effective at dissipating stress through 
+deformation. Consequently, local stress concentrations are more 
+likely to persist in zirconia-based assemblies. Conversely, titanium 
+exhibits a higher coefficient of friction and a lower elastic modulus 
+(approximately 110 GPa) than zirconia[ 17, 47], which allows it to ac -
+commodate local misfits or stress concentrations through plastic 
+deformation. These characteristics enable titanium to produce a 
+more stable axial preload during screw tightening, contributing to 
+enhanced joint stability between the titanium implant body and the 
+titanium base-superstructure assembly.
+Regarding RT-pre, the T group consistently showed higher re -
+moval torque values than the Z group, suggesting that differences in 
+material properties may already affect torque retention even before 
+loading. Although the TL did not show significant differences be -
+tween the groups, the Z group exhibited greater variability (standard 
+deviation) than the T group. This implies that the stress relaxation 
+behavior of zirconia may be inconsistent, whereas the plastic defor -
+mation characteristics of titanium may mitigate individual variations 
+and support more stable torque retention.
+Taken together, these findings indicate that the torque retention 
+in abutment screw joints is strongly influenced by material-specific 
+mechanical factors such as the elastic modulus and coefficient of 
+friction, as well as by the behavior of each material under torsional 
+loading. Notably, under torsional stress, retightening does not nec -
+essarily improve the settling effect and may compromise torque 
+retention. Future investigations should explore more comprehensive 
+tightening protocols that consider both the loading direction and 
+material properties.
+The morphological changes in abutment screws were evalu -
+ated using the RMS values obtained before and after cyclic torsional 
+loading. The T group consistently exhibited significantly greater 
+dimensional changes than the Z group ( P < 0.05). SEM observations 
+did not show notable deformation at the interfaces between the 
+implant body and titanium-based superstructure assembly in any 
+group. However, wear marks were consistently observed on the 
+screw heads and threads in all samples. These findings suggest that 
+the observed morphological changes are primarily attributed to the 
+material properties of the components and the wear behavior at the 
+contact surfaces. Because all abutment screws were made of the 
+same titanium alloy, the differences in screw deformation and wear 
+were assumed to have originated from differences in implant body 
+materials. Commercially pure titanium has a lower elastic modulus 
+and higher ductility than zirconia[ 17]. These characteristics make 
+titanium more prone to local plastic deformation under tightening 
+or torsional loading, particularly at points of misfit or stress concen -
+tration. Consequently, the greater amount of deformation observed 
+in the T group likely reflected the ability of the material to undergo 
+plastic adaptation. Wear is defined as the gradual loss of material 
+resulting from mechanical interactions between two contacting sur -
+faces with relative motion[48]. High-friction interfaces increase shear 
+stress and accelerate surface damage[47, 49]. Therefore, the combina-
+Fig. 7. Superimposed 3D evaluation of dimensional changes in abutment screws after cyclic 
+torsional loading. (a) Titanium implant group (T group), (b) Zirconia implant group (Z group). 
+STL data obtained before and after cyclic torsional loading are superimposed using the best-
+fit method, and dimensional changes are visualized as color maps based on RMS values.
+T. Hara,  et al. / J Prosthodont Res. 2026; **(**): ****–**** 9
+tion of the high ductility and frictional coefficient of titanium likely 
+contributed to the increased screw deformation and wear observed 
+in the T group. In contrast, zirconia has a much higher hardness and 
+elastic modulus and is inherently resistant to plastic deformation[17]. 
+These properties reduce energy absorption and deformation at the 
+contact interface of the implant body, titanium-based superstruc -
+ture assembly, and abutment screw, thereby limiting the progression 
+of wear. 
+In addition, the T group exhibited a wider range of RMS values 
+than the Z group. This variability may reflect the effect of titanium 
+ductility on stress concentration and deformation during screw 
+tightening, which subsequently affects the extent of morphological 
+changes observed after loading. These findings align with previous 
+reports by Shinohara et al.[29], who suggested that differences in ma-
+terial combinations between implant bodies and abutment screws 
+affect screw-loosening behavior. Our results support this claim and 
+highlight the importance of minimizing variations in tightening 
+procedures to ensure stability, particularly when titanium implants 
+are used. Carefully controlled and uniform tightening protocols 
+tailored to the mechanical properties of the material are crucial for 
+maintaining the integrity of the screw joint. However, the differences 
+in RMS values observed in this study were of the order of only a few 
+micrometers, which is negligible compared with the manufacturing 
+tolerances and clinically acceptable ranges. Therefore, these differ -
+ences should not be considered to have an immediate clinical impact 
+but should instead be interpreted as supplementary observations 
+indicating trends in wear and deformation at the contact surfaces.
+5. Conclusions
+The principal conclusions drawn within the limitations of this 
+study are as follows.
+1. Retightening the abutment screws did not necessarily improve 
+the maintenance of the tightening torque under cyclic tor -
+sional loading. Specifically, retightening 5 min after the initial 
+tightening resulted in a significant reduction in the removal 
+torque values, whereas immediate retightening or no retight -
+ening yielded comparatively higher torque retention.
+2. Differences in implant body material significantly affected the 
+mechanical response to tightening, with titanium implants 
+consistently exhibiting higher removal torque values than 
+zirconia implants under all conditions.
+3. The inherent properties of implant materials appear to affect 
+the extent of abutment screw deformation and wear under 
+torsional loading.
+Acknowledgements
+This study was supported by JSPS KAKENHI (Grant Number: 
+JP23K09224). The study sponsor had no role in the design of the 
+study; collection, analysis, or interpretation of data; writing of the 
+manuscript; or the decision to submit the manuscript for publication. 
+The authors express their sincere gratitude to Shofu Inc. for the valu-
+able assistance in fabricating the superstructures used in this study.
+Conflict of interest statement
+The authors have no conflicts of interest to declare concerning 
+the present study.
+References
+ [1] Khaohoen A, Sornsuwan T, Chaijareenont P , Poovarodom P , Rungsiyakull 
+C, Rungsiyakull P. Biomaterials and clinical application of dental implants 
+in relation to bone density-A narrative review. J Clin Med. 2023;12:6924. 
+https://doi.org/10.3390/jcm12216924, PMID:37959389
+ [2] Hjalmarsson L, Gheisarifar M, Jemt T. A systematic review of survival of sin-
+gle implants as presented in longitudinal studies with a follow-up of at least 
+10 years. Eur J Oral Implantology. 2016;9(suppl 1):S155–62. PMID:27314122
+ [3] Sivaraman K, Chopra A, Narayan AI, Balakrishnan D. Is zirconia a viable 
+alternative to titanium for oral implant? A critical review. J Prosthodont Res. 
+2018;62:121–33. https://doi.org/10.1016/j.jpor.2017.07.003, PMID:28827030
+ [4] Poli PP , de Miranda FV, Polo TOB, Santiago Júnior JF, Lima Neto TJ, Rios 
+BR, et al. Titanium allergy caused by dental implants: A systematic lit -
+erature review and case report. Materials (Basel). 2021;14:5239. https://doi.
+org/10.3390/ma14185239, PMID:34576463
+ [5] Kim KT, Eo MY, Nguyen TTH, Kim SM. General review of titanium toxicity. 
+Int J Implant Dent. 2019;5:10. https://doi.org/10.1186/s40729-019-0162-x, 
+PMID:30854575
+ [6] Swalsky A, Noumbissi SS, Wiedemann TG. The systemic and local interac-
+tions related to titanium implant corrosion and hypersensitivity reactions: A 
+narrative review of the literature. Int J Implant Dent. 2024;10:58. https://doi.
+org/10.1186/s40729-024-00578-3, PMID:39576424
+ [7] Vilor-Fernández M, García-De-La-Fuente AM, Marichalar-Mendia X, 
+Estefanía-Fresco R, Aguirre-Zorzano LA. Single tooth restoration in the 
+maxillary esthetic zone using a one-piece ceramic implant with 1 year of 
+follow-up: Case series. Int J Implant Dent. 2021;7:26. https://doi.org/10.1186/
+s40729-021-00308-z, PMID:33821399
+ [8] Abu Al-Faraj TM, Alsubhi BM, Almarhoon AN, Almarshoud AA, Alqattan MS, 
+Alqahtani SH, et al. Comparison of peri-implant soft tissue around zirconia 
+and titanium abutments in the aesthetic zone: A narrative review. Cureus. 
+2024;16:e65782. https://doi.org/10.7759/cureus.65782, PM ID: 392116 89
+ [9] Haugen HJ, Chen H. Is there a better biomaterial for dental implants than 
+titanium?-A Review and Meta-Study Analysis. J Funct Biomater. 2022;13:46. 
+https://doi.org/10.3390/jfb13020046, PMID:35645254
+ [10] Haimov E, Sarikov R, Haimov H, Juozdbalys G. Differences in titanium, 
+titanium-zirconium, zirconia implants treatment outcomes: A systematic lit-
+erature review and meta-analysis. J Oral Maxillofac Res. 2023;14:e1. https://
+doi.org/10.5037/jomr.2023.14301, PMID:37969951
+ [11] Mohseni P , Soufi A, Chrcanovic BR. Clinical outcomes of zirconia implants: A 
+systematic review and meta-analysis. Clin Oral Investig. 2023;28:15. https://
+doi.org/10.1007/s00784-023-05401-8, PMID:38135804
+ [12] Kohal RJ, Kilian J, Stampf S, Spies B. All-ceramic single crown restauration of 
+zirconia oral implants and its influence on fracture resistance: An investiga-
+tion in the artificial mouth. Materials (Basel). 2015;8:1577–89. https://doi.
+org/10.3390/ma8041577, PMID:28788018
+ [13] Alrabeah G, Al-Sowygh AH, Almarshedy S. Use of ultra-translucent mono-
+lithic zirconia as esthetic dental restorative material: A narrative review. 
+Ceramics. 2024;7:264–75. https://doi.org/10.3390/ceramics7010017
+ [14] Song X, Ding Y, Zhang J, Jiang C, Liu Z, Lin C, et al. Thermophysical and 
+mechanical properties of cubic, tetragonal and monoclinic ZrO2. J Mater 
+Res Technol. 2023;23:648–55. https://doi.org/10.1016/j.jmrt.2023.01.040
+ [15] Bethke A, Pieralli S, Kohal RJ, Burkhardt F, von Stein-Lausnitz M, Vach K, et 
+al. Fracture resistance of zirconia oral implants in vitro: A systematic review 
+and meta-analysis. Materials (Basel). 2020;13:562. https://doi.org/10.3390/
+ma13030562, PMID:31991565
+ [16] Cionca N, Hashim D, Mombelli A. Zirconia dental implants: Where are we 
+now, and where are we heading? Periodontol 2000. 2017;73:241–58. https://
+doi.org /10.1111/prd.1218 0, PMID:28000266
+ [17] Hanawa T. Zirconia <i>versus</i> titanium in dentistry: A review. Dent Ma-
+ter J. 2020;39:24–36. https://doi.org/10.4012/dmj.2019-172, PMID:31666488
+ [18] Comisso I, Arias-Herrera S, Gupta S. Zirconium dioxide implants as an 
+alternative to titanium: A systematic review. J Clin Exp Dent. 2021;13:e511–9. 
+https://doi.org/10.4317/jced.58063, PMID:33981400
+ [19] Cionca N, Hashim D, Mombelli A. Two‐piece zirconia implants support -
+ing all‐ceramic crowns: Six‐year results of a prospective cohort study. 
+Clin Oral Implants Res. 2021;32:695–701. ht tps: //doi.org /10.1111/clr.1373 4, 
+PMID:33638169
+ [20] Kohal RJ, Spies BC, Vach K, Balmer M, Pieralli S. A prospective clinical cohort 
+investigation on zirconia implants: 5-year results. J Clin Med. 2020;9:2585. 
+https://doi.org/10.3390/jcm9082585, PMID:32785031
+T. Hara,  et al. / J Prosthodont Res. 2026; **(**): ****–****10
+ [21] Gamper FB, Benic GI, Sanz-Martin I, Asgeirsson AG, Hämmerle CHF, Thoma 
+DS. Randomized controlled clinical trial comparing one‐piece and two‐
+piece dental implants supporting fixed and removable dental prostheses: 
+4‐ to 6‐year observations. Clin Oral Implants Res. 2017;28:1553–9. https://
+doi.org /10.1111/clr.13025, PMID:28556432
+ [22] Koller M, Steyer E, Theisen K, Stagnell S, Jakse N, Payer M. Two‐piece zir-
+conia versus titanium implants after 80 months: Clinical outcomes from a 
+prospective randomized pilot trial. Clin Oral Implants Res. 2020;31:388–96. 
+ht tps: //doi.org /10.1111/clr.13576, PMID:31944420
+ [23] Tartsch J, Wennerberg A, Kohal R, Albrektsson T, Albrektsson T. Two-piece 
+zirconia Implants: An Office based Retrospective Study with up to 7 and 
+mean 3 year Follow-Up. Int J Oral Maxillofac Implants. 2025;0:1–36. https://
+doi.org/10.11607/jomi.11469, PMID:40736783
+ [24] Barbosa GAS, Bernardes SR, Neves FD, Fernandes Neto AJ, Mattos MGC, 
+Ribeiro RF. Relation between implant/abutment vertical misfit and 
+torque loss of abutment screws. Braz Dent J. 2008;19:358–63. https://doi.
+org/10.1590/S0103-64402008000400013, PMID:19180328
+ [25] Huang Y, Wang J. Mechanism of and factors associated with the loosening 
+of the implant abutment screw: A review. J Esthet Restor Dent. 2019;31:338–
+45. https://doi.org/10.1111/jerd.12494, PMID:31150572
+ [26] Binon PP , McHugh MJ. The effect of eliminating implant/abutment 
+rotational misfit on screw joint stability. Int J Prosthodont. 1996;9:511–9. 
+PMID:9171488
+ [27] Cho SC, Small PN, Elian N, Tarnow D. Screw loosening for standard and 
+wide diameter implants in partially edentulous cases: 3- to 7-year longi-
+tudinal data. Implant Dent. 2004;13:245–50. https://doi.org/10.1097/01.
+id.0000140459.87333.f8, PMID:15359161
+ [28] Scarano A, Murmura G, Sinjiari B, Sollazzo V, Spinelli G, Carinci F. 
+Analysis and structural examination of screw loosening in oral implants. 
+Int J Immunopathol Pharmacol. 2011;24(suppl):77–81. https://doi.
+org /10.1177/039 4 632011024 0S214, PMID:21781450
+ [29] Shinohara R, Ueda K, Watanabe F. Influence of the difference between im-
+plant body and screw materials on abutment screw loosening. Dent Mater 
+J. 2019;38:150–6. https://doi.org/10.4012/dmj.2018-023, PMID:30449828
+ [30] Katsavochristou A, Koumoulis D. Incidence of abutment screw failure of 
+single or splinted implant prostheses: A review and update on current clini-
+cal status. J Oral Rehabil. 2019;46:776–86. ht tps: //doi.org /10.1111/jo or.12817, 
+PMID:31074882
+ [31] Sun M, Shui Y, Zhang Y, Ma R, Zhao Y, Chen H, et al. Influence of abutment 
+screw-tightening methods on the screw joint: Immediate and long-term sta-
+bility. Int J Dent. 2024;2024:5768318. https://doi.org/10.1155/2024/5768318, 
+PMID:38264680
+ [32] Varvara G, Sinjari B, Caputi S, Scarano A, Piattelli M. The relationship be-
+tween time of retightening and preload loss of abutment screws for two 
+different implant designs: An in vitro study. J Oral Implantol. 2020;46:13–7. 
+https://doi.org/10.1563/aaid-joi-D-18-00138, PMID:31580759
+ [33] Attiah EMN, AlGendy AA, Mostafa TMN. Effect of dynamic cyclic loading on 
+screw loosening of retightened versus new abutment screw in both narrow 
+and standard implants (in-vitro study). Int J Implant Dent. 2020;6:30. https://
+doi.org/10.1186/s40729-020-00229-3, PM ID: 32720 011
+ [34] Yao KT, Kao HC, Cheng CK, Fang HW, Yip SW, Hsu ML. The effect of clockwise 
+and counterclockwise twisting moments on abutment screw loosening. 
+Clin Oral Implants Res. 2012;23:1181–6. ht tps: //doi.org /10.1111/j.16 0 0 -
+0501.2011.02282.x, PMID:22092296
+ [35] Smyd ES. The role of torque, torsion, and bending in prosthodontic failures. J 
+Pros th e t D ent . 19 61;11: 95 –111. https://doi.org/10.1016/0022-3913(61)90116-
+0
+ [36] Shigley JE, Mischke CR. Standard handbook of machine design. McGraw-
+Hill; 1986.
+ [37] Yao KT, Kao HC, Cheng CK, Fang HW, Huang CH, Hsu ML. Mechanical per-
+formance of conical implant-abutment connections under different cyclic 
+loading conditions. J Mech Behav Biomed Mater. 2019;90:426–32. https://
+doi.org/10.1016/j.jmbbm.2018.10.039, PMID:30445369
+ [38] Katsuta Y, Watanabe F. Abutment screw loosening of endosseous dental 
+implant body/abutment joint by cyclic torsional loading test at the initial 
+stage. Dent Mater J. 2015;34:896–902. https://doi.org/10.4012/dmj.2015-
+023, PMID:26632240
+ [39] Abou-Obaid A, Al-Otaibi H, Akeel R. Effect of single off-axis implant 
+placement on abutment screw stability under lateral loading. Int J Oral 
+Maxillofac Implants. 2016;31:520–6. https://doi.org/10.11607/jomi.4124, 
+PMID:27183060
+ [40] Seto M, Watanabe F. Torsion test of material for dental restoration. Journal 
+of the Japanese Society of Dental Science and Technology. 2014;33:313–20. 
+https://doi.org/10.18939/jsdmd.33.4_313
+ [41] International Organization for Standardization. ISO/TS. Dentistry — Tor-
+sion test of implant body/connecting part joints of endosseous dental 
+implant systems, vol. 13498; 2011. Available from: https://www.iso.org/
+standard/53823.html. Accessed 2025-11-20.
+ [42] International Organization for Standardization. ISO/TR. Dentistry — Screw 
+loosening test using cyclic torsional loading for implant body/implant 
+abutment connection of endosseous dental implants, vol. 18130; 2016. 
+Available from: https://www.iso.org/standard/61530.html. Accessed 2025-
+11-20.
+ [43] Watanabe F, Hiroyasu K, Ueda K. The fracture strength by a torsion test at 
+the implant-abutment interface. Int J Implant Dent. 2015;1:25. https://doi.
+org/10.1 186/s40729-015-0027-x, PMID:27747647
+ [44] International Organization for Standardization. ISO 14801:2016. Dentistry—
+implants—dynamic loading test for endosseous dental implants. Dent; 
+2016. Available from: https://www.iso.org/standard/61997.html. Accessed 
+2025-11-20.
+ [45] Kim ES, Shin SY. Influence of the implant abutment types and the dynamic 
+loading on initial screw loosening. J Adv Prosthodont. 2013;5:21–8. https://
+doi.org/10.4047/jap.2013.5.1.21, PMID:23509006
+ [46] Gong H, Liu J, Feng H. Review on anti-loosening methods for threaded 
+fasteners. Chin J Aeronauti. 2022;35:47–61. https://doi.org/10.1016/j.
+cja.2020.12.038
+ [47] Kaur S, Ghadirinejad K, Oskouei H. An overview on the tribological perfor-
+mance of titanium alloys with surface modifications for biomedical applica-
+tions. Lubricants. 2019;7:65. https://doi.org/10.3390/lubricants7080065
+ [48] Hu X, Zhang Q, Ning J, Wu W, Li C. Study of two-body wear performance of 
+dental materials. J Natl Med Assoc. 2018;110:250–5. https://doi.org/10.1016/j.
+jnma.2017.05.009, PMID:29778127
+ [49] Saha S, Roy S. Metallic dental implants wear mechanisms, materials, and 
+manufacturing processes: A literature review. Materials (Basel). 2022;16:161. 
+https://doi.org/10.3390/ma16010161, PMID:36614500
+ 
+This is an open-access article distributed under the terms of Creative Commons Attribution-NonCommercial License 4.0 (CC BY-
+NC 4.0), which allows users to distribute and copy the material in any format as long as credit is given to the Japan Prosthodontic 
+Society. It should be noted however, that the material cannot be used for commercial purposes.
