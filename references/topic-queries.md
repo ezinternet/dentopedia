@@ -148,6 +148,31 @@ ingest 라우팅: 치실/치간칫솔/구강세정기 효능 RCT·SR → `period
 
 **라우팅**: `wiki/implants/isq/` + 오버뷰 `implants-isq-stability-ladder` · `isq-loading-threshold`.
 
+### implant-prosthetic-screw-torque (보철 세팅 최종토크 / 전하중 / 나사풀림)
+
+**목적**: 보철물 세팅 시 **최종 체결 토크 (Final Tightening Torque)** 축 — 전하중 (Preload) 형성, 토크 손실 (Torque Loss), 재조임 (Retightening) 프로토콜, 토크렌치 (Torque-Limiting Device, TLD) 정확도, 나사 코팅·오염, 연결부 설계가 풀림에 미치는 영향. `implant-primary-stability`(식립 토크)와 **다른 축**이다 — 저쪽은 골-픽스쳐 계면, 이쪽은 픽스쳐-지대주-보철 나사 계면.
+
+```
+("torque loss"[tiab] OR preload[tiab] OR "removal torque"[tiab] OR "tightening torque"[tiab] OR "torque-limiting"[tiab] OR "torque limiter"[tiab] OR retightening[tiab] OR "re-tightening"[tiab] OR "settling effect"[tiab] OR "screw loosening"[tiab] OR "final torque"[tiab] OR "torque accuracy"[tiab] OR "torque application"[tiab] OR "reverse torque"[tiab] OR detorque[tiab] OR "closing torque"[tiab]) AND ("dental implant"[tiab] OR "dental implants"[tiab] OR "implant abutment"[tiab] OR "abutment screw"[tiab] OR "implant-supported"[tiab] OR "implant prosthesis"[tiab] OR "screw-retained"[tiab])
+```
+
+**ptyp**: 없음(`[]`) — 이 축의 근거는 **in vitro 기계시험과 bench SR/MA가 지배적**이라 RCT/SR/MA 필터를 걸면 코어를 놓친다. 대신 tiab 앵커로 좁힌다.
+
+**노이즈 주의**:
+- `preload` 단독은 심장·정형외과·공학 문헌 대량 → 반드시 임플란트 앵커 유지.
+- `"screw loosening"`은 정형외과(척추·고관절) 나사 풀림 다수 → `"dental implant"`/`"implant abutment"` 앵커 필수.
+- 표면처리·골유착 논문이 `"removal torque"`(동물 실험 제거토크)로 섞여 들어온다 — 초록 단계에서 픽스쳐 제거토크(골유착 지표)와 **나사 제거토크(전하중 지표)**를 구분할 것. 후자만 이 토픽.
+
+**주요 변수 축** (ingest 우선순위 판단 기준):
+1. 체결 프로토콜 — 초기 토크 → 재조임 시점(2분 vs 5분 vs 10분) → 재조임 횟수 상한
+2. 토크 손실 정량 — 세틀링 + 동적 피로 후 잔류 전하중 비율
+3. 토크 전달 기기 — friction vs spring vs beam/single-value, 시야각·가속도·노화·멸균
+4. 나사 계면 개입물 — 코팅(PTFE·DLC·GapSeal), 윤활, 오염(혈액·석고·타액)
+5. 연결부·지대주 설계 — conical vs hex, MUA 각도, CAD-CAM vs stock, Ti-base vs direct-to-abutment
+6. 임상 결과·진단 — 나사 풀림 발생률, RFA/방사선 기반 조기 탐지
+
+**라우팅**: `wiki/prosthetic-materials/abutment-screw/` + 오버뷰 `abutment-screw-preload-joint-stability-overview`.
+
 ### antibiotic-dental (치과 항생제 · 항균 치료)
 
 ```
