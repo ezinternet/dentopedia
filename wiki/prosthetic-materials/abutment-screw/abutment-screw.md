@@ -2,7 +2,7 @@
 title: "보철재료·지대주나사 — abutment-screw"
 authors: navigation
 year: 2026
-date: 2026-10-03
+date: 2026-11-11
 doi: N/A
 source: navigation
 category: prosthetic-materials/abutment-screw
@@ -15,20 +15,20 @@ tags: [navigation, category-index, abutment-screw]
 > [!summary] 한국어 핵심요약
 > - **분야**: 보철재료·지대주나사
 > - **범위**: Implant abutment screw & retention biomechanics — preload, removal/insertion torque, screw-loosening, settling effect, retightening, screw coatings, morse-taper/conical connections, screw- vs cement-retention comparisons
-> - **수록 논문**: 39편
+> - **수록 논문**: 44편
 
 ## Three-line Summary
 
 **Scope**: Implant abutment screw & retention biomechanics — preload, removal/insertion torque, screw-loosening, settling effect, retightening, screw coatings, morse-taper/conical connections, screw- vs cement-retention comparisons
-**Indexed papers**: 39 papers in `wiki/prosthetic-materials/abutment-screw/`.
+**Indexed papers**: 44 papers in `wiki/prosthetic-materials/abutment-screw/`.
 
 ## 세줄요약
 
 **분야**: 보철재료·지대주나사
-**수록 논문**: 39편
+**수록 논문**: 44편
 **하위 카테고리**: 없음
 
-## Papers in this Category (39)
+## Papers in this Category (44)
 
 | Paper |
 |---|
@@ -36,11 +36,14 @@ tags: [navigation, category-index, abutment-screw]
 | [[angermair-2024-microgap-abutment-displacement-implant-connection|In vitro assessment of internal implant-abutment connections with different cone angles under static loading using synchrotron-based radiation]] |
 | [[arul-2026-comparative-evaluation-of-abutment-screw|Comparative evaluation of abutment screw loosening with two different thread lockers under cyclic loading: An in vitro study]] |
 | [[aydin-2026-torque-accuracy-spring-style-dental-torque|Torque Accuracy of Spring-Style Dental Torque Wrenches After Repeated Mechanical Loading and Sterilization: An In Vitro Study]] |
+| [[batista-2026-tightening-protocol-reverse-torque-plastic-deformation|Effect of Tightening Protocol on Reverse Torque and Plastic Deformation of Dynamic and Conventional Titanium Abutment Screws]] |
 | [[bulaqi-2015-dynamic-nature-abutment-screw-retightening|Dynamic nature of abutment screw retightening: finite element study of the effect of retightening on the settling effect]] |
 | [[coelho-2024-preload-removal-torque-screw-coatings-laboratory|GapSeal vs PTFE Tape Screw Coatings: Effect on Preload and Removal Torque (In Vitro)]] |
 | [[coelho-2025-screw-coating-ptfe-gapseal-cyclic-load|PTFE Tape vs GapSeal Screw Coating Under Cyclic Loading: RTV Reversal Effect]] |
 | [[fayaz-2014-effect-sterilization-number-use-accuracy|The effect of sterilization and number of use on the accuracy of friction-style mechanical torque limiting devices for dental implants]] |
+| [[gulgezen-aydin-2026-connection-fit-proximal-contact-screw-loosening|The effect of implant-abutment connection fit and proximal contact tightness on screw loosening]] |
 | [[hamed-2020-screw-vs-cement-implant-sr|Screw vs Cement-Retained Implant-Supported Reconstructions: A Systematic Review]] |
+| [[hara-2026-tightening-protocols-two-piece-zirconia-screw|Effect of tightening protocols on abutment screw loosening and morphological changes in two-piece zirconia implants: A comparative study using cyclic torsional loading]] |
 | [[hjerppe-2026-ti-base-custom-abutment-monolithic-zirconia-rct|3-Year RCT: Screw-Retained Monolithic ZrO₂ Crown on Ti-Base vs Customized Ti Abutment]] |
 | [[khurshid-2025-screw-vs-cement-crown-complications|Assessment of Prosthodontic Complications in Screw-Retained vs Cement-Retained Implant Crowns]] |
 | [[kim-2019-astra-implant-dissection-solutions|아스트라 임플란트 대해부: 나사 풀림과 픽스쳐 찢어짐의 해결책]] |
@@ -50,6 +53,7 @@ tags: [navigation, category-index, abutment-screw]
 | [[lee-2021-cement-vs-cementless-screw-retained-fea|FEA: Cement-Retained vs. Cementless Screw-Retained Zirconia Implant Crowns]] |
 | [[lee-2025-abutment-screw-design-torque-loss-fatigue|Effect of Abutment Screw Design on Torque Loss Under Cyclic Fatigue Loading: A Comparison of TSIII and KSIII Implant Systems]] |
 | [[lee-2025-screwless-hook-retained-implant-fea|Comparative Biomechanical Evaluation of Novel Screwless Retained Dental Implant Prosthesis: A 3D Finite Element Analysis]] |
+| [[lorusso-2025-tightening-torques-cone-morse-fatigue|The Effect of Different Tightening Torques of Implant Cone Morse Abutment Connection Under Dynamic Fatigue Loading: An In Vitro Study]] |
 | [[marenzi-2026-torque-limiting-devices-accuracy-manufacturers|Accuracy of Mechanical Torque-Limiting Devices Provided by Different Dental Implant Manufacturers: An In Vitro Study]] |
 | [[molinero-mourelle-2026-intermediate-abutments-screw-retained|Does the use of intermediate abutments impact screw-retained implant-supported fixed partial prostheses outcomes? A systematic review and meta-analysis of randomized controlled trials]] |
 | [[nithyapriya-2018-factors-loss-preload-dental-implants|Systematic analysis of factors that cause loss of preload in dental implants]] |
@@ -59,6 +63,7 @@ tags: [navigation, category-index, abutment-screw]
 | [[park-2025-cementless-screw-retained-single-implant-rct|A Preliminary Randomized Trial on the Efficiency and Clinical Value of a Cementless Screw-Retained Implant Workflow in Single-Implant Restorations]] |
 | [[pereira-2016-influence-sealing-screw-access-hole|Influence of Sealing of the Screw Access Hole on the Fracture Resistance of Implant-Supported Restorations]] |
 | [[ren-2024-morse-taper-abutment-subsidence-locking-force|Experimental study on implant-abutment locking force and abutment subsidence in a pure Morse taper connection implant system]] |
+| [[rutkunas-2025-misfit-direction-abutment-type-torque-loss|Influence of misfit direction and abutment type on torque loss and fracture strength of implant-supported fixed dental prostheses]] |
 | [[sagheb-2023-preload-friction-carbon-coated-abutment-screw|Preload and friction in an implant–abutment–screw complex including a carbon-coated titanium alloy abutment screw: an in vitro study]] |
 | [[saleh-saber-2017-repeated-torque-tightening-abutment-lengths|The effect of repeated torque tightening on total lengths of implant abutments in different internal implant–abutment connections]] |
 | [[selvi-2025-custom-stock-abutment-fatigue-sem|Two Million Cycle Fatigue Performance of Custom and Stock Conical-Hex Abutments: A Removal Torque and SEM Study]] |
