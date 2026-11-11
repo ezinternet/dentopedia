@@ -1492,3 +1492,45 @@ Found by manual PDF discovery (not the original scout search), 2026-07-25 — sa
       "Factors involved in the development of polymerization shrinkage stress in resin-composites" — Dent Mater
 - [ ] PMID 9151062 | Review | OA:none | resin-polymerization-kinetics | edat 1997
       "Resin composites in dentistry: the monomer systems" — Eur J Oral Sci
+- [ ] PMID 41203042 | SR+MA | OA:none | implant-prosthetic-screw-torque | edat 2025 Nov 5
+      "Impact of repeated tightening and loosening on the implant-prosthetic screw joint: A systematic review and meta-analysis" — J Dent
+- [ ] PMID 42399186 | SR+MA | OA:none | implant-prosthetic-screw-torque | edat 2026 Jul 3
+      "Effects of prosthetic screw modifications and tightening conditions on mechanical outcomes in screw-retained implant restorations: A systematic review and meta-analysis of in vitro studies" — J Prosthet Dent
+- [ ] PMID 41102040 | SR+MA | OA:none | implant-prosthetic-screw-torque | edat 2025 Oct 15
+      "Impact of implant abutment connection designs and cyclic loading on screw stability in dental implants: A systematic review and meta-analysis" — J Prosthet Dent
+- [ ] PMID 42686457 | SR+MA | OA:none | implant-prosthetic-screw-torque | edat 2026 Sep 2
+      "Comparative analysis of stability and removal torque of custom CAD-CAM versus stock abutments before and after cyclic loading: A systematic review with meta-analysis and GRADE analysis" — J Prosthet Dent
+- [ ] PMID 40096516 | in-vitro | OA:none | implant-prosthetic-screw-torque | edat 2026 Apr 2
+      "An In Vitro Study of Torque Application in Abutment Screw Tightening at the Implant-Abutment Junction in Simulated Osseointegrated Implants" — Int J Oral Maxillofac Implants
+- [ ] PMID 42763230 | in-vitro | OA:none | implant-prosthetic-screw-torque | edat 2026 Sep 19
+      "Abutment screw preload verification: Calculation using tightening torque, loosening torque, and screw thread pitch versus actual measurement" — J Prosthet Dent
+- [ ] PMID 42938990 | in-vitro | OA:PMC PMC13701846 | implant-prosthetic-screw-torque | edat 2026 Sep 28
+      "Effect of Tightening Protocol on Reverse Torque and Plastic Deformation of Dynamic and Conventional Titanium Abutment Screws" — Bioengineering (Basel)
+- [ ] PMID 41500556 | in-vitro | OA:none | implant-prosthetic-screw-torque | edat 2026 Jan 6
+      "Effect of tightening protocols on abutment screw loosening and morphological changes in two-piece zirconia implants: A comparative study using cyclic torsional loading" — J Prosthodont Res
+- [ ] PMID 40862884 | in-vitro | OA:PMC PMC12383328 | implant-prosthetic-screw-torque | edat 2025 Aug 4
+      "The Effect of Different Tightening Torques of Implant Cone Morse Abutment Connection Under Dynamic Fatigue Loading: An In Vitro Study" — Biomimetics (Basel)
+- [ ] PMID 42234483 | in-vitro | OA:none | implant-prosthetic-screw-torque | edat 2026 Jun 3
+      "Screw Preload Analysis in a Repeated Torque of Variobase Type Abutments" — Int J Prosthodont
+- [ ] PMID 39978782 | in-vitro | OA:none | implant-prosthetic-screw-torque | edat 2025 Apr 1
+      "The Effect of Repeated Closing Torque on Torque Loss and Angular Deviation: An In Vitro Study" — J Oral Implantol
+- [ ] PMID 41273756 | in-vitro | OA:none | implant-prosthetic-screw-torque | edat 2025 Nov 22
+      "The influence of multi-unit abutment angulation on the prosthetic screw-joint stability" — J Prosthodont
+- [ ] PMID 41951539 | in-vitro | OA:none | implant-prosthetic-screw-torque | edat 2026 Apr 7
+      "Screw preload analysis of direct-to-abutment connections in complete arch zirconia frameworks before and after thermomechanical aging" — J Prosthet Dent
+- [ ] PMID 41783839 | in-vitro | OA:PMC PMC12956434 | implant-prosthetic-screw-torque | edat 2026 Feb 13
+      "The effect of implant-abutment connection fit and proximal contact tightness on screw loosening" — J Adv Prosthodont
+- [ ] PMID 41536759 | in-vitro | OA:PMC PMC12798370 | implant-prosthetic-screw-torque | edat 2025 Dec 15
+      "Influence of misfit direction and abutment type on torque loss and fracture strength of implant-supported fixed dental prostheses" — J Adv Prosthodont
+- [ ] PMID 42297718 | in-vitro | OA:none | implant-prosthetic-screw-torque | edat 2026 Jun 15
+      "Effect of abutment screw channel angle and crown height on the screw stability of posterior monolithic zirconia crowns supported by tissue-level implants: An in vitro study" — J Prosthet Dent
+- [ ] PMID 40930862 | in-vitro | OA:none | implant-prosthetic-screw-torque | edat 2025 Sep 9
+      "A practical approach to determining screw preload in dental implant systems" — J Prosthet Dent
+- [ ] PMID 40628578 | in-vitro | OA:none | implant-prosthetic-screw-torque | edat 2025 Jul 7
+      "Measurements of trueness and precision of various dental torque wrenches: An in vitro study" — J Prosthet Dent
+- [ ] PMID 41173716 | in-vitro | OA:none | implant-prosthetic-screw-torque | edat 2025 Oct 30
+      "Effect of viewing angle and activation speed of various torque wrenches: A comparative evaluation of accuracy and repeatability" — J Prosthet Dent
+- [ ] PMID 42645438 | in-vitro | OA:PMC PMC13510632 | implant-prosthetic-screw-torque | edat 2026 Jul 30
+      "Effect of Viewing Angle While Tightening on Torque Values in Beam-Type Torque Wrenches" — Dent J (Basel)
+- [ ] PMID 42724611 | in-vitro | OA:PMC PMC13559878 | implant-prosthetic-screw-torque | edat 2026 Sep 5
+      "Influence of Aging on the Torque Accuracy of Two Different Spring-Style Implant Torque Wrenches: An in vitro Study" — Clin Cosmet Investig Dent
