@@ -10,21 +10,19 @@ find-supersession-candidates.py
 3. 같은 카테고리 내 고근거 논문들 사이에서 날짜 차이 >= min_gap인 쌍 추출
 4. 이미 relations 엣지로 연결된 쌍 제외
 5. 날짜 차이 내림차순 정렬 → 상위 max_pairs 후보 출력
-6. --judge: 각 쌍의 세줄요약을 로컬 Ollama 모델(기본 qwen2.5:3b)에 넘겨 1차 판단.
-   이 판단은 Opus가 아니다 — 3B 모델이라 거짓 양성이 많다. 최종 supersession 판단은
-   Opus 세션에서 사람이 페이지를 읽고 내린다 (SOP §1-ter).
+이 스크립트는 후보 추출만 한다. 최종 supersession 판단은 사람이(Opus 세션에서)
+페이지를 읽고 내린다 (SOP §1-ter). (로컬 소형 모델 1차 판단 기능은 거짓 양성이 많아
+제거함.)
 
 Usage
 -----
     python3 scripts/find-supersession-candidates.py              # 목록만 (즉시)
-    python3 scripts/find-supersession-candidates.py --judge      # 로컬 모델 1차 판단 포함
     python3 scripts/find-supersession-candidates.py --min-gap 3  # 3년 이상만
     python3 scripts/find-supersession-candidates.py --new-window 30  # 최근 30일 인제스트된 신형만
 """
 from __future__ import annotations
 
 import argparse
-import json
 import re
 import sys
 from datetime import date, datetime, timedelta
@@ -216,60 +214,6 @@ def find_candidates(pages: dict[str, dict], min_gap: float, max_pairs: int,
     return candidates[:max_pairs]
 
 
-# ─── local-model first-pass judgment (Ollama, not Opus) ─────────────────────
-
-JUDGE_PROMPT = """\
-두 치과학 논문 페이지를 비교해 supersession 여부를 판단한다.
-
-**구형 논문 ({old_date}, {old_ev})**
-제목: {old_title}
-세줄요약:
-{old_summary}
-
-**신형 논문 ({new_date}, {new_ev})**
-제목: {new_title}
-세줄요약:
-{new_summary}
-
-날짜 차이: {gap_years}년 | 카테고리: {cat}
-
-판단 기준:
-- 같은 임상 질문을 다루면서 신형이 더 높은 근거 등급이거나 더 큰 샘플 → full supersession
-- 일부 하위 질문만 대체 → partial supersession
-- 단순 연관·참조 관계 → no supersession
-- 결론 상충 → counterpoint (supersession 아님)
-
-응답 형식 (JSON 한 줄만):
-{{"verdict": "full"|"partial"|"no"|"counterpoint", "reason": "한 문장", "confidence": "high"|"medium"|"low"}}
-"""
-
-
-def judge_pair(pair: dict, model: str = "qwen2.5:3b") -> dict:
-    """Ollama HTTP API로 로컬 판단 — API 키 불필요."""
-    import urllib.request, urllib.error
-    prompt = JUDGE_PROMPT.format(**pair)
-    payload = json.dumps({
-        "model": model,
-        "prompt": prompt,
-        "stream": False,
-        "options": {"temperature": 0, "num_predict": 200},
-    }).encode()
-    try:
-        req = urllib.request.Request(
-            "http://localhost:11434/api/generate",
-            data=payload,
-            headers={"Content-Type": "application/json"},
-        )
-        with urllib.request.urlopen(req, timeout=60) as resp:
-            raw = json.loads(resp.read())["response"].strip()
-        m = re.search(r"\{.*?\}", raw, re.DOTALL)
-        if m:
-            return json.loads(m.group())
-        return {"verdict": "unknown", "reason": raw[:150], "confidence": "low"}
-    except Exception as e:
-        return {"verdict": "error", "reason": str(e)[:100], "confidence": "low"}
-
-
 # ─── output ─────────────────────────────────────────────────────────────────
 
 def render_report(candidates: list[dict], args) -> str:
@@ -282,15 +226,6 @@ def render_report(candidates: list[dict], args) -> str:
     lines += [f"후보 수: {len(candidates)}쌍", ""]
 
     for i, c in enumerate(candidates, 1):
-        verdict = c.get("judgment", {})
-        v_str = ""
-        if verdict:
-            v = verdict.get("verdict", "?")
-            conf = verdict.get("confidence", "?")
-            reason = verdict.get("reason", "")
-            emoji = {"full": "🔴", "partial": "🟡", "no": "⚪", "counterpoint": "🔵"}.get(v, "❓")
-            v_str = f"\n**로컬 1차 판단**: {emoji} `{v}` ({conf}) — {reason}"
-
         lines += [
             f"## {i}. [{c['cat']}] {c['old_stem']} → {c['new_stem']}",
             f"날짜 차이 {c['gap_years']}년 | 구형 {c['old_ev']} → 신형 {c['new_ev']}",
@@ -301,13 +236,9 @@ def render_report(candidates: list[dict], args) -> str:
             f"**신형** ({c['new_date']}): {c['new_title']}",
             f"> {c['new_summary'][:300].strip()}" if c["new_summary"] else "> (요약 없음)",
         ]
-        if v_str:
-            lines.append(v_str)
         lines.append("")
 
-    if not args.judge:
-        lines += ["---",
-                  "로컬 1차 판단 추가: `python3 scripts/find-supersession-candidates.py --judge` (Opus 판단 아님 — 최종 판단은 Opus 세션에서)"]
+    lines += ["---", "후보 추출만 수행 — 최종 판단은 Opus 세션에서 페이지를 읽고 내린다 (SOP §1-ter)."]
     return "\n".join(lines) + "\n"
 
 
@@ -321,10 +252,6 @@ def main() -> int:
                     help="신형 논문 범위(일, 파일 mtime 기준). 미지정=전체. 예: 30=1개월")
     ap.add_argument("--max-pairs",  type=int,   default=30,
                     help="출력할 최대 후보 쌍 수. 기본 30")
-    ap.add_argument("--judge",      action="store_true",
-                    help="로컬 Ollama 모델로 각 쌍 판단")
-    ap.add_argument("--judge-model", default="qwen2.5:3b",
-                    help="Ollama 모델명. 기본 qwen2.5:3b")
     ap.add_argument("--stdout",     action="store_true",
                     help="콘솔에도 출력")
     args = ap.parse_args()
@@ -336,13 +263,6 @@ def main() -> int:
     print("🔍  후보 탐색 중…", file=sys.stderr)
     candidates = find_candidates(pages, args.min_gap, args.max_pairs, args.new_window)
     print(f"    {len(candidates)}쌍 발견", file=sys.stderr)
-
-    if args.judge and candidates:
-        print(f"🤖  로컬 판단 중 [{args.judge_model}] ({len(candidates)}쌍)…", file=sys.stderr)
-        for c in candidates:
-            c["judgment"] = judge_pair(c, model=args.judge_model)
-            v = c["judgment"].get("verdict", "?")
-            print(f"    {c['old_stem'][:40]} → {c['new_stem'][:40]} : {v}", file=sys.stderr)
 
     report = render_report(candidates, args)
     LOGS.mkdir(exist_ok=True)
