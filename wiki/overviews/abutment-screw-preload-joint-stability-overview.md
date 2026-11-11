@@ -27,6 +27,11 @@ source_papers:
   - wiki/prosthetic-materials/varvara-2020-retightening-preload-loss-abutment-screws.md
   - wiki/prosthetic-materials/abutment-screw/krishnan-2013-management-abutment-screw-loosening.md
   - wiki/prosthetic-materials/abutment-screw/ziada-2025-abutment-material-stress-distribution-fea.md
+  - wiki/prosthetic-materials/abutment-screw/batista-2026-tightening-protocol-reverse-torque-plastic-deformation.md
+  - wiki/prosthetic-materials/abutment-screw/gulgezen-aydin-2026-connection-fit-proximal-contact-screw-loosening.md
+  - wiki/prosthetic-materials/abutment-screw/hara-2026-tightening-protocols-two-piece-zirconia-screw.md
+  - wiki/prosthetic-materials/abutment-screw/lorusso-2025-tightening-torques-cone-morse-fatigue.md
+  - wiki/prosthetic-materials/abutment-screw/rutkunas-2025-misfit-direction-abutment-type-torque-loss.md
 evidence_level: synthesis
 source: synthesis
 ---
@@ -56,10 +61,11 @@ source: synthesis
 > - 어버트먼트 형태와 골 응력 (Aalaei 2017, FEA): 세그먼트형(분리형) 어버트먼트는 각도 하중 시 변연골 응력을 1/4로 낮추되(31 vs 126 MPa) 나사 응력은 약간 높임(430 vs 375 MPa) — 골 보호와 나사 보호 사이의 trade-off. 각도(비축성) 하중이 임상 주벡터이므로 골 보호 쪽이 유리.
 > - 어버트먼트 **재료**도 독립적 골응력 레버 (Ziada 2025, FEA): 연결부 형태 2종×재료 4종(티타늄·Co-Cr·Co-Cr-S·지르코니아) 조합 전부에서 **티타늄이 최저·최안정 von Mises 응력** — Co-Cr이 최악(사면하중 최대 99.06 MPa). 세그먼트화(Aalaei)와 재료(Ziada)는 서로 다른 두 골보호 레버.
 > - **나사가 이미 풀렸을 때의 처치**(Krishnan 2013, 서술고찰+증례): 보존적 제거(크라운+지대주+나사 일체 제거→시멘트 가열분해→35 Ncm 재체결+10분 후 재토크→당일 재합착) vs 개창법(access-hole) vs 파괴적 절단 3가지 관리법 — 이 페이지의 예방 프로토콜이 다루지 않던 "이미 풀렸을 때" 공백을 메움.
+> - **in-vitro 5편 추가(2026-11-11) — 재조임·나사 재사용·토크 수준·적합도**: ① 비틀림 반복 하중에서는 5분 후 재조임이 오히려 하중 후 제거 토크 (Removal Torque, RT)가 가장 낮았다 — 티타늄 27.9 vs 즉시 재조임 28.9 vs 재조임 없음 30.2 Ncm, 지르코니아 2피스는 모든 프로토콜에서 티타늄보다 낮음(Hara 2026). **'지연 재조임은 항상 이득'이 아니라 하중 방식에 따라 다르다.** ② 역회전 토크 값 (Reverse Torque Value, RTV)은 30개 나사 전부에서 가한 토크보다 낮았고(73–89%, 중앙값 87%), 반복 조임에 따른 저하는 시스템마다 달랐다(Batista 2026) — 코팅 여부와 무관하게 나사는 '횟수 제한 부품'. ③ 6° 콘 모스 결합에서 25–40 Ncm 중 30 Ncm의 미세간극 (Microgap)이 가장 작았다(Lorusso 2025) — 토크는 높을수록 좋은 게 아니다. ④ 연결부 수평 부적합 25 µm와 느슨한 인접면 접촉이 각각, 그리고 상호작용하며 RTV를 낮췄다(26.82→21.70 N·cm; Gülgezen Aydın 2026). 반면 3본 고정성 보철의 100 µm 부적합은 역회전 토크를 바꾸지 않았고 원심 임플란트가 근심보다 낮았다(13.5 vs 18.6 Ncm; Rutkūnas 2025). 5편 모두 실제 풀림은 없었고 n이 작다.
 
 ## Three-line Summary
 
-Hub synthesis of 20 prosthetic-materials papers on the implant abutment screw joint: screw loosening (~10.4% at 5 years, ~20.8% at 10 years) is driven by preload loss via two mechanisms — settling/embedment relaxation (2–10% even unloaded) and cyclic fatigue (16.1–39% total removal-torque loss) — with friction/thread roughness as the master lever (only ~8–10% of applied torque converts to preload; carbon-coated screws lose preload 329.9→253.7 N over 10 reuses, Sagheb 2023).
+Hub synthesis of 25 prosthetic-materials papers on the implant abutment screw joint: screw loosening (~10.4% at 5 years, ~20.8% at 10 years) is driven by preload loss via two mechanisms — settling/embedment relaxation (2–10% even unloaded) and cyclic fatigue (16.1–39% total removal-torque loss) — with friction/thread roughness as the master lever (only ~8–10% of applied torque converts to preload; carbon-coated screws lose preload 329.9→253.7 N over 10 reuses, Sagheb 2023).
 
 Retightening counters settling (optimal interval debated: 10 min per Nithyapriya 2018/Vinhas 2022 vs 2 min per Varvara 2020; plateau at 2nd retorque); connection-design loosening superiority is contested (SR: Morse-taper best vs Vinhas 2022: no design effect); screw geometry governs loosening independently (KSIII <25% vs TSIII 36.5–51.8%, ~35 Ncm optimal; Lee 2025); screwless taper-lock joints subside under load causing late occlusal drift (Ren 2024).
 
@@ -67,7 +73,7 @@ Loosening control is procedural — manufacturer-specified torque with a calibra
 
 ## 세줄요약
 
-20편 종합: 나사 풀림(5년 ~10.4%, 10년 ~20.8%)은 전하중 손실이 원인이며, 기전은 세틀링(무하중에서도 2–10%)과 동적 피로(제거토크 손실 16.1–39%) 둘 — 마찰·조도가 핵심 레버(가해진 토크 중 ~8–10%만 전하중化; 탄소코팅 나사 10회 재사용 시 전하중 329.9→253.7 N 감소, Sagheb 2023).
+25편 종합: 나사 풀림(5년 ~10.4%, 10년 ~20.8%)은 전하중 손실이 원인이며, 기전은 세틀링(무하중에서도 2–10%)과 동적 피로(제거토크 손실 16.1–39%) 둘 — 마찰·조도가 핵심 레버(가해진 토크 중 ~8–10%만 전하중化; 탄소코팅 나사 10회 재사용 시 전하중 329.9→253.7 N 감소, Sagheb 2023).
 
 재조임이 세틀링 보상(최적 시점 논쟁: 10분 Nithyapriya 2018·Vinhas 2022 vs 2분 Varvara 2020; 2회째에 plateau); 연결부 형태의 풀림 효과 논쟁적(SR: 모스테이퍼 우위 vs Vinhas 2022: 차이 없음); 나사 설계 자체가 풀림 좌우(KSIII <25% vs TSIII 36.5–51.8%, ~35 Ncm 최적; Lee 2025); 나사 없는 순수 테이퍼락은 하중으로 침하해 후기 교합 저하(Ren 2024).
 
@@ -177,6 +183,45 @@ For pure Morse-taper / taper-lock systems (no retention screw), the failure mode
 - **Thicker implant outer wall** resists elastic deformation → less subsidence.
 - **Protocol:** seat the abutment **≥5 times**, restore provisionally with only preliminary occlusal adjustment, and defer final restoration + occlusal adjustment until the joint has settled in-mouth.
 
+## Evidence Update — Five Bench Studies: Where the Protocol Holds and Where It Bends (2026-11-11)
+
+All five are in-vitro studies with 5–10 specimens per cell. None produced an actual loosened screw; each measured reverse/removal torque or microgap as a surrogate.
+
+| Paper | Design | Finding |
+|---|---|---|
+| [[prosthetic-materials/abutment-screw/hara-2026-tightening-protocols-two-piece-zirconia-screw]] | 36 two-piece implants (titanium vs zirconia, titanium-alloy base and screw), three tightening protocols, 100,000 torsional cycles at 10% of 35 Ncm | Post-loading removal torque was *lowest* with retightening after 5 min: titanium 27.9 vs 28.9 (immediate retightening) vs 30.2 Ncm (none); zirconia 23.1 vs 24.9 vs 25.4 Ncm. Zirconia was lower than titanium under every protocol. Torque loss (about 15–19%) did not differ between groups. |
+| [[prosthetic-materials/abutment-screw/batista-2026-tightening-protocol-reverse-torque-plastic-deformation]] | Two titanium abutment screws, 10 or 20 tightening cycles at 20–40 N·cm, n=5 per group, micro-CT on n=3 | Reverse torque was below applied torque in 30/30 screws (73–89%, median 87%). It declined per cycle in one system (−0.17 N·cm/cycle, p=0.006) and not in the other (−0.11, p=0.302). Deformation was confined to the screw head. |
+| [[prosthetic-materials/abutment-screw/lorusso-2025-tightening-torques-cone-morse-fatigue]] | 80 implants, 6° cone morse internal-hex joint, 25/30/35/40 Ncm, loaded vs unloaded, microgap by SEM | Microgap differed across torque levels in all conditions; 30 Ncm gave the smallest. No joint failed. Raw microgap values are not reported in the text. |
+| [[prosthetic-materials/abutment-screw/gulgezen-aydin-2026-connection-fit-proximal-contact-screw-loosening]] | 2×2 factorial, 40 internal-hex implants, standard vs 25 µm reduced hex fit × standard vs reduced proximal contact, thermocycling + 720,000 cycles at 100 N | Removal torque fell stepwise: control 26.82, reduced contact 25.51, reduced fit 24.78, both 21.70 N·cm. Significant fit × contact interaction (P=.001); misfit had the larger main effect. |
+| [[prosthetic-materials/abutment-screw/rutkunas-2025-misfit-direction-abutment-type-torque-loss]] | 80 zirconia 3-unit FDPs on two implants, Ti-base engagement configurations, 0 vs 100 µm horizontal or vertical misfit, 1.2 × 10⁶ cycles at 49 N | Engagement configuration and 100 µm misfit did not change reverse torque. Horizontal misfit lowered fracture load (P<.001). Distal implants had lower reverse torque than mesial (13.5 vs 18.6 Ncm, P<.001). |
+
+### What changes in the protocol above
+
+**Step 4 (delayed retorque) is conditional, not universal.** The retorque recommendation on this page rests on settling under axial conditions. Hara tested the same manoeuvre under cyclic *torsional* loading and found no benefit; the retightened groups ended slightly lower. Read alongside the interval debate already recorded here (2 vs 10 minutes), this suggests the value of retightening depends on what the joint is then asked to resist. It does not overturn the step: torque loss was equal across protocols, the differences in removal torque were small, and the model represents roughly one month of low load. The step stands for settling recovery, without the assumption that it also protects against rotational loosening.
+
+**Screws are limited-use components, coated or not.** The reuse warning here came from carbon-coated screws. Batista extends it to uncoated titanium screws by two different mechanisms: every screw returned less torque than was applied from the first cycle, and in one system the return fell further with each tightening. The deformation was in the head, where the driver engages, which is also where reuse during try-in and laboratory stages concentrates wear. The paper does not support a specific replacement count, so the practical rule stays qualitative: use a new screw for final delivery.
+
+**Step 3 (do not exceed the specified torque) gains a microgap argument.** Lorusso found the smallest microgap at 30 Ncm in a joint tested from 25 to 40 Ncm, which matches the finding here that 40 Ncm was not protective and that fit gains plateau. The number itself belongs to one joint design and should not be transferred.
+
+### A new axis: the prosthesis around the joint
+
+The mechanism map above treats preload loss as a property of the screw and the connection. Two of these papers place part of the cause outside the joint.
+
+- *Proximal contact.* Gülgezen Aydın shows a loose proximal contact lowering removal torque on its own and compounding a poorly fitting connection. A crown that is free to move mesiodistally loads the screw joint in a direction it resists poorly. Proximal contact loss is common in long-term function (53.7% of implants after more than 10 years, mesial more than distal; [[implants/kim-2026-proximal-contact-loss-implants-10years]]), so a contact that opens over the years is a plausible route to late loosening and a reason to check contacts at recall, alongside step 8. The link between the two is an inference: the bench study shows the mechanism and the clinical study shows the prevalence, and no study we hold connects them in patients.
+- *Position in a multi-unit prosthesis.* Rutkūnas found the distal implant under a 3-unit FDP holding about 5 Ncm less reverse torque than the mesial one, a larger difference than anything produced by misfit or abutment engagement in that study. Where torque is re-verified at recall, the distal abutment is the one to check first.
+
+### The two misfit results do not contradict each other
+
+Gülgezen Aydın found that 25 µm of misfit lowered removal torque; Rutkūnas found that 100 µm did not. They measure different things. The first is looseness *within the anti-rotation geometry of the connection* of a single crown, which lets the abutment rotate against the screw. The second is misfit *of a splinted framework* seated on two implants, which strains the prosthesis: it showed up as a lower fracture load, not as torque loss. Loads also differed (100 N against 49 N), so the two are not a clean comparison.
+
+The Rutkūnas null should not be read as evidence that framework misfit is harmless to the screw. The clinical literature we hold points the other way: the misfit SR associates misfit of screw-retained prostheses with more screw-related complications without establishing a tolerable threshold ([[implants/katsoulis-2017-misfit-implant-prosthesis-clinical-outcomes-sr]]), and the 19-year cohort found higher misfit in patients with screw complications (169 vs 134 µm; [[implants/jokstad-2014-3d-misfit-implant-prosthesis-long-term]]). The 100 µm tested on the bench sits below that range and was loaded lightly for the equivalent of a limited period. The consistent reading is that 100 µm did not cost torque in a short, low-load test, and that higher misfit over years does show up as screw complications.
+
+### Zirconia two-piece implants
+
+Hara is the first paper on this page to test a zirconia implant body with a titanium-alloy base and screw. It retained less torque than the titanium system under every protocol. The two systems differ in design as well as material, so this is a system comparison, not a material effect, and the screw-joint guidance on this page should not be assumed to transfer to zirconia two-piece implants unchanged.
+
+**Evidence level.** Bench data with small cells; Batista and Rutkūnas were underpowered for some contrasts, and the Lorusso and Rutkūnas pages record internal inconsistencies in the source papers. These findings adjust emphasis in the protocol. They do not supply new thresholds.
+
 ## Related Papers
 
 - [[prosthetic-materials/abutment-screw/aalaei-2017-segmented-nonsegmented-abutment-fea]] — FEA: segmented (two-piece) abutment cuts peri-implant bone stress ~4× under angular load (31 vs 126 MPa) at slightly higher screw stress (430 vs 375 MPa) — bone-protection lever distinct from loosening.
@@ -197,6 +242,11 @@ For pure Morse-taper / taper-lock systems (no retention screw), the failure mode
 - [[prosthetic-materials/abutment-screw/ren-2024-morse-taper-abutment-subsidence-locking-force]] — screwless taper-lock edge case: abutment subsidence vs locking force against design/loading variables; ≥5× seating + delayed occlusal adjustment.
 - [[prosthetic-materials/abutment-screw/velez-2020-implant-connection-abutment-design-screw]] — insertion-torque vs marginal misfit: Morse-taper fits best (~0.6 µm), misfit lowest at 30 Ncm but 20→30 Ncm NS — reach the spec, don't exceed it.
 - [[prosthetic-materials/abutment-screw/vinhas-2022-preload-loss-implant-abutment-connection-designs]] — the contrarian: connection design did NOT govern preload maintenance across 180 implants; cyclic loading degraded all, retightening helped all — procedure over geometry.
+- [[prosthetic-materials/abutment-screw/hara-2026-tightening-protocols-two-piece-zirconia-screw]] — torsional cyclic loading: retightening after 5 min gave the lowest post-loading removal torque; zirconia two-piece system retained less than titanium under every protocol — delayed retorque is not universally beneficial.
+- [[prosthetic-materials/abutment-screw/batista-2026-tightening-protocol-reverse-torque-plastic-deformation]] — reverse torque below applied torque in 30/30 screws (median 87%); per-cycle decline system-dependent; head-localized deformation — screws as limited-use components.
+- [[prosthetic-materials/abutment-screw/lorusso-2025-tightening-torques-cone-morse-fatigue]] — 6° cone morse joint: smallest microgap at 30 Ncm across 25–40 Ncm; no joint failure — more torque is not better.
+- [[prosthetic-materials/abutment-screw/gulgezen-aydin-2026-connection-fit-proximal-contact-screw-loosening]] — 25 µm hex misfit and loose proximal contact each lower removal torque and interact (26.82 → 21.70 N·cm); misfit the larger effect.
+- [[prosthetic-materials/abutment-screw/rutkunas-2025-misfit-direction-abutment-type-torque-loss]] — 3-unit FDP: 100 µm framework misfit and Ti-base engagement did not change reverse torque; horizontal misfit lowered fracture load; distal implant lower than mesial (13.5 vs 18.6 Ncm).
 - [[overviews/prosthetic-materials-decision-ladder]] — parent decision ladder for crown/bridge/implant prosthesis material and retention choices; this overview supplies the screw-joint mechanics layer.
 - [[overviews/implant-occlusion-loading-biomechanics-overview]] — settling- and subsidence-driven occlusal change is why taper-lock and high-load molar occlusion must be finalized after the joint settles.
 - [[prosthetic-materials/abutment-screw/krishnan-2013-management-abutment-screw-loosening]] — narrative review + case: 3-route taxonomy for managing an *already-loosened* screw (conservative removal / access-hole retightening / destructive sectioning); conservative protocol uses the same delayed-retorque logic as this page's prevention protocol, applied to repair.
