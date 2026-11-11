@@ -139,7 +139,7 @@ Plasma is a chairside surface re-activation tool, not a new implant class. Titan
 - **(2026-08)** Test the plasma-as-coating-carrier hypothesis (Cho 2025) with other bioactive agents and in human trials — is plasma's main value as a reactivation tool or as a delivery enhancer?
 - **(2026-08)** Sex/host bone-quality stratification in future human plasma RCTs — none of the 3 existing human studies (Stacchi, Kwon, Kim) report sex-stratified results, so Berger's animal-model sex effect is currently untestable in the human evidence tier.
 
-## Papers Synthesized (29)
+## Papers Synthesized (30)
 
 Reviews / SR / MA (5):
 - [[implants/surface/plasma/dai-2025-cold-atmospheric-plasma-prosthodontics]] — 2025 umbrella (bonding/antibacterial/implant; 154 pubs).
@@ -165,7 +165,7 @@ Animal in vivo (8):
 - [[implants/surface/plasma/cho-2025-rhbmp2-vacuum-plasma-titanium-implants-osseointegration]] — beagle; **2026-08 신규**: 진공플라즈마 단독은 비유의, +rhBMP-2 병용만 BIC 83.91%·ITBD 81.32% 유의 — 플라즈마=코팅 담체 역할.
 - [[implants/surface/plasma/berger-2022-dbd-plasma-vacuum-packaged-implants-sex-dependent]] — rabbit; **2026-08 신규**: DBD 30초, 수컷만 BIC·골량·토크 유의↑, 암컷은 기저 골유착 이미 높아 효과 가려짐 — 성별 의존적 효과.
 
-In vitro (11 incl. devices/material):
+In vitro (12 incl. devices/material):
 - [[implants/surface/plasma/wagner-2022-cold-atmospheric-plasma-implant-materials]] — Ti+zirconia; cells ↑, composition unchanged.
 - [[implants/surface/plasma/zeng-2020-nanostructured-titanium-non-thermal-plasma]] — nanostructure + plasma; decontamination + bone (rat).
 - [[implants/surface/plasma/hadzik-2023-anodized-titanium-transgingival-implant-surface]] — transgingival; oxygen plasma ↑ fibroblasts.
@@ -175,6 +175,7 @@ In vitro (11 incl. devices/material):
 - [[implants/surface/plasma/jeon-2024-vortex-direct-plasma-titanium-surface]] — vortex vs direct discharge; uniform, equivalent.
 - [[implants/surface/plasma/ho-2025-plasma-titanium-contaminants-biocompatibility]] — RNA-seq; carbon ↓, hydrophilicity ↑, early attachment ↑.
 - [[implants/surface/plasma/yang-2021-helium-cap-zirconia-streptococcus-mutans]] — zirconia; antibacterial ~24 h, gone by 72 h.
+- [[implants/surface/plasma/becker-2019-lpp-app-plasma-proinflammatory-cytokines]] — 전혈 ex vivo(공여자 1인): LPP(15분)·APP(1분) 모두 8시간 IL1-β·TNF-α 억제, **24시간 반전(유의 증가)**; LPP-APP 직접 통계비교 없음 — 면역조절 축 추가, 일반화 한계.
 
 Safety (1):
 - [[implants/surface/plasma/jablonowski-2019-plasma-mucosa-side-effects-mice]] — mouse mucosa safety screen.
