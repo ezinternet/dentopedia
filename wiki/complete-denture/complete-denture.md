@@ -2,7 +2,7 @@
 title: "총의치·가철성보철 — complete-denture"
 authors: navigation
 year: 2026
-date: 2026-08-11
+date: 2026-11-12
 doi: N/A
 source: navigation
 category: complete-denture
@@ -51,7 +51,6 @@ tags: [navigation, category-index, complete-denture]
 | [[khan-2023-index-finger-length-vertical-dimension-edentulous-rct|Correlation of index finger length to vertical dimensions of occlusion for edentulous patients and their satisfaction: a randomized controlled trial]] |
 | [[khorasani-2024-3d-printed-vs-milled-complete|Are There Clinical Differences Between 3D-Printed and Milled Complete Dentures? A Systematic Review and Meta-analysis]] |
 | [[koay-2024-comparative-effectiveness-denture-adhesives|Comparative effectiveness of types of denture adhesives in enhancing retention and function of complete dentures: a systematic review with network meta-analysis]] |
-| [[lan-2025-four-implant-overdenture-vs-fixed-sr-ma|Long-Term Comprehensive Results of Four-Implant-Supported Overdentures and Fixed Complete Dentures: A Systematic Review and Meta-analysis]] |
 | [[leao-2018-splinted-unsplinted-overdenture-attachment-systems|Splinted and unsplinted overdenture attachment systems: A systematic review and meta-analysis]] |
 | [[li-2021-optical-jaw-tracking-edentulous-jaw-relations-in-vitro|Accuracy of recording edentulous jaw relations by using an optical jaw tracking system: An in vitro study]] |
 | [[li-2022-digital-edentulous-maxillomandibular-relationship-jaw-tracking|Digital Determination and Recording of Edentulous Maxillomandibular Relationship Using a Jaw Movement Tracking System]] |
@@ -75,6 +74,7 @@ tags: [navigation, category-index, complete-denture]
 | [[slot-2022-maxillary-bar-overdentures-four-six-implants-10year|Maxillary bar overdentures on four or six posterior implants: 10-year results from a randomized clinical trial]] |
 | [[sousa-2021-denture-microwave-disinfection-stomatitis-sr-ma|Effectiveness of denture microwave disinfection for treatment of denture stomatitis: A systematic review and meta-analysis]] |
 | [[srinivasan-2021-cad-cam-removable-complete-dentures|CAD-CAM removable complete dentures: A systematic review and meta-analysis]] |
+| [[sun-2022-evaluation-methods-occlusal-vertical-dimension|Evaluation methods of occlusal vertical dimension and their clinical applications: A narrative review]] |
 | [[sutariya-2021-mandibular-implant-supported-overdenture-systematic|Mandibular implant-supported overdenture: A systematic review and meta-analysis for optimum selection of attachment system]] |
 | [[tayari-2024-implant-supported-overdenture-failures-sr|Risk factors for implant-supported overdenture failures: A systematic review]] |
 | [[taylor-2021-longevity-complete-dentures-sr-ma|Longevity of complete dentures: A systematic review and meta-analysis]] |
