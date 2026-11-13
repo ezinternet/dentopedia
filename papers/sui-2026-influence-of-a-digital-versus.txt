@@ -1,0 +1,12 @@
+TITLE: Influence of a digital versus a conventional workflow on occlusal contacts of posterior implant-supported single crowns based on digital occlusal analysis: a retrospective study
+AUTHORS: Sui Huaxin, He Zheng, Fu Hongyu
+JOURNAL: American Journal of Translational Research
+ID[pmcid]: PMC13687699
+ID[pmcid-ver]: PMC13687699.1
+ID[pmcaid]: 13687699
+ID[pmcaiid]: 13687699
+ID[pmid]: 42923520
+ID[doi]: 10.62347/PLGT6989
+
+## ABSTRACT
+Objectives: To compare the effects of a digital workflow versus a conventional workflow on occlusal contacts of posterior implant-supported single crowns using digital occlusal analysis. Methods: This retrospective study included 239 patients with single posterior implant-supported monolithic zirconia crowns, comprising a digital workflow group (DWG, n = 101) and a conventional workflow group (CWG, n = 138). In the DWG, intraoral scanning with an auxiliary occlusal device and computer-aided design/computer-aided manufacturing (CAD/CAM) were performed without using stone casts, while the CWG used polyether impressions and stone cast fabrication. Occlusal deviation parameters, relative occlusal force (ROF) measured by the T-Scan III system, time efficiency, and clinical adjustments were evaluated at crown insertion and at 6-month follow-up. Results: Compared to the CWG, the DWG showed significantly lower maximum occlusal deviation, mean occlusal deviation, occlusal adjustment area, and occlusion time ratio (all P < 0.001). The ROF of the implant crown was lower (P = 0.004), whereas the ROF of the adjacent natural tooth was higher (P = 0.002) in the DWG. In addition, the DWG showed significantly shorter total laboratory time (P < 0.001) and impression/scan time (P < 0.001), as well as fewer crowns requiring occlusal adjustment (P = 0.012). Conclusions: A digital workflow incorporating intraoral scanning and an auxiliary occlusal device was associated with improved occlusal accuracy, optimized occlusal force distribution, reduced laboratory time, and fewer occlusal adjustments compared to a conventional workflow for posterior implant-supported single crowns.

@@ -1,0 +1,138 @@
+TITLE: An in vitro study to compare the surface roughness of glazed and chairside polished dental monolithic zirconia using two polishing systems
+AUTHORS: Gaonkar Sneha Harishchandra, Aras Meena Ajay, Chitre Vidya
+JOURNAL: The Journal of the Indian Prosthodontic Society
+ID[pmcid]: PMC7335032
+ID[pmcid-ver]: PMC7335032.1
+ID[pmcaid]: 7335032
+ID[pmcaiid]: 7335032
+ID[pmid]: 32655223
+ID[doi]: 10.4103/jips.jips_339_19
+ID[publisher-id]: JIPS-20-186
+
+## ABSTRACT
+Aim:To evaluate the efficiency of two commercially available polishing systems in reducing surface roughness of a monolithic zirconia after clinical adjustment and to compare them to glazed zirconia.
+Setting and Design:In vitro study.
+Material and Methods:This in vitro study was conducted on 25 discs (10mm in diameter and 2mm in thickness) using monolithic zirconia (Ceramill Zolid). From 25 specimens, 5 specimens were randomly selected as the positive control. The remaining discs were abraded for 15 secs with a red band diamond finishing bur using an air rotor handpiece. Then the specimens were randomly divided into 5 equal groups of 5 specimens each. Group 1: Roughened, unpolished and unglazed. Group 2 (Positive Control): Glazed without prior roughening,Group 3: Roughened and polished with eZr polishing kit, Group 4: Roughened and polished with Optra fine ceramic polishing kit and Group 5: Roughened and glazed. The surface roughness (Ra) values (μm) were measured quantitatively by a surface analyzer. The mean values were compared using one-way ANOVA and Post Hoc Test. One specimen of each group was evaluated qualitatively under a scanning electron microscope(SEM) for surface topography.
+Statistical Analysis Used:One-way ANOVA and Post Hoc Test.
+Results:The lowest Ra value was found in Group 4-Roughened and polished with Optrafine ceramic polishing kit (Ra=0.47μm) as compared to Group 3-Roughened and polished with eZr polishing kit (Ra=0.49μm) and Group 5-Roughened and glazed (Ra=0.59μm). There was no stastistically significant difference between two polishing systems. SEM analysis of surfaces polished with Optrafine polishing kit revealed smoother and regular morphology as compared to surfaces polished with eZr polishing kit.
+Conclusion:The Optrafine polishing kit created more smoother and uniform surfaces as compared to surfaces polished with eZr polishing kit both quantitatively and qualitatively. Also, lowest surface roughness values were produced by optrafine ceramic polishing kit on monolithic zirconia as compared to glazed monolithic zirconia after their clinical adjustments.Thus Optrafine ceramic polishing kit can be used as alternative to glazing.
+
+## INTRODUCTION
+
+All-ceramic materials such as zirconia or zirconium dioxide-based materials are the viable treatment options for fixed dental prostheses due to their excellent mechanical properties related to transformation toughening and enhanced natural appearance.[123] They have been gaining their popularity due to good chemical properties, dimensional stability, biocompatibility, high flexural strength (900–1200 MPa), high fracture toughness (9–10 MPa/m2), high stiffness (Young's modulus 210 GPa), and a low corrosion potential.[1234]
+
+Zirconia exists in three crystallographic structures, monoclinic (m), tetragonal (t), and cubic (c). The monoclinic form is the stable form at room temperature to 1170°C, then transforms to tetragonal from 1170°C to 2370°C.
+
+Yttria-stabilized tetragonal zirconia polycrystal (Y-TZP) frameworks can be produced according to two different computer-aided design/computer-aided manufacturing (CAD/CAM) techniques. In soft machining technique, CAD/CAM systems shape presintered blocks, which involves machining enlarged frameworks in a so-called green state. The enlarged presintered Y-TZP frameworks are then sintered in a sintering furnace to their full strength that is accompanied by shrinkage of the milled framework by 25% to the desired dimensions.[1] In hard machining technique, fully sintered blocks are shaped.[1] The framework coloration is performed by either adding metal oxides to the zirconia powder, or embedding the frameworks in metal salt solutions after machining.[5] Glazing is carried out by firing a small coating of transparent glass onto the surface or by heating the framework up to glazing temperatures for 1 to 2 min to get shiny glass surfaces.[6]
+
+Although Y-TZP has superior mechanical properties, its opaque white color and insufficient translucency require porcelain veneering on the framework to achieve a natural appearance and acceptable esthetics.[7] However, cracking or chipping of the porcelain veneer has been reported to be a major complication of these restorations.[891011] The possible causes of porcelain veneer cracking are differences in the coefficient of thermal expansion between framework and porcelain, firing shrinkage of porcelain, porosities, poor wetting of veneering, flaws on veneering, inadequate framework design to support veneer porcelain, overloading, and fatigue.
+
+There are several solutions to overcome the veneer cracking problem, namely, alternative application of techniques for veneering such as CAD/CAM-produced veneer,[12] modification of the firing procedures,[13] and modification of the framework design.[14] Recently, monolithic or full contoured Y-TZP was introduced to overcome this problem and has become increasingly popular as a result of advances in CAD/CAM technology. The monolithic yttria-stabilized tetragonal zirconia polycrystal has been used in posterior region, especially for single crowns, in patients with limited interocclusal space.
+
+The advances in CAD-CAM technology have enabled precise manufacturing of monolithic zirconia restorations; the occlusal adjustment process cannot be omitted before cementation of prosthesis. Providing a smooth surface for ceramic restorations is considered an important step because increased surface roughness associated with improper surface treatment can facilitate staining and enhance plaque accumulation, negatively affect the fracture strength of zirconia, and increase wear rate of the opposing teeth, hence compromising the clinical performance of the restorations.[15161718] However, the prevention or reduction of antagonist abrasion can be achieved immediately through appropriate polishing and glazing.[19]
+
+Several reports have investigated and described different polishing techniques for zirconia restorations and supported the use of polishing as an alternative to glazing. Janyavula et al.[17] found that the polished surfaces of monolithic zirconia were smoother than glazed surfaces. Mitov et al.[18] found that polished monolithic zirconia showed a lower surface roughness than glazed and ground zirconia.
+
+Thus, there is a need to investigate alternative methods for polishing zirconia surfaces, which will give us similar or better results than reglazing with respect to esthetics and function.
+
+The present study was undertaken to investigate the efficiency of two different commercially available polishing systems: eZr polishing kit (Garrisons Dental Solution, Germany) and OptraFine ceramic polishing system (Ivoclar vivadent, A.G, Schaan) in reducing the surface roughness of a monolithic zirconia: Ceramill Zolid (Amann Girrbach, Germany) after clinical adjustment and to compare them to glazed zirconia. The null hypothesis was that there is no statistically significant difference between the two polishing groups and glazing in terms of reduction of surface roughness of the zirconia samples.
+
+### Objectives
+
+To evaluate and compare the efficiency of two chairside zirconia polishing systems, namely (a) eZr zirconia polishing kit (Garrison Dental Solution) and (b) OptraFine ceramic polishing kit (Ivoclar Vivadent) on the surface roughness of glazed and chairside polished monolithic zirconia after clinical adjustmentsTo compare the surface roughness of glazed and chairside polished monolithic zirconia after clinical adjustmentsTo provide relevant clinical information to the restorative practitioner so as to aid in the selection of a zirconia polishing system.
+
+## MATERIALS AND METHODS
+
+The specimens were made using a monolithic zirconia (Ceramill zolid HT, Amann Girrbach, Lot no. 1701003) using CAD/CAM technology.
+
+The sample size was calculated based on the following formula:
+
+α → Standard deviation
+
+△ → Difference of mean
+
+Based on the result obtained from using this formula and taking values from the key article, a sample size of 25 was decided. The discs measuring 10 mm in diameter and 2 mm in thickness were milled [Figure 1]. In order to maintain uniformity, a single shade (A2) was selected.
+
+[FIGURE] Monolithic zirconia HT samples
+
+From the 25 specimens, five specimens were randomly selected as the positive control group. Then, the remaining discs were abraded for 15 s with a red band diamond finishing bur (MANI-DIA BURS, Mumbai, India) attached to an air-rotor handpiece (NSK). All the procedures were done by the same operator taking care to maintain a constant firm pressure while adjusting the specimens and also during subsequent polishing.
+
+The specimens were randomly divided into five equal groups of five specimens (n = 5) each as shown in Table 1.
+
+[TABLE] Randomization of specimens
+Group 1 (negative control) | Roughened, unpolished, and unglazed
+Group 2 (positive control) | Glazed without prior roughening
+Group 3 | Roughened and polished with eZr polishing kit
+Group 4 | Roughened and polished with OptraFine ceramic polishing kit
+Group 5 | Roughened and glazed
+
+The sequence of polishing instruments with eZr polishing kit (Garrison dental solution, Germany) and OptraFine polishing kit (Ivoclar Vivadent, AG Schaan) is shown in Table 2.
+
+[TABLE] Polishing procedures
+Coarse grit grinders (blue color): For gross reduction - 8000-12,000 rpm | Light blue silicone points for initial finishing - 15,000 rpm
+Medium grit polisher (green color): For prepolishing - 7000-10,000 rpm | Dark blue silicone points for polishing - 15,000 rpm
+Fine grit polisher (orange color): For high gloss polishing - 7000-10,000 rpm | Nylon brush to be used along with diamond polishing paste for final polishing - 10,000 rpm
+Each point to be used for 40 s | Each point to be used for 40 s
+
+## RESULTS
+
+All the specimens were subjected to quantitative surface roughness analysis using a surface roughness analyzer (Surftest SJ 210, Mutitoyo, Ahmedabad, India) and qualitative surface roughness analysis using a scanning electron microscope (SEM) (Zeiss Evo 18 special Edition, Bangaluru, India). The surface roughness values of each specimens and the mean values (Ra) obtained in micrometers (μm) are shown in Table 3. The mean values were compared using one-way ANOVA and post hoc test. Comparison of mean surface roughness values between the groups is shown in Graph 1. No statistically significant difference was found between the groups for Ra (P < 0.05). The lowest Ra value was found in Group 4 – roughened and polished with OptraFine ceramic polishing kit (Ra = 0.47 μm) Which was lower than those in glazed (Ra = 0.53 μm) and roughened and glazed (Ra = 0.59) groups. There was no statistically significant difference between the two polishing systems. One specimen of each group was evaluated qualitatively under a SEM for surface topography. The results of SEM analysis are shown in Figures 4-8. SEM analysis of polished surfaces revealed regular morphology with some striations. The specimens polished with OptraFine ceramic polishing kit presented with a smooth surface as compared to specimens polished with eZr polishing kit.
+
+[TABLE] The average surface roughness values (Ra) obtained in micrometers (μm)
+Specimen 1 | 1.096 | 0.508 | 0.493 | 0.465 | 0.415
+Specimen 2 | 1.260 | 0.527 | 0.497 | 0.488 | 0.535
+Specimen 3 | 1.303 | 0.530 | 0.486 | 0.450 | 0.707
+Specimen 4 | 1.352 | 0.487 | 0.451 | 0.443 | 0.785
+Specimen 5 | 1.203 | 0.641 | 0.560 | 0.534 | 0.542
+
+[FIGURE] Comparison of mean surface roughness values (Ra values obtained through surface profilometry) of unpolished, polished with eZr polishing system, polished with OptraFine polishing system, and glazed specimens of monolithic zirconia
+
+[FIGURE] eZr polishing kit
+
+[FIGURE] OptraFine polishing kit
+
+[FIGURE] Monolithic zirconia roughened and unpolished, ×500
+
+[FIGURE] Monolithic zirconia not roughened and autoglazed, ×500
+
+[FIGURE] Monolithic zirconia eZr polishing kit, ×500
+
+[FIGURE] Monolithic zirconia OptraFine polishing kit, ×500
+
+[FIGURE] Monolithic zirconia roughened and autoglazed, ×500
+
+## DISCUSSION
+
+Chairside polishing of ceramic restorations is an important consideration in many restorative and prosthodontic procedures. It is efficient, is easy for the clinician, and eliminates repeated laboratory procedures. Studies conducted by Rupawala et al.[20] and Gundugollu et al.[21] have emphasized the need for precise polishing of the surface of restoration after occlusal adjustment. Dentists often adjust the glazed surface of a monolithic zirconia crown by grinding. This is performed for final occlusal adjustments of dental restoration after cementation,[22] thus altering the glazed surface of the monolithic zirconia and creating a roughened surface. These roughened occlusal surfaces can lead to increase in the wear of opposing teeth. In addition, it increases plaque accumulation and retention of bacteria, thus leading to esthetic, caries, or periodontal problems.[22]
+
+Occlusal contacts between unglazed ceramic and the opposing glazed ceramic or enamel are undesirable because of the high rate of wear of enamel and ceramic. Earlier researchers used to believe that adjusted ceramic should be reglazed only. Reglazing has been associated with several drawbacks such as an extra firing cycle may lead to devitrification, an extra firing cycle may cause marginal distortion, a reglazed layer wears off easily in a short period of time, and an extra appointment is required for the patient.[23]
+
+A number of studies have been performed to identify finishing and polishing techniques that would create surfaces as smooth as or smoother than glazed monolithic zirconia, but no comprehensive conclusion could be drawn from the various studies regarding which was the best technique for finishing an adjusted ceramic surface, reglazing or chairside polishing.
+
+In the present study, all the 25 specimens used were made from Y-TZP monolithic zirconia. A computer-aided design (CAD) system was used to design the specimens. The discs measuring 10 mm in diameter and 2 mm in thickness were fabricated.
+
+The 25 specimens were then autoglazed as per manufacturer's recommendations. From these, five specimens were randomly selected to act as the positive control group. One surface of the remaining twenty specimens was roughened using a fine red diamond point (MANI-DIA BURS, Mumbai, India) attached to an air-rotor handpiece (NSK), using limited strokes and for a standardized duration for 15 s to simulate the clinical adjustment of monolithic zirconia restorations. As it was difficult to control the variation of force, the same operator completed all the grinding. Subsequently, these specimens were subjected to surface profilometry to establish baseline roughness values of the specimens. These specimens were randomly divided into four groups of five specimens each as mentioned earlier.
+
+Out of the two polishing systems (eZr polishing kit and OptraFine ceramic polishing kit), OptraFine ceramic polishing kit system employs final finishing with diamond polishing paste. The smoothness produced by diamond paste can be explained by the smaller particle size of the diamond polishing paste.[24] These two polishing systems were selected in this study as they are easy to use by the clinicians and there were no studies till date comparing the efficiency of both polishing systems.
+
+Earlier studies have tested different properties affected or influenced by the finishing technique. However, the basic property that influences other properties is surface roughness. The greater the surface roughness, more is the wear caused, greater is the plaque accumulation, lower is its fracture strength, and poorer is the final esthetic appearance. Therefore, surface roughness was evaluated both quantitatively and qualitatively by using a surface profilometer and a SEM, respectively. This is in consensus with various studies that have used the same equipment to evaluate surface roughness.[2526272829] The null hypothesis of this study has been rejected as results showed that the use of polishing kits to smoothen the adjusted monolithic zirconia presented with smoother surface comparable to surfaces that were autoglazed and surfaces that were roughened and autoglazed. In addition, no significant difference was present within two polishing kits.
+
+SEM photomicrographs analyzed alone gave an apparent impression that the specimens polished with eZr polishing kit and the specimens polished with the OptraFine ceramic polishing kit presented with different morphological patterns compared to autoglazed and roughened and autoglazed surfaces. Polished surfaces showed a regular morphology with some striations. The specimens polished with OptraFine ceramic polishing kit presented with the smoothest surface as compared to specimens polished with eZr polishing kit. The specimens polished with eZr polishing kit showed more striations and fine flaws across their surfaces than that of specimens polished with OptraFine ceramic polishing kit.
+
+Both the SEM and the profilometric analyses confirm that the use of polishing kits to smoothen the adjusted monolithic zirconia presented with smoother surface compared to surfaces that were autoglazed and roughened and autoglazed.
+
+Within the limited scope of the study, based on SEM and surface profilometry, the study indicates that the OptraFine ceramic polishing system can be an effective alternative to glazing in order to get a similar if not better surface.
+
+## CONCLUSION
+
+Within the limitations of this study, the following conclusions can be drawn:
+
+When compared both quantitatively and qualitatively, OptraFine ceramic polishing kit produced a smoother surface compared to eZr polishing kitWhen compared both quantitatively and qualitatively, the lower surface roughness values were produced by using OptraFine ceramic polishing kit on monolithic zirconia after clinical adjustments in comparison to eZr polished and glazed monolithic zirconia after clinical adjustmentsThus, OptraFine ceramic polishing kit can be used as an alternative to glazing. This will help reduce the number of appointments of the patients and is less time-consuming.
+
+### Financial support and sponsorship
+
+Nil.
+
+### Conflicts of interest
+
+There are no conflicts of interest.

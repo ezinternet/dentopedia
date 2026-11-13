@@ -1,0 +1,225 @@
+TITLE: Effect of surface treatments on biaxial flexural strength, fatigue resistance, and fracture toughness of high versus low translucency zirconia
+AUTHORS: Elraggal Alaaeldin, Aboushelib Moustafa, Abdel Raheem Islam M., Afifi Rania R.
+JOURNAL: BMC Oral Health
+ID[pmcid]: PMC9487058
+ID[pmcid-ver]: PMC9487058.1
+ID[pmcaid]: 9487058
+ID[pmcaiid]: 9487058
+ID[pmid]: 36123676
+ID[doi]: 10.1186/s12903-022-02431-8
+ID[publisher-id]: 2431
+
+## ABSTRACT
+BackgroundMechanical surface treatments can deteriorate the mechanical properties of zirconia. This study evaluated and compared the biaxial flexural strength, fracture toughness, and fatigue resistance of high translucency (HT) to low translucency (LT) zirconia after various mechanical surface treatments.
+MethodsFour hundred eighty zirconia discs were prepared by milling and sintering two HT (Katana and BruxZir) and LT (Cercon and Lava) zirconia blocks at targeted dimensions of 12 mm diameter × 1.2 mm thickness. Sintered zirconia discs received one of the following surface treatments: low-pressure airborne particle abrasion (APA) using 50 µm alumina particles, grinding using 400 grit silicon carbide paper, while as-sintered specimens served as control. Internal structure and surface roughness were evaluated by scanning electron microscope (SEM) and a non-contact laser profilometer, respectively. Half of the discs were tested for initial biaxial flexural strength, while the rest was subjected to 106 cyclic fatigue loadings, followed by measuring the residual biaxial flexural strength. Fractured surfaces were examined for critical size defects (c) using SEM to calculate the fracture toughness (KIC). The effect of surface treatments, zirconia type, and cyclic fatigue on the biaxial flexural strength was statistically analyzed using three-way analysis of variance (ANOVA) and Tukey HSD post hoc tests (α = 0.05). Weibull analysis was done to evaluate the reliability of the flexural strength for different materials.
+ResultsThe initial biaxial flexural strength of LT zirconia was significantly higher (p < 0.001) than that of HT zirconia in all groups. While low APA significantly increased the biaxial flexural strength of LT zirconia, no significant change was observed for HT zirconia except for Katana. Surface grinding and cyclic fatigue significantly reduced the flexural strength of all groups. High translucency zirconia reported higher fracture toughness, yet with lower Weibull moduli, compared to LT zirconia.
+ConclusionLT zirconia has higher biaxial flexural strength, yet with lower fracture toughness and fatigue resistance, compared to HT zirconia. Low-pressure APA has significantly increased the biaxial flexural strength in all zirconia groups except BruxZir. Grinding was deteriorating to biaxial flexural strength and fracture toughness in all zirconia types. Cyclic fatigue has significantly decreased the biaxial flexural strength and reliability of HT and LT zirconia.
+
+## Background
+
+Yttria-tetragonal zirconia polycrystal (Y-TZP) has been the most favorable bioceramic material used in dental practice due to its optimum mechanical properties [1]. Zirconia is a polymorphous material that exists in three crystalline structures at different temperatures [2]. When heated to 2680 °C, zirconia takes the cubic form. When the material is cooled down to 2370 °C, it has a tetragonal crystalline structure. Further cooling to 1170 °C and till room temperature, zirconia has its final stable crystalline form (monoclinic) [3]. Tetragonal to monoclinic phase (t–m) transformation is usually accompanied by a 4–5% volumetric expansion of zirconia due to distortion in the shape of tetragonal crystals leading to cracking of zirconia [4]. The addition of stabilizing oxides (MgO, CeO2, or Y2O) secures the tetragonal crystalline form of zirconia at room temperature and maintains its highest mechanical properties [5]. Zirconia was found to exhibit its maximum mechanical properties at its tetragonal structure represented in high flexural strength that exceeded 900 MPa, and fracture toughness of 5.5–7.4 MPa m1/2 [6]. However, when a crack is induced within zirconia, it creates enough pressure that makes the crystals surrounding the crack tip transform into a monoclinic phase. As a result, a slight volume increase of these crystals generates favorable compressive stresses around the crack’s direction and pins it down from propagating any further in a mechanism known as transformation toughening or phase transformation toughening [7].
+
+Y-TZP has a submicroscopic grain size in the range of 0.2–0.5 µm and exhibits high opacity because of the inherent birefringence of non-cubic zirconia phases, resulting in light scattering at grain boundaries, pores, and additive inclusions [8, 9]. The opaque nature of Y-TZP has limited its use as a framework substructure to be essentially veneered with more esthetic glass–ceramics [10, 11]. Chipping and delamination of the veneering ceramic were some of the most clinically encountered problems of veneered Y-TZP frameworks [12]. It was reported that 15% of Y-TZP restoration replacement occurred due to delamination and 20% due to chipping after 5 years of clinical follow-up [13].
+
+The introduction of monolithic or, as known, a high translucency (HT) zirconia restoration with improved optical properties has dispensed the need for the veneer layer [9]. Elimination of the veneering ceramic was a direct advantage that simplified fabrication technique, and it also dramatically reduced time and production cost [14]. Full anatomical zirconia restorations were proposed in the posterior region, especially with limited interocclusal space [15–17]. The HT zirconia has an exceptionally optimized translucency allowing light to penetrate through the material. This was achieved through increasing the grain size, optimizing grain boundary region, and reducing alumina content by incorporating higher Yttria content to produce partially stabilized zirconia, 4 mol% (4Y-PSZ) or 5 mol% (5Y-PSZ), with increased amounts of nonbirefringent cubic phase [8]. Diminishing the opacity was achieved by one or more of these mechanisms; sintering additives (typically alumina) [18], reduction of oxygen vacancies, pores, and defects as well as a controlled sintering environment (i.e. pressure and temperature) [19]. Low translucency zirconia generally has higher mechanical properties than HT zirconia; however, the enhanced optical properties of the latter made it more suitable to use in monolithic fixed restorations [20].
+
+Different surface treatments such as APA and grinding are essential routine steps for better resin bonding to zirconia. However, these surface treatments can deteriorate the mechanical properties of Y-TZP and Y-PSZ and possibly induce surface flaws and microcracks that can propagate under occlusal loads leading to a catastrophic failure [12, 21]. Occlusal loads are far below the flexural strength of zirconia. However, with pre-existing surface defects, intermittent occlusal forces may lead to the propagation of those cracks and eventually lead to a fracture [22, 23]. Fracture toughness measures the material resistance to crack propagation; hence it could be affected by the magnitude of surface flaws or cracks that are induced by different mechanical surface treatments [24]. The effect of APA and grinding on the mechanical properties of HT zirconia has been less studied compared to LT zirconia [25]. Therefore this study aimed to evaluate the effect of low APA and surface grinding on biaxial flexural strength, fatigue resistance, and fracture toughness of HT versus LT zirconia frameworks. The null hypothesis tested was that different surface treatments will not affect the biaxial flexural strength and fracture toughness of either HT or LT zirconia.
+
+## Materials and methods
+
+### Preparation of zirconia specimens
+
+Two LT 3 mol% Y-TZP zirconia (Cercon base, Dengudent, Hana Wolfgang, Germany, and Lava Frame, 3 M ESPE, Germany) and two HT 4 mol% Y-PSZ zirconia milling blocks (Katana HT, Kuraray Noritaki Dental Inc, Japan and BruxZir, Glidewell, USA) (Table 1) were milled, in their green state, into a total of 480 discs (14.5 mm × 1.5 mm) (n = 120/group) using a precision cutting machine (Isomet 5000, Buehler, Lake Bluff, Ill, USA). The discs were sintered according to the manufacturer’s recommendations at sintering temperatures of 1450 °C, 1500 °C, 1550 °C, and 1580 °C for Cercon Base, Lava Frame, Katana HT, and BruxZir, respectively, and a holding time for 2 h. The final dimensions of zirconia specimens were approximately 12 mm in diameter and 1.2 mm in thickness, due to ≈20% volumetric sintering shrinkage, following the recommendations of (ISO: 6872:2015) [22]. After sintering, one surface of each zirconia disc received one of different surface treatments (n = 40/subgroup); low-pressure airborne particle abrasion using 50 μm alumina particles at 0.5 bar using a sandblaster (AquaCare Twin, Velopex, Medivance Instruments Ltd., London, UK) or grinding using 400 grit silicon carbide paper (Waterproof Abrasive Paper, Daesung Abrasive Co., Seoul, Korea) using a metallographic polishing device under 300 g weight and water cooling, while the as-sintered specimens served as a control. The opposite surface of zirconia discs in all groups was left as polished.Table 1Zirconia types used in the study and their chemical compositionMaterialZirconia typeChemical compositionManufacturerCercon baseLow translucencyZrO2 (92 wt%), Y2O3 5.0 wt%, and HfO2: < 2.0 wt%Degudent, Hana Wolfgang, GermanyLava FrameLow translucencyZrO2 < 95.00%, Y2O3 < 5.00%, Al2O3 < 0.25%3 M ESPE, GermanyKatana HTHigh translucencyZrO2 90–95%, Y2O3 5–8%, Other < 2%Kuraray Noritaki Dental Inc, JapanBruxZirHigh translucencyZrO2 88%, Y2O3 9%, Al2O3 0.1% HfO2 2.31%Glidewell, USA
+
+### Characterization of surface roughness and grain size
+
+Surface roughness parameters (Ra, Rp, and Rv) values were measured using a non-contact laser surface profilometer (Profilm 3D, Filmetrics Inc) where Ra is the mean surface roughness, Rp is the peak surface roughness, and Rv is the valley surface roughness. These parameters were expressed in µm. Grain size and grain boundary regions were evaluated using scanning electron microscopic examination (XL 30, Philips, Eindhoven, The Netherlands). The size of one hundred grains from each zirconia type was calculated on the obtained SEM images using computer software (Image analysis Java, NIH).
+
+### Evaluation of initial biaxial flexural strength and fracture toughness
+
+Half of the zirconia discs (n = 20/subgroup) were loaded in a piston on three balls set-up for biaxial flexural strength testing (following ISO: 6872:2015) with the treated surface in tension to evaluate the initial biaxial flexural strength. Discs were loaded at a crosshead speed of 1 mm/min till failure using a universal testing machine (Tinius Olsen model no 5ST, Surrey, UK) (Fig. 1). The load cell (500 N) was calibrated using a digital scale (AcculabVicon VIC 711; Itin Scale Co., Brooklyn, NY), and the crosshead speed was observed using a digital traveling microscope (Millitron; Feinpruf Perthen GmbH, Gottingen, Germany). The biaxial flexural strength was then calculated using the following equations [26]:1\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Fs = \, - 0.{2837}\frac{{P \left( {X - Y} \right)}}{{d^{2} }}$$\end{document}Fs=-0.2837PX-Yd2where Fs is the biaxial flexural strength in MPa, P is the load to failure of specimen in (N), and d is the specimen thickness in mm. X and Y were calculated using the following equations:2\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\text{X}} = \, \left( {{1} + \, \nu } \right){\text{In}}\left( {{\raise0.7ex\hbox{${r2}$} \!\mathord{\left/ {\vphantom {{r2} {r3}}}\right.\kern-\nulldelimiterspace} \!\lower0.7ex\hbox{${r3}$}}} \right)^{2} + \left[ {\frac{1 - \nu }{2}} \right]\left( {{\raise0.7ex\hbox{${r2}$} \!\mathord{\left/ {\vphantom {{r2} {r3}}}\right.\kern-\nulldelimiterspace} \!\lower0.7ex\hbox{${r3}$}}} \right)^{2}$$\end{document}X=1+νInr2r32+1-ν2r2r323\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\text{Y}} = \, \left( {{1} + \, \nu } \right)\left[ {1 + In \left( {{\raise0.7ex\hbox{${r2}$} \!\mathord{\left/ {\vphantom {{r2} {r3}}}\right.\kern-\nulldelimiterspace} \!\lower0.7ex\hbox{${r3}$}}} \right)^{2} } \right] + (1 - \nu )\left( {{\raise0.7ex\hbox{${r1}$} \!\mathord{\left/ {\vphantom {{r1} {r3}}}\right.\kern-\nulldelimiterspace} \!\lower0.7ex\hbox{${r3}$}}} \right)^{2}$$\end{document}Y=1+ν1+Inr2r32+(1-ν)r1r32where ν is Poisson’s ratio (= 0.23); r1is the radius of the supported area of zirconia disc, r2 is the radius of the loaded area of the disc, r3 is the radius of the specimen, all of these are measured in mm.Fig. 1Schematic diagram showing the piston on three balls set-up for biaxial flexural strength testing. Zirconia discs were mounted so that the treated side was facing downwards. Specimens were then loaded to fracture using Tinius Olsen universal testing machine
+
+All fractured specimens were cleaned in an ultrasonic bath for 10 min, dried in an electric oven at 100 °C for 4 min, gold sputter coated (S150B sputter coater; Edwards, Crawly, UK), and examined under a scanning electron microscope (XL30, Philips, Eindhoven, The Netherlands). The origin and direction of the fracture were identified and located followed by measuring the size of the critical defect (cr) (Fig. 2) that caused the fracture using the following formula [27]:4\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\text{cr }} = \sqrt {a.b}$$\end{document}cr=a.bwhere (cr) is the critical defect size in µm (\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$a$$\end{document}a) is the height of the defect origin and (\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$b$$\end{document}b) is its half-width in µm.Fig. 2Scanning electron microscope image (× 1000) showing the measurement taking of the height (a) and width (b) of the critical size defect (cr)
+
+The fracture toughness (KIC) of fractured zirconia bars could be then calculated according to c and Fs values obtained using the following equation[27]:5\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\text{K}}_{{{\text{IC}}}} = {\text{Y}}.Fs\sqrt {cr}$$\end{document}KIC=Y.Fscrwhere (KIC) is the fracture toughness in MPa.m1/2, Y is the geometry constant = 1.24 (assuming that there is a lack of pre-stresses at crack origin), and cr is the critical defect size in µm.
+
+### Cyclic fatigue test
+
+The other half of zirconia specimens received 106 cycles, equivalent to 4 years of service in the patient’s mouth [28]. The piston on three balls set-up was immersed in a container of distilled water at 37 °C where each zirconia disc was subjected to fatigue testing using an ACTA type five-unit pneumatic fatigue tester (ACTA, Amsterdam, The Netherlands). The cycling loading was set at 40% of the mean initial biaxial flexural strength, previously obtained from the treated zirconia specimens for each material (n = 20) [26]. Cyclic loading was set to 40% to ensure the survival of zirconia discs. After completing the required cycles, zirconia discs were loaded to failure as previously described to evaluate the residual biaxial flexural strength.
+
+### Weibull modulus
+
+Weibull modulus (m) was calculated to determine the reliability of the materials according to Quinn and Quinn method [29]. This equation: \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\text{P}}(\upsigma ) = 1 - \exp ( - \sigma /\sigma_{0} )^{m}$$\end{document}P(σ)=1-exp(-σ/σ0)m was used to calculate the (m) value. Where P(σ) is the fracture probability, σ is the flexural strength at a given P(σ), \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\sigma }_{0}$$\end{document}σ0 is the characteristic strength at which 62.3% of the specimens are expected to fracture, and m is the Weibull modulus which is obtained by calculating the slope of the plot between 1n (1n 1/1 − P) versus σ [29]. Two-parameter Weibull distribution fit for the obtained biaxial flexural strength values was done by computer software (Weibull++ version 21, Reliasoft, Tucson, USA) using the maximum likelihood estimation method with a 95% confidence interval (CI) [30].
+
+### Statistical analysis
+
+Computer software (SPSS for Windows version 22.0 (SPSS Inc., Chicago, IL, USA)) was used to run all the statistical analyses of the obtained data. The normal distribution and homogeneity of variance were checked and verified for surface roughness parameters, fracture toughness, and biaxial flexural strengths data using Kolmogorov–Smirnov and Levene’s tests, respectively. The data were found to be normally distributed. Hence, one-way analysis of variance (ANOVA) was used to compare the mean surface roughness parameters and fracture toughness of the studied groups. However, the effect of different zirconia types, surface treatments applied, and fatigue was analyzed by three-way ANOVA and Tukey HSD post hoc test for multiple comparisons at a level of significance (α = 0.05).
+
+## Results
+
+Examination of the internal structure of the tested zirconia revealed that low translucency zirconia was composed of submicroscopic round grains with an average size of 0.2–0.3 µm demonstrating homogenous and thick grain boundary regions (Fig. 3a and b). High-translucent zirconia showed a much larger grain size in a range of 1.2–1.6 µm with more refined grain boundary regions. Larger cubic grains ranging between 1.9 and 3.6 µm2 were frequently interrupted by smaller round grains (0.9–1.6 µm2) (Fig. 3c and d). However, Katana was characterised by more uniform larger grains compared to BruxZir zirconia.Fig. 3Scanning electron microscope images (× 10,000) showing homogenous round small grains of a Cercon and b Lava zirconia. However, larger cubic-shaped grains are noticed in HT, c BruxZir and d Katana zirconia
+
+Descriptive statistics and one-way ANOVA results of surface roughness parameters and fracture toughness are summarised in Table 2. Generally, there was no statistically significant difference (P > 0.05) in the surface roughness parameters (Ra. Rv, and Rp) between the as-sintered and APA groups regardless of the zirconia type used. However, surface grinding statistically (p < 0.001) increased the surface roughness parameters in all zirconia groups. There was no statistically significant difference (p > 0.05) in the fracture toughness between the Cercon and Lava (LT) or between BruxZir and Katana (HT) zirconia types in the as-sintered groups or the APA groups. Further, no significant difference was detected in ground groups regardless of the zirconia type. Low-pressure APA significantly increased the fracture toughness compared to the as-sintered groups in all zirconia types except for BruxZir; no significant difference was found (p > 0.05). Surface grinding significantly decreased (p < 0.001) the fracture toughness in all zirconia types with no statistical difference between them.Table 2Descriptive statistics of surface roughness parameters (µm), fracture toughness (KIC), and biaxial flexural strengths (MPa) before and after fatigue for different study groupsMaterialsSurface treatmentMean surface roughness ± SD (µm)KIcMean biaxial flexural strength ± SD (Mpa)RaRvRpMPa.m1/2InitialResidualCercon Base (LT)As-sintered1.56 ± 0.2 A8.1 ± 0.3 A6.3 ± 1.2 A5.6 ± 0.3 A1247.5 ± 25.8 A11044.9 ± 34.4 A2APA1.8 ± 0.1 A9.8 ± 1.3 A7.9 ± 0.9 AB6.1 ± 0.25 B1451.5 ± 34.9 B11228 ± 18.5 B2Grinding5.4 ± 0.09 BC14.2 ± 2.4 B9.7 ± 1.8 C4.1 ± 0.87 C909.7 ± 22.9 C1690.7 ± 18.3 C2Lava Frame (LT)As-sintered1.4 ± 0.07 A8.4 ± 1.4 A6.3 ± 0.8 A5.7 ± 0.37 A1271 ± 14.1 A11059 ± 30.4 A2APA1.8 ± 0.04 A9.3 ± 0.7 A8.7 ± 0.9 BC6.0 ± 0.29 B1442.4 ± 24.3 B11259 ± 24.6 B2Grinding6.0 ± 0.08 B13.1 ± 2.1 BC9.1 ± 1.6 C4.3 ± 0.92 C973.4 ± 23.9 D1668.9 ± 32.1 C2Katana (HT)As-sintered1.5 ± 0.04 A8.3 ± 1.3 A6.4 ± 1.1 A6.1 ± 0.19 B812.8 ± 27.9 E1698.6 ± 19.7 C2APA2.1 ± 0.06 A10.4 ± 1.2 A7.0 ± 0.9 AB6.6 ± 0.41 D860.3 ± 18.2 F1769.2 ± 8.1 D2Grinding4.1 ± 1.03 CD11.5 ± 2.9 AC8.7 ± 1.3 BC4.7 ± 1.1 
+C692.3 ± 16.8 G1601.3 ± 20.2 E2BruxZir (HT)As-sintered1.46 ± 0.08 A8.6 ± 2.1 A6.9 ± 1.4 A6.3 ± 0.22 BD833.5 ± 13.2 EF1739.2 ± 5.4 D2APA2.3 ± 0.07 A10.7 ± 1.6 A6.6 ± 1.2 A6.7 ± 0.35 D858.3 ± 17.1 F1764.3 ± 18.3 D2Grinding3.0 ± 0.2 D11.2 ± 2.7 AC8.5 ± 1.9 BC4.4 ± 0.68 C686.5 ± 13.2 G1599.2 ± 10.5 E2No statistical significance (P > 0.05) is indicated by the same superscript capital letter in columns when comparing different surface treatments for different types of zirconia and by the same superscript numbers when comparing initial vs residual mean biaxial flexural strength
+
+The 3-way ANOVA results showed that all the independent variables (zirconia type, surface treatments, and cyclic fatigue) or their interactions significantly affected the biaxial flexural strength among the studied groups. The greatest influence was for the type of zirconia used (partial eta squared ηP2 = 0.987) followed by surface treatments applied (ηP2 = 0.980), and cyclic fatigue (ηP2 = 0.940), while the interaction effect between surface treatments and cyclic fatigue had the lowest impact (ηP2 = 0.046).
+
+Low-pressure APA significantly increased (p < 0.001) the biaxial flexural strength compared to the as-sintered groups in all zirconia types except for BruxZir zirconia, while surface grinding significantly decreased (p < 0.001) the initial biaxial flexural strength in all studied zirconia types. Cyclic fatigue significantly decreased (p < 0.001) the initial biaxial flexural strength in all zirconia types regardless of the surface treatment employed.
+
+In the as-sintered group, LT zirconia types (Cercon and Lava) showed closely similar initial (1247.5 ± 25.8 Mpa and 1271 ± 14.1 MPa, respectively) biaxial flexural strength results with no significant difference between them (p > 0.05). However, HT zirconia types (Katana and BruxZir) showed significantly lower initial biaxial flexural strength (812.8 ± 27.9 and 833.5 ± 13.2, respectively) with no significant difference between them (p > 0.05). In the APA group, no significant difference was found in the initial biaxial flexural strength between (Cercon and Lava) zirconia (1451.5 ± 34.9 and 1442.4 ± 24.3, respectively), and similarly between (Katana and BruxZir) zirconia (860.3 ± 18.2 and 858.3 ± 17.1, respectively). In the surface grinding group, no significant difference was found in the initial biaxial flexural strength between Katana and BruxZir (692.3 ± 16.8 Mpa and 686.5 ± 13.2 Mpa, respectively). In comparison, Lava zirconia showed a significantly higher (p < 0.05) mean initial biaxial flexural strength (973.4 ± 23.9 MPa) compared to Cercon (909.7 ± 22.9 MPa). A similar trend of comparing the effect of different surface treatments on the residual biaxial flexural strength of different zirconia types was observed, except for comparing the residual biaxial flexural strength between Katana and BruxZir zirconia (739.2 ± 5.4 and 680 ± 19.7, respectively); a significant difference was found (p < 0.001).
+
+Low-translucent zirconia was more affected by cyclic fatigue compared to HT zirconia. Cyclic fatigue had decreased the initial biaxial flexural strength of Cercon and Lava zirconia by 17% in the as-sintered specimens, and by 16% and 13%, respectively in the APA group, while ground zirconia specimens showed a reduction of 25% and 32%, respectively in their initial biaxial flexural strength after cyclic fatigue. HT zirconia was more resistant to cyclic fatigue compared to LT zirconia. In the as-sintered group, the initial biaxial flexural strength of Katana and BruxZir was reduced by 14% and 12%, respectively, and by 11% in the APA group, while ground zirconia specimens showed a reduction of their initial biaxial flexural strength by 14% and 13%, respectively.
+
+Weibull parameters of initial and residual biaxial flexural strength values for all studied groups are presented in Figs. 4, 5, and 6 and are summarised in Table 3. The obtained Weibull moduli (m) and characteristic strength (\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\sigma }_{0})$$\end{document}σ0) for initial and residual biaxial flexural strength of all groups are plotted in contour plots. The non-overlapping between the bounds in contour plots indicates significant differences in m and \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\sigma }_{0}$$\end{document}σ0 between the compared groups. Generally, Weibull moduli and charactersitic strength values were lower for the residual, compared to the initial, mean biaxial flexural strength data indicating less reliable materials after cyclic fatigue.Fig. 4Graphs summarising Weibull probability and contour plots for different types of zirconia in the as-sintered group. For Weibull probability plots, the initial (a) and residual (b) biaxial flexural strength are presented on the x-axis and the probability of fracture on the y-axis, while for the contour plots, Weibull modulus (m) and characteristic strength (\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\sigma }_{0}$$\end{document}σ0) are presented on y and x axes, respectively. Two-parameter Weibull distribution, with 95% CI, was applied for Lava (pink color), Cercon (black color), BruxZir (Blue color), and Katana (green color). The central line for each group represents the probability line, while the top and bottom lines represent 95% CI boundsFig. 5Two- parameter Weibull analysis of the initial (a) and residual (b) biaxial flexural strength for the blasted zirconia groupsFig. 6Two-parameter Weibull analysis of initial (a) and residual (b) biaxial flexural strength for different zirconia types underwent grinding surface treatmentTable 3Two-parameter Weibull modulus (m) for different zirconia groups and their characteristic strength (\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\sigma }_{0})$$\end{document}σ0) in MpaMaterialsSurface treatmentWeibull modulus (m)Characteristic strength \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$(\sigma_{{\text{o}}} )$$\end{document}(σo)InitialResidualInitialResidualCercon Base (LT)As-sintered14.810.11263.61050.3APA12.411.61457.21230.7Grinding13.86.9925.9722.4Lava Frame (LT)As-sintered13.19.21292.71060.5APA9.38.21490.51276.4Grinding11.69.8972.4686.5Katana (HT)As-sintered10.79.3825.2688.3APA8.67.3875.1768.8Grinding13.911.2708.3604.2BruxZir (HT)As-sintered8.17.2846.9755.7APA8.37.1877.9775.8Grinding7.16.7696.4611.9
+
+## Discussion
+
+This study aimed to evaluate the biaxial flexural strength, fracture toughness, and fatigue resistance of two HT and LT zirconia after various surface treatments. A significant difference was found between the studied groups, and therefore the null hypothesis was rejected.
+
+Zirconia is a category of brittle ceramics which are more sensitive to tensile than compressive forces [31]. Mechanical properties such as flexural strength and fracture toughness can characterise the mechanical performance of zirconia. Among the well-known flexural strength testing approaches, piston-on-3-ball biaxial flexural strength test was applied as recommended by ISO 6782. Three-point and 4-point flexural strength testing are other potential approaches to characterise the mechanical properties of zirconia. However, these approaches employ the use of bar-shaped specimens that are affected by edge defects in the bar design, while biaxial flexural strength testing requires disc-shaped specimens supported on three metal spheres and a load applied to the centre of the specimen [32].
+
+Surface grinding and APA were applied in the current study as mechanical surface treatments to zirconia as they are routinely performed in the clinical situation to improve the resin bonding to tooth structure or to the veneering porcelain [33]. Further, grinding is commonly done during fit corrections of zirconia frameworks [12, 21, 34]. However, APA was employed, in a low-pressure mode, to decrease the possible critical surface flaws that act as stress concentration sites and potential crack origins under loads [35–38].
+
+Low APA and surface grinding increased the surface roughness parameters with a statistical significance detected in the latter. These findings are in agreement with previous work [25, 39, 40]. Hight translucent zirconia showed higher surface roughness parameters in the APA group compared to LT zirconia. During APA, zirconia grains are pulled out [22]. The larger grains of HT zirconia could have left a more considerable defect behind, and hence a higher surface roughness was found compared to the smaller grain size of LT zirconia, in agreement with a previous study [40]. Grinding produced a more irregular surface with deep grooves that acted as stress concentration areas and in turn increased all roughness parameters (Ra, Rv, and Rp) and decreased both initial and residual flexural strengths. Özcan et al. [41] concluded that APA using 50 μm created more surface roughness, and reduced the biaxial flexural strength and Weibull modulus of the examined tetragonal LT zirconia. On the contrary, the present study has shown that low-pressure APA increased both biaxial flexural strength and Weibull modulus due to the transformation toughening property of tetragonal zirconia, which is consistent with several other studies [42–44]. It has to be mentioned that the pressure applied in this study was much weaker, as recommended by several manufacturers and reports [44–46].
+
+Low translucency zirconia had a significantly higher initial biaxial flexural strength compared to HT zirconia. Several studies have related the increase in grain size to the decrease in flexural strength [47, 48]. Accordingly, it was expected for HT zirconia to have less flexural strength than LT zirconia [49]. The presence of smaller grains helped to maintain a relatively high flexure strength compared to other all-ceramic materials [50]. The grain size of 0.9 μm to 1.4 μm can increase the fracture strength linearly from 650 MPa to 1000 Mpa [51]. The combination of various grain sizes allowed HT zirconia to be applied in stress-bearing areas [47, 52]. Reducing the size of the grain beyond 0.5 µm is known to increase the mechanical properties, which came at the expense of translucency [53].
+
+High translucency zirconia revealed a higher fatigue resistance, compared to LT zirconia, as it was associated with a lower percentage of reduction in residual strength due to its internal structure, larger grain size, and refined grain boundaries. Some studies found that the percentage of transformation toughening that hinders crack propagation in LT tetragonal zirconia was much higher than HT cubic zirconia [43–48], so it was expected for LT zirconia to be more resistant to fatigue compared to HT zirconia. Such a finding cannot be attributed to phase transformation alone. Still, it is directly related to the internal structure of the materials and the mechanism that larger grains might interrupt the propagation of crack tips [54–58].
+
+The current study showed that the fracture toughness of HT zirconia was higher than that of LT zirconia which can be attributed to the larger grain size of the first [59] as there is a strong direct relationship between fracture toughness and grain size. High translucency zirconia was associated with relatively smaller critical crack sizes compared to LT zirconia. Rougher crack surfaces indicated that cracks traveled at grain boundary regions instead of splitting the grains, especially in its first stages. Larger grains mean longer crack paths, which could explain the higher fracture toughness observed for HT zirconia. Another study stated that the fracture toughness of zirconia is closely related to the transformation toughening ability as the transformation process itself helped in dissipating the energy associated with crack propagation [4]. Nevertheless, an optimised internal structure is of prime importance as transformation toughening is a process limited to the presence of stresses, and regions, outside the stress field, will not benefit from this process.
+
+Weibull distribution is commonly used in life prediction analysis of brittle materials such as zirconia [60]. For long-term clinical success, a material with a higher Weibull modulus is more advantageous than a stronger material with a lower value. The Weibull modulus of dental ceramics was found to range from 5 to 15 [61]. In the current study, Weibull modulus values ranged from 6.7 to 14.8, indicating different degrees of fracture probability under clinical conditions.
+
+The presence of deep surface defects introduced by grinding had a direct effect on the reduction of residual strength associated with lower (m) values as reported by previous works [61, 62]. Further studies are needed to elaborate on crystallographic changes associated with the two materials. Low-pressure airborne-particle-abraded specimens showed the lowest (m) values. In contrast, ground specimens showed higher values than the as-sintered zirconia, which is consistent with the results of other studies that reported no difference between Weibull modulus values of different surface treatments indicating that the flaw size distribution was very similar [63–65].
+
+The limitations of the current study can be the use of cylindrical specimens design that do not simulate the anatomical crowns in clinical situations. However, the cylindrical design was easier to standardise for all tested specimens, so that the results can be fairly compared between the tested groups and a conclusion can be precisely drawn. Other limitations can be the use of two LT and HT zirconia types in the study. Supra-high translucent zirconia and ultra-high translucent zirconia are other common brands of PSZ zirconia that should be tested to increase the external validity of the results. Further, crystallographic analysis of treated zirconia types was not done. Assessment of crystalline changes to zirconia after various surface treatments will give a more in-depth understating of how much they can trigger t-m transformation.
+
+## Conclusion
+
+Low translucency zirconia has higher biaxial flexural strength, yet with lower fracture toughness and fatigue resistance, compared to HT zirconia. Low-pressure APA has significantly increased the biaxial flexural strength in all zirconia groups except BruxZir. Grinding was deteriorating to biaxial flexural strength and fracture toughness in all zirconia types. Cyclic fatigue has significantly decreased the biaxial flexural strength and reliability of HT and LT zirconia.

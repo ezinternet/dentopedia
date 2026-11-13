@@ -1,0 +1,102 @@
+TITLE: The effects of surface grinding and polishing on the phase transformation and flexural strength of zirconia
+AUTHORS: Lee Ji-Young, Jang Geun-Won, Park In-Im, Heo Yu-Ri, Son Mee-Kyoung
+JOURNAL: The Journal of Advanced Prosthodontics
+ID[pmcid]: PMC6400711
+ID[pmcid-ver]: PMC6400711.1
+ID[pmcaid]: 6400711
+ID[pmcaiid]: 6400711
+ID[pmid]: 30847043
+ID[doi]: 10.4047/jap.2019.11.1.1
+
+## ABSTRACT
+PURPOSEThe purpose of this in vitro study was to evaluate the effect of surface grinding and polishing procedures using high speed zirconia diamond burs with different grit sizes on the phase transformation and flexural strength of zirconia.
+MATERIALS AND METHODSForty disc shape specimens (15 × 1.25 mm) with a cylindrical projection in the center of each disc (1 × 3 mm) were fabricated with 3Y-TZP (Prettau, Zirkonzahn, Italy). The specimens were divided into 4 groups (n=10) according to the grinding and polishing procedures: Control group - grinding (coarse-grit diamond bur), Group 1 - grinding (coarse-grit diamond bur) + polishing, Group 2 - grinding (fine-grit diamond bur) + polishing, and Group 3 - grinding (fine grit diamond bur). Each specimen was analyzed by 3D-OM, XRD analysis, and biaxial flexural strength test.
+RESULTSBased on the surface morphology by 3D-OM images, polished specimens showed smoother surface and lower roughness value (Ra). In the result of XRD analysis, partial phase transformation from tetragonal to monoclinic zirconia occurred in all groups. Control group, ground with a coarse grit diamond bur, showed more t→m phase transformation and lower flexural strength than Groups 1 and 2 significantly.
+CONCLUSIONThe flexural strength in all specimens after grinding and polishing showed over 500 MPa, and those were clinically acceptable. However, grinding with a coarse grit diamond bur without polishing induced the phase transformation and low strength. Therefore, surface polishing is required for the occlusal adjustment using a high speed zirconia diamond bur to reduce the phase transformation and to prevent the decrease of flexural strength of zirconia.
+
+## INTRODUCTION
+
+Recently, along with developments in dental techniques using computer-aided design and computer-aided manufacturing (CAD/CAM),12 the use of zirconia has been gradually increasing in dental prosthetic clinics because of its merits such as good mechanical and chemical properties, biocompatibility, and esthetics.
+
+In general, zirconia possesses three types of polymorphism: monoclinic phase, tetragonal phase, and cubic phase. It is known that zirconia exists in the monoclinic phase at room temperature, but remains stable in the tetragonal phase at 1170 – 2370℃. It exhibits the prismatic phase under high pressure, and the rhombohedral phase when being ground or polished.345 To maintain the stable tetragonal phase even at room temperature, metal oxides such as MgO, CaO, or Y2O3 should be added. As a result, the temperature for transitioning to the monoclinic phase is lowered to room temperature. Currently, 3 mol% yttria-doped tetragonal zirconia polycrystal (3Y-TZP) with 3% of Y2O3 is the most widely used material for this process.
+
+The primary advantages of zirconia, its excellent strength and toughness, are related to the phase transformation of zirconia according to the temperature; after high-temperature sintering, while zirconia is being cooled to room temperature, the tetragonal phase is transformed to the monoclinic phase. At this point, the volume increases by 3 – 5%. The volume increase of such a single lattice induces compression stress on the surface, thereby preventing the development of cracks and increasing its strength.6 However, if phase change occurs too frequently, the physical properties deteriorate because of stress and crack development.7
+
+Zirconia prostheses require an occlusal adjustment before setting in a mouth. Previous studies have reported that when the zirconia surface is ground or polished, a surface stress layer is formed, and so if this adjustment process continues for a long time, the depth stress increases, causing decrease of flexural strength.2589 In addition, such decrease is reportedly related to the degree of phase transformation from tetragonal phase to monoclinic phase, which is affected by the amount of grinding or polishing, the type of instruments used, particle size, and heat generated during the adjustment process.2
+
+3Y-TZP has hardness of more than 1,200 HVN, indicating that it is harder than ceramic and enamel.10 To grind or polish such a hard material, a bur having higher grinding efficiency is needed. Accordingly, low-speed grinding and polishing burs for zirconia, which have denser diamond particles, have been developed and are currently sold in the market. In these burs, diamond grit is implanted in the existing silicone stone or ceramic material, thus increasing the grinding efficiency and reducing heat generation. Recently, high-speed grinding and polishing burs for zirconia have also been developed. In clinics, high-speed burs are often used to efficiently grind and polish zirconia prosthetic appliances. Işeri et al.2 reported that when the high-speed bur is used, the degree of flexural strength decrease becomes less, as well as producing less heat. However, there are still not many kinds of high-speed burs for zirconia, and the effect of using these burs is not clearly known. For that reason, general diamond burs are often used in most cases. The high-speed grinding and polishing bur for zirconia is recommended for use, but studies on the resulting change in the physical properties of zirconia are very limited. Clear application standards about the particle size of the burs and about whether to polish after use have not been established yet. Thus, the experience and preference of clinical practitioners determine the above issues.
+
+Accordingly, the goal of this study is to compare and evaluate how the use of high speed grinding devices with different roughness and polishing affect the surface morphology, phase transformation, and change in flexural strength. An experiment of grinding samples with high-speed burs of different particle sizes and compare the differences arising from polishing and non-polishing after grinding was conducted. The null hypotheses of this study are that bur roughness and polishing do not increase the surface roughness and phase transformation of zirconia, and bur roughness and polishing do not decrease the flexural strength.
+
+## MATERIALS AND METHODS
+
+Using a 3Y-TZP monolithic zirconia block (Prettau, Zirkonzahn, Bruneck, Italy), we used CAD/CAM (Zirkonzahn, Italy) to fabricate disc-shaped (diameter 15 mm, thickness 1.25 mm) 40 samples, which have small cylindrical shape protrusions of diameter 3 mm and height 1 mm at the center (Fig. 1). By fabricating the samples with such a protrusion, we tried to simulate the clinical prosthetic adjustment situation where only a small part with high occlusion is ground.2
+
+The samples were randomly selected and classified into four groups according to the types of different burs used and whether they would be polished or not (Table 1).
+
+According to the manufacturer, the diamond bur for zirconia has more densely coordinated diamond particles than general diamond burs. As a result, the cutting efficiency is improved, and surface roughness after cutting is reduced. We used the high-speed burs for zirconia (Komet diamond bur, Lemgo, Germany), and two kinds of burs with two types of roughness: coarse (Komet Zr 6881, ISO 314.016, 150 µm) and fine (Komet Zr8881, ISO 314.016, 50 µm) (Fig. 2).
+
+For uniform grinding, grinding was carried out until the cylindrical protrusion of the upper section was removed; the final thickness was set to be 1.25 ± 0.02 mm. After grinding, the ground surfaces of Groups 1 and 2 were polished using NTI ceramic polisher (NTI, Kahla, Germany), and those of control group and Group 3 were left unpolished.
+
+The samples were ground and polished in the following process by one clinician at constant pressure. Grinding was carried out with a high-speed handpiece (Taurus G2, Shinhung, Seoul, Korea) at 300,000 rpm until all the center part is cut, while water was being sprayed. Polishing was carried out with the low-speed handpiece (Taurus G2, Shinhung, Seoul, Korea) at 20,000 rpm for the 10 seconds, without water being sprayed.
+
+The microstructure of each sample surface was examined using FE-SEM (Hitach S4700, Tokyo, Japan). The average surface roughness (Ra) of the samples after grinding and polishing were measured using 3-dimensional optical microscopy (3D-OM, Nikon LV150L, Tokyo, Japan).
+
+To examine the crystallographic phase change of four groups, X-ray diffractometer (X'pert powder, PANalytical, Almelo, Netherlands) was used. The irradiation condition was as follows: Cu Kα radiation, 40 kV, 30 mA, 0.03°/step, 27 – 65 θ range.
+
+The Garvie and Nicholson method11 was used to calculate the relative variance of monoclinic phase (Xm) after surface treatment. This is the most common method to evaluate the transformation from tetragonal to monoclinic phase. The variance calculation is as follows: Xm= (I−(111)m+I(111)m) / (I−(111)m+I(111)m+I(111)t)
+
+(I: Integral intensity at 2θ, (111)t: tetragonal peak, −(111)m & (111)m: main peak of monoclinic phase)
+
+To measure the strength change of each sample after grinding and polishing, the biaxial flexural strength test was carried out according to ISO standard 6872 for dental ceramic.12
+
+Three balls with a diameter of 3.4 mm were positioned in a support plate of a diameter 10 mm in an equilateral triangle. A load of 500 g was then applied by a swage with a flat circular cross section of 1.4 mm, using a universal testing machine (DSC-500, Shimadzu Corp., Kyoto, Japan). The crosshead speed was set to be 0.5 mm/min, and a plastic sheet of thickness 0.05 mm was positioned to disperse weight (Fig. 3).
+
+A load to fracture (N) was recorded, and flexural strength (S) was calculated by the following formula, using Poisson's ratio (0.25).12
+S = − 0.2387P(X−Y) / d2
+X: (1 + υ) ln(r2 / r3)2 + [(1 − υ) / 2] (r2 / r3)
+Y: (1 + υ) [1 + ln(r1 / r3)2 ] + (1 − υ) (r1 / r3)2
+
+(S: Maximum tensile stress in MPa, P: Total load causing fracture in N, υ: Poisson's ratio, r1: the radius of the support circle (mm), r2: the radius of the load area (mm), r3: the radius of the specimen (mm), d: the specimen thickness at fracture origin (mm))
+
+The statistical analysis was performed to compare the data of amount of phase transformation (Xm) and flexural strength among the groups. First, the normality and homogeneity of variance of the four independent groups was tested. One-way ANOVA was used because all test values of four independent groups satisfied the assumption of the normality, but violated the homogeneity of variance. As a post-hoc test, Games-Howell test was performed, and less than P < .05 was analyzed as statistically significant.
+
+## RESULTS
+
+The microstructure of the surface of each group was measured by FE-SEM. Groups 1 and 2, which were polished after grinding, exhibited smooth surfaces and Control group and Group 3, which were not polished, exhibited rough surfaces mechanically generated by the burs on which grinding fragments were observed (Fig. 4). Surface roughness of each sample was analyzed using 3D-OM. The surface roughness was higher in the order of Control group, Group 3, Group 1, and Group 2. In other words, Control group, which was ground by a coarse bur but not polished, exhibited the roughest surface, and in case of using a bur with similar roughness, the polished groups (Groups 1 and 2) showed lower surface roughness than the unpolished groups (control group and Group 3) (Table 2).
+
+Phase transformation of each sample was analyzed by XRD. All the experimental groups that were ground and polished exhibited a transformation to monoclinic phase. The variance was higher in the order of Control group > Group 3 ≥ Group 1 ≥ Group 2. Especially, Control group, which was ground by a coarse bur and not polished, exhibited the highest rate of monoclinic transition compared to Groups 1 and 2 (P < .001) (Table 3).
+
+The flexural strength of the experimental groups was measured. The flexural strength of the experimental groups was higher in the order of Group 2 ≥ Group 1 ≥ Group 3 ≥ Control group. In case of the groups that were polished with a coarse bur, the unpolished control group presented significantly lower flexural strength than the polished Groups 1 and 2. However, in case of the groups with a fine bur, significant difference depending on polishing was not found (Table 4).
+
+After the flexural strength experiment, the fractured area was examined by FE-SEM. The experimental Groups 1 and 2, which were polished after grinding, exhibited crack lines that started from the surface of the samples and progressed inwards (Fig. 5. B, C). The unpolished experimental Control group and Group 3 showed fractures that generated from the ground area (Fig. 5. A, D).
+
+## DISCUSSION
+
+To restore using zirconia crown, high strength resistible to masticatory force especially at the posterior is required. Accordingly, restoring with full zirconia, which indicates fabrication of prosthetic appliances with only zirconia without veneering of the ceramic of the upper section, is mainly used. The process of using full zirconia is simple and the number of errors decreases, as techniques such as ceramic castellation are not needed. Furthermore, it prevents fractures that may occur on the interface with the veneered ceramic, hitherto one of the most problematic issues.
+
+On the other hand, unlike general ceramic materials, in case of using the full zirconia material, the selection of the device and method considering the material characteristics of zirconia is crucial for occlusal adjustment. This is because the physical properties of zirconia and the clinical success of the prosthesis can be affected by the selection of a bur considering the amount of occlusal adjustment and grinding efficiency required and the need for polishing. In this study, the high-speed burs and low-speed polishing devices are used to investigate this hypothesis.
+
+Many results have reported that occlusal adjustment by grinding can increase the surface roughness of zirconia9, which can also lead to enamel abrasion of antagonistic teeth and decrease in flexural strength.813 In this study, surface roughness also increased after grinding, and decreased after polishing. In addition, as surface roughness increased, flexural strength was found to decrease, similar to previously reported results.14
+
+The XRD analysis, which identifies the relative crystal structure by measuring the refracted angles after irradiation by X-ray, is generally used to examine phase transformation. In this study, phase transformation was observed in all experimental groups, indicating that grinding and polishing leads to phase transformation. Some studies reported that the peak of the monoclinic phase is not observed after grinding, and transformation to the rhombohedral phase, instead to the monoclinic phase, occurs.1516 However, according to Hasegawa17 2θ value of maximum strength peak (111) of rhombohedral phase is 29.72°, while it was found to be 28.10° in this study, which indicates that transition to monoclinic phase, not to rhombohedral phase, occurred.
+
+In this study, the amount of phase transformation to monoclinic phase (Xm) was larger in the unpolished test groups than in the polished test groups. Particularly, the control group, in which a coarse bur was used but polishing was not carried out, showed significantly higher the amount of monoclinic phase than the other experimental groups. This is because the use of a coarse bur triggered the transition to the monoclinic phase, and polishing after grinding readily removed the monoclinic phase existing only on the shallow surfaces,18 thus leading to less phase variance. Accordingly, in the case of using a fine bur, the polishing effect is insignificant because of the small amount of phase transformation. However, for adjusting a zirconia prosthesis with a coarse bur, polishing is needed to minimize the deterioration of physical properties due to phase change.
+
+According to ISO 13356, when autoclaving is conducted for 5 hours at 134 ± 2℃ and 0.2 MPa, phase change of less than 25% and strength change of less than 20% are the clinically allowable levels for zirconia prosthesis.18 Therefore, phase transformation by grinding and polishing, presented in this study, can be said to be at a clinically allowable level. However, the fact that monoclinic phase occurred on surfaces indicates that micro-cracks may occur on the surfaces due to an increase of volume, thus weakening the strength of zirconia. This was proved in this study. Control group with a relatively high amount of phase transformation exhibited lower flexural strength than other experimental groups.
+
+In the observation of the samples fractured after the flexural strength test, it was found that fractures developed along the convexo-concave rough surfaces, and microcracks developed in the depths of these surfaces, indicating that change of surface roughness and phase transformation through grinding and polishing may affect the fractures.
+
+This study assumed a situation of occlusal adjustment in the clinic, and the grinding and polishing was performed by one of the clinician. Although handpiece speed and grinding and polishing time were set and the pressure was kept as constant as possible, the pressure may not be as constant as pressure under experimental equipment.
+
+Further tests and research to measure fatigue strength, under various conditions modeling the masticatory process, are needed to simulate the situation inside the oral cavity.
+
+## CONCLUSION
+
+The null hypotheses were rejected. In all groups, the surface roughness of zirconia increased after grinding and polishing. When samples were ground using the coarse bur without being polished afterwards, the roughest surface morphology was exhibited. When samples were ground and polished, surface roughness decreased.
+
+In all groups, phase transformation to the monoclinic phase was observed after grinding and polishing. When samples were ground using the coarse bur without being polished, the most significant phase transformation was found. When samples were polished, the monoclinic phase was reduced.
+
+When samples were ground using the coarse bur without being polished, the lowest flexural strength was found. However, all groups exhibited strength of more than 500 MPa, thereby being clinically allowable.
+
+From the results of this study, we conclude that when conducting zirconia occlusal adjustment, using the coarse diamond increases surface roughness and causes phase transformation to the monoclinic phase, thus reducing flexural strength. Therefore, polishing process after grinding should be carried out. In addition, surface grinding and polishing may change the physical properties of zirconia. So, to minimize this problem, the zirconia prostheses should be fabricated based on an accurate clinical and laboratory process.
